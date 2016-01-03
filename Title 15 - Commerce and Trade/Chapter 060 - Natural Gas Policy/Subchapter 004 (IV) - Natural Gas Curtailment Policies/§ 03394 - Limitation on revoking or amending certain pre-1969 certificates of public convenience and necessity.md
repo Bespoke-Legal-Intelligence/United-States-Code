@@ -6,11 +6,11 @@ The Commission may not, during the 10-year period beginning on November 9, 1978,
 
 #### (b) Commission curtailment authority
 
-The limitation under subsection (a) of this section shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
+The limitation under subsection (a) shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
 (Pub. L. 95–621, title IV, §404, Nov. 9, 1978, 92 Stat. 3396.)
 
 #### References in Text
 
-The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which isclassified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
 

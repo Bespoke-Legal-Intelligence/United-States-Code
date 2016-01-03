@@ -10,7 +10,7 @@
 
 &emsp;In carrying out the program, the Secretary shall—
 
-&emsp;&emsp;(A) enter into such arrangements as may be necessary to provide for the coordination of the program through the State committees established under the Experimental Program to Stimulate Competitive Research of the National Science Foundation; and
+&emsp;&emsp;(A) enter into such arrangements as may be necessary to provide for the coordinationof the program through the State committees established under the Experimental Program to Stimulate Competitive Research of the National Science Foundation; and
 
 &emsp;&emsp;(B) cooperate with—
 
@@ -74,13 +74,13 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (C) Review panels
 
-&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review anyapplication has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
+&emsp;&emsp;Each application submitted under this subsection by an eligible institution shall be reviewed by a panel of individuals selected by the Secretary to judge the quality and merit of the proposal, including the extent to which the eligible institution can effectively and successfully utilize the proposed grant, cooperative agreement, or contract to carry out the program described in paragraph (1). The Secretary shall ensure that the review panels include representatives of minority serving institutions and others who are knowledgeable about eligible institutions and technology issues. The Secretary shall ensure that no individual assigned under this subsection to review any application has a conflict of interest with regard to that application. The Secretary shall take into consideration the recommendations of the review panel in determining whether to award a grant, cooperative agreement, or contract to an eligible institution.
 
 #### (3) Awards
 
 #### (A) Limitation
 
-&emsp;&emsp;An eligible institution that receives a grant, cooperative agreement, or contract under this subsection that exceeds $2,500,000 shall not be eligible to receive another grant, cooperative agreement, or contract under this subsection.
+&emsp;&emsp;An eligible institution that receives a grant, cooperative agreement, or contract under this subsection that exceeds $2,500,000 shall not be eligible to receive anothergrant, cooperative agreement, or contract under this subsection.
 
 #### (B) Consortia
 
@@ -138,7 +138,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;&emsp;&emsp;(I) an evaluation of the effectiveness of the program established under paragraph (1) in improving the education and training of students, faculty, and staff at eligible institutions that have been awarded grants, cooperative agreements, or contracts under the program;
 
-&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to,and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
+&emsp;&emsp;&emsp;&emsp;(II) an evaluation of the effectiveness of the program in improving access to, and familiarity with, digital and wireless networking technology for students, faculty, and staff at all eligible institutions;
 
 &emsp;&emsp;&emsp;&emsp;(III) an evaluation of the procedures established under paragraph (2)(A); and
 
@@ -146,7 +146,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (iii) Review of reports
 
-&emsp;&emsp;&emsp;In carrying out the assessments under this subparagraph, the National Academy of Public Administration shall review the reports submitted to the Secretary under subparagraph (A).
+&emsp;&emsp;&emsp;In carrying out the assessments under this subparagraph, the National Academy of Public Administration shall review thereports submitted to the Secretary under subparagraph (A).
 
 #### (iv) Report to Congress
 
@@ -206,9 +206,11 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 &emsp;&emsp;The term "State educational agency" has the meaning given the term in section 7801 of title 20.
 
-(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, §7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, §971, Aug. 14, 2008, 122 Stat. 3473.)
+(Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, §7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, §971, Aug. 14, 2008, 122 Stat. 3473; Pub. L. 114–95, title IX, §9215(sss), Dec. 10, 2015, 129 Stat. 2190.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(8)(D), (G), (H). Pub. L. 114–95 made technical amendments to references in original act which appear in text as references to section 7801 of title 20.
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–315 added subsec. (c).
 
@@ -265,6 +267,10 @@ Subsec. (d). Pub. L. 99–382, §2(2), added subsec. (d). Former subsec. (d) red
 Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
 
 Pub. L. 99–382, §2(1), redesignated subsec. (d) as (e).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Construction
 

@@ -4,7 +4,7 @@
 
 #### (1) <sup>1</sup> In general
 
-&emsp;The Secretary of the Treasury shall instruct the United States Executive Directors of the international financial institutions (as defined in section 262r(c)(2) of this title) to promote growth in the international economy by taking into account, when considering whether to support or oppose loan proposals at these institutions, the extent to which the recipient government has demonstrated a commitment to achieving the following goals:
+&emsp;The Secretary of the Treasury shall instruct the United States Executive Directors of the international financial institutions (as definedin section 262r(c)(2) of this title) to promote growth in the international economy by taking into account, when considering whether to support or oppose loan proposals at these institutions, the extent to which the recipient government has demonstrated a commitment to achieving the following goals:
 
 &emsp;&emsp;(A) to provide accurate and complete data on the annual expenditures and receipts of the armed forces;
 

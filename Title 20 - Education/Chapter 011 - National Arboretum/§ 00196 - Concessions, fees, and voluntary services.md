@@ -18,7 +18,7 @@ Notwithstanding chapters 1 to 11 and section 1302 of title 40 and division C (ex
 
 &emsp;(5) charge such fees as the Secretary of Agriculture considers reasonable for the use of the National Arboretum for commercial photography or cinematography;
 
-&emsp;(6) publish, in print and electronically and without regard to laws relating to printing by the Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
+&emsp;(6) publish, in print and electronically and without regard to laws relating to printing bythe Federal Government, informational brochures, books, and other publications concerning the National Arboretum or the collections of the Arboretum; and
 
 &emsp;(7) license use of the National Arboretum name and logo for public service or commercial uses.
 

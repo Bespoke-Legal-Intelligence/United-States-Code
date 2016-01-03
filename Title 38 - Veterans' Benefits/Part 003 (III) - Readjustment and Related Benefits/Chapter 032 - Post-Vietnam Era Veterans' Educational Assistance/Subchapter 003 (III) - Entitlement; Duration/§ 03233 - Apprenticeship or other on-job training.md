@@ -6,7 +6,7 @@
 
 &emsp;(2) for each of the second six months of the individual's pursuit of such program, 55 percent of such monthly benefit payment; and
 
-&emsp;(3) for each of the months following the first 12 months of the individual's pursuit of suchprogram, 35 percent of such monthly benefit payment.
+&emsp;(3) for each of the months following the first 12 months of the individual's pursuit of such program, 35 percent of such monthly benefit payment.
 
 (b) In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of the monthly benefit payment payable under this chapter to the individual shall be limited to the same proportion of the applicable rate determined under subsection (a) of this section as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
 

@@ -34,7 +34,7 @@ Any witness who is a member of the Service or employee of the Department shall b
 
 #### (e) Expedition of security clearance procedures
 
-The Department will use its best endeavors to expedite security clearance procedures whenever necessary to assure a fair and prompt resolution of a grievance.
+The Department will use its best endeavors to expedite security clearance procedures whenevernecessary to assure a fair and prompt resolution of a grievance.
 
 (Pub. L. 96–465, title I, §1103, Oct. 17, 1980, 94 Stat. 2143; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §329\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
 

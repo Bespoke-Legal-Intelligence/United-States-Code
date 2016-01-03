@@ -2,17 +2,17 @@
 
 #### (a) Private rights of action based on contemporaneous trading
 
-Any person who violates any provision of this chapter or the rules or regulations thereunderby purchasing or selling a security while in possession of material, nonpublic information shall be liable in an action in any court of competent jurisdiction to any person who, contemporaneously with the purchase or sale of securities that is the subject of such violation, has purchased (where such violation is based on a sale of securities) or sold (where such violation is based on a purchase of securities) securities of the same class.
+Any person who violates any provision of this chapter or the rules or regulations thereunder by purchasing or selling a security while in possession of material, nonpublic information shall be liable in an action in any court of competent jurisdiction to any person who, contemporaneously with the purchase or sale of securities that is the subject of such violation, has purchased (where such violation is based on a sale of securities) or sold (where such violation is based on a purchase of securities) securities of the same class.
 
 #### (b) Limitations on liability
 
 #### (1) Contemporaneous trading actions limited to profit gained or loss avoided
 
-&emsp;The total amount of damages imposed under subsection (a) of this section shall not exceed the profit gained or loss avoided in the transaction or transactions that are the subject of the violation.
+&emsp;The total amount of damages imposed under subsection (a) shall not exceed the profit gained or loss avoided in the transaction or transactions that are the subject of the violation.
 
 #### (2) Offsetting disgorgements against liability
 
-&emsp;The total amount of damages imposed against any person under subsection (a) of this section shall be diminished by the amounts, if any, that such person may be required to disgorge, pursuant to a court order obtained at the instance of the Commission, in a proceeding brought under section 78u(d) of this title relating to the same transaction or transactions.
+&emsp;The total amount of damages imposed against any person under subsection (a) shall be diminished by the amounts, if any, that such person may be required to disgorge, pursuant to a court order obtained at the instance of the Commission, in a proceeding brought under section 78u(d) of this title relating to the same transaction or transactions.
 
 #### (3) Controlling person liability
 
@@ -24,7 +24,7 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (c) Joint and several liability for communicating
 
-Any person who violates any provision of this chapter or the rules or regulations thereunder by communicating material, nonpublic information shall be jointly and severally liable under subsection (a) of this section with, and to the same extent as, any person or persons liable under subsection (a) of this section to whom the communication was directed.
+Any person who violates any provision of this chapter or the rules or regulations thereunder by communicating material, nonpublic information shall be jointly and severally liable under subsection (a) with, and to the same extent as, any person or persons liable under subsection (a) to whom the communication was directed.
 
 #### (d) Authority not to restrict other express or implied rights of action
 
@@ -42,5 +42,5 @@ This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the origina
 
 #### Effective Date
 
-Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78o of this title.
+Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out asan Effective Date of 1988 Amendment note under section 78o of this title.
 

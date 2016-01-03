@@ -28,7 +28,7 @@ Duties.—A Reserve on active duty under subsection (a) may perform the followin
 
 &emsp;&emsp;(A) active-duty members of the armed forces;
 
-&emsp;&emsp;(B) members of foreign military forces (under the same authorities and restrictions applicable to active-duty members providing such instruction or training);
+&emsp;&emsp;(B) members of foreign military forces (under the same authorities and restrictionsapplicable to active-duty members providing such instruction or training);
 
 &emsp;&emsp;(C) Department of Defense contractor personnel; or
 
@@ -96,7 +96,7 @@ Subsection (b) is substituted for 50:962 (less 1st and 2d sentences).
 
 <b>2006</b>—Subsecs. (a), (b). Pub. L. 109–364, §525(a), amended subsecs. (a) and (b) generally, substituting provisions relating to authority of the Secretary concerned to order a member of a reserve component to active duty and setting forth duties including supporting operations or missions, providing advice regarding reserve component matters, and providing instruction or training of active-duty members of the armed forces or foreign military forces and Department of Defense contractor personnel or civilian employees, for provisions relating to grade when a Reserve is ordered to active duty and setting forth duties including supporting operations or missions and providing advice regarding reserve component matters.
 
-Subsec. (c). Pub. L. 109–364, §527(b)(1), substituted "Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks" for "Duties Relating to Defense Against Weapons of Mass Destruction" in heading.
+Subsec. (c). Pub. L. 109–364, §527(b)(1), substituted "Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks" for "DutiesRelating to Defense Against Weapons of Mass Destruction" in heading.
 
 Subsec. (c)(1). Pub. L. 109–364, §527(a)(1)(A), substituted "involving any of the following:" for "involving—" in introductory provisions.
 

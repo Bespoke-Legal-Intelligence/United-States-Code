@@ -10,7 +10,7 @@ Section 3287, acts Aug. 10, 1956, ch. 1041, 70A Stat. 182; Sept. 2, 1958, Pub. L
 
 Section 3288, acts Aug. 10, 1956, ch. 1041, 70A Stat. 183; Aug. 21, 1957, Pub. L. 85–155, title I, §101(7), 71 Stat. 376; Sept. 2, 1958, Pub. L. 85–861, §1(75), 72 Stat. 1466, provided for determination of grade of a person originally appointed as a commissioned officer in Regular Army, except in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See section 533 of this title.
 
-Section 3289, act Aug. 10, 1956, ch. 1041, 70A Stat. 183, provided that no person be originally appointed as afirst lieutenant in Regular Army in Medical Corps until he passes an examination of his professional fitness before an examining board composed of at least three officers of Medical Corps designated by Secretary of the Army. See section 532 of this title.
+Section 3289, act Aug. 10, 1956, ch. 1041, 70A Stat. 183, provided that no person be originally appointed as a first lieutenant in Regular Army in Medical Corps until he passes an examination of his professional fitness before an examining board composed of at least three officers of Medical Corps designated by Secretary of the Army. See section 532 of this title.
 
 Section 3290, act Aug. 10, 1956, ch. 1041, 70A Stat. 183, provided that an original appointment in Regular Army in Medical Service Corps be made only in grade of second lieutenant and from members of Regular Army, reserves not in an inactive status, or graduates of an accredited school of pharmacy or optometry, or of a school or college who hold a degree in a science allied to medicine or any other degree approved by Surgeon General. See section 532 of this title.
 

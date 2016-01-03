@@ -8,7 +8,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(3) publicize, in an appropriate manner, proposed programs and provide an opportunity for interested groups or individuals to submit comments on such programs. At the request of interested parties, the Board, in its discretion, may hold hearings with regard to such programs. Such comments and hearings may be considered by the Board;
 
-&emsp;(4) encourage activities of standardization organizations to develop or revise, as rapidly as practicable, engineering standards on a metric measurement basis, and to take advantage of opportunities to promote (A) rationalization or simplification of relationships, (B) improvements of design, (C) reduction of size variations, (D) increases in economy, and (E) where feasible, the efficient use of energy and the conservation of natural resources;
+&emsp;(4) encourage activities of standardization organizations to develop or revise, as rapidly as practicable, engineering standards on a metric measurement basis, and to take advantage of opportunities to promote (A) rationalization or simplification of relationships, (B)improvements of design, (C) reduction of size variations, (D) increases in economy, and (E) where feasible, the efficient use of energy and the conservation of natural resources;
 
 &emsp;(5) encourage the retention, in new metric language standards, of those United States engineering designs, practices, and conventions that are internationally accepted or that embody superior technology;
 

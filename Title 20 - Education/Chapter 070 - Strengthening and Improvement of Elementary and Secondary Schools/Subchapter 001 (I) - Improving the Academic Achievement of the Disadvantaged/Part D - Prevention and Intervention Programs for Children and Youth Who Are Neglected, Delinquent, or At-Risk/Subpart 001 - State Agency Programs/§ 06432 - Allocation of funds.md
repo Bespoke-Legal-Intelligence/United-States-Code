@@ -32,21 +32,13 @@
 
 &emsp;For each fiscal year, the amount of the subgrant which a State agency in the Commonwealth of Puerto Rico shall be eligible to receive under this subpart shall be the amount determined by multiplying the number of children counted under subsection (a)(1)(A) of this section for the Commonwealth of Puerto Rico by the product of—
 
-&emsp;&emsp;(A) the percentage which the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
+&emsp;&emsp;(A) the percentage which the average per-pupil expenditure in the Commonwealth ofPuerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
 
 &emsp;&emsp;(B) 32 percent of the average per-pupil expenditure in the United States.
 
 #### (2) Minimum percentage
 
-&emsp;The percentage in paragraph (1)(A) shall not be less than—
-
-&emsp;&emsp;(A) for fiscal year 2002, 77.5 percent;
-
-&emsp;&emsp;(B) for fiscal year 2003, 80.0 percent;
-
-&emsp;&emsp;(C) for fiscal year 2004, 82.5 percent; and
-
-&emsp;&emsp;(D) for fiscal year 2005 and succeeding fiscal years, 85.0 percent.
+&emsp;The percentage in paragraph (1)(A) shall not be less than 85 percent.
 
 #### (3) Limitation
 
@@ -60,9 +52,17 @@
 
 If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) of this section is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
 
-(Pub. L. 89–10, title I, §1412, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1581.)
+(Pub. L. 89–10, title I, §1412, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1581; amended Pub. L. 114–95, title I, §1401(2), Dec. 10, 2015, 129 Stat. 1900.)
 
 #### Prior Provisions
 
-A prior section 6432, Pub. L. 89–10, title I, §1412, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3592, related to allocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6432, Pub. L. 89–10, title I, §1412, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3592, related to allocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(2). Pub. L. 114–95 added par. (2) and struck out former par. (2) which related to minimum percentage for fiscal year 2002, fiscal year 2003, fiscal year 2004, and fiscal year 2005 and succeeding fiscal years.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

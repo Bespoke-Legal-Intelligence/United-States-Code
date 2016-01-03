@@ -12,11 +12,11 @@ Prohibition on Certain Disclosures.—
 
 In general.—An officer, employee, or contractor of the Bureau may not—
 
-&emsp;&emsp;(A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) can be identified;
+&emsp;&emsp;(A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) or section 6314(b) can be identified;
 
-&emsp;&emsp;(B) use the information provided under section 6302(b)(3)(B) for a nonstatistical purpose; or
+&emsp;&emsp;(B) use the information provided under section 6302(b)(3)(B) or section 6314(b) for a nonstatistical purpose; or
 
-&emsp;&emsp;(C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B).
+&emsp;&emsp;(C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B) or section 6314(b).
 
 &emsp;(2)
 
@@ -24,7 +24,7 @@ Copies of reports.—
 
 &emsp;&emsp;(A)
 
-In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed undersection 6302(b)(3)(B) with the Bureau or retained by an individual respondent.
+In general.—No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
 
 &emsp;&emsp;(B)
 
@@ -50,7 +50,15 @@ Transportation and Transportation-related Data Access.—The Director shall be p
 
 &emsp;(2) information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 
-(Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 892.)
+(Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 892; amended Pub. L. 114–94, div. A, title VI, §6018(b), Dec. 4, 2015, 129 Stat. 1577.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–94 inserted "or section 6314(b)" after "section 6302(b)(3)(B)" wherever appearing.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

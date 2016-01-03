@@ -28,7 +28,7 @@
 
 #### (3) Transition period
 
-&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governors shall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
+&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governorsshall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
 
 #### (4) Budget and financial management
 
@@ -70,7 +70,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;The Comptroller General shall submit to the Congress a report of each annual audit conducted under this subsection. The report to the Congress shall set forth the scope of the audit and shall include the statement of assets and liabilities and surplus or deficit,the statement of income and expenses, the statement of sources and application of funds, and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Bureau, together with such recommendations with respect thereto as the Comptroller General may deem advisable. A copy of each report shall be furnished to the President and to the Bureau at the time submitted to the Congress.
+&emsp;&emsp;The Comptroller General shall submit to the Congress a report of each annual audit conducted under this subsection. The report to the Congress shall set forth the scope of the audit and shall include the statement of assets and liabilities and surplus or deficit, the statement of income and expenses, the statement of sources and application of funds, and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Bureau, together with such recommendations with respect thereto as the Comptroller General may deem advisable. A copy of each report shall be furnished to the President and to the Bureau at the time submitted to the Congress.
 
 #### (C) Assistance and costs
 
@@ -80,7 +80,7 @@
 
 #### (1) Separate fund in Federal Reserve established
 
-&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "Bureau Fund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
+&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "BureauFund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
 
 #### (2) Fund receipts
 
@@ -134,7 +134,7 @@
 
 #### (B) Report required
 
-&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare areport regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit the report to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit the report to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
 
 #### (2) Authorization of appropriations
 

@@ -10,13 +10,13 @@ Notes or other obligations guaranteed pursuant to this subchapter shall be in su
 
 #### (c) Limitation on outstanding guarantees
 
-No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III of this chapter.
+No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III.
 
 #### (d) Limitation on percentage
 
 A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
 
-(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116Stat. 2054; Pub. L. 108–393, §2, Oct. 30, 2004, 118 Stat. 2246.)
+(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 108–393, §2, Oct. 30, 2004, 118 Stat. 2246.)
 
 #### References in Text
 

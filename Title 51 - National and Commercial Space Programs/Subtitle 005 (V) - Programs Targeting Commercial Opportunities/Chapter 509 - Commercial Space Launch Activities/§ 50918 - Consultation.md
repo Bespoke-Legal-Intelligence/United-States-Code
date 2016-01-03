@@ -18,7 +18,7 @@ Other Matters.—In carrying out this chapter, the Secretary of Transportation s
 
 &emsp;(3) when appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918 of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 
 Historical and Revision Notes
 
@@ -57,4 +57,82 @@ In subsection (c), before clause (1), the words "the head of" and "executive" ar
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70116 of title 49 and section 70116 of this title as this section.
+
+#### Streamline Commercial Space Launch Activities
+
+Pub. L. 114–92, div. A, title XVI, §1617, Nov. 25, 2015, 129 Stat. 1106, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that eliminating duplicative requirements and approvals for commercial launch and reentry operations will promote and encourage the development of the commercial space sector.
+
+"(b)
+
+Reaffirmation of Policy.—Congress reaffirms that the Secretary of Transportation, in overseeing and coordinating commercial launch and reentry operations, should—
+
+&emsp;"(1) promote commercial space launches and reentries by the private sector;
+
+&emsp;"(2) facilitate Government, State, and private sector involvement in enhancing United States launch sites and facilities;
+
+&emsp;"(3) protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and
+
+&emsp;"(4) consult with the head of another executive agency, including the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration, as necessary to provide consistent application of licensing requirements under chapter 509 of title 51, United States Code.
+
+"(c)
+
+Requirements.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Transportation under section 50918 of title 51, United States Code, and subject to section 50905(b)(2)(C) of that title, shall consult with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and the heads of other executive agencies, as appropriate—
+
+&emsp;&emsp;"(A) to identify all requirements that are imposed to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle; and
+
+&emsp;&emsp;"(B) to evaluate the requirements identified in subparagraph (A) and, in coordination with the licensee or transferee and the heads of the relevant executive agencies—
+
+&emsp;&emsp;&emsp;"(i) determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency; and
+
+&emsp;&emsp;&emsp;"(ii) resolve any inconsistencies and remove any outmoded or duplicative requirements or approvals of the Federal Government relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle.
+
+&emsp;"(2)
+
+Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the appropriate congressional committees a report that includes the following:
+
+&emsp;&emsp;"(A) A description of the process for the application for and approval of a permit or license under chapter 509 of title 51, United States Code, for the commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, including the identification of—
+
+&emsp;&emsp;&emsp;"(i) any unique requirements for operating on a United States Government launch site, reentry site, or launch property; and
+
+&emsp;&emsp;&emsp;"(ii) any inconsistent, outmoded, or duplicative requirements or approvals.
+
+&emsp;&emsp;"(B) A description of current efforts, if any, to coordinate and work across executive agencies to define interagency processes and procedures for sharing information, avoiding duplication of effort, and resolving common agency requirements.
+
+&emsp;&emsp;"(C) Recommendations for legislation that may further—
+
+&emsp;&emsp;&emsp;"(i) streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and
+
+&emsp;&emsp;&emsp;"(ii) consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A).
+
+&emsp;"(3)
+
+Definitions.—For purposes of this subsection—
+
+&emsp;&emsp;"(A) any applicable definitions set forth in section 50902 of title 51, United States Code, shall apply;
+
+&emsp;&emsp;"(B) the term 'appropriate congressional committees' means—
+
+&emsp;&emsp;&emsp;"(i) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;&emsp;&emsp;"(ii) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;&emsp;"(iii) the Committee on Science, Space, and Technology of the House of Representatives; and
+
+&emsp;&emsp;&emsp;"(iv) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+&emsp;&emsp;"(C) the terms 'launch', 'reenter', and 'reentry' include landing of a launch vehicle or reentry vehicle; and
+
+&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site' include any necessary facility, at that location, that is commercially operated on United States Government property."
+
+Substantially identical provisions were contained in the following act:
+
+Pub. L. 114–90, title I, §113, Nov. 25, 2015, 129 Stat. 714.
 

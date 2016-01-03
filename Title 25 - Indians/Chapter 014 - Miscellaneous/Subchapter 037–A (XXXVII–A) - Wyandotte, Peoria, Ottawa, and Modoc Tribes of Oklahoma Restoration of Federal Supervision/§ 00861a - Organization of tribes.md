@@ -2,7 +2,7 @@
 
 #### (a) Modoc Tribe; extension of Federal recognition and assistance; applicability of provisions relating to Klamath Tribe; membership requirements
 
-(1) The Modoc Indian Tribe of Oklahoma is hereby recognized as a tribe of Indians residing in Oklahoma and the provisions of the Act of June 26, 1936, as amended (49 Stat. 1967; 25 U.S.C. 501–509), are hereby extended to such tribe and its members. The Secretary of the Interior shall promptly offer the said Modoc Tribe assistance to aid them in organizing under section 3 of said Act of June 26, 1936 (25 U.S.C. 503).
+(1) The Modoc Indian Tribe of Oklahoma is hereby recognized as a tribe of Indians residing in Oklahoma and the provisions of the Act of June 26, 1936, as amended (49 Stat. 1967; 25 U.S.C. 501–509), are hereby extended to such tribe and its members. The Secretary of the Interior shallpromptly offer the said Modoc Tribe assistance to aid them in organizing under section 3 of said Act of June 26, 1936 (25 U.S.C. 503).
 
 (2) The provisions of the Act of August 13, 1954 (68 Stat. 718; 25 U.S.C. 564–564w), hereafter shall not apply to the Modoc Tribe of Oklahoma or its members except for any right to share in the proceeds of any claim against the United States as provided in sections 6(c) and 21 of said Act, as amended \[25 U.S.C. 564e(c), 564t\].
 

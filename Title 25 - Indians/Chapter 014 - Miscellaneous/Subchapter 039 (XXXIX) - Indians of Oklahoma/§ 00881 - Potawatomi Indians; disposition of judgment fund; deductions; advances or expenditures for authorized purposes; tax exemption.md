@@ -6,7 +6,7 @@ The funds on deposit in the Treasury of the United States to the credit of the C
 
 #### References in Text
 
-Act of July 22, 1969, referred to in text, is Pub. L. 91–47, July 22, 1969, 83 Stat. 49, known as the Second Supplemental Appropriation Act, 1969. That portion of the act which appropriated the funds referred to was not classified to the Code.
+Act of July 22, 1969, referred to in text, is Pub. L. 91–47, July 22, 1969, 83 Stat. 49, known as the SecondSupplemental Appropriation Act, 1969. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

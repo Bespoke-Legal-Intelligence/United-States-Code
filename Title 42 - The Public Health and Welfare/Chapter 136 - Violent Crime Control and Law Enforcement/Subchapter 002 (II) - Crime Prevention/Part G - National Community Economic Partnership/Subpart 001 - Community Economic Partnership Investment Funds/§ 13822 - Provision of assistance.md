@@ -20,7 +20,7 @@ The Secretary of Health and Human Services (referred to in this part as the "Sec
 
 &emsp;&emsp;(C) demonstrate previous experience in the development of low-income housing or community or business development projects in a low-income community and provide a record of achievement with respect to such projects; and
 
-&emsp;&emsp;(D) have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit or letters of commitment) in an amount that is at least equal to the amount requested inthe application submitted under subparagraph (B).
+&emsp;&emsp;(D) have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit or letters of commitment) in an amount that is at least equal to the amount requested in the application submitted under subparagraph (B).
 
 #### (3) Exception
 

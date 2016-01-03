@@ -48,9 +48,9 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 (f)
 
-Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defenseshall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
+Reports.—Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 
-&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
+&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscalyear under subsection (a) and the purposes for which the contributions were made; and
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
@@ -97,4 +97,42 @@ Subsec. (g). Pub. L. 104–106, §1331(c)(2), added subsec. (g).
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §1070(a)(10)(A), inserted a comma after second reference to "Secretary of State".
 
 Subsec. (f). Pub. L. 103–337, §1070(a)(10)(B), struck out "the" before "Congress" in introductory provisions.
+
+#### Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces
+
+Pub. L. 114–92, div. B, title XXVIII, §2804, Nov. 25, 2015, 129 Stat. 1170, provided that:
+
+"(a)
+
+Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from the government of Kuwait for the purpose of paying for the costs of construction (including military construction not otherwise authorized by law), maintenance, and repair projects mutually beneficial to the Department of Defense and Kuwait military forces.
+
+"(b)
+
+Accounting.—Contributions accepted under subsection (a) shall be placed in an account established by the Secretary of Defense and shall remain available until expended as provided in such subsection.
+
+"(c)
+
+Prohibition on Use of Contributions To Offset Burden Sharing Contributions.—Contributions accepted under subsection (a) may not be used to offset any burden sharing contributions made by the government of Kuwait.
+
+"(d)
+
+Notice.—When a decision is made to carry out a project using contributions accepted under subsection (a) and the estimated cost of the project will exceed the thresholds prescribed by section 2805 of title 10, United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives written notice of decision, the justification for the project, and the estimated cost of the project.
+
+"(e)
+
+Mutually Beneficial Defined.—A project described in subsection (a) shall be considered to be 'mutually beneficial' if—
+
+&emsp;"(1) the project is in support of a bilateral defense cooperation agreement between the United States and the government of Kuwait; or
+
+&emsp;"(2) the Secretary of Defense determines that the United States may derive a benefit from the project, including—
+
+&emsp;&emsp;"(A) access to and use of facilities of the Kuwait military forces;
+
+&emsp;&emsp;"(B) ability or capacity for future force posture; and
+
+&emsp;&emsp;"(C) increased interoperability between the Department of Defense and Kuwait military forces.
+
+"(f)
+
+Expiration of Project Authority.—The authority to carry out projects under this section expires on September 30, 2020. The expiration of the authority does not prevent the continuation of any project commenced before that date."
 

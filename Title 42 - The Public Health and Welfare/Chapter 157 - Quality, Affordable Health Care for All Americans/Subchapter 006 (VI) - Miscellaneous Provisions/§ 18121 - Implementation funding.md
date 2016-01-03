@@ -12,7 +12,7 @@ There is appropriated to the Fund, out of any funds in the Treasury not otherwis
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsec. (a), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsec. (a), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act tothe Code, see Short Title note set out under section 18001 of this title and Tables.
 
 This Act, referred to in subsec. (a), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029, known as the Health Care and Education Reconciliation Act of 2010. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note under section 1305 of this title and Tables.
 

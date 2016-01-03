@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with section 552(b)(3) of title 5, except as provided in subparagraph (C) andparagraph (2), information described in subparagraph (B)—
+&emsp;&emsp;In accordance with section 552(b)(3) of title 5, except as provided in subparagraph (C) and paragraph (2), information described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be public information; and
 
@@ -206,7 +206,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (3) Implementation and notification
 
-&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and EnergyAct of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
 
 #### (j) Improved administrative efficiency and effectiveness
 

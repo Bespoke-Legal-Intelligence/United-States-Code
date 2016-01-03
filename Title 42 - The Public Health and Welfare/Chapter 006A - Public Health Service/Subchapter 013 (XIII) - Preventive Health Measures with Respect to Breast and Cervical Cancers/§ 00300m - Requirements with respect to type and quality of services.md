@@ -38,7 +38,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;(i) demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
 
-&emsp;&emsp;&emsp;(ii) provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
+&emsp;&emsp;&emsp;(ii) provides assurances, satisfactory to the Secretary, that the State will, on anannual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
 
 &emsp;&emsp;(D) the State involved submits to the Secretary—
 
@@ -46,7 +46,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
-&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the averagelevel of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
+&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
 
 &emsp;&emsp;&emsp;(ii) a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
 
@@ -120,7 +120,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (C) State
 
-&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the FederatedStates of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
 
 #### (6) Sunset
 

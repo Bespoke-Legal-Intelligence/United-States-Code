@@ -52,7 +52,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(i) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate payee covered by the order,
 
-&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to eachsuch alternate payee, or the manner in which such amount or percentage is to be determined,
+&emsp;(ii) the amount or percentage of the participant's benefits to be paid by the plan to each such alternate payee, or the manner in which such amount or percentage is to be determined,
 
 &emsp;(iii) the number of payments or period to which such order applies, and
 
@@ -158,7 +158,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(ii) such spouse is ordered or required in such judgment, order, decree, or settlement to pay an amount to the plan in connection with a violation of part 4 of this subtitle, or
 
-&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
+&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right toreceive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
 
 > A plan shall not be treated as failing to meet the requirements of section 1055 of this title solely by reason of an offset under this paragraph.
 
@@ -186,7 +186,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;For purposes of paragraph (1), the term "prohibited payment" means—
 
-&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
+&emsp;&emsp;(A) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 1054(b)(1)(G) of this title), to a participant or beneficiary whose annuity starting date (as defined in section 1055(h)(2) of this title), that occurs during the period referred to in paragraph (1),
 
 &emsp;&emsp;(B) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -236,7 +236,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;No amendment to a defined benefit plan which is a single-employer plan which has the effect of increasing liabilities of the plan by reason of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable may take effect during any plan year if the adjusted funding target attainment percentage for such plan year is—
+&emsp;&emsp;No amendment to a defined benefit plan which is a single-employer plan which has the effect of increasing liabilities of the plan by reason of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate atwhich benefits become nonforfeitable may take effect during any plan year if the adjusted funding target attainment percentage for such plan year is—
 
 &emsp;&emsp;&emsp;(i) less than 80 percent, or
 
@@ -298,7 +298,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;(iii) any other payment specified by the Secretary of the Treasury by regulations.
 
-> &emsp;&emsp;Such term shall not include the payment of a benefit which under section 1053(e) of this title may be immediately distributed without the consent of the participant.
+> &emsp;&emsp;Such term shall not include the payment of a benefit which under section 1053(e) of thistitle may be immediately distributed without the consent of the participant.
 
 #### (4) Limitation on benefit accruals for plans with severe funding shortfalls
 
@@ -390,7 +390,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Operation of plan after period
 
-&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the periodfor which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
+&emsp;&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under paragraph (3) or (4) applies.
 
 #### (B) Treatment of affected benefits
 
@@ -480,7 +480,7 @@ Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted "such Act" fo
 
 <b>1986</b>—Subsec. (d)(3)(E)(i). Pub. L. 99–514, §1898(c)(7)(B)(iii), substituted "A" for "In the case of any payment before a participant has separated from service, a" in introductory provisions and inserted "in the case of any payment before a participant has separated from service," in subcl. (I).
 
-Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "For purposes of this subparagraph, the term 'earliest retirement age' has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age."
+Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "For purposes of this subparagraph, the term 'earliest retirement age' has the meaning given such term by section 1055(h)(3) of this title, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age."
 
 Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted "(and any spouse of the participant shall not be treated as a spouse of the participant for such purposes)".
 
@@ -518,7 +518,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 103(a) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see section 103(c) of Pub. L. 109–280, set out as a note under section 1021 of this title.
+Amendment by section 103(a) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, with collective bargaining exception, see section 103(c) ofPub. L. 109–280, set out as a note under section 1021 of this title.
 
 Amendment by section 108(a)(9), (10) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 

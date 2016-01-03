@@ -14,7 +14,7 @@ Subsec. (a)(5), (6). Pub. L. 104–208, §323, added cl. (5) and redesignated fo
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(e)(1)(J) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(e)(1)(J) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

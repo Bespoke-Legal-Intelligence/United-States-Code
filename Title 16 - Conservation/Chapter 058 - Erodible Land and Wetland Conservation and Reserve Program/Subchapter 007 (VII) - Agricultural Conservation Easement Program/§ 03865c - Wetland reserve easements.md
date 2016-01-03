@@ -34,13 +34,13 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (B) Changes in ownership
 
-&emsp;&emsp;No wetland reserve easement shall be created on land that has changed ownership during the preceding 24-month period unless—
+&emsp;&emsp;No wetland reserve easement shall be created on land that has changed ownershipduring the preceding 24-month period unless—
 
 &emsp;&emsp;&emsp;(i) the new ownership was acquired by will or succession as a result of the death of the previous owner;
 
 &emsp;&emsp;&emsp;(ii)(I) the ownership change occurred because of foreclosure on the land; and
 
-&emsp;&emsp;&emsp;(II) immediately before the foreclosure, the owner of the land exercises a right ofredemption from the mortgage holder in accordance with State law; or
+&emsp;&emsp;&emsp;(II) immediately before the foreclosure, the owner of the land exercises a right of redemption from the mortgage holder in accordance with State law; or
 
 &emsp;&emsp;&emsp;(iii) the Secretary determines that the land was acquired under circumstances that give adequate assurances that such land was not acquired for the purposes of placing it in the program.
 
@@ -120,7 +120,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (C) Compatible uses
 
-&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement of the wetland resources for which the easement was established.
+&emsp;&emsp;Land subject to a wetland reserve easement may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the wetland reserve easement plan developed for the land under subsection (f) and is consistent with the long-term protection and enhancement ofthe wetland resources for which the easement was established.
 
 #### (D) Reservation of grazing rights
 

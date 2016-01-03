@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 Mar. 2, 1905, ch. 1307 (last 55 words of last par. under "Ordnance Department"), 33 Stat. 841.
 
-The words "by the military department having jurisdiction over it" are inserted for clarity. The words "if the Secretary concerned considers" are substituted forthe words "when there exist \* \* \* in the judgment of the Secretary".
+The words "by the military department having jurisdiction over it" are inserted for clarity. The words "if the Secretary concerned considers" are substituted for the words "when there exist \* \* \* in the judgment of the Secretary".
 

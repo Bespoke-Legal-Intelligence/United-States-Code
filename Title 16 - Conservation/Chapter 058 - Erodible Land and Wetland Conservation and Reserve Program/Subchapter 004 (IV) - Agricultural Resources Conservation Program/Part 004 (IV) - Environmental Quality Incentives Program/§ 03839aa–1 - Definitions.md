@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
+A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. L. 104–127, title III, §334, Apr. 4,1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
 
@@ -84,5 +84,5 @@ A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. 
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

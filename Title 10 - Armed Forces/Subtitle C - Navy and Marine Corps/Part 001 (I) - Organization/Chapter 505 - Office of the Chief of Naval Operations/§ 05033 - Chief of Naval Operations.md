@@ -10,7 +10,7 @@
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
-(b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy,the Chief of Naval Operations takes precedence above all other officers of the naval service.
+(b) The Chief of Naval Operations, while so serving, has the grade of admiral without vacating his permanent grade. In the performance of his duties within the Department of the Navy, the Chief of Naval Operations takes precedence above all other officers of the naval service.
 
 (c) Except as otherwise prescribed by law and subject to section 5013(f) of this title, the Chief of Naval Operations performs his duties under the authority, direction, and control of the Secretary of the Navy and is directly responsible to the Secretary.
 
@@ -24,7 +24,7 @@
 
 &emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
 
-&emsp;(5) perform the duties prescribed for him by section 171 of this title and other provisions of law; and
+&emsp;(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
 &emsp;(6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 
@@ -34,7 +34,7 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1049; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, §501(a), Nov. 24, 2003, 117 Stat. 1456.)
+(Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1049; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, §501(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(B), Nov. 25, 2015, 129 Stat. 880.)
 
 #### Prior Provisions
 
@@ -43,6 +43,8 @@ Provisions similar to those in this section were contained in sections 5081 and 
 A prior section 5033, acts Aug. 10, 1956, ch. 1041, 70A Stat. 279; Sept. 2, 1958, Pub. L. 85–861, §1(108), 72 Stat. 1490; Aug. 14, 1964, Pub. L. 88–426, title III, §§305(5), 306(j)(5), 78 Stat. 422, 432, related to appointment and duties of Under Secretary of the Navy, prior to repeal by Pub. L. 99–433, §511(e). See section 5015 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(5). Pub. L. 114–92 substituted "sections 171 and 2547" for "section 171".
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "from the flag officers of the Navy" for "from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above".
 
@@ -54,5 +56,5 @@ Pub. L. 108–136, div. A, title V, §508, Nov. 24, 2003, 117 Stat. 1458, provid
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
+For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section,see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 

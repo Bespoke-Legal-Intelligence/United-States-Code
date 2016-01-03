@@ -44,7 +44,7 @@ In subsec. (c), "section 3324(a) and (b) of title 31 and section 6101 of title 4
 
 #### Change of Name
 
-Office of Water Research and Technology formed through merger of Office of Saline Water and Office ofWater Resources Research by order of Secretary of the Interior, Ord. No. 2966, July 26, 1974.
+Office of Water Research and Technology formed through merger of Office of Saline Water and Office of Water Resources Research by order of Secretary of the Interior, Ord. No. 2966, July 26, 1974.
 
 #### Delegation of Functions
 

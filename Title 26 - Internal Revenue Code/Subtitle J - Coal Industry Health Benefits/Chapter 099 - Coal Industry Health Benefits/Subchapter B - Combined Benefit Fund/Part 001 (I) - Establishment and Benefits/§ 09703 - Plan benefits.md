@@ -20,7 +20,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 &emsp;&emsp;The trustees of the Combined Fund shall negotiate payment rates with the health care services plans described in paragraph (1) for each plan year which are in amounts which—
 
-&emsp;&emsp;&emsp;(i) vary as necessary to ensure that beneficiaries in different geographic areas haveaccess to a uniform level of health benefits; and
+&emsp;&emsp;&emsp;(i) vary as necessary to ensure that beneficiaries in different geographic areas have access to a uniform level of health benefits; and
 
 &emsp;&emsp;&emsp;(ii) result in aggregate payments for such plan year from the Combined Fund which do not exceed the total premium payments required to be paid to the Combined Fund under section 9704(a) for the plan year, adjusted as provided in subparagraphs (B) and (C).
 
@@ -62,7 +62,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (2) Termination of coverage
 
-&emsp;The 1950 UMWA Pension Plan and the 1974 UMWA Pension Plan shall each be amended to provide that death benefits coverage shall not be provided to eligible beneficiaries on and after February 1, 1993. This paragraph shall not prohibit such plans from subsequently providing death benefits not described in paragraph (1).
+&emsp;The 1950 UMWA Pension Plan and the 1974 UMWA Pension Plan shall each be amended toprovide that death benefits coverage shall not be provided to eligible beneficiaries on and after February 1, 1993. This paragraph shall not prohibit such plans from subsequently providing death benefits not described in paragraph (1).
 
 #### (d) Reserves for administration
 

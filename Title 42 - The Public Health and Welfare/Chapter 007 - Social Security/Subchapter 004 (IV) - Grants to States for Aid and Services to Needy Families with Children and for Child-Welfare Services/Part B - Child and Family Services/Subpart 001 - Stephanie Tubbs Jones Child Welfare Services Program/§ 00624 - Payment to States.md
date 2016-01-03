@@ -22,13 +22,13 @@ For any fiscal year beginning after September 30, 2007, State expenditures of no
 
 #### (e) Limitation on reimbursement for administrative costs
 
-A payment may not be made to a State under this section with respect to expenditures during a fiscal year for administrative costs, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year for activities funded from amounts provided under this subpart.
+A payment may not be made to a State under this section with respect to expenditures duringa fiscal year for administrative costs, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year for activities funded from amounts provided under this subpart.
 
 #### (f) Child visitation by caseworkers
 
 (1)(A) Each State shall take such steps as are necessary to ensure that the total number of visits made by caseworkers on a monthly basis to children in foster care under the responsibility of the State during a fiscal year is not less than 90 percent (or, in the case of fiscal year 2015 or thereafter, 95 percent) of the total number of such visits that would occur during the fiscal year if each such child were so visited once every month while in such care.
 
-(B) If the Secretary determines that a State has failed to comply with subparagraph (A) for afiscal year, then the percentage that would otherwise apply for purposes of subsection (a) for the fiscal year shall be reduced by—
+(B) If the Secretary determines that a State has failed to comply with subparagraph (A) for a fiscal year, then the percentage that would otherwise apply for purposes of subsection (a) for the fiscal year shall be reduced by—
 
 &emsp;(i) 1, if the number of full percentage points by which the State fell short of the percentage specified in subparagraph (A) is less than 10;
 

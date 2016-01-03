@@ -20,7 +20,7 @@
 
 &emsp;(4) notwithstanding the provisions of subsection (b), the Secretary may, at his discretion if he deems it to be in the public interest, prorate such petroleum among such refiners for sale, without competition, at not less than the prevailing local market price of comparable petroleum.
 
-(e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
+(e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
 
 (f) During the period of production or any extension thereof authorized by section 7422(c) of this title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) place that petroleum in the Strategic Petroleum Reserve as authorized by sections 151 through 166 of the Energy Policy and Conservation Act (42 U.S.C. 6231–6246); or
 
-&emsp;(B) exchange, directly or indirectly, that petroleum for other petroleum to be placed in the Strategic Petroleum Reserve under such terms and conditions and by such methods as the Secretary determines to be appropriate, without regard to otherwise applicable Federal procurement statutes and regulations.
+&emsp;(B) exchange, directly or indirectly, that petroleum for other petroleum to be placed inthe Strategic Petroleum Reserve under such terms and conditions and by such methods as the Secretary determines to be appropriate, without regard to otherwise applicable Federal procurement statutes and regulations.
 
 (2) The requirements of section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) do not apply to actions taken under this subsection.
 
@@ -88,7 +88,7 @@ In subsection (b) the words "under this section" are substituted for the words "
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 94–258 inserted "Notwithstanding any other provision of l
 
 Subsecs. (c) to (k). Pub. L. 94–258 added subsecs. (c) to (k).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–796 included provision for administration of oil shale reserves, required the Secretary of the Navy to use, store, sell, or exchange oil shale and products therefrom produced from oil shale reserves for other petroleum or refined products, anddeleted provision which required the Secretary to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
+<b>1962</b>—Subsec. (a). Pub. L. 87–796 included provision for administration of oil shale reserves, required the Secretary of the Navy to use, store, sell, or exchange oil shale and products therefrom produced from oil shale reserves for other petroleum or refined products, and deleted provision which required the Secretary to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
 
 Pub. L. 87–599 required the Secretary of the Navy to use, store, sell, or exchange gas products from lands in the South Barrow gas field of naval petroleum reserve numbered 4 for other petroleum or refined products.
 
@@ -189,4 +189,6 @@ Pub. L. 103–337, div. C, title XXXV, §3502, Oct. 5, 1994, 108 Stat. 3111.
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 (3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removed from office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
 
-(4) The Commissioner shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall haveauthority and control over all personnel and activities thereof.
+(4) The Commissioner shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
 
 (5) The Commissioner may prescribe such rules and regulations as the Commissioner determines necessary or appropriate to carry out the functions of the Administration. The regulations prescribed by the Commissioner shall be subject to the rulemaking procedures established under section 553 of title 5.
 
@@ -68,7 +68,7 @@ Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of "Health
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
+Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Issuance by Commissioner of Social Security of Receipts To Acknowledge Submission of Reports of Changes in Work or Earnings Status of Disabled Beneficiaries
 
-Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: "Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work or earnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status."
+Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: "Effective as soon as possible, but not later than 1 year after the date of the enactment of this Act \[Mar. 2, 2004\], until such time as the Commissioner of Social Security implements a centralized computer file recording the date of the submission of information by a disabled beneficiary (or representative) regarding a change in the beneficiary's work orearnings status, the Commissioner shall issue a receipt to the disabled beneficiary (or representative) each time he or she submits documentation, or otherwise reports to the Commissioner, on a change in such status."
 
 #### Demonstration Projects Relating to Accountability for Telephone Service Center Communications
 
@@ -130,7 +130,7 @@ Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secreta
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 
-Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff.Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
+Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
 
 #### Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress
 

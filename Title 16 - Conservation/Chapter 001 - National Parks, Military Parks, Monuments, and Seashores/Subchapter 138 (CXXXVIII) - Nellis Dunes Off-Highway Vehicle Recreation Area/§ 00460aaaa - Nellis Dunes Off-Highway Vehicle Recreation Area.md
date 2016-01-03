@@ -40,7 +40,7 @@ In this section:
 
 #### (B) Reservation of mineral estate
 
-&emsp;In conveying the parcels of Federal land under subparagraph (A), the Secretary shall reserve the mineral estate, except for purposes related to flood mitigation (including removal from aggregate flood events).
+&emsp;In conveying the parcels of Federal land under subparagraph (A), the Secretary shallreserve the mineral estate, except for purposes related to flood mitigation (including removal from aggregate flood events).
 
 #### (C) Use of conveyed land
 

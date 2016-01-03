@@ -54,7 +54,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (2) Expanded affiliated group
 
-&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a) of title 26 (without regard to section 1504(b) of such title), except that section 1504 of such title shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
+&emsp;The term "expanded affiliated group" means an affiliated group as defined in section 1504(a)of title 26 (without regard to section 1504(b) of such title), except that section 1504 of such title shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
 
 #### (3) Foreign incorporated entity
 

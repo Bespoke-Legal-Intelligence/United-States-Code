@@ -22,7 +22,7 @@ The Secretary may award grants to, and enter into contracts with, eligible entit
 
 #### (2) Priority
 
-&emsp;In making awards of grants under this subsection, the Secretary shall give preference to applicants that have not previously received an award under this subsection (or section 296p(c) of this title as such section existed on the day before March 23, 2010).
+&emsp;In making awards of grants under this subsection, the Secretary shall give preference toapplicants that have not previously received an award under this subsection (or section 296p(c) of this title as such section existed on the day before March 23, 2010).
 
 #### (3) Continuation of an award
 

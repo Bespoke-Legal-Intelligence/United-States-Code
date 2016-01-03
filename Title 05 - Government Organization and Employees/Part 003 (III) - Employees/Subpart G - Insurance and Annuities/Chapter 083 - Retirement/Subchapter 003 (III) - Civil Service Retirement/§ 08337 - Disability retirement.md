@@ -122,7 +122,7 @@ Subsec. (h)(3)(C). Pub. L. 106–65, §522(d)(3), inserted "or section 10216 of 
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–238 added subsec. (f) and struck out former subsec. (f) which read as follows: "An individual is not entitled to receive an annuity under this subchapter and compensation for injury or disability to himself under subchapter I of chapter 81 of this title covering the same period of time. This provision does not bar the right of a claimant to the greater benefit conferred by either subchapter for any part of the same period of time. Neither this provision nor any provision of subchapter I of chapter 81 of this title denies to an individual an annuity accruing to him under this subchapter on account of service performed by him, or denies any concurrent benefit to him under subchapter I of chapter 81 of this title on account of the death of another individual."
 
-Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: "The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation under section 8135 of this title. However, if the annuity ispayable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees' Compensation Fund. Before the individual may receive the annuity he shall—
+Subsec. (g). Pub. L. 100–238 added subsec. (g) and struck out former subsec. (g) which read as follows: "The right of an individual entitled to an annuity under this subchapter is not affected because he has received a lump-sum payment for compensation under section 8135 of this title. However, if the annuity is payable on account of the same disability for which compensation under section 8135 of this title has been paid, so much of the compensation as has been paid for a period extended beyond the date the annuity becomes effective, as determined by the Department of Labor, shall be refunded to that Department to be covered into the Employees' Compensation Fund. Before the individual may receive the annuity he shall—
 
 &emsp;"(1) refund to the Department of Labor the amount representing the commuted compensation payments for the extended period; or
 
@@ -154,7 +154,7 @@ Section 124(c) of Pub. L. 100–238 provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealing former section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealingformer section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
 
 "(2)
 

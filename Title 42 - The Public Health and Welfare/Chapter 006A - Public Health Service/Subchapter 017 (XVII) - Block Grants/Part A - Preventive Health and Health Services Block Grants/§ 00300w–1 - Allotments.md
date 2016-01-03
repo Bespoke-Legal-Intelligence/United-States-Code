@@ -26,7 +26,7 @@ From the amount required to be made available under section 300w(b) of this titl
 
 #### (c) Distribution of appropriated funds not allotted
 
-To the extent that all the funds appropriated under section 300w of this title for a fiscal yearand available for allotment in such fiscal year are not otherwise allotted to States because—
+To the extent that all the funds appropriated under section 300w of this title for a fiscal year and available for allotment in such fiscal year are not otherwise allotted to States because—
 
 &emsp;(1) one or more States have not submitted an application or description of activities in accordance with section 300w–4 of this title for the fiscal year;
 
@@ -78,7 +78,7 @@ Section 246(d) of this title, referred to in subsec. (a)(2)(E), was repealed eff
 
 Section 255 of this title, referred to in subsec. (a)(2)(F), was in the original a reference to section 339 of act July 1, 1944, which was repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561. Pub. L. 97–414, §6(a), Jan. 4, 1983, 96 Stat. 2057, added a new section 339 of act July 1, 1944, which is classified to section 255 of this title.
 
-Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561. Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916–2918, enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. Pub. L. 103–183, title VI, §601(b), Dec. 14, 1983, 107 Stat. 2238, repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. Pub. L. 110–23, §§3, 5, May 3, 2007, 121 Stat. 90, 91, repealed section 1202, renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to section 300d–5 of this title.
+Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. (a)(2)(G), were in the original references to sections 1202, 1203, and 1204, respectively, of act July 1, 1944, which were repealed effective Oct. 1,1981, by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561. Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916–2918, enacted new sections 1202, 1203, and 1204 of act July 1, 1944, which were classified to sections 300d–1, 300d–2, and 300d–3, respectively, of this title. Pub. L. 103–183, title VI, §601(b), Dec. 14, 1983, 107 Stat. 2238, repealed section 1202 and renumbered sections 1203 and 1204 as 1202 and 1203, respectively. Pub. L. 110–23, §§3, 5, May 3, 2007, 121 Stat. 90, 91, repealed section 1202, renumbered section 1203 as 1202, and enacted new section 1203 of act July 1, 1944, which is classified to section 300d–5 of this title.
 
 Section 450b of title 25, referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 

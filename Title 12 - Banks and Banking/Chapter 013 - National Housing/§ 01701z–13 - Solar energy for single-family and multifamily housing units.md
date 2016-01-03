@@ -16,7 +16,7 @@ In carrying out subsection (b), the Secretary shall take such steps as may be ne
 
 #### (d) Report to Congress
 
-The Secretary shall, in conjunction with the Secretary of Energy, transmit to the Congress, within eighteen months after October 31, 1978, a report setting forth—
+The Secretary shall, in conjunction with the Secretary of Energy, transmit to the Congress,within eighteen months after October 31, 1978, a report setting forth—
 
 &emsp;(1) the number of solar units which were contracted for or installed or which are on order under the provisions of subsection (b)(1) of this section during the first twelve full calendar months after October 31, 1978; and
 

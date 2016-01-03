@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(A) A thorough description of the data mining activity, its goals, and, where appropriate, the target dates for the deployment of the data mining activity.
 
-&emsp;&emsp;(B) A thorough description of the data mining technology that is being used or willbe used, including the basis for determining whether a particular pattern or anomaly is indicative of terrorist or criminal activity.
+&emsp;&emsp;(B) A thorough description of the data mining technology that is being used or will be used, including the basis for determining whether a particular pattern or anomaly is indicative of terrorist or criminal activity.
 
 &emsp;&emsp;(C) A thorough description of the data sources that are being or will be used.
 

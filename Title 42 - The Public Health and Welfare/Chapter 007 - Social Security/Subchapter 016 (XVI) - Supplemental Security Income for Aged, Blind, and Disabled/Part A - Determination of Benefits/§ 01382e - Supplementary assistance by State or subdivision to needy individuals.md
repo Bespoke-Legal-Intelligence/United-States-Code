@@ -16,7 +16,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (c) Residence requirement by State or subdivision for supplementary payments; disregarding amounts of certain income by State or subdivision in determining eligibility for supplementary payments
 
-(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in theState (or political subdivision) for less than a minimum period prior to application for such payments.
+(1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
 
 (2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
 
@@ -162,7 +162,7 @@ Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, provided that 
 
 #### Limitations on Authorization of Appropriations
 
-Pub. L. 105–78, title V, §516(b)(2), Nov. 13, 1997, 111 Stat. 1519, provided that: "From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[42 U.S.C. 1382e(d)(4)(B)\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] and related laws."
+Pub. L. 105–78, title V, §516(b)(2), Nov. 13, 1997, 111 Stat. 1519, provided that: "From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[42 U.S.C. 1382e(d)(4)(B)\] and section 212(b)(3)(D)(ii) ofPublic Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] and related laws."
 
 Pub. L. 105–33, title V, §5102(b)(2), Aug. 5, 1997, 111 Stat. 597, provided that: "From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[42 U.S.C. 1382e(d)(4)(B)\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter."
 
@@ -252,7 +252,7 @@ Pub. L. 92–603, title IV, §401, Oct. 30, 1972, 86 Stat. 1485, as amended by P
 
 \[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–585 inserting parenthetical text in subpar. (B) and enacting last sentence, such amendments being identical to amendments by Pub. L. 94–566 less the words "and before July 1, 1979" following "June 30, 1977", effective with respect to benefits payable for months after June 1977, see section 2(c) of Pub. L. 94–585, set out as a note under section 1382g of this title.\]
 
-\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parenthetical text in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct. 20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
+\[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–566 inserting parentheticaltext in subpar. (B) and enacting last sentence effective under provisions of Pub. L. 94–566, title V, §504(b), Oct. 20, 1976, 90 Stat. 2686, with respect to benefits payable for months after June 1977.\]
 
 \[Amendment of section 401 of Pub. L. 92–603, set out above, by section 18(h) of Pub. L. 93–233 effective Jan. 1, 1974, see section 18(z–3)(1) of Pub. L. 93–233.\]
 

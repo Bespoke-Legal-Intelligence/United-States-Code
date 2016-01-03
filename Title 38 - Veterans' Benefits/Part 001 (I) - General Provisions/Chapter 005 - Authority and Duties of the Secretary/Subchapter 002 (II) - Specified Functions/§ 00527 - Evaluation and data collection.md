@@ -12,6 +12,22 @@
 
 Provisions similar to those in this section were contained in section 219 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
+
+Pub. L. 114–92, div. A, title VII, §728, Nov. 25, 2015, 129 Stat. 873, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], and periodically thereafter, the Secretary of Defense shall submit to the Secretary of Veterans Affairs such information in the possession of the Secretary of Defense as the Secretary of Veterans Affairs considers necessary to supplement and support—
+
+&emsp;"(1) the development of information to be included in the Airborne Hazards and Open Burn Pit Registry established by the Department of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note); and
+
+&emsp;"(2) research and development activities conducted by the Department of Veterans Affairs to explore the potential health risks of exposure by members of the Armed Forces to environmental factors in Iraq and Afghanistan, in particular the connection of such exposure to respiratory illnesses such as chronic cough, chronic obstructive pulmonary disease, constrictive bronchiolitis, and pulmonary fibrosis.
+
+"(b)
+
+Inclusion of Certain Information.—The Secretary of Defense shall include in the information submitted to the Secretary of Veterans Affairs under subsection (a) information on any research and surveillance efforts conducted by the Department of Defense to evaluate the incidence and prevalence of respiratory illnesses among members of the Armed Forces who were exposed to open burn pits while deployed overseas."
+
 #### Establishment of Open Burn Pit Registry
 
 Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, provided that:
@@ -120,7 +136,7 @@ Contents of Registry.—Except as provided in subsection (c), the Registry shall
 
 &emsp;&emsp;"(E) receives from the Department of Defense a health examination similar to the health examination referred to in subparagraph (D) and requests inclusion in the Registry.
 
-&emsp;"(2) Relevant medical data relating to the health status of, and other information that the Secretaryconsiders relevant and appropriate with respect to, each individual described in paragraph (1) who—
+&emsp;"(2) Relevant medical data relating to the health status of, and other information that the Secretary considers relevant and appropriate with respect to, each individual described in paragraph (1) who—
 
 &emsp;&emsp;"(A) grants to the Secretary permission to include such information in the Registry; or
 
@@ -210,9 +226,9 @@ Definitions.—For the purposes of this section:
 
 "(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek toenter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
-"(2) The agreement shall require MFUA to provide members of veterans organizations and members of thescientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
+"(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
 "(3) The agreement shall permit MFUA, in conducting the review, to examine and evaluate medical records of individuals who are included in the registries referred to in section 705(d) for purposes that MFUA considers appropriate, including the purpose of identifying illnesses of those individuals.
 
@@ -280,7 +296,7 @@ Reports.—(1) Not later than July 1, 2010, and July 1 of each of the five follo
 
 "(2)(A) Not later than 120 days after submission of the epidemiological research study conducted by the Department of Veterans Affairs entitled 'VA National Survey of Persian Gulf Veterans—Phase III', the head of the department or agency designated under subsection (a) shall submit to the congressional committees specified in paragraph (1) a report on the findings under that study and any other pertinent medical literature.
 
-"(B) With respect to any findings of that study and any other pertinent medical literature which identify scientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
+"(B) With respect to any findings of that study and any other pertinent medical literature which identifyscientific evidence of a greater relative risk of illness or illnesses in family members of veterans who served in the Persian Gulf War theater of operations than in family members of veterans who did not so serve, the head of the department or agency designated under subsection (a) shall seek to ensure that appropriate research studies are designed to follow up on such findings.
 
 "(d)
 

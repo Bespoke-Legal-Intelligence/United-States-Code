@@ -8,7 +8,7 @@
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, exceptthat the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
+(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
 (3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
 
@@ -110,7 +110,7 @@ Pub. L. 105–85, div. A, title V, §543(d), Nov. 18, 1997, 111 Stat. 1744, prov
 
 Pub. L. 98–94, title X, §1004(d), Sept. 24, 1983, 97 Stat. 660, provided that:
 
-"Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
+"Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of suchtitle, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections.
 
 "The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title\] shall take effect one year after the date of the enactment of this Act \[Sept. 24, 1983\] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date."
 

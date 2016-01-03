@@ -86,7 +86,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (A) Family size
 
-&emsp;&emsp;The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
+&emsp;&emsp;The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is alloweda deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
 
 #### (B) Household income
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (A) Religious conscience exemption
 
-&emsp;&emsp;Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H)of the Patient Protection and Affordable Care Act which certifies that such individual is—
+&emsp;&emsp;Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is—
 
 &emsp;&emsp;&emsp;(i) a member of a recognized religious sect or division thereof which is described in section 1402(g)(1), and
 
@@ -354,7 +354,7 @@ In general.—The term 'poverty line' has the meaning given that term in section
 
 "(ii)
 
-Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year."
+Poverty line used.—In the case of any taxable year ending with or within a calendar year, the povertyline used shall be the most recently published poverty line as of the 1st day of such calendar year."
 
 Subsec. (d)(2)(A). Pub. L. 111–148, §10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section."
 

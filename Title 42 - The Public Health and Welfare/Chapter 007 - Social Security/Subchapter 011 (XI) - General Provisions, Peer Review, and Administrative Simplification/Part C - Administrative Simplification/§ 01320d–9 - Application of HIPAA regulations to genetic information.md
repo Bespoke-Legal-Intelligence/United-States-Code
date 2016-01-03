@@ -28,7 +28,7 @@ For purposes of this section:
 
 &emsp;The term "underwriting purposes" means, with respect to a group health plan, health insurance coverage, or a medicare supplemental policy—
 
-&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continuedeligibility) for, or determination of, benefits under the plan, coverage, or policy;
+&emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for, or determination of, benefits under the plan, coverage, or policy;
 
 &emsp;&emsp;(B) the computation of premium or contribution amounts under the plan, coverage, or policy;
 
@@ -48,7 +48,7 @@ In addition to any other sanctions or remedies that may be available under law, 
 
 #### References in Text
 
-The Genetic Information Nondiscrimination Act of 2007, referred to in subsec. (b)(1), probably means the Genetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
+The Genetic Information Nondiscrimination Act of 2007, referred to in subsec. (b)(1), probably means theGenetic Information Nondiscrimination Act of 2008, Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 

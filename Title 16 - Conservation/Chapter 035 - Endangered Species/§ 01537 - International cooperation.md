@@ -96,7 +96,7 @@ Certification Procedure.—The ban on importation of shrimp or products from shr
 
 #### Executive Order No. 11911
 
-Ex. Ord. No. 11911, Apr. 13, 1976, 41 F.R. 15683, which provided that for purposes of the Convention on International Trade in Endangered Species of Wild Fauna and Flora the Secretary of the Interior be designated as the Management Authority and established the Endangered Species Scientific Authority as the Scientific Authority, with the Secretary of the Interior designated to act on behalf of the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere, was revoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
+Ex. Ord. No. 11911, Apr. 13, 1976, 41 F.R. 15683, which provided that for purposes of the Convention on International Trade in Endangered Species of Wild Fauna and Flora the Secretary of the Interior be designated as the Management Authority and established the Endangered Species Scientific Authority as the Scientific Authority, with the Secretary of the Interior designated to act on behalf of the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere, wasrevoked by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617.
 
 #### Delegation of Authority Regarding Certification of Countries Exporting Shrimp to United States
 

@@ -16,7 +16,7 @@ Section was formerly classified to section 481a of Title 5 prior to the general 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990,with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 #### Transfer of Functions
 

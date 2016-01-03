@@ -5,10 +5,17 @@
 | [2430\.](%C2%A7%2002430%20-%20Major%20defense%20acquisition%20program%20defined.md) | Major defense acquisition program defined. |
 | [2430a.](%C2%A7%2002430a%20-%20Major%20subprograms.md) | Major subprograms. |
 | [2431\.](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md) | Weapons development and procurement schedules. |
+| [2431a.](%C2%A7%2002431a%20-%20Acquisition%20strategy.md) | Acquisition strategy. |
+| [2431b.](%C2%A7%2002431b%20-%20Risk%20management%20and%20mitigation%20in%20major%20defense%20acquisition%20programs%20and%20major%20systems.md) | Risk reduction in major defense acquisition programs and major systems.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2432\.](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
 | [2433a.](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md) | Critical cost growth in major defense acquisition programs. |
-| [2434\.](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md) | Independent cost estimates; operational manpower requirements. |
+| [2434\.](%C2%A7%2002434%20-%20Independent%20cost%20estimates.md) | Independent cost estimates. |
 | [2435\.](%C2%A7%2002435%20-%20Baseline%20description.md) | Baseline description. |
 | [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
 | [2437\.](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md) | Development of major defense acquisition programs: sustainment of system to be replaced. |
@@ -19,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §§821(a)(2), 822(a)(2), 831(c)(2), Nov. 25, 2015, 129 Stat. 900, 901, 912, added items 2431a and 2431b and substituted "Independent cost estimates" for "Independent cost estimates; operational manpower requirements" in item 2434.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title IX, §901(k)(2)(B), Jan. 7, 2011, 124 Stat. 4326, added item 2438.
 
@@ -44,6 +53,8 @@ Pub. L. 99–500, §101(c) \[title X, §§904(a)(2), 905(a)(2), 906(a)(2)\], Oct
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -52,10 +63,12 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02430 - Major defense acquisition program defined](%C2%A7%2002430%20-%20Major%20defense%20acquisition%20program%20defined.md)
 - [&sect; 02430a - Major subprograms](%C2%A7%2002430a%20-%20Major%20subprograms.md)
 - [&sect; 02431 - Weapons development and procurement schedules](%C2%A7%2002431%20-%20Weapons%20development%20and%20procurement%20schedules.md)
+- [&sect; 02431a - Acquisition strategy](%C2%A7%2002431a%20-%20Acquisition%20strategy.md)
+- [&sect; 02431b - Risk management and mitigation in major defense acquisition programs and major systems](%C2%A7%2002431b%20-%20Risk%20management%20and%20mitigation%20in%20major%20defense%20acquisition%20programs%20and%20major%20systems.md)
 - [&sect; 02432 - Selected Acquisition Reports](%C2%A7%2002432%20-%20Selected%20Acquisition%20Reports.md)
 - [&sect; 02433 - Unit cost reports](%C2%A7%2002433%20-%20Unit%20cost%20reports.md)
 - [&sect; 02433a - Critical cost growth in major defense acquisition programs](%C2%A7%2002433a%20-%20Critical%20cost%20growth%20in%20major%20defense%20acquisition%20programs.md)
-- [&sect; 02434 - Independent cost estimates; operational manpower requirements](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md)
+- [&sect; 02434 - Independent cost estimates](%C2%A7%2002434%20-%20Independent%20cost%20estimates.md)
 - [&sect; 02435 - Baseline description](%C2%A7%2002435%20-%20Baseline%20description.md)
 - [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)
 - [&sect; 02437 - Development of major defense acquisition programs sustainment of system to be replaced](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md)

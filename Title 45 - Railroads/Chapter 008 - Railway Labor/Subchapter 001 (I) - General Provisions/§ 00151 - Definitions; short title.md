@@ -54,7 +54,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Restriction on Establishment of New Annuities or Pensions
 
@@ -66,7 +66,7 @@ Sections 4–7 of act Aug. 13, 1940, as amended by Reorg. Plan No. 2 of 1946, §
 
 "
 
-Sec. 4. (a) The laws hereby expressly amended (section 1532 of Title 26, I.R.C. 1939 \[former Title 26, Internal Revenue Code of 1939\] and sections 151, 215, 228a, 261,and 351 of this title), the Social Security Act, approved August 14, 1935 (section 301 et seq. of Title 42), and all amendments thereto, shall operate as if each amendment herein contained had been enacted as a part of the law it amends, at the time of the original enactment of such law.
+Sec. 4. (a) The laws hereby expressly amended (section 1532 of Title 26, I.R.C. 1939 \[former Title 26, Internal Revenue Code of 1939\] and sections 151, 215, 228a, 261, and 351 of this title), the Social Security Act, approved August 14, 1935 (section 301 et seq. of Title 42), and all amendments thereto, shall operate as if each amendment herein contained had been enacted as a part of the law it amends, at the time of the original enactment of such law.
 
 "(b) No person (as defined in the Carriers Taxing Act of 1937 \[section 261 et seq. of this title\]) shall be entitled, by reason of the provisions of this Act, to a refund of, or relief from liability for, any income or excise taxes paid or accrued, pursuant to the provisions of the Carriers Taxing Act of 1937 or subchapter B of chapter 9 of the Internal Revenue Code \[section 1500 et seq. of former Title 26, Internal Revenue Code of 1939\], prior to the date of the enactment of this Act \[Aug. 13, 1940\] by reason of employment in the service of any carrier by railroad subject to part I of the Interstate Commerce Act \[former 49 U.S.C. 1 et seq.\], but any individual who has been employed in such service of any carrier by railroad subject to part I of the Interstate Commerce Act as is excluded by the amendments made by this Act from coverage under the Carriers Taxing Act of 1937 and subchapter B of chapter 9 of the Internal Revenue Code, and who has paid income taxes under the provisions of such Act or subchapter, and any carrier by railroad subject to part I of the Interstate Commerce Act which has paid excise taxes under the provisions of the Carriers Taxing Act of 1937 or subchapter B of chapter 9 of the Internal Revenue Code, may, upon making proper application therefor to the Bureau of Internal Revenue \[now Internal Revenue Service\], have the amount of taxes so paid applied in reduction of such tax liability with respect to employment, as may, by reason of the amendments made by this Act, accrue against them under the provisions of title VIII of the Social Security Act \[section 1001 et seq. of Title 42\] or the Federal Insurance Contributions Act (subchapter A of chapter 9 of the Internal Revenue Code) \[section 1400 et seq. of former Title 26\].
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon the request of a recipient of an award under any of sections 247d through 247d–7b of this title or section 247d–7d of this title, the Secretary may, subject to subsection (b) of this section, provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award is made and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
+Upon the request of a recipient of an award under any of sections 247d through 247d–7b of this title or section 247d–7d of this title, the Secretary may, subject to subsection (b) of this section, provide supplies, equipment, and services for the purpose of aiding the recipient in carrying out the purposes for which the award ismade and, for such purposes, may detail to the recipient any officer or employee of the Department of Health and Human Services.
 
 #### (b) Corresponding reduction in payments
 

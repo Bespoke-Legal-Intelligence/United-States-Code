@@ -12,7 +12,7 @@
 
 &emsp;(5) the authorization of an officer to delegate any of his functions; or
 
-&emsp;(6) the abolition of the whole or a part of an agency which agency or part does not have, or on the taking effect of the reorganization plan will not have, any functions.
+&emsp;(6) the abolition of the whole or a part of an agency which agency or part does not have, oron the taking effect of the reorganization plan will not have, any functions.
 
 > The President shall transmit the plan (bearing an identification number) to the Congress together with a declaration that, with respect to each reorganization included in the plan, he has found that the reorganization is necessary to carry out any policy set forth in section 901(a) of this title.
 

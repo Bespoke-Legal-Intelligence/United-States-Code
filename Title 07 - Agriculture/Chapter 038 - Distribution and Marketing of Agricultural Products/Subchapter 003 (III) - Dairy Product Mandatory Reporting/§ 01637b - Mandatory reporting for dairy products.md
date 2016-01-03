@@ -20,7 +20,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(ii) modify the format used to provide the information on the day before November 22, 2000, to ensure that the information can be readily understood by market participants; and
 
-&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report to the Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
+&emsp;&emsp;(B) require each manufacturer and other person storing dairy products to report tothe Secretary, at a periodic interval determined by the Secretary, information on the quantity of dairy products stored.
 
 #### (2) Conditions
 
@@ -32,7 +32,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 &emsp;&emsp;(C) the frequency of the required reporting under paragraph (1)(A)(i) does not exceed the frequency used to establish minimum prices for Class III or Class IV milk under a Federal milk marketing order; and
 
-&emsp;&emsp;(D) the Secretary may exempt from all reporting requirements any manufacturer thatprocesses and markets less than 1,000,000 pounds of dairy products per year.
+&emsp;&emsp;(D) the Secretary may exempt from all reporting requirements any manufacturer that processes and markets less than 1,000,000 pounds of dairy products per year.
 
 #### (c) Administration
 
@@ -126,7 +126,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

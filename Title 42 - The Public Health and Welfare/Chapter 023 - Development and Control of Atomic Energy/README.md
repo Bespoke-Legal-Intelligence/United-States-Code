@@ -84,6 +84,7 @@
 | [2075\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20005%20%28V%29%20-%20Special%20Nuclear%20Material/%C2%A7%2002075%20-%20Acquisition%20of%20special%20nuclear%20material%3B%20payments%3B%20just%20compensation.md) | Acquisition of special nuclear material; payments; just compensation. |
 | [2076\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20005%20%28V%29%20-%20Special%20Nuclear%20Material/%C2%A7%2002076%20-%20Guaranteed%20purchase%20prices.md) | Guaranteed purchase prices. |
 | [2077\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20005%20%28V%29%20-%20Special%20Nuclear%20Material/%C2%A7%2002077%20-%20Unauthorized%20dealings%20in%20special%20nuclear%20material.md) | Unauthorized dealings in special nuclear material. |
+| [2077a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20005%20%28V%29%20-%20Special%20Nuclear%20Material/%C2%A7%2002077a%20-%20Interagency%20review%20of%20applications%20for%20the%20transfer%20of%20United%20States%20civil%20nuclear%20technology.md) | Interagency review of applications for the transfer of United States civil nuclear technology. |
 | [2078\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20005%20%28V%29%20-%20Special%20Nuclear%20Material/%C2%A7%2002078%20-%20Congressional%20review%20of%20guaranteed%20purchase%20price%2C%20guaranteed%20purchase%20price%20period%2C%20and%20criteria%20for%20waiver%20of%20charges.md) | Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -173,6 +174,7 @@
 | [2160b.](Division%20A%20-%20Atomic%20Energy/Subchapter%20010%20%28X%29%20-%20International%20Activities/%C2%A7%2002160b%20-%20Authority%20to%20suspend%20nuclear%20cooperation%20with%20nations%20which%20have%20not%20ratified%20the%20Convention%20on%20the%20Physical%20Security%20of%20Nuclear%20Material.md) | Authority to suspend nuclear cooperation with nations which have not ratified the Convention on the Physical Security of Nuclear Material. |
 | [2160c.](Division%20A%20-%20Atomic%20Energy/Subchapter%20010%20%28X%29%20-%20International%20Activities/%C2%A7%2002160c%20-%20Consultation%20with%20Department%20of%20Defense%20concerning%20certain%20exports%20and%20subsequent%20arrangements.md) | Consultation with Department of Defense concerning certain exports and subsequent arrangements. |
 | [2160d.](Division%20A%20-%20Atomic%20Energy/Subchapter%20010%20%28X%29%20-%20International%20Activities/%C2%A7%2002160d%20-%20Further%20restrictions%20on%20exports.md) | Further restrictions on exports. |
+| [2160e.](Division%20A%20-%20Atomic%20Energy/Subchapter%20010%20%28X%29%20-%20International%20Activities/%C2%A7%2002160e%20-%20Congressional%20review%20and%20oversight%20of%20agreements%20with%20Iran.md) | Congressional review and oversight of agreements with Iran. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

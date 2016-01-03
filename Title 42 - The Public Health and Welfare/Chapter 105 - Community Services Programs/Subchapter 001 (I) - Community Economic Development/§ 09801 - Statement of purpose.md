@@ -36,7 +36,7 @@ Pub. L. 102–401, §1, Oct. 7, 1992, 106 Stat. 1956, provided that: "This Act \
 
 Pub. L. 101–501, §1(a), Nov. 3, 1990, 104 Stat. 1222, provided that: "This Act \[see Tables for classification\] may be cited as the 'Augustus F. Hawkins Human Services Reauthorization Act of 1990'."
 
-Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
+Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A\(§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
 
 Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I of Pub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the "Head Start Transition Project Act", prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
 

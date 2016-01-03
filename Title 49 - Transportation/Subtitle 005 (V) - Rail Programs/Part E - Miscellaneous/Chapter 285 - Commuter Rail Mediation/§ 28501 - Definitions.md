@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;(3) the term "commuter rail passenger transportation" has the meaning given that term in section 24102;
 
-&emsp;(4) the term "public transportation authority" means a local governmental authority (as defined in section 5302(a)(6)) <sup>1</sup> established to provide, or make a contract providing for, commuter rail passenger transportation;
+&emsp;(4) the term "public transportation authority" means a local governmental authority (asdefined in section 5302(a)(6)) <sup>1</sup> established to provide, or make a contract providing for, commuter rail passenger transportation;
 
 &emsp;(5) the term "rail carrier" means a person, other than a governmental authority, providing common carrier railroad transportation for compensation subject to the jurisdiction of the Board under chapter 105;
 

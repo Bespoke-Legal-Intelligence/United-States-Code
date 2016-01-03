@@ -18,7 +18,7 @@ For purposes of section 38, the amount of the distilled spirits credit for any t
 
 #### (b) Eligible wholesaler
 
-For purposes of this section, the term "eligible wholesaler" means any person which holds a permit under the Federal Alcohol Administration Act as a wholesaler of distilled spirits which is not a State or political subdivision thereof, or an agency of either.
+For purposes of this section, the term "eligible wholesaler" means any person which holds a permit under the Federal Alcohol Administration Act as a wholesaler of distilled spiritswhich is not a State or political subdivision thereof, or an agency of either.
 
 #### (c) Average tax-financing cost
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977,as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 #### Prior Provisions
 

@@ -1,8 +1,8 @@
 ### §3057d. Grants authorized
 
-The Assistant Secretary may make grants to eligible tribal organizations to pay all of the costs for delivery of supportive services and nutrition services for older individuals who are Indians.
+The Assistant Secretary may make grants to eligible tribal organizations to pay all of thecosts for delivery of supportive services and nutrition services for older individuals who are Indians.
 
-(Pub. L. 89–73, title VI, §613, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960;amended Pub. L. 102–375, title IX, §904(a)(22), Sept. 30, 1992, 106 Stat. 1309; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title VI, §613, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title IX, §904(a)(22), Sept. 30, 1992, 106 Stat. 1309; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Prior Provisions
 

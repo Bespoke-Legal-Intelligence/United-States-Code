@@ -4,7 +4,7 @@
 
 #### (1) Scope of oversight
 
-&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the "TARP"), commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
+&emsp;The Comptroller General of the United States shall, upon establishment of the troubled assets relief program <sup>1</sup> under this chapter (in this section referred to as the "TARP"),commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative's activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
 
 &emsp;&emsp;(A) The performance of the TARP in meeting the purposes of this chapter, particularly those involving—
 
@@ -86,7 +86,7 @@
 
 #### (1) Annual audit
 
-&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor bythe Comptroller General. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
+&emsp;The TARP shall annually prepare and issue to the appropriate committees of Congress and the public audited financial statements prepared in accordance with generally accepted accounting principles, and the Comptroller General shall annually audit such statements in accordance with generally accepted auditing standards. The Treasury shall reimburse the Government Accountability Office for the full cost of any such audit as billed therefor by the Comptroller General. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended. The financial statements prepared under this paragraph shall be on the fiscal year basis prescribed under section 1102 of title 31.
 
 #### (2) Authority
 
@@ -142,7 +142,7 @@ Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act
 
 Section 1441a of this title, referred to in subsec. (a)(1)(H), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
-Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to section 5230 of this title.
+Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. Aof Pub. L. 110–343, which is classified to section 5230 of this title.
 
 #### Amendments
 

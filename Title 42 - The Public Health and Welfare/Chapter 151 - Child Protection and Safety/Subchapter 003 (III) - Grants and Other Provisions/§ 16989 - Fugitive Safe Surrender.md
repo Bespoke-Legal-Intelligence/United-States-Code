@@ -28,7 +28,7 @@ There are authorized to be appropriated to the United States Marshals Service to
 
 #### (d) Other existing applicable law
 
-Nothing in this section shall be construed to limit any existing authority under any otherprovision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
+Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
 
 (Pub. L. 109–248, title VI, §632, July 27, 2006, 120 Stat. 641.)
 

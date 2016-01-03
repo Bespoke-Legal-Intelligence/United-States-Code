@@ -46,7 +46,7 @@ Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, which provided for facilitatio
 
 Ex. Ord. No. 13014, Aug. 15, 1996, 61 F.R. 42963, provided:
 
-In light of the recognition of the People's Republic of China by the United States of America as the sole legal government of China, and by the authority vested in me as President of the United States of America by the Taiwan Relations Act (Public Law 96-8, 22 U.S.C. 3301 <i>et seq</i>.) ("Act"), and section 301 of title 3, United States Code, in order to facilitate the maintenance of commercial, cultural, and other relations between the people of the United States and the people on Taiwan without official representation or diplomatic relations, it is hereby ordered as follows:
+In light of the recognition of the People's Republic of China by the United States of America as the sole legalgovernment of China, and by the authority vested in me as President of the United States of America by the Taiwan Relations Act (Public Law 96-8, 22 U.S.C. 3301 <i>et seq</i>.) ("Act"), and section 301 of title 3, United States Code, in order to facilitate the maintenance of commercial, cultural, and other relations between the people of the United States and the people on Taiwan without official representation or diplomatic relations, it is hereby ordered as follows:
 
 Section 1. <i>Delegation and Reservation of Functions.</i>
 

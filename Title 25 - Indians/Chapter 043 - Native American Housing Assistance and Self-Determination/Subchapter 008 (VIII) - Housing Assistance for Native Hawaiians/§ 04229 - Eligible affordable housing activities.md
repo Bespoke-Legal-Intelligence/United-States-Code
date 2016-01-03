@@ -6,7 +6,7 @@ Affordable housing activities under this section are activities conducted in acc
 
 &emsp;(1) develop or to support affordable housing for rental or homeownership; or
 
-&emsp;(2) provide housing services with respect to affordable housing, through the activities described in subsection (b) of this section.
+&emsp;(2) provide housing services with respect to affordable housing, through the activities described in subsection (b).
 
 #### (b) Activities
 

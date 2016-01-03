@@ -18,7 +18,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (1) Requirement
 
-&emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
+&emsp;To receive assistance from a State under subsection (a) of this section, an applicantconsortium shall provide the State with assurances that—
 
 &emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV/AIDS have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
@@ -86,7 +86,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (d) "Family centered care" defined
 
-As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
+As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants,children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
 
 #### (e) Priority
 

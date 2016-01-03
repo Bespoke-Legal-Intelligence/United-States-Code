@@ -20,11 +20,11 @@ A parent who is a citizen of the United States (or, if the citizen parent has di
 
 #### (b) Attainment of citizenship status; receipt of certificate
 
-Upon approval of the application (which may be filed from abroad) and, except as provided in the last sentence of section 1448(a) of this title, upon taking and subscribing before an officer of the Service within the United States to the oath of allegiance required by this chapter of an applicant for naturalization, the child shall become a citizen of the United States and shall be furnished by the Attorney General with a certificate of citizenship.
+Upon approval of the application (which may be filed from abroad) and, except as provided in the last sentence of section 1448(a) of this title, upon taking and subscribing before an officer of the Service within the United States to the oath of allegiance required by this chapter of an applicant for naturalization, the child shall become a citizen of the United States and shall befurnished by the Attorney General with a certificate of citizenship.
 
 #### (c) Adopted children
 
-Subsections (a) and (b) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
+Subsections (a) and (b) shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
 #### (d) Children of Armed Forces members
 

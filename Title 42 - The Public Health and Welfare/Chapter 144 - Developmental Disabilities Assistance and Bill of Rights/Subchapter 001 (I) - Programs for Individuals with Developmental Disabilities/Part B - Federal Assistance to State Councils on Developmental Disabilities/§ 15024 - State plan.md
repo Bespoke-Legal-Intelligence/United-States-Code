@@ -30,7 +30,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(ii) job training, job placement, worksite accommodation, and vocational rehabilitation, and other work assistance programs; and
 
-&emsp;&emsp;&emsp;(iii) social, child welfare, aging, independent living, and rehabilitation and assistive technology services, and such other services as the Secretary may specify;
+&emsp;&emsp;&emsp;(iii) social, child welfare, aging, independent living, and rehabilitation andassistive technology services, and such other services as the Secretary may specify;
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
@@ -94,7 +94,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(ii) such funds will contribute to the achievement of the purpose of this part in various political subdivisions of the State;
 
-&emsp;&emsp;&emsp;(iii) such funds will be used to supplement, and not supplant, the non-Federal funds that would otherwise be made available for the purposes for which the funds paid under section 15022 of this title are provided;
+&emsp;&emsp;&emsp;(iii) such funds will be used to supplement, and not supplant, the non-Federalfunds that would otherwise be made available for the purposes for which the funds paid under section 15022 of this title are provided;
 
 &emsp;&emsp;&emsp;(iv) such funds will be used to complement and augment rather than duplicate or replace services for individuals with developmental disabilities and their families who are eligible for Federal assistance under other State programs;
 

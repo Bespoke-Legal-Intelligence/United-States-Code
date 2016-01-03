@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Effective Date
 
@@ -20,5 +20,5 @@ Pub. L. 109–58, title VI, §656(b), Aug. 8, 2005, 119 Stat. 814, provided that
 
 #### Effect on Other Law
 
-Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enactingthis section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
+Pub. L. 109–58, title VI, §656(d), Aug. 8, 2005, 119 Stat. 814, provided that: "Nothing in this section \[enacting this section and provisions set out as notes under this section\] or the amendment made by this section shall waive, modify, or affect the application of chapter 51 of title 49, United States Code, part A of subtitle V of title 49, United States Code, part B of subtitle VI of title 49, United States Code, and title 23, United States Code."
 

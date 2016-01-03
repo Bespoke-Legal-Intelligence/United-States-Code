@@ -1,6 +1,6 @@
 ### §1163. Appointment of trustee
 
-As soon as practicable after the order for relief the Secretary of Transportation shall submit alist of five disinterested persons that are qualified and willing to serve as trustees in the case. The United States trustee shall appoint one of such persons to serve as trustee in the case.
+As soon as practicable after the order for relief the Secretary of Transportation shall submit a list of five disinterested persons that are qualified and willing to serve as trustees in the case. The United States trustee shall appoint one of such persons to serve as trustee in the case.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641; Pub. L. 99–554, title II, §226, Oct. 27, 1986, 100 Stat. 3102.)
 

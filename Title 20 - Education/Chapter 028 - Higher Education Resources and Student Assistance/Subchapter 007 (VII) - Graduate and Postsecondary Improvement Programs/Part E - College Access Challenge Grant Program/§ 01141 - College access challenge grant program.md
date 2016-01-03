@@ -2,7 +2,7 @@
 
 #### (a) Authorization and appropriation
 
-There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+There are authorized to be appropriated, and there are appropriated, to carry out this section $150,000,000 for each of the fiscal years 2010through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014. In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 #### (b) Program authorized
 
@@ -62,7 +62,7 @@ There are authorized to be appropriated, and there are appropriated, to carry ou
 
 &emsp;An application submitted under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this sectionand report annually to the Secretary on the activities and services described in subsection (f).
+&emsp;&emsp;(A) A description of the grantee's capacity to administer the grant under this section and report annually to the Secretary on the activities and services described in subsection (f).
 
 &emsp;&emsp;(B) A description of the grantee's plan for using the grant funds to meet the requirements of subsections (f) and (g), including plans for how the grantee will make special efforts to—
 
@@ -290,7 +290,7 @@ Another prior section 1145a, Pub. L. 89–329, title XII, §1206, as added Pub. 
 
 Section 1145b, Pub. L. 89–329, title XII, §1207, as added Pub. L. 99–498, title XII, §1204, Oct. 17, 1986, 100 Stat. 1576, related to student representation in connection with administration of this chapter.
 
-Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I,§182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
+Another prior section 1145b, Pub. L. 89–329, title XII, §1202, formerly §1207, as added Pub. L. 94–482, title I, §182, Oct. 12, 1976, 90 Stat. 2167; renumbered title XII, §1202, Pub. L. 96–374, title XII, §1201, Oct. 3, 1980, 94 Stat. 1493, which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to section 1142 of this title and subsequently repealed by Pub. L. 105–244.
 
 Section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. L. 99–498, title XII, §1205, Oct. 17, 1986, 100 Stat. 1577, related to financial responsibility of foreign students.
 

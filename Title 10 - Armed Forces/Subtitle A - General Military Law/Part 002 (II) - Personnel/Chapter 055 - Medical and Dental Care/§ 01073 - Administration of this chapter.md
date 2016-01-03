@@ -2,7 +2,7 @@
 
 (a)
 
-Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
+Responsible Officials.—(1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, theSecretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 (2) Except as otherwise provided in this chapter, the Secretary of Defense shall have responsibility for administering the TRICARE program and making any decision affecting such program.
 
@@ -76,13 +76,253 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
+#### Access to Health Care Under the TRICARE Program for Beneficiaries of TRICARE Prime
+
+Pub. L. 114–92, div. A, title VII, §704, Nov. 25, 2015, 129 Stat. 863, provided that:
+
+"(a)
+
+Access to Health Care.—The Secretary of Defense shall ensure that beneficiaries under TRICARE Prime who are seeking an appointment for health care under TRICARE Prime shall obtain such an appointment within the health care access standards established under subsection (b), including through the use of health care providers in the preferred provider network of TRICARE Prime.
+
+"(b)
+
+Standards for Access to Care.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall establish health care access standards for the receipt of health care under TRICARE Prime, whether received at military medical treatment facilities or from health care providers in the preferred provider network of TRICARE Prime.
+
+&emsp;"(2)
+
+Categories of care.—The health care access standards established under paragraph (1) shall include standards with respect to the following categories of health care:
+
+&emsp;&emsp;"(A) Primary care, including pediatric care, maternity care, gynecological care, and other subcategories of primary care.
+
+&emsp;&emsp;"(B) Specialty care, including behavioral health care and other subcategories of specialty care.
+
+&emsp;"(3)
+
+Modifications.—The Secretary may modify the health care access standards established under paragraph (1) whenever the Secretary considers the modification of such standards appropriate.
+
+&emsp;"(4)
+
+Publication.—The Secretary shall publish the health care access standards established under paragraph (1), and any modifications to such standards, in the Federal Register and on a publicly accessible Internet website of the Department of Defense.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+TRICARE prime.—The term 'TRICARE Prime' means the managed care option of the TRICARE program.
+
+&emsp;"(2)
+
+TRICARE program.—The term 'TRICARE program' has the meaning given that term in section 1072(7) of title 10, United States Code."
+
+#### Portability of Health Plans Under the TRICARE Program
+
+Pub. L. 114–92, div. A, title VII, §714, Nov. 25, 2015, 129 Stat. 865, provided that:
+
+"(a)
+
+Health Plan Portability.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall ensure that covered beneficiaries under the TRICARE program who are covered under a health plan under such program are able to seamlessly access health care under such health plan in each TRICARE program region.
+
+&emsp;"(2)
+
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall prescribe regulations to carry out paragraph (1).
+
+"(b)
+
+Mechanisms To Ensure Portability.—In carrying out subsection (a), the Secretary shall—
+
+&emsp;"(1) establish a process for electronic notification of contractors responsible for administering the TRICARE program in each TRICARE region when any covered beneficiary intends to relocate between such regions;
+
+&emsp;"(2) provide for the automatic electronic transfer between such contractors of information relating to covered beneficiaries who are relocating between such regions, including demographic, enrollment, and claims information; and
+
+&emsp;"(3) ensure each such covered beneficiary is able to obtain a new primary health care provider within ten days of—
+
+&emsp;&emsp;"(A) arriving at the location to which the covered beneficiary has relocated; and
+
+&emsp;&emsp;"(B) initiating a request for a new primary health care provider.
+
+"(c)
+
+Publication.—The Secretary shall—
+
+&emsp;"(1) publish information on any modifications made pursuant to subsection (a) with respect to the ability of covered beneficiaries under the TRICARE program who are covered under a health plan under such program to access health care in each TRICARE region on the primary Internet website of the Department that is available to the public; and
+
+&emsp;"(2) ensure that such information is made available on the primary Internet website that is available to the public of each current contractor responsible for administering the TRICARE program.
+
+"(d)
+
+Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meaning given such terms in section 1072 of title 10, United States Code."
+
+#### Licensure of Mental Health Professionals in TRICARE Program
+
+Pub. L. 114–92, div. A, title VII, §716, Nov. 25, 2015, 129 Stat. 867, provided that:
+
+"(a)
+
+Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that is accredited by the Council for Accreditation of Counseling and Related Educational Programs.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered institution' means any of the following:
+
+&emsp;&emsp;"(A) The Accrediting Commission for Community and Junior Colleges Western Association of Schools and Colleges (ACCJC-WASC).
+
+&emsp;&emsp;"(B) The Higher Learning Commission (HLC).
+
+&emsp;&emsp;"(C) The Middle States Commission on Higher Education (MSCHE).
+
+&emsp;&emsp;"(D) The New England Association of Schools and Colleges Commission on Institutions of Higher Education (NEASC-CIHE).
+
+&emsp;&emsp;"(E) The Southern Association of Colleges and Schools (SACS) Commission on Colleges.
+
+&emsp;&emsp;"(F) The WASC Senior College and University Commission (WASC-SCUC).
+
+&emsp;&emsp;"(G) The Accrediting Bureau of Health Education Schools (ABHES).
+
+&emsp;&emsp;"(H) The Accrediting Commission of Career Schools and Colleges (ACCSC).
+
+&emsp;&emsp;"(I) The Accrediting Council for Independent Colleges and Schools (ACICS).
+
+&emsp;&emsp;"(J) The Distance Education Accreditation Commission (DEAC).
+
+&emsp;"(2) The term 'TRICARE program' has the meaning given that term in section 1072 of title 10, United States Code."
+
+#### Designation of Certain Non-Department Mental Health Care Providers With Knowledge Relating to Treatment of Members of the Armed Forces
+
+Pub. L. 114–92, div. A, title VII, §717, Nov. 25, 2015, 129 Stat. 868, provided that:
+
+"(a)
+
+Mental Health Provider Readiness Designation.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall develop a system by which any non-Department mental health care provider that meets eligibility criteria established by the Secretary relating to the knowledge described in paragraph (2) receives a mental health provider readiness designation from the Department of Defense.
+
+&emsp;"(2)
+
+Knowledge described.—The knowledge described in this paragraph is the following:
+
+&emsp;&emsp;"(A) Knowledge and understanding with respect to the culture of members of the Armed Forces and family members and caregivers of members of the Armed Forces.
+
+&emsp;&emsp;"(B) Knowledge with respect to evidence-based treatments that have been approved by the Department for the treatment of mental health issues among members of the Armed Forces.
+
+"(b)
+
+Availability of Information on Designation.—
+
+&emsp;"(1)
+
+Registry.—The Secretary of Defense shall establish and update as necessary a publically availableregistry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
+
+&emsp;"(2)
+
+Provider list.—The Secretary shall update all lists maintained by the Secretary of non-Department mental health care providers that provide mental health care under the laws administered by the Secretary by indicating the providers that are currently designated under subsection (a)(1).
+
+"(c)
+
+Non-Department Mental Health Care Provider Defined.—In this section, the term 'non-Department mental health care provider'—
+
+&emsp;"(1) means a health care provider who—
+
+&emsp;&emsp;"(A) specializes in mental health;
+
+&emsp;&emsp;"(B) is not a health care provider of the Department of Defense at a facility of the Department; and
+
+&emsp;&emsp;"(C) provides health care to members of the Armed Forces; and
+
+&emsp;"(2) includes psychiatrists, psychologists, psychiatric nurses, social workers, mental health counselors, marriage and family therapists, and other mental health care providers designated by the Secretary of Defense."
+
+#### Pilot Program on Urgent Care Under TRICARE Program
+
+Pub. L. 114–92, div. A, title VII, §725, Nov. 25, 2015, 129 Stat. 870, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Commencing not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall carry out a pilot program to allow a covered beneficiary under the TRICARE program access to urgent care visits without the need for preauthorization for such visits.
+
+&emsp;"(2)
+
+Duration.—The Secretary shall carry out the pilot program for a period of three years.
+
+&emsp;"(3)
+
+Incorporation of nurse advice line.—The Secretary shall incorporate the nurse advise \[sic\] line of the Department into the pilot program to direct covered beneficiaries seeking access to care to the source of the most appropriate level of health care required to treat the medical conditions of the beneficiaries, including urgent care under the pilot program.
+
+"(b)
+
+Publication.—The Secretary shall—
+
+&emsp;"(1) publish information on the pilot program under subsection (a) for the receipt of urgent care under the TRICARE program—
+
+&emsp;&emsp;"(A) on the primary publically available Internet website of the Department; and
+
+&emsp;&emsp;"(B) on the primary publically available Internet website of each military medical treatment facility; and
+
+&emsp;"(2) ensure that such information is made available on the primary publically available Internet website of each current managed care contractor that has established a health care provider network under the TRICARE program.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+First report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The report under subparagraph (1) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) An analysis of urgent care use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
+
+&emsp;&emsp;&emsp;"(ii) A comparison of urgent care use by covered beneficiaries to the use by covered beneficiaries of emergency departments in military medical treatment facilities and the TRICARE purchased care provider network, including an analysis of whether the pilot program decreases the inappropriate use of medical care in emergency departments.
+
+&emsp;&emsp;&emsp;"(iii) A determination of the extent to which the nurse advice line of the Department affected both urgent care and emergency department use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
+
+&emsp;&emsp;&emsp;"(iv) An analysis of any cost savings to the Department realized through the pilot program.
+
+&emsp;&emsp;&emsp;"(v) A determination of the optimum number of urgent care visits available to covered beneficiaries without preauthorization.
+
+&emsp;&emsp;&emsp;"(vi) An analysis of the satisfaction of covered beneficiaries with the pilot program.
+
+&emsp;"(2)
+
+Second report.—Not later than two years after the date on which the pilot program commences, the Secretary shall submit to the committees specified in paragraph (1)(A) an update to the report required by such paragraph, including any recommendations of the Secretary with respect to extending or making permanent the pilot program and a description of any related legislative actions that the Secretary considers appropriate.
+
+&emsp;"(3)
+
+Final report.—Not later than 180 days after the date on which the pilot program is completed, the Secretary shall submit to the committees specified in paragraph (1)(A) a final report on the pilot program that updates the report required by paragraph (2).
+
+"(d)
+
+Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meaning given such terms in section 1072 of title 10, United States Code."
+
 #### Cooperative Health Care Agreements Between Military Installations and Non-Military Health Care Systems
 
 Pub. L. 111–84, div. A, title VII, §713, Oct. 28, 2009, 123 Stat. 2380, provided that:
 
 "(a)
 
-Authority.—The Secretary of Defense may establish cooperative health care agreements betweenmilitary installations and local or regional health care systems.
+Authority.—The Secretary of Defense may establish cooperative health care agreements between military installations and local or regional health care systems.
 
 "(b)
 
@@ -114,7 +354,7 @@ Annual Reports.—Not later than December 31 of each year an agreement entered i
 
 "(d)
 
-Rule of Construction.—Nothing in this section shall be construed as authorizing the provision of health care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
+Rule of Construction.—Nothing in this section shall be construed as authorizing the provision ofhealth care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code."
 
 #### Inpatient Mental Health Service
 
@@ -248,7 +488,7 @@ Pub. L. 110–181, div. A, title VII, §717(a), Jan. 28, 2008, 122 Stat. 196, pr
 
 #### Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel
 
-Pub. L. 110–28, title III, §3307, May 25, 2007, 121 Stat. 137, provided that:
+Pub. L. 110–28, title III, §3307, May 25, 2007, 121 Stat. 137, as amended by Pub. L. 114–92, div. A, title X, §1072(g), Nov. 25, 2015, 129 Stat. 995, provided that:
 
 "(a)
 
@@ -294,17 +534,13 @@ Construction with other inspections.—An inspection of a facility or quarters u
 
 "(d)
 
-Reports on Inspections.—A complete copy of the report on each inspection conducted under subsections (a) and (c) shall be submitted in unclassified form to the applicable military medical command and to the congressional defense committees.
-
-"(e)
-
 Report on Standards.—In the event no standards for the maintenance and operation of military medical treatment facilities, military quarters housing medical hold personnel, or military quarters housing medical holdover personnel exist as of the date of the enactment of this Act, or such standards as do exist do not meet acceptable standards for the maintenance and operation of such facilities or quarters, as the case may be, the Secretary shall, not later than 30 days after that date, submit to the congressional defense committees a report setting forth the plan of the Secretary to ensure—
 
 &emsp;"(1) the adoption by the Department of standards for the maintenance and operation of military medical facilities, military quarters housing medical hold personnel, or military quarters housing medical holdover personnel, as applicable, that meet—
 
 &emsp;&emsp;"(A) acceptable standards for the maintenance and operation of such facilities or quarters, as the case may be; and
 
-&emsp;&emsp;"(B) where appropriate, standards under the Americans with Disabilities Act of 1990; and
+&emsp;&emsp;"(B) where appropriate, standards under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\]; and
 
 &emsp;"(2) the comprehensive implementation of the standards adopted under paragraph (1) at the earliest date practicable."
 
@@ -402,7 +638,7 @@ Pub. L. 109–163, div. A, title VII, §717, Jan. 6, 2006, 119 Stat. 3345, provi
 
 "(a)
 
-Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual maybe selected to serve in the position of Regional Director under the TRICARE program unless the individual—
+Qualifications.—Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
 &emsp;"(1) is—
 
@@ -546,7 +782,7 @@ Waiver Authority.—The Secretary may waive the prohibition in subsection (a) if
 
 &emsp;&emsp;"(C) determines that the lack of nonavailability statement data would significantly interfere with TRICARE contract administration;
 
-&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care at the military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
+&emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care atthe military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
 
 &emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiver under this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
 
@@ -760,7 +996,7 @@ Covered Sources.—The regulations shall apply to the following:
 
 &emsp;"(1) Pharmacies and any other dispensers of prescription medications in medical facilities of the uniformed services.
 
-&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by any of the administering Secretaries under chapter 55 of title 10, United States Code.
+&emsp;"(2) Sources of prescription medications under any mail order pharmaceuticals program provided by anyof the administering Secretaries under chapter 55 of title 10, United States Code.
 
 &emsp;"(3) Pharmacies paid under the Civilian Health and Medical Program of the Uniformed Services (including the TRICARE program).
 
@@ -914,7 +1150,7 @@ Additional Enrollment Authority.—(1) Subject to paragraph (2), other covered b
 
 Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
 
-"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10,United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
+"(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under section 1079 of title 10, United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
 "(f)
 
@@ -1010,7 +1246,7 @@ Pub. L. 104–106, div. A, title VII, §716, Feb. 10, 1996, 110 Stat. 375, provi
 
 "(a)
 
-Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
+Program Required.—(1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in needof mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
 
 "(2) A child shall be eligible for selection to participate in the pilot program if the child is a dependent (as described in subparagraph (D) or (I) of section 1072(2) of title 10, United States Code) who—
 
@@ -1042,15 +1278,31 @@ Report.—Not later than March 1, 1998, the Secretary of Defense shall submit to
 
 #### Evaluation and Report on TRICARE Program Effectiveness
 
-Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, as amended by Pub. L. 112–239, div. A, title VII, §714, Jan. 2, 2013, 126 Stat. 1803, provided that:
+Pub. L. 104–106, div. A, title VII, §717, Feb. 10, 1996, 110 Stat. 376, as amended by Pub. L. 112–239, div. A, title VII, §714, Jan. 2, 2013, 126 Stat. 1803; Pub. L. 114–92, div. A, title VII, §713, Nov. 25, 2015, 129 Stat. 865, provided that:
 
 "(a)
 
-Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically address—
+Evaluation Required.—The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically—
 
-&emsp;"(1) the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services; and
+&emsp;"(1) address the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services;
 
-&emsp;"(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available.
+&emsp;"(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available; and
+
+&emsp;"(3) address patient safety, quality of care, and access to care at military medical treatment facilities, including—
+
+&emsp;&emsp;"(A) an identification of the number of practitioners providing health care in military medical treatment facilities that were reported to the National Practitioner Data Bank during the year preceding the evaluation; and
+
+&emsp;&emsp;"(B) with respect to each military medical treatment facility, an assessment of—
+
+&emsp;&emsp;&emsp;"(i) the current accreditation status of such facility, including any recommendations for corrective action made by the relevant accrediting body;
+
+&emsp;&emsp;&emsp;"(ii) any policies or procedures implemented during such year by the Secretary of the military department concerned that were designed to improve patient safety, quality of care, and access to care at such facility;
+
+&emsp;&emsp;&emsp;"(iii) data on surgical and maternity care outcomes during such year;
+
+&emsp;&emsp;&emsp;"(iv) data on appointment wait times during such year; and
+
+&emsp;&emsp;&emsp;"(v) data on patient safety, quality of care, and access to care as compared to standards established by the Department of Defense with respect to patient safety, quality of care, and access to care.
 
 "(b)
 
@@ -1082,7 +1334,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1) The term 'covered beneficiary' means a beneficiary under chapter 55 of title 10, United States Code, other than a beneficiary under section 1074(a) of such title.
 
-&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
+&emsp;"(2) The term 'TRICARE program' means the managed health care program that is established by the Secretary of Defense under the authority of chapter55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
 "(e)
 
@@ -1128,7 +1380,7 @@ Definitions.—For purposes of this section:
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure thecontinuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 

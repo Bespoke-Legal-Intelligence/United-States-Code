@@ -112,7 +112,7 @@ In General.—In the budget materials submitted to the President by the Secretar
 
 "(b)
 
-Form.—The Secretary shall ensure that any classified components of covered modules not included in aprocurement line item under subsection (a) shall be included in a classified annex.
+Form.—The Secretary shall ensure that any classified components of covered modules not included in a procurement line item under subsection (a) shall be included in a classified annex.
 
 "(c)
 
@@ -196,7 +196,7 @@ Pub. L. 111–84, div. A, title III, §318(b), Oct. 28, 2009, 123 Stat. 2250, pr
 
 #### Separate Procurement Line Items for Future Combat Systems Program
 
-Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, provided that: "Effective for the budget ofthe President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2011 and for each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated procurement line item is designated for each of the following elements of the Future Combat Systems program (in this section referred to as 'FCS'), to the extent the budget includes funding for such elements:
+Pub. L. 110–417, \[div. A\], title I, §111, Oct. 14, 2008, 122 Stat. 4373, provided that: "Effective for the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2011 and for each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated procurement line item is designated for each of the following elements of the Future Combat Systems program (in this section referred to as 'FCS'), to the extent the budget includes funding for such elements:
 
 &emsp;"(1) FCS Manned Ground Vehicles.
 
@@ -330,55 +330,7 @@ Display in budget justification materials.—As part of the budget justification
 
 #### Annual Submission of Information Regarding Information Technology Capital Assets
 
-Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, provided that:
-
-"(a)
-
-Requirement To Submit Information.—Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
-
-&emsp;"(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $32,000,000 or an estimated total cost for the future-years defense program for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $378,000,000, for all expenditures, for all increments, regardless of the appropriation and fund source, directly related to the assets definition, design, development, deployment, sustainment, and disposal.
-
-&emsp;"(2) Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments.
-
-"(b)
-
-Required Information For High-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
-
-&emsp;"(1) The name and identifying acronym of the information technology capital asset.
-
-&emsp;"(2) The date of initiation of the asset.
-
-&emsp;"(3) A summary of performance measurements and metrics.
-
-&emsp;"(4) The total amount of funds, by appropriation account, appropriated and obligated for prior fiscal years, with a specific breakout of such information for the two preceding fiscal years.
-
-&emsp;"(5) The funds, by appropriation account, requested for the next fiscal year.
-
-&emsp;"(6) The name of each prime contractor and the work to be performed.
-
-&emsp;"(7) Program management and management oversight information.
-
-&emsp;"(8) The original baseline cost and most current baseline information.
-
-&emsp;"(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note under 31 U.S.C. 1101\] and the Clinger–Cohen Act of 1996 (divisions D and E of Public Law 104–106; 110 Stat. 642) \[§§5001–5703 and §§4001–4402, see Tables for classification\].
-
-"(c)
-
-Required Information for Significant Investments.—With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset.
-
-"(d)
-
-Total Cost Determinations.—In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
-
-"(e)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'information technology' has the meaning given that term in section 11101 of title 40, United States Code.
-
-&emsp;"(2) The term 'capital asset' has the meaning given that term in Office of Management and Budget Circular A–11.
-
-&emsp;"(3) The term 'national security system' has the meaning given that term in section 11103 of title 40, United States Code."
+Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, \[div. A\], title X, §1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, §333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed by Pub. L. 114–92, div. A, title X, §1079(h), Nov. 25, 2015, 129 Stat. 1000.
 
 #### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
 
@@ -407,6 +359,8 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: "The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces' participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. C, title VIII, §8075, Dec. 18, 2015, 129 Stat. 2370.
 
 Pub. L. 113–235, div. C, title VIII, §8078, Dec. 16, 2014, 128 Stat. 2272.
 
@@ -456,7 +410,7 @@ Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provi
 
 #### Identification in President's Budget of NATO Costs
 
-Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budgetactivity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
+Pub. L. 106–79, title VIII, §8091, Oct. 25, 1999, 113 Stat. 1253, provided that: "The budget of the President for fiscal year 2001 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include budget activity groups (known as 'subactivities') in all appropriations accounts provided in this Act \[see Tables for classification\], as may be necessary, to separately identify all costs incurred by the Department of Defense to support the North Atlantic Treaty Organization and all Partnership For Peace programs and initiatives. The budget justification materials submitted to the Congress in support of the budget of the Department of Defense for fiscal year 2001, and subsequent fiscal years, shall provide complete, detailed estimates for all such costs."
 
 Similar provisions were contained in the following prior appropriation acts:
 

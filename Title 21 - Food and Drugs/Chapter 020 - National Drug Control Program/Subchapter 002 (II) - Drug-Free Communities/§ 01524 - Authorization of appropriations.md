@@ -42,7 +42,7 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 #### (2) Designated agency
 
-&emsp;The agency delegated to carry out this program under section 1531(d) of this title mayuse up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
+&emsp;The agency delegated to carry out this program under section 1531(d) of this title may use up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
 
 (Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535.)
 

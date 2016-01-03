@@ -2,7 +2,7 @@
 
 #### (a) Rules or regulations
 
-The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment inthe implementation of the International Wheat Agreement.
+The President is further authorized to take such other action, including prohibiting or restricting the importation or exportation of wheat or wheat-flour and to issue such rules or regulations which shall have the force and effect of law, as may be necessary in his judgment in the implementation of the International Wheat Agreement.
 
 #### (b) Reports; keeping and examination of books and records
 
@@ -38,7 +38,7 @@ The functions exercised under authority of this chapter shall be excluded from t
 
 #### (j) "Person" defined
 
-The term "person" as used in this section shall include the singular and the plural and any individual, partnership, corporation, association, or any other organized group of persons.
+The term "person" as used in this section shall include the singular and the plural and anyindividual, partnership, corporation, association, or any other organized group of persons.
 
 (Oct. 27, 1949, ch. 772, §3, 63 Stat. 946; Oct. 28, 1949, ch. 782, title II, §202(27), title XI, §1106(a), 63 Stat. 956, 972.)
 

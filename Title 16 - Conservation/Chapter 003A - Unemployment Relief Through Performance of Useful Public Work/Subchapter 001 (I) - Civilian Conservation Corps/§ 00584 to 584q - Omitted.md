@@ -62,7 +62,7 @@ Act Oct. 21, 1940, ch. 906, 54 Stat. 1206, formerly classified to section 584g o
 
 #### Transfer of Functions
 
-Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of Appendix to Title 50, War and National Defense.
+Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of the former Appendix to Title 50, War and National Defense.
 
 Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -92,7 +92,7 @@ Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by
 
 #### Medical and Burial Expenses
 
-Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch.263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, §301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
+Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch. 263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, §301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
 
 #### Projects on Private Lands
 

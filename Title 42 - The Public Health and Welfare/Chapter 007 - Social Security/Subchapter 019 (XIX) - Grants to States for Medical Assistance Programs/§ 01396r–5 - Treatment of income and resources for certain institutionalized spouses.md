@@ -8,7 +8,7 @@
 
 #### (2) No comparable treatment required
 
-&emsp;Any different treatment provided under this section for institutionalized spouses shall not,by reason of paragraph (10) or (17) of section 1396a(a) of this title, require such treatment for other individuals.
+&emsp;Any different treatment provided under this section for institutionalized spouses shall not, by reason of paragraph (10) or (17) of section 1396a(a) of this title, require such treatment for other individuals.
 
 #### (3) Does not affect certain determinations
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;(v) the determination of the community spouse resource allowance (as defined in subsection (f)(2) of this section);
 
-> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this title with respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting the determination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
+> &emsp;&emsp;such spouse is entitled to a fair hearing described in section 1396a(a)(3) of this titlewith respect to such determination if an application for benefits under this subchapter has been made on behalf of the institutionalized spouse. Any such hearing respecting the determination of the community spouse resource allowance shall be held within 30 days of the date of the request for the hearing.
 
 #### (B) Revision of minimum monthly maintenance needs allowance
 
@@ -358,7 +358,7 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(B) Section 1924 of the Social Security Act \[42 U.S.C. 1396r–5\] (as inserted by subsection (a)) shall only apply to institutionalized individuals who begin continuous periods of institutionalization on or after September 30, 1989, except that subsections (b) and (d) of such section (and so much of subsection (e) of such section as relates to such other subsections) shall apply as of such date to individuals institutionalized on or after such date.
 
-"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social Security Act for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+"(2)(A) The amendment made by subsection (b) \[amending section 1396p of this title\] and section 1902(a)(51)(B) of the Social Security Act \[42 U.S.C. 1396a(a)(51)(B)\], apply (except as provided in paragraph (5)) to payments under title XIX of the Social SecurityAct for calendar quarters beginning on or after July 1, 1988, or the date of the enactment of this Act \[July 1, 1988\], without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 "(B) Section 1917(c) of the Social Security Act \[42 U.S.C. 1396p(c)\], as amended by subsection (b) of this section, shall apply to resources disposed of on or after July 1, 1988, except that such section shall not apply with respect to inter-spousal transfers occurring before October 1, 1989.
 
@@ -366,7 +366,7 @@ Pub. L. 100–360, title III, §303(g), July 1, 1988, 102 Stat. 763, as amended 
 
 "(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
+"(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53 Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
 
 "(5) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this section (other than paragraphs (1) and (5) of subsection (e) \[amending section 1396a of this title\]), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 

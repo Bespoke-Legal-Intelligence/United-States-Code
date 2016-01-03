@@ -18,7 +18,7 @@ The Congress finds and declares the following:
 
 &emsp;(8) The implementation of earthquake hazards reduction measures would, as an added benefit, also reduce the risk of loss, destruction, and disruption from other natural hazards and manmade hazards, including hurricanes, tornadoes, accidents, explosions, landslides, building and structural cave-ins, and fires.
 
-&emsp;(9) Reduction of loss, destruction, and disruption from earthquakes will depend on the actions of individuals, and organizations in the private sector and governmental units at Federal, State, and local levels. The current capability to transfer knowledge and information to these sectors is insufficient. Improved mechanisms are needed to translate existing information and research findings into reasonable and usable specifications, criteria, and practices so that individuals, organizations, and governmental units may make informed decisions and take appropriate actions.
+&emsp;(9) Reduction of loss, destruction, and disruption from earthquakes will depend on the actions of individuals, and organizations in the private sector and governmental units at Federal, State, and local levels. The current capability to transfer knowledge and information to these sectors is insufficient. Improved mechanisms are needed to translate existinginformation and research findings into reasonable and usable specifications, criteria, and practices so that individuals, organizations, and governmental units may make informed decisions and take appropriate actions.
 
 &emsp;(10) Severe earthquakes are a worldwide problem. Since damaging earthquakes occur infrequently in any one nation, international cooperation is desirable for mutual learning from limited experiences.
 
@@ -56,5 +56,5 @@ Functions of President under Earthquake Hazards Reduction Act of 1977 delegated,
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal EmergencyManagement Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
 

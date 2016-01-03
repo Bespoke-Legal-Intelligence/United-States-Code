@@ -10,7 +10,7 @@ This title, referred to in text, means title IV of act July 26, 1947, ch. 343, a
 
 #### Codification
 
-Section was formerly classified to section 412 of this title prior to editorial reclassification and renumbering as this section, and to section 172j of former Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 412 of this title prior to editorial reclassification and renumbering as this section, and to section 172j of former Title 5 prior to the general revision and enactment of Title 5,Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

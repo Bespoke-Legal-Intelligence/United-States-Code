@@ -2,7 +2,7 @@
 
 #### (a) Functions
 
-The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify majorproblem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
+The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify major problem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
 
 &emsp;(1) information on the frequency, causes, spread, and extinguishment of fires;
 

@@ -58,11 +58,11 @@
 
 > The revenue, if any, from such timber harvests shall be subject to section 1606(i) of this title as if such conveyance had not occurred.
 
-(3) The conveyance of assets (including stock or beneficial interests) pursuant to subsection (a) of this section shall not affect the applicability or enforcement (including specific performance) of a valid contract, judgment, lien, or other obligation (including an obligation arising under section 1606(i) of this title) to which such assets, stock, or beneficial interests were subject immediately prior to such conveyance.
+(3) The conveyance of assets (including stock or beneficial interests) pursuant to subsection (a) shall not affect the applicability or enforcement (including specific performance) of a valid contract, judgment, lien, or other obligation (including an obligation arising under section 1606(i) of this title) to which such assets, stock, or beneficial interests were subject immediately prior to such conveyance.
 
 (4) A claim based upon paragraph (1), (2), or (3) shall be enforceable against the transferee Settlement Trust holding the land, interest in land, or other assets (including stock or beneficial interests) in question to the same extent as such claim would have been enforceable against the transferor Native Corporation, and valid obligations arising under section 1606(i) of this title as well as claims with respect to a conveyance in violation of a valid contract, judgment, lien, or other obligation shall also be enforceable against the transferor corporation.
 
-(5) Except as provided in paragraphs (1), (2), (3), and (4), once a Native Corporation has made, pursuant to subsection (a) of this section, a conveyance to a Settlement Trust that does not—
+(5) Except as provided in paragraphs (1), (2), (3), and (4), once a Native Corporation has made, pursuant to subsection (a), a conveyance to a Settlement Trust that does not—
 
 &emsp;(A) render it—
 
@@ -72,7 +72,7 @@
 
 &emsp;(B) occur when the Native Corporation is insolvent;
 
-> the assets so conveyed to the Settlement Trust shall not be subject to attachment, distraint, or sale on execution of judgment or other process or order of any court, except with respect to the lawful debts or obligations of the Settlement Trust.
+> the assets so conveyed to the Settlement Trust shall not be subject to attachment, distraint, orsale on execution of judgment or other process or order of any court, except with respect to the lawful debts or obligations of the Settlement Trust.
 
 (6) No transferee Settlement Trust shall make a distribution or conveyance of assets (including cash, stock, or beneficial interests) that would render it unable to satisfy a claim made pursuant to paragraph (1), (2), or (3). A distribution or conveyance made in violation of this paragraph shall be void ab initio and shall not be given effect by any court.
 

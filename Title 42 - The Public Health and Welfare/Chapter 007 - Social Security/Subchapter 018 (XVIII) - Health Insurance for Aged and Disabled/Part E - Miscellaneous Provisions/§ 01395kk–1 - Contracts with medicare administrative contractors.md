@@ -58,7 +58,11 @@
 
 &emsp;&emsp;Performing the functions relating to provider education, training, and technical assistance.
 
-#### (G) Additional functions
+#### (G) Improper payment outreach and education program
+
+&emsp;&emsp;Having in place an improper payment outreach and education program described in subsection (h).
+
+#### (H) Additional functions
 
 &emsp;&emsp;Performing such other functions, including (subject to paragraph (5)) functions under the Medicare Integrity Program under section 1395ddd of this title, as are necessary to carry out the purposes of this subchapter.
 
@@ -70,7 +74,7 @@
 
 #### (B) Construction
 
-&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely by reason of having entered into a contract with the Secretary under section 1395ddd of this title.
+&emsp;&emsp;An entity shall not be treated as a medicare administrative contractor merely byreason of having entered into a contract with the Secretary under section 1395ddd of this title.
 
 #### (6) Application of Federal Acquisition Regulation
 
@@ -86,7 +90,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 5 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
 
 #### (C) Transfer of functions
 
@@ -115,6 +119,10 @@
 #### (iii) Publication of standards
 
 &emsp;&emsp;&emsp;The Secretary shall make such performance requirements and measurement standards available to the public.
+
+#### (iv) Contractor performance transparency
+
+&emsp;&emsp;&emsp;To the extent possible without compromising the process for entering into and renewing contracts with medicare administrative contractors under this section, the Secretary shall make available to the public the performance of each medicare administrative contractor with respect to such performance requirements and measurement standards.
 
 #### (B) Considerations
 
@@ -160,7 +168,7 @@
 
 #### (2) Disbursing officer
 
-&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (whichmeets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
+&emsp;No disbursing officer shall, in the absence of the reckless disregard of the officer's obligations or the intent by that officer to defraud the United States, be liable with respect to any payment by such officer under this section if it was based upon an authorization (which meets the applicable requirements for such internal controls established by the Comptroller General of the United States) of a certifying officer designated as provided in paragraph (1) of this subsection.
 
 #### (3) Liability of medicare administrative contractor
 
@@ -284,7 +292,91 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
+#### (h) Improper payment outreach and education program
+
+#### (1) In general
+
+&emsp;In order to reduce improper payments under this subchapter, each medicare administrative contractor shall establish and have in place an improper payment outreach and education program under which the contractor, through outreach, education, training, and technical assistance or other activities, shall provide providers of services and suppliers located in the region covered by the contract under this section with the information described in paragraph (2). The activities described in the preceding sentence shall be conducted on a regular basis.
+
+#### (2) Information to be provided through activities
+
+&emsp;The information to be provided under such payment outreach and education program shall include information the Secretary determines to be appropriate, which may include the following information:
+
+&emsp;&emsp;(A) A list of the providers' or suppliers' most frequent and expensive payment errors over the last quarter.
+
+&emsp;&emsp;(B) Specific instructions regarding how to correct or avoid such errors in the future.
+
+&emsp;&emsp;(C) A notice of new topics that have been approved by the Secretary for audits conducted by recovery audit contractors under section 1395ddd(h) of this title.
+
+&emsp;&emsp;(D) Specific instructions to prevent future issues related to such new audits.
+
+&emsp;&emsp;(E) Other information determined appropriate by the Secretary.
+
+#### (3) Priority
+
+&emsp;A medicare administrative contractor shall give priority to activities under such program that will reduce improper payments that are one or more of the following:
+
+&emsp;&emsp;(A) Are for items and services that have the highest rate of improper payment.
+
+&emsp;&emsp;(B) Are for items and service <sup>2</sup> that have the greatest total dollar amount of improper payments.
+
+&emsp;&emsp;(C) Are due to clear misapplication or misinterpretation of Medicare policies.
+
+&emsp;&emsp;(D) Are clearly due to common and inadvertent clerical or administrative errors.
+
+&emsp;&emsp;(E) Are due to other types of errors that the Secretary determines could be prevented through activities under the program.
+
+#### (4) Information on improper payments from recovery audit contractors
+
+#### (A) In general
+
+&emsp;&emsp;In order to assist medicare administrative contractors in carrying out improper payment outreach and education programs, the Secretary shall provide each contractor with a complete list of the types of improper payments identified by recovery audit contractors under section 1395ddd(h) of this title with respect to providers of services and suppliers located in the region covered by the contract under this section. Such information shall be provided on a time frame the Secretary determines appropriate which may be on a quarterly basis.
+
+#### (B) Information
+
+&emsp;&emsp;The information described in subparagraph (A) shall include information such as the following:
+
+&emsp;&emsp;&emsp;(i) Providers of services and suppliers that have the highest rate of improper payments.
+
+&emsp;&emsp;&emsp;(ii) Providers of services and suppliers that have the greatest total dollar amounts of improper payments.
+
+&emsp;&emsp;&emsp;(iii) Items and services furnished in the region that have the highest rates of improper payments.
+
+&emsp;&emsp;&emsp;(iv) Items and services furnished in the region that are responsible for the greatest total dollar amount of improper payments.
+
+&emsp;&emsp;&emsp;(v) Other information the Secretary determines would assist the contractor in carrying out the program.
+
+#### (5) Communications
+
+&emsp;Communications with providers of services and suppliers under an improper payment outreach and education program are subject to the standards and requirements of subsection (g).
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057; Pub. L. 114–10, title V, §§505(a), 509(a), (c), Apr. 16, 2015, 129 Stat. 166, 170; Pub. L. 114–115, §7(a), Dec. 28, 2015, 129 Stat. 3134.)
+
+#### Amendment of Subsection (b)(1)(D)
+
+<i>Pub. L. 114–115, §7, Dec. 28, 2015, 129 Stat. 3134, provided that, applicable to contracts entered into or renewed on or after the date that is 3 years after Dec. 28, 2015, with provision for application to certain existing contracts, subsection (b)(1)(D) of this section is amended:</i>
+
+<i>(1) by striking "The Secretary" and inserting:</i>
+
+#### <i>"(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>"Subject to clauses (ii) and (iii), the Secretary"; and</i>
+
+<i>(2) by adding after clause (i) the following new clauses:</i>
+
+#### <i>(ii) Improper payment rate reduction incentives</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall provide incentives for medicare administrative contractors to reduce the improper payment error rates in their jurisdictions.</i>
+
+#### <i>(iii) Incentives</i>
+
+&emsp;&emsp;&emsp;<i>The incentives provided for under clause (ii)—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### References in Text
 
@@ -295,6 +387,16 @@ Section 3544 of title 44, referred to in subsec. (e)(1), (2)(C)(iii), was repeal
 In subsec. (b)(1)(B), "section 6101 of title 41" substituted for "section 5 of title 41, United States Code," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4)(G), (H). Pub. L. 114–10, §505(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+
+Subsec. (b)(1)(B). Pub. L. 114–10, §509(a), substituted "10 years" for "5 years".
+
+Subsec. (b)(1)(D). Pub. L. 114–115 designated existing provisions as cl. (i) and inserted heading, substituted "Subject to clauses (ii) and (iii), the Secretary" for "The Secretary", and added cls. (ii) and (iii).
+
+Subsec. (b)(3)(A)(iv). Pub. L. 114–10, §509(c), added cl. (iv).
+
+Subsec. (h). Pub. L. 114–10, §505(a)(2), added subsec. (h).
 
 <b>2010</b>—Subsec. (h). Pub. L. 111–152 struck out subsec. (h) which related to conduct of prepayment review.
 
@@ -307,6 +409,20 @@ Subsec. (f). Pub. L. 108–173, §921(b)(1), added subsec. (f).
 Subsec. (g). Pub. L. 108–173, §921(c)(1), added subsec. (g).
 
 Subsec. (h). Pub. L. 108–173, §934(a), added subsec. (h).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–115, §7(b), Dec. 28, 2015, 129 Stat. 3134, provided that:
+
+"(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] shall apply to contracts entered into or renewed on or after the date that is 3 years after the date of enactment of this Act \[Dec. 28, 2015\].
+
+"(2)
+
+Application to existing contracts.—In the case of contracts in existence on or after the date of the enactment of this Act and that are not subject to the effective date under paragraph (1), the Secretary of Health and Human Services shall, when appropriate and practicable, seek to apply the incentives provided for in the amendments made by subsection (a) through contract modifications."
+
+Pub. L. 114–10, title V, §509(b), Apr. 16, 2015, 129 Stat. 170, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to contracts entered into on or after, and to contracts in effect as of, the date of the enactment of this Act \[Apr. 16, 2015\]."
 
 #### Effective Date of 2003 Amendment
 
@@ -448,7 +564,7 @@ Pilot Projects to Test Modified or New Evaluation and Management Documentation G
 
 &emsp;"(1)
 
-In general.—With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under thissubsection appropriate and representative pilot projects to test the proposed guidelines.
+In general.—With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under this subsection appropriate and representative pilot projects to test the proposed guidelines.
 
 &emsp;"(2)
 
@@ -482,7 +598,7 @@ Study of impact.—Each pilot project shall examine the effect of the proposed g
 
 &emsp;"(5)
 
-Report on pilot projects.—Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), the Secretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
+Report on pilot projects.—Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), theSecretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
 
 "(c)
 
@@ -541,4 +657,6 @@ Definitions.—In this section—
 &emsp;"(2) the term 'teaching settings' are those settings described in section 415.150 of title 42, Code of Federal Regulations."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "services".</i>
 

@@ -96,7 +96,7 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) Sections 301, 333, 344, 347(b), 349, 350(b) 351,,<sup>1</sup> 361, 362, 364(c), 364(d), 364(e), 364(f), 365, 366, 501, 502, 503, 504, 506, 507(a)(2), 509, 510, 524(a)(1), 524(a)(2), 544, 545, 546, 547, 548, 549(a), 549(c), 549(d), 550, 551, 552, 553, 555, 556, 557, 559, 560, 561, 562, 1102, 1103, 1109, 1111(b), 1122, 1123(a)(1), 1123(a)(2), 1123(a)(3), 1123(a)(4), 1123(a)(5), 1123(b), 1123(d), 1124, 1125, 1126(a), 1126(b), 1126(c), 1126(e), 1126(f), 1126(g), 1127(d), 1128, 1129(a)(2), 1129(a)(3), 1129(a)(6), 1129(a)(8), 1129(a)(10), 1129(b)(1), 1129(b)(2)(A), 1129(b)(2)(B), 1142(b), 1143, 1144, and 1145 of this title apply in a case under this chapter.
 
-(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>2</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
+(b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>2</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unlesssuch term is otherwise defined in section 902 of this title.
 
 (c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
@@ -70,7 +70,7 @@ Section 901 makes applicable appropriate provisions of other chapters of propose
 
 <i>§1125. Postpetition disclosure and solicitation</i>. The change in the confirmation standard necessitates a corresponding change in the disclosure requirements for solicitation of acceptances of a plan. Under current chapter IX \[chapter 9 of former title 11\] there is no disclosure requirement. Incorporation of section 1125 will insure that creditors receive adequate information before they are required to vote on a plan.
 
-<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlikecurrent law, if there is a conflict of interest motivating the acceptance.
+<i>§1126(a), (b), (c), (e), (f), (g). Acceptance of plan</i>. Section 1126 incorporates the current chapter IX \[chapter 9 of former title 11\] acceptance requirement: two-thirds in amount and a majority in number, Bankruptcy Act §92 \[section 412 of former title 11\]. Section 1125 permits exclusion of certain acceptances from the computation if the acceptances were obtained in bad faith or, unlike current law, if there is a conflict of interest motivating the acceptance.
 
 <i>§1127(d). Modification of plan</i>. This section governs the change of a creditor's vote on the plan after a modification is proposed. It is derived from current section 92(e) \[section 412(e) of former title 11\].
 

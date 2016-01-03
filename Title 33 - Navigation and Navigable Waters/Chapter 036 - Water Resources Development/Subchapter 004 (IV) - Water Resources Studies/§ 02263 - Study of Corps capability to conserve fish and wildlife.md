@@ -102,7 +102,7 @@ Subsec. (b)(5). Pub. L. 110–114, §5021(4), which directed addition of par. (5
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted "$20,000,000" for "$7,000,000" in second sentence of introductory provisions and inserted at end of concluding provisions "In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs."
 
-Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows: "the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia."
+Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows:"the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia."
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted "$7,000,000" for "$5,000,000" in introductory provisions and inserted "and Virginia" after "Maryland" in par. (4).
 

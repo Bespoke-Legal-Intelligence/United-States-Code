@@ -6,7 +6,7 @@ The President shall use poverty measurement standards, such as those developed b
 
 #### (b) Ultimate beneficiaries of activities
 
-To the maximum extent possible, activities under this part that attempt to increase the institutional capabilities of private organizations or governments, or that attempt to stimulatescientific and technological research, shall be designed and monitored to ensure that the ultimate beneficiaries of these activities are the poor majority.
+To the maximum extent possible, activities under this part that attempt to increase the institutional capabilities of private organizations or governments, or that attempt to stimulate scientific and technological research, shall be designed and monitored to ensure that the ultimate beneficiaries of these activities are the poor majority.
 
 (Pub. L. 87–195, pt. I, §128, as added Pub. L. 97–377, title I, §101(b)(2), Dec. 21, 1982, 96 Stat. 1832; amended Pub. L. 99–83, title III, §312(a), Aug. 8, 1985, 99 Stat. 216.)
 

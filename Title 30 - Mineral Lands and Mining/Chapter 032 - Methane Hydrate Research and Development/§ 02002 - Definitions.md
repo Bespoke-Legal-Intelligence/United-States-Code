@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Industrial enterprise
 
-&emsp;The term "industrial enterprise" means a private, nongovernmental enterprise that hasan expertise or capability that relates to methane hydrate research and development.
+&emsp;The term "industrial enterprise" means a private, nongovernmental enterprise that has an expertise or capability that relates to methane hydrate research and development.
 
 #### (6) Institution of higher education
 

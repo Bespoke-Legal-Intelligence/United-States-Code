@@ -18,7 +18,7 @@ The Bureau shall prescribe such regulations as may be necessary to carry out the
 
 &emsp;&emsp;&emsp;(iii) any bank or State savings association insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System), any mutual savings bank as,<sup>1</sup> defined in section 1813(f) of this title, any insured State branch of a foreign bank, and any other depository institution not referred to in this paragraph or subparagraph (B) or (C);
 
-&emsp;&emsp;(B) under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subtitle; <sup>2</sup>
+&emsp;&emsp;(B) under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561et seq.\], by the Bureau, with respect to any person subject to this subtitle; <sup>2</sup>
 
 &emsp;&emsp;(C) under the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the Administrator of the National Credit Union Administration with respect to any insured credit union; and
 
@@ -30,7 +30,7 @@ The Bureau shall prescribe such regulations as may be necessary to carry out the
 
 #### (c) Violations of this chapter deemed violations of certain other provisions
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (d) Overall enforcement authority of the Bureau of Consumer Financial Protection
 

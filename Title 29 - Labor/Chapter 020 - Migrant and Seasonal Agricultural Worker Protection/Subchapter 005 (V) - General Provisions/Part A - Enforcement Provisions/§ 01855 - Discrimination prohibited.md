@@ -2,7 +2,7 @@
 
 #### (a) Prohibited activities
 
-No person shall intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any migrant or seasonal agricultural worker because such worker has, with just cause, filed any complaint or instituted, or caused to be instituted, any proceeding under or related to this chapter, or has testified or is about to testify in any such proceedings, or because of the exercise, with just cause, by such worker on behalf of himself or others of any right or protection afforded by this chapter.
+No person shall intimidate, threaten, restrain, coerce, blacklist, discharge, or in any manner discriminate against any migrant or seasonal agricultural worker because such worker has, with just cause, filed any complaint or instituted, or caused to be instituted, any proceeding under or related to this chapter, or has testified or is about to testify in any such proceedings, orbecause of the exercise, with just cause, by such worker on behalf of himself or others of any right or protection afforded by this chapter.
 
 #### (b) Proceedings for redress of violations
 

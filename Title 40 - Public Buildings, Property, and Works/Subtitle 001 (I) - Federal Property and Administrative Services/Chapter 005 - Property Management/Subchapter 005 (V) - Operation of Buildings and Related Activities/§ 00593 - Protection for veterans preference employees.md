@@ -10,7 +10,7 @@ Covered services.—The term "covered services" means any guard, elevator operat
 
 &emsp;(2)
 
-Sheltered workshop.—The term "sheltered workshop" means a sheltered workshopemploying the severely handicapped under chapter 85 of title 41.
+Sheltered workshop.—The term "sheltered workshop" means a sheltered workshop employing the severely handicapped under chapter 85 of title 41.
 
 (b)
 

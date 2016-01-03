@@ -14,7 +14,7 @@ Any person required by this chapter (other than subchapters F and G) or regulati
 
 &emsp;(5) fail or refuse to preserve or produce any such document, as required by this chapter or regulations issued pursuant thereto;
 
-> or who shall, with intent to defraud the United States, cause or procure the same to be done, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, for each such offense.
+> or who shall, with intent to defraud the United States, cause or procure the same to be done,shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, for each such offense.
 
 #### (b) Failure to comply
 

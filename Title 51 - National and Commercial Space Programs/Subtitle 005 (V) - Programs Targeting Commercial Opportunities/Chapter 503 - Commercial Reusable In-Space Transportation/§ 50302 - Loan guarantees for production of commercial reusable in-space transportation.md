@@ -10,7 +10,7 @@ Eligible United States Commercial Providers.—The Secretary shall prescribe req
 
 (c)
 
-Limitation on Loans Guaranteed.—The Secretary may not guarantee a loan for a United States commercial provider under this section unless the Secretary determines that creditwould not otherwise be reasonably available at the time of the guarantee for the commercial reusable in-space transportation service or system to be produced utilizing the proceeds of the loan.
+Limitation on Loans Guaranteed.—The Secretary may not guarantee a loan for a United States commercial provider under this section unless the Secretary determines that credit would not otherwise be reasonably available at the time of the guarantee for the commercial reusable in-space transportation service or system to be produced utilizing the proceeds of the loan.
 
 (d)
 
@@ -36,7 +36,7 @@ Prohibition on subordination.—A loan guaranteed under this section may not be 
 
 Restriction on income.—A loan guaranteed under this section may not—
 
-&emsp;&emsp;(A) provide income which is excluded from gross income for purposes of chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.); or
+&emsp;&emsp;(A) provide income which is excluded from gross income for purposes of chapter 1 of theInternal Revenue Code of 1986 (26 U.S.C. 1 et seq.); or
 
 &emsp;&emsp;(B) provide significant collateral or security, as determined by the Secretary, for other obligations the income from which is so excluded.
 

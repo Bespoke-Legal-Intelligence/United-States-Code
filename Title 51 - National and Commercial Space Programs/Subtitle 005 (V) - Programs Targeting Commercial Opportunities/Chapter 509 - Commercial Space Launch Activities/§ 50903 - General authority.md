@@ -8,7 +8,7 @@ General.—The Secretary of Transportation shall carry out this chapter.
 
 Facilitating Commercial Launches and Reentries.—In carrying out this chapter, the Secretary shall—
 
-&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by theprivate sector, including those involving space flight participants; and
+&emsp;(1) encourage, facilitate, and promote commercial space launches and reentries by the private sector, including those involving space flight participants; and
 
 &emsp;(2) take actions to facilitate private sector involvement in commercial space transportation activity, and to promote public-private partnerships involving the United States Government, State governments, and the private sector to build, expand, modernize, or operate a space launch and reentry infrastructure.
 

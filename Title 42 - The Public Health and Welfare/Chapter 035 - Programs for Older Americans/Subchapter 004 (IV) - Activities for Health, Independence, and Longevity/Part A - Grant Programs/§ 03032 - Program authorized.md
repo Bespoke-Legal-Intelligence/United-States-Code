@@ -16,7 +16,7 @@ For the purpose of carrying out this section, the Assistant Secretary may make g
 
 &emsp;(6) technical assistance in planning, developing, implementing, and improving the programs, services, and activities provided under this section;
 
-&emsp;(7) coordination with the designated State agency described in section 101(a)(2)(A)(i) of the Rehabilitation Act of 1973 (29 U.S.C. 721(a)(2)(A)(i)) to provide services to older individuals who are blind as described in such Act \[29 U.S.C. 701 et seq.\];
+&emsp;(7) coordination with the designated State agency described in section 101(a)(2)(A)(i) of the Rehabilitation Act of 1973 (29 U.S.C.721(a)(2)(A)(i)) to provide services to older individuals who are blind as described in such Act \[29 U.S.C. 701 et seq.\];
 
 &emsp;(8) the training of graduate level professionals specializing in the mental health needs of older individuals;
 
@@ -30,7 +30,7 @@ For the purpose of carrying out this section, the Assistant Secretary may make g
 
 &emsp;(10) the development, implementation, and assessment of technology-based service models and best practices, to support the use of health monitoring and assessment technologies, communication devices, assistive technologies, and other technologies that may remotely connect family and professional caregivers to frail older individuals residing in home and community-based settings or rural areas;
 
-&emsp;(11) conducting activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals through activities that include programevaluation, training, technical assistance, and research, including—
+&emsp;(11) conducting activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals through activities that include program evaluation, training, technical assistance, and research, including—
 
 &emsp;&emsp;(A) programs addressing unique issues faced by rural caregivers;
 

@@ -16,7 +16,7 @@
 
 Section 746(a) protects entities who deal in good faith with the debtor after the filing of the petition and before a trustee is appointed by deeming such entities to be customers. The principal application of this section will be in an involuntary case before the order for relief, because §701(b) requires prompt appointment of an interim trustee after the order for relief.
 
-Subsection (b) indicates that an entity who holds securities that are either part of the capital of the debtoror that are subordinated to the claims of any creditor of the debtor is not a customer with respect to those securities. This subsection will apply when the stockbroker has sold securities in itself to the customer or when the customer has otherwise placed such securities in an account with the stockbroker.
+Subsection (b) indicates that an entity who holds securities that are either part of the capital of the debtor or that are subordinated to the claims of any creditor of the debtor is not a customer with respect to those securities. This subsection will apply when the stockbroker has sold securities in itself to the customer or when the customer has otherwise placed such securities in an account with the stockbroker.
 
 #### Amendments
 

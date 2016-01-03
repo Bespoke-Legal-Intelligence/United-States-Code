@@ -110,7 +110,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive an award under this subsection to establish a Center, an accreditedschool of public health shall agree to conduct activities consistent with the requirements of this subsection.
+&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
 
 #### (3) Core curricula
 
@@ -122,7 +122,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 #### (5) Content of core curricula and training program
 
-&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to the needs of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
+&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to theneeds of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
 
 #### (6) Academic-workforce communication
 

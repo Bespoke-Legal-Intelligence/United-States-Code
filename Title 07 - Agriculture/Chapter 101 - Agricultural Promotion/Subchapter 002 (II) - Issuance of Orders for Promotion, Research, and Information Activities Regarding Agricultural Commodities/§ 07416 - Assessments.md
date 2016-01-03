@@ -18,7 +18,7 @@ Not more than 1 assessment may be levied on a first handler or importer under su
 
 #### (d) Assessment rates
 
-The board shall recommend to the Secretary 1 or more rates of assessment to be levied under subsection (a). If approved by the Secretary, therates shall take effect. An order may provide that an assessment rate may not be increased unless approved by a referendum conducted pursuant to section 7417 of this title.
+The board shall recommend to the Secretary 1 or more rates of assessment to be levied under subsection (a). If approved by the Secretary, the rates shall take effect. An order may provide that an assessment rate may not be increased unless approved by a referendum conducted pursuant to section 7417 of this title.
 
 #### (e) Late-payment and interest charges
 

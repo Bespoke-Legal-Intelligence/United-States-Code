@@ -12,31 +12,35 @@ In this section and section 657e of this title, the following definitions apply:
 
 &emsp;The term "business advice and counseling" means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
 
-#### (3) FAST program
+#### (3) Catastrophic incident
+
+&emsp;The term "catastrophic incident" means a major disaster that is comparable to the description of a catastrophic incident in the National Response Plan of the Administration, or any successor thereto.
+
+#### (4) FAST program
 
 &emsp;The term "FAST program" means the Federal and State Technology Partnership Program established under this section.
 
-#### (4) Mentor
+#### (5) Mentor
 
 &emsp;The term "mentor" means an individual described in section 657e(c)(2) of this title.
 
-#### (5) Mentoring Network
+#### (6) Mentoring Network
 
 &emsp;The term "Mentoring Network" means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title.
 
-#### (6) Recipient
+#### (7) Recipient
 
 &emsp;The term "recipient" means a person that receives an award or becomes party to a cooperative agreement under this section.
 
-#### (7) SBIR program
+#### (8) SBIR program
 
 &emsp;The term "SBIR program" has the same meaning as in section 638(e)(4) of this title.
 
-#### (8) State
+#### (9) State
 
 &emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
-#### (9) STTR program
+#### (10) STTR program
 
 &emsp;The term "STTR program" has the same meaning as in section 638(e)(6) of this title.
 
@@ -82,7 +86,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
 
-&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
+&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program;
 
 &emsp;&emsp;(B) shall consider, at a minimum—
 
@@ -102,7 +106,9 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;&emsp;&emsp;(II) owned and controlled by minorities; and
 
-&emsp;&emsp;&emsp;&emsp;(III) located in areas that have historically not participated in the SBIR and STTR programs.
+&emsp;&emsp;&emsp;&emsp;(III) located in areas that have historically not participated in the SBIR and STTR programs; and
+
+&emsp;&emsp;(C) shall give special consideration to an applicant that is located in an area affected by a catastrophic incident.
 
 #### (3) Proposal limit
 
@@ -111,6 +117,14 @@ The Administrator shall establish a program to be known as the Federal and State
 #### (4) Process
 
 &emsp;Proposals and applications for assistance under this section shall be in such form and subject to such procedures as the Administrator shall establish. The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).
+
+#### (5) Additional assistance for catastrophic incidents
+
+&emsp;Upon application by an applicant that receives an award or has in effect a cooperative agreement under this section and that is located in an area affected by a catastrophic incident, the Administrator may—
+
+&emsp;&emsp;(A) provide additional assistance to the applicant; and
+
+&emsp;&emsp;(B) waive the matching requirements under subsection (e)(2).
 
 #### (d) Cooperation and coordination
 
@@ -152,7 +166,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (C) Types of funding
 
-&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall becomprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
 
 #### (D) Rankings
 
@@ -216,7 +230,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 The authority to carry out the FAST program under this section shall terminate on September 30, 2005.
 
-(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265.)
+(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691.)
 
 #### References in Text
 
@@ -227,6 +241,12 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3) to (10). Pub. L. 114–88, §2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
+
+Subsec. (c)(2)(C). Pub. L. 114–88, §2104(b), added subpar. (C).
+
+Subsec. (c)(5). Pub. L. 114–88, §2104(c), added par. (5).
 
 <b>2001</b>—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
 

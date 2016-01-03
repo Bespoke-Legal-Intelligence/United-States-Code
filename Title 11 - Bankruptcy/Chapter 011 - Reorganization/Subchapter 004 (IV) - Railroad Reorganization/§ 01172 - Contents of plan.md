@@ -14,7 +14,7 @@
 
 (c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
-(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment ofemployee protection which might have existed in the absence of this subsection.
+(2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, §1218, Apr. 20, 2005, 119 Stat. 195.)
 
@@ -32,7 +32,7 @@ The House amendment deletes section 1171(a) of the Senate amendment as a matter 
 
 Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized. Subsection (2) permits a plan to include provisions for the issuance of warrants. Subsection (3) requires that the plan provide for fixed charges by probable earnings for their payment. Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated. Subsection (5) permits other appropriate provisions not inconsistent with the chapter. With the exception of subsection (4), the requirements are comparable to those of present section 77(b) \[section 205(b) of former title 11\]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
 
-Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
+Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as toany part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
 
 Subsection (a) requires the trustee to file a plan of reorganization within 18 months after the petition is filed, and permits the court, for good cause shown, to extend such time limit. Subsection (b) permits a plan to be proposed by any interested person, and permits the trustee to revise his plan at any time before it is approved by the court.
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1980 Amendment
 

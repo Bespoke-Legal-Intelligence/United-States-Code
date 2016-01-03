@@ -2,7 +2,7 @@
 
 (a)
 
-Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
+Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—The Secretary of Defense may delegate to the commander of the unified combatantcommand referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
 
 (b)
 

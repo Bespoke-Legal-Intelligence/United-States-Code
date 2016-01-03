@@ -18,9 +18,17 @@ Exemptions.—
 
 &emsp;(1)
 
-In general.—Upon receipt of a request pursuant to paragraph (3), the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.
+In general.—Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
 
 &emsp;(2)
+
+Length of exemption and renewal.—An exemption may be granted under paragraph (1) for no longer than 5 years and may be renewed, upon request, for subsequent 5-year periods if the Secretary continues to make the finding under paragraph (1).
+
+&emsp;(3)
+
+Opportunity for resubmission.—If the Secretary denies an application under paragraph (1) and the applicant can reasonably address the reason for the denial, the Secretary may allow the applicant to resubmit the application.
+
+&emsp;(4)
 
 Authority to revoke exemption.—The Secretary shall immediately revoke an exemption if—
 
@@ -30,7 +38,7 @@ Authority to revoke exemption.—The Secretary shall immediately revoke an exemp
 
 &emsp;&emsp;(C) continuation of the exemption would not be consistent with the goals and objectives of this chapter or section 31136, as the case may be.
 
-&emsp;(3)
+&emsp;(5)
 
 Requests for exemption.—Not later than 180 days after the date of enactment of this section and after notice and an opportunity for public comment, the Secretary shall specify by regulation the procedures by which a person may request an exemption. Such regulations shall, at a minimum, require the person to provide the following information for each exemption request:
 
@@ -42,7 +50,7 @@ Requests for exemption.—Not later than 180 days after the date of enactment of
 
 &emsp;&emsp;(D) The specific countermeasures the person would undertake to ensure an equivalent or greater level of safety than would be achieved absent the requested exemption.
 
-&emsp;(4)
+&emsp;(6)
 
 Notice and comment.—
 
@@ -58,15 +66,15 @@ Upon granting a request.—Upon granting a request and before the effective date
 
 After denying a request.—After denying a request for exemption, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) the name of the person denied the exemption and the reasons for such denial. The Secretary may meet the requirement of this subparagraph by periodically publishing in the Federal Register the names of persons denied exemptions and the reasons for such denials.
 
-&emsp;(5)
+&emsp;(7)
 
 Applications to be dealt with promptly.—The Secretary shall grant or deny an exemption request after a thorough review of its safety implications, but in no case later than 180 days after the filing date of such request.
 
-&emsp;(6)
+&emsp;(8)
 
 Terms and conditions.—The Secretary shall establish terms and conditions for each exemption to ensure that it will likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. The Secretary shall monitor the implementation of the exemption to ensure compliance with its terms and conditions.
 
-&emsp;(7)
+&emsp;(9)
 
 Notification of state compliance and enforcement personnel.—Before the effective date of an exemption, the Secretary shall notify a State safety compliance and enforcement agency, and require the agency to notify the State's roadside inspectors, that a person will be operating pursuant to an exemption and the terms and conditions that apply to the exemption.
 
@@ -118,7 +126,33 @@ Report to Congress.—The Secretary shall submit an annual report to the Committ
 
 Web Site.—The Secretary shall ensure that the Federal Motor Carrier Safety Administration web site includes a link to the web site established by the Secretary to implement the requirements under sections 31149 and 31315. The link shall be in a clear and conspicuous location on the home page of the Federal Motor Carrier Safety Administration web site and be easily accessible to the public.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1029; Pub. L. 105–178, title IV, §4007(a), June 9, 1998, 112 Stat. 401; Pub. L. 112–141, div. C, title II, §32913, July 6, 2012, 126 Stat. 818.)
+(g)
+
+Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) The Secretary may not—
+
+&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+
+&emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+
+(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+
+&emsp;(A) paragraph (1) of this subsection;
+
+&emsp;(B) a minimum age requirement of the United States Government for operation of the vehicle; and
+
+&emsp;(C) a medical or physical condition that—
+
+&emsp;&emsp;(i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+
+&emsp;&emsp;(ii) existed on July 1, 1988;
+
+&emsp;&emsp;(iii) has not substantially worsened; and
+
+&emsp;&emsp;(iv) does not involve alcohol or drug abuse.
+
+(3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1029; Pub. L. 105–178, title IV, §4007(a), June 9, 1998, 112 Stat. 401; Pub. L. 112–141, div. C, title II, §32913, July 6, 2012, 126 Stat. 818; Pub. L. 114–94, div. A, title V, §§5202(1), 5206(a), Dec. 4, 2015, 129 Stat. 1534, 1537.)
 
 Historical and Revision Notes
 
@@ -140,9 +174,19 @@ The words "Notwithstanding any other provision of this chapter" are omitted as s
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (b)(3), probably means the date of enactment of Pub. L. 105–178, which amended this section generally and was approved June 9, 1998.
+The date of enactment of this section, referred to in subsec. (b)(5), probably means the date of enactment of Pub. L. 105–178, which amended this section generally and was approved June 9, 1998.
+
+#### Codification
+
+The text of section 31136(f) of this title, which was redesignated subsec. (g) and transferred to this section by Pub. L. 114–94, §5202(1), was based on Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–94, §5206(a)(1), substituted "this subsection" for "paragraph (3)" and struck out at end "An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary."
+
+Subsec. (b)(2) to (9). Pub. L. 114–94, §5206(a)(2), (3), added pars. (2) and (3) and redesignated former pars (2) to (7) as (4) to (9), respectively.
+
+Subsec. (g). Pub. L. 114–94, §5202(1), redesignated subsec. (f) of section 31136 of this title as (g) and transferred it to this section. See Codification note above.
 
 <b>2012</b>—Subsec. (b)(4)(A). Pub. L. 112–141, §32913(a)(1), inserted "(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)" after "Federal Register".
 
@@ -158,9 +202,109 @@ Subsecs. (e), (f). Pub. L. 112–141, §32913(d), added subsecs. (e) and (f).
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: "After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver."
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Administrative Exemptions
+
+Pub. L. 114–94, div. A, title V, §5206(b), Dec. 4, 2015, 129 Stat. 1537, provided that:
+
+"(1)
+
+In general.—The Secretary \[of Transportation\] shall make permanent the following limited exemptions:
+
+&emsp;"(A) Perishable construction products, as published in the Federal Register on April 2, 2015 (80 Fed. Reg. 17819).
+
+&emsp;"(B) Transport of commercial bee hives, as published in the Federal Register on June 19, 2015 (80 Fed. Reg. 35425).
+
+&emsp;"(C) Safe transport of livestock, as published in the Federal Register on June 12, 2015 (80 Fed. Reg. 33584).
+
+"(2)
+
+Additional administrative exemptions.—Any exemption from any provision of the regulations under part 395 of title 49, Code of Federal Regulations, that is in effect on the date of enactment of this Act \[Dec. 4, 2015\]—
+
+&emsp;"(A) except as otherwise provided in section 31315(b) of title 49, shall be valid for a period of 5 years from the date such exemption was granted; and
+
+&emsp;"(B) may be subject to renewal under section 31315(b)(2) of title 49, United States Code."
+
+#### Commercial Driver Pilot Program
+
+Pub. L. 114–94, div. A, title V, §5404, Dec. 4, 2015, 129 Stat. 1549, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall establish a pilot program under section 31315(c) of title 49, United States Code, to study the feasibility, benefits, and safety impacts of allowing a covered driver to operate a commercial motor vehicle in interstate commerce.
+
+"(b)
+
+Data Collection.—The Secretary shall collect and analyze data relating to accidents in which—
+
+&emsp;"(1) a covered driver participating in the pilot program is involved; and
+
+&emsp;"(2) a driver under the age of 21 operating a commercial motor vehicle in intrastate commerce is involved.
+
+"(c)
+
+Limitations.—A driver participating in the pilot program may not—
+
+&emsp;"(1) transport—
+
+&emsp;&emsp;"(A) passengers; or
+
+&emsp;&emsp;"(B) hazardous cargo; or
+
+&emsp;"(2) operate a vehicle in special configuration.
+
+"(d)
+
+Working Group.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary shall conduct, monitor, and evaluate the pilot program in consultation with a working group to be established by the Secretary consisting of representatives of the armed forces, industry, drivers, safety advocacy organizations, and State licensing and enforcement officials.
+
+&emsp;"(2)
+
+Duties.—The working group shall review the data collected under subsection (b) and provide recommendations to the Secretary on the feasibility, benefits, and safety impacts of allowing a covered driver to operate a commercial motor vehicle in interstate commerce.
+
+"(e)
+
+Report.—Not later than 1 year after the date on which the pilot program is concluded, the Secretary shall submit to Congress a report describing the findings of the pilot program and the recommendations of the working group.
+
+"(f)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;"(1)
+
+Accident.—The term 'accident' has the meaning given that term in section 390.5 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act.
+
+&emsp;"(2)
+
+Armed forces.—The term 'armed forces' has the meaning given that term in section 101(a) of title 10, United States Code.
+
+&emsp;"(3)
+
+Commercial motor vehicle.—The term 'commercial motor vehicle' has the meaning given that term in section 31301 of title 49, United States Code.
+
+&emsp;"(4)
+
+Covered driver.—The term 'covered driver' means an individual who is—
+
+&emsp;&emsp;"(A) between the ages of 18 and 21;
+
+&emsp;&emsp;"(B) a member or former member of the—
+
+&emsp;&emsp;&emsp;"(i) armed forces; or
+
+&emsp;&emsp;&emsp;"(ii) reserve components (as defined in section 31305(d)(2) of title 49, United States Code, as added by this Act); and
+
+&emsp;&emsp;"(C) qualified in a Military Occupational Specialty to operate a commercial motor vehicle or similar vehicle."
 
 #### Protection of Existing Exemptions
 

@@ -22,7 +22,7 @@ For purposes of this section, the term "person" means the officer or employee ha
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for"information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, in amending subsec. (b) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted provision that no statement is required under this subsection with respect to any individual if it is determined (in the manner provided by regulations) that such individual did not claim itemized deductions under chapter 1 for the taxable year giving rise to the refund, credit, or offset.
 

@@ -6,7 +6,7 @@ The Secretary shall carry out a program, to be known as the Renewable Energy Inn
 
 #### (b) Solicitation
 
-To carry out the Program, the Secretary shall annually conduct a competitive solicitation forassistance awards for an eligible project described in subsection (e).
+To carry out the Program, the Secretary shall annually conduct a competitive solicitation for assistance awards for an eligible project described in subsection (e).
 
 #### (c) Program purposes
 

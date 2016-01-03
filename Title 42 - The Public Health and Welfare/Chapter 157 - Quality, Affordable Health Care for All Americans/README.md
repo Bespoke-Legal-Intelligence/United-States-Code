@@ -131,6 +131,7 @@
 | [18119\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2018119%20-%20Small%20business%20procurement.md) | Small business procurement. |
 | [18120\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2018120%20-%20Application.md) | Application. |
 | [18121\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2018121%20-%20Implementation%20funding.md) | Implementation funding. |
+| [18122\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2018122%20-%20Rule%20of%20construction%20regarding%20health%20care%20providers.md) | Rule of construction regarding health care providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

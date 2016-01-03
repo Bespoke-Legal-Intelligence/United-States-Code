@@ -6,7 +6,7 @@ Authorization.—The Secretary concerned may authorize a member of the armed for
 
 (b)
 
-Designated Entities.—(1) The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list ofentities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
+Designated Entities.—(1) The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list of entities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
 
 (2) In this section, the term "military welfare society" means the following:
 

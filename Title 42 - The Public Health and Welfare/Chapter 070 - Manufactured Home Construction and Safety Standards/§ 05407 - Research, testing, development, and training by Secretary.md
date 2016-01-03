@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-The Secretary shall conduct research, testing, development, and training necessary to carry out the purposes of this chapter, including, but not limited to—
+The Secretary shall conduct research, testing, development, and training necessary to carryout the purposes of this chapter, including, but not limited to—
 
 &emsp;(1) collecting data from any source for the purpose of determining the relationship between manufactured home performance characteristics and (A) accidents involving manufactured homes, and (B) the occurrence of death, personal injury, or damage resulting from such accidents;
 

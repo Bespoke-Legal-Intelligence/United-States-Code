@@ -52,7 +52,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(ii) student academic achievement;
 
-&emsp;&emsp;&emsp;(iii) secondary school graduation rates as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education;
+&emsp;&emsp;&emsp;(iii) four-year adjusted cohort graduation rate (as defined in section 7801 of title 20);
 
 &emsp;&emsp;&emsp;(iv) rate of college enrollment and continued college enrollment for recipients of a high school diploma;
 
@@ -126,7 +126,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
-&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosioncontrol measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
+&emsp;&emsp;&emsp;(vii) renewing and rehabilitating national and State parks and forests, city parks, county parks and other public lands, and trails owned or maintained by the Federal Government or a State, including planting trees, carrying out reforestation, carrying out forest health restoration measures, carrying out erosion control measures, fire hazard reduction measures, and rehabilitation and maintenance of historic sites and structures throughout the national park system, and providing trail enhancements, rehabilitation, and repairs;
 
 &emsp;&emsp;&emsp;(viii) cleaning and improving rivers maintained by the Federal Government or a State;
 
@@ -184,7 +184,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(v) assisting veterans in developing mentoring relationships with economically disadvantaged students;
 
-&emsp;&emsp;&emsp;(vi) developing projects to assist veterans with disabilities, veterans who are unemployed, older veterans, and veterans inrural communities, including assisting veterans described in this clause with transportation; or
+&emsp;&emsp;&emsp;(vi) developing projects to assist veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities, including assisting veterans described in this clause with transportation; or
 
 &emsp;&emsp;&emsp;(vii) other activities, addressing unmet needs of veterans, that the Corporation may designate.
 
@@ -388,7 +388,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (2) Consultation
 
-&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consult with organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, and other human, educational, environmental, or public safety services, to communities or persons.
+&emsp;In establishing qualification criteria under paragraph (1), the Corporation shall consultwith organizations and individuals with extensive experience in developing and administering effective national service programs or regarding the delivery of veteran services, and other human, educational, environmental, or public safety services, to communities or persons.
 
 #### (3) Application to subgrants
 
@@ -396,7 +396,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (4) Encouragement of intergenerational components of programs
 
-&emsp;The Corporation shall encourage national service programs eligible to receive assistanceor approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, disadvantaged youth, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
+&emsp;The Corporation shall encourage national service programs eligible to receive assistance or approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, disadvantaged youth, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
 
 #### (e) Priorities for certain corps
 
@@ -450,7 +450,7 @@ The Corporation shall consult with the Secretary of Education, the Secretary of 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
+&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involvingelementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
 
 &emsp;&emsp;(A) obtained their high school diplomas; and
 
@@ -488,7 +488,7 @@ Not later than 60 days after the end of each fiscal year for which the Corporati
 
 &emsp;&emsp;(B) applicable programs, as determined by the Corporation, carried out under division B of this subchapter, and part A of title I and parts A and B of title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq., 5001, 5011) that improve performance on those indicators or otherwise address identified community needs.
 
-(Pub. L. 101–610, title I, §122, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 790; amended Pub. L. 111–13, title I, §1302, Apr. 21, 2009, 123 Stat. 1485.)
+(Pub. L. 101–610, title I, §122, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 790; amended Pub. L. 111–13, title I, §1302, Apr. 21, 2009, 123 Stat. 1485; Pub. L. 114–95, title IX, §9215(bbb)(4), Dec. 10, 2015, 129 Stat. 2185.)
 
 #### References in Text
 
@@ -506,7 +506,13 @@ A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is cla
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1)(C)(iii). Pub. L. 114–95 substituted "four-year adjusted cohort graduation rate (as defined in section 7801 of title 20)" for "secondary school graduation rates as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education".
+
 <b>2009</b>—Pub. L. 111–13 substituted "National" for "Types of national" in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2009 Amendment
 

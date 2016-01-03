@@ -102,7 +102,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (ii) Qualified chain member
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified chain member" means,with respect to any controlled foreign corporation, any other corporation which is created or organized under the laws of the same foreign country as the controlled foreign corporation but only if—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified chain member" means, with respect to any controlled foreign corporation, any other corporation which is created or organized under the laws of the same foreign country as the controlled foreign corporation but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) all the stock of such other corporation (other than directors' qualifying shares) is owned at all times during the taxable year in which the deficit arose (directly or through 1 or more corporations other than the common parent) by such controlled foreign corporation, or
 

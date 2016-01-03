@@ -6,7 +6,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 #### (b) Preservation of benefit status for certain disabled widows and widowers
 
-(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsectionunder paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
+(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsection under paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
 
 &emsp;(A) has been continuously entitled to such widow's or widower's insurance benefits from the first month for which the increase described in paragraph (2)(C) was reflected in such benefits through the month involved, and
 
@@ -18,7 +18,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 &emsp;(B) was entitled to a widow's or widower's insurance benefit based on a disability under section 402(e) or (f) of this title for January 1984 and with respect to whom a benefit under this subchapter was paid in that month, and
 
-&emsp;(C) because of the increase in the amount of his or her widow's or widower's insurance benefits which resulted from the amendments made by section 134 of the Social Security Amendments of 1983 (Public Law 98–21) (eliminating the additional reduction factor for disabled widows and widowers under age 60), was ineligible for benefits under this subchapter in the first month in which such increase was paid to him or her (and in which a retroactive payment of such increase for prior months was not made).
+&emsp;(C) because of the increase in the amount of his or her widow's or widower's insurance benefits which resulted from the amendments made by section 134 of the Social Security Amendments of 1983 (Public Law 98–21) (eliminating the additional reduction factor for disabled widows and widowers under age 60), was ineligible for benefits under this subchapter in the first month in which such increase waspaid to him or her (and in which a retroactive payment of such increase for prior months was not made).
 
 (3) This subsection shall only apply to an individual who files a written application for protection under this subsection, in such manner and form as the Commissioner of Social Security may prescribe, no later than July 1, 1988.
 
@@ -56,7 +56,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
 
-Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L.93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 The effective date of this subsection, referred to in subsec. (c)(1), is July 1, 1987, except as otherwise provided. See section 10(b) of Pub. L. 99–643, set out as an Effective Date of 1986 Amendments note under section 1396a of this title.
 
@@ -68,7 +68,7 @@ The effective date of this subsection, referred to in subsec. (c)(1), is July 1,
 
 Subsec. (e). Pub. L. 103–296, §201(b)(3)(D), added subsec. (e).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted "This subsection applies with respect to any person who—" for "If any person—" in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted "being then not entitled" for "as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled", in subpar. (B) substituted "section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66)." for "section 1382e(a) of this title," and substituted par. (2) for former concluding provisions which read as follows: "such person shall nevertheless be deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A) would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter."
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted "This subsection applies with respect to any person who—" for "If any person—" in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted "being then not entitled" for "as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled", in subpar. (B) substituted "section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66)." for "section 1382e(a) of this title," and substituted par. (2) for former concluding provisions which read as follows: "such person shall nevertheless be deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A)would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–203, §9108, substituted "no later than July 1, 1988" for "during the 15-month period beginning with the month in which this subsection is enacted \[April 1986\]".
 
@@ -116,7 +116,7 @@ Pub. L. 100–203, title IX, §9116(b), Dec. 22, 1987, 101 Stat. 1330–306, pro
 
 #### State Determinations
 
-Pub. L. 100–203, title IX, §9116(c), Dec. 22, 1987, 101 Stat. 1330–306, provided that: "Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202\[section 402 of this title\] shall be made by the appropriate State agency."
+Pub. L. 100–203, title IX, §9116(c), Dec. 22, 1987, 101 Stat. 1330–306, provided that: "Any determination required under section 1634(d) of the Social Security Act \[subsec. (d) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] (or State supplementary payments) in the absence of benefits under section 202 \[section 402 of this title\] shall be made by the appropriate State agency."
 
 Pub. L. 99–643, §6(b), Nov. 10, 1986, 100 Stat. 3578, provided that: "Any determination required under section 1634(c) of the Social Security Act \[subsec. (c) of this section\] with respect to whether an individual would be eligible for benefits under title XVI of such Act \[this subchapter\] in the absence of children's benefits (or an increase thereof) shall be made by the appropriate State agency."
 

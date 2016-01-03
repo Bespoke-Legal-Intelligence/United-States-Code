@@ -106,7 +106,7 @@ Termination.—This section shall cease to be effective at the end of the 10-yea
 
 #### Effective Date
 
-Pub. L. 106–253, §2(d), formerly §2(e), July 28, 2000, 114 Stat. 636, as renumbered §2(d) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: "The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\]."
+Pub. L. 106–253, §2(d), formerly §2(e), July 28, 2000, 114 Stat. 636, as renumbered §2(d) by Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, provided that: "The program under section 416 of title 39, United StatesCode (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\]."
 
 #### Multinational Species Conservation Funds Semipostal Stamp
 
@@ -128,7 +128,7 @@ Cost and Use.—
 
 &emsp;"(1)
 
-In general.—The Multinational Species Conservation Funds Semipostal Stamp shall be offered ata cost equal to the cost of mailing a letter weighing 1 ounce or less at the nonautomation single-piece first-ounce letter rate, in effect at the time of purchase, plus a differential of not less than 15 percent.
+In general.—The Multinational Species Conservation Funds Semipostal Stamp shall be offered at a cost equal to the cost of mailing a letter weighing 1 ounce or less at the nonautomation single-piece first-ounce letter rate, in effect at the time of purchase, plus a differential of not less than 15 percent.
 
 &emsp;"(2)
 
@@ -244,7 +244,7 @@ Requirements.—The provisions of section 416 of title 39, United States Code, s
 
 &emsp;"(1)
 
-Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shallbe transferred to the Department of Health and Human Services under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
+Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Department of Health and Human Services under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
 
 &emsp;"(2)
 

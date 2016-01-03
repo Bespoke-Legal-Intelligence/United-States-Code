@@ -2,7 +2,7 @@
 
 #### (a) Collection by return
 
-The taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. TheSecretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.
+The taxes on distilled spirits, wines, and beer shall be collected on the basis of a return. The Secretary shall, by regulation, prescribe the period or event for which such return shall be filed, the time for filing such return, the information to be shown in such return, and the time for payment of such tax.
 
 #### (b) Exceptions
 
@@ -108,7 +108,25 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, §11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388-519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, §11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959; Pub. L. 114–113, div. Q, title III, §332(a), Dec. 18, 2015, 129 Stat. 3104.)
+
+#### Amendment of Subsection (d)(4)
+
+<i>Pub. L. 114–113, div. Q, title III, §332(a), (c), Dec. 18, 2015, 129 Stat. 3104, 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, subsection (d)(4) of this section is amended:</i>
+
+<i>(1) in subparagraph (A), by designating existing provisions as clause (i), inserting heading "More than $1,000 and not more than $50,000 in taxes", striking out "In the case of" and inserting "Except as provided in clause (ii), in the case of", striking out "under bond for deferred payment", and adding the following clause (ii):</i>
+
+#### <i>"(ii) Not more than $1,000 in taxes</i>
+
+&emsp;&emsp;&emsp;<i>"In the case of any taxpayer who reasonably expects to be liable for not more than $1,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $1,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) shall be the 14th day after the last day of the calendar year."; and</i>
+
+<i>(2) in subparagraph (B), by designating existing provisions as clause (i), inserting heading "Exceeds $50,000 limit", striking out "Subparagraph (A)" and inserting "Subparagraph (A)(i)", and adding the following clause (ii):</i>
+
+#### <i>"(ii) Exceeds $1,000 limit</i>
+
+&emsp;&emsp;&emsp;<i>"Subparagraph (A)(ii) shall not apply to any taxpayer for any portion of the calendar year following the first date on which the aggregate amount of tax due under subparts A, C, and D and section 7652 from such taxpayer during such calendar year exceeds $1,000, and any tax under such subparts which has not been paid on such date shall be due on the 14th day after the last day of the calendar quarter in which such date occurs."</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -117,6 +135,10 @@ A prior section 5061, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 Provisions similar to those comprising subsec. (d) of this section were contained in former section 5001(c), act Aug. 16, 1954, ch. 736, 68A Stat. 597, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(4)(A). Pub. L. 114–113, §332(a)(1), designated existing provisions as cl. (i), inserted heading, substituted "Except as provided in clause (ii), in the case of" for "In the case of", struck out "under bond for deferred payment" before "shall be the 14th day", and added cl. (ii).
+
+Subsec. (d)(4)(B). Pub. L. 114–113, §332(a)(2), designated existing provisions as cl. (i), inserted heading, substituted "Subparagraph (A)(i)" for "Subparagraph (A)", and added cl. (ii).
 
 <b>2005</b>—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted "paragraph (5)" for "paragraph (4)".
 
@@ -151,6 +173,10 @@ Subsec. (b). Pub. L. 94–455, §1905(a)(6)(B), substituted the exceptions provi
 Subsec. (c). Pub. L. 94–455, §1905(a)(6)(C), substituted the import duties provision for provision respecting applicability of other provisions of law and reading "All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section."
 
 Subsec. (d). Pub. L. 94–455, §1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §332(c), Dec. 18, 2015, 129 Stat. 3106, provided that: "The amendments made by this section \[amending this section and sections 5173, 5351, 5401, and 5551 of this title\] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2005 Amendment
 
@@ -244,7 +270,7 @@ Election with respect to controlled stock.—The proprietor of a distilled spiri
 
 &emsp;"(2)
 
-Election with respect to wine.—The proprietor of a distilled spirits plant may elect to convert any bulk wine which on January 1, 1980, is on the premises of a distilled spirits plant.
+Election with respect to wine.—The proprietor of a distilled spirits plant may elect to convertany bulk wine which on January 1, 1980, is on the premises of a distilled spirits plant.
 
 &emsp;"(3)
 

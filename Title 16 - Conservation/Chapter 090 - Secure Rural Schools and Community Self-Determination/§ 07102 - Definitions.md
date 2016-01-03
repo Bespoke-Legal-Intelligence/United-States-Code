@@ -26,7 +26,7 @@ In this chapter:
 
 &emsp;&emsp;(B) the quotient obtained by dividing—
 
-&emsp;&emsp;&emsp;(i) the amount equal to the average of the 3 highest 25-percent payments andsafety net payments made to each eligible State for each eligible county during the eligibility period; by
+&emsp;&emsp;&emsp;(i) the amount equal to the average of the 3 highest 25-percent payments and safety net payments made to each eligible State for each eligible county during the eligibility period; by
 
 &emsp;&emsp;&emsp;(ii) the amount equal to the sum of the amounts calculated under clause (i) and paragraph (9)(B)(i) for all eligible counties in all eligible States during the eligibility period.
 

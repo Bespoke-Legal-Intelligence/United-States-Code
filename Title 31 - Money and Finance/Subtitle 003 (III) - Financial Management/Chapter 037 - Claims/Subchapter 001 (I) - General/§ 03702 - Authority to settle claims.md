@@ -118,7 +118,7 @@ In subsection (b)(3), the words "to the claimant" are omitted as surplus. The wo
 
 In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words "Secretary of the Treasury" are substituted for "Treasury Department" for consistency. The word "Secretary" is substituted for "Treasurer of the United States" because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
-In subsection (d), the words "report . . . on" are substituted for "submit the same . . . by a special report . . . the material facts" to eliminate unnecessary words. The words "or demand" are omitted as surplus.The word "Government" is substituted for "United States", and the words "presented under this section" are substituted for "filed in the General Accounting Office" for consistency. The words "lawfully", "the use of", and "thereon" are omitted as surplus.
+In subsection (d), the words "report . . . on" are substituted for "submit the same . . . by a special report . . . the material facts" to eliminate unnecessary words. The words "or demand" are omitted as surplus. The word "Government" is substituted for "United States", and the words "presented under this section" are substituted for "filed in the General Accounting Office" for consistency. The words "lawfully", "the use of", and "thereon" are omitted as surplus.
 
 #### 1983 Act
 

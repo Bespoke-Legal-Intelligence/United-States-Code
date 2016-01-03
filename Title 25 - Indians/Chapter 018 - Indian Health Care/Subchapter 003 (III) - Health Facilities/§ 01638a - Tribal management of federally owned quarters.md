@@ -36,7 +36,7 @@
 
 &emsp;On receipt of a notice described in paragraph (1)—
 
-&emsp;&emsp;(A) the affected Federal employees shall pay rent for occupancy of a federally owned quarters directly to the applicable tribal health program; and
+&emsp;&emsp;(A) the affected Federal employees shall pay rent for occupancy of a federally ownedquarters directly to the applicable tribal health program; and
 
 &emsp;&emsp;(B) the Secretary shall not have the authority to collect rent from the employees through payroll deduction or otherwise.
 

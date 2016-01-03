@@ -8,7 +8,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (1) Amount of assessment
 
-&emsp;The total amount of user fees authorized to be assessed and collected under subsection (a)for a fiscal year is the following, as applicable to the fiscal year involved:
+&emsp;The total amount of user fees authorized to be assessed and collected under subsection (a) for a fiscal year is the following, as applicable to the fiscal year involved:
 
 &emsp;&emsp;(A) For fiscal year 2009, $85,000,000 (subject to subsection (e)).
 

@@ -8,7 +8,7 @@ Without regard to chapter 5 of title 5 or to the other subsections of this secti
 
 The Secretary may by rule promulgate, modify, or revoke any occupational safety or health standard in the following manner:
 
-(1) Whenever the Secretary, upon the basis of information submitted to him in writing by an interested person, a representative of any organization of employers or employees, a nationally recognized standards-producing organization, the Secretary of Health and Human Services, the National Institute for Occupational Safety and Health, or a State or political subdivision,or on the basis of information developed by the Secretary or otherwise available to him, determines that a rule should be promulgated in order to serve the objectives of this chapter, the Secretary may request the recommendations of an advisory committee appointed under section 656 of this title. The Secretary shall provide such an advisory committee with any proposals of his own or of the Secretary of Health and Human Services, together with all pertinent factual information developed by the Secretary or the Secretary of Health and Human Services, or otherwise available, including the results of research, demonstrations, and experiments. An advisory committee shall submit to the Secretary its recommendations regarding the rule to be promulgated within ninety days from the date of its appointment or within such longer or shorter period as may be prescribed by the Secretary, but in no event for a period which is longer than two hundred and seventy days.
+(1) Whenever the Secretary, upon the basis of information submitted to him in writing by an interested person, a representative of any organization of employers or employees, a nationally recognized standards-producing organization, the Secretary of Health and Human Services, the National Institute for Occupational Safety and Health, or a State or political subdivision, or on the basis of information developed by the Secretary or otherwise available to him, determines that a rule should be promulgated in order to serve the objectives of this chapter, the Secretary may request the recommendations of an advisory committee appointed under section 656 of this title. The Secretary shall provide such an advisory committee with any proposals of his own or of the Secretary of Health and Human Services, together with all pertinent factual information developed by the Secretary or the Secretary of Health and Human Services, or otherwise available, including the results of research, demonstrations, and experiments. An advisory committee shall submit to the Secretary its recommendations regarding the rule to be promulgated within ninety days from the date of its appointment or within such longer or shorter period as may be prescribed by the Secretary, but in no event for a period which is longer than two hundred and seventy days.
 
 (2) The Secretary shall publish a proposed rule promulgating, modifying, or revoking an occupational safety or health standard in the Federal Register and shall afford interested persons a period of thirty days after publication to submit written data or comments. Where an advisory committee is appointed and the Secretary determines that a rule should be issued, he shall publish the proposed rule within sixty days after the submission of the advisory committee's recommendations or the expiration of the period prescribed by the Secretary for such submission.
 
@@ -28,7 +28,7 @@ The Secretary may by rule promulgate, modify, or revoke any occupational safety 
 
 &emsp;(iii) a statement of the steps he has taken and will take (with specific dates) to protect employees against the hazard covered by the standard,
 
-&emsp;(iv) a statement of when he expects to be able to comply with the standard and whatsteps he has taken and what steps he will take (with dates specified) to come into compliance with the standard, and
+&emsp;(iv) a statement of when he expects to be able to comply with the standard and what steps he has taken and what steps he will take (with dates specified) to come into compliance with the standard, and
 
 &emsp;(v) a certification that he has informed his employees of the application by giving a copy thereof to their authorized representative, posting a statement giving a summary of the application and specifying where a copy may be examined at the place or places where notices to employees are normally posted, and by other appropriate means.
 
@@ -46,7 +46,7 @@ The Secretary may by rule promulgate, modify, or revoke any occupational safety 
 
 (2) Such standard shall be effective until superseded by a standard promulgated in accordance with the procedures prescribed in paragraph (3) of this subsection.
 
-(3) Upon publication of such standard in the Federal Register the Secretary shall commence a proceeding in accordance with subsection (b) of this section, and the standard as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a standard under this paragraph no later than six months after publication of the emergency standard as provided in paragraph (2) of this subsection.
+(3) Upon publication of such standard in the Federal Register the Secretary shall commence a proceeding in accordance with subsection (b), and the standard as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a standard under this paragraph no later than six months after publication of the emergency standard as provided in paragraph (2) of this subsection.
 
 #### (d) Variances from standards; procedure
 
@@ -54,11 +54,11 @@ Any affected employer may apply to the Secretary for a rule or order for a varia
 
 #### (e) Statement of reasons for Secretary's determinations; publication in Federal Register
 
-Whenever the Secretary promulgates any standard, makes any rule, order, or decision, grants any exemption or extension of time, or compromises, mitigates, or settles any penalty assessed under this chapter, he shall include a statement of the reasons for such action, which shall be published in the Federal Register.
+Whenever the Secretary promulgates any standard, makes any rule, order, or decision, grants any exemption or extension of time, or compromises, mitigates, or settles any penaltyassessed under this chapter, he shall include a statement of the reasons for such action, which shall be published in the Federal Register.
 
 #### (f) Judicial review
 
-Any person who may be adversely affected by a standard issued under this section may at anytime prior to the sixtieth day after such standard is promulgated file a petition challenging the validity of such standard with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such standard. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The filing of such petition shall not, unless otherwise ordered by the court, operate as a stay of the standard. The determinations of the Secretary shall be conclusive if supported by substantial evidence in the record considered as a whole.
+Any person who may be adversely affected by a standard issued under this section may at any time prior to the sixtieth day after such standard is promulgated file a petition challenging the validity of such standard with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review of such standard. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The filing of such petition shall not, unless otherwise ordered by the court, operate as a stay of the standard. The determinations of the Secretary shall be conclusive if supported by substantial evidence in the record considered as a whole.
 
 #### (g) Priority for establishment of standards
 
@@ -118,7 +118,7 @@ Pub. L. 101–549, title III, §304, Nov. 15, 1990, 104 Stat. 2576, provided tha
 
 "(a)
 
-Chemical Process Safety Standard.—The Secretary of Labor shall act under the Occupational Safety and Health Act of 1970 (29 U.S.C. 653) \[29 U.S.C. 651 et seq.\] to prevent accidental releases of chemicals which could pose a threat to employees. Not later than 12 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Secretaryof Labor, in coordination with the Administrator of the Environmental Protection Agency, shall promulgate, pursuant to the Occupational Safety and Health Act, a chemical process safety standard designed to protect employees from hazards associated with accidental releases of highly hazardous chemicals in the workplace.
+Chemical Process Safety Standard.—The Secretary of Labor shall act under the Occupational Safety and Health Act of 1970 (29 U.S.C. 653) \[29 U.S.C. 651 et seq.\] to prevent accidental releases of chemicals which could pose a threat to employees. Not later than 12 months after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the Secretary of Labor, in coordination with the Administrator of the Environmental Protection Agency, shall promulgate, pursuant to the Occupational Safety and Health Act, a chemical process safety standard designed to protect employees from hazards associated with accidental releases of highly hazardous chemicals in the workplace.
 
 "(b)
 
@@ -226,7 +226,7 @@ Specific Training Standards.—
 
 &emsp;"(1)
 
-Offsite instruction; field experience.—Standards promulgated under subsection (a) shall include training standards requiring that general site workers (such as equipment operators, general laborers, and other supervised personnel) engaged in hazardous substance removal or other activities which expose or potentially expose such workers to hazardous substances receive a minimum of 40 hours of initial instruction off the site, and a minimum of three days of actual field experience under the direct supervision of a trained, experienced supervisor, at the time of assignment. The requirements of the preceding sentence shall not apply to any general site worker who has received the equivalent of such training.Workers who may be exposed to unique or special hazards shall be provided additional training.
+Offsite instruction; field experience.—Standards promulgated under subsection (a) shall include training standards requiring that general site workers (such as equipment operators, general laborers, and other supervised personnel) engaged in hazardous substance removal or other activities which expose or potentially expose such workers to hazardous substances receive a minimum of 40 hours of initial instruction off the site, and a minimum of threedays of actual field experience under the direct supervision of a trained, experienced supervisor, at the time of assignment. The requirements of the preceding sentence shall not apply to any general site worker who has received the equivalent of such training. Workers who may be exposed to unique or special hazards shall be provided additional training.
 
 &emsp;"(2)
 

@@ -30,7 +30,7 @@ R.S. §3679(g)(2d sentence); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 125
 
 R.S. §3679(g)(last sentence); added Aug. 1, 1956, ch. 814, §3, 70 Stat. 783.
 
-In the section, the words "(except the Commission)" are added because the International Trade Commission is covered specifically by the source provisions restated in this section.
+In the section, the words "(except the Commission)" are added because the International Trade Commissionis covered specifically by the source provisions restated in this section.
 
 In subsection (a), the word "official" is substituted for "officer" for consistency in the revised title. The words "judicial branch" are substituted for "judiciary", and the words "District of Columbia government" are substituted for "District of Columbia", for consistency. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 

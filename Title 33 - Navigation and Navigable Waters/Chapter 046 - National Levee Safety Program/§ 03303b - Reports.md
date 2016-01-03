@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) identifying and evaluating opportunities to coordinate public safety, floodplain management, and environmental protection activities relating to levees; and
 
-&emsp;&emsp;&emsp;(ii) evaluating opportunities to coordinate environmental permitting processes for operation and maintenance activities at existing levee projects in compliance with all applicable laws; and
+&emsp;&emsp;&emsp;(ii) evaluating opportunities to coordinate environmental permitting processesfor operation and maintenance activities at existing levee projects in compliance with all applicable laws; and
 
 &emsp;&emsp;(D) any recommendations for legislation and other congressional actions necessary to ensure national levee safety.
 

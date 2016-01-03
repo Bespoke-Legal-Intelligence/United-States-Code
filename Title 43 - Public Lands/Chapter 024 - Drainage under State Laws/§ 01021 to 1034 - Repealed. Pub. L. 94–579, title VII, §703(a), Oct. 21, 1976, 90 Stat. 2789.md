@@ -8,7 +8,7 @@ Section 1023, act May 20, 1908, ch. 181, §3, 35 Stat. 170, authorized sale of u
 
 Section 1024, acts May 20, 1908, ch. 181, §4, 35 Stat. 170; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized certification of statement of sale for any unentered lands or any lands covered by an unpatented entry.
 
-Section 1025, acts May 20, 1908, ch. 181, §5, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 722; Oct. 28, 1921, ch. 114,§1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of unentered lands.
+Section 1025, acts May 20, 1908, ch. 181, §5, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 722; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of unentered lands.
 
 Section 1026, acts May 20, 1908, ch. 181, §6, 35 Stat. 170; Sept. 5, 1916, ch. 437, 39 Stat. 723; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to procedure for issuance of patents to purchasers of entered lands.
 

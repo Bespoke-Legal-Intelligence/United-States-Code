@@ -26,7 +26,7 @@
 
 (e) Under regulations prescribed pursuant to section 3376 of this title—
 
-&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development center may not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
+&emsp;(1) an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development centermay not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
 
 &emsp;(2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–454, §603(b), (c)(2)–(4), in cls. (1) and (2) subst
 
 Subsec. (c). Pub. L. 95–454, §603(c)(5), added subsec. (c).
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end "If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to thereplacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization."
+<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end "If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization."
 
 Subsec. (d). Pub. L. 93–638, §104(l), as added by Pub. L. 100–472, added subsec. (d).
 

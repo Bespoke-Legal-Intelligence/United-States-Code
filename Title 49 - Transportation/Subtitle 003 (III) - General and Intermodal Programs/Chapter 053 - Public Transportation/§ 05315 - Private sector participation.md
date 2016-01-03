@@ -28,7 +28,15 @@ Actions to Provide Technical Assistance for Alternative Project Delivery Methods
 
 &emsp;(3) perform financial assessments that include the calculation of public and private benefits of a proposed public-private partnership transaction.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 813; Pub. L. 104–287, §5(13), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3017(a), June 9, 1998, 112 Stat. 361; Pub. L. 105–206, title IX, §9009(l), July 22, 1998, 112 Stat. 857; Pub. L. 109–59, title III, §3017, Aug. 10, 2005, 119 Stat. 1600; Pub. L. 112–141, div. B, §20013(a), July 6, 2012, 126 Stat. 692.)
+(d)
+
+Rule of Construction.—Nothing in this section shall be construed to alter—
+
+&emsp;(1) the eligibilities, requirements, or priorities for assistance provided under this chapter; or
+
+&emsp;(2) the requirements of section 5306(a).
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 813; Pub. L. 104–287, §5(13), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3017(a), June 9, 1998, 112 Stat. 361; Pub. L. 105–206, title IX, §9009(l), July 22, 1998, 112 Stat. 857; Pub. L. 109–59, title III, §3017, Aug. 10, 2005, 119 Stat. 1600; Pub. L. 112–141, div. B, §20013(a), July 6, 2012, 126 Stat. 692; Pub. L. 114–94, div. A, title III, §3010(a), Dec. 4, 2015, 129 Stat. 1474.)
 
 Historical and Revision Notes
 
@@ -70,6 +78,8 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d). Pub. L. 114–94 added subsec. (d).
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national transit institute.
 
 <b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
@@ -89,6 +99,10 @@ Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105�
 Subsec. (a)(15), (16). Pub. L. 105–178, §3017(a)(2)(E)–(G), as amended by Pub. L. 105–206 added pars. (15) and (16).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "sections 5307 and 5309" for "sections 5304 and 5306".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -114,7 +128,7 @@ Identify impediments.—The Secretary shall—
 
 &emsp;"(B) develop and implement on a project basis procedures and approaches that—
 
-&emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
+&emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
 
 &emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
 

@@ -36,7 +36,7 @@ Civil Actions by Attorney General.—The Attorney General may bring a civil acti
 
 (f)
 
-Application and Relationship to Other Laws.—This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+Application and Relationship to Other Laws.—This section applies to an employmentor business opportunity and is in addition to title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 834; Pub. L. 112–141, div. B, §§20023(a), 20030(g), July 6, 2012, 126 Stat. 717, 731.)
 

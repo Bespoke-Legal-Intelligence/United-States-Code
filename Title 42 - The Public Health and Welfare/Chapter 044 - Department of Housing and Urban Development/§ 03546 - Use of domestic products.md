@@ -20,5 +20,5 @@ For the purposes of this section, the term "domestic product" means a product—
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of theDepartment of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 

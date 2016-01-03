@@ -16,7 +16,7 @@
 
 > &emsp;until section 402(x)(1) of this title no longer applies, or would no longer apply in the case of benefits that have terminated.
 
-&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority to withhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
+&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority towithhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
 
 (2) Notwithstanding any other provision of this section, when any payment of more than the correct amount is made to or on behalf of an individual who has died, and such payment—
 
@@ -28,9 +28,29 @@
 
 > the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person. If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.
 
-#### (b) No recovery from persons without fault
+#### (b) Access to financial information for old-age, survivors, and disability insurance waivers
 
-In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+(1) In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
+
+(2) In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+
+(3)(A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[12 U.S.C. 3415\]) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act \[12 U.S.C. 3401(2)\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
+
+(B) Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(1)\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
+
+&emsp;(i) the rendering of a final decision on whether adjustment or recovery would defeat the purpose of this subchapter; or
+
+&emsp;(ii) the express revocation by the individual of the authorization, in a written notification to the Commissioner.
+
+(C)(i) An authorization obtained by the Commissioner of Social Security pursuant this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[12 U.S.C. 3401 et seq.\] for purposes of section 1103(a) of such Act \[12 U.S.C. 3403(a)\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[12 U.S.C. 3404(a)\].
+
+(ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[12 U.S.C. 3403(b)\] shall not apply to requests by the Commissioner of Social Security pursuant to an authorization provided under this paragraph.
+
+(iii) A request by the Commissioner pursuant to an authorization provided under this paragraph is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(3)\] and the flush language of section 1102 of such Act \[12 U.S.C. 3402\].
+
+(D) The Commissioner shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
+
+(E) If an individual refuses to provide, or revokes, any authorization for the Commissioner of Social Security to obtain from any financial institution any financial record, the Commissioner may, on that basis, determine that adjustment or recovery would not defeat the purpose of this subchapter.
 
 #### (c) Nonliability of certifying and disbursing officers
 
@@ -42,7 +62,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the same household with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
-&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for themonth in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
@@ -74,9 +94,15 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029; Pub. L. 114–74, title VIII, §834(a), Nov. 2, 2015, 129 Stat. 614.)
+
+#### References in Text
+
+The Right to Financial Privacy Act, referred to in subsec. (b)(3)(C)(i), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–74 amended subsec. (b) generally. Prior to amendment, text read as follows: "In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)."
 
 <b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–115 designated existing provisions as cl. (i), substituted "Subject to clause (ii), with" for "With", and added cls. (ii) and (iii).
 
@@ -121,6 +147,10 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 <b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "board".
 
 <b>1939</b>—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–74, title VIII, §834(c), Nov. 2, 2015, 129 Stat. 615, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall apply with respect to determinations made on or after the date that is 3 months after the date of the enactment of this section \[Nov. 2, 2015\]."
 
 #### Effective Date of 2009 Amendment
 
@@ -169,6 +199,14 @@ Pub. L. 90–248, title I, §153(b), Jan. 2, 1968, 81 Stat. 861, provided that: 
 #### Effective Date of 1939 Amendment
 
 Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
+
+#### Report on Overpayment Waivers
+
+Pub. L. 114–74, title VIII, §845(c), Nov. 2, 2015, 129 Stat. 619, provided that: "Not later than January 1 of each calendar year, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
+
+&emsp;"(1) the number and total value of overpayments recovered or scheduled to be recovered by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI \[probably means title II and title XVI of act Aug. 14, 1935, ch. 531, which are classified to 42 U.S.C. 401 et seq. and 42 U.S.C. 1381 et seq.\], respectively, including the terms and conditions of repayment of such overpayments; and
+
+&emsp;"(2) the number and total value of overpayments waived by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI, respectively."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "delinquent".</i>
 

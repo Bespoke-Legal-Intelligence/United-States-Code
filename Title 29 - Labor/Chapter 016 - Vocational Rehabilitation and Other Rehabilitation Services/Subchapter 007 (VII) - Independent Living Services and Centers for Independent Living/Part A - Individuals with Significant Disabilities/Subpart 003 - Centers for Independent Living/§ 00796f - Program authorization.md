@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d) of this section.
+From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary toStates, centers for independent living, and other entities in accordance with subsections (b) through (d) of this section.
 
 #### (b) Training
 
@@ -60,7 +60,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (3) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriatedto carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
 
 #### (4) Proportional reduction
 
@@ -68,7 +68,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (d) Reallotment
 
-Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Administrator shall make such amountavailable for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
 (Pub. L. 93–112, title VII, §721, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, §481, July 22, 2014, 128 Stat. 1691.)
 

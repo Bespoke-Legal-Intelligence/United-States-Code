@@ -62,7 +62,7 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 (3) A modification of the Vaccine Injury Table under paragraph (1) may add to, or delete from, the list of injuries, disabilities, illnesses, conditions, and deaths for which compensation may be provided or may change the time periods for the first symptom or manifestation of the onset or the significant aggravation of any such injury, disability, illness, condition, or death.
 
-(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only with respect to petitions for compensation under the Program which are filed after the effective date of such regulation.
+(4) Any modification under paragraph (1) of the Vaccine Injury Table shall apply only withrespect to petitions for compensation under the Program which are filed after the effective date of such regulation.
 
 #### (d) Role of Commission
 

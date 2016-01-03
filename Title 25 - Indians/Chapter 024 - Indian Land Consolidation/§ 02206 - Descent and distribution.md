@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall descend according to an applicable tribal probate code approved in accordance with section 2205 of this title; or
 
-&emsp;&emsp;(B) in the case of a trust or restricted interest in land or interest in trust personaltyto which a tribal probate code does not apply, shall descend in accordance with—
+&emsp;&emsp;(B) in the case of a trust or restricted interest in land or interest in trust personalty to which a tribal probate code does not apply, shall descend in accordance with—
 
 &emsp;&emsp;&emsp;(i) paragraphs (2) through (5); and
 
@@ -236,11 +236,11 @@
 
 #### (A) Land
 
-&emsp;&emsp;Any trust or restricted interest in land that is not devised in accordance with paragraph (1) or (2) or that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
+&emsp;&emsp;Any trust or restricted interest in land that is not devised in accordance with paragraph (1) or (2) or that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a).
 
 #### (B) Personalty
 
-&emsp;&emsp;Any trust personalty that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
+&emsp;&emsp;Any trust personalty that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a).
 
 #### (c) Joint tenancy; right of survivorship
 
@@ -322,7 +322,7 @@ The official authorized to adjudicate the probate of trust or restricted lands s
 
 #### (1) In general
 
-&emsp;Any references in subsections (a) and (b) of this section to applicable Federal law include—
+&emsp;Any references in subsections (a) and (b) to applicable Federal law include—
 
 &emsp;&emsp;(A) Public Law 91–627 (84 Stat. 1874);
 
@@ -380,7 +380,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (B) Meaning of "heirs" and "next of kin", etc.; time of ascertaining class
 
-&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including thespouse, who would be entitled to take under the provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
+&emsp;&emsp;A devise of trust or restricted interest in land or an interest in trust personalty to the testator's or another designated person's "heirs", "next of kin", "relatives", or "family" shall mean those persons, including the spouse, who would be entitled to take underthe provisions of this chapter for nontestamentary disposition. The class is to be ascertained as of the date of the testator's death.
 
 #### (C) Time for ascertaining class
 
@@ -396,11 +396,11 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (5) Lapsed devises
 
-&emsp;Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
+&emsp;Subject to the provisions of subsection (b), where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator's grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
 
 #### (6) Void devises
 
-&emsp;Except as provided in paragraph (5), and if the disposition shall not be otherwise expressly provided for by a tribal probate code approved under section 2205 of this title, if a devise other than a residuary devise of a trust or restricted interest in land or trust personalty fails for any reason, such interest shall become part of the residue and pass, subject to the provisions of subsection (b) of this section, to the other residuary devisees, if any, in proportion to their respective shares or interests in the residue.
+&emsp;Except as provided in paragraph (5), and if the disposition shall not be otherwise expressly provided for by a tribal probate code approved under section 2205 of this title, if a devise other than a residuary devise of a trust or restricted interest in land or trust personalty fails for any reason, such interest shall become part of the residue and pass, subject to the provisions of subsection (b), to the other residuary devisees, if any, in proportion to their respective shares or interests in the residue.
 
 #### (7) Family cemetery plot
 
@@ -498,7 +498,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (iii) Spouses married at the time of the will
 
-&emsp;&emsp;&emsp;Should the surviving spouse of the testator be omitted from the will of the testator, the surviving spouse shall be treated, for purposes of trust or restricted land or trust personalty in the testator's estate, in accordance with subsection (a)(2)(A) of this section, as though there was no will but only if—
+&emsp;&emsp;&emsp;Should the surviving spouse of the testator be omitted from the will of the testator, the surviving spouse shall be treated, for purposes of trust or restricted land or trust personalty in the testator's estate, in accordance with subsection (a)(2)(A), as though there was no will but only if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the testator and surviving spouse were continuously married without legal separation for the 5-year period preceding the decedent's death;
 
@@ -566,7 +566,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (5) Advancements of trust personalty during lifetime; effect on distribution of estate
 
-&emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B) of this section, shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
+&emsp;(A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent's lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir's inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent's intestate estate.
 
 &emsp;(B) For the purposes of this section, trust personalty advanced during the decedent's lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent's death, whichever occurs first.
 
@@ -600,7 +600,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 &emsp;&emsp;&emsp;&emsp;(I) an eligible heir;
 
-&emsp;&emsp;&emsp;&emsp;(II) any person who would have been eligible to be a devisee of the interest in question pursuant to subsection (b)(1)(A) of this section (but only in cases where the renouncing person is a devisee of the interest under a valid will); or
+&emsp;&emsp;&emsp;&emsp;(II) any person who would have been eligible to be a devisee of the interest in question pursuant to subsection (b)(1)(A) (but only in cases where the renouncing person is a devisee of the interest under a valid will); or
 
 &emsp;&emsp;&emsp;&emsp;(III) the Indian tribe with jurisdiction over the interest in question;
 
@@ -608,7 +608,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (ii) Trust personalty
 
-&emsp;&emsp;&emsp;An interest in trust personalty may be renounced or disclaimed in favor of any person who would be eligible to be a devisee of such an interest under subsection (b)(3) of this section and shall pass to the recipient in accordance with the provisions of that subsection.
+&emsp;&emsp;&emsp;An interest in trust personalty may be renounced or disclaimed in favor of any person who would be eligible to be a devisee of such an interest under subsection (b)(3) and shall pass to the recipient in accordance with the provisions of that subsection.
 
 #### (iii) Unauthorized renunciations and disclaimers
 
@@ -620,7 +620,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to allow the renunciation of an interest that is subject to subsection (a)(2)(D) of this section in favor of more than 1 person.
+&emsp;&emsp;Nothing in this paragraph shall be construed to allow the renunciation of an interest that is subject to subsection (a)(2)(D) in favor of more than 1 person.
 
 #### (9) Consolidation agreements
 
@@ -634,7 +634,7 @@ In the absence of a contrary intent, and except as otherwise provided under this
 
 #### (C) Effect on purchase option at probate
 
-&emsp;&emsp;Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) of this section shall not be available for purchase under subsection (o) of this section unless the decisionmaker determines that the agreement should not be approved.
+&emsp;&emsp;Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) shall not be available for purchase under subsection (o) unless the decisionmaker determines that the agreement should not be approved.
 
 #### (k) Notification to landowners
 
@@ -716,9 +716,9 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### (n) Missing heirs
 
-(1) For purposes of this subsection and subsection (m) of this section, an heir may be presumed missing if—
+(1) For purposes of this subsection and subsection (m), an heir may be presumed missing if—
 
-&emsp;(A) such heir's whereabouts remain unknown 60 days after completion of notice efforts under subsection (m) of this section; and
+&emsp;(A) such heir's whereabouts remain unknown 60 days after completion of notice efforts under subsection (m); and
 
 &emsp;(B) in the proceeding to determine a decedent's heirs, the Secretary finds that the heir has had no contact with other heirs of the decedent, if any, or with the Department relating to trust or restricted land or other trust assets at any time during the 6-year period preceding the hearing to determine heirs.
 
@@ -736,9 +736,9 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 #### (2) Sale of interest at fair market value
 
-&emsp;Subject to paragraph (3), the Secretary is authorized to sell trust or restricted interests in land subject to this subsection, including the interest that a surviving spouse would otherwise receive under subparagraph (A) or (D) of subsection (a)(2) of this section, at no less than fair market value, as determined in accordance with the provisions of this chapter, to any of the following eligible purchasers:
+&emsp;Subject to paragraph (3), the Secretary is authorized to sell trust or restricted interests in land subject to this subsection, including the interest that a surviving spouse would otherwise receive under subparagraph (A) or (D) of subsection (a)(2), at no less than fair market value, as determined in accordance with the provisions of this chapter, to any of the following eligible purchasers:
 
-&emsp;&emsp;(A) Any other eligible heir taking an interest in the same parcel of land by intestate succession or the decedent's other devisees of interests in the same parcel who are eligible to receive a devise under subsection (b)(1)(A) of this section.
+&emsp;&emsp;(A) Any other eligible heir taking an interest in the same parcel of land by intestate succession or the decedent's other devisees of interests in the same parcel who are eligible to receive a devise under subsection (b)(1)(A).
 
 &emsp;&emsp;(B) All persons who own undivided trust or restricted interests in the same parcel of land involved in the probate proceeding.
 
@@ -752,7 +752,7 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 &emsp;&emsp;&emsp;(i) an eligible purchaser described in paragraph (2) submits a written request to purchase prior to the distribution of the interest to heirs or devisees of the decedent and in accordance with any regulations of the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) except as provided in paragraph (5), the heirs or devisees of such interest, and the decedent's surviving spouse, if any, receiving a life estate under subparagraph (A) or (D) of subsection (a)(2) of this section consent to the sale.
+&emsp;&emsp;&emsp;(ii) except as provided in paragraph (5), the heirs or devisees of such interest, and the decedent's surviving spouse, if any, receiving a life estate under subparagraph (A) or (D) of subsection (a)(2) consent to the sale.
 
 #### (B) Multiple requests to purchase
 
@@ -794,9 +794,9 @@ Prior to holding a hearing to determine the heirs to trust or restricted propert
 
 &emsp;&emsp;Proceeds described in subparagraph (A) shall be deposited and held in an account as trust personalty if the interest sold would otherwise pass to—
 
-&emsp;&emsp;&emsp;(i) the heir, by intestate succession under subsection (a) of this section; or
+&emsp;&emsp;&emsp;(i) the heir, by intestate succession under subsection (a); or
 
-&emsp;&emsp;&emsp;(ii) the devisee in trust or restricted status under subsection (b)(1) of this section.
+&emsp;&emsp;&emsp;(ii) the devisee in trust or restricted status under subsection (b)(1).
 
 (Pub. L. 97–459, title II, §207, as added Pub. L. 106–462, title I, §103(4), Nov. 7, 2000, 114 Stat. 1995; amended Pub. L. 108–374, §§3, 6(a)(2), (4), (e), Oct. 27, 2004, 118 Stat. 1774, 1797, 1800, 1805; Pub. L. 109–157, §4, Dec. 30, 2005, 119 Stat. 2950; Pub. L. 109–221, title V, §501(a), May 12, 2006, 120 Stat. 343; Pub. L. 110–453, title II, §207(c), Dec. 2, 2008, 122 Stat. 5030.)
 

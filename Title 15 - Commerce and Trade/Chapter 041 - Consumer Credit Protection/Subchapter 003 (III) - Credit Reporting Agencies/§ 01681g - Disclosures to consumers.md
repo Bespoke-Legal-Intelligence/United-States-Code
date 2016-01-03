@@ -38,7 +38,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 #### (b) Exempt information
 
-The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
+The requirements of subsection (a) respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
 
 #### (c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores
 
@@ -52,7 +52,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;The summary of rights prepared under subparagraph (A) shall include a description of—
 
-&emsp;&emsp;&emsp;(i) the right of a consumer to obtain a copy of a consumer report under subsection (a) of this section from each consumer reporting agency;
+&emsp;&emsp;&emsp;(i) the right of a consumer to obtain a copy of a consumer report under subsection (a) from each consumer reporting agency;
 
 &emsp;&emsp;&emsp;(ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under section 1681j of this title;
 
@@ -92,7 +92,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission,<sup>2</sup> in consultation with the Federal banking agencies and the NationalCredit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission,<sup>2</sup> in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
@@ -228,7 +228,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;The term "credit score"—
 
-&emsp;&emsp;&emsp;(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from such analysis may also be referred to as a "risk predictor" or "risk score"); and
+&emsp;&emsp;&emsp;(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from suchanalysis may also be referred to as a "risk predictor" or "risk score"); and
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
@@ -242,7 +242,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (3) Timeframe and manner of disclosure
 
-&emsp;The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a) of this section.
+&emsp;The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a).
 
 #### (4) Applicability to certain uses
 
@@ -286,13 +286,13 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f) of this section, in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
 
 #### (A) Information required under subsection (f)
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A copy of the information identified in subsection (f) of this section that was obtained from a consumer reporting agency or was developed and used by the user of the information.
+&emsp;&emsp;&emsp;A copy of the information identified in subsection (f) that was obtained from a consumer reporting agency or was developed and used by the user of the information.
 
 #### (ii) Notice under subparagraph (D)
 
@@ -336,9 +336,9 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;This subsection shall not require any person to—
 
-&emsp;&emsp;&emsp;(i) explain the information provided pursuant to subsection (f) of this section;
+&emsp;&emsp;&emsp;(i) explain the information provided pursuant to subsection (f);
 
-&emsp;&emsp;&emsp;(ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+&emsp;&emsp;&emsp;(ii) disclose any information other than a credit score or key factors, as defined in subsection (f);
 
 &emsp;&emsp;&emsp;(iii) disclose any credit score or related information obtained by the user after a loan has closed;
 
@@ -380,7 +380,7 @@ For the effective date of this subchapter, referred to in subsec. (b), see secti
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means section 211(d) of Pub. L. 108–159, which is set out as a note under section 1681j of this title and relates to the promulgation of regulations. Section 211(c) of Pub. L. 108–159 amended this section.
 
-Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of thistitle by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 

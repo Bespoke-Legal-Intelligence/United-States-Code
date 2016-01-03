@@ -20,13 +20,13 @@
 
 #### (4) Prohibition on use for administrative expenses
 
-&emsp;No Federal funds made available under paragraph (1) shall be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+&emsp;No Federal funds made available under paragraph (1) shall be used by the Foundation foradministrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
 
 #### (b) Additional authorization
 
 #### (1) In general
 
-&emsp;In addition to the amounts authorized to be appropriated under subsection (a) of this section, the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
+&emsp;In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
 
 #### (2) Use of funds accepted from Federal agencies
 

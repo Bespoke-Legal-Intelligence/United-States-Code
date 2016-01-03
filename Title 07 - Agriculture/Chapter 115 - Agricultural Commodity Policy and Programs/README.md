@@ -11,7 +11,7 @@
 |  |  |
 | :--- | ---: |
 | [9011\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009011%20-%20Definitions.md) | Definitions. |
-| [9012\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009012%20-%20Base%20acres.md) | Base Acres. |
+| [9012\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009012%20-%20Base%20acres.md) | Base acres. |
 | [9013\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009013%20-%20Payment%20yields.md) | Payment yields. |
 | [9014\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009014%20-%20Payment%20acres.md) | Payment acres. |
 | [9015\.](Subchapter%20001%20%28I%29%20-%20Commodity%20Policy/%C2%A7%2009015%20-%20Producer%20election.md) | Producer election. |

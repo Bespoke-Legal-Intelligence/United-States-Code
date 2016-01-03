@@ -138,7 +138,3 @@ Not later than 120 days after December 18, 2014, the National Protection and Pro
 
 (Pub. L. 107–296, title II, §226, as added Pub. L. 113–277, §3(a), Dec. 18, 2014, 128 Stat. 3005.)
 
-#### Codification
-
-Another section 226 of Pub. L. 107–296 is classified to section 148 of this title.
-

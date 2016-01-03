@@ -14,7 +14,7 @@ Whenever an order is issued under this section to abate such violation, at the r
 
 #### (d) Exception
 
-This section shall have no application to any employee who, acting without direction from his employer (or his agent) deliberately violates any requirement of this chapter.
+This section shall have no application to any employee who, acting without direction from hisemployer (or his agent) deliberately violates any requirement of this chapter.
 
 #### (e) Employment shifts and loss
 

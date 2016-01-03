@@ -8,7 +8,7 @@ As used in this part:
 
 #### (2) Local and private sector contribution
 
-&emsp;The term "local and private sector contribution" means the funds available at the local level (by private financial institutions, State and local governments) or by any private philanthropic organization and private, nonprofit organizations that will be committed and used solely for the purpose of financing private business enterprises in conjunction with amounts provided under this part.
+&emsp;The term "local and private sector contribution" means the funds available at the locallevel (by private financial institutions, State and local governments) or by any private philanthropic organization and private, nonprofit organizations that will be committed and used solely for the purpose of financing private business enterprises in conjunction with amounts provided under this part.
 
 #### (3) Population-losing community
 

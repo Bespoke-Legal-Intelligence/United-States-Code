@@ -32,7 +32,7 @@ The TPCC shall—
 
 #### (c) Strategic plan
 
-To carry out subsection (b) of this section, the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
+To carry out subsection (b), the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
 
 &emsp;(1) establish a set of priorities for Federal activities in support of United States exports and explain the rationale for the priorities;
 
@@ -90,15 +90,15 @@ Members of the TPCC shall be appointed by the heads of their respective departme
 
 The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
-&emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
+&emsp;(1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan, and any revisions thereto; and
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199;amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
 
 #### References in Text
 
-Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992,Pub. L. 102–511, to reflect the probable intent of Congress.
+Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, "sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5823 and 5824)", and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -212,7 +212,7 @@ Sec. 6. <i>Report</i>. The chairperson of the TPCC, with the approval of the Pre
 
 Ex. Ord. No. 13534, Mar. 11, 2010, 75 F.R. 12433, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992, Public Law 102–429, 106 Stat. 2186, and section 301 of title 3, United States Code, in order to enhance and coordinate Federal efforts to facilitate the creation ofjobs in the United States through the promotion of exports, and to ensure the effective use of Federal resources in support of these goals, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992, Public Law 102–429, 106 Stat. 2186, and section 301 of title 3, United States Code, in order to enhance and coordinate Federal efforts to facilitate the creation of jobs in the United States through the promotion of exports, and to ensure the effective use of Federal resources in support of these goals, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The economic and financial crisis has led to the loss of millions of U.S. jobs, and while the economy is beginning to show signs of recovery, millions of Americans remain unemployed or underemployed. Creating jobs in the United States and ensuring a return to sustainable economic growth is the top priority for my Administration. A critical component of stimulating economic growth in the United States is ensuring that U.S. businesses can actively participate in international markets by increasing their exports of goods, services, and agricultural products. Improved export performance will, in turn, create good high-paying jobs.
 
@@ -366,7 +366,7 @@ Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote broad-based economic growth and job creation in the United States and Africa by encouraging U.S. companies to trade with and invest in Africa, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States recognizes that Africa is a region of growing economic opportunity and innovation and aims to expand a trade and investment partnership that is grounded in shared interests and mutual responsibility. Africa offers a diverse and broad range of trade and investment opportunities in national and regional markets. The U.S. Government will encourage U.S. companies to seize the trade and investment opportunities offered by Africa's national and regional markets and help drive inclusive and sustained economic growth and the region's economic expansion, while also creating jobs here in the United States.
+Section 1. <i>Policy</i>. The United States recognizes that Africa is a region of growing economic opportunity and innovation and aims to expand a trade and investment partnership that is grounded in shared interests and mutual responsibility. Africa offers a diverse and broad range of trade and investment opportunities in national and regional markets. The U.S. Government will encourage U.S. companies to seize the trade and investment opportunities offered by Africa's national and regional markets and help drive inclusive and sustainedeconomic growth and the region's economic expansion, while also creating jobs here in the United States.
 
 Sec. 2. <i>Establishment</i>. Not later than 180 days after the date of this order, the Secretary of Commerce shall establish the President's Advisory Council on Doing Business in Africa (Advisory Council).
 
@@ -422,6 +422,10 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of President's Advisory Council on Doing Business in Africa
+
+Term of President's Advisory Council on Doing Business in Africa extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment
 
 Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, provided:
@@ -432,7 +436,7 @@ Winning the future and creating an economy that's built to last will require the
 
 Executive Order 13534 of March 11, 2010, established the Export Promotion Cabinet to coordinate the development and implementation of the National Export Initiative (NEI) to improve conditions that directly affect the private sector's ability to export and to help meet my Administration's goal of doubling exports over 5 years. Pursuant to the terms of the Executive Order, the Export Promotion Cabinet conducts its work in coordination with the Trade Promotion Coordinating Committee (TPCC). The TPCC, chaired by the Secretary of Commerce, was authorized by statute in 1992 (15 U.S.C. 4727) and established by Executive Order 12870 of September 30, 1993. The NEI has used Government resources and policies to increase exports at a pace consistent with the goal of doubling exports by the end of 2014. The NEI has accomplished this by opening up foreign markets for U.S. exports, enhancing enforcement of our trade laws, providing needed export financing, advocating on behalf of U.S. firms, and otherwise facilitating U.S. exports. But we must do more.
 
-On January 13, 2012, I announced that I would submit a legislative proposal seeking the authority to reorganize the Federal Government in order to reduce costs and consolidate agencies (Consolidation Authority), and outlined the first use I would make of such authority: to streamline functions currently dispersed across numerous agencies into a single new department to promote competitiveness, exports, and American business. The new department would integrate and streamline trade negotiation, financing, promotion, and enforcement functions currently housed at half a dozen executive departments and agencies, and would include an office dedicated to expanding foreign investment and assisting businesses that are considering investing in the United States. In addition to the trade and investment functions, the new department would include integrated small business, technology, innovation, and statistics programs and services from a number of departments and agencies, thereby creating a one-stop shop for businesses that want to grow and export. We cannot afford to wait until the Congress acts, however,and must do all we can administratively to make the most efficient and effective use of the Federal Government's trade, foreign investment, export, and business programs and functions.
+On January 13, 2012, I announced that I would submit a legislative proposal seeking the authority to reorganize the Federal Government in order to reduce costs and consolidate agencies (Consolidation Authority), and outlined the first use I would make of such authority: to streamline functions currently dispersed across numerous agencies into a single new department to promote competitiveness, exports, and American business. The new department would integrate and streamline trade negotiation, financing, promotion, and enforcement functions currently housed at half a dozen executive departments and agencies, and would include an office dedicated to expanding foreign investment and assisting businesses that are considering investing in the United States. In addition to the trade and investment functions, the new department would include integrated small business, technology, innovation, and statistics programs and services from a number of departments and agencies, thereby creating a one-stop shop for businesses that want to grow and export. We cannot afford to wait until the Congress acts, however, and must do all we can administratively to make the most efficient and effective use of the Federal Government's trade, foreign investment, export, and business programs and functions.
 
 Accordingly, to further enhance and coordinate Federal efforts to facilitate the creation of jobs in the United States and ensure sustainable economic growth through trade and foreign investment, and to ensure the effective and efficient use of Federal resources in support of these goals, I hereby direct the following:
 

@@ -26,7 +26,7 @@ The Commission—
 
 #### (d) Delegation of enforcement to State commissions
 
-The Commission may delegate authority to enforce the regulations issued under subsection\(c) to State commissions or other State or local agencies or programs with jurisdiction over emergency communications. Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, provided that the exercise of such authority is not inconsistent with Federal law or Commission requirements.
+The Commission may delegate authority to enforce the regulations issued under subsection (c) to State commissions or other State or local agencies or programs with jurisdiction over emergency communications. Nothing in this section is intended to alter the authority of State commissions or other State or local agencies with jurisdiction over emergency communications, provided that the exercise of such authority is not inconsistent with Federal law or Commission requirements.
 
 #### (e) Implementation
 
@@ -46,7 +46,7 @@ The Commission may delegate authority to enforce the regulations issued under su
 
 #### (2) Fee accountability report
 
-&emsp;To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
+&emsp;To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on theamount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.
 
 #### (g) Availability of PSAP information
 

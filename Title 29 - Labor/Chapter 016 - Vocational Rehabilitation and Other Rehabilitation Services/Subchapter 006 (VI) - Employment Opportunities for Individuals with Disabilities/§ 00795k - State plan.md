@@ -16,7 +16,7 @@ Each such plan supplement shall—
 
 &emsp;(4) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other State agencies and other appropriate entities to assist in the provision of supported employment services;
 
-&emsp;(5) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other public or nonprofit agencies or organizations within theState, employers, natural supports, and other entities with respect to the provision of extended services;
+&emsp;(5) demonstrate evidence of the efforts of the designated State agency to identify and make arrangements (including entering into cooperative agreements) with other public or nonprofit agencies or organizations within the State, employers, natural supports, and other entities with respect to the provision of extended services;
 
 &emsp;(6) describe the activities to be conducted pursuant to section 795h(d) of this title for youth with the most significant disabilities, including—
 
@@ -28,9 +28,9 @@ Each such plan supplement shall—
 
 &emsp;&emsp;(A) funds made available under this subchapter will only be used to provide supported employment services authorized under this chapter to individuals who are eligible under this subchapter to receive the services;
 
-&emsp;&emsp;(B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under section 722(b)(1) of this title and funded under subchapter I of this chapter will include consideration of supported employment as an appropriate employment outcome;
+&emsp;&emsp;(B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under section 722(b)(1) of this title and funded under subchapter I will include consideration of supported employment as an appropriate employment outcome;
 
-&emsp;&emsp;(C) an individualized plan for employment, as required by section 722 of this title, will be developed and updated using funds under subchapter I of this chapter in order to—
+&emsp;&emsp;(C) an individualized plan for employment, as required by section 722 of this title, will be developed and updated using funds under subchapter I in order to—
 
 &emsp;&emsp;&emsp;(i) specify the supported employment services to be provided, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services;
 
@@ -38,7 +38,7 @@ Each such plan supplement shall—
 
 &emsp;&emsp;&emsp;(iii) identify, as appropriate, the source of extended services, which may include natural supports, or indicate that it is not possible to identify the source of extended services at the time the individualized plan for employment is developed;
 
-&emsp;&emsp;(D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I of this chapter, in providing supported employment services specified in the individualized plan for employment;
+&emsp;&emsp;(D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I, in providing supported employment services specified in the individualized plan for employment;
 
 &emsp;&emsp;(E) services provided under an individualized plan for employment will be coordinated with services provided under other individualized plans established under other Federal or State programs;
 
@@ -78,7 +78,7 @@ Subsec. (b)(7)(A). Pub. L. 113–128, §461(8)(B)(vii)(I), substituted "under th
 
 Subsec. (b)(7)(B). Pub. L. 113–128, §461(8)(B)(vii)(II), inserted ", including youth with the most significant disabilities," after "significant disabilities".
 
-Subsec. (b)(7)(C)(i). Pub. L. 113–128, §461(8)(B)(vii)(III)(aa), inserted ", including, as appropriate, for youth with the most significant disabilities,transition services and pre-employment transition services" after "services to be provided".
+Subsec. (b)(7)(C)(i). Pub. L. 113–128, §461(8)(B)(vii)(III)(aa), inserted ", including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services" after "services to be provided".
 
 Subsec. (b)(7)(C)(ii). Pub. L. 113–128, §461(8)(B)(vii)(III)(bb), inserted ", including the extended services that may be provided to youth with the most significant disabilities under this subchapter, in accordance with an approved individualized plan for employment, for a period not to exceed 4 years" after "services needed".
 

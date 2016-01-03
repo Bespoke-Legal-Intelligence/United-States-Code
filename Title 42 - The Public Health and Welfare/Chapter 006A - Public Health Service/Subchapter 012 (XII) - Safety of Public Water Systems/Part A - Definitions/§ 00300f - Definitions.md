@@ -28,7 +28,7 @@ Public water system.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "public water system" means a system for the provision tothe public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
+In general.—The term "public water system" means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +94,7 @@ The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is P
 
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end "At any time after promulgation of a regulationreferred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation."
+<b>1996</b>—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end "At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation."
 
 Par. (1)(D). Pub. L. 104–182, §101(a)(1)(A), inserted "accepted methods for" before "quality control".
 

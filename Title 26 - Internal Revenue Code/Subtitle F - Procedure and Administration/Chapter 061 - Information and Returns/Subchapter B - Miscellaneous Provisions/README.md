@@ -40,7 +40,7 @@
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §815(b)(1), (4), Oct. 22, 2004, 118 Stat. 1582, 1583, substituted "Disclosure of reportable transactions" for "Registration of tax shelters" in item 6111 and "Material advisors of reportable transactions must keep lists of advisees, etc." for "Organizers and sellers of potentially abusive tax shelters must keep lists of investors" in item 6112.
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, added item 6105.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, added item 6105.
 
 <b>1993</b>—Pub. L. 103–66, title XIII, §13173(c)(1), Aug. 10, 1993, 107 Stat. 456, added item 6115 and redesignated former item 6115 as 6116.
 

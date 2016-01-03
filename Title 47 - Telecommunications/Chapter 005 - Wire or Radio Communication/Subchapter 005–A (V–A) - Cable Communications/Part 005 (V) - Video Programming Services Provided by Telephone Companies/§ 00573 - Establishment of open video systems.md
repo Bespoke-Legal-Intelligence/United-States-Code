@@ -4,7 +4,7 @@
 
 #### (1) Certificates of compliance
 
-&emsp;A local exchange carrier may provide cable service to its cable service subscribers in its telephone service area through an open video system that complies with this section. To the extent permitted by such regulations as the Commission may prescribe consistent with the public interest, convenience, and necessity, an operator of a cable system or any other person may provide video programming through an open video system that complies with this section. An operator of an open video system shall qualify for reduced regulatory burdens under subsection (c) of this section if the operator of such system certifies to the Commission that such carrier complies with the Commission's regulations under subsection (b) of this section and the Commission approves such certification. The Commission shall publish notice of the receipt of any such certification and shall act to approve or disapprove any such certification within 10 days after receipt of such certification.
+&emsp;A local exchange carrier may provide cable service to its cable service subscribers in itstelephone service area through an open video system that complies with this section. To the extent permitted by such regulations as the Commission may prescribe consistent with the public interest, convenience, and necessity, an operator of a cable system or any other person may provide video programming through an open video system that complies with this section. An operator of an open video system shall qualify for reduced regulatory burdens under subsection (c) of this section if the operator of such system certifies to the Commission that such carrier complies with the Commission's regulations under subsection (b) of this section and the Commission approves such certification. The Commission shall publish notice of the receipt of any such certification and shall act to approve or disapprove any such certification within 10 days after receipt of such certification.
 
 #### (2) Dispute resolution
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) if demand exceeds the channel capacity of the open video system, prohibit an operator of an open video system and its affiliates from selecting the video programming services for carriage on more than one-third of the activated channel capacity on such system, but nothing in this subparagraph shall be construed to limit the number of channels that the carrier and its affiliates may offer to provide directly to subscribers;
 
-&emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider\(including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
+&emsp;&emsp;(C) permit an operator of an open video system to carry on only one channel any video programming service that is offered by more than one video programming provider (including the local exchange carrier's video programming affiliate): <i>Provided</i>, That subscribers have ready and immediate access to any such video programming service;
 
 &emsp;&emsp;(D) extend to the distribution of video programming over open video systems the Commission's regulations concerning sports exclusivity (47 C.F.R. 76.67), network nonduplication (47 C.F.R. 76.92 et seq.), and syndicated exclusivity (47 C.F.R. 76.151 et seq.); and
 
@@ -54,7 +54,7 @@
 
 #### (A) Commission action
 
-&emsp;&emsp;In the rulemaking proceeding to prescribe the regulations required by subsection (b)(1) of this section, the Commission shall, to the extent possible, impose obligations that are no greater or lesser than the obligations contained in the provisions described in paragraph (1)(B) of this subsection. The Commission shall complete all action (including any reconsideration) to prescribe such regulations no later than 6 months after February 8, 1996.
+&emsp;&emsp;In the rulemaking proceeding to prescribe the regulations required by subsection (b)(1) of this section, the Commission shall, to the extent possible, impose obligations that are no greater or lesser than the obligations contained in the provisions described in paragraph (1)(B) of this subsection. TheCommission shall complete all action (including any reconsideration) to prescribe such regulations no later than 6 months after February 8, 1996.
 
 #### (B) Fees
 

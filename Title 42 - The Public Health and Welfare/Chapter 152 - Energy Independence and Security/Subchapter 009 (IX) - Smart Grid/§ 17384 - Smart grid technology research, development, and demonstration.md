@@ -46,7 +46,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall provide financial support to smart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas where electric system assets are controlled by investor-owned utilities.
+&emsp;&emsp;In carrying out the initiative,<sup>2</sup> the Secretary shall provide financial support tosmart grid demonstration projects in urban, suburban, tribal, and rural areas, including areas where electric system assets are controlled by nonprofit entities and areas where electric system assets are controlled by investor-owned utilities.
 
 #### (B) Cooperation
 

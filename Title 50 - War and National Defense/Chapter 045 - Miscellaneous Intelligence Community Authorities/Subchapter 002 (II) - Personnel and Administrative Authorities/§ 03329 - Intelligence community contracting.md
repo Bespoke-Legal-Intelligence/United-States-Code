@@ -72,7 +72,7 @@ Authority.—Subject to subsection (c) and in consultation with the Director of 
 
 &emsp;"(1) carry out a covered procurement action; and
 
-&emsp;"(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of informationrelating to the basis for carrying out a covered procurement action.
+&emsp;"(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
 
 "(c)
 

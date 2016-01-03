@@ -26,7 +26,7 @@ The following projects may be carried out with amounts made available under this
 
 &emsp;&emsp;(A) if the acquisition is integral to a project described in paragraphs (1) through (6); or
 
-&emsp;&emsp;(B) pursuant to an existing plan that, in the judgment of the Administrator or the Secretary, as applicable, would mitigate the environmental impacts of water resources infrastructure projects otherwise eligible for assistance under this section.
+&emsp;&emsp;(B) pursuant to an existing plan that, in the judgment of the Administrator or theSecretary, as applicable, would mitigate the environmental impacts of water resources infrastructure projects otherwise eligible for assistance under this section.
 
 &emsp;(8) A combination of projects, each of which is eligible under paragraph (2) or (3), for which a State infrastructure financing authority submits to the Administrator a single application.
 

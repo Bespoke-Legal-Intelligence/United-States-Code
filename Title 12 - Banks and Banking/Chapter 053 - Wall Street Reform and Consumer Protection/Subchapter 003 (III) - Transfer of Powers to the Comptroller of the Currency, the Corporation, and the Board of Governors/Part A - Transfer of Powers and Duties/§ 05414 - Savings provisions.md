@@ -56,7 +56,7 @@ All orders, resolutions, determinations, agreements, and regulations, interpreta
 
 #### (1) Proposed regulations
 
-&emsp;Any proposed regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision in performing functions transferred by this title,<sup>1</sup> has proposed before the transfer date but has not published as a final regulation before such date, shall be deemed to be a proposed regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the proposed regulation.
+&emsp;Any proposed regulation of the Office of Thrift Supervision, which the Office of ThriftSupervision in performing functions transferred by this title,<sup>1</sup> has proposed before the transfer date but has not published as a final regulation before such date, shall be deemed to be a proposed regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the proposed regulation.
 
 #### (2) Regulations not yet effective
 

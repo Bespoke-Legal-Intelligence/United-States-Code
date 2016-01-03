@@ -20,7 +20,7 @@ Section 406 of title IV of Pub. L. 94–502 provided that: "The provisions of th
 
 #### Short Title
 
-For short titles of Pub. L. 94–502, and title IV of Pub. L. 94–502, which enacted this chapter, see Short Title of1976 Amendments note set out under section 101 of this title.
+For short titles of Pub. L. 94–502, and title IV of Pub. L. 94–502, which enacted this chapter, see Short Title of 1976 Amendments note set out under section 101 of this title.
 
 #### Enrollment in Program Before April 1, 1987
 

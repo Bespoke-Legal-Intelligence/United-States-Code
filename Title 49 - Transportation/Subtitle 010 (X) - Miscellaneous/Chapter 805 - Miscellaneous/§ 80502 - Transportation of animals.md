@@ -68,7 +68,7 @@ June 29, 1906, ch. 3594, §§1–4, 34 Stat. 607.
 
 45:74.
 
-In this section, the words "rail carrier, express carrier" are substituted for "railroad, express company, car company" for consistency in the revised title. The word "air" is included in the exception because when the source provision was enacted air carriers did not exist. The words "a vehicle or vessel" are substituted for "cars, boats, or vessels of any description", and the word "vessel" is substituted for "steam, sailing, or other vessels", for consistency in the revised title and with other titles of the United States Code.
+In this section, the words "rail carrier, express carrier" are substituted for "railroad, express company, car company" for consistency in the revised title. Theword "air" is included in the exception because when the source provision was enacted air carriers did not exist. The words "a vehicle or vessel" are substituted for "cars, boats, or vessels of any description", and the word "vessel" is substituted for "steam, sailing, or other vessels", for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(1), the words "transporting animals" are substituted for "whose road forms any part of a line of road over which cattle, sheep, swine, or other animals shall be conveyed" and "carrying or transporting cattle, sheep, swine, or other animals" to eliminate unnecessary words. The word "possession" is added for consistency in the revised title and with other titles of the Code. The words "for feeding, water, and rest" are added because of the restatement.
 

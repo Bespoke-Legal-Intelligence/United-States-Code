@@ -32,11 +32,19 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(7) a motor vehicle under section 30144 of this title imported on a temporary basis;
 
-&emsp;(8) a motor vehicle or item of motor vehicle equipment under section 30145 of this title requiring further manufacturing; or
+&emsp;(8) a motor vehicle or item of motor vehicle equipment under section 30145 of this title requiring further manufacturing;
 
-&emsp;(9) a motor vehicle that is at least 25 years old.
+&emsp;(9) a motor vehicle that is at least 25 years old; or
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 109–59, title X, §10309(b), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §31207, July 6, 2012, 126 Stat. 761.)
+&emsp;(10) the introduction of a motor vehicle in interstate commerce solely for purposes of testing or evaluation by a manufacturer that agrees not to sell or offer for sale the motor vehicle at the conclusion of the testing or evaluation and that prior to the date of enactment of this paragraph—
+
+&emsp;&emsp;(A) has manufactured and distributed motor vehicles into the United States that are certified to comply with all applicable Federal motor vehicle safety standards;
+
+&emsp;&emsp;(B) has submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
+
+&emsp;&emsp;(C) if applicable, has identified an agent for service of process in accordance with part 551 of such title.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 945; Pub. L. 109–59, title X, §10309(b), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §31207, July 6, 2012, 126 Stat. 761; Pub. L. 114–94, div. B, title XXIV, §24404, Dec. 4, 2015, 129 Stat. 1721.)
 
 Historical and Revision Notes
 
@@ -88,7 +96,11 @@ In subsection (b), before clause (1), the text of 15:1397(a)(2)(D) is omitted as
 
 The date of enactment of this paragraph, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+The date of enactment of this paragraph, referred to in subsec. (b)(10), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(10). Pub. L. 114–94 added par. (10).
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–141, §31207(1), added par. (3).
 

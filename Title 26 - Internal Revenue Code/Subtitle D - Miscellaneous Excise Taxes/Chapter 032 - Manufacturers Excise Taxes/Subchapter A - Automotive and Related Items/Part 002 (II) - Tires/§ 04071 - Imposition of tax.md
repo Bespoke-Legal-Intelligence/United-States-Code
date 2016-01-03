@@ -2,7 +2,7 @@
 
 #### (a) Imposition and rate of tax
 
-There is hereby imposed on taxable tires sold by the manufacturer, producer, or importerthereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
+There is hereby imposed on taxable tires sold by the manufacturer, producer, or importer thereof a tax at the rate of 9.45 cents (4.725 cents in the case of a biasply tire or super single tire) for each 10 pounds so much of the maximum rated load capacity thereof as exceeds 3,500 pounds.
 
 #### (b) Special rule for manufacturers who sell at retail
 
@@ -22,9 +22,15 @@ For the purposes of subsection (a), if an article imported into the United State
 
 On and after October 1, 2016, the taxes imposed by subsection (a) shall not apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(C), July 6, 2012, 126 Stat. 844.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 482; June 29, 1956, ch. 462, title II, §204(a), 70 Stat. 388; Pub. L. 86–440, §1(a), Apr. 22, 1960, 74 Stat. 80; Pub. L. 87–61, title II, §202, June 29, 1961, 75 Stat. 124; Pub. L. 89–523, §1(a), Aug. 1, 1966, 80 Stat. 331; Pub. L. 91–605, title III, §303(a)(5), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 92–178, title IV, §401(f), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–280, title III, §303(a)(5), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, §502(a)(4), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 96–222, title I, §108(c)(2)(C), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(a)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(d), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–424, title V, §§514(a), 516(a)(2), Jan. 6, 1983, 96 Stat. 2181, 2182; Pub. L. 98–369, div. A, title VII, §735(c)(2), July 18, 1984, 98 Stat. 982; Pub. L. 100–17, title V, §502(a)(3), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(2), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(E), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §869(a), (d)(1), Oct. 22, 2004, 118 Stat. 1623; Pub. L. 109–59, title XI, §11101(a)(1)(E), Aug. 10, 2005, 119 Stat. 1943; Pub. L. 112–30, title I, §142(a)(2)(C), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(C), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(C), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(C), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(C), Dec. 4, 2015, 129 Stat. 1727.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(C), (f), Dec. 4, 2015, 129 Stat. 1727, 1728, provided that, effective Oct. 1, 2016, subsection (d) of this section is amended by striking "October 1, 2016" and inserting "October 1, 2022". See 2015 Amendment note below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–94 substituted "October 1, 2022" for "October 1, 2016".
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–141 substituted "October 1, 2016" for "July 1, 2012".
 
@@ -38,7 +44,7 @@ Pub. L. 112–102 substituted "July 1, 2012" for "April 1, 2012".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357, §869(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) imposed tax and set forth table of rates providing for no tax if the tire weighed not more than 40 lbs., tax of 15 cents per lb. in excess of 40 lbs. if the tire weighed more than 40 lbs. but not more than 70 lbs., tax of $4.50 plus 30 cents per lb. in excess of 70 lbs. if the tire weighed more than 70 lbs. but not more than 90 lbs., and tax of $10.50 plus 50 cents per lb. in excess of 90 lbs. if the tire weighed more than 90 lbs.
 
-Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
+Subsec. (c). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c) and struck out heading and text offormer subsec. (c). Text read as follows: "For purposes of this section, weight shall be based on total weight exclusive of metal rims or rim bases. Total weight of the articles shall be determined under regulations prescribed by the Secretary."
 
 Subsec. (e). Pub. L. 108–357, §869(d)(1), redesignated subsec. (e) as (c).
 
@@ -70,7 +76,7 @@ Subsec. (f). Pub. L. 98–369, §735(c)(2)(D), struck out subsec. (f) which rela
 
 &emsp;"(5) Laminated tires (not of the type used on highway vehicles) which consist wholly of scrap rubber from used tire casings with an internal metal fastening agent, 1 cent a pound."
 
-Subsec. (d). Pub. L. 97–424, §516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposedby subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
+Subsec. (d). Pub. L. 97–424, §516(a)(2), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by subsec. (a) shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by subsec. (a)(1) would be 4.875 cents a pound, that by subsec. (a)(3) would be 9 cents a pound, and that subsec. (a)(4) would not apply.
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–596, §4(a)(1)(A), substituted "9.75 cents" for "10 cents".
 
@@ -107,6 +113,10 @@ Subsec. (c). Pub. L. 87–61, §202(d), substituted "October 1, 1972" for "July 
 Subsec. (a)(5). Pub. L. 86–440, §1(a)(2), added par. (5).
 
 <b>1956</b>—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under section 4041 of this title.
 
 #### Effective and Termination Dates of 2012 Amendment
 

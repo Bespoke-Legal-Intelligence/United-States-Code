@@ -68,7 +68,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (6) Verification of charitable status
 
-&emsp;A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this section to a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
+&emsp;A common carrier that assigns by contract or tariff a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) of this sectionto a provider of pay-per-call services that the carrier knows or reasonably should know is engaged in soliciting charitable contributions shall obtain from such provider proof of the tax exempt status of any person or organization for which contributions are solicited.
 
 #### (7) Billing for 800 calls
 
@@ -184,7 +184,7 @@ The regulations required by this section shall require that any common carrier t
 
 &emsp;(2) establish a local or a toll-free telephone number to answer questions and provide information on subscribers' rights and obligations with regard to their use of pay-per-call services and to provide to callers the name and mailing address of any provider of pay-per-call services offered by the common carrier;
 
-&emsp;(3) within 60 days after the issuance of final regulations pursuant to subsection (b) of this section, provide, either directly or through contract with any local exchange carrier thatprovides billing or collection services to the common carrier, to all of such common carrier's telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
+&emsp;(3) within 60 days after the issuance of final regulations pursuant to subsection (b) of this section, provide, either directly or through contract with any local exchange carrier that provides billing or collection services to the common carrier, to all of such common carrier's telephone subscribers, to all new subscribers, and to all subscribers requesting service at a new location, a disclosure statement that sets forth all rights and obligations of the subscriber and the carrier with respect to the use and payment for pay-per-call services, including the right of a subscriber not to be billed and the applicable blocking option; and
 
 &emsp;(4) in any billing to telephone subscribers that includes charges for any pay-per-call service—
 
@@ -212,7 +212,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Recovery of costs
 
-&emsp;The regulations prescribed by the Commission under this section shall permit a common carrier to recover its cost of complying with such regulations from providers of pay-per-call services, but shall not permit such costs to be recovered from local or long distance ratepayers.
+&emsp;The regulations prescribed by the Commission under this section shall permit a common carrier to recover its cost of complying with such regulations from providers of pay-per-call services, but shall not permit such costs to berecovered from local or long distance ratepayers.
 
 #### (3) Recommendations on data pay-per-call
 

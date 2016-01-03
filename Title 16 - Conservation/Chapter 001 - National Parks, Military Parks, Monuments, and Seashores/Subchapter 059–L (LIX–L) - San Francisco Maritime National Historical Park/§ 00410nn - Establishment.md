@@ -10,7 +10,7 @@ The park shall consist of the lands and interests therein within the area genera
 
 #### (c) Golden Gate National Recreation Area
 
-The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b) of this section). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the United States administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together with all vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
+The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b)). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the United States administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together with all vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
 
 #### (d) Museum building
 
@@ -32,5 +32,5 @@ In subsec. (b), "section 100506(c) of title 54" substituted for "section 7(c) of
 
 #### Short Title
 
-Pub. L. 100–348, §1, June 27, 1988, 102 Stat. 654, provided that: "This Act \[enacting this subchapter and amending section 460bb–3 of this title\] may be cited as the 'San Francisco Maritime National Historical Park Act of 1988'."
+Pub. L. 100–348, §1, June 27, 1988, 102 Stat. 654, provided that: "This Act \[enacting this subchapter andamending section 460bb–3 of this title\] may be cited as the 'San Francisco Maritime National Historical Park Act of 1988'."
 

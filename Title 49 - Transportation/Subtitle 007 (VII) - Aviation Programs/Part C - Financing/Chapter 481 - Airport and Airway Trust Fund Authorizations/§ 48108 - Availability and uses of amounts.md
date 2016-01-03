@@ -58,7 +58,7 @@ Sept. 3, 1982, Pub. L. 97–248, §506(e)(5), 96 Stat. 679; Dec. 30, 1987, Pub. 
 
 In subsection (a), the words "for each fiscal year" are omitted as surplus.
 
-In subsection (b)(1), the words "Notwithstanding any other provision of law to the contrary" are omitted assurplus. The reference to "this chapter" is intended to include sections 48106 and 48107 of the revised title for accuracy because the source provisions for those sections were enacted after the source provisions being restated in this section.
+In subsection (b)(1), the words "Notwithstanding any other provision of law to the contrary" are omitted as surplus. The reference to "this chapter" is intended to include sections 48106 and 48107 of the revised title for accuracy because the source provisions for those sections were enacted after the source provisions being restated in this section.
 
 In subsection (b)(2), the words "for any fiscal year" are omitted as surplus.
 

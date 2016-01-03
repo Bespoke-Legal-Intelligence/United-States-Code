@@ -46,7 +46,7 @@ In purchasing commodities under subsection (a), the Secretary shall, to the exte
 
 &emsp;(3) preferences of recipients.
 
-(Pub. L. 88–525, §27, as added Pub. L. 104–193, title VIII, §871(g), Aug. 22, 1996, 110 Stat. 2346; amended Pub. L. 107–171, title IV, §4126(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §4201(a), May 22, 2008, 122 Stat. 1120; Pub. L. 110–246, §4(a), title IV, §4201(a), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 113–79, title IV, §§4027(a), 4030(m), Feb. 7, 2014, 128 Stat. 812, 814.)
+(Pub. L. 88–525, §27, as added Pub. L. 104–193, title VIII, §871(g), Aug. 22, 1996, 110 Stat. 2346; amended Pub. L. 107–171, title IV, §4126(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §4201(a), May 22, 2008, 122 Stat. 1120; Pub. L. 110–246, §4(a), title IV, §4201(a), June 18, 2008, 122Stat. 1664, 1882; Pub. L. 113–79, title IV, §§4027(a), 4030(m), Feb. 7, 2014, 128 Stat. 812, 814.)
 
 #### Codification
 

@@ -32,7 +32,7 @@ The Administrator, in cooperation with the States, including water pollution con
 
 &emsp;&emsp;(B) an estimate of the cost of construction necessary to bring such facilities into compliance with such requirements;
 
-&emsp;&emsp;(C) an assessment of the availability of sources of funds for financing such needed construction, including an estimate of the amount of funds available for providing assistance for such construction through September 30, 1999, from the water pollutioncontrol revolving funds established by the States under subchapter VI of this chapter;
+&emsp;&emsp;(C) an assessment of the availability of sources of funds for financing such needed construction, including an estimate of the amount of funds available for providing assistance for such construction through September 30, 1999, from the water pollution control revolving funds established by the States under subchapter VI of this chapter;
 
 &emsp;&emsp;(D) an assessment of the operations, loan portfolio, and loan conditions of such revolving funds;
 
@@ -92,7 +92,7 @@ Pub. L. 100–4, title V, §525, Feb. 4, 1987, 101 Stat. 89, directed Administra
 
 #### Detailed Estimates, Comprehensive Study, and Comprehensive Analysis; Report to Congress not Later Than December 31, 1982
 
-Pub. L. 97–117, §25, Dec. 29, 1981, 95 Stat. 1633, provided that the Administrator of the Environmental Protection Agency submit to the Congress, not later than December 31, 1982, a report containing the detailed estimates, comprehensive study, and comprehensive analysis required by section 1375(b) of this title, including an estimate of the total cost and the amount of Federal funds necessary for the construction of needed publicly owned treatment facilities, such report to reflect the changes made in the Federal water pollution control program by Pub. L. 97–117 \[see Short Title of 1981 Amendment note set out under section 1251 of this title\]. The Administrator was to give emphasis to the effects of the amendment made by section 2(a) of Pub. L. 97–117 \[amending section 1281(g)(1) of this title\] inaddressing water quality needs adequately and appropriately.
+Pub. L. 97–117, §25, Dec. 29, 1981, 95 Stat. 1633, provided that the Administrator of the Environmental Protection Agency submit to the Congress, not later than December 31, 1982, a report containing the detailed estimates, comprehensive study, and comprehensive analysis required by section 1375(b) of this title, including an estimate of the total cost and the amount of Federal funds necessary for the construction of needed publicly owned treatment facilities, such report to reflect the changes made in the Federal water pollution control program by Pub. L. 97–117 \[see Short Title of 1981 Amendment note set out under section 1251 of this title\]. The Administrator was to give emphasis to the effects of the amendment made by section 2(a) of Pub. L. 97–117 \[amending section 1281(g)(1) of this title\] in addressing water quality needs adequately and appropriately.
 
 #### Study and Report to Congress by Secretary of the Interior of Financing Water Pollution Prevention, Control, and Abatement Programs
 

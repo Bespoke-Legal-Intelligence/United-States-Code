@@ -28,7 +28,7 @@
 
 &emsp;(11) The construction, outfitting, and repair of military equipment.
 
-&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities and the acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
+&emsp;(12) The construction, maintenance, and repair of buildings, structures, and utilities andthe acquisition of real property and interests in real property necessary to carry out the responsibilities specified in this section.
 
 (c) Subject to the authority, direction, and control of the Secretary of Defense, the Secretary of the Army is also responsible to the Secretary of Defense for—
 

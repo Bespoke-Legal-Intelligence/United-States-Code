@@ -18,7 +18,7 @@
 
 The Secretary shall include in a request for funds under subsection (a) the following:
 
-&emsp;(1) In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons or modified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
+&emsp;(1) In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons ormodified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
 
 &emsp;(2) In the case of funds for activities described in subparagraph (B) or (D) of subsection (a)(2), a dedicated line item for each such activity for a new nuclear weapon or modified nuclear weapon that is in phase 3 or higher or phase 6.3 or higher (as the case may be) of the nuclear weapons acquisition process.
 
@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;(B) in production as of that date.
 
-(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707; Pub. L. 113–66, div. C, title XXXI, §3146(c)(5), Dec. 26, 2013, 127 Stat. 1074.)
+(Pub. L. 107–314, div. D, title XLII, §4209, formerly div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733; renumbered div. D, title XLII, §4209, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3115, Oct. 28, 2009, 123 Stat. 2707; Pub. L. 113–66, div. C, title XXXI, §3146(c)(5), Dec. 26, 2013, 127 Stat. 1074.)
 
 #### Codification
 

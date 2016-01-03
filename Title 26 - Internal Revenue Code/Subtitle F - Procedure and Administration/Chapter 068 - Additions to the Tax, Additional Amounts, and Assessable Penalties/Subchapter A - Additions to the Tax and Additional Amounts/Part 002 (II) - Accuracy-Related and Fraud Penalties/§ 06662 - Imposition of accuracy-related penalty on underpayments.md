@@ -18,9 +18,11 @@ This section shall apply to the portion of any underpayment which is attributabl
 
 &emsp;(5) Any substantial estate or gift tax valuation understatement.
 
-&emsp;(6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(o)) or failing to meet the requirements of any similar rule of law.
+&emsp;(6) Any disallowance of claimed tax benefits by reason of a transaction lacking economicsubstance (within the meaning of section 7701(o)) or failing to meet the requirements of any similar rule of law.
 
 &emsp;(7) Any undisclosed foreign financial asset understatement.
+
+&emsp;(8) Any inconsistent estate basis.
 
 > This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
@@ -110,7 +112,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (2) Limitation
 
-&emsp;No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation misstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).
+&emsp;No penalty shall be imposed by reason of subsection (b)(3) unless the portion of theunderpayment for the taxable year attributable to substantial valuation misstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).
 
 #### (3) Net section 482 transfer price adjustment
 
@@ -222,13 +224,17 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (2) Nondisclosed noneconomic substance transactions
 
-&emsp;For purposes of this subsection, the term "nondisclosed noneconomic substance transaction" means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in thereturn nor in a statement attached to the return.
+&emsp;For purposes of this subsection, the term "nondisclosed noneconomic substance transaction" means any portion of a transaction described in subsection (b)(6) with respect to which the relevant facts affecting the tax treatment are not adequately disclosed in the return nor in a statement attached to the return.
 
 #### (3) Special rule for amended returns
 
 &emsp;In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028.)
+#### (k) Inconsistent estate basis reporting
+
+For purposes of this section, there is an "inconsistent estate basis" if the basis of property claimed on a return exceeds the basis as determined under section 1014(f).
+
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388-455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456.)
 
 #### References in Text
 
@@ -242,9 +248,13 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 #### Prior Provisions
 
-A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
+A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III,§323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(8). Pub. L. 114–41, §2004(c)(1), added par. (8).
+
+Subsec. (k). Pub. L. 114–41, §2004(c)(2), added subsec. (k).
 
 <b>2014</b>—Subsec. (b)(7). Pub. L. 113–295, §208(a), amended directory language of Pub. L. 111–147, §512(a)(1). See 2010 Amendment note below.
 
@@ -302,7 +312,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 103–465, §744(a), added cl. (ii). Former cl. (
 
 Subsec. (d)(2)(C)(iii). Pub. L. 103–465, §744(a), (b)(2), redesignated cl. (ii) as (iii) and substituted "this subparagraph" for "clause (i)" in introductory provisions.
 
-<b>1993</b>—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any item with respect to which the relevant facts affecting the item's tax treatment areadequately disclosed in the return or in a statement attached to the return."
+<b>1993</b>—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return."
 
 Subsec. (e)(1)(B)(ii). Pub. L. 103–66, §13236(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the net section 482 transfer price adjustment for the taxable year exceeds $10,000,000."
 
@@ -329,6 +339,10 @@ In general.—For purposes of this section, there is a substantial valuation ove
 Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542))."
 
 Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting '400 percent' for '200 percent',".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under section 1014 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -396,7 +410,7 @@ Pub. L. 103–465, title VII, §744(c), Dec. 8, 1994, 108 Stat. 5011, provided t
 
 Pub. L. 103–66, title XIII, §13236(e), Aug. 10, 1993, 107 Stat. 506, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993."
 
-Pub. L. 103–66, title XIII, §13251(b), Aug. 10, 1993, 107 Stat. 531, provided that: "The amendment made by thissection \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993."
+Pub. L. 103–66, title XIII, §13251(b), Aug. 10, 1993, 107 Stat. 531, provided that: "The amendment made by this section \[amending this section\] shall apply to returns the due dates for which (determined without regard to extensions) are after December 31, 1993."
 
 #### Effective Date of 1990 Amendment
 

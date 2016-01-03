@@ -6,7 +6,7 @@ The corporation may make such investigations as it deems necessary to enforce an
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
-For the purpose of any such investigation, or any other proceeding under this subchapter, the Director, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
+For the purpose of any such investigation, or any other proceeding under this subchapter, theDirector, any member of the board of directors of the corporation, or any officer designated by the Director or chairman, may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, or other records which the corporation deems relevant or material to the inquiry.
 
 #### (c) Contempt
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 99–272, §11014(b)(1), amended subsec. (f) generally. Pri
 
 Subsec. (e)(1). Pub. L. 96–364, §402(a)(2)(B), substituted "enforce" for "redress violations of".
 
-Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted "Except as provided in section 1451(a)(2) of the title, any" for "Any" and inserted provisions relating to removal of actions.
+Subsec. (f). Pub. L. 96–364, §§402(a)(2)(C), 403(k), substituted "Except as provided in section 1451(a)(2) of thetitle, any" for "Any" and inserted provisions relating to removal of actions.
 
 #### Effective Date of 2014 Amendment
 

@@ -6,7 +6,7 @@ Not later than 120 days after October 24, 1992, each Inspector General created t
 
 &emsp;(1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) and any other matters relevant to implementing the goals of such Act; and
 
-&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assess the accuracy and reliability of energy consumption and energy cost figures required under such section.
+&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assessthe accuracy and reliability of energy consumption and energy cost figures required under such section.
 
 #### (b) President's Council on Integrity and Efficiency report to Congress
 

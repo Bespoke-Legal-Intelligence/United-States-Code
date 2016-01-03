@@ -1,6 +1,6 @@
 ### §4918. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter (other than for research and development) $15,000,000 for the fiscal year ending September 30, 1979.
+There are authorized to be appropriated to carry out this chapter (other than for researchand development) $15,000,000 for the fiscal year ending September 30, 1979.
 
 (Pub. L. 92–574, §19, Oct. 27, 1972, 86 Stat. 1250; Pub. L. 94–301, §2, May 31, 1976, 90 Stat. 590; Pub. L. 95–609, §6, Nov. 8, 1978, 92 Stat. 3081.)
 

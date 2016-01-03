@@ -2,7 +2,7 @@
 
 Whoever instigates, connives, willfully attempts to cause, assists, or conspires to cause any mutiny or riot, at any Federal penal, detention, or correctional facility, shall be imprisoned not more than ten years or fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(b), Oct. 12, 1984, 98 Stat. 2148; Pub. L. 99–646, §53(a), Nov. 10, 1986, 100 Stat. 3607; Pub. L. 103–322, title XXXIII, §330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(b), Oct. 12, 1984, 98 Stat. 2148; Pub.L. 99–646, §53(a), Nov. 10, 1986, 100 Stat. 3607; Pub. L. 103–322, title XXXIII, §330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)
 
 #### Historical and Revision Notes
 

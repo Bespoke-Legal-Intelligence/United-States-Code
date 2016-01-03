@@ -84,11 +84,11 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (B) Deduction for certain offsets
 
-&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceedthe amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
+&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceed the amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
 
 #### (C) Earnings and profits
 
-&emsp;&emsp;For purposes of subchapter C, the accumulated earnings and profits at any time shall not be less than they would be if this subsection had applied to the computation of earnings and profits for all taxable years beginning after July 18, 1984.
+&emsp;&emsp;For purposes of subchapter C, the accumulated earnings and profits at any time shallnot be less than they would be if this subsection had applied to the computation of earnings and profits for all taxable years beginning after July 18, 1984.
 
 #### (9) Special rule for capital gains and losses of foreign corporations
 
@@ -242,7 +242,7 @@ Amendment by section 1901(a)(74), (b)(20)(A), (32)(C), (33)(D) of Pub. L. 94–4
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–12, title III, §305(c), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974."
+Pub. L. 94–12, title III, §305(c), Mar. 29, 1975, 89 Stat. 45, provided that: "The amendments made by section 304 \[amending this section and sections 243, 1551, and 1561 of this title\] apply to taxable years beginning after December 31, 1974."
 
 #### Effective Date of 1969 Amendment
 

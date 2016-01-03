@@ -6,7 +6,7 @@ In this subchapter, except as specified otherwise:
 
 #### (A) In general
 
-&emsp;&emsp;The term "breach" means the unauthorized acquisition, access, use, or disclosure of protected health information which compromises the security or privacy of such information, except where an unauthorized person to whom such information is disclosed would not reasonably have been able to retain such information.
+&emsp;&emsp;The term "breach" means the unauthorized acquisition, access, use, or disclosure ofprotected health information which compromises the security or privacy of such information, except where an unauthorized person to whom such information is disclosed would not reasonably have been able to retain such information.
 
 #### (B) Exceptions
 

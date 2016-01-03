@@ -22,7 +22,7 @@ The service projects carried out by the National Civilian Community Corps shallâ
 
 #### (B) Other sources
 
-&emsp;&emsp;Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corpscampus. Corps members shall also be encouraged to identify projects for the Corps.
+&emsp;&emsp;Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corps campus. Corps members shall also be encouraged to identify projects for the Corps.
 
 #### (2) Consultation requirements
 

@@ -2,7 +2,7 @@
 
 #### (a) Orderly marketing
 
-In implementing the tariff-rate quotas set out in Schedule XX for the entry, or withdrawal from warehouse, for consumption of goods in the United States, the President shall take such action as may be necessary to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
+In implementing the tariff-rate quotas set out in Schedule XX for the entry, or withdrawalfrom warehouse, for consumption of goods in the United States, the President shall take such action as may be necessary to ensure that imports of agricultural products do not disrupt the orderly marketing of commodities in the United States.
 
 #### (b) Inadequate supply
 
@@ -24,7 +24,7 @@ The Secretary of Agriculture shall monitor the domestic supply of agricultural p
 
 &emsp;&emsp;(C) is a commercial sample or is entered for exhibition, display, or sampling at a trade fair or for research; or
 
-&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38, 2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origingreater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
+&emsp;&emsp;(D) is a blended syrup provided for in subheadings 1702.20.28, 1702.30.28, 1702.40.28, 1702.60.28, 1702.90.58, 1806.20.92, 1806.20.93, 1806.90.38, 1806.90.40, 2101.10.38, 2101.20.38, 2106.90.38, or 2106.90.67 of Schedule XX, if entered from a foreign trade zone by a foreign trade zone user whose facilities were in operation on June 1, 1990, to the extent that the annual quantity entered into the customs territory from such zone does not contain a quantity of sugar of nondomestic origin greater than the quantity authorized by the Foreign Trade Zones Board for processing in that zone during calendar year 1985.
 
 #### (2) Reclassification
 
@@ -78,7 +78,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (2) All provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of October, in the year of ourLord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
+IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of October, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

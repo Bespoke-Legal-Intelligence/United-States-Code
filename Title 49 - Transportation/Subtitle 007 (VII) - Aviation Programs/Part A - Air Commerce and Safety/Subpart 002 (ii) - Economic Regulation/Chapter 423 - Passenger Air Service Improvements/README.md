@@ -10,7 +10,7 @@
 
 #### Establishment of Advisory Committee for Aviation Consumer Protection
 
-Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, provided that:
+Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523, provided that:
 
 "(a)
 
@@ -58,7 +58,7 @@ Report to Congress.—Not later than February 1 of each of the first 2 calendar 
 
 "(h)
 
-Termination.—The advisory committee established under this section shall terminate on September 30, 2015."
+Termination.—The advisory committee established under this section shall terminate on March 31, 2016."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft
 

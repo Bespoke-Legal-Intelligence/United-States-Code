@@ -6,15 +6,17 @@ Performance of Certain Acquisition-related Functions.—The Secretary of Defense
 
 &emsp;(1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to section 181 of this title).
 
-&emsp;(2) The coordination of measures to control requirements creep in the defense acquisition system.
+&emsp;(2) Decisions regarding the balancing of resources and priorities, and associated trade-offs among cost, schedule, technical feasibility, and performance on major defense acquisition programs.
 
-&emsp;(3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver bestvalue in meeting the approved military requirements.
+&emsp;(3) The coordination of measures to control requirements creep in the defense acquisition system.
 
-&emsp;(4) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+&emsp;(4) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
 
-&emsp;(5) The development of career paths in acquisition for military personnel (as required by section 1722a of this title).
+&emsp;(5) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
 
-&emsp;(6) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+&emsp;(6) The development and management of career paths in acquisition for military personnel (as required by section 1722a of this title).
+
+&emsp;(7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
 
 (b)
 
@@ -34,13 +36,19 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) identifies production attributes required for a single increment of a program.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4289; amended Pub. L. 112–239, div. A, title IX, §951(c), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(b), Nov. 25, 2015, 129 Stat. 879.)
 
 #### Prior Provisions
 
 A prior section 2547 was renumbered section 2557 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2) to (5). Pub. L. 114–92, §802(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 114–92, §802(b)(1), (3), redesignated par. (5) as (6) and substituted "The development and management" for "The development". Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 114–92, §802(b)(1), redesignated par. (6) as (7).
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §951(c)(1), substituted "of requirements for equipping the armed force concerned" for "of requirements relating to the defense acquisition system".
 

@@ -8,7 +8,7 @@ For the purpose of preventing the excessive use of credit for the purchase or ca
 
 &emsp;(2) 100 per centum of the lowest market price of the security during the preceding thirty-six calendar months, but not more than 75 per centum of the current market price.
 
-> Such rules and regulations may make appropriate provision with respect to the carrying of undermargined accounts for limited periods and under specified conditions; the withdrawal of funds or securities; the substitution or additional purchases of securities; the transfer of accounts from one lender to another; special or different margin requirements for delayed deliveries, short sales, arbitrage transactions, and securities to which paragraph (2) of this subsection does not apply; the bases and the methods to be used in calculating loans, and margins and market prices; and similar administrative adjustments and details. For the purposes of paragraph (2) of this subsection, until July 1, 1936, the lowest price at which a security has sold on or after July 1, 1933, shall be considered as the lowest price at which such security has sold during the preceding thirty-six calendar months.
+> Such rules and regulations may make appropriate provision with respect to the carrying of undermargined accounts for limited periods andunder specified conditions; the withdrawal of funds or securities; the substitution or additional purchases of securities; the transfer of accounts from one lender to another; special or different margin requirements for delayed deliveries, short sales, arbitrage transactions, and securities to which paragraph (2) of this subsection does not apply; the bases and the methods to be used in calculating loans, and margins and market prices; and similar administrative adjustments and details. For the purposes of paragraph (2) of this subsection, until July 1, 1936, the lowest price at which a security has sold on or after July 1, 1933, shall be considered as the lowest price at which such security has sold during the preceding thirty-six calendar months.
 
 #### (b) Lower and higher margin requirements
 
@@ -20,7 +20,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 &emsp;It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
-&emsp;&emsp;(A) on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") shall prescribe under subsections (a) and (b) of this section; or
+&emsp;&emsp;(A) on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") shall prescribe under subsections (a) and (b); or
 
 &emsp;&emsp;(B) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board may prescribe—
 
@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (3) Exception
 
-&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
+&emsp;This subsection and the rules and regulations issued under this subsection shall notapply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
 
 &emsp;&emsp;(A) a substantial portion of whose business consists of transactions with persons other than brokers or dealers; or
 
@@ -72,7 +72,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (1) Prohibition
 
-&emsp;It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder.
+&emsp;It shall be unlawful for any person not subject to subsection (c) to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) and the rules and regulations thereunder.
 
 #### (2) Exceptions
 
@@ -138,7 +138,7 @@ Subsec. (d). Pub. L. 105–353, §301(b)(6), substituted "exceptions" for "excep
 
 &emsp;"(1) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System shall prescribe under subsections (a) and (b) of this section;
 
-&emsp;"(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain acredit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection."
+&emsp;"(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection."
 
 Subsec. (d). Pub. L. 104–290, §104(a)(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board of Governors of the Federal Reserve System shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder. This subsection and the rules and regulations thereunder shall not apply (A) to a loan made by a person not in the ordinary course of his business, (B) to a loan on an exempted security, (C) to a loan to a dealer to aid in the financing of the distribution of securities to customers not through the medium of a national securities exchange, (D) to a loan by a bank on a security other than an equity security, or (E) to such other loans as the Board of Governors of the Federal Reserve System shall, by such rules and regulations as it may deem necessary or appropriate in the public interest or for the protection of investors, exempt, either unconditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection and the rules and regulations thereunder."
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) of Pub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
 
-Pub. L. 91–508, title IV, §401(c), Oct. 26, 1970, 84 Stat. 1125, provided that: "The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\]."
+Pub. L. 91–508, title IV, §401(c), Oct. 26, 1970, 84 Stat. 1125, provided that: "The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenthcalendar month which begins after the date of enactment \[Oct. 26, 1970\]."
 
 #### Validity of Rules and Regulations
 

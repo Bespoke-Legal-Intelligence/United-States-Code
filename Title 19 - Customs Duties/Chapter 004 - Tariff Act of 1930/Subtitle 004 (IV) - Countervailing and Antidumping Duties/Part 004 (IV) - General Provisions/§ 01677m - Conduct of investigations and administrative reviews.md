@@ -2,15 +2,29 @@
 
 #### (a) Treatment of voluntary responses in countervailing or antidumping duty investigations and reviews
 
-In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
+#### (1) In general
 
-&emsp;(1) such information is so submitted by the date specified—
+&emsp;In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
 
-&emsp;&emsp;(A) for exporters and producers that were initially selected for examination, or
+&emsp;&emsp;(A) such information is so submitted by the date specified—
 
-&emsp;&emsp;(B) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+&emsp;&emsp;&emsp;(i) for exporters and producers that were initially selected for examination, or
 
-&emsp;(2) the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.
+&emsp;&emsp;&emsp;(ii) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+
+&emsp;&emsp;(B) the number of exporters or producers subject to the investigation or review is notso large that any additional individual examination of such exporters or producers would be unduly burdensome to the administering authority and inhibit the timely completion of the investigation or review.
+
+#### (2) Determination of unduly burdensome
+
+&emsp;In determining if an individual examination under paragraph (1)(B) would be unduly burdensome, the administering authority may consider the following:
+
+&emsp;&emsp;(A) The complexity of the issues or information presented in the proceeding, including questionnaires and any responses thereto.
+
+&emsp;&emsp;(B) Any prior experience of the administering authority in the same or similar proceeding.
+
+&emsp;&emsp;(C) The total number of investigations under part I or II and reviews under section 1675 of this title being conducted by the administering authority as of the date of the determination.
+
+&emsp;&emsp;(D) Such other factors relating to the timely completion of each such investigation and review as the administering authority considers appropriate.
 
 #### (b) Certification of submissions
 
@@ -34,7 +48,7 @@ If the administering authority or the Commission determines that a response to a
 
 &emsp;(2) such response is not submitted within the applicable time limits,
 
-> then the administering authority or the Commission (as the case may be) may, subject to subsection (e) of this section, disregard all or part of the original and subsequent responses.
+> then the administering authority or the Commission (as the case may be) may, subject to subsection (e), disregard all or part of the original and subsequent responses.
 
 #### (e) Use of certain information
 
@@ -56,7 +70,7 @@ If the administering authority or the Commission declines to accept into the rec
 
 #### (g) Public comment on information
 
-Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceeding under this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously had an opportunity to comment. Comments containing new factual information shall be disregarded.
+Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceeding under this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously hadan opportunity to comment. Comments containing new factual information shall be disregarded.
 
 #### (h) Termination of investigation or revocation of order for lack of interest
 
@@ -80,7 +94,11 @@ The administering authority shall verify all information relied upon in making�
 
 &emsp;&emsp;(B) no verification was made under this subparagraph during the 2 immediately preceding reviews and determinations under section 1675(a) of this title of the same order, finding, or notice, except that this clause shall not apply if good cause for verification is shown.
 
-(June 17, 1930, ch. 497, title VII, §782, as added Pub. L. 103–465, title II, §231(a), Dec. 8, 1994, 108 Stat. 4893.)
+(June 17, 1930, ch. 497, title VII, §782, as added Pub. L. 103–465, title II, §231(a), Dec. 8, 1994, 108 Stat. 4893; amended Pub. L. 114–27, title V, §506, June 29, 2015, 129 Stat. 386.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–27 designated existing provisions as par. (1) and inserted heading, redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively, added par. (2), and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: "the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation."
 
 #### Effective Date
 

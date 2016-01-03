@@ -40,7 +40,7 @@
 
 &emsp;(4) any complaint or appeal where a specific statutory hearing procedure exists, except as provided in section 4139(a)(2) of this title.
 
-> Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.
+> Nothing in this subsection shall exclude any act, omission, or condition alleged to violate anylaw, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.
 
 (c) This subchapter applies only with respect to the Department of State, Broadcasting <sup>1</sup> Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 

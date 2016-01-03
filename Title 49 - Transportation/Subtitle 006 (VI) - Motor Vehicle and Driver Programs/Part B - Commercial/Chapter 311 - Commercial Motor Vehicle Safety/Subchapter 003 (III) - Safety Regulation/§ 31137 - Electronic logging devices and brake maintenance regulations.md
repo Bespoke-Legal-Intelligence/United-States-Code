@@ -28,7 +28,7 @@ In general.—The regulations prescribed under subsection (a) shall—
 
 &emsp;&emsp;(B) allow law enforcement to access the data contained in the device during a roadside inspection; and
 
-&emsp;&emsp;(C) apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
+&emsp;&emsp;(C) except as provided in paragraph (3), apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
 
 &emsp;(2)
 
@@ -48,9 +48,17 @@ Performance and design standards.—The regulations prescribed under subsection 
 
 &emsp;&emsp;&emsp;(v) data transfer and transportability for law enforcement officials;
 
-&emsp;&emsp;(C) establishing a standard security level for an electronic logging device and related components to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
+&emsp;&emsp;(C) establishing a standard security level for an electronic logging device and relatedcomponents to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
 
 &emsp;&emsp;(D) identifying each driver subject to the hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.
+
+&emsp;(3)
+
+Exception.—A motor carrier, when transporting a motor home or recreation vehicle trailer within the definition of the term "driveaway-towaway operation" (as defined in section 390.5 of title 49, Code of Federal Regulations), may comply with the hours of service requirements by requiring each driver to use—
+
+&emsp;&emsp;(A) a paper record of duty status form; or
+
+&emsp;&emsp;(B) an electronic logging device.
 
 (c)
 
@@ -106,13 +114,13 @@ Electronic logging device.—The term "electronic logging device" means an elect
 
 &emsp;(2)
 
-Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and locationfor changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
+Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
 
 (g)
 
 Brakes and Brake Systems Maintenance Regulations.—The Secretary shall maintain regulations on improved standards or methods to ensure that brakes and brake systems of commercial motor vehicles are maintained properly and inspected by appropriate employees. At a minimum, the regulations shall establish minimum training requirements and qualifications for employees responsible for maintaining and inspecting the brakes and brake systems.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1004; Pub. L. 112–141, div. C, title II, §§32301(b), 32931(a), July 6, 2012, 126 Stat. 786, 829.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1004; Pub. L. 112–141, div. C, title II, §§32301(b), 32931(a), July 6, 2012, 126 Stat. 786, 829; Pub. L. 114–94, div. A, title V, §§5507, 5508(b)(2), Dec. 4, 2015, 129 Stat. 1553, 1554.)
 
 Historical and Revision Notes
 
@@ -144,13 +152,25 @@ The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–94, §5508(b)(2), amended directory language of Pub. L. 112–141, §32301(b)(3). See 2012 Amendment note for subsecs. (a) to (f) below.
+
+Subsec. (b)(1)(C). Pub. L. 114–94, §5507(1), substituted "except as provided in paragraph (3), apply to" for "apply to".
+
+Subsec. (b)(3). Pub. L. 114–94, §5507(2), added par. (3).
+
 <b>2012</b>—Pub. L. 112–141, §32301(b)(1), substituted "Electronic logging devices and brake maintenance regulations" for "Monitoring device and brake maintenance regulations" in section catchline.
 
-Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), which directed that subsec. (a) be generally amended by substituting new subsecs. (a) to (f), was executed by generally amending subsec. (a) and adding subsecs. (b) to (f) to reflect the probable intent of Congress. Prior to amendment, text of subsec. (a) read as follows: "If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators." Former subsec. (b) redesignated (g).
+Subsecs. (a) to (f). Pub. L. 112–141, §32301(b)(3), as amended by Pub. L. 114–94, §5508(b)(2), added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of theSecretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators." Former subsec. (b) redesignated (g).
 
 Subsec. (g). Pub. L. 112–141, §32931(a), which directed substitution of "The Secretary shall maintain" for "Not later than December 1, 1990, the Secretary shall prescribe", was executed by making the substitution for "Not later than December 31, 1990, the Secretary shall prescribe", to reflect the probable intent of Congress.
 
 Pub. L. 112–141, §32301(b)(2), redesignated subsec. (b) as (g).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by section 5507 of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title V, §5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(2) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 

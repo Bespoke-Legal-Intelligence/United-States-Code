@@ -52,7 +52,7 @@ Repayment.—An officer who, having entered into a written agreement under subse
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term "special warfare service" for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title VI, §626(a)(1), Oct. 5, 1999, 113 Stat. 655; amended Pub. L. 107–107, div. A, title X, §1048(i)(7), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 109–163, div. A, title VI, §687(b)(27), Jan. 6, 2006, 119 Stat. 3331.)
+(Added Pub. L. 106–65, div. A, title VI, §626(a)(1), Oct. 5, 1999, 113 Stat. 655; amended Pub. L. 107–107, div. A, title X, §1048(i)(7), Dec. 28, 2001,115 Stat. 1229; Pub. L. 109–163, div. A, title VI, §687(b)(27), Jan. 6, 2006, 119 Stat. 3331.)
 
 #### Amendments
 

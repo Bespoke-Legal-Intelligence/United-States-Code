@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) The name of the covered recipient.
 
-&emsp;&emsp;&emsp;(ii) The business address of the covered recipient and, in the case of a covered recipient who is a physician, the specialtyand National Provider Identifier of the covered recipient.
+&emsp;&emsp;&emsp;(ii) The business address of the covered recipient and, in the case of a covered recipient who is a physician, the specialty and National Provider Identifier of the covered recipient.
 
 &emsp;&emsp;&emsp;(iii) The amount of the payment or other transfer of value.
 
@@ -64,7 +64,7 @@
 
 #### (B) Special rule for certain payments or other transfers of value
 
-&emsp;&emsp;In the case where an applicable manufacturer provides a payment or other transfer of value to an entity or individual at the request of or designated on behalf of a covered recipient, the applicable manufacturer shall disclose that payment or other transfer of value under the name of the covered recipient.
+&emsp;&emsp;In the case where an applicable manufacturer provides a payment or other transferof value to an entity or individual at the request of or designated on behalf of a covered recipient, the applicable manufacturer shall disclose that payment or other transfer of value under the name of the covered recipient.
 
 #### (2) Physician ownership
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any applicable manufacturer or applicable group purchasing organization that knowingly fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subjectto a civil money penalty of not less than $10,000, but not more than $100,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Subject to subparagraph (B), any applicable manufacturer or applicable group purchasing organization that knowingly fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $10,000, but not more than $100,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Limitation
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) is searchable and is in a format that is clear and understandable;
 
-&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
+&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasingorganization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
 
 &emsp;&emsp;&emsp;(iii) contains information that is able to be easily aggregated and downloaded;
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of information submitted under subsection (a) with respect to a payment or other transfer of value made to a covered recipient by an applicable manufacturer pursuant to a product research or development agreement for services furnished in connection with research on a potential new medical technology or a new application of an existing medical technology or the development of a new drug, device, biological, or medical supply, or by an applicable manufacturer in connection with a clinical investigation regarding a new drug, device, biological, or medical supply, the procedures established under subparagraph (A)(ii) shall provide that such information is made available to the public on the first date described in thematter preceding clause (i) in subparagraph (C) after the earlier of the following:
+&emsp;&emsp;&emsp;In the case of information submitted under subsection (a) with respect to a payment or other transfer of value made to a covered recipient by an applicable manufacturer pursuant to a product research or development agreement for services furnished in connection with research on a potential new medical technology or a new application of an existing medical technology or the development of a new drug, device, biological, or medical supply, or by an applicable manufacturer in connection with a clinical investigation regarding a new drug, device, biological, or medical supply, the procedures established under subparagraph (A)(ii) shall provide that such information is made available to the public on the first date described in the matter preceding clause (i) in subparagraph (C) after the earlier of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The date of the approval or clearance of the covered drug, device, biological, or medical supply by the Food and Drug Administration.
 

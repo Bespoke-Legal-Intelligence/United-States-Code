@@ -54,7 +54,7 @@ For purposes <sup>1</sup> this section and section 179B(b), in the calculation 
 
 #### (1) Required
 
-&emsp;No credit shall be allowed unless, not later than the date which is 30 months after the first day of the first taxable year in which the low sulfur diesel fuel production credit is determined with respect to a facility, the small business refiner obtains certification from the Secretary, after consultation with the Administrator of the Environmental Protection Agency, that the taxpayer's qualified costs with respect to such facility will result in compliance with the applicable EPA regulations.
+&emsp;No credit shall be allowed unless, not later than the date which is 30 months after thefirst day of the first taxable year in which the low sulfur diesel fuel production credit is determined with respect to a facility, the small business refiner obtains certification from the Secretary, after consultation with the Administrator of the Environmental Protection Agency, that the taxpayer's qualified costs with respect to such facility will result in compliance with the applicable EPA regulations.
 
 #### (2) Contents of application
 

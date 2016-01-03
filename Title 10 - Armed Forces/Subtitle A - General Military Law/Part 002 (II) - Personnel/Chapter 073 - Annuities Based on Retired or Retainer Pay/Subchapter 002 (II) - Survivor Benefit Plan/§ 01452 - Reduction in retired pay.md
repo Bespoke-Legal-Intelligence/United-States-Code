@@ -18,7 +18,7 @@ Disability and nonregular service retirees.—In the case of a person who is ent
 
 &emsp;&emsp;&emsp;(ii)
 
-Members as of enactment of flat-rate reduction.—In the case of a person who first became a member of a uniformed service before March 1, 1990, the reductionshall be in whichever of the alternative reduction amounts is more favorable to that person.
+Members as of enactment of flat-rate reduction.—In the case of a person who first became a member of a uniformed service before March 1, 1990, the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -184,7 +184,7 @@ Conditions.—Notwithstanding any other provision of this subchapter but subject
 
 &emsp;&emsp;(B)
 
-Effective date.—Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation inthe Plan, such person may discontinue making such deposits effective on such date.
+Effective date.—Participation in the Plan of a person who submits a requestunder subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person's retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
 
 &emsp;&emsp;(C)
 
@@ -258,13 +258,13 @@ Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the ret
 
 Coverage Paid Up at 30
 
-Years and Age 70.—Effective October 1, 2008, no reduction may be made under this section in the retired pay of a participant in the Plan for any month after the later of—
+Years and Age 70.—Effective October 1, 2008, no reduction may be made under this section in the retired pay ofa participant in the Plan for any month after the later of—
 
 &emsp;(1) the 360th month for which the participant's retired pay is reduced under this section; and
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct.9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
 
 #### References in Text
 
@@ -336,7 +336,7 @@ Subsec. (b). Pub. L. 99–145, §723(b)(2)(2), inserted "or former spouse" after
 
 Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay".
 
-Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted "retired pay" for "retired or retainer pay" in three places, and substituted "a standard annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title" in cl. (1), "a reserve-component annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title" in cl. (2), and "this subsection" for "this section" in third sentence.
+Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted "retired pay" for "retired or retainer pay" in threeplaces, and substituted "a standard annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title" in cl. (1), "a reserve-component annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title" in cl. (2), and "this subsection" for "this section" in third sentence.
 
 Subsecs. (d) to (h). Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay" wherever appearing.
 

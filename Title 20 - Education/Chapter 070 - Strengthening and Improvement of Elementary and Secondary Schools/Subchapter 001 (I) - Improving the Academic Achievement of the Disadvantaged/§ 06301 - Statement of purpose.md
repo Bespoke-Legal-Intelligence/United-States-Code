@@ -1,32 +1,8 @@
 ### §6301. Statement of purpose
 
-The purpose of this subchapter is to ensure that all children have a fair, equal, and significant opportunity to obtain a high-quality education and reach, at a minimum, proficiency on challenging State academic achievement standards and state <sup>1</sup> academic assessments. This purpose can be accomplished by—
+The purpose of this subchapter is to provide all children significant opportunity to receive a fair, equitable, and high-quality education, and to close educational achievement gaps.
 
-&emsp;(1) ensuring that high-quality academic assessments, accountability systems, teacher preparation and training, curriculum, and instructional materials are aligned with challenging State academic standards so that students, teachers, parents, and administrators can measure progress against common expectations for student academic achievement;
-
-&emsp;(2) meeting the educational needs of low-achieving children in our Nation's highest-poverty schools, limited English proficient children, migratory children, children with disabilities, Indian children, neglected or delinquent children, and young children in need of reading assistance;
-
-&emsp;(3) closing the achievement gap between high- and low-performing children, especially the achievement gaps between minority and nonminority students, and between disadvantaged children and their more advantaged peers;
-
-&emsp;(4) holding schools, local educational agencies, and States accountable for improving the academic achievement of all students, and identifying and turning around low-performing schools that have failed to provide a high-quality education to their students, while providing alternatives to students in such schools to enable the students to receive a high-quality education;
-
-&emsp;(5) distributing and targeting resources sufficiently to make a difference to local educational agencies and schools where needs are greatest;
-
-&emsp;(6) improving and strengthening accountability, teaching, and learning by using State assessment systems designed to ensure that students are meeting challenging State academic achievement and content standards and increasing achievement overall, but especially for the disadvantaged;
-
-&emsp;(7) providing greater decisionmaking authority and flexibility to schools and teachers in exchange for greater responsibility for student performance;
-
-&emsp;(8) providing children an enriched and accelerated educational program, including the use of schoolwide programs or additional services that increase the amount and quality of instructional time;
-
-&emsp;(9) promoting schoolwide reform and ensuring the access of children to effective, scientifically based instructional strategies and challenging academic content;
-
-&emsp;(10) significantly elevating the quality of instruction by providing staff in participating schools with substantial opportunities for professional development;
-
-&emsp;(11) coordinating services under all parts of this subchapter with each other, with other educational services, and, to the extent feasible, with other agencies providing services to youth, children, and families; and
-
-&emsp;(12) affording parents substantial and meaningful opportunities to participate in the education of their children.
-
-(Pub. L. 89–10, title I, §1001, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439.)
+(Pub. L. 89–10, title I, §1001, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439; amended Pub. L. 114–95, title I, §1001, Dec. 10, 2015, 129 Stat. 1814.)
 
 #### Prior Provisions
 
@@ -35,6 +11,66 @@ A prior section 6301, Pub. L. 89–10, title I, §1001, as added Pub. L. 103–3
 A prior section 1001 of Pub. L. 89–10 was classified to section 2701 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 Another prior section 1001 of Pub. L. 89–10 was renumbered section 9001 and was classified to section 3381 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section set forth purpose of subchapter and included provisions relating to how this purpose could be accomplished.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–95, §5, Dec. 10, 2015, 129 Stat. 1806, provided that:
+
+"(a)
+
+In General.—Except as otherwise provided in this Act \[see Tables for classification\], or an amendment made by this Act, this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act \[Dec. 10, 2015\].
+
+"(b)
+
+Noncompetitive Programs.—With respect to noncompetitive programs under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq) and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.) under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, the amendments made by this Act shall be effective beginning on July 1, 2016, except as otherwise provided in such amendments.
+
+"(c)
+
+Competitive Programs.—With respect to programs that are conducted by the Secretary of Education on a competitive basis (and are not programs described in subsection (b)) under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the amendments made by this Act with respect to appropriations for use under such programs shall be effective beginning on October 1, 2016, except as otherwise provided in such amendments.
+
+"(d)
+
+Impact Aid.—With respect to title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], as amended by this Act, the amendments made by this Act shall take effect with respect to appropriations for use under such title beginning fiscal year 2017, except as otherwise provided in such amendments.
+
+"(e)
+
+Title I of the Elementary and Secondary Education Act of 1965.—
+
+&emsp;"(1)
+
+Effective dates for section 1111 of the elementary and secondary education act of 1965.—Notwithstanding any other provision of this Act, or the amendments made by this Act, and subject to paragraph (2) of this subsection—
+
+&emsp;&emsp;"(A) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as in effect on the day before the date of enactment of this Act, shall be effective through the close of August 1, 2016;
+
+&emsp;&emsp;"(B) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311), as amended by this Act, shall take effect beginning with school year 2017–2018; and
+
+&emsp;&emsp;"(C) section 1111(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)), as amended by this Act, and any other provision of section 1111 of such Act (20 U.S.C. 6311), as amended by this Act, which is not described in subparagraph (B) of this paragraph, shall take effect in a manner consistent with subsection (a).
+
+&emsp;"(2)
+
+Special rule.—
+
+&emsp;&emsp;"(A)
+
+In general.—Notwithstanding any other provision of this Act (including subsection (b) and paragraph (1)), any school or local educational agency described in subparagraph (B) shall continue to implement interventions applicable to such school or local educational agency under clause (i) or (ii) of subparagraph (B) until—
+
+&emsp;&emsp;&emsp;"(i) the State plan for the State in which the school or agency is located under section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311), as amended by this Act, is approved under such section (20 U.S.C. 6311); or
+
+&emsp;&emsp;&emsp;"(ii) subsections (c) and (d) of section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311), as amended by this Act, take effect in accordance with paragraph (1)(B),
+
+&nbsp;&nbsp;whichever occurs first.
+
+&emsp;&emsp;"(B)
+
+Certain schools and local educational agencies.—A school or local educational agency shall be subject to the requirements of subparagraph (A), if such school or local educational agency has been identified by the State in which the school or local educational agency is located—
+
+&emsp;&emsp;&emsp;"(i) as in need of improvement, corrective action, or restructuring under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.), as in effect on the day before the date of enactment of this Act; or
+
+&emsp;&emsp;&emsp;"(ii) as a priority or focus school under a waiver granted by the Secretary of Education under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7861), as in effect on the day before the date of enactment of this Act."
 
 #### Effective Date
 
@@ -54,7 +90,11 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 "(d)
 
-Impact Aid.—With respect to title VIII (Impact Aid) \[probably means title VIII of Pub. L. 89–10, 20U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–95, §1, Dec. 10, 2015, 129 Stat. 1802, provided that: "This Act \[see Tables for classification\] may be cited as the 'Every Student Succeeds Act'."
 
 #### Short Title of 2013 Amendment
 
@@ -130,7 +170,7 @@ Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121 \[see Tables for classification\],
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: "This Act \[see Tables for classification\] may be cited as the 'Elementary and Secondary Education Amendments of 1967'."
+Pub. L. 90–247, §1, Jan. 2, 1968, 81 Stat. 783, provided that: "This Act \[see Tables for classification\] may becited as the 'Elementary and Secondary Education Amendments of 1967'."
 
 #### Short Title of 1966 Amendment
 
@@ -142,7 +182,7 @@ Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct
 
 Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2 (§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the "Rural Education Achievement Program", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
-Pub. L. 89–10, title X, §10999A, as added by Pub. L. 106–554, §1(a)(1) \[title VII, §701\], Dec. 21, 2000, 114 Stat.2763, 2763A–76, which provided that part L (§§10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the "Physical Education for Progress Act", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
+Pub. L. 89–10, title X, §10999A, as added by Pub. L. 106–554, §1(a)(1) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, which provided that part L (§§10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the "Physical Education for Progress Act", was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Continuation of Awards
 
@@ -167,6 +207,48 @@ Special Rule.—Notwithstanding any other provision of this Act, any person or a
 Pub. L. 107–110, title X, §1052, Jan. 8, 2002, 115 Stat. 2083, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), in the case of a person or entity that was awarded a grant, relating to preparing tomorrow's teachers to use technology, that was made pursuant to section 3122 of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 6832) prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates."
 
 #### Transition Provisions
+
+Pub. L. 114–95, §4, Dec. 10, 2015, 129 Stat. 1805, provided that:
+
+"(a)
+
+Funding Authority.—
+
+&emsp;"(1)
+
+Multi-year awards.—
+
+&emsp;&emsp;"(A)
+
+Programs no longer authorized.—Except as otherwise provided in this Act \[see Tables for classification\] or the amendments made by this Act, the recipient of a multiyear award under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\], under a program that is not authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, and—
+
+&emsp;&emsp;&emsp;"(i) that is not substantively similar to a program authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, shall continue to receive funds in accordance with the terms of such prior award, except that no additional funds for such program may be awarded after September 30, 2016; and
+
+&emsp;&emsp;&emsp;"(ii) that is substantively similar to a program authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as amended by this Act, shall continue to receive funds in accordance with the terms of such prior award.
+
+&emsp;&emsp;"(B)
+
+Authorized programs.—Except as otherwise provided in this Act, or the amendments made by this Act, the recipient of a multiyear award under a program that was authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act, and that is authorized under such Act (20 U.S.C. 6301 et seq.), as amended by this Act, shall continue to receive funds in accordance with the terms of such prior award.
+
+&emsp;"(2)
+
+Planning and transition.—Notwithstanding any other provision of law, a recipient of funds under a program described in paragraph (1)(A)(ii) or (1)(B) may use funds awarded to the recipient under such program, to carry out necessary and reasonable planning and transition activities in order to ensure the recipient's compliance with the amendments to such program made by this Act.
+
+"(b)
+
+Orderly Transition.—Subject to subsection (a)(1)(A)(i), the Secretary shall take such steps as are necessary to provide for the orderly transition to, and implementation of, programs authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et. seq.), as amended by this Act, from programs authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), as in effect on the day before the date of enactment of this Act.
+
+"(c)
+
+Termination of Certain Waivers.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of this Act, and subject to section 5(e)(2) \[set out as an Effective Date of 2015 Amendment note above\], a waiver described in paragraph (2) shall be null and void and have no legal effect on or after August 1, 2016.
+
+&emsp;"(2)
+
+Waivers.—A waiver shall be subject to paragraph (1) if the waiver was granted by the Secretaryof Education to a State or consortium of local educational agencies under the program first introduced in a letter to chief State school officers dated September 23, 2011, and authorized under section 9401 \[now 8401\] of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7861), as in effect on the day before the date of enactment of this Act."
 
 Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
@@ -234,7 +316,7 @@ Sec. 3. <i>School Improvement Report</i>. To monitor the progress of LEAs and sc
 
 (c) document ongoing efforts as a result of this order and other Federal efforts to assist States and local school districts in intervening in low-performing schools, including improving teacher quality. This report shall be publicly accessible.
 
-Sec. 4. <i>Compliance Monitoring System</i>. Consistent with the implementation of the School Improvement Fund, the Secretary shall strengthen the Department's monitoring of ESEA requirements for identifying and turning around low-performing schools, as well as any new requirements established for the School Improvement Fund by Public Law 106–113. The Secretary shall give priority to provisions that have the greatest bearing on identifying and turning around low-performing schools, including sections 1116 and 1117 of the ESEA \[20 U.S.C. 6316, 6317\], and to developing an ongoing, focused, and systematic process for monitoring these provisions. This improved compliance monitoring shall be designed to:
+Sec. 4. <i>Compliance Monitoring System</i>. Consistent with the implementation of the School Improvement Fund, the Secretary shall strengthen the Department's monitoring of ESEA requirements for identifying and turning around low-performing schools, as well as any new requirements established for the School Improvement Fund by Public Law 106–113. The Secretary shall give priority to provisions that have the greatest bearing on identifying and turning around low-performing schools, including sections 1116 and 1117 of the ESEA \[former 20 U.S.C. 6316, 6317\], and to developing an ongoing, focused, and systematic process for monitoring these provisions. This improved compliance monitoring shall be designed to:
 
 (a) ensure that States and LEAs comply with ESEA requirements;
 
@@ -251,6 +333,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Definitions
 
 Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

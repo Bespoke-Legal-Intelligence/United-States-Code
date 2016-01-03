@@ -16,7 +16,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) is subject to frequent water loading; and
 
-&emsp;&emsp;&emsp;(iii) is an integral part of a flood risk reduction system that protects the leveedarea from flood waters associated with hurricanes, precipitation events, seasonal high water, and other weather-related events.
+&emsp;&emsp;&emsp;(iii) is an integral part of a flood risk reduction system that protects the leveed area from flood waters associated with hurricanes, precipitation events, seasonal high water, and other weather-related events.
 
 #### (B) Exclusion
 
@@ -176,7 +176,7 @@ Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, �
 
 &emsp;"(2) to encourage the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;
 
-&emsp;"(3) to develop and support public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;
+&emsp;"(3) to develop and support public education and awareness projects to increase public acceptance andsupport of levee safety programs and provide information;
 
 &emsp;"(4) to build public awareness of the residual risks associated with living in levee protected areas;
 

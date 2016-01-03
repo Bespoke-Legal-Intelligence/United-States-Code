@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 112–81, §631(e)(16), added subsec. (d).
 
 Subsecs. (b), (c). Pub. L. 107–314, §621(a), (b)(2), added subsec. (b), redesignated former subsec. (b) as (c), and inserted heading.
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 struck out ", or his designee, or to a place no farther distant than hishome of record" after "place approved by the Secretary concerned".
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 struck out ", or his designee, or to a place no farther distant than his home of record" after "place approved by the Secretary concerned".
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–201 inserted at end "If the member is unable to undertake the travel before the end of such one-year period as a result of duty in connection with a contingency operation, the member may defer the travel for one additional year beginning on the date the duty of the member in connection with the contingency operation ends."
 

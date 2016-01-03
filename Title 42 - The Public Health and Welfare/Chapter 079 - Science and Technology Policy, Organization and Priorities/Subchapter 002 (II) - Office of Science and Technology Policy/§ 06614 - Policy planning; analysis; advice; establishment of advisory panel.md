@@ -52,7 +52,7 @@ Section 5703 of title 5, referred to in subsec. (b)(4), was amended generally by
 
 #### Transfer of Functions
 
-Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) ofthis section and sections 6615 and 6618 of this title transferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+Functions vested in Office of Science and Technology Policy and Director thereof pursuant to subsec. (a)(2) of this section and sections 6615 and 6618 of this title transferred to Director of National Science Foundation by section 5A of Reorg. Plan No. 1 of 1977, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(a) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 
@@ -68,7 +68,7 @@ Pub. L. 105–276, title IV, §430, Oct. 21, 1998, 112 Stat. 2512, provided that
 
 "(a)
 
-Study.—The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enter into an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
+Study.—The Director of the Office of Science and Technology Policy, in consultation with the Director of the Office of Management and Budget, may enterinto an agreement with the National Academy of Sciences for the Academy to conduct a comprehensive study to develop methods for evaluating federally-funded research and development programs. This study shall—
 
 &emsp;"(1) recommend processes to determine an acceptable level of success for federally-funded research and development programs by—
 

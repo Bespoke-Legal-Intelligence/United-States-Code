@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
-(b) Whenever the Special Counsel receives information of a type described in subsection (a) of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+(b) Whenever the Special Counsel receives information of a type described in subsection (a)of this section, the Special Counsel shall review such information and, within 15 days after receiving the information, determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
 
 (c)(1) Subject to paragraph (2), if the Special Counsel makes a positive determination under subsection (b) of this section, the Special Counsel shall promptly transmit the information with respect to which the determination was made to the appropriate agency head and require that the agency head—
 

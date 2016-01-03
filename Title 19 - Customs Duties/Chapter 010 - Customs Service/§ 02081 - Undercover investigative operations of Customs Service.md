@@ -28,7 +28,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 #### (b) Liquidation of corporations and business entities
 
-If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) of this section with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+If a corporation or business entity established or acquired as part of an undercover operation under paragraph (1)(B) of subsection (a) with a net value over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or his designee determines is practicable, shall report the circumstances to the Secretary of the Treasury. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Deposit of proceeds
 
@@ -84,7 +84,7 @@ In subsec. (a)(1)(A)(iii), "chapter 45 of title 41," substituted for "section 30
 
 In subsec. (a)(1)(A)(iv), "Section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a)(1)(A)(v), "section 3901 of title 41, and" substituted for "section 304(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a)), and" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1)(A)(v), "section 3901 of title 41, and" substituted for "section 304(a) of the Federal Propertyand Administrative Services Act of 1949 (41 U.S.C. 254(a)), and" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (ii) Rate remains in effect so long as it falls within permissible range
 
-&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remain in effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
+&emsp;&emsp;&emsp;Any rate selected by the taxpayer for the plan under this subparagraph shall remainin effect for such plan until the first taxable year for which such rate is no longer within the permissible range. At such time, the taxpayer shall select a new rate of interest which is within the permissible range applicable at such time.
 
 #### (iii) Permissible range
 
@@ -260,7 +260,7 @@ Revocation only with consent.—An election under this paragraph may be revoked 
 
 &emsp;"(E)
 
-Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of arefund, or the assessment of a deficiency, was not barred by any law or rule of law.
+Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
 "(3)
 

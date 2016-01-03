@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs andbiologicals that are described in section 1395u(o)(1)(C) of this title and that are furnished on or after January 1, 2005.
+&emsp;Except as provided in paragraph (2), this section shall apply to payment for drugs and biologicals that are described in section 1395u(o)(1)(C) of this title and that are furnished on or after January 1, 2005.
 
 #### (2) Election
 
-&emsp;This section shall not apply in the case of a physician who elects under subsection (a)(1)(A)(ii) of section 1395w–3b of this title for that section to apply instead of this section for the payment for drugs and biologicals.
+&emsp;This section shall not apply in the case of a physician who elects under subsection\(a)(1)(A)(ii) of section 1395w–3b of this title for that section to apply instead of this section for the payment for drugs and biologicals.
 
 #### (b) Payment amount
 
@@ -152,7 +152,7 @@
 
 #### (C) Use of contractors; implementation
 
-&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the paymentamount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
+&emsp;&emsp;The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b) of this section. Notwithstanding any other provision of law, the Secretary may implement, by programinstruction or otherwise, any of the provisions of this section.
 
 #### (6) Definitions and other rules
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may disregard the average sales price for a drug or biological that exceeds the widely available market price or the average manufacturer price for suchdrug or biological by the applicable threshold percentage (as defined in subparagraph (B)).
+&emsp;&emsp;The Secretary may disregard the average sales price for a drug or biological that exceeds the widely available market price or the average manufacturer price for such drug or biological by the applicable threshold percentage (as defined in subparagraph (B)).
 
 #### (B) Applicable threshold percentage defined
 

@@ -48,7 +48,7 @@ Readiness of National Guard to Perform Civil Support Missions.—(1) Each report
 
 (f)
 
-Combatant Command Assigned Mission Assessments.—(1) Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
+Combatant Command Assigned Mission Assessments.—(1) Each report shall also includean assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
 
 (2) For purposes of this subsection, the term "assigned mission" means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
 

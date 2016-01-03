@@ -4,7 +4,7 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
 &emsp;(1) the substitute check meets all the requirements for legal equivalence under section 5003(b) of this title; and
 
-&emsp;(2) no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, or a copy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
+&emsp;(2) no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, or acopy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
 
 (Pub. L. 108–100, §5, Oct. 28, 2003, 117 Stat. 1181.)
 

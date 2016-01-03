@@ -48,7 +48,7 @@ Registration.—(1) The Secretary of Transportation shall establish procedures f
 
 (4) The Secretary of Transportation shall establish procedures for—
 
-&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115,30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
+&emsp;(A) revoking or suspending a registration issued under paragraph (1) of this subsection for not complying with a requirement of this subchapter or any of sections 30112, 30115, 30117–30122, 30125(c), 30127, or 30166 of this title or regulations prescribed under this subchapter or any of those sections;
 
 &emsp;(B) automatically suspending a registration for not paying a fee under subsection (a)(3) of this section in a timely manner or for knowingly filing a false or misleading certification under section 30146 of this title; and
 

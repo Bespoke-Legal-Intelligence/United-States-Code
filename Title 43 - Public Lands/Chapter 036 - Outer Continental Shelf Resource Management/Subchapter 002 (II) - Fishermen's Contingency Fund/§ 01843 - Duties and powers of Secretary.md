@@ -22,7 +22,7 @@ The Secretary of the Interior shall establish regulations requiring all material
 
 &emsp;(B) if the damage set forth in the claim was sustained prior to September 18, 1978;
 
-&emsp;(C) in the case of a claim for damage to, or loss of, fishing gear, in an amount in excess ofthe replacement value of the fishing gear with respect to which the claim is filed; and
+&emsp;(C) in the case of a claim for damage to, or loss of, fishing gear, in an amount in excess of the replacement value of the fishing gear with respect to which the claim is filed; and
 
 &emsp;(D) for any portion of the damages claimed with respect to which the claimant has received, or will receive, compensation from insurance.
 
@@ -42,7 +42,7 @@ Subsec. (c)(1). Pub. L. 98–498 substituted "50 percent" for "25 per centum".
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–212, §7, substituted "claims (except that, notwithstanding any other provision of law, final regulations implementing the 1981 amendments to this subchapter shall be published in the Federal Register within 120 days after the date of the enactment of such amendments); and" for "claims; and".
 
-Subsec. (c)(1). Pub. L. 97–212, §3(1), substituted "Fund" for "appropriate area account" and "resulting economic loss" for "loss of profits", inserted "Outer Continental Shelf" after "items associated with", struck out "in such area, whether or not such damage occurred in such area" after "production activities", and inserted provisions that compensation payable under this section for resulting economic loss be an amount equal to 25 per centum of such loss and provision defining "resulting economic loss" for purposes of subsec. (c).
+Subsec. (c)(1). Pub. L. 97–212, §3(1), substituted "Fund" for "appropriate area account" and "resultingeconomic loss" for "loss of profits", inserted "Outer Continental Shelf" after "items associated with", struck out "in such area, whether or not such damage occurred in such area" after "production activities", and inserted provisions that compensation payable under this section for resulting economic loss be an amount equal to 25 per centum of such loss and provision defining "resulting economic loss" for purposes of subsec. (c).
 
 Subsec. (c)(2). Pub. L. 97–212, §3(2), substituted "the Fund" for "any area account established under this subchapter" in provisions preceding subpar. (A), struck out subpars. (A) and (E) which related, respectively, to damage caused by materials, equipment, tools, containers, or other items attributable to a financially responsible party and the party admitted responsibility and to loss of profits for any period in excess of 6 months unless such claim was supported by records with respect to the claimant's profits during the previous 12-month period, redesignated subpars. (B), (C), and (D) as (A), (B), and (C) respectively, redesignated subpar. (F) as (D), and in subpar. (D) as so redesignated, substituted "received, or will receive," for "or will receive".
 

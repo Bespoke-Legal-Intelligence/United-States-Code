@@ -6,7 +6,7 @@ Magistrate judges and clerks of court to keep records as prescribed by Director 
 
 Return or filing of records with clerk, Rule 41(f).
 
-(June 25, 1948, ch. 645, 62 Stat. 821; Pub. L. 90–578, title III, §301(a)(4), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 821; Pub. L. 90–578, title III, §301(a)(4), Oct. 17, 1968, 82 Stat. 1115;Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@
 
 #### (2) Availability of amounts in the Crow Tribal Trust Fund
 
-&emsp;Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d) of this section.
+&emsp;Amounts in the Crow Tribal Trust Fund shall be available, without fiscal year limitation, to the Secretary for distribution to the Crow Tribe in accordance with subsection (d).
 
 #### (b) Contributions
 
@@ -38,7 +38,7 @@
 
 #### (c) Investment
 
-At the request of the Secretary, the Secretary of the Treasury shall invest all sums depositedinto, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with section 161a of this title.
+At the request of the Secretary, the Secretary of the Treasury shall invest all sums deposited into, accruing to, and remaining in, the Crow Tribal Trust Fund in accordance with section 161a of this title.
 
 #### (d) Distribution of interest
 

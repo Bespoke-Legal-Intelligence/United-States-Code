@@ -46,7 +46,7 @@ For purposes of determinations of need under part E, a grant awarded under this 
 
 #### (f) Authorization and appropriations of funds
 
-There are authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, for the Secretary to carry out this section, such sumsas may be necessary for fiscal year 2010 and each succeeding fiscal year.
+There are authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, for the Secretary to carry out this section, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
 
 (Pub. L. 89–329, title IV, §420R, as added Pub. L. 111–39, title IV, §401(a)(9), July 1, 2009, 123 Stat. 1939.)
 

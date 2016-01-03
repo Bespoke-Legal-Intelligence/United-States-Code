@@ -40,7 +40,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respectto mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health and substance use disorder benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
 
 #### (3) Financial requirements and treatment limitations
 
@@ -94,7 +94,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. Anemployer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
+&emsp;&emsp;With respect to a group health plan or a health insurance issuer offering group or individual health insurance coverage, if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
 
 #### (B) Applicable percentage
 
@@ -126,7 +126,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the year prior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
+&emsp;&emsp;&emsp;&emsp;(III) for both the plan year upon which a cost exemption is sought and the yearprior, the actual total costs of coverage with respect to mental health and substance use disorder benefits under the plan.
 
 #### (iii) Confidentiality
 

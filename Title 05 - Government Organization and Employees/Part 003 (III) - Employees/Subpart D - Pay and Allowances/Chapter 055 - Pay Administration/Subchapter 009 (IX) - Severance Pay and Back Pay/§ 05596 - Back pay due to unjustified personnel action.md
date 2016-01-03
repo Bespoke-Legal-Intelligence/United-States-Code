@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 101–474, §5(l)(2), substituted "employees, or to the age
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–465, §2306(1), inserted in subpar. (A)(ii) "or under chapter 11 of title I of the Foreign Service Act of 1980" after "chapter 71 of this title,".
 
-Subsec. (b)(3). Pub. L. 96–465, §2306(2), inserted "and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980" after "section 7103 of this title", and "and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980" after "section 7116 of this title".
+Subsec. (b)(3). Pub. L. 96–465, §2306(2), inserted "and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980" after "section 7103 of this title", and "and (with respect to members of the Foreign Service) in section1015 of the Foreign Service Act of 1980" after "section 7116 of this title".
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–54 substituted "Office of Personnel Management" for "Civil Service Commission".
 

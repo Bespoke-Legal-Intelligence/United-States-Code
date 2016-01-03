@@ -52,7 +52,7 @@ Pub. L. 112–81, §631(d)(2), renumbered section 406c of this title as this sec
 
 Subsec. (e). Pub. L. 112–81, §631(e)(9), added subsec. (e).
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where the dependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where thedependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
 
 #### Effective Date of 2013 Amendment
 

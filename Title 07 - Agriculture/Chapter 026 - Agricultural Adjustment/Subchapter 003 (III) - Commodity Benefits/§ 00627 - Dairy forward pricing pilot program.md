@@ -34,7 +34,7 @@ The authority of the Secretary of Agriculture to carry out the pilot program sha
 
 #### (1) Study
 
-&emsp;The Secretary of Agriculture shall conduct a study on forward contracting between milk producers and cooperatives and milk handlers to determine the impact on milk prices paid to producers in the United States. To obtain information for the study, the Secretary may use the authorities available to the Secretary under section 608d of this title, subject to the confidentiality requirements of subsection (2) of such section.
+&emsp;The Secretary of Agriculture shall conduct a study on forward contracting between milk producers and cooperatives and milk handlersto determine the impact on milk prices paid to producers in the United States. To obtain information for the study, the Secretary may use the authorities available to the Secretary under section 608d of this title, subject to the confidentiality requirements of subsection (2) of such section.
 
 #### (2) Report
 

@@ -26,9 +26,9 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 #### (f) Effective date of order; hearing; notice; review
 
-(1) No order under section 824i or 824j of this title requiring the Tennessee Valley Authority\(hereinafter in this subsection referred to as the "TVA") to take any action shall take effect for 60 days following the date of issuance of the order. Within 60 days following the issuance by the Commission of any order under section 824i or of section 824j of this title requiring the TVA to enter into any contract for the sale or delivery of power, the Commission may on its own motion initiate, or upon petition of any aggrieved person shall initiate, an evidentiary hearing to determine whether or not such sale or delivery would result in violation of the third sentence of section 15d(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831n–4), hereinafter in this subsection referred to as the TVA Act \[16 U.S.C. 831 et seq.\].
+(1) No order under section 824i or 824j of this title requiring the Tennessee Valley Authority (hereinafter in this subsection referred to as the "TVA") to take any action shall take effect for 60 days following the date of issuance of the order. Within 60 days following the issuance by the Commission of any order under section 824i or of section 824j of this title requiring the TVA to enter into any contract for the sale or delivery of power, the Commission may on its own motion initiate, or upon petition of any aggrieved person shall initiate, an evidentiary hearing to determine whether or not such sale or delivery would result in violation of the third sentence of section 15d(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831n–4), hereinafter in this subsection referred to as the TVA Act \[16 U.S.C. 831 et seq.\].
 
-(2) Upon initiation of any evidentiary hearing under paragraph (1), the Commission shall give notice thereof to any applicant who applied for and obtained the order from the Commission, to any electric utility or other entity subject to such order, and to the public, and shall promptly make the determination referred to in paragraph (1). Upon initiation of such hearing, the Commission shall stay the effectiveness of the order under section 824i or 824j of this title until whichever of the following dates is applicable—
+(2) Upon initiation of any evidentiary hearing under paragraph (1), the Commission shall give notice thereof to any applicant who applied forand obtained the order from the Commission, to any electric utility or other entity subject to such order, and to the public, and shall promptly make the determination referred to in paragraph (1). Upon initiation of such hearing, the Commission shall stay the effectiveness of the order under section 824i or 824j of this title until whichever of the following dates is applicable—
 
 &emsp;(A) the date on which there is a final determination (including any judicial review thereof under paragraph (3)) that no such violation would result from such order, or
 
@@ -70,7 +70,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 &emsp;&emsp;(II) adhere to the procedural requirements of paragraphs (1) through (3) of section 839e(i) of this title, except that the hearing officer shall, unless the hearing officer becomes unavailable to the agency, make a recommended decision to the Administrator that states the hearing officer's findings and conclusions, and the reasons or basis thereof, on all material issues of fact, law, or discretion presented on the record; and
 
-&emsp;&emsp;(III) make a determination, setting forth the reasons for reaching any findings and conclusions which may differ from those of the hearing officer, based on the hearing record, consideration of the hearing officer's recommended decision, section 824j of this title and this section, as amended by the Energy Policy Act of 1992, and the provisions of law as preserved in this section; and
+&emsp;&emsp;(III) make a determination, setting forth the reasons for reaching any findings andconclusions which may differ from those of the hearing officer, based on the hearing record, consideration of the hearing officer's recommended decision, section 824j of this title and this section, as amended by the Energy Policy Act of 1992, and the provisions of law as preserved in this section; and
 
 &emsp;(B) if application is made to the Commission under section 824j of this title for transmission service under terms and conditions different than those offered by the Administrator, or following the denial of a request for transmission service by the Administrator, and such application is filed within 60 days of the Administrator's final determination and in accordance with Commission procedures, the Commission shall—
 
@@ -92,7 +92,7 @@ With respect to an electric utility which is prohibited by Federal law from bein
 
 #### (1) Rates
 
-&emsp;Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
+&emsp;Any order under section 824j of this title requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a), on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
 
 #### (2) Definitions
 

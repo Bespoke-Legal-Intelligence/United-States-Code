@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
+In accordance with regulations of the President, commissioned officers of the RegularCorps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
 #### (b) Repealed. Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499
 

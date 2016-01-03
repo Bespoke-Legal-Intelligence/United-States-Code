@@ -26,7 +26,7 @@
 
 #### (D) Exclusion authority
 
-&emsp;&emsp;The Secretary may exclude competitively biddable drugs and biologicals (including a class of such drugs and biologicals) from thecompetitive bidding system under this section if the application of competitive bidding to such drugs or biologicals—
+&emsp;&emsp;The Secretary may exclude competitively biddable drugs and biologicals (including a class of such drugs and biologicals) from the competitive bidding system under this section if the application of competitive bidding to such drugs or biologicals—
 
 &emsp;&emsp;&emsp;(i) is not likely to result in significant savings; or
 
@@ -108,7 +108,7 @@
 
 #### (1) Contract for competitively biddable drugs and biologicals
 
-&emsp;The Secretary shall conduct a competition among entities for the acquisition of competitively biddable drugs and biologicals. Notwithstanding any other provision of this subchapter, in the case of a multiple source drug, the Secretary shall conduct such competition among entities for the acquisition of at least one competitively biddable drug and biological within each billing and payment code within each category for each competitive acquisition area.
+&emsp;The Secretary shall conduct a competition among entities for the acquisition of competitively biddable drugs and biologicals. Notwithstanding any other provision of this subchapter, in the case of a multiple source drug, the Secretary shall conduct such competition among entities for the acquisition of at leastone competitively biddable drug and biological within each billing and payment code within each category for each competitive acquisition area.
 
 #### (2) Conditions for awarding contract
 
@@ -192,7 +192,7 @@
 
 #### (E) Direct delivery of drugs and biologicals to physicians
 
-&emsp;&emsp;Under the contract the contractor shall only supply competitively biddable drugs and biologicals directly to the selecting physicians and not directly to individuals, except under circumstances and settings where an individual currently receives a drug or biological in the individual's home or other non-physician office setting as the Secretary may provide. The contractor shall not deliver drugs and biologicals to a selecting physician except upon receipt of a prescription for such drugs and biologicals, and such necessary data as may be required by the Secretary to carry out this section. This section does not—
+&emsp;&emsp;Under the contract the contractor shall only supply competitively biddable drugsand biologicals directly to the selecting physicians and not directly to individuals, except under circumstances and settings where an individual currently receives a drug or biological in the individual's home or other non-physician office setting as the Secretary may provide. The contractor shall not deliver drugs and biologicals to a selecting physician except upon receipt of a prescription for such drugs and biologicals, and such necessary data as may be required by the Secretary to carry out this section. This section does not—
 
 &emsp;&emsp;&emsp;(i) require a physician to submit a prescription for each individual treatment; or
 
@@ -360,9 +360,9 @@ Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provide
 
 #### Application of 2003 Amendment to Physician Specialties
 
-Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals anddrug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under this subchapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
-Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs orbiologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 #### (b) Additional revisions; procedures applicable; failure to comply with procedures
 
-(1) In addition to such revisions as the Secretary may make in the boundaries of the park from time to time pursuant to other provisions of law, the Secretary may, according to the provisions of subsection (a) of this section—
+(1) In addition to such revisions as the Secretary may make in the boundaries of the park from time to time pursuant to other provisions of law, the Secretary may, according to the provisions of subsection (a)—
 
 &emsp;(A) delete approximately 782 acres in the Neil Point area of the park;
 
@@ -20,9 +20,9 @@ Except as provided in subsection (b) of this section, the park shall include the
 
 > All of the aforementioned boundary changes if accomplished shall be accomplished such that the boundary of the park shall conform to that generally depicted on the drawing entitled "Boundary, Voyageurs National Park, United States Department of the Interior, National Park Service", numbered 172–80, 008–MWR, and dated November 1981, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
-(2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless,prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
+(2) The Secretary may not delete or convey the lands referred to in paragraph (1)(E) unless, prior to or simultaneously with such deletion or conveyance and in consideration of such conveyance, the State of Minnesota—
 
-&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land described in paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
+&emsp;(A) tenders a conveyance of the lands described in paragraph (1)(C) and (D) to the United States by such instrument and in such manner as are satisfactory to the Secretary, including but not limited to lease or easement: <i>Provided</i>, That if the interest conveyed is a lease or easement, the State of Minnesota shall substitute therefore a transfer of all right, title, and interest in the land by June 30, 1987: <i>Provided further</i>, That if the State does not transfer all right, title, and interest in such lands by June 30, 1987, the land describedin paragraph 1(E) <sup>1</sup> shall revert to the United States for administration by the Secretary as part of the park; and
 
 &emsp;(B) enters into a recordable agreement satisfactory to the Secretary which provides that—
 

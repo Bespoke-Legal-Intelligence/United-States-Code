@@ -10,7 +10,7 @@ Within one year after November 2, 1994, the Secretary shall, after consultation 
 
 &emsp;(A) such individual's name was listed on the Paskenta Indian Rancheria distribution roll compiled on February 26, 1959, by the Bureau of Indian Affairs and approved by the Secretary of the Interior on July 7, 1959, pursuant to Public Law 85–671;
 
-&emsp;(B) such individual was not listed on the Paskenta Indian Rancheria distribution list,but met the requirements that had to be met to be listed on the Paskenta Indian Rancheria list;
+&emsp;(B) such individual was not listed on the Paskenta Indian Rancheria distribution list, but met the requirements that had to be met to be listed on the Paskenta Indian Rancheria list;
 
 &emsp;(C) such individual is identified as an Indian from Paskenta in any of the official or unofficial rolls of Indians prepared by the Bureau of Indian Affairs; or
 
@@ -20,7 +20,7 @@ Within one year after November 2, 1994, the Secretary shall, after consultation 
 
 #### (c) Conclusive proof of Paskenta Indian ancestry
 
-For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing Paskenta Indian ancestry. The Secretary shall accept as conclusive evidence of Paskenta Indian ancestry, information contained in the census of the Indians in and near Paskenta, prepared by Special Indian Agent John J. Terrell, in any other roll or census of Paskenta Indians prepared by the Bureau of Indian Affairs, and in the Paskenta Indian Rancheria distribution list, compiled by the Bureau of Indian Affairs on February 26, 1959.
+For the purpose of subsection (b), the Secretary shall accept any available evidence establishing Paskenta Indian ancestry. The Secretary shall accept as conclusive evidence of Paskenta Indian ancestry, information contained in the census of the Indians in and near Paskenta, prepared by Special Indian Agent John J. Terrell, in any other roll or census of Paskenta Indians prepared by the Bureau of Indian Affairs, and in the Paskenta Indian Rancheria distribution list, compiled by the Bureau of Indian Affairs on February 26, 1959.
 
 (Pub. L. 103–454, title III, §306, Nov. 2, 1994, 108 Stat. 4794.)
 

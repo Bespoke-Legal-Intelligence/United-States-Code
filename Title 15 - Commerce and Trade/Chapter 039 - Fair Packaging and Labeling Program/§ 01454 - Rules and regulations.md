@@ -10,7 +10,7 @@ If the promulgating authority specified in this section finds that, because of t
 
 #### (c) Scope of additional regulations
 
-Whenever the promulgating authority determines that regulations containing prohibitions or requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
+Whenever the promulgating authority determines that regulations containing prohibitionsor requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
 
 &emsp;(1) establish and define standards for characterization of the size of a package enclosing any consumer commodity, which may be used to supplement the label statement of net quantity of contents of packages containing such commodity, but this paragraph shall not be construed as authorizing any limitation on the size, shape, weight or mass, dimensions, or number of packages which may be used to enclose any commodity;
 
@@ -24,7 +24,7 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 #### (d) Development by manufacturers, packers, and distributors of voluntary product standards
 
-Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity orcommodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
+Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity or commodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
 
 #### (e) Report and recommendations to Congress upon industry failure to develop or abide by voluntary product standards
 

@@ -6,7 +6,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 #### (b) Purpose
 
-The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that suchfunctions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 (Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
@@ -36,7 +36,7 @@ Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to
 
 Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978."
 
-Subsec. (c). Pub. L. 98–457, §101(c), substituted "The functions of the Secretary under subsection (b) of this section may be carried out" for "The Secretary maycarry out his functions under subsection (b) of this section".
+Subsec. (c). Pub. L. 98–457, §101(c), substituted "The functions of the Secretary under subsection (b) of this section may be carried out" for "The Secretary may carry out his functions under subsection (b) of this section".
 
 Subsec. (e). Pub. L. 98–457, §101(d), added subsec. (e).
 
@@ -47,6 +47,10 @@ Subsec. (c). Pub. L. 95–266, §101(2), inserted provisions relating to duratio
 Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–644 added subsec. (c).
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may be cited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
 
 #### Short Title of 2010 Amendment
 
@@ -70,7 +74,7 @@ Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that:
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the 'Child Abuse Prevention and Treatment Act Amendments of 1996'."
+Pub. L. 104–235, §1(a), Oct. 3, 1996, 110 Stat. 3063, provided that: "This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisionsset out as notes under section 5117 of this title\] may be cited as the 'Child Abuse Prevention and Treatment Act Amendments of 1996'."
 
 #### Short Title of 1994 Amendment
 
@@ -162,7 +166,7 @@ Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, b
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
+Pub. L. 93–247, §2, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, §101, Dec. 20, 2010, 124 Stat. 3459, provided that: "Congress finds that—
 
 &emsp;"(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect;
 
@@ -226,7 +230,7 @@ Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a),
 
 #### Definitions
 
-Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20, 2010, 124 Stat. 3482, provided that: "In this Act \[see Short Title note above\]—
+Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20, 2010, 124 Stat. 3482, as amended by Pub. L. 114–22, title VIII, §802(c)(2), May 29, 2015, 129 Stat. 264, provided that: "In this Act \[see Short Title note above\]—
 
 &emsp;"(1) the term 'child' means a person who has not attained the lesser of—
 
@@ -247,4 +251,6 @@ Pub. L. 93–247, §3, as added by Pub. L. 111–320, title I, §142(a), Dec. 20
 &emsp;"(7) except as provided in section 106(f) \[42 U.S.C. 5106a(f)\], the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
 
 &emsp;"(8) the term 'unaccompanied homeless youth' means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a)."
+
+<i>\[Pub. L. 114–22, title VIII, §802(a), (c)(2), May 29, 2015, 129 Stat. 263, 264, provided that, effective 2 years after May 29, 2015, section 3 of Pub. L. 93–247, set out above, is amended in par. (2) by inserting "(including sexual abuse as determined under section 111 \[42 U.S.C. 5106g\])" after "sexual abuse or exploitation".\]</i>
 

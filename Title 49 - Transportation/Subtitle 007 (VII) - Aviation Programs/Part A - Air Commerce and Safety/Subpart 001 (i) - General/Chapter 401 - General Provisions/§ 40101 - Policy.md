@@ -258,6 +258,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section 10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–238, §1, Dec. 18, 2014, 128 Stat. 2842, provided that: "This Act \[enacting section 44946 of this title\] may be cited as the 'Aviation Security Stakeholder Participation Act of 2014'."
@@ -330,7 +334,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: "This Act \
 
 Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Aviation Reauthorization Act of 1996'."
 
-Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121,40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
 
 Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: "This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the 'Rural Air Service Survival Act'."
 
@@ -402,7 +406,7 @@ Termination.—The requirement to submit a report under subparagraph (A) shall t
 
 "(c)
 
-UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' means the National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
+UAS Executive Committee Defined.—In this section, the term 'UAS Executive Committee' meansthe National Aeronautics and Space and \[sic\] Administration and the Department of Defense–Federal Aviation Administration executive committee described in section 1036(b) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 \[Pub. L. 110–417; 122 Stat. 4597\] and established by the Secretary of Defense and the Administrator of the Federal Aviation Administration."
 
 #### Prohibition on Participation in European Union's Emissions Trading Scheme
 
@@ -648,7 +652,7 @@ OEP airports report.—Not later than 6 months after the date of enactment of th
 
 &emsp;&emsp;"(A)
 
-RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35 operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existingflight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
+RNP/RNAV operations for oep airports.—The required navigation performance and area navigation operations, including the procedures to be developed, certified, and published and the air traffic control operational changes, to maximize the fuel efficiency and airspace capacity of NextGen commercial operations at each of the 35operational evolution partnership airports identified by the Administration and any medium or small hub airport located within the same metroplex area considered appropriate by the Administrator. The Administrator shall, to the maximum extent practicable, avoid overlays of existing flight procedures, but if unavoidable, the Administrator shall clearly identify each required navigation performance and area navigation procedure that is an overlay of an existing instrument flight procedure and the reason why such an overlay was used.
 
 &emsp;&emsp;"(B)
 
@@ -1114,7 +1118,7 @@ Contents of plan.—The plan required under paragraph (1) shall contain, at a mi
 
 &emsp;&emsp;&emsp;"(iii) establish standards and requirements for the operator and pilot of a civil unmanned aircraft system, including standards and requirements for registration and licensing;
 
-&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve the safe and routine operation of civil unmanned aircraft systems in the national airspace system;
+&emsp;&emsp;"(B) the best methods to enhance the technologies and subsystems necessary to achieve thesafe and routine operation of civil unmanned aircraft systems in the national airspace system;
 
 &emsp;&emsp;"(C) a phased-in approach to the integration of civil unmanned aircraft systems into the national airspace system;
 
@@ -1226,7 +1230,7 @@ Aircraft approval.—Not later than 1 year after the entry into force of an agre
 
 "(a)
 
-In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of the plan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
+In General.—Notwithstanding any other requirement of this subtitle, and not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Secretary of Transportation shall determine if certain unmanned aircraft systems may operate safely in the national airspace system before completion of theplan and rulemaking required by section 332 of this Act or the guidance required by section 334 of this Act.
 
 "(b)
 
@@ -1454,7 +1458,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(1) The United States has revolutionized the way people travel, developing new technologies and aircraft to move people more efficiently and more safely.
 
-&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economy and national security of the United States and the quality of life of its citizens.
+&emsp;"(2) Past Federal investment in aeronautics research and development has benefited the economyand national security of the United States and the quality of life of its citizens.
 
 &emsp;"(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
@@ -1618,7 +1622,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in thatyear toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -1808,17 +1812,17 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportation on that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556; Pub. L. 108–458, title VIII, §8404, Dec. 17, 2004, 118 Stat. 3872; Pub. L. 109–115, div. A, title I, §178, Nov. 30, 2005, 119 Stat. 2427, required each air carrier providing scheduled air transportation on a route to provide, to the extent practicable, air transportation to passengers ticketed for air transportationon that route by any other air carrier that suspended, interrupted, or discontinued air passenger service on the route by reason of insolvency or bankruptcy of the other air carrier occurring on or before Nov. 30, 2006.
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
-Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of finalregulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\]."
+Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided that: "With respect to any compensation payable under title IV of Public Law 107–42 \[set out as a note below\], the failure of a crime victim compensation program, after the effective date of final regulations issued pursuant to section 407 of Public Law 107–42, to provide compensation otherwise required pursuant to section 1403 of the Victims of Crime Act of 1984 (42 U.S.C. 10602) shall not render that program ineligible for future grants under the Victims of Crime Act of 1984 \[42 U.S.C. 10601 et seq.\]."
 
 #### Air Transportation Safety and System Stabilization
 
-Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, provided that: "Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) of such Act."
+Pub. L. 112–10, div. B, title III, §1347, Apr. 15, 2011, 125 Stat. 124, as amended by Pub. L. 114–113, div. O, title IV, §402(h), Dec. 18, 2015, 129 Stat. 3007, provided that: "Notwithstanding any other provision of law, in fiscal year 2012 and thereafter payments for costs described in subsection (a) of section 404 of Public Law 107–42, as amended \[set out below\], shall be considered to be, and included in, payments for compensation for the purposes of sections 406(b) and (d)(1) and (2) of such Act. Costs for payments for compensation for claims in Group A, as described in section 405(a)(3)(C)(ii) of such Act, shall be paid from amounts made available under section 406 of such Act. Costs for payments for compensation for claims in Group B, as described in section 405(a)(3)(C)(iii) of such Act, shall be paid from amounts in the Victims Compensation Fund established under section 410 of such Act."
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286; Pub. L. 110–113, §3, Nov. 8, 2007, 121 Stat. 1039; Pub. L. 110–161, div. D, title I, Dec. 26, 2007, 121 Stat. 1974; Pub. L. 111–347, title II, Jan. 2, 2011, 124 Stat. 3659; Pub. L. 114–113, div. O, title IV, §402(a)–(g), Dec. 18, 2015, 129 Stat. 3000–3006, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -1902,7 +1906,7 @@ Distribution of amounts.—The President shall distribute the amount set aside u
 
 "(a)
 
-Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
+Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service beforeSeptember 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
 
 "(b)
 
@@ -2038,7 +2042,7 @@ Claimant.—The term 'claimant' means an individual filing a claim for compensat
 
 &emsp;"(6)
 
-Collateral source.—The term 'collateral source' means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including under the World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, 42 U.S.C. 300mm\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
+Collateral source.—The term 'collateral source' means all collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the terrorist-related aircraft crashes of September 11, 2001, or debris removal, including underthe World Trade Center Health Program established under section 3001 of the Public Health Service Act \[probably means section 3301 of the Public Health Service Act, 42 U.S.C. 300mm\], and payments made pursuant to the settlement of a civil action described in section 405(c)(3)(C)(iii).
 
 &emsp;"(7)
 
@@ -2050,7 +2054,7 @@ Debris removal.—The term 'debris removal' means rescue and recovery efforts, r
 
 &emsp;"(9)
 
-Economic loss.—The term 'economic loss' means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+Economic loss.—The term 'economic loss' means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, replacement services loss, loss due to death, burial costs, loss of business or employment opportunities, and past out-of-pocket medical expense loss but not future medical expense loss) to the extent recovery for such loss is allowed under applicable State law.
 
 &emsp;"(10)
 
@@ -2068,7 +2072,27 @@ Noneconomic losses.—The term 'noneconomic losses' means losses for physical an
 
 Special master.—The term 'Special Master' means the Special Master appointed under section 404(a).
 
-&emsp;"(14) 9/11
+&emsp;"(14)
+
+WTC program administrator.—The term 'WTC Program Administrator' has the meaning given such term in section 3306 of the Public Health Service Act (42 U.S.C. 300mm–5).
+
+&emsp;"(15)
+
+WTC-related physical health condition.—The term 'WTC-related physical health condition'—
+
+&emsp;&emsp;"(A) means, subject to subparagraph (B), a WTC-related health condition as defined by section 3312(a) of the Public Health Service Act (42 U.S.C. 300mm–22(a)), including the conditions listed in section 3322(b) of such Act (42 U.S.C. 300mm–32(b)); and
+
+&emsp;&emsp;"(B) does not include—
+
+&emsp;&emsp;&emsp;"(i) a mental health condition described in paragraph (1)(A)(ii) or (3)(B) of section 3312(a) of such Act (42 U.S.C. 300mm–22(a));
+
+&emsp;&emsp;&emsp;"(ii) any mental health condition certified under section 3312(b)(2)(B)(iii) of such Act (42 U.S.C. 300mm–22(b)(2)(B)(iii)) (including such certification as applied under section 3322(a) of such Act (42 U.S.C. 300mm–32(a));
+
+&emsp;&emsp;&emsp;"(iii) a mental health condition described in section 3322(b)(2) of such Act (42 U.S.C. 300mm–32(b)(2)); or
+
+&emsp;&emsp;&emsp;"(iv) any other mental health condition.
+
+&emsp;"(16) 9/11
 
 crash site.—The term '9/11 crash site' means—
 
@@ -2076,13 +2100,13 @@ crash site.—The term '9/11 crash site' means—
 
 &emsp;&emsp;"(B) the buildings or portions of buildings that were destroyed as a result of the terrorist-related aircraft crashes of September 11, 2001;
 
-&emsp;&emsp;"(C) any area contiguous to a site of such crashes that the Special Master determines was sufficiently close to the site that there was a demonstrable risk of physical harm resulting from the impact of the aircraft or any subsequent fire, explosions, or building collapses (including the immediate area in which the impact occurred, fire occurred, portions of buildings fell, or debris fell upon and injured individuals); and
+&emsp;&emsp;"(C) the area in Manhattan that is south of the line that runs along Canal Street from the Hudson River to the intersection of Canal Street and East Broadway, north on East Broadway to Clinton Street, and east on Clinton Street to the East River;
 
 &emsp;&emsp;"(D) any area related to, or along, routes of debris removal, such as barges and Fresh Kills.
 
 #### "SEC. 403. PURPOSE.
 
-"It is the purpose of this title to provide compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001.
+"It is the purpose of this title to provide full compensation to any individual (or relatives of a deceased individual) who was physically injured or killed as a result of the terrorist-related aircraft crashes of September 11, 2001, or the rescue and recovery efforts during the immediate aftermath of such crashes.
 
 #### "SEC. 404. ADMINISTRATION.
 
@@ -2138,7 +2162,39 @@ In general.—Except as provided by subparagraph (B), no claim may be filed unde
 
 &emsp;&emsp;"(B)
 
-Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b) and ending on the date that is 5 years after the date on which such regulations are updated.
+Exception.—A claim may be filed under paragraph (1), in accordance with subsection (c)(3)(A)(i), by an individual (or by a personal representative on behalf of a deceased individual) during the period beginning on the date on which the regulations are updated under section 407(b)(1) andending on the date that is 5 years after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+
+&emsp;&emsp;"(C)
+
+Special master determination.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—For claims filed under this title during the period described in subparagraph (B), the Special Master shall establish a system for determining whether, for purposes of this title, the claim is—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a claim in Group A, as described in clause (ii); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a claim in Group B, as described in clause (iii).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Group a claims.—A claim under this title is a claim in Group A if—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the claim is filed under this title during the period described in subparagraph (B); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) on or before the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, the Special Master postmarks and transmits a final award determination to the claimant filing such claim.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Group b claims.—A claim under this title is a claim in Group B if the claim—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is filed under this title during the period described in subparagraph (B); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is not a claim described in clause (ii).
+
+&emsp;&emsp;&emsp;"(iv)
+
+Definition of final award determination.—For purposes of this subparagraph, the term 'final award determination' means a letter from the Special Master indicating the total amount of compensation to which a claimant is entitled for a claim under this title without regard to the limitation under the second sentence of section 406(d)(1), as such section was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act.
 
 "(b)
 
@@ -2154,7 +2210,7 @@ Review.—The Special Master shall review a claim submitted under subsection (a)
 
 &emsp;&emsp;&emsp;"(i) the extent of the harm to the claimant, including any economic and noneconomic losses; and
 
-&emsp;&emsp;&emsp;"(ii) the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
+&emsp;&emsp;&emsp;"(ii) subject to paragraph (7), the amount of compensation to which the claimant is entitled based on the harm to the claimant, the facts of the claim, and the individual circumstances of the claimant.
 
 &emsp;"(2)
 
@@ -2180,7 +2236,43 @@ No punitive damages.—The Special Master may not include amounts for punitive d
 
 &emsp;"(6)
 
-Collateral compensation.—The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
+Collateral compensation.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Special Master shall reduce the amount of compensation determined under paragraph (1)(B)(ii) by the amount of the collateral source compensation the claimant has received or is entitled to receive as a result of the terrorist-related aircraft crashes of September 11, 2001.
+
+&emsp;&emsp;"(B)
+
+Group b claims.—Notwithstanding any other provision of this title, in the case of a claim in Group B as described in subsection (a)(3)(C)(iii), a claimant filing such claim shall receive an amount of compensation under this title for such claim that is not greater than the amount determined under paragraph (1)(B)(ii) less the amount of any collateral source compensation that such claimant has received or is entitled to receive for such claim as a result of the terrorist-related aircraft crashes of September 11, 2001.
+
+&emsp;"(7)
+
+Limitations for group b claims.—
+
+&emsp;&emsp;"(A)
+
+Noneconomic losses.—With respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the total amount of compensation to which a claimant filing such claim is entitled to receive for such claim under this title on account of any noneconomic loss—
+
+&emsp;&emsp;&emsp;"(i) that results from any type of cancer shall not exceed $250,000; and
+
+&emsp;&emsp;&emsp;"(ii) that does not result from any type of cancer shall not exceed $90,000.
+
+&emsp;&emsp;"(B)
+
+Determination of economic loss.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Subject to the limitation described in clause (ii) and with respect to a claim in Group B as described in subsection (a)(3)(C)(iii), the Special Master shall, for purposes of calculating the amount of compensation to which a claimant is entitled under this title for such claim on account of any economic loss, determine the loss of earnings or other benefits related to employment by using the applicable methodology described in section 104.43 or 104.45 of title 28, Code of Federal Regulations, as such Code was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\].
+
+&emsp;&emsp;&emsp;"(ii)
+
+Annual gross income limitation.—In considering annual gross income under clause (i) for the purposes described in such clause, the Special Master shall, for each year of any loss of earnings or other benefits related to employment, limit the annual gross income of the claimant (or decedent in the case of a personal representative) for each such year to an amount that is not greater than $200,000.
+
+&emsp;&emsp;"(C)
+
+Gross income defined.—For purposes of this paragraph, the term 'gross income' has the meaning given such term in section 61 of the Internal Revenue Code of 1986 \[26 U.S.C. 61\].
 
 "(c)
 
@@ -2226,7 +2318,7 @@ Timing requirements for filing claims.—An individual (or a personal representa
 
 &emsp;&emsp;&emsp;"(ii)
 
-Other eligibility requirements for filing claims.—An individual may file a claim during the period described in subsection (a)(3)(B) only if—
+Other eligibility requirements for filing claims.—Except with respect to claims in Group B as described in subsection (a)(3)(C)(iii), an individual may file a claim during the period described in subsection (a)(3)(B) only if—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the individual was treated by a medical professional for suffering from a physical harm described in clause (i)(I) within a reasonable time from the date of discovering such harm; and
 
@@ -2234,7 +2326,19 @@ Other eligibility requirements for filing claims.—An individual may file a cla
 
 &emsp;&emsp;&emsp;"(iii)
 
-Date specified.—The date specified in this clause is the date on which the regulations are updated under section 407(a).
+Date specified.—The date specified in this clause is the date on which the regulations are updated under section 407(b)(1).
+
+&emsp;&emsp;&emsp;"(iv)
+
+Group b claims.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+In general.—Subject to subclause (II), an individual filing a claim in Group B as described in subsection (a)(3)(C)(iii) may be eligible for compensation under this title only if the Special Master, with assistance from the WTC Program Administrator as necessary, determines based on the evidence presented that the individual has a WTC-related physical health condition, as defined by section 402 of this Act.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Personal representatives.—An individual filing a claim in Group B, as described in subsection (a)(3)(C)(iii), who is a personal representative described in paragraph (2)(C) may be eligible for compensation under this title only if the Special Master, with assistance from the WTC Program Administrator as necessary, determines based on the evidence presented that the applicable decedent suffered from a condition that was, or would have been determined to be, a WTC-related physical health condition, as defined by section 402 of this Act.
 
 &emsp;&emsp;"(B) Single claim.—Not more than one claim may be submitted under this title by an individual or on behalf of a deceased individual.
 
@@ -2250,7 +2354,7 @@ Pending actions.—In the case of an individual who is a party to a civil action
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) during the period described in subsection (a)(3)(A) unless such individual withdraws from such action by the date that is 90 days after the date on which regulations are promulgated under section 407(a); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) during the period described in subsection (a)(3)(B) unless such individual withdraws from such action by the date that is 90 days after the date on which the regulations are updated under section 407(b)(1).
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -2264,7 +2368,7 @@ In General.—Subject to the limitations under subsection (d), not later than 20
 
 "(b)
 
-Payment Authority.—This title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
+Payment Authority.—For the purpose of providing compensation for claims in Group A as described in section 405(a)(3)(C)(ii), this title constitutes budget authority in advance of appropriations Acts in the amounts provided under subsection (d)(1) and represents the obligation of the Federal Government to provide for the payment of amounts for compensation under this title subject to the limitations under subsection (d).
 
 "(c)
 
@@ -2280,35 +2384,59 @@ Use of separate account.—In making payments under this section, amounts contai
 
 "(d)
 
-Limitation.—
+Limitations.—
 
 &emsp;"(1)
 
-In general.—The total amount of Federal funds paid for compensation under this title, with respect to claims filed on or after the date on which the regulations are updated under section 407(b), shall not exceed $2,775,000,000. Of such amounts, not to exceed $875,000,000 shall be available to pay such claims during the 5-year period beginning on such date.
-
-&emsp;"(2)
-
-Pro-ration and payment of remaining claims.—
+Group a claims.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Special Master shall ratably reduce the amount of compensation due claimants under this title in a manner to ensure, to the extent possible, that—
-
-&emsp;&emsp;&emsp;"(i) all claimants who, before application of the limitation under the second sentence of paragraph (1), would have been determined to be entitled to a payment under this title during such 5-year period, receive a payment during such period; and
-
-&emsp;&emsp;&emsp;"(ii) the total amount of all such payments made during such 5-year period do not exceed the amount available under the second sentence of paragraph (1) to pay claims during such period.
+In general.—The total amount of Federal funds paid for compensation under this title, with respect to claims in Group A as described in section 405(a)(3)(C)(ii), shall not exceed $2,775,000,000.
 
 &emsp;&emsp;"(B)
 
-Payment of remainder of claim amounts.—In any case in which the amount of a claim is ratably reduced pursuant to subparagraph (A), on or after the first day after the 5-year period described in paragraph (1), but in no event later than 1 year after such 5-year period, the Special Master shall pay to the claimant the amount that is equal to the difference between—
+Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of suchAct, authorize payment of the amount of compensation that is equal to the difference between—
 
-&emsp;&emsp;&emsp;"(i) the amount that the claimant would have been paid under this title during such period without regard to the limitation under the second sentence of paragraph (1) applicable to such period; and
+&emsp;&emsp;&emsp;"(i) the amount of compensation that the claimant would have been paid under this title for such claim without regard to the limitation under the second sentence of paragraph (1) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act; and
 
-&emsp;&emsp;&emsp;"(ii) the amount the claimant was paid under this title during such period.
+&emsp;&emsp;&emsp;"(ii) the amount of compensation the claimant was paid under this title for such claim prior to the date of enactment of such Act.
+
+&emsp;"(2)
+
+Group b claims.—
+
+&emsp;&emsp;"(A)
+
+In general.—The total amount of Federal funds paid for compensation under this title, with respect to claims in Group B as described in section 405(a)(3)(C)(iii), shall not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
+
+&emsp;&emsp;"(B)
+
+Payment system.—The Special Master shall establish a system for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii) in accordance with this subsection and section 405(b)(7).
 
 &emsp;&emsp;"(C)
 
-Termination.—Upon completion of all payments pursuant to this subsection, the Victim's Compensation Fund shall be permanently closed.
+Development of agency policies and procedures.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Development.—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
+
+In general.—Not later than 30 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, the Special Master shall develop agency policies and procedures that meet the requirements under subclauses (II) and (III) for providing compensation for claims in Group B as described in section 405(a)(3)(C)(iii), including policies and procedures for presumptive award schedules, administrative expenses, and related internal memoranda.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
+
+Limitation.—The policies and procedures developed under subclause (I) shall ensure that total expenditures, including administrative expenses, in providing compensation for claims in Group B, as described in section 405(a)(3)(C)(iii), do not exceed the amount of funds deposited into the Victims Compensation Fund under section 410.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
+
+Prioritization.—The policies and procedures developed under subclause (I) shall prioritize claims for claimants who are determined by the Special Master as suffering from the most debilitating physical conditions to ensure, for purposes of equity, that such claimants are not unduly burdened by such policies or procedures.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Reassessment.—Beginning 1 year after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, and each year thereafter until the Victims Compensation Fund is permanently closed under section 410(e), the Special Master shall conduct a reassessment of the agency policies and procedures developed under clause (i) to ensure that such policies and procedures continue to satisfy the requirements under subclauses (II) and (III) of such clause. If the Special Master determines, upon reassessment, that such agency policies or procedures do not achieve the requirements of such subclauses, the Special Master shall take additional actions or make such modifications as necessary to achieve such requirements.
 
 "(e)
 
@@ -2356,7 +2484,15 @@ In General.—Not later than 90 days after the date of enactment of this Act \[S
 
 "(b)
 
-Updated Regulations.—Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of Pub. L. 111–347, amending this note\].
+Updated Regulations.—
+
+&emsp;"(1)
+
+James zadroga 9/11 health and compensation act of 2010.—Not later than 180 days after the date of the enactment of the James Zadroga 9/11 Health and Compensation Act of 2010 \[Jan. 2, 2011\], the Special Master shall update the regulations promulgated under subsection (a) to the extent necessary to comply with the provisions of title II of such Act \[title II of Pub. L. 111–347, amending this note\].
+
+&emsp;"(2)
+
+James zadroga 9/11 victim compensation fund reauthorization act.—Not later than 180 days after the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall update the regulations promulgated under subsection (a), and updated under paragraph (1), to the extent necessary to comply with the amendments made by such Act \[amending section 905 of Title 2, The Congress, and amending this note and section 1347 of div. B of Pub. L. 112–10, set out as a note above\].
 
 #### "SEC. 408. LIMITATION ON LIABILITY.
 
@@ -2442,6 +2578,74 @@ Exclusion.—Nothing in this section shall in any way limit any liability of any
 
 "The United States shall have the right of subrogation with respect to any claim paid by the United States under this title, subject to the limitations described in section 408.
 
+#### "SEC. 410. VICTIMS COMPENSATION FUND.
+
+"(a)
+
+In General.—There is established in the Treasury of the United States a fund to be known as the 'Victims Compensation Fund', consisting of amounts deposited into such fund under subsection (b).
+
+"(b)
+
+Deposits Into Fund.—There shall be deposited into the Victims Compensation Fund each of the following:
+
+&emsp;"(1) Effective on the day after the date on which all claimants who file a claim in Group A, as described in section 405(a)(3)(C)(ii), have received the full compensation due such claimants under this title for such claim, any amounts remaining from the total amount made available under section 406 to compensate claims in Group A as described in section 405(a)(3)(C)(ii).
+
+&emsp;"(2) The amount appropriated under subsection (c).
+
+"(c)
+
+Appropriations.—There is appropriated, out of any money in the Treasury not otherwise appropriated, $4,600,000,000 for fiscal year 2017, to remain available until expended, to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
+
+"(d)
+
+Availability of Funds.—Amounts deposited into the Victims Compensation Fund shall be available, without further appropriation, to the Special Master to provide compensation for claims in Group B as described in section 405(a)(3)(C)(iii).
+
+"(e)
+
+Termination.—Upon completion of all payments under this title, the Victims Compensation Fund shall be permanently closed.
+
+#### "SEC. 411. 9-11 RESPONSE AND BIOMETRIC ENTRY-EXIT FEE.
+
+"(a)
+
+Temporary L-1
+
+Visa Fee Increase.—Notwithstanding section 281 of the Immigration and Nationality Act (8 U.S.C. 1351) or any other provision of law, during the period beginning on the date of the enactment of this section \[Dec. 18, 2015\] and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(L) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(L)), including an application for an extension of such status, shall be increased by $4,500 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant's employees are nonimmigrants admitted pursuant to subparagraph (H)(i)(b) or (L) of section 101(a)(15) of such Act.
+
+"(b)
+
+Temporary H-1
+
+b Visa Fee Increase.—Notwithstanding section 281 of the Immigration and Nationality Act (8 U.S.C. 1351) or any other provision of law, during the period beginning on the date of the enactment of this section and ending on September 30, 2025, the combined filing fee and fraud prevention and detection fee required to be submitted with an application for admission as a nonimmigrant under section 101(a)(15)(H)(i)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(i)(b)), including an application for an extension of such status, shall be increased by $4,000 for applicants that employ 50 or more employees in the United States if more than 50 percent of the applicant's employees are such nonimmigrants or nonimmigrants described in section 101(a)(15)(L) of such Act.
+
+"(c) 9-11
+
+Response and Biometric Exit Account.—
+
+&emsp;"(1)
+
+Establishment.—There is established in the general fund of the Treasury a separate account, which shall be known as the '9–11 Response and Biometric Exit Account'.
+
+&emsp;"(2)
+
+Deposits.—
+
+&emsp;&emsp;"(A)
+
+In general.—Subject to subparagraph (B), of the amounts collected pursuant to the fee increases authorized under subsections (a) and (b)—
+
+&emsp;&emsp;&emsp;"(i) 50 percent shall be deposited in the general fund of the Treasury; and
+
+&emsp;&emsp;&emsp;"(ii) 50 percent shall be deposited as offsetting receipts into the 9–11 Response and Biometric Exit Account, and shall remain available until expended.
+
+&emsp;&emsp;"(B)
+
+Termination of deposits in account.—After a total of $1,000,000,000 is deposited into the 9–11 Response and Biometric Exit Account under subparagraph (A)(ii), all amounts collected pursuant to the fee increases authorized under subsections (a) and (b) shall be deposited in the general fund of the Treasury.
+
+&emsp;"(3)
+
+Use of funds.—For fiscal year 2017, and each fiscal year thereafter, amounts in the 9–11 Response and Biometric Exit Account shall be available to the Secretary of Homeland Security without further appropriation for implementing the biometric entry and exit data system described in section 7208 of the Intelligence Reform and Terrorism Prevention Act of 2004 (8 U.S.C. 1365b).
+
 #### "TITLE V—AIR TRANSPORTATION SAFETY
 
 #### "SEC. 501. INCREASED AIR TRANSPORTATION SAFETY.
@@ -2504,7 +2708,7 @@ Requirements for assessment of cost pools.—In carrying out subparagraph (B)(vi
 
 &emsp;&emsp;&emsp;"(i) review costs that cannot reliably be attributed to specific Administration services or activities (called 'common and fixed costs' in the Administration Cost Allocation Study) and consider alternative methods for allocating such costs; and
 
-&emsp;&emsp;&emsp;"(ii) perform appropriate tests to assess relationships between costs in the various cost pools and activities and services to which the costs are attributed by the Administration.
+&emsp;&emsp;&emsp;"(ii) perform appropriate tests to assess relationships between costs in the various cost poolsand activities and services to which the costs are attributed by the Administration.
 
 &emsp;"(3)
 
@@ -2606,7 +2810,7 @@ Initiation.—Not later than 30 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Assessment criteria.—The Administrator shall provide to the independent entity estimates ofthe financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
+Assessment criteria.—The Administrator shall provide to the independent entity estimates of the financial requirements of the Administration for the period described in paragraph (1), using as a base the fiscal year 1997 appropriation levels established by Congress. The independent assessment shall be based on an objective analysis of agency funding needs.
 
 &emsp;"(3)
 
@@ -2732,7 +2936,7 @@ Additional recommendations.—The aviation funding task force report may also ma
 
 &emsp;&emsp;&emsp;"(iv) the elimination of unneeded programs; and
 
-&emsp;&emsp;&emsp;"(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, and revolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
+&emsp;&emsp;&emsp;"(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, andrevolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
 
 &emsp;&emsp;"(D)
 
@@ -2848,11 +3052,11 @@ Publication.—The Secretary shall cause a copy of the report to be printed in t
 
 &emsp;"(2)
 
-Report by the administrator based on final report of aviation safety task force.—Not laterthan 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
+Report by the administrator based on final report of aviation safety task force.—Not later than 30 days after receiving the report of the aviation safety task force, the Administrator shall transmit the report to Congress, together with the Administrator's recommendations for improving aviation safety in the United States.
 
 "(d)
 
-GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
+GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the mannerin which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
 "(e)
 
@@ -2962,13 +3166,13 @@ In general.—The Administrator may consider the feasibility of using the flight
 
 &emsp;"(2)
 
-Passenger cabins.—The Administrator may also consider the feasibility of using the flight datarecording system to monitor and record data related to the air quality in passengers cabins of aircraft."
+Passenger cabins.—The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft."
 
 Pub. L. 103–305, title III, §304, Aug. 23, 1994, 108 Stat. 1591, provided that:
 
 "(a)
 
-Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with the heads of other appropriate Federal agencies, shall establish a research program to determine—
+Establishment.—The Administrator \[of the Federal Aviation Administration\], in consultation with theheads of other appropriate Federal agencies, shall establish a research program to determine—
 
 &emsp;"(1) what, if any, aircraft cabin air conditions, including pressure altitude systems, on flights within the United States are harmful to the health of airline passengers and crew, as indicated by physical symptoms such as headaches, nausea, fatigue, and lightheadedness; and
 
@@ -3152,6 +3356,98 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Promoting Economic Competitiveness While Safeguarding Privacy, Civil Rights, and Civil Liberties in Domestic Use of Unmanned Aircraft Systems
+
+Memorandum of President of the United States, Feb. 15, 2015, 80 F.R. 9355, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Unmanned Aircraft Systems (UAS) technology continues to improve rapidly, and increasingly UAS are able to perform a variety of missions with greater operational flexibility and at a lower cost than comparable manned aircraft. A wide spectrum of domestic users—including industry, private citizens, and Federal, State, local, tribal, and territorial governments—are using or expect to use these systems, which may play a transformative role in fields as diverse as urban infrastructure management, farming, public safety, coastal security, military training, search and rescue, and disaster response.
+
+The Congress recognized the potential wide-ranging benefits of UAS operations within the United States in the FAA Modernization and Reform Act of 2012 (Public Law 112–95), which requires a plan to safely integrate civil UAS into the National Airspace System (NAS) by September 30, 2015. As compared to manned aircraft, UAS may provide lower-cost operation and augment existing capabilities while reducing risks to human life. Estimates suggest the positive economic impact to U.S. industry of the integration of UAS into the NAS could be substantial and likely will grow for the foreseeable future.
+
+As UAS are integrated into the NAS, the Federal Government will take steps to ensure that the integration takes into account not only our economic competitiveness and public safety, but also the privacy, civil rights, and civil liberties concerns these systems may raise.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish transparent principles that govern the Federal Government's use of UAS in the NAS, and to promote the responsible use of this technology in the private and commercial sectors, it is hereby ordered as follows:
+
+Section 1. <i>UAS Policies and Procedures for Federal Government Use</i>. The Federal Government currently operates UAS in the United States for several purposes, including to manage Federal lands, monitor wildfires, conduct scientific research, monitor our borders, support law enforcement, and effectively train our military. As with information collected by the Federal Government using any technology, where UAS is the platform for collection, information must be collected, used, retained, and disseminated consistent with the Constitution, Federal law, and other applicable regulations and policies. Agencies must, for example, comply with the Privacy Act of 1974 (5 U.S.C. 552a) (the "Privacy Act"), which, among other things, restricts the collection and dissemination of individuals' information that is maintained in systems of records, including personally identifiable information (PII), and permits individuals to seek access to and amendment of records.
+
+(a) <i>Privacy Protections</i>. Particularly in light of the diverse potential uses of UAS in the NAS, expected advancements in UAS technologies, and the anticipated increase in UAS use in the future, the Federal Government shall take steps to ensure that privacy protections and policies relative to UAS continue to keep pace with these developments. Accordingly, agencies shall, prior to deployment of new UAS technology and at least every 3 years, examine their existing UAS policies and procedures relating to the collection, use, retention, and dissemination of information obtained by UAS, to ensure that privacy, civil rights, and civil liberties are protected. Agencies shall update their policies and procedures, or issue new policies and procedures, as necessary. In addition to requiring compliance with the Privacy Act in applicable circumstances, agencies that collect information through UAS in the NAS shall ensure that their policies and procedures with respect to such information incorporate the following requirements:
+
+(i) <i>Collection and Use</i>. Agencies shall only collect information using UAS, or use UAS-collected information, to the extent that such collection or use is consistent with and relevant to an authorized purpose.
+
+(ii) <i>Retention</i>. Information collected using UAS that may contain PII shall not be retained for more than 180 days unless retention of the information is determined to be necessary to an authorized mission of the retaining agency, is maintained in a system of records covered by the Privacy Act, or is required to be retained for a longer period by any other applicable law or regulation.
+
+(iii) <i>Dissemination</i>. UAS-collected information that is not maintained in a system of records covered by the Privacy Act shall not be disseminated outside of the agency unless dissemination is required by law, or fulfills an authorized purpose and complies with agency requirements.
+
+(b) <i>Civil Rights and Civil Liberties Protections</i>. To protect civil rights and civil liberties, agencies shall:
+
+(i) ensure that policies are in place to prohibit the collection, use, retention, or dissemination of data in any manner that would violate the First Amendment or in any manner that would discriminate against persons based upon their ethnicity, race, gender, national origin, religion, sexual orientation, or gender identity, in violation of law;
+
+(ii) ensure that UAS activities are performed in a manner consistent with the Constitution and applicable laws, Executive Orders, and other Presidential directives; and
+
+(iii) ensure that adequate procedures are in place to receive, investigate, and address, as appropriate, privacy, civil rights, and civil liberties complaints.
+
+(c) <i>Accountability</i>. To provide for effective oversight, agencies shall:
+
+(i) ensure that oversight procedures for agencies' UAS use, including audits or assessments, comply with existing agency policies and regulations;
+
+(ii) verify the existence of rules of conduct and training for Federal Government personnel and contractors who work on UAS programs, and procedures for reporting suspected cases of misuse or abuse of UAS technologies;
+
+(iii) establish policies and procedures, or confirm that policies and procedures are in place, that provide meaningful oversight of individuals who have access to sensitive information (including any PII) collected using UAS;
+
+(iv) ensure that any data-sharing agreements or policies, data use policies, and record management policiesapplicable to UAS conform to applicable laws, regulations, and policies;
+
+(v) establish policies and procedures, or confirm that policies and procedures are in place, to authorize the use of UAS in response to a request for UAS assistance in support of Federal, State, local, tribal, or territorial government operations; and
+
+(vi) require that State, local, tribal, and territorial government recipients of Federal grant funding for the purchase or use of UAS for their own operations have in place policies and procedures to safeguard individuals' privacy, civil rights, and civil liberties prior to expending such funds.
+
+(d) <i>Transparency</i>. To promote transparency about their UAS activities within the NAS, agencies that use UAS shall, while not revealing information that could reasonably be expected to compromise law enforcement or national security:
+
+(i) provide notice to the public regarding where the agency's UAS are authorized to operate in the NAS;
+
+(ii) keep the public informed about the agency's UAS program as well as changes that would significantly affect privacy, civil rights, or civil liberties; and
+
+(iii) make available to the public, on an annual basis, a general summary of the agency's UAS operations during the previous fiscal year, to include a brief description of types or categories of missions flown, and the number of times the agency provided assistance to other agencies, or to State, local, tribal, or territorial governments.
+
+(e) <i>Reports</i>. Within 180 days of the date of this memorandum, agencies shall provide the President with a status report on the implementation of this section. Within 1 year of the date of this memorandum, agencies shall publish information on how to access their publicly available policies and procedures implementing this section.
+
+Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal uses of UAS described in section 1 of this memorandum, the combination of greater operational flexibility, lower capital requirements, and lower operating costs could allow UAS to be a transformative technology in the commercial and private sectors for fields as diverse as urban infrastructure management, farming, and disaster response. Although these opportunities will enhance American economic competitiveness, our Nation must be mindful of the potential implications for privacy, civil rights, and civil liberties. The Federal Government is committed to promoting the responsible use of this technology in a way that does not diminish rights and freedoms.
+
+(a) There is hereby established a multi-stakeholder engagement process to develop and communicate best practices for privacy, accountability, and transparency issues regarding commercial and private UAS use in the NAS. The process will include stakeholders from the private sector.
+
+(b) Within 90 days of the date of this memorandum, the Department of Commerce, through the National Telecommunications and Information Administration, and in consultation with other interested agencies, will initiate this multi-stakeholder engagement process to develop a framework regarding privacy, accountability, and transparency for commercial and private UAS use. For this process, commercial and private use includes the use of UAS for commercial purposes as civil aircraft, even if the use would qualify a UAS as a public aircraft under 49 U.S.C. 40102(a)(41) and 40125. The process shall not focus on law enforcement or other noncommercial governmental use.
+
+Sec. 3. <i>Definitions</i>. As used in this memorandum:
+
+(a) "Agencies" means executive departments and agencies of the Federal Government that conduct UAS operations in the NAS.
+
+(b) "Federal Government use" means operations in which agencies operate UAS in the NAS. Federal Government use includes agency UAS operations on behalf of another agency or on behalf of a State, local, tribal, or territorial government, or when a nongovernmental entity operates UAS on behalf of an agency.
+
+(c) "National Airspace System" means the common network of U.S. airspace; air navigation facilities, equipment, and services; airports or landing areas; aeronautical charts, information, and services; related rules, regulations, and procedures; technical information; and manpower and material. Included in this definition are system components shared jointly by the Departments of Defense, Transportation, and Homeland Security.
+
+(d) "Unmanned Aircraft System" means an unmanned aircraft (an aircraft that is operated without direct human intervention from within or on the aircraft) and associated elements (including communication links and components that control the unmanned aircraft) that are required for the pilot or system operator in command to operate safely and efficiently in the NAS.
+
+(e) "Personally identifiable information" refers to information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual, as set forth in Office of Management and Budget Memorandum M–07–16 (May 22, 2007) and Office of Management and Budget Memorandum M–10–23 (June 25, 2010).
+
+Sec. 4. <i>General Provisions</i>. (a) This memorandum complements and is not intended to supersede existing laws and policies for UAS operations in the NAS, including the National Strategy for Aviation Security and its supporting plans, the FAA Modernization and Reform Act of 2012, the Federal Aviation Administration's (FAA's) Integration of Civil UAS in the NAS Roadmap, and the FAA's UAS Comprehensive Plan.
+
+(b) This memorandum shall be implemented consistent with applicable law, and subject to the availability of appropriations.
+
+(c) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(d) Independent agencies are strongly encouraged to comply with this memorandum.
+
+(e) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(f) The Secretary of Commerce is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Definitions of Terms in Title II of Pub. L. 112–95
 
 Pub. L. 112–95, title IX, §902, Feb. 14, 2012, 126 Stat. 138, provided that: " In this title \[amending sections 44504, 44505, 44511, 44513, and 48102 of this title, enacting provisions set out as notes under this section and sections 44501, 44504, 44505, and 44513 of this title, and amending provisions set out as notes under section 44504 of this title\], the following definitions apply:
@@ -3178,5 +3474,5 @@ NOAA.—The term 'NOAA' means the National Oceanic and Atmospheric Administratio
 
 #### Definitions of Terms in Pub. L. 107–71
 
-For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub.L. 107–71, set out as a note under section 40102 of this title.
 

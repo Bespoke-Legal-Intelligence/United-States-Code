@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ In general.—There is jurisdiction over an offense under subsection (a) if—
 
 &emsp;&emsp;(E) the offense occurs in or affects interstate or foreign commerce; or
 
-&emsp;&emsp;(F) an offender aids or abets any person over whom jurisdiction exists under this paragraph in committing an offense under subsection (a) or conspires with any personover whom jurisdiction exists under this paragraph to commit an offense under subsection (a).
+&emsp;&emsp;(F) an offender aids or abets any person over whom jurisdiction exists under this paragraph in committing an offense under subsection (a) or conspires with any person over whom jurisdiction exists under this paragraph to commit an offense under subsection (a).
 
 &emsp;(2)
 
@@ -214,7 +214,7 @@ Rule of Construction.—Nothing in this section shall be construed or applied so
 
 Exception.—No person may be prosecuted under this section in connection with the term "personnel", "training", or "expert advice or assistance" if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608.)
+(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608; Pub. L. 114–23, title VII, §704, June 2, 2015, 129 Stat. 300.)
 
 #### References in Text
 
@@ -229,6 +229,8 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6), is classified to section 1189 of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–23 substituted "20 years" for "15 years".
 
 <b>2009</b>—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted "14 days" for "10 days".
 
@@ -270,7 +272,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(6) some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds within the United States, or use the United States as a conduit for the receipt of funds raised in other nations; and
 
-&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
+&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct thatany contribution to such an organization facilitates that conduct.
 
 "(b)
 

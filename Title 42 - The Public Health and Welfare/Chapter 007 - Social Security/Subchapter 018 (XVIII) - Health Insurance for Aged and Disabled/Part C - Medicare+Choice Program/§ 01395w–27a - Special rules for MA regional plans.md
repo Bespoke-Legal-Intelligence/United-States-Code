@@ -72,7 +72,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
-&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefitscovered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
+&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
 &emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
@@ -200,7 +200,7 @@ An MA regional plan shall include the following:
 
 #### (3) Statutory region-specific non-drug amount
 
-&emsp;For purposes of paragraph (2)(A)(i), the term "statutory region-specific non-drug amount" means, for an MA region and year, an amount equal the sum (for each MA local area within the region) of the product of—
+&emsp;For purposes of paragraph (2)(A)(i), the term "statutory region-specific non-drug amount" means, for an MA region and year, an amountequal the sum (for each MA local area within the region) of the product of—
 
 &emsp;&emsp;(A) MA area-specific non-drug monthly benchmark amount under section 1395w–23(j)(1)(A) of this title for that area and year; and
 
@@ -272,7 +272,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 #### (2) Payment amounts
 
-&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MA regional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
+&emsp;The payment amount under this subsection for inpatient hospital services provided by a subsection (d) hospital to an enrollee in an MAregional plan shall be, subject to the limitation of funds under paragraph (3), the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount of payment that would have been paid for such services under this subchapter if the enrollees were covered under the original medicare fee-for-service program option and the hospital were a critical access hospital; exceeds
 

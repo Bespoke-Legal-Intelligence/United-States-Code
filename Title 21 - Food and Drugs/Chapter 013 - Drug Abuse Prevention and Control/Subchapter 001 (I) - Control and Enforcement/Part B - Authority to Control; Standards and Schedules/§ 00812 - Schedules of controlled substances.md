@@ -496,7 +496,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;"(1) Gamma hydroxybutyric acid (also called G, Liquid X, Liquid Ecstasy, Grievous Bodily Harm, Georgia Home Boy, Scoop) has become a significant and growing problem in law enforcement. At least 20 States have scheduled such drug in their drug laws and law enforcement officials have been experiencing an increased presence of the drug in driving under the influence, sexual assault, and overdose cases especially at night clubs and parties.
 
-&emsp;"(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid ('GHB') is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. It is difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
+&emsp;"(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid ('GHB') is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. Itis difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
 
 &emsp;"(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug.
 

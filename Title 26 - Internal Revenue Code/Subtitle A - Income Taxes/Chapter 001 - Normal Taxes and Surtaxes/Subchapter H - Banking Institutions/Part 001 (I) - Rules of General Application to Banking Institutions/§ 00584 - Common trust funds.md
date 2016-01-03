@@ -200,7 +200,7 @@ Amendment by section 612(b)(2) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, seesection 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1983 Amendment
 

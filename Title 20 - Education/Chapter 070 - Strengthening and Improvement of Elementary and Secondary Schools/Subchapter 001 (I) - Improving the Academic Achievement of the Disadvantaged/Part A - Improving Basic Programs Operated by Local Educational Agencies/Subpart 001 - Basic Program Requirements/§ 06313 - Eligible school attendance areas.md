@@ -16,11 +16,17 @@
 
 #### (3) Ranking order
 
-&emsp;If funds allocated in accordance with subsection (c) of this section are insufficient to serve all eligible school attendance areas, a local educational agency shall—
+#### (A) Ranking
 
-&emsp;&emsp;(A) annually rank, without regard to grade spans, such agency's eligible school attendance areas in which the concentration ofchildren from low-income families exceeds 75 percent from highest to lowest according to the percentage of children from low-income families; and
+&emsp;&emsp;Except as provided in subparagraph (B), if funds allocated in accordance with subsection (c) are insufficient to serve all eligible school attendance areas, a local educational agency shall—
 
-&emsp;&emsp;(B) serve such eligible school attendance areas in rank order.
+&emsp;&emsp;&emsp;(i) annually rank, without regard to grade spans, such agency's eligible school attendance areas in which the concentration of children from low-income families exceeds 75 percent from highest to lowest according to the percentage of children from low-income families; and
+
+&emsp;&emsp;&emsp;(ii) serve such eligible school attendance areas in rank order.
+
+#### (B) Exception
+
+&emsp;&emsp;A local educational agency may lower the threshold in subparagraph (A)(i) to 50 percent for high schools served by such agency.
 
 #### (4) Remaining funds
 
@@ -32,13 +38,31 @@
 
 #### (5) Measures
 
-&emsp;The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+#### (A) In general
 
-&emsp;&emsp;(A) to identify eligible school attendance areas;
+&emsp;&emsp;Except as provided in subparagraph (B), a local educational agency shall use the same measure of poverty, which measure shall be the number of children aged 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or the number of children eligible to receive medical assistance under the Medicaid Program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
 
-&emsp;&emsp;(B) to determine the ranking of each area; and
+&emsp;&emsp;&emsp;(i) to identify eligible school attendance areas;
 
-&emsp;&emsp;(C) to determine allocations under subsection (c) of this section.
+&emsp;&emsp;&emsp;(ii) to determine the ranking of each area; and
+
+&emsp;&emsp;&emsp;(iii) to determine allocations under subsection (c).
+
+#### (B) Secondary schools
+
+&emsp;&emsp;For measuring the number of students in low-income families in secondary schools, the local educational agency shall use the same measure of poverty, which shall be—
+
+&emsp;&emsp;&emsp;(i) the measure described under subparagraph (A); or
+
+&emsp;&emsp;&emsp;(ii) subject to meeting the conditions of subparagraph (C), an accurate estimate of the number of students in low-income families in a secondary school that is calculated by applying the average percentage of students in low-income families of the elementary school attendance areas as calculated under subparagraph (A) that feed into the secondary school to the number of students enrolled in such school.
+
+#### (C) Measure of poverty
+
+&emsp;&emsp;The local educational agency shall have the option to use the measure of poverty described in subparagraph (B)(ii) after—
+
+&emsp;&emsp;&emsp;(i) conducting outreach to secondary schools within such agency to inform such schools of the option to use such measure; and
+
+&emsp;&emsp;&emsp;(ii) a majority of such schools have approved the use of such measure.
 
 #### (6) Exception
 
@@ -92,29 +116,89 @@
 
 &emsp;&emsp;A local educational agency may reduce the amount of funds allocated under subparagraph (A) for a school attendance area or school by the amount of any supplemental State and local funds expended in that school attendance area or school for programs that meet the requirements of section 6314 or 6315 of this title.
 
-#### (3) Reservation
+#### (3) Reservation of funds
 
-&emsp;A local educational agency shall reserve such funds as are necessary under this part to provide services comparable to those provided to children in schools funded under this part to serve—
+#### (A) In general
 
-&emsp;&emsp;(A) homeless children who do not attend participating schools, including providing educationally related support services to children in shelters and other locations where children may live;
+&emsp;&emsp;A local educational agency shall reserve such funds as are necessary under this part, determined in accordance with subparagraphs (B) and (C), to provide services comparable to those provided to children in schools funded under this part to serve—
 
-&emsp;&emsp;(B) children in local institutions for neglected children; and
+&emsp;&emsp;&emsp;(i) homeless children and youths, including providing educationally related support services to children in shelters and other locations where children may live;
 
-&emsp;&emsp;(C) if appropriate, children in local institutions for delinquent children, and neglected or delinquent children in community day school programs.
+&emsp;&emsp;&emsp;(ii) children in local institutions for neglected children; and
+
+&emsp;&emsp;&emsp;(iii) if appropriate, children in local institutions for delinquent children, and neglected or delinquent children in community day programs.
+
+#### (B) Method of determination
+
+&emsp;&emsp;The share of funds determined under subparagraph (A) shall be determined—
+
+&emsp;&emsp;&emsp;(i) based on the total allocation received by the local educational agency; and
+
+&emsp;&emsp;&emsp;(ii) prior to any allowable expenditures or transfers by the local educational agency.
+
+#### (C) Homeless children and youths
+
+&emsp;&emsp;Funds reserved under subparagraph (A)(i) may be—
+
+&emsp;&emsp;&emsp;(i) determined based on a needs assessment of homeless children and youths in the local educational agency, taking into consideration the number and needs of homeless children and youths in the local educational agency, and which needs assessment may be the same needs assessment as conducted under section 11433(b)(1) of title 42; and
+
+&emsp;&emsp;&emsp;(ii) used to provide homeless children and youths with services not ordinarily provided to other students under this part, including providing—
+
+&emsp;&emsp;&emsp;&emsp;(I) funding for the liaison designated pursuant to section 11432(g)(1)(J)(ii) of title 42; and
+
+&emsp;&emsp;&emsp;&emsp;(II) transportation pursuant to section 11432(g)(1)(J)(iii) of such title.
 
 #### (4) Financial incentives and rewards reservation
 
-&emsp;A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II of this chapter, and not more than 5 percent of those funds received by the local educational agency under subpart 2 of this part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for school improvement, corrective action, and restructuring under section 6316(b) of this title for the purpose of attracting and retaining qualified and effective teachers.
+&emsp;A local educational agency may reserve such funds as are necessary from those funds received by the local educational agency under subchapter II of this chapter, and not more than 5 percent of those funds received by the local educational agency under subpart 2 of this part, to provide financial incentives and rewards to teachers who serve in schools eligible under this section and identified for comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title for the purpose of attracting and retaining qualified and effective teachers.
 
-(Pub. L. 89–10, title I, §1113, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1469.)
+#### (5) Early childhood education
+
+&emsp;A local educational agency may reserve funds made available to carry out this section to provide early childhood education programs for eligible children.
+
+(Pub. L. 89–10, title I, §1113, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1469; amended Pub. L. 114–95, title I, §1007, Dec. 10, 2015, 129 Stat. 1859.)
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(5), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(5)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 6313, Pub. L. 89–10, title I, §1113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3532; amended Pub. L. 104–193, title I, §110(j)(1), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 106–78, title VII, §752(b)(10), Oct. 22, 1999, 113 Stat. 1169, related to eligible school attendance areas, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(3). Pub. L. 114–95, §1007(1)(A), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "If funds allocated in accordance with subsection (c) of this section are insufficient to serve all eligible school attendance areas, a local educational agency shall—
+
+&emsp;"(A) annually rank, without regard to grade spans, such agency's eligible school attendance areas in which the concentration of children from low-income families exceeds 75 percent from highest to lowest according to the percentage of children from low-income families; and
+
+&emsp;"(B) serve such eligible school attendance areas in rank order."
+
+Subsec. (a)(5). Pub. L. 114–95, §1007(1)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act, the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+
+&emsp;"(A) to identify eligible school attendance areas;
+
+&emsp;"(B) to determine the ranking of each area; and
+
+&emsp;"(C) to determine allocations under subsection (c) of this section."
+
+Subsec. (b)(1)(D)(i). Pub. L. 114–95, §1007(2), made technical amendment to reference in original act which appears in text as reference to section 6321(c) of this title.
+
+Subsec. (c)(3). Pub. L. 114–95, §1007(3)(A), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A local educational agency shall reserve such funds as are necessary under this part to provide services comparable to those provided to children in schools funded under this part to serve—
+
+&emsp;"(A) homeless children who do not attend participating schools, including providing educationally related support services to children in shelters and other locations where children may live;
+
+&emsp;"(B) children in local institutions for neglected children; and
+
+&emsp;"(C) if appropriate, children in local institutions for delinquent children, and neglected or delinquent children in community day school programs."
+
+Subsec. (c)(4). Pub. L. 114–95, §1007(3)(B), substituted "comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d)" for "school improvement, corrective action, and restructuring under section 6316(b)".
+
+Subsec. (c)(5). Pub. L. 114–95, §1007(3)(C), added par. (5).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

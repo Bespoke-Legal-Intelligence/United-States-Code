@@ -28,7 +28,7 @@ Objectives of Aeronautical and Space Activities.—The aeronautical and space ac
 
 &emsp;(6) The making available to agencies directly concerned with national defense of discoveries that have military value or significance, and the furnishing by such agencies, to the civilian agency established to direct and control nonmilitary aeronautical and space activities, of information as to discoveries which have value or significance to that agency.
 
-&emsp;(7) Cooperation by the United States with other nations and groups of nations in work done pursuant to this chapter and in the peaceful application of the results thereof.
+&emsp;(7) Cooperation by the United States with other nations and groups of nations in workdone pursuant to this chapter and in the peaceful application of the results thereof.
 
 &emsp;(8) The most effective utilization of the scientific and engineering resources of the United States, with close cooperation among all interested agencies of the United States in order to avoid unnecessary duplication of effort, facilities, and equipment.
 
@@ -130,7 +130,7 @@ Pub. L. 102–195, §§2, 3, Dec. 9, 1991, 105 Stat. 1605, 1606, provided that:
 
 &emsp;"(6) increased use of defense-related remote sensing data and data technology by civilian agencies and the scientific community can benefit national environmental study and monitoring programs;
 
-&emsp;"(7) the generation of trained scientists and engineers through educational initiatives and academicresearch programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
+&emsp;"(7) the generation of trained scientists and engineers through educational initiatives and academic research programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
 
 &emsp;"(8) the strengthening and expansion of the Nation's space transportation infrastructure, including the enhancement of launch sites and launch site support facilities, are essential to support the full range of the Nation's space-related activities;
 
@@ -182,7 +182,7 @@ Pub. L. 101–611, title I, §§101, 102, Nov. 16, 1990, 104 Stat. 3188, 3189, p
 
 &emsp;"(12) the United States needs to maintain a strong program with respect to transatmospheric research and technology by developing and demonstrating National Aero-Space Plane technology by a mid-decade date certain;
 
-&emsp;"(13) the National Aeronautics and Space Administration is primarily responsible for formulating and implementing policy that supports and encourages civil aeronautics and space activities in the United States; and
+&emsp;"(13) the National Aeronautics and Space Administration is primarily responsible for formulating andimplementing policy that supports and encourages civil aeronautics and space activities in the United States; and
 
 &emsp;"(14) commercial activities of the private sector will substantially and increasingly contribute to the strength of both the United States space program and the national economy.
 

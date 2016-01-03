@@ -76,7 +76,7 @@ Pub. L. 91–686, §2(b), Jan. 12, 1971, 84 Stat. 2071, provided that: "The amen
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 #### Effective Date of 1956 Amendment
 

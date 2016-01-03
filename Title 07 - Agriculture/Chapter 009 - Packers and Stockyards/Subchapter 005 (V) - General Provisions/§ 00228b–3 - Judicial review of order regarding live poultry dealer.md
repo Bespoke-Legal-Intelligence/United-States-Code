@@ -2,7 +2,7 @@
 
 #### (a) Finality of order unless appeal to court of appeals; time limit; bond
 
-An order made under section 228b–2 of this title shall be final and conclusive unless within 30 days after service the live poultry dealer appeals to the court of appeals for the circuit in which he has his principal place of business, by filing with the clerk of such court a written petition praying that the Secretary's order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such live poultry dealer will pay the costs of the proceedings if the court so directs.
+An order made under section 228b–2 of this title shall be final and conclusive unless within 30 days after service the live poultry dealer appeals to the court of appeals for the circuit in which he has his principal place of business, by filing with the clerk of such court a written petition praying that the Secretary's order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such livepoultry dealer will pay the costs of the proceedings if the court so directs.
 
 #### (b) Notification of appeal to Secretary; filing of record with court
 
@@ -22,7 +22,7 @@ The court may affirm, modify, or set aside the order of the Secretary.
 
 #### (f) Taking of additional evidence; modified or additional findings by Secretary
 
-If the court determines that the just and proper disposition of the case requires the taking ofadditional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
+If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
 
 #### (g) Affirmance or modification of order as injunction
 

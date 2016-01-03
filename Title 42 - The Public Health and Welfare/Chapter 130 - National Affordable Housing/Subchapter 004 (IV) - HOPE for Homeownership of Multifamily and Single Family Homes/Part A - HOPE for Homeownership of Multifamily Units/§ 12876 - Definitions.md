@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;(7) The term "public housing agency" has the meaning given such term in section 1437a(b)(6) of this title.
 
-&emsp;(8) The term "recipient" means an applicant approved to receive a grant under this title <sup>1</sup> or such other entity specified in the approved application that will assume the obligations of the recipient under this part.
+&emsp;(8) The term "recipient" means an applicant approved to receive a grant under this title <sup>1</sup>or such other entity specified in the approved application that will assume the obligations of the recipient under this part.
 
 &emsp;(9) The term "resident council" means any incorporated nonprofit organization or association that—
 

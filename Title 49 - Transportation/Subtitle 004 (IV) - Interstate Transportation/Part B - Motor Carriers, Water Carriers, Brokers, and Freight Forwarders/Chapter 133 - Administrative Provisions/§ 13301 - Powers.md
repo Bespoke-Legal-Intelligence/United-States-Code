@@ -42,7 +42,7 @@ Notice of deposition.—Before taking a deposition, reasonable notice must be gi
 
 &emsp;(5)
 
-Transcript.—The testimony of a person deposed under this subsection shall be takenunder oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
+Transcript.—The testimony of a person deposed under this subsection shall be taken under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
 
 &emsp;(6)
 
@@ -64,5 +64,5 @@ Provisions similar to those in this section were contained in section 10321 of t
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

@@ -24,7 +24,7 @@ No impound, trust, or other type of account for the payment of property taxes, i
 
 The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
 
-&emsp;(1) operates predominantly in rural or underserved areas;
+&emsp;(1) operates in rural or underserved areas;
 
 &emsp;(2) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
 
@@ -130,11 +130,11 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) A clear and prominent statement that the consumer is responsible for personally and directly paying the non-escrowed items, in addition to paying the mortgage loan payment, in the absence of any such account, and the fact that the costs for taxes, insurance, and related fees can be substantial.
 
-&emsp;&emsp;(C) A clear explanation of the consequences of any failure to pay non-escrowed items, including the possible requirement for the forced placement of insurance by the creditor or servicer and the potentially higher cost (including any potential commission payments to the servicer) or reduced coverage for the consumer in the event of any such creditor-placed insurance.
+&emsp;&emsp;(C) A clear explanation of the consequences of any failure to pay non-escrowed items, including the possible requirementfor the forced placement of insurance by the creditor or servicer and the potentially higher cost (including any potential commission payments to the servicer) or reduced coverage for the consumer in the event of any such creditor-placed insurance.
 
 &emsp;&emsp;(D) Such other information as the Bureau determines necessary for the protection of the consumer.
 
-(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181.)
+(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, §89003(2), Dec. 4, 2015, 129 Stat. 1801.)
 
 #### References in Text
 
@@ -148,13 +148,15 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is titl
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–94 struck out "predominantly" after "operates".
+
 <b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by section 1462 of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
 

@@ -84,7 +84,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: "This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notesunder sections 1101, 1351, and 1365a of this title\] may be cited as the 'Enhanced Border Security and Visa Entry Reform Act of 2002'."
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: "This Act \[enacting this chapter, amendingsections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the 'Enhanced Border Security and Visa Entry Reform Act of 2002'."
 
 #### Transfer of Functions
 

@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section 3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
+&emsp;&emsp;For any procurement by the Secretary of property or services for use (as determined by the Secretary) in performing, administering, or supporting qualified countermeasure research or development activities under this section that the Secretary determines necessary to respond to pressing research and development needs under this section, the amount specified in section 134 of title 41, as applicable pursuant to section3101(b)(1)(A) of title 41, shall be deemed to be $25,000,000 in the administration, with respect to such procurement, of—
 
 &emsp;&emsp;&emsp;(i) section 3305(a)(1) of title 41 and its implementing regulations; and
 
@@ -106,7 +106,7 @@
 
 #### (C) Exception to preference for purchase card mechanism
 
-&emsp;&emsp;No provision of law establishing a preference for using a Government purchasecard method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
+&emsp;&emsp;No provision of law establishing a preference for using a Government purchase card method for purchases shall apply to purchases that are under this paragraph and that are greater than $2,500.
 
 #### (4) Review
 
@@ -170,7 +170,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether aperson, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
+&emsp;&emsp;The Secretary shall institute appropriate internal controls for contracts under this subsection, including procedures for the Secretary to make a determination of whether a person, or an officer, employee, or governing board member of a person, is deemed to be an employee of the Department of Health and Human Services pursuant to paragraph (2).
 
 #### (B) Determination of employee status to be final
 
@@ -184,7 +184,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any other personnel authorities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, without regard to those provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, appoint professional and technical employees, not to exceed 30 such employees at any time, to positions in the National Institutes of Health to perform, administer, or support qualified countermeasure research and development activities in carrying out this section.
+&emsp;In addition to any other personnel authorities, the Secretary may, as the Secretary determines necessary to respond to pressing qualified countermeasure research and development needs under this section, without regard to those provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, appoint professional and technical employees, not to exceed 30 such employees at any time, to positions in the National Institutes of Health to perform, administer, or support qualified countermeasure research and development activities in carrying out this section.
 
 #### (2) Limitations
 
@@ -248,7 +248,7 @@ In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41
 
 #### Rule of Construction
 
-Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[6 U.S.C. 182(2), (4), 184(a), (b)\]."
+Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[6 U.S.C. 182(2), (4), 184(a), (b)\]."
 
 #### Collaboration and Coordination
 
@@ -332,7 +332,7 @@ Extension.—The Attorney General may extend the 15-day period referred to in su
 
 &emsp;&emsp;"(C)
 
-Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extentthat the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
 &emsp;"(5)
 
@@ -412,7 +412,7 @@ Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: "The Secret
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the headsof other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents
 

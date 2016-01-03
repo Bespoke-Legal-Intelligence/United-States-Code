@@ -12,7 +12,7 @@
 
 &emsp;(3) to agree with the Secretary on the fair and reasonable amounts which may be charged under subsection (a).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1743; Pub. L. 94–502, title III, §310(22), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §423(b)(1)(A),\(2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3543, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 107–103, title I, §109(b)(3), (4), Dec. 27, 2001, 115 Stat. 986.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1743; Pub. L. 94–502, title III, §310(22), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3543, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 107–103, title I, §109(b)(3), (4), Dec. 27, 2001, 115 Stat. 986.)
 
 #### Amendments
 

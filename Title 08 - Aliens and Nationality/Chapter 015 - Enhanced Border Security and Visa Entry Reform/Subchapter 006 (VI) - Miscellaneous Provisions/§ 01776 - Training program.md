@@ -38,7 +38,7 @@ The training program developed under paragraph (1)(C) shall include training in�
 
 #### (ii) Report to Congress
 
-&emsp;&emsp;Not later than 12 months after December 17, 2004, and annually thereafter for a period of 3 years, the Secretary of Homeland Security shall submit a report to Congress that—
+&emsp;&emsp;Not later than 12 months after December 17, 2004, and annually thereafter for a periodof 3 years, the Secretary of Homeland Security shall submit a report to Congress that—
 
 &emsp;&emsp;&emsp;(I) describes the number of border and immigration officials who inspect or review identity documents as part of their official duties, and the proportion of whom have received the revised training program described in paragraph (1)(C)(i);
 

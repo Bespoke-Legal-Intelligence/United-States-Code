@@ -96,9 +96,9 @@ Considerations for Project Under Expanded Security Eligibility.—In order to as
 
 (j)
 
-Marshall Islands, Micronesia, and Palau.—For fiscal years 2012 through 2015, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+Marshall Islands, Micronesia, and Palau.—For fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on March 31, 2016, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat.358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126 Stat. 29.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126Stat. 29; Pub. L. 114–55, title I, §102(b), Sept. 30, 2015, 129 Stat. 523.)
 
 Historical and Revision Notes
 
@@ -182,6 +182,8 @@ Section 47102(3)(J), referred to in subsec. (i), was repealed and subpar. (M) wa
 
 #### Amendments
 
+<b>2015</b>—Subsec. (j). Pub. L. 114–55 inserted "and for the period beginning on October 1, 2015, and ending on March 31, 2016" after "fiscal years 2012 through 2015".
+
 <b>2012</b>—Subsec. (j). Pub. L. 112–95 substituted "For fiscal years 2012 through 2015," for "For fiscal years 2004 through 2011, and for the portion of fiscal year 2012 ending before February 18, 2012,".
 
 Pub. L. 112–91 substituted "February 18, 2012," for "February 1, 2012,".
@@ -232,7 +234,7 @@ Subsec. (g)(4). Pub. L. 106–6, §5, which directed the amendment of section 47
 
 &emsp;"(A) 1/3 shall be made available to airports for which apportionments are made under section 47114(d) of this title.
 
-&emsp;"(B) 1/3 shall be made available for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
+&emsp;"(B) 1/3 shall be made available for airport noise compatibility planning under section 47505(a)(2) ofthis title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
 
 &emsp;"(C) 1/3 shall be made available to current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title."
 

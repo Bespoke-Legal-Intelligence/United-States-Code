@@ -22,7 +22,7 @@ The President's Information Technology Advisory Committee (established pursuant 
 
 &emsp;&emsp;&emsp;(i) geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a); and
 
 &emsp;&emsp;&emsp;(iii) technology transfer to and from the private sector;
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated for the purposes of this section—
 
 &emsp;(1) for the Department of Energy, $22,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000;
 
-&emsp;(2) for the National Science Foundation, $25,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000, as authorized in the National Science Foundation Authorization Act of 1998;
+&emsp;(2) for the National Science Foundation, $25,000,000 for fiscal year 1999 and $25,000,000 forfiscal year 2000, as authorized in the National Science Foundation Authorization Act of 1998;
 
 &emsp;(3) for the National Institutes of Health, $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000;
 

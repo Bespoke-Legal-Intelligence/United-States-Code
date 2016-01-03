@@ -54,7 +54,7 @@
 
 (B) The total number of dependents treated in all facilities of the uniformed services under subparagraph (A) in a fiscal year may not exceed 2,000.
 
-(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
+(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed servicesto a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
 
 (2) In this section, the term "hospice care" means the items and services described in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
@@ -284,7 +284,7 @@ Program on Mental Health Awareness.—
 
 &emsp;"(1)
 
-Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program toimprove awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
+Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program to improve awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
 
 &emsp;"(2)
 

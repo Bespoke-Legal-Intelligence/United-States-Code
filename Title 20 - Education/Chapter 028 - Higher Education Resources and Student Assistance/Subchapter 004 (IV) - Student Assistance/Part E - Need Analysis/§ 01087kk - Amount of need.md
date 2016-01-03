@@ -66,7 +66,7 @@ Required Subjects of Study.—In performing the study, the Advisory Committee sh
 
 &emsp;"(1) whether the methodology used to calculate the expected family contribution can be simplified without significant adverse effects on program intent, costs, integrity, delivery, and distribution of awards;
 
-&emsp;"(2) whether the number of data elements, and, accordingly, the number and complexity of questions asked of students and families, used to calculate theexpected family contribution can be reduced without such adverse effects;
+&emsp;"(2) whether the number of data elements, and, accordingly, the number and complexity of questions asked of students and families, used to calculate the expected family contribution can be reduced without such adverse effects;
 
 &emsp;"(3) whether the procedures for determining such data elements, including determining and updating offsets and allowances, is the most efficient, effective, and fair means to determine a family's available income and assets;
 

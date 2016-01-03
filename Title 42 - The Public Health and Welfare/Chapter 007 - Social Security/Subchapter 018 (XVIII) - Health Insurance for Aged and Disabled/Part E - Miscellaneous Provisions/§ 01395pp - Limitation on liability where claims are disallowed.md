@@ -6,7 +6,7 @@ Where—
 
 &emsp;(1) a determination is made that, by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section, payment may not be made under part A or part B of this subchapter for any expenses incurred for items or services furnished an individual by a provider of services or by another person pursuant to an assignment under section 1395u(b)(3)(B)(ii) of this title, and
 
-&emsp;(2) both such individual and such provider of services or such other person, as the case may be, did not know, and could not reasonably have been expected to know, that payment would not be made for such items or services under such part A or part B of this subchapter,
+&emsp;(2) both such individual and such provider of services or such other person, as the case may be, did not know, and could not reasonably have been expected to know, that paymentwould not be made for such items or services under such part A or part B of this subchapter,
 
 > then to the extent permitted by this subchapter, payment shall, notwithstanding such determination, be made for such items or services (and for such period of time as the Secretary finds will carry out the objectives of this subchapter), as though section 1395y(a)(1) and section 1395y(a)(9) of this title did not apply and as though the coverage denial described in subsection (g) of this section had not occurred. In each such case the Secretary shall notify both such individual and such provider of services or such other person, as the case may be, of the conditions under which payment for such items or services was made and in the case of comparable situations arising thereafter with respect to such individual or such provider or such other person, each shall, by reason of such notice (or similar notices provided before the enactment of this section), be deemed to have knowledge that payment cannot be made for such items or services or reasonably comparable items or services. Any provider or other person furnishing items or services for which payment may not be made by reason of section 1395y(a)(1) or (9) of this title or by reason of a coverage denial described in subsection (g) of this section shall be deemed to have knowledge that payment cannot be made for such items or services if the claim relating to such items or services involves a case, provider or other person furnishing services, procedure, or test, with respect to which such provider or other person has been notified by the Secretary (including notification by a quality improvement organization) that a pattern of inappropriate utilization has occurred in the past, and such provider or other person has been allowed a reasonable time to correct such inappropriate utilization.
 
@@ -30,7 +30,7 @@ Where payment for inpatient hospital services or extended care services may not 
 
 (1) A home health agency which meets the applicable requirements of paragraphs (3) and (4) shall be presumed to meet the requirement of subsection (a)(2) of this section.
 
-(2) The presumption of paragraph (1) with respect to specific services may be rebutted by actual or imputed knowledge of the facts described in subsection (a)(2) of this section, including any of the following:
+(2) The presumption of paragraph (1) with respect to specific services may be rebutted by actual or imputed knowledge of the facts describedin subsection (a)(2) of this section, including any of the following:
 
 &emsp;(A) Notice by the fiscal intermediary of the fact that payment may not be made under this subchapter with respect to the services.
 
@@ -78,7 +78,7 @@ If a supplier of medical equipment and supplies (as defined in section 1395m(j)(
 
 The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of section 1395f(a)(7)(E) of this title in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of section 1395y(a)(1) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I,§133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–185, §3(b), Oct. 6, 2014, 128 Stat. 1969.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–185, §3(b), Oct. 6, 2014, 128 Stat. 1969.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (f)(4). Pub. L. 101–239, §6214(a)(2), designated existing provisions 
 
 Subsec. (f)(6). Pub. L. 101–239, §6214(b), added par. (6).
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out ", subject to the deductible and coinsurance provisions of this subchapter," after "(referred to in such paragraphs)" and inserted at end "No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter."
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 struck out ", subject to the deductible and coinsurance provisions of this subchapter," after "(referred to in such paragraphs)" and inserted at end "No item or service for which an individual is indemnified under this subsection shall betaken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) "or by reason of a coverage denial described in subsection (g) of this section", and in concluding provisions inserted "and as though the coverage denial described in subsection (g) of this section had not occurred" and "or by reason of a coverage denial described in subsection (g) of this section".
 
@@ -166,7 +166,7 @@ Outreach and education.—The Secretary shall establish a program of outreach an
 
 "(3) GAO
 
-report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[42 U.S.C. 1395ff(h)\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shallsubmit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[42 U.S.C. 1395 et seq.\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
+report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[42 U.S.C. 1395ff(h)\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[42 U.S.C. 1395 et seq.\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
 
 "(4) GAO
 
@@ -190,7 +190,7 @@ report on use of prior determination process.—Not later than 36 months after t
 
 "(5)
 
-Advance beneficiary notice defined.—In this subsection, the term 'advance beneficiary notice' means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[42 U.S.C. 1395 et seq.\]."
+Advance beneficiary notice defined.—In this subsection, the term 'advance beneficiary notice'means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[42 U.S.C. 1395 et seq.\]."
 
 #### Reports to Congress on Denials of Bills for Payment
 

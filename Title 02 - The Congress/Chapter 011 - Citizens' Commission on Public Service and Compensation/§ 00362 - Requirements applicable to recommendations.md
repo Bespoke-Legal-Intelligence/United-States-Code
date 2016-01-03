@@ -6,7 +6,7 @@ Notwithstanding any other provision of this chapter, the recommendations submitt
 
 &emsp;(2) The proposed effective date of a pay adjustment may occur no earlier than January 1 of the second fiscal year, and no later than December 31 next following the close of the fifth fiscal year, beginning after the fiscal year in which the Commission conducts its review under section 356 of this title.
 
-&emsp;(3)(A)(i) The rates of pay recommended for the Speaker of the House of Representatives, the Vice President of the United States, andthe Chief Justice of the United States, respectively, shall be equal.
+&emsp;(3)(A)(i) The rates of pay recommended for the Speaker of the House of Representatives, the Vice President of the United States, and the Chief Justice of the United States, respectively, shall be equal.
 
 &emsp;(ii) The rates of pay recommended for the majority and minority leaders of the Senate and the House of Representatives, the President pro tempore of the Senate, and each office or position under section 5312 of title 5 (relating to level I of the Executive Schedule), respectively, shall be equal.
 

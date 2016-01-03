@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operation and service on board a vessel" does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
+For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operation and service on board a vessel" does not include any activity that is longshore work (as defined in subsection (b)), except as provided under subsection (c), (d), or (e).
 
 #### (b) "Longshore work" defined
 
@@ -26,7 +26,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 #### (c) Prevailing practice exception
 
-(1) Subsection (a) of this section shall not apply to a particular activity of longshore work in and about a local port if—
+(1) Subsection (a) shall not apply to a particular activity of longshore work in and about a local port if—
 
 &emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
@@ -48,13 +48,13 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
-(3) An owner, agent, consignee, master, or commanding officer may meet the requirementsunder this subsection with respect to more than one alien crewman in a single list.
+(3) An owner, agent, consignee, master, or commanding officer may meet the requirements under this subsection with respect to more than one alien crewman in a single list.
 
-(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
+(4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) (and accompanying documentation) and each such list filed by the entity.
 
 (B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
-(ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
+(ii) Complaints may be filed by any aggrieved person or organization (including bargainingrepresentatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 
 (iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity has misrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
 
@@ -70,11 +70,11 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (F) A finding by the Secretary of Labor under this paragraph that the performance of an activity by alien crewmen is not permitted under the prevailing practice of a local port shall preclude for one year the filing of a subsequent attestation concerning such activity in the port under paragraph (1).
 
-(5) Except as provided in paragraph (5) of subsection (d) of this section, this subsection shall not apply to longshore work performed in the State of Alaska.
+(5) Except as provided in paragraph (5) of subsection (d), this subsection shall not apply to longshore work performed in the State of Alaska.
 
 #### (d) State of Alaska exception
 
-(1) Subsection (a) of this section shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
+(1) Subsection (a) shall not apply to a particular activity of longshore work at a particular location in the State of Alaska if an employer of alien crewmen has filed an attestation with the Secretary of Labor at least 30 days before the date of the first performance of the activity (or anytime up to 24 hours before the first performance of the activity, upon a showing that the employer could not have reasonably anticipated the need to file an attestation for that location at that time) setting forth facts and evidence to show that—
 
 &emsp;(A) the employer will make a bona fide request for United States longshore workers who are qualified and available in sufficient numbers to perform the activity at the particular time and location from the parties to whom notice has been provided under clauses (ii) and (iii) of subparagraph (D), except that—
 
@@ -116,15 +116,15 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
 
-(4) Subject to subparagraphs (A) through (D) of subsection (c)(4) of this section, attestations filed under paragraph (1) of this subsection shall—
+(4) Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 
 &emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
 &emsp;(B) apply to aliens arriving in the United States during such 1-year period if the owner, agent, consignee, master, or commanding officer states in each list under section 1281 of this title that it continues to comply with the conditions in the attestation.
 
-(5)(A) Except as otherwise provided by subparagraph (B), subsection (c)(3) of this section and subparagraphs (A) through (E) of subsection (c)(4) of this section shall apply to attestations filed under this subsection.
+(5)(A) Except as otherwise provided by subparagraph (B), subsection (c)(3) and subparagraphs (A) through (E) of subsection (c)(4) shall apply to attestations filed under this subsection.
 
-(B) The use of alien crewmen to perform longshore work in Alaska consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel shall be governed by the provisions of subsection (c) of this section.
+(B) The use of alien crewmen to perform longshore work in Alaska consisting of the use of an automated self-unloading conveyor belt or vacuum-actuated system on a vessel shall be governed by the provisions of subsection (c).
 
 (6) For purposes of this subsection—
 
@@ -152,7 +152,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;For purposes of this subsection, the term "in practice" refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29,1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 
@@ -172,9 +172,9 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(f), substituted "subparagraph (A)(ii
 
 Subsec. (e). Pub. L. 103–416, §219(gg), repealed Pub. L. 103–198, §8(a), which had made an amendment substantially identical to that made by Pub. L. 103–206, §323(a). See 1993 Amendment note below.
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted "subsection (c), (d), or (e) of this section" for "subsection (c) of this section or subsection (d) of this section". Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §323(b)(1), substituted "subsection (c), (d), or (e)" for "subsection (c) or subsection (d)". Pub. L. 103–198, §8(b)(1), which amended subsec. (a) identically, was repealed by Pub. L. 103–416, §219(gg).
 
-Subsec. (c)(4)(A). Pub. L. 103–206, §323(b)(2), inserted "or subsection (d)(1) of this section" after "paragraph (1)" in two places. Pub. L. 103–198, §8(b)(2), which amended subpar. (A) identically, was repealed by Pub. L. 103–416, §219(gg).
+Subsec. (c)(4)(A). Pub. L. 103–206, §323(b)(2), inserted "or subsection (d)(1)" after "paragraph (1)" in two places. Pub. L. 103–198, §8(b)(2), which amended subpar. (A) identically, was repealed by Pub. L. 103–416, §219(gg).
 
 Subsec. (c)(5). Pub. L. 103–206, §323(b)(3), added par. (5). Pub. L. 103–198, §8(b)(3), which amended subsec. (c) identically, was repealed by Pub. L. 103–416, §219(gg).
 

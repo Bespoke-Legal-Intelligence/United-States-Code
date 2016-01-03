@@ -38,7 +38,7 @@ Oral presentation of evidence.—The arbitrator may provide for an oral presenta
 
 &emsp;(8)
 
-Deadline for decision.—The arbitrator must, as expeditiously as possible but at least within 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
+Deadline for decision.—The arbitrator must, as expeditiously as possible but at leastwithin 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
 
 (c)
 

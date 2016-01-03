@@ -138,7 +138,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;(i) For purposes of this section, a broadcasting station's market shall be determined by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns, except that, following a written request, the Commission may, with respect to a particular television broadcast station, include additional communities within its television market or exclude communities from such station's television market to better effectuate the purposes of this section. In considering such requests, the Commission may determine that particular communities are part of more than one television market.
 
-&emsp;&emsp;(ii) In considering requests filed pursuant to clause (i), the Commission shall affordparticular attention to the value of localism by taking into account such factors as—
+&emsp;&emsp;(ii) In considering requests filed pursuant to clause (i), the Commission shall afford particular attention to the value of localism by taking into account such factors as—
 
 &emsp;&emsp;&emsp;(I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community or on the satellite carrier or carriers serving such community;
 
@@ -196,7 +196,7 @@ Subsec. (h)(1)(C)(iv). Pub. L. 113–200, §102(b)(2), realigned margins.
 
 <b>1996</b>—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted "by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns," for "in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,".
 
-Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which readas follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
+Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: "In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph."
 
 #### Effective Date
 

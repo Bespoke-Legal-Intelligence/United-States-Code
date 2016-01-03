@@ -36,7 +36,7 @@ Pub. L. 101–382, title II, §201, Aug. 20, 1990, 104 Stat. 655, provided that:
 
 #### Short Title
 
-Pub. L. 98–67, title II, §201, Aug. 5, 1983, 97 Stat. 384, provided that: "This title \[enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the 'Caribbean Basin Economic Recovery Act'."
+Pub. L. 98–67, title II, §201, Aug. 5, 1983, 97 Stat. 384, provided that: "This title \[enacting this chapter, amending section 1202 of this title and sections 274 and7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters\] may be cited as the 'Caribbean Basin Economic Recovery Act'."
 
 #### Findings and Policy
 
@@ -66,7 +66,7 @@ Findings.—Congress makes the following findings:
 
 Policy.—It is the policy of the United States—
 
-&emsp;"(1) to offer Caribbean Basin beneficiary countries willing to prepare to become a party to the FTAA oranother free trade agreement, tariff treatment essentially equivalent to that accorded to products of NAFTA countries for certain products not currently eligible for duty-free treatment under the CBERA; and
+&emsp;"(1) to offer Caribbean Basin beneficiary countries willing to prepare to become a party to the FTAA or another free trade agreement, tariff treatment essentially equivalent to that accorded to products of NAFTA countries for certain products not currently eligible for duty-free treatment under the CBERA; and
 
 &emsp;"(2) to seek the participation of Caribbean Basin beneficiary countries in the FTAA or another free trade agreement at the earliest possible date, with the goal of achieving full participation in such agreement not later than 2005."
 

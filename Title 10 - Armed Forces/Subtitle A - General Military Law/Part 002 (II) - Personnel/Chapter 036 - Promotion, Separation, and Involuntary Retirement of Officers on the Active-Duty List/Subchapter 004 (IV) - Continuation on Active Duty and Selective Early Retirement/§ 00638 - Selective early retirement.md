@@ -1,6 +1,6 @@
 ### §638. Selective early retirement
 
-(a)(1) A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corpsmay be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
+(a)(1) A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may be considered for selective early retirement by a selection board convened under section 611(b) of this title if the officer is described in any of subparagraphs (A) through (D) as follows:
 
 &emsp;(A) An officer holding the regular grade of lieutenant colonel or commander who has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion.
 
@@ -38,7 +38,7 @@
 
 (e)(1) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for earlyretirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
+(2)(A) Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
 
 (B) A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
 

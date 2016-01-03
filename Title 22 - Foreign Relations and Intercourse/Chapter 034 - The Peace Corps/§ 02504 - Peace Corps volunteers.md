@@ -10,7 +10,7 @@ Volunteers shall be provided with such living, travel, and leave allowances, and
 
 #### (c) Readjustment allowances
 
-Volunteers shall be entitled to receive a readjustment allowance at a rate not less than $125for each month of satisfactory service as determined by the President. The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States. In the event of the volunteer's death during the period of his service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582(b) of title 5. For purposes of the Internal Revenue Code of 1986, a volunteer shall be deemed to be paid and to receive each amount of a readjustment allowance to which he is entitled after December 31, 1964, when such amount is transferred from funds made available under this chapter to the fund from which such readjustment allowance is payable.
+Volunteers shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President. The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States. In the event of the volunteer's death during the period of his service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582(b) of title 5. For purposes of the Internal Revenue Code of 1986, a volunteer shall be deemed to be paid and to receive each amount of a readjustment allowance to which he is entitled after December 31, 1964, when such amount is transferred from funds made available under this chapter to the fund from which such readjustment allowance is payable.
 
 #### (d) Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661
 
@@ -80,7 +80,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e)
 
 The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted "section 3331 of title 5."
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–113, §606, substituted "not less than $125" for "not to exceed $125".
 
-Subsec. (h). Pub. L. 97–113, §604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in theSecretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
+Subsec. (h). Pub. L. 97–113, §604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
 
 <b>1980</b>—Subsec. (f)(1)(A). Pub. L. 96–465, §2202(a)(1)(A), substituted "section 816(a) of the Foreign Service Act of 1980" for "section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),".
 
@@ -188,7 +188,7 @@ Requirements of the Evaluations.—Each evaluation shall include an assessment o
 
 "(c)
 
-Reports to the Peace Corps.—An organization making an evaluation under this section shall submitto the Director of the Peace Corps a report containing its findings and recommendations not later than May 31, 1993, December 31, 1994, and December 31, 1996, as the case may be. Each report shall include recommendations regarding appropriate standards and procedures for ensuring the furnishing of quality medical care and for measuring the quality of care provided to Peace Corps volunteers.
+Reports to the Peace Corps.—An organization making an evaluation under this section shall submit to the Director of the Peace Corps a report containing its findings and recommendations not later than May 31, 1993, December 31, 1994, and December 31, 1996, as the case may be. Each report shall include recommendations regarding appropriate standards and procedures for ensuring the furnishing of quality medical care and for measuring the quality of care provided to Peace Corps volunteers.
 
 "(d)
 

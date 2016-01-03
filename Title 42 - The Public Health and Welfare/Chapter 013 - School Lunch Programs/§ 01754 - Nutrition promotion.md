@@ -16,7 +16,7 @@ The total amount of funds available for a fiscal year for payments under this se
 
 #### (1) Allocation
 
-&emsp;Subject to paragraph (2), from the amount of funds available under subsection (g) of this section for a fiscal year, the Secretary shall allocate to each State agency an amount equal to the greater of—
+&emsp;Subject to paragraph (2), from the amount of funds available under subsection (g) of this section for a fiscal year, the Secretary shallallocate to each State agency an amount equal to the greater of—
 
 &emsp;&emsp;(A) a uniform base amount established by the Secretary; or
 

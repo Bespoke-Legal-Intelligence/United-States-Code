@@ -142,7 +142,7 @@ Under this section, a loan is an eligible loan if that loan meets the following 
 
 #### (A) In general
 
-&emsp;&emsp;A certificate of guarantee issued under this subsection by the Secretary shall be conclusive evidence of the eligibility of the loan for guarantee under this section and the amount of that guarantee.
+&emsp;&emsp;A certificate of guarantee issued under this subsection by the Secretary shall beconclusive evidence of the eligibility of the loan for guarantee under this section and the amount of that guarantee.
 
 #### (B) Evidence
 
@@ -266,7 +266,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee.The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
+&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
 
 #### (bb) Payment
 
@@ -324,7 +324,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section may be invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required at the time of the determination to carry out this section maybe invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 
@@ -396,7 +396,7 @@ The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 
 
 The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, asamended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 

@@ -10,7 +10,7 @@ Each member of the Committee shall be appointed by the Director. In addition, th
 
 #### (c) Responsibilities of Committee
 
-The Committee shall be responsible for reviewing and evaluating all Foundation matters relating to opportunities for the participation in, and the advancement of, women, minorities,and persons with disabilities in education, training, and science and engineering research programs.
+The Committee shall be responsible for reviewing and evaluating all Foundation matters relating to opportunities for the participation in, and the advancement of, women, minorities, and persons with disabilities in education, training, and science and engineering research programs.
 
 #### (d) Standing or ad hoc subcommittees
 

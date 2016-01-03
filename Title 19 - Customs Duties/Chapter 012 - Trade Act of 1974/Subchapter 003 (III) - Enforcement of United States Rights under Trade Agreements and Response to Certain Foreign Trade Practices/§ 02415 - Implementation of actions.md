@@ -24,9 +24,9 @@
 
 &emsp;(A) shall establish an advisory panel to recommend measures which will promote the competitiveness of the domestic industry affected by the export targeting,
 
-&emsp;(B) on the basis of the report of such panel submitted under paragraph (2)(B) and subject to the specific direction, if any, of the President, may take any administrative actions authorized under any other provision of law, and, if necessary, propose legislation to implement any other actions, that would restore or improve the international competitiveness of the domestic industry affected by the export targeting, and
+&emsp;(B) on the basis of the report of such panel submitted under paragraph (2)(B) and subjectto the specific direction, if any, of the President, may take any administrative actions authorized under any other provision of law, and, if necessary, propose legislation to implement any other actions, that would restore or improve the international competitiveness of the domestic industry affected by the export targeting, and
 
-&emsp;(C) shall, by no later than the date that is 30 days after the date on which the report of suchpanel is submitted under paragraph (2)(B), submit a report to the Congress on the administrative actions taken, and legislative proposals made, under subparagraph (B) with respect to the domestic industry affected by the export targeting.
+&emsp;(C) shall, by no later than the date that is 30 days after the date on which the report of such panel is submitted under paragraph (2)(B), submit a report to the Congress on the administrative actions taken, and legislative proposals made, under subparagraph (B) with respect to the domestic industry affected by the export targeting.
 
 (2)(A) The advisory panels established under paragraph (1)(A) shall consist of individuals appointed by the Trade Representative who—
 

@@ -12,7 +12,7 @@ Subject to subsection (b), the President may waive the application of any of the
 
 #### (b) Congressional notification
 
-Not later than the date of the exercise of a waiver under subsection (a), the President shallnotify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
+Not later than the date of the exercise of a waiver under subsection (a), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
 
 (Pub. L. 105–292, title IV, §407, Oct. 27, 1998, 112 Stat. 2808.)
 

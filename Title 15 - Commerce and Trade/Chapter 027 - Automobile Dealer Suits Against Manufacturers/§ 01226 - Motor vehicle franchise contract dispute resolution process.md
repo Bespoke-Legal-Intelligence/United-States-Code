@@ -20,11 +20,11 @@
 
 #### (b) Application
 
-Subsection (a) of this section shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
+Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
 (Pub. L. 107–273, div. C, title I, §11028, Nov. 2, 2002, 116 Stat. 1835.)
 
 #### Codification
 
-Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act,and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
+Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of act Aug. 8, 1956, ch. 1038, which comprises this chapter.
 

@@ -18,7 +18,7 @@ To be so designated, a Head Start agency shall, at a minimum, do all the followi
 
 &emsp;&emsp;(B) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance as appropriate.
 
-&emsp;(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+&emsp;(4) Offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
 
 &emsp;&emsp;(A) family literacy services; and
 
@@ -104,7 +104,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;(v) Exceptions shall be made to the requirements of clauses (i) through (iv) for members of a governing body when those members oversee a public entity and are selected to their positions with the public entity by public election or political appointment.
 
-&emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or another individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
+&emsp;&emsp;&emsp;(vi) If a person described in clause (i), (ii), or (iii) is not available to serve as a member of the governing body, the governing body shall use a consultant, or an other individual with relevant expertise, with the qualifications described in that clause, who shall work directly with the governing body.
 
 #### (C) Conflict of interest
 
@@ -168,7 +168,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(VIII) reviewing results from monitoring conducted under section 9836a(c) of this title, including appropriate followup activities;
 
-&emsp;&emsp;&emsp;&emsp;(IX) approving personnel policies and procedures, including policies and procedures regarding the hiring, evaluation, compensation, and termination of the Executive Director, Head Start Director, Director of Human Resources, Chief Fiscal Officer, and any other person in an equivalent position with the agency;
+&emsp;&emsp;&emsp;&emsp;(IX) approving personnel policies and procedures, including policies and procedures regarding the hiring, evaluation, compensation, and termination of the Executive Director, Head Start Director,Director of Human Resources, Chief Fiscal Officer, and any other person in an equivalent position with the agency;
 
 &emsp;&emsp;&emsp;&emsp;(X) establishing, adopting, and periodically updating written standards of conduct that establish standards and formal procedures for disclosing, addressing, and resolving—
 
@@ -284,7 +284,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;(iii) ensure a smooth transition to school for such children.
 
-&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\], the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+&emsp;(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\], the agencies responsible for administering section 5106a of this title and parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431 et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
 &emsp;(4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
 
@@ -324,7 +324,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;&emsp;(i) where there is an absence of publicly funded preschool programs in the service area of a Head Start agency, this paragraph shall not apply; or
 
-&emsp;&emsp;&emsp;(ii) where the appropriate local entity responsible for managing the publicly funded preschool programs is unable or unwilling to enter into such a memorandum, this paragraph shall not apply and the Head Start agency shall inform the Secretary and the State Director of Head Start Collaboration of such inability or unwillingness; and
+&emsp;&emsp;&emsp;(ii) where the appropriate local entity responsible for managing the publicly funded preschool programs is unable or unwilling to enter into such a memorandum, this paragraph shall not apply and theHead Start agency shall inform the Secretary and the State Director of Head Start Collaboration of such inability or unwillingness; and
 
 &emsp;&emsp;(C) be revised periodically and renewed biennially by the parties to such memorandum, in alignment with the beginning of the school year.
 
@@ -374,11 +374,9 @@ In order to receive funds under this subchapter, a Head Start agency shall devel
 
 In order to receive funds under this subchapter, a Head Start agency shall document strong fiscal controls, including the employment of well-qualified fiscal staff with a history of successful management of a public or private organization.
 
-(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716; Pub. L. 108–446, title III, §305(l)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §9, Dec. 12, 2007, 121 Stat. 1397.)
+(Pub. L. 97–35, title VI, §642, Aug. 13, 1981, 95 Stat. 502; Pub. L. 99–425, title I, §103, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, title I, §109, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(i), (k)(3), Oct. 7, 1992, 106 Stat. 1957, 1959; Pub. L. 103–252, title I, §109, May 18, 1994, 108 Stat. 634; Pub. L. 105–285, title I, §109, Oct. 27, 1998, 112 Stat. 2716; Pub. L. 108–446, title III, §305(l)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §9, Dec. 12, 2007, 121 Stat. 1397; Pub. L. 114–95, title IX, §9215(nn)(3), Dec. 10, 2015, 129 Stat. 2177.)
 
 #### References in Text
-
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(4) and (e)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 3 of part B of title I of the Act is classified generally to subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -389,6 +387,10 @@ The Social Security Act, referred to in subsec. (e)(3), is act Aug. 14, 1935, ch
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (e)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4). Pub. L. 114–95, §9215(nn)(3)(A), struck out ", such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)" after "local entities" in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 114–95, §9215(nn)(3)(B), struck out "Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)," before "programs under section 619".
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 
@@ -443,6 +445,10 @@ Subsec. (c). Pub. L. 102–401, §2(k)(3), substituted "subchapter" for "subtitl
 Subsec. (c). Pub. L. 101–501, §109(2), substituted "with schools that will subsequently serve children in Head Start programs, the State agency responsible for administering section 602(g) of this title, and other programs serving the children and families served by the Head Start agency to carry out the provisions of this subtitle" for "with other State and local programs serving the children in the Head Start agency to carry out the provisions of this subsection".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–425 inserted "State and local" before "programs".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1994 Amendment
 

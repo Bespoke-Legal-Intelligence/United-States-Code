@@ -26,7 +26,7 @@ Section 299e, act July 1, 1944, ch. 373, title IX, §905, as added Oct. 6, 1965,
 
 Section 299f, act July 1, 1944, ch. 373, title IX, §906, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 930; amended Oct. 30, 1970, Pub. L. 91–515, title I, §111(b), 84 Stat. 1301, authorized Secretary to establish rules and regulations covering terms of approval of grant applications and coordination of programs.
 
-Section 299g, act July 1, 1944, ch. 373, title IX, §907, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 930; amended Oct. 30, 1970, Pub. L. 91–515, title I, §§108, 111(b), 84 Stat. 1300, 1301, directed Secretary to compile a list of facilities equipped and staffed to provide most advanced methods for diagnosing and treating certain diseases and illnesses.
+Section 299g, act July 1, 1944, ch. 373, title IX, §907, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 930; amended Oct. 30, 1970, Pub. L. 91–515, title I, §§108, 111(b), 84 Stat. 1300, 1301, directed Secretary to compilea list of facilities equipped and staffed to provide most advanced methods for diagnosing and treating certain diseases and illnesses.
 
 Section 299h, act July 1, 1944, ch. 373, title IX, §908, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 930, called for a report to the President and the Congress on or before June 30, 1967, by Surgeon General concerning activities under this subchapter with required statements, appraisals, and recommendations.
 

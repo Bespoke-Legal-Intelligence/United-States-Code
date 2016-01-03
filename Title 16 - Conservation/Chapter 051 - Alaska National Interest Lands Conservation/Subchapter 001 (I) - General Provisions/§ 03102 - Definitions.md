@@ -28,7 +28,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(10) The term "Native Group" has the same meaning as such term has under sections 3(d) and 14(h)(2) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1602(d) and 1613(h)(2)\].
 
-&emsp;(11) The term "Native land" means land owned by a Native Corporation or any NativeGroup and includes land which, as of December 2, 1980, had been selected under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] by a Native Corporation or Native Group and had not been conveyed by the Secretary (except to the extent such selection is determined to be invalid or has been relinquished) and land referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
+&emsp;(11) The term "Native land" means land owned by a Native Corporation or any Native Group and includes land which, as of December 2, 1980, had been selected under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] by a Native Corporation or Native Group and had not been conveyed by the Secretary (except to the extent such selection is determined to be invalid or has been relinquished) and land referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
 
 &emsp;(12) The term "Secretary" means the Secretary of the Interior, except that when such term is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
 

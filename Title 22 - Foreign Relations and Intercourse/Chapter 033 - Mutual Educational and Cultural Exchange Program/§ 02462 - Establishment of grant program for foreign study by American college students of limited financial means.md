@@ -8,7 +8,7 @@ Subject to the availability of appropriations and under the authorities of the M
 
 An individual referred to in subsection (a) is an individual who—
 
-&emsp;(1) is a student in good standing at an institution of higher education in the UnitedStates (as defined in section 101(a) of the Higher Education Act of 1965 \[20 U.S.C. 1001(a)\]);
+&emsp;(1) is a student in good standing at an institution of higher education in the United States (as defined in section 101(a) of the Higher Education Act of 1965 \[20 U.S.C. 1001(a)\]);
 
 &emsp;(2) has been accepted for up to one academic year of study on a program of study abroad approved for credit by the student's home institution;
 

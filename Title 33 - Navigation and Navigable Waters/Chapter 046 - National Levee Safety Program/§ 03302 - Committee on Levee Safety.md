@@ -74,7 +74,7 @@ The committee—
 
 &emsp;(1) shall submit to the Secretary and Congress an annual report regarding the effectiveness of the levee safety initiative in accordance with section 3303b of this title; and
 
-&emsp;(2) may secure from other Federal agencies such services, and enter into such contracts,as the committee determines to be necessary to carry out this subsection.
+&emsp;(2) may secure from other Federal agencies such services, and enter into such contracts, as the committee determines to be necessary to carry out this subsection.
 
 #### (f) Task force coordination
 
@@ -106,7 +106,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the commit
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

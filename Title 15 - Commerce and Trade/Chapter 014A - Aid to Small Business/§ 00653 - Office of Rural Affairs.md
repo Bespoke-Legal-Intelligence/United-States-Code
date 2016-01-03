@@ -26,7 +26,7 @@ The Office shall—
 
 #### Catalog of Programs To Assist Rural Small Business Concerns
 
-Pub. L. 101–574, title III, §304, Nov. 15, 1990, 104 Stat. 2829, required the Small Business Administration to compile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas by no later than 180 days after Nov. 15, 1990, and to issue updates of the catalog by Feb. 1, 1993, and Feb. 1, 1995.
+Pub. L. 101–574, title III, §304, Nov. 15, 1990, 104 Stat. 2829, required the Small Business Administration tocompile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas by no later than 180 days after Nov. 15, 1990, and to issue updates of the catalog by Feb. 1, 1993, and Feb. 1, 1995.
 
 #### Rural Small Business Conferences
 

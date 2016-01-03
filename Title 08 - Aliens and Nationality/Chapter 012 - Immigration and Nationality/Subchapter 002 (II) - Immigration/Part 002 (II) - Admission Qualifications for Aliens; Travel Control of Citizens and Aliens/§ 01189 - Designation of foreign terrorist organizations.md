@@ -42,13 +42,13 @@
 
 #### (B) Classified information
 
-&emsp;&emsp;The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;&emsp;The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
 #### (4) Period of designation
 
 #### (A) In general
 
-&emsp;&emsp;A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section.
+&emsp;&emsp;A designation under this subsection shall be effective for all purposes until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c).
 
 #### (B) Review of designation upon petition
 
@@ -66,7 +66,7 @@
 
 #### (iii) Procedures
 
-&emsp;&emsp;&emsp;Any foreign terrorist organization that submits a petition for revocation under this subparagraph must provide evidence in that petition that the relevant circumstances described in paragraph (1) are sufficiently different from the circumstances that were the basis for the designationsuch that a revocation with respect to the organization is warranted.
+&emsp;&emsp;&emsp;Any foreign terrorist organization that submits a petition for revocation under this subparagraph must provide evidence in that petition that the relevant circumstances described in paragraph (1) are sufficiently different from the circumstances that were the basis for the designation such that a revocation with respect to the organization is warranted.
 
 #### (iv) Determination
 
@@ -76,7 +76,7 @@
 
 #### (II) Classified information
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;&emsp;&emsp;&emsp;The Secretary may consider classified information in making a determination in response to a petition for revocation. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
 #### (III) Publication of determination
 
@@ -134,7 +134,7 @@
 
 #### (2) Procedure
 
-&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) of this section shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) of this section shall also apply to an amended designation.
+&emsp;Amendments made to a designation in accordance with paragraph (1) shall be effective upon publication in the Federal Register. Subparagraphs (B) and (C) of subsection (a)(2) shall apply to an amended designation upon such publication. Paragraphs (2)(A)(i), (4), (5), (6), (7), and (8) of subsection (a) shall also apply to an amended designation.
 
 #### (3) Administrative record
 
@@ -142,7 +142,7 @@
 
 #### (4) Classified information
 
-&emsp;The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;The Secretary may consider classified information in amending a designation in accordance with this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c).
 
 #### (c) Judicial review of designation
 
@@ -198,7 +198,7 @@ Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effe
 
 <b>2004</b>—Subsec. (a)(3)(B). Pub. L. 108–458, §7119(c)(1)(A), substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted "A designation" for "Subject to paragraphs (5) and (6), a designation" and "until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section" for "for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)".
+Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted "A designation" for "Subject to paragraphs (5) and (6), a designation" and "until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c)" for "for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)".
 
 Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
@@ -228,7 +228,7 @@ Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted "or terrorism" after 
 
 Subsec. (a)(2)(A). Pub. L. 107–56, §411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
 
-&emsp;"(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findingsmade under paragraph (1) with respect to that organization, and the factual basis therefor; and
+&emsp;"(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
 
 &emsp;"(ii) seven days after such notification, publish the designation in the Federal Register."
 
@@ -236,7 +236,7 @@ Subsec. (a)(2)(B)(i). Pub. L. 107–56, §411(c)(4), substituted "subparagraph (
 
 Subsec. (a)(2)(C). Pub. L. 107–56, §411(c)(5), substituted "paragraph (2)(A)(i)" for "paragraph (2)".
 
-Subsec. (a)(3)(B). Pub. L. 107–56, §411(c)(6), substituted "subsection (b) of this section" for "subsection (c) of this section".
+Subsec. (a)(3)(B). Pub. L. 107–56, §411(c)(6), substituted "subsection (b)" for "subsection (c)".
 
 Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence "The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation."
 

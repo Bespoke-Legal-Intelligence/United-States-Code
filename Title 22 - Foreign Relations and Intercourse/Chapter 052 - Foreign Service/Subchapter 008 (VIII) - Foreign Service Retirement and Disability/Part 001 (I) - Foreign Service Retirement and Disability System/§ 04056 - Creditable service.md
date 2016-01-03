@@ -2,7 +2,7 @@
 
 #### (a) Applicability of civil service provisions
 
-(1) <sup>1</sup> Except as otherwise specified by law, all periods of civilian and military and naval service, and all other periods through the date of final separation of a participant from the Service that the Secretary of State determines would be creditable toward retirement under the Civil Service Retirement and Disability System (as determined in accordance with section 8332 of title 5), shall be creditable for purposes of this part. Conversely, any such service performed after December 31, 1976, that would not be creditable under specified conditions under section8332 of title 5, shall be excluded under this part under the same conditions.
+(1) <sup>1</sup> Except as otherwise specified by law, all periods of civilian and military and naval service, and all other periods through the date of final separation of a participant from the Service that the Secretary of State determines would be creditable toward retirement under the Civil Service Retirement and Disability System (as determined in accordance with section 8332 of title 5), shall be creditable for purposes of this part. Conversely, any such service performed after December 31, 1976, that would not be creditable under specified conditions under section 8332 of title 5, shall be excluded under this part under the same conditions.
 
 (2) The service of an individual who first becomes a participant on or after October 17, 1983, without any credit under this section for civilian service performed prior to October 1, 1982, shall include credit for:
 
@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 "(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section."
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to partici</i><i>pants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

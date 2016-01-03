@@ -12,7 +12,7 @@ The Secretary shall assign a unique tracking number to each water resources proj
 
 #### (2) Availability to public
 
-&emsp;Each document described in paragraph (1) shall be made available to the public, and an electronic copy of each document shall be made permanently available to the public through the Internet.
+&emsp;Each document described in paragraph (1) shall be made available to the public, and anelectronic copy of each document shall be made permanently available to the public through the Internet.
 
 (Pub. L. 110–114, title II, §2041, Nov. 8, 2007, 121 Stat. 1100.)
 

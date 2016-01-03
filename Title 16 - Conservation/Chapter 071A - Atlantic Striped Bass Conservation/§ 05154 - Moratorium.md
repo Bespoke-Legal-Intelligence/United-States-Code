@@ -20,13 +20,13 @@ During a moratorium period, it is unlawful for any person—
 
 #### (1) Civil penalty
 
-&emsp;Any person who commits any act that is unlawful under subsection (b) of this sectionshall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
+&emsp;Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
 
 #### (2) Civil forfeitures
 
 #### (A) In general
 
-&emsp;&emsp;Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) of this section shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Act (16 U.S.C. 1860).
+&emsp;&emsp;Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) of this section shall be subject to forfeiture to the United States as providedin section 310 of the Magnuson Act (16 U.S.C. 1860).
 
 #### (B) Disposal of fish
 

@@ -8,7 +8,7 @@
 
 (b) A creditor may present a negotiable instrument, and may give notice of dishonor of such an instrument.
 
-(c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
+(c) On request of a party in interest and after notice and a hearing, the court shall grant relieffrom the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
 &emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
 
@@ -36,7 +36,7 @@ The automatic stay under this section pertains only to the collection of a consu
 
 Subsection (b) excepts the giving of notice of dishonor of a negotiable instrument from the reach of the codebtor stay.
 
-Under subsection (c), if the codebtor has property out of which the creditor's claim can be satisfied, the court can grant relief from the stay absent the transfer of a security interest in that property by the codebtor to the creditor. Correspondingly, if there is reasonable cause to believe that property is about to be disposed of by the codebtor which could be used to satisfy hisobligation to the creditor, the court should lift the stay to allow the creditor to perfect his rights against such property. Likewise, if property is subject to rapid depreciation or decrease in value the stay should be lifted to allow the creditor to protect his rights to reach such property. Otherwise, the creditor's interest would be irreparably harmed by such stay. Property which could be used to satisfy the claim could be disposed of or encumbered and placed beyond the reach of the creditor. The creditor should be allowed to protect his rights to reach property which could satisfy his claim and prevent its erosion in value, disposal, or encumbrance.
+Under subsection (c), if the codebtor has property out of which the creditor's claim can be satisfied, the court can grant relief from the stay absent the transfer of a security interest in that property by the codebtor to the creditor. Correspondingly, if there is reasonable cause to believe that property is about to be disposed of by the codebtor which could be used to satisfy his obligation to the creditor, the court should lift the stay to allow the creditor to perfect his rights against such property. Likewise, if property is subject to rapid depreciation or decrease in value the stay should be lifted to allow the creditor to protect his rights to reach such property. Otherwise, the creditor's interest would be irreparably harmed by such stay. Property which could be used to satisfy the claim could be disposed of or encumbered and placed beyond the reach of the creditor. The creditor should be allowed to protect his rights to reach property which could satisfy his claim and prevent its erosion in value, disposal, or encumbrance.
 
 #### house report no. 95–595
 

@@ -4,7 +4,7 @@
 
 #### (1) Applicability
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> and except as provided in paragraph (3), this section shall apply to any covered person who—
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> and except as provided in paragraph (3),this section shall apply to any covered person who—
 
 &emsp;&emsp;(A) offers or provides origination, brokerage, or servicing of loans secured by real estate for use by consumers primarily for personal, family, or household purposes, or loan modification or foreclosure relief services in connection with such loans;
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the Bureau has reasonable cause to determine, by order, after notice to the covered person and a reasonable opportunity for such covered person to respond, based on complaints collected through the system under section 5493(b)(3) of this title or information from other sources, that such covered person is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services;
 
-&emsp;&emsp;(D) offers or provides to a consumer any private education loan, as defined in section1650 of title 15, notwithstanding section 5517(a)(2)(A) of this title and subject to section 5517(a)(2)(C) of this title; or
+&emsp;&emsp;(D) offers or provides to a consumer any private education loan, as defined in section 1650 of title 15, notwithstanding section 5517(a)(2)(A) of this title and subject to section 5517(a)(2)(C) of this title; or
 
 &emsp;&emsp;(E) offers or provides to a consumer a payday loan.
 
@@ -150,7 +150,7 @@ This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is titl
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
+<b>2014</b>—Subsec. (b)(3). Pub. L. 113–173 substituted "regulators, the State bank regulatory authorities, and theState agencies that licence, supervise, or examine the offering of consumer financial products or services" for "regulators and the State bank regulatory authorities" and inserted at end "The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority."
 
 #### Effective Date
 

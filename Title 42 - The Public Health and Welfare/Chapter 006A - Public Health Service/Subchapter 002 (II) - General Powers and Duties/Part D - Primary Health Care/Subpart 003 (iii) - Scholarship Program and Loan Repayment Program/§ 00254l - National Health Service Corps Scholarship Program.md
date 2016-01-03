@@ -24,7 +24,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o ofthis title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254o of this title in the case of the individual's breach of the contract; and
 
 &emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
@@ -86,7 +86,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;&emsp;(II) two years,
 
-&emsp;&emsp;&nbsp;whichever is greater, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which he is assigned by the Secretary as a member of the Corps, or as otherwise provided in this subpart;
+&emsp;&emsp;&nbsp;whichever is greater, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which he is assigned by the Secretary as a member ofthe Corps, or as otherwise provided in this subpart;
 
 &emsp;(2) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
 
@@ -126,7 +126,7 @@ The General Schedule, referred to in subsec. (g)(3), is set out under section 53
 
 #### Codification
 
-In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
@@ -210,13 +210,13 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 
-Section 228 of Pub. L. 99–129 provided that:
+Pub. L. 99–129, title II, §228, Oct. 22, 1985, 99 Stat. 548, provided that:
 
-"(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
+"(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act \[enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 3811 of Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title\] shall take effect on the date of enactment of this Act \[Oct. 22, 1985\].
 
 "(b)(1) The amendments made by section 101(a) of this Act \[amending section 294a of this title\] shall take effect as of October 1, 1985.
 

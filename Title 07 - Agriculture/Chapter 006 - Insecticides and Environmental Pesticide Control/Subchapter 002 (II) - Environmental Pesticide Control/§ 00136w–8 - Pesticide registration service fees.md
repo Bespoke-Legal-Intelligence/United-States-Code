@@ -32,7 +32,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), an application for the registration of a pesticide that was submitted to the Administrator before the effective date of the Pesticide Registration Improvement Act of 2003 and is pending onthat effective date shall be subject to a service fee under this section if the application is for the registration of a new active ingredient that is not listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
+&emsp;&emsp;&emsp;Subject to clause (ii), an application for the registration of a pesticide that was submitted to the Administrator before the effective date of the Pesticide Registration Improvement Act of 2003 and is pending on that effective date shall be subject to a service fee under this section if the application is for the registration of a new active ingredient that is not listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
 
 #### (ii) Tolerance or exemption fees
 
@@ -732,7 +732,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration service fee for an application for minor uses for a pesticide.
+&emsp;&emsp;&emsp;The Administrator may exempt from, or waive a portion of, the registration servicefee for an application for minor uses for a pesticide.
 
 #### (ii) Supporting documentation
 
@@ -814,7 +814,7 @@ TABLE 18. — INERT INGREDIENTS, EXTERNAL REVIEW AND MISCELLANEOUS ACTIONS
 
 #### (D) Credited fees
 
-&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administrator shall take into account any portion of the registration service fees credited under paragraph (2) or (4).
+&emsp;&emsp;In determining whether to grant a refund under this paragraph, the Administratorshall take into account any portion of the registration service fees credited under paragraph (2) or (4).
 
 #### (c) Pesticide Registration Fund
 
@@ -918,7 +918,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 &emsp;&emsp;(A) covered pesticide registration applications subject to registration service fees under subsection (b)(2);
 
-&emsp;&emsp;(B) covered pesticide registration applications for which an applicant has voluntarilypaid registration service fees under subsection (b)(4); and
+&emsp;&emsp;(B) covered pesticide registration applications for which an applicant has voluntarily paid registration service fees under subsection (b)(4); and
 
 &emsp;&emsp;(C) covered pesticide registration applications listed in the Registration Division 2003 Work Plan of the Office of Pesticide Programs of the Environmental Protection Agency.
 
@@ -976,7 +976,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction of registration service fees under subsection (b)(7), the decision time review period shall be determined in accordance with this subparagraph.
+&emsp;&emsp;&emsp;In the case of an application submitted with a request for a waiver or reduction ofregistration service fees under subsection (b)(7), the decision time review period shall be determined in accordance with this subparagraph.
 
 #### (ii) Request granted with no additional fees required
 
@@ -1152,7 +1152,7 @@ All full-time equivalent positions supported by fees authorized and collected un
 
 &emsp;&emsp;(E) a review of the progress in meeting the timeline requirements for the review of antimicrobial pesticide products under section 136a(h) of this title;
 
-&emsp;&emsp;(F) a review of the progress in carrying out the review of inert ingredients, including the number of applications pending, the number of new applications, the number of applications reviewed, staffing, and resources devoted to the review of inert ingredients and recommendations to improve the timeliness of review of inert ingredients;
+&emsp;&emsp;(F) a review of the progress in carrying out the review of inert ingredients, including the number of applications pending, the numberof new applications, the number of applications reviewed, staffing, and resources devoted to the review of inert ingredients and recommendations to improve the timeliness of review of inert ingredients;
 
 &emsp;&emsp;(G) a review of the progress made toward—
 
@@ -1236,7 +1236,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 #### References in Text
 
-The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
+The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of thissection, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

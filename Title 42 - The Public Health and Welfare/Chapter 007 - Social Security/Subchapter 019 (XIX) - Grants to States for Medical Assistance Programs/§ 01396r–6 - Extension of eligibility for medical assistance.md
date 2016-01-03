@@ -28,7 +28,7 @@
 
 #### (B) Notice before termination
 
-&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until the State has provided the family with notice of the grounds for the termination.
+&emsp;&emsp;No termination of assistance shall become effective under subparagraph (A) until theState has provided the family with notice of the grounds for the termination.
 
 #### (C) Continuation in certain cases until redetermination
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), during the 6-month extension period under this subsection, the amount, duration, and scope of medical assistance made available with respect to a family shall be the same as if thefamily were still receiving aid under the plan approved under part A of subchapter IV of this chapter.
+&emsp;&emsp;Subject to subparagraph (B), during the 6-month extension period under this subsection, the amount, duration, and scope of medical assistance made available with respect to a family shall be the same as if the family were still receiving aid under the plan approved under part A of subchapter IV of this chapter.
 
 #### (B) State medicaid "wrap-around" option
 
@@ -88,7 +88,7 @@
 
 #### (iii) Clarification on frequency of reporting
 
-&emsp;&emsp;&emsp;A State may not require that a family receiving extended assistance under thissubsection or subsection (a) of this section report more frequently than as required under clause (i) or (ii).
+&emsp;&emsp;&emsp;A State may not require that a family receiving extended assistance under this subsection or subsection (a) of this section report more frequently than as required under clause (i) or (ii).
 
 #### (3) Termination of extension
 
@@ -128,7 +128,7 @@
 
 #### (ii) Medically needy
 
-&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph (A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating to medically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to an individual who would cease to receive medical assistance because of clause (ii) or (iii) of subparagraph (A) but who may be eligible for assistance under the State plan because the individual is within a category of person for which medical assistance under the State plan is available under section 1396a(a)(10)(C) of this title (relating tomedically needy individuals), the State may not discontinue such assistance under such subparagraph until the State has determined that the individual is not eligible for assistance under the plan.
 
 #### (4) Coverage
 
@@ -142,7 +142,7 @@
 
 #### (B) Elimination of most non-acute care benefits
 
-&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, aState may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>2</sup> of section 1396d(a) of this title.
+&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>2</sup> of section 1396d(a) of this title.
 
 #### (C) State medicaid "wrap-around" option
 
@@ -236,11 +236,7 @@
 
 In this section, the term "caretaker relative" has the meaning of such term as used in part A of subchapter IV of this chapter.
 
-#### (f) Sunset
-
-This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2015.
-
-#### (g) Collection and reporting of participation information
+#### (f) Collection and reporting of participation information
 
 #### (1) Collection of information from States
 
@@ -250,7 +246,7 @@ This section shall not apply with respect to families that cease to be eligible 
 
 &emsp;Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §202, Apr. 1, 2014, 128 Stat. 1046.)
+(Aug. 14, 1935, ch. 531, title XIX, §1925, as added Pub. L. 100–485, title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2385; amended Pub. L. 100–647, title VIII, §8436(a), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–239, title VI, §6411(i)(1), (3), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 101–508, title IV, §§4601(a)(3)(B), 4716(a), Nov. 5, 1990, 104 Stat. 1388–167, 1388–192; Pub. L. 104–193, title I, §114(c), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, 111 Stat. 493, 495; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(t)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §707(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577; Pub. L. 108–40, §7(a), June 30, 2003, 117 Stat. 837; Pub. L. 111–5, div. B, title V, §5004(a)(1), (b)–(d), Feb. 17, 2009, 123 Stat. 503, 504; Pub. L. 111–309, title I, §111, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–78, title III, §311, Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3102, Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §622, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1202, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §202, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §212(a), Apr. 16, 2015, 129 Stat. 152.)
 
 #### References in Text
 
@@ -263,6 +259,8 @@ Paragraph (21) of section 1396d(a) of this title, referred to in subsec. (b)(4)(
 A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (f), (g). Pub. L. 114–10 redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Thissection shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2015."
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–93 substituted "March 31, 2015" for "March 31, 2014".
 
@@ -348,7 +346,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by section 4601(a)(3)(B) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4601 of Pub. L. 101–508 have been promulgated by such date, see section 4601(b) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
+Pub. L. 101–508, title IV, §4716(b), Nov. 5, 1990, 104 Stat. 1388–192, provided that: "The amendments madeby subsection (a) \[amending this section\] shall be effective as if included in the enactment of the Family Support Act of 1988 \[Pub. L. 100–485\]."
 
 #### Effective Date of 1989 Amendment
 

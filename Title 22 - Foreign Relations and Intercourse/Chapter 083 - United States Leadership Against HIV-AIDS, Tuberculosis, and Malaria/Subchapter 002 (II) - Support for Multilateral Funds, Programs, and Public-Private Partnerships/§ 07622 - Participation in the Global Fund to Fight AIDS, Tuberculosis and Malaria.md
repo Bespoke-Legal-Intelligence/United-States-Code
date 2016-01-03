@@ -100,7 +100,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;(A)(i) At any time during fiscal years 2009 through 2018, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-&emsp;(ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50, Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
+&emsp;(ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
 &emsp;(iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
@@ -230,7 +230,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (g) Provision of information to Congress
 
-The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shall make available to the Congress the following documents within 30 days of a request by the Congress for such documents:
+The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shallmake available to the Congress the following documents within 30 days of a request by the Congress for such documents:
 
 &emsp;(1) All financial and accounting statements for the Global Fund and the Activities to Combat HIV/AIDS Globally Fund, including administrative and grantee statements.
 
@@ -264,7 +264,7 @@ It is the sense of the Congress that the President should—
 
 #### References in Text
 
-The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(1)(A), is Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally tochapter 76 (§6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(1)(A), is Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally to chapter 76 (§6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 

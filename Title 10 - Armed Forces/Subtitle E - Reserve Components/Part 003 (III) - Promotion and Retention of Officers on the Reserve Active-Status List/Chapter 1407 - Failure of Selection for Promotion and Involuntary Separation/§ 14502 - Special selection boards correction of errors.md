@@ -2,23 +2,23 @@
 
 (a)
 
-Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
+Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
 
 (2) A special selection board convened under this subsection shall consider the record of the officer or former officer as that record would have appeared to the promotion board that should have considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
-(3) If a special selection board convened under paragraph (1) does not recommend for promotionan officer or former officer in a grade below the grade of colonel or, in the case of an officer or former officer of the Navy, captain, whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
+(3) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in a grade below the grade of colonel or, in the case of an officer or former officer of the Navy, captain, whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
 
 (b)
 
-Officers Considered But Not Selected; Material Error.—(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotion from in or above the promotion zone under this chapter by a selection board but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
+Officers Considered But Not Selected; Material Error.—(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotionfrom in or above the promotion zone under this chapter by a mandatory promotion board convened under section 14101(a) of this title but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
 
-&emsp;(A) the action of the selection board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
+&emsp;(A) the action of the mandatory promotion board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
 
-&emsp;(B) the selection board did not have before it for its consideration material information.
+&emsp;(B) the mandatory promotion board did not have before it for its consideration material information.
 
 (2) A special selection board convened under paragraph (1) shall be appointed and composed in accordance with section 14102 of this title (including the representation of competitive categories required by that section), and the members of such a board shall take an oath in the same manner as prescribed in section 14103 of this title.
 
-(3) Such board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the selection board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
+(3) The special selection board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the mandatory promotion board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
 (4) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in the grade of lieutenant colonel or commander or below whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion by the board which did consider the officer but incurs no additional failure of selection for promotion from the action of the special selection board.
 
@@ -56,7 +56,7 @@ Limitation of Other Jurisdiction.—No official or court of the United States sh
 
 (h)
 
-Judicial Review.—(1) A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shallremand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
+Judicial Review.—(1) A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shall remand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
 
 (2) If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary concerned, who shall provide the officer or former officer reconsideration by a new special selection board.
 
@@ -64,13 +64,19 @@ Judicial Review.—(1) A court of the United States may review a determination b
 
 Designation of Boards.—The Secretary of the military department concerned may designate a promotion board convened under section 14101(a) of this title as a special selection board convened under this section. A board so designated may function in both capacities.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, §505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §514(b), Oct. 17, 2006, 120 Stat. 2185.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, §505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §514(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 114–92, div. A, title V, §§502(c)(2), 512, Nov. 25, 2015, 129 Stat. 807, 809.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5904 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–92, §502(c)(2), struck out "or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error," after "administrative error,".
+
+Subsec. (b)(1). Pub. L. 114–92, §512(1), substituted "a mandatory promotion board convened under section 14101(a) of this title" for "a selection board" in introductory provisions and "mandatory promotion board" for "selection board" in subpars. (A) and (B).
+
+Subsec. (b)(3). Pub. L. 114–92, §512(2), in first sentence, substituted "The special selection board" for "Such board" and "mandatory promotion board" for "selection board".
 
 <b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted "in a matter material to the decision of the board" after "contrary to law".
 

@@ -48,7 +48,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (d) Other priority areas
 
-The Secretary may award grants to or enter into contracts with eligible entities to address other areas that are of high priority to nurse education, practice, and retention, as determined by the Secretary.
+The Secretary may award grants to or enter into contracts with eligible entities to addressother areas that are of high priority to nurse education, practice, and retention, as determined by the Secretary.
 
 #### (e) Preference
 

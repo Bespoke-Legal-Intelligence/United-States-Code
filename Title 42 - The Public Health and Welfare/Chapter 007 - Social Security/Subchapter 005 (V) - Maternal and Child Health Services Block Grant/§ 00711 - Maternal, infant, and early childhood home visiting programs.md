@@ -72,7 +72,7 @@ The purposes of this section are—
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall provide an eligible entity that receives a grant under paragraph (1)with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
+&emsp;The Secretary shall provide an eligible entity that receives a grant under paragraph (1) with technical assistance in administering programs or activities conducted in whole or in part with grant funds.
 
 #### (d) Requirements
 
@@ -104,7 +104,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Corrective action plan
 
-&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+&emsp;&emsp;&emsp;If the report submitted by the eligible entity under clause (i) fails to demonstrateimprovement in at least 4 of the areas specified in subparagraph (A), the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A), subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
 
 #### (iii) Technical assistance
 
@@ -156,7 +156,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the servicedelivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
+&emsp;&emsp;&emsp;Subject to clause (ii), the program is conducted using 1 or more of the service delivery models described in item (aa) or (bb) of subclause (I) or in subclause (II) selected by the eligible entity:
 
 &emsp;&emsp;&emsp;&emsp;(I) The model conforms to a clear consistent home visitation model that has been in existence for at least 3 years and is research-based, grounded in relevant empirically-based knowledge, linked to program determined outcomes, associated with a national organization or institution of higher education that has comprehensive home visitation program standards that ensure high quality service delivery and continuous program quality improvement, and has demonstrated significant,<sup>2</sup> (and in the case of the service delivery model described in item (aa), sustained) positive outcomes, as described in the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), when evaluated using well-designed and rigorous—
 
@@ -168,7 +168,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Majority of grant funds used for evidence-based models
 
-&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grant paid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
+&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grantpaid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
 
 #### (iii) Criteria for evidence of effectiveness of models
 
@@ -238,7 +238,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
-&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
+&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), andsection 9840a of this title (relating to Early Head Start programs).
 
 &emsp;(10) Other information as required by the Secretary.
 
@@ -366,9 +366,13 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;&emsp;(D) $400,000,000 for fiscal year 2013;
 
-&emsp;&emsp;(E) $400,000,000 for fiscal year 2014; and
+&emsp;&emsp;(E) $400,000,000 for fiscal year 2014;
 
-&emsp;&emsp;(F) for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E).
+&emsp;&emsp;(F) for fiscal year 2015, $400,000,000;
+
+&emsp;&emsp;(G) for fiscal year 2016, $400,000,000; and
+
+&emsp;&emsp;(H) for fiscal year 2017, $400,000,000.
 
 #### (2) Reservations
 
@@ -408,7 +412,7 @@ In this section:
 
 &emsp;The terms "Indian Tribe" and "Tribal Organization", and "Urban Indian Organization" have the meanings given such terms in section 1603 of title 25.
 
-(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046.)
+(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153.)
 
 #### References in Text
 
@@ -423,6 +427,8 @@ Another prior section 711, acts Aug. 14, 1935, ch. 531, title V, §511, 49 Stat.
 Provisions similar to those comprising former section 711 were contained in section 516 of act Aug. 14, 1935, ch. 531, title V, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353 (formerly classified to section 716 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (j)(1)(F) to (H). Pub. L. 114–10 substituted "for fiscal year 2015, $400,000,000;" for "for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E)." in subpar. (F) and added subpars. (G) and (H).
 
 <b>2014</b>—Subsec. (j)(1)(F). Pub. L. 113–93, §209(1), added subpar. (F).
 

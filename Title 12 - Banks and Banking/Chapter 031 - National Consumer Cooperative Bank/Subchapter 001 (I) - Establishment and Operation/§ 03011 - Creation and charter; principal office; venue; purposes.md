@@ -16,7 +16,7 @@ The Congress of the United States hereby creates and charters a body corporate t
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–351, Aug. 20, 1978, 92 Stat. 499, known as the National Consumer Cooperative Bank Act, which enacted this chapter, amended section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance, and enacted provisions set out as a note under section 3001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–351, Aug. 20, 1978, 92 Stat. 499, known as the National Consumer Cooperative Bank Act, which enacted this chapter, amended section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance, and enacted provisions set out asa note under section 3001 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Amendments
 

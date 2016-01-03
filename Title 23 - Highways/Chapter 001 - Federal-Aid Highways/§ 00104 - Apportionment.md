@@ -6,11 +6,17 @@ Administrative Expenses.—
 
 &emsp;(1)
 
-In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to be made available to the Secretary for administrative expenses of the Federal Highway Administration—
+In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to be made available to the Secretary for administrative expenses of the Federal Highway Administration—
 
-&emsp;&emsp;(A) $454,180,326 for fiscal year 2013; and
+&emsp;&emsp;(A) $453,000,000 for fiscal year 2016;
 
-&emsp;&emsp;(B) $440,000,000 for fiscal year 2014.
+&emsp;&emsp;(B) $459,795,000 for fiscal year 2017;
+
+&emsp;&emsp;(C) $466,691,925 for fiscal year 2018;
+
+&emsp;&emsp;(D) $473,692,304 for fiscal year 2019; and
+
+&emsp;&emsp;(E) $480,797,689 for fiscal year 2020.
 
 &emsp;(2)
 
@@ -28,23 +34,23 @@ Availability.—The amounts made available under paragraph (1) shall remain avai
 
 (b)
 
-Division of State Apportionments Among Programs.—The Secretary shall distribute the amount apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation program, the highway safety improvement program, and the congestion mitigation and air quality improvement program, and to carry out section 134 as follows:
+Division Among Programs of State's Share of Base Apportionment.—The Secretary shall distribute the amount of the base apportionment apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation block grant program, the highway safety improvement program, the congestion mitigation and air quality improvement program, the national highway freight program, and to carry out section 134 as follows:
 
 &emsp;(1)
 
-National highway performance program.—For the national highway performance program, 63.7 percent of the amount remaining after distributing amounts under paragraphs (4) and (5).
+National highway performance program.—For the national highway performance program, 63.7 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
 
 &emsp;(2)
 
-Surface transportation program.—For the surface transportation program, 29.3 percent of the amount remaining after distributing amounts under paragraphs (4) and (5).
+Surface transportation block grant program.—For the surface transportation block grant program, 29.3 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
 
 &emsp;(3)
 
-Highway safety improvement program.—For the highway safety improvement program, 7 percent of the amount remaining after distributing amounts under paragraphs (4) and (5).
+Highway safety improvement program.—For the highway safety improvement program, 7 percent of the amount remaining after distributing amounts under paragraphs (4), (5), and (6).
 
 &emsp;(4)
 
-Congestion mitigation and air quality improvement program.—For the congestion mitigation and air quality improvement program, an amount determined by multiplying the amount determined for the State under subsection (c) by the proportion that—
+Congestion mitigation and air quality improvement program.—For the congestion mitigation and air quality improvement program, an amount determined by multiplying the amount of the base apportionment remaining for the State under subsection (c) after making the set aside in accordance with paragraph (5) by the proportion that—
 
 &emsp;&emsp;(A) the amount apportioned to the State for the congestion mitigation and air quality improvement program for fiscal year 2009; bears to
 
@@ -52,7 +58,45 @@ Congestion mitigation and air quality improvement program.—For the congestion 
 
 &emsp;(5)
 
-Metropolitan planning.—To carry out section 134, an amount determined by multiplying the amount determined for the State under subsection (c) by the proportion that—
+National highway freight program.—
+
+&emsp;&emsp;(A)
+
+In general.—For the national highway freight program under section 167, the Secretary shall set aside from the base apportionment determined for a State under subsection (c) an amount determined for the State under subparagraphs (B) and (C).
+
+&emsp;&emsp;(B)
+
+Total amount.—The total amount set aside for the national highway freight program for all States shall be—
+
+&emsp;&emsp;&emsp;(i) $1,150,000,000 for fiscal year 2016;
+
+&emsp;&emsp;&emsp;(ii) $1,100,000,000 for fiscal year 2017;
+
+&emsp;&emsp;&emsp;(iii) $1,200,000,000 for fiscal year 2018;
+
+&emsp;&emsp;&emsp;(iv) $1,350,000,000 for fiscal year 2019; and
+
+&emsp;&emsp;&emsp;(v) $1,500,000,000 for fiscal year 2020.
+
+&emsp;&emsp;(C)
+
+State share.—For each fiscal year, the Secretary shall distribute among the States the total set-aside amount for the national highway freight program under subparagraph (B) so that each State receives the amount equal to the proportion that—
+
+&emsp;&emsp;&emsp;(i) the total base apportionment determined for the State under subsection (c); bears to
+
+&emsp;&emsp;&emsp;(ii) the total base apportionments for all States under subsection (c).
+
+&emsp;&emsp;(D)
+
+Metropolitan planning.—Of the amount set aside under this paragraph for a State, the Secretary shall use to carry out section 134 an amount determined by multiplying the set-aside amount by the proportion that—
+
+&emsp;&emsp;&emsp;(i) the amount apportioned to the State to carry out section 134 for fiscal year 2009; bears to
+
+&emsp;&emsp;&emsp;(ii) the total amount of funds apportioned to the State for that fiscal year for the programs referred to in section 105(a)(2) (except for the high priority projects program referred to in section 105(a)(2)(H)), as in effect on the day before the date of enactment of MAP–21 (Public Law 112–141; 126 Stat. 405).
+
+&emsp;(6)
+
+Metropolitan planning.—To carry out section 134, an amount determined by multiplying the amount of the base apportionment remaining for a State under subsection (c) after making the set aside in accordance with paragraph (5) by the proportion that—
 
 &emsp;&emsp;(A) the amount apportioned to the State to carry out section 134 for fiscal year 2009; bears to
 
@@ -60,43 +104,37 @@ Metropolitan planning.—To carry out section 134, an amount determined by multi
 
 (c)
 
-Calculation of State Amounts.—
+Calculation of Amounts.—
 
 &emsp;(1)
 
-For fiscal year 2013.—
+State share.—For each of fiscal years 2016 through 2020, the amount for each State shall be determined as follows:
 
 &emsp;&emsp;(A)
 
-Calculation of amount.—For fiscal year 2013, the amount for each State of combined apportionments for the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 shall be equal to the combined amount of apportionments that the State received for fiscal year 2012.
+Initial amounts.—The initial amounts for each State shall be determined by multiplying—
 
-&emsp;&emsp;(B)
+&emsp;&emsp;&emsp;(i) each of—
 
-State apportionment.—On October 1 of such fiscal year, the Secretary shall apportion the sum authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 in accordance with subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(I) the base apportionment;
 
-&emsp;(2)
+&emsp;&emsp;&emsp;&emsp;(II) supplemental funds reserved under subsection (h)(1) for the national highway performance program; and
 
-For fiscal year 2014.—
+&emsp;&emsp;&emsp;&emsp;(III) supplemental funds reserved under subsection (h)(2) for the surface transportation block grant program; by
 
-&emsp;&emsp;(A)
+&emsp;&emsp;&emsp;(ii) the share for each State, which shall be equal to the proportion that—
 
-State share.—For fiscal year 2014, the amount for each State of combined apportionments for the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 shall be determined as follows:
-
-&emsp;&emsp;&emsp;(i)
-
-Initial amount.—The initial amount for each State shall be determined by multiplying the total amount available for apportionment by the share for each State which shall be equal to the proportion that—
-
-&emsp;&emsp;&emsp;&emsp;(I) the amount of apportionments that the State received for fiscal year 2012; bears to
+&emsp;&emsp;&emsp;&emsp;(I) the amount of apportionments that the State received for fiscal year 2015; bears to
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of those apportionments received by all States for that fiscal year.
 
-&emsp;&emsp;&emsp;(ii)
-
-Adjustments to amounts.—The initial amounts resulting from the calculation under clause (i) shall be adjusted to ensure that, for each State, the amount of combined apportionments for the programs shall not be less than 95 percent of the estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund (other than the Mass Transit Account) in the most recent fiscal year for which data are available.
-
 &emsp;&emsp;(B)
 
-State apportionment.—On October 1 of such fiscal year, the Secretary shall apportion the sum authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, and to carry out section 134 in accordance with subparagraph (A).
+Adjustments to amounts.—The initial amounts resulting from the calculation under subparagraph (A) shall be adjusted to ensure that each State receives an aggregate apportionment equal to at least 95 percent of the estimated tax payments attributable to highway users in the State paid into the Highway Trust Fund (other than the Mass Transit Account) in the most recent fiscal year for which data are available.
+
+&emsp;(2)
+
+State apportionment.—On October 1 of fiscal years 2016 through 2020, the Secretary shall apportion the sums authorized to be appropriated for expenditure on the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, and to carry out section 134 in accordance with paragraph (1).
 
 (d)
 
@@ -112,11 +150,11 @@ Use.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided in clause (ii), the amounts apportioned to a State under subsection (b)(5) shall be made available by the State to the metropolitan planning organizations responsible for carrying out section 134 in the State.
+In general.—Except as provided in clause (ii), the amounts apportioned to a State under paragraphs (5)(D) and (6) of subsection (b) shall be made available by the State to the metropolitan planning organizations responsible for carrying out section 134 in the State.
 
 &emsp;&emsp;&emsp;(ii)
 
-States receiving minimum apportionment.—A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under subsection (b)(5) to fund transportation planning outside of urbanized areas.
+States receiving minimum apportionment.—A State that received the minimum apportionment for use in carrying out section 134 for fiscal year 2009 may, subject to the approval of the Secretary, use the funds apportioned under paragraphs (5)(D) and (6) of subsection (b) to fund transportation planning outside of urbanized areas.
 
 &emsp;&emsp;(B)
 
@@ -192,7 +230,7 @@ Transfer of transit funds for highway projects.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), amounts made available for highwayprojects or transportation planning under chapter 53 of title 49 may be transferred to and administered by the Secretary in accordance with this title.
+In general.—Subject to subparagraph (B), amounts made available for highway projects or transportation planning under chapter 53 of title 49 may be transferred to and administered by the Secretary in accordance with this title.
 
 &emsp;&emsp;(B)
 
@@ -220,31 +258,145 @@ Transfer of obligation authority.—Obligation authority for amounts transferred
 
 (g)
 
-Report to Congress.—For each fiscal year, the Secretary shall make available to the public, in a user-friendly format via the Internet, a report that describes—
+Highway Trust Fund Transparency and Accountability Reports.—
 
-&emsp;(1) the amount obligated, by each State, for Federal-aid highways and highway safety construction programs during the preceding fiscal year;
+&emsp;(1)
 
-&emsp;(2) the balance, as of the last day of the preceding fiscal year, of the unobligated apportionment of each State by fiscal year under this section;
+Compilation of data.—Not later than 180 days after the date of enactment of the FAST Act, the Secretary shall compile data in accordance with this subsection on the use of Federal-aid highway funds made available under this title.
 
-&emsp;(3) the balance of unobligated sums available for expenditure at the discretion of the Secretary for such highways and programs for the fiscal year; and
+&emsp;(2)
 
-&emsp;(4) the rates of obligation of funds apportioned or set aside under this section, according to—
+Requirements.—The Secretary shall ensure that the reports required under this subsection are made available in a user-friendly manner on the public Internet website of theDepartment of Transportation and can be searched and downloaded by users of the website.
 
-&emsp;&emsp;(A) program;
+&emsp;(3)
 
-&emsp;&emsp;(B) funding category of subcategory;
+Contents of reports.—
 
-&emsp;&emsp;(C) type of improvement;
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(D) State; and
+Apportioned and allocated programs.—On a semiannual basis, the Secretary shall make available a report on funding apportioned and allocated to the States under this title that describes—
 
-&emsp;&emsp;(E) sub-State geographical area, including urbanized and rural areas, on the basis of the population of each such area.
+&emsp;&emsp;&emsp;(i) the amount of funding obligated by each State, year-to-date, for the current fiscal year;
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 889; Pub. L. 86–70, §21(e)(2), June 25, 1959, 73 Stat. 146; Pub. L. 86–657, §8(g), July 14, 1960, 74 Stat. 525; Pub. L. 87–866, §10(a), Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §§2, 3, Oct. 24, 1963, 77 Stat. 276; Pub. L. 88–423, §4(a), Aug. 13, 1964, 78 Stat. 397; Pub. L. 89–574, §4(b), Sept. 13, 1966, 80 Stat. 767; Pub. L. 90–495, §4(b), Aug. 23, 1968, 82 Stat. 816; Pub. L. 91–605, title I, §§104(b), 106(c), Dec. 31, 1970, 84 Stat. 1714, 1717; Pub. L. 93–87, title I, §§106(b), 111(a), 112, title II, §227, Aug. 13, 1973, 87 Stat. 254, 256, 257, 292; Pub. L. 94–280, title I, §§106(b), 107(b), 112(a)–(g), 113(a), title II, §206, May 5, 1976, 90 Stat. 429, 430, 433–435, 453; Pub. L. 95–599, title I, §§108–110, 116(b), Nov. 6, 1978, 92 Stat. 2695, 2696, 2699; Pub. L. 97–134, §§4(c), 5, Dec. 29, 1981, 95 Stat. 1700; Pub. L. 100–17, title I, §§102(b)(1), (2), 114(e)(1), Apr. 2, 1987, 101 Stat. 135, 153; Pub. L. 100–202, §101(l) \[title III, §347(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–516, title III, §333 (part), Nov. 5, 1990, 104 Stat. 2184; Pub. L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947; Pub. L. 102–240, title I, §§1001(c)–(e), 1003(e), 1006(e), (f), 1007(b), 1008(b), 1009(d), 1010, 1024(b), (c)(2), 1028(g), Dec. 18, 1991, 105 Stat. 1915, 1916, 1926, 1930, 1932, 1934, 1962, 1968; Pub. L. 104–59, title III, §§302, 319(a)(2), 337(f), title IV, §410, Nov. 28, 1995, 109 Stat. 578, 589, 603, 633; Pub. L. 105–130, §§4(a)(3), 5(b), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title I, §§1103(a)–(k), (o), 1212(a)(2)(A), June 9, 1998, 112 Stat. 118–125, 193; Pub. L. 105–206, title IX, §9002(c)(3), July 22, 1998, 112 Stat. 835; Pub. L. 106–159, title I, §101(b), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 108–178, §4(d), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–59, title I, §§1103, 1107–1109(a), 1118(b)(2), 1401(a)(3)(A), (b), Aug. 10, 2005, 119 Stat. 1161, 1166–1168, 1181, 1225; Pub. L. 110–244, title I, §101(i), (m)(3)(A), June 6, 2008, 122 Stat. 1574, 1576; Pub. L. 112–141, div. A, title I, §§1105(a), 1519(c)(3), July 6, 2012, 126 Stat. 427, 575.)
+&emsp;&emsp;&emsp;(ii) the amount of funds remaining available for obligation by each State;
+
+&emsp;&emsp;&emsp;(iii) changes in the obligated, unexpended balance for each State, year-to-date, during the current fiscal year, including the obligated, unexpended balance at the end of the preceding fiscal year and current fiscal year expenditures;
+
+&emsp;&emsp;&emsp;(iv) the amount and program category of unobligated funding, year-to-date, available for expenditure at the discretion of the Secretary;
+
+&emsp;&emsp;&emsp;(v) the rates of obligation on and off the National Highway System, year-to-date, for the current fiscal year of funds apportioned, allocated, or set aside under this section, according to—
+
+&emsp;&emsp;&emsp;&emsp;(I) program;
+
+&emsp;&emsp;&emsp;&emsp;(II) funding category or subcategory;
+
+&emsp;&emsp;&emsp;&emsp;(III) type of improvement;
+
+&emsp;&emsp;&emsp;&emsp;(IV) State; and
+
+&emsp;&emsp;&emsp;&emsp;(V) sub-State geographical area, including urbanized and rural areas, on the basis of the population of each such area; and
+
+&emsp;&emsp;&emsp;(vi) the amount of funds transferred by each State, year-to-date, for the current fiscal year between programs under section 126.
+
+&emsp;&emsp;(B)
+
+Project data.—On an annual basis, the Secretary shall make available a report that provides, for any project funded under this title (excluding projects for which funds are transferred to agencies other than the Federal Highway Administration) with an estimated total cost as of the start of construction greater than $25,000,000, and to the maximum extent practicable, other projects funded under this title, project data describing—
+
+&emsp;&emsp;&emsp;(i) the specific location of the project;
+
+&emsp;&emsp;&emsp;(ii) the total cost of the project;
+
+&emsp;&emsp;&emsp;(iii) the amount of Federal funding obligated for the project;
+
+&emsp;&emsp;&emsp;(iv) the program or programs from which Federal funds have been obligated for the project;
+
+&emsp;&emsp;&emsp;(v) the type of improvement being made, such as categorizing the project as—
+
+&emsp;&emsp;&emsp;&emsp;(I) a road reconstruction project;
+
+&emsp;&emsp;&emsp;&emsp;(II) a new road construction project;
+
+&emsp;&emsp;&emsp;&emsp;(III) a new bridge construction project;
+
+&emsp;&emsp;&emsp;&emsp;(IV) a bridge rehabilitation project; or
+
+&emsp;&emsp;&emsp;&emsp;(V) a bridge replacement project;
+
+&emsp;&emsp;&emsp;(vi) the ownership of the highway or bridge;
+
+&emsp;&emsp;&emsp;(vii) whether the project is located in an area of the State with a population of—
+
+&emsp;&emsp;&emsp;&emsp;(I) less than 5,000 individuals;
+
+&emsp;&emsp;&emsp;&emsp;(II) 5,000 or more individuals but less than 50,000 individuals;
+
+&emsp;&emsp;&emsp;&emsp;(III) 50,000 or more individuals but less than 200,000 individuals; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) 200,000 or more individuals; and
+
+&emsp;&emsp;&emsp;(viii) available information on the estimated cost of the project as of the start of project construction, or the revised cost estimate based on a description of revisions to the scope of work or other factors affecting project cost other than cost overruns.
+
+(h)
+
+Supplemental Funds.—
+
+&emsp;(1)
+
+Supplemental funds for national highway performance program.—
+
+&emsp;&emsp;(A)
+
+Amount.—Before making an apportionment for a fiscal year under subsection (c), the Secretary shall reserve for the national highway performance program under section 119 for that fiscal year an amount equal to—
+
+&emsp;&emsp;&emsp;(i) $53,596,122 for fiscal year 2019; and
+
+&emsp;&emsp;&emsp;(ii) $66,717,816 for fiscal year 2020.
+
+&emsp;&emsp;(B)
+
+Treatment of funds.—Funds reserved under subparagraph (A) and apportioned to a State under subsection (c) shall be treated as if apportioned under subsection (b)(1), and shall be in addition to amounts apportioned under that subsection.
+
+&emsp;(2)
+
+Supplemental funds for surface transportation block grant program.—
+
+&emsp;&emsp;(A)
+
+Amount.—Before making an apportionment for a fiscal year under subsection (c), the Secretary shall reserve for the surface transportation block grant program under section 133 for that fiscal year an amount equal to—
+
+&emsp;&emsp;&emsp;(i) $835,000,000 for each of fiscal years 2016 and 2017 pursuant to section 133(h), plus—
+
+&emsp;&emsp;&emsp;&emsp;(I) $55,426,310 for fiscal year 2016; and
+
+&emsp;&emsp;&emsp;&emsp;(II) $89,289,904 for fiscal year 2017; and
+
+&emsp;&emsp;&emsp;(ii) $850,000,000 for each of fiscal years 2018 through 2020 pursuant to section 133(h), plus—
+
+&emsp;&emsp;&emsp;&emsp;(I) $118,013,536 for fiscal year 2018;
+
+&emsp;&emsp;&emsp;&emsp;(II) $130,688,367 for fiscal year 2019; and
+
+&emsp;&emsp;&emsp;&emsp;(III) $170,053,448 for fiscal year 2020.
+
+&emsp;&emsp;(B)
+
+Treatment of funds.—Funds reserved under subparagraph (A) and apportioned to a State under subsection (c) shall be treated as if apportioned under subsection (b)(2), and shall be in addition to amounts apportioned under that subsection.
+
+(i)
+
+Base Apportionment Defined.—In this section, the term "base apportionment" means—
+
+&emsp;(1) the combined amount authorized for appropriation for the national highway performance program under section 119, the surface transportation block grant program under section 133, the highway safety improvement program under section 148, the congestion mitigation and air quality improvement program under section 149, the national highway freight program under section 167, and to carry out section 134; minus
+
+&emsp;(2) supplemental funds reserved under subsection (h) for the national highway performance program and the surface transportation block grant program.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 889; Pub. L. 86–70, §21(e)(2), June 25, 1959, 73 Stat. 146; Pub. L. 86–657, §8(g), July 14, 1960, 74 Stat. 525; Pub. L. 87–866, §10(a), Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, §§2, 3, Oct. 24, 1963, 77 Stat. 276; Pub. L. 88–423, §4(a), Aug. 13, 1964, 78 Stat. 397; Pub. L. 89–574, §4(b), Sept. 13, 1966, 80 Stat. 767; Pub. L. 90–495, §4(b), Aug. 23, 1968, 82 Stat. 816; Pub. L. 91–605, title I, §§104(b), 106(c), Dec. 31, 1970, 84 Stat. 1714, 1717; Pub. L. 93–87, title I, §§106(b), 111(a), 112, title II, §227, Aug. 13, 1973, 87 Stat. 254, 256, 257, 292; Pub. L. 94–280, title I, §§106(b), 107(b), 112(a)–(g), 113(a), title II, §206, May 5, 1976, 90 Stat. 429, 430, 433–435, 453; Pub. L. 95–599, title I, §§108–110, 116(b), Nov. 6, 1978, 92 Stat. 2695, 2696, 2699; Pub. L. 97–134, §§4(c), 5, Dec. 29, 1981, 95 Stat. 1700; Pub. L. 100–17, title I, §§102(b)(1), (2), 114(e)(1), Apr. 2, 1987, 101 Stat. 135, 153; Pub. L. 100–202, §101(l) \[title III, §347(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–516, title III, §333 (part), Nov. 5, 1990, 104 Stat. 2184; Pub. L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947; Pub. L. 102–240, title I, §§1001(c)–(e), 1003(e), 1006(e), (f), 1007(b), 1008(b), 1009(d), 1010, 1024(b), (c)(2), 1028(g), Dec. 18, 1991, 105 Stat. 1915, 1916, 1926, 1930, 1932, 1934, 1962, 1968; Pub. L. 104–59, title III, §§302, 319(a)(2), 337(f), title IV, §410, Nov. 28, 1995, 109 Stat. 578, 589, 603, 633; Pub. L. 105–130, §§4(a)(3), 5(b), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title I, §§1103(a)–(k), (o), 1212(a)(2)(A), June 9, 1998, 112 Stat. 118–125, 193; Pub. L. 105–206, title IX, §9002(c)(3), July 22, 1998, 112 Stat. 835; Pub. L. 106–159, title I, §101(b), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 108–178, §4(d), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–59, title I, §§1103, 1107–1109(a), 1118(b)(2), 1401(a)(3)(A), (b), Aug. 10, 2005, 119 Stat. 1161, 1166–1168, 1181, 1225; Pub. L. 110–244, title I, §101(i), (m)(3)(A), June 6, 2008, 122 Stat. 1574, 1576; Pub. L. 112–141, div. A, title I, §§1105(a), 1519(c)(3), July 6, 2012, 126 Stat. 427, 575; Pub. L. 114–94, div. A, title I, §§1104(a)–(e)(1), 1402(a), 1446(d)(5)(A), Dec. 4, 2015, 129 Stat. 1329–1332, 1405, 1438.)
 
 #### References in Text
 
-Section 105(a)(2) and subsection (b)(3), as in effect on the day before the date of enactment of the MAP–21, referred to in subsecs. (b)(4)(B), (5)(B) and (f)(3)(C), mean section 105(a)(2) of this title and subsec. (b)(3) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which repealed section 105 and amended this section generally. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+Section 105(a)(2) and subsection (b)(3), as in effect on the day before the date of enactment of the MAP–21, referred to in subsecs. (b)(4)(B), (5)(D)(ii), (6)(B) and (f)(3)(C), mean section 105(a)(2) of this title and subsec. (b)(3) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which repealed section 105 and amended this section generally. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+
+The date of enactment of the FAST Act, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Codification
 
@@ -252,15 +404,49 @@ Another section 1003(e) of Pub. L. 102–240, as added by Pub. L. 105–130, §2
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §1104(a), amended par. (1) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to be made available to the Secretary for administrative expenses of the Federal Highway Administration—
+
+&emsp;"(A) $454,180,326 for fiscal year 2013; and
+
+&emsp;"(B) $440,000,000 for fiscal year 2014."
+
+Subsec. (b). Pub. L. 114–94, §1104(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall distribute the amount apportioned to a State for a fiscal year under subsection (c) among the national highway performance program, the surface transportation program, the highway safety improvement program, and the congestion mitigation and air quality improvement program, and to carry out section 134 as follows:".
+
+Subsec. (b)(1). Pub. L. 114–94, §1104(b)(2), substituted "paragraphs (4), (5), and (6)" for "paragraphs (4) and (5)".
+
+Subsec. (b)(2). Pub. L. 114–94, §1104(b)(2), (3), substituted "
+
+Surface transportation block grant program" for "
+
+Surface transportation program" in heading, "paragraphs (4), (5), and (6)" for "paragraphs (4) and (5)", and "surface transportation block grant program" for "surface transportation program".
+
+Subsec. (b)(3). Pub. L. 114–94, §1104(b)(2), substituted "paragraphs (4), (5), and (6)" for "paragraphs (4) and (5)".
+
+Subsec. (b)(4). Pub. L. 114–94, §1104(b)(4), substituted "the amount of the base apportionment remaining for the State under subsection (c) after making the set aside in accordance with paragraph (5)" for "the amount determined for the State under subsection (c)" in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 114–94, §1104(b)(6), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 114–94, §1104(b)(5), (7), redesignated former par. (5) as (6), and substituted "the amount of the base apportionment remaining for a State under subsection (c) after making the set aside in accordance with paragraph (5)" for "the amount determined for the State under subsection (c)" in introductory provisions.
+
+Subsec. (c). Pub. L. 114–94, §1104(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to calculation of State amounts.
+
+Subsec. (d)(1)(A). Pub. L. 114–94, §1104(e)(1), substituted "paragraphs (5)(D) and (6) of subsection (b)" for "subsection (b)(5)" in two places.
+
+Subsec. (e). Pub. L. 114–94, §1446(d)(5)(A), repealed amendment by Pub. L. 112–141, §1519(c)(3). See 2012 Amendment note below.
+
+Subsec. (g). Pub. L. 114–94, §1402(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to reports to Congress for each fiscal year.
+
+Subsecs. (h), (i). Pub. L. 114–94, §1104(d), added subsecs. (h) and (i).
+
 <b>2012</b>—Pub. L. 112–141, §1105(a), amended section generally. Prior to amendment, section related to apportionment and consisted of subsecs. (a) to (l).
 
-Subsec. (e). Pub. L. 112–141, §1519(c)(3), which directed amendment of subsec. (e) by striking out "105," could not be executed because "105," did not appear after amendment by section 1105(a) of Pub. L. 112–141.
+Subsec. (e). Pub. L. 112–141, §1519(c)(3), which directed amendment of subsec. (e) by striking out ", 105," and could not be executed, was repealed by Pub. L. 114–94, §1446(d)(5)(A).
 
 <b>2008</b>—Subsec. (b)(5)(A)(iii). Pub. L. 110–244, §101(i), substituted "Federal-aid highways" for "the Federal-aid system" in subcls. (I) and (II).
 
 Subsec. (f)(1). Pub. L. 110–244, §101(m)(3)(A), struck out "replacement and rehabilitation" after "highway bridge".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1103(a)(1), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions authorizing appropriations for administrative expenses of the Federal Highway Administration and provisions relating touses and availability of funds for provisions relating to deduction for administrative activities from sums made available under certain programs and provisions relating to consideration of unobligated balances, availability of sums, and limitation on transferability.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1103(a)(1), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions authorizing appropriations for administrative expenses of the Federal Highway Administration and provisions relating to uses and availability of funds for provisions relating to deduction for administrative activities from sums made available under certain programs and provisions relating to consideration of unobligated balances, availability of sums, and limitation on transferability.
 
 Subsec. (b). Pub. L. 109–59, §§1103(a)(2)(A), 1401(b)(1), in introductory provisions, substituted "the set-asides authorized by subsections (d) and (f) and section 130(e)" for "the deduction authorized by subsection (a) and the set-aside authorized by subsection (f)" and inserted "the highway safety improvement program," after "Improvement program,".
 
@@ -326,7 +512,7 @@ Transfer of obligation authority.—Obligation authority provided for projects d
 
 Subsec. (a)(4). Pub. L. 106–159, §101(b)(4), which directed amendment of subsec. (a)(1) by adding par. (4) at the end, was executed by adding par. (4) at the end of subsec. (a), to reflect the probable intent of Congress.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1103(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "Whenever an apportionment is made of the sums authorized to be appropriated for expenditure on the surface transportation program, the congestion mitigation and air quality improvement program, the National Highway System, and the Interstate System, the Secretary shall deduct a sum, in such amount not to exceed 3¾ per centum of all sums so authorized as the Secretary may deem necessary for administering the provisions of law to be financed from appropriations for the Federal-aid systems and for carrying on the research authorized by subsections (a) and (b) of section 307 of this title. In making such determination, the Secretary shall take into account the unexpended balance of any sums deducted for such purposes in prior years. The sum so deducted shall be available for expenditure from the unexpended balance of any appropriation made at any time for expenditure upon the Federal-aid systems, until such sum has been expended."
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1103(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "Whenever an apportionment is made of the sums authorized to be appropriated for expenditure on the surface transportation program, the congestion mitigation and air quality improvement program, the National Highway System, and the Interstate System, the Secretary shall deduct a sum, in such amount not to exceed 3¾ per centum of all sums so authorized as the Secretary may deem necessary for administering the provisions of law to be financed from appropriations for the Federal-aid systems and for carrying on the research authorized by subsections (a) and (b) of section 307 of this title. In making such determination,the Secretary shall take into account the unexpended balance of any sums deducted for such purposes in prior years. The sum so deducted shall be available for expenditure from the unexpended balance of any appropriation made at any time for expenditure upon the Federal-aid systems, until such sum has been expended."
 
 Subsec. (a)(1). Pub. L. 105–178, §1103(o)(1), as added by Pub. L. 105–206, §9002(c)(3), struck out "under section 103" after "National Highway System program" in introductory provisions.
 
@@ -390,13 +576,13 @@ Woodrow Wilson Memorial Bridge.—
 
 &emsp;"(1)
 
-Expenditure.—From any available administrative funds deducted under subsection (a), the Secretary shall obligate such sums as are necessary for each of fiscal years 1996 and 1997, and for the period of October 1, 1997, through March 31, 1998, for the rehabilitation of the Woodrow Wilson Memorial Bridge and for environmental studies and documentation,planning, preliminary engineering and design, and final engineering for a new crossing of the Potomac River as part of the Project, as defined by section 404 of the Woodrow Wilson Memorial Bridge Authority Act of 1995.
+Expenditure.—From any available administrative funds deducted under subsection (a), the Secretary shall obligate such sums as are necessary for each of fiscal years 1996 and 1997, and for the period of October 1, 1997, through March 31, 1998, for the rehabilitation of the Woodrow Wilson Memorial Bridge and for environmental studies and documentation, planning, preliminary engineering and design, and final engineering for a new crossing of the Potomac River as part of the Project, as defined by section 404 of the Woodrow Wilson Memorial Bridge Authority Act of 1995.
 
 &emsp;"(2)
 
 Federal share.—The Federal share of the cost of any project funded with amounts expended under paragraph (1) shall be 100 percent."
 
-Subsec. (j). Pub. L. 105–178, §1103(h), added subsec. (j) and struck out former subsec. (j) which read as follows: "The Secretary shall submit to Congress not later than the 20th day of each calendar month which begins after the date of enactment of this subsection a report on (1) the amount of obligation, by State, for Federal-aid highways and the highway safety construction programs during the preceding calendar month, (2) the cumulative amount of obligation, by State, for that fiscal year, (3) the balance as of the last day of such preceding month of the unobligated apportionment of each State by fiscal year, and (4) the balance of unobligated sums available for expenditure at the discretion of the Secretary for such highways and programs for that fiscal year."
+Subsec. (j). Pub. L. 105–178, §1103(h), added subsec. (j) and struck out former subsec. (j) which read as follows: "The Secretary shall submit to Congress not later than the 20th day of each calendar month which begins after the date of enactment of this subsection a report on (1) the amount of obligation, by State, for Federal-aidhighways and the highway safety construction programs during the preceding calendar month, (2) the cumulative amount of obligation, by State, for that fiscal year, (3) the balance as of the last day of such preceding month of the unobligated apportionment of each State by fiscal year, and (4) the balance of unobligated sums available for expenditure at the discretion of the Secretary for such highways and programs for that fiscal year."
 
 Subsec. (k). Pub. L. 105–178, §1103(i), added subsec. (k).
 
@@ -438,7 +624,7 @@ Subsec. (c). Pub. L. 102–240, §1006(f), added subsec. (c) and struck out form
 
 "(1) Subject to subsection (d), the amount apportioned in any fiscal year, commencing with the apportionment of funds authorized to be appropriated under subsection (a) of section 102 of the Federal-Aid Highway Act of 1956 (70 Stat. 374), to each State in accordance with paragraph (1) or (2) of subsection (b) of this section may be transferred from the apportionment under one paragraph to the apportionment under the other paragraph if such a transfer is requested by the State highway department and is approved by the Governor of such State and the Secretary as being in the public interest.
 
-"(2) Subject to subsection (d), the amount apportioned in any fiscal year to each State in accordance with paragraph (1) or (6) of subsection (b) of this section may be transferred from the apportionment under one paragraph to the apportionment under the other paragraph if such transfer is requested by the State highway department and is approved by the Governor of such State and the Secretary as being in the public interest. Funds apportioned in accordance with paragraph (6) of subsection (b) of this section shall not be transferred from their allocation to any urbanized area of two hundred thousand population or more under section 150 of this title, without the approval of the local officials of such urbanized area."
+"(2) Subject to subsection (d), the amount apportioned in any fiscal year to each State in accordance with paragraph (1) or (6) of subsection (b) of this section may be transferred from the apportionment under one paragraph to the apportionment under the other paragraph if such transfer is requested by the State highway department and is approved by the Governor of such State and the Secretary as being in the publicinterest. Funds apportioned in accordance with paragraph (6) of subsection (b) of this section shall not be transferred from their allocation to any urbanized area of two hundred thousand population or more under section 150 of this title, without the approval of the local officials of such urbanized area."
 
 Pub. L. 102–143, §333(c), repealed Pub. L. 101–516, §333. See 1990 Amendment note below.
 
@@ -550,7 +736,7 @@ Subsec. (h). Pub. L. 95–599, §110, added subsec. (h).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–280, §112(a), substituted "On October 1 of each fiscal year" for "On or before January 1 next preceding the commencement of each fiscal year,".
 
-Subsec. (b)(1). Pub. L. 94–280, §112(b), inserted in introductory text "(including extensions in urban areas and priority primary routes)", made existing provisions applicable for a two-third apportionment of monies, striking out "in all the States at the close of the next preceding calendar year" before "as shown by a certificate of the Postmaster General" and inserted provision for a one-third apportionment in the ratio which thepopulation in urban areas in each State bears to the total population in urban areas in all the States as shown by the latest Federal census.
+Subsec. (b)(1). Pub. L. 94–280, §112(b), inserted in introductory text "(including extensions in urban areas and priority primary routes)", made existing provisions applicable for a two-third apportionment of monies, striking out "in all the States at the close of the next preceding calendar year" before "as shown by a certificate of the Postmaster General" and inserted provision for a one-third apportionment in the ratio which the population in urban areas in each State bears to the total population in urban areas in all the States as shown by the latest Federal census.
 
 Subsec. (b)(3). Pub. L. 94–280, §112(c), repealed provisions respecting apportionment of monies for extensions of the Federal-aid primary and Federal-aid secondary systems within urban areas in the ratio which the population in municipalities and other urban places of five thousand or more in each State bears to the total population in municipalities and other urban places of five thousand or more in all of the States as shown by the latest available Federal census.
 
@@ -582,11 +768,11 @@ Subsec. (c). Pub. L. 93–87, §111(a)(5), (7), substituted "40" for "20" per ce
 
 Subsec. (d). Pub. L. 93–87, §111(a)(6), substituted provisions respecting transfer of apportionment of funds under pars. (3) and (6) of subsec. (b) of this section from one paragraph to the other when requested by the State highway department and approved as in the public interest by the Governor of the State and the Secretary for former provisions which authorized expenditure of subsec. (b)(2) funds apportioned for Federal-aid secondary system to a State for projects on another Federal-aid system when the State highway department and the Secretary were in joint agreement as to such other expenditure.
 
-Subsec. (f). Pub. L. 93–87, §112, incorporated provisions of former subsec. (f) that "Not to exceed 50 per centum of the amounts apportioned in accordance with paragraph (3) of subsection (b) of this section may be expended for projects on the Federal-aid urban system" in provisions designated as par. (1) and stating that "On or before January 1 next preceding the commencement of each fiscal year, the Secretary, after making the deduction authorized by subsection (a) of this section, shall set aside not to exceed one-half per centumof the remaining funds authorized to be appropriated for expenditure upon the Federal-aid systems, for the purpose of carrying out the requirements of section 134 of this title." and added pars. (2)–(4).
+Subsec. (f). Pub. L. 93–87, §112, incorporated provisions of former subsec. (f) that "Not to exceed 50 per centum of the amounts apportioned in accordance with paragraph (3) of subsection (b) of this section may be expended for projects on the Federal-aid urban system" in provisions designated as par. (1) and stating that "On or before January 1 next preceding the commencement of each fiscal year, the Secretary, after making the deduction authorized by subsection (a) of this section, shall set aside not to exceed one-half per centum of the remaining funds authorized to be appropriated for expenditure upon the Federal-aid systems, for the purpose of carrying out the requirements of section 134 of this title." and added pars. (2)–(4).
 
 Subsec. (g). Pub. L. 93–87, §227, added subsec. (g).
 
-<b>1970</b>—Subsec. (b)(5). Pub. L. 91–605, §104(b), extended from 1974 to 1976 the date for completion of the Interstate System, substituted "on April 20, 1970" for "within ten days subsequent to January 2, 1970" as the date for submission by the Secretary to Congress of a revised completion cost estimate of the Interstate System, struck out reference of finality as applied to this estimate, deleted June 30, 1974 from the enumerated list of fiscal years for which the Secretary shall use the Federal share of the approved 1970 estimate in making apportionments, inserted provision directing the Secretary to submit to Congress a revised Interstate System completion cost estimate within 10 days from Jan. 2, 1972 with apportionments to be made by the Secretary for use in the fiscal years 1974 and 1975 from the Federal share of the approved estimate, and inserted provision directing the Secretary to submit to Congress another cost estimate within 10 days from Jan. 2, 1974 to be used for making apportionments for the fiscal year 1976.
+<b>1970</b>—Subsec. (b)(5). Pub. L. 91–605, §104(b), extended from 1974 to 1976 the date for completion of the Interstate System, substituted "on April 20, 1970" for "within ten days subsequent to January 2, 1970" as the date for submission by the Secretary to Congress of a revised completion cost estimate of the Interstate System, struck out reference of finality as applied to this estimate, deleted June 30, 1974 from the enumerated list of fiscal years for which the Secretary shall use theFederal share of the approved 1970 estimate in making apportionments, inserted provision directing the Secretary to submit to Congress a revised Interstate System completion cost estimate within 10 days from Jan. 2, 1972 with apportionments to be made by the Secretary for use in the fiscal years 1974 and 1975 from the Federal share of the approved estimate, and inserted provision directing the Secretary to submit to Congress another cost estimate within 10 days from Jan. 2, 1974 to be used for making apportionments for the fiscal year 1976.
 
 Subsec. (b)(6). Pub. L. 91–605, §106(c)(2), added par. (6).
 
@@ -607,6 +793,12 @@ Subsec. (b)(5). Pub L. 88–157, §3, substituted "1971" for "1969" in introduct
 <b>1960</b>—Subsec. (b)(5). Pub L. 86–657 struck out provisions which required, in making the estimates of cost for completing the Interstate System, exclusion of the cost of completing any mileage designated from the one thousand additional miles authorized by section 108(1) of the Federal-Aid Highway Act of 1956.
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–70 struck out ", except that only one-third of the area of Alaska shall be included" after "total area of all States" in pars. (1) and (2).
+
+#### Effective Date of 2015 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(A) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 
@@ -686,25 +878,7 @@ Pub. L. 102–143, title III, §333(d), Oct. 28, 1991, 105 Stat. 947, provided t
 
 #### Transparency and Accountability
 
-Pub. L. 112–141, div. A, title I, §1503(c), July 6, 2012, 126 Stat. 564, provided that:
-
-"(1)
-
-Data collection.—The Secretary \[of Transportation\] shall compile and make available on the public website of the Department of Transportation the annual expenditure data for funds made available under title 23 and chapter 53 of title 49, United States Code.
-
-"(2)
-
-Requirements.—In carrying out paragraph (1), the Secretary shall ensure that the data made available on the public website of the Department of Transportation—
-
-&emsp;"(A) is organized by project and State;
-
-&emsp;"(B) to the maximum extent practicable, is updated regularly to reflect the current status of obligations, expenditures, and Federal-aid projects; and
-
-&emsp;"(C) can be searched and downloaded by users of the website.
-
-"(3)
-
-Report to congress.—The Secretary shall annually submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing a summary of the data described in paragraph (1) for the 1-year period ending on the date on which the report is submitted."
+Pub. L. 112–141, div. A, title I, §1503(c), July 6, 2012, 126 Stat. 564, which directed the Secretary of Transportation to compile and make available on the public website of the Department of Transportation the annual expenditure data for funds made available under this title and chapter 53 of Title 49, Transportation, and to annually submit a report to Congress containing a summary of such data, was repealed by Pub. L. 114–94, div. A, title I, §1402(b), Dec. 4, 2015, 129 Stat. 1407.
 
 #### Evacuation Routes
 
@@ -740,7 +914,7 @@ Apportionment ratio.—Except as provided in paragraph (2), the Secretary of Tra
 
 &emsp;"(2)
 
-Exception.—The ratios determined under this subsection shall be subject to the same adjustmentsas the adjustments made under \[former\] section 105(f) of title 23, United States Code.
+Exception.—The ratios determined under this subsection shall be subject to the same adjustments as the adjustments made under \[former\] section 105(f) of title 23, United States Code.
 
 "(b)
 
@@ -748,7 +922,7 @@ Programmatic Distributions.—
 
 &emsp;"(1)
 
-Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System program, the bridge program, the surface transportation program, the congestion mitigation and air quality improvement program, the recreational trails program, the Appalachian development highway system program, and the minimum guarantee.
+Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System program, the bridge program, the surface transportation program \[now the surface transportation block grant program\], the congestion mitigation and air quality improvement program, the recreational trails program, the Appalachian development highway system program, and the minimum guarantee.
 
 &emsp;"(2)
 
@@ -830,7 +1004,7 @@ Programmatic Distributions.—
 
 &emsp;"(1)
 
-Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System program, the bridge program, the surface transportation program, the congestion mitigation and air quality improvement program, the recreational trails program, the Appalachian development highway system program, and the minimum guarantee.
+Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System program, the bridge program, the surface transportation program \[now the surface transportation block grant program\], the congestion mitigation and air quality improvement program, the recreational trails program, the Appalachian development highway system program, and the minimum guarantee.
 
 &emsp;"(2)
 
@@ -846,7 +1020,7 @@ In general.—The amount that each State shall be apportioned under this subsect
 
 &emsp;"(3)
 
-Administration of funds.—Funds authorized by section 1101(c) of the Transportation Equity Act for the 21st Century shall be administered as if the funds had been apportioned, allocated, deducted, or set aside, as the case may be, under title 23, United States Code; except that the deductions and set-asides in the following sections of such title shall not apply to such funds: \[former\] sections 104(a)(1)(A), 104(a)(1)(B), 104(b)(1)(A), 104(d)(1), 104(d)(2), 104(f)(1), 104(h)(1), 118(c)(1), 140(b), 140(c), and 144(g)(1).
+Administration of funds.—Funds authorized by section 1101(c) of the Transportation Equity Act for the 21st Century shall be administered as if the funds had been apportioned, allocated, deducted, or set aside, as the case may be, under title 23, United States Code; except that the deductions and set-asides in the following sections of such title shall notapply to such funds: \[former\] sections 104(a)(1)(A), 104(a)(1)(B), 104(b)(1)(A), 104(d)(1), 104(d)(2), 104(f)(1), 104(h)(1), 118(c)(1), 140(b), 140(c), and 144(g)(1).
 
 &emsp;"(4)
 
@@ -896,7 +1070,7 @@ Programmatic Distributions.—
 
 &emsp;"(1)
 
-Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System, the bridge program, the surface transportation program, the congestion mitigation and air quality improvement program, minimum allocation under \[former\] section 157 of title 23, United States Code, Interstate reimbursement under \[former\] section 160 of that title, the donor State bonus under section 1013(c) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1940) \[Pub. L. 102–240, formerly set out as a note under section 157 of this title\], hold harmless under section 1015(a) of that Act (105 Stat. 1943) \[set out below\], 90 percent of payments adjustments under section 1015(b) of that Act (105 Stat. 1944) \[set out below\], section 1015(c) of that Act (105 Stat. 1944) \[set out below\], an amount equal to the funds provided under sections 1103 through 1108 of that Act (105 Stat. 2027) \[see Tables for classification\], and funding restoration under section 202 of the National Highway System Designation Act of 1995 (109 Stat. 571).
+Programs.—Of the funds to be apportioned to each State under subsection (a), the Secretary shall ensure that the State is apportioned an amount of the funds, determined under paragraph (2), for the Interstate maintenance program, the National Highway System, the bridge program, the surface transportation program \[now the surface transportation block grant program\], the congestion mitigation and air quality improvement program, minimum allocation under \[former\] section 157 of title 23, United States Code, Interstate reimbursement under \[former\] section 160 of that title, the donor State bonus under section 1013(c) of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1940) \[Pub. L. 102–240, formerly set out as a note under section 157 of this title\], hold harmless under section 1015(a) of that Act (105 Stat. 1943) \[set out below\], 90 percent of payments adjustments under section 1015(b) of that Act (105 Stat. 1944) \[set out below\], section 1015(c) of that Act (105 Stat. 1944) \[set out below\], an amount equal to the funds provided under sections 1103 through 1108 of that Act (105 Stat. 2027) \[see Tables for classification\], and funding restoration under section 202 of the National Highway System Designation Act of 1995 (109 Stat. 571).
 
 &emsp;"(2)
 
@@ -1016,7 +1190,7 @@ Similar provisions were contained in Pub. L. 101–516, title III, §329, Nov. 5
 
 #### Implementation of Certain Presidential Orders Requiring Percentage Reduction for Federal-Aid Highway, Mass Transit, and Highway Safety Programs
 
-Pub. L. 100–17, title I, §136, Apr. 2, 1987, 101 Stat. 174, provided that: "In implementing any order issued bythe President which provides for or requires a percentage reduction in new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority, or obligation limitations for the Federal-aid highway, mass transit and highway safety programs and with respect to which the budget account activity as identified in the program and financing schedule contained in the Appendix to the Budget of the United States Government for such programs includes more than one specific highway, mass transit, or highway safety program or project for which budget authority is provided by this Act or an amendment made by this Act \[see Short Title of 1987 Amendment note set out under section 101 of this title\], the Secretary shall apply the percentage reduction equally to each such specific program or project."
+Pub. L. 100–17, title I, §136, Apr. 2, 1987, 101 Stat. 174, provided that: "In implementing any order issued by the President which provides for or requires a percentage reduction in new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority, or obligation limitations for the Federal-aid highway, mass transit and highway safety programs and with respect to which the budget account activity as identified in the program and financing schedule contained in the Appendix to the Budget of the United States Government for such programs includes more than one specific highway, mass transit, or highway safety program or project for which budget authority is provided by this Act or an amendment made by this Act \[see Short Title of 1987 Amendment note set out under section 101 of this title\], the Secretary shall apply the percentage reduction equally to each such specific program or project."
 
 #### Federal-Aid Primary Formula for Amounts Authorized for Fiscal Years 1983 Through 1991
 
@@ -1028,17 +1202,21 @@ Pub. L. 97–424, title I, §145, Jan. 6, 1983, 96 Stat. 2130, provided that the
 
 #### Federal-Aid Highways and Highway Safety Construction Programs; Maximum Limits on Total Obligations; Exceptions; State Allocations
 
-Pub. L. 112–141, div. A, title I, §1102, July 6, 2012, 126 Stat. 416, as amended by Pub. L. 113–159, title I, §1001(c)(3), Aug. 8, 2014, 128 Stat. 1841, provided that:
+Pub. L. 114–94, div. A, title I, §1102, Dec. 4, 2015, 129 Stat. 1326, provided that:
 
 "(a)
 
 General Limitation.—Subject to subsection (e), and notwithstanding any other provision of law, the obligations for Federal-aid highway and highway safety construction programs shall not exceed—
 
-&emsp;"(1) $39,699,000,000 for fiscal year 2013;
+&emsp;"(1) $42,361,000,000 for fiscal year 2016;
 
-&emsp;"(2) $40,256,000,000 for fiscal year 2014; and
+&emsp;"(2) $43,266,100,000 for fiscal year 2017;
 
-&emsp;"(3) $26,800,569,863 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+&emsp;"(3) $44,234,212,000 for fiscal year 2018;
+
+&emsp;"(4) $45,268,596,000 for fiscal year 2019; and
+
+&emsp;"(5) $46,365,092,000 for fiscal year 2020.
 
 "(b)
 
@@ -1062,53 +1240,55 @@ Exceptions.—The limitations under subsection (a) shall not apply to obligation
 
 &emsp;"(9) Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century (112 Stat. 107) \[Pub. L. 105–178, see Tables for classification\] or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
 
-&emsp;"(10) section 105 of title 23, United States Code (but, for each of fiscal years 2005 through 2012, only in an amount equal to $639,000,000 for each of those fiscal years);
+&emsp;"(10) section 105 of title 23, United States Code (as in effect for fiscal years 2005 through 2012, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
-&emsp;"(11) section 1603 of SAFETEA–LU (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
+&emsp;"(11) section 1603 of SAFETEA–LU (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation;
 
-&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2014, only in an amount equal to $639,000,000 for each of those fiscal years, and for the period beginning on October 1, 2014, and ending on May 31, 2015, only in an amount equal to $639,000,000, less any reductions that would have otherwise been required for that year by section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901a), then multiplied by 243/365 for that period).
+&emsp;"(12) section 119 of title 23, United States Code (as in effect for fiscal years 2013 through 2015, but only in an amount equal to $639,000,000 for each of those fiscal years); and
+
+&emsp;"(13) section 119 of title 23, United States Code (but, for fiscal years 2016 through 2020, only in an amount equal to $639,000,000 for each of those fiscal years).
 
 "(c)
 
-Distribution of Obligation Authority.—For each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\]—
+Distribution of Obligation Authority.—For each of fiscal years 2016 through 2020, the Secretary \[of Transportation\]—
 
-&emsp;"(1) shall not distribute obligation authority provided by subsection (a) for the fiscal year or period for—
+&emsp;"(1) shall not distribute obligation authority provided by subsection (a) for the fiscal year for—
 
-&emsp;&emsp;"(A) amounts provided for administrative expenses and programs; and
+&emsp;&emsp;"(A) amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; and
 
 &emsp;&emsp;"(B) amounts authorized for the Bureau of Transportation Statistics;
 
-&emsp;"(2) shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts or, for the period beginning on October 1, 2014, and ending May 31, 2015, that is equal to 243/365 of such unobligated balance—
+&emsp;"(2) shall not distribute an amount of obligation authority provided by subsection (a) that is equal to the unobligated balance of amounts—
 
-&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
+&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under section 202 or 204 of title 23, United States Code); and
 
 &emsp;&emsp;"(B) for which obligation authority was provided in a previous fiscal year;
 
 &emsp;"(3) shall determine the proportion that—
 
-&emsp;&emsp;"(A) the obligation authority provided by subsection (a) for the fiscal year or period, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
+&emsp;&emsp;"(A) the obligation authority provided by subsection (a) for the fiscal year, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
 
-&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for the fiscal year or period), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (12) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(13) for the fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
-&emsp;"(4) shall distribute the obligation authority provided by subsection (a), less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under this Act \[see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
+&emsp;"(4) shall distribute the obligation authority provided by subsection (a), less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under this Act \[div. A of Pub. L. 114–94, see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
 
 &emsp;&emsp;"(A) the proportion determined under paragraph (3); by
 
-&emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for the fiscal year or period; and
+&emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for the fiscal year; and
 
-&emsp;"(5) shall distribute the obligation authority provided by subsection (a), less the aggregate amountsnot distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the national highway performance program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(12) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
+&emsp;"(5) shall distribute the obligation authority provided by subsection (a), less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the national highway performance program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(13) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
 
-&emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for the fiscal year or period; bears to
+&emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for the fiscal year; bears to
 
-&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to all States for the fiscal year or period.
+&emsp;&emsp;"(B) the total of the amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to all States for the fiscal year.
 
 "(d)
 
-Redistribution of Unused Obligation Authority.—Notwithstanding subsection (c), the Secretary \[of Transportation\] shall, after August 1 of each of fiscal years 2013 through 2015—
+Redistribution of Unused Obligation Authority.—Notwithstanding subsection (c), the Secretary \[of Transportation\] shall, after August 1 of each of fiscal years 2016 through 2020—
 
 &emsp;"(1) revise a distribution of the obligation authority made available under subsection (c) if an amount distributed cannot be obligated during that fiscal year; and
 
-&emsp;"(2) redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 144 (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\]) and 104 of title 23, United States Code.
+&emsp;"(2) redistribute sufficient amounts to those States able to obligate amounts in addition to those previously distributed during that fiscal year, giving priority to those States having large unobligated balances of funds apportioned under sections 144 (as in effect on the day before the date of enactment of MAP–21 (Public Law 112–141) \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\]) and 104 of title 23, United States Code.
 
 "(e)
 
@@ -1120,7 +1300,7 @@ In general.—Except as provided in paragraph (2), obligation limitations impose
 
 &emsp;&emsp;"(A) chapter 5 of title 23, United States Code; and
 
-&emsp;&emsp;"(B) division E of this Act \[div. E (§50001 et seq.) of Pub. L. 112–141, see Tables for classification\].
+&emsp;&emsp;"(B) title VI of this Act \[title VI of div. A of Pub. L. 114–94, see Tables for classification\].
 
 &emsp;"(2)
 
@@ -1136,11 +1316,11 @@ Redistribution of Certain Authorized Funds.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2013 through 2014 and for the period beginning on October 1, 2014, and ending on May 31, 2015, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
+In general.—Not later than 30 days after the date of distribution of obligation authority under subsection (c) for each of fiscal years 2016 through 2020, the Secretary \[of Transportation\] shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
 
-&emsp;&emsp;"(A) are authorized to be appropriated for the fiscal year or period for Federal-aid highway programs; and
+&emsp;&emsp;"(A) are authorized to be appropriated for the fiscal year for Federal-aid highway programs; and
 
-&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for the fiscal year or period because of the imposition of any obligation limitation for the fiscal year.
+&emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for the fiscal year because of the imposition of any obligation limitation for the fiscal year.
 
 &emsp;"(2)
 
@@ -1152,47 +1332,51 @@ Availability.—Funds distributed to each State under paragraph (1) shall be ava
 
 Similar provisions for prior fiscal years were contained in the following acts:
 
+Pub. L. 112–141, div. A, title I, §1102, July 6, 2012, 126 Stat. 416, as amended by Pub. L. 113–159, title I, §1001(c)(3), Aug. 8, 2014, 128 Stat. 1841; Pub. L. 114–21, title I, §1001(c)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(c)(2), July 31, 2015, 129 Stat. 445; Pub. L. 114–73, title I, §1001(c)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, §1001(c)(2), Nov. 20, 2015, 129 Stat. 678.
+
 Pub. L. 109–59, title I, §1102, Aug. 10, 2005, 119 Stat. 1157, as amended by Pub. L. 110–244, title I, §101(b), June 6, 2008, 122 Stat. 1573.
 
 Pub. L. 105–178, title I, §1102, June 9, 1998, 112 Stat. 115, as amended by Pub. L. 105–206, title IX, §9002(b), July 22, 1998, 112 Stat. 834; Pub. L. 106–159, title I, §103(b)(2), Dec. 9, 1999, 113 Stat. 1753.
 
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2705, provided in part that: "Funds available for the implementation or execution of programs of Federal-aid Highways and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of Public Law 112–141 shall not exceed total obligations of $40,256,000,000 for fiscal year 2015".
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2844, provided in part that: "Funds available for the implementation or execution of Federal-aid highway and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of the Fixing America's Surface Transportation Act \[Pub. L. 114–94, see Tables for classification\] shall not exceed total obligations of $42,361,000,000 for fiscal year 2016".
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2705.
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 583.
 
 Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 650.
 
-Pub. L. 113–235, div. K, title I, §120, Dec. 16, 2014, 128 Stat. 2705, provided that:
+Pub. L. 114–113, div. L, title I, §120, Dec. 18, 2015, 129 Stat. 2844, provided that:
 
-"(a) For fiscal year 2015, the Secretary of Transportation shall—
+"(a) For fiscal year 2016, the Secretary of Transportation shall—
 
-&emsp;"(1) not distribute from the obligation limitation for Federal-aid Highways—
+&emsp;"(1) not distribute from the obligation limitation for Federal-aid highways—
 
 &emsp;&emsp;"(A) amounts authorized for administrative expenses and programs by section 104(a) of title 23, United States Code; and
 
 &emsp;&emsp;"(B) amounts authorized for the Bureau of Transportation Statistics;
 
-&emsp;"(2) not distribute an amount from the obligation limitation for Federal-aid Highways that is equal to the unobligated balance of amounts—
+&emsp;"(2) not distribute an amount from the obligation limitation for Federal-aid highways that is equal to the unobligated balance of amounts—
 
-&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid Highways and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under section 202 or 204 of title 23, United States Code); and
+&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
 
 &emsp;&emsp;"(B) for which obligation limitation was provided in a previous fiscal year;
 
 &emsp;"(3) determine the proportion that—
 
-&emsp;&emsp;"(A) the obligation limitation for Federal-aid Highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
+&emsp;&emsp;"(A) the obligation limitation for Federal-aid highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
 
-&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid Highways and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (12) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(13) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
-&emsp;"(4) distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Moving Ahead for Progress in the 21st Century Act \[Pub. L. 112–141, see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
+&emsp;"(4) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Fixing America's Surface Transportation Act \[Pub. L. 114–94, see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
 
 &emsp;&emsp;"(A) the proportion determined under paragraph (3); by
 
 &emsp;&emsp;"(B) the amounts authorized to be appropriated for each such program for such fiscal year; and
 
-&emsp;"(5) distribute the obligation limitation for Federal-aid Highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid Highways and highway safety construction programs that are apportioned by the Secretary undertitle 23, United States Code (other than the amounts apportioned for the National Highway Performance Program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(13) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
+&emsp;"(5) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2) and the amounts distributed under paragraph (4), for Federal-aid highway and highway safety construction programs that are apportioned by the Secretary under title 23, United States Code (other than the amounts apportioned for the National Highway Performance Program in section 119 of title 23, United States Code, that are exempt from the limitation under subsection (b)(12) and the amounts apportioned under sections 202 and 204 of that title) in the proportion that—
 
 &emsp;&emsp;"(A) amounts authorized to be appropriated for the programs that are apportioned under title 23, United States Code, to each State for such fiscal year; bears to
 
@@ -1200,11 +1384,11 @@ Pub. L. 113–235, div. K, title I, §120, Dec. 16, 2014, 128 Stat. 2705, provid
 
 "(b)
 
-Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid Highways shall not apply to obligations under or for—
+Exceptions From Obligation Limitation.—The obligation limitation for Federal-aid highways shall not apply to obligations under or for—
 
 &emsp;"(1) section 125 of title 23, United States Code;
 
-&emsp;"(2) section 147 of the Surface Transportation Assistance Act of 1978 (\[former\] 23 U.S.C. 144 note; 92 Stat. 2714);
+&emsp;"(2) section 147 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599\] (\[former\] 23 U.S.C. 144 note; 92 Stat. 2714);
 
 &emsp;"(3) section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134\] (95 Stat. 1701);
 
@@ -1218,15 +1402,13 @@ Exceptions From Obligation Limitation.—The obligation limitation for Federal-a
 
 &emsp;"(8) section 105 of title 23, United States Code (as in effect for fiscal years 1998 through 2004, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
-&emsp;"(9) Federal-aid Highways programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century (112 Stat. 107) or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
+&emsp;"(9) Federal-aid highway programs for which obligation authority was made available under the Transportation Equity Act for the 21st Century \[Pub. L. 105–178, see Tables for classification\] (112 Stat. 107) or subsequent Acts for multiple years or to remain available until expended, but only to the extent that the obligation authority has not lapsed or been used;
 
 &emsp;"(10) \[former\] section 105 of title 23, United States Code (as in effect for fiscal years 2005 through 2012, but only in an amount equal to $639,000,000 for each of those fiscal years);
 
-&emsp;"(11) section 1603 of SAFETEA–LU \[Pub. L. 109–59\] (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and \[sic\]
+&emsp;"(11) section 1603 of SAFETEA–LU \[Pub. L. 109–59\] (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
 
-&emsp;"(12) section 119 of title 23, United States Code (as in effect for fiscal years 2013 and 2014, but only in an amount equal to $639,000,000 for each of those fiscal years); and
-
-&emsp;"(13) section 119 of title 23, United States Code (but, for fiscal year 2015, only in an amount equal to $639,000,000).
+&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2016, only in an amount equal to $639,000,000).
 
 "(c)
 
@@ -1242,11 +1424,11 @@ Applicability of Obligation Limitations to Transportation Research Programs.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the obligation limitation for Federal-aid Highways shall apply to contract authority for transportation research programs carried out under—
+In general.—Except as provided in paragraph (2), the obligation limitation for Federal-aid highways shall apply to contract authority for transportation research programs carried out under—
 
 &emsp;&emsp;"(A) chapter 5 of title 23, United States Code; and
 
-&emsp;&emsp;"(B) division E of the Moving Ahead for Progress in the 21st Century Act \[div. E (§50001 et seq.) of Pub. L. 112–141, see Tables for classification\].
+&emsp;&emsp;"(B) title VI of the Fixing America's Surface Transportation Act \[title VI of Pub. L. 114–94, see Tables for classification\].
 
 &emsp;"(2)
 
@@ -1254,7 +1436,7 @@ Exception.—Obligation authority made available under paragraph (1) shall—
 
 &emsp;&emsp;"(A) remain available for a period of 4 fiscal years; and
 
-&emsp;&emsp;"(B) be in addition to the amount of any limitation imposed on obligations for Federal-aid Highways and highway safety construction programs for future fiscal years.
+&emsp;&emsp;"(B) be in addition to the amount of any limitation imposed on obligations for Federal-aid highway and highway safety construction programs for future fiscal years.
 
 "(e)
 
@@ -1264,7 +1446,7 @@ Redistribution of Certain Authorized Funds.—
 
 In general.—Not later than 30 days after the date of distribution of obligation limitation under subsection (a), the Secretary shall distribute to the States any funds (excluding funds authorized for the program under section 202 of title 23, United States Code) that—
 
-&emsp;&emsp;"(A) are authorized to be appropriated for such fiscal year for Federal-aid Highways programs; and
+&emsp;&emsp;"(A) are authorized to be appropriated for such fiscal year for Federal-aid highway programs; and
 
 &emsp;&emsp;"(B) the Secretary determines will not be allocated to the States (or will not be apportioned to the States under section 204 of title 23, United States Code), and will not be available for obligation, for such fiscal year because of the imposition of any obligation limitation for such fiscal year.
 
@@ -1277,6 +1459,8 @@ Ratio.—Funds shall be distributed under paragraph (1) in the same proportion a
 Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(b) of title 23, United States Code."
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 113–235, div. K, title I, §120, Dec. 16, 2014, 128 Stat. 2705.
 
 Pub. L. 113–76, div. L, title I, §120, Jan. 17, 2014, 128 Stat. 583.
 

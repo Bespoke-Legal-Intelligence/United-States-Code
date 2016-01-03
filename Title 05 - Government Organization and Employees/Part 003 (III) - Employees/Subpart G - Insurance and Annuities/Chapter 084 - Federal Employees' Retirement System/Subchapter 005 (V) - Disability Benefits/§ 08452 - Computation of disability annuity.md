@@ -12,7 +12,7 @@
 
 &emsp;(ii) shall, after the end of any period referred to in subparagraph (A)(i), be adjusted to reflect all adjustments made under section 8462(b) after the end of the period referred to in subparagraph (A)(i), whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
+(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223 of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
 
 &emsp;(i) if such month occurs during a period referred to in paragraph (1)(A)(i), be reduced by 100 percent of the annuitant's assumed disability insurance benefit for such month; or
 

@@ -6,13 +6,13 @@
 
 &emsp;Except as otherwise provided in this subsection, the Secretary shall make payments to grantees under this chapter in two payments, of which—
 
-&emsp;&emsp;(A) the first payment shall be made not later than July 1 of each year in an amount equal to 80 percent of the amount which thegrantee was entitled to receive during the preceding academic year; and
+&emsp;&emsp;(A) the first payment shall be made not later than July 1 of each year in an amount equal to 80 percent of the amount which the grantee was entitled to receive during the preceding academic year; and
 
 &emsp;&emsp;(B) the second payment, consisting of the remainder to which the grantee is entitled for the academic year, shall be made not later than December 1 of each year.
 
 #### (2) Excess funding
 
-&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. The amount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
+&emsp;In a case in which the amount provided to a grant recipient under paragraph (1)(A) is in excess of the amount that the recipient is entitled to receive for the academic year involved, the recipient shall return to the Secretary such excess amount not later than 30 days after the final determination that the school was overpaid pursuant to this section. Theamount returned to the Secretary under this paragraph shall be distributed equally to all schools in the system.
 
 #### (3) Newly funded schools
 

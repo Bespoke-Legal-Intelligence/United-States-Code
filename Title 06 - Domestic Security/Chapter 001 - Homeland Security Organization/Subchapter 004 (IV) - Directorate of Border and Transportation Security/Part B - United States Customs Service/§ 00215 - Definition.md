@@ -22,7 +22,7 @@ In this part, the term "customs revenue function" means the following:
 
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle B (§§411–419) of titleIV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2178, which enacted this part, amended section 5314 of Title 5, Government Organization and Employees, section 58c of Title 19, Customs Duties, and provisions set out as a note under section 2075 of Title 19. For complete classification of subtitle B to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle B (§§411–419) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2178, which enacted this part, amended section 5314 of Title 5, Government Organization and Employees, section 58c of Title 19, Customs Duties, and provisions set out as a note under section 2075 of Title 19. For complete classification of subtitle B to the Code, see Tables.
 
-The effective date of this chapter, referred to in pars. (7) and (8), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+The effective date of this chapter, referred to in pars. (7) and (8), is 60 days after Nov. 25, 2002, see section 4of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

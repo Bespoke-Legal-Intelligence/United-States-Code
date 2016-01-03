@@ -1,6 +1,6 @@
 ### §1608. Severability
 
-If any provision of this chapter, or the application thereof, is held invalid, the validity of the remainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
+If any provision of this chapter, or the application thereof, is held invalid, the validity of theremainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.
 
 (Pub. L. 104–65, §13, Dec. 19, 1995, 109 Stat. 701.)
 

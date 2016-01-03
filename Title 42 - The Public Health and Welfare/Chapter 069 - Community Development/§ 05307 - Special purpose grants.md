@@ -32,7 +32,7 @@ From amounts set aside under subsection (a) of this section, the Secretary is au
 
 &emsp;(2) to historically Black colleges;
 
-&emsp;(3) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term "technical assistance" means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter;except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
+&emsp;(3) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term "technical assistance" means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
 
 &emsp;(4) to States and units of general local government and institutions of higher education having a demonstrated capacity to carry out eligible activities under this chapter, except that the Secretary may make a grant under this paragraph only to a State or unit of general local government that jointly, with an institution of higher education, has prepared and submitted to the Secretary an application for such grant, as the Secretary shall by regulation require;
 
@@ -58,7 +58,7 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 #### (e) Satisfactory assurances required, special assurances required of Indian tribes
 
-(1) Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437o <sup>3</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
+(1) Except as provided in paragraph (2), no grant may be made under this section or section5318 of this title and no assistance may be made available under section 1437o <sup>3</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
 (2) No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title, or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 \[25 U.S.C. 1301 et seq.\]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title.
 
@@ -188,7 +188,7 @@ Prior grants.—Any grant made under section 107 of the Housing and Community De
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
 
 #### Effective Date of 1981 Amendment
 

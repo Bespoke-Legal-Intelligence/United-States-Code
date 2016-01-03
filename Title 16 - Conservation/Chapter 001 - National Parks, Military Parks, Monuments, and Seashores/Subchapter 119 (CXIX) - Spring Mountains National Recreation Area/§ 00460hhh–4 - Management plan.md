@@ -36,7 +36,7 @@
 
 #### (2) Management
 
-&emsp;Pending submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, acting through the Chief of the Forest Service, shall manage the lands and waters within the wilderness study areasreferred to in paragraph (1) so as to maintain their potential for inclusion within the National Wilderness Preservation System.
+&emsp;Pending submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, acting through the Chief of the Forest Service, shall manage the lands and waters within the wilderness study areas referred to in paragraph (1) so as to maintain their potential for inclusion within the National Wilderness Preservation System.
 
 (Pub. L. 103–63, §6, Aug. 4, 1993, 107 Stat. 298.)
 

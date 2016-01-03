@@ -18,7 +18,7 @@ Congress finds that—
 
 &emsp;&emsp;(C) allow for increased effectiveness of the allocation of fiscal and human resources within the Federal land management agencies;
 
-&emsp;(6) a more expeditious process for disposal and acquisition of land, established to facilitate a more effective configuration of landownership patterns, would benefit the public interest;
+&emsp;(6) a more expeditious process for disposal and acquisition of land, established to facilitate a more effective configuration of land ownership patterns, would benefit the public interest;
 
 &emsp;(7) many private individuals own land within the boundaries of Federal land management units and desire to sell the land to the Federal Government;
 
@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;&emsp;(B) promote consolidation of the ownership of public and private land in a manner that would allow for better overall resource management;
 
-&emsp;(13) in certain locations, the sale of public land that has been identified for disposal is the best way for the public to receive fair market value for the land; and
+&emsp;(13) in certain locations, the sale of public land that has been identified for disposal isthe best way for the public to receive fair market value for the land; and
 
 &emsp;(14) to allow for the least disruption of existing land and resource management programs, the Bureau of Land Management may use non-Federal entities to prepare appraisal documents for agency review and approval consistent with applicable provisions of the Uniform Standards for Federal Land Acquisition.
 

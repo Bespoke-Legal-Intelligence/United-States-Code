@@ -24,7 +24,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the "DOD–VA Health Care Sharing Incentive Fund". Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2015.
+(3) The program under this subsection shall terminate on September 30, 2020.
 
 (e)
 
@@ -32,7 +32,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 &emsp;(A) is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
 
-&emsp;(B) will not adversely affect the range of services, the quality of care, or the establishedpriorities for care provided by either Department; and
+&emsp;(B) will not adversely affect the range of services, the quality of care, or the established priorities for care provided by either Department; and
 
 &emsp;(C) will not reduce capacities in certain specialized programs of the Department of Veterans Affairs that the Secretary is required to maintain in accordance with section 1706(b) of this title.
 
@@ -70,7 +70,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(F) Such recommendations for legislation as the two Secretaries consider appropriate to facilitate the sharing of health-care resources between the two Departments.
 
-(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection an overall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
+(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection anoverall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
@@ -80,7 +80,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(D) A description of proposals for which funds are provided through the joint incentives program under subsection (d), together with a description of their results or status at the time of the report, including access improvements, savings, and quality-of-care enhancements they brought about, and a description of any additional use of funds made available under subsection (d).
 
-(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shallinclude in the annual report under this subsection for each year through 2008 the following:
+(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
 
 &emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
@@ -110,7 +110,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub.L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869.)
 
 #### References in Text
 
@@ -122,9 +122,13 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of "September 30, 2020" for "September 30, 2015", was executed by making the substitution for "September 30, 2016" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
+
+Pub. L. 114–58 substituted "September 30, 2016" for "September 30, 2015".
+
 <b>2009</b>—Subsec. (d)(3). Pub. L. 111–84 substituted "September 30, 2015" for "September 30, 2010".
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) ofPub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (b)(1). Pub. L. 109–461, §1004(a)(6), substituted "into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31" for "into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993".
 

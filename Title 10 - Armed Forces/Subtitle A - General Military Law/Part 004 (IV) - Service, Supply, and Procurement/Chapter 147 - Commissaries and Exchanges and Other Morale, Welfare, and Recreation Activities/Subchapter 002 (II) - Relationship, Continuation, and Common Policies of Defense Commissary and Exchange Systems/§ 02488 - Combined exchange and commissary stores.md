@@ -8,7 +8,7 @@ Authority.—The Secretary of Defense may authorize a nonappropriated fund instr
 
 Limitations.—(1) Not more than ten combined exchange and commissary stores may be operated pursuant to this section.
 
-(2) The Secretary may select a military installation for the operation of a combined exchangeand commissary store under this section only if—
+(2) The Secretary may select a military installation for the operation of a combined exchange and commissary store under this section only if—
 
 &emsp;(A) the installation is to be closed, or has been or is to be realigned, under a base closure law; or
 

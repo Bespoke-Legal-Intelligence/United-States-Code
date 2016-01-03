@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) will be carried out by an eligible entity, and
 
-&emsp;&emsp;(C) any portion of the qualified investment of which is certified under the qualifyinggasification program as eligible for credit under this section in an amount (not to exceed $650,000,000) determined by the Secretary.
+&emsp;&emsp;(C) any portion of the qualified investment of which is certified under the qualifying gasification program as eligible for credit under this section in an amount (not to exceed $650,000,000) determined by the Secretary.
 
 #### (2) Gasification technology
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) specify procedures chosen by the State for carrying out transfers of funds under the agreement;
 
-&emsp;(B) describe the process by which the Federal Government shall review and approve theimplementation of the procedures specified under subparagraph (A);
+&emsp;(B) describe the process by which the Federal Government shall review and approve the implementation of the procedures specified under subparagraph (A);
 
 &emsp;(C) establish the methods to be used for calculating and documenting payments of interest pursuant to this section; and
 

@@ -48,7 +48,7 @@
 | :--- | ---: |
 | 5881 to 5891. Repealed. |  |
 | [5891a.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891a%20-%20Definitions.md) | Definitions. |
-| [5891b.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891b%20-%20Education%20flexibility%20partnership.md) | Education flexibility partnership. |
+| [5891b.](Subchapter%20003%20%28III%29%20-%20State%20and%20Local%20Education%20Systemic%20Improvement/%C2%A7%2005891b%20-%20Educational%20flexibility%20program.md) | Educational flexibility program. |
 | 5892 to 5900. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

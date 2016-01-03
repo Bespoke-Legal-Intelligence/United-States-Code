@@ -2,7 +2,7 @@
 
 (a) Whoever—
 
-&emsp;(1) having knowingly accessed a computer without authorization or exceeding authorized access, and by means of such conduct having obtained information that has been determined by the United States Government pursuant to an Executive order or statute to require protection against unauthorized disclosure for reasons of national defense or foreign relations, or any restricted data, as defined in paragraph y. of section 11 of the Atomic Energy Act of 1954, with reason to believe that such information so obtained could be used to the injury of the United States, or to the advantage of any foreign nation willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it;
+&emsp;(1) having knowingly accessed a computer without authorization or exceeding authorized access, and by means of such conduct having obtained information that has been determined by the United States Government pursuant to an Executive order or statute to require protection against unauthorized disclosure for reasons of national defense or foreign relations, or any restricted data, as defined in paragraph y. of section 11 of the Atomic Energy Act of 1954, with reason to believe that such information so obtained could be used tothe injury of the United States, or to the advantage of any foreign nation willfully communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted, or attempts to communicate, deliver, transmit or cause to be communicated, delivered, or transmitted the same to any person not entitled to receive it, or willfully retains the same and fails to deliver it to the officer or employee of the United States entitled to receive it;
 
 &emsp;(2) intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains—
 
@@ -166,7 +166,7 @@
 
 (g) Any person who suffers damage or loss by reason of a violation of this section may maintain a civil action against the violator to obtain compensatory damages and injunctive relief or other equitable relief. A civil action for a violation of this section may be brought only if the conduct involves 1 of the factors set forth in subclauses <sup>5</sup> (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i). Damages for a violation involving only conduct described in subsection (c)(4)(A)(i)(I) are limited to economic damages. No action may be brought under this subsection unless such action is begun within 2 years of the date of the act complained of or the date of the discovery of the damage. No action may be brought under this subsection for the negligent design or manufacture of computer hardware, computer software, or firmware.
 
-(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the dateof the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
+(h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
 (i)(1) The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
 
@@ -182,7 +182,7 @@
 
 &emsp;(2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section <sup>6</sup>
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563.)
 
 #### References in Text
 
@@ -318,7 +318,7 @@ Subsec. (c)(2)(C). Pub. L. 104–294, §201(2)(B)(iv), substituted "under this s
 
 Pub. L. 104–294, §201(2)(B)(ii), redesignated subpar. (B) as (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted "(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)" for "(a)(4)or (a)(5)(A)" and "under this section" for "under such subsection".
+Subsec. (c)(3)(A). Pub. L. 104–294, §201(2)(C)(i), substituted "(a)(4), (a)(5)(A), (a)(5)(B), or (a)(7)" for "(a)(4) or (a)(5)(A)" and "under this section" for "under such subsection".
 
 Subsec. (c)(3)(B). Pub. L. 104–294, §201(2)(C)(ii), substituted "(a)(4), (a)(5)(A), (a)(5)(B), (a)(5)(C), or (a)(7)" for "(a)(4) or (a)(5)" and "under this section" for "under such subsection".
 

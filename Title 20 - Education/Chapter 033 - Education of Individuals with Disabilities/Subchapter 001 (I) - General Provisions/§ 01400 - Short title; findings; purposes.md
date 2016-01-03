@@ -24,7 +24,7 @@ Congress finds the following:
 
 &emsp;(3) Since the enactment and implementation of the Education for All Handicapped Children Act of 1975, this chapter has been successful in ensuring children with disabilities and the families of such children access to a free appropriate public education and in improving educational results for children with disabilities.
 
-&emsp;(4) However, the implementation of this chapter has been impeded by low expectations, and an insufficient focus on applying replicable research on proven methods ofteaching and learning for children with disabilities.
+&emsp;(4) However, the implementation of this chapter has been impeded by low expectations, and an insufficient focus on applying replicable research on proven methods of teaching and learning for children with disabilities.
 
 &emsp;(5) Almost 30 years of research and experience has demonstrated that the education of children with disabilities can be made more effective by—
 
@@ -70,7 +70,7 @@ Congress finds the following:
 
 &emsp;(C) Such discrepancies pose a special challenge for special education in the referral of, assessment of, and provision of services for, our Nation's students from non-English language backgrounds.
 
-&emsp;(12)(A) Greater efforts are needed to prevent the intensification of problems connected with mislabeling and high dropout rates among minority children with disabilities.
+&emsp;(12)(A) Greater efforts are needed to prevent the intensification of problems connected withmislabeling and high dropout rates among minority children with disabilities.
 
 &emsp;(B) More minority children continue to be served in special education than would be expected from the percentage of minority students in the general school population.
 
@@ -82,7 +82,7 @@ Congress finds the following:
 
 &emsp;(13)(A) As the number of minority students in special education increases, the number of minority teachers and related services personnel produced in colleges and universities continues to decrease.
 
-&emsp;(B) The opportunity for full participation by minority individuals, minority organizations,and Historically Black Colleges and Universities in awards for grants and contracts, boards of organizations receiving assistance under this chapter, peer review panels, and training of professionals in the area of special education is essential to obtain greater success in the education of minority children with disabilities.
+&emsp;(B) The opportunity for full participation by minority individuals, minority organizations, and Historically Black Colleges and Universities in awards for grants and contracts, boards of organizations receiving assistance under this chapter, peer review panels, and training of professionals in the area of special education is essential to obtain greater success in the education of minority children with disabilities.
 
 &emsp;(14) As the graduation rates for children with disabilities continue to climb, providing effective transition services to promote successful post-school employment or education is an important measure of accountability for children with disabilities.
 
@@ -126,21 +126,13 @@ Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84
 
 #### Effective Date
 
-Pub. L. 108–446, title III, §302(a), (b), Dec. 3, 2004, 118 Stat. 2803, provided that:
+Pub. L. 108–446, title III, §302(a), (b), Dec. 3, 2004, 118 Stat. 2803, as amended by Pub. L. 114–95, title IX, §9214(e), Dec. 10, 2015, 129 Stat. 2166, provided that:
 
 "(a)
 
 Parts A, B, and C, and subpart 1
 
-of part D.—
-
-&emsp;"(1)
-
-In general.—Except as provided in paragraph (2), parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act \[subchapters I, II, and III and part A of subchapter IV of this chapter\], as amended by title I, shall take effect on July 1, 2005.
-
-&emsp;"(2)
-
-Highly qualified definition.—Subparagraph (A), and subparagraphs (C) through (F), of section 602(10) of the Individuals with Disabilities Education Act \[20 U.S.C. 1401(10)\], as amended by title I, shall take effect on the date of enactment of this Act \[Dec. 3, 2004\] for purposes of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+of Part D.—Parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act \[subchapters I, II, and III and part A of subchapter IV of this chapter\], as amended by title I, shall take effect on July 1, 2005.
 
 "(b)
 
@@ -156,11 +148,11 @@ Pub. L. 111–256, §1, Oct. 5, 2010, 124 Stat. 2643, provided that: "This Act \
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–446, §1, Dec. 3, 2004, 118 Stat. 2647, provided that: "This Act \[enacting subchapters I to IV of this chapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42\] may be cited as the 'Individuals with Disabilities Education Improvement Act of 2004'."
+Pub. L. 108–446, §1, Dec. 3, 2004, 118 Stat. 2647, provided that: "This Act \[enacting subchapters I to IV of thischapter, part E of subchapter I of chapter 76 of this title, and sections 9567 to 9567b of this title, amending sections 927, 1087ee, 1087ii, 4304, 5802, 6103, 6311, 6317, 7221g, 7273b, 9511, 9515, 9516, and 9605 of this title, section 2164 of Title 10, Armed Forces, section 121 of Title 17, Copyrights, sections 721, 725, 772, and 773 of Title 29, Labor, and sections 280c–6, 290bb–25, 290ff–1, 290ff–2, 1396b, 1396n, 5011, 9835, 9836, 9837, 12511, 15025, and 15064 of Title 42, The Public Health and Welfare, repealing section 1444 of this title, redesignating former part E of subchapter I of chapter 76 of this title as part F, omitting sections 1445, 1456, and 1483 to 1487 of this title, enacting provisions set out as notes under this section and section 9567b of this title, and amending provisions set out as a note under section 285g of Title 42\] may be cited as the 'Individuals with Disabilities Education Improvement Act of 2004'."
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–17, §1, June 4, 1997, 111 Stat. 37, provided that: "This Act \[enacting subchapters I to IV of thischapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title\] may be cited as the 'Individuals with Disabilities Education Act Amendments of 1997'."
+Pub. L. 105–17, §1, June 4, 1997, 111 Stat. 37, provided that: "This Act \[enacting subchapters I to IV of this chapter, repealing former subchapters III and V to IX of this chapter, and enacting provisions set out as notes under this section and sections 1431 and 1451 of this title\] may be cited as the 'Individuals with Disabilities Education Act Amendments of 1997'."
 
 #### Short Title of 1991 Amendment
 
@@ -230,7 +222,7 @@ Orderly Transition.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Education (in this section referred to as 'the Secretary') shall take such steps as are necessary to provide for the orderly transition from the Individuals with Disabilities Education Act \[this chapter\], as such Act was in effect on the day preceding the date of enactment of this Act \[Dec. 3, 2004\], to the Individuals with Disabilities Education Act \[this chapter\] and part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9567 et seq.\], as amended by this Act.
+In general.—The Secretary of Education (in this section referred to as 'the Secretary') shall takesuch steps as are necessary to provide for the orderly transition from the Individuals with Disabilities Education Act \[this chapter\], as such Act was in effect on the day preceding the date of enactment of this Act \[Dec. 3, 2004\], to the Individuals with Disabilities Education Act \[this chapter\] and part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9567 et seq.\], as amended by this Act.
 
 &emsp;"(2)
 
@@ -242,7 +234,7 @@ Multi-year Awards.—Notwithstanding any other provision of law, the Secretary m
 
 "(c)
 
-Research.—Notwithstanding section 302(b) \[set out as a note above\] or any other provision of law, theSecretary may award funds that are appropriated under the Department of Education Appropriations Act, 2005 \[Pub. L. 108–447, div. F, title III, 118 Stat. 3142, see Tables for classification\] for special education research under either of the headings '
+Research.—Notwithstanding section 302(b) \[set out as a note above\] or any other provision of law, the Secretary may award funds that are appropriated under the Department of Education Appropriations Act, 2005 \[Pub. L. 108–447, div. F, title III, 118 Stat. 3142, see Tables for classification\] for special education research under either of the headings '
 
 Special Education' or '
 

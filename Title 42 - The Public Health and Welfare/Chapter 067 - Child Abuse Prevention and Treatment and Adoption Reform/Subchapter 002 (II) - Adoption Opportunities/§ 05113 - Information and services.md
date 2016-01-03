@@ -14,7 +14,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in the placement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
 
-&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
+&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs andactivities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
 
 &emsp;(5) encourage involvement of corporations and small businesses in supporting adoption as a positive family-strengthening option, including the establishment of adoption benefit programs for employees who adopt children;
 
@@ -22,7 +22,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(7) increase the effective use of public or private agencies (including community-based and other organizations) by States, or sectarian institutions, for the recruitment of potential adoptive and foster families and to provide assistance in the placement of children for adoption, including assisting in efforts to work with organizations that promote the placement of older children, minority children, and children with special needs;
 
-&emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide forthe coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
+&emsp;(8) consult with other appropriate Federal departments and agencies in order to promote maximum coordination of the services and benefits provided under programs carried out by such departments and agencies with those carried out by the Secretary, and provide for the coordination of such aspects of all programs within the Department of Health and Human Services relating to adoption;
 
 &emsp;(9) maintain (directly or by grant to or contract with public or private agencies or organizations) a National Resource Center for Special Needs Adoption to—
 
@@ -90,7 +90,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;&emsp;(D) case management;
 
-&emsp;&emsp;(E) training public agency adoption personnel, personnel of private, child welfare and adoption agencies licensed by the State to provide adoption services, mental health services professionals, and other support personnel to provide services under this subsection;
+&emsp;&emsp;(E) training public agency adoption personnel, personnel of private, child welfareand adoption agencies licensed by the State to provide adoption services, mental health services professionals, and other support personnel to provide services under this subsection;
 
 &emsp;&emsp;(F) assistance to adoptive parent organizations;
 
@@ -110,7 +110,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (A) Applications
 
-&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use fundsduring the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
+&emsp;&emsp;Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary, consistent with the purpose of this subchapter. Each application shall contain information that—
 
 &emsp;&emsp;&emsp;(i) describes how the State plans to improve the placement rate of children in permanent homes;
 

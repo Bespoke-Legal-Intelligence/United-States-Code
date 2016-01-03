@@ -48,7 +48,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 (2) Notwithstanding the limitations in paragraph (1) of this subsection, the liability of an owner or operator or other responsible person under this section shall be the full and total costs of response and damages, if (A)(i) the release or threat of release of a hazardous substance was the result of willful misconduct or willful negligence within the privity or knowledge of such person, or (ii) the primary cause of the release was a violation (within the privity or knowledge of such person) of applicable safety, construction, or operating standards or regulations; or (B) such person fails or refuses to provide all reasonable cooperation and assistance requested by a responsible public official in connection with response activities under the national contingency plan with respect to regulated carriers subject to the provisions of title 49 or vessels subject to the provisions of title 33 or 46, subparagraph (A)(ii) of this paragraph shall be deemed to refer to Federal standards or regulations.
 
-(3) If any person who is liable for a release or threat of release of a hazardous substance fails without sufficient cause to properly provide removal or remedial action upon order of the President pursuant to section 9604 or 9606 of this title, such person may be liable to the United States for punitive damages in an amount at least equal to, and not more than three times,the amount of any costs incurred by the Fund as a result of such failure to take proper action. The President is authorized to commence a civil action against any such person to recover the punitive damages, which shall be in addition to any costs recovered from such person pursuant to section 9612(c) of this title. Any moneys received by the United States pursuant to this subsection shall be deposited in the Fund.
+(3) If any person who is liable for a release or threat of release of a hazardous substance fails without sufficient cause to properly provide removal or remedial action upon order of the President pursuant to section 9604 or 9606 of this title, such person may be liable to the United States for punitive damages in an amount at least equal to, and not more than three times, the amount of any costs incurred by the Fund as a result of such failure to take proper action. The President is authorized to commence a civil action against any such person to recover the punitive damages, which shall be in addition to any costs recovered from such person pursuant to section 9612(c) of this title. Any moneys received by the United States pursuant to this subsection shall be deposited in the Fund.
 
 #### (d) Rendering care or advice
 
@@ -80,7 +80,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (A) Federal
 
-&emsp;&emsp;The President shall designate in the National Contingency Plan published under section 9605 of this title the Federal officials who shall act on behalf of the public as trustees for natural resources under this chapter and section 1321 of title 33. Such officials shall assess damages for injury to, destruction of, or loss of natural resources for purposes of this chapter and such section 1321 of title 33 for those resources undertheir trusteeship and may, upon request of and reimbursement from a State and at the Federal officials' discretion, assess damages for those natural resources under the State's trusteeship.
+&emsp;&emsp;The President shall designate in the National Contingency Plan published under section 9605 of this title the Federal officials who shall act on behalf of the public as trustees for natural resources under this chapter and section 1321 of title 33. Such officials shall assess damages for injury to, destruction of, or loss of natural resources for purposes of this chapter and such section 1321 of title 33 for those resources under their trusteeship and may, upon request of and reimbursement from a State and at the Federal officials' discretion, assess damages for those natural resources under the State's trusteeship.
 
 #### (B) State
 
@@ -100,7 +100,7 @@ The owner or operator of a vessel shall be liable in accordance with this sectio
 
 #### (i) Application of a registered pesticide product
 
-No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
+No person (including the United States or any State or Indian tribe) may recover under the authority of this section for any response costs or damages resulting from the application of a pesticide product registered under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\]. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting froma release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
@@ -190,7 +190,7 @@ Recommendations.—The Comptroller General shall consider options for funding an
 
 #### (1) In general
 
-&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute a lien in favor of the United States upon all real property and rights to such property which—
+&emsp;All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute alien in favor of the United States upon all real property and rights to such property which—
 
 &emsp;&emsp;(A) belong to such person; and
 
@@ -424,7 +424,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (7) Costs and fees
 
-&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (o) of this section.
+&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution actionunder this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (o) of this section.
 
 #### (q) Contiguous properties
 
@@ -604,7 +604,7 @@ Subsec. (f)(2). Pub. L. 99–499, §107(d)(1), added par. (2).
 
 Subsec. (g). Pub. L. 99–499, §107(e), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government shall be subject to, and comply with, this chapter in the same manner and to the same extent, both procedurally and substantively, as any nongovernmental entity, including liability under this section."
 
-Subsec. (h). Pub. L. 99–499, §127(e), inserted ", under maritime tort law," after "with this section" and inserted "or the absence of any physical damage to theproprietary interest of the claimant" before the period at end.
+Subsec. (h). Pub. L. 99–499, §127(e), inserted ", under maritime tort law," after "with this section" and inserted "or the absence of any physical damage to the proprietary interest of the claimant" before the period at end.
 
 Subsec. (i). Pub. L. 99–499, §207(c)(3), inserted "or Indian tribe" after "State".
 

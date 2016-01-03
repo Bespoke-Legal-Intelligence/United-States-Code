@@ -8,7 +8,7 @@ The Secretary shall appoint, without regard to the provisions of title 5 governi
 
 The Secretary shall establish procedures for reviewing and evaluating grants and contracts made or entered into under such programs. Procedures for reviewing grant applications, based on the peer review system, or contracts for financial assistance under this subchapter may not be subject to any review outside of officials responsible for the administration of the Minority Science and Engineering Improvement Programs.
 
-(Pub. L. 89–329, title III, §364, formerly title X, §1044, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564; renumbered title III, §364, Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636.)
+(Pub. L. 89–329, title III, §364, formerly title X, §1044, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564; renumbered title III, §364,Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636.)
 
 #### Codification
 

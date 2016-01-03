@@ -34,11 +34,11 @@ The President is authorized and encouraged to impose the sanctions described in 
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 2415 of title 50, Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (4) Exception to comply with United Nations headquarters agreement
 
-&emsp;Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947,and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+&emsp;Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
 #### (c) Waiver
 

@@ -76,7 +76,7 @@
 
 #### (iii) Application withdrawn before first action
 
-&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement.
+&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based onthe level of effort already expended on the review of such application, report, or supplement.
 
 #### (iv) Modular applications withdrawn before first action
 
@@ -225,7 +225,7 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income taxreturn, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -309,7 +309,7 @@
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscalyear because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (i) Crediting and availability of fees
 
@@ -367,7 +367,7 @@ To qualify for consideration for a refund under subsection (a)(2)(D) of this sec
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577;Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443.)
 
 #### Termination of Section
 
@@ -449,7 +449,7 @@ Subsec. (c)(2), (3). Pub. L. 110–85, §212(c)(2)(A), (B), added par. (2) and r
 
 Subsec. (c)(4). Pub. L. 110–85, §212(c)(2)(A), (C), redesignated par. (3) as (4) and substituted in subpar. (A) "The Secretary" for "For fiscal years 2006 and 2007, the Secretary" and "for the first month of the next fiscal year" for "for the first month of fiscal year 2008".
 
-Subsec. (d)(1). Pub. L. 110–85, §212(d)(1), struck out ", partners, and parent firms" after "affiliates" andsubstituted "clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A)" for "clauses (i) through (vi) of subsection (a)(2)(A) of this section".
+Subsec. (d)(1). Pub. L. 110–85, §212(d)(1), struck out ", partners, and parent firms" after "affiliates" and substituted "clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A)" for "clauses (i) through (vi) of subsection (a)(2)(A) of this section".
 
 Subsec. (d)(2)(A). Pub. L. 110–85, §212(d)(2)(A), struck out ", partners, and parent firms" before period at end.
 

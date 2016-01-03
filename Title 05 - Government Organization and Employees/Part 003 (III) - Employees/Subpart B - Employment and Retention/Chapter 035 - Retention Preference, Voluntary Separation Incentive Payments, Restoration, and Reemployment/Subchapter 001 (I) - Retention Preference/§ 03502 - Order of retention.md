@@ -52,7 +52,7 @@
 
 &emsp;(A) shall be given to—
 
-&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
+&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; <sup>1</sup> and
 
 &emsp;&emsp;(ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
 
@@ -62,9 +62,9 @@
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
-&emsp;&emsp;(iii) any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998.
+&emsp;&emsp;(iii) any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998.<sup>1</sup>
 
-(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998.
+(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998.<sup>1</sup>
 
 (e)(1) Subject to paragraph (3), upon request submitted under paragraph (2), the President may, in writing, shorten the period of advance notice required under subsection (d)(1)(A) and (B), with respect to a particular reduction in force, if necessary because of circumstances not reasonably foreseeable.
 
@@ -114,7 +114,7 @@ June 27, 1944, ch. 287, §12 (2d proviso), 58 Stat. 390.
 
 In subsection (a), the words "reduction in force" are substituted for "reduction in personnel". The words "in any civilian service of any Federal agency" are omitted as unnecessary because of the application stated in section 3501. In the second sentence, the word "total" in the phrase "length of service" is omitted for consistency with paragraph (3), and the words "subject to subsection (c) of this section" are omitted as unnecessary in view of the supplied distinction between a competing employee who is not a retired member of a uniformed service and such an employee who is a retired member of a uniformed service. In paragraph (A), the words "total length of time in active service" are substituted for "length of time spent in active service" for consistency with paragraph (B)(ii).
 
-In subsections (a) and (b), the references to "performance" ratings and ratings of "satisfactory" are addedon authority of former section 2005, which is carried into section 4304.
+In subsections (a) and (b), the references to "performance" ratings and ratings of "satisfactory" are added on authority of former section 2005, which is carried into section 4304.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -124,7 +124,7 @@ Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. 
 
 Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to section 610(b) of Title 7, Agriculture.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to section 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former section 2864(a)(2)(A) of Title 29. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -202,7 +202,7 @@ Mckinney-vento homeless assistance act.—The amendments made by subsection (e) 
 
 &emsp;"(B)
 
-Job training partnership act.—The amendments made by subsection (f) \[amending this sectionand sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans' Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000."
+Job training partnership act.—The amendments made by subsection (f) \[amending this section and sections 2014, 2015, and 2026 of Title 7, Agriculture, sections 1255a and 1613 of Title 8, Aliens and Nationality, sections 636 and 3116 of Title 15, Commerce and Trade, sections 2296 and 2311 of Title 19, Customs Duties, sections 1070d–2, 1087vv, 6365, 6434, 6453, and 6455 of Title 20, Education, section 2102 of Title 29, Labor, section 6703 of Title 31, Money and Finance, sections 4102A, 4103A, and 4213 of Title 38, Veterans' Benefits, and sections 603, 1437u, 1474, 3013, 3056, 3056a, 3056h, 3796ee, 4368a, 4953, 4959, 6864, 6873, 7274h, 9806, 11302, 12653c, 12655m, 12899c, and 13823 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1183a and 1522 of Title 8, sections 1143, 2501, 2687, and 2701 of Title 10, Armed Forces, section 3304 of Title 26, Internal Revenue Code, section 1721 of Title 29, and section 4101 of Title 38\] shall take effect on July 1, 2000."
 
 #### Effective Date of 1996 Amendment
 
@@ -284,7 +284,7 @@ Definitions.—For purposes of this section:
 
 Pub. L. 102–484, div. D, title XLIV, §4433(b), Oct. 23, 1992, 106 Stat. 2722, as amended by Pub. L. 103–337, div. A, title III, §341(a), Oct. 5, 1994, 108 Stat. 2720, provided that:
 
-"(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shallapply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to '60 days' shall, in the case of the employees described in paragraph (2), be deemed to read '120 days'.
+"(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shall apply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to '60 days' shall, in the case of the employees described in paragraph (2), be deemed to read '120 days'.
 
 "(2) The employees described in this paragraph are those employees of the Department of Defense who are to be separated, due to a reduction in force described in paragraph (1), effective on or after the last day of the 90-day period referred to in subsection (a)(2) \[see Effective Date of 1992 Amendment note above\] and before February 1, 2000.
 
@@ -313,4 +313,6 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 (2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378, to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
 
 Sec. 2. This order shall be effective immediately.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

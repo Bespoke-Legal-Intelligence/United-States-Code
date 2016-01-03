@@ -16,7 +16,7 @@ The President and the congressional intelligence committees shall each establish
 
 #### (d) Procedures to protect from unauthorized disclosure
 
-The House of Representatives and the Senate shall each establish, by rule or resolution ofsuch House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
+The House of Representatives and the Senate shall each establish, by rule or resolution of such House, procedures to protect from unauthorized disclosure all classified information, and all information relating to intelligence sources and methods, that is furnished to the congressional intelligence committees or to Members of Congress under this subchapter. Such procedures shall be established in consultation with the Director of National Intelligence. In accordance with such procedures, each of the congressional intelligence committees shall promptly call to the attention of its respective House, or to any appropriate committee or committees of its respective House, any matter relating to intelligence activities requiring the attention of such House or such committee or committees.
 
 #### (e) Construction of authority conferred
 
@@ -58,5 +58,5 @@ Subsec. (f). Pub. L. 107–306, §342(b), inserted ", and includes financial in
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L.108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

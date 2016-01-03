@@ -48,7 +48,7 @@
 
 #### (2) Legal challenge
 
-&emsp;No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;No State law, or the application thereof, may be declared invalid as to any person orcircumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (3) "State law" defined
 
@@ -74,7 +74,7 @@ No person other than the United States—
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the NorthAmerican Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

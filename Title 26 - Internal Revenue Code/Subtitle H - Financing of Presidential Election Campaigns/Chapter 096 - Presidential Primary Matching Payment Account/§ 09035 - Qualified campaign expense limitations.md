@@ -18,9 +18,13 @@ Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295 substituted "section 315(b)(1)(A)" for "section 320(b)(1)(A)".
 
-<b>1976</b>—Pub. L. 94–283 substituted "limitations" for "limitation" in section catchline, designated existing provisions as subsec. (a), inserted "Expenditure limitations" as heading of subsec. (a) as so redesignated and substituted "section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000" for "section 608(c)(1)(A) of title 18, United States Code", and added subsec. (b).
+<b>1976</b>—Pub. L. 94–283 substituted "limitations" for "limitation" in section catchline, designated existing provisions as subsec. (a), inserted "Expenditure limitations" as heading of subsec. (a) as so redesignated andsubstituted "section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000" for "section 608(c)(1)(A) of title 18, United States Code", and added subsec. (b).
 
 #### Effective Date of 1976 Amendment
 
 Pub. L. 94–283, title III, §305(d), May 11, 1976, 90 Stat. 499, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account."
+
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 

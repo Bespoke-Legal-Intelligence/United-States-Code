@@ -38,7 +38,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall make all efforts to encourage all applicants to utilize the electronic version of the forms described in paragraph (3).
+&emsp;&emsp;&emsp;The Secretary shall make all efforts to encourage all applicants to utilize theelectronic version of the forms described in paragraph (3).
 
 #### (ii) Maintenance of the FAFSA in a printable electronic file
 
@@ -92,7 +92,7 @@
 
 #### (F) Signature
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter and part C of subchapter I ofchapter 34 of title 42, the Secretary may continue to permit an electronic version of the form under this paragraph to be submitted without a signature, if a signature is subsequently submitted by the applicant or if the applicant uses a personal identification number provided by the Secretary under subparagraph (G).
+&emsp;&emsp;Notwithstanding any other provision of this chapter and part C of subchapter I of chapter 34 of title 42, the Secretary may continue to permit an electronic version of the form under this paragraph to be submitted without a signature, if a signature is subsequently submitted by the applicant or if the applicant uses a personal identification number provided by the Secretary under subparagraph (G).
 
 #### (G) Personal identification numbers authorized
 
@@ -164,7 +164,7 @@
 
 #### (E) Consequences if State does not accept simplified forms
 
-&emsp;&emsp;If a State does not permit an applicant to file a form described in paragraph (2)(B) or\(3)(B) for purposes of determining eligibility for State need-based financial aid, the Secretary may determine that State-specific questions for such State will not be included on a form described in paragraph (2)(B) or (3)(B). If the Secretary makes such determination, the Secretary shall advise the State of the Secretary's determination.
+&emsp;&emsp;If a State does not permit an applicant to file a form described in paragraph (2)(B) or (3)(B) for purposes of determining eligibility for State need-based financial aid, the Secretary may determine that State-specific questions for such State will not be included on a form described in paragraph (2)(B) or (3)(B). If the Secretary makes such determination, the Secretary shall advise the State of the Secretary's determination.
 
 #### (F) Lack of State response to request for information
 
@@ -226,7 +226,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (c) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to thegeneral public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under section 1140q of this title. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of section 1087ss of this title to submit an application over such system.
 
 #### (d) Assistance in preparation of financial aid application
 
@@ -280,7 +280,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;Not later than two years after August 14, 2008, the Secretary shall implement an early application demonstration program enabling dependent students who wish to participate in the program—
 
-&emsp;&emsp;(A) to complete an application under this subsection during the academic year that is two years prior to the year such students plan to enroll in an institution of higher education; and
+&emsp;&emsp;(A) to complete an application under this subsection during the academic year that istwo years prior to the year such students plan to enroll in an institution of higher education; and
 
 &emsp;&emsp;(B) based on the application described in subparagraph (A), to obtain, not later than one year prior to the year of the students' planned enrollment, information on eligibility for Federal Pell Grants, Federal student loans under this subchapter and part C of subchapter I of chapter 34 of title 42, and State and institutional financial aid for the student's first year of enrollment in the institution of higher education.
 
@@ -352,7 +352,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 #### (B) Waivers
 
-&emsp;&emsp;The Secretary is authorized to waive, for an institution of higher education participating in the demonstration program, any requirements under this subchapter and part C of subchapter I of chapter 34 of title 42, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will make the demonstration program unworkable, except that the Secretary shall not waive any provisions with respect to the maximum award amounts for grants and loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;The Secretary is authorized to waive, for an institution of higher education participating in the demonstration program, any requirements under this subchapter and part C of subchapter I of chapter 34 of title 42, or regulations prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, that will make the demonstrationprogram unworkable, except that the Secretary shall not waive any provisions with respect to the maximum award amounts for grants and loans under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (7) Outreach
 
@@ -404,7 +404,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(C) how the alternative approaches for calculating the expected family contribution will—
 
-&emsp;&emsp;&emsp;(i) rely mainly, in the case of students and parents who file income tax returns,on information available on the 1040, 1040EZ, and 1040A; and
+&emsp;&emsp;&emsp;(i) rely mainly, in the case of students and parents who file income tax returns, on information available on the 1040, 1040EZ, and 1040A; and
 
 &emsp;&emsp;&emsp;(ii) include formulas for adjusting income or asset information to produce similar results to the existing approach with less data;
 
@@ -416,7 +416,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;(ii) generate an expected family contribution without additional action on the part of the student and taxpayer;
 
-&emsp;&emsp;(F) the extent to which the use of income data from two years prior to a student's planned enrollment date will change the expected family contribution computed in accordance with part E, and potential adjustments to the need analysis formula that will minimize the change; and
+&emsp;&emsp;(F) the extent to which the use of income data from two years prior to a student'splanned enrollment date will change the expected family contribution computed in accordance with part E, and potential adjustments to the need analysis formula that will minimize the change; and
 
 &emsp;&emsp;(G) the extent to which the data elements collected on the FAFSA on March 31, 2008, that are needed to determine eligibility for student aid or to administer the Federal student financial aid programs, but are not needed to compute an expected family contribution, such as information regarding the student's citizenship or permanent residency status, registration for selective service, or driver's license number, can be reduced without adverse effects.
 
@@ -464,7 +464,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) whether State data are required by State law, State regulations, or policy directives; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the extent to which any State-specific information requirements canbe met by completion of a State application linked to the electronic version of the FAFSA; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the extent to which any State-specific information requirements can be met by completion of a State application linked to the electronic version of the FAFSA; and
 
 &emsp;&emsp;&emsp;&emsp;(III) information on institutional needs, including the extent to which institutions of higher education are already using supplemental forms to collect additional data from students and their families to determine eligibility for institutional funds; and
 
@@ -536,7 +536,7 @@ Pub. L. 110–315, §103(b)(10), substituted "authorizing committees" for "Commi
 
 Subsec. (d). Pub. L. 110–315, §483(a)(5), added subsec. (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 110–315, §483(a)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "Any financial aid application required to be made under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include the name, signature, address or employer's address, social security number or employer identification number, and organizational affiliation of the preparer of such financial aid application."
+Subsec. (e). Pub. L. 110–315, §483(a)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "Any financial aid application required to be made under this subchapterand part C of subchapter I of chapter 34 of title 42 shall include the name, signature, address or employer's address, social security number or employer identification number, and organizational affiliation of the preparer of such financial aid application."
 
 Subsecs. (f) to (h). Pub. L. 110–315, §483(a)(5), added subsecs. (f) to (h).
 
@@ -610,7 +610,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

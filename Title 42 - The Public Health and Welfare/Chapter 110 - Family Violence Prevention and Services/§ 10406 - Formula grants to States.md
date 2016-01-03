@@ -52,7 +52,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 &emsp;&emsp;&emsp;(i) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
-&emsp;&emsp;&emsp;(ii) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), sections 504 and 505 of the Rehabilitation Act of 1973 \[29 U.S.C. 794, 794a\], or title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), as may be applicable; or
+&emsp;&emsp;&emsp;(ii) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), the Age Discrimination Act of 1975 (42 U.S.C. 6101et seq.), sections 504 and 505 of the Rehabilitation Act of 1973 \[29 U.S.C. 794, 794a\], or title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), as may be applicable; or
 
 &emsp;&emsp;&emsp;(iii) take such other action as may be provided by law.
 
@@ -120,7 +120,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (G) Preemption
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to supersede any provision of any Federal, State, tribal, or local law that provides greater protection than this paragraph for victims of family violence, domestic violence, or dating violence.
+&emsp;&emsp;Nothing in this paragraph shall be construed to supersede any provision of anyFederal, State, tribal, or local law that provides greater protection than this paragraph for victims of family violence, domestic violence, or dating violence.
 
 #### (H) Confidentiality of location
 

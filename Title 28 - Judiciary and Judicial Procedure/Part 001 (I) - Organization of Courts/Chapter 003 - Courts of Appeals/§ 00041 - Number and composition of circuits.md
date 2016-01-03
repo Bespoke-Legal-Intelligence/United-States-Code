@@ -20,7 +20,7 @@ The thirteen judicial circuits of the United States are constituted as follows:
 | Eleventh | Alabama, Florida, Georgia. |
 | Federal | All Federal judicial districts. |
 
-(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Pub. L. 96–452, §2, Oct.14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §101, Apr. 2, 1982, 96 Stat. 25.)
+(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Pub. L. 96–452, §2, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §101, Apr. 2, 1982, 96 Stat. 25.)
 
 #### Historical and Revision Notes
 
@@ -92,7 +92,7 @@ Sections 5 to 10 of Pub. L. 96–452 provided that:
 
 "Sec. 9. The provisions of the following paragraphs of this section apply to any case in which, on the day before the effective date of this Act \[Oct. 1, 1981\], an appeal or other proceeding has been filed with the former fifth circuit:
 
-&emsp;"(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act \[amending sections 41, 44, and 48 of thistitle, and enacting provisions set out as notes under this section\] had not been enacted.
+&emsp;"(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act \[amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section\] had not been enacted.
 
 &emsp;"(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
 

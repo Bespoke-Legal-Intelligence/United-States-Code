@@ -36,7 +36,7 @@
 
 #### (1) Authority
 
-&emsp;Of the amounts available pursuant to section 3172(a)(2)(A) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance to States that do not meet the State performance accountability measures for the primary indicators of performance described in section 3141(b)(2)(A)(i) of this title with respect to employment and training activities for dislocatedworkers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote the continuous improvement of assistance provided to dislocated workers, under this subchapter.
+&emsp;Of the amounts available pursuant to section 3172(a)(2)(A) of this title, the Secretary shall reserve not more than 5 percent of such amounts to provide technical assistance to States that do not meet the State performance accountability measures for the primary indicators of performance described in section 3141(b)(2)(A)(i) of this title with respect to employment and training activities for dislocated workers. Using such reserved funds, the Secretary may provide such assistance to other States, local areas, and other entities involved in providing assistance to dislocated workers, to promote the continuous improvement of assistance provided to dislocated workers, under this subchapter.
 
 #### (2) Training
 
@@ -60,5 +60,5 @@ This Act, referred to in subsecs. (a)(1)(E), (H) and (c)(1), is Pub. L. 113–12
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

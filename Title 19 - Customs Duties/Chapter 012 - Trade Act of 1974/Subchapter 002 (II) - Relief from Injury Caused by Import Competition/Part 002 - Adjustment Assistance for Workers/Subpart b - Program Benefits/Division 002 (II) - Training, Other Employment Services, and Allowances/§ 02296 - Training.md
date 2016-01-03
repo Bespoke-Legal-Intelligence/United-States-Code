@@ -18,11 +18,7 @@
 
 > the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on the worker's behalf by the Secretary directly or through a voucher system.
 
-(2)(A) The total amount of funds available to carry out this section and sections 2295, 2297, and 2298 of this title shall not exceed—
-
-&emsp;(i) $575,000,000 for each of fiscal years 2012 and 2013; and
-
-&emsp;(ii) $143,750,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013.
+(2)(A) The total amount of funds available to carry out this section and sections 2295, 2297, and 2298 of this title shall not exceed $450,000,000 for each of fiscal years 2015 through 2021.
 
 (B)(i) The Secretary shall, as soon as practicable after the beginning of each fiscal year, make an initial distribution of the funds made available to carry out this section and sections 2295, 2297, and 2298 of this title, in accordance with the requirements of subparagraph (C).
 
@@ -70,15 +66,15 @@
 
 &emsp;&emsp;(iii) apprenticeship programs registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.),
 
-&emsp;(B) any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
+&emsp;(B) any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\],
 
-&emsp;(C) any training program approved by a private industry council established under section 102 of such Act,
+&emsp;(C) any training program approved by a private industry council established under section 102 of such Act,<sup>2</sup>
 
 &emsp;(D) any program of remedial education,
 
 &emsp;(E) any program of prerequisite education or coursework required to enroll in training that may be approved under this section,
 
-&emsp;(F) any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
+&emsp;(F) any training program (other than a training program described in paragraph (7))for which all, or any portion, of the costs of training the worker are paid—
 
 &emsp;&emsp;(i) under any Federal or State program other than this chapter, or
 
@@ -92,7 +88,7 @@
 
 &emsp;&emsp;(ii) completing a degree or certification that the worker had previously begun at an accredited institution of higher education.
 
-> The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+> The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\].
 
 (6)(A) The Secretary is not required under paragraph (1) to pay the costs of any training approved under paragraph (1) to the extent that such costs are paid—
 
@@ -128,7 +124,7 @@
 
 #### (b) Supplemental assistance
 
-The Secretary may, where appropriate, authorize supplemental assistance necessary to defray reasonable transportation and subsistence expenses for separate maintenance when training is provided in facilities which are not withincommuting distance of a worker's regular place of residence. The Secretary may not authorize—
+The Secretary may, where appropriate, authorize supplemental assistance necessary to defray reasonable transportation and subsistence expenses for separate maintenance when training is provided in facilities which are not within commuting distance of a worker's regular place of residence. The Secretary may not authorize—
 
 &emsp;(1) payments for subsistence that exceed whichever is the lesser of (A) the actual per diem expenses for subsistence, or (B) payments at 50 percent of the prevailing per diem allowance rate authorized under the Federal travel regulations, or
 
@@ -196,9 +192,9 @@ The Secretary may, where appropriate, authorize supplemental assistance necessar
 
 &emsp;&emsp;(H) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
 
-&emsp;&emsp;(I) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of subparagraphs (A), (B), (C), (D), (E), and (F), and
+&emsp;&emsp;(I) the employer has not received payment under subsection (a)(1) with respect to any other on-the-job training provided by such employer which failed to meet the requirements of subparagraphs (A), (B), (C), (D), (E), and (F), and
 
-&emsp;&emsp;(J) the employer has not taken, at any time, any action which violated the terms of any certification described in subparagraph (H) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
+&emsp;&emsp;(J) the employer has not taken, at any time, any action which violated the terms of any certification described in subparagraph (H) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1).
 
 #### (d) Eligibility
 
@@ -242,41 +238,45 @@ For purposes of this section, the term "customized training" means training that
 
 &emsp;Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under section 2291 of this title.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on February 13, 2011
+#### Reversion to Provisions in Effect on January 1, 2014
 
-<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
-
-#### Amendment of Subsection (a)(5)
-
-<i>Pub. L. 113–128, title V, §§506, 512(hh)(3), July 22, 2014, 128 Stat. 1703, 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(5) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (B), by striking "any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998" and inserting "any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act"; and</i>
-
-<i>(2) in concluding provisions, by striking "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)." and inserting "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act."</i>
-
-<i>See note above and 2014 Amendment notes below.</i>
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(5)(A)(iii), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, asamended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+
+Amendments made by Pub. L. 113–128 were effective July 1, 2015, and were executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–128, §512(hh)(3)(B), substituted "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act." for "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)." in concluding provisions.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
-Subsec. (a)(5)(B). Pub. L. 113–128, §512(hh)(3)(A), substituted "any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act" for "any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998".
+Subsec. (a)(2)(A). Pub. L. 114–27, §§403(b), 406, temporarily substituted "shall not exceed $450,000,000 for each of fiscal years 2015 through 2021." for "shall not exceed—
 
-<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
+&emsp;"(i) $575,000,000 for each of fiscal years 2012 and 2013; and
+
+&emsp;"(ii) $143,750,000 for the 3-month period beginning on October 1, 2013, and ending on December 31, 2013."
+
+> See Codification note above and Effective and Termination Dates of 2015 Revival note below.
+
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–128, §512(hh)(3)(B), substituted "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act." for "The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)." in concluding provisions. See Codification note above.
+
+Subsec. (a)(5)(B). Pub. L. 113–128, §512(hh)(3)(A), substituted "any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act" for "any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998". See Codification note above.
+
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb.12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 Subsec. (a)(2)(A). Pub. L. 112–40, §§214(a)(2), 233, temporarily substituted "of funds available to carry out this section and sections 2295, 2297, and 2298 of this title" for "of payments that may be made under paragraph (1)" in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) and (ii) which read as follows:
 
@@ -342,7 +342,7 @@ Subsec. (a)(5)(A)(iii). Pub. L. 111–5, §§1829(a)(1), 1893, temporarily added
 
 Subsec. (a)(5)(E) to (H). Pub. L. 111–5, §§1829(a)(2)–(6), 1893, temporarily added subpars. (E) and (H) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted "or adversely affectedincumbent worker" after "adversely affected worker". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(6)(B), (7)(B). Pub. L. 111–5, §§1830(a)(1)(D), (E), 1893, temporarily inserted "or adversely affected incumbent worker" after "adversely affected worker". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(9). Pub. L. 111–5, §§1828(b), 1893, temporarily designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the Secretary" for "The Secretary", and added subpar. (B). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -350,7 +350,7 @@ Subsec. (a)(10), (11). Pub. L. 111–5, §§1830(a)(1)(F), 1893, temporarily add
 
 Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the temporary substitution of a period for ", and", could not be executed because ", and" did not appear. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equalmonthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -416,17 +416,25 @@ Subsec. (d). Pub. L. 99–272, §13004(a)(7), added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 99–272, §13004(a)(5), redesignated pars. (2) and (3) of subsec. (a) as subsecs. (e) and (f), respectively.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changesin nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), revised provisions, made changes in nomenclature, inserted provisions respecting availability, payment, and scope of training, and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
+#### Effective and Termination Dates of 2015 Revival
+
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 #### Effective Date of 2010 Amendment
 
@@ -442,7 +450,7 @@ Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provi
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -464,11 +472,13 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (d) relating to submitting a quarterly report to Congress on funds for training under subsec. (a), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

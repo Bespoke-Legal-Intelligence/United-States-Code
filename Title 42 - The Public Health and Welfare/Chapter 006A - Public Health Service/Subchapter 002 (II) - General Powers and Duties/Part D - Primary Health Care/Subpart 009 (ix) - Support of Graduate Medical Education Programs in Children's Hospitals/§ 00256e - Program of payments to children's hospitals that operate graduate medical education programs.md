@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 
 #### (b) Amount of payments
 
@@ -52,7 +52,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(ii) The number of training positions for residents described in subparagraph (C), the number of such positions recruited to fill, and the number of such positions filled.
 
-&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described insubparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
+&emsp;&emsp;&emsp;(iii) The types of training that the hospital provided for residents described in subparagraph (C) related to the health care needs of different populations, such as children who are underserved for reasons of family income or geographic location, including rural and urban areas.
 
 &emsp;&emsp;&emsp;(iv) The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
 
@@ -60,7 +60,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;&emsp;(II) changes for purposes of training the residents in the measurement and improvement of the quality and safety of patient care.
 
-&emsp;&emsp;&emsp;(v) The numbers of residents described in subparagraph (C) who completed their residency training at the end of such residency academic year and care for children within the borders of the service area of the hospital or within the borders of the State in which the hospital is located. Such numbers shall be disaggregated with respect to residents who completed residencies in general pediatrics or internal medicine/pediatrics, subspecialty residencies, and dental residencies.
+&emsp;&emsp;&emsp;(v) The numbers of residents described in subparagraph (C) who completed their residency training at the end of such residency academic year and care for children within the borders of the service area of the hospital or within the borders of the State in which the hospital is located. Such numbers shall be disaggregated with respect to residents who completed residencies ingeneral pediatrics or internal medicine/pediatrics, subspecialty residencies, and dental residencies.
 
 #### (C) Residents
 
@@ -120,7 +120,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;The Secretary shall compute for each such hospital that is a children's hospital a per resident amount—
 
-&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applyingthe proportion determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title for discharges occurring during the preceding fiscal year for the hospital's area; and
 
@@ -298,7 +298,7 @@ Subsec. (f)(2)(D). Pub. L. 109–307, §2(a)(4)(B)–(D), added subpar. (D).
 
 Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted "ratio of the" after "hospitals and the" and "to beds (but excluding beds or bassinets assigned to healthy newborn infants)" before semicolon.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–310, §2001(a), substituted "2000 through 2005" for "2000 and 2001" and inserted at end "The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.".
+<b>2000</b>—Subsec. (a). Pub. L. 106–310, §2001(a), substituted "2000 through 2005" for "2000 and 2001" and inserted atend "The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.".
 
 Subsec. (c)(2)(F). Pub. L. 106–310, §2001(b), substituted "Federal fiscal year for which payments are made" for "hospital's cost reporting period that begins during fiscal year 2000".
 

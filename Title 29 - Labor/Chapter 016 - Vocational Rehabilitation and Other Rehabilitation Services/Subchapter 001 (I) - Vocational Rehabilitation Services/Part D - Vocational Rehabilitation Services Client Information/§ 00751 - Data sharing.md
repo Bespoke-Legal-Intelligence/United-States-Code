@@ -20,7 +20,7 @@
 
 #### (b) Treatment of information
 
-For purposes of the exchange described in subsection (a)(1) of this section, the data described in subsection (a)(1)(B)(ii) of this section shall not be considered return information (as defined in section 6103(b)(2) of title 26) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
+For purposes of the exchange described in subsection (a)(1), the data described in subsection (a)(1)(B)(ii) shall not be considered return information (as defined in section 6103(b)(2) of title 26) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
 
 (Pub. L. 93–112, title I, §131, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1167; amended Pub. L. 113–128, title IV, §424, July 22, 2014, 128 Stat. 1660.)
 
@@ -46,5 +46,5 @@ Section 753a, Pub. L. 93–112, title I, §141, as added Pub. L. 103–73, title
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

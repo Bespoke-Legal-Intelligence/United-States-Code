@@ -14,7 +14,7 @@
 
 #### (B) Relation to MA regions
 
-&emsp;&emsp;To the extent practicable, PDP regions shall be the same as MA regions under section 1395w–27a(a)(2) of this title. The Secretary may establish PDP regions which arenot the same as MA regions if the Secretary determines that the establishment of different regions under this part would improve access to benefits under this part.
+&emsp;&emsp;To the extent practicable, PDP regions shall be the same as MA regions under section 1395w–27a(a)(2) of this title. The Secretary may establish PDP regions which are not the same as MA regions if the Secretary determines that the establishment of different regions under this part would improve access to benefits under this part.
 
 #### (C) Authority for territories
 
@@ -62,7 +62,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Whether the PDP sponsor requires a modification of risk level under clause (ii) and, if so, the extent of such modification. Any such modification shall apply with respect to all prescription drug plans offered by a PDP sponsor in a PDP region. This subparagraph shall not apply to an MA–PD plan.
+&emsp;&emsp;&emsp;Whether the PDP sponsor requires a modification of risk level under clause (ii)and, if so, the extent of such modification. Any such modification shall apply with respect to all prescription drug plans offered by a PDP sponsor in a PDP region. This subparagraph shall not apply to an MA–PD plan.
 
 #### (ii) Risk levels described
 
@@ -106,7 +106,7 @@
 
 #### (2) Accounting for drug utilization
 
-&emsp;Such processes and methods for determining actuarial valuation shall take into accountthe effect that providing alternative prescription drug coverage (rather than standard prescription drug coverage) has on drug utilization.
+&emsp;Such processes and methods for determining actuarial valuation shall take into account the effect that providing alternative prescription drug coverage (rather than standard prescription drug coverage) has on drug utilization.
 
 #### (3) Responsibilities
 
@@ -190,7 +190,7 @@
 
 #### (B) Maximizing assumption of risk
 
-&emsp;&emsp;The Secretary shall provide priority in approval for those plans bearing the highestlevel of risk (as computed by the Secretary), but the Secretary may take into account the level of the bids submitted by such plans.
+&emsp;&emsp;The Secretary shall provide priority in approval for those plans bearing the highest level of risk (as computed by the Secretary), but the Secretary may take into account the level of the bids submitted by such plans.
 
 #### (C) No full underwriting for limited risk plans
 
@@ -232,7 +232,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 132 of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) ofsection 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 

@@ -56,6 +56,8 @@
 |  |  |
 | :--- | ---: |
 | [17061\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017061%20-%20Definitions.md) | Definitions. |
+| [17062\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017062%20-%20Energy%20efficiency%20in%20Federal%20and%20other%20buildings.md) | Energy efficiency in Federal and other buildings. |
+| [17063\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017063%20-%20Energy%20information%20for%20commercial%20buildings.md) | Energy information for commercial buildings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,6 +76,8 @@
 | [17081\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017081%20-%20Commercial%20high-performance%20green%20buildings.md) | Commercial high-performance green buildings. |
 | [17082\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017082%20-%20Zero%20Net%20Energy%20Commercial%20Buildings%20Initiative.md) | Zero Net Energy Commercial Buildings Initiative. |
 | [17083\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017083%20-%20Public%20outreach.md) | Public outreach. |
+| [17084\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017084%20-%20Separate%20spaces%20with%20high-performance%20energy%20efficiency%20measures.md) | Separate spaces with high-performance energy efficiency measures. |
+| [17085\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017085%20-%20Tenant%20Star%20program.md) | Tenant Star program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -271,7 +275,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part A—Assistance to Promote Clean and Efficient Energy Technologies in Foreign Countries
+#### Part A—Assistance To Promote Clean and Efficient Energy Technologies in Foreign Countries
 
 |  |  |
 | :--- | ---: |

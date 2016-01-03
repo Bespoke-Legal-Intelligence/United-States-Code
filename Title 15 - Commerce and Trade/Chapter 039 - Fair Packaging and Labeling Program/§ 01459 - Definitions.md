@@ -22,7 +22,7 @@ For the purpose of this chapter—
 
 &emsp;(3) containers subject to the provisions of the Act of August 3, 1912 (37 Stat. 250, as amended; 15 U.S.C. 231–233), or the Act of March 4, 1915 (38 Stat. 1186, as amended; 15 U.S.C. 234–236).
 
-(c) The term "label" means any written, printed, or graphic matter affixed to any consumercommodity or affixed to or appearing upon a package containing any consumer commodity.
+(c) The term "label" means any written, printed, or graphic matter affixed to any consumer commodity or affixed to or appearing upon a package containing any consumer commodity.
 
 (d) The term "person" includes any firm, corporation, or association.
 

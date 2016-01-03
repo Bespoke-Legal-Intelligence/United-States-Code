@@ -16,7 +16,7 @@ Disclosures required by subsection (a) shall be made in accordance with the regu
 
 #### (c) Information to be included
 
-The disclosure required by subsection (a) of this section shall include—
+The disclosure required by subsection (a) shall include—
 
 &emsp;(1) the policies and practices of the institution with respect to disclosing nonpublic personal information to nonaffiliated third parties, other than agents of the institution, consistent with section 6802 of this title, and including—
 
@@ -54,7 +54,7 @@ The disclosure required by subsection (a) of this section shall include—
 
 #### (1) In general
 
-&emsp;The agencies referred to in section 6804(a)(1) of this title shall jointly develop a model form which may be used, at the option of the financial institution, for the provision of disclosures under this section.
+&emsp;The agencies referred to in section 6804(a)(1) of this title shall jointly develop a model formwhich may be used, at the option of the financial institution, for the provision of disclosures under this section.
 
 #### (2) Format
 
@@ -76,9 +76,21 @@ The disclosure required by subsection (a) of this section shall include—
 
 &emsp;Any financial institution that elects to provide the model form developed by the agencies under this subsection shall be deemed to be in compliance with the disclosures required under this section.
 
-(Pub. L. 106–102, title V, §503, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 109–351, title VI, §609, title VII, §728, Oct. 13, 2006, 120 Stat. 1983, 2003.)
+#### (f) Exception to annual notice requirement
+
+A financial institution that—
+
+&emsp;(1) provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of section 6802 of this title or regulations prescribed under section 6804(b) of this title, and
+
+&emsp;(2) has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,
+
+> shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).
+
+(Pub. L. 106–102, title V, §503, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 109–351, title VI, §609, title VII, §728, Oct. 13, 2006, 120 Stat. 1983, 2003; Pub. L. 114–94, div. G, title LXXV, §75001, Dec. 4, 2015, 129 Stat. 1787.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
 
 <b>2006</b>—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted "Disclosures required by subsection (a)" for "Such disclosures", redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 

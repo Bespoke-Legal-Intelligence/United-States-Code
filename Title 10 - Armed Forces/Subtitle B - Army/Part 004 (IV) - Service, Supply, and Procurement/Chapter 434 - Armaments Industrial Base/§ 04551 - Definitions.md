@@ -32,7 +32,7 @@ Notification of Solicitations.—Not later than 180 days after the date of the e
 
 #### Arsenal Support Program Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L. 107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–375, div. A, title III, §342, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 110–181, div. A, title III, §341, Jan. 28, 2008, 122 Stat. 69; Pub. L. 111–84, div. A, title III, §354, Oct. 28, 2009, 123 Stat. 2264; Pub. L. 111–383, div. A, title III, §342, Jan. 7, 2011, 124 Stat. 4190, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L. 107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–375, div. A, title III, §342, Oct. 28, 2004, 118 Stat. 1857; Pub. L. 110–181, div. A, title III, §341, Jan. 28, 2008, 122 Stat. 69; Pub. L. 111–84, div. A, title III, §354, Oct. 28, 2009, 123 Stat. 2264; Pub. L. 111–383, div. A, title III, §342, Jan. 7, 2011, 124 Stat. 4190; Pub. L. 114–92, div. A, title X, §1073(j), Nov. 25, 2015, 129 Stat. 996, provided that:
 
 "(a)
 
@@ -94,7 +94,7 @@ Loan Guarantees.—(1) Subject to paragraph (2), the Secretary of the Army may g
 
 "(2) Loan guarantees under this subsection may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required by section 504 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661c).
 
-"(3) The Secretary of the Army may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the RuralDevelopment Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this subsection—
+"(3) The Secretary of the Army may enter into agreements with the Administrator of the Small Business Administration or the Administrator of the Farmers Home Administration, the Administrator of the Rural Development Administration, or the head of other appropriate agencies of the Department of Agriculture, under which such Administrators may, under this subsection—
 
 &emsp;"(A) process applications for loan guarantees;
 
@@ -114,11 +114,5 @@ Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal y
 
 "(f)
 
-Transfer of Funds.—The Secretary of the Army may transfer to an Administrator providing services under subsection (d), and the Administrator may accept, such funds as may be necessary to administer loan guarantees under such subsection.
-
-"(g)
-
-Reporting Requirements.—(1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2012.
-
-"(2) Not later than July 1, 2007, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the demonstration program since its implementation, including the Secretary's views regarding the benefits of the program for Army manufacturing arsenals and the Department of the Army and the success of the program in achieving the purposes specified in subsection (b). The report shall contain a comprehensive review of contracting at the Army manufacturing arsenals covered by the program and such recommendations as the Secretary considers appropriate regarding changes to the program."
+Transfer of Funds.—The Secretary of the Army may transfer to an Administrator providing services under subsection (d), and the Administrator may accept, such funds as may be necessary to administer loan guarantees under such subsection."
 

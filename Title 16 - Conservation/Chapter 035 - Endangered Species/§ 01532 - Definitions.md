@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(7) The term "Federal agency" means any department, agency, or instrumentality of the United States.
 
-&emsp;(8) The term "fish or wildlife" means any member of the animal kingdom, including without limitation any mammal, fish, bird (including any migratory, nonmigratory, or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or parts thereof.
+&emsp;(8) The term "fish or wildlife" means any member of the animal kingdom, includingwithout limitation any mammal, fish, bird (including any migratory, nonmigratory, or endangered bird for which protection is also afforded by treaty or other international agreement), amphibian, reptile, mollusk, crustacean, arthropod or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or parts thereof.
 
 &emsp;(9) The term "foreign commerce" includes, among other things, any transaction—
 

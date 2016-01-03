@@ -21,3 +21,4 @@
 - [&sect; 31107 - Border enforcement grants](%C2%A7%2031107%20-%20Border%20enforcement%20grants.md)
 - [&sect; 31108 - Motor carrier research and technology program](%C2%A7%2031108%20-%20Motor%20carrier%20research%20and%20technology%20program.md)
 - [&sect; 31109 - Performance and registration information system management](%C2%A7%2031109%20-%20Performance%20and%20registration%20information%20system%20management.md)
+- [&sect; 31110 - Authorization of appropriations](%C2%A7%2031110%20-%20Authorization%20of%20appropriations.md)

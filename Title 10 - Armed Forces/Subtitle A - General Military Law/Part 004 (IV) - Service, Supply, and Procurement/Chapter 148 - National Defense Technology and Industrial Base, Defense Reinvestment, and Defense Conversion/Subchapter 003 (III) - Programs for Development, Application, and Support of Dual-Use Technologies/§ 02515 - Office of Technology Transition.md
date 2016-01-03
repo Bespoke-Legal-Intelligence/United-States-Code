@@ -32,7 +32,7 @@ A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), 
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d). Prior to amendment, text read as follows: "The Secretary of Defense shall submit to the congressional defense committees a biennial report on the activities of the Office. The report shall be submitted each even-numbered year at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the two fiscal years preceding the fiscal year in which the report is submitted."
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out par. (1) designation before "The Secretary", substituted "congressional defense committees" for "congressionalcommittees specified in paragraph (2)", and struck out par. (2) which read as follows: "The committees referred to in paragraph (1) are—
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out par. (1) designation before "The Secretary", substituted "congressional defense committees" for "congressional committees specified in paragraph (2)", and struck out par. (2) which read as follows: "The committees referred to in paragraph (1) are—
 
 &emsp;"(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 

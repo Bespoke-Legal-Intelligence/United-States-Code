@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 106–469, §103(13)(B), amended subsec. (f) generally. Pri
 
 Subsec. (g). Pub. L. 106–469, §103(13)(C), substituted "development" for "implementation" and struck out "Plan" after "Strategic Petroleum Reserve".
 
-Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interimstorage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
+Subsecs. (h), (i). Pub. L. 106–469, §103(13)(D), struck out subsecs. (h) and (i) which related to use of interim storage facilities and environmental considerations for existing facilities, and report to Congress on results of negotiations for enlargement of Strategic Petroleum Reserve to one billion barrels.
 
 Subsec. (j). Pub. L. 106–469, §103(13)(E), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "No later than 24 months after September 15, 1990, the Secretary shall amend the Strategic Petroleum Reserve Plan to prescribe plans for completion of storage of one billion barrels of petroleum product in the Reserve. Such amendment shall comply with the provisions of this section and shall detail the Secretary's plans for the design, construction, leasing or other acquisition, and fill of storage and related facilities of the Reserve to achieve such one billion barrels of storage. Such amendment shall not be subject to the congressional review procedures contained in section 6421 of this title. In assessing alternatives in the development of such plans, the Secretary shall consider leasing privately owned storage facilities."
 
@@ -75,4 +75,82 @@ Subsec. (l). Pub. L. 101–383, §11, added subsec. (l).
 Subsec. (h). Pub. L. 97–229, §4(b)(2)(B), added subsec. (h).
 
 <b>1978</b>—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### Energy Security and Infrastructure Modernization Fund
+
+Pub. L. 114–74, title IV, §404, Nov. 2, 2015, 129 Stat. 590, provided that:
+
+"(a)
+
+Establishment.—There is hereby established in the Treasury of the United States a fund to be known as the Energy Security and Infrastructure Modernization Fund (referred to in this section as the 'Fund'), consisting of—
+
+&emsp;"(1) collections deposited in the Fund under subsection (c); and
+
+&emsp;"(2) amounts otherwise appropriated to the Fund.
+
+"(b)
+
+Purpose.—The purpose of the Fund is to provide for the construction, maintenance, repair, and replacement of Strategic Petroleum Reserve facilities.
+
+"(c)
+
+Collection and Deposit of Sale Proceeds in Fund.—
+
+&emsp;"(1)
+
+Drawdown and sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which the sale occurs. Such amounts shall remain available in the Fund without fiscal year limitation.
+
+&emsp;"(2)
+
+Emergency protection.—The Secretary shall not draw down and sell crude oil under this subsection in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full amount authorized by that subsection.
+
+"(d)
+
+Authorized Uses of Fund.—
+
+&emsp;"(1)
+
+In general.—Amounts in the Fund may be used for, or may be credited as offsetting collections for amounts used for, carrying out the program described in paragraph (2)(B), to the extent provided in advance in appropriation Acts.
+
+&emsp;"(2)
+
+Program to modernize the strategic petroleum reserve.—
+
+&emsp;&emsp;"(A)
+
+Findings.—Congress finds the following:
+
+&emsp;&emsp;&emsp;"(i) The Strategic Petroleum Reserve is one of the Nation's most valuable energy security assets.
+
+&emsp;&emsp;&emsp;"(ii) The age and condition of the Strategic Petroleum Reserve have diminished its value as a Federal energy security asset.
+
+&emsp;&emsp;&emsp;"(iii) Global oil markets and the location and amount of United States oil production and refining capacity have dramatically changed in the 40 years since the establishment of the Strategic Petroleum Reserve.
+
+&emsp;&emsp;&emsp;"(iv) Maximizing the energy security value of the Strategic Petroleum Reserve requires a modernized infrastructure that meets the drawdown and distribution needs of changed domestic and international oil and refining market conditions.
+
+&emsp;&emsp;"(B)
+
+Program.—The Secretary of Energy shall establish a Strategic Petroleum Reserve modernization program to protect the United States economy from the impacts of emergency product supply disruptions. The program may include—
+
+&emsp;&emsp;&emsp;"(i) operational improvements to extend the useful life of surface and subsurface infrastructure;
+
+&emsp;&emsp;&emsp;"(ii) maintenance of cavern storage integrity; and
+
+&emsp;&emsp;&emsp;"(iii) addition of infrastructure and facilities to optimize the drawdown and incremental distribution capacity of the Strategic Petroleum Reserve.
+
+"(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated (and drawdowns and sales under subsection (c) in an equal amount are authorized) for carrying out subsection (d)(2)(B), $2,000,000,000 for the period encompassing fiscal years 2017 through 2020.
+
+"(f)
+
+Transmission of Department Budget Requests.—The Secretary of Energy shall prepare and submit in the Department's annual budget request to Congress—
+
+&emsp;"(1) an itemization of the amounts of funds necessary to carry out subsection (d); and
+
+&emsp;"(2) a designation of any activities thereunder for which a multiyear budget authority would be appropriate.
+
+"(g)
+
+Sunset.—The authority of the Secretary to draw down and sell crude oil from the Strategic Petroleum Reserve under this section shall expire at the end of fiscal year 2020."
 

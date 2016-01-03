@@ -16,7 +16,7 @@ Each officer on the retired list who first became a member of a uniformed servic
 
 &emsp;(1) the retired pay base determined under section 1407 of title 10; by
 
-&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if theofficer's service were service as a member of the Armed Forces.
+&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
 
 #### (c) Treatment of full and fractional parts of months in computing years of service
 
@@ -32,9 +32,25 @@ Each officer on the retired list who first became a member of a uniformed servic
 
 &emsp;Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Pub. L. 107–372, title II, §245, Dec. 19, 2002, 116 Stat. 3089.)
+(Pub. L. 107–372, title II, §245, Dec. 19, 2002, 116 Stat. 3089; Pub. L. 114–92, div. A, title VI, §631(c)(3), Nov. 25, 2015, 129 Stat. 844.)
+
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 114–92, div. A, title VI, §§631(c)(3), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(2) of this section is amended to read as follows:</i>
+
+&emsp;<i>(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853o of this title prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–92 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "2½ percent of the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces."
+
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
 

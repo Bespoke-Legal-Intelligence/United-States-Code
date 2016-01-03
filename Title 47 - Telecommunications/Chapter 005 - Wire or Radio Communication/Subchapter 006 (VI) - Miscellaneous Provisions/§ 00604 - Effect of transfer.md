@@ -2,7 +2,7 @@
 
 #### (a) Orders, determinations, rules, regulations, permits, contracts, licenses, and privileges
 
-All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amended by this chapter or in the exercise of duties, powers, or functions transferred to the Commission by this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
+All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amended by this chapter or in the exercise of duties, powers, or functions transferred to the Commissionby this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
 
 #### (b) Availability of records
 
@@ -26,5 +26,5 @@ Office of Postmaster General of Post Office Department abolished and functions, 
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

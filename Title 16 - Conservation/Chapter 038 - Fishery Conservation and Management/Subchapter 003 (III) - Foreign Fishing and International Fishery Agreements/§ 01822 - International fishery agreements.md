@@ -4,11 +4,11 @@
 
 The Secretary of State—
 
-&emsp;(1) shall renegotiate treaties as provided for in subsection (b) of this section;
+&emsp;(1) shall renegotiate treaties as provided for in subsection (b);
 
 &emsp;(2) shall negotiate governing international fishery agreements described in section 1821(c) of this title;
 
-&emsp;(3) may negotiate boundary agreements as provided for in subsection (d) of this section;
+&emsp;(3) may negotiate boundary agreements as provided for in subsection (d);
 
 &emsp;(4) shall, upon the request of and in cooperation with the Secretary, initiate and conduct negotiations for the purpose of entering into international fishery agreements—
 
@@ -16,7 +16,7 @@ The Secretary of State—
 
 &emsp;&emsp;(B) which provide for the conservation and management of anadromous species and highly migratory species; and
 
-&emsp;(5) may enter into such other negotiations, not prohibited by subsection (c) of this section, as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
+&emsp;(5) may enter into such other negotiations, not prohibited by subsection (c), as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
 
 #### (b) Treaty renegotiation
 
@@ -60,7 +60,7 @@ The Secretary of State, in cooperation with the Secretary, may initiate and cond
 
 &emsp;The Secretary of State shall report to the Congress—
 
-&emsp;&emsp;(A) within 12 months after November 28, 1990, on the results of the evaluation required under paragraph (1), together withrecommendations for addressing any inadequacies identified; and
+&emsp;&emsp;(A) within 12 months after November 28, 1990, on the results of the evaluation required under paragraph (1), together with recommendations for addressing any inadequacies identified; and
 
 &emsp;&emsp;(B) within six months after November 28, 1990, on the results of the access negotiations required under paragraph (2).
 
@@ -114,7 +114,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the</i><i>date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in subsection (b), (A) by inserting "or special areas" immediately after "February 28, 1977)" and (B) by striking "such zone or area" and inserting in lieu thereof "such zone or areas"; and</i>
 
@@ -204,7 +204,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–47
 
 "The Secretary of Commerce, subject to the availability of appropriations authorized by section 10, shall establish a research program for Pacific and Atlantic sharks to engage in the following data collection and research:
 
-&emsp;"(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, givingpriority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
+&emsp;"(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, giving priority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
 
 &emsp;"(2) Research to identify fishing gear and practices that prevent or minimize incidental catch of sharks in commercial and recreational fishing.
 
@@ -254,7 +254,7 @@ Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of S
 
 "(d)
 
-Regulations.—The Secretary of Commerce shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], promulgate regulations providing for—
+Regulations.—The Secretary of Commerce shall, within 180 days after the date of enactment ofthis Act \[Nov. 28, 1990\], promulgate regulations providing for—
 
 &emsp;"(1) the issuance of certificates of legal origin pursuant to agreements under subsection (a) for anadromous fish and anadromous fish products legally harvested by vessels of the United States;
 
@@ -302,7 +302,7 @@ Driftnet.—The term 'driftnet' means a gillnet composed of a panel of plastic w
 
 &emsp;"(2)
 
-Driftnet fishing.—The term 'driftnet fishing' means a fish-harvesting method in which a driftnet isplaced in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+Driftnet fishing.—The term 'driftnet fishing' means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;"(3)
 
@@ -368,7 +368,7 @@ Information From Foreign Governments.—The Secretary, through the Secretary of 
 
 "(a)
 
-Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
+Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreementsapplicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
 
 &emsp;"(1) the effective monitoring and detection of violations;
 

@@ -24,9 +24,9 @@
 
 #### (b) Deferrals and waivers
 
-Notwithstanding subsection (a) of this section, but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
+Notwithstanding subsection (a), but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
 
-&emsp;(1) waive the prohibition required by subsection (a)(1) of this section on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
+&emsp;(1) waive the prohibition required by subsection (a)(1) on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
 
 &emsp;&emsp;(A) has agreed to apply transparent and competitive procedures to its government procurement equivalent to those in the Agreement, and
 
@@ -50,13 +50,13 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (3) Consultation
 
-&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
+&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisorycommittees established pursuant to section 2155 of this title.
 
 #### (d) Proposed action
 
 #### (1) Presidential report
 
-&emsp;On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) of this section a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
+&emsp;On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
 
 #### (2) Procedure
 
@@ -76,7 +76,7 @@ In subsec. (c)(2)(B), "chapter 83 of title 41" substituted for "title III of the
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
 &emsp;"(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
 

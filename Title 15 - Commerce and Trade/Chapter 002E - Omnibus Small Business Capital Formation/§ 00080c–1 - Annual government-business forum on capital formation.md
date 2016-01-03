@@ -10,7 +10,7 @@ The Commission shall invite other Federal agencies, such as the Department of th
 
 #### (c) Preparation of statements and reports
 
-The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b) of this section, or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
+The Commission may request any of the Federal departments, agencies, or organizations such as those specified in subsection (b), or other groups or individuals, to prepare statements and reports to be delivered at such forums. Such departments and agencies shall cooperate in this effort.
 
 #### (d) Transmittal of proceedings and findings
 
@@ -20,5 +20,5 @@ A summary of the proceedings of such forums and any findings or recommendations 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 190), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 190), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

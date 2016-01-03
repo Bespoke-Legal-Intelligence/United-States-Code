@@ -8,7 +8,7 @@
 
 #### (2) Funding
 
-&emsp;There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal yearthereafter, such sums as may be necessary to carry out this subsection.
+&emsp;There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
 
 #### (3) Temporary increases authorized
 
@@ -22,7 +22,7 @@
 
 #### (C) Restriction on usage
 
-&emsp;&emsp;The Corporation may not borrow pursuant to subparagraph (A) to fund obligations of the Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] to purchase or guarantee assets.
+&emsp;&emsp;The Corporation may not borrow pursuant to subparagraph (A) to fund obligations ofthe Corporation incurred as a part of a program established by the Secretary of the Treasury pursuant to the Emergency Economic Stabilization Act of 2008 \[12 U.S.C. 5201 et seq.\] to purchase or guarantee assets.
 
 #### (b) Borrowing from Federal Financing Bank
 
@@ -68,7 +68,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (C) Interest rate limit
 
-&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph\(1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 #### (D) Obligations to be held only by BIF members <sup>1</sup>
 
@@ -168,7 +168,7 @@ Subsec. (d)(5). Pub. L. 109–173, §8(a)(23)(A), (F), substituted "insured depo
 
 Subsec. (e). Pub. L. 109–173, §8(a)(24), added subsec. (e).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund" and "the Deposit Insurance Fund" for "each such fund" in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(N), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund" and "the Deposit Insurance Fund" for "each such fund" in fifth sentence, was repealed by Pub. L. 109–171. See Effective Date of 1996Amendment note below and 2006 Amendment note above.
 
 Subsec. (b). Pub. L. 104–208, §2704(d)(14)(O), which directed substitution of "Deposit Insurance Fund" for "Bank Insurance Fund or Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

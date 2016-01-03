@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (c) of this section, any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
+Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
 &emsp;(1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
 
@@ -30,13 +30,11 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;(4) In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
 
-&emsp;&emsp;(A) the consumer report is needed for the purpose of establishing an individual's capacity to make child support payments or determining the appropriate level of such payments;
+&emsp;&emsp;(A) the consumer report is needed for the purpose of establishing an individual's capacity to make child support payments, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment;
 
-&emsp;&emsp;(B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
+&emsp;&emsp;(B) the parentage of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws); and
 
-&emsp;&emsp;(C) the person has provided at least 10 days' prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
-
-&emsp;&emsp;(D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+&emsp;&emsp;(C) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
 &emsp;(5) To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
 
@@ -78,7 +76,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
 
-&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 oftitle 49, or a position subject to safety regulation by a State transportation agency; and
 
 &emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
@@ -158,7 +156,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (i) Classified information
 
-&emsp;&emsp;&emsp;The term "classified information" means information that is protected fromunauthorized disclosure under Executive Order No. 12958 or successor orders.
+&emsp;&emsp;&emsp;The term "classified information" means information that is protected from unauthorized disclosure under Executive Order No. 12958 or successor orders.
 
 #### (ii) National security investigation
 
@@ -168,15 +166,15 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (1) In general
 
-&emsp;A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) of this section in connection with any credit or insurance transaction that is not initiated by the consumer only if—
+&emsp;A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) in connection with any credit or insurance transaction that is not initiated by the consumer only if—
 
 &emsp;&emsp;(A) the consumer authorizes the agency to provide such report to such person; or
 
 &emsp;&emsp;(B)(i) the transaction consists of a firm offer of credit or insurance;
 
-&emsp;&emsp;(ii) the consumer reporting agency has complied with subsection (e) of this section;
+&emsp;&emsp;(ii) the consumer reporting agency has complied with subsection (e);
 
-&emsp;&emsp;(iii) there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer's name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
+&emsp;&emsp;(iii) there is not in effect an election by the consumer, made in accordance with subsection (e), to have the consumer's name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
 
 &emsp;&emsp;(iv) the consumer report does not contain a date of birth that shows that the consumer has not attained the age of 21, or, if the date of birth on the consumer report shows that the consumer has not attained the age of 21, such consumer consents to the consumer reporting agency to such furnishing.
 
@@ -200,7 +198,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (1) In general
 
-&emsp;A consumer may elect to have the consumer's name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+&emsp;A consumer may elect to have the consumer's name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
 
 #### (2) Manner of notification
 
@@ -238,7 +236,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (A) In general
 
-&emsp;&emsp;Each consumer reporting agency that, under subsection (c)(1)(B) of this section, furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
+&emsp;&emsp;Each consumer reporting agency that, under subsection (c)(1)(B), furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
 
 &emsp;&emsp;&emsp;(i) establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer's election to have the consumer's name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
 
@@ -288,7 +286,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
 
-&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and HealthInformation Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
 &emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>1</sup> or described in section 6802(e) of this title; or
 
@@ -308,7 +306,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087; Pub. L. 114–94, div. G, title LXXX, §80001, Dec. 4, 2015, 129 Stat. 1792.)
 
 #### References in Text
 
@@ -327,6 +325,12 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to section 1320d–8 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4)(A). Pub. L. 114–94, §80001(1), substituted ", determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment" for "or determining the appropriate level of such payments".
+
+Subsec. (a)(4)(B). Pub. L. 114–94, §80001(2)(A), substituted "parentage" for "paternity" and inserted "and" at end.
+
+Subsec. (a)(4)(C), (D). Pub. L. 114–94, §80001(3), (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "the person has provided at least 10 days' prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and".
 
 <b>2010</b>—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, §1088(a)(2)(A), substituted "Bureau" for "Federal Trade Commission".
 
@@ -382,7 +386,7 @@ Subsec. (g). Pub. L. 105–347, §6(4), struck out "or a direct marketing transa
 
 <b>1997</b>—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
-<b>1996</b>—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted "Subject to subsection (c) of this section, any consumer reporting agency" for "A consumer reporting agency" in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: "otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer."
+<b>1996</b>—Pub. L. 104–208, §§2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted "Subject to subsection (c), any consumer reporting agency" for "A consumer reporting agency" in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: "otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer."
 
 Subsec. (b). Pub. L. 104–208, §2403(b), added subsec. (b).
 
@@ -424,7 +428,7 @@ Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

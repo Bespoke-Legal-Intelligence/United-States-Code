@@ -6,7 +6,7 @@ The Center shall prescribe by regulation, after consultation with appropriate ag
 
 #### (b) Reallocation of funds
 
-If the Center determines, on the basis of information available to it during any fiscal year, that a portion of the funds provided to a participating party for that fiscal year will not be required by the party or will become available by virtue of the application of regulations established by the Center to govern noncomplianceby a participating party, that portion shall be available for reallocation under this section.
+If the Center determines, on the basis of information available to it during any fiscal year, that a portion of the funds provided to a participating party for that fiscal year will not be required by the party or will become available by virtue of the application of regulations established by the Center to govern noncompliance by a participating party, that portion shall be available for reallocation under this section.
 
 #### (c) Establishment of criteria for determination of noncompliance
 

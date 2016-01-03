@@ -6,7 +6,7 @@ The Director may impose a civil money penalty, in accordance with the provisions
 
 &emsp;(1) submit a report under section 4547 <sup>1</sup> of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
 
-&emsp;(2) submit the information required under subsection (m) or (n) of section 1723a of thistitle or subsection (e) or (f) of section 1456 of this title;
+&emsp;(2) submit the information required under subsection (m) or (n) of section 1723a of this title or subsection (e) or (f) of section 1456 of this title;
 
 &emsp;(3) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, submit a housing plan or perform its responsibilities under a remedial order issued pursuant to section 4566(c) of this title within the required period; or
 

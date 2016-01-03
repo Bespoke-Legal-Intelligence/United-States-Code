@@ -234,7 +234,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) an insurance company that is regulated by a State, or that is regulated by a foreign government and is subject to comparable regulation as determined by the Commission, including a regulated subsidiary or affiliate of such an insurance company;
 
-&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investor in the investment company or the foreign person is itself an eligible contract participant);
+&emsp;&emsp;&emsp;(iii) an investment company subject to regulation under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) or a foreign person performing a similar role or function subject as such to foreign regulation (regardless of whether each investorin the investment company or the foreign person is itself an eligible contract participant);
 
 &emsp;&emsp;&emsp;(iv) a commodity pool that—
 
@@ -290,7 +290,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) $10,000,000; or
 
-&emsp;&emsp;&emsp;&emsp;(II) $5,000,000 and who enters into the agreement, contract, or transaction inorder to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred, by the individual;
+&emsp;&emsp;&emsp;&emsp;(II) $5,000,000 and who enters into the agreement, contract, or transaction in order to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred, by the individual;
 
 &emsp;&emsp;(B)(i) a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A) or in subparagraph (C), acting as broker or performing an equivalent agency function on behalf of another person described in subparagraph (A) or (C); or
 
@@ -378,7 +378,7 @@ As used in this chapter:
 
 #### (B) Further definition
 
-&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "floor trader" any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades solely for such person's own account if theCommission determines that the rule or regulation will effectuate the purposes of this chapter.
+&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, theterm "floor trader" any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades solely for such person's own account if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
 
 #### (24) Foreign exchange forward
 
@@ -610,7 +610,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(v) any bank holding company (as defined in section 2 of the Bank Holding Company Act of 1965 <sup>4</sup> (12 U.S.C. 1841)), any foreign bank (as defined in section 3101(7) of title 12) that is treated as a bank holding company under section 3106(a) of title 12, and any subsidiary of such a company or foreign bank (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered with the Commission as a swap dealer or major swap participant under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant);
 
-&emsp;&emsp;&emsp;(vi) after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5411\]), any savings and loan holding company (as defined in section 1467a of title 12) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
+&emsp;&emsp;&emsp;(vi) after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12U.S.C. 5411\]), any savings and loan holding company (as defined in section 1467a of title 12) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this chapter or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
 
 &emsp;&emsp;&emsp;(vii) any organization operating under section 25A of the Federal Reserve Act (12 U.S.C. 611 et seq.) or having an agreement with the Board under section 25 of the Federal Reserve Act (12 U.S.C. 601 et seq.);
 
@@ -682,7 +682,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) that provides for any purchase, sale, payment, or delivery (other than a dividend on an equity security) that is dependent on the occurrence, nonoccurrence, or the extent of the occurrence of an event or contingency associated with a potential financial, economic, or commercial consequence;
 
-&emsp;&emsp;&emsp;(iii) that provides on an executory basis for the exchange, on a fixed or contingent basis, of 1 or more payments based on the value or level of 1 or more interest or other rates, currencies, commodities, securities, instruments of indebtedness, indices, quantitative measures, or other financial or economic interests or property of any kind, or any interest therein or based on the value thereof, and that transfers, as between the parties to the transaction, in whole or in part, the financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset (including any enterprise or investment pool) or liability that incorporates the financial risk sotransferred, including any agreement, contract, or transaction commonly known as—
+&emsp;&emsp;&emsp;(iii) that provides on an executory basis for the exchange, on a fixed or contingent basis, of 1 or more payments based on the value or level of 1 or more interest or other rates, currencies, commodities, securities, instruments of indebtedness, indices, quantitative measures, or other financial or economic interests or property of any kind, or any interest therein or basedon the value thereof, and that transfers, as between the parties to the transaction, in whole or in part, the financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in an asset (including any enterprise or investment pool) or liability that incorporates the financial risk so transferred, including any agreement, contract, or transaction commonly known as—
 
 &emsp;&emsp;&emsp;&emsp;(I) an interest rate swap;
 
@@ -964,7 +964,7 @@ Par. (28). Pub. L. 111–203, §721(a)(13), added par. (28) and struck out forme
 
 Par. (30)(B). Pub. L. 111–203, §721(a)(14), substituted "State" for "state".
 
-Par. (31). Pub. L. 111–203, §721(a)(15), added par. (31) and struck out former par. (31). Prior to amendment, text read as follows: "The term 'introducing broker' means any person (except an individual who elects tobe and is registered as an associated person of a futures commission merchant) engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility who does not accept any money, securities, or property (or extend credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom."
+Par. (31). Pub. L. 111–203, §721(a)(15), added par. (31) and struck out former par. (31). Prior to amendment, text read as follows: "The term 'introducing broker' means any person (except an individual who elects to be and is registered as an associated person of a futures commission merchant) engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility who does not accept any money, securities, or property (or extend credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom."
 
 Pars. (32), (33). Pub. L. 111–203, §721(a)(16), added pars. (32) and (33). Former pars. (32) and (33) redesignated (45) and (46), respectively.
 
@@ -1058,7 +1058,7 @@ Amendment by sections 13201(a) and 13203(a), (b) of Pub. L. 110–246 effective 
 
 #### Effective Date
 
-Pub. L. 102–546, title IV, §403, Oct. 28, 1992, 106 Stat. 3625, provided that: "Except as otherwise specifically provided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16,18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\]."
+Pub. L. 102–546, title IV, §403, Oct. 28, 1992, 106 Stat. 3625, provided that: "Except as otherwise specificallyprovided in this Act \[enacting this section and section 12e of this title, amending sections 2, 2a, 4, 4a, 6 to 6c, 6e to 6g, 6j, 6p, 7 to 9a, 10a, 12, 12a, 12c, 13 to 13c, 15, 16, 18, 19, 21, and 25 of this title, repealing section 26 of this title, enacting provisions set out as notes under sections 1a, 4a, 6c, 6e, 6j, 6p, 7a, 13, 16a, 21, and 22 of this title, and repealing provisions set out as a note under section 4a of this title\], this Act and the amendments made by this Act shall become effective on the date of enactment of this Act \[Oct. 28, 1992\]."
 
 #### Other Authority
 

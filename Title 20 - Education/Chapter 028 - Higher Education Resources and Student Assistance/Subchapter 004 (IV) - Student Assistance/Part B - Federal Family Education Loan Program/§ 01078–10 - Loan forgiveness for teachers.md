@@ -12,7 +12,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;&emsp;(A) in a school or location that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools or locations; and
 
-&emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title,<sup>1</sup> or meets the requirements of subsection (g)(3); and
+&emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 9101 <sup>1</sup> of the Elementary Secondary <sup>2</sup> Education Act of 1965 \[20 U.S.C. 7801\], or meets the requirements of subsection (g)(3); and
 
 &emsp;(2) is not in default on a loan for which the borrower seeks forgiveness.
 
@@ -28,7 +28,7 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 #### (3) Additional amounts for teachers in mathematics, science, or special education
 
-&emsp;Notwithstanding the amount specified in paragraph (1), the aggregate amount that theSecretary shall repay under this section shall be not more than $17,500 in the case of—
+&emsp;Notwithstanding the amount specified in paragraph (1), the aggregate amount that the Secretary shall repay under this section shall be not more than $17,500 in the case of—
 
 &emsp;&emsp;(A) a secondary school teacher—
 
@@ -80,7 +80,7 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 #### (3) Private school teachers
 
-&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 7801 of this title, and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
+&emsp;An individual who is employed as a teacher in a private school and is exempt from State certification requirements (unless otherwise applicable under State law), may, in lieu of the requirement of subsection (b)(1)(B), have such employment treated as qualifying employment under this section if such individual is permitted to and does satisfy rigorous subject knowledge and skills tests by taking competency tests in the applicable grade levels and subject areas. For such purposes, the competency tests taken by such a private school teacher shall be recognized by 5 or more States for the purpose of fulfilling the highly qualified teacher requirements under section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\], and the score achieved by such teacher on each test shall equal or exceed the average passing score of those 5 States.
 
 #### (h) "Year" defined
 
@@ -90,7 +90,7 @@ For purposes of this section, the term "year", where applied to service as a tea
 
 #### References in Text
 
-Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original "section 9101 of the Elementary Secondary Education Act of 1965", which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B) and (g)(3), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -108,7 +108,7 @@ Subsec. (c)(3)(B)(iii). Pub. L. 110–315, §429(3), inserted "or, in the case o
 
 Subsec. (g)(2). Pub. L. 110–315, §429(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "No borrower may, for the same service, receive a benefit under both this subsection and subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.)."
 
-<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted ", or meets the requirements of subsection (g)(3)" after "section 7801 of this title".
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–171, §8013(e)(1)(A), inserted ", or meets the requirements of subsection (g)(3)" before "; and".
 
 Subsec. (g)(3). Pub. L. 109–171, §8013(e)(1)(B), added par. (3).
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 2004 Amendment; Transition Rule
 
@@ -178,9 +178,11 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 Pub. L. 108–409, §3(c), Oct. 30, 2004, 118 Stat. 2302, provided that: "The Secretary shall—
 
-&emsp;"(1) notify local educational agencies eligible to participate in the Small Rural Achievement Program authorized under subpart 1 of part B of title VI of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7345 et seq.\] of the benefits available under the amendments made by this section \[amending this section and section 1087j of this title\]; and
+&emsp;"(1) notify local educational agencies eligible to participate in the Small Rural Achievement Program authorized under subpart 1 of part B of title VI \[now V\] of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7345 et seq.\] of the benefits available under the amendments made by this section \[amending this section and section 1087j of this title\]; and
 
 &emsp;"(2) encourage such agencies to notify their teachers of such benefits."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "and".</i>
 

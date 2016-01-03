@@ -22,7 +22,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 #### (2) Conduct of environmental review
 
-&emsp;If a payment is requested under paragraph (1) and the resource advisory committeeagrees to the expenditure of funds for this purpose, the Secretary concerned shall conduct environmental review, consultation, or other compliance responsibilities in accordance with Federal laws (including regulations).
+&emsp;If a payment is requested under paragraph (1) and the resource advisory committee agrees to the expenditure of funds for this purpose, the Secretary concerned shall conduct environmental review, consultation, or other compliance responsibilities in accordance with Federal laws (including regulations).
 
 #### (3) Effect of refusal to pay
 
@@ -102,7 +102,7 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 &emsp;&emsp;&emsp;(ii) For fiscal year 2009, 45 percent.
 
-&emsp;&emsp;&emsp;(iii) For each of fiscal years 2010 through 2013, 50 percent.
+&emsp;&emsp;&emsp;(iii) For fiscal year 2010 and fiscal years thereafter, 50 percent.
 
 #### (C) Inclusion in pilot program
 
@@ -136,13 +136,15 @@ The Secretary shall ensure that at least 50 percent of all project funds be used
 
 &emsp;(2) to restoration of streams and watersheds.
 
-(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545.)
+(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(2), Apr. 16, 2015, 129 Stat. 180.)
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(3)(B)(iii). Pub. L. 114–10 substituted "fiscal year 2010 and fiscal years thereafter" for "each of fiscal years 2010 through 2013".
 
 <b>2013</b>—Subsec. (e)(3)(B)(iii). Pub. L. 113–40 substituted "2013" for "2012".
 

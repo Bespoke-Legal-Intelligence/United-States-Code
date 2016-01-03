@@ -16,7 +16,7 @@ If the property was acquired, after February 28, 1913, in a transaction to which
 
 #### References in Text
 
-Revenue Act of 1932, referred to in section catchline and subsec. (a), is act June 6, 1932, ch. 209, 47 Stat. 169. For complete classification of the Act to the Code, see Tables.
+Revenue Act of 1932, referred to in section catchline and subsec. (a), is act June 6, 1932, ch. 209, 47 Stat. 169.For complete classification of the Act to the Code, see Tables.
 
 Revenue Act of 1934, referred to in section catchline and subsec. (b), is act May 10, 1934, ch. 277, 48 Stat. 680. For complete classification of this Act to the Code, see Tables.
 

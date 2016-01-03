@@ -98,7 +98,7 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 &emsp;&emsp;(D) to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latest developments in food and nutrition science, and in coordination with other international partners;
 
-&emsp;&emsp;(E) to develop new program guidance to facilitate improved matching of products topurposes having nutritional intent, in coordination with other international partners;
+&emsp;&emsp;(E) to develop new program guidance to facilitate improved matching of products to purposes having nutritional intent, in coordination with other international partners;
 
 &emsp;&emsp;(F) to develop improved guidance for implementing partners on how to address nutritional deficiencies that emerge among recipients for whom food assistance is the sole source of diet in emergency programs that extend beyond 1 year, in coordination with other international partners; and
 
@@ -154,7 +154,7 @@ Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted "not less than 5 perce
 
 Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administratormay provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
 
 Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives" in heading.
 
@@ -170,7 +170,7 @@ Subsec. (e)(2). Pub. L. 104–127, §207(a)(2)(C), added par. (2) and struck out
 
 Subsec. (e)(3). Pub. L. 104–127, §207(a)(2)(D), substituted "an eligible organization, the Administrator may provide assistance to the eligible organization" for "a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for communityand other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
 Subsec. (e)(1). Pub. L. 101–508, in introductory provisions, substituted "the Administrator, not less than $10,000,000, and not more than $13,500,000, shall be made available in each fiscal year to private voluntary organizations and cooperatives" for "private voluntary organizations and cooperatives, not less than $10,000,000 and not more than $13,500,000 shall be made available by the Administrator".
 

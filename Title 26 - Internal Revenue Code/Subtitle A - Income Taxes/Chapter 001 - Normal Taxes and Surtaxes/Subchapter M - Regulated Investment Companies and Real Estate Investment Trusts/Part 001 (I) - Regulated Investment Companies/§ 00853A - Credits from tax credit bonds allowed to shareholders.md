@@ -32,7 +32,7 @@ If the election provided in subsection (a) is in effect with respect to any cred
 
 #### (c) Statements <sup>1</sup> to shareholders
 
-The amount treated as a distribution of money received by a shareholder under subsection\(b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
+The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
 #### (d) Manner of making election
 
@@ -74,7 +74,7 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to some or all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
+<b>2014</b>—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to someor all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
 
 Subsec. (a)(2). Pub. L. 113–295, §209(h)(1), inserted "(determined after the application of this section)" before comma at end.
 

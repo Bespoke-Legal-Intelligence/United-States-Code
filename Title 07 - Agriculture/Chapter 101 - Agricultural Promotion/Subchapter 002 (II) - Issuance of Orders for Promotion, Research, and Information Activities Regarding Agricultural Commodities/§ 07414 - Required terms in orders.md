@@ -34,7 +34,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 &emsp;&emsp;(A) review the geographical distribution in the United States of the production of the agricultural commodity covered by the order involved and the quantity or value of the agricultural commodity imported into the United States; and
 
-&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the board membership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
+&emsp;&emsp;(B) if warranted, recommend to the Secretary the reapportionment of the boardmembership to reflect changes in the geographical distribution of the production of the agricultural commodity and the quantity or value of the imported agricultural commodity.
 
 #### (4) Notice
 
@@ -50,7 +50,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (A) In general
 
-&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years,except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
+&emsp;&emsp;The members and any alternates of a board shall each serve for a term of 3 years, except that the members and any alternates initially appointed to a board shall serve for terms of not more than 2, 3, and 4 years, as specified by the order.
 
 #### (B) Limitation on consecutive terms
 
@@ -134,7 +134,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (4) Payment of expenses
 
-&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collectedunder section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
+&emsp;Expenses incurred under paragraph (3) shall be paid by a board using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board. Any funds borrowed by the board shall be expended only for startup costs and capital outlays.
 
 #### (5) Limitation on spending
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

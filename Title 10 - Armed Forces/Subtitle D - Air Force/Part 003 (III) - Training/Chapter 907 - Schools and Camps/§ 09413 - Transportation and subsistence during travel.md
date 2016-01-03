@@ -10,7 +10,7 @@
 
 (b) The travel allowance for the return trip may be paid in advance.
 
-(c) For the purposes of this section, distance is computed by the shortest usually traveled route, within such territorial limits as the Secretary of the Air Force may prescribe, from theauthorized starting point to the school or camp and return.
+(c) For the purposes of this section, distance is computed by the shortest usually traveled route, within such territorial limits as the Secretary of the Air Force may prescribe, from the authorized starting point to the school or camp and return.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 572.)
 

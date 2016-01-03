@@ -6,7 +6,7 @@
 
 (c) The enlisted men and officers of the uniformed services may be appointed and compensated for service in temporary enumerator positions for the enumeration of personnel of the uniformed services.
 
-(d) The Secretary may fix compensation on a piece-price basis without limitation as to the amount earned per diem, and payments may be made to enumerators for the use of private automobiles on official business without regard to section 4 of the Travel Expense Act of 1949, asamended (5 U.S.C. 837), but at rates not in excess of the rates provided by that Act.
+(d) The Secretary may fix compensation on a piece-price basis without limitation as to the amount earned per diem, and payments may be made to enumerators for the use of private automobiles on official business without regard to section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), but at rates not in excess of the rates provided by that Act.
 
 (e) The Secretary may authorize the expenditure of necessary sums for travel expenses of persons selected for appointment for attendance at training courses held by the Department of Commerce with respect to any of the work provided for by law.
 

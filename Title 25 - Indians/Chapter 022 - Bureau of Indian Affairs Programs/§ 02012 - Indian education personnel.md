@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
+Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p)).
 
 #### (b) Regulations
 
@@ -28,7 +28,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;(10) the annual leave and sick leave for educators;
 
-&emsp;(11) the length of the school year applicable to education positions described in subsection (a) of this section; and
+&emsp;(11) the length of the school year applicable to education positions described in subsection (a); and
 
 &emsp;(12) such additional matters as may be appropriate.
 
@@ -40,7 +40,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the national level and have indicated in such application an interest in working in certain areas or agencies;
 
-&emsp;&emsp;(B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
+&emsp;&emsp;(B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2), in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2), a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
 &emsp;&emsp;(C) that <sup>1</sup> it shall not be a prerequisite to the employment of an individual in an education position at the local level that—
 
@@ -60,7 +60,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(A)(i)(I) that educators employed in a Bureau school (other than the supervisor of the school) shall be hired by the supervisor of the school; and
 
-&emsp;&emsp;(II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A) of this section;
+&emsp;&emsp;(II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A);
 
 &emsp;&emsp;(ii) each supervisor of a Bureau school shall be hired by the education line officer of the agency office of the Bureau for the jurisdiction in which the school is located;
 
@@ -70,7 +70,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;(B)(i) before an individual is employed in an education position in a Bureau school by the supervisor of the school (or, with respect to the position of supervisor, by the appropriate agency education line officer), the local school board for the school shall be consulted; and
 
-&emsp;&emsp;(ii) that a determination by such school board, as evidenced by school board records, that such individual should or should not beso employed shall be instituted by the supervisor (or with respect to the position of supervisor, by the superintendent for education of the agency office);
+&emsp;&emsp;(ii) that a determination by such school board, as evidenced by school board records, that such individual should or should not be so employed shall be instituted by the supervisor (or with respect to the position of supervisor, by the superintendent for education of the agency office);
 
 &emsp;&emsp;(C)(i) before an individual is employed in an education position in an agency or area office of the Bureau, the appropriate agency school board shall be consulted; and
 
@@ -90,11 +90,11 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (C) False statements
 
-&emsp;&emsp;Notwithstanding subsection (e) of this section, if the individual's statement is found to have been false, such individual, at the Secretary's discretion, may be disciplined or discharged.
+&emsp;&emsp;Notwithstanding subsection (e), if the individual's statement is found to have been false, such individual, at the Secretary's discretion, may be disciplined or discharged.
 
 #### (D) Conditional appointment for national provision
 
-&emsp;&emsp;If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> of this section to the position to which such individual was appointed.
+&emsp;&emsp;If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) <sup>2</sup> to the position to which such individual was appointed.
 
 #### (3) Statutory construction
 
@@ -146,7 +146,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (B) Action by board
 
-&emsp;&emsp;A copy of such statement shall be submitted to the agency school board and suchboard shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;A copy of such statement shall be submitted to the agency school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (C) Overturning of determination
 
@@ -242,7 +242,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;&emsp;(i) the recognized governing body of any Indian tribe, band, nation, pueblo, or other organized community, including a Native village (as defined in section 1602(c) of title 43); or
 
-&emsp;&emsp;&emsp;(ii) in connection with any personnel action referred to in this subsection, any local school board to which the governing body has delegated the authority to granta waiver under this subsection with respect to a personnel action.
+&emsp;&emsp;&emsp;(ii) in connection with any personnel action referred to in this subsection, any local school board to which the governing body has delegated the authority to grant a waiver under this subsection with respect to a personnel action.
 
 #### (g) Compensation or annual salary
 
@@ -252,7 +252,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;Except as otherwise provided in this section, the Secretary shall establish the compensation or annual salary rate for educators and education positions—
 
-&emsp;&emsp;&emsp;(i) at rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 is applicable; or
+&emsp;&emsp;&emsp;(i) at rates in effect under the General Schedule for individuals with comparablequalifications, and holding comparable positions, to whom chapter 51 of title 5 is applicable; or
 
 &emsp;&emsp;&emsp;(ii) on the basis of the Federal Wage System schedule in effect for the locality involved, and for the comparable positions, at the rates of compensation in effect for the senior executive service.
 
@@ -310,7 +310,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Secretary shall disapprove, or approve with a modification, a request for authorization to provide a post differential rate if the Secretary determines for clear and convincing reasons (and advises the board in writing of those reasons) that therate should be disapproved or decreased because the disparity of compensation between the appropriate educators or positions in the Bureau school, and the comparable educators or positions at the nearest public school, is—
+&emsp;&emsp;&emsp;The Secretary shall disapprove, or approve with a modification, a request for authorization to provide a post differential rate if the Secretary determines for clear and convincing reasons (and advises the board in writing of those reasons) that the rate should be disapproved or decreased because the disparity of compensation between the appropriate educators or positions in the Bureau school, and the comparable educators or positions at the nearest public school, is—
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 5 percent; or
 
@@ -320,7 +320,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iii) Approval of requests
 
-&emsp;&emsp;&emsp;A request made under clause (i) shall be considered to be approved at the end of the 60th day after the request is received in the Central Office of the Bureau unless before that time the request is approved, approved with a modification, or disapproved by the Secretary.
+&emsp;&emsp;&emsp;A request made under clause (i) shall be considered to be approved at the end of the60th day after the request is received in the Central Office of the Bureau unless before that time the request is approved, approved with a modification, or disapproved by the Secretary.
 
 #### (iv) Discontinuation of or decrease in rates
 
@@ -336,11 +336,11 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (h) Liquidation of remaining leave upon termination
 
-Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) of this section shall not be so liquidated.
+Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) shall not be so liquidated.
 
 #### (i) Transfer of remaining sick leave upon transfer, promotion, or reemployment
 
-In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person's credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 #### (j) Ineligibility for employment of voluntarily terminated educators
 
@@ -348,7 +348,7 @@ An educator who voluntarily terminates employment with the Bureau before the exp
 
 #### (k) Dual compensation
 
-In the case of any educator employed in an education position described in subsection (l)(1)(A) <sup>4</sup> of this section who—
+In the case of any educator employed in an education position described in subsection (l)(1)(A) <sup>4</sup> who—
 
 &emsp;(1) is employed at the close of a school year;
 
@@ -402,7 +402,7 @@ In the case of any educator employed in an education position described in subse
 
 #### (5) Definitions
 
-&emsp;For purposes of this subsection, the terms "educator" and "education position" have the meanings contained in paragraphs (1) and (2) of subsection (o) of this section.
+&emsp;For purposes of this subsection, the terms "educator" and "education position" have themeanings contained in paragraphs (1) and (2) of subsection (o).
 
 #### (n) Extracurricular activities
 
@@ -512,11 +512,11 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 St
 
 <i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Subsec. (c)(1)(A) of this section does not contain clauses.</i>
+<i><sup>2</sup></i><i> So in original. Subsec. (c)(1)(A) does not contain clauses.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Subsec. (l)(1) of this section does not contain subpars.</i>
+<i><sup>4</sup></i><i> So in original. Subsec. (l)(1) does not contain subpars.</i>
 
 <i><sup>5</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
 

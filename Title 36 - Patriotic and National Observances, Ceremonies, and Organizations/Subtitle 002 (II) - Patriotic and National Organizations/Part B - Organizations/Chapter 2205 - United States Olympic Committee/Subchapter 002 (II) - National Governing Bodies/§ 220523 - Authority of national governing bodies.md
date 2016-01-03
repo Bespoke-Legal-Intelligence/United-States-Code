@@ -14,7 +14,7 @@ Authority.—For the sport that it governs, a national governing body may—
 
 &emsp;(5) conduct amateur athletic competition, including national championships, and international amateur athletic competition in the United States, and establish procedures for determining eligibility standards for participation in competition, except for amateur athletic competition specified in section 220526 of this title;
 
-&emsp;(6) recommend to the corporation individuals and teams to represent the United Statesin the Olympic Games, the Paralympic Games, and the Pan-American Games; and
+&emsp;(6) recommend to the corporation individuals and teams to represent the United States in the Olympic Games, the Paralympic Games, and the Pan-American Games; and
 
 &emsp;(7) designate individuals and teams to represent the United States in international amateur athletic competition (other than the Olympic Games, the Paralympic Games, and the Pan-American Games) and certify, in accordance with applicable international rules, the amateur eligibility of those individuals and teams.
 

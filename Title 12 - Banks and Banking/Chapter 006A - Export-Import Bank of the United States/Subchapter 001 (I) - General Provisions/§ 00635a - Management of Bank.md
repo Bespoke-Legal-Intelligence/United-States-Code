@@ -32,7 +32,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;(iii) of the directors first appointed to serve beginning on or after January 21, 1985, two directors (other than the President and First Vice President of the Bank) shall be appointed for terms of two years, as designated by the President of the United States at the time of their appointment; and
 
-&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had beenpreceded by a director whose term had begun on January 21, 1985.
+&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
 
 (B) Of the five members of the Board appointed by the President, not less than one such member shall be selected from among the small business community and shall represent the interests of small business.
 
@@ -152,7 +152,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (2) Management
 
-&emsp;The President of the Bank shall appoint an officer, who shall rank not lower than senior vice president and whose sole executive function shall be to manage the Division. The officer shall—
+&emsp;The President of the Bank shall appoint an officer, who shall rank not lower than seniorvice president and whose sole executive function shall be to manage the Division. The officer shall—
 
 &emsp;&emsp;(A) have substantial recent experience in financing exports by small business concerns; and
 
@@ -170,7 +170,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (3) Approval authority
 
-&emsp;In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $10,000,000.
+&emsp;In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $25,000,000.
 
 #### (4) Identification
 
@@ -222,7 +222,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (A) Chairperson
 
-&emsp;&emsp;The Chairperson of the Small Business Committee shall be the officer appointed to manage the Small Business Division pursuant to subsection (f)(2). The Chairperson shall have the authority to call meetings of the Small Business Committee, set the agenda for Committee meetings, and request policy recommendations from the Committee's members.
+&emsp;&emsp;The Chairperson of the Small Business Committee shall be the officer appointed tomanage the Small Business Division pursuant to subsection (f)(2). The Chairperson shall have the authority to call meetings of the Small Business Committee, set the agenda for Committee meetings, and request policy recommendations from the Committee's members.
 
 #### (B) Other members
 
@@ -240,7 +240,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Establishment
 
-&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially andeconomically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
+&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
 
 #### (2) Management
 
@@ -254,7 +254,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2012, 2013, and 2014 to—
+&emsp;Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2015 through 2019 to—
 
 &emsp;&emsp;(A) seek to remedy any of the operational weakness and risk management vulnerabilities of the Bank which are the result of the information technology system of the Bank;
 
@@ -270,29 +270,151 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;&emsp;(B) the sum of—
 
-&emsp;&emsp;&emsp;(I) <sup>1</sup> the funds set aside to cover expected losses on transactions financed by the Bank; and
+&emsp;&emsp;&emsp;(i) the funds set aside to cover expected losses on transactions financed by the Bank; and
 
 &emsp;&emsp;&emsp;(ii) the costs incurred to cover the administrative expenses of the Bank.
 
 #### (3) Limitation
 
-&emsp;The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000.
+&emsp;The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2015 through 2019 shall not exceed $20,000,000.
 
 #### (4) Subject to appropriations
 
 &emsp;The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362.)
+#### (k) Office of Ethics
+
+#### (1) Establishment
+
+&emsp;There is established an Office of Ethics within the Bank, which shall oversee all ethics issues within the Bank.
+
+#### (2) Head of office
+
+#### (A) In general
+
+&emsp;&emsp;The head of the Office of Ethics shall be the Chief Ethics Officer, who shall report to the Board of Directors.
+
+#### (B) Appointment
+
+&emsp;&emsp;Not later than 180 days after December 4, 2015, the Chief Ethics Officer shall be—
+
+&emsp;&emsp;&emsp;(i) appointed by the President of the Bank from among persons—
+
+&emsp;&emsp;&emsp;&emsp;(I) with a background in law who have experience in the fields of law and ethics; and
+
+&emsp;&emsp;&emsp;&emsp;(II) who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Ethics Officer; and
+
+&emsp;&emsp;&emsp;(ii) approved by the Board.
+
+#### (C) Designated agency ethics official
+
+&emsp;&emsp;The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+
+#### (3) Duties
+
+&emsp;The Office of Ethics has jurisdiction over all employees of, and ethics matters relating to, the Bank. With respect to employees of the Bank, the Office of Ethics shall—
+
+&emsp;&emsp;(A) recommend administrative actions to establish or enforce standards of official conduct;
+
+&emsp;&emsp;(B) refer to the Office of the Inspector General of the Bank alleged violations of—
+
+&emsp;&emsp;&emsp;(i) the standards of ethical conduct applicable to employees of the Bank under parts 2635 and 6201 of title 5, Code of Federal Regulations;
+
+&emsp;&emsp;&emsp;(ii) the standards of ethical conduct established by the Chief Ethics Officer; and
+
+&emsp;&emsp;&emsp;(iii) any other laws, rules, or regulations governing the performance of official duties or the discharge of official responsibilities that are applicable to employees of the Bank;
+
+&emsp;&emsp;(C) report to appropriate Federal or State authorities substantial evidence of a violation of any law applicable to the performance of official duties that may have been disclosed to the Office of Ethics; and
+
+&emsp;&emsp;(D) render advisory opinions regarding the propriety of any current or proposed conduct of an employee or contractor of the Bank, and issue general guidance on such matters as necessary.
+
+#### (l) Chief Risk Officer
+
+#### (1) In general
+
+&emsp;There shall be a Chief Risk Officer of the Bank, who shall—
+
+&emsp;&emsp;(A) oversee all issues relating to risk within the Bank; and
+
+&emsp;&emsp;(B) report to the President of the Bank.
+
+#### (2) Appointment
+
+&emsp;Not later than 180 days after December 4, 2015, the Chief Risk Officer shall be—
+
+&emsp;&emsp;(A) appointed by the President of the Bank from among persons—
+
+&emsp;&emsp;&emsp;(i) with a demonstrated ability in the general management of, and knowledge of and extensive practical experience in, financial risk evaluation practices in large governmental or business entities; and
+
+&emsp;&emsp;&emsp;(ii) who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Risk Officer; and
+
+&emsp;&emsp;(B) approved by the Board.
+
+#### (3) Duties
+
+&emsp;The duties of the Chief Risk Officer are—
+
+&emsp;&emsp;(A) to be responsible for all matters related to managing and mitigating all risk to which the Bank is exposed, including the programs and operations of the Bank;
+
+&emsp;&emsp;(B) to establish policies and processes for risk oversight, the monitoring of management compliance with risk limits, and the management of risk exposures and risk controls across the Bank;
+
+&emsp;&emsp;(C) to be responsible for the planning and execution of all Bank risk management activities, including policies, reporting, and systems to achieve strategic risk objectives;
+
+&emsp;&emsp;(D) to develop an integrated risk management program that includes identifying, prioritizing, measuring, monitoring, and managing internal control and operating risks and other identified risks;
+
+&emsp;&emsp;(E) to ensure that the process for risk assessment and underwriting for individual transactions considers how each such transaction considers the effect of the transaction on the concentration of exposure in the overall portfolio of the Bank, taking into account fees, collateralization, and historic default rates; and
+
+&emsp;&emsp;(F) to review the adequacy of the use by the Bank of qualitative metrics to assess the risk of default under various scenarios.
+
+#### (m) Risk Management Committee
+
+#### (1) Establishment
+
+&emsp;There is established a management committee to be known as the "Risk Management Committee".
+
+#### (2) Membership
+
+&emsp;The membership of the Risk Management Committee shall be the members of the Board of Directors, with the President and First Vice President of the Bank serving as ex officio members.
+
+#### (3) Duties
+
+&emsp;The duties of the Risk Management Committee shall be—
+
+&emsp;&emsp;(A) to oversee, in conjunction with the Office of the Chief Financial Officer of the Bank—
+
+&emsp;&emsp;&emsp;(i) periodic stress testing on the entire Bank portfolio, reflecting different market, industry, and macroeconomic scenarios, and consistent with common practices of commercial and multilateral development banks; and
+
+&emsp;&emsp;&emsp;(ii) the monitoring of industry, geographic, and obligor exposure levels; and
+
+&emsp;&emsp;(B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
+
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769.)
 
 #### References in Text
 
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to section 1905 of Title 18, Crimes and Criminal Procedure.
 
+The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
 #### Codification
 
-Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
+Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members ofthe Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g)(3). Pub. L. 114–94, §54002(c), substituted "$25,000,000" for "$10,000,000".
+
+Subsec. (j)(1). Pub. L. 114–94, §53002(1), substituted "2015 through 2019" for "2012, 2013, and 2014" in introductory provisions.
+
+Subsec. (j)(2)(B). Pub. L. 114–94, §53002(2), substituted "(i) the funds" for "(I) the funds".
+
+Subsec. (j)(3). Pub. L. 114–94, §53002(3), substituted "2015 through 2019" for "2012, 2013, and 2014".
+
+Subsec. (k). Pub. L. 114–94, §51004, added subsec. (k).
+
+Subsec. (l). Pub. L. 114–94, §51005, added subsec. (l).
+
+Subsec. (m). Pub. L. 114–94, §51006(a), added subsec. (m).
 
 <b>2012</b>—Subsec. (c)(10). Pub. L. 112–122, §9(a), added par. (10).
 
@@ -334,9 +456,13 @@ Subsec. (e). Pub. L. 98–181, §620(b), substituted "such individual's" for "hi
 
 <b>1968</b>—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
-Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise inthe regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
+Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 <b>1954</b>—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by section 54002(c) of Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
 
 #### Effective Date of 2012 Amendment
 
@@ -347,6 +473,10 @@ Amendment by sections 19–20(b)(1) of Pub. L. 112–122 effective May 30, 2012,
 #### Effective Date of 1954 Amendment
 
 Act Aug. 9, 1954, ch. 660, §4, 68 Stat. 678, provided that: "The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\]."
+
+#### Termination of Audit Committee
+
+Pub. L. 114–94, div. E, title LI, §51006(b), Dec. 4, 2015, 129 Stat. 1766, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws."
 
 #### Untied Aid
 
@@ -362,15 +492,13 @@ Report to the congress.—Within 1 year after the date of the enactment of this 
 
 #### Board of Directors; Exception to Quorum Requirement
 
-Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat.509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
 
 #### Compensation of Employees
 
 Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
-"(a)
-
-In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code.
+"\[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.\]
 
 "(b)
 
@@ -468,7 +596,7 @@ There is hereby established the office of Deputy Director of the Export-Import B
 
 #### Sec. 3. Assistant Director
 
-There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
+There is hereby established the office of Assistant Director of the Export-Import Bank of Washington. The Assistant Director shall be appointed by the Managing Director under the classified civil service, shall receive compensation at the rate now or hereafter fixed by lawfor grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5\], and shall perform such functions as the Managing Director may from time to time prescribe.
 
 #### Sec. 4. Functions Transferred to the Managing Director
 
@@ -495,6 +623,4 @@ Sections 3 to 7, inclusive, of this reorganization plan shall become effective w
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 
 For provisions directing that the United States Trade Representative and the Secretary of Commerce serve, ex officio and without vote, as additional members of the Board of Directors of the Export-Import Bank of the United States, see section 3 of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(i)".</i>
 

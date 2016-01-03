@@ -36,7 +36,7 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 &emsp;(3) coordinate the grant, research and planning programs authorized under this section;
 
-&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs establishedpursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
+&emsp;(4) coordinate activities and implementation responsibilities with other Federal agencies which have jurisdiction over Long Island Sound and with national and regional marine monitoring and research programs established pursuant to the Marine Protection, Research, and Sanctuaries Act \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
 &emsp;(5) provide administrative and technical support to the conference;
 
@@ -264,7 +264,7 @@ Identification.—The Advisory Committee shall review each application submitted
 
 &emsp;"(3)
 
-Natural resource-based recreation areas.—In reviewing an application for recommendation of a recreation area for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—
+Natural resource-based recreation areas.—In reviewing an application for recommendation of a recreation area for designation as a stewardship site,the Advisory Committee may use a selection technique that includes consideration of—
 
 &emsp;&emsp;"(A) public access;
 
@@ -456,7 +456,7 @@ In general.—The Advisory Committee shall use an adaptive management framework 
 
 &emsp;"(2)
 
-Application of adaptive management framework.—The Advisory Committee shall apply the adaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites.
+Application of adaptive management framework.—The Advisory Committee shall apply theadaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites.
 
 &emsp;"(3)
 

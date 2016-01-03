@@ -56,7 +56,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or aState, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) "civil aircraft" means an aircraft except a public aircraft.
 
@@ -84,7 +84,7 @@ General Definitions.—In this part—
 
 &emsp;(21) "foreign air carrier" means a person, not a citizen of the United States, undertaking by any means, directly or indirectly, to provide foreign air transportation.
 
-&emsp;(22) "foreign air commerce" means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation, between a place in the United States and a place outside the United States when any part of the transportation or operation is by aircraft.
+&emsp;(22) "foreign air commerce" means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraftin furthering a business or vocation, between a place in the United States and a place outside the United States when any part of the transportation or operation is by aircraft.
 
 &emsp;(23) "foreign air transportation" means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
 
@@ -440,7 +440,7 @@ In subsection (a)(36), the text of 49 App.:1301(34) (1st sentence) is omitted as
 
 Subsection (a)(37)(A)(i) is substituted for "used exclusively in the service of any government" and "For purposes of this paragraph, 'used exclusively in the service of' means, for other than the Federal Government" for clarity and to eliminate unnecessary words.
 
-Subsection (a)(37)(A)(ii) is substituted for "used exclusively in the service of any government or of any political subdivision thereof, including the government of any State, Territory, or possession of the United States, or the District of Columbia" and "For purposes of this paragraph, 'used exclusively in the service of' means, for other than the Federal Government, an aircraft which is owned and operated by a governmental entity for other than commercial purposes or which is exclusively leased by such governmental entity for not less than 90 continuous days" for clarity and to eliminate unnecessary words.
+Subsection (a)(37)(A)(ii) is substituted for "used exclusively in the service of any government or of any political subdivision thereof, including the government of any State, Territory, or possession of the United States, or the District of Columbia" and "For purposesof this paragraph, 'used exclusively in the service of' means, for other than the Federal Government, an aircraft which is owned and operated by a governmental entity for other than commercial purposes or which is exclusively leased by such governmental entity for not less than 90 continuous days" for clarity and to eliminate unnecessary words.
 
 In subsection (a)(37)(B), the words "transporting passengers or property" are substituted for "engaged in carrying persons or property" for consistency in the revised title.
 

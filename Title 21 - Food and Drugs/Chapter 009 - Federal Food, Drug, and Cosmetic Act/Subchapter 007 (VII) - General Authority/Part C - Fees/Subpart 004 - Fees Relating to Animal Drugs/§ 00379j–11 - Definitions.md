@@ -12,7 +12,7 @@ For purposes of this subpart:
 
 &emsp;(3) The term "animal drug product" means each specific strength or potency of a particular active ingredient or ingredients in final dosage form marketed by a particular manufacturer or distributor, which is uniquely identified by the labeler code and product code portions of the national drug code, and for which an animal drug application or a supplemental animal drug application has been approved.
 
-&emsp;(4) The term "animal drug establishment" means a foreign or domestic place of business which is at one general physical location consisting of one or more buildings all of which are within 5 miles of each other, at which one or more animal drug products are manufactured in final dosage form.
+&emsp;(4) The term "animal drug establishment" means a foreign or domestic place of businesswhich is at one general physical location consisting of one or more buildings all of which are within 5 miles of each other, at which one or more animal drug products are manufactured in final dosage form.
 
 &emsp;(5) The term "investigational animal drug submission" means—
 

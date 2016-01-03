@@ -10,10 +10,13 @@
 | [16164\.](%C2%A7%2016164%20-%20Time%20limitation%20for%20use%20of%20entitlement.md) | Time limitation for use of entitlement. |
 | [16165\.](%C2%A7%2016165%20-%20Termination%20of%20assistance.md) | Termination of assistance. |
 | [16166\.](%C2%A7%2016166%20-%20Administration%20of%20program.md) | Administration of program. |
+| [16167\.](%C2%A7%2016167%20-%20Sunset.md) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title V, §555(b), Nov. 25, 2015, 129 Stat. 824, added item 16167.
 
 <b>2008</b>—Pub. L. 110–252, title V, §5006(e)(3), June 30, 2008, 122 Stat. 2386, added item 16163a.
 
@@ -32,3 +35,4 @@ Pub. L. 110–181, div. A, title V, §528(b)(2), Jan. 28, 2008, 122 Stat. 109, a
 - [&sect; 16164 - Time limitation for use of entitlement](%C2%A7%2016164%20-%20Time%20limitation%20for%20use%20of%20entitlement.md)
 - [&sect; 16165 - Termination of assistance](%C2%A7%2016165%20-%20Termination%20of%20assistance.md)
 - [&sect; 16166 - Administration of program](%C2%A7%2016166%20-%20Administration%20of%20program.md)
+- [&sect; 16167 - Sunset](%C2%A7%2016167%20-%20Sunset.md)

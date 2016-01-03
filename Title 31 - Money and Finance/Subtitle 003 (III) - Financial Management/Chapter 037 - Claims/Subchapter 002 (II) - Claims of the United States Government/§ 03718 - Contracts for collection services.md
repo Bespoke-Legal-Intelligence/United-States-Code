@@ -28,9 +28,9 @@
 
 (5) A contract made with a private counsel under paragraph (1) of this subsection shall include—
 
-&emsp;(A) a provision permitting the Attorney General to terminate either the contract orthe private counsel's representation of the United States in particular cases if the Attorney General finds that such action is for the convenience of the Government;
+&emsp;(A) a provision permitting the Attorney General to terminate either the contract or the private counsel's representation of the United States in particular cases if the Attorney General finds that such action is for the convenience of the Government;
 
-&emsp;(B) a provision stating that the head of the executive or <sup>2</sup> legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
+&emsp;(B) a provision stating that the head of the executive or <sup>2</sup> legislative agency which refers aclaim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
 
 &emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>1</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
@@ -166,7 +166,7 @@ Pub. L. 102–589, §5, Nov. 10, 1992, 106 Stat. 5134, provided that:
 
 "(a)
 
-Contents of Audit.—The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code, under the pilot program referred to in section 3 of the Act entitled 'An Act to amend section 3718 of title 31, United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.', approved October 29, 1986 (37 U.S.C. 3718 note; Public Law 99–578 \[set out below\]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts ofthe Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys' Offices for debt collection.
+Contents of Audit.—The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code, under the pilot program referred to in section 3 of the Act entitled 'An Act to amend section 3718 of title 31, United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.', approved October 29, 1986 (37 U.S.C. 3718 note; Public Law 99–578 \[set out below\]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys' Offices for debt collection.
 
 "(b)
 

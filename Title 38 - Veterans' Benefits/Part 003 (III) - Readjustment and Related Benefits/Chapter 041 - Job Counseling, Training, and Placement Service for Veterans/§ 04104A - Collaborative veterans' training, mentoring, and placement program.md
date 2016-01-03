@@ -2,7 +2,7 @@
 
 (a)
 
-Grants.—The Secretary shall award grants to eligible nonprofit organizations to provide training and mentoring for eligible veterans whoseek employment. The Secretary shall award the grants to not more than three organizations, for periods of two years.
+Grants.—The Secretary shall award grants to eligible nonprofit organizations to provide training and mentoring for eligible veterans who seek employment. The Secretary shall award the grants to not more than three organizations, for periods of two years.
 
 (b)
 
@@ -12,7 +12,7 @@ Collaboration and Facilitation.—The Secretary shall ensure that the recipients
 
 &emsp;&emsp;(A) the appropriate disabled veterans' outreach specialists (in carrying out the functions described in section 4103A(a)) and the appropriate local veterans' employment representatives (in carrying out the functions described in section 4104); and
 
-&emsp;&emsp;(B) the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801)) for the areas to be served by recipients of the grants; and
+&emsp;&emsp;(B) the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act) for the areas to be served by recipients of the grants; and
 
 &emsp;(2) based on the collaboration, facilitate the placement of the veterans that complete the training in meaningful employment that leads to economic self-sufficiency.
 
@@ -22,7 +22,7 @@ Application.—To be eligible to receive a grant under this section, a nonprofit
 
 &emsp;(1) information describing how the organization will—
 
-&emsp;&emsp;(A) collaborate with disabled veterans' outreach specialists and local veterans' employment representatives and the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801));
+&emsp;&emsp;(A) collaborate with disabled veterans' outreach specialists and local veterans' employment representatives and the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act);
 
 &emsp;&emsp;(B) based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
 
@@ -74,11 +74,9 @@ Definitions.—In this section—
 
 (Added Pub. L. 112–56, title II, §234(a), Nov. 21, 2011, 125 Stat. 721; amended Pub. L. 113–128, title V, §512(gg)(3), July 22, 2014, 128 Stat. 1719.)
 
-#### Amendment of Subsections (b)(1)(B) and (c)(1)(A)
-
-<i>Pub. L. 113–128, title V, §§506, 512(gg)(3), July 22, 2014, 128 Stat. 1703, 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B) and (c)(1)(A) of this section are amended by striking "the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801))" and inserting "the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)". See 2014 Amendment note below.</i>
-
 #### References in Text
+
+Section 3 of the Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(1)(B) and (c)(1)(A), is classified to section 3102 of Title 29, Labor.
 
 The date of enactment of the VOW to Hire Heroes Act of 2011, referred to in subsec. (d), is the date of enactment of Pub. L. 112–56, which was approved Nov. 21, 2011.
 
@@ -86,7 +84,7 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2),
 
 #### Prior Provisions
 
-A prior section 4104A, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Stat. 562, §2004A; renumbered §4104A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans' outreach program specialists and local veterans' employment representatives, prior to repeal by Pub. L.107–288, §4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042, effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date.
+A prior section 4104A, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Stat. 562, §2004A; renumbered §4104A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to performance of disabled veterans' outreach program specialists and local veterans' employment representatives, prior to repeal by Pub. L. 107–288, §4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042, effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date.
 
 #### Amendments
 
@@ -94,5 +92,5 @@ A prior section 4104A, added Pub. L. 100–323, §4(a)(1), May 20, 1988, 102 Sta
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -28,7 +28,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 (c)
 
-Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has atleast 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
+Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
 (2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
@@ -40,7 +40,7 @@ Waiver.—(1) Except as provided in paragraph (2), the Secretary of Defense may 
 
 (e)
 
-Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
+Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians inthe Acquisition Corps to sign mobility statements.
 
 (2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 

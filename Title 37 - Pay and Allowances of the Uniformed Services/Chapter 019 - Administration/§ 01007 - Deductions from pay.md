@@ -12,7 +12,7 @@
 
 (B) In all cases described in subparagraph (A), the Secretary concerned shall provide a reasonable opportunity for the member to request a delay in the imposition of the repayment requirement to recover the indebtedness. Before beginning collection efforts, the Secretary concerned shall consider the reasons provided by the member for the requested delay, including the financial ability of the member to repay the indebtedness, and the hardship that immediate collection would impose on the member and the member's dependents.
 
-(4)(A) If a member of the uniformed services, through no fault of the member, incurs a wound, injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
+(4)(A) If a member of the uniformed services, through no fault of the member, incurs a wound,injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member's pay until—
 
 &emsp;(i) the member is notified of the overpayment; and
 

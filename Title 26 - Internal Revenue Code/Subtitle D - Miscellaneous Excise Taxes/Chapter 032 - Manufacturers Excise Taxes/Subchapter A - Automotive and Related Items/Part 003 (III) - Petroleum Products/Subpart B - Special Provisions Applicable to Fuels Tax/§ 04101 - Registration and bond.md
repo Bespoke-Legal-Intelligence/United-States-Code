@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) on such property (or rights to property) of such person used in the trade or business for which the registration is sought, or
 
-&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property) of such person as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property)of such person as the Secretary determines appropriate.
 
 > &emsp;&emsp;Rules similar to the rules of section 6323 shall apply to the lien imposed pursuant to this paragraph.
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, se
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
+Amendment by Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
 
 #### Treatment of Deep-Draft Vessels
 

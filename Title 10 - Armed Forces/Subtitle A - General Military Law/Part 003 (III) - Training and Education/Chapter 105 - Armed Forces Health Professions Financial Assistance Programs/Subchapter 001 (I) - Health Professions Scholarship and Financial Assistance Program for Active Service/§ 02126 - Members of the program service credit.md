@@ -28,7 +28,7 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 (6) A member is not entitled to any retroactive award of, or increase in, pay or allowances under title 37 by reason of an award of service credit under paragraph (1).
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V,§501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, §543(a), Sept. 23, 1996, 110 Stat. 2521; Pub. L. 106–65, div. A, title V, §544, Oct. 5, 1999, 113 Stat. 608.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §501(22), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 104–201, div. A, title V, §543(a), Sept. 23, 1996, 110 Stat. 2521; Pub. L. 106–65, div. A, title V, §544, Oct. 5, 1999, 113 Stat. 608.)
 
 #### Amendments
 

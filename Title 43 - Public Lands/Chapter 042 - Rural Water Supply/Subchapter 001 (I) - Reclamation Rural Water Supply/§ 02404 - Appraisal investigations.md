@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On request of a non-Federal project entity with respect to a proposed rural water supply project that meets the eligibility criteria published under section 2402(c) of this title and subject to the availability of appropriations, the Secretary may—
+On request of a non-Federal project entity with respect to a proposed rural water supplyproject that meets the eligibility criteria published under section 2402(c) of this title and subject to the availability of appropriations, the Secretary may—
 
 &emsp;(1) receive and review an appraisal investigation that is—
 
@@ -66,7 +66,7 @@ In accordance with subsection (f), after an appraisal investigation is submitted
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 22, 2006, the Secretary shall promulgate criteria\(including appraisal factors listed under subsection (c)) against which the appraisal investigations shall be assessed for completeness and appropriateness for a feasibility study.
+&emsp;Not later than 1 year after December 22, 2006, the Secretary shall promulgate criteria (including appraisal factors listed under subsection (c)) against which the appraisal investigations shall be assessed for completeness and appropriateness for a feasibility study.
 
 #### (2) Inclusions
 

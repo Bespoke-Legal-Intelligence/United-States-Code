@@ -18,7 +18,7 @@ Any rule or regulation promulgated by the Secretary under subsection (a) of this
 
 &emsp;&emsp;(C) the National Park Service, within 30 days from the date of submission of such application, notifies the applicant that such application does not contain all information reasonably necessary to allow the National Park Service to consider such application and requests that such additional information be provided. After receipt of such notification to the applicant, the applicant shall supply any reasonably necessary additional information and shall advise the National Park Service that the applicant believes that the application contains all reasonably necessary information and is therefore complete, whereupon the National Park Service may—
 
-&emsp;&emsp;&emsp;(i) within 30 days of receipt of such notice from the applicant to the NationalPark Service determine that the application does not contain all reasonably necessary additional information and, on that basis, deny the application; or
+&emsp;&emsp;&emsp;(i) within 30 days of receipt of such notice from the applicant to the National Park Service determine that the application does not contain all reasonably necessary additional information and, on that basis, deny the application; or
 
 &emsp;&emsp;&emsp;(ii) review the application and take final action within 60 days from the date that the applicant provides notification to the National Park Service that its application is complete.
 
@@ -28,7 +28,7 @@ Such activities shall be permitted to occur if such activities conform to requir
 
 #### (d) Consideration of practices used in similar habitats or ecosystems
 
-In establishing standards governing the conduct of exploration or development and production activities within the boundaries of the Big Cypress National Preserve or the Addition, the Secretary shall take into consideration oil and gas exploration and development and production practices used in similar habitats or ecosystems within the Big Cypress National Preserve or the Addition at the time of promulgation of the rules and regulations under subsection (a) of this section or at the time of the submission of the application seeking authorization for such activities, as appropriate.
+In establishing standards governing the conduct of exploration or development and production activities within the boundaries of the Big Cypress National Preserve or the Addition, the Secretary shall take into consideration oil and gas exploration and development and production practices used in similar habitats or ecosystems within the Big Cypress National Preserve or the Addition at the time of promulgation of the rules and regulations under subsection (a) or at the time of the submission of the application seeking authorization for such activities, as appropriate.
 
 #### (e) Interim agreements with owners of non-Federal oil and gas interests prior to promulgation of rules and regulations
 

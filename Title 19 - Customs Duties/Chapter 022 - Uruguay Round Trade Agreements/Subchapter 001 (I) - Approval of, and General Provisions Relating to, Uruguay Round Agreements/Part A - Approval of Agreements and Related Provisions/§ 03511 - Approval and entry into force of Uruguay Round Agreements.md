@@ -4,7 +4,7 @@
 
 Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
-&emsp;(1) the trade agreements described in subsection (d) of this section resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
+&emsp;(1) the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
 
 &emsp;(2) the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994.
 
@@ -18,7 +18,7 @@ There are authorized to be appropriated annually such sums as may be necessary f
 
 #### (d) Trade agreements to which this Act applies
 
-Subsection (a) of this section applies to the WTO Agreement and to the following agreements annexed to that Agreement:
+Subsection (a) applies to the WTO Agreement and to the following agreements annexed to that Agreement:
 
 &emsp;(1) The General Agreement on Tariffs and Trade 1994.
 
@@ -80,7 +80,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 (b) Accordingly, I have determined that it is necessary or appropriate to carry out Schedule XX to proclaim such other modifications of duties, such other staged rate reductions, and such other additional duties, beyond those authorized by section 1102 of the 1988 Act (19 U.S.C. 2902), as are set forth in the Annex to this proclamation.
 
-4\. Section 111(d) of the URAA \[19 U.S.C. 3521(d)\] requires the President to proclaim the rate of duty set forth in Column B of the table set forth in that section as the column 2 rate of duty for the subheading of the Harmonized Tariff Schedule of the United States ("HTS") \[see 19 U.S.C. 1202\] that corresponds to the subheading in Schedule XX listed in Column A.
+4\. Section 111(d) of the URAA \[19 U.S.C. 3521(d)\] requires the President to proclaim the rate of duty setforth in Column B of the table set forth in that section as the column 2 rate of duty for the subheading of the Harmonized Tariff Schedule of the United States ("HTS") \[see 19 U.S.C. 1202\] that corresponds to the subheading in Schedule XX listed in Column A.
 
 5\. (a) Section 22(f) of the Agricultural Adjustment Act ("the Adjustment Act") (7 U.S.C. 624(f)), as amended by section 401(a)(1) of the URAA, provides that, as of the date of entry into force of the Agreement Establishing the World Trade Organization ("the WTO Agreement"), no quantitative limitation or fee shall be imposed under that section with respect to any article that is the product of a World Trade Organization member, as defined in section 2(10) of the URAA \[19 U.S.C. 3501(10)\].
 
@@ -98,7 +98,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 7\. Presidential Proclamation No. 6641 of December 15, 1993 \[108 Stat. 5134\], implemented the NAFTA with respect to the United States and, pursuant to sections 201 and 202 of the North American Free Trade Agreement Implementation Act ("the NAFTA Act") (19 U.S.C. 3331 and 3332), incorporated in the HTS the tariff modifications and rules of origin necessary or appropriate to carry out or apply the NAFTA. Certain technical errors were made in the Annexes to that proclamation. I have determined that, in order to reflect accurately the intended tariff treatment and rules of origin provided for in the NAFTA, it is necessary to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
 
-8\. Presidential Proclamation No. 6455 of July 2, 1992 \[19 U.S.C. 3202 note\], implementing the Andean Trade Preference Act ("the ATPA") (19 U.S.C. 3201 <i>et seq</i>.), provided duty-free entry for all eligible articles, and duty reductions for certain other articles that are the product of any designated beneficiary country under that Act. Through technical error, the tariff treatment of ethyl alcohol, ethyl tertiary-butyl ether, and mixtures containing these products was incompletely stated. Accordingly, I have decided that it is appropriate tomodify the provisions of subchapter I of chapter 99 of the HTS to provide fully for the tariff treatment of such products under the ATPA.
+8\. Presidential Proclamation No. 6455 of July 2, 1992 \[19 U.S.C. 3202 note\], implementing the Andean Trade Preference Act ("the ATPA") (19 U.S.C. 3201 <i>et seq</i>.), provided duty-free entry for all eligible articles, and duty reductions for certain other articles that are the product of any designated beneficiary country under that Act. Through technical error, the tariff treatment of ethyl alcohol, ethyl tertiary-butyl ether, and mixtures containing these products was incompletely stated. Accordingly, I have decided that it is appropriate to modify the provisions of subchapter I of chapter 99 of the HTS to provide fully for the tariff treatment of such products under the ATPA.
 
 9\. Section 242 of the Compact of Free Association ("the Compact") between the United States and Palau provides that, upon implementation of the Compact, the President shall proclaim duty-free entry for most products of designated freely associated states. Such duty-free treatment, pursuant to the Compact of Free Association Approval Act ("the Compact Act") (Public Law 99–658; 100 Stat. 3672, 48 U.S.C. 1681 note \[48 U.S.C. 1931 et seq.\]), is subject to the limitations of section 201 of the Compact Act \[48 U.S.C. 1931 note\] and sections 503(b) and 504(c) of the Trade Act of 1974 ("the 1974 Act") (19 U.S.C. 2463(b) and 2464(c)). In Presidential Proclamation No. 6726 of September 27, 1994 \[48 U.S.C. 1931 note\], I proclaimed that the Compact would enter into force on October 1, 1994. In order to accord such duty-free treatment to products of Palau, I have decided that it is necessary and appropriate to modify general note 10 to the HTS to designate the Republic of Palau as a freely associated state. Further, I have decided that it is appropriate to modify general note 4(a) to the HTS, which enumerates designated beneficiary countries for purposes of the Generalized System of Preferences, to delete Palau from the list of non-independent countries and territories.
 
@@ -158,7 +158,7 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 (c) Section 103(a) of the URAA (19 U.S.C. 3513(a)) authorizes the President to proclaim such actions as may be necessary to ensure that any provision or amendment made by the URAA that takes effect on the date that any of the Uruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date.
 
-4\. Proclamation 6763 of December 23, 1994 \[set out above\], implemented the Uruguay Round Agreements, including Schedule XX, with respect to the United States; and incorporated in the Harmonized Tariff Schedule of the United States ("the HTS") \[see 19 U.S.C. 1202\] tariff modifications necessary and appropriate to carry out the Uruguay Round Agreements and certain conforming changes in rules of origin for the North American Free Trade Agreement ("NAFTA"). Certain technical errors, including inadvertent omissions, were made in that proclamation. I have determined that it is necessary, to reflect accurately the intended tariff treatment provided for in the Uruguay Round Agreements and to ensure the continuation of the agreed NAFTA rules of origin, to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
+4\. Proclamation 6763 of December 23, 1994 \[set out above\], implemented the Uruguay Round Agreements, including Schedule XX, with respect to the United States; and incorporated in the Harmonized Tariff Schedule of the United States ("the HTS") \[see 19 U.S.C. 1202\] tariff modifications necessary and appropriate to carry out the Uruguay Round Agreements andcertain conforming changes in rules of origin for the North American Free Trade Agreement ("NAFTA"). Certain technical errors, including inadvertent omissions, were made in that proclamation. I have determined that it is necessary, to reflect accurately the intended tariff treatment provided for in the Uruguay Round Agreements and to ensure the continuation of the agreed NAFTA rules of origin, to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
 
 5\. (a) One of the Uruguay Round Agreements approved by the Congress in sections 101(a) and 101(d) of the URAA (19 U.S.C. 3511(a) and (d)) is the Agreement on Trade-Related Aspects of Intellectual Property Rights ("the TRIPs Agreement").
 
@@ -202,7 +202,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (6) In order to make conforming changes and technical corrections to certain HTS provisions, pursuant to actions taken in Proclamation 6763 \[set out above\], the HTS and Proclamation 6763 are modified as set forth in the Annex to this proclamation.
 
-(7) All provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
+(7) All provisions of previous proclamations and Executive orders that are inconsistent with the actionstaken in this proclamation are superseded to the extent of such inconsistency.
 
 (8) This proclamation shall be effective upon publication in the Federal Register.
 

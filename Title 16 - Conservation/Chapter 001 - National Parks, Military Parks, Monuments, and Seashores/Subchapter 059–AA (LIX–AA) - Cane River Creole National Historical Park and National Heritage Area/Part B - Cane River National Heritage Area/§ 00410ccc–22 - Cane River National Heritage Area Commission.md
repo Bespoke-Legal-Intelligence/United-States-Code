@@ -38,7 +38,7 @@ The Commission shall consist of 19 members to be appointed no later than 6 month
 
 &emsp;(15) one member with experience and knowledge of historic preservation from recommendations submitted by the President of Northwestern State University of Louisiana;
 
-&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritagearea from recommendations submitted by the Natchitoches Sportsmans <sup>3</sup> Association and other local recreational and environmental organizations; and
+&emsp;(16) one member with experience in and knowledge of environmental, recreational and conservation matters affecting the heritage area from recommendations submitted by the Natchitoches Sportsmans <sup>3</sup> Association and other local recreational and environmental organizations; and
 
 &emsp;(17) the director of the National Park Service, or the Director's designee, ex officio.
 

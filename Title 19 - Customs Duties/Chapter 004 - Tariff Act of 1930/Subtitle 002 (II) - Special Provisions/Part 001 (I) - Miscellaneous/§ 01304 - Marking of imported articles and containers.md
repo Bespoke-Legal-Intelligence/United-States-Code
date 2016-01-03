@@ -34,33 +34,33 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 #### (b) Marking of containers
 
-Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may be prescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a) of this section. If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
+Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may be prescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a). If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
 
 #### (c) Marking of certain pipe and fittings
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) of this section with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
 #### (d) Marking of compressed gas cylinders
 
-No exception may be made under subsection (a)(3) of this section with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the countryof origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
+No exception may be made under subsection (a)(3) with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
 
 #### (e) Marking of certain manhole rings or frames, covers, and assemblies thereof
 
-No exception may be made under subsection (a)(3) of this section with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
+No exception may be made under subsection (a)(3) with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
 
 #### (f) Marking of certain coffee and tea products
 
-The marking requirements of subsections (a) and (b) of this section shall not apply to articles described in subheadings 0901.21, 0901.22, 0902.10, 0902.20, 0902.30, 0902.40, 2101.10, and 2101.20 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+The marking requirements of subsections (a) and (b) shall not apply to articles described in subheadings 0901.21, 0901.22, 0902.10, 0902.20, 0902.30, 0902.40, 2101.10, and 2101.20 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
 
 #### (g) Marking of spices
 
-The marking requirements of subsections (a) and (b) of this section shall not apply to articles provided for under subheadings 0904.11, 0904.12, 0904.20, 0905.00, 0906.10, 0906.20, 0907.00, 0908.10, 0908.20, 0908.30, 0909.10, 0909.20, 0909.30, 0909.40, 0909.50, 0910.10, 0910.20, 0910.30, 0910.40, 0910.50, 0910.91, 0910.99, 1106.20, 1207.40, 1207.50, 1207.91, 1404.90, and 3302.10, and items classifiable in categories 0712.90.60, 0712.90.8080, 1209.91.2000, 1211.90.2000, 1211.90.8040, 1211.90.8050, 1211.90.8090, 2006.00.3000, 2918.13.2000, 3203.00.8000, 3301.90.1010, 3301.90.1020, and 3301.90.1050 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+The marking requirements of subsections (a) and (b) shall not apply to articles provided for under subheadings 0904.11, 0904.12, 0904.20, 0905.00, 0906.10, 0906.20, 0907.00, 0908.10, 0908.20, 0908.30, 0909.10, 0909.20, 0909.30, 0909.40, 0909.50, 0910.10, 0910.20, 0910.30, 0910.40, 0910.50, 0910.91, 0910.99, 1106.20, 1207.40, 1207.50, 1207.91, 1404.90, and 3302.10, and items classifiable in categories 0712.90.60, 0712.90.8080, 1209.91.2000, 1211.90.2000, 1211.90.8040, 1211.90.8050, 1211.90.8090, 2006.00.3000, 2918.13.2000, 3203.00.8000, 3301.90.1010, 3301.90.1020, and 3301.90.1050 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
 
 #### (h) Marking of certain silk products
 
-The marking requirements of subsections (a) and (b) of this section shall not apply either to—
+The marking requirements of subsections (a) and (b) shall not apply either to—
 
 &emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
 
@@ -68,11 +68,11 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 #### (i) Additional duties for failure to mark
 
-If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+If at the time of importation any article (or its container, as provided in subsection (b) hereof) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) hereof) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 #### (j) Delivery withheld until marked
 
-No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
+No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and everyother article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
 #### (k) Treatment of goods of NAFTA country
 
@@ -80,15 +80,15 @@ No imported article held in customs custody for inspection, examination, or appr
 
 &emsp;In applying this section to an article that qualifies as a good of a NAFTA country (as defined in section 3301(4) of this title) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
 
-&emsp;&emsp;(A) the exemption under subsection (a)(3)(H) of this section shall be applied by substituting "reasonably know" for "necessarily know";
+&emsp;&emsp;(A) the exemption under subsection (a)(3)(H) shall be applied by substituting "reasonably know" for "necessarily know";
 
-&emsp;&emsp;(B) the Secretary shall exempt the good from the requirements for marking under subsection (a) of this section if the good—
+&emsp;&emsp;(B) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
 
 &emsp;&emsp;&emsp;(i) is an original work of art, or
 
 &emsp;&emsp;&emsp;(ii) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
 
-&emsp;&emsp;(C) subsection (b) of this section does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) of this section or subparagraph (B)(i) or (ii) of this paragraph.
+&emsp;&emsp;(C) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
 
 #### (2) Petition rights of NAFTA exporters and producers regarding marking determinations
 
@@ -102,7 +102,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 &emsp;&emsp;&emsp;&emsp;(I) if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if claiming to be the producer, grows, mines, harvests, fishes, traps,hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
+&emsp;&emsp;&emsp;&emsp;(II) if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
 
 #### (B) Intervention or petition regarding adverse marking decisions
 
@@ -224,7 +224,7 @@ Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 "(B) The amendment made by section 210(b) \[amending section 1520 of this title\] shall apply with respect to determinations made or ordered on or after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections 1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
+"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
 
 &emsp;"(A) Section 641(c)(1)(B) and section 641(c)(2) of the Tariff Act of 1930, as added by such section \[19 U.S.C. 1641(c)(1)(B), (2)\], shall take effect three years after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -250,7 +250,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Savings Provision
 
-Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: "Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law ormodifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made."
+Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: "Except as may be otherwise provided for in this Act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made."
 
 #### Transfer of Functions
 

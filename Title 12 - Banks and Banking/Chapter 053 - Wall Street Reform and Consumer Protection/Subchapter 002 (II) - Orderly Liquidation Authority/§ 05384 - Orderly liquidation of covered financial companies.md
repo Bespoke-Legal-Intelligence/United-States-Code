@@ -36,15 +36,27 @@ Upon its appointment as receiver for a covered financial company, and thereafter
 
 &emsp;(3) assuming or guaranteeing the obligations of the covered financial company or any covered subsidiary to 1 or more third parties;
 
-&emsp;(4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection;
+&emsp;(4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—
+
+&emsp;&emsp;(A) shall promptly notify the State insurance authority for the insurance company of the intention to take such lien; and
+
+&emsp;&emsp;(B) may only take such lien—
+
+&emsp;&emsp;&emsp;(i) to secure repayment of funds made available to such covered financial company or covered subsidiary; and
+
+&emsp;&emsp;&emsp;(ii) if the Corporation determines, after consultation with the State insurance authority, that such lien will not unduly impede or delay the liquidation or rehabilitation of the insurance company, or the recovery by its policyholders;
 
 &emsp;(5) selling or transferring all, or any part, of such acquired assets, liabilities, or obligations of the covered financial company or any covered subsidiary; and
 
 &emsp;(6) making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of section 5390 of this title.
 
-(Pub. L. 111–203, title II, §204, July 21, 2010, 124 Stat. 1454.)
+(Pub. L. 111–203, title II, §204, July 21, 2010, 124 Stat. 1454; Pub. L. 114–113, div. O, title VII, §706(b)(2), Dec. 18, 2015, 129 Stat. 3029.)
 
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (d)(4). Pub. L. 114–113 inserted ", except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—" and subpars. (A) and (B) before semicolon at end.
 

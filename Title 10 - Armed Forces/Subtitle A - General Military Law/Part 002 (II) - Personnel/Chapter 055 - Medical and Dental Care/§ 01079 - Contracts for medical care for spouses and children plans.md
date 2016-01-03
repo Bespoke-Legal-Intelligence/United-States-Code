@@ -66,7 +66,7 @@
 
 &emsp;(2) Except as provided in clause (3), the first $150 each fiscal year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a fiscal year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each fiscal year under this paragraph shall be limited to $50.
 
-&emsp;(3) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100) each fiscal year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of the additional charges for such care during a fiscal year.
+&emsp;(3) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100) each fiscal year of the charges for alltypes of care authorized by subsection (a) and received while in an outpatient status and 20 percent of the additional charges for such care during a fiscal year.
 
 &emsp;(4) $25 for surgical care that is authorized by subsection (a) and received while in an outpatient status and that has been designated (under joint regulations to be prescribed by the administering Secretaries) as care to be treated as inpatient care for purposes of this subsection. Any care for which payment is made under this clause shall not be considered to be care received while in an outpatient status for purposes of clauses (2) and (3).
 
@@ -118,7 +118,7 @@
 
 (5) The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations to carry out this subsection.
 
-(g)(1) When a member dies while he is eligible for receipt of hostile fire pay under section 310 of title 37 or from a disease or injury incurred while eligible for such pay, his dependents who are receiving benefits under a plan covered by subsection (d) shall continue to be eligible for such benefits until they pass their twenty-first birthday.
+(g)(1) When a member dies while he is eligible for receipt of hostile fire pay under section 310 of title 37 or from a disease or injury incurred while eligible for such pay, his dependents who are receiving benefits under a plan covered by subsection (d) shall continue to be eligible forsuch benefits until they pass their twenty-first birthday.
 
 (2) In addition to any continuation of eligibility for benefits under paragraph (1), when a member dies while on active duty for a period of more than 30 days, the member's dependents who are receiving benefits under a plan covered by subsection (a) shall continue to be eligible for benefits under TRICARE Prime during the three-year period beginning on the date of the member's death, except that, in the case of such a dependent of the deceased who is described by subparagraph (D) or (I) of section 1072(2) of this title, the period of continued eligibility shall be the longer of the following periods beginning on such date:
 
@@ -154,7 +154,7 @@
 
 (C)(i) In the case of a dependent described in clause (ii), the regulations shall provide that, in addition to amounts otherwise payable by the United States, the Secretary may pay the amount referred to in subparagraph (B)(i).
 
-(ii) This subparagraph applies to a dependent referred to in subsection (a) of a member of a reserve component serving on active duty pursuant to a call or order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title.
+(ii) This subparagraph applies to a dependent referred to in subsection (a) of a member of a reserve component serving on active duty pursuant to a call or order to active duty for a period of more than 30 days in support of a contingencyoperation under a provision of law referred to in section 101(a)(13)(B) of this title.
 
 (5) To assure access to care for all covered beneficiaries, the Secretary of Defense, in consultation with the other administering Secretaries, shall designate specific rates for reimbursement for services in certain localities if the Secretary determines that without payment of such rates access to health care services would be severely impaired. Such a determination shall be based on consideration of the number of providers in a locality who provide the services, the number of such providers who are CHAMPUS participating providers, the number of covered beneficiaries under CHAMPUS in the locality, the availability of military providers in the location or a nearby location, and any other factors determined to be relevant by the Secretary.
 
@@ -186,7 +186,7 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(m) The Secretary of Defense may enter into contracts (or amend existing contracts) with fiscal intermediaries under which the intermediaries agree to organize and operate, directly or through subcontractors, managed health care networks for the provision of healthcare under this chapter. The managed health care networks shall include cost containment methods, such as utilization review and contracting for care on a discounted basis.
+(m) The Secretary of Defense may enter into contracts (or amend existing contracts) with fiscal intermediaries under which the intermediaries agree to organize and operate, directly or through subcontractors, managed health care networks for the provision of health care under this chapter. The managed health care networks shall include cost containment methods, such as utilization review and contracting for care on a discounted basis.
 
 (n)(1) Health care services provided pursuant to this section or section 1086 of this title (or pursuant to any other contract or project under the Civilian Health and Medical Program of the Uniformed Services) may not include services determined under the CHAMPUS Peer Review Organization program to be not medically or psychologically necessary.
 
@@ -512,7 +512,7 @@ Pub. L. 98–525, §1401(e)(4)(B), substituted "The Secretary of Defense shall a
 
 Subsec. (j)(2)(A). Pub. L. 98–557, §19(7)(A), substituted reference to the administering Secretaries for reference to the Secretary of Defense and the Secretary of Health and Human Services.
 
-Subsec. (k)(1), (2). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretaries for reference to Secretary of Health and Human Services.
+Subsec. (k)(1), (2). Pub. L. 98–557, §19(7)(B), substituted reference to other administering Secretariesfor reference to Secretary of Health and Human Services.
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–94, §1268(4)(A), substituted "30" for "thirty" in provisions preceding par. (1).
 
@@ -602,7 +602,7 @@ Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87, provided that
 
 Pub. L. 101–510, div. A, title VII, §701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
-Pub. L. 101–510, div. A, title VII, §702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title VII, §702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 Pub. L. 101–510, div. A, title VII, §703(d), Nov. 5, 1990, 104 Stat. 1582, as amended by Pub. L. 102–25, title III, §316(a)(1), Apr. 6, 1991, 105 Stat. 87, provided that: "This section and the amendments made by this section \[amending this section\] shall take effect on October 1, 1991, and shall apply with respect to mental health services provided under section 1079 or 1086 of title 10, United States Code, on or after that date."
 
@@ -780,7 +780,7 @@ Pub. L. 102–484, div. A, title VII, §702, Oct. 23, 1992, 106 Stat. 2431, as a
 
 #### Correction of Omission in Delay of Increase of CHAMPUS Deductibles Related to Operation Desert Storm
 
-Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of thistitle applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
+Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
 
 #### Temporary CHAMPUS Provisions for Dependents of Operation Desert Shield/Desert Storm Active Duty Personnel
 
@@ -788,7 +788,7 @@ Pub. L. 102–172, title VIII, §8085, Nov. 26, 1991, 105 Stat. 1192, provided t
 
 Similar provisions were contained in Pub. L. 102–28, §105, Apr. 10, 1991, 105 Stat. 165.
 
-Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that the annual deductibles specified in subsec. (b) of this section, as in effect on Nov. 4, 1990, would apply until Oct. 1, 1991, in the case of health care provided under that section to the dependents of a member of the uniformed services who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm, and that patient copayment requirements could be waived upon the provider's certification to the Secretary of Defense that the amount charged the Federal Government for such health care had not been increased above the amount that the provider would have charged the Federal Government for such health care had the payment not been waived.
+Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that the annual deductibles specified in subsec. (b) of this section, as in effect on Nov. 4, 1990, would apply until Oct. 1, 1991, in the case of health care provided under that section to the dependents of a member of the uniformed services who had served onactive duty in the Persian Gulf theater of operations in connection with Operation Desert Storm, and that patient copayment requirements could be waived upon the provider's certification to the Secretary of Defense that the amount charged the Federal Government for such health care had not been increased above the amount that the provider would have charged the Federal Government for such health care had the payment not been waived.
 
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 

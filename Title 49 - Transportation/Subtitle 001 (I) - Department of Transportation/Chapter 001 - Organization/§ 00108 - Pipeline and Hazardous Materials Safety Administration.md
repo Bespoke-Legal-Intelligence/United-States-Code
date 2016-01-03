@@ -114,7 +114,7 @@ Continuance of Actions Against Officers.—No suit, action, or other proceeding 
 
 "(f)
 
-Exercise of Authorities.—An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act.
+Exercise of Authorities.—An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that wereavailable with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act.
 
 "(g)
 
@@ -128,7 +128,7 @@ Definition.—In this section, the term 'this Act' includes the amendments made 
 
 Pub. L. 108–426, §2(b), Nov. 30, 2004, 118 Stat. 2424, provided that: "The authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Pipeline and Hazardous Materials Safety Administration."
 
-For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under section 112 of this title.
+For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under former section 112 of this title.
 
 Pub. L. 108–426, §7, Nov. 30, 2004, 118 Stat. 2428, provided that: "The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\], including the amendments made by this Act, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\]."
 

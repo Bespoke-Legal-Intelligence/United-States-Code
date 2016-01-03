@@ -42,13 +42,13 @@ The Secretary is authorized to provide, through the Service, Indian tribes, and 
 
 &emsp;&emsp;Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
-(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, §204, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat.4806; amended Pub. L. 102–573, title II, §§204, 217(b)(3), title IX, §901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
 Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 

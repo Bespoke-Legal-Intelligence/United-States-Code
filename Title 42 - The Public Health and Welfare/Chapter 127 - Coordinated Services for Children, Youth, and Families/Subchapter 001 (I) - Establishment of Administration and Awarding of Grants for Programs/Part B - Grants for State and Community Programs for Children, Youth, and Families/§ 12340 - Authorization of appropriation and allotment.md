@@ -4,7 +4,7 @@
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this titlesuch sums as may be necessary for each of the fiscal years 1995 through 1998.
+&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this title such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
 #### (2) Availability of appropriation
 
@@ -16,7 +16,7 @@
 
 #### (3) Allotment formula
 
-&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allotted an amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
+&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allottedan amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
 
 #### (4) Exceptions
 

@@ -28,7 +28,7 @@ The Secretary, acting through the Office, with respect to the health concerns of
 
 &emsp;(6) coordinate efforts to promote women's health programs and policies with the private sector; and
 
-&emsp;(7) through publications and any other means appropriate, provide for the exchange of information between the Office and recipients of grants, contracts, and agreements under subsection (c), and between the Office and health professionals and the general public.
+&emsp;(7) through publications and any other means appropriate, provide for the exchange ofinformation between the Office and recipients of grants, contracts, and agreements under subsection (c), and between the Office and health professionals and the general public.
 
 #### (c) Grants and contracts regarding duties
 
@@ -66,7 +66,7 @@ Pub. L. 111–148, title III, §3509(a)(2), Mar. 23, 2010, 124 Stat. 533, provid
 
 #### No New Regulatory Authority
 
-Pub. L. 111–148, title III, §3509(h), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section \[enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs,amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section\] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority."
+Pub. L. 111–148, title III, §3509(h), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section \[enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section\] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority."
 
 #### Limitation on Termination
 

@@ -4,7 +4,7 @@ In the administration of this subchapter:
 
 &emsp;(1) All matters involving tribal powers, immunities, and jurisdiction, whether criminal, civil, or regulatory, shall be governed by the terms and provisions of the Settlement Agreement and the State Act, unless otherwise provided in this subchapter.
 
-&emsp;(2) All matters pertaining to governance and regulation of the reservation (including environmental regulation and riparian rights) shall be governed by the terms and provisions of the Settlement Agreement and the State Act, including, but not limited to, section 17 of the Settlement Agreement and section 27–16–120 of the State Act, unless otherwise provided in this subchapter.
+&emsp;(2) All matters pertaining to governance and regulation of the reservation (including environmental regulation and riparian rights) shall be governed by the terms and provisions of the Settlement Agreement and the StateAct, including, but not limited to, section 17 of the Settlement Agreement and section 27–16–120 of the State Act, unless otherwise provided in this subchapter.
 
 &emsp;(3) The Indian Child Welfare Act of 1978 (25 U.S.C. 1901 et seq.) shall apply to Catawba Indian children except as provided in the Settlement Agreement.
 

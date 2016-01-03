@@ -2,17 +2,17 @@
 
 #### (a) In general
 
-Every vessel required to make entry under section 1434 of this title or obtain clearance under section 60105 of title 46 shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
+Every vessel required to make entry under section 1434 of this title or obtain clearance under section 60105 of title 46 shall have a manifest that complies with the requirements prescribed under subsection (d).
 
 #### (b) Production of manifest
 
-Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d) of this section. A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
+Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d). A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
 
 #### (c) Public disclosure of certain manifest information
 
 (1) Except as provided in subparagraph (2), the following information, when contained in a vessel vessel <sup>1</sup> or aircraft manifest, shall be available for public disclosure:
 
-&emsp;(A) The name and address of each importer or consignee and the name and address of the shipper to such importer or consignee, unless the importer or consignee has made a biennial certification, in accordance with procedures adopted by the Secretary of the Treasury, claiming confidential treatment of such information.
+&emsp;(A) The name and address of each importer or consignee and the name and address of theshipper to such importer or consignee, unless the importer or consignee has made a biennial certification, in accordance with procedures adopted by the Secretary of the Treasury, claiming confidential treatment of such information.
 
 &emsp;(B) The general character of the cargo.
 
@@ -42,13 +42,13 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 &emsp;The Secretary shall by regulation—
 
-&emsp;&emsp;(A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a) of this section;
+&emsp;&emsp;(A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a);
 
 &emsp;&emsp;(B) allow, at the option of the individual producing the manifest and subject to paragraph (2), letters and documents shipments to be accounted for by summary manifesting procedures;
 
-&emsp;&emsp;(C) prescribe the manner of production for, and the delivery for electronic transmittal of, the manifest required by subsection (a) of this section; and
+&emsp;&emsp;(C) prescribe the manner of production for, and the delivery for electronic transmittal of, the manifest required by subsection (a); and
 
-&emsp;&emsp;(D) prescribe the manner for supplementing manifests with bill of lading data under subsection (b) of this section.
+&emsp;&emsp;(D) prescribe the manner for supplementing manifests with bill of lading data under subsection (b).
 
 #### (2) Letters and documents shipments
 
@@ -122,7 +122,7 @@ Pub. L. 104–153, §14, July 2, 1996, 110 Stat. 1390, provided that: "Not later
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

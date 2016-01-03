@@ -14,5 +14,5 @@
 
 #### Codification
 
-Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of theHomeland Security Act of 2002 which comprises this chapter.
 

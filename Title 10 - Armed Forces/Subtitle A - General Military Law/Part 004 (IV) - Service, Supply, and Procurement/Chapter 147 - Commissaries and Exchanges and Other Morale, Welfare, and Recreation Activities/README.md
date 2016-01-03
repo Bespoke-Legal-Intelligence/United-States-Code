@@ -26,7 +26,7 @@
 
 <b>1996</b>—Pub. L. 104–201, div. A, title III, §§341(a)(2), 343(a)(2), Sept. 23, 1996, 110 Stat. 2489, 2490, added items 2482a and 2489a.
 
-Pub. L. 104–106, div. A, title III, §§331(b), 336(a)(2), Feb. 10, 1996, 110 Stat. 260, 264, substituted "Commissary stores: operation" for "Commissary stores: private operation" in item 2482 and added item 2490a.
+Pub. L. 104–106, div. A, title III, §§331(b), 336(a)(2), Feb. 10, 1996, 110 Stat. 260, 264, substituted "Commissarystores: operation" for "Commissary stores: private operation" in item 2482 and added item 2490a.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title XI, §1182(a)(8)(B), Nov. 30, 1993, 107 Stat. 1771, struck out item 2490a "Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds".
 

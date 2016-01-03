@@ -12,7 +12,7 @@
 | :--- | ---: |
 | [4331\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004331%20-%20Congressional%20declaration%20of%20national%20environmental%20policy.md) | Congressional declaration of national environmental policy. |
 | [4332\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004332%20-%20Cooperation%20of%20agencies%3B%20reports%3B%20availability%20of%20information%3B%20recommendations%3B%20international%20and%20national%20coordination%20of%20efforts.md) | Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts. |
-| [4332a.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004332a%20-%20Accelerated%20decisionmaking%20in%20environmental%20reviews.md) | Accelerated decisionmaking in environmental reviews. |
+| [4332a.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004332a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71304%28j%29%282%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201386.md) | Repealed. |
 | [4333\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004333%20-%20Conformity%20of%20administrative%20procedures%20to%20national%20environmental%20policy.md) | Conformity of administrative procedures to national environmental policy. |
 | [4334\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004334%20-%20Other%20statutory%20obligations%20of%20agencies.md) | Other statutory obligations of agencies. |
 | [4335\.](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/%C2%A7%2004335%20-%20Efforts%20supplemental%20to%20existing%20authorizations.md) | Efforts supplemental to existing authorizations. |
@@ -68,6 +68,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—FEDERAL PERMITTING IMPROVEMENT
+
+|  |  |
+| :--- | ---: |
+| [4370m.](Subchapter%20004%20%28IV%29%20-%20Federal%20Permitting%20Improvement/%C2%A7%2004370m%20-%20Definitions.md) | Definitions. |
+| 4370m–1. | Federal Permitting Improvement Council. |
+| 4370m–2. | Permitting process improvement. |
+| 4370m–3. | Interstate compacts. |
+| 4370m–4. | Coordination of required reviews. |
+| 4370m–5. | Delegated State permitting programs. |
+| 4370m–6. | Litigation, judicial review, and savings provision. |
+| 4370m–7. | Reports. |
+| 4370m–8. | Funding for governance, oversight, and processing of environmental reviews and permits. |
+| 4370m–9. | Application. |
+| 4370m–10. | GAO report. |
+| 4370m–11. | Savings provision. |
+| 4370m–12. | Sunset. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -77,3 +97,4 @@
 - [Subchapter 001 (I) - Policies and Goals](Subchapter%20001%20%28I%29%20-%20Policies%20and%20Goals/README.md)
 - [Subchapter 002 (II) - Council on Environmental Quality](Subchapter%20002%20%28II%29%20-%20Council%20on%20Environmental%20Quality/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)
+- [Subchapter 004 (IV) - Federal Permitting Improvement](Subchapter%20004%20%28IV%29%20-%20Federal%20Permitting%20Improvement/README.md)

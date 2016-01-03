@@ -28,7 +28,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 &emsp;&emsp;(B) within the service area of such plan, deny such coverage to such employers and individuals if the issuer has demonstrated, if required, to the applicable State authority that—
 
-&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees ofany additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees, and
+&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees of any additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees, and
 
 &emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers and individuals without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals <sup>1</sup> employees and dependents.
 
@@ -50,7 +50,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 &emsp;A health insurance issuer upon denying health insurance coverage in connection with group health plans in accordance with paragraph (1) in a State may not offer coverage in connection with group health plans in the group or individual market in the State for a period of 180 days after the date such coverage is denied or until the issuer has demonstrated to the applicable State authority, if required under applicable State law, that the issuer has sufficient financial reserves to underwrite additional coverage, whichever is later. An applicable State authority may provide for the application of this subsection on a service-area-specific basis.
 
-(July 1, 1944, ch. 373, title XXVII, §2702, as added and amended Pub. L. 111–148, title I, §§1201(4), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 156, 266, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2702, as added and amended Pub. L. 111–148, title I, §§1201(4),1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 156, 266, 911.)
 
 #### Codification
 

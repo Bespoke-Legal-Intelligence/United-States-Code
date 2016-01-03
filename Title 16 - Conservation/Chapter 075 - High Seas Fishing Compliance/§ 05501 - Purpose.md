@@ -2,7 +2,7 @@
 
 It is the purpose of this chapter—
 
-&emsp;(1) to implement the Agreement to Promote Compliance with International Conservationand Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993; and
+&emsp;(1) to implement the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993; and
 
 &emsp;(2) to establish a system of permitting, reporting, and regulation for vessels of the United States fishing on the high seas.
 
@@ -14,7 +14,7 @@ This chapter, referred to in text, was in the original "this Act", and was trans
 
 #### Effective Date
 
-Pub. L. 104–43, title I, §111, Nov. 3, 1995, 109 Stat. 376, provided that: "This title \[enacting this chapter\] shall take effect 120 days after the date of enactment of this Act \[Nov. 3, 1995\]."
+Pub. L. 104–43, title I, §111, Nov. 3, 1995, 109 Stat. 376, provided that: "This title \[enacting this chapter\] shalltake effect 120 days after the date of enactment of this Act \[Nov. 3, 1995\]."
 
 #### Short Title
 

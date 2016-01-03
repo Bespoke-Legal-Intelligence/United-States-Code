@@ -14,7 +14,7 @@ The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 4
 
 The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
-The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
+The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§620 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 
 The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 

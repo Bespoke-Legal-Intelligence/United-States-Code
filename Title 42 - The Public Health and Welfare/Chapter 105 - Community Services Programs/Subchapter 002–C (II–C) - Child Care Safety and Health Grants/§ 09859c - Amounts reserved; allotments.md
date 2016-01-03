@@ -8,7 +8,7 @@ The Secretary shall reserve not more than one-half of 1 percent of the amount ap
 
 #### (1) General rule
 
-&emsp;From the amounts appropriated under section 9859a of this title for each fiscal year and remaining after reservations are made under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+&emsp;From the amounts appropriated under section 9859a of this title for each fiscal year andremaining after reservations are made under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
 
 &emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 

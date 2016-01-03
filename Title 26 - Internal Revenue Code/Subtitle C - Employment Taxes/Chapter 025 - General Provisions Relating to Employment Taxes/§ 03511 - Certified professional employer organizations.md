@@ -12,7 +12,7 @@ For purposes of the taxes, and other obligations, imposed by this subtitle—
 
 For purposes of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
 
-&emsp;(1) a certified professional employer organization entering into a service contract with a customer with respect to a work site employee shall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and
+&emsp;(1) a certified professional employer organization entering into a service contract with a customer with respect to a work site employeeshall be treated as a successor employer and the customer shall be treated as a predecessor employer during the term of such service contract, and
 
 &emsp;(2) a customer whose service contract with a certified professional employer organization is terminated with respect to a work site employee shall be treated as a successor employer and the certified professional employer organization shall be treated as a predecessor employer.
 
@@ -74,7 +74,7 @@ The Secretary shall develop such reporting and recordkeeping rules, regulations,
 
 &emsp;(1) notification of the Secretary in such manner as the Secretary shall prescribe in the case of the commencement or termination of a service contract described in section 7705(e)(2) between such a person and a customer, and the employer identification number of such customer,
 
-&emsp;(2) such information as the Secretary determines necessary for the customer to claim thecredits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and
+&emsp;(2) such information as the Secretary determines necessary for the customer to claim the credits identified in subsection (d) and the manner in which such information is to be provided, as prescribed by the Secretary, and
 
 &emsp;(3) such other information as the Secretary determines is essential to promote compliance with respect to the credits identified in subsection (d) and section 3302, and
 

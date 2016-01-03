@@ -166,7 +166,7 @@ Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out "pursuant to an aut
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
-Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end "Such guidelines shall be issued not later than 90days after the date of enactment of this section \[Sept. 24, 1983\]."
+Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end "Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\]."
 
 #### Effective Date
 

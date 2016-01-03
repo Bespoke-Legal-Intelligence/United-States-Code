@@ -18,7 +18,7 @@ In developing this long-term program, the President shall—
 
 &emsp;(3) begin such planning immediately.
 
-(Pub. L. 87–195, pt. I, §120, formerly pt. III, §639B, as added Pub. L. 93–189, §20, Dec. 17, 1973, 87 Stat.725; renumbered pt. I, §494B and amended Pub. L. 94–161, title I, §101(5), (7), Dec. 20, 1975, 89 Stat. 850; renumbered pt. I, §120 and amended Pub. L. 95–88, title I, §115(1), (2), Aug. 3, 1977, 91 Stat. 539; Pub. L. 95–424, title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 959.)
+(Pub. L. 87–195, pt. I, §120, formerly pt. III, §639B, as added Pub. L. 93–189, §20, Dec. 17, 1973, 87 Stat. 725; renumbered pt. I, §494B and amended Pub. L. 94–161, title I, §101(5), (7), Dec. 20, 1975, 89 Stat. 850; renumbered pt. I, §120 and amended Pub. L. 95–88, title I, §115(1), (2), Aug. 3, 1977, 91 Stat. 539; Pub. L. 95–424, title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 959.)
 
 #### Codification
 

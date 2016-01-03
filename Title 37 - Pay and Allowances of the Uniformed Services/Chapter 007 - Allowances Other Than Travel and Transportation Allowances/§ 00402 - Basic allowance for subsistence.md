@@ -14,7 +14,7 @@ Rates of Allowance Based on Food Costs.—(1) The monthly rate of basic allowanc
 
 &emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
 
-(2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
+(2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shallbe the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
 
 (3) For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: "This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set outas a note below\] and the amendments made by this section shall take effect on January 1, 1998."
+Pub. L. 105–85, div. A, title VI, §602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: "This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998."
 
 #### Effective Date of 1984 Amendment
 

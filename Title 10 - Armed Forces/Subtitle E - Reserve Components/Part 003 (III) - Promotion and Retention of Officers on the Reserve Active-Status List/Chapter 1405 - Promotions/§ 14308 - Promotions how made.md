@@ -24,6 +24,8 @@ Promotion; How Made; Order.—(1) Officers on a promotion list for a competitive
 
 &emsp;(ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title upon the convening of such a board.
 
+(E) If the Secretary of the military department concerned determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this paragraph because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this paragraph.
+
 (c)
 
 Date of Rank.—(1) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d)(2) of this title.
@@ -40,25 +42,27 @@ Officers With Running Mates.—An officer to whom a running mate system applies 
 
 Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to this section and to section 14311(e) of this title, and under regulations prescribed by the Secretary of the military department concerned—
 
-&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
+&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
 
 &emsp;(2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 
 (f)
 
-Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+Effective Date of Promotion After Federal Recognition.—The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federalrecognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
 (g)
 
 Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, §502(b), Nov. 25, 2015, 129 Stat. 806.)
 
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4)(E). Pub. L. 114–92 added subpar. (E).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted at end "A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence."
 

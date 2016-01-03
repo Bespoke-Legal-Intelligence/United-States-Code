@@ -22,7 +22,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (A) In general
 
-&emsp;&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.
+&emsp;&emsp;A person who believes that he or she has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.
 
 #### (B) Actions of Secretary of Labor
 
@@ -88,7 +88,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (ii) Penalty
 
-&emsp;&emsp;&emsp;If an order is issued under clause (i), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued, a sum equal to the aggregate amount of all costs and expenses (including attorney fees and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
+&emsp;&emsp;&emsp;If an order is issued under clause (i), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued, asum equal to the aggregate amount of all costs and expenses (including attorney fees and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
 
 #### (C) Penalty for frivolous claims
 
@@ -98,7 +98,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (i) Failure of the Secretary to act
 
-&emsp;&emsp;&emsp;If the Secretary of Labor has not issued a final order within 210 days after the dateof filing of a complaint under this subsection, or within 90 days after the date of receipt of a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States having jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
+&emsp;&emsp;&emsp;If the Secretary of Labor has not issued a final order within 210 days after the date of filing of a complaint under this subsection, or within 90 days after the date of receipt of a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States having jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
 #### (ii) Procedures
 

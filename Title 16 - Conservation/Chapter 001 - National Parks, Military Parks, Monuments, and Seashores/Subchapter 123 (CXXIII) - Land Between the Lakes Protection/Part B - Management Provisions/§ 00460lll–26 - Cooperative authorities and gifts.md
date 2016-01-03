@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Reasonable admission and use fees may be charged for all areas administered by the United States Fish and Wildlife Service.
+&emsp;&emsp;&emsp;Reasonable admission and use fees may be charged for all areas administered bythe United States Fish and Wildlife Service.
 
 #### (ii) Deposit
 

@@ -10,7 +10,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 &emsp;(1) strengthen the academic and career and technical skills of students participating in career and technical education programs, by strengthening the academic and career and technical education components of such programs through the integration of academics with career and technical education programs through a coherent sequence of courses, such as career and technical programs of study described in section 2342(c)(1)(A) of this title, to ensure learning in—
 
-&emsp;&emsp;(A) the core academic subjects (as defined in section 7801 of this title); and
+&emsp;&emsp;(A) a well-rounded education (as defined in section 7801 of this title); and
 
 &emsp;&emsp;(B) career and technical education subjects;
 
@@ -108,7 +108,7 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 &emsp;(15) to provide career and technical education programs for adults and school dropouts to complete the secondary school education, or upgrade the technical skills, of the adults and school dropouts;
 
-&emsp;(16) to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under section 2841 of title 29;
+&emsp;(16) to provide assistance to individuals who have participated in services and activities under this chapter in continuing their education or training or finding an appropriate job, such as through referral to the system established under section 3151 of title 29;
 
 &emsp;(17) to support training and activities (such as mentoring and outreach) in non-traditional fields;
 
@@ -134,11 +134,7 @@ Funds made available to an eligible recipient under this subchapter may be used�
 
 Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
-(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22, 2014, 128 Stat. 1707.)
-
-#### Amendment of Subsection (c)(16)
-
-<i>Pub. L. 113–128, title V, §§506, 512(e)(6), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(16) of this section is amended by striking "such as through referral to the system established under section 2841 of title 29" and inserting "such as through referral to the system established under section 3151 of title 29". See 2014 Amendment note below.</i>
+(Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(9), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### Prior Provisions
 
@@ -154,9 +150,15 @@ Section 2363, Pub. L. 88–210, title III, §313, as added Pub. L. 98–524, §1
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–95 substituted "a well-rounded education (as defined in section 7801 of this title)" for "the core academic subjects (as defined in section 7801 of this title)".
+
 <b>2014</b>—Subsec. (c)(16). Pub. L. 113–128 substituted "such as through referral to the system established under section 3151 of title 29" for "such as through referral to the system established under section 2841 of title 29".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

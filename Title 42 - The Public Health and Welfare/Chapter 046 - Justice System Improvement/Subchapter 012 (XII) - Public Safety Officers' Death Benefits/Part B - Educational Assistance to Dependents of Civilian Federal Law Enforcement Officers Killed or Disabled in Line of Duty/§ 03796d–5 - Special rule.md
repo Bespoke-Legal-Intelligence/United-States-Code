@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, a spouse or child of a Federal law e
 
 #### (b) Retroactive assistance
 
-The Attorney General may provide retroactive assistance to a person eligible under this section for each month in which the person pursued a program of education at an eligible educational institution. The Attorney General shall apply the limitations contained in this part to retroactive assistance.
+The Attorney General may provide retroactive assistance to a person eligible under this section for each month in which the person pursued aprogram of education at an eligible educational institution. The Attorney General shall apply the limitations contained in this part to retroactive assistance.
 
 #### (c) Prospective assistance
 

@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 103–337, §332(b), inserted "and repair" after "maintenan
 
 Subsec. (e). Pub. L. 103–337, §332(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-"(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a reportdescribing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
+"(1) Not later than January 15, 1992, and January 15, 1993, the Secretary of the Army and the Secretary of the Air Force shall jointly submit to Congress a report describing the progress during the preceding fiscal year to achieve and maintain the percentage of depot-level maintenance required to be performed by employees of the Department of Defense pursuant to subsection (a).
 
 "(2) Not later than January 15, 1994, the Secretary of each military department and the Secretary of Defense, with respect to the Defense Agencies, shall jointly submit to Congress a report described in paragraph (1)."
 

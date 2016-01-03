@@ -76,7 +76,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2011, c
 
 #### (ii) Determination
 
-&emsp;&emsp;&emsp;In determining the eligibility of a practice described in clause (i), the Secretaryshall require, to the maximum extent practicable, that the lowest cost alternatives be used to fulfill the purposes of the conservation security plan, as determined by the Secretary.
+&emsp;&emsp;&emsp;In determining the eligibility of a practice described in clause (i), the Secretary shall require, to the maximum extent practicable, that the lowest cost alternatives be used to fulfill the purposes of the conservation security plan, as determined by the Secretary.
 
 #### (2) On-farm research and demonstration or pilot testing
 

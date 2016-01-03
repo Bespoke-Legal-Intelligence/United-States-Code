@@ -78,7 +78,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (3) In a case covered by paragraph (1), expenses that may be paid do not include expenses with respect to an escort under paragraph (8) of subsection (a), whether or not on a reimbursable basis.
 
-(4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
+(4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned underthis subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788.)
 
@@ -278,7 +278,7 @@ Duties.—Except to the extent that the person designated to direct disposition 
 
 &emsp;&emsp;"(B) shall provide appropriate honors at the arrival of the remains referred to in subparagraph (A)(ii) (unless airline or other security requirements do not permit such honors to be provided); and
 
-&emsp;&emsp;"(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
+&emsp;&emsp;"(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to ahearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
 
 "(f)
 

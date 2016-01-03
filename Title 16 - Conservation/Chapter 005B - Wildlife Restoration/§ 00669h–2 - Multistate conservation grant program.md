@@ -50,7 +50,7 @@
 
 #### (4) Publication
 
-&emsp;The Assistant Director for Wildlife and Sport Fish Restoration Programs shall publish in the Federal Register each priority list submitted under paragraph (3)(C).
+&emsp;The Assistant Director for Wildlife and Sport Fish Restoration Programs shall publishin the Federal Register each priority list submitted under paragraph (3)(C).
 
 #### (c) Eligible grantees
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife; and
 
-&emsp;&emsp;&emsp;(ii) will use the grant funds in compliance with subsection (d) of this section.
+&emsp;&emsp;&emsp;(ii) will use the grant funds in compliance with subsection (d).
 
 #### (B) Penalties for certain activities
 

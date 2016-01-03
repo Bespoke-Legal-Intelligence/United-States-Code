@@ -60,7 +60,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[No
 
 "(b)
 
-Required Elements.—The assessment shall consider the impact on Federal expenditures of the CoastalBarrier Resources Act (16 U.S.C. 3501 et seq.), including impacts resulting from the avoidance of Federal expenditures for—
+Required Elements.—The assessment shall consider the impact on Federal expenditures of the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.), including impacts resulting from the avoidance of Federal expenditures for—
 
 &emsp;"(1) disaster relief under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.);
 

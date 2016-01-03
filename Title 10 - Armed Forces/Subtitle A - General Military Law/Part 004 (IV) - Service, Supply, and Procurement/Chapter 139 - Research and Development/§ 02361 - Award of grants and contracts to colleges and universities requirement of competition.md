@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
 <b>1990</b>—Subsec. (c)(1). Pub. L. 101–510, §1311(4)(A), substituted "an annual report" for "a semiannual report" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 101–510, §1311(4)(B), substituted "the preceding calendar year and shall be submitted not later than February 1 of the year after the year covered by the report" for "the six-month periods ending on June 30 and December 31 of each year. Each suchreport shall be submitted within 30 days after the end of the period covered by the report".
+Subsec. (c)(2). Pub. L. 101–510, §1311(4)(B), substituted "the preceding calendar year and shall be submitted not later than February 1 of the year after the year covered by the report" for "the six-month periods ending on June 30 and December 31 of each year. Each such report shall be submitted within 30 days after the end of the period covered by the report".
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189, §252(a), substituted "unless—" for "unless" and pars. (1) and (2) for "the grant or contract is made or awarded using competitive procedures."
 

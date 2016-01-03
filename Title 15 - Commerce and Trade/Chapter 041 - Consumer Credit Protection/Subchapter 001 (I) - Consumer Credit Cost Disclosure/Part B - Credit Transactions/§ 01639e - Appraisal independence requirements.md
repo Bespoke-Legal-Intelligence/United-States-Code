@@ -28,7 +28,7 @@ The requirements of subsection (b) shall not be construed as prohibiting a mortg
 
 #### (d) Prohibitions on conflicts of interest
 
-No certified or licensed appraiser conducting, and no appraisal management company procuring or facilitating, an appraisal in connection with a consumer credit transaction secured by the principal dwelling of a consumer may have a direct or indirect interest, financial or otherwise, in the property or transaction involving the appraisal.
+No certified or licensed appraiser conducting, and no appraisal management company procuring or facilitating, an appraisal in connection with a consumer credit transaction secured bythe principal dwelling of a consumer may have a direct or indirect interest, financial or otherwise, in the property or transaction involving the appraisal.
 
 #### (e) Mandatory reporting
 
@@ -42,7 +42,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, withinthe meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
+&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
 
 #### (2) Interim final regulations
 
@@ -82,7 +82,7 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 #### (2) Subsequent violations
 
-&emsp;In the case of any person on whom a civil penalty has been imposed under paragraph (1), paragraph (1) shall be applied by substituting "$20,000" for "$10,000" with respect to all subsequent violations.
+&emsp;In the case of any person on whom a civil penalty has been imposed under paragraph (1),paragraph (1) shall be applied by substituting "$20,000" for "$10,000" with respect to all subsequent violations.
 
 #### (3) Assessment
 

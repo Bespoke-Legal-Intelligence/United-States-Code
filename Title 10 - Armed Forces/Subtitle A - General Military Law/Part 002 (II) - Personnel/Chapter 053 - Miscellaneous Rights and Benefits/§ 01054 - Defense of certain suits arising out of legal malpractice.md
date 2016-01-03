@@ -34,7 +34,7 @@ Subsec. (g). Pub. L. 100–448, §15(a)(2), inserted reference to the Secretary 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–448, §15(b), Sept. 28, 1988, 102 Stat. 1845, provided that: "The amendments made by subsection\(a) \[amending this section\] shall apply only to claims accruing on or after the date of the enactment of this Act \[Sept. 28, 1988\], regardless of when the alleged negligent act or omission occurred."
+Pub. L. 100–448, §15(b), Sept. 28, 1988, 102 Stat. 1845, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only to claims accruing on or after the date of the enactment of this Act \[Sept. 28, 1988\], regardless of when the alleged negligent act or omission occurred."
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ Before prescribing any labeling rules for a type (or class) of covered equipment
 
 &emsp;(A) publish proposed labeling rules in the Federal Register, and
 
-&emsp;(B) afford interested persons an opportunity (of not less than 45 days' duration) to pre- sentoral and written data, views, and arguments on the proposed rules.
+&emsp;(B) afford interested persons an opportunity (of not less than 45 days' duration) to pre- sent oral and written data, views, and arguments on the proposed rules.
 
 (2) A labeling rule prescribed under this section shall take effect not later than 3 months after the date of prescription of such rule, except that such rules may take effect not later than 6 months after such date of prescription if the Secretary determines that such extension is necessary to allow persons subject to such rules adequate time to come into compliance with such rules.
 

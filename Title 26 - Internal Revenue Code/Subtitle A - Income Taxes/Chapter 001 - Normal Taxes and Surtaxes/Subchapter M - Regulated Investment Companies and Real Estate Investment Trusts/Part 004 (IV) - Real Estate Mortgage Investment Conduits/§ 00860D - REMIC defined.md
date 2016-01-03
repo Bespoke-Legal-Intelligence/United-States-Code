@@ -48,7 +48,7 @@ For purposes of this title, the terms "real estate mortgage investment conduit" 
 
 > &emsp;&emsp;then, notwithstanding such terminating event, such entity shall be treated as continuing to be a REMIC (or such cessation shall be disregarded for purposes of subparagraph (A)) whichever the Secretary determines to be appropriate.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, titleI, §1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, §11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, §11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
 
 #### Amendments
 

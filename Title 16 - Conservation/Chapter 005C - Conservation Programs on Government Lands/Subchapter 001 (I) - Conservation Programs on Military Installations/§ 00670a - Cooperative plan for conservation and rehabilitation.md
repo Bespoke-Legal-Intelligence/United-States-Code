@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(i) To facilitate the program, the Secretary of each military department shall prepare and implement an integrated natural resources management plan for each military installation in the United States under the jurisdiction of the Secretary, unless the Secretary determines that the absence of significant natural resources on a particular installation makes preparation of such a plan inappropriate.
 
-&emsp;&emsp;(ii) The Secretary of a military department may, subject to the availability of appropriations, develop and implement an integrated natural resources management plan for a State-owned National Guard installation. Such a plan shall be developed and implemented in coordination with the chief executive officer of the State in which the State-owned National Guard installation is located. Such a plan is deemed, for purposes of any other provision of law, to be for lands or other geographical areas owned or controlled by the Department of Defense, or designated for its use.
+&emsp;&emsp;(ii) The Secretary of a military department may, subject to the availability of appropriations, develop and implement an integrated natural resources management plan for a State-owned National Guard installation. Such a plan shall be developed and implemented in coordination with the chief executive officer of the State in which the State-owned National Guard installation is located. Such a plan is deemed, for purposesof any other provision of law, to be for lands or other geographical areas owned or controlled by the Department of Defense, or designated for its use.
 
 #### (2) Cooperative preparation
 
@@ -42,7 +42,7 @@
 
 #### (b) Required elements of plans
 
-Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—
+Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—
 
 &emsp;(1) shall, to the extent appropriate and applicable, provide for—
 
@@ -76,7 +76,7 @@ Consistent with the use of military installations and State-owned National Guard
 
 #### (c) Prohibitions on sale and lease of lands unless effects compatible with plan
 
-After an integrated natural resources management plan is agreed to under subsection (a) of this section—
+After an integrated natural resources management plan is agreed to under subsection (a)—
 
 &emsp;(1) no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
 
@@ -86,7 +86,7 @@ After an integrated natural resources management plan is agreed to under subsect
 
 #### (d) Implementation and enforcement of integrated natural resources management plans
 
-With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section—
+With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a)—
 
 &emsp;(1) neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
 
@@ -168,9 +168,9 @@ Pub. L. 112–81, §312(b)(1)(E)(i), inserted heading.
 
 <b>1999</b>—Subsec. (f)(3)(A). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located."
+<b>1997</b>—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of Defense is authorized tocarry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located."
 
-Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, "Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—" for "Each cooperative plan entered into under subsection (a) of this section—".
+Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, "Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—" for "Each cooperative plan entered into under subsection (a)—".
 
 Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: "shall provide for—
 
@@ -254,7 +254,7 @@ Review.—Not later than 270 days after the date of enactment of this Act \[Nov.
 
 &emsp;"(2)
 
-Report to congress.—Not later than one year after the date of enactment of this Act, the Secretary of Defense shall submit to Congress a report on the reviews conducted under paragraph (1). The report shall include—
+Report to congress.—Not later than one year after the date of enactment of this Act, the Secretary of Defense shall submit to Congress a report on thereviews conducted under paragraph (1). The report shall include—
 
 &emsp;&emsp;"(A) a list of the military installations reviewed under paragraph (1) for which the Secretary of the appropriate military department determines that the preparation of an integrated natural resources management plan is not appropriate; and
 

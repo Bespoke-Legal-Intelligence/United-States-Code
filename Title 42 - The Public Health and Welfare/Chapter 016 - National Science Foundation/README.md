@@ -61,6 +61,7 @@
 | 1862p–13. | Tribal colleges and universities program. |
 | 1862p–14. | Broader Impacts Review Criterion. |
 | 1862p–15. | Twenty-first century graduate education. |
+| [1862q.](%C2%A7%2001862q%20-%20Informal%20STEM%20education.md) | Informal STEM education. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
@@ -164,6 +165,7 @@
 - [&sect; 01862p&#8211;13 - Tribal colleges and universities program](%C2%A7%2001862p%E2%80%9313%20-%20Tribal%20colleges%20and%20universities%20program.md)
 - [&sect; 01862p&#8211;14 - Broader Impacts Review Criterion](%C2%A7%2001862p%E2%80%9314%20-%20Broader%20Impacts%20Review%20Criterion.md)
 - [&sect; 01862p&#8211;15 - Twenty-first century graduate education](%C2%A7%2001862p%E2%80%9315%20-%20Twenty-first%20century%20graduate%20education.md)
+- [&sect; 01862q - Informal STEM education](%C2%A7%2001862q%20-%20Informal%20STEM%20education.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)

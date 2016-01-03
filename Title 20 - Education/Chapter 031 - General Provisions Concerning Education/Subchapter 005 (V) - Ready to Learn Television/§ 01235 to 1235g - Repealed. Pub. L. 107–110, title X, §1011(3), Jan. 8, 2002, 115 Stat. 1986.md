@@ -6,7 +6,7 @@ Section 1235a, Pub. L. 90–247, title IV, §472, formerly Pub. L. 89–10, titl
 
 Section 1235b, Pub. L. 90–247, title IV, §473, formerly Pub. L. 89–10, title IV, §4703, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3587; renumbered §473 of Pub. L. 90–247, Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, set forth duties of Secretary of Education.
 
-Section 1235c, Pub. L. 90–247, title IV, §474, formerly Pub. L. 89–10, title IV, §4704, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §474 of Pub.L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(B), May 18, 1994, 108 Stat. 649, related to submission of applications.
+Section 1235c, Pub. L. 90–247, title IV, §474, formerly Pub. L. 89–10, title IV, §4704, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §474 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(B), May 18, 1994, 108 Stat. 649, related to submission of applications.
 
 Section 1235d, Pub. L. 90–247, title IV, §475, formerly Pub. L. 89–10, title IV, §4705, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §475 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, §1062(5), Jan. 8, 2002, 115 Stat. 2088, required annual report to Secretary by any entity receiving funds and biannual report to Congress by Secretary.
 
@@ -15,8 +15,6 @@ Section 1235e, Pub. L. 90–247, title IV, §476, formerly Pub. L. 89–10, titl
 Section 1235f, Pub. L. 90–247, title IV, §477, formerly Pub. L. 89–10, title IV, §4707, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §477 of Pub. L. 90–247, Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, §1062(6), Jan. 8, 2002, 115 Stat. 2088, related to administrative costs.
 
 Section 1235g, Pub. L. 90–247, title IV, §478, formerly Pub. L. 89–10, title IV, §4708, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §478 of Pub. L. 90–247, Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, defined "distance learning" for purposes of this subchapter.
-
-See section 6775 of this title.
 
 #### Effective Date of Repeal
 

@@ -70,7 +70,7 @@ Selection of Energy Conservation Measures.—For the purpose of implementing the
 
 Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—(1) It shall be the goal of the Department of Defense—
 
-&emsp;(A) to produce or procure not less than 25 percent of the total quantity of facility energy it consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
+&emsp;(A) to produce or procure not less than 25 percent of the total quantity of facility energyit consumes within its facilities during fiscal year 2025 and each fiscal year thereafter from renewable energy sources; and
 
 &emsp;(B) to produce or procure facility energy from renewable energy sources whenever the use of such renewable energy sources is consistent with the energy performance goals and energy performance master plan for the Department and supported by the special considerations specified in subsection (c).
 
@@ -206,7 +206,7 @@ Policy required.—Not later than 180 days after the date of enactment of this A
 
 &emsp;"(A) Favorable consideration for energy security in the design and development of energy projects on the military installation that will use renewable energy sources.
 
-&emsp;"(B) Guidance for commanders of military installations inside the United States on planning measuresto minimize the effects of a disruption of services by a utility that sells natural gas, water, or electric energy to those installations in the event that a disruption occurs.
+&emsp;"(B) Guidance for commanders of military installations inside the United States on planning measures to minimize the effects of a disruption of services by a utility that sells natural gas, water, or electric energy to those installations in the event that a disruption occurs.
 
 "(2)
 
@@ -232,7 +232,7 @@ Pub. L. 112–81, div. B, title XXVIII, §2829, Dec. 31, 2011, 125 Stat. 1694, p
 
 Establishment of Training Policy.—The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
 
-&emsp;"(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contracting options, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
+&emsp;"(1) improve the knowledge, skills, and abilities of energy managers by ensuring understanding of existing energy laws, regulations, mandates, contractingoptions, local renewable portfolio standards, current renewable energy technology options, energy auditing, and options to reduce energy consumption;
 
 &emsp;"(2) improve consistency among energy managers throughout the Department in the performance of their responsibilities;
 
@@ -384,7 +384,7 @@ Fully Burdened Cost of Fuel Defined.—In this section, the term 'fully burdened
 
 #### Mitigation of Power Outage Risks for Department of Defense Facilities and Activities
 
-Pub. L. 110–417, \[div. A\], title III, §335, Oct. 14, 2008, 122 Stat. 4422, provided that:
+Pub. L. 110–417, \[div. A\], title III, §335, Oct. 14, 2008, 122 Stat. 4422, as amended by Pub. L. 114–92, div. A, title X, §1079(d)(1), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 "(a)
 
@@ -404,19 +404,7 @@ Additional considerations.—In developing the risk mitigation plans under parag
 
 &emsp;&emsp;"(A) prioritize the mission critical installations, facilities, and activities that are subject to the greatest and most urgent risks; and
 
-&emsp;&emsp;"(B) consider the cost effectiveness of risk mitigation options.
-
-"(c)
-
-Annual Report.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscalyear thereafter (as submitted with the budget of the President under section 1105(a) of title 31, United States Code).
-
-&emsp;"(2)
-
-Content.—Each report submitted under paragraph (1) shall describe the integrated prioritized plans developed under subsection (b) and the progress made toward achieving the goals established under such subsection."
+&emsp;&emsp;"(B) consider the cost effectiveness of risk mitigation options."
 
 #### Use of Energy Efficient Lighting Fixtures and Bulbs in Department of Defense Facilities
 

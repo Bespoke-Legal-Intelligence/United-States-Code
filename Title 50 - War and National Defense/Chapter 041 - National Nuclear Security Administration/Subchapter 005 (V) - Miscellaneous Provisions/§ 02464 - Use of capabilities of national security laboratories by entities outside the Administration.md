@@ -8,3 +8,79 @@ The Secretary of Energy, in consultation with the Administrator, shall establish
 
 <b>2013</b>—Pub. L. 113–66 inserted "of Energy" after "Secretary".
 
+#### Establishment of Microlab Pilot Program
+
+Pub. L. 114–92, div. C, title XXXI, §3120, Nov. 25, 2015, 129 Stat. 1198, provided that:
+
+"(a)
+
+In General.—The Secretary of Energy, in consultation with the directors of the national security laboratories, may establish a microlab pilot program under which the Secretary establishes a microlab for the purposes of—
+
+&emsp;"(1) enhancing collaboration with regional research groups, such as institutions of higher education and industry groups;
+
+&emsp;"(2) accelerating technology transfer from national security laboratories to the marketplace; and
+
+&emsp;"(3) promoting regional workforce development through science, technology, engineering, and mathematics instruction and training.
+
+"(b)
+
+Criteria.—
+
+&emsp;"(1)
+
+In general.—In determining the placement of a microlab under subsection (a), the Secretary shall consider—
+
+&emsp;&emsp;"(A) the interest of a national security laboratory in establishing a microlab;
+
+&emsp;&emsp;"(B) the existence of an available facility that has the capability to house a microlab;
+
+&emsp;&emsp;"(C) whether employees of a national security laboratory and persons from academia, industry, and government are available to be assigned to the microlab; and
+
+&emsp;&emsp;"(D) cost-sharing or in-kind contributions from State and local governments and private industry.
+
+&emsp;"(2)
+
+Cost-sharing.—The Secretary shall, to the extent feasible, require cost-sharing or in-kind contributions described in paragraph (1)(D) to cover the full cost of the microlab under subsection (a).
+
+"(c)
+
+Timing.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary, in collaboration with such directors, shall—
+
+&emsp;"(1) not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], begin the process of determining the placement of the microlab under subsection (a); and
+
+&emsp;"(2) not later than one year after such date of enactment, implement the microlab pilot program under this section.
+
+"(d)
+
+Reports Required.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary shall submit to the appropriate congressional committees—
+
+&emsp;"(1) not later than 120 days after the date of the implementation of the program, a report that provides an update on the implementation of the program; and
+
+&emsp;"(2) not later than one year after the date of the implementation of the program, a report on the program, including findings and recommendations of the Secretary with respect to the program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Energy and Natural Resources of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Science, Space, and Technology, and the Committee on Energy and Commerce of the House of Representatives.
+
+&emsp;"(2)
+
+Microlab.—The term 'microlab' means a facility that is—
+
+&emsp;&emsp;"(A) in close proximity to, but outside the perimeter of, a national security laboratory;
+
+&emsp;&emsp;"(B) an extension of or affiliated with a national security laboratory; and
+
+&emsp;&emsp;"(C) accessible to the public.
+
+&emsp;"(3)
+
+National security laboratory.—The term 'national security laboratory' has the meaning given that term in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)."
+

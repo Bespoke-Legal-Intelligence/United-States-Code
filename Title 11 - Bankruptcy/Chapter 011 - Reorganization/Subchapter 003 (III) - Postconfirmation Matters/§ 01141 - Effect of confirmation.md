@@ -1,6 +1,6 @@
 ### §1141. Effect of confirmation
 
-(a) Except as provided in subsections (d)(2) and (d)(3) of this section, the provisions of a confirmed plan bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of such creditor, equity security holder, or generalpartner is impaired under the plan and whether or not such creditor, equity security holder, or general partner has accepted the plan.
+(a) Except as provided in subsections (d)(2) and (d)(3) of this section, the provisions of a confirmed plan bind the debtor, any entity issuing securities under the plan, any entity acquiring property under the plan, and any creditor, equity security holder, or general partner in the debtor, whether or not the claim or interest of such creditor, equity security holder, or general partner is impaired under the plan and whether or not such creditor, equity security holder, or general partner has accepted the plan.
 
 (b) Except as otherwise provided in the plan or the order confirming the plan, the confirmation of a plan vests all of the property of the estate in the debtor.
 
@@ -74,7 +74,7 @@ Subsection (a) of this section makes the provisions of a confirmed plan binding 
 
 Unless the plan or the order confirming the plan provides otherwise, the confirmation of a plan vests all of the property of the estate in the debtor and releases it from all claims and interests of creditors, equity security holders and general partners.
 
-Subsection (d) contains the discharge for a reorganized debtor. Paragraph (1) specifies that the confirmation of a plan discharges the debtor from any debt thatarose before the date of the order for relief unless the plan or the order confirming the plan provides otherwise. The discharge is effective against those claims whether or not proof of the claim is filed (or deemed filed), and whether or not the claim is allowed. The discharge also terminates all rights and interests of equity security holders and general partners provided for by the plan. The paragraph permits the plan or the order confirming the plan to provide otherwise, and excepts certain debts from the discharge as provided in paragraphs (2) and (3).
+Subsection (d) contains the discharge for a reorganized debtor. Paragraph (1) specifies that the confirmation of a plan discharges the debtor from any debt that arose before the date of the order for relief unless the plan or the order confirming the plan provides otherwise. The discharge is effective against those claims whether or not proof of the claim is filed (or deemed filed), and whether or not the claim is allowed. The discharge also terminates all rights and interests of equity security holders and general partners provided for by the plan. The paragraph permits the plan or the order confirming the plan to provide otherwise, and excepts certain debts from the discharge as provided in paragraphs (2) and (3).
 
 Paragraph (2) of subsection (d) makes clear what taxes remain nondischargeable in the case of a corporate debtor emerging from a reorganization under chapter 11. Nondischargeable taxes in such a reorganization are the priority taxes (under section 507) and tax payments which come due during and after the proceeding under a deferred or part-payment agreement which the debtor had entered into with the tax authority before the bankruptcy proceedings began. On the other hand, a corporation which is taken over by its creditors through a plan of reorganization will not continue to be liable for nonpriority taxes arising from the corporation's prepetition fraud, failure to file a return, or failure to file a timely return, since the creditors who take over the reorganized company should not bear the burden of acts for which the creditors were not at fault.
 
@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to
 
 #### Effective Date of 2005 Amendment
 
-Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and 708 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and708 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

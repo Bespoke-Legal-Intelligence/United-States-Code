@@ -178,7 +178,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Adjusted basis
 
-&emsp;&emsp;In the case of property acquired by the lessor in a transaction to which section 1031 or1033 applies, the adjusted basis of such property for purposes of this section shall be equal to the lesser of—
+&emsp;&emsp;In the case of property acquired by the lessor in a transaction to which section 1031 or 1033 applies, the adjusted basis of such property for purposes of this section shall be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the fair market value of the property as of the beginning of the lease term, or
 

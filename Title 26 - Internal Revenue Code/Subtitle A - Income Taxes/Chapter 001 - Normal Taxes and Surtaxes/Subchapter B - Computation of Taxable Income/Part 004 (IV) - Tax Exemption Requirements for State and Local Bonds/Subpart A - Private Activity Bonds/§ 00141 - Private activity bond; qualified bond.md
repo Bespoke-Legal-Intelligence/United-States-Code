@@ -20,7 +20,7 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (2) Private security or payment test
 
-&emsp;Except as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of such issue or any underlying arrangement) directly or indirectly—
+&emsp;Except as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of suchissue or any underlying arrangement) directly or indirectly—
 
 &emsp;&emsp;(A) secured by any interest in—
 
@@ -198,11 +198,11 @@ For purposes of this title, the term "private activity bond" means any bond issu
 
 #### (6) Treatment of joint action agencies
 
-&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units,this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
+&emsp;With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property.
 
 #### (7) Exception for qualified electric and natural gas supply contracts
 
-&emsp;The term "nongovernmental output property" shall not include any contract for the prepayment of electricity or natural gas which is not investment property under section 148(b)(2).
+&emsp;The term "nongovernmental output property" shall not include any contract for theprepayment of electricity or natural gas which is not investment property under section 148(b)(2).
 
 #### (e) Qualified bond
 
@@ -444,9 +444,9 @@ Qualified bond.—For purposes of paragraph (1), the term 'qualified bond' means
 
 &emsp;"(3)
 
-Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate)of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
+Certain amendments to apply.—The following provisions of the 1986 Code shall be treated as included in section 103 and section 103A (as appropriate) of the 1954 Code and shall apply to refunding bonds described in paragraph (1):
 
-&emsp;&emsp;"(A) The requirements of section 147(f) (relating to public approval required for private activity bonds) but only if the maturity date of the refunding bond is later than the maturity date of the refunded bond.
+&emsp;&emsp;"(A) The requirements of section 147(f) (relating to public approval required for private activitybonds) but only if the maturity date of the refunding bond is later than the maturity date of the refunded bond.
 
 &emsp;&emsp;"(B) The requirements of section 147(g) (relating to restriction on issuance costs financed by issue).
 
@@ -558,7 +558,7 @@ Application to later issues.—Any bond to which section 144(a)(10) or 145(b) of
 
 Mortgage and Student Loan Targeting Rules To Apply to Loans Made More Than 3
 
-Years After the Date of the Original Issue.—Subsections (a)(3)and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code with respect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
+Years After the Date of the Original Issue.—Subsections (a)(3) and (b)(3) shall be treated as including the requirements of subsections (e) and (f) of section 143 and paragraphs (3) and (4) of section 144(b) of the 1986 Code withrespect to bonds the proceeds of which are used to finance loans made more than 3 years after the date of the issuance of the original bond.
 
 #### "SEC. 1314. SPECIAL RULES WHICH OVERRIDE OTHER RULES IN THIS SUBTITLE.
 
@@ -668,7 +668,7 @@ In General.—Except as otherwise provided in this section, section 146(f) of th
 
 "(b)
 
-Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to anelection under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shall not be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
+Certain Bonds for Carryforward Projects Outside of Volume Cap.—Bonds issued pursuant to an election under section 103(n)(10) of the 1954 Code (relating to elective carryforward of unused limitation for specified project) made before November 1, 1985, shallnot be taken into account under section 146 of the 1986 Code if the carryforward project is a facility to which the amendments made by section 1301 \[for classification see section 1311(a) of this note\] do not apply by reason of section 1312(a) of this Act.
 
 "(c)
 
@@ -790,7 +790,7 @@ limitation.—The aggregate face amount of outstanding bonds to which this subse
 
 &emsp;"(4)
 
-Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) ofsuch Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (or which is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
+Application of section 147(b).—A bond to which this subsection applies (other than a refunding bond) shall be treated as meeting the requirements of section 147(b) of the 1986 Code if the average maturity (determined in accordance with section 147(b)(2)(A) of such Code) of the issue of which such bond is a part does not exceed 20 years. A bond issued to refund (orwhich is part of a series of bonds issued to refund) a bond described in the preceding sentence shall be treated as meeting the requirements of such section if the refunding bond has a maturity date not later than the date which is 20 years after the date on which the original bond was issued.
 
 "(d)
 
@@ -1090,7 +1090,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $35,000,000.
 
-&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen,Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
+&emsp;"(E) A facility is described in this subparagraph if such facility is a baseball stadium located in Bergen, Essex, Union, Middlesex, or Hudson County, New Jersey with respect to which governmental action occurred on November 7, 1985. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $150,000,000.
 
 &emsp;"(F) A facility is described in this subparagraph if—
 
@@ -1282,7 +1282,7 @@ Redevelopment projects.—A bond issued as part of an issue 95 percent or more o
 
 &emsp;"(A) A project is described in this subparagraph if it was the subject of a city ordinance numbered 82–115 and adopted on December 2, 1982, or numbered 9590 and adopted on April 6, 1983. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $9,000,000.
 
-&emsp;"(B) A project is described in this subparagraph if it is a redevelopment project for an area in a city described in paragraph (3)(C) which was designated as commercially blighted on November 14, 1975, by the city council and the redevelopment plan for which will be approved by the city council before January 31, 1987. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
+&emsp;"(B) A project is described in this subparagraph if it is a redevelopment project for an area in a city described in paragraph (3)(C) which was designated as commercially blighted on November 14, 1975, by thecity council and the redevelopment plan for which will be approved by the city council before January 31, 1987. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
 
 &emsp;"(C) A project is described in this subparagraph if it is a redevelopment project for an area in a city described in paragraph (3)(C) which was designated as commercially blighted on March 28, 1979, by the city council and the redevelopment plan for which was approved by the city council on June 20, 1984. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $100,000,000.
 
@@ -1480,7 +1480,7 @@ Convention centers.—A bond issued as part of an issue 95 percent or more of th
 
 &emsp;&emsp;"(i) such facility is located in a city which was the subject of a convention center market analysis or study dated March 1983, and prepared by a nationally recognized accounting firm,
 
-&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by theGovernor of the State within which such facility will be located and the mayor of the capital city of such State, and
+&emsp;&emsp;"(ii) such facility's location was approved in December 1985 by a task force created jointly by the Governor of the State within which such facilitywill be located and the mayor of the capital city of such State, and
 
 &emsp;&emsp;"(iii) the size of such facility is not more than 200,000 square feet.
 

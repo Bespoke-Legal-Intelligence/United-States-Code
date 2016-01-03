@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) 2 percent.
 
-&emsp;(B) If the percent change in the price index for the year exceeds 3 percent, each annuitysubject to adjustment under this subsection shall be increased by the excess of—
+&emsp;(B) If the percent change in the price index for the year exceeds 3 percent, each annuity subject to adjustment under this subsection shall be increased by the excess of—
 
 &emsp;&emsp;(i) the percent change in the price index (rounded to the nearest one-tenth of 1 percent), over
 

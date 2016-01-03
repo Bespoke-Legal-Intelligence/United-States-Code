@@ -1,6 +1,6 @@
 ### §1135. Regulations
 
-Subject to subchapter II of this chapter and section 1029 of this title, the Secretary may prescribe such regulations as he finds necessary or appropriate to carry out the provisions of this subchapter. Among other things, such regulations may define accounting, technical and trade terms used in such provisions; may prescribe forms; and may provide for the keeping of books and records, and for the inspection of such books and records (subject to section 1134(a) and (b) of this title).
+Subject to subchapter II and section 1029 of this title, the Secretary may prescribe such regulations as he finds necessary or appropriate to carry out the provisions of this subchapter. Among other things, such regulations may define accounting, technical and trade terms used in such provisions; may prescribe forms; and may provide for the keeping of books and records, and for the inspection of such books and records (subject to section 1134(a) and (b) of this title).
 
 (Pub. L. 93–406, title I, §505, Sept. 2, 1974, 88 Stat. 894.)
 
@@ -30,7 +30,7 @@ In general.—Except as a defense, no rule or regulation adopted pursuant to the
 
 &emsp;&emsp;&emsp;"(iv) which is part of an issue or class of securities which is registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) (or is so registered within three years of the effective date of the registration statement of such securities for purposes of the Securities Act of 1933: <i>Provided</i>, That the issuer provides plan investors with such reports with respect to the offering period as are required with respect to such period by the Securities and Exchange Commission under such Acts and the rules and regulations promulgated thereunder).
 
-> &emsp;In the case of partnerships organized prior to enactment of this section, the requirements of subparagraphs (iii) and (iv) shall not apply to initial limited partnership interests in an entity otherwise described above: <i>Provided</i>, That such entity was the subject of an effective registration under the Securities Act of 1933 prior to the date of the enactment of this section, such interests were issued solely for partnership organizational purposes in compliance with State limited partnership laws, and such interest has a value as of the date of issue of less than $20,000 and represents less than one percent of the total interests outstanding as of the completion of the offering period.
+> &emsp;In the case of partnerships organized prior to enactment of this section, the requirements of subparagraphs (iii) and (iv) shall not apply to initial limited partnership interests in an entity otherwise described above: <i>Provided</i>, That such entity was the subject of an effective registration under the Securities Act of1933 prior to the date of the enactment of this section, such interests were issued solely for partnership organizational purposes in compliance with State limited partnership laws, and such interest has a value as of the date of issue of less than $20,000 and represents less than one percent of the total interests outstanding as of the completion of the offering period.
 
 &emsp;"(2)
 
@@ -80,7 +80,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;&emsp;"(E) any requirement that advance notice of a transfer or assignment be given to the entity and any requirement regarding execution of documentation evidencing such transfer or assignment (including documentation setting forth representations from either or both of the transferor or transferee as to compliance with any restriction or requirement described in this section or requiring compliance with the entity's governing instruments);
 
-&emsp;&emsp;"(F) any restriction on substitution of an assignee as a limited partner of a partnership, including a general partner consent requirement: <i>Provided</i>, That the economic benefits of ownership of the assignor may be transferred or assigned without regard to such restriction or consent (otherthan compliance with any other restriction described in this section);
+&emsp;&emsp;"(F) any restriction on substitution of an assignee as a limited partner of a partnership, including a general partner consent requirement: <i>Provided</i>, That the economic benefits of ownership of the assignor may be transferred or assigned without regard to such restriction or consent (other than compliance with any other restriction described in this section);
 
 &emsp;&emsp;"(G) any administrative procedure which establishes an effective date, or an event such as the completion of the offering, prior to which a transfer or assignment will not be effective; and
 

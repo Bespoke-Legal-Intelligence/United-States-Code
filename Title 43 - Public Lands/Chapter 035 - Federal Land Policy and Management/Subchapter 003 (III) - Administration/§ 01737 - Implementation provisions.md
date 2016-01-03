@@ -20,7 +20,7 @@ The Secretary may recruit, without regard to the civil service classification la
 
 In accepting such services of individuals as volunteers, the Secretary—
 
-&emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or inpolicymaking processes or to displace any employee; and
+&emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
 
 &emsp;(2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
 
@@ -36,7 +36,7 @@ Volunteers shall not be deemed employees of the United States except for the pur
 
 #### (g) Authorization of appropriations
 
-Effective with fiscal years beginning after September 30, 1984, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d) of this section, but not more than $250,000 may be appropriated for any one fiscal year.
+Effective with fiscal years beginning after September 30, 1984, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d), but not more than $250,000 may be appropriated for any one fiscal year.
 
 (Pub. L. 94–579, title III, §307, Oct. 21, 1976, 90 Stat. 2766; Pub. L. 98–540, §2, Oct. 24, 1984, 98 Stat. 2718; Pub. L. 101–286, title II, §204(c), May 9, 1990, 104 Stat. 175.)
 

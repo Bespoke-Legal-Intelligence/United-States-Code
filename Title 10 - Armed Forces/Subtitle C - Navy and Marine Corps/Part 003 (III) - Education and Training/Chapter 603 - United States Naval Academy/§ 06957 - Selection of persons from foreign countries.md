@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of the Navy may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the midshipmen under section 6954 of this title.
 
-(2) The Secretary of the Navy, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Navy may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
+(2) The Secretary of the Navy, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from eachcountry. The Secretary of the Navy may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
 (3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Navy shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
 
@@ -18,7 +18,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 6958(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat.658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, §534(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, §533(b)(1), (2), Dec. 28, 2001, 115 Stat. 1106.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, §1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, §534(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, §533(b)(1), (2), Dec. 28, 2001, 115 Stat. 1106.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally. Prior to amendment, 
 
 Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, redesignating former subsec. (c) as par. (1) and in par. (1), as so redesignated, substituted "pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations" for "same pay and allowances, to be paid from the same appropriations, as midshipmen", and added par. (2). Former subsec. (b), relating to the authority of the Secretary of the Navy to limit the numbers of foreigners studying at the Academy, was struck out.
 
-Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted "as a midshipman at the Academy appointed from the United States" for "as a midshipman", and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted "A person" for "However, a person" and "an armed force of the United States" for "the Navy or the Marine Corps". Former subsec. (c) was redesignated (b)(1).
+Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted "as a midshipman at the Academy appointed from the United States" for "as a midshipman", and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of formersubsec. (d) as par. (2) and in par. (2), as so designated, substituted "A person" for "However, a person" and "an armed force of the United States" for "the Navy or the Marine Corps". Former subsec. (c) was redesignated (b)(1).
 
 Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, omitted subsec. (d) and incorporated its provisions into subsec. (c).
 

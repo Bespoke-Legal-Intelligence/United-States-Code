@@ -32,7 +32,7 @@ The reservation under law of electric power primarily for use in the State of Mo
 
 #### (g) Rights of States to prohibit recovery of resource construction costs through retail rates
 
-Nothing in this chapter shall be construed to affect or modify the right of any State to prohibit utilities regulated by the appropriate State regulatory body from recovering, through their retail rates, costs during any period of resource construction.
+Nothing in this chapter shall be construed to affect or modify the right of any State to prohibit utilities regulated by the appropriate State regulatory body from recovering, throughtheir retail rates, costs during any period of resource construction.
 
 #### (h) Water appropriations
 

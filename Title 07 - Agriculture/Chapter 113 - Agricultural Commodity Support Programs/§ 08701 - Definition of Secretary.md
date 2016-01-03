@@ -66,7 +66,7 @@ In general.—Notwithstanding subsection (a), the Secretary of Agriculture shall
 
 &emsp;&emsp;"(B)
 
-Milk income loss contract program.—\[Amended former section 8773 of this title.\]
+Milk income loss contract program.—\[Amended section 8773 of this title.\]
 
 &emsp;"(3)
 

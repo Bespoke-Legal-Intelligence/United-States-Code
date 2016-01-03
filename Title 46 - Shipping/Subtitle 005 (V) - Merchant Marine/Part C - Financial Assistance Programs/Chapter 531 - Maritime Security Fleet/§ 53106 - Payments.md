@@ -6,17 +6,21 @@ Annual Payment.—
 
 &emsp;(1)
 
-In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
+In general.—The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, foreach vessel that is covered by the operating agreement, an amount equal to—
 
 &emsp;&emsp;(A) $2,600,000 for each of fiscal years 2006, 2007, and 2008;
 
-&emsp;&emsp;(B) $2,900,000,<sup>1</sup> for each of fiscal years 2009, 2010, and 2011;
+&emsp;&emsp;(B) $2,900,000 for each of fiscal years 2009, 2010, and 2011;
 
-&emsp;&emsp;(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, 2015, 2016, 2017, and 2018;
+&emsp;&emsp;(C) $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
 
-&emsp;&emsp;(D) $3,500,000 for each of fiscal years 2019, 2020, and 2021; and
+&emsp;&emsp;(D) $4,999,950 for fiscal year 2017;
 
-&emsp;&emsp;(E) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+&emsp;&emsp;(E) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+
+&emsp;&emsp;(F) $5,233,463 for fiscal year 2021; and
+
+&emsp;&emsp;(G) $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
 
 &emsp;(2)
 
@@ -68,9 +72,15 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(B). Pub. L. 114–113, §101(e)(1)(A), struck out comma before "for each".
+
+Subsec. (a)(1)(C). Pub. L. 114–113, §101(e)(1)(B), substituted "and 2015;" for "2015, 2016, 2017, and 2018;".
+
+Subsec. (a)(1)(D) to (G). Pub. L. 114–113, §101(e)(1)(C), (D), added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which read as follows: "$3,500,000 for each of fiscal years 2019, 2020, and 2021; and".
 
 <b>2013</b>—Subsec. (a)(1)(B) to (E). Pub. L. 112–239, §3508(f)(1), added subpars. (C) to (E) and struck out former subpar. (C) which read as follows: "$3,100,000 for each of fiscal years 2012 though 2025."
 
@@ -91,6 +101,4 @@ Subsec. (f). Pub. L. 109–364 added subsec. (f).
 #### Effective Date of 2013 Amendment
 
 Amendment by section 3508(f)(2) of Pub. L. 112–239 effective Dec. 31, 2014, see section 3508(j)(2) of Pub. L. 112–239, set out as a note under section 53101 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

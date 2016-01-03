@@ -30,7 +30,7 @@ Except as provided in subsection (d), the Presidential actions referred to in th
 
 &emsp;(13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-&emsp;&emsp;(A) the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\];
+&emsp;&emsp;(A) the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\];
 
 &emsp;&emsp;(B) the Arms Export Control Act \[22 U.S.C. 2751 et seq.\];
 
@@ -44,7 +44,7 @@ Except as provided in subsection (d), the Presidential actions referred to in th
 
 #### (b) Commensurate action
 
-Except as provided in subsection (d), the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) if such action is commensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title. The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
+Except as provided in subsection (d), the President may substitute any other action authorized by law for any action described in paragraphs (1) through (15) of subsection (a) if such action iscommensurate in effect to the action substituted and if the action would further the policy of the United States set forth in section 6401(b) of this title. The President shall seek to take all appropriate and feasible actions authorized by law to obtain the cessation of the violations. If commensurate action is taken, the President shall report such action, together with an explanation for taking such action, to the appropriate congressional committees.
 
 #### (c) Binding agreements
 
@@ -58,7 +58,7 @@ Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict 
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

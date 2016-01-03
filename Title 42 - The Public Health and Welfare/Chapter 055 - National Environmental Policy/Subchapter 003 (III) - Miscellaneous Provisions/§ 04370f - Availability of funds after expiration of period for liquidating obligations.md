@@ -6,5 +6,5 @@ For fiscal year 2001 and thereafter, the obligated balances of sums available in
 
 #### Codification
 
-Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 2001, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development,and Independent Agencies Appropriations Act, 2001, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 

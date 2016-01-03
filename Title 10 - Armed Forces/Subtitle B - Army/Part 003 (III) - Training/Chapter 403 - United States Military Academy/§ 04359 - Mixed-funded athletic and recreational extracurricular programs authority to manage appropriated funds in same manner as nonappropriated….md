@@ -6,7 +6,7 @@ Authority.—In the case of an Academy mixed-funded athletic or recreational ext
 
 (b)
 
-Covered Programs.—In this section, the term "Academy mixed-funded athletic or recreational extracurricular program" means an athletic or recreational extracurricular program of the Academy to which each of the following applies:
+Covered Programs.—In this section, the term "Academy mixed-funded athletic or recreational extracurricular program" means anathletic or recreational extracurricular program of the Academy to which each of the following applies:
 
 &emsp;(1) The program is not considered a morale, welfare, or recreation program.
 

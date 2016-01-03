@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term "transportation-related services" means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -204,7 +204,7 @@ Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, §216(2), inserted "importer or" b
 
 Subsec. (c)(2). Pub. L. 104–127, §216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator."
 
-Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: "Notwithstanding any provision of the Federal Property andAdministrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate."
+Subsec. (c)(4). Pub. L. 104–127, §216(3)(B), struck out heading and text of par. (4). Text read as follows: "Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate."
 
 Subsec. (f)(2)(D). Pub. L. 104–127, §216(4), added subpar. (D).
 

@@ -104,7 +104,7 @@ Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out forme
 
 &emsp;"(C) Service described in subsection (f)(6), except that no more than 10 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year."
 
-Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out formerpar. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
+Subsec. (f). Pub. L. 110–417, §524(c), in par. (3) substituted "Accrued joint experience" for "Cumulative service", in par. (4) struck out "(except that not more than 6 percent of all joint duty assignments may be considered to be under this paragraph at any time)" before period at end, added par. (6), and struck out former par. (6) which read as follows "A second joint duty assignment that is less than the period required under subsection (a), but not less than two years, without regard to whether a waiver was granted for such assignment under subsection (b).".
 
 Subsec. (g). Pub. L. 110–417, §524(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to cumulative service of an officer in joint duty assignments.
 
@@ -194,7 +194,7 @@ Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as am
 
 #### Length of Joint Duty Assignments
 
-Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 oftitle 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
+Pub. L. 99–433, title IV, §406(e), Oct. 1, 1986, 100 Stat. 1034, provided that: "Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered."
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

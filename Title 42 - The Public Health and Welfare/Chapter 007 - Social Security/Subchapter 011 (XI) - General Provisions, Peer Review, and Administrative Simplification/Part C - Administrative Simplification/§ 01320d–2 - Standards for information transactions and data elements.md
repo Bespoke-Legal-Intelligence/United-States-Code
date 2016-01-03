@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of carrying out paragraph (1)(B), the Secretary shall solicit, not later than January 1, 2012, and not less than every 3 years thereafter, input from entities described in subparagraph (B) on—
+&emsp;&emsp;For purposes of carrying out paragraph (1)(B), the Secretary shall solicit, not later than January 1, 2012, and not less than every3 years thereafter, input from entities described in subparagraph (B) on—
 
 &emsp;&emsp;&emsp;(i) whether there could be greater uniformity in financial and administrative activities and items, as determined appropriate by the Secretary; and
 
@@ -150,7 +150,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (1) In general
 
-&emsp;The Secretary shall adopt a single set of operating rules for each transaction referred to under subsection (a)(1) with the goal of creating as much uniformity in the implementation of the electronic standards as possible. Such operating rules shall be consensus-based and reflect the necessary business rules affecting health plans and health care providers and the manner in which they operate pursuant to standards issued under Health Insurance Portability and Accountability Act of 1996.
+&emsp;The Secretary shall adopt a single set of operating rules for each transaction referred to under subsection (a)(1) with the goal of creating as much uniformity in the implementation of the electronic standards as possible. Such operating rules shall be consensus-based and reflect the necessary business rules affecting health plans and health care providers and the manner in which they operate pursuant tostandards issued under Health Insurance Portability and Accountability Act of 1996.
 
 #### (2) Operating rules development
 
@@ -290,7 +290,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) Definition
 
-&emsp;&emsp;For the purposes of this subsection, the term "review committee' means a committee chartered by or within the Department of Health and Human services that has been designated by the Secretary to carry out this subsection, including—
+&emsp;&emsp;For the purposes of this subsection, the term "review committee' means a committee chartered by or within the Departmentof Health and Human services that has been designated by the Secretary to carry out this subsection, including—
 
 &emsp;&emsp;&emsp;(i) the National Committee on Vital and Health Statistics; or
 
@@ -352,7 +352,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penaltyfees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
+&emsp;&emsp;The Secretary of the Treasury, acting through the Financial Management Service, shall administer the collection of penalty fees from health plans that have been identified by the Secretary in the penalty fee report provided under paragraph (3).
 
 #### (B) Notice
 
@@ -432,7 +432,7 @@ Activities and Items for Initial Consideration.—For purposes of section 1173(a
 
 &emsp;"(3) Whether standardized forms could apply to financial audits required by health plans, Federal and State agencies (including State auditors, the Office of the Inspector General of the Department of Health and Human Services, and the Centers for Medicare \& Medicaid Services), and other relevant entities as determined appropriate by the Secretary.
 
-&emsp;"(4) Whether there could be greater transparency and consistency of methodologies and processes usedto establish claim edits used by health plans (as described in section 1171(5) of the Social Security Act (42 U.S.C. 1320d(5))).
+&emsp;"(4) Whether there could be greater transparency and consistency of methodologies and processes used to establish claim edits used by health plans (as described in section 1171(5) of the Social Security Act (42 U.S.C. 1320d(5))).
 
 &emsp;"(5) Whether health plans should be required to publish their timeliness of payment rules.
 
@@ -454,7 +454,7 @@ Use of revised crosswalk.—For purposes of paragraph (2), any revised crosswalk
 
 &emsp;"(4)
 
-Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification of Diseases not later than the date of implementation of such subsequent revision."
+Subsequent crosswalks.—For subsequent revisions of the International Classification of Diseases that are adopted by the Secretary as a standard code set under section 1173(c) of the Social Security Act (42 U.S.C. 1320d–2(c)), the Secretary shall, after consultation with the appropriate stakeholders, post on the website of the Centers for Medicare \& Medicaid Services a crosswalk between the previous and subsequent version of the International Classification ofDiseases not later than the date of implementation of such subsequent revision."
 
 #### Recommendations With Respect to Privacy of Certain Health Information
 

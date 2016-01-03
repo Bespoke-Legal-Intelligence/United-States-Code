@@ -28,7 +28,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113
 
 "(3) The transfer of joint trust funds outside the Court Registry shall not affect the supervisory jurisdiction of the district court under the Consent Decree or the Memorandum of Agreement and Consent Decree in United States v. State of Alaska (No. A91–081–CIV) over all expenditures of the joint trust funds.
 
-"(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of 'Operation Desert Shield/Desert Storm' Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees for the expenditure by or through a Federal agency must be deposited into the Fund.
+"(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of 'Operation Desert Shield/Desert Storm' Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees forthe expenditure by or through a Federal agency must be deposited into the Fund.
 
 "(5) All remaining settlement funds are eligible for the investment authority granted under this section so long as they are managed and allocated consistent with the Resolution of the Trustees adopted March 1, 1999, concerning the Restoration Reserve, as follows:
 

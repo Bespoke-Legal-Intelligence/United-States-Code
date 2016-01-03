@@ -36,7 +36,7 @@ Pub. L. 110–289, div. A, title I, §1133, July 30, 2008, 122 Stat. 2728, provi
 
 "(a)
 
-Transfer.—Each employee of the Department of Housing and Urban Development whose position responsibilities primarily involve the establishment and enforcement of the housing goals under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 et seq.) shall be transferred to the Federal Housing Finance Agency for employment, not later than the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 \[div. A (§§1001–1605) of Pub. L. 110–289, approved July 30, 2008\], and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
+Transfer.—Each employee of the Department of Housing and Urban Development whose position responsibilities primarily involve the establishment and enforcement of the housing goals under subpart B ofpart 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 et seq.) shall be transferred to the Federal Housing Finance Agency for employment, not later than the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 \[div. A (§§1001–1605) of Pub. L. 110–289, approved July 30, 2008\], and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
 
 "(b)
 
@@ -274,7 +274,7 @@ Disposition of Affairs.—During the 1-year period beginning on the date of enac
 
 "(c)
 
-Status of Employees Before Transfer.—The amendments made by titles I and II \[titles I (§§1101–1163) and II (§§1201–1218) of div. A of Pub. L. 110–289, see Tables for classification\] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
+Status of Employees Before Transfer.—The amendments made by titles I and II \[titles I\(§§1101–1163) and II (§§1201–1218) of div. A of Pub. L. 110–289, see Tables for classification\] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
 
 "(d)
 

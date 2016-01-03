@@ -14,7 +14,7 @@ System for Monitoring Adverse Reactions.—(1) The Secretary shall establish a s
 
 &emsp;(B) Periodic surveys of personnel to whom the vaccine is administered.
 
-&emsp;(C) A continuing longitudinal study of a pre-identified group of members of the armed forces (including men and women and members from all services).
+&emsp;(C) A continuing longitudinal study of a pre-identified group of members of the armedforces (including men and women and members from all services).
 
 &emsp;(D) Active surveillance of a sample of members to whom the anthrax vaccine has been administered that is sufficient to identify, at the earliest opportunity, any patterns of adverse reactions, the discovery of which might be delayed by reliance solely on the Vaccine Adverse Event Reporting System.
 

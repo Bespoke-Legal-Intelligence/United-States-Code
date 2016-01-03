@@ -2,7 +2,7 @@
 
 #### (a) Wildlife resources
 
-The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratorywaterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
+The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
 
 #### (b) Oil spills
 
@@ -26,7 +26,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 (2)(A) The Secretary of the Interior, in consultation with the Governor of Alaska, shall conduct a study of the issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 
-(B) The Secretary shall, no later than January 31, 1991, transmit a report to the Congress on the findings and conclusions reached as the result of the study carried out under this subsection.
+(B) The Secretary shall, no later than January 31, 1991, transmit a report to the Congress on thefindings and conclusions reached as the result of the study carried out under this subsection.
 
 #### (c) Treaty negotiations
 

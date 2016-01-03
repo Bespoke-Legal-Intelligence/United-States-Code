@@ -174,7 +174,7 @@
 
 #### (D) Report and recommendation
 
-&emsp;&emsp;The Tobacco Products Scientific Advisory Committee shall, within 60 days after the referral of a proposed regulation under this paragraph and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation.
+&emsp;&emsp;The Tobacco Products Scientific Advisory Committee shall, within 60 days after the referral of a proposed regulation under thisparagraph and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation.
 
 #### (E) Public availability
 

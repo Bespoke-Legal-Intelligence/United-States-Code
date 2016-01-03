@@ -2,7 +2,7 @@
 
 #### (a) Evaluation
 
-Each eligible entity receiving a grant under this division shall biennially evaluate the activities assisted under this division in accordance with the standards described in subsection (b) of this section and shall submit to the Secretary a copy of such evaluation. The evaluation shall permit service providers to track eligible student progress during the period such students are participating in the activities and shall be consistent with the standards developed by the Secretary pursuant to subsection (b) of this section.
+Each eligible entity receiving a grant under this division shall biennially evaluate the activities assisted under this division in accordance with the standards described in subsection (b) of this section and shall submit to the Secretary a copy of such evaluation. The evaluation shall permit service providers to track eligible student progress during the period such students are participating in the activities and shall beconsistent with the standards developed by the Secretary pursuant to subsection (b) of this section.
 
 #### (b) Evaluation standards
 

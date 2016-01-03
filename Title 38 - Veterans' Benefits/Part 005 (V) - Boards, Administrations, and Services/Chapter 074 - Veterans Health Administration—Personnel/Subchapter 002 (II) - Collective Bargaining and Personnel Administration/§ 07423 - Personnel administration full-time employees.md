@@ -10,9 +10,9 @@
 
 &emsp;(3) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
-&emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
+&emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similarfees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
 
-&emsp;(5) Perform, in the course of carrying out such person's responsibilities under this title,professional services for the purpose of generating money for any fund or account which is maintained by an affiliated institution for the benefit of such institution, or for such person's personal benefit, or both.
+&emsp;(5) Perform, in the course of carrying out such person's responsibilities under this title, professional services for the purpose of generating money for any fund or account which is maintained by an affiliated institution for the benefit of such institution, or for such person's personal benefit, or both.
 
 (c) In the case of any fund or account described in subsection (b)(5) that was established before September 1, 1973—
 
@@ -68,5 +68,5 @@ Subsec. (f). Pub. L. 102–405, §203, added subsec. (f).
 
 #### Establishment of Leave Bank Program
 
-For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
+For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar tothe leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
 

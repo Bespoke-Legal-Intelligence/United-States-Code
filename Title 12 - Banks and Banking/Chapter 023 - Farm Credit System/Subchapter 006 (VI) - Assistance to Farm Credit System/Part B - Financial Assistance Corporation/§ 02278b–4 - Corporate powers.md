@@ -34,13 +34,13 @@ The Financial Assistance Corporation shall have the power to—
 
 &emsp;(11) borrow from any commercial bank on its own individual responsibility and on such terms and conditions as it may determine with the approval of the Farm Credit Administration;
 
-&emsp;(12) deposit its securities and its current funds with any member bank of the FederalReserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
+&emsp;(12) deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
 
 &emsp;(13) exercise such other incidental powers as are necessary to carry out its powers, duties, and functions in accordance with its charter and this part.
 
 #### (b) Power to remove, and jurisdiction
 
-Notwithstanding any other provision of law, any civil action, suit, or proceeding to which the Financial Assistance Corporation is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Financial Assistance Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
+Notwithstanding any other provision of law, any civil action, suit, or proceeding to which theFinancial Assistance Corporation is a party shall be deemed to arise under the laws of the United States, and the United States District Court for the District of Columbia shall have exclusive jurisdiction over such. The Financial Assistance Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
 (Pub. L. 92–181, title VI, §6.24, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1596; amended Pub. L. 100–399, title II, §201(a), (b), Aug. 17, 1988, 102 Stat. 990.)
 

@@ -24,7 +24,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(2) make an assessment of the existing Federal, tribal, State, local, and private services, resources, and programs available to provide mental health services for Indians;
 
-&emsp;(3) make an initial determination of the unmet need for additional services, resources, and programs necessary to meet the needs identified pursuant to paragraph (1);
+&emsp;(3) make an initial determination of the unmet need for additional services, resources,and programs necessary to meet the needs identified pursuant to paragraph (1);
 
 &emsp;(4)(A) ensure that Indians, as citizens of the United States and of the States in which they reside, have access to mental health services to which all citizens have access;
 
@@ -40,7 +40,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;&emsp;(B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
 
-&emsp;(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d) of this section; and
+&emsp;(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d); and
 
 &emsp;(8) provide for an annual review of such agreement by the two Secretaries.
 
@@ -48,7 +48,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
-(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
+(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c), shall cooperate with the tribe in the implementation of such plan.
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
@@ -104,7 +104,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (f) Staff recruitment and retention
 
-(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) of this section and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
+(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
@@ -114,7 +114,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 &emsp;(C) a system of postgraduate rotations as a retention incentive.
 
-(3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I of this chapter.
+(3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I.
 
 #### (g) Mental Health Technician program
 
@@ -146,7 +146,7 @@ Within one year after November 28, 1990, the Secretary, acting through the Servi
 
 #### (j) Annual report
 
-The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians which shall describe the progress being made to address mental health problems of Indian communities.
+The Service shall develop methods for analyzing and evaluating the overall status of mental health programs and services for Indians and shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report on the mental health status of Indians whichshall describe the progress being made to address mental health problems of Indian communities.
 
 #### (k) Mental health demonstration grant program
 
@@ -220,7 +220,7 @@ The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, ref
 
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L.93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

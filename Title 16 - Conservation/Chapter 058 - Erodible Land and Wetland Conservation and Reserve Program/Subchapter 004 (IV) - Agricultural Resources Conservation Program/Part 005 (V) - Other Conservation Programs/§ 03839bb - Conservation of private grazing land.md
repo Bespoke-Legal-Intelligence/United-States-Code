@@ -120,7 +120,7 @@ In this section:
 
 #### (E) Authorization
 
-&emsp;&emsp;The Secretary may use authority under the Agricultural Adjustment Act (7 U.S.C.601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
+&emsp;&emsp;The Secretary may use authority under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
 
 #### (F) Activities
 

@@ -1,6 +1,6 @@
 ### §1722A. Copayment for medications
 
-(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States $2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
+(a)(1) Subject to paragraph (2), the Secretary shall require a veteran to pay the United States$2 for each 30-day supply of medication furnished such veteran under this chapter on an outpatient basis for the treatment of a non-service-connected disability or condition. If the amount supplied is less than a 30-day supply, the amount of the charge may not be reduced.
 
 (2) The Secretary may not require a veteran to pay an amount in excess of the cost to the Secretary for medication described in paragraph (1).
 

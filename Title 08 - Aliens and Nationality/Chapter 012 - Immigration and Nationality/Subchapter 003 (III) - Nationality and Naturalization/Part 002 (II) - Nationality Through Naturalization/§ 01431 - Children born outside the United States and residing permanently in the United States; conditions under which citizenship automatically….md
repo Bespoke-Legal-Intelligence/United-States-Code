@@ -12,11 +12,11 @@ A child born outside of the United States automatically becomes a citizen of the
 
 #### (b) Adoption
 
-Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
+Subsection (a) shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
 #### (c) Name and birth date
 
-A Certificate of Citizenship or other Federal document issued or requested to be amended under this section shall reflect the child's name and date of birth as indicated on a State court order, birth certificate, certificate of foreign birth, certificate of birth abroad, or similar State vital records document issued by the child's State of residence in the United States after the child has been adopted or readopted in that State.
+A Certificate of Citizenship or other Federal document issued or requested to be amended under this section shall reflect the child's name and date of birth as indicated on a State court order, birth certificate, certificate of foreignbirth, certificate of birth abroad, or similar State vital records document issued by the child's State of residence in the United States after the child has been adopted or readopted in that State.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat. 917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(l), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621; Pub. L. 106–395, title I, §101(a), Oct. 30, 2000, 114 Stat. 1631; Pub. L. 113–74, §2, Jan. 16, 2014, 127 Stat. 1212.)
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a)(1) of th
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–395, title I, §104, Oct. 30, 2000, 114 Stat. 1633, provided that: "The amendments made by this title \[amending this section and section 1433 of this title and repealing section 1432 of this title\] shall takeeffect 120 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall apply to individuals who satisfy the requirements of section 320 or 322 of the Immigration and Nationality Act \[8 U.S.C. 1431, 1433\], as in effect on such effective date."
+Pub. L. 106–395, title I, §104, Oct. 30, 2000, 114 Stat. 1633, provided that: "The amendments made by this title \[amending this section and section 1433 of this title and repealing section 1432 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall apply to individuals who satisfy the requirements of section 320 or 322 of the Immigration and Nationality Act \[8 U.S.C. 1431, 1433\], as in effect on such effective date."
 
 #### Effective Date of 1988 Amendment
 

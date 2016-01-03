@@ -90,7 +90,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975,88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -192,7 +192,7 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 Pub. L. 100–628, title VI, §631, Nov. 7, 1988, 102 Stat. 3244, provided that: "The amendments made by subsection (a) of section 601 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later."
 
-Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: "The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later."
+Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: "The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35,290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later."
 
 #### Effective Date of 1981 Amendment
 

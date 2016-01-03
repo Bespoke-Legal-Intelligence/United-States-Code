@@ -66,7 +66,7 @@ In this section—
 
 &emsp;&emsp;&emsp;Any record or report required to be made, furnished, or kept under this paragraph shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) be prepared in such form and according to such specifications (includingcertification by a registered public accounting firm), as the Board of Governors may require; and
+&emsp;&emsp;&emsp;&emsp;(I) be prepared in such form and according to such specifications (including certification by a registered public accounting firm), as the Board of Governors may require; and
 
 &emsp;&emsp;&emsp;&emsp;(II) be provided promptly to the Board of Governors at any time, upon request by the Board of Governors.
 
@@ -138,7 +138,7 @@ In this section—
 
 #### (1) Federal Deposit Insurance Act
 
-&emsp;Subsections (b), (c) through (s), and (u) of section 1818 of this title shall apply to any supervised securities holding company, and to any subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, in the same manner as such subsections apply to a bank holding company for which the Board of Governors is the appropriate Federal bankingagency. For purposes of applying such subsections to a supervised securities holding company or a subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, the Board of Governors shall be deemed the appropriate Federal banking agency for the supervised securities holding company or subsidiary.
+&emsp;Subsections (b), (c) through (s), and (u) of section 1818 of this title shall apply to any supervised securities holding company, and to any subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, in the same manner as such subsections apply to a bank holding company for which the Board of Governors is the appropriate Federal banking agency. For purposes of applying such subsections to a supervised securities holding company or a subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company,the Board of Governors shall be deemed the appropriate Federal banking agency for the supervised securities holding company or subsidiary.
 
 #### (2) Bank Holding Company Act of 1956
 

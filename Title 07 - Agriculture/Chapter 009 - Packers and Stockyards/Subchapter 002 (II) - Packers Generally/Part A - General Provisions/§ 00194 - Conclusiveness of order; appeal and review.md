@@ -6,7 +6,7 @@ An order made under section 193 of this title shall be final and conclusive unle
 
 #### (b) Filing of record by Secretary
 
-The clerk of the court shall immediately cause a copy of the petition to be delivered to the Secretary, and the Secretary shall thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28. If before such record is filed the Secretary amends or sets aside his report or order, in whole or in part, thepetitioner may amend the petition within such time as the court may determine, on notice to the Secretary.
+The clerk of the court shall immediately cause a copy of the petition to be delivered to the Secretary, and the Secretary shall thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28. If before such record is filed the Secretary amends or sets aside his report or order, in whole or in part, the petitioner may amend the petition within such time as the court may determine, on notice to the Secretary.
 
 #### (c) Temporary injunction
 
@@ -56,7 +56,7 @@ Subsec. (h). Pub. L. 85–791, §6(c), substituted "jurisdiction, which upon the
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended May 24, 1949, substituted "court of appeals" for "circuit court of appeals", wherever appearing.
 
-Act of June 7, 1934, provided that Court of Appeals in District of Columbia, should hereafter be known as the United States Court of Appeals for the District of Columbia.
+Act of June 7, 1934, provided that Court of Appeals in District of Columbia, should hereafter be known as theUnited States Court of Appeals for the District of Columbia.
 
 #### Effective Date of 1984 Amendment
 

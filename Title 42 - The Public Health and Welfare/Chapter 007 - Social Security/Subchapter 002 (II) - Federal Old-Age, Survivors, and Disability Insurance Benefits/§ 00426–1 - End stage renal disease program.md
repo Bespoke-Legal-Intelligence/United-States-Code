@@ -6,7 +6,7 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 &emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term "employment" for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter;
 
-&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter; or
+&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaningof the term "employment" for purposes of this subchapter; or
 
 &emsp;(C) is the spouse or dependent child (as defined in regulations) of an individual described in subparagraph (A) or (B);
 
@@ -24,7 +24,7 @@ Subject to subsection (c) of this section, entitlement of an individual to benef
 
 &emsp;&emsp;(A) the third month after the month in which a regular course of renal dialysis is initiated, or
 
-&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) thefirst month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
+&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) the first month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
 
 > &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
@@ -40,19 +40,15 @@ Notwithstanding the provisions of subsection (b) of this section—
 
 &emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is resumed.
 
-#### (c) <sup>1</sup> Continuing eligibility of certain terminated individuals
-
-For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
-
-(Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497.)
+(Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 114–74, title VIII, §844(b), Nov. 2, 2015, 129 Stat. 617.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
-
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–74 struck out subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–296 added subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
@@ -68,7 +64,7 @@ Subsec. (a)(1)(C), (D). Pub. L. 97–248 combined former subpars. (C) and (D) in
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 applicable with respect to benefits based on disability (as defined in section 425(c)(9) of this title) which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issue regulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(a)(3)(E)(i) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment; Sunset Provision note under section 425 of this title.
+Amendment by Pub. L. 103–296 applicable with respect to benefits based on disability (as defined in section 425(c)(9) of this title) which are otherwise payable in months beginning after 180 days after Aug. 15, 1994, with Secretary of Health and Human Services to issueregulations necessary to carry out such amendment not later than 180 days after Aug. 15, 1994, see section 201(a)(3)(E)(i) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment; Sunset Provision note under section 425 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -76,7 +72,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: "Any amendment to the Social Security Act \[42 U.S.C. 301 et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which itrelates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\]."
+Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: "Any amendment to the Social Security Act \[42 U.S.C. 301 et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -85,8 +81,4 @@ Amendment by Pub. L. 97–248 effective on and after Jan. 1, 1983, see section 2
 #### Effective Date
 
 Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(d)".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

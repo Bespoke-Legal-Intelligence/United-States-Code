@@ -48,7 +48,7 @@ All moneys received from the sale of materials being rotated under the provision
 
 #### (d) Effect of bartering
 
-If, during a fiscal year, the National Defense Stockpile Manager barters materials in the stockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose), the contract value of the materials so bartered shall—
+If, during a fiscal year, the National Defense Stockpile Manager barters materials in the stockpile for the purpose of acquiring, upgrading, refining, or processing other materials (or for services directly related to that purpose),the contract value of the materials so bartered shall—
 
 &emsp;(1) be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
 

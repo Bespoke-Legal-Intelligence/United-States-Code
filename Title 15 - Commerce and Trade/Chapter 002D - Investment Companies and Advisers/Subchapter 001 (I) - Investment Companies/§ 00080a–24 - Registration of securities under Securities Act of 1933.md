@@ -54,7 +54,7 @@ For the purposes of section 11 of the Securities Act of 1933, as amended \[15 U.
 
 #### (g) Additional prospectuses
 
-In addition to any prospectus permitted or required by section 10(a) of the Securities Act of 1933 \[15 U.S.C. 77j(a)\], the Commission shall permit, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, the use of a prospectus forpurposes of section 5(b)(1) of that Act \[15 U.S.C. 77e(b)(1)\] with respect to securities issued by a registered investment company. Such a prospectus, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Securities Act of 1933, shall be deemed to be permitted by section 10(b) of that Act \[15 U.S.C. 77j(b)\].
+In addition to any prospectus permitted or required by section 10(a) of the Securities Act of 1933 \[15 U.S.C. 77j(a)\], the Commission shall permit, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, the use of a prospectus for purposes of section 5(b)(1) of that Act \[15 U.S.C. 77e(b)(1)\] with respect to securities issued by a registered investment company. Such a prospectus, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Securities Act of 1933, shall be deemed to be permitted by section 10(b) of that Act \[15 U.S.C. 77j(b)\].
 
 (Aug. 22, 1940, ch. 686, title I, §24, 54 Stat. 825; Aug. 10, 1954, ch. 667, title IV, §§402, 403, 68 Stat. 689; Pub. L. 91–547, §13, Dec. 14, 1970, 84 Stat. 1423; Pub. L. 100–181, title VI, §617, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §§203(a), (b), 204, Oct. 11, 1996, 110 Stat. 3427, 3428.)
 
@@ -90,7 +90,7 @@ Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: "The amendments made by this section \[amending this section\] shall become effective on the earlier of—
+Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: "The amendments made by thissection \[amending this section\] shall become effective on the earlier of—
 
 &emsp;"(1) 1 year after the date of enactment of this Act \[Oct. 11, 1996\]; or
 

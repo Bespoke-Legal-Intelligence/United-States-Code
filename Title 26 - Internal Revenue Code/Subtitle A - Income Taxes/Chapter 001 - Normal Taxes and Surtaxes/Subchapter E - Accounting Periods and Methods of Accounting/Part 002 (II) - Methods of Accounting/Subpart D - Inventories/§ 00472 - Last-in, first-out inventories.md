@@ -44,7 +44,7 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in regulations, all members of the same group of financially related corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
+&emsp;Except as otherwise provided in regulations, all members of the same group of financiallyrelated corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
 
 #### (2) Group of financially related corporations
 

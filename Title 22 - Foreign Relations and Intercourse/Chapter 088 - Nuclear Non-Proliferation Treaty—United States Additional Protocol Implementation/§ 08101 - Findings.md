@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: "This title \[enacting this chapter\]may be cited as the 'United States Additional Protocol Implementation Act'."
+Pub. L. 109–401, title II, §201, Dec. 18, 2006, 120 Stat. 2741, provided that: "This title \[enacting this chapter\] may be cited as the 'United States Additional Protocol Implementation Act'."
 
 #### Ex. Ord. No. 13458. Implementation of the Protocol Additional to the Agreement Between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America
 

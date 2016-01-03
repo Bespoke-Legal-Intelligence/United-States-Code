@@ -12,7 +12,7 @@
 
 (c) In any case where the amount to be paid is not more than $1,000,000, the Secretary may delegate his authority under this section to any person designated by him.
 
-(d) Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
+(d) Upon acceptance of payment by the claimant, the settlement or compromise of a claimunder this section is final and conclusive notwithstanding any other provision of law.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, §1014(a), Dec. 28, 2001, 115 Stat. 1212.)
 

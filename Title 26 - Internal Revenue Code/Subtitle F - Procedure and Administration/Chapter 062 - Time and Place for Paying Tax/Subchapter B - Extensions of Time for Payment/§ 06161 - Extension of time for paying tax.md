@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The Secretary, except as otherwise provided in this title, may extend the time for payment of the amount of the tax shown, or required to be shown, on any return or declaration required under authority of this title (or any installment thereof), for a reasonable period not to exceed 6 months (12 months in the case ofestate tax) from the date fixed for payment thereof. Such extension may exceed 6 months in the case of a taxpayer who is abroad.
+&emsp;The Secretary, except as otherwise provided in this title, may extend the time for payment of the amount of the tax shown, or required to be shown, on any return or declaration required under authority of this title (or any installment thereof), for a reasonable period not to exceed 6 months (12 months in the case of estate tax) from the date fixed for payment thereof. Such extension may exceed 6 months in the case of a taxpayer who is abroad.
 
 #### (2) Estate tax
 
@@ -76,7 +76,7 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
 
-<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 yearsfrom date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
+<b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
 
 #### Effective Date of 2002 Amendment
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title II, §206(f), Sept. 2, 1958, 72 Stat. 1685, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day."
+Pub. L. 85–866, title II, §206(f), Sept. 2, 1958, 72 Stat. 1685, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day."
 

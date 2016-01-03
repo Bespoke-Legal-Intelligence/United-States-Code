@@ -106,7 +106,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(5) the term "national of the United States" has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;(6) the term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
+&emsp;(6) the term "state sponsor of terrorism" means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)),<sup>1</sup> section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism; and
 
 &emsp;(7) the terms "torture" and "extrajudicial killing" have the meaning given those terms in section 3 of the Torture Victim Protection Act of 1991 (28 U.S.C. 1350 note).
 
@@ -119,6 +119,8 @@ Section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008, 
 The enactment of this section and the date of the enactment of this section, referred to in subsecs. (a)(2)(A)(i)(II) and (b), refers to the date of enactment of Pub. L. 110–181, which was approved Jan. 28, 2008.
 
 Section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, referred to in subsecs. (a)(2)(A)(i)(II) and (b), is Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], which is set out as a note under section 1605 of this title.
+
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h)(6), is section 6(j) of Pub. L. 96–72, which was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as section 4605(j) of Title 50.
 
 Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (h)(7), is section 3 of Pub. L. 102–256, which is set out as a note under section 1350 of this title.
 
@@ -154,7 +156,7 @@ Defenses waived.—The defenses of res judicata, collateral estoppel, and limita
 
 &emsp;&emsp;"(i) in any action with respect to which a motion is made under subparagraph (A), or
 
-&emsp;&emsp;"(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
+&emsp;&emsp;"(ii) in any action that was originally brought, before the date of the enactment of this Act, under section 1605(a)(7) of title 28, United States Code, or section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act,1997 (as contained in section 101(c) of division A of Public Law 104–208), and is refiled under section 1605A(c) of title 28, United States Code,
 
 > &emsp;to the extent such defenses are based on the claim in the action.
 
@@ -206,7 +208,7 @@ Pub. L. 110–301, Aug. 4, 2008, 122 Stat. 2999, provided that:
 
 &emsp;"(4) the term 'Secretary' means the Secretary of State; and
 
-&emsp;"(5) the term 'state sponsor of terrorism' means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+&emsp;"(5) the term 'state sponsor of terrorism' means a country the government of which the Secretary has determined, for purposes of section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[now 50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), section 40 of the Arms Export Control Act (22 U.S.C. 2780), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 #### "SEC. 3. SENSE OF CONGRESS.
 
@@ -272,9 +274,9 @@ In general.—Notwithstanding any other provision of law, upon submission of a c
 
 &emsp;&emsp;"(A) Libya, an agency or instrumentality of Libya, and the property of Libya or an agency or instrumentality of Libya, shall not be subject to the exceptions to immunity from jurisdiction, liens, attachment, and execution contained in section 1605A, \[former\] 1605(a)(7), or 1610 (insofar as section 1610 relates to a judgment under such section 1605A or \[former\] 1605(a)(7)) of title 28, United States Code;
 
-&emsp;&emsp;"(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section 589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
+&emsp;&emsp;"(B) section 1605A(c) of title 28, United States Code, section 1083(c) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 342; 28 U.S.C. 1605A note), section589 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 \[Pub. L. 104–208, div. A, title I, §101(c)\] (28 U.S.C. 1605 note), and any other private right of action relating to acts by a state sponsor of terrorism arising under Federal, State, or foreign law shall not apply with respect to claims against Libya, or any of its agencies, instrumentalities, officials, employees, or agents in any action in a Federal or State court; and
 
-&emsp;&emsp;"(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought againstproperty of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
+&emsp;&emsp;"(C) any attachment, decree, lien, execution, garnishment, or other judicial process brought against property of Libya, or property of any agency, instrumentality, official, employee, or agent of Libya, in connection with an action that would be precluded by subparagraph (A) or (B) shall be void.
 
 &emsp;"(2)
 
@@ -391,4 +393,6 @@ Accordingly, I hereby waive all provisions of section 1083 of the Act with respe
 You are authorized and directed to notify the Congress of this determination and waiver and the accompanying memorandum of justification \[not set out in the Code\], incorporated by reference herein, and to arrange for their publication in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (3) Policies
 
-&emsp;Policies determined by the Advisory Board under this subsection shall include policies for the conduct and support, through contracts and grants awarded on a nationally competitive basis, of research, projects, and studies to be supported by the Institute in accordance with the purposes of this section.
+&emsp;Policies determined by the Advisory Board under this subsection shall include policies forthe conduct and support, through contracts and grants awarded on a nationally competitive basis, of research, projects, and studies to be supported by the Institute in accordance with the purposes of this section.
 
 #### (4) Scientific review
 
@@ -58,7 +58,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (e) Director
 
-The Institute shall be administered by a Director appointed by the Advisory Board. ThePrince William Sound Science and Technology Institute and the Scientific and Technical Committee may each submit independent recommendations for the Advisory Board's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
+The Institute shall be administered by a Director appointed by the Advisory Board. The Prince William Sound Science and Technology Institute and the Scientific and Technical Committee may each submit independent recommendations for the Advisory Board's consideration for appointment as Director. The Director may hire such staff and incur such expenses on behalf of the Institute as are authorized by the Advisory Board.
 
 #### (f) Evaluation
 

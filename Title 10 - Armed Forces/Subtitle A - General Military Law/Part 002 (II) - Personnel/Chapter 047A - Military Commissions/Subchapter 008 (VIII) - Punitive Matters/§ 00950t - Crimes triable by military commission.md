@@ -8,7 +8,7 @@ Murder of protected persons.—Any person subject to this chapter who intentiona
 
 &emsp;(2)
 
-Attacking civilians.—Any person subject to this chapter who intentionally engages in an attack upon a civilian population as such, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by deathor such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Attacking civilians.—Any person subject to this chapter who intentionally engages in an attack upon a civilian population as such, or individual civilians not taking active part in hostilities, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(3)
 
@@ -136,7 +136,7 @@ Material support or resources defined.—In this paragraph, the term "material s
 
 &emsp;(26)
 
-Wrongfully aiding the enemy.—Any person subject to this chapter who, in breach of an allegiance or duty to the United States, knowingly and intentionally aids an enemy ofthe United States, or one of the co-belligerents of the enemy, shall be punished as a military commission under this chapter may direct.
+Wrongfully aiding the enemy.—Any person subject to this chapter who, in breach of an allegiance or duty to the United States, knowingly and intentionally aids an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(27)
 

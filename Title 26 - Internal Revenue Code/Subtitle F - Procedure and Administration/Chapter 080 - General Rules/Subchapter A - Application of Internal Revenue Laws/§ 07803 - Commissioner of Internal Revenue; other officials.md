@@ -10,7 +10,7 @@
 
 #### (B) Term
 
-&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginning with a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
+&emsp;&emsp;The term of the Commissioner of Internal Revenue shall be a 5-year term, beginningwith a term to commence on November 13, 1997. Each subsequent term shall begin on the day after the date on which the previous term expires.
 
 #### (C) Vacancy
 
@@ -34,7 +34,31 @@
 
 > &emsp;If the Secretary determines not to delegate a power specified in subparagraph (A) or (B), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
 
-#### (3) Consultation with Board
+#### (3) Execution of duties in accord with taxpayer rights
+
+&emsp;In discharging his duties, the Commissioner shall ensure that employees of the Internal Revenue Service are familiar with and act in accord with taxpayer rights as afforded by other provisions of this title, including—
+
+&emsp;&emsp;(A) the right to be informed,
+
+&emsp;&emsp;(B) the right to quality service,
+
+&emsp;&emsp;(C) the right to pay no more than the correct amount of tax,
+
+&emsp;&emsp;(D) the right to challenge the position of the Internal Revenue Service and be heard,
+
+&emsp;&emsp;(E) the right to appeal a decision of the Internal Revenue Service in an independent forum,
+
+&emsp;&emsp;(F) the right to finality,
+
+&emsp;&emsp;(G) the right to privacy,
+
+&emsp;&emsp;(H) the right to confidentiality,
+
+&emsp;&emsp;(I) the right to retain representation, and
+
+&emsp;&emsp;(J) the right to a fair and just tax system.
+
+#### (4) Consultation with Board
 
 &emsp;The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 
@@ -270,7 +294,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(C) not later than December 31, 2010, submit a written report to Congress on the implementation of section 6103(k)(10).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117.)
 
 #### References in Text
 
@@ -283,6 +307,8 @@ Sections 1203, 1204, and 3707 of the Internal Revenue Service Restructuring and 
 Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(3)(B), is section 6227 of Pub. L. 100–647, which is set out as a note under section 7801 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3), (4). Pub. L. 114–113 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–176 amended par. (1) generally, substituting provisions relating to appointment, consisting of subpars. (A) to (E), for similar provisions, consisting of subpars. (A) to (D).
 
@@ -302,11 +328,15 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title IV, §401(b), Dec. 18, 2015, 129 Stat. 3117, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\]."
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
 
-Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
+Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section\[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -314,7 +344,7 @@ Pub. L. 105–206, title I, §1102(f), July 22, 1998, 112 Stat. 705, provided th
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection, sections 6212, 6323, 6343, 7611, and 7811 of this title, and section 5109 of Title 5, Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section, sections 6212, 6323, 6343, 7611, and 7811 of this title, and section 5109 of Title 5, Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].
 
 "(2)
 

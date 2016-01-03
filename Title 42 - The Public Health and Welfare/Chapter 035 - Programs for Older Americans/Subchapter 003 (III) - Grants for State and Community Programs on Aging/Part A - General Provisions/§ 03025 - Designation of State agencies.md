@@ -26,7 +26,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;&emsp;(i) the geographical distribution of older individuals in the State; and
 
-&emsp;&emsp;&emsp;(ii) the distribution among planning and service areas of older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority older individuals;
+&emsp;&emsp;&emsp;(ii) the distribution among planning and service areas of older individuals withgreatest economic need and older individuals with greatest social need, with particular attention to low-income minority older individuals;
 
 &emsp;&emsp;(D) submit its formula developed under subparagraph (C) to the Assistant Secretary for approval;
 
@@ -68,7 +68,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 (2) The State is encouraged in carrying out the requirement of subsection (a)(1) of this section to include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1) of this section, and to include all portions of an Indian reservation within a single planning and service area, if feasible.
 
-(3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
+(3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals withinthe area who will be served by an interstate planning and service area not within the State.
 
 (4) Whenever a unit of general purpose local government, a region, a metropolitan area or an Indian reservation is denied designation under the provisions of subsection (a)(1) of this section, such unit of general purpose local government, region, metropolitan area, or Indian reservation may appeal the decision of the State agency to the Assistant Secretary. The Assistant Secretary shall afford such unit, region, metropolitan area, or Indian reservation an opportunity for a hearing. In carrying out the provisions of this paragraph, the Assistant Secretary may approve the decision of the State agency, disapprove the decision of the State agency and require the State agency to designate the unit, region, area, or Indian reservation appealing the decision as a planning and service area, or take such other action as the Assistant Secretary deems appropriate.
 
@@ -126,7 +126,7 @@ An area agency on aging designated under subsection (a) of this section shall be
 
 The publication for review and comment required by paragraph (2)(C) of subsection (a) of this section shall include—
 
-&emsp;(1) a descriptive statement of the formula's assumptions and goals, and the application of the definitions of greatest economic or social need,
+&emsp;(1) a descriptive statement of the formula's assumptions and goals, and the application ofthe definitions of greatest economic or social need,
 
 &emsp;(2) a numerical statement of the actual funding formula to be used,
 

@@ -22,15 +22,15 @@ As used in this subchapter:
 
 &emsp;&emsp;(1) any person other than a United States person, who—
 
-&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section;
+&emsp;&emsp;&emsp;(A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section, irrespective of whether the person is inside the United States;
 
-&emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
+&emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
 &emsp;&emsp;&emsp;(C) engages in international terrorism or activities in preparation therefore;
 
 &emsp;&emsp;&emsp;(D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
 
-&emsp;&emsp;&emsp;(E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or
+&emsp;&emsp;&emsp;(E) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor, for or on behalf of a foreign power, or knowingly aids or abets any person in the conduct of such proliferation or activities in preparation therefor, or knowingly conspires with any person to engage in such proliferation or activities in preparation therefor; or
 
 &emsp;&emsp;(2) any person who—
 
@@ -78,13 +78,13 @@ As used in this subchapter:
 
 &emsp;(f) "Electronic surveillance" means—
 
-&emsp;&emsp;(1) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire or radio communication sent by or intended to be received by a particular, known United States person who is in the United States, if the contents are acquired by intentionally targeting that United States person, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes;
+&emsp;&emsp;(1) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire or radio communication sent by or intended to be received by aparticular, known United States person who is in the United States, if the contents are acquired by intentionally targeting that United States person, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes;
 
 &emsp;&emsp;(2) the acquisition by an electronic, mechanical, or other surveillance device of the contents of any wire communication to or from a person in the United States, without the consent of any party thereto, if such acquisition occurs in the United States, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18;
 
 &emsp;&emsp;(3) the intentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States; or
 
-&emsp;&emsp;(4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radiocommunication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
+&emsp;&emsp;(4) the installation or use of an electronic, mechanical, or other surveillance device in the United States for monitoring to acquire information, other than from a wire or radio communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes.
 
 &emsp;(g) "Attorney General" means the Attorney General of the United States (or Acting Attorney General), the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
@@ -122,13 +122,19 @@ As used in this subchapter:
 
 &emsp;&emsp;(4) any weapon that is designed, intended, or has the capability to release radiation or radioactivity causing death, illness, or serious bodily injury to a significant number of persons.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–23, §702(1), inserted ", irrespective of whether the person is inside the United States" before semicolon at end.
+
+Subsec. (b)(1)(B). Pub. L. 114–23, §702(2), struck out "of such person's presence in the United States" after "circumstances" and substituted "may engage in such activities" for "may engage in such activities in the United States".
+
+Subsec. (b)(1)(E). Pub. L. 114–23, §703, added subpar. (E) and struck out former subpar. (E) which read as follows: "engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor for or on behalf of a foreign power; or".
 
 <b>2010</b>—Subsecs. (a)(7) to (p). Pub. L. 111–259 realigned margins.
 
@@ -156,15 +162,17 @@ Pub. L. 110–261, title IV, §402, July 10, 2008, 122 Stat. 2473, provided that
 
 #### Termination Date of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216, provided that:
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, as amended by Pub. L. 109–177, title I, §103, Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(b), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(b), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(b), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(b), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(b), June 2, 2015, 129 Stat. 300, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on June 1, 2015.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall cease to have effect on December 15, 2019.
 
 "(2)
 
 Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which the provisions cease to have effect, such provisions shall continue in effect."
+
+\[Pub. L. 114–23, §705(b), which delayed the June 1, 2015, termination of the amendment made by section 6001(a) of Pub. L. 108–458 by substituting "December 15, 2019" for "June 1, 2015" in section 6001(b)(1) of Pub. L. 108–458, set out above, was given effect in this section to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015.\]
 
 #### Effective Date of 2001 Amendment
 
@@ -174,13 +182,17 @@ Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided 
 
 Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, which provided that the provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\], was repealed by Pub. L. 110–261, title I, §101(a)(1), July 10, 2008, 122 Stat. 2437.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–23, §1(a), June 2, 2015, 129 Stat. 268, provided that: "This Act \[see Tables for classification\] may be cited as the 'Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015' or the 'USA FREEDOM Act of 2015'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act \[amending sections 1881 to 1881g of this title and provisions set out as notes under this section, section 1881 of this title, and section 2511 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'FISA Amendments Act Reauthorization Act of 2012'."
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
+Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
 
 Pub. L. 112–3, §1, Feb. 25, 2011, 125 Stat. 5, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'FISA Sunsets Extension Act of 2011'."
 
@@ -202,7 +214,7 @@ Pub. L. 95–511, §1, Oct. 25, 1978, 92 Stat. 1783, provided in part: "That thi
 
 #### Severability
 
-Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, thevalidity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
+Pub. L. 110–261, title IV, §401, July 10, 2008, 122 Stat. 2473, provided that: "If any provision of this Act \[see Short Title of 2008 Amendment note above\], any amendment made by this Act, or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act, of any such amendments, and of the application of such provisions to other persons and circumstances shall not be affected thereby."
 
 Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that: "If any provision of this title \[see Short Title of 2000 Amendment note above\] (including an amendment made by this title), or the application thereof, to any person or circumstance, is held invalid, the remainder of this title (including the amendments made by this title), and the application thereof, to other persons or circumstances shall not be affected thereby."
 

@@ -192,7 +192,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(iv) otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
 
-&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account UnitedStates Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
+&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
 
 #### (16) Border taxes
 
@@ -262,7 +262,7 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) ("Omnibus Trade Act") \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended ("Tariff Act") \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) ("Defense Authorization Act") \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) ("Omnibus Trade Act") \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), asamended ("Tariff Act") \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) ("Defense Authorization Act") \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 
@@ -286,13 +286,13 @@ Sec. 2–101. <i>Countertrade and Barter.</i>
 
 Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
-(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
+(1) <i>Procurement Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act \[former 50 U.S.C. App. 2410a note\] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
 
 (2) <i>Import Sanctions</i>. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
 (3) <i>Exceptions</i>. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respective contracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
 
-(4) <i>Annual Report</i>. The annual report required by section 2445 \[50 U.S.C. App. 2413\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
+(4) <i>Annual Report</i>. The annual report required by section 2445 \[adding 50 U.S.C. 4616(f)\], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
 
 #### PART III—FOREIGN CORRUPT PRACTICES AMENDMENTS; INVESTMENT; AND TECHNOLOGY
 
@@ -302,7 +302,7 @@ The functions conferred upon the President by section 5003(d)(1) ("International
 
 Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeovers.</i>
 
-(1) Executive Order No. 11858, as amended \[50 U.S.C. App. 2170 note\], regarding the Committee on Foreign Investment in the United States (the "Committee") is further amended as follows:
+(1) Executive Order No. 11858, as amended \[50 U.S.C. 4565 note\], regarding the Committee on Foreign Investment in the United States (the "Committee") is further amended as follows:
 
 (A) By adding new Sections 7 and 8 as follows:
 
@@ -316,7 +316,7 @@ Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeover
 
 (C) By deleting, from the third sentence in Section 1(a), the phrase "representative of the".
 
-(D) By deleting "and" at the end of subparagraph (3) of Section 1(b), by substituting "; and" for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: "(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 <i>et seq</i>.) ("Defense Production Act")."
+(D) By deleting "and" at the end of subparagraph (3) of Section 1(b), by substituting "; and" for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: "(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 <i>et seq</i>.) \[now 50 U.S.C. 4501 et seq.\] ("Defense Production Act")."
 
 (E) By adding the following sentence at the end of Section 5: "Information or documentary material filed pursuant to Section 1(b)(5) or Section 7 of this Order shall be treated in accordance with paragraph (b) of Section 721 of the Defense Production Act."
 
@@ -358,7 +358,7 @@ Sec. 5–101. <i>Executive Oversight.</i>
 
 Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[50 U.S.C. App. 2401 et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[50 U.S.C. App. 2407(b)\].
+Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act \[50 U.S.C. 4601 et seq.\], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[50 U.S.C. 4607(b)\].
 
 Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 

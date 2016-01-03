@@ -30,7 +30,7 @@
 
 #### (5) Interagency agreements
 
-&emsp;The Secretary of Homeland Security, the Secretary of State, the Secretary of Labor,and the Secretary of the Interior shall negotiate and implement agreements among their agencies to identify and assign their respective duties so as to ensure timely and proper implementation of the provisions of this section. The agreements should address, at a minimum, procedures to ensure that Commonwealth employers have access to adequate labor, and that tourists, students, retirees, and other visitors have access to the Commonwealth without unnecessary delay or impediment. The agreements may also allocate funding between the respective agencies tasked with various responsibilities under this section.
+&emsp;The Secretary of Homeland Security, the Secretary of State, the Secretary of Labor, and the Secretary of the Interior shall negotiate and implement agreements among theiragencies to identify and assign their respective duties so as to ensure timely and proper implementation of the provisions of this section. The agreements should address, at a minimum, procedures to ensure that Commonwealth employers have access to adequate labor, and that tourists, students, retirees, and other visitors have access to the Commonwealth without unnecessary delay or impediment. The agreements may also allocate funding between the respective agencies tasked with various responsibilities under this section.
 
 #### (6) Certain education funding
 
@@ -68,7 +68,7 @@ An alien who is seeking to enter the Commonwealth as a nonimmigrant worker may b
 
 &emsp;(1) Such an alien shall be treated as a nonimmigrant described in section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)), including the ability to apply, if otherwise eligible, for a change of nonimmigrant classification under section 248 of such Act (8 U.S.C. 1258) or adjustment of status under this section and section 245 of such Act (8 U.S.C. 1255).
 
-&emsp;(2) The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.). In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period "ending on December 31, 2019" <sup>1</sup>. In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote themaximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alien shall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
+&emsp;(2) The Secretary of Homeland Security shall establish, administer, and enforce a system for allocating and determining the number, terms, and conditions of permits to be issued to prospective employers for each such nonimmigrant worker described in this subsection who would not otherwise be eligible for admission under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.). In adopting and enforcing this system, the Secretary shall also consider, in good faith and not later than 30 days after receipt by the Secretary, any comments and advice submitted by the Governor of the Commonwealth. This system shall provide for a reduction in the allocation of permits for such workers on an annual basis to zero, during a period "ending on December 31, 2019" <sup>1</sup>. In no event shall a permit be valid beyond the expiration of the transition period. This system may be based on any reasonable method and criteria determined by the Secretary of Homeland Security to promote the maximum use of, and to prevent adverse effects on wages and working conditions of, workers authorized to be employed in the United States, including lawfully admissible freely associated state citizen labor. No alienshall be granted nonimmigrant classification or a visa under this subsection unless the permit requirements established under this paragraph have been met.
 
 &emsp;(3) The Secretary of Homeland Security shall set the conditions for admission of such an alien under the transition program, and the Secretary of State shall authorize the issuance of nonimmigrant visas for such an alien. Such a visa shall not be valid for admission to the United States, as defined in section 101(a)(38) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(38)), except admission to the Commonwealth. An alien admitted to the Commonwealth on the basis of such a visa shall be permitted to engage in employment only as authorized pursuant to the transition program.
 
@@ -118,7 +118,7 @@ The provisions of this section and of the immigration laws, as defined in sectio
 
 #### (g) Accrual of time for purposes of section 212(a)(9)(B) of the Immigration and Nationality Act
 
-No time that an alien is present in the Commonwealth in violation of the immigration lawsof the Commonwealth shall be counted for purposes of inadmissibility under section 212(a)(9)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(9)(B)).
+No time that an alien is present in the Commonwealth in violation of the immigration laws of the Commonwealth shall be counted for purposes of inadmissibility under section 212(a)(9)(B) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(9)(B)).
 
 #### (h) Report on nonresident guestworker population
 
@@ -188,7 +188,7 @@ Immigration and Growth.—In recognition of the need to ensure uniform adherence
 
 &emsp;&emsp;"(A) encouraging diversification and growth of the economy of the Commonwealth in accordance with fundamental values underlying Federal immigration policy;
 
-&emsp;&emsp;"(B) recognizing local self-government, as provided for in the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America through consultation with the Governor of the Commonwealth;
+&emsp;&emsp;"(B) recognizing local self-government, as provided for in the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America throughconsultation with the Governor of the Commonwealth;
 
 &emsp;&emsp;"(C) assisting the Commonwealth in achieving a progressively higher standard of living for citizens of the Commonwealth through the provision of technical and other assistance;
 

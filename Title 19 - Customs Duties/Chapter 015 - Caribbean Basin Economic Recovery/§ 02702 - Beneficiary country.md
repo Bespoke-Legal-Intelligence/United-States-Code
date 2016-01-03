@@ -4,7 +4,7 @@
 
 (1) For purposes of this chapter—
 
-&emsp;(A) The term "beneficiary country" means any country listed in subsection (b) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
+&emsp;(A) The term "beneficiary country" means any country listed in subsection (b) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
 
 &emsp;(B) The term "entered" means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
@@ -103,15 +103,15 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (e) Withdrawal or suspension of duty-free treatment to specific articles
 
-(1)(A) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+(1)(A) The President may, after the requirements of subsection (a)(2) and paragraph (2) have been met—
 
 &emsp;(i) withdraw or suspend the designation of any country as a beneficiary country, or
 
 &emsp;(ii) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
 
-> if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+> if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b).
 
-(B) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+(B) The President may, after the requirements of subsection (a)(2) and paragraph (2) have been met—
 
 &emsp;(i) withdraw or suspend the designation of any country as a CBTPA beneficiary country; or
 
@@ -141,7 +141,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Not later than December 31, 2001, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to Congress a report regarding the operation of this chapter, including—
 
-&emsp;&emsp;(A) with respect to subsections (b) and (c) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+&emsp;&emsp;(A) with respect to subsections (b) and (c), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
 &emsp;&emsp;(B) the performance of each beneficiary country or CBTPA beneficiary country, as the case may be, under the criteria set forth in section 2703(b)(5)(B) of this title.
 
@@ -149,7 +149,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2),May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
 
 #### Amendment of Section
 
@@ -249,7 +249,7 @@ Findings.—The Congress finds that—
 
 Intent of the Congress.—The Congress hereby expresses its intention to ensure that—
 
-&emsp;"(1) the trade elements of the Caribbean Basin Initiative be strengthened in a manner consistent withthe promotion of economic and political stability in the Caribbean and Central America;
+&emsp;"(1) the trade elements of the Caribbean Basin Initiative be strengthened in a manner consistent with the promotion of economic and political stability in the Caribbean and Central America;
 
 &emsp;"(2) to the extent that Congress imposes changes that are intended to improve the competitive environment for United States industry and workers, such changes do not unduly affect the unilateral duty-free trade system available to the beneficiary countries designated under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; and
 

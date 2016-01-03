@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any potentially abusive situation, the imputed principal amount of any debt instrument received in exchange for property shall be the fair market value of such property adjusted to take into account other consideration involved in the transaction.
+&emsp;&emsp;In the case of any potentially abusive situation, the imputed principal amount of any debt instrument received in exchange for property shall be the fair market value of such property adjusted to take into accountother consideration involved in the transaction.
 
 #### (B) Potentially abusive situation defined
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) acquires any property subject to any debt instrument,
 
-> &emsp;in determining whether this section or section 483 applies to such debt instrument, such assumption (or such acquisition) shall not be taken into account unless the terms and conditions of such debt instrument are modified (or the nature of the transaction is changed) in connection with the assumption (or acquisition).
+> &emsp;in determining whether this section or section 483 applies to such debt instrument, such assumption (or such acquisition) shall not betaken into account unless the terms and conditions of such debt instrument are modified (or the nature of the transaction is changed) in connection with the assumption (or acquisition).
 
 #### (d) Determination of applicable Federal rate
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (3) Term of debt instrument
 
-&emsp;In determining the term of a debt instrument for purposes of this subsection, underregulations prescribed by the Secretary, there shall be taken into account options to renew or extend.
+&emsp;In determining the term of a debt instrument for purposes of this subsection, under regulations prescribed by the Secretary, there shall be taken into account options to renew or extend.
 
 #### (e) 110 Percent rate where sale-leaseback involved
 

@@ -78,7 +78,7 @@ Pub. L. 111–84, div. A, title III, §327(d), Oct. 28, 2009, 123 Stat. 2255, pr
 
 #### Effective Date of 2008 Amendment
 
-Par. (2)(B) of this section, as added by Pub. L. 110–181, applicable to a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency made pursuant to a study under OMB Circular A–76 on or after Jan. 1, 2004, and to any other protest or civil action that relates to a public-private competition under Circular A–76 or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Circular A–76, on or after Jan. 28, 2008, see section 326(d) of Pub. L. 110–181, set out as a note under section 1491 of Title 28, Judiciary and Judicial Procedure.
+Par. (2)(B) of this section, as added by Pub. L. 110–181, applicable to a protest or civil action that challenges final selection of the source of performance of an activity or function of a Federal agency made pursuant toa study under OMB Circular A–76 on or after Jan. 1, 2004, and to any other protest or civil action that relates to a public-private competition under Circular A–76 or to a decision to convert a function performed by Federal employees to private sector performance without a competition under Circular A–76, on or after Jan. 28, 2008, see section 326(d) of Pub. L. 110–181, set out as a note under section 1491 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2007 Amendment
 

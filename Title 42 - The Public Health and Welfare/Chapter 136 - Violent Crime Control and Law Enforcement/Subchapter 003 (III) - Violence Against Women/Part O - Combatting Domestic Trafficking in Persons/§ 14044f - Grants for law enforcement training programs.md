@@ -38,7 +38,7 @@ A grant awarded under this section shall be used to—
 
 #### (1) Administrative expenses
 
-&emsp;An eligible entity that receives a grant under this section may use not more than 5percent of the total amount of such grant for administrative expenses.
+&emsp;An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
 
 #### (2) Nonexclusivity
 

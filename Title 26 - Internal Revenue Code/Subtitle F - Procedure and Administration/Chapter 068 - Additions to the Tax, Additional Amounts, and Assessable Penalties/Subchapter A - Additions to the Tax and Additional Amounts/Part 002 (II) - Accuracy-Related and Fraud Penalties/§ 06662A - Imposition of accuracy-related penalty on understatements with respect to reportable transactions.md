@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the highest rate of tax imposed by section 1 (section 11 in the case of a taxpayer which is a corporation), and
 
-&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determined under subtitle A which results from a difference between the taxpayer's treatment of an item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
+&emsp;&emsp;(B) the amount of the decrease (if any) in the aggregate amount of credits determined under subtitle A which results from a difference between the taxpayer's treatment ofan item to which this section applies (as shown on the taxpayer's return of tax) and the proper tax treatment of such item.
 
 > &emsp;For purposes of subparagraph (A), any reduction of the excess of deductions allowed for the taxable year over gross income for such year, and any reduction in the amount of capital losses which would (without regard to section 1211) be allowed for such year, shall be treated as an increase in taxable income.
 
@@ -114,7 +114,7 @@ Pub. L. 111–240, title II, §2103, Sept. 27, 2010, 124 Stat. 2564, provided th
 
 "(a)
 
-In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:
+In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee onFinance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:
 
 &emsp;"(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions).
 
@@ -130,7 +130,7 @@ In General.—The Commissioner of Internal Revenue, in consultation with the Sec
 
 Additional Information.—The report required under subsection (a) shall also include information on the following with respect to each year:
 
-&emsp;"(1) Any action taken under section 330(b) of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
+&emsp;"(1) Any action taken under section 330(b) \[now 330(c)\] of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986).
 
 &emsp;"(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986.
 

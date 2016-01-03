@@ -18,7 +18,7 @@ This section shall apply to—
 
 #### (b) Rate of compensation; limitation on increases; computation of service; effective date of payment
 
-(1) Except as provided in paragraph (2), an employee to whom this section applies shall bepaid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as "longevity compensation") at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
+(1) Except as provided in paragraph (2), an employee to whom this section applies shall be paid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as "longevity compensation") at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
 
 (2) The amount of longevity compensation which may be paid to an employee, when added to his regular annual compensation, shall not exceed the maximum annual compensation which may be paid to Senate employees generally as prescribed by law or orders of the President pro tempore issued under authority of section 4571 of this title.
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements 
 
 <b>1977</b>—Subsec. (b). Figure "1,002" deemed to refer to the figure "1,074", effective Oct. 1, 1977, pursuant to Pub. L. 91–656, §4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
 
-<b>1976</b>—Subsec. (b). Figure "954" deemed to refer to the figure "1,002", effective Oct. 1, 1976, pursuant to Pub. L.91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
+<b>1976</b>—Subsec. (b). Figure "954" deemed to refer to the figure "1,002", effective Oct. 1, 1976, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
 
 <b>1975</b>—Subsec. (b). Figure "906" deemed to refer to the figure "954", effective Oct. 1, 1975, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 2, 1975, set out as a note under section 60a–1 of this title.
 
@@ -88,7 +88,7 @@ Figure "696" deemed to refer to the figure "738", effective Feb. 1, 1971, pursua
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–206, §214(n), substituted "$564" for "540".
 
-Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per annum" for "basic compensation" and "$120 per annum" and struck out "if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180 per annum if at such time such rate is $1,800 or more," before "for each five years of service".
+Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per annum" for "basic compensation" and "$120 per annum" and struck out "if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180per annum if at such time such rate is $1,800 or more," before "for each five years of service".
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–454 repealed subsec. (c) which related to increases for members of Capitol Police.
 

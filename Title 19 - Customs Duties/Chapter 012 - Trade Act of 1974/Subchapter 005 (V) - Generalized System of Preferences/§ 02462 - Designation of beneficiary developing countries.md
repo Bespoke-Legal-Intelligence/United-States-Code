@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(ii) This clause applies if the President determines that—
 
-&emsp;&emsp;&emsp;(I) prompt, adequate, and effective compensation has been or is being made to the citizen, corporation, partnership, or association referred to in clause (i),
+&emsp;&emsp;&emsp;(I) prompt, adequate, and effective compensation has been or is being made to thecitizen, corporation, partnership, or association referred to in clause (i),
 
 &emsp;&emsp;&emsp;(II) good faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or the country described in clause (i) is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(E) Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
 
-&emsp;&emsp;(F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 2405(j)(1)(A) of title 50, Appendix or such country has not taken steps to support the efforts of the United States to combat terrorism.
+&emsp;&emsp;(F) Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
 
 &emsp;&emsp;(G) Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
 
@@ -114,11 +114,11 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (2) Changed circumstances
 
-&emsp;The President shall, after complying with the requirements of subsection (f)(2) of this section, withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2) of this section. Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
+&emsp;The President shall, after complying with the requirements of subsection (f)(2), withdraw or suspend the designation of any country as a beneficiary developing country if, after such designation, the President determines that as the result of changed circumstances such country would be barred from designation as a beneficiary developing country under subsection (b)(2). Such country shall cease to be a beneficiary developing country on the day on which the President issues an Executive order or Presidential proclamation revoking the designation of such country under this subchapter.
 
 #### (3) Advice to Congress
 
-&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c) of this section.
+&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c).
 
 #### (e) Mandatory graduation of beneficiary developing countries
 

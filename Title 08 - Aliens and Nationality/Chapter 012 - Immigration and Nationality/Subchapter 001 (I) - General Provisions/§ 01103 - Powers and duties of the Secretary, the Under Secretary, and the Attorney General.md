@@ -14,7 +14,7 @@
 
 (6) He is authorized to confer or impose upon any employee of the United States, with the consent of the head of the Department or other independent establishment under whose jurisdiction the employee is serving, any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
-(7) He may, with the concurrence of the Secretary of State, establish offices of the Service in foreign countries; and, after consultation with the Secretary of State, he may, whenever in his judgment such action may be necessary to accomplish the purposes of this chapter, detail employees of the Service for duty in foreign countries.
+(7) He may, with the concurrence of the Secretary of State, establish offices of the Service in foreign countries; and, after consultation with the Secretary of State, he may, wheneverin his judgment such action may be necessary to accomplish the purposes of this chapter, detail employees of the Service for duty in foreign countries.
 
 (8) After consultation with the Secretary of State, the Attorney General may authorize officers of a foreign country to be stationed at preclearance facilities in the United States for the purpose of ensuring that persons traveling from or through the United States to that foreign country comply with that country's immigration and related laws.
 
@@ -52,7 +52,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 #### (e) Annual report
 
-(1) The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) of this section and an analysis of trends in immigration and naturalization.
+(1) The Commissioner shall submit to Congress annually a report which contains a summary of the information collected under subsection (d) and an analysis of trends in immigration and naturalization.
 
 (2) Each annual report shall include information on the number, and rate of denial administratively, of applications for naturalization, for each district office of the Service and by national origin group.
 
@@ -64,7 +64,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### (1) In general
 
-&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
+&emsp;The Attorney General shall have such authorities and functions under this chapter andall other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
 
 #### (2) Powers
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 104–208, §134(a), added subsec. (f).
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–649 added subsecs. (c) and (d).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted "instructions" for "intructions" and amended fourth sentence generally. Prior to amendment, fourth sentence read as follows: "He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service."
+<b>1988</b>—Subsec. (a). Pub. L. 100–525, §9(c)(1), substituted "instructions" for "intructions" and amended fourthsentence generally. Prior to amendment, fourth sentence read as follows: "He is authorized, in accordance with the civil-service laws and regulations and the Classification Act of 1949, to appoint such employees of the Service as he deems necessary, and to delegate to them or to any officer or employee of the Department of Justice in his discretion any of the duties and powers imposed upon him in this chapter; he may require or authorize any employee of the Service or the Department of Justice to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon any other employee of the Service."
 
 Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 
@@ -216,7 +216,7 @@ Safety features.—The Attorney General, while constructing the additional fenci
 
 &emsp;"(4)
 
-Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
+Authorization of appropriations.—There are authorized to be appropriated such sums as may benecessary to carry out this subsection. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
 "(c)
 
@@ -252,7 +252,7 @@ Pub. L. 104–208, div. C, title I, §106(a), (b), Sept. 30, 1996, 110 Stat. 300
 
 "(a)
 
-Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure thatthey are consistent with relevant standards of professionalism.
+Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure that they are consistent with relevant standards of professionalism.
 
 "(b)
 
@@ -341,7 +341,7 @@ Hiring of Investigative Agents.—
 
 Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provided that:
 
-"(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The AttorneyGeneral shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
+"(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The Attorney General shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
 
 "(2) At the end of the first year of the pilot program, the Attorney General shall provide for an evaluation of the effectiveness of the program and shall report to Congress on such evaluation and on whether the pilot program should be extended or expanded."
 
@@ -431,7 +431,7 @@ By focusing on the civic, economic, and linguistic integration of new Americans,
 
 Our success as a Nation of immigrants is rooted in our ongoing commitment to welcoming and integrating newcomers into the fabric of our country. It is important that we develop a Federal immigrant integration strategy that is innovative and competitive with those of other industrialized nations and supports mechanisms to ensure that our Nation's diverse people are contributing to society to their fullest potential.
 
-Therefore, I am establishing a White House Task Force on New Americans, an interagency effort to identify and support State and local efforts at integrationthat are working and to consider how to expand and replicate successful models. The Task Force, which will engage with community, business, and faith leaders, as well as State and local elected officials, will help determine additional steps the Federal Government can take to ensure its programs and policies are serving diverse communities that include new Americans.
+Therefore, I am establishing a White House Task Force on New Americans, an interagency effort to identify and support State and local efforts at integration that are working and to consider how to expand and replicate successful models. The Task Force, which will engage with community, business, and faith leaders, as well as State and local elected officials, will help determine additional steps the Federal Government can take to ensure its programs and policies are serving diverse communities that include new Americans.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
 
@@ -491,7 +491,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall,
 
 (b) Within 120 days of the date of this memorandum, the Task Force shall develop and submit to the President an Integration Plan with recommendations for agency actions to further the integration of new Americans. The Integration Plan shall include:
 
-(i) an assessment by each Task Force member of the status and scope of the efforts by the member's department, agency, or office to further the civic, economic, and linguistic integration of new Americans, including a report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning immigrant integration; and
+(i) an assessment by each Task Force member of the status and scope of the efforts by the member's department, agency, or office to further the civic, economic, and linguistic integration of new Americans, includinga report on the status of any offices or programs that have been created to develop, implement, or monitor targeted initiatives concerning immigrant integration; and
 
 (ii) recommendations for issues, programs, or initiatives that should be further evaluated, studied, and implemented, as appropriate.
 

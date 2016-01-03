@@ -42,7 +42,7 @@ July 1, 1952, ch. 539, §§2, 4, 66 Stat. 318, 319; 1953 Reorg. Plan No. 6, §1(
 
 In subsection (a), the words "for the Department of Defense" are inserted for clarity. 5:173 (1st sentence) is omitted as impliedly repealed by section 2 of 1953 Reorganization Plan No. 6, effective June 30, 1953, 67 Stat. 638.
 
-In subsection (b), the words "or any of the departments thereof", "in such manner", "original", and "necessary or" are omitted as surplusage. The words "throughout the Department of Defense" are substituted for the words "either within a bureau or service, between bureaus or services, or between the departments". The word "recurrently" is substituted for the word "repetitively". The words "Only one identification may" are substituted for the words "The single item identification shall".
+In subsection (b), the words "or any of the departments thereof", "in such manner", "original", and"necessary or" are omitted as surplusage. The words "throughout the Department of Defense" are substituted for the words "either within a bureau or service, between bureaus or services, or between the departments". The word "recurrently" is substituted for the word "repetitively". The words "Only one identification may" are substituted for the words "The single item identification shall".
 
 In subsection (c), the words "the most" are omitted as surplusage. The words "to the highest degree practicable" are substituted for the words "achieve the highest practicable degree possible" and "The greatest practicable degree of standardization \* \* \* shall be achieved".
 

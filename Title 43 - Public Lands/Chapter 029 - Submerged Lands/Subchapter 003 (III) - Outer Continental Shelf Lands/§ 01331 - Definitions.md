@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(o) The term "fair market value" means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if therewere no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(o) The term "fair market value" means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term "major Federal action" means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -444,7 +444,7 @@ Act Aug. 7, 1953, ch. 345, §13, 67 Stat. 470, revoked Ex. Ord. No. 10426, Jan. 
 
 #### Authorization of Appropriations
 
-Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
+Act Aug. 7, 1953, ch. 345, §16, 67 Stat. 471, provided that: "There is hereby authorized to be appropriatedsuch sums as may be necessary to carry out the provisions of this Act \[enacting this subchapter\]."
 
 #### Proc. No. 5928. Territorial Sea of United States
 

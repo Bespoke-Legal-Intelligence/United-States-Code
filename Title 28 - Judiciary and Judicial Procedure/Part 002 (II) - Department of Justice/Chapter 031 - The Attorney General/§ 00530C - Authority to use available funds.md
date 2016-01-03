@@ -50,7 +50,7 @@ General permitted uses.—Funds available to the Attorney General (i.e., all fun
 
 &emsp;&emsp;(K) Expenses of—
 
-&emsp;&emsp;&emsp;(i) primary and secondary schooling for dependents of personnel stationed outside the United States at cost not in excess of those authorized by the Department of Defense for the same area, when it is determined by the Attorney General that schools available in the locality are unable to provide adequately for the education of such dependents; and
+&emsp;&emsp;&emsp;(i) primary and secondary schooling for dependents of personnel stationed outsidethe United States at cost not in excess of those authorized by the Department of Defense for the same area, when it is determined by the Attorney General that schools available in the locality are unable to provide adequately for the education of such dependents; and
 
 &emsp;&emsp;&emsp;(ii) transportation of those dependents between their place of residence and schools serving the area which those dependents would normally attend when the Attorney General, under such regulations as he may prescribe, determines that such schools are not accessible by public means of transportation.
 
@@ -198,7 +198,7 @@ Federal Training Facilities.—Unless authorized in writing by the Attorney Gene
 
 "(b)
 
-Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include anexplanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
+Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(ii)".</i>
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) annually submit to the Secretary a report describing—
 
-&emsp;&emsp;&emsp;(i) the activities carried out by the State to enforce such law during the fiscal year preceding the fiscal year for which the State is seeking the grant;
+&emsp;&emsp;&emsp;(i) the activities carried out by the State to enforce such law during the fiscal yearpreceding the fiscal year for which the State is seeking the grant;
 
 &emsp;&emsp;&emsp;(ii) the extent of success the State has achieved in reducing the availability of tobacco products to individuals under the age of 18; and
 

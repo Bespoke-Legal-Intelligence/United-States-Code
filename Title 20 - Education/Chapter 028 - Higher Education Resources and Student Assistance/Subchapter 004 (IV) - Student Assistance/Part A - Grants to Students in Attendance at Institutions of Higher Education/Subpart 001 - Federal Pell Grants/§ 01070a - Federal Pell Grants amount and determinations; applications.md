@@ -16,7 +16,7 @@
 
 &emsp;(i) the maximum Federal Pell Grant, as specified in the last enacted appropriation Act applicable to that award year, plus
 
-&emsp;(ii) the amount of the increase calculated under paragraph (7)(B) for that year <sup>1</sup> except that a student eligible only under 1091(d)(1)(A) <sup>2</sup> of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B), less
+&emsp;(ii) the amount of the increase calculated under paragraph (7)(B) for that year, less
 
 &emsp;(iii) an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
@@ -24,7 +24,7 @@
 
 (3) No Federal Pell Grant under this subpart shall exceed the difference between the expected family contribution for a student and the cost of attendance (as defined in section 1087ll of this title) at the institution at which that student is in attendance. If, with respect to any student, it is determined that the amount of a Federal Pell Grant plus the amount of the expected family contribution for that student exceeds the cost of attendance for that year, the amount of the Federal Pell Grant shall be reduced until the combination of expected family contribution and the amount of the Federal Pell Grant does not exceed the cost of attendance at such institution.
 
-(4) No Federal Pell Grant shall be awarded to a student under this subpart if the amount of that grant for that student as determined under this subsection for any academic year is lessthan ten percent of the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A) for such academic year.
+(4) No Federal Pell Grant shall be awarded to a student under this subpart if the amount of that grant for that student as determined under this subsection for any academic year is less than ten percent of the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A) for such academic year.
 
 (5) Notwithstanding any other provision of this subpart, the Secretary shall allow the amount of the Federal Pell Grant to be exceeded for students participating in a program of study abroad approved for credit by the institution at which the student is enrolled when the reasonable costs of such program are greater than the cost of attendance at the student's home institution, except that the amount of such Federal Pell Grant in any fiscal year shall not exceed the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A), for which a student is eligible during such award year. If the preceding sentence applies, the financial aid administrator at the home institution may use the cost of the study abroad program, rather than the home institution's cost, to determine the cost of attendance of the student.
 
@@ -170,7 +170,7 @@ Payments under this section shall be made in accordance with regulations promulg
 
 &emsp;(D) after making such award report the corrected data to such contractor and to a central processor (if any) designated by the Secretary for a confirmation of the correct computation of amount of the expected family contribution for each such student.
 
-(2) Whenever a student receives an award under this subpart that, due to recalculation errors by the institution of higher education, is in excess of the amount which the student is entitled to receive under this subpart, such institution of higher education shall pay to the Secretary the amount of such excess unless such excess can be resolved in a subsequent disbursement to the institution.
+(2) Whenever a student receives an award under this subpart that, due to recalculation errors by the institution of higher education, is inexcess of the amount which the student is entitled to receive under this subpart, such institution of higher education shall pay to the Secretary the amount of such excess unless such excess can be resolved in a subsequent disbursement to the institution.
 
 (3) Each contractor processing applications for awards under this subpart shall for each academic year after academic year 1986–1987 prepare and submit a report to the Secretary on the correctness of the computations of amount of the expected family contribution, and on the accuracy of the questions on the application form under this subpart for the previous academic year for which the contractor is responsible. The Secretary shall transmit the report, together with the comments and recommendations of the Secretary, to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the authorizing committees.
 
@@ -198,7 +198,7 @@ Any institution of higher education which enters into an agreement with the Secr
 
 &emsp;No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution's default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C of this subchapter, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C of this subchapter on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103; Pub. L. 113–235, div. G, title III, §309(b), Dec. 16, 2014, 128 Stat. 2506.)
+(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103; Pub. L. 113–235, div. G, title III, §309(b), Dec. 16, 2014, 128 Stat. 2506; Pub. L. 114–113, div. H, title III, §313(2), Dec. 18, 2015, 129 Stat. 2639.)
 
 #### Codification
 
@@ -210,9 +210,11 @@ A prior section 1070a, Pub. L. 89–329, title IV, §411, as added Pub. L. 92–
 
 A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 402(a)(3) of Pub. L. 102–325 and is classified to section 1070 of this title.
 
-Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99–498.
+Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, §131(b)(1),title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to section 1070 of this title, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(A)(ii). Pub. L. 114–113 struck out "except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)" after "year".
 
 <b>2014</b>—Subsec. (b)(2)(A)(ii). Pub. L. 113–235 inserted "except that a student eligible only under 1091(d)(1)(A) of this title who first enrolls in an eligible program of study on or after July 1, 2015 shall not be eligible for the amount of the increase calculated under paragraph (7)(B)" after "year".
 
@@ -382,7 +384,7 @@ Subsec. (j). Pub. L. 105–244, §401(f), added subsec. (j).
 
 <b>1994</b>—Subsec. (b)(8). Pub. L. 103–322 amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
-"(8)(A) No basic grant shall be awarded to an incarcerated student under this subpart that exceeds the sum of the amount of tuition and fees normally assessed by the institution of higher education for the course of study such student is pursuing plus an allowance (determined in accordance with regulations issued by the Secretary) for books and supplies associated with such course of study, except that no basic grant shall be awarded to any incarcerated student serving under sentence of death or any life sentence without eligibility for parole or release.
+"(8)(A) No basic grant shall be awarded to an incarcerated student under this subpart that exceeds the sum of the amount of tuition and fees normally assessed by the institution of higher education for the course of study such student is pursuing plus an allowance (determined in accordance with regulations issued by the Secretary) for books and supplies associated with such course of study, except that no basic grantshall be awarded to any incarcerated student serving under sentence of death or any life sentence without eligibility for parole or release.
 
 "(B) Basic grants under this subpart shall only be awarded to incarcerated individuals in a State if such grants are used to supplement and not supplant the level of postsecondary education assistance provided by such State to incarcerated individuals in fiscal year 1988."
 
@@ -474,7 +476,7 @@ Pub. L. 111–152, title II, §2101(c), Mar. 30, 2010, 124 Stat. 1073, provided 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -488,7 +490,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by par
 
 Special rule.—The amendments made by subparagraph (F) of paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug 14, 2008\]."
 
-Pub. L. 110–315, title IV, §401(c)(2), Aug. 14, 2008, 122 Stat. 3190, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect on July 1, 2009."
+Pub. L. 110–315, title IV, §401(c)(2), Aug. 14, 2008, 122 Stat. 3190, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009."
 
 #### Effective Date of 2007 Amendment
 
@@ -540,6 +542,8 @@ Pub. L. 99–498, title XIII, §1306, Oct. 17, 1986, 100 Stat. 1582, directed Se
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
 
+Pub. L. 114–113, div. H, title III, Dec. 18, 2015, 129 Stat. 2635.
+
 Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2501.
 
 Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 396.
@@ -584,7 +588,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title III\], Sept. 30, 1996, 110 
 
 Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–232; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 104–99, title I, §119, Jan. 26, 1996, 110 Stat. 30, prior to repeal by Pub. L. 104–134, title I, §101(d) \[title V, §518\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–248; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–99, title I, §119, Jan. 26, 1996, 110 Stat. 30, prior to repeal by Pub. L. 104–134, title I, §101(d) \[titleV, §518\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–248; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–333, title III, Sept. 30, 1994, 108 Stat. 2564.
 
@@ -601,8 +605,4 @@ Pub. L. 101–166, title III, Nov. 21, 1989, 103 Stat. 1182.
 Pub. L. 100–436, title III, Sept. 20, 1988, 102 Stat. 1704.
 
 Pub. L. 100–202, §101(h) \[title III\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

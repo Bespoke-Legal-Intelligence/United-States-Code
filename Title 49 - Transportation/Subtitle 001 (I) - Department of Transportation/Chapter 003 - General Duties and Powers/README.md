@@ -9,11 +9,13 @@
 | [303\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000303%20-%20Policy%20on%20lands%2C%20wildlife%20and%20waterfowl%20refuges%2C%20and%20historic%20sites.md) | Policy on lands, wildlife and waterfowl refuges, and historic sites. |
 | [303a.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000303a%20-%20Development%20of%20water%20transportation.md) | Development of water transportation. |
 | [304\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000304%20-%20Application%20of%20categorical%20exclusions%20for%20multimodal%20projects.md) | Application of categorical exclusions for multimodal projects. |
+| [304a.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000304a%20-%20Accelerated%20decisionmaking%20in%20environmental%20reviews.md) | Accelerated decisionmaking in environmental reviews. |
 | [305\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000305%20-%20Transportation%20investment%20standards%20and%20criteria.md) | Transportation investment standards and criteria. |
 | [306\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000306%20-%20Prohibited%20discrimination.md) | Prohibited discrimination. |
-| \[307. | Repealed.\] |
+| [307\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000307%20-%20Improving%20State%20and%20Federal%20agency%20engagement%20in%20environmental%20reviews.md) | Improving State and Federal agency engagement in environmental reviews. |
 | [308\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000308%20-%20Reports.md) | Reports. |
 | [309\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000309%20-%20High-speed%20ground%20transportation.md) | High-speed ground transportation. |
+| [310\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000310%20-%20Aligning%20Federal%20environmental%20reviews.md) | Aligning Federal environmental reviews. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,7 +32,7 @@
 | [327\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000327%20-%20Administrative%20working%20capital%20fund.md) | Administrative working capital fund. |
 | [328\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000328%20-%20Transportation%20Systems%20Center%20working%20capital%20fund.md) | Transportation Systems Center working capital fund. |
 | [329\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000329%20-%20Transportation%20information.md) | Transportation information. |
-| [330\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000330%20-%20Research%20contracts.md) | Research contracts. |
+| [330\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000330%20-%20Research%20activities.md) | Research activities. |
 | [331\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000331%20-%20Service%2C%20supplies%2C%20and%20facilities%20at%20remote%20places.md) | Service, supplies, and facilities at remote places. |
 | [332\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000332%20-%20Minority%20Resource%20Center.md) | Minority Resource Center. |
 | [333\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2000333%20-%20Responsibility%20for%20rail%20transportation%20unification%20and%20coordination%20projects.md) | Responsibility for rail transportation unification and coordination projects. |
@@ -53,9 +55,11 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, div. C, title II, §32932(a)(2), July 6, 2012, 126 Stat. 829, struck out item 307 "Safety information and intervention in Interstate Commerce Commission proceedings".
+<b>2015</b>—Pub. L. 114–94, div. A, title I, §§1311(b), 1312(b), 1313(b), title VI, §6011(c), Dec. 4, 2015, 129 Stat. 1399, 1400, 1402, 1569, added items 304a, 307, and 310 and substituted "Research activities" for "Research contracts" in item 330.
 
-Pub. L. 112–141, div. A, title I, §1314(b), July 6, 2012, 126 Stat. 549, which directed the general amendment of the item relating to section 304 in the analysis for title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 304 read as follows: "Joint activities with the Secretary of Housing and Urban Development".
+Pub. L. 114–94, div. A, title I, §1446(d)(4), Dec. 4, 2015, 129 Stat. 1438, amended section 1314(b) of Pub. L. 112–141, effective July 6, 2012, as if included in Pub. L. 112–141 as enacted. See 2012 Amendment note below.
+
+<b>2012</b>—Pub. L. 112–141, div. A, title I, §1314(b), div. C, title II, §32932(a)(2), July 6, 2012, 126 Stat. 549, 829, as amended by Pub. L. 114–94, div. A, title I, §1446(d)(4), Dec. 4, 2015, 129 Stat. 1438, substituted "Application of categorical exclusions for multimodal projects" for "Joint activities with the Secretary of Housing and Urban Development" in item 304 and struck out item 307 "Safety information and intervention in Interstate Commerce Commission proceedings".
 
 <b>2003</b>—Pub. L. 108–168, §8(b)(2), Dec. 6, 2003, 117 Stat. 2035, added item 354.
 

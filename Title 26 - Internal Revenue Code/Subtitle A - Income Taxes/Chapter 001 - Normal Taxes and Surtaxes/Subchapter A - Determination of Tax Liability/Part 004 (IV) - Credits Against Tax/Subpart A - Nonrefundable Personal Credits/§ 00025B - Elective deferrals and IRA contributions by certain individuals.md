@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
+&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of anydistribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
 
 #### (B) Testing period
 

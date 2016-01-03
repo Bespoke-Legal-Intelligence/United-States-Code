@@ -16,7 +16,7 @@ No charitable organization, or any trustee, director, officer, employee, or volu
 
 #### (c) State action
 
-Notwithstanding subsections (a) and (b) of this section, during the 3-year period beginning on December 8, 1995, a State may enact a statute that specifically refers to this section and provides prospectively that this section shall not preempt the laws of that State referred to in this section.
+Notwithstanding subsections (a) and (b), during the 3-year period beginning on December 8, 1995, a State may enact a statute that specifically refers to this section and provides prospectively that this section shall not preempt the laws of that State referred to in this section.
 
 #### (d) Definitions
 
@@ -36,5 +36,5 @@ Section was enacted as part of the Philanthropy Protection Act of 1995, and not 
 
 #### Effective Date
 
-Section applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in this section, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as an Effective Date of 1995 Amendment note under section 77c of this title.
+Section applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in this section, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as an Effective Date of 1995 Amendment note under section 77c of this title.
 

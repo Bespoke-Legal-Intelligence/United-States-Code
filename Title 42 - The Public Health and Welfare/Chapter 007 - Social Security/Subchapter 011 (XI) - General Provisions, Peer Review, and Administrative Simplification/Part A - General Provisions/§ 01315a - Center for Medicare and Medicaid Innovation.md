@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(iv) Promote <sup>1</sup> care coordination between providers of services and suppliers that transition health care providers away from fee-for-service based reimbursement and toward salary-based payment.
 
-&emsp;&emsp;&emsp;(v) Supporting care coordination for chronically-ill applicable individuals at high risk of hospitalization through a health information technology-enabled provider network that includes care coordinators, a chronic disease registry, and home tele-health technology.
+&emsp;&emsp;&emsp;(v) Supporting care coordination for chronically-ill applicable individuals at high risk of hospitalization through a health information technology-enabled provider network that includes carecoordinators, a chronic disease registry, and home tele-health technology.
 
 &emsp;&emsp;&emsp;(vi) Varying payment to physicians who order advanced diagnostic imaging services (as defined in section 1395m(e)(1)(B) of this title) according to the physician's adherence to appropriateness criteria for the ordering of such services, as determined in consultation with physician specialty groups and other relevant stakeholders.
 
@@ -106,6 +106,14 @@
 
 &emsp;&emsp;&emsp;(xx) Utilizing a diverse network of providers of services and suppliers to improve care coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 (42 U.S.C. 1395b–1 note).
 
+&emsp;&emsp;&emsp;(xxi) Focusing primarily on physicians' services (as defined in section 1395w–4(j)(3) of this title) furnished by physicians who are not primary care practitioners.
+
+&emsp;&emsp;&emsp;(xxii) Focusing on practices of 15 or fewer professionals.
+
+&emsp;&emsp;&emsp;(xxiii) Focusing on risk-based models for small physician practices which may involve two-sided risk and prospective patient assignment, and which examine risk-adjusted decreases in mortality rates, hospital readmissions rates, and other relevant and appropriate clinical measures.
+
+&emsp;&emsp;&emsp;(xxiv) Focusing primarily on subchapter XIX, working in conjunction with the Center for Medicaid and CHIP Services.
+
 #### (C) Additional factors for consideration
 
 &emsp;&emsp;In selecting models for testing under subparagraph (A), the CMI may consider the following additional factors:
@@ -124,7 +132,7 @@
 
 &emsp;&emsp;&emsp;(vii) Whether, under the model, providers of services and suppliers are able to share information with patients, caregivers, and other providers of services and suppliers on a real time basis.
 
-&emsp;&emsp;&emsp;(viii) Whether the model demonstrates effective linkage with other public sector or private sector payers.
+&emsp;&emsp;&emsp;(viii) Whether the model demonstrates effective linkage with other public sector payers, private sector payers, or statewide payment models.
 
 #### (3) Budget neutrality
 
@@ -182,7 +190,7 @@ Taking into account the evaluation under subsection (b)(4), the Secretary may, t
 
 #### (1) Waiver authority
 
-&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), and 1396b(m)(2)(A)(iii) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
 
 #### (2) Limitations on review
 
@@ -228,15 +236,21 @@ The Center may carry out activities under this section with respect to subchapte
 
 #### (g) Report to Congress
 
-Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe themodels tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
+Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
 
-(Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939.)
+(Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939; Pub. L. 114–10, title I, §101(e)(4), Apr. 16, 2015, 129 Stat. 122; Pub. L. 114–85, §1, Nov. 5, 2015, 129 Stat. 674.)
 
 #### References in Text
 
 Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B)(xx), is section 4016 of Pub. L. 105–33, which is set out as a note under section 1395b–1 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B)(xxi) to (xxiv). Pub. L. 114–10, §101(e)(4)(A), added cls. (xxi) to (xxiv).
+
+Subsec. (b)(2)(C)(viii). Pub. L. 114–10, §101(e)(4)(B), substituted "other public sector payers, private sector payers, or statewide payment models" for "other public sector or private sector payers".
+
+Subsec. (d)(1). Pub. L. 114–85 substituted "1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section)" for "and 1396b(m)(2)(A)(iii)".
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–148, §10306(1), added par. (5).
 
@@ -255,6 +269,10 @@ Subsec. (c)(1)(B). Pub. L. 111–148, §10306(4)(A), substituted "patient care w
 Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted "reduce (or would not result in any increase in) net program spending under applicable subchapters; and" for "reduce program spending under applicable subchapters."
 
 Subsec. (c)(3). Pub. L. 111–148, §10306(4)(C), added par. (3).
+
+#### Construction Regarding Telehealth Services
+
+Pub. L. 114–10, title I, §101(e)(5), Apr. 16, 2015, 129 Stat. 122, provided that: "Nothing in the provisions of, or amendments made by, this title \[see Tables for classification\] shall be construed as precluding an alternative payment model or a qualifying APM participant (as those terms are defined in section 1833(z) of the Social Security Act \[42 U.S.C. 1395l(z)\], as added by paragraph (1)) from furnishing a telehealth service for which payment is not made under section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m))."
 
 #### Medicaid Global Payment System Demonstration Project
 

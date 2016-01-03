@@ -14,9 +14,9 @@ Congress finds and declares that—
 
 &emsp;&emsp;(B) which require implementing legislation by the Congress of the United States and the Legislature of the State of Florida;
 
-&emsp;(5) Congress shares with the parties to such agreements a desire to settle these Indianclaims in the State of Florida without additional cost to the United States;
+&emsp;(5) Congress shares with the parties to such agreements a desire to settle these Indian claims in the State of Florida without additional cost to the United States;
 
-&emsp;(6) there is considerable uncertainty as to the nature and extent of the water rights of the tribe, and that continued controversy over this should be settled by agreement; and
+&emsp;(6) there is considerable uncertainty as to the nature and extent of the water rights ofthe tribe, and that continued controversy over this should be settled by agreement; and
 
 &emsp;(7) the State, the district, and the tribe have entered into a compact which, if approved by Congress and the Florida Legislature, creates specifically defined water rights in lieu of the undefined water rights claimed by the tribe.
 

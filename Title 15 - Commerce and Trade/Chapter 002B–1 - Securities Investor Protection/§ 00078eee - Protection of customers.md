@@ -8,7 +8,7 @@
 
 #### (2) Action by self-regulatory organization
 
-&emsp;If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) of this section with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
+&emsp;If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
 
 #### (3) Action by SIPC
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) <sup>1</sup> the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
 
-&emsp;&emsp;(B) <sup>2</sup> one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member.
+&emsp;&emsp;(B) <sup>2</sup> one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
 
 #### (B) Consent required
 
@@ -28,7 +28,7 @@
 
 &emsp;An application with respect to a member of SIPC filed with a court under paragraph (3)—
 
-&emsp;&emsp;(A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3) of this section; and
+&emsp;&emsp;(A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3); and
 
 &emsp;&emsp;(B) may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding or any proceeding to reorganize, conserve, or liquidate such member or its property, or any proceeding to enforce a lien against property of such member.
 
@@ -36,7 +36,7 @@
 
 #### (1) Issuance of protective decree
 
-&emsp;Upon receipt of an application by SIPC under subsection (a)(3) of this section, the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
+&emsp;Upon receipt of an application by SIPC under subsection (a)(3), the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
 
 &emsp;&emsp;(A) is insolvent within the meaning of section 101 of title 11, or is unable to meet its obligations as they mature;
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(D) is unable to make such computations as may be necessary to establish compliance with such financial responsibility or hypothecation rules.
 
-> &emsp;Unless the debtor consents to the issuance of a protective decree, the application shall be heard three business days after the date onwhich it is filed, or at such other time as the court shall determine, taking into consideration the urgency which the circumstances require.
+> &emsp;Unless the debtor consents to the issuance of a protective decree, the application shall be heard three business days after the date on which it is filed, or at such other time as the court shall determine, taking into consideration the urgency which the circumstances require.
 
 #### (2) Jurisdiction and powers of court
 
@@ -74,7 +74,7 @@
 
 #### (C) Exception from stay
 
-&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) of this section nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
+&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
@@ -164,7 +164,7 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted "section 101 of title 11" for "the Bankruptcy Act".
 
-Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
+Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D),respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 95–598, §308(b), substituted "the United States having jurisdiction over cases under title 11" for "bankruptcy by the Bankruptcy Act".
 
@@ -182,7 +182,7 @@ Subsec. (b)(5)(D). Pub. L. 95–598, §308(f)(2), (4), (5), redesignated subpar.
 
 Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity ofsuch jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
 

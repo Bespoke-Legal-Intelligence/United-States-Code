@@ -22,7 +22,7 @@ The Secretary may not provide assistance for a proposed project under this part 
 
 &emsp;&emsp;(C) they will establish policies and practices that are consistent with, and do not restrict the exercise of rights provided by, part B of subchapter VI \[42 U.S.C. 11431 et seq.\], and other laws relating to the provision of educational and related services to individuals and families experiencing homelessness;
 
-&emsp;&emsp;(D) in the case of programs that provide housing or services to families, they will designate a staff person to be responsible for ensuring that children being served in the program are enrolled in school and connected to appropriate services in the community, including early childhood programs such as Head Start, part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], and programs authorized under part B of subchapter VI of this chapter (42 U.S.C. 11431 et seq.); and
+&emsp;&emsp;(D) in the case of programs that provide housing or services to families, they will designate a staff person to be responsible for ensuring that children being served in the program are enrolled in school and connected to appropriate services in the community, including early childhood programssuch as Head Start, part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], and programs authorized under part B of subchapter VI of this chapter (42 U.S.C. 11431 et seq.); and
 
 &emsp;&emsp;(E) they will provide data and reports as required by the Secretary pursuant to the Act; <sup>2</sup>
 

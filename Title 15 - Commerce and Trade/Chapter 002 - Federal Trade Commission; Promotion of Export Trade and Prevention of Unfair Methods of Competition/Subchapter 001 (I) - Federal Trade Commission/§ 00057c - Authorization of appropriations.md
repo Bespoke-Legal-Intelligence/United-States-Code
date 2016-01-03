@@ -14,7 +14,7 @@ A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is class
 
 <b>1994</b>—Pub. L. 103–312, §14, amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982."
 
-<b>1980</b>—Pub. L. 96–252, §17, substituted "1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982" for "1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law".
+<b>1980</b>—Pub. L. 96–252, §17, substituted "1977; not to exceed $70,000,000 for the fiscal year ending September 30,1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982" for "1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law".
 
 <b>1976</b>—Pub. L. 94–299 substituted "$47,091,000" for "$46,000,000".
 

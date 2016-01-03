@@ -10,7 +10,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(1) 10 percent shall be available for grants under the program authorized by section 3796gg–10 of this title, which shall not otherwise be subject to the requirements of this subchapter (other than section 3796gg–2 of this title);
 
-&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amountmade available under this paragraph for each fiscal year;
+&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
@@ -174,11 +174,11 @@ A State may use any returned or remaining funds for any authorized purpose under
 
 &emsp;(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) <sup>4</sup>
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66.)
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2),Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66.)
 
 #### References in Text
 
-This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f),was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
+This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
 The date of enactment of this Act, referred to in subsec. (c)(5), probably means the date of enactment of Pub. L. 113–4, which was approved Mar. 7, 2013.
 

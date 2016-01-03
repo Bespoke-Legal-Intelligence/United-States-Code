@@ -96,7 +96,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable byreason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
 
 #### (f) References to Oil Pollution Act of 1990
 
@@ -134,7 +134,7 @@ The date of the enactment of this subsection, referred to in subsec. (f), probab
 
 "(5) amounts credited to such trust fund under section 311(s) of the Federal Water Pollution Control Act."
 
-Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting "Expenditure purposes" for"General expenditure purposes" in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
+Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting "Expenditure purposes" for "General expenditure purposes" in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
 
 Subsec. (c)(2)(A). Pub. L. 101–380, §9001(c), substituted "$1,000,000,000" for "$500,000,000" in heading and in cl. (i), and substituted "$500,000,000" for "$250,000,000" in cl. (ii).
 
@@ -194,7 +194,7 @@ Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507, provided that
 
 #### Deposit of Certain Penalties Into Oil Spill Liability Trust Fund
 
-Pub. L. 101–380, title IV, §4304, Aug. 18, 1990, 104 Stat. 540, provided that: "Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill LiabilityTrust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509)."
+Pub. L. 101–380, title IV, §4304, Aug. 18, 1990, 104 Stat. 540, provided that: "Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\], section 309(c) of that Act \[33 U.S.C. 1319(c)\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509)."
 
 #### Coordination With Superfund Reauthorization
 

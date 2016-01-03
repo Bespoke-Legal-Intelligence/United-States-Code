@@ -24,7 +24,7 @@ The effective date of this subchapter, referred to in subsec. (c), is 15 days af
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, with subsec. (c) of this section applicable only with respect to any livestock emergency in 1988, see section 101(c) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, with subsec. (c) of this section applicable only with respect toany livestock emergency in 1988, see section 101(c) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Inapplicability of Section
 

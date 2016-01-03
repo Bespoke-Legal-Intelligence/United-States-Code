@@ -1,6 +1,6 @@
 ### §§2985 to 2985c. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2985, Pub. L. 88–452, title VII, §741, as added Pub. L. 92–424, §25(a), Sept. 19, 1972, 86 Stat. 703; amended Pub. L. 93–644, §10(a), Jan. 4, 1975, 88 Stat. 2321; Pub. L. 94–341, §2(b)(7), (8), July 6, 1976, 90 Stat. 806, relatedto technical and training assistance for supportive programs and activities.
+Section 2985, Pub. L. 88–452, title VII, §741, as added Pub. L. 92–424, §25(a), Sept. 19, 1972, 86 Stat. 703; amended Pub. L. 93–644, §10(a), Jan. 4, 1975, 88 Stat. 2321; Pub. L. 94–341, §2(b)(7), (8), July 6, 1976, 90 Stat. 806, related to technical and training assistance for supportive programs and activities.
 
 Section 2985a, Pub. L. 88–452, title VII, §742, as added Pub. L. 93–644, §10(a), Jan. 4, 1975, 88 Stat. 2321; amended 94–341, §2(b)(9)–(12), July 6, 1976, 90 Stat. 806; Pub. L. 95–568, §14(j), Nov. 2, 1978, 92 Stat. 2438, related to application of other resources.
 

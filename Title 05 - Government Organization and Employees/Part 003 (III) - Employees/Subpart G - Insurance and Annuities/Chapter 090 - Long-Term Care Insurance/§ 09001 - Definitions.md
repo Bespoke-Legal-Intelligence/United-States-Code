@@ -80,7 +80,7 @@ Appropriate secretary.—The term "appropriate Secretary" means—
 
 &emsp;&emsp;(B) with respect to the Coast Guard when it is not operating as a service of the Navy, the Secretary of Homeland Security;
 
-&emsp;&emsp;(C) with respect to the commissioned corps of the National Oceanic and AtmosphericAdministration, the Secretary of Commerce; and
+&emsp;&emsp;(C) with respect to the commissioned corps of the National Oceanic and Atmospheric Administration, the Secretary of Commerce; and
 
 &emsp;&emsp;(D) with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 

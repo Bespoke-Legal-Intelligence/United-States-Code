@@ -85,7 +85,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conductedunder section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
+&emsp;Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conducted under section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
 
 #### (2) Special rule for fuels other than gasoline
 
@@ -159,7 +159,7 @@ Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(iii), Oct. 22, 1986, 100 Stat. 28
 
 #### Effective Date
 
-Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
+Pub. L. 95–618, title II, §201(g), Nov. 9, 1978, 92 Stat. 3184, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model yearautomobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\])."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

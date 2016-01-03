@@ -88,6 +88,14 @@ For purposes of this section—
 
 &emsp;&emsp;Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
 
+#### (F) Exemption for health coverage under TRICARE or the Veterans Administration
+
+&emsp;&emsp;Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+
+&emsp;&emsp;&emsp;(i) chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
+
+&emsp;&emsp;&emsp;(ii) under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+
 #### (3) Applicable premium tax credit and cost-sharing reduction
 
 &emsp;The term "applicable premium tax credit and cost-sharing reduction" means—
@@ -144,7 +152,7 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
 
-(Added and amended Pub. L. 111–148, title I, §1513(a), title X, §§10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, 124 Stat. 253, 910, 914; Pub. L. 111–152, title I, §1003, Mar. 30, 2010, 124 Stat. 1033; Pub. L. 112–10, div. B, title VIII, §1858(b)(4), Apr. 15, 2011, 125 Stat. 169.)
+(Added and amended Pub. L. 111–148, title I, §1513(a), title X, §§10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, 124 Stat. 253, 910, 914; Pub. L. 111–152, title I, §1003, Mar. 30, 2010, 124 Stat. 1033; Pub. L. 112–10, div. B, title VIII, §1858(b)(4), Apr. 15, 2011, 125 Stat. 169; Pub. L. 114–41, title IV, §4007(a)(1), July 31, 2015, 129 Stat. 465.)
 
 #### References in Text
 
@@ -152,7 +160,9 @@ The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: "No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month."
+<b>2015</b>—Subsec. (c)(2)(F). Pub. L. 114–41 added subpar. (F).
+
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: "No assessable payment shall beimposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month."
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–152, §1003(d), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
 
@@ -183,6 +193,10 @@ Subsec. (d)(4)(A). Pub. L. 111–148, §10106(f)(1), inserted ", with respect t
 Subsec. (d)(5)(A). Pub. L. 111–152, §1003(b)(3), substituted "subsection (b) and paragraph (1)" for "subsection (b)(2) and (d)(1)" in introductory provisions.
 
 Subsec. (e). Pub. L. 111–152, §1003(d), redesignated subsec. (e) as (d).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–41, title IV, §4007(a)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2013."
 
 #### Effective Date of 2011 Amendment
 

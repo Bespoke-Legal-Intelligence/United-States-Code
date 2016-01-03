@@ -30,7 +30,7 @@ Each eligible agency that is using assistance provided under this section to car
 
 #### (d) Report
 
-In addition to any report required under section 3141 of this title, each eligible agency that receives assistance provided under this section shall annually prepare and submit to the Secretary a report on the progress, as described in section 3141 of this title, of the eligible agency with respect to the programs and activities carried out under this section, including the relative rate of recidivism for the criminal offenders served.
+In addition to any report required under section 3141 of this title, each eligible agency thatreceives assistance provided under this section shall annually prepare and submit to the Secretary a report on the progress, as described in section 3141 of this title, of the eligible agency with respect to the programs and activities carried out under this section, including the relative rate of recidivism for the criminal offenders served.
 
 #### (e) Definitions
 
@@ -60,5 +60,5 @@ In this section:
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

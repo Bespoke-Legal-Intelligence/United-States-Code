@@ -29,6 +29,7 @@
 | [20118\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020118%20-%20Prohibition%20on%20public%20disclosure%20of%20railroad%20safety%20analysis%20records.md) | Prohibition on public disclosure of railroad safety analysis records. |
 | [20119\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020119%20-%20Study%20on%20use%20of%20certain%20reports%20and%20surveys.md) | Study on use of certain reports and surveys. |
 | [20120\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020120%20-%20Enforcement%20report.md) | Enforcement report. |
+| [20121\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2020121%20-%20Repair%20and%20replacement%20of%20damaged%20track%20inspection%20equipment.md) | Repair and replacement of damaged track inspection equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,7 +60,7 @@
 | [20151\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020151%20-%20Railroad%20trespassing%2C%20vandalism%2C%20and%20highway-rail%20grade%20crossing%20warning%20sign%20violation%20prevention%20strategy.md) | Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy. |
 | [20152\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020152%20-%20Notification%20of%20grade%20crossing%20problems.md) | Notification of grade crossing problems. |
 | [20153\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020153%20-%20Audible%20warnings%20at%20highway-rail%20grade%20crossings.md) | Audible warnings at highway-rail grade crossings. |
-| [20154\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020154%20-%20Capital%20grants%20for%20rail%20line%20relocation%20projects.md) | Capital grants for rail line relocation projects. |
+| \[20154. | Repealed.\] |
 | [20155\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020155%20-%20Tank%20cars.md) | Tank cars. |
 | [20156\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020156%20-%20Railroad%20safety%20risk%20reduction%20program.md) | Railroad safety risk reduction program. |
 | [20157\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020157%20-%20Implementation%20of%20positive%20train%20control%20systems.md) | Implementation of positive train control systems. |
@@ -77,13 +78,16 @@
 |  |  |
 | :--- | ---: |
 | [20166\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020166%20-%20Emergency%20escape%20breathing%20apparatus.md) | Emergency escape breathing apparatus. |
-| [20167\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020167%20-%20Railroad%20safety%20infrastructure%20improvement%20grants.md) | Railroad safety infrastructure improvement grants. |
+| \[20167. | Repealed.\] |
+| [20168\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020168%20-%20Installation%20of%20audio%20and%20image%20recording%20devices.md) | Installation of audio and image recording devices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-Pub. L. 110–432, div. A, title I, §§103(b), 104(b), 105(b), 107(b), 109(b), title II, §§203(b), 204(b), 205(b), 208(b), 210(b), title III, §303(b), title IV, §§401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, 122 Stat. 4856, 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted "Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy" for "Railroad trespassing and vandalism prevention strategy" in item 20151 and "Notification of grade crossing problems" for "Emergency notification of grade crossing problems" in item 20152, and added items 20156 to 20167.
+2015–Pub. L. 114–94, div. A, title XI, §§11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, 129 Stat. 1648, 1687, 1689, added items 20121 and 20168 and struck out items 20154 "Capital grants for rail line relocation projects" and 20167 "Railroad safety infrastructure improvement grants". Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
+
+<b>2008</b>—Pub. L. 110–432, div. A, title I, §§103(b), 104(b), 105(b), 107(b), 109(b), title II, §§203(b), 204(b), 205(b), 208(b), 210(b), title III, §303(b), title IV, §§401(b), 402(e), 406(b), 409(b), 413(b), 418(b), Oct. 16, 2008, 122 Stat. 4856, 4858–4860, 4867, 4869, 4871, 4873, 4876, 4877, 4879, 4883, 4884, 4886, 4887, 4889, 4892, added items 20116 and 20118 to 20120, substituted "Railroad trespassing, vandalism, and highway-rail grade crossing warning sign violation prevention strategy" for "Railroad trespassing and vandalism prevention strategy" in item 20151 and "Notification of grade crossing problems" for "Emergency notification of grade crossing problems" in item 20152, and added items 20156 to 20167.
 
 <b>2005</b>—Pub. L. 109–59, title IX, §§9002(a)(2), 9005(b)(2), Aug. 10, 2005, 119 Stat. 1921, 1925, added items 20154 and 20155.
 

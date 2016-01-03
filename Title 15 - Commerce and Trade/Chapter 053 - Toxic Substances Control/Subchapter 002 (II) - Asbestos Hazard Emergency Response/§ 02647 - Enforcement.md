@@ -22,7 +22,7 @@ A local educational agency is not liable for any civil penalty under subchapter 
 
 #### (c) Enforcement considerations
 
-(1) In determining the amount of a civil penalty to be assessed under subsection (a) of this section against a local educational agency, the Administrator shall consider—
+(1) In determining the amount of a civil penalty to be assessed under subsection (a) against a local educational agency, the Administrator shall consider—
 
 &emsp;(A) the significance of the violation;
 
@@ -46,7 +46,7 @@ Any person may file a complaint with the Administrator or with the Governor of t
 
 (3) The Administrator may hold a public hearing or may conduct such investigation or proceeding as the Administrator deems appropriate in order to determine whether or not such petition should be granted.
 
-(4) Within 90 days after filing of a petition described in paragraph (1), the Administrator shall either grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with this subchapter. Ifthe Administrator denies such petition, the Administrator shall publish in the Federal Register the Administrator's reasons for such denial. The granting or denial of a petition under this subsection shall not affect any deadline or other requirement of this subchapter.
+(4) Within 90 days after filing of a petition described in paragraph (1), the Administrator shall either grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with this subchapter. If the Administrator denies such petition, the Administrator shall publish in the Federal Register the Administrator's reasons for such denial. The granting or denial of a petition under this subsection shall not affect any deadline or other requirement of this subchapter.
 
 #### (f) Citizen civil actions with respect to EPA regulations
 

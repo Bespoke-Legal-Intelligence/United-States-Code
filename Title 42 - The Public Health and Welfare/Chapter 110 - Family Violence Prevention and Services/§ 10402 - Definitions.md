@@ -80,13 +80,21 @@ In this chapter:
 
 &emsp;The term "underserved populations" has the meaning given the term in section 13925(a) of this title. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) <sup>1</sup> of this title.
 
-(Pub. L. 98–457, title III, §302, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484.)
+(Pub. L. 98–457, title III, §302, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484; amended Pub. L. 114–95, title IX, §9215(ii), Dec. 10, 2015, 129 Stat. 2175.)
 
 #### Prior Provisions
 
 A prior section 10402, Pub. L. 98–457, title III, §303, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title III, §302, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §§303–309(a), 310, 311(a), May 28, 1992, 106 Stat. 201–203; Pub. L. 103–322, title IV, §40271, Sept. 13, 1994, 108 Stat. 1937; Pub. L. 104–235, title II, §201, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 108–36, title IV, §§401, 415(2), (3), June 25, 2003, 117 Stat. 825, 830, related to authorization of State grants, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10406 of this title.
 
 A prior section 302 of Pub. L. 98–457 was classified to section 10401 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Amendments
+
+<b>2015</b>—Par. (6). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to 7517 of title 20.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

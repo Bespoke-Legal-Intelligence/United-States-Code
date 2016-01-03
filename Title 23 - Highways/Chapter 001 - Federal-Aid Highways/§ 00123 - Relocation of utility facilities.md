@@ -24,7 +24,7 @@ Pub. L. 105–178, title I, §1213(e), June 9, 1998, 112 Stat. 201, provided tha
 
 "(1)
 
-Study.—The Comptroller General shall conduct a study to assess the impact that a utility company's failure to relocate its facilities in a timely manner has on the delivery and cost of Federal-aid highway and bridge projects. The study shall also assess the following:
+Study.—The Comptroller General shall conduct a study to assess the impact that a utility company'sfailure to relocate its facilities in a timely manner has on the delivery and cost of Federal-aid highway and bridge projects. The study shall also assess the following:
 
 &emsp;"(A) Methods States use to mitigate such delays, including the use of the courts to compel cooperation.
 

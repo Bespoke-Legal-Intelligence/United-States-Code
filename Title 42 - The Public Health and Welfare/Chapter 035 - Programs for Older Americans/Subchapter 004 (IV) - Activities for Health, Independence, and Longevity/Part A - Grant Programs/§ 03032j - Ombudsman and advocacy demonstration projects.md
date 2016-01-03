@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Assistant Secretary shall award grants to not fewer than three and not more than 10 States to conduct demonstrations and evaluate cooperative projects between the State long-term care ombudsman program, legal assistance agencies, and the State protection and advocacy systems for individuals with developmental disabilities and individuals with mental illness, established under part C of the Developmental Disabilities Assistance and Bill of Rights Act <sup>1</sup> (42 U.S.C. 6041 et seq.) and under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.).
+The Assistant Secretary shall award grants to not fewer than three and not more than 10 States to conduct demonstrations and evaluate cooperative projects between the State long-term care ombudsman program, legal assistance agencies, and the State protection and advocacy systems for individuals with developmental disabilities and individuals with mental illness, established under part C of the Developmental Disabilities Assistance and Bill of Rights Act <sup>1</sup> (42 U.S.C. 6041 et seq.) and under the Protectionand Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.).
 
 #### (b) Report
 

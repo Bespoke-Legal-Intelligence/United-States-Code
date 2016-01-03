@@ -36,7 +36,7 @@ Money realized from a foreclosure sale shall be made available for obligation an
 
 #### (1) Other lienholders and the mortgagor
 
-&emsp;Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) of this section shall be paid in the following order:
+&emsp;Any surplus of proceeds from a foreclosure sale, after payment of the items described in subsection (a) shall be paid in the following order:
 
 &emsp;&emsp;(A) First, to holders of liens recorded after the mortgage in the order of priority under Federal law or the law of the State in which the security property is located.
 

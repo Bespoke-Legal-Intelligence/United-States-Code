@@ -36,7 +36,7 @@ In determining the amount of any State's Federal share of the cost of such proje
 
 #### (B) State contributions
 
-&emsp;&emsp;State contributions, including contributions by the designated State agency to provide support services to the Council pursuant to section 15025(d)(4) of this title, may be counted as part of such State's non-Federal share of the cost of projects supported under this part.
+&emsp;&emsp;State contributions, including contributions by the designated State agency to provide support services to the Council pursuant to section 15025(d)(4) of this title, may becounted as part of such State's non-Federal share of the cost of projects supported under this part.
 
 #### (3) Variations of the non-Federal share
 

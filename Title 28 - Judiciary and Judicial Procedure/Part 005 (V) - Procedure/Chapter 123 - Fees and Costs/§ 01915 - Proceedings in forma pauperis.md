@@ -48,7 +48,7 @@
 
 (h) As used in this section, the term "prisoner" means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-(June 25, 1948, ch. 646, 62 Stat. 954; May 24, 1949, ch. 139, §98, 63 Stat. 104; Oct. 31, 1951, ch. 655, §51(b), (c), 65 Stat. 727; Pub. L. 86–320, Sept. 21, 1959, 73 Stat. 590; Pub. L. 96–82, §6, Oct. 10, 1979, 93 Stat. 645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(a), (c)–(e)\], Apr. 26, 1996, 110 Stat. 1321, 1321–73 to 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(June 25, 1948, ch. 646, 62 Stat. 954; May 24, 1949, ch. 139, §98, 63 Stat. 104; Oct. 31, 1951, ch. 655, §51(b), (c), 65 Stat. 727; Pub. L. 86–320, Sept. 21, 1959, 73 Stat. 590; Pub. L. 96–82, §6, Oct. 10, 1979, 93 Stat. 645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(a), (c)–(e)\], Apr. 26, 1996, 110 Stat. 1321, 1321-73 to 1321-75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Historical and Revision Notes
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2), (4)\], r
 
 Subsec. (d). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2)\], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(5)\], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The court may request an attorney to represent any such person unable to employ counsel and may dismiss the case if the allegation of poverty is untrue, or if satisfied that the action is frivolous or malicious."
+Subsec. (e). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(5)\], amended subsec. (e) generally. Prior toamendment, subsec. (e) read as follows: "The court may request an attorney to represent any such person unable to employ counsel and may dismiss the case if the allegation of poverty is untrue, or if satisfied that the action is frivolous or malicious."
 
 Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(2)\], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -110,5 +110,5 @@ Subsec. (e). Act May 24, 1949, §98(b), inserted "or printed record" after "sten
 
 #### Change of Name
 
-"United States magistrate judge" substituted for "United States magistrate" in subsec. (c) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 

@@ -24,17 +24,17 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(B) the purchaser or lessee of such real estate is a duly organized corporation, partnership, trust, or business entity engaged in commercial or industrial business;
 
-&emsp;&emsp;(C) the purchaser or lessee of such real estate is represented in the transaction of sale or lease by a representative of its own selection;
+&emsp;&emsp;(C) the purchaser or lessee of such real estate is represented in the transaction of saleor lease by a representative of its own selection;
 
 &emsp;&emsp;(D) the purchaser or lessee of such real estate affirms in writing to the seller or lessor that it either (i) is purchasing or leasing such real estate substantially for its own use, or (ii) has a binding commitment to sell, lease, or sublease such real estate to an entity which meets the requirements of subparagraph (B), is engaged in commercial or industrial business, and is not affiliated with the seller, lessor, or agent thereof; and
 
-&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document,the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
+&emsp;&emsp;(E) a policy of title insurance or a title opinion is issued in connection with the transaction showing that title to the real estate purchased or leased is vested in the seller or lessor, subject only to such exceptions as may be approved in writing by such purchaser or the lessee prior to recordation of the instrument of conveyance or execution of the lease, but (i) nothing herein shall be construed as requiring the recordation of a lease, and (ii) any purchaser or lessee may waive, in writing in a separate document, the requirement of this subparagraph that a policy of title insurance or title opinion be issued in connection with the transaction.
 
 #### (b) Sale or lease of lots subject to other statutory registration and disclosure requirements
 
 Unless the method of disposition is adopted for the purpose of evasion of this chapter, the provisions requiring registration and disclosure (as specified in section 1703(a)(1) of this title and sections 1704 through 1707 of this title) shall not apply to—
 
-&emsp;(1) the sale or lease of lots in a subdivision containing fewer than one hundred lots which are not exempt under subsection (a) of this section;
+&emsp;(1) the sale or lease of lots in a subdivision containing fewer than one hundred lots which are not exempt under subsection (a);
 
 &emsp;(2) the sale or lease of lots in a subdivision if, within the twelve-month period commencing on the date of the first sale or lease of a lot in such subdivision after the effective date of this subsection, or on such other date within that twelve-month period as the Director may prescribe, not more than twelve lots are sold or leased, and the sale or lease of the first twelve lots in such subdivision in any subsequent twelve-month period, if not more than twelve lots have been sold or leased in any preceding twelve-month period after the effective date of this subsection;
 
@@ -58,9 +58,9 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(G) there are no offers, by direct mail or telephone solicitation, of gifts, trips, dinners, or other such promotional techniques to induce prospective purchasers or lessees to visit the subdivision or to purchase or lease a lot;
 
-&emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite by one party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
+&emsp;(6) the sale or lease of a lot, if a mobile home is to be erected or placed thereon as a residence, where the lot is sold as a homesite byone party and the home by another, under contracts that obligate such sellers to perform, contingent upon the other seller carrying out its obligations so that a completed mobile home will be erected or placed on the completed homesite within a period of two years, and provide for all funds received by the sellers to be deposited in escrow accounts (controlled by parties independent of the sellers) until the transactions are completed, and further provide that such funds shall be released to the buyer on demand without prejudice if the land with the mobile home erected or placed thereon is not conveyed within such two-year period. Such homesite must conform to all local codes and standards for mobile home subdivisions, if any, must provide potable water, sanitary sewage disposal, electricity, access by roads, the purchaser must receive marketable title to the lot, and where common facilities are to be provided, they must be completed or fully funded;
 
-&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operationwhich is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
+&emsp;(7)(A) the sale or lease of real estate by a developer who is engaged in a sales operation which is intrastate in nature. For purposes of this exemption, a lot may be sold only if—
 
 &emsp;&emsp;(i) the lot is free and clear of all liens, encumbrances, and adverse claims;
 
@@ -80,7 +80,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-&emsp;(C) For the purpose of this paragraph, a sales operation is "intrastate in nature" if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located;
+&emsp;(C) For the purpose of this paragraph, a sales operation is "intrastate in nature" if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8), is sold or leased to residents of the State in which the land is located;
 
 &emsp;(8) the sale or lease of a lot in a subdivision containing fewer than three hundred lots if—
 
@@ -92,7 +92,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(D) each purchase or lease agreement contains (i) a clear and specific statement describing a good faith estimate of the year of completion of and the party responsible for providing and maintaining the roads, water facilities, sewer facilities and any existing or promised amenities; and (ii) a nonwaivable provision specifying that the contract or agreement may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws;
 
-&emsp;&emsp;(E) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing receipt of a written statement by the developer setting forth (i) in descriptive and concise terms all liens, reservations, taxes, assessments, beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, and adverse claims which are applicable to the lot to be purchased or leased, and (ii) good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot;
+&emsp;&emsp;(E) the purchaser or lessee has, prior to the time the contract or lease is entered into, acknowledged in writing receipt of a written statement by the developer settingforth (i) in descriptive and concise terms all liens, reservations, taxes, assessments, beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, and adverse claims which are applicable to the lot to be purchased or leased, and (ii) good faith estimates of the cost of providing electric, water, sewer, gas, and telephone service to such lot;
 
 &emsp;&emsp;(F) the developer executes and supplies to the purchaser a written instrument designating a person within the State of residence of the purchaser as his agent for service of process and acknowledging that the developer submits to the legal jurisdiction of the State in which the purchaser or lessee resides; and
 

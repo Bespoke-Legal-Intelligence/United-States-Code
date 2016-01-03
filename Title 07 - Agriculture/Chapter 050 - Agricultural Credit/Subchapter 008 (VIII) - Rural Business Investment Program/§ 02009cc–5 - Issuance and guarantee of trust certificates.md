@@ -24,7 +24,7 @@ The Secretary may issue trust certificates representing ownership of all or a fr
 
 #### (ii) Reduction of guarantee
 
-&emsp;&emsp;&emsp;Subject to clause (i), if a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest the prepaid debenture represents in the trust or pool.
+&emsp;&emsp;&emsp;Subject to clause (i), if a debenture in a trust or pool is prepaid, or in the event ofdefault of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest the prepaid debenture represents in the trust or pool.
 
 #### (B) Interest
 

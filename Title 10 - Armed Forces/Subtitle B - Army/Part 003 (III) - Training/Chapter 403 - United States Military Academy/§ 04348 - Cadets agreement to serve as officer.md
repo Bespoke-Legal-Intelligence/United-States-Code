@@ -96,7 +96,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: "The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991."
+Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: "The amendments made bythis section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991."
 
 #### Effective Date of 1989 Amendment
 

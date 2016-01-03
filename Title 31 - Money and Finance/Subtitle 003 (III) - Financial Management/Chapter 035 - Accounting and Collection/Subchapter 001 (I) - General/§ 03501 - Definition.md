@@ -1,6 +1,6 @@
 ### §3501. Definition
 
-In this chapter, "executive agency" does not include (except in section 3513) a corporation, agency, or instrumentality subject to chapter 91 of this title.
+In this chapter, "executive agency" does not include (except in section 3513) a corporation,agency, or instrumentality subject to chapter 91 of this title.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–107, div. A, title VIII, §831(c), Dec. 28, 2001, 115 Stat. 1189; Pub. L. 111–204, §2(h)(6)(B)(ii), July 22, 2010, 124 Stat. 2231.)
 

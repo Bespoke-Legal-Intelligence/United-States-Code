@@ -38,7 +38,7 @@ In this section:
 
 #### (1) Allocation
 
-&emsp;The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date thatfleet or person is required to acquire an alternative fueled vehicle under such subchapter.
+&emsp;The Secretary shall allocate a credit to a fleet or covered person that is required to acquire an alternative fueled vehicle under this subchapter, if that fleet or person acquires an alternative fueled vehicle in excess of the number that fleet or person is required to acquire under this subchapter or acquires an alternative fueled vehicle before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter.
 
 #### (2) Electric vehicles
 
@@ -90,7 +90,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §133(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par. (1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 110–140, §133(1), (3), redesignated subsec. (a) as (b), designated existing provisions as par.\(1), inserted par. heading, and added par. (2). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 110–140, §133(1), (4), redesignated subsec. (b) as (c) and substituted "subsection (b)" for "subsection (a)". Former subsec. (c) redesignated (d).
 

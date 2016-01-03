@@ -34,7 +34,7 @@ Minor changes in phraseology are made to conform to the style of title 18.
 
 <b>1996</b>—Pub. L. 104–294 substituted "fine under this title" the first place it appears for "fine of not more than $250,000" and "fine under this title" the second place it appears for "fine of not more than $100,000".
 
-<b>1994</b>—Pub. L. 103–333 substituted "False statement or fraud to obtain Federal employee's compensation" for"False statement to obtain Federal employees' compensation" as section catchline and amended text generally. Prior to amendment, text read as follows: "Whoever makes, in an affidavit or report required by section 8106 of title 5 or in a claim for compensation under subchapter I of chapter 81 of title 5, a statement, knowing it to be false, is guilty of perjury and shall be fined under this title or imprisoned not more than one year, or both."
+<b>1994</b>—Pub. L. 103–333 substituted "False statement or fraud to obtain Federal employee's compensation" for "False statement to obtain Federal employees' compensation" as section catchline and amended text generally. Prior to amendment, text read as follows: "Whoever makes, in an affidavit or report required by section 8106 of title 5 or in a claim for compensation under subchapter I of chapter 81 of title 5, a statement, knowing it to be false, is guilty of perjury and shall be fined under this title or imprisoned not more than one year, or both."
 
 Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".
 

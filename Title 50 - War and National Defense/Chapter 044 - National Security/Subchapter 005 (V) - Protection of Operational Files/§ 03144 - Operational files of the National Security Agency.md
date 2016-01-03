@@ -48,7 +48,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 (3) The declassification of some of the information contained in exempted operational files shall not affect the status of the operational file as being exempt from search, review, publication, or disclosure.
 
-(4) Records from exempted operational files that have been disseminated to and referencedin files that are not exempted under subsection (a) of this section and that have been returned to exempted operational files for sole retention shall be subject to search and review.
+(4) Records from exempted operational files that have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and that have been returned to exempted operational files for sole retention shall be subject to search and review.
 
 #### (e) Supersedure of other laws
 
@@ -60,7 +60,7 @@ The provisions of subsection (a) of this section may not be superseded except by
 
 (2) Judicial review shall not be available in the manner provided for under paragraph (1) as follows:
 
-&emsp;(A) In any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by the National Security Agency, such information shall be examined ex parte, in camera by the court.
+&emsp;(A) In any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by theNational Security Agency, such information shall be examined ex parte, in camera by the court.
 
 &emsp;(B) The court shall determine, to the fullest extent practicable, the issues of fact based on sworn written submissions of the parties.
 

@@ -1,6 +1,6 @@
 ### §§1558 to 1558h. Repealed. Aug. 26, 1954, ch. 937, title V, §542(a)(8), 68 Stat. 861
 
-Sections 1558 to 1558c, act Dec. 29, 1950, ch. 1182, §§2–5, 64 Stat. 1122, 1123, related to amount of funds available; agreement; terms; utilization of available funds; andnonendorsement of internal measures of Yugoslavian Government.
+Sections 1558 to 1558c, act Dec. 29, 1950, ch. 1182, §§2–5, 64 Stat. 1122, 1123, related to amount of funds available; agreement; terms; utilization of available funds; and nonendorsement of internal measures of Yugoslavian Government.
 
 Section 1558d, act Dec. 29, 1950, ch. 1182, §6, 64 Stat. 1123, required the Secretary of State to make quarterly reports to Congress. See section 2394 of this title.
 

@@ -104,7 +104,7 @@ Registered mail.—For purposes of this section, if any such return, claim, stat
 
 "(2)
 
-Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail."
+Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect toprima facie evidence of delivery and the postmark date shall apply to certified mail."
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–168 added subsec. (f).
 

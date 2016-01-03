@@ -8,7 +8,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a proposed direct-to-consumer television advertisement (referred to in this section as a "DTC advertisement"), each person that on or after October 1, 2007, submits such an advertisement for advisory review by the Secretary prior to its initial public dissemination shall, except as provided in subparagraph (B), be subject to a fee established under subsection (c)(3).
+&emsp;&emsp;With respect to a proposed direct-to-consumer television advertisement (referred toin this section as a "DTC advertisement"), each person that on or after October 1, 2007, submits such an advertisement for advisory review by the Secretary prior to its initial public dissemination shall, except as provided in subparagraph (B), be subject to a fee established under subsection (c)(3).
 
 #### (B) Exception for required submissions
 
@@ -30,7 +30,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Notice regarding carryover submissions
 
-&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. Ifthe person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
+&emsp;&emsp;&emsp;In making a notification under subparagraph (C), the person involved shall in addition notify the Secretary if under subparagraph (F)(i) the person intends to submit a DTC advertisement for which the advisory review fee has already been paid. If the person does not so notify the Secretary, each DTC advertisement submitted by the person for advisory review in the fiscal year involved shall be subject to the advisory review fee.
 
 #### (E) Modification of advisory review fee
 
@@ -94,7 +94,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (iii) Amount
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee thatis regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this section, an operating reserve fee that is regarded as late under this subparagraph shall be equal to 150 percent of the operating reserve fee that otherwise would have applied pursuant to subsection (d).
 
 #### (b) Advisory review fee revenue amounts
 
@@ -120,7 +120,7 @@ Fees under subsection (a)(1) shall be established to generate revenue amounts of
 
 &emsp;&emsp;(A) The adjustment shall be determined by the Secretary based upon the number of DTC advertisements identified pursuant to subsection (a)(1)(C) for the upcoming fiscal year, excluding allowable previously paid carry over submissions. The adjustment shall be determined by multiplying the number of such advertisements projected for that fiscal year that exceeds 150 by $27,600 (adjusted each year beginning with fiscal year 2009 for inflation in accordance with paragraph (1)). The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
 
-&emsp;&emsp;(B) Under no circumstances shall the adjustment result in fee revenues for a fiscal year that are less than the fee revenues established for the prior fiscal year.
+&emsp;&emsp;(B) Under no circumstances shall the adjustment result in fee revenues for a fiscalyear that are less than the fee revenues established for the prior fiscal year.
 
 #### (3) Annual fee setting for advisory review
 
@@ -176,7 +176,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (1) In general
 
-&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the advisory review of prescription drug advertising.
+&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only tothe extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the advisory review of prescription drug advertising.
 
 #### (2) Collections and appropriation acts
 

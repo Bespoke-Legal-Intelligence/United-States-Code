@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(vi) internal inspection; and
 
-&emsp;&emsp;&emsp;(vii) such other requirements as the Board may prescribe, subject to subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;(vii) such other requirements as the Board may prescribe, subject to subsection (a)(1).
 
 #### (3) Authority to adopt other standards
 
@@ -74,7 +74,7 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 #### (1) In general
 
-&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+&emsp;The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
 
 #### (2) Board responses
 
@@ -82,7 +82,7 @@ The Board shall establish such rules as may be necessary or appropriate in the p
 
 #### (d) Evaluation of standard setting process
 
-The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.
+The Board shall include in the annual report required by section 7211(h) of this title the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
 (Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, §104, Apr. 5, 2012, 126 Stat. 310.)
 
@@ -98,7 +98,7 @@ Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–2
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §982(d)(1), substituted "such ethics standards, and such independence standards" for "and such ethics standards".
 
-Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted "in each audit report for an issuer, describe" for "describe in each audit report" in introductory provisions.
+Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted "in each audit report for an issuer, describe"for "describe in each audit report" in introductory provisions.
 
 Subsec. (a)(2)(B)(i). Pub. L. 111–203, §982(d)(3), substituted "issuers, brokers, and dealers" for "issuers".
 

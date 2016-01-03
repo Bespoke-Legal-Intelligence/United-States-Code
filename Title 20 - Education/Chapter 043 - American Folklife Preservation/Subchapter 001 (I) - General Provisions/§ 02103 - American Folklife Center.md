@@ -56,7 +56,7 @@ After consultation with the Board, the Librarian shall appoint the Director of t
 
 #### (g) Duties of Director
 
-The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility forcarrying out functions of the Center, and shall have authority over all personnel and activities of the Center.
+The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.
 
 (Pub. L. 94–201, §4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95–259, §2, Apr. 17, 1978, 92 Stat. 196; Pub. L. 105–275, title III, §312(b)(1), Oct. 21, 1998, 112 Stat. 2458.)
 
@@ -84,7 +84,7 @@ The General Schedule, referred to in subsec. (f), is set out under section 5332 
 
 > In making appointments from private life under clause 2, the President pro tempore of the Senate and the Speaker of the House of Representatives shall give due consideration to the appointment of individuals who collectively will provide appropriate regional balance on the Board. Not more than three of the members appointed by the President pro tempore of the Senate or by the Speaker of the House of Representatives may be affiliated with the same political party."
 
-Subsec. (d). Pub. L. 105–275, §312(b)(1)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: "Members of the Board who are not regular full-time employees of the United States shall be entitled, while serving on business of the Center, to receive compensation at rates fixed by the Librarian, but not exceeding $100 per diem, including traveltime; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently."
+Subsec. (d). Pub. L. 105–275, §312(b)(1)(B), added subsec. (d) and struck out former subsec. (d) which read as follows: "Members of the Board who are not regular full-time employees of the United States shall be entitled, while serving on business of the Center, to receive compensation at rates fixed by the Librarian, but notexceeding $100 per diem, including traveltime; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently."
 
 Subsec. (e)(2). Pub. L. 105–275, §312(b)(1)(C)(i), inserted "currently serving" after "Board".
 

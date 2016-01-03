@@ -72,5 +72,5 @@ Pub. L. 97–276, §151(h)(1), Oct. 2, 1982, 96 Stat. 1202, provided that:
 
 "(1) The amendments made by subsections 152 \[151\] (b), (c), (e), and (g) of this joint resolution \[enacting subsecs. (a) and (b) of this section and amending sections 5532, 5547, and 8344 of this title\] shall take effect at 5 o'clock ante meridian eastern daylight time, August 3, 1981.
 
-"(2) The amendments made by subsection 152 \[151\] (a) and subsection 152 \[151\] (d) of this joint resolution \[enacting subsecs. (c)–(f) of this section and amending section 4109 of this title\] shall take effect on the first day of the first applicable pay period beginning after thedate of the enactment of this joint resolution \[Oct. 2, 1982\]."
+"(2) The amendments made by subsection 152 \[151\] (a) and subsection 152 \[151\] (d) of this joint resolution \[enacting subsecs. (c)–(f) of this section and amending section 4109 of this title\] shall take effect on the first day of the first applicable pay period beginning after the date of the enactment of this joint resolution \[Oct. 2, 1982\]."
 

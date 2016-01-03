@@ -14,7 +14,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 &emsp;&emsp;(B) make recommendations to Congress concerning such payment policies;
 
-&emsp;&emsp;(C) by not later than March 15,<sup>1</sup> submit a report to Congress containing the results ofsuch reviews and its recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 15,<sup>1</sup> submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
 
 &emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title, and (beginning with 2012) containing an examination of the topics described in paragraph (9), to the extent feasible.
 
@@ -122,7 +122,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serveafter the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
@@ -130,7 +130,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (5) Chairman; Vice Chairman
 
-&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member as Chairman and amember as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member's term.
+&emsp;The Comptroller General shall designate a member of the Commission, at the time of appointment of the member as Chairman and a member as Vice Chairman for that term of appointment, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member's term.
 
 #### (6) Meetings
 
@@ -272,7 +272,7 @@ Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provide
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: "The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
 &emsp;"(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 

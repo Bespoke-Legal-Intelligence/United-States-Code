@@ -64,5 +64,5 @@ Pub. L. 97–448, title III, §311(d), Jan. 12, 1983, 96 Stat. 2412, provided th
 
 #### Construction of Amendment by Title VII of Division A of Pub. L. 98–369
 
-Pub. L. 98–369, div. A, title VII, §701, July 18, 1984, 98 Stat. 942, provided that: "For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles."
+Pub. L. 98–369, div. A, title VII, §701, July 18, 1984, 98 Stat. 942, provided that: "For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisionsof this title shall be treated as having been enacted immediately before the provisions of such other titles."
 

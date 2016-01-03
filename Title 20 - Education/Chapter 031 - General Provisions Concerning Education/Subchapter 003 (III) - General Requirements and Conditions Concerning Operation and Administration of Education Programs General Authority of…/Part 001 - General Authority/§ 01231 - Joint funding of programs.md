@@ -2,7 +2,7 @@
 
 #### (a) Joint projects; transfers of appropriations; contracts or grants; criteria
 
-(1) The Secretary is authorized to enter into arrangements with other Federal agencies to jointly carry out projects of common interest, to transfer to such agencies funds appropriatedunder any applicable program, and to receive and use funds from such agencies, for projects of common interest.
+(1) The Secretary is authorized to enter into arrangements with other Federal agencies to jointly carry out projects of common interest, to transfer to such agencies funds appropriated under any applicable program, and to receive and use funds from such agencies, for projects of common interest.
 
 (2) Funds transferred or received pursuant to paragraph (1) shall be used only in accordance with the statutes authorizing the appropriation of such funds, and shall be made available by contract or grant only to recipients eligible to receive such funds under such statutes.
 

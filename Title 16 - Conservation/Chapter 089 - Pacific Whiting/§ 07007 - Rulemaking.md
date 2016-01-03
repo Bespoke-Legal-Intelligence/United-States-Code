@@ -2,7 +2,7 @@
 
 #### (a) Application with Magnuson-Stevens Act
 
-The Secretary shall establish the United States catch level for Pacific whiting according to the standards and procedures of the Agreement and this chapter rather than under the standards and procedures of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), except to the extent necessary to address the rebuilding needs of other species. Except for establishing the catch level, all other aspects of Pacific whiting management shall be—
+The Secretary shall establish the United States catch level for Pacific whiting accordingto the standards and procedures of the Agreement and this chapter rather than under the standards and procedures of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), except to the extent necessary to address the rebuilding needs of other species. Except for establishing the catch level, all other aspects of Pacific whiting management shall be—
 
 &emsp;(1) subject to the Magnuson-Stevens Fishery Conservation and Management Act; and
 
@@ -20,7 +20,7 @@ If the parties to the Agreement do not approve the joint management committee's 
 
 &emsp;(2) base the total allowable catch on the best scientific information available;
 
-&emsp;(3) use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a differentrate is necessary to sustain the offshore whiting resource; and
+&emsp;(3) use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a different rate is necessary to sustain the offshore whiting resource; and
 
 &emsp;(4) establish the United State's <sup>1</sup> share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
 

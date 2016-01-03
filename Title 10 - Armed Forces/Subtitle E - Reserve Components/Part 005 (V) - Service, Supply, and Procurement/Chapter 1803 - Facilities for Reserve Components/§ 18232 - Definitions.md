@@ -26,7 +26,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §7, 64 Stat. 831.
 
-Clause (1) is substituted for 50:886(b). The words "(2) Puerto Rico; and (3) the District of Columbia" are omitted, since they are specifically included, where applicable, in the revised chapter. The words "together with any improvement thereto" and "of the United States" are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
+Clause (1) is substituted for 50:886(b). The words "(2) Puerto Rico; and (3) the District of Columbia" areomitted, since they are specifically included, where applicable, in the revised chapter. The words "together with any improvement thereto" and "of the United States" are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in section 261 of this title. 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
 
 1958
 
@@ -56,7 +56,7 @@ Par. (3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a)\], substitute
 
 <b>1987</b>—Pub. L. 100–26 inserted "The term" after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (2) and (3) and substituted lowercase letter.
 
-<b>1982</b>—Cl. (1). Pub. L. 97–214 substituted provision defining "State" as any State of the United States, the District of Columbia, Puerto Rico, and each territoryand possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining "State" and "Territory" as including political subdivisions and military units thereof and tax-supported agencies therein.
+<b>1982</b>—Cl. (1). Pub. L. 97–214 substituted provision defining "State" as any State of the United States, the District of Columbia, Puerto Rico, and each territory and possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining "State" and "Territory" as including political subdivisions and military units thereof and tax-supported agencies therein.
 
 <b>1958</b>—Cl. (3). Pub. L. 85–861 added cl. (3).
 

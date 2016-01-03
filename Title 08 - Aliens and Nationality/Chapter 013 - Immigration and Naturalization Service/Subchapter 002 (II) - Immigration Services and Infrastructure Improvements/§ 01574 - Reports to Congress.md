@@ -22,9 +22,9 @@
 
 &emsp;&emsp;(B) a description of the quality controls to be put into force to ensure timely, fair, accurate, and complete processing and adjudication of such applications;
 
-&emsp;&emsp;(C) the elements specified in subsection (b)(2) of this section;
+&emsp;&emsp;(C) the elements specified in subsection (b)(2);
 
-&emsp;&emsp;(D) an estimate of the amount of appropriated funds that would be necessary in order to eliminate the backlogs in each category of immigration benefit applications described in subsection (b)(2) of this section; and
+&emsp;&emsp;(D) an estimate of the amount of appropriated funds that would be necessary in order to eliminate the backlogs in each category of immigration benefit applications described in subsection (b)(2); and
 
 &emsp;&emsp;(E) a detailed plan on how the Attorney General will use any funds in the Immigration Services and Infrastructure Improvements Account to comply with the purposes of this subchapter.
 

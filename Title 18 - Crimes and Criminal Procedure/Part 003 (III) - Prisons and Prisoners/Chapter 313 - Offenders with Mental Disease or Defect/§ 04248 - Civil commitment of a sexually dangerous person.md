@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by clear and convincing evidence that the person is a sexually dangerous person, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the personto the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall place the person for treatment in a suitable facility, until—
+Determination and Disposition.—If, after the hearing, the court finds by clear and convincing evidence that the person is a sexually dangerous person, the court shall commit the person to the custody of the Attorney General. The Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried if such State will assume responsibility for his custody, care, and treatment. The Attorney General shall make all reasonable efforts to cause such a State to assume such responsibility. If, notwithstanding such efforts, neither such State will assume such responsibility, the Attorney General shall place the person for treatment in a suitable facility, until—
 
 &emsp;(1) such a State will assume such responsibility; or
 

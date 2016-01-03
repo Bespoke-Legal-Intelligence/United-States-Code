@@ -20,11 +20,11 @@ Subchapter B of chapter 63 (relating to deficiency procedure for income, estate,
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–357, §413(c)(29)(A), which directed substitution of "6046 and 6046A" for "6035, 6046, and 6046A" was executed by making the substitution for "6035, 6046, or 6046A" to reflect the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 108–357, §413(c)(29)(B), struck out heading and text of par. (3). Text read as follows:"In the case of a return required under section 6035, paragraph (1) shall be applied by substituting '$1,000' for '$10,000', and paragraph (2) shall not apply."
+Subsec. (a)(3). Pub. L. 108–357, §413(c)(29)(B), struck out heading and text of par. (3). Text read as follows: "In the case of a return required under section 6035, paragraph (1) shall be applied by substituting '$1,000' for '$10,000', and paragraph (2) shall not apply."
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In addition to any criminal penalty provided by law, any person required to file a return under section 6035, 6046, or 6046A who fails to file such return at the time provided in such section, or who files a return which does not show the information required pursuant to such section, shall pay a penalty of $1,000, unless it is shown that such failure is due to reasonable cause."
 
-<b>1983</b>—Pub. L. 97–448 amended language of Pub. L. 97–248, §405(b), (c)(2), to clarify an ambiguity created by the conflicting language of §§340(b)(1), (2) and 405(b), (c)(2) of Pub. L. 97–248. See 1982 Amendment note below.
+<b>1983</b>—Pub. L. 97–448 amended language of Pub. L. 97–248, §405(b), (c)(2), to clarify an ambiguity created bythe conflicting language of §§340(b)(1), (2) and 405(b), (c)(2) of Pub. L. 97–248. See 1982 Amendment note below.
 
 <b>1982</b>—Pub. L. 97–248, §§340(b)(2), 405(c)(2), as amended by Pub. L. 97–448, §306(c)(2)(B), substituted "Failure to file returns, etc., with respect to foreign corporations or foreign partnerships" for "Failure to file returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock" in section catchline.
 

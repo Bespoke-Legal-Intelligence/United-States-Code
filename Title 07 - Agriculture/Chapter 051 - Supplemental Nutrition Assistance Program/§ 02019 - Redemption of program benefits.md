@@ -18,7 +18,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2014</b>—Pub. L. 113–79 inserted "retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary," after "food so purchased,".
 
-<b>2008</b>—Pub. L. 110–246, §4115(b)(7), in section catchline, substituted "program benefits" for "coupons" and, in text, substituted "section 2012(p)(4)" for "section 2012(k)(4)" and "section 2016(h)" for "section 2016(i)"and substituted "benefits" for "coupons" wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §4115(b)(7), in section catchline, substituted "program benefits" for "coupons" and, in text, substituted "section 2012(p)(4)" for "section 2012(k)(4)" and "section 2016(h)" for "section 2016(i)" and substituted "benefits" for "coupons" wherever appearing.
 
 <b>2002</b>—Pub. L. 107–171 inserted after first sentence "Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem coupons through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in section 2016(i) of this title has been implemented."
 
@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 99–198, §1522, inserted ", or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership" and "or the Federal Credit Union Act".
 
-Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
+Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating tocancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
 <b>1981</b>—Pub. L. 97–98 substituted "financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation" for "banks" wherever appearing.
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub.
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73,title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 #### Regulations
 

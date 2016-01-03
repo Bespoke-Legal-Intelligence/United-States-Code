@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-Subject to such regulations as may be prescribed by the Capitol Police Board and approved by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, a member of the Capitol Police shall have authority to make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia—
+Subject to such regulations as may be prescribed by the Capitol Police Board and approved by the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate,a member of the Capitol Police shall have authority to make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia—
 
 &emsp;(1) within the District of Columbia, with respect to any crime of violence committed within the United States Capitol Grounds;
 
@@ -60,5 +60,5 @@ Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided t
 
 #### Rule of Construction
 
-Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: "Nothing in the amendments madeby this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\]."
+Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: "Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\]."
 

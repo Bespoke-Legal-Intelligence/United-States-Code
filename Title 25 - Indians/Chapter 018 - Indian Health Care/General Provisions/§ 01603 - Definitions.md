@@ -188,7 +188,7 @@ In this chapter:
 
 &emsp;The term "Indians" or "Indian", unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) hereof,<sup>1</sup> except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who <sup>2</sup>
 
-&emsp;&emsp;(A),<sup>3</sup> irrespective of whether he or she lives on or near a reservation, is a member of atribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
+&emsp;&emsp;(A),<sup>3</sup> irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
 
 &emsp;&emsp;(B) is an Eskimo or Aleut or other Alaska Native, or
 

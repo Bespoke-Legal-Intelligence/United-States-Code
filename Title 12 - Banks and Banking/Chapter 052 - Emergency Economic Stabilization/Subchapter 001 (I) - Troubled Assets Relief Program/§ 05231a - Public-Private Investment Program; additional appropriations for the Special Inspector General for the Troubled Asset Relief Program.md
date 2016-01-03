@@ -16,7 +16,7 @@ This section may be cited as the "Public-Private Investment Program Improvement 
 
 &emsp;&emsp;(C) allow the Special Inspector General access to all books and records of a public-private investment fund, including all records of financial transactions in machine readable form, and the confidentiality of all such information shall be maintained by the Special Inspector General;
 
-&emsp;&emsp;(D) require each manager of a public-private investment fund to retain all books,documents, and records relating to such public-private investment fund, including electronic messages;
+&emsp;&emsp;(D) require each manager of a public-private investment fund to retain all books, documents, and records relating to such public-private investment fund, including electronic messages;
 
 &emsp;&emsp;(E) require each manager of a public-private investment fund to acknowledge, in writing, a fiduciary duty to both the public and private investors in such fund;
 

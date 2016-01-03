@@ -46,7 +46,7 @@ For purposes of this section, for a plan year—
 
 (3) Notwithstanding paragraph (2), if a plan sponsor determines in writing a resource benefit level for a plan year which is below the level of basic benefits, the payment of all benefits other than basic benefits must be suspended for that plan year.
 
-(4)(A) If, by the end of an insolvency year, the plan sponsor determines in writing that the plan's available resources in that insolvency year could have supported benefit payments above the resource benefit level for that insolvency year, the plan sponsor shall distribute theexcess resources to the participants and beneficiaries who received benefit payments from the plan in that insolvency year, in accordance with regulations prescribed by the Secretary of the Treasury.
+(4)(A) If, by the end of an insolvency year, the plan sponsor determines in writing that the plan's available resources in that insolvency year could have supported benefit payments above the resource benefit level for that insolvency year, the plan sponsor shall distribute the excess resources to the participants and beneficiaries who received benefit payments from the plan in that insolvency year, in accordance with regulations prescribed by the Secretary of the Treasury.
 
 (B) For purposes of this paragraph, the term "excess resources" means available resources above the amount necessary to support the resource benefit level, but no greater than the amount necessary to pay benefits for the plan year at the benefit levels under the plan.
 

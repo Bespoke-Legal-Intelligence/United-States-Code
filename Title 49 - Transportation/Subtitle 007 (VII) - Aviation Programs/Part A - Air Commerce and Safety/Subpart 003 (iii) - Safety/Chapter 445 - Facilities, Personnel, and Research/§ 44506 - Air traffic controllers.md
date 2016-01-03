@@ -28,7 +28,7 @@ Research on Human Factor Aspects of Automation.—The Administrators of the Fede
 
 Collegiate Training Initiative.—(1) The Administrator of the Federal Aviation Administration may maintain the Collegiate Training Initiative program by making new agreements and continuing existing agreements with institutions of higher education (as defined by the Administrator) under which the institutions prepare students for the position of air traffic controller with the Department of Transportation (as defined in section 2109 of title 5). The Administrator may establish standards for the entry of institutions into the program and for their continued participation.
 
-(2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves full performance level air traffic controller status, as decided by the Administrator.
+(2)(A) The Administrator of the Federal Aviation Administration may appoint an individual who has successfully completed a course of training in a program described in paragraph (1) of this subsection to the position of air traffic controller noncompetitively in the excepted service (as defined in section 2103 of title 5). An individual appointed under this paragraph serves at the pleasure of the Administrator, subject to section 7511 of title 5. However, an appointment under this paragraph may be converted from one in the excepted service to a career conditional or career appointment in the competitive civil service (as defined in section 2102 of title 5) when the individual achieves fullperformance level air traffic controller status, as decided by the Administrator.
 
 (B) The authority under subparagraph (A) of this paragraph to make appointments in the excepted service expires on October 6, 1997, except that the Administrator of the Federal Aviation Administration may extend the authority for one or more successive one-year periods.
 
@@ -134,7 +134,7 @@ Pub. L. 112–95, title II, §224, Feb. 14, 2012, 126 Stat. 55, provided that: "
 
 &emsp;"(1) ensure, to the extent practicable, a sufficient number of contract instructors, classroom space (including off-site locations as needed), and simulators to allow for an increase in the number of air traffic controllers at air traffic control facilities;
 
-&emsp;"(2) distribute, to the extent practicable, the placement of certified professional air traffic controllers-in-training and developmental air traffic controllers at facilities evenly across the calendar year in order to avoid training bottlenecks;
+&emsp;"(2) distribute, to the extent practicable, the placement of certified professional air traffic controllers-in-training and developmental air traffic controllersat facilities evenly across the calendar year in order to avoid training bottlenecks;
 
 &emsp;"(3) initiate an analysis, to be conducted in consultation with the exclusive bargaining representative of air traffic controllers certified under section 7111 of title 5, United States Code, of scheduling processes and practices, including overtime scheduling practices at those facilities;
 
@@ -166,9 +166,11 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 
 #### Controller Staffing
 
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
 

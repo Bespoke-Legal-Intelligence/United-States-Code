@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An amount equal to 7 percent of the basic pay received by a participant other than arevised annuity participant shall be contributed to the fund for a pay period for the participant from the appropriation or fund which is used for payment of the participant's basic pay.
+&emsp;&emsp;An amount equal to 7 percent of the basic pay received by a participant other than a revised annuity participant shall be contributed to the fund for a pay period for the participant from the appropriation or fund which is used for payment of the participant's basic pay.
 
 #### (B) Revised annuity participants
 
@@ -96,7 +96,7 @@ The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, §611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions tothe fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, §611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions to the fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 Pub. L. 106–346, §101(a) \[title V, §505(g)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54, provided that: "Notwithstanding \[former\] section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 2002, through December 31, 2002, the Central Intelligence Agency shall contribute 7.5 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act."
 
-Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a) \[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as amended by Pub. L. 106–346, §101(a)\[title V, §505(c)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53, provided that:
 
 "(1)
 

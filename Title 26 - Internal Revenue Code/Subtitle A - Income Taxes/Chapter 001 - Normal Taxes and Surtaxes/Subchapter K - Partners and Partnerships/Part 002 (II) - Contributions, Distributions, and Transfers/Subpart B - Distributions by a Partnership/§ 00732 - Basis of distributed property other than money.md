@@ -62,7 +62,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 &emsp;&emsp;(A) a corporation (hereafter in this subsection referred to as the "corporate partner") receives a distribution from a partnership of stock in another corporation (hereafter in this subsection referred to as the "distributed corporation"),
 
-&emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediately after the distribution or at any time thereafter, and
+&emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediatelyafter the distribution or at any time thereafter, and
 
 &emsp;&emsp;(C) the partnership's adjusted basis in such stock immediately before the distribution exceeded the corporate partner's adjusted basis in such stock immediately after the distribution,
 
@@ -142,5 +142,5 @@ Partnerships in existence on July 14, 1999.—In the case of a corporation which
 
 Pub. L. 105–34, title X, §1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
+Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such saleor exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 

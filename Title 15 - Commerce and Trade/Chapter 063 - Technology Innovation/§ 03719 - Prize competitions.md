@@ -138,11 +138,11 @@ The head of an agency may enter into an agreement with a private, nonprofit enti
 
 #### (1) In general
 
-&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. Thehead of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
+&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
 
 #### (2) Availability of funds
 
-&emsp;Notwithstanding any other provision of law, funds appropriated for prize awards under this section shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of section 1341 of title 31.
+&emsp;Notwithstanding any other provision of law, funds appropriated for prize awards under thissection shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of section 1341 of title 31.
 
 #### (3) Amount of prize
 
@@ -224,7 +224,7 @@ The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Services".</i>
 

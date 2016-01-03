@@ -2,7 +2,7 @@
 
 #### (a) Distribution rules
 
-Except as provided in section 2353 of this title and as otherwise provided in this section, eacheligible agency shall distribute the portion of funds made available under section 2322(a)(1) of this title to carry out this section to local educational agencies within the State as follows:
+Except as provided in section 2353 of this title and as otherwise provided in this section, each eligible agency shall distribute the portion of funds made available under section 2322(a)(1) of this title to carry out this section to local educational agencies within the State as follows:
 
 #### (1) Thirty percent
 
@@ -66,7 +66,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (1) In general
 
-&emsp;Each eligible agency shall distribute the portion of funds made available under section 2322(a)(1) of this title for any fiscal year by such eligible agency for career and technical education activities at the secondary level under this section to the appropriate area career and technical education school or educational service agency in any case in which the area career and technical education school or educational service agency, and the local educational agency concerned—
+&emsp;Each eligible agency shall distribute the portion of funds made available under section2322(a)(1) of this title for any fiscal year by such eligible agency for career and technical education activities at the secondary level under this section to the appropriate area career and technical education school or educational service agency in any case in which the area career and technical education school or educational service agency, and the local educational agency concerned—
 
 &emsp;&emsp;(A) have formed or will form a consortium for the purpose of receiving funds under this section; or
 

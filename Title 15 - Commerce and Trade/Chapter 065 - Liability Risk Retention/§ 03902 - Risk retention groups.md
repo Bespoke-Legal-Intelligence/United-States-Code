@@ -10,7 +10,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;&emsp;(B) pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus lines insurers, brokers, or policyholders under the laws of the State;
 
-&emsp;&emsp;(C) participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of liability insurance losses and expenses incurred on policies written through such mechanism;
+&emsp;&emsp;(C) participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers ofliability insurance losses and expenses incurred on policies written through such mechanism;
 
 &emsp;&emsp;(D) register with and designate the State insurance commissioner as its agent solely for the purpose of receiving service of legal documents or process;
 
@@ -44,7 +44,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 #### (b) Scope of exemptions
 
-The exemptions specified in subsection (a) of this section apply to laws governing the insurance business pertaining to—
+The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—
 
 &emsp;(1) liability insurance coverage provided by a risk retention group for—
 
@@ -100,9 +100,9 @@ Nothing in this section shall be construed to affect the authority of any Federa
 
 #### (f) State powers to enforce State laws
 
-(1) Subject to the provisions of subsection (a)(1)(G) of this section (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
+(1) Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
 
-(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunction must be obtained from a Federal or State court of competent jurisdiction.
+(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
 
 #### (g) States' authority to sue
 

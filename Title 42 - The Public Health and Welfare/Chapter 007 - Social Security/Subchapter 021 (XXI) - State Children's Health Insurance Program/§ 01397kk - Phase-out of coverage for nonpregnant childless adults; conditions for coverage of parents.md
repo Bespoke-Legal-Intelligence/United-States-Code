@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an applicationto the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
+&emsp;&emsp;Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval
 
@@ -72,7 +72,7 @@
 
 #### (i) Block grant set aside from State allotment
 
-&emsp;&emsp;&emsp;If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(4) of this title shall be allocated on a pro rata basis to such set aside.
+&emsp;&emsp;&emsp;If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(5) of this title shall be allocated on a pro rata basis to such set aside.
 
 #### (ii) Payments from block grant
 
@@ -162,11 +162,15 @@ For purposes of this section—
 
 &emsp;&emsp;The term "nonpregnant childless adult" has the meaning given such term by section 1397gg(f) of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2111, as added Pub. L. 111–3, title I, §112(a)(1), Feb. 4, 2009, 123 Stat. 29.)
+(Aug. 14, 1935, ch. 531, title XXI, §2111, as added Pub. L. 111–3, title I, §112(a)(1), Feb. 4, 2009, 123 Stat. 29; amended Pub. L. 114–10, title III, §301(b)(2)(D), Apr. 16, 2015, 129 Stat. 157.)
 
 #### References in Text
 
-Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub.L. 109–171, which is set out as a note under section 1397gg of this title.
+Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B)(i). Pub. L. 114–10 substituted "section 1397dd(m)(5)" for "section 1397dd(m)(4)".
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ Except as otherwise provided in this section, no law, rule, regulation, or order
 
 &emsp;(2) shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—
 
-&emsp;&emsp;(A) with respect to a covered security described in subsection (b) of this section, any offering document that is prepared by or on behalf of the issuer; or
+&emsp;&emsp;(A) with respect to a covered security described in subsection (b), any offering document that is prepared by or on behalf of the issuer; or
 
 &emsp;&emsp;(B) any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78o–3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
 
@@ -50,21 +50,23 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(C) section 77d(6) <sup>1</sup> of this title;
 
-&emsp;&emsp;(D) <sup>2</sup> a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
+&emsp;&emsp;(D) a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
 
 &emsp;&emsp;&emsp;(i) offered or sold on a national securities exchange; or
 
 &emsp;&emsp;&emsp;(ii) offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
 
-&emsp;&emsp;(D) <sup>2</sup> section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+&emsp;&emsp;(E) section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-&emsp;&emsp;(E) Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996.
+&emsp;&emsp;(F) Commission rules or regulations issued under section 77d(2) <sup>1</sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup>1</sup> of this title that are in effect on September 1, 1996; or
+
+&emsp;&emsp;(G) section 77d(a)(7) of this title.
 
 #### (c) Preservation of authority
 
 #### (1) Fraud authority
 
-&emsp;Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions <sup>3</sup>
+&emsp;Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions <sup>2</sup>
 
 &emsp;&emsp;(A) with respect to—
 
@@ -72,7 +74,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;&emsp;(ii) unlawful conduct by a broker, dealer, or funding portal; and
 
-&emsp;&emsp;(B) in connection to <sup>4</sup> a transaction described under section 77d(6) <sup>1</sup> of this title, with respect to—
+&emsp;&emsp;(B) in connection to <sup>3</sup> a transaction described under section 77d(6) <sup>1</sup> of this title, with respect to—
 
 &emsp;&emsp;&emsp;(i) fraud or deceit; or
 
@@ -92,7 +94,7 @@ For purposes of this section, the following are covered securities:
 
 #### (ii) Schedule
 
-&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
+&emsp;&emsp;&emsp;The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a).
 
 #### (C) Availability of preemption contingent on payment of fees
 
@@ -106,9 +108,9 @@ For purposes of this section, the following are covered securities:
 
 #### (D) Fees not permitted on listed securities
 
-&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1) of this section, or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1) of this section.
+&emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
-#### (F) <sup>5</sup> Fees not permitted on crowdfunded securities
+#### (F) <sup>4</sup> Fees not permitted on crowdfunded securities
 
 &emsp;&emsp;Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
 
@@ -140,7 +142,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "senior security" means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325.)
+(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(b), Dec. 4, 2015, 129 Stat. 1789.)
 
 #### References in Text
 
@@ -149,6 +151,12 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4)(E). Pub. L. 114–94, §76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating "the second subparagraph (D)" as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
+
+Subsec. (b)(4)(F). Pub. L. 114–94, §76001(b)(1), redesignated subpar. (E) as (F).
+
+Subsec. (b)(4)(G). Pub. L. 114–94, §76001(b)(2)–(4), added subpar. (G).
 
 <b>2012</b>—Subsec. (b)(4)(C). Pub. L. 112–106, §305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -184,7 +192,7 @@ Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted "The term" for "F
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Transfer of Functions
 
@@ -200,11 +208,9 @@ Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided th
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. There are two subpars. (D).</i>
+<i><sup>2</sup></i><i> So in original. The comma after "enforcement actions" probably should be a hyphen and the words "in connection with securities or securities transactions" probably should be part of subpar. (A).</i>
 
-<i><sup>3</sup></i><i> So in original. The words "in connection with securities or securities transactions" probably should be part of subpar. (A).</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "with".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be "with".</i>
-
-<i><sup>5</sup></i><i> So in original. No subpar. (E) has been enacted.</i>
+<i><sup>4</sup></i><i> So in original. No subpar. (E) has been enacted.</i>
 

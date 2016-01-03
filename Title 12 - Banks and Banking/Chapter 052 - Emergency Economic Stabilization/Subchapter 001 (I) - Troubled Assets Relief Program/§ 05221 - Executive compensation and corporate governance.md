@@ -22,7 +22,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Period in which obligation is outstanding; rule of construction
 
-&emsp;For purposes of this section, the period in which any obligation arising from financial assistance provided under the TARP remains outstanding does not include any period during which the Federal Government only holds warrants to purchase common stock of the TARP recipient.
+&emsp;For purposes of this section, the period in which any obligation arising from financial assistance provided under the TARP remains outstanding does not include any period during which the Federal Government only holdswarrants to purchase common stock of the TARP recipient.
 
 #### (b) Executive compensation and corporate governance
 
@@ -48,7 +48,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(C) A prohibition on such TARP recipient making any golden parachute payment to a senior executive officer or any of the next 5 most highly-compensated employees of the TARP recipient during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding.
 
-&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during theperiod in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
+&emsp;&emsp;(D)(i) A prohibition on such TARP recipient paying or accruing any bonus, retention award, or incentive compensation during the period in which any obligation arising from financial assistance provided under the TARP remains outstanding, except that any prohibition developed under this paragraph shall not apply to the payment of long-term restricted stock by such TARP recipient, provided that such long-term restricted stock—
 
 &emsp;&emsp;&emsp;(I) does not fully vest during the period in which any obligation arising from financial assistance provided to that TARP recipient remains outstanding;
 
@@ -84,7 +84,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Establishment of Board required
 
-&emsp;Each TARP recipient shall establish a Board Compensation Committee, comprised entirely of independent directors, for the purpose of reviewing employee compensation plans.
+&emsp;Each TARP recipient shall establish a Board Compensation Committee, comprised entirelyof independent directors, for the purpose of reviewing employee compensation plans.
 
 #### (2) Meetings
 

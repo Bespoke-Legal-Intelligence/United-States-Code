@@ -18,7 +18,7 @@ Applications.—A sponsor seeking a grant under this section shall submit to the
 
 (c)
 
-Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the Under Secretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
+Approval.—The Under Secretary, after consultation with the Secretary of Transportation, may approve an application of a sponsor for a grant under this section only if the UnderSecretary determines that the project will improve security at an airport or improve the efficiency of the airport without lessening security.
 
 (d)
 
@@ -94,7 +94,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $400,000,000 for each of fiscal years 2005, 2006, and 2007, and $450,000,000 for each of fiscalyears 2008 through 2011 <sup>1</sup> Such sums shall remain available until expended.
+In general.—In addition to amounts made available under subsection (h), there is authorized to be appropriated to carry out this section $400,000,000 for each of fiscal years 2005, 2006, and 2007, and $450,000,000 for each of fiscal years 2008 through 2011 <sup>1</sup> Such sums shall remain available until expended.
 
 &emsp;(2)
 

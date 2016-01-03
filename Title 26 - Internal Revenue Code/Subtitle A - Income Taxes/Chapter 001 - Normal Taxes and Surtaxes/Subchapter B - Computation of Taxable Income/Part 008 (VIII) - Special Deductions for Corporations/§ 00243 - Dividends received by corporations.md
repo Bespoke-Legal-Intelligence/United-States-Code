@@ -92,7 +92,7 @@ Section 1562, referred to in subsec. (b)(1)(B)(i), was repealed by Pub. L. 91–
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par.\(1) read as follows:"In the case of any dividend received from a 20-percent owned corporation—
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"In the case of any dividend received from a 20-percent owned corporation—
 
 &emsp;"(A) subsection (a)(1) of this section, and
 
@@ -176,7 +176,7 @@ Pub. L. 101–508, title XI, §11814(c), Nov. 5, 1990, 104 Stat. 1388–557, pro
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and section 1504 of thistitle\] shall apply to taxable years beginning after December 31, 1990.
+In general.—The amendments made by this section \[amending this section and section 1504 of this title\] shall apply to taxable years beginning after December 31, 1990.
 
 "(2)
 

@@ -40,7 +40,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Definition of "Secretary"
 

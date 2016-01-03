@@ -26,7 +26,7 @@ Chief Officer.—(1) The head of the Readjustment Counseling Service shall be th
 
 (c)
 
-Structure.—(1) The Readjustment Counseling Service is a distinct organizational element within Veterans <sup>1</sup> Health Administration.
+Structure.—(1) The Readjustment Counseling Service is a distinct organizational element within the Veterans Health Administration.
 
 (2) The Readjustment Counseling Service shall provide counseling and services as described in subsection (a).
 
@@ -56,7 +56,9 @@ Annual Report.—(1) Not later than March 15 of each year, the Secretary shall s
 
 Vet Center Defined.—In this section, the term "Vet Center" has the meaning given the term in section 1712A(h)(1) of this title.
 
-(Added Pub. L. 112–239, div. A, title VII, §728(a), Jan. 2, 2013, 126 Stat. 1812.)
+(Added Pub. L. 112–239, div. A, title VII, §728(a), Jan. 2, 2013, 126 Stat. 1812; amended Pub. L. 114–58, title VI, §601(22), Sept. 30, 2015, 129 Stat. 539.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
+#### Amendments
+
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–58 inserted "the" before "Veterans Health Administration".
 

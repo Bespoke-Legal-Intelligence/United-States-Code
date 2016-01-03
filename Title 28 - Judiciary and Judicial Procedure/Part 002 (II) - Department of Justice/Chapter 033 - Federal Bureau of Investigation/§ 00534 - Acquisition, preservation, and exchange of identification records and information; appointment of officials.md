@@ -6,7 +6,7 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney Generalmay acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
 &emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
 
@@ -80,7 +80,7 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 Subsec. (d). Pub. L. 111–211, §233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases."
 
-Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of "the second subsection (e)" as (f),could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
+Subsec. (e). Pub. L. 111–211, §233(a)(3), which directed redesignation of "the second subsection (e)" as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
 
 Subsec. (f)(2). Pub. L. 111–211, §233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting ", tribal," after "Federal" in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
 
@@ -344,7 +344,7 @@ In general.—Upon receipt of the criminal history record information from the A
 
 Terms.—In the case of—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorizedemployer as to the fact of whether an employee has been—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
 
 &emsp;&emsp;&emsp;"(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
 
@@ -402,7 +402,7 @@ State opt out.—A State may decline to participate in the background check syst
 
 #### Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, provided that:
+Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681-73, provided that:
 
 "(a)(1) A nursing facility or home health care agency may submit a request to the Attorney General to conduct a search and exchange of records described in subsection (b) regarding an applicant for employment if the employment position is involved in direct patient care.
 

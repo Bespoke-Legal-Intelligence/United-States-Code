@@ -34,7 +34,7 @@ Subsection (b) shall only apply to a hospital, with respect to the repackaging o
 
 #### (1) Drug for intrasystem use only
 
-&emsp;In no case may a drug that has been repackaged in accordance with this section be sold or otherwise distributed by the health system or a hospital within the system to an entity or individual that is not a hospital within such health system.
+&emsp;In no case may a drug that has been repackaged in accordance with this section be sold or otherwise distributed by the health system or a hospital within the system to an entity orindividual that is not a hospital within such health system.
 
 #### (2) Compliance with State rules
 

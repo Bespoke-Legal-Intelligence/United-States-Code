@@ -24,7 +24,7 @@ Review of decision to assign space.—If the federal agency to which space is as
 
 &emsp;(3)
 
-Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may beconsidered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
+Negotiated sale.—If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may be considered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
 
 (c)
 
@@ -48,7 +48,7 @@ Leased spaces.—To the extent that the appropriations of the Administration not
 
 (f)
 
-Authorization of Appropriations.—Necessary amounts may be appropriated to cover the costs incident to the sale or lease of real property, or authorized demolition of buildings on the property, declared to be surplus to the needs of any federal agency under this section, and the care, maintenance, and protection of the property, including pay of employees, travel of Government employees, brokers' fees not in excess of rates paid for similar services in the community where the property is situated, appraisals, photographs, surveys, evidence of title and perfecting of defective titles, advertising, and telephone and telegraph charges. However, the agency remains responsible for the proper care, maintenance, and protection of the property until the Administrator assumes custody or other disposition of the property is made.
+Authorization of Appropriations.—Necessary amounts may be appropriated to cover the costs incident to the sale or lease of real property, or authorized demolition of buildings on the property, declared to be surplus to the needs of any federal agency under this section, and the care, maintenance, and protection of the property, including pay of employees, travel ofGovernment employees, brokers' fees not in excess of rates paid for similar services in the community where the property is situated, appraisals, photographs, surveys, evidence of title and perfecting of defective titles, advertising, and telephone and telegraph charges. However, the agency remains responsible for the proper care, maintenance, and protection of the property until the Administrator assumes custody or other disposition of the property is made.
 
 (g)
 

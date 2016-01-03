@@ -10,7 +10,7 @@
 
 > No such rule or regulation prescribed after the date of the enactment of the Firearms Owners' Protection Act may require that records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that any system of registration of firearms, firearms owners, or firearms transactions or dispositions be established. Nothing in this section expands or restricts the Secretary's <sup>1</sup> authority to inquire into the disposition of any firearm in the course of a criminal investigation.
 
-(b) The Attorney General shall give not less than ninety days public notice, and shall affordinterested parties opportunity for hearing, before prescribing such rules and regulations.
+(b) The Attorney General shall give not less than ninety days public notice, and shall afford interested parties opportunity for hearing, before prescribing such rules and regulations.
 
 (c) The Attorney General shall not prescribe rules or regulations that require purchasers of black powder under the exemption provided in section 845(a)(5) of this title to complete affidavits or forms attesting to that exemption.
 
@@ -34,7 +34,7 @@ Subsecs. (b), (c). Pub. L. 99–308, §106(5), added subsecs. (b) and (c).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1986 Amendment
 

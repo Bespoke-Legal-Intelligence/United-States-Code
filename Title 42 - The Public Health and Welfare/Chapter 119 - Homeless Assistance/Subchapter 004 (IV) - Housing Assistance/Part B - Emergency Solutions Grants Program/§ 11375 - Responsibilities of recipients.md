@@ -6,7 +6,7 @@
 
 (2) Each recipient under this part that is a State shall be required to supplement the assistance provided under this part with an amount of funds from sources other than this part equal to the difference between the amount received under this part and $100,000. If the amount received by the State is $100,000 or less, the State may not be required to supplement the assistance provided under this part.
 
-(3) In calculating the amount of supplemental funds provided by a recipient under this part, a recipient may include the value of any donated material or building, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteers to carry out the program of the recipient at a rate determined by the Secretary.
+(3) In calculating the amount of supplemental funds provided by a recipient under this part, a recipient may include the value of any donated material or building, the value of any lease on a building, any salary paid to staff to carry out the program of the recipient, and the value of the time and services contributed by volunteersto carry out the program of the recipient at a rate determined by the Secretary.
 
 #### (b) Administration of assistance
 
@@ -68,7 +68,7 @@ A prior section 416 of Pub. L. 100–77 was renumbered section 417 and is classi
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–330 struck out "Indian tribes," after "local governments,".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550, §1402(b), in par. (1), substituted a semicolon for period at end, in par. (3), struck out "and" at end, in par. (4), inserted "it will" after "State," and struck out "and" at end, in par. (5), inserted "it will" before "develop" and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted "; and" for period at end, and added par. (7).
+<b>1992</b>—Subsec. (c). Pub. L. 102–550, §1402(b), in par. (1), substituted a semicolon for period at end, in par. (3),struck out "and" at end, in par. (4), inserted "it will" after "State," and struck out "and" at end, in par. (5), inserted "it will" before "develop" and substituted a semicolon for period at end, redesignated par. (4), relating to consistency of activities undertaken with assistance under this part, as (6) and substituted "; and" for period at end, and added par. (7).
 
 Subsec. (d). Pub. L. 102–550, §1402(c), added subsec. (d).
 

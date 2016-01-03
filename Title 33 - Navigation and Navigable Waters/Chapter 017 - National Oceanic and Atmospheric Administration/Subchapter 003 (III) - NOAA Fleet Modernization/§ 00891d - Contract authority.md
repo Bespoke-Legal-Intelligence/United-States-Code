@@ -18,7 +18,7 @@
 
 &emsp;The Secretary may not enter into a contract pursuant to this subsection unless the contract includes—
 
-&emsp;&emsp;(A) a provision under which the obligation of the United States to make payments under the contract for any fiscal year is subject to the availability of appropriations provided in advance for those payments;
+&emsp;&emsp;(A) a provision under which the obligation of the United States to make paymentsunder the contract for any fiscal year is subject to the availability of appropriations provided in advance for those payments;
 
 &emsp;&emsp;(B) a provision that specifies the term of effectiveness of the contract; and
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the National Institute of Food and Agriculture and the State cooperative extension services, and in consultation with State foresters or equivalent State officials, school boards, and universities, shall expand forestry and natural resources education programs conducted under this subchapter for private forest owners and managers, public officials, youth, and the general public, and shall include guidelines for the transfer of technology.
+The Secretary, acting through the National Institute of Food and Agriculture and the Statecooperative extension services, and in consultation with State foresters or equivalent State officials, school boards, and universities, shall expand forestry and natural resources education programs conducted under this subchapter for private forest owners and managers, public officials, youth, and the general public, and shall include guidelines for the transfer of technology.
 
 #### (b) Activities
 
@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(34), which directed amendment of section 5(a) of the Renewable Resources Extension Act of 1978 (16 U.S.C. 1674a(a)) bysubstituting "National Institute of Food and Agriculture" for "Extension Service", was executed by making the substitution in subsec. (a) of this section, which is section 5A of the Act, to reflect the probable intent of Congress.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(34), which directed amendment of section 5(a) of the Renewable Resources Extension Act of 1978 (16 U.S.C. 1674a(a)) by substituting "National Institute of Food and Agriculture" for "Extension Service", was executed by making the substitution in subsec. (a) of this section, which is section 5A of the Act, to reflect the probable intent of Congress.
 
 #### Effective Date of 2008 Amendment
 

@@ -64,7 +64,7 @@ The Office shall establish a program under which the Office may make grants to S
 
 #### (c) Applications
 
-A State or eligible entity desiring a grant under this section shall submit an application to the Office, in such form and in such a manner as the Office may determine, that includes—
+A State or eligible entity desiring a grant under this section shall submit an application tothe Office, in such form and in such a manner as the Office may determine, that includes—
 
 &emsp;(1) a proposal for activities to protect seniors from misleading or fraudulent marketing that are proposed to be funded using a grant under this section, including—
 

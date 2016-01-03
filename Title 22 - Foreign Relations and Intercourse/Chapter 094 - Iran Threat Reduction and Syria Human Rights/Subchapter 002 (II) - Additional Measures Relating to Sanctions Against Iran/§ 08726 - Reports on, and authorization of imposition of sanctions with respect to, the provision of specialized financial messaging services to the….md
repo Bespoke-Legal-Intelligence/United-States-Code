@@ -6,7 +6,7 @@ It is the sense of Congress that—
 
 &emsp;(1) providers of specialized financial messaging services are a critical link to the international financial system;
 
-&emsp;(2) the European Union is to be commended for strengthening the multilateral sanctions regime against Iran by deciding that specialized financial messaging services may not be provided to the Central Bank of Iran and other sanctioned Iranian financial institutions by persons subject to the jurisdiction of the European Union; and
+&emsp;(2) the European Union is to be commended for strengthening the multilateral sanctionsregime against Iran by deciding that specialized financial messaging services may not be provided to the Central Bank of Iran and other sanctioned Iranian financial institutions by persons subject to the jurisdiction of the European Union; and
 
 &emsp;(3) the loss of access by sanctioned Iranian financial institutions to specialized financial messaging services must be maintained.
 
@@ -36,7 +36,7 @@ It is the sense of Congress that—
 
 #### (2) Exception
 
-&emsp;The President may not impose sanctions pursuant to paragraph (1) with respect to aperson for directly providing specialized financial messaging services to, or enabling or facilitating direct or indirect access to such messaging services for, the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) if—
+&emsp;The President may not impose sanctions pursuant to paragraph (1) with respect to a person for directly providing specialized financial messaging services to, or enabling or facilitating direct or indirect access to such messaging services for, the Central Bank of Iran or a financial institution described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)) if—
 
 &emsp;&emsp;(A) the person is subject to a sanctions regime under its governing foreign law that requires it to eliminate the knowing provision of such messaging services to, and the knowing enabling and facilitation of direct or indirect access to such messaging services for—
 

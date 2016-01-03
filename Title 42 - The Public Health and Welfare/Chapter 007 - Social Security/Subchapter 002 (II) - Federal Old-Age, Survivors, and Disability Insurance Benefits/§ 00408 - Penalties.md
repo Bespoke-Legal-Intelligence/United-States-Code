@@ -10,7 +10,7 @@ Whoever—
 
 &emsp;&emsp;(B) whether net earnings from self-employment (as such term is defined in this subchapter and in the Internal Revenue Code) were derived, or as to the amount of such net earnings or the period during which or the person by whom derived; or
 
-&emsp;&emsp;(C) whether a person entitled to benefits under this subchapter had earnings in or for a particular period (as determined under section 403(f) of this title for purposes of deductions from benefits), or as to the amount thereof; or
+&emsp;&emsp;(C) whether a person entitled to benefits under this subchapter had earnings in or fora particular period (as determined under section 403(f) of this title for purposes of deductions from benefits), or as to the amount thereof; or
 
 &emsp;(2) makes or causes to be made any false statement or representation of a material fact in any application for any payment or for a disability determination under this subchapter; or
 
@@ -28,11 +28,13 @@ Whoever—
 
 &emsp;&emsp;(B) with intent to deceive, falsely represents a number to be the social security account number assigned by the Commissioner of Social Security to him or to another person, when in fact such number is not the social security account number assigned by the Commissioner of Social Security to him or to such other person; or
 
-&emsp;&emsp;(C) knowingly alters a social security card issued by the Commissioner of Social Security, buys or sells a card that is, or purports to be, a card so issued, counterfeits a social security card, or possesses a social security card or counterfeit social security card with intent to sell or alter it; or
+&emsp;&emsp;(C) knowingly alters a social security card issued by the Commissioner of Social Security, buys or sells a card that is, or purports to be, a card so issued, counterfeits a social security card, or possesses a social security card or counterfeit social security card with intent to sell or alter it;
 
-&emsp;(8) discloses, uses, or compels the disclosure of the social security number of any person in violation of the laws of the United States;
+&emsp;(8) discloses, uses, or compels the disclosure of the social security number of any person in violation of the laws of the United States; or
 
-> shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both.
+&emsp;(9) conspires to commit any offense described in any of paragraphs (1) through (4),
+
+> shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
 
 #### (b) Restitution
 
@@ -90,11 +92,11 @@ Any individual or entity convicted of a felony under this section or under secti
 
 (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513.)
+(Aug. 14, 1935, ch. 531, title II, §208, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(c), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(b), 68 Stat. 1085; Pub. L. 85–840, title III, §310, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 86–778, title II, §211(m), Sept. 13, 1960, 74 Stat. 958; Pub. L. 92–603, title I, §130(a), Oct. 30, 1972, 86 Stat. 1359; Pub. L. 94–455, title XII, §1211(a), (d), Oct. 4, 1976, 90 Stat. 1711, 1712; Pub. L. 97–123, §4(a), (b), Dec. 29, 1981, 95 Stat. 1663, 1664; Pub. L. 98–369, div. B, title VI, §2663(a)(5), July 18, 1984, 98 Stat. 1162; Pub. L. 98–460, §16(c)(2), Oct. 9, 1984, 98 Stat. 1811; Pub. L. 100–690, title VII, §7088, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–508, title V, §§5121, 5130(a)(1), Nov. 5, 1990, 104 Stat. 1388–283, 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(a)(12), Aug. 15, 1994, 108 Stat. 1478, 1536; Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(1), (2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117; Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 108–203, title II, §209(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(a)(1), (b)(1), Nov. 2, 2015, 129 Stat. 602, 603.)
 
 #### References in Text
 
-Subchapter E of chapter 1 and subchapters A and E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1), were comprised of sections 480–482,1400–1432, and 1630–1636, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
+Subchapter E of chapter 1 and subchapters A and E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1), were comprised of sections 480–482, 1400–1432, and 1630–1636, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
@@ -107,6 +109,10 @@ Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 19
 Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (e)(1)(B)(i), is section 202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–74, §813(b)(1), inserted before period at end of concluding provisions ", except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both".
+
+Subsec. (a)(9). Pub. L. 114–74, §813(a)(1), added par. (9).
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–203, §209(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -164,7 +170,7 @@ Pub. L. 108–203, title II, §209(d), Mar. 2, 2004, 118 Stat. 516, provided tha
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §213(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, provided that: "The amendments made by this section \[amending this section, section 10601 of this title, and section 2709 of Title 22, Foreign Relations and Intercourse, repealing section 1320b–23 of this title, amending provisions set out as notes under sections 4001 and 4013 of Title 18, Crimes and Criminal Procedure, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under this section and sections 1305 and 1320b–23 of this title\] shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\]."
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
+Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554,§1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
 
 #### Effective Date of 1994 Amendment
 

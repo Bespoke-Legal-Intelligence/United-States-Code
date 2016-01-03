@@ -8,7 +8,7 @@ A program for visiting scholars in the fields of arms control, nonproliferation,
 
 <b>1998</b>—Pub. L. 105–277, §1223(5), substituted "Secretary of State" for "Director" and "Department of State's" for "Agency's", substituted "Department of State" for "Agency" in two places, and struck out at end "Fellows shall be chosen by a board consisting of the Director, who shall be the chairperson, and all former Directors of the Agency."
 
-<b>1994</b>—Pub. L. 103–236 substituted "fields of arms control, nonproliferation, and disarmament" for "field of arms control and disarmament" in first sentence and inserted ", nonproliferation," after "participation in the arms control" in second sentence.
+<b>1994</b>—Pub. L. 103–236 substituted "fields of arms control, nonproliferation, and disarmament" for "field ofarms control and disarmament" in first sentence and inserted ", nonproliferation," after "participation in the arms control" in second sentence.
 
 #### Effective Date of 1998 Amendment
 

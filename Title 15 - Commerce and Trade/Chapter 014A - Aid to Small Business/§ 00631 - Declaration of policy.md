@@ -40,7 +40,7 @@ It is the declared policy of the Congress that the Government, through the Small
 
 &emsp;(iv) that such development of business ownership among groups that presently own and control little productive capital will be greatly facilitated through the creation of a small business ownership development program, which shall provide services, including, but not limited to, financial, management, and technical assistance.<sup>1</sup>
 
-&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool fordevelopment of business ownership among groups that own and control little productive capital; and
+&emsp;(v) that the power to let Federal contracts pursuant to section 637(a) of this title can be an effective procurement assistance tool for development of business ownership among groups that own and control little productive capital; and
 
 &emsp;(vi) that the procurement authority under section 637(a) of this title shall be used only as a tool for developing business ownership among groups that own and control little productive capital.
 
@@ -102,7 +102,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(G) increased numbers of small business concerns owned and controlled by women will directly benefit the United States Government by expanding the potential number of suppliers of goods and services to the Government; and
 
-&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting therights of socially and economically disadvantaged individuals.
+&emsp;(H) programs and activities designed to assist small business concerns owned and controlled by women must be implemented in such a way as to remove such discriminatory barriers while not adversely affecting the rights of socially and economically disadvantaged individuals.
 
 (2) It is, therefore, the purpose of those programs and activities conducted under the authority of this chapter that assist women entrepreneurs to—
 
@@ -118,7 +118,7 @@ None of the funds made available pursuant to this chapter may be used to provide
 
 #### (j) Contract bundling
 
-In complying with the statement of congressional policy expressed in subsection (a) of this section, relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
+In complying with the statement of congressional policy expressed in subsection (a), relating to fostering the participation of small business concerns in the contracting opportunities of the Government, each Federal agency, to the maximum extent practicable, shall—
 
 &emsp;(1) comply with congressional intent to foster the participation of small business concerns as prime contractors, subcontractors, and suppliers;
 
@@ -258,9 +258,19 @@ Pub. L. 97–35, title XIX, §1918, Aug. 13, 1981, 95 Stat. 781, provided that: 
 
 Pub. L. 96–302, title V, §507, July 2, 1980, 94 Stat. 854, provided that: "This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–88, §1(a), Nov. 25, 2015, 129 Stat. 686, provided that: "This Act \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as notes under this section and sections 636 and 657l of this title\] may be cited as the 'Recovery Improvements for Small Entities After Disaster Act of 2015' or the 'RISE After Disaster Act of 2015'." \[For identical short title, see below.\]
+
+Pub. L. 114–88, div. A, §1001, Nov. 25, 2015, 129 Stat. 687, provided that: "This division \[amending section 636 of this title and enacting provisions set out as notes under sections 636 and 657l of this title\] may be cited as the 'Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015'."
+
+Pub. L. 114–88, div. B, §2001, Nov. 25, 2015, 129 Stat. 689, provided that: "This division \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as a note under section 636 of this title\] may be cited as the 'Recovery Improvements for Small Entities After Disaster Act of 2015' or the 'RISE After Disaster Act of 2015'." \[For identical short title, see above.\]
+
+Pub. L. 114–38, §1, July 28, 2015, 129 Stat. 437, provided that: "This Act \[amending section 636 of this title\] may be cited as the 'Veterans Entrepreneurship Act of 2015'."
+
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–81, div. E, title L, §5001, Dec. 31, 2011, 125 Stat. 1822, provided that: "This division \[enacting sections 638a and 638b of this title, amending sections 632and 638 of this title, enacting provisions set out as notes under sections 638 and 638b of this title, and amending provisions set out as a note under section 638 of this title\] may be cited as the 'SBIR/STTR Reauthorization Act of 2011'."
+Pub. L. 112–81, div. E, title L, §5001, Dec. 31, 2011, 125 Stat. 1822, provided that: "This division \[enacting sections 638a and 638b of this title, amending sections 632 and 638 of this title, enacting provisions set out as notes under sections 638 and 638b of this title, and amending provisions set out as a note under section 638 of this title\] may be cited as the 'SBIR/STTR Reauthorization Act of 2011'."
 
 Pub. L. 112–17, §1, June 1, 2011, 125 Stat. 221, provided that: "This Act \[amending section 638 of this title\] may be cited as the 'Small Business Additional Temporary Extension Act of 2011'."
 
@@ -282,7 +292,7 @@ Pub. L. 110–186, §1, Feb. 14, 2008, 122 Stat. 623, provided that: "This Act \
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amending section 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
+Pub. L. 110–28, title VIII, §8301, May 25, 2007, 121 Stat. 204, provided that: "This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 110–28, amendingsection 656 of this title and section 10a of Title 41, Public Contracts, enacting provisions set out as notes under section 656 of this title and section 9858 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business and Work Opportunity Act of 2007'."
 
 #### Short Title of 2004 Amendment
 
@@ -420,7 +430,7 @@ Pub. L. 90–104, title I, §101, Oct. 11, 1967, 81 Stat. 268, provided that: "T
 
 #### Short Title of 1961 Amendment
 
-Pub. L. 87–305, §1, Sept. 26, 1961, 75 Stat. 666, provided: "That this Act \[amending this section, sections 633, 634,636, 637, and 639 of this title, and section 2158 of Appendix to Title 50, War and National Defense\] may be cited as the 'Small Business Act Amendments of 1961'."
+Pub. L. 87–305, §1, Sept. 26, 1961, 75 Stat. 666, provided: "That this Act \[amending this section, sections 633, 634, 636, 637, and 639 of this title, and section 4558 of Title 50, War and National Defense\] may be cited as the 'Small Business Act Amendments of 1961'."
 
 #### Short Title
 
@@ -572,7 +582,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 Additional authorizations.—
 
-&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2006 such sums asmay be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
+&emsp;&emsp;"(A) There are authorized to be appropriated to the Administration for fiscal year 2006 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
 
 &emsp;&emsp;"(B) Notwithstanding any other provision of this paragraph, for fiscal year 2006—
 
@@ -606,11 +616,11 @@ Course Required.—To have a Federal Acquisition Certification in Contracting (o
 
 #### Agency Achievement of Small Business Goals
 
-Pub. L. 112–239, div. A, title XVI, §1633(b), (c), Jan. 2, 2013, 126 Stat. 2076, provided that:
+Pub. L. 112–239, div. A, title XVI, §1633(b), (c), Jan. 2, 2013, 126 Stat. 2076, as amended by Pub. L. 114–92, div. A, title VIII, §871, Nov. 25, 2015, 129 Stat. 939, provided that:
 
 "(b)
 
-Responsibility for Achieving Small Business Goals.—The head of an agency shall take steps to ensure that members of the senior executive service, as defined under section 3396(a) of title 5, United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for of \[sic\] the agency's success in achieving small business contracting goals and percentages by—
+Responsibility for Achieving Small Business Goals.—The head of an agency shall take steps to ensure that members of the senior executive service, as defined under section 3396(a) of title 5, United States Code, responsible for acquisition, other senior officials responsible for acquisition, and other members of the senior executive service, as appropriate, assume responsibility for the agency's success in achieving each of the small business prime contracting and subcontracting goals and percentages by—
 
 &emsp;"(1) promoting a climate or environment that is responsive to small business concerns;
 
@@ -676,7 +686,7 @@ In general.—Not later than 9 months after the date of enactment of this Act \[
 
 &emsp;"(2)
 
-Contents.—The report under paragraph (1) shall include recommendations to Congress concerning the need for legislation and recommendations tothe Office of Management and Budget, relevant offices within the Administration, and the Department of Veterans Affairs.
+Contents.—The report under paragraph (1) shall include recommendations to Congress concerning the need for legislation and recommendations to the Office of Management and Budget, relevant offices within the Administration, and the Department of Veterans Affairs.
 
 "(b)
 
@@ -752,7 +762,7 @@ Pub. L. 96–302, title I, §118(c)(1), July 2, 1980, 94 Stat. 840, provided tha
 
 #### Assistance to Automobile Dealers; Congressional Findings; Investigation by Administrator; Report to Congress
 
-Pub. L. 96–185, §17, Jan. 7, 1980, 93 Stat. 1335, directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loans and loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
+Pub. L. 96–185, §17, Jan. 7, 1980, 93 Stat. 1335, directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loansand loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
 
 #### Executive Order No. 11458
 
@@ -786,7 +796,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 (3) Convene, for purposes of coordination, meetings of the heads of such departments and agencies, or their designees, whose programs and activities may affect or contribute to the purposes of this order.
 
-(4) Convene business leaders, educators, and other representatives of the private sector who are engagedin assisting the development of minority business enterprise or who could contribute to its development, for the purpose of proposing, evaluating and coordinating governmental and private activities in furtherance of the objectives of this order.
+(4) Convene business leaders, educators, and other representatives of the private sector who are engaged in assisting the development of minority business enterprise or who could contribute to its development, for the purpose of proposing, evaluating and coordinating governmental and private activities in furtherance of the objectives of this order.
 
 (5) Confer with and advise officials of State and local governments.
 
@@ -894,7 +904,7 @@ Sec. 4. <i>Office of Small and Disadvantaged Business Utilization ("OSDBU").</i>
 
 (b) Because of the importance of the OSDBU function, each department and agency shall also, to the extent not prohibited by law, comply with the Office of Federal Procurement Policy Letter No. 79–1 of March 7, 1979, which provides implementation guidance on section 15k \[15(k)\] and the organizational placement and functions of the OSDBU.
 
-Sec. 5. <i>Anti-fraud Enforcement</i>. All department and agency heads shall ensure that in enforcing the laws and requirements mentioned in this order, Federal benefits or contracts intended for SDBs, HBCUs, and MIs are not awarded to entities that are not legitimateSDBs, HBCUs, and MIs. Department and agency anti-fraud enforcement, however, shall not diminish agency vigor in achieving the aforementioned participation goals, which exist to promote the development of legitimate SDBs, HBCUs, and MIs. Nothing herein is intended to change self-certification requirements.
+Sec. 5. <i>Anti-fraud Enforcement</i>. All department and agency heads shall ensure that in enforcing the laws and requirements mentioned in this order, Federal benefits or contracts intended for SDBs, HBCUs, and MIs are not awarded to entities that are not legitimate SDBs, HBCUs, and MIs. Department and agency anti-fraud enforcement, however, shall not diminish agency vigor in achieving the aforementioned participation goals, which exist to promote the development of legitimate SDBs, HBCUs, and MIs. Nothing herein is intended to change self-certification requirements.
 
 Sec. 6. <i>Periodic Reports to the President</i>. The Administrator of the Small Business Administration and the Administrator of the Office of Federal Procurement Policy shall report to the President periodically on the progress of all departments and agencies in complying with the laws and requirements mentioned in this order.
 
@@ -908,11 +918,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13169, Oct. 6, 2000, 65 F.R. 60581, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Small Business Act, 15 U.S.C. 631 <i>et seq</i>., the Workforce Investment Act, 29 U.S.C. 2801 <i>et seq</i>., and the Trade Act of 1974, 19 U.S.C. 2271 <i>et seq</i>. \[19 U.S.C. 2101 et seq.\], and in order to assist small businesses, including businesses headed by underserved populations, in participating in the export of products, and to expedite the delivery of adjustment assistance to dislocated workers, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Small Business Act, 15 U.S.C. 631 <i>et seq</i>., the Workforce Investment Act, \[former\] 29 U.S.C. 2801 <i>et seq</i>., and the Trade Act of 1974, 19 U.S.C. 2271 <i>et seq</i>. \[19 U.S.C. 2101 et seq.\], and in order to assist small businesses, including businesses headed by underserved populations, in participating in the export of products, and to expedite the delivery of adjustment assistance to dislocated workers, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. By its accession to the World Trade Organization, the People's Republic of China will be required to open its markets to a wide range of products and services provided by Americans. In addition, the United States has recently enacted a new law to facilitate trade with the countries of Sub-Saharan Africa and the Caribbean Basin. Federal agencies should take steps to assist small businesses, including businesses headed by underserved populations, in capitalizing on these new opportunities. The agencies should also take steps to assist workers who lose their jobs as a result of competition from imports in their efforts to secure adjustment assistance benefits for which they are eligible.
 
-Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secretaries of Commerce and Labor, the Administrator of the Small Business Administration, the United States Trade Representative, and the Chairman of the Export-Import Bank shall, within 60 days from the date of this order, establish an interagency task force through the Trade Promotion Coordinating Committee (TPCC). The task force shall facilitate exports by United States small businesses, including businesses headed by underserved populations, particularly with respect to the People's Republic of China and the countries of Sub-Saharan Africa and the Caribbean Basin. The TPCC shall submit an annual report to the President on the functions carried out by this task force during the preceding year. As part of its work, the task force shall assess the extent to which the establishment of permanent normal trade relations with the People's Republic of China, and the United States enactment of the African Growth and Opportunity Act, 19 U.S.C.A. 3701 <i>et seq</i>., and the United States-Caribbean Basin Trade Partnership Act, 19 U.S.C.A. 2701 note, may contribute to the creation of export opportunities for small businesses including businesses headed by underserved populations.
+Sec. 2. <i>Interagency Task Force on Small Business Exports</i>. (a) The Secretaries of Commerce and Labor, the Administrator of the Small Business Administration, the United States Trade Representative, and the Chairman of the Export-Import Bank shall, within 60 days from the date of this order, establish an interagency task force through the Trade Promotion Coordinating Committee (TPCC). The task force shall facilitate exports by United States small businesses, including businesses headed by underserved populations, particularly with respect to the People's Republic of China and the countries of Sub-Saharan Africa and the Caribbean Basin. The TPCC shall submit an annual report to the President on the functions carried out by this task force during the preceding year. As part of its work, the task force shall assess the extent to which the establishment of permanent normal trade relations with the People's Republic of China, and the United Statesenactment of the African Growth and Opportunity Act, 19 U.S.C.A. 3701 <i>et seq</i>., and the United States-Caribbean Basin Trade Partnership Act, 19 U.S.C.A. 2701 note, may contribute to the creation of export opportunities for small businesses including businesses headed by underserved populations.
 
 (b) For the purposes of this order, "businesses headed by underserved populations" means businesses headed by women or minorities, and/or located in rural communities.
 
@@ -1018,7 +1028,7 @@ The Federal Government is the world's largest purchaser of goods and services, w
 
 The Congress has established a number of statutory goals designed to help small businesses compete for Federal contracts. In addition to the goal of awarding at least 23 percent of all Federal prime contracting dollars to small businesses, the Congress also established Government-wide contracting goals for participation by small businesses that are located in Historically Underutilized Business Zones (at least 3 percent) or that are owned by women (at least 5 percent), socially and economically disadvantaged individuals (at least 5 percent), and service-disabled veterans (at least 3 percent). These aspirational goals help ensure that all Americans share in the jobs and opportunities created by Federal procurement.
 
-In recent years, the Federal Government has not consistently reached its small business contracting goals. Although we have made some progress—particularly with respect to Recovery Act contracts—more work can and should be done. I am committed to ensuring that small businesses, including firms owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans, have fair access to Federal Government contracting. Indeed, where small businesses have the capacity to domore, we should strive to exceed the statutory goals. While Chief Acquisition Officers and Senior Procurement Executives have many priorities, small business contracting should always be a high priority in the procurement process.
+In recent years, the Federal Government has not consistently reached its small business contracting goals. Although we have made some progress—particularly with respect to Recovery Act contracts—more work can and should be done. I am committed to ensuring that small businesses, including firms owned by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans, have fair access to Federal Government contracting. Indeed, where small businesses have the capacity to do more, we should strive to exceed the statutory goals. While Chief Acquisition Officers and Senior Procurement Executives have many priorities, small business contracting should always be a high priority in the procurement process.
 
 Obtaining tangible results will require an honest and accurate accounting of our progress so that we can have transparency and accountability through Federal small business procurement data. Additionally, we must expand outreach strategies to alert small firms to Federal contracting opportunities.
 
@@ -1066,7 +1076,7 @@ Sec. 3. <i>Functions</i>. The Task Force shall provide to the President, not lat
 
 (i) using innovative strategies, such as teaming, to increase opportunities for small business contractors and utilizing and expanding mentorship programs, such as the mentor-protégé program;
 
-(ii) removing barriers to participation by small businesses in the Federal marketplace by unbundling large projects, improving training of Federal acquisition officials with respect to strategies for increasing small business contracting opportunities, and utilizing new technologies to enhance the effectiveness and efficiency of Federal program managers, acquisition officials, and the Directors of Offices of Small Business Programs and Offices of Small and Disadvantaged Business Utilization, their managers, and procurement center representatives in identifying and providing access to these opportunities;
+(ii) removing barriers to participation by small businesses in the Federal marketplace by unbundling large projects, improving training of Federal acquisition officials with respect to strategies for increasing smallbusiness contracting opportunities, and utilizing new technologies to enhance the effectiveness and efficiency of Federal program managers, acquisition officials, and the Directors of Offices of Small Business Programs and Offices of Small and Disadvantaged Business Utilization, their managers, and procurement center representatives in identifying and providing access to these opportunities;
 
 (iii) expanding outreach strategies to match small businesses, including firms located in Historically Underutilized Business Zones and firms owned and controlled by women, minorities, socially and economically disadvantaged individuals, and service-disabled veterans of our Armed Forces, with contracting and subcontracting opportunities; and
 

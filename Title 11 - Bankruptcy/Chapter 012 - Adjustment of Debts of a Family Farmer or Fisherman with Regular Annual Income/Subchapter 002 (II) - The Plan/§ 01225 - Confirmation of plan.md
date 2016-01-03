@@ -24,7 +24,7 @@
 
 &emsp;(7) the debtor has paid all amounts that are required to be paid under a domestic support obligation and that first become payable after the date of the filing of the petition if the debtor is required by a judicial or administrative order, or by statute, to pay such domestic support obligation.
 
-(b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
+(b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation ofthe plan, then the court may not approve the plan unless, as of the effective date of the plan—
 
 &emsp;(A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim;
 

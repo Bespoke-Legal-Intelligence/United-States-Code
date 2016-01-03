@@ -10,7 +10,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;(A) have the authority to—
 
-&emsp;&emsp;&emsp;(i) pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State who are or who may be eligible for treatment, services, or habilitation, or who are being considered for a change in living arrangements, with particular attention to members of ethnic and racial minority groups; and
+&emsp;&emsp;&emsp;(i) pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacyfor, the rights of such individuals within the State who are or who may be eligible for treatment, services, or habilitation, or who are being considered for a change in living arrangements, with particular attention to members of ethnic and racial minority groups; and
 
 &emsp;&emsp;&emsp;(ii) provide information on and referral to programs and services addressing the needs of individuals with developmental disabilities;
 
@@ -64,7 +64,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;&emsp;(II) in any case of death of an individual with a developmental disability;
 
-&emsp;&emsp;(K) hire and maintain sufficient numbers and types of staff (qualified by training and experience) to carry out such system's functions, except that the State involved shall not apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the system, to the extent that such policies would impact the staff or functions of the system funded with Federal funds or would prevent the system from carrying out the functions of the system under this part;
+&emsp;&emsp;(K) hire and maintain sufficient numbers and types of staff (qualified by training and experience) to carry out such system's functions, except that the State involved shallnot apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the system, to the extent that such policies would impact the staff or functions of the system funded with Federal funds or would prevent the system from carrying out the functions of the system under this part;
 
 &emsp;&emsp;(L) have the authority to educate policymakers; and
 
@@ -94,7 +94,7 @@ Upon application to the Secretary, an American Indian consortium established to 
 
 In this section, the term "record" includes—
 
-&emsp;(1) a report prepared or received by any staff at any location at which services, supports, orother assistance is provided to individuals with developmental disabilities;
+&emsp;(1) a report prepared or received by any staff at any location at which services, supports, or other assistance is provided to individuals with developmental disabilities;
 
 &emsp;(2) a report prepared by an agency or staff person charged with investigating reports of incidents of abuse or neglect, injury, or death occurring at such location, that describes such incidents and the steps taken to investigate such incidents; and
 

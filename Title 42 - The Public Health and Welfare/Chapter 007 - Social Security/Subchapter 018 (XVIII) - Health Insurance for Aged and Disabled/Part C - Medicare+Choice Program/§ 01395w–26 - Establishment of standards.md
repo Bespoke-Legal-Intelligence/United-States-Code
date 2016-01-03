@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) the appointment of a negotiated rulemaking committee under section 565(a) of such title by not later than 30 days after the end of the comment period provided for under section 564(c) of such title (as shortened under paragraph (4)), and
 
-&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than10 days after the date of appointment of the committee.
+&emsp;&emsp;(B) the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
 
 #### (6) Preliminary committee report
 
@@ -90,7 +90,7 @@ Subsec. (b)(4). Pub. L. 106–554, §1(a)(6) \[title VI, §612(a)\], added par. 
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2000 Amendment
 

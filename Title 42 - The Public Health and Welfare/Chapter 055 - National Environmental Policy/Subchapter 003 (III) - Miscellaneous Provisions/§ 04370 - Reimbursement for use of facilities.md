@@ -10,7 +10,7 @@ The Administrator may promulgate regulations to cover such use of Agency facilit
 
 #### (c) Waiver of reimbursement by Administrator
 
-When he finds it is in the public interest the Administrator may waive reimbursement or fees for outside use of Agency facilities by nonprofit private or public entities.
+When he finds it is in the public interest the Administrator may waive reimbursement or feesfor outside use of Agency facilities by nonprofit private or public entities.
 
 (Pub. L. 96–229, §5, Apr. 7, 1980, 94 Stat. 328.)
 

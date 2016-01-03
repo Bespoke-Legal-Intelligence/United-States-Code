@@ -6,7 +6,7 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(1) require the institution to obtain approval from the Assistance Board before implementing business, operating, and investment plans and policies;
 
-&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the Assistance Board on the possibility of restoring the institution to sound financial condition;
+&emsp;(2) if one or more of the conditions described in section 2183(b) of this title are met, as determined by the Farm Credit Administration, direct the Farm Credit Administration Board to appoint a conservator for the institution, in accordance with such section, and to instruct the conservator to evaluate the operations of the institution and report to the Farm Credit Administration Board and the AssistanceBoard on the possibility of restoring the institution to sound financial condition;
 
 &emsp;(3) request that the Farm Credit Administration Board or the Farm Credit Administration, as appropriate—
 
@@ -46,7 +46,7 @@ In the case of a System institution that requests certification under section 22
 
 #### (1) Notification
 
-&emsp;The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9) of this section.
+&emsp;The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9).
 
 #### (2) Enforcement
 

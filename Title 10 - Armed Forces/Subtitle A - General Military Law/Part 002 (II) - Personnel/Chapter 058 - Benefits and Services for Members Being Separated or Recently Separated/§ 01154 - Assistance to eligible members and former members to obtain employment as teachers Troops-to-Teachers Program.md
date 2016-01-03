@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Charter school.—The term "charter school" has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1)).
+Charter school.—The term "charter school" has the meaning given that term in section 4310 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ High-need school.—The term "high-need school" means—
 
 &emsp;&emsp;(B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
 
-&emsp;&emsp;(C) a school that is in a local educational agency that is eligible under section 6211(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7345(b)).
+&emsp;&emsp;(C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
 
 &emsp;(4)
 
@@ -48,7 +48,7 @@ Secretary.—The term "Secretary" means the Secretary of Defense.
 
 &emsp;(8)
 
-Additional terms.—The terms "elementary school", "local educational agency", "secondary school", and "State" have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+Additional terms.—The terms "elementary school", "local educational agency", "secondary school", and "State" have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 (b)
 
@@ -230,9 +230,11 @@ Assistance to states.—(A) Subject to subparagraph (B), the Secretary may make 
 
 Limitation on Total Fiscal-year Obligations.—The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190.)
 
 #### References in Text
+
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1), (3)(C), (8) and (b)(2)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20, Education. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -240,21 +242,29 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(
 
 The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
-
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20 and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–95, §9215(uuu)(2)(A), substituted "section 4310 of the Elementary and Secondary Education Act of 1965" for "section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1))".
+
+Subsec. (a)(3)(C). Pub. L. 114–95, §9215(uuu)(2)(B), substituted "section 5211(b) of the Elementary and Secondary Education Act of 1965" for "section 6211(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7345(b))".
+
+Subsec. (a)(8). Pub. L. 114–95, §9215(uuu)(2)(C), substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
+
 <b>2014</b>—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted "20 U.S.C. 1411" for "20 U.S.C.1411".
 
-#### Transfer of Functions for Troops-to-Teachers Program
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+#### Transfer of Functions for Troops-to-Teachers Program; Existing Agreements
 
 Pub. L. 112–239, div. A, title V, §541(a), Jan. 2, 2013, 126 Stat. 1728, provided that:
 
 "(1)
 
-Transfer.—The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
+Transfer.—The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (\[former\] 20 U.S.C. 6671 et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
 
 "(2)
 
@@ -277,4 +287,10 @@ Effective date.—The transfer of responsibility and authority for operation and
 &emsp;"(A) on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]; or
 
 &emsp;"(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide."
+
+Pub. L. 112–239, div. A, title V, §541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: "The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (\[former\] 20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
+
+&emsp;"(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) \[set out as a note above\]; or
+
+&emsp;"(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a)."
 

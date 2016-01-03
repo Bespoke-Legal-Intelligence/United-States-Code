@@ -26,7 +26,7 @@
 
 (2) An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a),1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, §563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, §1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, §523, Oct. 28, 2004, 118 Stat. 1888.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, §563, Dec. 28, 2001, 115 Stat. 1120; Pub. L. 108–136, div. A, title XI, §1113(a), Nov. 24, 2003, 117 Stat. 1635; Pub. L. 108–375, div. A, title V, §523, Oct. 28, 2004, 118 Stat. 1888.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out "noncombat" after "for participation in".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period forwhich an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
 
 Subsec. (d). Pub. L. 104–106, §1039, added subsec. (d).
 
@@ -120,7 +120,7 @@ Pub. L. 106–65, div. A, title XI, §1106(b), Oct. 5, 1999, 113 Stat. 777, prov
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 

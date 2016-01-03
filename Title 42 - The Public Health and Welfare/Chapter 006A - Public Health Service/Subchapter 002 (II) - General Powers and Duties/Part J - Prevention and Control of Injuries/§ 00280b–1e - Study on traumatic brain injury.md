@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(1) In collaboration with appropriate State and local health-related agencies—
 
-&emsp;&emsp;(A) determining the incidence of traumatic brain injury and prevalence of traumaticbrain injury related disability and the clinical aspects of the disability in all age groups and racial and ethnic minority groups in the general population of the United States, including institutional settings, such as nursing homes, correctional facilities, psychiatric hospitals, child care facilities, and residential institutes for people with developmental disabilities; and
+&emsp;&emsp;(A) determining the incidence of traumatic brain injury and prevalence of traumatic brain injury related disability and the clinical aspects of the disability in all age groups and racial and ethnic minority groups in the general population of the United States, including institutional settings, such as nursing homes, correctional facilities, psychiatric hospitals, child care facilities, and residential institutes for people with developmental disabilities; and
 
 &emsp;&emsp;(B) reporting national trends in traumatic brain injury.
 

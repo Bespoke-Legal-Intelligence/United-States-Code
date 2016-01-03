@@ -57,7 +57,7 @@
 
 #### (B) Monthly participation rates
 
-&emsp;&emsp;The participation rate of a State for 2-parent families of the State for a month shall be calculated by use of the formula set forth in paragraph (1)(B), except that in the formula the term "number of 2-parent families" shall be substituted for the term "number of families" each place such latter term appears.
+&emsp;&emsp;The participation rate of a State for 2-parent families of the State for a month shallbe calculated by use of the formula set forth in paragraph (1)(B), except that in the formula the term "number of 2-parent families" shall be substituted for the term "number of families" each place such latter term appears.
 
 #### (C) Family with a disabled parent not treated as a 2-parent family
 
@@ -69,7 +69,7 @@
 
 &emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
-&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part orany other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
+&emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) is less than
 
 &emsp;&emsp;&emsp;(ii) the average monthly number of families that received assistance under any State program referred to in clause (i) during fiscal year 2005.
 
@@ -118,7 +118,7 @@
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greater than the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(5) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) of this subsection, an individual shall not be considered to be engaged in work by virtue of participation in an activity described in subsection (d)(6) of this section of a State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), after the individual has participated in such an activity for 6 weeks (or, if the unemployment rate of the State is at least 50 percent greaterthan the unemployment rate of the United States or the State is a needy State (within the meaning of section 603(b)(5) of this title), 12 weeks), or if the participation is for a week that immediately follows 4 consecutive weeks of such participation.
 
 #### (ii) Limited authority to count less than full week of participation
 
@@ -126,7 +126,7 @@
 
 #### (B) Single parent or relative with child under age 6 deemed to be meeting work participation requirements if parent or relative is engaged in work for 20 hours per week
 
-&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i) of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a monthif the recipient is engaged in work for an average of at least 20 hours per week during the month.
+&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i) of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a month if the recipient is engaged in work for an average of at least 20 hours per week during the month.
 
 #### (C) Single teen head of household or married teen who maintains satisfactory school attendance deemed to be meeting work participation requirements
 
@@ -194,7 +194,7 @@ As used in this section, the term "work activities" means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State program funded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
+&emsp;Subject to paragraph (2), an adult in a family receiving assistance under a State programfunded under this part attributable to funds provided by the Federal Government may fill a vacant employment position in order to engage in a work activity described in subsection (d) of this section.
 
 #### (2) No filling of certain vacancies
 
@@ -210,7 +210,7 @@ As used in this section, the term "work activities" means—
 
 #### (4) No preemption
 
-&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local lawthat provides greater protection for employees from displacement.
+&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local law that provides greater protection for employees from displacement.
 
 #### (g) Sense of Congress
 
@@ -254,7 +254,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### Prior Provisions
 
-A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L.92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
@@ -262,7 +262,7 @@ A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8
 
 <b>2009</b>—Subsec. (b)(3)(A)(i). Pub. L. 111–5, §2101(d)(2), struck out "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
 
-Pub. L. 111–5, §2101(b), inserted "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fundbase year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
+Pub. L. 111–5, §2101(b), inserted "(or if the immediately preceding fiscal year is fiscal year 2008, 2009, or 2010, then, at State option, during the emergency fund base year of the State with respect to the average monthly assistance caseload of the State (within the meaning of section 603(c)(9) of this title), except that, if a State elects such option for fiscal year 2008, the emergency fund base year of the State with respect to such caseload shall be fiscal year 2007))" before "under the State".
 
 <b>2006</b>—Subsecs. (a)(1), (2), (b)(1)(B)(i). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 

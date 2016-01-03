@@ -46,7 +46,7 @@ Study.—
 
 &emsp;"(1) Not later than 3 years after the effective date of this title \[see Effective Date note above\], the Secretary shall, after consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[42 U.S.C. 300aa–19\]—
 
-&emsp;&emsp;"(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21 U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[42 U.S.C. 300aa–14\], and
+&emsp;&emsp;"(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[42 U.S.C. 300aa–14\], and
 
 &emsp;&emsp;"(B) establish guidelines, after notice and opportunity for public hearing and consideration of all relevant medical and scientific information, respecting the administration of such vaccines which shall include—
 

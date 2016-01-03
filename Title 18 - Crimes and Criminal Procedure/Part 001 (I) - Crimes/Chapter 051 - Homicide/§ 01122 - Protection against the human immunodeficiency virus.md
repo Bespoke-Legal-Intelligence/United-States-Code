@@ -12,7 +12,7 @@ Transmission Not Required.—Transmission of the Human Immunodeficiency Virus do
 
 Penalty.—Any person convicted of violating the provisions of subsection (a) shall be subject to a fine under this title of not less than $10,000, imprisoned for not less than 1 year nor more than 10 years, or both.
 
-(Added Pub. L. 103–333, title V, §514, Sept. 30, 1994, 108 Stat. 2574, §1118; renumbered §1122 and amended Pub. L. 104–294, title VI, §601(a)(5), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 113–51, §3, Nov. 21, 2013, 127 Stat. 581.)
+(Added Pub. L. 103–333, title V, §514, Sept. 30, 1994, 108 Stat. 2574, §1118; renumbered §1122 and amended Pub. L. 104–294, title VI, §601(a)(5), Oct.11, 1996, 110 Stat. 3498; Pub. L. 113–51, §3, Nov. 21, 2013, 127 Stat. 581.)
 
 #### References in Text
 

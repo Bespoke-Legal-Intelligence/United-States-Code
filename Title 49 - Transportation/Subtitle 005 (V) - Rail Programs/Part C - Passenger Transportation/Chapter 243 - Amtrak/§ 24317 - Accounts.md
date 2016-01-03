@@ -1,0 +1,138 @@
+### §24317. Accounts
+
+(a)
+
+Purpose.—The purpose of this section is to—
+
+&emsp;(1) promote the effective use and stewardship by Amtrak of Amtrak revenues, Federal, State, and third party investments, appropriations, grants and other forms of financial assistance, and other sources of funds; and
+
+&emsp;(2) enhance the transparency of the assignment of revenues and costs among Amtrak business lines while ensuring the health of the Northeast Corridor and National Network.
+
+(b)
+
+Account Structure.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultation with Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
+
+(c)
+
+Financial Sources.—In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
+
+&emsp;(1) For the Northeast Corridor account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the Northeast Corridor, including—
+
+&emsp;&emsp;(A) grant funds appropriated for the Northeast Corridor pursuant to section 11101(a) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
+
+&emsp;&emsp;(B) compensation received from commuter rail passenger transportation providers for such providers' share of capital and operating costs on the Northeast Corridor provided to Amtrak pursuant to section 24905(c); and
+
+&emsp;&emsp;(C) any operating surplus of the Northeast Corridor, as allocated pursuant to section 24318.
+
+&emsp;(2) For the National Network account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the National Network, including—
+
+&emsp;&emsp;(A) grant funds appropriated for the National Network pursuant to section 11101(b) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
+
+&emsp;&emsp;(B) compensation received from States provided to Amtrak pursuant to section 209 of the Passenger Rail Investment and Improvement Act of 2008 (42 U.S.C. 24101 note); <sup>1</sup> and
+
+&emsp;&emsp;(C) any operating surplus of the National Network, as allocated pursuant to section 24318.
+
+(d)
+
+Financial Uses.—In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
+
+&emsp;(1) For the Northeast Corridor, all associated costs, including—
+
+&emsp;&emsp;(A) operating activities;
+
+&emsp;&emsp;(B) capital activities as described in section 24904(a)(2)(E);
+
+&emsp;&emsp;(C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilities used for intercity rail passenger transportation by Northeast Corridor train services;
+
+&emsp;&emsp;(D) payment of principal and interest on loans for capital projects described in this paragraph or for capital leases attributable to the Northeast Corridor;
+
+&emsp;&emsp;(E) other capital projects on the Northeast Corridor, determined appropriate by the Secretary, and consistent with section 24905(c)(1)(A)(i); and
+
+&emsp;&emsp;(F) if applicable, capital projects described in section 24904(b).
+
+&emsp;(2) For the National Network, all associated costs, including—
+
+&emsp;&emsp;(A) operating activities;
+
+&emsp;&emsp;(B) capital activities; and
+
+&emsp;&emsp;(C) the payment of principal and interest on loans or capital leases attributable to the National Network.
+
+(e)
+
+Implementation and Reporting.—
+
+&emsp;(1)
+
+In general.—Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak, in consultation with the Secretary, shall implement any account structures and improvements defined under subsection (b) so that Amtrak is able to produce profit and loss statements for each of the business lines described in section 24320(b)(1) and, as appropriate, each of the asset categories described in section 24320(c)(1) that identify sources and uses of—
+
+&emsp;&emsp;(A) revenues;
+
+&emsp;&emsp;(B) appropriations; and
+
+&emsp;&emsp;(C) transfers between business lines.
+
+&emsp;(2)
+
+Updated profit and loss statements.—Not later than 1 month after the implementation under paragraph (1), and monthly thereafter, Amtrak shall submit updated profit and loss statements for each of the business lines and asset categories to the Secretary.
+
+(f)
+
+Account Management.—For the purposes of account management, Amtrak may transfer funds between the Northeast Corridor account and National Network account without prior notification and approval under subsection (g) if such transfers—
+
+&emsp;(1) do not materially impact Amtrak's ability to achieve its anticipated financial, capital, and operating performance goals for the fiscal year; and
+
+&emsp;(2) would not materially change any grant agreement entered into pursuant to section 24319(d), or other agreements made pursuant to applicable Federal law.
+
+(g)
+
+Transfer Authority.—
+
+&emsp;(1)
+
+In general.—If Amtrak determines that a transfer between the accounts defined under subsection (b) does not meet the account management standards established under subsection (f), Amtrak may transfer funds between the Northeast Corridor and National Network accounts if—
+
+&emsp;&emsp;(A) Amtrak notifies the Amtrak Board of Directors, including the Secretary, at least 10 days prior to the expected date of transfer; and
+
+&emsp;&emsp;(B) solely for a transfer that will materially change a grant agreement, the Secretary approves.
+
+&emsp;(2)
+
+Report.—Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
+
+&emsp;&emsp;(A) the amount of the transfer; and
+
+&emsp;&emsp;(B) a detailed explanation of the reason for the transfer, including—
+
+&emsp;&emsp;&emsp;(i) the effects on Amtrak services funded by the account from which the transfer is drawn, in comparison to a scenario in which no transfer was made; and
+
+&emsp;&emsp;&emsp;(ii) the effects on Amtrak services funded by the account receiving the transfer, in comparison to a scenario in which no transfer was made.
+
+&emsp;(3)
+
+Notifications.—Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrak shall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
+
+(h)
+
+Report.—Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall submit to the Secretary a report assessing the account and reporting structure established under this section and providing any recommendations for further action. Not later than 180 days after the date of receipt of such report, the Secretary shall provide an assessment that supplements Amtrak's report and submit the Amtrak report with the supplemental assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(i)
+
+Definition of Northeast Corridor.—Notwithstanding section 24102, for purposes of this section, the term "Northeast Corridor" means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+(Added Pub. L. 114–94, div. A, title XI, §11201(a), Dec. 4, 2015, 129 Stat. 1625.)
+
+#### References in Text
+
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (b), (e)(1), and (h), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(1)(A), (2)(A), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
+
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008 (42 U.S.C. 24101 note), referred to in subsec. (c)(2)(B), probably means section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
+
+#### Effective Date
+
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

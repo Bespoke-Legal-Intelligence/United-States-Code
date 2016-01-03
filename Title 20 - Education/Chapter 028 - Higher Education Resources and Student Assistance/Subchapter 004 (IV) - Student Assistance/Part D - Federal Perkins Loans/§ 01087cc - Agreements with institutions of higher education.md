@@ -40,7 +40,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
-&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide tothe institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
+&emsp;(6) provide that, notwithstanding any other provision of law, the Secretary will provide to the institution any information with respect to the names and addresses of borrowers or other relevant information which is available to the Secretary, from whatever source such information may be derived;
 
 &emsp;(7) provide assurances that the institution will comply with the provisions of section 1087cc–1 of this title;
 
@@ -54,7 +54,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (c) Cooperative agreements with consumer reporting agencies
 
-(1) For the purpose of promoting responsible repayment of loans made pursuant to this part, the Secretary and each institution of higher education participating in the program under this part shall enter into cooperative agreements with consumer reporting agencies to provide for the exchange of information concerning student borrowers concerning whom the Secretary has received a referral pursuant to section 1087gg of this title and regarding loans held by the Secretary or an institution.
+(1) For the purpose of promoting responsible repayment of loans made pursuant to this part,the Secretary and each institution of higher education participating in the program under this part shall enter into cooperative agreements with consumer reporting agencies to provide for the exchange of information concerning student borrowers concerning whom the Secretary has received a referral pursuant to section 1087gg of this title and regarding loans held by the Secretary or an institution.
 
 (2) Each cooperative agreement made pursuant to paragraph (1) shall be made in accordance with the requirements of section 1080a of this title except that such agreement shall provide for the disclosure by the Secretary or an institution, as the case may be, to such consumer reporting agencies, with respect to any loan held by the Secretary or the institution, respectively, of—
 
@@ -88,7 +88,7 @@ Subsection (a)(5) of this section relating to due diligence, referred to in subs
 
 #### Prior Provisions
 
-A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV,§§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 274; amended Pub. L. 94–482, title I, §130(c), Oct. 12, 1976, 90 Stat. 2146; Pub. L. 96–374, title IV, §§442(b)(1)–(4), 445(a), (b)(1), 447(a), 448(b), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1439, 1440, 1442, 1443, 1503; Pub. L. 99–272, title XVI, §§16025, 16026, Apr. 7, 1986, 100 Stat. 352, 353, related to agreements with institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

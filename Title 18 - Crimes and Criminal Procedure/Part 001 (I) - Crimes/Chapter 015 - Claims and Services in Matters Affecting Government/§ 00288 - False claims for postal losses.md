@@ -4,7 +4,7 @@ Whoever makes, alleges, or presents any claim or application for indemnity for t
 
 Whoever for the purpose of obtaining or aiding to obtain the payment or approval of any such claim or application, makes or uses any false statement, certificate, affidavit, or deposition; or
 
-Whoever knowingly and willfully misrepresents, or misstates, or, for the purpose aforesaid, knowingly and willfully conceals any material fact or circumstance in respect of any such claim or application for indemnity—
+Whoever knowingly and willfully misrepresents, or misstates, or, for the purpose aforesaid, knowingly and willfully conceals any materialfact or circumstance in respect of any such claim or application for indemnity—
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 

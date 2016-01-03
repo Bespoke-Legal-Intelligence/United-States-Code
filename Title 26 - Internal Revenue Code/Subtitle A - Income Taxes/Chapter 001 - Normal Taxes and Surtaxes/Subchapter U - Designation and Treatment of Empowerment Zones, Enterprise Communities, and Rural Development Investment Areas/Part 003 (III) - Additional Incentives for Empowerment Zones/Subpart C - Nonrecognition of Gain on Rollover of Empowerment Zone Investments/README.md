@@ -8,7 +8,7 @@ Subpart C—Nonrecognition of Gain on Rollover of Empowerment Zone Investments
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602, added subpart C heading and item 1397B. Former subpart C, consisting of sections 1397B and 1397C, redesignated D.
+<b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-602, added subpart C heading and item 1397B. Former subpart C, consisting of sections 1397B and 1397C, redesignated D.
 
 
 ---

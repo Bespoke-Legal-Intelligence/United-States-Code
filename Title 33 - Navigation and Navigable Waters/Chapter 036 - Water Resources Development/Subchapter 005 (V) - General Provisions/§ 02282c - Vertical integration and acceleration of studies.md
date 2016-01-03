@@ -46,7 +46,7 @@ A feasibility study for which the Secretary has issued a determination under sub
 
 #### (3) Notification
 
-&emsp;Each time the Secretary makes a determination under this subsection, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives as to the results of that determination, including an identification of the specific 1 or more factors used in making the determination that the project is complex.
+&emsp;Each time the Secretary makes a determination under this subsection, the Secretary shall provide written notice to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representativesas to the results of that determination, including an identification of the specific 1 or more factors used in making the determination that the project is complex.
 
 #### (4) Limitation
 

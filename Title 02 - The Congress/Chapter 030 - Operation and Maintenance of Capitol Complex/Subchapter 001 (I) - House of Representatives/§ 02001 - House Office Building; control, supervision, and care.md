@@ -1,6 +1,6 @@
 ### §2001. House Office Building; control, supervision, and care
 
-The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of the Speaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
+The House of Representatives Office Building, which shall hereafter be designated as the House Office Building and the employment of all service, other than the United States Capitol Police, that may be appropriated for by Congress, necessary for its protection, care, and occupancy, shall be under the control and supervision of the Architect of the Capitol, subject to the approval and direction of a commission consisting of theSpeaker of the House of Representatives and two Representatives in Congress, to be appointed by the Speaker. Vacancies occurring by resignation, termination of service as Representatives in Congress, or otherwise in the membership of said commission shall be filled by the Speaker, and any two members of said commission shall constitute a quorum to do business. The Architect of the Capitol shall submit annually to Congress estimates in detail for all services, other than the United States Capitol Police, and for all other expenses in connection with said office building and necessary for its protection, care, and occupancy; and said commission herein referred to shall from time to time prescribe rules and regulations to govern said architect in making all such employments, together with rules and regulations governing the use and occupancy of all rooms and space in said building.
 
 (Mar. 4, 1907, ch. 2918, 34 Stat. 1365; May 28, 1908, No. 30, 35 Stat. 578; Mar. 3, 1921, ch. 124, 41 Stat. 1291; Pub. L. 111–145, §6(c)(1), Mar. 4, 2010, 124 Stat. 54.)
 
@@ -66,7 +66,7 @@ In general.—The Architect of the Capitol shall dispose of by sale at fair mark
 
 &emsp;"(2)
 
-House office building commission.—The Architect of the Capitol shall carry out this sectionunder the direction of the House Office Building Commission.
+House office building commission.—The Architect of the Capitol shall carry out this section under the direction of the House Office Building Commission.
 
 &emsp;"(3)
 
@@ -90,7 +90,7 @@ Advertising and marketing.—The Architect of the Capitol shall begin advertisin
 
 &emsp;"(8)
 
-Local zoning and occupancy requirements.—Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
+Local zoning and occupancy requirements.—Until such date as the purchaser of the property to bedisposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
 
 &emsp;"(9)
 
@@ -216,7 +216,7 @@ For inclusion of additional areas and buildings as part of the United States Cap
 
 #### Compensation of Superintendent of Garages of House Office Buildings
 
-Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, §105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, §221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: "That upon enactment of this Act \[Oct. 1, 1988\], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increasewhich may be allowed by the Committee on House Oversight \[now Committee on House Administration\] based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B))."
+Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2170, as amended by Pub. L. 102–90, title I, §105, Aug. 14, 1991, 105 Stat. 460; Pub. L. 104–186, title II, §221(4)(A), Aug. 20, 1996, 110 Stat. 1748, provided: "That upon enactment of this Act \[Oct. 1, 1988\], the pay for the position of Superintendent of Garages shall be equivalent to the pay payable for positions at step 1 of level 12 of the House Employees Schedule, subject to the further increases authorized under section 5306(a)(1)(B) of title 5, United States Code, relating to the implementation of salary comparability policy, and subject to any increase which may be allowed by the Committee on House Oversight \[now Committee on House Administration\] based on performance exceeding an acceptable level of competence over a 52-week period (except that no such performance-based increase shall affect the waiting period or effective date of any longevity step-increase or increase under such section 5306(a)(1)(B))."
 
 #### Compensation of Personnel Assigned to House Garages in Connection With Parking Activities
 

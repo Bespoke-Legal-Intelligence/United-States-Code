@@ -66,7 +66,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (10) Deposit-secured loans
 
-&emsp;With respect to a savings deposit, share, or other account with an institution described in section 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
+&emsp;With respect to a savings deposit, share, or other account with an institution described insection 581 or 591, to the extent of any loan made by such institution without actual notice or knowledge of the existence of such lien, as against such institution, if such loan is secured by such account.
 
 #### (c) Protection for certain commercial transactions financing agreements, etc.
 
@@ -142,7 +142,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (A) Definition
 
-&emsp;&emsp;The term "obligatory disbursement agreement" means an agreement (entered into by a person in the course of his trade or business) to make disbursements, but such anagreement shall be treated as coming within the term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer.
+&emsp;&emsp;The term "obligatory disbursement agreement" means an agreement (entered into by a person in the course of his trade or business) to make disbursements, but such an agreement shall be treated as coming within the term only to the extent of disbursements which are required to be made by reason of the intervention of the rights of a person other than the taxpayer.
 
 #### (B) Limitation on qualified property
 
@@ -152,7 +152,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 &emsp;&emsp;Where the obligatory disbursement agreement is an agreement ensuring the performance of a contract between the taxpayer and another person—
 
-&emsp;&emsp;&emsp;(i) the term "qualified property" shall be treated as also including the proceeds of the contract the performance of which was ensured, and
+&emsp;&emsp;&emsp;(i) the term "qualified property" shall be treated as also including the proceeds ofthe contract the performance of which was ensured, and
 
 &emsp;&emsp;&emsp;(ii) if the contract the performance of which was ensured was a contract to construct or improve real property, to produce goods, or to furnish services, the term "qualified property" shall be treated as also including any tangible personal property used by the taxpayer in the performance of such ensured contract.
 
@@ -296,7 +296,7 @@ For purposes of this section and section 6324—
 
 #### (6) Purchaser
 
-&emsp;The term "purchaser" means a person who, for adequate and full consideration in moneyor money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
+&emsp;The term "purchaser" means a person who, for adequate and full consideration in money or money's worth, acquires an interest (other than a lien or security interest) in property which is valid under local law against subsequent purchasers without actual notice. In applying the preceding sentence for purposes of subsection (a) of this section, and for purposes of section 6324—
 
 &emsp;&emsp;(A) a lease of property,
 
@@ -312,7 +312,7 @@ For purposes of this section and section 6324—
 
 #### (1) Actual notice or knowledge
 
-&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice or knowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
+&emsp;For purposes of this subchapter, an organization shall be deemed for purposes of a particular transaction to have actual notice orknowledge of any fact from the time such fact is brought to the attention of the individual conducting such transaction, and in any event from the time such fact would have been brought to such individual's attention if the organization had exercised due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating significant information to the person conducting the transaction and there is reasonable compliance with the routine. Due diligence does not require an individual acting for the organization to communicate information unless such communication is part of his regular duties or unless he has reason to know of the transaction and that the transaction would be materially affected by the information.
 
 #### (2) Subrogation
 
@@ -352,7 +352,7 @@ For purposes of this section and section 6324—
 
 &emsp;Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388-519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -364,7 +364,7 @@ For purposes of this section and section 6324—
 
 Subsec. (b)(7). Pub. L. 105–206, §3435(a)(1)(B), substituted "$5,000" for "$1,000".
 
-Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbookloans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
+Subsec. (b)(10). Pub. L. 105–206, §3435(b), in heading substituted "Deposit-secured loans" for "Passbook loans", and in text struck out ", evidenced by a passbook," after "other account" and substituted period at end for "and if such institution has been continuously in possession of such passbook from the time the loan is made."
 
 Subsec. (i)(4). Pub. L. 105–206, §3435(a)(2), added par. (4).
 

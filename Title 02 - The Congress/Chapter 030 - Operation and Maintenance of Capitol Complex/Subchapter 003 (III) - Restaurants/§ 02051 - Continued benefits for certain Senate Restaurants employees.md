@@ -52,7 +52,7 @@ In this section:
 
 #### (1) Pay
 
-&emsp;The rate of basic pay of a covered individual as an employee of a contractor, or successorcontractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
+&emsp;The rate of basic pay of a covered individual as an employee of a contractor, or successor contractor, during a period of continuous service may not be reduced to a rate less than the rate of basic pay paid to that individual as an employee of the Architect of the Capitol on the day before the transfer date, except for cause.
 
 #### (2) Retirement and life insurance benefits
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Treatment as Civil Service Retirement Offset employees
 
-&emsp;&emsp;In the case of a covered individual who on the day before the transfer date is subject to subchapter III of chapter 83 of title 5 but whose employment with the Architect of the Capitol is not employment for purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26—
+&emsp;&emsp;In the case of a covered individual who on the day before the transfer date is subject to subchapter III of chapter 83 of title 5 butwhose employment with the Architect of the Capitol is not employment for purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26—
 
 &emsp;&emsp;&emsp;(i) the employment described under subparagraph (A)(i) shall, for purposes of subchapter III of chapter 83 of title 5, be deemed to be—
 
@@ -228,7 +228,7 @@ Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Archi
 
 #### (A) Annuity
 
-&emsp;&emsp;Notwithstanding any provision of chapter 83 or 84 of title 5, an employee described under paragraph (1) is entitled to an annuity which shall be computed consistent with theprovisions of law applicable to annuities under section 8336(d) or 8414(b) of title 5.
+&emsp;&emsp;Notwithstanding any provision of chapter 83 or 84 of title 5, an employee described under paragraph (1) is entitled to an annuity which shall be computed consistent with the provisions of law applicable to annuities under section 8336(d) or 8414(b) of title 5.
 
 #### (B) Separation during 90-day period
 
@@ -250,7 +250,7 @@ Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Archi
 
 #### (1) Senate Restaurants food services contract
 
-&emsp;Any commissions paid by a contractor under a food services contract shall be deposited in the miscellaneous items account within the contingent fund of the Senate.
+&emsp;Any commissions paid by a contractor under a food services contract shall be deposited inthe miscellaneous items account within the contingent fund of the Senate.
 
 #### (2) Use of funds
 

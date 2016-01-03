@@ -36,7 +36,7 @@
 
 (7) The term "rifle" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
-(8) The term "short-barreled rifle" means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
+(8) The term "short-barreled rifle" means a rifle having one or more barrels less than sixteen inches in length and any weapon made froma rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
 (9) The term "importer" means any person engaged in the business of importing or bringing firearms or ammunition into the United States for purposes of sale or distribution; and the term "licensed importer" means any such person licensed under the provisions of this chapter.
 
@@ -64,7 +64,7 @@
 
 &emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term "antique firearm" shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
-(17)(A) The term "ammunition" means ammunition or cartridge cases, primers, bullets, orpropellent powder designed for use in any firearm.
+(17)(A) The term "ammunition" means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
 (B) The term "armor piercing ammunition" means—
 
@@ -220,7 +220,7 @@ Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted "kidnapping
 
 Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining "semiautomatic assault weapon", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining "large capacity ammunition feeding device", was repealed by Pub. L. 103–322,§110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -266,7 +266,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §119(e)\], Oct. 21, 1998, 112 St
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective and Termination Dates of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Disallowance of loss deduction
 
-In the case of any loss claimed to have been sustained from any sale or other disposition ofshares of stock or securities where it appears that, within a period beginning 30 days before the date of such sale or disposition and ending 30 days after such date, the taxpayer has acquired (by purchase or by an exchange on which the entire amount of gain or loss was recognized by law), or has entered into a contract or option so to acquire, substantially identical stock or securities, then no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business. For purposes of this section, the term "stock or securities" shall, except as provided in regulations, include contracts or options to acquire or sell stock or securities.
+In the case of any loss claimed to have been sustained from any sale or other disposition of shares of stock or securities where it appears that, within a period beginning 30 days before the date of such sale or disposition and ending 30 days after such date, the taxpayer has acquired (by purchase or by an exchange on which the entire amount of gain or loss was recognized by law), or has entered into a contract or option so to acquire, substantially identical stock or securities, then no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business. For purposes of this section, the term "stock or securities" shall, except as provided in regulations, include contracts or options to acquire or sell stock or securities.
 
 #### (b) Stock acquired less than stock sold
 
@@ -30,7 +30,7 @@ Rules similar to the rules of subsection (a) shall apply to any loss realized on
 
 This section shall not fail to apply to a contract or option to acquire or sell stock or securities solely by reason of the fact that the contract or option settles in (or could be settled in) cash or property other than such stock or securities.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 319; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §106(a), (b), July 18, 1984, 98 Stat. 629; Pub. L. 100–647, title V, §5075(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 106–554, §1(a)(7) \[title IV, §401(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(2), Mar. 9, 2002, 116 Stat. 53.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 319; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §106(a), (b), July 18, 1984, 98 Stat. 629; Pub. L. 100–647, title V, §5075(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 106–554, §1(a)(7) \[title IV, §401(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-649; Pub. L. 107–147, title IV, §412(d)(2), Mar. 9, 2002, 116 Stat. 53.)
 
 #### Amendments
 

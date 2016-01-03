@@ -1,6 +1,6 @@
 ### §5724c. Relocation services
 
-Under regulations prescribed under section 5738 of this title, each agency may enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out this subchapter. An agency may pay a fee for such services. Such services include arranging for the purchase of a transferred employee's residence.
+Under regulations prescribed under section 5738 of this title, each agency may enter intocontracts to provide relocation services to agencies and employees for the purpose of carrying out this subchapter. An agency may pay a fee for such services. Such services include arranging for the purchase of a transferred employee's residence.
 
 (Added Pub. L. 98–151, §118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, §120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, §1713(b), Sept. 23, 1996, 110 Stat. 2754.)
 

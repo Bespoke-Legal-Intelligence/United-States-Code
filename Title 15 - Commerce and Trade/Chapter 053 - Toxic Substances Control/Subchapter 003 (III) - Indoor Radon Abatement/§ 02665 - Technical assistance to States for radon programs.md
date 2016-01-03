@@ -42,7 +42,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (1) Authorization
 
-&emsp;There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) of this section and the training seminars under subsection (a)(3) of this section.
+&emsp;There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) and the training seminars under subsection (a)(3).
 
 #### (2) Charge imposed
 
@@ -54,11 +54,11 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (4) Reimbursement of general fund
 
-&emsp;During the first three years of the program and seminars, the Administrator shall make every effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
+&emsp;During the first three years of the program and seminars, the Administrator shall makeevery effort, consistent with the goals and successful operation of the program and seminars, to set charges imposed under paragraph (2) so that an amount in excess of operation costs is collected. Such excess amount shall be used to reimburse the General Fund of the Treasury for the full amount appropriated to initially establish the program and seminars.
 
 #### (5) Research
 
-&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radonprogeny measurement methods and protocols. The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
+&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radon progeny measurement methods and protocols. The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
 
 &emsp;&emsp;(A) conducting comparisons among radon and radon progeny measurement techniques;
 
@@ -98,7 +98,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 (2) No amount appropriated under this subsection may be used by the Environmental Protection Agency to administer the grant program under section 2666 of this title.
 
-(3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2) of this section.
+(3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
 
 (Pub. L. 94–469, title III, §305, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, §10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, §2021(l), Dec. 21, 1995, 109 Stat. 728.)
 

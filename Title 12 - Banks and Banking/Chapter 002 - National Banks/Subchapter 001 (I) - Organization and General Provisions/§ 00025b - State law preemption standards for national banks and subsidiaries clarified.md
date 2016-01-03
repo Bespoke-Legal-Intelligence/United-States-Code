@@ -76,7 +76,7 @@ No regulation or order of the Comptroller of the Currency prescribed under subse
 
 #### (2) Reports to Congress
 
-&emsp;At the time of issuing a review conducted under paragraph (1), the Comptroller of the Currency shall submit a report regarding such review to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. The report submitted to the respective committees shall address whether the agency intends to continue, rescind, or propose to amend any determination that a provision of Federal law preempts a State consumer financial law, and the reasons therefor.
+&emsp;At the time of issuing a review conducted under paragraph (1), the Comptroller of the Currency shall submit a report regarding such review to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. The report submitted to the respective committees shall address whether the agency intends to continue, rescind, or propose to amend any determination that a provision of Federal law preempts aState consumer financial law, and the reasons therefor.
 
 #### (e) Application of State consumer financial law to subsidiaries and affiliates
 

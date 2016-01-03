@@ -12,7 +12,7 @@
 
 &emsp;(D) contains such additional information regarding activities authorized in section 300w–3 of this title, and is submitted in such form, as the Secretary may require.
 
-(2)(A) The Secretary, in consultation with the States, shall develop sets of data for uniformly defining health status for purposes of the year 2000 health objectives (which sets are in this subsection referred to as "uniform data sets"). Each of such sets shall consist of one or more categories of information (in this subsection individually referred to as a "uniform data item"). The Secretary shall develop formats for the uniform collecting and reporting of information on such items.
+(2)(A) The Secretary, in consultation with the States, shall develop sets of data for uniformly defining health status for purposes of the year 2000 health objectives (which sets are in this subsection referred to as "uniform data sets"). Each of such sets shall consist of one or morecategories of information (in this subsection individually referred to as a "uniform data item"). The Secretary shall develop formats for the uniform collecting and reporting of information on such items.
 
 (B) A condition under paragraph (1)(C) for a fiscal year is that the State involved will, in accordance with the applicable format under subparagraph (A), collect during such year, and include in the report under paragraph (1), the necessary information for one uniform data item from each of the uniform data sets, which items are selected for the State by the Secretary.
 
@@ -20,7 +20,7 @@
 
 (3) The Secretary, in consultation with the States, shall establish criteria for the uniform collection and reporting of data on activities authorized in section 300w–3 of this title with respect to which no uniform data items exist.
 
-(4) A condition under paragraph (1) for a fiscal year is that the State involved will make copiesof the report submitted under such paragraph for the fiscal year available for public inspection, and will upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
+(4) A condition under paragraph (1) for a fiscal year is that the State involved will make copies of the report submitted under such paragraph for the fiscal year available for public inspection, and will upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
 
 #### (b) Fiscal control; accounting procedures; annual audits; repayments and offsets; public inspection; Comptroller General evaluations; report to Congress
 

@@ -48,7 +48,7 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(G) any other object that threatens the order, discipline, or security of a prison, or the life, health, or safety of an individual;
 
-&emsp;(2) the terms "ammunition", "firearm", and "destructive device" have, respectively, the meanings given those terms in section 921 of this title;
+&emsp;(2) the terms "ammunition", "firearm", and "destructive device" have, respectively, themeanings given those terms in section 921 of this title;
 
 &emsp;(3) the terms "controlled substance" and "narcotic drug" have, respectively, the meanings given those terms in section 102 of the Controlled Substances Act (21 U.S.C. 802); and
 

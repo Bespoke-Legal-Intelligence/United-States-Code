@@ -174,7 +174,7 @@ The release forms required under this section are intended to provide informatio
 
 &emsp;&emsp;(A) The extent to which information relating to the proposed modification provided on the toxic chemical release forms has been used by the Administrator or other agencies of the Federal Government, States, local governments, health professionals, and the public.
 
-&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users from other sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
+&emsp;&emsp;(B) The extent to which the information is (i) readily available to potential users fromother sources, such as State reporting programs, and (ii) provided to the Administrator under another Federal law or through a State program.
 
 &emsp;&emsp;(C) The extent to which the modification would impose additional and unreasonable burdens on facilities subject to the reporting requirements under this section.
 
@@ -184,7 +184,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (5) Notification to Congress
 
-&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After suchnotification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
 
 #### (6) Judicial review
 
@@ -234,7 +234,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 &emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
-&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
+&emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposesof that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
 &emsp;(C) The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
 

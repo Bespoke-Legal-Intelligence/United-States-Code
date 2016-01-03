@@ -24,7 +24,7 @@ Subject to the limitation in subsection (a)(2), in computing the taxable income 
 
 #### (c) Agreement required
 
-In the case of any taxable year, subsections (a) and (b) shall apply with respect to any discharge of liability described in subsection (a)(1)(A)(i), and to any computation of charges in the manner described in subsection (a)(1)(A)(ii), only if such discharge or computation (as in the casemay be) was provided for in a written agreement, to which all of the shareholders of the terminal railroad corporation were parties, entered into before the beginning of such taxable year.
+In the case of any taxable year, subsections (a) and (b) shall apply with respect to any discharge of liability described in subsection (a)(1)(A)(i), and to any computation of charges in the manner described in subsection (a)(1)(A)(ii), only if such discharge or computation (as in the case may be) was provided for in a written agreement, to which all of the shareholders of the terminal railroad corporation were parties, entered into before the beginning of such taxable year.
 
 #### (d) Definitions
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17, 1978, 92 Stat. 1464; Pub. L. 104–88, title III, §304(b), Dec. 29, 1995, 109 Stat. 943.)
+(Added Pub. L. 87–870, §1(a), Oct. 23, 1962, 76 Stat. 1158; amended Pub. L. 94–455, title XIX, §§1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 95–473, §2(a)(2)(D), (E), Oct. 17,1978, 92 Stat. 1464; Pub. L. 104–88, title III, §304(b), Dec. 29, 1995, 109 Stat. 943.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Subsecs. (e), (f). Pub. L. 94–455, §§1901(a)(40)(B), 1906(b)(13)(A), redesig
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1976 Amendment
 

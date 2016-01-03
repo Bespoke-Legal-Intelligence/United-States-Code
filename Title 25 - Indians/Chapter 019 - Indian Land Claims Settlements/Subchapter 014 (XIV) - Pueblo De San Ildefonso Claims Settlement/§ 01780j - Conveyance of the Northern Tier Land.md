@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to valid existing rights, including reservations in the United States and anyright under this section, the Secretary of Agriculture shall sell the Northern Tier Land on such terms and conditions as the Secretary may prescribe as being in the public interest and in accordance with this section.
+&emsp;Subject to valid existing rights, including reservations in the United States and any right under this section, the Secretary of Agriculture shall sell the Northern Tier Land on such terms and conditions as the Secretary may prescribe as being in the public interest and in accordance with this section.
 
 #### (2) Effect of paragraph
 
@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In consideration for an easement under subsection (e)(2), the Pueblo of Santa Clara shall have an exclusive option to purchase the Northern Tier Land for the period beginning on September 27, 2006, and ending 90 days thereafter.
+&emsp;&emsp;In consideration for an easement under subsection (e)(2), the Pueblo of Santa Clarashall have an exclusive option to purchase the Northern Tier Land for the period beginning on September 27, 2006, and ending 90 days thereafter.
 
 #### (B) Resolution
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Pueblo of Santa Clara does not exercise its option to acquire the Northern TierLand, the Secretary of Agriculture or the Secretary of the Interior, as appropriate, shall by deed reservations or grants on land under their respective jurisdiction provide for inholder and public access across the Northern Tier Land in order to provide reasonable ingress and egress to private and Federal land as shown in Appendix B of the Settlement Agreement.
+&emsp;&emsp;If the Pueblo of Santa Clara does not exercise its option to acquire the Northern Tier Land, the Secretary of Agriculture or the Secretary of the Interior, as appropriate, shall by deed reservations or grants on land under their respective jurisdiction provide for inholder and public access across the Northern Tier Land in order to provide reasonable ingress and egress to private and Federal land as shown in Appendix B of the Settlement Agreement.
 
 #### (B) Administration of reservations
 

@@ -22,7 +22,7 @@ As used in this section—
 
 &emsp;(1) the term "expenses" means actual expenses paid for room, board, tuition, fees, or educational material in an amount not to exceed $3,000; and
 
-&emsp;(2) the term "qualified institution" means an educational institution accredited for payment by the Veterans' Administration underchapter 36 of title 38, or a State-accredited institution which has been in existence for not less than two years.
+&emsp;(2) the term "qualified institution" means an educational institution accredited for payment by the Veterans' Administration under chapter 36 of title 38, or a State-accredited institution which has been in existence for not less than two years.
 
 (Pub. L. 96–101, §12, Nov. 4, 1979, 93 Stat. 743; Pub. L. 96–254, title I, §119(f), May 30, 1980, 94 Stat. 408.)
 

@@ -50,7 +50,7 @@ Time for Transfer; Revocation and Modification.—(1) Subject to the time limita
 
 (g)
 
-Commencement of Use.—A dependent to whom entitlement to basic educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
+Commencement of Use.—A dependent to whom entitlement to basic educational assistance is transferred under this section may notcommence the use of the transferred entitlement until—
 
 &emsp;(1) in the case of entitlement transferred to a spouse, the completion by the individual making the transfer of six years of service in the Armed Forces; or
 
@@ -66,7 +66,7 @@ Commencement of Use.—A dependent to whom entitlement to basic educational assi
 
 (h)
 
-Additional Administrative Matters.—(1) The use of any entitlement to basic educationalassistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
+Additional Administrative Matters.—(1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
 (2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner as the individual from whom the entitlement was transferred.
 
@@ -122,7 +122,7 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 110–252, title V, §5006(a), June 30, 2008, 122 Stat. 2380; Pub. L. 112–81, div. A, title X, §1063(b), Dec. 31, 2011, 125 Stat. 1586.)
+(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 110–252, title V, §5006(a), June 30, 2008, 122 Stat. 2380; Pub. L. 112–81, div. A, title X, §1063(b), Dec. 31, 2011, 125 Stat. 1586.)
 
 #### Prior Provisions
 

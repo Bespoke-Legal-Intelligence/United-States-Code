@@ -12,15 +12,18 @@
 | [108\.](%C2%A7%2000108%20-%20Pipeline%20and%20Hazardous%20Materials%20Safety%20Administration.md) | Pipeline and Hazardous Materials Safety Administration. |
 | [109\.](%C2%A7%2000109%20-%20Maritime%20Administration.md) | Maritime Administration. |
 | [110\.](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Saint Lawrence Seaway Development Corporation. |
-| \[111. | Repealed.\] |
-| [112\.](%C2%A7%2000112%20-%20Office%20of%20the%20Assistant%20Secretary%20for%20Research%20and%20Technology%20of%20the%20Department%20of%20Transportation.md) | Office of the Assistant Secretary for Research and Technology of the Department of Transportation. |
+| \[111, 112. Repealed.\] |  |
 | [113\.](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Federal Motor Carrier Safety Administration. |
 | [114\.](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
 | [115\.](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md) | Transportation Security Oversight Board. |
+| [116\.](%C2%A7%2000116%20-%20National%20Surface%20Transportation%20and%20Innovative%20Finance%20Bureau.md) | National Surface Transportation and Innovative Finance Bureau. |
+| [117\.](%C2%A7%2000117%20-%20Council%20on%20Credit%20and%20Finance.md) | Council on Credit and Finance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title VI, §6012(b), title IX, §§9001(b), 9002(b), Dec. 4, 2015, 129 Stat. 1570, 1618, 1619, added items 116 and 117 and struck out item 112 which had read "Research and Innovative Technology Administration" and was subsequently changed to "Office of the Assistant Secretary for Research and Technology of the Department of Transportation" on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former section 112 of this title.
 
 <b>2012</b>—Pub. L. 112–141, div. E, title II, §52011(c)(1), July 6, 2012, 126 Stat. 895, struck out item 111 "Bureau of Transportation Statistics".
 
@@ -35,10 +38,6 @@
 <b>1992</b>—Pub. L. 102–508, title IV, §401(b), Oct. 24, 1992, 106 Stat. 3310, added item 112.
 
 <b>1991</b>—Pub. L. 102–240, title III, §3004(c)(3), title VI, §6006(c), Dec. 18, 1991, 105 Stat. 2088, 2174, substituted "Federal Transit Administration" for "Urban Mass Transportation Administration" in item 107 and added second item 110 and item 111.
-
-#### Change of Name
-
-"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in item 112 on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of this title.
 
 
 ---
@@ -56,7 +55,9 @@
 - [&sect; 00109 - Maritime Administration](%C2%A7%2000109%20-%20Maritime%20Administration.md)
 - [&sect; 00110 - Saint Lawrence Seaway Development Corporation](%C2%A7%2000110%20-%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
 - [&sect; 00111 - Repealed. Pub. L. 112&#8211;141, div. E, title II, &sect;52011(c)(1), July 6, 2012, 126 Stat. 895](%C2%A7%2000111%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20E%2C%20title%20II%2C%20%C2%A752011%28c%29%281%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20895.md)
-- [&sect; 00112 - Office of the Assistant Secretary for Research and Technology of the Department of Transportation](%C2%A7%2000112%20-%20Office%20of%20the%20Assistant%20Secretary%20for%20Research%20and%20Technology%20of%20the%20Department%20of%20Transportation.md)
+- [&sect; 00112 - Repealed. Pub. L. 114&#8211;94, div. A, title VI, &sect;6012(a), Dec. 4, 2015, 129 Stat. 1570](%C2%A7%2000112%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A76012%28a%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201570.md)
 - [&sect; 00113 - Federal Motor Carrier Safety Administration](%C2%A7%2000113%20-%20Federal%20Motor%20Carrier%20Safety%20Administration.md)
 - [&sect; 00114 - Transportation Security Administration](%C2%A7%2000114%20-%20Transportation%20Security%20Administration.md)
 - [&sect; 00115 - Transportation Security Oversight Board](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md)
+- [&sect; 00116 - National Surface Transportation and Innovative Finance Bureau](%C2%A7%2000116%20-%20National%20Surface%20Transportation%20and%20Innovative%20Finance%20Bureau.md)
+- [&sect; 00117 - Council on Credit and Finance](%C2%A7%2000117%20-%20Council%20on%20Credit%20and%20Finance.md)

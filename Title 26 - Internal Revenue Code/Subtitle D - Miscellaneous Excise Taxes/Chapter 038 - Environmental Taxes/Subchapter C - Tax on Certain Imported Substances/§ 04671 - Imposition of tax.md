@@ -42,11 +42,11 @@ No tax shall be imposed under this section during any period during which the Ha
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), seesection 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
+Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
 #### Effective Date
 
-Pub. L. 99–499, title V, §515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: "The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1989."
+Pub. L. 99–499, title V, §515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: "The amendments made by thissection \[enacting this subchapter\] shall take effect on January 1, 1989."
 
 #### Study and Report
 

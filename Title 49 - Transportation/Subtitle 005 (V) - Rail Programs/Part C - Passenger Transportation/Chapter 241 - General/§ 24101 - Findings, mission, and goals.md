@@ -20,7 +20,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (b)
 
-Mission.—The mission of Amtrak is to provide efficient and effective intercity passenger rail mobility consisting of high quality service that is trip-time competitive with other intercity travel options and that is consistent with the goals of subsection (d).
+Mission.—The mission of Amtrak is to provide efficient and effective intercity passenger rail mobility consisting of high quality service that is trip-time competitive with other intercity travel options and that is consistent with the goals set forth in subsection (c).
 
 (c)
 
@@ -64,9 +64,9 @@ Goals.—Amtrak shall—
 
 (d)
 
-Minimizing Government Subsidies.—To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of the Passenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies.
+Minimizing Government Subsidies.—To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of thePassenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578; Pub. L. 110–432, div. B, title II, §§201(e)(1), 218(a)(1), Oct. 16, 2008, 122 Stat. 4910, 4930.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578; Pub. L. 110–432, div. B, title II, §§201(e)(1), 218(a)(1), Oct. 16, 2008, 122 Stat. 4910, 4930; Pub. L. 114–94, div. A, title XI, §11316(l), Dec. 4, 2015, 129 Stat. 1678.)
 
 Historical and Revision Notes
 
@@ -110,9 +110,11 @@ In subsection (c), before clause (1), the words "Amtrak shall" are substituted f
 
 #### References in Text
 
-Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (d), is section 204 of Pub. L. 110–432, which is set out in a note below.
+Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (d), is section 204 of Pub. L. 110–432, which was set out in a note below, prior to repeal by Pub. L. 114–94, div. A, title XI, §11203(d), Dec. 4, 2015, 129 Stat. 1634.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–94 substituted "set forth in subsection (c)" for "of subsection (d)".
 
 <b>2008</b>—Pub. L. 110–432, §201(e)(1)(A), substituted "mission" for "purpose" in section catchline.
 
@@ -130,13 +132,17 @@ Pub. L. 110–432, §201(e)(1)(D), substituted "subsection (c)(12)" for "subsect
 
 Subsec. (d). Pub. L. 105–134, §201, inserted at end "Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit."
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Amtrak To Continue To Provide Non-High-Speed Services
 
 Pub. L. 110–432, div. B, title II, §201(c), Oct. 16, 2008, 122 Stat. 4910, provided that: "Nothing in this division \[see Short Title of 2008 Amendment note set out under section 20101 of this title\] is intended to preclude Amtrak from restoring, improving, or developing non-high-speed intercity passenger rail service."
 
 #### Amtrak Reform and Operational Improvements
 
-Pub. L. 110–432, div. B, title II, §§203–209, Oct. 16, 2008, 122 Stat. 4912–4917, provided that:
+Pub. L. 110–432, div. B, title II, §§203–209, Oct. 16, 2008, 122 Stat. 4912–4917, as amended by Pub. L. 114–94, div. A, title XI, §§11006(b)(2), 11202(c)(1), 11203(d), 11204(b)(2), 11206, 11214, Dec. 4, 2015, 129 Stat. 1624, 1630, 1634, 1637, 1644, provided that:
 
 #### "SEC. 203. ESTABLISHMENT OF IMPROVED FINANCIAL ACCOUNTING SYSTEM.
 
@@ -178,79 +184,17 @@ Verification of System; Report.—The Inspector General of the Department of Tra
 
 Categorization of Revenues and Expenses.—In carrying out subsection (a), the Amtrak Board of Directors shall separately categorize assigned revenues and attributable expenses by type of service, including long-distance routes, State-sponsored routes, commuter contract routes, and Northeast Corridor routes.
 
-#### "SEC. 204. DEVELOPMENT OF 5-YEAR FINANCIAL PLAN.
-
-"(a)
-
-Development of 5-
-
-Year Financial Plan.—The Amtrak Board of Directors shall submit an annual budget and business plan for Amtrak, and a 5-year financial plan for the fiscal year to which that budget and business plan relate and the subsequent 4 years, prepared in accordance with this section, to the Secretary \[of Transportation\] and the Inspector General of the Department of Transportation no later than—
-
-&emsp;"(1) the first day of each fiscal year beginning after the date of enactment of this Act \[Oct. 16, 2008\]; or
-
-&emsp;"(2) the date that is 60 days after the date of enactment of an appropriations Act for the fiscal year, if later.
-
-"(b)
-
-Contents of 5-
-
-Year Financial Plan.—The 5-year financial plan for Amtrak shall include, at a minimum—
-
-&emsp;"(1) all projected revenues and expenditures for Amtrak, including governmental funding sources;
-
-&emsp;"(2) projected ridership levels for all Amtrak passenger operations;
-
-&emsp;"(3) revenue and expenditure forecasts for non-passenger operations;
-
-&emsp;"(4) capital funding requirements and expenditures necessary to maintain passenger service in order to accommodate predicted ridership levels and predicted sources of capital funding;
-
-&emsp;"(5) operational funding needs, if any, to maintain current and projected levels of passenger service, including State-supported routes and predicted funding sources;
-
-&emsp;"(6) projected capital and operating requirements, ridership, and revenue for any new passenger service operations or service expansions;
-
-&emsp;"(7) an assessment of the continuing financial stability of Amtrak, as indicated by factors such as anticipated Federal funding of capital and operating costs, Amtrak's ability to efficiently recruit, retain, and manage its workforce, and Amtrak's ability to effectively provide passenger rail service;
-
-&emsp;"(8) estimates of long-term and short-term debt and associated principal and interest payments (both current and anticipated);
-
-&emsp;"(9) annual cash flow forecasts;
-
-&emsp;"(10) a statement describing methods of estimation and significant assumptions;
-
-&emsp;"(11) specific measures that demonstrate measurable improvement year over year in the financial results of Amtrak's operations;
-
-&emsp;"(12) prior fiscal year and projected operating ratio, cash operating loss, and cash operating loss per passenger on a route, business line, and corporate basis;
-
-&emsp;"(13) prior fiscal year and projected specific costs and savings estimates resulting from reform initiatives;
-
-&emsp;"(14) prior fiscal year and projected labor productivity statistics on a route, business line, and corporate basis;
-
-&emsp;"(15) prior fiscal year and projected equipment reliability statistics; and
-
-&emsp;"(16) capital and operating expenditures for anticipated security needs.
-
-"(c)
-
-Standards To Promote Financial Stability.—In meeting the requirements of subsection (b), Amtrak shall—
-
-&emsp;"(1) apply sound budgetary practices, including reducing costs and other expenditures, improving productivity, increasing revenues, or combinations of such practices;
-
-&emsp;"(2) use the categories specified in the financial accounting and reporting system developed under section 203 when preparing its 5-year financial plan; and
-
-&emsp;"(3) ensure that the plan is consistent with the authorizations of appropriations under title I of this division \[122 Stat. 4908\].
-
-"(d)
-
-Review by DOT Inspector General.—Within 60 days after their submission by Amtrak, the Inspector General of the Department of Transportation shall review the annual budget and the 5-year financial plans prepared by Amtrak under this section to determine whether they meet the requirements of subsection (b) and shall furnish any relevant findings to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Appropriations of the Senate.
+#### "\[SEC. 204. Repealed. Pub. L. 114–94, div. A, title XI, §11203(d), Dec. 4, 2015, 129 Stat. 1634.\]
 
 #### "SEC. 205. RESTRUCTURING LONG-TERM DEBT AND CAPITAL LEASES.
 
 "(a)
 
-In General.—The Secretary of the Treasury, in consultation with the Secretary \[of Transportation\] and Amtrak, may make agreements to restructure Amtrak's indebtedness as of the date of enactment of this Act \[Oct. 16, 2008\]. This authorization expires 2 years after the date of enactment of this Act.
+In General.—The Secretary of the Treasury, in consultation with the Secretary \[of Transportation\] and Amtrak, may make agreements to restructure Amtrak's indebtedness, to the extent provided in advance in appropriations Acts.
 
 "(b)
 
-Debt Restructuring.—The Secretary of the Treasury, in consultation with the Secretary and Amtrak, shall enter into negotiations with the holders of Amtrak debt, including leases, outstanding as of the date of enactment of this Act for the purpose of restructuring (including repayment) and repaying that debt. The Secretary of the Treasury may secure agreements for restructuring or repayment on such terms as the Secretary of the Treasury deems favorable to the interests of the United States Government.
+Debt Restructuring.—To the extent amounts are provided in advance in appropriations Acts, the Secretary of the Treasury, in consultation with the Secretary and Amtrak, shall enter into negotiations with the holders of Amtrak debt, including leases, outstanding for the purpose of restructuring (including repayment) and repaying that debt. The Secretary of the Treasury may secure agreements for restructuring or repayment on such terms as the Secretary of the Treasury deems favorable to the interests of the United States Government.
 
 "(c)
 
@@ -262,7 +206,7 @@ Criteria.—In restructuring Amtrak's indebtedness, the Secretary of the Treasur
 
 "(d)
 
-Payment of Renegotiated Debt.—If the criteria under subsection (c) are met, the Secretary of the Treasury may assume or repay the restructured debt, as appropriate.
+Payment of Renegotiated Debt.—If the criteria under subsection (c) are met, the Secretary of the Treasury may assume or repay the restructured debt, as appropriate, to the extent provided in advance in appropriations Acts.
 
 "(e)
 
@@ -270,17 +214,17 @@ Amtrak Principal and Interest Payments.—
 
 &emsp;"(1)
 
-Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments to creditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized by section 102 of this division \[122 Stat. 4908\] for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
+Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments to creditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
 
 &emsp;"(2)
 
-Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasury under subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized by section 102 \[122 Stat. 4908\] shall be reduced accordingly.
+Reductions in authorization levels.—Whenever action taken by the Secretary of the Treasury under subsection (a) results in reductions in amounts of principal or interest that Amtrak must service on existing debt, the corresponding amounts authorized for Amtrak shall be reduced accordingly.
 
 "(f)
 
 Legal Effect of Payments Under This Section.—The payment of principal and interest on secured debt, other than debt assumed under subsection (d), with the proceeds of grants under subsection (e) shall not—
 
-&emsp;"(1) modify the extent or nature of any indebtedness of Amtrak to the United States in existence as of the date of enactment of this Act \[Oct. 16, 2008\];
+&emsp;"(1) modify the extent or nature of any indebtedness of Amtrak to the United States in existence;
 
 &emsp;"(2) change the private nature of Amtrak's or its successors' liabilities; or
 
@@ -288,47 +232,9 @@ Legal Effect of Payments Under This Section.—The payment of principal and inte
 
 "(g)
 
-Secretary Approval.—Amtrak may not incur more debt after the date of enactment of this Act without the express advance approval of the Secretary \[of Transportation\].
+Secretary Approval.—Amtrak may not incur more debt after the date of enactment of this Act without the express advance approval of the Secretary \[of Transportation\], unless that debt receives credit assistance, including direct loans and loan guarantees, under chapter 6 of title 23, United States Code or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
 
-"(h)
-
-Report.—The Secretary of the Treasury shall transmit a report to the Committee on Transportationand Infrastructure of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Appropriations of the Senate, by June 1, 2010—
-
-&emsp;"(1) describing in detail any agreements to restructure the Amtrak debt; and
-
-&emsp;"(2) providing an estimate of the savings to Amtrak and the United States Government.
-
-#### "SEC. 206. ESTABLISHMENT OF GRANT PROCESS.
-
-"(a)
-
-Grant Requests.—Amtrak shall submit grant requests (including a schedule for the disbursement of funds), consistent with the requirements of this division \[see Short Title of 2008 Amendment note set out under section 20101 of this title\], to the Secretary \[of Transportation\] for funds authorized to be appropriated to the Secretary for the use of Amtrak under sections 101(a), (b), and (c) \[122 Stat. 4908\], 102 \[122 Stat. 4908\], 219(b) \[49 U.S.C. 24307 note\], and 302 \[enacting section 24105 of this title\].
-
-"(b)
-
-Procedures for Grant Requests.—The Secretary shall establish substantive and procedural requirements, including schedules, for grant requests under this section not later than 30 days after the date of enactment of this Act \[Oct. 16, 2008\] and shall transmit copies of such requirements and schedules to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. As part of those requirements, the Secretary shall require, at a minimum, that Amtrak deposit grant funds, consistent with the appropriated amounts for each area of expenditure in a given fiscal year, in the following 2 accounts:
-
-&emsp;"(1) The Amtrak Operating account.
-
-&emsp;"(2) The Amtrak General Capital account.
-
-> Amtrak may not transfer such funds to another account or expend such funds for any purpose other than the purposes covered by the account in which the funds are deposited without approval by the Secretary \[of Transportation\].
-
-"(c)
-
-Review and Approval.—
-
-&emsp;"(1) 30-
-
-day approval process.—The Secretary shall complete the review of a grant request (including the disbursement schedule) and approve or disapprove the request within 30 days after the date on which Amtrak submits the grant request. If the Secretary disapproves the request or determines that the request is incomplete or deficient, the Secretary shall include the reason for disapproval or the incomplete items or deficiencies in a notice to Amtrak.
-
-&emsp;"(2) 15-
-
-day modification period.—Within 15 days after receiving notification from the Secretary under the preceding sentence, Amtrak shall submit a modified request for the Secretary's review.
-
-&emsp;"(3)
-
-Revised requests.—Within 15 days after receiving a modified request from Amtrak, the Secretary shall either approve the modified request, or, if the Secretary finds that the request is still incomplete or deficient, the Secretary shall identify in writing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the remaining deficiencies and recommend a process for resolving the outstanding portions of the request.
+#### "\[SEC. 206. Repealed. Pub. L. 114–94, div. A, title XI, §11202(c)(1), Dec. 4, 2015, 129 Stat. 1630.\]
 
 #### "SEC. 207. METRICS AND STANDARDS.
 
@@ -352,31 +258,39 @@ Arbitration.—If the development of the metrics and standards is not completed 
 
 "(a)
 
-Methodology Development.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Federal Railroad Administration shall obtain the services of a qualified independent entity to develop and recommend objective methodologies for Amtrak to use in determining what intercity passenger routes and services it will provide, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes. In developing such methodologies, the entity shall consider—
-
-&emsp;"(1) the current or expected performance and service quality of intercity passenger train operations, including cost recovery, on-time performance and minutes of delay, ridership, on-board services, stations, facilities, equipment, and other services;
-
-&emsp;"(2) connectivity of a route with other routes;
-
-&emsp;"(3) the transportation needs of communities and populations that are not well served by intercity passenger rail service or by other forms of intercity transportation;
-
-&emsp;"(4) Amtrak's and other major intercity passenger rail service providers in other countries' methodologies for determining intercity passenger rail routes and services; and
-
-&emsp;"(5) the views of the States and other interested parties.
+Methodology Development.—Not later than 180 days after the date of enactment of the Passenger RailReform and Investment Act of 2015 \[Dec. 4, 2015\], Amtrak shall obtain the services of an independent entity to develop and recommend objective methodologies for Amtrak to use in determining what intercity rail passenger transportation routes and services it should provide, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes.
 
 "(b)
 
-Submittal to Congress.—Within 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the entity shall submit recommendations developed under subsection (a) to Amtrak, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Considerations.—Amtrak shall require the independent entity, in developing the methodologies described in subsection (a), to consider—
+
+&emsp;"(1) the current and expected performance and service quality of intercity rail passenger transportation operations, including cost recovery, on-time performance, ridership, on-board services, stations, facilities, equipment, and other services;
+
+&emsp;"(2) the connectivity of a route with other routes;
+
+&emsp;"(3) the transportation needs of communities and populations that are not well served by intercity rail passenger transportation service or by other forms of intercity transportation;
+
+&emsp;"(4) the methodologies of Amtrak and major intercity rail passenger transportation service providers in other countries for determining intercity passenger rail routes and services;
+
+&emsp;"(5) the financial and operational effects on the overall network, including the effects on direct and indirect costs;
+
+&emsp;"(6) the views of States, rail carriers that own infrastructure over which Amtrak operates, Interstate Compacts established by Congress and States, Amtrak employee representatives, stakeholder organizations, and other interested parties; and
+
+&emsp;"(7) the funding levels that will be available under authorization levels that have been enacted into law.
 
 "(c)
 
-Consideration of Recommendations.—Within 90 days after receiving the recommendations developed under subsection (a) by the entity, the Amtrak Board of Directors shall consider the adoption of those recommendations. The Board shall transmit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate explaining its reasons for adopting or not adopting the recommendations.
+Recommendations.—Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015 \[Dec. 4, 2015\], Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the recommendations developed by the independent entity under subsection (a).
+
+"(d)
+
+Consideration of Recommendations.—Not later than 90 days after the date on which the recommendations are transmitted under subsection (c), the Amtrak Board of Directors shall consider the adoption of each recommendation and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report explaining the reasons for adopting or not adopting each recommendation.
 
 #### "SEC. 209. STATE-SUPPORTED ROUTES.
 
 "(a)
 
-In General.—Within 2 years after the date of enactment of this Act \[Oct. 16, 2008\], the Amtrak Board of Directors, in consultation with the Secretary \[of Transportation\], the governors of each relevant State, and the Mayor of the District of Columbia, or entities representing those officials, shall develop and implement a single, nationwide standardized methodology for establishing and allocating the operating and capital costs among the States and Amtrak associated with trains operated on each of the routes described in section 24102(5)(B) and (D) and section 24702 that—
+In General.—Within 2 years after the date of enactment of this Act \[Oct. 16, 2008\], the Amtrak Board of Directors, in consultation with the Secretary \[of Transportation\], the governors of each relevant State, and the Mayor of the District of Columbia, or entities representing those officials, shall develop and implement a single, nationwide standardized methodology for establishing and allocating the operating and capital costs among the States and Amtrak associated with trains operated on each of the routes described in section 24102(7)(B) and (D) \[49 U.S.C. 24102(7)(B), (D)\] and section 24702 \[49 U.S.C. 24702\] that—
 
 &emsp;"(1) ensures, within 5 years after the date of enactment of this Act, equal treatment in the provision of like services of all States and groups of States (including the District of Columbia); and
 
@@ -384,13 +298,9 @@ In General.—Within 2 years after the date of enactment of this Act \[Oct. 16, 
 
 "(b)
 
-Revisions.—The Amtrak Board of Directors, in consultation with the Secretary, the governors of each relevant State, and the Mayor of the District of Columbia, or entities representing those officials, may revise or amend the methodology established under subsection (a) as necessary, consistent with the intent of this section, including revisions or modifications based on Amtrak's financial accounting system developed pursuant to section 203 of this division.
+Review.—If Amtrak and the States (including the District of Columbia) in which Amtrak operates such routes do not voluntarily adopt and implement the methodology developed under subsection (a) in allocating costs and determining compensation for the provision of service in accordance with the date established therein, the Surface Transportation Board shall determine the appropriate methodology required under subsection (a) for such services in accordance with the procedures and procedural schedule applicable to a proceeding under section 24904(c) \[now 24903(c)\] of title 49, United States Code, and require the full implementation of this methodology with regards to the provision of such service within 1 year after the Board's determination of the appropriate methodology.
 
 "(c)
-
-Review.—If Amtrak and the States (including the District of Columbia) in which Amtrak operates such routes do not voluntarily adopt and implement the methodology developed under subsection (a) in allocating costs and determining compensation for the provision of service in accordance with the date established therein, the Surface Transportation Board shall determine the appropriate methodology required under subsection (a) for such services in accordance with the procedures and procedural schedule applicable to a proceeding under section 24904(c) of title 49, United States Code, and require the full implementation of this methodology with regards to the provision of such service within 1 year after the Board's determination of the appropriate methodology.
-
-"(d)
 
 Use of Chapter 244
 
@@ -410,11 +320,11 @@ Report.—Amtrak shall provide a report to the Committee on Transportation and I
 
 #### Next Generation Corridor Train Equipment
 
-Pub. L. 110–432, div. B, title III, §305, Oct. 16, 2008, 122 Stat. 4951, provided that:
+Pub. L. 110–432, div. B, title III, §305, Oct. 16, 2008, 122 Stat. 4951, as amended by Pub. L. 114–94, div. A, title XI, §11315(b), Dec. 4, 2015, 129 Stat. 1675, provided that:
 
 "(a)
 
-In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], Amtrak shall establish a Next Generation Corridor Equipment Pool Committee, comprised of representatives of Amtrak, the Federal Railroad Administration, host freight railroad companies, passenger railroad equipment manufacturers, interested States, and, as appropriate, other passenger railroad operators. The purpose of the Committee shall be to design, develop specifications for, and procure standardized next-generation corridor equipment.
+In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], Amtrak shall establish a Next Generation Corridor Equipment Pool Committee, comprised of representatives of Amtrak, the Federal Railroad Administration, host freight railroad companies, passenger railroad equipment manufacturers, nonprofit organizations representing employees who perform overhaul and maintenance of passenger railroad equipment, interested States, and, as appropriate, other passenger railroad operators. The purpose of the Committee shall be to design, develop specifications for, and procure standardized next-generation corridor equipment.
 
 "(b)
 
@@ -428,7 +338,7 @@ Functions.—The Committee may—
 
 "(c)
 
-Cooperative Agreements.—Amtrak and States participating in the Committee may enter into agreements for the funding, procurement, remanufacture, ownership, and management of corridor equipment, including equipment currently owned or leased by Amtrak and next-generation corridor equipment acquired as a result of the Committee's actions, and may establish a corporation, which may be owned or jointly-owned by Amtrak, participating States, or other entities, to perform these functions.
+Cooperative Agreements.—Amtrak and States participating in the Committee may enter into agreements for the funding, procurement, remanufacture, ownership, and management of corridor equipment, including equipment currently owned or leased by Amtrak and next-generation corridor equipment acquired as a result of the Committee's actions.
 
 "(d)
 
@@ -436,7 +346,7 @@ Funding.—In addition to the authorizations provided in this section, capital p
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary \[of Transportation\] $5,000,000 for fiscal year 2010, to remain available until expended, for grants to Amtrak and States participating in the Next Generation Corridor Train Equipment Pool Committee established under this section for the purpose of designing, developing specifications for, and initiating the procurement of an initial order of 1 or more types of standardized next-generation corridor train equipment and establishing a jointly-owned corporation to manage that equipment."
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary \[of Transportation\] $5,000,000 for fiscal year 2010, to remain available until expended, for grants to Amtrak and States participating in the Next Generation Corridor Train Equipment Pool Committee established under this section for the purpose of designing, developing specifications for, and initiating the procurement of aninitial order of 1 or more types of standardized next-generation corridor train equipment."
 
 #### Fair Competitive Bidding for State-Supported Intercity Rail Service
 
@@ -647,6 +557,22 @@ Annual Report.—Each year before the fifth anniversary of the date of enactment
 Authorization of Appropriations.—There are authorized to be appropriated to the Council such sums as may be necessary to enable the Council to carry out its duties.
 
 #### "\[SECS. 204, 205. Repealed. Pub. L. 110–432, div. B, title II, §218(a)(2), Oct. 16, 2008, 122 Stat. 4930.\]"
+
+#### Limitation on Use of Tax Refund
+
+Pub. L. 105–134, title II, §209, Dec. 2, 1997, 111 Stat. 2584, provided that:
+
+"(a)
+
+In General.—Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]—
+
+&emsp;"(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
+
+&emsp;"(2) to offset other amounts used for any purpose other than the financing of such expenses.
+
+"(b)
+
+Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997."
 
 #### Interstate Rail Compacts
 

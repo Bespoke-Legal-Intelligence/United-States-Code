@@ -22,7 +22,7 @@
 
 #### (b) Authorization
 
-(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a) of this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
+(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a), there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
 
 (2) For the purpose of staffing and operating juvenile detention centers, there are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2015.
 
@@ -30,7 +30,7 @@
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L.93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
 #### Amendments
 
@@ -42,9 +42,9 @@ Subsec. (b)(2). Pub. L. 111–211, §241(g)(2), substituted "for each of fiscal 
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-"(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a) of this section, there is authorized to be appropriated $10,000,000 for the fiscal year 1989 and $5,000,000 for each of the fiscal years 1990 and 1991.
+"(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a), there is authorized to be appropriated $10,000,000 for the fiscal year 1989 and $5,000,000 for each of the fiscal years 1990 and 1991.
 
 "(2) For the purpose of staffing and operating juvenile detention centers, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1989 and 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to section 13 of this title."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For the purpose of subsection (a) of this section, there is authorized to be appropriated $10,000,000 for construction and renovation for each of the fiscal years 1987, 1988, and 1989, and $5,000,000 for staffing and operation for each of the fiscal years 1987, 1988, and 1989."
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For the purpose of subsection (a), there is authorized to be appropriated $10,000,000 for construction and renovation for each of the fiscal years 1987, 1988, and 1989, and $5,000,000 for staffing and operation for each of the fiscal years 1987, 1988, and 1989."
 

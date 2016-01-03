@@ -70,7 +70,7 @@ For purposes of this part:
 
 #### (7) Standard
 
-&emsp;The term "standard", when used with reference to a data element of health information or a transaction referred to in section 1320d–2(a)(1) of this title, means any such data element or transaction that meets each of the standards and implementation specifications adopted or established by the Secretary with respect to the data element or transaction under sections 1320d–1 through 1320d–3 of this title.
+&emsp;The term "standard", when used with reference to a data element of health informationor a transaction referred to in section 1320d–2(a)(1) of this title, means any such data element or transaction that meets each of the standards and implementation specifications adopted or established by the Secretary with respect to the data element or transaction under sections 1320d–1 through 1320d–3 of this title.
 
 #### (8) Standard setting organization
 

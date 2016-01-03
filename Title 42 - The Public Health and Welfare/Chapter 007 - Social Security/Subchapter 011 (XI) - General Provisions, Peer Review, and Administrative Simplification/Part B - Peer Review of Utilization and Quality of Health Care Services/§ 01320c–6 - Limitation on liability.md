@@ -14,7 +14,7 @@ No organization having a contract with the Secretary under this part and no pers
 
 #### (c) Physicians and providers
 
-No doctor of medicine or osteopathy and no provider (including directors, trustees, employees, or officials thereof) of health care services shall be civilly liable to any person under any law of the United States or of any State (or political subdivision thereof) on account of any action taken by him in compliance with or reliance upon professionally developed norms ofcare and treatment applied by an organization under contract pursuant to section 1320c–2 of this title operating in the area where such doctor of medicine or osteopathy or provider took such action; but only if—
+No doctor of medicine or osteopathy and no provider (including directors, trustees, employees, or officials thereof) of health care services shall be civilly liable to any person under any law of the United States or of any State (or political subdivision thereof) on account of any action taken by him in compliance with or reliance upon professionally developed norms of care and treatment applied by an organization under contract pursuant to section 1320c–2 of this title operating in the area where such doctor of medicine or osteopathy or provider took such action; but only if—
 
 &emsp;(1) he takes such action in the exercise of his profession as a doctor of medicine or osteopathy or in the exercise of his functions as a provider of health care services; and
 
@@ -28,7 +28,7 @@ The Secretary shall make payment to an organization under contract with him purs
 
 #### Prior Provisions
 
-A prior section 1320c–6, act Aug. 14, 1935, ch. 531, title XI, §1157, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1437; amended Oct. 25, 1977, Pub. L. 95–142, §13(b)(4), 91 Stat. 1198, related to submission of reports by Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–6, act Aug. 14, 1935, ch. 531, title XI, §1157, as added Oct. 30, 1972, Pub. L. 92–603, title II,§249F(b), 86 Stat. 1437; amended Oct. 25, 1977, Pub. L. 95–142, §13(b)(4), 91 Stat. 1198, related to submission of reports by Professional Standards Review Organizations, prior to the general revision of this part by Pub. L. 97–248.
 
 #### Amendments
 

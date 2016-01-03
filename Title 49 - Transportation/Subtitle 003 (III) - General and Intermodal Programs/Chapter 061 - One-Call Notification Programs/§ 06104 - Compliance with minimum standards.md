@@ -12,7 +12,7 @@ Application.—
 
 &emsp;(2) Based on the review under paragraph (1), the Secretary shall determine whether the State's one-call notification program meets the minimum standards for such a program set forth in section 6103 in order to qualify for a grant under section 6106.
 
-&emsp;(3) In order to expedite compliance under this section, the Secretary may consult with the State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State program would result in a positive determination under paragraph (2).
+&emsp;(3) In order to expedite compliance under this section, the Secretary may consult with the State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State programwould result in a positive determination under paragraph (2).
 
 &emsp;(4) The Secretary shall prescribe the form and manner of filing an application under this section that shall provide sufficient information about a State's one-call notification program for the Secretary to evaluate its overall effectiveness. Such information may include the nature and reasons for exceptions from required participation, the types of enforcement available, and such other information as the Secretary deems necessary.
 
@@ -28,7 +28,7 @@ Report.—The Secretary shall include the following information in reports submi
 
 &emsp;(1) a description of the extent to which each State has adopted and implemented the minimum Federal standards under section 6103 or maintains an alternative program under subsection (c);
 
-&emsp;(2) an analysis by the Secretary of the overall effectiveness of each State's one-call notification program and the one-call notificationsystems operating under such program in achieving the purposes of this chapter;
+&emsp;(2) an analysis by the Secretary of the overall effectiveness of each State's one-call notification program and the one-call notification systems operating under such program in achieving the purposes of this chapter;
 
 &emsp;(3) the impact of each State's decisions on the extent of required participation in one-call notification systems on prevention of damage to underground facilities; and
 

@@ -22,9 +22,9 @@ In this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) is self-employed (including an owner-operator of a motor vehicle, vessel, or aircraft) transporting hazardous material in commerce; and
 
-&emsp;&emsp;&emsp;(ii) who during the course of such full time, part time, or temporary employment, or such self employment, directly affects hazardous material transportationsafety as the Secretary decides by regulation; and
+&emsp;&emsp;&emsp;(ii) who during the course of such full time, part time, or temporary employment, or such self employment, directly affects hazardous material transportation safety as the Secretary decides by regulation; and
 
-&emsp;&emsp;(B) includes an individual, employed on a full time, part time, or temporary basis by a hazmat employer, or self employed, who during the course of employment—
+&emsp;&emsp;(B) includes an individual, employed on a full time, part time, or temporary basis by ahazmat employer, or self employed, who during the course of employment—
 
 &emsp;&emsp;&emsp;(i) loads, unloads, or handles hazardous material;
 

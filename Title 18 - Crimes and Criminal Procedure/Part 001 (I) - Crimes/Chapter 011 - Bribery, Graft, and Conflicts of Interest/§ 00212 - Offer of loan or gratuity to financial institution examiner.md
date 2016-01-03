@@ -10,7 +10,7 @@ In General.—Except as provided in subsection (b), whoever, being an officer, d
 
 (b)
 
-Regulations.—A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on theapplication for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
+Regulations.—A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on the application for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
 
 (c)
 

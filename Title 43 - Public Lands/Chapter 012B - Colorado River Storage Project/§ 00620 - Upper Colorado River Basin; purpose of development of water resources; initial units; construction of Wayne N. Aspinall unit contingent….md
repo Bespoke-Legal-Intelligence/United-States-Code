@@ -1,6 +1,6 @@
 ### §620. Upper Colorado River Basin; purpose of development of water resources; initial units; construction of Wayne N. Aspinall unit contingent upon certification; participating projects; Rainbow Bridge National Monument
 
-In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: <i>Provided</i>, That the Wayne N. Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafter referred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, the Navajo-Gallup Water Supply Project, Silt and Smith Fork: <i>Provided further</i>, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to preclude impairment of the Rainbow Bridge National Monument.
+In order to initiate the comprehensive development of the water resources of the Upper Colorado River Basin, for the purposes, among others, of regulating the flow of the Colorado River, storing water for beneficial consumptive use, making it possible for the States of the Upper Basin to utilize, consistently with the provisions of the Colorado River Compact, the apportionments made to and among them in the Colorado River Compact and the Upper Colorado River Basin Compact, respectively, providing for the reclamation of arid and semiarid land, for the control of floods, and for the generation of hydroelectric power, as an incident of the foregoing purposes, the Secretary of the Interior is authorized (1) to construct, operate, and maintain the following initial units of the Colorado River storage project, consisting of dams, reservoirs, powerplants, transmission facilities and appurtenant works: Wayne N. Aspinall, Flaming Gorge, Navajo (dam and reservoir only), and Glen Canyon: <i>Provided</i>, That the Wayne N. Aspinall Dam shall be constructed to a height which will impound not less than nine hundred and forty thousand acre-feet of water or will create a reservoir of such greater capacity as can be obtained by a high waterline located at seven thousand five hundred and twenty feet above mean sea level, and that construction thereof shall not be undertaken until the Secretary has, on the basis of further engineering and economic investigations, reexamined the economic justification of such unit and, accompanied by appropriate documentation in the form of a supplemental report, has certified to the Congress and to the President that, in his judgment, the benefits of such unit will exceed its costs; and (2) to construct, operate, and maintain the following additional reclamation projects (including power-generating and transmission facilities related thereto), hereinafter referred to as participating projects: Central Utah (initial phase and the Uintah unit), San Juan-Chama (initial stage), Emery County, Florida, Hammond, La Barge, Lyman, Navajo Indian, Paonia (including the Minnesota unit, a dam and reservoir on Muddy Creek just above its confluence with the North Fork of the Gunnison River, and other necessary works), Animas-La Plata, Dolores, Dallas Creek, West Divide, San Miguel, Seedskadee, Savery-Pot Hook, Bostwick Park, Fruitland Mesa, the Navajo-Gallup Water Supply Project, Silt and Smith Fork: <i>Provided further</i>, That as part of the Glen Canyon Unit the Secretary of the Interior shall take adequate protective measures to precludeimpairment of the Rainbow Bridge National Monument.
 
 (Apr. 11, 1956, ch. 203, §1, 70 Stat. 105; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 896; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507; Pub. L. 96–470, title I, §108(c), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 111–11, title X, §10401(a), Mar. 30, 2009, 123 Stat. 1371.)
 
@@ -28,7 +28,7 @@ Pub. L. 96–375 substituted "Wayne N. Aspinall" for "Curecanti".
 
 #### Termination Date of 2009 Amendment
 
-Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.
+Amendment by Pub. L. 111–11 to be null and void on issuance of a court order terminating a certain Agreement between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.
 
 #### Short Title
 
@@ -92,13 +92,13 @@ Pub. L. 111–11, title X, §10403, Mar. 30, 2009, 123 Stat. 1375, provided that
 
 &emsp;"(11) section 205 of the Energy and Water Development Appropriations Act, 2005 (118 Stat. 2949)."
 
-\[Section 10403 Pub. L. 111–11, set out above, to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.\]
+\[Section 10403 Pub. L. 111–11, set out above, to be null and void on issuance of a court order terminating a certain Agreement between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note below.\]
 
 \[For definition of Compact, see section 10302 of Pub. L. 111–11, set out as a Definitions note under section 407 of this title.\]
 
 #### Agreement
 
-Pub. L. 111–11, title X, §10701, Mar. 30, 2009, 123 Stat. 1396, provided that:
+Pub. L. 111–11, title X, §10701, Mar. 30, 2009, 123 Stat. 1396, as amended by Pub. L. 114–57, §2(e), Sept. 30, 2015, 129 Stat. 528, provided that:
 
 "(a)
 
@@ -173,7 +173,7 @@ Rights of the nation.—The Nation may, under the Contract—
 
 &emsp;&emsp;&emsp;"(ii) the use of tail water, wastewater, or return flows is consistent with the terms, conditions, and limitations of the Agreement, and any other applicable law; and
 
-&emsp;&emsp;"(B) change a point of diversion, change a purpose or place of use, and transfer a right for depletionunder this subtitle (except for a point of diversion, purpose or place of use, or right for depletion for use in the State of Arizona under section 10603(b)(2)(D) \[123 Stat. 1383\]), to another use, purpose, place, or depletion in the State of New Mexico to meet a water resource or economic need of the Nation if—
+&emsp;&emsp;"(B) change a point of diversion, change a purpose or place of use, and transfer a right for depletion under this subtitle (except for a point of diversion, purpose or place of use, or right for depletion for use in the State of Arizona under section 10603(b)(2)(D) \[123 Stat. 1383\]), to another use, purpose, place, or depletion in the State of New Mexico to meet a water resource or economic need of the Nation if—
 
 &emsp;&emsp;&emsp;"(i) the change or transfer is subject to and consistent with the terms of the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Contract, and any other applicable law; and
 
@@ -337,7 +337,7 @@ Hogback-cudei irrigation project.—Not later than December 31, 2019, the rehabi
 
 &emsp;&emsp;&emsp;"(vii)
 
-Trust fund.—Not later than December 31, 2019, the United States shall make all depositsinto the Trust Fund under section 10702 \[123 Stat. 1402\].
+Trust fund.—Not later than December 31, 2019, the United States shall make all deposits into the Trust Fund under section 10702 \[123 Stat. 1402\].
 
 &emsp;&emsp;&emsp;"(viii)
 
@@ -357,11 +357,11 @@ Revocability of agreement, contract and authorizations.—
 
 &emsp;&emsp;"(A)
 
-Petition.—If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement and Contract.
+Petition.—If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement.
 
 &emsp;&emsp;"(B)
 
-Termination.—On issuance of an order to terminate the Agreement and Contract under subparagraph (A)—
+Termination.—On issuance of an order to terminate the Agreement under subparagraph (A)—
 
 &emsp;&emsp;&emsp;"(i) the Trust Fund shall be terminated;
 
@@ -377,7 +377,7 @@ Conditions not causing nullification of settlement.—
 
 &emsp;&emsp;"(A)
 
-In general.—If a condition described in subparagraph (B) occurs, the Agreement and Contract shall not be nullified or terminated.
+In general.—If a condition described in subparagraph (B) occurs, the Agreement shall not be nullified or terminated.
 
 &emsp;&emsp;"(B)
 

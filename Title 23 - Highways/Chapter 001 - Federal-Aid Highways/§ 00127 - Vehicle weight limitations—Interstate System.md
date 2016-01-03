@@ -16,7 +16,7 @@ In General.—
 
 > &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 
-&emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b)(2) <sup>1</sup> of this title.
+&emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b).
 
 &emsp;(4) This section shall not be construed to deny apportionment to any State allowing the operation within such State of any vehicles or combinations thereof, other than vehicles or combinations subject to subsection (d) of this section, which the State determines could be lawfully operated within such State on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles, on the date of enactment of the Federal-Aid Highway Amendments of 1974.
 
@@ -32,9 +32,9 @@ In General.—
 
 &emsp;(10) With respect to Interstate Routes 89, 93, and 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.
 
-&emsp;(11)(A) With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031.
+&emsp;(11)(A) With respect to all portions of the Interstate Highway System in the State of Maine, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
-&emsp;(B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection through December 31, 2031.
+&emsp;(B) With respect to all portions of the Interstate Highway System in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to other State highways shall be applicable in lieu of the requirements under this subsection.
 
 &emsp;(12)
 
@@ -42,7 +42,7 @@ Heavy duty vehicles.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraphs (B) and (C), in order to promote reduction of fuel use and emissions because of engine idling, the maximum gross vehicle weight limit and the axle weight limit for any heavy-duty vehicle equipped with an idle reduction technology shall be increased by a quantity necessary to compensate for the additional weight of the idle reduction system.
+In general.—Subject to subparagraphs (B) and (C), in order to promote reduction offuel use and emissions because of engine idling, the maximum gross vehicle weight limit and the axle weight limit for any heavy-duty vehicle equipped with an idle reduction technology shall be increased by a quantity necessary to compensate for the additional weight of the idle reduction system.
 
 &emsp;&emsp;(B)
 
@@ -55,6 +55,10 @@ Proof.—On request by a regulatory agency or law enforcement agency, the vehicl
 &emsp;&emsp;&emsp;(i) the idle reduction technology is fully functional at all times; and
 
 &emsp;&emsp;&emsp;(ii) the 550-pound gross weight increase is not used for any purpose other than the use of idle reduction technology described in subparagraph (A).
+
+&emsp;(13)
+
+Milk products.—A vehicle carrying fluid milk products shall be considered a load that cannot be easily dismantled or divided.
 
 (b)
 
@@ -114,7 +118,7 @@ Publication of list.—
 
 &emsp;&emsp;(A)
 
-Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under this subsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
+Submission to secretary.—Within 60 days of the date of the enactment of this subsection, each State (i) shall submit to the Secretary for publication in the Federal Register a complete list of (I) all operations of longer combination vehicles being conducted as of June 1, 1991, pursuant to State statutes and regulations; (II) all limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, governing the operation of longer combination vehicles otherwise prohibited under thissubsection; and (III) such statutes, regulations, limitations, and conditions; and (ii) shall submit to the Secretary copies of such statutes, regulations, limitations, and conditions.
 
 &emsp;&emsp;(B)
 
@@ -180,7 +184,7 @@ In general.—Notwithstanding any other provision of this section, a State may i
 
 &emsp;(2)
 
-Expiration.—A permit issued under paragraph (1) shall expire not later than 120 days after the date of the declaration of emergency under subparagraph (A) of that paragraph.
+Expiration.—A permit issued under paragraph (1) shall expire not later than 120 daysafter the date of the declaration of emergency under subparagraph (A) of that paragraph.
 
 (j)
 
@@ -206,13 +210,117 @@ Description of highway segments.—The highway segments referred to in paragraph
 
 &emsp;&emsp;(B) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as Interstate Route 69) in Kentucky from the Wendell H. Ford (Western Kentucky) Parkway Interchange to near milepost 77, and on new alignment to an interchange on the Audubon Parkway, if the segment is designated as part of the Interstate System.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709.)
+(m)
+
+Covered Heavy-duty Tow and Recovery Vehicles.—
+
+&emsp;(1)
+
+In general.—The vehicle weight limitations set forth in this section do not apply to a covered heavy-duty tow and recovery vehicle.
+
+&emsp;(2)
+
+Covered heavy-duty tow and recovery vehicle defined.—In this subsection, the term "covered heavy-duty tow and recovery vehicle" means a vehicle that—
+
+&emsp;&emsp;(A) is transporting a disabled vehicle from the place where the vehicle became disabled to the nearest appropriate repair facility; and
+
+&emsp;&emsp;(B) has a gross vehicle weight that is equal to or exceeds the gross vehicle weight of the disabled vehicle being transported.
+
+(n)
+
+Operation of Vehicles on Certain Highways in the State of Texas.—If any segment in the State of Texas of United States Route 59, United States Route 77, United States Route 281, United States Route 84, Texas State Highway 44, or another roadway is designated as Interstate Route 69, a vehicle that could operate legally on that segment before the date of the designation may continue to operate on that segment, without regard to any requirement under this section.
+
+(o)
+
+Certain Logging Vehicles in the State of Wisconsin.—
+
+&emsp;(1)
+
+In general.—The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+
+&emsp;(2)
+
+Covered logging vehicle defined.—In this subsection, the term "covered logging vehicle" means a vehicle that—
+
+&emsp;&emsp;(A) is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+
+&emsp;&emsp;(B) has a gross vehicle weight of not more than 98,000 pounds;
+
+&emsp;&emsp;(C) has not less than 6 axles; and
+
+&emsp;&emsp;(D) is operating on a segment of Interstate Route 39 in the State of Wisconsin from mile marker 175.8 to mile marker 189.
+
+(p)
+
+Operation of Certain Specialized Vehicles on Certain Highways in the State of Arkansas.—If any segment of United States Route 63 between the exits for highways 14 and 75 in the State of Arkansas is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits under subsection (a) and the width limitation under section 31113(a) of title 49 shall not apply to that segment with respect to the operation of any vehicle that could operate legally on that segment before the date of the designation.
+
+(q)
+
+Certain Logging Vehicles in the State of Minnesota.—
+
+&emsp;(1)
+
+In general.—The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+
+&emsp;(2)
+
+Covered logging vehicle defined.—In this subsection, the term "covered logging vehicle" means a vehicle that—
+
+&emsp;&emsp;(A) is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+
+&emsp;&emsp;(B) has a gross vehicle weight of not more than 99,000 pounds;
+
+&emsp;&emsp;(C) has not less than 6 axles; and
+
+&emsp;&emsp;(D) is operating on a segment of Interstate Route 35 in the State of Minnesota from mile marker 235.4 to mile marker 259.552.
+
+(r)
+
+Emergency Vehicles.—
+
+&emsp;(1)
+
+In general.—Notwithstanding subsection (a), a State shall not enforce against an emergency vehicle a vehicle weight limit (up to a maximum gross vehicle weight of 86,000 pounds) of less than—
+
+&emsp;&emsp;(A) 24,000 pounds on a single steering axle;
+
+&emsp;&emsp;(B) 33,500 pounds on a single drive axle;
+
+&emsp;&emsp;(C) 62,000 pounds on a tandem axle; or
+
+&emsp;&emsp;(D) 52,000 pounds on a tandem rear drive steer axle.
+
+&emsp;(2)
+
+Emergency vehicle defined.—In this subsection, the term "emergency vehicle" means a vehicle designed to be used under emergency conditions—
+
+&emsp;&emsp;(A) to transport personnel and equipment; and
+
+&emsp;&emsp;(B) to support the suppression of fires and mitigation of other hazardous situations.
+
+(s)
+
+Natural Gas Vehicles.—A vehicle, if operated by an engine fueled primarily by natural gas, may exceed any vehicle weight limit (up to a maximum gross vehicle weight of 82,000 pounds) under this section by an amount that is equal to the difference between—
+
+&emsp;(1) the weight of the vehicle attributable to the natural gas tank and fueling system carried by that vehicle; and
+
+&emsp;(2) the weight of a comparable diesel tank and fueling system.
+
+(t)
+
+Vehicles in Idaho.—A vehicle limited or prohibited under this section from operating on a segment of the Interstate System in the State of Idaho may operate on such a segment if such vehicle–
+
+&emsp;(1) has a gross vehicle weight of 129,000 pounds or less;
+
+&emsp;(2) other than gross vehicle weight, complies with the single axle, tandem axle, and bridge formula limits set forth in subsection (a); and
+
+&emsp;(3) is authorized to operate on such segment under Idaho State law.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847.)
 
 #### References in Text
 
 The date of enactment of Federal-Aid Highway Amendments of 1974, referred to in subsec. (a)(2), (4), means Jan. 4, 1975, the date on which Pub. L. 93–643 was approved.
-
-Section 118(b) of this title, referred to in subsec. (a)(3), was amended by section 1519(c)(5) of Pub. L. 112–141 and no longer contains a par. (2).
 
 The date of the enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
@@ -234,6 +342,16 @@ Amendments by section 194(c), (f) of Pub. L. 111–117 were executed as if the a
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(3). Pub. L. 114–94, §1446(a)(3), substituted "118(b)" for "118(b)(2) of this title".
+
+Subsec. (a)(11). Pub. L. 114–113, §124(1), struck out "through December 31, 2031" before period at end in subpars. (A) and (B).
+
+Subsec. (a)(13). Pub. L. 114–94, §1409, added par. (13).
+
+Subsecs. (m) to (s). Pub. L. 114–94, §1410, added subsecs. (m) to (s).
+
+Subsec. (t). Pub. L. 114–113, §124(2), added subsec. (t).
+
 <b>2014</b>—Subsecs. (j) to (l). Pub. L. 113–235 added subsecs. (j) to (l).
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §1404(a), substituted "The Secretary shall withhold 50 percent of the apportionment of a State under section 104(b)(1) in any fiscal year in which the State" for "No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which".
@@ -248,7 +366,7 @@ Subsec. (i). Pub. L. 112–141, §1511, added subsec. (i).
 
 <b>2009</b>—Subsec. (a)(11). Pub. L. 111–117, §194(c), substituted "that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)" for "all portions of the Interstate Highway System in the State, laws (including regulations)". See Codification note above.
 
-Pub. L. 111–117, §194(a), (b), which directed temporary substitution of "all portions of the Interstate Highway System in the State, laws (including regulations)" for "that portion of the Maine Turnpike designated Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)", was executed by making the temporary substitution for "that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)" to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
+Pub. L. 111–117, §194(a), (b), which directed temporary substitution of "all portions of the Interstate Highway System in the State, laws (including regulations)" for "that portion of the Maine Turnpike designated Route95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)", was executed by making the temporary substitution for "that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations)" to reflect the probable intent of Congress. See Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(13). Pub. L. 111–117, §194(f), struck out par. (13), which consisted of subpar. (A) only. Text read as follows: "With respect to Interstate Routes 89, 91, and 93 in the State of Vermont, laws (including regulations) of that State concerning vehicle weight limitations applicable to State highways other than the Interstate system shall be applicable in lieu of the requirements of this subsection." See Codification note above.
 
@@ -278,7 +396,7 @@ Subsec. (g). Pub. L. 104–88, §404, added subsec. (g).
 
 Subsec. (d)(2)(A). Pub. L. 103–429 substituted "sections 31111–31114 of title 49" for "sections 411, 412, and 416 of the Surface Transportation Assistance Act of 1982 (49 U.S.C. App. 2311, 2312, and 2316)".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1023(a), substituted "funds shall be apportioned in any fiscal year undersection 104(b)(1) of this title" for "funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned" in first sentence and inserted ", other than vehicles or combinations subject to subsection (d) of this section," after "thereof" in fourth sentence.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1023(a), substituted "funds shall be apportioned in any fiscal year under section 104(b)(1) of this title" for "funds authorized to be appropriated for any fiscal year under provisions of the Federal-Aid Highway Act of 1956 shall be apportioned" in first sentence and inserted ", other than vehicles or combinations subject to subsection (d) of this section," after "thereof" in fourth sentence.
 
 Subsecs. (d), (e). Pub. L. 102–240, §1023(b), (d), added subsecs. (d) and (e).
 
@@ -308,6 +426,10 @@ Subsec. (b). Pub. L. 97–424 added subsec. (b).
 
 <b>1960</b>—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -324,7 +446,7 @@ Pub. L. 111–117, div. A, title I, §194(f), Dec. 16, 2009, 123 Stat. 3073, pro
 
 #### Effective Date of 1995 Amendment
 
-Amendment by section 404 of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by section 404 of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 Pub. L. 104–88, title IV, §405(a), Dec. 29, 1995, 109 Stat. 956, provided that the amendment made by that section is effective Nov. 28, 1995.
 
@@ -358,7 +480,7 @@ Purpose.—The purpose of the study shall be to determine the effectiveness of S
 
 "(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results ofthe study with any legislative recommendations of the Secretary."
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary."
 
 #### Commercial Motor Vehicle Study
 
@@ -448,7 +570,7 @@ Pub. L. 102–240, title I, §1023(g), Dec. 18, 1991, 105 Stat. 1955, directed S
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respectto each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Pub. L. 100–17, title I, §158, Apr. 2, 1987, 101 Stat. 210, directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of 'reasonable access' to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 
@@ -457,6 +579,4 @@ Pub. L. 97–369, title III, §321, Dec. 18, 1982, 96 Stat. 1784, related to Sta
 #### Steering Axle Study; Report to Congress
 
 Pub. L. 94–280, title II, §210, May 5, 1976, 90 Stat. 455, directed Secretary of Transportation to conduct an investigation into relationship between gross load on front steering axles of truck tractors and safety of operation of vehicle combinations of which such truck tractors are a part, such investigation to be conducted in cooperation with representatives of (A) manufacturers of truck tractors and related equipment, (B) labor, and (C) users of such equipment, and the results of such study to be reported to Congress not later than July 1, 1977.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@ The region of the Northern Border Regional Commission shall include the followin
 
 &emsp;(1)
 
-Maine.—The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec, Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
+Maine.—The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec,Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
 
 &emsp;(2)
 

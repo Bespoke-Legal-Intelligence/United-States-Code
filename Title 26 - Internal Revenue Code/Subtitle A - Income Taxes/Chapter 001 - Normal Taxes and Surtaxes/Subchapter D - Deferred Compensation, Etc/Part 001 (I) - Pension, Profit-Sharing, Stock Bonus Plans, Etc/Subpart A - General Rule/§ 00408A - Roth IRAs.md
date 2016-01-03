@@ -336,7 +336,7 @@ Application of section 72.—For purposes of applying section 72 in the case of 
 
 &emsp;"(ii) the taxpayer is a married individual filing a separate return.
 
-> This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)." See Effective Date of 2006 Amendment note below.
+> This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualifiedrollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)." See Effective Date of 2006 Amendment note below.
 
 Pub. L. 109–280, §824(b)(1), substituted "eligible retirement plan" for "IRA" in heading and "an eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan" in introductory provisions. See Effective Date of 2006 Amendment note below.
 
@@ -412,7 +412,7 @@ Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
 Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: "in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made."
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a RothIRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading andtext of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 

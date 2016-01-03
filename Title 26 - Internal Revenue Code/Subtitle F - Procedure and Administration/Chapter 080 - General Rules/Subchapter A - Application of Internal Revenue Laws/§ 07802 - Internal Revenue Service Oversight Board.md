@@ -62,7 +62,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) Financial disclosure
 
-&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated asserving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
 #### (B) Restrictions on post-employment
 
@@ -144,7 +144,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 &emsp;The Oversight Board shall have no responsibilities or authority with respect to—
 
-&emsp;&emsp;(A) the development and formulation of Federal tax policy relating to existing orproposed internal revenue laws, related statutes, and tax conventions,
+&emsp;&emsp;(A) the development and formulation of Federal tax policy relating to existing or proposed internal revenue laws, related statutes, and tax conventions,
 
 &emsp;&emsp;(B) specific law enforcement activities of the Internal Revenue Service, including specific compliance activities such as examinations, collection activities, and criminal investigations,
 
@@ -276,7 +276,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 &emsp;&emsp;Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-648.)
 
 #### References in Text
 

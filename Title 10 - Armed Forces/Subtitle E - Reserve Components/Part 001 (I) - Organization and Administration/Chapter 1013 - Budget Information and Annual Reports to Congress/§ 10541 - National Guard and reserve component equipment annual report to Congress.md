@@ -1,6 +1,6 @@
 ### §10541. National Guard and reserve component equipment: annual report to Congress
 
-(a) The Secretary of Defense shall submit to the Congress each year, not later than March 15, a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
+(a) The Secretary of Defense shall submit to the Congress each year, not later than March 15,a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
 
 (b) Each report under this section shall include the following:
 

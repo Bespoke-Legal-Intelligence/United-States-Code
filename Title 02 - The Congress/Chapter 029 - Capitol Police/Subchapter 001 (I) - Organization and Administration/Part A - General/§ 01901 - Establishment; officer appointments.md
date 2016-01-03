@@ -192,7 +192,7 @@ Prior service for purposes of eligibility for immediate retirement as member of 
 
 &emsp;&emsp;"(B)
 
-Prior service for purposes of computation of annuity.—Any creditable service under section8332 or 8411 of title 5, United States Code, of an individual who becomes a member of the Capitol Police under this subsection that was accrued prior to becoming a member of the Capitol Police—
+Prior service for purposes of computation of annuity.—Any creditable service under section 8332 or 8411 of title 5, United States Code, of an individual who becomes a member of the Capitol Police under this subsection that was accrued prior to becoming a member of the Capitol Police—
 
 &emsp;&emsp;&emsp;"(i) shall be treated and computed as employee service under section 8339 or section 8415 of such title; but
 
@@ -236,7 +236,7 @@ Employee representation.—Nothing in this Act \[see Short Title of 2008 Amendme
 
 &emsp;"(2)
 
-Agreements not applicable.—Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
+Agreements not applicable.—Nothing in this Act shall be construed to authorize any collectivebargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
 
 "(f)
 
@@ -386,7 +386,7 @@ Evaluation by comptroller general.—The Comptroller General shall annually eval
 
 "(c)
 
-Initial Action Plan.—Not later than 180 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall develop aninitial action plan describing the policies, procedures, and actions the Chief will carry out to meet the requirements of this section and setting forth a timetable for carrying out each such policy, procedure, and action, and shall submit such plan (upon the approval of the Capitol Police Board) to the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate."
+Initial Action Plan.—Not later than 180 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Chief of the Capitol Police shall develop an initial action plan describing the policies, procedures, and actions the Chief will carry out to meet the requirements of this section and setting forth a timetable for carrying out each such policy, procedure, and action, and shall submit such plan (upon the approval of the Capitol Police Board) to the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate."
 
 #### Compensation of Assistant Chief of Capitol Police
 

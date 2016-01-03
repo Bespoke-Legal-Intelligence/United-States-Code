@@ -24,5 +24,5 @@ The words "court of inquiry" are substituted for the words "board of inquiry" to
 
 #### Delegation of Functions
 
-For delegation to Secretary of Defense of authority vested in President by section 1062 of former Title 34,see Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Defense of authority vested in President by section 1062 of former Title 34, see Ex. Ord. No. 10621, July 1, 1955, 20 F.R. 4759, set out as a note under section 301 of Title 3, The President.
 

@@ -18,7 +18,7 @@ In this subchapter:
 
 #### (4) Community-based organization
 
-&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribalorganization that serves a specific geographic community that—
+&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—
 
 &emsp;&emsp;(A) focuses primarily on domestic violence, dating violence, sexual assault, or stalking;
 
@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (7) Culturally specific services
 
-&emsp;The term "culturally specific services" means community-based services that include culturally relevant and linguistically specific services and resources to culturally specific communities.
+&emsp;The term "culturally specific services" means community-based services that includeculturally relevant and linguistically specific services and resources to culturally specific communities.
 
 #### (8) Domestic violence
 
@@ -262,7 +262,7 @@ In this subchapter:
 
 #### (43) Victim service provider
 
-&emsp;The term "victim service provider" means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocatesfor domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+&emsp;The term "victim service provider" means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocates for domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
 #### (44) Victim services or services
 
@@ -392,7 +392,7 @@ In this subchapter:
 
 #### (B) Exception
 
-&emsp;&emsp;If sex segregation or sex-specific programming is necessary to the essential operationof a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual's sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
+&emsp;&emsp;If sex segregation or sex-specific programming is necessary to the essential operation of a program, nothing in this paragraph shall prevent any such program or activity from consideration of an individual's sex. In such circumstances, grantees may meet the requirements of this paragraph by providing comparable services to individuals who cannot be provided with the sex-segregated or sex-specific programming.
 
 #### (C) Discrimination
 
@@ -744,7 +744,7 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 
 &emsp;"(8) 40 percent of girls ages 14 to 17 report knowing someone their age who has been hit or beaten by a boyfriend, and 13 percent of college women report being stalked.
 
-&emsp;"(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date.Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
+&emsp;"(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date. Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
 
 &emsp;"(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male university population, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators."
 

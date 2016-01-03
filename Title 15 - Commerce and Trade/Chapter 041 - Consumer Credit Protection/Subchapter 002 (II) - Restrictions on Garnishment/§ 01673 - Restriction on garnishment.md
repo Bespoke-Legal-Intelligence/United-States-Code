@@ -2,7 +2,7 @@
 
 #### (a) Maximum allowable garnishment
 
-Except as provided in subsection (b) of this section and in section 1675 of this title, the maximum part of the aggregate disposable earnings of an individual for any workweek which is subjected to garnishment may not exceed
+Except as provided in subsection (b) and in section 1675 of this title, the maximum part of the aggregate disposable earnings of an individual for any workweek which is subjected to garnishment may not exceed
 
 &emsp;(1) 25 per centum of his disposable earnings for that week, or
 
@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 #### (b) Exceptions
 
-(1) The restrictions of subsection (a) of this section do not apply in the case of
+(1) The restrictions of subsection (a) do not apply in the case of
 
 &emsp;(A) any order for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review.
 
@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section and in section 1675 of this
 
 &emsp;(C) any debt due for any State or Federal tax.
 
-(2) The maximum part of the aggregate disposable earnings of an individual for any workweekwhich is subject to garnishment to enforce any order for the support of any person shall not exceed—
+(2) The maximum part of the aggregate disposable earnings of an individual for any workweek which is subject to garnishment to enforce any order for the support of any person shall not exceed—
 
 &emsp;(A) where such individual is supporting his spouse or dependent child (other than a spouse or child with respect to whose support such order is used), 50 per centum of such individual's disposable earnings for that week; and
 

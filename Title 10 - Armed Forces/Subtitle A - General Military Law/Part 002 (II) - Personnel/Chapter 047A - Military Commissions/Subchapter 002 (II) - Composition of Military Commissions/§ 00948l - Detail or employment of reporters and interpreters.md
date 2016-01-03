@@ -6,7 +6,7 @@ Court Reporters.—Under such regulations as the Secretary of Defense may prescr
 
 (b)
 
-Interpreters.—Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter may detail to or employ for the military commission interpreters who shall interpret for the military commission, and, as necessary, for trial counsel and defense counsel for the military commission, and for the accused.
+Interpreters.—Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter may detail to or employ for the military commission interpreters who shall interpret for the military commission, and, as necessary, for trial counsel and defense counselfor the military commission, and for the accused.
 
 (c)
 

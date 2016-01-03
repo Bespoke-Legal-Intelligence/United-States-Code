@@ -42,7 +42,7 @@ Study.—Not later than 4 years after the date of enactment of this Act \[Oct. 3
 
 "(b)
 
-Consultation Requirement.—The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, andtheir employers, and organizations representing older Americans.
+Consultation Requirement.—The Secretary of Labor and the Equal Employment Opportunity Commission shall, during the conduct of the study required under subsection (a) and prior to the development of recommendations under paragraph (1)(C), consult with the United States Fire Administration, the Federal Emergency Management Agency, organizations representing law enforcement officers, firefighters, and their employers, and organizations representing older Americans.
 
 "(c)
 

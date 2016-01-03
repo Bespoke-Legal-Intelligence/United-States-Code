@@ -6,7 +6,7 @@
 
 #### (A) Application of MA information
 
-&emsp;&emsp;A PDP sponsor shall disclose, in a clear, accurate, and standardized form to each enrollee with a prescription drug plan offered by the sponsor under this part at the time of enrollment and at least annually thereafter, the information described in section 1395w–22(c)(1) of this title relating to suchplan, insofar as the Secretary determines appropriate with respect to benefits provided under this part, and including the information described in subparagraph (B).
+&emsp;&emsp;A PDP sponsor shall disclose, in a clear, accurate, and standardized form to each enrollee with a prescription drug plan offered by the sponsor under this part at the time of enrollment and at least annually thereafter, the information described in section 1395w–22(c)(1) of this title relating to such plan, insofar as the Secretary determines appropriate with respect to benefits provided under this part, and including the information described in subparagraph (B).
 
 #### (B) Drug specific information
 
@@ -140,7 +140,7 @@
 
 #### (ii) Model guidelines
 
-&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classificationfrom time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
 
 #### (iii) Limitation on changes in therapeutic classification
 
@@ -230,7 +230,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and that is designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
+&emsp;&emsp;&emsp;A medication therapy management program described in this paragraph is a program of drug therapy management that may be furnished by a pharmacist and thatis designed to assure, with respect to targeted beneficiaries described in clause (ii), that covered part D drugs under the prescription drug plan are appropriately used to optimize therapeutic outcomes through improved medication use, and to reduce the risk of adverse events, including adverse drug interactions. Such a program may distinguish between services in ambulatory and institutional settings.
 
 #### (ii) Targeted beneficiaries described
 
@@ -294,6 +294,26 @@
 
 &emsp;The Secretary shall require PDP sponsors of prescription drug plans to utilize specific, uniform dispensing techniques, as determined by the Secretary, in consultation with relevant stakeholders (including representatives of nursing facilities, residents of nursing facilities, pharmacists, the pharmacy industry (including retail and long-term care pharmacy), prescription drug plans, MA–PD plans, and any other stakeholders the Secretary determines appropriate), such as weekly, daily, or automated dose dispensing, when dispensing covered part D drugs to enrollees who reside in a long-term care facility in order to reduce waste associated with 30-day fills.
 
+#### (4) Requiring valid prescriber National Provider Identifiers on pharmacy claims
+
+#### (A) In general
+
+&emsp;&emsp;For plan year 2016 and subsequent plan years, the Secretary shall require a claim for a covered part D drug for a part D eligible individual enrolled in a prescription drug plan under this part or an MA–PD plan under part C to include a prescriber National Provider Identifier that is determined to be valid under the procedures established under subparagraph (B)(i).
+
+#### (B) Procedures
+
+#### (i) Validity of prescriber National Provider Identifiers
+
+&emsp;&emsp;&emsp;The Secretary, in consultation with appropriate stakeholders, shall establish procedures for determining the validity of prescriber National Provider Identifiers under subparagraph (A).
+
+#### (ii) Informing beneficiaries of reason for denial
+
+&emsp;&emsp;&emsp;The Secretary shall establish procedures to ensure that, in the case that a claim for a covered part D drug of an individual described in subparagraph (A) is denied because the claim does not meet the requirements of this paragraph, the individual is properly informed at the point of service of the reason for the denial.
+
+#### (C) Report
+
+&emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
+
 #### (d) Consumer satisfaction surveys
 
 In order to provide for comparative information under section 1395w–101(c)(3)(A)(v) of this title, the Secretary shall conduct consumer satisfaction surveys with respect to PDP sponsors and prescription drug plans in a manner similar to the manner such surveys are conducted for MA organizations and MA plans under part C of this subchapter.
@@ -302,7 +322,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (1) Application of standards
 
-&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance withsuch standards under an electronic prescription drug program that meets the requirements of paragraph (2).
+&emsp;As of such date as the Secretary may specify, but not later than 1 year after the date of promulgation of final standards under paragraph (4)(D), prescriptions and other information described in paragraph (2)(A) for covered part D drugs prescribed for part D eligible individuals that are transmitted electronically shall be transmitted only in accordance with such standards under an electronic prescription drug program that meets the requirements of paragraph (2).
 
 #### (2) Program requirements
 
@@ -436,7 +456,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;(A) is contrary to the standards or restricts the ability to carry out this part; and
 
-&emsp;&emsp;(B) pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered part D drugs under this part.
+&emsp;&emsp;(B) pertains to the electronic transmission of medication history and of information oneligibility, benefits, and prescriptions with respect to covered part D drugs under this part.
 
 #### (6) Establishment of safe harbor
 
@@ -460,7 +480,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (2) Request for a determination for the treatment of tiered formulary drug
 
-&emsp;In the case of a prescription drug plan offered by a PDP sponsor that provides for tiered cost-sharing for drugs included within a formulary and provides lower cost-sharing for preferred drugs included within the formulary, a part D eligible individual who is enrolled in the plan may request an exception to the tiered cost-sharing structure. Under such an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual or would have adverse effects for the individual or both. A PDP sponsor shall have an exceptions process under thisparagraph consistent with guidelines established by the Secretary for making a determination with respect to such a request. Denial of such an exception shall be treated as a coverage denial for purposes of applying subsection (h) of this section.
+&emsp;In the case of a prescription drug plan offered by a PDP sponsor that provides for tiered cost-sharing for drugs included within a formulary and provides lower cost-sharing for preferred drugs included within the formulary, a part D eligible individual who is enrolled in the plan may request an exception to the tiered cost-sharing structure. Under such an exception, a nonpreferred drug could be covered under the terms applicable for preferred drugs if the prescribing physician determines that the preferred drug for treatment of the same condition either would not be as effective for the individual or would have adverse effects for the individual or both. A PDP sponsor shall have an exceptions process under this paragraph consistent with guidelines established by the Secretary for making a determination with respect to such a request. Denial of such an exception shall be treated as a coverage denial for purposes of applying subsection (h) of this section.
 
 #### (h) Appeals
 
@@ -518,13 +538,15 @@ The following provisions shall apply to a PDP sponsor (and the agents, brokers, 
 
 &emsp;(4) The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964; Pub. L. 114–10, title V, §507, Apr. 16, 2015, 129 Stat. 168.)
 
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(2)(C), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(4). Pub. L. 114–10 added par. (4).
 
 <b>2010</b>—Subsec. (b)(3)(G). Pub. L. 111–148, §3307(a), amended subpar. (G) generally. Prior to amendment, subpar. (G) related to required inclusion of drugs in certain categories and classes.
 

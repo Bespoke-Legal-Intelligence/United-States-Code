@@ -20,7 +20,7 @@ The Secretary of Transportation, and the Secretary of Commerce, in consultation 
 
 &emsp;(4) The classes and categories of users and other persons on whom inland waterway user taxes and charges should be imposed.
 
-&emsp;(5) The waterways of the United States (including the Great Lakes, deep draft channels, and coastal ports) which should be included in any system of user taxes and charges, together with the economic effects of such taxes and charges.
+&emsp;(5) The waterways of the United States (including the Great Lakes, deep draft channels,and coastal ports) which should be included in any system of user taxes and charges, together with the economic effects of such taxes and charges.
 
 &emsp;(6) The use of revenues derived from inland waterway user taxes and charges, including consideration of changes in, or alternatives to, the Trust Fund mechanism.
 
@@ -122,7 +122,7 @@ Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587)
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Short Title
 

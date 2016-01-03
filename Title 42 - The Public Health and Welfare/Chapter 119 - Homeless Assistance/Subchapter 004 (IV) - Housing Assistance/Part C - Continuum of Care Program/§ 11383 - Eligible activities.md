@@ -10,7 +10,7 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 
 &emsp;(3) Leasing of property, or portions of property, not owned by the recipient or project sponsor involved, for use in providing transitional or permanent housing, or providing supportive services.
 
-&emsp;(4) Provision of rental assistance to provide transitional or permanent housing to eligible persons. The rental assistance may include tenant-based, project-based, or sponsor-based rental assistance. Project-based rental assistance, sponsor-based rental assistance, and operating cost assistance contracts carried out by project sponsors receiving grants under this section may, at the discretion of the applicant and the project sponsor, have an initial term of 15 years, with assistance for the first 5 years paid with funds authorized for appropriation under this chapter, and assistance for the remainder of the term treated as a renewal of an expiring contract as provided in section 11386c of this title. Project-based rental assistance may include rental assistance to preserve existing permanent supportive housing for homeless individuals and families.
+&emsp;(4) Provision of rental assistance to provide transitional or permanent housing to eligible persons. The rental assistance may include tenant-based, project-based, or sponsor-based rental assistance. Project-based rental assistance, sponsor-based rental assistance, and operating cost assistance contracts carried out by project sponsors receiving grants under this section may, at the discretion of the applicant and the project sponsor, have an initial term of 15 years, with assistance for the first 5 years paid with funds authorized for appropriation under this chapter, and assistance for the remainder of the term treated as a renewal of an expiring contract as provided in section 11386cof this title. Project-based rental assistance may include rental assistance to preserve existing permanent supportive housing for homeless individuals and families.
 
 &emsp;(5) Payment of operating costs for housing units assisted under this part or for the preservation of housing that will serve homeless individuals and families and for which another form of assistance is expiring or otherwise no longer available.
 
@@ -72,7 +72,7 @@ The Secretary may impose minimum grant terms of up to 5 years for new projects p
 
 &emsp;&emsp;(B) all of the proceeds of the sale or disposition are used to provide transitional or permanent housing meeting the requirements of this part;
 
-&emsp;&emsp;(C) project-based rental assistance or operating cost assistance from any Federal program or an equivalent State or local program is no longer made available and theproject is meeting applicable performance standards, provided that the portion of the project that had benefitted from such assistance continues to meet the tenant income and rent restrictions for low-income units under section 42(g) of title 26; or
+&emsp;&emsp;(C) project-based rental assistance or operating cost assistance from any Federal program or an equivalent State or local program is no longer made available and the project is meeting applicable performance standards, provided that the portion of the project that had benefitted from such assistance continues to meet the tenant income and rent restrictions for low-income units under section 42(g) of title 26; or
 
 &emsp;&emsp;(D) there are no individuals and families in the geographic area who are homeless, in which case the project may serve individuals and families at risk of homelessness.
 
@@ -86,9 +86,9 @@ Any project that receives assistance under subsection (a) and that provides proj
 
 #### (g) Administration of rental assistance
 
-Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, or public housing agency.
+Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
 
-(Pub. L. 100–77, title IV, §423, as added Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684.)
+(Pub. L. 100–77, title IV, §423, as added Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684; amended Pub. L. 114–94, div. G, title LXXIX, §79001, Dec. 4, 2015, 129 Stat. 1792.)
 
 #### References in Text
 
@@ -99,6 +99,10 @@ This chapter, referred to in subsec. (a)(4), was in the original "this Act", mea
 A prior section 11383, Pub. L. 100–77, title IV, §423, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, §1(a)(1) \[title II, §226\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, §605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, §5(b), Aug. 12, 2006, 120 Stat. 759, which related to eligible activities, was repealed by Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684.
 
 Another prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, §833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–94 inserted "private nonprofit organization," after "unit of general local government,".
 
 #### Effective Date
 

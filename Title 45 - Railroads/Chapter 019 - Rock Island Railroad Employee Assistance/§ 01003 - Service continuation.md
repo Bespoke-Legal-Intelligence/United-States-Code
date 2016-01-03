@@ -12,7 +12,7 @@ Notwithstanding the provisions of Public Law 96–131, the Commission shall orde
 
 (1) Not more than $15,000,000 of the funds available for expenditure by the Secretary out of the Railroad Rehabilitation and Improvement Fund established under title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.) may be made available by the Secretary to the Commission for purposes of providing directed service under this section and section 916(b) <sup>1</sup> of this title.
 
-(2) Funds may be made available for directed service under this section without regard to the findings of the Secretary required under title V of the Railroad Revitalization and RegulatoryReform Act of 1976 \[45 U.S.C. 821 et seq.\], and section 516 of such Act (45 U.S.C. 836) shall not apply to any directed service provided with such funds.
+(2) Funds may be made available for directed service under this section without regard to the findings of the Secretary required under title V of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 821 et seq.\], and section 516 of such Act (45 U.S.C. 836) shall not apply to any directed service provided with such funds.
 
 #### (c) Continuation of compensation terms for trackage rights, joint facilities, etc.
 
@@ -34,11 +34,11 @@ Section 916(b) of this title, referred to in subsec. (b)(1), was repealed by Pub
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

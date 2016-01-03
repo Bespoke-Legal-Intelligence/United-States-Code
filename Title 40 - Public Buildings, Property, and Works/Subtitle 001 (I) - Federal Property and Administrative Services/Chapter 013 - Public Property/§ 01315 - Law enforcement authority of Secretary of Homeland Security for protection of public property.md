@@ -24,7 +24,7 @@ Powers.—While engaged in the performance of official duties, an officer or age
 
 &emsp;&emsp;(D) serve warrants and subpoenas issued under the authority of the United States;
 
-&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that may have been committed against propertyowned or occupied by the Federal Government or persons on the property; and
+&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Federal Government or persons on the property; and
 
 &emsp;&emsp;(F) carry out such other activities for the promotion of homeland security as the Secretary may prescribe.
 

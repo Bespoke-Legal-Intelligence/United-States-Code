@@ -1,6 +1,6 @@
 ### §293. Compensation schedules
 
-(a)(1) The Committee on House Oversight of the House of Representatives (hereinafter referred to as the "committee") shall establish and maintain, and, from time to time, may revise, for positions to which this chapter applies (other than positions within the purview of subsection (b) of this section the compensation for which is fixed and adjusted from time to time in accordance with prevailing rates), a compensation schedule of per annum rates, which shall beknown as the "House Employees Schedule" and for which the symbol shall be "HS", subject to the following provisions:
+(a)(1) The Committee on House Oversight of the House of Representatives (hereinafter referred to as the "committee") shall establish and maintain, and, from time to time, may revise, for positions to which this chapter applies (other than positions within the purview of subsection (b) of this section the compensation for which is fixed and adjusted from time to time in accordance with prevailing rates), a compensation schedule of per annum rates, which shall be known as the "House Employees Schedule" and for which the symbol shall be "HS", subject to the following provisions:
 
 &emsp;(A) Such schedule shall be composed of such number of compensation levels as the committee deems appropriate.
 

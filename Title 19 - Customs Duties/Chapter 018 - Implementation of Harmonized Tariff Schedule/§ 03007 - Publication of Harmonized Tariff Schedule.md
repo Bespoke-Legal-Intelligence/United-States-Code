@@ -10,13 +10,13 @@ The Commission shall compile and publish, at appropriate intervals, and keep up 
 
 #### (b) Content
 
-Publications under subsection (a) of this section, in whatever format, shall contain—
+Publications under subsection (a), in whatever format, shall contain—
 
 &emsp;(1) the then current Harmonized Tariff Schedule;
 
 &emsp;(2) statistical annotations and related statistical information formulated under section 1484(f) of this title; and
 
-&emsp;(3) such other matters as the Commission considers to be necessary or appropriate tocarry out the purposes enumerated in the Preamble to the Convention.
+&emsp;(3) such other matters as the Commission considers to be necessary or appropriate to carry out the purposes enumerated in the Preamble to the Convention.
 
 (Pub. L. 100–418, title I, §1207, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 104–295, §21(e)(10), Oct. 11, 1996, 110 Stat. 3531.)
 

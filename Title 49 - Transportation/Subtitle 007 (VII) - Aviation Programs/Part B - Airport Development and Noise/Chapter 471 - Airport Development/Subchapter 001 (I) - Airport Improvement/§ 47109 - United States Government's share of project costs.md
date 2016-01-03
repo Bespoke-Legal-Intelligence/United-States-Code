@@ -10,13 +10,13 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 &emsp;(3) 90 percent for a project at any other airport;
 
-&emsp;(4) 70 percent for a project funded by the Administrator from the discretionary fund undersection 47115 at an airport receiving an exemption under section 47134; and
+&emsp;(4) 70 percent for a project funded by the Administrator from the discretionary fund under section 47115 at an airport receiving an exemption under section 47134; and
 
 &emsp;(5) for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L).<sup>1</sup>
 
 (b)
 
-Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
+Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individualand tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
 
 &emsp;(1) 25 percent;
 
@@ -86,13 +86,13 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(5), 96 Stat. 691; Dec. 30, 1987, Pub. 
 
 In subsection (a), before clause (1), the words "Except as provided in subsections (b) and (c) of this section" are substituted for "Except as otherwise provided in this chapter" because subsections (b) and (c) restate the only parts of the chapter that provide exceptions to the general rule stated in subsection (a). In clauses (1) and (2), the words "for a project" are substituted for "payable on account of any project contained in an approved project grant application submitted in accordance with this chapter" in 49 App.:2209(a) and "payable on account of any project contained in an approved project grant application" in 49 App.:2209(b) for consistency in this chapter and to eliminate unnecessary words. A project cost is allowable only if it is incurred under a grant agreement made under the chapter, and a grant agreement may be made only if the project grant application is approved. In clause (1), the words "number of passenger boardings" are substituted for "enplaning . . . of the . . . passengers enplaned" because of the definition of "passenger boardings" in section 47102 of the revised title.
 
-In subsection (b), the words "If, under subsection (a) of this section, the Government's share of allowable costs . . . is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970" and "(3) the percentage necessary toincrease the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act" are substituted for 49 App.:2209(c) (last sentence) for clarity. The words "of the total of all lands therein" are omitted as surplus.
+In subsection (b), the words "If, under subsection (a) of this section, the Government's share of allowable costs . . . is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970" and "(3) the percentage necessary to increase the Government's share to the percentage that applied on June 30, 1975, under section 17(b) of the Act" are substituted for 49 App.:2209(c) (last sentence) for clarity. The words "of the total of all lands therein" are omitted as surplus.
 
 In subsection (c), the words "Notwithstanding subsections (a) and (b) of this section" are substituted for "Notwithstanding any other provision of this chapter" because subsections (a) and (b) are the only other parts of the chapter that specify the United States Government's share of allowable project costs.
 
 #### References in Text
 
-Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), were repealed and new subpars. (J), (K), and (L) were added or designated, by Pub. L. 108–176, title I, §159(b)(1), Dec. 12, 2003, 117 Stat. 2510.
+Subpars. (J), (K), and (L) of section 47102(3), referred to in subsec. (a)(5), were repealed and new subpars. (J),\(K), and (L) were added or designated, by Pub. L. 108–176, title I, §159(b)(1), Dec. 12, 2003, 117 Stat. 2510.
 
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 

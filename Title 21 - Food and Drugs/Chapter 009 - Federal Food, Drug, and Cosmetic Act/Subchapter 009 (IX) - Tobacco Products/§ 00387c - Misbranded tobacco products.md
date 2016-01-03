@@ -18,7 +18,7 @@ A tobacco product shall be deemed to be misbranded—
 
 > &emsp;except that under subparagraph (B) reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary;
 
-&emsp;(3) if any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, or designs in the labeling)and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;(3) if any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, or designs in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;(4) if it has an established name, unless its label bears, to the exclusion of any other nonproprietary name, its established name prominently printed in type as required by the Secretary by regulation;
 

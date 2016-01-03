@@ -56,11 +56,11 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 #### (2) Procedures applicable
 
-&emsp;The same procedures and limitations as are provided with respect to civil investigative demands in subsections (g), (h), and (j) of section 1968 of title 18 apply with respect to a subpoena issued under this subsection. Process required by such subsections to be served uponthe custodian shall be served on the Attorney General. Failure to comply with an order of the court to enforce such subpoena shall be punishable as contempt.
+&emsp;The same procedures and limitations as are provided with respect to civil investigative demands in subsections (g), (h), and (j) of section 1968 of title 18 apply with respect to a subpoena issued under this subsection. Process required by such subsections to be served upon the custodian shall be served on the Attorney General. Failure to comply with an order of the court to enforce such subpoena shall be punishable as contempt.
 
 #### (3) Limitation
 
-&emsp;In the case of a subpoena for which the return date is less than 5 days after the date of service, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
+&emsp;In the case of a subpoena for which the return date is less than 5 days after the date ofservice, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
 
 #### (h) Statute of limitations
 

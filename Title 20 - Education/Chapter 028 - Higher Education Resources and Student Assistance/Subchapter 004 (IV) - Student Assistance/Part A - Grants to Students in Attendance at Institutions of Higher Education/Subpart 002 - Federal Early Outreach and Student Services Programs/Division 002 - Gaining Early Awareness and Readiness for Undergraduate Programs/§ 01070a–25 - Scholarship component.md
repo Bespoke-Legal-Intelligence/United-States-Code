@@ -68,7 +68,7 @@ The maximum amount of a scholarship that an eligible student shall be eligible t
 
 #### (f) Relation to other assistance
 
-Scholarships provided under this section shall not be considered for the purpose of awarding Federal grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter and part C of subchapter I of chapter 34 of title 42 exceed such student's total cost of attendance.
+Scholarships provided under this section shall not be considered for the purpose of awardingFederal grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter and part C of subchapter I of chapter 34 of title 42 exceed such student's total cost of attendance.
 
 #### (g) Eligible students
 

@@ -16,7 +16,7 @@ Subsec. (c). Pub. L. 94–317, §204(e)(1), struck out subsec. (c) which provide
 
 Subsec. (d). Pub. L. 94–317, §204(e)(2), redesignated subsec. (d) as (b).
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–151, §7(a), provided for appropriations authorization of $25,000,000 for fiscalyears 1974 and 1975 for carrying out subchapter I provisions.
+<b>1973</b>—Subsec. (a). Pub. L. 93–151, §7(a), provided for appropriations authorization of $25,000,000 for fiscal years 1974 and 1975 for carrying out subchapter I provisions.
 
 Subsec. (b). Pub. L. 93–151, §7(b), provided for appropriations authorization of $35,000,000 for fiscal years 1974 and 1975 for carrying out subchapter II provisions.
 

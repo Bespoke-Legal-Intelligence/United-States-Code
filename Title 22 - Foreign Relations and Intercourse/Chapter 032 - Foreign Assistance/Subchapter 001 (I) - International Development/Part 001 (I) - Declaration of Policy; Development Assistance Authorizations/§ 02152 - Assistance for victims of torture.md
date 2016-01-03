@@ -94,7 +94,7 @@ Assistance for Treatment of Torture Victims.—The Secretary of Health and Human
 
 &emsp;"(2) Social and legal services for victims of torture.
 
-&emsp;"(3) Research and training for health care providers outside of treatment centers, or programs for the purpose of enabling such providers to provide the services described in paragraph (1).
+&emsp;"(3) Research and training for health care providers outside of treatment centers, or programs for thepurpose of enabling such providers to provide the services described in paragraph (1).
 
 "(b)
 
@@ -136,7 +136,7 @@ Sense of the Congress.—It is the sense of the Congress that the President, act
 
 &emsp;&emsp;"(B) to encourage the development of new such centers and programs;
 
-&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and OtherCruel, Inhuman or Degrading Treatment or Punishment; and
+&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
 
 &emsp;"(3) use the voice and vote of the United States to establish a country rapporteur or similar procedural mechanism to investigate human rights violations in a country if either the Special Rapporteur or the Committee Against Torture indicates that a systematic practice of torture is prevalent in that country.
 

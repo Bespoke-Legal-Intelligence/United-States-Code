@@ -82,7 +82,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;&emsp;(i) policies designed to assist State Long-Term Care Ombudsmen; and
 
-&emsp;&emsp;(ii) methods to periodically monitor and evaluate the operation of State Long-Term Care Ombudsman programs, to ensure that the programs satisfy the requirements of section 3027(a)(9) of this title and section3058g of this title, including provision of service to residents of board and care facilities and of similar adult care facilities;
+&emsp;&emsp;(ii) methods to periodically monitor and evaluate the operation of State Long-Term Care Ombudsman programs, to ensure that the programs satisfy the requirements of section 3027(a)(9) of this title and section 3058g of this title, including provision of service to residents of board and care facilities and of similar adult care facilities;
 
 &emsp;(D) keep the Assistant Secretary and the Secretary fully and currently informed about—
 
@@ -148,7 +148,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201,Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Modification of Delegation of Functions of Commissioner on Aging in Effect on July 12, 1974
 
-Pub. L. 93–351, §2(b), July 12, 1974, 88 Stat. 357, provided that: "Any delegation of the functions of theCommissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\]."
+Pub. L. 93–351, §2(b), July 12, 1974, 88 Stat. 357, provided that: "Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

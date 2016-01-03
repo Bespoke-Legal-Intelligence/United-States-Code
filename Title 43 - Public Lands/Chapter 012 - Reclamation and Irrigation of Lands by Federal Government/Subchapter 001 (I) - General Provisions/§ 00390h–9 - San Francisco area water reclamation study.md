@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary, in cooperation with the city and county of San Francisco, shall conduct a feasibility study of the potential for development of demonstration and permanent facilities to reclaim water in the San Francisco area for the purposes of export and reuse elsewhere in California.
+The Secretary, in cooperation with the city and county of San Francisco, shall conduct a feasibility study of the potential for development of demonstration and permanent facilities to reclaim water in the San Francisco area forthe purposes of export and reuse elsewhere in California.
 
 #### (b) Federal share
 

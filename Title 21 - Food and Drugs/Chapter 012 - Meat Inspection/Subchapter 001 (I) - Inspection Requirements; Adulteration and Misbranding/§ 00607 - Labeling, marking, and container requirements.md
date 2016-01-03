@@ -2,7 +2,7 @@
 
 #### (a) Labeling receptacles or coverings of meat or meat food products inspected and passed; supervision by inspectors
 
-When any meat or meat food product prepared for commerce which has been inspected as hereinbefore provided and marked "Inspected and passed" shall be placed or packed in any can, pot, tin, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained, the person, firm, or corporation preparing said product shall cause a label to be attached to said can, pot, tin, canvas, or other receptacle or covering, under the supervision of an inspector, which label shall state that the contents thereof have been "inspected and passed" under the provisions of this chapter; and no inspection and examination of meat or meat food products deposited or inclosed in cans, tins, pots, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained shall be deemed to be complete until such meat or meat food products have been sealed or inclosed in said can, tin, pot, canvas, or other receptacle or covering under the supervision of an inspector.
+When any meat or meat food product prepared for commerce which has been inspected as hereinbefore provided and marked "Inspected and passed" shall be placed or packed in any can,pot, tin, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained, the person, firm, or corporation preparing said product shall cause a label to be attached to said can, pot, tin, canvas, or other receptacle or covering, under the supervision of an inspector, which label shall state that the contents thereof have been "inspected and passed" under the provisions of this chapter; and no inspection and examination of meat or meat food products deposited or inclosed in cans, tins, pots, canvas, or other receptacle or covering in any establishment where inspection under the provisions of this chapter is maintained shall be deemed to be complete until such meat or meat food products have been sealed or inclosed in said can, tin, pot, canvas, or other receptacle or covering under the supervision of an inspector.
 
 #### (b) Information on articles or containers; legible form
 
@@ -14,7 +14,7 @@ The Secretary, whenever he determines such action is necessary for the protectio
 
 #### (d) Sales under false or misleading name, other marking or labeling or in containers of misleading form or size; trade names, and other marking, labeling, and containers approved by Secretary
 
-No article subject to this subchapter shall be sold or offered for sale by any person, firm, or corporation, in commerce, under any name orother marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
+No article subject to this subchapter shall be sold or offered for sale by any person, firm, or corporation, in commerce, under any name or other marking or labeling which is false or misleading, or in any container of a misleading form or size, but established trade names and other marking and labeling and containers which are not false or misleading and which are approved by the Secretary are permitted.
 
 #### (e) Use withholding directive respecting false or misleading marking, labeling, or container; modification of false or misleading matter; hearing; withholding use pending proceedings; finality of Secretary's action; judicial review; application of section 194 of title 7
 
@@ -28,9 +28,9 @@ The Secretary, consistent with United States international obligations, shall es
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
+Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under section 601 of this title and Tables.
 
 #### Codification
 

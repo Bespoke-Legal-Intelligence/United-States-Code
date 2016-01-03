@@ -32,7 +32,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 (b)
 
-Deployment Defined.—(1) For the purposes of this section, a member of the armedforces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
+Deployment Defined.—(1) For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
 (2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanent change of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
@@ -124,7 +124,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to orders that do not establish a permanent change of station, the member is performing the active service at a location that—
+"(2) In the case of a member of a reserve component performing active service, the member shall be considered deployed or in a deployment for the purposes of paragraph (1) on any day on which, pursuant to ordersthat do not establish a permanent change of station, the member is performing the active service at a location that—
 
 &emsp;"(A) is not the member's permanent training site; and
 

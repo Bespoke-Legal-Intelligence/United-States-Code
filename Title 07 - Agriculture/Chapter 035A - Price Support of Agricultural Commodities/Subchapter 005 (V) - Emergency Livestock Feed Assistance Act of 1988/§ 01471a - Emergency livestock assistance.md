@@ -1,6 +1,6 @@
 ### §1471a. Emergency livestock assistance
 
-(a) The Secretary shall provide emergency feed assistance under this subchapter for thepreservation and maintenance of livestock in any State or area of a State where, because of disease, insect infestation, flood, drought, fire, hurricane, earthquake, storm, hot weather, or other natural disaster, the Secretary determines that a livestock emergency exists.
+(a) The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock in any State or area of a State where, because of disease, insect infestation, flood, drought, fire, hurricane, earthquake, storm, hot weather, or other natural disaster, the Secretary determines that a livestock emergency exists.
 
 (b)(1) The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock, to livestock producers that—
 

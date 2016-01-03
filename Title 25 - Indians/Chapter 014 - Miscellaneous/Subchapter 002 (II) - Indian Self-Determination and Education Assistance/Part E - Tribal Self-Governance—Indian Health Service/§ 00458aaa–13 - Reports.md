@@ -4,15 +4,15 @@
 
 #### (1) In general
 
-&emsp;Not later than January 1 of each year after August 18, 2000, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a written report regarding the administration of this part.
+&emsp;Not later than January 1 of each year after August 18, 2000, the Secretary shall submit tothe Committee on Indian Affairs of the Senate and the Committee on Resources of the House of Representatives a written report regarding the administration of this part.
 
 #### (2) Analysis
 
-&emsp;The report under paragraph (1) shall include a detailed analysis of the level of need being presently funded or unfunded for each Indian tribe, either directly by the Secretary, under self-determination contracts under part A of this subchapter, or under compacts and funding agreements authorized under this subchapter. In compiling reports pursuant to thissection, the Secretary may not impose any reporting requirements on participating Indian tribes or tribal organizations, not otherwise provided in this subchapter.
+&emsp;The report under paragraph (1) shall include a detailed analysis of the level of need being presently funded or unfunded for each Indian tribe, either directly by the Secretary, under self-determination contracts under part A of this subchapter, or under compacts and funding agreements authorized under this subchapter. In compiling reports pursuant to this section, the Secretary may not impose any reporting requirements on participating Indian tribes or tribal organizations, not otherwise provided in this subchapter.
 
 #### (b) Contents
 
-The report under subsection (a) of this section shall—
+The report under subsection (a) shall—
 
 &emsp;(1) be compiled from information contained in funding agreements, annual audit reports, and data of the Secretary regarding the disposition of Federal funds; and
 
@@ -24,7 +24,7 @@ The report under subsection (a) of this section shall—
 
 &emsp;&emsp;(C) the funds transferred to each self-governance Indian tribe and the corresponding reduction in the Federal bureaucracy;
 
-&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
+&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c); and
 
 &emsp;&emsp;(E) amounts expended in the preceding fiscal year to carry out inherent Federal functions, including an identification of those functions by type and location;
 

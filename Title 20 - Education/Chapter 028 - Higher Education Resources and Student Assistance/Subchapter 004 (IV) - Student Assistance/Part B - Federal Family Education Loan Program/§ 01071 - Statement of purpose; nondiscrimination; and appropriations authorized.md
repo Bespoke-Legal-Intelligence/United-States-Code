@@ -16,7 +16,7 @@
 
 #### (2) Discrimination by creditors prohibited
 
-&emsp;No agency, organization, institution, bank, credit union, corporation, or other lender who regularly extends, renews, or continues credit or provides insurance under this part shall exclude from receipt or deny the benefits of, or discriminate against any borrower or applicant in obtaining, such credit or insurance on the basis of race, national origin, religion, sex, marital status, age, or handicapped status.
+&emsp;No agency, organization, institution, bank, credit union, corporation, or other lender whoregularly extends, renews, or continues credit or provides insurance under this part shall exclude from receipt or deny the benefits of, or discriminate against any borrower or applicant in obtaining, such credit or insurance on the basis of race, national origin, religion, sex, marital status, age, or handicapped status.
 
 #### (b) Authorization of appropriations
 
@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 111–152, §2201(2), added subsec. (d).
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provision identifying loans made under this part as "Stafford Loans".
+<b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provisionidentifying loans made under this part as "Stafford Loans".
 
 Pub. L. 100–297 added subsec. (c).
 

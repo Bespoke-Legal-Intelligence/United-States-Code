@@ -22,7 +22,7 @@ Notwithstanding section 7421(a), any action which violates subsection (a) may be
 
 #### (B) Special rule
 
-&emsp;&emsp;If an electing large partnership is a partner in another electing large partnership, any adjustment on account of such partnership's failure to comply with the requirements of section 6241(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
+&emsp;&emsp;If an electing large partnership is a partner in another electing large partnership,any adjustment on account of such partnership's failure to comply with the requirements of section 6241(a) with respect to its interest in such other partnership shall be treated as an adjustment referred to in subparagraph (A), except that paragraph (2) of section 6213(b) shall not apply to such adjustment.
 
 #### (2) Partnership may waive restrictions
 
@@ -33,4 +33,12 @@ Notwithstanding section 7421(a), any action which violates subsection (a) may be
 If no proceeding under section 6247 is begun with respect to any notice of a partnership adjustment during the 90-day period described in subsection (a), the amount for which the partnership is liable under section 6242 (and any increase in any partner's liability for tax under chapter 1 by reason of any adjustment under section 6242(a)) shall not exceed the amount determined in accordance with such notice.
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1013.)
+
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 

@@ -66,7 +66,7 @@ If the Secretary determines that use of a market mechanism under subsection (b) 
 
 #### (E) Exercise price
 
-&emsp;&emsp;The exercise price for any warrant issued pursuant to this subsection shall be set by the Secretary, in the interest of the taxpayers.
+&emsp;&emsp;The exercise price for any warrant issued pursuant to this subsection shall be set bythe Secretary, in the interest of the taxpayers.
 
 #### (F) Sufficiency
 

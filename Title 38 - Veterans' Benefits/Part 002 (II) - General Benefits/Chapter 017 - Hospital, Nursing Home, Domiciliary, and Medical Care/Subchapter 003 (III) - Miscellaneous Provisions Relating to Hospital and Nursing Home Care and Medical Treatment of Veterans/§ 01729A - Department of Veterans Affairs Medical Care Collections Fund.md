@@ -40,7 +40,7 @@
 
 #### References in Text
 
-Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(10), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec.\(b)(10), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

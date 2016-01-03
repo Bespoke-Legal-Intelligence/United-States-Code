@@ -6,7 +6,7 @@ A franchising authority may establish requirements in a franchise with respect t
 
 #### (b) Authority to require designation for public, educational, or governmental use
 
-A franchising authority may in its request for proposals require as part of a franchise, and may require as part of a cable operator's proposal for a franchise renewal, subject to section 546 of this title, that channel capacity be designated for public, educational, or governmental use, and channel capacity on institutional networks be designated for educational or governmental use, and may require rules and procedures for the use of the channel capacity designated pursuant to this section.
+A franchising authority may in its request for proposals require as part of a franchise, and may require as part of a cable operator's proposal for a franchise renewal, subject to section 546 of this title, that channel capacity be designated for public, educational, or governmental use, and channel capacity on institutional networks be designated for educational or governmental use, and may require rules and procedures forthe use of the channel capacity designated pursuant to this section.
 
 #### (c) Enforcement authority
 
@@ -36,7 +36,7 @@ For purposes of this section, the term "institutional network" means a communica
 
 #### Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) ofPub. L. 98–549, set out as a note under section 521 of this title.
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 
 #### Regulations
 

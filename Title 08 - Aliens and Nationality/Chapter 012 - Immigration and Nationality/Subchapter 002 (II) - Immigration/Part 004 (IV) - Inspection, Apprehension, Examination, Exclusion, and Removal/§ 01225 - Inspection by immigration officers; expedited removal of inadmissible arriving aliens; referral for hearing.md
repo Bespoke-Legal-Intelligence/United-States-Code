@@ -8,7 +8,7 @@
 
 #### (2) Stowaways
 
-&emsp;An arriving alien who is a stowaway is not eligible to apply for admission or to be admitted and shall be ordered removed upon inspection by an immigration officer. Upon such inspection if the alien indicates an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview under subsection (b)(1)(B) of this section. A stowaway may apply for asylum only if the stowaway is found to have a credible fear of persecution under subsection (b)(1)(B) of this section. In no case may a stowaway be considered an applicant for admission or eligible for a hearing under section 1229a of this title.
+&emsp;An arriving alien who is a stowaway is not eligible to apply for admission or to be admitted and shall be ordered removed upon inspection by an immigration officer. Upon such inspection if the alien indicates an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview under subsection (b)(1)(B). A stowaway may apply for asylum only if the stowaway is found to have a credible fear of persecution under subsection (b)(1)(B). In no case may a stowaway be considered an applicant for admission or eligible for a hearing under section 1229a of this title.
 
 #### (3) Inspection
 
@@ -34,7 +34,7 @@
 
 #### (ii) Claims for asylum
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of thistitle or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
 
 #### (iii) Application to certain other aliens
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) has had professional training in country conditions, asylum law, and interview techniques comparable to that provided to full-time adjudicators of applications under section 1158 of this title, and
 
-&emsp;&emsp;&emsp;(ii) is supervised by an officer who meets the condition described in clause (i) andhas had substantial experience adjudicating asylum applications.
+&emsp;&emsp;&emsp;(ii) is supervised by an officer who meets the condition described in clause (i) and has had substantial experience adjudicating asylum applications.
 
 #### (F) Exception
 
@@ -180,7 +180,7 @@
 
 #### (4) Subpoena authority
 
-&emsp;(A) The Attorney General and any immigration officer shall have power to require by subpoena the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to the privilege of any person to enter, reenter, reside in, or pass through the United States or concerning any matter whichis material and relevant to the enforcement of this chapter and the administration of the Service, and to that end may invoke the aid of any court of the United States.
+&emsp;(A) The Attorney General and any immigration officer shall have power to require by subpoena the attendance and testimony of witnesses before immigration officers and the production of books, papers, and documents relating to the privilege of any person to enter, reenter, reside in, or pass through the United States or concerning any matter which is material and relevant to the enforcement of this chapter and the administration of the Service, and to that end may invoke the aid of any court of the United States.
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
@@ -254,5 +254,5 @@ Report.—By not later than 18 months after the date of the enactment of this Ac
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference toan order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 

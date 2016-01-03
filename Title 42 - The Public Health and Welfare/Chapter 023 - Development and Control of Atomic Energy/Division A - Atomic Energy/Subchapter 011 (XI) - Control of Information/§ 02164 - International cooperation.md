@@ -24,13 +24,13 @@ The President may authorize the Department of Defense, with the assistance of th
 
 &emsp;(1) the development of defense plans;
 
-&emsp;(2) the training of personnel in the employment of and defense against atomic weapons and other military applications of atomic energy;
+&emsp;(2) the training of personnel in the employment of and defense against atomic weaponsand other military applications of atomic energy;
 
 &emsp;(3) the evaluation of the capabilities of potential enemies in the employment of atomic weapons and other military applications of atomic energy; and
 
 &emsp;(4) the development of compatible delivery systems for atomic weapons;
 
-> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security:<i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
+> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
 
 #### (c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors
 
@@ -88,5 +88,5 @@ Authority vested in President by subsecs. (b) and (c) of this section delegated 
 
 #### Prohibition on Inspections
 
-Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a note under this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to section 2651(a) of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a noteunder this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to section 2651(a) of Title 50, War and National Defense.
 

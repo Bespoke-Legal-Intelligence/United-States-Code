@@ -2,7 +2,7 @@
 
 (a) Because of the long-standing importance of volunteerism throughout American history, it is the policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of individuals of all ages and backgrounds.
 
-(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
+(b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extentthe programs authorized under this chapter, coordinate with other Federal, State, and local agencies, expand relationships with, and support for, the efforts of civic, community, and educational organizations, and utilize the energy, innovative spirit, experience, and skills of all Americans.
 
 (Pub. L. 93–113, §2, as added Pub. L. 99–551, §2(a), Oct. 27, 1986, 100 Stat. 3071; amended Pub. L. 103–82, title IV, §405(a)(1), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2002, Apr. 21, 2009, 123 Stat. 1581.)
 
@@ -36,7 +36,7 @@ Pub. L. 103–82, title III, §311(a), Sept. 21, 1993, 107 Stat. 898, provided t
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–204, §1(a), Dec. 7, 1989, 103 Stat. 1806, provided that: "This Act \[enacting sections 4960, 5000, 5025,5026, and 5027 of this title, amending sections 4952 to 4955, 4958, 4959, 4971, 4974, 4992 to 4994, 5001, 5011 to 5013, 5021, 5024, 5041, 5047, 5056, 5061, 5081, 5082, 5084, 5671, 5715, 5751, 5773, 5775, 5777, 9910b, 11803, 11825, 11842, and 11851 of this title, enacting provisions set out as a note under section 4954 of this title, and amending provisions set out as a note under section 5601 of this title\] may be cited as the 'Domestic Volunteer Service Act Amendments of 1989'."
+Pub. L. 101–204, §1(a), Dec. 7, 1989, 103 Stat. 1806, provided that: "This Act \[enacting sections 4960, 5000, 5025, 5026, and 5027 of this title, amending sections 4952 to 4955, 4958, 4959, 4971, 4974, 4992 to 4994, 5001, 5011 to 5013, 5021, 5024, 5041, 5047, 5056, 5061, 5081, 5082, 5084, 5671, 5715, 5751, 5773, 5775, 5777, 9910b, 11803, 11825, 11842, and 11851 of this title, enacting provisions set out as a note under section 4954 of this title, and amending provisions set out as a note under section 5601 of this title\] may be cited as the 'Domestic Volunteer Service Act Amendments of 1989'."
 
 #### Short Title of 1986 Amendment
 

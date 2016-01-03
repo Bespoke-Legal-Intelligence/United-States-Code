@@ -14,7 +14,7 @@ Core capacity improvement project.—The term "core capacity improvement project
 
 &emsp;(3)
 
-Corridor-based bus rapid transit project.—The term "corridor-based bus rapid transit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays and weekend days; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+Corridor-based bus rapid transit project.—The term "corridor-based bus rapid transit project" means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
 
 &emsp;(4)
 
@@ -46,17 +46,17 @@ New fixed guideway capital project.—The term "new fixed guideway capital proje
 
 Program of interrelated projects.—The term "program of interrelated projects" means the simultaneous development of—
 
-&emsp;&emsp;(A) 2 or more new fixed guideway capital projects or core capacity improvement projects; or
+&emsp;&emsp;(A) 2 or more new fixed guideway capital projects, small start projects, or core capacity improvement projects; or
 
-&emsp;&emsp;(B) 1 or more new fixed guideway capital projects and 1 or more core capacity improvement projects.
+&emsp;&emsp;(B) 2 or more projects that are any combination of new fixed guideway capital projects, small start projects, and core capacity improvement projects.
 
 &emsp;(7)
 
 Small start project.—The term "small start project" means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
 
-&emsp;&emsp;(A) the Federal assistance provided or to be provided under this section is less than $75,000,000; and
+&emsp;&emsp;(A) the Federal assistance provided or to be provided under this section is less than $100,000,000; and
 
-&emsp;&emsp;(B) the total estimated net capital cost is less than $250,000,000.
+&emsp;&emsp;(B) the total estimated net capital cost is less than $300,000,000.
 
 (b)
 
@@ -126,7 +126,7 @@ Entrance into project development phase.—A new fixed guideway capital project 
 
 &emsp;&emsp;(B)
 
-Activities during project development phase.—Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
+Activities during project development phase.—Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification and local financial commitment under this subsection.
 
 &emsp;&emsp;(C)
 
@@ -138,7 +138,7 @@ In general.—Not later than 2 years after the date on which a project enters in
 
 &emsp;&emsp;&emsp;(ii)
 
-Extension of time.—Upon the request of an applicant, the Secretary mayextend the time period under clause (i), if the applicant submits to the Secretary—
+Extension of time.—Upon the request of an applicant, the Secretary may extend the time period under clause (i), if the applicant submits to the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(I) a reasonable plan for completing the activities required under this paragraph; and
 
@@ -156,11 +156,9 @@ In general.—A new fixed guideway capital project may advance to the engineerin
 
 &emsp;&emsp;&emsp;(ii) is adopted into the metropolitan transportation plan required under section 5303;
 
-&emsp;&emsp;&emsp;(iii) is justified based on a comprehensive review of the project's mobility improvements, the project's environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project's cost-effectiveness as measured by cost per rider;
+&emsp;&emsp;&emsp;(iii) is justified based on a comprehensive review of the project's mobility improvements, the project's environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies andland use patterns of the project that support public transportation, and the project's cost-effectiveness as measured by cost per rider; and
 
-&emsp;&emsp;&emsp;(iv) is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and
-
-&emsp;&emsp;&emsp;(v) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
+&emsp;&emsp;&emsp;(iv) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
 
 &emsp;&emsp;(B)
 
@@ -298,7 +296,7 @@ Ratings.—
 
 Overall rating.—In making a determination under paragraph (1), the Secretary shall evaluate and rate a project as a whole on a 5-point scale (high, medium-high, medium, medium-low, or low) based on—
 
-&emsp;&emsp;&emsp;(i) in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), the policies and land use patterns that support public transportation, and the degree of local financial commitment; and
+&emsp;&emsp;&emsp;(i) in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), and the degree of local financial commitment; and
 
 &emsp;&emsp;&emsp;(ii) in the case of a core capacity improvement project, the capacity needs of the corridor, the project justification criteria under subsection (e)(2)(A)(iv), and the degree of local financial commitment.
 
@@ -346,7 +344,7 @@ Policy guidance.—The Secretary shall issue policy guidance regarding the revie
 
 Rules.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue rules establishing an evaluation and rating process for—
 
-&emsp;&emsp;(A) new fixed guideway capital projects that is based on the results of project justification, policies and land use patterns that promote public transportation, and local financial commitment, as required under this subsection; and
+&emsp;&emsp;(A) new fixed guideway capital projects that is based on the results of project justification, policies and land use patternsthat promote public transportation, and local financial commitment, as required under this subsection; and
 
 &emsp;&emsp;(B) core capacity improvement projects that is based on the results of the capacity needs of the corridor, project justification, and local financial commitment.
 
@@ -406,7 +404,15 @@ Evaluation of local financial commitment.—For purposes of paragraph (3)(C), th
 
 &emsp;(6)
 
-Ratings.—In carrying out paragraphs (4) and (5) for a small start project, the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on an evaluation of the benefits of the project as compared to the Federal assistance to be provided and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to thebenefits that the project will bring to the community in calculating the overall project rating.
+Ratings.—
+
+&emsp;&emsp;(A)
+
+In general.—In carrying out paragraphs (4) and (5) for a small start project, the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on an evaluation of the benefits of the project as compared to the Federal assistance to be provided and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to the benefits that the project will bring to the community in calculating the overall project rating.
+
+&emsp;&emsp;(B)
+
+Optional early rating.—At the request of the project sponsor, the Secretary shall evaluate and rate the project in accordance with paragraphs (4) and (5) and subparagraph (A) of this paragraph upon completion of the analysis required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;(7)
 
@@ -430,11 +436,11 @@ Programs of Interrelated Projects.—
 
 &emsp;(1)
 
-Project development phase.—A federally funded project in a program of interrelated projects shall advance through project development as provided in subsection (d) or (e), as applicable.
+Project development phase.—A federally funded project in a program of interrelated projects shall advance through project development as provided in subsection (d), (e), or (h), as applicable.
 
 &emsp;(2)
 
-Engineering phase.—A federally funded project in a program of interrelated projects may advance into the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that—
+Engineering phase.—A federally funded new fixed guideway capital project or core capacity improvement project in a program of interrelated projects may advance into the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that—
 
 &emsp;&emsp;(A) the project is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969;
 
@@ -442,11 +448,21 @@ Engineering phase.—A federally funded project in a program of interrelated pro
 
 &emsp;&emsp;(C) the program of interrelated projects involves projects that have a logical connectivity to one another;
 
-&emsp;&emsp;(D) the program of interrelated projects, when evaluated as a whole, meets the requirements of subsection (d)(2) or (e)(2), as applicable;
+&emsp;&emsp;(D) the program of interrelated projects, when evaluated as a whole—
+
+&emsp;&emsp;&emsp;(i) meets the requirements of subsection (d)(2), subsection (e)(2), or paragraphs (3) and (4) of subsection (h), as applicable, if the program is comprised entirely of—
+
+&emsp;&emsp;&emsp;&emsp;(I) new fixed guideway capital projects;
+
+&emsp;&emsp;&emsp;&emsp;(II) core capacity improvement projects; or
+
+&emsp;&emsp;&emsp;&emsp;(III) small start projects; or
+
+&emsp;&emsp;&emsp;(ii) meets the requirements of subsection (d)(2) if the program is comprised of any combination of new fixed guideway capital projects, small start projects, and core capacity improvement projects;
 
 &emsp;&emsp;(E) the program of interrelated projects is supported by a program implementation plan demonstrating that construction will begin on each of the projects in the program of interrelated projects within a reasonable time frame; and
 
-&emsp;&emsp;(F) the program of interrelated projects is supported by an acceptable degree of local financial commitment, as described in subsection (f).
+&emsp;&emsp;(F) the program of interrelated projects is supported by an acceptable degree of local financial commitment, as described in subsection (f) or subsection (h)(5), as applicable.
 
 &emsp;(3)
 
@@ -454,7 +470,11 @@ Project advancement and ratings.—
 
 &emsp;&emsp;(A)
 
-Project advancement.—A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
+Project advancement.—A project receiving a grant under this section that is part of a program of interrelated projects may not advance—
+
+&emsp;&emsp;&emsp;(i) in the case of a small start project, from the project development phase to the construction phase unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a new fixed guideway capital project or a core capacity improvement project, from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
 
 &emsp;&emsp;(B)
 
@@ -680,7 +700,31 @@ Government Share of Net Capital Project Cost.—
 
 &emsp;(1)
 
-In general.—Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost. A grant for a fixed guideway project or small start project shall not exceed 80 percent of the net capital project cost. A grant for a core capacity project shall not exceed 80 percent of the net capital project cost of the incremental cost of increasing the capacity in the corridor.
+In general.—
+
+&emsp;&emsp;(A)
+
+Estimation of net capital project cost.—Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost.
+
+&emsp;&emsp;(B)
+
+Grants.—
+
+&emsp;&emsp;&emsp;(i)
+
+Grant for new fixed guideway capital project.—A grant for a new fixed guideway capital project shall not exceed 80 percent of the net capital project cost.
+
+&emsp;&emsp;&emsp;(ii)
+
+Full funding grant agreement for new fixed guideway capital project.—A full funding grant agreement for a new fixed guideway capital project shall not include a share of more than 60 percent from the funds made available under this section.
+
+&emsp;&emsp;&emsp;(iii)
+
+Grant for core capacity improvement project.—A grant for a core capacity improvement project shall not exceed 80 percent of the net capital project cost of the incremental cost to increase the capacity in the corridor.
+
+&emsp;&emsp;&emsp;(iv)
+
+Grant for small start project.—A grant for a small start project shall not exceed 80 percent of the net capital project costs.
 
 &emsp;(2)
 
@@ -696,7 +740,13 @@ Maximum government share.—The Secretary may provide a higher grant percentage 
 
 &emsp;(4)
 
-Remainder of net capital project cost.—The remainder of the net capital project cost shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+Remaining costs.—The remainder of the net capital project costs shall be provided—
+
+&emsp;&emsp;(A) in cash from non-Government sources;
+
+&emsp;&emsp;(B) from revenues from the sale of advertising and concessions; or
+
+&emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
 &emsp;(5)
 
@@ -754,7 +804,7 @@ Availability of Amounts.—
 
 &emsp;(1)
 
-In general.—An amount made available or appropriated for a new fixed guideway capital project or core capacity improvement project shall remain available to that project for 5 fiscal years, including the fiscal year in which the amount is made available or appropriated. Any amounts that are unobligated to the project at the end of the 5-fiscal-year period may be used by the Secretary for any purpose under this section.
+In general.—An amount made available or appropriated for a new fixed guideway capital project or core capacity improvement project shall remain available to that project for 4 fiscal years, including the fiscal year in which the amount is made available or appropriated. Any amounts that are unobligated to the project at the end of the 4-fiscal-year period may be used by the Secretary for any purpose under this section.
 
 &emsp;(2)
 
@@ -790,7 +840,55 @@ Biennial gao review.—The Comptroller General of the United States shall—
 
 &emsp;&emsp;(B) report to Congress on the results of such review by May 31 of each year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984.)
+(p)
+
+Special Rule.—For the purposes of calculating the cost effectiveness of a project described in subsection (d) or (e), the Secretary shall not reduce or eliminate the capital costs of art and non-functional landscaping elements from the annualized capital cost calculation.
+
+(q)
+
+Joint Public Transportation and Intercity Passenger Rail Projects.—
+
+&emsp;(1)
+
+In general.—The Secretary may make grants for new fixed guideway capital projects and core capacity improvement projects that provide both public transportation and intercity passenger rail service.
+
+&emsp;(2)
+
+Eligible costs.—Eligible costs for a project under this subsection shall be limited to the net capital costs of the public transportation costs attributable to the project based on projected use of the new segment or expanded capacity of the project corridor, not including project elements designed to achieve or maintain a state of good repair, as determined by the Secretary under paragraph (4).
+
+&emsp;(3)
+
+Project justification and local financial commitment.—A project under this subsection shall be evaluated for project justification and local financial commitment under subsections (d), (e), (f), and (h), as applicable to the project, based on—
+
+&emsp;&emsp;(A) the net capital costs of the public transportation costs attributable to the project as determined under paragraph (4); and
+
+&emsp;&emsp;(B) the share of funds dedicated to the project from sources other than this section included in the unified finance plan for the project.
+
+&emsp;(4)
+
+Calculation of net capital project cost.—The Secretary shall estimate the net capital costs of a project under this subsection based on—
+
+&emsp;&emsp;(A) engineering studies;
+
+&emsp;&emsp;(B) studies of economic feasibility;
+
+&emsp;&emsp;(C) the expected use of equipment or facilities; and
+
+&emsp;&emsp;(D) the public transportation costs attributable to the project.
+
+&emsp;(5)
+
+Government share of net capital project cost.—
+
+&emsp;&emsp;(A)
+
+Government share.—The Government share shall not exceed 80 percent of the net capital cost attributable to the public transportation costs of a project under this subsection as determined under paragraph (4).
+
+&emsp;&emsp;(B)
+
+Non-government share.—The remainder of the net capital cost attributable to the public transportation costs of a project under this subsection shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 108–202, §9(a), Feb. 29, 2004, 118 Stat. 484; Pub. L. 108–224, §7(a), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §7(a), June 30, 2004, 118 Stat. 704; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–280, §7(a), July 30, 2004, 118 Stat. 882; Pub. L. 108–310, §8(a), Sept. 30, 2004, 118 Stat. 1154; Pub. L. 109–14, §7(a), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §7(a), July 1, 2005, 119 Stat. 352; Pub. L.109–35, §7(a), July 20, 2005, 119 Stat. 386; Pub. L. 109–37, §7(a), July 22, 2005, 119 Stat. 401; Pub. L. 109–40, §7(a), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title III, §3011(a), Aug. 10, 2005, 119 Stat. 1573; Pub. L. 110–244, title II, §201(d), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §433, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2303, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §303, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §133, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §303, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §303, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20008(a), div. G, title III, §113003, July 6, 2012, 126 Stat. 656, 984; Pub. L. 114–94, div. A, title III, §3005(a), Dec. 4, 2015, 129 Stat. 1450.)
 
 Historical and Revision Notes
 
@@ -982,7 +1080,7 @@ In subsection (g)(2)(A)(i), the words "and conditions" are omitted as being incl
 
 In subsection (g)(4), the word "issued" is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
 
-In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost"are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
+In subsection (h), the words "nature and extent of" are omitted as surplus. The words "net project cost" are substituted for "what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called 'net project cost' " because of the definition of "net project cost" in section 5302(a) of the revised title. The words "Except as provided in paragraph (2) of this subsection" are added for clarity. The words "Such remainder may be provided in whole or in part from other than public sources and any public or private", "solely", and "at any time" are omitted as surplus. The words "shall be deemed" are omitted as unnecessary since the text is a statement of a legal conclusion.
 
 In subsection (i), before clause (1), the words "Except for a loan under subsection (b) of this section" are added for clarity. The words "made under this section" and "at a rate" are omitted as surplus. In clause (1), the word "market" is omitted as surplus. In clause (2), the words "under the program" are omitted as surplus.
 
@@ -1012,7 +1110,7 @@ This amends 49:5309(m)(1)(A) to make a conforming amendment.
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (d)(1)(A)(i)(II), (B), (2)(A), (e)(1)(A)(i)(II), (B), (2)(A), (h)(2)(A)(i)(II), (B), (i)(2), and (k)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (d)(1)(A)(i)(II), (B), (2)(A), (e)(1)(A)(i)(II), (B), (2)(A), (h)(2)(A)(i)(II), (B), (6)(B), (i)(2), and (k)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (g)(5)(A), (6), (7), (j), and (l)(7) is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
@@ -1021,6 +1119,42 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 Pub. L. 111–322, §2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this section without specifying the paragraph to be amended, was executed to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3). Pub. L. 114–94, §3005(a)(1)(A), struck out "and weekend days" after "substantial part of weekdays".
+
+Subsec. (a)(6)(A). Pub. L. 114–94, §3005(a)(1)(B)(i), inserted ", small start projects," after "new fixed guideway capital projects".
+
+Subsec. (a)(6)(B). Pub. L. 114–94, §3005(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B), which read as follows: "1 or more new fixed guideway capital projects and 1 or more core capacity improvement projects."
+
+Subsec. (a)(7)(A). Pub. L. 114–94, §3005(a)(1)(C)(i), substituted "$100,000,000" for "$75,000,000".
+
+Subsec. (a)(7)(B). Pub. L. 114–94, §3005(a)(1)(C)(ii), substituted "$300,000,000" for "$250,000,000".
+
+Subsec. (d)(1)(B). Pub. L. 114–94, §3005(a)(2)(A), struck out ", policies and land use patterns that promote public transportation," after "project justification".
+
+Subsec. (d)(2)(A)(iii) to (v). Pub. L. 114–94, §3005(a)(2)(B), inserted "and" after semicolon in cl. (iii), redesignated cl. (v) as (iv), and struck out former cl. (iv), which read as follows: "is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and".
+
+Subsec. (g)(2)(A)(i). Pub. L. 114–94, §3005(a)(3), struck out "the policies and land use patterns that support public transportation," after "subsection (d)(2)(A)(iii),".
+
+Subsec. (h)(6). Pub. L. 114–94, §3005(a)(4), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (i)(1). Pub. L. 114–94, §3005(a)(5)(A), substituted "subsection (d), (e), or (h)" for "subsection (d) or (e)".
+
+Subsec. (i)(2). Pub. L. 114–94, §3005(a)(5)(B)(i), inserted "new fixed guideway capital project or core capacity improvement" after "federally funded" in introductory provisions.
+
+Subsec. (i)(2)(D). Pub. L. 114–94, §3005(a)(5)(B)(ii), added subpar. (D) and struck out former subpar. (D), which read as follows: "the program of interrelated projects, when evaluated as a whole, meets the requirements of subsection (d)(2) or (e)(2), as applicable;".
+
+Subsec. (i)(2)(F). Pub. L. 114–94, §3005(a)(5)(B)(iii), inserted "or subsection (h)(5), as applicable" after "subsection (f)".
+
+Subsec. (i)(3)(A). Pub. L. 114–94, §3005(a)(5)(C), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements."
+
+Subsec. (l)(1). Pub. L. 114–94, §3005(a)(6)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost. A grant for a fixed guideway project or small start project shall not exceed 80 percent of the net capital project cost. A grant for a core capacity project shall not exceed 80 percent of the net capital project cost of the incremental cost of increasing the capacity in the corridor."
+
+Subsec. (l)(4). Pub. L. 114–94, §3005(a)(6)(B), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The remainder of the net capital project cost shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital."
+
+Subsec. (n). Pub. L. 114–94, §3005(a)(7), added subsec. (n) and struck out former subsec. (n), which related to availability of amounts for a new fixed guideway capital project.
+
+Subsecs. (p), (q). Pub. L. 114–94, §3005(a)(8), added subsecs. (p) and (q).
 
 <b>2012</b>—Pub. L. 112–141, §20008(a), amended section generally. Prior to amendment, section related to capital investment grants and consisted of subsecs. (a) to (m).
 
@@ -1050,7 +1184,7 @@ Pub. L. 112–102, §303(1)(C), substituted "2011 and $150,000,000 for the perio
 
 Subsec. (m)(6)(B). Pub. L. 112–141, §113003(2)(A), substituted "2012" for "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
-Pub. L. 112–140, §§1(c), 303(2)(A), temporarily substituted "2011 and $11,400,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 303(2)(A), temporarily substituted "2011 and $11,400,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $11,250,000 shall be available forthe period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §303(2)(A), substituted "2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
@@ -1062,7 +1196,7 @@ Pub. L. 112–102, §303(2)(B), substituted "2011 and $3,750,000 shall be availa
 
 Subsec. (m)(7)(A). Pub. L. 112–141, §113003(3)(A)(i), in introductory provisions, substituted "2012" for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and inserted "each fiscal year" before colon at end.
 
-Pub. L. 112–140, §§1(c), 303(3)(A)(i), temporarily substituted "2011 and $7,600,000 shall be available for theperiod beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and "shall be set aside:" for "shall be set aside for:" in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 303(3)(A)(i), temporarily substituted "2011 and $7,600,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," and "shall be set aside:" for "shall be set aside for:" in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §303(3)(A)(i), substituted "2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012," in introductory provisions.
 
@@ -1112,7 +1246,7 @@ Subsec. (m)(7)(E). Pub. L. 112–141, §113003(3)(E), struck out "and $2,250,000
 
 Pub. L. 112–140, §§1(c), 303(3)(E), temporarily substituted "and $2,280,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012," for "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
-Pub. L. 112–102, §303(3)(E), substituted "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
+Pub. L. 112–102, §303(3)(E), substituted "and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012," for "and $1,500,000shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
 <b>2011</b>—Subsec. (m)(2). Pub. L. 112–30, §133(1)(A), (B), substituted "
 
@@ -1134,7 +1268,7 @@ Subsec. (m)(6)(B). Pub. L. 112–30, §133(2)(A), substituted "2011 and $7,500,0
 
 Pub. L. 112–5, §303(2)(A), substituted "2011" for "2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,".
 
-Subsec. (m)(6)(C). Pub. L. 112–30, §133(2)(B), substituted "2011 and $2,500,000 shall be available for theperiod beginning on October 1, 2011, and ending on March 31, 2012," for "2011".
+Subsec. (m)(6)(C). Pub. L. 112–30, §133(2)(B), substituted "2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012," for "2011".
 
 Pub. L. 112–5, §303(2)(B), substituted "2011" for "2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,".
 
@@ -1224,7 +1358,7 @@ Subsec. (m)(7)(D). Pub. L. 111–322, §2303(6), substituted "$14,863,000 shall 
 
 Pub. L. 111–147, §433(3)(D), inserted ", and not less than $8,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010," after "year".
 
-Subsec. (m)(7)(E). Pub. L. 111–322, §2303(7), substituted "$1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011" for "$750,000shall be available for the period beginning October 1, 2010, and ending December 31, 2010". See Codification note above.
+Subsec. (m)(7)(E). Pub. L. 111–322, §2303(7), substituted "$1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011" for "$750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010". See Codification note above.
 
 Pub. L. 111–147, §433(3)(E), inserted ", and $750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010," after "year".
 
@@ -1332,7 +1466,7 @@ Subsec. (m)(1)(C). Pub. L. 108–280, §7(a)(1)(D), substituted ", except for f
 
 Pub. L. 108–263, §7(a)(1)(A), (D), substituted "July 31, 2004" for "June 30, 2004" and "$503,014,600" for "$452,713,140".
 
-Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting "2003, and ending on June 30, 2004, during which $452,713,140 will be available" for "2003 and ending on April 30, 2004, during which $352,110,220 will be available", to reflect the probable intent of Congress.
+Pub. L. 108–224, §7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotationmarks designating the provisions to be inserted, was executed by substituting "2003, and ending on June 30, 2004, during which $452,713,140 will be available" for "2003 and ending on April 30, 2004, during which $352,110,220 will be available", to reflect the probable intent of Congress.
 
 Pub. L. 108–202, §9(a)(1)(D), inserted ", except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available" after "facilities".
 
@@ -1420,13 +1554,13 @@ Required Payments and Eligible Costs of Projects That Enhance Urban Economic Dev
 
 Subsec. (g). Pub. L. 105–178, §3009(f)(1), substituted "Funding" for "Financing" in heading.
 
-Subsec. (g)(1)(B). Pub. L. 105–178, §3009(f)(3), substituted "At least 60 days" for "At least 30 days" and "letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project" for "issuance of the letter" and inserted "or entering into a full funding grant agreement" after "subparagraph (A) of this paragraph".
+Subsec. (g)(1)(B). Pub. L. 105–178, §3009(f)(3), substituted "At least 60 days" for "At least 30 days" and"letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project" for "issuance of the letter" and inserted "or entering into a full funding grant agreement" after "subparagraph (A) of this paragraph".
 
 Subsec. (g)(2)(A), (B), (3)(A)(i). Pub. L. 105–178, §3009(f)(2), substituted "full funding" for "full financing".
 
 Subsec. (g)(4). Pub. L. 105–178, §3009(k)(2), as added by Pub. L. 105–206, §9009(g), substituted "5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems" for "5338(a) of this title to carry out this section or an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003".
 
-Pub. L. 105–178, §3009(f)(2), (4), substituted "full funding" for "full financing" before "grant agreements" in two places and "an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guidewaysystems for fiscal years 2002 and 2003" for "50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated)".
+Pub. L. 105–178, §3009(f)(2), (4), substituted "full funding" for "full financing" before "grant agreements" in two places and "an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003" for "50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated)".
 
 Subsec. (m). Pub. L. 105–178, §3009(k)(3), as added by Pub. L. 105–206, §9009(g), substituted "5338(b)" for "5338" in introductory provisions of par. (1), added par. (2) and struck out former par. (2) relating to limitation on amounts available for activities other than final design and construction, redesignated par. (4) as (3)(C), added pars. (3)(D) and (4), and struck out par. (5) relating to funding for ferry boat systems.
 
@@ -1450,6 +1584,10 @@ Subsec. (m)(1)(A). Pub. L. 104–287, §5(12)(C), inserted "rail" before "fixed 
 
 Subsec. (m)(3). Pub. L. 104–287, §5(9), substituted "Transportation and Infrastructure" for "Public Works and Transportation".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective and Termination Dates of 2012 Amendment
 
 Amendment by section 20008(a) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
@@ -1466,77 +1604,367 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
-#### Development of Implementation Guidance
+#### Expedited Project Delivery for Capital Investment Grants Pilot Program
 
-Pub. L. 113–235, div. K, title I, §167, Dec. 16, 2014, 128 Stat. 2720, provided that: "In developing guidance implementing 49 U.S.C. 5309(i) Program of Interrelated Projects, the Secretary shall consider projects eligible under section 5309(h) Small Starts Projects, including streetcars."
-
-#### Pilot Program for Expedited Project Delivery
-
-Pub. L. 112–141, div. B, §20008(b), July 6, 2012, 126 Stat. 674, provided that:
+Pub. L. 114–94, div. A, title III, §3005(b), Dec. 4, 2015, 129 Stat. 1454, provided that:
 
 "(1)
 
-Definitions.—In this subsection the following definitions shall apply:
+Definitions.—In this subsection, the following definitions shall apply:
 
 &emsp;"(A)
 
-Eligible project.—The term 'eligible project' means a new fixed guideway capital project or a core capacity improvement project, as those terms are defined in section 5309 of title 49, United States Code, as amended by this section, that has not entered into a full funding grant agreement with the Federal Transit Administration before the date of enactment of the Federal Public Transportation Act of 2012 \[deemed to be Oct. 1, 2012\].
+Applicant.—The term 'applicant' means a State or local governmental authority that applies for a grant under this subsection.
 
 &emsp;"(B)
 
-Program.—The term 'program' means the pilot program for expedited project delivery established under this subsection.
+Capital project; fixed guideway; local governmental authority; public transportation; state; state of good repair.—The terms 'capital project', 'fixed guideway', 'local governmental authority', 'public transportation', 'State', and 'state of good repair' have the meanings given those terms in section 5302 of title 49, United States Code.
 
 &emsp;"(C)
 
-Recipient.—The term 'recipient' means a recipient of funding under chapter 53 of title 49, United States Code.
+Core capacity improvement project.—The term 'core capacity improvement project'—
+
+&emsp;&emsp;"(i) means a substantial corridor-based capital investment in an existing fixed guideway system that increases the capacity of a corridor by not less than 10 percent; and
+
+&emsp;&emsp;"(ii) may include project elements designed to aid the existing fixed guideway system in making substantial progress towards achieving a state of good repair.
 
 &emsp;"(D)
 
-Secretary.—The term 'Secretary' means the Secretary of Transportation.
+Corridor-based bus rapid transit project.—The term 'corridor-based bus rapid transit project' means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems—
+
+&emsp;&emsp;"(i) including—
+
+&emsp;&emsp;&emsp;"(I) defined stations;
+
+&emsp;&emsp;&emsp;"(II) traffic signal priority for public transportation vehicles;
+
+&emsp;&emsp;&emsp;"(III) short headway bidirectional services for a substantial part of weekdays; and
+
+&emsp;&emsp;&emsp;"(IV) any other features the Secretary may determine support a long-term corridor investment; and
+
+&emsp;&emsp;"(ii) the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+
+&emsp;"(E)
+
+Eligible project.—The term 'eligible project' means a new fixed guideway capital project, a smallstart project, or a core capacity improvement project that has not entered into a full funding grant agreement with the Federal Transit Administration before the date of enactment of this Act \[Dec. 4, 2015\].
+
+&emsp;"(F)
+
+Fixed guideway bus rapid transit project.—The term 'fixed guideway bus rapid transit project' means a bus capital project—
+
+&emsp;&emsp;"(i) in which the majority of the project operates in a separated right-of-way dedicated for public transportation use during peak periods;
+
+&emsp;&emsp;"(ii) that represents a substantial investment in a single route in a defined corridor or subarea; and
+
+&emsp;&emsp;"(iii) that includes features that emulate the services provided by rail fixed guideway public transportation systems, including—
+
+&emsp;&emsp;&emsp;"(I) defined stations;
+
+&emsp;&emsp;&emsp;"(II) traffic signal priority for public transportation vehicles;
+
+&emsp;&emsp;&emsp;"(III) short headway bidirectional services for a substantial part of weekdays and weekend days; and
+
+&emsp;&emsp;&emsp;"(IV) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
+
+&emsp;"(G)
+
+New fixed guideway capital project.—The term 'new fixed guideway capital project' means—
+
+&emsp;&emsp;"(i) a fixed guideway capital project that is a minimum operable segment or extension to an existing fixed guideway system; or
+
+&emsp;&emsp;"(ii) a fixed guideway bus rapid transit project that is a minimum operable segment or an extension to an existing bus rapid transit system.
+
+&emsp;"(H)
+
+Recipient.—The term 'recipient' means a recipient of funding under chapter 53 of title 49, United States Code.
+
+&emsp;"(I)
+
+Small start project.—The term 'small start project' means a new fixed guideway capital project, a fixed guideway bus rapid transit project, or a corridor-based bus rapid transit project for which—
+
+&emsp;&emsp;"(i) the Federal assistance provided or to be provided under this subsection is less than $75,000,000; and
+
+&emsp;&emsp;"(ii) the total estimated net capital cost is less than $300,000,000.
 
 "(2)
 
-Establishment.—The Secretary shall establish and implement a pilot program to demonstrate whether innovative project development and delivery methods or innovative financing arrangements can expedite project delivery for certain meritorious new fixed guideway capital projects and core capacity improvement projects.
+General authority.—The Secretary may make grants under this subsection to States and local governmental authorities to assist in financing—
+
+&emsp;"(A) new fixed guideway capital projects or small start projects, including the acquisition of real property, the initial acquisition of rolling stock for the system, the acquisition of rights-of-way, and relocation, for projects in the advanced stages of planning and design; and
+
+&emsp;"(B) core capacity improvement projects, including the acquisition of real property, the acquisition of rights-of-way, double tracking, signalization improvements, electrification, expanding system platforms, acquisition of rolling stock associated with corridor improvements increasing capacity, construction of infill stations, and such other capacity improvement projects as the Secretary determines are appropriate to increase the capacity of an existing fixed guideway system corridor by not less than 10 percent. Core capacity improvement projects do not include elements to improve general station facilities or parking, or acquisition of rolling stock alone.
 
 "(3)
 
-Limitation on number of projects.—The Secretary shall select 3 eligible projects to participate in the program, of which—
+Grant requirements.—
 
-&emsp;"(A) at least 1 shall be an eligible project requesting more than $100,000,000 in Federal financial assistance under section 5309 of title 49, United States Code; and
+&emsp;"(A)
 
-&emsp;"(B) at least 1 shall be an eligible project requesting less than $100,000,000 in Federal financial assistance under section 5309 of title 49, United States Code.
+In general.—The Secretary may make not more than 8 grants under this subsection for eligible projects if the Secretary determines that—
+
+&emsp;&emsp;"(i) the eligible project is part of an approved transportation plan required under sections 5303 and 5304 of title 49, United States Code;
+
+&emsp;&emsp;"(ii) the applicant has, or will have—
+
+&emsp;&emsp;&emsp;"(I) the legal, financial, and technical capacity to carry out the eligible project, including the safety and security aspects of the eligible project;
+
+&emsp;&emsp;&emsp;"(II) satisfactory continuing control over the use of the equipment or facilities;
+
+&emsp;&emsp;&emsp;"(III) the technical and financial capacity to maintain new and existing equipment and facilities; and
+
+&emsp;&emsp;&emsp;"(IV) advisors providing guidance to the applicant on the terms and structure of the project that are independent from investors in the project;
+
+&emsp;&emsp;"(iii) the eligible project is supported, or will be supported, in part, through a public-private partnership, provided such support is determined by local policies, criteria, and decisionmaking under section 5306(a) of title 49, United States Code;
+
+&emsp;&emsp;"(iv) the eligible project is justified based on findings presented by the project sponsor to the Secretary, including—
+
+&emsp;&emsp;&emsp;"(I) mobility improvements attributable to the project;
+
+&emsp;&emsp;&emsp;"(II) environmental benefits associated with the project;
+
+&emsp;&emsp;&emsp;"(III) congestion relief associated with the project;
+
+&emsp;&emsp;&emsp;"(IV) economic development effects derived as a result of the project; and
+
+&emsp;&emsp;&emsp;"(V) estimated ridership projections;
+
+&emsp;&emsp;"(v) the eligible project is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources); and
+
+&emsp;&emsp;"(vi) the eligible project will be operated and maintained by employees of an existing provider of fixed guideway or bus rapid transit public transportation in the service area of the project, or if none exists, by employees of an existing public transportation provider in the service area.
+
+&emsp;"(B)
+
+Certification.—An applicant that has submitted the certifications required under subparagraphs (A), (B), (C), and (H) of section 5307(c)(1) of title 49, United States Code, shall be deemed to have provided sufficient information upon which the Secretary may make the determinations required under this paragraph.
+
+&emsp;"(C)
+
+Technical capacity.—The Secretary shall use an expedited technical capacity review process for applicants that have recently and successfully completed not less than 1 new fixed guideway capital project, small start project, or core capacity improvement project, if—
+
+&emsp;&emsp;"(i) the applicant achieved budget, cost, and ridership outcomes for the project that are consistent with or better than projections; and
+
+&emsp;&emsp;"(ii) the applicant demonstrates that the applicant continues to have the staff expertise and other resources necessary to implement a new project.
+
+&emsp;"(D)
+
+Financial commitment.—
+
+&emsp;&emsp;"(i)
+
+Requirements.—In determining whether an eligible project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sources for purposes of subparagraph (A)(v), the Secretary shall require that—
+
+&emsp;&emsp;&emsp;"(I) each proposed source of capital and operating financing is stable, reliable, and available within the proposed eligible project timetable; and
+
+&emsp;&emsp;&emsp;"(II) resources are available to recapitalize, maintain, and operate the overall existing and proposed public transportation system, including essential feeder bus and other services necessary, without degradation to the existing level of public transportation services.
+
+&emsp;&emsp;"(ii)
+
+Considerations.—In assessing the stability, reliability, and availability of proposed sources of financing under clause (i), the Secretary shall consider—
+
+&emsp;&emsp;&emsp;"(I) the reliability of the forecasting methods used to estimate costs and revenues made by the applicant and the contractors to the applicant;
+
+&emsp;&emsp;&emsp;"(II) existing grant commitments;
+
+&emsp;&emsp;&emsp;"(III) the degree to which financing sources are dedicated to the proposed eligible project;
+
+&emsp;&emsp;&emsp;"(IV) any debt obligation that exists or is proposed by the applicant, for the proposed eligible project or other public transportation purpose; and
+
+&emsp;&emsp;&emsp;"(V) private contributions to the eligible project, including cost-effective project delivery, management or transfer of project risks, expedited project schedule, financial partnering, and other public-private partnership strategies.
+
+&emsp;"(E)
+
+Labor standards.—The requirements under section 5333 of title 49, United States Code, shall apply to each recipient of a grant under this subsection.
 
 "(4)
 
-Government share.—The Government share of the total cost of an eligible project that participates in the program may not exceed 50 percent.
-
-"(5)
-
-Eligibility.—A recipient that desires to participate in the program shall submit to the Secretary an application that contains, at a minimum—
+Project advancement.—An applicant that desires a grant under this subsection and meets the requirements of paragraph (3) shall submit to the Secretary, and the Secretary shall approve for advancement, a grant request that contains—
 
 &emsp;"(A) identification of an eligible project;
 
 &emsp;"(B) a schedule and finance plan for the construction and operation of the eligible project;
 
-&emsp;"(C) an analysis of the efficiencies of the proposed project development and delivery methods or innovative financing arrangement for the eligible project; and
+&emsp;"(C) an analysis of the efficiencies of the proposed eligible project development and delivery methods and innovative financing arrangement for the eligible project, including any documents related to the—
 
-&emsp;"(D) a certification that the recipient's existing public transportation system is in a state of good repair.
+&emsp;&emsp;"(i) public-private partnership required under paragraph (3)(A)(iii); and
+
+&emsp;&emsp;"(ii) project justification required under paragraph (3)(A)(iv); and
+
+&emsp;"(D) a certification that the existing public transportation system of the applicant or, in the event that the applicant does not operate a public transportation system, the public transportation system to which the proposed project will be attached, is in a state of good repair.
+
+"(5)
+
+Written notice from the secretary.—
+
+&emsp;"(A)
+
+In general.—Not later than 120 days after the date on which the Secretary receives a grant request of an applicant under paragraph (4), the Secretary shall provide written notice to the applicant—
+
+&emsp;&emsp;"(i) of approval of the grant request; or
+
+&emsp;&emsp;"(ii) if the grant request does not meet the requirements under paragraph (4), of disapproval of the grant request, including a detailed explanation of the reasons for the disapproval.
+
+&emsp;"(B)
+
+Concurrent notice.—The Secretary shall provide concurrent notice of an approval or disapproval of a grant request under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 "(6)
 
-Selection criteria.—The Secretary may award a full funding grant agreement under this subsection if the Secretary determines that—
+Waiver.—The Secretary may grant a waiver to an applicant that does not comply with paragraph (4)(D) if—
 
-&emsp;"(A) the recipient has completed planning and the activities required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+&emsp;"(A) the eligible project meets the definition of a core capacity improvement project; and
 
-&emsp;"(B) the recipient has the necessary legal, financial, and technical capacity to carry out the eligible project.
+&emsp;"(B) the Secretary certifies that the eligible project will allow the applicant to make substantial progress in achieving a state of good repair.
 
 "(7)
+
+Selection criteria.—The Secretary may enter into a full funding grant agreement with an applicant under this subsection for an eligible project for which an application has been submitted and approved for advancement by the Secretary under paragraph (4), only if the applicant has completed the planning and activities required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+"(8)
+
+Letters of intent and full funding grant agreements.—
+
+&emsp;"(A)
+
+Letters of intent.—
+
+&emsp;&emsp;"(i)
+
+Amounts intended to be obligated.—The Secretary may issue a letter of intent to an applicant announcing an intention to obligate, for an eligible project under this subsection, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the eligible project. When a letter is issued for an eligible project under this subsection, the amount shall be sufficient to complete at least an operable segment.
+
+&emsp;&emsp;"(ii)
+
+Treatment.—The issuance of a letter under clause (i) is deemed not to be an obligation under section 1108(c), 1501, or 1502(a) of title 31, United States Code, or an administrative commitment.
+
+&emsp;"(B)
+
+Full funding grant agreements.—
+
+&emsp;&emsp;"(i)
+
+In general.—Except as provided in clause (v), an eligible project shall be carried out under this subsection through a full funding grant agreement.
+
+&emsp;&emsp;"(ii)
+
+Criteria.—The Secretary shall enter into a full funding grant agreement, based on the requirements of this subparagraph, with each applicant receiving assistance for an eligible project that has received a written notice of approval under paragraph (5)(A)(i).
+
+&emsp;&emsp;"(iii)
+
+Terms.—A full funding grant agreement shall—
+
+&emsp;&emsp;&emsp;"(I) establish the terms of participation by the Federal Government in the eligible project;
+
+&emsp;&emsp;&emsp;"(II) establish the maximum amount of Federal financial assistance for the eligible project;
+
+&emsp;&emsp;&emsp;"(III) include the period of time for completing construction of the eligible project, consistent with the terms of the public-private partnership agreement, even if that period extends beyond the period of an authorization; and
+
+&emsp;&emsp;&emsp;"(IV) make timely and efficient management of the eligible project easier according to the law of the United States.
+
+&emsp;&emsp;"(iv)
+
+Special financial rules.—
+
+&emsp;&emsp;&emsp;"(I)
+
+In general.—A full funding grant agreement under this subparagraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this subparagraph, to obligate an additional amount from future available budget authority specified in law.
+
+&emsp;&emsp;&emsp;"(II)
+
+Statement of contingent commitment.—A full funding grant agreement shall state that the contingent commitment is not an obligation of the Federal Government.
+
+&emsp;&emsp;&emsp;"(III)
+
+Interest and other financing costs.—Interest and other financing costs of efficiently carrying out a part of the eligible project within a reasonable time are a cost of carrying out the eligible project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the eligible project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+&emsp;&emsp;&emsp;"(IV)
+
+Completion of operable segment.—The amount stipulated in an agreement under this subparagraph for a new fixed guideway capital project, core capacity improvement project, or small start project shall be sufficient to complete at least an operable segment.
+
+&emsp;&emsp;"(v)
+
+Exception.—
+
+&emsp;&emsp;&emsp;"(I)
+
+In general.—The Secretary, to the maximum extent practicable, shall provide Federal assistance under this subsection for a small start project in a single grant. If the Secretary cannot provide such a single grant, the Secretary may execute an expedited grant agreement in order to include a commitment on the part of the Secretary to provide funding for the project in future fiscal years.
+
+&emsp;&emsp;&emsp;"(II)
+
+Terms of expedited grant agreements.—In executing an expedited grant agreement under this clause, the Secretary may include in the agreement terms similar to those established under clause (iii).
+
+&emsp;"(C)
+
+Limitation on amounts.—
+
+&emsp;&emsp;"(i)
+
+In general.—The Secretary may enter into full funding grant agreements under this paragraph for eligible projects that contain contingent commitments to incur obligations in such amounts as the Secretary determines are appropriate.
+
+&emsp;&emsp;"(ii)
+
+Appropriation required.—An obligation may be made under this paragraph only when amounts are appropriated for obligation.
+
+&emsp;"(D)
+
+Notification to congress.—
+
+&emsp;&emsp;"(i)
+
+In general.—Not later than 30 days before the date on which the Secretary issues a letter of intent or enters into a full funding grant agreement for an eligible project under this paragraph, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter of intent or full funding grant agreement.
+
+&emsp;&emsp;"(ii)
+
+Contents.—The written notification under clause (i) shall include a copy of the proposed letter of intent or full funding grant agreement for the eligible project.
+
+"(9)
+
+Government share of net capital project cost.—
+
+&emsp;"(A)
+
+In general.—A grant for an eligible project shall not exceed 25 percent of the net capital project cost.
+
+&emsp;"(B)
+
+Remainder of net capital project cost.—The remainder of the net capital project cost shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+&emsp;"(C)
+
+Limitation on statutory construction.—Nothing in this subsection shall be construed as authorizing the Secretary to require a non-Federal financial commitment for a project that is more than 75 percent of the net capital project cost.
+
+&emsp;"(D)
+
+Special rule for rolling stock costs.—In addition to amounts allowed pursuant to subparagraph (A), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Federal Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Federal Government is made at the same time.
+
+&emsp;"(E)
+
+Failure to carry out project.—If an applicant does not carry out an eligible project for reasons within the control of the applicant, the applicant shall repay all Federal funds awarded for the eligible project from all Federal funding sources, for all eligible project activities, facilities, and equipment, plus reasonable interest and penalty charges allowable by law.
+
+&emsp;"(F)
+
+Crediting of funds received.—Any funds received by the Federal Government under this paragraph, other than interest and penalty charges, shall be credited to the appropriation account from which the funds were originally derived.
+
+"(10)
+
+Availability of amounts.—
+
+&emsp;"(A)
+
+In general.—An amount made available for an eligible project shall remain available to that eligible project for 4 fiscal years, including the fiscal year in which the amount is made available. Any amounts that are unobligated to the eligible project at the end of the 4-fiscal-year period may be used by the Secretary for any purpose under this subsection.
+
+&emsp;"(B)
+
+Use of deobligated amounts.—An amount available under this subsection that is deobligated may be used for any purpose under this subsection.
+
+"(11)
+
+Annual report on expedited project delivery for capital investment grants.—Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that includes a proposed amount to be available to finance grants for anticipated projects under this subsection.
+
+"(12)
 
 Before and after study and report.—
 
 &emsp;"(A)
 
-Study required.—A full funding grant agreement under this paragraph shall require a recipient to conduct a study that—
+Study required.—Each recipient shall conduct a study that—
 
 &emsp;&emsp;"(i) describes and analyzes the impacts of the eligible project on public transportation services and public transportation ridership;
 
@@ -1546,7 +1974,27 @@ Study required.—A full funding grant agreement under this paragraph shall requ
 
 &emsp;"(B)
 
-Submission of report.—Not later than 9 months after an eligible project selected to participate in the program begins revenue operations, the recipient shall submit to the Secretary a report on the results of the study under subparagraph (A)."
+Submission of report.—Not later than 2 years after an eligible project that is selected under this subsection begins revenue operations, the recipient shall submit to the Secretary a report on the results of the study conducted under subparagraph (A).
+
+"(13)
+
+Rule of construction.—Nothing in this subsection shall be construed to—
+
+&emsp;"(A) require the privatization of the operation or maintenance of any project for which an applicant seeks funding under this subsection;
+
+&emsp;"(B) revise the determinations by local policies, criteria, and decisionmaking under section 5306(a) of title 49, United States Code;
+
+&emsp;"(C) alter the requirements for locally developed, coordinated, and implemented transportation plans under sections 5303 and 5304 of title 49, United States Code; or
+
+&emsp;"(D) alter the eligibilities or priorities for assistance under this subsection or section 5309 of title 49, United States Code."
+
+#### Development of Implementation Guidance
+
+Pub. L. 113–235, div. K, title I, §167, Dec. 16, 2014, 128 Stat. 2720, provided that: "In developing guidance implementing 49 U.S.C. 5309(i) Program of Interrelated Projects, the Secretary shall consider projects eligible under section 5309(h) Small Starts Projects, including streetcars."
+
+#### Pilot Program for Expedited Project Delivery
+
+Pub. L. 112–141, div. B, §20008(b), July 6, 2012, 126 Stat. 674, which related to a pilot program for expedited project delivery, was repealed by Pub. L. 114–94, div. A, title III, §3030(a), Dec. 4, 2015, 129 Stat. 1496.
 
 #### Non-New Starts Share of Public Transportation Element of Interstate Multi-Modal Projects
 

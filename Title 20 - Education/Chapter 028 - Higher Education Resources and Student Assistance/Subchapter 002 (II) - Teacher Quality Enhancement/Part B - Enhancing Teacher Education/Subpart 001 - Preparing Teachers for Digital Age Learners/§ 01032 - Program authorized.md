@@ -40,7 +40,7 @@ In this subpart, the term "eligible consortium" means a consortium of members th
 
 &emsp;(4) A department, school, or college of arts and sciences at an institution of higher education.
 
-&emsp;(5) Not less than one entity with the capacity to contribute to the technology-related reform of teacher preparation programs, which may be a professional association, foundation, museum, library, for-profit business, public orprivate nonprofit organization, community-based organization, or other entity.
+&emsp;(5) Not less than one entity with the capacity to contribute to the technology-related reform of teacher preparation programs, which may be a professional association, foundation, museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity.
 
 (Pub. L. 89–329, title II, §231, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154; amended Pub. L. 111–39, title II, §201(3), July 1, 2009, 123 Stat. 1936.)
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) there exists a dry-lease aircraft exchange arrangement among all of the fractional owners, and
 
-&emsp;&emsp;(E) there are multi-year program agreements covering the fractional ownership, fractional ownership program management services, and dry-lease aircraft exchange aspects of the program.
+&emsp;&emsp;(E) there are multi-year program agreements covering the fractional ownership,fractional ownership program management services, and dry-lease aircraft exchange aspects of the program.
 
 #### (3) Definitions related to fractional ownership interests
 

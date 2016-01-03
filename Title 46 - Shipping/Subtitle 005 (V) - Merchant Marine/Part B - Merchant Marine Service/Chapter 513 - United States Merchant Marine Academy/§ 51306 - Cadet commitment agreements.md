@@ -2,15 +2,21 @@
 
 (a)
 
-Agreement Requirements.—A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy must sign, as a condition of the appointment, an agreement to—
+Agreement Requirements.—A citizen of the United States appointed as a cadet at the United States Merchant Marine Academy shall sign, as a condition of the appointment, an agreement to—
 
 &emsp;(1) complete the course of instruction at the Academy;
 
-&emsp;(2) fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;
+&emsp;(2) obtain a merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, before graduation from the Academy;
 
-&emsp;(3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+&emsp;(3) for at least 6 years after graduation from the Academy, maintain—
 
-&emsp;(4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;
+&emsp;&emsp;(A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+&emsp;&emsp;(B) a valid transportation worker identification credential; and
+
+&emsp;&emsp;(C) a Coast Guard medical certificate;
+
+&emsp;(4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve, meet the participation requirements, and maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
 &emsp;(5) serve the foreign and domestic commerce and the national defense of the United States for at least 5 years after graduation from the Academy—
 
@@ -18,7 +24,7 @@ Agreement Requirements.—A citizen of the United States appointed as a cadet at
 
 &emsp;&emsp;(B) as an employee in a United States maritime-related industry, profession, or marine science (as determined by the Secretary of Transportation), if the Secretary determines that service under subparagraph (A) is not available to the individual;
 
-&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the NationalOceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
+&emsp;&emsp;(C) as a commissioned officer on active duty in an armed force of the United States, as a commissioned officer in the National Oceanic and Atmospheric Administration, or in other maritime-related Federal employment which serves the national security interests of the United States, as determined by the Secretary; or
 
 &emsp;&emsp;(D) by a combination of the service alternatives referred to in subparagraphs (A)–(C); and
 
@@ -42,7 +48,7 @@ Failure To Carry Out Other Requirements.—
 
 &emsp;(1)
 
-Active duty.—If the Secretary of Transportation determines that an individual has failed to fulfill any part of the agreement described in subsection (a)(2)–(6), the individual may be ordered to serve on active duty for a period of at least 3 years but not more than the unexpired period (as determined by the Secretary) of the service required by subsection (a)(5). The Secretary of Transportation, in consultation with the Secretary of Defense, shall determine in which service the individual shall serve. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+Active duty.—If the Secretary of Transportation determines that an individual has failed to fulfill any part of the agreement described in subsection (a)(2)–(6), the individual may be ordered to serve on active duty for a period of at least 3 years but not more than the unexpired period (as determined by theSecretary) of the service required by subsection (a)(5). The Secretary of Transportation, in consultation with the Secretary of Defense, shall determine in which service the individual shall serve. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
 
 &emsp;(2)
 
@@ -88,7 +94,7 @@ Information to be provided.—A report or notice under paragraph (1) shall ident
 
 Considered as in default.—Upon receipt of such a report or notice, such graduate may be considered to be in default of the graduate's service obligations by the Secretary, and subject to all remedies the Secretary may have with respect to such a default.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §§3505(a), 3506(a), Oct. 17, 2006, 120 Stat. 2516, 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, 122 Stat. 598, 600–602.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §§3505(a), 3506(a), Oct. 17, 2006, 120 Stat. 2516, 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(b)(1), (c)(1), (g), Jan. 28, 2008, 122 Stat. 598, 600–602; Pub. L. 114–92, div. C, title XXXV, §3506, Nov. 25, 2015, 129 Stat. 1220.)
 
 Historical and Revision Notes
 
@@ -123,6 +129,14 @@ In subsection (a), before paragraph (1), the words "after the date occurring 6 m
 In subsection (d), the words "bring a civil action" are substituted for "begin court proceedings" for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §3506(1), substituted "shall sign" for "must sign" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 114–92, §3506(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "fulfill the requirements for a license as an officer in the merchant marine of the United States before graduation from the Academy;".
+
+Subsec. (a)(3). Pub. L. 114–92, §3506(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the Academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;".
+
+Subsec. (a)(4). Pub. L. 114–92, §3506(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the Academy;".
 
 <b>2008</b>—Pub. L. 110–181, §3526(g), repealed Pub. L. 109–364, §§3505(a) and 3506(a). See 2006 Amendment note below.
 

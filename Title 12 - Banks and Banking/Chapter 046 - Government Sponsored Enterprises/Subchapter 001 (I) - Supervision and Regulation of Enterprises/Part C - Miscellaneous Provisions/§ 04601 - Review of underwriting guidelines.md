@@ -6,7 +6,7 @@ Each of the enterprises shall conduct a study to review the underwriting guideli
 
 &emsp;(1) the extent to which the underwriting guidelines prevent or inhibit the purchase or securitization of mortgages for housing located in mixed-use, urban center, and predominantly minority neighborhoods and for housing for low- and moderate-income families;
 
-&emsp;(2) the standards employed by private mortgage insurers and the extent to which such standards inhibit the purchase and securitization by the enterprises of mortgages described in paragraph (1); and
+&emsp;(2) the standards employed by private mortgage insurers and the extent to which suchstandards inhibit the purchase and securitization by the enterprises of mortgages described in paragraph (1); and
 
 &emsp;(3) the implications of implementing underwriting standards that—
 
@@ -18,7 +18,7 @@ Each of the enterprises shall conduct a study to review the underwriting guideli
 
 #### (b) Report
 
-Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a) of this section. Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
+Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
 
 (Pub. L. 102–550, title XIII, §1354, Oct. 28, 1992, 106 Stat. 3970.)
 

@@ -48,7 +48,7 @@ The Secretary shall promulgate such regulations as are necessary to carry out th
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years2009 through 2012 and $40,000,000 for the period of fiscal years 2014 through 2018.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012 and $40,000,000 for the period of fiscal years 2014 through 2018.
 
 #### (2) Authorization of appropriations
 

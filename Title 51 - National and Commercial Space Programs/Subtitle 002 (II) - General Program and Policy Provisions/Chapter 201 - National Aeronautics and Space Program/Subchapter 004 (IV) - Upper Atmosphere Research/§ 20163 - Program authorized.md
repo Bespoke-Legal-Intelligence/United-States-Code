@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In order to carry out the purposes of this subchapter, the Administration, in cooperation with other Federal agencies, shall initiate and carry out a program of research, technology, monitoring, and other appropriate activities directed to understand the physics and chemistry of the upper atmosphere.
+In General.—In order to carry out the purposes of this subchapter, the Administration, in cooperation with other Federal agencies, shall initiate and carry out a program of research, technology, monitoring, and other appropriateactivities directed to understand the physics and chemistry of the upper atmosphere.
 
 (b)
 

@@ -32,7 +32,7 @@ Notwithstanding any other provision of this subchapter, (1) it shall not be an u
 
 #### (f) Members of Communist Party or Communist-action or Communist-front organizations
 
-As used in this subchapter, the phrase "unlawful employment practice" shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agencywith respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
+As used in this subchapter, the phrase "unlawful employment practice" shall not be deemed to include any action or measure taken by an employer, labor organization, joint labor-management committee, or employment agency with respect to an individual who is a member of the Communist Party of the United States or of any other organization required to register as a Communist-action or Communist-front organization by final order of the Subversive Activities Control Board pursuant to the Subversive Activities Control Act of 1950 \[50 U.S.C. 781 et seq.\].
 
 #### (g) National security
 
@@ -68,7 +68,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (C) The demonstration referred to by subparagraph (A)(ii) shall be in accordance with the law as it existed on June 4, 1989, with respect to the concept of "alternative employment practice".
 
-(2) A demonstration that an employment practice is required by business necessity may not be used as a defense against a claim of intentional discrimination under this subchapter.
+(2) A demonstration that an employment practice is required by business necessity may not beused as a defense against a claim of intentional discrimination under this subchapter.
 
 (3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
 

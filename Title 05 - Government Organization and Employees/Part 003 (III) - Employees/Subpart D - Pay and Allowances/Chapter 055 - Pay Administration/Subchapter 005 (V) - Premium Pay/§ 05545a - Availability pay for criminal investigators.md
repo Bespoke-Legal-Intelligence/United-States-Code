@@ -36,7 +36,7 @@
 
 &emsp;(4) the term "regular work day" means each day in the investigator's basic work week during which the investigator works at least 4 hours that are not overtime hours paid under section 5542 or hours considered part of section 5545a.
 
-(b) The purpose of this section is to provide premium pay to criminal investigators to ensure the availability of criminal investigators for unscheduled duty in excess of a 40 hour work week based on the needs of the employing agency.
+(b) The purpose of this section is to provide premium pay to criminal investigators to ensurethe availability of criminal investigators for unscheduled duty in excess of a 40 hour work week based on the needs of the employing agency.
 
 (c) Each criminal investigator shall be paid availability pay as provided under this section. Availability pay shall be paid to ensure the availability of the investigator for unscheduled duty. The investigator is generally responsible for recognizing, without supervision, circumstances which require the investigator to be on duty or be available for unscheduled duty based on the needs of the agency. Availability pay provided to a criminal investigator for such unscheduled duty shall be paid instead of premium pay provided by other provisions of this subchapter, except premium pay for regularly scheduled overtime work as provided under section 5542, night duty, Sunday duty, and holiday duty.
 
@@ -100,7 +100,7 @@
 
 &emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for "Office of Personnel Management" the following: "Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)".
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat.3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828.)
 
 #### References in Text
 
@@ -126,7 +126,7 @@ Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
 
 #### Effective Date of 1998 Amendment
 
-For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d)of Pub. L. 105–277, set out as a note under section 5542 of this title.
+For effective date of amendment by Pub. L. 105–277, see section 101(b) \[title IV, §407(d)\] and section 2316(d) of Pub. L. 105–277, set out as a note under section 5542 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -46,7 +46,7 @@ For the purpose of this part, the term "endowment fund" means a fund that—
 
 Except as provided in section 1059e(b) of this title, for the purpose of this part, the term "enrollment of needy students" means an enrollment at an institution of higher education or a junior or community college which includes—
 
-&emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
+&emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 in the second fiscal year preceding the fiscal year for which the determination is beingmade (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
 &emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
 
@@ -120,7 +120,7 @@ Subsec. (b)(3) to (5). Pub. L. 102–325, §302(a)(3), struck out pars. (3) to (
 
 "(5) any institution of higher education which has an enrollment of which at least 5 percent are Native Hawaiian, Asian American, American Samoan, Micronesian, Guamian (Chamorro), and Northern Marianian, or any combination thereof, and which also satisfies the requirements of subparagraphs (A), (B), (C), and (D) of paragraph (1)."
 
-Subsec. (c)(2). Pub. L. 102–325, §302(b), substituted "second fiscal year preceding the fiscal year for which the determination is made, unless the requirement" for "second preceding fiscal year, unless the requirement".
+Subsec. (c)(2). Pub. L. 102–325, §302(b), substituted "second fiscal year preceding the fiscal year for whichthe determination is made, unless the requirement" for "second preceding fiscal year, unless the requirement".
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–369 added subsec. (f).
 

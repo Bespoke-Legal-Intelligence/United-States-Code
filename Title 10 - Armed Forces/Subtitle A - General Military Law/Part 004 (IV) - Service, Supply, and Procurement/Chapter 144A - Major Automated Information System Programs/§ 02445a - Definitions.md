@@ -68,3 +68,121 @@ In general.—The amendments made by subsection (a) \[enacting this chapter\] sh
 
 Report requirement.—Subsection (b) \[120 Stat. 2326\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\]."
 
+#### Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs
+
+Pub. L. 114–92, div. A, title II, §217, Nov. 25, 2015, 129 Stat. 770, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Deputy Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
+
+"(b)
+
+Execution of Activities.—The activities established under subsection (a) shall be carried out by such military departments and Defense Agencies as the Under Secretary and the Deputy Chief Management Officer consider appropriate.
+
+"(c)
+
+Activities.—
+
+&emsp;"(1)
+
+In general.—The set of activities established under subsection (a) may include the following:
+
+&emsp;&emsp;"(A) Development of capabilities in Department of Defense laboratories, test centers, and federally funded research and development centers to provide technical support for acquisition program management and business process re-engineering activities.
+
+&emsp;&emsp;"(B) Funding of intramural and extramural research and development activities as described in subsection (e).
+
+&emsp;"(2)
+
+Current activities.—The Secretary shall identify the current activities described in subparagraphs (A) and (B) of paragraph (1) that are being carried out as of the date of the enactment of this Act \[Nov. 25, 2015\]. The Secretary shall consider such current activities in determining the set of activities to establish pursuant to subsection (a).
+
+"(d)
+
+Gap Analysis.—In establishing the set of activities under subsection (a), not later than 270 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—
+
+&emsp;"(1) the set of activities to establish pursuant to subsection (a) that carry out the purposes specified in subsection (c)(1); and
+
+&emsp;"(2) the proposed funding requirements and timelines.
+
+"(e)
+
+Funding of Intramural and Extramural Research and Development.—
+
+&emsp;"(1)
+
+In general.—In carrying out the set of activities required by subsection (a), the Secretary may award grants or contracts to eligible entities to carry out intramural or extramural research and development in areas of interest described in paragraph (3).
+
+&emsp;"(2)
+
+Eligible entities.—For purposes of this subsection, an eligible entity includes the following:
+
+&emsp;&emsp;"(A) Entities in the defense industry.
+
+&emsp;&emsp;"(B) Institutions of higher education.
+
+&emsp;&emsp;"(C) Small businesses.
+
+&emsp;&emsp;"(D) Nontraditional defense contractors (as defined in section 2302 of title 10, United States Code).
+
+&emsp;&emsp;"(E) Federally funded research and development centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+&emsp;&emsp;"(F) Nonprofit research institutions.
+
+&emsp;&emsp;"(G) Government laboratories and test centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+&emsp;"(3)
+
+Areas of interest.—The areas of interest described in this paragraph are the following:
+
+&emsp;&emsp;"(A) Management innovation, including personnel and financial management policy innovation.
+
+&emsp;&emsp;"(B) Business process re-engineering.
+
+&emsp;&emsp;"(C) Systems engineering of information technology business systems.
+
+&emsp;&emsp;"(D) Cloud computing to support business systems and business processes.
+
+&emsp;&emsp;"(E) Software development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial software to meet the needs of the Department of Defense.
+
+&emsp;&emsp;"(F) Hardware development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial hardware to meet the needs of the Department of Defense.
+
+&emsp;&emsp;"(G) Development of methodologies and tools to support development and operational test of large and complex business systems.
+
+&emsp;&emsp;"(H) Analysis tools to allow decision-makers to make tradeoffs between requirements, costs, technical risks, and schedule in major automated information system acquisition programs.
+
+&emsp;&emsp;"(I) Information security in major automated information system systems.
+
+&emsp;&emsp;"(J) Innovative acquisition policies and practices to streamline acquisition of information technology systems.
+
+&emsp;&emsp;"(K) Such other areas as the Secretary considers appropriate.
+
+"(f)
+
+Priorities.—
+
+&emsp;"(1)
+
+In general.—In carrying out the set of activities required by subsection (a), the Secretary shall give priority to—
+
+&emsp;&emsp;"(A) projects that—
+
+&emsp;&emsp;&emsp;"(i) address the innovation and technology needs of the Department of Defense; and
+
+&emsp;&emsp;&emsp;"(ii) support activities of initiatives, programs, and offices identified by the Under Secretary and Deputy Chief Management Officer; and
+
+&emsp;&emsp;"(B) the projects and programs identified in paragraph (2).
+
+&emsp;"(2)
+
+Projects and programs identified.—The projects and programs identified in this paragraph are the following:
+
+&emsp;&emsp;"(A) Major automated information system programs.
+
+&emsp;&emsp;"(B) Projects and programs under the oversight of the Deputy Chief Management Officer.
+
+&emsp;&emsp;"(C) Projects and programs relating to defense procurement acquisition policy.
+
+&emsp;&emsp;"(D) Projects and programs of the agencies and field activities of the Office of the Secretary of Defense that support business missions such as finance, human resources, security, management, logistics, and contract management.
+
+&emsp;&emsp;"(E) Military and civilian personnel policy development for information technology workforce."
+

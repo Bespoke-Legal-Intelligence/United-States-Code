@@ -76,7 +76,7 @@ Other Definitions.—In this section:
 
 &emsp;&emsp;(B) Any other index developed in the private sector that the Secretary of Defense, in consultation with the other administering Secretaries, determines is comparable to the Consumer Price Index and is appropriate for use for purposes of this section.
 
-&emsp;(3) The term "uniformed services cost of living" means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
+&emsp;(3) The term "uniformed services cost of living" means the price index selected as described in paragraph (2) and adjusted as theSecretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
 
 &emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
 
@@ -116,7 +116,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 103–337, div. A, title VI, §602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
 
-"(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-dayperiod beginning on the date the Secretary of Defense submits the report required under paragraph (2).
+"(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
 "(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) \[probably should be (i)(5)\] of such section), shall submit to Congress a report describing—
 

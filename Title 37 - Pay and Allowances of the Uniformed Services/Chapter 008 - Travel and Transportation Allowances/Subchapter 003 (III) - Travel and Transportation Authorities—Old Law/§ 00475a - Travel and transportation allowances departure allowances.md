@@ -10,7 +10,7 @@
 
 &emsp;(4) a dependent who was authorized to join the member and who departed from his former place of residence incident to joining the member but who, as a result of the departure of dependents, is diverted to a safe haven designated by competent authority or is authorized to travel to a place the dependent may designate, even though he was in the United States when the departure was authorized or ordered.
 
-(b)(1) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled to have one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
+(b)(1) Under regulations prescribed by the Secretaries concerned, each member whose dependents are covered by subsection (a) is entitled tohave one motor vehicle that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents, transported at the expense of the United States to a designated place for the use of the dependents. When the dependents are permitted to rejoin the member, the vehicle may be transported at the expense of the United States to his permanent duty station.
 
 (2) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under paragraph (1) does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 97–60, §121(c), substituted "that is owned by the member
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–465 substituted "to depart" and "departure" for "evacuated" and "evacuation", respectively, wherever appearing.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuateddependents have been evacuated from places outside the United States to places inside the United States.
+<b>1966</b>—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
 
 #### Effective Date of 1998 Amendment
 

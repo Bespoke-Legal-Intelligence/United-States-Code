@@ -24,13 +24,13 @@ Except as otherwise specified in section 2406 of this title and notwithstanding 
 
 Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, provided:
 
-By the authority vested in me as President and as Commander in Chief of the Armed Forces of the United States of America, with recognition of the crucial importance to national security of the Naval Nuclear Propulsion Program, and for the purpose of preserving the basic structure, policies, and practices developed for this Program in the past and assuring that the Program will continue to function with excellence, it is hereby ordered as follows:
+By the authority vested in me as President and as Commander in Chief of the Armed Forces of the United States of America, with recognition of the crucial importance to national security of the Naval Nuclear Propulsion Program, and for the purpose of preserving thebasic structure, policies, and practices developed for this Program in the past and assuring that the Program will continue to function with excellence, it is hereby ordered as follows:
 
 Section 1. The Naval Nuclear Propulsion Program is an integrated program carried out by two organizational units, one in the Department of Energy and the other in the Department of the Navy.
 
 Sec. 2. Both organizational units shall be headed by the same individual so that the activities of each may continue in practice under common management. This individual shall direct the Naval Nuclear Propulsion Program in both departments. The director shall be qualified by reason of technical background and experience in naval nuclear propulsion. The director may be either a civilian or an officer of the United States Navy, active or retired.
 
-Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that theSecretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
+Sec. 3. The Secretary of the Navy (through the Secretary of Defense) and the Secretary of Energy shall obtain the approval of the President to appoint the director of the Naval Nuclear Propulsion Program for their respective Departments. The director shall be appointed to serve a term of eight years, except that the Secretary of Energy and the Secretary of the Navy may, with mutual concurrence, terminate or extend the term of the respective appointments.
 
 Sec. 4. An officer of the United States Navy appointed as director shall be nominated for the grade of Admiral. A civilian serving as director shall be compensated at a rate to be specified at the time of appointment.
 

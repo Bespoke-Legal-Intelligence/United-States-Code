@@ -12,7 +12,7 @@ Not later than 3 months before the payment of any such quarterly installment to 
 
 #### (1) Computation
 
-&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under theState program funded under this part and such other information as the Secretary may find necessary.
+&emsp;The Secretary shall estimate the amount to be paid to each eligible State for each quarter under this part, such estimate to be based on a report filed by the State containing an estimate by the State of the total sum to be expended by the State in the quarter under the State program funded under this part and such other information as the Secretary may find necessary.
 
 #### (2) Certification
 

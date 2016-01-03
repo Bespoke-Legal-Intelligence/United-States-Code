@@ -62,7 +62,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;&emsp;(B) submits or publishes any false or misleading report or information,
 
-> &emsp;in a manner not described in paragraph (1) shall be subject to a penalty of not more than$20,000 for each day during which such failure continues or such false or misleading information is not corrected.
+> &emsp;in a manner not described in paragraph (1) shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected.
 
 #### (3) Third tier
 

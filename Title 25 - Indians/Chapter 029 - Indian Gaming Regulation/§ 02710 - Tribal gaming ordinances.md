@@ -34,13 +34,13 @@
 
 &emsp;(C) annual outside audits of the gaming, which may be encompassed within existing independent tribal audit systems, will be provided by the Indian tribe to the Commission;
 
-&emsp;(D) all contracts for supplies, services, or concessions for a contract amount in excess of$25,000 annually (except contracts for professional legal or accounting services) relating to such gaming shall be subject to such independent audits;
+&emsp;(D) all contracts for supplies, services, or concessions for a contract amount in excess of $25,000 annually (except contracts for professional legal or accounting services) relating to such gaming shall be subject to such independent audits;
 
 &emsp;(E) the construction and maintenance of the gaming facility, and the operation of that gaming is conducted in a manner which adequately protects the environment and the public health and safety; and
 
 &emsp;(F) there is an adequate system which—
 
-&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gaming enterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
+&emsp;&emsp;(i) ensures that background investigations are conducted on the primary management officials and key employees of the gamingenterprise and that oversight of such officials and their management is conducted on an ongoing basis; and
 
 &emsp;&emsp;(ii) includes—
 
@@ -80,7 +80,7 @@
 
 (1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
-(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
+(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II), the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
 (3) Any Indian tribe which operates a class II gaming activity and which—
 
@@ -114,7 +114,7 @@
 
 &emsp;(A) the tribe shall not be subject to the provisions of paragraphs (1), (2), (3), and (4) of section 2706(b) of this title;
 
-&emsp;(B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) of this section and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
+&emsp;(B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
 
 &emsp;(C) the Commission may not assess a fee on such activity pursuant to section 2717 of this title in excess of one quarter of 1 per centum of the gross revenue.
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(i) is adopted by the governing body of the Indian tribe having jurisdiction over such lands,
 
-&emsp;&emsp;(ii) meets the requirements of subsection (b) of this section, and
+&emsp;&emsp;(ii) meets the requirements of subsection (b), and
 
 &emsp;&emsp;(iii) is approved by the Chairman,
 
@@ -136,7 +136,7 @@
 
 &emsp;(C) conducted in conformance with a Tribal-State compact entered into by the Indian tribe and the State under paragraph (3) that is in effect.
 
-(2)(A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b) of this section.
+(2)(A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b).
 
 (B) The Chairman shall approve any ordinance or resolution described in subparagraph (A), unless the Chairman specifically determines that—
 
@@ -160,7 +160,7 @@
 
 (3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
-(B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect onlywhen notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
+(B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
 (C) Any Tribal-State compact negotiated under subparagraph (A) may include provisions relating to—
 

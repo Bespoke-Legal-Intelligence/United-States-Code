@@ -10,7 +10,7 @@
 
 &emsp;(4) when away from home to perform duty, including duty by a member of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, in his status as a member of the National Guard, for which he is entitled to, or has waived, pay under this title;
 
-&emsp;(5) when not on active duty, if assigned to a Reserve school, and attending a reserve training meeting for the purpose of performing duties as an instructor at such meeting, if suchmeeting is 100 or more miles from the site at which the member would attend paid drills of the Reserve school to which he is assigned; and
+&emsp;(5) when not on active duty, if assigned to a Reserve school, and attending a reserve training meeting for the purpose of performing duties as an instructor at such meeting, if such meeting is 100 or more miles from the site at which the member would attend paid drills of the Reserve school to which he is assigned; and
 
 &emsp;(6) upon filling a vacancy in a Selected Reserve unit at a duty station that is more than 150 miles from the member's residence if—
 
@@ -72,7 +72,7 @@
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
-(5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described inparagraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
+(5) Effective January 1, 2003, the per diem rates established under paragraph (2)(A) for travel performed in connection with a change of permanent station or for travel described in paragraph (2) or (3) of subsection (a) shall be equal to the standard per diem rates established in the Federal travel regulation for travel within the continental United States of civilian employees and their dependents, unless the Secretaries concerned determine that a higher rate for members is more appropriate.
 
 (e) A member who is on duty with, or is undergoing training for, the Air Mobility Command, the Marine Corps Transport Squadrons, the Fleet Tactical Support Squadrons, the Naval Aircraft Ferrying Squadrons, or any other unit determined by the Secretary concerned to be performing duties similar to the duties performed by such command or squadrons, and who is away from his permanent station, may be paid a per diem in lieu of subsistence in an amount not more than the amount to which he would be entitled if he were performing travel in connection with temporary duty without, in either case, the issuance of orders for specific travel.
 
@@ -264,7 +264,7 @@ Subsec. (d)(1)(A). Pub. L. 100–26, §8(d)(6), substituted "privately owned" fo
 
 Subsec. (h). Pub. L. 100–180 added subsec. (h).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted "Subject to paragraph (2), transportation" for "Transportation" in par. (1)(B) and "subparagraph (A) of this paragraph" for "clause (1) of this subsection" in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted "Except as provided in paragraph (4) of this subsection and under" for "Under". See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
+<b>1986</b>—Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591 substituted "Subject to paragraph (2), transportation" for "Transportation" in par. (1)(B) and "subparagraph (A) of this paragraph" for "clause (1) of this subsection" in par. (1)(C) and added pars. (2), (4), and (5), and redesignated former par. (2) as (3) and substituted "Except as provided in paragraph (4) of this subsectionand under" for "Under". See Termination of Amendments by Public Laws 99–500 and 99–591 note below.
 
 Subsec. (d)(1)(B). Pub. L. 99–661, §614(a)(1), (2), substituted "payment in lieu of subsistence as provided in paragraph (2) of this subsection in an amount sufficient" for "per diem in place of subsistence in an amount not more than $50 determined by the Secretaries concerned to be sufficient" and struck out "to be" after "travel is".
 
@@ -296,7 +296,7 @@ Subsec. (c). Pub. L. 97–60, §121(a)(3), designated existing provisions as par
 
 Subsec. (f). Pub. L. 97–60, §121(a)(4), designated existing provisions as par. (1), substituted "for a member who is separated from the service or released from active duty may be paid or provided only for travel actually performed" for "may be paid on the member's separation from the service or release from active duty, whether or not he performs the travel involved" in par. (1) as so designated, and added par. (2).
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) "per mile prescribed by the Secretaries concerned and" for "that is not more than 7 cents a mile",and in par. (3) "at a rate per mile prescribed by the Secretaries concerned and" for "of not more than 10 cents a mile".
+<b>1980</b>—Subsec. (d). Pub. L. 96–343, §5(a), substituted in par. (1) "per mile prescribed by the Secretaries concerned and" for "that is not more than 7 cents a mile", and in par. (3) "at a rate per mile prescribed by the Secretaries concerned and" for "of not more than 10 cents a mile".
 
 Pub. L. 96–342 substituted in par. (2) "$50" for "$35" and in provision following par. (3) "$75" for "$50".
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 
 #### Termination of Amendments by Public Laws 99–500 and 99–591
 
-Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L.112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to 'this section' in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act."
+Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 100–180, div. A, title VI, §612(b)(2), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendments made to section 474(d) of title 37, United States Code, by section 614(a) of the Defense Authorization Act \[section 614(a) of Pub. L. 99–661\] shall be executed as if that portion of section 9073 of the Defense Appropriations Act \[section 101(c) \[title IX, §9073\] of Pub. L. 99–500 and Pub. L. 99–591, enacting S.2638, §615, which amended subsec. (d) of this section and enacted a provision set out as a note under this section\] which is before the proviso had not been enacted. Such portion of section 9073 which is before the proviso shall not be in effect after the date of the enactment of this Act \[Apr. 21, 1987\], and the reference to 'this section' in such proviso shall be deemed to refer to section 614 of the Defense Authorization Act."
 
 #### Transmission of Certification of Travel and Transportation Allowances to Congress With Respect to Fiscal Year 1987
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) deliver to the trustee any property of the debtor held by or transferred to such custodian, or proceeds, product, offspring, rents, or profits of such property, that is in such custodian's possession, custody, or control on the date that such custodian acquires knowledge of the commencement of the case; and
 
-&emsp;(2) file an accounting of any property of the debtor, or proceeds, product, offspring, rents,or profits of such property, that, at any time, came into the possession, custody, or control of such custodian.
+&emsp;(2) file an accounting of any property of the debtor, or proceeds, product, offspring, rents, or profits of such property, that, at any time, came into the possession, custody, or control of such custodian.
 
 (c) The court, after notice and a hearing, shall—
 

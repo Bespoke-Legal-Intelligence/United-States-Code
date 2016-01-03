@@ -34,7 +34,7 @@ In this subchapter—
 
 #### References in Text
 
-Section 314(a)(6) of this title, referred to in par. (8), was in the original "section 502(a)(6)" and was translated as meaning section 502 of Pub. L. 107–296 prior toits redesignation as section 504 by Pub. L. 109–295, §611(8), and not section 506 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
+Section 314(a)(6) of this title, referred to in par. (8), was in the original "section 502(a)(6)" and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and not section 506 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

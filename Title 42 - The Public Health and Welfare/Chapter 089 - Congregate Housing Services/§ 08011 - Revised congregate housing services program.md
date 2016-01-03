@@ -138,7 +138,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(E) performing such other duties and functions that the Secretary deems appropriate to enable frail elderly persons residing in federally assisted housing to live with dignity and independence.
 
-> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management. Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
+> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management.Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
 
 #### (5) Other services
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -306,7 +306,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (1) Use of residents in providing services
 
-&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providing the services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
+&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providingthe services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
 
 &emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
@@ -354,7 +354,7 @@ For purposes of this section:
 
 &emsp;&emsp;(F) housing assisted under section 1486 of this title.
 
-&emsp;(7) The term "eligible resident" means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless of whether the person is elderly), or temporarily disabled.
+&emsp;(7) The term "eligible resident" means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless ofwhether the person is elderly), or temporarily disabled.
 
 &emsp;(8) The term "frail elderly" means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
@@ -412,7 +412,7 @@ For purposes of this section:
 
 #### (m) Regulations
 
-The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day period beginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
+The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day periodbeginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
 
 #### (n) Authorization of appropriations
 

@@ -14,7 +14,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;&emsp;(A) any refund of State income tax which would otherwise be payable to a noncustodial parent will be reduced, after notice has been sent to that noncustodial parent of the proposed reduction and the procedures to be followed to contest it (and after full compliance with all procedural due process requirements of the State), by the amount of any overdue support owed by such noncustodial parent;
 
-&emsp;&emsp;(B) the amount by which such refund is reduced shall be distributed in accordance with section 657 of this title in the case of overdue support assigned to a State pursuant to section 608(a)(3) or 671(a)(17) of this title, or, in any other case, shall be distributed, after deduction of any fees imposed by the State to cover the costs of collection, tothe child or parent to whom such support is owed; and
+&emsp;&emsp;(B) the amount by which such refund is reduced shall be distributed in accordance with section 657 of this title in the case of overdue support assigned to a State pursuant to section 608(a)(3) or 671(a)(17) of this title, or, in any other case, shall be distributed, after deduction of any fees imposed by the State to cover the costs of collection, to the child or parent to whom such support is owed; and
 
 &emsp;&emsp;(C) notice of the noncustodial parent's social security account number (or numbers, if he has more than one such number) and home address shall be furnished to the State agency requesting the refund offset, and to the State agency enforcing the order.
 
@@ -92,7 +92,7 @@ Services offered by other entities.—The Secretary shall prescribe regulations 
 
 &emsp;&emsp;&emsp;(iv)
 
-Use of paternity acknowledgment affidavit.—Such procedures must require the State to develop and use an affidavit for the voluntary acknowledgment of paternity which includes the minimum requirements of the affidavit specified by the Secretary under section 652(a)(7) of this title for the voluntary acknowledgment of paternity, and to give full faith and credit to such an affidavit signed in any other State according to its procedures.
+Use of paternity acknowledgment affidavit.—Such procedures must require the State to develop and use an affidavit for the voluntary acknowledgment of paternity which includes the minimum requirements of the affidavit specified by theSecretary under section 652(a)(7) of this title for the voluntary acknowledgment of paternity, and to give full faith and credit to such an affidavit signed in any other State according to its procedures.
 
 &emsp;&emsp;(D)
 
@@ -174,7 +174,7 @@ Reporting arrearages to credit bureaus.—
 
 &emsp;&emsp;(A)
 
-In general.—Procedures (subject to safeguards pursuant to subparagraph (B)) requiring the State to report periodically to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any noncustodial parent who is delinquent in the payment of support, and the amount of overdue support owed by such parent.
+In general.—Procedures (subject to safeguards pursuant to subparagraph (B)) requiring the State to report periodically to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of anynoncustodial parent who is delinquent in the payment of support, and the amount of overdue support owed by such parent.
 
 &emsp;&emsp;(B)
 
@@ -240,7 +240,7 @@ Proof of substantial change in circumstances necessary in request for review out
 
 Notice of right to review.—Procedures which require the State to provide notice not less than once every 3 years to the parents subject to the order informing the parents of their right to request the State to review and, if appropriate, adjust the order pursuant to this paragraph. The notice may be included in the order.
 
-&emsp;(11) Procedures under which a State must give full faith and credit to a determination ofpaternity made by any other State, whether established through voluntary acknowledgment or through administrative or judicial processes.
+&emsp;(11) Procedures under which a State must give full faith and credit to a determination of paternity made by any other State, whether established through voluntary acknowledgment or through administrative or judicial processes.
 
 &emsp;(12)
 
@@ -312,7 +312,7 @@ Financial institution data matches.—
 
 In general.—Procedures under which the State agency shall enter into agreements with financial institutions doing business in the State—
 
-&emsp;&emsp;&emsp;(i) to develop and operate, in coordination with such financial institutions, and the Federal Parent Locator Service in the case of financial institutions doing business in two or more States, a data match system, using automated data exchanges to the maximum extent feasible, in which each such financial institution is required to provide for each calendar quarter the name, record address, social security number or other taxpayer identification number, and other identifying information for each noncustodial parent who maintains an account at such institution and who owes past-due support, as identified by the State by name and social security number or other taxpayer identification number; and
+&emsp;&emsp;&emsp;(i) to develop and operate, in coordination with such financial institutions, andthe Federal Parent Locator Service in the case of financial institutions doing business in two or more States, a data match system, using automated data exchanges to the maximum extent feasible, in which each such financial institution is required to provide for each calendar quarter the name, record address, social security number or other taxpayer identification number, and other identifying information for each noncustodial parent who maintains an account at such institution and who owes past-due support, as identified by the State by name and social security number or other taxpayer identification number; and
 
 &emsp;&emsp;&emsp;(ii) in response to a notice of lien or levy, encumber or surrender, as the case may be, assets held by such institution on behalf of any noncustodial parent who is subject to a child support lien pursuant to paragraph (4).
 
@@ -364,7 +364,7 @@ Health care coverage.—Procedures under which—
 
 &emsp;&emsp;(C) any liability of the obligated parent to such plan for employee contributions which are required under such plan for enrollment of the child is effectively subject to appropriate enforcement, unless the obligated parent contests such enforcement based on a mistake of fact.
 
-> Notwithstanding section 654(20)(B) of this title, the procedures which are required under paragraphs (3), (4), (6), (7), and (15) need not be used or applied in cases where the State determines (using guidelines which are generally available within the State and which take into account the payment record of the noncustodial parent, the availability of other remedies, and other relevant considerations) that such use or application would not carry out the purposes of this part or would be otherwise inappropriate in the circumstances.
+> Notwithstanding section 654(20)(B) of this title, the procedures which are required under paragraphs (3), (4), (6), (7), and (15) need not be used or applied in cases where the State determines (using guidelines which are generally available within the State and which take into account the payment record of the noncustodial parent, the availability of other remedies, and other relevant considerations) that such use or application would not carry out the purposes of thispart or would be otherwise inappropriate in the circumstances.
 
 #### (b) Withholding from income of amounts payable as support
 
@@ -412,7 +412,7 @@ The procedures referred to in subsection (a)(1)(A) of this section (relating to 
 
 &emsp;(iii) As used in this subparagraph, the term "business day" means a day on which State offices are open for regular business.
 
-&emsp;(B) Methods must be established by the State to simplify the withholding process foremployers to the greatest extent possible, including permitting any employer to combine all withheld amounts into a single payment to each appropriate agency or entity (with the portion thereof which is attributable to each individual employee being separately designated).
+&emsp;(B) Methods must be established by the State to simplify the withholding process for employers to the greatest extent possible, including permitting any employer to combine all withheld amounts into a single payment to each appropriate agency or entity (with the portion thereof which is attributable to each individual employee being separately designated).
 
 &emsp;(C) The employer must be held liable to the State for any amount which such employer fails to withhold from income due an employee following receipt by such employer of proper notice under subparagraph (A), but such employer shall not be required to vary the normal pay and disbursement cycles in order to comply with this paragraph.
 
@@ -474,7 +474,7 @@ The procedures specified in this subsection are the following:
 
 &emsp;&emsp;&emsp;&emsp;(VIII) corrections records.
 
-&emsp;&emsp;&emsp;(ii) Certain records held by private entities with respect to individuals who owe or are owed support (or against or with respect to whom a support obligation is sought), consisting of—
+&emsp;&emsp;&emsp;(ii) Certain records held by private entities with respect to individuals who owe orare owed support (or against or with respect to whom a support obligation is sought), consisting of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the names and addresses of such individuals and the names and addresses of the employers of such individuals, as appearing in customer records of public utilities and cable television companies, pursuant to an administrative subpoena authorized by subparagraph (B); and
 
@@ -536,7 +536,7 @@ The procedures specified in this subsection are the following:
 
 #### (d) Exemption of States
 
-If a State demonstrates to the satisfaction of the Secretary, through the presentation to the Secretary of such data pertaining to caseloads, processing times, administrative costs, and average support collections, and such other data or estimates as the Secretary may specify, that the enactment of any law or the use of any procedure or procedures required by or pursuant to this section will not increase the effectiveness and efficiency of the State child support enforcement program, the Secretary may exempt the State, subject to the Secretary's continuing review and to termination of the exemption should circumstances change, from the requirement to enact the law or use the procedure or procedures involved.
+If a State demonstrates to the satisfaction of the Secretary, through the presentation to the Secretary of such data pertaining to caseloads, processing times, administrative costs, and average support collections, and such other data orestimates as the Secretary may specify, that the enactment of any law or the use of any procedure or procedures required by or pursuant to this section will not increase the effectiveness and efficiency of the State child support enforcement program, the Secretary may exempt the State, subject to the Secretary's continuing review and to termination of the exemption should circumstances change, from the requirement to enact the law or use the procedure or procedures involved.
 
 #### (e) "Overdue support" defined
 
@@ -594,7 +594,7 @@ October 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the dat
 
 Subsec. (a)(14)(A)(iii). Pub. L. 109–171, §7301(g), inserted "(but the assisting State may establish a corresponding case based on such other State's request for assistance)" before semicolon.
 
-Subsec. (a)(19)(A). Pub. L. 109–171, §7307(a)(1), (2)(A)(ii)(I), substituted "shall include a provision for medical support for the child to be provided by either or both parents, and shall be enforced" for "which include a provision for the health care coverage of the child are enforced", "section 401(e)" for "section 401(e)(3)(C)", and "section 401(f)" for "section 401(f)(5)(C)".
+Subsec. (a)(19)(A). Pub. L. 109–171, §7307(a)(1), (2)(A)(ii)(I), substituted "shall include a provision formedical support for the child to be provided by either or both parents, and shall be enforced" for "which include a provision for the health care coverage of the child are enforced", "section 401(e)" for "section 401(e)(3)(C)", and "section 401(f)" for "section 401(f)(5)(C)".
 
 Subsec. (a)(19)(B). Pub. L. 109–171, §7307(a)(2)(A)(ii)(II)(aa), struck out "noncustodial" before "parent" in two places in introductory provisions.
 
@@ -668,11 +668,11 @@ Subsec. (a)(5). Pub. L. 104–193, §331(a), inserted heading and amended text o
 
 Subsec. (a)(6). Pub. L. 104–193, §395(d)(1)(H), (2)(D), substituted "a noncustodial parent give security" for "an absent parent give security" and "noncustodial parent of the proposed action" for "absent parent of the proposed action".
 
-Subsec. (a)(7). Pub. L. 104–193, §367, inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: "Procedures which require the State to periodically report to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency; except that (A) if the amount of the overdue support involved in any case is less than $1,000, information regarding such amount shall be made available only at the option of the State, (B) any information with respect to an absent parent shall be made available under such procedures only after notice has been sent to such absent parent of the proposed action, and such absent parent has been given a reasonable opportunity to contest the accuracy of such information (and after full compliance with all procedural due process requirements of the State), and (C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency."
+Subsec. (a)(7). Pub. L. 104–193, §367, inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: "Procedures which require the State to periodically report to consumer reporting agencies (as defined in section 1681a(f) of title 15) the name of any parent who owes overdue support and is at least 2 months delinquent in the payment of such support and the amount of such delinquency; except that (A) if the amount of the overdue support involved in any case is less than $1,000, information regarding suchamount shall be made available only at the option of the State, (B) any information with respect to an absent parent shall be made available under such procedures only after notice has been sent to such absent parent of the proposed action, and such absent parent has been given a reasonable opportunity to contest the accuracy of such information (and after full compliance with all procedural due process requirements of the State), and (C) such information shall not be made available to (i) a consumer reporting agency which the State determines does not have sufficient capability to systematically and timely make accurate use of such information, or (ii) an entity which has not furnished evidence satisfactory to the State that the entity is a consumer reporting agency."
 
 Subsec. (a)(8)(A). Pub. L. 104–193, §314(b)(2)(A), substituted "income" for "wages".
 
-Subsec. (a)(8)(B)(i). Pub. L. 104–193, §§314(b)(2)(A), 395(d)(2)(D), substituted "income" for "wages" in twoplaces and "a noncustodial parent" for "an absent parent".
+Subsec. (a)(8)(B)(i). Pub. L. 104–193, §§314(b)(2)(A), 395(d)(2)(D), substituted "income" for "wages" in two places and "a noncustodial parent" for "an absent parent".
 
 Subsec. (a)(8)(B)(ii). Pub. L. 104–193, §395(d)(1)(H), substituted "noncustodial parent" for "absent parent".
 

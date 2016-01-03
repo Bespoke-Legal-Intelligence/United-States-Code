@@ -1,6 +1,6 @@
 ### §1766c. Allowances and benefits
 
-The Secretary of Agriculture may, under such rules and regulations as may be prescribed by the President or his designee, provide to personnel appointed or assigned by the Secretary of Agriculture under this chapter or other authority allowance and benefits similar to those provided by chapter 9 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4081 et seq.\]. Leaves of absence for personnel under this chapter shall be on the same basis as is provided for the Foreign Service of the United States by subchapter I of chapter 63 of title 5.
+The Secretary of Agriculture may, under such rules and regulations as may be prescribed bythe President or his designee, provide to personnel appointed or assigned by the Secretary of Agriculture under this chapter or other authority allowance and benefits similar to those provided by chapter 9 of title I of the Foreign Service Act of 1980 \[22 U.S.C. 4081 et seq.\]. Leaves of absence for personnel under this chapter shall be on the same basis as is provided for the Foreign Service of the United States by subchapter I of chapter 63 of title 5.
 
 (Aug. 28, 1954, ch. 1041, title VI, §606D, formerly §603, 68 Stat. 909; renumbered §606D, Pub. L. 95–501, title IV, §401(3), Oct. 21, 1978, 92 Stat. 1691; amended Pub. L. 96–465, title II, §2206(b)(2), Oct. 17, 1980, 94 Stat. 2162.)
 

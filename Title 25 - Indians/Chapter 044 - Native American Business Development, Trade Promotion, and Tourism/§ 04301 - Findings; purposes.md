@@ -162,7 +162,7 @@ Secretary.—The term 'Secretary' means the Secretary of Commerce.
 
 &emsp;"(7)
 
-Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
+Tribal organization.—The term 'tribal organization' has the meaning given that term in section4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
 
 #### "SEC. 4. ESTABLISHMENT OF AUTHORITY.
 

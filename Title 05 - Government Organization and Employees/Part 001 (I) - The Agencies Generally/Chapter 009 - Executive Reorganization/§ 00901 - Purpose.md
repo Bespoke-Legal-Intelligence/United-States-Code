@@ -18,7 +18,7 @@
 
 (c) It is the intent of Congress that the President should provide appropriate means for broad citizen advice and participation in restructuring and reorganizing the executive branch.
 
-(d) The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.
+(d) The President shall from time to time examine the organization of all agencies and shall determine what changes in such organizationare necessary to carry out any policy set forth in subsection (a) of this section.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 92–179, §1, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 29.)
 
@@ -98,7 +98,7 @@ Ex. Ord. No. 6623, Mar. 1, 1934, revoked a final paragraph of section 1 of Ex. O
 
 The effective date of Ex. Ord. No. 6166, §1, as provided for in section 22, post, was extended to Dec. 31, 1933, by Ex. Ord. No. 6224, of July 27, 1933, and the effective date of the last paragraph, subsequently revoked by Ex. Ord. No. 6623, was deferred by Ex. Ord. No. 6624 of Mar. 1, 1934, until such revocation could become effective.
 
-\[Subsequent to the effective date of Ex. Ord. No. 6166, §1, certain functions affected thereby were again transferred as follows: The Public Buildings Branch of the Procurement Division was transferred to Public Buildings Administration within the Federal Works Administration by 1939 Reorg. Plan No. 1, §§301, 303, 4 Fed. Reg. 2729; 53 Stat. 1426, 1427; the Federal Employment Stabilization Office, created by Ex. Ord. No. 6166, §1, as amended by Ex. Ord. No. 6624, was abolished by 1939 Reorg. Plan No. 1, §4, 4 Fed. Reg. 2727, 53 Stat. 1423, and its functions transferred to the Executive Office of the President.\]
+\[Subsequent to the effective date of Ex. Ord. No. 6166, §1, certain functions affected thereby were again transferred as follows: The Public Buildings Branch of the Procurement Division was transferred to Public Buildings Administration within the Federal Works Administration by 1939 Reorg. Plan No. 1, §§301, 303, 4 Fed. Reg. 2729; 53 Stat. 1426, 1427; the Federal Employment Stabilization Office, created by Ex. Ord. No. 6166, §1, asamended by Ex. Ord. No. 6624, was abolished by 1939 Reorg. Plan No. 1, §4, 4 Fed. Reg. 2727, 53 Stat. 1423, and its functions transferred to the Executive Office of the President.\]
 
 #### Supersedure of Pars. 1, 3, and 5
 
@@ -260,7 +260,7 @@ All other functions now performed by the Bureau of Prohibition are transferred t
 
 Disbursement
 
-\[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency \[except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia\] were transferred to the \[Fiscal Service of the\] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division of Disbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.\]
+\[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940,5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency \[except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia\] were transferred to the \[Fiscal Service of the\] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division of Disbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.\]
 
 #### Amendments
 
@@ -292,7 +292,7 @@ The effective date of the first paragraph of this section, insofar as it affecte
 
 Insular Courts
 
-The United States Court for China, the District Court of the United States for the Panama Canal Zone, andthe District Court of the Virgin Islands of the United States are transferred to the Department of Justice.
+The United States Court for China, the District Court of the United States for the Panama Canal Zone, and the District Court of the Virgin Islands of the United States are transferred to the Department of Justice.
 
 #### Effective Date
 
@@ -344,7 +344,7 @@ The functions of the United States Shipping Board including those over and in re
 
 National Screw Thread Commission
 
-The National Screw Thread Commission is abolished, and its records, property, facilities, equipment, and supplies are transferred to the Department of Commerce.
+The National Screw Thread Commission is abolished, and its records, property, facilities, equipment, andsupplies are transferred to the Department of Commerce.
 
 #### §14.
 
@@ -422,7 +422,7 @@ As used in this order—
 
 Effective Date
 
-In accordance with law, this order shall become effective 61 days from its date: <i>Provided,</i> That in case itshall appear to the President that the interests of economy require that any transfer, consolidation, or elimination be delayed beyond the date this order becomes effective, he may, in his discretion, fix a later date therefor, and he may for like cause further defer such date from time to time. (Promulgated June 10, 1933.)
+In accordance with law, this order shall become effective 61 days from its date: <i>Provided,</i> That in case it shall appear to the President that the interests of economy require that any transfer, consolidation, or elimination be delayed beyond the date this order becomes effective, he may, in his discretion, fix a later date therefor, and he may for like cause further defer such date from time to time. (Promulgated June 10, 1933.)
 
 \[Postponements of effective date of certain transfers, etc., see notes under the various sections of this Executive Order effecting those transfers, etc.\]
 
@@ -432,7 +432,7 @@ Executive Order No. 7980, promulgated September 29, 1938, provided: "That the tr
 
 Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
-Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred to and vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
+Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred toand vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
 Public Buildings Branch of Procurement Division and its functions and personnel were transferred to Public Buildings Administration, and functions of Secretary of Agriculture and Director of Procurement Division relating to administration thereof and to selection of sites for public buildings were transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§301, 303, effective July 1, 1939. See also sections 307–310 of said plan for provisions relating to transfer of records, property, funds, and personnel.
 

@@ -76,7 +76,7 @@ In general.—Subject to subsection (d), if the Secretary fails to provide a rep
 
 &emsp;"(2)
 
-Subsequent reprogramming.—Subject to subsection (d), for each additional week after the datedescribed in paragraph (1) in which a report described in that paragraph remains uncompleted and unsubmitted to Congress, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Secretary of the Army with responsibility for completing that report.
+Subsequent reprogramming.—Subject to subsection (d), for each additional week after the date described in paragraph (1) in which a report described in that paragraph remains uncompleted and unsubmitted to Congress, $5,000 shall be reprogrammed from the General Expenses account of the civil works program of the Army Corps of Engineers into the account of the division of the Secretary of the Army with responsibility for completing that report.
 
 "(d)
 
@@ -174,7 +174,7 @@ In general.—After the date on which an agreement is executed pursuant to subpa
 
 &emsp;&emsp;&emsp;"(ii)
 
-Administration.—The Secretary shall include such provisions as the Secretary determines to be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph—
+Administration.—The Secretary shall include such provisions as the Secretary determinesto be necessary in an agreement under subparagraph (A) to ensure that a non-Federal interest receiving Federal funds under this paragraph—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has the necessary qualifications to administer those funds; and
 
@@ -306,7 +306,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shallsubmit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—
+In general.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report detailing the results of the pilot program carried out under this subsection, including—
 
 &emsp;&emsp;&emsp;"(i) a description of the progress of non-Federal interests in meeting milestones in detailed project schedules developed pursuant to paragraph (2)(B); and
 

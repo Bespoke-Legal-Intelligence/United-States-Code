@@ -8,7 +8,7 @@
 
 #### (A) Natural gas company
 
-&emsp;&emsp;The term "natural gas company" has the meaning given the term in section 16451 of title 42, except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
+&emsp;&emsp;The term "natural gas company" has the meaning given the term in section 16451 oftitle 42, except that the term also includes a person engaged in the transportation of natural gas in intrastate commerce.
 
 #### (B) Public-utility company
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartialdecisionmaking with respect to permits, either substantively or procedurally.
+&emsp;In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
 
 #### (2) Impartial decisionmaking
 
@@ -94,7 +94,7 @@ None of the funds accepted under this section shall be used to carry out a revie
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 Section was formerly classified as a note under section 2201 of this title.
 

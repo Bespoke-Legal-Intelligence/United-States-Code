@@ -66,7 +66,7 @@ Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) an
 
 Subsec. (c). Pub. L. 103–160, §825(a)(2), inserted heading.
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: "The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at suchtimes and in such form as may be agreed upon by the Secretary and those Committees."
+<b>1990</b>—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: "The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees."
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525 substituted "subsections (a) and (b) of section 3324" for "section 3324(a) and (b)".
 
@@ -98,7 +98,7 @@ Definitions.—In this section \[this note\]:
 
 &emsp;"(3) The term 'operational purposes' means for the purposes of conducting military operations, including training, exercises, large scale demonstrations, and moving and sustaining military forces and military platforms. The term does not include research, development, testing, evaluation, fuel certification, or other demonstrations.
 
-&emsp;"(4) The term 'fully burdened cost' means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use."
+&emsp;"(4) The term 'fully burdened cost' means the commodity price of the fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which thefuel is received from the commercial supplier to the point of use."
 
 #### Purchases of Gasohol as Fuel for Motor Vehicles
 

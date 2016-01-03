@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(1) if it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance, such article shall not be considered adulterated under this clause if the quantity of such substance in or on such article does not ordinarily render it injurious to health;
 
-&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in the judgment of the Secretary, make such article unfit for human food;
+&emsp;(2)(A) if it bears or contains (by reason of administration of any substance to the live poultry or otherwise) any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive) which may, in thejudgment of the Secretary, make such article unfit for human food;
 
 &emsp;(B) if it is, in whole or in part, a raw agricultural commodity and such commodity bears or contains a pesticide chemical which is unsafe within the meaning of section 346a of this title;
 
@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
-&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to smallpackages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
+&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -90,7 +90,7 @@ For purposes of this chapter—
 
 (u) The term "immediate container" includes any consumer package; or any other container in which poultry products, not consumer packaged, are packed.
 
-(v) The term "capable of use as human food" shall apply to any carcass, or part or product ofa carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
+(v) The term "capable of use as human food" shall apply to any carcass, or part or product of a carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 
 (w) The term "processed" means slaughtered, canned, salted, stuffed, rendered, boned, cut up, or otherwise manufactured or processed.
 

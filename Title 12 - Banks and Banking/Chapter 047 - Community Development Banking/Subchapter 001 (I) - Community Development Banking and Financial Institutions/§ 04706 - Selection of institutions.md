@@ -26,7 +26,7 @@ Except as provided in section 4712 of this title, the Fund shall, in its sole di
 
 &emsp;(11) the extent to which the applicant is, or will be, community-owned or community-governed;
 
-&emsp;(12) the extent to which the applicant will increase its resources through coordination with other institutions or participation in a secondary market;
+&emsp;(12) the extent to which the applicant will increase its resources through coordinationwith other institutions or participation in a secondary market;
 
 &emsp;(13) in the case of an applicant with a prior history of serving investment areas or targeted populations, the extent of success in serving them; and
 

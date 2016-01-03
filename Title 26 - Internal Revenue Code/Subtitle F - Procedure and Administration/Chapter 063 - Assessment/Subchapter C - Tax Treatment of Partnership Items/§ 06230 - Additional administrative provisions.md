@@ -110,7 +110,7 @@
 
 #### (4) Timely suit
 
-&emsp;Paragraph (1) shall not apply to any credit or refund of any overpayment attributable to a partnership item (or an item affected by such partnership item) if a partner brings a timely suit with respect to a timely administrative adjustment request under section 6228 or a timely claim under subsection (c) relating to such overpayment.
+&emsp;Paragraph (1) shall not apply to any credit or refund of any overpayment attributable toa partnership item (or an item affected by such partnership item) if a partner brings a timely suit with respect to a timely administrative adjustment request under section 6228 or a timely claim under subsection (c) relating to such overpayment.
 
 #### (5) Overpayments refunded without requirement that partner file claim
 
@@ -126,7 +126,7 @@ If the Secretary mails to any partnership the notice specified in paragraph (1) 
 
 #### (f) Failure of tax matters partner, etc., to fulfill responsibility does not affect applicability of proceeding
 
-The failure of the tax matters partner, a pass-thru partner, the representative of a noticegroup, or any other representative of a partner to provide any notice or perform any act required under this subchapter or under regulations prescribed under this subchapter on behalf of such partner does not affect the applicability of any proceeding or adjustment under this subchapter to such partner.
+The failure of the tax matters partner, a pass-thru partner, the representative of a notice group, or any other representative of a partner to provide any notice or perform any act required under this subchapter or under regulations prescribed under this subchapter on behalf of such partner does not affect the applicability of any proceeding or adjustment under this subchapter to such partner.
 
 #### (g) Date decision of court becomes final
 
@@ -164,6 +164,10 @@ Any action brought under any provision of this subchapter shall be conducted in 
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a)(3)(A), (B). Pub. L. 110–172 substituted "section 6015" for "section 6013(e)".
@@ -184,7 +188,7 @@ Subsec. (c)(1)(C). Pub. L. 105–34, §1238(b)(4), added subpar. (C).
 
 Subsec. (c)(2)(A). Pub. L. 105–34, §1238(b)(5), inserted "or (C)" after "(1)(A)" in subpar. heading and substituted "subparagraph (A) or (C) of paragraph (1)" for "paragraph (1)(A)" in text.
 
-Subsec. (c)(4). Pub. L. 105–34, §1238(b)(6), inserted at end "In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment."
+Subsec. (c)(4). Pub. L. 105–34, §1238(b)(6), inserted at end "In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that mayapply or to challenge the amount of the computational adjustment."
 
 Subsec. (c)(5). Pub. L. 105–34, §1237(b), added par. (5).
 
@@ -202,6 +206,10 @@ Subsec. (d)(6). Pub. L. 105–34, §1239(c)(1), struck out "(or an affected item
 
 <b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–369 struck out "(or erroneously computed the amount of any such credit or refund)" after "section 6228(a)".
 
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
@@ -216,7 +224,7 @@ Amendment by section 1239(c)(1) of Pub. L. 105–34 applicable to partnership ta
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1988 Amendment
 

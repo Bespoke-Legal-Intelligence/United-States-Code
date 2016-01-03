@@ -7,7 +7,7 @@ Part A—Stockpile Stewardship and Weapons Production
 
 - [&sect; 02521 - Stockpile stewardship program](%C2%A7%2002521%20-%20Stockpile%20stewardship%20program.md)
 - [&sect; 02522 - Stockpile stewardship criteria](%C2%A7%2002522%20-%20Stockpile%20stewardship%20criteria.md)
-- [&sect; 02523 - Nuclear weapons stockpile stewardship, management, and infrastructure plan](%C2%A7%2002523%20-%20Nuclear%20weapons%20stockpile%20stewardship%2C%20management%2C%20and%20infrastructure%20plan.md)
+- [&sect; 02523 - Nuclear weapons stockpile stewardship, management, and responsiveness plan](%C2%A7%2002523%20-%20Nuclear%20weapons%20stockpile%20stewardship%2C%20management%2C%20and%20responsiveness%20plan.md)
 - [&sect; 02523a - Repealed. Pub. L. 112&#8211;239, div. C, title XXXI, &sect;3133(c)(1), Jan. 2, 2013, 126 Stat. 2192](%C2%A7%2002523a%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73133%28c%29%281%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202192.md)
 - [&sect; 02523b - Transferred](%C2%A7%2002523b%20-%20Transferred.md)
 - [&sect; 02523c - Major warhead refurbishment program](%C2%A7%2002523c%20-%20Major%20warhead%20refurbishment%20program.md)
@@ -26,6 +26,8 @@ Part A—Stockpile Stewardship and Weapons Production
 - [&sect; 02534 - Repealed. Pub. L. 113&#8211;66, div. C, title XXXI, &sect;3146(c)(8)(A), Dec. 26, 2013, 127 Stat. 1075](%C2%A7%2002534%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28c%29%288%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201075.md)
 - [&sect; 02535 - Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico](%C2%A7%2002535%20-%20Replacement%20project%20for%20Chemistry%20and%20Metallurgy%20Research%20Building%2C%20Los%20Alamos%20National%20Laboratory%2C%20New%20Mexico.md)
 - [&sect; 02536 - Reports on lifetime extension programs](%C2%A7%2002536%20-%20Reports%20on%20lifetime%20extension%20programs.md)
-- [&sect; 02537 - Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities](%C2%A7%2002537%20-%20Selected%20Acquisition%20Reports%20and%20independent%20cost%20estimates%20and%20reviews%20of%20life%20extension%20programs%20and%20new%20nuclear%20facilities.md)
+- [&sect; 02537 - Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities](%C2%A7%2002537%20-%20Selected%20Acquisition%20Reports%20and%20independent%20cost%20estimates%20and%20reviews%20of%20certain%20programs%20and%20facilities.md)
 - [&sect; 02538 - Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile](%C2%A7%2002538%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md)
 - [&sect; 02538a - Plutonium pit production capacity](%C2%A7%2002538a%20-%20Plutonium%20pit%20production%20capacity.md)
+- [&sect; 02538b - Stockpile responsiveness program](%C2%A7%2002538b%20-%20Stockpile%20responsiveness%20program.md)
+- [&sect; 02538c - Long-term plan for meeting national security requirements for unencumbered uranium](%C2%A7%2002538c%20-%20Long-term%20plan%20for%20meeting%20national%20security%20requirements%20for%20unencumbered%20uranium.md)

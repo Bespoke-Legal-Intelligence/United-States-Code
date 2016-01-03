@@ -68,7 +68,7 @@
 
 #### (D) Non-Federal share
 
-&emsp;&emsp;Each eligible institution receiving a grant under this subsection shall provide, fromnon-Federal sources, in cash or in-kind, an amount equal to 25 percent of the amount of the grant to carry out the activities supported by the grant. The Secretary may waive the non-Federal share requirement under this subparagraph for an eligible institution if the Secretary determines a waiver to be appropriate based on the financial ability of the institution.
+&emsp;&emsp;Each eligible institution receiving a grant under this subsection shall provide, from non-Federal sources, in cash or in-kind, an amount equal to 25 percent of the amount of the grant to carry out the activities supported by the grant. The Secretary may waive the non-Federal share requirement under this subparagraph for an eligible institution if the Secretary determines a waiver to be appropriate based on the financial ability of the institution.
 
 #### (2) Eligible institutions
 

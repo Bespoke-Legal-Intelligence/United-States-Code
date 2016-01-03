@@ -10,7 +10,7 @@ In the case of an activity not engaged in for profit to which subsection (a) app
 
 &emsp;(1) the deductions which would be allowable under this chapter for the taxable year without regard to whether or not such activity is engaged in for profit, and
 
-&emsp;(2) a deduction equal to the amount of the deductions which would be allowable under this chapter for the taxable year only if such activity were engaged in for profit, but only to the extent that the gross income derived from such activity for the taxable year exceeds thedeductions allowable by reason of paragraph (1).
+&emsp;(2) a deduction equal to the amount of the deductions which would be allowable under this chapter for the taxable year only if such activity were engaged in for profit, but only to the extent that the gross income derived from such activity for the taxable year exceeds the deductions allowable by reason of paragraph (1).
 
 #### (c) Activity not engaged in for profit defined
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title II, §214(c), Oct. 4, 1976, 90 Stat. 1549, provided that: "The amendments made by this section \[amending this section and section 6212 of this title\] shall apply with respect to taxable years beginning after December 31, 1969; except that such amendments shall not apply to any taxable year ending before the date of the enactment of this Act \[Oct. 4, 1976\] with respect to which the period for assessing a deficiency has expired before such date of enactment."
+Pub. L. 94–455, title II, §214(c), Oct. 4, 1976, 90 Stat. 1549, provided that: "The amendments made by thissection \[amending this section and section 6212 of this title\] shall apply with respect to taxable years beginning after December 31, 1969; except that such amendments shall not apply to any taxable year ending before the date of the enactment of this Act \[Oct. 4, 1976\] with respect to which the period for assessing a deficiency has expired before such date of enactment."
 
 #### Effective Date of 1971 Amendment
 

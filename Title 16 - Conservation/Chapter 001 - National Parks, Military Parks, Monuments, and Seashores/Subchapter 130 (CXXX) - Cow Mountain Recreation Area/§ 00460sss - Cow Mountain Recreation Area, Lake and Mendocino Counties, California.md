@@ -40,7 +40,7 @@ In order to enhance the recreational and scenic values of the Cow Mountain area 
 
 #### (3) Mountain biking
 
-&emsp;Mountain biking shall be a prescribed use within the recreation area, occurring only on roads and trails designated by the Secretary for such use. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
+&emsp;Mountain biking shall be a prescribed use within the recreation area, occurring only onroads and trails designated by the Secretary for such use. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 #### (e) Access to private property
 

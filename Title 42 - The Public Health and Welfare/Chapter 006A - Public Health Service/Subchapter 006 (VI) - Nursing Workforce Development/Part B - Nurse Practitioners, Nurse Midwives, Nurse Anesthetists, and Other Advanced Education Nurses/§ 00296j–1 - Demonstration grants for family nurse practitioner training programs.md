@@ -48,7 +48,7 @@ In awarding grants under this section, the Secretary shall give priority to elig
 
 &emsp;To be eligible for acceptance to a program funded through a grant awarded under this section, an individual shall—
 
-&emsp;&emsp;(A) be licensed or eligible for licensure in the State in which the program is located as an advanced practice registered nurse or advanced practice nurse and be eligible or board-certified as a family nurse practitioner; and
+&emsp;&emsp;(A) be licensed or eligible for licensure in the State in which the program is located as an advanced practice registered nurse or advanced practice nurse and be eligible orboard-certified as a family nurse practitioner; and
 
 &emsp;&emsp;(B) demonstrate commitment to a career as a primary care provider in a FQHC or in a NMHC.
 

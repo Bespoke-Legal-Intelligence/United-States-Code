@@ -6,7 +6,7 @@ The requirements of this part (other than section 1185 of this title) shall not 
 
 #### (b) Exception for certain benefits
 
-The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision ofexcepted benefits described in section 1191b(c)(1) of this title.
+The requirements of this part shall not apply to any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 1191b(c)(1) of this title.
 
 #### (c) Exception for certain benefits if certain conditions met
 

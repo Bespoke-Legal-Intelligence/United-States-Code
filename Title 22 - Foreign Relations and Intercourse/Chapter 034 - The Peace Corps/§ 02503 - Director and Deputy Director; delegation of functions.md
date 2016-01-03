@@ -26,7 +26,7 @@ Except with the approval of the Secretary of State, the Peace Corps shall not be
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of thisAct to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
@@ -82,5 +82,5 @@ Committees of congress specified.—The committees of Congress specified in this
 
 #### Continuing Functions of Director of Peace Corps From December 14, 1981
 
-Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: "The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981."
+Pub. L. 97–113, title VI, §601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: "The Director of the Peace Corpsshall continue to exercise all the functions under the Peace Corps Act \[this chapter\] or any other law or authority which the Director was performing on December 14, 1981."
 

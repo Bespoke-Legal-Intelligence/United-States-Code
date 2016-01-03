@@ -134,7 +134,7 @@ In subsection (a)(5) and (7), the words "prescribed . . . issued" are added fo
 
 In subsection (a)(5), the words "of the Secretary of Transportation" are omitted as surplus.
 
-In subsection (a)(6), the words "proclaimed by the President" are omitted as surplus. The words "section3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602)" are substituted for "section 143 of title 33" because the section was part of the Act of October 11, 1951 (ch. 495, 65 Stat. 406), that was repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608.
+In subsection (a)(6), the words "proclaimed by the President" are omitted as surplus. The words "section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602)" are substituted for "section 143 of title 33" because the section was part of the Act of October 11, 1951 (ch. 495, 65 Stat. 406), that was repealed by section 3 of the Act of September 24, 1963 (Public Law 88–131, 77 Stat. 194), and replaced by 33:ch. 21. Chapter 21 was repealed by section 10 of the International Navigational Rules Act of 1977 (Public Law 95–75, 91 Stat. 311) and replaced by 33:1601–1608.
 
 In subsection (a)(7), the words "holding . . . such certificate" are omitted because of the restatement.
 

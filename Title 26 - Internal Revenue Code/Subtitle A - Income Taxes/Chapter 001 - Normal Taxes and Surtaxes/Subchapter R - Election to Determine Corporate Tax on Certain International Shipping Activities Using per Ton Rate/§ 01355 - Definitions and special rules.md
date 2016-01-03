@@ -28,7 +28,7 @@ For purposes of this subchapter—
 
 #### (4) Qualifying vessel
 
-&emsp;The term "qualifying vessel" means a self-propelled (or a combination self-propelled and non-self-propelled) United States flag vessel ofnot less than 6,000 deadweight tons used exclusively in the United States foreign trade during the period that the election under this subchapter is in effect.
+&emsp;The term "qualifying vessel" means a self-propelled (or a combination self-propelled and non-self-propelled) United States flag vessel of not less than 6,000 deadweight tons used exclusively in the United States foreign trade during the period that the election under this subchapter is in effect.
 
 #### (5) United States flag vessel
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Special rule for 1st year of election
 
-&emsp;A corporation meets the shipping activity requirement of this subsection for the first taxable year for which the election under section 1354(a) is in effect only if the requirement of paragraph (4) is met for the preceding taxable year.
+&emsp;A corporation meets the shipping activity requirement of this subsection for the firsttaxable year for which the election under section 1354(a) is in effect only if the requirement of paragraph (4) is met for the preceding taxable year.
 
 #### (3) Controlled groups
 

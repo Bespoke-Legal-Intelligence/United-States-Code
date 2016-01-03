@@ -6,7 +6,7 @@ Treatment of Commercial Space Transportation Services as Commercial Item Under A
 
 (b)
 
-Safety Standards.—Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+Safety Standards.—Nothing in this section shall be construed to prohibit the FederalGovernment from requiring compliance with applicable safety standards.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3400.)
 

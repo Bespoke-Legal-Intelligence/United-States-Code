@@ -6,7 +6,7 @@ Section 1461, act Aug. 9, 1955, ch. 656, title II, §201, 69 Stat. 585, which pr
 
 Section 1462, act Aug. 9, 1955, ch. 656, title II, §202, 69 Stat. 586, which related to current absentee voting information, was transferred to section 1973cc–12 of Title 42.
 
-Section 1463, acts Aug. 9, 1955, ch. 656, title II, §203, 69 Stat. 586; June 18, 1968, Pub. L. 90–344, §1(3), 82 Stat. 181, which related to cooperation of Government officials,drafts of state legislation, and printing and transmitting post cards, was transferred to section 1973cc–13 of Title 42.
+Section 1463, acts Aug. 9, 1955, ch. 656, title II, §203, 69 Stat. 586; June 18, 1968, Pub. L. 90–344, §1(3), 82 Stat. 181, which related to cooperation of Government officials, drafts of state legislation, and printing and transmitting post cards, was transferred to section 1973cc–13 of Title 42.
 
 Section 1464, acts Aug. 9, 1955, ch. 656, title II, §204, 69 Stat. 586; June 18, 1968, Pub. L. 90–343, §2, 82 Stat. 181; June 18, 1968, Pub. L. 90–344, §1(4), (5), (6), 82 Stat. 182, which related to form and content of post card application, was transferred to section 1973cc–14 of Title 42.
 

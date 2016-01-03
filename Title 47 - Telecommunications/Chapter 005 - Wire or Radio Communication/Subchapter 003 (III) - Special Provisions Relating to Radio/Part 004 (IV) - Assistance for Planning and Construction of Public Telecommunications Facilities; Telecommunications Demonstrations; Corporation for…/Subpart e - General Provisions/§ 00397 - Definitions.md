@@ -24,7 +24,7 @@ For the purposes of this part—
 
 &emsp;(B) has been organized primarily for the purpose of disseminating audio or video noncommercial educational and cultural programs to the public by means other than a primary television or radio broadcast station, including, but not limited to, coaxial cable, optical fiber, broadcast translators, cassettes, discs, microwave, or laser transmission through the atmosphere.
 
-(8) The term "nonprofit" (as applied to any foundation, corporation, or association) means afoundation, corporation, or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+(8) The term "nonprofit" (as applied to any foundation, corporation, or association) means a foundation, corporation, or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 (9) The term "non-Federal financial support" means the total value of cash and the fair market value of property and services (including, to the extent provided in the second sentence of this paragraph, the personal services of volunteers) received—
 

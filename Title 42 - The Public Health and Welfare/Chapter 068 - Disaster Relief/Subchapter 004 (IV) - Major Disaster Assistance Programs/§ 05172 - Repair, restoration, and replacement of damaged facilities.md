@@ -38,7 +38,7 @@
 
 #### (B) Definition of critical services
 
-&emsp;&emsp;In this paragraph, the term "critical services" includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, education, and emergency medical care.
+&emsp;&emsp;In this paragraph, the term "critical services" includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
 
 #### (4) Notification to Congress
 
@@ -214,11 +214,11 @@
 
 &emsp;In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner's responsibility and not the contractor's responsibility.
 
-(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240.)
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), istitle XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
@@ -231,6 +231,8 @@ A prior section 5172, Pub. L. 93–288, title IV, §402, May 22, 1974, 88 Stat. 
 A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 100–707 and is classified to section 5176 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3)(B). Pub. L. 114–111 substituted "communications (including broadcast and telecommunications)," for "communications,".
 
 <b>2011</b>—Subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), (e)(3)(A). Pub. L. 111–351 substituted "Administrator" for "Director".
 
@@ -270,7 +272,7 @@ Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out v
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] andapplies to funds appropriated after the date of the enactment of this Act, except that paragraph (1) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
 
 #### Transfer of Functions
 

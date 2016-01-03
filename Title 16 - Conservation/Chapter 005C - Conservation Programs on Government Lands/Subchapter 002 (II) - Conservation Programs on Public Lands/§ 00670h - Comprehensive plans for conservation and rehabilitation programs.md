@@ -50,13 +50,13 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 (4) Except where limited under a comprehensive plan or pursuant to cooperative agreement, hunting, fishing, and trapping shall be permitted with respect to resident fish and wildlife in accordance with applicable laws and regulations of the State in which such land is located on public land which is the subject of a conservation and rehabilitation program implemented under this subchapter.
 
-(5) The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shallprescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
+(5) The Secretary of the Interior and the Secretary of Agriculture, as the case may be, shall prescribe such regulations as are deemed necessary to control, in a manner consistent with the applicable comprehensive plan and cooperative agreement, the public use of public land which is the subject of any conservation and rehabilitation program implemented by him under this subchapter.
 
 #### (d) State agency agreements not cooperative agreements under other provisions
 
 Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-(Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
+(Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amendedPub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
 
 #### References in Text
 

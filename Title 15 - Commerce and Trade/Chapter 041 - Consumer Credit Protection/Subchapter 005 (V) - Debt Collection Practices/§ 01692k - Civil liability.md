@@ -8,17 +8,17 @@ Except as otherwise provided by this section, any debt collector who fails to co
 
 &emsp;(2)(A) in the case of any action by an individual, such additional damages as the court may allow, but not exceeding $1,000; or
 
-&emsp;(B) in the case of a class action, (i) such amount for each named plaintiff as could berecovered under subparagraph (A), and (ii) such amount as the court may allow for all other class members, without regard to a minimum individual recovery, not to exceed the lesser of $500,000 or 1 per centum of the net worth of the debt collector; and
+&emsp;(B) in the case of a class action, (i) such amount for each named plaintiff as could be recovered under subparagraph (A), and (ii) such amount as the court may allow for all other class members, without regard to a minimum individual recovery, not to exceed the lesser of $500,000 or 1 per centum of the net worth of the debt collector; and
 
 &emsp;(3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney's fee as determined by the court. On a finding by the court that an action under this section was brought in bad faith and for the purpose of harassment, the court may award to the defendant attorney's fees reasonable in relation to the work expended and costs.
 
 #### (b) Factors considered by court
 
-In determining the amount of liability in any action under subsection (a) of this section, the court shall consider, among other relevant factors—
+In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors—
 
-&emsp;(1) in any individual action under subsection (a)(2)(A) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, and the extent to which such noncompliance was intentional; or
+&emsp;(1) in any individual action under subsection (a)(2)(A), the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, and the extent to which such noncompliance was intentional; or
 
-&emsp;(2) in any class action under subsection (a)(2)(B) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, the resources of the debt collector, the number of persons adversely affected, and the extent to which the debt collector's noncompliance was intentional.
+&emsp;(2) in any class action under subsection (a)(2)(B), the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, the resources of the debt collector, the number of persons adversely affected, and the extent to which the debt collector's noncompliance was intentional.
 
 #### (c) Intent
 

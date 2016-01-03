@@ -68,7 +68,7 @@ Pub. L. 103–359, title VI, §604, Oct. 14, 1994, 108 Stat. 3433, provided that
 
 &emsp;"(1)
 
-Intelligence committees.—The term 'intelligence committees' means the Permanent SelectCommittee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+Intelligence committees.—The term 'intelligence committees' means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 &emsp;"(2)
 

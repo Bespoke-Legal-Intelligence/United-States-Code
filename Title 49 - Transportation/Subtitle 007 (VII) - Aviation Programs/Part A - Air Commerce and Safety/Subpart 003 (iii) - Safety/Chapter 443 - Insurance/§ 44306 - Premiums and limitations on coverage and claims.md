@@ -16,7 +16,7 @@ Time Limits.—The Secretary of Transportation may provide insurance and reinsur
 
 Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147,Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287; Pub. L. 108–176, title I, §106(c), (e), Dec. 12, 2003, 117 Stat. 2499.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287; Pub. L. 108–176, title I, §106(c), (e), Dec. 12, 2003, 117 Stat. 2499.)
 
 Historical and Revision Notes
 

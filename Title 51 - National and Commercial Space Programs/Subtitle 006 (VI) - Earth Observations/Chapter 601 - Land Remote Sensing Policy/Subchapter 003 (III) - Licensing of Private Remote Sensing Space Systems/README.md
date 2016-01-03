@@ -10,3 +10,4 @@
 - [&sect; 60123 - Administrative authority of Secretary](%C2%A7%2060123%20-%20Administrative%20authority%20of%20Secretary.md)
 - [&sect; 60124 - Regulatory authority of Secretary](%C2%A7%2060124%20-%20Regulatory%20authority%20of%20Secretary.md)
 - [&sect; 60125 - Agency activities](%C2%A7%2060125%20-%20Agency%20activities.md)
+- [&sect; 60126 - Annual reports](%C2%A7%2060126%20-%20Annual%20reports.md)

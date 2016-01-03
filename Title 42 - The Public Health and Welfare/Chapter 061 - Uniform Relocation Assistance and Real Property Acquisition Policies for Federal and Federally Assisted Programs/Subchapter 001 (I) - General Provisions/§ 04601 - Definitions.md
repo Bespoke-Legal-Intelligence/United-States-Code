@@ -28,7 +28,7 @@ As used in this chapter—
 
 (B) The term "displaced person" does not include—
 
-&emsp;(i) a person who has been determined, according to criteria established by the head of the lead agency, to be either in unlawful occupancy of the displacement dwelling or to have occupied such dwelling for the purpose of obtaining assistance under this chapter;
+&emsp;(i) a person who has been determined, according to criteria established by the head ofthe lead agency, to be either in unlawful occupancy of the displacement dwelling or to have occupied such dwelling for the purpose of obtaining assistance under this chapter;
 
 &emsp;(ii) in any case in which the displacing agency acquires property for a program or project, any person (other than a person who was an occupant of such property at the time it was acquired) who occupies such property on a rental basis for a short term or a period subject to termination when the property is needed for the program or project.
 
@@ -82,7 +82,7 @@ Pub. L. 100–17, title IV, §418, Apr. 2, 1987, 101 Stat. 256, provided that: "
 
 Pub. L. 91–646, title II, §221, Jan. 2, 1971, 84 Stat. 1904, provided that:
 
-"(a) Except as provided in subsections (b) and (c) of this section, this Act and the amendments made by this Act \[see Short Title note below\] shall take effect on the date of its enactment \[Jan. 2, 1971\].
+"(a) Except as provided in subsections (b) and (c) of this section, this Act and the amendments made bythis Act \[see Short Title note below\] shall take effect on the date of its enactment \[Jan. 2, 1971\].
 
 "(b) Until July 1, 1972, sections 210 and 305 \[sections 4630 and 4655 of this title\] shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. After July 1, 1972, such sections \[sections 4630 and 4655 of this title\] shall be completely applicable to all States.
 

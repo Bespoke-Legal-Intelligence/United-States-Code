@@ -32,7 +32,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;(C) for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico; or
 
-&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States\(or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
+&emsp;(D) for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession; or
 
 &emsp;(9) for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order; or
 
@@ -52,7 +52,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;&emsp;(D) under an arrangement to which section 408(p) applies; or
 
-&emsp;&emsp;(E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b) which is maintained by an eligible employer described in section 457(e)(1)(A),<sup>1</sup> or
+&emsp;&emsp;(E) under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b)which is maintained by an eligible employer described in section 457(e)(1)(A),<sup>1</sup> or
 
 &emsp;(13) pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act; or
 
@@ -92,7 +92,7 @@ For purposes of this chapter, the term "employee" includes an officer, employee,
 
 For purposes of this chapter, the term "employer" means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—
 
-&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for suchservices, the term "employer" (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
+&emsp;(1) if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term "employer" (except for purposes of subsection (a)) means the person having control of the payment of such wages, and
 
 &emsp;(2) in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term "employer" (except for purposes of subsection (a)) means such person.
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, s
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(8)(D) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 1996, see section 1(e) of Pub. L. 104–117, set out in a Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date note under section 112 of this title.
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1961 Amendments
 
-Amendment by Pub. L. 87–293 applicable with respect to remuneration paid after Sept. 22, 1961, see section201(d) of Pub. L. 87–293, set out as a note under section 912 of this title.
+Amendment by Pub. L. 87–293 applicable with respect to remuneration paid after Sept. 22, 1961, see section 201(d) of Pub. L. 87–293, set out as a note under section 912 of this title.
 
 Pub. L. 87–256, §110(h)(4), Sept. 21, 1961, 75 Stat. 538, provided that: "The amendments made by subsection (g) of this section \[amending this section and section 3402 of this title\] shall apply with respect to wages paid after December 31, 1961."
 
@@ -366,7 +366,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 
-Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat. 2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024; Pub. L. 110–458, title I, §108(m), Dec. 23, 2008, 122 Stat. 5110, provided that:
+Pub. L. 95–600, title V, §530, Nov. 6, 1978, 92 Stat. 2885, as amended by Pub. L. 96–167, §9(d), Dec. 29, 1979, 93 Stat. 1278; Pub. L. 96–541, §1, Dec. 17, 1980, 94 Stat. 3204; Pub. L. 97–248, title II, §269(c)(1), (2), 96 Stat. 552; Pub. L. 99–514, §2, title XVII, §1706(a), Oct. 22, 1986, 100 Stat.2095, 2781; Pub. L. 104–188, title I, §1122(a), Aug. 20, 1996, 110 Stat. 1766; Pub. L. 109–280, title VIII, §864(a), Aug. 17, 2006, 120 Stat. 1024; Pub. L. 110–458, title I, §108(m), Dec. 23, 2008, 122 Stat. 5110, provided that:
 
 "(a)
 

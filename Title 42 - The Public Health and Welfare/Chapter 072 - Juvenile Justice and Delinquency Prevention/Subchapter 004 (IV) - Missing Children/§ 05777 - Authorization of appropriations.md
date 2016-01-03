@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To carry out the provisions of this subchapter, there are authorized to be appropriated$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 5773(b) of this title for each such fiscal year.
+To carry out the provisions of this subchapter, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 5773(b) of this title for each such fiscal year.
 
 #### (b) Evaluation
 

@@ -26,7 +26,7 @@
 
 (3) In this subsection, the term "writing" means any form of representation or communication, including hand-bills, notices, or advertising, that contain letters, words, or pictorial representations.
 
-(g) In addition to any other agency which has authority to investigate violations of this section, the Food and Drug Administration and theDepartment of Agriculture, respectively, have authority to investigate violations of this section involving a consumer product that is regulated by a provision of law such Administration or Department, as the case may be, administers.
+(g) In addition to any other agency which has authority to investigate violations of this section, the Food and Drug Administration and the Department of Agriculture, respectively, have authority to investigate violations of this section involving a consumer product that is regulated by a provision of law such Administration or Department, as the case may be, administers.
 
 (h) As used in this section—
 

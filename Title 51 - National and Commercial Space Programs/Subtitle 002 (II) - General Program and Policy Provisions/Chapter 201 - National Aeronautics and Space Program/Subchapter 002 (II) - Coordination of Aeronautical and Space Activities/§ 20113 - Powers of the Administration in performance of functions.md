@@ -6,7 +6,7 @@ Rules and Regulations.—In the performance of its functions, the Administration
 
 (b)
 
-Officers and Employees.—In the performance of its functions, the Administration is authorized to appoint and fix the compensation of officers and employees as may be necessary to carry out such functions. The officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that—
+Officers and Employees.—In the performance of its functions, the Administration is authorized to appoint and fix the compensation of officers and employees as may be necessary to carry out such functions. The officers and employees shall be appointed in accordance with the civil service laws and their compensationfixed in accordance with chapter 51 and subchapter III of chapter 53 of title 5, except that—
 
 &emsp;(1) to the extent the Administrator deems such action necessary to the discharge of the Administrator's responsibilities, the Administrator may appoint not more than 425 of the scientific, engineering, and administrative personnel of the Administration without regard to such laws, and may fix the compensation of such personnel not in excess of the rate of basic pay payable for level III of the Executive Schedule; and
 
@@ -28,7 +28,7 @@ Property.—In the performance of its functions, the Administration is authorize
 
 (d)
 
-Gifts.—In the performance of its functions, the Administration is authorized to accept unconditional gifts or donations of services,money, or property, real, personal, or mixed, tangible or intangible.
+Gifts.—In the performance of its functions, the Administration is authorized to accept unconditional gifts or donations of services, money, or property, real, personal, or mixed, tangible or intangible.
 
 (e)
 
@@ -60,7 +60,7 @@ Concessions for Visitors' Facilities.—
 
 &emsp;(1)
 
-In general.—In the performance of its functions, the Administration is authorized to provide by concession, without regard to section 1302 of title 40, on such terms as the Administrator may deem to be appropriate and necessary to protect the concessioner against loss of the concessioner's investment in property (but not anticipated profits) resulting from the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority that the Administration may have to provide facilities, equipment, and services for visitors to its installations).
+In general.—In the performance of its functions, the Administration is authorized to provide by concession, without regard to section 1302 of title 40, on such terms as the Administrator may deem to be appropriate and necessary to protect the concessioner against loss of the concessioner's investment in property (but not anticipated profits) resultingfrom the Administration's discretionary acts and decisions, for the construction, maintenance, and operation of all manner of facilities and equipment for visitors to the several installations of the Administration and, in connection therewith, to provide services incident to the dissemination of information concerning its activities to such visitors, without charge or with a reasonable charge therefor (with this authority being in addition to any other authority that the Administration may have to provide facilities, equipment, and services for visitors to its installations).
 
 &emsp;(2)
 
@@ -90,7 +90,11 @@ Claims Against the United States.—In the performance of its functions, the Adm
 
 &emsp;(2) if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333.)
+(n)
+
+Identification of Government Astronauts.—For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3333; Pub. L. 114–90, title I, §112(d), Nov. 25, 2015, 129 Stat. 712.)
 
 Historical and Revision Notes
 
@@ -125,6 +129,14 @@ In subsection (k)(1), the words "section 1302 of title 40" are substituted for "
 Level III of the Executive Schedule, referred to in subsec. (b)(1), is set out in section 5314 of Title 5, Government Organization and Employees.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (n). Pub. L. 114–90 added subsec. (n).
+
+#### Sense of Congress
+
+Pub. L. 114–90, title I, §112(b), Nov. 25, 2015, 129 Stat. 711, provided that: "The National Aeronautics and Space Administration has a need to fly government astronauts (as defined in section 50902 of title 51, United States Code, as amended) within commercial launch vehicles and reentry vehicles under chapter 509 of that title. This need was identified by the Secretary of Transportation and the Administrator of the National Aeronautics and Space Administration due to the intended use of commercial launch vehicles and reentry vehicles developed under the Commercial Crew Development Program, authorized in section 402 of the National Aeronautics and Space Administration Authorization Act of 2010 (124 Stat. 2820; Public Law 111–267). It is the sense of Congress that the authority delegated to the Administration by the amendment made by subsection (d) of this section \[amending this section\] should be used for that purpose."
 
 #### Purchase of American-Made Equipment and Products
 

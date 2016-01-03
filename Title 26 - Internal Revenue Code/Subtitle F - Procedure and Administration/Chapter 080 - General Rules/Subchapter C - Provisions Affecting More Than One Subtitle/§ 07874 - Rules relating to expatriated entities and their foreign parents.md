@@ -14,7 +14,7 @@
 
 &emsp;&emsp;The term "expatriated entity" means—
 
-&emsp;&emsp;&emsp;(i) the domestic corporation or partnership referred to in subparagraph (B)(i) withrespect to which a foreign corporation is a surrogate foreign corporation, and
+&emsp;&emsp;&emsp;(i) the domestic corporation or partnership referred to in subparagraph (B)(i) with respect to which a foreign corporation is a surrogate foreign corporation, and
 
 &emsp;&emsp;&emsp;(ii) any United States person who is related (within the meaning of section 267(b) or 707(b)(1)) to a domestic corporation or partnership described in clause (i).
 

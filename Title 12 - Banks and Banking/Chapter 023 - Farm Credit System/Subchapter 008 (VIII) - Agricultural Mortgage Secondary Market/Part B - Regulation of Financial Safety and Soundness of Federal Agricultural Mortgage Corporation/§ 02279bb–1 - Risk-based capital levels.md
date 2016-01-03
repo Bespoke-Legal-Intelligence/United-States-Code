@@ -8,7 +8,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (A) In general
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the UnitedStates containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
 
 #### (B) Rural utility loans
 
@@ -22,7 +22,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (1) Establishment of test
 
-&emsp;In establishing the risk-based capital test under subsection (a) of this section—
+&emsp;In establishing the risk-based capital test under subsection (a)—
 
 &emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
@@ -36,7 +36,7 @@ Not sooner than the expiration of the 3-year period beginning on February 10, 19
 
 #### (2) Revising test
 
-&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
 
 #### (c) Risk-based capital level
 
@@ -44,11 +44,11 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 #### (1) Credit and interest rate risk
 
-&emsp;The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation, adjusted to account for foreign exchange risk.
+&emsp;The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
 
 #### (2) Management and operations risk
 
-&emsp;To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation.
+&emsp;To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation.
 
 #### (d) Specified contents
 
@@ -56,7 +56,7 @@ For purposes of this part, the risk-based capital level for the Corporation shal
 
 &emsp;The regulations establishing the risk-based capital test under this section shall—
 
-&emsp;&emsp;(A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a) of this section; and
+&emsp;&emsp;(A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a); and
 
 &emsp;&emsp;(B) contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, prepayment rates, and performance of pools of qualified loans).
 
@@ -84,7 +84,7 @@ Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted "Director may" fo
 
 Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted "8-year" for "5-year" in first sentence.
 
-Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted "The regulations referred to in paragraph (1) shall" for "The regulations shall".
+Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence ofexisting provisions as par. (2), inserted heading, and substituted "The regulations referred to in paragraph (1) shall" for "The regulations shall".
 
 <b>1992</b>—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 1991" for "the date of the enactment of this section".
 

@@ -22,5 +22,5 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective andTermination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 

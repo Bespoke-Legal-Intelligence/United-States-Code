@@ -110,7 +110,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;&emsp;(ii) at least 10 percent of the health insurance provided by such organization is provided to individuals and small groups (not taking into account any medicare supplemental coverage),
 
-&emsp;&emsp;&emsp;(iii) such organization provides continuous full-year open enrollment (including conversions) for individuals and small groups,
+&emsp;&emsp;&emsp;(iii) such organization provides continuous full-year open enrollment (includingconversions) for individuals and small groups,
 
 &emsp;&emsp;&emsp;(iv) such organization's policies covering individuals provide full coverage of pre-existing conditions of high-risk individuals without a price differential (with a reasonable waiting period), and coverage is provided without regard to age, income, or employment status of individuals under age 65,
 
@@ -258,7 +258,7 @@ Special Rules.—In the case of an organization to which section 501(m) of the I
 
 &emsp;"(1) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its first taxable year beginning after December 31, 1997, and
 
-&emsp;"(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of suchtaxable year shall be treated as equal to its fair market value as of such day.
+&emsp;"(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
 "(c)
 

@@ -98,7 +98,7 @@ The Council shall meet at the call of the Chairperson.
 
 Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council, shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
 
-&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs,consistent with ongoing goal setting efforts conducted by specific agencies;
+&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
 
 &emsp;(2) establish specific and measurable actions and timelines to carry out the strategy, and determine accountability for meeting those timelines, within and across Federal departments and agencies; and
 
@@ -274,7 +274,7 @@ Ex. Ord. No. 13631, Dec. 7, 2012, 77 F.R. 74101, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 4001 of the Patient Protection and Affordable Care Act (Public Law 111–148), 42 U.S.C. 300u–10, it is hereby ordered as follows:
 
-Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion,and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
+Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion, and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -288,7 +288,9 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
 
-Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "(h);".</i>
 

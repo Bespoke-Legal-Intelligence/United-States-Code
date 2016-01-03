@@ -26,7 +26,7 @@ Not later than 6 months after February 22, 2012, the Assistant Secretary, in con
 
 #### (d) Certification and designation of officer or governmental body
 
-In carrying out the grant program established under this section, the Assistant Secretary shall require each State to certify in its application for grant funds that the State has designated a single officer or governmental body to serve as the coordinator of implementation of the grant funds.
+In carrying out the grant program established under this section, the Assistant Secretary shallrequire each State to certify in its application for grant funds that the State has designated a single officer or governmental body to serve as the coordinator of implementation of the grant funds.
 
 #### (e) State network
 

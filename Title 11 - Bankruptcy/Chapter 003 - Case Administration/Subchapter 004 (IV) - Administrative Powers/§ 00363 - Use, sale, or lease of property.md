@@ -32,7 +32,7 @@
 
 &emsp;(B) the court, after notice and a hearing, authorizes such use, sale, or lease in accordance with the provisions of this section.
 
-(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection (e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
+(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection\(e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
 
 (4) Except as provided in paragraph (2) of this subsection, the trustee shall segregate and account for any cash collateral in the trustee's possession, custody, or control.
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) only to the extent not inconsistent with any relief granted under subsection (c), (d), (e), or (f) of section 362.
 
-(e) Notwithstanding any other provision of this section, at any time, on request of an entitythat has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
+(e) Notwithstanding any other provision of this section, at any time, on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
 
 (f) The trustee may sell property under subsection (b) or (c) of this section free and clear of any interest in such property of an entity other than the estate, only if—
 
@@ -78,7 +78,7 @@
 
 (m) The reversal or modification on appeal of an authorization under subsection (b) or (c) of this section of a sale or lease of property does not affect the validity of a sale or lease under such authorization to an entity that purchased or leased such property in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and such sale or lease were stayed pending appeal.
 
-(n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys' fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
+(n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys' fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damagesin favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
 
 (o) Notwithstanding subsection (f), if a person purchases any interest in a consumer credit transaction that is subject to the Truth in Lending Act or any interest in a consumer credit contract (as defined in section 433.1 of title 16 of the Code of Federal Regulations (January 1, 2004), as amended from time to time), and if such interest is purchased through a sale under this section, then such person shall remain subject to all claims and defenses that are related to such consumer credit transaction or such consumer credit contract, to the same extent as such person would be subject to such claims and defenses of the consumer had such interest been purchased at a sale not under this section.
 
@@ -88,7 +88,7 @@
 
 &emsp;(2) the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371;Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195; Pub. L. 111–327, §2(a)(13), Dec. 22, 2010, 124 Stat. 3559.)
 
 #### Historical and Revision Notes
 
@@ -116,7 +116,7 @@ Subsection (c) governs use, sale, or lease in the ordinary course of business. I
 
 Under subsections (d) and (e), the use, sale, or lease of property is further limited by the concept of adequate protection. Sale, use, or lease of property in which an entity other than the estate has an interest may be effected only to the extent not inconsistent with any relief from the stay granted to that interest's holder. Moreover, the court may prohibit or condition the use, sale, or lease as is necessary to provide adequate protection of that interest. Again, the trustee has the burden of proof on the issue of adequate protection. Subsection (e) also provides that where a sale of the property is proposed, an entity that has an interest in such property may bid at the sale thereof and set off against the purchase price up to the amount of such entity's claim. No prior valuation under section 506(a) would limit this bidding right, since the bid at the sale would be determinative of value.
 
-Subsection (f) permits sale of property free and clear of any interest in the property of an entity other than the estate. The trustee may sell free and clear if applicable nonbankruptcy law permits it, if the other entity consents, if the interest is a lien and the sale price of the property is greater than the amount secured by the lien, if the interest is in bona fide dispute, or if the other entity could be compelled to accept a money satisfaction of the interest in a legal or equitable proceeding. Sale under this subsection is subject to the adequate protection requirement. Most often, adequate protection in connection with a sale free and clear of other interests will be to have those interests attach to the proceeds of the sale.
+Subsection (f) permits sale of property free and clear of any interest in the property of an entity other than the estate. The trustee may sell free and clear if applicable nonbankruptcy law permits it, if the other entity consents, if the interest is a lien and the sale price of the property is greater than the amount secured by the lien, if the interest is in bona fide dispute, or if the other entity could be compelled to accept a money satisfaction of the interest in a legal or equitable proceeding. Sale under this subsection is subject to the adequate protection requirement. Most often, adequate protection in connection with a sale free and clear ofother interests will be to have those interests attach to the proceeds of the sale.
 
 At a sale free and clear of other interests, any holder of any interest in the property being sold will be permitted to bid. If that holder is the high bidder, he will be permitted to offset the value of his interest against the purchase price of the property. Thus, in the most common situation, a holder of a lien on property being sold may bid at the sale and, if successful, may offset the amount owed to him that is secured by the lien on the property (but may not offset other amounts owed to him) against the purchase price, and be liable to the trustee for the balance of the sale price, if any.
 
@@ -124,7 +124,7 @@ Subsection (g) permits the trustee to sell free and clear of any vested or conti
 
 Subsection (h) permits sale of a co-owner's interest in property in which the debtor had an undivided ownership interest such as a joint tenancy, a tenancy in common, or a tenancy by the entirety. Such a sale is permissible only if partition is impracticable, if sale of the estate's interest would realize significantly less for the estate that sale of the property free of the interests of the co-owners, and if the benefit to the estate of such a sale outweighs any detriment to the co-owners. This subsection does not apply to a co-owner's interest in a public utility when a disruption of the utilities services could result.
 
-Subsection (i) provides protections for co-owners and spouses with dower, curtesy, or community property rights. It gives a right of first refusal to the co-owneror spouse at the price at which the sale is to be consummated.
+Subsection (i) provides protections for co-owners and spouses with dower, curtesy, or community property rights. It gives a right of first refusal to the co-owner or spouse at the price at which the sale is to be consummated.
 
 Subsection (j) requires the trustee to distribute to the spouse or co-owner the appropriate portion of the proceeds of the sale, less certain administrative expenses.
 
@@ -186,7 +186,7 @@ Subsec. (k). Pub. L. 98–353, §442(g), substituted "unless the court for cause
 
 Subsec. (l). Pub. L. 98–353, §442(h), substituted "Subject to the provisions of section 365, the trustee" for "The trustee", "condition" for "conditions", "or the taking" for "a taking", and "interest" for "interests".
 
-Subsec. (n). Pub. L. 98–353, §442(i), substituted "avoid" for "void", "avoiding" for "voiding", and "In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection" for "The court may grant judgment in favor of the estate and against any such party that entered into such agreement in willful disregard of this subsection for punitive damages in addition to any recovery under the preceding sentence".
+Subsec. (n). Pub. L. 98–353, §442(i), substituted "avoid" for "void", "avoiding" for "voiding", and "In addition to any recovery under the preceding sentence,the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection" for "The court may grant judgment in favor of the estate and against any such party that entered into such agreement in willful disregard of this subsection for punitive damages in addition to any recovery under the preceding sentence".
 
 Subsec. (o). Pub. L. 98–353, §442(j), added subsec. (o).
 
@@ -194,7 +194,7 @@ Subsec. (o). Pub. L. 98–353, §442(j), added subsec. (o).
 
 Pub. L. 109–8, title XII, §1221(d), Apr. 20, 2005, 119 Stat. 196, provided that: "The amendments made by this section \[amending this section and sections 541 and 1129 of this title and enacting provisions set out as a note under this section\] shall apply to a case pending under title 11, United States Code, on the date of enactment of this Act \[Apr. 20, 2005\], or filed under that title on or after that date of enactment, except that the court shall not confirm a plan under chapter 11 of title 11, United States Code, without considering whether this section would substantially affect the rights of a party in interest who first acquired rights with respect to the debtor after the date of the filing of the petition. The parties who may appear and be heard in a proceeding under this section include the attorney general of the State in which the debtor is incorporated, was formed, or does business."
 
-Amendment by sections 204 and 231(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicablewith respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 204 and 231(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

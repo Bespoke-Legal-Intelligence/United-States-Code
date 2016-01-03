@@ -18,7 +18,7 @@ Pub. L. 111–198, §3(a)(1), substituted "If any instrument in payment, by any 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–198, §3(b), July 2, 2010, 124 Stat. 1356, provided that: "The amendments made by this section \[amending this section\] shall apply to instruments tendered after the date of the enactment of this Act \[July 2, 2010\]."
+Pub. L. 111–198, §3(b), July 2, 2010, 124 Stat. 1356, provided that: "The amendments made by this section\[amending this section\] shall apply to instruments tendered after the date of the enactment of this Act \[July 2, 2010\]."
 
 #### Effective Date of 2007 Amendment
 

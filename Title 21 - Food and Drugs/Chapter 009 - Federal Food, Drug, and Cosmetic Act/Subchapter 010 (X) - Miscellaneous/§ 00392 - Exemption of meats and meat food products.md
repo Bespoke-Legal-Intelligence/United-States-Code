@@ -12,7 +12,7 @@ Nothing contained in this chapter shall be construed as in any way affecting, mo
 
 #### References in Text
 
-The Meat Inspection Act, approved March 4, 1907, as amended, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally tosubchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Meat Inspection Act, approved March 4, 1907, as amended, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 Act of March 4, 1913, referred to in subsec. (b), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act referred to relating to viruses, etc., applicable to domestic animals, are contained in the eighth paragraph under the heading "Bureau of Animal Industry", 37 Stat. 832, as amended, popularly known as the Virus-Serum-Toxin Act, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
 

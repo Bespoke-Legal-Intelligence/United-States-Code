@@ -58,7 +58,7 @@ Government-wide training standards and certification.—The Administrator, actin
 
 (d)
 
-Authority and Responsibility of Senior Procurement Executive.—Subject to the authority, direction, and control of the head of an executive agency, the senior procurement executive of the agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementing this section. The senior procurement executive shall ensure thatthe policies of the head of the executive agency established in accordance with this section are implemented throughout the agency.
+Authority and Responsibility of Senior Procurement Executive.—Subject to the authority, direction, and control of the head of an executive agency, the senior procurement executive of the agency shall carry out all powers, functions, and duties of the head of the agency with respect to implementing this section. The senior procurement executive shall ensure that the policies of the head of the executive agency established in accordance with this section are implemented throughout the agency.
 
 (e)
 
@@ -150,7 +150,7 @@ Purposes.—The purposes of this subsection are to ensure that the Federal acqui
 
 &emsp;(2)
 
-Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of GeneralServices shall manage the fund through the Federal Acquisition Institute to support the activities set forth in section 1201(a) of this title, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
+Establishment and management of fund.—There is an acquisition workforce training fund. The Administrator of General Services shall manage the fund through the Federal Acquisition Institute to support the activities set forth in section 1201(a) of this title, except as provided in paragraph (5). The Administrator of General Services shall consult with the Administrator in managing the fund.
 
 &emsp;(3)
 
@@ -344,6 +344,10 @@ Subsec. (l). Pub. L. 112–81, §864(c)(2), added subsec. (l).
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
+#### Effective Communication Between Government and Industry
+
+Pub. L. 114–92, div. A, title VIII, §887, Nov. 25, 2015, 129 Stat. 949, provided that: "Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms."
+
 #### Training for Contracting and Enforcement Personnel
 
 Pub. L. 111–240, title I, §1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements."
@@ -358,7 +362,7 @@ Pub. L. 103–355, title V, §5051(c), Oct. 13, 1994, 108 Stat. 3351, provided t
 
 &emsp;"(1) establish policies and procedures for the heads of such departments and agencies to designate acquisition positions and manage employees (including the accession, education, training and career development of employees) in the designated acquisition positions; and
 
-&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentives for the encouragement of excellence in such workforce which—
+&emsp;"(2) review the incentives and personnel actions available to the heads of departments and agencies of the Federal Government for encouraging excellence in the acquisition workforce of the Federal Government and provide an enhanced system of incentivesfor the encouragement of excellence in such workforce which—
 
 &emsp;&emsp;"(A) relates pay to performance (including the extent to which the performance of personnel in such workforce contributes to achieving the cost goals, schedule goals, and performance goals established for acquisition programs pursuant to section 313(b) of the Federal Property and Administrative Services Act of 1949, as added by subsection (a) \[now 41 U.S.C. 3103(b)\]); and
 

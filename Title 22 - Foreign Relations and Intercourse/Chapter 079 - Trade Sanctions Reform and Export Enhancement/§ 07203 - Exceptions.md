@@ -12,11 +12,11 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 &emsp;&emsp;(D) where imminent involvement by the Armed Forces of the United States in hostilities against the country or entity is clearly indicated by the circumstances; or
 
-&emsp;(2) to the extent that the sanction would prohibit, restrict, or condition the provision or use of any agricultural commodity, medicine, or medical device that is—
+&emsp;(2) to the extent that the sanction would prohibit, restrict, or condition the provisionor use of any agricultural commodity, medicine, or medical device that is—
 
 &emsp;&emsp;(A) controlled on the United States Munitions List established under section 2778 of this title;
 
-&emsp;&emsp;(B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); or
+&emsp;&emsp;(B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); <sup>1</sup> or
 
 &emsp;&emsp;(C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
@@ -24,9 +24,11 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 <b>2001</b>—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

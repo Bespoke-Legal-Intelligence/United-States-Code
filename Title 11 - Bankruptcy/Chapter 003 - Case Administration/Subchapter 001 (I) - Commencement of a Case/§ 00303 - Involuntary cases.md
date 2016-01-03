@@ -32,7 +32,7 @@
 
 &emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
-(i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
+(i) If the court dismisses a petition under this section other than on consent of all petitionersand the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
 &emsp;(1) against the petitioners and in favor of the debtor for—
 
@@ -96,7 +96,7 @@ The provisions for involuntary chapter 11 cases is a slight change from present 
 
 Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
 
-Subsection (c) permits creditors other than the original petitioning creditors to join in the petition withthe same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
+Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
 Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
@@ -174,7 +174,9 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(1), (2), dollar amount "14,425" was adjusted to "15,325". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount "15,325" was adjusted to "15,775". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(1), (2), dollar amount "14,425" was adjusted to "15,325".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(1), (2), dollar amount "13,475" was adjusted to "14,425".
 

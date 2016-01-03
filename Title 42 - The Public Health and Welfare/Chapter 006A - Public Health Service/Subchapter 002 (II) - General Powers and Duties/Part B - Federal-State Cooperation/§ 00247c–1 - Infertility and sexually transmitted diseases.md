@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c)of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -58,7 +58,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (i) Limitations on certain expenditures
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that not less than 80 percent of the grant will be expended for the purpose of carrying out paragraphs (1) through (7) of subsection (c) of this section.
+The Secretary may make a grant under subsection (a) of this section only if the applicantinvolved agrees that not less than 80 percent of the grant will be expended for the purpose of carrying out paragraphs (1) through (7) of subsection (c) of this section.
 
 #### (j) Reports to Secretary
 
@@ -106,7 +106,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (m) Duration of grant
 
-The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annualapproval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
+The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
 
 #### (n) Technical assistance, and supplies and services in lieu of grant funds
 
@@ -122,7 +122,7 @@ The period during which payments are made to an entity from a grant under subsec
 
 &emsp;&emsp;(B) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> &emsp;when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> &emsp;when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grantand shall be deemed to have been paid to the grant recipient.
 
 #### (o) Evaluations and reports by Secretary
 

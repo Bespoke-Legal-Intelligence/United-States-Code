@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
-Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph\(A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980".
+Pub. L. 96–54, §2(a)(25)(B), Aug. 14, 1979, 93 Stat. 382, provided that: The amendments made by subparagraph (A) \[amending sections 5312 to 5316 of this title\] shall take effect January 1, 1980".
 
 #### Effective Date of 1970 Amendment
 
@@ -224,7 +224,7 @@ For provisions limiting compensation and emoluments of Secretary of the Treasury
 
 #### Compensation and Emoluments of Secretary of State; Fixing at Level in Effect on January 1, 1977
 
-Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointedto that office after May 3, 1980, ceases to hold that office.
+Pub. L. 96–241, §1, May 3, 1980, 94 Stat. 343, limited the compensation and other emoluments attached to the office of Secretary of State to those in effect Jan. 1, 1977, during the period beginning May 3, 1980, and ending on the date on which the first individual appointed to that office after May 3, 1980, ceases to hold that office.
 
 #### Compensation and Emoluments of Attorney General; Fixing at Level in Effect on January 1, 1969
 

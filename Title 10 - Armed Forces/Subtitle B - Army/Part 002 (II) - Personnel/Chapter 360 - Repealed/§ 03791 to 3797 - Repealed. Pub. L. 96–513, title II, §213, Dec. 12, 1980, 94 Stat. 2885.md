@@ -12,7 +12,7 @@ Section 3795, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 389, provi
 
 Section 3796, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 389, authorized Secretary of the Army, at any time during proceedings under this chapter and before removal of an officer from active list of Regular Army, to grant that officer's request for voluntary retirement, if he is otherwise qualified therefor, or for honorable discharge with severance benefits. See section 1186 of this title.
 
-Section 3797, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 390, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer considered by that board and that no person be a member of more than one board convened under this chapter for same officer. See section 1187 of this title.
+Section 3797, added Pub. L. 86–616, §3(a), July 12, 1960, 74 Stat. 390, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer consideredby that board and that no person be a member of more than one board convened under this chapter for same officer. See section 1187 of this title.
 
 #### Effective Date of Repeal
 

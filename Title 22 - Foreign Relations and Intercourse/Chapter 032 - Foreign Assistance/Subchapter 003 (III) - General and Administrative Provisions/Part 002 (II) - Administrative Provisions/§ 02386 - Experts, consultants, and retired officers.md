@@ -10,7 +10,7 @@ Service of an individual as an expert or consultant under subsection (a) of this
 
 #### (c) Employment without compensation of persons of outstanding experience and ability
 
-Persons of outstanding experience and ability may be employed without compensation by any agency of the United States Government for the performance of functions under this chapter in accordance with the provisions of section 2160(b) of the Appendix to title 50, and regulations issued thereunder.
+Persons of outstanding experience and ability may be employed without compensation by any agency of the United States Government for the performance of functions under this chapter in accordance with the provisions of section 4560(b) of title 50, and regulations issued thereunder.
 
 (Pub. L. 87–195, pt. III, §626, Sept. 4, 1961, 75 Stat. 451; Pub. L. 88–205, pt. III, §302(c), Dec. 16, 1963, 77 Stat. 389; Pub. L. 88–448, title IV, §§401(e), 402(a)(35), Aug. 19, 1964, 78 Stat. 490, 495; Pub. L. 88–633, pt. III, §302(b), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(d), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(e), Nov. 14, 1967, 81 Stat. 460; Pub. L. 94–329, title VI, §603, June 30, 1976, 90 Stat. 766; Pub. L. 95–88, title I, §126, Aug. 3, 1977, 91 Stat. 542.)
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 88–448, §402(a)(35), repealed subsec. (c) which related 
 
 Pub. L. 88–633, §302(b)(2), substituted "section 101(3) of Title 37" for "Career Compensation Act of 1949, as amended," in subsec. (c) subsequent to the repeal of such subsection by Pub. L. 88–448.
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–205 substituted "Service of an individual as an expert or consultant under subsection (a) of this section shall not" for "Nor shall suchservice", and struck out provisions exempting individuals serving under subsec. (a) of this section from coverage of sections 281, 283, or 284 of title 18, section 99 of title 5, or any Federal law imposing restrictions, requirements, or penalties in connection with claims or matters involving the U.S. Government, except insofar as such provisions prohibited such individuals from receiving compensation in respect of any matter in which such individual was directly involved in the performance of such service.
+<b>1963</b>—Subsec. (b). Pub. L. 88–205 substituted "Service of an individual as an expert or consultant under subsection (a) of this section shall not" for "Nor shall such service", and struck out provisions exempting individuals serving under subsec. (a) of this section from coverage of sections 281, 283, or 284 of title 18, section 99 of title 5, or any Federal law imposing restrictions, requirements, or penalties in connection with claims or matters involving the U.S. Government, except insofar as such provisions prohibited such individuals from receiving compensation in respect of any matter in which such individual was directly involved in the performance of such service.
 
 #### Effective Date of 1964 Amendment
 

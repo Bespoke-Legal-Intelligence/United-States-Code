@@ -4,7 +4,7 @@ If the Secretary determines that any property seized is liable to perish or beco
 
 #### (1) Return to owner
 
-&emsp;If the owner of the property can be readily found, the Secretary shall give him notice of such determination of the appraised value of the property. The property shall be returned to the owner if, within such time as may be specified in the notice, the owner—
+&emsp;If the owner of the property can be readily found, the Secretary shall give him notice ofsuch determination of the appraised value of the property. The property shall be returned to the owner if, within such time as may be specified in the notice, the owner—
 
 &emsp;&emsp;(A) Pays to the Secretary an amount equal to the appraised value, or
 

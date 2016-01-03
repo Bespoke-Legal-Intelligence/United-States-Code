@@ -62,7 +62,7 @@
 
 #### (D) Annual report
 
-&emsp;&emsp;The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
+&emsp;&emsp;The Secretary shall include in the annual report required under section 393(g) of thistitle the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
 
 #### (E) Periodic reaccreditation
 
@@ -138,7 +138,7 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 &emsp;(10) any impact of this section on resources available to the Secretary to review reports under section 360(k) of this title; and
 
-&emsp;(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
+&emsp;(11) any suggestions for continuation, modification (including contraction or expansion ofdevice eligibility), or termination of this section that the Secretary determines to be appropriate.
 
 (June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059.)
 

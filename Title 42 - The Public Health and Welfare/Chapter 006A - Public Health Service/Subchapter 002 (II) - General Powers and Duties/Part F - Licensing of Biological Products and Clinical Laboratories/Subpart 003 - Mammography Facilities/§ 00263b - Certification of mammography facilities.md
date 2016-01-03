@@ -88,7 +88,7 @@ As used in this section:
 
 &emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body within the established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
 
-&emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility tobe unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
+&emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility to be unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
 
 #### (3) Limited provisional certificate
 
@@ -384,7 +384,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;In order to promote voluntary compliance with this section, the Secretary may, in lieu of taking the actions authorized by subsection (i) of this section, impose one or more of the following sanctions:
+&emsp;In order to promote voluntary compliance with this section, the Secretary may, in lieuof taking the actions authorized by subsection (i) of this section, impose one or more of the following sanctions:
 
 &emsp;&emsp;(A) Directed plans of correction which afford a facility an opportunity to correct violations in a timely manner.
 
@@ -460,7 +460,7 @@ If the Secretary determines that—
 
 #### (1) Petition
 
-&emsp;If the Secretary imposes a sanction on a facility under subsection (h) of this section or suspends or revokes the certificate of a facility under subsection (i) of this section, the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerkof the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;If the Secretary imposes a sanction on a facility under subsection (h) of this section or suspends or revokes the certificate of a facility under subsection (i) of this section, the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -598,7 +598,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (3) Standards and procedures
 
-&emsp;The Secretary shall establish standards and procedures for the operation of the breast cancer screening surveillance system, including procedures to maintain confidentiality of patient records.
+&emsp;The Secretary shall establish standards and procedures for the operation of the breast cancer screening surveillance system, includingprocedures to maintain confidentiality of patient records.
 
 #### (4) Information
 
@@ -694,7 +694,7 @@ Subsec. (b)(1)(B). Pub. L. 108–365, §2(1)(B), inserted "or a limited provisio
 
 Subsec. (c)(2) to (4). Pub. L. 108–365, §2(2), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, andstruck out former concluding provisions which read as follows: "whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services."
+Subsec. (n)(2). Pub. L. 108–365, §3(1), reenacted subpar. (C) without change, added concluding provisions, and struck out former concluding provisions which read as follows: "whose clinical practice, research specialization, or professional expertise include a significant focus on mammography. The Secretary shall appoint at least 4 individuals from among national breast cancer or consumer health organizations with expertise in mammography and at least 2 practicing physicians who provide mammography services."
 
 Subsec. (n)(4). Pub. L. 108–365, §3(2), substituted "annually" for "biannually".
 

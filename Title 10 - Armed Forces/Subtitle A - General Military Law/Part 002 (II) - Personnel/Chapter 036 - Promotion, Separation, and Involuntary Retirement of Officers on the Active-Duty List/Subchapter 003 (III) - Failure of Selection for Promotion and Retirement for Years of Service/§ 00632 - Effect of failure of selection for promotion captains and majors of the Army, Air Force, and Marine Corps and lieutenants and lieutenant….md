@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 108–136, §505(a)(2), added subsec. (c).
 
 <b>2001</b>—Pub. L. 107–107, §505(d)(4)(C), struck out "regular" before "captains and majors" and before "lieutenants and lieutenant commanders" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or MarineCorps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
+Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
 
 #### Effective Date of 2003 Amendment
 

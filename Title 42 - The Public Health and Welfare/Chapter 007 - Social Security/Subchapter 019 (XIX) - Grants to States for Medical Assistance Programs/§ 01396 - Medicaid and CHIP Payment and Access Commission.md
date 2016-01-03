@@ -92,7 +92,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section 1396r–4 of this title. Each report shall include the information specified in clause (ii).
+&emsp;&emsp;&emsp;MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under section1396r–4 of this title. Each report shall include the information specified in clause (ii).
 
 #### (ii) Required report information
 
@@ -188,7 +188,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Compensation
 
-&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply toMACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -218,7 +218,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Obtaining official data
 
-&emsp;MACPAC may secure directly from any department or agency of the United States and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP, information necessary to enable it to carry out this section. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
+&emsp;MACPAC may secure directly from any department or agency of the United States and, as a condition for receiving payments undersections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP, information necessary to enable it to carry out this section. Upon request of the Chairman, the head of that department or agency shall furnish that information to MACPAC on an agreed upon schedule.
 
 #### (2) Data collection
 
@@ -266,7 +266,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### References in Text
 
-Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the FederalCoordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
+Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the Federal Coordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
@@ -354,7 +354,7 @@ Pub. L. 111–3, title II, §213, Feb. 4, 2009, 123 Stat. 56, provided that:
 
 "(a)
 
-In General.—In order to assure continuity of coverage of low-income children under the Medicaid program and the State Children's Health Insurance Program (CHIP), not later than 18 months after the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services, in consultation with State Medicaid and CHIP directors and organizations representing program beneficiaries, shall develop a model process for the coordination of the enrollment, retention, and coverage under such programs of children who, because of migration of families, emergency evacuations, natural or other disasters, public health emergencies, educational needs, or otherwise, frequently change their State of residency or otherwise are temporarily located outside of the State of their residency.
+In General.—In order to assure continuity of coverage of low-income children under the Medicaid program and the State Children's Health Insurance Program (CHIP), not later than 18 months after the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services, in consultation with State Medicaid and CHIP directors and organizations representing program beneficiaries, shall develop a model process for the coordination of the enrollment, retention, and coverage under such programs of children who, because of migration of families, emergencyevacuations, natural or other disasters, public health emergencies, educational needs, or otherwise, frequently change their State of residency or otherwise are temporarily located outside of the State of their residency.
 
 "(b)
 

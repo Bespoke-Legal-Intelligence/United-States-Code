@@ -4,7 +4,7 @@
 
 (2) In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
 
-&emsp;(A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, other appropriate service delivery points, or America's Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor's organization and positions lasting three days or less;
+&emsp;(A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998,<sup>1</sup> other appropriate service delivery points, or America's Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor's organization and positions lasting three days or less;
 
 &emsp;(B) each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(iv) Recently separated veterans.
 
-&emsp;(B) The term "qualified", with respect to an employment position, means having the ability to perform the essential functions of theposition with or without reasonable accommodation for an individual with a disability.
+&emsp;(B) The term "qualified", with respect to an employment position, means having the ability to perform the essential functions of the position with or without reasonable accommodation for an individual with a disability.
 
 (b) If any veteran covered by the first sentence of subsection (a) believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding section 1121 of Title 10, Armed Forces.
 
@@ -144,9 +144,11 @@ Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 Sec. 3. The Secretary of Labor shall gather information on the effectiveness of the program established under this order and Section 2012 \[now 4212\] of Title 38 of the United States Code and of the extent to which the employment service system is fulfilling the employment needs of veterans. The Secretary of Labor shall, from time to time, report to the President concerning his evaluation of the effectiveness of this order along with his recommendations for further action which the Secretary believes to be appropriate.
 
-Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 ofthe United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information and assistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
+Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 of the United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information and assistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
 
 Sec. 5. Executive Order No. 11598 of June 16, 1971, is hereby superseded.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

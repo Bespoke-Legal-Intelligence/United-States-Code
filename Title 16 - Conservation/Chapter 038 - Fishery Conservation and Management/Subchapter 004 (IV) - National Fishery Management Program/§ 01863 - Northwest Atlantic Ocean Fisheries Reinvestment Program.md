@@ -36,7 +36,7 @@ The New England Fishery Management Council, in consultation with other appropria
 
 #### (d) "Underutilized species" defined
 
-For purposes of this section, the term "underutilized species of the northwest AtlanticOcean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
+For purposes of this section, the term "underutilized species of the northwest Atlantic Ocean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
 (Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, §117(b), Oct. 11, 1996, 110 Stat. 3604.)
 

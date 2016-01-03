@@ -66,13 +66,13 @@
 
 #### (B) Eligible client
 
-&emsp;&emsp;The term "eligible client" means an individual with a disability, as defined in section 705(20)(A) of this title, who is not currently receiving services under an individualizedplan for employment established through a designated State unit.
+&emsp;&emsp;The term "eligible client" means an individual with a disability, as defined in section 705(20)(A) of this title, who is not currently receiving services under an individualized plan for employment established through a designated State unit.
 
 #### (b) Special demonstration programs
 
 #### (1) Grants; contracts
 
-&emsp;The Commissioner, subject to the provisions of section 776 of this title, may provide grants to, or enter into contracts with, eligible entities to pay all or part of the cost of programs that expand and improve the provision of rehabilitation and other services authorized under this chapter or that further the purposes of the chapter, including related research and evaluation activities.
+&emsp;The Commissioner, subject to the provisions of section 776 of this title, may provide grants to, or enter into contracts with, eligible entities to pay all or part of the cost of programs that expand and improve the provision of rehabilitation and other services authorizedunder this chapter or that further the purposes of the chapter, including related research and evaluation activities.
 
 #### (2) Eligible entities; terms and conditions
 

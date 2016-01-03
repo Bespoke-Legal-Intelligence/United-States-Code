@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) an amount that bears the same ratio to 15 percent of the sum being allotted as the product of the population aged 25 to 65, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States; and
 
-&emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sum being allotted as the amounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
+&emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sum being allotted as theamounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
 
 #### (3) Minimum allotment for years with no additional funds
 

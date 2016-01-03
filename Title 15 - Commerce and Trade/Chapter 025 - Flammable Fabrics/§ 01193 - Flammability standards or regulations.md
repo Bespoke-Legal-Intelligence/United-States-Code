@@ -10,7 +10,7 @@ Each standard, regulation, or amendment thereto promulgated pursuant to this sec
 
 #### (c) Collection of information by Commission; confidential status of trade secrets and related information; disclosure of confidential information
 
-The Commission may obtain from any person by regulation or subpena issued pursuant thereto such information in the form of testimony, books, records, or other writings as is pertinent to the findings or determinations which it is required or authorized to make pursuant to this chapter. All information reported to or otherwise obtained by the Commission or its representative pursuant to this subsection which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Commission or any officer or employee under its control, from the duly authorized committees of the Congress.
+The Commission may obtain from any person by regulation or subpena issued pursuant thereto such information in the form of testimony, books, records, or other writings as is pertinent to the findings or determinations which it is required or authorized to make pursuant to this chapter. All information reported to or otherwise obtained by the Commission or its representative pursuant to this subsection which information contains or relates to a trade secretor other matter referred to in section 1905 of title 18, shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Commission or any officer or employee under its control, from the duly authorized committees of the Congress.
 
 #### (d) Applicability of section 553 of title 5; oral presentation
 
@@ -22,7 +22,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term "record" means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term "record" means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such standard or regulation of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
@@ -30,7 +30,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (f) Transcript of proceedings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e).
 
 #### (g) Promulgation of regulation; commencement of proceeding; publication of prescribed notice of proposed rulemaking
 
@@ -52,11 +52,11 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 #### (h) Voluntary standard; publication as proposed regulation; prerequisites for reliance by Commission
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1), the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
 
 (2) If the Commission determines that—
 
-&emsp;(A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (g)(6) of this section is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
+&emsp;(A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (g)(6) is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
 
 &emsp;(B) it is likely that there will be substantial compliance with such standard,
 
@@ -76,9 +76,9 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
-&emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
+&emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
-&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (g)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section; and
+&emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (g)(6) and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1); and
 
 &emsp;(4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 
@@ -92,7 +92,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(B) A description of any alternatives to the final regulation which were considered by the Commission, together with a summary description of their potential benefits and costs and a brief explanation of the reasons why these alternatives were not chosen.
 
-&emsp;(C) A summary of any significant issues raised by the comments submitted during the public comment period in response to the preliminary regulatory analysis, and a summary of the assessment by the Commission of such issues.
+&emsp;(C) A summary of any significant issues raised by the comments submitted during thepublic comment period in response to the preliminary regulatory analysis, and a summary of the assessment by the Commission of such issues.
 
 > The Commission shall publish its final regulatory analysis with the regulation.
 
@@ -108,7 +108,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(C) that the regulation imposes the least burdensome requirement which prevents or adequately reduces the risk of injury for which the regulation is being promulgated.
 
-(3)(A) Any regulatory analysis prepared under subsection (i) of this section or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+(3)(A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
 (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 

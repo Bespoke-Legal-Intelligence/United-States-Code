@@ -57,14 +57,18 @@
 | [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
 | [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Congressional%20oversight.md) | Congressional oversight. |
 | [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9356%2C%20title%20II%2C%20%C2%A7215%2C%20Oct.%2026%2C%202001%2C%20115%20Stat.%20287.md) | Repealed. |
+| [1864\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001864%20-%20Notification%20of%20changes%20to%20retention%20of%20call%20detail%20record%20policies.md) | Notification of changes to retention of call detail record policies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER V—REPORTING REQUIREMENT
+#### SUBCHAPTER V—OVERSIGHT
 
 |  |  |
 | :--- | ---: |
-| [1871\.](Subchapter%20005%20%28V%29%20-%20Reporting%20Requirement/%C2%A7%2001871%20-%20Semiannual%20report%20of%20the%20Attorney%20General.md) | Semiannual report of the Attorney General. |
+| [1871\.](Subchapter%20005%20%28V%29%20-%20Oversight/%C2%A7%2001871%20-%20Semiannual%20report%20of%20the%20Attorney%20General.md) | Semiannual report of the Attorney General. |
+| [1872\.](Subchapter%20005%20%28V%29%20-%20Oversight/%C2%A7%2001872%20-%20Declassification%20of%20significant%20decisions%2C%20orders%2C%20and%20opinions.md) | Declassification of significant decisions, orders, and opinions. |
+| [1873\.](Subchapter%20005%20%28V%29%20-%20Oversight/%C2%A7%2001873%20-%20Annual%20reports.md) | Annual reports. |
+| [1874\.](Subchapter%20005%20%28V%29%20-%20Oversight/%C2%A7%2001874%20-%20Public%20reporting%20by%20persons%20subject%20to%20orders.md) | Public reporting by persons subject to orders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,6 +107,6 @@
 - [Subchapter 002 (II) - Physical Searches](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/README.md)
 - [Subchapter 003 (III) - Pen Registers and Trap and Trace Devices for Foreign Intelligence Purposes](Subchapter%20003%20%28III%29%20-%20Pen%20Registers%20and%20Trap%20and%20Trace%20Devices%20for%20Foreign%20Intelligence%20Purposes/README.md)
 - [Subchapter 004 (IV) - Access to Certain Business Records for Foreign Intelligence Purposes](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/README.md)
-- [Subchapter 005 (V) - Reporting Requirement](Subchapter%20005%20%28V%29%20-%20Reporting%20Requirement/README.md)
+- [Subchapter 005 (V) - Oversight](Subchapter%20005%20%28V%29%20-%20Oversight/README.md)
 - [Subchapter 006 (VI) - Additional Procedures Regarding Certain Persons Outside the United States](Subchapter%20006%20%28VI%29%20-%20Additional%20Procedures%20Regarding%20Certain%20Persons%20Outside%20the%20United%20States/README.md)
 - [Subchapter 007 (VII) - Protection of Persons Assisting the Government](Subchapter%20007%20%28VII%29%20-%20Protection%20of%20Persons%20Assisting%20the%20Government/README.md)

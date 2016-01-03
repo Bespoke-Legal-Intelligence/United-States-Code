@@ -34,7 +34,7 @@
 
 (3) The Executive Director shall prescribe regulations under which this subsection shall be applied in any case in which the Executive Director receives two or more decrees, orders, or agreements referred to in paragraph (1).
 
-(d)(1) Subject to paragraphs (2) through (7), a former spouse of a deceased employee or Member (or a deceased former employee or Member) who died after performing 18 or more months of service and a former spouse of a deceased formeremployee or Member who died entitled to an immediate or deferred annuity under subchapter II of this chapter is entitled to a survivor annuity under this subsection if and to the extent that—
+(d)(1) Subject to paragraphs (2) through (7), a former spouse of a deceased employee or Member (or a deceased former employee or Member) who died after performing 18 or more months of service and a former spouse of a deceased former employee or Member who died entitled to an immediate or deferred annuity under subchapter II of this chapter is entitled to a survivor annuity under this subsection if and to the extent that—
 
 &emsp;(A) an election under section 8434(a)(2)(E) of this title, or
 
@@ -70,7 +70,7 @@
 
 (2) An application for a loan or withdrawal under section 8433(g) and (h) of this title shall not be approved if approval would have the result described under subsection (c)(1).
 
-(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by this section) may be made only in accordance with procedures prescribed by the Executive Director.
+(f) Waivers and notifications required by this section and waivers of the requirements for such waivers and notifications (as authorized by thissection) may be made only in accordance with procedures prescribed by the Executive Director.
 
 (g) Except with respect to the making of loans or withdrawals under section 8433(g) and (h), none of the provisions of this section requiring notification to, or the consent or waiver of, a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 
@@ -86,7 +86,7 @@ Subsec. (c)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(
 
 Subsec. (c)(2)(B). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(2)(B)\]\], struck out "modification," after "change," in closing provisions.
 
-Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(A)\]\], in subpar. (A) inserted "or withdrawal" after "A loan", "and (h)" after "8433(g)", and "or withdrawal" after "such loan", in subpar. (B) inserted "or withdrawal" after "loan", and in subpar. (C)inserted "or withdrawal" after "to a loan" and after "for such loan".
+Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(A)\]\], in subpar. (A) inserted "or withdrawal" after "A loan", "and (h)" after "8433(g)", and "or withdrawal" after "such loan", in subpar. (B) inserted "or withdrawal" after "loan", and in subpar. (C) inserted "or withdrawal" after "to a loan" and after "for such loan".
 
 Subsec. (e)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(i)\]\], inserted "or withdrawal" after "loan".
 

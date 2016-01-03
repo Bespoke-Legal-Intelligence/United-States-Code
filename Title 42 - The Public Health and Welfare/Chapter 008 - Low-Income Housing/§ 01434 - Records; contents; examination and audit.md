@@ -6,7 +6,7 @@ Every contract between the Department of Housing and Urban Development and any p
 
 #### References in Text
 
-The United States Housing Act of 1937, as amended, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to this chapter (§1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, as amended, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to this chapter (§1437 et seq.). For complete classification ofthis Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The Housing Act of 1949, as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 

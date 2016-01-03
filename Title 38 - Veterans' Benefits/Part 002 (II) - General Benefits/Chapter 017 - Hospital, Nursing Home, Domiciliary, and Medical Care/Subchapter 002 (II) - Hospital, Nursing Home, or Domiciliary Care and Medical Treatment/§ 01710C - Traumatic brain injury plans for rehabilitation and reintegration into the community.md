@@ -184,7 +184,7 @@ Collaboration.—In carrying out research under subsection (a), the Secretary of
 
 "(c)
 
-Dissemination of Useful Information.—The Under Secretary of Veterans Affairs for Health shallensure that information produced by the research, education and training, and clinical activities conducted under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration.
+Dissemination of Useful Information.—The Under Secretary of Veterans Affairs for Health shall ensure that information produced by the research, education and training, and clinical activities conducted under this section that may be useful for other activities of the Veterans Health Administration is disseminated throughout the Veterans Health Administration.
 
 "(d)
 

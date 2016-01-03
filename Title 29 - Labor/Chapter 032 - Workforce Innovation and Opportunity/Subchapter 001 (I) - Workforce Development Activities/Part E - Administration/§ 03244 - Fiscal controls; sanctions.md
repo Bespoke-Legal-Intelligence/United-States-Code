@@ -160,7 +160,7 @@ The remedies described in this section shall not be considered to be the exclusi
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (e) relates to termination or suspension of financial assistance.</i>
 

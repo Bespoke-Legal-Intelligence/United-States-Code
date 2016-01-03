@@ -12,7 +12,7 @@ No person shall—
 
 #### (b) Form of application and permit
 
-(1) The application required by subsection (a) shall be in such form, shall be submitted at suchtimes, and shall contain such information, as the Secretary shall by regulations prescribe.
+(1) The application required by subsection (a) shall be in such form, shall be submitted at such times, and shall contain such information, as the Secretary shall by regulations prescribe.
 
 (2) Permits under this section shall, under such regulations as the Secretary shall prescribe, designate and limit the acts which are permitted, and the place where and time when such acts may be performed. Such permits shall be issued in such form and under such conditions as the Secretary may by regulations prescribe.
 
@@ -70,7 +70,7 @@ The Secretary shall prescribe all necessary regulations relating to issuance, de
 
 #### Prior Provisions
 
-A prior section 5271, act Aug. 16, 1954, ch. 736, 68A Stat. 650, related to "notice of business of rectifier", prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (c), 5172, and 5178(a)(1)(A), (4)(B)–(D) of this title.
+A prior section 5271, act Aug. 16, 1954, ch. 736, 68A Stat. 650, related to "notice of business of rectifier",prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (c), 5172, and 5178(a)(1)(A), (4)(B)–(D) of this title.
 
 Provisions similar to those comprising subsecs. (a) to (f) and (h) of this section were contained in prior section 5304(a)(1) to (4), (b), (c), act Aug. 16, 1954, ch. 736, 68A Stat. 655, prior to the general revision of this chapter by Pub. L. 85–859.
 

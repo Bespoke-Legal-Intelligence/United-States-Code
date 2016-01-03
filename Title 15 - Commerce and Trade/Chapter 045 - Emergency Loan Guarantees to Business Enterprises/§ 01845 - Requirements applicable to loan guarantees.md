@@ -36,7 +36,7 @@ No payment shall be made or become due under a guarantee entered into under this
 
 &emsp;(B) the lender certifies to the Board before an advance is made that, as of the date of the notice provided for in subparagraph (A), the borrower is not in default under the loan agreement: <i>Provided</i>, That if a default has occurred the lender shall report the facts and circumstances relating thereto to the Board and the Board may expressly and in writing waive such default in any case where it determines that such waiver is not inconsistent with the reasonable protection of the interests of the United States under the guarantee; and
 
-&emsp;(C) the borrower provides the Board with a plan setting forth the expenditures for which the advance will be used and the period during which the expenditures will be made, and, upon the expiration of such periods, reports to the Board any instances in which amounts advanced have not been expended in accordance with the plan.
+&emsp;(C) the borrower provides the Board with a plan setting forth the expenditures for which the advance will be used and the period during which the expenditures will be made, and,upon the expiration of such periods, reports to the Board any instances in which amounts advanced have not been expended in accordance with the plan.
 
 #### (f) Loan security, priority; collateral
 

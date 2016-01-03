@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In any administrative or court proceeding which is brought by or against the United Statesin connection with the determination, collection, or refund of any tax, interest, or penalty under this title, the prevailing party may be awarded a judgment or a settlement for—
+In any administrative or court proceeding which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, the prevailing party may be awarded a judgment or a settlement for—
 
 &emsp;(1) reasonable administrative costs incurred in connection with such administrative proceeding within the Internal Revenue Service, and
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (6) Court proceedings
 
-&emsp;The term "court proceeding" means any civil action brought in a court of the UnitedStates (including the Tax Court and the United States Court of Federal Claims).
+&emsp;The term "court proceeding" means any civil action brought in a court of the United States (including the Tax Court and the United States Court of Federal Claims).
 
 #### (7) Position of United States
 
@@ -226,7 +226,7 @@ For purposes of subsection (c)(4)—
 
 &emsp;&emsp;(B) ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-647.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -334,7 +334,7 @@ Amendment by sections 6012(h) and 6014(e) of Pub. L. 105–206 effective, except
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1285(d), Aug. 5, 1997, 111 Stat. 1039, provided that: "The amendments made bythis section \[amending this section\] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XII, §1285(d), Aug. 5, 1997, 111 Stat. 1039, provided that: "The amendments made by this section \[amending this section\] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Pub. L. 105–34, title XIV, §1453(b), Aug. 5, 1997, 111 Stat. 1055, provided that: "The amendment made by this section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Aug. 5, 1997\]."
 

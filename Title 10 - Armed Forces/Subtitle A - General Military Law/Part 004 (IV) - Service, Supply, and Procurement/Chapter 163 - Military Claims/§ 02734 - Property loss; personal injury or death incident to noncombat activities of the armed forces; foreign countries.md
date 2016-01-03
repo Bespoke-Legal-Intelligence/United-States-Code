@@ -88,7 +88,7 @@ In subsection (c), the first 28 words of the second proviso of 31:224d and the w
 
 In subsection (d), the word "may" is substituted for the words "shall have authority, if he deems". The words "that would otherwise be covered by this section" are inserted for clarity. The words "to be meritorious" and "character of such" are omitted as surplusage.
 
-In subsection (f), the words "a military department" are substituted for the words "service concerned" after the words "the request of the". The words "or Commissions" and "even though not" are omitted as surplusage. The words "an armed force under the jurisdiction of another military department" are substituted for the words "service concerned" after the words "officers of the". 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
+In subsection (f), the words "a military department" are substituted for the words "service concerned" afterthe words "the request of the". The words "or Commissions" and "even though not" are omitted as surplusage. The words "an armed force under the jurisdiction of another military department" are substituted for the words "service concerned" after the words "officers of the". 31:224i (last 19 words) is omitted, since all claims are paid from one appropriation made to the Department of Defense.
 
 1958
 
@@ -138,7 +138,7 @@ Pub. L. 98–564, §2(2), inserted "or employee" after "An officer" in last sent
 
 Subsec. (c). Pub. L. 98–564, §2(3), substituted provisions whereby the Secretary may appoint officers and employees to act as approval authority for claims in excess of $10,000 for provisions which provided that allowance of a claim for more than $2,500 may be subject to the approval of any commissioned officer designated by the Secretary concerned.
 
-Subsec. (d). Pub. L. 98–564, §2(4), substituted provisions providing that if the Secretary considers a claimin excess of $100,000 meritorious, the Secretary may pay $100,000 and report any excess amount to the Comptroller General for provisions which provided that for claims in excess of $25,000 the Secretary may pay $25,000 and certify any excess to Congress as a legal claim to be paid from appropriations.
+Subsec. (d). Pub. L. 98–564, §2(4), substituted provisions providing that if the Secretary considers a claim in excess of $100,000 meritorious, the Secretary may pay $100,000 and report any excess amount to the Comptroller General for provisions which provided that for claims in excess of $25,000 the Secretary may pay $25,000 and certify any excess to Congress as a legal claim to be paid from appropriations.
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–513 substituted "Department of Transportation" for "Department of the Treasury".
 

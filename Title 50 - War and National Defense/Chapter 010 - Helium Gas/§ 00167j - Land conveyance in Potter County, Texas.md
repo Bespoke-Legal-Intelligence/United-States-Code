@@ -38,5 +38,5 @@ The parcel of land referred to in subsection (a) of this section is all those ce
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary's authorityunder Federal helium refining program to obtain loans and issue obligations to carry out program.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary's authority under Federal helium refining program to obtain loans and issue obligations to carry out program.
 

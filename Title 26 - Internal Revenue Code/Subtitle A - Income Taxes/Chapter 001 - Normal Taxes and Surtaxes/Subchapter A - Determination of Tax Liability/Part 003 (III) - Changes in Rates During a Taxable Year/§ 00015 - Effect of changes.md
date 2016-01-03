@@ -6,7 +6,7 @@ If any rate of tax imposed by this chapter changes, and if the taxable year incl
 
 &emsp;(1) tentative taxes shall be computed by applying the rate for the period before the effective date of the change, and the rate for the period on and after such date, to the taxable income for the entire taxable year; and
 
-&emsp;(2) the tax for such taxable year shall be the sum of that proportion of each tentative taxwhich the number of days in each period bears to the number of days in the entire taxable year.
+&emsp;(2) the tax for such taxable year shall be the sum of that proportion of each tentative tax which the number of days in each period bears to the number of days in the entire taxable year.
 
 #### (b) Repeal of tax
 

@@ -4,7 +4,7 @@
 
 The Commission shall conduct a comprehensive review of changes in the condition of production agriculture in the United States since April 4, 1996, and the extent to which the changes are the result of this chapter and the amendments made by this chapter. The review shall include the following:
 
-&emsp;(1) An assessment of the initial success of production flexibility contracts in supporting the economic viability of farming in the United States.
+&emsp;(1) An assessment of the initial success of production flexibility contracts in supportingthe economic viability of farming in the United States.
 
 &emsp;(2) An assessment of economic risks to farms delineated by size of farm operation (such as small, medium, or large farms) and region of production.
 

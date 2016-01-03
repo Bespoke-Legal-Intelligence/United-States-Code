@@ -16,7 +16,7 @@ Subsection (a) shall be applied by substituting "$50" for "$500" in the case ofâ
 
 #### Constitutionality
 
-For information regarding constitutionality of section 4411 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1,Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of section 4411 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

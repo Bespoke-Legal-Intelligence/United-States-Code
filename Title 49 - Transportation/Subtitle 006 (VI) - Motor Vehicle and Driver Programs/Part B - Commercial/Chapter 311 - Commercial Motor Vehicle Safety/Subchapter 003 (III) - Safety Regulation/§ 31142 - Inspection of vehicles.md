@@ -28,7 +28,7 @@ Preemption.—(1) Except as provided in paragraph (2) of this subsection, this s
 
 (d)
 
-Inspection To Be Accepted as Adequate in All States.—A periodic inspection of a commercial motor vehicle under the Government standards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
+Inspection To Be Accepted as Adequate in All States.—A periodic inspection of a commercial motor vehicle under the Governmentstandards prescribed under subsection (b) of this section or a program described in subsection (c)(1)(B) or (C) of this section that is being enforced shall be recognized as adequate in every State for the period of the inspection. This subsection does not prohibit a State from making random inspections of commercial motor vehicles.
 
 (e)
 

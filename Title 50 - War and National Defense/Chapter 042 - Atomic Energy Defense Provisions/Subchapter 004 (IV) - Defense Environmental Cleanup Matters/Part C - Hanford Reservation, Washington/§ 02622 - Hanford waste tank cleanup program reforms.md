@@ -18,7 +18,7 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 #### (c) Department responsibilities
 
-The Secretary shall provide the head of the Office with the resources and personnel necessary to carry out the responsibilities specified in subsection (b)(2).
+The Secretary shall provide the head of the Office with the resources and personnel necessaryto carry out the responsibilities specified in subsection (b)(2).
 
 #### (d) Notification
 

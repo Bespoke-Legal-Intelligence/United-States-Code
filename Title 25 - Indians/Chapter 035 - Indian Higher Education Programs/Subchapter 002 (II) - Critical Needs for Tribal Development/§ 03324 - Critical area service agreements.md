@@ -18,7 +18,7 @@ The tribe or tribal organization shall agree that a student performing services 
 
 &emsp;(2) may be treated as providing services to the tribe or organization if the student provides services for members of the tribe or organization that are approved by the tribe or organization and agreed to by the student even though such services are performed while the student is employed by a Federal, State, or local agency or instrumentality or by a nonprofit or for-profit private institution or organization; and
 
-&emsp;(3) may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c) of this section.
+&emsp;(3) may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c).
 
 #### (c) Waiver and suspension of service agreement
 
@@ -32,13 +32,13 @@ The tribe or tribal organization shall agree that a student performing services 
 
 &emsp;&emsp;(A) shall be suspended for not more than 18 months if, at the request of the student, the tribe or organization determines that there are no employment opportunities available in any critical service area; and
 
-&emsp;&emsp;(B) shall be suspended if the student ceases to attend an institution of higher education as a consequence of an institutional determination of unsatisfactory performance.
+&emsp;&emsp;(B) shall be suspended if the student ceases to attend an institution of higher educationas a consequence of an institutional determination of unsatisfactory performance.
 
 > &emsp;If, at the end of a period of suspension under subparagraph (A), there are still no employment opportunities available in any critical service area, the student's obligations under the agreement shall terminate. A suspension under subparagraph (B) shall be reviewed by the tribe or organization annually, but may be continued indefinitely.
 
 #### (d) Pro rata reduction for partial services
 
-The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) of this section in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A) of this section.
+The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A).
 
 #### (e) Certification of service
 

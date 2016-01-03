@@ -38,7 +38,7 @@
 
 #### (D) Cost of examinations
 
-&emsp;&emsp;The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be, only to the sameextent that fees are collected by the Board for examination of any State member bank.
+&emsp;&emsp;The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be, only to the same extent that fees are collected by the Board for examination of any State member bank.
 
 #### (2) Reporting requirements
 
@@ -110,7 +110,7 @@
 
 #### (B) Failure to submit information
 
-&emsp;&emsp;The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
+&emsp;&emsp;The Board may deny any application if it does not receive information requested fromthe applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
 
 #### (C) Waiver
 
@@ -176,9 +176,9 @@
 
 &emsp;Any foreign bank—
 
-&emsp;&emsp;(A) whose application under subsection (d) of this section or section 3107(a) of this title has been disapproved by the Board;
+&emsp;&emsp;(A) whose application under subsection (d) or section 3107(a) of this title has been disapproved by the Board;
 
-&emsp;&emsp;(B) against which the Board has issued an order under subsection (e) of this section or section 3107(b) of this title; or
+&emsp;&emsp;(B) against which the Board has issued an order under subsection (e) or section 3107(b) of this title; or
 
 &emsp;&emsp;(C) against which the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
@@ -190,7 +190,7 @@
 
 #### (g) Consultation with State bank supervisor
 
-The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e) of this section.
+The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e).
 
 #### (h) Limitations on powers of State branches and agencies
 
@@ -224,7 +224,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 &emsp;&emsp;(D) any State commercial lending subsidiary,
 
-> &emsp;has been found guilty of any money laundering offense, the Board shall issue a notice to the agency, branch, or subsidiary of the Board's intention to commence a termination proceeding under subsection (e) of this section.
+> &emsp;has been found guilty of any money laundering offense, the Board shall issue a notice to the agency, branch, or subsidiary of the Board's intention to commence a termination proceeding under subsection (e).
 
 #### (2) Definitions
 
@@ -252,7 +252,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 #### (1) Transactions prohibited
 
-&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreignbank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+&emsp;A branch or agency of a foreign bank shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such branch or agency, any type of activity that a bank organized under the laws of the United States, any State, or the District of Columbia is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
 
 #### (2) Regulations
 

@@ -12,7 +12,7 @@ At the expiration of the period of postponement provided for in subsection (a), 
 
 &emsp;&emsp;<b>For authority of the Secretary to require security in the case of an extension under this section, see section 6165.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 763; Pub. L. 85–866, title I, §66(b)(1), Sept. 2, 1958, 72 Stat. 1658; Pub. L. 88–272, title II, §240(a), Feb. 26, 1964,78 Stat. 129; Pub. L. 93–625, §7(d)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2004(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1868.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 763; Pub. L. 85–866, title I, §66(b)(1), Sept. 2, 1958, 72 Stat. 1658; Pub. L. 88–272, title II, §240(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 93–625, §7(d)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2004(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1868.)
 
 #### Amendments
 

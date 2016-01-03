@@ -52,7 +52,7 @@ Coordination.—(1) The Secretary of Transportation shall coordinate—
 
 &emsp;(A) transportation programs related to the Northeast Corridor to ensure that the programs are integrated and consistent with the Northeast Corridor improvement program; and
 
-&emsp;(B) amounts from departments, agencies, and instrumentalities of the Government to achieve urban redevelopment and revitalization in the vicinity of urban rail stations in the Northeast Corridor served by intercity and commuter rail passenger transportation.
+&emsp;(B) amounts from departments, agencies, and instrumentalities of the Government toachieve urban redevelopment and revitalization in the vicinity of urban rail stations in the Northeast Corridor served by intercity and commuter rail passenger transportation.
 
 (2) If the Secretary finds significant noncompliance with this section, the Secretary may deny financing to a noncomplying program until the noncompliance is corrected.
 
@@ -64,7 +64,7 @@ Completion.—Amtrak shall give the highest priority to completing the program.
 
 Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1),Dec. 2, 1997, 111 Stat. 2586; Pub. L. 112–141, div. C, title II, §32932(c)(3), July 6, 2012, 126 Stat. 829.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 112–141, div. C, title II, §32932(c)(3), July 6, 2012, 126 Stat. 829.)
 
 Historical and Revision Notes
 
@@ -258,7 +258,7 @@ In subsection (j)(2), the words "including the provision of service use of track
 
 In subsection (j)(3), the words "other parties" are substituted for "involved rail freight carriers" to eliminate unnecessary words. The words "conditions and" are omitted as surplus.
 
-In subsection (k)(1), before clause (A), the words "take all steps necessary to" are omitted as surplus. Inclause (A), the words "all", "implementation of", and "under this subchapter" are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
+In subsection (k)(1), before clause (A), the words "take all steps necessary to" are omitted as surplus. In clause (A), the words "all", "implementation of", and "under this subchapter" are omitted as surplus. Clause (B) is substituted for 45:854(c)(2) to eliminate surplus and obsolete words.
 
 #### References in Text
 
@@ -278,41 +278,5 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Northeast Corridor State-of-Good-Repair Plan
 
-Pub. L. 110–432, div. B, title II, §211, Oct. 16, 2008, 122 Stat. 4920, provided that:
-
-"(a)
-
-In General.—Within 6 months after the date of enactment of this Act \[Oct. 16, 2008\], Amtrak, in consultation with the Secretary \[of Transportation\] and the States (including the District of Columbia) that make up the Northeast Corridor (as defined in section 24102 of title 49, United States Code), shall prepare a capital spending plan for capital projects required to return the railroad right-of-way (including track, signals, and auxiliary structures), facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018, consistent with the funding levels authorized in this division \[see Short Title of 2008 Amendment note set out under section 20101 of this title\], and shall submit the plan to the Secretary.
-
-"(b)
-
-Review and Approval by the Secretary.—
-
-&emsp;"(1) 60-
-
-day approval process.—The Secretary shall complete the review of the capital spending plan and approve or disapprove the plan within 60 days after the date on which Amtrak submits the plan. During review, the Secretary may seek comments from the Commission established under section 24905 of title 49, United States Code, and other Northeast Corridor users regarding the plan. If the Secretary disapproves the plan or determines that the plan is incomplete or deficient, the Secretary shall include the reason for disapproval or the incomplete items or deficiencies in a notice to Amtrak.
-
-&emsp;"(2) 15-
-
-day modification period.—Within 15 days after receiving notification from the Secretary under paragraph (1), Amtrak shall submit a modified plan for the Secretary's review.
-
-&emsp;"(3)
-
-Revised requests.—Within 15 days after receiving a modified plan from Amtrak, the Secretary shall either approve the modified plan, or, if the Secretary finds that the plan is still incomplete or deficient, the Secretary shall identify in writing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the remaining deficiencies and recommend a process for resolving the outstanding portions of the plan.
-
-"(c)
-
-Plan Updates.—The plan shall be updated at least annually and the Secretary shall review and approve such updates, in accordance with the procedures described in subsection (b).
-
-"(d)
-
-Grants.—The Secretary shall make grants to Amtrak with funds authorized by section 101(c) \[122 Stat. 4908\] for Northeast Corridor capital investments contained within the capital spending plan prepared by Amtrak and approved by the Secretary.
-
-"(e)
-
-Oversight.—Using the funds authorized by section 101(d) \[122 Stat. 4908\], the Secretary shall review Amtrak's capital expenditures funded by this section to ensure that such expenditures are consistent with the capital spending plan and that Amtrak is providing adequate project management oversight and fiscal controls.
-
-"(f)
-
-Eligibility of Expenditures.—The Federal share of expenditures for capital improvements under this section may not exceed 100 percent."
+Pub. L. 110–432, div. B, title II, §211, Oct. 16, 2008, 122 Stat. 4920, within 6 months after Oct. 16, 2008, required Amtrak to prepare capital spending plan to return the railroad right-of-way, facilities, stations, and equipment, of the Northeast Corridor main line to a state-of-good-repair by the end of fiscal year 2018 and required review and approval of the plan by the Secretary of Transportation, prior to repeal by Pub. L. 114–94, div. A, title XI, §11306(b)(3), Dec. 4, 2015, 129 Stat. 1660.
 

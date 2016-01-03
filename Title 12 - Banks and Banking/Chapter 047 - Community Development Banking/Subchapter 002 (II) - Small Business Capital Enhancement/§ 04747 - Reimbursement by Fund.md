@@ -10,7 +10,7 @@ The Fund shall not provide any reimbursement to a participating State with respe
 
 #### (c) Three-year maximum
 
-The amount of reimbursement to be provided by the Fund to a participating State over any 3-year period in connection with loans made to any single borrower or any group of borrowers among which a common enterprise exists shall not exceed $75,000. For purposes of this subsection, "common enterprise" shall have the same meaning as in part 32 of title 12 of the Code of Federal Regulations, or any successor to that part.
+The amount of reimbursement to be provided by the Fund to a participating State over any 3-year period in connection with loans made to any single borrower or any group of borrowersamong which a common enterprise exists shall not exceed $75,000. For purposes of this subsection, "common enterprise" shall have the same meaning as in part 32 of title 12 of the Code of Federal Regulations, or any successor to that part.
 
 #### (d) Loans totaling less than $2,000,000
 
@@ -32,9 +32,9 @@ In connection with a loan in which the sum of the covered amounts of all previou
 
 In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
 
-&emsp;(1) by applying subsection (d) of this section to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
+&emsp;(1) by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
 
-&emsp;(2) by applying subsection (e) of this section to the balance of the loan.
+&emsp;(2) by applying subsection (e) to the balance of the loan.
 
 (Pub. L. 103–325, title II, §257, Sept. 23, 1994, 108 Stat. 2212.)
 

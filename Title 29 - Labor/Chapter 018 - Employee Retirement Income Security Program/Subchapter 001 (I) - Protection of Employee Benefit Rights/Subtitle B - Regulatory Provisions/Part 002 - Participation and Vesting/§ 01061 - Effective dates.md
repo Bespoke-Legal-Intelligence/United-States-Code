@@ -6,7 +6,7 @@
 
 (2) Except as otherwise provided in subsections (c) and (d) of this section in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
-(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of asupplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
+(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
 
 &emsp;(A) the date on which the last of such agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after September 2, 1974), or
 
@@ -38,7 +38,7 @@
 
 > Subparagraph (B) shall not apply if the break in service rules under the plan would have been in violation of any law or rule of law in effect on January 1, 1974.
 
-(f) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
+(f) The preceding provisions of this section shall not apply with respect to amendmentsmade to this part in provisions enacted after September 2, 1974.
 
 (Pub. L. 93–406, title I, §211, Sept. 2, 1974, 88 Stat. 867; Pub. L. 99–272, title XI, §11015(a)(1)(B), Apr. 7, 1986, 100 Stat. 265; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(h)(2), Dec. 19, 1989, 103 Stat. 2445, 2451.)
 

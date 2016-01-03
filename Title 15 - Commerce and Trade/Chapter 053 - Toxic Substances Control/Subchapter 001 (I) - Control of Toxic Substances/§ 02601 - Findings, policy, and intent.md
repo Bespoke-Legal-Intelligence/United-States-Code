@@ -44,7 +44,7 @@ Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided t
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–519, §1, Oct. 22, 1986, 100 Stat. 2970, provided that: "This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the 'Asbestos Hazard Emergency Response Act of 1986'."
+Pub. L. 99–519, §1, Oct. 22, 1986, 100 Stat. 2970, provided that: "This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amendingsections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the 'Asbestos Hazard Emergency Response Act of 1986'."
 
 #### Short Title
 

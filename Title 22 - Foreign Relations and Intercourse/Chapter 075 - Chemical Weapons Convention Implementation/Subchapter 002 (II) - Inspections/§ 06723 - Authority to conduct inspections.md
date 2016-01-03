@@ -44,7 +44,7 @@ The requirement under subsection (b)(2)(A) shall not apply to inspections of Uni
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 inserted "(and, in the case of an inspection of a United States Government facility, the designation of contractor personnelwho shall be led by an employee of the Federal Government)" after "designation of employees of the Federal Government" in introductory provisions.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107 inserted "(and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government)" after "designation of employees of the Federal Government" in introductory provisions.
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–280 added subsec. (c).
 
@@ -58,5 +58,5 @@ Reimbursement.—During the 2-year period beginning on the date of the enactment
 
 "(b)
 
-Report.—Not later than 180 days prior to the expiration of the 2-year period described in subsection (a), the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6723(b)(2)(A)\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a)."
+Report.—Not later than 180 days prior to the expiration of the 2-year period described in subsection (a), the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical WeaponsConvention Implementation Act of 1998 \[22 U.S.C. 6723(b)(2)(A)\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a)."
 

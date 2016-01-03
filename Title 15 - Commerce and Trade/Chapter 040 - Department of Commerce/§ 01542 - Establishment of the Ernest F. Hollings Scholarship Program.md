@@ -32,7 +32,7 @@ Each Ernest F. Hollings Scholarship—
 
 In order to be eligible to participate in the program, an individual must—
 
-&emsp;(1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in section 1001(a) of title 20) in an academic field or discipline described in subsection (c) of this section;
+&emsp;(1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in section 1001(a) of title 20) in an academic field or discipline described in subsection (c);
 
 &emsp;(2) be a United States citizen;
 
@@ -46,7 +46,7 @@ The amount of each Ernest F. Hollings Scholarship shall be provided directly to 
 
 #### (f) Funding
 
-Of the total amount appropriated for fiscal year 2005 and annually hereafter to the NationalOceanic and Atmospheric Administration, the Administrator shall make available for the Ernest F. Hollings Scholarship program one-tenth of 1 percent of such appropriations.
+Of the total amount appropriated for fiscal year 2005 and annually hereafter to the National Oceanic and Atmospheric Administration, the Administrator shall make available for the Ernest F. Hollings Scholarship program one-tenth of 1 percent of such appropriations.
 
 #### (g) Scholarship repayment requirement
 

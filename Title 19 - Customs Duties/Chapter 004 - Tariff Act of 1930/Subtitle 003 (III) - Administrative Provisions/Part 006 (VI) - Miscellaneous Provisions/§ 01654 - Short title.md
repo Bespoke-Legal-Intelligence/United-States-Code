@@ -4,6 +4,10 @@ This chapter may be cited as the "Tariff Act of 1930."
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–27, title V, §501, June 29, 2015, 129 Stat. 383, provided that: "This title \[amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under section 3438 of this title\] may be cited as the 'American Trade Enforcement Effectiveness Act'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–93, §1, Feb. 10, 2012, 126 Stat. 8, provided that: "This Act \[amending section 1590 of this title and enacting provisions set out as a note under section 1590 of this title\] may cited as the 'Ultralight Aircraft Smuggling Prevention Act of 2012'."
@@ -36,7 +40,7 @@ Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 15
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: "This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation,sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1999'."
+Pub. L. 106–36, §1(a), June 25, 1999, 113 Stat. 127, provided that: "This Act \[enacting section 1484b of this title, amending sections 58c, 81c, 81i, 1304, 1313, 1411, 1441, 1505, 1514, 1515, 1520, 1555, 1557, 1558, 1584, 1592, 1631, 1675, 2171, 2194, 2293, 2436, 2463, 2492, 2494, and 2495 of this title, sections 620 and 620c of Title 16, Conservation, sections 262n–2, 286gg, 1978, and 5712 of Title 22, Foreign Relations and Intercourse, sections 351, 357, 358, 362, 368, 584, and 1031 of Title 26, Internal Revenue Code, section 891e of Title 33, Navigation and Navigable Waters, sections 2296b, 2296b–6, and 6374 of Title 42, The Public Health and Welfare, and section 50103 of Title 49, Transportation, repealing sections 1708 and 2441 of this title, and enacting provisions set out as notes under sections 58c, 1304, 1313, 1484b, 1514, and 2434 of this title and section 351 of Title 26\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1999'."
 
 #### Short Title of 1998 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 105–258, §1, Oct. 14, 1998, 112 Stat. 1902, provided that: "This Act 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: "This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592, 1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414, 2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1996'."
+Pub. L. 104–295, §1(a), Oct. 11, 1996, 110 Stat. 3514, provided that: "This Act \[amending sections 58c, 81c, 293, 294, 1304, 1313, 1321, 1337, 1401, 1413, 1431, 1436, 1441, 1484, 1490, 1491, 1504, 1505, 1508, 1509, 1514, 1515, 1516a, 1555, 1592, 1592a, 1625, 1631, 1641, 1671a, 1671b, 1671d, 1673a, 1673d, 1673f, 1675b, 1677, 1677–1, 1677n, 2171, 2192, 2252, 2411, 2414,2416, 2462, 2514, 2515, 2518, 2532, 2541, 2543 to 2547, 2552, 2553, 2561, 2571, 2573, 2578a, 2707, 2905, 3007, 3010, 3332, 3358, 3381, 3432, 3437, 3451, 3552, 3571, 3572, 3591, 3592, and 3602 of this title, section 1854 of Title 7, Agriculture, section 104A of Title 17, Copyrights, and section 154 of Title 35, Patents, repealing sections 1707 and 2440 of this title, enacting provisions set out as notes under sections 58c, 81c, 1304, 1321, 1505, and 2462 of this title, and amending provisions set out as notes under sections 1466, 1553, and 2465 of this title\] may be cited as the 'Miscellaneous Trade and Technical Corrections Act of 1996'."
 
 #### Short Title of 1986 Amendment
 
@@ -90,7 +94,7 @@ Act June 21, 1955, ch. 169, §1, 69 Stat. 162, provided: "That this Act \[amendi
 
 #### Short Title of 1954 Amendment
 
-Act Sept. 1, 1954, ch. 1213, §1, 68 Stat. 1136, provided: "That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 ofTitle 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the 'Customs Simplification Act of 1954'."
+Act Sept. 1, 1954, ch. 1213, §1, 68 Stat. 1136, provided: "That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the 'Customs Simplification Act of 1954'."
 
 #### Short Title of 1953 Amendments
 

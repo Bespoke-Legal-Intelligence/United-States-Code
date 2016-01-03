@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care;
 
-&emsp;&emsp;(B) personal counseling to assist individuals in assessing their existing or anticipated long-term care needs, and developing and implementing a plan for long-term care designed to meet their specific needs and circumstances; and
+&emsp;&emsp;(B) personal counseling to assist individuals in assessing their existing or anticipated long-term care needs, and developingand implementing a plan for long-term care designed to meet their specific needs and circumstances; and
 
 &emsp;&emsp;(C) consumers access to the range of publicly-supported long-term care programs for which consumers may be eligible, by serving as a convenient point of entry for such programs.
 
@@ -288,7 +288,7 @@ For the purposes of this chapter—
 
 &emsp;(44) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-&emsp;(45) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX of thischapter such term means the Secretary of Labor.
+&emsp;(45) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
 
 &emsp;(46) The term "self-directed care" means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
@@ -430,7 +430,7 @@ Par. (12). Pub. L. 100–628, §705(1)(B), redesignated par. (8) defining "Trust
 
 <b>1987</b>—Par. (1). Pub. L. 100–175, §182(a), substituted "except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor" for "other than for purposes of subchapter IX of this chapter".
 
-Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted "means any of the several States," for "includes" and"the Commonwealth of Puerto Rico" for "Puerto Rico".
+Par. (3). Pub. L. 100–175, §182(b)(1)(A), substituted "means any of the several States," for "includes" and "the Commonwealth of Puerto Rico" for "Puerto Rico".
 
 Par. (8). Pub. L. 100–175, §182(b)(1)(B), added par. (8) defining "Trust Territory of the Pacific Islands".
 

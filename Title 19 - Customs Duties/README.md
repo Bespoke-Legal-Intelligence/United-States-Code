@@ -30,6 +30,7 @@
 | [<b>24.</b>](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md) | <b>Bipartisan Trade Promotion Authority</b> | <b>3801</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md) | <b>Clean Diamond Trade</b> | <b>3901</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md) | <b>Dominican Republic-Central America Free Trade</b> | <b>4001</b> |
+| [<b>27.</b>](Chapter%20027%20-%20Bipartisan%20Congressional%20Trade%20Priorities%20and%20Accountability/README.md) | <b>Bipartisan Congressional Trade Priorities and Accountability</b> | <b>4201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,3 +66,4 @@
 - [Chapter 024 - Bipartisan Trade Promotion Authority](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md)
 - [Chapter 025 - Clean Diamond Trade](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md)
 - [Chapter 026 - Dominican Republic-Central America Free Trade](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md)
+- [Chapter 027 - Bipartisan Congressional Trade Priorities and Accountability](Chapter%20027%20-%20Bipartisan%20Congressional%20Trade%20Priorities%20and%20Accountability/README.md)

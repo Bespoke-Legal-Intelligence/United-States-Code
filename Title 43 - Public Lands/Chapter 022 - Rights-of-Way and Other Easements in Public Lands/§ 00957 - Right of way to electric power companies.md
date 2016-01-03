@@ -10,7 +10,7 @@ The Secretary of the Interior is authorized and empowered, under general regulat
 
 #### Codification
 
-The words "national forests" substituted in text for "forest reservations" pursuant to act Mar. 4, 1907, which changed the designation of forest reserves to national forests.
+The words "national forests" substituted in text for "forest reservations" pursuant to act Mar. 4, 1907,which changed the designation of forest reserves to national forests.
 
 #### Savings Provision
 

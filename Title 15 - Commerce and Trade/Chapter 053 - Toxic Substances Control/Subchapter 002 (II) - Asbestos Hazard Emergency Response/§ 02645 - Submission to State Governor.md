@@ -34,7 +34,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (1) Request for deferral
 
-&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline under subsection (a) of this section. Upon approval of such a request, the deadline under subsection (a) of this section is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
+&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline under subsection (a). Upon approval of such a request, the deadline under subsection (a) is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
 
 &emsp;&emsp;(A) A statement—
 
@@ -44,7 +44,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;(B) A statement, the accuracy of which is sworn to by a responsible official of the agency (by notarization or other means of certification), that includes the following with respect to each school for which a deferral is sought in the request:
 
-&emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a) of this section, the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
+&emsp;&emsp;&emsp;(i) A statement that, in spite of the fact that the local educational agency has made a good faith effort to meet the deadline for submission of a management plan under subsection (a), the agency will not be able to meet the deadline. The statement shall include a brief explanation of the reasons why the deadline cannot be met.
 
 &emsp;&emsp;&emsp;(ii) A statement giving assurance that the local educational agency has made available for inspection by the public, at each school for which a deferral is sought in the request, at least one of the following documents:
 
@@ -56,7 +56,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;&emsp;&emsp;(IV) Documentation showing that an inspection or management plan has been completed in at least one other school under the local educational agency's authority.
 
-&emsp;&emsp;&emsp;(iii) A statement giving assurance that the local educational agency has carriedout the notification and, in the case of a public school, public meeting required by paragraph (2).
+&emsp;&emsp;&emsp;(iii) A statement giving assurance that the local educational agency has carried out the notification and, in the case of a public school, public meeting required by paragraph (2).
 
 &emsp;&emsp;&emsp;(iv) A proposed schedule outlining all significant activities leading up to submission of a management plan by May 9, 1989, including inspection of the school (if not completed at the time of the request) with a deadline of no later than December 22, 1988, for entering into a signed contract with an accredited asbestos contractor for inspection (unless such inspections are to be performed by school personnel), laboratory analysis of material from the school suspected of containing asbestos, and development of the management plan.
 
@@ -74,7 +74,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (4) Submission and review of plan
 
-&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May 9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c) of this section, except that the Governor may extend the 30-day period for revision of the plan under subsection (c)(2) of this section for only an additional 30 days (for a total of 60 days).
+&emsp;A local educational agency whose deferral request is approved shall submit a management plan to the Governor not later than May 9, 1989. Such management plan shall include a copy of the deferral request and the statement accompanying such request. Such management plan shall be reviewed in accordance with subsection (c), except that the Governor may extend the 30-day period for revision of the plan under subsection (c)(2) for only an additional 30 days (for a total of 60 days).
 
 #### (5) Implementation of plan
 
@@ -86,7 +86,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;&emsp;(i) A notice describing the opportunity to file a request for deferral under this subsection.
 
-&emsp;&emsp;(ii) A list of the State offices (including officials (if available) in each State as designated under subsection (b) of this section) with which deferral requests should be filed.
+&emsp;&emsp;(ii) A list of the State offices (including officials (if available) in each State as designated under subsection (b)) with which deferral requests should be filed.
 
 &emsp;(B) As soon as practicable, but in no event later than 30 days, after July 18, 1988, the Administrator shall mail a notice describing the opportunity to file a request for deferral under this subsection to each local educational agency and to each State office in the list published under subparagraph (A).
 

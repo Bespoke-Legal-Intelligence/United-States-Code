@@ -48,7 +48,7 @@ Authority To Increase for Fiscal Year 1988.—Subject to subsection (b), the Sec
 
 Certification and Report.—The Secretary may exercise the authority under subsection (a) only if—
 
-&emsp;"(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, AirForce, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and
+&emsp;"(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, Air Force, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and
 
 &emsp;"(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables for classification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces."
 
@@ -86,7 +86,7 @@ Exclusions.—In computing the authorized strength of commissioned officers unde
 
 &emsp;"(2) Retired officers on active duty under a call or order to active duty for 180 days or less.
 
-&emsp;"(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+&emsp;"(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) \[now 50 U.S.C. 3809(b)(2)\] for the administration of the Selective Service System.
 
 "(c)
 

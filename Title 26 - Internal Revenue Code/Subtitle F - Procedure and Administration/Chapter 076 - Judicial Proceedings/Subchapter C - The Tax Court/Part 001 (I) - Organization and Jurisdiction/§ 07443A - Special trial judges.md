@@ -74,7 +74,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 Amendment by section 3103 of Pub. L. 105–206 applicable to proceedings commenced after July 22, 1998, see section 3103(c) of Pub. L. 105–206, set out as a note under section 7436 of this title.
 
-Amendment by section 3401 of Pub. L. 105–206 applicable to collection actions initiated after the date which is 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as an Effective Date note under section 6320 of this title.
+Amendment by section 3401 of Pub. L. 105–206 applicable to collection actions initiated after the date whichis 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as an Effective Date note under section 6320 of this title.
 
 #### Effective Date
 

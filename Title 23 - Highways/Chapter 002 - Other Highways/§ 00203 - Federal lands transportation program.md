@@ -28,11 +28,11 @@ In general.—Funds made available under the Federal lands transportation progra
 
 &emsp;&emsp;&emsp;(vii) other appropriate public road facilities, as determined by the Secretary;
 
-&emsp;&emsp;(B) operation and maintenance of transit facilities;
+&emsp;&emsp;(B) capital, operations, and maintenance of transit facilities;
 
 &emsp;&emsp;(C) any transportation project eligible for assistance under this title that is on a public road within or adjacent to, or that provides access to, Federal lands open to the public; and
 
-&emsp;&emsp;(D) not more $10,000,000 of the amounts made available per fiscal year to carry outthis section for activities eligible under subparagraph (A)(iv).
+&emsp;&emsp;(D) not more $10,000,000 of the amounts made available per fiscal year to carry out this section for activities eligible under subparagraph (A)(iv)(I).
 
 &emsp;(2)
 
@@ -88,9 +88,13 @@ In general.—On October 1, 2011, and on October 1 of each fiscal year thereafte
 
 &emsp;&emsp;&emsp;(iii) the United States Fish and Wildlife Service;
 
-&emsp;&emsp;&emsp;(iv) the Corps of Engineers; and
+&emsp;&emsp;&emsp;(iv) the Corps of Engineers;
 
-&emsp;&emsp;&emsp;(v) the Bureau of Land Management.
+&emsp;&emsp;&emsp;(v) the Bureau of Land Management;
+
+&emsp;&emsp;&emsp;(vi) the Bureau of Reclamation; and
+
+&emsp;&emsp;&emsp;(vii) independent Federal agencies with natural resource and land management responsibilities.
 
 &emsp;(2)
 
@@ -102,13 +106,13 @@ Requirements.—Each application submitted by a Federal land management agency s
 
 &emsp;&emsp;(B)
 
-Consideration by secretary.—In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support—
+Consideration by secretary.—In evaluating an application submitted under subparagraph (A), the Secretary shall consider the extent to which the programs support performance management, including—
 
 &emsp;&emsp;&emsp;(i) the transportation goals of—
 
 &emsp;&emsp;&emsp;&emsp;(I) a state of good repair of transportation facilities;
 
-&emsp;&emsp;&emsp;&emsp;(II) a reduction of bridge deficiencies,<sup>1</sup> and
+&emsp;&emsp;&emsp;&emsp;(II) a reduction of bridge deficiencies; and
 
 &emsp;&emsp;&emsp;&emsp;(III) an improvement of safety;
 
@@ -146,13 +150,15 @@ Transportation facilities included in the inventories.—To identify the Federal
 
 &emsp;&emsp;&emsp;(v) The Corps of Engineers.
 
+&emsp;&emsp;&emsp;(vi) The Bureau of Reclamation.
+
 &emsp;(3)
 
 Availability.—The inventories shall be made available to the Secretary.
 
 &emsp;(4)
 
-Updates.—The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriate Federal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
+Updates.—The Secretaries of the appropriate Federal land management agencies shall update the inventories of the appropriateFederal land management agencies, as determined by the Secretary after collaborative discussions with the Secretaries of the appropriate Federal land management agencies.
 
 &emsp;(5)
 
@@ -160,9 +166,9 @@ Review.—A decision to add or remove a facility from the inventory shall not be
 
 (d)
 
-Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that thebicycle level of service on that roadway is rated B or higher.
+Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 
-(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 486.)
+(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 486; amended Pub. L. 114–94, div. A, title I, §1119, Dec. 4, 2015, 129 Stat. 1358.)
 
 #### References in Text
 
@@ -172,9 +178,25 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(5), is
 
 A prior section 203, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 86–657, §8(b), July 14, 1960, 74 Stat. 524; Pub. L. 87–866, §7, Oct. 23, 1962, 76 Stat. 1147; Pub. L. 94–280, title I, §117(b), May 5, 1976, 90 Stat. 437; Pub. L. 97–424, title I, §126(f), Jan. 6, 1983, 96 Stat. 2116; Pub. L. 102–240, title I, §1032(f), Dec. 18, 1991, 105 Stat. 1975; Pub. L. 105–178, title I, §1115(c), (e)(3), June 9, 1998, 112 Stat. 156, 158, related to availability of funds, prior to repeal by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(B). Pub. L. 114–94, §1119(1)(A), substituted "capital, operations," for "operation".
+
+Subsec. (a)(1)(D). Pub. L. 114–94, §1119(1)(B), substituted "subparagraph (A)(iv)(I)" for "subparagraph (A)(iv)".
+
+Subsec. (b)(1)(B)(vi), (vii). Pub. L. 114–94, §1119(2)(A), added cls. (vi) and (vii).
+
+Subsec. (b)(2)(B). Pub. L. 114–94, §1119(2)(B)(i), inserted "performance management, including" after "support" in introductory provisions.
+
+Subsec. (b)(2)(B)(i)(II). Pub. L. 114–94, §1119(2)(B)(ii), substituted "; and" for ", and".
+
+Subsec. (c)(2)(B)(vi). Pub. L. 114–94, §1119(3), added cl. (vi).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

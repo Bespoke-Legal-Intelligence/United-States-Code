@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(A) in the case of a student who elects to participate in a high-needs speciality residency (as determined by the National Health Care Workforce Commission), by 3 months for each year of such participation (not to exceed a total of 12 months); and
 
-&emsp;&emsp;(B) in the case of a student who, upon completion of their residency, elects to practice in a Federal medical facility (as defined in section 781(e)) <sup>1</sup> that is located in a health professional shortage area (as defined in section 254e of this title), by 3 months for year <sup>2</sup>of full-time practice in such a facility (not to exceed a total of 12 months).
+&emsp;&emsp;(B) in the case of a student who, upon completion of their residency, elects to practice in a Federal medical facility (as defined in section 781(e)) <sup>1</sup> that is located in a health professional shortage area (as defined in section 254e of this title), by 3 months for year <sup>2</sup> of full-time practice in such a facility (not to exceed a total of 12 months).
 
 #### (c) Second 2 years of service
 

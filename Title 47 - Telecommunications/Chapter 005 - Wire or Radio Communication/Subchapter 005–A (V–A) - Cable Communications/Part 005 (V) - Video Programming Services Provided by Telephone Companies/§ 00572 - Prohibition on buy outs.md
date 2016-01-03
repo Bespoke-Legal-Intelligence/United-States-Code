@@ -16,7 +16,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (1) Rural systems
 
-&emsp;Notwithstanding subsections (a), (b), and (c) of this section, a local exchange carrier (with respect to a cable system located in its telephone service area) and a cable operator (with respect to the facilities of a local exchange carrier used to provide telephone exchange service in its cable franchise area) may obtain a controlling interest in, management interest in, or enter into a joint venture or partnership with the operator of such system or facilities for the use of such system or facilities to the extent that—
+&emsp;Notwithstanding subsections (a), (b), and (c) of this section, a local exchange carrier (with respect to a cable system located in its telephone service area) and a cable operator (with respect to the facilities of a local exchange carrier used to provide telephone exchange service in its cable franchise area) may obtain a controlling interest in, management interestin, or enter into a joint venture or partnership with the operator of such system or facilities for the use of such system or facilities to the extent that—
 
 &emsp;&emsp;(A) such system or facilities only serve incorporated or unincorporated—
 

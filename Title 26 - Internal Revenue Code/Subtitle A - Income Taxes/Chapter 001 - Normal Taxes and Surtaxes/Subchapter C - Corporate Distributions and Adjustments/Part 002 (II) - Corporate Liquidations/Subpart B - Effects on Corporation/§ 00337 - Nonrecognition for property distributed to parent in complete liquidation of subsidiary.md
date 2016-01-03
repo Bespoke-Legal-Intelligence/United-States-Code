@@ -14,7 +14,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 &emsp;&emsp;(B) on the date of the adoption of the plan of liquidation, such corporation was indebted to the 80-percent distributee,
 
-> &emsp;for purposes of this section and section 336, any transfer of property to the 80-percent distributee in satisfaction of such indebtedness shall be treated as a distribution to such distributee in such liquidation.
+> &emsp;for purposes of this section and section 336, any transfer of property to the 80-percent distributee in satisfaction of such indebtednessshall be treated as a distribution to such distributee in such liquidation.
 
 #### (2) Treatment of tax-exempt distributee
 

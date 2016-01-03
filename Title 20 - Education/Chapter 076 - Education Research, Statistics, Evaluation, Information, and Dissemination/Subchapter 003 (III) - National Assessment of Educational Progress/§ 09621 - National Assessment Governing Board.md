@@ -178,7 +178,7 @@ A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is class
 
 <b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
-Subsec. (a). Pub. L. 107–279, §401(c)(1), substituted "referred to as the 'Assessment Board' " for "referred to as the 'Board' " and inserted "(carried out under section 9622 of this title)" after "for the National Assessment".
+Subsec. (a). Pub. L. 107–279, §401(c)(1), substituted "referred to as the 'Assessment Board' " for "referredto as the 'Board' " and inserted "(carried out under section 9622 of this title)" after "for the National Assessment".
 
 Subsec. (b)(1). Pub. L. 107–279, §401(c)(2), substituted "Assessment Board" for "Board" in introductory provisions.
 

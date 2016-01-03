@@ -4,9 +4,9 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) "Board" means a Regional Small Business Regulatory Fairness Board established under subsection (c) of this section; and
+&emsp;(1) "Board" means a Regional Small Business Regulatory Fairness Board established under subsection (c); and
 
-&emsp;(2) "Ombudsman" means the Small Business and Agriculture Regulatory Enforcement Ombudsman designated under subsection (b) of this section.
+&emsp;(2) "Ombudsman" means the Small Business and Agriculture Regulatory Enforcement Ombudsman designated under subsection (b).
 
 #### (b) SBA Enforcement Ombudsman
 
@@ -16,7 +16,7 @@ For purposes of this section, the term—
 
 &emsp;(A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcement related communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
 
-&emsp;(B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
+&emsp;(B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidentialbasis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
 
 &emsp;(C) based on substantiated comments received from small business concerns and the Boards, annually report to Congress and affected agencies evaluating the enforcement activities of agency personnel including a rating of the responsiveness to small business of the various regional and program offices of each agency;
 
@@ -34,7 +34,7 @@ For purposes of this section, the term—
 
 &emsp;(B) report to the Ombudsman on substantiated instances of excessive enforcement actions of agencies against small business concerns including any findings or recommendations of the Board as to agency enforcement policy or practice; and
 
-&emsp;(C) prior to publication, provide comment on the annual report of the Ombudsman prepared under subsection (b) of this section.
+&emsp;(C) prior to publication, provide comment on the annual report of the Ombudsman prepared under subsection (b).
 
 (3) Each Board shall consist of five members, who are owners, operators, or officers of small business concerns, appointed by the Administrator, after receiving the recommendations of the chair and ranking minority member of the Committees on Small Business of the House of Representatives and the Senate. Not more than three of the Board members shall be of the same political party. No member shall be an officer or employee of the Federal Government, in either the executive branch or the Congress.
 

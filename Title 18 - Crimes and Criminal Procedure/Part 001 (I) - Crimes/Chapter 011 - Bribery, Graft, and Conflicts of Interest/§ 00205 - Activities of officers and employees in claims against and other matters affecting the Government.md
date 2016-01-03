@@ -98,7 +98,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Authority of President under subsec. (e) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
-Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, orsimilar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
+Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
 #### Exemptions
 

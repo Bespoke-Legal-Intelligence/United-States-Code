@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) "Commissioner" means the Commissioner of the Rehabilitation Services Administration;
 
-&emsp;(3) "Federal property" means any building, land, or other real property owned, leased, or occupied by any department, agency, or instrumentality of the United States (including the Department of Defense and the United States Postal Service), or any other instrumentality wholly owned by the United States, or by any department or agency of the District of Columbia or any territory or possession of the United States;
+&emsp;(3) "Federal property" means any building, land, or other real property owned, leased, or occupied by any department, agency, or instrumentality of the United States (includingthe Department of Defense and the United States Postal Service), or any other instrumentality wholly owned by the United States, or by any department or agency of the District of Columbia or any territory or possession of the United States;
 
 &emsp;(4) "Secretary" means the Secretary of Education;
 

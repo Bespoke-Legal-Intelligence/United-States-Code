@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary may waive such provisions of this chapterand the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) as are necessary to carry out this subsection.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may waive such provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) as are necessary to carry out this subsection.
 
 #### (B) Provisions
 

@@ -62,7 +62,7 @@ The alternative procedures adopted under this section shall include the followin
 
 &emsp;&emsp;(E) providing incentives to a State or tribal or local government to have a debris management plan approved by the Administrator and have pre-qualified 1 or more debris and wreckage removal contractors before the date of declaration of the major disaster; and
 
-&emsp;&emsp;(F) if the actual costs of projects under subparagraph (A) are less than the estimated costs of the project, the Administrator may permit a grantee or subgrantee to use all or part of the excess funds for—
+&emsp;&emsp;(F) if the actual costs of projects under subparagraph (A) are less than the estimatedcosts of the project, the Administrator may permit a grantee or subgrantee to use all or part of the excess funds for—
 
 &emsp;&emsp;&emsp;(i) debris management planning;
 

@@ -18,7 +18,7 @@ Treatment of flight attendant after notification.—On the date that the Adminis
 
 (b)
 
-Issuance of Certificate.—The Administrator shall issue a certificate of demonstrated proficiency under this section to an individual after the Administrator is notified by the air carrier that the individual has successfully completed all the training requirements for flight attendants approved by the Administrator.
+Issuance of Certificate.—The Administrator shall issue a certificate of demonstrated proficiency under this section to an individual after the Administrator is notified by the aircarrier that the individual has successfully completed all the training requirements for flight attendants approved by the Administrator.
 
 (c)
 

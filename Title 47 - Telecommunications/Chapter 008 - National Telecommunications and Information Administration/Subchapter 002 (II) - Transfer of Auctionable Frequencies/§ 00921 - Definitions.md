@@ -14,6 +14,64 @@ As used in this subchapter:
 
 The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
+#### Identification, Reallocation, and Auction of Federal Spectrum
+
+Pub. L. 114–74, title X, §§1002–1004, Nov. 2, 2015, 129 Stat. 621, provided that:
+
+#### "SEC. 1002. DEFINITIONS.
+
+"In this title \[see Short Title of 2015 Amendment note set out under section 901 of this title\]:
+
+&emsp;"(1)
+
+Assistant secretary.—The term 'Assistant Secretary' means the Assistant Secretary of Commerce for Communications and Information.
+
+&emsp;"(2)
+
+Commission.—The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(3)
+
+Federal entity.—The term 'Federal entity' has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(l)).
+
+&emsp;"(4)
+
+Secretary.—The term 'Secretary' means the Secretary of Commerce.
+
+#### "SEC. 1003. RULE OF CONSTRUCTION.
+
+"Each range of frequencies described in this title shall be construed to be inclusive of the upper and lower frequencies in the range.
+
+#### "SEC. 1004. IDENTIFICATION, REALLOCATION, AND AUCTION OF FEDERAL SPECTRUM.
+
+"(a)
+
+Identification of Spectrum.—Not later than January 1, 2022, the Secretary shall submit to the President and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof.
+
+"(b)
+
+Clearing of Spectrum.—The President shall—
+
+&emsp;"(1) not later than January 1, 2022, begin the process of withdrawing or modifying the assignment to a Federal Government station of the electromagnetic spectrum identified under subsection (a); and
+
+&emsp;"(2) not later than 30 days after completing the withdrawal or modification, notify the Commission that the withdrawal or modification is complete.
+
+"(c)
+
+Reallocation and Auction.—
+
+&emsp;"(1)
+
+In general.—The Commission shall—
+
+&emsp;&emsp;"(A) reallocate the electromagnetic spectrum identified under subsection (a) for non-Federal use or shared Federal and non-Federal use, or a combination thereof; and
+
+&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than July 1, 2024, begin a system of competitive bidding under such section to grant new initial licenses for the use of such spectrum, subject to flexible-use service rules.
+
+&emsp;"(2)
+
+Proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 (47 U.S.C. 309(j)(16)(B))."
+
 #### Study and Report on Current and Future Spectrum Use
 
 Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part: "That the Administrator shall, after consultation with other federal departments and agencies responsible for regulating the core operations of entities engaged in the provision of energy, water and railroad services, complete and submit to Congress, not later than twelve months after date of enactment of this subsection, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure: <i>Provided further</i>, That within six months after the release of this study, the Chairman of the Federal Communications Commission shall submit a report to Congress on the actions that could be taken by the Commission to address any needs identified in the Administrator's study."
@@ -56,7 +114,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
 
-\[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
+\[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
 
 #### Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation
 

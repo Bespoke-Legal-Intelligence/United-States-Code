@@ -36,7 +36,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+&emsp;&emsp;&emsp;On motion of the Corporation, the court in which the conviction or the agreementof a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
 
 #### (ii) Period for filing
 
@@ -86,7 +86,7 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), a
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except with the prior written consent of the Corporation—
 
-&emsp;"(1) any person who has been convicted of any criminal offense involving dishonesty or a breach oftrust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
+&emsp;"(1) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
 
 &emsp;"(2) an insured depository institution may not permit such participation."
 

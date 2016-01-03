@@ -10,7 +10,7 @@
 
 (5) The authority of the Secretary under paragraph (1) expires on December 31, 2018.
 
-(b)(1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs Capital Asset Fund (hereinafter in this section referred to as the "Fund"). Amounts in the Fund shall remain available until expended.
+(b)(1) There is established in the Treasury of the United States a revolving fund to be known as the Department of Veterans Affairs CapitalAsset Fund (hereinafter in this section referred to as the "Fund"). Amounts in the Fund shall remain available until expended.
 
 (2) Proceeds from the transfer of real property under this section shall be deposited into the Fund.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) All transfers completed under this section during the preceding fiscal year and completed and scheduled to be completed during the fiscal year during which the budget is submitted.
 
-&emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the currentfiscal year, and the fiscal year covered by the budget.
+&emsp;(3) The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
 (Added Pub. L. 108–422, title IV, §411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, §10(g), Oct. 5, 2011, 125 Stat. 397.)
 

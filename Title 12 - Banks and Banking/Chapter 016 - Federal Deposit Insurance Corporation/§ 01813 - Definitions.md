@@ -148,7 +148,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(ii) the contract evidencing the obligation provides by express terms, and not by implication, for payment at an office of the depository institution located in any State;
 
-&emsp;&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board of Governors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;&emsp;(B) any international banking facility deposit, including an international banking facility time deposit, as such term is from time to time defined by the Board ofGovernors of the Federal Reserve System in regulation D or any successor regulation issued by the Board of Governors of the Federal Reserve System; and
 
 &emsp;&emsp;&emsp;(C) any liability of an insured depository institution that arises under an annuity contract, the income of which is tax deferred under section 72 of title 26.
 
@@ -234,7 +234,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (1) In general
 
-&emsp;&emsp;The term "State bank supervisor" means any officer, agency, or other entity of any State which has primary regulatory authority over State banks or State savings associations in such State.
+&emsp;&emsp;The term "State bank supervisor" means any officer, agency, or other entity of anyState which has primary regulatory authority over State banks or State savings associations in such State.
 
 #### (2) Interstate application
 
@@ -330,7 +330,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 #### (2) In danger of default
 
-&emsp;&emsp;The term "in danger of default" means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
+&emsp;&emsp;The term "in danger of default" means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, ifthe appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
 
 &emsp;&emsp;&emsp;(A) in the opinion of such agency or authority—
 
@@ -362,7 +362,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 &emsp;The term "Federal banking agency" means the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub.L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §§2102(b), 2107(b), Feb. 8, 2006, 120 Stat. 9, 19; Pub. L. 109–173, §§4(a), 8(a)(1), Feb. 15, 2006, 119 Stat. 3606, 3610; Pub. L. 109–351, title VII, §725(d), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(d), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(A), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§312(c), 334(b), 363(1), July 21, 2010, 124 Stat. 1522, 1539, 1550.)
 
 #### References in Text
 
@@ -388,7 +388,7 @@ Subsec. (q)(1) to (4). Pub. L. 111–203, §312(c)(1), added pars. (1) to (3) an
 
 Subsec. (u)(1), (3). Pub. L. 111–203, §312(c)(2), substituted "(other than a bank holding company or savings and loan holding company" for "(other than a bank holding company".
 
-Subsec. (y)(3). Pub. L. 111–203, §334(b), inserted ", or such comparable percentage of the assessment base set forth in section 1817(b)(2)(C) of this title" before the period.
+Subsec. (y)(3). Pub. L. 111–203, §334(b), inserted ", or such comparable percentage of the assessment base setforth in section 1817(b)(2)(C) of this title" before the period.
 
 Subsec. (z). Pub. L. 111–203, §363(1)(C), struck out "the Director of the Office of Thrift Supervision," before "the Board".
 
@@ -442,7 +442,7 @@ Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amen
 
 Subsec. (l)(4). Pub. L. 103–325, §602(a)(1)(B), substituted "a bank's or a" for "bank's or" before "savings association's balance".
 
-Subsec. (l)(5)(A). Pub. L. 103–325, §326(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any obligation of a bank or savingsassociation which is payable only at an office of such bank or savings association located outside of the States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands; and".
+Subsec. (l)(5)(A). Pub. L. 103–325, §326(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any obligation of a bank or savings association which is payable only at an office of such bank or savings association located outside of the States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands; and".
 
 Subsec. (q)(2)(E). Pub. L. 103–325, §602(a)(1)(C), substituted "Financial Institutions Supervisory Act of 1966" for "Depository Institutions Supervisory Act".
 
@@ -464,7 +464,7 @@ Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out
 
 Subsec. (m)(3), (4). Pub. L. 102–242, §141(f), added pars. (3) and (4).
 
-Subsec. (r). Pub. L. 102–242, §112(b), as added by Pub. L. 102–550, §1603(b)(2)(B), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "The terms 'foreign bank' and 'Federal branch' shall be construed consistently with the usage of such terms in the International Banking Act of 1978."
+Subsec. (r). Pub. L. 102–242, §112(b), as added by Pub. L. 102–550, §1603(b)(2)(B), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "Theterms 'foreign bank' and 'Federal branch' shall be construed consistently with the usage of such terms in the International Banking Act of 1978."
 
 Subsec. (s). Pub. L. 102–242, §111(e), amended subsec. (s) generally. Prior to amendment, subsec. (s) read as follows: "The term 'insured branch' means a branch of a foreign bank any deposits in which are insured in accordance with the provisions of this chapter."
 
@@ -544,7 +544,7 @@ Subsec. (t). Pub. L. 97–320, §113(b), added subsec. (t).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–110, §103(a)(1), inserted "the Trust Territory of the Pacific Islands," after "American Samoa," wherever appearing.
 
-Subsec. (l)(5). Pub. L. 97–110, §102, reenacted without change the provisions preceding subpar. (A), redesignated remaining existing provisions as subpar. (A), inserted reference to banks located outside of the Trust Territory of the Pacific Islands in subpar. (A) as thus redesignated, and added subpar. (B).
+Subsec. (l)(5). Pub. L. 97–110, §102, reenacted without change the provisions preceding subpar. (A), redesignated remaining existing provisions as subpar. (A), inserted reference to banks located outside of the TrustTerritory of the Pacific Islands in subpar. (A) as thus redesignated, and added subpar. (B).
 
 Subsec. (m)(1). Pub. L. 97–110, §103(a)(2), inserted "of the Trust Territory of the Pacific Islands," after "American Samoa,".
 

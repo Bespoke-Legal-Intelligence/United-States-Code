@@ -42,7 +42,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(6) any percent increase effected under section 1395r(b) of this title in an individual's monthly premium may not exceed 10 percent and shall only apply to premiums paid during a period equal to twice the number of months in the full 12-month periods described in that section and shall be subject to reduction in accordance with subsection (d)(6) of this section;
 
-&emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8thconsecutive month in which the individual is at no time so enrolled;
+&emsp;(7) an individual who meets the conditions of subsection (a) of this section may enroll under this part during a special enrollment period that includes any month during any part of which the individual is enrolled under section 1395mm of this title with an eligible organization and ending with the last day of the 8th consecutive month in which the individual is at no time so enrolled;
 
 &emsp;(8) in the case of an individual who enrolls during a special enrollment period under paragraph (7)—
 
@@ -92,7 +92,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i)(I) the person was receiving cash benefits under a qualified State or local government retirement system (as defined in subparagraph (C)) on the basis of the person's employment in one or more positions covered under any such system, and (II) the person would have at least 40 quarters of coverage under subchapter II of this chapter if remuneration for medicare qualified government employment (as defined in paragraph (1) of section 410(p) of this title, but determined without regard to paragraph (3) of such section) paid to such person were treated as wages paid to such person and credited for purposes of determining quarters of coverage under section 413 of this title;
 
-&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to anindividual who is described in clause (i), or (II) the person met the requirement of clause (i)(II) and was married (and had been married for the previous 1-year period) to an individual described in clause (i)(I);
+&emsp;(ii)(I) the person was married (and had been married for the previous 1-year period) to an individual who is described in clause (i), or (II) the person met the requirement of clause (i)(II) and was married (and had been married for the previous 1-year period) to an individual described in clause (i)(I);
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
@@ -140,7 +140,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classifi
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions "Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitledto benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title."
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions "Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title."
 
 Subsec. (d)(6)(A). Pub. L. 108–173, §736(a)(7)(A), inserted "of such Code" after "3111(b)".
 
@@ -226,7 +226,7 @@ Pub. L. 99–272, title IX, §9124(b), Apr. 7, 1986, 100 Stat. 168, provided tha
 
 "(1) The amendment made by subsection (a)(3) \[amending this section\] shall apply to premiums paid for months beginning with July 1986.
 
-"(2) In applying that amendment, months (before, during, or after April 1986) in which an individual was required to pay a premium increased under the sectionthat was so amended shall be taken into account in determining the month in which the premium will no longer be subject to an increase under that section as so amended."
+"(2) In applying that amendment, months (before, during, or after April 1986) in which an individual was required to pay a premium increased under the section that was so amended shall be taken into account in determining the month in which the premium will no longer be subject to an increase under that section as so amended."
 
 #### Effective Date of 1984 Amendment
 

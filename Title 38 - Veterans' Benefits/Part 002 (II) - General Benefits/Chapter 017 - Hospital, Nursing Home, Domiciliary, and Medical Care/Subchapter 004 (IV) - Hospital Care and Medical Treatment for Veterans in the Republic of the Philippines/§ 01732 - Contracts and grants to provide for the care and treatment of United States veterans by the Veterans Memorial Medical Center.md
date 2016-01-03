@@ -82,5 +82,5 @@ Pub. L. 99–576, title II, §206(a)(2), Oct. 28, 1986, 100 Stat. 3256, ratified
 
 #### Reports on Use of Funds
 
-Pub. L. 99–576, title II, §206(b), Oct. 28, 1986, 100 Stat. 3256, directed Administrator of Veterans' Affairs, notlater than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
+Pub. L. 99–576, title II, §206(b), Oct. 28, 1986, 100 Stat. 3256, directed Administrator of Veterans' Affairs, not later than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
 

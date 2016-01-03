@@ -14,7 +14,7 @@ In this chapter:
 
 #### (2) Y2K failure
 
-&emsp;The term "Y2K failure" means failure by any device or system (including any computer system and any microchip or integrated circuit embedded in another device or product), or any software, firmware, or other set or collection of processing instructions to process,to calculate, to compare, to sequence, to display, to store, to transmit, or to receive year-2000 date-related data, including failures—
+&emsp;The term "Y2K failure" means failure by any device or system (including any computer system and any microchip or integrated circuit embedded in another device or product), or any software, firmware, or other set or collection of processing instructions to process, to calculate, to compare, to sequence, to display, to store, to transmit, or to receive year-2000 date-related data, including failures—
 
 &emsp;&emsp;(A) to deal with or account for transitions or comparisons from, into, and between the years 1999 and 2000 accurately;
 

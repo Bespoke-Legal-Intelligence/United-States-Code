@@ -22,7 +22,7 @@ Insufficient funding.—
 
 &emsp;&emsp;(A)
 
-Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
+Report.—During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
 
 &emsp;&emsp;&emsp;(i) a plan to address the resource shortfall;
 
@@ -102,7 +102,7 @@ Proposal described.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
+In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to alevel that is lower than the level on December 31, 2011.
 
 &emsp;&emsp;(B)
 
@@ -132,7 +132,7 @@ Notification.—If the President certifies under paragraph (1) that the recommen
 
 Exception.—The notification in paragraph (2) shall not apply to—
 
-&emsp;&emsp;(A) reductions made to ensure the safety, security, reliability, and credibility of the nuclear weapons stockpile and strategic delivery systems, including activities related to surveillance, assessment, certification,testing, and maintenance of nuclear warheads and strategic delivery systems; or
+&emsp;&emsp;(A) reductions made to ensure the safety, security, reliability, and credibility of the nuclear weapons stockpile and strategic delivery systems, including activities related to surveillance, assessment, certification, testing, and maintenance of nuclear warheads and strategic delivery systems; or
 
 &emsp;&emsp;(B) nuclear warheads that are retired or awaiting dismantlement on the date of the certification under paragraph (1).
 
@@ -165,6 +165,56 @@ Subsec. (d). Pub. L. 112–239, §1034, added subsec. (d).
 #### Effective date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: "The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012."
+
+#### Report on Implementation of the New START Treaty
+
+Pub. L. 114–92, div. A, title XII, §1247, Nov. 25, 2015, 129 Stat. 1066, provided that:
+
+"(a)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—During each year described in paragraph (2), the President shall transmit to the appropriate congressional committees a report explaining the reasons that the continued implementation of the New START Treaty is in the national security interests of the United States.
+
+&emsp;"(2)
+
+Year described.—A year described in this paragraph is a year in which the President implements the New START Treaty and determines that any of the following circumstances apply:
+
+&emsp;&emsp;"(A) The Russian Federation illegally occupies Ukrainian territory.
+
+&emsp;&emsp;"(B) The Russian Federation is not respecting the sovereignty of all Ukrainian territory.
+
+&emsp;&emsp;"(C) The Russian Federation is not in full compliance with the INF treaty.
+
+&emsp;&emsp;"(D) The Russian Federation is not in compliance with the CFE Treaty and has not lifted its suspension of Russian observance of its treaty obligations.
+
+&emsp;&emsp;"(E) The Russian Federation is not reducing its deployed strategic delivery vehicles.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+CFE treaty.—The term 'CFE Treaty' means the Treaty on Conventional Armed Forces in Europe, signed at Paris November 19, 1990, and entered into force July 17, 1992.
+
+&emsp;"(3)
+
+INF treaty.—The term 'INF Treaty' means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, commonly referred to as the Intermediate-Range Nuclear Forces (INF) Treaty, signed at Washington December 8, 1987, and entered into force June 1, 1988.
+
+&emsp;"(4)
+
+New start treaty.—The term 'New START Treaty' means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011."
 
 #### Retention of Missile Silos
 

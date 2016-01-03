@@ -26,7 +26,7 @@
 
 #### (1) Supplemental grants
 
-&emsp;After consultation with relevant, informed sources, including individuals with developmental disabilities and their families, the Secretary shall award, under section 15061(b) of this title, supplemental grants to Centers to pay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families. The Secretary shall make the grants on a competitive basis, and for periods of not more than 5 years.
+&emsp;After consultation with relevant, informed sources, including individuals with developmental disabilities and their families, the Secretary shall award, under section 15061(b) of this title, supplemental grants to Centers topay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families. The Secretary shall make the grants on a competitive basis, and for periods of not more than 5 years.
 
 #### (2) Establishment of consultation process by the Secretary
 

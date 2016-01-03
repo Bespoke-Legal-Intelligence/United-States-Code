@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a procurement described in subsection (a), the Secretary may deem thesimplified acquisition threshold referred to in section 134 of title 41 to be—
+&emsp;With respect to a procurement described in subsection (a), the Secretary may deem the simplified acquisition threshold referred to in section 134 of title 41 to be—
 
 &emsp;&emsp;(A) in the case of a contract to be awarded and performed, or purchase to be made, within the United States, $200,000; and
 

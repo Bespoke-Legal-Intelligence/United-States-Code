@@ -68,7 +68,7 @@ Amounts in the Trust shall be available—
 
 #### (8) "Holder" defined
 
-&emsp;As used in this subsection, the term "holder" with respect to any eligible loan means the original lender or, if the loan is subsequently sold, transferred, or assigned to someother person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
+&emsp;As used in this subsection, the term "holder" with respect to any eligible loan means the original lender or, if the loan is subsequently sold, transferred, or assigned to some other person, and such other person acquires a legally enforceable right to receive payments from the borrower, such other person.
 
 #### (c) Use of educational awards to pay current educational expenses
 
@@ -104,7 +104,7 @@ Amounts in the Trust shall be available—
 
 #### (5) Refund rules
 
-&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b). Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
+&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b).Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
 
 #### (6) Maximum award
 

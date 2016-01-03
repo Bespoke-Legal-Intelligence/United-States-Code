@@ -38,7 +38,7 @@ In lieu of the minimum work requirements set forth in subsection (b)(2), the Sec
 
 #### (d) Transition rules for leases issued prior to August 8, 2005
 
-The Secretary shall by regulation establish transition rules for leases issued before August 8, 2005, including terms under which a lease thatis near the end of its term on August 8, 2005, may be extended for up to 2 years—
+The Secretary shall by regulation establish transition rules for leases issued before August 8, 2005, including terms under which a lease that is near the end of its term on August 8, 2005, may be extended for up to 2 years—
 
 &emsp;(1) to allow achievement of production under the lease; or
 
@@ -98,7 +98,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 "(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
-&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to orutilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
+&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to or utilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
 
 &emsp;"(b) substantial investment in the development of or for the benefit of the lease has been made; and
 

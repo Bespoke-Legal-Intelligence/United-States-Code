@@ -50,7 +50,7 @@ This part, referred to in subsec. (d), was in the original "this subtitle", mean
 
 Sections 434 through 436, referred to in subsec. (d), are sections 434 to 436 of Pub. L. 110–140, which enacted sections 17091 and 17092 of this title and amended section 8253 of this title.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

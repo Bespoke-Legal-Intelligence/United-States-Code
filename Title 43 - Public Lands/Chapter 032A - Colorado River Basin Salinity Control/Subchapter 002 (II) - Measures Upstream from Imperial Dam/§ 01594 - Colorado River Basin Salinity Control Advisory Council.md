@@ -1,6 +1,6 @@
 ### §1594. Colorado River Basin Salinity Control Advisory Council
 
-(a) There is created the Colorado River Basin Salinity Control Advisory Council composed of no more than three members from each State appointed by the Governor of each of the Colorado River Basin States.
+(a) There is created the Colorado River Basin Salinity Control Advisory Council composed of no more than three members from each Stateappointed by the Governor of each of the Colorado River Basin States.
 
 (b) The Council shall be advisory only and shall—
 

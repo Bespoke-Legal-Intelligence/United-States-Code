@@ -2,11 +2,11 @@
 
 #### (a) Export price
 
-The term "export price" means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
+The term "export price" means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c).
 
 #### (b) Constructed export price
 
-The term "constructed export price" means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+The term "constructed export price" means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d).
 
 #### (c) Adjustments for export price and constructed export price
 
@@ -24,7 +24,7 @@ The price used to establish export price and constructed export price shall beâ€
 
 &emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringing the subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
 
-&emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax, duty, or other charge described in section 1677(6)(C) of this title.
+&emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax,duty, or other charge described in section 1677(6)(C) of this title.
 
 #### (d) Additional adjustments to constructed export price
 
@@ -40,7 +40,7 @@ For purposes of this section, the price used to establish constructed export pri
 
 &emsp;&emsp;(D) any selling expenses not deducted under subparagraph (A), (B), or (C);
 
-&emsp;(2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e) of this section; and
+&emsp;(2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e); and
 
 &emsp;(3) the profit allocated to the expenses described in paragraphs (1) and (2).
 
@@ -58,7 +58,7 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### (1) In general
 
-&emsp;For purposes of subsection (d)(3) of this section, profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
+&emsp;For purposes of subsection (d)(3), profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
 
 #### (2) Definitions
 
@@ -70,7 +70,7 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 #### (B) Total United States expenses
 
-&emsp;&emsp;The term "total United States expenses" means the total expenses described in subsection (d)(1) and (2) of this section.
+&emsp;&emsp;The term "total United States expenses" means the total expenses described in subsection (d)(1) and (2).
 
 #### (C) Total expenses
 

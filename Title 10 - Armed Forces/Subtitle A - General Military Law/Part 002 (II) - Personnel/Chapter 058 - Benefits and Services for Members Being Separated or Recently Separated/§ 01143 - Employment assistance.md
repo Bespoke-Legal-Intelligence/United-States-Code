@@ -124,7 +124,7 @@ Report required.—If the Secretary of Defense executes the program under this s
 
 &emsp;"(2)
 
-Comparison with other programs.—The report shall include a comparison of the results of the program conducted under this section and the results of other employment assistant programs utilized by theDepartment of Defense. The comparison shall include the number of members of the Armed Forces obtaining employment through each program and the cost to the Department per member.
+Comparison with other programs.—The report shall include a comparison of the results of the program conducted under this section and the results of other employment assistant programs utilized by the Department of Defense. The comparison shall include the number of members of the Armed Forces obtaining employment through each program and the cost to the Department per member.
 
 &emsp;"(3)
 
@@ -158,7 +158,7 @@ Pub. L. 103–160, div. A, title XIII, §1337, Nov. 30, 1993, 107 Stat. 1805, au
 
 Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: "The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
-&emsp;"(1) Title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;"(1) Title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\].
 
 &emsp;"(2) Sections 1143 and 1144 of title 10, United States Code.
 
@@ -208,7 +208,7 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 "(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of thecosts to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) \[and 42 U.S.C. 2751 et seq.\]. Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 "(g)
 
@@ -608,7 +608,7 @@ Assistance To Participate.—The Secretary, the Secretary of Veterans Affairs, a
 
 "(f)
 
-Collection of Certain Information.—The Secretary of Labor shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State information available to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of eligible persons who receive counseling services pursuant to section 4493, who are referred to employers participating under this subtitle, who participate in programs of job training under this subtitle (including a description of the nature of the training and salaries that are part of such programs), and who complete such programs, and the reasons for eligible persons' noncompletion.
+Collection of Certain Information.—The Secretary of Labor shall, on a not less frequent than quarterly basis, collect and compile from the heads of State employment services and Directors for Veterans' Employment and Training for each State informationavailable to such heads and Directors, and derived from programs carried out in their respective States, with respect to the numbers of eligible persons who receive counseling services pursuant to section 4493, who are referred to employers participating under this subtitle, who participate in programs of job training under this subtitle (including a description of the nature of the training and salaries that are part of such programs), and who complete such programs, and the reasons for eligible persons' noncompletion.
 
 #### "SEC. 4495. AUTHORIZATION OF APPROPRIATIONS.
 

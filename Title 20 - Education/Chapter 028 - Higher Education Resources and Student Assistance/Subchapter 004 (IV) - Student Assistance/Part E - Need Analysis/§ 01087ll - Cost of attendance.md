@@ -2,7 +2,7 @@
 
 For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term "cost of attendance" means—
 
-&emsp;(1) tuition and fees normally assessed a student carrying the same academic workload as determined by the institution, and including costs for rental or purchase of any equipment, materials, or supplies required of all students in the same course of study;
+&emsp;(1) tuition and fees normally assessed a student carrying the same academic workload asdetermined by the institution, and including costs for rental or purchase of any equipment, materials, or supplies required of all students in the same course of study;
 
 &emsp;(2) an allowance for books, supplies, transportation, and miscellaneous personal expenses, including a reasonable allowance for the documented rental or purchase of a personal computer, for a student attending the institution on at least a half-time basis, as determined by the institution;
 
@@ -10,7 +10,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 &emsp;&emsp;(A) shall be an allowance determined by the institution for a student without dependents residing at home with parents;
 
-&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operatedhousing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board;
+&emsp;&emsp;(B) for students without dependents residing in institutionally owned or operated housing, shall be a standard allowance determined by the institution based on the amount normally assessed most of its residents for room and board;
 
 &emsp;&emsp;(C) for students who live in housing located on a military base or for which a basic allowance is provided under section 403(b) of title 37, shall be an allowance based on the expenses reasonably incurred by such students for board but not for room; and
 

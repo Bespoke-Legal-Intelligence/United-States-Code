@@ -14,7 +14,7 @@ Advertising.—The Administrator shall widely advertise prize competitions to en
 
 (d)
 
-Requirements and Registration.—For each prize competition, the Administrator shall publish a notice in the Federal Register announcing the subject of the competition, therules for being eligible to participate in the competition, the amount of the prize, and the basis on which a winner will be selected.
+Requirements and Registration.—For each prize competition, the Administrator shall publish a notice in the Federal Register announcing the subject of the competition, the rules for being eligible to participate in the competition, the amount of the prize, and the basis on which a winner will be selected.
 
 (e)
 
@@ -140,5 +140,5 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Purpose
 
-Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: "Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged."
+Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: "Prizes can play a useful rolein encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged."
 

@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 110–246, §2704, added subsec. (g).
 
 Subsec. (h). Pub. L. 110–246, §2705, added subsec. (h).
 
-<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for "$6,037,000,000 for the period of fiscalyears 2005 through 2014." and added subpars. (A) and (B).
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–171, §1202(b), substituted a dash for "$6,037,000,000 for the period of fiscal years 2005 through 2014." and added subpars. (A) and (B).
 
 Subsec. (a)(6)(E), (F). Pub. L. 109–171, §1203(c), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: "$1,300,000,000 in fiscal year 2007."
 

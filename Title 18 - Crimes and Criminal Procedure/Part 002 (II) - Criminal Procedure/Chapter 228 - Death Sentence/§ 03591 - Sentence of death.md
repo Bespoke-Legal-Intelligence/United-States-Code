@@ -32,5 +32,5 @@ Pub. L. 103–322, title VI, §60001, Sept. 13, 1994, 108 Stat. 1959, provided t
 
 #### Applicability to Uniform Code of Military Justice
 
-Pub. L. 103–322, title VI, §60004, Sept. 13, 1994, 108 Stat. 1970, provided that: "Chapter 228 of title 18, United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801)."
+Pub. L. 103–322, title VI, §60004, Sept. 13, 1994, 108 Stat. 1970, provided that: "Chapter 228 of title 18,United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801)."
 

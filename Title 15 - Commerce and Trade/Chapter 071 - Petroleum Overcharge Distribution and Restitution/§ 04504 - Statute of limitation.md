@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Except as provided in subsection (b) of this section, the commencement of a civil enforcement action shall be barred unless such action is commenced before the later of—
+(1) Except as provided in subsection (b), the commencement of a civil enforcement action shall be barred unless such action is commenced before the later of—
 
 &emsp;(A) September 30, 1988; or
 
@@ -18,7 +18,7 @@
 
 #### (b) Exceptions
 
-(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1) of this section, there shall be excluded any period—
+(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1), there shall be excluded any period—
 
 &emsp;(A) during which any person who is or may become the subject of a civil enforcement action is outside the United States, has absconded or concealed himself, or is not subject to legal process;
 
@@ -26,15 +26,15 @@
 
 &emsp;(C) occurring before full compliance with any subpoena or special report order issued to any person under section 772 of this title, and such additional period (not to exceed 12 calendar months) after such compliance for the Secretary to consider the results thereof and commence a civil enforcement action;
 
-&emsp;(D) during the pendency of any relevant criminal action under the Acts or regulations described in subsection (a)(1) of this section during which a civil enforcement action is held in abeyance as a result of prosecutorial discretion and with or without a stay, and such additional period (not to exceed 12 calendar months) after a final judicial order or dismissal of such criminal action to commence a civil enforcement action;
+&emsp;(D) during the pendency of any relevant criminal action under the Acts or regulations described in subsection (a)(1) during which a civil enforcement action is held in abeyance as a result of prosecutorial discretion and with or without a stay, and such additional period (not to exceed 12 calendar months) after a final judicial order or dismissal of such criminal action to commence a civil enforcement action;
 
 &emsp;(E) before the issuance of an order that constitutes final agency action on a request for adjustment from any rule, regulation, or order under section 7194 of title 42, and such additional period (not to exceed 12 calendar months) to commence a civil enforcement action; or
 
-&emsp;(F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1) of this section.
+&emsp;(F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1).
 
-(2) The provisions of subsection (a) of this section shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
+(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
 
-(3) The provisions of subsection (a) of this section shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) of this section or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
+(3) The provisions of subsection (a) shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
 
 #### (c) Expression of intent
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as "prelitigation cases", unless such an action is found not to be warranted;
 
-&emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) of this section to apply to any such case;
+&emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) to apply to any such case;
 
 &emsp;(C) any negotiations for the purpose of settlement of alleged violations not delay the commencement of a civil enforcement action; and
 
@@ -52,7 +52,7 @@
 
 #### (d) End of investigations and audits
 
-Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) of this section for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conducted with respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1) of this section) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
+Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conducted with respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1)) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
 
 #### (e) Limitation on review
 
@@ -72,7 +72,7 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 &emsp;(B) maintain for the remainder of the program an adequate mix of lawyers, auditors, technical, clerical, and administrative personnel.
 
-(2) By July 1, 1987, and by July 1 of each year thereafter, the Administrator of the Economic Regulatory Administration shall provide to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate the full-time equivalent level necessary for such compliance program for the next fiscal year and the basis for that level.
+(2) By July 1, 1987, and by July 1 of each year thereafter, the Administrator of the EconomicRegulatory Administration shall provide to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate the full-time equivalent level necessary for such compliance program for the next fiscal year and the basis for that level.
 
 (3) The Secretary shall, in any fiscal year, provide a notice of at least 30 days to such Committees before initiating any reduction of force at the Economic Regulatory Administration. Such notice shall provide at least—
 

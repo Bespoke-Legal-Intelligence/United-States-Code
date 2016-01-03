@@ -16,7 +16,7 @@ Each report shall include—
 
 #### (c) History and projections
 
-The information (referred to in subsection (b) of this section) contained in each report shall be—
+The information (referred to in subsection (b)) contained in each report shall be—
 
 &emsp;(1) described for the preceding three-year period, and
 
@@ -24,7 +24,7 @@ The information (referred to in subsection (b) of this section) contained in eac
 
 #### (d) Recommendations
 
-The President also may include in such report any appropriate recommendations on changes in numerical limitations or other policies under title II of the Immigration and Nationality Act\[8 U.S.C. 1151 et seq.\] bearing on the admission and entry of such aliens to the United States.
+The President also may include in such report any appropriate recommendations on changes in numerical limitations or other policies under title II of the Immigration and Nationality Act \[8 U.S.C. 1151 et seq.\] bearing on the admission and entry of such aliens to the United States.
 
 (Pub. L. 99–603, title IV, §401, Nov. 6, 1986, 100 Stat. 3440; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622.)
 

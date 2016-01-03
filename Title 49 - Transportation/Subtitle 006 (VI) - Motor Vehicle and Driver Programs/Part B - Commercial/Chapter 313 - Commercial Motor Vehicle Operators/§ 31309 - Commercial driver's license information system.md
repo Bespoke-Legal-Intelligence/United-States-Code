@@ -82,7 +82,7 @@ Implementation.—The Secretary shall implement the plan developed under subsect
 
 (f)
 
-Funding.—At the Secretary's discretion, a State may use, subject to section 31313(a), the funds made available to the State under section 31313 to modernize its commercial driver's license information system to be compatible with the modernized information system under this section.
+Funding.—At the Secretary's discretion, a State may use, subject to section 31313(a),<sup>1</sup> the funds made available to the State under section 31313 <sup>1</sup> to modernize its commercial driver's license information system to be compatible with the modernized information system under this section.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(d), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §§4122(2)(E), 4123(a), Aug. 10, 2005, 119 Stat. 1734; Pub. L. 110–244, title III, §301(h), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §§32305(a), 32933(e), July 6, 2012, 126 Stat. 792, 830.)
 
@@ -144,6 +144,8 @@ In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-D
 
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 31313, referred to in subsec. (f), was amended generally by Pub. L. 114–94, div. A, title V, §5104(a), Dec. 4, 2015, 129 Stat. 1527, and, as so amended, section relates to financial assistance program for implementation of commercial driver's license program. Provisions contained in former section 31313(a) are now similar to those contained in section 31313(a)(2) and (b).
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §32933(e), substituted "section 31308(3)" for "section 31308(2)".
@@ -198,7 +200,7 @@ Grants.—
 
 &emsp;"(1)
 
-In general.—The Secretary \[of Transportation\] may make a grant to a State or organization representing agencies and officials of a State in a fiscal year to modernize the commercial driver's licenseinformation system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code, if the State is in substantial compliance with the requirements of section 31311 of such title and this section, as determined by the Secretary.
+In general.—The Secretary \[of Transportation\] may make a grant to a State or organization representing agencies and officials of a State in a fiscal year to modernize the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code, if the State is in substantial compliance with the requirements of section 31311 of such title and this section, as determined by the Secretary.
 
 &emsp;"(2)
 
@@ -273,4 +275,6 @@ Completion date.—The pilot program shall end on the last day of the 18-month p
 "(b)
 
 Rulemaking.—After completion of the pilot program, the Secretary shall initiate, if appropriate, a rulemaking to revise the information system under section 31309 of title 49, United States Code, to take into account the results of the pilot program."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 | [777k.](%C2%A7%2000777k%20-%20Payments%20of%20funds%20to%20and%20cooperation%20with%20Puerto%20Rico%2C%20the%20District%20of%20Columbia%2C%20Guam%2C%20American%20Samoa%2C%20Commonwealth%20of%20the%20Northern%E2%80%A6.md) | Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern Mariana Islands, and Virgin Islands. |
 | 777<i>l.</i> | State use of contributions. |
 | [777m.](%C2%A7%2000777m%20-%20Multistate%20conservation%20grant%20program.md) | Multistate conservation grant program. |
-| [777n.](%C2%A7%2000777n%20-%20Expenditure%20of%20remaining%20balance%20in%20Boat%20Safety%20Account.md) | Expenditure of remaining balance in Boat Safety Account. |
+| [777n.](%C2%A7%2000777n%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20X%2C%20%C2%A710001%28g%29%281%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201621.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,4 +43,4 @@
 - [&sect; 00777k - Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern&#8230;](%C2%A7%2000777k%20-%20Payments%20of%20funds%20to%20and%20cooperation%20with%20Puerto%20Rico%2C%20the%20District%20of%20Columbia%2C%20Guam%2C%20American%20Samoa%2C%20Commonwealth%20of%20the%20Northern%E2%80%A6.md)
 - [&sect; 00777l - State use of contributions](%C2%A7%2000777l%20-%20State%20use%20of%20contributions.md)
 - [&sect; 00777m - Multistate conservation grant program](%C2%A7%2000777m%20-%20Multistate%20conservation%20grant%20program.md)
-- [&sect; 00777n - Expenditure of remaining balance in Boat Safety Account](%C2%A7%2000777n%20-%20Expenditure%20of%20remaining%20balance%20in%20Boat%20Safety%20Account.md)
+- [&sect; 00777n - Repealed. Pub. L. 114&#8211;94, div. A, title X, &sect;10001(g)(1), Dec. 4, 2015, 129 Stat. 1621](%C2%A7%2000777n%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20X%2C%20%C2%A710001%28g%29%281%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201621.md)

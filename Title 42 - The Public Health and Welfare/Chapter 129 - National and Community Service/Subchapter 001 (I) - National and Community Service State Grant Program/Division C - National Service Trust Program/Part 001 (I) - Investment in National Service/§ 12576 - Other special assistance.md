@@ -8,7 +8,7 @@
 
 #### (2) Matching requirement
 
-&emsp;In making a grant to a State under this subsection, the Corporation shall require theState to agree to provide matching funds from non-Federal sources of not less than $1 for every $1 provided by the Corporation through the grant.
+&emsp;In making a grant to a State under this subsection, the Corporation shall require the State to agree to provide matching funds from non-Federal sources of not less than $1 for every $1 provided by the Corporation through the grant.
 
 #### (3) Alternative
 
@@ -76,7 +76,7 @@ Section 12580, Pub. L. 101–610, title I, §150, Nov. 16, 1990, 104 Stat. 3156,
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1305(1)(A), substituted "$250,000 and $1,000,000" for "$125,000 and $750,000" and "12681(a)(5)" for "12681(a)(4)".
 
-Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and struck out former par. (2). Text of former par. (2) read as follows: "Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federalfunds available to establish or operate the State Commission, may not exceed—
+Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and struck out former par. (2). Text of former par. (2) read as follows: "Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
 
 &emsp;"(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 

@@ -50,7 +50,7 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: "This A
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Reform Conforming Amendments Act of 2005'."
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813,1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
@@ -80,7 +80,7 @@ Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–47
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: "This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may becited as the 'Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994'."
+Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: "This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the 'Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994'."
 
 #### Short Title of 1993 Amendment
 
@@ -118,7 +118,7 @@ Pub. L. 97–320, title II, §201, Oct. 15, 1982, 96 Stat. 1489, provided that: 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–110, title I, §101, Dec. 26, 1981, 95 Stat. 1513, provided that: "This title \[amending sections 1813, 1817, and 1821 of this title\] may be cited as the 'International Banking Facility Deposit Insurance Act'."
+Pub. L. 97–110, title I, §101, Dec. 26, 1981, 95 Stat. 1513, provided that: "This title \[amending sections 1813, 1817,and 1821 of this title\] may be cited as the 'International Banking Facility Deposit Insurance Act'."
 
 #### Short Title of 1978 Amendment
 
@@ -296,7 +296,7 @@ Advisory Commission on Financial Services.—
 
 &emsp;"(1)
 
-Establishment.—There is established the Advisory Commission on Financial Services (hereafterin this section referred to as the 'Advisory Commission').
+Establishment.—There is established the Advisory Commission on Financial Services (hereafter in this section referred to as the 'Advisory Commission').
 
 &emsp;"(2)
 
@@ -452,7 +452,7 @@ Topics.—As part of the study required under subsection (a), the Secretary of t
 
 "(c)
 
-Final Report.—Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall submit to the Congress a final report containing a detailed statement of findings made, and conclusions drawn from, the study conducted under this section, including such recommendations for administrative and legislative action as the Secretary determines to be appropriate.
+Final Report.—Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall submit to the Congress a final report containing a detailed statement of findings made, and conclusions drawn from, the study conducted underthis section, including such recommendations for administrative and legislative action as the Secretary determines to be appropriate.
 
 #### "SEC. 1002. SURVEY OF BANK FEES AND SERVICES.
 
@@ -664,7 +664,7 @@ Exemption from public disclosure requirements.—The Department of the Treasury 
 
 &emsp;&emsp;"(C)
 
-Penalty for unauthorized disclosure.—Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
+Penalty for unauthorized disclosure.—Any officer or employee of the Department of theTreasury shall be subject to the penalties set forth in section 1906 of title 18, United States Code, if—
 
 &emsp;&emsp;&emsp;"(i) by virtue of his employment or official position, he has possession of or access to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A); and
 

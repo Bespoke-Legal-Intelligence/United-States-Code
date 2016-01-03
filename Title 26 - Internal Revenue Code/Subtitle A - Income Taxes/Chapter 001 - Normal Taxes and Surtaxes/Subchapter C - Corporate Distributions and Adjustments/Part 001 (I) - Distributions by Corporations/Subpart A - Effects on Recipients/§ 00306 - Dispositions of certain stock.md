@@ -78,7 +78,7 @@ Subsection (a) shall not apply—
 
 #### (A) Distributed to seller
 
-&emsp;&emsp;Stock (other than common stock issued with respect to common stock) which wasdistributed to the shareholder selling or otherwise disposing of such stock if, by reason of section 305(a), any part of such distribution was not includible in the gross income of the shareholder.
+&emsp;&emsp;Stock (other than common stock issued with respect to common stock) which was distributed to the shareholder selling or otherwise disposing of such stock if, by reason of section 305(a), any part of such distribution was not includible in the gross income of the shareholder.
 
 #### (B) Received in a corporate reorganization or separation
 
@@ -192,7 +192,7 @@ Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided t
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
-Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
+Amendment by Pub. L. 96–223 (repealing section 702(a)(1), (2) of Pub. L. 95–600 and the amendments madethereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and, except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
 #### Effective Date of 1978 Amendment
 

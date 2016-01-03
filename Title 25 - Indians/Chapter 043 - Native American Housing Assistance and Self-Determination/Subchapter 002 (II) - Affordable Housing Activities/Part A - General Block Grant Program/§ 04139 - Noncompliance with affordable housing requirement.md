@@ -2,7 +2,7 @@
 
 If a recipient uses grant amounts to provide affordable housing under this subchapter, and at any time during the useful life of the housing the recipient does not comply with the requirement under section 4135(a)(2) of this title, the Secretary shall take appropriate action under section 4161(a) of this title.
 
-(Pub. L. 104–330, title II, §209, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, §595(c), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–568, title X, §1003(f)(1), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, §503(e)(1), Dec. 27, 2000, 114 Stat. 2962.)
+(Pub. L. 104–330, title II, §209, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, §595(c), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–568, title X, §1003(f)(1), Dec. 27, 2000, 114 Stat. 2927; Pub. L.106–569, title V, §503(e)(1), Dec. 27, 2000, 114 Stat. 2962.)
 
 #### Amendments
 

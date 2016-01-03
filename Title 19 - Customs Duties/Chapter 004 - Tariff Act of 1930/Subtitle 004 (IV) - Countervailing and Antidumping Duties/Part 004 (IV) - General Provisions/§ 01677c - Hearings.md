@@ -14,7 +14,7 @@
 
 Any hearing required or permitted under this subtitle shall be conducted after notice published in the Federal Register, and a transcript of the hearing shall be prepared and made available to the public. The hearing shall not be subject to the provisions of subchapter II of chapter 5 of title 5, or to section 702 of such title.
 
-(June 17, 1930, ch. 497, title VII, §774, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.186; amended Pub. L. 98–573, title VI, §616, Oct. 30, 1984, 98 Stat. 3037.)
+(June 17, 1930, ch. 497, title VII, §774, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §616, Oct. 30, 1984, 98 Stat. 3037.)
 
 #### Amendments
 

@@ -92,7 +92,7 @@ No deduction shall be allowed under subsection (a) for any qualified refinery pr
 
 #### (h) Reporting
 
-No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary areport containing such information with respect to the operation of the refineries of the taxpayer as the Secretary shall require.
+No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the refineries of the taxpayer as the Secretary shall require.
 
 (Added Pub. L. 109–58, title XIII, §1323(a), Aug. 8, 2005, 119 Stat. 1013; amended Pub. L. 110–343, div. B, title II, §209(a), (b), Oct. 3, 2008, 122 Stat. 3840.)
 

@@ -34,7 +34,7 @@
 
 | Pay Grade | Monthly Rate |
 | :--- | ---: |
-| O–10 | $150  |
+| O–10 | $150&nbsp; |
 | O–9 | 150&nbsp; |
 | O–8 | 150&nbsp; |
 | O–7 | 150&nbsp; |
@@ -115,11 +115,11 @@
 
 (e) A member of a uniformed service who is entitled to basic pay may be paid incentive pay under this subsection, at a monthly rate not to exceed $150, for any month during which the member performs duty involving regular participation as a firefighting crew member, as determined by the Secretary concerned.
 
-(f)(1) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, any duty described in subsection (a) for members entitled to basic pay, he is entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c), as the case may be, for the performance of that hazardous duty by a member of a corresponding grade who is entitled to basic pay. He is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title for the entire month.
+(f)(1) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, any duty described in subsection (a) for members entitled to basic pay, he is entitled to anincrease in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c), as the case may be, for the performance of that hazardous duty by a member of a corresponding grade who is entitled to basic pay. He is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title for the entire month.
 
 (2)(A) If in any calendar month a member performs duty as described in paragraph (1) and while entitled to basic pay also performs hazardous duty as described in the same paragraph of subsection (a) as constitutes the predicate for his entitlement under paragraph (1), the earned units of measuring entitlement for incentive pay under this section shall be combined. If the sum of units determined under the preceding sentence equals or exceeds the minimum standard prescribed by the President for entitlement to pay specified under subsections (b) and (c) for a member of corresponding grade who is entitled to basic pay for the entire relevant month, the member shall be entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) or (c) for the performance of that hazardous duty by a member of corresponding grade who is entitled to basic pay for the entire month.
 
-(B) A member who qualifies for entitlement under this paragraph is entitled to the increasefor each day in the relevant month in which he is entitled to basic pay pursuant to section 204 of this title or to compensation under section 206 of this title.
+(B) A member who qualifies for entitlement under this paragraph is entitled to the increase for each day in the relevant month in which he is entitled to basic pay pursuant to section 204 of this title or to compensation under section 206 of this title.
 
 (C) In this paragraph, the term "units" means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
@@ -183,7 +183,7 @@ In subsection (g), the words "entitled to incentive pay under section 301(a)(1) 
 
 <b>2006</b>—Subsec. (f)(2)(C). Pub. L. 109–364 struck out comma after "the term".
 
-<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d), redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
+<b>2004</b>—Subsecs. (d), (e). Pub. L. 108–375 designated existing provisions of subsec. (d) as par. (1) of subsec. (d),redesignated former subsec. (e) as par. (2) of subsec. (d), and added subsec. (e).
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §615(c)(1), substituted "paragraph" for "clause".
 
@@ -217,7 +217,7 @@ Pub. L. 105–85, §614(a)(1), in table substituted "150" for "110" as monthly r
 
 Subsec. (c)(1). Pub. L. 105–85, §614(c), substituted "$150" for "$110" and "$225" for "$165".
 
-Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted "150" for "100" in first column for pay gradeW–1, "150" for "110" in last column for pay grade O–7 and above, and "150" for "125" in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
+Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted "150" for "100" in first column for pay grade W–1, "150" for "110" in last column for pay grade O–7 and above, and "150" for "125" in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
 
 <b>1996</b>—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted "a member" for "an officer (other than a warrant officer)".
 
@@ -295,7 +295,7 @@ Subsec. (g). Pub. L. 93–294, §2(2), repealed subsec. (g) which required the S
 
 <b>1972</b>—Subsec. (a)(2)(A). Pub. L. 92–436 included in the hazardous duty for incentive pay of a member of a submarine operational command the application of hours served underway in excess of 48 during the preceding five calendar months and not used to qualify for incentive pay, to satisfy of underway time requirements for the current month.
 
-<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. "A", "B", and "C" and by setting off text following cl. Cthrough the device of moving the margin to the left of the margin for the clauses.
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–718 made only style changes by capitalizing letter designations for cls. "A", "B", and "C" and by setting off text following cl. C through the device of moving the margin to the left of the margin for the clauses.
 
 <b>1965</b>—Subsec. (a)(2). Pub. L. 89–278 included duty as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations for certain specified periods within term "hazardous duty".
 
@@ -455,7 +455,7 @@ Relationship to Other Incentives.—Incentives provided under this section are i
 
 Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that identifies, for each of the Armed Forces, the critically short military occupational specialties to which incentives under this section are to apply.
 
-"(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the Armed Forces, the incentives that are to be provided under this section."
+"(2) Not later than April 15, 1999, the Secretary of Defense shall submit to the congressional defense committees a report that specifies, for each of the ArmedForces, the incentives that are to be provided under this section."
 
 #### Persons Entitled To Receive Incentive Pay for Duty Involving Contact With Persons Afflicted With Leprosy
 
@@ -467,7 +467,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Executive Order No. 11157
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No.12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, which related to regulations regarding incentive pay for hazardous duty, special pay for sea duty and duty at certain other locations, and basic allowances for subsistence and quarters, was revoked by Ex. Ord. No. 13294, §2, Mar. 28, 2003, 68 F.R. 15919, set out below.
 
 #### Ex. Ord. No. 13294. Regulations Relating to Hazardous Duty Incentive Pay, Aviation Career Incentive Pay, and Submarine Duty Incentive Pay
 

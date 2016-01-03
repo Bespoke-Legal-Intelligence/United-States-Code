@@ -18,7 +18,7 @@
 
 &emsp;(C) the State does not request, under paragraph (2), that such amount be held available for such State for the following fiscal year;
 
-> then such amount shall be treated by the Secretary for purposes of this subchapter as an amount appropriated for the following fiscalyear to be allotted under section 8623 of this title for such following fiscal year.
+> then such amount shall be treated by the Secretary for purposes of this subchapter as an amount appropriated for the following fiscal year to be allotted under section 8623 of this title for such following fiscal year.
 
 (2)(A) Any State may request that an amount allotted to such State for a fiscal year be held available for such State for the following fiscal year. Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year. Any amount so held available for the following fiscal year shall not be taken into account in computing the allotment of or the amount payable to such State for such fiscal year under this subchapter.
 
@@ -44,7 +44,7 @@ In subsec. (a)(1), "section 6503(a) of title 31" substituted for "section 203 of
 
 <b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted "Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year." and "or the amount payable to" after "computing the allotment of".
 
-Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
+Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such Statefor such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
 
 Subsec. (b)(2)(C). Pub. L. 98–558, §606(c), added subpar. (C).
 

@@ -106,7 +106,7 @@ Subsec. (e)(2). Pub. L. 112–95, §429(b), amended par. (2) generally. Prior to
 
 Pub. L. 112–91 substituted "and $2,295,082 for the portion of fiscal year 2012 ending before February 18, 2012," for "and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,".
 
-<b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted "$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012," for "and $35,000,000 for each of fiscal years 2004 through 2011".
+<b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted "$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 endingbefore February 1, 2012," for "and $35,000,000 for each of fiscal years 2004 through 2011".
 
 <b>2010</b>—Subsec. (e)(2). Pub. L. 111–249 substituted "2011" for "2010".
 

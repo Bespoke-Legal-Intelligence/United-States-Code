@@ -6,7 +6,7 @@ For the purpose of regulating and preventing the transportation in foreign comme
 
 #### References in Text
 
-This Act, referred to in text, is act June 25, 1910, ch. 395, 36 Stat. 825, known as the White Slave Traffic Act,which was classified to this section and to sections 397 to 404 of former Title 18, Criminal Code and Criminal Procedure. The act, except for the provision set out as this section, was repealed by act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedure. See sections 2421 et seq. of Title 18.
+This Act, referred to in text, is act June 25, 1910, ch. 395, 36 Stat. 825, known as the White Slave Traffic Act, which was classified to this section and to sections 397 to 404 of former Title 18, Criminal Code and Criminal Procedure. The act, except for the provision set out as this section, was repealed by act June 25, 1948, ch. 645, 62 Stat. 683, section 1 of which enacted Title 18, Crimes and Criminal Procedure. See sections 2421 et seq. of Title 18.
 
 #### Codification
 

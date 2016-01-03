@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federalmeans-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term "qualified alien".
+Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d), an alien who is a qualified alien (as defined in section 1641 of this title) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien's entry into the United States with a status within the meaning of the term "qualified alien".
 
 #### (b) Exceptions
 
-The limitation under subsection (a) of this section shall not apply to the following aliens:
+The limitation under subsection (a) shall not apply to the following aliens:
 
 #### (1) Exception for refugees and asylees
 
@@ -32,7 +32,7 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 #### (c) Application of term Federal means-tested public benefit
 
-(1) The limitation under subsection (a) of this section shall not apply to assistance or benefits under paragraph (2).
+(1) The limitation under subsection (a) shall not apply to assistance or benefits under paragraph (2).
 
 (2) Assistance and benefits under this paragraph are as follows:
 
@@ -46,33 +46,29 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(E) Public health assistance (not including any assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child who would, in the absence of subsection (a) of this section, be eligible to have such payments made on the child's behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 1641 of this title).
+&emsp;(F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for a parent or a child who would, in the absence of subsection (a), be eligible to have such payments made on the child's behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in section 1641 of this title).
 
 &emsp;(G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
 
-&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
+&emsp;(H) Programs of student assistance under titles IV, V, IX, and X of the Higher EducationAct of 1965 \[20 U.S.C. 1070 et seq., 1101 et seq., 1134 et seq., 1135 et seq., 42 U.S.C. 2751 et seq.\], and titles III, VII, and VIII of the Public Health Service Act \[42 U.S.C. 241 et seq., 292 et seq., 296 et seq.\].
 
 &emsp;(I) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 &emsp;(J) Benefits under the Head Start Act \[42 U.S.C. 9831 et seq.\].
 
-&emsp;(K) Benefits under the <sup>3</sup> title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;(K) Benefits under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\].
 
 &emsp;(L) Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2011 et seq.).
 
 #### (d) Benefits for certain groups
 
-Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) of this section shall not apply to—
+Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) shall not apply to—
 
 &emsp;(1) an individual described in section 1612(a)(2)(G) of this title, but only with respect to the programs specified in subsections (a)(3) and (b)(3)(C) of section 1612 of this title; or
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct.21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716.)
-
-#### Amendment of Subsection (c)(2)(K)
-
-<i>Pub. L. 113–128, title V, §§506, 512(x), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(K) of this section is amended by striking "Benefits under the title I of the Workforce Investment Act of 1998" and inserting "Benefits under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, §512(x), July 22, 2014, 128 Stat. 1716.)
 
 #### References in Text
 
@@ -96,7 +92,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2
 
 The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -128,11 +124,11 @@ Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end "o
 
 Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
 
-Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: "The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980."
+Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: "The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980."
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2002 Amendment
 
@@ -153,6 +149,4 @@ Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "subparagraph (A) or (B)".</i>
-
-<i><sup>3</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

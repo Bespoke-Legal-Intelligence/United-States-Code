@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;Of the revenues covered into the fund, $7,500,000 for each of fiscal years 2001 and 2002, and $8,000,000 for fiscal year 2003 and each fiscal year thereafter, shall be apportioned among the States in the manner specified in section 669c(c) <sup>1</sup> of this title by the Secretary of the Interior and used to make grants to the States to be used for—
+&emsp;Of the revenues covered into the fund, $7,500,000 for each of fiscal years 2001 and 2002,and $8,000,000 for fiscal year 2003 and each fiscal year thereafter, shall be apportioned among the States in the manner specified in section 669c(c) <sup>1</sup> of this title by the Secretary of the Interior and used to make grants to the States to be used for—
 
 &emsp;&emsp;(A) in the case of a State that has not used all of the funds apportioned to the State under section 669c(c) <sup>1</sup> of this title for the fiscal year in the manner described in section 669g(b) of this title—
 
@@ -34,7 +34,7 @@ The Federal share of the cost of any activity carried out with a grant under thi
 
 #### (2) Reapportionment
 
-&emsp;At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) of this section for use by those States in accordance with this chapter.
+&emsp;At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
 (Sept. 2, 1937, ch. 899, §10, as added Pub. L. 106–408, title I, §112(2), Nov. 1, 2000, 114 Stat. 1766.)
 

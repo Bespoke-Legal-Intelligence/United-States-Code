@@ -96,7 +96,7 @@ Section 3(a)(1)(A), (c)(1), (7) of the Investment Company Act of 1940, referred 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357, §833(b)(6)(A), substituted "Special rules where section 754 election or substantialbuilt-in loss" for "Optional adjustment to basis of partnership property" in section catchline.
+<b>2004</b>—Pub. L. 108–357, §833(b)(6)(A), substituted "Special rules where section 754 election or substantial built-in loss" for "Optional adjustment to basis of partnership property" in section catchline.
 
 Subsec. (a). Pub. L. 108–357, §833(b)(1), inserted "or unless the partnership has a substantial built-in loss immediately after such transfer" before period at end.
 

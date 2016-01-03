@@ -80,7 +80,7 @@ The State shall have the option to set a State civil money penalty which shall n
 
 #### (e) Entry of employer information
 
-Information shall be entered into the data base maintained by the State Directory of New Hires within 5 business days of receipt from an employer pursuant to subsection (b) of this section.
+Information shall be entered into the data base maintained by the State Directory of NewHires within 5 business days of receipt from an employer pursuant to subsection (b) of this section.
 
 #### (f) Information comparisons
 
@@ -90,7 +90,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (2) Notice of match
 
-&emsp;When an information comparison conducted under paragraph (1) reveals a match with respect to the social security number of an individual required to provide support under a support order, the State Directory of New Hires shall provide the agency administering the State plan approved under this part of the appropriate State with the name, address, and social security number of the employee to whom the social security number is assigned,and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
+&emsp;When an information comparison conducted under paragraph (1) reveals a match with respect to the social security number of an individual required to provide support under a support order, the State Directory of New Hires shall provide the agency administering the State plan approved under this part of the appropriate State with the name, address, and social security number of the employee to whom the social security number is assigned, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 
 #### (g) Transmission of information
 
@@ -154,7 +154,7 @@ In general.—Subject to paragraph (2), the amendments made by this section \[am
 
 "(2)
 
-Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirement imposed by the amendment made by subsection (a) \[amending this section\], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirement imposed by theamendment made by subsection (a) \[amending this section\], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2010 Amendment
 
@@ -166,7 +166,7 @@ In general.—Subject to paragraph (2), the amendments made by this section \[am
 
 "(2)
 
-Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of suchamendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 1997 Amendment
 

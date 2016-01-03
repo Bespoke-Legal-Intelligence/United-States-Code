@@ -16,7 +16,7 @@ A contract or commitment made under subsection (a) of this section may not excee
 
 (1) Descriptions of proposed transactions under subsection (a) of this section shall be included in the appropriate annual materials plan submitted to Congress under section 98h–2(b) of this title. Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by section 98d(a)(2) of this title.
 
-(2) The authority of the President to enter into obligations under this section is effective for any fiscal year only to the extent that fundsin the National Defense Stockpile Transaction Fund are adequate to meet such obligations. Payments required to be as a result of obligations incurred under this section shall be made from amounts in the fund.
+(2) The authority of the President to enter into obligations under this section is effective for any fiscal year only to the extent that funds in the National Defense Stockpile Transaction Fund are adequate to meet such obligations. Payments required to be as a result of obligations incurred under this section shall be made from amounts in the fund.
 
 #### (d) Transportation and incidental expenses
 

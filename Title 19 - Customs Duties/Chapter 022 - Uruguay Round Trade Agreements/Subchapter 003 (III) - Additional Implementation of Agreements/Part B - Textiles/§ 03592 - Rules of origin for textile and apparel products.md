@@ -2,7 +2,7 @@
 
 #### (a) Regulatory authority
 
-The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) of this section for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995.
+The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995.
 
 #### (b) Principles
 
@@ -32,7 +32,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;(B) Notwithstanding paragraph (1)(C), fabric classified under the HTS as of silk, cotton, man-made fiber, or vegetable fiber shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
-&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight ofcotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
 #### (3) Multicountry rule
 
@@ -60,7 +60,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 #### (5) Exception for United States-Israel Free Trade Agreement
 
-&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth,product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c) of this section, unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
+&emsp;This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c), unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
 
 #### (c) Effective date
 

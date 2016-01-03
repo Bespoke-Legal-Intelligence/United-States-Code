@@ -10,7 +10,7 @@ Personnel Registry.—The Secretary shall maintain a registry of members and for
 
 (c)
 
-Registry of Public Service and Community Service Organizations.—The Secretary shall also maintain a registry of public service and community service organizations. The registry shall contain information regarding each organization, including its location, its size, the types of public and community service positions in the organization, points of contact, procedures for applying for such positions, and a description of each such position that is likely to be available. Any such organization may request registration under this subsection and, subjectto guidelines prescribed by the Secretary, be registered.
+Registry of Public Service and Community Service Organizations.—The Secretary shall also maintain a registry of public service and community service organizations. The registry shall contain information regarding each organization, including its location, its size, the types of public and community service positions in the organization, points of contact, procedures for applying for such positions, and a description of each such position that is likely to be available. Any such organization may request registration under this subsection and, subject to guidelines prescribed by the Secretary, be registered.
 
 (d)
 
@@ -26,7 +26,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 (e)
 
-Consultation Requirement.—In carrying out this section, the Secretary shall consult closely with the Secretary of Labor, the Secretary of Veterans Affairs, the Secretary of Education, the Director of the Office of Personnel Management, appropriate representatives of State and local governments, and appropriate representatives of businesses and nonprofit organizations in the private sector.
+Consultation Requirement.—In carrying out this section, the Secretary shall consult closely with the Secretary of Labor, the Secretary of Veterans Affairs, the Secretary of Education, the Director of the Office of PersonnelManagement, appropriate representatives of State and local governments, and appropriate representatives of businesses and nonprofit organizations in the private sector.
 
 (f)
 

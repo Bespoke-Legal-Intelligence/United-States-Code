@@ -44,9 +44,15 @@ In general.—The Secretary, with the advice of the Medical Review Board and the
 
 &emsp;&emsp;&emsp;(iv) demonstration of a medical examiner's willingness to meet the reporting requirements established by the Secretary;
 
-&emsp;&emsp;(E) require medical examiners to transmit the name of the applicant and numericalidentifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
+&emsp;&emsp;(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner's certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;
 
-&emsp;&emsp;(F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification.
+&emsp;&emsp;(F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification; and
+
+&emsp;&emsp;(G) annually review the implementation of commercial driver's license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
+
+&emsp;&emsp;&emsp;(i) the submission of physical examination reports and medical certificates to State licensing agencies; and
+
+&emsp;&emsp;&emsp;(ii) the processing of the submissions by State licensing agencies.
 
 &emsp;(2)
 
@@ -70,26 +76,6 @@ Regulations.—The Secretary shall issue such regulations as may be necessary to
 
 (Added Pub. L. 109–59, title IV, §4116(a), Aug. 10, 2005, 119 Stat. 1726; amended Pub. L. 112–141, div. C, title II, §32302(b), (c)(1), July 6, 2012, 126 Stat. 789.)
 
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 112–141, div. C, title II, §32302(c)(1), (2)(B), July 6, 2012, 126 Stat. 789, provided that, effective on the date the oversight policies and procedures are established pursuant to section 32302(c)(2)(A) of Pub. L. 112–141 (set out as a note below), subsection (c)(1) of this section is amended as follows:</i>
-
-<i>(1) by amending subparagraph (E) to read as follows:</i>
-
-&emsp;&emsp;<i>"(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner's certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;";</i>
-
-<i>(2) in subparagraph (F), by striking the period at the end and inserting "; and"; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;&emsp;<i>(G) annually review the implementation of commercial driver's license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the submission of physical examination reports and medical certificates to State licensing agencies; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the processing of the submissions by State licensing agencies.</i>
-
-<i>See 2012 Amendment notes below.</i>
-
 #### References in Text
 
 The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(1)(D), is Pub. L. 112–141, div. C, title II, July 6, 2012, 126 Stat. 776. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 30101 of this title and Tables.
@@ -106,13 +92,65 @@ Subsec. (c)(1)(G). Pub. L. 112–141, §32302(c)(1)(B), (C), added subpar. (G).
 
 Amendment by section 32302(b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. C, title II, §32302(c)(2)(B), July 6, 2012, 126 Stat. 789, provided that: "The amendments made by section 32303(c)(1) \[probably should be "32302(c)(1)"\] of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A)."
+Pub. L. 112–141, div. C, title II, §32302(c)(2)(B), July 6, 2012, 126 Stat. 789, as amended by Pub. L. 114–94, div. A, title V, §5508(b)(3), Dec. 4, 2015, 129 Stat. 1554, provided that: "The amendments made by section 32302(c)(1) of this Act \[amending this section\] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A)."
+
+\[Pub. L. 114–94, div. A, title V, §5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(3) to section 32302(c)(2)(B) of Pub. L. 112–141, set out above, is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.\]
 
 #### Effective Date
 
 Pub. L. 109–59, title IV, §4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 110–244, title III, §301(d), June 6, 2008, 122 Stat. 1616, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and amending section 31136 of this title\] shall take effect on the 365th day following the date of enactment of this Act \[Aug. 10, 2005\]."
 
 \[Amendment by Pub. L. 110–244 to section 4116(f) of Pub. L. 109–59, set out above, effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as an Effective Date of 2008 note under section 101 of Title 23, Highways.\]
+
+#### Medical Certification of Veterans for Commercial Driver's Licenses
+
+Pub. L. 114–94, div. A, title V, §5403, Dec. 4, 2015, 129 Stat. 1548, provided that:
+
+"(a)
+
+In General.—In the case of a physician-approved veteran operator, the qualified physician of such operator may, subject to the requirements of subsection (b), perform a medical examination and provide a medical certificate for purposes of compliance with the requirements of section 31149 of title 49, United States Code.
+
+"(b)
+
+Certification.—The certification described under subsection (a) shall include—
+
+&emsp;"(1) assurances that the physician performing the medical examination meets the requirements of a qualified physician under this section; and
+
+&emsp;"(2) certification that the physical condition of the operator is adequate to enable such operator to operate a commercial motor vehicle safely.
+
+"(c)
+
+National Registry of Medical Examiners.—The Secretary \[of Transportation\], in consultation with the Secretary of Veterans Affairs, shall develop a process for qualified physicians to perform a medical examination and provide a medical certificate under subsection (a) and include such physicians on the national registry of medical examiners established under section 31149(d) of title 49, United States Code.
+
+"(d)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;"(1)
+
+Physician-approved veteran operator.—The term 'physician-approved veteran operator' means an operator of a commercial motor vehicle who—
+
+&emsp;&emsp;"(A) is a veteran who is enrolled in the health care system established under section 1705(a) of title 38, United States Code; and
+
+&emsp;&emsp;"(B) is required to have a current valid medical certificate pursuant to section 31149 of title 49, United States Code.
+
+&emsp;"(2)
+
+Qualified physician.—The term 'qualified physician' means a physician who—
+
+&emsp;&emsp;"(A) is employed in the Department of Veterans Affairs;
+
+&emsp;&emsp;"(B) is familiar with the standards for, and physical requirements of, an operator certified pursuant to section 31149 of title 49, United States Code; and
+
+&emsp;&emsp;"(C) has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate.
+
+&emsp;"(3)
+
+Veteran.—The term 'veteran' has the meaning given the term in section 101 of title 38, United States Code.
+
+"(e)
+
+Statutory Construction.—Nothing in this section shall be construed to change any statutory penalty associated with fraud or abuse."
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 

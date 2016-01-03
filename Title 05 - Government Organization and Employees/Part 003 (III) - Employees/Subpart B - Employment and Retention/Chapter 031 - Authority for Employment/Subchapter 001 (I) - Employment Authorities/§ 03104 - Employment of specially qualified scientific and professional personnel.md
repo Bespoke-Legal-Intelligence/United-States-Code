@@ -6,7 +6,7 @@
 
 (c) In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221;Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, §2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, §1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, §6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, §414(a)(2)(B), (C), title VIII, §801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, §101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, §2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, §2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes<br>1966
 
@@ -92,7 +92,7 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 <b>1986</b>—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted "subsection (a) of this section" for "paragraph (1) of this subsection" wherever appearing in subsecs. (b) and (c) as redesignated.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
+<b>1978</b>—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professionalpositions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
 
 Subsec. (b). Pub. L. 95–454, §414(a)(2)(B), (C), struck out subsec. (b), redesignated subsec. (c) as (b), and substituted in subsec. (b), as redesignated, "to fix under section 5361 of this title the pay for positions established under this section" for "to establish and fix the pay of positions under this section and section 5361 of this title".
 
@@ -116,9 +116,13 @@ Amendment by section 414(a)(2)(B), (C) of Pub. L. 95–454 effective 180 days af
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
+#### Retention Pay for Employees Subject to a Reduction in Pay Upon Termination of Bureau's Personnel Management Demonstration Project
+
+Pub. L. 114–113, div. B, title II, §206, Dec. 18, 2015, 129 Stat. 2312, provided that: "Funds appropriated by this or any other Act, with respect to any fiscal year, under the heading 'Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses' shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau's Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (28 U.S.C. 599B)): <i>Provided</i>, That such retention pay shall comply with section 5363 of title 5, United States Code, and related Office of Personnel Management regulations, except as provided in this section: <i>Provided further</i>, That such retention pay shall be paid at the employee's rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in section 5304(g)(1) of title 5, United States Code, and related regulations."
+
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vi), title XI, §1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, §1104, Dec. 19, 2014, 128 Stat. 3525, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, §1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, §1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, §1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, §1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vi), title XI, §1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, §1104, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 114–92, div. A, title X, §§1075(b), 1081(b)(5), Nov. 25, 2015, 129 Stat. 997, 1001, provided that:
 
 "(a)
 
@@ -156,7 +160,7 @@ Limitations on Additional Payments.—(1) Subject to paragraph (3), the total am
 
 "(2) In paragraph (1), the term 'base quarter' has the meaning given that term in section 5302(3) of title 5, United States Code.
 
-"(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
+"(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, noadditional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
 
 "(4) An employee appointed under the program is not eligible for any bonus, monetary award, or other monetary incentive for service under the appointment other than payments authorized by this section.
 
@@ -182,29 +186,7 @@ Savings Provisions.—In the case of an employee who, on the last day of the pro
 
 &emsp;&emsp;"(B) the period to which the employee's service is limited under subsection (c), including any extension made under paragraph (2) of that subsection before the termination of the program; and
 
-&emsp;"(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service.
-
-"(g)
-
-Annual Report.—(1)(A) Not later than December 31 of each year in which the authority under this section is in effect, the Secretary of Defense shall submit to the committees of Congress specified in subparagraph (B) a report on the operation of this section. Each report shall cover the fiscal year that most recently ended before such December 31.
-
-"(B) The committees of Congress specified in this subparagraph are—
-
-&emsp;"(i) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
-
-&emsp;"(ii) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
-
-"(2) The annual report shall contain, for the period covered by the report, the following:
-
-&emsp;"(A) A detailed discussion of the exercise of authority under this section.
-
-&emsp;"(B) The sources from which individuals appointed under subsection (b)(1) were recruited.
-
-&emsp;"(C) The methodology used for identifying and selecting such individuals.
-
-&emsp;"(D) Any additional information that the Secretary considers helpful for assessing the utility of the authority under this section."
-
-\[Pub. L. 113–291, §1104(b)(2), which directed amendment of subsec. (d)(2) of section 1101 of Pub. L. 105–261, set out above, by substituting "calendar year" for "fiscal year", was executed by making the substitution in subsec. (d)(1)(A) of such section before "2010", to reflect the probable intent of Congress.\]
+&emsp;"(2) the rate of basic pay prescribed for the position under subsection (b)(2) may not be reduced for so long (within the period applicable to the employee under paragraph (1)) as the employee continues to serve in the position without a break in service."
 
 \[Pub. L. 112–239, div. A, title XI, §1102(b), Jan. 2, 2013, 126 Stat. 1973, provided that: "The amendment made by subsection (a) \[amending section 1101 of Pub. L. 105–261, set out above\] shall not be construed as affecting any applicable authorization or delimitation of the numbers of personnel that may be employed at the Defense Advanced Research Projects Agency."\]
 
@@ -258,5 +240,5 @@ Pub. L. 95–454, title IV, §414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided 
 
 \[Pub. L. 95–454, title IV, §415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.\]
 
-\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
+\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, tobe considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
 

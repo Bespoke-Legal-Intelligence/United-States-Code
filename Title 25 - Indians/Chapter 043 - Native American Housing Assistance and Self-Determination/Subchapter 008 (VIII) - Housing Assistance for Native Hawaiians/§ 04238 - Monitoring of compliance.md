@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director, through binding contractual agreements with owners or other authorizedentities, shall ensure long-term compliance with the provisions of this subchapter.
+&emsp;The Director, through binding contractual agreements with owners or other authorized entities, shall ensure long-term compliance with the provisions of this subchapter.
 
 #### (2) Measures
 

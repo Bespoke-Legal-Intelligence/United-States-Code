@@ -24,7 +24,7 @@ An eligible entity desiring a grant under subsection (a) of this section shall s
 
 #### (d) Eligible entity
 
-For purposes of this section, the term "eligible entity" includes a school of nursing, a health care facility, a program leading to certification as a certified nurse assistant, a partnership of such a school and facility, or a partnership of such a program and facility.
+For purposes of this section, the term "eligible entity" includes a school of nursing, ahealth care facility, a program leading to certification as a certified nurse assistant, a partnership of such a school and facility, or a partnership of such a program and facility.
 
 #### (e) Authorization of appropriations
 

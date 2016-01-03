@@ -8,7 +8,7 @@ When used in this part unless the context otherwise indicates—
 
 (c) The term "international application" means an application filed under the treaty.
 
-(d) The term "international application originating in the United States" means an international application filed in the Patent and Trademark Office when it is acting as a Receiving Office under the treaty, irrespective of whether or not the United States has been designated in that international application.
+(d) The term "international application originating in the United States" means an international application filed in the Patent andTrademark Office when it is acting as a Receiving Office under the treaty, irrespective of whether or not the United States has been designated in that international application.
 
 (e) The term "international application designating the United States" means an international application specifying the United States as a country in which a patent is sought, regardless where such international application is filed.
 
@@ -54,7 +54,7 @@ Pub. L. 98–622, title IV, §406(a), Nov. 8, 1984, 98 Stat. 3393, provided that
 
 Pub. L. 94–131, §11, Nov. 14, 1975, 89 Stat. 692, provided that:
 
-"(a) Section 1 of this Act \[enacting this part\] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effectivedate, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
+"(a) Section 1 of this Act \[enacting this part\] shall come into force on the same day as the entry into force of the Patent Cooperation Treaty with respect to the United States. It shall apply to international and national applications filed on and after this effective date, even though entitled to the benefit of an earlier filing date, and to patents issued on such applications.
 
 "(b) Sections 2 to 10 of this Act \[amending sections 6, 41, 42, 102, 104, 112, 113, 120, and 282 of this title\] shall take effect on the same day as section 1 of this Act \[enacting this part\] and shall apply to all applications for patent actually filed in the United States on and after this effective date, as well as to international applications where applicable.
 

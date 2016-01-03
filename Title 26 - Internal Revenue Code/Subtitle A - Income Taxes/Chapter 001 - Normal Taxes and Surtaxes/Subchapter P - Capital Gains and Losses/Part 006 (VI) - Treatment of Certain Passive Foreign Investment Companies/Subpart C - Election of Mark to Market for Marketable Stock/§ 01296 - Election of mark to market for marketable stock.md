@@ -106,7 +106,7 @@ Except as provided in regulations—
 
 #### (2) Treatment of certain dispositions
 
-&emsp;In any case in which a United States person is treated as owning stock in a passive foreign investment company by reason of paragraph (1)—
+&emsp;In any case in which a United States person is treated as owning stock in a passive foreigninvestment company by reason of paragraph (1)—
 
 &emsp;&emsp;(A) any disposition by the United States person or by any other person which results in the United States person being treated as no longer owning such stock, and
 
@@ -142,7 +142,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 #### (A) In general
 
-&emsp;&emsp;If a regulated investment company elects the application of this section with respectto any marketable stock in a corporation after the beginning of the taxpayer's holding period in such stock, then, with respect to such company's first taxable year for which such company elects the application of this section with respect to such stock—
+&emsp;&emsp;If a regulated investment company elects the application of this section with respect to any marketable stock in a corporation after the beginning of the taxpayer's holding period in such stock, then, with respect to such company's first taxable year for which such company elects the application of this section with respect to such stock—
 
 &emsp;&emsp;&emsp;(i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
 
@@ -178,7 +178,7 @@ A prior section 1296 was renumbered section 1297 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (i). Pub. L. 111–312 amended subsec. (i) to read as if amendment by Pub. L. 107–16, §542(e)(5)(C), had never been enacted. See 2001 Amendment note below.
+<b>2010</b>—Subsec. (i). Pub. L. 111–312 amended subsec. (i) to read as if amendment by Pub. L. 107–16, §542(e)(5)(C),had never been enacted. See 2001 Amendment note below.
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–311 substituted "section 851(b)(2)" for "paragraphs (2) and (3) of section 851(b)".
 

@@ -4,7 +4,7 @@
 
 In this section—
 
-&emsp;(1) the term "Assistant Administrator" means the Assistant Administrator of the Office of Women's Business Ownership established under subsection (g) of this section;
+&emsp;(1) the term "Assistant Administrator" means the Assistant Administrator of the Office of Women's Business Ownership established under subsection (g);
 
 &emsp;(2) the term "private nonprofit organization" means an entity that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
 
@@ -142,13 +142,13 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 &emsp;&emsp;&emsp;(i) an itemized cost breakdown of actual expenditures for costs incurred during the preceding year; and
 
-&emsp;&emsp;&emsp;(ii) documentation regarding the amount of matching assistance from non-Federal sources obtained and expended by the center during the preceding year in order to meet the requirements of subsection (c) of this section and, with respect to any in-kind contributions described in subsection (c)(2) of this section that were used to satisfy the requirements of subsection (c) of this section, verification of the existence and valuation of those contributions; and
+&emsp;&emsp;&emsp;(ii) documentation regarding the amount of matching assistance from non-Federal sources obtained and expended by the center during the preceding year in order to meet the requirements of subsection (c) and, with respect to any in-kind contributions described in subsection (c)(2) that were used to satisfy the requirements of subsection (c), verification of the existence and valuation of those contributions; and
 
 &emsp;&emsp;(B) analyze the results of each such examination and, based on that analysis, make a determination regarding the programmatic and financial viability of each women's business center.
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -156,7 +156,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 &emsp;&emsp;&emsp;(i) the center has failed to provide any information required to be provided under clause (i) or (ii) of paragraph (1)(A), or the information provided by the center is inadequate; or
 
-&emsp;&emsp;&emsp;(ii) the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j) of this section, or the information provided by the center is inadequate.
+&emsp;&emsp;&emsp;(ii) the center has failed to provide any information required to be provided by the center for purposes of the report of the Administration under subsection (j), or the information provided by the center is inadequate.
 
 #### (i) Contract authority
 
@@ -182,13 +182,13 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;(E) to the maximum extent practicable, increases or decreases in profits of assisted concerns; and
 
-&emsp;&emsp;(F) the most recent analysis, as required under subsection (h)(1)(B) of this section, and the subsequent determination made by the Administration under that subsection.
+&emsp;&emsp;(F) the most recent analysis, as required under subsection (h)(1)(B), and the subsequent determination made by the Administration under that subsection.
 
 #### (k) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated, to remain available until the expiration of thepilot program under subsection (l) of this section—
+&emsp;There is authorized to be appropriated, to remain available until the expiration of the pilot program under subsection (l)—
 
 &emsp;&emsp;(A) $12,000,000 for fiscal year 2000;
 
@@ -224,7 +224,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection (l) of this section:
+&emsp;&emsp;Subject to subparagraph (B), of the total amount made available under this subsection for a fiscal year, the following amounts shall be reserved for sustainability grants under subsection (l):
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2000, 17 percent.
 
@@ -236,7 +236,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (B) Use of unawarded funds for sustainability pilot program grants
 
-&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (l)(1)(B) of this section, the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b) of this section.
+&emsp;&emsp;If the amount reserved under subparagraph (A) for any fiscal year is not fully awarded to private nonprofit organizations described in subsection (l)(1)(B), the Administration is authorized to use the unawarded amount to fund additional women's business center sites or to increase funding of existing women's business center sites under subsection (b).
 
 #### (l) Repealed. Pub. L. 110–28, title VIII, §8305(b), May 25, 2007, 121 Stat. 210
 
@@ -296,7 +296,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;A women's business center may not disclose the name, address, or telephone number of anyindividual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
+&emsp;A women's business center may not disclose the name, address, or telephone number of any individual or small business concern receiving assistance under this section without the consent of such individual or small business concern, unless—
 
 &emsp;&emsp;(A) the Administrator is ordered to make such a disclosure by a court in any civil or criminal enforcement action initiated by a Federal or State agency; or
 

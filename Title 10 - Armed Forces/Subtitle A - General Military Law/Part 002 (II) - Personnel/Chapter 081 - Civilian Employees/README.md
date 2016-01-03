@@ -31,10 +31,14 @@
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
 | [1599c.](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md) | Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces. |
 | [1599d.](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md) | Financial management positions: authority to prescribe professional certification and credential standards. |
+| [1599e.](%C2%A7%2001599e%20-%20Probationary%20period%20for%20employees.md) | Probationary period for employees. |
+| [1599f.](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md) | United States Cyber Command recruitment and retention. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title XI, §§1105(a)(2), 1107(c), Nov. 25, 2015, 129 Stat. 1024, 1027, added items 1599e and 1599f.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title X, §1051(b), Dec. 31, 2011, 125 Stat. 1582, added item 1599d and struck out former item 1599d "Professional accounting positions: authority to prescribe certification and credential standards".
 
@@ -50,7 +54,7 @@ Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, 
 
 <b>2001</b>—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 "Foreign language proficiency: special pay".
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582,1596, and 1596a and struck out former item 1596 "Foreign language proficiency: special pay".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title XI, §1103(b)(2), Oct. 5, 1999, 113 Stat. 777, added item 1580.
 
@@ -120,7 +124,7 @@ Pub. L. 111–84, div. A, title XI, §1111, Oct. 28, 2009, 123 Stat. 2495, as am
 
 "(a)
 
-Availability of Funds.—Funds authorized to be appropriated for the Department of Defense that areavailable for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
+Availability of Funds.—Funds authorized to be appropriated for the Department of Defense that are available for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
 
 "(b)
 
@@ -240,7 +244,7 @@ Objective, merit-based principles for personnel decisions.—The Secretary shall
 
 &emsp;"(7)
 
-Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department ofDefense (as defined in section 115b(f) of title 10, United States Code) \[see now 10 U.S.C. 115b(h)\]."
+Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code) \[see now 10 U.S.C. 115b(h)\]."
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates
 
@@ -358,3 +362,5 @@ Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
 - [&sect; 01599c - Health care professionals enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured&#8230;](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md)
 - [&sect; 01599d - Financial management positions authority to prescribe professional certification and credential standards](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md)
+- [&sect; 01599e - Probationary period for employees](%C2%A7%2001599e%20-%20Probationary%20period%20for%20employees.md)
+- [&sect; 01599f - United States Cyber Command recruitment and retention](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md)

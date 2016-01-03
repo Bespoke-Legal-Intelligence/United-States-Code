@@ -14,7 +14,7 @@ Subject to the provisions of this section and other applicable law, the Director
 
 &emsp;(5) review the Plan not less than annually, and revise the Plan as appropriate; and
 
-&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDSactivities of the agencies, but does not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
+&emsp;(6) ensure that the Plan serves as a broad, binding statement of policies regarding AIDS activities of the agencies, but does not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the Plan.
 
 #### (b) Certain components of Plan
 

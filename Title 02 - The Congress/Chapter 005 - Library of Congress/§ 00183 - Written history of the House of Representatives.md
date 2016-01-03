@@ -32,7 +32,7 @@ In carrying out subsection (a), the Librarian of Congress shall take into accoun
 
 #### (3) Internet dissemination
 
-&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
+&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of excerpts ofthe history over the Internet via facilities maintained by the United States Government.
 
 #### (4) Member copies
 
@@ -50,7 +50,7 @@ The Librarian of Congress shall solicit and accept funding for the preparation, 
 
 #### References in Text
 
-This section and section 183a of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–99, which enacted this section and section 183a of this title and provisions set out as a note underthis section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
+This section and section 183a of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–99, which enacted this section and section 183a of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
 
 #### Amendments
 

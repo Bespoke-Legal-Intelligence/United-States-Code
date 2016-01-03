@@ -1,6 +1,6 @@
 ### §271. International Labor Organization; membership
 
-The President is authorized to accept membership for the Government of the United States ofAmerica in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
+The President is authorized to accept membership for the Government of the United States of America in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
 
 (June 19, 1934, ch. 676, §1, 48 Stat. 1182.)
 
@@ -46,7 +46,7 @@ Functions of the Committee
 
 1–201. The Committee shall monitor and assess the work of the ILO.
 
-1–202. The Committee shall make recommendations to the President or other officers of the Federal government, including the Secretary of Labor. With due recognition that in the ILO tripartite system, government, employer, and employee representatives retain the right to take positions independent of one another, the Committee shall exert its best efforts to develop a coordinated position as to United States policy on ILO issues.
+1–202. The Committee shall make recommendations to the President or other officers of the Federal government, including the Secretary of Labor. With due recognition that in the ILO tripartite system, government, employer, and employee representatives retain the right to take positions independent of one another,the Committee shall exert its best efforts to develop a coordinated position as to United States policy on ILO issues.
 
 1–203. The Committee shall also perform other functions relevant to relations with the ILO as requested by the President or the Committee Chairman.
 
@@ -74,7 +74,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30,1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -104,5 +104,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

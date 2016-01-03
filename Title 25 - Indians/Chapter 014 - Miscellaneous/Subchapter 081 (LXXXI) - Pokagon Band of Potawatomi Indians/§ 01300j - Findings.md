@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(6) Agents of the Federal Government in 1939 made an administrative decision not to provide services or extend the benefits of the Indian Reorganization Act \[25 U.S.C. 461 et seq.\] to any Indian tribes in Michigan's lower peninsula.
 
-&emsp;(7) Tribes elsewhere, including the Hannahville Indian Community in Michigan's upper peninsula, received services from the Federal Government and were extended the benefits of the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
+&emsp;(7) Tribes elsewhere, including the Hannahville Indian Community in Michigan's upperpeninsula, received services from the Federal Government and were extended the benefits of the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
 
 &emsp;(8) The Pokagon Band of Potawatomi Indians consists of at least 1,500 members who continue to reside close to their ancestral homeland in the St. Joseph River Valley in southwestern Michigan and northern Indiana.
 

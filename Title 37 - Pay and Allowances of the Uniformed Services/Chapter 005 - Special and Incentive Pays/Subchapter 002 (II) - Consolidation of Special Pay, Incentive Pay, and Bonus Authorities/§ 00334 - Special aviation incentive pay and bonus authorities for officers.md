@@ -2,17 +2,25 @@
 
 (a)
 
-Aviation Incentive Pay.—The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
+Aviation Incentive Pay.—
 
-&emsp;(1) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title;
+&emsp;(1)
 
-&emsp;(2) maintains, or is in training leading to, an aeronautical rating or designation that qualifies the officer to engage in operational flying duty or proficiency flying duty;
+Incentive pay authorized.—The Secretary concerned may pay aviation incentive pay under this section to an officer in a regular or reserve component of a uniformed service who—
 
-&emsp;(3) engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
+&emsp;&emsp;(A) is entitled to basic pay under section 204 of this title or compensation under section 206 of this title;
 
-&emsp;(4) engages in or remains in aviation service for a specified period; and
+&emsp;&emsp;(B) maintains, or is in training leading to, an aeronautical rating or designation that qualifies the officer to engage in operational flying duty or proficiency flying duty;
 
-&emsp;(5) meets such other criteria as the Secretary concerned determines appropriate.
+&emsp;&emsp;(C) engages in, or is in training leading to, frequent and regular performance of operational flying duty or proficiency flying duty;
+
+&emsp;&emsp;(D) engages in or remains in aviation service for a specified period; and
+
+&emsp;&emsp;(E) meets such other criteria as the Secretary concerned determines appropriate.
+
+&emsp;(2)
+
+Officers not currently engaged in flying duty.—The Secretary concerned may pay aviation incentive pay under this section to an officer who is otherwise qualified for such pay but who is not currently engaged in the performance of operational flying duty or proficiency flying duty if the Secretary determines, under regulations prescribed under section 374 of this title, that payment of aviation incentive pay to that officer is in the best interests of the service.
 
 (b)
 
@@ -34,9 +42,17 @@ Maximum Amount and Method of Payment.—
 
 Maximum amount.—The Secretary concerned shall determine the amount of a bonus or incentive pay to be paid under this section, except that—
 
-&emsp;&emsp;(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed $850 per month; and
+&emsp;&emsp;(A) aviation incentive pay under subsection (a) shall be paid at a monthly rate, not to exceed—
 
-&emsp;&emsp;(B) an aviation bonus under subsection (b) may not exceed $25,000 for each 12-month period of obligated service agreed to under subsection (d).
+&emsp;&emsp;&emsp;(i) $1,000 per month for officers performing qualifying flying duty relating to remotely piloted aircraft (RPA); or
+
+&emsp;&emsp;&emsp;(ii) $850 per month for officers performing other qualifying flying duty; and
+
+&emsp;&emsp;(B) an aviation bonus under subsection (b) may not exceed, for each 12-month period of obligated service agreed to under subsection (d)—
+
+&emsp;&emsp;&emsp;(i) $35,000 for officers performing qualifying flying duty relating to remotely piloted aircraft; or
+
+&emsp;&emsp;&emsp;(ii) $25,000 for officers performing other qualifying flying duty.
 
 &emsp;(2)
 
@@ -68,11 +84,11 @@ Relationship to Other Pay and Allowances.—
 
 &emsp;(1)
 
-Aviation incentive pay.—Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353 of this title for the same skill and period of service.
+Aviation incentive pay.—Aviation incentive pay paid to an officer under subsection (a) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 351(a)(2) or 353(a) of this title for the same skill and period of service.
 
 &emsp;(2)
 
-Aviation bonus.—An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a payment under such subsection and section 332 or 353 of this title for the same skill and period of service.
+Aviation bonus.—An aviation bonus paid to an officer under subsection (b) shall be in addition to any other pay and allowance to which the officer is entitled, except that an officer may not receive a bonus payment under such subsection and section 332 or 353(b) of this title for the same skill and period of service.
 
 (g)
 
@@ -82,7 +98,7 @@ Repayment.—An officer who receives aviation incentive pay or an aviation bonus
 
 Definitions.—In this section:
 
-&emsp;(1) The term "aviation service" means service performed by an officer in a regular or reserve component (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+&emsp;(1) The term "aviation service" means service performed by an officer in a regular or reserve component while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
 &emsp;(2) The term "operational flying duty" means flying performed under competent orders by rated or designated regular or reserve component officers while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
@@ -92,11 +108,25 @@ Definitions.—In this section:
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2015.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2016.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 167; amended Pub. L. 110–417, \[div. A\], title VI, §618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(4), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(4), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(4), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(4), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(4), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §§614(4), 617(a)–(d), Nov. 25, 2015, 129 Stat. 839, 840.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §617(a), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and realigned margins, and added par. (2).
+
+Subsec. (c)(1)(A). Pub. L. 114–92, §617(c)(1), substituted "exceed—" for "exceed $850 per month; and" and added cls. (i) and (ii).
+
+Subsec. (c)(1)(B). Pub. L. 114–92, §617(c)(2), substituted ", for each 12-month period of obligated service agreed to under subsection (d)—" for "$25,000 for each 12-month period of obligated service agreed to under subsection (d)." and added cls. (i) and (ii).
+
+Subsec. (f)(1). Pub. L. 114–92, §617(d)(1), substituted "353(a)" for "353".
+
+Subsec. (f)(2). Pub. L. 114–92, §617(d)(2), substituted "a bonus payment" for "a payment" and "353(b)" for "353".
+
+Subsec. (h)(1). Pub. L. 114–92, §617(b), struck out "(except a flight surgeon or other medical officer)" after "regular or reserve component".
+
+Subsec. (i). Pub. L. 114–92, §614(4), substituted "December 31, 2016" for "December 31, 2015".
 
 <b>2014</b>—Subsec. (i). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 

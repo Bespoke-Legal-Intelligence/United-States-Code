@@ -30,7 +30,7 @@
 
 (4) The Administrator shall acquire any non-Federal resources to replace Federal base system resources only in accordance with the provisions of this section. The Administrator shall include in the contracts for the acquisition of any such non-Federal replacement resources provisions which will enable him to ensure that such non-Federal replacement resources are developed and operated in a manner consistent with the considerations specified in section 839b(e)(2) of this title.
 
-(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercialconsumer to reduce load, pursuant to subsection (a)(1) of this section.
+(5) Notwithstanding any acquisition of resources pursuant to this section, the Administrator shall not reduce his efforts to achieve conservation and to acquire renewable resources installed by a residential or small commercial consumer to reduce load, pursuant to subsection (a)(1) of this section.
 
 #### (c) Procedure for acquiring major resources, implementing conservation measures, paying or reimbursing investigation and preconstruction expenses, or granting billing credits
 
@@ -80,7 +80,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 #### (e) Effectuation of priorities; use of customers and local entities
 
-(1) In order to effectuate the priority given to conservation measures and renewable resourcesunder this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
+(1) In order to effectuate the priority given to conservation measures and renewable resources under this chapter, the Administrator shall, to the maximum extent practicable, make use of his authorities under this chapter to acquire conservation measures and renewable resources, to implement conservation measures, and to provide credits and technical and financial assistance for the development and implementation of such resources and measures (including the funding of, and the securing of debt for, expenses incurred during the investigation and preconstruction of resources, as authorized in subsection (f) of this section).
 
 (2) To the extent conservation measures or acquisition of resources require direct arrangements with consumers, the Administrator shall make maximum practicable use of customers and local entities capable of administering and carrying out such arrangements.
 
@@ -164,11 +164,11 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 (2) The Administrator is authorized and directed to investigate periodically opportunities for mutually beneficial interregional exchanges of electric power that reduce the need for additional generation or generating capacity in the Pacific Northwest and the regions with which such exchanges may occur. The Council shall take into consideration in formulating a plan such investigations.
 
-(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of thissubsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
+(3) After the Administrator submits a report to Congress pursuant to paragraph (5) of this subsection, the Administrator is authorized to acquire resources consistent with such investigations and consistent with the plan or, if no plan is in effect, with the priorities of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title. Such acquisitions shall be in accordance with the provisions of this subsection.
 
 (4) The Administrator shall conduct the investigations and the acquisitions, if any, authorized under this subsection with the assistance of other Federal agencies as may be appropriate.
 
-(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resources under the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
+(5) No later than July 1, 1981, the Administrator shall submit to the Congress a report of the results of the investigations undertaken pursuant to this subsection, together with the prospects for obtaining additional resourcesunder the authority granted by this subsection and for reductions in generation or generating capacity through exchanges.
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 

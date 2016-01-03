@@ -34,7 +34,7 @@ The personnel of the United States Customs Service shall perform such duties as 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after October 13, 2006, the Commissioner shall transfer the assets, functions, and personnel of the Office of Regulations and Rulings to the Office of International Trade established pursuant to paragraph (1) and the Office of Regulations and Rulings shall be abolished.
+&emsp;&emsp;&emsp;Not later than 90 days after October 13, 2006, the Commissioner shall transfer theassets, functions, and personnel of the Office of Regulations and Rulings to the Office of International Trade established pursuant to paragraph (1) and the Office of Regulations and Rulings shall be abolished.
 
 #### (ii) Limitation on funds
 

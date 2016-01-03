@@ -44,7 +44,7 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 #### (3) Mitigating factor
 
-&emsp;Where applicable, the head of an executive agency may consider whether the contractoror grantee had a plan in place under section 7104a of this title, and was in compliance with that plan at the time of the violation, as a mitigating factor in determining which remedies, if any, should apply.
+&emsp;Where applicable, the head of an executive agency may consider whether the contractor or grantee had a plan in place under section 7104a of this title, and was in compliance with that plan at the time of the violation, as a mitigating factor in determining which remedies, if any, should apply.
 
 #### (4) Aggravating factor
 

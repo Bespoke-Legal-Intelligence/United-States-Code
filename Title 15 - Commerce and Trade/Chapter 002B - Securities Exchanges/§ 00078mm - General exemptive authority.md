@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from any provision or provisions of this chapter or of any rule or regulation thereunder, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
+&emsp;Except as provided in subsection (b), but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from any provision or provisions of this chapter or of any rule or regulation thereunder, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
 #### (2) Procedures
 
@@ -22,7 +22,7 @@ Unless the Commission is expressly authorized by any provision described in this
 
 #### Amendment of Section
 
-<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or</i><i>regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
+<i>Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.</i>
 
 #### References in Text
 

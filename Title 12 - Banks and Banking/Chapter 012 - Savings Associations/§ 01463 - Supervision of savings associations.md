@@ -14,7 +14,7 @@
 
 #### (2) Regulations for savings associations
 
-&emsp;The Comptroller may prescribe regulations with respect to savings associations, as theComptroller determines to be appropriate to carry out the purposes of this chapter.
+&emsp;The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this chapter.
 
 #### (3) Safe and sound housing credit to be encouraged
 
@@ -88,7 +88,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 &emsp;&emsp;&emsp;&emsp;(II) a game, race, or contest; or
 
-&emsp;&emsp;&emsp;&emsp;(III) any record or tabulation of the result of 1 or more events in which any participant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
+&emsp;&emsp;&emsp;&emsp;(III) any record or tabulation of the result of 1 or more events in which anyparticipant has no interest except for the bearing that event has on the possibility that the participant may become a winner.
 
 #### (C) Lottery ticket
 
@@ -100,7 +100,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (4) Exception for State lotteries
 
-&emsp;Paragraphs (1) and (2) shall not apply with respect to any savings association acceptingfunds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
+&emsp;Paragraphs (1) and (2) shall not apply with respect to any savings association accepting funds from, or performing any lawful services for, any State operating a lottery, or any officer or employee of such a State who is charged with administering the lottery.
 
 #### (5) Regulations
 
@@ -156,7 +156,7 @@ Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted "Comptroller an
 
 Subsec. (b). Pub. L. 111–203, §369(4)(B)(ii), substituted "Comptroller" for "Director" wherever appearing.
 
-Subsec. (b)(2). Pub. L. 111–203, §369(4)(B)(i), inserted "and" at end of subpar. (A), substituted a period for "; and" at end of subpar. (B), and struck out subpar. (C) which read as follows: "prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989)."
+Subsec. (b)(2). Pub. L. 111–203, §369(4)(B)(i), inserted "and" at end of subpar. (A), substituted a period for "; and" at end of subpar. (B), and struck out subpar. (C) which read as follows: "prior to January 1, 1994, requirefull compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989)."
 
 Subsec. (c). Pub. L. 111–203, §369(4)(C), substituted "The regulations of the Comptroller and the policies of the Comptroller and the Corporation" for "All regulations and policies of the Director" and struck out "of the Currency" before "for national".
 

@@ -4,7 +4,7 @@
 
 In order to comply with and carry out the provisions of the Colorado River Compact, the Upper Colorado River Basin Compact, and the Mexican Water Treaty, the Secretary shall propose criteria for the coordinated long-range operation of the reservoirs constructed and operated under the authority of the Colorado River Storage Project Act \[43 U.S.C. 620 et seq.\], the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\], and the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\]. To effect in part the purposes expressed in this paragraph, the criteria shall make provision for the storage of water in storage units of the Colorado River storage project and releases of water form Lake Powell in the following listed order of priority:
 
-&emsp;(1) releases to supply one-half the deficiency described in article III(c) of the Colorado River Compact, if any such deficiency existsand is chargeable to the States of the Upper Division, but in any event such releases, if any, shall not be required in any year that the Secretary makes the determination and issues the proclamation specified in section 1512 of this title;
+&emsp;(1) releases to supply one-half the deficiency described in article III(c) of the Colorado River Compact, if any such deficiency exists and is chargeable to the States of the Upper Division, but in any event such releases, if any, shall not be required in any year that the Secretary makes the determination and issues the proclamation specified in section 1512 of this title;
 
 &emsp;(2) releases to comply with article III(d) of the Colorado River Compact, less such quantities of water delivered into the Colorado River below Lee Ferry to the credit of the States of the Upper Division from other sources; and
 

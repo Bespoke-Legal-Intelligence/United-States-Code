@@ -32,7 +32,7 @@ This chapter, referred to in subsec. (b), was in the original "this title", mean
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–555, title I, §121, Dec. 21, 2000, 114 Stat. 2766, provided that: "This subtitle \[subtitle B (§§121, 122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note undersection 5107 of this title\] may be cited as the 'Atlantic Coastal Fisheries Act of 2000'."
+Pub. L. 106–555, title I, §121, Dec. 21, 2000, 114 Stat. 2766, provided that: "This subtitle \[subtitle B (§§121, 122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5107 of this title\] may be cited as the 'Atlantic Coastal Fisheries Act of 2000'."
 
 #### Short Title
 

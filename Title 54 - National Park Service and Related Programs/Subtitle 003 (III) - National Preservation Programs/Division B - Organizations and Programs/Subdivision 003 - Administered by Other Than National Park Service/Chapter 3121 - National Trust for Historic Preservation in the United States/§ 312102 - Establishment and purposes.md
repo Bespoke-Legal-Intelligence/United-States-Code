@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—To further the policy enunciated in chapter 3201 of this title, and tofacilitate public participation in the preservation of sites, buildings, and objects of national significance or interest, there is established a charitable, educational, and nonprofit corporation to be known as the National Trust for Historic Preservation in the United States.
+Establishment.—To further the policy enunciated in chapter 3201 of this title, and to facilitate public participation in the preservation of sites, buildings, and objects of national significance or interest, there is established a charitable, educational, and nonprofit corporation to be known as the National Trust for Historic Preservation in the United States.
 
 (b)
 

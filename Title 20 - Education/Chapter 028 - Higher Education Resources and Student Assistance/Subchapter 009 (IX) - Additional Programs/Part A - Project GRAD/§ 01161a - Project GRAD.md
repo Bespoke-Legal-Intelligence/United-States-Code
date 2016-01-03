@@ -122,7 +122,7 @@ Of the funds made available to carry out this section, not more than five percen
 
 &emsp;&emsp;(A) be conducted using a rigorous research design for determining the effectiveness of the Project GRAD programs funded under this section; and
 
-&emsp;&emsp;(B) compare reading and mathematics achievement, secondary school graduation,and postsecondary attendance and completion rates of students who participate in a Project GRAD program funded under this section with those indicators for students of similar backgrounds who do not participate in such program.
+&emsp;&emsp;(B) compare reading and mathematics achievement, secondary school graduation, and postsecondary attendance and completion rates of students who participate in a Project GRAD program funded under this section with those indicators for students of similar backgrounds who do not participate in such program.
 
 #### (2) Evaluation by contractor and subcontractors
 

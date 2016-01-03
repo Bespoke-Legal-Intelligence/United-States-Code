@@ -36,7 +36,7 @@ For purposes of this title—
 
 #### (B) Short-term Government obligation
 
-&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+&emsp;&emsp;For purposes of this paragraph, the term "short-term Government obligation" means any obligation of the United States or any of its possessions, or of a State or any politicalsubdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
 
 #### (C) Acquisition discount
 
@@ -76,7 +76,7 @@ For purposes of this title—
 
 #### (C) Ratable share
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is anamount which bears the same ratio to such discount as—
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
 
 &emsp;&emsp;&emsp;(i) the number of days which the taxpayer held the obligation, bears to
 
@@ -128,7 +128,7 @@ For purposes of this title—
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I,§1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049.)
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §44, July 18, 1984, 98 Stat. 559, as amended by Pub. L. 98–612, §2, Oct. 31, 1984,98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
+Pub. L. 98–369, div. A, title I, §44, July 18, 1984, 98 Stat. 559, as amended by Pub. L. 98–612, §2, Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
 
 "(a)
 
@@ -464,7 +464,7 @@ Interest deferral rules.—Section 1277 of such Code (as added by section 41) sh
 
 "(d)
 
-Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P ofchapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
+Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P of chapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
 
 "(e) 5-
 
@@ -532,7 +532,7 @@ Accrual basis income.—For purposes of this paragraph, the term 'accrual basis 
 
 "(f)
 
-Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issued after September 3, 1982, and acquired after March 1, 1984.
+Treatment of Original Issue Discount on Tax-Exempt Obligations.—Section 1288 of such Code (as added by section 41) shall apply to obligations issuedafter September 3, 1982, and acquired after March 1, 1984.
 
 "(g)
 

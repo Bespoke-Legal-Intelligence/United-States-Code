@@ -70,7 +70,7 @@ In general.—The district court shall enter such orders as may be necessary to 
 
 &emsp;(2)
 
-Process.—Process to enforce a judgment under this section shall be in accordance with rule 69(a) of the Federal Rules of Civil Procedure.
+Process.—Process to enforce a judgment under this section shall be in accordance withrule 69(a) of the Federal Rules of Civil Procedure.
 
 &emsp;(3)
 

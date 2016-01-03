@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(ii) personnel training and retraining directly related to the provision of those services (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions); and
 
-&emsp;&emsp;(iii) conferences or workshops, and training or retraining through grants to nonprofit organizations within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986 or to individuals with social services expertise, or through financial assistance to individuals participating in such conferences, workshops, and training or retraining (and this clause shall apply with respect to all persons involved in the delivery of such services).
+&emsp;&emsp;(iii) conferences or workshops, and training or retraining through grants to nonprofit organizations within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986 or to individuals with socialservices expertise, or through financial assistance to individuals participating in such conferences, workshops, and training or retraining (and this clause shall apply with respect to all persons involved in the delivery of such services).
 
 #### (b) Funding requirements
 
@@ -78,7 +78,7 @@ Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for pay
 
 #### Payments to States for Fiscal Period Beginning July 1, 1976, and Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, 1978, and 1979, Computation Amounts, Limitations, Etc.
 
-Pub. L. 94–401, §3, Sept. 7, 1976, 90 Stat. 1215, as amended by Pub. L. 95–171, §1(a), Nov. 12, 1977, 91 Stat. 1353; Pub. L. 95–600, title VIII, §801(b), Nov. 6, 1978, 92 Stat. 2944; Pub. L. 96–178, §3(b)–(f), Jan. 2, 1980, 93 Stat. 1296, provided for computation of amounts of payments to States under this subchapter for the fiscal period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979, limitations on such amounts, and a limit on the total amount of Federal payments made to States in any such fiscal year under this subchapter.
+Pub. L. 94–401, §3, Sept. 7, 1976, 90 Stat. 1215, as amended by Pub. L. 95–171, §1(a), Nov. 12, 1977, 91 Stat.1353; Pub. L. 95–600, title VIII, §801(b), Nov. 6, 1978, 92 Stat. 2944; Pub. L. 96–178, §3(b)–(f), Jan. 2, 1980, 93 Stat. 1296, provided for computation of amounts of payments to States under this subchapter for the fiscal period beginning July 1, 1976, and ending Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979, limitations on such amounts, and a limit on the total amount of Federal payments made to States in any such fiscal year under this subchapter.
 
 #### Requirements of Child Day Care Services
 

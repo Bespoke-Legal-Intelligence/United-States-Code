@@ -6,7 +6,7 @@ In furtherance of the purposes of the Wilderness Act (78 Stat. 890; 16 U.S.C. 11
 
 #### (b) Administration
 
-Subject to valid existing rights, the Rattlesnake Wilderness as designated by this subchapter shall be administered by the Secretary of Agriculture, hereafter referred to as the Secretary, in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\] governing areas designated by that Act as wilderness: <i>Provided</i>, That any reference in such provisions to the effective date of the Wilderness Act shall bedeemed to be a reference to the effective date of this subchapter.
+Subject to valid existing rights, the Rattlesnake Wilderness as designated by this subchapter shall be administered by the Secretary of Agriculture, hereafter referred to as the Secretary, in accordance with the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\] governing areas designated by that Act as wilderness: <i>Provided</i>, That any reference in such provisions to the effective date of the Wilderness Act shall be deemed to be a reference to the effective date of this subchapter.
 
 (Pub. L. 96–476, §2, Oct. 19, 1980, 94 Stat. 2271.)
 

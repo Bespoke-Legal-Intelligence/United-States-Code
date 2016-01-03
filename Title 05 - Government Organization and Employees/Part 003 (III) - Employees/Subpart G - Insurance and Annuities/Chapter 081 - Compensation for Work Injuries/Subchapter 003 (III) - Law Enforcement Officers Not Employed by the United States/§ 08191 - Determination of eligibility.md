@@ -6,7 +6,7 @@ The benefits of this subchapter are available as provided in this subchapter to 
 
 &emsp;&emsp;(A) for the commission of a crime against the United States, or
 
-&emsp;&emsp;(B) who at that time was sought by a law enforcement authority of the United States for the commission of a crime against the United States, or
+&emsp;&emsp;(B) who at that time was sought by a law enforcement authority of the United Statesfor the commission of a crime against the United States, or
 
 &emsp;&emsp;(C) who at that time was sought as a material witness in a criminal proceeding instituted by the United States; or
 

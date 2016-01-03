@@ -6,7 +6,11 @@ Definitions.—In this section, the following definitions shall apply:
 
 &emsp;(1)
 
-Recipient.—The term "recipient" means a designated recipient or a State that receives a grant under this section directly.
+Recipient.—The term "recipient" means—
+
+&emsp;&emsp;(A) a designated recipient or a State that receives a grant under this section directly; or
+
+&emsp;&emsp;(B) a State or local governmental entity that operates a public transportation service.
 
 &emsp;(2)
 
@@ -250,7 +254,21 @@ Measures.—The performance measures to be considered in the report under paragr
 
 &emsp;&emsp;(D) other measures, as the Secretary determines is appropriate.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 807; Pub. L. 105–178, title III, §3013(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(2), 3012(a), Aug. 10, 2005, 119 Stat. 1544, 1589; Pub. L. 112–141, div. B, §20009, July 6, 2012, 126 Stat. 675.)
+(i)
+
+Best Practices.—The Secretary shall collect from, review, and disseminate to public transportation agencies—
+
+&emsp;(1) innovative practices;
+
+&emsp;(2) program models;
+
+&emsp;(3) new service delivery options;
+
+&emsp;(4) findings from activities under subsection (h); and
+
+&emsp;(5) transit cooperative research program reports.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 807; Pub. L. 105–178, title III, §3013(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(2), 3012(a), Aug. 10, 2005, 119 Stat. 1544, 1589; Pub. L. 112–141, div. B, §20009, July 6, 2012, 126 Stat. 675; Pub. L. 114–94, div. A, title III, §3006(a), Dec. 4, 2015, 129 Stat. 1462.)
 
 Historical and Revision Notes
 
@@ -344,6 +362,10 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §3006(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The term 'recipient' means a designated recipient or a State that receives a grant under this section directly."
+
+Subsec. (i). Pub. L. 114–94, §3006(a)(2), added subsec. (i).
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to formula grants for special needs of elderly individuals and individuals with disabilities.
 
 <b>2005</b>—Pub. L. 109–59, §3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
@@ -352,9 +374,77 @@ Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted "Public" for "Mass".
 
 <b>1998</b>—Pub. L. 105–178 substituted "Formula grants" for "Grants" in section catchline.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Pilot Program for Innovative Coordinated Access and Mobility
+
+Pub. L. 114–94, div. A, title III, §3006(b), Dec. 4, 2015, 129 Stat. 1462, provided that:
+
+"(1)
+
+Definitions.—In this subsection—
+
+&emsp;"(A) the term 'eligible project' has the meaning given the term 'capital project' in section 5302 of title 49, United States Code; and
+
+&emsp;"(B) the term 'eligible recipient' means a recipient or subrecipient, as those terms are defined in section 5310 of title 49, United States Code.
+
+"(2)
+
+General authority.—The Secretary \[of Transportation\] may make grants under this subsection to eligible recipients to assist in financing innovative projects for the transportation disadvantaged that improve the coordination of transportation services and nonemergency medical transportation services, including—
+
+&emsp;"(A) the deployment of coordination technology;
+
+&emsp;"(B) projects that create or increase access to community One-Call/One-Click Centers; and
+
+&emsp;"(C) such other projects as determined appropriate by the Secretary.
+
+"(3)
+
+Application.—An eligible recipient shall submit to the Secretary an application that, at a minimum, contains—
+
+&emsp;"(A) a detailed description of the eligible project;
+
+&emsp;"(B) an identification of all eligible project partners and their specific role in the eligible project, including—
+
+&emsp;&emsp;"(i) private entities engaged in the coordination of nonemergency medical transportation services for the transportation disadvantaged; or
+
+&emsp;&emsp;"(ii) nonprofit entities engaged in the coordination of nonemergency medical transportation services for the transportation disadvantaged;
+
+&emsp;"(C) a description of how the eligible project would—
+
+&emsp;&emsp;"(i) improve local coordination or access to coordinated transportation services;
+
+&emsp;&emsp;"(ii) reduce duplication of service, if applicable; and
+
+&emsp;&emsp;"(iii) provide innovative solutions in the State or community; and
+
+&emsp;"(D) specific performance measures the eligible project will use to quantify actual outcomes against expected outcomes.
+
+"(4)
+
+Report.—The Secretary shall make publicly available an annual report on the pilot program carriedout under this subsection for each fiscal year, not later than December 31 of the calendar year in which that fiscal year ends. The report shall include a detailed description of the activities carried out under the pilot program, and an evaluation of the program, including an evaluation of the performance measures described in paragraph (3)(D).
+
+"(5)
+
+Government share of costs.—
+
+&emsp;"(A)
+
+In general.—The Government share of the cost of an eligible project carried out under this subsection shall not exceed 80 percent.
+
+&emsp;"(B)
+
+Non-government share.—The non-Government share of the cost of an eligible project carried out under this subsection may be derived from in-kind contributions.
+
+"(6)
+
+Rule of construction.—For purposes of this subsection, nonemergency medical transportation services shall be limited to services eligible under Federal programs other than programs authorized under chapter 53 of title 49, United States Code."
 
 #### Elderly Individuals and Individuals With Disabilities Pilot Program
 

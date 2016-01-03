@@ -10,11 +10,11 @@ It shall be unlawful for any affiliated person or promoter of or principal under
 
 &emsp;(3) to borrow money or other property from such registered company or from any company controlled by such registered company (unless the borrower is controlled by the lender) except as permitted in section 80a–21(b) of this title; or
 
-&emsp;(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
+&emsp;(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultationwith and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
 
 #### (b) Application for exemption of proposed transaction from certain restrictions
 
-Notwithstanding subsection (a) of this section, any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of said subsection. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
+Notwithstanding subsection (a), any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of said subsection. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
 
 &emsp;(1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching on the part of any person concerned;
 
@@ -24,11 +24,11 @@ Notwithstanding subsection (a) of this section, any person may file with the Com
 
 #### (c) Sale or purchase of merchandise from any company or furnishing of services incident to lessor-lessee relationship
 
-Notwithstanding subsection (a) of this section, a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
+Notwithstanding subsection (a), a person may, in the ordinary course of business, sell to or purchase from any company merchandise or may enter into a lessor-lessee relationship with any person and furnish the services incident thereto.
 
 #### (d) Joint or joint and several participation with company in transactions
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting asprincipal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company (other than a company of the character described in section 80a–12(d)(3) (A) and (B) of this title), or any affiliated person of such a person or principal underwriter, acting as principal to effect any transaction in which such registered company, or a company controlled by such registered company, is a joint or a joint and several participant with such person, principal underwriter, or affiliated person, in contravention of such rules and regulations as the Commission may prescribe for the purpose of limiting or preventing participation by such registered or controlled company on a basis different from or less advantageous than that of such other participant. Nothing contained in this subsection shall be deemed to preclude any affiliated person from acting as manager of any underwriting syndicate or other group in which such registered or controlled company is a participant and receiving compensation therefor.
 
 #### (e) Acceptance of compensation, commissions, fees, etc.
 
@@ -48,13 +48,13 @@ It shall be unlawful for any affiliated person of a registered investment compan
 
 (4) No member of a national securities exchange which trades in securities for its own account may act as custodian except in accordance with rules and regulations prescribed by the Commission for the protection of investors.
 
-(5) If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody of such a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) of this section covering the officers or employees authorized to draw on such account or accounts.
+(5) If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody of such a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) covering the officers or employees authorized to draw on such account or accounts.
 
 (6) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person, promoter, organizer, or sponsor of, or principal underwriter for, a registered management company, may serve as custodian of that registered management company.
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
-The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officeror employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
+The Commission is authorized to require by rules and regulations or orders for the protection of investors that any officer or employee of a registered management investment company who may singly, or jointly with others, have access to securities or funds of any registered company, either directly or through authority to draw upon such funds or to direct generally the disposition of such securities (unless the officer or employee has such access solely through his position as an officer or employee of a bank) be bonded by a reputable fidelity insurance company against larceny and embezzlement in such reasonable minimum amounts as the Commission may prescribe.
 
 #### (h) Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc.
 
@@ -98,7 +98,7 @@ Subsec. (j). Pub. L. 91–547, §9(c), added subsec. (j).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1999 Amendment
 

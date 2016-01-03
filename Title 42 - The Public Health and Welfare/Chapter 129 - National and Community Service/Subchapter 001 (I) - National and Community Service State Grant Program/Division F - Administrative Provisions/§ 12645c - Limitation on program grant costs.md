@@ -2,7 +2,7 @@
 
 #### (a) Limitation on grant amounts
 
-Except as otherwise provided by this section, the amount of funds approved by the Corporation for a grant to operate a program authorizedunder the national service laws, for supporting individuals serving in approved national service positions, may not exceed $18,000 per full-time equivalent position.
+Except as otherwise provided by this section, the amount of funds approved by the Corporation for a grant to operate a program authorized under the national service laws, for supporting individuals serving in approved national service positions, may not exceed $18,000 per full-time equivalent position.
 
 #### (b) Costs subject to limitation
 

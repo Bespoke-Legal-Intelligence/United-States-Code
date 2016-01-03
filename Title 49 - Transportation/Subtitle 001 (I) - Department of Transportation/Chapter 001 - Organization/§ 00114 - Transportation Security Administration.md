@@ -282,7 +282,7 @@ In general.—The Secretary of Homeland Security shall develop, prepare, impleme
 
 &emsp;&emsp;(A) a National Strategy for Transportation Security; and
 
-&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
+&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime,pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
 
 &emsp;(2)
 
@@ -290,7 +290,7 @@ Role of secretary of transportation.—The Secretary of Homeland Security shall 
 
 &emsp;(3)
 
-Contents of national strategy for transportation security.—The NationalStrategy for Transportation Security shall include the following:
+Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
 
 &emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
@@ -418,7 +418,7 @@ Transportation security information.—The term "transportation security informa
 
 &emsp;(2)
 
-Establishment of plan.—The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Plan from private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485).
+Establishment of plan.—The Secretary of Homeland Security, in consultation with the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485), the Secretary of Transportation, and public and private stakeholders, shall establish a Transportation Security Information Sharing Plan. In establishing the Plan, the Secretary shall gather input on the development of the Planfrom private and public stakeholders and the program manager of the information sharing environment established under section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485).
 
 &emsp;(3)
 
@@ -648,11 +648,11 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 &emsp;&emsp;(C) $12,000,000 for fiscal year 2010.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, titleXVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182.)
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (k), is thedate of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (k), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 The Inspector General Act of 1978, referred to in subsec. (o), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -726,6 +726,22 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
+#### Safeguarding and Disposal of Personal Information of Registered Traveler Program Participants
+
+Pub. L. 114–4, title V, §536, Mar. 4, 2015, 129 Stat. 67, provided that:
+
+"(a) Any company that collects or retains personal information directly from any individual who participates in the Registered Traveler or successor program of the Transportation Security Administration shall hereafter safeguard and dispose of such information in accordance with the requirements in—
+
+&emsp;"(1) the National Institute for Standards and Technology Special Publication 800–30, entitled 'Risk Management Guide for Information Technology Systems';
+
+&emsp;"(2) the National Institute for Standards and Technology Special Publication 800–53, Revision 3, entitled 'Recommended Security Controls for Federal Information Systems and Organizations'; and
+
+&emsp;"(3) any supplemental standards established by the Administrator of the Transportation Security Administration (referred to in this section as the 'Administrator').
+
+"(b) The airport authority or air carrier operator that sponsors the company under the Registered Traveler program shall hereafter be known as the 'Sponsoring Entity'.
+
+"(c) The Administrator shall hereafter require any company covered by subsection (a) to provide, not later than 30 days after the date of enactment of this Act \[Mar. 4, 2015\], to the Sponsoring Entity written certification that the procedures used by the company to safeguard and dispose of information are in compliance with the requirements under subsection (a). Such certification shall include a description of the procedures used by the company to comply with such requirements."
+
 #### Registered Traveler Programs and Biometrically-Secure Cards
 
 Pub. L. 110–161, div. E, title V, §571, Dec. 26, 2007, 121 Stat. 2093, provided that: "Effective no later than ninety days after the date of enactment of this Act \[Dec. 26, 2007\], the Transportation Security Administration shall permit approved members of Registered Traveler programs to satisfy fully the required identity verification procedures at security screening checkpoints by presenting a biometrically-secure Registered Traveler card in lieu of the government-issued photo identification document required of non-participants: <i>Provided</i>, That if their identity is not confirmed biometrically, the standard identity and screening procedures will apply: <i>Provided further</i>, That if the Assistant Secretary (Transportation Security Administration) determines this is a threat to civil aviation, then the Assistant Secretary (Transportation Security Administration) shall notify the Committees on Appropriations of the Senate and House of Representatives five days in advance of such determination and require Registered Travelers to present government-issued photo identification documents in conjunction with a biometrically-secure Registered Traveler card."
@@ -770,7 +786,7 @@ Aviation Security.—Notwithstanding any provision of law imposing a limitation 
 
 #### Lease of Property to Transportation Security Administration Employees
 
-Pub. L. 109–90, title V, §514, Oct. 18, 2005, 119 Stat. 2084, provided that: "Notwithstanding section 3302 of title 31, United States Code, for fiscal year 2006 and thereafter, the Administrator of the Transportation Security Administration may impose a reasonable charge for the lease of real and personal property to Transportation Security Administration employees and for use by Transportation Security Administration employees and may credit amounts received to the appropriation or fund initially charged for operating and maintaining the property, which amounts shall be available, without fiscal year limitation, for expenditure for property management, operation, protection, construction, repair, alteration, and related activities."
+Pub. L. 109–90, title V, §514, Oct. 18, 2005, 119 Stat. 2084, provided that: "Notwithstanding section 3302 of title 31, United States Code, for fiscal year 2006 and thereafter, the Administrator of the Transportation Security Administration may impose a reasonable charge for the lease of real and personal property to Transportation Security Administration employees and for use by Transportation Security Administration employees and may credit amounts received to the appropriation or fund initially charged for operating and maintainingthe property, which amounts shall be available, without fiscal year limitation, for expenditure for property management, operation, protection, construction, repair, alteration, and related activities."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -800,7 +816,7 @@ In General.—The Under Secretary of Transportation for Security may take the fo
 
 &emsp;"(2) Establish a uniform system of identification for all State and local law enforcement personnel for use in obtaining permission to carry weapons in aircraft cabins and in obtaining access to a secured area of an airport, if otherwise authorized to carry such weapons.
 
-&emsp;"(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers whoparticipate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.
+&emsp;"(3) Establish requirements to implement trusted passenger programs and use available technologies to expedite the security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.
 
 &emsp;"(4) In consultation with the Commissioner of the Food and Drug Administration, develop alternative security procedures under which a medical product to be transported on a flight of an air carrier would not be subject to an inspection that would irreversibly damage the product.
 

@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 90–19, §12(h)(3), substituted "Secretary of Defense" for
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–149 added subsec. (d).
 
-<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted "eligible bidder" for "eligible builder" in first sentence; substituted "the mortgagor" for "thebuilder" in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence "with any builder" after "Before the Secretary shall enter into any contract".
+<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted "eligible bidder" for "eligible builder" in first sentence; substituted "the mortgagor" for "the builder" in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence "with any builder" after "Before the Secretary shall enter into any contract".
 
 Subsec. (b). Act Aug. 7, 1956, §506(b), substituted "eligible bidder" for "eligible builder".
 

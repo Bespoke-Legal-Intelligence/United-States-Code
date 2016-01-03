@@ -2,7 +2,7 @@
 
 #### (a) Authority to declare
 
-If the Secretary determines that an extraordinary emergency exists because of the presenceof a plant pest or noxious weed that is new to or not known to be widely prevalent in or distributed within and throughout the United States and that the presence of the plant pest or noxious weed threatens plants or plant products of the United States, the Secretary may—
+If the Secretary determines that an extraordinary emergency exists because of the presence of a plant pest or noxious weed that is new to or not known to be widely prevalent in or distributed within and throughout the United States and that the presence of the plant pest or noxious weed threatens plants or plant products of the United States, the Secretary may—
 
 &emsp;(1) hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of, any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed;
 

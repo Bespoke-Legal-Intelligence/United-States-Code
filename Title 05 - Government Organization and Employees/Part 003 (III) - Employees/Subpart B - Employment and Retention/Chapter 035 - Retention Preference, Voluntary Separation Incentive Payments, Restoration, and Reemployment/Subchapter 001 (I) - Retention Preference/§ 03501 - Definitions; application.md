@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) resulting from injury or disease received in line of duty as a direct result of armed conflict; or
 
-&emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during aperiod of war as defined by sections 101 and 1101 of title 38;
+&emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during a period of war as defined by sections 101 and 1101 of title 38;
 
 &emsp;&emsp;(B) his service does not include twenty or more years of full-time active service, regardless of when performed but not including periods of active duty for training; or
 
@@ -60,7 +60,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section 3311 of title 39" after "or made with the advice and consent of, the Senate".
+<b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section3311 of title 39" after "or made with the advice and consent of, the Senate".
 
 #### Effective Date of 1978 Amendment
 

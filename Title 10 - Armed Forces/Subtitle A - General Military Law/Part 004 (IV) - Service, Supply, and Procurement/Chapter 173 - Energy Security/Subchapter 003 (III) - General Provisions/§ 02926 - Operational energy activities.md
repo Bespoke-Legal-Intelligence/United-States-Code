@@ -2,7 +2,7 @@
 
 (a)
 
-Alternative Fuel Activities.—The Assistant Secretary of Defense for Installations, Energy, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
+Alternative Fuel Activities.—The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
 
 &emsp;(1) lead the alternative fuel activities of the Department of Defense and oversee the investments of the Department in such activities;
 
@@ -16,7 +16,7 @@ Alternative Fuel Activities.—The Assistant Secretary of Defense for Installati
 
 (b)
 
-Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
+Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
 
 (2) The Secretary of each military department shall designate a senior official within each armed force under the jurisdiction of the Secretary who shall be responsible for operational energy plans and programs for that armed force. The officials so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to that official's armed force.
 
@@ -28,9 +28,9 @@ Operational Energy Strategy.—(1) The Assistant Secretary of Defense for Instal
 
 (c)
 
-Budgetary and Financial Matters.—(1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
+Budgetary and Financial Matters.—(1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
-(2) The Secretary of Defense shall require that the Secretary of each military department and the head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
+(2) The Secretary of Defense shall require that the Secretary of each military department andthe head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
@@ -58,17 +58,21 @@ Budgetary and Financial Matters.—(1) The Assistant Secretary of Defense for In
 
 (d)
 
-Access to Initiative Results and Records.—(1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Installations, Energy, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
+Access to Initiative Results and Records.—(1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
 
 (2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each military department) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, §901(g)(1), Dec. 19, 2014, 128 Stat. 3464.)
+(Added and amended Pub. L. 113–291, div. A, title IX, §901(g)(1), Dec. 19, 2014, 128 Stat. 3464; Pub. L. 114–92, div. A, title X, §1081(a)(12), (b)(2), Nov. 25, 2015, 129 Stat. 1001.)
 
 #### Codification
 
 Subsec. (c)(3) of section 138c of this title, which was transferred to subsec. (a) of this section by Pub. L. 113–291, §901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of section 138c of this title, which were transferred to subsecs. (b) to (d), respectively, of this section by Pub. L. 113–291, §901(g)(1)(D), were based on Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, §901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, §1081(a)(12), substituted "for Energy, Installations, and Environment" for "for Installations, Energy, and Environment" in subsecs. (a) to (d).
+
+Subsec. (b)(4). Pub. L. 114–92, §1081(b)(2), amended directory language of Pub. L. 113–291, §901(g)(1)(F). See 2014 Amendment note below.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Installations, Energy, and Environment" after "The Assistant Secretary" in introductory provisions.
 
@@ -80,15 +84,19 @@ Subsec. (b). Pub. L. 113–291, §901(g)(1)(D), transferred subsec. (d) of secti
 
 Subsec. (b)(1). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Installations, Energy, and Environment" after "The Assistant Secretary".
 
-Subsec. (b)(4). Pub. L. 113–291, §901(g)(1)(F), substituted "make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments" for "provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,".
+Subsec. (b)(4). Pub. L. 113–291, §901(g)(1)(F), as amended by Pub. L. 114–92, §1081(b)(2), substituted "make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments" for "provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,".
 
 Subsec. (c). Pub. L. 113–291, §901(g)(1)(D), transferred subsec. (e) of section 138c of this title to subsec. (c) of this section. See Codification note above.
 
 Subsec. (c)(1). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Installations, Energy, and Environment" after "The Assistant Secretary".
 
-Subsec. (c)(4) to (6). Pub. L. 113–291, §901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par. (3), including a separate statement of certain estimated expenditures and requested appropriations.
+Subsec. (c)(4) to (6). Pub. L. 113–291, §901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par.\(3), including a separate statement of certain estimated expenditures and requested appropriations.
 
 Subsec. (d). Pub. L. 113–291, §901(g)(1)(D), transferred subsec. (f) of section 138c of this title to subsec. (d) of this section. See Codification note above.
 
 Subsec. (d)(1). Pub. L. 113–291, §901(g)(1)(E), inserted "of Defense for Installations, Energy, and Environment" after "the Assistant Secretary".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 

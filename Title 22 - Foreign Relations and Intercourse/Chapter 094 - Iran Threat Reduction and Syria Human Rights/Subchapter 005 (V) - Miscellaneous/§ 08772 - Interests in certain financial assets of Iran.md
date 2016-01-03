@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) equal in value to a financial asset of Iran, including an asset of the central bank or monetary authority of the Government of Iran or any agency or instrumentality of that Government, that such foreign securities intermediary or a related intermediary holds abroad,
 
-> &emsp;shall be subject to execution or attachment in aid of execution in order to satisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage,or hostage-taking, or the provision of material support or resources for such an act.
+> &emsp;shall be subject to execution or attachment in aid of execution in order to satisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, or hostage-taking, or the provision of material support or resources for such an act.
 
 #### (2) Court determination required
 
@@ -44,7 +44,7 @@ In this section:
 
 &emsp;The term "blocked asset"—
 
-&emsp;&emsp;(A) means any asset seized or frozen by the United States under section 5(b) of the Appendix to title 50 or under section 202 or 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701 and 1702); and
+&emsp;&emsp;(A) means any asset seized or frozen by the United States under section 4305(b) of title 50 or under section 202 or 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701 and 1702); and
 
 &emsp;&emsp;(B) does not include property that—
 
@@ -86,7 +86,7 @@ This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 12
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(1)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The United Nations Participation Act of 1945, referred to in subsec. (d)(1)(B)(i), is act of Dec. 20, 1945, ch. 583, 59 Stat. 619, which is classified to subchapter XVI\(§287 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
+The United Nations Participation Act of 1945, referred to in subsec. (d)(1)(B)(i), is act of Dec. 20, 1945, ch. 583, 59 Stat. 619, which is classified to subchapter XVI (§287 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
 
 Section 201(d) of the Terrorism Risk Insurance Act of 2002, referred to in subsec. (d)(5), is section 201(d) of Pub. L. 107–297, which is set out as a note under section 1610 of Title 28, Judiciary and Judicial Procedure.
 

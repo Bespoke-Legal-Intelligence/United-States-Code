@@ -36,7 +36,7 @@ There shall be in the Department an Office of Inspector General and an Inspector
 
 #### (c) Commandant of the Coast Guard
 
-To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14.
+To assist the Secretary in the performance of the Secretary's functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. Inaddition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14.
 
 #### (d) Other officers
 

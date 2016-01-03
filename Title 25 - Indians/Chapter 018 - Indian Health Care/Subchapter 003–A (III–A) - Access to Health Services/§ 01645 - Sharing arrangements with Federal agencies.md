@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 106–417, §4(b), struck out subsec. (e). For text of subs
 
 "(2) The amounts paid to the hospitals and clinics participating in the demonstration program described in subsection (a) of this section shall be subject to all auditing requirements applicable to programs administered directly by the Service and to facilities participating in the medicare and medicaid programs.
 
-"(3) The Secretary shall monitor the performance of hospitals and clinics participating in the demonstration program described in subsection (a) of this section, and shall require such hospitals and clinics to submit reports on the program to the Secretary on a quarterly basis (or more frequently if the Secretary deems it to be necessary).
+"(3) The Secretary shall monitor the performance of hospitals and clinics participating in the demonstration program described in subsection (a) of this section,and shall require such hospitals and clinics to submit reports on the program to the Secretary on a quarterly basis (or more frequently if the Secretary deems it to be necessary).
 
 "(4) Notwithstanding section 1880(c) of the Social Security Act or section 1642(a) of this title, no payment may be made out of the special fund described in section 1880(c) of the Social Security Act, or section 1642(a) of this title, for the benefit of any hospital or clinic participating in the demonstration program described in subsection (a) of this section during the period of such participation.
 

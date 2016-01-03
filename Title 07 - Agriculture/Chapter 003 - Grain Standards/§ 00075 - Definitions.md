@@ -12,7 +12,7 @@ When used in this chapter, except where the context requires otherwise—
 
 &emsp;(e) the term "State" means any one of the States (including Puerto Rico) or territories or possessions of the United States (including the District of Columbia);
 
-&emsp;(f) the term "interstate or foreign commerce" means commerce from any State to or through any other State, or to or through any foreign country;
+&emsp;(f) the term "interstate or foreign commerce" means commerce from any State to orthrough any other State, or to or through any foreign country;
 
 &emsp;(g) the term "grain" means corn, wheat, rye, oats, barley, flaxseed, sorghum, soybeans, mixed grain, and any other food grains, feed grains, and oilseeds for which standards are established under section 76 of this title;
 
@@ -76,7 +76,7 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted "delegates of the Admini
 
 <b>1977</b>—Subsec. (g). Pub. L. 95–113, §1604(a)(1), substituted "sorghum" for "grain sorghum".
 
-Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks ofgrain upon the request of the interested party applying for inspection.
+Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
 Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted "or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)" for "or subsection (b) of section 79a of this title for the conduct of supervision of weighing".
 

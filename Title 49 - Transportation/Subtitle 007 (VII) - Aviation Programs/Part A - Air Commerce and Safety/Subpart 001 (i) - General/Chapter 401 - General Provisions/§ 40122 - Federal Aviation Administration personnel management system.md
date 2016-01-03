@@ -30,7 +30,7 @@ Binding arbitration for term bargaining.—
 
 &emsp;&emsp;&emsp;(i)
 
-Assistance from federal service impasses panel.—If the services of the Federal Mediation and Conciliation Service under subparagraph (A)(i) do not lead to the resolution of issues in controversy arising from the negotiation of a term collective-bargaining agreement, the Administrator and the exclusive bargaining representative of the employees (in this subparagraph referred to as the "parties")shall submit their issues in controversy to the Federal Service Impasses Panel. The Panel shall assist the parties in resolving the impasse by asserting jurisdiction and ordering binding arbitration by a private arbitration board consisting of 3 members.
+Assistance from federal service impasses panel.—If the services of the Federal Mediation and Conciliation Service under subparagraph (A)(i) do not lead to the resolution of issues in controversy arising from the negotiation of a term collective-bargaining agreement, the Administrator and the exclusive bargaining representative of the employees (in this subparagraph referred to as the "parties") shall submit their issues in controversy to the Federal Service Impasses Panel. The Panel shall assist the parties in resolving the impasse by asserting jurisdiction and ordering binding arbitration by a private arbitration board consisting of 3 members.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -140,7 +140,7 @@ Applicability of title 5.—The provisions of title 5 shall not apply to the new
 
 &emsp;(3)
 
-Appeals to merit systems protection board.—Under the new personnel management system developed and implemented under paragraph (1), an employee of the Administration may submit an appeal to the Merit Systems Protection Board and may seek judicial review of any resulting final orders or decisions of the Board from any action that was appealable to the Board under any law, rule, or regulation as of March 31, 1996. Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.
+Appeals to merit systems protection board.—Under the new personnel management system developed and implemented under paragraph (1), an employee of the Administration may submit an appeal to the Merit Systems Protection Board and may seek judicialreview of any resulting final orders or decisions of the Board from any action that was appealable to the Board under any law, rule, or regulation as of March 31, 1996. Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such employee appeals that it had as of March 31, 1996.
 
 &emsp;(4)
 
@@ -170,7 +170,7 @@ The effective date of the Air Traffic Management System Performance Improvement 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach suchagreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
+<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
 
 Subsec. (g)(2)(I). Pub. L. 112–95, §602, added subpar. (I).
 

@@ -32,7 +32,7 @@ Information technology.—The term "information technology"—
 
 &emsp;&emsp;&emsp;(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
 
-&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
+&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services\(including support services), and related resources; but
 
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
@@ -94,7 +94,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 Sec. 2. <i>Responsibilities of Agency Heads</i>. In connection with the acquisition and use of computer software, the head of each executive agency shall:
 
-(a) ensure agency compliance with copyright laws protecting computer software and with the provisions of this order to ensure that only authorized computersoftware is acquired for and used on the agency's computers;
+(a) ensure agency compliance with copyright laws protecting computer software and with the provisions of this order to ensure that only authorized computer software is acquired for and used on the agency's computers;
 
 (b) utilize performance measures as recommended by the Chief Information Officers Council pursuant to section 3 of this order to assess the agency's compliance with this order;
 

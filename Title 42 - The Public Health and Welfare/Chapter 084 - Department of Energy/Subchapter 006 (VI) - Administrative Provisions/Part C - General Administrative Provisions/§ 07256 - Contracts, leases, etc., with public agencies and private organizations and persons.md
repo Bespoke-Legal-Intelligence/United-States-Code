@@ -66,7 +66,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 (7) The annual report of the head of an executive agency under section 2371(h) <sup>1</sup> of title 10 shall be submitted to Congress.
 
-(8)(A) In this paragraph, the term "nontraditional Government contractor" has the meaning given the term "nontraditional defense contractor" in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+(8)(A) In this paragraph, the term "nontraditional Government contractor" has the meaning given the term "nontraditional defense contractor" in section 845(f) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
 (B) Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
 
@@ -83,6 +83,8 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 #### References in Text
 
 Section 2371(h) of title 10, referred to in subsec. (g)(7), was repealed by Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
+
+Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note), referred to in subsec. (g)(8)(A), was repealed by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b(e) of Title 10, Armed Forces.
 
 #### Amendments
 
@@ -130,7 +132,7 @@ Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount 
 
 "(b)
 
-Amount.—(1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal year for purposes of carrying out national security programs of the Department.
+Amount.—(1) Except as provided in paragraph (2), the requirements of subsection (a) for any fiscal year apply to the combined total of the funds obligated for contracts entered into by the Department of Energy pursuant to competitive procedures for such fiscal yearfor purposes of carrying out national security programs of the Department.
 
 "(2) In computing the combined total of funds under paragraph (1) for a fiscal year, funds obligated for such fiscal year for contracts for naval reactor programs shall not be included.
 

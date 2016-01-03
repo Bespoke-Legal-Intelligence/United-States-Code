@@ -84,7 +84,7 @@ Not later than 2 years after December 19, 2007, and biennially thereafter, the F
 
 &emsp;(2) identifies within the planning, budgeting, and construction process all types of Federal facility procedures that may affect the certification of new and existing Federal facilities as high-performance green buildings under the provisions of section 6834(a)(3)(D) of this title and the criteria established in subsection (h);
 
-&emsp;(3) identifies inconsistencies, as reported to the Advisory Committee, in Federal law with respect to product acquisition guidelines and high-performance product guidelines;
+&emsp;(3) identifies inconsistencies, as reported to the Advisory Committee, in Federal law withrespect to product acquisition guidelines and high-performance product guidelines;
 
 &emsp;(4) recommends language for uniform standards for use by Federal agencies in environmentally responsible acquisition;
 
@@ -147,6 +147,10 @@ The Office of Federal High-Performance Green Buildings shall carry out each plan
 This part, referred to in subsecs. (a)(2), (c)(6), (f)(1) and (h)(2)(B), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L. 110–140, which is classified to section 17123 of this title.
+
+#### Change of Name
+
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, §6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under section 4321 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

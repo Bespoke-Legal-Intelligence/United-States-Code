@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(B) is not intelligence support traditionally provided to a chief of mission by the Director of National Intelligence.
 
-&emsp;(2) The term "chief of mission" has the meaning given that term by section 3902(3) of title 22, and includes ambassadors at large and ministers of diplomatic missions of the United States, or persons appointed to lead United States offices abroad designated by the Secretary of State as diplomatic in nature.
+&emsp;(2) The term "chief of mission" has the meaning given that term by section 3902(3) of title 22, and includes ambassadors at large and ministers of diplomatic missions of the United States, or persons appointed to lead UnitedStates offices abroad designated by the Secretary of State as diplomatic in nature.
 
 #### (d) Termination
 

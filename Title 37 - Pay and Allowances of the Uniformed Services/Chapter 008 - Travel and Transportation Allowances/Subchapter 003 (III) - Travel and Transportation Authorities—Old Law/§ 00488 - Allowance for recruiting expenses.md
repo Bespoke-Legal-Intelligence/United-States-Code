@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—In addition to other pay or allowances authorized by law, and under uniformregulations prescribed by the Secretaries concerned, a member who is assigned to recruiting duties for his armed force may be reimbursed for actual and necessary expenses incurred in connection with those duties.
+Authority.—In addition to other pay or allowances authorized by law, and under uniform regulations prescribed by the Secretaries concerned, a member who is assigned to recruiting duties for his armed force may be reimbursed for actual and necessary expenses incurred in connection with those duties.
 
 (b)
 

@@ -54,7 +54,7 @@ The articles of any rural business investment company—
 
 &emsp;In addition to the requirements of paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) determine whether the private capital of each rural business investment company is adequate to ensure a reasonable prospect that the rural business investment companywill be operated soundly and profitably, and managed actively and prudently in accordance with the articles of the rural business investment company;
+&emsp;&emsp;(A) determine whether the private capital of each rural business investment company is adequate to ensure a reasonable prospect that the rural business investment company will be operated soundly and profitably, and managed actively and prudently in accordance with the articles of the rural business investment company;
 
 &emsp;&emsp;(B) determine that the rural business investment company will be able to comply with the requirements of this subchapter;
 

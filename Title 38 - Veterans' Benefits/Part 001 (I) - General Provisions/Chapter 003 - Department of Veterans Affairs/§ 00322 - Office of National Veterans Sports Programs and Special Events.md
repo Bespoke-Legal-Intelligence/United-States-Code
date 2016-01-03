@@ -28,11 +28,11 @@ Qualifying Program or Event.—For purposes of this section, a qualifying progra
 
 Monthly Assistance Allowance.—(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
 
-(2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall beequal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
+(2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2015.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2016.
 
 (e)
 
@@ -52,13 +52,15 @@ Applicability to Commonwealths and Territories of the United States.—The provi
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659.)
+(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4,Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(4). Pub. L. 114–58 substituted "2016" for "2015".
 
 <b>2013</b>—Subsec. (b)(4). Pub. L. 113–59, §4(b), substituted "cooperate with entities with significant experience in managing large-scale adaptive sports programs;" for "cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;".
 

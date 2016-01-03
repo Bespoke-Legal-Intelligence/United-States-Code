@@ -2,7 +2,7 @@
 
 #### (a) Age; voluntariness; length of service; computation of retired pay
 
-(1) A commissioned officer of the Service shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
+(1) A commissioned officer of the Service shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-fouryears. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
 
 (2) A commissioned officer of the Service may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
 
@@ -12,7 +12,7 @@
 
 &emsp;(i) his years of active service (determined without regard to subsection (d) of this section) as a member of a uniformed service; plus
 
-&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance atmedical school or dental school or during his medical internship; plus
+&emsp;(ii) in the case of a medical or dental officer, four years and, in the case of a medical officer, who has completed one year of medical internship or the equivalent thereof, one additional year, the four years and the one year to be reduced by the period of active service performed during such officer's attendance at medical school or dental school or during his medical internship; plus
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
@@ -50,19 +50,35 @@ The term "active service", as used in subsection (a) of this section, includes:
 
 #### (e) Crediting of part of year
 
-For the purpose of determining the number of years by which a percentage of the basic pay of an officer is to be multiplied in computing the amount of his retired pay pursuant to section 211(g)(3) of this title or paragraph (4) of subsection (a) of this section, each full month of service that is in addition to the number of full years of service credited to an officer is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
+For the purpose of determining the number of years by which a percentage of the basic pay of an officer is to be multiplied in computing the amount of his retired pay pursuant to section 211(g)(3) of this title or paragraph (4) of subsection (a) of this section, each full month of service that is in addition to the number of full years of service credited to an officer is countedas one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
 #### (f) Retirement or separation for physical disability
 
 For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
 
-(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70 Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464.)
+(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70 Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464; Pub. L. 114–92, div. A, title VI, §631(c)(4), Nov. 25, 2015, 129 Stat. 845.)
+
+#### Amendment of Subsection (a)(4)
+
+<i>Pub. L. 114–92, div. A, title VI, §§631(c)(4), 635, Nov. 25, 2015, 129 Stat. 845, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(4) of this section is amended as follows:</i>
+
+<i>(1) in the matter preceding subparagraph (A), by striking "at the rate of 2 ½ per centum of the basic pay of the highest grade held by him as such officer" and inserting "calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph";</i>
+
+<i>(2) in subparagraph (C), by striking "such pay, and" and inserting "such pay,"; and</i>
+
+<i>(3) in subparagraph (D), by striking "such basic pay." and inserting "such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting '40 per centum' for '50 per centum' each place the term appears."</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### Codification
 
 In subsec. (a)(4), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–92, §631(c)(4)(A), substituted "calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph" for "at the rate of 2½ per centum of the basic pay of the highest grade held by him as such officer".
+
+Subsec. (a)(4)(E). Pub. L. 114–92, §631(c)(4)(B), added subpar. (E).
 
 <b>1990</b>—Subsec. (d)(4). Pub. L. 101–509 added par. (4).
 
@@ -117,6 +133,10 @@ Subsecs. (g), (h). Act Feb. 28, 1948, added subsecs. (g) and (h).
 #### Change of Name
 
 Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical Research Service by Pub. L. 103–43, title XX, §2001, June 10, 1993, 107 Stat. 208. See section 237 of this title.
+
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1990 Amendment
 

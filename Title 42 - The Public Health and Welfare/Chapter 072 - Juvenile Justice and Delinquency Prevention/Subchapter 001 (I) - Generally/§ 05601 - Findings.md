@@ -12,7 +12,7 @@
 
 &emsp;(5) Juveniles accounted for 13 percent of all drug abuse violation arrests in 1999. Between 1990 and 1999, juvenile arrests for drug abuse violations rose 132 percent.
 
-&emsp;(6) Over the last 3 decades, youth gang problems have increased nationwide. In the 1970's, 19 States reported youth gang problems. Bythe late 1990's, all 50 States and the District of Columbia reported gang problems. For the same period, the number of cities reporting youth gang problems grew 843 percent, and the number of counties reporting gang problems increased more than 1,000 percent.
+&emsp;(6) Over the last 3 decades, youth gang problems have increased nationwide. In the 1970's, 19 States reported youth gang problems. By the late 1990's, all 50 States and the District of Columbia reported gang problems. For the same period, the number of cities reporting youth gang problems grew 843 percent, and the number of counties reporting gang problems increased more than 1,000 percent.
 
 &emsp;(7) According to a national crime survey of individuals 12 years of age or older during 1999, those 12 to 19 years old are victims of violent crime at higher rates than individuals in all other age groups. Only 30.8 percent of these violent victimizations were reported by youth to police in 1999.
 
@@ -34,7 +34,7 @@
 
 (b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750;Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 #### Amendments
 
@@ -140,6 +140,10 @@ Pub. L. 93–415, title II, §263(c), as added by Pub. L. 95–115, §6(d)(2), O
 
 Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–22, title I, §116(a), May 29, 2015, 129 Stat. 244, provided that: "This section \[amending section 5780 of this title\] may be cited as the 'Bringing Missing Children Home Act'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 113–38, §1, Sept. 30, 2013, 127 Stat. 527, provided that: "This Act \[enacting section 5776a of this title and amending sections 5771, 5773, 5775, and 5777 of this title\] may be cited as the 'E. Clay Shaw, Jr. Missing Children's Assistance Reauthorization Act of 2013'."
@@ -160,7 +164,7 @@ Pub. L. 107–273, div. C, title II, §12201, Nov. 2, 2002, 116 Stat. 1869, prov
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: "This Act \[enacting sections 5714–25, 5714–41, 5731a, and 5732a of this title, amending sections 5701,5711, 5712, 5713, 5714–1 to 5714–21, 5714–23, 5714–24, 5714a to 5731, 5732, 5751 to 5773, 5775, and 5777 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education\] may be cited as the 'Missing, Exploited, and Runaway Children Protection Act'."
+Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: "This Act \[enacting sections 5714–25, 5714–41, 5731a, and 5732a of this title, amending sections 5701, 5711, 5712, 5713, 5714–1 to 5714–21, 5714–23, 5714–24, 5714a to 5731, 5732, 5751 to 5773, 5775, and 5777 of this title, and enacting provisions set out as a note under section 7101 of Title 20, Education\] may be cited as the 'Missing, Exploited, and Runaway Children Protection Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -184,7 +188,7 @@ Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: "This Act \[e
 
 #### Short Title
 
-Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[enacting this chapter, sections 3772 to 3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
+Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[enacting this chapter, sections 3772 to3774, and 3821 of this title, and sections 4351 to 4353, 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amending sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, 3883 and 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealing section 3889 of this title\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
 
 Pub. L. 93–415, title III, §301, Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 96–509, §18(b), Dec. 8, 1980, 94 Stat. 2762, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'Runaway and Homeless Youth Act'."
 

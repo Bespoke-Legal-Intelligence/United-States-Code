@@ -6,7 +6,7 @@ Section 4252, Pub. L. 93–510, §3, Dec. 5, 1974, 88 Stat. 1604, related to imp
 
 Section 4253, Pub. L. 93–510, §4, Dec. 5, 1974, 88 Stat. 1605, related to activities by heads of Federal agencies relating to application processing or assistance requests under two or more Federal programs supporting any project. See section 7104 of Title 31.
 
-Section 4254, Pub. L. 93–510, §5, Dec. 5, 1974, 88 Stat. 1605, related to special authorities of heads of Federal agencies with respect to projects assisted under more than one Federal assistance program and exercise of these authorities pursuant to regulations prescribed by President. See section 7108 of Title 31.
+Section 4254, Pub. L. 93–510, §5, Dec. 5, 1974, 88 Stat. 1605, related to special authorities of heads of Federal agencies with respect to projects assisted under morethan one Federal assistance program and exercise of these authorities pursuant to regulations prescribed by President. See section 7108 of Title 31.
 
 Section 4255, Pub. L. 93–510, §6, Dec. 5, 1974, 88 Stat. 1606, provided for establishment by heads of Federal agencies of uniform technical and administrative provisions. See section 7105 of Title 31.
 

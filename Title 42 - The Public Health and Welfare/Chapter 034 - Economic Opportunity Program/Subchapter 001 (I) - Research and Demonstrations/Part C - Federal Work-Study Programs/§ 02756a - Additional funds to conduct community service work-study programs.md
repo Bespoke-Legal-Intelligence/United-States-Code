@@ -28,7 +28,7 @@ Each institution participating under this part may use up to 10 percent of the f
 
 &emsp;There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title IV, §447, as added Pub. L. 92–318, title I, §135F, June 23, 1972, 86 Stat. 271; amended Pub. L. 94–482, title I, §128(d), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §436, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567; Pub. L. 110–315, title IV, §446, Aug. 14, 2008, 122 Stat. 3260.)
+(Pub. L. 89–329, title IV, §447, as added Pub. L. 92–318, title I, §135F, June 23, 1972, 86 Stat. 271; amended Pub. L. 94–482, title I, §128(d), Oct. 12, 1976, 90 Stat. 2143; Pub. L. 96–374, title IV, §436, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1436,1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567; Pub. L. 110–315, title IV, §446, Aug. 14, 2008, 122 Stat. 3260.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ Subsec. (b)(7). Pub. L. 96–374, §1391(a)(1), substituted "Secretary" for "Com
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–482 substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
 
-Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizingappropriations for community service learning programs.
+Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizing appropriations for community service learning programs.
 
 Subsec. (c). Pub. L. 94–482 struck out subsec. (c) which authorized agreements by the Commissioner for grants for community service learning programs.
 

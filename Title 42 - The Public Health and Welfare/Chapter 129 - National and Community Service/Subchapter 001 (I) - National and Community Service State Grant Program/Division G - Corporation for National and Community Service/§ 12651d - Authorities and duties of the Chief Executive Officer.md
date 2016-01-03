@@ -192,7 +192,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (B) Period covered by evaluation
 
-&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on a date that is as close as is practicable to the the <sup>3</sup> first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
+&emsp;&emsp;The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under section 12571 of this title, and ending on adate that is as close as is practicable to the the <sup>3</sup> first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
 
 #### (C) Income levels of participants
 
@@ -264,7 +264,7 @@ For the effective date of this subsection, referred to in subsec. (g)(3), see Ef
 
 Subsec. (b)(1). Pub. L. 111–13, §1704(1)(B), inserted ", including a plan for having 50 percent of all approved national service positions be full-time positions by 2012," after "a strategic plan".
 
-Subsec. (b)(2)(B). Pub. L. 111–13, §1704(1)(C), inserted ", approved summer of service positions, and approvedsilver scholar positions" after "approved national service positions".
+Subsec. (b)(2)(B). Pub. L. 111–13, §1704(1)(C), inserted ", approved summer of service positions, and approved silver scholar positions" after "approved national service positions".
 
 Subsec. (b)(7) to (9). Pub. L. 111–13, §1704(1)(D), (E), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
 

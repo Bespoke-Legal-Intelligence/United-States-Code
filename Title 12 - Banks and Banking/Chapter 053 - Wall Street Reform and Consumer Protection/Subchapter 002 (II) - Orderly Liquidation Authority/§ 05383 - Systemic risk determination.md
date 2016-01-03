@@ -10,7 +10,7 @@
 
 #### (B) Cases involving brokers or dealers
 
-&emsp;&emsp;In the case of a broker or dealer, or in which the largest United States subsidiary (as measured by total assets as of the end of the previous calendar quarter) of a financial company is a broker or dealer, the Commission and the Board of Governors, at the request of the Secretary, or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the Commission then serving, and in consultation with the Corporation.
+&emsp;&emsp;In the case of a broker or dealer, or in which the largest United States subsidiary\(as measured by total assets as of the end of the previous calendar quarter) of a financial company is a broker or dealer, the Commission and the Board of Governors, at the request of the Secretary, or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving and 2/3 of the members of the Commission then serving, and in consultation with the Corporation.
 
 #### (C) Cases involving insurance companies
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;&emsp;(B) the sources of capital and credit support that were available to the covered financial company;
 
-&emsp;&emsp;(C) the operations of the covered financial company that could have had a significant impact on financial stability, markets, or both;
+&emsp;&emsp;(C) the operations of the covered financial company that could have had a significantimpact on financial stability, markets, or both;
 
 &emsp;&emsp;(D) identification of the banks and financial companies which may be able to provide the services offered by the covered financial company;
 
@@ -114,7 +114,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (C) Congressional testimony
 
-&emsp;&emsp;The Corporation and the primary financial regulatory agency, if any, of the financial company for which the Corporation was appointed receiver under this subchapter shall appear before Congress, if requested, notlater than 30 days after the date on which the Corporation first files the reports required under subparagraph (A).
+&emsp;&emsp;The Corporation and the primary financial regulatory agency, if any, of the financial company for which the Corporation was appointed receiver under this subchapter shall appear before Congress, if requested, not later than 30 days after the date on which the Corporation first files the reports required under subparagraph (A).
 
 #### (4) Default or in danger of default
 
@@ -156,11 +156,15 @@ As soon as is practicable after July 21, 2010, the Corporation shall establish p
 
 #### (3) Backup authority
 
-&emsp;Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under section 5382(a) of this title with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State.
+&emsp;Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under section 5382(a) of this title with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State.
 
-(Pub. L. 111–203, title II, §203, July 21, 2010, 124 Stat. 1450.)
+(Pub. L. 111–203, title II, §203, July 21, 2010, 124 Stat. 1450; Pub. L. 114–113, div. O, title VII, §706(b)(1), Dec. 18, 2015, 129 Stat. 3029.)
 
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) to (d), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (e)(3). Pub. L. 114–113 inserted "or rehabilitation" after "orderly liquidation" in two places.
 

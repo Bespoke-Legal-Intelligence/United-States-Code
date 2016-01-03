@@ -68,7 +68,7 @@ The Secretary submit <sup>1</sup> to the appropriate congressional committees a
 
 #### Codification
 
-Section was enacted as part of the Cybersecurity Workforce Assessment Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Cybersecurity Workforce Assessment Act, and not as part of theHomeland Security Act of 2002 which comprises this chapter.
 
 #### Homeland Security Cybersecurity Workforce Assessment
 

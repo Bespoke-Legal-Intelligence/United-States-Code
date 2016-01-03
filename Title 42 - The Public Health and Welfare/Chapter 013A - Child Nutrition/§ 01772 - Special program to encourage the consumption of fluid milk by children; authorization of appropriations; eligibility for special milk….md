@@ -18,7 +18,7 @@
 
 (9) Notwithstanding any other provision of this section, in no event shall the minimum rate of reimbursement exceed the cost to the school or institution of milk served to children.
 
-(10) The State educational agency shall disburse funds paid to the State during any fiscal year for purposes of carrying out the program under this section in accordance with such agreements approved by the Secretary as may be entered into by such State agency and the schools in the State. The agreements described in the preceding sentence shall be permanentagreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
+(10) The State educational agency shall disburse funds paid to the State during any fiscal year for purposes of carrying out the program under this section in accordance with such agreements approved by the Secretary as may be entered into by such State agency and the schools in the State. The agreements described in the preceding sentence shall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
 
 (b) Commodity only schools shall not be eligible to participate in the special milk program under this section. For the purposes of the preceding sentence, the term "commodity only schools" means schools that do not participate in the school lunch program under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
 
@@ -80,7 +80,7 @@ Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 807 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L.97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3), (5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by section 807 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3), (5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 

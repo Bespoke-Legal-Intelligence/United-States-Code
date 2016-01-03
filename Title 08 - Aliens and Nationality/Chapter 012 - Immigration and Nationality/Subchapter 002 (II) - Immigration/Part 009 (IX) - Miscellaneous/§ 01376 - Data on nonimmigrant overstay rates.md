@@ -6,7 +6,7 @@ Not later than the date that is 180 days after April 27, 1998, the Attorney Gene
 
 #### (b) Annual report
 
-Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a) of this section.
+Not later than June 30, 1999, and not later than June 30 of each year thereafter, the Attorney General shall submit an annual report to the Congress providing numerical estimates, for each country for the preceding fiscal year, of the number of aliens from the country who are described in subsection (a).
 
 (Pub. L. 105–173, §2, Apr. 27, 1998, 112 Stat. 56.)
 
@@ -16,5 +16,5 @@ Section was not enacted as part of the Immigration and Nationality Act which com
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

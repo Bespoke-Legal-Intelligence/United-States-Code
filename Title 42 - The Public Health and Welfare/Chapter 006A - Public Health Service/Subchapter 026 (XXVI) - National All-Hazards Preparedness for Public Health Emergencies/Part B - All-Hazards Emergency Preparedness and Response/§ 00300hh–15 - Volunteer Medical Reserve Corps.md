@@ -32,7 +32,7 @@ The Corps shall be composed of individuals who—
 
 #### (2) Drills
 
-&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trainedvolunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
+&emsp;In conjunction with the core training programs referred to in paragraph (1), and in order to facilitate the integration of trained volunteers into the health care system at the local level, Corps members shall engage in periodic training exercises to be carried out at the local level. Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.
 
 #### (e) Deployment
 
@@ -50,7 +50,7 @@ The Secretary, in cooperation and consultation with the States, shall develop a 
 
 #### (1) In general
 
-&emsp;For the purpose of assisting the Corps in carrying out duties under this section, during a public health emergency, the Secretary may appoint selected individuals to serve as intermittent personnel of such Corps in accordance with applicable civil service laws and regulations. In all other cases, members of the Corps are subject to the laws of the State in which the activities of the Corps are undertaken.
+&emsp;For the purpose of assisting the Corps in carrying out duties under this section, during apublic health emergency, the Secretary may appoint selected individuals to serve as intermittent personnel of such Corps in accordance with applicable civil service laws and regulations. In all other cases, members of the Corps are subject to the laws of the State in which the activities of the Corps are undertaken.
 
 #### (2) Applicable protections
 

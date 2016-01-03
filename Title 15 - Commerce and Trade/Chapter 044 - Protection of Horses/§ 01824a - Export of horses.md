@@ -2,7 +2,7 @@
 
 #### (a) Restriction on export of horses
 
-Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b) of this section.
+Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b).
 
 #### (b) Granting of waivers
 
@@ -12,7 +12,7 @@ The Secretary of Commerce, in consultation with the Secretary of Agriculture, ma
 
 #### (1) Criminal penalty
 
-&emsp;Any person who knowingly violates this section or any regulation, order, or license issued under this section shall be fined not more than 5 times the value of the consignment of horses involved or $50,000, whichever is greater, or imprisoned not more than 5 years, or both.
+&emsp;Any person who knowingly violates this section or any regulation, order, or license issued under this section shall be fined not more than 5 times the value of the consignment of horsesinvolved or $50,000, whichever is greater, or imprisoned not more than 5 years, or both.
 
 #### (2) Civil penalty
 
@@ -28,5 +28,5 @@ Section was classified to section 466c of the former Appendix to Title 46, prior
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, section 2406(j) of Title 50, Appendix, War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, Pub. L. 99–64, which enacted this section.
+Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, section 4606(j) of Title 50, War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, Pub. L. 99–64, which enacted this section.
 

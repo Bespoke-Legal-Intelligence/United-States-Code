@@ -84,7 +84,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 &emsp;&emsp;&emsp;(i) to preclude arrangements that afford the mutual recovery of costs through the offsetting of reciprocal obligations, including arrangements that waive mutual recovery (such as bill-and-keep arrangements); or
 
-&emsp;&emsp;&emsp;(ii) to authorize the Commission or any State commission to engage in any rateregulation proceeding to establish with particularity the additional costs of transporting or terminating calls, or to require carriers to maintain records with respect to the additional costs of such calls.
+&emsp;&emsp;&emsp;(ii) to authorize the Commission or any State commission to engage in any rate regulation proceeding to establish with particularity the additional costs of transporting or terminating calls, or to require carriers to maintain records with respect to the additional costs of such calls.
 
 #### (3) Wholesale prices for telecommunications services
 
@@ -122,7 +122,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (6) Review of State commission actions
 
-&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determination under this section, any party aggrieved by such determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
+&emsp;In a case in which a State fails to act as described in paragraph (5), the proceeding by the Commission under such paragraph and any judicial review of the Commission's actions shall be the exclusive remedies for a State commission's failure to act. In any case in which a State commission makes a determinationunder this section, any party aggrieved by such determination may bring an action in an appropriate Federal district court to determine whether the agreement or statement meets the requirements of section 251 of this title and this section.
 
 #### (f) Statements of generally available terms
 

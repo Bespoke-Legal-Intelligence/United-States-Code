@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
+&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which is clearly identified in such person's records as being described in clause (i) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe).
 
-> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as such under clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
+> &emsp;&emsp;If a security ceases to be described in clause (i) at any time after it was identified as suchunder clause (ii), subparagraph (A) shall apply to any changes in value of the security occurring after the cessation.
 
 #### (C) Coordination with section 1259
 
@@ -226,7 +226,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(3) to prevent the use by taxpayers of subsection (c)(4) to avoid the application of this section to a receivable that is inventory in the hands of the taxpayer (or a person who bears a relationship to the taxpayer described in section 267(b) or 707(b)).
 
-(Added Pub. L. 103–66, title XIII, §13223(a), Aug. 10, 1993, 107 Stat. 481; amended Pub. L. 105–34, title X, §1001(b), Aug. 5, 1997, 111 Stat. 906; Pub. L. 105–206, title VI, §6010(a)(3), title VII, §7003(a), (b), July 22, 1998, 112 Stat. 813, 832; Pub. L. 106–170, title V, §532(b)(1), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title IV, §417(10), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 103–66, title XIII, §13223(a), Aug. 10, 1993, 107 Stat. 481; amended Pub. L. 105–34, title X, §1001(b), Aug. 5, 1997, 111 Stat. 906; Pub. L. 105–206, title VI, §6010(a)(3), title VII, §7003(a), (b), July 22, 1998, 112 Stat. 813, 832; Pub. L. 106–170, title V, §532(b)(1), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646; Pub. L. 107–147, title IV, §417(10), Mar. 9, 2002, 116 Stat. 56.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@
 
 #### (3) Source of funding
 
-&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 6301(a) and (b) of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response actioncontractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
+&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 6301(a) and (b) of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
 
 #### (4) Requirements
 
@@ -74,7 +74,7 @@
 
 #### (i) Decision to indemnify
 
-&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnification agreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
+&emsp;&emsp;&emsp;In deciding whether to enter into an indemnification agreement with a response action contractor carrying out a written contract or agreement with any potentially responsible party, the President shall determine an amount which the potentially responsible party is able to indemnify the contractor. The President may enter into such an indemnificationagreement only if the President determines that such amount of indemnification is inadequate to cover any reasonable potential liability of the contractor arising out of the contractor's negligence in performing the contract or agreement with such party. The President shall make the determinations in the preceding sentences (with respect to the amount and the adequacy of the amount) taking into account the total net assets and resources of potentially responsible parties with respect to the facility at the time of such determinations.
 
 #### (ii) Conditions
 
@@ -158,7 +158,7 @@ Response action contractors and subcontractors for program management, construct
 
 (5) This subsection shall not apply to bonds executed before October 17, 1990.
 
-(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
+(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
 
 #### References in Text
 

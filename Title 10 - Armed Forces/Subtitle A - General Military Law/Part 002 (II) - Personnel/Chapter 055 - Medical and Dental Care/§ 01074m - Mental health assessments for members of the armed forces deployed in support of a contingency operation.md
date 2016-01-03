@@ -44,7 +44,7 @@ Elements.—(1) The mental health assessments provided pursuant to this section 
 
 &emsp;(D) be provided in a consistent manner across the military departments; and
 
-&emsp;(E) include a review of the health records of the member that are related to each previousdeployment of the member or other relevant activities of the member while serving in the armed forces, as determined by the Secretary.
+&emsp;(E) include a review of the health records of the member that are related to each previous deployment of the member or other relevant activities of the member while serving in the armed forces, as determined by the Secretary.
 
 (2) The Secretary may treat periodic health assessments and other person-to-person assessments that are provided to members of the armed forces, including examinations under section 1074f of this title, as meeting the requirements for mental health assessments required under this section if the Secretary determines that such assessments and person-to-person assessments meet the requirements for mental health assessments established by this section.
 

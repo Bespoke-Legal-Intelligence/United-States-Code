@@ -144,7 +144,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met may change its asset valuation method in a manner which—
 
-&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either or both of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
+&emsp;&emsp;&emsp;&emsp;(I) spreads the difference between expected and actual returns for either orboth of the first 2 plan years ending after August 31, 2008, over a period of not more than 10 years,
 
 &emsp;&emsp;&emsp;&emsp;(II) provides that for either or both of the first 2 plan years beginning after August 31, 2008, the value of plan assets at any time shall not be less than 80 percent or greater than 130 percent of the fair market value of such assets at such time, or
 
@@ -306,7 +306,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review anytables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -454,7 +454,7 @@ Amendment by section 108(a)(3)(B) of Pub. L. 113–235 applicable with respect t
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–192 effective as of the first day of the first plan year ending after Aug. 31, 2008, with certain exceptions, see section 211(b) of Pub. L. 111–192, set out as a note under section 431 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 111–192 effective as of the first day of the first plan year ending after Aug. 31, 2008, with certain exceptions, see section 211(b) of Pub. L.111–192, set out as a note under section 431 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

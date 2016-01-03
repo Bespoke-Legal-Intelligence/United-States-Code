@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the United States Fish and Wildlife Service of the Department of the Interior the position of Assistant Director for Wildlife and Sport Fish Restoration Programs.
+There is established in the United States Fish and Wildlife Service of the Department of theInterior the position of Assistant Director for Wildlife and Sport Fish Restoration Programs.
 
 #### (b) Superior
 
@@ -10,7 +10,7 @@ The Assistant Director for Wildlife and Sport Fish Restoration Programs shall re
 
 #### (c) Responsibilities
 
-The Assistant Director for Wildlife and Sport Fish Restoration Programs shall be responsible for the administration, management, and oversight of the Federal Assistance Program for State Wildlife and Sport Fish Restoration under the Pittman-Robertson Wildlife Restoration Act\(16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.).
+The Assistant Director for Wildlife and Sport Fish Restoration Programs shall be responsible for the administration, management, and oversight of the Federal Assistance Program for State Wildlife and Sport Fish Restoration under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.).
 
 (Pub. L. 106–408, title I, §132, Nov. 1, 2000, 114 Stat. 1775.)
 

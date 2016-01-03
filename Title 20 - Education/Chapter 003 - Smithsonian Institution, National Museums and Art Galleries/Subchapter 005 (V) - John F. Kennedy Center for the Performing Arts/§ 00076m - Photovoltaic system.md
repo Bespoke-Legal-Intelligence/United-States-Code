@@ -6,7 +6,7 @@ The Board may study, plan, design, engineer, and construct a photovoltaic system
 
 #### (b) Report
 
-Not later than 60 days before beginning construction of the photovoltaic system pursuant to subsection (a), the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the feasibility and design of the project.
+Not later than 60 days before beginning construction of the photovoltaic system pursuantto subsection (a), the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the feasibility and design of the project.
 
 (Pub. L. 85–874, §7, as added, Pub. L. 110–338, §3, Oct. 3, 2008, 122 Stat. 3731.)
 

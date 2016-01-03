@@ -32,7 +32,7 @@ Community Training Assistance.—The program shall include the provision of assi
 
 (e)
 
-Collaboration.—In carrying out the program, the Secretary shall collect and analyze "lessons learned" and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
+Collaboration.—In carrying out the program, the Secretary shall collect and analyze "lessons learned" and suggestions from State National Guard and Reserve organizations withexisting or developing suicide prevention and community response programs.
 
 (f)
 

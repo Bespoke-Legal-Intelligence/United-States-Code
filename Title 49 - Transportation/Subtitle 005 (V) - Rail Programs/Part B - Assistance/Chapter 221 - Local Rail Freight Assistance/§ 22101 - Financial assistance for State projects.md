@@ -20,7 +20,7 @@ Conditions.—(1) Assistance for a project shall be provided under this chapter 
 
 &emsp;(A) a rail carrier certifies that the rail line related to the project carried more than 20 carloads a mile during the most recent year during which transportation was provided by the carrier on the line; and
 
-&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodologyestablished under subsection (b) of this section, is more than 1.0.
+&emsp;(B) the ratio of benefits to costs for the project, as calculated using the methodology established under subsection (b) of this section, is more than 1.0.
 
 (2) If the rail carrier that provided the transportation on the rail line is no longer in existence, the applicant for the project shall provide the information required by the certification under paragraph (1)(A) of this subsection in the way the Secretary prescribes.
 
@@ -74,7 +74,7 @@ In subsection (a), before clause (1), the words "when a rail carrier . . . mai
 
 In subsection (b), the words "no later than July 1, 1990" are omitted as executed.
 
-In subsection (c)(1), before clause (A), the words "Assistance for a project shall be provided under this chapter only if" are substituted for "No project shall be provided rail freight assistance under this section unless" because of the restatement.
+In subsection (c)(1), before clause (A), the words "Assistance for a project shall be provided under this chapter only if" are substituted for "No project shall beprovided rail freight assistance under this section unless" because of the restatement.
 
 In subsection (c)(2), the words "If the rail carrier that provided the transportation on the rail line" are substituted for "In a case where the railroad", and the words "information required by the certification under paragraph (1)(A) of this subsection" are substituted for "such information", for clarity.
 
@@ -84,5 +84,5 @@ In subsection (c)(2), the words "If the rail carrier that provided the transport
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 

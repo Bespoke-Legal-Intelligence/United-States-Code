@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) Not in existence for entire 3-year period
 
-&emsp;&emsp;If the entity was not in existence for the entire 3-year period referred to in paragraph\(1), such paragraph shall be applied on the basis of the period during which such entity (or trade or business) was in existence.
+&emsp;&emsp;If the entity was not in existence for the entire 3-year period referred to in paragraph (1), such paragraph shall be applied on the basis of the period during which such entity (or trade or business) was in existence.
 
 #### (B) Short taxable years
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
+&emsp;&emsp;In the case of any person using an accrual method of accounting with respect toamounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
 
 &emsp;&emsp;&emsp;(i) such services are in fields referred to in paragraph (2)(A), or
 
@@ -198,7 +198,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
+Election to retain cash method for certain transactions.—A taxpayer may elect not to have the amendments made by this section apply to any loan orlease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction.
 
 "(3)
 

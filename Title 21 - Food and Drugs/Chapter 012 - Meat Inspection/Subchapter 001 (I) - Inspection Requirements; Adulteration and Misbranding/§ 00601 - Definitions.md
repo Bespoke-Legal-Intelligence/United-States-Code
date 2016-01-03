@@ -84,7 +84,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (q) The term "Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]" means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
 
-(r) The terms "pesticide chemical," "food additive," "color additive," and "raw agricultural commodity" shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+(r) The terms "pesticide chemical," "food additive," "color additive," and "raw agriculturalcommodity" shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 (s) The term "official mark" means the official inspection legend or any other symbol prescribed by regulations of the Secretary to identify the status of any article or animal under this chapter.
 
@@ -128,7 +128,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–79, title XII, §12106(c), Feb. 7, 2014, 128 Stat. 982, provided that: "This section \[amending thissection, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section\] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) \[amending this section, enacting sections 606 and 625 of this title, repealing former section 606 of this title, and enacting provisions set out as notes below\]."
+Pub. L. 113–79, title XII, §12106(c), Feb. 7, 2014, 128 Stat. 982, provided that: "This section \[amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section\] and the amendments made by this section shall take effect as if enacted as part of section 11016(b) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 2130) \[amending this section, enacting sections 606 and 625 of this title, repealing former section 606 of this title, and enacting provisions set out as notes below\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 90–201, §20, Dec. 15, 1967, 81 Stat. 601, provided that: "This Act \[
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–641, title IV, §401, Nov. 10, 1986, 100 Stat. 3567, provided that: "This title \[amending sections 606, 609, 621, 671, and 676 of this title and enacting provisions set out as notes under sections 606, 609, 621, 671, and 676 of this title\] may be cited as the 'Processed Products Inspection Improvement Act of 1986'."
+Pub. L. 99–641, title IV, §401, Nov. 10, 1986, 100 Stat. 3567, provided that: "This title \[amending sections 606,609, 621, 671, and 676 of this title and enacting provisions set out as notes under sections 606, 609, 621, 671, and 676 of this title\] may be cited as the 'Processed Products Inspection Improvement Act of 1986'."
 
 #### Short Title of 1978 Amendment
 
@@ -200,7 +200,7 @@ Pub. L. 110–246, title XI, §11016(b)(2), as added by Pub. L. 113–79, title 
 
 "(A)
 
-Regulations.—Not later than 60 days after the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary \[of Agriculture\], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) \[amending this section, enacting sections 606 and 625 of this title, and repealing former section606 of this title\] and section 12106 of that Act \[amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section\] in a manner that ensures that there is no duplication in inspection activities.
+Regulations.—Not later than 60 days after the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], the Secretary \[of Agriculture\], in consultation with the Commissioner of Food and Drugs, shall issue final regulations to carry out the amendments made by paragraph (1) \[amending this section, enacting sections 606 and 625 of this title, and repealing former section 606 of this title\] and section 12106 of that Act \[amending this section, sections 606 and 625 of this title, and section 1622 of Title 7, Agriculture, and enacting and repealing provisions set out as notes under this section\] in a manner that ensures that there is no duplication in inspection activities.
 
 "(B)
 

@@ -36,7 +36,7 @@
 
 #### (B) Swaps in which 1 counterparty is a swap dealer and the other a major swap participant
 
-&emsp;&emsp;With respect to a swap in which 1 counterparty is a swap dealer and the other a major swap participant, the swap dealershall report the swap as required under paragraphs (1) and (2).
+&emsp;&emsp;With respect to a swap in which 1 counterparty is a swap dealer and the other a major swap participant, the swap dealer shall report the swap as required under paragraphs (1) and (2).
 
 #### (C) Other swaps
 

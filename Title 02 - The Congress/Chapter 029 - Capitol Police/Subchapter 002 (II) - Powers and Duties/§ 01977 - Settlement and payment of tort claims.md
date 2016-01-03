@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Chief of the Capitol Police, in accordance with regulations prescribed by the Attorney General and any regulations as the Capitol Police Board may prescribe, may consider, ascertain, determine, compromise, adjust, and settle, in accordance with the provisions of chapter 171 of title 28, any claim for money damages against the United States for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission ofany employee of the Capitol Police while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
+&emsp;Except as provided in paragraph (2), the Chief of the Capitol Police, in accordance with regulations prescribed by the Attorney General and any regulations as the Capitol Police Board may prescribe, may consider, ascertain, determine, compromise, adjust, and settle, in accordance with the provisions of chapter 171 of title 28, any claim for money damages against the United States for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Capitol Police while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
 
 #### (2) Special rule for claims made by Members of Congress and congressional employees
 
@@ -18,7 +18,7 @@
 
 #### (B) Extension
 
-&emsp;&emsp;The 90-day period in subparagraph (A)(ii) may be extended for an additional period (not to exceed 90 days) for good cause by the Chairman of the applicable Committee, upon the request of the Chief of the Capitol Police.
+&emsp;&emsp;The 90-day period in subparagraph (A)(ii) may be extended for an additional period\(not to exceed 90 days) for good cause by the Chairman of the applicable Committee, upon the request of the Chief of the Capitol Police.
 
 #### (C) Approval consistent with Federal Tort Claims Act
 

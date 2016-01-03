@@ -10,7 +10,7 @@ The Secretary of State shall transmit to the designated congressional committees
 
 #### (c) Annual report
 
-The Secretary of State or the Secretary of the Treasury, as appropriate, shall submit to the designated congressional committees not later than February 1 of each year a consolidated statement of the budgetary implications of all debt relief agreements entered into force under this subchapter during the preceding fiscal year.
+The Secretary of State or the Secretary of the Treasury, as appropriate, shall submit to the designated congressional committees not laterthan February 1 of each year a consolidated statement of the budgetary implications of all debt relief agreements entered into force under this subchapter during the preceding fiscal year.
 
 #### (d) Designated congressional committees
 

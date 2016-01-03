@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for benefits
 
-Nothing in this subchapter or the Settlement Agreement shall affect the eligibility of the Tribe or its members for any Federal program or diminish the trust responsibility of the United States to the Tribe and its members.
+Nothing in this subchapter or the Settlement Agreement shall affect the eligibility of theTribe or its members for any Federal program or diminish the trust responsibility of the United States to the Tribe and its members.
 
 #### (b) Eligibility for other services not affected
 

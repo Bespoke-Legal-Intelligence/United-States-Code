@@ -36,7 +36,7 @@ At the earliest practicable date after August 23, 1988, the President shall—
 
 &emsp;(B) Each statutory amendment to the Harmonized Tariff Schedule.
 
-&emsp;(C) Each modification or change made to the Harmonized Tariff Schedule by the Presidentunder authority of law (including section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\]).
+&emsp;(C) Each modification or change made to the Harmonized Tariff Schedule by the President under authority of law (including section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\]).
 
 (2) Neither the enactment of this chapter nor the subsequent enactment of any amendment to the Harmonized Tariff Schedule, unless such subsequent enactment otherwise provides, may be construed as limiting the authority of the President—
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (c)(1)(A), (2), was in the original "this s
 
 #### Codification
 
-Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amended title I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
+Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amendedtitle I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
 
 #### Effective Date
 

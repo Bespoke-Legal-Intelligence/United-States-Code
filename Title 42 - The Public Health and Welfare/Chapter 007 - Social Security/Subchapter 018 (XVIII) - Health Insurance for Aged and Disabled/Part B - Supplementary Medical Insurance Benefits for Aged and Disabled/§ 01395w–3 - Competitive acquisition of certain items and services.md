@@ -30,7 +30,7 @@
 
 #### (i) Round 1 of competitive acquisition program
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of thecompetitive acquisition programs under this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) Metropolitan statistical areas not selected under round 1 or round 2 with a population of less than 250,000.
 
-&emsp;&emsp;&emsp;&emsp;(III) Areas with a low population density within a metropolitan statisticalarea that is otherwise selected, as determined for purposes of paragraph (3)(A).
+&emsp;&emsp;&emsp;&emsp;(III) Areas with a low population density within a metropolitan statistical area that is otherwise selected, as determined for purposes of paragraph (3)(A).
 
 #### (E) Verification by OIG
 
@@ -100,6 +100,26 @@
 
 &emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
+#### (G) Requiring bid bonds for bidding entities
+
+&emsp;&emsp;With respect to rounds of competitions beginning under this subsection for contracts beginning not earlier than January 1, 2017, and not later than January 1, 2019, an entity may not submit a bid for a competitive acquisition area unless, as of the deadline for bid submission, the entity has obtained (and provided the Secretary with proof of having obtained) a bid surety bond (in this paragraph referred to as a "bid bond") in a form specified by the Secretary consistent with subparagraph (H) and in an amount that is not less than $50,000 and not more than $100,000 for each competitive acquisition area in which the entity submits the bid.
+
+#### (H) Treatment of bid bonds submitted
+
+#### (i) For bidders that submit bids at or below the median and are offered but do not accept the contract
+
+&emsp;&emsp;&emsp;In the case of a bidding entity that is offered a contract for any product category for a competitive acquisition area, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the entity's composite bid for such product category and area was at or below the median composite bid rate for all bidding entities included in the calculation of the single payment amounts for such product category and area; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the entity does not accept the contract offered for such product category and area,
+
+&emsp;&emsp;&nbsp;the bid bond submitted by such entity for such area shall be forfeited by the entity and the Secretary shall collect on it.
+
+#### (ii) Treatment of other bidders
+
+&emsp;&emsp;&emsp;In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.
+
 #### (2) Items and services described
 
 &emsp;The items and services referred to in paragraph (1) are the following:
@@ -136,7 +156,7 @@
 
 #### (B) No effect on payment amount
 
-&emsp;&emsp;A prescription under subparagraph (A) shall not affect the amount of payment otherwise applicable for the item or service under the code involved.
+&emsp;&emsp;A prescription under subparagraph (A) shall not affect the amount of paymentotherwise applicable for the item or service under the code involved.
 
 #### (6) Application
 
@@ -182,6 +202,8 @@
 
 &emsp;&emsp;&emsp;(iv) Access of individuals to a choice of multiple suppliers in the area is maintained.
 
+&emsp;&emsp;&emsp;(v) The entity meets applicable State licensure requirements.
+
 #### (B) Timely implementation of program
 
 &emsp;&emsp;Any delay in the implementation of quality standards under section 1395m(a)(20) of this title or delay in the receipt of advice from the program oversight committee established under subsection (c) of this section shall not delay the implementation of the competitive acquisition program under this section.
@@ -208,7 +230,7 @@
 
 #### (ii) Subsequent disclosure
 
-&emsp;&emsp;&emsp;Not later than 10 days after such a supplier subsequently enters into a subcontracting relationship described in clause (i)(II), such supplier shall discloseto the Secretary, in such form and manner, the information described in subclauses (I) and (II) of clause (i).
+&emsp;&emsp;&emsp;Not later than 10 days after such a supplier subsequently enters into a subcontracting relationship described in clause (i)(II), such supplier shall disclose to the Secretary, in such form and manner, the information described in subclauses (I) and (II) of clause (i).
 
 #### (4) Limit on number of contractors
 
@@ -286,7 +308,7 @@
 
 #### (B) Study of types of testing strip products
 
-&emsp;&emsp;Before 2011, the Inspector General of the Department of Health and Human Services shall conduct a study to determine the types of diabetic testing strip products by volume that could be used to make determinations pursuant to subparagraph (A) for the first competition under the competitive acquisition program described in such subparagraphand submit to the Secretary a report on the results of the study. The Inspector General shall also conduct such a study and submit such a report before the Secretary conducts a subsequent competitive acquistion <sup>2</sup> program described in subparagraph (A).
+&emsp;&emsp;Before 2011, the Inspector General of the Department of Health and Human Services shall conduct a study to determine the types of diabetic testing strip products by volume that could be used to make determinations pursuant to subparagraph (A) for the first competition under the competitive acquisition program described in such subparagraph and submit to the Secretary a report on the results of the study. The Inspector General shall also conduct such a study and submit such a report before the Secretary conducts a subsequent competitive acquistion <sup>2</sup> program described in subparagraph (A).
 
 #### (11) No administrative or judicial review
 
@@ -354,7 +376,7 @@ Not later than July 1, 2011, the Secretary shall submit to Congress a report on 
 
 The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177.)
 
 #### References in Text
 
@@ -367,6 +389,10 @@ The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92
 A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(G), (H). Pub. L. 114–10, §522(a), added subpars. (G) and (H).
+
+Subsec. (b)(2)(A)(v). Pub. L. 114–10, §522(b)(1), added cl. (v).
 
 <b>2010</b>—Subsec. (a)(1)(B)(i)(II). Pub. L. 111–148, §6410(a)(1), substituted "91" for "70".
 
@@ -415,6 +441,10 @@ Amendment by section 154 of Pub. L. 110–275 effective June 30, 2008, see secti
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
+
+#### Construction of 2015 Amendment
+
+Pub. L. 114–10, title V, §522(b)(2), Apr. 16, 2015, 129 Stat. 177, provided that: "Nothing in the amendment made by paragraph (1) \[amending this section\] shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) before the date of the enactment of this Act \[Apr. 16, 2015\]."
 
 #### GAO Report on Impact of Competitive Acquisition on Suppliers
 

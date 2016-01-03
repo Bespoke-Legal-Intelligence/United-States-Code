@@ -24,7 +24,7 @@ For the purposes of this section—
 
 #### (c) Exceptions
 
-The limitations contained in subsection (a) of this section shall be subject to the following exceptions:
+The limitations contained in subsection (a) shall be subject to the following exceptions:
 
 &emsp;(1) Loans or extensions of credit arising from the discount of commercial or business paper evidencing an obligation to the person negotiating it with recourse shall not be subject to any limitation based on capital and surplus.
 
@@ -40,13 +40,13 @@ The limitations contained in subsection (a) of this section shall be subject to 
 
 &emsp;(7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
-&emsp;(8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section.
+&emsp;(8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2).
 
 &emsp;(B) If the bank's files or the knowledge of its officers of the financial condition of each maker of such consumer paper is reasonably adequate, and an officer of the bank designated for that purpose by the board of directors of the bank certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of such loans or extensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor, the limitations of this section as to the loans or extensions of credit of each such maker shall be the sole applicable loan limitations.
 
-&emsp;(9)(A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a maximum limitation equal to 25 per centum of such capital and surplus.
+&emsp;(9)(A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a maximum limitation equal to 25 per centum of such capital and surplus.
 
-&emsp;(B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2) of this section, to a limitation of 25 per centum of such capital and surplus.
+&emsp;(B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a limitation of 25 per centum of such capital and surplus.
 
 &emsp;(10) Loans or extensions of credit to the Student Loan Marketing Association shall not be subject to any limitation based on capital and surplus.
 
@@ -60,7 +60,7 @@ The limitations contained in subsection (a) of this section shall be subject to 
 
 #### References in Text
 
-Section 372 of this title, referred to in subsec. (c)(2), was in the original a reference to "section 13 of the Federal Reserve Act". Provisions of section 13 describing bankers' acceptances are classified to section 372 of this title. Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
+Section 372 of this title, referred to in subsec. (c)(2), was in the original a reference to "section 13 of theFederal Reserve Act". Provisions of section 13 describing bankers' acceptances are classified to section 372 of this title. Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
 
 #### Codification
 
@@ -90,7 +90,7 @@ Subsec. (b)(3). Pub. L. 111–203, §610(a)(2), (3), added par. (3).
 
 &emsp;"(7) Obligations of any person, copartnership, association, or corporation in the form of notes or drafts secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the notes covered by such documents shall be subject under this section to a limitation of 15 per centum of such capital and surplus in addition to such 10 per centum of such capital and surplus. Obligations arising out of the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which bear a full recourse endorsement or unconditional guarantee of the seller and are secured by the cattle being sold, shall be subject under this section to a limitation of 15 per centum of such capital and surplus in addition to such 10 per centum of such capital and surplus.
 
-&emsp;"(8) Obligations of any person, copartnership, association, or corporation secured by not less than a like amount of bonds or notes of the United States issued since April 24, 1917, or certificates of indebtedness of the United States, Treasury bills of the United States, or obligations fully guaranteed both as to principal and interest by the United States, shall (except to the extent permitted by rules and regulations prescribed by the Comptroller of the Currency, with the approval of the Secretary of the Treasury) be subject under this section to a limitation of 15 per centum of such capital and surplus in addition to such 10 per centum of such capital and surplus.
+&emsp;"(8) Obligations of any person, copartnership, association, or corporation secured by not less than a likeamount of bonds or notes of the United States issued since April 24, 1917, or certificates of indebtedness of the United States, Treasury bills of the United States, or obligations fully guaranteed both as to principal and interest by the United States, shall (except to the extent permitted by rules and regulations prescribed by the Comptroller of the Currency, with the approval of the Secretary of the Treasury) be subject under this section to a limitation of 15 per centum of such capital and surplus in addition to such 10 per centum of such capital and surplus.
 
 &emsp;"(9) Obligations representing loans to any national banking association or to any banking institution organized under the laws of any State, or to any receiver, conservator, or superintendent of banks, or to any other agent, in charge of the business and property of any such association or banking institution, when such loans are approved by the Comptroller of the Currency, shall not be subject under this section to any limitation based upon such capital and surplus.
 
@@ -152,7 +152,7 @@ Act June 16, 1933, ch. 89, §26(b), 48 Stat. 191, provided: "The amendment made 
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 #### Application to District of Columbia
 

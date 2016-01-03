@@ -576,7 +576,7 @@ Grant Program.—
 
 &emsp;"(1)
 
-Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2), as amended by this Act), to make grants to—
+Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 (16 U.S.C. 777c(b)(2) \[now 16 U.S.C. 777c(b)(3)\], as amended by this Act), to make grants to—
 
 &emsp;&emsp;"(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—
 
@@ -626,7 +626,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 "(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notificationin writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 

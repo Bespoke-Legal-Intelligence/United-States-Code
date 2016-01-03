@@ -34,7 +34,7 @@ Pub. L. 103–182, §412(a), which directed the insertion of "the North American
 
 Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily substituted "a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement" for "or a final decision of the United States Court of International Trade". See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (b). Pub. L. 100–449 temporarily substituted "a final decision of the United States Court ofInternational Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement" for "or a final decision of the United States Court of International Trade". See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to anybinational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
 
 Amendment by section 640 of Pub. L. 103–182 effective Dec. 8, 1993, see section 692 of Pub. L. 103–182, set out as a note under section 58c of this title.
 

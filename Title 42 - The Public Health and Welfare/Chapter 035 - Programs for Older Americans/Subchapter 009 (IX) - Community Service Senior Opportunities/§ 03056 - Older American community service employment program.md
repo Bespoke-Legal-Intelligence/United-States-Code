@@ -42,13 +42,13 @@
 
 &emsp;&emsp;(iv) will not employ or continue to employ any eligible individual to perform the same work or substantially the same work as that performed by any other individual who is on layoff;
 
-&emsp;&emsp;(H) will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
+&emsp;&emsp;(H) will coordinate activities with training and other services provided under title I ofthe Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], including utilizing the one-stop delivery system of the local workforce development areas involved to recruit eligible individuals to ensure that the maximum number of eligible individuals will have an opportunity to participate in the project;
 
 &emsp;&emsp;(I) will include such training (such as work experience, on-the-job training, and classroom training) as may be necessary to make the most effective use of the skills and talents of those individuals who are participating, and will provide for the payment of the reasonable expenses of individuals being trained, including a reasonable subsistence allowance equivalent to the wage described in subparagraph (J);
 
 &emsp;&emsp;(J) will ensure that safe and healthy employment conditions will be provided, and will ensure that participants employed in community service and other jobs assisted under this subchapter will be paid wages that shall not be lower than whichever is the highest of—
 
-&emsp;&emsp;&emsp;(i) the minimum wage that would be applicable to such a participant under the Fair Labor Standards Act of 1938 (29 U.S.C.201 et seq.), if section 6(a)(1) of such Act (29 U.S.C. 206(a)(1)) applied to the participant and if the participant were not exempt under section 13 of such Act (29 U.S.C. 213);
+&emsp;&emsp;&emsp;(i) the minimum wage that would be applicable to such a participant under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), if section 6(a)(1) of such Act (29 U.S.C. 206(a)(1)) applied to the participant and if the participant were not exempt under section 13 of such Act (29 U.S.C. 213);
 
 &emsp;&emsp;&emsp;(ii) the State or local minimum wage for the most nearly comparable covered employment; or
 
@@ -60,13 +60,13 @@
 
 &emsp;&emsp;(M) will ensure that, to the extent feasible, such project will serve the needs of minority and Indian eligible individuals, eligible individuals with limited English proficiency, and eligible individuals with greatest economic need, at least in proportion to their numbers in the area served and take into consideration their rates of poverty and unemployment;
 
-&emsp;&emsp;(N)(i) will prepare an assessment of the participants' skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) and will prepare a related service strategy;
+&emsp;&emsp;(N)(i) will prepare an assessment of the participants' skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),<sup>1</sup> the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) and will prepare a related service strategy;
 
 &emsp;&emsp;(ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
 &emsp;&emsp;(iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
-&emsp;&emsp;(O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c));
+&emsp;&emsp;(O) will provide appropriate services for participants, or refer the participants to appropriate services, through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151(e)\], and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act \[29 U.S.C. 3151(c)\];
 
 &emsp;&emsp;(P) will post in such project workplace a notice, and will make available to each person associated with such project a written explanation—
 
@@ -76,9 +76,9 @@
 
 &emsp;&emsp;(Q) will provide to the Secretary the description and information described in—
 
-&emsp;&emsp;&emsp;(i) paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b)); and
+&emsp;&emsp;&emsp;(i) clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3112(b)\]; and
 
-&emsp;&emsp;&emsp;(ii) paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998; and
+&emsp;&emsp;&emsp;(ii) paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act; and
 
 &emsp;&emsp;(R) will ensure that entities that carry out activities under the project (including State agencies, local entities, subgrantees, and subcontractors) and affiliates of such entities receive an amount of the administrative cost allocation determined by the Secretary, in consultation with grantees, to be sufficient.
 
@@ -90,11 +90,11 @@
 
 #### (A) Prepared under this chapter
 
-&emsp;&emsp;An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d)).
+&emsp;&emsp;An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\], in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act \[29 U.S.C. 3174(c)\].
 
-#### (B) Prepared under Workforce Investment Act of 1998
+#### (B) Prepared under Workforce Innovation and Opportunity Act
 
-&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.) for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
+&emsp;&emsp;An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\] for an eligible individual may be used to comply with the requirement specified in subparagraph (A).
 
 #### (c) Federal share and use of funds
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(iii) job placement assistance, including job development and job search assistance;
 
-&emsp;&emsp;&emsp;(iv) participant supportive services to enable a participant to successfully participate in a project under this subchapter, which may include the payment of reasonable costs of transportation, health andmedical services, special job-related or personal counseling, incidentals (such as work shoes, badges, uniforms, eyeglasses, and tools), child and adult care, temporary shelter, and follow-up services; and
+&emsp;&emsp;&emsp;(iv) participant supportive services to enable a participant to successfully participate in a project under this subchapter, which may include the payment of reasonable costs of transportation, health and medical services, special job-related or personal counseling, incidentals (such as work shoes, badges, uniforms, eyeglasses, and tools), child and adult care, temporary shelter, and follow-up services; and
 
 &emsp;&emsp;&emsp;(v) outreach, recruitment and selection, intake, orientation, and assessments.
 
@@ -244,7 +244,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 &emsp;&emsp;&emsp;(i) attract more eligible individuals into the labor force;
 
-&emsp;&emsp;&emsp;(ii) improve the provision of services to eligible individuals under one-stop delivery systems established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.);
+&emsp;&emsp;&emsp;(ii) improve the provision of services to eligible individuals under one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151(e)\];
 
 &emsp;&emsp;&emsp;(iii) enhance the technological skills of eligible individuals; and
 
@@ -264,39 +264,13 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 (Pub. L. 89–73, title V, §502, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563; amended Pub. L. 113–128, title V, §512(w)(3), July 22, 2014, 128 Stat. 1713.)
 
-#### Amendment of Section
-
-<i>Pub. L. 113–128, title V, §§506, 512(w)(3), July 22, 2014, 128 Stat. 1703, 1713, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:</i>
-
-<i>(1) in subsection (b):</i>
-
-<i>(A) in paragraph (1):</i>
-
-<i>(i) in subparagraph (H), by striking "will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved" and inserting "will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved";</i>
-
-<i>(ii) in subparagraph (O), by striking "through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c))," and inserting "through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act," and by striking "and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c))" and inserting "and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act"; and</i>
-
-<i>(iii) in subparagraph (Q)—</i>
-
-<i>(I) in clause (i), by striking "paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b))" and inserting "clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act"; and</i>
-
-<i>(II) in clause (ii), by striking "paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998" and inserting "paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act"; and</i>
-
-<i>(B) in paragraph (3):</i>
-
-<i>(i) in subparagraph (A), by striking "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d))." and inserting "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act, in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act."; and</i>
-
-<i>(ii) in subparagraph (B), in the subparagraph heading, by striking "Workforce Investment Act of 1998" and inserting "Workforce Innovation and Opportunity Act" and by striking "An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)" and inserting "An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act"; and</i>
-
-<i>(2) in subsection (e)(2)(B)(ii), by striking "one-stop delivery systems established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act".</i>
-
-<i>See 2014 Amendment notes below.</i>
-
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(1)(H), (N)(i), (3) and (e)(2)(B)(ii), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, which enacted chapter 73 (§9201 et seq.) of Title 20, Education, and chapter 30 (§2801 et seq.) of Title 29, Labor, and enacted, amended, and repealed numerous other sections and notes in the Code. Title I of the Act is classified principally to chapter 30 of Title 29. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
@@ -306,7 +280,7 @@ The Social Security Act, referred to in subsec. (b)(1)(N)(i), is act Aug. 14, 19
 
 A prior section 3056, Pub. L. 89–73, title V, §502, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267; amended Pub. L. 109–270, §2(k)(1), Aug. 12, 2006, 120 Stat. 748, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
-Another prior section 3056, Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, title V, §§501, 504(c)(1), (2), title IX, §904(b)(1), Sept. 30, 1992, 106 Stat. 1265, 1269, 1309; Pub. L. 105–220, title III, §323, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33)(B), (f)(25)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–426, 2681–433; Pub. L. 105–332, §3(i)(1), Oct. 31, 1998, 112 Stat. 3126, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 106–501.
+Another prior section 3056, Pub. L. 89–73, title V, §502, formerly title IX, §902, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720; renumbered title V, §502, and amended Pub. L. 95–478, title I, §105(a), (b), Oct. 18, 1978, 92 Stat. 1547; Pub. L. 97–115, §12(a)(1), (2), (b)(1), (c), Dec. 29, 1981, 95 Stat. 1606; Pub. L. 98–459, title V, §501, Oct. 9, 1984, 98 Stat. 1786; Pub. L. 100–175, title I, §§161, 162(a), Nov. 29, 1987, 101 Stat. 957; Pub. L. 102–375, title V, §§501, 504(c)(1), (2), title IX, §904(b)(1),Sept. 30, 1992, 106 Stat. 1265, 1269, 1309; Pub. L. 105–220, title III, §323, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§403(b), 405(d)(33)(B), (f)(25)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, 2681–426, 2681–433; Pub. L. 105–332, §3(i)(1), Oct. 31, 1998, 112 Stat. 3126, related to the older American community service employment program, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
 Another prior section 502 of Pub. L. 89–73, title V, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 50, related to requirements for approval of applications, preferred areas, and agency application and was classified to section 3041a of this title, prior to repeal by Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558.
 
@@ -328,7 +302,7 @@ Subsec. (e)(2)(B)(ii). Pub. L. 113–128, §512(w)(3)(B), substituted "one-stop 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date
 
@@ -353,4 +327,6 @@ Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor 
 #### Short Title
 
 For short title of this subchapter as the "Community Service Senior Opportunities Act", see section 501 of Pub. L. 89–73, set out as a note under section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

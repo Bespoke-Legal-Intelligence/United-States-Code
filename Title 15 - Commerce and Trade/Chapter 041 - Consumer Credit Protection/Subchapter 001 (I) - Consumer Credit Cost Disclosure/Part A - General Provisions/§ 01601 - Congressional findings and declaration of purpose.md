@@ -48,6 +48,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–94, div. G, title LXXXIX, §89001, Dec. 4, 2015, 129 Stat. 1799, provided that: "This title \[amending sections 1639c and 1639d of this title and enacting provisions set out as a note under section 5512 of Title 12, Banks and Banking\] may be cited as the 'Helping Expand Lending Practices in Rural Communities Act of 2015' or the 'HELP Rural Communities Act of 2015'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–319, §1, Dec. 18, 2010, 124 Stat. 3457, provided that: "This Act \[amending section 1681m of this title and enacting provisions set out as a note under section 1681m of this title\] may be cited as the 'Red Flag Program Clarification Act of 2010'."
@@ -62,7 +66,7 @@ Pub. L. 111–24, §1(a), May 22, 2009, 123 Stat. 1734, provided that: "This Act
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: "This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] may be cited as the 'Private Student Loan Transparency and Improvement Act of 2008'."
+Pub. L. 110–315, title X, §1001, Aug. 14, 2008, 122 Stat. 3478, provided that: "This title \[enacting section 1650 of this title and sections 1019d and 9709 of Title 20, Education, amending sections 1602, 1603, 1638, and 1640 of this title, section 2903 of Title 12, Banks and Banking, and section 1092 of Title 20, and enacting provisions set out as notes under sections 1638 and 1640 of this title, section 2903 of Title 12, and section 9709 of Title 20\] maybe cited as the 'Private Student Loan Transparency and Improvement Act of 2008'."
 
 Pub. L. 110–289, div. B, title V, §2501, July 30, 2008, 122 Stat. 2855, provided that: "This title \[amending sections 1638 and 1640 of this title and sections 24 and 338a of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1638 of this title\] may be cited as the 'Mortgage Disclosure Improvement Act of 2008'."
 
@@ -96,7 +100,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enactingprovisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
 
 #### Short Title of 1988 Amendments
 
@@ -216,7 +220,7 @@ Pub. L. 97–25, title II, §202, July 27, 1981, 95 Stat. 145, directed Board of
 
 #### Inference of Legislative Intent in Section Captions and Catchlines
 
-Pub. L. 90–321, title V, §502, May 29, 1968, 82 Stat. 167, provided that: "Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them."
+Pub. L. 90–321, title V, §502, May 29, 1968, 82 Stat. 167, provided that: "Captions and catchlines are intendedsolely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this Act \[enacting this chapter, section 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and section 891 of Title 18\] may be drawn from them."
 
 #### Grammatical Usages
 

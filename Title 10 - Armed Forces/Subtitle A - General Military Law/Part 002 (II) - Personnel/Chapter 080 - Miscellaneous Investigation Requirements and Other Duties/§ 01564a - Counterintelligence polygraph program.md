@@ -106,7 +106,7 @@ Provisions similar to those in this section were contained in Pub. L. 100–180,
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section related to authority for program for administration of counterintelligence polygraph examinations in subsec. (a), persons covered in subsec. (b), exceptions from coverage for certain intelligence agencies and functions in subsec. (c), oversight in subsec. (d), and polygraph research program in subsec. (e).
+<b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior toamendment, section related to authority for program for administration of counterintelligence polygraph examinations in subsec. (a), persons covered in subsec. (b), exceptions from coverage for certain intelligence agencies and functions in subsec. (c), oversight in subsec. (d), and polygraph research program in subsec. (e).
 
 #### Effective Date of 2006 Amendment
 

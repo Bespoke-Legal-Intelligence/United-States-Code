@@ -94,7 +94,7 @@ Nothing in this section shall be construed—
 
 #### (B) Small employer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "small employer" means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1 in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer and rules similar to rules of subparagraphs (B) and (C) of section 4980D(d)(2) shall apply.
+&emsp;&emsp;For purposes of subparagraph (A), the term "small employer" means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 (or 1in the case of an employer residing in a State that permits small groups to include a single individual) but not more than 50 employees on business days during the preceding calendar year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer and rules similar to rules of subparagraphs (B) and (C) of section 4980D(d)(2) shall apply.
 
 #### (2) Cost exemption
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 #### (2) Annual limit
 
-&emsp;The term "annual limit" means, with respect to benefits under a group health plan, a dollar limitation on the total amount of benefits that may be paid with respect to such benefits in a 12-month period under the plan with respect to an individual or other coverage unit.
+&emsp;The term "annual limit" means, with respect to benefits under a group health plan, adollar limitation on the total amount of benefits that may be paid with respect to such benefits in a 12-month period under the plan with respect to an individual or other coverage unit.
 
 #### (3) Medical or surgical benefits
 

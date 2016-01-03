@@ -42,7 +42,7 @@ The provisions of subsections (e), (f), and (g) of section 231n of this title ar
 
 (2) For purposes of this section, the term "social security equivalent benefits" means benefits payable under this subchapter which are of a kind taken into account in determining the amount of transfers made under section 231f(c)(2) of this title.
 
-(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438;amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
+(Aug. 29, 1935, ch. 812, §15A, as added Pub. L. 98–76, title V, §501(a), Aug. 12, 1983, 97 Stat. 438; amended Pub. L. 107–90, title I, §107(c), Dec. 21, 2001, 115 Stat. 888; Pub. L. 108–203, title IV, §426(e), Mar. 2, 2004, 118 Stat. 538.)
 
 #### References in Text
 

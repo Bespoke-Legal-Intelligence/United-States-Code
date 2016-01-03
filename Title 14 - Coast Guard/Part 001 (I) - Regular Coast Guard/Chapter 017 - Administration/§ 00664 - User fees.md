@@ -52,5 +52,5 @@ Pub. L. 113–281, title III, §311(c), Dec. 18, 2014, 128 Stat. 3048, provided 
 
 &emsp;"(1) amends the Standards of Ethical Conduct for members and employees of the Coast Guard to include regulations governing the acceptance of in-kind reimbursements; and
 
-&emsp;"(2) notifies the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House ofRepresentatives of the amendments made under paragraph (1)."
+&emsp;"(2) notifies the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the amendments made under paragraph (1)."
 

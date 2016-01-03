@@ -60,7 +60,7 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 #### (3) Reconstitution
 
-&emsp;The Secretary shall promulgate regulations to ensure that a producer does not reconstitute a dairy operation for the sole purpose of receiving additional payments under this section.
+&emsp;The Secretary shall promulgate regulations to ensure that a producer does not reconstitute a dairy operation for the sole purpose ofreceiving additional payments under this section.
 
 #### (e) Payments
 

@@ -8,7 +8,7 @@ The Board is authorized—
 
 (c) To cooperate with National, State, district, or county experimental stations or demonstration farms, with farmers, landowners, and associations of farmers or landowners, for the use of new forms of fertilizer or fertilizer practices during the initial or experimental period of their introduction, and for promoting the prevention of soil erosion by the use of fertilizers and otherwise.
 
-(d) The Board, in order to improve and cheapen the production of fertilizer, is authorized tomanufacture and sell fixed nitrogen, fertilizer, and fertilizer ingredients at Muscle Shoals by the employment of existing facilities, by modernizing existing plants, or by any other process or processes that in its judgment shall appear wise and profitable for the fixation of atmospheric nitrogen or the cheapening of the production of fertilizer.
+(d) The Board, in order to improve and cheapen the production of fertilizer, is authorized to manufacture and sell fixed nitrogen, fertilizer, and fertilizer ingredients at Muscle Shoals by the employment of existing facilities, by modernizing existing plants, or by any other process or processes that in its judgment shall appear wise and profitable for the fixation of atmospheric nitrogen or the cheapening of the production of fertilizer.
 
 (e) Under the authority of this chapter the Board may make donations or sales of the product of the plant or plants operated by it to be fairly and equitably distributed through the agency of county demonstration agents, agricultural colleges, or otherwise as the Board may direct, for experimentation, education, and introduction of the use of such products in cooperation with practical farmers so as to obtain information as to the value, effect, and best methods of their use.
 
@@ -58,7 +58,7 @@ Joint Res. July 3, 1952, ch. 570, §7, 66 Stat. 334, provided that the amendment
 
 #### Repeal of Prior Acts Continuing Subsection (m)
 
-Section 6 of Joint Res. July 3, 1952, ch. 570, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54,as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsection (m) relating to sales to allies until July 3, 1952. This repeal was to take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+Section 6 of Joint Res. July 3, 1952, ch. 570, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsection (m) relating to sales to allies until July 3, 1952. This repeal was to take effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
 #### Savings Provision
 

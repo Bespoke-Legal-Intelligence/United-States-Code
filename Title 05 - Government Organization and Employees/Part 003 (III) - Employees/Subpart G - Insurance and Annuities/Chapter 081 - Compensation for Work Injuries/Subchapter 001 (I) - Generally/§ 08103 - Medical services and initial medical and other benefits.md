@@ -70,7 +70,7 @@ The words "another retirement system for employees of the Government" are substi
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–416 substituted "at the employee's option" for "when this is not practicable",struck out "private" before "physicians and hospitals" in par. (3), and, in provision following par. (3), added authorization for the employee to initially select a physician in accordance with such regulations and instructions considered necessary by the Secretary.
+<b>1974</b>—Subsec. (a). Pub. L. 93–416 substituted "at the employee's option" for "when this is not practicable", struck out "private" before "physicians and hospitals" in par. (3), and, in provision following par. (3), added authorization for the employee to initially select a physician in accordance with such regulations and instructions considered necessary by the Secretary.
 
 #### Effective Date of 1974 Amendment
 

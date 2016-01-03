@@ -18,7 +18,7 @@
 
 #### (2) Time for notification
 
-&emsp;Notice under paragraph (1) shall be given within 3 years after the end of the insurance period during which the error, omission, or failure is alleged to have occurred, except that this time limitation shall not apply with respect to an error, omission, or procedural violation that is willful or intentional.
+&emsp;Notice under paragraph (1) shall be given within 3 years after the end of the insuranceperiod during which the error, omission, or failure is alleged to have occurred, except that this time limitation shall not apply with respect to an error, omission, or procedural violation that is willful or intentional.
 
 #### (3) Effect of failure to timely notify
 
@@ -82,7 +82,7 @@
 
 #### (2) FSA inquiry
 
-&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
+&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), theCorporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
 
 #### (3) Use of field infrastructure
 
@@ -126,7 +126,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales bythe agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -290,13 +290,13 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, asamended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

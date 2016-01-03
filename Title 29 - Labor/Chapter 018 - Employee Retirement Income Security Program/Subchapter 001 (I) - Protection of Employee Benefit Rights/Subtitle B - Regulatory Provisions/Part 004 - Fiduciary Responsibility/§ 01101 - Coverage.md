@@ -58,7 +58,7 @@ For purposes of this part:
 
 &emsp;(i) as otherwise provided by the Secretary in regulations intended to prevent avoidance of the regulations issued under paragraph (1), or
 
-&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) of section 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
+&emsp;(ii) as provided in an action brought by the Secretary pursuant to paragraph (2) or (5) ofsection 1132(a) of this title for a breach of fiduciary responsibilities which would also constitute a violation of Federal or State criminal law.
 
 > The Secretary shall bring a cause of action described in clause (ii) if a participant, beneficiary, or fiduciary demonstrates to the satisfaction of the Secretary that a breach described in clause (ii) has occurred.
 

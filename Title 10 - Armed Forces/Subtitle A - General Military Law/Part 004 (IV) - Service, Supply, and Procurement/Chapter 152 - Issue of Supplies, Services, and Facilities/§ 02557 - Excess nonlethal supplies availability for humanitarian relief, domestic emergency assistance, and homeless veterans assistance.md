@@ -42,13 +42,13 @@ Subsec. (a). Pub. L. 107–107, §361(a), designated existing provisions as par.
 
 <b>2000</b>—Pub. L. 106–398 renumbered section 2547 of this title as this section.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–88 struck out par. (1) which read as follows: "a finding under section 662 ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2422); or", struck out par. (2) designation, and substituted "title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)" for "section 501(a)(1) of the National Security Act of 1947 (50 U.S.C. 413)".
+<b>1991</b>—Subsec. (c). Pub. L. 102–88 struck out par. (1) which read as follows: "a finding under section 662 of the Foreign Assistance Act of 1961 (22 U.S.C. 2422); or", struck out par. (2) designation, and substituted "title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)" for "section 501(a)(1) of the National Security Act of 1947 (50 U.S.C. 413)".
 
 <b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
 
 "(1) The Secretary of State shall submit an annual report on the disposition of all excess supplies transferred by the Secretary of Defense to the Secretary of State under this section during the preceding year.
 
-"(2) Such reports shall be submitted to the Committees on Armed Services and on Foreign Relations of the Senate and the Committees on Armed Services and on Foreign Affairs of the House of Representatives.
+"(2) Such reports shall be submitted to the Committees on Armed Services and on Foreign Relations of theSenate and the Committees on Armed Services and on Foreign Affairs of the House of Representatives.
 
 "(3) Such reports shall be submitted not later than June 1 of each year."
 

@@ -46,7 +46,7 @@
 
 &emsp;(B) The term "trust land" has the meaning given that term in section 3765(1) of this title.
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223,title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833.)
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667; Pub. L. 109–461, title IV, §403, Dec. 22, 2006, 120 Stat. 3430; Pub. L. 110–157, title II, §202(b)(1)–(3), Dec. 26, 2007, 121 Stat. 1832, 1833.)
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Subsec. (b)(3), (4). Pub. L. 100–322, §343(2), redesignated par. (4) as (3). 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\]."
+Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\]."
 
 #### Effective Date
 

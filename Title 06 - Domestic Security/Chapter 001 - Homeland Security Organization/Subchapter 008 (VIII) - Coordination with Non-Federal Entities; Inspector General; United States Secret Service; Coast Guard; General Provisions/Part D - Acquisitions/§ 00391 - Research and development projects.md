@@ -2,15 +2,15 @@
 
 #### (a) Authority
 
-Until September 30, 2014, and subject to subsection (d), the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+Until September 30, 2016, and subject to subsection (d),<sup>1</sup> the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
 #### (1) In general
 
-&emsp;When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 2371 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
+&emsp;When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 2371 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) <sup>1</sup> of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
 
 #### (2) Prototype projects
 
-&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
+&emsp;The Secretary may, under the authority of paragraph (1), carry out prototype projects in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160). In applying the authorities of that section 845, subsection (c) of that section shall apply with respect to prototype projects under this paragraph, and the Secretary shall perform the functions of the Secretary of Defense under subsection (d) thereof.
 
 #### (b) Procurement of temporary and intermittent services
 
@@ -24,7 +24,7 @@ The Secretary may—
 
 #### (1) In general
 
-&emsp;The authority of the Secretary under this section shall terminate September 30, 2014, unless before that date the Secretary—
+&emsp;The authority of the Secretary under this section shall terminate September 30, 2016, unless before that date the Secretary—
 
 &emsp;&emsp;(A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -36,15 +36,27 @@ The Secretary may—
 
 #### (d) Definition of nontraditional Government contractor
 
-In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 845(e) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273; Pub. L. 114–4, title V, §523, Mar. 4, 2015, 129 Stat. 65; Pub. L. 114–113, div. F, title V, §523, Dec. 18, 2015, 129 Stat. 2516.)
 
 #### References in Text
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
+Subsection (d), referred to in subsec. (a), was redesignated subsec. (c) of this section by Pub. L. 112–74, div. D, title V, §527(3), Dec. 23, 2011, 125 Stat. 974.
+
+Subsection (b) of this section, referred to in subsec. (a)(1), probably means the former subsec. (b) of this section which related to annual reports by the Comptroller General and which was struck out by Pub. L. 112–74, div. D, title V, §527(2), Dec. 23, 2011, 125 Stat. 974. See 2011 Amendment note for subsec. (b) below.
+
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which was formerly set out as a note under section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b of Title 10.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–113, §523(1), substituted "Until September 30, 2016," for "Until September 30, 2015," in introductory provisions.
+
+Pub. L. 114–4, §523(1), substituted "Until September 30, 2015," for "Until September 30, 2014," in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 114–113, §523(2), substituted "September 30, 2016," for "September 30, 2015," in introductory provisions.
+
+Pub. L. 114–4, §523(2), substituted "September 30, 2015," for "September 30, 2014," in introductory provisions.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–76, §525(1), substituted "Until September 30, 2014," for "Until September 30, 2013," in introductory provisions.
 
@@ -82,9 +94,15 @@ Subsecs. (d), (e). Pub. L. 110–329, §537(2), (3), added subsec. (d) and redes
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "Until September 30, 2008" for "During the 5-year period following the effective date of this chapter" in introductory provisions.
 
-#### Change of Name
+#### Documentation Requirements for Major Acquisition Programs
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Pub. L. 114–113, div. F, title V, §561, Dec. 18, 2015, 129 Stat. 2521, provided that:
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+"(a) Each major acquisition program of the Department of Homeland Security, as defined in Department of Homeland Security Management Directive 102–2, shall meet established acquisition documentation requirements for its acquisition program baseline established in the Department of Homeland Security Instruction Manual 102–01–001 and the Department of Homeland Security Acquisition Instruction/Guidebook 102–01–001, Appendix K.
+
+"(b) The Department shall report to the Committees on Appropriations of the Senate and the House of Representatives in the Comprehensive Acquisition Status Report and its quarterly updates, required under the heading 'Office of the Under Secretary for Management' of this Act \[div. F of Pub. L. 114–113, 129 Stat. 2493\], on any major acquisition program that does not meet such documentation requirements and the schedule by which the program will come into compliance with these requirements.
+
+"(c) None of the funds made available by this or any other Act for any fiscal year may be used for a major acquisition program that is out of compliance with such documentation requirements for more than two years except that funds may be used solely to come into compliance with such documentation requirements or to terminate the program."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,11 +16,11 @@ The services authorized by this subpart for the high school equivalency program 
 
 &emsp;&emsp;(B)(i) who themselves, or whose immediate family, have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork; or
 
-&emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29; and
+&emsp;&emsp;(ii) who are eligible to participate, or have participated within the preceding 2 years, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 3222 of title 29; and
 
 &emsp;&emsp;(C) who lack a high school diploma or its equivalent;
 
-&emsp;(2) educational services which provide instruction designed to help students obtain a general education diploma which meets the guidelines established by the State in which the project is located for high school equivalency;
+&emsp;(2) educational services which provide instruction designed to help students obtain ageneral education diploma which meets the guidelines established by the State in which the project is located for high school equivalency;
 
 &emsp;(3) supportive services which include the following:
 
@@ -46,7 +46,7 @@ The services authorized by this subpart for the high school equivalency program 
 
 (1) Services authorized by this subpart for the college assistance migrant program include—
 
-&emsp;(A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 2912 of title 29, and who meet the minimum qualifications for attendance at a college or university;
+&emsp;(A) outreach and recruitment services to reach persons who themselves or whose immediate family have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork or who have participated or are eligible to participate, in programs under part C of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6391 et seq.\] or section 3222 of title 29, and who meet the minimum qualifications for attendance at a college or university;
 
 &emsp;(B) supportive and instructional services to improve placement, persistence, and retention in postsecondary education, which include:
 
@@ -136,7 +136,7 @@ From the amounts made available under subsection (i), the Secretary—
 
 &emsp;&emsp;(C) consider the need to provide an equitable geographic distribution of such grants; and
 
-&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the collegeassistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
+&emsp;(3) for any fiscal year for which the amount appropriated to carry out this section is less than $40,000,000, shall, in awarding grants from the remainder of such amounts make available the same percentage of funds to the high school equivalency program and to the college assistance migrant program as was made available for each such program for the fiscal year preceding the fiscal year for which the grant was made.
 
 #### (h) Data collection
 
@@ -153,10 +153,6 @@ The Secretary shall—
 For the purpose of making grants and contracts under this section, there are authorized to be appropriated $75,000,000 for fiscal year 2009 and such sums as may be necessary for the each of the five succeeding fiscal years.
 
 (Pub. L. 89–329, title IV, §418A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1341; amended Pub. L. 100–50, §7, June 3, 1987, 101 Stat. 340; Pub. L. 102–325, title IV, §405, July 23, 1992, 106 Stat. 507; Pub. L. 103–382, title III, §391(e)(1), (2), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §408, Oct. 7, 1998, 112 Stat. 1667; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(A), (f)(12)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 110–315, title IV, §408, Aug. 14, 2008, 122 Stat. 3223; Pub. L. 113–128, title V, §512(n)(1), July 22, 2014, 128 Stat. 1710.)
-
-#### Amendment of Section
-
-<i>Pub. L. 113–128, title V, §§506, 512(n)(1), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B)(ii) and (c)(1)(A) of this section are amended by striking "section 2912 of title 29" and inserting "section 3222 of title 29". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -240,7 +236,7 @@ Subsec. (g). Pub. L. 102–325, §405(d), amended subsec. (g) generally, substit
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendments
 

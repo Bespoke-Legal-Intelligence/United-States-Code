@@ -52,7 +52,7 @@ Incentive for prisoners' successful completion of treatment program.—
 
 &emsp;&emsp;(A)
 
-Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
+Generally.—Any prisoner who, in the judgment of the Director of the Bureau ofPrisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
 
 &emsp;&emsp;(B)
 

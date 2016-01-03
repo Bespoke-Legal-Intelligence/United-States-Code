@@ -14,7 +14,7 @@
 
 &emsp;(3) at the time of the initial scholarship award, not be an employee (as defined in section 2105).
 
-(c) An individual seeking a scholarship under this section shall submit an application to theAdministrator at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require to carry out this section.
+(c) An individual seeking a scholarship under this section shall submit an application to the Administrator at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require to carry out this section.
 
 (d) The Administrator shall make publicly available a list of academic programs and fields of study for which scholarships under the Program may be utilized and shall update the list as necessary.
 

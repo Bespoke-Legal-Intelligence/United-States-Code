@@ -12,7 +12,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections 294a(b)(1)(A), 294c(b), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals from schools of the types described in sections294a(b)(1)(A), 294c(b), and 294e(b) of this title. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
 
 #### (3) Minority representation
 
@@ -92,7 +92,7 @@ November 13, 1998, referred to in subsec. (b)(2), was in the original "the date 
 
 #### Prior Provisions
 
-A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2262; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(10), 91 Stat. 1506; Nov. 6, 1978, Pub. L. 95–598, title III, §327, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2730, 95 Stat. 919; July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(C)(ii), 102 Stat. 781; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(h)–(k), 102 Stat. 3123; Aug. 16, 1989, Pub. L. 101–93, §7, 103 Stat. 615, related to procedures upon default by borrower under student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292f of this title.
+A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct. 12, 1976, Pub. L. 94–484, title IV,§401(b)(3), 90 Stat. 2262; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(10), 91 Stat. 1506; Nov. 6, 1978, Pub. L. 95–598, title III, §327, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2730, 95 Stat. 919; July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(C)(ii), 102 Stat. 781; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(h)–(k), 102 Stat. 3123; Aug. 16, 1989, Pub. L. 101–93, §7, 103 Stat. 615, related to procedures upon default by borrower under student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292f of this title.
 
 Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub. L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 

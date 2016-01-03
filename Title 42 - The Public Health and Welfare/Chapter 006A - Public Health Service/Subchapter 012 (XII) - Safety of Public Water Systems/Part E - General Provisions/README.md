@@ -27,3 +27,4 @@ Part E—General Provisions
 - [&sect; 00300j&#8211;16 - Assistance to colonias](%C2%A7%2000300j%E2%80%9316%20-%20Assistance%20to%20colonias.md)
 - [&sect; 00300j&#8211;17 - Estrogenic substances screening program](%C2%A7%2000300j%E2%80%9317%20-%20Estrogenic%20substances%20screening%20program.md)
 - [&sect; 00300j&#8211;18 - Drinking water studies](%C2%A7%2000300j%E2%80%9318%20-%20Drinking%20water%20studies.md)
+- [&sect; 00300j&#8211;19 - Algal toxin risk assessment and management](%C2%A7%2000300j%E2%80%9319%20-%20Algal%20toxin%20risk%20assessment%20and%20management.md)

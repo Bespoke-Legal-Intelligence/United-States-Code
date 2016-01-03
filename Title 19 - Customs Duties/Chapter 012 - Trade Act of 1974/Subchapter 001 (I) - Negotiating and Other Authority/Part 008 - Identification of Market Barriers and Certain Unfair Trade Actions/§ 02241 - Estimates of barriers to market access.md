@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;On or before April 30, 1989, and on or before March 31 of each succeeding calendar year, the Trade Representative shall submit a report on the analysis and estimates made under subsection (a) of this section for the calendar year preceding such calendar year (which shall be known as the "National Trade Estimate") to the President, the Committee on Finance of the Senate, and appropriate committees of the House of Representatives.
+&emsp;On or before April 30, 1989, and on or before March 31 of each succeeding calendar year, the Trade Representative shall submit a report on the analysis and estimates made under subsection (a) for the calendar year preceding such calendar year (which shall be known as the "National Trade Estimate") to the President, the Committee on Finance of the Senate, and appropriate committees of the House of Representatives.
 
 #### (2) Reports to include information with respect to action being taken
 
@@ -74,13 +74,13 @@
 
 #### (3) Consultation with Congress on trade policy priorities
 
-&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
+&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including thepossible initiation of investigations under section 2412 of this title or other trade actions.
 
 #### (c) Assistance of other agencies
 
 #### (1) Furnishing of information
 
-&emsp;The head of each department or agency of the executive branch of the Government, including any independent agency, is authorized and directed to furnish to the Trade Representative or to the appropriate agency, upon request, such data, reports, and other information as is necessary for the Trade Representative to carry out his functions under this section. In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General.
+&emsp;The head of each department or agency of the executive branch of the Government, including any independent agency, is authorized and directed to furnish to the Trade Representative or to the appropriate agency, upon request, such data, reports, and other information as is necessary for the Trade Representative to carry out his functions under this section. In preparing the section of the report required by subsection (b)(2)(C), the Trade Representative shall consult in particular with the Attorney General.
 
 #### (2) Restrictions on release or use of information
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 105–277, §1202(3), added subsec. (d).
 
 Subsec. (b)(3). Pub. L. 103–465, §312, inserted at end "After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions."
 
-Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end "In preparing the section of the report required by subsection (b)(2)(C) of this section, the Trade Representative shall consult in particular with the Attorney General."
+Subsec. (c)(1). Pub. L. 103–465, §311(a)(2), inserted at end "In preparing the section of the report required by subsection (b)(2)(C), the Trade Representative shall consult in particular with the Attorney General."
 
 <b>1988</b>—Pub. L. 100–418, §1304(a)(10), substituted "Estimates of" for "Actions concerning" in section catchline.
 
@@ -142,7 +142,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 #### Construction of 1998 Amendments
 
-Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond thatwhich existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: "Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications\] or the amendments made by such Act."
 

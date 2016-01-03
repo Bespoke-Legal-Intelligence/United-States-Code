@@ -8,13 +8,13 @@
 
 #### (2) Availability
 
-&emsp;Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c) of this section.
+&emsp;Amounts held in the Torres-Martinez Settlement Trust Funds Account, the Torres-Martinez Allottees Settlement Account I, and the Torres-Martinez Allottees Settlement Account II shall be available to the Secretary for distribution to the Tribe and affected allottees in accordance with subsection (c).
 
 #### (b) Contributions to the settlement trust funds
 
 #### (1) In general
 
-&emsp;Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) of this section shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
+&emsp;Amounts paid to the Secretary for deposit into the trust fund accounts established by subsection (a) shall be allocated among and deposited in the trust accounts in the amounts determined by the tribal-allottee allocation provisions of the Settlement Agreement.
 
 #### (2) Cash payments by Coachella Valley Water District
 
@@ -22,7 +22,7 @@
 
 #### (3) Cash payments by Imperial Irrigation District
 
-&emsp;Within the time, in the manner, and upon the conditions specified in the Settlement Agreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the United States for the benefit of the Tribe and any affected allottees.
+&emsp;Within the time, in the manner, and upon the conditions specified in the SettlementAgreement, the Imperial Irrigation District shall pay the sum of $3,670,694.33 to the United States for the benefit of the Tribe and any affected allottees.
 
 #### (4) Cash payments by the United States
 

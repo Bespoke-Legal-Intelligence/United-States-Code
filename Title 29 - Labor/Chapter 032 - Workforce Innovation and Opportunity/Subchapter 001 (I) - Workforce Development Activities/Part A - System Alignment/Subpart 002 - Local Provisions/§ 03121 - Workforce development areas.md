@@ -22,7 +22,7 @@
 
 #### (A) Process
 
-&emsp;&emsp;Except as provided in subsection (d), and consistent with paragraphs (2) and (3), in order for a State to receive an allotment under section 3162(b) or 3172(b) of this title, the Governor of the State shall designate local workforce development areas within the State—
+&emsp;&emsp;Except as provided in subsection (d), and consistent with paragraphs (2) and (3), inorder for a State to receive an allotment under section 3162(b) or 3172(b) of this title, the Governor of the State shall designate local workforce development areas within the State—
 
 &emsp;&emsp;&emsp;(i) through consultation with the State board; and
 
@@ -56,11 +56,15 @@
 
 &emsp;The Governor may approve a request from any unit of general local government (including a combination of such units) for designation of an area as a local area if the State board determines, based on the considerations described in paragraph (1)(B), and recommends to the Governor, that such area should be so designated.
 
-#### (5) Appeals
+#### (5) Areas served by rural concentrated employment programs
+
+&emsp;The Governor may approve, under paragraph (2) or (3), a request for designation as a local area from an area described in section 3122(c)(1)(C) of this title.
+
+#### (6) Appeals
 
 &emsp;A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary of Labor, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeals process described in the State plan, as specified in section 3112(b)(2)(D)(i)(III) of this title, or that the area meets the requirements of paragraph (2) or (3), may require that the area be designated as a local area under such paragraph.
 
-#### (6) Redesignation assistance
+#### (7) Redesignation assistance
 
 &emsp;On the request of all of the local areas in a planning region, the State shall provide funding from funds made available under sections 3163(a) and 3173(a)(1) of this title to assist the local areas in carrying out activities to facilitate the redesignation of the local areas to a single local area.
 
@@ -124,7 +128,7 @@ For purposes of this section:
 
 &emsp;The term "sustained fiscal integrity", used with respect to a local area, means that the Secretary has not made a formal determination, during either of the last 2 consecutive years preceding the determination regarding such integrity, that either the grant recipient or the administrative entity of the area misexpended funds provided under part B (or, if applicable, title I of the Workforce Investment Act of 1998 as in effect prior to the effective date of such part B) due to willful disregard of the requirements of the provision involved, gross negligence, or failure to comply with accepted standards of administration.
 
-(Pub. L. 113–128, title I, §106, July 22, 2014, 128 Stat. 1452.)
+(Pub. L. 113–128, title I, §106, July 22, 2014, 128 Stat. 1452; Pub. L. 114–18, §2(a)(1), May 22, 2015, 129 Stat. 213.)
 
 #### References in Text
 
@@ -134,9 +138,17 @@ The Workforce Investment Act of 1998, referred to in subsecs. (b)(2), (d)(1), an
 
 The effective date of such part B, referred to in subsec. (e)(2), is the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(5) to (7). Pub. L. 114–18 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

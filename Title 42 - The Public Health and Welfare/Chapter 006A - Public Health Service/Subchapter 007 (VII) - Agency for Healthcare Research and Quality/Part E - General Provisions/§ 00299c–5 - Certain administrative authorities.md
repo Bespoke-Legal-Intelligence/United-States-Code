@@ -50,7 +50,7 @@ The Secretary, in carrying out this subchapter, may secure, from time to time an
 
 #### (B) Limitation
 
-&emsp;&emsp;Expenses specified in subparagraph (A) may not be allowed in connection with theassignment of an expert or consultant whose services are obtained under paragraph (1) unless and until the expert agrees in writing to complete the entire period of assignment, or 1 year, whichever is shorter, unless separated or reassigned for reasons that are beyond the control of the expert or consultant and that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a statutory obligation owed to the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
+&emsp;&emsp;Expenses specified in subparagraph (A) may not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless and until the expert agrees in writing to complete the entire period of assignment, or 1 year, whichever is shorter, unless separated or reassigned for reasons that are beyond the control of the expert or consultant and that are acceptable to the Secretary. If the expert or consultant violates the agreement, the money spent by the United States for the expenses specified in subparagraph (A) is recoverable from the expert or consultant as a statutory obligation owed to the United States. The Secretary may waive in whole or in part a right of recovery under this subparagraph.
 
 #### (g) Voluntary and uncompensated services
 

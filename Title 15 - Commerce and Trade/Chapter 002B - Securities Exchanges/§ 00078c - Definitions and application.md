@@ -34,7 +34,7 @@ Third party brokerage arrangements.—The bank enters into a contractual or othe
 
 &emsp;&emsp;&emsp;&emsp;(III) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement clearly indicate that the brokerage services are being provided by the broker or dealer and not by the bank;
 
-&emsp;&emsp;&emsp;&emsp;(IV) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement are in compliance with the Federal securities laws before distribution;
+&emsp;&emsp;&emsp;&emsp;(IV) any materials used by the bank to advertise or promote generally the availability of brokerage services under thearrangement are in compliance with the Federal securities laws before distribution;
 
 &emsp;&emsp;&emsp;&emsp;(V) bank employees (other than associated persons of a broker or dealer who are qualified pursuant to the rules of a self-regulatory organization) perform only clerical or ministerial functions in connection with brokerage transactions including scheduling appointments with the associated persons of a broker or dealer, except that bank employees may forward customer funds or securities and may describe in general terms the types of investment vehicles available from the bank and the broker or dealer under the arrangement;
 
@@ -86,7 +86,7 @@ Dividend reinvestment plans.—The bank effects transactions, as part of its tra
 
 Issuer plans.—The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of a plan or program for the purchase or sale of that issuer's shares, if—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the bank does not solicit transactions or provide investment advicewith respect to the purchase or sale of securities in connection with the plan or program; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan or program; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the bank does not net shareholders' buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
 
@@ -172,7 +172,7 @@ Execution by broker or dealer.—The exception to being considered a broker for 
 
 Fiduciary capacity.—For purposes of subparagraph (B)(ii), the term "fiduciary capacity" means—
 
-&emsp;&emsp;&emsp;(i) in the capacity as trustee, executor, administrator, registrar of stocks and bonds, transfer agent, guardian, assignee, receiver, or custodian under a uniform gift to minor act, or as an investment adviser if the bank receives a fee for its investment advice;
+&emsp;&emsp;&emsp;(i) in the capacity as trustee, executor, administrator, registrar of stocks andbonds, transfer agent, guardian, assignee, receiver, or custodian under a uniform gift to minor act, or as an investment adviser if the bank receives a fee for its investment advice;
 
 &emsp;&emsp;&emsp;(ii) in any capacity in which the bank possesses investment discretion on behalf of another; or
 
@@ -272,7 +272,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;(ii) Notwithstanding subparagraph (A)(ii) of this paragraph, municipal securities shall not be deemed to be "exempted securities" for the purposes of sections 78o and 78q–1 of this title.
 
-&emsp;(C) For purposes of subparagraph (A)(iv) of this paragraph, the term "qualified plan" means (i) a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (ii) an annuity plan which meets the requirements for the deduction of the employer's contribution under section 404(a)(2) of title 26, (iii) a governmental plan as defined in section 414(d) of title 26 which has been established by an employer for the exclusive benefit of its employees or their beneficiaries for the purpose of distributing to such employees or their beneficiaries the corpus and income of the funds accumulated under such plan, if under such plan it is impossible, prior to the satisfaction of all liabilities with respect to such employees and their beneficiaries, for any part of the corpus or income to be used for, or diverted to, purposes other than the exclusive benefit of such employees or their beneficiaries, or (iv) a church plan, company, or account that is excluded from the definition ofan investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], other than any plan described in clause (i), (ii), or (iii) of this subparagraph which (I) covers employees some or all of whom are employees within the meaning of section 401(c) of title 26, or (II) is a plan funded by an annuity contract described in section 403(b) of title 26.
+&emsp;(C) For purposes of subparagraph (A)(iv) of this paragraph, the term "qualified plan" means (i) a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (ii) an annuity plan which meets the requirements for the deduction of the employer's contribution under section 404(a)(2) of title 26, (iii) a governmental plan as defined in section 414(d) of title 26 which has been established by an employer for the exclusive benefit of its employees or their beneficiaries for the purpose of distributing to such employees or their beneficiaries the corpus and income of the funds accumulated under such plan, if under such plan it is impossible, prior to the satisfaction of all liabilities with respect to such employees and their beneficiaries, for any part of the corpus or income to be used for, or diverted to, purposes other than the exclusive benefit of such employees or their beneficiaries, or (iv) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], other than any plan described in clause (i), (ii), or (iii) of this subparagraph which (I) covers employees some or all of whom are employees within the meaning of section 401(c) of title 26, or (II) is a plan funded by an annuity contract described in section 403(b) of title 26.
 
 &emsp;(13) The terms "buy" and "purchase" each include any contract to buy, purchase, or otherwise acquire. For security futures products, such term includes any contract, agreement, or transaction for future delivery. For security-based swaps, such terms include the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap, as the context may require.
 
@@ -314,7 +314,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;(30) The term "municipal securities dealer" means any person (including a separately identifiable department or division of a bank) engaged in the business of buying and selling municipal securities for his own account, through a broker or otherwise, but does not include—
 
-&emsp;&emsp;(A) any person insofar as he buys or sells such securities for his own account, eitherindividually or in some fiduciary capacity, but not as a part of a regular business; or
+&emsp;&emsp;(A) any person insofar as he buys or sells such securities for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business; or
 
 &emsp;&emsp;(B) a bank, unless the bank is engaged in the business of buying and selling municipal securities for its own account other than in a fiduciary capacity, through a broker or otherwise: <i>Provided, however</i>, That if the bank is engaged in such business through a separately identifiable department or division (as defined by the Municipal Securities Rulemaking Board in accordance with section 78o–4(b)(2)(H) of this title), the department or division and not the bank itself shall be deemed to be the municipal securities dealer.
 
@@ -398,7 +398,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 > &emsp;As used in this paragraph, the terms "bank holding company" and "subsidiary of a bank holding company" have the meanings given them in section 1841 of title 12. As used in this paragraph, the term "savings and loan holding company" has the same meaning as in section 1467a(a) of title 12.
 
-&emsp;(35) A person exercises "investment discretion" with respect to an account if, directly or indirectly, such person (A) is authorized to determine what securities or other property shall be purchased or sold by or for the account, (B) makes decisions as to what securities or other property shall be purchased or sold by or for the account even though some other person may have responsibility for such investment decisions, or (C) otherwise exercises such influence with respect to the purchase and sale of securities or other property by or for the account as the Commission, by rule, determines, in the public interest or for the protection of investors, should be subject to the operation of the provisions of this chapter and the rules and regulations thereunder.
+&emsp;(35) A person exercises "investment discretion" with respect to an account if, directly or indirectly, such person (A) is authorized to determine what securities or other property shall be purchased or sold by or for the account, (B) makes decisions as to what securities or other property shall be purchased or sold by or for the account even though some other person may have responsibility for such investment decisions, or (C) otherwise exercises such influence with respect to the purchase and sale of securities or other propertyby or for the account as the Commission, by rule, determines, in the public interest or for the protection of investors, should be subject to the operation of the provisions of this chapter and the rules and regulations thereunder.
 
 &emsp;(36) A class of persons or markets is subject to "equal regulation" if no member of the class has a competitive advantage over any other member thereof resulting from a disparity in their regulation under this chapter which the Commission determines is unfair and not necessary or appropriate in furtherance of the purposes of this chapter.
 
@@ -428,7 +428,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;(E) has associated with him any person who is known, or in the exercise of reasonable care should be known, to him to be a person described by subparagraph (A), (B), (C), or (D) of this paragraph; or
 
-&emsp;&emsp;(F) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (D), (E), (H), or (G) of paragraph (4) of section 78o(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) or any other felony within ten years of the date of the filing of an application for membership or participation in, or to become associated with a member of, such self-regulatory organization, is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4), has willfully made or caused to be made in any application for membership or participation in, or to become associated with a member of, a self-regulatory organization, report required to be filed with a self-regulatory organization, or proceeding before a self-regulatory organization, any statement which was at the time, and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application, report, or proceeding any material fact which is required to be stated therein.
+&emsp;&emsp;(F) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (D), (E), (H), or (G) of paragraph (4) of section 78o(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) or any other felony within ten years of the date of the filing of an application for membership or participation in, or to become associated with a member of, such self-regulatory organization, is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4), has willfully made or caused to be made in any application for membership or participation in, or to become associated with a member of, a self-regulatory organization, report requiredto be filed with a self-regulatory organization, or proceeding before a self-regulatory organization, any statement which was at the time, and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application, report, or proceeding any material fact which is required to be stated therein.
 
 &emsp;(40) The term "financial responsibility rules" means the rules and regulations of the Commission or the rules and regulations prescribed by any self-regulatory organization relating to financial responsibility and related practices which are designated by the Commission, by rule or regulation, to be financial responsibility rules.
 
@@ -464,7 +464,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;&emsp;(A) any corporation the securities of which are government securities under subparagraph (B) or (C) of paragraph (42) of this subsection; or
 
-&emsp;&emsp;(B) any person registered with the Commodity Futures Trading Commission, anycontract market designated by the Commodity Futures Trading Commission, such contract market's affiliated clearing organization, or any floor trader on such contract market, solely because such person effects transactions in government securities that the Commission, after consultation with the Commodity Futures Trading Commission, has determined by rule or order to be incidental to such person's futures-related business.
+&emsp;&emsp;(B) any person registered with the Commodity Futures Trading Commission, any contract market designated by the Commodity Futures Trading Commission, such contract market's affiliated clearing organization, or any floor trader on such contract market, solely because such person effects transactions in government securities that the Commission, after consultation with the Commodity Futures Trading Commission, has determined by rule or order to be incidental to such person's futures-related business.
 
 &emsp;(44) The term "government securities dealer" means any person engaged in the business of buying and selling government securities for his own account, through a broker or otherwise, but does not include—
 
@@ -510,7 +510,7 @@ Identified banking products.—The bank buys or sells identified banking product
 
 &emsp;(C) In exercising its authority under this paragraph to prescribe rules, regulations, and orders, the Commission shall determine that such rule, regulation, or order is consistent with the public interest and the protection of investors.
 
-&emsp;(52) The term "foreign financial regulatory authority" means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organization empowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade, or foreign equivalent, or other financial activities, or (C) membership organization a function of which is to regulate participation of its members in activities listed above.
+&emsp;(52) The term "foreign financial regulatory authority" means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organization empowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade, or foreign equivalent, or other financial activities,or (C) membership organization a function of which is to regulate participation of its members in activities listed above.
 
 &emsp;(53)(A) The term "small business related security" means a security that meets standards of credit-worthiness as established by the Commission, and either—
 
@@ -572,7 +572,7 @@ Altered thresholds for asset-backed securities and loan participations.—For pu
 
 Additional authority.—The Commission may, by rule or order, define a "qualified investor" as any other person, taking into consideration such factors as the financial sophistication of the person, net worth, and knowledge and experience in financial matters.
 
-&emsp;(55)(A) The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under paragraph (12) of this subsection as in effect on January 11, 1983 (other than any municipal security as defined in paragraph (29) of this subsection as in effect on January 11, 1983). The term "security future" does not include any agreement, contract, or transaction excluded from the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] under section 2(c), 2(d), 2(f), or 2(g) of the Commodity Exchange Act \[7 U.S.C. 2(c), (d), (f), (g)\] (as in effect on December 21, 2000) or sections 27 to 27f of title 7.
+&emsp;(55)(A) The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under paragraph (12) of this subsection as in effect on January 11, 1983 (other than any municipal security as defined in paragraph (29) of this subsection as in effect on January 11, 1983). The term "security future" does not include any agreement, contract, or transaction excluded from the Commodity Exchange Act \[7U.S.C. 1 et seq.\] under section 2(c), 2(d), 2(f), or 2(g) of the Commodity Exchange Act \[7 U.S.C. 2(c), (d), (f), (g)\] (as in effect on December 21, 2000) or sections 27 to 27f of title 7.
 
 &emsp;(B) The term "narrow-based security index" means an index—
 
@@ -630,7 +630,7 @@ Additional authority.—The Commission may, by rule or order, define a "qualifie
 
 &emsp;(57)(A) The term "margin", when used with respect to a security futures product, means the amount, type, and form of collateral required to secure any extension or maintenance of credit, or the amount, type, and form of collateral required as a performance bond related to the purchase, sale, or carrying of a security futures product.
 
-&emsp;(B) The terms "margin level" and "level of margin", when used with respect to a securityfutures product, mean the amount of margin required to secure any extension or maintenance of credit, or the amount of margin required as a performance bond related to the purchase, sale, or carrying of a security futures product.
+&emsp;(B) The terms "margin level" and "level of margin", when used with respect to a security futures product, mean the amount of margin required to secure any extension or maintenance of credit, or the amount of margin required as a performance bond related to the purchase, sale, or carrying of a security futures product.
 
 &emsp;(C) The terms "higher margin level" and "higher level of margin", when used with respect to a security futures product, mean a margin level established by a national securities exchange registered pursuant to section 78f(g) of this title that is higher than the minimum amount established and in effect pursuant to section 78g(c)(2)(B) of this title.
 
@@ -718,7 +718,7 @@ In general.—The term "major security-based swap participant" means any person�
 
 &emsp;&emsp;(B)
 
-Definition of substantial position.—For purposes of subparagraph (A), the Commission shall define, by rule or regulation, the term "substantial position" at the threshold that the Commission determines to be prudent for the effective monitoring,management, and oversight of entities that are systemically important or can significantly impact the financial system of the United States. In setting the definition under this subparagraph, the Commission shall consider the person's relative position in uncleared as opposed to cleared security-based swaps and may take into consideration the value and quality of collateral held against counterparty exposures.
+Definition of substantial position.—For purposes of subparagraph (A), the Commission shall define, by rule or regulation, the term "substantial position" at the threshold that the Commission determines to be prudent for the effective monitoring, management, and oversight of entities that are systemically important or can significantly impact the financial system of the United States. In setting the definition under this subparagraph, the Commission shall consider the person's relative position in uncleared as opposed to cleared security-based swaps and may take into consideration the value and quality of collateral held against counterparty exposures.
 
 &emsp;&emsp;(C)
 
@@ -878,7 +878,7 @@ Emerging growth company.—The term "emerging growth company" means an issuer th
 
 &emsp;&emsp;(C) the date on which such issuer has, during the previous 3-year period, issued more than $1,000,000,000 in non-convertible debt; or
 
-&emsp;&emsp;(D) the date on which such issuer is deemed to be a "large accelerated filer", asdefined in section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
+&emsp;&emsp;(D) the date on which such issuer is deemed to be a "large accelerated filer", as defined in section 240.12b–2 of title 17, Code of Federal Regulations, or any successor thereto.
 
 &emsp;(80) <sup>7</sup>
 
@@ -930,7 +930,7 @@ Whenever pursuant to this chapter the Commission is engaged in rulemaking, or in
 
 No church plan described in section 414(e) of title 26, no person or entity eligible to establish and maintain such a plan under title 26, no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\], and no trustee, director, officer or employee of or volunteer for such plan, company, account, person, or entity, acting within the scope of that person's employment or activities with respect to such plan, shall be deemed to be a "broker", "dealer", "municipal securities broker", "municipal securities dealer", "government securities broker", "government securities dealer", "clearing agency", or "transfer agent" for purposes of this chapter—
 
-&emsp;(1) solely because such plan, company, person, or entity buys, holds, sells, trades in, or transfers securities or acts as an intermediary in making payments in connection with transactions in securities for its own account in its capacity as trustee or administrator of, or otherwise on behalf of, or for the account of, any church plan, company, or account that isexcluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; and
+&emsp;(1) solely because such plan, company, person, or entity buys, holds, sells, trades in, or transfers securities or acts as an intermediary in making payments in connection with transactions in securities for its own account in its capacity as trustee or administrator of, or otherwise on behalf of, or for the account of, any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; and
 
 &emsp;(2) if no such person or entity receives a commission or other transaction-related sales compensation in connection with any activities conducted in reliance on the exemption provided by this subsection.
 
@@ -982,7 +982,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (a)(34)(D), (F)(iii), 
 
 The International Banking Act of 1978, referred to in subsec. (a)(34)(G)(i) to (iii), (46)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 247, 611a, and 3101 of Title 12 and formerly set out as notes under sections 36, 247, and 601 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (a)(34)(G)(ii), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act, referred to in subsec. (a)(34)(G)(ii), (H)(ii), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
+Section 25 of the Federal Reserve Act, referred to in subsec. (a)(34)(G)(ii), is classified to subchapter I (§601et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act, referred to in subsec. (a)(34)(G)(ii), (H)(ii), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 
 The Commodity Exchange Act, referred to in subsec. (a)(39)(B)(ii), (C), (55)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -1036,13 +1036,13 @@ Subsec. (a)(34)(A)(iii). Pub. L. 111–203, §376(1)(A)(iii), substituted "a sub
 
 Subsec. (a)(34)(A)(iv), (v). Pub. L. 111–203, §376(1)(A)(iv), (v), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: "the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, a subsidiary or a department or division of any such savings association, or a savings and loan holding company; and".
 
-Subsec. (a)(34)(B)(i). Pub. L. 111–203, §376(1)(B)(i), substituted "a subsidiary of any such bank, a Federal savings association (as defined in section 3(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(2))),the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such Federal savings association" for "or a subsidiary of any such bank".
+Subsec. (a)(34)(B)(i). Pub. L. 111–203, §376(1)(B)(i), substituted "a subsidiary of any such bank, a Federal savings association (as defined in section 3(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such Federal savings association" for "or a subsidiary of any such bank".
 
 Subsec. (a)(34)(B)(ii). Pub. L. 111–203, §376(1)(B)(ii), substituted "a subsidiary of a bank holding company that is a bank other than a bank specified in clause (i) or (iii) of this subparagraph, or a savings and loan holding company" for "or a subsidiary of a bank holding company which is a bank other than a bank specified in clause (i), (iii), or (iv) of this subparagraph".
 
 Subsec. (a)(34)(B)(iii). Pub. L. 111–203, §376(1)(B)(iii), substituted "a subsidiary of any such bank, a State savings association (as defined in section 3(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(3))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such State savings association; and" for "or a subsidiary thereof;".
 
-Subsec. (a)(34)(B)(iv), (v). Pub. L. 111–203, §376(1)(B)(iv), (v), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: "the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such savings association, or a savings and loan holding company; and".
+Subsec. (a)(34)(B)(iv), (v). Pub. L. 111–203, §376(1)(B)(iv), (v), redesignated cl. (v) as (iv) and struckout former cl. (iv) which read as follows: "the Director of the Office of Thrift Supervision, in the case of a savings association (as defined in section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b))), the deposits of which are insured by the Federal Deposit Insurance Corporation, or a subsidiary of any such savings association, or a savings and loan holding company; and".
 
 Subsec. (a)(34)(C)(i). Pub. L. 111–203, §376(1)(C)(i), inserted "or a Federal savings association (as defined in section 3(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(2))), the deposits of which are insured by the Federal Deposit Insurance Corporation" after "bank".
 
@@ -1098,7 +1098,7 @@ Subsec. (g). Pub. L. 111–203, §985(b)(2)(B), substituted "account, person" fo
 
 Subsec. (a)(6)(A). Pub. L. 109–351, §401(a)(1)(A), inserted "or a Federal savings association, as defined in section 1462(5) of title 12" after "a banking institution organized under the laws of the United States".
 
-Subsec. (a)(6)(C). Pub. L. 109–351, §401(a)(1)(B), inserted "or savings association, as defined in section 1462(4) of title 12" after "other banking institution" and "or savings associations" after "having supervision over banks".
+Subsec. (a)(6)(C). Pub. L. 109–351, §401(a)(1)(B), inserted "or savings association, as defined in section 1462(4) of title 12" after "other banking institution"and "or savings associations" after "having supervision over banks".
 
 Subsec. (a)(34). Pub. L. 109–351, §401(a)(2)(G), inserted at end of concluding provisions "As used in this paragraph, the term 'savings and loan holding company' has the same meaning as in section 1467a(a) of title 12."
 
@@ -1188,7 +1188,7 @@ Subsec. (a)(34)(G)(ii) to (iv). Pub. L. 103–202, §109(a)(1), amended cls. (ii
 
 "(iv) the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
-Subsec. (a)(46). Pub. L. 103–202, §109(a)(2), amended par. (46) generally. Prior to amendment, par. (46) read as follows: "The term 'financial institution' means (A) a bank (as such term is defined in paragraph (6) of this subsection), (B) a foreign bank, and (C) an insured institution (as such term is defined in section 1724 of title 12)."
+Subsec. (a)(46). Pub. L. 103–202, §109(a)(2), amended par. (46) generally. Prior to amendment, par. (46) read as follows: "The term 'financial institution' means (A)a bank (as such term is defined in paragraph (6) of this subsection), (B) a foreign bank, and (C) an insured institution (as such term is defined in section 1724 of title 12)."
 
 Subsec. (a)(52). Pub. L. 103–202, §109(a)(3), redesignated par. (51) defining "foreign financial regulatory authority" as (52).
 
@@ -1262,7 +1262,7 @@ Subsec. (a)(41). Pub. L. 98–440 added par. (41).
 
 <b>1978</b>—Subsec. (a)(40). Pub. L. 95–283 added par. (40).
 
-<b>1975</b>—Subsec. (a)(3). Pub. L. 94–29, §3(1), redefined term "member" to recognize the elimination of fixed commission rates in the case of exchanges, inserted definition of term when used in the case of registered securities associations, expanded definition of term when used with respect to an exchange to include any natural person permitted to effect transactions on the floor of an exchange without the services of another person acting as broker, any registered broker or dealer with which such natural person is associated, any registered broker or dealer permitted to designate a natural person as its representative on the floor of an exchange, and any other registered broker or dealer which agrees to be regulated by an exchange and with respect to whom the exchange has undertaken to enforce compliance with its rules, this chapter, and the rules and regulations thereunder, introduced the concept of including among members any person required to comply with the rules of an exchange to the extent specified by the Commission in accordance with section 78f(f) of this title, and expanded definition of term when used with respect to a registered securities association to include any broker or dealer who has agreed to be regulated and with respect to whom the association undertakes to enforce compliance with its own rules, this chapter, and the rules and regulations thereunder.
+<b>1975</b>—Subsec. (a)(3). Pub. L. 94–29, §3(1), redefined term "member" to recognize the elimination of fixedcommission rates in the case of exchanges, inserted definition of term when used in the case of registered securities associations, expanded definition of term when used with respect to an exchange to include any natural person permitted to effect transactions on the floor of an exchange without the services of another person acting as broker, any registered broker or dealer with which such natural person is associated, any registered broker or dealer permitted to designate a natural person as its representative on the floor of an exchange, and any other registered broker or dealer which agrees to be regulated by an exchange and with respect to whom the exchange has undertaken to enforce compliance with its rules, this chapter, and the rules and regulations thereunder, introduced the concept of including among members any person required to comply with the rules of an exchange to the extent specified by the Commission in accordance with section 78f(f) of this title, and expanded definition of term when used with respect to a registered securities association to include any broker or dealer who has agreed to be regulated and with respect to whom the association undertakes to enforce compliance with its own rules, this chapter, and the rules and regulations thereunder.
 
 Subsec. (a)(9). Pub. L. 94–29, §3(2), substituted "a natural person, company, government, or political subdivision, agency, or instrumentality of a government" for "an individual, a corporation, a partnership, an association, a joint-stock company, a business trust, or an unincorporated organization".
 
@@ -1310,7 +1310,7 @@ Amendment by sections 932(b), 941(a), 944(b), 985(b)(2), and 986(a)(1) of Pub. L
 
 Amendment by section 376(1) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-Amendment by section 761(a) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, tothe extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+Amendment by section 761(a) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
 
 Amendment by section 939(e) of Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of Title 12, Banks and Banking.
 
@@ -1320,7 +1320,7 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 #### Effective Date of 1999 Amendment
 
-Amendment by sections 201, 202, 207, and 208 of Pub. L. 106–102 effective at the end of the 18-month period beginning on Nov. 12, 1999, see section 209 of Pub. L. 106–102, set out as a note under section 1828 of Title 12, Banks and Banking.
+Amendment by sections 201, 202, 207, and 208 of Pub. L. 106–102 effective at the end of the 18-month periodbeginning on Nov. 12, 1999, see section 209 of Pub. L. 106–102, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 Amendment by section 221(b) of Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see section 225 of Pub. L. 106–102, set out as a note under section 77c of this title.
 
@@ -1396,7 +1396,7 @@ Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Rulemaking
 
@@ -1462,7 +1462,7 @@ Definition of Identified Banking Product.—Except as provided in subsection (e)
 
 &emsp;&emsp;&emsp;"(ii) based on such factors as financial sophistication, net worth, and knowledge and experience in financial matters, have the capability to evaluate the information available, as determined under generally applicable banking standards or guidelines; or
 
-&emsp;"(6) any swap agreement, including credit and equity swaps, except that an equity swap that is sold directly to any person other than a qualified investor (as defined in section 3(a)(54) of the Securities Act of1934 \[15 U.S.C. 78c(a)(54)\]) shall not be treated as an identified banking product.
+&emsp;"(6) any swap agreement, including credit and equity swaps, except that an equity swap that is sold directly to any person other than a qualified investor (as defined in section 3(a)(54) of the Securities Act of 1934 \[15 U.S.C. 78c(a)(54)\]) shall not be treated as an identified banking product.
 
 "(b)
 
@@ -1474,7 +1474,7 @@ Classification Limited.—Classification of a particular product as an identifie
 
 "(d)
 
-Incorporated Definitions.—For purposes of this section, the terms 'bank' and 'qualified investor' have the same meanings as given in section 3(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)\], as amended by this Act."
+Incorporated Definitions.—For purposes of this section, the terms 'bank' and 'qualified investor' havethe same meanings as given in section 3(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)\], as amended by this Act."
 
 Pub. L. 106–102, title II, §§206A—206C, as added by Pub. L. 106–554, §1(a)(5) \[title III, §301(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–449, and amended by Pub. L. 111–203, title VII, §762(a), (b), July 21, 2010, 124 Stat. 1759, provided that:
 

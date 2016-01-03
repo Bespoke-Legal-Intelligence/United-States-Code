@@ -2,11 +2,11 @@
 
 #### (a) Permanent ineligibility
 
-Notwithstanding the provisions of section 405(b) <sup>1</sup> but subject to subsection (c) of this section, any alien who applies or has applied for exemption or discharge from training or service in the Armed Forces or in the National Security Training Corps of the United States on the ground that he is an alien, and is or was relieved or discharged from such training or service on such ground, shall be permanently ineligible to become a citizen of the United States.
+Notwithstanding the provisions of section 405(b) <sup>1</sup> but subject to subsection (c), any alien who applies or has applied for exemption or discharge from training or service in the Armed Forces or in the National Security Training Corps of the United States on the ground that he is an alien, and is or was relieved or discharged from such training or service on such ground, shall be permanently ineligible to become a citizen of the United States.
 
 #### (b) Conclusiveness of records
 
-The records of the Selective Service System or of the Department of Defense shall be conclusiveas to whether an alien was relieved or discharged from such liability for training or service because he was an alien.
+The records of the Selective Service System or of the Department of Defense shall be conclusive as to whether an alien was relieved or discharged from such liability for training or service because he was an alien.
 
 #### (c) Service in armed forces of foreign country
 
@@ -20,7 +20,7 @@ Section 405(b), referred to in subsec. (a), is section 405(b) of act June 27, 19
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §404(1), inserted "but subject to subsection (c) of this section" after "section 405(b)".
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §404(1), inserted "but subject to subsection (c)" after "section 405(b)".
 
 Subsec. (c). Pub. L. 101–649, §404(2), added subsec. (c).
 

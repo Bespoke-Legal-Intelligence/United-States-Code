@@ -2,7 +2,7 @@
 
 #### (a) Federal and State laws unaffected
 
-Nothing in this chapter shall authorize Federal hunting or fishing licenses or fees or charges for commercial or other activities not related to recreation, affect any rights or authority of the States with respect to fish and wildlife, or repeal or modify any provision of law that permits States or political subdivisions of States to share in the revenues from Federal lands or, except as provided in subsection (b), any provision of law that provides that any fees or charges collected at particular Federal areas be used for or credited to specific purposes or special funds as authorized by that provision of law.
+Nothing in this chapter shall authorize Federal hunting or fishing licenses or fees orcharges for commercial or other activities not related to recreation, affect any rights or authority of the States with respect to fish and wildlife, or repeal or modify any provision of law that permits States or political subdivisions of States to share in the revenues from Federal lands or, except as provided in subsection (b), any provision of law that provides that any fees or charges collected at particular Federal areas be used for or credited to specific purposes or special funds as authorized by that provision of law.
 
 #### (b) Relation to revenue allocation laws
 
@@ -82,7 +82,7 @@ Section 4(e) of the Southern Nevada Public Land Management Act of 1998, referred
 
 Section 5(a) of the Lincoln County Land Act of 2000, referred to in subsec. (b)(15), is section 5(a) of Pub. L. 106–298, Oct. 13, 2000, 114 Stat. 1047, which is not classified to the Code.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classifiedgenerally to subchapter IV (§718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

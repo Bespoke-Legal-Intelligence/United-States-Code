@@ -6,7 +6,7 @@ Notwithstanding any other authority with respect to the jurisdiction and control
 
 #### (b) Transfer of accounts, records, supplies, equipment, and assets
 
-The Architect of the Capitol is hereby authorized and directed to transfer, as the Committee on House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
+The Architect of the Capitol is hereby authorized and directed to transfer, as the Committeeon House Oversight directs, all accounts, records, supplies, equipment, and assets of the House Restaurant and the cafeteria and other food service facilities of the House which are in the possession or under the control of the Architect of the Capitol in order that all such items may be available for the maintenance and operation of the House Restaurant under the authority of, and as directed by, the Committee on House Oversight.
 
 #### (c) Special deposit account
 
@@ -68,7 +68,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 "(b) The provisions of law referred to in subsection (a) are—
 
-&emsp;"(1) subchapter III of chapter 83 of title 5, United States Code (including section 8339(m) of such title (which shall be applied, when an employee retires on an immediate annuity or dies, as if the employmentat the time of retirement or death were under a formal leave system), with respect to unused sick leave to the credit of an employee on the day referred to in subsection (a)(1));
+&emsp;"(1) subchapter III of chapter 83 of title 5, United States Code (including section 8339(m) of such title (which shall be applied, when an employee retires on an immediate annuity or dies, as if the employment at the time of retirement or death were under a formal leave system), with respect to unused sick leave to the credit of an employee on the day referred to in subsection (a)(1));
 
 &emsp;"(2) chapter 84 of title 5, United States Code; and
 

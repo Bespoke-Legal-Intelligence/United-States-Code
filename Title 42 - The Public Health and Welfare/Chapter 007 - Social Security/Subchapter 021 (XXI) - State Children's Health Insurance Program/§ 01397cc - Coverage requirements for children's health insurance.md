@@ -2,7 +2,7 @@
 
 #### (a) Required scope of health insurance coverage
 
-The child health assistance provided to a targeted low-income child under the plan in theform described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
 
 #### (1) Benchmark coverage
 
@@ -22,7 +22,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection\(c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
@@ -120,7 +120,7 @@ The benchmark benefit packages are as follows:
 
 #### (ii) State employee dependent dental coverage
 
-&emsp;&emsp;&emsp;A dental benefits plan that is offered and generally available to State employees in the State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
+&emsp;&emsp;&emsp;A dental benefits plan that is offered and generally available to State employees inthe State involved and that has been selected most frequently by employees seeking dependent coverage, among such plans that provide such dependent coverage, in either of the previous 2 plan years.
 
 #### (iii) Coverage offered through commercial dental plan
 
@@ -196,7 +196,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Other children
 
-&emsp;&emsp;For children not described in subparagraph (A), subject to paragraphs (1)(B) and (2), any premiums, deductibles, cost sharing or similar charges imposed under the State child health plan may be imposed on a sliding scale related to income, except that the total annual aggregate cost-sharing with respect to all targeted low-income children in a family under this subchapter may not exceed 5 percent of such family's income for the year involved.
+&emsp;&emsp;For children not described in subparagraph (A), subject to paragraphs (1)(B) and (2), any premiums, deductibles, cost sharing or similar charges imposed under the State childhealth plan may be imposed on a sliding scale related to income, except that the total annual aggregate cost-sharing with respect to all targeted low-income children in a family under this subchapter may not exceed 5 percent of such family's income for the year involved.
 
 #### (C) Premium grace period
 

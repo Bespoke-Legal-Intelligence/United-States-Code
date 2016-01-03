@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Alcohol-related neurodevelopmental disorders; ARND
 
-&emsp;The term "alcohol-related neurodevelopmental disorders" or "ARND" means, with a history of maternal alcohol consumption during pregnancy, central nervous system abnormalities, which may range from minor intellectual deficits and developmental delays to mental retardation. ARND children may have behavioral problems, learning disabilities, problems with executive functioning, and attention disorders. The neurological defects of ARND may be as severe as FAS, but facial anomalies and other physical characteristics are not present in ARND, thus making diagnosis difficult.
+&emsp;The term "alcohol-related neurodevelopmental disorders" or "ARND" means, with a history of maternal alcohol consumption during pregnancy, central nervous system abnormalities, which may range from minor intellectual deficits and developmentaldelays to mental retardation. ARND children may have behavioral problems, learning disabilities, problems with executive functioning, and attention disorders. The neurological defects of ARND may be as severe as FAS, but facial anomalies and other physical characteristics are not present in ARND, thus making diagnosis difficult.
 
 #### (2) Assessment
 

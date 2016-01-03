@@ -34,7 +34,7 @@ Notwithstanding section 1469a of title 48, funds allocated under this part to an
 
 #### Prior Provisions
 
-A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–34, Pub. L. 89–329, title IV, §419D, as added Pub. L. 98–558, title VIII, §801(a), Oct.30, 1984, 98 Stat. 2901, related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

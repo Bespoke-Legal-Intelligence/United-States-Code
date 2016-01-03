@@ -38,6 +38,10 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 (Added Pub. L. 95–600, title II, §211(a), Nov. 6, 1978, 92 Stat. 2817; amended Pub. L. 110–142, §8(a), (b), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–458, title I, §127(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(d), Dec. 19, 2014, 128 Stat. 4073.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
 #### Codification
 
 Another section 6698, formerly section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
@@ -60,7 +64,7 @@ Amendment by Pub. L. 113–295 applicable to returns required to be filed after 
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §16(b), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section\[amending this section and section 6699 of this title\] shall apply to returns for taxable years beginning after December 31, 2009."
+Pub. L. 111–92, §16(b), Nov. 6, 2009, 123 Stat. 2996, provided that: "The amendments made by this section \[amending this section and section 6699 of this title\] shall apply to returns for taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 

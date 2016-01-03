@@ -38,7 +38,7 @@
 
 #### (B) If certain short life cycle merchandise involved
 
-&emsp;&emsp;If a petition filed under section 1673a(b) of this title, or an investigation initiated undersection 1673a(a) of this title, concerns short life cycle merchandise that is included in a product category established under section 1673h(a) of this title, subparagraph (A) shall be applied—
+&emsp;&emsp;If a petition filed under section 1673a(b) of this title, or an investigation initiated under section 1673a(a) of this title, concerns short life cycle merchandise that is included in a product category established under section 1673h(a) of this title, subparagraph (A) shall be applied—
 
 &emsp;&emsp;&emsp;(i) by substituting "100 days" for "140 days" if manufacturers that are second offenders account for a significant proportion of the merchandise under investigation, and
 
@@ -74,7 +74,7 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1) of this section, or
+&emsp;&emsp;(A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1), or
 
 &emsp;&emsp;(B) the administering authority concludes that the parties concerned are cooperating and determines that—
 
@@ -88,11 +88,11 @@
 
 &emsp;&emsp;&emsp;(ii) additional time is necessary to make the preliminary determination,
 
-> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b)(1) of this section until not later than the 190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title, or an investigation is initiated under section 1673a(a) of this title. No extension of a determination date may be made under this paragraph for any investigation in which a determination date provided for in subsection (b)(1)(B) of this section applies unless the petitioner submits written notice to the administering authority of its consent to the extension.
+> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b)(1) until not later than the 190th day after the date on which the administering authority initiates an investigation under section 1673a(c) of this title, or an investigation is initiated under section 1673a(a) of this title. No extension of a determination date may be made under this paragraph for any investigation in which a determination date provided for in subsection (b)(1)(B) applies unless the petitioner submits written notice to the administering authority of its consent to the extension.
 
 #### (2) Notice of postponement
 
-&emsp;The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
+&emsp;The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
 
 #### (d) Effect of determination by the administering authority
 
@@ -112,7 +112,7 @@ If the preliminary determination of the administering authority under subsection
 
 &emsp;&emsp;(B) the date that is 60 days after the date on which notice of the determination to initiate the investigation is published in the Federal Register, and
 
-&emsp;(3) shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
+&emsp;(3) shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its injury determination, under such procedures as the administering authority and the Commission may establishto prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
 > The instructions of the administering authority under paragraphs (1) and (2) may not remain in effect for more than 4 months, except that the administering authority may, at the request of exporters representing a significant proportion of exports of the subject merchandise, extend that 4-month period to not more than 6 months.
 
@@ -128,11 +128,11 @@ If the preliminary determination of the administering authority under subsection
 
 &emsp;&emsp;(B) there have been massive imports of the subject merchandise over a relatively short period.
 
-> &emsp;The administering authority shall be treated as having made an affirmative determination under subparagraph (A) in any investigation to which subsection (b)(1)(B) of this section is applied.
+> &emsp;The administering authority shall be treated as having made an affirmative determination under subparagraph (A) in any investigation to which subsection (b)(1)(B) is applied.
 
 #### (2) Suspension of liquidation
 
-&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
 &emsp;&emsp;(A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -140,7 +140,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (f) Notice of determination
 
-Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
 (June 17, 1930, ch. 497, title VII, §733, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 163; amended Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1323(b), 1324(b)(2), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1198, 1201, 1204; Pub. L. 103–465, title II, §§212(b)(2)(A), (C)–(E), 213(a), 214(b)(1), 215(b), 219(a), (c)(1), 233(a)(6)(A)(viii)–(x), (B), Dec. 8, 1994, 108 Stat. 4848–4852, 4855, 4857, 4901.)
 

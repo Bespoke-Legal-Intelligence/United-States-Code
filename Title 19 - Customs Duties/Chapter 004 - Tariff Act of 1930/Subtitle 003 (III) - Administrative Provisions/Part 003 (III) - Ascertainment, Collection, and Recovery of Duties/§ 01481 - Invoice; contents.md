@@ -18,7 +18,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 &emsp;(7) The kind of currency, whether gold, silver, or paper;
 
-&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases, containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
+&emsp;(8) All charges upon the merchandise, itemized by name and amount when known to the seller or shipper; or all charges by name (including commissions, insurance, freight, cases,containers, coverings, and cost of packing) included in the invoice prices when the amounts for such charges are unknown to the seller or shipper;
 
 &emsp;(9) All rebates, drawbacks, and bounties, separately itemized, allowed upon the exportation of the merchandise; and
 
@@ -26,7 +26,7 @@ All invoices of merchandise to be imported into the United States and any electr
 
 #### (b) Shipments not purchased and not shipped by manufacturer
 
-If the merchandise is shipped to a person in the United States by a person other than the manufacturer, otherwise than by purchase, suchperson shall state on the invoice the time when, the place where, the person from whom such merchandise was purchased, and the price paid therefor in the currency of the purchase, stating whether gold, silver, or paper.
+If the merchandise is shipped to a person in the United States by a person other than the manufacturer, otherwise than by purchase, such person shall state on the invoice the time when, the place where, the person from whom such merchandise was purchased, and the price paid therefor in the currency of the purchase, stating whether gold, silver, or paper.
 
 #### (c) Importer provision of information
 

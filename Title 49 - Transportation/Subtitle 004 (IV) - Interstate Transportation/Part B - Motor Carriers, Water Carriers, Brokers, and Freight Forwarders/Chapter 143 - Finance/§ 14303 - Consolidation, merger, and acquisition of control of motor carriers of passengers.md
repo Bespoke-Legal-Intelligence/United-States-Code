@@ -2,7 +2,7 @@
 
 (a)
 
-Approval Required.—The following transactions involving motor carriers of passengers subject to jurisdiction under subchapter I ofchapter 135 may be carried out only with the approval of the Board:
+Approval Required.—The following transactions involving motor carriers of passengers subject to jurisdiction under subchapter I of chapter 135 may be carried out only with the approval of the Board:
 
 &emsp;(1) Consolidation or merger of the properties or franchises of at least 2 carriers into one operation for the ownership, management, and operation of the previously separately owned properties.
 

@@ -12,7 +12,7 @@ None of the funds made available under subchapter I or II or under the Wagner-Pe
 
 #### (2) Notice to recipients of assistance
 
-&emsp;In providing financial assistance using funds made available under subchapter I or II orunder the Wagner-Peyser Act, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
+&emsp;In providing financial assistance using funds made available under subchapter I or II or under the Wagner-Peyser Act, the head of each Federal agency shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
 
 #### (c) Prohibition of contracts with persons falsely labeling products as Made in America
 
@@ -26,5 +26,5 @@ The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

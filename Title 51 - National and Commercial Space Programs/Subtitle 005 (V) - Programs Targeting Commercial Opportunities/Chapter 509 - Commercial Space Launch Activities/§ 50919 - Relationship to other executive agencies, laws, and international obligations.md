@@ -38,13 +38,25 @@ Launch Not an Export; Reentry Not an Import.—A launch vehicle, reentry vehicle
 
 (g)
 
-Nonapplication.—This chapter does not apply to—
+Nonapplication.—
 
-&emsp;(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+&emsp;(1)
 
-&emsp;(2) planning or policies related to the launch, reentry, operation, or activity.
+In general.—This chapter does not apply to—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342, §70117 of title 49; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850; renumbered §70117 then §50919 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(S), (5)(T), Dec. 18, 2010, 124 Stat. 3440–3442.)
+&emsp;&emsp;(A) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+
+&emsp;&emsp;(B) planning or policies related to the launch, reentry, operation, or activity under subparagraph (A).
+
+&emsp;(2)
+
+Rule of construction.—The following activities are not space activities the Government carries out for the Government under paragraph (1):
+
+&emsp;&emsp;(A) A government astronaut being carried within a launch vehicle or reentry vehicle under this chapter.
+
+&emsp;&emsp;(B) A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1342, §70117 of title 49; Pub. L. 104–287, §5(95), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–303, title I, §102(a)(15), Oct. 28, 1998, 112 Stat. 2850; renumbered §70117 then §50919 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(S), (5)(T), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 114–90, title I, §112(o), Nov. 25, 2015, 129 Stat. 713.)
 
 Historical and Revision Notes
 
@@ -102,6 +114,12 @@ The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, c
 
 #### Amendments
 
+<b>2015</b>—Subsec. (g). Pub. L. 114–90 amended subsec. (g) generally. Prior to amendment, text read as follows: "This chapter does not apply to—
+
+&emsp;"(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+
+&emsp;"(2) planning or policies related to the launch, reentry, operation, or activity."
+
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(S), successively renumbered section 70117 of title 49 and section 70117 of this title as this section.
 
 Subsec. (b)(2). Pub. L. 111–314, §4(d)(5)(T), substituted "chapter 601 of this title" for "the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)".
@@ -116,5 +134,5 @@ Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted "reentry, ope
 
 Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted "reentry," after "launch,".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted "Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)" for "Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)".
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted "Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 etseq.)" for "Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)".
 

@@ -30,7 +30,7 @@ As used in this chapter, the following terms have the following meanings:
 
 #### (d) Application of other laws unaffected
 
-Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or other statutes prohibiting discrimination, to any applicable program.
+Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], title V of the Rehabilitation Act of 1973 \[29 U.S.C. 790 et seq.\], the Age Discrimination Act \[42 U.S.C. 6101 et seq.\], or otherstatutes prohibiting discrimination, to any applicable program.
 
 (Pub. L. 90–247, title IV, §400, formerly §401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, §301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, §401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered §400, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, §505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912.)
 
@@ -44,7 +44,7 @@ The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–31
 
 The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat.728, as amended, and which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act, referred to in subsec. (d), probably means the Age Discrimination Act of 1975, which is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, and which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 #### Amendments
 
@@ -93,6 +93,44 @@ Pub. L. 95–561, title XII, §1211, Nov. 1, 1978, 92 Stat. 2338, provided that:
 #### Short Title of 1974 Amendment
 
 Pub. L. 93–380, title V, §513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: "This section \[enacting section 1232g of this title and provisions set out as a note under section 1232g of this title\] may be cited as the 'Family Educational Rights and Privacy Act of 1974'."
+
+#### Ex. Ord. No. 11155. Providing for the Recognition of Certain Students as Presidential Scholars
+
+Ex. Ord. No. 11155, May 23, 1964, 29 F.R. 6909, as amended by Ex. Ord. No. 12158, Sept. 18, 1979, 44 F.R. 54451; Ex. Ord. No. 13697, June 22, 2015, 80 F.R. 36691, provided:
+
+WHEREAS it is necessary in the national interest that the Federal Government encourage high attainment by students in secondary schools, both public and private, throughout the Nation, and
+
+WHEREAS national recognition of scholastic attainments will tend to enhance the accomplishments of such students generally and their potential after graduation:
+
+NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
+
+Section 1. There is hereby established the Commission on Presidential Scholars (hereinafter referred to as the Commission). The Commission shall be composed of such members as the President may appoint from time to time from among appropriately qualified citizens of the United States. The person chosen each year, with the cooperation of the Commissioner of Education, Department of Health, Education, and Welfare \[now Secretary of Education\], as National Teacher of the Year shall be one of the members of the Commission for a period terminating one year after the date of his or her selection as National Teacher of the Year or at such earlier time as a next-succeeding National Teacher of the Year is chosen. The President shall designate one of the members as chairman of the Commission. Members of the Commission shall serve at the pleasure of the President and without compensation from the United States.
+
+Sec. 2. The Commission, in accordance with such standards and procedures as it may prescribe and on the basis of its independent judgment, shall annually choose Presidential Scholars, subject to the following:
+
+(1) The Presidential Scholars shall be chosen from among persons who have recently been graduated, or are about to be graduated, from secondary schools, public or private.
+
+(2) They shall be chosen on the basis of their outstanding scholarship.
+
+(3) One boy and one girl shall be chosen as Presidential Scholars from each of the following, namely:
+
+(i) Each State of the United States.
+
+(ii) The District of Columbia.
+
+(iii) The Commonwealth of Puerto Rico.
+
+(iv) The following, collectively: American Samoa, Canal Zone, Guam, Virgin Islands, Trust Territory of the Pacific Islands, and, if the Commission in its discretion shall so determine, other places overseas. In respect of the said other places overseas, only children whose parents are citizens of the United States shall be eligible to be chosen hereunder as Presidential Scholars from those places.
+
+(4) In addition to the 106 Presidential Scholars provided for in paragraph (3), above, the Commission may choose other Presidential Scholars, not exceeding fifteen in number for any one year, to be chosen at large from the jurisdictions referred to in that paragraph.
+
+(5) In addition to the Presidential Scholars provided for in paragraphs (3) and (4) above, the Commission may choose other Presidential Scholars not exceeding twenty in any one year. These Scholars shall be chosen at large, from the jurisdictions referred to in paragraph (3), on the basis of outstanding scholarship and demonstrated ability and accomplishment in the visual and performing arts or in creative writing.
+
+(6) In addition to the Presidential Scholars provided for in paragraphs (3), (4), and (5) of this section, the Commission may choose other Presidential Scholars not exceeding twenty in any one year. These Scholars shall be chosen at large, from the jurisdictions referred to in paragraph (3), on the basis of outstanding scholarship and demonstrated ability and accomplishment in career and technical education fields.
+
+Sec. 3. There is hereby established the Presidential Scholars Medallion which shall be of such design and material as the President shall approve and shall be presented to each Presidential Scholar chosen by the Commission under this order.
+
+Sec. 4. As necessary and subject to law, the Office of Education \[now Department of Education\], Department of Health, Education, and Welfare, shall facilitate, or make arrangements for facilitating the carrying out of the purposes of this order.
 
 #### Executive Order No. 11761
 

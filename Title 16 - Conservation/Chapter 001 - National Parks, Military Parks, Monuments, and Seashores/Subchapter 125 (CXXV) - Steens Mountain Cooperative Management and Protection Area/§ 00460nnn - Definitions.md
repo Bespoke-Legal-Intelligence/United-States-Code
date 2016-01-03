@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Advisory council
 
-&emsp;The term "advisory council" means the Steens Mountain Advisory Council established by part D of this subchapter.<sup>1</sup>
+&emsp;The term "advisory council" means the Steens Mountain Advisory Council established by part D.<sup>1</sup>
 
 #### (2) Cooperative management agreement
 
@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (3) Cooperative Management and Protection Area
 
-&emsp;The term "Cooperative Management and Protection Area" means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
+&emsp;The term "Cooperative Management and Protection Area" means the Steens Mountain Cooperative Management and Protection Area designated by part A.
 
 #### (4) Easements
 
@@ -54,7 +54,7 @@ In this subchapter:
 
 #### (10) Wilderness Area
 
-&emsp;The term "Wilderness Area" means the Steens Mountain Wilderness Area designated by part B of this subchapter.
+&emsp;The term "Wilderness Area" means the Steens Mountain Wilderness Area designated by part B.
 
 (Pub. L. 106–399, §2, Oct. 30, 2000, 114 Stat. 1656.)
 
@@ -62,7 +62,7 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
+Part D, referred to in par. (1), was in the original "title IV", meaning title IV of Pub. L. 106–399, but probably should have been a reference to subtitle D of title I of that Act, which is classified generally to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall annually through September 30, 2018, submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations ofthe House of Representatives a report summarizing information on—
+The President shall annually through September 30, 2018, submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report summarizing information on—
 
 &emsp;(1) sexual assault of volunteers;
 

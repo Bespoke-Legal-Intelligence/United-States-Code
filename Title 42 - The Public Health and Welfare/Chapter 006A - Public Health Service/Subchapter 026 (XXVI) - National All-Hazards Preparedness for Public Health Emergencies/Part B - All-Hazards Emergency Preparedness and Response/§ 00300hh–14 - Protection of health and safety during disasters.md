@@ -24,7 +24,7 @@ In this section:
 
 &emsp;The term "individual" includes—
 
-&emsp;&emsp;(A) a worker or volunteer who responds to a disaster, either natural or manmade, involving any mode of transportation in theUnited States or disrupting the transportation system of the United States, including—
+&emsp;&emsp;(A) a worker or volunteer who responds to a disaster, either natural or manmade, involving any mode of transportation in the United States or disrupting the transportation system of the United States, including—
 
 &emsp;&emsp;&emsp;(i) a police officer;
 

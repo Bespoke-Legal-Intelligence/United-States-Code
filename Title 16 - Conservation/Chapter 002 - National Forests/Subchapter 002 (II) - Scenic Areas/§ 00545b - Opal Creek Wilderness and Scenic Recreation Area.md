@@ -14,7 +14,7 @@ In this section:
 
 #### (3) Scenic Recreation Area
 
-&emsp;The term "Scenic Recreation Area" means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled "Proposed Opal Creek Wilderness and Scenic Recreation Area", dated July 1996 and established under subsection (c)(1)(C) of this section.
+&emsp;The term "Scenic Recreation Area" means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled "Proposed Opal Creek Wilderness and Scenic Recreation Area", dated July 1996 and established under subsection (c)(1)(C).
 
 #### (4) Secretary
 
@@ -36,11 +36,11 @@ The purposes of this section are—
 
 &emsp;On a determination by the Secretary under paragraph (2)—
 
-&emsp;&emsp;(A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2) of this section, is hereby designated as wilderness, subject to the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
+&emsp;&emsp;(A) the Opal Creek Wilderness, as depicted on the map described in subsection (a)(2), is hereby designated as wilderness, subject to the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\], shall become a component of the National Wilderness System, and shall be known as the Opal Creek Wilderness;
 
 &emsp;&emsp;(B) the part of the Bull of the Woods Wilderness that is located in the Willamette National Forest shall be incorporated into the Opal Creek Wilderness; and
 
-&emsp;&emsp;(C) the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3) of this section.
+&emsp;&emsp;(C) the Secretary shall establish the Opal Creek Scenic Recreation Area in the Willamette National Forest in the State of Oregon, comprising approximately 13,000 acres, as generally depicted on the map described in subsection (a)(3).
 
 #### (2) Conditions
 
@@ -84,7 +84,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1) of this section, shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
+&emsp;&emsp;Not later than 2 years after the date of establishment of the Scenic Recreation Area, the Secretary, in consultation with the advisory committee established under subsection (e)(1), shall prepare a comprehensive Opal Creek Management Plan (Management Plan) for the Scenic Recreation Area.
 
 #### (B) Incorporation in land and resource management
 
@@ -126,11 +126,11 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iii) considers the access needs of persons with disabilities in preparing the transportation plan for the Scenic Recreation Area;
 
-&emsp;&emsp;&emsp;(iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2) of this section, to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
+&emsp;&emsp;&emsp;(iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2), to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
 
-&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate tothe Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
+&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintainingthe character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
 
-> &emsp;In order to comply with subsection (f)(2) of this section, the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
+> &emsp;In order to comply with subsection (f)(2), the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
 
 #### (5) Hunting and fishing
 
@@ -180,7 +180,7 @@ The purposes of this section are—
 
 #### (8) Bornite Project
 
-&emsp;(A) Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3) of this section, conducted in accordance with applicable laws.
+&emsp;(A) Nothing in this section shall be construed to interfere with or approve any exploration, mining, or mining-related activity in the Bornite Project Area, depicted on the map described in subsection (a)(3), conducted in accordance with applicable laws.
 
 &emsp;(B) Nothing in this section shall be construed to interfere with the ability of the Secretary to approve and issue, or deny, special use permits in connection with exploration, mining, and mining-related activities in the Bornite Project Area.
 
@@ -216,7 +216,7 @@ The purposes of this section are—
 
 #### (A) Advisory council
 
-&emsp;&emsp;The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) of this section with respect to matters relating to management of the Scenic Recreation Area.
+&emsp;&emsp;The Secretary shall consult on a periodic and regular basis with the advisory council established under subsection (e) with respect to matters relating to management of the Scenic Recreation Area.
 
 #### (B) Public participation
 
@@ -284,7 +284,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(i) the nature of land use has changed significantly, or the landowner has demonstrated intent to change the land use significantly, from the use that existed on November 12, 1996; and
 
-&emsp;&emsp;&emsp;(ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title <sup>4</sup> or the management plan prepared under subsection (d)(2) of this section.
+&emsp;&emsp;&emsp;(ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title <sup>4</sup> or the management plan prepared under subsection (d)(2).
 
 #### (D) Construction
 

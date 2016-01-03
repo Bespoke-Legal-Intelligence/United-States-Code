@@ -4,7 +4,7 @@
 
 #### (1) Publication
 
-&emsp;The Secretary of the Treasury is authorized to publish in the Federal Register a list of the name of any producer, manufacturer, supplier, seller, exporter, or other person located outside the customs territory of the United States—
+&emsp;The Secretary of the Treasury is authorized to publish in the Federal Register a list of the name of any producer, manufacturer, supplier,seller, exporter, or other person located outside the customs territory of the United States—
 
 &emsp;&emsp;(A) against whom the Customs Service has issued a penalty claim under section 1592 of this title, and
 

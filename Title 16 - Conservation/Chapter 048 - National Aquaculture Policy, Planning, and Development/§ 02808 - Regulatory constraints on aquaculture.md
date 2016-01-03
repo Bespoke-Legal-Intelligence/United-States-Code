@@ -2,7 +2,7 @@
 
 #### (a) Regulatory constraints study
 
-The Secretaries, through the coordinating group, shall conduct, within twelve monthsafter September 26, 1980, a study of the State and Federal regulatory restrictions to aquaculture development in the United States. The study shall—
+The Secretaries, through the coordinating group, shall conduct, within twelve months after September 26, 1980, a study of the State and Federal regulatory restrictions to aquaculture development in the United States. The study shall—
 
 &emsp;(1) include a literature review and a descriptive list identifying the parameters of the issue;
 
@@ -18,7 +18,7 @@ The Secretaries, through the coordinating group, shall conduct, within twelve mo
 
 #### (b) Regulatory constraints plan
 
-Based on the results of the Regulatory Constraints Study conducted under subsection (a) of this section, and within six months of the study's completion, the Secretaries shall formulate a plan for acting on the study's findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
+Based on the results of the Regulatory Constraints Study conducted under subsection (a), and within six months of the study's completion, the Secretaries shall formulate a plan for acting on the study's findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
 
 (Pub. L. 96–362, §9, Sept. 26, 1980, 94 Stat. 1205.)
 

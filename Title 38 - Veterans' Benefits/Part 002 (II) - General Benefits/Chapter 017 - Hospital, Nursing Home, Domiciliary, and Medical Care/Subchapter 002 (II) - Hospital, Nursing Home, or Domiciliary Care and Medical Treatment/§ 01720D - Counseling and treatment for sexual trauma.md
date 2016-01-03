@@ -2,7 +2,11 @@
 
 (a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
 
-(2) In furnishing counseling to a veteran under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
+(2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) on active duty to overcome psychological trauma described in that paragraph.
+
+(B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph.
+
+(3) In furnishing counseling to an individual under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that individual in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that individual economically because of geographical inaccessibility.
 
 (b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
@@ -14,11 +18,11 @@
 
 &emsp;(C) provide referral services to assist veterans who are not eligible for services under this chapter to obtain those from sources outside the Department.
 
-(c) The Secretary shall provide information on the counseling and treatment available to veterans under this section. Efforts by the Secretary to provide such information—
+(c) The Secretary shall provide information on the counseling and treatment available under this section. Efforts by the Secretary to provide such information—
 
 &emsp;(1) shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
 
-&emsp;(2) shall ensure that information about the counseling and treatment available to veterans under this section—
+&emsp;(2) shall ensure that information about the counseling and treatment available under this section—
 
 &emsp;&emsp;(A) is revised and updated as appropriate;
 
@@ -26,7 +30,7 @@
 
 &emsp;&emsp;(C) is made available through appropriate public information services; and
 
-&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
 (d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals who provide counseling, care, and services under subsection (a).
 
@@ -36,67 +40,33 @@
 
 &emsp;(B) training described in such paragraph includes principles of evidence-based treatment and care for sexual trauma and post-traumatic stress disorder.
 
-(e) Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided to veterans pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
+(e) Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
 
 &emsp;(1) The number of mental health professionals, graduate medical education trainees, and primary care providers who have been certified under the program required by subsection (d) and the amount and nature of continuing medical education provided under such program to such professionals, trainees, and providers who are so certified.
 
-&emsp;(2) The number of women veterans who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d).
+&emsp;(2) The number of individuals who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d), disaggregated by—
+
+&emsp;&emsp;(A) veterans;
+
+&emsp;&emsp;(B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and
+
+&emsp;&emsp;(C) for each of subparagraphs (A) and (B)—
+
+&emsp;&emsp;&emsp;(i) men; and
+
+&emsp;&emsp;&emsp;(ii) women.
 
 &emsp;(3) The number of graduate medical education, training, certification, and continuing medical education courses provided by reason of subsection (d).
 
-&emsp;(4) The number of trained full-time equivalent employees required in each facility of the Department to meet the needs of veterans requiring treatment and care for sexual trauma and post-traumatic stress disorder.
+&emsp;(4) The number of trained full-time equivalent employees required in each facility of the Department to meet the needs of individuals requiring treatment and care for sexual trauma and post-traumatic stress disorder.
 
-&emsp;(5) Such recommendations for improvements in the treatment of women veterans with sexual trauma and post-traumatic stress disorder as the Secretary considers appropriate.
+&emsp;(5) Such recommendations for improvements in the treatment of individuals with sexual trauma and post-traumatic stress disorder as the Secretary considers appropriate, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2).
 
 &emsp;(6) Such other information as the Secretary considers appropriate.
 
 (f) In this section, the term "sexual harassment" means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
 (Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790.)
-
-#### Amendment of Section
-
-<i>Pub. L. 113–146, title IV, §402, Aug. 7, 2014, 128 Stat. 1790, provided that, effective on the date that is 1 year after Aug. 7, 2014, this section is amended as follows:</i>
-
-<i>(1) in subsection (a):</i>
-
-<i>(A) by redesignating paragraph (2) as paragraph (3);</i>
-
-<i>(B) by inserting after paragraph (1) the following new paragraph (2):</i>
-
-<i>"(2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) on active duty to overcome psychological trauma described in that paragraph.</i>
-
-<i>"(B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph."; and</i>
-
-<i>(C) in paragraph (3), as redesignated, by striking "a veteran" and inserting "an individual" and by striking "that veteran" each place it appears and inserting "that individual";</i>
-
-<i>(2) in subsection (c):</i>
-
-<i>(A) by striking "to veterans" each place it appears; and</i>
-
-<i>(B) in paragraph (3), by inserting "members of the Armed Forces and" before "individuals"; and</i>
-
-<i>(3) in subsection (e):</i>
-
-<i>(A) in the matter preceding paragraph (1), by striking "to veterans";</i>
-
-<i>(B) in paragraph (2), by striking "women veterans" and inserting "individuals" and by striking "training under subsection (d)." and inserting "training under subsection (d), disaggregated by—</i>
-
-&emsp;&emsp;<i>"(A) veterans;</i>
-
-&emsp;&emsp;<i>"(B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and</i>
-
-&emsp;&emsp;<i>"(C) for each of subparagraphs (A) and (B)—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) men; and</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) women.";</i>
-
-<i>(C) in paragraph (4), by striking "veterans" and inserting "individuals"; and</i>
-
-<i>(D) in paragraph (5), by striking "women veterans" and inserting "individuals" and by inserting ", including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)" before the period at the end.</i>
-
-<i>See 2014 Amendment notes below.</i>
 
 #### Amendments
 
@@ -174,7 +144,7 @@ Pub. L. 103–452, title I, §101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, pro
 
 "(5) Not later than 18 months after the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall submit to Congress a report on the operation of the telephone assistance service required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)). The report shall set forth the following:
 
-&emsp;"(A) The number of persons who sought information during the period covered by the report through a toll-free telephone number regarding services available to veterans relating to sexual trauma, with aseparate display of the number of such persons arrayed by State (as such term is defined in section 101(20) of title 38, United States Code).
+&emsp;"(A) The number of persons who sought information during the period covered by the report through a toll-free telephone number regarding services available to veterans relating to sexual trauma, with a separate display of the number of such persons arrayed by State (as such term is defined in section 101(20) of title 38, United States Code).
 
 &emsp;"(B) A description of the training provided to the personnel who provide such assistance.
 

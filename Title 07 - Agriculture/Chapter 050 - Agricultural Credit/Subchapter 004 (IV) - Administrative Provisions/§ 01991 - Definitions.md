@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
 
-&emsp;&emsp;(C) in the case of a cooperative, corporation, partnership, joint operation, or suchother legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
+&emsp;&emsp;(C) in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
 
 &emsp;&emsp;(D)(i) in the case of an owner and operator of a farm or ranch, who—
 
@@ -182,7 +182,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 (b) As used in sections 1927(e),<sup>1</sup> 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
-&emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
+&emsp;(1) The term "borrower" means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has beenaccelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
 
 &emsp;(2) The term "loan service program" means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
 
@@ -200,7 +200,7 @@ Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph,
 
 Preservation loan service program.—The term "preservation loan service program" means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30,1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839.)
 
 #### References in Text
 
@@ -266,7 +266,7 @@ Subsec. (b)(4). Pub. L. 104–127, §661(h)(2)(B), added par. (4) and struck out
 
 Subsec. (a)(5). Pub. L. 102–237, §702(h)(1)(C), repealed Pub. L. 101–624, §2388(h)(3). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B),struck out "and" after "fish farming," in par. (1), and "and" after "such loan," in par. (3).
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–624, §2388(h)(1), (2), as amended by Pub. L. 102–237, §702(h)(1)(A), (B), struck out "and" after "fish farming," in par. (1), and "and" after "such loan," in par. (3).
 
 Subsec. (a)(5). Pub. L. 101–624, §2388(h)(3), which directed substitution of " 'contract of insurance' " for "contract of insurance", was repealed by Pub. L. 102–237, §702(h)(1)(C). See Construction of 1990 Amendment note below.
 

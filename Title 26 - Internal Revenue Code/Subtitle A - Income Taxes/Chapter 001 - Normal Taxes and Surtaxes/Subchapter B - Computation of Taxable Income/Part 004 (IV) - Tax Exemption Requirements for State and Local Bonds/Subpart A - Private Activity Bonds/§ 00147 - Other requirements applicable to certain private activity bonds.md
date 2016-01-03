@@ -66,7 +66,7 @@
 
 &emsp;&emsp;A qualified 501(c)(3) bond meets the requirements of this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a part are to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
+&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a partare to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
 
 &emsp;&emsp;&emsp;(ii) each loan described in clause (i) satisfies the requirements of paragraph (1) (determined by treating each loan as a separate issue),
 
@@ -146,7 +146,7 @@
 
 #### (G) Acquisition from related person
 
-&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section 144(a)(3)) shall not be treated as an acquisition from a related person, if—
+&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section144(a)(3)) shall not be treated as an acquisition from a related person, if—
 
 &emsp;&emsp;&emsp;(i) the acquisition price is for the fair market value of such land or property, and
 
@@ -164,7 +164,7 @@
 
 #### (3) Exception for certain land acquired for environmental purposes, etc.
 
-&emsp;Any land acquired by a governmental unit (or issuing authority) in connection with anairport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if—
+&emsp;Any land acquired by a governmental unit (or issuing authority) in connection with an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf shall not be taken into account under paragraph (1) if—
 
 &emsp;&emsp;(A) such land is acquired for noise abatement or wetland preservation, or for future use as an airport, mass commuting facility, high-speed intercity rail facility, dock, or wharf, and
 
@@ -232,7 +232,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) on behalf of which such bond was issued, and
 
-&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
+&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility,with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
 
 #### (B) Approval by a governmental unit
 
@@ -304,7 +304,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (2) Special rule for small mortgage revenue bond issues
 
-&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting "3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
+&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting"3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
 
 #### (h) Certain rules not to apply to certain bonds
 
@@ -320,7 +320,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3),Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66; Pub. L. 110–234, title XV, §15341(a)–(d), May 22, 2008, 122 Stat. 1517; Pub. L. 110–246, §4(a), title XV, §15341(a)–(d), June 18, 2008, 122 Stat. 1664, 2279; Pub. L. 112–95, title XI, §1105(a), Feb. 14, 2012, 126 Stat. 152.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, se
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\]."
+Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by thissection \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1990 Amendment
 

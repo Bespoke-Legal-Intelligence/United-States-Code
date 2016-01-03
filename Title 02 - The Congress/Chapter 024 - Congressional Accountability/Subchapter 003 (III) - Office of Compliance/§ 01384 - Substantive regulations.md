@@ -22,11 +22,11 @@
 
 #### (b) Adoption by Board
 
-The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with the principles and procedures set forth in section 553 of title 5 and as provided in the following provisions of this subsection:
+The Board shall adopt the regulations referred to in subsection (a)(1) in accordance with theprinciples and procedures set forth in section 553 of title 5 and as provided in the following provisions of this subsection:
 
 #### (1) Proposal
 
-&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) oftitle 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i), the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii), and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii).
+&emsp;The Board shall publish a general notice of proposed rulemaking under section 553(b) of title 5, but, instead of publication of a general notice of proposed rulemaking in the Federal Register, the Board shall transmit such notice to the Speaker of the House of Representatives and the President pro tempore of the Senate for publication in the Congressional Record on the first day on which both Houses are in session following such transmittal. Such notice shall set forth the recommendations of the Deputy Director for the Senate in regard to regulations under subsection (a)(2)(B)(i), the recommendations of the Deputy Director for the House of Representatives in regard to regulations under subsection (a)(2)(B)(ii), and the recommendations of the Executive Director for regulations under subsection (a)(2)(B)(iii).
 
 #### (2) Comment
 

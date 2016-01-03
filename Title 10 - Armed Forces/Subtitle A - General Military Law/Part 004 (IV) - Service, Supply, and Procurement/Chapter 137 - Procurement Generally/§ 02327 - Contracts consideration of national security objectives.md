@@ -2,7 +2,7 @@
 
 (a)
 
-Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) <sup>1</sup> has repeatedly provided support for acts of international terrorism.
 
 (b)
 
@@ -10,7 +10,7 @@ Prohibition on Entering Into Contracts Against the Interests of the United State
 
 &emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
 
-&emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+&emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) <sup>1</sup> has repeatedly provided support for acts of international terrorism.
 
 (c)
 
@@ -38,9 +38,9 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 (d)
 
-List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
+List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries offirms that the Secretary has identified as being subject to the prohibition in subsection (b).
 
-(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretaryshall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
+(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
 
 (B) A firm or subsidiary of a firm included on the list may request the Secretary to remove such firm or subsidiary from the list on the basis that it has been erroneously included on the list or its ownership circumstances have significantly changed. Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do not exist, the Secretary shall remove the firm or subsidiary from the list.
 
@@ -63,6 +63,10 @@ Applicability.—(1) This section does not apply to a contract for an amount les
 Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term "significant interest".
 
 (Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 108–136, div. A, title X, §1031(a)(16), Nov. 24, 2003, 117 Stat. 1597.)
+
+#### References in Text
+
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsecs. (a) and (b)(2), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
 
 #### Codification
 
@@ -98,5 +102,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 
-Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as amended by Pub. L. 103–355, title VIII, §8105(j), Oct. 13, 1994, 108 Stat. 3393, directed the Secretary of Defense to require any person with whom the Secretary proposed to enter into a contract for the provision of goods or services in an amount in excess of $5,000,000, to report to the Secretary each commercial transaction which that person had conducted with the government of any terrorist country during the preceding three years and during the course of the contract, required the Secretary to prescribe regulations and to submit an annual report to Congress setting forth those commercial transactions with terrorist countries that had been included in the reports made during the preceding fiscal year, and provided that section 843 of Pub. L. 103–160 would expire on Sept. 30, 1996.
+Pub. L. 103–160, div. A, title VIII, §843, Nov. 30, 1993, 107 Stat. 1720, as amended by Pub. L. 103–355, title VIII, §8105(j), Oct. 13, 1994, 108 Stat. 3393, directed the Secretary of Defense to require any person with whom the Secretary proposed to enter into a contract for the provision of goods or services in an amount in excess of $5,000,000, to report to the Secretary each commercialtransaction which that person had conducted with the government of any terrorist country during the preceding three years and during the course of the contract, required the Secretary to prescribe regulations and to submit an annual report to Congress setting forth those commercial transactions with terrorist countries that had been included in the reports made during the preceding fiscal year, and provided that section 843 of Pub. L. 103–160 would expire on Sept. 30, 1996.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,11 +20,11 @@ Suspensions and Revocations.—The Secretary may suspend or revoke a license if 
 
 (d)
 
-Additional Suspensions.—(1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants.
+Additional Suspensions.—(1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being.
 
 (2) Any suspension imposed under this subsection shall be for as brief a period as possible and, in any event, shall cease when the Secretary—
 
-&emsp;(A) has determined that the licensee has taken sufficient steps to reduce the likelihoodof a recurrence of the serious or fatal injury; or
+&emsp;(A) has determined that the licensee has taken sufficient steps to reduce the likelihood of a recurrence of the serious or fatal injury; or
 
 &emsp;(B) has modified the license pursuant to subsection (b) to sufficiently reduce the likelihood of a recurrence of the serious or fatal injury.
 
@@ -38,7 +38,7 @@ Effective Periods of Modifications, Suspensions, and Revocations.—Unless the S
 
 Notification.—The Secretary shall notify the licensee in writing of the decision of the Secretary under this section and any action the Secretary takes or proposes to take based on the decision.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334, §70107 of title 49; Pub. L. 108–492, §2(c)(18), (19), Dec. 23, 2004, 118 Stat. 3980; renumbered §70107 then §50908 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(H), (5)(J), (K), Dec. 18, 2010, 124 Stat. 3440–3442.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1334, §70107 of title 49; Pub. L. 108–492, §2(c)(18), (19), Dec. 23, 2004, 118 Stat. 3980; renumbered §70107 then §50908 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(H), (5)(J), (K), Dec. 18, 2010, 124 Stat. 3440–3442; Pub. L. 114–90, title I, §112(n), Nov. 25, 2015, 129 Stat. 713.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,8 @@ In subsection (b), the words "the requirements of" are omitted as surplus.
 In subsection (e), the words "Whenever the Secretary takes any action" are omitted as surplus.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–90 substituted "to any human being" for "to crew or space flight participants" in two places.
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(H), successively renumbered section 70107 of title 49 and section 70107 of this title as this section.
 

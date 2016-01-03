@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) This subchapter may not be construed as having any effect on the authorities of the Secretary under HIPAA privacy and security law.
 
-&emsp;&emsp;(B) The purposes of this subchapter include ensuring that the health information technology standards and implementationspecifications adopted under section 300jj–14 of this title take into account the requirements of HIPAA privacy and security law.
+&emsp;&emsp;(B) The purposes of this subchapter include ensuring that the health information technology standards and implementation specifications adopted under section 300jj–14 of this title take into account the requirements of HIPAA privacy and security law.
 
 #### (2) Definition
 

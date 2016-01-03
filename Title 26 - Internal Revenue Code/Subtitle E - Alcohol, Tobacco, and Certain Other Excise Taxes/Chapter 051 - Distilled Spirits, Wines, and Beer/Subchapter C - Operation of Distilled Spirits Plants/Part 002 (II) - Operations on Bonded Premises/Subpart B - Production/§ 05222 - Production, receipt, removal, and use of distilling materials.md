@@ -2,7 +2,7 @@
 
 #### (a) Production, removal, and use
 
-(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on anypremises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
+(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on any premises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
 
 (2) Nothing in this subsection shall be construed to apply to—
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(b)(6)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(b)(6)(D) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

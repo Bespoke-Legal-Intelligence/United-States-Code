@@ -20,9 +20,9 @@ The Governor of a State seeking a grant under section 10006 of this title shall�
 
 &emsp;(1) submit an application for consideration;
 
-&emsp;(2) describe the status of the State's progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State's proficiency targets continue making progress toward meeting the State's student academic achievement standards;
+&emsp;(2) describe the status of the State's progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(v)(II)) who have not met the State's proficiency targets continue making progress toward meeting theState's student academic achievement standards;
 
-&emsp;(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State's student academic achievement standards;
+&emsp;(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(2)(C)(vi)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA (20 U.S.C. 6311(b)(2)) in the State continue making progress toward meeting the State's student academic achievement standards;
 
 &emsp;(4) describe how the State would use its grant funding to improve student academic achievement in the State, including how it will allocate the funds to give priority to high-need local educational agencies; and
 
@@ -44,7 +44,7 @@ An application under subsection (b) shall include the following assurances:
 
 #### (2) Achieving equity in teacher distribution
 
-&emsp;The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) of the ESEA (20 U.S.C. 6311(b)(8)(C)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
+&emsp;The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)(8)(C)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
 
 #### (3) Improving collection and use of data
 
@@ -54,15 +54,15 @@ An application under subsection (b) shall include the following assurances:
 
 &emsp;The State—
 
-&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) of such Act (20 U.S.C. 7301a(a));
+&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
 
-&emsp;&emsp;(B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
+&emsp;&emsp;(B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 
 &emsp;&emsp;(C) will take steps to improve State academic content standards and student academic achievement standards consistent with section 9871(e)(1)(A)(ii) of this title.
 
 #### (5) Supporting struggling schools
 
-&emsp;The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) \[20 U.S.C. 6316(b)(7)(C)(iv)\] and section 1116(b)(8)(B) \[20 U.S.C. 6316(b)(8)(B)\] of the ESEA with respect to schools identified under such sections.
+&emsp;The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) <sup>1</sup> and section 1116(b)(8)(B) <sup>1</sup> of the ESEA with respect to schools identified under such sections.
 
 #### (6) Improving early childhood care and education
 
@@ -82,7 +82,13 @@ ESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education A
 
 IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
+Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A), (B), is section 1111 of Pub. L. 89–10, which is classified to section 6311 of this title. Section 1111 was amended generally by Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820, and as so amended, does not contain a subsec. (b)(2)(C)(v), (vi), (3)(C)(ix), (6), or (8)(C).
+
 Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the original "section 6401", and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, §1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
+
+Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to section 7301a of this title, prior to repeal by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+Section 1116 of the ESEA, referred to in subsec. (d)(5), is section 1116 of Pub. L. 89–10, which was classified to section 6316 of this title, prior to repeal by Pub. L. 114–95, §5, title I, §1000(1), Dec. 10, 2015, 129 Stat. 1806,1814, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Section 1000(2) of Pub. L. 114–95 renumbered section 1118 of Pub. L. 89–10 as section 1116, which is classified to section 6318 of this title. Section 6318 does not contain a subsec. (b)(7) or (8).
 
 #### Amendments
 
@@ -93,4 +99,6 @@ Section 9871 of this title, referred to in subsec. (d)(3), (4)(C), was in the or
 Subsec. (d)(4)(C). Pub. L. 111–8, §523(e), substituted "9871(e)(1)(A)(ii)" for "9871(e)(1)(9)(A)(ii)".
 
 Subsec. (d)(5). Pub. L. 111–8, §523(f), substituted "1116(b)(7)(C)(iv)" for "1116(a)(7)(C)(iv)" and "1116(b)(8)(B)" for "1116(a)(8)(B)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -118,7 +118,7 @@ Exceptions from application.—The requirements of subparagraphs (D) and (E) of 
 
 &emsp;&emsp;(A) the standard is the product of a negotiated rulemaking, or other rulemaking including the adoption of industry standards that receives no significant adverse comment within 60 days of notice in the Federal Register;
 
-&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, orboth, as applicable, the Secretary waives the requirements; or
+&emsp;&emsp;(B) based on a recommendation (in which three-fourths of the members voting concur) by the Technical Pipeline Safety Standards Committee, the Technical Hazardous Liquid Pipeline Safety Standards Committee, or both, as applicable, the Secretary waives the requirements; or
 
 &emsp;&emsp;(C) the Secretary finds, pursuant to section 553(b)(3)(B) of title 5, United States Code, that notice and public procedure are not required.
 
@@ -152,7 +152,7 @@ Promoting public awareness.—
 
 &emsp;(B)(i) Not later than June 1, 1998, the Secretary shall survey and assess the public education programs under section 60116 and the public safety programs under section 60102(c) and determine their effectiveness and applicability as components of a model program. In particular, the survey shall include the methods by which operators notify residents of the location of the facility and its right of way, public information regarding existing One-Call programs, and appropriate procedures to be followed by residents of affected municipalities in the event of accidents involving interstate gas pipeline facilities.
 
-&emsp;(ii) Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretary shall report to Congress the reasons for that finding.
+&emsp;(ii) Not later than one year after the survey and assessment are completed, the Secretary shall institute a rulemaking to determine the most effective public safety and education program components and promulgate if appropriate, standards implementing those components on a nationwide basis. In the event that the Secretary finds that promulgation of such standards are not appropriate, the Secretaryshall report to Congress the reasons for that finding.
 
 (d)
 
@@ -228,7 +228,7 @@ Carbon Dioxide Regulation.—
 
 &emsp;(1)
 
-Transportation in liquid state.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility. The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
+Transportation in liquid state.—The Secretary shall regulate carbon dioxide transported by a hazardous liquid pipeline facility.The Secretary shall prescribe standards related to hazardous liquid to ensure the safe transportation of carbon dioxide by such a facility.
 
 &emsp;(2)
 
@@ -500,7 +500,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(b) (last sentence); added O
 
 In this section, the word "Federal" is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
+In subsection (a)(1), before clause (A), the word "prescribe" is substituted for "by regulation, establish" forconsistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
 
 In subsection (b), before clause (1), the words "Except as provided in section 60103 of this title" are added for clarity. In clause (3), the word "proposed" is omitted as surplus.
 
@@ -596,7 +596,7 @@ Subsec. (e). Pub. L. 104–304, §4(d)(2), substituted "transportation" for "tra
 
 Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out text which read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basicconstruction of the facility will accommodate the device."
+Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
 
 Subsec. (f)(2). Pub. L. 104–304, §§4(e)(2), 20(g), inserted heading, realigned margins, inserted ", if necessary, additional" after "the Secretary shall prescribe", and substituted "standards" for "regulations" in two places.
 
@@ -605,6 +605,10 @@ Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted "standards" for "r
 Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
 Subsec. (l). Pub. L. 104–304, §4(f), added subsec. (l).
+
+#### Rulemaking To Expand Applicability of Comprehensive Oil Spill Response Plans
+
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2861, provided in part: "That no later than 90 days after the date of enactment of this Act \[Dec. 18, 2015\], the Secretary of Transportation shall initiate a rulemaking to expand the applicability of comprehensive oil spill response plans, and shall issue a final rule no later than one year after the date of enactment of this Act."
 
 #### Standards To Implement NTSB Recommendations
 

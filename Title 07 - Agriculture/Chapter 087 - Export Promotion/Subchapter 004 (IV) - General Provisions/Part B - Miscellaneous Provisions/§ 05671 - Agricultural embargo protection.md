@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, if—
 
-&emsp;(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
+&emsp;(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now 50 U.S.C. 4601 et seq.\] or under any other provision of law;
 
 &emsp;(2) such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
 
@@ -24,7 +24,7 @@ If the Secretary makes payments available to producers under subsection (a), the
 
 &emsp;&emsp;(C) the amount by which the average market price per unit of such commodity received by producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction; or
 
-&emsp;(2) in the case of other agricultural commodities for which price support is authorized for producers under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), by multiplying the amount by which the average market price per unit of such commodity received by the producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction, by the quantity of such commodity sold by theproducer during the period that the suspension or restriction is in effect.
+&emsp;(2) in the case of other agricultural commodities for which price support is authorized for producers under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), by multiplying the amount by which the average market price per unit of such commodity received by the producers during the 60-day period immediately following the date of the imposition of the suspension or restriction is less than 100 percent of the parity price for such commodity, as determined by the Secretary on the date of the imposition of the suspension or restriction, bythe quantity of such commodity sold by the producer during the period that the suspension or restriction is in effect.
 
 #### (c) Time for payments
 
@@ -42,7 +42,7 @@ The Secretary may issue such regulations as are determined necessary to carry ou
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 

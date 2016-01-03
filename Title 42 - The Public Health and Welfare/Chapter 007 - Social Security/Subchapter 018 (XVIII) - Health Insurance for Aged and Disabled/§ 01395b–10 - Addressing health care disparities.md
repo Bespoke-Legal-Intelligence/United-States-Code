@@ -26,7 +26,7 @@ The Secretary shall evaluate approaches for the collection of data under this su
 
 #### (c) Implementing effective approaches
 
-Not later than 24 months after July 15, 2008, the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, andtimely collection and evaluation of data on health care disparities on the basis of race, ethnicity, and gender.
+Not later than 24 months after July 15, 2008, the Secretary shall implement the approaches identified in the report submitted under subsection (b)(1) for the ongoing, accurate, and timely collection and evaluation of data on health care disparities on the basis of race, ethnicity, and gender.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1809, as added Pub. L. 110–275, title I, §185, July 15, 2008, 122 Stat. 2587.)
 

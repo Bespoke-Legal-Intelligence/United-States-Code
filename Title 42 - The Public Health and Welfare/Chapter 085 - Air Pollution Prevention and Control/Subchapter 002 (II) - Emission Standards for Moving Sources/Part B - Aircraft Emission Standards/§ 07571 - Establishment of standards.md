@@ -18,7 +18,7 @@
 
 #### (b) Effective date of regulations
 
-Any regulation prescribed under this section (and any revision thereof) shall take effect after such period as the Administrator finds necessary (after consultation with the Secretary of Transportation) to permit the development andapplication of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
+Any regulation prescribed under this section (and any revision thereof) shall take effect after such period as the Administrator finds necessary (after consultation with the Secretary of Transportation) to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.
 
 #### (c) Regulations which create hazards to aircraft safety
 
@@ -44,7 +44,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

@@ -26,7 +26,7 @@ A household member shall be exempt from workfare requirements imposed under this
 
 #### (c) Valuation or duration of work
 
-No operating agency shall require any participating member to work in any workfare positionto the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week.
+No operating agency shall require any participating member to work in any workfare position to the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week.
 
 #### (d) Nature, conditions, and costs of work
 
@@ -94,11 +94,11 @@ Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A househol
 
 "(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act."
 
-Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: "In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for twomonths, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period."
+Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: "In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period."
 
 <b>1991</b>—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
+<b>1985</b>—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec.\(b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–253, §185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 

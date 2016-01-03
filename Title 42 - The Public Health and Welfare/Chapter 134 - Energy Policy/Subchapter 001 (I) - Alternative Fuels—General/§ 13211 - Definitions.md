@@ -46,7 +46,7 @@ Inclusions.—The term "alternative fueled vehicle" includes—
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
-&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealthof the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
+&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
 
 &emsp;(8) the term "dual fueled vehicle" means—
 

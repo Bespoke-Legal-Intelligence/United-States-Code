@@ -18,7 +18,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and entities of the United States Government involved in a covert action—
 
-&emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or onbehalf of, any department, agency, or entity of the United States Government, including significant failures; and
+&emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
 
 &emsp;(2) shall furnish to the congressional intelligence committees any information or material concerning covert actions (including the legal basis under which the covert action is being or was conducted) which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
@@ -78,7 +78,7 @@ No covert action may be conducted which is intended to influence United States p
 
 (1) In any case where access to a finding reported under subsection (c) or notification provided under subsection (d)(1) is not made available to all members of a congressional intelligence committee in accordance with subsection (c)(2), the President shall notify all members of such committee that such finding or such notification has been provided only to the members specified in subsection (c)(2).
 
-(2) In any case where access to a finding reported under subsection (c) or notification provided under subsection (d)(1) is not made available to all members of a congressional intelligence committee in accordance with subsection (c)(2), the President shall provide to allmembers of such committee a general description regarding the finding or notification, as applicable, consistent with the reasons for not yet fully informing all members of such committee.
+(2) In any case where access to a finding reported under subsection (c) or notification provided under subsection (d)(1) is not made available to all members of a congressional intelligence committee in accordance with subsection (c)(2), the President shall provide to all members of such committee a general description regarding the finding or notification, as applicable, consistent with the reasons for not yet fully informing all members of such committee.
 
 (3) The President shall maintain—
 

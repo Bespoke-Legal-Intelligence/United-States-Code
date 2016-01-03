@@ -12,7 +12,7 @@ The Council shall—
 
 &emsp;(4) monitor, evaluate, and recommend improvements in programs and activities to assist homeless individuals conducted by Federal agencies, State and local governments, and private voluntary organizations;
 
-&emsp;(5) provide professional and technical assistance (by not less than 5, but in no case morethan 10, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions) to States, local governments, and other public and private nonprofit organizations, in order to enable such governments and organizations to—
+&emsp;(5) provide professional and technical assistance (by not less than 5, but in no case more than 10, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions) to States, local governments, and other public and private nonprofit organizations, in order to enable such governments and organizations to—
 
 &emsp;&emsp;(A) interpret regulations and assist in the application process for Federal assistance, including grants;
 
@@ -48,7 +48,7 @@ The Council shall—
 
 In carrying out subsection (a) of this section, the Council may—
 
-&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings whichare concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
+&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developingand coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
 
 &emsp;(2) publish a newsletter concerning Federal, State, and local programs that are effectively meeting the needs of homeless individuals.
 

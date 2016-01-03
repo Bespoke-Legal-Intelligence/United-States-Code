@@ -14,7 +14,7 @@ Lands held in excess of the ownership limitations imposed by Federal reclamation
 
 #### (c) Amendment of existing recordable contracts
 
-Recordable contracts existing on October 12, 1982, shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: <i>Provided</i>, That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e) of this section.
+Recordable contracts existing on October 12, 1982, shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: <i>Provided</i>, That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e).
 
 #### (d) Power of attorney requirement in contracts; exercise of power by Secretary
 
@@ -30,7 +30,7 @@ Excess lands which have been or may be disposed of in compliance with Federal re
 
 &emsp;(1) they are held by nonexcess owners; and
 
-&emsp;(2) in the case of disposals made after October 12, 1982, their title is burdened by a covenant prohibiting their sale, for a period of ten years after their original disposal to comply with Federal reclamation law, including this subchapter, for values exceeding the sum of the value of newly added improvements and the value of the land as increased by market appreciation unrelated to the delivery of irrigation water. Upon expiration of the terms of such covenant, the title to such lands shall be freed of the burden of any limitations on subsequent sale values which might otherwise be imposed by the operation of section 423e of this title.
+&emsp;(2) in the case of disposals made after October 12, 1982, their title is burdened by a covenant prohibiting their sale, for a period of tenyears after their original disposal to comply with Federal reclamation law, including this subchapter, for values exceeding the sum of the value of newly added improvements and the value of the land as increased by market appreciation unrelated to the delivery of irrigation water. Upon expiration of the terms of such covenant, the title to such lands shall be freed of the burden of any limitations on subsequent sale values which might otherwise be imposed by the operation of section 423e of this title.
 
 (Pub. L. 97–293, title II, §209, Oct. 12, 1982, 96 Stat. 1267.)
 

@@ -20,7 +20,7 @@ Except as otherwise provided in this section, no deduction shall be allowed for 
 
 #### (2) Dispositions before close of amortization period
 
-&emsp;In any case in which a trade or business is completely disposed of by the taxpayer before the end of the period to which paragraph (1) applies, any deferred expenses attributable to such trade or business which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
+&emsp;In any case in which a trade or business is completely disposed of by the taxpayer before the end of the period to which paragraph (1)applies, any deferred expenses attributable to such trade or business which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
 
 #### (3) Special rule for taxable years beginning in 2010
 

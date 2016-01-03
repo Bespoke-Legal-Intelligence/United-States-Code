@@ -58,6 +58,14 @@ Leverage.—The term "leverage" means a financial structure used to increase fun
 
 Leveraged.—The term "leveraged", as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
+&emsp;(11)
+
+Rural infrastructure project.—The term "rural infrastructure project" has the meaning given the term in section 601.
+
+&emsp;(12)
+
+Rural projects fund.—The term "rural projects fund" has the meaning given the term in section 601.
+
 (b)
 
 Cooperative Agreements.—Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing other forms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
@@ -82,19 +90,23 @@ Funding.—
 
 Highway account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—
 
-&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4),<sup>1</sup> and 144; <sup>1</sup> and
+&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and
 
 &emsp;&emsp;(B) 10 percent of the funds allocated to the State for each of such fiscal years.
 
 &emsp;(2)
 
-Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
+Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under each of such sections.
 
 &emsp;(3)
 
-Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under such subtitle.
+Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
 
 &emsp;(4)
+
+Rural projects fund.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.
+
+&emsp;(5)
 
 Capital grants.—
 
@@ -110,17 +122,41 @@ Transit account.—Federal funds deposited into a transit account of a State inf
 
 Rail account.—Federal funds deposited into a rail account of a State infrastructure bank under paragraph 3 shall constitute for purposes of this section a capitalization grant for the rail account of the bank.
 
-&emsp;(5)
-
-Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(3) <sup>1</sup> may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
-
 &emsp;(6)
+
+Special rule for urbanized areas of over 200,000.—Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+
+&emsp;(7)
 
 Discontinuance of funding.—If the Secretary determines that a State is not implementing the State's infrastructure bank in accordance with a cooperative agreement entered into under subsection (b), the Secretary may prohibit the State from contributing additional Federal funds to the bank.
 
 (e)
 
-Forms of Assistance From Infrastructure Banks.—An infrastructure bank established under this section may make loans or provide other forms of credit assistance to a public or private entity in an amount equal to all or a part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other form of credit assistance provided for the project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds deposited into an infrastructure bank under this section may not be made in the form of a grant.
+Forms of Assistance From State Infrastructure Banks.—
+
+&emsp;(1)
+
+In general.—A State infrastructure bank established under this section may—
+
+&emsp;&emsp;(A) with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity to carry out a project eligible for assistance under this section; and
+
+&emsp;&emsp;(B) with funds deposited into the rural projects fund, make loans to a public or private entity to carry out a rural infrastructure project.
+
+&emsp;(2)
+
+Subordination of loan.—The amount of a loan or other form of credit assistance provided for a project described in paragraph (1) may be subordinated to any other debt financing for the project.
+
+&emsp;(3)
+
+Maximum amount of assistance.—A State infrastructure bank established under this section may—
+
+&emsp;&emsp;(A) with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity in an amount up to 100 percent of the cost of carrying out a project eligible for assistance under this section; and
+
+&emsp;&emsp;(B) with funds deposited into the rural projects fund, make loans to a public or private entity in an amount not to exceed 80 percent of the cost of carrying out a rural infrastructure project.
+
+&emsp;(4)
+
+Initial assistance.—Initial assistance provided with respect to a project from Federal funds deposited into a State infrastructure bank under this section may not be made in the form of a grant.
 
 (f)
 
@@ -130,7 +166,7 @@ Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank 
 
 Infrastructure Bank Requirements.—In order to establish an infrastructure bank under this section, the State establishing the bank shall—
 
-&emsp;(1) deposit in cash, at a minimum, into each account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
+&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and therail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
 &emsp;(2) ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;
 
@@ -142,7 +178,7 @@ Infrastructure Bank Requirements.—In order to establish an infrastructure bank
 
 &emsp;&emsp;(C) invested in United States Treasury securities, bank deposits, or such other financing instruments as the Secretary may approve to earn interest to enhance the leveraging of projects assisted by the bank;
 
-&emsp;(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible;
+&emsp;(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603;
 
 &emsp;(5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in the case of a highway project, the facility has opened to traffic, whichever is later;
 
@@ -178,23 +214,41 @@ Management of Federal Funds.—Sections 3335 and 6503 of title 31 shall not appl
 
 (k)
 
-Program Administration.—For each of fiscal years 2005 through 2009, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+Program Administration.—For each of fiscal years 2016 through 2020, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub.L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(12), July 6, 2012, 126 Stat. 577.)
-
-#### References in Text
-
-Sections 104 and 144, referred to in subsec. (d)(1)(A), were amended generally by Pub. L. 112–141, div. A, title I, §§1105(a), 1111(a), July 6, 2012, 126 Stat. 427, 445.
-
-Subsec. (d) of section 133, referred to in subsec. (d)(5), was struck out and a new subsec. (d) enacted by Pub. L. 112–141, div. A, title I, §1108(c), July 6, 2012, 126 Stat. 442.
+(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(11), formerly §1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered §1519(c)(11), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, §2001(i), Dec. 4, 2015, 129 Stat. 1444.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1)(B). Pub. L. 112–141 struck out "under section 105" before period at end.
+<b>2015</b>—Subsec. (a)(11), (12). Pub. L. 114–94, §2001(i)(1), added pars. (11) and (12).
+
+Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
+
+Subsec. (d)(1)(B). Pub. L. 114–94, §1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, §1519(c). See 2012 Amendment note below.
+
+Subsec. (d)(2), (3). Pub. L. 114–94, §2001(i)(2)(B), (C), substituted "fiscal years 2016 through 2020" for "fiscal years 2005 through 2009".
+
+Subsec. (d)(4) to (7). Pub. L. 114–94, §2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted "section 133(d)(1)(A)(i)" for "section 133(d)(3)" in par. (6).
+
+Subsec. (e). Pub. L. 114–94, §2001(i)(3), added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
+
+Subsec. (g)(1). Pub. L. 114–94, §2001(i)(4)(A), substituted "the highway account, the transit account, and the rail account" for "each account".
+
+Subsec. (g)(4). Pub. L. 114–94, §2001(i)(4)(B), inserted ", except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603" after "feasible".
+
+Subsec. (k). Pub. L. 114–94, §2001(i)(5), substituted "fiscal years 2016 through 2020" for "fiscal years 2005 through 2009".
+
+<b>2012</b>—Subsec. (d)(1)(B). Pub. L. 112–141, §1519(c)(11), formerly §1519(c)(12), as renumbered by Pub. L. 114–94, §1446(d)(5)(B), struck out "under section 105" before period at end.
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
 
 <b>2005</b>—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
+
+#### Effective Date of 2015 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 
@@ -203,6 +257,4 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

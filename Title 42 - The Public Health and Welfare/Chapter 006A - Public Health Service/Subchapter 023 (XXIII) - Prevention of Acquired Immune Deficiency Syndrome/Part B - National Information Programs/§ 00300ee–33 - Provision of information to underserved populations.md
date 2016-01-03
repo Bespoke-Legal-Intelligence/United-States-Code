@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to public entities, to migrant health centers (as defined in section 254b(a) <sup>1</sup> of this title), to community health centers (as defined in section 254c(a) <sup>1</sup> of this title), and to nonprofit private entities concerned with acquired immune deficiency syndrome, for the purpose of assisting grantees in providing services to populations of individuals that are underserved with respect to programs providing information on the prevention of exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
+The Secretary may make grants to public entities, to migrant health centers (as defined insection 254b(a) <sup>1</sup> of this title), to community health centers (as defined in section 254c(a) <sup>1</sup> of this title), and to nonprofit private entities concerned with acquired immune deficiency syndrome, for the purpose of assisting grantees in providing services to populations of individuals that are underserved with respect to programs providing information on the prevention of exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome.
 
 #### (b) Preferences in making grants
 

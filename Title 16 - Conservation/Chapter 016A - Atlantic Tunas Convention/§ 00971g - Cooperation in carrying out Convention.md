@@ -22,11 +22,11 @@ None of the prohibitions deriving from this chapter, or contained in the laws or
 
 &emsp;(B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
 
-> If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
+> If a State requests the opportunity for an agency hearing on the record, the Secretary shall notapply regulations promulgated pursuant to this chapter within that State's boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
 
 #### (e) Continuing review of State laws and regulations
 
-To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.
+To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
 (Pub. L. 94–70, §9, Aug. 5, 1975, 89 Stat. 392.)
 

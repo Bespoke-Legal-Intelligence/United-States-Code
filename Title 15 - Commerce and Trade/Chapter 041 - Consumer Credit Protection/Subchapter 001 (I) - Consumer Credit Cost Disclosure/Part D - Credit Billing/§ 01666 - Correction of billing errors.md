@@ -2,7 +2,7 @@
 
 #### (a) Written notice by obligor to creditor; time for and contents of notice; procedure upon receipt of notice by creditor
 
-If a creditor, within sixty days after having transmitted to an obligor a statement of the obligor's account in connection with an extension of consumer credit, receives at the address disclosed under section 1637(b)(10) of this title a written notice (other than notice on a payment stub or other payment medium supplied by the creditor if the creditor so stipulates with thedisclosure required under section 1637(a)(7) of this title) from the obligor in which the obligor—
+If a creditor, within sixty days after having transmitted to an obligor a statement of the obligor's account in connection with an extension of consumer credit, receives at the address disclosed under section 1637(b)(10) of this title a written notice (other than notice on a payment stub or other payment medium supplied by the creditor if the creditor so stipulates with the disclosure required under section 1637(a)(7) of this title) from the obligor in which the obligor—
 
 &emsp;(1) sets forth or otherwise enables the creditor to identify the name and account number (if any) of the obligor,
 
@@ -42,9 +42,9 @@ For the purpose of this section, a "billing error" consists of any of the follow
 
 #### (c) Action by creditor to collect amount or any part thereof regarded by obligor to be a billing error
 
-For the purposes of this section, "action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)" does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
+For the purposes of this section, "action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)" does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a), if—
 
-&emsp;(1) the obligor's account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a) of this section, and
+&emsp;(1) the obligor's account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a), and
 
 &emsp;(2) the creditor indicates the payment of such amount is not required pending the creditor's compliance with this section.
 
@@ -52,7 +52,7 @@ For the purposes of this section, "action to collect the amount, or any part the
 
 #### (d) Restricting or closing by creditor of account regarded by obligor to contain a billing error
 
-Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) of this section that he believes such account to contain a billing error solely because of the obligor's failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor's account the amount indicated to be in error.
+Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor's failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor's account the amount indicated to be in error.
 
 #### (e) Effect of noncompliance with requirements by creditor
 

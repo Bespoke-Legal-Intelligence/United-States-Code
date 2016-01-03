@@ -6,7 +6,7 @@ The purpose of this part is to assist State educational agencies in reforming an
 
 #### (b) Definition of personnel
 
-In this part the term "personnel" means special education teachers, regular education teachers, principals, administrators, relatedservices personnel, paraprofessionals, and early intervention personnel serving infants, toddlers, preschoolers, or children with disabilities, except where a particular category of personnel, such as related services personnel, is identified.
+In this part the term "personnel" means special education teachers, regular education teachers, principals, administrators, related services personnel, paraprofessionals, and early intervention personnel serving infants, toddlers, preschoolers, or children with disabilities, except where a particular category of personnel, such as related services personnel, is identified.
 
 #### (c) Competitive grants
 
@@ -46,7 +46,7 @@ In this part the term "personnel" means special education teachers, regular educ
 
 &emsp;&emsp;(D) the alignment of proposed activities with section 1412(a)(14) of this title;
 
-&emsp;&emsp;(E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6612, respectively, of this title; and
+&emsp;&emsp;(E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d) <sup>1</sup> respectively, of this title; and
 
 &emsp;&emsp;(F) the use, as appropriate, of scientifically based research activities.
 
@@ -54,7 +54,7 @@ In this part the term "personnel" means special education teachers, regular educ
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), for the first fiscal year for which the amount appropriated under section 1455 of this title, that remains after the Secretary reserves funds under subsection (e) for the fiscal year, is equal to or greater than $100,000,000, and for each fiscal year thereafter, the Secretary shall allot to each State educational agency, whose application meets the requirements of this part, an amount that bears the same relation to the amount remaining as the amount the State received under section 1411(d) of this title for that fiscal year bears to the amount of funds received by all States (whose applications meet the requirements of this part) under section 1411(d) of this title for that fiscal year.
+&emsp;Except as provided in paragraphs (2) and (3), for the first fiscal year for which the amount appropriated under section 1455 of this title,that remains after the Secretary reserves funds under subsection (e) for the fiscal year, is equal to or greater than $100,000,000, and for each fiscal year thereafter, the Secretary shall allot to each State educational agency, whose application meets the requirements of this part, an amount that bears the same relation to the amount remaining as the amount the State received under section 1411(d) of this title for that fiscal year bears to the amount of funds received by all States (whose applications meet the requirements of this part) under section 1411(d) of this title for that fiscal year.
 
 #### (2) Minimum allotments for States that received competitive grants
 
@@ -86,9 +86,9 @@ In this part the term "personnel" means special education teachers, regular educ
 
 #### (2) Prohibition
 
-&emsp;A State educational agency that receives a continuation award under paragraph (1) forany fiscal year may not receive any other award under this part for that fiscal year.
+&emsp;A State educational agency that receives a continuation award under paragraph (1) for any fiscal year may not receive any other award under this part for that fiscal year.
 
-(Pub. L. 91–230, title VI, §651, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2765.)
+(Pub. L. 91–230, title VI, §651, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2765; amended Pub. L. 114–95, title IX, §9215(ss)(6), Dec. 10, 2015, 129 Stat. 2183.)
 
 #### Prior Provisions
 
@@ -96,7 +96,17 @@ A prior section 1451, Pub. L. 91–230, title VI, §651, as added Pub. L. 105–
 
 Another prior section 1451, Pub. L. 91–230, title VI, §651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, §106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, §601, title IX, §901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (c)(5)(E). Pub. L. 114–95 substituted "and 6611(d)" for "and 6612,".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
 #### Effective Date
 
 Part effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under section 1400 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

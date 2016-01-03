@@ -12,7 +12,7 @@ The Secretary shall delegate to the Administrator (which delegation may be on a 
 
 #### (c) Functions of Director of Office of Energy Information and Analysis
 
-In addition to, and not in limitation of the functions delegated to the Administrator pursuant to other subsections of this section, there shall be vested in the Administrator, and he shall perform, the functions assigned to the Director of the Office of Energy Information and Analysis under part B of the Federal Energy Administration Act of 1974 \[15 U.S.C. 790 et seq.\], and the provisions of sections 53(d) and 59 thereof \[15 U.S.C. 790b(d), 790h\] shall be applicable to the Administrator in the performance of any function under this chapter.
+In addition to, and not in limitation of the functions delegated to the Administrator pursuant to other subsections of this section, there shall be vested in the Administrator, and heshall perform, the functions assigned to the Director of the Office of Energy Information and Analysis under part B of the Federal Energy Administration Act of 1974 \[15 U.S.C. 790 et seq.\], and the provisions of sections 53(d) and 59 thereof \[15 U.S.C. 790b(d), 790h\] shall be applicable to the Administrator in the performance of any function under this chapter.
 
 #### (d) Collection or analysis of information and preparation of reports without approval
 
@@ -114,7 +114,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a(a)), the Administrator shall—
 
-&emsp;(1) conduct surveys of residential and commercial energy use at least once every fouryears, and make such information available to the public;
+&emsp;(1) conduct surveys of residential and commercial energy use at least once every four years, and make such information available to the public;
 
 &emsp;(2) when surveying electric utilities, collect information on demand-side management programs conducted by such utilities, including information regarding the types of demand-side management programs being operated, the quantity of measures installed, expenditures on demand-side management programs, estimates of energy savings resulting from such programs, and whether the savings estimates were verified; and
 

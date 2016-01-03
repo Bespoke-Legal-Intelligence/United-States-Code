@@ -10,11 +10,11 @@ Whenever the International Trade Commission (in this part referred to as the "Co
 
 #### (b) Report
 
-Not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title, the Secretary shall submit a report to the President setting forth the findings of the study described in subsection (a) of this section. Upon making the report to the President, the Secretary shall also promptly make the report public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of the report published in the Federal Register.
+Not later than 15 days after the day on which the Commission makes its report under section 2252(f) of this title, the Secretary shall submit a report to the President setting forth the findings of the study described in subsection (a). Upon making the report to the President, the Secretary shall also promptly make the report public (with the exception of information which the Secretary determines to be confidential) and shall have a summary of the report published in the Federal Register.
 
 (Pub. L. 93–618, title II, §294, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949.)
 
 #### Termination Date
 
-Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2014, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

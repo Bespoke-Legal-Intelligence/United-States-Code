@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(ii) constituted a research facility used in connection with any of the activities referred to in clause (i), or
 
-&emsp;&emsp;&emsp;(iii) constituted a facility used in connection with any of the activities referredto in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
+&emsp;&emsp;&emsp;(iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
 
 &emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179B, 179C, 179D, 179E, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>2</sup>
 
@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245 property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
+&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
 
 #### (B) Later change in use
 
@@ -120,7 +120,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(H), Dec. 19, 2014, 128 Stat. 4042.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388-524, 1388-555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625; Pub. L. 109–432, div. A, title IV, §404(b)(3), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(H), Dec. 19, 2014, 128 Stat. 4042.)
 
 #### References in Text
 
@@ -158,7 +158,7 @@ Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which relate
 
 <b>1997</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted "179A," after "179,".
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisionsgenerally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
 
 <b>1995</b>—Subsec. (b)(5). Pub. L. 104–7 struck out "1071 and" before "1081 transactions" in heading and "section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or" before "section 1081" in text.
 
@@ -338,7 +338,7 @@ Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures 
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
-Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) of Pub. L. 96–223, set out as an Effective Date note under section 193 of this title.
+Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) ofPub. L. 96–223, set out as an Effective Date note under section 193 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 94–81 applicable to dispositions after Dec. 31, 1969, in 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by section 104(a)(2) of Pub. L. 92–178 applicable to property described in section 50 of this titlerelating to restoration of credit, see section 104(h) of Pub. L. 92–178, set out as a note under section 48 of this title.
+Amendment by section 104(a)(2) of Pub. L. 92–178 applicable to property described in section 50 of this title relating to restoration of credit, see section 104(h) of Pub. L. 92–178, set out as a note under section 48 of this title.
 
 Amendment by section 303(c)(1), (2) of Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) of Pub. L. 92–178, set out as a note under section 642 of this title.
 

@@ -6,7 +6,7 @@ Subject to valid existing rights, the Federal lands and interests in lands inclu
 
 &emsp;(1) location, entry and patent under the mining laws; and
 
-&emsp;(2) operation of the mineral leasing and geothermal leasing laws and from the minerals materials laws and all amendments thereto except as specified in subsection (b) of this section.
+&emsp;(2) operation of the mineral leasing and geothermal leasing laws and from the minerals materials laws and all amendments thereto except as specified in subsection (b).
 
 #### (b) Road maintenance
 

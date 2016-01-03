@@ -4,7 +4,7 @@
 
 (b) The term "Library of Congress buildings and grounds" shall include (1) the whole or any part of any building or structure which is occupied under lease or otherwise by the Library of Congress and is subject to supervision and control by the Librarian of Congress, (2) the land upon which there is situated any building or structure which is occupied wholly by the Library of Congress, and (3) any subway or enclosed passageway connecting two or more buildings or structures occupied in whole or in part by the Library of Congress.
 
-(c) The term "Library of Congress buildings and grounds" shall include (1) all real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property.
+(c) The term "Library of Congress buildings and grounds" shall include (1) all real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbiaon August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property.
 
 (d) The term "Library of Congress buildings and grounds" shall include the following property:
 

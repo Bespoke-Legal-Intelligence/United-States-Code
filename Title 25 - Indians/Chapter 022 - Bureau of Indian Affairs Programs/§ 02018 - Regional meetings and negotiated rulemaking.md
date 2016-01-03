@@ -2,13 +2,13 @@
 
 #### (a) Regional meetings
 
-Prior to publishing any proposed regulations under subsection (b)(1) of this section, and prior to establishing the negotiated rulemaking committee under subsection (b)(3) of this section, the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
+Prior to publishing any proposed regulations under subsection (b)(1), and prior to establishing the negotiated rulemaking committee under subsection (b)(3), the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\].
 
 #### (b) Negotiated rulemaking
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) of this section and under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
+&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) and under the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
 
 #### (2) Notification to Congress
 
@@ -54,7 +54,7 @@ The date of enactment of this chapter, referred to in subsec. (c)(1), probably m
 
 #### Prior Provisions
 
-A prior section 2018, Pub. L. 95–561, title XI, §1138, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
+A prior section 2018, Pub. L. 95–561, title XI, §1138, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
 
-Another prior section 2018, Pub. L. 95–561, title XI, §1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, §510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+Another prior section 2018, Pub. L. 95–561, title XI, §1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, §510, Oct. 19, 1984, 98 Stat. 2397, related to regulationsimplementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
 

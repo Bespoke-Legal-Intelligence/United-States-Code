@@ -54,7 +54,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (o) Have authority to designate call letters of all stations;
 
-(p) Have authority to cause to be published such call letters and such other announcementsand data as in the judgment of the Commission may be required for the efficient operation of radio stations subject to the jurisdiction of the United States and for the proper enforcement of this chapter;
+(p) Have authority to cause to be published such call letters and such other announcements and data as in the judgment of the Commission may be required for the efficient operation of radio stations subject to the jurisdiction of the United States and for the proper enforcement of this chapter;
 
 (q) Have authority to require the painting and/or illumination of radio towers if and when in its judgment such towers constitute, or there is a reasonable possibility that they may constitute, a menace to air navigation. The permittee or licensee, and the tower owner in any case in which the owner is not the permittee or licensee, shall maintain the painting and/or illumination of the tower as prescribed by the Commission pursuant to this section. In the event that the tower ceases to be licensed by the Commission for the transmission of radio energy, the owner of the tower shall maintain the prescribed painting and/or illumination of such tower until it is dismantled, and the Commission may require the owner to dismantle and remove the tower when the Administrator of the Federal Aviation Agency determines that there is a reasonable possibility that it may constitute a menace to air navigation.
 
@@ -106,7 +106,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (z) Require that—
 
-&emsp;(1) if achievable (as defined in section 617 of this title), apparatus designed to record videoprogramming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States, enable the rendering or the pass through of closed captions, video description signals, and emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) such that viewers are able to activate and de-activate the closed captions and video description as the video programming is played back on a picture screen of any size; and
+&emsp;(1) if achievable (as defined in section 617 of this title), apparatus designed to record video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States, enable the rendering or the pass through of closed captions, video description signals, and emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) such that viewers are able to activate and de-activate the closed captions and video description as the video programming is played back on a picture screen of any size; and
 
 &emsp;(2) interconnection mechanisms and standards for digital video source devices are available to carry from the source device to the consumer equipment the information necessary to permit or render the display of closed captions and to make encoded video description and emergency information audible.
 
@@ -154,7 +154,7 @@ Subsec. (aa). Pub. L. 111–260, §204(a), added subsec. (aa).
 
 Subsec. (aa)(3). Pub. L. 111–265, §2(12), substituted "for activating" for "by activating".
 
-Subsec. (bb). Pub. L. 111–265, §2(15), struck out concluding provisions which read as follows: "With respectto apparatus features and functions delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software. With respect to apparatus features and functions delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware."
+Subsec. (bb). Pub. L. 111–265, §2(15), struck out concluding provisions which read as follows: "With respect to apparatus features and functions delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software. With respect to apparatus features and functions delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware."
 
 Pub. L. 111–260, §205(a), added subsec. (bb).
 
@@ -226,7 +226,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 "(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. Thisfeature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -290,7 +290,7 @@ Separate equipment or software.—
 
 &emsp;"(A)
 
-In general.—Such regulations shall permit but not require the entity providing the navigation device to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 \[47 U.S.C. 303(bb)(1)\] through that entity's use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
+In general.—Such regulations shall permit but not require the entity providing the navigationdevice to the requesting blind or visually impaired individual to comply with section 303(bb)(1) of the Communications Act of 1934 \[47 U.S.C. 303(bb)(1)\] through that entity's use of software, a peripheral device, specialized consumer premises equipment, a network-based service or other solution, and shall provide the maximum flexibility to select the manner of compliance.
 
 &emsp;"(B)
 
@@ -332,7 +332,7 @@ Pub. L. 111–371, Jan. 4, 2011, 124 Stat. 4072, provided that:
 
 #### "SEC. 2. AMENDMENT.
 
-"Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related AgenciesAppropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows:
+"Section 632 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (Public Law 106–553; 114 Stat. 2762A–111), is amended to read as follows:
 
 " 'Sec. 632. (a) The Federal Communications Commission shall modify the rules authorizing the operation of low-power FM radio stations, as proposed in MM Docket No. 99–25, to—
 
@@ -468,7 +468,7 @@ Applicable caps.—The Commission shall revise section 73.3555(a) of its regulat
 
 &emsp;&emsp;"(C) in a radio market with between 15 and 29 (inclusive) commercial radio stations, a party may own, operate, or control up to 6 commercial radio stations, not more than 4 of which are in the same service (AM or FM); and
 
-&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not more than 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
+&emsp;&emsp;"(D) in a radio market with 14 or fewer commercial radio stations, a party may own, operate, or control up to 5 commercial radio stations, not morethan 3 of which are in the same service (AM or FM), except that a party may not own, operate, or control more than 50 percent of the stations in such market.
 
 &emsp;"(2)
 
@@ -592,7 +592,7 @@ Pub. L. 102–356, §16(a), Aug. 26, 1992, 106 Stat. 954, provided that: "The Fe
 
 &emsp;"(2) between 6 a.m. and 12 midnight on any day for any radio or television broadcasting station not described in paragraph (1).
 
-> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5, United States Code, and shall become final not laterthan 180 days after the date of enactment of this Act \[Aug. 26, 1992\]."
+> The regulations required under this subsection shall be promulgated in accordance with section 553 of title 5, United States Code, and shall become final not later than 180 days after the date of enactment of this Act \[Aug. 26, 1992\]."
 
 #### Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium
 

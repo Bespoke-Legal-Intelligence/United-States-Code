@@ -54,7 +54,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 &emsp;&emsp;&emsp;(ix) subject to subsection (e)(4), a drug-related offense committed during the preceding 5 years; or
 
-&emsp;&emsp;(E) has been convicted of a violent misdemeanor committed as an adult against a child, including the following crimes: child abuse, child endangerment, sexual assault,or of a misdemeanor involving child pornography.
+&emsp;&emsp;(E) has been convicted of a violent misdemeanor committed as an adult against a child, including the following crimes: child abuse, child endangerment, sexual assault, or of a misdemeanor involving child pornography.
 
 #### (2) Child care providers
 
@@ -134,7 +134,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 #### (4) Review
 
-&emsp;The State may allow for a review process through which the State may determine that a child care staff member (including a prospective child care staff member) disqualified for a crime specified in subsection (c)(1)(D)(ix) is eligible for employment described in subsection (c)(1), notwithstanding subsection (c). The review process shall be consistent with title VIIof the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.).
+&emsp;The State may allow for a review process through which the State may determine that a child care staff member (including a prospective child care staff member) disqualified for a crime specified in subsection (c)(1)(D)(ix) is eligible for employment described in subsection (c)(1), notwithstanding subsection (c). The review process shall be consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.).
 
 #### (5) No private right of action
 

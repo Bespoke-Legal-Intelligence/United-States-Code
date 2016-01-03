@@ -1,56 +1,88 @@
 ### §953. General Advisory Committee and Scientific Advisory Subcommittee
 
-#### (a) Appointments; public participation; compensation
+#### (a) General Advisory Committee
 
-The Secretary, in consultation with the United States Commissioners, shall—
+#### (1) Appointments; public participation; compensation
 
-&emsp;(1) appoint a General Advisory Committee which shall be composed of not less than 5 nor more than 15 persons with balanced representation from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations;
+&emsp;(A) The Secretary, in consultation with the Secretary of State, shall appoint a General Advisory Committee which shall consist of not more than 25 individuals who shall be representative of the various groups concerned with the fisheries covered by the Convention, including nongovernmental conservation organizations, providing to the maximum extent practicable an equitable balance among such groups. Members of the General Advisory Committee will be eligible to participate as members of the United States delegation to the Commission and its working groups to the extent the Commission rules and space for delegations allow.
 
-&emsp;(2) appoint a Scientific Advisory Subcommittee which shall be composed of not less than 5 nor more than 15 qualified scientists with balanced representation from the public and private sectors, including nongovernmental conservation organizations;
+&emsp;(B) The chair of the Pacific Fishery Management Council's Advisory Subpanel for Highly Migratory Fisheries and the chair of the Western Pacific Fishery Management Council's Advisory Committee shall be ex-officio members of the General Advisory Committee by virtue of their positions in those Councils.
 
-&emsp;(3) establish procedures to provide for appropriate public participation and public meetings and to provide for the confidentiality of confidential business data; and
+&emsp;(C) Each member of the General Advisory Committee appointed under subparagraph (A) shall serve for a term of 3 years and is eligible for reappointment.
 
-&emsp;(4) fix the terms of office of the members of the General Advisory Committee and Scientific Advisory Subcommittee, who shall receive no compensation for their services as such members.
+&emsp;(D) The General Advisory Committee shall be invited to attend all non-executive meetings of the United States delegation and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
 
-#### (b) Functions
+&emsp;(E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The General Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
-#### (1) General Advisory Committee
+#### (2) Information sharing
 
-&emsp;The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions.
+&emsp;The Secretary and the Secretary of State shall furnish the General Advisory Committeewith relevant information concerning fisheries and international fishery agreements.
 
-#### (2) Scientific Advisory Subcommittee
+#### (3) Administrative matters
 
-#### (A) Advice
+&emsp;(A) The Secretary shall provide to the General Advisory Committee in a timely manner such administrative and technical support services as are necessary for its effective functioning.
 
-&emsp;&emsp;The Scientific Advisory Subcommittee shall advise the General Advisory Committee and the Commissioners on matters including—
+&emsp;(B) Individuals appointed to serve as a member of the General Advisory Committee—
 
-&emsp;&emsp;&emsp;(i) the conservation of ecosystems;
+&emsp;&emsp;(i) shall serve without pay, but while away from their homes or regular places of business to attend meetings of the General Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5; and
 
-&emsp;&emsp;&emsp;(ii) the sustainable uses of living marine resources related to the tuna fishery in the eastern Pacific Ocean; and
+&emsp;&emsp;(ii) shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
-&emsp;&emsp;&emsp;(iii) the long-term conservation and management of stocks of living marine resources in the eastern tropical Pacific Ocean.
+#### (b) Scientific Advisory Subcommittee
 
-#### (B) Other functions and assistance
+(1) The Secretary, in consultation with the Secretary of State, shall appoint a Scientific Advisory Subcommittee of not less than 5 nor more than 15 qualified scientists with balanced representation from the public and private sectors, including nongovernmental conservation organizations.
 
-&emsp;&emsp;The Scientific Advisory Subcommittee shall, as requested by the General Advisory Committee, the United States Commissioners, or the Secretary, perform functions and provide assistance required by formal agreements entered into by the United States for this fishery, including the International Dolphin Conservation Program. These functions may include—
+(2)
 
-&emsp;&emsp;&emsp;(i) the review of data from the Program, including data received from the Inter-American Tropical Tuna Commission;
+Scientific Advisory Subcommittee.—
 
-&emsp;&emsp;&emsp;(ii) recommendations on research needs, including ecosystems, fishing practices, and gear technology research, including the development and use of selective, environmentally safe and cost-effective fishing gear, and on the coordination and facilitation of such research;
+&emsp;(A)
 
-&emsp;&emsp;&emsp;(iii) recommendations concerning scientific reviews and assessments required under the Program and engaging, as appropriate, in such reviews and assessments;
+Advice.—The Scientific Advisory Subcommittee shall advise the General Advisory Committee and the Commissioners on matters including—
 
-&emsp;&emsp;&emsp;(iv) consulting with other experts as needed; and
+&emsp;&emsp;(i) the conservation of ecosystems;
 
-&emsp;&emsp;&emsp;(v) recommending measures to assure the regular and timely full exchange of data among the parties to the Program and each nation's National Scientific Advisory Committee (or its equivalent).
+&emsp;&emsp;(ii) the sustainable uses of living marine resources related to the tuna fishery in the eastern Pacific Ocean; and
 
-#### (3) Attendance at meetings
+&emsp;&emsp;(iii) the long-term conservation and management of stocks of living marine resources in the eastern tropical Pacific Ocean.
 
-&emsp;The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United Statessections and the General Advisory Subcommittee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
+&emsp;(B)
 
-(Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Pub. L. 102–523, §3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(b), Aug. 15, 1997, 111 Stat. 1137.)
+Other functions and assistance.—The Scientific Advisory Subcommittee shall, as requested by the General Advisory Committee, the United States Commissioners, or the Secretary, perform functions and provide assistance required by formal agreements entered into by the United States for this fishery, including the International Dolphin Conservation Program. These functions may include—
+
+&emsp;&emsp;(i) the review of data from the Program, including data received from the Inter-American Tropical Tuna Commission;
+
+&emsp;&emsp;(ii) recommendations on research needs, including ecosystems, fishing practices, and gear technology research, including the development and use of selective, environmentally safe and cost-effective fishing gear, and on the coordination and facilitation of such research;
+
+&emsp;&emsp;(iii) recommendations concerning scientific reviews and assessments required under the Program and engaging, as appropriate, in such reviews and assessments;
+
+&emsp;&emsp;(iv) consulting with other experts as needed; and
+
+&emsp;&emsp;(v) recommending measures to assure the regular and timely full exchange of data among the parties to the Program and each nation's National Scientific Advisory Committee (or its equivalent).
+
+(3)
+
+Attendance at meetings.—The Scientific Advisory Subcommittee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and the General Advisory Committee and shall be given full opportunity to examine and to be heard on all proposed programs of scientific investigation, scientific reports, and scientific recommendations of the commission. Representatives of the Scientific Advisory Subcommittee may attend meetings of the Inter-American Tropical Tuna Commission in accordance with the rules of such Commission.
+
+(Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Pub. L. 102–523, §3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(b), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 114–81, title II, §205, Nov. 5, 2015, 129 Stat. 661.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1)(E), was in the original "this title" and was translated as reading "this Act" to reflect the probable intent of Congress. Act Sept. 7, 1950, which comprises this chapter, does not contain titles.
+
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified generally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–81, §205(1), added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
+
+Subsec. (b). Pub. L. 114–81, §205(2), substituted "Scientific Advisory Subcommittee" for "Functions" in heading.
+
+Subsec. (b)(1). Pub. L. 114–81, §205(2), added par. (1) and struck out former par. (1) which read as follows: "The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions."
+
+Subsec. (b)(3). Pub. L. 114–81, §205(3), substituted "General Advisory Committee" for "General Advisory Subcommittee".
 
 <b>1997</b>—Pub. L. 105–42 which directed insertion of catchline and general amendment of text of section 4 of the Tuna Conventions Act, was executed to this section, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The United States Commissioners shall (a) appoint an advisory committee which shall be composed of not less than five nor more than fifteen persons who shall be selected from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations, and (b) shall fix the terms of office of the members of such committee, who shall receive no compensation for their services as such members. The advisory committee shall be invited to attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the commissions. The advisory committee may attend all meetings of the international commissions to which they are invited by such commissions."
 

@@ -16,7 +16,7 @@ For purposes of this section, in the case of an individual who was in a missing 
 
 #### (1) In general
 
-&emsp;In the case of any individual who dies while a military or civilian employee of the United States, if such death occurs as a result of wounds or injury which was incurred while theindividual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
+&emsp;In the case of any individual who dies while a military or civilian employee of the United States, if such death occurs as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred in a terroristic or military action, any tax imposed by this subtitle shall not apply—
 
 &emsp;&emsp;(A) with respect to the taxable year in which falls the date of his death, and
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 107–134, §101(a), added subsec. (d).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–259 added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting "as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred"for "as a result of wounds or injury incurred" was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 98–369, §722(g)(2), which directed amendment of par. (1) of this section by substituting "as a result of wounds or injury which was incurred while the individual was a military or civilian employee of the United States and which was incurred" for "as a result of wounds or injury incurred" was executed to par. (1) of subsec. (c) to reflect the probable intent of Congress.
 
 Subsec. (c)(2)(A). Pub. L. 98–369, §722(g)(3), inserted "which a preponderance of the evidence indicates was".
 

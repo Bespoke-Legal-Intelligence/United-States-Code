@@ -16,7 +16,8 @@
 | \[2669. | Repealed.\] |
 | [2670\.](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md) | Use of facilities by private organizations; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
-| \[2672 to 2673. Repealed.\] |  |
+| [2672\.](%C2%A7%2002672%20-%20Protection%20of%20buildings%2C%20grounds%2C%20property%2C%20and%20persons.md) | Protection of buildings, grounds, property, and persons. |
+| \[2672a, 2673. Repealed.\] |  |
 | [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
 | [2675\.](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md) | Leases: foreign countries. |
 | \[2676, 2677. Renumbered or Repealed.\] |  |
@@ -54,6 +55,8 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. B, title XXVIII, §2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title III, §351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
 
@@ -101,7 +104,7 @@ Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147,
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted "Fuel sources for heating systems" for "Restriction on fuel sources for new heating systems" in item 2690 and added item 2693.
 
-Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985,99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
+Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a "Sale and replacement of nonexcess real property", eff. Oct. 1, 1986.
 
 <b>1985</b>—Pub. L. 99–167, title VIII, §810(b)(2), Dec. 3, 1985, 99 Stat. 990, substituted "$200,000" for "$100,000" in item 2672.
 
@@ -166,7 +169,8 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02669 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2822(c), Oct. 17, 2006, 120 Stat. 2475](%C2%A7%2002669%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28c%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202475.md)
 - [&sect; 02670 - Use of facilities by private organizations; use as polling places](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
-- [&sect; 02672, 2672a - Repealed. Pub. L. 109&#8211;163, div. B, title XXVIII, &sect;2821(f), Jan. 6, 2006, 119 Stat. 3513](%C2%A7%2002672%2C%202672a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203513.md)
+- [&sect; 02672 - Protection of buildings, grounds, property, and persons](%C2%A7%2002672%20-%20Protection%20of%20buildings%2C%20grounds%2C%20property%2C%20and%20persons.md)
+- [&sect; 02672a - Repealed. Pub. L. 109&#8211;163, div. B, title XXVIII, &sect;2821(f), Jan. 6, 2006, 119 Stat. 3513](%C2%A7%2002672a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203513.md)
 - [&sect; 02673 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(d)(2), Oct. 28, 2004, 118 Stat. 2130](%C2%A7%2002673%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28d%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202130.md)
 - [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
 - [&sect; 02675 - Leases foreign countries](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md)

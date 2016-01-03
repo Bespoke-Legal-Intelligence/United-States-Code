@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) churches, their integrated auxiliaries, and conventions or associations of churches,
 
-&emsp;&emsp;&emsp;(ii) any organization (other than a private foundation, as defined in section509(a)) described in subparagraph (C), the gross receipts of which in each taxable year are normally not more than $5,000, or
+&emsp;&emsp;&emsp;(ii) any organization (other than a private foundation, as defined in section 509(a)) described in subparagraph (C), the gross receipts of which in each taxable year are normally not more than $5,000, or
 
 &emsp;&emsp;&emsp;(iii) the exclusively religious activities of any religious order.
 
@@ -108,7 +108,7 @@ Every organization described in section 501(c)(3) which is subject to the requir
 
 &emsp;&emsp;(A) a description of how the organization is addressing the needs identified in each community health needs assessment conducted under section 501(r)(3) and a description of any such needs that are not being addressed together with the reasons why such needs are not being addressed, and
 
-&emsp;&emsp;(B) the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement).<sup>1</sup>
+&emsp;&emsp;(B) the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financialstatement with other organizations, such consolidated financial statement).<sup>1</sup>
 
 &emsp;(16) such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 
@@ -200,7 +200,11 @@ The following organizations shall comply with the requirements of this section i
 
 #### (f) Certain organizations described in section 501(c)(4)
 
-Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
+Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+
+&emsp;(1) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization, and
+
+&emsp;(2) in the case of the first such return filed by such an organization after submitting a notice to the Secretary under section 506(a), such information as the Secretary shall by regulation require in support of the organization's treatment as an organization described in section 501(c)(4).
 
 #### (g) Returns required by political organizations
 
@@ -318,7 +322,7 @@ An organization described in section 501(c)(29) shall include on the return requ
 
 &emsp;&emsp;<b>For provisions relating to information required in connection with certain plans of deferred compensation, see section 6058.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 85–866, title I, §75(b), Sept. 2, 1958, 72 Stat. 1661; Pub. L. 91–172, title I, §101(d)(1), (2), (j)(30), (31), Dec. 30, 1969, 83 Stat. 519, 520, 529; Pub. L. 93–406, title II, §1031(c)(2), Sept. 2, 1974, 88 Stat. 946; Pub. L. 94–455, title XIII, §1307(a)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1722, 1834; Pub. L. 96–603, §1(a), Dec. 28, 1980, 94 Stat. 3503; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 100–203, title X, §10703(a), Dec. 22, 1987, 101 Stat. 1330–460; Pub. L. 103–66, title XIII, §13222(c), Aug. 10, 1993, 107 Stat. 480; Pub. L. 104–168, title XIII, §1312(a), (b), July 30, 1996, 110 Stat. 1479; Pub. L. 104–188, title I, §1703(g), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title XVI, §1603(b), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 105–277, div. J, title I, §1004(b)(2)(A), Oct. 21, 1998, 112 Stat. 2681–889; Pub. L. 106–230, §3(a)(2), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(c), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–222, title V, §516(b)(1), May 17, 2006, 120 Stat. 371; Pub. L. 109–280, title XII, §§1205(b)(1), 1223(a), (b), 1235(a)(1), 1245(a), (b), Aug. 17, 2006, 120 Stat. 1067, 1090, 1101, 1108; Pub. L. 110–343, div. C, title VII, §703(a), Oct. 3, 2008, 122 Stat. 3919; Pub. L. 111–148, title I, §1322(h)(2), title IX, §9007(d), Mar. 23, 2010, 124 Stat. 192, 857; Pub. L. 114–113, div. Q, title IV, §405(b), Dec. 18, 2015, 129 Stat. 3119.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -335,6 +339,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–113 substituted "under subsection (a)—" for "under subsection (a)", inserted par. (1) designation before "the information", substituted "to such organization, and" for "to such organization.", and added par. (2).
 
 <b>2010</b>—Subsec. (b)(10)(D). Pub. L. 111–148, §9007(d)(2), added subpar. (D).
 
@@ -432,13 +438,17 @@ Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to sectio
 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–113 applicable to organizations which are described in section 501(c)(4) of this title and organized after Dec. 18, 2015, and to certain then-existing organizations, see section 405(f) of Pub. L. 114–113, set out as an Effective Date note under section 506 of this title.
+
 #### Effective Date of 2010 Amendment
 
-Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010, see section 9007(f)(1) of Pub. L. 111–148, set out as a note under section 501 of this title.
+Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010,see section 9007(f)(1) of Pub. L. 111–148, set out as a note under section 501 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, provided that: "The amendments madeby this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008."
+Pub. L. 110–343, div. C, title VII, §703(b), Oct. 3, 2008, 122 Stat. 3919, provided that: "The amendments made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008."
 
 #### Effective Date of 2006 Amendment
 

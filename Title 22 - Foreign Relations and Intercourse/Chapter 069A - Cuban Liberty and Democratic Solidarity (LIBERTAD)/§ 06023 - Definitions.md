@@ -46,7 +46,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;The term "economic embargo of Cuba" refers to—
 
-&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 5(b) of title 50, Appendix, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
+&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 4305(b) of title 50, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
 
 &emsp;&emsp;(B) the restrictions imposed by section 902(c) of the Food Security Act of 1985.
 
@@ -84,7 +84,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(A) As used in subchapter III, and except as provided in subparagraph (B), a person "traffics" in confiscated property if that person knowingly and intentionally—
 
-&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases, receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
+&emsp;&emsp;(i) sells, transfers, distributes, dispenses, brokers, manages, or otherwise disposes of confiscated property, or purchases, leases,receives, possesses, obtains control of, manages, uses, or otherwise acquires or holds an interest in confiscated property,
 
 &emsp;&emsp;(ii) engages in a commercial activity using or otherwise benefiting from confiscated property, or
 
@@ -120,7 +120,7 @@ As used in this chapter, the following terms have the following meanings:
 
 This chapter, referred to in introductory provisions, was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and section 16 of Title 50, Appendix, War and National Defense, and repealed subchapters V–A (§1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§6081 et seq.) of this chapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
+Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and section 4315 of Title 50, War and National Defense, and repealed subchapters V–A (§1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§6081 et seq.) of this chapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
 
 The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 

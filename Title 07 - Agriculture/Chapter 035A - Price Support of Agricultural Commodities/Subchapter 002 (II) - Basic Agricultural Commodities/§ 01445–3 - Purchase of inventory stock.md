@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A), such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B).
 
-(C)(i) Such agreements shall provide that, over a period of time, each participating domestic manufacturer of cigarettes shall purchase a percentage of the stocks of Flue-cured and Burley tobacco held—
+(C)(i) Such agreements shall provide that, over a period of time, each participating domesticmanufacturer of cigarettes shall purchase a percentage of the stocks of Flue-cured and Burley tobacco held—
 
 &emsp;(I) by the producer-owned cooperative marketing associations at the close of the 1984 marketing year; or
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 #### (e) Disclosure
 
-The limitations on disclosure set forth in subsections (c) and (d) of section 1314g <sup>1</sup> of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) <sup>1</sup> of this title.
+The limitations on disclosure set forth in subsections (c) and (d) of section 1314g <sup>1</sup> of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided onATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) <sup>1</sup> of this title.
 
 (Pub. L. 99–272, title I, §1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, §1112(b), Nov. 25, 2002, 116 Stat. 2276.)
 

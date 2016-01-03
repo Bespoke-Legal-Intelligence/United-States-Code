@@ -54,7 +54,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (B) Direct spending
 
-&emsp;&emsp;OMB shall calculate the reduction to direct spending programs by taking the totalreduction for nondefense functions required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
+&emsp;&emsp;OMB shall calculate the reduction to direct spending programs by taking the total reduction for nondefense functions required for that year under paragraph (2) and subtracting the discretionary reduction calculated pursuant to subparagraph (A).
 
 #### (5) Implementing discretionary reductions
 
@@ -68,7 +68,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (B) Fiscal years 2014–2021
 
-&emsp;&emsp;Except as provided by paragraph (10), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+&emsp;&emsp;Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
 &emsp;&emsp;&emsp;(i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -78,19 +78,13 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 &emsp;(A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-&emsp;(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+&emsp;(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
 &emsp;&emsp;(i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
 &emsp;&emsp;(ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-&emsp;(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
-
-&emsp;&emsp;(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
-
-&emsp;&emsp;(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
-
-&emsp;(D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+&emsp;(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2025 shall be applied to such payments so that—
 
 &emsp;&emsp;(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -110,11 +104,17 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
 #### (10) Implementing direct spending reductions for fiscal years 2014 and 2015
 
-&emsp;(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3)and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
+&emsp;(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2014 and 2015 by the Bipartisan Budget Act of 2013.
 
 &emsp;(B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077.)
+#### (11) Implementing direct spending reductions for fiscal years 2016 and 2017
+
+&emsp;(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2016 and 2017 by the Bipartisan Budget Act of 2015.
+
+&emsp;(B) Paragraph (5)(B) shall not be implemented for fiscal years 2016 and 2017.
+
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586.)
 
 #### References in Text
 
@@ -124,11 +124,25 @@ This title, referred to in par. (9), means title II (§200 et seq.) of Pub. L. 9
 
 The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub. L. 113–67, Dec. 26, 2013, 127 Stat. 1165. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 900 of this title and Tables.
 
+The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+
 #### Prior Provisions
 
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+
+<b>2015</b>—Par. (5)(B). Pub. L. 114–74, §101(b)(1), substituted "paragraphs (10) and (11)" for "paragraph (10)".
+
+Par. (6)(B). Pub. L. 114–74, §101(c)(1), in introductory provisions, substituted "for fiscal year 2024, and for fiscal year 2025" for "and for fiscal year 2024".
+
+Par. (6)(C), (D). Pub. L. 114–74, §101(c)(2), (3), redesignated subpar. (D) as (C), substituted "fiscal year 2025" for "fiscal year 2024" in introductory provisions, and struck out former subpar. (C) which read as follows: "Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+
+&emsp;"(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
+
+&emsp;"(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent."
+
+Par. (11). Pub. L. 114–74, §101(b)(2), added par. (11).
 
 <b>2014</b>—Par. (6)(B). Pub. L. 113–82 substituted ", for fiscal year 2023, and for fiscal year 2024" for "and for fiscal year 2023".
 
@@ -180,17 +194,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 &emsp;&emsp;" '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+#### Sequestration Order for Fiscal Year 2016 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
 
-Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
+Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2015, direct spending budgetary resources for fiscal year 2016 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 2, 2015.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 2, 2015, prepared pursuant to section 251A(9) of the Act.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+<b>2015</b>—Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365.
 
 <b>2014</b>—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 

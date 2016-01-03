@@ -166,7 +166,7 @@ Paragraph (5) codifies the improvement in position test, and thereby overrules s
 
 Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
-Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permitsthe trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
+Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
 Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. "Simple contract" as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules <i>DuBay</i> and <i>Grain Merchants</i>, and in combination with subsection (b)(2), overrules <i>In re King-Porter Co</i>., 446 F.2d 722 (5th Cir. 1971).
 
@@ -264,7 +264,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (c)(9), dollar amount "5,850" was adjusted to "6,225". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount "6,225" was adjusted to "6,425". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (c)(9), dollar amount "5,850" was adjusted to "6,225".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (c)(9), dollar amount "5,475" was adjusted to "5,850".
 

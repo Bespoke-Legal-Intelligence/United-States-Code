@@ -64,7 +64,7 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 &emsp;&emsp;(A) for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
 
-&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, orfraud with respect to a purchase card, including removal in appropriate cases; and
+&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
 
 &emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 

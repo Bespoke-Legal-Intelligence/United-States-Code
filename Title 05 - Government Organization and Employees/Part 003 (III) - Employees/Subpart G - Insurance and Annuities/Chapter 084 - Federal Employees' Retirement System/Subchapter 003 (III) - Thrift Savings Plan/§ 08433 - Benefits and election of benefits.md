@@ -16,7 +16,7 @@
 
 (2) An employee or Member may request that the amount withdrawn from the Thrift Savings Fund in accordance with subsection (b)(2) be transferred to an eligible retirement plan.
 
-(3) The Executive Director shall make each transfer elected under paragraph (2) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Codeof 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
+(3) The Executive Director shall make each transfer elected under paragraph (2) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
 
 (4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) the employee, Member, former employee, or former Member separates from Government employment.
 
-(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
+(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative toother sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
 
 (2) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
 
@@ -68,7 +68,7 @@
 
 (5) A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f)\[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, §3(1), Dec. 21, 2004, 118 Stat. 3893; Pub. L. 111–31, div. B, title I, §109, June 22, 2009, 123 Stat. 1856.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, §3(1), Dec. 21, 2004, 118 Stat. 3893; Pub. L. 111–31, div. B, title I, §109, June 22, 2009, 123 Stat. 1856.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Subsec. (d)(3). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(
 
 Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted "less than an amount that the Executive Director prescribes by regulation" for "$3,500 or less" and substituted a comma for "unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or".
 
-Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted "April 1" for "February 1", in subpar. (A) substituted "70½" for "65" and inserted "or" after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or".
+Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted "April 1" for "February 1", in subpar. (A) substituted "70½" for "65" and inserted "or" after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "occurs the tenth anniversary of the year in which the employee,Member, former employee, or former Member became subject to this subchapter; or".
 
 Subsec. (g)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(A)\]\], struck out "after December 31, 1987, and" after "At any time", and inserted at end "Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance."
 
@@ -176,7 +176,7 @@ Subsec. (h). Pub. L. 101–335, §6(a)(2), amended subsec. (h) generally. Prior 
 
 &emsp;"(3) the employee, Member, former employee, or former Member separates from Government employment."
 
-<b>1988</b>—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director."
+<b>1988</b>—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows:"Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director."
 
 #### Effective Date of 1999 Amendment
 

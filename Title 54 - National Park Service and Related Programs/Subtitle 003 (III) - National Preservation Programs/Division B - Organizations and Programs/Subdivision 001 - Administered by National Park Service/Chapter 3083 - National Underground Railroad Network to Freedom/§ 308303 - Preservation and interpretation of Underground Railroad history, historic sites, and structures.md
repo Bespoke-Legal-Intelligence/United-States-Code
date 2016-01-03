@@ -16,7 +16,7 @@ Grant Conditions.—Any grant made under this section shall provide that—
 
 (c)
 
-Matching Requirement.—The Secretary may obligate funds made available for a grant under this section only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal to or greater than the grant. The Secretary may waive the requirement if the Secretary determines that an extreme emergency exists or that a waiver is in the public interest to ensure the preservation of historically significant resources.
+Matching Requirement.—The Secretary may obligate funds made available for a grant under this section only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal to or greater than thegrant. The Secretary may waive the requirement if the Secretary determines that an extreme emergency exists or that a waiver is in the public interest to ensure the preservation of historically significant resources.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3235.)
 

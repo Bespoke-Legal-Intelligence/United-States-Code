@@ -20,7 +20,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 &emsp;(4) the default aversion fee paid in accordance with section 1078(l) of this title;
 
-&emsp;(5) amounts remaining pursuant to section 1078(c)(6)(B) <sup>1</sup> of this title from collection ondefaulted loans held by the agency, after payment of the Secretary's equitable share, excluding amounts deposited in the Federal Fund pursuant to section 1072a(c)(2) of this title; and
+&emsp;(5) amounts remaining pursuant to section 1078(c)(6)(B) <sup>1</sup> of this title from collection on defaulted loans held by the agency, after payment of the Secretary's equitable share, excluding amounts deposited in the Federal Fund pursuant to section 1072a(c)(2) of this title; and
 
 &emsp;(6) other receipts as specified in regulations of the Secretary.
 
@@ -62,7 +62,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (3) Exception
 
-&emsp;Notwithstanding paragraphs (1) and (2), during any period in which funds are owed to the Federal Fund as a result of transfer under section 1072a(f) of this title—
+&emsp;Notwithstanding paragraphs (1) and (2), during any period in which funds are owed to theFederal Fund as a result of transfer under section 1072a(f) of this title—
 
 &emsp;&emsp;(A) moneys in the Operating Fund may only be used for expenses related to the student loan programs authorized under this part; and
 

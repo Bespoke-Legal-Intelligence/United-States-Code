@@ -94,7 +94,7 @@ Vessel propellers.—Subsection (a)(3)(A)(iii) and this paragraph shall cease to
 
 (d)
 
-Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (a)with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
+Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
 
 &emsp;(1) Application of the limitation would cause unreasonable costs or delays to be incurred.
 
@@ -264,7 +264,7 @@ Subsec. (f). Pub. L. 102–484, §833(a), added subsec. (f). Former subsec. (f) 
 
 <b>1991</b>—Subsec. (d)(1). Pub. L. 102–190, §834(a), substituted "Effective through fiscal year 1996" for "During fiscal years 1989, 1990, and 1991".
 
-Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: "Theprovisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest."
+Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: "The provisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest."
 
 Subsec. (e)(1). Pub. L. 102–190, §835(1), substituted "Until January 1, 1993, the Secretary" for "The Secretary".
 
@@ -328,7 +328,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered contract.—The term 'covered contract' means a contract awarded by the Department of Defense that provides for a photovoltaic device to be—
+Covered contract.—The term 'covered contract' means a contract awarded by the Departmentof Defense that provides for a photovoltaic device to be—
 
 &emsp;&emsp;"(A) installed inside the United States on Department of Defense property or in a facility owned by the Department of Defense; or
 
@@ -362,7 +362,7 @@ Pub. L. 108–136, div. A, title VIII, §821, Nov. 24, 2003, 117 Stat. 1546, pro
 
 "(a)
 
-Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of theenactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
+Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of the enactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
 
 "(b)
 

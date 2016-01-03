@@ -90,7 +90,7 @@ Subject to subsections (d) and (e), the amounts collected on behalf of a family 
 
 #### (A) In general
 
-&emsp;&emsp;Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of this section may remain assigned after such date.
+&emsp;&emsp;Any rights to support obligations accruing before the date on which a family first receives assistance under part A that are assigned to a State under that part and in effect before the implementation date of thissection may remain assigned after such date.
 
 #### (B) Distribution of amounts after assignment discontinuation
 
@@ -104,7 +104,7 @@ As used in subsection (a) of this section:
 
 &emsp;The term "assistance from the State" means—
 
-&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part Aof this subchapter (as in effect on the day before August 22, 1996); and
+&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
 
 &emsp;&emsp;(B) foster care maintenance payments under the State plan approved under part E of this subchapter.
 
@@ -148,7 +148,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars. (1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
+<b>2006</b>—Subsec. (a). Pub. L. 109–171, §7301(b)(1)(A), which directed general amendment of subsec. (a), was executed by adding pars. (1) to (5) and striking out former pars. (1) to (6), to reflect the probable intent of Congress and the amendment by Pub. L. 109–171, §7301(b)(1)(B)(iii). See below. Prior to amendment, pars.\(1) to (6) related to families receiving assistance, families that formerly received assistance, families that never received assistance, families under certain agreements, the Secretary's report to Congress, and a State option for applicability, respectively.
 
 Subsec. (a)(3). Pub. L. 109–171, §7310(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In the case of any other family, the State shall distribute the amount so collected to the family."
 
@@ -158,7 +158,7 @@ Subsec. (a)(7). Pub. L. 109–171, §7301(b)(1)(B)(iii), redesignated par. (7) a
 
 Pub. L. 109–171, §7301(b)(1)(B)(i), added par. (7).
 
-Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date,on or after August 22, 1996, as the State may choose), shall remain assigned after such date."
+Subsec. (b). Pub. L. 109–171, §7301(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any rights to support obligations, assigned to a State as a condition of receiving assistance from the State under part A of this subchapter and in effect on September 30, 1997 (or such earlier date, on or after August 22, 1996, as the State may choose), shall remain assigned after such date."
 
 Subsec. (c)(5). Pub. L. 109–171, §7301(b)(2), added par. (5).
 
@@ -236,7 +236,7 @@ Subsec. (b)(4). Pub. L. 98–369, §2640(b)(1), (2)(C), redesignated former par.
 
 Subsec. (c). Pub. L. 98–378, §7(a)(1), substituted "shall" for "may" in provisions preceding par. (1).
 
-Subsec. (c)(2). Pub. L. 98–378, §7(a)(2), substituted "any amount so collected, which represents monthly support payments, to the family (without requiring any formal reapplication and without the imposition of any application fee) on the same basis as in the case ofother individuals who are not receiving assistance under part A of this subchapter," for "the net amount of any amount so collected, which represents monthly support payments, to the family after deducting any costs incurred in making the collection from the amount of any recovery made,".
+Subsec. (c)(2). Pub. L. 98–378, §7(a)(2), substituted "any amount so collected, which represents monthly support payments, to the family (without requiring any formal reapplication and without the imposition of any application fee) on the same basis as in the case of other individuals who are not receiving assistance under part A of this subchapter," for "the net amount of any amount so collected, which represents monthly support payments, to the family after deducting any costs incurred in making the collection from the amount of any recovery made,".
 
 Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 

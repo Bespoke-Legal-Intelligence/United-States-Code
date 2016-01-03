@@ -44,7 +44,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A bond shall be taken into account under subparagraph (B) only to the extent thatthe proceeds of the issue of which such bond is a part are not used with respect to a hospital.
+&emsp;&emsp;&emsp;A bond shall be taken into account under subparagraph (B) only to the extent that the proceeds of the issue of which such bond is a part are not used with respect to a hospital.
 
 #### (ii) Special rule
 
@@ -142,7 +142,7 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(5), is t
 
 #### Prior Provisions
 
-A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross reference to section 36 of this title,prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross reference to section 36 of this title, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 

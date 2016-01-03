@@ -4,7 +4,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.
 
 #### (2) Period of coverage
 
@@ -38,7 +38,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (vii) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title thatoccurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 #### (viii) Special rule for disability
 
@@ -90,7 +90,7 @@ The Social Security Act, referred to in par. (2)(A)(vii), (viii), (D)(ii), (E), 
 
 Section 1166(3) of this title, referred to in par. (2)(A)(viii), was redesignated as section 1166(a)(3) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
-The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapterXXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in par. (2)(D)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an
 
 Par. (2)(E). Pub. L. 104–191, §421(b)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this part" for "at the time of a qualifying event described in section 1163(2) of this title".
 
-<b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
+<b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6703(a)(1), inserted after and below cl. (iv) "In the case of an individualwho is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 1163(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 1166(3) of this title before the end of such 18 months."
 
 Par. (2)(A)(iii). Pub. L. 101–239, §7871(c), substituted "described in section 1163(6)" for "described in 1163(6)".
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 111–344 applicable to periods of coverage which would (wi
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 Amendment by Pub. L. 111–5 applicable to periods of coverage which would (without regard to amendment by Pub. L. 111–5) end on or after Feb. 17, 2009, see section 1899F(d) of Pub. L. 111–5, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 

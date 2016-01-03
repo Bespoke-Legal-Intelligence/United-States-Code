@@ -2,7 +2,7 @@
 
 (a)
 
-Evidence of Local Commitment to Ongoing Programs.—As a requirement for project approval, local governments applying for assistance under this chapter shall submit to the Secretary evidence of their commitments to ongoing planning, rehabilitation, service, operation, and maintenance programs for their park and recreation systems. These commitments will be expressed in local park and recreation recovery action programs that maximize coordination of all community resources, including other federally supported urban development and recreation programs. During an initial interim period to be established by regulations under this chapter, this requirement may be satisfied by local government submissions of preliminary action programs that briefly define objectives, priorities, and implementation strategies for overall system recovery and maintenance and commit the applicant to a scheduled program development process. Following this interim period, all local applicants shall submit to the Secretary, as a condition of eligibility, a 5-year action program for park and recreation recovery that satisfactorily demonstrates—
+Evidence of Local Commitment to Ongoing Programs.—As a requirement for project approval, local governments applying for assistance under this chapter shall submit to the Secretary evidence of their commitments to ongoing planning, rehabilitation, service, operation, and maintenance programs for their park and recreation systems. These commitments will be expressed in local park and recreation recovery action programs that maximize coordination of all community resources, including other federally supported urban development and recreation programs. During an initial interim period to be established by regulations under this chapter, this requirement may be satisfiedby local government submissions of preliminary action programs that briefly define objectives, priorities, and implementation strategies for overall system recovery and maintenance and commit the applicant to a scheduled program development process. Following this interim period, all local applicants shall submit to the Secretary, as a condition of eligibility, a 5-year action program for park and recreation recovery that satisfactorily demonstrates—
 
 &emsp;(1) systematic identification of recovery objectives, priorities, and implementation strategies;
 
@@ -28,7 +28,7 @@ Special Considerations.—Action programs shall address, but are not limited to�
 
 &emsp;&emsp;(B) special rehabilitation requirements for recreational areas and facilities in areas of high population concentration and economic distress; and
 
-&emsp;&emsp;(C) restoration of outstanding or unique structures, landscaping, or similar featuresin parks of historical or architectural significance; and
+&emsp;&emsp;(C) restoration of outstanding or unique structures, landscaping, or similar features in parks of historical or architectural significance; and
 
 &emsp;(2) local commitments to innovative and cost-effective programs and projects at the neighborhood level to augment recovery of park and recreation systems, including—
 

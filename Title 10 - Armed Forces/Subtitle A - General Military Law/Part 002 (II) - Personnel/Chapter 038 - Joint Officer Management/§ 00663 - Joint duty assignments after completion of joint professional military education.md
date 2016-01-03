@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 109–364, §518(b), added subsec. (c).
 
 Subsec. (a). Pub. L. 108–375, §532(c)(1)(A), (B), redesignated subsec. (d)(1) as (a), inserted heading, and struck out heading and text of former subsec. (a) which related to capstone course for new general and flag officers. See section 2153 of this title.
 
-Subsec. (b). Pub. L. 108–375, §532(c)(1)(C)–(F), redesignated subsec. (d)(2)(A) as (b)(1) and substituted "in paragraph (2)" for "in subparagraph (B)", redesignated subsec. (d)(2)(B) as (b)(2) and substituted "in paragraph (1)" for "in subparagraph (A)", and inserted subsec. heading.
+Subsec. (b). Pub. L. 108–375, §532(c)(1)(C)–(F), redesignated subsec. (d)(2)(A) as (b)(1) and substituted "in paragraph (2)" for "in subparagraph (B)", redesignatedsubsec. (d)(2)(B) as (b)(2) and substituted "in paragraph (1)" for "in subparagraph (A)", and inserted subsec. heading.
 
 Pub. L. 108–375, §532(b), transferred subsec. (b), relating to joint military education schools, to section 2152(b) of this title.
 

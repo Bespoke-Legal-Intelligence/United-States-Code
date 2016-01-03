@@ -48,7 +48,7 @@ Section 13(a) of act June 25, 1938, amended former section 1107 of Title 42, The
 
 <b>1940</b>—Subsec. (d). Act July 2, 1940, affected provisos in third par.
 
-<b>1939</b>—Subsec. (e). Act June 20, 1939, substituted references to unemployment insurance account for references to unemployment compensation account wherever appearing.
+<b>1939</b>—Subsec. (d). Act June 20, 1939, substituted references to unemployment insurance account for references to unemployment compensation account wherever appearing.
 
 #### Effective Date of 1968 Amendment
 

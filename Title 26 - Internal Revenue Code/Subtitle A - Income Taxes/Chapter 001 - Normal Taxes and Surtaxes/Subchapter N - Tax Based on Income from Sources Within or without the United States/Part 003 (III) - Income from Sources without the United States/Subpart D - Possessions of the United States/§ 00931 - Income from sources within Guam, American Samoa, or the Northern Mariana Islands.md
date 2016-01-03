@@ -68,7 +68,7 @@ In General.—Except as otherwise provided in this section, the amendments made 
 
 "(b)
 
-Special Rule for Guam, American Samoa, and the Northern Mariana Islands.—The amendmentsmade by this subtitle shall apply with respect to Guam, American Samoa, or the Northern Mariana Islands (and to residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement under section 1271 \[set out below\] is in effect between the United States and such possession.
+Special Rule for Guam, American Samoa, and the Northern Mariana Islands.—The amendments made by this subtitle shall apply with respect to Guam, American Samoa, or the Northern Mariana Islands (and to residents thereof and corporations created or organized therein) only if (and so long as) an implementing agreement under section 1271 \[set out below\] is in effect between the United States and such possession.
 
 "(c)
 
@@ -170,7 +170,7 @@ Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shallapply with respect to taxable years beginning after December 31, 1972."
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972."
 
 #### Effective Date of 1971 Amendment
 

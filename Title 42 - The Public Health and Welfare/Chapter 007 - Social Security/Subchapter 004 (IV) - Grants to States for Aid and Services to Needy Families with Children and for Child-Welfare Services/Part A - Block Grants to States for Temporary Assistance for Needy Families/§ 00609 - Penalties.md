@@ -24,7 +24,7 @@ Subject to this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report required by section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
+&emsp;&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of afiscal quarter, submitted the report required by section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
 
 #### (ii) Rescission of penalty
 
@@ -38,7 +38,7 @@ Subject to this section:
 
 #### (ii) Rescission of penalty
 
-&emsp;&emsp;&emsp;The Secretary shall rescind a penalty imposed on a State under clause (i) withrespect to a report required by section 611(c)(1)(A) of this title if the State submits the report not later than—
+&emsp;&emsp;&emsp;The Secretary shall rescind a penalty imposed on a State under clause (i) with respect to a report required by section 611(c)(1)(A) of this title if the State submits the report not later than—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the report required under section 611(c)(1)(A)(i) of this title, June 15, 2011; and
 
@@ -80,7 +80,7 @@ Subject to this section:
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
-&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
+&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on theloan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
 
 #### (7) Failure of any State to maintain certain level of historic effort
 
@@ -144,7 +144,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994.
 
-&emsp;&emsp;&nbsp;Such term does not include any expenditures under the State plan approved under part A of this subchapter (as so in effect) on behalf of individuals covered by a tribal family assistance plan approved under section 612 of this title, as determined by the Secretary.
+&emsp;&emsp;&nbsp;Such term does not include any expenditures under the State plan approved under part A of this subchapter (as so in effect)on behalf of individuals covered by a tribal family assistance plan approved under section 612 of this title, as determined by the Secretary.
 
 #### (iv) Expenditures by the State
 
@@ -162,7 +162,7 @@ Subject to this section:
 
 #### (v) Source of data
 
-&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretaryshall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (8) Noncompliance of State child support enforcement program with requirements of part D
 
@@ -204,7 +204,7 @@ Subject to this section:
 
 #### (9) Failure to comply with 5-year limit on assistance
 
-&emsp;If the Secretary determines that a State has not complied with section 608(a)(7) of this title during a fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 5 percent of the State family assistance grant.
+&emsp;If the Secretary determines that a State has not complied with section 608(a)(7) of this titleduring a fiscal year, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 5 percent of the State family assistance grant.
 
 #### (10) Failure of State receiving amounts from Contingency Fund to maintain 100 percent of historic effort
 
@@ -256,7 +256,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If, within 2 years after February 22, 2012, any State has not reported to the Secretary on such State's implementation of the policies and practices required by section 608(a)(12) of this title, or the Secretary determines, based on the information provided in State reports, that any State has not implemented and maintained such policies and practices, the Secretary shall reduce, by an amount equal to 5 percent of the State family assistance grant, the grant payable to such State under section 603(a)(1) of this title for—
+&emsp;&emsp;If, within 2 years after February 22, 2012, any State has not reported to the Secretary on such State's implementation of the policies and practices required by section 608(a)(12) of this title, or the Secretary determines, based on the information provided in State reports, that any State has not implemented and maintained such policies and practices, the Secretary shall reduce, by an amount equal to 5 percent of the State family assistance grant, the grant payable tosuch State under section 603(a)(1) of this title for—
 
 &emsp;&emsp;&emsp;(i) the fiscal year immediately succeeding the year in which such 2-year period ends; and
 
@@ -322,7 +322,7 @@ Subject to this section:
 
 &emsp;To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–308, §2(b)(3), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–68, §2(b)(2)(C), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–171, title VII, §§7101(b)(3), 7102(c)(2), 7103(b), Feb. 8, 2006, 120 Stat. 135, 137, 140; Pub. L. 111–242, §131(b)(3), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §812(b), Dec. 8, 2010, 124 Stat. 3162; Pub. L. 112–35, §2(b), Sept. 30, 2011, 125 Stat. 384; Pub. L. 112–96, title IV, §§4002(c), 4004(b), (d), 4005(b)–(d), Feb. 22, 2012, 126 Stat. 195, 197, 198.)
+(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–308, §2(b)(3), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–68, §2(b)(2)(C), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–171, title VII, §§7101(b)(3), 7102(c)(2), 7103(b), Feb. 8, 2006, 120 Stat. 135, 137, 140; Pub. L. 111–242, §131(b)(3),Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §812(b), Dec. 8, 2010, 124 Stat. 3162; Pub. L. 112–35, §2(b), Sept. 30, 2011, 125 Stat. 384; Pub. L. 112–96, title IV, §§4002(c), 4004(b), (d), 4005(b)–(d), Feb. 22, 2012, 126 Stat. 195, 197, 198.)
 
 #### References in Text
 
@@ -434,7 +434,7 @@ Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text 
 
 Subsec. (a)(7)(B)(v). Pub. L. 105–33, §5506(f), added cl. (v).
 
-Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantiallywith such requirements at the time of the finding, the Secretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
+Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantially with such requirements at the time of the finding, the Secretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
 
 Subsec. (a)(9). Pub. L. 105–33, §5506(h), substituted "608(a)(7)" for "608(a)(1)(B)".
 

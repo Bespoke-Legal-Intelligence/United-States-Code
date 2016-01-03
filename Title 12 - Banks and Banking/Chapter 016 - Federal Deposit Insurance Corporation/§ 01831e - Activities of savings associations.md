@@ -68,7 +68,7 @@ Notwithstanding subsection (a)(1), if an activity (other than an activity descri
 
 #### (B) Certain securities not included
 
-&emsp;&emsp;The term "corporate debt security that does not meet standards of credit-worthiness as established by the Corporation" does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitationas to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
+&emsp;&emsp;The term "corporate debt security that does not meet standards of credit-worthiness as established by the Corporation" does not include any obligation issued or guaranteed by a corporation that may be held by a Federal savings association without limitation as to percentage of assets under subparagraph (D), (E), or (F) of section 1464(c)(1) of this title.
 
 #### (e) Transfer of corporate debt security in exchange for a qualified note
 

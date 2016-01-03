@@ -20,7 +20,7 @@
 
 > the Attorney General shall make an allowance to the claimant not exceeding the value of the property destroyed.
 
-(d) Whoever transports or receives, or attempts to transport or receive, in interstate or foreign commerce any explosive with the knowledge or intent that it will be used to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection,shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
+(d) Whoever transports or receives, or attempts to transport or receive, in interstate or foreign commerce any explosive with the knowledge or intent that it will be used to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
 (e) Whoever, through the use of the mail, telephone, telegraph, or other instrument of interstate or foreign commerce, or in or affecting interstate or foreign commerce, willfully makes any threat, or maliciously conveys false information knowing the same to be false, concerning an attempt or alleged attempt being made, or to be made, to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property by means of fire or an explosive shall be imprisoned for not more than 10 years or fined under this title, or both.
 
@@ -36,7 +36,7 @@
 
 &emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuant to this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
 
-&emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of the Pipeline and Hazardous Materials Safety Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
+&emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of thePipeline and Hazardous Materials Safety Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
 
 (h) Whoever—
 
@@ -52,7 +52,7 @@
 
 (k) A person who steals any explosives materials which are moving as, or are a part of, or which have moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
-(l) A person who steals any explosive material from a licensed importer, licensed manufacturer, or licensed dealer, or from any permitteeshall be fined under this title, imprisoned not more than 10 years, or both.
+(l) A person who steals any explosive material from a licensed importer, licensed manufacturer, or licensed dealer, or from any permittee shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (m) A person who conspires to commit an offense under subsection (h) shall be imprisoned for any term of years not exceeding 20, fined under this title, or both.
 
@@ -152,7 +152,7 @@ Subsec. (m). Pub. L. 103–322, §110518(b), added subsec. (m).
 
 <b>1988</b>—Subsec. (g). Pub. L. 100–690, §6474(a), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), whoever" for "Whoever", inserted "in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or" after "possess an explosive", inserted "or airport" after "such building", substituted "not more than five years, or fined under this title, or both" for "not more than one year, or fined not more than $1,000, or both", and added par. (2).
 
-Subsec. (h). Pub. L. 100–690, §6474(b)(2), which directed the amendment of subsec. (h) by striking "shall be sentenced" through the end and inserting new provisions was executed by striking "shall be sentenced" the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: "shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence."
+Subsec. (h). Pub. L. 100–690, §6474(b)(2), which directed the amendment of subsec. (h) by striking "shall be sentenced" through the end and inserting new provisions was executed by striking "shall be sentenced" the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: "shall be sentenced to a term of imprisonment for not less than one year nor more than tenyears. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence."
 
 Subsec. (h)(2). Pub. L. 100–690, §6474(b)(1), in par. (2), struck out "unlawfully" after "explosive".
 

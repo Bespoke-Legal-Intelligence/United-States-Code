@@ -20,7 +20,7 @@ Section 590x–2, act Aug. 28, 1937, ch. 870, §9, as added Aug. 17, 1954, ch. 7
 
 Section 590x–3, act Aug. 28, 1937, ch. 870, §10(a)–(e), as added Aug. 17, 1954, ch. 751, §1(4), 68 Stat. 735, provided for an insurance program for loans by other than United States, an insurance fund, contents of fund, selling and reinsuring of notes, disposition of insurance charges, insurance contract as United States obligation, incontestability, discharge of obligations, and limitation on aggregate amount of obligations.
 
-Section 590x–4, act Aug. 28, 1937, ch. 870, §11, as added Aug. 25, 1958, Pub. L. 85–748, §2, 72 Stat. 841, related to authorization of Secretary for execution, insurance and sale of loans, insurance, appraisal and delinquency charges, use of proceeds for expenses; computation of aggregate amount of principal obligations which may be insured, insurance of loans from funds advanced by lenders other than United States, provisions applicable to loans, conversion of loans to insured loans, expense funds, sale of loans on noninsured basis and assignment of loans.
+Section 590x–4, act Aug. 28, 1937, ch. 870, §11, as added Aug. 25, 1958, Pub. L. 85–748, §2, 72 Stat. 841, related to authorization of Secretary for execution, insurance andsale of loans, insurance, appraisal and delinquency charges, use of proceeds for expenses; computation of aggregate amount of principal obligations which may be insured, insurance of loans from funds advanced by lenders other than United States, provisions applicable to loans, conversion of loans to insured loans, expense funds, sale of loans on noninsured basis and assignment of loans.
 
 The subject matter of former sections 590r to 590x–4 of this title is covered by section 1921 et seq. of Title 7, Agriculture.
 

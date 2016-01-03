@@ -116,7 +116,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 4662(e) (other than section 4662(e)(2)(A)(ii)(II)) shall apply for purposes of this subchapter.
+&emsp;&emsp;Except as provided in subparagraph (B), rules similar to the rules of section 4662(e)\(other than section 4662(e)(2)(A)(ii)(II)) shall apply for purposes of this subchapter.
 
 #### (B) Limit on benefit
 
@@ -198,7 +198,7 @@ For purposes of this subchapter—
 
 #### (2) Overpayments
 
-&emsp;If any substance on which tax was paid under this subchapter is used by any person asa propellant in metered-dose inhalers, credit or refund without interest shall be allowed to such person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
+&emsp;If any substance on which tax was paid under this subchapter is used by any person as a propellant in metered-dose inhalers, credit or refund without interest shall be allowed tosuch person in an amount equal to the tax so paid. Amounts payable under the preceding sentence with respect to uses during the taxable year shall be treated as described in section 34(a) for such year unless claim thereof has been timely filed under this paragraph.
 
 #### (h) Imposition of floor stocks taxes
 
@@ -228,7 +228,7 @@ For purposes of this subchapter—
 
 &emsp;All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388-422, 1388-508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Prior Provisions
 

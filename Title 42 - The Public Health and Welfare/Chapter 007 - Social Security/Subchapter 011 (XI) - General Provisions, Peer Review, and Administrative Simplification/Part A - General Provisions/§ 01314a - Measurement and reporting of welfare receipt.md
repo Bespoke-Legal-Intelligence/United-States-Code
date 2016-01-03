@@ -126,7 +126,7 @@ This section may be cited as the "Welfare Indicators Act of 1994".
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
 

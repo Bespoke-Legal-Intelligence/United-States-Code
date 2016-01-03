@@ -30,7 +30,7 @@ The Commission shall consist of 17 members to be appointed no later than six mon
 
 &emsp;(11) One member representing the New Orleans Jazz Club from recommendations submitted by the club.
 
-&emsp;(12) One member who is a recognized local expert on the history, development and progression of jazz in New Orleans and is familiar with existing archival materials from recommendations submitted by the Librarian of Congress.
+&emsp;(12) One member who is a recognized local expert on the history, development and progression of jazz in New Orleans and is familiarwith existing archival materials from recommendations submitted by the Librarian of Congress.
 
 &emsp;(13) The Director of the National Park Service, or the Director's designee, ex officio.
 

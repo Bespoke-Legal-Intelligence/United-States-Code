@@ -58,7 +58,7 @@
 
 #### (B) Determination
 
-&emsp;&emsp;The Secretary shall determine, for each State allotment described in subparagraph (A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
+&emsp;&emsp;The Secretary shall determine, for each State allotment described in subparagraph\(A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
 
 #### (3) Establishment of proportionate shares
 
@@ -68,7 +68,7 @@
 
 &emsp;For purposes of determining proportionate shares for any crop of sugarcane:
 
-&emsp;&emsp;(A) The Secretary shall establish the State's per-acre yield goal for a crop ofsugarcane at a level (not less than the average per-acre yield in the State for the 2 highest years from among the 1999, 2000, and 2001 crop years, as determined by the Secretary) that will ensure an adequate net return per pound to producers in the State, taking into consideration any available production research data that the Secretary considers relevant.
+&emsp;&emsp;(A) The Secretary shall establish the State's per-acre yield goal for a crop of sugarcane at a level (not less than the average per-acre yield in the State for the 2 highest years from among the 1999, 2000, and 2001 crop years, as determined by the Secretary) that will ensure an adequate net return per pound to producers in the State, taking into consideration any available production research data that the Secretary considers relevant.
 
 &emsp;&emsp;(B) The Secretary shall adjust the per-acre yield goal by the average recovery rate of sugar produced from sugarcane by processors in the State.
 

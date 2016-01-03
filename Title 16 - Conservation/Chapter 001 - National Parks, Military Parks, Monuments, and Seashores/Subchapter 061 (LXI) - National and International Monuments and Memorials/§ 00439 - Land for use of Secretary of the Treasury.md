@@ -6,7 +6,7 @@ Permission is granted the Secretary of the Treasury to use permanently a strip o
 
 #### References in Text
 
-The Act approved March 4, 1913, chapter 147, Thirty-seventh Statutes 889, referred to in text, was a building authorization statute. The portion of the Act covering the Fort McHenry work was section 29, which section was not classified to the Code.
+The Act approved March 4, 1913, chapter 147, Thirty-seventh Statutes 889, referred to in text, was a buildingauthorization statute. The portion of the Act covering the Fort McHenry work was section 29, which section was not classified to the Code.
 
 #### Codification
 

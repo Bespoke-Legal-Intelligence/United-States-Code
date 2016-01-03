@@ -28,13 +28,13 @@
 
 #### (c) Access to records
 
-Notwithstanding any other provision of law, each patient shall have reasonable access to themedical or health records of such patient which are held by, or on behalf of, the Service.
+Notwithstanding any other provision of law, each patient shall have reasonable access to the medical or health records of such patient which are held by, or on behalf of, the Service.
 
 (Pub. L. 94–437, title VI, §602, as added Pub. L. 100–713, title VI, §601(a), Nov. 23, 1988, 102 Stat. 4825; amended Pub. L. 102–573, title IX, §901(3), Oct. 29, 1992, 106 Stat. 4591.)
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 

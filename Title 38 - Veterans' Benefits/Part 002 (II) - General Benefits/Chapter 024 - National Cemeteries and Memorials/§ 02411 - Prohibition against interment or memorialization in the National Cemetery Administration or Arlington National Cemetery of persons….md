@@ -6,7 +6,7 @@
 
 &emsp;(B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
 
-(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before the interment or memorialization of such person. Such written notice shall be furnished tosuch official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
+(2) In the case of a person described in subsection (b)(1), (b)(2), or (b)(4), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4), as the case may be, is received by the appropriate Federal official before the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime.
 
 (b) A person referred to in subsection (a) is any of the following:
 
@@ -52,13 +52,13 @@
 
 (ii) A notice of disagreement filed with the Secretary of Defense under subparagraph (A) shall be decided in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
 
-(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
+(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant toparagraph (3)(B), the appropriate Federal official may take any of the following actions:
 
 &emsp;(A) Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
 
 &emsp;(B) Remove from a memorial area in a cemetery in the National Cemetery Administration or in Arlington National Cemetery any memorial headstone or marker placed to honor the memory of the person.
 
-(e)(1) A case described in this subsection is a case in which the appropriate federal <sup>1</sup> official receives—
+(e)(1) A case described in this subsection is a case in which the appropriate Federal official receives—
 
 &emsp;(A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
 
@@ -82,13 +82,15 @@
 
 &emsp;&emsp;(B) the Secretary of the Army, in the case of Arlington National Cemetery.
 
-(Added Pub. L. 105–116, §1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, §202, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 109–163, div. A, title VI, §662(a), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 112–260, title I, §105(a), (b), Jan. 10, 2013, 126 Stat. 2421; Pub. L. 113–65, §2(a), (b), Dec. 20, 2013, 127 Stat. 669, 671.)
+(Added Pub. L. 105–116, §1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, §202, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 109–163, div. A, title VI, §662(a), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 112–260, title I, §105(a), (b), Jan. 10, 2013, 126 Stat. 2421; Pub. L. 113–65, §2(a), (b), Dec. 20, 2013, 127 Stat. 669, 671; Pub. L. 114–58, title VI, §601(14), Sept. 30, 2015, 129 Stat. 539.)
 
 #### References in Text
 
 The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(1). Pub. L. 114–58 substituted "Federal official" for "federal official" in introductory provisions.
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–65, §2(b), struck out "such official approves an application for" after "received by the appropriate Federal official before".
 
@@ -128,7 +130,5 @@ Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Sectio
 
 #### Regulations
 
-Pub. L. 109–163, div. A, title VI, §662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: "The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the National Cemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law."
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+Pub. L. 109–163, div. A, title VI, §662(d)(1), Jan. 6, 2006, 119 Stat. 3315, provided that: "The Secretary of Veterans Affairs shall prescribe regulations to ensure that a person is not interred in any cemetery in the NationalCemetery System unless a good faith effort has been made to determine whether such person is ineligible for such interment or honors by reason of being a person described in section 2411(b) of title 38, United States Code, or is otherwise ineligible for such interment under Federal law."
 

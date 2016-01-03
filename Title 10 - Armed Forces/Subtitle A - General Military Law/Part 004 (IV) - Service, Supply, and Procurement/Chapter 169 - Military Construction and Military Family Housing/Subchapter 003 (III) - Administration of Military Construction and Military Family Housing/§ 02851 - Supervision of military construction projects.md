@@ -68,5 +68,5 @@ Pub. L. 109–163, div. B, title XXVIII, §2803(b), Jan. 6, 2006, 119 Stat. 3506
 
 #### Identification of Requirements To Reduce Backlog in Maintenance and Repair of Defense Facilities
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repairneeds of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
+Pub. L. 106–398, §1 \[\[div. A\], title III, §374\], Oct. 30, 2000, 114 Stat. 1654, 1654A–81, which required the Secretary of Defense to submit to Congress, not later than March 15, 2001, a report identifying a list of requirements to reduce the backlog in maintenance and repair needs of facilities and infrastructure under the jurisdiction of the Department of Defense or a military department, which report was to be updated annually, was repealed by Pub. L. 112–81, div. A, title X, §1062(i)(1), Dec. 31, 2011, 125 Stat. 1585.
 

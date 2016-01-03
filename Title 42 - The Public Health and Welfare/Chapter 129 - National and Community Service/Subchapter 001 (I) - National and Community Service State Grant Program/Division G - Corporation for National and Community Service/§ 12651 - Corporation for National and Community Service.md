@@ -144,7 +144,7 @@ Nonabatement of actions.—No suit, action, or other proceeding commenced by or 
 
 &emsp;"(E)
 
-Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continued by the Corporation with the same effect as if this subsection had not been enacted.
+Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continuedby the Corporation with the same effect as if this subsection had not been enacted.
 
 "(9)
 
@@ -168,7 +168,7 @@ Planning Study.—The Corporation shall conduct a study to identify—
 
 &emsp;"(1) specific areas of need for displaced workers;
 
-&emsp;"(2) how existing programs and activities (as of the time of the study) carried out under the national service laws could better serve displaced workers andcommunities that have been adversely affected by plant closings and job losses;
+&emsp;"(2) how existing programs and activities (as of the time of the study) carried out under the national service laws could better serve displaced workers and communities that have been adversely affected by plant closings and job losses;
 
 &emsp;"(3) prospects for better utilization of displaced workers as resources and volunteers; and
 
@@ -332,7 +332,7 @@ Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, as amended by Ex. Ord. No. 1337
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the recognition of volunteer service and civic participation by all Americans, and especially America's youth, it is hereby ordered as follows:
 
-Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within the Corporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
+Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within theCorporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
 
 (b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subject to the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
 

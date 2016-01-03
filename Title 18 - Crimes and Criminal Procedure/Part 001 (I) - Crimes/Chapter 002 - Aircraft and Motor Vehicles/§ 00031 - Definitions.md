@@ -62,7 +62,7 @@ Terms Defined in Other Law.—In this chapter, the terms "aircraft engine", "air
 
 <b>2000</b>—Pub. L. 106–181 added subsecs. (a) and (b) and struck out former text which read as follows: "When used in this chapter the term—
 
-" 'Aircraft engine', 'air navigation facility', 'appliance', 'civil aircraft', 'foreign air commerce', 'interstate air commerce', 'landing area', 'overseas air commerce', 'propeller', 'spare part' and 'special aircraft jurisdiction of the United States' shall have the meaning ascribed to those terms in sections 40102(a) and 46501 of title 49.
+" 'Aircraft engine', 'air navigation facility', 'appliance', 'civil aircraft', 'foreign air commerce', 'interstate air commerce', 'landing area', 'overseas air commerce', 'propeller', 'spare part' and 'special aircraft jurisdiction of the United States' shall have the meaningascribed to those terms in sections 40102(a) and 46501 of title 49.
 
 " 'Motor vehicle' means every description of carriage or other contrivance propelled or drawn by mechanical power and used for commercial purposes on the highways in the transportation of passengers, passengers and property, or property or cargo;
 

@@ -6,7 +6,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 &emsp;(1) to each representative of the affected employees as of the time of the notice or, if there is no such representative at that time, to each affected employee; and
 
-&emsp;(2) to the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief elected official of the unit of local government within which such closing or layoff is to occur.
+&emsp;(2) to the State or entity designated by the State to carry out rapid response activities under section 3174(a)(2)(A) of this title, and the chief elected official of the unit of local government within which such closing or layoff is to occur.
 
 > If there is more than one such unit, the unit of local government which the employer shall notify is the unit of local government to which the employer pays the highest taxes for the year preceding the year for which the determination is made.
 
@@ -30,13 +30,9 @@ A layoff of more than 6 months which, at its outset, was announced to be a layof
 
 #### (d) Determinations with respect to employment loss
 
-For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses are the result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
+For purposes of this section, in determining whether a plant closing or mass layoff has occurred or will occur, employment losses for 2 or more groups at a single site of employment, each of which is less than the minimum number of employees specified in section 2101(a)(2) or (3) of this title but which in the aggregate exceed that minimum number, and which occur within any 90-day period shall be considered to be a plant closing or mass layoff unless the employer demonstrates that the employment losses arethe result of separate and distinct actions and causes and are not an attempt by the employer to evade the requirements of this chapter.
 
 (Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(26), (f)(18)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 113–128, title V, §512(kk), July 22, 2014, 128 Stat. 1722.)
-
-#### Amendment of Subsection (a)(2)
-
-<i>Pub. L. 113–128, title V, §§506, 512(kk), July 22, 2014, 128 Stat. 1703, 1722, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(2) of this section is amended by striking "the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title," and inserting "the State or entity designated by the State to carry out rapid response activities under section 3174(a)(2)(A) of this title,". See 2014 Amendment note below.</i>
 
 #### Amendments
 
@@ -48,7 +44,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted "to the St
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment
 

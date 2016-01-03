@@ -4,7 +4,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;(1)
 
-Department of the treasury law enforcement organizations.—The term "Department of the Treasury law enforcement organizations" has the meaning given to such term in section 9703(p)(1).
+Department of the treasury law enforcement organizations.—The term "Department of the Treasury law enforcement organizations" has the meaning given to such term in section 9705(o).
 
 &emsp;(2)
 
@@ -22,5 +22,9 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 Attorney general.—The term "Attorney General" means the Attorney General of the United States.
 
-(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2941.)
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2941; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(II), May 29, 2015, 129 Stat. 237.)
+
+#### Amendments
+
+<b>2015</b>—Par. (1). Pub. L. 114–22 substituted "section 9705(o)" for "section 9703(p)(1)".
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) such identification of, changes of, and additions to, distilling apparatus, connecting pipes, pumps, tanks, and any machinery connected with or used in or on the premises, and
 
-&emsp;&emsp;(ii) such fastenings, locks, and seals to be part of any of the stills, tubs, pipes, tanks, and other equipment, as he may deem necessary to facilitate inspection and afford adequate security to the revenue.
+&emsp;&emsp;(ii) such fastenings, locks, and seals to be part of any of the stills, tubs, pipes, tanks,and other equipment, as he may deem necessary to facilitate inspection and afford adequate security to the revenue.
 
 #### (3) Warehousing operations
 
@@ -46,7 +46,7 @@ The Secretary may authorize the carrying on of such other businesses (not specif
 
 &emsp;&emsp;<b>(4) For provisions relating to the unauthorized use of distilled spirits in any manufacturing process, see section 5601(a)(9).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, §5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, §5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
 
 #### Prior Provisions
 

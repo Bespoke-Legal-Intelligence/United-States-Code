@@ -8,21 +8,21 @@
 
 &emsp;&emsp;(A) on April 28, 1988, was a contract school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] and the tribe or tribal organization operating the school submits to the Secretary a written notice of election to receive a grant under this chapter;
 
-&emsp;&emsp;(B) was a Bureau-operated school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] and has met the requirements of subsection (b) of this section;
+&emsp;&emsp;(B) was a Bureau-operated school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] and has met the requirements of subsection (b);
 
-&emsp;&emsp;(C) is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c) of this section; or
+&emsp;&emsp;(C) is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c); or
 
-&emsp;&emsp;(D) is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b) of this section.
+&emsp;&emsp;(D) is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b).
 
 #### (2) New schools
 
-&emsp;Any application which has been submitted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] by an Indian tribe for a school which is not in operation on January 8, 2002, shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b) of this section.
+&emsp;Any application which has been submitted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] by an Indian tribe for a school which is not in operation on January 8, 2002, shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b).
 
 #### (b) Additional requirements for Bureau-funded schools and certain electing schools
 
 #### (1) Bureau-funded schools
 
-&emsp;A school that was a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] on January 8, 2002, and any school with respect to which an election is made under subsection (a)(2) of this section, meets the requirements of this subsection if—
+&emsp;A school that was a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] on January 8, 2002, and any school with respect to which an election is made under subsection (a)(2), meets the requirements of this subsection if—
 
 &emsp;&emsp;(A) the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting that the Secretary—
 
@@ -80,7 +80,7 @@
 
 #### (B) Considerations
 
-&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equal consideration to each of the following factors:
+&emsp;&emsp;In making the determination under subparagraph (A), the Secretary shall give equalconsideration to each of the following factors:
 
 &emsp;&emsp;&emsp;(i) With respect to the applicant's proposal—
 
@@ -128,13 +128,13 @@
 
 #### (e) Effective date for approved applications
 
-Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
+Except as provided by subsection (c)(2)(E), a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b), shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
 
 #### (f) Denial of applications
 
 #### (1) In general
 
-&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
+&emsp;Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b), or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
 
 &emsp;&emsp;(A) state the objections in writing to the tribe or tribal organization within the allotted time;
 

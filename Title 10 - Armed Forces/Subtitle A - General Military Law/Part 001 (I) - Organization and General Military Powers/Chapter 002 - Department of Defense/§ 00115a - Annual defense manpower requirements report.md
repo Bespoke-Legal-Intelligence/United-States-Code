@@ -8,7 +8,7 @@
 
 &emsp;(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title.
 
-(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnelstrength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
 (2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
 
@@ -32,7 +32,7 @@
 
 &emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
-&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscalyears of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
+&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
 &emsp;&emsp;(A) retirements displayed by year of active commissioned service;
 
@@ -176,7 +176,7 @@ Elements.—
 
 &emsp;"(1)
 
-Identification of positions.—The database required by subsection (a) shall identify each military technician position, whether dual-status or non-dual status.
+Identification of positions.—The database required by subsection (a) shall identify each militarytechnician position, whether dual-status or non-dual status.
 
 &emsp;"(2)
 

@@ -6,7 +6,7 @@ In this section, the terms "Indian tribe" and "tribal organization" have the mea
 
 #### (b) Authority
 
-Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has a plan approved by the Secretary under section 671 of this title in accordance with this section.
+Except as otherwise provided in this section, this part shall apply in the same manner as this part applies to a State to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part and has aplan approved by the Secretary under section 671 of this title in accordance with this section.
 
 #### (c) Plan requirements
 
@@ -48,7 +48,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (D) Option to claim in-kind expenditures from third-party sources for non-Federal share of administrative and training costs during initial implementation period
 
-&emsp;&emsp;Only for fiscal year quarters beginning after September 30, 2009, and before October1, 2014, a list of the in-kind expenditures (which shall be fairly evaluated, and may include plants, equipment, administration, or services) and the third-party sources of such expenditures that the tribe, organization, or consortium may claim as part of the non-Federal share of administrative or training expenditures attributable to such quarters for purposes of receiving payments under section 674(a)(3) of this title. The Secretary shall permit a tribe, organization, or consortium to claim in-kind expenditures from third party sources for such purposes during such quarters subject to the following:
+&emsp;&emsp;Only for fiscal year quarters beginning after September 30, 2009, and before October 1, 2014, a list of the in-kind expenditures (which shall be fairly evaluated, and may include plants, equipment, administration, or services) and the third-party sources of such expenditures that the tribe, organization, or consortium may claim as part of the non-Federal share of administrative or training expenditures attributable to such quarters for purposes of receiving payments under section 674(a)(3) of this title. The Secretary shall permit a tribe, organization, or consortium to claim in-kind expenditures from third party sources for such purposes during such quarters subject to the following:
 
 #### (i) No effect on authority for tribes, organizations, or consortia to claim expenditures or indirect costs to the same extent as States
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (II) Training expenditures
 
-&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12 percent of such amounts may consist of in-kind expenditures from third-party sources that are specified in such list and described in subclause (III).
+&emsp;&emsp;&emsp;&emsp;With respect to amounts expended during a fiscal year quarter beginning after September 30, 2009, and before October 1, 2011, for which the tribe, organization, or consortium is eligible for payments under subparagraph (A) or (B) of section 674(a)(3) of this title, not more than 12 percent of such amounts may consist of in-kind expenditures from third-partysources that are specified in such list and described in subclause (III).
 
 #### (III) Sources described
 
@@ -94,7 +94,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (iv) Fiscal year 2015 and thereafter
 
-&emsp;&emsp;&emsp;Subject to clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginningafter September 30, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, in-kind expenditures from third-party sources may be claimed for purposes of determining the non-Federal share of expenditures under any subparagraph of such section 674(a)(3) only in accordance with the regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008.
+&emsp;&emsp;&emsp;Subject to clause (v) of this subparagraph, with respect to amounts expended during any fiscal year quarter beginning after September 30, 2014, for which the tribe, organization, or consortium is eligible for payments under any subparagraph of section 674(a)(3) of this title, in-kind expenditures from third-party sources may be claimed for purposes of determining the non-Federal share of expenditures under any subparagraph of such section 674(a)(3) only in accordance with the regulations promulgated by the Secretary under section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008.
 
 #### (v) Contingency rule
 
@@ -138,7 +138,7 @@ Nothing in this section shall be construed as affecting the application of secti
 
 #### References in Text
 
-Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to insubsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
+Section 301(e)(2) of the Fostering Connections to Success and Increasing Adoptions Act of 2008, referred to in subsec. (c)(1)(D)(iii)(I), (iv), (v), is section 301(e)(2) of Pub. L. 110–351, which is set out as a note under section 671 of this title.
 
 #### Effective Date
 

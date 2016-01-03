@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;(4) "commercial motor vehicle" means a motor vehicle used in commerce to transport passengers or property that—
 
-&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001 pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
+&emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 26,001pounds, whichever is greater, or a lesser gross vehicle weight rating or gross vehicle weight the Secretary of Transportation prescribes by regulation, but not less than a gross vehicle weight rating of 10,001 pounds;
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
@@ -168,6 +168,8 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Program To Assist Veterans To Acquire Commercial Driver's Licenses
 
+Pub. L. 114–94, div. A, title V, §5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 \[Pub. L. 112–141\] (49 U.S.C. 31301 note) that are not implemented as a result of the amendment in subsection (a) \[amending section 31305 of this title\]."
+
 Pub. L. 112–141, div. C, title II, §32308, July 6, 2012, 126 Stat. 794, provided that:
 
 "(a)
@@ -242,11 +244,11 @@ Veteran.—The term 'veteran' has the meaning given that term in section 101 of 
 
 #### Exemptions From Requirements of This Chapter for Certain Farm Vehicles
 
-For provisions relating to exemptions from certain requirements of this chapter with respect to certainfarm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
+For provisions relating to exemptions from certain requirements of this chapter with respect to certain farm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844, provided that:
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102,title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, provided that:
 
 "(a)
 
@@ -258,7 +260,9 @@ Federal Share.—The Federal share of the cost for which a grant is made under t
 
 "(c)
 
-Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2014 and $665,753 for the period beginning on October 1, 2014, and ending on May 31, 2015, to carry out this section."
+Funding.—From amounts made available under section 31110 of title 49, United States Code, the Secretary shall make available, $1,000,000 for fiscal year 2016 to carry out this section."
+
+<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(7), (f), (g), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 4134 of Pub. L. 109–59, set out above, is repealed, subject to a transition provision.\]</i>
 
 #### CDL Task Force
 

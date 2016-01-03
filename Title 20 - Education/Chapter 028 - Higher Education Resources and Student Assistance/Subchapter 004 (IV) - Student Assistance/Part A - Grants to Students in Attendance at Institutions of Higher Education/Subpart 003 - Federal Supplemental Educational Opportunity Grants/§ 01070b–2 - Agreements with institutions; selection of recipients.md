@@ -30,7 +30,7 @@ Awards may be made under this subpart only to a student who—
 
 (1) From among individuals who are eligible for supplemental grants for each fiscal year, the institution shall, in accordance with the agreement under section 1094 of this title, and within the amount allocated to the institution for that purpose for that year under section 1070b–3 of this title, select individuals who are to be awarded such grants and determine, in accordance with section 1070b–1 of this title, the amounts to be paid to them.
 
-(2)(A) In carrying out paragraph (1) of this subsection, each institution of higher education shall, in the agreement made under section 1094 of this title, assure that the selection procedures—
+(2)(A) In carrying out paragraph (1) of this subsection, each institution of higher education shall, in the agreement made under section 1094of this title, assure that the selection procedures—
 
 &emsp;(i) will be designed to award supplemental grants under this subpart, first, to students with exceptional need, and
 
@@ -44,7 +44,7 @@ If the institution's allocation under this subpart is directly or indirectly bas
 
 #### (e) Use and transfer of funds for administrative expenses
 
-An agreement entered into pursuant to this section shall provide that funds granted to aninstitution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
+An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
 
 (Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665.)
 

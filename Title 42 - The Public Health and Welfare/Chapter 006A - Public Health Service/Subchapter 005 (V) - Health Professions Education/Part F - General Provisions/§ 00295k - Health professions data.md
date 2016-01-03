@@ -48,11 +48,11 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (2) Consent as precondition to disclosure
 
-&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for suchdata for purposes of this section shall not transfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
+&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for such data for purposes of this section shall not transfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
 
 #### (3) Disclosure by Secretary
 
-&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject of such data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
+&emsp;(A) Notwithstanding any other provision of law, personal data collected by the Secretary or any program entity under this section may not be made available or disclosed by the Secretary or any program entity to any person other than the individual who is the subject ofsuch data unless (i) such person requires such data for purposes of this section, or (ii) in response to a demand for such data made by means of compulsory legal process. Any individual who is the subject of personal data made available or disclosed under clause (ii) shall be notified of the demand for such data.
 
 &emsp;(B) Subject to all applicable laws regarding confidentiality, only the data collected by the Secretary under this section which is not personal data shall be made available to bona fide researchers and policy analysts (including the Congress) for the purposes of assisting in the conduct of studies respecting health professions personnel.
 

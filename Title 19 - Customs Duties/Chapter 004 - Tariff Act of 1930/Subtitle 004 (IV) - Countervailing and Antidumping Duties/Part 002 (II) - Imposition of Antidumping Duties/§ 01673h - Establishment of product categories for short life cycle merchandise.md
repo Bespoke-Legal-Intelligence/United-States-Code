@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;The term "affirmative dumping determination" means—
 
-&emsp;&emsp;(A) any affirmative final determination made by the administering authority under section 1673d(a) of this title during the 8-year period preceding the filing of the petition under this section that results in the issuance of an antidumping duty order under section 1673e of this title which requires thedeposit of estimated antidumping duties at a rate of not less than 15 percent ad valorem, or
+&emsp;&emsp;(A) any affirmative final determination made by the administering authority under section 1673d(a) of this title during the 8-year period preceding the filing of the petition under this section that results in the issuance of an antidumping duty order under section 1673e of this title which requires the deposit of estimated antidumping duties at a rate of not less than 15 percent ad valorem, or
 
 &emsp;&emsp;(B) any affirmative preliminary determination that—
 
@@ -110,13 +110,13 @@ For purposes of this section—
 
 #### (c) Transitional rules
 
-(1) For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) of this section that were made after December 31, 1980, and before August 23, 1988, and all affirmative dumping determinations described in subsection (b)(2)(B) of this section that were made after December 31, 1984, and before August 23, 1988, with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
+(1) For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) that were made after December 31, 1980, and before August 23, 1988, and all affirmative dumping determinations described in subsection (b)(2)(B) that were made after December 31, 1984, and before August 23, 1988, with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
 
 (2) No affirmative dumping determination that—
 
-&emsp;(A) is described in subsection (b)(2)(A) of this section and was made before January 1, 1981, or
+&emsp;(A) is described in subsection (b)(2)(A) and was made before January 1, 1981, or
 
-&emsp;(B) is described in subsection (b)(2)(B) of this section and was made before January 1, 1985,
+&emsp;(B) is described in subsection (b)(2)(B) and was made before January 1, 1985,
 
 > may be taken into account under this section or section 1673b(b)(1)(B) and (C) of this title.
 

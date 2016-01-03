@@ -12,7 +12,7 @@ Commissioned officers on active duty and retired officers entitled to retired pa
 
 #### (c) Members of national advisory or review councils or committees
 
-Members of the National Advisory Health Council and members of other national advisory or review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the National Advisory Health Council and members of other national advisoryor review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (d) Field employees
 
@@ -20,7 +20,7 @@ Field employees of the Service, except those employed on a per diem or fee basis
 
 #### (e) Additional pay for service at Gillis W. Long Hansen's Disease Center
 
-Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's DiseaseCenter on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed at the Center, an amount equal to one-fourth of such compensation.
+Any civilian employee of the Service who is employed at the Gillis W. Long Hansen's Disease Center on April 7, 1986, shall be entitled to receive, in addition to any compensation to which the employee may otherwise be entitled and for so long as the employee remains employed at the Center, an amount equal to one-fourth of such compensation.
 
 #### (f) Allowances included in fellowships
 
@@ -122,7 +122,7 @@ Reference to the Gillis W. Long Hansen's Disease Center deemed to refer to the N
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–272, title XVII, §17002(a)(2), Apr. 7, 1986, 100 Stat. 359, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 1985."
+Pub. L. 99–272, title XVII, §17002(a)(2), Apr. 7, 1986, 100 Stat. 359, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as of October 7, 1985."
 
 #### Effective Date of 1985 Amendment
 

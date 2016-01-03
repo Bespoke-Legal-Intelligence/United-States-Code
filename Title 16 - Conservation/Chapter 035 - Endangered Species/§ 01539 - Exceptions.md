@@ -4,7 +4,7 @@
 
 (1) The Secretary may permit, under such terms and conditions as he shall prescribe—
 
-&emsp;(A) any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j) of this section; or
+&emsp;(A) any act otherwise prohibited by section 1538 of this title for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j); or
 
 &emsp;(B) any taking otherwise prohibited by section 1538(a)(1)(B) of this title if such taking is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
 
@@ -36,7 +36,7 @@
 
 #### (b) Hardship exemptions
 
-(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
+(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangeredspecies pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
 (2) As used in this subsection, the term "undue economic hardship" shall include, but not be limited to:
 
@@ -94,7 +94,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) Any prohibition set forth in section 1538(a)(1)(E) or (F) of this title.
 
-(3) Any person seeking an exemption described in paragraph (2) of this subsection shall makeapplication therefor to the Secretary in such form and manner as he shall prescribe, but no such application may be considered by the Secretary unless the application—
+(3) Any person seeking an exemption described in paragraph (2) of this subsection shall make application therefor to the Secretary in such form and manner as he shall prescribe, but no such application may be considered by the Secretary unless the application—
 
 &emsp;(A) is received by the Secretary before the close of the one-year period beginning on the date on which regulations promulgated by the Secretary to carry out this subsection first take effect;
 
@@ -132,7 +132,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) immunize any person from prosecution for any such act.
 
-(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for one additional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
+(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for oneadditional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
 
 (B) If the Secretary approves any application for renewal of an exemption under this paragraph, he shall issue to the applicant a certificate of renewal of such exemption which shall provide that all terms, conditions, prohibitions, and other regulations made applicable by the previous certificate shall remain in effect during the period of the renewal.
 
@@ -210,7 +210,7 @@ This chapter, referred to in text, was in the original "this Act", except for "t
 
 Section 668cc–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 93–205, §14, Dec. 28, 1973, 87 Stat. 903.
 
-Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, §2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation ofregulations, see subsecs. (b) and (h) of section 1533 of this title.
+Subsec. (f) of section 1533 of this title, referred to in subsec. (f)(5), which related to promulgation of regulations by the Secretary was struck out, and subsec. (g) of section 1533 of this title, was redesignated as subsec. (f), by Pub. L. 97–304, §2(a)(4)(B), (C), Oct. 13, 1982, 96 Stat. 1415. For provisions relating to promulgation of regulations, see subsecs. (b) and (h) of section 1533 of this title.
 
 Effective date of this subsection, referred to in subsec. (f)(6)(A), probably means the date of enactment of subsec. (f) by section 2 of Pub. L. 94–359, July 12, 1976.
 

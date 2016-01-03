@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b) of this section.
+The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b).
 
 #### (b) Requirements
 
@@ -22,7 +22,7 @@ The Administration may designate a qualified State or local development company 
 
 #### (c) Expedited processing of loan applications
 
-The Administration shall develop an expedited procedure for processing a loan application orservicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b) of this section.
+The Administration shall develop an expedited procedure for processing a loan application or servicing action submitted by a qualified State or local development company that has been designated as an accredited lender in accordance with subsection (b).
 
 #### (d) Suspension or revocation of designation
 
@@ -30,7 +30,7 @@ The Administration shall develop an expedited procedure for processing a loan ap
 
 &emsp;The designation of a qualified State or local development company as an accredited lender may be suspended or revoked if the Administration determines that—
 
-&emsp;&emsp;(A) the development company has not continued to meet the criteria for eligibility under subsection (b) of this section; or
+&emsp;&emsp;(A) the development company has not continued to meet the criteria for eligibility under subsection (b); or
 
 &emsp;&emsp;(B) the development company has failed to adhere to the Administration's rules and regulations or is violating any other applicable provision of law.
 
@@ -46,7 +46,7 @@ For purposes of this section, the term "qualified State or local development com
 
 #### Regulations
 
-Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\]."
+Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 120 days after thedate of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\]."
 
 #### Report on Implementation of Program
 

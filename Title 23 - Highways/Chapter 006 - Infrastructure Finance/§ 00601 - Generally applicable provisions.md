@@ -2,7 +2,7 @@
 
 (a)
 
-Definitions.—In this chapter, the following definitions apply:
+Definitions.—The following definitions apply to sections 601 through 609:
 
 &emsp;(1)
 
@@ -18,13 +18,15 @@ Eligible project costs.—The term "eligible project costs" means amounts substa
 
 &emsp;&emsp;(A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+&emsp;&emsp;(B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment;
 
-&emsp;&emsp;(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
+&emsp;&emsp;(C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction; and
+
+&emsp;&emsp;(D) capitalizing a rural projects fund.
 
 &emsp;(3)
 
-Federal credit instrument.—The term "Federal credit instrument" means a secured loan, loan guarantee, or line of credit authorized to be made available under this chapter with respect to a project.
+Federal credit instrument.—The term "Federal credit instrument" means a secured loan, loan guarantee, or line of credit authorized to be made available under the TIFIA program with respect to a project.
 
 &emsp;(4)
 
@@ -70,9 +72,13 @@ Loan guarantee.—The term "loan guarantee" means any guarantee or other pledge 
 
 &emsp;(10)
 
-Master credit agreement.—The term "master credit agreement" means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—
+Master credit agreement.—The term "master credit agreement" means a conditional agreement to extend credit assistance for a program of related projects secured by a common security pledge covered under section 602(b)(2)(A) or for a single project covered under section 602(b)(2)(B) that does not provide for a current obligation of Federal funds, and that would—
 
-&emsp;&emsp;(A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to the availability of future funds being made available to carry out this chapter;
+&emsp;&emsp;(A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to—
+
+&emsp;&emsp;&emsp;(i) the availability of future funds being made available to carry out the TIFIA program; and
+
+&emsp;&emsp;&emsp;(ii) the satisfaction of all of the conditions for the provision of credit assistance under the TIFIA program, including section 603(b)(1);
 
 &emsp;&emsp;(B) establish the maximum amounts and general terms and conditions of the secured loans or other Federal credit instruments;
 
@@ -82,9 +88,11 @@ Master credit agreement.—The term "master credit agreement" means an agreement
 
 &emsp;&emsp;&emsp;(i) completion of an environmental impact statement or similar analysis required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-&emsp;&emsp;&emsp;(ii) compliance with such other requirements as are specified in section 602(c); and
+&emsp;&emsp;&emsp;(ii) receiving an investment grade rating from a rating agency;
 
-&emsp;&emsp;&emsp;(iii) the availability of funds to carry out this chapter; and
+&emsp;&emsp;&emsp;(iii) compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
+
+&emsp;&emsp;&emsp;(iv) the availability of funds to carry out the TIFIA program; and
 
 &emsp;&emsp;(E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
 
@@ -104,7 +112,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;(B) a project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible;
 
-&emsp;&emsp;(C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems; and
+&emsp;&emsp;(C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems;
 
 &emsp;&emsp;(D) a project that—
 
@@ -124,7 +132,11 @@ Project.—The term "project" means—
 
 &emsp;&emsp;&emsp;(iii) if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and
 
-&emsp;&emsp;&emsp;(iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge.
+&emsp;&emsp;&emsp;(iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;
+
+&emsp;&emsp;(E) a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49, and related infrastructure; and
+
+&emsp;&emsp;(F) the capitalization of a rural projects fund.
 
 &emsp;(13)
 
@@ -136,17 +148,31 @@ Rating agency.—The term "rating agency" means a credit rating agency registere
 
 &emsp;(15)
 
-Rural infrastructure project.—The term "rural infrastructure project" means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.
+Rural infrastructure project.—The term "rural infrastructure project" means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.
 
 &emsp;(16)
 
-Secured loan.—The term "secured loan" means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
+Rural projects fund.—The term "rural projects fund" means a fund—
+
+&emsp;&emsp;(A) established by a State infrastructure bank in accordance with section 610(d)(4);
+
+&emsp;&emsp;(B) capitalized with the proceeds of a secured loan made to the bank in accordance with sections 602 and 603; and
+
+&emsp;&emsp;(C) for the purpose of making loans to sponsors of rural infrastructure projects in accordance with section 610.
 
 &emsp;(17)
 
-State.—The term "State" has the meaning given the term in section 101.
+Secured loan.—The term "secured loan" means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
 
 &emsp;(18)
+
+State.—The term "State" has the meaning given the term in section 101.
+
+&emsp;(19)
+
+State infrastructure bank.—The term "State infrastructure bank" means an infrastructure bank established under section 610.
+
+&emsp;(20)
 
 Subsidy amount.—The term "subsidy amount" means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
 
@@ -154,7 +180,7 @@ Subsidy amount.—The term "subsidy amount" means the amount of budget authority
 
 &emsp;&emsp;(B) excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
 
-&emsp;(19)
+&emsp;(21)
 
 Substantial completion.—The term "substantial completion" means—
 
@@ -162,15 +188,15 @@ Substantial completion.—The term "substantial completion" means—
 
 &emsp;&emsp;(B) a comparable event, as determined by the Secretary and specified in the credit agreement.
 
-&emsp;(20)
+&emsp;(22)
 
-TIFIA program.—The term "TIFIA program" means the transportation infrastructure finance and innovation program of the Department.
+TIFIA program.—The term "TIFIA program" means the transportation infrastructure finance and innovation program of the Department established under sections 602 through 609.
 
 (b)
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439.)
 
 #### References in Text
 
@@ -180,9 +206,31 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in 
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(18)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–94, §2001(a)(1), in introductory provisions, substituted "The" for "In this chapter, the" and inserted "to sections 601 through 609" after "apply".
+
+Subsec. (a)(2)(D). Pub. L. 114–94, §2001(a)(2), added subpar. (D).
+
+Subsec. (a)(3). Pub. L. 114–94, §2001(a)(3), substituted "the TIFIA program" for "this chapter".
+
+Subsec. (a)(10). Pub. L. 114–94, §2001(a)(4)(A), inserted heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: "The term 'master credit agreement' means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—".
+
+Subsec. (a)(10)(A). Pub. L. 114–94, §2001(a)(4)(B), substituted "subject to—" for "subject to the availability of future funds being made available to carry out this chapter;" and added cls. (i) and (ii).
+
+Subsec. (a)(10)(D)(ii). Pub. L. 114–94, §2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (a)(10)(D)(iii). Pub. L. 114–94, §2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted "under the TIFIA program, including sections 602(c) and 603(b)(1)" for "in section 602(c)". Former cl. (iii) redesignated (iv).
+
+Subsec. (a)(10)(D)(iv). Pub. L. 114–94, §2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted "the TIFIA program" for "this chapter".
+
+Subsec. (a)(12)(E), (F). Pub. L. 114–94, §2001(a)(5), added subpars. (E) and (F).
+
+Subsec. (a)(15). Pub. L. 114–94, §2001(a)(6), substituted "means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census." for "means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits."
+
+Subsec. (a)(16) to (22). Pub. L. 114–94, §2001(a)(7)–(10), added pars. (16) and (19), redesignated former pars. (16), (17), (18), (19), and (20) as pars. (17), (18), (20), (21), and (22), respectively, and inserted "established under sections 602 through 609" after "Department" in par. (22).
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to generally applicable provisions.
 
@@ -210,9 +258,67 @@ Par. (10). Pub. L. 109–59, §1601(a)(2), (4), redesignated par. (11) as (10) a
 
 Pars. (11) to (15). Pub. L. 109–59, §1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Regional Infrastructure Accelerator Demonstration Program
+
+Pub. L. 114–94, div. A, title I, §1441, Dec. 4, 2015, 129 Stat. 1435, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall establish a regional infrastructure demonstration program (referred to in this section as the 'program') to assist entities in developing improved infrastructure priorities and financing strategies for the accelerated development of a project that is eligible for funding under the TIFIA program under chapter 6 of title 23, United States Code.
+
+"(b)
+
+Designation of Regional Infrastructure Accelerators.—In carrying out the program, the Secretary may designate regional infrastructure accelerators that will—
+
+&emsp;"(1) serve a defined geographic area; and
+
+&emsp;"(2) act as a resource in the geographic area to qualified entities in accordance with this section.
+
+"(c)
+
+Application.—To be eligible for a designation under subsection (b), a proposed regional infrastructure accelerator shall submit to the Secretary a proposal at such time, in such manner, and containing such information as the Secretary may require.
+
+"(d)
+
+Criteria.—In evaluating a proposal submitted under subsection (c), the Secretary shall consider—
+
+&emsp;"(1) the need for geographic diversity among regional infrastructure accelerators; and
+
+&emsp;"(2) the ability of the proposal to promote investment in covered infrastructure projects, which shall include a plan—
+
+&emsp;&emsp;"(A) to evaluate and promote innovative financing methods for local projects, including the use of the TIFIA program under chapter 6 of title 23, United States Code;
+
+&emsp;&emsp;"(B) to build capacity of State, local, and tribal governments to evaluate and structure projects involving the investment of private capital;
+
+&emsp;&emsp;"(C) to provide technical assistance and information on best practices with respect to financing the projects;
+
+&emsp;&emsp;"(D) to increase transparency with respect to infrastructure project analysis and using innovative financing for public infrastructure projects;
+
+&emsp;&emsp;"(E) to deploy predevelopment capital programs designed to facilitate the creation of a pipeline of infrastructure projects available for investment;
+
+&emsp;&emsp;"(F) to bundle smaller-scale and rural projects into larger proposals that may be more attractive for investment; and
+
+&emsp;&emsp;"(G) to reduce transaction costs for public project sponsors.
+
+"(e)
+
+Annual Report.—Not less frequently than once each year, the Secretary shall submit to Congress a report that describes the findings and effectiveness of the program.
+
+"(f)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the program $12,000,000, of which the Secretary shall use—
+
+&emsp;"(1) $11,750,000 for initial grants to regional infrastructure accelerators under subsection (b); and
+
+&emsp;"(2) $250,000 for administrative costs of carrying out the program."
 
 #### Congressional Findings
 
@@ -268,7 +374,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks andmultistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -462,7 +568,7 @@ Highway account.—Notwithstanding any other provision of law, the Secretary may
 
 &emsp;"(3)
 
-Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federaltransit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
+Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
 
 &emsp;"(4)
 

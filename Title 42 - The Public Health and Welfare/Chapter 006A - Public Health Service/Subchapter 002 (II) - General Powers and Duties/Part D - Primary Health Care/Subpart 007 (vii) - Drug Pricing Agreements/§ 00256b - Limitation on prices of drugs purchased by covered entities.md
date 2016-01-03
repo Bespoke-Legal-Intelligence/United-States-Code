@@ -28,7 +28,7 @@
 
 #### (3) Drugs provided under State medicaid plans
 
-&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment is made by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment ismade by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (4) "Covered entity" defined
 
@@ -136,7 +136,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and"manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
+&emsp;In this section, the terms "average manufacturer price", "covered outpatient drug", and "manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act \[42 U.S.C. 1396r–8(k)\].
 
 #### (2) Covered drug
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(v) The imposition of sanctions, in appropriate cases as determined by the Secretary, additional to those to which covered entities are subject under subsection (a)(5)(D), through one or more of the following actions:
 
-&emsp;&emsp;&emsp;&emsp;(I) Where a covered entity knowingly and intentionally violates subsection (a)(5)(B), the covered entity shall be required to pay a monetary penalty to a manufacturer or manufacturers in the form of interest on sums for which the covered entity is found liable under subsection (a)(5)(D), such interest to be compounded monthly and equal to the current short term interest rate as determined by the Federal Reserve for the time period for which the covered entity is liable.
+&emsp;&emsp;&emsp;&emsp;(I) Where a covered entity knowingly and intentionally violates subsection (a)(5)(B), the covered entity shall be required to pay a monetary penalty to amanufacturer or manufacturers in the form of interest on sums for which the covered entity is found liable under subsection (a)(5)(D), such interest to be compounded monthly and equal to the current short term interest rate as determined by the Federal Reserve for the time period for which the covered entity is liable.
 
 &emsp;&emsp;&emsp;&emsp;(II) Where the Secretary determines a violation of subsection (a)(5)(B) was systematic and egregious as well as knowing and intentional, removing the covered entity from the drug discount program under this section and disqualifying the entity from re-entry into such program for a reasonable period of time to be determined by the Secretary.
 
@@ -248,7 +248,7 @@
 
 #### (4) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, such sums as maybe necessary for fiscal year 2010 and each succeeding fiscal year.
+&emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
 
 #### (e) Exclusion of orphan drugs for certain covered entities
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)�
 
 "(iv)
 
-Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer,and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
+Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
 
 Pub. L. 111–148, §7101(c)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

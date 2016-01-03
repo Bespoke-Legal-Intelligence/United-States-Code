@@ -6,7 +6,7 @@ There is hereby established the President's Emergency Food Assistance Fund (here
 
 #### (b) Types of assistance authorized
 
-Because the effects of severe food shortages will vary with the country or region, assistanceto alleviate human suffering may include the provision of food assistance or such activities as the provision of seed, animal fodder, animal vaccines, and transportation (including inland transportation) and distribution services.
+Because the effects of severe food shortages will vary with the country or region, assistance to alleviate human suffering may include the provision of food assistance or such activities as the provision of seed, animal fodder, animal vaccines, and transportation (including inland transportation) and distribution services.
 
 #### (c) Authorization of appropriations
 

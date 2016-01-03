@@ -24,7 +24,7 @@ Effective 2 years after October 24, 1992, each assisted reproductive technology 
 
 #### (c) Consultation
 
-In developing the definition under subsection (b) of this section, the Secretary shall consult with appropriate consumer and professional organizations with expertise in using, providing, and evaluating professional services and embryolaboratories associated with assisted reproductive technologies.
+In developing the definition under subsection (b) of this section, the Secretary shall consult with appropriate consumer and professional organizations with expertise in using, providing, and evaluating professional services and embryo laboratories associated with assisted reproductive technologies.
 
 (Pub. L. 102–493, §2, Oct. 24, 1992, 106 Stat. 3146.)
 

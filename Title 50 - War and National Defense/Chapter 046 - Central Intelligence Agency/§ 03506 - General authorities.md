@@ -74,7 +74,7 @@ Subsec. (a)(4). Pub. L. 105–272, §401, substituted "and the protection of cur
 
 <b>1997</b>—Pub. L. 105–107 designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively, of subsec. (a), in par. (5) substituted semicolon for "without regard to limitations on expenditures contained in the Act of June 30, 1932, as amended: <i>Provided</i>, That in each case the Director shall certify that exception from such limitations is necessary to the successful performance of the Agency's functions or to the security of its activities; and", and added par. (7) and subsec. (b).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted "Office of Management and Budget" for "Bureau of the Budget" and "subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 ofthis title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title" for "sections 403 and 405 of this title".
+<b>1993</b>—Subsec. (a). Pub. L. 103–178 substituted "Office of Management and Budget" for "Bureau of the Budget" and "subparagraphs (B) and (C) of section 403(a)(2) of this title, subsections (c)(5) and (d) of section 403–3 of this title, subsections (a) and (g) of section 403–4 of this title, and section 405 of this title" for "sections 403 and 405 of this title".
 
 <b>1983</b>—Subsec. (f). Pub. L. 98–215 added subsec. (f).
 
@@ -102,9 +102,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 113–235, div. C, title VIII, §8045(b), Dec. 16, 2014, 128 Stat. 2264, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 114–113, div. C, title VIII, §8046(b), Dec. 18, 2015, 129 Stat. 2362, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, §8045(b), Dec. 16, 2014, 128 Stat. 2264.
 
 Pub. L. 113–76, div. C, title VIII, §8045(b), Jan. 17, 2014, 128 Stat. 115.
 

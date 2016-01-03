@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(II) assistance described in subparagraph (C).
 
-&emsp;&emsp;(ii) Assistance in addition to assistance under clause (i) may be provided, but onlyafter the President certifies to the appropriate congressional committees, in accordance with procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], that such assistance is essential to the successful completion of the transition to democracy.
+&emsp;&emsp;(ii) Assistance in addition to assistance under clause (i) may be provided, but only after the President certifies to the appropriate congressional committees, in accordance with procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], that such assistance is essential to the successful completion of the transition to democracy.
 
 &emsp;&emsp;(iii) Only after a transition government in Cuba is in power, freedom of individuals to travel to visit their relatives without any restrictions shall be permitted.
 
@@ -104,7 +104,7 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 #### (2) Consultation
 
-&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advicefrom the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
+&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
 (Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 

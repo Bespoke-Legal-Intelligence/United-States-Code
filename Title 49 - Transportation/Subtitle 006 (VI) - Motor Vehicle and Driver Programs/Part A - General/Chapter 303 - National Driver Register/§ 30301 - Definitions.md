@@ -112,7 +112,7 @@ Minimum Standards for Federal Use.—
 
 &emsp;"(1)
 
-In general.—Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver's license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
+In general.—Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver's license or identification card issuedby a State to any person unless the State is meeting the requirements of this section.
 
 &emsp;"(2)
 
@@ -210,7 +210,7 @@ Renewal.—A temporary driver's license or temporary identification card issued 
 
 Verification of documents.—To meet the requirements of this section, a State shall implement the following procedures:
 
-&emsp;&emsp;"(A) Before issuing a driver's license or identification card to a person, the State shall verify,with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
+&emsp;&emsp;"(A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
 
 &emsp;&emsp;"(B) The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
 
@@ -236,7 +236,7 @@ Other Requirements.—To meet the requirements of this section, a State shall ad
 
 &emsp;"(8) Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate security clearance requirements.
 
-&emsp;"(9) Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
+&emsp;"(9) Establish fraudulent document recognition training programs for appropriate employees engagedin the issuance of drivers' licenses and identification cards.
 
 &emsp;"(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
 

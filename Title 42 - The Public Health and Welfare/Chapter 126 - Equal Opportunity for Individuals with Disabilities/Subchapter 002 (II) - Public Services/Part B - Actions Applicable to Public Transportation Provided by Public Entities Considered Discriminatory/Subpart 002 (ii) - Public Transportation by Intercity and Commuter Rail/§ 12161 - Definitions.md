@@ -8,7 +8,7 @@ As used in this subpart:
 
 #### (2) Commuter rail transportation
 
-&emsp;The term "commuter rail transportation" has the meaning given the term "commuter rail passenger transportation" in section 24102(5) <sup>1</sup> of title 49.
+&emsp;The term "commuter rail transportation" has the meaning given the term "commuterrail passenger transportation" in section 24102(5) <sup>1</sup> of title 49.
 
 #### (3) Intercity rail transportation
 

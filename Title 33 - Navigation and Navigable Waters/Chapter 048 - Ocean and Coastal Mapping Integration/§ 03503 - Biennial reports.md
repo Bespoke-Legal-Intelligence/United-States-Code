@@ -24,7 +24,7 @@ No later than 18 months after March 30, 2009, and biennially thereafter, the co-
 
 &emsp;&emsp;(A) cover the area from the authorized coastal counties through the territorial sea;
 
-&emsp;&emsp;(B) identify how such a pilot project will leverage public and private mapping dataand resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
+&emsp;&emsp;(B) identify how such a pilot project will leverage public and private mapping data and resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
 
 &emsp;(11) the status of efforts to coordinate Federal programs with coastal state and local government programs and leverage those programs;
 

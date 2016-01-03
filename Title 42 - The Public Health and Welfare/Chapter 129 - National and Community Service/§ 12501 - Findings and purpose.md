@@ -36,7 +36,7 @@ It is the purpose of this chapter to—
 
 &emsp;(8) provide tangible benefits to the communities in which national service is performed;
 
-&emsp;(9) expand and strengthen service-learning programs through year-round opportunities, including opportunities during the summer months, to improve the education of children and youth and to maximize the benefits of national and community service, in order to renew the ethic of civic responsibility and the spirit of community for children and youth throughout the United States;
+&emsp;(9) expand and strengthen service-learning programs through year-round opportunities, including opportunities during the summer months, to improve the education of children and youth and to maximize the benefits of national and community service, in order torenew the ethic of civic responsibility and the spirit of community for children and youth throughout the United States;
 
 &emsp;(10) assist in coordinating and strengthening Federal and other service opportunities, including opportunities for participation in emergency and disaster preparedness, relief, and recovery;
 
@@ -112,7 +112,7 @@ Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: "This A
 
 Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the "Serve-America: The Community Service, Schools and Service-Learning Act of 1990", was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
-Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the "Strengthen AmeriCorps Program Act", was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
+Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the "StrengthenAmeriCorps Program Act", was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
 
 Pub. L. 101–610, title I, §199, formerly §120, Nov. 16, 1990, 104 Stat. 3140, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: "This subtitle \[subtitle I (§§199–199O) (formerly subtitle C (§§120–136)) of title I of Pub. L. 101–610, enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the 'American Conservation and Youth Service Corps Act of 1990'."
 
@@ -300,7 +300,7 @@ Sec. 6. <i>Judicial Review</i>. This order is not intended to, and does not, cre
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Expanding National Service Through Partnerships to Advance Government Priorities
+#### Expanding National Service Through Partnerships To Advance Government Priorities
 
 Memorandum of President of the United States, July 15, 2013, 78 F.R. 43747, provided:
 
@@ -358,7 +358,7 @@ Section 1. <i>Establishing a Task Force on Expanding National Service</i>. There
 
 Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall:
 
-(i) identify existing, and, if appropriate, recommend new, policies or practices that support the expansion of national service and volunteer opportunities that align with the SAA and agency priorities;
+(i) identify existing, and, if appropriate, recommend new, policies or practices that support the expansion ofnational service and volunteer opportunities that align with the SAA and agency priorities;
 
 (ii) make recommendations on the most effective way to coordinate national service and volunteering programs across the Federal Government;
 

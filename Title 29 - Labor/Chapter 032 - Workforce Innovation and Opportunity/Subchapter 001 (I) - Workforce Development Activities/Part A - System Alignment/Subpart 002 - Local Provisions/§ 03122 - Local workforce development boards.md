@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Except as provided in subsection (c)(2)(A), there shall be established, and certified by the Governor of the State, a local workforce development board in each local area of a State to carry out the functions described in subsection (d) (and any functions specified for the local board under this Act or the provisions establishing a core program) for such area.
+Except as provided in subsection (c)(2)(A), there shall be established, and certified by the Governor of the State, a local workforce development board in each local area of a State to carry out the functions described in subsection\(d) (and any functions specified for the local board under this Act or the provisions establishing a core program) for such area.
 
 #### (b) Membership
 
@@ -130,7 +130,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) Fraud, abuse, failure to carry out functions
 
-&emsp;&emsp;Notwithstanding paragraph (2), the Governor shall have the authority to decertify a local board at any time after providing notice and an opportunity for comment, for—
+&emsp;&emsp;Notwithstanding paragraph (2), the Governor shall have the authority to decertify alocal board at any time after providing notice and an opportunity for comment, for—
 
 &emsp;&emsp;&emsp;(i) fraud or abuse; or
 
@@ -250,7 +250,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 &emsp;&emsp;Consistent with section 3153 of this title, the local board—
 
-&emsp;&emsp;&emsp;(i) shall identify eligible providers of youth workforce investment activities inthe local area by awarding grants or contracts on a competitive basis (except as provided in section 3153(b) of this title), based on the recommendations of the youth standing committee, if such a committee is established for the local area under subsection (b)(4); and
+&emsp;&emsp;&emsp;(i) shall identify eligible providers of youth workforce investment activities in the local area by awarding grants or contracts on a competitive basis (except as provided in section 3153(b) of this title), based on the recommendations of the youth standing committee, if such a committee is established for the local area under subsection (b)(4); and
 
 &emsp;&emsp;&emsp;(ii) may terminate for cause the eligibility of such providers.
 
@@ -264,7 +264,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (E) Consumer choice requirements
 
-&emsp;&emsp;Consistent with section 3152 of this title and paragraphs (2) and (3) of section 3174(c) of this title, the local board shall work with the State to ensure there are sufficient numbers and types of providers of career services and training services (including eligible providers with expertise in assisting individuals with disabilities and eligible providers with expertise in assisting adults in need of adult education and literacy activities) serving the local area and providing the services involved in a manner that maximizes consumer choice, as well as providing opportunities that lead to competitive integrated employment for individuals with disabilities.
+&emsp;&emsp;Consistent with section 3152 of this title and paragraphs (2) and (3) of section 3174(c) of this title, the local board shall work with the State to ensure there are sufficient numbers and types of providers of career services and training services (including eligible providers with expertise in assisting individuals with disabilities and eligible providers withexpertise in assisting adults in need of adult education and literacy activities) serving the local area and providing the services involved in a manner that maximizes consumer choice, as well as providing opportunities that lead to competitive integrated employment for individuals with disabilities.
 
 #### (11) Coordination with education providers
 
@@ -400,7 +400,7 @@ A member of a local board, or a member of a standing committee, may not—
 
 &emsp;&emsp;(A) is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
 
-&emsp;&emsp;(B) was in existence on the day before July 22, 2014, pursuant to State law; and
+&emsp;&emsp;(B) was in existence on the day before August 7, 1998, pursuant to State law; and
 
 &emsp;&emsp;(C) includes—
 
@@ -414,7 +414,7 @@ A member of a local board, or a member of a standing committee, may not—
 
 &emsp;A reference in this Act or a core program provision to a local board, shall include a reference to such an entity.
 
-(Pub. L. 113–128, title I, §107, July 22, 2014, 128 Stat. 1456.)
+(Pub. L. 113–128, title I, §107, July 22, 2014, 128 Stat. 1456; Pub. L. 114–18, §2(b), May 22, 2015, 129 Stat. 213.)
 
 #### References in Text
 
@@ -426,7 +426,15 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(1
 
 The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (i)(1)(B). Pub. L. 114–18 substituted "August 7, 1998" for "July 22, 2014".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

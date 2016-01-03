@@ -26,7 +26,7 @@ Each agency shall have a Chief Privacy Officer to assume primary responsibility 
 
 #### (1) <sup>3</sup> In general
 
-&emsp;Within 12 months of December 8, 2004, each agency shall establish and implement comprehensive privacy and data protection procedures governing the agency's collection, use, sharing, disclosure, transfer, storage and security of information in an identifiable form relating to the agency employees and the public. Such procedures shall be consistent with legal and regulatory guidance, including OMB regulations, the Privacy Act of 1974 \[5 U.S.C. 552a\], and section 208 of the E-Government Act of 2002.
+&emsp;Within 12 months of December 8, 2004, each agency shall establish and implement comprehensive privacy and data protection procedures governing the agency's collection, use, sharing, disclosure, transfer, storage and security of information in an identifiable form relating to the agency employees and the public. Such procedures shall be consistent with legal and regulatory guidance, including OMB regulations, the Privacy Act of 1974 \[5 U.S.C. 552a\],and section 208 of the E-Government Act of 2002.
 
 #### (c) Recording
 

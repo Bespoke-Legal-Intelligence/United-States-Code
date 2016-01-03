@@ -14,7 +14,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(5) A comprehensive child find system, consistent with subchapter II, including a system for making referrals to service providers that includes timelines and provides for participation by primary referral sources and that ensures rigorous standards for appropriately identifying infants and toddlers with disabilities for services under this subchapter that will reduce the need for future services.
 
-&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information to be given to parents, especially to inform parents with premature infants, or infants with other physical risk factors associated with learning or developmental complications, on the availability of early intervention services under this subchapter and of services under section1419 of this title, and procedures for assisting such sources in disseminating such information to parents of infants and toddlers with disabilities.
+&emsp;(6) A public awareness program focusing on early identification of infants and toddlers with disabilities, including the preparation and dissemination by the lead agency designated or established under paragraph (10) to all primary referral sources, especially hospitals and physicians, of information to be given to parents, especially to inform parents with premature infants, or infants with other physical risk factors associated with learning or developmental complications, on the availability of early intervention services under this subchapter and of services under section 1419 of this title, and procedures for assisting such sources in disseminating such information to parents of infants and toddlers with disabilities.
 
 &emsp;(7) A central directory that includes information on early intervention services, resources, and experts available in the State and research and demonstration projects being conducted in the State.
 
@@ -38,7 +38,7 @@ A statewide system described in section 1433 of this title shall include, at a m
 
 &emsp;(10) A single line of responsibility in a lead agency designated or established by the Governor for carrying out—
 
-&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1433 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1433 of this title, to ensure that the State complies with this subchapter;
+&emsp;&emsp;(A) the general administration and supervision of programs and activities receiving assistance under section 1433 of this title, and the monitoring of programs and activities used by the State to carry out this subchapter, whether or not such programs or activities are receiving assistance made available under section 1433 of this title, toensure that the State complies with this subchapter;
 
 &emsp;&emsp;(B) the identification and coordination of all available resources within the State from Federal, State, local, and private sources;
 
@@ -100,7 +100,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;(E) the parents of infants or toddlers with disabilities (as defined in section 1432(5)(A) of this title) provide informed written consent to the State, before such infants or toddlers reach 3 years of age, as to whether such parents intend to choose the continuation of early intervention services pursuant to this subsection for such infants or toddlers;
 
-&emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until not less than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
+&emsp;&emsp;(F) the requirements under section 1437(a)(9) of this title shall not apply with respect to a child who is receiving services in accordance with this subsection until notless than 90 days (and at the discretion of the parties to the conference, not more than 9 months) before the time the child will no longer receive those services; and
 
 &emsp;&emsp;(G) there will be a referral for evaluation for early intervention services of a child who experiences a substantiated case of trauma due to exposure to family violence (as defined in section 10402 of title 42).
 

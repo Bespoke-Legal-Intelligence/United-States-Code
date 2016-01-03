@@ -8,7 +8,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this sectionwith a Medicare+Choice organization unless the organization has—
+&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this section with a Medicare+Choice organization unless the organization has—
 
 &emsp;&emsp;(A) at least 5,000 individuals (or 1,500 individuals in the case of an organization that is a provider-sponsored organization) who are receiving health benefits through the organization, or
 
@@ -136,7 +136,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization and a PDP sponsor under part D of this subchapter shall pay the fee established by the Secretary under subparagraph (B).
+&emsp;&emsp;A Medicare+Choice organization and a PDP sponsor under part D of this subchaptershall pay the fee established by the Secretary under subparagraph (B).
 
 #### (B) Authorization
 
@@ -206,7 +206,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Requirement
 
-&emsp;A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
+&emsp;A contract under this part shall require a Medicare+Choice organization to provideprompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
 
 #### (2) Secretary's option to bypass noncomplying organization
 
@@ -312,7 +312,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c),title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047.)
 
 #### Amendments
 
@@ -336,7 +336,7 @@ Subsec. (f)(3)(B). Pub. L. 110–275, §172(a)(2), added subpar. (B).
 
 Subsec. (f)(3)(C). Pub. L. 110–275, §173(b), added subpar. (C).
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173, §222(l)(3)(C), substituted "and costs, including allowable costs undersection 1395w–27a(c) of this title" for ", costs, and computation of the adjusted community rate".
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–173, §222(l)(3)(C), substituted "and costs, including allowable costs under section 1395w–27a(c) of this title" for ", costs, and computation of the adjusted community rate".
 
 Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted "Secretary" for "Health Care Financing Administration".
 
@@ -400,7 +400,7 @@ Pub. L. 110–275, title I, §173(c), July 15, 2008, 122 Stat. 2581, provided th
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 222(j), (k), (l)(3)(C) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+Amendment by section 222(j), (k), (l)(3)(C) of Pub. L. 108–173 applicable with respect to plan years beginningon or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 Amendment by section 237(c) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
 

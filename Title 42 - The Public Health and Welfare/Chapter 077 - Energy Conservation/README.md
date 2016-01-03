@@ -13,8 +13,8 @@
 
 |  |  |
 | :--- | ---: |
-| [6211\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006211%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%281%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202029.md) | Repealed. |
-| [6212\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006212%20-%20Domestic%20use%20of%20energy%20supplies%20and%20related%20materials%20and%20equipment.md) | Domestic use of energy supplies and related materials and equipment. |
+| 6211, 6212. | Repealed. |
+| [6212a.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006212a%20-%20Oil%20exports%2C%20safety%20valve%2C%20and%20maritime%20security.md) | Oil exports, safety valve, and maritime security. |
 | [6213\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006213%20-%20Certain%20lease%20bidding%20arrangements%20prohibited.md) | Certain lease bidding arrangements prohibited. |
 | [6214\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006214%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93469%2C%20title%20I%2C%20%C2%A7103%283%29%2C%20Nov.%209%2C%202000%2C%20114%20Stat.%202029.md) | Repealed. |
 | [6215\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20A%20-%20Domestic%20Supply/%C2%A7%2006215%20-%20Major%20fuel%20burning%20stationary%20source.md) | Major fuel burning stationary source. |
@@ -200,6 +200,7 @@
 | [6361\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006361%20-%20Federal%20energy%20conservation%20programs.md) | Federal energy conservation programs. |
 | [6362\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006362%20-%20Energy%20conservation%20policies%20and%20practices.md) | Energy conservation policies and practices. |
 | [6363\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006363%20-%20Federal%20actions%20with%20respect%20to%20recycled%20oil.md) | Federal actions with respect to recycled oil. |
+| [6364\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20D%20-%20Other%20Federal%20Energy%20Conservation%20Measures/%C2%A7%2006364%20-%20Operation%20of%20battery%20recharging%20stations%20in%20parking%20areas%20used%20by%20Federal%20employees.md) | Operation of battery recharging stations in parking areas used by Federal employees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

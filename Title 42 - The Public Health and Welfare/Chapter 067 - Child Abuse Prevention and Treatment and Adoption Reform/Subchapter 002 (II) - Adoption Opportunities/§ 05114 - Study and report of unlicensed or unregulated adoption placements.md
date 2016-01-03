@@ -24,7 +24,7 @@ Not later than 1 year after June 25, 2003, the Secretary shall submit to the app
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–36 designated existing provisions as subsec. (a), inserted subsec. heading and par. (1) designation, substituted "June 25, 2003" for "April 24, 1978" and "to determine—" for "to determine", struck out "which are not licensed by or subject to regulation by any governmental entity" after "by persons or agencies", and added pars. (2) to (4) and subsecs. (b) and (c).
+<b>2003</b>—Pub. L. 108–36 designated existing provisions as subsec. (a), inserted subsec. heading and par. (1) designation, substituted "June 25, 2003" for "April 24, 1978" and "to determine—" for "to determine", struckout "which are not licensed by or subject to regulation by any governmental entity" after "by persons or agencies", and added pars. (2) to (4) and subsecs. (b) and (c).
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

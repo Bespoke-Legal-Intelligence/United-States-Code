@@ -6,7 +6,7 @@
 
 &emsp;(2) the third anniversary of the date on which he would otherwise be discharged or transferred from an active status.
 
-(b) If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under section 12732 of this title, he may not be discharged or transferred from an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
+(b) If on the date prescribed for the discharge or transfer from an active status of a reserve commissioned officer he is entitled to be credited with at least 19, but less than 20, years of service computed under section 12732 of this title, he may not be discharged or transferredfrom an active status under chapter 573, 1407, or 1409 of this title or chapter 21 of title 14, without his consent before the earlier of the following dates—
 
 &emsp;(1) the date on which he is entitled to be credited with 20 years of service computed under section 12732 of this title; or
 
@@ -26,7 +26,7 @@
 
 &emsp;(A) at the end of the period for which the officer is retained the officer will be qualified for retirement under section 3911, 6323, or 8911 of this title; and
 
-&emsp;(B) the officer will not, before the end of that period, reach the age at which transferfrom an active status or discharge is required by this title or title 14.
+&emsp;(B) the officer will not, before the end of that period, reach the age at which transfer from an active status or discharge is required by this title or title 14.
 
 (3) An officer who is retained on active duty or full-time National Guard duty under this section may not be removed from an active status while on that duty.
 

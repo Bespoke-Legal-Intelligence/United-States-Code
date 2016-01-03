@@ -26,7 +26,7 @@ Section 349(b)(2) of the House amendment adds a cross reference to section 553 t
 
 #### senate report no. 95–989
 
-Subsection (a) specifies that unless the court for cause orders otherwise, the dismissal of a case is without prejudice. The debtor is not barred from receiving a discharge in a later case of debts that were dischargeable in the case dismissed. Of course, this subsection refers only to pre-discharge dismissals. If the debtor has already received a discharge and it is not revoked, then the debtor would be barred under section 727(a) from receiving a discharge in a subsequent liquidation case for six years. Dismissal of an involuntary on the merits will generally not give rise to adequate cause so as to bar the debtor from further relief.
+Subsection (a) specifies that unless the court for cause orders otherwise, the dismissal of a case is without prejudice. The debtor is not barred from receiving a discharge in a later case of debts that were dischargeable in the case dismissed. Of course, this subsection refers only to pre-discharge dismissals. If the debtor has already received a discharge and it is not revoked, then the debtor would be barred under section 727(a)from receiving a discharge in a subsequent liquidation case for six years. Dismissal of an involuntary on the merits will generally not give rise to adequate cause so as to bar the debtor from further relief.
 
 Subsection (b) specifies that the dismissal reinstates proceedings or custodianships that were superseded by the bankruptcy case, reinstates avoided transfers, reinstates voided liens, vacates any order, judgment, or transfer ordered as a result of the avoidance of a transfer, and revests the property of the estate in the entity in which the property was vested at the commencement of the case. The court is permitted to order a different result for cause. The basic purpose of the subsection is to undo the bankruptcy case, as far as practicable, and to restore all property rights to the position in which they were found at the commencement of the case. This does not necessarily encompass undoing sales of property from the estate to a good faith purchaser. Where there is a question over the scope of the subsection, the court will make the appropriate orders to protect rights acquired in reliance on the bankruptcy case.
 
@@ -38,7 +38,7 @@ Subsection (b) specifies that the dismissal reinstates proceedings or custodians
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

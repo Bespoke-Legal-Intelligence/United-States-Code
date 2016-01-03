@@ -26,7 +26,7 @@ Pub. L. 106–565, Dec. 23, 2000, 114 Stat. 2812, provided that:
 
 Findings.—Congress finds that—
 
-&emsp;"(1) the founding of the colony at Jamestown, Virginia in 1607, the first permanent English colony in the New World, and the capital of Virginia for 92 years, has major significance in the history of the United States;
+&emsp;"(1) the founding of the colony at Jamestown, Virginia in 1607, the first permanent English colony inthe New World, and the capital of Virginia for 92 years, has major significance in the history of the United States;
 
 &emsp;"(2) the settlement brought people from throughout the Atlantic Basin together to form a multicultural society, including English, other Europeans, Native Americans, and Africans;
 

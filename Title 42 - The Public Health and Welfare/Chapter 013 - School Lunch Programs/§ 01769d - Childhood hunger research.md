@@ -60,7 +60,7 @@
 
 #### (B) Receipt and acceptance
 
-&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out this subsection the funds transferred under subparagraph (A), without further appropriation.
+&emsp;&emsp;The Secretary shall be entitled to receive, shall accept, and shall use to carry out thissubsection the funds transferred under subparagraph (A), without further appropriation.
 
 #### (b) Demonstration projects to end childhood hunger
 
@@ -168,7 +168,7 @@
 
 #### (ii) Indian reservations
 
-&emsp;&emsp;&emsp;Of amounts made available under subparagraph (A), the Secretary shall use aportion of the amounts to carry out research relating to hunger, obesity and type 2 diabetes on Indian reservations, including research to determine the manner in which Federal nutrition programs can help to overcome those problems.
+&emsp;&emsp;&emsp;Of amounts made available under subparagraph (A), the Secretary shall use a portion of the amounts to carry out research relating to hunger, obesity and type 2 diabetes on Indian reservations, including research to determine the manner in which Federal nutrition programs can help to overcome those problems.
 
 #### (iii) Report
 

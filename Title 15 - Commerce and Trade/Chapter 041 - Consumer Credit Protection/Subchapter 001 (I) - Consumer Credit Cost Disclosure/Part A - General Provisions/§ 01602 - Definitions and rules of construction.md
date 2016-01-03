@@ -14,7 +14,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (f) The term "credit" means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
 
-(g) The term "creditor" refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term "creditor" shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extentappropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term "creditor" includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
+(g) The term "creditor" refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term "creditor" shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term "creditor" includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
 
 (h) The term "credit sale" refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
 
@@ -50,7 +50,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (x) The term "residential mortgage transaction" means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
 
-(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are taggedor posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
+(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
 
 (z) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
@@ -84,7 +84,7 @@ In general.—The term "high-cost mortgage", and a mortgage referred to in this 
 
 &emsp;&emsp;(B)
 
-Introductory rates taken into account.—For purposes of subparagraph (A)(i), the annual percentage rate of interest shall be determined based on the following interest rate:
+Introductory rates taken into account.—For purposes of subparagraph (A)(i),the annual percentage rate of interest shall be determined based on the following interest rate:
 
 &emsp;&emsp;&emsp;(i) In the case of a fixed-rate transaction in which the annual percentage rate will not vary during the term of the loan, the interest rate in effect on the date of consummation of the transaction.
 
@@ -114,7 +114,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 &emsp;(ii) may not result in the number of percentage points referred to in paragraph (1)(A)(i)(II) being less than 8 percentage points or greater than 12 percentage points.
 
-(C) In determining whether to increase or decrease the number of percentage points referredto in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
+(C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
 (3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
 
@@ -224,7 +224,7 @@ Servicer.—The term "servicer" has the same meaning as in section 2605(i)(2) of
 
 Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determining the amount of points and fees for purposes of subsection (aa), either the amounts described in paragraph (1) or (2) of the following paragraphs, but not both, shall be excluded:
 
-&emsp;(1) Up to and including 2 bona fide discount points payable by the consumer in connection with the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—
+&emsp;(1) Up to and including 2 bona fide discount points payable by the consumer in connectionwith the mortgage, but only if the interest rate from which the mortgage's interest rate will be discounted does not exceed by more than 1 percentage point—
 
 &emsp;&emsp;(A) the average prime offer rate, as defined in section 1639c of this title; or
 
@@ -246,7 +246,7 @@ Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determ
 
 The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the "Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
-The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (cc)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat.2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (cc)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
 The National Housing Act, referred to in subsec. (dd)(1)(B), (2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter II (§1702 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
@@ -278,7 +278,7 @@ Subsec. (bb)(4)(B). Pub. L. 111–203, §1431(c)(1)(A), which directed amendment
 
 Subsec. (bb)(4)(D) to (G). Pub. L. 111–203, §1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
-Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
+Subsec. (bb)(5), (6). Pub. L. 111–203, §1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5)and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by Pub. L. 111–203, §1100(A)(1). See above.
 
 Subsec. (cc). Pub. L. 111–203, §1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
 
@@ -290,7 +290,7 @@ Subsec. (dd). Pub. L. 111–203, §1431(d), added subsec. (dd).
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–315 inserted at end "The term 'creditor' includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter."
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–325, §152(c), inserted at end "Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter."
+<b>1994</b>—Subsec. (f). Pub. L. 103–325, §152(c), inserted at end "Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter."
 
 Subsec. (u). Pub. L. 103–325, §152(b), substituted "the due dates" for "and the due dates" and inserted before period at end ", and the disclosures required by section 1639(a) of this title".
 
@@ -350,7 +350,7 @@ Pub. L. 96–221, title VI, §625, Mar. 31, 1980, 94 Stat. 185, as amended by Pu
 
 "(b) All regulations, forms, and clauses required to be prescribed under the amendments made by this title shall be promulgated at least one year prior to such effective date.
 
-"(c) Notwithstanding subsections (a) and (b), any creditor may comply with the amendments made by this title, in accordance with the regulations, forms, and clauses prescribed by the Board, prior to such effective date. Any creditor who elects to comply with such amendments and any assignee of such a creditor shall be subject to the provisions of sections 130 and 131 of the Truth in Lending Act, as amended by sections 615 and 616, respectively, of this title \[sections 1640 and 1641 of this title\]."
+"(c) Notwithstanding subsections (a) and (b), any creditor may comply with the amendments made bythis title, in accordance with the regulations, forms, and clauses prescribed by the Board, prior to such effective date. Any creditor who elects to comply with such amendments and any assignee of such a creditor shall be subject to the provisions of sections 130 and 131 of the Truth in Lending Act, as amended by sections 615 and 616, respectively, of this title \[sections 1640 and 1641 of this title\]."
 
 #### Effective Date of 1974 Amendment
 

@@ -86,7 +86,7 @@ For purposes of this section:
 
 #### (II) Amortization schedule
 
-&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii) or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
+&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii)or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
 
 #### (III) Other rules
 
@@ -174,7 +174,7 @@ For purposes of this section:
 
 #### (II) Cap to apply
 
-&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts\(determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
+&emsp;&emsp;&emsp;&emsp;If any amount treated as an installment acceleration amount under subclause (I) or this subclause with respect <sup>1</sup> any succeeding plan year, when added to other installment acceleration amounts (determined without regard to clause (ii)) with respect to the plan year, exceeds the limitation under clause (ii), the portion of such amount representing such excess shall be treated as an installment acceleration amount with respect to the next succeeding plan year.
 
 #### (III) Limitation on years to which amounts carried for
 
@@ -290,7 +290,7 @@ For purposes of this section:
 
 #### (iii) Elections for multiple plans
 
-&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or moreplans, the Secretary of the Treasury shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
 
 #### (iv) Mergers and acquisitions
 
@@ -378,7 +378,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standard carryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of any plan year in which the plan sponsor elects to credit against the minimum required contribution for the current plan year all or a portion of the prefunding balance or the funding standardcarryover balance for the current plan year (not in excess of such minimum required contribution), the minimum required contribution for the plan year shall be reduced as of the first day of the plan year by the amount so credited by the plan sponsor. For purposes of the preceding sentence, the minimum required contribution shall be determined after taking into account any waiver under section 1082(c) of this title.
 
 #### (B) Coordination with funding standard carryover balance
 
@@ -470,7 +470,7 @@ For purposes of this section—
 
 #### (iii) Certain contributions necessary to avoid benefit limitations disregarded
 
-&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding planyear. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
+&emsp;&emsp;&emsp;The excess described in clause (i) with respect to any preceding plan year shall be reduced (but not below zero) by the amount of contributions an employer would be required to make under paragraph (1), (2), or (4) of section 1056(g) of this title to avoid a benefit limitation which would otherwise be imposed under such paragraph for the preceding plan year. Any contribution which may be taken into account in satisfying the requirements of more than 1 of such paragraphs shall be taken into account only once for purposes of this clause.
 
 #### (C) Decrease
 
@@ -522,7 +522,7 @@ For purposes of this section—
 
 #### (B) Exception for small plans
 
-&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
+&emsp;&emsp;If, on each day during the preceding plan year, a plan had 100 or fewer participants, the plan may designate any day during the plan year as its valuation date for such plan year and succeeding plan years. For purposes of this subparagraph, all defined benefit plans which are single-employer plans and are maintained by the same employer (orany member of such employer's controlled group) shall be treated as 1 plan, but only participants with respect to such employer or member shall be taken into account.
 
 #### (C) Application of certain rules in determination of plan size
 
@@ -624,7 +624,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of theTreasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
+&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary of the Treasury shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
 
 #### (II) Applicable minimum percentage; applicable maximum percentage
 
@@ -632,11 +632,11 @@ For purposes of this section—
 
 | If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
 | :--- | :---: | ---: |
-| 2012, 2013, 2014, 2015, 2016, or 2017 | 90% | 110% |
-| 2018 | 85% | 115% |
-| 2019 | 80% | 120% |
-| 2020 | 75% | 125% |
-| After 2020 | 70% | 130% |
+| 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020 | 90% | 110% |
+| 2021 | 85% | 115% |
+| 2022 | 80% | 120% |
+| 2023 | 75% | 125% |
+| After 2023 | 70% | 130% |
 
 #### (D) Corporate bond yield curve
 
@@ -656,7 +656,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary of the Treasury shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 1055(g)(3)(B)(iii)(I) <sup>2</sup> of this title for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary of the Treasury shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates forfuture months based on the plan's projection of future interest rates.
 
 #### (3) Mortality tables
 
@@ -688,7 +688,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) there is a sufficient number of plan participants, and the pension plans have been maintained for a sufficient period of time, to have credible information necessary for purposes of subclause (II), and
 
-&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintainedby the sponsor and projected trends in general mortality experience.
+&emsp;&emsp;&emsp;&emsp;(II) such table reflects the actual experience of the pension plans maintained by the sponsor and projected trends in general mortality experience.
 
 #### (iv) All plans in controlled group must use separate table
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directlyto a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
+&emsp;&emsp;&emsp;&emsp;(II) any manufacturer of automobile parts which supplies such parts directly to a manufacturer of automobiles and which, after a transaction or series of transactions ending in 1999, ceased to be a member of a controlled group which included such manufacturer of automobiles.
 
 #### (5) Transition between applicable funding targets and between applicable target normal costs
 
@@ -987,7 +987,7 @@ For purposes of this section—
 
 #### (C) Period of underpayment
 
-&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of the quarter in which the due date for such installment occurs.
+&emsp;&emsp;For purposes of paragraph (3)(A), any portion of an installment that is treated as not paid under subparagraph (A) shall continue to be treated as unpaid until the close of thequarter in which the due date for such installment occurs.
 
 #### (D) Limitation on increase
 
@@ -1071,7 +1071,7 @@ For purposes of this section—
 
 #### (C) Certain rules to apply
 
-&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treated as taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
+&emsp;&emsp;Any amount with respect to which a lien is imposed under paragraph (1) shall be treatedas taxes due and owing the United States and rules similar to the rules of subsections (c), (d), and (e) of section 1368 of this title shall apply with respect to a lien imposed by subsection (a) and the amount with respect to such lien.
 
 #### (5) Enforcement
 
@@ -1097,7 +1097,7 @@ For purposes of this section—
 
 In the case of a qualified transfer (as defined in section 420 of title 26), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046.)
+(Pub. L. 93–406, title I, §303, as added Pub. L. 109–280, title I, §102(a), Aug. 17, 2006, 120 Stat. 789; amended Pub. L. 110–458, title I, §§101(b)(1), 121(a), title II, §202(a), Dec. 23, 2008, 122 Stat. 5093, 5113, 5117; Pub. L. 111–192, title II, §§201(a), 204(a), June 25, 2010, 124 Stat. 1283, 1300; Pub. L. 112–141, div. D, title II, §40211(b)(1), (3)(A), July 6, 2012, 126 Stat. 847, 849; Pub. L. 113–159, title II, §2003(b)(1), (d)(2), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(ii), (D)(ii), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(b)(1), Nov. 2, 2015, 129 Stat. 593.)
 
 #### References in Text
 
@@ -1113,19 +1113,13 @@ A prior section 1083, Pub. L. 93–406, title I, §303, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2020 and for calendar years after 2020.
+
 <b>2014</b>—Subsec. (c)(5). Pub. L. 113–295, §221(a)(57)(C)(ii), struck out subpar. (A) designation and heading and struck out subpar. (B) which related to transition rule and availability of transition relief.
 
 Subsec. (h)(2)(B)(i). Pub. L. 113–159, §2003(d)(2), substituted "the valuation date for the plan year" for "the first day of the plan year".
 
-Subsec. (h)(2)(C)(iv)(II). Pub. L. 113–159, §2003(b)(1), amended table generally. Prior to amendment, table read as follows:
-
-| "If the calendar year is: | Theapplicableminimumpercentage is: | Theapplicablemaximumpercentage is: |
-| :--- | :---: | ---: |
-| 2012 | 90% | 110% |
-| 2013 | 85% | 115% |
-| 2014 | 80% | 120% |
-| 2015 | 75% | 125% |
-| After 2015 | 70% | 130%." |
+Subsec. (h)(2)(C)(iv)(II). Pub. L. 113–159, §2003(b)(1), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for each calendar year from 2012 to 2015 and for calendar years after 2015.
 
 Subsec. (h)(2)(G). Pub. L. 113–295, §221(a)(57)(D)(ii), struck out subpar. (G) which related to transition rule for plan years beginning in 2008 or 2009.
 
@@ -1172,6 +1166,10 @@ Subsec. (j)(3)(A). Pub. L. 110–458, §101(b)(1)(G)(i), inserted last sentence.
 Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternate valuation date" for "and short years" in heading and added cl. (iii).
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section" after "subsection (j)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 

@@ -22,7 +22,7 @@
 
 (B) In the case of any product described in paragraph (1) which is identified (or is part of a class identified) as a major source of noise in a report published under section 4904(b)(1) of this title after publication of the initial proposed regulations under subparagraph (A) of this paragraph, regulations under paragraph (1) for such product shall be proposed and published by the Administrator not later than eighteen months after such report is published.
 
-(3) After proposed regulations respecting a product have been published under paragraph\(2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
+(3) After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c) of this section, for such product—
 
 &emsp;(A) not earlier than six months after publication of such proposed regulations, and
 
@@ -42,7 +42,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 (2) After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of section 553(c) of title 5.
 
-(3) The Administrator may revise any regulation prescribed by him under this section by (A) publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
+(3) The Administrator may revise any regulation prescribed by him under this section by (A)publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.
 
 #### (d) Warranty by manufacturer of conformity of product with regulations; transfer of cost obligation from manufacturer to dealer prohibited
 
@@ -64,7 +64,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 #### (f) Publication of notice of receipt of revision petitions and proposed revised regulations
 
-At any time after the promulgation of regulations respecting a product under this section, aState or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
+At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
 
 (Pub. L. 92–574, §6, Oct. 27, 1972, 86 Stat. 1237; Pub. L. 95–609, §5, Nov. 8, 1978, 92 Stat. 3081.)
 

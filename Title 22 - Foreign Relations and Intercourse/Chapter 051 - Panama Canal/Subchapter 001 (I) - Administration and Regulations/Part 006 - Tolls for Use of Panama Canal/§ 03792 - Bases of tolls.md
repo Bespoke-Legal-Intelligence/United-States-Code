@@ -20,7 +20,7 @@ The levy of tolls is subject to the provisions of section 1 of Article III of th
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "and supply ships" for "supply ships, and yachts" and inserted at end "Tolls for small vessels (including yachts), as defined by the Commission, may be set at rates determined by the Commission without regard to the preceding provisions of this subsection."
+<b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "and supply ships" for "supply ships, and yachts" and inserted at end "Tolls for small vessels (including yachts), asdefined by the Commission, may be set at rates determined by the Commission without regard to the preceding provisions of this subsection."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–484, §3513, inserted ", or its equivalent," after "earning capacity".
 

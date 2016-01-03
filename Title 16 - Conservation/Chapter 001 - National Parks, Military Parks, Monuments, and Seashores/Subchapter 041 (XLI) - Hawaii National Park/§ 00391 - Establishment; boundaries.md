@@ -56,7 +56,7 @@ Beginning at a point on the west edge of the Keamoku Aa Flow (lava flow of 1823)
 
 25\. Fifty-one degrees fifty minutes and thirty seconds five thousand four hundred and thirty feet across the land of Kapapala;
 
-26\. One hundred and two degrees and fifty minutes nineteen thousand one hundred and fiftyfeet across same to a small cone about one thousand five hundred feet southwest of "Puu Koae";
+26\. One hundred and two degrees and fifty minutes nineteen thousand one hundred and fifty feet across same to a small cone about one thousand five hundred feet southwest of "Puu Koae";
 
 27\. One hundred and sixty-six degrees and twenty minutes twenty-one thousand feet across the land of Kapapala to the point of beginning; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 

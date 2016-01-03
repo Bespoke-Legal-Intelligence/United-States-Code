@@ -1,6 +1,6 @@
 ### §3301. Rate of tax
 
-There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to—
+There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar yearan excise tax, with respect to having individuals in his employ, equal to—
 
 &emsp;(1) 6.2 percent in the case of calendar years 1988 through 2010 and the first 6 months of calendar year 2011; or
 
@@ -86,7 +86,7 @@ Pub. L. 101–508, title XI, §11333(b), Nov. 5, 1990, 104 Stat. 1388–470, pro
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9153(b), Dec. 22, 1987, 101 Stat. 1330–326, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to wages paid on or after January 1, 1988."
+Pub. L. 100–203, title IX, §9153(b), Dec. 22, 1987, 101 Stat. 1330–326, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to wages paid on or after January 1, 1988."
 
 #### Effective Date of 1982 Amendment
 

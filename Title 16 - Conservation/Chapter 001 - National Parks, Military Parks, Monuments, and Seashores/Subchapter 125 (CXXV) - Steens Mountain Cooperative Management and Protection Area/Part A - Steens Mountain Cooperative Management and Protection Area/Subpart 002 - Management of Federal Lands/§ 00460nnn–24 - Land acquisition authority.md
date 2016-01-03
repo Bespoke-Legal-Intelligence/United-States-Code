@@ -4,7 +4,7 @@
 
 #### (1) Acquisition authorized
 
-&emsp;In addition to the land acquisitions authorized by part F of this subchapter, the Secretary may acquire other non-Federal lands and interests in lands located within the boundaries of the Cooperative Management and Protection Area or the Wilderness Area.
+&emsp;In addition to the land acquisitions authorized by part F, the Secretary may acquire other non-Federal lands and interests in lands located within the boundaries of the Cooperative Management and Protection Area or the Wilderness Area.
 
 #### (2) Acquisition methods
 
@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter that are located within the boundaries of the Cooperative Management and Protection Area shall—
+&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a) or part F that are located within the boundaries of the Cooperative Management and Protection Area shall—
 
 &emsp;&emsp;(A) become part of the Cooperative Management and Protection Area; and
 
@@ -22,15 +22,15 @@
 
 #### (2) Lands within Wilderness Area
 
-&emsp;If lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
+&emsp;If lands or interests in lands acquired under subsection (a) or part F are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
 
 &emsp;&emsp;(A) become part of the Wilderness Area; and
 
-&emsp;&emsp;(B) be managed pursuant to part B of this subchapter and the other laws applicable to the Wilderness Area.
+&emsp;&emsp;(B) be managed pursuant to part B and the other laws applicable to the Wilderness Area.
 
 #### (3) Lands within wilderness study area
 
-&emsp;If the lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter are within the boundaries of a wilderness study area, the acquired lands or interests in lands shall—
+&emsp;If the lands or interests in lands acquired under subsection (a) or part F are within the boundaries of a wilderness study area, the acquired lands or interests in lands shall—
 
 &emsp;&emsp;(A) become part of that wilderness study area; and
 

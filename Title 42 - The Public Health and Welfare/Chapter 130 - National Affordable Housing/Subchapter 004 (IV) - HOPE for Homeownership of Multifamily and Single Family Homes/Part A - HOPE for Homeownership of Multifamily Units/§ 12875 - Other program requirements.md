@@ -50,7 +50,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (e) Third party rights
 
-The requirements under this part regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, and any agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
+The requirements under this part regarding quality standards, resale, or transfer of the ownership interest of a homeowner shall be judicially enforceable against the grant recipient with respect to actions involving rehabilitation, and against purchasers of property under this subsection or their successors in interest with respect to other actions by affected low-income families, resident management corporations, resident councils, public housing agencies, andany agency, corporation, or authority of the United States Government. The parties specified in the preceding sentence shall be entitled to reasonable attorney fees upon prevailing in any such judicial action.
 
 #### (f) Dollar limitation on economic development activities
 
@@ -58,7 +58,7 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (g) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period oftime that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (h) Records and audit of recipients of assistance
 

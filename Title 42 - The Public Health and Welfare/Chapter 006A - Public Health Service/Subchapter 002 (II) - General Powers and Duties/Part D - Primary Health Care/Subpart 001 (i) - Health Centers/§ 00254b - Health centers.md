@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term "health center" means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agricultural workers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
+&emsp;For purposes of this section, the term "health center" means an entity that serves a population that is medically underserved, or a special medically underserved population comprised of migratory and seasonal agriculturalworkers, the homeless, and residents of public housing, by providing, either through the staff and supporting resources of the center or through contracts or cooperative arrangements—
 
 &emsp;&emsp;(A) required primary health services (as defined in subsection (b)(1) of this section); and
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "medically underserved population" means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
+&emsp;&emsp;The term "medically underserved population" means the population of an urban orrural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services.
 
 #### (B) Criteria
 
@@ -246,7 +246,7 @@ For purposes of this section:
 
 #### (ii) Modification of terms and conditions
 
-&emsp;&emsp;&emsp;To the extent permitted by clause (iii) and subject to the requirements of section 504(e) of the Credit Reform Act of 1990 (2 U.S.C. 661c(e)), any terms and conditions applicable to a loan guarantee under this subsection (including terms and conditions imposed under clause (iv)) may be modified or waived by the Secretary to the extent the Secretary determines it to be consistent with the financial interest of the United States.
+&emsp;&emsp;&emsp;To the extent permitted by clause (iii) and subject to the requirements of section 504(e) of the Credit Reform Act of 1990 (2 U.S.C. 661c(e)), any terms and conditionsapplicable to a loan guarantee under this subsection (including terms and conditions imposed under clause (iv)) may be modified or waived by the Secretary to the extent the Secretary determines it to be consistent with the financial interest of the United States.
 
 #### (iii) Incontestability
 
@@ -306,7 +306,7 @@ For purposes of this section:
 
 #### (C) Operation of networks and plans
 
-&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section, or at the request of the health centers, directly to a network or plan (as described in subparagraphs (B) and (C) of subsection (c)(1) of this section) that is at least majority controlled and, as applicable, at least majority owned by such health centers receiving assistance under this section, for the costs associated with the operation of such network or plan, including the purchase or lease of equipment (including the costs of amortizing the principal of, and paying the interest on, loans for equipment).
+&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section, or at the request of the health centers, directly to a network or plan (as described in subparagraphs (B) and (C) of subsection (c)(1) of this section) that is at least majority controlled and, as applicable, at least majority owned by such health centers receiving assistance under this section, forthe costs associated with the operation of such network or plan, including the purchase or lease of equipment (including the costs of amortizing the principal of, and paying the interest on, loans for equipment).
 
 #### (2) Use of funds
 
@@ -526,7 +526,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing in the catchment area or included in such population group.
 
-> &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. Inconsidering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
+> &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. In considering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
 
 #### (3) Requirements
 
@@ -534,7 +534,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the required primary health services of the center will be available and accessible in the catchment area of the center promptly, as appropriate, and in a manner which assures continuity;
 
-&emsp;&emsp;(B) the center has made and will continue to make every reasonable effort to establish and maintain collaborative relationships with other health care providers in the catchment area of the center;
+&emsp;&emsp;(B) the center has made and will continue to make every reasonable effort to establishand maintain collaborative relationships with other health care providers in the catchment area of the center;
 
 &emsp;&emsp;(C) the center will have an ongoing quality improvement system that includes clinical services and management, and that maintains the confidentiality of patient records;
 
@@ -654,7 +654,7 @@ The Secretary may delegate the authority to administer the programs authorized b
 
 #### (p) Special consideration
 
-In making grants under this section, the Secretary shall give special consideration to the unique needs of sparsely populated rural areas, including giving priority in the awarding of grants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
+In making grants under this section, the Secretary shall give special consideration to the unique needs of sparsely populated rural areas, including giving priority in the awarding ofgrants for new health centers under subsections (c) and (e) of this section, and the granting of waivers as appropriate and permitted under subsections (b)(1)(B)(i) and (k)(3)(G) of this section.
 
 #### (q) Audits
 
@@ -714,7 +714,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (B) Distribution of grants
 
-&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awardinggrants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
+&emsp;&emsp;For fiscal year 2002 and each of the following fiscal years, the Secretary, in awarding grants under this section, shall ensure that the proportion of the amount made available under each of subsections (g), (h), and (i) of this section, relative to the total amount appropriated to carry out this section for that fiscal year, is equal to the proportion of the amount made available under that subsection for fiscal year 2001, relative to the total amount appropriated to carry out this section for fiscal year 2001.
 
 #### (3) Funding report
 
@@ -724,7 +724,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center from contracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>3</sup>
+&emsp;&emsp;Nothing in this section shall be construed to prevent a community health center fromcontracting with a Federally certified rural health clinic (as defined in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\]), a low-volume hospital (as defined for purposes of section 1886 of such Act \[42 U.S.C. 1395ww\]), a critical access hospital, a sole community hospital (as defined for purposes of section 1886(d)(5)(D)(iii) of such Act), or a medicare-dependent share hospital (as defined for purposes of section 1886(d)(5)(G)(iv) of such Act) for the delivery of primary health care services that are available at the clinic or hospital to individuals who would otherwise be eligible for free or reduced cost care if that individual were able to obtain that care at the community health center. Such services may be limited in scope to those primary health care services available in that clinic or hospitals.<sup>3</sup>
 
 #### (B) Assurances
 
@@ -790,7 +790,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX\(§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -800,7 +800,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub
 
 A prior section 254a–1, act July 1, 1944, ch. 373, title III, §328, as added Nov. 10, 1978, Pub. L. 95–626, title I, §114, 92 Stat. 3563; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, related to hospital-affiliated primary care centers, prior to repeal by Pub. L. 99–117, §12(c), Oct. 7, 1985, 99 Stat. 495.
 
-A prior section 254b, act July 1, 1944, ch. 373, title III, §329, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414; Aug. 1, 1977, Pub. L. 95–83, title III, §303, 91 Stat. 388; renumbered §329 and amended Nov. 10, 1978, Pub. L. 95–626, title I, §§102(a), 103(a)–(g)(1)(B), (2), (h), (i), 92 Stat. 3551–3555; July 10, 1979, Pub. L. 96–32, §6(a), 93 Stat. 83; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title IX, §930, 95 Stat. 569; Dec. 21, 1982, Pub. L. 97–375, title I, §107(b), 96 Stat. 1820; Apr. 24, 1986, Pub. L. 99–280, §§6, 7, 100 Stat. 400, 401; Aug. 10, 1988, Pub. L. 100–386, §2, 102 Stat. 919; Nov. 6, 1990, Pub. L. 101–527, §9(b), 104 Stat. 2333; Oct. 27, 1992, Pub. L. 102–531, title III, §309(a), 106 Stat. 3499, related to migrant health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
+A prior section 254b, act July 1, 1944, ch. 373, title III, §329, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592; amended Aug. 5, 1965, Pub. L. 89–109, §3, 79 Stat. 436; Oct. 15, 1968, Pub. L. 90–574, title II, §201, 82 Stat. 1006; Mar. 12, 1970, Pub. L. 91–209, 84 Stat. 52; June 18, 1973, Pub. L. 93–45, title I, §105, 87 Stat. 91; renumbered §319, July 23, 1974, Pub. L. 93–353, title I, §102(d), 88 Stat. 362; amended July 29, 1975, Pub. L. 94–63, title IV, §401(a), title VII, §701(c), 89 Stat. 334, 352; Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(a), 90 Stat. 414; Aug. 1, 1977, Pub. L. 95–83, title III, §303, 91 Stat. 388; renumbered §329 and amended Nov. 10, 1978, Pub. L.95–626, title I, §§102(a), 103(a)–(g)(1)(B), (2), (h), (i), 92 Stat. 3551–3555; July 10, 1979, Pub. L. 96–32, §6(a), 93 Stat. 83; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title IX, §930, 95 Stat. 569; Dec. 21, 1982, Pub. L. 97–375, title I, §107(b), 96 Stat. 1820; Apr. 24, 1986, Pub. L. 99–280, §§6, 7, 100 Stat. 400, 401; Aug. 10, 1988, Pub. L. 100–386, §2, 102 Stat. 919; Nov. 6, 1990, Pub. L. 101–527, §9(b), 104 Stat. 2333; Oct. 27, 1992, Pub. L. 102–531, title III, §309(a), 106 Stat. 3499, related to migrant health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 Another prior section 254b, act July 1, 1944, ch. 373, title III, §329, as added Dec. 31, 1970, Pub. L. 91–623, §2, 84 Stat. 1868; amended Nov. 18, 1971, Pub. L. 92–157, title II, §203, 85 Stat. 462; Oct. 27, 1972, Pub. L. 92–585, §2, 86 Stat. 1290; July 29, 1975, Pub. L. 94–63, title VIII, §§801–803, 89 Stat. 353, 354; Oct. 12, 1976, Pub. L. 94–484, title I, §101(b), 90 Stat. 2244, related to establishment of National Health Service Corps, assignment of personnel and statement of purpose, prior to repeal by Pub. L. 94–484, title IV, §407(b)(1), Oct. 12, 1976, 90 Stat. 2268. See section 254d et seq. of this title.
 
@@ -862,7 +862,7 @@ Subsec. (r). Pub. L. 108–163, §2(a)(2)(F), redesignated subsec. (l) as (r).
 
 Pub. L. 108–163, §2(a)(1)(C), amended subsec. (r) to read as if pars. (8) through (11) of section 101 of Pub. L. 107–251 had not been enacted. See 2002 Amendment note below.
 
-Subsec. (r)(1). Pub. L. 108–163, §2(a)(2)(J)(i), substituted "$1,340,000,000 for fiscal year 2002 and suchsums as may be necessary for each of the fiscal years 2003 through 2006" for "$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001".
+Subsec. (r)(1). Pub. L. 108–163, §2(a)(2)(J)(i), substituted "$1,340,000,000 for fiscal year 2002 and such sums as may be necessary for each of the fiscal years 2003 through 2006" for "$802,124,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001".
 
 Subsec. (r)(2)(A). Pub. L. 108–163, §2(a)(2)(J)(ii), substituted "(k)(3)" for "(j)(3)" and "(k)(3)(H)" for "(j)(3)(G)(ii)".
 
@@ -882,7 +882,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 107–251, §101(2)(A), substituted "associated wi
 
 Subsec. (b)(2)(B) to (D). Pub. L. 107–251, §101(2)(B), (C), added subpar. (B) and redesignated former subpars. (A) and (B) as (C) and (D), respectively.
 
-Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: "Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans."
+Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: "Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizingthe principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans."
 
 Pub. L. 107–251, §101(3)(A)(ii), in introductory provisions, substituted "managed care network or plan." for "network or plan for the provision of health services, which may include the provision of health services on a prepaid basis or through another managed care arrangement, to some or to all of the individuals which the centers serve".
 
@@ -948,7 +948,7 @@ Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j)
 
 Subsecs. (n) to (p). Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
-Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of "(l)(3)(G)" for "(j)(3)(G)" in subsec.\(q) "(as redesignated by paragraph (9)(B))", could not be executed.
+Subsec. (q). Pub. L. 107–251, §101(10), which directed the substitution of "(l)(3)(G)" for "(j)(3)(G)" in subsec. (q) "(as redesignated by paragraph (9)(B))", could not be executed.
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (o), and (p) through (s), respectively, could not be executed.
 
@@ -968,7 +968,7 @@ Pub. L. 110–355, §2(c)(2), Oct. 8, 2008, 122 Stat. 3992, provided that: "The 
 
 #### Effective Date of 2003 Amendment
 
-Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L.107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 
@@ -1136,7 +1136,7 @@ Memorandum of President of the United States, Dec. 9, 2009, 74 F.R. 66207, provi
 
 Memorandum for the Secretary of Health And Human Services
 
-My Administration is committed to building a high-quality, efficient health care system and improving access to health care for all Americans. Health centers are a vital part of the health care delivery system. For more than 40 years, health centers have served populations with limited access to health care, treating all patients regardless of ability to pay. These include low-income populations, the uninsured, individuals with limited English proficiency, migrant and seasonal farm workers, individuals and families experiencing homelessness, and individuals living in public housing. Thereare over 1,100 health centers across the country, delivering care at over 7,500 sites. These centers served more than 17 million patients in 2008 and are estimated to serve more than 20 million patients in 2010.
+My Administration is committed to building a high-quality, efficient health care system and improving access to health care for all Americans. Health centers are a vital part of the health care delivery system. For more than 40 years, health centers have served populations with limited access to health care, treating all patients regardless of ability to pay. These include low-income populations, the uninsured, individuals with limited English proficiency, migrant and seasonal farm workers, individuals and families experiencing homelessness, and individuals living in public housing. There are over 1,100 health centers across the country, delivering care at over 7,500 sites. These centers served more than 17 million patients in 2008 and are estimated to serve more than 20 million patients in 2010.
 
 The American Recovery and Reinvestment Act of 2009 (Recovery Act) provided $2 billion for health centers, including $500 million to expand health centers' services to over 2 million new patients by opening new health center sites, adding new providers, and improving hours of operations. An additional $1.5 billion is supporting much-needed capital improvements, including funding to buy equipment, modernize clinic facilities, expand into new facilities, and adopt or expand the use of health information technology and electronic health records.
 

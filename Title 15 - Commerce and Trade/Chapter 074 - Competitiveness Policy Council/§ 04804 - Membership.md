@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iv) one shall be a representative of State or local government.
 
-(2) In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv) of this section, other Federal officials may participate on an ex-officio basis as requested by the Council.
+(2) In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv), other Federal officials may participate on an ex-officio basis as requested by the Council.
 
 (3) All members of the Council shall be individuals who have a broad understanding of the United States economy and the United States competitive position internationally.
 
@@ -84,7 +84,7 @@ The Council shall meet at the call of the chairperson or a majority of the membe
 
 #### (j) Policy actions
 
-Except as provided in subsection (g) of this section, no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
+Except as provided in subsection (g), no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
 
 #### (k) Alternate members
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 101–382, §133(a)(2), added subsec. (f) and struck out fo
 
 &emsp;"(A) shall be compensated at a rate equal to the daily equivalent of the rate for GS–18 of the General Schedule pursuant to section 5332 of title 5 for each day such member is engaged in duties as a member of the Council; and
 
-&emsp;"(B) shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away fromthe usual place of residence of such member, in accordance with section 5703 of such title.
+&emsp;"(B) shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with section 5703 of such title.
 
 "(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5."
 

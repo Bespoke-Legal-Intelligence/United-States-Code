@@ -12,5 +12,5 @@ There are authorized to be appropriated $2,000,000 to carry out subsection (a).
 
 #### Delegation of Functions
 
-For delegation of certain functions of President under this section, see section 3(a) of Ex. Ord. No. 12884,Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
+For delegation of certain functions of President under this section, see section 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 

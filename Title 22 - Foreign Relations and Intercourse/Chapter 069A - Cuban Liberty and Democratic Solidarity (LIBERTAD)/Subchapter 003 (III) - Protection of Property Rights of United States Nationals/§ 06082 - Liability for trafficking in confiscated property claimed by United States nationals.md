@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) a person who is to be joined as a defendant in the action,
 
-> &emsp;at least 30 days before initiating the action or joining such person as a defendant, as the case may be, and that person, after the end of the 30-day period beginning on the date the notice is provided, traffics in the confiscated property that is the subject of the action, then that person shall be liable to that claimant for damages computed in accordance with subparagraph (C).
+> &emsp;at least 30 days before initiating the action or joining such person as a defendant, as the case may be, and that person, after the end of the30-day period beginning on the date the notice is provided, traffics in the confiscated property that is the subject of the action, then that person shall be liable to that claimant for damages computed in accordance with subparagraph (C).
 
 &emsp;(C) Damages for which a person is liable under subparagraph (A) or subparagraph (B) are money damages in an amount equal to the sum of—
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) In the case of any action brought under this section by a United States national whose underlying claim in the action was timely filed with the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 but was denied by the Commission, the court shall accept the findings of the Commission on the claim as conclusive in the action under this section.
 
-&emsp;(C) A United States national, other than a United States national bringing an action under this section on a claim certified undertitle V of the International Claims Settlement Act of 1949, may not bring an action on a claim under this section before the end of the 2-year period beginning on March 12, 1996.
+&emsp;(C) A United States national, other than a United States national bringing an action under this section on a claim certified under title V of the International Claims Settlement Act of 1949, may not bring an action on a claim under this section before the end of the 2-year period beginning on March 12, 1996.
 
 &emsp;(D) An interest in property for which a United States national has a claim certified under title V of the International Claims Settlement Act of 1949 may not be the subject of a claim in an action under this section by any other person. Any person bringing an action under this section whose claim has not been so certified shall have the burden of establishing for the court that the interest in property that is the subject of the claim is not the subject of a claim so certified.
 
@@ -78,7 +78,7 @@
 
 #### (7) Licenses not required
 
-&emsp;(A) Notwithstanding any other provision of law, an action under this section may be brought and may be settled, and a judgment rendered in such action may be enforced, without obtaining any license or other permission from any agency of the United States, except that this paragraph shall not apply to the execution of a judgment against, or the settlement of actions involving, property blocked under the authorities of section 5(b) of title 50, Appendix, that were being exercised on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on March 12, 1996.
+&emsp;(A) Notwithstanding any other provision of law, an action under this section may be brought and may be settled, and a judgment rendered in such action may be enforced, without obtaining any license or other permission from any agency of the United States, except that this paragraph shall not apply to the execution of a judgment against, or the settlement of actions involving, property blocked under the authorities of section 4305(b) of title 50, that were being exercised on July 1, 1977, as a result of a national emergency declared by the President before such date, and are being exercised on March 12, 1996.
 
 &emsp;(B) Notwithstanding any other provision of law, and for purposes of this subchapter only, any claim against the Cuban Government shall not be deemed to be an interest in property the transfer of which to a United States national required before March 12, 1996, or requires after March 12, 1996, a license issued by, or the permission of, any agency of the United States.
 
@@ -94,7 +94,7 @@ An action may be brought under this section by a United States national only whe
 
 #### (1) In general
 
-&emsp;Except as provided in this subchapter, the provisions of title 28 and the rules of the courts of the United States apply to actions under this section to the same extent as such provisions and rules apply to any other action brought under section 1331 of title 28.
+&emsp;Except as provided in this subchapter, the provisions of title 28 and the rules of thecourts of the United States apply to actions under this section to the same extent as such provisions and rules apply to any other action brought under section 1331 of title 28.
 
 #### (2) Service of process
 
@@ -124,7 +124,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(ii) if the recovery in the action is less than the amount of the certified claim, the United States national may receive payment under a claims agreement described in clause (i) but only to the extent of the difference between the amount of the recovery and the amount of the certified claim; and
 
-&emsp;&emsp;(iii) if there is no recovery in the action, the United States national may receive payment on the certified claim under a claimsagreement described in clause (i) to the same extent as any certified claimant who does not bring an action under this section.
+&emsp;&emsp;(iii) if there is no recovery in the action, the United States national may receive payment on the certified claim under a claims agreement described in clause (i) to the same extent as any certified claimant who does not bring an action under this section.
 
 &emsp;(B) In the event some or all actions brought under this section are consolidated by judicial or other action in such manner as to create a pool of assets available to satisfy the claims in such actions, including a pool of assets in a proceeding in bankruptcy, every claimant whose claim in an action so consolidated was certified by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] shall be entitled to payment in full of its claim from the assets in such pool before any payment is made from the assets in such pool with respect to any claim not so certified.
 
@@ -156,7 +156,7 @@ The Judicial Conference of the United States shall establish a uniform fee that 
 
 For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determined pursuant to suspension authority of President see section 6085 of this title.
 
-The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and\(g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original "this title", meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 

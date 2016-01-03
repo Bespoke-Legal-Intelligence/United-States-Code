@@ -18,7 +18,7 @@
 
 #### (3) Exclusion of property
 
-&emsp;At the request of the authorized representative of the Tennessee Valley Authority, the Secretary may exclude movable property from transfer based on a showing by the Tennessee Valley Authority that the property is vital to the mission of the Tennessee Valley Authority and cannot be replaced in a cost-effective manner, if the Secretary determines that the property is not needed for management of the Recreation Area.
+&emsp;At the request of the authorized representative of the Tennessee Valley Authority, the Secretary may exclude movable property from transfer based on a showing by the Tennessee Valley Authority that the property is vital tothe mission of the Tennessee Valley Authority and cannot be replaced in a cost-effective manner, if the Secretary determines that the property is not needed for management of the Recreation Area.
 
 #### (b) Designation
 
@@ -46,5 +46,5 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### Codification
 
-In subsec. (d)(1)(B), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works,and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(1)(B), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

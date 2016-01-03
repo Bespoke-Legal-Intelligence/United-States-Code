@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President may appoint, by and with the advice and consent of the Senate, twelve officers in the agency primarily responsible for administering subchapter I of this chapter, and in the selection of one of such persons due consideration shall be given to persons qualified as professional engineers.
+The President may appoint, by and with the advice and consent of the Senate, twelve officersin the agency primarily responsible for administering subchapter I of this chapter, and in the selection of one of such persons due consideration shall be given to persons qualified as professional engineers.
 
 #### (b) Rate of compensation; title of officers; order of succession
 

@@ -8,10 +8,13 @@
 | [6304\.](%C2%A7%2006304%20-%20Fair%20tax%20collection%20practices.md) | Fair tax collection practices. |
 | [6305\.](%C2%A7%2006305%20-%20Collection%20of%20certain%20liability.md) | Collection of certain liability. |
 | [6306\.](%C2%A7%2006306%20-%20Qualified%20tax%20collection%20contracts.md) | Qualified tax collection contracts. |
+| [6307\.](%C2%A7%2006307%20-%20Special%20compliance%20personnel%20program%20account.md) | Special compliance personnel program account. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. C, title XXXII, §32103(c), Dec. 4, 2015, 129 Stat. 1737, added item 6307.
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §881(a)(2)(B), Oct. 22, 2004, 118 Stat. 1626, added item 6306.
 
@@ -32,3 +35,4 @@
 - [&sect; 06304 - Fair tax collection practices](%C2%A7%2006304%20-%20Fair%20tax%20collection%20practices.md)
 - [&sect; 06305 - Collection of certain liability](%C2%A7%2006305%20-%20Collection%20of%20certain%20liability.md)
 - [&sect; 06306 - Qualified tax collection contracts](%C2%A7%2006306%20-%20Qualified%20tax%20collection%20contracts.md)
+- [&sect; 06307 - Special compliance personnel program account](%C2%A7%2006307%20-%20Special%20compliance%20personnel%20program%20account.md)

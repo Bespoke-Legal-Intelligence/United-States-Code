@@ -2,7 +2,7 @@
 
 (a)
 
-Availability for Adoption.—The Secretary of the military department concerned may make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
+Availability for Adoption.—The Secretary of the military department concernedshall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
 
 &emsp;(1) At the end of the animal's useful life.
 
@@ -16,7 +16,15 @@ Suitability for Adoption.—The decision whether a particular military animal is
 
 (c)
 
-Authorized Recipients.—Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
+Authorized Recipients.—(1) A military animal shall be made available for adoption under this section, in order of recommended priority—
+
+&emsp;(A) by former handlers of the animal;
+
+&emsp;(B) by other persons capable of humanely caring for the animal; and
+
+&emsp;(C) by law enforcement agencies.
+
+(2) If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog shall be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
 (d)
 
@@ -30,13 +38,27 @@ Limitations on Liability for Transferred Animals.—(1) Notwithstanding any othe
 
 (f)
 
-Transfer of Retired Military Working Dogs.—If the Secretary of the military department concerned determines that a military working dog should be retired, and no suitable adoption is available at the military facility where the dog is located, the Secretary may transfer the dog—
+Transfer of Retired Military Working Dogs.—(1) If the Secretary of the military department concerned determines that a military working dog should be retired the Secretary shall transfer the dog—
 
-&emsp;(1) to the 341st Training Squadron; or
+&emsp;(A) to the 341st Training Squadron; or
 
-&emsp;(2) to another location for adoption under this section.
+&emsp;(B) to another location within the United States for adoption under this section.
+
+(2) Paragraph (1) shall not apply if at the time of retirement—
+
+&emsp;(A) the dog is located outside the United States and a United States citizen or service member living abroad adopts the dog; or
+
+&emsp;(B) the dog is located within the United States and suitable adoption is available where the dog is located.
 
 (g)
+
+Preference in Adoption of Retired Military Working Dogs for Former Handlers.—(1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
+
+(2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dog and such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
+
+(3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the adoption of military working dogs by law enforcement agencies before the end of the dogs' useful lives.
+
+(h)
 
 Military Animal Defined.—In this section, the term "military animal" means the following:
 
@@ -44,9 +66,23 @@ Military Animal Defined.—In this section, the term "military animal" means the
 
 &emsp;(2) A horse owned by the Department of Defense.
 
-(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876.)
+(Added Pub. L. 106–446, §1(a), Nov. 6, 2000, 114 Stat. 1932, §2582; renumbered §2583, Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224; amended Pub. L. 109–163, div. A, title V, §599, Jan. 6, 2006, 119 Stat. 3284; Pub. L. 109–364, div. A, title III, §352(a), Oct. 17, 2006, 120 Stat. 2160; Pub. L. 110–181, div. A, title X, §1063(a)(13), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–81, div. A, title III, §351, title X, §1061(20), Dec. 31, 2011, 125 Stat. 1375, 1584; Pub. L. 112–239, div. A, title III, §371(a), Jan. 2, 2013, 126 Stat. 1706; Pub. L. 113–66, div. A, title X, §1091(b)(2), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–92, div. A, title III, §342, Nov. 25, 2015, 129 Stat. 793.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §342(a), substituted "shall make" for "may make" in introductory provisions.
+
+Subsec. (c). Pub. L. 114–92, §342(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler."
+
+Subsec. (f). Pub. L. 114–92, §342(d)(1), (2), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Pub. L. 114–92, §342(c), substituted "shall transfer" for "may transfer" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 114–92, §342(d)(3)(A), struck out ", and no suitable adoption is available at the military facility where the dog is located," after "should be retired" in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 114–92, §342(d)(3)(B), inserted "within the United States" after "to another location".
+
+Subsecs. (g), (h). Pub. L. 114–92, §342(e), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2013</b>—Subsecs. (f), (g). Pub. L. 112–239, §371(a), as amended by Pub. L. 113–66, §1091(b)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
 

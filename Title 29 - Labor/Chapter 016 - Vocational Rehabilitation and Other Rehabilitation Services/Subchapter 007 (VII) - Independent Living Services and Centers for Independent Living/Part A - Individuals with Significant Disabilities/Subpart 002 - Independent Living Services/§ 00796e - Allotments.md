@@ -28,7 +28,7 @@
 
 #### (3) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriatedto carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
 
 #### (b) Proportional reduction
 
@@ -36,7 +36,7 @@ To provide allotments to States in accordance with subsection (a)(1)(B) of this 
 
 #### (c) Reallotment
 
-Whenever the Administrator determines that any amount of an allotment to a State for anyfiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
+Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
 #### (d) Administration
 

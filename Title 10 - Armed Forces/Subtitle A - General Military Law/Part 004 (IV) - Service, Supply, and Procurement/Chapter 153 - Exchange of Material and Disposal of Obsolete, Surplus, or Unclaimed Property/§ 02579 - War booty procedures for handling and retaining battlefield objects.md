@@ -8,7 +8,7 @@ Policy.—The United States recognizes that battlefield souvenirs have tradition
 
 Regulations.—(1) The Secretary of Defense shall prescribe regulations for the handling of battlefield objects that are consistent with the policies expressed in subsection (a) and the requirements of this section.
 
-(2) When forces of the United States are operating in a theater of operations, enemy material captured or found abandoned shall be turned over to appropriate United States or allied military personnel except as otherwise provided in such regulations. A member of the armed forces (or other person under the authority of the armed forces in a theater of operations) may not (except in accordance with such regulations) take from a theater of operations as a souvenir an object formerly in the possession of the enemy.
+(2) When forces of the United States are operating in a theater of operations, enemy material captured or found abandoned shall be turned over to appropriate United States or allied military personnel except as otherwise provided in such regulations. A member of the armed forces (or other person under the authority of the armed forces in a theater of operations) may not (except in accordance with such regulations)take from a theater of operations as a souvenir an object formerly in the possession of the enemy.
 
 (3) Such regulations shall provide that a member of the armed forces who wishes to retain as a souvenir an object covered by paragraph (2) may so request at the time the object is turned over pursuant to paragraph (2).
 

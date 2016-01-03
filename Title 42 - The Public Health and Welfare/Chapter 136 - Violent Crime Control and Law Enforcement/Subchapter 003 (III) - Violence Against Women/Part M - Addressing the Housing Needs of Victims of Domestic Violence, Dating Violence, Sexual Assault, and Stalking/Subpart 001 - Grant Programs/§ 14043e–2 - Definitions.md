@@ -50,7 +50,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(iii) migratory children (as defined in section 6399 of title 20) who qualify as homeless under this section because the children are living in circumstances described in this paragraph;
 
-&emsp;(7) the term "homeless service provider" means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program thathas a documented history of effective work concerning homelessness;
+&emsp;(7) the term "homeless service provider" means a nonprofit, nongovernmental homeless service provider, such as a homeless shelter, a homeless service or advocacy program, a tribal organization serving homeless individuals, or coalition or other nonprofit, nongovernmental organization carrying out a community-based homeless or housing program that has a documented history of effective work concerning homelessness;
 
 &emsp;(8) the term "tribally designated housing" means housing assistance described in the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.); and
 
@@ -64,7 +64,7 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in par. (1)(E
 
 The Housing and Community Development Act of 1974, referred to in par. (1)(G), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. Par. (21) of section 4103 of Title 25 was redesignated par. (22) by Pub. L. 110–411, §3(2), Oct. 14, 2008, 122 Stat. 4320. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in pars. (8) and (9), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. Par. (21) of section 4103 of Title 25 wasredesignated par. (22) by Pub. L. 110–411, §3(2), Oct. 14, 2008, 122 Stat. 4320. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 &emsp;(A) The Secretary shall order old, sick, or lame animals to be destroyed in the most humane manner possible;
 
-&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horses and burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation, feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
+&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horsesand burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation, feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
 
 &emsp;(C) The Secretary shall cause additional excess wild free-roaming horses and burros for which an adoption demand by qualified individuals does not exist to be destroyed in the most humane and cost efficient manner possible.
 
@@ -26,7 +26,7 @@ Where excess animals have been transferred to a qualified individual for adoptio
 
 Wild free-roaming horses and burros or their remains shall lose their status as wild free-roaming horses or burros and shall no longer be considered as falling within the purview of this chapter—
 
-&emsp;(1) upon passage of title pursuant to subsection (c) of this section except for the limitation of subsection (c)(1) <sup>1</sup> of this section; or
+&emsp;(1) upon passage of title pursuant to subsection (c) except for the limitation of subsection (c)(1) <sup>1</sup> of this section; or
 
 &emsp;(2) if they have been transferred for private maintenance or adoption pursuant to this chapter and die of natural causes before passage of title; or
 

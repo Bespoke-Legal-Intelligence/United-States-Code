@@ -96,7 +96,7 @@ For purposes of this section, rules similar to the rules of paragraphs (5), (6),
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the abuse of the purposes of this section.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–594; amended Pub. L. 108–311, title III, §310(c)(2)(C), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(2)(C), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(2)(C), Oct. 3, 2008, 122 Stat. 3874.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-594; amended Pub. L. 108–311, title III, §310(c)(2)(C), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(2)(C), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(2)(C), Oct. 3, 2008, 122 Stat. 3874.)
 
 #### Amendments
 

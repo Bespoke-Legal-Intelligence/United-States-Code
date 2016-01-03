@@ -13,7 +13,7 @@
 | [971g.](%C2%A7%2000971g%20-%20Cooperation%20in%20carrying%20out%20Convention.md) | Cooperation in carrying out Convention. |
 | [971h.](%C2%A7%2000971h%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [971i.](%C2%A7%2000971i%20-%20Research%20on%20Atlantic%20highly%20migratory%20species.md) | Research on Atlantic highly migratory species. |
-| [971j.](%C2%A7%2000971j%20-%20Annual%20report.md) | Annual report. |
+| [971j.](%C2%A7%2000971j%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9381%2C%20title%20I%2C%20%C2%A7107%285%29%2C%20Nov.%205%2C%202015%2C%20129%20Stat.%20658.md) | Repealed. |
 | [971k.](%C2%A7%2000971k%20-%20Savings%20clause.md) | Savings clause. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,5 +34,5 @@
 - [&sect; 00971g - Cooperation in carrying out Convention](%C2%A7%2000971g%20-%20Cooperation%20in%20carrying%20out%20Convention.md)
 - [&sect; 00971h - Authorization of appropriations](%C2%A7%2000971h%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00971i - Research on Atlantic highly migratory species](%C2%A7%2000971i%20-%20Research%20on%20Atlantic%20highly%20migratory%20species.md)
-- [&sect; 00971j - Annual report](%C2%A7%2000971j%20-%20Annual%20report.md)
+- [&sect; 00971j - Repealed. Pub. L. 114&#8211;81, title I, &sect;107(5), Nov. 5, 2015, 129 Stat. 658](%C2%A7%2000971j%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9381%2C%20title%20I%2C%20%C2%A7107%285%29%2C%20Nov.%205%2C%202015%2C%20129%20Stat.%20658.md)
 - [&sect; 00971k - Savings clause](%C2%A7%2000971k%20-%20Savings%20clause.md)

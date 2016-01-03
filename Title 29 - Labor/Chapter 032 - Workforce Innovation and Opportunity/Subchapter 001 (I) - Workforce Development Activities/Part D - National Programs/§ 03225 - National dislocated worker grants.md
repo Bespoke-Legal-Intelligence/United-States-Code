@@ -30,7 +30,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the Governor of any State to which a substantial number of workers from an area in which an emergency or disaster has been declared or otherwise recognized have relocated;
 
-&emsp;&emsp;(C) to provide additional assistance to a State board or local board for eligible dislocated workers in a case in which the State board or local board has expended the funds provided under this section to carry out activities described in subparagraphs (A) and (B) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
+&emsp;&emsp;(C) to provide additional assistance to a State board or local board for eligible dislocated workers in a case in which the State board or local board has expended the fundsprovided under this section to carry out activities described in subparagraphs (A) and (B) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
 
 &emsp;&emsp;(D) to provide additional assistance to a State board or local board serving an area where—
 
@@ -140,5 +140,5 @@ This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 12
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

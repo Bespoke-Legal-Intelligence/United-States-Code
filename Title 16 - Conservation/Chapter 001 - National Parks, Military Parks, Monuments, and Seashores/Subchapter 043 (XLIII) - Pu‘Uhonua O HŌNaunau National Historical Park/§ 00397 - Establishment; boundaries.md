@@ -58,7 +58,7 @@ Beginning at a pipe in concrete at the northeast corner of this parcel, the coor
 
 1\. Three hundred fifty-eight degrees twenty-three minutes two hundred sixty and four-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi;
 
-2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same,along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
+2\. Ninety-three degrees thirty minutes two hundred and sixty-nine feet along the same, along stone wall, along lot 2 of the subdivision by B. P. Bishop estate;
 
 3\. Eighty-two degrees no minutes three hundred and eighteen feet along same to the east side of fifty-foot road;
 
@@ -90,7 +90,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called "Kalani" a
 
 3\. Thence along high-water mark, along sea, the direct azimuth and distance being: two hundred six degrees thirty-three minutes thirty seconds four hundred eighty-two and nine-tenths feet;
 
-4\. Two hundred fifty-nine degrees thirty-three minutes fifteen seconds six hundred eighty feet along L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a rock called Kuwaia, marked K+K at six and eight-tenths feet to the point of beginning.
+4\. Two hundred fifty-nine degrees thirty-three minutes fifteen seconds six hundred eighty feet along L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a rock called Kuwaia, marked K+K atsix and eight-tenths feet to the point of beginning.
 
 Area, ten and twenty-five one-hundredths acres.
 
@@ -100,7 +100,7 @@ The boundaries of Pu‘uhonua o Hōnaunau National Historical Park are hereby mo
 
 #### (c) Acquisition
 
-The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as "Parcel B" on the map referenced in subsection (b) of this section. Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Pu‘uhonua o Hōnaunau National Historical Park to include such lands or interests therein.
+The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as "Parcel B" on the map referenced in subsection (b). Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Pu‘uhonua o Hōnaunau National Historical Park to include such lands or interests therein.
 
 (July 26, 1955, ch. 385, §1, 69 Stat. 376; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477; Pub. L. 106–510, §3(d)(1), Nov. 13, 2000, 114 Stat. 2364; Pub. L. 107–340, §2, Dec. 16, 2002, 116 Stat. 2889.)
 
@@ -122,5 +122,5 @@ Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: "This Act 
 
 #### Admission of Hawaii as State
 
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug.21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 

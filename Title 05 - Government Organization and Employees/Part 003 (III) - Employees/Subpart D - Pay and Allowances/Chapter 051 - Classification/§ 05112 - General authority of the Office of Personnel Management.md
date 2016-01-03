@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 28, 1949, ch. 782, §501, 63 Stat. 958.
 
-In subsection (a), the words "which may be exercised at any time in its discretion" are omitted as redundant. The words "is binding on all administrative, certifying, payroll, disbursing, and accounting officials" are substituted for "shall be binding on all administrative, certifying, payroll, disbursing, and accounting officers of the Government" to preserve the application to members of the uniformed services.
+In subsection (a), the words "which may be exercised at any time in its discretion" are omitted as redundant. The words "is binding on all administrative, certifying, payroll, disbursing, and accounting officials"are substituted for "shall be binding on all administrative, certifying, payroll, disbursing, and accounting officers of the Government" to preserve the application to members of the uniformed services.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

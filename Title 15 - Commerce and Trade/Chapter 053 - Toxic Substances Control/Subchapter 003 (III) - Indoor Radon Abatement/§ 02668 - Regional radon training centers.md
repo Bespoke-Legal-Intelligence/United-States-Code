@@ -2,7 +2,7 @@
 
 #### (a) Funding program
 
-Upon application of colleges, universities, institutions of higher learning, or consortia of such institutions, the Administrator may makea grant or cooperative agreement, subject to such terms and conditions as the Administrator considers appropriate, under this section to the applicant for the purpose of establishing and operating a regional radon training center.
+Upon application of colleges, universities, institutions of higher learning, or consortia of such institutions, the Administrator may make a grant or cooperative agreement, subject to such terms and conditions as the Administrator considers appropriate, under this section to the applicant for the purpose of establishing and operating a regional radon training center.
 
 #### (b) Purpose of centers
 
@@ -16,7 +16,7 @@ Any colleges, universities, institutions of higher learning or consortia of such
 
 The Administrator shall support at least 3 eligible applications with the full amount of available funds. The Administrator shall select recipients of funding under this section to ensure that funds are equitably allocated among regions of the United States, and on the basis of each of the following criteria:
 
-&emsp;(1) The extent to which the applicant's program will promote the purpose described in subsection (b) of this section.
+&emsp;(1) The extent to which the applicant's program will promote the purpose described in subsection (b).
 
 &emsp;(2) The demonstrated expertise of the applicant regarding radon measurement and mitigation methods and other radon-related issues.
 
@@ -26,7 +26,7 @@ The Administrator shall support at least 3 eligible applications with the full a
 
 &emsp;(5) The geographical coverage of the proposed center.
 
-&emsp;(6) Any other uniform criteria that the Administrator deems necessary to promote the purpose described in subsection (b) of this section and that the Administrator provides to potential applicants prior to the application process.
+&emsp;(6) Any other uniform criteria that the Administrator deems necessary to promote the purpose described in subsection (b) and that the Administrator provides to potential applicants prior to the application process.
 
 #### (e) Termination of funding
 

@@ -82,7 +82,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
-(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of themembers representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
+(3) Members shall serve for terms of 3 years each, except that, of the members first appointed, one of the members representing the interests of employee organizations, one of the members representing the interests of employers, and one of the members representing the interests of the general public shall be appointed for terms of 2 years each, one of the members representing the interests of the general public shall be appointed for a term of 1 year, and the other members shall be appointed to full 3–year terms. The advisory committee shall meet at least six times each year and at such other times as may be determined by the chairman or requested by any three members of the advisory committee. Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).
 
 (4) Members shall be chosen on the basis of their experience with employee organizations, with employers who maintain pension plans, with the administration of pension plans, or otherwise on account of outstanding demonstrated ability in related fields. Of the members serving on the advisory committee at any time, no more than four shall be affiliated with the same political party.
 
@@ -90,7 +90,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (6) The advisory committee shall appoint and fix the compensation of such employees as it determines necessary to discharge its duties, including experts and consultants in accordance with the provisions of section 3109 of title 5. The corporation shall furnish to the advisory committee such professional, secretarial, and other services as the committee may request.
 
-(7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
+(7) Members of the advisory committee shall, for each day (including traveltime) during whichthey are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 
@@ -128,7 +128,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(8), is Pub. L. 92
 
 #### Codification
 
-A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5,Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
+A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5, Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The purposes of the environmental quality incentives program established by this
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ Par. (5). Pub. L. 113–79, §2201(3), struck out par. (5) which read as follows
 
 Pars. (3), (4). Pub. L. 110–246, §2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
-"(3) providing flexible assistance to producers to install and maintain conservation practices that enhancesoil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
+"(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
 "(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and".
 

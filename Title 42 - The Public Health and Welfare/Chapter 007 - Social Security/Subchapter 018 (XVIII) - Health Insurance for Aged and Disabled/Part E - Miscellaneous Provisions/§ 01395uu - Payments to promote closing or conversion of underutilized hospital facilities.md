@@ -22,7 +22,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 &emsp;&emsp;(B) the closure is not for replacement of the hospital,
 
-> the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under thissubchapter) an amount (in this section referred to as a "transitional allowance"), as provided in subsection (c) of this section.
+> the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a "transitional allowance"), as provided in subsection (c) of this section.
 
 #### (c) Factors determinative of transitional allowance
 

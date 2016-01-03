@@ -2786,7 +2786,7 @@
 | 460aa–1. | Administration. |
 | 460aa–2. | Acquisition of land. |
 | 460aa–3. | Private land, regulations. |
-| 460aa–4. | Administrative determination of suitability for designation as wilderness areas. |
+| 460aa–4. | Repealed. |
 | 460aa–5. | Cooperation with other agencies in development and operation of facilities and services; Stanley, restoration. |
 | 460aa–6. | State civil and criminal jurisdiction. |
 | 460aa–7. | Hunting and fishing regulations. |

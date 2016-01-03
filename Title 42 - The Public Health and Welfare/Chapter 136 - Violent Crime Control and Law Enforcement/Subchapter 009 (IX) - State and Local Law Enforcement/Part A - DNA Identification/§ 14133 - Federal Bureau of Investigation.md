@@ -6,7 +6,7 @@
 
 &emsp;(A) Personnel at the Federal Bureau of Investigation who perform DNA analyses shall undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
-&emsp;(B) Within 1 year after September 13, 1994, the Director of the Federal Bureau of Investigation shall arrange for periodic blind external tests to determine the proficiency of DNA analysis performed at the Federal Bureau of Investigation laboratory.
+&emsp;(B) Within 1 year after September 13, 1994, the Director of the Federal Bureau of Investigation shall arrange for periodic blind external tests to determine the proficiency of DNAanalysis performed at the Federal Bureau of Investigation laboratory.
 
 &emsp;(C) In this paragraph, "blind external test" means a test that is presented to the laboratory through a second agency and appears to the analysts to involve routine evidence.
 

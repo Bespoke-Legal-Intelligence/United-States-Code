@@ -40,7 +40,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(14) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
-&emsp;(15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
+&emsp;(15) consult with national organizations representing minority individuals to develop anddisseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
 
 &emsp;(16) collect for each fiscal year, for fiscal years beginning after September 30, 1988, directly or by contract, statistical data regarding programs and activities carried out with funds provided under this chapter, including—
 
@@ -230,7 +230,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 (3)(A) The Assistant Secretary shall carry out paragraph (2) through grants or contracts.
 
-(B) The Assistant Secretary shall issue criteria applicable to the recipients of funds under this subsection. To be eligible to receive a grant or enter into a contract under subparagraph (A), an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
+(B) The Assistant Secretary shall issue criteria applicable to the recipients of funds under this subsection. To be eligible to receive a grant or enter into a contract under subparagraph (A),an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
 
 (C) The Assistant Secretary shall—
 
@@ -254,7 +254,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -302,7 +302,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;(D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208,1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Subsec. (a)(17). Pub. L. 106–501, §201(1)(B), redesignated par. (20) as (17).
 
 Subsec. (a)(18). Pub. L. 106–501, §201(1)(B), (D), redesignated par. (21) as (18) and substituted "2000" for "1990" in subpar. (B). Former par. (18) redesignated (15).
 
-Subsec. (a)(19). Pub. L. 106–501, §201(1)(E), added par. (19) and struck out former par. (19) which directed the Administration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
+Subsec. (a)(19). Pub. L. 106–501, §201(1)(E), added par. (19) and struck out former par. (19) which directed theAdministration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
 
 Pub. L. 106–501, §201(1)(B), redesignated par. (22) as (19). Former par. (19) redesignated (16).
 
@@ -384,7 +384,7 @@ Subsec. (a)(24). Pub. L. 106–501, §201(1)(G), added par. (24) and struck out 
 
 "(24)(A) conduct a study to determine ways in which Federal funds might be more effectively targeted to low-income minority older individuals, and older individuals residing in rural areas, to better meet the needs of States with a disproportionate number of older individuals with greatest economic need and older individuals with greatest social need;
 
-"(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter,using the most recent estimates of the population of older individuals; and
+"(B) conduct a study to determine ways in which Federal funds might be more effectively targeted to better meet the needs of States with disproportionate numbers of older individuals, including methods of allotting funds under subchapter III of this chapter, using the most recent estimates of the population of older individuals; and
 
 "(C) not later than January 1, 1995, submit a report containing the findings resulting from the studies described in subparagraphs (A) and (B) to the Speaker of the House of Representatives and the President pro tempore of the Senate;".
 

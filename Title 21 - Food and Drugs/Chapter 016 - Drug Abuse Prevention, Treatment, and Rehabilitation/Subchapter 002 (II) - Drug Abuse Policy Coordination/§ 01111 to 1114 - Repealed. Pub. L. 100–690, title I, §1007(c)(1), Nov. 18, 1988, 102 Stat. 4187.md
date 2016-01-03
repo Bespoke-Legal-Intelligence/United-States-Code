@@ -6,7 +6,7 @@ A prior section 1111, Pub. L. 92–255, title II, §201, as added Pub. L. 94–2
 
 Another prior section 1111, Pub. L. 92–255, title II, §201, Mar. 21, 1972, 86 Stat. 67, which provided for the establishment of the Special Action Office for Drug Abuse Prevention, was repealed by Pub. L. 92–255, title I, §104, Mar. 21, 1972, 86 Stat. 67, eff. June 30, 1975.
 
-Section 1112, Pub. L. 92–255, title II, §202, as added Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1310, related todesignation of a representative to direct activities required by this subchapter.
+Section 1112, Pub. L. 92–255, title II, §202, as added Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1310, related to designation of a representative to direct activities required by this subchapter.
 
 A prior section 1112, Pub. L. 92–255, title II, §202, as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 242; amended Pub. L. 95–83, title III, §311(d), Aug. 1, 1977, 91 Stat. 398, which provided for the appointment of the Director of the Office of Drug Abuse Policy, was omitted in the general revision of this subchapter by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309.
 

@@ -20,7 +20,7 @@
 
 (3) At the same time that the Secretary of Defense makes the determination required by paragraph (1) for any fiscal year, the Secretary shall determine the amount of the Treasury contribution to be made to the Fund for the next fiscal year under section 1466(b)(2)(D) of this title. That amount shall be determined in the same manner as the determination under paragraph (1) of the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title, except that for purposes of this paragraph the Secretary, in making the calculations required by subparagraphs (A) and (B) of that paragraph, shall use the single level percentages determined under subsection (c)(4), rather than those determined under subsection (c)(1).
 
-(c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of Department of Defense military retirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
+(c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of Department of Defense militaryretirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title, to be determined without regard to section 1413a or 1414 of this title; and
 

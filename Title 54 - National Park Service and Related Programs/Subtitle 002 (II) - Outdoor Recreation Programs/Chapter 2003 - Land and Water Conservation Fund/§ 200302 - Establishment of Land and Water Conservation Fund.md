@@ -6,7 +6,7 @@ Establishment.—There is established in the Treasury the Land and Water Conserv
 
 (b)
 
-Deposits.—During the period ending September 30, 2015, there shall be deposited in the Fund the following revenues and collections:
+Deposits.—During the period ending September 30, 2018, there shall be deposited in the Fund the following revenues and collections:
 
 &emsp;(1) All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of the provisions of law set forth in section 572(a) or 574(a) to (c) of title 40 or under authority of any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property) received from any disposal of surplus real property and related personal property under chapter 5 of title 40, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this chapter shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
@@ -18,7 +18,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2015.
+In general.—In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2018.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ Receipts under outer continental shelf lands act.—To the extent that amounts a
 
 Availability of deposits.—Notwithstanding section 200303 of this title, money deposited in the Fund under this subsection shall remain in the Fund until appropriated by Congress to carry out this chapter.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3171; Pub. L. 114–113, div. O, title VIII, §801(a), Dec. 18, 2015, 129 Stat. 3030.)
 
 Historical and Revision Notes
 
@@ -46,13 +46,19 @@ Historical and Revision Notes
 
 Pub. L. 88–578, title I, §2, Sept. 3, 1964, 78 Stat. 897; Pub. L. 89–72, §11, July 9, 1965, 79 Stat. 218; Pub. L. 90–401, §§1(a), 2, July 15, 1968, 82 Stat. 354, 355; Pub. L. 91–308, §2, July 7, 1970, 84 Stat. 410; Pub. L. 91–485, §1, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 94–273, §2(7), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–422, title I, §101(1), Sept. 28, 1976, 90 Stat. 1313; Pub. L. 95–42, §1(1), June 10, 1977, 91 Stat. 210; Pub. L. 100–203, title V, §5201(f)(1), Dec. 22, 1987, 101 Stat. 1330–267.
 
-In subsection (b), the words "section 572(a) or 574(a) to (c) of title 40" are substituted for "section 485(b)(e)\[sic\], title 40, United States Code", and the words "chapter 5 of title 40" are substituted for "the Federal Property and Administrative Services Act of 1949, as amended" because of section 5(c) of the Act of August 21, 2002 (Public Law 107–217, 116 Stat. 1303), the 1st section of which enacted Title 40, United States Code, and in the case of "chapter 5 of title 40", to provide a more precise cross reference. The words "any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property" are substituted for "the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act" to update the reference.
+In subsection (b), the words "section 572(a) or 574(a) to (c) of title 40" are substituted for "section 485(b)(e)\[sic\], title 40, United States Code", and thewords "chapter 5 of title 40" are substituted for "the Federal Property and Administrative Services Act of 1949, as amended" because of section 5(c) of the Act of August 21, 2002 (Public Law 107–217, 116 Stat. 1303), the 1st section of which enacted Title 40, United States Code, and in the case of "chapter 5 of title 40", to provide a more precise cross reference. The words "any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property" are substituted for "the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act" to update the reference.
 
 In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word "thereafter" are omitted as obsolete.
 
 #### References in Text
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–113, §801(a)(1), substituted "September 30, 2018" for "September 30, 2015" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 114–113, §801(a)(2), substituted "September 30, 2018" for "September 30, 2015".
 
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of "Golden Eagle Insignia"
 
@@ -94,7 +100,7 @@ Sec. 2. <i>Designation of areas for years after 1965</i>. (a) Subject to the pro
 
 (2) Whenever, in accordance with subsection (b) of this section, it is determined that a recreation user fee should be charged with respect to an area with respect to which no such fee has theretofore been charged, such new fee shall be charged only after the posting requirements of Section 4 of this Order have been satisfied.
 
-Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of this Order and to the extent permitted by the Act, be designated as areas at which recreation user fees shall be charged if the following conditions are found to exist concurrently:
+Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance with Section 1(b) and Section 2(b) of this Order and to the extent permitted by the Act, be designated as areas at which recreation user fees shall becharged if the following conditions are found to exist concurrently:
 
 (1) The area is administered by any of the eight agencies specified in Section 1(a) of this Order;
 
@@ -108,7 +114,7 @@ Sec. 3. <i>Criteria for designation of areas</i>. Areas shall, in accordance wit
 
 Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies and departments shall provide for the posting of signs at all designated areas such as will clearly notify the visiting public that recreation user fees are charged therein. All areas designated pursuant to Sections 1 and 2 of this Order shall be so posted prior to the beginning of the recreation season or as soon as practicable following designation. No recreation user fee established pursuant to this Order shall be effective with respect to any designated area until that designated area has been posted.
 
-Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b) of this Order shall, subject to the criteria prescribed by the Secretary of the Interior, establish a recreation user fee for each designated area administered under his jurisdiction by selecting from a schedule of fees, prescribed by the Secretary of the Interior pursuant to Section 6 of this Order, the fee which is appropriate for each such designated area under criteria prescribed by the Secretary pursuant to that section. Each such official shall also specify which designated areas shall be excluded from the coverage of the annual fee described in Section 2(a)(1) of the Act \[former 16 U.S.C. 460l–5(a)(i)\] and which, as a result of that exclusion will be subject to the fee described in Section 2(a)(iii) of the Act \[former 16 U.S.C.460l–5(a)(iii)\]. The range of recreation user fees to be charged and the criteria for their selection shall be established under the procedures prescribed by Section 6 of this Order.
+Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b) of this Order shall, subject to the criteria prescribed by the Secretary of the Interior, establish a recreation user fee for each designated area administered under his jurisdiction by selecting from a schedule of fees, prescribed by the Secretary of the Interior pursuant to Section 6 of this Order, the fee which is appropriate for each such designated area under criteria prescribed by the Secretary pursuant to that section. Each such official shall also specify which designated areas shall be excluded from the coverage of the annual fee described in Section 2(a)(1) of the Act \[former 16 U.S.C. 460l–5(a)(i)\] and which, as a result of that exclusion will be subject to the fee described in Section 2(a)(iii) of the Act \[former 16 U.S.C. 460l–5(a)(iii)\]. The range of recreation user fees to be charged and the criteria for their selection shall be established under the procedures prescribed by Section 6 of this Order.
 
 (b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, which shall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
 

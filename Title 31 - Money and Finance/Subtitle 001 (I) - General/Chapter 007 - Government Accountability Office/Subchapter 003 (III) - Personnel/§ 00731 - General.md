@@ -10,7 +10,7 @@
 
 (e) The Comptroller General may procure the services of experts and consultants under section 3109 of title 5 at rates not in excess of the daily rate for level IV of the Executive Schedule, except that the services of not more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.
 
-(f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses under subchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
+(f) The Comptroller General shall prescribe regulations under which officers and employees of the Office may, in appropriate circumstances, be reimbursed for any relocation expenses undersubchapter II of chapter 57 of title 5 for which they would not otherwise be eligible, but only if the Comptroller General determines that the transfer giving rise to such relocation is of sufficient benefit or value to the Office to justify such reimbursement.
 
 (g) The Comptroller General shall prescribe regulations under which key officers and employees of the Office who have less than 3 years of service may accrue leave in accordance with section 6303(a)(2) of title 5, in those circumstances in which the Comptroller General has determined such increased annual leave is appropriate for the recruitment or retention of such officers and employees. Such regulations shall define key officers and employees and set forth the factors in determining which officers and employees should be allowed to accrue leave in accordance with this subsection.
 
@@ -54,7 +54,11 @@
 
 (j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, §5(h)(2), Jan. 4, 2011, 124 Stat. 3849.)
+(k)
+
+Federal Government Details.—The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896; Pub. L. 98–326, §1(a), June 22, 1984, 98 Stat. 269; Pub. L. 98–615, title II, §204(b), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(4), Sept. 30, 1993, 107 Stat. 983; Pub. L. 106–303, §5, Oct. 13, 2000, 114 Stat. 1069; Pub. L. 108–271, §§5–7, 8(b), July 7, 2004, 118 Stat. 813, 814; Pub. L. 110–323, §9(a), Sept. 22, 2008, 122 Stat. 3548; Pub. L. 111–350, §5(h)(2), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 114–113, div. I, title I, §1301(a), Dec. 18, 2015, 129 Stat. 2671.)
 
 Historical and Revision Notes
 
@@ -142,6 +146,8 @@ Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6)
 
 #### Amendments
 
+<b>2015</b>—Subsec. (k). Pub. L. 114–113 added subsec. (k).
+
 <b>2011</b>—Subsec. (i)(7). Pub. L. 111–350 substituted "chapter 21 of title 41" for "section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423)".
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–323, §9(a)(1), struck out subsec. (d) which read as follows: "When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule."
@@ -171,6 +177,10 @@ Subsec. (e)(2). Pub. L. 106–303, §5(2), substituted "level IV" for "level V".
 <b>1984</b>—Subsec. (b). Pub. L. 98–615 substituted "section 5401 of title 5" for "section 5401(a) of title 5".
 
 Subsec. (e). Pub. L. 98–236 substituted "title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title" for "title 5" in provisions preceding par. (1) and "15" for "10" in par. (1).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. I, title I, §1301(b), Dec. 18, 2015, 129 Stat. 2671, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2016 and each succeeding fiscal year."
 
 #### Effective Date of 2004 Amendment
 

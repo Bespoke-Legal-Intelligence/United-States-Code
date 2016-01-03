@@ -22,7 +22,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 &emsp;(4) assists the Attorney General (and the Secretary of State, to the extent necessary to carry out such Secretary's obligations under immigration law) to identify, through on-line searching procedures, lawfully admitted nonimmigrants who may have remained in the United States beyond the period authorized by the Attorney General; and
 
-&emsp;(5) otherwise uses available alien arrival and departure data described in paragraph (1) to permit the Attorney General to make the reports required under subsection (e) of this section.
+&emsp;(5) otherwise uses available alien arrival and departure data described in paragraph (1) to permit the Attorney General to make the reports required under subsection (e).
 
 #### (c) Construction
 
@@ -42,15 +42,15 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (1) Airports and seaports
 
-&emsp;Not later than December 31, 2003, the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.
+&emsp;Not later than December 31, 2003, the Attorney General shall implement the integrated entry and exit data system using available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at an airport or seaport. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at an airport or seaport, are entered into the system and can be accessed by immigration officers at other airports and seaports.
 
 #### (2) High-traffic land border ports of entry
 
-&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
 
 #### (3) Remaining data
 
-&emsp;Not later than December 31, 2005, the Attorney General shall fully implement the integrated entry and exit data system using all data described in subsection (b)(1) of this section. Such implementation shall include ensuring that all such data are available to immigration officers at all ports of entry into the United States.
+&emsp;Not later than December 31, 2005, the Attorney General shall fully implement the integrated entry and exit data system using all data described in subsection (b)(1). Such implementation shall include ensuring that all such data are available to immigration officers at all ports of entry into the United States.
 
 #### (e) Reports
 
@@ -74,7 +74,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (1) In general
 
-&emsp;Subject to subsection (d) of this section, the Attorney General, in consultation with the Secretary of State, shall determine which officers and employees of the Departments of Justice and State may enter data into, and have access to the data contained in, the integrated entry and exit data system.
+&emsp;Subject to subsection (d), the Attorney General, in consultation with the Secretary of State, shall determine which officers and employees of the Departments of Justice and State may enter data into, and have access to the data contained in, the integrated entry and exit data system.
 
 #### (2) Other law enforcement officials
 
@@ -106,7 +106,7 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 "(a)
 
-System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney General shall develop an automated entry and exit control system that will—
+System.—Not later than October 15, 1998 (and not later than March 30, 2001, in the case of land border ports of entry and sea ports), the Attorney Generalshall develop an automated entry and exit control system that will—
 
 &emsp;"(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien's arrival in the United States;
 
@@ -164,7 +164,7 @@ Sense of congress.—In light of the terrorist attacks perpetrated against the U
 
 &emsp;"(2)
 
-Authorization of appropriations.—There is authorized to be appropriated such sums as may benecessary to fully implement the system described in paragraph (1)(A).
+Authorization of appropriations.—There is authorized to be appropriated such sums as may be necessary to fully implement the system described in paragraph (1)(A).
 
 "(b)
 

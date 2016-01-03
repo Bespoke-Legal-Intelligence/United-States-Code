@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Certification.—Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forthin the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
+Annual Certification.—Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
 
 &emsp;(1) a heavy bomber and air-launched cruise missile;
 
@@ -105,4 +105,20 @@ Pub. L. 113–66, div. A, title X, §1062(a), Dec. 26, 2013, 127 Stat. 866, prov
 &emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
 
 &emsp;"(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States."
+
+#### Delegation of Authority Pursuant to Section 1035 of the National Defense Authorization Act for Fiscal Year 2013
+
+Memorandum of President of the United States, June 29, 2015, 80 F.R. 37921, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+I hereby delegate to the Secretary of Defense the authority to fulfill the certification requirement specified in section 1035 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239) \[probably means section 495 of this title, as added by section 1035 of Pub. L. 112–239\].
+
+Any reference in this memorandum to section 1035 of the National Defense Authorization Act for Fiscal Year 2013 shall be deemed to be a reference to any future provision that is the same or substantially the same provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

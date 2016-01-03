@@ -22,7 +22,7 @@
 
 #### (4) Burden of proof
 
-&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether theplaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
+&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
 
 &emsp;&emsp;(A) the value of proprietary information;
 
@@ -80,7 +80,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (ii) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities under section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a person described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities under section 6 of the Export Administration Act of 1979 \[50 U.S.C. 4605\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. 4604(c)(1)\] to a person described in subparagraph (A).
 
 #### (iii) International financial assistance
 
@@ -88,7 +88,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (iv) Export-Import Bank transactions
 
-&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extendcredit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
+&emsp;&emsp;&emsp;The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.
 
 #### (v) Private bank transactions
 
@@ -124,7 +124,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (iv) Sanctions under Export Administration Act of 1979
 
-&emsp;&emsp;&emsp;The authorities of section 6 of the Export Administration Act of 1979 \[50 U.S.C. App. 2405\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. App. 2404(c)(1)\] to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The authorities of section 6 of the Export Administration Act of 1979 \[50 U.S.C. 4605\] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act \[50 U.S.C. 4604(c)(1)\] to a country described in subparagraph (A).
 
 #### (v) International financial assistance
 

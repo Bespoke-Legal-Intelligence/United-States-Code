@@ -36,7 +36,7 @@ For purposes of this chapter:
 
 &emsp;(8) The term "Department" means the Department of Energy.
 
-&emsp;(9) The term "disposal" means the emplacement in a repository of high-level radioactive waste, spent nuclear fuel, or other highlyradioactive material with no foreseeable intent of recovery, whether or not such emplacement permits the recovery of such waste.
+&emsp;(9) The term "disposal" means the emplacement in a repository of high-level radioactive waste, spent nuclear fuel, or other highly radioactive material with no foreseeable intent of recovery, whether or not such emplacement permits the recovery of such waste.
 
 &emsp;(10) The terms "disposal package" and "package" mean the primary container that holds, and is in contact with, solidified high-level radioactive waste, spent nuclear fuel, or other radioactive materials, and any overpacks that are emplaced at a repository.
 

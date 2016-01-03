@@ -8,7 +8,7 @@ The Comptroller of the Currency may impose and collect assessments, fees, or oth
 
 #### References in Text
 
-Provisions of section 481 of this title, referred to in first par., was in the original "preceding provisions of this section", meaning R.S. §5240. See Codification note set out below.
+Provisions of section 481 of this title, referred to in first par., was in the original "preceding provisions ofthis section", meaning R.S. §5240. See Codification note set out below.
 
 #### Codification
 

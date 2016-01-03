@@ -12,7 +12,7 @@ Lands located within the boundaries of a conservation system unit which are owne
 
 &emsp;(B) a Native Corporation or Native Group which has Natives as a majority of its stockholders;
 
-&emsp;(C) the actual occupant of a tract, title to the surface estate of which was on, before, or after December 2, 1980, conveyed to such occupant pursuant to section 1613(c)(1) and (h)(5) of title 43, unless the Secretary determines that the tract is no longer occupied for the purpose described in section 1613(c)(1) or (h)(5) of title 43 for which the tract was conveyed and thatactivities on the tract are or will be detrimental to the purposes of the unit in which the tract is located; or
+&emsp;(C) the actual occupant of a tract, title to the surface estate of which was on, before, or after December 2, 1980, conveyed to such occupant pursuant to section 1613(c)(1) and (h)(5) of title 43, unless the Secretary determines that the tract is no longer occupied for the purpose described in section 1613(c)(1) or (h)(5) of title 43 for which the tract was conveyed and that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located; or
 
 &emsp;(D) a spouse or lineal descendant of the actual occupant of a tract described in subparagraph (C), unless the Secretary determines that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located—
 
@@ -24,7 +24,7 @@ Lands located within the boundaries of a conservation system unit (other than Na
 
 #### (d) Improved property
 
-No improved property shall be acquired under subsection (a) of this section without the consent of the owner unless the Secretary first determines that such acquisition is necessary to the fulfillment of the purposes of this Act or to the fulfillment of the purposes for which the concerned conservation system unit was established or expanded.
+No improved property shall be acquired under subsection (a) without the consent of the owner unless the Secretary first determines that such acquisition is necessary to the fulfillment of the purposes of this Act or to the fulfillment of the purposes for which the concerned conservation system unit was established or expanded.
 
 #### (e) Retained rights
 
@@ -56,7 +56,7 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 #### (i) Donation or exchange
 
-(1) The Secretary is authorized to acquire by donation or exchange, lands (A) which are contiguous to any conservation system unit established or expanded by this Act, and (B) whichare owned or validly selected by the State of Alaska.
+(1) The Secretary is authorized to acquire by donation or exchange, lands (A) which are contiguous to any conservation system unit established or expanded by this Act, and (B) which are owned or validly selected by the State of Alaska.
 
 (2) Any such lands so acquired shall become a part of such conservation system unit.
 

@@ -14,5 +14,5 @@ Section is derived from part of section 3 of Pub. L. 87–728. Remainder of such
 
 #### Transfer of Functions
 
-Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
+Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 

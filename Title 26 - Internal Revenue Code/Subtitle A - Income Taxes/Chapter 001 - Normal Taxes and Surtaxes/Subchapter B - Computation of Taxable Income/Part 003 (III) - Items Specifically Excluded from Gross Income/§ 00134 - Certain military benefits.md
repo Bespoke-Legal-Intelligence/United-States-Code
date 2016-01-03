@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (4) Clarification of certain benefits
 
-&emsp;For purposes of paragraph (1), such term includes any dependent care assistance program (as in effect on the date of the enactment of this paragraph) for any individual described in paragraph (1)(A).
+&emsp;For purposes of paragraph (1), such term includes any dependent care assistance program (as in effect on the date of the enactment ofthis paragraph) for any individual described in paragraph (1)(A).
 
 #### (5) Travel benefits under operation hero miles
 

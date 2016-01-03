@@ -6,7 +6,7 @@ Armed Services Board.—
 
 &emsp;(1)
 
-Establishment.—An Armed Services Board of Contract Appeals may be established within the Department of Defense when the Secretary of Defense, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least 3 members who shall have no other inconsistent duties. Workload studies will be updated at least once every 3 years and submitted to the Administrator.
+Establishment.—An Armed Services Board of Contract Appeals may be established within the Department of Defense when the Secretary of Defense, after consultation with the Administrator, determines from a workload study that the volume of contract claims justifies the establishment of a full-time agency board of at least 3 members who shall haveno other inconsistent duties. Workload studies will be updated at least once every 3 years and submitted to the Administrator.
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Other agency boards.—Each other agency board has jurisdiction to decide any ap
 
 &emsp;(2)
 
-Relief.—In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting a contract claim in the United States Court of Federal Claims.
+Relief.—In exercising this jurisdiction, an agency board may grant any relief that would be available to a litigant asserting acontract claim in the United States Court of Federal Claims.
 
 (f)
 

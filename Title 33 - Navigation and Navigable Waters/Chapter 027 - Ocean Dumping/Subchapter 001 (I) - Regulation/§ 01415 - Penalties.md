@@ -18,7 +18,7 @@ In addition to any action that may be brought under subsection (a) of this secti
 
 #### (c) Separate offenses
 
-For the purpose of imposing civil penalties and criminal fines under this section, each dayof a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
+For the purpose of imposing civil penalties and criminal fines under this section, each day of a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
 
 #### (d) Injunctive relief
 

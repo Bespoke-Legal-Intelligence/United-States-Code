@@ -26,7 +26,7 @@
 
 &emsp;(A) the plan has been in effect for at least 5 years,
 
-&emsp;(B) the plan has been in substantial compliance with the funding requirements for a qualified plan with respect to the employees and former employees in those employment units on the basis of which the participating employers have contributed to the plan for the preceding 5 years, and
+&emsp;(B) the plan has been in substantial compliance with the funding requirements for aqualified plan with respect to the employees and former employees in those employment units on the basis of which the participating employers have contributed to the plan for the preceding 5 years, and
 
 &emsp;(C) the participating employers and employee organization or organizations had no reasonable recourse other than termination.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) had ceased all covered operations under a multiemployer plan before June 30, 1981, and had relocated its operations to a new facility in another State, and
 
-&emsp;&emsp;(ii) had notified a local union representative on May 14, 1980, that the employer had tentatively decided to discontinue operations and relocate to a new facility in another State, and
+&emsp;&emsp;(ii) had notified a local union representative on May 14, 1980, that the employer hadtentatively decided to discontinue operations and relocate to a new facility in another State, and
 
 &emsp;(B) all State and local approvals with respect to construction of and commencement of operations at the new facility had been obtained, a contract for construction had been entered into, and construction of the new facility had begun before September 26, 1980,
 

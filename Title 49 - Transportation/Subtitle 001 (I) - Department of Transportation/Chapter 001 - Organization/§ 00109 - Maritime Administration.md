@@ -36,7 +36,7 @@ Contracts, Cooperative Agreements, and Audits.—
 
 Contracts and cooperative agreements.—In the same manner that a private corporation may make a contract within the scope of its authority under its charter, the Secretary may make contracts and cooperative agreements for the United States Government and disburse amounts to—
 
-&emsp;&emsp;(A) carry out the Secretary's duties and powers under this section, subtitle V of title 46, and all other Maritime Administration programs; and
+&emsp;&emsp;(A) carry out the Secretary's duties and powers under this section, subtitle V of title46, and all other Maritime Administration programs; and
 
 &emsp;&emsp;(B) protect, preserve, and improve collateral held by the Secretary to secure indebtedness.
 
@@ -196,7 +196,7 @@ Pub. L. 100–202, §101(a) \[title V (4th proviso on p. 1329–28)\], Dec. 22, 
 
 In subsection (b), the words "The Assistant Secretary of Commerce for Maritime Affairs shall, ex officio, be the Administrator" in section 201 of Reorganization Plan No. 7 of 1961 are omitted as superseded by 46 App. U.S.C. 1601 and 1603. The words "and who shall be compensated at the rate provided for level III of the Executive Schedule" in 46 App. U.S.C. 1603 are omitted as unnecessary because of 5 U.S.C. 5314.
 
-In subsection (c), the word "Secretary" means the "Secretary of Transportation" because under 46 App. U.S.C. 1602 all functions, powers, and duties relating to the Maritime Administration were transferred from the Secretary of Commerce to the Secretary of Transportation. The words "in the competitive service" are substituted for "under the classified civil service" because of 5 U.S.C. 2102(c). The words "<i>Provided</i>, That such Deputy Administrator shall at no time sit as a member or acting member of the Federal Maritime Board" are omitted as obsolete because the Federal Maritime Board was abolished by section 304 of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note).
+In subsection (c), the word "Secretary" means the "Secretary of Transportation" because under 46 App. U.S.C. 1602 all functions, powers, and duties relating tothe Maritime Administration were transferred from the Secretary of Commerce to the Secretary of Transportation. The words "in the competitive service" are substituted for "under the classified civil service" because of 5 U.S.C. 2102(c). The words "<i>Provided</i>, That such Deputy Administrator shall at no time sit as a member or acting member of the Federal Maritime Board" are omitted as obsolete because the Federal Maritime Board was abolished by section 304 of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note).
 
 In subsection (f), the words "vessels of the United States" are substituted for "vessels of United States registry" because of the definition of "vessel of the United States" in chapter 1 of the revised title.
 

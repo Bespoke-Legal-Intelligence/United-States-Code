@@ -40,7 +40,7 @@ Expedited Review by Administrative Judge.—(1) Upon receipt of an appeal under 
 
 (2) Notwithstanding any other provision of law, including section 7703 of title 5, the decision of an administrative judge under paragraph (1) shall be final and shall not be subject to any further appeal.
 
-(3) In any case in which the administrative judge cannot issue a decision in accordance with the 21-day requirement under paragraph (1), the removal or transfer is final. In such a case, the Merit Systems Protection Board shall, within 14 days after the date that such removal or transfer is final, submit to Congress and the Committees on Veterans' Affairs of the Senate and House of Representatives a report that explains the reasons why a decision was not issued in accordance with such requirement.
+(3) In any case in which the administrative judge cannot issue a decision in accordance with the 21-day requirement under paragraph (1), theremoval or transfer is final. In such a case, the Merit Systems Protection Board shall, within 14 days after the date that such removal or transfer is final, submit to Congress and the Committees on Veterans' Affairs of the Senate and House of Representatives a report that explains the reasons why a decision was not issued in accordance with such requirement.
 
 (4) The Merit Systems Protection Board or administrative judge may not stay any removal or transfer under this section.
 

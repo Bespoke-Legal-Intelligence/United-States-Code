@@ -8,23 +8,57 @@ As used in this part:
 
 &emsp;&emsp;(A) a local educational agency to which a State educational agency makes a subgrant under this part;
 
-&emsp;&emsp;(B) a public or nonprofit private agency with which a State educational agency or the Secretary makes an arrangement to carry out a project under this part; or
+&emsp;&emsp;(B) a public or private agency with which a State educational agency or the Secretary makes an arrangement to carry out a project under this part; or
 
 &emsp;&emsp;(C) a State educational agency, if the State educational agency operates the State's migrant education program or projects directly.
 
-#### (2) Migratory child
+#### (2) Migratory agricultural worker
 
-&emsp;The term "migratory child" means a child who is, or whose parent or spouse is, a migratory agricultural worker, including a migratory dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or accompany such parent or spouse, in order to obtain, temporary or seasonal employment in agricultural or fishing work—
+&emsp;The term "migratory agricultural worker" means an individual who made a qualifying move in the preceding 36 months and, after doing so, engaged in new temporary or seasonal employment or personal subsistence in agriculture, which may be dairy work or the initial processing of raw agricultural products. If an individual did not engage in such new employment soon after a qualifying move, such individual may be considered a migratory agricultural worker if the individual actively sought such new employment and has a recent history of moves for temporary or seasonal agricultural employment.
 
-&emsp;&emsp;(A) has moved from one school district to another;
+#### (3) Migratory child
 
-&emsp;&emsp;(B) in a State that is comprised of a single school district, has moved from one administrative area to another within such district; or
+&emsp;The term "migratory child" means a child or youth who made a qualifying move in the preceding 36 months—
 
-&emsp;&emsp;(C) resides in a school district of more than 15,000 square miles, and migrates a distance of 20 miles or more to a temporary residence to engage in a fishing activity.
+&emsp;&emsp;(A) as a migratory agricultural worker or a migratory fisher; or
 
-(Pub. L. 89–10, title I, §1309, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1579.)
+&emsp;&emsp;(B) with, or to join, a parent or spouse who is a migratory agricultural worker or a migratory fisher.
+
+#### (4) Migratory fisher
+
+&emsp;The term "migratory fisher" means an individual who made a qualifying move in the preceding 36 months and, after doing so, engaged in new temporary or seasonal employment or personal subsistence in fishing. If the individual did not engage in such new employment soon after the move, the individual may be considered a migratory fisher if the individual actively sought such new employment and has a recent history of moves for temporary or seasonal fishing employment.
+
+#### (5) Qualifying move
+
+&emsp;The term "qualifying move" means a move due to economic necessity—
+
+&emsp;&emsp;(A) from one residence to another residence; and
+
+&emsp;&emsp;(B) from one school district to another school district, except—
+
+&emsp;&emsp;&emsp;(i) in the case of a State that is comprised of a single school district, wherein a qualifying move is from one administrative area to another within such district; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a school district of more than 15,000 square miles, wherein a qualifying move is a distance of 20 miles or more to a temporary residence.
+
+(Pub. L. 89–10, title I, §1309, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1579; amended Pub. L. 114–95, title I, §1301(h), Dec. 10, 2015, 129 Stat. 1899.)
 
 #### Prior Provisions
 
 A prior section 6399, Pub. L. 89–10, title I, §1309, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3591, defined terms for this part, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2015</b>—Par. (1)(B). Pub. L. 114–95, §1301(h)(1), struck out "nonprofit" before "private agency".
+
+Pars. (2) to (5). Pub. L. 114–95, §1301(h)(2), added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'migratory child' means a child who is, or whose parent or spouse is, a migratory agricultural worker, including a migratory dairy worker, or a migratory fisher, and who, in the preceding 36 months, in order to obtain, or accompany such parent or spouse, in order to obtain, temporary or seasonal employment in agricultural or fishing work—
+
+&emsp;"(A) has moved from one school district to another;
+
+&emsp;"(B) in a State that is comprised of a single school district, has moved from one administrative area to another within such district; or
+
+&emsp;"(C) resides in a school district of more than 15,000 square miles, and migrates a distance of 20 miles or more to a temporary residence to engage in a fishing activity."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

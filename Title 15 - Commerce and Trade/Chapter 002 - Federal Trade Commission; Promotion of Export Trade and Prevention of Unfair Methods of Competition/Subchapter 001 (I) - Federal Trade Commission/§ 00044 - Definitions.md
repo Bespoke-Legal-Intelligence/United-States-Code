@@ -16,7 +16,7 @@ The words defined in this section shall have the following meaning when found in
 
 "Foreign law enforcement agency" means—
 
-&emsp;(1) any agency or judicial authority of a foreign government, including a foreign state, a political subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
+&emsp;(1) any agency or judicial authority of a foreign government, including a foreign state, apolitical subdivision of a foreign state, or a multinational organization constituted by and comprised of foreign states, that is vested with law enforcement or investigative authority in civil, criminal, or administrative matters; and
 
 &emsp;(2) any multinational organization, to the extent that it is acting on behalf of an entity described in paragraph (1).
 

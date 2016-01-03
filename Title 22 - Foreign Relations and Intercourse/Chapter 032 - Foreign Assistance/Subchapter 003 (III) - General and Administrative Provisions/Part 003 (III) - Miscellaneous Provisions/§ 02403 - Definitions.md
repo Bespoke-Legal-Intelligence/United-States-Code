@@ -24,7 +24,7 @@ As used in this chapter—
 
 (f) "Defense service" includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
-(g) "Excess defense articles" means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
+(g) "Excess defense articles" means the quantity of defense articles (other than constructionequipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
 (h) "Function" includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
@@ -38,7 +38,7 @@ As used in this chapter—
 
 (m) "Value" means—
 
-&emsp;(1) with respect to an excess defense article, the actual value of the article plus the grosscost incurred by the United States Government in repairing, rehabilitating, or modifying the article, except that for purposes of section 2392(d) of this title such actual value shall not be taken into account;
+&emsp;(1) with respect to an excess defense article, the actual value of the article plus the gross cost incurred by the United States Government in repairing, rehabilitating, or modifying the article, except that for purposes of section 2392(d) of this title such actual value shall not be taken into account;
 
 &emsp;(2) with respect to a nonexcess defense article delivered from inventory to foreign countries or international organizations under this chapter, the acquisition cost to the United States Government, adjusted as appropriate for condition and market value;
 
@@ -84,7 +84,7 @@ The 1983 amendment by Pub. L. 98–151 is based on section 202(b) of H.R. 2992, 
 
 <b>1978</b>—Subsecs. (o), (p). Pub. L. 95–424 added subsecs. (o) and (p).
 
-<b>1976</b>—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out "training" after "inspection, repair", inserted "but does not include military educational and training activities under part V of subchapter II", and struck out definition of "Training".
+<b>1976</b>—Subsec. (f). Pub. L. 94–329, §106(b)(6)(A), struck out "training" after "inspection, repair", inserted "butdoes not include military educational and training activities under part V of subchapter II", and struck out definition of "Training".
 
 Subsec. (n). Pub. L. 94–329, §106(b)(6)(B), added subsec. (n).
 

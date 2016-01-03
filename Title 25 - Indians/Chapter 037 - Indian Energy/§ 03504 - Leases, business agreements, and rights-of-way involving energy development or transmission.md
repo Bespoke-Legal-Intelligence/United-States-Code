@@ -124,7 +124,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 &emsp;(i) provisions requiring the Secretary to conduct a periodic review and evaluation to monitor the performance of the activities of the Indian tribe associated with the development of energy resources under the tribal energy resource agreement; and
 
-&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breachor violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iii)(XVI), results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
+&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iii)(XVI), results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
 (E) Periodic review and evaluation under subparagraph (D) shall be conducted on an annual basis, except that, after the third annual review and evaluation, the Secretary and the Indian tribe may mutually agree to amend the tribal energy resource agreement to authorize the review and evaluation under subparagraph (D) to be conducted once every 2 years.
 
@@ -186,7 +186,7 @@ No lease, business agreement, or right-of-way relating to the development of tri
 
 (iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement, the Secretary shall take such action as the Secretary determines to be necessary to ensure compliance with the tribal energy resource agreement, including—
 
-&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the approved tribal energy resource agreement; or
+&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe isin compliance with the approved tribal energy resource agreement; or
 
 &emsp;(II) rescinding approval of all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a) or (b).
 

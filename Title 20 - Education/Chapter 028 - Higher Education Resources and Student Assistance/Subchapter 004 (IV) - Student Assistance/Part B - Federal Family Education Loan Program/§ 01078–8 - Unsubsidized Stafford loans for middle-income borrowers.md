@@ -18,7 +18,7 @@ Prior to July 1, 2010, any student meeting the requirements for student eligibil
 
 #### (c) Determination of amount of loan
 
-The determination of the amount of a loan by an eligible institution under subsection (b) of this section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out the provisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
+The determination of the amount of a loan by an eligible institution under subsection (b) of this section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out theprovisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
 
 #### (d) Loan limits
 
@@ -82,7 +82,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (B) Aggregate limits
 
-&emsp;&emsp;The maximum aggregate amount of loans under this section a student described in subparagraph (A) may borrow shall be $57,500.
+&emsp;&emsp;The maximum aggregate amount of loans under this section a student described insubparagraph (A) may borrow shall be $57,500.
 
 #### (5) Capitalized interest
 
@@ -148,7 +148,7 @@ A guaranty agency shall use a single application form and a single repayment sch
 
 Each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title may charge a borrower under this section an insurance premium equal to not more than 1.0 percent of the principal amount of the loan, if such premium will not be used for incentive payments to lenders. Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, and that are first disbursed before July 1, 2010, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders.
 
-(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(5), July 1, 2009, 123 Stat. 1944; Pub. L. 111–152, title II, §2207, Mar. 30, 2010, 124 Stat. 1076.)
+(Pub. L. 89–329, title IV, §428H, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 535; amended Pub. L. 103–66, title IV, §§4047(a), 4102(b), Aug. 10, 1993, 107 Stat. 363, 366; Pub. L. 103–208, §2(c)(42)–(45), Dec. 20, 1993, 107 Stat. 2466, 2467; Pub. L. 104–134, title I, §101(d) \[title V, §514(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title IV, §423, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §§8005(d), 8014(b)(2), Feb. 8, 2006, 120 Stat. 159, 169; Pub. L. 110–227, §2(a), May 7, 2008, 122 Stat. 740; Pub. L. 110–315, title IV, §428(a), Aug.14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(f)(5), July 1, 2009, 123 Stat. 1944; Pub. L. 111–152, title II, §2207, Mar. 30, 2010, 124 Stat. 1076.)
 
 #### Codification
 
@@ -182,7 +182,7 @@ Subsec. (d)(2)(D). Pub. L. 109–171, §8005(d)(2), substituted "$7,000" for "$5
 
 Subsec. (h). Pub. L. 109–171, §8014(b)(2), inserted at end "Effective for loans for which the date of guarantee of principal is on or after July 1, 2006, in lieu of the insurance premium authorized under the preceding sentence, each State or nonprofit private institution or organization having an agreement with the Secretary under section 1078(b)(1) of this title shall collect and deposit into the Federal Student Loan Reserve Fund under section 1072a of this title, a Federal default fee of an amount equal to 1.0 percent of the principal amount of the loan, which fee shall be collected either by deduction from the proceeds of the loan or by payment from other non-Federal sources. The Federal default fee shall not be used for incentive payments to lenders."
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior toamendment, text read as follows: "Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
+<b>1998</b>—Subsec. (b). Pub. L. 105–244, §423(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Any student meeting the requirements for student eligibility under section 1091 of this title (including graduate and professional students as defined in regulations promulgated by the Secretary) shall be entitled to borrow an unsubsidized Stafford loan. Such student shall provide to the lender a statement from the eligible institution at which the student has been accepted for enrollment, or at which the student is in attendance, which—
 
 &emsp;"(1) sets forth such student's estimated cost of attendance (as determined under section 1087ll of this title);
 
@@ -216,7 +216,7 @@ Subsec. (f). Pub. L. 105–244, §423(f), struck out heading and text of subsec.
 
 Subsec. (d). Pub. L. 103–66, §4047(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title."
 
-Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
+Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
 
 &emsp;"(i) $5,000, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this section);
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the present value of the reasonably anticipated employer contributions for the current plan year and each of the 6 succeeding plan years, assuming that the terms of all collective bargaining agreements pursuant to which the plan is maintained for the current plan year continue in effect for succeeding plan years,
 
-&emsp;&emsp;&nbsp;is less than the present value of all nonforfeitable benefits projected to be payable under the plan during the current plan year and each of the 6 succeeding plan years (plus administrative expenses for such plan years).
+&emsp;&emsp;&nbsp;is less than the present value of all nonforfeitable benefits projected to be payableunder the plan during the current plan year and each of the 6 succeeding plan years (plus administrative expenses for such plan years).
 
 &emsp;&emsp;(B) A plan is described in this subparagraph if—
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;Not later than the 90th day of each plan year of a multiemployer plan, the plan actuary shall certify to the Secretary of the Treasury and to the plan sponsor—
 
-&emsp;&emsp;&emsp;(i) whether or not the plan is in endangered status for such plan year, or would be in endangered status for such plan yearbut for paragraph (5),,<sup>1</sup> whether or not the plan is or will be in critical status for such plan year or for any of the succeeding 5 plan years, and whether or not the plan is or will be in critical and declining status for such plan year, and
+&emsp;&emsp;&emsp;(i) whether or not the plan is in endangered status for such plan year, or would be in endangered status for such plan year but for paragraph (5),,<sup>1</sup> whether or not the plan is or will be in critical status for such plan year or for any of the succeeding 5 plan years, and whether or not the plan is or will be in critical and declining status for such plan year, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a plan which is in a funding improvement or rehabilitation period, whether or not the plan is making the scheduled progress in meeting the requirements of its funding improvement or rehabilitation plan.
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) one proposal for increases in contributions under the plan necessary to achieve the applicable benchmarks, assuming no amendments reducing future benefit accruals under the plan, and
 
-&emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or otherinformation relevant to achieving the applicable benchmarks in accordance with the funding improvement plan.
+&emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to achieving the applicable benchmarks in accordance with the funding improvement plan.
 
 > &emsp;&emsp;For purposes of this section, the term "applicable benchmarks" means the requirements applicable to the multiemployer plan under paragraph (3) (as modified by paragraph (5)).
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (2) Special rules for plan adoption period
 
-&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial determination year and ending onthe date of the adoption of a funding improvement plan—
+&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial determination year and ending on the date of the adoption of a funding improvement plan—
 
 &emsp;&emsp;(A) the plan sponsor may not accept a collective bargaining agreement or participation agreement with respect to the multiemployer plan that provides for—
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be written in a manner so as to be understood by the average plan participant, and
 
-&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
+&emsp;&emsp;&emsp;&emsp;(III) may be provided in written, electronic, or other appropriate form to theextent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
 &emsp;&emsp;&nbsp;The Secretary of the Treasury shall in the regulations prescribed under subclause (I) establish a model notice that a plan sponsor may use to meet the requirements of this subparagraph.
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such action is accompanied by equitable benefit improvements in accordance with clause (ii) for all participants and beneficiaries whose benefit commencement dates were before the first day of the plan year for which the benefit improvement for such participant or beneficiary not in pay status took effect; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefits improvements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the plan actuary certifies that after taking into account such benefitsimprovements the plan is projected to avoid insolvency indefinitely under section 1426 of this title.
 
 #### (ii) Equitable distribution of benefit improvements
 
@@ -896,7 +896,7 @@ For purposes of this section—
 
 #### (B) Special rules for benefit increases
 
-&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation planunder subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
+&emsp;&emsp;A plan may not be amended after the date of the adoption of a rehabilitation plan under subsection (e) so as to increase benefits, including future benefit accruals, unless the plan actuary certifies that such increase is paid for out of additional contributions not contemplated by the rehabilitation plan, and, after taking into account the benefit increase, the multiemployer plan still is reasonably expected to emerge from critical status by the end of the rehabilitation period on the schedule contemplated in the rehabilitation plan.
 
 #### (2) Restriction on lump sums and similar benefits
 
@@ -932,7 +932,7 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), <sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
+&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>4</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
 
 #### (2) Surcharges
 

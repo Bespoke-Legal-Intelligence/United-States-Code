@@ -20,7 +20,7 @@ A distilled spirits plant may be established only by a person who intends to con
 
 #### (3) Secretary may establish minimum capacity and level of activity requirements
 
-&emsp;The Secretary may by regulations prescribe for each type of operation minimum capacity and level of activity requirements for qualifying premises as a distilled spirits plant.
+&emsp;The Secretary may by regulations prescribe for each type of operation minimum capacityand level of activity requirements for qualifying premises as a distilled spirits plant.
 
 #### (4) Applicant must comply with law and regulations
 
@@ -108,7 +108,7 @@ Current registration to remain in effect.—Notwithstanding paragraph (1), the r
 
 "(b)
 
-Continuing Operations at Existing Premises.—With respect to any operation which was permitted to be conducted on May 1, 1979, at premises which were registered on such date under section 5171 of the Internal Revenue Code of 1986, the determination of whether such premises qualify for registration under such section as a distilled spirits plant shall be made without regard to whether or not—
+Continuing Operations at Existing Premises.—With respect to any operation which was permitted tobe conducted on May 1, 1979, at premises which were registered on such date under section 5171 of the Internal Revenue Code of 1986, the determination of whether such premises qualify for registration under such section as a distilled spirits plant shall be made without regard to whether or not—
 
 &emsp;"(1) the person engaged in operations at such premises is registered under such section with respect to such premises as a distiller or warehouseman, and
 

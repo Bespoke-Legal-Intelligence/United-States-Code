@@ -2,7 +2,7 @@
 
 (a)
 
-When Evaluation Should Occcur <sup>1</sup>.—Periodically, but not less than every 4 years after the approval of any State program under section 302301 of this title, the Secretary, in consultation with the Council on the appropriate provisions of this division, and in cooperation with the State Historic Preservation Officer, shall evaluate the program to determine whether it is consistent with this division.
+When Evaluation Should Occcur <sup>1</sup>.—Periodically, but not less than every 4 years afterthe approval of any State program under section 302301 of this title, the Secretary, in consultation with the Council on the appropriate provisions of this division, and in cooperation with the State Historic Preservation Officer, shall evaluate the program to determine whether it is consistent with this division.
 
 (b)
 

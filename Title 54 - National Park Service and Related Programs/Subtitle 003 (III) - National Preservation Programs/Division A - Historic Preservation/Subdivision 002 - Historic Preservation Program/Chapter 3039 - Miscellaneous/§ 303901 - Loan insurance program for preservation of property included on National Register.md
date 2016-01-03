@@ -28,7 +28,7 @@ Consultation.—The Secretary shall consult with the Secretary of the Treasury r
 
 (d)
 
-Limitation on Amount of Unpaid Principal Balance of Loans.—The aggregate unpaid principal balance of loans insured under this section may not exceed the amount that has been deposited in the Historic Preservation Fund but which has not been appropriated for any purpose.
+Limitation on Amount of Unpaid Principal Balance of Loans.—The aggregate unpaid principal balance of loans insured under this section may not exceed the amount that has been deposited in the Historic PreservationFund but which has not been appropriated for any purpose.
 
 (e)
 

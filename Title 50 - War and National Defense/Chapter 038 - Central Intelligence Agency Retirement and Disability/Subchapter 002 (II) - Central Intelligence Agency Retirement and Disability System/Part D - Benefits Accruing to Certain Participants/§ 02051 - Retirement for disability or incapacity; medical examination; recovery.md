@@ -100,7 +100,7 @@
 
 #### (1) Refund to Department of Labor
 
-&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
+&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so muchof the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;&emsp;(A) refund to the Secretary of Labor the amount representing the commuted compensation payments for the extended period; or
 

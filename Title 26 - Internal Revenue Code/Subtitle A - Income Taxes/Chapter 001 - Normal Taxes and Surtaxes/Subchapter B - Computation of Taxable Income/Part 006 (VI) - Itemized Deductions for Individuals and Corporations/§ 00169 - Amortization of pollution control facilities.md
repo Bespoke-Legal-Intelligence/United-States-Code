@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-Every person, at his election, shall be entitled to a deduction with respect to the amortization of the amortizable basis of any certified pollution control facility (as defined in subsection (d)), based on a period of 60 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis of the pollution control facility at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The amortization deduction provided by this section with respect to any month shall be in lieu of the depreciation deduction with respect to such pollution control facility for such month provided by section 167. The 60-month period shall begin, as to any pollution control facility, at the election of the taxpayer, with the month following the month in which such facility was completed or acquired, or with the succeeding taxable year.
+Every person, at his election, shall be entitled to a deduction with respect to the amortization of the amortizable basis of any certified pollution control facility (as defined in subsection (d)), based on a period of 60 months. Such amortization deduction shall be an amount, with respect to each month of such period within the taxable year, equal to the amortizable basis of the pollution control facility at the end of such month divided by the number of months (including the month for which the deduction is computed) remaining in the period. Such amortizable basis at the end of the month shall be computed without regard to the amortization deduction for such month. The amortization deduction provided by this section with respect to any month shall be in lieu of the depreciation deduction with respect to such pollution control facility for such month provided by section 167. The 60-month period shall begin, as to any pollution control facility, at the election of the taxpayer, with the month following the month in whichsuch facility was completed or acquired, or with the succeeding taxable year.
 
 #### (b) Election of amortization
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied without regard to the phrase "in operation before January 1, 1976", and
 
-&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting "84" for "60" each place it appears in subsections (a) and (b).
+&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting"84" for "60" each place it appears in subsections (a) and (b).
 
 #### (e) Profitmaking abatement works, etc.
 
@@ -96,7 +96,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### References in Text
 
-The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For completeclassification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, as amended (33 U.S.C. 466 et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by section 1362(1) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
@@ -136,7 +136,7 @@ Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XXI, §2112(d)(2), Oct. 4, 1976, 90 Stat. 1907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976."
+Pub. L. 94–455, title XXI, §2112(d)(2), Oct. 4, 1976, 90 Stat. 1907, as amended by Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976."
 
 #### Effective Date
 

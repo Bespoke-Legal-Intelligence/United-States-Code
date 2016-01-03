@@ -46,7 +46,7 @@ The words "Not later than July 15, 1988" are omitted as obsolete.
 
 #### Amendments
 
-<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "anindividual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
+<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §4122(2)(A). See 2005 Amendment note below.
 
@@ -71,4 +71,8 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 #### Deadline for Issuance of Regulations
 
 Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: "Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\]."
+
+#### Commercial Learner's Permit for Individuals Under Age 18
+
+Pub. L. 114–113, div. L, title I, §132, Dec. 18, 2015, 129 Stat. 2850, provided that: "None of the funds limited or otherwise made available under this Act, or any other Act, hereafter, shall be used by the Secretary to enforce any regulation prohibiting a State from issuing a commercial learner's permit to individuals under the age of eighteen if the State had a law authorizing the issuance of commercial learner's permits to individuals under eighteen years of age as of May 9, 2011."
 

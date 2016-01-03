@@ -34,7 +34,7 @@
 
 &emsp;(i) receives a duty assignment described in subparagraph (C); and
 
-&emsp;(ii) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of driving time, from the nearest military medical treatment facility adequate to provide the needed care.
+&emsp;(ii) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of drivingtime, from the nearest military medical treatment facility adequate to provide the needed care.
 
 (C) A duty assignment referred to in subparagraph (B) means any of the following:
 
@@ -262,7 +262,7 @@ Submission.—Not later than 30 days after the issuance of the guidance required
 
 #### Smoking Cessation Program Under TRICARE
 
-Pub. L. 110–417, \[div. A\], title VII, §713, Oct. 14, 2008, 122 Stat. 4503, provided that:
+Pub. L. 110–417, \[div. A\], title VII, §713, Oct. 14, 2008, 122 Stat. 4503, as amended by Pub. L. 114–92, div. A, title VII, §705, Nov. 25, 2015, 129 Stat. 863, provided that:
 
 "(a) TRICARE
 
@@ -300,13 +300,13 @@ Refund of Copayments.—
 
 Authority.—Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary otherwise excluded by this section, subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
 
-&emsp;&emsp;"(A) the amount the beneficiary pays for copayments for smoking cessation services described in subsection (c) during fiscal year 2009; and
+&emsp;&emsp;"(A) the amount the beneficiary pays for copayments for smoking cessation services described in subsection (c); and
 
-&emsp;&emsp;"(B) the amount the beneficiary would have paid during such fiscal year if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
+&emsp;&emsp;"(B) the amount the beneficiary would have paid if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
 
 &emsp;"(2)
 
-Copayments covered.—The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
+Copayments covered.—The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries after September 30, 2008.
 
 "(g)
 
@@ -442,7 +442,7 @@ National guard or reserve members.—
 
 &emsp;&emsp;"(A) One of the pilot projects under this section shall be focused on members of the National Guard or Reserves who are located more than 40 miles from a military medical facility and who are served primarily by civilian community health resources.
 
-&emsp;&emsp;"(B) The pilot project described in subparagraph (A) shall be designed to develop educational materials and other tools for use by members of the National Guard or Reserves who come into contact with other members of the National Guard or Reserves who may suffer from post traumatic stress disorder in order to encourage and facilitate early reporting and referral for treatment.
+&emsp;&emsp;"(B) The pilot project described in subparagraph (A) shall be designed to develop educational materials and other tools for use by members of the National Guard or Reserves who come into contact with other members of the National Guard or Reserves who may suffer from post traumatic stressdisorder in order to encourage and facilitate early reporting and referral for treatment.
 
 &emsp;"(3)
 
@@ -812,7 +812,7 @@ Pub. L. 108–375, div. A, title VII, §735, Oct. 28, 2004, 118 Stat. 1999, prov
 
 "(a)
 
-Requirement for Review.—The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the ArmedForces who have been exposed to environmental hazards during deployments overseas, including the following data:
+Requirement for Review.—The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the Armed Forces who have been exposed to environmental hazards during deployments overseas, including the following data:
 
 &emsp;"(1) In-theater injury rates.
 
@@ -1006,7 +1006,7 @@ Eligibility.—A member of the uniformed services (as defined in section 1072(1)
 
 "(c)
 
-Applicable Policies.—In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care under the TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
+Applicable Policies.—In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care underthe TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
 
 "(d)
 
@@ -1376,7 +1376,7 @@ Definitions.—For purposes of this section:
 
 #### Advisory Committee on Mental Health Evaluation Protections
 
-Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for amental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
+Pub. L. 101–510, div. A, title V, §554, Nov. 5, 1990, 104 Stat. 1567, as amended by Pub. L. 102–484, div. A, title V, §546(j)\[(i)\], Oct. 23, 1992, 106 Stat. 2419, directed Secretary of Defense, not later than 60 days after Nov. 5, 1990, to establish an advisory committee to develop and recommend to the Secretary, not later than 6 months after Nov. 5, 1990, regulations on procedural protections that should be afforded to any member of the Armed Forces who is referred by a commanding officer for a mental health evaluation by a mental health professional and directed Secretary, not later than 30 days after receipt of the report, to submit to Congress the report of the advisory committee, along with such additional comments and recommendations by the Secretary as the Secretary considers appropriate.
 
 #### Prohibition on Fee for Outpatient Care at Military Medical Treatment Facilities
 

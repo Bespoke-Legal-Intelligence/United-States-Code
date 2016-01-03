@@ -6,7 +6,7 @@ The Attorney General may appoint a Director of the Federal Bureau of Investigati
 
 #### Historical and Revision Notes
 
-The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a "Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation". The Division of Investigation was first designated as the "Federal Bureau of Investigation" by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of "Director of the Federal Bureau of Investigation" was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
+The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a "Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation". The Division of Investigation was first designated as the "Federal Bureau of Investigation" by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since thatdate. The title of "Director of the Federal Bureau of Investigation" was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
 
 #### Findings
 
@@ -20,7 +20,7 @@ Pub. L. 112–24, §1, July 26, 2011, 125 Stat. 238, provided that: "Congress fi
 
 #### Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service
 
-Pub. L. 108–458, title II, §§2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, §806(b)(1), Oct. 7, 2010, 124 Stat. 2748, provided that:
+Pub. L. 108–458, title II, §§2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, §806(b)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 114–113, div. M, title VII, §701(b), Dec. 18, 2015, 129 Stat. 2929, provided that:
 
 #### "SEC. 2001. IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -90,9 +90,7 @@ Reports.—(1) Not later than 180 days after the date of the enactment of this A
 
 "(2) The Director shall include in each annual program review of the Federal Bureau of Investigation that is submitted to Congress a report on the progress made by each field office of the Bureau during the period covered by such review in addressing Bureau and national program priorities.
 
-"(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report assessing the qualifications, status, and roles of analysts at Bureau headquarters and in the field offices of the Bureau.
-
-"(4) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
+"(3) Not later than 180 days after the date of the enactment of this Act, and every 12 months thereafter, the Director shall submit to Congress a report on the progress of the Bureau in implementing information-sharing principles.
 
 #### "SEC. 2002. DIRECTORATE OF INTELLIGENCE OF THE FEDERAL BUREAU OF INVESTIGATION.
 
@@ -222,7 +220,7 @@ Implementation.—Any program proposed under subsection (a) may be implemented o
 
 "(c)
 
-Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only tothe extent that appropriated funds are available for that purpose."
+Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose."
 
 #### Confirmation and Compensation of Director; Term of Service
 

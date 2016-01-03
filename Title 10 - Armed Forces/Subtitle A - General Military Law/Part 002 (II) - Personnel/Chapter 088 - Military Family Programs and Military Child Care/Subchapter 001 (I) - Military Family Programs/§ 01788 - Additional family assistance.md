@@ -20,7 +20,7 @@ Pub. L. 107–314, div. A, title VI, §652(b), Dec. 2, 2002, 116 Stat. 2581, pro
 
 #### Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces
 
-Pub. L. 113–66, div. A, title V, §554, Dec. 26, 2013, 127 Stat. 765, provided that:
+Pub. L. 113–66, div. A, title V, §554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, §574, Nov. 25, 2015, 129 Stat. 831, provided that:
 
 "(a)
 
@@ -30,7 +30,7 @@ Pilot Programs Authorized.—Consistent with such regulations as the Secretary o
 
 Selection of Programs.—In selecting the pilot programs to be conducted under subsection (a), the Commander shall—
 
-&emsp;"(1) identify family support activities that have a direct and concrete impact on the readiness of specialoperations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and
+&emsp;"(1) identify family support activities that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and
 
 &emsp;"(2) conduct a cost-benefit analysis of each family support activity proposed to be included in a pilot program.
 
@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 "(f)
 
-Duration of Pilot Program Authority.—The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2016.
+Duration of Pilot Program Authority.—The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2018.
 
 "(g)
 
@@ -62,13 +62,13 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after completing a pilot program under subsection (a), the Commander shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the results of the pilot program. The Commander shall prepare the report in coordination with the Under Secretary of Defense for Personnel and Readiness.
+In general.—Not later than March 1, 2016, and each March 1 thereafter though the conclusion of the pilot programs conducted under subsection (a), the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the pilot programs.
 
 &emsp;"(2)
 
-Elements of report.—The report shall include the following:
+Elements of report.—Each report under this subsection shall include the following for each pilot program:
 
-&emsp;&emsp;"(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
+&emsp;&emsp;"(A) A description of the pilot program to address family support requirements not being provided bythe Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
 
 &emsp;&emsp;"(B) An assessment of the impact of the pilot program on the readiness of members of the Armed Forces assigned to special operations forces.
 

@@ -8,7 +8,7 @@
 
 &emsp;(C) the rail carrier is a party to those routes and rates.
 
-(2) A rail carrier directed to route property transported under paragraph (1) of this subsection must issue a through bill of lading containing the routing instructions and transport the property according to the instructions. When the property is delivered to a connecting rail carrier, that rail carrier must also receive and transport it according to the routing instructions and deliver it to the next succeeding rail carrier or consignee according to the instructions.
+(2) A rail carrier directed to route property transported under paragraph (1) of this subsection must issue a through bill of lading containing the routing instructions and transport the property according to the instructions. When the property is delivered to a connecting rail carrier, that rail carrier must also receiveand transport it according to the routing instructions and deliver it to the next succeeding rail carrier or consignee according to the instructions.
 
 (b) The Board may prescribe exceptions to the authority of a person to direct the movement of traffic under subsection (a) of this section.
 

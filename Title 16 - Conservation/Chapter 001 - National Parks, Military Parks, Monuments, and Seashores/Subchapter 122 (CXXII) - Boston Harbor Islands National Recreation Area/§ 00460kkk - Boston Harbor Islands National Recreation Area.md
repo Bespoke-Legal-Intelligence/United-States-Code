@@ -16,7 +16,7 @@ The purposes of this section are—
 
 For the purposes of this section—
 
-&emsp;(1) the term "recreation area" means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
+&emsp;(1) the term "recreation area" means the Boston Harbor Islands National Recreation Area established by subsection (c); and
 
 &emsp;(2) the term "Secretary" means the Secretary of the Interior.
 
@@ -38,13 +38,13 @@ For the purposes of this section—
 
 #### (3) Land acquisition
 
-&emsp;Notwithstanding subsection (h) of this section, the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
+&emsp;Notwithstanding subsection (h), the Secretary is authorized to acquire, in partnership with other entities, a less than fee interest in lands at Thompson Island within the recreation area. The Secretary may acquire the lands only by donation, purchase with donated or appropriated funds, or by exchange.
 
 #### (d) Administration of recreation area
 
 #### (1) In general
 
-&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordancewith the integrated management plan specified in subsection (f).
 
 #### (2) State and local jurisdiction
 
@@ -124,7 +124,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(J) One individual, appointed by the Secretary, after consideration of recommendations of the President of the Island Alliance, to represent the Alliance, a nonprofit organization whose sole purpose is to provide financial support for the Boston Harbor Islands National Recreation Area.
 
-&emsp;&emsp;(K) Two individuals, appointed by the Secretary, to represent the Boston Harbor Islands Advisory Council, established in subsection (g) of this section.
+&emsp;&emsp;(K) Two individuals, appointed by the Secretary, to represent the Boston Harbor Islands Advisory Council, established in subsection (g).
 
 #### (3) Terms of office; reappointment
 
@@ -180,7 +180,7 @@ For the purposes of this section—
 
 #### (15) Cooperative agreements
 
-&emsp;For purposes of carrying out the plan described in subsection (f) of this section, the Partnership may enter into cooperative agreements with the Commonwealth of Massachusetts, any political subdivision thereof, or with any organization or person.
+&emsp;For purposes of carrying out the plan described in subsection (f), the Partnership may enter into cooperative agreements with the Commonwealth of Massachusetts, any political subdivision thereof, or with any organization or person.
 
 #### (f) Integrated resource management plan
 
@@ -194,7 +194,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) A program providing for coordinated administration of the recreation area with proposed assignment of responsibilities to the appropriate governmental unit at the Federal, State, and local levels, and nonprofit organizations, including each of the following:
 
-&emsp;&emsp;&emsp;(i) A plan to finance and support the public improvements and services recommended in the plan, including allocation of non-Federal matching requirements set forth in subsection (h)(2) of this section and a delineation of private-sector roles and responsibilities.
+&emsp;&emsp;&emsp;(i) A plan to finance and support the public improvements and services recommended in the plan, including allocation of non-Federal matching requirements set forth in subsection (h)(2) and a delineation of private-sector roles and responsibilities.
 
 &emsp;&emsp;&emsp;(ii) A program for the coordination and consolidation, to the extent feasible, of activities that may be carried out by Federal, State, and local agencies having jurisdiction over land and waters within the recreation area, including planning and regulatory responsibilities.
 
@@ -244,7 +244,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
+&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f). The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
 
 #### (2) Membership
 
@@ -272,7 +272,7 @@ For the purposes of this section—
 
 #### References in Text
 
-The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (d)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (d)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

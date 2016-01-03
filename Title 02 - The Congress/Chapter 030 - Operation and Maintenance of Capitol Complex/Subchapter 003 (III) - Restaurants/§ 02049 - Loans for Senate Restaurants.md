@@ -10,7 +10,7 @@ Any such loan authorized pursuant to subsection (a) of this section shall be for
 
 #### (c) Deposit, credit, and future availability of proceeds from repayment
 
-All proceeds from the repayment of any such loan shall be deposited in the appropriation account, within the contingent fund of the Senate, for "Miscellaneous Items", shall be credited to the fiscal year during which such loan wasmade, and shall thereafter be available for the same purposes for which the amount loaned was initially appropriated.
+All proceeds from the repayment of any such loan shall be deposited in the appropriation account, within the contingent fund of the Senate, for "Miscellaneous Items", shall be credited to the fiscal year during which such loan was made, and shall thereafter be available for the same purposes for which the amount loaned was initially appropriated.
 
 (Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1395.)
 

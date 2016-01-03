@@ -62,7 +62,7 @@ For purposes of section 38, the nonconventional source production credit determi
 
 #### (5) Credit reduced for enhanced oil recovery credit
 
-&emsp;The amount allowable as a credit under subsection (a) with respect to any project for any taxable year (determined after application of paragraphs (1), (2), (3), and (4)) shall be reduced by the excess (if any) of—
+&emsp;The amount allowable as a credit under subsection (a) with respect to any project for any taxable year (determined after application ofparagraphs (1), (2), (3), and (4)) shall be reduced by the excess (if any) of—
 
 &emsp;&emsp;(A) the aggregate amount allowed under section 38 for the taxable year and any prior taxable year by reason of any enhanced oil recovery credit determined under section 43 with respect to such project, over
 
@@ -220,7 +220,7 @@ Notwithstanding subsection (e)—
 
 &emsp;&emsp;No credit shall be allowed with respect to any coke or coke gas which is produced using steel industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is allowed to any taxpayer under section 45 with respect to the production of such steel industry fuel.
 
-(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 113–295, div. A, title II, §210(a), Dec. 19, 2014, 128 Stat. 4031.)
+(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388-550, 1388-558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 113–295, div. A, title II, §210(a), Dec. 19, 2014, 128 Stat. 4031.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -236,7 +236,7 @@ The date of the enactment of this clause, and such date of enactment, referred t
 
 #### Amendments
 
-<b>2014</b>—Subsec. (g)(2)(E). Pub. L. 113–295 amended subpar. (E) generally. Prior to amendment, text read as follows: "No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45."
+<b>2014</b>—Subsec. (g)(2)(E). Pub. L. 113–295 amended subpar. (E) generally. Prior to amendment, text read asfollows: "No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45."
 
 <b>2008</b>—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
 
@@ -404,7 +404,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Exceptions.—The amendments made by this section shall not apply to—
 
-&emsp;"(A) any transition property (as defined in section 49(e) of the Internal Revenue Code of 1986 (as in effecton the day before the date of the enactment of this Act \[Nov. 5, 1990\]),
+&emsp;"(A) any transition property (as defined in section 49(e) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act \[Nov. 5, 1990\]),
 
 &emsp;"(B) any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of such Code (as so in effect), and
 
@@ -416,7 +416,7 @@ Pub. L. 101–508, title XI, §11821(a), Nov. 5, 1990, 104 Stat. 1388–558, pro
 
 Amendment by section 701(c)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(c)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\]."
+Pub. L. 99–514, title XVIII, §1879(c)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effectas if included in the amendments made by section 231 of Public Law 96–223 \[see Effective Date note below\]."
 
 #### Effective Date of 1984 Amendment
 

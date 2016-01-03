@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2015, the Secretary shall allot to each State an amount equal to the product of—
+&emsp;&emsp;For the purpose described in subsection (b), subject to the succeeding provisions of this section, for each of fiscal years 2010 through 2017, the Secretary shall allot to each State an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under subsection (f) for the fiscal year and available for allotments to States after the application of subsection (c); and
 
@@ -60,13 +60,13 @@
 
 #### (A) Grants from unexpended allotments
 
-&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011,the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2015 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2015. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
+&emsp;&emsp;If a State does not submit an application under this section for fiscal year 2010 or 2011, the State shall no longer be eligible to submit an application to receive funds from the amounts allotted for the State for each of fiscal years 2010 through 2017 and such amounts shall be used by the Secretary to award grants under this paragraph for each of fiscal years 2012 through 2017. The Secretary also shall use any amounts from the allotments of States that submit applications under this section for a fiscal year that remain unexpended as of the end of the period in which the allotments are available for expenditure under paragraph (3) for awarding grants under this paragraph.
 
 #### (B) 3-year grants
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012, 2013, 2014, and 2015 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;The Secretary shall solicit applications to award 3-year grants in each of fiscal years 2012 through 2017 to local organizations and entities to conduct, consistent with subsection (b), programs and activities in States that do not submit an application for an allotment under this section for fiscal year 2010 or 2011.
 
 #### (ii) Faith-based organizations or consortia
 
@@ -136,7 +136,7 @@
 
 #### (1) Grants to implement innovative strategies
 
-&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount forpurposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
+&emsp;From the amount appropriated under subsection (f) for the fiscal year, the Secretary shall reserve $10,000,000 of such amount for purposes of awarding grants to entities to implement innovative youth pregnancy prevention strategies and target services to high-risk, vulnerable, and culturally under-represented youth populations, including youth in foster care, homeless youth, youth with HIV/AIDS, pregnant women who are under 21 years of age and their partners, mothers who are under 21 years of age and their partners, and youth residing in areas with high birth rates for youth. An entity awarded a grant under this paragraph shall agree to participate in a rigorous Federal evaluation of the activities carried out with grant funds.
 
 #### (2) Other reservations
 
@@ -150,7 +150,7 @@
 
 #### (i) Reservation of funds
 
-&emsp;&emsp;&emsp;The Secretary shall reserve 10 percent of such remainder for expenditures by the Secretary for the activities described in clauses (ii) and (iii).
+&emsp;&emsp;&emsp;The Secretary shall reserve 10 percent of such remainder for expenditures by theSecretary for the activities described in clauses (ii) and (iii).
 
 #### (ii) Program support
 
@@ -214,9 +214,9 @@ In this section:
 
 #### (f) Appropriation
 
-For the purpose of carrying out this section, there is appropriated, out of any money in theTreasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2015. Amounts appropriated under this subsection shall remain available until expended.
+For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2017. Amounts appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046.)
+(Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153.)
 
 #### Prior Provisions
 
@@ -227,6 +227,12 @@ Another prior section 713, acts Aug. 14, 1935, ch. 531, title V, §513, 49 Stat.
 Provisions similar to those comprising former section 713 were contained in section 541 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 634 (formerly classified to section 731 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(A), (4)(A). Pub. L. 114–10, §215(1), substituted "2017" for "2015" wherever appearing.
+
+Subsec. (a)(4)(B)(i). Pub. L. 114–10, §215(2), substituted "through 2017" for ", 2013, 2014, and 2015".
+
+Subsec. (f). Pub. L. 114–10, §215(3), substituted "2017" for "2015".
 
 <b>2014</b>—Subsec. (a)(1)(A), (4)(A). Pub. L. 113–93, §206(1), substituted "2015" for "2014" wherever appearing.
 

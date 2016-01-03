@@ -4,7 +4,7 @@
 
 &emsp;(1) the term "flood" shall have such meaning as may be prescribed in regulations of the Administrator, and may include inundation from rising waters or from the overflow of streams, rivers, or other bodies of water, or from tidal surges, abnormally high tidal water, tidal waves, tsunamis, hurricanes, or other severe storms or deluge;
 
-&emsp;(2) the terms "United States" (when used in a geographic sense) and "State" includes theseveral States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
+&emsp;(2) the terms "United States" (when used in a geographic sense) and "State" includes the several States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
 
 &emsp;(3) the terms "insurance company", "other insurer" and "insurance agent or broker" include any organization or person that is authorized to engage in the business of insurance under the laws of any State, subject to the reporting requirements of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] pursuant to section 13(a) or 15(d) of such Act (15 U.S.C. 78m(a) and 78o(d)), or authorized by the Administrator to assume reinsurance on risks insured by the flood insurance program;
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) the term "repetitive loss structure" means a structure covered by a contract for flood insurance that—
 
-&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event; and
+&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent ofthe value of the structure at the time of each such flood event; and
 
 &emsp;&emsp;(B) at the time of the second incidence of flood-related damage, the contract for flood insurance contains increased cost of compliance coverage.<sup>1</sup>
 
@@ -44,7 +44,7 @@
 
 (c) The term "flood" shall also include the collapse or subsidence of land along the shore of a lake or other body of water as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels, and all of the provisions of this chapter shall apply with respect to such collapse or subsidence in the same manner and to the same extent as with respect to floods described in subsection (a)(1) of this section, subject to and in accordance with such regulations, modifying the provisions of this chapter (including the provisions relating to land management and use) to the extent necessary to insure that they can be effectively so applied, as the Administrator may prescribe to achieve (with respect to such collapse or subsidence) the purposes of this chapter and the objectives of the program.
 
-(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title I \[title IV, §451(d)(1), (8)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L.103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100232(d)(5), 100238(b)(1), (3), July 6, 2012, 126 Stat. 954, 958.)
+(Pub. L. 90–448, title XIII, §1370, Aug. 1, 1968, 82 Stat. 588; Pub. L. 91–152, title IV, §409(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §§107, 108(b), Dec. 31, 1973, 87 Stat. 979, 980; Pub. L. 98–181, title I \[title IV, §451(d)(1), (8)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–628, title X, §1086(b), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 103–325, title V, §512(a), Sept. 23, 1994, 108 Stat. 2256; Pub. L. 108–264, title I, §105(b), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100232(d)(5), 100238(b)(1), (3), July 6, 2012, 126 Stat. 954, 958.)
 
 #### References in Text
 

@@ -56,13 +56,13 @@
 
 &emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
-&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock ofthe controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
+&emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
 #### (F) Certain transactions involving 2 or more investment companies
 
 &emsp;&emsp;&emsp;(i) If immediately before a transaction described in paragraph (1) (other than subparagraph (E) thereof), 2 or more parties to the transaction were investment companies, then the transaction shall not be considered to be a reorganization with respect to any such investment company (and its shareholders and security holders) unless it was a regulated investment company, a real estate investment trust, or a corporation which meets the requirements of clause (ii).
 
-&emsp;&emsp;&emsp;(ii) A corporation meets the requirements of this clause if not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer. For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.
+&emsp;&emsp;&emsp;(ii) A corporation meets the requirements of this clause if not more than 25percent of the value of its total assets is invested in the stock and securities of any one issuer, and not more than 50 percent of the value of its total assets is invested in the stock and securities of 5 or fewer issuers. For purposes of this clause, all members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one issuer. For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.
 
 &emsp;&emsp;&emsp;(iii) For purposes of this subparagraph the term "investment company" means a regulated investment company, a real estate investment trust, or a corporation 50 percent or more of the value of whose total assets are stock and securities and 80 percent or more of the value of whose total assets are assets held for investment. In making the 50-percent and 80-percent determinations under the preceding sentence, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets, and a corporation shall be considered a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, or 50 percent or more of the total value of shares of all classes of stock outstanding.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term "control" has the meaning given such term by section 304(c), and
 
-&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
+&emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
 #### (3) Additional rules relating to title 11 and similar cases
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 96–589, §4(b), added par. (3).
 
 Subsec. (b). Pub. L. 96–589, §4(h)(4), substituted "paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C)" and "paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D)" for "paragraph (1)(A), (1)(B), or (1)(C) of subsection (a) by reason of paragraph (2)(C)" and "paragraph (1)(A) of subsection (a) by reason of paragraph (2)(D)", respectively.
 
-<b>1978</b>—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, "50 percent or more" and "80percent or more" for "more than 50 percent" and "more than 80 percent"; substituted in cl. (vi), first sentence, "does not meet the requirements" for "is not diversified within the meaning"; struck from cl. (vi), second sentence, "(hereafter referred to as the ('actual acquisition')" after "section 368(a)(1)(B)" and "and security holders" after "the shareholders" and substituted "stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange" for "stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition"; and added cls. (vii) and (viii).
+<b>1978</b>—Subsec. (a)(2)(F). Pub. L. 95–600 substituted in cl. (iii), first sentence, "50 percent or more" and "80 percent or more" for "more than 50 percent" and "more than 80 percent"; substituted in cl. (vi), first sentence, "does not meet the requirements" for "is not diversified within the meaning"; struck from cl. (vi), second sentence, "(hereafter referred to as the ('actual acquisition')" after "section 368(a)(1)(B)" and "and security holders" after "the shareholders" and substituted "stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange" for "stock in such investment company for a percentage of the value of the total outstanding stock of the other corporation equal to the percentage of the value of the total outstanding stock of such investment company which such shareholders own immediately after the actual acquisition"; and added cls. (vii) and (viii).
 
 <b>1976</b>—Subsec. (a)(2)(F). Pub. L. 94–455, §2131(a), added subpar. (F).
 
@@ -296,7 +296,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 "(2)
 
-Plans adopted on or before august 31, 1982.—The amendment made by subsection (a) shall not applywith respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983."
+Plans adopted on or before august 31, 1982.—The amendment made by subsection (a) shall not apply with respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983."
 
 #### Effective Date of 1981 Amendment
 

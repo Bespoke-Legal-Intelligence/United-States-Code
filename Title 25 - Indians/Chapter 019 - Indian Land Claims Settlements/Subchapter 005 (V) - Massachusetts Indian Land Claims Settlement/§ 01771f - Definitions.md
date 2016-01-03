@@ -24,7 +24,7 @@ For the purposes of this subchapter:
 
 #### (6) Private settlement lands
 
-&emsp;The term "private settlement lands" means approximately 177 acres of privately held land described in paragraph 6 of the Settlement Agreement.
+&emsp;The term "private settlement lands" means approximately 177 acres of privately held landdescribed in paragraph 6 of the Settlement Agreement.
 
 #### (7) Public settlement lands
 

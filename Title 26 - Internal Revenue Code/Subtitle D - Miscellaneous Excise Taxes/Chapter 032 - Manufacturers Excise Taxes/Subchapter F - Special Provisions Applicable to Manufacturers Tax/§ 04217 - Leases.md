@@ -26,7 +26,7 @@ For purposes of this section, the term "total tax" means—
 
 #### (2) Sale before total tax becomes payable
 
-&emsp;If the taxpayer sells an article before the total tax has become payable, then the taxpayable on such sale shall be whichever of the following is the smaller:
+&emsp;If the taxpayer sells an article before the total tax has become payable, then the tax payable on such sale shall be whichever of the following is the smaller:
 
 &emsp;&emsp;(A) the difference between (i) the tax imposed on lease payments under leases of such article to which subsection (b) applies, and (ii) the total tax, or
 

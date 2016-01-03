@@ -6,7 +6,7 @@ The Secretary of Agriculture either independently or in cooperation with States 
 
 #### (b) Cooperation with certain foreign governments; measure and character; consultation with Secretary of State
 
-The Secretary of Agriculture is authorized to cooperate with the Governments of Canada, Mexico, Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, and Colombia, or the local authorities thereof, in carrying out necessary research, surveys, and control operations in those countries in connection with the eradication, suppression, control, and prevention or retardation of the spread of undesirable species and subspecies of honeybees, including but not limited to Apis mellifera adansonii, commonly known as the African or Brazilian honeybee. The measure and character of cooperation carried out under this subsection on the part of such countries, including the expenditure or use of funds appropriated pursuant to this chapter, shall be such as may be prescribed by the Secretary of Agriculture. Arrangements for the cooperation authorized by this subsection shall be made through and in consultation with the Secretary of State.
+The Secretary of Agriculture is authorized to cooperate with the Governments of Canada, Mexico, Guatemala, Belize, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, and Colombia, or the local authorities thereof, in carrying out necessary research, surveys, and control operations in those countries in connectionwith the eradication, suppression, control, and prevention or retardation of the spread of undesirable species and subspecies of honeybees, including but not limited to Apis mellifera adansonii, commonly known as the African or Brazilian honeybee. The measure and character of cooperation carried out under this subsection on the part of such countries, including the expenditure or use of funds appropriated pursuant to this chapter, shall be such as may be prescribed by the Secretary of Agriculture. Arrangements for the cooperation authorized by this subsection shall be made through and in consultation with the Secretary of State.
 
 #### (c) Responsibility for authority to carry out operations
 
@@ -16,7 +16,7 @@ In performing the operations or measures authorized in this chapter, the coopera
 
 #### Indemnification for Beekeepers
 
-Pub. L. 91–524, title VIII, §804, Nov. 30, 1970, 84 Stat. 1382, as amended by Pub. L. 93–86, §1(27)(A), Aug. 10,1973, 87 Stat. 237; Pub. L. 95–113, title II, §207, Sept. 29, 1977, 91 Stat. 921, provided that:
+Pub. L. 91–524, title VIII, §804, Nov. 30, 1970, 84 Stat. 1382, as amended by Pub. L. 93–86, §1(27)(A), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–113, title II, §207, Sept. 29, 1977, 91 Stat. 921, provided that:
 
 "(a) The Secretary of Agriculture is authorized to make indemnity payments to beekeepers who through no fault of their own have suffered losses of honey bees after January 1, 1967, as a result of utilization of economic poisons near or adjacent to the property on which the beehives of such beekeepers were located.
 

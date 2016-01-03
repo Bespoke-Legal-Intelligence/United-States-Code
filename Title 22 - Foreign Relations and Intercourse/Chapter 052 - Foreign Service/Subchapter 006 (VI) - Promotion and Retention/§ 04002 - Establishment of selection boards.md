@@ -2,7 +2,7 @@
 
 #### (a) Evaluation of performance; recommendations
 
-The Secretary shall establish selection boards to evaluate the performance of members of theSenior Foreign Service and members of the Service assigned to a salary class in the Foreign Service Schedule. Selection boards shall, in accordance with precepts prescribed by the Secretary, rank the members of a salary class on the basis of relative performance and may make recommendations for—
+The Secretary shall establish selection boards to evaluate the performance of members of the Senior Foreign Service and members of the Service assigned to a salary class in the Foreign Service Schedule. Selection boards shall, in accordance with precepts prescribed by the Secretary, rank the members of a salary class on the basis of relative performance and may make recommendations for—
 
 &emsp;(1) promotions in accordance with section 4001 of this title;
 

@@ -98,7 +98,7 @@ For purposes of applying provisions of part C of this subchapter under this part
 
 #### References in Text
 
-Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original "section1860D–1(a)(4)", and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
+Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original "section 1860D–1(a)(4)", and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

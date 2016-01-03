@@ -6,7 +6,7 @@ General Powers of Secretary.—The Secretary of the Treasury may (except under s
 
 &emsp;(1) except as provided in subsection (b)(2), delegate duties and powers under this subchapter to an appropriate supervising agency and the United States Postal Service;
 
-&emsp;(2) require a class of domestic financial institutions or nonfinancial trades or businesses to maintain appropriate procedures to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering;
+&emsp;(2) require a class of domestic financial institutions or nonfinancial trades or businessesto maintain appropriate procedures to ensure compliance with this subchapter and regulations prescribed under this subchapter or to guard against money laundering;
 
 &emsp;(3) examine any books, papers, records, or other data of domestic financial institutions or nonfinancial trades or businesses relevant to the recordkeeping or reporting requirements of this subchapter;
 
@@ -186,7 +186,7 @@ In general.—In order to guard against money laundering through financial insti
 
 &emsp;(2)
 
-Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is notsubject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
+Regulations.—The Secretary of the Treasury, after consultation with the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act), may prescribe minimum standards for programs established under paragraph (1), and may exempt from the application of those standards any financial institution that is not subject to the provisions of the rules contained in part 103 of title 31, of the Code of Federal Regulations, or any successor rule thereto, for so long as such financial institution is not subject to the provisions of such rules.
 
 &emsp;(3)
 
@@ -256,7 +256,7 @@ Private banking account.—The term "private banking account" means an account (
 
 &emsp;&emsp;&emsp;(ii) is established on behalf of 1 or more individuals who have a direct or beneficial ownership interest in the account; and
 
-&emsp;&emsp;&emsp;(iii) is assigned to, or is administered or managed by, in whole or in part, an officer, employee, or agent of a financial institution acting as a liaison between the financial institution and the direct or beneficial owner of the account.
+&emsp;&emsp;&emsp;(iii) is assigned to, or is administered or managed by, in whole or in part, an officer,employee, or agent of a financial institution acting as a liaison between the financial institution and the direct or beneficial owner of the account.
 
 (j)
 
@@ -358,7 +358,7 @@ Termination upon receipt of notice.—A covered financial institution shall term
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on liability.—A covered financial institution shall not be liable toany person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
+Limitation on liability.—A covered financial institution shall not be liable to any person in any court or arbitration proceeding for terminating a correspondent relationship in accordance with this subsection.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -428,9 +428,9 @@ Feasibility report.—
 
 &emsp;&emsp;(A)
 
-In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
+In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the Intelligence Reform andTerrorism Prevention Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
 
-&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of fundsthat may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
+&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
 &emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
 
@@ -496,7 +496,7 @@ The date of enactment of the International Money Laundering Abatement and Financ
 
 The date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004, referred to in subsec. (n)(4)(A), is the date of enactment of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
-The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(5)(A), probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
+The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(5)(A),probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
 For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
@@ -606,7 +606,7 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this sectionand enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
+Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: "Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act."
 
 Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\]."
 
@@ -676,7 +676,7 @@ Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the
 
 "(b)
 
-Improved Reporting of Criminal Schemes by Law Enforcement Agencies.—The Secretary of the Treasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency's ability to examine for and identify money laundering activity.
+Improved Reporting of Criminal Schemes by Law Enforcement Agencies.—The Secretary of theTreasury and each appropriate law enforcement agency shall provide, on a regular basis, information regarding money laundering schemes and activities involving depository institutions to each appropriate Federal banking agency in order to enhance each agency's ability to examine for and identify money laundering activity.
 
 "(c)
 

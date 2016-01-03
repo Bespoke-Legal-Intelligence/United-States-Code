@@ -1,6 +1,6 @@
 ### §3539. Housing and Urban Development Disaster Assistance Fund
 
-The Secretary of Housing and Urban Development is authorized to establish a fund and to transfer to such fund from appropriations or funds available to the Department of Housing and Urban Development, such amounts as may be necessary to provide disaster assistance for which the Secretary has been requested by the President to make resources available pursuant to the authority of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+The Secretary of Housing and Urban Development is authorized to establish a fund and to transfer to such fund from appropriations or funds available to the Department of Housingand Urban Development, such amounts as may be necessary to provide disaster assistance for which the Secretary has been requested by the President to make resources available pursuant to the authority of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
 (Pub. L. 92–383, title IV, §406, Aug. 14, 1972, 86 Stat. 553; 1973 Reorg. Plan No. 1, §§1, 3(a)(1), eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089; Ex. Ord. No. 11749, §2(1), Dec. 10, 1973, 38 F.R. 34177; Ex. Ord. No. 12148, §4–201, July 20, 1979, 44 F.R. 43239; Pub. L. 100–707, title I, §109(s), Nov. 23, 1988, 102 Stat. 4710.)
 
@@ -26,7 +26,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 "President" substituted in text for "Director of the Office of Emergency Preparedness" pursuant to section 1 of Reorganization Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.
+Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.
 
 Office of Emergency Preparedness \[formerly Office of Emergency Planning\], including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President of United States by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 

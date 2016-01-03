@@ -54,7 +54,7 @@
 
 #### (3) Transmittal of data to States
 
-&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shallinitiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after the Secretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
+&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after theSecretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
 
 #### (4) Coordination with outreach
 
@@ -122,11 +122,11 @@ A prior section 1320b–14, act Aug. 14, 1935, ch. 531, title XI, §1144, as add
 
 <b>2003</b>—Pub. L. 108–173, §103(g)(1), inserted "and subsidies for low-income individuals under subchapter XVIII" after "cost-sharing" in section catchline.
 
-Subsec. (a)(1)(A). Pub. L. 108–173, §103(g)(2)(A)(i), inserted "for the transitional assistance under section1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title" before semicolon.
+Subsec. (a)(1)(A). Pub. L. 108–173, §103(g)(2)(A)(i), inserted "for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title" before semicolon.
 
 Subsec. (a)(1)(B). Pub. L. 108–173, §103(g)(2)(A)(ii), inserted ", program, and subsidies" after "medical assistance".
 
-Subsec. (a)(2). Pub. L. 108–173, §103(g)(2)(B)(i), inserted ", the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidies under section 1395w–114 of this title" after "assistance" in introductory provisions.
+Subsec. (a)(2). Pub. L. 108–173, §103(g)(2)(B)(i), inserted ", the transitional assistance under section 1395w–141(f) of this title, or premium and cost-sharing subsidiesunder section 1395w–114 of this title" after "assistance" in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 108–173, §103(g)(2)(B)(ii), substituted "eligibility for medicare cost-sharing under the medicaid program" for "such eligibility".
 

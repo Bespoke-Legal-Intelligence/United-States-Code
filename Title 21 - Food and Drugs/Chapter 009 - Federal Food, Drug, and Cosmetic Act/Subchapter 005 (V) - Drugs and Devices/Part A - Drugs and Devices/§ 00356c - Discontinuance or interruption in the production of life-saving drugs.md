@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (5) Restrictions
 
-&emsp;Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
+&emsp;Notwithstanding any other provision of Federal law, in implementing this section, theSecretary shall only promulgate regulations as described in paragraph (4).
 
 (June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099.)
 

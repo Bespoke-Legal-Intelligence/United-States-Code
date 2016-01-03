@@ -4,7 +4,7 @@
 
 #### (1) Optional referendum
 
-&emsp;For the purpose of ascertaining whether the persons to be covered by an order favor theorder going into effect, the order may provide for the Secretary to conduct an initial referendum among persons to be subject to an assessment under section 7416 of this title who, during a representative period determined by the Secretary, engaged in—
+&emsp;For the purpose of ascertaining whether the persons to be covered by an order favor the order going into effect, the order may provide for the Secretary to conduct an initial referendum among persons to be subject to an assessment under section 7416 of this title who, during a representative period determined by the Secretary, engaged in—
 
 &emsp;&emsp;(A) the production or handling of the agricultural commodity covered by the order; or
 

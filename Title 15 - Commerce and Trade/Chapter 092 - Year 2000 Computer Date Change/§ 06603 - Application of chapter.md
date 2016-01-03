@@ -90,7 +90,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(B) a Y2K upset occurred as a result of a Y2K failure or other emergency directly related to a Y2K failure;
 
-&emsp;&emsp;(C) noncompliance with the applicable federally enforceable measurement, monitoring, or reporting requirement was unavoidable in the face of an emergency directly related to a Y2K failure and was necessary to prevent the disruption of critical functions or services that could result in harm to life or property;
+&emsp;&emsp;(C) noncompliance with the applicable federally enforceable measurement, monitoring, or reporting requirement was unavoidable in the face of an emergency directly related to a Y2K failure and was necessary toprevent the disruption of critical functions or services that could result in harm to life or property;
 
 &emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violation of federally enforceable measurement, monitoring, or reporting requirements; and
 

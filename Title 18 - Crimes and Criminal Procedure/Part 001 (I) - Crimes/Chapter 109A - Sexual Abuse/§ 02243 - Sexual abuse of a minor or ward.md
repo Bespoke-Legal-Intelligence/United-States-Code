@@ -12,7 +12,7 @@ Of a Minor.—Whoever, in the special maritime and territorial jurisdiction of t
 
 (b)
 
-Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who is—
+Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison,institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who is—
 
 &emsp;(1) in official detention; and
 

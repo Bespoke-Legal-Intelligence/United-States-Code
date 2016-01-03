@@ -36,7 +36,7 @@ Officers Twice Failed of Selection.—A reserve officer of the Army or Air Force
 
 "(f)
 
-Officers With Approved Promotion Declinations in Effect.—A reserve officer of the Army who, on the day before the effective date of this title, has declined a promotion under subsection (f) or (g) of section 3364 of title 10, United States Code, shall while carried on the reserve active status list be subject to the provisions of subsections (h), (i), and (j) of such section, as in effect on the day before the effective date of this title, except that the name of an officer to whom thissection applies shall be placed on a promotion list under section 14308(a) of title 10, United States Code (as added by this title), and, at the end of the approved period of declination, shall be considered to have failed of promotion if the officer again declines to accept the promotion.
+Officers With Approved Promotion Declinations in Effect.—A reserve officer of the Army who, on the day before the effective date of this title, has declined a promotion under subsection (f) or (g) of section 3364 of title 10, United States Code, shall while carried on the reserve active status list be subject to the provisions of subsections (h), (i), and (j) of such section, as in effect on the day before the effective date of this title, except that the name of an officer to whom this section applies shall be placed on a promotion list under section 14308(a) of title 10, United States Code (as added by this title), and, at the end of the approved period of declination, shall be considered to have failed of promotion if the officer again declines to accept the promotion.
 
 "(g)
 
@@ -52,7 +52,7 @@ Section 1683 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 "(a)
 
-Recommendations for Promotion.—An officer covered by this section who, on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], has been recommended for promotion to a reserve grade higher than the grade in which the officer is serving shall be considered to have been recommended for promotion to that grade under section 14101(a) of title 10, United States Code, as added by this title.
+Recommendations for Promotion.—An officer covered by this section who, on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], has been recommended for promotion to a reserve grade higherthan the grade in which the officer is serving shall be considered to have been recommended for promotion to that grade under section 14101(a) of title 10, United States Code, as added by this title.
 
 "(b)
 

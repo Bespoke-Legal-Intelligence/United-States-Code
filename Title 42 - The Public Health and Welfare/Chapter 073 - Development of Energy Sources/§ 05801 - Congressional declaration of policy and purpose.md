@@ -10,11 +10,11 @@ The Congress finds that, to best achieve these objectives, improve Government op
 
 #### (c) Separation of licensing and regulatory functions of Atomic Energy Commission
 
-The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the otherfunctions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
+The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
 
 #### (d) Small business participation
 
-The Congress declares that it is in the public interest and the policy of Congress that small business concerns be given a reasonable opportunity to participate, insofar as is possible, fairly and equitably in grants, contracts, purchases, and other Federal activities relating to research, development, and demonstration of sources of energy efficiency, and utilization and conservation of energy. In carrying out this policy, to the extent practicable, the Administrator shall consult with the Administrator of the Small Business Administration.
+The Congress declares that it is in the public interest and the policy of Congress that small business concerns be given a reasonable opportunity to participate, insofar as is possible, fairly and equitably in grants, contracts, purchases, and other Federal activities relating to research, development, and demonstration of sources of energy efficiency, and utilization andconservation of energy. In carrying out this policy, to the extent practicable, the Administrator shall consult with the Administrator of the Small Business Administration.
 
 #### (e) Priorities
 

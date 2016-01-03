@@ -58,7 +58,7 @@
 
 (f) The Secretary, in cooperation with the Secretary of Defense, shall take such action as the Secretary considers appropriate to notify veterans who may be eligible for assistance under this section of such potential eligibility.
 
-(g) In carrying out this section and in furtherance of the Secretary's responsibility to carryout outreach activities under chapter 63 of this title, the Secretary may provide for and facilitate the participation of personnel employed by the Secretary to provide services under this section in recreational programs that are—
+(g) In carrying out this section and in furtherance of the Secretary's responsibility to carry out outreach activities under chapter 63 of this title, the Secretary may provide for and facilitate the participation of personnel employed by the Secretary to provide services under this section in recreational programs that are—
 
 &emsp;(1) designed to encourage the readjustment of veterans described in subsection (a)(1)(C); and
 
@@ -266,6 +266,118 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
 
+#### Publication of Internet Website To Provide Information Regarding Mental Health Care Services
+
+Pub. L. 114–2, §3, Feb. 12, 2015, 129 Stat. 31, provided that:
+
+"(a)
+
+In General.—Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
+
+"(b)
+
+Elements.—The Internet website published under subsection (a) shall provide to veterans information regarding all of the mental health care services available in the Veteran Integrated Service Network that the veteran is seeking such services, including, with respect to each medical center, Vet Center (as defined in section 1712A of title 38, United States Code), and community-based outpatient center in the Veterans Integrated Service Network—
+
+&emsp;"(1) the name and contact information of each social work office;
+
+&emsp;"(2) the name and contact information of each mental health clinic;
+
+&emsp;"(3) a list of appropriate staff; and
+
+&emsp;"(4) any other information the Secretary determines appropriate.
+
+"(c)
+
+Updated Information.—The Secretary shall ensure that the information described in subsection (b) that is published on the Internet website under subsection (a) is updated not less than once every 90 days.
+
+"(d)
+
+Outreach.—In carrying out this section, the Secretary shall ensure that the outreach conducted under section 1720F(i) of title 38, United States Code, includes information regarding the Internet website published under subsection (a)."
+
+#### Pilot Program on Community Outreach
+
+Pub. L. 114–2, §5, Feb. 12, 2015, 129 Stat. 34, as amended by Pub. L. 114–92, div. A, title V, §563, Nov. 25, 2015, 129 Stat. 829, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall establish a pilot program to assist veterans transitioning from serving on active duty and to improve the access of veterans to mental health services.
+
+"(b)
+
+Locations.—The Secretary shall carry out the pilot program under subsection (a) at not less than five Veterans Integrated Service Networks that have a large population of veterans who—
+
+&emsp;"(1) served in the reserve components of the Armed Forces; or
+
+&emsp;"(2) are transitioning into communities with an established population of veterans after having recently separated from the Armed Forces.
+
+"(c)
+
+Functions.—The pilot program at each Veterans Integrated Service Network described in subsection (b) shall include the following:
+
+&emsp;"(1) A community oriented veteran peer support network, carried out in partnership with an appropriate entity with experience in peer support programs, that—
+
+&emsp;&emsp;"(A) establishes peer support training guidelines;
+
+&emsp;&emsp;"(B) develops a network of veteran peer support counselors to meet the demands of the communities in the Veterans Integrated Service Network;
+
+&emsp;&emsp;"(C) conducts training of veteran peer support counselors;
+
+&emsp;&emsp;"(D) with respect to one medical center selected by the Secretary in each such Veterans Integrated Service Network, has—
+
+&emsp;&emsp;&emsp;"(i) a designated peer support specialist who acts as a liaison to the community oriented veteran peer network; and
+
+&emsp;&emsp;&emsp;"(ii) a certified mental health professional designated as the community oriented veteran peer network mentor; and
+
+&emsp;&emsp;"(E) is readily available to veterans, including pursuant to the Veterans Integrated Service Network cooperating and working with State and local governments and appropriate entities.
+
+&emsp;"(2) A community outreach team for each medical center selected by the Secretary pursuant to paragraph (1)(D) that—
+
+&emsp;&emsp;"(A) assists veterans transitioning into communities;
+
+&emsp;&emsp;"(B) establishes a veteran transition advisory group to facilitate outreach activities;
+
+&emsp;&emsp;"(C) includes the participation of appropriate community organizations, State and local governments, colleges and universities, chambers of commerce and other local business organizations, and organizations that provide legal aid or advice;
+
+&emsp;&emsp;"(D) coordinates with the Veterans Integrated Service Network regarding the Veterans Integrated Service Network carrying out an annual mental health summit to assess the status of veteran mental health care in the community and to develop new or innovative means to provide mental health services to veterans; and
+
+&emsp;&emsp;"(E) conducts outreach to individuals transitioning from serving on active duty in the Armed Forces who are participating in the Transition Assistance Program of the Department of Defense or other similar transition programs to inform such individuals of the community oriented veteran peer support network under paragraph (1) and other support programs and opportunities that are available to such individuals.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than 18 months after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the pilot program. With respect to each Veterans Integrated Service Network described in subsection (b), the report shall include—
+
+&emsp;&emsp;"(A) a full description of the peer support model implemented under the pilot program, participation data, and data pertaining to past and current mental health related hospitalizations and fatalities;
+
+&emsp;&emsp;"(B) recommendations on implementing peer support networks throughout the Department;
+
+&emsp;&emsp;"(C) whether the mental health resources made available under the pilot program for members of the reserve components of the Armed Forces is effective;
+
+&emsp;&emsp;"(D) a full description of the activities and effectiveness of community outreach coordinating teams under the pilot program, including partnerships that have been established with appropriate entities; and
+
+&emsp;&emsp;"(E) the number of veterans who—
+
+&emsp;&emsp;&emsp;"(i) received outreach from the Department of Veterans Affairs while serving on active duty as a member of the Armed Forces; and
+
+&emsp;&emsp;&emsp;"(ii) participated in a peer support program under the pilot program for veterans transitioning from serving on active duty.
+
+&emsp;"(2)
+
+Final report.—Not later than 90 days before the date on which the pilot program terminates under subsection (e), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives an update to the report submitted under paragraph (1).
+
+"(e)
+
+Construction.—This section may not be construed to authorize the Secretary to hire additional employees of the Department to carry out the pilot program under subsection (a).
+
+"(f)
+
+Termination.—The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences."
+
+\[Pub. L. 114–92, div. A, title V, §563(a), Nov. 25, 2015, 129 Stat. 829, which directed amendment of section "5(c)(5)" of Pub. L. 114–2, was executed to section (5)(c)(2) of Pub. L. 114–2, set out above, to reflect the probable intent of Congress.\]
+
 #### Participation of Members of the Armed Forces in Peer Support Counseling Programs of the Department of Veterans Affairs
 
 Pub. L. 112–239, div. A, title VII, §724, Jan. 2, 2013, 126 Stat. 1805, provided that:
@@ -432,7 +544,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service
 
-Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902, provided that:
+Pub. L. 111–163, title II, §203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, §102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, §109, Sept. 30, 2015, 129 Stat. 533, provided that:
 
 "(a)
 
@@ -468,7 +580,7 @@ Locations.—The Secretary shall carry out the pilot program at not fewer than t
 
 "(d)
 
-Termination.—The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
+Termination.—The authority to carry out a pilot program under this section shall terminate on December 31, 2016.
 
 "(e)
 
@@ -476,7 +588,7 @@ Report.—Not later than 180 days after the completion of the pilot program, the
 
 "(f)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, and 2015, $2,000,000 to carry out the pilot program."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Veterans Affairs for each of fiscal years 2010, 2011, 2015, and 2016, $2,000,000 to carry out the pilot program."
 
 #### Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom
 
@@ -558,7 +670,7 @@ In General.—Any member of the Armed Forces, including a member of the National
 
 "(b)
 
-No Requirement for Current Active Duty Service.—A member of the Armed Forces who meets the requirements for eligibility for counseling and services under subsection (a) is entitled to counseling and services under that subsection regardless of whether or not the member is currently on active duty in the Armed Forces at the time of receipt of counseling and services under that subsection.
+No Requirement for Current Active Duty Service.—A member of the Armed Forces who meetsthe requirements for eligibility for counseling and services under subsection (a) is entitled to counseling and services under that subsection regardless of whether or not the member is currently on active duty in the Armed Forces at the time of receipt of counseling and services under that subsection.
 
 "(c)
 
@@ -674,7 +786,7 @@ Program Evaluation.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall, through Department of Veterans Affairs Mental Health Services investigators and in collaboration with relevant program offices of the Department, design and implement a strategy for evaluating the pilot program.
+In general.—The Secretary shall, through Department of Veterans Affairs Mental Health Servicesinvestigators and in collaboration with relevant program offices of the Department, design and implement a strategy for evaluating the pilot program.
 
 &emsp;"(2)
 
@@ -928,7 +1040,7 @@ Additional Outreach Workers.—The Secretary of Veterans Affairs shall employ no
 
 "(b)
 
-Construction With Current Outreach Program.—The veterans employed under subsection (a) arein addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
+Construction With Current Outreach Program.—The veterans employed under subsection (a) are in addition to any veterans employed by the Secretary for the purpose described in that subsection under the February 2004 program of the Department of Veterans Affairs to provide outreach described in that subsection.
 
 "(c)
 
@@ -1138,7 +1250,7 @@ Considerations.—In developing the plan referred to in subsection (a), the Secr
 
 &emsp;"(5) the desirability of providing that inpatient and outpatient post-traumatic stress disorder care be furnished in facilities of the Department that are physically independent of general psychiatric wards of the medical facilities of the Department;
 
-&emsp;"(6) the treatment needs of veterans suffering from post-traumatic stress disorder who are women, of such veterans who are ethnic minorities (including Native Americans, Native Hawaiians, Asian-Pacific Islanders, and Native Alaskans), and of such veterans who suffer from substance abuse problems in addition to post-traumatic stress disorder; and
+&emsp;"(6) the treatment needs of veterans suffering from post-traumatic stress disorder who are women, of such veterans who are ethnic minorities (includingNative Americans, Native Hawaiians, Asian-Pacific Islanders, and Native Alaskans), and of such veterans who suffer from substance abuse problems in addition to post-traumatic stress disorder; and
 
 &emsp;"(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed for each of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
 
@@ -1180,7 +1292,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 "(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department.
 
-"(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment ofPTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
+"(3) The Special Committee shall also advise the Under Secretary for Health regarding the development of policies, the provision of guidance, and the coordination of services for the diagnosis and treatment of PTSD (A) in designated PTSD programs, (B) in inpatient psychiatric programs and outpatient mental health programs other than designated PTSD programs, and (C) in readjustment counseling programs of the Department.
 
 "(4) The Special Committee shall also make recommendations to the Under Secretary for Health for guidance with respect to PTSD regarding—
 
@@ -1198,7 +1310,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 &emsp;"(G) any specific steps that should be taken to improve such diagnosis and treatment and to correct any deficiencies in the operations of designated PTSD programs.
 
-"(c) The Under Secretary for Health shall establish and operate in the Veterans Health Administration a National Center on Post-Traumatic-Stress Disorder. The National Center (1) shall carry out and promote the training of health care and related personnel in, and research into, the causes and diagnosis of PTSD and the treatment of veterans for PTSD, and (2) shall serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department, and by other Federal and non-Federal entities, with respect to PTSD.
+"(c) The Under Secretary for Health shall establish and operate in the Veterans Health Administration a National Center on Post-Traumatic-Stress Disorder. The National Center (1) shall carry out and promote the training of health care and related personnel in,and research into, the causes and diagnosis of PTSD and the treatment of veterans for PTSD, and (2) shall serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department, and by other Federal and non-Federal entities, with respect to PTSD.
 
 "(d) The Under Secretary for Health shall regularly compile and publish the results of research that has been conducted relating to PTSD.
 

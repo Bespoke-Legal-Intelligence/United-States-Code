@@ -48,7 +48,7 @@ The State leadership activities described in subsection (a) shall include—
 
 &emsp;(4) supporting career and technical education programs that improve the academic and career and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical components of such career and technical education programs, through the integration of coherent and relevant content aligned with challenging academic standards and relevant career and technical education, to ensure achievement in—
 
-&emsp;&emsp;(A) the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]); and
+&emsp;&emsp;(A) a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]); and
 
 &emsp;&emsp;(B) career and technical education subjects;
 
@@ -118,9 +118,9 @@ The leadership activities described in subsection (a) may include—
 
 &emsp;(11) providing for activities to support entrepreneurship education and training;
 
-&emsp;(12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act \[20 U.S.C. 9201 et seq.\];
+&emsp;(12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act;
 
-&emsp;(13) providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals' education or training or finding appropriate jobs, such as through referral to the system established under section 2841 of title 29;
+&emsp;(13) providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals' education or training or finding appropriate jobs, such as through referral to the system established under section 3151 of title 29;
 
 &emsp;(14) developing valid and reliable assessments of technical skills;
 
@@ -138,11 +138,7 @@ The leadership activities described in subsection (a) may include—
 
 An eligible agency that receives funds under section 2322(a)(2) of this title may not use any of such funds for administrative costs.
 
-(Pub. L. 88–210, title I, §124, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 723; amended Pub. L. 113–128, title V, §512(e)(4), July 22, 2014, 128 Stat. 1707.)
-
-#### Amendment of Subsection (c)(13)
-
-<i>Pub. L. 113–128, title V, §§506, 512(e)(4), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(13) of this section is amended by striking "such as through referral to the system established under section 2841 of title 29" and inserting "such as through referral to the system established under section 3151 of title 29". See 2014 Amendment note below.</i>
+(Pub. L. 88–210, title I, §124, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 723; amended Pub. L. 113–128, title V, §512(e)(4), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(7), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### References in Text
 
@@ -150,7 +146,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -158,9 +154,15 @@ A prior section 2344, Pub. L. 88–210, title I, §124, as added Pub. L. 105–3
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(4)(A). Pub. L. 114–95 substituted "a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)" for "the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)".
+
 <b>2014</b>—Subsec. (c)(13). Pub. L. 113–128 substituted "such as through referral to the system established under section 3151 of title 29" for "such as through referral to the system established under section 2841 of title 29".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

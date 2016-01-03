@@ -64,7 +64,7 @@ Subsec. (b)(4)(C). Pub. L. 101–637, §14(b)(6)(D), inserted a comma after "per
 
 Subsec. (b)(4)(F), (G). Pub. L. 101–637, §5(c), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (c). Pub. L. 101–637, §5(d), struck out subsec. (c) which read as follows: "Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter,the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection."
+Subsec. (c). Pub. L. 101–637, §5(d), struck out subsec. (c) which read as follows: "Not later than nine months after the submission of the plan described in subsection (a) of this section, and each twelve months thereafter, the Governor shall submit to the Administrator a report which describes the actions taken by the State in accordance with its plan under such subsection."
 
 <i><sup>1</sup></i><i> So in original. Probably should end with a period instead of "; and".</i>
 

@@ -14,7 +14,7 @@
 
 If the Joint Committee on the Library of Congress approves a request under subsection (a), the Architect of the Capitol shall enter into an agreement with the State to carry out the replacement in accordance with the request and any conditions the Joint Committee may require for its approval. Such agreement shall provide that—
 
-&emsp;(1) the new statue shall be subject to the same conditions and restrictions as apply toany statue provided by a State under section 2131 of this title, and
+&emsp;(1) the new statue shall be subject to the same conditions and restrictions as apply to any statue provided by a State under section 2131 of this title, and
 
 &emsp;(2) the State shall pay any costs related to the replacement, including costs in connection with the design, construction, transportation, and placement of the new statue, the removal and transportation of the statue being replaced, and any unveiling ceremony.
 
@@ -26,7 +26,7 @@ Nothing in this section shall be interpreted to permit a State to have more than
 
 (1) Subject to the approval of the Joint Committee on the Library, ownership of any statue replaced under this section shall be transferred to the State.
 
-(2) If any statue is removed from the Capitol of the United States as part of a transfer of ownership under paragraph (1), then it may not be returned to the Capitol for display unless such display is specifically authorized by Federal law.
+(2) If any statue is removed from the Capitol of the United States as part of a transfer of ownership under paragraph (1), then it may not bereturned to the Capitol for display unless such display is specifically authorized by Federal law.
 
 #### (e) Relocation of statues
 

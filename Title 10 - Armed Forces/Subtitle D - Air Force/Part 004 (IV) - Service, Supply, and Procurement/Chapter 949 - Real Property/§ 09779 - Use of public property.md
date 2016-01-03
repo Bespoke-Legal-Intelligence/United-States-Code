@@ -2,7 +2,7 @@
 
 (a) When the economy of the Air Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
 
-(b) No money appropriated for the support of the Air Force may be spent for base gardens orAir Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
+(b) No money appropriated for the support of the Air Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, §2721, Nov. 14, 1986, 100 Stat. 4042.)
 
@@ -42,5 +42,5 @@ In subsection (c), the words "the Secretary" are substituted for the words "the 
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each air base where there was a post office.
+<b>1986</b>—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable spacefor postal purposes at each air base where there was a post office.
 

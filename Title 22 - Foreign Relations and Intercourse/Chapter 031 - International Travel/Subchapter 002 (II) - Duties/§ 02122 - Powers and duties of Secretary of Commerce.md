@@ -28,7 +28,7 @@ The United States National Tourism Organization Act of 1996, referred to in text
 
 <b>1992</b>—Par. (2). Pub. L. 102–372, §6(3), added par. (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 102–372, §6(a)(1), (2), redesignated former par. (2) as (3) and substituted "receptive, linguistic, informational, currency exchange, meal, andpackage tour services required by the international market" for "tourist facilities, low cost unit tours, and other arrangements within the United States for meeting the requirements of foreign visitors". Former par. (3) redesignated (4).
+Par. (3). Pub. L. 102–372, §6(a)(1), (2), redesignated former par. (2) as (3) and substituted "receptive, linguistic, informational, currency exchange, meal, and package tour services required by the international market" for "tourist facilities, low cost unit tours, and other arrangements within the United States for meeting the requirements of foreign visitors". Former par. (3) redesignated (4).
 
 Pars. (4) to (6). Pub. L. 102–372, §6(a)(1), redesignated former pars. (3) to (5) as (4) to (6), respectively. Former par. (6) redesignated (7).
 
@@ -60,7 +60,7 @@ Pub. L. 108–7, div. B, title II, §210, Feb. 20, 2003, 117 Stat. 78, provided 
 
 #### Survey of International Air Travelers
 
-Pub. L. 102–372, §3, Sept. 30, 1992, 106 Stat. 1171, provided that: "The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
+Pub. L. 102–372, §3, Sept. 30, 1992, 106 Stat. 1171, provided that: "The Secretary of Commerce, to the extentavailable resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
 
 &emsp;"(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
 

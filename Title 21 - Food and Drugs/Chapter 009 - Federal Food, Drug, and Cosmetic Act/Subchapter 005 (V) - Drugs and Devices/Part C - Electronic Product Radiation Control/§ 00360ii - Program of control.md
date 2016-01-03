@@ -6,7 +6,7 @@ The Secretary shall establish and carry out an electronic product radiation cont
 
 &emsp;(1) pursuant to section 360kk of this title, develop and administer performance standards for electronic products;
 
-&emsp;(2) plan, conduct, coordinate, and support research, development, training, and operationalactivities to minimize the emissions of and the exposure of people to, unnecessary electronic product radiation;
+&emsp;(2) plan, conduct, coordinate, and support research, development, training, and operational activities to minimize the emissions of and the exposure of people to, unnecessary electronic product radiation;
 
 &emsp;(3) maintain liaison with and receive information from other Federal and State departments and agencies with related interests, professional organizations, industry, industry and labor associations, and other organizations on present and future potential electronic product radiation;
 

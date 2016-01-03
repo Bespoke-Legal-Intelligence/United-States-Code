@@ -16,7 +16,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (1) Amount of payment
 
-&emsp;Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) of this section that bears the same ratio to the total annual assessment that the total assets of each enterprise bears <sup>1</sup> to the total assets of both enterprises.
+&emsp;Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears <sup>1</sup> to the total assets of both enterprises.
 
 #### (2) Separate treatment of Federal home loan bank and enterprise assessments
 
@@ -150,7 +150,7 @@ Section 1438(b) of this title, referred to in subsec. (f)(5), was repealed by Pu
 
 #### Codification
 
-In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the UnitedStates (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

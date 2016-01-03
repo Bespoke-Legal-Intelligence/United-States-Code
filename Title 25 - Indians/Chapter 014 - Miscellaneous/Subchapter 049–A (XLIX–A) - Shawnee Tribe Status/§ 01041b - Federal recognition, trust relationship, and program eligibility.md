@@ -8,7 +8,7 @@ The Federal recognition of the Tribe and the trust relationship between the Unit
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by theUnited States to Indians because of their status as Indians.
+&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (2) Continuation of benefits
 
@@ -30,7 +30,7 @@ The Federal recognition of the Tribe and the trust relationship between the Unit
 
 #### (5) Cooperative agreements
 
-&emsp;Nothing in this section shall restrict the Tribe and the Cherokee Nation from entering into cooperative agreements to provide such programs or services and such funding agreements shall be honored by Federal agencies, unless otherwise prohibited by law.
+&emsp;Nothing in this section shall restrict the Tribe and the Cherokee Nation from entering into cooperative agreements to provide suchprograms or services and such funding agreements shall be honored by Federal agencies, unless otherwise prohibited by law.
 
 (Pub. L. 106–568, title VII, §704, Dec. 27, 2000, 114 Stat. 2914.)
 

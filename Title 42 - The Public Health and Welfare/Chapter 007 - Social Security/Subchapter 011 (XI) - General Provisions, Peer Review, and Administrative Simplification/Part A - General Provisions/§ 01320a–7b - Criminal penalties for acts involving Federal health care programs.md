@@ -34,7 +34,7 @@ Whoever—
 
 &emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 (3) Paragraphs (1) and (2) shall not apply to—
 
@@ -62,6 +62,8 @@ Whoever—
 
 &emsp;(J) a discount in the price of an applicable drug (as defined in paragraph (2) of section 1395w–114a(g) of this title) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under section 1395w–114a of this title.
 
+(4) Whoever without lawful authority knowingly and willfully purchases, sells or distributes, or arranges for the purchase, sale, or distribution of a beneficiary identification number or unique health identifier for a health care provider under subchapter XVIII, subchapter XIX, or subchapter XXI shall be imprisoned for not more than 10 years or fined not more than $500,000 ($1,000,000 in the case of a corporation), or both.
+
 #### (c) False statements or representations with respect to condition or operation of institutions
 
 Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under section 1395mm(b) of this title) for which certification is required under subchapter XVIII of this chapter or a State health care program (as defined in section 1320a–7(h) of this title), or with respect to information required to be provided under section 1320a–3a of this title, shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
@@ -70,7 +72,7 @@ Whoever knowingly and willfully makes or causes to be made, or induces or seeks 
 
 Whoever knowingly and willfully—
 
-&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate inexcess of the rate permitted under such contract), or
+&emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
 &emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
@@ -96,13 +98,13 @@ For purposes of this section, the term "Federal health care program" means—
 
 #### (g) Liability under subchapter III of chapter 37 of title 31
 
-In addition to the penalties provided for in this section or section 1320a–7a of this title, a claim that includes items or services resulting from a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
+In addition to the penalties provided for in this section or section 1320a–7a of this title, a claim that includes items or services resultingfrom a violation of this section constitutes a false or fraudulent claim for purposes of subchapter III of chapter 37 of title 31.
 
 #### (h) Actual knowledge or specific intent not required
 
 With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759.)
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134.)
 
 #### References in Text
 
@@ -117,6 +119,8 @@ Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(3)(E), was i
 Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4). Pub. L. 114–115 added par. (4).
 
 <b>2010</b>—Subsec. (b)(3)(G). Pub. L. 111–148, §3301(d)(1)(A), struck out "and" at the end.
 
@@ -162,7 +166,7 @@ Subsec. (c). Pub. L. 104–191, §204(a)(6), inserted "(as defined in section 13
 
 Subsec. (f). Pub. L. 104–191, §204(a)(7), added subsec. (f).
 
-<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of "1395m(j)(5)" for "1395m(j)(4)" in subpar. (B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because "1395m(j)(4)" does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
+<b>1994</b>—Subsec. (b)(3)(B). Pub. L. 103–432, which directed substitution of "1395m(j)(5)" for "1395m(j)(4)" in subpar.\(B) as amended by section 134(a) of Pub. L. 103–432, could not be executed because "1395m(j)(4)" does not appear in subpar. (B) and section 134(a) of Pub. L. 103–432 did not amend this section.
 
 <b>1990</b>—Subsec. (b)(3)(D), (E). Pub. L. 101–508, §4161(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -240,7 +244,7 @@ Amendment by section 133(a)(2) of Pub. L. 103–432 applicable to items or servi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4161(a)(4) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991, see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
+Amendment by section 4161(a)(4) of Pub. L. 101–508 applicable to services furnished on or after Oct. 1, 1991,see section 4161(a)(8) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
 Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
@@ -340,7 +344,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 "(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reportsthat the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 "(7)
 

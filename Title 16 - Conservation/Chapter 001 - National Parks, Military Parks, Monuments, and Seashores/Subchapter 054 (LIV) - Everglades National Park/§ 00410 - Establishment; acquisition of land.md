@@ -176,7 +176,7 @@ Prevention of degradation.—Pursuant to the requirements of the Federal Water P
 
 &emsp;&emsp;"(B)
 
-Prevention and abatement.—The Tribe shall prevent and abate disruption of the restoration or preservation of the quantity, timing, or distribution of surface or groundwater that would enter the MRA and flow, directly or indirectly, into other parts of the Park, but only to the extent thatsuch disruption is caused by conditions, activities, or structures within the MRA.
+Prevention and abatement.—The Tribe shall prevent and abate disruption of the restoration or preservation of the quantity, timing, or distribution of surface or groundwater that would enter the MRA and flow, directly or indirectly, into other parts of the Park, but only to the extent that such disruption is caused by conditions, activities, or structures within the MRA.
 
 &emsp;&emsp;"(C)
 
@@ -250,7 +250,7 @@ Exceptions.—The following types of structures are exempt from the restrictions
 
 &emsp;"(3)
 
-Waiver.—The Secretary may waive the restrictions of this subsection if the Secretary finds that the needs of the Tribe for the structure that is taller than structures allowed under the restrictions would outweigh the adverse effects to the Park or its visitors.
+Waiver.—The Secretary may waive the restrictions of this subsection if the Secretary finds thatthe needs of the Tribe for the structure that is taller than structures allowed under the restrictions would outweigh the adverse effects to the Park or its visitors.
 
 &emsp;"(4)
 
@@ -310,7 +310,7 @@ In general.—The use and occupancy of the MRA by the Tribe shall be perpetually
 
 &emsp;&emsp;&emsp;"(i) bounded on the north and south by the boundaries of the MRA, specified in the legal description under section 4(4); and
 
-&emsp;&emsp;&emsp;"(ii) bounded on the east and west by boundaries that run perpendicular to the northern andsouthern boundaries of the MRA, as provided in the description under subparagraph (B).
+&emsp;&emsp;&emsp;"(ii) bounded on the east and west by boundaries that run perpendicular to the northern and southern boundaries of the MRA, as provided in the description under subparagraph (B).
 
 &emsp;&emsp;"(B)
 

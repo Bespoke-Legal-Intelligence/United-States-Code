@@ -4,7 +4,7 @@
 
 If there is a constructive sale of an appreciated financial position—
 
-&emsp;(1) the taxpayer shall recognize gain as if such position were sold, assigned, or otherwise terminated at its fair market value on the date of such constructive sale (and any gain shall be taken into account for the taxable year which includes such date), and
+&emsp;(1) the taxpayer shall recognize gain as if such position were sold, assigned, or otherwiseterminated at its fair market value on the date of such constructive sale (and any gain shall be taken into account for the taxable year which includes such date), and
 
 &emsp;(2) for purposes of applying this title for periods after the constructive sale—
 

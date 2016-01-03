@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) that provide HIV-related health services; and
 
-&emsp;&emsp;&emsp;(ii) for which the number of cases reported for purposes of section 300ff–11(a) ofthis title constitutes not less than 10 percent of the number of such cases reported for the eligible area.
+&emsp;&emsp;&emsp;(ii) for which the number of cases reported for purposes of section 300ff–11(a) of this title constitutes not less than 10 percent of the number of such cases reported for the eligible area.
 
 #### (b) HIV health services planning council
 
@@ -166,7 +166,7 @@
 
 #### (A) Models
 
-&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this subpart and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this subpart. Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
+&emsp;&emsp;The Secretary shall, through a process that includes consultations with grantees under this subpart and public and private experts in grievance procedures, arbitration, and mediation, develop model grievance procedures that may be implemented by the planning council under subsection (b)(1) of this section and grantees under this subpart.Such model procedures shall describe the elements that must be addressed in establishing local grievance procedures and provide grantees with flexibility in the design of such local procedures.
 
 #### (B) Review
 

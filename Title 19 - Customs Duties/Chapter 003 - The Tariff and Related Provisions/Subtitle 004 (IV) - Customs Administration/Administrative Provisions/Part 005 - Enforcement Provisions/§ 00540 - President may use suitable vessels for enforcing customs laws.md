@@ -1,6 +1,6 @@
 ### §540. President may use suitable vessels for enforcing customs laws
 
-In the execution of laws providing for the collection of duties on imports and tonnage, the President, in addition to the Coast Guard vessels in service, may employ in aid thereof such othersuitable vessels as may, in his judgment, be required.
+In the execution of laws providing for the collection of duties on imports and tonnage, the President, in addition to the Coast Guard vessels in service, may employ in aid thereof such other suitable vessels as may, in his judgment, be required.
 
 (R.S. §5318; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561.)
 

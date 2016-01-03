@@ -58,7 +58,7 @@ Identification of Jurisdictional Agencies.—With respect to each airport capaci
 
 (e)
 
-State Authority.—Under a coordinated review process being implemented under this section by the Secretary with respect to a project at an airport within the boundaries of a State, the Governor of the State, consistent with Statelaw, may choose to participate in such process and provide that all State agencies that have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project, be subject to the process.
+State Authority.—Under a coordinated review process being implemented under this section by the Secretary with respect to a project at an airport within the boundaries of a State, the Governor of the State, consistent with State law, may choose to participate in such process and provide that all State agencies that have jurisdiction over environmental-related matters that may be affected by the project or may be required by law to conduct an environmental-related review or analysis of the project or determine whether to issue an environmental-related permit, license, or approval for the project, be subject to the process.
 
 (f)
 
@@ -112,7 +112,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which isclassified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

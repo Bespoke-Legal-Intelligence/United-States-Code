@@ -26,7 +26,7 @@ Documentation of certain pipelines.—Not later than 18 months after the date of
 
 &emsp;(2)
 
-Exceedances of maximum allowable operating pressure.—If there is an exceedance of the maximum allowable operating pressure with respect to a gas transmission pipeline of an owner or operator of a pipeline facility that exceeds the build-up allowed for operation of pressure-limiting or control devices, the owner or operator shall report the exceedance to the Secretary and appropriate State authorities on or before the 5th day following the date on which the exceedance occurs.
+Exceedances of maximum allowable operating pressure.—If there is an exceedance of the maximum allowable operating pressure with respect to a gas transmission pipeline ofan owner or operator of a pipeline facility that exceeds the build-up allowed for operation of pressure-limiting or control devices, the owner or operator shall report the exceedance to the Secretary and appropriate State authorities on or before the 5th day following the date on which the exceedance occurs.
 
 (c)
 

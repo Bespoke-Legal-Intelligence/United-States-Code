@@ -38,11 +38,11 @@
 
 #### (1) In general
 
-&emsp;On receiving notice under subsection (a)(2) of this section, the Commission shall have the right to intervene in the action that is the subject of the notice.
+&emsp;On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.
 
 #### (2) Effect of intervention
 
-&emsp;If the Commission intervenes in an action under subsection (a) of this section, it shall have the right—
+&emsp;If the Commission intervenes in an action under subsection (a), it shall have the right—
 
 &emsp;&emsp;(A) to be heard with respect to any matter that arises in that action; and
 
@@ -54,7 +54,7 @@
 
 #### (c) Construction
 
-For purposes of bringing any civil action under subsection (a) of this section, nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
+For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
 
 &emsp;(1) conduct investigations;
 
@@ -64,17 +64,17 @@ For purposes of bringing any civil action under subsection (a) of this section, 
 
 #### (d) Actions by Commission
 
-In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under section 6502 of this title, no State may, during the pendency of that action, institute an action under subsection (a) of this section against any defendant named in the complaint in that action for violation of that regulation.
+In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under section 6502 of this title, no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of that regulation.
 
 #### (e) Venue; service of process
 
 #### (1) Venue
 
-&emsp;Any action brought under subsection (a) of this section may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
+&emsp;Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28.
 
 #### (2) Service of process
 
-&emsp;In an action brought under subsection (a) of this section, process may be served in any district in which the defendant—
+&emsp;In an action brought under subsection (a), process may be served in any district in which the defendant—
 
 &emsp;&emsp;(A) is an inhabitant; or
 

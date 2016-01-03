@@ -48,7 +48,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (C) Prohibiting retaliation
 
-&emsp;&emsp;An employee or member of the Capitol Police who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee or member as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+&emsp;&emsp;An employee or member of the Capitol Police who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee or member as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that itwas false or with willful disregard for its truth or falsity.
 
 #### (4) Independence in carrying out duties
 

@@ -186,7 +186,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 #### (3) Allocation of portions of single payment
 
-&emsp;For purposes of this subsection, to the extent that a portion of a payment would (ifmade as a separate payment) be a qualified sponsorship payment, such portion of such payment and the other portion of such payment shall be treated as separate payments.
+&emsp;For purposes of this subsection, to the extent that a portion of a payment would (if made as a separate payment) be a qualified sponsorship payment, such portion of such payment and the other portion of such payment shall be treated as separate payments.
 
 #### (j) Debt management plan services
 

@@ -16,7 +16,7 @@ Factors To Consider.—When prescribing a rate, classification, rule, or practic
 
 (c)
 
-Proceeding.—The Board may begin a proceeding under this section on complaint. A complaint under this section must contain a full statement of the facts and the reasons for the complaint and must be made under oath.
+Proceeding.—The Board may begin a proceeding under this section on complaint. A complaint under this section must contain a fullstatement of the facts and the reasons for the complaint and must be made under oath.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 924.)
 

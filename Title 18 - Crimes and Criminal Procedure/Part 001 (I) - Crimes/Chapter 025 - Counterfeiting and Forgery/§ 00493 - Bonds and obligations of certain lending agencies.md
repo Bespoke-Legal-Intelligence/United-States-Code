@@ -20,7 +20,7 @@ Certain specific agencies are enumerated by name as are "land bank, intermediate
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary, such persons being principals by section 2 of this title.
 
-The section was written in two paragraphs; the first denouncing forgery, counterfeiting, and altering; the second, passing, uttering, and publishing. This arrangement, together with the simplified style of the rewritten section, will permit the repeal of similar provisions in at least nine complicated sections now in title 12, U.S.C., 1940 ed., Banks and Banking.
+The section was written in two paragraphs; the first denouncing forgery, counterfeiting, and altering; the second, passing, uttering, and publishing. This arrangement, together with the simplified style of the rewritten section, will permit the repeal of similar provisionsin at least nine complicated sections now in title 12, U.S.C., 1940 ed., Banks and Banking.
 
 Section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, was omitted from this revision and recommended for repeal. It provides as follows: "Whoever conspires with another to accomplish any of the acts made unlawful by the preceding provisions of this section shall, on conviction thereof, be subject to the same fine or imprisonment, or both, as is applicable in the case of conviction for doing such unlawful act."
 
@@ -30,7 +30,7 @@ Indeed the indictment upon which Halbrook was acquitted was drawn under section 
 
 It will be noted that section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, applies in terms only to the Farm Credit Administration, intermediate credit banks, Federal Farm Mortgage Corporation, and by reference to the banks for cooperatives, Production Credit Associations and Production Credit Corporations, and is not applicable to land banks, loan associations, Federal Housing Administration, Home Owners' Loan Corporation, or other institutions.
 
-It is also noted that in the only reported case involving this section, the United States attorney drew his conspiracy indictment not under section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, but under section 88 of title 18, U.S.C., 1940 ed., which is now section 371 of this title, indicating considerable doubt asto the scope and effect of section 1138d(f) of said title 12, U.S.C., 1940 ed., Banks and Banking.
+It is also noted that in the only reported case involving this section, the United States attorney drew his conspiracy indictment not under section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, but under section 88 of title 18, U.S.C., 1940 ed., which is now section 371 of this title, indicating considerable doubt as to the scope and effect of section 1138d(f) of said title 12, U.S.C., 1940 ed., Banks and Banking.
 
 There is no sound reason for differentiating between types of credit, insurance, banking and lending agencies in the punishment of conspiracy or in the requirement as to proof of overt acts. Since conspiracies involving offenses equally serious such as obstruction of justice, bribery, embezzlements, counterfeiting and false statements and offenses against the Treasury of the United States as well as the Federal Deposit Insurance Corporation and the Home Owners' Loan Corporation are punishable under the general conspiracy statute, the same rule should be applied to lesser agencies.
 

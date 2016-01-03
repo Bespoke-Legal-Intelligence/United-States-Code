@@ -22,7 +22,7 @@ Pattern.—If the Secretary finds that a motor carrier, employer, or person enga
 
 &emsp;(3)
 
-Officers.—If the Secretary finds, after notice and an opportunity for proceeding, that an officer of a motor carrier, employer, or owner or operator has engaged in a pattern or practice of, or assisted a motor carrier, employer, or owner or operator in avoiding compliance, or masking or otherwise concealing noncompliance, while serving as an officer or such motor carrier, employer, or owner or operator, the Secretary may suspend, amend, or revoke any part of a registration granted to the officer individually under section 13902 or 31134.
+Officers.—If the Secretary finds, after notice and an opportunity for proceeding, that an officer of a motor carrier, employer, orowner or operator has engaged in a pattern or practice of, or assisted a motor carrier, employer, or owner or operator in avoiding compliance, or masking or otherwise concealing noncompliance, while serving as an officer or such motor carrier, employer, or owner or operator, the Secretary may suspend, amend, or revoke any part of a registration granted to the officer individually under section 13902 or 31134.
 
 (c)
 

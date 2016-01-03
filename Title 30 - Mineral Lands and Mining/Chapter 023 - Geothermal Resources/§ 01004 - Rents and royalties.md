@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 109–58, §233(b), added subsec. (g).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title II, §223(c), Aug. 8, 2005, 119 Stat. 662, provided that: "The schedule of fees established under the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title II, §223(c), Aug. 8, 2005, 119 Stat. 662, provided that: "The schedule of fees establishedunder the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act \[Aug. 8, 2005\]."
 
 #### Incentives and Royalties for Existing Leases
 

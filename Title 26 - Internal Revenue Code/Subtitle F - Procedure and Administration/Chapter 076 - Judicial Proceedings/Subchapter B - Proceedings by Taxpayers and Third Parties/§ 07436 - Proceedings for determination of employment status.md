@@ -18,7 +18,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 #### (2) Time for filing action
 
-&emsp;If the Secretary sends by certified or registered mail notice to the petitioner of a determination by the Secretary described in subsection (a), no proceeding may be initiatedunder this section with respect to such determination unless the pleading is filed before the 91st day after the date of such mailing.
+&emsp;If the Secretary sends by certified or registered mail notice to the petitioner of a determination by the Secretary described in subsection (a), no proceeding may be initiated under this section with respect to such determination unless the pleading is filed before the 91st day after the date of such mailing.
 
 #### (3) No adverse inference from treatment while action is pending
 
@@ -52,7 +52,7 @@ If, in connection with an audit of any person, there is an actual controversy in
 
 The term "employment tax" means any tax imposed by subtitle C.
 
-(Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §314(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
+(Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, §1(a)(7) \[title III, §314(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-643.)
 
 #### References in Text
 

@@ -8,7 +8,7 @@ The Congress finds that—
 
 (c) The increasing and competing demands upon the lands and waters of our coastal zone occasioned by population growth and economic development, including requirements for industry, commerce, residential development, recreation, extraction of mineral resources and fossil fuels, transportation and navigation, waste disposal, and harvesting of fish, shellfish, and other living marine resources, have resulted in the loss of living marine resources, wildlife, nutrient-rich areas, permanent and adverse changes to ecological systems, decreasing open space for public use, and shoreline erosion.
 
-(d) The habitat areas of the coastal zone, and the fish, shellfish, other living marine resources,and wildlife therein, are ecologically fragile and consequently extremely vulnerable to destruction by man's alterations.
+(d) The habitat areas of the coastal zone, and the fish, shellfish, other living marine resources, and wildlife therein, are ecologically fragile and consequently extremely vulnerable to destruction by man's alterations.
 
 (e) Important ecological, cultural, historic, and esthetic values in the coastal zone which are essential to the well-being of all citizens are being irretrievably damaged or lost.
 

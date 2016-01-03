@@ -37,7 +37,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Effective Date
 
-Subchapter applicable with respect to the fiscal year beginning Oct. 1, 1976, and succeeding fiscal years, except as section 906 of Pub. L. 93–344, formerly set out as a note under section 632 of this title, makes provision for possible application of this section to the fiscal year beginning July 1, 1975, see section 905(c) of Pub. L. 93–344, formerly set out as an Effective Date note under section 621 of this title.
+Subchapter applicable with respect to the fiscal year beginning Oct. 1, 1976, and succeeding fiscal years, except as section 906 of Pub. L. 93–344, formerly set out as a note under section 632 of this title, makes provision for possible application of this section to the fiscalyear beginning July 1, 1975, see section 905(c) of Pub. L. 93–344, formerly set out as an Effective Date note under section 621 of this title.
 
 #### Senate Budget Enforcement
 
@@ -61,7 +61,7 @@ Committee Allocations, Aggregates, and Levels.—
 
 &emsp;&emsp;"(B) for all committees other than the Committee on Appropriations, committee allocations for fiscal years 2011, 2012, 2012 through 2016, and 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
 
-&emsp;&emsp;"(C) aggregate spending levels for fiscal years 2011 and 2012 and aggregate revenue levels for fiscal years 2011, 2012, 2012 through 2016, 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, and the discretionary spending limits set forth in thisAct for the purpose of enforcing section 311 of the Congressional Budget Act of 1974 \[2 U.S.C. 642\]; and
+&emsp;&emsp;"(C) aggregate spending levels for fiscal years 2011 and 2012 and aggregate revenue levels for fiscal years 2011, 2012, 2012 through 2016, 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, and the discretionary spending limits set forth in this Act for the purpose of enforcing section 311 of the Congressional Budget Act of 1974 \[2 U.S.C. 642\]; and
 
 &emsp;&emsp;"(D) levels of Social Security revenues and outlays for fiscal years 2011, 2012, 2012 through 2016, and 2012 through 2021 consistent with the Congressional Budget Office's March 2011 baseline adjusted to account for the budgetary effects of this Act and legislation enacted prior to this Act but not included in the Congressional Budget Office's March 2011 baseline, for the purpose of enforcing sections 302 and 311 of the Congressional Budget Act of 1974.
 

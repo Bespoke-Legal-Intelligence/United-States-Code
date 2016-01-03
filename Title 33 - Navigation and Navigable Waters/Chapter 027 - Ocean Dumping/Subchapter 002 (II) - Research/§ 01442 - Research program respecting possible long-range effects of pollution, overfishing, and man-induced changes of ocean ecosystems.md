@@ -14,7 +14,7 @@
 
 &emsp;(D) the development of methodologies, techniques, and equipment for disposal of waste materials to minimize degradation of the marine environment.
 
-(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for oceanpollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
+(3) The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 <sup>1</sup> of this title.
 
 #### (b) Action with other nations
 

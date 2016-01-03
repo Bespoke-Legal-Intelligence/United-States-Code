@@ -88,7 +88,7 @@ In this title: <sup>1</sup>
 
 #### (C) Exclusion
 
-&emsp;&emsp;The term "operational cost savings" does not include savings from measures thatwould likely be adopted in the absence of cost-effective technology and practices programs, as determined by the Administrator.
+&emsp;&emsp;The term "operational cost savings" does not include savings from measures that would likely be adopted in the absence of cost-effective technology and practices programs, as determined by the Administrator.
 
 #### (10) Geothermal heat pump
 

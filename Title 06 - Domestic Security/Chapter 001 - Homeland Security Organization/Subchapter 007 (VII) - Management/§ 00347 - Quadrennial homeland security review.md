@@ -38,7 +38,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2); and
 
-&emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executingthe process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
+&emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
 
 #### (c) Reporting
 

@@ -52,7 +52,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term "financial institution" does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap datarepositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
+&emsp;&emsp;The term "financial institution" does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
 
 #### (6) Financial market utility
 
@@ -66,7 +66,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), solely by reason of their providing facilities for comparison of data respecting the terms of settlement of securities or futures transactions effected on such exchange or by means of any electronic system operated or controlled by such entities, provided that the exclusions in this clause apply only with respect to the activities that require the entity to be so registered; and
 
-&emsp;&emsp;&emsp;(ii) any broker, dealer, transfer agent, or investment company, or any futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator, solely by reason of functions performed by such institution as part of brokerage, dealing, transfer agency, or investment company activities, or solely by reason of acting on behalf of a financial market utility or a participant therein in connection with the furnishing by the financial market utility of services to its participants or the use of services of the financial market utility by its participants, provided that services performed by such institution do not constitute critical risk management or processing functions of the financial market utility.
+&emsp;&emsp;&emsp;(ii) any broker, dealer, transfer agent, or investment company, or any futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator, solely by reason of functions performed by such institution as part of brokerage, dealing, transfer agency, or investment company activities, or solelyby reason of acting on behalf of a financial market utility or a participant therein in connection with the furnishing by the financial market utility of services to its participants or the use of services of the financial market utility by its participants, provided that services performed by such institution do not constitute critical risk management or processing functions of the financial market utility.
 
 #### (7) Payment, clearing, or settlement activity
 
@@ -138,7 +138,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) The appropriate Federal banking agency, with respect to a designated financial market utility that is an institution described in section 1813(q) of this title.
 
-&emsp;&emsp;&emsp;(iv) The Board of Governors, with respect to a designated financial market utilitythat is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
+&emsp;&emsp;&emsp;(iv) The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
 
 #### (B) Multiple agency jurisdiction
 

@@ -66,7 +66,7 @@
 
 #### (5) Accrual period
 
-&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term "accrual period" means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
+&emsp;Except as otherwise provided in regulations prescribed by the Secretary, the term "accrualperiod" means a 6-month period (or shorter period from the date of original issue of the debt instrument) which ends on a day in the calendar year corresponding to the maturity date of the debt instrument or the date 6 months before such maturity date.
 
 #### (6) Determination of daily portions where principal subject to acceleration
 
@@ -198,7 +198,7 @@ This section shall not apply to any holder—
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title X, §1004(b)(1), Aug. 5, 1997, 111 Stat. 911, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1986 Amendment
 

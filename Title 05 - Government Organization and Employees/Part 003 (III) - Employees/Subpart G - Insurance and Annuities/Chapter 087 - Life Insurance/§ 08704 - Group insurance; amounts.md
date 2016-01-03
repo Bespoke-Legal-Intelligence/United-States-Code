@@ -38,7 +38,7 @@
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 
-&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of thistitle, premium pay under section 5545(c)(2) of this title.
 
 (d) In determining the amount of insurance to which an employee is entitled—
 
@@ -159,7 +159,7 @@ Amendment by Pub. L. 89–737 applicable with respect to premium pay payable fro
 
 #### Retroactive Effect of 1967 Amendment
 
-Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that: "The amendments made by sections 401 to 404, inclusive, of this Act \[enacting section 8714aof this title and amending this section and sections 8707 and 8708 of this title\] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\]."
+Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that: "The amendments made by sections 401 to 404, inclusive, of this Act \[enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title\] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment \[Dec. 16, 1967\]."
 
 #### 1967 Adjustment in Amount of Insurance
 

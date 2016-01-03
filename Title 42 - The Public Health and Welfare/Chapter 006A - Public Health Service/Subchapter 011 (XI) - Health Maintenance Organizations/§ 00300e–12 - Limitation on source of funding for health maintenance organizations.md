@@ -2,7 +2,7 @@
 
 No funds appropriated under any provision of this chapter (except as provided in sections 254b <sup>1</sup> and 254b of this title) other than this subchapter may be used—
 
-&emsp;(1) for grants or contracts for surveys or other activities to determine the feasibility of developing or expanding health maintenance organizations or other entities which provide, directly or indirectly, health services to a defined population on a prepaid basis;
+&emsp;(1) for grants or contracts for surveys or other activities to determine the feasibility of developing or expanding health maintenanceorganizations or other entities which provide, directly or indirectly, health services to a defined population on a prepaid basis;
 
 &emsp;(2) for grants or contracts, or for payments under loan guarantees, for planning projects for the establishment or expansion of such organizations or entities;
 

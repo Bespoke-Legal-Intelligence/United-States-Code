@@ -12,7 +12,7 @@ The United States Governor of the Bank is authorized to vote in favor of a resol
 
 #### (c) Limitations on authorization of appropriations
 
-(1) In order to pay for the increase in the United States subscription to the Bank under subsection (b), there are authorized to be appropriated, without fiscal year limitation, $21,004,064,337 for payment by the Secretary of the Treasury.
+(1) In order to pay for the increase in the United States subscription to the Bank under subsection (b), there are authorized to be appropriated, without fiscal year limitation,$21,004,064,337 for payment by the Secretary of the Treasury.
 
 (2) Of the amount authorized to be appropriated under paragraph (1)—
 

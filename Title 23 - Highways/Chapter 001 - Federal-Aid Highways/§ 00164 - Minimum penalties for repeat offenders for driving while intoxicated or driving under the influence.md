@@ -120,13 +120,95 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606; Pub. L. 112–141, div. A, title I, §1403, July 6, 2012, 126 Stat. 556.)
+(Added Pub. L. 105–178, title I, §1406(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 845; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 110–244, title I, §115, June 6, 2008, 122 Stat. 1606; Pub. L. 112–141, div. A, title I, §1403, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §§1414, 1446(a)(10), Dec. 4, 2015, 129 Stat. 1420, 1437.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–94, div. A, title I, §§1414, 1446(a)(10), title IV, §4015, Dec. 4, 2015, 129 Stat. 1420, 1437, 1513, provided that, effective Oct. 1, 2016, this section is amended:</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(a) by redesignating paragraphs (1) to (4) as paragraphs (2) to (5), respectively;</i>
+
+<i>(b) by adding paragraph (1) to read as follows:</i>
+
+&emsp;<i>"(1)</i>
+
+<i>24-7 sobriety program.—The term '24-7 sobriety program' has the meaning given the term in section 405(d)(7)(A).";</i>
+
+<i>(c) in paragraph (5), as redesignated—</i>
+
+<i>(i) by inserting "or combination of laws or programs" after "State law" in the introductory provisions;</i>
+
+<i>(ii) by amending subparagraph (A) to read as follows:</i>
+
+&emsp;&emsp;<i>"(A) receive, for a period of not less than 1 year—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) a suspension of all driving privileges;</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) a restriction on driving privileges that limits the individual to operating only motor vehicles with an ignition interlock device installed, unless a special exception applies;</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) a restriction on driving privileges that limits the individual to operating motor vehicles only if participating in, and complying with, a 24-7 sobriety program; or</i>
+
+&emsp;&emsp;&emsp;<i>"(iv) any combination of clauses (i) through (iii);";</i>
+
+<i>(iii) by striking subparagraph (B);</i>
+
+<i>(iv) by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively;</i>
+
+<i>(v) in subparagraph (C), as redesignated—</i>
+
+<i>(I) by inserting "(unless the State certifies that the general practice is that such an individual will be incarcerated)" before the semicolon in clause (i)(II); and</i>
+
+<i>(II) by inserting "(unless the State certifies that the general practice is that such an individual will receive 10 days of incarceration)" before the period at the end in clause (ii)(II); and</i>
+
+<i>(d) by adding paragraph (6) to read as follows:</i>
+
+&emsp;<i>"(6)</i>
+
+<i>Special exception.—The term 'special exception' means an exception under a State alcohol-ignition interlock law for the following circumstances:</i>
+
+&emsp;&emsp;<i>"(A) The individual is required to operate an employer's motor vehicle in the course and scope of employment and the business entity that owns the vehicle is not owned or controlled by the individual.</i>
+
+&emsp;&emsp;<i>"(B) The individual is certified by a medical doctor as being unable to provide a deep lung breath sample for analysis by an ignition interlock device."; and</i>
+
+<i>(2) in subsection (b)—</i>
+
+<i>(a) by striking "transferred" and inserting "reserved" in paragraph (3)(A); and</i>
+
+<i>(b) by inserting "or released" after "transferred" in paragraph (5).</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
 Section 104, referred to in subsec. (b)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1) to (4). Pub. L. 114–94, §1414(1), (2), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 114–94, §1414(1), (3)(A), redesignated par. (4) as (5) and inserted "or combination of laws or programs" after "State law" in introductory provisions.
+
+Subsec. (a)(5)(A). Pub. L. 114–94, §1414(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "receive—
+
+&emsp;"(i) a suspension of all driving privileges for not less than 1 year; or
+
+&emsp;"(ii) a suspension of unlimited driving privileges for 1 year, allowing for the reinstatement of limited driving privileges subject to restrictions and limited exemptions as established by State law, if an ignition interlock device is installed for not less than 1 year on each of the motor vehicles owned or operated, or both, by the individual;".
+
+Subsec. (a)(5)(B). Pub. L. 114–94, §1414(3)(C), (D), redesignated subpar. (C) as (B) and struck out former subpar. (B), which read as follows: "be subject to the impoundment or immobilization of, or the installation of an ignition interlock system on, each motor vehicle owned or operated, or both, by the individual;".
+
+Subsec. (a)(5)(C). Pub. L. 114–94, §1414(3)(D), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+
+Subsec. (a)(5)(C)(i)(II). Pub. L. 114–94, §1414(3)(E)(i), inserted before semicolon "(unless the State certifies that the general practice is that such an individual will be incarcerated)".
+
+Subsec. (a)(5)(C)(ii)(II). Pub. L. 114–94, §1414(3)(E)(ii), inserted before period at end "(unless the State certifies that the general practice is that such an individual will receive 10 days of incarceration)".
+
+Subsec. (a)(6). Pub. L. 114–94, §1414(4), added par. (6).
+
+Subsec. (b)(3)(A). Pub. L. 114–94, §1446(a)(10)(A), substituted "reserved" for "transferred".
+
+Subsec. (b)(5). Pub. L. 114–94, §1446(a)(10)(B), inserted "or released" after "transferred" in introductory provisions.
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–141, §1403(a)(1), (2), redesignated par. (4) as (3) and struck out former par. (3) which defined "license suspension".
 
@@ -159,6 +241,10 @@ Subsec. (b)(5). Pub. L. 112–141, §1403(b)(3), added par. (5) and struck out f
 "(B) be subject to the impoundment or immobilization of each of the individual's motor vehicles or the installation of an ignition interlock system on each of the motor vehicles;".
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–59 substituted "148" for "152".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. A, title IV, §4015, Dec. 4, 2015, 129 Stat. 1513, provided that: "Notwithstanding any other provision of this Act \[div. A of Pub. L. 114–94, see Tables for classification\], except for the technical corrections in section 4014 \[amending sections 402, 403, and 405 of this title\], the amendments made by this Act to sections 164, 402, and 405 of title 23, United States Code, shall be effective on October 1, 2016."
 
 #### Effective Date of 2012 Amendment
 

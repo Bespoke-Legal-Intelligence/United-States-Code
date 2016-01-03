@@ -1,6 +1,6 @@
 ### §220107. Assistance by Department of Defense
 
-The Secretary of Defense may make the resources of the Department of Defense, including access to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration, available to the corporation to the extent compatible with the primary mission of the Department and in accordance with guidelines issued by the Secretary.
+The Secretary of Defense may make the resources of the Department of Defense, includingaccess to General Services Administration supplies and services through the Federal Supply Schedule of the General Services Administration, available to the corporation to the extent compatible with the primary mission of the Department and in accordance with guidelines issued by the Secretary.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1461; Pub. L. 108–375, div. A, title VIII, §820, Oct. 28, 2004, 118 Stat. 2016.)
 

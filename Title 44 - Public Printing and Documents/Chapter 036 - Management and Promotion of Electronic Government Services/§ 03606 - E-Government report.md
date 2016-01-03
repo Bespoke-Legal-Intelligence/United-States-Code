@@ -22,5 +22,5 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section "202(g)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section 202(g)".</i>
 

@@ -282,7 +282,7 @@ Pursuant to the authority contained in title II of the Kenneth M. Ludden Foreign
 
 • is important to Azerbaijan's border security; and
 
-• will not undermine or hamper ongoing efforts to negotiate a peaceful settlement between Armenia and Azerbaijan or be used for offensive purposes against Armenia.
+• will not undermine or hamper ongoing efforts to negotiate a peaceful settlement between Armenia andAzerbaijan or be used for offensive purposes against Armenia.
 
 Accordingly, I hereby extend the waiver of section 907 of the FREEDOM Support Act.
 

@@ -2,7 +2,7 @@
 
 #### (a) Expenses
 
-The Financial Assistance Corporation shall pay the necessary and reasonable administrative expenses of the Assistance Board from funds in the Assistance Fund established in section 2278b–5 of this title.
+The Financial Assistance Corporation shall pay the necessary and reasonable administrativeexpenses of the Assistance Board from funds in the Assistance Fund established in section 2278b–5 of this title.
 
 #### (b) Interim funding
 

@@ -326,7 +326,7 @@ Amendment by section 6127(b) of Pub. L. 100–647 effective as if included in th
 
 #### Effective Date
 
-Pub. L. 99–514, title XII, §1235(h), Oct. 22, 1986, 100 Stat. 2576, provided that: "The amendments made by this section \[enacting this section and sections 1293 to 1297 of this title and amending sections 532, 542, 551, 851, 904, 951, 1246, and 6503 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986."
+Pub. L. 99–514, title XII, §1235(h), Oct. 22, 1986, 100 Stat. 2576, provided that: "The amendments made bythis section \[enacting this section and sections 1293 to 1297 of this title and amending sections 532, 542, 551, 851, 904, 951, 1246, and 6503 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986."
 
 <i><sup>1</sup></i><i> So in original. See 2010 Amendment notes below.</i>
 

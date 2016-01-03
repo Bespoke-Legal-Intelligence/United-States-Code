@@ -92,7 +92,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) developing an environmental management system; and
 
-&emsp;&emsp;(C) developing a plan for recycling and minimizing the generation of airport solid waste, consistent with applicable State andlocal recycling laws, including the cost of a waste audit.
+&emsp;&emsp;(C) developing a plan for recycling and minimizing the generation of airport solid waste, consistent with applicable State and local recycling laws, including the cost of a waste audit.
 
 &emsp;(6) "amount made available under section 48103" or "amount newly made available" means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
 
@@ -174,7 +174,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) a private owner of a public-use airport that submits to the Secretary under this subchapter an application for financial assistance for the airport.
 
-&emsp;(27) "State" means a State of the United States, the District of Columbia, Puerto Rico,the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
+&emsp;(27) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
 &emsp;(28) "terminal development" means—
 
@@ -188,7 +188,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) the cost of a vehicle described in section 47119(a)(1)(B).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586; Pub. L. 112–95, title I, §132, Feb. 14, 2012, 126 Stat. 21.)
 
 Historical and Revision Notes
 
@@ -322,7 +322,7 @@ In clause (9), the words "scheduled and nonscheduled" are omitted as surplus. Th
 
 In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words "that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
 
-In clause (12), the words "included in one project grant application" are substituted for "submitted together", and the words "or all projects to be undertaken" are substituted for "including the combined submission of all projects", for clarity and consistency in this chapter.
+In clause (12), the words "included in one project grant application" are substituted for "submitted together", and the words "or all projects to be undertaken" are substituted for "including the combinedsubmission of all projects", for clarity and consistency in this chapter.
 
 In clause (15)(A), the words "or any agency of a State, a municipality . . . other" are omitted as surplus.
 

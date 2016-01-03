@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 &emsp;(6) The term "System" means the John H. Chafee Coastal Barrier Resources System established by section 3503(a) of this title.
 
-&emsp;(7) The term "System unit" means any undeveloped coastal barrier, or combination of closely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
+&emsp;(7) The term "System unit" means any undeveloped coastal barrier, or combination ofclosely-related undeveloped coastal barriers, included within the John H. Chafee Coastal Barrier Resources System established by section 3503 of this title.
 
 (Pub. L. 97–348, §3, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 99–272, title XIV, §14001(b)(5), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–707, title II, §204(c)(2), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 101–591, §2(a), (b)(1), (c), Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(2), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §4(a)(1), (2), Nov. 13, 2000, 114 Stat. 2396.)
 

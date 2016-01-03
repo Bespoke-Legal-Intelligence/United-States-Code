@@ -82,7 +82,7 @@
 
 #### (iii) Enforcement
 
-&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to otherMedicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
+&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to other Medicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
 
 #### (H) Report
 

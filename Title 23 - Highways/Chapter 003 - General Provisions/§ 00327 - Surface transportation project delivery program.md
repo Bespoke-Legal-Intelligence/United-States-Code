@@ -14,7 +14,7 @@ Assumption of responsibility.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to the other provisions of this section, with the writtenagreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+In general.—Subject to the other provisions of this section, with the written agreement of the Secretary and a State, which may be in the form of a memorandum of understanding, the Secretary may assign, and the State may assume, the responsibilities of the Secretary with respect to one or more highway projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -24,7 +24,7 @@ Additional responsibility.—If a State assumes responsibility under subparagrap
 
 &emsp;&emsp;&emsp;(ii) at the request of the State, the Secretary may also assign to the State, and the State may assume, the responsibilities of the Secretary with respect to 1 or more railroad, public transportation, or multimodal projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-&emsp;&emsp;&emsp;(iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 13 <sup>1</sup> 4321 et seq.); but
+&emsp;&emsp;&emsp;(iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); but
 
 &emsp;&emsp;&emsp;(iv) the Secretary may not assign—
 
@@ -118,7 +118,7 @@ Written Agreement.—A written agreement under this section shall—
 
 &emsp;&emsp;(D) agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
 
-&emsp;(4) require the State to provide to the Secretary any information the Secretary considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
+&emsp;(4) require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
 
 &emsp;(5) have a term of not more than 5 years; and
 
@@ -142,7 +142,7 @@ Intervention.—The Secretary shall have the right to intervene in any action de
 
 (e)
 
-Effect of Assumption of Responsibility.—A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
+Effect of Assumption of Responsibility.—A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of and without further approval of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
 
 (f)
 
@@ -154,11 +154,13 @@ Audits.—
 
 &emsp;(1)
 
-In general.—To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+In general.—To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
 
-&emsp;&emsp;(A) semiannual audits during each of the first 2 years of State participation; and
+&emsp;&emsp;(A) not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
 
-&emsp;&emsp;(B) annual audits during each of the third and fourth years of State participation.
+&emsp;&emsp;(B) conduct annual audits during each of the first 4 years of State participation; and
+
+&emsp;&emsp;(C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
 
 &emsp;(2)
 
@@ -171,6 +173,18 @@ In general.—An audit conducted under paragraph (1) shall be provided to the pu
 &emsp;&emsp;(B)
 
 Response.—Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
+
+&emsp;(3)
+
+Audit team.—
+
+&emsp;&emsp;(A)
+
+In general.—An audit conducted under paragraph (1) shall be carried out by an audit team determined by the Secretary, in consultation with the State, in accordance with subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Consultation.—Consultation with the State under subparagraph (A) shall include a reasonable opportunity for the State to review and provide comments on the proposed members of the audit team.
 
 (h)
 
@@ -186,15 +200,17 @@ Termination.—
 
 &emsp;(1)
 
-Termination by the secretary.—The Secretary may terminate the participation of any State in the program if—
+Termination by secretary.—The Secretary may terminate the participation of any State in the program if—
 
 &emsp;&emsp;(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
 
 &emsp;&emsp;(B) the Secretary provides to the State—
 
-&emsp;&emsp;&emsp;(i) notification of the determination of noncompliance; and
+&emsp;&emsp;&emsp;(i) a notification of the determination of noncompliance;
 
-&emsp;&emsp;&emsp;(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+&emsp;&emsp;&emsp;(ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+&emsp;&emsp;&emsp;(iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
 
 &emsp;&emsp;(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
@@ -202,17 +218,63 @@ Termination by the secretary.—The Secretary may terminate the participation of
 
 Termination by the state.—The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
-(Added Pub. L. 109–59, title VI, §6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, §2203(c), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–140, title I, §101(e)(1), June 29, 2012, 126 Stat. 392; Pub. L. 112–141, div. A, title I, §1313(a)–(h), July 6, 2012, 126 Stat. 545–547.)
+(k)
+
+Capacity Building.—The Secretary, in cooperation with representatives of State officials, may carry out education, training, peer-exchange, and other initiatives as appropriate—
+
+&emsp;(1) to assist States in developing the capacity to participate in the assignment program under this section; and
+
+&emsp;(2) to promote information sharing and collaboration among States that are participating in the assignment program under this section.
+
+(l)
+
+Relationship to Locally Administered Projects.—A State granted authority under this section may, as appropriate and at the request of a local government—
+
+&emsp;(1) exercise such authority on behalf of the local government for a locally administered project; or
+
+&emsp;(2) provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any comparable requirements under State law.
+
+(Added Pub. L. 109–59, title VI, §6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, §2203(c), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–140, title I, §101(e)(1), June 29, 2012, 126 Stat. 392; Pub. L. 112–141, div. A, title I, §1313(a)–(h), July 6, 2012, 126 Stat. 545–547; Pub. L. 114–94, div. A, title I, §§1308, 1446(d)(3), Dec. 4, 2015, 129 Stat. 1390, 1438.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), (B)(ii), (iii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (l)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date on which amendments to this section by the MAP-21 take effect, referred to in subsec. (b)(2), is Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, §1313(a)(1), struck out "pilot" before "program" in section catchline.
+<b>2015</b>—Pub. L. 114–94, §1446(d)(3), amended directory language of Pub. L. 112–141, §1313(a)(1). See 2012 Amendment note below.
+
+Subsec. (a)(2)(B)(iii). Pub. L. 114–94, §1308(1), substituted "(42 U.S.C. 4321 et seq.)" for "(42 U.S.C. 13 4321 et seq.)".
+
+Subsec. (c)(4). Pub. L. 114–94, §1308(2), inserted "reasonably" before "considers necessary".
+
+Subsec. (e). Pub. L. 114–94, §1308(3), inserted "and without further approval of" after "in lieu of".
+
+Subsec. (g)(1). Pub. L. 114–94, §1308(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+
+&emsp;"(A) semiannual audits during each of the first 2 years of State participation; and
+
+&emsp;"(B) annual audits during each of the third and fourth years of State participation."
+
+Subsec. (g)(3). Pub. L. 114–94, §1308(4)(B), added par. (3).
+
+Subsec. (j)(1). Pub. L. 114–94, §1308(5), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may terminate the participation of any State in the program if—
+
+&emsp;"(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+&emsp;"(B) the Secretary provides to the State—
+
+&emsp;&emsp;"(i) notification of the determination of noncompliance; and
+
+&emsp;&emsp;"(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+
+&emsp;"(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary."
+
+Subsecs. (k), (l). Pub. L. 114–94, §1308(6), added subsecs. (k) and (l).
+
+<b>2012</b>—Pub. L. 112–141, §1313(a)(1), as amended by Pub. L. 114–94, §1446(d)(3), struck out "pilot" before "program" in section catchline.
 
 Subsec. (a)(1). Pub. L. 112–141, §1313(a)(2), struck out "pilot" before "program (referred to".
 
@@ -246,11 +308,15 @@ Pub. L. 112–141, §1313(g)(1), redesignated subsec. (i) as (j).
 
 <b>2010</b>—Subsec. (i)(1). Pub. L. 111–322 substituted "7 years after" for "6 years after".
 
+#### Effective Date of 2015 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 Pub. L. 112–140, title I, §101(e)(2), June 29, 2012, 126 Stat. 392, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in section 101 of the Surface Transportation Extension Act of 2012 \[Pub. L. 112–102\] and shall not be subject to the special rule in section 1(c) of this Act \[set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title\]."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

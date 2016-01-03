@@ -56,7 +56,7 @@ None of the funds available to carry out this part shall be contributed to any i
 
 #### (d) Tuberculosis vaccine development programs
 
-In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may benecessary for each of the fiscal years 2009 through 2013, which shall be used for United States contributions to tuberculosis vaccine development programs, which may include the Aeras Global TB Vaccine Foundation.
+In addition to amounts otherwise available under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013, which shall be used for United States contributions to tuberculosis vaccine development programs, which may include the Aeras Global TB Vaccine Foundation.
 
 #### (e) to (h) Repealed. Pub. L. 95–424, title VI, §604, Oct. 6, 1978, 92 Stat. 961
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to av
 
 Subsec. (h). Pub. L. 95–424, §604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 forfiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 <b>1976</b>—Subsec. (i). Pub. L. 94–329 added subsec. (i).
 

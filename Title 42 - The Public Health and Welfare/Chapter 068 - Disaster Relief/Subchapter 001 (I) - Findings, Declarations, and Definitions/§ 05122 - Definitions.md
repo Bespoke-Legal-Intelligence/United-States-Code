@@ -8,7 +8,7 @@ Emergency.—"Emergency" means any occasion or instance for which, in the determ
 
 (2)
 
-Major disaster.—"Major disaster" means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
+Major disaster.—"Major disaster" means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or, regardless of cause, any fire, flood, or explosion, in any part of the United States, which in the determination of the President causes damage of sufficient severity andmagnitude to warrant major disaster assistance under this chapter to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby.
 
 (3) "United States" means the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -58,13 +58,13 @@ In general.—The term "private nonprofit facility" means private nonprofit educ
 
 &emsp;(B)
 
-Additional facilities.—In addition to the facilities described in subparagraph (A), the term "private nonprofit facility" includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
+Additional facilities.—In addition to the facilities described in subparagraph (A), the term "private nonprofit facility" includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, broadcasting facilities, and facilities that provide health and safety services of a governmental nature), as defined by the President.
 
 (12)
 
 Chief executive.—The term "Chief Executive" means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
 
-(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572; Pub. L. 109–295, title VI, §688, Oct. 4, 2006, 120 Stat. 1448; Pub. L. 113–2, div. B, §1110(c), Jan. 29, 2013, 127 Stat. 49.)
+(Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572; Pub. L. 109–295, title VI, §688, Oct. 4, 2006, 120 Stat. 1448; Pub. L. 113–2, div. B, §1110(c), Jan. 29, 2013, 127 Stat. 49; Pub. L. 114–111, §2(a), Dec. 18, 2015, 129 Stat. 2240.)
 
 #### References in Text
 
@@ -74,7 +74,9 @@ The Federally Recognized Indian Tribe List Act of 1994, referred to in par. (6),
 
 #### Amendments
 
-Par. (6). Pub. L. 113–2, §1110(c)(3), added par. (6). Former par. (6) redesignated (7).
+<b>2015</b>—Par. (11)(B). Pub. L. 114–111 inserted "broadcasting facilities," after "workshops,".
+
+<b>2013</b>—Par. (6). Pub. L. 113–2, §1110(c)(3), added par. (6). Former par. (6) redesignated (7).
 
 Par. (7). Pub. L. 113–2, §1110(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
@@ -102,7 +104,7 @@ Par. (9). Pub. L. 106–390, §302(3), inserted "irrigation," after "utility,".
 
 <b>1992</b>—Pars. (3), (4). Pub. L. 102–247 inserted "the Northern Mariana Islands," after "American Samoa,".
 
-<b>1988</b>—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment,text read as follows: " 'Emergency' means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster."
+<b>1988</b>—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: " 'Emergency' means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster."
 
 Par. (2). Pub. L. 100–707, §103(c), inserted heading and amended text generally. Prior to amendment, text read as follows: " 'Major disaster' means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby."
 

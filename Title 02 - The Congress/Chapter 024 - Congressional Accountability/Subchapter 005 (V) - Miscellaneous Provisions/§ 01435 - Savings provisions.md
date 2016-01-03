@@ -4,7 +4,7 @@
 
 #### (1) Claims arising before effective date
 
-&emsp;If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 <sup>1</sup> of the Government Employees Rights Act of 1991 or Rule LI of the House of Representatives, including counseling for alleged violations of family and medical leave rights under title V of the Family and Medical Leave Act of 1993, the employee may complete, or initiate and complete, all procedures under the Government Employees Rights Act of 1991 and Rule LI, and the provisions of that Act and Rule shall remain in effect with respect to, and provide the exclusive procedures for, those claims until the completion of all such procedures.
+&emsp;If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 <sup>1</sup> of the Government Employees Rights Act of 1991 or Rule LI of the House of Representatives, including counseling for alleged violations of family and medical leave rights under title V of the Family and Medical Leave Act of 1993, the employee may complete, or initiate and complete, all procedures under the Government Employees Rights Act of 1991 and Rule LI, and the provisions of that Act and Rule shall remain in effect with respect to, and provide the exclusive procedures for, thoseclaims until the completion of all such procedures.
 
 #### (2) Claims arising between effective date and opening of Office
 
@@ -34,7 +34,7 @@
 
 #### (c) Transition provision relating to matters other than employment under section 12209 of title 42
 
-With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights,protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
+With respect to matters other than employment under section 12209 <sup>1</sup> of title 42, the rights, protections, remedies, and procedures of section 12209 <sup>1</sup> of title 42 shall remain in effect until section 1331 of this title takes effect with respect to each of the entities covered by section 12209 <sup>1</sup> of title 42.
 
 (Pub. L. 104–1, title V, §506, Jan. 23, 1995, 109 Stat. 42.)
 

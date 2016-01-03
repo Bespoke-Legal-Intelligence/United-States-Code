@@ -22,7 +22,7 @@
 
 (c) Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, §403, Aug. 10, 1987, 101 Stat.609; Pub. L. 100–233, title VII, §703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, §602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, §511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853; Pub. L. 103–82, title II, §202(e)(2), Sept. 21, 1993, 107 Stat. 888.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, §403, Aug. 10, 1987, 101 Stat. 609; Pub. L. 100–233, title VII, §703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, §602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, §511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853; Pub. L. 103–82, title II, §202(e)(2), Sept. 21, 1993, 107 Stat. 888.)
 
 Historical and Revision Notes
 

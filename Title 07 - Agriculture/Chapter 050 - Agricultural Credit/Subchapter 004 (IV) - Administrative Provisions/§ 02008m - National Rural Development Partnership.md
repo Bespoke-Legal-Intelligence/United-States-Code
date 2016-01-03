@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(D) develop and facilitate strategies to reduce or eliminate administrative and regulatory impediments; and
 
-&emsp;&emsp;(E) require each State rural development council receiving funds under this section tosubmit an annual report on the use of the funds, including a description of strategic plans, goals, performance measures, and outcomes for the State rural development council of the State.
+&emsp;&emsp;(E) require each State rural development council receiving funds under this section to submit an annual report on the use of the funds, including a description of strategic plans, goals, performance measures, and outcomes for the State rural development council of the State.
 
 #### (4) Federal participation in Coordinating Committee
 
@@ -158,7 +158,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may, and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
+&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may,and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
 
 #### (B) Civil service status
 
@@ -176,7 +176,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State rural development council shall providematching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2).
+&emsp;Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2).
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 

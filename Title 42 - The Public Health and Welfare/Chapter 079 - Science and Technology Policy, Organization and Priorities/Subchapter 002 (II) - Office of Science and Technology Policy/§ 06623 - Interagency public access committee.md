@@ -26,7 +26,7 @@ The working group shall—
 
 &emsp;(9) take into consideration the role that scientific publishers play in the peer review process in ensuring the integrity of the record of scientific research, including the investments and added value that they make; and
 
-&emsp;(10) examine Federal agency practices and procedures for providing research reports to the agencies charged with locating and preserving unclassified research.
+&emsp;(10) examine Federal agency practices and procedures for providing research reports tothe agencies charged with locating and preserving unclassified research.
 
 #### (c) Patent or copyright law
 

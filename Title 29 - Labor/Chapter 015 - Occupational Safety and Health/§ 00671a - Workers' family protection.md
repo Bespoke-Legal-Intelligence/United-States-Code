@@ -112,9 +112,9 @@ This section may be cited as the "Workers' Family Protection Act".
 
 #### (1) In general
 
-&emsp;Not later than 4 years after October 26, 1992, and periodically thereafter, the Secretary of Labor, based on the information developed under subsection (c) of this section and on other information available to the Secretary, shall—
+&emsp;Not later than 4 years after October 26, 1992, and periodically thereafter, the Secretary of Labor, based on the information developed under subsection (c) and on other information available to the Secretary, shall—
 
-&emsp;&emsp;(A) determine if additional education about, emphasis on, or enforcement of existing regulations or standards is needed andwill be sufficient, or if additional regulations or standards are needed with regard to employee transported releases of hazardous materials; and
+&emsp;&emsp;(A) determine if additional education about, emphasis on, or enforcement of existing regulations or standards is needed and will be sufficient, or if additional regulations or standards are needed with regard to employee transported releases of hazardous materials; and
 
 &emsp;&emsp;(B) prepare and submit to the appropriate committees of Congress a report concerning the result of such determination.
 

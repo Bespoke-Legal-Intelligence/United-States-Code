@@ -14,5 +14,5 @@ A prior section 5662, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(b)(2)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) ofPub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(b)(2)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

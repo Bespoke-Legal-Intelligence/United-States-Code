@@ -38,7 +38,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (3) Foreign investment
 
-&emsp;Recognizing that United States law on the whole provides a high level of protection for investment, consistent with or greater than the level required by international law, the principal negotiating objectives of the United States regarding foreign investment are to reduce or eliminate artificial or trade-distorting barriers to foreign investment, while ensuring that foreign investors in the United States arenot accorded greater substantive rights with respect to investment protections than United States investors in the United States, and to secure for investors important rights comparable to those that would be available under United States legal principles and practice, by—
+&emsp;Recognizing that United States law on the whole provides a high level of protection for investment, consistent with or greater than the level required by international law, the principal negotiating objectives of the United States regarding foreign investment are to reduce or eliminate artificial or trade-distorting barriers to foreign investment, while ensuring that foreign investors in the United States are not accorded greater substantive rights with respect to investment protections than United States investors in the United States, and to secure for investors important rights comparable to those that would be available under United States legal principles and practice, by—
 
 &emsp;&emsp;(A) reducing or eliminating exceptions to the principle of national treatment;
 
@@ -110,7 +110,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;The principal negotiating objectives of the United States with respect to the use of money or other things of value to influence acts, decisions, or omissions of foreign governments or officials or to secure any improper advantage in a manner affecting trade are—
 
-&emsp;&emsp;(A) to obtain high standards and appropriate domestic enforcement mechanismsapplicable to persons from all countries participating in the applicable trade agreement that prohibit such attempts to influence acts, decisions, or omissions of foreign governments; and
+&emsp;&emsp;(A) to obtain high standards and appropriate domestic enforcement mechanisms applicable to persons from all countries participating in the applicable trade agreement that prohibit such attempts to influence acts, decisions, or omissions of foreign governments; and
 
 &emsp;&emsp;(B) to ensure that such standards do not place United States persons at a competitive disadvantage in international trade.
 
@@ -124,7 +124,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (8) Regulatory practices
 
-&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantage to their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
+&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantageto their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
 
 &emsp;&emsp;(A) to achieve increased transparency and opportunity for the participation of affected parties in the development of regulations;
 
@@ -178,7 +178,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;&emsp;(I) unfair or trade-distorting activities of state trading enterprises and other administrative mechanisms, with emphasis on requiring price transparency in the operation of state trading enterprises and such other mechanisms in order to end cross subsidization, price discrimination, and price undercutting;
 
-&emsp;&emsp;&emsp;(II) unjustified trade restrictions or commercial requirements, such as labeling,that affect new technologies, including biotechnology;
+&emsp;&emsp;&emsp;(II) unjustified trade restrictions or commercial requirements, such as labeling, that affect new technologies, including biotechnology;
 
 &emsp;&emsp;&emsp;(III) unjustified sanitary or phytosanitary restrictions, including those not based on scientific principles in contravention of the Uruguay Round Agreements;
 
@@ -238,7 +238,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(D) to seek provisions encouraging the early identification and settlement of disputes through consultation;
 
-&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreement does not come into compliance with its obligations under the agreement;
+&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreementdoes not come into compliance with its obligations under the agreement;
 
 &emsp;&emsp;(F) to seek provisions to impose a penalty upon a party to a dispute under the agreement that—
 
@@ -290,7 +290,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(3) seek to establish consultative mechanisms among parties to trade agreements to strengthen the capacity of United States trading partners to develop and implement standards for the protection of the environment and human health based on sound science, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the content and operation of such mechanisms;
 
-&emsp;(4) conduct environmental reviews of future trade and investment agreements, consistentwith Executive Order 13141 of November 16, 1999, and its relevant guidelines, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on such reviews;
+&emsp;(4) conduct environmental reviews of future trade and investment agreements, consistent with Executive Order 13141 of November 16, 1999, and its relevant guidelines, and report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on such reviews;
 
 &emsp;(5) review the impact of future trade agreements on United States employment, including labor markets, modeled after Executive Order 13141 to the extent appropriate in establishing procedures and criteria, report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on such review, and make that report available to the public;
 
@@ -298,7 +298,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(7) direct the Secretary of Labor to consult with any country seeking a trade agreement with the United States concerning that country's labor laws and provide technical assistance to that country if needed;
 
-&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
+&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committeeon Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
 
 &emsp;(9) with respect to any trade agreement which the President seeks to implement under trade authorities procedures, submit to the Congress a report describing the extent to which the country or countries that are parties to the agreement have in effect laws governing exploitative child labor;
 

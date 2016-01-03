@@ -16,11 +16,11 @@ Not later than 1 year after March 23, 2010, the Secretary, acting through the Se
 
 &emsp;(C) The actions necessary to protect the exercise of such right.
 
-&emsp;(5) The responsibilities of the Bureau of Indian Affairs and the Service, including mental illness identification, prevention, education, referral, and treatment services (including services through multidisciplinary resourceteams), at the central, area, and agency and Service unit, Service area, and headquarters levels to address the problems identified in paragraph (1).
+&emsp;(5) The responsibilities of the Bureau of Indian Affairs and the Service, including mental illness identification, prevention, education, referral, and treatment services (including services through multidisciplinary resource teams), at the central, area, and agency and Service unit, Service area, and headquarters levels to address the problems identified in paragraph (1).
 
 &emsp;(6) A strategy for the comprehensive coordination of the behavioral health services provided by the Bureau of Indian Affairs and the Service to meet the problems identified pursuant to paragraph (1), including—
 
-&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, the Bureau of Indian Affairs, and Indian tribes and tribal organizations (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2401 et seq.)) with behavioral health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually diagnosed individuals requiring behavioral health and substance abuse treatment; and
+&emsp;&emsp;(A) the coordination of alcohol and substance abuse programs of the Service, theBureau of Indian Affairs, and Indian tribes and tribal organizations (developed under the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2401 et seq.)) with behavioral health initiatives pursuant to this chapter, particularly with respect to the referral and treatment of dually diagnosed individuals requiring behavioral health and substance abuse treatment; and
 
 &emsp;&emsp;(B) ensuring that the Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services.
 

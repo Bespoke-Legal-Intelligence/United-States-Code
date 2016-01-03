@@ -88,7 +88,7 @@ A loan may be guaranteed under this subchapter only for—
 
 &emsp;The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.
 
-(Pub. L. 87–128, title III, §312, Aug. 8, 1961, 75 Stat. 310; Pub. L. 87–703, title IV, §401(4), Sept.27, 1962, 76 Stat. 632; Pub. L. 90–488, §8, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §§120(b), 121, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–113, title XIV, §1448(b), Sept. 29, 1977, 91 Stat. 1012; Pub. L. 95–334, title I, §115, Aug. 4, 1978, 92 Stat. 425; Pub. L. 96–438, §1(3), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–198, title XIII, §§1306, 1307, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 101–624, title XVIII, §1818(b), Nov. 28, 1990, 104 Stat. 3830; Pub. L. 102–237, title V, §501(b), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, §516(f)(1)(A), (2), Oct. 28, 1992, 106 Stat. 4137, 4138; Pub. L. 104–127, title VI, §612(a), Apr. 4, 1996, 110 Stat. 1087; Pub. L. 113–79, title V, §§5105, 5106(b)(2), Feb. 7, 2014, 128 Stat. 836, 838.)
+(Pub. L. 87–128, title III, §312, Aug. 8, 1961, 75 Stat. 310; Pub. L. 87–703, title IV, §401(4), Sept. 27, 1962, 76 Stat. 632; Pub. L. 90–488, §8, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §§120(b), 121, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–113, title XIV, §1448(b), Sept. 29, 1977, 91 Stat. 1012; Pub. L. 95–334, title I, §115, Aug. 4, 1978, 92 Stat. 425; Pub. L. 96–438, §1(3), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–198, title XIII, §§1306, 1307, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 101–624, title XVIII, §1818(b), Nov. 28, 1990, 104 Stat. 3830; Pub. L. 102–237, title V, §501(b), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, §516(f)(1)(A), (2), Oct. 28, 1992, 106 Stat. 4137, 4138; Pub. L. 104–127, title VI, §612(a), Apr. 4, 1996, 110 Stat. 1087; Pub. L. 113–79, title V, §§5105, 5106(b)(2), Feb. 7, 2014, 128 Stat. 836, 838.)
 
 #### References in Text
 
@@ -150,5 +150,5 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Construction of 1991 Amendment
 
-Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law."
+Pub. L. 102–552, title V, §516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: "Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) \[amending this section\] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.)shall be applied and administered as if such subsection had never become law."
 

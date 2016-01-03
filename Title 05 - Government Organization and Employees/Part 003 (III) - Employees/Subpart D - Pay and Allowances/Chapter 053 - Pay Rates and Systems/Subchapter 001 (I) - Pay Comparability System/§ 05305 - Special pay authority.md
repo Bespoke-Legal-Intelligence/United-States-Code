@@ -32,7 +32,7 @@
 
 (h) An employee shall not for any purpose be considered to be entitled to a rate of pay established under this section with respect to any period for which such employee is entitled to a higher rate of basic pay under any other provision of law. For purposes of this subsection, the term "basic pay" includes any applicable locality-based comparability payment under section 5304 or similar provision of law.
 
-(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as thePresident may under the last sentence of subsection (a)(1) designate) in conformance with the following:
+(i) If an employee who is receiving a rate of pay under this section becomes subject, by virtue of moving to a new official duty station, to a different pay schedule, such employee's new rate of pay shall be initially established under conversion rules prescribed by the Office of Personnel Management (or such other agency as the President may under the last sentence of subsection (a)(1) designate) in conformance with the following:
 
 &emsp;(1) First, determine the rate of pay to which such employee would be entitled at the new official duty station based on such employee's position, grade, and step (or relative position in the rate range) before the move.
 
@@ -104,7 +104,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 &emsp;"(1) shall be paid in the same manner and at the same time as the employee's basic pay is paid, but may not be considered to be part of basic pay for any purpose; and
 
-&emsp;"(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of thistitle\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving."
+&emsp;"(2) may be reduced or eliminated by the Office of Personnel Management in its sole discretion as the amendments made by this Act take effect \[see Effective Date of 1990 Amendment and Short Title of 1990 Amendment notes set out under section 5301 of this title\], except that no such reduction or elimination shall have the effect of reducing the total amount of pay (determined by adding basic pay and staffing differential) which any employee is receiving."
 
 \[Authority of President under section 529 \[title II, §209\] of Pub. L. 101–509, set out above, delegated to Office of Personnel Management by Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, eff. May 4, 1991, set out as a note under section 5301 of this title.\]
 
@@ -116,7 +116,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 
 
 &emsp;"(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\]."
 
-Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, §101(b), title III, §301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
+Pub. L. 101–509, title V, §529 \[title IV, §§401–407\], Nov. 5, 1990, 104 Stat. 1427, 1465, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309; Pub. L. 108–411, title I, §101(b), title III, §301(b), Oct. 30, 2004, 118 Stat. 2309, 2317, provided that:
 
 #### "SEC. 401. SHORT TITLE.
 
@@ -185,7 +185,7 @@ Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub.
 
 "(2) In the case of any area specified in paragraph (1) that includes a portion, but not all, of a county, the Office of Personnel Management may, at the request of the head of 1 or more law enforcement agencies, extend the area specified in paragraph (1) to include, for the purposes of this section, the entire county, if the Office determines that such extension would be in the interests of good personnel administration. Any such extension shall be applicable to each law enforcement officer whose post of duty is in the area of the extension.
 
-"(c)(1) A special pay adjustment under this section shall be administered, to the extent practicable, in the same manner as a locality-based comparability payment under section 5304 of title 5, United States Code,as amended by section 101 of this Act, and shall be considered part of basic pay to the same degree as such a locality-based comparability payment.
+"(c)(1) A special pay adjustment under this section shall be administered, to the extent practicable, in the same manner as a locality-based comparability payment under section 5304 of title 5, United States Code, as amended by section 101 of this Act, and shall be considered part of basic pay to the same degree as such a locality-based comparability payment.
 
 "(2) The Office of Personnel Management may prescribe such regulations as it considers necessary concerning the payment of special pay adjustments to law enforcement officers under this section.
 

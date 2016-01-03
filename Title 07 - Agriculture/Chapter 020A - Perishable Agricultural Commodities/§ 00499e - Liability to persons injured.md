@@ -6,7 +6,7 @@ If any commission merchant, dealer, or broker violates any provision of section 
 
 #### (b) Remedies
 
-Such liability may be enforced either (1) by complaint to the Secretary as hereinafter provided, or (2) by suit in any court of competent jurisdiction; but this section shall not in anyway abridge or alter the remedies now existing at common law or by statute, and the provisions of this chapter are in addition to such remedies.
+Such liability may be enforced either (1) by complaint to the Secretary as hereinafter provided, or (2) by suit in any court of competent jurisdiction; but this section shall not in any way abridge or alter the remedies now existing at common law or by statute, and the provisions of this chapter are in addition to such remedies.
 
 #### (c) Trust on commodities and sales proceeds for benefit of unpaid suppliers, sellers, or agents; preservation of trust; jurisdiction of courts
 

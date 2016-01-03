@@ -2,7 +2,7 @@
 
 #### (a) Conditions and considerations
 
-(1)(A) In providing assistance under this section, the Director shall, to the extent of available appropriations, (i) make available sufficient resources for employment training and placement in order to achieve economic self-sufficiency among refugees as quickly as possible, (ii) provide refugees with the opportunity to acquire sufficient English language training to enable them to become effectively resettled as quickly as possible, (iii) insure that cash assistance is made available to refugees in such a manner as not to discourage their economic self-sufficiency, in accordance with subsection (e)(2) of this section, and (iv) insure that women have the same opportunities as men to participate in training and instruction.
+(1)(A) In providing assistance under this section, the Director shall, to the extent of available appropriations, (i) make available sufficient resources for employment training and placement in order to achieve economic self-sufficiency among refugees as quickly as possible, (ii) provide refugees with the opportunity to acquire sufficient English language training to enable them to become effectively resettled as quickly as possible, (iii) insure that cash assistance is made available to refugees in such a manner as not to discourage their economic self-sufficiency, in accordance with subsection (e)(2), and (iv) insure that women have the same opportunities as men to participate in training and instruction.
 
 (B) It is the intent of Congress that in providing refugee assistance under this section—
 
@@ -12,7 +12,7 @@
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
-(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+(2)(A) The Director and the Federal agency administering subsection (b)(1) shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
 
 (B) The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
 
@@ -32,9 +32,9 @@
 
 &emsp;&emsp;(IV) the secondary migration of refugees to and from the area that is likely to occur.
 
-(D) With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) of this section shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
+(D) With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
 
-(3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e) of this section. In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
+(3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e). In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
 
 (4)(A) No grant or contract may be awarded under this section unless an appropriate proposal and application (including a description of the agency's ability to perform the services specified in the proposal) are submitted to, and approved by, the appropriate administering official. Grants and contracts under this section shall be made to those agencies which the appropriate administering official determines can best perform the services. Payments may be made for activities authorized under this subchapter in advance or by way of reimbursement. In carrying out this section, the Director, the Secretary of State, and any such other appropriate administering official are authorized—
 
@@ -42,15 +42,15 @@
 
 &emsp;(ii) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for the purpose of carrying out this section.
 
-(B) No funds may be made available under this subchapter (other than under subsection (b)(1) of this section) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
+(B) No funds may be made available under this subchapter (other than under subsection (b)(1)) to States or political subdivisions in the form of block grants, per capita grants, or similar consolidated grants or contracts. Such funds shall be made available under separate grants or contracts—
 
-&emsp;(i) for medical screening and initial medical treatment under subsection (b)(5) of this section,
+&emsp;(i) for medical screening and initial medical treatment under subsection (b)(5),
 
-&emsp;(ii) for services for refugees under subsection (c)(1) of this section,
+&emsp;(ii) for services for refugees under subsection (c)(1),
 
-&emsp;(iii) for targeted assistance project grants under subsection (c)(2) of this section, and
+&emsp;(iii) for targeted assistance project grants under subsection (c)(2), and
 
-&emsp;(iv) for assistance for refugee children under subsection (d)(2) of this section.
+&emsp;(iv) for assistance for refugee children under subsection (d)(2).
 
 (C) The Director may not delegate to a State or political subdivision his authority to review or approve grants or contracts under this subchapter or the terms under which such grants or contracts are made.
 
@@ -74,7 +74,7 @@
 
 &emsp;(C) submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
 
-(7) The Secretary, together with the Secretary of State with respect to assistance provided by the Secretary of State under subsection (b) of this section, shall develop a system of monitoring the assistance provided under this section. This system shall include—
+(7) The Secretary, together with the Secretary of State with respect to assistance provided by the Secretary of State under subsection (b), shall develop a system of monitoring the assistance provided under this section. This system shall include—
 
 &emsp;(A) evaluations of the effectiveness of the programs funded under this section and the performance of States, grantees, and contractors;
 
@@ -96,13 +96,13 @@
 
 &emsp;(ii) fiscal year 1982 and succeeding fiscal years, the Director (except as provided in subparagraph (B)) is authorized,
 
-> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistanceunder this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal year in which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
+> to make grants to, and contracts with, public or private nonprofit agencies for initial resettlement (including initial reception and placement with sponsors) of refugees in the United States. Grants to, or contracts with, private nonprofit voluntary agencies under this paragraph shall be made consistent with the objectives of this subchapter, taking into account the different resettlement approaches and practices of such agencies. Resettlement assistance under this paragraph shall be provided in coordination with the Director's provision of other assistance under this subchapter. Funds provided to agencies under such grants and contracts may only be obligated or expended during the fiscal year in which they are provided (or the subsequent fiscal year or such subsequent fiscal period as the Federal contracting agency may approve) to carry out the purposes of this subsection.
 
 (B) If the President determines that the Director should not administer the program under this paragraph, the authority of the Director under the first sentence of subparagraph (A) shall be exercised by such officer as the President shall from time to time specify.
 
 (2) The Director is authorized to develop programs for such orientation, instruction in English, and job training for refugees, and such other education and training of refugees, as facilitates their resettlement in the United States. The Director is authorized to implement such programs, in accordance with the provisions of this section, with respect to refugees in the United States. The Secretary of State is authorized to implement such programs with respect to refugees awaiting entry into the United States.
 
-(3) The Secretary is authorized to make arrangements (including cooperative arrangements with other Federal agencies) for the temporary care of refugees in the United States in emergency circumstances, including the establishment of processing centers, if necessary, without regard to such provisions of law (other than the Renegotiation Act of 1951 \[50 U.S.C. App. 1211 et seq.\] and section 1524(b) of this title) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the Secretary may specify.
+(3) The Secretary is authorized to make arrangements (including cooperative arrangements with other Federal agencies) for the temporary care of refugees in the United States in emergency circumstances, including the establishment of processing centers, if necessary, without regard to such provisions of law (other than the Renegotiation Act of 1951 and section 1524(b) of this title) regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the Secretary may specify.
 
 (4) The Secretary shall—
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(i) The number of refugees placed (by county of placement) and the expenditures made in the year under the grant or contract, including the proportion of such expenditures used for administrative purposes and for provision of services.
 
-&emsp;&emsp;(ii) The proportion of refugees placed by the agency in the previous year who are receiving cash or medical assistance described in subsection (e) of this section.
+&emsp;&emsp;(ii) The proportion of refugees placed by the agency in the previous year who are receiving cash or medical assistance described in subsection (e).
 
 &emsp;&emsp;(iii) The efforts made by the agency to monitor placement of the refugees and the activities of local affiliates of the agency.
 
@@ -146,7 +146,7 @@
 
 > The agency administering paragraph (1) shall promptly forward a copy of each annual report transmitted under subparagraph (E) to the Committees on the Judiciary of the House of Representatives and of the Senate.
 
-(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contractsunder that paragraph, and shall include criteria relating to an agency's—
+(8) The Federal agency administering paragraph (1) shall establish criteria for the performance of agencies under grants and contracts under that paragraph, and shall include criteria relating to an agency's—
 
 &emsp;(A) efforts to reduce welfare dependency among refugees resettled by that agency,
 
@@ -158,7 +158,7 @@
 
 &emsp;(E) compliance with the guidelines established by the Director for the placement and resettlement of refugees within the United States, and
 
-&emsp;(F) compliance with other requirements contained in the grant or contract, including the reporting and other requirements under subsection (b)(7) of this section.
+&emsp;(F) compliance with other requirements contained in the grant or contract, including the reporting and other requirements under subsection (b)(7).
 
 > The Federal administering agency shall use the criteria in the process of awarding or renewing grants and contracts under paragraph (1).
 
@@ -174,7 +174,7 @@
 
 (B) The funds available for a fiscal year for grants and contracts under subparagraph (A) shall be allocated among the States based on the total number of refugees (including children and adults) who arrived in the United States not more than 36 months before the beginning of such fiscal year and who are actually residing in each State (taking into account secondary migration) as of the beginning of the fiscal year.
 
-(C) Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) of this section shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
+(C) Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
 
 (2)(A) The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can be demonstrated a specific need for supplementation of available resources for services to refugees.
 
@@ -188,7 +188,7 @@
 
 (1) The Secretary of Education is authorized to make grants, and enter into contracts, for payments for projects to provide special educational services (including English language training) to refugee children in elementary and secondary schools where a demonstrated need has been shown.
 
-(2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished to any refugee child (except as provided in subparagraph (B)) during the thirty-six month period beginning with the first month in which such refugee child is in the United States.
+(2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished to any refugee child (except as provided in subparagraph (B)) during the thirty-six month periodbeginning with the first month in which such refugee child is in the United States.
 
 (B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] prescribes for the availability of such services to any other child in that State).
 
@@ -204,9 +204,9 @@
 
 (2)(A) Cash assistance provided under this subsection to an employable refugee is conditioned, except for good cause shown—
 
-&emsp;(i) on the refugee's registration with an appropriate agency providing employment services described in subsection (c)(1)(A)(i) of this section, or, if there is no such agency available, with an appropriate State or local employment service;
+&emsp;(i) on the refugee's registration with an appropriate agency providing employment services described in subsection (c)(1)(A)(i), or, if there is no such agency available, with an appropriate State or local employment service;
 
-&emsp;(ii) on the refugee's participation in any available and appropriate social service or targeted assistance program (funded under subsection (c) of this section) providing job or language training in the area in which the refugee resides; and
+&emsp;(ii) on the refugee's participation in any available and appropriate social service or targeted assistance program (funded under subsection (c)) providing job or language training in the area in which the refugee resides; and
 
 &emsp;(iii) on the refugee's acceptance of appropriate offers of employment.
 
@@ -214,7 +214,7 @@
 
 (C) In the case of a refugee who—
 
-&emsp;(i) refuses an offer of employment which has been determined to be appropriate either by the agency responsible for the initial resettlement of the refugee under subsection (b) of this section or by the appropriate State or local employment service,
+&emsp;(i) refuses an offer of employment which has been determined to be appropriate either by the agency responsible for the initial resettlement of the refugee under subsection (b) or by the appropriate State or local employment service,
 
 &emsp;(ii) refuses to go to a job interview which has been arranged through such agency or service, or
 
@@ -232,7 +232,7 @@
 
 &emsp;(B) the refugee meets such alternative financial resources and income requirements as the Director shall establish.
 
-(6) As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of this section of the fact that the refugee has so applied.
+(6) As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of the fact that the refugee has so applied.
 
 (7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determines that refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
 
@@ -242,7 +242,7 @@
 
 (D) To the extent that the use of such funds is consistent with the purposes of such provisions, funds appropriated under section 1524(a) of this title, part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or title XIX of such Act \[42 U.S.C. 1396 et seq.\], may be used for the purpose of implementing and evaluating alternative projects under this paragraph.
 
-(8) In its provision of assistance to refugees, a State or political subdivision shall consider the recommendations of, and assistance provided by, agencies with grants or contracts under subsection (b)(1) of this section.
+(8) In its provision of assistance to refugees, a State or political subdivision shall consider the recommendations of, and assistance provided by, agencies with grants or contracts under subsection (b)(1).
 
 #### (f) Assistance to States and counties for incarceration of certain Cuban nationals; priority for removal and return to Cuba
 
@@ -276,9 +276,9 @@
 
 #### References in Text
 
-The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
+The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
-Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i) and (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -292,7 +292,7 @@ Subsec. (b)(4). Pub. L. 104–208 struck out comma after "The Secretary" in intr
 
 Subsec. (e)(4). Pub. L. 104–193 substituted "State program funded" for "State plan approved".
 
-<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–236, §162(n)(2)(A), struck out ", together with the Coordinator," after "subsection (b)(1) of this section".
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–236, §162(n)(2)(A), struck out ", together with the Coordinator," after "subsection (b)(1)".
 
 Subsec. (b)(3), (4). Pub. L. 103–236, §162(n)(2)(B), struck out "in consultation with the Coordinator," after "Secretary is authorized," in par. (3) and after "The Secretary," in par. (4).
 
@@ -302,7 +302,7 @@ Subsec. (e)(7)(D). Pub. L. 103–416 struck out "paragraph (1) or (2) of" after 
 
 <b>1988</b>—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted "all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)" for "all appropriate Federal, State, and county officials referred to in section 13 of this Act", "Cuban nationals described in paragraph (1)" for "such persons defined in subsection (f)(1) of this section" and "authorized to carry out this subsection" for "hereafter authorized by this section".
 
-<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted "and the Federal agency administering subsection (b)(1) of this section" after "The Director", "(not less often than quarterly)" after "shall consult regularly",and "before their placement in those States and localities" after "States and localities".
+<b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted "and the Federal agency administering subsection (b)(1)" after "The Director", "(not less often than quarterly)" after "shall consult regularly", and "before their placement in those States and localities" after "States and localities".
 
 Subsec. (a)(2)(C)(iii). Pub. L. 99–605, §4(2), added cl. (iii).
 
@@ -454,7 +454,7 @@ Matching Grant Program.—The 'matching grant program' referred to in subsection
 
 #### Reimbursement to State and Local Public Agencies for Expenses Incurred for Providing Social Services to Applicants for Asylum
 
-Pub. L. 96–212, title IV, §401, Mar. 17, 1980, 94 Stat. 117, as amended by Pub. L. 104–208, div. C, title III, §308(d)(4)(S), Sept. 30, 1996, 110 Stat. 3009–619, provided that:
+Pub. L. 96–212, title IV, §401, Mar. 17, 1980, 94 Stat. 117, as amended by Pub. L. 104–208, div. C, title III,§308(d)(4)(S), Sept. 30, 1996, 110 Stat. 3009–619, provided that:
 
 "(a) The Director of the Office of Refugee Resettlement is authorized to use funds appropriated under paragraphs (1) and (2) of section 414(a) of the Immigration and Nationality Act \[8 U.S.C. 1524(a)\] to reimburse State and local public agencies for expenses which those agencies incurred, at any time, in providing aliens described in subsection (c) of this section with social services of the types for which reimbursements were made with respect to refugees under paragraphs (3) through (6) of section 2(b) of the Migration and Refugee Assistance Act of 1962 (as in effect prior to the enactment of this Act) \[22 U.S.C. 2601(b)(3) to (6)\] or under any other Federal law.
 
@@ -472,7 +472,7 @@ Pub. L. 96–533, title VII, §716, Dec. 16, 1980, 94 Stat. 3162, provided that:
 
 #### Refugee Education Assistance Act of 1980
 
-Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619; Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(5), (f)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–110, title X, §1076(d), Jan. 8, 2002, 115 Stat. 2091, provided: "That this Act may be cited as the 'Refugee Education Assistance Act of 1980'.
+Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619; Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(5), (f)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–110, title X, §1076(d), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, §9215(lll), Dec. 10, 2015, 129 Stat. 2187, provided: "That this Act may be cited as the 'Refugee Education Assistance Act of 1980'.
 
 #### "Title I—General Provisions
 
@@ -480,7 +480,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "Sec. 101. As used in this Act—
 
-&emsp;"(1) The terms 'elementary school', 'local educational agency', 'secondary school', 'State', and 'State educational agency' have the meanings given such terms under section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+&emsp;"(1) The terms 'elementary school', 'local educational agency', 'secondary school', 'State', and 'State educational agency' have the meanings given such terms under section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(2) The term 'elementary or secondary nonpublic schools' means schools which comply with the compulsory education laws of the State and which are exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\].
 
@@ -536,7 +536,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "state entitlements
 
-"Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting localeducational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
+"Sec. 201. (a) The Secretary shall, in accordance with the provisions of this title, make grants to State educational agencies for fiscal year 1981, and for each subsequent fiscal year, for the purposes of assisting local educational agencies of that State in providing basic education for eligible participants enrolled in elementary or secondary public schools. Payments made under this title to any State shall be used in accordance with applications approved under section 202 for public educational services for eligible participants enrolled in the elementary and secondary public schools under the jurisdiction of the local educational agencies of that State.
 
 "(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
@@ -620,7 +620,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;&emsp;"(C) special materials and supplies;
 
-&emsp;"(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
+&emsp;"(2) additional basic instructional services which are directly attributable to the presence in the schooldistrict of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
 
 &emsp;"(3) special inservice training for personnel who will be providing instruction described in either paragraph (1) or (2) of this subsection.
 
@@ -686,7 +686,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 &emsp;"(3) educational support services which meet the need for such adult refugees, including guidance and counseling with regard to educational, career, and employment opportunities; and
 
-&emsp;"(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Career and Technical Education Act of 2006\] \[20 U.S.C. 2301 et seq.\].
+&emsp;"(4) special projects designed to operate in conjunction with existing Federal and non-Federal programs and activities to develop occupational and related skills for individuals, particularly programs authorized under the Job Training Partnership Act \[former 29 U.S.C. 1501 et seq.\] or title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\] or under the Vocational Education Act of 1963 \[now Carl D. Perkins Career and Technical Education Act of 2006\] \[20 U.S.C. 2301 et seq.\].
 
 "\[(b) Repealed. Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079.\]
 
@@ -694,7 +694,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 #### "applications
 
-"Sec. 403. (a) No State educational agency shall be entitled to any payment under this title for any periodunless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
+"Sec. 403. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
 &emsp;"(1) provide that payments made under this title will be used only for the purposes, and in the manner, set forth in section 402;
 

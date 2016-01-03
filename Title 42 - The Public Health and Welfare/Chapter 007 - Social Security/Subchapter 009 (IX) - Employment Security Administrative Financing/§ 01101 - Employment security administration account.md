@@ -24,7 +24,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 &emsp;&emsp;(iii) carrying into effect section 4103 of title 38;
 
-&emsp;(B) such amounts (not in excess of the limit provided by paragraph (4) with respect toclause (iii)) as the Congress may deem appropriate for the necessary expenses of the Department of Labor for the performance of its functions under—
+&emsp;(B) such amounts (not in excess of the limit provided by paragraph (4) with respect to clause (iii)) as the Congress may deem appropriate for the necessary expenses of the Department of Labor for the performance of its functions under—
 
 &emsp;&emsp;(i) this subchapter and subchapters III and XII of this chapter,
 
@@ -82,7 +82,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 &emsp;&emsp;(ii) the amount transferred to the account of such State pursuant to subparagraph (B) of this paragraph.
 
-> &emsp;Any amount transferred pursuant to this subparagraph shall be credited against, and shall operate to reduce, that balance of advances,made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
+> &emsp;Any amount transferred pursuant to this subparagraph shall be credited against, and shall operate to reduce, that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
 &emsp;(B) To the account (in the Unemployment Trust Fund) of the State with respect to which employers paid such additional tax, an amount equal to the amount by which such additional tax received and covered into the Treasury exceeds that balance of advances, made under section 1321 of this title to the State, with respect to which employers paid such additional tax.
 
@@ -118,7 +118,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 > The net balance in the employment security administration account as of the beginning of any fiscal year shall be determined after the disposition of the excess in such account as of the close of the preceding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IX, §901, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 668; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 970; Pub. L. 87–31, §7, May 8, 1961, 75 Stat. 78; Pub. L. 88–31, §1, May 29, 1963, 77 Stat. 51; Pub. L. 91–53, §3, Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–373, title III, §303, Aug. 10, 1970, 84 Stat. 713; Pub. L. 94–273, §39, Apr. 21, 1976, 90 Stat. 381; Pub. L. 94–566, title II, §211(e)(1) \[(c)(1)\], Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, §271(b)(2)(A), (c)(3)(D), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 98–369, div. B, title VI, §2663(d)(1), (2), July 18, 1984, 98 Stat. 1167; Pub. L. 100–203, title IX, §9154(a), (c)(2), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–318, title V, §531(d)(1), (2), July 3, 1992, 106 Stat. 316, 317; Pub. L. 105–33, title V, §5408, Aug. 5, 1997, 111 Stat. 605.)
+(Aug. 14, 1935, ch. 531, title IX, §901, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 668; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 970; Pub. L. 87–31, §7, May 8, 1961, 75 Stat. 78; Pub. L. 88–31, §1, May 29, 1963, 77 Stat. 51; Pub. L. 91–53, §3, Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–373, title III, §303, Aug. 10, 1970, 84 Stat. 713; Pub. L. 94–273, §39, Apr. 21, 1976, 90 Stat. 381; Pub. L. 94–566, title II, §211(e)(1) \[(c)(1)\], Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II,§271(b)(2)(A), (c)(3)(D), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 98–369, div. B, title VI, §2663(d)(1), (2), July 18, 1984, 98 Stat. 1167; Pub. L. 100–203, title IX, §9154(a), (c)(2), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–318, title V, §531(d)(1), (2), July 3, 1992, 106 Stat. 316, 317; Pub. L. 105–33, title V, §5408, Aug. 5, 1997, 111 Stat. 605.)
 
 #### References in Text
 
@@ -182,7 +182,7 @@ Subsec. (f)(3). Pub. L. 91–373, §303(d)(2), revised provisions for the distri
 
 <b>1969</b>—Subsec. (c)(3). Pub. L. 91–53, §3(a), struck out subpar. (A) provisions limiting expenditures for fiscal year ending June 30, 1964, to 95 percent of amount estimated by the Secretary of Treasury as the net receipts during such fiscal year under the Federal Unemployment Tax Act, redesignated subpar. (B) provisions as par. (3) without restricting their application to fiscal years ending after June 30, 1964, increased expenditure limitation by unexpended amount retained in the employment security administration account in accordance with subsec. (f)(2)(B) of this section, reenacted provision for estimate of net receipts, and struck out dated provisions requiring the Secretary of Treasury to report to Congress his estimate under subpar. (A) within thirty days after May 29, 1963, the date of enactment of Pub. L. 88–31, and providing for its printing as a House document.
 
-Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpar. (A), inserted introductory text "Except as provided in subparagraph (B)", and added subpar. (B).
+Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpar. (A), inserted introductory text"Except as provided in subparagraph (B)", and added subpar. (B).
 
 <b>1963</b>—Subsec. (c). Pub. L. 88–31 substituted "June 30, 1964" for "June 30, 1961" in par. (1), "(not in excess of the limit provided by paragraph (3))" for "(not in excess of $350,000,000 for any fiscal year)" in par. (1)(A), and added par. (3).
 

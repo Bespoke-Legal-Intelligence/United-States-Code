@@ -22,7 +22,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (2) Assistance under this section may be provided to international organizations in the form of funds only if the amount in the "Contributions to International Organizations" account of the Department of State is insufficient or otherwise unavailable to meet the United States fair share of assessments for international nuclear nonproliferation activities.
 
-(3) No amount may be obligated for an expenditure under this section unless the Director ofthe Office of Management and Budget determines that the expenditure will be counted as discretionary spending in the national defense budget function (function 050).
+(3) No amount may be obligated for an expenditure under this section unless the Director of the Office of Management and Budget determines that the expenditure will be counted as discretionary spending in the national defense budget function (function 050).
 
 (4) No assistance may be furnished under this section unless the Secretary of Defense determines and certifies to the Congress 30 days in advance that the provision of such assistance—
 
@@ -154,5 +154,5 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendmentmade by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
+Pub. L. 103–337, div. A, title X, §1070(c), Oct. 5, 1994, 108 Stat. 2857, provided in part that the amendment made by that section is effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993, Pub. L. 102–484, as enacted.
 

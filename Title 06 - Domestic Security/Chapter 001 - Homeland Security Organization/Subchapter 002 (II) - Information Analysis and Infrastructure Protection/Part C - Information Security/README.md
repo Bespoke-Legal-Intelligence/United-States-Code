@@ -13,5 +13,6 @@ Part C—Information Security
 - [&sect; 00146 - Cybersecurity workforce assessment and strategy](%C2%A7%2000146%20-%20Cybersecurity%20workforce%20assessment%20and%20strategy.md)
 - [&sect; 00147 - Cybersecurity recruitment and retention](%C2%A7%2000147%20-%20Cybersecurity%20recruitment%20and%20retention.md)
 - [&sect; 00148 - National cybersecurity and communications integration center](%C2%A7%2000148%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md)
-- [&sect; 00149 - Cyber incident response plan](%C2%A7%2000149%20-%20Cyber%20incident%20response%20plan.md)
+- [&sect; 00149 - Cybersecurity plans](%C2%A7%2000149%20-%20Cybersecurity%20plans.md)
 - [&sect; 00150 - Clearances](%C2%A7%2000150%20-%20Clearances.md)
+- [&sect; 00151 - Federal intrusion detection and prevention system](%C2%A7%2000151%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md)

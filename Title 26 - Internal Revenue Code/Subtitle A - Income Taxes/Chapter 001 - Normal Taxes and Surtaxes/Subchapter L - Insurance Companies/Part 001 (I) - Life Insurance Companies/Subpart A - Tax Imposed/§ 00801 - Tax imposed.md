@@ -70,7 +70,7 @@ Treatment for Taxable Years Beginning Before 1987.—In the case of any taxable 
 
 "(b)
 
-Qualified Group Self-Insurers' Fund.—For purposes of this section, the term 'qualified group self-insurers' fund' means any group of 2 or more employers which has been in existence for not less than 2 years,and who enter into agreements to pool their liabilities under the State workers' disability compensation laws for the purpose of qualifying as a self-insurer under such laws, if—
+Qualified Group Self-Insurers' Fund.—For purposes of this section, the term 'qualified group self-insurers' fund' means any group of 2 or more employers which has been in existence for not less than 2 years, and who enter into agreements to pool their liabilities under the State workers' disability compensation laws for the purpose of qualifying as a self-insurer under such laws, if—
 
 &emsp;"(1) the group has received a certificate of approval from, and is subject to regulation by, the State board or agency that is responsible for administering the State workers' disability compensation laws,
 
@@ -146,7 +146,7 @@ In general.—As of the beginning of the first taxable year beginning after Dece
 
 &emsp;"(2)
 
-Premiums earned.—For the first taxable year beginning after December 31, 1983, in determining 'premiums earned on insurance contracts during the taxable year' as provided in section 832(b)(4) of the Internal Revenue Code of 1986, life insurance reserves which are included in unearned premiums on outstanding business at the end of the preceding taxable year shall be determined as provided in section 807 of the Internal Revenue Code of 1986, as amended by thissubtitle, as though section 807 was applicable to such reserves in such preceding taxable year.
+Premiums earned.—For the first taxable year beginning after December 31, 1983, in determining 'premiums earned on insurance contracts during the taxable year' as provided in section 832(b)(4) of the Internal Revenue Code of 1986, life insurance reserves which are included in unearned premiums on outstanding business at the end of the preceding taxable year shall be determined as provided in section 807 of the Internal Revenue Code of 1986, as amended by this subtitle, as though section 807 was applicable to such reserves in such preceding taxable year.
 
 &emsp;"(3)
 
@@ -190,7 +190,7 @@ Fresh start adjustment.—For purposes of clause (i), the fresh start adjustment
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the reserve attributable to such contract as of the close of the taxpayer's last taxable year beginning before January 1, 1984, over
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the reserve for such contract as of the beginning of the taxpayer's first taxable year beginning after 1983 as recomputed under subsection (a) of this section.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the reserve for such contract as of the beginning of the taxpayer's first taxable yearbeginning after 1983 as recomputed under subsection (a) of this section.
 
 &emsp;&emsp;"(C)
 
@@ -244,7 +244,7 @@ In general.—Except as provided in subparagraph (B), any election after Septemb
 
 &emsp;&emsp;"(B)
 
-Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by thetaxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
+Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
 
 &emsp;&emsp;"(C)
 
@@ -282,7 +282,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;"(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
-> &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term 'reinsurer' refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term 'reinsured' refers to the taxpayer to which such reserves are ultimately transferred upon termination.
+> &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) ofthe Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term 'reinsurer' refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term 'reinsured' refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 
 "(c)
 
@@ -340,7 +340,7 @@ Pub. L. 98–369, div. A, title II, §217(e), July 18, 1984, 98 Stat. 762, provi
 
 #### Treatment of Reinsurance Agreements Required by National Association of Insurance Commissioners
 
-Pub. L. 98–369, div. A, title II, §217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date ofthe enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer."
+Pub. L. 98–369, div. A, title II, §217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer's State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer."
 
 #### Reports to Congress on Revenue, Segment Balance, Etc.
 

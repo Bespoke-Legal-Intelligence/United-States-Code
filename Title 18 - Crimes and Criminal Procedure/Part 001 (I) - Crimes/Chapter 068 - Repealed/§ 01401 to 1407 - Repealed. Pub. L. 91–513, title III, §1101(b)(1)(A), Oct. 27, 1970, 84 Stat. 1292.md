@@ -12,7 +12,7 @@ Section 1405, acts July 18, 1956, ch. 629, title III, §201, 70 Stat. 573; Oct. 
 
 Section 1406, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 574, provided for authority to grant immunity from prosecution of any witnesses compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title. Section was repealed earlier by Pub. L. 91–452, title II, §224(a), Oct. 15, 1970, 84 Stat. 929, with such repeal to be effective on the sixtieth day following Oct. 15, 1970, but with such repeal not to affect any immunity to which any individual was entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970.
 
-Section 1407, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 574, prohibited border crossings by any person addicted to or using drugs or any person convicted of any violation of narcotic or marihuana laws of the United States or of any State, the penalty for which is imprisonment for more than one year.
+Section 1407, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 574, prohibited border crossings by any person addicted to or using drugs or any person convicted of any violation of narcotic or marihuana laws of the UnitedStates or of any State, the penalty for which is imprisonment for more than one year.
 
 #### Effective Date of Repeal
 

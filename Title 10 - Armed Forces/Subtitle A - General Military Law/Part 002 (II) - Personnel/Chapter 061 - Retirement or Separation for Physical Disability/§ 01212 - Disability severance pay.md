@@ -4,7 +4,7 @@
 
 &emsp;(A) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when he is separated and (ii) in the grade and rank in which he was serving on the date when his name was placed on the temporary disability retired list, or if his name was not carried on that list, on the date when he is separated.
 
-&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary ofthe military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
+&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
 
 &emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
@@ -54,7 +54,7 @@ In subsection (a), the words "Upon separation" are inserted for clarity. The wor
 
 In clause (2)(A)–(D), the words "Twice the amount of monthly" are substituted for the words "An amount equal to two months' ". The words "if his name was not carried on that list" are substituted for the words "whichever is earlier", since the member might be separated without ever being carried on the list. The word "rating" is omitted as surplusage.
 
-In clause (2)(B), the words "the Secretary of the military department, or the Secretary of the Treasury, as the case may be, having jurisdiction over the armed force from which he is separated" are substituted for the words "the Secretary concerned" for clarity.
+In clause (2)(B), the words "the Secretary of the military department, or the Secretary of the Treasury, asthe case may be, having jurisdiction over the armed force from which he is separated" are substituted for the words "the Secretary concerned" for clarity.
 
 In clause (2)(C), the words "regular or reserve" are inserted, since they are the only "permanent" grades.
 

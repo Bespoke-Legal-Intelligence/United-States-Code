@@ -2,7 +2,7 @@
 
 #### (a) Information excluded from consumer reports
 
-Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
+Except as authorized under subsection (b), no consumer reporting agency may make any consumer report containing any of the following items of information:
 
 (1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
@@ -22,7 +22,7 @@ Except as authorized under subsection (b) of this section, no consumer reporting
 
 #### (b) Exempted cases
 
-The provisions of paragraphs (1) through (5) of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
+The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
 
 &emsp;(1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -34,7 +34,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) of this section a
 
 #### (1) In general
 
-&emsp;The 7-year period referred to in paragraphs (4) and (6) of subsection (a) of this section shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
+&emsp;The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
 
 #### (2) Effective date
 
@@ -48,7 +48,7 @@ The provisions of paragraphs (1) through (5) of subsection (a) of this section a
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company,acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -62,7 +62,7 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of thecard number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
 
 #### (2) Limitation
 

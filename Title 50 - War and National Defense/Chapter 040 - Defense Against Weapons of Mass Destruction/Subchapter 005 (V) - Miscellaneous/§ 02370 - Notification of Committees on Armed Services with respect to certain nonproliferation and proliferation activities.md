@@ -16,7 +16,7 @@ The Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, th
 
 #### (2) Fully and currently informed defined
 
-&emsp;For purposes of paragraph (1), the term "fully and currently informed" means the transmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
+&emsp;For purposes of paragraph (1), the term "fully and currently informed" means thetransmittal of credible information with respect to an activity described in such paragraph not later than 60 days after becoming aware of the activity.
 
 (Pub. L. 110–417, \[div. A\], title X, §1062, Oct. 14, 2008, 122 Stat. 4614.)
 

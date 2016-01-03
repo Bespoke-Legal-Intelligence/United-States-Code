@@ -1,6 +1,6 @@
 ### §5413. Brewers procuring beer from other brewers
 
-A brewer, under such regulations as the Secretary shall prescribe, may obtain beer in his own hogsheads, barrels, and kegs, marked with his name and address, from another brewer, with taxpayment thereof to be by the producer in the manner prescribed by section 5054.
+A brewer, under such regulations as the Secretary shall prescribe, may obtain beer in hisown hogsheads, barrels, and kegs, marked with his name and address, from another brewer, with taxpayment thereof to be by the producer in the manner prescribed by section 5054.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

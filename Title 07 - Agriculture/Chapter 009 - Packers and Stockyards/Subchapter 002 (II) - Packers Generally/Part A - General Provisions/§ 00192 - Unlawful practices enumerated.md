@@ -16,7 +16,7 @@ It shall be unlawful for any packer or swine contractor with respect to livestoc
 
 (g) Conspire, combine, agree, or arrange with any other person to do, or aid or abet the doing of, any act made unlawful by subdivisions (a), (b), (c), (d), or (e).
 
-(Aug. 15, 1921, ch. 64, title II, §202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; Pub. L. 85–909, §1(1), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 94–410, §3(a), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §3, Nov. 23, 1987, 101 Stat. 917; Pub. L. 102–237, title X, §1008(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 106–78, title IX, §912, Oct. 22, 1999, 113 Stat. 1205; Pub. L. 107–171, title X, §10502(b)(1), (2)(A), May 13, 2002, 116 Stat. 509, 510.)
+(Aug. 15, 1921, ch. 64, title II, §202, 42 Stat. 161; Aug. 15, 1921, ch. 64, title V, §503, as added Aug.14, 1935, ch. 532, 49 Stat. 649; Pub. L. 85–909, §1(1), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 94–410, §3(a), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §3, Nov. 23, 1987, 101 Stat. 917; Pub. L. 102–237, title X, §1008(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 106–78, title IX, §912, Oct. 22, 1999, 113 Stat. 1205; Pub. L. 107–171, title X, §10502(b)(1), (2)(A), May 13, 2002, 116 Stat. 509, 510.)
 
 #### Amendment of Section
 
@@ -44,7 +44,7 @@ Par. (c). Pub. L. 100–173, §3(2), struck out reference to poultry handlers wh
 
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
 #### Effective Date of 1987 Amendment
 

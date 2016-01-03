@@ -16,7 +16,7 @@ Under the program established under subsection (a) of this section, the Secretar
 
 &emsp;&emsp;(B) at least 30 percent by the year 2010,
 
-> &emsp;of the projected consumption of motor fuel in the United States for each such year, with at least one half of such replacement fuels being domestic fuels;
+> &emsp;of the projected consumption of motor fuel in the United States for each such year, with atleast one half of such replacement fuels being domestic fuels;
 
 &emsp;(3) determine the most suitable means and methods of developing and encouraging the production, distribution, and use of replacement fuels and alternative fueled vehicles in a manner that would meet the program goals described in subsection (a) of this section;
 

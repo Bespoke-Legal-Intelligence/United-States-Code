@@ -6,15 +6,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subsection (b) of this section, the President is authorized to designate articles as eligible articles from all beneficiary developing countries for purposes of this subchapter by Executive order or Presidential proclamation after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section.
+&emsp;&emsp;Except as provided in subsection (b), the President is authorized to designate articles as eligible articles from all beneficiary developing countries for purposes of this subchapter by Executive order or Presidential proclamation after receiving the advice of the International Trade Commission in accordance with subsection (e).
 
 #### (B) Least-developed beneficiary developing countries
 
-&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) of this section and articles described in paragraphs (2) and (3) of subsection (b) of this section, the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
+&emsp;&emsp;Except for articles described in subparagraphs (A), (B), and (E) of subsection (b)(1) and articles described in paragraphs (2) and (3) of subsection (b), the President may, in carrying out section 2462(d)(1) of this title and subsection (c)(1) of this section, designate articles as eligible articles only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title if, after receiving the advice of the International Trade Commission in accordance with subsection (e) of this section, the President determines that such articles are not import-sensitive in the context of imports from least-developed beneficiary developing countries.
 
 #### (C) Three-year rule
 
-&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e) of this section, an article has been formally considered for designation as an eligible article under this subchapter and denied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
+&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e), an article has been formally considered for designation as an eligible article under this subchapter and denied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
 
 #### (2) Rule of origin
 
@@ -52,9 +52,9 @@
 
 #### (1) Import-sensitive articles
 
-&emsp;The President may not designate any article as an eligible article under subsection (a) of this section if such article is within one of the following categories of import-sensitive articles:
+&emsp;The President may not designate any article as an eligible article under subsection (a) if such article is within one of the following categories of import-sensitive articles:
 
-&emsp;&emsp;(A) Except as provided in paragraph (4), textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
+&emsp;&emsp;(A) Except as provided in paragraphs (4) and (5),<sup>1</sup> textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
 
 &emsp;&emsp;(B) Watches, except those watches entered after June 30, 1989, that the President specifically determines, after public notice and comment, will not cause material injury to watch or watch band, strap, or bracelet manufacturing and assembly operations in the United States or the United States insular possessions.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(D) Import-sensitive steel articles.
 
-&emsp;&emsp;(E) Footwear, handbags, luggage, flat goods, work gloves, and leather wearing apparel which were not eligible articles for purposes of this subchapter on January 1, 1995, as this subchapter was in effect on such date.
+&emsp;&emsp;(E) Except as provided in paragraph (5),<sup>1</sup> footwear, handbags, luggage, flat goods, work gloves, and leather wearing apparel which were not eligible articles for purposes of this subchapter on January 1, 1995, as this subchapter was in effect on such date.
 
 &emsp;&emsp;(F) Import-sensitive semimanufactured and manufactured glass products.
 
@@ -78,7 +78,19 @@
 
 #### (4) Certain hand-knotted or hand-woven carpets
 
-&emsp;Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) of this section carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
+&emsp;Notwithstanding paragraph (1)(A), the President may designate as an eligible article or articles under subsection (a) carpets or rugs which are hand-loomed, hand-woven, hand-hooked, hand-tufted, or hand-knotted, and classifiable under subheading 5701.10.16, 5701.10.40, 5701.90.10, 5701.90.20, 5702.10.90, 5702.42.20, 5702.49.10, 5702.51.20, 5702.91.30, 5702.92.00, 5702.99.10, 5703.10.00, 5703.20.10, or 5703.30.00 of the Harmonized Tariff Schedule of the United States.
+
+#### (5) <sup>2</sup> Certain cotton articles
+
+&emsp;Notwithstanding paragraph (3), the President may designate as an eligible article or articles under subsection (a)(1)(B) only for countries designated as least-developed beneficiary developing countries under section 2462(a)(2) of this title cotton articles classifiable under subheading 5201.00.18, 5201.00.28, 5201.00.38, 5202.99.30, or 5203.00.30 of the Harmonized Tariff Schedule of the United States.
+
+#### (5) <sup>2</sup> Certain luggage and travel articles
+
+&emsp;Notwithstanding subparagraph (A) or (E) of paragraph (1), the President may designate the following as eligible articles under subsection (a):
+
+&emsp;&emsp;(A) Articles classifiable under subheading 4202.11.00, 4202.12.40, 4202.21.60, 4202.21.90, 4202.22.15, 4202.22.45, 4202.31.60, 4202.32.40, 4202.32.80, 4202.92.15, 4202.92.20, 4202.92.45, or 4202.99.90 of the Harmonized Tariff Schedule of the United States.
+
+&emsp;&emsp;(B) Articles classifiable under statistical reporting number 4202.12.2020, 4202.12.2050, 4202.12.8030, 4202.12.8070, 4202.22.8050, 4202.32.9550, 4202.32.9560, 4202.91.0030, 4202.91.0090, 4202.92.3020, 4202.92.3031, 4202.92.3091, 4202.92.9026, or 4202.92.9060 of the Harmonized Tariff Schedule of the United States, as such statistical reporting numbers are in effect on June 29, 2015.
 
 #### (c) Withdrawal, suspension, or limitation of duty-free treatment; competitive need limitation
 
@@ -92,7 +104,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d) of this section, whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
+&emsp;&emsp;&emsp;Except as provided in clause (ii) and subject to subsection (d), whenever the President determines that a beneficiary developing country has exported (directly or indirectly) to the United States during any calendar year beginning after December 31, 1995—
 
 &emsp;&emsp;&emsp;&emsp;(I) a quantity of an eligible article having an appraised value in excess of the applicable amount for the calendar year, or
 
@@ -142,7 +154,7 @@
 
 #### (1) In general
 
-&emsp;The President may waive the application of subsection (c)(2) of this section with respect to any eligible article of any beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) of this section was made with respect to such eligible article, the President—
+&emsp;The President may waive the application of subsection (c)(2) with respect to any eligible article of any beneficiary developing country if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2)(A) was made with respect to such eligible article, the President—
 
 &emsp;&emsp;(A) receives the advice of the International Trade Commission under section 1332 of this title on whether any industry in the United States is likely to be adversely affected by such waiver,
 
@@ -160,7 +172,7 @@
 
 #### (3) Other bases for waiver
 
-&emsp;The President may waive the application of subsection (c)(2) of this section if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) of this section was made with respect to a beneficiary developing country, the President determines that—
+&emsp;The President may waive the application of subsection (c)(2) if, before July 1 of the calendar year beginning after the calendar year for which a determination described in subsection (c)(2) was made with respect to a beneficiary developing country, the President determines that—
 
 &emsp;&emsp;(A) there has been a historical preferential trade relationship between the United States and such country,
 
@@ -196,7 +208,7 @@
 
 &emsp;&emsp;&emsp;(i) entered duty-free under this subchapter during such calendar year; and
 
-&emsp;&emsp;&emsp;(ii) is in excess of the value of that article that would have been so entered during such calendar year if the limitations under subsection (c)(2)(A) of this section applied.
+&emsp;&emsp;&emsp;(ii) is in excess of the value of that article that would have been so entered during such calendar year if the limitations under subsection (c)(2)(A) applied.
 
 #### (5) Effective period of waiver
 
@@ -204,23 +216,33 @@
 
 #### (e) International Trade Commission advice
 
-Before designating articles as eligible articles under subsection (a)(1) of this section, the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this section were action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
+Before designating articles as eligible articles under subsection (a)(1), the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this section were action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
 
 #### (f) Special rule concerning Puerto Rico
 
 No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
-(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195.)
+(Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+Paragraph (5), referred to in subsec. (b)(1)(A), (E), probably means the subsec. (b)(5) relating to certain luggage and travel articles because section 204 of Pub. L. 114–27 added such par. (5) as well as those references. See 2015 Amendment notes below.
+
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(4), (5), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
 A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2069; Pub. L. 96–39, title XI, §1111(a)(3), July 26, 1979, 93 Stat. 315; Pub. L. 98–573, title V, §504, Oct. 30, 1984, 98 Stat. 3020; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1889(7), Oct. 22, 1986, 100 Stat. 2926; Pub. L. 100–418, title I, §1903, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–382, title II, §226, Aug. 20, 1990, 104 Stat. 660; Pub. L. 103–465, title IV, §404(e)(3), Dec. 8, 1994, 108 Stat. 4961, related to eligible articles, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–27, §204(1), substituted "paragraphs (4) and (5)" for "paragraph (4)".
+
+Subsec. (b)(1)(E). Pub. L. 114–27, §204(2), substituted "Except as provided in paragraph (5), footwear" for "Footwear".
+
+Subsec. (b)(5). Pub. L. 114–27, §204(3), which directed amendment of subsec. (b)(1) by adding par. (5), relating to certain luggage and travel articles, at the end, was executed by adding such par. (5) at the end of subsec. (b), to reflect the probable intent of Congress.
+
+Pub. L. 114–27, §202, added par. (5) relating to certain cotton articles.
 
 <b>2006</b>—Subsec. (d)(4)(B). Pub. L. 109–432 designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and added cl. (ii).
 
@@ -235,4 +257,20 @@ Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–429, title I, §1555(c), Dec. 3, 2004, 118 Stat. 2579, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to any article entered, or withdrawn from warehouse for consumption, on or after the date on which the President makes a designation with respect to the article under section 503(b)(4) of the Trade Act of 1974 \[subsec. (b)(4) of this section\], as added by subsection (a)."
+
+#### Application of Competitive Need Limitation and Waiver Under Generalized System of Preferences With Respect to Articles of Beneficiary Developing Countries Exported to the United States During Calendar Year 2014
+
+Pub. L. 114–27, title II, §203, June 29, 2015, 129 Stat. 372, provided that:
+
+"(a)
+
+In General.—For purposes of applying and administering subsections (c)(2) and (d) of section 503 of the Trade Act of 1974 (19 U.S.C. 2463) with respect to an article described in subsection (b) of this section, subsections (c)(2) and (d) of section 503 of such Act shall be applied and administered by substituting 'October 1' for 'July 1' each place such date appears.
+
+"(b)
+
+Article Described.—An article described in this subsection is an article of a beneficiary developing country that is designated by the President as an eligible article under subsection (a) of section 503 of the Trade Act of 1974 (19 U.S.C. 2463) and with respect to which a determination described in subsection (c)(2)(A) of such section was made with respect to exports (directly or indirectly) to the United States of such eligible article during calendar year 2014 by the beneficiary developing country."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (5) have been enacted.</i>
 

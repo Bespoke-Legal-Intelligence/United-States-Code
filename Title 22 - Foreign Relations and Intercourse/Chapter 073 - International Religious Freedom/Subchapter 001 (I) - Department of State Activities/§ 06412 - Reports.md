@@ -64,7 +64,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (2) Classified addendum
 
-&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in a classified addendum to the Annual Report or the Executive Summary.
+&emsp;If the Secretary of State determines that it is in the national security interests of the United States or is necessary for the safety of individuals to be identified in the Annual Report or is necessary to further the purposes of this chapter, any information required by paragraph (1), including measures or actions taken by the United States, may be summarized in the Annual Report or the Executive Summary and submitted in more detail in aclassified addendum to the Annual Report or the Executive Summary.
 
 #### (c) Preparation of reports regarding violations of religious freedom
 

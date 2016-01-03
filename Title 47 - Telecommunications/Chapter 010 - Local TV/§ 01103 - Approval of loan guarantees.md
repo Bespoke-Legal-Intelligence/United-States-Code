@@ -58,7 +58,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;&emsp;(aa) if the loan is made in accordance with loan-to-one-borrower and affiliate transaction restrictions to which the entity is subject under applicable law; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed10 percent of the net equity of the entity; or
+&emsp;&emsp;&emsp;&emsp;(bb) if item (aa) does not apply, the loan is made only to a borrower that is not an affiliate of the entity and only if the amount of the loan and all outstanding loans by that entity to that borrower and any of its affiliates does not exceed 10 percent of the net equity of the entity; or
 
 &emsp;&emsp;&emsp;(II) is provided by a nonprofit corporation, including the National Rural Utilities Cooperative Finance Corporation, engaged primarily in commercial lending, if the Board determines that such nonprofit corporation has one or more issues of outstanding long-term debt that is rated within the highest 3 rating categories of a nationally recognized statistical rating organization;
 
@@ -194,7 +194,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (i) Limitations on guarantees for certain cable operators
 
-Notwithstanding any other provision of this chapter, no loan guarantee under this chaptermay be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
+Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered bya cable franchise agreement that expressly obligates a cable system operator to serve such area.
 
 #### (j) Judicial review
 

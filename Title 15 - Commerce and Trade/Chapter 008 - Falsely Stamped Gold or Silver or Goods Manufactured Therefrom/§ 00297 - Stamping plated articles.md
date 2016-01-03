@@ -8,7 +8,7 @@ In the case of articles of merchandise made in whole or in part of an inferior m
 
 Whenever any person, firm, corporation, or association, being a manufacturer or dealer subject to section 294 of this title—
 
-&emsp;(1) applies or causes to be applied to any article of merchandise intended for sale or customarily sold as a complete product to consumers in any State, by stamping, branding, engraving, or otherwise, any quality mark or stamp indicating or purporting to indicatethat such article is made in whole or in part of gold or silver or of an alloy of either such metal; or
+&emsp;(1) applies or causes to be applied to any article of merchandise intended for sale or customarily sold as a complete product to consumers in any State, by stamping, branding, engraving, or otherwise, any quality mark or stamp indicating or purporting to indicate that such article is made in whole or in part of gold or silver or of an alloy of either such metal; or
 
 &emsp;(2) imports into any State any such article of merchandise bearing any such quality mark or stamp which indicates or purports to indicate that such article is made in whole or in part of gold or silver or of an alloy of either such metal,
 

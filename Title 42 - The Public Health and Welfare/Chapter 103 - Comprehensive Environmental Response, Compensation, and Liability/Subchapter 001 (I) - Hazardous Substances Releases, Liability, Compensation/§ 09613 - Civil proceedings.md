@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by anyinterested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
@@ -24,7 +24,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (1) Contribution
 
-&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, thecourt may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
 
 #### (2) Settlement
 
@@ -74,7 +74,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (5) Actions to recover indemnification payments
 
-&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to an indemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of this title for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
+&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to anindemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of this title for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
 
 #### (6) Minors and incompetents
 
@@ -110,7 +110,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (2) Standard
 
-&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting partycan demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
+&emsp;In considering objections raised in any judicial action under this chapter, the court shall uphold the President's decision in selecting the response action unless the objecting party can demonstrate, on the administrative record, that the decision was arbitrary and capricious or otherwise not in accordance with law.
 
 #### (3) Remedy
 

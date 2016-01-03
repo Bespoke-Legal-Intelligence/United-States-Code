@@ -24,7 +24,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
 
-&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral proceduresfor, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
+&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
 &emsp;&emsp;(C) provide support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
@@ -42,7 +42,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(B) a victim service provider that is partnered with an entity that has a demonstrated history of effective work addressing the needs of youth; or
 
-&emsp;&emsp;(C) a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
+&emsp;&emsp;(C) a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department ofDefense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
 
 #### (2) Partnerships
 
@@ -102,5 +102,5 @@ A prior section 14043c, Pub. L. 103–322, title IV, §41201, as added Pub. L. 1
 
 #### Effective Date
 
-Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as an Effective Date of 2013 Amendmentnote under section 2261 of Title 18, Crimes and Criminal Procedure.
+Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as an Effective Date of 2013 Amendment note under section 2261 of Title 18, Crimes and Criminal Procedure.
 

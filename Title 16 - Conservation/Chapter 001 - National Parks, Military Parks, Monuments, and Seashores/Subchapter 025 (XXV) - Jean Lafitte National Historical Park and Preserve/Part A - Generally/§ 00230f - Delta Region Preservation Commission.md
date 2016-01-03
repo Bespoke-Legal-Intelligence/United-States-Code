@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-There is established the Delta Region Preservation Commission (hereinafter referred to as the "Commission"), which shall consist of the following:
+There is established the Delta Region Preservation Commission (hereinafter referred to asthe "Commission"), which shall consist of the following:
 
 &emsp;(1) two members appointed by the Governor of the State of Louisiana;
 

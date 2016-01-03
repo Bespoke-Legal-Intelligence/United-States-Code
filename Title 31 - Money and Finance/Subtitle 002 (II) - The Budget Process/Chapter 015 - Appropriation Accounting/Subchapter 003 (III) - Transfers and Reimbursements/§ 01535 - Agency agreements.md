@@ -84,7 +84,7 @@ In subsection (c), the words "pursuant to such order" are omitted as unnecessary
 
 Subsection (d) is substituted for the source provisions being restated to reflect decisions of the Comptroller General, including 31 Comp. Gen. 83 (1951), 34 Comp. Gen. 418 (1955), 39 Comp. Gen. 317 (1959), and 55 Comp. Gen. 1497 (1976).
 
-In subsection (e), the words "any Government department or independent establishment, or any bureau or office thereof" and "except as otherwise provided by law" are omitted as unnecessary because of the restatement. The text of 31:686b(a) is omitted as executed.
+In subsection (e), the words "any Government department or independent establishment, or any bureau oroffice thereof" and "except as otherwise provided by law" are omitted as unnecessary because of the restatement. The text of 31:686b(a) is omitted as executed.
 
 1984
 

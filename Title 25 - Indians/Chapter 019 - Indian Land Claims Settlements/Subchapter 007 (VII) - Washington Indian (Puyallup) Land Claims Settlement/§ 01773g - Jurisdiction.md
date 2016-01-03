@@ -6,5 +6,5 @@ The Tribe shall retain and exercise jurisdiction, and the United States and the 
 
 #### Effective Date
 
-Section effective on the effective date of the Settlement Agreement and when all terms are met as statedunder section X of the Settlement Agreement, see section 13 of Pub. L. 101–41, set out as a note under section 1773a of this title.
+Section effective on the effective date of the Settlement Agreement and when all terms are met as stated under section X of the Settlement Agreement, see section 13 of Pub. L. 101–41, set out as a note under section 1773a of this title.
 

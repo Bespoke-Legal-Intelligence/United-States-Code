@@ -20,7 +20,7 @@ A security-based swap execution facility that is registered under subsection (a)
 
 #### (c) Identification of facility used to trade security-based swaps by national securities exchanges
 
-A national securities exchange shall, to the extent that the exchange also operates a security-based swap execution facility and uses the same electronic trade execution system for listing and executing trades of security-based swaps on or through the exchange and the facility, identify whether electronic trading of such security-based swaps is taking place on or through the national securities exchange or the security-based swap execution facility.
+A national securities exchange shall, to the extent that the exchange also operates a security-based swap execution facility and uses the same electronic trade execution system for listing and executing trades of security-based swapson or through the exchange and the facility, identify whether electronic trading of such security-based swaps is taking place on or through the national securities exchange or the security-based swap execution facility.
 
 #### (d) Core principles for security-based swap execution facilities
 
@@ -58,7 +58,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 #### (3) Security-based swaps not readily susceptible to manipulation
 
-&emsp;The security-based swap execution facility shall permit trading only in security-basedswaps that are not readily susceptible to manipulation.
+&emsp;The security-based swap execution facility shall permit trading only in security-based swaps that are not readily susceptible to manipulation.
 
 #### (4) Monitoring of trading and trade processing
 
@@ -142,7 +142,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;(i) enables the organization to meet its financial obligations to its members and participants notwithstanding a default by the member or participant creating the largest financial exposure for that organization in extreme but plausible market conditions; and
 
-&emsp;&emsp;&emsp;(ii) exceeds the total amount that would enable the security-based swap executionfacility to cover the operating costs of the security-based swap execution facility for a 1-year period, as calculated on a rolling basis.
+&emsp;&emsp;&emsp;(ii) exceeds the total amount that would enable the security-based swap execution facility to cover the operating costs of the security-based swap execution facility for a 1-year period, as calculated on a rolling basis.
 
 #### (13) System safeguards
 

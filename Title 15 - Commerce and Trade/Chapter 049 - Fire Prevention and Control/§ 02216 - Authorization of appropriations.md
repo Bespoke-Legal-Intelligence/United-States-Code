@@ -82,7 +82,7 @@
 
 &emsp;(1) $500,000 for fiscal year 1995 for basic research on the development of an advanced course on arson prevention;
 
-&emsp;(2) $2,000,000 for fiscal year 1996 for the expansion of arson investigator training programs at the Academy under section 2220 of this title and at the Federal Law Enforcement Training Center, or through regional delivery sites;
+&emsp;(2) $2,000,000 for fiscal year 1996 for the expansion of arson investigator training programs at the Academy under section 2220 of this title and at the Federal Law EnforcementTraining Center, or through regional delivery sites;
 
 &emsp;(3) $4,000,000 for each of fiscal years 1995 and 1996 for carrying out section 2221 of this title, except for salaries and expenses for carrying out section 2221 of this title; and
 
@@ -152,7 +152,7 @@ Functions of National Fire Prevention and Control Administration \[now United St
 
 #### Arson Prevention Grants; Termination of Appropriations
 
-Pub. L. 103–254, §8, May 19, 1994, 108 Stat. 683, provided that: "Notwithstanding any other provision of this Act \[see Short Title of 1994 Amendment note set out under section 2201 of this title\], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act."
+Pub. L. 103–254, §8, May 19, 1994, 108 Stat. 683, provided that: "Notwithstanding any other provision of this Act \[see Short Title of 1994 Amendment note set out under section 2201 of this title\], no funds are authorized to beappropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

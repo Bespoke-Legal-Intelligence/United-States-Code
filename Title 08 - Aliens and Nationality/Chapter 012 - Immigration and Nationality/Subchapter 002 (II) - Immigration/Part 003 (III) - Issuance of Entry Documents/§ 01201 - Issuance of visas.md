@@ -14,9 +14,33 @@
 
 Each alien who applies for a visa shall be registered in connection with his application, and shall furnish copies of his photograph signed by him for such use as may be by regulations required. The requirements of this subsection may be waived in the discretion of the Secretary of State in the case of any alien who is within that class of nonimmigrants enumerated in sections 1101(a)(15)(A), and 1101(a)(15)(G) of this title, or in the case of any alien who is granted a diplomatic visa on a diplomatic passport or on the equivalent thereof.
 
-#### (c) Period of validity; requirement of visa
+#### (c) Period of validity; renewal or replacement
 
-An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business. A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States. An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that he was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible: <i>Provided</i>, That the immigrant is found by the consular officer to be eligible for an immigrant visa and the immigrant pays again the statutory fees for an application and an immigrant visa.
+#### (1) Immigrant visas
+
+&emsp;An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business.
+
+#### (2) Nonimmigrant visas
+
+&emsp;A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States.
+
+#### (3) Visa replacement
+
+&emsp;An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that the immigrant—
+
+&emsp;&emsp;(A) was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible;
+
+&emsp;&emsp;(B) is found by a consular officer to be eligible for an immigrant visa; and
+
+&emsp;&emsp;(C) pays again the statutory fees for an application and an immigrant visa.
+
+#### (4) Fee waiver
+
+&emsp;If an immigrant visa was issued, on or after March 27, 2013, for a child who has been lawfully adopted, or who is coming to the United States to be adopted, by a United States citizen, any statutory immigrant visa fees relating to a renewal or replacement of such visa may be waived or, if already paid, may be refunded upon request, subject to such criteria as the Secretary of State may prescribe, if—
+
+&emsp;&emsp;(A) the immigrant child was unable to use the original immigrant visa during the period of its validity as a direct result of extraordinary circumstances, including the denial of an exit permit; and
+
+&emsp;&emsp;(B) if such inability was attributable to factors beyond the control of the adopting parent or parents and of the immigrant.
 
 #### (d) Physical examination
 
@@ -40,15 +64,17 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 
 #### (i) Revocation of visas or documents
 
-After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title foraction taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation. There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.
+After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation. There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736.)
+(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552; Pub. L. 108–458, title V, §5304(a), Dec. 17, 2004, 118 Stat. 3736; Pub. L. 114–70, §2, Oct. 16, 2015, 129 Stat. 561.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (g), and (h), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–70 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to period of validity and visa requirement.
 
 <b>2004</b>—Subsec. (i). Pub. L. 108–458 inserted at end "There shall be no means of judicial review (including review pursuant to section 2241 of title 28 or any other habeas corpus provision, and sections 1361 and 1651 of such title) of a revocation under this subsection, except in the context of a removal proceeding if such revocation provides the sole ground for removal under section 1227(a)(1)(B) of this title."
 
@@ -96,7 +122,7 @@ Pub. L. 102–232, title III, §302(e)(8), Dec. 12, 1991, 105 Stat. 1746, provid
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -186,7 +212,7 @@ Aliens Covered.—An alien is described in this subsection if the alien—
 
 &emsp;"(1)(A) is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] to Hong Kong or China, and
 
-&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
+&emsp;"(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined insubsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
 
 &emsp;"(2) is issued a visa under section 124 of this Act \[enacting provisions set out as a note under section 1153 of this title\].
 

@@ -22,7 +22,7 @@ Not later than 90 days after October 3, 2008, the Secretary shall report to the 
 
 #### (1) In general
 
-&emsp;The Secretary shall collect premiums from any financial institution participating in theprogram established under subsection (a). Such premiums shall be in an amount that the Secretary determines necessary to meet the purposes of this chapter and to provide sufficient reserves pursuant to paragraph (3).
+&emsp;The Secretary shall collect premiums from any financial institution participating in the program established under subsection (a). Such premiums shall be in an amount that the Secretary determines necessary to meet the purposes of this chapter and to provide sufficient reserves pursuant to paragraph (3).
 
 #### (2) Authority to base premiums on product risk
 

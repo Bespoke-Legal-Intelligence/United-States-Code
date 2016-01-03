@@ -22,7 +22,7 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 &emsp;(1) that the payments and assistance authorized by this chapter shall be administered in a manner which is fair and reasonable and as uniform as practicable;
 
-&emsp;(2) that a displaced person who makes proper application for a payment authorized for suchperson by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance;
+&emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance;
 
 &emsp;(3) that any aggrieved person may have his application reviewed by the head of the Federal agency having authority over the applicable program or project or, in the case of a program or project receiving Federal financial assistance, by the State agency having authority over such program or project or the Federal agency having authority over such program or project if there is no such State agency; and
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 112–141, §1521(d)(2), added subsec. (d).
 
 <b>1987</b>—Pub. L. 100–17 in amending section generally, substituted "Duties of lead agency" for "Regulations and procedures" in section catchline.
 
-Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs."
+Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:"In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs."
 
 Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The head of each Federal agency is authorized to establish such regulations and procedures as he may determine to be necessary to assure—
 

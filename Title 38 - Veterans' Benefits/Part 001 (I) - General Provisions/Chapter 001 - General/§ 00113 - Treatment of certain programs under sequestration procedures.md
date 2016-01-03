@@ -10,7 +10,7 @@
 
 &emsp;(4) Assistance and services under chapter 31 of this title, relating to training and rehabilitation for certain veterans with service-connected disabilities.
 
-&emsp;(5) Benefits under chapter 35 of this title, relating to educational assistance for survivorsand dependents of certain veterans with service-connected disabilities.
+&emsp;(5) Benefits under chapter 35 of this title, relating to educational assistance for survivors and dependents of certain veterans with service-connected disabilities.
 
 &emsp;(6) Benefits under subchapters I, II, and III of chapter 37 of this title, relating to housing loans for certain veterans and for the spouses and surviving spouses of certain veterans.
 
@@ -58,7 +58,7 @@
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to section 901 of Title 2, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–577, and Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to section 901 of Title 2, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–577, andPub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 99–576, which was approved Oct. 28, 1986.
 

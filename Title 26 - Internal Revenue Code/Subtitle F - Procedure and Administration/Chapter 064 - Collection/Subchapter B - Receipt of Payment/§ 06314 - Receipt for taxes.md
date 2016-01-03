@@ -14,7 +14,7 @@ The Secretary shall, upon request, give to the person paying the tax under chapt
 
 &emsp;&emsp;<b>(2) For receipt of discharge of fiduciary from personal liability, see section 2204.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 778; Pub. L. 91–614, title I, §101(d)(2), Dec. 31, 1970, 84 Stat. 1837; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 778; Pub. L. 91–614, title I, §101(d)(2), Dec. 31, 1970, 84 Stat.1837; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 

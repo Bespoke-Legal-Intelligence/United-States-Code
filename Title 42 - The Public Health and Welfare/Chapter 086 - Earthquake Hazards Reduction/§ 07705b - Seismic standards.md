@@ -16,7 +16,7 @@
 
 #### (3) Regulations
 
-&emsp;The President shall ensure the issuance, before February 1, 1993, by all Federal agenciesof final regulations required by section 4(b) of Executive Order numbered 12699, issued January 5, 1990.
+&emsp;The President shall ensure the issuance, before February 1, 1993, by all Federal agencies of final regulations required by section 4(b) of Executive Order numbered 12699, issued January 5, 1990.
 
 #### (b) Lifelines
 

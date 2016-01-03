@@ -44,7 +44,7 @@ Pub. L. 91–662, §3(2), (3), in fourth par., substituted "means abortion may b
 
 Pub. L. 91–662, §3(1), in fifth par., struck out "preventing conception or" after "applied for".
 
-Pub. L. 91–662, §6(3), in eighth par., inserted "or section 3001(e) of title 39" after "this section". Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act.Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
+Pub. L. 91–662, §6(3), in eighth par., inserted "or section 3001(e) of title 39" after "this section". Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
 
 <b>1958</b>—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 
@@ -56,7 +56,7 @@ Act June 28, 1955, §2, struck out fifth par., which read as follows: "Every let
 
 Amendment by sections 3 and 5(b) of Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 91–662, set out as a note under section 552 of this title.
 
-Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Pub. L. 91–662, §6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effectiveon date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Commission on Obscenity and Pornography
 

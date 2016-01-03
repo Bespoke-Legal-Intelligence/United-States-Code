@@ -2,7 +2,7 @@
 
 (a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
 
-&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rateof basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
 &emsp;(2) For an employee whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of one and one-half times the hourly rate of the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) or the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
@@ -28,7 +28,7 @@
 
 &emsp;(6)(A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act (29 U.S.C. 213(f)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-&emsp;(B) Subparagraph (A) shall expire on September 30, 2015.
+&emsp;(B) Subparagraph (A) shall expire on September 30, 2017.
 
 (b) For the purpose of this subchapter—
 
@@ -44,7 +44,7 @@
 
 (d) In applying subsection (a) of this section with respect to any criminal investigator who is paid availability pay under section 5545a—
 
-&emsp;(1) such investigator shall be compensated under such subsection (a), at the rates there provided, for overtime work which is scheduled in advance of the administrative workweek—
+&emsp;(1) such investigator shall be compensated under such subsection (a), at the rates thereprovided, for overtime work which is scheduled in advance of the administrative workweek—
 
 &emsp;&emsp;(A) in excess of 10 hours on a day during such investigator's basic 40 hour workweek; or
 
@@ -108,9 +108,9 @@
 
 &emsp;&emsp;(E) shall not receive credit towards the computation of the annuity of the border patrol agent for compensatory time, whether used or not; and
 
-&emsp;&emsp;(F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
+&emsp;&emsp;(F) shall not be credited with compensatory time off if the value of such time offwould cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641;Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1103, Nov. 25, 2015, 129 Stat. 1022.)
 
 Historical and Revision Notes<br>1966
 
@@ -176,6 +176,8 @@ Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(6)(B). Pub. L. 114–92 substituted "September 30, 2017" for "September 30, 2015".
+
 <b>2014</b>—Subsec. (a)(6)(B). Pub. L. 113–291 substituted "2015" for "2014".
 
 Subsec. (g). Pub. L. 113–277 added subsec. (g).
@@ -212,6 +214,16 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 <b>1967</b>—Subsec. (b)(2)(B). Pub. L. 90–206 designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
+#### Effective Date of 2014 Amendment
+
+Pub. L. 113–277, §2(i), as added by Pub. L. 114–13, §1(a), May 19, 2015, 129 Stat. 197, provided that: "Subsections (b), (c), (d), and (g) \[enacting section 5550 of this title, amending this section and sections 5547 and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions set out as a note under section 5550 of this title\], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016, except that—
+
+&emsp;"(1) any provision in section 5550(b) of title 5, United States Code, as added by subsection (b), relating to administering elections and making advance assignments to a regular tour of duty shall be applicable before such effective date to the extent determined necessary by the Director of the Office of Personnel Management; and
+
+&emsp;"(2) the Director may issue regulations as necessary prior to such effective date."
+
+\[Pub. L. 114–13, §1(b), May 19, 2015, 129 Stat. 197, provided that: "The amendment made by subsection (a) \[enacting section 2(i) of Pub. L. 113–277, set out above\] shall be deemed to have been enacted on the date of enactment of the Border Patrol Agent Pay Reform Act of 2014 (Public Law 113–277) \[approved Dec. 18, 2014\]."\]
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–558, §2(b), Dec. 21, 2000, 114 Stat. 2777, as amended by Pub. L. 107–20, title II, §2605, July 24, 2001, 115 Stat. 178, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\]."
@@ -228,7 +240,7 @@ Amendment by section 101(h) \[title VI, §628(a)(1)\] of Pub. L. 105–277 effec
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30thday following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
+Amendment by Pub. L. 103–329 effective first day of first applicable pay period beginning on or after 30th day following Sept. 30, 1994, with exceptions relating to criminal investigators employed in Offices of Inspectors General, see section 633(e) of Pub. L. 103–329, set out as an Effective Date note under section 5545a of this title.
 
 #### Effective Date of 1992 Amendment
 

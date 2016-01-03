@@ -1,6 +1,6 @@
 ### §6250f. Limit on amount of petroleum distillate
 
-Notwithstanding section 6250 of this title, for fiscal year 2012 and hereafter, the \[Northeast Home Heating Oil\] Reserve shall contain no more than 1 million barrels of petroleum distillate.
+Notwithstanding section 6250 of this title, for fiscal year 2012 and hereafter, the \[NortheastHome Heating Oil\] Reserve shall contain no more than 1 million barrels of petroleum distillate.
 
 (Pub. L. 112–74, div. B, title III, Dec. 23, 2011, 125 Stat. 869.)
 

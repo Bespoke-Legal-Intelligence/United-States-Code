@@ -20,7 +20,7 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 #### (2) Consortia of tribal organizations
 
-&emsp;If a tribal organization received a grant under this part for fiscal year 1991 as part of a consortium, the Assistant Secretary shall consider the tribal organization to have received a grant under this part for fiscal year 1991 for purposes of subsections (a) and (b), and shall apply the provisions of subsections (a) and (b)(1) (under the conditions described in subsection (b)) to the tribal organization for each covered year for which the tribal organization submits an application under this part, even if the tribal organization submits—
+&emsp;If a tribal organization received a grant under this part for fiscal year 1991 as part of a consortium, the Assistant Secretary shall consider the tribal organization to have received a grant under this part for fiscal year 1991 for purposes of subsections (a) and (b), and shall apply the provisions of subsections (a) and (b)(1) (under the conditions described in subsection (b)) to the tribal organization for each covered year for which the tribal organizationsubmits an application under this part, even if the tribal organization submits—
 
 &emsp;&emsp;(A) a separate application from the remaining members of the consortium; or
 

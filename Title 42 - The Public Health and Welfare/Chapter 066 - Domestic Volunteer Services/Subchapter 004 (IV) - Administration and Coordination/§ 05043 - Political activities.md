@@ -34,7 +34,7 @@ No funds appropriated to carry out this chapter shall be used by any program ass
 
 The Director, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance for no more than thirty days until notice and an opportunity to be heard can be provided or other action necessary to permit enforcement on an emergency basis.
 
-(Pub. L. 93–113, title IV, §403, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §§8, 18(c)(1), Dec. 13, 1979, 93 Stat. 1077, 1083; Pub. L. 96–187, title I, §112(e)(1), Jan. 8, 1980, 93 Stat. 1366; Pub. L. 99–551, §10(i)(6), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §363, title IV, §405(a)(7), Sept. 21, 1993, 107 Stat. 907, 920.)
+(Pub. L. 93–113, title IV, §403, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §§8, 18(c)(1), Dec. 13,1979, 93 Stat. 1077, 1083; Pub. L. 96–187, title I, §112(e)(1), Jan. 8, 1980, 93 Stat. 1366; Pub. L. 99–551, §10(i)(6), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §363, title IV, §405(a)(7), Sept. 21, 1993, 107 Stat. 907, 920.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 96–143, §§8(b)(3), 18(c)(1), designated as subsec. (c) 
 
 Amendment by section 363 of Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
 
-Amendment by section 405(a)(7) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82,set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by section 405(a)(7) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

@@ -12,7 +12,7 @@ Every individual who—
 
 &emsp;(4) has filed application for benefits under this section,
 
-> shall (subject to the limitations in this section) be entitled to a benefit under this section for each month beginning with the first month after September 1966 in which he or she becomes so entitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
+> shall (subject to the limitations in this section) be entitled to a benefit under this section for each month beginning with the first month after September 1966 in which he or she becomes soentitled to such benefits and ending with the month preceding the month in which he or she dies. No application under this section which is filed by an individual more than 3 months before the first month in which he or she meets the requirements of paragraphs (1), (2), and (3) shall be accepted as an application for purposes of this section.
 
 #### (b) Amount of benefits
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 &emsp;(3) any loss in interest to such Trust Fund resulting from such payments and expenses,
 
-> in order to place such Trust Fund in the same position at the end of such fiscal year as itwould have been in if such payments had not been made.
+> in order to place such Trust Fund in the same position at the end of such fiscal year as it would have been in if such payments had not been made.
 
 #### (h) Definitions
 

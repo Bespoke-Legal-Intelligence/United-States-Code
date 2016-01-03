@@ -24,7 +24,7 @@ The Secretary shall prescribe appropriate procedures for the delivery of benefit
 
 #### (e) State issuance liability
 
-Notwithstanding any other provision of this chapter, the State agency shall be strictly liableto the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
+Notwithstanding any other provision of this chapter, the State agency shall be strictly liable to the Secretary for any financial losses involved in the acceptance, storage and issuance of benefits, except that in the case of losses resulting from the issuance and replacement of authorizations for benefits which are sent through the mail, the State agency shall be liable to the Secretary to the extent prescribed in the regulations promulgated by the Secretary.
 
 #### (f) Alternative benefit delivery
 
@@ -112,7 +112,7 @@ In general.—Any procedure established under paragraph (1) shall—
 
 &emsp;(B)
 
-Multiple issuances.—The procedure may include issuing benefits to a household inmore than 1 issuance during a month only when a benefit correction is necessary.
+Multiple issuances.—The procedure may include issuing benefits to a household in more than 1 issuance during a month only when a benefit correction is necessary.
 
 #### (h) Electronic benefit transfers
 
@@ -204,7 +204,7 @@ Requirements.—The terms and conditions established by the Secretary shall prov
 
 &emsp;&emsp;&emsp;(I) the household be given the opportunity to provide the requested explanation and meet the requirements under this paragraph promptly;
 
-&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnelauthorized to make determinations under section 2014(a) of this title; and
+&emsp;&emsp;&emsp;(II) after an excessive number of lost cards, the head of the household shall be required to review program rights and responsibilities with State agency personnel authorized to make determinations under section 2014(a) of this title; and
 
 &emsp;&emsp;&emsp;(III) any action taken, including actions required under section 2015(b)(2) of this title, other than the withholding of the electronic benefit transfer card until an explanation described in subclause (I) is provided, shall be consistent with the due process protections under section 2015(b) or 2020(e)(10) of this title, as appropriate.
 
@@ -336,7 +336,7 @@ Demonstration projects.—To be eligible to participate in a demonstration proje
 
 &emsp;&emsp;&emsp;(II) the manner by which the retail food store will provide proof of the transaction to households;
 
-&emsp;&emsp;&emsp;(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate the impact of the demonstration on participant access, ease of use, and program integrity; and
+&emsp;&emsp;&emsp;(III) the provision of data to the Secretary, consistent with requirements established by the Secretary, in a manner that allows the Secretary to evaluate theimpact of the demonstration on participant access, ease of use, and program integrity; and
 
 &emsp;&emsp;&emsp;(IV) such other criteria as the Secretary may require.
 
@@ -412,7 +412,7 @@ Report to congress.—The Secretary shall—
 
 #### (C) Interoperability
 
-&emsp;&emsp;The term "interoperability" means a system that enables program benefits in theform of an electronic benefit transfer card to be redeemed in any State.
+&emsp;&emsp;The term "interoperability" means a system that enables program benefits in the form of an electronic benefit transfer card to be redeemed in any State.
 
 #### (D) Interstate transaction
 
@@ -738,7 +738,7 @@ Amendment by section 1728 of Pub. L. 101–624 effective and implemented first d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementingsection 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Jan. 1, 1989, except with regard to those States not implementing section 203(a) of Pub. L. 100–435 (amending section 2017 of this title), see section 701(b)(3)(B) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -756,7 +756,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Savings Clause
 
-Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: "Nothing in this section \[amending this section and section 2019 of this title\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section."
+Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: "Nothing in this section \[amendingthis section and section 2019 of this title\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section."
 
 #### Report on Electronic Benefit Transfer Systems
 
@@ -826,7 +826,7 @@ Pub. L. 106–171, §4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–
 
 #### Suspension of Staggered Issuance of Food Stamp Coupons
 
-Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no laterthan Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, §1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, §1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, §104(a), Mar. 25, 1994, 108 Stat. 107.
 
 #### Food Stamp Coupons, Cost Increase Suspension
 

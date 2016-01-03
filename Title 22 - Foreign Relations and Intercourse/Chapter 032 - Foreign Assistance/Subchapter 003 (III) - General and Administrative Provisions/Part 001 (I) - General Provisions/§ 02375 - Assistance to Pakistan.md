@@ -2,7 +2,7 @@
 
 #### (a) Congressional policy, findings, and goals
 
-The Congress recognizes that Soviet forces occupying Afghanistan pose a security threat to Pakistan. The Congress also recognizes that an independent and democratic Pakistan with continued friendly ties with the United States is in the interest of both nations. The Congress finds that United States assistance will help Pakistan maintain its independence. Assistance to Pakistan is intended to benefit the people of Pakistan by helping them meet the burdens imposed by the presence of Soviet forces in Afghanistan and by promoting economic development. In authorizing assistance to Pakistan, it is the intent of Congress to promote the expeditious restoration of full civil liberties and representative government in Pakistan. The Congress further recognizes that it is in the mutual interest of Pakistan and the United States to avoid the profoundly destabilizing effects of the proliferation of nuclear explosive devices or the capacity to manufacture or otherwise acquire nuclear devices.
+The Congress recognizes that Soviet forces occupying Afghanistan pose a security threat to Pakistan. The Congress also recognizes that anindependent and democratic Pakistan with continued friendly ties with the United States is in the interest of both nations. The Congress finds that United States assistance will help Pakistan maintain its independence. Assistance to Pakistan is intended to benefit the people of Pakistan by helping them meet the burdens imposed by the presence of Soviet forces in Afghanistan and by promoting economic development. In authorizing assistance to Pakistan, it is the intent of Congress to promote the expeditious restoration of full civil liberties and representative government in Pakistan. The Congress further recognizes that it is in the mutual interest of Pakistan and the United States to avoid the profoundly destabilizing effects of the proliferation of nuclear explosive devices or the capacity to manufacture or otherwise acquire nuclear devices.
 
 #### (b) Reaffirmation of 1959 bilateral agreement
 
@@ -44,9 +44,9 @@ Subsection (e) does not apply to broken, worn or unupgraded items or their equiv
 
 #### (h) Ballistic missile sanctions not affected
 
-Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under section 2410b of title 50, Appendix, or section 2797b of this title.
+Nothing contained herein shall affect sanctions for transfers of missile equipment or technology required under section 4612 of title 50 or section 2797b of this title.
 
-(Pub. L. 87–195, pt. III, §620E, as added Pub. L. 97–113, title VII, §736, Dec. 29, 1981, 95 Stat. 1561; amended Pub. L. 99–83, title IX, §902, Aug. 8, 1985, 99 Stat. 267; Pub. L. 100–202, §101(e) \[title V, §557\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 101–167, title V, §591, Nov. 21, 1989, 103 Stat. 1253; Pub. L. 101–513, title V, §574(a), Nov. 5, 1990, 104 Stat. 2042; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §570(a), Oct. 6, 1992, 106 Stat. 1681; Pub. L. 103–87, title V, §536(a), Sept. 30, 1993, 107 Stat. 955; Pub. L. 103–236, title VIII, §822(b)(2), Apr. 30, 1994, 108 Stat. 512; Pub. L. 104–107, title V, §559(a), Feb. 12, 1996, 110 Stat. 743.)
+(Pub. L. 87–195, pt. III, §620E, as added Pub. L. 97–113, title VII, §736, Dec. 29, 1981, 95 Stat. 1561; amended Pub. L. 99–83, title IX, §902, Aug. 8, 1985, 99 Stat. 267; Pub. L. 100–202, §101(e) \[title V, §557\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 101–167, title V, §591, Nov. 21, 1989, 103 Stat. 1253; Pub. L. 101–513, title V, §574(a), Nov. 5, 1990, 104 Stat. 2042; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §570(a), Oct. 6, 1992,106 Stat. 1681; Pub. L. 103–87, title V, §536(a), Sept. 30, 1993, 107 Stat. 955; Pub. L. 103–236, title VIII, §822(b)(2), Apr. 30, 1994, 108 Stat. 512; Pub. L. 104–107, title V, §559(a), Feb. 12, 1996, 110 Stat. 743.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ This chapter, referred to in subsec. (e), was in the original "this Act", meanin
 
 #### Codification
 
-Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1stSession, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 572(a) of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 572 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 574 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Congressional Findings.—Congress finds the following:
 
 &emsp;&emsp;"(C) increased commitment on the part of the Government of Pakistan to take actions described in paragraph (4)(E), particularly given—
 
-&emsp;&emsp;&emsp;"(i) the continued operation of the Taliban's Quetta shura, as noted by then-North Atlantic Treaty Organization Supreme Allied Commander General James Jones in testimony before the Senate Foreign Relations Committee on September 21, 2006; and
+&emsp;&emsp;&emsp;"(i) the continued operation of the Taliban's Quetta shura, as noted by then-North Atlantic Treaty Organization Supreme Allied CommanderGeneral James Jones in testimony before the Senate Foreign Relations Committee on September 21, 2006; and
 
 &emsp;&emsp;&emsp;"(ii) the continued operation of al Qaeda affiliates Lashkar-e Taiba and Jaish-e Muhammad, sometimes under different names, as demonstrated by the lack of meaningful action taken against Hafiz Muhammad Saeed, Maulana Masood Azhar, and other known leaders and members of such terrorist organizations; and
 
@@ -244,7 +244,7 @@ Form.—The report required by subparagraph (A) shall be submitted in unclassifi
 
 \[For definition of "appropriate congressional committees" as used in section 2042(a)–(f) of Pub. L. 110–53, set out above, see section 2002 of Pub. L. 110–53, set out as a note under section 2151 of this title.\]
 
-\[Functions of President under section 2042(c)(1), (d) of Pub. L. 110–53, set out above, assigned to Secretary of State by Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
+\[Functions of President under section 2042(c)(1), (d) of Pub. L. 110–53, set out above, assigned to Secretary ofState by Memorandum of President of the United States, Sept. 28, 2007, 72 F.R. 56871, set out as a note under section 2228 of this title.\]
 
 #### Nuclear Non-Proliferation Conditions on Assistance for Pakistan
 

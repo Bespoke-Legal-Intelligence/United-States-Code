@@ -50,7 +50,7 @@ A check is described in this subsection if the check involves, or is subsequentl
 
 &emsp;(4) a check for partial payment of a debt where the payee had previously accepted partial payment for such debt;
 
-&emsp;(5) a check issued by a person who was not competent, or was not of legal age, to enter into a legal contractual obligation at the time the check was made, drawn, or delivered; or
+&emsp;(5) a check issued by a person who was not competent, or was not of legal age, to enterinto a legal contractual obligation at the time the check was made, drawn, or delivered; or
 
 &emsp;(6) a check issued to pay an obligation arising from a transaction that was illegal in the jurisdiction of the State or district attorney at the time the check was made, drawn, or delivered.
 

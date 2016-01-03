@@ -1,6 +1,6 @@
 ### §14039. Report to Congress
 
-Each even-numbered fiscal year, the Attorney General shall submit to the Congress a biennialreport that provides information concerning the incidence of stalking and domestic violence, and evaluates the effectiveness of State antistalking efforts and legislation.
+Each even-numbered fiscal year, the Attorney General shall submit to the Congress a biennial report that provides information concerning the incidence of stalking and domestic violence, and evaluates the effectiveness of State antistalking efforts and legislation.
 
 (Pub. L. 103–322, title IV, §40610, Sept. 13, 1994, 108 Stat. 1952; Pub. L. 109–162, §3(b)(1), title XI, §1135(a), Jan. 5, 2006, 119 Stat. 2971, 3108; Pub. L. 109–271, §§2(d), 8(b), Aug. 12, 2006, 120 Stat. 752, 766.)
 

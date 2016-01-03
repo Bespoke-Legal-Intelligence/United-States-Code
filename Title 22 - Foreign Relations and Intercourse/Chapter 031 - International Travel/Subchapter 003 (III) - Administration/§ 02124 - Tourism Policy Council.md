@@ -28,7 +28,7 @@ The Council shall consist of the following individuals:
 
 &emsp;(10) The Commissioner of the Immigration and Naturalization Service.
 
-&emsp;(11) Representatives of other Federal agencies which have affected interests at eachmeeting as deemed appropriate and invited by the Chairman.
+&emsp;(11) Representatives of other Federal agencies which have affected interests at each meeting as deemed appropriate and invited by the Chairman.
 
 #### (c) No additional compensation for Council members
 
@@ -52,7 +52,7 @@ Where necessary to prevent the public disclosure of non-public information which
 
 #### (g) Annual report
 
-The Council shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress on or before December 31 of each year. The report shall include—
+The Council shall submit an annual report for the preceding fiscal year to the President fortransmittal to the Congress on or before December 31 of each year. The report shall include—
 
 &emsp;(1) a comprehensive and detailed report of the activities and accomplishments of the Council;
 

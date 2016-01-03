@@ -30,7 +30,7 @@ References in any law to credits extended under this section shall be deemed to 
 
 #### (f) Audit of certain private firms
 
-For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms that have entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
+For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms thathave entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
 
 #### (g) Notification requirements with respect to cash flow financing
 
@@ -46,7 +46,7 @@ Of the amounts made available for a fiscal year to carry out this section, not m
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original "this Act", meaning Pub. L.90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

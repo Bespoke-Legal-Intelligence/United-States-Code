@@ -30,7 +30,7 @@ No member or employee of a boxing commission, no person who administers or enfor
 
 #### (1) Prohibition on receipts
 
-&emsp;Except as provided in paragraph (2), no officer or employee of a sanctioning organizationmay receive any compensation, gift, or benefit, directly or indirectly, from a promoter, boxer, or manager.
+&emsp;Except as provided in paragraph (2), no officer or employee of a sanctioning organization may receive any compensation, gift, or benefit, directly or indirectly, from a promoter, boxer, or manager.
 
 #### (2) Exceptions
 

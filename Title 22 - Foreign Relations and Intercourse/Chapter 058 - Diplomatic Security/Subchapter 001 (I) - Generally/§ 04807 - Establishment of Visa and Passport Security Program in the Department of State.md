@@ -44,11 +44,11 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (A) Analysis of methods
 
-&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods usedby terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
+&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
 
 #### (B) Identification of individuals and documents
 
-&emsp;&emsp;Identify, in cooperation with the Human Trafficking and Smuggling Center, individuals who facilitate travel by the creation of false passports and visas, documents used to obtain such passports and visas, and other types of travel documents, and ensure that the appropriate agency is notified for further investigation and prosecution or, in the case of such individuals abroad for which no further investigation or prosecution is initiated, ensure that all appropriate information is shared with foreign governments in order to facilitate investigation, arrest, and prosecution of such individuals.
+&emsp;&emsp;Identify, in cooperation with the Human Trafficking and Smuggling Center, individuals who facilitate travel by the creation of false passports and visas, documents used toobtain such passports and visas, and other types of travel documents, and ensure that the appropriate agency is notified for further investigation and prosecution or, in the case of such individuals abroad for which no further investigation or prosecution is initiated, ensure that all appropriate information is shared with foreign governments in order to facilitate investigation, arrest, and prosecution of such individuals.
 
 #### (C) Identification of foreign countries needing assistance
 

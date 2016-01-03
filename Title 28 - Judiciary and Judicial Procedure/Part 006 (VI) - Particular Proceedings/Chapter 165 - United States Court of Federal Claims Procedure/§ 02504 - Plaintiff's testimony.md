@@ -8,7 +8,7 @@ The United States Court of Federal Claims may, at the instance of the Attorney G
 
 Based on title 28, U.S.C., 1940 ed., §274 (Mar. 3, 1911, ch. 231, §166, 36 Stat. 1140).
 
-Words "Attorney General" were substituted for "attorney or solicitor appearing in behalf of the United States," in view of section 309 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
+Words "Attorney General" were substituted for "attorney or solicitor appearing in behalf of the UnitedStates," in view of section 309 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
 Changes were made in phraseology.
 

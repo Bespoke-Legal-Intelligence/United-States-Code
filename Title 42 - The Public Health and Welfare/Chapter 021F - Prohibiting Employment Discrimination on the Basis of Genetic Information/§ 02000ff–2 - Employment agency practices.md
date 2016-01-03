@@ -28,7 +28,7 @@ It shall be an unlawful employment practice for an employment agency to request,
 
 &emsp;(3) where an employment agency requests or requires family medical history from the individual to comply with the certification provisions of section 2613 of title 29 or such requirements under State family and medical leave laws;
 
-&emsp;(4) where an employment agency purchases documents that are commercially and publicly available (including newspapers, magazines, periodicals, and books, but not including medical databases or court records) that include family medical history; or
+&emsp;(4) where an employment agency purchases documents that are commercially and publicly available (including newspapers, magazines,periodicals, and books, but not including medical databases or court records) that include family medical history; or
 
 &emsp;(5) where the information involved is to be used for genetic monitoring of the biological effects of toxic substances in the workplace, but only if—
 
@@ -44,7 +44,7 @@ It shall be an unlawful employment practice for an employment agency to request,
 
 &emsp;&emsp;&emsp;(i) any Federal genetic monitoring regulations, including any such regulations that may be promulgated by the Secretary of Labor pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801 et seq.), or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.); or
 
-&emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulationsunder the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
+&emsp;&emsp;&emsp;(ii) State genetic monitoring regulations, in the case of a State that is implementing genetic monitoring regulations under the authority of the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.); and
 
 &emsp;&emsp;(E) the employment agency, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific individuals.
 

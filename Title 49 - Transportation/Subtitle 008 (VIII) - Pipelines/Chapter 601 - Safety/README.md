@@ -65,7 +65,7 @@ In an economy that relies on oil, rising prices at the pump affect all of us. Wi
 
 But for the foreseeable future, we will continue to rely on oil to help fuel our transportation system. As a result, we must safely and responsibly develop our oil resources here at home, as part of an all-of-the-above energy strategy to grow our economy and make us more secure.
 
-Because of rising oil production, more efficient cars and trucks, and a world-class refining sector that lastyear was a net exporter of petroleum products for the first time in 60 years, we have cut net imports by a million barrels a day in the last year alone. By reducing our dependence on foreign oil, we will make our Nation more secure and improve our trade balance—creating jobs and supporting domestic industry.
+Because of rising oil production, more efficient cars and trucks, and a world-class refining sector that last year was a net exporter of petroleum products for the first time in 60 years, we have cut net imports by a million barrels a day in the last year alone. By reducing our dependence on foreign oil, we will make our Nation more secure and improve our trade balance—creating jobs and supporting domestic industry.
 
 In order to realize these potential benefits, we need an energy infrastructure system that can keep pace with advances in production. To promote American energy sources, we must not only extract oil—we must also be able to transport it to our world-class refineries, and ultimately to consumers.
 

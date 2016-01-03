@@ -38,7 +38,7 @@
 
 #### (B) Credit card issuer
 
-&emsp;&emsp;For purposes of this subsection, if the purchase of gasoline described in subparagraph\(A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall not apply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
+&emsp;&emsp;For purposes of this subsection, if the purchase of gasoline described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall not apply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
 
 &emsp;&emsp;&emsp;(i) is registered under section 4101,
 
@@ -102,7 +102,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (3) Tax-paid articles used for further manufacture, etc.
 
-&emsp;If the tax imposed by chapter 32 has been paid with respect to the sale of any article (other than coal taxable under section 4121) by the manufacturer, producer, or importer thereof and such article is sold to a subsequentmanufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if—
+&emsp;If the tax imposed by chapter 32 has been paid with respect to the sale of any article (other than coal taxable under section 4121) by the manufacturer, producer, or importer thereof and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if—
 
 &emsp;&emsp;(A) in the case of any article other than any fuel taxable under section 4081, such article is used by the subsequent manufacturer or producer as material in the manufacture or production of, or as a component part of—
 
@@ -174,7 +174,7 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, titleIV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 111–152, title I, §1405(b)(2), Mar. 30, 2010, 124 Stat. 1065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1),Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330-444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973; Pub. L. 109–280, title XII, §1207(e), Aug. 17, 2006, 120 Stat. 1071; Pub. L. 110–172, §11(d)(1), Dec. 29, 2007, 121 Stat. 2489; Pub. L. 111–152, title I, §1405(b)(2), Mar. 30, 2010, 124 Stat. 1065.)
 
 #### Codification
 
@@ -240,7 +240,7 @@ Subsec. (b)(2). Pub. L. 100–647, §2001(d)(1)(B), substituted "(or under subse
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–203, §10502(d)(6), struck out "(other than coal taxable under section 4121)" after "of any article" in introductory provisions and inserted at end "This paragraph shall not apply in the case of any tax paid under section 4091 or 4121."
 
-Pub. L. 100–203, §9201(b)(2), inserted at end "In the case of the tax imposed by section 4131, subparagraphs\(B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe."
+Pub. L. 100–203, §9201(b)(2), inserted at end "In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe."
 
 Subsec. (b)(3)(A). Pub. L. 100–203, §10502(d)(7), inserted "and other than any fuel taxable under section 4091" after "section 4081".
 
@@ -308,7 +308,7 @@ Subsec. (b)(2). Pub. L. 96–222, §108(c)(3), added subpar. (N) and provision f
 
 Subsec. (b)(2)(E). Pub. L. 96–598, §1(b)(2)(A), inserted "(or in the case of the tread rubber on a recapped or retreaded tire, resold for use as provided in subparagraph (D) of paragraph (3))," after "paragraph (3)".
 
-Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels oraircraft, sold to a State or local government for the exclusive use of a State or local government, or sold to a nonprofit educational organization for its exclusive use.
+Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels or aircraft, sold to a State or local government for the exclusive use of a State or local government, or sold to a nonprofit educational organization for its exclusive use.
 
 Subsec. (b)(3)(A). Pub. L. 96–598, §1(b)(2)(C), inserted "(D)," after "(C),".
 
@@ -390,7 +390,7 @@ Subsec. (c). Pub. L. 91–614, §302(a)(2), struck out provision providing that 
 
 Subsec. (a)(1)(A). Pub. L. 89–44, §601(c)(2), struck out "admission, or service" after "article" each place it appears.
 
-Subsec. (a)(1)(B). Pub. L. 89–44, §601(c)(3), struck out (i), (ii), and (iii) which dealt specifically with taxes imposed by sections 4041(a)(1) or (b)(1), 4231(4), (5), or (6) (cabarets, etc.), and chapters 31 and 32, and amendedthe subpar. to simply require that the person has repaid the amount of the tax to the ultimate purchaser of the article.
+Subsec. (a)(1)(B). Pub. L. 89–44, §601(c)(3), struck out (i), (ii), and (iii) which dealt specifically with taxes imposed by sections 4041(a)(1) or (b)(1), 4231(4), (5), or (6) (cabarets, etc.), and chapters 31 and 32, and amended the subpar. to simply require that the person has repaid the amount of the tax to the ultimate purchaser of the article.
 
 Subsec. (a)(1)(C). Pub. L. 89–44, §601(c)(4), struck out "or (D)" after "(b)(3)(C)".
 
@@ -472,9 +472,9 @@ Subsec. (b)(2)(J) to (M). Act June 29, 1956, added subpars. (J) to (M).
 
 Subsec. (b)(2)(I). Act Aug. 11, 1955, ch. 793, added subpar. (I).
 
-Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, §1(h), inserted "and other than an automobile part or accessorytaxable under section 4061(b), a refrigerator component taxable under section 4111, a radio or television component taxable under section 4141, or a camera lens taxable under section 4171" after "section 4141".
+Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, §1(h), inserted "and other than an automobile part or accessory taxable under section 4061(b), a refrigerator component taxable under section 4111, a radio or television component taxable under section 4141, or a camera lens taxable under section 4171" after "section 4141".
 
-Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
+Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in themanufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
 
 #### Effective Date of 2010 Amendment
 
@@ -562,7 +562,7 @@ Amendment by section 232(b) of Pub. L. 95–618 applicable to sales on or after 
 
 Amendment by section 233(c)(3) of Pub. L. 95–618 effective on first day of first calendar month which begins more than 10 days after Nov. 9, 1978, see section 233(d) of Pub. L. 95–618, set out as a note under section 34 of this title.
 
-Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L. 95–227, set out as an Effective Date note under section 4121 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to sales after Mar. 31, 1978, see section 2(d) of Pub. L.95–227, set out as an Effective Date note under section 4121 of this title.
 
 #### Effective Date of 1976 Amendment
 

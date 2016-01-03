@@ -34,7 +34,7 @@ Whenever the chief law enforcement officer of any State has reason to believe th
 
 &emsp;(2) to enforce compliance with this chapter;
 
-&emsp;(3) to obtain the fines provided under subsection (b) of this section or appropriate restitution; or
+&emsp;(3) to obtain the fines provided under subsection (b) or appropriate restitution; or
 
 &emsp;(4) to obtain such other relief as the court may deem appropriate.
 

@@ -4,7 +4,7 @@
 
 The Secretary is authorized to conduct, support, and cooperate in investigations, experiments, tests, and other activities the Secretary deems necessary to obtain, analyze, develop, demonstrate, and disseminate scientific information about protecting, managing, and utilizing forest and rangeland renewable resources in rural, suburban, and urban areas. The activities conducted, supported, or cooperated in by the Secretary under this subchapter shall include, but not be limited to, the five major areas of renewable resource research identified in paragraphs (1) through (5) of this subsection.
 
-&emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energy conservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
+&emsp;(1) Renewable resource management research shall include, as appropriate, research activities related to managing, reproducing, planting, and growing vegetation on forests and rangelands for timber, forage, water, fish and wildlife, esthetics, recreation, wilderness, energy production, activities related to energyconservation, and other purposes, including activities for encouraging improved reforestation of forest lands from which timber has been harvested; determining the role of forest and rangeland management in the productive use of forests and rangelands, in diversified agriculture, and in mining, transportation, and other industries; and developing alternatives for the management of forests and rangelands that will make possible the most effective use of their multiple products and services.
 
 &emsp;(2) Renewable resource environmental research shall include, as appropriate, research activities related to understanding and managing surface and subsurface water flow, preventing and controlling erosion, and restoring damaged or disturbed soils on forest and rangeland watersheds; maintaining and improving wildlife and fish habitats; managing vegetation to reduce air and water pollution, provide amenities, and for other purposes; and understanding, predicting, and modifying weather, climatic, and other environmental conditions that affect the protection and management of forests and rangelands.
 
@@ -140,7 +140,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (4) National standards and definitions
 
-&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation withState foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
 
 #### (5) Protection for private property rights
 
@@ -178,7 +178,7 @@ The Federal revenue codes, referred to in subsec. (d)(2), are classified general
 
 &emsp;"(3) develop improved delivery systems for information and technical assistance provided to private landowners."
 
-Subsec. (d)(3). Pub. L. 105–277 substituted "At the request of the Governor of the State of Maine, New Hampshire, New York, or Vermont, the Secretary" for "The Secretary".
+Subsec. (d)(3). Pub. L. 105–277 substituted "At the request of the Governor of the State of Maine, NewHampshire, New York, or Vermont, the Secretary" for "The Secretary".
 
 Subsec. (e). Pub. L. 105–185, §253(c), added subsec. (e).
 
@@ -284,7 +284,7 @@ Program.—The Secretary shall establish a program at the Center and seek the pa
 
 &emsp;"(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems;
 
-&emsp;"(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands;
+&emsp;"(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and waterconservation, environmental quality, and biological diversity on semiarid lands;
 
 &emsp;"(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions;
 

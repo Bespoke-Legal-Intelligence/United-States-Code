@@ -6,8 +6,13 @@
 | [7342\.](%C2%A7%2007342%20-%20Penalty%20for%20refusal%20to%20permit%20entry%20or%20examination.md) | Penalty for refusal to permit entry or examination. |
 | [7343\.](%C2%A7%2007343%20-%20Definition%20of%20term%20person.md) | Definition of term "person". |
 | [7344\.](%C2%A7%2007344%20-%20Extended%20application%20of%20penalties%20relating%20to%20officers%20of%20the%20Treasury%20Department.md) | Extended application of penalties relating to officers of the Treasury Department. |
+| [7345\.](%C2%A7%2007345%20-%20Revocation%20or%20denial%20of%20passport%20in%20case%20of%20certain%20tax%20delinquencies.md) | Revocation or denial of passport in case of certain tax delinquencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. C, title XXXII, §32101(h), Dec. 4, 2015, 129 Stat. 1733, added item 7345.
 
 
 ---
@@ -18,3 +23,4 @@
 - [&sect; 07342 - Penalty for refusal to permit entry or examination](%C2%A7%2007342%20-%20Penalty%20for%20refusal%20to%20permit%20entry%20or%20examination.md)
 - [&sect; 07343 - Definition of term person](%C2%A7%2007343%20-%20Definition%20of%20term%20person.md)
 - [&sect; 07344 - Extended application of penalties relating to officers of the Treasury Department](%C2%A7%2007344%20-%20Extended%20application%20of%20penalties%20relating%20to%20officers%20of%20the%20Treasury%20Department.md)
+- [&sect; 07345 - Revocation or denial of passport in case of certain tax delinquencies](%C2%A7%2007345%20-%20Revocation%20or%20denial%20of%20passport%20in%20case%20of%20certain%20tax%20delinquencies.md)

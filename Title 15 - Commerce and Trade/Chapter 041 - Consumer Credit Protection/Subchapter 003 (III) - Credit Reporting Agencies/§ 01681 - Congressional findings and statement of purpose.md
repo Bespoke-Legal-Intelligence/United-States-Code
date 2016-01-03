@@ -42,7 +42,7 @@ Pub. L. 108–159, title II, §215, Dec. 4, 2003, 117 Stat. 1984, provided that:
 
 "(a)
 
-Study Required.—The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
+Study Required.—The Commission and the Board, in consultation with the Office of Fair Housingand Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
 
 &emsp;"(1) the effects of the use of credit scores and credit-based insurance scores on the availability and affordability of financial products and services, including credit cards, mortgages, auto loans, and property and casualty insurance;
 
@@ -54,7 +54,7 @@ Study Required.—The Commission and the Board, in consultation with the Office 
 
 "(b)
 
-Public Participation.—The Commission shall seek public input about the prescribed methodologyand research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
+Public Participation.—The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
 
 "(c)
 
@@ -142,7 +142,7 @@ Final report.—The Commission shall submit a final report to the Congress on th
 
 &emsp;"(3)
 
-Contents.—Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate."
+Contents.—Each report submitted under this subsection shall contain a detailed summary of thefindings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate."
 
 #### Definitions
 

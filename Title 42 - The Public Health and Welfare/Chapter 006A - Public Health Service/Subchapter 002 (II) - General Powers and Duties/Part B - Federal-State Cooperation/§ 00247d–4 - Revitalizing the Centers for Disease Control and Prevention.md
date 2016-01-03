@@ -4,7 +4,7 @@
 
 #### (1) Findings
 
-&emsp;Congress finds that the Centers for Disease Control and Prevention has an essential role in defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded and improved capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
+&emsp;Congress finds that the Centers for Disease Control and Prevention has an essential rolein defending against and combatting public health threats domestically and abroad and requires secure and modern facilities, and expanded and improved capabilities related to bioterrorism and other public health emergencies, sufficient to enable such Centers to conduct this important mission.
 
 #### (2) Facilities
 
@@ -46,7 +46,7 @@
 
 #### (3) Standards
 
-&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health careproviders and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
+&emsp;Not later than one year after June 12, 2002, the Secretary, in cooperation with health care providers and State and local public health officials, shall establish any additional technical and reporting standards (including standards for interoperability) for networks under paragraph (1) and update such standards as necessary.
 
 #### (c) Modernizing public health situational awareness and biosurveillance
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(A) shall establish, enhance, or operate a coordinated public health situational awareness system for regional or Statewide early detection of, rapid response to, and management of potentially catastrophic infectious disease outbreaks and public health emergencies;
 
-&emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within or serving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
+&emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within orserving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
 
 &emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, public health, and emergency response agencies, and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;(E) evaluate ways to integrate the practice of telemedicine within the National Disaster Medical System; and
 
-&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicineand health information technology initiatives.
+&emsp;&emsp;(F) promote greater coordination among existing Federal interagency telemedicine and health information technology initiatives.
 
 #### (2) Report
 

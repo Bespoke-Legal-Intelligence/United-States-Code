@@ -6,7 +6,7 @@
 
 (2) The program shall include exercises to be carried out in accordance with sections 112(c) and 238(c)(1) of title 6.
 
-(3) In developing and carrying out the program, the Secretary shall coordinate with the Secretary of Defense, the Director of the Federal Bureau of Investigation, the Secretary ofEnergy, and the heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergencies described in paragraph (1).
+(3) In developing and carrying out the program, the Secretary shall coordinate with the Secretary of Defense, the Director of the Federal Bureau of Investigation, the Secretary of Energy, and the heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergencies described in paragraph (1).
 
 #### (b) Annual revisions of programs
 

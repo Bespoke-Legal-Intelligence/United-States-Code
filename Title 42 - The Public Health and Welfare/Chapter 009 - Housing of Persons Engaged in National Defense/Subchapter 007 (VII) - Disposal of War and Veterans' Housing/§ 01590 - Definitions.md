@@ -20,7 +20,7 @@ As used in this subchapter, the following terms shall have the meanings ascribed
 
 #### References in Text
 
-Subchapters III and VI of this chapter, referred to in subsecs. (b) and (c), were comprised of sections 1531 to1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+Subchapters III and VI of this chapter, referred to in subsecs. (b) and (c), were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
 
 The provisions of Public Law 781, and Public Laws 9, 73, or 353, referred to in subsec. (b), are not classified to the Code. For further details, see note set out under section 1524 of this title.
 
@@ -28,7 +28,7 @@ The United States Housing Act of 1937, referred to in subsecs. (d), (f), and (g)
 
 #### Transfer of Functions
 
-In subsec. (a), "Council of the District of Columbia" substituted for "District of Columbia Council" pursuant to Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+In subsec. (a), "Council of the District of Columbia" substituted for "District of Columbia Council" pursuant to Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785. District of Columbia Council, as establishedby Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 Previously, reference to Board of Commissioners of District of Columbia had been changed to District of Columbia Council pursuant to section 402(432) of Reorganization Plan No. 3 of 1967, 32 F.R. 11669, eff. Nov. 3, 1967, set out in the Appendix to Title 5, Government Organization and Employees, which transferred the regulatory and other functions of Board of Commissioners relating to functions under this subchapter previously vested in Board of Commissioners pursuant to this section to District of Columbia Council, subject to the right of the Commissioner as provided by section 406 of the Plan. For provisions establishing District of Columbia Council, see section 201 of the Reorg. Plan No. 3 of 1967.
 

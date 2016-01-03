@@ -76,7 +76,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;(iii) the distributee, at such time and in such manner as the Secretary by regulations prescribes, files an agreement to notify the Secretary of any acquisition described in clause (ii) and to retain such records as may be necessary for the application of this paragraph.
 
-> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, withrespect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
+> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, with respect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
 
 &emsp;&emsp;(B) Subparagraph (A) of this paragraph shall not apply if—
 
@@ -108,7 +108,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 #### (d) Redemptions treated as distributions of property
 
-Except as otherwise provided in this subchapter, if a corporation redeems its stock (within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
+Except as otherwise provided in this subchapter, if a corporation redeems its stock\(within the meaning of section 317(b)), and if subsection (a) of this section does not apply, such redemption shall be treated as a distribution of property to which section 301 applies.
 
 #### (e) Partial liquidation defined
 
@@ -154,7 +154,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 &emsp;&emsp;<b>(3) Liquidations.—Of stock in complete liquidation, see section 331.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat.3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
 
 #### Amendments
 
@@ -208,7 +208,7 @@ Ruling requests.—The amendments made by this section shall not apply to distri
 
 &emsp;&emsp;"(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
 
-&emsp;&emsp;"(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
+&emsp;&emsp;"(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982\(or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
 &emsp;"(B)
 

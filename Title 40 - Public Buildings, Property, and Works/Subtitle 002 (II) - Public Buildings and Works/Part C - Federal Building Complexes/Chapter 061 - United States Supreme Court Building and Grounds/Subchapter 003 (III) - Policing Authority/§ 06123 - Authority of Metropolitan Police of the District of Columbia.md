@@ -1,6 +1,6 @@
 ### §6123. Authority of Metropolitan Police of the District of Columbia
 
-The Metropolitan Police of the District of Columbia may make arrests within the Supreme Court Building and grounds for a violation of federal or state law or any regulation under federal or state law. This section does not authorize the Metropolitan Police to enter the Supreme Court Building to make an arrest in response to a complaint, serve a warrant, or patrol the Supreme Court Building or grounds, unlessthe Metropolitan Police have been requested to do so by, or have received the consent of, the Marshal of the Supreme Court or an assistant to the Marshal.
+The Metropolitan Police of the District of Columbia may make arrests within the Supreme Court Building and grounds for a violation of federal or state law or any regulation under federal or state law. This section does not authorize the Metropolitan Police to enter the Supreme Court Building to make an arrest in response to a complaint, serve a warrant, or patrol the Supreme Court Building or grounds, unless the Metropolitan Police have been requested to do so by, or have received the consent of, the Marshal of the Supreme Court or an assistant to the Marshal.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182.)
 

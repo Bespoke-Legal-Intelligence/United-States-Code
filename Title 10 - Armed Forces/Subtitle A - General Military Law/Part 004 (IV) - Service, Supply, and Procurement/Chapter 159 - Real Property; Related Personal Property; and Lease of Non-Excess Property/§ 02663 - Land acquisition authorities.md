@@ -44,7 +44,7 @@ Acquisition of Interests in Land When Need Is Urgent.—(1) The Secretary of a m
 
 &emsp;(C) considerations of urgency do not permit the delay necessary to include the required acquisition in an annual Military Construction Authorization Act.
 
-(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on ArmedServices of the House of Representatives written notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
+(2) Not later than 10 days after the date on which the Secretary of a military department determines to acquire an interest in land under the authority of this subsection, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives written notice containing a description of the property and interest to be acquired and the reasons for the acquisition.
 
 (3) Appropriations available for military construction may be used for the purposes of this subsection.
 
@@ -128,7 +128,7 @@ In subsection (d), the words "a gift of any interest in land \* \* \* for any 
 
 #### 1958 Act
 
-The deletion of the last sentence of section 2663(a) and the last sentence of section 2664(a) reflects their implied repeal by Rule 71A of the Rules of Civil Procedure for the United States District Courts (see 28 U.S.C.2072). (See letter from Assistant Attorney General (Lands Division), Department of Justice, August 1957, to General Counsel, Department of Defense.) The other changes conform section 2664 to section 2663, both of which were based on the same source statute (sec. 8 of the Act of July 9, 1918, ch. 143, subch. XV, 40 Stat. 888) and both of which include the temporary use of the kinds of property respectively covered.
+The deletion of the last sentence of section 2663(a) and the last sentence of section 2664(a) reflects their implied repeal by Rule 71A of the Rules of Civil Procedure for the United States District Courts (see 28 U.S.C. 2072). (See letter from Assistant Attorney General (Lands Division), Department of Justice, August 1957, to General Counsel, Department of Defense.) The other changes conform section 2664 to section 2663, both of which were based on the same source statute (sec. 8 of the Act of July 9, 1918, ch. 143, subch. XV, 40 Stat. 888) and both of which include the temporary use of the kinds of property respectively covered.
 
 #### Codification
 

@@ -14,7 +14,7 @@ The Secretary may execute any title documents necessary to effect the exchanges 
 
 #### (d) Title to lands
 
-Title to all lands acquired under the provisions of this section shall be taken in the nameof the United States in trust for the respective Pueblo Indian tribes.
+Title to all lands acquired under the provisions of this section shall be taken in the name of the United States in trust for the respective Pueblo Indian tribes.
 
 (Pub. L. 87–231, §10, Sept. 14, 1961, 75 Stat. 505.)
 

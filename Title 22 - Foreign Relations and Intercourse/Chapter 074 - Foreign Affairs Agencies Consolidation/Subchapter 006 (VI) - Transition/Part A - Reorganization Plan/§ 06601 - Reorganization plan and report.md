@@ -74,7 +74,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 &emsp;&emsp;(C) any preliminary actions which have been taken in the implementation process;
 
-&emsp;(2) the number of personnel and positions of each covered agency (including civil servicepersonnel, Foreign Service personnel, and detailees) that are expected to be transferred to the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
+&emsp;(2) the number of personnel and positions of each covered agency (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred to the Department, separated from service with such agency, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 
 &emsp;(3) the number of personnel and positions of the Department (including civil service personnel, Foreign Service personnel, and detailees) that are expected to be transferred within the Department, separated from service with the Department, or eliminated under the plan, and a projected schedule for such transfers, separations, and terminations;
 

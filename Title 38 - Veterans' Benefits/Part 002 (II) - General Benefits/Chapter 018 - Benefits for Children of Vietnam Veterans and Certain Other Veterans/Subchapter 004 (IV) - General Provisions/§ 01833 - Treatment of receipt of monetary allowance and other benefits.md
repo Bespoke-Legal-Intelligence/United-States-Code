@@ -12,7 +12,7 @@ Coordination With Benefits Based on Relationship of Recipients.—Notwithstandin
 
 Monetary Allowance Not To Be Considered as Income or Resources for Certain Purposes.—Notwithstanding any other provision of law, a monetary allowance paid an individual under this chapter shall not be considered as income or resources in determining eligibility for, or the amount of benefits under, any Federal or federally assisted program.
 
-(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1860, §1823; renumbered §1833, Pub.L. 108–183, title I, §102(a)(1), Dec. 16, 2003, 117 Stat. 2653.)
+(Added Pub. L. 106–419, title IV, §401(b), Nov. 1, 2000, 114 Stat. 1860, §1823; renumbered §1833, Pub. L. 108–183, title I, §102(a)(1), Dec. 16, 2003, 117 Stat. 2653.)
 
 #### Prior Provisions
 

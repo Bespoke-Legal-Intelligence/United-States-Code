@@ -40,7 +40,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the admi
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §511(a), designated existing provisions as subpar. (A), substituted "A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status listunder section 14504 of this title, or a reserve officer of" for "A reserve officer of" and "of this title, may" for "of this title may, subject to the needs of the service and to section 14509 of this title,", and added subpars. (B) and (C).
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §511(a), designated existing provisions as subpar. (A), substituted "A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title, or a reserve officer of" for "A reserve officer of" and "of this title, may" for "of this title may, subject to the needs of the service and to section 14509 of this title,", and added subpars. (B) and (C).
 
 Subsecs. (b), (c). Pub. L. 113–291, §511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 

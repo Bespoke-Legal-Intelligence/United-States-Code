@@ -22,7 +22,7 @@
 
 (e) The Postal Service or any authorized officer or employee of the Government of the United States may solicit, accept, and consider, and any other individual or organization may furnish or transmit to the Postal Service or such authorized officer or employee, any statement with respect to a person who requests or is under consideration for such appointment, promotion, assignment, transfer, or designation, if—
 
-&emsp;(1) the statement is furnished pursuant to a request or requirement of the Postal Serviceand consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of such person;
+&emsp;(1) the statement is furnished pursuant to a request or requirement of the Postal Service and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of such person;
 
 &emsp;(2) the statement relates solely to the character and residence of such person;
 

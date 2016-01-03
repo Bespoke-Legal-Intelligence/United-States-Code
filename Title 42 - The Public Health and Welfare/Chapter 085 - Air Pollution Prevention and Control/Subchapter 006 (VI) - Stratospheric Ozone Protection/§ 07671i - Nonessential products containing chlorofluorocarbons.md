@@ -6,7 +6,7 @@ The Administrator shall promulgate regulations to carry out the requirements of 
 
 #### (b) Nonessential products
 
-The regulations under this section shall identify nonessential products that release class I substances into the environment (including any release occurring during manufacture, use, storage, or disposal) and prohibit any person from selling or distributing any such product, or offering any such product for sale or distribution,in interstate commerce. At a minimum, such prohibition shall apply to—
+The regulations under this section shall identify nonessential products that release class I substances into the environment (including any release occurring during manufacture, use, storage, or disposal) and prohibit any person from selling or distributing any such product, or offering any such product for sale or distribution, in interstate commerce. At a minimum, such prohibition shall apply to—
 
 &emsp;(1) chlorofluorocarbon-propelled plastic party streamers and noise horns,
 

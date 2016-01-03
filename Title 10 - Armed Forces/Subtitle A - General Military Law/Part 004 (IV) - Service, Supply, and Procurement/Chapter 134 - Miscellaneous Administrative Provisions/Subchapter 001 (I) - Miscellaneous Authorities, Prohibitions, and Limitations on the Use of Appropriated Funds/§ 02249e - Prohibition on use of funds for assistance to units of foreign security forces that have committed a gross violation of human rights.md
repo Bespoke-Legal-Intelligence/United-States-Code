@@ -52,7 +52,7 @@ Pub. L. 113–291, div. A, title XII, §1204(b), Dec. 19, 2014, 128 Stat. 3533, 
 
 In general.—Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:
 
-&emsp;"(A) The total number of cases submitted for vetting for purposes of section 2249e of title 10, United States Code (as added by subsection (a)), and thetotal number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons.
+&emsp;"(A) The total number of cases submitted for vetting for purposes of section 2249e of title 10, United States Code (as added by subsection (a)), and the total number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons.
 
 &emsp;"(B) In the case of units rejected for non-human rights reasons, a detailed description of the reasons relating to the rejection.
 

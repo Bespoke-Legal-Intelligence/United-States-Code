@@ -98,7 +98,7 @@ General requirement of reasonableness.—The decision of a contracting officer o
 
 &emsp;(4)
 
-Requesting tribunal to direct issuance within specified time period.—A contractor may request the tribunal concerned to direct a contracting officer to issue a decision in a specified period of time, as determined by thetribunal concerned, in the event of undue delay on the part of the contracting officer.
+Requesting tribunal to direct issuance within specified time period.—A contractor may request the tribunal concerned to direct a contracting officer to issue a decision in a specified period of time, as determined by the tribunal concerned, in the event of undue delay on the part of the contracting officer.
 
 &emsp;(5)
 
@@ -260,5 +260,5 @@ In subsection (b)(3), the words "of contract appeals" are omitted as unnecessary
 
 In subsection (c)(2), the words "this subsection", which appear in section 5 of the Contract Disputes Act of 1978 (Pub. L. 95–563, 92 Stat. 2384), and which were probably intended to mean "this section", are translated as "this paragraph" in accordance with the probable intent of Congress.
 
-In subsection (f)(5), the words "the commencement of" are omitted as unnecessary. The words "of the appeal or action" are substituted for "in the event an appeal or suit is so commenced in the absence of a priordecision by the contracting officer" to eliminate unnecessary words.
+In subsection (f)(5), the words "the commencement of" are omitted as unnecessary. The words "of the appeal or action" are substituted for "in the event an appeal or suit is so commenced in the absence of a prior decision by the contracting officer" to eliminate unnecessary words.
 

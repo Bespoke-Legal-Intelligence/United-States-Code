@@ -2,15 +2,17 @@
 
 (a) Notwithstanding any other provision of law upon agreement with the State of Alaska, the Secretary is authorized to expend on the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum.
 
-(b) For purposes of this section, the term "Alaska Marine Highway System" includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots,bridges and approaches thereto, and necessary roads.
+(b) For purposes of this section, the term "Alaska Marine Highway System" includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 
-(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778; Pub. L. 112–141, div. A, title I, §1519(c)(11), July 6, 2012, 126 Stat. 576.)
+(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778; Pub. L. 112–141, div. A, title I, §1519(c)(10), formerly§1519(c)(11), July 6, 2012, 126 Stat. 576, renumbered §1519(c)(10), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1519(c)(11)(A), designated third sentence as subsec. (a), struck out ", in addition to such funds," after "provision of law" and "such highway or" after "expend on", and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
+<b>2015</b>—Pub. L. 114–94 amended Pub. L. 112–141, §1519(c). See 2012 Amendment notes below.
 
-Subsecs. (b), (c). Pub. L. 112–141, §1519(c)(11)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary."
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1519(c)(10)(A), formerly §1519(c)(11)(A), as renumbered by Pub. L. 114–94, §1446(d)(5)(B), designated third sentence as subsec. (a), struck out ", in addition to such funds," after "provision of law" and "such highway or" after "expend on", and struck out former first, second, fourth, and fifth sentences, including pars. (1) to (5), relating to reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, appropriations for reconstruction, obligation limitation enacted for fiscal year 1983, and certain restrictions on expenditures for construction of highways in Canada.
+
+Subsecs. (b), (c). Pub. L. 112–141, §1519(c)(10)(B), (C), formerly §1519(c)(11)(B), (C), as renumbered by Pub. L. 114–94, §1446(d)(5)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary."
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §4409(1), struck out "prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century" before "shall not apply" in introductory provisions.
 
@@ -25,6 +27,10 @@ Subsec. (b). Pub. L. 105–277, §101(g) \[title III, §316(2)\], inserted "in C
 <b>1983</b>—Subsec. (a). Pub. L. 97–424 inserted provision that notwithstanding any other provision of law, upon agreement with the State of Alaska, the Secretary is authorized to expend on the highway any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum, and that any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter shall not apply to such projects.
 
 <b>1975</b>—Subsec. (a)(1). Pub. L. 94–147 struck out provision requiring that the right-of-way granted by the Canadian Government shall forever be held inviolate as part of such highways in public use.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 

@@ -2,13 +2,13 @@
 
 #### (a) Filing and access requirements
 
-Subject to subsection (c)(2) of this section, nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
+Subject to subsection (c)(2), nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
 
 #### (b) Preservation of existing rulemaking authority
 
 #### (1) Use of authority to interpret
 
-&emsp;Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret section 7001 of this title with respect to such statute through—
+&emsp;Subject to paragraph (2) and subsection (c), a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret section 7001 of this title with respect to such statute through—
 
 &emsp;&emsp;(A) the issuance of regulations pursuant to a statute; or
 
@@ -44,7 +44,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (B) Paper or printed form
 
-&emsp;&emsp;Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to require retention of a record in a tangible printed or paper form if—
+&emsp;&emsp;Notwithstanding subsection (c)(1), a Federal regulatory agency or State regulatory agency may interpret section 7001(d) of this title to require retention of a record in a tangible printed or paper form if—
 
 &emsp;&emsp;&emsp;(i) there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and
 
@@ -58,11 +58,11 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (1) Reimposing paper prohibited
 
-&emsp;Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+&emsp;Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
 #### (2) Continuing obligation under Government Paperwork Elimination Act
 
-&emsp;Nothing in subsection (a) or (b) of this section relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of Public Law 105–277).
+&emsp;Nothing in subsection (a) or (b) relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of Public Law 105–277).
 
 #### (d) Authority to exempt from consent provision
 
@@ -84,5 +84,5 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally tosubchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

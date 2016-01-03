@@ -16,7 +16,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (3) Certain purchases and sales by the United States
 
-&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extent provided by regulations prescribed by the Secretary.
+&emsp;Subsection (a) shall apply to purchases and sales by the United States only to the extentprovided by regulations prescribed by the Secretary.
 
 #### \[(4) Repealed. Pub. L. 89–44, title II, §208(e), June 21, 1965, 79 Stat. 141\]
 
@@ -42,7 +42,7 @@ The provisions of this section may be extended to, and made applicable with resp
 
 Terms used in this section which are defined in section 4221(d) shall have the meaning given to them by section 4221(d).
 
-(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1284; amended Pub. L. 89–44, title II, §208(e), title VIII, §802(c), June 21, 1965, 79 Stat. 141, 159; Pub. L. 92–178, title IV, §401(a)(3)(B), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, §701(ff)(2)(B), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 95–618, title II, §§201(e), 231(f)(2), Nov. 9, 1978, 92 Stat. 3184, 3189; Pub. L. 97–424, title V, §515(b)(2), Jan. 6, 1983, 96 Stat. 2181; Pub. L. 98–369, div. A, title VII, §735(c)(9), July 18, 1984, 98 Stat. 983; Pub. L. 100–647, title I, §1017(c)(16), Nov. 10, 1988, 102 Stat. 3577; Pub. L. 101–508, title XI, §§11212(b)(2), 11221(d)(3), Nov. 5, 1990, 104 Stat. 1388–431, 1388–444; Pub. L. 103–66, title XIII, §13161(b)(2), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–34, title XIV, §1431(a), Aug. 5, 1997, 111 Stat. 1050; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 113–295, div. A, title II, §221(a)(103)(B)(ii), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1284; amended Pub. L. 89–44, title II, §208(e), title VIII, §802(c), June 21, 1965, 79 Stat. 141, 159; Pub. L. 92–178, title IV, §401(a)(3)(B), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, §701(ff)(2)(B), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 95–618, title II, §§201(e), 231(f)(2), Nov. 9, 1978, 92 Stat. 3184, 3189; Pub. L. 97–424, title V, §515(b)(2), Jan. 6, 1983, 96 Stat. 2181; Pub. L. 98–369, div. A, title VII, §735(c)(9), July 18, 1984, 98 Stat. 983; Pub. L. 100–647, title I, §1017(c)(16), Nov. 10, 1988, 102 Stat. 3577; Pub. L. 101–508, title XI, §§11212(b)(2), 11221(d)(3), Nov. 5, 1990, 104 Stat. 1388–431, 1388-444; Pub. L. 103–66, title XIII, §13161(b)(2), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–34, title XIV, §1431(a), Aug. 5, 1997, 111 Stat. 1050; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 113–295, div. A, title II, §221(a)(103)(B)(ii), Dec. 19, 2014, 128 Stat. 4053.)
 
 #### Prior Provisions
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions ofthe Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 #### Effective Date of 1983 Amendment
 

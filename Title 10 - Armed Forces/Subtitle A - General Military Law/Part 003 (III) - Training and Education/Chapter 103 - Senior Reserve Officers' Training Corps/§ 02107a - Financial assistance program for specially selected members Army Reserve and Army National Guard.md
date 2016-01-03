@@ -1,6 +1,6 @@
 ### §2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
 
-(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in the Advanced Course of the Army Reserve Officers' Training Corps at a military college, military junior college, or civilian institution and who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard.
+(a)(1) The Secretary of the Army may appoint as a cadet in the Army Reserve or Army National Guard of the United States any eligible member of the program who is enrolled in theAdvanced Course of the Army Reserve Officers' Training Corps at a military college, military junior college, or civilian institution and who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as a second lieutenant in the Army Reserve or Army National Guard.
 
 (2) To be considered a military college or military junior college for the purposes of this section, a school must be a civilian postsecondary educational institution essentially military in nature and meet such other requirements as the Secretary of the Army may prescribe. For purposes of this section, a military junior college does not confer a baccalaureate degree.
 
@@ -16,7 +16,7 @@
 
 &emsp;(E) agree in writing that he will accept an appointment, if offered, as a commissioned officer in the Army Reserve or the Army National Guard of the United States; and
 
-&emsp;(F) agree in writing that he will serve in a troop program unit of the Army Reserve orArmy National Guard for not less than eight years.
+&emsp;(F) agree in writing that he will serve in a troop program unit of the Army Reserve or Army National Guard for not less than eight years.
 
 (2) Performance of duty under an agreement under this subsection shall be under such terms and conditions as the Secretary of the Army may prescribe and may include periods of active duty, active duty for training, and other service in an active or inactive status in the reserve component in which appointed.
 
@@ -56,7 +56,7 @@
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
-(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
+(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to activeduty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
 (g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of the Selected Reserve.
 
@@ -66,7 +66,7 @@
 
 (j) Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an "Ike Skelton Early Commissioning Program Scholarship".
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003,117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, §522, Oct. 28, 2009, 123 Stat. 2285.)
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, §522, Oct. 28, 2009, 123 Stat. 2285.)
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Subsec. (b)(6). Pub. L. 102–190, §522(a)(3), substituted "a troop program uni
 
 Subsec. (f). Pub. L. 102–190, §522(a)(4), inserted "or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section," after "when offered,".
 
-Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted "not more than 208 cadets each year under this section, to include not less than 10 cadets" for "not less than 10 cadets under this section each year", and struck out par. (2) which read as follows: "If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment."
+Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted "not more than 208 cadets each year under this section, to include not less than 10 cadets" for "not less than 10 cadets under this section each year", and struck out par. (2) which read as follows: "If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of theprogram at such military junior college who are eligible under subsection (b) for such an appointment."
 
 #### Effective Date of 2003 Amendment
 

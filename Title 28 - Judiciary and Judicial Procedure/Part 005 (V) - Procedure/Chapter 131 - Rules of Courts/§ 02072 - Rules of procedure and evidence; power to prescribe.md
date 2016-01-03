@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §103, 63 Stat. 104; July 18, 1949, ch. 343, §2, 63 Stat. 446; May 10, 1950, ch. 174, §2, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, §12(m), 72 Stat. 348; Nov. 6, 1966, Pub. L. 89–773, §1, 80 Stat. 1323, authorized the Supreme Court to prescribe rules of civil procedure, prior to repeal by Pub. L. 100–702, §§401(a), 407, effective Dec. 1, 1988.
+A prior section 2072, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §103, 63 Stat. 104; July18, 1949, ch. 343, §2, 63 Stat. 446; May 10, 1950, ch. 174, §2, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, §12(m), 72 Stat. 348; Nov. 6, 1966, Pub. L. 89–773, §1, 80 Stat. 1323, authorized the Supreme Court to prescribe rules of civil procedure, prior to repeal by Pub. L. 100–702, §§401(a), 407, effective Dec. 1, 1988.
 
 #### Amendments
 

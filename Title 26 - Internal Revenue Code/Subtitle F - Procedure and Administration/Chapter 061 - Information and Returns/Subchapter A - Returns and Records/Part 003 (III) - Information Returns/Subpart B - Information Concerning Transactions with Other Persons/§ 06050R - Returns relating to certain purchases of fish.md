@@ -52,7 +52,7 @@ For purposes of this section:
 
 <b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–206 substituted a comma for the semicolon at end.
 
-<b>1997</b>—Pub. L. 105–34, §1601(a)(2), provided that amendment made by section 1116(b)(1) of Pub. L. 104–188, shall be applied as if reference to chapter 68 were a reference to chapter 61. Section 1116(b)(1) of Pub. L. 104–188 directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
+<b>1997</b>—Pub. L. 105–34, §1601(a)(2), provided that amendment made by section 1116(b)(1) of Pub. L. 104–188, shallbe applied as if reference to chapter 68 were a reference to chapter 61. Section 1116(b)(1) of Pub. L. 104–188 directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
 
 Subsec. (c)(1). Pub. L. 105–34, §1601(a)(1), substituted "name, address, and phone number of the information contact" for "name and address".
 

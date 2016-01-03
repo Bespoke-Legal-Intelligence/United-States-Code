@@ -10,11 +10,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) fromany purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
 
 #### (B) Actions to recover profits
 
-&emsp;&emsp;An action to recover profits in accordance with this subsection may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer fails or refuses to bring such action within 60 days after the date of request, or fails diligently to prosecute the action thereafter, except that no such suit shall be brought more than 2 years after the date on which such profit was realized.
+&emsp;&emsp;An action to recover profits in accordance with this subsection may be instituted atlaw or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer fails or refuses to bring such action within 60 days after the date of request, or fails diligently to prosecute the action thereafter, except that no such suit shall be brought more than 2 years after the date on which such profit was realized.
 
 #### (3) Rulemaking authorized
 
@@ -72,5 +72,5 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 #### Codification
 
-Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amendedsection 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
+Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 

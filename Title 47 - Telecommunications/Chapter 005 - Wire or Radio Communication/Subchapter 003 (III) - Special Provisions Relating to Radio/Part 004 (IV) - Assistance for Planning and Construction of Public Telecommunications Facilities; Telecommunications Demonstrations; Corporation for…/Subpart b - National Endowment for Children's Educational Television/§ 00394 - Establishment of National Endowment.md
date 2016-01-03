@@ -38,7 +38,7 @@ It is the purpose of this section to enhance the education of children through t
 
 &emsp;(C) criteria to otherwise maximize the proportion of funds made available by the Endowment that are expended for the cost of programming production.
 
-(2) Applications for grants under this section shall be submitted to the Secretary in such formand containing such information as the Secretary shall require by regulation.
+(2) Applications for grants under this section shall be submitted to the Secretary in such form and containing such information as the Secretary shall require by regulation.
 
 #### (d) Amount of grants
 
@@ -72,7 +72,7 @@ There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,
 
 For purposes of this section—
 
-&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience of children who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
+&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience ofchildren who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
 
 &emsp;(2) the term "person" means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 

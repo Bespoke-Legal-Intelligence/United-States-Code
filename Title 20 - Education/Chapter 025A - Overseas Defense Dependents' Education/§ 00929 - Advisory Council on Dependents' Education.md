@@ -80,7 +80,7 @@ Subsec. (c)(4), (5). Pub. L. 99–145, §1204(b)(5)(C), (D), redesignated par. (
 
 Subsec. (a)(1). Pub. L. 96–88, §508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
 
-Subsec. (a)(2). Pub. L. 96–88, §508(j)(5), substituted "Secretary of Education" for "Assistant Secretary", "demonstrated an interest" for "versed by training or experience", "parents of dependents" for "sponsors of students", and "dependents' education system" for "defense dependents' education system".
+Subsec. (a)(2). Pub. L. 96–88, §508(j)(5), substituted "Secretary of Education" for "Assistant Secretary","demonstrated an interest" for "versed by training or experience", "parents of dependents" for "sponsors of students", and "dependents' education system" for "defense dependents' education system".
 
 Subsec. (a)(3). Pub. L. 96–88, §508(j)(5), required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner of Education, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
 

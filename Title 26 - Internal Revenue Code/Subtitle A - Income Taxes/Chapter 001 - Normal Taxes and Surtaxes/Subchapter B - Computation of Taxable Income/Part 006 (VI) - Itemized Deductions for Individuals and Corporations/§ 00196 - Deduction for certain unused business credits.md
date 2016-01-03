@@ -6,7 +6,7 @@ If any portion of the qualified business credits determined for any taxable year
 
 #### (b) Taxpayer's dying or ceasing to exist
 
-If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+If a taxpayer dies or ceases to exist before the first taxable year following the last taxable yearfor which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
 
 #### (c) Qualified business credits
 
@@ -48,7 +48,7 @@ Subsection (a) shall be applied by substituting "an amount equal to 50 percent o
 
 &emsp;(2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026; Pub. L. 111–148, title I, §1421(d)(2), Mar. 23, 2010, 124 Stat. 242.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388-554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026; Pub. L. 111–148, title I, §1421(d)(2), Mar. 23, 2010, 124 Stat. 242.)
 
 #### Codification
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable ye
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 

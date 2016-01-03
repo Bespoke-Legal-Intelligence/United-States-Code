@@ -58,7 +58,7 @@ For purposes of subsection (a), except as provided in subsection (c), the term "
 
 If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c), then—
 
-&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of suchamount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
 &emsp;&emsp;(A) the amount of the expenditure referred to in subparagraph (A) of subsection (c)(2),
 

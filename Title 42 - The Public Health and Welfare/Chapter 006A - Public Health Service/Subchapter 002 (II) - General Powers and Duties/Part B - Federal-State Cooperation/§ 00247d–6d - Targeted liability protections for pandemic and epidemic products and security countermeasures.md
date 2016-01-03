@@ -120,7 +120,7 @@
 
 #### (9) Report to Congress
 
-&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation ofthe reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
+&emsp;Within 30 days after making a declaration under paragraph (1), the Secretary shall submit to the appropriate committees of the Congress a report that provides an explanation of the reasons for issuing the declaration and the reasons underlying the determinations of the Secretary with respect to paragraph (2). Within 30 days after making an amendment under paragraph (4), the Secretary shall submit to such committees a report that provides the reasons underlying the determination of the Secretary to make the amendment.
 
 #### (c) Definition of willful misconduct
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations, which may be promulgated through interim final rules, that further restrict the scope of actions or omissions by a covered person that may qualify as "willful misconduct" for purposes of subsection (d) of this section.
+&emsp;&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations, which may be promulgated through interim final rules, that further restrict thescope of actions or omissions by a covered person that may qualify as "willful misconduct" for purposes of subsection (d) of this section.
 
 #### (B) Factors to be considered
 
@@ -184,7 +184,7 @@
 
 #### (i) Enforcement action
 
-&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct,of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
+&emsp;&emsp;&emsp;The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act \[21 U.S.C. 360bbb–3\], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act \[21 U.S.C. 351 et seq.\] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy
 
@@ -200,7 +200,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to a court determination, or to a final resolution of an enforcement action that is a court determination, mean a judgment from which an appeal of right cannot be taken or a voluntary or stipulated dismissal; and
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to an agency action, or to a final resolution of an enforcement action that is an agency action, mean an order that is not subject to further review within the agency and that has not been reversed, vacated, enjoined, or otherwise nullified by a final court determination or a voluntary or stipulated dismissal.
+&emsp;&emsp;&emsp;&emsp;(II) with respect to an agency action, or to a final resolution of an enforcement action that is an agency action, mean an order that is not subject to further review within the agency and thathas not been reversed, vacated, enjoined, or otherwise nullified by a final court determination or a voluntary or stipulated dismissal.
 
 #### (C) Rules of construction
 
@@ -408,7 +408,7 @@ In this section:
 
 &emsp;&emsp;(ii) the object of research for possible use as described by subparagraph (A) and is the subject of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i), 360j(g)\]; or
 
-&emsp;&emsp;(iii) authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\].
+&emsp;&emsp;(iii) authorized for emergency use in accordance with section 564, 564A, or 564B ofthe Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\].
 
 #### (8) Qualified person
 

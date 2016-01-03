@@ -144,7 +144,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (C) Reduced minimum investment
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B <sup>1</sup> in a manner that is consistent with meeting the minimum capital requirements of the bank, as established by the Director.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B <sup>1</sup>in a manner that is consistent with meeting the minimum capital requirements of the bank, as established by the Director.
 
 #### (D) Liquidation of claims
 
@@ -162,7 +162,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;Before filing a capital structure plan with the Director, each Federal home loan bank shall conduct a review of the plan by—
 
-&emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible,that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
+&emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible, that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
 
 &emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible, whether implementation of the plan would have any material effect on the credit ratings of the bank.
 
@@ -220,7 +220,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (f) Impairment of capital
 
-If the Director or the board of directors of a Federal home loan bank determines that the bank has incurred or is likely to incur losses that result in or are expected to result in charges against the capital of the bank, the bank shall not redeem or repurchase any stock of the bank without the prior approval of the Director while such charges are continuing or are expected to continue. In no case may a bank redeem or repurchase any applicable capital stock if, following the redemption, the bank would fail to satisfy any minimum capital requirement.
+If the Director or the board of directors of a Federal home loan bank determines that thebank has incurred or is likely to incur losses that result in or are expected to result in charges against the capital of the bank, the bank shall not redeem or repurchase any stock of the bank without the prior approval of the Director while such charges are continuing or are expected to continue. In no case may a bank redeem or repurchase any applicable capital stock if, following the redemption, the bank would fail to satisfy any minimum capital requirement.
 
 #### (g) Rejoining after divestiture of all shares
 
@@ -230,7 +230,7 @@ If the Director or the board of directors of a Federal home loan bank determines
 
 #### (2) Exception for withdrawals from membership before 1998
 
-&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after thatdate, subject to the approval of the Director and the requirements of this chapter.
+&emsp;Any institution that withdrew from membership in any Federal home loan bank before December 31, 1997, may acquire shares of a Federal home loan bank at any time after that date, subject to the approval of the Director and the requirements of this chapter.
 
 #### (h) Treatment of retained earnings
 
@@ -282,7 +282,7 @@ Subsec. (e). Pub. L. 101–73, §710(b)(3), which directed amendment of subsec. 
 
 Pub. L. 101–73, §710(b)(2), struck out "or nonmember borrower" after "such member" wherever appearing.
 
-Pub. L. 101–73, §706(2), substituted "If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment." for "In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment."
+Pub. L. 101–73, §706(2), substituted "If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank),and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment." for "In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment."
 
 Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted "Board" for "board" wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 

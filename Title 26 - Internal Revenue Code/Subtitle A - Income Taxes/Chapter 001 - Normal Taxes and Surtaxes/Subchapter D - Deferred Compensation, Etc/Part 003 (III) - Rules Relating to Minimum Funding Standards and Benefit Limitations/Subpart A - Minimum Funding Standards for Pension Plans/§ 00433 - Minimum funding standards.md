@@ -58,7 +58,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
-&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+&emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periodsfor all items entering into whichever of the two amounts being offset is the greater.
 
 #### (5) Interest
 
@@ -82,7 +82,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 #### (1) Determinations to be made under funding method
 
-&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, andexperience gains and losses shall be determined under the funding method used to determine costs under the plan.
+&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
 
 #### (2) Valuation of assets
 
@@ -136,7 +136,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV <sup>1</sup> (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
-&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
+&emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the currentplan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
 
 #### (6) Full funding
 
@@ -166,7 +166,7 @@ Minimum amount.—
 
 In general.—In no event shall the full-funding limitation determined under subparagraph (A) be less than the excess (if any) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the current liability (determined without regard to paragraph\(4) of subsection (h)) of the plan (including the expected increase in such current liability due to benefits accruing during the plan year), over
+&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the current liability (determined without regard to paragraph (4) of subsection (h)) of the plan (including the expected increase in such current liability due to benefits accruing during the plan year), over
 
 &emsp;&emsp;&emsp;&emsp;(II) the value of the plan's assets determined under paragraph (2).
 
@@ -353,7 +353,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (iii) Disbursements from the plan
 
-&emsp;&emsp;&emsp;The term "disbursements from the plan" means all disbursements from the trust,including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
+&emsp;&emsp;&emsp;The term "disbursements from the plan" means all disbursements from the trust, including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
 
 #### (iv) Adjusted disbursements
 
@@ -437,7 +437,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Controlled group
 
-&emsp;&emsp;The term "controlled group" means any group treated as a single employer undersubsections (b), (c), (m), and (o) of section 414.
+&emsp;&emsp;The term "controlled group" means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414.
 
 #### (h) Current liability
 
@@ -539,7 +539,7 @@ Notwithstanding any other provisions of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, forpurposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
+&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, for purposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
 
 &emsp;&emsp;&emsp;(i) the amount described in subsection (a), or
 
@@ -605,7 +605,7 @@ Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6)
 
 The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and\(g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and (g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(2), is the date of enactment of subtitle F of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 

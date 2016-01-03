@@ -6,7 +6,7 @@ The Secretary may by regulations require the gauging of distilled spirits for su
 
 #### (b) Gauging instruments
 
-For the determination of tax and the prevention and detection of frauds, the Secretary may prescribe for use such hydrometers, saccharometers, weighing and gauging instruments, or other means or methods for ascertaining the quantity, gravity, and producing capacity of any mash, wort, or beer used, or to be used, in the production of distilled spirits, and the strength and quantity of spirits subject to tax, as he may deem necessary; and he may prescribe regulations to secure a uniform and correct system of inspection, weighing, marking, and gauging of spirits.
+For the determination of tax and the prevention and detection of frauds, the Secretary may prescribe for use such hydrometers, saccharometers, weighing and gauging instruments, or other means or methods for ascertaining the quantity, gravity, and producing capacity of any mash, wort, or beer used, or to be used, in theproduction of distilled spirits, and the strength and quantity of spirits subject to tax, as he may deem necessary; and he may prescribe regulations to secure a uniform and correct system of inspection, weighing, marking, and gauging of spirits.
 
 #### (c) Gauging, marking, and branding by proprietors
 

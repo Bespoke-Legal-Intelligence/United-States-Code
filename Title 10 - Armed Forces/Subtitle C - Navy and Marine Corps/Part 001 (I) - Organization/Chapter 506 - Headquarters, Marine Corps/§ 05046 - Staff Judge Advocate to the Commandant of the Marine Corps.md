@@ -32,7 +32,7 @@ Subsecs. (c), (d). Pub. L. 112–239, §531(b), added subsec. (c) and redesignat
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337, §504(b)(4)(A), added second sentence and struck out former second sentence which read as follows: "While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general if appointed to that grade by the President, by and with the advice and consent of the Senate."
 
-Subsec. (b). Pub. L. 103–337, §504(b)(4)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: "An officer retiring from the position of Staff Judge Advocate to the Commandant of the Marine Corps, after serving at least three years in that position, shall be retired in the highest grade in which that officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
+Subsec. (b). Pub. L. 103–337, §504(b)(4)(B), added subsec. (b) and struck out former subsec. (b) which read asfollows: "An officer retiring from the position of Staff Judge Advocate to the Commandant of the Marine Corps, after serving at least three years in that position, shall be retired in the highest grade in which that officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
 
 #### Effective Date
 

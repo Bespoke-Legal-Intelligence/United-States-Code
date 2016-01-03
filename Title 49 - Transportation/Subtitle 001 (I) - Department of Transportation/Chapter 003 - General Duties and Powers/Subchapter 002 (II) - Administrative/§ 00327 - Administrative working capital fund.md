@@ -24,7 +24,7 @@
 
 &emsp;(4) payments received for loss or damage to property of the fund.
 
-(d) The fund shall be reimbursed, in advance, from amounts available to the Department orfrom other sources, for supplies and services at rates that will approximate the expenses of operation, including the accrual of annual leave and the depreciation of equipment. Amounts in the fund, in excess of amounts transferred or appropriated to maintain the fund, shall be deposited in the Treasury as miscellaneous receipts. All assets, liabilities, and prior losses are considered in determining the amount of the excess.
+(d) The fund shall be reimbursed, in advance, from amounts available to the Department or from other sources, for supplies and services at rates that will approximate the expenses of operation, including the accrual of annual leave and the depreciation of equipment. Amounts in the fund, in excess of amounts transferred or appropriated to maintain the fund, shall be deposited in the Treasury as miscellaneous receipts. All assets, liabilities, and prior losses are considered in determining the amount of the excess.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2425.)
 

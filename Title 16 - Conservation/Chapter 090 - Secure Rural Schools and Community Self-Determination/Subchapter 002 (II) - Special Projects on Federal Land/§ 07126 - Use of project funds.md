@@ -4,7 +4,7 @@
 
 #### (1) Agreement between parties
 
-&emsp;The Secretary concerned may carry out a project submitted by a resource advisory committee under section 7123(a) of this title using project funds or other funds described in section 7123(a)(2) of this title, if, as soon as practicable after the issuance of a decision document for the project and the exhaustion of all administrative appeals and judicial review of the project decision, the Secretary concerned and the resource advisory committee enter into an agreement addressing, at a minimum, the following:
+&emsp;The Secretary concerned may carry out a project submitted by a resource advisory committee under section 7123(a) of this title using project funds or other funds described in section 7123(a)(2) of this title, if, as soon as practicable after the issuance of a decision document for the project and the exhaustion of all administrative appeals and judicial review of the project decision, the Secretary concerned and the resource advisory committee enterinto an agreement addressing, at a minimum, the following:
 
 &emsp;&emsp;(A) The schedule for completing the project.
 

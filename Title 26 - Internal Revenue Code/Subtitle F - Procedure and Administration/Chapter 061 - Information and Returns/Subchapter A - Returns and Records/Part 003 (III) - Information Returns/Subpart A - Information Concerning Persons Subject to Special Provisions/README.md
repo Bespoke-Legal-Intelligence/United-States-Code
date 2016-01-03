@@ -7,7 +7,7 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | [6033\.](%C2%A7%2006033%20-%20Returns%20by%20exempt%20organizations.md) | Returns by exempt organizations. |
 | [6034\.](%C2%A7%2006034%20-%20Returns%20by%20certain%20trusts.md) | Returns by certain trusts. |
 | [6034A.](%C2%A7%2006034A%20-%20Information%20to%20beneficiaries%20of%20estates%20and%20trusts.md) | Information to beneficiaries of estates and trusts. |
-| \[6035. | Repealed.\] |
+| [6035\.](%C2%A7%2006035%20-%20Basis%20information%20to%20persons%20acquiring%20property%20from%20decedent.md) | Basis information to persons acquiring property from decedent. |
 | [6036\.](%C2%A7%2006036%20-%20Notice%20of%20qualification%20as%20executor%20or%20receiver.md) | Notice of qualification as executor or receiver. |
 | [6037\.](%C2%A7%2006037%20-%20Return%20of%20S%20corporation.md) | Return of S corporation. |
 | [6038\.](%C2%A7%2006038%20-%20Information%20reporting%20with%20respect%20to%20certain%20foreign%20corporations%20and%20partnerships.md) | Information reporting with respect to certain foreign corporations and partnerships. |
@@ -36,6 +36,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–41, title II, §2004(b)(3), July 31, 2015, 129 Stat. 456, added item 6035.
 
 <b>2010</b>—Pub. L. 111–147, title V, §511(b), Mar. 18, 2010, 124 Stat. 110, added item 6038D.
 
@@ -99,7 +101,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06033 - Returns by exempt organizations](%C2%A7%2006033%20-%20Returns%20by%20exempt%20organizations.md)
 - [&sect; 06034 - Returns by certain trusts](%C2%A7%2006034%20-%20Returns%20by%20certain%20trusts.md)
 - [&sect; 06034A - Information to beneficiaries of estates and trusts](%C2%A7%2006034A%20-%20Information%20to%20beneficiaries%20of%20estates%20and%20trusts.md)
-- [&sect; 06035 - Repealed. Pub. L. 108&#8211;357, title IV, &sect;413(c)(26), Oct. 22, 2004, 118 Stat. 1509](%C2%A7%2006035%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20IV%2C%20%C2%A7413%28c%29%2826%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201509.md)
+- [&sect; 06035 - Basis information to persons acquiring property from decedent](%C2%A7%2006035%20-%20Basis%20information%20to%20persons%20acquiring%20property%20from%20decedent.md)
 - [&sect; 06036 - Notice of qualification as executor or receiver](%C2%A7%2006036%20-%20Notice%20of%20qualification%20as%20executor%20or%20receiver.md)
 - [&sect; 06037 - Return of S corporation](%C2%A7%2006037%20-%20Return%20of%20S%20corporation.md)
 - [&sect; 06038 - Information reporting with respect to certain foreign corporations and partnerships](%C2%A7%2006038%20-%20Information%20reporting%20with%20respect%20to%20certain%20foreign%20corporations%20and%20partnerships.md)

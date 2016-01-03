@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) To establish initiatives in the areas of energy management, greenhouse gas emissions reductions, green building, waste management, purchasing, toxics management, transportation, and other aspects of sustainability.
 
-&emsp;&emsp;(E) To support student, faculty, and staff work at an institution of higher education to implement, research, and evaluate sustainable practices.
+&emsp;&emsp;(E) To support student, faculty, and staff work at an institution of higher educationto implement, research, and evaluate sustainable practices.
 
 &emsp;&emsp;(F) To expand sustainability literacy on campus.
 

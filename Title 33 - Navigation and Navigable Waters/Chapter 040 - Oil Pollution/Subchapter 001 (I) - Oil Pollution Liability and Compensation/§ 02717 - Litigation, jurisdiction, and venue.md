@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations
 
-Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation ofsuch regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction
 
@@ -18,7 +18,7 @@ The provisions of subsections (a), (b), and (c) of this section shall not apply 
 
 #### (e) Savings provision
 
-Nothing in this subchapter shall apply to any cause of action or right of recovery arising fromany incident which occurred prior to August 18, 1990. Such claims shall be adjudicated pursuant to the law applicable on the date of the incident.
+Nothing in this subchapter shall apply to any cause of action or right of recovery arising from any incident which occurred prior to August 18, 1990. Such claims shall be adjudicated pursuant to the law applicable on the date of the incident.
 
 #### (f) Period of limitations
 

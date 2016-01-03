@@ -20,7 +20,7 @@ The Secretary shall, not later than 1 year after April 20, 2007,<sup>1</sup> and
 
 #### References in Text
 
-April 20, 2007, referred to in subsec. (b), was in the original "the date of the enactment of the NationalBreast and Cervical Cancer Early Detection Program Reauthorization of 2007", and was translated as reading "the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization Act of 2007", to reflect the probable intent of Congress.
+April 20, 2007, referred to in subsec. (b), was in the original "the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization of 2007", and was translated as reading "the date of the enactment of the National Breast and Cervical Cancer Early Detection Program Reauthorization Act of 2007", to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

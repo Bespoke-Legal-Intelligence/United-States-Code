@@ -10,7 +10,7 @@ Subject to the provisions of section 733(a) of this title, the constitution and 
 
 #### (c) Authority and capacity of Tribal Council
 
-No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b) of this section. The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity—
+No provision contained in this subchapter shall affect the power of the Tribal Council to take any action under the constitution and bylaws described in subsection (b). The Tribal Council shall represent the tribe and its members in the implementation of this subchapter and shall have full authority and capacity—
 
 &emsp;(1) to enter into contracts, grant agreements, and other arrangements with any Federal department or agency;
 
@@ -22,7 +22,7 @@ No provision contained in this subchapter shall affect the power of the Tribal C
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del SurPueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and enacted provisions set out as notes under section 731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 100–89, Aug. 18, 1987, 101 Stat. 666, known as the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act, which enacted this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and enacted provisions set out as notes under section731 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Development of plans and programs.—Subject to section 134, to accomplish the o
 
 &emsp;(2)
 
-Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
 &emsp;(3)
 
@@ -56,9 +56,13 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
-&emsp;&emsp;(G) promote efficient system management and operation; and
+&emsp;&emsp;(G) promote efficient system management and operation;
 
-&emsp;&emsp;(H) emphasize the preservation of the existing transportation system.
+&emsp;&emsp;(H) emphasize the preservation of the existing transportation system;
+
+&emsp;&emsp;(I) improve the resiliency and reliability of the transportation system and reduce or mitigate stormwater impacts of surface transportation; and
+
+&emsp;&emsp;(J) enhance travel and tourism.
 
 &emsp;(2)
 
@@ -66,7 +70,7 @@ Performance-based approach.—
 
 &emsp;&emsp;(A)
 
-In general.—The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in section 150(b) of this title and in section 5301(c) of title 49.
+In general.—The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in section 150(b) of this title and the general purposes described in section 5301 of title 49.
 
 &emsp;&emsp;(B)
 
@@ -86,11 +90,11 @@ Coordination.—Selection of performance targets by a State shall be coordinated
 
 &emsp;&emsp;&emsp;(ii)
 
-Public transportation performance targets.—In urbanized areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
+Public transportation performance targets.—In areas not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d) of title 49.
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developedpursuant to chapter 53 of title 49 by providers of public transportation in urbanized areas not represented by a metropolitan planning organization required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to chapter 53 of title 49 by providers of public transportation in areas not represented by a metropolitan planning organization required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -164,13 +168,13 @@ In general.—In developing the statewide transportation plan, the State shall p
 
 &emsp;&emsp;&emsp;(i) nonmetropolitan local elected officials or, if applicable, through regional transportation planning organizations described in subsection (m), an opportunity to participate in accordance with subparagraph (B)(i); and
 
-&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
 
 &emsp;&emsp;(B)
 
 Methods.—In carrying out subparagraph (A), the State shall, to the maximum extent practicable—
 
-&emsp;&emsp;&emsp;(i) develop and document a consultative process to carry out subparagraph (A)(i) that is separate and discrete from the public involvement process developed under clause (ii);
+&emsp;&emsp;&emsp;(i) develop and document a consultative process to carry out subparagraph (A)(i)that is separate and discrete from the public involvement process developed under clause (ii);
 
 &emsp;&emsp;&emsp;(ii) hold any public meetings at convenient and accessible locations and times;
 
@@ -188,7 +192,7 @@ In general.—A long-range transportation plan shall include a discussion of pot
 
 &emsp;&emsp;(B)
 
-Consultation.—The discussion shall be developed in consultation with Federal,State, and tribal wildlife, land management, and regulatory agencies.
+Consultation.—The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
 
 &emsp;(5)
 
@@ -210,7 +214,7 @@ Selection of projects from illustrative list.—A State shall not be required to
 
 &emsp;(7)
 
-Performance-based approach.—The statewide transportation plan should include—
+Performance-based approach.—The statewide transportation plan shall include—
 
 &emsp;&emsp;(A) a description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with subsection (d)(2); and
 
@@ -218,7 +222,7 @@ Performance-based approach.—The statewide transportation plan should include�
 
 &emsp;(8)
 
-Existing system.—The statewide transportation plan should include capital, operations and management strategies, investments, procedures, and other measures to ensure the preservation and most efficient use of the existing transportation system.
+Existing system.—The statewide transportation plan should include capital, operations and management strategies, investments, procedures, and other measures to ensure the preservation and most efficient use of the existing transportation system, including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated.
 
 &emsp;(9)
 
@@ -266,7 +270,7 @@ Indian tribal areas.—With respect to each area of the State under the jurisdic
 
 &emsp;(3)
 
-Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators),,<sup>1</sup> providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
 
 &emsp;(4)
 
@@ -356,7 +360,7 @@ In general.—Projects carried out in areas with populations of less than 50,000
 
 &emsp;&emsp;(B)
 
-Other projects.—Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310, 5311, 5316,<sup>1</sup> and 5317 <sup>1</sup> of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
+Other projects.—Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310, 5311, 5316,<sup>2</sup> and 5317 <sup>2</sup> of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
 
 &emsp;(7)
 
@@ -386,7 +390,7 @@ In general.—The Secretary shall establish criteria to evaluate the effectivene
 
 &emsp;&emsp;&emsp;(i) has developed an investment process that relies on public input and awareness to ensure that investments are transparent and accountable; and
 
-&emsp;&emsp;&emsp;(ii) provides reports allowing the public to access the information being collected in a format that allows the public tomeaningfully assess the performance of the State.
+&emsp;&emsp;&emsp;(ii) provides reports allowing the public to access the information being collected in a format that allows the public to meaningfully assess the performance of the State.
 
 &emsp;(2)
 
@@ -406,7 +410,7 @@ Publication.—The report under subparagraph (A) shall be published or otherwise
 
 (i)
 
-Funding.—Funds apportioned under section 104(b)(5) of this title and set aside under section 5305(g) of title 49 shall be available to carry out this section.
+Funding.—Funds apportioned under paragraphs (5)(D) and (6) of section 104(b) of this title and set aside under section 5305(g) of title 49 shall be available to carry out this section.
 
 (j)
 
@@ -464,7 +468,7 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I,§§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374.)
 
 #### References in Text
 
@@ -482,11 +486,29 @@ A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, call
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §1202(1), substituted ", bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers" for "and bicycle transportation facilities".
+
+Subsec. (d)(1)(I), (J). Pub. L. 114–94, §1202(2)(A), added subpars. (I) and (J).
+
+Subsec. (d)(2)(A). Pub. L. 114–94, §1202(2)(B)(i), substituted "and the general purposes described in section 5301 of title 49" for "and in section 5301(c) of title 49".
+
+Subsec. (d)(2)(B)(ii), (C). Pub. L. 114–94, §1202(2)(B)(ii), (iii), struck out "urbanized" before "areas".
+
+Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §1202(3)(A), inserted "public ports," before "freight shippers," and "(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
+
+Subsec. (f)(7). Pub. L. 114–94, §1202(3)(B), substituted "shall" for "should" in introductory provisions.
+
+Subsec. (f)(8). Pub. L. 114–94, §1202(3)(C), inserted before period at end ", including consideration of the role that intercity buses may play in reducing congestion, pollution, and energy consumption in a cost-effective manner and strategies and investments that preserve and enhance intercity bus systems, including systems that are privately owned and operated".
+
+Subsec. (g)(3). Pub. L. 114–94, §1202(4), inserted "public ports," before "freight shippers" and "(including intercity bus operators)," after "private providers of transportation".
+
+Subsec. (i). Pub. L. 114–94, §1104(e)(3), substituted "paragraphs (5)(D) and (6) of section 104(b)" for "section 104(b)(5)".
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning.
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to statewide transportation planning for provisions relating to, in subsec. (a), development of plans and programs by each State, in subsec. (b), coordination of State with Federal planning, in subsec. (c), scope of planning process, in subsec. (d), additional minimum requirements for each State to consider, in subsec. (e), development of a long-range transportation plan, in subsec. (f), development of a State transportation improvement program, in subsec. (g), funding, in subsec. (h), treatment of certain State laws as congestion management systems, and, in subsec. (i), review of plans and programs under the National Environmental Policy Act of 1969.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems."
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §1204(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner that will serve all areas of the State efficiently and effectively. Subject to section 134 of this title, the State shall develop transportation plans and programs for all areas of the State. Such plans and programs shall provide for development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal State transportation system. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degreeappropriate, based on the complexity of the transportation problems."
 
 Subsec. (b). Pub. L. 105–178, §1204(b), inserted "and sections 5303 through 5305 of title 49" after "section 134 of this title".
 
@@ -514,7 +536,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted "sections 5303–5306 and
 
 <b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: "Traffic operations improvement programs", and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Congress hereby finds and declares it to be in the national interest that each State shall have acontinuing program designed to reduce traffic congestion and facilitate the flow of traffic.
+"(a) The Congress hereby finds and declares it to be in the national interest that each State shall have a continuing program designed to reduce traffic congestion and facilitate the flow of traffic.
 
 "(b) The Secretary may approve under this section any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems."
 
@@ -529,6 +551,10 @@ Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annua
 <b>1973</b>—Subsecs. (c), (d). Pub. L. 93–87 struck out subsec. (c) which provided for apportionment of sums authorized to carry out this section in accordance with section 104(b)(3) of this title, and redesignated subsec. (d) as (c).
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–605 inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title only in urban areas of more than fifty thousand population.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -552,7 +578,7 @@ Study.—The Secretary shall conduct a study on the effectiveness of the partici
 
 "(2)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study."
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report containing the results of the study with any recommendations the Secretary determines appropriate as a result of the study."
 
 #### Advanced Travel Forecasting Procedures Program
 
@@ -628,7 +654,7 @@ Establishment.—The Secretary shall establish an advanced travel forecasting pr
 
 &emsp;"(1) to provide for completion of the advanced transportation model developed under the Transportation Analysis Simulation System (referred to in this section as 'TRANSIMS'); and
 
-&emsp;"(2) to provide support for early deployment of the advanced transportation modeling computer softwareand graphics package developed under TRANSIMS and the program established under this section to States, local governments, and metropolitan planning organizations with responsibility for travel modeling.
+&emsp;"(2) to provide support for early deployment of the advanced transportation modeling computer software and graphics package developed under TRANSIMS and the program established under this section to States, local governments, and metropolitan planning organizations with responsibility for travel modeling.
 
 "(b)
 
@@ -680,11 +706,13 @@ Pub. L. 94–280, title I, §146, May 5, 1976, 90 Stat. 446, authorized the Secr
 
 #### Authorization of Appropriations
 
-Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized an appropriation of $500,000 to the Secretary for highway safety programs under this section.
+Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983,96 Stat. 2439, authorized an appropriation of $500,000 to the Secretary for highway safety programs under this section.
 
 #### Definitions
 
 For additional definitions of terms used in this section, see section 134 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

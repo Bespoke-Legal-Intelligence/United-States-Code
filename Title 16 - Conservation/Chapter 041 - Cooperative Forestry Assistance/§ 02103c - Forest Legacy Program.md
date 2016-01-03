@@ -6,7 +6,7 @@ The Secretary shall establish a program, to be known as the Forest Legacy Progra
 
 #### (b) State and regional forest legacy programs
 
-The Secretary shall exercise the authority under subsection (a) of this section in conjunction with State or regional programs that the Secretary deems consistent with this section.
+The Secretary shall exercise the authority under subsection (a) in conjunction with State or regional programs that the Secretary deems consistent with this section.
 
 #### (c) Interests in land
 
@@ -16,7 +16,7 @@ In addition to the authorities granted under section 515 of this title and secti
 
 #### (1) In general
 
-&emsp;Lands and interests therein acquired under subsection (c) of this section may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
+&emsp;Lands and interests therein acquired under subsection (c) may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
 
 #### (2) Initial programs
 
@@ -28,11 +28,11 @@ Not later than November 28, 1991, and in consultation with State Forest Stewards
 
 #### (f) Application
 
-For areas included in the Forest Legacy Program, an owner of lands or interests in landswho wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e).
 
 #### (g) State consent
 
-Where a State has not approved the acquisition of land under section 515 of this title, the Secretary shall not acquire lands or interests therein under authority granted by this section outside an area of that State designated as a part of a program established under subsection (b) of this section.
+Where a State has not approved the acquisition of land under section 515 of this title, the Secretary shall not acquire lands or interests therein under authority granted by this section outside an area of that State designated as a part of a program established under subsection (b).
 
 #### (h) Forest management activities
 
@@ -46,7 +46,7 @@ Where a State has not approved the acquisition of land under section 515 of this
 
 #### (i) Duties of owners
 
-Under the terms of a conservation easement or other property interest acquired under subsection (b) <sup>1</sup> of this section, the landowner shall be required to manage property in a manner that is consistent with the purposes for which the land was entered in the Forest Legacy Program and shall not convert such property to other uses. Hunting, fishing, hiking, and similar recreational uses shall not be considered inconsistent with the purposes of this program.
+Under the terms of a conservation easement or other property interest acquired under subsection (b),<sup>1</sup> the landowner shall be required to manage property in a manner that is consistent with the purposes for which the land was entered in the Forest Legacy Program and shall not convert such property to other uses. Hunting, fishing, hiking, and similar recreational uses shall not be considered inconsistent with the purposes of this program.
 
 #### (j) Compensation and cost sharing
 
@@ -90,7 +90,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;If a State elects to receive a grant under this subsection—
 
-&emsp;&emsp;(A) the Secretary shall use a portion of the funds made available under subsection (m) of this section, as determined by the Secretary, to provide a grant to the State; and
+&emsp;&emsp;(A) the Secretary shall use a portion of the funds made available under subsection (m), as determined by the Secretary, to provide a grant to the State; and
 
 &emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State, including the acquisition by the State of lands and interests in lands.
 
@@ -124,7 +124,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amendedPub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
 
 #### References in Text
 
@@ -146,5 +146,5 @@ Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted "Not later than Nov
 
 Subsec. (f). Pub. L. 102–237, §1018(a)(2)(C), substituted "subsection (e)" for "subsection (d)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (c),".</i>
 

@@ -152,7 +152,7 @@ Any State seeking to conduct a demonstration project under this section shall su
 
 &emsp;(6) a description of the proposed evaluation design;
 
-&emsp;(7) an accounting of any additional Federal, State, and local investments made, as well as any private investments made in coordination with the State, during the 2 fiscal years preceding the application to provide the servicesdescribed in paragraph (1), and an assurance that the State will provide an accounting of that same spending for each year of an approved demonstration project; and
+&emsp;(7) an accounting of any additional Federal, State, and local investments made, as well as any private investments made in coordination with the State, during the 2 fiscal years preceding the application to provide the services described in paragraph (1), and an assurance that the State will provide an accounting of that same spending for each year of an approved demonstration project; and
 
 &emsp;(8) such additional information as the Secretary may require.
 
@@ -174,7 +174,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 &emsp;&emsp;(A) submit periodic reports to the Secretary on the specific programs, activities, and strategies used to improve outcomes for infants, children, youth, and families and the results achieved for infants, children, and youth during the conduct of the demonstration project, including with respect to those infants, children, and youth who are prevented from entering foster care, infants, children, and youth in foster care, and infants, children, and youth who move from foster care to permanent families; and
 
-&emsp;&emsp;(B) post a copy of each such report on the website for the State child welfare program concurrent with the submission of the report to the Secretary.
+&emsp;&emsp;(B) post a copy of each such report on the website for the State child welfare programconcurrent with the submission of the report to the Secretary.
 
 #### (2) Reports to Congress
 

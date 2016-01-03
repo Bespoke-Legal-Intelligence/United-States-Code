@@ -86,7 +86,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (8) Reporting requirement
 
-&emsp;Not later than one year after December 17, 2003, and at one year intervals thereafter, the Governors of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa may provide to the Secretary of the Interior by February 1 of each year their comments with respect to the impacts of the Compacts on their respectivejurisdiction. The Secretary of the Interior, upon receipt of any such comments, shall report to the Congress not later than May 1 of each year and include the following:
+&emsp;Not later than one year after December 17, 2003, and at one year intervals thereafter, the Governors of Guam, the State of Hawaii, the Commonwealth of the Northern Mariana Islands, and American Samoa may provide to the Secretary of the Interior by February 1 of each year their comments with respect to the impacts of the Compacts on their respective jurisdiction. The Secretary of the Interior, upon receipt of any such comments, shall report to the Congress not later than May 1 of each year and include the following:
 
 &emsp;&emsp;(A) The Governor's comments on the impacts of the Compacts as well as the Administration's analysis of such impact.
 
@@ -172,11 +172,11 @@ The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 
 
 The enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003, referred to in subsec. (b)(4), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
-The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau,which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
-This resolution, referred to in subsec. (e)(6), and this Act, referred to in subsec. (e)(9)(B)(iii), are references to Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title andamended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
+This resolution, referred to in subsec. (e)(6), and this Act, referred to in subsec. (e)(9)(B)(iii), are references to Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia, referred to in subsecs. (g) and (i), is contained in section 201(a) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 

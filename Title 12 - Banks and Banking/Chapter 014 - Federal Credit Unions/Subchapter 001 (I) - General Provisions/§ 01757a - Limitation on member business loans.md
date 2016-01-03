@@ -26,7 +26,7 @@ As used in this section—
 
 &emsp;(1) the term "member business loan"—
 
-&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be usedfor a commercial, corporate or other business investment property or venture, or agricultural purpose; and
+&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be used for a commercial, corporate or other business investment property or venture, or agricultural purpose; and
 
 &emsp;&emsp;(B) does not include an extension of credit—
 

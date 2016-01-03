@@ -16,7 +16,7 @@ It is the sense of Congress that—
 
 #### (2) Required actions
 
-&emsp;In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured externaltank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).
+&emsp;In carrying out the requirement in paragraph (1), the Administrator shall authorize refurbishment of the manufactured external tank of the Space Shuttle, designated as ET–94, and take all actions necessary to enable its readiness for use in the Space Launch System development as a critical skills and capability retention effort or for test purposes, while preserving the ability to use this tank if needed for an ISS contingency if deemed necessary under paragraph (1).
 
 #### (c) Sense of Congress regarding human space flight capability assurance
 

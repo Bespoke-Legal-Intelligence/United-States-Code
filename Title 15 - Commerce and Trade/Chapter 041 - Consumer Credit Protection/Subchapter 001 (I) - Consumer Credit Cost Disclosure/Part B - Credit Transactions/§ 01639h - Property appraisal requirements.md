@@ -36,7 +36,7 @@ A creditor may not extend credit in the form of a higher-risk mortgage to any co
 
 #### (B) Exemption
 
-&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loans from the requirements of this subsection or subsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
+&emsp;&emsp;The agencies listed in subparagraph (A) may jointly exempt, by rule, a class of loansfrom the requirements of this subsection or subsection (a) if the agencies determine that the exemption is in the public interest and promotes the safety and soundness of creditors.
 
 #### (c) Free copy of appraisal
 

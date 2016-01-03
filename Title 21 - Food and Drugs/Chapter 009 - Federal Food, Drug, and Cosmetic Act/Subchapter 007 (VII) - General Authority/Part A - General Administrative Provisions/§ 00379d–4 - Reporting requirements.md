@@ -2,7 +2,7 @@
 
 #### (a) Generic drugs
 
-Beginning with fiscal year 2013 and ending after fiscal year 2017, not later than 120 days after the end of each fiscal year for which fees are collected under subpart 7 of part C, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning, for all applications for approval of a generic drug under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications filed in the previous fiscal year—
+Beginning with fiscal year 2013 and ending after fiscal year 2017, not later than 120 daysafter the end of each fiscal year for which fees are collected under subpart 7 of part C, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report concerning, for all applications for approval of a generic drug under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications filed in the previous fiscal year—
 
 &emsp;(1) the number of such applications that met the goals identified for purposes of subpart 7 of part C, in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record;
 
@@ -24,7 +24,7 @@ Beginning with fiscal year 2013 and ending after fiscal year 2017, not later tha
 
 #### (2) Additional information
 
-&emsp;As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2 <sup>1</sup> are not used toreview an application under section 262(k) of title 42.
+&emsp;As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2 <sup>1</sup> are not used to review an application under section 262(k) of title 42.
 
 (June 25, 1938, ch. 675, §715, as added and amended Pub. L. 112–144, title III, §308, title IV, §408, July 9, 2012, 126 Stat. 1025, 1039.)
 

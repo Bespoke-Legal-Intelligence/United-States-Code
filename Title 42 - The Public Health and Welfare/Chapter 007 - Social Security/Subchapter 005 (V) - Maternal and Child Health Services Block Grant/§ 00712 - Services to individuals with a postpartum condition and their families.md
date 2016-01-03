@@ -102,7 +102,7 @@ Expansion and intensification of activities.—The Secretary of Health and Human
 
 &emsp;&emsp;"(D) Clinical research for the development and evaluation of new treatments.
 
-&emsp;&emsp;"(E) Information and education programs for health care professionals and the public, which mayinclude a coordinated national campaign to increase the awareness and knowledge of postpartum conditions. Activities under such a national campaign may—
+&emsp;&emsp;"(E) Information and education programs for health care professionals and the public, which may include a coordinated national campaign to increase the awareness and knowledge of postpartum conditions. Activities under such a national campaign may—
 
 &emsp;&emsp;&emsp;"(i) include public service announcements through television, radio, and other means; and
 

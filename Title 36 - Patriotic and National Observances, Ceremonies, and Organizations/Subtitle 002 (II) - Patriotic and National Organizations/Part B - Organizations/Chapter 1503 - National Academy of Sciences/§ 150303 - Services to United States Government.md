@@ -136,7 +136,7 @@ In general.—As soon as practicable after the selection of the 2 Co-Chairperson
 
 &emsp;&emsp;"(B)
 
-Participation.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall convene a multi-sector, multi-disciplinary process to define major scientific and technical issues associated with developing, maintaining, and evolving a Key NationalIndicator System and, if an Institute is established, to provide it with scientific and technical advice.
+Participation.—In executing the arrangement under subparagraph (A), the National Academy of Sciences shall convene a multi-sector, multi-disciplinary process to define major scientific and technical issues associated with developing, maintaining, and evolving a Key National Indicator System and, if an Institute is established, to provide it with scientific and technical advice.
 
 &emsp;&emsp;"(C)
 

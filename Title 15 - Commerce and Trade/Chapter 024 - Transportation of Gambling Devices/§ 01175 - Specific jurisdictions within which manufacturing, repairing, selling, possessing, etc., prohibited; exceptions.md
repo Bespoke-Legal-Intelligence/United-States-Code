@@ -18,7 +18,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;&emsp;(ii) the gambling device remains on board that vessel while the vessel is within the boundaries of that State or possession; or
 
-&emsp;&emsp;(C) the repair, transport, possession, or use of a gambling device on a vessel on a voyagethat begins in the State of Indiana and that does not leave the territorial jurisdiction of that State, including such a voyage on Lake Michigan.
+&emsp;&emsp;(C) the repair, transport, possession, or use of a gambling device on a vessel on a voyage that begins in the State of Indiana and that does not leave the territorial jurisdiction of that State, including such a voyage on Lake Michigan.
 
 #### (2) Application to certain voyages
 

@@ -30,7 +30,7 @@ This subchapter, referred to in text, was in the original "this Act", meaning Pu
 
 #### Codification
 
-This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of 2004 which comprises this subchapter, and not as part ofthe High-Performance Computing Act of 1991 which comprises this chapter.
+This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of 2004 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Short Title
 

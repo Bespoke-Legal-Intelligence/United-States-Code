@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
+&emsp;&emsp;&emsp;If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxableyear shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
 
 #### (ii) Limitation
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 &emsp;For purposes of subsection (b)(3)—
 
-&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
+&emsp;&emsp;(A) in applying subparagraph (A) thereof, taxable income shall be computed withoutregard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
 
 &emsp;&emsp;(B) in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
 
@@ -548,7 +548,7 @@ For purposes of this section—
 
 #### (E) Only certain stock taken into account
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock istransferred in satisfaction of indebtedness and only if such indebtedness—
+&emsp;&emsp;For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
 
 &emsp;&emsp;&emsp;(i) was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
 
@@ -622,11 +622,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) such persons are members of a group of persons acting in concert.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66,title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 111–5, div. B, title I, §1262(a), Feb. 17, 2009, 123 Stat. 343; Pub. L. 113–295, div. A, title II, §221(a)(30)(D), Dec. 19, 2014, 128 Stat. 4042.)
 
 #### References in Text
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of Pub. L.110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 #### Amendments
 
@@ -704,7 +704,7 @@ Subsec. (k)(2). Pub. L. 100–647, §1006(d)(5)(B), amended par. (2) generally. 
 
 &emsp;"(B) with respect to which there is a pre-change loss described in subsection (d)(1)(B)."
 
-Subsec. (l)(3)(A)(iv), (v). Pub. L. 100–647, §1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "except to the extent provided in regulations, paragraph (4) of section 318(a) shall applyto an option if such application results in an ownership change."
+Subsec. (l)(3)(A)(iv), (v). Pub. L. 100–647, §1006(d)(6), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "except to the extent provided in regulations, paragraph (4) of section 318(a) shall apply to an option if such application results in an ownership change."
 
 Subsec. (l)(3)(C)(ii). Pub. L. 100–647, §5077(a), added subcl. (III) and concluding provisions.
 
@@ -714,7 +714,7 @@ Subsec. (l)(5)(A)(ii). Pub. L. 100–647, §1006(d)(25), substituted "stock of a
 
 Pub. L. 100–647, §1006(d)(7), substituted "after such ownership change and as a result of being shareholders or creditors immediately before such change" for "immediately after such ownership change".
 
-Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
+Subsec. (l)(5)(B). Pub. L. 100–647, §1006(d)(27), substituted "the pre-change losses and excess credits\(within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed" for "the net operating loss deduction under section 172(a) for any post-change year shall be determined".
 
 Subsec. (l)(5)(C). Pub. L. 100–647, §1006(d)(18), substituted "tax attributes" for "carryforwards" in heading and amended text generally. Prior to amendment, text read as follows: "In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if 50 percent of the amount which, but for the application of section 108(e)(10)(B), would have been includible in gross income for any taxable year had been so included."
 
@@ -780,11 +780,11 @@ Amendment by Pub. L. 103–66 applicable to stock transferred after Dec. 31, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownershipchanges and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
+Amendment by section 7205(a) of Pub. L. 101–239 applicable, except as otherwise provided, to ownership changes and acquisitions after Oct. 2, 1989, in taxable years ending after such date, see section 7205(c) of Pub. L. 101–239, set out as a note under section 56 of this title.
 
 Pub. L. 101–239, title VII, §7304(d)(2), Dec. 19, 1989, 103 Stat. 2354, provided that: "The amendments made by this subsection \[amending this section\] shall apply to acquisitions of employer securities after July 12, 1989, except that such amendments shall not apply to acquisitions after July 12, 1989, pursuant to a written binding contract in effect on July 12, 1989, and at all times thereafter before such acquisition."
 
-Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by sections 7811(c)(5)(A) and 7815(h) of Pub. L. 101–239 effective, except as otherwise provided,as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Pub. L. 101–73, title XIV, §1401(c)(2), Aug. 9, 1989, 103 Stat. 550, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall apply to transactions on or after May 10, 1989."
 
@@ -948,13 +948,13 @@ Amendment by Pub. L. 97–34 applicable to any transfer made on or after Jan. 1,
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub.L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
+Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396, provided that the amendment made by section 2(b) of Pub. L. 96–589 is to subsec. (b) as in effect before its amendment by section 806 of the Tax Reform Act of 1976, Pub. L. 94–455.
 
 Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979, in a specified manner, see section 7(a)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title VIII, §806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III, §368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, §8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, §9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, §111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, §62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, §621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
+Pub. L. 94–455, title VIII, §806(g)(2), (3), Oct. 4, 1976, 90 Stat. 1605, 1606, as amended by Pub. L. 95–600, title III,§368(a), Nov. 6, 1978, 92 Stat. 2857; Pub. L. 95–615, §8, Nov. 8, 1978, 92 Stat. 3098; Pub. L. 96–167, §9(e), Dec. 29, 1979, 93 Stat. 1279; Pub. L. 97–119, title I, §111, Dec. 29, 1981, 95 Stat. 1640; Pub. L. 98–369, div. A, title I, §62(a), July 18, 1984, 98 Stat. 583, which provided an effective date for the amendments made by section 806(e), (f) of Pub. L. 94–455 for purposes of applying sections 382(a) and 383 (as it relates to section 382(a)) of this title, was repealed by Pub. L. 99–514, title VI, §621(e)(2), (f)(2), Oct. 22, 1986, 100 Stat. 2266, eff. Jan. 1, 1986.
 
 #### Effective Date of 1964 Amendment
 

@@ -12,7 +12,7 @@ The Commission shall—
 
 &emsp;&emsp;(D) the impact of family and medical leave policies on the availability of employee benefits provided by employers, including employers not covered under this Act;
 
-&emsp;&emsp;(E) alternate and equivalent State enforcement of subchapter I of this chapter with respect to employees described in section 2618(a) of this title;
+&emsp;&emsp;(E) alternate and equivalent State enforcement of subchapter I with respect to employees described in section 2618(a) of this title;
 
 &emsp;&emsp;(F) methods used by employers to reduce administrative costs of implementing family and medical leave policies;
 

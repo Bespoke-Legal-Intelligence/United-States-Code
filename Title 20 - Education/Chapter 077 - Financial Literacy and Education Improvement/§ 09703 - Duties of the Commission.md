@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Commission, through the authority of the members referred to in section 9702(c) of this title, shall take such actions as it deems necessary to streamline, improve, or augment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
+&emsp;The Commission, through the authority of the members referred to in section 9702(c) ofthis title, shall take such actions as it deems necessary to streamline, improve, or augment the financial literacy and education programs, grants, and materials of the Federal Government, including curricula for all Americans.
 
 #### (2) Areas of emphasis
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall establish and maintain a website, such as the domain name"FinancialLiteracy.gov", or a similar domain name.
+&emsp;The Commission shall establish and maintain a website, such as the domain name "FinancialLiteracy.gov", or a similar domain name.
 
 #### (2) Purposes
 
@@ -130,7 +130,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 &emsp;&emsp;(H) information about the activities of the Commission planned for the next fiscal year;
 
-&emsp;&emsp;(I) a summary of all Federal financial literacy and education activities targeted tocommunities that have historically lacked access to financial literacy materials and education, and have been underserved by the mainstream financial systems; and
+&emsp;&emsp;(I) a summary of all Federal financial literacy and education activities targeted to communities that have historically lacked access to financial literacy materials and education, and have been underserved by the mainstream financial systems; and
 
 &emsp;&emsp;(J) such other materials relating to the duties of the Commission as the Commission deems appropriate.
 

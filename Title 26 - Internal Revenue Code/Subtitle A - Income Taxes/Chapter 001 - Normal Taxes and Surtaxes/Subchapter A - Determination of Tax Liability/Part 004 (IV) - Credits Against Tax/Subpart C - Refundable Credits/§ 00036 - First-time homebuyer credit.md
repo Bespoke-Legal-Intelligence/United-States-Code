@@ -22,7 +22,7 @@ In the case of an individual who is a first-time homebuyer of a principal reside
 
 #### (D) Special rule for long-time residents of same principal residence
 
-&emsp;&emsp;In the case of a taxpayer to whom a credit under subsection (a) is allowed by reason of subsection (c)(6), subparagraphs (A), (B), and\(C) shall be applied by substituting "$6,500" for "$8,000" and "$3,250" for "$4,000".
+&emsp;&emsp;In the case of a taxpayer to whom a credit under subsection (a) is allowed by reason of subsection (c)(6), subparagraphs (A), (B), and (C) shall be applied by substituting "$6,500" for "$8,000" and "$3,250" for "$4,000".
 
 #### (2) Limitation based on modified adjusted gross income
 
@@ -308,5 +308,5 @@ Pub. L. 111–5, div. B, title I, §1006(f), Feb. 17, 2009, 123 Stat. 317, provi
 
 #### Effective Date
 
-Section applicable to residences purchased on or after Apr. 9, 2008, in taxable years ending on or after such date, see section 3011(c) of Pub. L. 110–289, set out as anEffective Date of 2008 Amendment note under section 26 of this title.
+Section applicable to residences purchased on or after Apr. 9, 2008, in taxable years ending on or after such date, see section 3011(c) of Pub. L. 110–289, set out as an Effective Date of 2008 Amendment note under section 26 of this title.
 

@@ -44,5 +44,5 @@ As originally enacted, par. Third (b) contained a reference to the "circuit cour
 
 #### Amendments
 
-<b>1934</b>—Act June 21, 1934, amended generally par. First and par. Second, (e) and (f).
+<b>1934</b>—Act June 21, 1934, amended generally par. First and par. Third, (e) and (f).
 

@@ -44,7 +44,7 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 &emsp;Notwithstanding any other provision of this subchapter, in relation to applications under section 3796dd(b) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
-(Pub. L. 90–351, title I, §1702, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1811; amended Pub. L. 109–162, title XI, §§1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
+(Pub. L. 90–351, title I, §1702, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108Stat. 1811; amended Pub. L. 109–162, title XI, §§1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
 
 #### Amendments
 

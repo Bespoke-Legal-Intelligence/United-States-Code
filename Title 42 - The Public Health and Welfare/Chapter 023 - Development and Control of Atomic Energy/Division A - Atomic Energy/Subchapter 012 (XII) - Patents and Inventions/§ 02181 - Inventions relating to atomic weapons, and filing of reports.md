@@ -2,7 +2,7 @@
 
 #### (a) Denial of patent; revocation of prior patents
 
-No patent shall hereafter be granted for any invention or discovery which is useful solely in the utilization of special nuclear material or atomic energy in an atomic weapon. Any patent granted for any such invention or discovery is revoked, and just compensation shall be made therefor.
+No patent shall hereafter be granted for any invention or discovery which is useful solely in the utilization of special nuclear material or atomic energy in an atomic weapon. Any patent granted for any such invention or discovery isrevoked, and just compensation shall be made therefor.
 
 #### (b) Denial of rights; revocation of prior rights
 

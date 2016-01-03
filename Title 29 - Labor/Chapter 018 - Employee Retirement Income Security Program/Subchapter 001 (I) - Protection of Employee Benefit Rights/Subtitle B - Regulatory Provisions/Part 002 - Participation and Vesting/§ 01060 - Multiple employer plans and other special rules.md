@@ -221,7 +221,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (A) In general
 
-&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (withoutregard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
+&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
 
 #### (B) Special rule
 
@@ -265,7 +265,7 @@ Amendments by Pub. L. 113–235 effective as if included in the amendments made 
 
 Amendment by section 101 of Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 401 of Title 26, Internal Revenue Code\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
+Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 401 of Title 26, Internal RevenueCode\] shall apply as of the date of enactment of this Act \[Apr. 7, 2014\]."
 
 #### Effective Date of 2008 Amendment
 

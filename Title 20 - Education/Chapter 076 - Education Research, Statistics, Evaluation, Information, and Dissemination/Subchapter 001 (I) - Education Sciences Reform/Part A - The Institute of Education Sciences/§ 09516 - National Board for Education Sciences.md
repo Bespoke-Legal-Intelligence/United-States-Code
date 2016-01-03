@@ -150,7 +150,7 @@ The duties of the Board shall be the following:
 
 &emsp;A majority of the members of each standing committee shall be voting members of the Board whose expertise is needed for the functioning of the committee. In addition, the membership of each standing committee may include, as appropriate—
 
-&emsp;&emsp;(A) experts and scientists in research, statistics, evaluation, or development who arerecognized in their discipline as highly qualified to represent such discipline and who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board;
+&emsp;&emsp;(A) experts and scientists in research, statistics, evaluation, or development who are recognized in their discipline as highly qualified to represent such discipline and who are not members of the Board, but who may have been recommended by the Commissioner of the appropriate National Education Center and approved by the Board;
 
 &emsp;&emsp;(B) ex officio members of the Board; and
 
@@ -164,7 +164,7 @@ The duties of the Board shall be the following:
 
 &emsp;&emsp;(B) prepare for, and submit to, the Board an annual evaluation of the operations of the applicable National Education Center;
 
-&emsp;&emsp;(C) review and comment on the relevant plan for activities to be undertaken by the applicable National Education Center for each fiscal year; and
+&emsp;&emsp;(C) review and comment on the relevant plan for activities to be undertaken by theapplicable National Education Center for each fiscal year; and
 
 &emsp;&emsp;(D) report periodically to the Board regarding the activities of the committee and the applicable National Education Center.
 
@@ -182,7 +182,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

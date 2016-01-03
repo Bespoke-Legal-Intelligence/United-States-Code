@@ -12,7 +12,7 @@
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8451, the procedures under section 7701 shall apply and the decision of the Board shall be subject to judicial review under section 7703.
 
-(f) The Office shall fix the fees for examinations made under subchapter V of this chapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering the provisions of this chapter administered by the Office.
+(f) The Office shall fix the fees for examinations made under subchapter V of this chapterby physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering the provisions of this chapter administered by the Office.
 
 (g) The Office may prescribe regulations to carry out the provisions of this chapter administered by the Office.
 
@@ -78,7 +78,7 @@
 
 &emsp;(D) is not eligible to make an election under section 8347(q),
 
-> shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current ormost recent employment described by section 2105(c) rather than be subject to this chapter.
+> shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(b), Dec. 28, 2001, 115 Stat. 1242.)
 

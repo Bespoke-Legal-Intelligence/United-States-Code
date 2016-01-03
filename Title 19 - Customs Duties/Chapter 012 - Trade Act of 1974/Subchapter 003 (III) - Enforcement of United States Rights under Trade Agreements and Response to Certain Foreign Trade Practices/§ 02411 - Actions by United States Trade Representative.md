@@ -8,11 +8,11 @@
 
 &emsp;(B) an act, policy, or practice of a foreign country—
 
-&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or
+&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits tothe United States under, any trade agreement, or
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
-> the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+> the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
@@ -50,11 +50,11 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(1) an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
 
-&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c), subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 #### (c) Scope of authority
 
-(1) For purposes of carrying out the provisions of subsection (a) or (b) of this section, the Trade Representative is authorized to—
+(1) For purposes of carrying out the provisions of subsection (a) or (b), the Trade Representative is authorized to—
 
 &emsp;(A) suspend, withdraw, or prevent the application of, benefits of trade agreement concessions to carry out a trade agreement with the foreign country referred to in such subsection;
 
@@ -64,7 +64,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(D) enter into binding agreements with such foreign country that commit such foreign country to—
 
-&emsp;&emsp;(i) eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section,
+&emsp;&emsp;(i) eliminate, or phase out, the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b),
 
 &emsp;&emsp;(ii) eliminate any burden or restriction on United States commerce resulting from such act, policy, or practice, or
 
@@ -74,7 +74,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;&emsp;&emsp;(II) meet the requirements of paragraph (4).
 
-(2)(A) Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b) of this section—
+(2)(A) Notwithstanding any other provision of law governing any service sector access authorization, and in addition to the authority conferred in paragraph (1), the Trade Representative may, for purposes of carrying out the provisions of subsection (a) or (b)—
 
 &emsp;(i) restrict, in the manner and to the extent the Trade Representative determines appropriate, the terms and conditions of any such authorization, or
 
@@ -88,19 +88,19 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 (C) Before the Trade Representative takes any action under this section involving the imposition of fees or other restrictions on the services of a foreign country, the Trade Representative shall, if the services involved are subject to regulation by any agency of the Federal Government or of any State, consult, as appropriate, with the head of the agency concerned.
 
-(3) The actions the Trade Representative is authorized to take under subsection (a) or (b) of this section may be taken against any goods or economic sector—
+(3) The actions the Trade Representative is authorized to take under subsection (a) or (b) may be taken against any goods or economic sector—
 
 &emsp;(A) on a nondiscriminatory basis or solely against the foreign country described in such subsection, and
 
 &emsp;(B) without regard to whether or not such goods or economic sector were involved in the act, policy, or practice that is the subject of such action.
 
-(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b), or benefit the economic sector as closely related as possible to such economic sector, unless—
 
 &emsp;(A) the provision of such trade benefits is not feasible, or
 
 &emsp;(B) trade benefits that benefit any other economic sector would be more satisfactory than such trade benefits.
 
-(5) If the Trade Representative determines that actions to be taken under subsection (a) or (b) of this section are to be in the form of import restrictions, the Trade Representative shall—
+(5) If the Trade Representative determines that actions to be taken under subsection (a) or (b) are to be in the form of import restrictions, the Trade Representative shall—
 
 &emsp;(A) give preference to the imposition of duties over the imposition of other import restrictions, and
 
@@ -176,7 +176,7 @@ For purposes of this subchapter—
 
 &emsp;(8) The term "Trade Representative" means the United States Trade Representative.
 
-&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
+&emsp;(9) The term "interested persons", only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b).
 
 (Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
 
@@ -208,7 +208,7 @@ Subsec. (d)(3)(F). Pub. L. 103–465, §314(c)(2), added subpar. (F).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to actions by United States Trade Representative for provisions relating to determinations and action by President.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §304(a), amended subsec. (a) generally, which prior to amendment provided that if the President determines that action by the United States is appropriate (1) to enforce the rights of the United States under any trade agreement; or (2) to respond to any act, policy, or practice of a foreign country or instrumentality that (A) is inconsistentwith the provisions of, or otherwise denies benefits to the United States under, any trade agreement, or (B) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce; the President shall take all appropriate and feasible action within his power to enforce such rights or to obtain the elimination of such act, policy, or practice and that action under this section may be taken on a nondiscriminatory basis or solely against the products or services of the foreign country or instrumentality involved.
 
 Subsec. (b)(1). Pub. L. 98–573, §304(b)(1), struck out "and" at end.
 
@@ -270,11 +270,11 @@ Sec. 2. <i>Rationale</i>: (a) This order finds that:
 
 (4) the United States should work with individual countries in sub-Saharan Africa to assist them in development of effective public education campaigns aimed at the prevention of HIV/AIDS transmission and infection, and to improve their health care infrastructure to promote improved access to quality health care for their citizens in general, and particularly with respect to the HIV/AIDS epidemic;
 
-(5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term on preventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
+(5) an effective United States response to the crisis in sub-Saharan Africa must focus in the short term onpreventive programs designed to reduce the frequency of new infections and remove the stigma of the disease, and should place a priority on basic health services that can be used to treat opportunistic infections, sexually transmitted infections, and complications associated with HIV/AIDS so as to prolong the duration and improve the quality of life of those with the disease;
 
 (6) an effective United States response to the crisis must also focus on the development of HIV/AIDS vaccines to prevent the spread of the disease;
 
-(7) the innovative capacity of the United States in the commercial and public pharmaceutical researchsectors is unmatched in the world, and the participation of both these sectors will be a critical element in any successful program to respond to the HIV/AIDS crisis in sub-Saharan Africa;
+(7) the innovative capacity of the United States in the commercial and public pharmaceutical research sectors is unmatched in the world, and the participation of both these sectors will be a critical element in any successful program to respond to the HIV/AIDS crisis in sub-Saharan Africa;
 
 (8) the TRIPS Agreement recognizes the importance of promoting effective and adequate protection of intellectual property rights and the right of countries to adopt measures necessary to protect public health;
 

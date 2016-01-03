@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as "first corporation") is owned,directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as "first corporation") is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -252,7 +252,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;&emsp;Any amount in the account as of the close of the 20th year referred to in subparagraph (C) shall be treated as the applicable portion for each succeeding year thereafter to the extent not reduced under this paragraph for any prior taxable year after such 20th year.
 
-(Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(l)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330–397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949.)
+(Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(l)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330-397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949.)
 
 #### Amendments
 
@@ -400,7 +400,7 @@ Taxpayer May Not Be Required To Inventory Growing Crops.—A taxpayer to whom th
 
 "(c)
 
-Taxpayer May Elect To Change To Cash Method.—A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts anddisbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
+Taxpayer May Elect To Change To Cash Method.—A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts and disbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
 
 "(d)
 

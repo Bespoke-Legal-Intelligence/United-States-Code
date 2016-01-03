@@ -1,6 +1,6 @@
 ### §1031. Repeal and effective date
 
-(a)(1) The Welfare and Pension Plans Disclosure Act \[29 U.S.C. 301 et seq.\] is repealed except that such Act shall continue to apply to any conduct and events which occurred before the effective date of this part.
+(a)(1) The Welfare and Pension Plans Disclosure Act \[29 U.S.C. 301 et seq.\] is repealed exceptthat such Act shall continue to apply to any conduct and events which occurred before the effective date of this part.
 
 (2)(A) Section 664 of title 18 is amended by striking out "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "any employee benefit plan subject to any provisions of title I of the Employee Retirement Income Security Act of 1974".
 
@@ -20,7 +20,7 @@ employee retirement income security act of 1974".
 
 (b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a) of this section) shall take effect on January 1, 1975.
 
-(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendmentmade by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
+(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2) of this section) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
 (c) The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 

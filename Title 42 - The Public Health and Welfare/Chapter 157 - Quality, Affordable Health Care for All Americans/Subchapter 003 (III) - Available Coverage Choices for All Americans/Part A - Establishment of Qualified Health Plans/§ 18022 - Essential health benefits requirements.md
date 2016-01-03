@@ -60,7 +60,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;(C) take into account the health care needs of diverse segments of the population, including women, children, persons with disabilities, and other groups;
 
-&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals' age or expected length of life or of the individuals' present or predicted disability, degree of medical dependency, or quality of life;
+&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals' age or expected length oflife or of the individuals' present or predicted disability, degree of medical dependency, or quality of life;
 
 &emsp;&emsp;(E) provide that a qualified health plan shall not be treated as providing coverage for the essential health benefits described in paragraph (1) unless the plan provides that—
 
@@ -134,7 +134,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 #### (A) Bronze level
 
-&emsp;&emsp;A plan in the bronze level shall provide a level of coverage that is designed to provide benefits that are actuarially equivalent to 60 percent of the full actuarial value of the benefits provided under the plan.
+&emsp;&emsp;A plan in the bronze level shall provide a level of coverage that is designed to providebenefits that are actuarially equivalent to 60 percent of the full actuarial value of the benefits provided under the plan.
 
 #### (B) Silver level
 
@@ -214,7 +214,7 @@ If any item or service covered by a qualified health plan is provided by a Feder
 
 This title, referred to in subsecs. (a), (b)(5), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (d)(2)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 201 of this title and Tables.
 
 Section 2713, referred to in subsec. (e)(1)(B)(i), probably means section 2713 of act July 1, 1944, which is classified to section 300gg–13 of this title.
 

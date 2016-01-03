@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall provide Violent Offender Incarceration grants under section 13703 of this title and Truth-in-Sentencing Incentive grants under section 13704 of this title to eligible States—
+The Attorney General shall provide Violent Offender Incarceration grants under section13703 of this title and Truth-in-Sentencing Incentive grants under section 13704 of this title to eligible States—
 
 &emsp;(1) to build or expand correctional facilities to increase the bed capacity for the confinement of persons convicted of a part 1 violent crime or adjudicated delinquent for an act which if committed by an adult, would be a part 1 violent crime;
 

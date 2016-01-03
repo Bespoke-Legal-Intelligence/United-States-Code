@@ -46,7 +46,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall establi
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall make the advance payment under this section ofany premium tax credit allowed under section 36B of title 26 to the issuer of a qualified health plan on a monthly basis (or such other periodic basis as the Secretary may provide).
+&emsp;&emsp;The Secretary of the Treasury shall make the advance payment under this section of any premium tax credit allowed under section 36B of title 26 to the issuer of a qualified health plan on a monthly basis (or such other periodic basis as the Secretary may provide).
 
 #### (B) Issuer responsibilities
 
@@ -66,7 +66,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall establi
 
 #### (3) Cost-sharing reductions
 
-&emsp;The Secretary shall also notify the Secretary of the Treasury and the Exchange under paragraph (1) if an advance payment of the cost-sharing reductions under section 18071 of this title is to be made to the issuer of any qualified health plan with respect to any individual enrolled in the plan. The Secretary of the Treasury shall make such advance payment at such time and in such amount as the Secretary specifies in the notice.
+&emsp;The Secretary shall also notify the Secretary of the Treasury and the Exchange under paragraph (1) if an advance payment ofthe cost-sharing reductions under section 18071 of this title is to be made to the issuer of any qualified health plan with respect to any individual enrolled in the plan. The Secretary of the Treasury shall make such advance payment at such time and in such amount as the Secretary specifies in the notice.
 
 #### (d) No Federal payments for individuals not lawfully present
 

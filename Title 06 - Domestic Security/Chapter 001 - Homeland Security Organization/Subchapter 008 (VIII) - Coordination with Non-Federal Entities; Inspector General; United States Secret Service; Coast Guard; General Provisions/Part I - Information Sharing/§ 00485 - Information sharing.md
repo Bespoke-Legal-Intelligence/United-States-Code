@@ -252,7 +252,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(H) the measures taken by the Federal government to ensure the accuracy of information in the ISE, in particular the accuracy of information about individuals;
 
-&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, including actions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
+&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, includingactions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
 
 &emsp;&emsp;(J) an assessment of the security protections used in the ISE.
 
@@ -316,7 +316,7 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
 
-This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known asthe National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -370,7 +370,7 @@ Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and s
 
 #### Effective Date
 
-For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
+For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
@@ -420,7 +420,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies asheads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
 (iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;" \[not set out in the Code\]
 

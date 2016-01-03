@@ -134,7 +134,7 @@ Sec. 4. <i>Functions of the Interagency Transportation Coordinating Council</i>.
 
 (e) develop and implement a method for monitoring progress on achieving the goals of this order.
 
-Sec. 5. <i>Report</i>. In performing its functions, the Interagency Transportation Coordinating Council shall present to me a report not later than 1 calendar year from the date of this order. The report shall:
+Sec. 5. <i>Report</i>. In performing its functions, the Interagency Transportation Coordinating Council shallpresent to me a report not later than 1 calendar year from the date of this order. The report shall:
 
 (a) Identify those Federal, State, Tribal and local laws, regulations, procedures, and actions that have proven to be most useful and appropriate in coordinating transportation services for the targeted populations;
 

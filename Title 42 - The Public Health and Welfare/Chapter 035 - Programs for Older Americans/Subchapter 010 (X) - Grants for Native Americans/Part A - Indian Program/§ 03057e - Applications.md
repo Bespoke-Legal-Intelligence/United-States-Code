@@ -38,7 +38,7 @@ For the purpose of any application submitted under this part, the tribal organiz
 
 (3) The Assistant Secretary shall approve any application that complies with the provisions of subsection (a) of this section, except that in determining whether an application complies with the requirements of subsection (a)(8) of this section, the Assistant Secretary shall provide maximum flexibility to an applicant that seeks to take into account subsistence needs, local customs, and other characteristics that are appropriate to the unique cultural, regional, and geographic needs of the Indian populations to be served.
 
-(4) In determining whether an application complies with the requirements of subsection (a)(12) <sup>1</sup> of this section, the Assistant Secretary shall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
+(4) In determining whether an application complies with the requirements of subsection (a)(12) <sup>1</sup> of this section, the Assistant Secretaryshall require only that an applicant provide an appropriate narrative description of the geographic area to be served and an assurance that procedures will be adopted to ensure against duplicate services being provided to the same recipients.
 
 #### (d) Disapproval by Assistant Secretary
 

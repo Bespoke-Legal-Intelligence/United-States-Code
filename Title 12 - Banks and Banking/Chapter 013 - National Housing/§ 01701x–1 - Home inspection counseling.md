@@ -16,7 +16,7 @@
 
 #### (2) Availability
 
-&emsp;The Secretary shall make the materials specified in paragraph (1) available for electronic access and, where appropriate, inform potential homebuyers of such availability through home purchase counseling public service announcements and toll-free telephone hotlines of the Department of Housing and Urban Development. The Secretary shall give special emphasis to reaching first-time and low-income homebuyers with these materials and efforts.
+&emsp;The Secretary shall make the materials specified in paragraph (1) available for electronic access and, where appropriate, inform potential homebuyers of such availability through home purchase counseling public service announcements and toll-free telephone hotlines of the Department of Housing and Urban Development. The Secretary shall givespecial emphasis to reaching first-time and low-income homebuyers with these materials and efforts.
 
 #### (3) Updating
 

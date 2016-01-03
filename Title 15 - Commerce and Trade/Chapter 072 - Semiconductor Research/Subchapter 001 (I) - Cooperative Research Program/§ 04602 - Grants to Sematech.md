@@ -2,7 +2,7 @@
 
 #### (a) Authority to make grants
 
-The Secretary of Defense shall make grants, in accordance with section 6304 of title 31, to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b) of this section.
+The Secretary of Defense shall make grants, in accordance with section 6304 of title 31, to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b).
 
 #### (b) Memorandum of understanding
 
@@ -26,7 +26,7 @@ The Secretary of Defense shall enter into a memorandum of understanding with Sem
 
 #### (c) Construction of memorandum of understanding
 
-The memorandum of understanding entered into under subsection (b) of this section shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including section 2306a of title 10, section 2168 of the Appendix to title 50, and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
+The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including section 2306a of title 10, section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),<sup>1</sup> and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 
 #### (d) Funding for FY88
 
@@ -34,7 +34,13 @@ Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for res
 
 (Pub. L. 100–180, div. A, title II, §272, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(2), Nov. 30, 1993, 107 Stat. 1610.)
 
+#### References in Text
+
+Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, §103, Aug. 15, 1970, 84 Stat. 796, which was formerly classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.
+
 #### Amendments
 
 <b>1993</b>—Subsec. (b)(1)(B). Pub. L. 103–160 substituted "Semiconductor Technology Council" for "Advisory Council on Federal Participation in Sematech".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

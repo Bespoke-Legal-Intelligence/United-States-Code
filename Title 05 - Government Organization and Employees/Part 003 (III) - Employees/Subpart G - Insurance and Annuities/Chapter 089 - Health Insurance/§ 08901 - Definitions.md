@@ -272,7 +272,7 @@ Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: "This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902,8902a, 8903b, and 8909 of this title\] may be cited as the 'Federal Employees Health Care Protection Act of 1998'."
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: "This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the 'Federal Employees Health Care Protection Act of 1998'."
 
 #### Short Title of 1988 Amendment
 
@@ -434,7 +434,7 @@ Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 &emsp;&emsp;"(A) a period of notice and open enrollment for individuals affected by this section; and
 
-&emsp;&emsp;"(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter 89 of title 5, United States Code, in accordance with this section; and
+&emsp;&emsp;"(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter89 of title 5, United States Code, in accordance with this section; and
 
 &emsp;"(2) may prescribe regulations to implement this section."
 

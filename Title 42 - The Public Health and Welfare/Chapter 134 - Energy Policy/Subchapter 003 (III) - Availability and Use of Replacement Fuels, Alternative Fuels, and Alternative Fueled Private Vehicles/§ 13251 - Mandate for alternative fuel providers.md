@@ -36,7 +36,7 @@
 
 (4) The vehicles purchased pursuant to this section shall be operated solely on alternative fuels except when operating in an area where the appropriate alternative fuel is unavailable.
 
-(5) Regulations issued under paragraph (1) shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, from the requirements of paragraph (1) of any covered person, in whole or in part, ifsuch person demonstrates to the satisfaction of the Secretary that—
+(5) Regulations issued under paragraph (1) shall provide for the prompt exemption by the Secretary, through a simple and reasonable process, from the requirements of paragraph (1) of any covered person, in whole or in part, if such person demonstrates to the satisfaction of the Secretary that—
 
 &emsp;(A) alternative fueled vehicles that meet the normal requirements and practices of the principal business of that person are not reasonably available for acquisition; or
 

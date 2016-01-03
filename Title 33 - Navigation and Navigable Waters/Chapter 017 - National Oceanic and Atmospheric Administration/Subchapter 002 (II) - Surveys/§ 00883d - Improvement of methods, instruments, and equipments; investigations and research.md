@@ -1,6 +1,6 @@
 ### §883d. Improvement of methods, instruments, and equipments; investigations and research
 
-To improve the efficiency of the National Ocean Survey and to increase engineering andscientific knowledge, the Secretary of Commerce is authorized to conduct developmental work for the improvement of surveying and cartographic methods, instruments, and equipments; and to conduct investigations and research in geophysical sciences (including geodesy, oceanography, seismology, and geomagnetism).
+To improve the efficiency of the National Ocean Survey and to increase engineering and scientific knowledge, the Secretary of Commerce is authorized to conduct developmental work for the improvement of surveying and cartographic methods, instruments, and equipments; and to conduct investigations and research in geophysical sciences (including geodesy, oceanography, seismology, and geomagnetism).
 
 (Aug. 6, 1947, ch. 504, §4, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 

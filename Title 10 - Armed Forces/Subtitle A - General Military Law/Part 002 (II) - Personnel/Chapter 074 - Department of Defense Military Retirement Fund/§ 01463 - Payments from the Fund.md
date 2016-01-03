@@ -14,7 +14,11 @@
 
 (b) The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, §633(a)(3), Nov. 25, 2015, 129 Stat. 850.)
+
+#### Amendment of Subsection (a)(1)
+
+<i>Pub. L. 114–92, div. A, title VI, §§633(a)(3), 635, Nov. 25, 2015, 129 Stat. 850, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(1) of this section is amended by striking "or 1414" and inserting ", 1414, or 1415". See 2015 Amendment note below.</i>
 
 #### References in Text
 
@@ -23,6 +27,8 @@ Section 4 of Public Law 92–425, referred to in subsec. (a)(4), is set out as a
 Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a note under section 1448 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–92 substituted ", 1414, or 1415" for "or 1414".
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted "1413a" for "1413, 1413a,".
 
@@ -38,13 +44,17 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "members" for "persons" in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under section 1413a of this title.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 

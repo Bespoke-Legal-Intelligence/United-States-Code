@@ -98,7 +98,7 @@
 
 &emsp;(iii) was adopted outside of the United States or was brought into the United States for the purpose of being adopted.
 
-(B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure,as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
+(B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure, as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
 
 (8)(A) A State shall calculate the savings (if any) resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, using a methodology specified by the Secretary or an alternate methodology proposed by the State and approved by the Secretary.
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means achild for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
+&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
 
 #### (B) Applicable age
 
@@ -288,7 +288,7 @@ Subsec. (a)(2)(C). Pub. L. 110–351, §402(1)(A)(ii), substituted "if—" for "
 
 Subsec. (a)(2)(D). Pub. L. 110–351, §101(c)(1), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 110–351, §201(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receivingany support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount."
+Subsec. (a)(4). Pub. L. 110–351, §201(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Notwithstanding the preceding paragraph, (A) no payment may be made to parents with respect to any child who has attained the age of eighteen (or, where the State determines that the child has a mental or physical handicap which warrants the continuation of assistance, the age of twenty-one), and (B) no payment may be made to parents with respect to any child if the State determines that the parents are no longer legally responsible for the support of the child or if the State determines that the child is no longer receiving any support from such parents. Parents who have been receiving adoption assistance payments under this section shall keep the State or local agency administering the program under this section informed of circumstances which would, pursuant to this subsection, make them ineligible for such assistance payments, or eligible for assistance payments in a different amount."
 
 Subsec. (a)(7), (8). Pub. L. 110–351, §402(1)(B), added pars. (7) and (8).
 

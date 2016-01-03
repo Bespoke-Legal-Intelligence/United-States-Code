@@ -84,7 +84,7 @@ In this chapter, the following definitions shall apply:
 
 #### (15) Residential mortgage transaction
 
-&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29,1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
+&emsp;The term "residential mortgage transaction" means a transaction consummated on or after the date that is 1 year after July 29, 1998, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.
 
 #### (16) Servicer
 
@@ -150,7 +150,7 @@ Pars. (17), (18). Pub. L. 106–569, §402(a)(1)(C), redesignated pars. (15) and
 
 #### Effective Date
 
-Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: "This Act \[enacting this chapter and amending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\]."
+Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: "This Act \[enacting this chapter andamending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\]."
 
 #### Short Title of 2000 Amendment
 

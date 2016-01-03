@@ -6,7 +6,7 @@ For purposes of this section, the term "business or institutional logogram" mean
 
 #### (b) Permitted uses
 
-Each public television station and each public radio station shall be authorized to broadcast announcements which include the use of any business or institutional logogram and which include a reference to the location of the corporation, company, or other organization involved,except that such announcements may not interrupt regular programming.
+Each public television station and each public radio station shall be authorized to broadcast announcements which include the use of any business or institutional logogram and which include a reference to the location of the corporation, company, or other organization involved, except that such announcements may not interrupt regular programming.
 
 #### (c) Authority of Commission not limited
 

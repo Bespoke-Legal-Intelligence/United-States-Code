@@ -36,7 +36,7 @@ Contents of Plans.—A plan to be submitted by a rail passenger carrier under su
 
 (c)
 
-Use of Information.—Neither the National Transportation Safety Board, the Secretary of Transportation, the Secretary of Homeland Security, nor a rail passenger carrier may release to the public any personal information on a list obtained under subsection (b)(1), but may provide information on the list about a passenger to the passenger's family members to the extent that the Board or a rail passenger carrier considers appropriate.
+Use of Information.—Neither the National Transportation Safety Board, the Secretary of Transportation, the Secretary of Homeland Security, nor a rail passenger carrier may release to the public any personal information on a list obtained under subsection (b)(1), but may provide information on the list about a passenger to the passenger's family members to the extentthat the Board or a rail passenger carrier considers appropriate.
 
 (d)
 
@@ -44,7 +44,7 @@ Limitation on Statutory Construction.—
 
 &emsp;(1)
 
-Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carriermay have, in providing assistance to the families of passengers involved in a rail passenger accident.
+Rail passenger carriers.—Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
 
 &emsp;(2)
 

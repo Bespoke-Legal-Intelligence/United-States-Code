@@ -22,7 +22,7 @@ Eligible Facilities.—Except as provided in subsection (d), to be eligible for 
 
 Eligible Projects.—Funds apportioned to a State to carry out the national highway performance program may be obligated only for a project on an eligible facility that is—
 
-&emsp;(1)(A) a project or part of a program of projects supporting progress toward the achievement of national performance goals for improving infrastructure condition, safety, mobility, or freight movement on the National Highway System; and
+&emsp;(1)(A) a project or part of a program of projects supporting progress toward the achievement of national performance goals for improving infrastructure condition, safety, congestion reduction, system reliability, or freight movement on the National Highway System; and
 
 &emsp;(B) consistent with sections 134 and 135; and
 
@@ -56,7 +56,7 @@ Eligible Projects.—Funds apportioned to a State to carry out the national high
 
 &emsp;&emsp;(K) Development and implementation of a State asset management plan for the National Highway System in accordance with this section, including data collection, maintenance, and integration and the cost associated with obtaining, updating, and licensing software and equipment required for risk-based asset management and performance-based management.
 
-&emsp;&emsp;(L) Infrastructure-based intelligent transportation systems capital improvements.
+&emsp;&emsp;(L) Infrastructure-based intelligent transportation systems capital improvements, including the installation of vehicle-to-infrastructure communication equipment.
 
 &emsp;&emsp;(M) Environmental restoration and pollution abatement in accordance with section 328.
 
@@ -130,7 +130,7 @@ Opportunity to cure.—If the Secretary denies certification under subparagraph 
 
 &emsp;(7)
 
-Performance achievement.—A State that does not achieve or make significant progress toward achieving the targets of the State for performance measures described in section 150(d) for the National Highway System for 2 consecutive reports submitted under this paragraph shall include in the next report submitted a description of the actions the State will undertake to achieve the targets.
+Performance achievement.—A State that does not achieve or make significant progress toward achieving the targets of the State for performance measures described in section 150(d) for the National Highway System shall include as part of the performance target report under section 150(e) a description of the actions the State will undertake to achieve the targets.
 
 &emsp;(8)
 
@@ -146,7 +146,7 @@ Condition of interstate system.—
 
 &emsp;&emsp;(A)
 
-Penalty.—If, during 2 consecutive reporting periods, the condition of the Interstate System, excluding bridges on the Interstate System, in a State falls below the minimum condition level established by the Secretary under section 150(c)(3), the State shall be required, during the following fiscal year—
+Penalty.—If a State reports that the condition of the Interstate System, excluding bridges on the Interstate System, has fallen below the minimum condition level established by the Secretary under section 150(c)(3), the State shall be required, during the following fiscal year—
 
 &emsp;&emsp;&emsp;(i) to obligate, from the amounts apportioned to the State under section 104(b)(1), an amount that is not less than the amount of funds apportioned to the State for fiscal year 2009 under the Interstate maintenance program for the purposes described in this section (as in effect on the day before the date of enactment of the MAP–21), except that for each year after fiscal year 2013, the amount required to be obligated under this clause shall be increased by 2 percent over the amount required to be obligated in the previous fiscal year; and
 
@@ -206,9 +206,41 @@ Terms and conditions.—The following terms and conditions apply to natural habi
 
 &emsp;(4)
 
-Preference.—At the discretion of the project sponsor, preference shall be given, to the maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project, is approved by the applicable Federal agency.
+Preference.—At the discretion of the project sponsor, preference shall be given, tothe maximum extent practicable, to mitigating an environmental impact through the use of a mitigation bank, in-lieu fee, or other third-party mitigation arrangement, if the use of credits from the mitigation bank or in-lieu fee, or the other third-party mitigation arrangement for the project, is approved by the applicable Federal agency.
 
-(Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19,1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(l) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836; Pub. L. 112–141, div. A, title I, §1106(a), July 6, 2012, 126 Stat. 432.)
+(h)
+
+TIFIA Program.—Upon Secretarial approval of credit assistance under chapter 6, the Secretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+
+(i)
+
+Additional Funding Eligibility for Certain Bridges.—
+
+&emsp;(1)
+
+In general.—Funds apportioned to a State to carry out the national highway performance program may be obligated for a project for the reconstruction, resurfacing, restoration, rehabilitation, or preservation of a bridge not on the National Highway System, if the bridge is on a Federal-aid highway.
+
+&emsp;(2)
+
+Limitation.—A State required to make obligations under subsection (f) shall ensure such requirements are satisfied in order to use the flexibility under paragraph (1).
+
+(j)
+
+Critical Infrastructure.—
+
+&emsp;(1)
+
+Critical infrastructure defined.—In this subsection, the term "critical infrastructure" means those facilities the incapacity or failure of which would have a debilitating impact on national or regional economic security, national or regional energy security, national or regional public health or safety, or any combination of those matters.
+
+&emsp;(2)
+
+Consideration.—The asset management plan of a State may include consideration of critical infrastructure from among those facilities in the State that are eligible under subsection (c).
+
+&emsp;(3)
+
+Risk reduction.—A State may use funds apportioned under this section for projects intended to reduce the risk of failure of critical infrastructure in the State.
+
+(Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(l) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836; Pub. L. 112–141, div. A, title I, §1106(a), July 6, 2012, 126 Stat. 432; Pub. L. 114–94, div. A, title I, §§1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, 129 Stat. 1337, 1410, 1437.)
 
 #### References in Text
 
@@ -222,13 +254,23 @@ A prior section 119, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899, related to a
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d)(1)(A). Pub. L. 114–94, §1446(a)(1), substituted "congestion reduction, system reliability," for "mobility,".
+
+Subsec. (d)(2)(L). Pub. L. 114–94, §1407(a), inserted ", including the installation of vehicle-to-infrastructure communication equipment" after "capital improvements".
+
+Subsec. (e)(7). Pub. L. 114–94, §1406(a)(1), substituted "shall include as part of the performance target report under section 150(e)" for "for 2 consecutive reports submitted under this paragraph shall include in the next report submitted".
+
+Subsec. (f)(1)(A). Pub. L. 114–94, §1406(a)(2), substituted "If a State reports that the condition of the Interstate System, excluding bridges on the Interstate System, has fallen" for "If, during 2 consecutive reporting periods, the condition of the Interstate System, excluding bridges on the Interstate System, in a State falls" in introductory provisions.
+
+Subsecs. (h) to (j). Pub. L. 114–94, §1106, added subsecs. (h) to (j).
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to interstate maintenance program.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §1107(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary may approve projects for resurfacing, restoring and rehabilitating routes on the Interstate System designated under sections 103 and 139(c) of this title and routes on the Interstate System designated before the date of enactment of this sentence under section 139(a) and (b) of this title; except that the Secretary may only approve a project pursuant to this subsection on a toll road if such road is subject to a Secretarial agreement provided for in subsection (e). Sums authorized to be appropriated for this section shall be out of the Highway Trust Fund and shall be apportioned in accordance with section 104(b)(5)(B) of this title."
 
 Subsec. (b). Pub. L. 105–178, §1107(d)(1), as added by Pub. L. 105–206, §9002(f), substituted "104(b)(4)" for "104(b)(5)(B)" in first sentence and "104(b)(5)(A) (as in effect on the date before the date of enactment of the Transportation Equity Act for the 21st Century)" for "104(b)(5)(A)" in two places.
 
-Pub. L. 105–178, §1107(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: "Not later than one year after the date of issuance of initial guidelines under section 109(m) of this title each State shall have a program for the Interstate system in accordance with such guidelines. Each State shall certify on January 1st of each year that it has such a program and the Interstate system is maintained in accordance with that program. If a State fails to certify as required or if the Secretary determines a State is not adequately maintaining the Interstate system in accordance with such program then the next apportionment of funds to such State for the Interstate system shall be reduced by amounts equal to 10 per centum of the amount which would otherwise be apportioned to such State under section 104 of this title. If, within one year from the date the apportionment for a State is reduced under this subsection, the Secretary determines that such State is maintaining the Interstate system in accordance with the guidelines the apportionment of such State shall be increased by an amount equal to the reduction. If the Secretary does not make such a determination within such one year period the amount so withheld shall be reapportioned to all other eligible States."
+Pub. L. 105–178, §1107(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: "Not later than one year after the date of issuance of initial guidelines under section 109(m) of this title each State shall have a program for the Interstate system in accordance with such guidelines. Each State shall certify on January 1st of each year that it has such a program and the Interstate system is maintained in accordance with that program. If a State fails to certify as required or if the Secretary determines a State is not adequately maintaining the Interstate system in accordance with such program then the next apportionment of funds to such State for the Interstate system shall be reduced by amounts equal to 10 per centum of the amount which would otherwise be apportioned to such State under section 104 of this title. If,within one year from the date the apportionment for a State is reduced under this subsection, the Secretary determines that such State is maintaining the Interstate system in accordance with the guidelines the apportionment of such State shall be increased by an amount equal to the reduction. If the Secretary does not make such a determination within such one year period the amount so withheld shall be reapportioned to all other eligible States."
 
 Subsec. (c). Pub. L. 105–178, §1107(d)(2), as added by Pub. L. 105–206, §9002(f), substituted "104(b)(4)" for "104(b)(5)(B)" wherever appearing.
 
@@ -258,7 +300,7 @@ Subsec. (g). Pub. L. 102–240, §1009(a), added subsec. (g).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–17, §116(c)(1), substituted "subsection (e)" for "section 105 of the Federal-Aid Highway Act of 1978".
 
-Subsec. (d). Pub. L. 100–17, §116(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Upon application by a State and approval by the Secretary, the Secretary may authorize the transfer of so much of the amount apportioned to such State for any fiscal year under paragraph (5)(A) of subsection (b) of section 104 of this title, as does not exceed the Federal share of the cost of segments of the InterstateSystem open to traffic in such State (other than high occupancy vehicle lanes), in the most recent cost estimate, to the apportionment under paragraph (5)(B) of subsection (b) of section 104 of this title, except that not more than 50 per centum of the total apportionment under such paragraph (5)(A) for a fiscal year shall be transferred under this subsection for such fiscal year. The next cost estimate submitted to Congress under paragraph (5)(A) of subsection (b) of such section 104 of the cost of completing segments of the Interstate System open to traffic in that State (other than high occupancy vehicle lanes) shall be reduced for such State in an amount equal to the amount transferred under this subsection. Notwithstanding any other provision of law, and for the purposes of this subsection, the phrase 'segments of the interstate system open to traffic' shall include a proposed four-lane, limited access highway, 6.4 miles in length, the construction of which will relocate to a southern alignment a portion of an existing interstate highway which was originally built without the aid of funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended, and which connects to the east with an interstate highway on which tolls are charged. The construction of the proposed highway shall include a bridge over the Monongahela River."
+Subsec. (d). Pub. L. 100–17, §116(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Upon application by a State and approval by the Secretary, the Secretary may authorize the transfer of so much of the amount apportioned to such State for any fiscal year under paragraph (5)(A) of subsection (b) of section 104 of this title, as does not exceed the Federal share of the cost of segments of the Interstate System open to traffic in such State (other than high occupancy vehicle lanes), in the most recent cost estimate, to the apportionment under paragraph (5)(B) of subsection (b) of section 104 of this title, except that not more than 50 per centum of the total apportionment under such paragraph (5)(A) for a fiscal year shall be transferred under this subsection for such fiscal year. The next cost estimate submitted to Congress under paragraph (5)(A) of subsection (b) of such section 104 of the cost of completing segments of the Interstate System open to traffic in that State (other than high occupancy vehicle lanes) shall be reduced for such State in an amount equal to the amount transferred under this subsection. Notwithstanding any other provision of law, and for the purposes of this subsection, the phrase 'segments of the interstate system open to traffic' shall include a proposed four-lane, limited access highway, 6.4 miles in length, the construction of which will relocate to a southern alignment a portion of an existing interstate highway which was originally built without the aid of funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended, and which connects to the east with an interstate highway on which tolls are charged. The construction of the proposed highway shall include a bridge over the Monongahela River."
 
 Subsec. (e). Pub. L. 100–17, §116(b), added subsec. (e).
 
@@ -272,7 +314,7 @@ Pub. L. 100–17, §116(b), added subsec. (f).
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–424, §116(a)(1), inserted provision that, additionally, beginning with funds apportioned for fiscal year 1984, the Secretary may approve projects for resurfacing, restoring, rehabilitating, and reconstructing those routes or portions thereof on the Interstate System designated before Jan. 6, 1983, under section 139(a) of this title (other than routes on toll roads not subject to a Secretarial agreement provided for in section 105 of the Federal-Aid Highway Act of 1978) which routes or portions were so designated in conjunction with the withdrawal of approval of another route or portion thereof on the Interstate System under section 103(e)(4) of this title.
 
-Pub. L. 97–424, §116(a)(2), substituted "under this subsection" for "designated under sections 103 and 139(c) of this title" before "shall be that set forth in section 120(c) of this title".
+Pub. L. 97–424, §116(a)(2), substituted "under this subsection" for "designated under sections 103 and 139(c) ofthis title" before "shall be that set forth in section 120(c) of this title".
 
 Subsecs. (b), (c). Pub. L. 97–424, §116(b), redesignated the second of two sections designated (b) as (c).
 
@@ -283,6 +325,10 @@ Subsec. (d). Pub. L. 97–424, §116(c), added subsec. (d).
 Subsec. (b). Pub. L. 97–134, §6(b), added subsec. (b) providing that reconstruction may include the addition of travel lanes and the construction and reconstruction of interchanges and overcrossings along existing completed interstate routes, including the acquisition of right-of-way where necessary.
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–106 substituted "January 1st" for "October 1st" and "next apportionment of funds to such State" for "funds apportioned to such State for that fiscal year".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

@@ -50,7 +50,7 @@
 
 #### (b) Amount in Fund exceeding secure base amount
 
-At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1) of this section, by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
+At any time the aggregate of amounts in the Farm Credit Insurance Fund exceeds the secure base amount, the Corporation shall reduce the premium due from each insured System bank, as determined under subsection (a)(1), by a percentage determined by the Corporation so that the aggregate of the premiums payable by all System banks is sufficient to ensure that the aggregate of amounts in the Farm Credit Insurance Fund after such premiums are paid is not less than the secure base amount at such time.
 
 #### (c) Secure base amount
 
@@ -110,9 +110,9 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;(B) there shall be credited to the allocated insurance reserves account <sup>1</sup> of each insured system <sup>2</sup> bank an amount that bears the same ratio to the total amount (less any amount credited under subparagraph (A)) as—
 
-&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligationsissued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
+&emsp;&emsp;&emsp;(i) the average principal outstanding for the calendar year on insured obligations issued by the bank (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)); bears to
 
-&emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loans and investments described in subsection (a)(2)).
+&emsp;&emsp;&emsp;(ii) the average principal outstanding for the calendar year on insured obligations issued by all insured System banks (after deducting from the principal the percentages of the guaranteed portions of loansand investments described in subsection (a)(2)).
 
 #### (5) Use of funds in Allocated Insurance Reserves Accounts
 
@@ -170,7 +170,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a)(1)(A) to (D). Pub. L. 110–246, §5404(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (D) which described how to calculate the annual premium due from an insured System bank.
 
-Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out "annual" before "premium", in par. (4), inserted "or investments" after "loans" in heading and, in introductory provisions, substituted "In this section, the term 'government-guaranteed', when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—" for "As used in this section and section 2020(b) of this title, the term 'government-guaranteed loans' means loans or credits, or portions of loans or credits, that are guaranteed—", and struck out former par. (4). Prior to amendment, text read as follows: "In this section and sections 2020(b) and 2277a–5(a) of this title, the term 'Government Sponsored Enterprise-guaranteed loan' means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System."
+Subsec. (a)(2) to (4). Pub. L. 110–246, §5404(a)(2)–(6), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, in par. (3), struck out "annual" before "premium", in par. (4), inserted "or investments" after "loans" in heading and, in introductory provisions, substituted "In this section, the term 'government-guaranteed', when applied to a loan or an investment, means a loan, credit, or investment, or portion of a loan, credit, or investment, that is guaranteed—" for "As used in this section and section 2020(b) of this title, the term 'government-guaranteed loans' means loans or credits, or portions of loans or credits, that are guaranteed—", and struck out former par. (4). Prior to amendment, text read as follows: "In this section and sections 2020(b) and 2277a–5(a) of this title, theterm 'Government Sponsored Enterprise-guaranteed loan' means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System."
 
 Subsec. (b). Pub. L. 110–246, §5404(b), struck out "annual" before "premium".
 
@@ -216,7 +216,7 @@ Subsec. (e)(4)(B). Pub. L. 107–171, §5403(a)(1)(B), substituted "loans descri
 
 Subsec. (a)(2), (3). Pub. L. 104–105, §215(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 104–105, §215(a)(2)(A), substituted "Farm Credit Insurance Fund" for "Insurance Fund" in two places, and "subsection (a)(1) of this section" for "subsection (a) of this section", and struck out "for the following calendar year" after "each insured System bank".
+Subsec. (b). Pub. L. 104–105, §215(a)(2)(A), substituted "Farm Credit Insurance Fund" for "Insurance Fund" in two places, and "subsection (a)(1)" for "subsection (a)", and struck out "for the following calendar year" after "each insured System bank".
 
 Subsec. (d). Pub. L. 104–105, §215(c), in introductory provisions, substituted "subsections (a), (c), and (e) of this section" for "subsections (a) and (c) of this section" and "an insured System bank" for "a Farm Credit Bank", and in pars. (1) through (3), substituted "insured System bank" for "Farm Credit Bank".
 
@@ -228,7 +228,7 @@ Subsec. (e). Pub. L. 104–105, §215(b), added subsec. (e).
 
 &emsp;"(2) the annual average principal outstanding for such year on loans made by the bank that are in nonaccrual status, multiplied by 0.0025."
 
-Subsec. (b). Pub. L. 101–220, §6(a)(2), inserted ", as determined under subsection (a) of this section," after "calendar year".
+Subsec. (b). Pub. L. 101–220, §6(a)(2), inserted ", as determined under subsection (a)," after "calendar year".
 
 Subsec. (c). Pub. L. 101–220, §6(a)(3), inserted "(adjusted downward to exclude an amount equal to the sum of (1) 90 percent of the guaranteed portions of principal outstanding on Federal Government-guaranteed loans in accrual status made by such banks and (2) 80 percent of the guaranteed portions of principal outstanding on State government-guaranteed loans in accrual status made by such banks, as determined by the Corporation)" after "such time".
 

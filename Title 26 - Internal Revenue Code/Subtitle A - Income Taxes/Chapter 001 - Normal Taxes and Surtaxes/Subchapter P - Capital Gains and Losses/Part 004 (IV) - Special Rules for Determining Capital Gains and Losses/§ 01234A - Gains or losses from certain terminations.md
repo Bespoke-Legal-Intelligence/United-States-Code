@@ -8,7 +8,7 @@ Gain or loss attributable to the cancellation, lapse, expiration, or other termi
 
 > shall be treated as gain or loss from the sale of a capital asset. The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement).
 
-(Added Pub. L. 97–34, title V, §507(a), Aug. 13, 1981, 95 Stat. 333; amended Pub. L. 97–448, title I, §105(e), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(4), (9), July 18, 1984, 98 Stat. 624, 625; Pub. L. 105–34, title X, §1003(a)(1), Aug. 5, 1997, 111 Stat. 909; Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 107–147, title IV, §412(d)(1)(A), Mar. 9, 2002, 116 Stat. 53.)
+(Added Pub. L. 97–34, title V, §507(a), Aug. 13, 1981, 95 Stat. 333; amended Pub. L. 97–448, title I, §105(e), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(4), (9), July 18, 1984, 98 Stat. 624, 625; Pub. L. 105–34, title X, §1003(a)(1), Aug. 5, 1997, 111 Stat. 909; Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-648; Pub. L. 107–147, title IV, §412(d)(1)(A), Mar. 9, 2002, 116 Stat. 53.)
 
 #### Amendments
 

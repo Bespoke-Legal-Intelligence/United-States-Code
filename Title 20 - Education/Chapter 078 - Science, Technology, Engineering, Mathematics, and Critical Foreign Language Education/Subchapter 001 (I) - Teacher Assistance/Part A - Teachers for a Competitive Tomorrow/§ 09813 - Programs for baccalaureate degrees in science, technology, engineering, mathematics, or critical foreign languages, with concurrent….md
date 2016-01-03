@@ -18,7 +18,7 @@ Each eligible recipient desiring a grant under this section shall submit an appl
 
 &emsp;(3) describe the high-quality research, laboratory, or internship experiences, integrated with coursework, that will be provided under the program;
 
-&emsp;(4) describe how members of groups that are underrepresented in the teaching of science,technology, engineering, mathematics, or critical foreign languages will be encouraged to participate in the program;
+&emsp;(4) describe how members of groups that are underrepresented in the teaching of science, technology, engineering, mathematics, or critical foreign languages will be encouraged to participate in the program;
 
 &emsp;(5) describe how program participants will be encouraged to teach in schools determined by the partnership to be most in need, and the assistance in finding employment in such schools that will be provided;
 
@@ -126,7 +126,7 @@ In this section, the term "induction program" means a formalized program for new
 
 &emsp;(4) Opportunities for new teachers to draw directly upon the expertise of teacher mentors, faculty, and researchers to support the integration of empirically based practice and scientifically valid research with practice.
 
-&emsp;(5) The development of skills in instructional and behavioral interventions derived from empirically based practice and, where applicable, scientifically valid research.
+&emsp;(5) The development of skills in instructional and behavioral interventions derivedfrom empirically based practice and, where applicable, scientifically valid research.
 
 &emsp;(6) Faculty who—
 

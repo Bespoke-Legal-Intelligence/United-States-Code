@@ -60,7 +60,7 @@ Effect of Failure To Complete Obligation.—(1) A commissioned officer who is re
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, §687(c)(7),Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, §537(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–383, div. A, title V, §553, Jan. 7, 2011, 124 Stat. 4220.)
+(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, §687(c)(7), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, §537(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–383, div. A, title V, §553, Jan. 7, 2011, 124 Stat. 4220.)
 
 #### Amendments
 

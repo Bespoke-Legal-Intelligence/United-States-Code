@@ -2,7 +2,7 @@
 
 #### (a) Filing
 
-Except as exempted pursuant to subsection (c) of this section, no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) of this section and the waiting period described in subsection (b)(1) of this section has expired, if—
+Except as exempted pursuant to subsection (c), no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) and the waiting period described in subsection (b)(1) has expired, if—
 
 &emsp;(1) the acquiring person, or the person whose voting securities or assets are being acquired, is engaged in commerce or in any activity affecting commerce; and
 
@@ -18,23 +18,23 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(III) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 (as so adjusted and published) or more are being acquired by any person with total assets or annual net sales of $10,000,000 (as so adjusted and published) or more.
 
-> In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
+> In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d).
 
 #### (b) Waiting period; publication; voting securities
 
-(1) The waiting period required under subsection (a) of this section shall—
+(1) The waiting period required under subsection (a) shall—
 
 &emsp;(A) begin on the date of the receipt by the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice (hereinafter referred to in this section as the "Assistant Attorney General") of—
 
-&emsp;&emsp;(i) the completed notification required under subsection (a) of this section, or
+&emsp;&emsp;(i) the completed notification required under subsection (a), or
 
 &emsp;&emsp;(ii) if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance,
 
 > &emsp;from both persons, or, in the case of a tender offer, the acquiring person; and
 
-&emsp;(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2) of this section.
+&emsp;(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2).
 
-(2) The Federal Trade Commission and the Assistant Attorney General may, in individualcases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
+(2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
 
 (3) As used in this section—
 
@@ -68,13 +68,13 @@ The following classes of transactions are exempt from the requirements of this s
 
 &emsp;(11) acquisitions, solely for the purpose of investment, by any bank, banking association, trust company, investment company, or insurance company, of (A) voting securities pursuant to a plan of reorganization or dissolution; or (B) assets in the ordinary course of its business; and
 
-&emsp;(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B) of this section.
+&emsp;(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B).
 
 #### (d) Commission rules
 
 The Federal Trade Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with section 553 of title 5, consistent with the purposes of this section—
 
-&emsp;(1) shall require that the notification required under subsection (a) of this section be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
+&emsp;(1) shall require that the notification required under subsection (a) be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
 
 &emsp;(2) may—
 
@@ -98,7 +98,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 (iii) Not later than 90 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall conduct an internal review and implement reforms of the merger review process in order to eliminate unnecessary burden, remove costly duplication, and eliminate undue delay, in order to achieve a more effective and more efficient merger review process.
 
-(iv) Not later than 120 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall issue or amend their respective industry guidance, regulations, operating manuals and relevant policy documents, to the extent appropriate, to implement each reform in this subparagraph.
+(iv) Not later than 120 days after December 21, 2000, the Assistant Attorney General and theFederal Trade Commission shall issue or amend their respective industry guidance, regulations, operating manuals and relevant policy documents, to the extent appropriate, to implement each reform in this subparagraph.
 
 (v) Not later than 180 days after December 21, 2000, the Assistant Attorney General and the Federal Trade Commission shall each report to Congress—
 
@@ -108,7 +108,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 &emsp;(III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
 
 #### (f) Preliminary injunctions; hearings
 
@@ -118,11 +118,11 @@ If a proceeding is instituted or an action is filed by the Federal Trade Commiss
 
 (1) Any person, or any officer, director, or partner thereof, who fails to comply with any provision of this section shall be liable to the United States for a civil penalty of not more than $10,000 for each day during which such person is in violation of this section. Such penalty may be recovered in a civil action brought by the United States.
 
-(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) of this section or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) of this section and as may be extended under subsection (e)(2) of this section, the United States district court—
+(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) and as may be extended under subsection (e)(2), the United States district court—
 
 &emsp;(A) may order compliance;
 
-&emsp;(B) shall extend the waiting period specified in subsection (b)(1) of this section and as may have been extended under subsection (e)(2) of this section until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
+&emsp;(B) shall extend the waiting period specified in subsection (b)(1) and as may have been extended under subsection (e)(2) until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
 
 &emsp;(C) may grant such other equitable relief as the court in its discretion determines necessary or appropriate,
 
@@ -144,7 +144,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 If the end of any period of time provided in this section falls on a Saturday, Sunday, or legal public holiday (as defined in section 6103(a) of title 5), then such period shall be extended to the end of the next day that is not a Saturday, Sunday, or legal public holiday.
 
-(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) \[title VI, §630(a), (c), (d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
+(Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390;amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) \[title VI, §630(a), (c), (d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
 
 #### References in Text
 
@@ -208,13 +208,13 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of theClayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
+Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
 
 #### Assessment and Collection of Filing Fees
 
 Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) \[title VI, §630(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
 
-"(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': <i>Provided</i>, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: <i>Provided further</i>, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
+"(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant tothis section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': <i>Provided</i>, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: <i>Provided further</i>, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
 "(b) The filing fees referred to in subsection (a) are—
 

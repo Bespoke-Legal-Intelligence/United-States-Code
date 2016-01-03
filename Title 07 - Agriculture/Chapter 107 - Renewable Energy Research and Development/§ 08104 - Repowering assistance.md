@@ -12,7 +12,7 @@ The Secretary shall carry out a program to encourage biorefineries in existence 
 
 #### (1) In general
 
-&emsp;The Secretary may make payments under this section to any biorefinery that meets therequirements of this section for a period determined by the Secretary.
+&emsp;The Secretary may make payments under this section to any biorefinery that meets the requirements of this section for a period determined by the Secretary.
 
 #### (2) Amount
 

@@ -8,7 +8,7 @@ Not later than 1 year after October 13, 2006, the Secretary, the Secretary of En
 
 The strategy under subsection (a) shall include—
 
-&emsp;(1) a long term technology roadmap for nuclear and radiological detection applicable to the mission needs of the Department, the Department of Energy, the Department of Defense, and the Office of the Director of National Intelligence;
+&emsp;(1) a long term technology roadmap for nuclear and radiological detection applicable tothe mission needs of the Department, the Department of Energy, the Department of Defense, and the Office of the Director of National Intelligence;
 
 &emsp;(2) budget requirements necessary to meet the roadmap; and
 

@@ -13,11 +13,33 @@
 | [6229\.](%C2%A7%2006229%20-%20Period%20of%20limitations%20for%20making%20assessments.md) | Period of limitations for making assessments. |
 | [6230\.](%C2%A7%2006230%20-%20Additional%20administrative%20provisions.md) | Additional administrative provisions. |
 | [6231\.](%C2%A7%2006231%20-%20Definitions%20and%20special%20rules.md) | Definitions and special rules. |
-| \[6232. | Repealed.\] |
+| \[6232. | Repealed.\] <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [6233\.](%C2%A7%2006233%20-%20Extension%20to%20entities%20filing%20partnership%20returns%2C%20etc.md) | Extension to entities filing partnership returns, etc. |
 | [6234\.](%C2%A7%2006234%20-%20Declaratory%20judgment%20relating%20to%20treatment%20of%20items%20other%20than%20partnership%20items%20with%20respect%20to%20an%20oversheltered%20return.md) | Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Repeal and Reenactment of Analysis
+
+<i>Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is repealed and a new analysis for subchapter C is enacted to read as follows:</i>
+
+<b>Subchapter C—Treatment of Partnerships</b>
+
+| <i>Part</i> | &nbsp; |
+| :--- | ---: |
+| <i>I.</i> | <i>In General.</i> |
+| <i>II.</i> | <i>Partnership Adjustments.</i> |
+| <i>III.</i> | <i>Procedure.</i> |
+| <i>IV.</i> | <i>Definitions and Special Rules.</i> |
+
+#### Codification
+
+New sections 6232 and 6235 were enacted on Nov. 2, 2015, by Pub. L. 114–74 applicable, with certain exceptions, to returns filed for partnership taxable years beginning after Dec. 31, 2017. However, because section 6232 had previously been repealed and section 6235 did not exist, the text of those sections as enacted by Pub. L. 114–74 is currently being set out within this subchapter. As a result, the current analysis for subchapter C set out above does not conform with respect to those sections.
 
 #### Amendments
 
@@ -28,6 +50,8 @@
 <b>1984</b>—Pub. L. 98–369, div. A, title VII, §714(p)(2)(E), July 18, 1984, 98 Stat. 965, added item 6233.
 
 <b>1982</b>—Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 648, added subchapter C heading and items 6221 to 6232.
+
+<i><sup>1</sup></i><i> See Codification note below.</i>
 
 
 ---
@@ -45,6 +69,7 @@
 - [&sect; 06229 - Period of limitations for making assessments](%C2%A7%2006229%20-%20Period%20of%20limitations%20for%20making%20assessments.md)
 - [&sect; 06230 - Additional administrative provisions](%C2%A7%2006230%20-%20Additional%20administrative%20provisions.md)
 - [&sect; 06231 - Definitions and special rules](%C2%A7%2006231%20-%20Definitions%20and%20special%20rules.md)
-- [&sect; 06232 - Repealed. Pub. L. 100&#8211;418, title I, &sect;1941(b)(1), Aug. 23, 1988, 102 Stat. 1323](%C2%A7%2006232%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71941%28b%29%281%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201323.md)
+- [&sect; 06232 - Assessment, collection, and payment](%C2%A7%2006232%20-%20Assessment%2C%20collection%2C%20and%20payment.md)
 - [&sect; 06233 - Extension to entities filing partnership returns, etc](%C2%A7%2006233%20-%20Extension%20to%20entities%20filing%20partnership%20returns%2C%20etc.md)
 - [&sect; 06234 - Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return](%C2%A7%2006234%20-%20Declaratory%20judgment%20relating%20to%20treatment%20of%20items%20other%20than%20partnership%20items%20with%20respect%20to%20an%20oversheltered%20return.md)
+- [&sect; 06235 - Period of limitations on making adjustments](%C2%A7%2006235%20-%20Period%20of%20limitations%20on%20making%20adjustments.md)

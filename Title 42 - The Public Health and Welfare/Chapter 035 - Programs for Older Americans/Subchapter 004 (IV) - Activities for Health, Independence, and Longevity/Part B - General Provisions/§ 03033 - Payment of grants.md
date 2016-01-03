@@ -6,7 +6,7 @@ To the extent the Assistant Secretary determines a contribution to be appropriat
 
 #### (b) Payments
 
-Payments under this subchapter pursuant to a grant or contract may be made (after necessaryadjustment, in the case of grants, on account of previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments and on such conditions, as the Assistant Secretary may determine.
+Payments under this subchapter pursuant to a grant or contract may be made (after necessary adjustment, in the case of grants, on account of previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments and on such conditions, as the Assistant Secretary may determine.
 
 #### (c) Consultation
 

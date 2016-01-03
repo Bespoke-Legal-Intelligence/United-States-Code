@@ -128,7 +128,7 @@ Applicability.—This Act applies to—
 
 "(a)
 
-In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited by any lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
+In General.—Each institution named in section 3(b) may conduct a demonstration project in accordance with the provisions of this Act. The conducting of any such demonstration project shall not be limited byany lack of specific authority under title 5, United States Code, to take the action contemplated, or by any provision of such title or any rule or regulation prescribed under such title which is inconsistent with the action, including any provision of law, rule, or regulation relating to—
 
 &emsp;"(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 

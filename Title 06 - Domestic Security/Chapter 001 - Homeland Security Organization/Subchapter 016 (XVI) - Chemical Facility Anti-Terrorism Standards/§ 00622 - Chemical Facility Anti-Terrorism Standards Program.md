@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) require each chemical facility of interest to submit a Top-Screen and any other information the Secretary determines necessary to enable the Department to assess the security risks associated with the facility;
 
-&emsp;&emsp;(C) establish risk-based performance standards designed to address high levels of security risk at covered chemical facilities; and
+&emsp;&emsp;(C) establish risk-based performance standards designed to address high levels ofsecurity risk at covered chemical facilities; and
 
 &emsp;&emsp;(D) require each covered chemical facility to—
 
@@ -114,7 +114,7 @@
 
 #### (C) Certification
 
-&emsp;&emsp;The owner or operator of an expedited approval facility shall submit to the Secretary a certification, signed under penalty of perjury, that—
+&emsp;&emsp;The owner or operator of an expedited approval facility shall submit to the Secretarya certification, signed under penalty of perjury, that—
 
 &emsp;&emsp;&emsp;(i) the owner or operator is familiar with the requirements of this subchapter and part 27 of title 6, Code of Federal Regulations, or any successor thereto, and the site security plan being submitted;
 
@@ -410,7 +410,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described insubclause (I) if an individual who is required to be screened presents such a credential; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described in subclause (I) if an individual who is required to be screened presents such a credential; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) address in its site security plan or alternative security program the measures it will take to verify that a credential or documentation from a Federal screening program described in subclause (I) is current;
 

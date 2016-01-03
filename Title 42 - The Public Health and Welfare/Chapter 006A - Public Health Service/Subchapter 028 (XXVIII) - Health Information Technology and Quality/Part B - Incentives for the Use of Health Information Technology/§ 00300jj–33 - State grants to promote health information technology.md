@@ -32,7 +32,7 @@ Amounts received under a grant under subsection (c) shall be used to conduct act
 
 &emsp;(6) assisting patients in utilizing health information technology;
 
-&emsp;(7) encouraging clinicians to work with Health Information Technology Regional Extension Centers as described in section 300jj–32 of this title, to the extent they are available and valuable;
+&emsp;(7) encouraging clinicians to work with Health Information Technology Regional Extension Centers as described in section 300jj–32of this title, to the extent they are available and valuable;
 
 &emsp;(8) supporting public health agencies' authorized use of and access to electronic health information;
 

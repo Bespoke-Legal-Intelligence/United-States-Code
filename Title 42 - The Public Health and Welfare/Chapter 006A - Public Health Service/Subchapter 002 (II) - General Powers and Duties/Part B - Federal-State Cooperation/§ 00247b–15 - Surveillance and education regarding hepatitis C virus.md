@@ -46,7 +46,7 @@ Designated emergency response employees.—For purposes of this section, the ter
 
 &emsp;"(3)
 
-Date certain for completion; report to congress.—The Secretary shall commence the study under paragraph (1) not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\]. Not later than one year after such date, the Secretaryshall complete the study and submit to the Congress a report describing the findings of the study.
+Date certain for completion; report to congress.—The Secretary shall commence the study under paragraph (1) not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\]. Not later than one year after such date, the Secretary shall complete the study and submit to the Congress a report describing the findings of the study.
 
 "(b)
 

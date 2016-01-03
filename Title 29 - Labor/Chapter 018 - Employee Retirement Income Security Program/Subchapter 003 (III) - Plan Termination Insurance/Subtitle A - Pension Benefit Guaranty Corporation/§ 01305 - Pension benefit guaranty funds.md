@@ -102,7 +102,7 @@ There are established on the books of the Treasury of the United States for revo
 
 (1) Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
 
-(2) Any repayment to the corporation of any amount paid out of any fund in connection witha multiemployer plan shall be deposited in such fund.
+(2) Any repayment to the corporation of any amount paid out of any fund in connection with a multiemployer plan shall be deposited in such fund.
 
 #### (h) Voting by corporation of stock paid as liability
 

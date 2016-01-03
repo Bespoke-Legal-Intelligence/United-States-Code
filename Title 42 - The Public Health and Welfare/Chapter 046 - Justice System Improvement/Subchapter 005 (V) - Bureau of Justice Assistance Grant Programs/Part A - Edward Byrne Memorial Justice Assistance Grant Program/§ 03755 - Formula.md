@@ -46,7 +46,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (2) Remaining amounts
 
-&emsp;Except as provided in subsection (e)(1) of this section, any amounts remaining after the allocation required by paragraph (1) shall be made available to units of local government by the State for the purposes described in section 3751 of this title.
+&emsp;Except as provided in subsection (e)(1) of this section, any amounts remaining after theallocation required by paragraph (1) shall be made available to units of local government by the State for the purposes described in section 3751 of this title.
 
 #### (d) Allocations to local governments
 
@@ -100,7 +100,7 @@ Of the amounts allocated under subsection (a) of this section—
 
 #### (f) Funds not used by the State
 
-If the Attorney General determines, on the basis of information available during any grant period, that any allocation (or portion thereof) under this section to a State for such grant period will not be required, or that a State will be unable to qualify or receive funds under this part, or that a State chooses not to participate in the program established under this part, then such State's allocation (or portion thereof) shall be awarded by the Attorney General to units of local government, or combinations thereof, within such State, giving priority to those jurisdictions with the highest annual number of part 1 violent crimes of the Uniform Crime Reports reported by the unit of local government to the Federal Bureau of Investigation for the three most recent calendar years for which such data are available.
+If the Attorney General determines, on the basis of information available during any grant period, that any allocation (or portion thereof) under this section to a State for such grant period will not be required, or that a State will be unable to qualify or receive funds under this part, or that a State chooses not to participate in the program established under this part, thensuch State's allocation (or portion thereof) shall be awarded by the Attorney General to units of local government, or combinations thereof, within such State, giving priority to those jurisdictions with the highest annual number of part 1 violent crimes of the Uniform Crime Reports reported by the unit of local government to the Federal Bureau of Investigation for the three most recent calendar years for which such data are available.
 
 #### (g) Special rules for Puerto Rico
 
@@ -116,11 +116,19 @@ If the Attorney General determines, on the basis of information available during
 
 In carrying out this section with respect to the State of Louisiana, the term "unit of local government" means a district attorney or a parish sheriff.
 
-(Pub. L. 90–351, title I, §505, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
+#### (i) Part 1 violent crimes to include human trafficking
+
+For purposes of this section, the term "part 1 violent crimes" shall include severe forms of trafficking in persons (as defined in section 7102 of title 22).
+
+(Pub. L. 90–351, title I, §505, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097; amended Pub. L. 114–22, title I, §107, May 29, 2015, 129 Stat. 238.)
 
 #### Prior Provisions
 
 For prior sections 505 of Pub. L. 90–351 and prior sections 3755 of this title, see notes set out preceding section 3750 of this title.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (i). Pub. L. 114–22 added subsec. (i).
 
 #### Effective Date
 

@@ -44,7 +44,7 @@
 
 #### (5) Reports
 
-&emsp;The entity carrying out an evaluation described in paragraph (1) or (2) shall prepare and submit to the Secretary a draft report and a final report containing the results of the evaluation.
+&emsp;The entity carrying out an evaluation described in paragraph (1) or (2) shall prepareand submit to the Secretary a draft report and a final report containing the results of the evaluation.
 
 #### (6) Reports to Congress
 
@@ -100,11 +100,11 @@
 
 #### (D) Study on participants entering nontraditional occupations
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the number and percentage of individuals who receive employment and training activities and who enter nontraditional occupations, successful strategies to place and support the retention of individuals in nontraditional employment (such as by providing post-placement assistance to participants in the form of exit interviews, mentoring, networking, and leadership development), and the degree to which recipients of employment and training activities are informed of the possibility of, or directed to begin, training or education needed for entrance into nontraditional occupations.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the number and percentage of individuals who receive employment and training activities and who enter nontraditional occupations, successful strategies to place and support the retention of individuals in nontraditional employment (such as by providing post-placement assistance to participants in the form of exit interviews, mentoring, networking, and leadership development), and the degree towhich recipients of employment and training activities are informed of the possibility of, or directed to begin, training or education needed for entrance into nontraditional occupations.
 
 #### (E) Study on performance indicators
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct studies to determine the feasibility of,and potential means to replicate, measuring the compensation, including the wages, benefits, and other incentives provided by an employer, received by program participants by using data other than or in addition to data available through wage records, for potential use as a performance indicator.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct studies to determine the feasibility of, and potential means to replicate, measuring the compensation, including the wages, benefits, and other incentives provided by an employer, received by program participants by using data other than or in addition to data available through wage records, for potential use as a performance indicator.
 
 #### (F) Study on job training for recipients of public housing assistance
 
@@ -180,5 +180,5 @@ This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

@@ -62,7 +62,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 &emsp;&emsp;(B) to treat as a separate property each such interest which is not included within an aggregation referred to in subparagraph (A).
 
-> &emsp;For purposes of this paragraph, separate operating mineral interests which constitute partor all of an operating unit may be aggregated whether or not they are included in a single tract or parcel of land and whether or not they are included in contiguous tracts or parcels. For purposes of this paragraph, a taxpayer may elect to form more than one aggregation of operating mineral interests within any one operating unit; but no aggregation may include any operating mineral interest which is a part of a mine without including all of the operating mineral interests which are a part of such mine in the first taxable year for which the election to aggregate is effective, and any operating mineral interest which thereafter becomes a part of such mine shall be included in such aggregation.
+> &emsp;For purposes of this paragraph, separate operating mineral interests which constitute part or all of an operating unit may be aggregated whether or not they are included in a single tract or parcel of land and whether or not they are included in contiguous tracts or parcels. For purposes of this paragraph, a taxpayer may elect to form more than one aggregation of operating mineral interests within any one operating unit; but no aggregation may include any operating mineral interest which is a part of a mine without including all of the operating mineral interests which are a part of such mine in the first taxable year for which the election to aggregate is effective, and any operating mineral interest which thereafter becomes a part of such mine shall be included in such aggregation.
 
 #### (2) Election to treat a single interest as more than one property
 
@@ -164,7 +164,7 @@ Fair market value rule.—Except as provided in paragraph (2), if a taxpayer has
 
 &emsp;&emsp;"(B) the denominator of which is the fair market value of such aggregation.
 
-> &emsp;For purposes of this paragraph, the adjusted basis and the fair market value of the aggregation, and thefair market value of each property included therein, shall be determined as of the day preceding the first day of the first taxable year which begins after December 31, 1963.
+> &emsp;For purposes of this paragraph, the adjusted basis and the fair market value of the aggregation, and the fair market value of each property included therein, shall be determined as of the day preceding the first day of the first taxable year which begins after December 31, 1963.
 
 &emsp;"(2)
 

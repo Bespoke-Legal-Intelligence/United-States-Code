@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designated under section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24904 of this title.
+General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designated under section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24903.
 
 (b)
 
@@ -10,9 +10,9 @@ Exemptions From Laws and Regulations.—The note and agreement under subsection 
 
 (c)
 
-Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
+Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testingthe validity of the note, agreement, or transaction.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 936.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 936; Pub. L. 114–94, div. A, title XI, §11306(b)(1), Dec. 4, 2015, 129 Stat. 1660.)
 
 Historical and Revision Notes
 
@@ -49,6 +49,14 @@ In subsection (c), the words "to any party for any damages, or in any other matt
 #### References in Text
 
 The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "section 24903" for "section 24904 of this title".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

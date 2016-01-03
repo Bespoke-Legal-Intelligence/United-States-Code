@@ -34,7 +34,7 @@ No grants or loans may be made under this section unless the Secretary has enter
 
 #### (d) Oversight and approval duties of Secretary; construction management duties of Foundation
 
-The Secretary shall be responsible for overseeing the reconstruction and shall have final approval over the plans for, and location and design of, the Center, and the Foundation shall beresponsible for managing the construction activities, including the selection (in accordance with the requirements referred to in paragraphs (1) and (2) of subsection (c) of this section) of persons to perform architectural, engineering, construction, and related services.
+The Secretary shall be responsible for overseeing the reconstruction and shall have final approval over the plans for, and location and design of, the Center, and the Foundation shall be responsible for managing the construction activities, including the selection (in accordance with the requirements referred to in paragraphs (1) and (2) of subsection (c)) of persons to perform architectural, engineering, construction, and related services.
 
 #### (e) Easement noise and other standards; enforcement measures
 
@@ -66,7 +66,7 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 
 Section 4 of Pub. L. 101–636, as amended by Pub. L. 89–671, §14(c), as added Pub. L. 107–219, §1(a)(3), Aug. 21, 2002, 116 Stat. 1330, provided that:
 
-"(a) The amendments made by sections 1 and 2 \[amending this section and section 284d of this title\] shall take effect on the date on which the Wolf Trap Foundation for the Performing Arts modifies its agreements entered into pursuant to the Wolf Trap National Park for the Performing Arts Act \[this subchapter\] in a manner which is consistent with and takes into account the amendments made by this Act \[amending this section and section 284d of this title and enacting provisions set out as a note under section 284 of this title\], as determined by the Secretary of the Interior.
+"(a) The amendments made by sections 1 and 2 \[amending this section and section 284d of this title\] shall take effect on the date on which the Wolf TrapFoundation for the Performing Arts modifies its agreements entered into pursuant to the Wolf Trap National Park for the Performing Arts Act \[this subchapter\] in a manner which is consistent with and takes into account the amendments made by this Act \[amending this section and section 284d of this title and enacting provisions set out as a note under section 284 of this title\], as determined by the Secretary of the Interior.
 
 "(b) The amendment made by section 3 \[enacting provisions set out as a note under section 284 of this title\] shall take effect on the date of enactment of this Act \[Nov. 28, 1990\]."
 

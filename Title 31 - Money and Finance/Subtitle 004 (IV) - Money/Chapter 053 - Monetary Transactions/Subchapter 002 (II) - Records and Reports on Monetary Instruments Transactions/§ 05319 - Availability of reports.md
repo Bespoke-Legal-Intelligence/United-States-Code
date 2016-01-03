@@ -34,5 +34,5 @@ The words "upon such conditions and pursuant to such procedures as he may by reg
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56,set out as a note under section 1829b of Title 12, Banks and Banking.
 

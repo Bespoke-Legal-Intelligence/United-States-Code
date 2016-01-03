@@ -114,7 +114,7 @@
 
 #### (i) Agreement on amount of damages
 
-&emsp;&emsp;&emsp;If the settling parties agree on the average amount of damages per share that would be recoverable if the plaintiff prevailed on each claim alleged under this subchapter, a statement concerning the average amount of such potential damages per share.
+&emsp;&emsp;&emsp;If the settling parties agree on the average amount of damages per share thatwould be recoverable if the plaintiff prevailed on each claim alleged under this subchapter, a statement concerning the average amount of such potential damages per share.
 
 #### (ii) Disagreement on amount of damages
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred as a direct result of the violation; and
 
-&emsp;&emsp;&emsp;(ii) for substantial failure of any complaint to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred in the action.
+&emsp;&emsp;&emsp;(ii) for substantial failure of any complaint to comply with any requirement ofRule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred in the action.
 
 #### (B) Rebuttal evidence
 

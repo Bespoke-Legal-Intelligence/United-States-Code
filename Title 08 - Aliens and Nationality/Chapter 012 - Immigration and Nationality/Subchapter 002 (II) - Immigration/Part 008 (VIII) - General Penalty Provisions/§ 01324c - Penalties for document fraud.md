@@ -12,7 +12,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
 
-&emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document required under this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
+&emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document requiredunder this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
 
 &emsp;(6)(A) to present before boarding a common carrier for the purpose of coming to the United States a document which relates to the alien's eligibility to enter the United States, and (B) to fail to present such document to an immigration officer upon arrival at a United States port of entry.
 
@@ -42,7 +42,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+&emsp;&emsp;Before imposing an order described in paragraph (3) against a person or entity under this subsection for a violation of subsection (a), the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
 #### (B) Conduct of hearing
 
@@ -50,15 +50,15 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (C) Issuance of orders
 
-&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity has violated subsection (a) of this section, the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (3).
+&emsp;&emsp;If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity has violated subsection (a), the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (3).
 
 #### (3) Cease and desist order with civil money penalty
 
-&emsp;With respect to a violation of subsection (a) of this section, the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
+&emsp;With respect to a violation of subsection (a), the order under this subsection shall require the person or entity to cease and desist from such violations and to pay a civil penalty in an amount of—
 
-&emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subjectof a violation under subsection (a) of this section, or
+&emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a), or
 
-&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a) of this section.
+&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a).
 
 > &emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
@@ -72,15 +72,15 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 #### (6) Enforcement of orders
 
-&emsp;If a person or entity fails to comply with a final order issued under this section against the person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
+&emsp;If a person or entity fails to comply with a final order issued under this section againstthe person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
 #### (7) Waiver by Attorney General
 
-&emsp;The Attorney General may waive the penalties imposed by this section with respect to an alien who knowingly violates subsection (a)(6) of this section if the alien is granted asylum under section 1158 of this title or withholding of removal under section 1231(b)(3) of this title.
+&emsp;The Attorney General may waive the penalties imposed by this section with respect to an alien who knowingly violates subsection (a)(6) if the alien is granted asylum under section 1158 of this title or withholding of removal under section 1231(b)(3) of this title.
 
 #### (e) Criminal penalties for failure to disclose role as document preparer
 
-(1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f) of this section) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
+(1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f)) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
 
 (2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 
@@ -108,11 +108,11 @@ Subsec. (a)(5), (6). Pub. L. 104–208, §212(a)(5), added pars. (5) and (6).
 
 Subsec. (d)(1)(C). Pub. L. 104–208, §220, added subpar. (C).
 
-Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted "each document that is the subject of a violation under subsection (a) of this section" for "each document used, accepted, or created and each instance of use, acceptance, or creation".
+Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted "each document that is the subject of a violation under subsection (a)" for "each document used, accepted, or created and each instance of use, acceptance, or creation".
 
 Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted "the final agency decision and order under this subsection" for "a final order under this subsection".
 
-Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulationto exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
+Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
 
 Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted "withholding of removal under section 1231(b)(3) of this title" for "withholding of deportation under section 1253(h) of this title".
 

@@ -42,7 +42,7 @@
 
 #### Adjustment of Dollar Amounts
 
-<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in text, see Adjustment of Dollar Amounts note below.</i>
+<i>For adjustment of certain dollar amounts specified in this section, that is not reflected in</i><i>text, see Adjustment of Dollar Amounts note below.</i>
 
 #### Historical and Revision Notes
 
@@ -108,7 +108,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(3), dollar amount "25" was adjusted to "25".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3)(B), dollar amount "25" was adjusted to "25".
 

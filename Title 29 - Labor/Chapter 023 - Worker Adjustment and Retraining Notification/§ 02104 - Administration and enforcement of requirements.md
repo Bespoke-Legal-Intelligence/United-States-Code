@@ -28,7 +28,7 @@
 
 (4) If an employer which has violated this chapter proves to the satisfaction of the court that the act or omission that violated this chapter was in good faith and that the employer had reasonable grounds for believing that the act or omission was not a violation of this chapter the court may, in its discretion, reduce the amount of the liability or penalty provided for in this section.
 
-(5) A person seeking to enforce such liability, including a representative of employees or a unit of local government aggrieved under paragraph (1) or (3), may sue either for such person or for other persons similarly situated, or both, in any district court of the United States for any district in which the violation is alleged to have occurred, or in which the employer transacts business.
+(5) A person seeking to enforce such liability, including a representative of employees or aunit of local government aggrieved under paragraph (1) or (3), may sue either for such person or for other persons similarly situated, or both, in any district court of the United States for any district in which the violation is alleged to have occurred, or in which the employer transacts business.
 
 (6) In any such suit, the court, in its discretion, may allow the prevailing party a reasonable attorney's fee as part of the costs.
 

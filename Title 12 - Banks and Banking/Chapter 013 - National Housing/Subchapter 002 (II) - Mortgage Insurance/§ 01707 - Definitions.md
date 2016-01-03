@@ -54,7 +54,7 @@ Subsec. (c). Act Feb. 3, 1938, added subsec. (c).
 
 #### Improvement of Financing for Multifamily Housing
 
-Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, which related to improvement of financing for multifamily housing and was formerly set out as anote under this section, was transferred or omitted as follows:
+Pub. L. 102–550, title V, subtitle C, Oct. 28, 1992, 106 Stat. 3794, which related to improvement of financing for multifamily housing and was formerly set out as a note under this section, was transferred or omitted as follows:
 
 Section 541 of Pub. L. 102–550 was transferred and is set out as a note under section 1701 of this title;
 

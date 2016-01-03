@@ -108,7 +108,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or anelectronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
+&emsp;&emsp;Notwithstanding subparagraph (A), after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a general-use prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
 
 &emsp;&emsp;&emsp;(i) A fee for an overdraft, including a shortage of funds or a transaction processed for an amount exceeding the account balance.
 

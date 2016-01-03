@@ -108,7 +108,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 &emsp;&emsp;(iii) What steps the government of that country has taken to prohibit government officials from participating in, facilitating, or condoning such trafficking, including the investigation, prosecution, and conviction of such officials.
 
-&emsp;&emsp;(iv) What steps the government of that country has taken to prohibit other individuals from participating in such trafficking, including the investigation, prosecution, and conviction of individuals involved in severe forms of trafficking in persons, the criminaland civil penalties for such trafficking, and the efficacy of those penalties in eliminating or reducing such trafficking.
+&emsp;&emsp;(iv) What steps the government of that country has taken to prohibit other individuals from participating in such trafficking, including the investigation, prosecution, and conviction of individuals involved in severe forms of trafficking in persons, the criminal and civil penalties for such trafficking, and the efficacy of those penalties in eliminating or reducing such trafficking.
 
 &emsp;&emsp;(v) What steps the government of that country has taken to assist victims of such trafficking, including efforts to prevent victims from being further victimized by traffickers, government officials, or others, grants of relief from deportation, and provision of humanitarian relief, including provision of mental and physical health care and shelter.
 
@@ -234,7 +234,7 @@ Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The amendments made by subsections (a) and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6312(b) \[6412(b)\]) submitted more than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\]."
+Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The amendments made by subsections (a) and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6312(b) \[6412(b)\]) submittedmore than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -258,7 +258,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Annual Report on Advancing Freedom and Democracy
 
-Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI,§2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: "The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961."
+Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, as amended by Pub. L. 110–53, title XXI, §2121(b), (d), Aug. 3, 2007, 121 Stat. 532, provided that: "The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report entitled the Annual Report on Advancing Freedom and Democracy. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 90 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961."
 
 \[For definition of "Secretary" as used in section 665(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

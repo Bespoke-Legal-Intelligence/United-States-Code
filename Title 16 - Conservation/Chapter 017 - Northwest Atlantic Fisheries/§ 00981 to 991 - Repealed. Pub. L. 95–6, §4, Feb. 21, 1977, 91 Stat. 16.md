@@ -14,7 +14,7 @@ Section 986, acts Sept. 27, 1950, ch. 1054, §7, 64 Stat. 1069; Aug. 11, 1971, P
 
 Section 987, act Sept. 27, 1950, ch. 1054, §8, 64 Stat. 1069, related to Commissioner's cooperation with agencies of United States Government and State and private institutions and organizations.
 
-Section 988, acts Sept. 27, 1950, ch. 1054, §9, 64 Stat. 1069; Aug. 11, 1971, Pub. L. 92–87, §108, 85 Stat. 312; July10, 1974, Pub. L. 93–339, §1(f), 88 Stat. 293, related to activities declared unlawful with respect to this chapter.
+Section 988, acts Sept. 27, 1950, ch. 1054, §9, 64 Stat. 1069; Aug. 11, 1971, Pub. L. 92–87, §108, 85 Stat. 312; July 10, 1974, Pub. L. 93–339, §1(f), 88 Stat. 293, related to activities declared unlawful with respect to this chapter.
 
 Section 989, acts Sept. 27, 1950, ch. 1054, §10, 64 Stat. 1070; Aug. 11, 1971, Pub. L. 92–87, §109, 85 Stat. 312, covered the penalties for violations of section 988 of this title or any regulations adopted pursuant to this chapter.
 

@@ -122,5 +122,5 @@ Findings.—Congress finds that—
 
 "(b)
 
-Purpose.—The purpose of this Act \[see Short Title of 1998 Amendments note set out under section 3711 of this title\] is to save lives of law enforcement officers by helping State, local, and tribal law enforcement agencies provide officers with armor vests."
+Purpose.—The purpose of this Act \[see Short Title of 1998 Amendments note set out under section3711 of this title\] is to save lives of law enforcement officers by helping State, local, and tribal law enforcement agencies provide officers with armor vests."
 

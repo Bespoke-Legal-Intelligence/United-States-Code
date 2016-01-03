@@ -22,7 +22,7 @@
 
 #### (3) Affiliates described
 
-&emsp;Any company that would be an affiliate (as defined in sections 23A and 23B of the Federal Reserve Act) of any savings association if such savings association were a member bank (as such term is defined in such Act) shall be deemed to be an affiliate of such savings association for purposes of paragraph (1).
+&emsp;Any company that would be an affiliate (as defined in sections 23A and 23B of the Federal Reserve Act) of any savings association if such savings association were a member bank (as such term is defined in such Act) shall bedeemed to be an affiliate of such savings association for purposes of paragraph (1).
 
 #### (4) Additional restrictions authorized
 
@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, orhas the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 
@@ -106,7 +106,7 @@ Pub. L. 103–325, title III, §316(b), Sept. 23, 1994, 108 Stat. 2223, provided
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section 306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
+Amendment by Pub. L. 102–242 effective upon the earlier of the date on which final regulations under section306(m)(1) of Pub. L. 102–242 become effective or 150 days after Dec. 19, 1991, see section 306(l) of Pub. L. 102–242, set out as a note under section 375b of this title.
 
 #### Transitional Rule for Certain Transactions With Affiliates
 

@@ -16,7 +16,7 @@ Filing and Content.—In any proceeding in any court of the United States outsid
 
 (b)
 
-Vesting of Title.—On filing the declaration of taking and depositing in the court, to theuse of the persons entitled to the compensation, the amount of the estimated compensation stated in the declaration—
+Vesting of Title.—On filing the declaration of taking and depositing in the court, to the use of the persons entitled to the compensation, the amount of the estimated compensation stated in the declaration—
 
 &emsp;(1) title to the estate or interest specified in the declaration vests in the Government;
 

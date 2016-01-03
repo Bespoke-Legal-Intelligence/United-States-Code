@@ -2,7 +2,7 @@
 
 #### (a) Penalty for unlading prior to grant of permission
 
-The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise (including sea stores) to be unladen from such vessel at any time after its arrival within the customs waters and before such vessel has come to the proper place for the discharge of such merchandise, and before he has received a permit to unlade, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and such vessel and its cargo and the merchandise so unladen shall be seized and forfeited.
+The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise\(including sea stores) to be unladen from such vessel at any time after its arrival within the customs waters and before such vessel has come to the proper place for the discharge of such merchandise, and before he has received a permit to unlade, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and such vessel and its cargo and the merchandise so unladen shall be seized and forfeited.
 
 #### (b) Penalty for transshipment to any vessel for purpose of unlawful entry
 
@@ -36,7 +36,7 @@ Provisions substantially the same in effect as those contained in the act of 192
 
 #### Amendments
 
-<b>1993</b>—Subsecs. (a) to (c). Pub. L. 103–182, §620(1), inserted ", or of a hovering vessel which has received ordelivered merchandise while outside the territorial sea," after "from a foreign port or place".
+<b>1993</b>—Subsecs. (a) to (c). Pub. L. 103–182, §620(1), inserted ", or of a hovering vessel which has received or delivered merchandise while outside the territorial sea," after "from a foreign port or place".
 
 Subsec. (f). Pub. L. 103–182, §620(2), substituted "the Customs Service at the district" for "the appropriate customs officer of the district" and "the appropriate customs officer within the district" and "the Customs Service is satisfied" for "the appropriate customs officer is satisfied".
 
@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 103–182, §620(2), substituted "the Customs Service at th
 
 Subsec. (e). Pub. L. 99–570, §3119(2)(A), substituted "customs waters" for "one league of the coast of the United States".
 
-Pub. L. 99–570, §3119(2)(B), which directed that "15 years" be substituted for "2 years" was executed by making the substitution for "two years" as the probable intent of Congress.
+Pub. L. 99–570, §3119(2)(B), which directed that "15 years" be substituted for "2 years" was executed bymaking the substitution for "two years" as the probable intent of Congress.
 
 <b>1970</b>—Subsec. (f). Pub. L. 91–271 substituted references to appropriate customs officer for references to collector wherever appearing.
 

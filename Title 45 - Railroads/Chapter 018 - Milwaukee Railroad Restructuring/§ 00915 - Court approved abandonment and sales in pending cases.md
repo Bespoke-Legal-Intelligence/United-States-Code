@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 #### (b) Sale or transfer of lines of railroad under Bankruptcy Act
 
-(1) Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the court may authorize the sale or transfer of a line of railroad to be used in continued rail operations, subject to the approval of the Commission under paragraph (2) of this subsection, if the application with respect to such sale or transfer is filed with the Commission on or after November 1, 1979. In authorizing any such sale or transfer, the court shall provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 <sup>1</sup> of title 49.
+(1) Notwithstanding any other provision of law, in any case pending under section 77 of the Bankruptcy Act on November 4, 1979, the courtmay authorize the sale or transfer of a line of railroad to be used in continued rail operations, subject to the approval of the Commission under paragraph (2) of this subsection, if the application with respect to such sale or transfer is filed with the Commission on or after November 1, 1979. In authorizing any such sale or transfer, the court shall provide a fair arrangement at least as protective of the interests of employees as that required under section 11347 <sup>1</sup> of title 49.
 
 (2) The court described in paragraph (1) may not authorize a sale or transfer pursuant to such paragraph unless an appropriate application with respect to such sale or transfer is initiated with the Commission and, within such time as the court may fix, not exceeding 180 days, the Commission, with or without a hearing, as the Commission may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Commission approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
 
@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 (ii) If more than one applicant has requested under this subparagraph that the Commission prescribe the terms of acquisition for the same or overlapping lines or portions of such lines, the Commission shall prescribe terms for such acquisition which it determines best serve the public interest.
 
-(D)(i) Within 15 days after the Commission prescribes terms under subparagraph (C) of this paragraph, the Commission shall transmit such terms to the court, unless the offer is withdrawn under such subparagraph. Notwithstanding anyother provision of law, the court shall, within 60 days after such transmittal, approve the acquisition under terms prescribed by the Commission if the compensation for the line or lines is not less than that required as a constitutional minimum.
+(D)(i) Within 15 days after the Commission prescribes terms under subparagraph (C) of this paragraph, the Commission shall transmit such terms to the court, unless the offer is withdrawn under such subparagraph. Notwithstanding any other provision of law, the court shall, within 60 days after such transmittal, approve the acquisition under terms prescribed by the Commission if the compensation for the line or lines is not less than that required as a constitutional minimum.
 
 (ii) Except as provided in this subparagraph, no action shall be taken by the court which would prejudice the acquisition which is the subject of an application under this paragraph.
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 #### (c) Judicial review
 
-Any action or order of the Commission approving, modifying, conditioning, or disapproving an application for the sale or transfer of rail property that is filed with the Commission before November 1, 1979, in connection with a case pending under section 77 of the Bankruptcy Act on November 4, 1979—
+Any action or order of the Commission approving, modifying, conditioning, or disapproving an application for the sale or transfer of rail property that is filed with the Commission before November 1, 1979, in connection with a casepending under section 77 of the Bankruptcy Act on November 4, 1979—
 
 &emsp;(1) is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5; and
 
@@ -72,7 +72,7 @@ Section 11347 of title 49, referred to in subsecs. (a) and (b)(1), was omitted i
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -136,7 +136,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (iii) Treatment of certain lending or finance companies
 
-&emsp;&emsp;&emsp;If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term "passive investment income" shall not include gross receipts for the taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
+&emsp;&emsp;&emsp;If the S corporation meets the requirements of section 542(c)(6) for the taxable year, the term "passive investment income" shall not include gross receipts forthe taxable year which are derived directly from the active and regular conduct of a lending or finance business (as defined in section 542(d)(1)).
 
 #### (iv) Treatment of certain dividends
 
@@ -218,7 +218,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (D) Pro rata allocation for S termination year not to apply if 50-percent change in ownership
 
-&emsp;&emsp;Paragraph (2) shall not apply to an S termination year if there is a sale or exchange of 50 percent or more of the stock in such corporation during such year.
+&emsp;&emsp;Paragraph (2) shall not apply to an S termination year if there is a sale or exchangeof 50 percent or more of the stock in such corporation during such year.
 
 #### (f) Inadvertent invalid elections or terminations
 
@@ -378,7 +378,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 
 #### Treatment of Certain Elections Under Prior Law
 
-Pub. L. 104–188, title I, §1317(b), Aug. 20, 1996, 110 Stat. 1787, provided that: "For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account."
+Pub. L. 104–188, title I, §1317(b), Aug. 20, 1996, 110 Stat. 1787, provided that: "For purposes of section 1362(g) ofthe Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account."
 
 #### Subchapter S Election
 

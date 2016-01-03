@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1055; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1055; amended Pub. L. 99–661, div.A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
 
 #### Prior Provisions
 

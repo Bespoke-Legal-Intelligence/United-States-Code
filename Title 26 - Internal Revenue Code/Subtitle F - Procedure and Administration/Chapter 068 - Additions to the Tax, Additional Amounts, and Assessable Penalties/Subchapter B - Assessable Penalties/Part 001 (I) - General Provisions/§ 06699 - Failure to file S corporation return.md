@@ -38,6 +38,10 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 (Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, §128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(e), Dec. 19, 2014, 128 Stat. 4073.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
 #### Codification
 
 Section 9(a) of Pub. L. 110–142, which directed amendment of this part by adding this section at the end, was executed by inserting this section after section 6698, to reflect the probable intent of Congress.
@@ -56,7 +60,7 @@ A prior section 6699, added Pub. L. 95–600, title I, §141(c)(1), Nov. 6, 1978
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h)of Pub. L. 113–295, set out as a note under section 6651 of this title.
+Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
 
 #### Effective Date of 2009 Amendment
 

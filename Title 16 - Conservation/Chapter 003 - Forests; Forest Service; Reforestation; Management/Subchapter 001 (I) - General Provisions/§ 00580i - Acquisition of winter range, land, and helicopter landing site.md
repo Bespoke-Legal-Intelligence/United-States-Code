@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated—
 
-&emsp;(a) such sums as may be necessary for the acquisition of parcels of land and interests in land in Sanders County, Montana, needed by the Forest Service to provide winter range for its saddle, pack, and draft animals;
+&emsp;(a) such sums as may be necessary for the acquisition of parcels of land and interests inland in Sanders County, Montana, needed by the Forest Service to provide winter range for its saddle, pack, and draft animals;
 
 &emsp;(b) not to exceed $50,000 for the acquisition of additional land adjacent to the present site of the Forest Products Laboratory at Madison, Wisconsin; and
 

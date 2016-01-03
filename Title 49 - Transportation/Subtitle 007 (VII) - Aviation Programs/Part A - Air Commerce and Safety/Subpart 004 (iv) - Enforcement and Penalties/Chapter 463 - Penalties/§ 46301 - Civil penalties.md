@@ -4,7 +4,7 @@
 
 General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -16,7 +16,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (3)
 
-Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+Penalty for diversion of aviation revenues.—The amount of a civil penalty assessedunder this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
 (4)
 
@@ -84,7 +84,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) "repairman" means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any ofthose provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or section 46303 of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -408,7 +408,7 @@ Subsec. (a)(1)(A). Pub. L. 108–176, §503(a)(2), (3), struck out "or" before "
 
 Subsec. (a)(2). Pub. L. 108–176, §503(a)(5), substituted "section 41719" for "section 41715" in two places.
 
-Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: "Aperson operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
 &emsp;"(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
 
@@ -486,7 +486,7 @@ Pub. L. 104–264, §1220(b), which directed amendment of subpar. (A) by inserti
 
 Pub. L. 104–264, §502(c)(1), which directed amendment of subpar. (A) by inserting "44724," after "44718(d),", was repealed by Pub. L. 105–102.
 
-Subsec. (a)(2)(A). Pub. L. 104–287, §5(77)(B), substituted ", section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)" for "or any ofsections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938".
+Subsec. (a)(2)(A). Pub. L. 104–287, §5(77)(B), substituted ", section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938".
 
 Pub. L. 104–264, §502(c)(2), which directed amendment of subpar. (A) by inserting "44724," after "44716,", was repealed by Pub. L. 105–102.
 

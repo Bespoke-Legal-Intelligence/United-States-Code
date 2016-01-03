@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title32",
- "package": "USCODE-2014-title32",
+ "package": "USCODE-2015-title32",
  "pieces": [
   {
    "id": "32_",
@@ -147,7 +147,7 @@
     ],
     [
      "L",
-     212,
+     216,
      "[Page 10]",
      true
     ]
@@ -172,7 +172,7 @@
    "marks": [
     [
      "L",
-     8,
+     6,
      "[Page 11]",
      true
     ]
@@ -196,10 +196,14 @@
    "id": "32_111",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 12]",
-     true
+     "I",
+     20,
+     [
+      [
+       333,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Organization/§ 00111 - Suspension of certain provisions of this title.md",
@@ -212,26 +216,30 @@
    "id": "32_112",
    "marks": [
     [
+     "L",
+     50,
+     "[Page 13]",
+     true
+    ],
+    [
      "I",
-     52,
+     114,
      [
       [
-       142,
-       "[Page 13]"
+       117,
+       "[Page 14]"
       ]
      ]
     ],
     [
-     "L",
-     120,
-     "[Page 14]",
-     true
-    ],
-    [
-     "L",
-     202,
-     "[Page 15]",
-     true
+     "I",
+     192,
+     [
+      [
+       104,
+       "[Page 15]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Organization/§ 00112 - Drug interdiction and counter-drug activities.md",
@@ -245,7 +253,7 @@
    "marks": [
     [
      "L",
-     34,
+     30,
      "[Page 16]",
      true
     ]
@@ -267,30 +275,30 @@
   },
   {
    "id": "32_115",
-   "marks": [],
-   "path": "Chapter 001 - Organization/§ 00115 - Funeral honors duty performed as a Federal function.md",
-   "printed_pages": [
-    16,
-    16
-   ]
-  },
-  {
-   "id": "32_-ch3",
    "marks": [
     [
      "I",
-     6,
+     48,
      [
       [
-       56,
+       102,
        "[Page 17]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Personnel/README.md",
+   "path": "Chapter 001 - Organization/§ 00115 - Funeral honors duty performed as a Federal function.md",
    "printed_pages": [
     16,
+    17
+   ]
+  },
+  {
+   "id": "32_-ch3",
+   "marks": [],
+   "path": "Chapter 003 - Personnel/README.md",
+   "printed_pages": [
+    17,
     17
    ]
   },
@@ -308,10 +316,10 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       94,
+       135,
        "[Page 18]"
       ]
      ]
@@ -337,10 +345,10 @@
    "marks": [
     [
      "I",
-     6,
+     4,
      [
       [
-       267,
+       169,
        "[Page 19]"
       ]
      ]
@@ -357,7 +365,7 @@
    "marks": [
     [
      "L",
-     74,
+     68,
      "[Page 20]",
      true
     ]
@@ -372,10 +380,14 @@
    "id": "32_307",
    "marks": [
     [
-     "L",
-     82,
-     "[Page 21]",
-     true
+     "I",
+     80,
+     [
+      [
+       541,
+       "[Page 21]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Personnel/§ 00307 - Federal recognition of officers examination; certificate of eligibility.md",
@@ -398,10 +410,10 @@
    "marks": [
     [
      "I",
-     28,
+     24,
      [
       [
-       109,
+       765,
        "[Page 22]"
       ]
      ]
@@ -427,7 +439,7 @@
    "marks": [
     [
      "L",
-     24,
+     22,
      "[Page 23]",
      true
     ]
@@ -451,10 +463,14 @@
    "id": "32_314",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 24]",
-     true
+     "I",
+     60,
+     [
+      [
+       111,
+       "[Page 24]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003 - Personnel/§ 00314 - Adjutants general.md",
@@ -1160,6 +1176,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2014-title32 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2015-title32 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 32 - National Guard"
 }

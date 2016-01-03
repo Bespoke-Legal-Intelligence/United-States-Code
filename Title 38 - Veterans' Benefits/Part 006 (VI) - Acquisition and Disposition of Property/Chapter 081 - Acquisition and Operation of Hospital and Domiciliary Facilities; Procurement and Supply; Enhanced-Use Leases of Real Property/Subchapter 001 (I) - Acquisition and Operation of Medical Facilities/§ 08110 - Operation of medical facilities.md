@@ -6,7 +6,7 @@
 
 (3)(A) The Under Secretary for Health shall at the end of each fiscal year (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services, and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and make recommendations regarding the adequacy of staff levels for compliance with the policy established under subparagraph (C), the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds.
 
-(B) After considering the analyses and recommendations of the Under Secretary for Health pursuant to subparagraph (A) of this paragraph for any fiscal year, the Secretary shall report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Under Secretary for Health and on the numbers of operating beds and level of treatment capacities required to enable the Department to carry out the primary function of the Veterans Health Administration. The Secretary shall include in each such report recommendations for (i) the numbers of operating beds and the level of treatment capacities required for the health care of veterans and the maintenance of the contingency capacity referred to in paragraph (1) of this subsection, and (ii) the appropriate staffing and funds therefor.
+(B) After considering the analyses and recommendations of the Under Secretary for Healthpursuant to subparagraph (A) of this paragraph for any fiscal year, the Secretary shall report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Under Secretary for Health and on the numbers of operating beds and level of treatment capacities required to enable the Department to carry out the primary function of the Veterans Health Administration. The Secretary shall include in each such report recommendations for (i) the numbers of operating beds and the level of treatment capacities required for the health care of veterans and the maintenance of the contingency capacity referred to in paragraph (1) of this subsection, and (ii) the appropriate staffing and funds therefor.
 
 (C) The Secretary shall, in consultation with the Under Secretary for Health, establish a nationwide policy on the staffing of Department medical facilities in order to ensure that such facilities have adequate staff for the provision to veterans of appropriate, high-quality care and services. The policy shall take into account the staffing levels and mixture of staff skills required for the range of care and services provided veterans in Department facilities.
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) identify those specific activities that have been contracted for performance by contractor employees during the prior fiscal year (shown by location, subject, scope of contracts, and savings) and shall describe the effect of such contracts on the quality of delivery of health services during such year.
 
-(d) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report until the end of the 21-day period beginning on the date of the submission of the report.
+(d) The Secretary may not in any fiscal year close more than 50 percent of the beds within a bed section (of 20 or more beds) of a Department medical center unless the Secretary first submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report providing a justification for the closure. No action to carry out such closure may be taken after the submission of such report untilthe end of the 21-day period beginning on the date of the submission of the report.
 
 (e) The Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives, not later than January 20 of each year, a report documenting by network for the preceding fiscal year the following:
 
@@ -84,7 +84,7 @@ Subsec. (c)(3)(B). Pub. L. 103–446, §1201(d)(17), substituted "section 513 or
 
 Subsec. (c)(7). Pub. L. 103–446, §1201(g)(7), which provided for striking out obsolete or executed provisions and directed the amendment of subsec. (c) by striking out par. (7), was not executed because of the prior amendment of subsec. (c) by Pub. L. 103–446, §1103. See below.
 
-Pub. L. 103–446, §1103, added par. (7) and struck out former par. (7) which read as follows: "Not later than February 1, 1984, and February 1 of each of the five succeeding years, the Secretary shall submit a written report to Congress describing the extent to which activities at Department health-care facilities were performed by contractors during the preceding fiscal year and the actual cost savings resulting from such contracts."
+Pub. L. 103–446, §1103, added par. (7) and struck out former par. (7) which read as follows: "Not later thanFebruary 1, 1984, and February 1 of each of the five succeeding years, the Secretary shall submit a written report to Congress describing the extent to which activities at Department health-care facilities were performed by contractors during the preceding fiscal year and the actual cost savings resulting from such contracts."
 
 Subsec. (c)(8), (9). Pub. L. 103–446, §1103, added pars. (8) and (9).
 
@@ -168,7 +168,7 @@ Inventory.—The Secretary of Veterans Affairs shall establish and maintain a na
 
 &emsp;"(1) A statement of the current national policy of the Department on managing and disposing of medical waste, including regulated medical waste in all its forms.
 
-&emsp;"(2) A description of the program of each geographic service area of the Department to manageand dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
+&emsp;"(2) A description of the program of each geographic service area of the Department to manage and dispose of medical waste, including general medical waste and regulated medical waste, with a description of the primary methods used in those programs and the associated costs of those programs, with cost information shown separately for in-house costs (including full-time equivalent employees) and contract costs.
 
 "(b)
 

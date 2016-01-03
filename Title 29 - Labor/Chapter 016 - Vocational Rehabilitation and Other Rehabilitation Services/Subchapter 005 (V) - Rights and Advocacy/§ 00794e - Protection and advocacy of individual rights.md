@@ -44,7 +44,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (B) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which theallotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this section, and except as provided in paragraph (4), the allotment to any system under subparagraph (A) shall be not less than $100,000 or 1/3 of 1 percent of the remainder for the fiscal year for which the allotment is made, whichever is greater, and the allotment to any system under this section for any fiscal year that is less than $100,000 or 1/3 of 1 percent of such remainder shall be increased to the greater of the two amounts.
 
 #### (4) Systems within other jurisdictions
 
@@ -144,7 +144,7 @@ The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 
 
 The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
+Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred toin subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 (2) Paragraph (1) applies to an employee—
 
-&emsp;(A) the duties and responsibilities of whose position continue outside normal duty hoursand while away from the normal duty post; and
+&emsp;(A) the duties and responsibilities of whose position continue outside normal duty hours and while away from the normal duty post; and
 
 &emsp;(B) who is—
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) any general partner of a partnership owner of that property; and
 
-&emsp;&emsp;(C) any agent employed to manage the property that has an identity of interestwith the owner or the general partner of a partnership owner of the property.
+&emsp;&emsp;(C) any agent employed to manage the property that has an identity of interest with the owner or the general partner of a partnership owner of the property.
 
 #### (2) Violations
 
@@ -116,7 +116,7 @@ The Secretary may compromise, modify, or remit any civil money penalty which may
 
 #### (2) Exception
 
-&emsp;Notwithstanding any other provision of law, if the mortgage covering the property receiving assistance under section 8 \[42 U.S.C. 1437f\] is neither insured nor formerly insured by the Secretary, the Secretary shall make all civilmoney penalties collected under this section available for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary.
+&emsp;Notwithstanding any other provision of law, if the mortgage covering the property receiving assistance under section 8 \[42 U.S.C. 1437f\] is neither insured nor formerly insured by the Secretary, the Secretary shall make all civil money penalties collected under this section available for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary.
 
 #### (h) Definitions
 

@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (B) Shorter temporary period for loan repayments, etc.
 
-&emsp;&emsp;Subparagraph (A) shall be applied by substituting "3 months" for "6 months" with respect to the proceeds from the sale or repayment of any loan which are to be used to make or finance any loan. For purposes of the preceding sentence, a nonpurpose investment shall not be treated as a loan.
+&emsp;&emsp;Subparagraph (A) shall be applied by substituting "3 months" for "6 months" with respect to the proceeds from the sale or repayment of any loan which are to be used tomake or finance any loan. For purposes of the preceding sentence, a nonpurpose investment shall not be treated as a loan.
 
 #### (C) Bonds used to provide construction financing
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely byreason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
+&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely by reason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
@@ -434,7 +434,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (iii) Certain refunding bonds not taken into account in determining small issuer status
 
-&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amountof the refunding bond does not exceed the outstanding amount of the refunded bond.
+&emsp;&emsp;&emsp;There shall not be taken into account under subclause (IV) of clause (i) any bond issued to refund (other than to advance refund) any bond to the extent the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
 
 #### (iv) Certain issues issued by subordinate governmental units, etc., exempt from rebate requirement
 
@@ -478,7 +478,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (5) Exemption from gross income of sum rebated
 
-&emsp;Gross income shall not include the sum described in paragraph (2). Notwithstanding any other provision of this title, no deduction shall be allowed for any amount paid to the United States under paragraph (2).
+&emsp;Gross income shall not include the sum described in paragraph (2). Notwithstanding anyother provision of this title, no deduction shall be allowed for any amount paid to the United States under paragraph (2).
 
 #### (6) Definitions
 
@@ -528,7 +528,7 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388-513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362.)
 
 #### References in Text
 
@@ -562,7 +562,7 @@ Subsec. (c)(2)(D), (E). Pub. L. 101–508, §11701(j)(6), made technical amendme
 
 Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sentence "replacement fund, and gross proceeds which arise after such 6 months and which were not reasonably anticipated as of the date of issuance, shall not be considered gross proceeds for purposes of subclause (I) only" for "replacement fund shall not be considered gross proceeds for purposes of this subparagraph only" in concluding provisions.
 
-Subsec. (f)(4)(B)(i)(II). Pub. L. 101–508, §11701(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the requirements of paragraph (2) are met after such 6 months with respect to earnings on amounts in any reasonably required reserve or replacement fund."
+Subsec. (f)(4)(B)(i)(II). Pub. L. 101–508, §11701(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the requirements of paragraph (2) are met after such 6 months with respect toearnings on amounts in any reasonably required reserve or replacement fund."
 
 Subsec. (f)(4)(B)(iv). Pub. L. 101–508, §11701(j)(4), amended cl. (iv) generally, substituting present provisions for provisions which provided for a special rule to be applied during a 2-year period for certain construction bonds from issues in which at least 75 percent of the net proceeds of the issue were to be used for construction expenditures with respect to property which was owned by a governmental unit or a 501(c)(3) organization.
 
@@ -572,7 +572,7 @@ Subsec. (f)(4)(C) to (E). Pub. L. 101–508, §11701(j)(3)(A), (B), added subpar
 
 Subsec. (d)(3)(E)(ii). Pub. L. 101–239, §7814(c)(2), struck out "a qualified mortgage bond or" after "in the case of".
 
-Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are heldin a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only."
+Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are held in a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only."
 
 Subsec. (f)(4)(B)(ii)(I). Pub. L. 101–239, §7652(d), inserted "each place it appears" after " '6 months' ".
 
@@ -638,7 +638,7 @@ Pub. L. 101–508, title XI, §11701(j)(8), Nov. 5, 1990, 104 Stat. 1388–513, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made bythis section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by sections 7814(c)(2) and 7816(r), (t) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 

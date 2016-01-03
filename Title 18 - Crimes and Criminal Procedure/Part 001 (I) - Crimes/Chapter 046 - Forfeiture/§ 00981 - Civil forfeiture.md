@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
-&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting "specified unlawful activity" (as defined in section1956(c)(7) of this title), or a conspiracy to commit such offense.
+&emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 670, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting "specified unlawful activity" (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
 &emsp;(D) Any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, from a violation of—
 
@@ -46,7 +46,7 @@
 
 &emsp;(G) All assets, foreign or domestic—
 
-&emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
+&emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any any <sup>1</sup> Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the UnitedStates, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
 
 &emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
@@ -66,7 +66,7 @@
 
 (b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
 
-(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure,except that a seizure may be made without a warrant if—
+(2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
 &emsp;(A) a complaint for forfeiture has been filed in the United States district court and the court issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
 
@@ -84,7 +84,7 @@
 
 (B) The application for the restraining order shall set forth the nature and circumstances of the foreign charges and the basis for belief that the person arrested or charged has property in the United States that would be subject to forfeiture, and shall contain a statement that the restraining order is needed to preserve the availability of property for such time as is necessary to receive evidence from the foreign country or elsewhere in support of probable cause for the seizure of the property under this subsection.
 
-(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
+(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the AttorneyGeneral, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
 
 &emsp;(1) place the property under seal;
 
@@ -342,7 +342,7 @@ Subsec. (a)(1)(C). Pub. L. 100–690, §6463(a)(2), struck out subpar. (C) which
 
 Subsec. (a)(2). Pub. L. 100–690, §6470(e), substituted "omission" for "emission".
 
-Subsec. (b). Pub. L. 100–690, §6463(b), which directed amendment of subsec. (b) by substituting "involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury" for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" was executed by substituting the new language for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 100–690, §6463(b), which directed amendment of subsec. (b) by substituting "involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury" for "involved in a violation ofsection 1956 or 1957 of this title investigated by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" was executed by substituting the new language for "involved in a violation of section 1956 or 1957 of this title investigated by the Secretary of the Treasury, may be seized by the Secretary of the Treasury, and any property subject to forfeiture under subsection (a)(1)(C) of this section" in introductory provisions, to reflect the probable intent of Congress.
 
 Pub. L. 100–690, §6469(b)(1), inserted "or the Postal Service" after "Secretary of the Treasury" in two places in introductory provisions.
 
@@ -382,7 +382,7 @@ Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided tha
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting thissection, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
 
 #### Severability
 

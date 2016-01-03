@@ -74,7 +74,7 @@ An order approving a physical search under this section shall—
 
 (4) A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title.
 
-(5) In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the physical search, no information obtained or evidence derived from such physical search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerningany United States person acquired from such physical search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+(5) In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the physical search, no information obtained or evidence derived from such physical search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such physical search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 (6) The Attorney General shall assess compliance with the requirements of paragraph (5).
 
@@ -94,7 +94,7 @@ This chapter, referred to in subsec. (d)(2), was in the original "this Act", mea
 
 Subsec. (c)(2)(C). Pub. L. 111–259, §806(a)(2), made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted "or is about to be" before "owned" in par. (2)(B), substituted "1823(a)(6)(E)" for "1823(a)(7)(E)" in par. (4), and struck out former par. (1) which read as follows: "the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;".
+<b>2008</b>—Subsec. (a). Pub. L. 110–261, §107(b)(1), (c)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, inserted "or is about to be" before "owned" in par. (2)(B), substituted "1823(a)(6)(E)" for "1823(a)(7)(E)" in par. (4), and struck out former par. (1) which read as follows:"the President has authorized the Attorney General to approve applications for physical searches for foreign intelligence purposes;".
 
 Subsec. (d)(2). Pub. L. 110–261, §110(c)(3), substituted "paragraph (5), (6), or (7) of section 1801(a)" for "section 1801(a)(5) or (6)".
 

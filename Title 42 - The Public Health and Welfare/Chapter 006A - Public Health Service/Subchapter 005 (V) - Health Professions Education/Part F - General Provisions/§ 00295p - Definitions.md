@@ -126,11 +126,11 @@ Mental health service professional.—The term "mental health service profession
 
 &emsp;(23)
 
-One-stop delivery system center.—The term "one-stop delivery system" means aone-stop delivery system described in section 2864(c) of title 29.
+One-stop delivery system center.—The term "one-stop delivery system" means a one-stop delivery system described in section 3151(e) of title 29.
 
 &emsp;(24)
 
-Paraprofessional child and adolescent mental health worker.—The term "paraprofessional child and adolescent mental health worker" means an individual who is not a mental or behavioral health service professional, but who works at the first stage of contact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
+Paraprofessional child and adolescent mental health worker.—The term "paraprofessional child and adolescent mental health worker" means an individual who is not a mental or behavioral health service professional, but who works at the first stage ofcontact with children and families who are seeking mental or behavioral health services, including substance abuse prevention and treatment services.
 
 &emsp;(25)
 
@@ -141,10 +141,6 @@ Racial and ethnic minority group; racial and ethnic minority population.—The t
 Rural health clinic.—The term "rural health clinic" has the meaning given that term in section 1395x(aa) of this title.
 
 (July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5002(b), Mar. 23, 2010, 124 Stat. 590; Pub. L. 113–128, title V, §512(z)(3), July 22, 2014, 128 Stat. 1716.)
-
-#### Amendment of Paragraph (23)
-
-<i>Pub. L. 113–128, title V, §§506, 512(z)(3), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (23) of this section is amended by striking "one-stop delivery system described in section 2864(c) of title 29" and inserting "one-stop delivery system described in section 3151(e) of title 29". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -182,7 +178,7 @@ Par. (11). Pub. L. 105–392, §108(e), added par. (11).
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for anytaxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
+&emsp;&emsp;Any loss with respect to 1 or more positions shall be taken into account for any taxable year only to the extent that the amount of such loss exceeds the unrecognized gain (if any) with respect to 1 or more positions which were offsetting positions with respect to 1 or more positions from which the loss arose.
 
 #### (B) Carryover of loss
 
@@ -52,7 +52,7 @@
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, the rules for the application of this section to a position which is or has been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii), and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, the rules for the application of this section to a position which is orhas been a liability or obligation, methods of loss allocation which satisfy the requirements of subparagraph (A)(iii), and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
 
 #### (3) Unrecognized gain
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(vi) there are such other factors (or satisfaction of subjective or objective tests) as the Secretary may by regulations prescribe as indicating that such positions are offsetting.
 
-> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as describedin clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
+> &emsp;&emsp;For purposes of the preceding sentence, 2 or more positions shall be treated as described in clause (i), (ii), (iii), or (vi) only if the value of 1 or more of such positions ordinarily varies inversely with the value of 1 or more other such positions.
 
 #### (B) Presumption may be rebutted
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the closing price of such stock on the most recent day on which such stock was traded before the date on which such option was granted, or
 
-&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110percent of the price determined under clause (i).
+&emsp;&emsp;&emsp;(ii) the opening price of such stock on the day on which such option was granted, but only if such price is greater than 110 percent of the price determined under clause (i).
 
 #### (H) Regulations
 
@@ -366,7 +366,7 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482.)
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482.)
 
 #### References in Text
 
@@ -440,7 +440,7 @@ Subsec. (d)(2). Pub. L. 98–369, §101(a)(1), redesignated former subpar. (A) a
 
 Subsec. (d)(3), (4). Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to specialrules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
+Subsec. (d)(5). Pub. L. 98–369, §101(d), amended par. (4) generally, substituting provisions relating to special rules for section 1256 contracts for provisions relating to special rules for regulated futures contracts.
 
 Pub. L. 98–369, §101(b)(2), as amended by Pub. L. 99–514, §1899A(66), redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -610,7 +610,7 @@ Commodities Dealer.—For purposes of this section, the term 'commodities dealer
 
 &emsp;"(1) at any time before January 1, 1982, was an individual described in section 1402(i)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this subtitle), or
 
-&emsp;"(2) was a member of the family (within the meaning of section 704(e)(3) of such Code) of an individual described in paragraph (1) to the extent such member engaged in commodities trading through an organization the members of which consisted solely of—
+&emsp;"(2) was a member of the family (within the meaning of section 704(e)(3) \[now 704(e)(2)\] of such Code) of an individual described in paragraph (1) to the extent such member engaged in commodities trading through an organization the members of which consisted solely of—
 
 &emsp;&emsp;"(A) 1 or more individuals described in paragraph (1), and
 

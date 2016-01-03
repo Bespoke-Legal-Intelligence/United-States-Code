@@ -16,7 +16,7 @@ The purposes of this chapter are to—
 
 &emsp;(7) protect the Eighth Amendment rights of Federal, State, and local prisoners;
 
-&emsp;(8) increase the efficiency and effectiveness of Federal expenditures through grant programs such as those dealing with health care; mental health care; disease prevention; crime prevention, investigation, and prosecution;prison construction, maintenance, and operation; race relations; poverty; unemployment; and homelessness; and
+&emsp;(8) increase the efficiency and effectiveness of Federal expenditures through grant programs such as those dealing with health care; mental health care; disease prevention; crime prevention, investigation, and prosecution; prison construction, maintenance, and operation; race relations; poverty; unemployment; and homelessness; and
 
 &emsp;(9) reduce the costs that prison rape imposes on interstate commerce.
 

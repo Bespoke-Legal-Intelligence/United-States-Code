@@ -2,7 +2,7 @@
 
 (a) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the Armed Forces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
 
-(b) A person who is not a high school graduate may not be accepted for enlistment in the armedforces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
+(b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
 (Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840.)
 
@@ -28,7 +28,7 @@ Pub. L. 97–86, title IV, §402(b)(2), Dec. 1, 1981, 95 Stat. 1105, provided th
 
 #### Pilot Program for Treating GED and Home School Diploma Recipients as High School Graduates for Determinations of Eligibility for Enlistment in Armed Forces
 
-Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
+Pub. L. 105–261, div. A, title V, §571, Oct. 17, 1998, 112 Stat. 2033, as amended by Pub. L. 106–65, div. A, title X,§1067(3), Oct. 5, 1999, 113 Stat. 774, directed the Secretary of Defense to establish a pilot program during the period Oct. 1, 1998, to Sept. 30, 2003, to assess whether the Armed Forces could better meet recruiting requirements by treating GED recipients and home school diploma recipients as having graduated from high school with a high school diploma for the purpose of determining eligibility of those persons to enlist in the Armed Forces, and to submit to committees of Congress a report on the program not later than Feb. 1, 2004.
 
 #### Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates
 

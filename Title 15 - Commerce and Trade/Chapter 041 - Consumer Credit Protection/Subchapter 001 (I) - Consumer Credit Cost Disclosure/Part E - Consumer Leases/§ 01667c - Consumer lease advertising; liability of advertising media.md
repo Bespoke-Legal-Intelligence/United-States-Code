@@ -22,9 +22,9 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 #### (1) In general
 
-&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection\(a) of this section if such advertisement clearly and conspicuously—
+&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) if such advertisement clearly and conspicuously—
 
-&emsp;&emsp;(A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
+&emsp;&emsp;(A) states the information required by paragraphs (1) and (2) of subsection (a);
 
 &emsp;&emsp;(B) states the number, amounts, due dates or periods of scheduled payments, and the total of such payments under the lease;
 
@@ -32,13 +32,13 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;&emsp;(i) a referral to—
 
-&emsp;&emsp;&emsp;&emsp;(I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a) of this section; or
+&emsp;&emsp;&emsp;&emsp;(I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a); or
 
 &emsp;&emsp;&emsp;&emsp;(II) a written advertisement that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast during the period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) includes the information required to be disclosed under subsection (a) of this section; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) includes the information required to be disclosed under subsection (a); and
 
 &emsp;&emsp;&emsp;(ii) the name and dates of any publication referred to in clause (i)(II); and
 
@@ -54,7 +54,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 &emsp;&emsp;&emsp;(ii) maintain such telephone number for a period of not less than 10 days, beginning on the date of any such broadcast; and
 
-&emsp;&emsp;&emsp;(iii) provide the information required under subsection (a) of this section with respect to the lease to any person who calls such number.
+&emsp;&emsp;&emsp;(iii) provide the information required under subsection (a) with respect to the lease to any person who calls such number.
 
 #### (B) Form of information
 

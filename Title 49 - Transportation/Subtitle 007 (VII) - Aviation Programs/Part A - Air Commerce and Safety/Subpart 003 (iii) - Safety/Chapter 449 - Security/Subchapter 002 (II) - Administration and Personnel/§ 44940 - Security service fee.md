@@ -56,7 +56,7 @@ In general.—Notwithstanding section 9701 of title 31 and the procedural requir
 
 &emsp;(2)
 
-Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) <sup>1</sup> shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is notcollected from the passenger, the amount of the fee shall be paid by the carrier.
 
 &emsp;(3)
 
@@ -152,7 +152,11 @@ Fiscal year amounts.—For purposes of paragraphs (1) and (2), the fiscal year a
 
 &emsp;&emsp;(J) $1,520,000,000 for fiscal year 2023.
 
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 113–294, §1(a), Dec. 19, 2014, 128 Stat. 4009.)
+&emsp;&emsp;(K) $1,560,000,000 for fiscal year 2024.
+
+&emsp;&emsp;(L) $1,600,000,000 for fiscal year 2025.
+
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 110–53, title XVI, §1601, Aug. 3, 2007, 121 Stat. 477; Pub. L. 110–161, div. E, title V, §540, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 113–67, div. A, title VI, §601(a)(1), (2), (b), (c), Dec. 26, 2013, 127 Stat. 1187; Pub. L. 113–294, §1(a), Dec. 19, 2014, 128 Stat. 4009; Pub. L. 114–41, title III, §3001, July 31, 2015, 129 Stat. 460.)
 
 #### References in Text
 
@@ -164,11 +168,13 @@ Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directe
 
 #### Amendments
 
+<b>2015</b>—Subsec. (i)(4)(K), (L). Pub. L. 114–41 added subpars. (K) and (L).
+
 <b>2014</b>—Subsec. (c). Pub. L. 113–294 amended subsec. (c) generally. Prior to amendment, text read as follows: "Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States."
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 113–67, §601(a)(1), struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
-Subsec. (c). Pub. L. 113–67, §601(b), amended subsec. (c) generally. Prior to amendment, text read as follows: "Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip."
+Subsec. (c). Pub. L. 113–67, §601(b), amended subsec. (c) generally. Prior to amendment, text read as follows:"Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip."
 
 Subsec. (d)(1). Pub. L. 113–67, §601(a)(2), struck out ", and may impose a fee under subsection (a)(2)," after "under subsection (a)(1)".
 

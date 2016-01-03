@@ -74,7 +74,7 @@ Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 
 
 Section 109(c) contains a provision which tracks the Senate amendment as to when a municipality may be a debtor under chapter 11 of title 11. As under the Bankruptcy Act \[former title 11\], State law authorization and prepetition negotiation efforts are required.
 
-Section 109(e) represents a compromise between H.R. 8200 as passed by the House and the Senate amendment relating to the dollar amounts restricting eligibility to be a debtor under chapter 13 of title 11. The House amendment adheres to the limit of $100,000 placed on unsecured debts in H.R. 8200 as passed by the House. Itadopts a midpoint of $350,000 as a limit on secured claims, a compromise between the level of $500,000 in H.R. 8200 as passed by the House and $200,000 as contained in the Senate amendment.
+Section 109(e) represents a compromise between H.R. 8200 as passed by the House and the Senate amendment relating to the dollar amounts restricting eligibility to be a debtor under chapter 13 of title 11. The House amendment adheres to the limit of $100,000 placed on unsecured debts in H.R. 8200 as passed by the House. It adopts a midpoint of $350,000 as a limit on secured claims, a compromise between the level of $500,000 in H.R. 8200 as passed by the House and $200,000 as contained in the Senate amendment.
 
 #### senate report no. 95–989
 
@@ -184,7 +184,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts "360,475" and "1,081,400" were adjusted to "383,175" and "1,149,525", respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts "383,175" and "1,149,525" were adjusted to "394,725" and "1,184,200",respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (e), dollar amounts "360,475" and "1,081,400" were adjusted to "383,175" and "1,149,525", respectively, each time they appeared.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (e), dollar amounts "336,900" and "1,010,650" were adjusted to "360,475" and "1,081,400", respectively, each time they appeared.
 

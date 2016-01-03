@@ -24,9 +24,9 @@ The Commission shall consist of 13 members as follows:
 
 #### (c) Terms
 
-(1) Members shall be appointed for terms of 3 years. A member may be reappointed only 3 times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1) of this section, in which case such member may be reappointed 4 times. A member may serve after the expiration of his term until a successor is appointed.
+(1) Members shall be appointed for terms of 3 years. A member may be reappointed only 3 times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1), in which case such member may be reappointed 4 times. A member may serve after the expiration of his term until a successor is appointed.
 
-(2) The Secretary shall appoint the first members of the Commission within 30 days after the date on which the Secretary has received all of the recommendations for appointment pursuant to subsections <sup>1</sup> (b)(2), (4), (5), (6), and (7) of this section.
+(2) The Secretary shall appoint the first members of the Commission within 30 days after the date on which the Secretary has received all of the recommendations for appointment pursuant to subsections <sup>1</sup> (b)(2), (4), (5), (6), and (7).
 
 #### (d) Chair and vice chair
 
@@ -66,7 +66,7 @@ The Commission shall cease to exist on January 1, 2004.
 
 #### References in Text
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

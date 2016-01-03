@@ -44,7 +44,7 @@ Transfer to miscellaneous receipts.—At least once each year, excess amounts be
 
 &emsp;(4)
 
-Report.—A report of receipts, disbursements, and transfers to miscellaneous receiptsunder this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
+Report.—A report of receipts, disbursements, and transfers to miscellaneous receipts under this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
 
 (b)
 
@@ -102,7 +102,7 @@ Availability of amount deposited.—To the extent provided in an appropriation l
 
 &emsp;&emsp;&emsp;(ii) In the case of property located at any other military installation—
 
-&emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount is available for facility maintenance and repair or environmental restoration at the military installation where the property was located before it was disposed of or transferred; and
+&emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount is available for facility maintenance and repairor environmental restoration at the military installation where the property was located before it was disposed of or transferred; and
 
 &emsp;&emsp;&emsp;&emsp;(II) 50 percent of the amount is available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
 

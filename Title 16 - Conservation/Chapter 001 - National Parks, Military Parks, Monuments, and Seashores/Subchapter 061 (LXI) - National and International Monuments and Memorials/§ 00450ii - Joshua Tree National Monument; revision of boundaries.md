@@ -1,6 +1,6 @@
 ### §450ii. Joshua Tree National Monument; revision of boundaries
 
-Joshua Tree National Monument, in the State of California, established by Proclamation Numbered 2193, of August 10, 1936 (50 Stat. 1760), afterSeptember 25, 1950, shall comprise the following-described area:
+Joshua Tree National Monument, in the State of California, established by Proclamation Numbered 2193, of August 10, 1936 (50 Stat. 1760), after September 25, 1950, shall comprise the following-described area:
 
 san bernardino meridian
 
@@ -8,13 +8,13 @@ Township 1 south, range 5 east, sections 22 to 27, inclusive, and sections 34 to
 
 &emsp;Beginning at the United States Government Land Office monument marked as the east quarter corner of said section 33, thence proceeding on a true bearing south 89 degrees 02 minutes 10 seconds west a distance of 50.01 feet to the true point of beginning of the hereinafter described parcel of land;
 
-&emsp;Thence north 0 degrees 02 minutes 55 seconds west a distance of 250.08 feet to a point of curve; thence along the arc of a curve to the left having a radius of 20.00 feet a distance of 31.73 feet to a point of tangency; thence south 89 degrees 02 minutes 40 seconds west a distance of 2,559.24 feet; thence south 0 degrees 19 minutes 50 seconds east a distance of 270.76 feet;
+&emsp;Thence north 0 degrees 02 minutes 55 seconds west a distance of 250.08 feet to a point ofcurve; thence along the arc of a curve to the left having a radius of 20.00 feet a distance of 31.73 feet to a point of tangency; thence south 89 degrees 02 minutes 40 seconds west a distance of 2,559.24 feet; thence south 0 degrees 19 minutes 50 seconds east a distance of 270.76 feet;
 
 &emsp;Thence south 0 degrees 21 minutes 02 seconds east a distance of 409.32 feet to the beginning of a curve; thence along the arc of a curve to the left having a radius of 280.98 feet a distance of 275.93 feet to a point of compound curvature; thence along the arc of a curve to the left having a radius of 800.00 feet a distance of 753.98 feet to a point of tangency; thence north 69 degrees 22 minutes 58 seconds east a distance of 125.31 feet to the beginning of a curve;
 
 &emsp;Thence along the arc of a curve to the right having a radius of 1,400.00 feet a distance of 1.042.74 feet to a point of tangency; thence south 67 degrees 56 minutes 33 seconds east a distance of 94.55 feet to the beginning of a curve; thence along the arc of a curve to the left having a radius of 700.00 feet a distance of 366.52 feet to a point of compound curvature;
 
-&emsp;Thence along the arc of a curve to the left having a radius of 167.60 feet a distance of240.17 feet to a point of tangency; thence north 0 degrees 02 minutes 55 seconds west a distance of 648.91 feet to the point of beginning containing 57.839 acres, more or less.
+&emsp;Thence along the arc of a curve to the left having a radius of 167.60 feet a distance of 240.17 feet to a point of tangency; thence north 0 degrees 02 minutes 55 seconds west a distance of 648.91 feet to the point of beginning containing 57.839 acres, more or less.
 
 (Sept. 25, 1950, ch. 1030, §1, 64 Stat. 1033; Pub. L. 87–80, June 30, 1961, 75 Stat. 197.)
 

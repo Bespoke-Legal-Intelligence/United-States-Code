@@ -14,7 +14,7 @@
 
 &emsp;&emsp;If the plan or coverage includes an aggregate lifetime limit on substantially all medical and surgical benefits (in this paragraph referred to as the "applicable lifetime limit"), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medicaland surgical benefits and mental health and substance use disorder benefits; or
 
 &emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance use disorder benefits that is less than the applicable lifetime limit.
 
@@ -70,7 +70,7 @@
 
 #### (4) Availability of plan information
 
-&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
+&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiaryshall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
 
 #### (5) Out-of-network providers
 
@@ -116,7 +116,7 @@ Nothing in this section shall be construed—
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a group health plan (or health insurance coverage offered in connection with such a plan), if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determinedand certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
+&emsp;&emsp;With respect to a group health plan (or health insurance coverage offered in connection with such a plan), if the application of this section to such plan (or coverage) results in an increase for the plan year involved of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan (as determined and certified under subparagraph (C)) by an amount that exceeds the applicable percentage described in subparagraph (B) of the actual total plan costs, the provisions of this section shall not apply to such plan (or coverage) during the following plan year, and such exemption shall apply to the plan (or coverage) for 1 plan year. An employer may elect to continue to apply mental health and substance use disorder parity pursuant to this section with respect to the group health plan (or coverage) involved regardless of any increase in total costs.
 
 #### (B) Applicable percentage
 
@@ -138,7 +138,7 @@ Nothing in this section shall be construed—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connection with a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
+&emsp;&emsp;&emsp;A group health plan (or a health insurance issuer offering coverage in connectionwith a group health plan) that, based upon a certification described under subparagraph (C), qualifies for an exemption under this paragraph, and elects to implement the exemption, shall promptly notify the Secretary, the appropriate State agencies, and participants and beneficiaries in the plan of such election.
 
 #### (ii) Requirement
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (3) Medical or surgical benefits
 
-&emsp;The term "medical or surgical benefits" means benefits with respect to medical or surgical services, as defined under the terms of the plan or coverage (as the case may be), butdoes not include mental health or substance use disorder benefits.
+&emsp;The term "medical or surgical benefits" means benefits with respect to medical or surgical services, as defined under the terms of the plan or coverage (as the case may be), but does not include mental health or substance use disorder benefits.
 
 #### (4) Mental health benefits
 
@@ -198,7 +198,7 @@ The Secretary shall, by January 1, 2012, and every two years thereafter, submit 
 
 The Secretary, in cooperation with the Secretaries of Health and Human Services and Treasury, as appropriate, shall publish and widely disseminate guidance and information for group health plans, participants and beneficiaries, applicable State and local regulatory bodies, and the National Association of Insurance Commissioners concerning the requirements of this section and shall provide assistance concerning such requirements and the continued operation of applicable State law. Such guidance and information shall inform participants and beneficiaries of how they may obtain assistance under this section, including, where appropriate, assistance from State consumer and insurance agencies.
 
-(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(a), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(b), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(a), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, §401(b), June 17, 2008, 122 Stat. 1649; Pub. L. 110–343, div. C, title V, §512(a), (g)(1)(A), Oct. 3, 2008, 122 Stat. 3881, 3892.)
+(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a),Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(a), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(b), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(a), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, §401(b), June 17, 2008, 122 Stat. 1649; Pub. L. 110–343, div. C, title V, §512(a), (g)(1)(A), Oct. 3, 2008, 122 Stat. 3881, 3892.)
 
 #### Amendments
 

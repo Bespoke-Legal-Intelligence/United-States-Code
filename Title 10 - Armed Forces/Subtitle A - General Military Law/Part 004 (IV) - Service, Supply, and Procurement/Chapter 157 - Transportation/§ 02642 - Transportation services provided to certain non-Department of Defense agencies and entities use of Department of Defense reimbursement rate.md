@@ -6,7 +6,7 @@ Authority.—Subject to subsection (b), the Secretary of Defense may authorize t
 
 &emsp;(1) For military transportation services provided to the Central Intelligence Agency, if the Secretary of Defense determines that those military transportation services are provided for activities related to national security objectives.
 
-&emsp;(2) For military transportation services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of theDepartment of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
+&emsp;(2) For military transportation services provided to the Department of State for the transportation of armored motor vehicles to a foreign country to meet requirements of the Department of State for armored motor vehicles associated with the overseas travel of the Secretary of State in that country.
 
 &emsp;(3) For military transportation services provided to any element of the Federal Government outside the Department of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of transportation capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial transportation industry.
 

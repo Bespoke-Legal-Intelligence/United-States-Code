@@ -24,7 +24,7 @@ State demonstration projects carried out under this section may include projects
 
 &emsp;(2) enhance benefits or provide for innovative program delivery models in the school meals, afterschool snack, and child and adult care food programs under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.);
 
-&emsp;(3) target Federal, State, or local assistance, including emergency housing, family preservation services, child care, or temporary assistance at households with children who are experiencing hunger or food insecurity, to theextent permitted by the legal authority establishing those assistance programs and services;
+&emsp;(3) target Federal, State, or local assistance, including emergency housing, family preservation services, child care, or temporary assistance at households with children who are experiencing hunger or food insecurity, to the extent permitted by the legal authority establishing those assistance programs and services;
 
 &emsp;(4) enhance outreach to increase access and participation in Federal nutrition assistance programs; and
 
@@ -118,7 +118,7 @@ In determining the range of projects and defining selection criteria under this 
 
 &emsp;&emsp;&emsp;(ii) the results of any evaluations of the demonstration projects completed during the previous fiscal year; and
 
-&emsp;&emsp;(B) ensure that the evaluation results are shared broadly to inform policy makers,service providers, other partners, and the public in order to promote the wide use of successful strategies.
+&emsp;&emsp;(B) ensure that the evaluation results are shared broadly to inform policy makers, service providers, other partners, and the public in order to promote the wide use of successful strategies.
 
 #### (g) Authorization of appropriations
 

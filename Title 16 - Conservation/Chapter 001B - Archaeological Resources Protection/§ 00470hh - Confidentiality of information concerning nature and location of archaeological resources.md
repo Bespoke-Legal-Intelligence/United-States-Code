@@ -10,7 +10,7 @@ Information concerning the nature and location of any archaeological resource fo
 
 #### (b) Request for disclosure by Governors
 
-Notwithstanding the provisions of subsection (a) of this section, upon the written request of the Governor of any State, which request shall state—
+Notwithstanding the provisions of subsection (a), upon the written request of the Governor of any State, which request shall state—
 
 &emsp;(1) the specific site or area for which information is sought,
 
@@ -18,11 +18,11 @@ Notwithstanding the provisions of subsection (a) of this section, upon the writt
 
 &emsp;(3) a commitment by the Governor to adequately protect the confidentiality of such information to protect the resource from commercial exploitation,
 
-> the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
+> the Federal land manager concerned shall provide to the Governor information concerning thenature and location of archaeological resources within the State of the requesting Governor.
 
 (Pub. L. 96–95, §9, Oct. 31, 1979, 93 Stat. 727; Pub. L. 113–287, §5(d)(8), Dec. 19, 2014, 128 Stat. 3265.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(1). Pub. L. 113–287, which directed substitution of "chapter 3125 of title 54" for "the Act ofJune 27, 1960 (16 U.S.C. 469–469c)" in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
+<b>2014</b>—Subsec. (a)(1). Pub. L. 113–287, which directed substitution of "chapter 3125 of title 54" for "the Act of June 27, 1960 (16 U.S.C. 469–469c)" in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
 

@@ -10,7 +10,7 @@ The Secretary may prescribe the terms and conditions for the destruction of all 
 
 #### (c) Payment of storage, cartage, and labor charges by owner or consignee; liens
 
-All charges for storage, cartage, and labor with respect to any article which is imported contrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
+All charges for storage, cartage, and labor with respect to any article which is importedcontrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
 
 #### (d) Prohibition
 
@@ -30,7 +30,7 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 (1) As used in this subsection:
 
-&emsp;(A) The term "meat articles" means carcasses, meat and meat food products of cattle, sheep, swine, goats, horses, mules, or otherequines, that are capable of use as human food.
+&emsp;(A) The term "meat articles" means carcasses, meat and meat food products of cattle, sheep, swine, goats, horses, mules, or other equines, that are capable of use as human food.
 
 &emsp;(B) The term "standards" means inspection, building construction, sanitary, quality, species verification, residue, and other standards that are applicable to meat articles.
 

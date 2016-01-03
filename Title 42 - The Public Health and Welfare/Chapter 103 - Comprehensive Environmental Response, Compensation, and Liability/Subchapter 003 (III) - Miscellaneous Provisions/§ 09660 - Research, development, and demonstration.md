@@ -28,7 +28,7 @@
 
 #### (3) Recipients of grants, etc.
 
-&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph (1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
+&emsp;A grant, cooperative agreement, or contract may be made or entered into under paragraph\(1) with an accredited institution of higher education. The institution may carry out the research or training under the grant, cooperative agreement, or contract through contracts, including contracts with any of the following:
 
 &emsp;&emsp;(A) Generators of hazardous wastes.
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -362,7 +362,7 @@ Environmental Protection Agency.—There are authorized to be appropriated to th
 
 "(b)
 
-National Institute of Standards and Technology.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008."
+National Institute of Standards and Technology.—There are authorized to be appropriated tothe National Institute of Standards and Technology to carry out this Act $750,000 for each of the fiscal years 2007 and 2008."
 
 #### Gulf Coast Hazardous Substance Research, Development, and Demonstration Center
 

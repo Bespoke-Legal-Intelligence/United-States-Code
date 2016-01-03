@@ -96,7 +96,7 @@ Pub. L. 96–374, title XIII, §1393, Oct. 3, 1980, 94 Stat. 1504, provided that
 
 "(3) The amendment made by section 405 to subpart 4 of part A of title IV of the Act \[amending subpart 4 of part A of subchapter IV of this chapter generally\] shall take effect October 1, 1981.
 
-"(4) The amendments made by part B of title IV of this Act \[enacting sections 1077a, 1078–2, 1083a, and 1087–1a of this title and amending sections 1074, 1075, 1077, 1078, 1078–1, 1080, 1082, 1085, 1087–1, and 1087–2 of this title\] shall take effect, except as otherwise provided therein, on January 1, 1981, and to the extent such amendments make changes in such part B which affect student loans, such changes shall apply to outstanding loans as well as to loans made after the amendments take effect, except that the amendments made by section 415(b) \[amending sections 1077(a)(2)(B) and 1078(b)(1)(E) of this title\] shall apply with respect to any loan to cover the cost of instruction for any period of instruction beginning on or after January 1, 1981, to any student borrower who has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[part B of subchapter IV of this chapter\] on the date on which the borrower enters into the note or other written evidence of the loan.
+"(4) The amendments made by part B of title IV of this Act \[enacting sections 1077a, 1078–2, 1083a, and 1087–1a of this title and amending sections 1074, 1075, 1077, 1078, 1078–1, 1080, 1082, 1085, 1087–1, and 1087–2 of this title\] shall take effect, except as otherwise provided therein, on January 1, 1981, and to the extent suchamendments make changes in such part B which affect student loans, such changes shall apply to outstanding loans as well as to loans made after the amendments take effect, except that the amendments made by section 415(b) \[amending sections 1077(a)(2)(B) and 1078(b)(1)(E) of this title\] shall apply with respect to any loan to cover the cost of instruction for any period of instruction beginning on or after January 1, 1981, to any student borrower who has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[part B of subchapter IV of this chapter\] on the date on which the borrower enters into the note or other written evidence of the loan.
 
 "(5) The amendments made by part D of title IV of this Act \[enacting sections 1087cc–1, 1087hh, and 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall apply to loans made under part E of the Act \[part D of subchapter IV of this chapter\] on or after October 1, 1980.
 
@@ -110,13 +110,17 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: "
 
 &emsp;"(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–105, §1, Dec. 18, 2015, 129 Stat. 2219, provided that: "This Act \[amending sections 1087aa, 1087cc–1, and 1087ff of this title and enacting provisions set out as notes under sections 1087aa and 1226a of this title\] may be cited as the 'Federal Perkins Loan Program Extension Act of 2015'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 113–28, §1, Aug. 9, 2013, 127 Stat. 506, provided that: "This Act \[amending section 1087e of this title and enacting provisions set out as a note under section 1087e of this title\] may be cited as the 'Bipartisan Student Loan Certainty Act of 2013'."
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–152, title II, §2001(a), Mar. 30, 2010, 124 Stat. 1071, provided that: "This subtitle \[subtitle A\(§§2001–2213) of title II of Pub. L. 111–152, enacting section 1087i–2 of this title, amending sections 1002, 1067q, 1070a, 1070a–14, 1071, 1074, 1077a, 1078, 1078–2, 1078–3, 1078–8, 1085, 1087–1, 1087b, 1087d, 1087e, 1087f, 1087h, 1090, 1092f, 1098e, 1141, and 1161y of this title, enacting provisions set out as notes under sections 1002, 1070a, 1087d, and 1087e of this title, and repealing provisions set out as a note under section 1078 of this title\] may be cited as the 'SAFRA Act'."
+Pub. L. 111–152, title II, §2001(a), Mar. 30, 2010, 124 Stat. 1071, provided that: "This subtitle \[subtitle A (§§2001–2213) of title II of Pub. L. 111–152, enacting section 1087i–2 of this title, amending sections 1002, 1067q, 1070a, 1070a–14, 1071, 1074, 1077a, 1078, 1078–2, 1078–3, 1078–8, 1085, 1087–1, 1087b, 1087d, 1087e, 1087f, 1087h, 1090, 1092f, 1098e, 1141, and 1161y of this title, enacting provisions set out as notes under sections 1002, 1070a, 1087d, and 1087e of this title, and repealing provisions set out as a note under section 1078 of this title\] may be cited as the 'SAFRA Act'."
 
 #### Short Title of 2008 Amendment
 
@@ -156,7 +160,7 @@ Pub. L. 109–66, §1, Sept. 21, 2005, 119 Stat. 1999, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10, 1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
+Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10,1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
 
 #### Short Title of 2000 Amendments
 
@@ -216,7 +220,7 @@ Pub. L. 100–50, §1(a), June 3, 1987, 101 Stat. 335, provided that: "This Act 
 
 Pub. L. 99–498, §1, Oct. 17, 1986, 100 Stat. 1268, provided that: "This Act \[see Tables for classification\] may be cited as the 'Higher Education Amendments of 1986'."
 
-Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section 1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
+Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
 
 Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided that: "This title \[enacting sections 1078–3, 1080a, and 1091a of this title, amending sections 1072, 1074, 1075, 1077, 1078, 1080, 1082, 1083a, 1085, 1087–1, 1087–2, 1087cc, 1087cc–1, 1087dd, 1087gg, 1089, 1091, and 1094 of this title, enacting provisions set out as notes under sections 1072, 1078, and 1078–3 of this title, and amending provisions set out as a note under section 1078 of this title\] may be cited as the 'Student Financial Assistance Amendments of 1985'."
 
@@ -260,7 +264,7 @@ Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: "That this Act \[e
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
+Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056,1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
 
 #### Short Title of 1966 Amendment
 
@@ -276,7 +280,7 @@ For short title of section 1092(f) of this title as the Jeanne Clery Disclosure 
 
 #### Higher Education Extension
 
-Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–150, §2(a), Dec. 30, 2005, 119 Stat. 2884;Pub. L. 109–212, §2, Apr. 1, 2006, 120 Stat. 321; Pub. L. 109–238, §2, June 30, 2006, 120 Stat. 507; Pub. L. 109–292, §2, Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–44, §2, July 3, 2007, 121 Stat. 238; Pub. L. 110–51, §2, July 31, 2007, 121 Stat. 263; Pub. L. 110–109, §2, Oct. 31, 2007, 121 Stat. 1028; Pub. L. 110–198, §2, Mar. 24, 2008, 122 Stat. 656; Pub. L. 110–230, §1(a), May 13, 2008, 122 Stat. 877; Pub. L. 110–238, §1(a), May 30, 2008, 122 Stat. 1558; Pub. L. 110–256, §1(a), June 30, 2008, 122 Stat. 2425; Pub. L. 110–300, §1(a), July 31, 2008, 122 Stat. 2998, provided that:
+Pub. L. 109–81, Sept. 30, 2005, 119 Stat. 2048, as amended by Pub. L. 109–150, §2(a), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–212, §2, Apr. 1, 2006, 120 Stat. 321; Pub. L. 109–238, §2, June 30, 2006, 120 Stat. 507; Pub. L. 109–292, §2, Sept. 30, 2006, 120 Stat. 1340; Pub. L. 110–44, §2, July 3, 2007, 121 Stat. 238; Pub. L. 110–51, §2, July 31, 2007, 121 Stat. 263; Pub. L. 110–109, §2, Oct. 31, 2007, 121 Stat. 1028; Pub. L. 110–198, §2, Mar. 24, 2008, 122 Stat. 656; Pub. L. 110–230, §1(a), May 13, 2008, 122 Stat. 877; Pub. L. 110–238, §1(a), May 30, 2008, 122 Stat. 1558; Pub. L. 110–256, §1(a), June 30, 2008, 122 Stat. 2425; Pub. L. 110–300, §1(a), July 31, 2008, 122 Stat. 2998, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -324,7 +328,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–230, §1(b), May 13, 2008, 122 Stat. 877, provided that: "Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: "Nothing in this Act \[see Short Title of 2008 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit orotherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–198, §3, Mar. 24, 2008, 122 Stat. 656, provided that: "Nothing in this Act \[see Short Title of 2008 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–109, §3, Oct. 31, 2007, 121 Stat. 1028, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] or by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
@@ -366,7 +370,7 @@ Pub. L. 92–318, §2, June 23, 1972, 86 Stat. 236, provided that:
 
 "(b) Unless otherwise specified, the redesignation of a section, subsection, or other designation by any amendment in this Act shall include the redesignation of any reference to such section, subsection, or other designation in any Act or regulation, however styled.
 
-"(c)(1) Unless otherwise specified, each provision of this Act and each amendment made by this Act shall beeffective after June 30, 1972, and with respect to appropriations for the fiscal year ending June 30, 1973, and succeeding fiscal years.
+"(c)(1) Unless otherwise specified, each provision of this Act and each amendment made by this Act shall be effective after June 30, 1972, and with respect to appropriations for the fiscal year ending June 30, 1973, and succeeding fiscal years.
 
 "(2) Unless otherwise specified, in any case where an amendment made by this Act is to become effective after a date set herein, it shall be effective with the beginning of the day which immediately follows the date after which such amendment is effective.
 

@@ -160,7 +160,7 @@ Subsecs. (g) to (i). Pub. L. 109–59, §3049(b)(1), added subsec. (g) and redes
 
 <b>2004</b>—Subsec. (b)(6). Pub. L. 108–447 inserted "Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives" after "Federal Bureau of Investigation,".
 
-<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: "the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;".
+<b>2003</b>—Subsec. (b)(6). Pub. L. 108–7 added par. (6) and struck out former par. (6) which read as follows: "theDirector of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Administrator of the Drug Enforcement Administration;".
 
 <b>1996</b>—Subsec. (b)(6). Pub. L. 104–91, as amended by Pub. L. 104–99, amended par. (6) generally. Prior to amendment, par. (6) read as follows: "the Director of the Central Intelligence Agency and the Director of the Federal Bureau of Investigation;".
 

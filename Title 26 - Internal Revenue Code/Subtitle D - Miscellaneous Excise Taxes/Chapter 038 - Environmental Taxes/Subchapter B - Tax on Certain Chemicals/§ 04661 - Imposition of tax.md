@@ -125,7 +125,7 @@ Exception where manufacturer paid tax.—In the case of any inventory exchange b
 
 &emsp;"(D)
 
-Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by subsection (f))shall apply to exchanges made after December 31, 1986.
+Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by subsection (f)) shall apply to exchanges made after December 31, 1986.
 
 "(4)
 

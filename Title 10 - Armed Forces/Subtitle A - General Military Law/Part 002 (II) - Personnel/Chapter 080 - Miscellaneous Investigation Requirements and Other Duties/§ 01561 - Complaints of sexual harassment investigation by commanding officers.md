@@ -16,7 +16,7 @@ Commencement of Investigation.—To the extent practicable, a commanding officer
 
 (c)
 
-Duration of Investigation.—To the extent practicable, a commanding officer or officer incharge receiving such a complaint shall ensure that the investigation of the complaint is completed not later than 14 days after the date on which the investigation is commenced.
+Duration of Investigation.—To the extent practicable, a commanding officer or officer in charge receiving such a complaint shall ensure that the investigation of the complaint is completed not later than 14 days after the date on which the investigation is commenced.
 
 (d)
 
@@ -55,6 +55,34 @@ Prior sections 1571 to 1577, Pub. L. 89–690, §1, Oct. 15, 1966, 80 Stat. 1016
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: "This Act \[enacting section 1561a of this title\] may be cited as the 'Armed Forces Domestic Security Act'."
+
+#### Retention of Case Notes in Investigations of Sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps
+
+Pub. L. 114–92, div. A, title V, §541, Nov. 25, 2015, 129 Stat. 819, provided that:
+
+"(a)
+
+Retention of All Investigative Records Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall update Department of Defense records retention policies to ensure that, for all investigations relating to an alleged sex-related offense (as defined in section 1044e(g) of title 10, United States Code) involving a member of the Army, Navy, Air Force, or Marine Corps, all elements of the case file shall be retained as part of the investigative records retained in accordance with section 586 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).
+
+"(b)
+
+Elements.—In updating records retention policies as required by subsection (a), the Secretary of Defense shall address, at a minimum, the following matters:
+
+&emsp;"(1) The elements of the case file to be retained must include, at a minimum, the case activityrecord, case review record, investigative plans, and all case notes made by an investigating agent or agents.
+
+&emsp;"(2) All investigative records must be retained for no less than 50 years.
+
+&emsp;"(3) No element of the case file may be destroyed until the expiration of the time that investigative records must be kept.
+
+&emsp;"(4) Records may be stored digitally or in hard copy, in accordance with existing law or regulations or additionally prescribed policy considered necessary by the Secretary of the military department concerned.
+
+"(c)
+
+Consistent Education and Policy.—The Secretary of Defense shall ensure that existing policy, education, and training are updated to reflect policy changes in accordance with subsection (a).
+
+"(d)
+
+Uniform Application to Military Departments.—The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsections (a) is implemented uniformly by the military departments."
 
 #### Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers
 
@@ -112,11 +140,11 @@ Nature of training.—The training provided under each training and certificatio
 
 &emsp;"(4)
 
-Applicability of training requirements.—Effective beginning one year after the date of the enactment of this Act \[Dec. 19, 2014\], an individual may not be assigned to duty as a Sexual Assault Forensic Examiner for the Armed Forces unless the individual has completed, by the date of such assignment, alltraining required under the training and certification program under this subsection."
+Applicability of training requirements.—Effective beginning one year after the date of the enactment of this Act \[Dec. 19, 2014\], an individual may not be assigned to duty as a Sexual Assault Forensic Examiner for the Armed Forces unless the individual has completed, by the date of such assignment, all training required under the training and certification program under this subsection."
 
 #### Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces
 
-Pub. L. 113–291, div. A, title V, §546(a)–(e), Dec. 19, 2014, 128 Stat. 3374, 3375, provided that:
+Pub. L. 113–291, div. A, title V, §546(a)–(e), Dec. 19, 2014, 128 Stat. 3374, 3375, as amended by Pub. L. 114–92, div. A, title V, §537, Nov. 25, 2015, 129 Stat. 817, provided that:
 
 "(a)
 
@@ -128,7 +156,7 @@ In general.—The Secretary of Defense shall establish and maintain within the D
 
 &emsp;"(2)
 
-Deadline for establishment.—The Secretary shall establish the Advisory Committee not later than 30 days before the termination date of the independent panel established by the Secretary under section 576(a)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1758), known as the 'judicial proceedings panel'.
+Deadline for establishment.—The Secretary shall establish the Advisory Committee not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 \[Nov. 25, 2015\].
 
 "(b)
 
@@ -214,7 +242,7 @@ Incident Reporting Policy Requirement.—The Secretary of Defense and the Secret
 
 &emsp;"(2) The first officer in the grade of 0–6, and the first general officer or flag officer, in the chain of command of the victim.
 
-&emsp;"(3) The first officer in the grade of 0–6, and the first general officer or flag officer, in the chain ofcommand of the alleged offender if the alleged offender is a member of the Armed Forces.
+&emsp;"(3) The first officer in the grade of 0–6, and the first general officer or flag officer, in the chain of command of the alleged offender if the alleged offender is a member of the Armed Forces.
 
 "(b)
 
@@ -344,7 +372,7 @@ Time for Establishment.—
 
 &emsp;"(1)
 
-Implementation plan.—Not later than 270 days after the date of the enactment of this Act \[Jan. 2,2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing—
+Implementation plan.—Not later than 270 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing—
 
 &emsp;&emsp;"(A) the plans and time lines of the Secretaries of the military departments for the establishment of the special victims capabilities; and
 
@@ -380,7 +408,7 @@ Period of Retention.—The Secretary of Defense shall ensure that all copies of 
 
 "(b)
 
-Protection of Confidentiality.—Any Department of Defense form retained under subsection (a) shall be retained in a manner that protects the confidentiality of the member of the Armed Forces concerned in accordance with procedures for the protection of confidentiality of information in Restricted Reports under Department of Defense memorandum JTF–SAPR–009, relating to the Department of Defense policy on confidentiality for victims of sexual assault, or any successor policy or directive."
+Protection of Confidentiality.—Any Department of Defense form retained under subsection (a) shall be retained in a manner that protects the confidentiality of the member of the Armed Forces concerned in accordance with procedures for the protection of confidentiality of information in Restricted Reports under Department of Defense memorandum JTF–SAPR–009, relating to the Department of Defensepolicy on confidentiality for victims of sexual assault, or any successor policy or directive."
 
 #### General or Flag Officer Review of and Concurrence in Separation of Members of the Armed Forces Making an Unrestricted Report of Sexual Assault
 
@@ -448,7 +476,7 @@ Submission of plan.—Not later than June 1, 2013, the Secretary of Defense shal
 
 &emsp;"(3)
 
-Reporting requirement.—As part of the reports required to be submitted in 2014 under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4433; 10 U.S.C. 1561 note), the Secretary of Defense shall include information and data collectedunder the plan during the preceding year regarding substantiated incidents of sexual harassment involving members of the Armed Forces."
+Reporting requirement.—As part of the reports required to be submitted in 2014 under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4433; 10 U.S.C. 1561 note), the Secretary of Defense shall include information and data collected under the plan during the preceding year regarding substantiated incidents of sexual harassment involving members of the Armed Forces."
 
 #### Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
 
@@ -652,7 +680,7 @@ Policy Modifications.—Not later than 180 days after the date of the enactment 
 
 &emsp;&emsp;"(B) shall not be interpreted to limit or alter the authority of the Secretary of the military department concerned to process members of the Armed Forces for administrative separation for other offenses or under other provisions of law.
 
-&emsp;"(3) A requirement that the commander of each military command and other units specified by theSecretary of Defense for purposes of the policy shall conduct, within 120 days after the commander assumes command and at least annually thereafter while retaining command, a climate assessment of the command or unit for purposes of preventing and responding to sexual assaults. The climate assessment shall include an opportunity for members of the Armed Forces to express their opinions regarding the manner and extent to which their leaders, including commanders, respond to allegations of sexual assault and complaints of sexual harassment and the effectiveness of such response.
+&emsp;"(3) A requirement that the commander of each military command and other units specified by the Secretary of Defense for purposes of the policy shall conduct, within 120 days after the commander assumes command and at least annually thereafter while retaining command, a climate assessment of the command or unit for purposes of preventing and responding to sexual assaults. The climate assessment shall include an opportunity for members of the Armed Forces to express their opinions regarding the manner and extent to which their leaders, including commanders, respond to allegations of sexual assault and complaints of sexual harassment and the effectiveness of such response.
 
 &emsp;"(4) A requirement to post and widely disseminate information about resources available to report and respond to sexual assaults, including the establishment of hotline phone numbers and Internet websites available to all members of the Armed Forces.
 
@@ -744,7 +772,7 @@ Comprehensive Policy Required.—Not later than March 30, 2012, the Secretary of
 
 "(b)
 
-Consideration of Task Force Findings, Recommendations, and Practices.—In developing the comprehensive policy required by subsection (a), the Secretary of Defense shall take into account the findingsand recommendations found in the report of the Defense Task Force on Sexual Assault in the Military Services issued in December 2009.
+Consideration of Task Force Findings, Recommendations, and Practices.—In developing the comprehensive policy required by subsection (a), the Secretary of Defense shall take into account the findings and recommendations found in the report of the Defense Task Force on Sexual Assault in the Military Services issued in December 2009.
 
 "(c)
 
@@ -850,7 +878,7 @@ Issuance of Standards.—The Secretary of Defense shall issue standards to asses
 
 "(b)
 
-Sexual Assault Prevention Evaluation Plan.—The Secretary of Defense shall use the sexualassault prevention and response evaluation plan developed under section 1602(c) to ensure that the Armed Forces implement and comply with assessment and evaluation standards issued under subsection (a).
+Sexual Assault Prevention Evaluation Plan.—The Secretary of Defense shall use the sexual assault prevention and response evaluation plan developed under section 1602(c) to ensure that the Armed Forces implement and comply with assessment and evaluation standards issued under subsection (a).
 
 #### "SEC. 1613. REPORT AND PLAN FOR COMPLETION OF ACQUISITION OF CENTRALIZED DEPARTMENT OF DEFENSE SEXUAL ASSAULT DATABASE.
 
@@ -966,7 +994,7 @@ Repeal of Superseded Reporting Requirement.—
 
 &emsp;"(2)
 
-Submission of 2010 report.—The reports required by subsection (f) of section 577 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 113 note) \[now set out below\] covering calendar year 2010 are still required to be submitted to the Secretary of Defense and the Committees on Armed Services of the Senate and House of Representatives pursuant to the terms of such subsection, as in effect before the date of the enactment of this Act \[Jan. 7, 2011\].
+Submission of 2010 report.—The reports required by subsection (f) of section 577 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 10 U.S.C. 113 note) \[now set out below\] covering calendar year 2010 are still required to be submitted to the Secretary ofDefense and the Committees on Armed Services of the Senate and House of Representatives pursuant to the terms of such subsection, as in effect before the date of the enactment of this Act \[Jan. 7, 2011\].
 
 "(f)
 
@@ -1126,7 +1154,7 @@ In general.—Pursuant to regulations prescribed by the Secretary of Defense, in
 
 &emsp;"(B)
 
-Submission of data.—The data required to be collected under this subsection shall be included inthe annual report submitted to Congress on sexual assaults involving members of the Armed Forces.
+Submission of data.—The data required to be collected under this subsection shall be included in the annual report submitted to Congress on sexual assaults involving members of the Armed Forces.
 
 "(2)
 

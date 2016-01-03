@@ -62,7 +62,7 @@
 
 #### (B) Standards
 
-&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, representatives of appropriate voluntary consensus standards development organizations, each private sector advisory council created under section 112(f)(4) of this title, appropriate representatives of State and local governments, including emergency management officials, and appropriate private sector advisory groups such as sector coordinating councils and information sharing and analysis centers—
+&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, representatives of appropriate voluntary consensus standards development organizations, each private sector advisory council created under section 112(f)(4) of this title, appropriate representatives of State and local governments, including emergency management officials, and appropriate private sector advisory groups such as sectorcoordinating councils and information sharing and analysis centers—
 
 &emsp;&emsp;&emsp;(i) shall adopt one or more appropriate voluntary preparedness standards that promote preparedness, which may be tailored to address the unique nature of various sectors within the private sector, as necessary and appropriate, that shall be used in the accreditation and certification program under this subsection; and
 
@@ -132,7 +132,7 @@
 
 #### (E) Treatment of other certifications
 
-&emsp;&emsp;At the request of any entity seeking certification, any selected entity may consider, as appropriate, other relevant certifications acquired by the entity seeking certification. If the selected entity determines that such other certifications are sufficient to meet the certification requirement or aspects of the certification requirement under this section, the selected entity may give credit to the entity seeking certification, as appropriate, to avoid unnecessarily duplicative certification requirements.
+&emsp;&emsp;At the request of any entity seeking certification, any selected entity may consider, as appropriate, other relevant certifications acquired by the entity seeking certification.If the selected entity determines that such other certifications are sufficient to meet the certification requirement or aspects of the certification requirement under this section, the selected entity may give credit to the entity seeking certification, as appropriate, to avoid unnecessarily duplicative certification requirements.
 
 #### (F) Third parties
 

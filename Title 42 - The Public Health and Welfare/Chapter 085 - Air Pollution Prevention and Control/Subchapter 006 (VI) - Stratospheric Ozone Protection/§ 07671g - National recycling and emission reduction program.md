@@ -12,7 +12,7 @@
 
 &emsp;(B) maximize the recapture and recycling of such substances.
 
-> Such regulations may include requirements to use alternative substances (including substances which are not class I or class II substances) or to minimize use of class I or class II substances, or to promote the use of safe alternatives pursuant to section 7671k of this title or any combination of the foregoing.
+> Such regulations may include requirements to use alternative substances (including substances which are not class I or class II substances) or to minimize use of class I or class II substances, orto promote the use of safe alternatives pursuant to section 7671k of this title or any combination of the foregoing.
 
 #### (b) Safe disposal
 

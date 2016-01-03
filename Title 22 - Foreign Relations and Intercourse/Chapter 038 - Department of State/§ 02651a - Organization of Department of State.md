@@ -26,7 +26,7 @@
 
 #### (3) Under Secretary for Public Diplomacy
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Public Diplomacy, who shall have primary responsibility to assist the Secretary and the DeputySecretary in the formation and implementation of United States public diplomacy policies and activities, including international educational and cultural exchange programs, information, and international broadcasting. The Under Secretary for Public Diplomacy shall—
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Public Diplomacy, who shall have primary responsibility to assist the Secretary and the Deputy Secretary in the formation and implementation of United States public diplomacy policies and activities, including international educational and cultural exchange programs, information, and international broadcasting. The Under Secretary for Public Diplomacy shall—
 
 &emsp;&emsp;(A) prepare an annual strategic plan for public diplomacy in collaboration with overseas posts and in consultation with the regional and functional bureaus of the Department;
 
@@ -50,7 +50,7 @@
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
-&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
+&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shallbe responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
 
 &emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
@@ -84,7 +84,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (B) Duties described
 
-&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (includingpolicy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
 
 #### (3) Rank and status of Ambassador
 
@@ -112,7 +112,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to combat the HIV/AIDS pandemic, including all programs, projects, and activities of the United States Government relating to the HIV/AIDS pandemic under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 \[22 U.S.C. 7601 et seq.\] or any amendment made by that Act.
+&emsp;&emsp;&emsp;The Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to combat the HIV/AIDS pandemic, including all programs, projects, and activities of the United States Governmentrelating to the HIV/AIDS pandemic under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 \[22 U.S.C. 7601 et seq.\] or any amendment made by that Act.
 
 #### (ii) Specific duties
 
@@ -140,7 +140,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Holding annual consultations with nongovernmental organizations in partner countries that provide services to improve health, and advocating on behalf of the individuals with HIV/AIDS and those at particular risk of contracting HIV/AIDS, including organizationswith members who are living with HIV/AIDS.
+&emsp;&emsp;&emsp;&emsp;(VII) Holding annual consultations with nongovernmental organizations in partner countries that provide services to improve health, and advocating on behalf of the individuals with HIV/AIDS and those at particular risk of contracting HIV/AIDS, including organizations with members who are living with HIV/AIDS.
 
 &emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, that HIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
 
@@ -192,7 +192,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as theState Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -216,7 +216,7 @@ Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcl
 
 Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
 
-Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
+Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "Indesignating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
 
 Pub. L. 110–293, §102(2)(C), redesignated subcl. (VII) as (IX).
 
@@ -282,7 +282,7 @@ Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title andsection 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
+Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
 
 #### Effective Date of 1982 Amendment
 

@@ -10,5 +10,5 @@ The Emergency Economic Stabilization Act of 2008, referred to in text, is div. A
 
 #### Codification
 
-Section was enacted as part of the Helping Families Save Their Homes Act of 2009, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
+Section was enacted as part of the Helping Families Save Their Homes Act of 2009, and not as part of theEmergency Economic Stabilization Act of 2008 which comprises this chapter.
 

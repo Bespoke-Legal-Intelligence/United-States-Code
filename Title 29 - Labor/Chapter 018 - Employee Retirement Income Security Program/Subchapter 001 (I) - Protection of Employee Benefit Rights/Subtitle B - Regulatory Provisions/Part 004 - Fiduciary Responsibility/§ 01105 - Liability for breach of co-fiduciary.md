@@ -12,7 +12,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 #### (b) Assets held by two or more trustees
 
-(1) Except as otherwise provided in subsection (d) of this section and in section 1103(a)(1) and (2) of this title, if the assets of a plan are held by two or more trustees—
+(1) Except as otherwise provided in subsection (d) of this section and in section 1103(a)(1) and\(2) of this title, if the assets of a plan are held by two or more trustees—
 
 &emsp;(A) each shall use reasonable care to prevent a co-trustee from committing a breach; and
 
@@ -40,7 +40,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;(B) the named fiduciary would otherwise be liable in accordance with subsection (a) of this section.
 
-(3) For purposes of this subsection, the term "trustee responsibility" means any responsibility provided in the plan's trust instrument (if any) to manage or control the assets of the plan, other than a power under the trust instrument of a named fiduciary to appoint an investmentmanager in accordance with section 1102(c)(3) of this title.
+(3) For purposes of this subsection, the term "trustee responsibility" means any responsibility provided in the plan's trust instrument (if any) to manage or control the assets of the plan, other than a power under the trust instrument of a named fiduciary to appoint an investment manager in accordance with section 1102(c)(3) of this title.
 
 #### (d) Investment managers
 

@@ -260,7 +260,7 @@
 
 #### (iii) Expedited reconsiderations
 
-&emsp;&emsp;&emsp;The qualified independent contractor shall perform an expedited reconsiderationunder subsection (b)(1)(F) of this section as follows:
+&emsp;&emsp;&emsp;The qualified independent contractor shall perform an expedited reconsideration under subsection (b)(1)(F) of this section as follows:
 
 #### (I) Deadline for decision
 
@@ -332,7 +332,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is not a related party (as defined in subsection (g)(5) of this section);
 
-&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationship with such a party in relation to such case; and
+&emsp;&emsp;&emsp;&emsp;(II) does not have a material familial, financial, or professional relationshipwith such a party in relation to such case; and
 
 &emsp;&emsp;&emsp;&emsp;(III) does not otherwise have a conflict of interest with such a party.
 
@@ -604,7 +604,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a medicare administrative contractor that has a contract under section 1395kk–1 of this title that provides for making payments under this subchapter with respect to physicians' services (as defined in section 1395w–4(j)(3) of this title), the Secretary shall establish a prior determination process that meets the requirements of this subsection and that shall be applied by such contractor in the case of eligible requesters.
+&emsp;&emsp;With respect to a medicare administrative contractor that has a contract under section1395kk–1 of this title that provides for making payments under this subchapter with respect to physicians' services (as defined in section 1395w–4(j)(3) of this title), the Secretary shall establish a prior determination process that meets the requirements of this subsection and that shall be applied by such contractor in the case of eligible requesters.
 
 #### (B) Eligible requester
 
@@ -676,7 +676,7 @@
 
 &emsp;&emsp;&emsp;(ii) seeks such a determination and has received a determination described in paragraph (4)(A)(ii),
 
-> &emsp;&emsp;from receiving (and submitting a claim for) such physicians' services and from obtaining administrative or judicial review respecting such claim under the other applicable provisions of this section. Failure to seek a prior determination under this subsection with respect to physicians' service shall not be taken into account in such administrative or judicial review.
+> &emsp;&emsp;from receiving (and submitting a claim for) such physicians' services and from obtainingadministrative or judicial review respecting such claim under the other applicable provisions of this section. Failure to seek a prior determination under this subsection with respect to physicians' service shall not be taken into account in such administrative or judicial review.
 
 #### (C) No prior determination after receipt of services
 
@@ -824,7 +824,7 @@ Transition.—During the period in which the amendment made by subsection (a) \[
 
 Limitation on application to sgr.—For purposes of applying section 1848(f)(2)(D) of the Social Security Act (42 U.S.C. 1395w–4(f)(2)(D)), the amendment made by subsection (a) \[amending this section\] shall not be considered to be a change in law or regulation."
 
-Amendment by section 948(b)(1), (c) of Pub. L. 108–173 effective, except as otherwise provided, as if included in the enactment of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554\], see section 948(e) of Pub. L. 108–173, set out as a note under section 1314 of this title.
+Amendment by section 948(b)(1), (c) of Pub. L. 108–173 effective, except as otherwise provided, as if included in the enactment of BIPA \[the Medicare, Medicaid, andSCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554\], see section 948(e) of Pub. L. 108–173, set out as a note under section 1314 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -934,7 +934,7 @@ Hiring.—The steps that should be taken to hire administrative law judges (and 
 
 &emsp;&emsp;"(K)
 
-Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
+Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent withthe applicable provisions of title 5, United States Code\[,\] relating to impartiality.
 
 &emsp;&emsp;"(L)
 

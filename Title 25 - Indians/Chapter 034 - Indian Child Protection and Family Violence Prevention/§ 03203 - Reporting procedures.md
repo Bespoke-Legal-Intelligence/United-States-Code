@@ -8,13 +8,13 @@
 
 &emsp;(A) the abuse of a child in Indian country, or
 
-&emsp;(B) actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) of this section to such agency.
+&emsp;(B) actions which would reasonably be expected to result in abuse of a child in Indian country, the receiving agency shall immediately notify appropriate officials of the other agency of such report and shall also submit, when prepared, a copy of the written report required under subsection (c) to such agency.
 
 (2) Where a report of abuse involves an Indian child or where the alleged abuser is an Indian and where a preliminary inquiry indicates a criminal violation has occurred, the local law enforcement agency, if other than the Federal Bureau of Investigation, shall immediately report such occurrence to the Federal Bureau of Investigation.
 
 #### (c) Written report of child abuse
 
-(1) Within 36 hours after receiving an initial report described in subsection (b) of this section, the receiving agency shall prepare a written report which shall include, if available—
+(1) Within 36 hours after receiving an initial report described in subsection (b), the receiving agency shall prepare a written report which shall include, if available—
 
 &emsp;(A) the name, address, age, and sex of the child that is the subject of the report;
 
@@ -30,13 +30,13 @@
 
 &emsp;(G) any other information the agency or the person who made the report to the agency believes to be important to the investigation and disposition of the alleged abuse.
 
-(2)(A) Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) <sup>1</sup> of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure thesafety and well-being of the child or children involved.
+(2)(A) Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) <sup>1</sup> of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
 
 (B) Upon completion of the investigation of any report of alleged abuse that is made to a local law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
 
 #### (d) Confidentiality of informant
 
-The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
+The identity of any person making a report described in subsection (b)(1) shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
 
 (Pub. L. 101–630, title IV, §404, Nov. 28, 1990, 104 Stat. 4547.)
 

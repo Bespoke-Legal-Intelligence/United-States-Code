@@ -128,7 +128,7 @@ Agreement Elements.—The regulations shall provide that an agreement contain pr
 
 Disciplinary Actions.—The regulations shall specify appropriate disciplinary actions (including loss of retirement benefits) to be taken against any employee determined by the Director of Central Intelligence to have violated the agreement of the employee under this section."
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head ofthe Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

@@ -82,7 +82,7 @@ Pub. L. 102–496, title VIII, §805, Oct. 24, 1992, 106 Stat. 3254, provided th
 
 Pub. L. 102–183, title III, §302(d), Dec. 4, 1991, 105 Stat. 1263, provided that: "The amendments made by this section \[amending sections 204(b)(3), 221(c)–(e), and 232(c)–(e) of Pub. L. 88–643\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Dec. 4, 1991\] and shall apply with respect to annuities payable to children by reason of the death of a participant or annuitant on or after that date."
 
-Pub. L. 102–183, title III, §303(b), Dec. 4, 1991, 105 Stat. 1264, provided that: "(1) The amendments made by subsection (a) \[amending section 221(p)–(r) of Pub. L. 88–643\] shall take effect on the first day of the fourthmonth beginning after the date of the enactment of this Act \[Dec. 4, 1991\].
+Pub. L. 102–183, title III, §303(b), Dec. 4, 1991, 105 Stat. 1264, provided that: "(1) The amendments made by subsection (a) \[amending section 221(p)–(r) of Pub. L. 88–643\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Dec. 4, 1991\].
 
 "(2)(A) The amendment made by subsection (a)(2) \[enacting section 221(q) of Pub. L. 88–643\] shall apply with respect to participants and former participants regardless of whether they retire before, on, or after the effective date specified in paragraph (1), except that paragraph (1)(A) of section 221(q) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) shall apply only with respect to participants who retire on or after that effective date.
 
@@ -156,7 +156,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 "(h) Annuity increases under sections 204 \[enacting section 221(l) of Pub. L. 88–643\] and 214 \[set out below\] shall apply to annuities which commence before, on, or after the date of enactment of this Act \[Oct. 17, 1976\], but no increase in annuity shall be paid for any period prior to August 1, 1974, or the date on which the annuity commences, whichever is later."
 
-Pub. L. 93–210, §1(b), Dec. 28, 1973, 87 Stat. 908, provided that: "The amendments made by subsection (a) \[amending section 291(b) of Pub. L. 88–643\] shall apply only with respect to annuities which commence on or after July 2, 1973."
+Pub. L. 93–210, §1(b), Dec. 28, 1973, 87 Stat. 908, provided that: "The amendments made by subsection (a) \[amending section 291(b) of Pub. L. 88–643\] shall applyonly with respect to annuities which commence on or after July 2, 1973."
 
 Pub. L. 91–185, §6, Dec. 30, 1969, 83 Stat. 849, provided that:
 
@@ -210,7 +210,7 @@ Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 "(b) In lieu of any increase based on an increase under subsection (a) of this section, an annuity payable from the Central Intelligence Agency Retirement and Disability Fund to the surviving spouse of an annuitant, which is based on a separation occurring prior to October 20, 1969, shall be increased by $132 per annum.
 
-"(c) The monthly rate of an annuity resulting from an increase under this section shall be considered as the monthly rate of annuity payable under section 221(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended (78 Stat. 1043; 50 U.S.C. 403 note) \[section 221 of Pub. L. 88–643prior to enactment of Pub. L. 102–496; see 50 U.S.C. 2031(a)\] for purposes of computing the minimum annuity under new section 221(l) of the Act, as added by section 204 of this Act."
+"(c) The monthly rate of an annuity resulting from an increase under this section shall be considered as the monthly rate of annuity payable under section 221(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, as amended (78 Stat. 1043; 50 U.S.C. 403 note) \[section 221 of Pub. L. 88–643 prior to enactment of Pub. L. 102–496; see 50 U.S.C. 2031(a)\] for purposes of computing the minimum annuity under new section 221(l) of the Act, as added by section 204 of this Act."
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 

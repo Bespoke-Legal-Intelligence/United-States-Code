@@ -18,7 +18,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary may by regulation remove drugs subject to section 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
-(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any timeprior to dispensing the label of the drug fails to bear, at a minimum, the symbol "Rx only".
+(4)(A) A drug that is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing the label of the drug fails to bear, at a minimum, the symbol "Rx only".
 
 (B) A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing the label of the drug bears the symbol described in subparagraph (A).
 
@@ -80,7 +80,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (C) Each drug manufacturer or authorized distributor of record which makes distributions by mail or common carrier under this paragraph shall maintain, for a period of 3 years, the request forms submitted for such distributions and the receipts submitted for such distributions and shall maintain a record of distributions of drug samples which identifies the drugs distributed and the recipients of the distributions. Forms, receipts, and records required to be maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to Federal and State officials engaged in the regulation of drugs and in the enforcement of laws applicable to drugs.
 
-(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) ofthis section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+(3) The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
 &emsp;(A) Drug samples may only be distributed—
 
@@ -100,7 +100,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
-(4) In this subsection, the term "authorized distributors of record" means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.
+(4) In this subsection, the term "authorized distributors of record" means those distributorswith whom a manufacturer has established an ongoing relationship to distribute such manufacturer's products.
 
 #### (e) Licensing and reporting requirements for wholesale distributors; fees; definitions
 
@@ -182,7 +182,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 &emsp;(F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
 
-&emsp;(G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+&emsp;(G) the purchase or other acquisition by a dispenser, hospital, or other health care entityof a drug for use by such dispenser, hospital, or other health care entity;
 
 &emsp;(H) the distribution of a drug by the manufacturer of such drug;
 
@@ -262,7 +262,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(ii) is, if an oral order, promptly reduced to writing by the person lawfully filling the order, and filed by that person, and
 
-&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the person lawfully filling the order, and filed by that person.
+&emsp;(iii) is refilled only if authorized in the original order or in a subsequent oral order promptly reduced to writing by the personlawfully filling the order, and filed by that person.
 
 (C) The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
@@ -310,7 +310,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
-(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
+(F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availabilityof such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
 (G) Not later than one year after October 26, 2002, and annually thereafter, the Secretary shall report to the appropriate committees of Congress on the activities and impact of the Office. The report shall include provisions—
 
@@ -434,7 +434,7 @@ Pub. L. 113–54, title II, §204(c), Nov. 27, 2013, 127 Stat. 636, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section501 of Pub. L. 105–115, set out as a note under section 321 of this title.
+Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Termination Date of 1992 Amendment
 

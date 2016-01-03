@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Program Offices.—The Secretary of Defense shall take appropriate actions to ensure, to the maximum extent practicable, thatspace development and acquisition programs of the Department of Defense are carried out through joint program offices.
+Joint Program Offices.—The Secretary of Defense shall take appropriate actions to ensure, to the maximum extent practicable, that space development and acquisition programs of the Department of Defense are carried out through joint program offices.
 
 (b)
 
@@ -20,6 +20,76 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Consolidation of Acquisition of Wideband Satellite Communications
+
+Pub. L. 114–92, div. A, title XVI, §1610, Nov. 25, 2015, 129 Stat. 1102, provided that:
+
+"(a)
+
+Plan.—
+
+&emsp;"(1)
+
+Consolidation.—Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the consolidation, during the one-year period beginning on the date on which the plan is submitted, of the acquisition of wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications.
+
+&emsp;"(2)
+
+Elements.—The plan under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an assessment of the management and overhead costs relating to the acquisition of commercial satellite communications services across the Department of Defense;
+
+&emsp;&emsp;"(B) an estimate of—
+
+&emsp;&emsp;&emsp;"(i) the costs of implementing the consolidation of the acquisition of such services described in paragraph (1); and
+
+&emsp;&emsp;&emsp;"(ii) the projected savings of the consolidation;
+
+&emsp;&emsp;"(C) the identification and designation of a single acquisition agent pursuant to paragraph (3)(A); and
+
+&emsp;&emsp;"(D) the roles and responsibilities of officials of the Department, including pursuant to paragraph (3).
+
+&emsp;"(3)
+
+Single acquisition agent.—
+
+&emsp;&emsp;"(A) Except as provided by subparagraph (B), under the plan under paragraph (1), the Secretary of Defense shall identify and designate a single senior official of the Department of Defense to procure wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications.
+
+&emsp;&emsp;"(B) Notwithstanding subparagraph (A), under the plan under paragraph (1), an official described in subparagraph (C) may carry out the procurement of commercial wideband satellite communications if the official determines that such procurement is required to meet an urgent need.
+
+&emsp;&emsp;"(C) An official described in this subparagraph is any of the following:
+
+&emsp;&emsp;&emsp;"(i) A Secretary of a military department.
+
+&emsp;&emsp;&emsp;"(ii) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;&emsp;&emsp;"(iii) The Chief Information Office\[r\] of the Department of Defense.
+
+&emsp;&emsp;&emsp;"(iv) A commander of a combatant command.
+
+&emsp;"(4)
+
+Validation.—The Director of Cost Assessment and Program Evaluation shall validate the assessment required by subparagraph (A) of paragraph (2) and the estimates required by subparagraph (B) of such paragraph.
+
+"(b)
+
+Implementation.—
+
+&emsp;"(1)
+
+In general.—Except as provided by paragraph (2), the Secretary of Defense shall complete the implementation of the plan under subsection (a) by not later than one year after the date on which the Secretary submits the plan under such paragraph.
+
+&emsp;"(2)
+
+Waiver.—The Secretary may waive the implementation of the plan under subsection (a) if the Secretary—
+
+&emsp;&emsp;"(A) determines that—
+
+&emsp;&emsp;&emsp;"(i) such implementation will require significant additional funding; or
+
+&emsp;&emsp;&emsp;"(ii) such waiver is in the interests of national security; and
+
+&emsp;&emsp;"(B) submits to the congressional defense committees notice of such waiver and the justifications for such waiver."
+
 #### Satellite Communications Responsibilities of Executive Agent for Space
 
 Pub. L. 113–291, div. A, title XVI, §1603, Dec. 19, 2014, 128 Stat. 3622, provided that: "The Secretary of Defense shall, not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], revise Department of Defense directives and guidance to require the Department of Defense Executive Agent for Space to ensure that in developing space strategies, architectures, and programs for satellite communications, the Executive Agent shall—
@@ -34,7 +104,7 @@ Pub. L. 113–291, div. A, title XVI, §1603, Dec. 19, 2014, 128 Stat. 3622, pro
 
 #### Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program
 
-Pub. L. 113–291, div. A, title XVI, §1608, Dec. 19, 2014, 128 Stat. 3626, provided that:
+Pub. L. 113–291, div. A, title XVI, §1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, §1607, Nov. 25, 2015, 129 Stat. 1100, provided that:
 
 "(a)
 
@@ -54,11 +124,13 @@ Exception.—
 
 &emsp;"(1)
 
-In general.—The prohibition in subsection (a) shall not apply to either—
+In general.—The prohibition in subsection (a) shall not apply to any of the following:
 
-&emsp;&emsp;"(A) the placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013; or
+&emsp;&emsp;"(A) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013.
 
-&emsp;&emsp;"(B) subject to paragraph (2), a contract awarded for the procurement of property or services for space launch activities that includes the use of rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
+&emsp;&emsp;"(B) Subject to paragraph (2), contracts awarded for the procurement of property or services for space launch activities that include the use of not more than a total of five rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
+
+&emsp;&emsp;"(C) Contracts not covered under subparagraph (A) or (B) that are awarded for the procurement of property or services for space launch activities that include the use of not more than a total of four additional rocket engines designed or manufactured in the Russian Federation.
 
 &emsp;"(2)
 

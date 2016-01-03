@@ -20,7 +20,7 @@ Reimbursement of Providers.—(1) Subject to paragraph (2), the Secretary of Def
 
 &emsp;(B) The amount equal to 115 percent of the CHAMPUS maximum allowable charge for the service.
 
-(3) In establishing rates and procedures for reimbursement of providers and other administrative requirements, including those contained in provider network agreements, the Secretary shall, to the extent practicable, maintain adequate networks of providers, including institutional, professional, and pharmacy. For the purpose of determining whether network providersunder such provider network agreements are subcontractors for purposes of the Federal Acquisition Regulation or any other law, a TRICARE managed care support contract that includes the requirement to establish, manage, or maintain a network of providers may not be considered to be a contract for the performance of health care services or supplies on the basis of such requirement.
+(3) In establishing rates and procedures for reimbursement of providers and other administrative requirements, including those contained in provider network agreements, the Secretary shall, to the extent practicable, maintain adequate networks of providers, including institutional, professional, and pharmacy. For the purpose of determining whether network providers under such provider network agreements are subcontractors for purposes of the Federal Acquisition Regulation or any other law, a TRICARE managed care support contract that includes the requirement to establish, manage, or maintain a network of providers may not be considered to be a contract for the performance of health care services or supplies on the basis of such requirement.
 
 (b)
 

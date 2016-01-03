@@ -2,7 +2,7 @@
 
 When settling an account of a disbursing official, the Comptroller General shall allow disposal of public stores the disbursing official made under an order of a commanding officer when presented with satisfactory evidence that the order was made and that the stores were disposed of as the order provided. The commanding officer is accountable for the disposal.
 
-(Added Pub. L. 97–258, §2(b)(12)(B), Sept. 13, 1982, 96 Stat. 1057, §7862; renumbered §7863, Pub. L.99–433, title V, §514(b)(1), Oct. 1, 1986, 100 Stat. 1054; amended Pub. L. 104–106, div. A, title IX, §913(c)(3)(A), (B)(i), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1074(a)(20), Sept. 23, 1996, 110 Stat. 2660.)
+(Added Pub. L. 97–258, §2(b)(12)(B), Sept. 13, 1982, 96 Stat. 1057, §7862; renumbered §7863, Pub. L. 99–433, title V, §514(b)(1), Oct. 1, 1986, 100 Stat. 1054; amended Pub. L. 104–106, div. A, title IX, §913(c)(3)(A), (B)(i), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1074(a)(20), Sept. 23, 1996, 110 Stat. 2660.)
 
 Historical and Revision Notes
 

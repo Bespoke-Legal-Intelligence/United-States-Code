@@ -16,11 +16,11 @@
 
 #### (A) Trust land status pursuant to regulations
 
-&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with anyinterest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
+&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a), together with any interest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
 
 #### (B) Required trust land status
 
-&emsp;&emsp;Any such trust land acquisitions on behalf of the Cherokee Nation shall be mandatory if the land proposed to be acquired is located within Township 12 North, Range 21 East, in Sequoyah County, Township 11 North, Range 18 East, in McIntosh County, Townships 11 and 12 North, Range 19 East, or Township 12 North, Range 20 East, in Muskogee County, Oklahoma, and not within the limits of any incorporated municipality as of January 1, 2002, if—
+&emsp;&emsp;Any such trust land acquisitions on behalf of the Cherokee Nation shall be mandatory if the land proposed to be acquired is located within Township 12 North, Range 21 East, in Sequoyah County, Township 11 North, Range18 East, in McIntosh County, Townships 11 and 12 North, Range 19 East, or Township 12 North, Range 20 East, in Muskogee County, Oklahoma, and not within the limits of any incorporated municipality as of January 1, 2002, if—
 
 &emsp;&emsp;&emsp;(i) the land proposed to be acquired meets the Department of the Interior's minimum environmental standards and requirements for real estate acquisitions set forth in 602 DM 2.6, or any similar successor standards or requirements for real estate acquisitions in effect on the date of acquisition; and
 

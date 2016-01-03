@@ -50,7 +50,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 #### (2) Revision
 
-&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General andthe Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated and the video produced or dubbed based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
+&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated and the video produced or dubbed based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
 
 #### (d) Availability and distribution
 
@@ -94,7 +94,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 &emsp;&emsp;(A) the legal rights of employment-based nonimmigrants under Federal immigration, labor, and employment laws;
 
-&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion, blackmail, and worker exploitation in the United States; and
+&emsp;&emsp;(B) the illegality of slavery, peonage, trafficking in persons, sexual assault, extortion,blackmail, and worker exploitation in the United States; and
 
 &emsp;&emsp;(C) the legal rights of immigrant victims of trafficking in persons, worker exploitation, and other related crimes, including—
 

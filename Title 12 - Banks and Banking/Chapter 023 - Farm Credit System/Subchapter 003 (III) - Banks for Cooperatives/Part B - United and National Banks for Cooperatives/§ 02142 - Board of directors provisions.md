@@ -14,7 +14,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 &emsp;&emsp;(B) one member elected by the voting stockholders of each district bank for cooperatives that is not a constituent of the consolidated bank; and
 
-&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of aSystem institution or an officer or director of any such stockholder or borrower.
+&emsp;&emsp;(C) one member appointed by the members chosen under subparagraphs (A) and (B) who shall not be a stockholder or borrower of a System institution or an officer or director of any such stockholder or borrower.
 
 #### (2) Nomination and election
 
@@ -50,7 +50,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (B) Timing of elections
 
-&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a).
 
 #### (4) FCA regulations
 
@@ -58,7 +58,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (c) Modification of board of directors provisions
 
-The provisions of subsection (b) of this section relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
+The provisions of subsection (b) relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
 
 (Pub. L. 92–181, title III, §3.21, as added Pub. L. 100–233, title IV, §415(2), Jan. 6, 1988, 101 Stat. 1642; amended Pub. L. 100–399, title IV, §407(c), (d), Aug. 17, 1988, 102 Stat. 1000.)
 

@@ -8,7 +8,7 @@ The Interagency Committee shall—
 
 &emsp;(2) develop and promote new public sector initiatives, policies, programs, and plans designed to foster women's business enterprise;
 
-&emsp;(3) review, monitor, and coordinate plans and programs, developed in the public sector, which affect the ability of women-owned businesses to obtain capital and credit;
+&emsp;(3) review, monitor, and coordinate plans and programs, developed in the public sector,which affect the ability of women-owned businesses to obtain capital and credit;
 
 &emsp;(4) promote and assist, as appropriate, in the development of surveys of women-owned business; and
 
@@ -16,11 +16,11 @@ The Interagency Committee shall—
 
 #### (b) Meetings
 
-The Interagency Committee shall meet not less than biannually at such times as the Interagency Committee determines to be necessary to perform the duties under subsection (a) of this section. A majority of the members of the Committee shall constitute a quorum for the approval of recommendations or reports issued pursuant to this section.
+The Interagency Committee shall meet not less than biannually at such times as the Interagency Committee determines to be necessary to perform the duties under subsection (a). A majority of the members of the Committee shall constitute a quorum for the approval of recommendations or reports issued pursuant to this section.
 
 #### (c) Interaction with Council
 
-In performing its duties under subsection (a) of this section, the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
+In performing its duties under subsection (a), the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
 
 (Pub. L. 100–533, title IV, §402, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4193.)
 

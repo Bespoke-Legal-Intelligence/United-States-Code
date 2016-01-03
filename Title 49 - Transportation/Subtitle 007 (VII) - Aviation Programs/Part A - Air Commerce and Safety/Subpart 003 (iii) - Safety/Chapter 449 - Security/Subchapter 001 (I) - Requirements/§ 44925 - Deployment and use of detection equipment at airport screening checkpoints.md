@@ -34,7 +34,7 @@ Implementation.—The Secretary shall begin implementation of the strategic plan
 
 (c)
 
-Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices forthe detection of biological, chemical, radiological, and explosive materials.
+Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
 
 (d)
 
@@ -51,6 +51,10 @@ The date of enactment of this paragraph, referred to in subsec. (b)(3), is the d
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(3). Pub. L. 110–53 added par. (3).
+
+#### Movement and Redeployment of Mobile Explosives Detection Systems
+
+Pub. L. 114–113, div. F, title II, Dec. 18, 2015, 129 Stat. 2499, provided in part: "That notwithstanding any other provision of law, for the current fiscal year and each fiscal year hereafter, mobile explosives detection systems purchased and deployed using funds made available under this heading \[Transportation Security Administration, Aviation Security\] may be moved and redeployed to meet evolving passenger and baggage screening security priorities at airports".
 
 #### Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints
 

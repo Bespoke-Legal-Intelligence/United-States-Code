@@ -4,7 +4,7 @@
 
 (1) In the case of any application for the approval of any transportation or utility system to which section 3165 of this title does not apply or that does not occupy, use, or traverse any area within the National Wilderness Preservation System, if, in compliance with section 3164 of this title—
 
-&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then thesystem shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
+&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then the system shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
 
 &emsp;(B) one or more Federal agencies decide to disapprove any authorization within its jurisdiction with respect, to that system, then the system shall be deemed to be disapproved and the applicant for the system may appeal the disapproval to the President.
 
@@ -18,7 +18,7 @@
 
 (1) In the case of any application for the approval of a transportation or utility system to which section 3165 of this title applies or that proposes to occupy, use, or traverse any area within the National Wilderness Preservation System, each Federal agency concerned shall promptly submit to the President notification whether the agency tentatively approved or disapproved each authorization within its jurisdiction that applies with respect to the system. Such notification shall be accompanied by a statement of the reasons and findings supporting the agency position.
 
-(2) Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to section 3164(e) of this title, and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suit in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c) of this section. The President shall include with his recommendation to Congress—
+(2) Within four months after receiving all notification referred to in paragraph (1) and after considering such notifications, any environmental impact statement prepared pursuant to section 3164(e) of this title, and the comments of the public and Federal agencies received during the preparation of such statement, the President shall decide whether or not the application for the system concerned should be approved. If the President denies an application the applicant shall be deemed to have exhausted his administrative remedies, and may file suit in any appropriate Federal court to challenge such decision. If the President approves the application, he shall submit to Congress his recommendation for approval of the transportation or utility system covered, whereupon the Congress shall consider the application as provided in subsection (c). The President shall include with his recommendation to Congress—
 
 &emsp;(A) the application which is the subject of his recommendation;
 
@@ -30,7 +30,7 @@
 
 #### (c) Congressional approval
 
-(1) No application for any transportation or utility system with respect to which the President makes a recommendation for approval under subsection (b) of this section shall be approved unless the Senate and House of Representatives approve a resolution described in paragraph (4) within the first period of one hundred and twenty calendar days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation.
+(1) No application for any transportation or utility system with respect to which the President makes a recommendation for approval under subsection (b) shall be approved unless the Senate and House of Representatives approve a resolution described in paragraph (4) within the first period of one hundred and twenty calendar days of continuous session of the Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such recommendation.
 
 (2) For purposes of this subsection—
 
@@ -44,11 +44,11 @@
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(4) For the purposes of this subsection, the term "resolution" means a joint resolution, the resolving clause of which is as follows: "That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 ."; the first blankspace therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
+(4) For the purposes of this subsection, the term "resolution" means a joint resolution, the resolving clause of which is as follows: "That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 ."; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
 (5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
-(6) After an application for a transportation or utility system has been approved under subsection (a) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[43 U.S.C. 1761 et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
+(6) After an application for a transportation or utility system has been approved under subsection (a), the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b), the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[43 U.S.C. 1761 et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
 
 (Pub. L. 96–487, title XI, §1106, Dec. 2, 1980, 94 Stat. 2461.)
 
@@ -56,7 +56,7 @@
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification ofthis Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

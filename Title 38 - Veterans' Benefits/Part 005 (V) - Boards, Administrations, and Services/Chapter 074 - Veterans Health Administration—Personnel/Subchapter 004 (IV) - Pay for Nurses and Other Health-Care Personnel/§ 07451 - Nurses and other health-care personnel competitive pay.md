@@ -28,7 +28,7 @@
 
 (d)(1) Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
 
-&emsp;(A) whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage asthe adjustment in the rates of basic pay under the General Schedule; and
+&emsp;(A) whenever there is an adjustment under section 5303 of title 5 in the rates of pay under the General Schedule, with the adjustment under this subsection to have the same effective date and to be by the same percentage as the adjustment in the rates of basic pay under the General Schedule; and
 
 &emsp;(B) at such additional times as the director of a Department health-care facility, with respect to employees in that grade at that facility, or the Under Secretary for Health, with respect to covered Regional and Central Office employees in that grade, determines.
 
@@ -54,7 +54,7 @@
 
 (F) The Under Secretary for Health shall provide appropriate education, training, and support to directors of Department health care facilities in the conduct and use of surveys, including the use of third-party surveys, under this paragraph.
 
-(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) that it is not necessary to adjustthe rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made.
+(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made.
 
 (5) Information collected by the Department in surveys conducted under this subsection is not subject to disclosure under section 552 of title 5.
 
@@ -254,11 +254,11 @@ Report.—Not later than one year after the date of the enactment of this Act, t
 
 #### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
 
-Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
+Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
 
 #### National Commission on VA Nursing
 
-Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department ofVeterans Affairs the "National Commission on VA Nursing", directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
+Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the "National Commission on VA Nursing", directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
 #### Report on Nurse Locality Pay
 

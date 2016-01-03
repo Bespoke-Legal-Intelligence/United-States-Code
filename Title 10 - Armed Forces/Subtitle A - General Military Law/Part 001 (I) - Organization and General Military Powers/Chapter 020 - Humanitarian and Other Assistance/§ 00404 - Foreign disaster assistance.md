@@ -18,7 +18,7 @@ Notification Required.—Not later than 48 hours after the commencement of disas
 
 &emsp;(3) The United States military personnel and material resources that are involved or expected to be involved.
 
-&emsp;(4) The disaster assistance that is being provided or is expected to be provided by other nations or public or private relief organizations.
+&emsp;(4) The disaster assistance that is being provided or is expected to be provided by othernations or public or private relief organizations.
 
 &emsp;(5) The anticipated duration of the disaster assistance activities.
 

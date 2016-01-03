@@ -50,7 +50,7 @@
 
 #### (2) Noncommercial stations
 
-&emsp;The Commission shall prescribe regulations limiting the carriage requirements under subsection (a) of this section of satellite carriers with respect to the carriage of multiple local noncommercial television broadcast stations. To the extent possible, such regulations shall provide the same degree of carriage by satellite carriers of such multiple stations as is provided by cable systems under section 535 of this title.
+&emsp;The Commission shall prescribe regulations limiting the carriage requirements under subsection (a) of this section of satellite carriers with respect to the carriage of multiple local noncommercial television broadcast stations. To the extent possible, such regulations shallprovide the same degree of carriage by satellite carriers of such multiple stations as is provided by cable systems under section 535 of this title.
 
 #### (d) Channel positioning
 
@@ -68,7 +68,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (2) Opportunity to respond
 
-&emsp;The Commission shall afford the satellite carrier against which a complaint is filedunder paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
+&emsp;The Commission shall afford the satellite carrier against which a complaint is filed under paragraph (1) an opportunity to present data and arguments to establish that there has been no failure to meet its obligations under this section.
 
 #### (3) Remedial actions; dismissal
 
@@ -190,7 +190,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;&emsp;(II) the disclosure does not reveal, directly or indirectly, the—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) extent of any viewing or other use by the subscriber of a satellite service or other service provided by the satellite carrier; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) extent of any viewing or other use by the subscriber of a satelliteservice or other service provided by the satellite carrier; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the nature of any transaction made by the subscriber over any facilities used by the satellite carrier; or
 
@@ -222,7 +222,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (9) Court orders
 
-&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellitesubscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+&emsp;Except as provided in paragraph (4)(B)(iv), a governmental entity may obtain personally identifiable information concerning a satellite subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;&emsp;(A) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
@@ -308,7 +308,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) whether modifying the local market of the television station would promote consumers' access to television broadcast station signals that originate in their State of residence;
 
-&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillmentof the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+&emsp;&emsp;&emsp;(iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
 
 &emsp;&emsp;&emsp;(v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
 
@@ -464,7 +464,7 @@ Definitions.—As used in this subtitle \[title II of Pub. L. 111–175 does not
 
 &emsp;"(1)
 
-Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms 'local market', 'low power television station', 'satellite carrier', 'subscriber', and 'television broadcast station' have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
+Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms 'local market', 'low power television station', 'satellite carrier', 'subscriber',and 'television broadcast station' have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
 
 &emsp;"(2)
 

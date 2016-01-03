@@ -114,7 +114,7 @@
 
 &emsp;&emsp;(B) disseminating a list of eligible providers of youth workforce investment activities, as determined under section 3153 of this title;
 
-&emsp;&emsp;(C) providing assistance to local areas as described in subsections (b)(6) and (c)(2) ofsection 3121 of this title, for local coordination of activities carried out under this subchapter;
+&emsp;&emsp;(C) providing assistance to local areas as described in subsections (b)(7) and (c)(2) ofsection 3121 of this title, for local coordination of activities carried out under this subchapter;
 
 &emsp;&emsp;(D) operating a fiscal and management accountability information system under section 3141(i) of this title;
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(ii) preparation for postsecondary educational and training opportunities;
 
-&emsp;&emsp;&emsp;(iii) strong linkages between academic instruction (based on State academic content and student academic achievement standards established under section 6311 of title 20) and occupational education that lead to the attainment of recognized postsecondary credentials;
+&emsp;&emsp;&emsp;(iii) strong linkages between academic instruction (based on challenging Stateacademic standards established under section 6311(b)(1) of title 20 <sup>2</sup> and occupational education that lead to the attainment of recognized postsecondary credentials;
 
 &emsp;&emsp;&emsp;(iv) preparation for unsubsidized employment opportunities, in appropriate cases; and
 
@@ -262,15 +262,29 @@
 
 &emsp;The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
-(Pub. L. 113–128, title I, §129, July 22, 2014, 128 Stat. 1504.)
+(Pub. L. 113–128, title I, §129, July 22, 2014, 128 Stat. 1504; Pub. L. 114–18, §2(e)(2), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, §9215(yyy)(3), Dec. 10, 2015, 129 Stat. 2192.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–18 substituted "subsections (b)(7) and (c)(2) of section 3121 of this title" for "subsections (b)(6) and (c)(2) of section 3121 of this title".
+
+Subsec. (c)(1)(C)(iii). Pub. L. 114–95 substituted "(based on challenging State academic standards established under section 6311(b)(1) of title 20" for "(based on State academic content and student academic achievement standards established under section 6311 of title 20)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "who".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

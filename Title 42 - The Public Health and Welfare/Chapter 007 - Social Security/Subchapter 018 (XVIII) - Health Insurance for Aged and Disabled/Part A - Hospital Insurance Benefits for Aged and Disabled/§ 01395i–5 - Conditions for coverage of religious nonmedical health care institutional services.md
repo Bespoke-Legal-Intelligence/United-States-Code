@@ -112,7 +112,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (d) Sunset
 
-If the Secretary determines that the level of expenditures described in subsection (c)(1) ofthis section for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2) of this section), benefits shall be paid under this part for services described in subsection (a) of this section and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) of this section as of such January 1 and only during the duration of such election.
+If the Secretary determines that the level of expenditures described in subsection (c)(1) of this section for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2) of this section), benefits shall be paid under this part for services described in subsection (a) of this section and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) of this section as of such January 1 and only during the duration of such election.
 
 #### (e) Annual report
 
@@ -124,7 +124,7 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 &emsp;(3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997,111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
 
 #### Amendments
 

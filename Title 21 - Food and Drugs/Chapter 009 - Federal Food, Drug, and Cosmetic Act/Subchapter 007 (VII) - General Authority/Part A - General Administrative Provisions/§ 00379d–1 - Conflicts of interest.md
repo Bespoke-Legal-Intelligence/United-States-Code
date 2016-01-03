@@ -62,7 +62,7 @@ Notwithstanding section 107(a)(2) of the Ethics in Government Act of 1978, the f
 
 &emsp;&emsp;(A) the type, nature, and magnitude of the financial interests of the advisory committee member to which such determination or certification applies; and
 
-&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, as appropriate, the public health interest in having the expertise of the member with respect to the particular matter before the advisory committee.
+&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, as appropriate, the public health interest inhaving the expertise of the member with respect to the particular matter before the advisory committee.
 
 #### (2) Less than 30 days in advance
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 #### (2) Public availability
 
-&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committeesspecified in such paragraph, the Secretary shall make each such report available to the public.
+&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretary shall make each such report available to the public.
 
 #### (f) Periodic review of guidance
 

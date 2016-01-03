@@ -6,7 +6,7 @@ As used in this chapter and sections 1346(b) and 2401(b) of this title, the term
 
 "Acting within the scope of his office or employment", in the case of a member of the military or naval forces of the United States or a member of the National Guard as defined in section 101(3) of title 32, means acting in line of duty.
 
-(June 25, 1948, ch. 646, 62 Stat. 982; May 24, 1949, ch. 139, §124, 63 Stat. 106; Pub. L. 89–506, §8, July 18, 1966, 80 Stat. 307; Pub. L. 97–124, §1, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 100–694, §3, Nov. 18, 1988, 102 Stat. 4564; Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169; Pub. L. 106–518, title IV, §401, Nov. 13, 2000, 114 Stat. 2421.)
+(June 25, 1948, ch. 646, 62 Stat. 982; May 24, 1949, ch. 139, §124, 63 Stat. 106; Pub. L. 89–506, §8, July 18, 1966, 80 Stat. 307; Pub. L. 97–124, §1, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 100–694, §3, Nov. 18, 1988, 102 Stat. 4564; Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A-169; Pub. L. 106–518, title IV, §401, Nov. 13, 2000, 114 Stat. 2421.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@ Pub. L. 106–398 inserted "115," after "members of the National Guard while eng
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A-169, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -60,7 +60,7 @@ Pub. L. 100–694, §7, Nov. 18, 1988, 102 Stat. 4565, provided that: "If any pr
 
 #### Law Enforcement Officer Acting Within Scope of Office or Employment
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §627\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–519, as amended by Pub. L. 106–58, title VI, §623, Sept. 29, 1999, 113 Stat. 471, provided that:
+Pub. L. 105–277, div. A, §101(h) \[title VI, §627\], Oct. 21, 1998, 112 Stat. 2681–480, 2681-519, as amended by Pub. L. 106–58, title VI, §623, Sept. 29, 1999, 113 Stat. 471, provided that:
 
 "(a)
 

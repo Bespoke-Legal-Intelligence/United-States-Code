@@ -34,7 +34,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;It is the sense of Congress that the United States should request consultations in the Working Group on Emergency Action, established in the Understanding Between the Parties to the North American Free Trade Agreement Concerning Chapter Eight—Emergency Action, if imports of peanuts exceed the in-quota quantity under a tariff rate quota set out in the United States Schedule to Annex 302.2 of the Agreement concerning whether—
 
-&emsp;&emsp;(A) the increased imports of peanuts constitute a substantial cause of, or contributeimportantly to, serious injury, or threat of serious injury, to the domestic peanut industry; and
+&emsp;&emsp;(A) the increased imports of peanuts constitute a substantial cause of, or contribute importantly to, serious injury, or threat of serious injury, to the domestic peanut industry; and
 
 &emsp;&emsp;(B) recourse under Chapter Eight of the Agreement or Article XIX of the General Agreement on Tariffs and Trade is appropriate.
 
@@ -94,7 +94,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (B) Barley
 
-&emsp;&emsp;If a foreign country or instrumentality that requires end-use certificates for imports of United States-produced barley as of the effective date of the requirement under paragraph (1)(B) eliminates the requirement, the Secretary shall suspend the requirement under paragraph (1)(B) beginning 30 calendar days after suspension by the foreign country or instrumentality.
+&emsp;&emsp;If a foreign country or instrumentality that requires end-use certificates for imports of United States-produced barley as of the effective date of the requirement under paragraph (1)(B) eliminates the requirement, the Secretary shall suspend the requirement under paragraph (1)(B) beginning 30 calendardays after suspension by the foreign country or instrumentality.
 
 #### (5) Report to Congress
 
@@ -114,7 +114,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), if at any time the Secretary of Agriculture determines that the implementation of the Agreement has caused low-income migrant or seasonal farmworkers to lose income, the Secretary may make available grants, not to exceed $20,000,000 for anyfiscal year, to public agencies or private organizations with tax-exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant or seasonal farmworkers. Emergency services to be provided with assistance received under this subsection may include such types of assistance as the Secretary determines to be necessary and appropriate.
+&emsp;Subject to paragraph (3), if at any time the Secretary of Agriculture determines that the implementation of the Agreement has caused low-income migrant or seasonal farmworkers to lose income, the Secretary may make available grants, not to exceed $20,000,000 for any fiscal year, to public agencies or private organizations with tax-exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant or seasonal farmworkers. Emergency services to be provided with assistance received under this subsection may include such types of assistance as the Secretary determines to be necessary and appropriate.
 
 #### (2) "Low-income migrant or seasonal farmworker" defined
 

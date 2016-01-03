@@ -42,7 +42,7 @@ Projects recommended by the Secretary under subsection (a) shall be given equiva
 
 #### (e) Annual report
 
-For a project that cannot be carried out under the authority specified in subsection (d), on a determination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title.
+For a project that cannot be carried out under the authority specified in subsection (d), on adetermination by the Secretary of the feasibility of the project under subsection (a), the Secretary may include a recommendation concerning the project in the annual report submitted to Congress under section 2282d of this title.
 
 (Pub. L. 110–114, title II, §2006, Nov. 8, 2007, 121 Stat. 1073; Pub. L. 113–121, title II, §2104, June 10, 2014, 128 Stat. 1279.)
 

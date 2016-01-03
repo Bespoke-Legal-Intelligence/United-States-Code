@@ -18,13 +18,13 @@
 
 &emsp;(8) "person" has the meaning provided in section 796 of this title.
 
-(b) The requirement in subsection (a)(1) of this section that a project be located at the site of an existing dam in order to qualify as a small hydroelectric power project, and the other provisions of this chapter which require that a project be at or in connection with an existing dam (or utilize the potential of such dam) in order to be assisted under or included within such provisions, shall not be construed to exclude—
+(b) The requirement in subsection (a)(1) that a project be located at the site of an existing dam in order to qualify as a small hydroelectric power project, and the other provisions of this chapter which require that a project be at or in connection with an existing dam (or utilize the potential of such dam) in order to be assisted under or included within such provisions, shall not be construed to exclude—
 
 &emsp;(1) from the definition contained in such subsection (a)(1), or
 
 &emsp;(2) from any other provision of this chapter,
 
-> any project which utilizes or proposes to utilize natural water features for the generation of electricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
+> any project which utilizes or proposes to utilize natural water features for the generation ofelectricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
 
 (Pub. L. 95–617, title IV, §408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, §408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–58, title II, §246, Aug. 8, 2005, 119 Stat. 679.)
 

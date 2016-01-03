@@ -40,7 +40,7 @@
 
 &emsp;(B) research priorities and recommendations;
 
-&emsp;(C) a description of how funds from each agency will be combined, as appropriate, for projects administered among Federal agencies, and how such funds will be administered;
+&emsp;(C) a description of how funds from each agency will be combined, as appropriate, forprojects administered among Federal agencies, and how such funds will be administered;
 
 &emsp;(D) the development and ongoing maintenance of a searchable government wide inventory of disability, independent living, and rehabilitation research for trend and data analysis across Federal agencies;
 

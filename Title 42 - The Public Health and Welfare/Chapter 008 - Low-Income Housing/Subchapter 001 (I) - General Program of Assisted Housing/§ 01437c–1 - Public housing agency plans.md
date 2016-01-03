@@ -70,7 +70,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) Needs
 
-&emsp;A statement of the housing needs of low-income and very low-income families residing in the jurisdiction served by the public housing agency, and of other low-income and very low-income families on the waiting list of the agency (including housing needs of elderly families and disabled families), and the meansby which the public housing agency intends, to the maximum extent practicable, to address those needs.
+&emsp;A statement of the housing needs of low-income and very low-income families residing in the jurisdiction served by the public housing agency, and of other low-income and very low-income families on the waiting list of the agency (including housing needs of elderly families and disabled families), and the means by which the public housing agency intends, to the maximum extent practicable, to address those needs.
 
 #### (2) Financial resources
 
@@ -90,7 +90,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (5) Operation and management
 
-&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
+&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication ofpest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
 
 #### (6) Grievance procedure
 
@@ -156,7 +156,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (B) Establishment
 
-&emsp;&emsp;The plan shall be established in consultation with the police officer or officers incommand for the appropriate precinct or police department.
+&emsp;&emsp;The plan shall be established in consultation with the police officer or officers in command for the appropriate precinct or police department.
 
 #### (C) Content
 
@@ -374,7 +374,7 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–35
 
 The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 

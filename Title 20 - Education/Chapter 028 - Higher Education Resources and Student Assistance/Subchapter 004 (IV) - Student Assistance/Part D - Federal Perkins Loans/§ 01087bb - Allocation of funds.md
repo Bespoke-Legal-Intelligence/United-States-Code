@@ -2,7 +2,7 @@
 
 #### (a) Allocation based on previous allocation
 
-(1) From the amount appropriated pursuant to section 1087aa(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
+(1) From the amount appropriated pursuant to section 1087aa(b) <sup>1</sup> of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
 
 &emsp;(A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
 
@@ -40,7 +40,7 @@
 
 > except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section, the institution may not receive an allocation under this paragraph.
 
-(3)(A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
+(3)(A) If the amount appropriated for any fiscal year is less than the amount required to beallocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
 
 (B) If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
 
@@ -52,11 +52,11 @@
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
-(1) From the remainder of the amount appropriated pursuant to section 1087aa(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 1087aa(b) <sup>1</sup> of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+&emsp;(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) <sup>1</sup> of this title for the fiscal year; exceeds
 
 &emsp;(B) the amount required to be allocated to that institution under subsection (a) of this section,
 
@@ -254,9 +254,13 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 #### (4) Allocation reductions
 
-&emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
+&emsp;If under paragraph (1) of this subsection an institution returns more than 10 percent of itsallocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
 (Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947.)
+
+#### References in Text
+
+Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
 #### Prior Provisions
 
@@ -410,7 +414,7 @@ Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior t
 
 "(2) For award year 1991 and subsequent years, the applicable maximum default rate is 15 percent."
 
-Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for"Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
+Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for "Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
 
 Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions."
 
@@ -428,7 +432,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) \[20 U.S.C. 1087aa(b)\] for fiscal year 2000 or any succeeding fiscal year."
+Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) \[former 20 U.S.C. 1087aa(b)\] for fiscal year 2000 or any succeeding fiscal year."
 
 Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
@@ -443,4 +447,6 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date
 
 Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

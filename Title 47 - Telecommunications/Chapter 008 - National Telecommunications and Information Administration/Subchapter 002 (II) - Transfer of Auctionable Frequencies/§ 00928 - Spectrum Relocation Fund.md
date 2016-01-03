@@ -34,7 +34,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Director of OMB may transfer to an eligible Federalentity, at any time (including prior to a scheduled auction), such sums as may be available in the Fund to pay relocation or sharing costs related to pre-auction estimates or research, as such costs are described in section 923(g)(3)(A)(iii) of this title.
+&emsp;&emsp;Subject to subparagraph (B), the Director of OMB may transfer to an eligible Federal entity, at any time (including prior to a scheduled auction), such sums as may be available in the Fund to pay relocation or sharing costs related to pre-auction estimates or research, as such costs are described in section 923(g)(3)(A)(iii) of this title.
 
 #### (B) Notification
 
@@ -94,13 +94,13 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (1) Amounts available
 
-&emsp;Notwithstanding subsections (c) through (e), after February 22, 2012, there are appropriated from the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
+&emsp;Notwithstanding subsections (c) through (e), after February 22, 2012, there are appropriatedfrom the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
 
 #### (2) Use of amounts
 
 #### (A) In general
 
-&emsp;&emsp;The Director of OMB, in consultation with the NTIA, may use amounts made availableunder paragraph (1) to make payments to eligible Federal entities that are implementing a transition plan submitted under section 923(h)(1) of this title in order to encourage such entities to complete the implementation more quickly, thereby encouraging timely access to the eligible frequencies that are being reallocated for exclusive non-Federal use or shared use.
+&emsp;&emsp;The Director of OMB, in consultation with the NTIA, may use amounts made available under paragraph (1) to make payments to eligible Federal entities that are implementing a transition plan submitted under section 923(h)(1) of this title in order to encourage such entities to complete the implementation more quickly, thereby encouraging timely access to the eligible frequencies that are being reallocated for exclusive non-Federal use or shared use.
 
 #### (B) Conditions
 
@@ -114,7 +114,79 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;&emsp;(iv) such payment may not be made until 30 days after the Director of OMB has notified the congressional committees described in subsection (d)(2)(C).
 
-#### (g) Restriction on use of Funds
+#### (g) Additional payments for research and development and planning activities
+
+#### (1) Amounts available
+
+&emsp;Notwithstanding subsections (c) through (e)—
+
+&emsp;&emsp;(A) there are appropriated from the Fund on November 2, 2015, and available to the Director of OMB for use in accordance with paragraph (2), not more than $500,000,000 from amounts in the Fund on November 2, 2015; and
+
+&emsp;&emsp;(B) there are appropriated from the Fund after November 2, 2015, and available to the Director of OMB for use in accordance with such paragraph, not more than 10 percent of the amounts deposited in the Fund after November 2, 2015.
+
+#### (2) Use of amounts
+
+#### (A) In general
+
+&emsp;&emsp;The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
+
+#### (B) Systems that improve efficiency and effectiveness of Federal spectrum use
+
+&emsp;&emsp;For purposes of a payment under subparagraph (A) for activities with respect to systems that improve the efficiency and effectiveness of the spectrum use of Federal entities, such systems include the following:
+
+&emsp;&emsp;&emsp;(i) Systems that have increased functionality or that increase the ability of a Federal entity to accommodate spectrum sharing with non-Federal entities.
+
+&emsp;&emsp;&emsp;(ii) Systems that consolidate functions or services that have been provided using separate systems.
+
+&emsp;&emsp;&emsp;(iii) Non-spectrum technology or systems.
+
+#### (C) Frequencies described
+
+&emsp;&emsp;The frequencies described in this subparagraph are, with respect to a payment under subparagraph (A), frequencies that—
+
+&emsp;&emsp;&emsp;(i) are assigned to a Federal entity; and
+
+&emsp;&emsp;&emsp;(ii) at the time of the activities conducted with such payment, are not identified for auction.
+
+#### (D) Conditions
+
+&emsp;&emsp;The Director of OMB may not make a payment to a Federal entity under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) unless—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Federal entity has submitted to the Technical Panel established under section 923(h)(3) of this title a plan describing the activities that the Federal entity will conduct with such payment;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Technical Panel has approved such plan under subparagraph (E); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Director of OMB has submitted the plan approved under subparagraph (E) to the congressional committees described in subsection (d)(2)(C); and
+
+&emsp;&emsp;&emsp;(ii) until 60 days have elapsed after submission of the plan under clause (i)(III).
+
+#### (E) Review by technical panel
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 120 days after a Federal entity submits a plan under subparagraph (D)(i)(I) to the Technical Panel established under section 923(h)(3) of this title, the Technical Panel shall approve or disapprove such plan.
+
+#### (ii) Criteria for review
+
+&emsp;&emsp;&emsp;In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—
+
+&emsp;&emsp;&emsp;&emsp;(I) the activities that the Federal entity will conduct with the payment will—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) increase the probability of relocation from or sharing of Federal spectrum;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) facilitate an auction intended to occur not later than 8 years after the payment; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the transfer will leave sufficient amounts in the Fund for the other purposes of the Fund.
+
+#### (h) Prioritization of payments
+
+In determining whether to make payments under subsections (f) and (g), the Director of OMB shall, to the extent practicable, prioritize payments under subsection (g).
+
+#### (i) Restriction on use of Funds
 
 No amounts in the Fund on the day before February 22, 2012, may be used for any purpose except—
 
@@ -122,9 +194,11 @@ No amounts in the Fund on the day before February 22, 2012, may be used for any 
 
 &emsp;(2) to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
 
-(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252.)
+(Pub. L. 102–538, title I, §118, as added Pub. L. 108–494, title II, §204, Dec. 23, 2004, 118 Stat. 3994; amended Pub. L. 111–8, div. G, title I, §1301(a), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–96, title VI, §6702, Feb. 22, 2012, 126 Stat. 252; Pub. L. 114–74, title X, §1005(a), Nov. 2, 2015, 129 Stat. 622.)
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (g) to (i). Pub. L. 114–74 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 
 <b>2012</b>—Pub. L. 112–96, §6702(1), substituted "relocation or sharing costs" for "relocation costs" wherever appearing.
 

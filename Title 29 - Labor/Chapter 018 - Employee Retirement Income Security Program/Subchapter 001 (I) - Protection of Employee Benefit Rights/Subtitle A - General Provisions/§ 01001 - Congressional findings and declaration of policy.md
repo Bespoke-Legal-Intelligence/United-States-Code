@@ -188,7 +188,7 @@ Penalty.—If any plan fails to meet the requirements of clause (i), such plan s
 
 &emsp;&emsp;"(B)
 
-Responsibilities of secretary of labor.—The Secretary of Labor shall take such steps (by public announcements and otherwise) as may benecessary or appropriate to bring to public attention the provisions of this subsection.
+Responsibilities of secretary of labor.—The Secretary of Labor shall take such steps (by public announcements and otherwise) as may be necessary or appropriate to bring to public attention the provisions of this subsection.
 
 "(f) The amendments made by section 301 of this Act \[amending section 1054 of this title and sections 401 and 411 of Title 26\] shall not apply to the termination of a defined benefit plan if such termination—
 
@@ -248,13 +248,13 @@ Pub. L. 96–364, §1, Sept. 26, 1980, 94 Stat. 1208, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 93–406, §1, Sept. 2, 1974, 88 Stat. 829, provided that: "This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title, sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the 'Employee Retirement Income Security Act of 1974'."
+Pub. L. 93–406, §1, Sept. 2, 1974, 88 Stat. 829, provided that: "This Act \[enacting this chapter, sections 408 to 415, 4971 to 4975, 6057 to 6059, 6692, and 6693 of Title 26, Internal Revenue Code, section 1037 of former Title 31, Money and Finance, and section 1320b–1 of Title 42, The Public Health and Welfare, amending section 441 of this title, sections 5108 and 5109 of Title 5, Government Organization and Employees, sections 664, 1027, and 1954 ofTitle 18, Crimes and Criminal Procedure, sections 37, 46, 56, 62, 72, 101, 122, 219, 220, 275, 401, 402, 403, 404, 405, 406, 407, 503, 801, 805, 871, 901, 1304, 1348, 1379, 2039, 3401, 6033, 6047, 6051, 6103, 6104, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 6688, 6690, 6861, 6862, 7422, 7451, 7459, 7482, 7701, and 7802, of Title 26, and section 846 of former Title 31, repealing sections 301 to 309 of this title, and enacting provisions set out as notes under sections 72, 122, 219, 401, 402, 403, 404, 410, 411, 412, 415, 501, 4973, 4975, 6057, 6059, 6103, 6104, 7476, and 7802 of Title 26\] may be cited as the 'Employee Retirement Income Security Act of 1974'."
 
 #### Congressional Findings and Declarations of Policy
 
 Pub. L. 113–97, §2, Apr. 7, 2014, 128 Stat. 1101, provided that: "Congress finds as follows:
 
-&emsp;"(1) Defined benefit pension plans are a cost-effective way for cooperative associations and charities toprovide their employees with economic security in retirement.
+&emsp;"(1) Defined benefit pension plans are a cost-effective way for cooperative associations and charities to provide their employees with economic security in retirement.
 
 &emsp;"(2) Many cooperative associations and charitable organizations are only able to provide their employees with defined benefit pension plans because those organizations are able to pool their resources using the multiple employer plan structure.
 
@@ -312,7 +312,7 @@ Except as otherwise provided in Section 105 of this Plan, all authority of the S
 
 #### Sec. 103. Coordination Concerning Certain Fiduciary Actions
 
-In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a) by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardyassessment under sections 6851 or 6861 of the Code \[26 U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
+In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a) by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardy assessment under sections 6851 or 6861 of the Code \[26 U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
 
 #### Sec. 104. Enforcement by the Secretary of Labor
 
@@ -348,7 +348,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 #### Sec. 109. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 30, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April30, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Amendment by section 108(c) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.\]
 
@@ -358,7 +358,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 > To the Congress of the United States:
 
-Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed tosimplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan will eliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
+Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan will eliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
 
 ERISA was an essential step in the protection of worker pension rights. Its administrative provisions, however, have resulted in bureaucratic confusion and have been justifiably criticized by employers and unions alike. The biggest problem has been overlapping jurisdictional authority. Under current ERISA provisions, the Departments of Treasury and Labor both have authority to issue regulations and decisions.
 

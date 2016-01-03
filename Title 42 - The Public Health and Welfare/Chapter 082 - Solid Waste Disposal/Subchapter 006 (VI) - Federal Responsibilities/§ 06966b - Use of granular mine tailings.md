@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) the current and previous uses of granular mine tailings as an aggregate for asphalt; and
 
-&emsp;&emsp;(B) any environmental and public health risks and benefits derived from the removal,transportation, and use in transportation projects of granular mine tailings.
+&emsp;&emsp;(B) any environmental and public health risks and benefits derived from the removal, transportation, and use in transportation projects of granular mine tailings.
 
 #### (3) Public participation
 

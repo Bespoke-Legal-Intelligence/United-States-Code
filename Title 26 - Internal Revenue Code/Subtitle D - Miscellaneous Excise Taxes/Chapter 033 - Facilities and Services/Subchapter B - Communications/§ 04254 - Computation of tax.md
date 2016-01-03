@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 85–859 substituted "toll telephone service" for "long dis
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–172, §2(b), Nov. 12, 1977, 91 Stat. 1358, provided that: "The amendment made by this section \[amending this section\] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which beginsmore than 20 days after the date of the enactment of this Act \[Nov. 12, 1977\]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date."
+Pub. L. 95–172, §2(b), Nov. 12, 1977, 91 Stat. 1358, provided that: "The amendment made by this section \[amending this section\] shall take effect only with respect to amounts paid pursuant to bills first rendered on or after the first day of the first month which begins more than 20 days after the date of the enactment of this Act \[Nov. 12, 1977\]. For purposes of the preceding sentence, in the case of communications services rendered more than 2 months before the effective date provided in the preceding sentence, no bill shall be treated as having been first rendered on or after such effective date."
 
 #### Effective Date of 1965 Amendment
 

@@ -80,7 +80,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or otherwise affecting the authority of the Federal Trade Commission (including its authority with respect to affiliates described in section 5515(a)(1) of this title) under the Federal Trade Commission Act or any other law, other than the authority under an enumerated consumer law to prescribe rules, issue official guidelines, or conduct a study or issue a report mandated under such law.
+&emsp;&emsp;&emsp;No provision of this title <sup>1</sup> shall be construed as modifying, limiting, or otherwiseaffecting the authority of the Federal Trade Commission (including its authority with respect to affiliates described in section 5515(a)(1) of this title) under the Federal Trade Commission Act or any other law, other than the authority under an enumerated consumer law to prescribe rules, issue official guidelines, or conduct a study or issue a report mandated under such law.
 
 #### (ii) Commission authority relating to rules prescribed by the Bureau
 
@@ -140,11 +140,11 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (C) Statutory enforcement
 
-&emsp;&emsp;For purposes of carrying out the authorities under, and subject to the limitations of, part B, each prudential regulator may enforce compliance with the requirements imposed under this title,<sup>1</sup> and any rule or order prescribed by the Bureau under this title,<sup>1</sup> under—
+&emsp;&emsp;For purposes of carrying out the authorities under, and subject to the limitations of,part B, each prudential regulator may enforce compliance with the requirements imposed under this title,<sup>1</sup> and any rule or order prescribed by the Bureau under this title,<sup>1</sup> under—
 
 &emsp;&emsp;&emsp;(i) the Federal Credit Union Act (12 U.S.C. 1751 et seq.), by the National Credit Union Administration Board with respect to any covered person or service provider that is an insured credit union, or service provider thereto, or any affiliate of an insured credit union, who is subject to the jurisdiction of the Board under that Act; and
 
-&emsp;&emsp;&emsp;(ii) section 1818 of this title, by the appropriate Federal banking agency, as defined in section 1813(q) of this title, with respect to a covered person or service provider that is a person described in section1813(q) of this title and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
+&emsp;&emsp;&emsp;(ii) section 1818 of this title, by the appropriate Federal banking agency, as defined in section 1813(q) of this title, with respect to a covered person or service provider that is a person described in section 1813(q) of this title and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
 
 &emsp;&emsp;&emsp;(iii) the Bank Service Company Act (12 U.S.C. 1861 et seq.).
 

@@ -32,7 +32,7 @@ Any person who fails to comply with any provision of this subchapter with respec
 
 #### (b) Factors to be considered in awarding punitive damages
 
-In determining the amount of any liability of any credit repair organization under subsection (a)(2) of this section, the court shall consider, among other relevant factors—
+In determining the amount of any liability of any credit repair organization under subsection (a)(2), the court shall consider, among other relevant factors—
 
 &emsp;(1) the frequency and persistence of noncompliance by the credit repair organization;
 

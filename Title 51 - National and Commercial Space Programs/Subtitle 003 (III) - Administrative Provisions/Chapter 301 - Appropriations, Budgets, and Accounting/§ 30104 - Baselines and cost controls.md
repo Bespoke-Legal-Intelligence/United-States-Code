@@ -48,7 +48,7 @@ Major Program Annual Reports.—
 
 &emsp;(1)
 
-Requirement.—Annually, at the same time as the President's annual budget submission to Congress, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes the information required by this section for each major program for which the Administration proposes to expend funds in the subsequent fiscal year. Reports under this paragraph shall be known as Major Program Annual Reports.
+Requirement.—Annually, at the same time as the President's annual budget submission to Congress, the Administrator shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report thatincludes the information required by this section for each major program for which the Administration proposes to expend funds in the subsequent fiscal year. Reports under this paragraph shall be known as Major Program Annual Reports.
 
 &emsp;(2)
 

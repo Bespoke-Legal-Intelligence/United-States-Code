@@ -14,11 +14,35 @@ For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employ
 
 #### (c) Employees of partnerships, proprietorships, etc., which are under common control
 
-For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), for purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, under regulations prescribed by the Secretary, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer. The regulations prescribed under this subsection shall be based on principles similar to the principles which apply in the case of subsection (b).
+
+#### (2) Special rules relating to church plans
+
+#### (A) General rule
+
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), for purposes of this subsection and subsection (m), an organization that is otherwise eligible to participate in a church plan shall not be aggregated with another such organization and treated as a single employer with such other organization for a plan year beginning in a taxable year unless—
+
+&emsp;&emsp;&emsp;(i) one such organization provides (directly or indirectly) at least 80 percent of the operating funds for the other organization during the preceding taxable year of the recipient organization, and
+
+&emsp;&emsp;&emsp;(ii) there is a degree of common management or supervision between the organizations such that the organization providing the operating funds is directly involved in the day-to-day operations of the other organization.
+
+#### (B) Nonqualified church-controlled organizations
+
+&emsp;&emsp;Notwithstanding subparagraph (A), for purposes of this subsection and subsection (m), an organization that is a nonqualified church-controlled organization shall be aggregated with 1 or more other nonqualified church-controlled organizations, or with an organization that is not exempt from tax under section 501, and treated as a single employer with such other organization, if at least 80 percent of the directors or trustees of such other organization are either representatives of, or directly or indirectly controlled by, such nonqualified church-controlled organization. For purposes of this subparagraph, the term "nonqualified church-controlled organization" means a church-controlled tax-exempt organization described in section 501(c)(3) that is not a qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+
+#### (C) Permissive aggregation among church-related organizations
+
+&emsp;&emsp;The church or convention or association of churches with which an organization described in subparagraph (A) is associated (within the meaning of subsection (e)(3)(D)), or an organization designated by such church or convention or association of churches, may elect to treat such organizations as a single employer for a plan year. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
+
+#### (D) Permissive disaggregation of church-related organizations
+
+&emsp;&emsp;For purposes of subparagraph (A), in the case of a church plan, an employer may elect to treat churches (as defined in section 403(b)(12)(B)) separately from entities that are not churches (as so defined), without regard to whether such entities maintain separate church plans. Such election, once made, shall apply to all succeeding plan years unless revoked with notice provided to the Secretary in such manner as the Secretary shall prescribe.
 
 #### (d) Governmental plan
 
-For purposes of this part, the term "governmental plan" means a plan established andmaintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935 or 1937 applies and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation by reason of the International Organizations Immunities Act (59 Stat. 669). The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
+For purposes of this part, the term "governmental plan" means a plan established and maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935 or 1937 applies and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation by reason of the International Organizations Immunities Act (59 Stat. 669). The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40)), a subdivision of an Indian tribal government (determined in accordance with section 7871(d)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).
 
 #### (e) Church plan
 
@@ -40,7 +64,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 #### (A) Treatment as church plan
 
-&emsp;&emsp;A plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches includes a plan maintained by an organization, whether a civil law corporation or otherwise, the principal purpose or function of which is the administration or funding of a plan or program for the provision of retirement benefits or welfare benefits, or both, for the employees of a church or a convention or association of churches, if such organization is controlled by or associated with a church or a convention or association of churches.
+&emsp;&emsp;A plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches includes a plan maintained by an organization, whether a civil law corporation or otherwise, the principal purpose or function of which is the administration or funding of a plan or program for the provision of retirement benefits or welfare benefits, or both, for the employees of a church or a convention or association of churches, ifsuch organization is controlled by or associated with a church or a convention or association of churches.
 
 #### (B) Employee defined
 
@@ -114,7 +138,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 &emsp;&emsp;&emsp;(i) the minister's includible compensation under section 403(b)(3) shall be determined by reference to the minister's earned income (within the meaning of section 401(c)(2)) from such ministry rather than the amount of compensation which is received from an employer, and
 
-&emsp;&emsp;&emsp;(ii) the years (and portions of years) in which such minister was a self-employed individual (within the meaning of section 401(c)(1)(B)) with respect to such ministry shall be included for purposes of section 403(b)(4).
+&emsp;&emsp;&emsp;(ii) the years (and portions of years) in which such minister was a self-employed individual (within the meaning of section401(c)(1)(B)) with respect to such ministry shall be included for purposes of section 403(b)(4).
 
 #### (C) Effect on non-denominational plans
 
@@ -150,7 +174,7 @@ For purposes of this part, the term "governmental plan" means a plan established
 
 #### (4) Transitional rule
 
-&emsp;For any plan year which began before the date of the enactment of the MultiemployerPension Plan Amendments Act of 1980, the term "multiemployer plan" means a plan described in this subsection as in effect immediately before that date.
+&emsp;For any plan year which began before the date of the enactment of the Multiemployer Pension Plan Amendments Act of 1980, the term "multiemployer plan" means a plan described in this subsection as in effect immediately before that date.
 
 #### (5) Special election
 
@@ -208,7 +232,7 @@ For purposes of this part, the term "plan administrator" means—
 
 &emsp;&emsp;(A) to an employees' trust described in section 401(a), or
 
-&emsp;&emsp;(B) under a plan described in section 403(a), shall not be treated as having been made bythe employer if it is designated as an employee contribution.
+&emsp;&emsp;(B) under a plan described in section 403(a), shall not be treated as having been made by the employer if it is designated as an employee contribution.
 
 #### (2) Designation by units of government
 
@@ -236,7 +260,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 #### (1) In general
 
-&emsp;A trust which forms a part of a plan shall not constitute a qualified trust under section 401 and a plan shall be treated as not described in section 403(a) unless in the case of any merger or consolidation of the plan with, or in the case of any transfer of assets or liabilities of such plan to, any other trust plan after September 2, 1974, each participant in the plan would (if the plan then terminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitled to receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence does not apply to any multiemployer plan with respect to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which Title IV of the Employee Retirement Income Security Act of 1974 applies.
+&emsp;A trust which forms a part of a plan shall not constitute a qualified trust under section 401 and a plan shall be treated as not describedin section 403(a) unless in the case of any merger or consolidation of the plan with, or in the case of any transfer of assets or liabilities of such plan to, any other trust plan after September 2, 1974, each participant in the plan would (if the plan then terminated) receive a benefit immediately after the merger, consolidation, or transfer which is equal to or greater than the benefit he would have been entitled to receive immediately before the merger, consolidation, or transfer (if the plan had then terminated). The preceding sentence does not apply to any multiemployer plan with respect to any transaction to the extent that participants either before or after the transaction are covered under a multiemployer plan to which Title IV of the Employee Retirement Income Security Act of 1974 applies.
 
 #### (2) Allocation of assets in plan spin-offs, etc.
 
@@ -314,7 +338,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;&emsp;(ii) the requirements of this paragraph shall not be treated as met with respect to such plan unless during the 180-day period beginning on the date such insured bank is closed—
 
-&emsp;&emsp;&emsp;&emsp;(I) the bridge depository institution has the right to require the plan to transfer (subject to the provisions of this paragraph) not more than 50 percent of the excess assets (as defined in subparagraph (C)) to a defined benefit plan maintained by the bridge depository institution with respect to participants or former participants (including retirees and beneficiaries) in the original plan employed by the bridge depository institution or formerly employed by the closed bank, and
+&emsp;&emsp;&emsp;&emsp;(I) the bridge depository institution has the right to require the plan totransfer (subject to the provisions of this paragraph) not more than 50 percent of the excess assets (as defined in subparagraph (C)) to a defined benefit plan maintained by the bridge depository institution with respect to participants or former participants (including retirees and beneficiaries) in the original plan employed by the bridge depository institution or formerly employed by the closed bank, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no other merger, spin-off, termination, or similar transaction involving the portion of the excess assets described in subclause (I) may occur without the prior written consent of the bridge depository institution.
 
@@ -582,7 +606,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 #### (A) In general
 
-&emsp;&emsp;During any period in which the issue of whether a domestic relations order is a qualified domestic relations order is being determined (by the plan administrator, by a court of competent jurisdiction, or otherwise), the plan administrator shall separately account for the amounts (hereinafter in this paragraph referred to as the "segregated amounts") which would have been payable to the alternate payee during such period if the order had been determined to be a qualified domestic relations order.
+&emsp;&emsp;During any period in which the issue of whether a domestic relations order is a qualified domestic relations order is being determined (by the plan administrator, by a court of competent jurisdiction, or otherwise), the plan administrator shall separately account for the amounts (hereinafterin this paragraph referred to as the "segregated amounts") which would have been payable to the alternate payee during such period if the order had been determined to be a qualified domestic relations order.
 
 #### (B) Payment to alternate payee if order determined to be qualified domestic relations order
 
@@ -794,7 +818,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(B) such contribution shall be subject to the limitations referred to in subparagraph (A) with respect to the year to which the contribution relates (in accordance with rules prescribed by the Secretary), and
 
-&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p),410(b), or 416 by reason of the making of (or the right to make) such contribution.
+&emsp;&emsp;(C) such plan shall not be treated as failing to meet the requirements of section 401(a)(4), 401(a)(26), 401(k)(3), 401(k)(11), 401(k)(12), 401(m), 403(b)(12), 408(k)(3), 408(k)(6), 408(p), 410(b), or 416 by reason of the making of (or the right to make) such contribution.
 
 > &emsp;For purposes of the preceding sentence, any elective deferral or employee contribution made under paragraph (2) shall be treated as required by reason of the employee's rights under such chapter 43.
 
@@ -856,7 +880,7 @@ For purposes of any applicable provision—
 
 &emsp;For purposes of this subchapter and section 457, an employer sponsoring a retirement plan shall be treated as meeting the requirements of chapter 43 of title 38, United States Code, only if each of the following requirements is met:
 
-&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such planas not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
+&emsp;&emsp;(A) An individual reemployed under such chapter is treated with respect to such plan as not having incurred a break in service with the employer maintaining the plan by reason of such individual's period of qualified military service.
 
 &emsp;&emsp;(B) Each period of qualified military service served by an individual is, upon reemployment under such chapter, deemed with respect to such plan to constitute service with the employer maintaining the plan for the purpose of determining the nonforfeitability of the individual's accrued benefits under such plan and for the purpose of determining the accrual of benefits under such plan.
 
@@ -866,7 +890,7 @@ For purposes of any applicable provision—
 
 #### (A) In general
 
-&emsp;&emsp;For benefit accrual purposes, an employer sponsoring a retirement plan may treat an individual who dies or becomes disabled (as defined under the terms of the plan) while performing qualified military service with respect to the employer maintaining the plan as if the individual has resumed employment in accordance with the individual's reemployment rights under chapter 43 of title 38, United States Code, on the day preceding death or disability (as the case may be) and terminated employment on the actual date of death or disability. In the case of any such treatment, and subject to subparagraphs (B) and (C), any full or partial compliance by such plan with respect to the benefit accrual requirements of paragraph (8) with respect to such individual shall be treated for purposes of paragraph (1) as if such compliance were required under such chapter 43.
+&emsp;&emsp;For benefit accrual purposes, an employer sponsoring a retirement plan may treat an individual who dies or becomes disabled (as defined under the terms of the plan) while performing qualified military service with respect to the employer maintaining the plan as if the individual has resumed employment in accordance with the individual's reemployment rights under chapter 43 of title 38, United States Code, on the day preceding death or disability (as the case may be) and terminated employment on the actual date of death or disability. In the case of any such treatment, and subject to subparagraphs (B) and (C), any full or partial compliance by such plan with respect to the benefit accrual requirements of paragraph (8) with respect to such individual shall be treated for purposes of paragraph (1) as ifsuch compliance were required under such chapter 43.
 
 #### (B) Nondiscrimination requirement
 
@@ -1112,7 +1136,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;&emsp;(iv) with respect to which the benefit, contribution, vesting, and nondiscrimination requirements of subparagraphs (B), (C), (D), (E), and (F) are met.
 
-> &emsp;&emsp;For purposes of this subparagraph, the term "small employer" has the meaning given such term by section 4980D(d)(2), except that such section shall be applied by substituting "500" for "50" each place it appears.
+> &emsp;&emsp;For purposes of this subparagraph, the term "small employer" has the meaning givensuch term by section 4980D(d)(2), except that such section shall be applied by substituting "500" for "50" each place it appears.
 
 #### (B) Benefit requirements
 
@@ -1239,7 +1263,7 @@ For purposes of any applicable provision—
 
 #### (iii) Annual notice of rights and obligations
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate inthe arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
+&emsp;&emsp;&emsp;The requirements of this clause are met if each employee eligible to participate in the arrangement is, within a reasonable period before any year, given notice of the employee's rights and obligations under the arrangement.
 
 > &emsp;&emsp;The requirements of clauses (i) and (ii) of section 401(k)(12)(D) shall be met with respect to the notices described in clauses (ii) and (iii) of this subparagraph.
 
@@ -1293,7 +1317,7 @@ For purposes of any applicable provision—
 
 #### (2) Aggregation
 
-&emsp;All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph <sup>6</sup> (B) and <sup>6</sup> (C) of paragraph (1).
+&emsp;All employers that are treated as a single employer under subsection (b) or (c) shall be treated as a single employer for purposes of determining if a plan was maintained by more than one employer under subparagraph <sup>6</sup> (B) and (C) of paragraph (1).
 
 #### (3) Election
 
@@ -1305,7 +1329,47 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
 
-(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, §2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar.9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111; Pub. L. 113–97, title II, §§201, 203(a), Apr. 7, 2014, 128 Stat. 1121, 1138; Pub. L. 113–235, div. P, §3(b), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(i), (ii), (55), Dec. 19, 2014, 128 Stat. 4039, 4045.)
+#### (z) Certain plan transfers and mergers
+
+#### (1) In general
+
+&emsp;Under rules prescribed by the Secretary, except as provided in paragraph (2), no amount shall be includible in gross income by reason of—
+
+&emsp;&emsp;(A) a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from a church plan that is a plan described in section 401(a) or an annuity contract described in section 403(b) to an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches,
+
+&emsp;&emsp;(B) a transfer of all or a portion of the accrued benefit of a participant or beneficiary, whether or not vested, from an annuity contract described in section 403(b) to a church plan that is a plan described in section 401(a), if such plan and annuity contract are both maintained by the same church or convention or association of churches, or
+
+&emsp;&emsp;(C) a merger of a church plan that is a plan described in section 401(a), or an annuity contract described in section 403(b), with an annuity contract described in section 403(b), if such plan and annuity contract are both maintained by the same church or convention or association of churches.
+
+#### (2) Limitation
+
+&emsp;Paragraph (1) shall not apply to a transfer or merger unless the participant's or beneficiary's total accrued benefit immediately after the transfer or merger is equal to or greater than the participant's or beneficiary's total accrued benefit immediately before the transfer or merger, and such total accrued benefit is nonforfeitable after the transfer or merger.
+
+#### (3) Qualification
+
+&emsp;A plan or annuity contract shall not fail to be considered to be described in section 401(a) or 403(b) merely because such plan or annuity contract engages in a transfer or merger described in this subsection.
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Church or convention or association of churches
+
+&emsp;&emsp;The term "church or convention or association of churches" includes an organization described in subparagraph (A) or (B)(ii) of subsection (e)(3).
+
+#### (B) Annuity contract
+
+&emsp;&emsp;The term "annuity contract" includes a custodial account described in section 403(b)(7) and a retirement income account described in section 403(b)(9).
+
+#### (C) Accrued benefit
+
+&emsp;&emsp;The term "accrued benefit" means—
+
+&emsp;&emsp;&emsp;(i) in the case of a defined benefit plan, the employee's accrued benefit determined under the plan, and
+
+&emsp;&emsp;&emsp;(ii) in the case of a plan other than a defined benefit plan, the balance of the employee's account under the plan.
+
+(Added Pub. L. 93–406, title II, §1015, Sept. 2, 1974, 88 Stat. 925; amended Pub. L. 94–455, title XIX, §§1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 95–600, title I, §152(d), Nov. 6, 1978, 92 Stat. 2799; Pub. L. 96–364, title II, §§207, 208(a), title IV, §407(b), Sept. 26, 1980, 94 Stat. 1288, 1289, 1305; Pub. L. 96–605, title II, §201(a), Dec. 28, 1980, 94 Stat. 3526; Pub. L. 96–613, §5(a), Dec. 28, 1980, 94 Stat. 3580; Pub. L. 97–248, title II, §§240(c), 246(a), 248(a), Sept. 3, 1982, 96 Stat. 520, 525, 526; Pub. L. 98–369, div. A, title IV, §491(d)(26), (27), title V, §526(a)(1), (b)(1), (d)(1), (2), title VII, §713(i), July 18, 1984, 98 Stat. 850, 874, 875, 960; Pub. L. 98–397, title II, §204(b), Aug. 23, 1984, 98 Stat. 1445; Pub. L. 99–514, title XI, §§1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, §1301(j)(4), title XVIII, §§1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, 100 Stat. 2448, 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; Pub. L. 100–203, title IX, §9305(c), Dec. 22, 1987, 101 Stat. 1330–352; Pub. L. 100–647, title I, §§1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II,§2005(c)(1), (2), title III, §§3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, §6067(a), Nov. 10, 1988, 102 Stat. 3460, 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; Pub. L. 101–140, title II, §§203(a)(6), 204(b)(2), Nov. 8, 1989, 103 Stat. 831, 833; Pub. L. 101–239, title VII, §§7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, 103 Stat. 2412, 2413, 2427; Pub. L. 101–508, title XI, §11703(b)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 102–318, title V, §521(b)(20)–(22), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, 110 Stat. 1798, 1802, 1803, 1807, 1817, 1822, 1824, 1883; Pub. L. 105–34, title XV, §1522(a), title XVI, §1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, 111 Stat. 1070, 1089, 1090, 1092; Pub. L. 105–206, title VI, §6018(c), July 22, 1998, 112 Stat. 822; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-643; Pub. L. 107–16, title VI, §§631(a), 635(a)–(c), June 7, 2001, 115 Stat. 111, 117; Pub. L. 107–147, title IV, §411(o)(3)–(8), Mar. 9, 2002, 116 Stat. 48, 49; Pub. L. 108–311, title IV, §408(a)(15), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 109–280, title I, §114(c), title IX, §§902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, §1106(b), Aug. 17, 2006, 120 Stat. 853, 1036, 1040, 1051, 1052, 1062; Pub. L. 110–28, title VI, §6611(a)(2), (b)(2), May 25, 2007, 121 Stat. 180, 181; Pub. L. 110–245, title I, §§104(b), 105(b)(1), June 17, 2008, 122 Stat. 1626, 1628; Pub. L. 110–289, div. A, title VI, §1604(b)(4), July 30, 2008, 122 Stat. 2829; Pub. L. 110–458, title I, §§101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, 122 Stat. 5099, 5111; Pub. L. 113–97, title II, §§201, 203(a), Apr. 7, 2014, 128 Stat. 1121, 1138; Pub. L. 113–235, div. P, §3(b), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(i), (ii), (55), Dec. 19, 2014, 128 Stat. 4039, 4045; Pub. L. 114–113, div. Q, title III, §336(a)(1), (d)(1), Dec. 18, 2015, 129 Stat. 3109, 3112.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1328,6 +1392,10 @@ The Pension Protection Act of 2006, referred to in subsecs. (f)(6)(A) and (y)(1)
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of Title 29, Labor, and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–113, §336(a)(1), designated existing provisions as par. (1), inserted heading, substituted "Except as provided in paragraph (2), for purposes" for "For purposes", and added par. (2).
+
+Subsec. (z). Pub. L. 114–113, §336(d)(1), added subsec. (z).
 
 <b>2014</b>—Subsec. (n)(3)(C). Pub. L. 113–295, §221(a)(19)(B)(i), struck out "120," after "117(d),".
 
@@ -1571,7 +1639,7 @@ Subsec. (p)(9). Pub. L. 100–647, §1018(t)(8)(G), inserted at end "For purpose
 
 Subsec. (p)(10). Pub. L. 100–647, §1018(t)(8)(F), inserted ", 403(b)," after "section 401".
 
-Subsec. (q)(1). Pub. L. 100–647, §1011(i)(1), inserted at end "The Secretary shall adjust the $75,000 and $50,000 amounts under this paragraph at the same time and in the same manner as under section 415(d)."
+Subsec. (q)(1). Pub. L. 100–647, §1011(i)(1), inserted at end "The Secretary shall adjust the $75,000 and $50,000amounts under this paragraph at the same time and in the same manner as under section 415(d)."
 
 Subsec. (q)(1)(D). Pub. L. 100–647, §1011(d)(8), substituted "50" for "150" and "415(b)(1)(A)" for "415(c)(1)(A)".
 
@@ -1593,7 +1661,7 @@ Subsec. (r)(3). Pub. L. 100–647, §3021(b)(2)(A), amended par. (3) generally. 
 
 &emsp;"(B) not more than twice,
 
-> the percentage which highly compensated employees are of all employees of the employer. An employer shallbe treated as meeting the requirements of subparagraph (A) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business."
+> the percentage which highly compensated employees are of all employees of the employer. An employer shall be treated as meeting the requirements of subparagraph (A) if at least 10 percent of all highly compensated employees of the employer perform services solely for such line of business."
 
 Subsec. (s). Pub. L. 100–647, §1011(j)(1), substituted "any applicable provision" for "this part" in introductory provisions.
 
@@ -1716,6 +1784,12 @@ Subsec. (f). Pub. L. 94–455, §1901(a)(64)(A), substituted "Plan" for "plan" i
 Subsec. (g)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (l). Pub. L. 94–455, §1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §336(a)(3), Dec. 18, 2015, 129 Stat. 3110, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\]."
+
+Pub. L. 114–113, div. Q, title III, §336(d)(2), Dec. 18, 2015, 129 Stat. 3113, provided that: "The amendment made by this subsection \[amending this section\] shall apply to transfers or mergers occurring after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2014 Amendment
 
@@ -1849,7 +1923,7 @@ Conforming amendments to employee benefit provisions.—The amendments made by p
 
 "(3)
 
-Conforming amendments to pension provisions.—The amendments made by paragraphs (7), (8), (9), (10), (11), (12), and (15) of subsection (b) \[amendingthis section and sections 401, 404A, 406, 407, 411, 415, and 4975 of this title and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 1988."
+Conforming amendments to pension provisions.—The amendments made by paragraphs (7), (8), (9), (10), (11), (12), and (15) of subsection (b) \[amending this section and sections 401, 404A, 406, 407, 411, 415, and 4975 of this title and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 1988."
 
 \[Pub. L. 107–16, title VI, §663(b), June 7, 2001, 115 Stat. 143, provided that: "The repeal made by subsection (a) \[repealing par. (4) of section 1114(c) of Pub. L. 99–514, set out above\] shall apply to plan years beginning after December 31, 2001."\]
 
@@ -1973,6 +2047,76 @@ Conditions.—This subsection shall not apply to any plan or annuity contract am
 
 &emsp;&emsp;"(ii) such plan or contract amendment applies retroactively for such period."
 
+#### Clarification Relating to Application of Anti-Abuse Rule
+
+Pub. L. 114–113, div. Q, title III, §336(a)(2), Dec. 18, 2015, 129 Stat. 3110, provided that: "The rule of 26 CFR 1.414(c)–5(f) shall continue to apply to each paragraph of section 414(c) of the Internal Revenue Code of 1986, as amended by paragraph (1)."
+
+#### Automatic Enrollment by Church Plans
+
+Pub. L. 114–113, div. Q, title III, §336(c), Dec. 18, 2015, 129 Stat. 3110, provided that:
+
+"(1)
+
+In general.—This subsection shall supersede any law of a State that relates to wage, salary, or payroll payment, collection, deduction, garnishment, assignment, or withholding which would directly or indirectly prohibit or restrict the inclusion in any church plan (as defined in section 414(e) of the Internal Revenue Code of 1986) of an automatic contribution arrangement.
+
+"(2)
+
+Definition of automatic contribution arrangement.—For purposes of this subsection, the term 'automatic contribution arrangement' means an arrangement—
+
+&emsp;"(A) under which a participant may elect to have the plan sponsor or the employer make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
+
+&emsp;"(B) under which a participant is treated as having elected to have the plan sponsor or the employer make such contributions in an amount equal to a uniform percentage of compensation provided under the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
+
+&emsp;"(C) under which the notice and election requirements of paragraph (3), and the investment requirements of paragraph (4), are satisfied.
+
+"(3)
+
+Notice requirements.—
+
+&emsp;"(A)
+
+In general.—The plan sponsor of, or plan administrator or employer maintaining, an automatic contribution arrangement shall, within a reasonable period before the first day of each plan year, provide to each participant to whom the arrangement applies for such plan year notice of the participant's rights and obligations under the arrangement which—
+
+&emsp;&emsp;"(i) is sufficiently accurate and comprehensive to apprise the participant of such rights and obligations, and
+
+&emsp;&emsp;"(ii) is written in a manner calculated to be understood by the average participant to whom the arrangement applies.
+
+&emsp;"(B)
+
+Election requirements.—A notice shall not be treated as meeting the requirements of subparagraph (A) with respect to a participant unless—
+
+&emsp;&emsp;"(i) the notice includes an explanation of the participant's right under the arrangement not to have elective contributions made on the participant's behalf (or to elect to have such contributions made at a different percentage),
+
+&emsp;&emsp;"(ii) the participant has a reasonable period of time, after receipt of the explanation described in clause (i) and before the first elective contribution is made, to make such election, and
+
+&emsp;&emsp;"(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
+
+"(4)
+
+Default investment.—If no affirmative investment election has been made with respect to any automatic contribution arrangement, contributions to sucharrangement shall be invested in a default investment selected with the care, skill, prudence, and diligence that a prudent person selecting an investment option would use.
+
+"(5)
+
+Effective date.—This subsection shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\]."
+
+#### Investments by Church Plans in Collective Trusts
+
+Pub. L. 114–113, div. Q, title III, §336(e), Dec. 18, 2015, 129 Stat. 3113, provided that:
+
+"(1)
+
+In general.—In the case of—
+
+&emsp;"(A) a church plan (as defined in section 414(e) of the Internal Revenue Code of 1986), including a plan described in section 401(a) of such Code and a retirement income account described in section 403(b)(9) of such Code, and
+
+&emsp;"(B) an organization described in section 414(e)(3)(A) of such Code the principal purpose or function of which is the administration of such a plan or account,
+
+> the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and 2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
+
+"(2)
+
+Effective date.—This subsection shall apply to investments made after the date of the enactment of this Act \[Dec. 18, 2015\]."
+
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
 For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
@@ -2033,7 +2177,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 

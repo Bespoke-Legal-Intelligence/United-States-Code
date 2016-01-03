@@ -42,17 +42,27 @@ In general.—The Secretary and the State, after providing public notice and opp
 
 &emsp;(2)
 
+Assistance to states.—On request of a Governor of a State, the Secretary shall provide to the State technical assistance, training, or other support relating to—
+
+&emsp;&emsp;(A) assuming responsibility under subsection (a);
+
+&emsp;&emsp;(B) developing a memorandum of understanding under this subsection; or
+
+&emsp;&emsp;(C) addressing a responsibility in need of corrective action under subsection (d)(1)(B).
+
+&emsp;(3)
+
 Term.—A memorandum of understanding—
 
 &emsp;&emsp;(A) shall have a term of not more than 3 years; and
 
 &emsp;&emsp;(B) shall be renewable.
 
-&emsp;(3)
+&emsp;(4)
 
 Acceptance of jurisdiction.—In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
-&emsp;(4)
+&emsp;(5)
 
 Monitoring.—The Secretary shall—
 
@@ -66,7 +76,19 @@ Termination.—
 
 &emsp;(1)
 
-Termination by the secretary.—The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+Termination by secretary.—The Secretary may terminate the participation of any State in the program if—
+
+&emsp;&emsp;(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+&emsp;&emsp;(B) the Secretary provides to the State—
+
+&emsp;&emsp;&emsp;(i) a notification of the determination of noncompliance;
+
+&emsp;&emsp;&emsp;(ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+&emsp;&emsp;&emsp;(iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
+
+&emsp;&emsp;(C) the State, after the notification and period described in clauses (i) and (ii) of subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
 &emsp;(2)
 
@@ -80,7 +102,7 @@ State Agency Deemed to Be Federal Agency.—A State agency that is assigned a re
 
 Legal Fees.—A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney's fees directly attributable to eligible activities associated with the project.
 
-(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545.)
+(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, §1307, Dec. 4, 2015, 129 Stat. 1390.)
 
 #### References in Text
 
@@ -92,11 +114,19 @@ A prior section 326, added Pub. L. 102–240, title VI, §6004(a), Dec. 18, 1991
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(2) to (5). Pub. L. 114–94, §1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (d)(1). Pub. L. 114–94, §1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State."
+
 <b>2012</b>—Subsec. (a)(4). Pub. L. 112–141, §1312(1), added par. (4).
 
 Subsec. (d). Pub. L. 112–141, §1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State."
 
 Subsec. (f). Pub. L. 112–141, §1312(3), added subsec. (f).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

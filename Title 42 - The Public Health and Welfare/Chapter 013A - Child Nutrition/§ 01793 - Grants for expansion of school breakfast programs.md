@@ -12,7 +12,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (1) Application
 
-&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at suchtime, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Administration
 

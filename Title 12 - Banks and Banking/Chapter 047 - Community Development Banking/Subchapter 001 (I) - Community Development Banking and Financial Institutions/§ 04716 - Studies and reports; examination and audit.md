@@ -2,11 +2,11 @@
 
 #### (a) Annual report by Fund
 
-The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f) of this section.
+The Fund shall conduct an annual evaluation of the activities carried out by the Fund and the community development financial institutions and other organizations assisted pursuant to this subchapter, and shall submit a report of its findings to the President and the Congress not later than 120 days after the end of each fiscal year of the Fund. The report shall include financial statements audited in accordance with subsection (f).
 
 #### (b) Optional studies
 
-The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a) of this section.
+The Fund may conduct such studies as the Fund determines necessary to further the purpose of this subchapter and to facilitate investment in distressed communities. The findings of any studies conducted pursuant to this subsection shall be included in the report required by subsection (a).
 
 #### (c) Native American lending study
 
@@ -20,7 +20,7 @@ The Fund may conduct such studies as the Fund determines necessary to further th
 
 #### (2) Report
 
-&emsp;Not later than 12 months after the date on which the Administrator is appointed, the Fund shall submit a report to the President and the Congress that—
+&emsp;Not later than 12 months after the date on which the Administrator is appointed, theFund shall submit a report to the President and the Congress that—
 
 &emsp;&emsp;(A) contains the findings of the study conducted under paragraph (1);
 

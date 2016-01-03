@@ -50,7 +50,7 @@ Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the
 
 (2) Not later than December 31, 2005, the Secretary shall submit to the committees referred to in paragraph (1) an interim report on outreach activities carried out by the Secretary with respect to homeless veterans. The report shall include the following:
 
-&emsp;(A) The Secretary's outreach plan under subsection (a), including goals and time lines for implementation of the plan for particular facilities and service networks.
+&emsp;(A) The Secretary's outreach plan under subsection (a), including goals and time lines forimplementation of the plan for particular facilities and service networks.
 
 &emsp;(B) A description of the implementation and operation of the outreach program under subsection (e).
 

@@ -6,7 +6,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 #### (b) Determination of amount
 
-Non-Federal contributions required in subsection (a) of this section may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, shall not be included in determining the amount of such non-Federal contributions.
+Non-Federal contributions required in subsection (a) of this section may be in cash or inkind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, shall not be included in determining the amount of such non-Federal contributions.
 
 #### (c) Limitation regarding grants by States
 

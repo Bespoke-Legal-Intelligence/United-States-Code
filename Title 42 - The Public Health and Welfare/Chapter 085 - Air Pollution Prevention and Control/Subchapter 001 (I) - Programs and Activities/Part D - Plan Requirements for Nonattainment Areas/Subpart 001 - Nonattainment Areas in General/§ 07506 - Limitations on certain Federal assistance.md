@@ -24,7 +24,7 @@
 
 &emsp;(B) no metropolitan planning organization or other recipient of funds under title 23 or chapter 53 of title 49 shall adopt or approve a transportation improvement program of projects until it determines that such program provides for timely implementation of transportation control measures consistent with schedules included in the applicable implementation plan;
 
-&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designated under title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
+&emsp;(C) a transportation project may be adopted or approved by a metropolitan planning organization or any recipient of funds designatedunder title 23 or chapter 53 of title 49, or found in conformity by a metropolitan planning organization or approved, accepted, or funded by the Department of Transportation only if it meets either the requirements of subparagraph (D) or the following requirements—
 
 &emsp;&emsp;(i) such a project comes from a conforming plan and program;
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) promulgates an implementation plan that establishes or revises a motor vehicle emissions budget.
 
-(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) <sup>1</sup> isapproved, conformity of such plans, programs, and projects will be demonstrated if—
+(3) Until such time as the implementation plan revision referred to in paragraph (4)(C) <sup>1</sup> is approved, conformity of such plans, programs, and projects will be demonstrated if—
 
 &emsp;(A) the transportation plans and programs—
 
@@ -150,7 +150,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;&emsp;(II) if the implementation plan date for implementation of the control measure to be replaced has passed, as soon as practicable after the implementation plan date but not later than the date on which emission reductions are necessary to achieve the purpose of the implementation plan;
 
-&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding and authority under State or local law to implement, monitor, and enforce the control measures;
+&emsp;&emsp;(iii) if the substitute and additional control measures are accompanied with evidence of adequate personnel and funding andauthority under State or local law to implement, monitor, and enforce the control measures;
 
 &emsp;&emsp;(iv) if the substitute and additional control measures were developed through a collaborative process that included—
 
@@ -172,7 +172,7 @@ Adoption.—(i) Concurrence by the metropolitan planning organization, State air
 
 &emsp;(C)
 
-No requirement for express permission.—The substitution or addition of a transportation control measure in accordance with this paragraph and the funding or approval of such a control measure shall not be contingenton the existence of any provision in the applicable implementation plan that expressly permits such a substitution or addition.
+No requirement for express permission.—The substitution or addition of a transportation control measure in accordance with this paragraph and the funding or approval of such a control measure shall not be contingent on the existence of any provision in the applicable implementation plan that expressly permits such a substitution or addition.
 
 &emsp;(D)
 
@@ -214,7 +214,7 @@ The Housing and Urban Development Act, referred to in subsec. (d), may be the na
 
 #### Codification
 
-In subsecs. (c)(2) and (d), "chapter 53 of title 49" substituted for "the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]" and in subsec. (c)(4)(F) substituted for "Federal Transit Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+In subsecs. (c)(2) and (d), "chapter 53 of title 49" substituted for "the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]" and in subsec. (c)(4)(F) substituted for "Federal Transit Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X ofTitle 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
 #### Amendments
 
@@ -236,7 +236,7 @@ Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (1
 
 <b>1990</b>—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
-Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted"conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
+Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted "conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
 <b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted "national" before "primary".
 

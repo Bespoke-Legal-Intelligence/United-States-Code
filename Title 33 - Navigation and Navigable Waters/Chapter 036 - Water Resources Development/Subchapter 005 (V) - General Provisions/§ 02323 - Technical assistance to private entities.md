@@ -2,7 +2,7 @@
 
 #### (a) Use of Corps research and development labs
 
-The Secretary is authorized to use Corps of Engineers research and development laboratories to provide research and development assistance to corporations, partnerships, limited partnerships, consortia, public and private foundations, universities, and nonprofit organizations operating within the United States, territories or possessions of the United States, and the Commonwealths of Puerto Rico and the Northern Mariana Islands—
+The Secretary is authorized to use Corps of Engineers research and development laboratories to provide research and development assistance to corporations, partnerships, limitedpartnerships, consortia, public and private foundations, universities, and nonprofit organizations operating within the United States, territories or possessions of the United States, and the Commonwealths of Puerto Rico and the Northern Mariana Islands—
 
 &emsp;(1) if the entity furnishes in advance of fiscal obligation by the United States such funds as are necessary to cover any and all costs of such research and development assistance;
 

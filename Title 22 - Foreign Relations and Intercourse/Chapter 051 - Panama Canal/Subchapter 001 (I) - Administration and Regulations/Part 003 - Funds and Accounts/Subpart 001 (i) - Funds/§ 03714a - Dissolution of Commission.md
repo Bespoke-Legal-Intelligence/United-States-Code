@@ -28,7 +28,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 (3) The Fund shall consist of—
 
-&emsp;(A) such amounts as may be deposited into the Fund by the Commission, from amountscollected as toll receipts, to pay the costs described in paragraph (2); and
+&emsp;(A) such amounts as may be deposited into the Fund by the Commission, from amounts collected as toll receipts, to pay the costs described in paragraph (2); and
 
 &emsp;(B) amounts credited to the Fund under paragraph (4).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall annually conduct policy research, analysis, and data collection to extend and improve the Nation's museum, library, and information services.
+The Director shall annually conduct policy research, analysis, and data collection to extendand improve the Nation's museum, library, and information services.
 
 #### (b) Requirements
 

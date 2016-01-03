@@ -18,7 +18,7 @@ The Secretary of Health and Human Services may make grants to public and nonprof
 
 &emsp;(7) to recruit and train health and social services personnel to work with families, foster care families, and residential care programs for abandoned infants and young children; and
 
-&emsp;(8) to prevent the abandonment of infants and young children, and to care for the infants and young children who have been abandoned, through model programs providing health, educational, and social services at a single site in a geographic area in which a significant number of infants and young children described in subsection (b) reside (with special consideration given to applications from entities that will provide the services of the project through community-based organizations).
+&emsp;(8) to prevent the abandonment of infants and young children, and to care for the infants and young children who have been abandoned,through model programs providing health, educational, and social services at a single site in a geographic area in which a significant number of infants and young children described in subsection (b) reside (with special consideration given to applications from entities that will provide the services of the project through community-based organizations).
 
 #### (b) Priority in provision of services
 

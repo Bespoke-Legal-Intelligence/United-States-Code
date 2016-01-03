@@ -18,7 +18,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (B) Exception for certain proceedings
 
-&emsp;&emsp;The notice required under paragraph (1) shall be made to the borrower not more than30 days after the effective date of assignment, sale, or transfer of the servicing of the mortgage loan (with respect to which such notice is made) in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
+&emsp;&emsp;The notice required under paragraph (1) shall be made to the borrower not more than 30 days after the effective date of assignment, sale, or transfer of the servicing of the mortgage loan (with respect to which such notice is made) in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
 
 &emsp;&emsp;&emsp;(i) termination of the contract for servicing the loan for cause;
 
@@ -76,7 +76,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (3) Contents of notice
 
-&emsp;Any notice required under paragraph (1) shall include the information described in subsection (b)(3) of this section.
+&emsp;Any notice required under paragraph (1) shall include the information described in subsection (b)(3).
 
 #### (d) Treatment of loan payments during transfer period
 
@@ -88,7 +88,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (A) In general
 
-&emsp;&emsp;If any servicer of a federally related mortgage loan receives a qualified written request from the borrower (or an agent of the borrower) for information relating to the servicing of such loan, the servicer shall provide a written response acknowledging receipt of the correspondence within 5 days\(excluding legal public holidays, Saturdays, and Sundays) unless the action requested is taken within such period.
+&emsp;&emsp;If any servicer of a federally related mortgage loan receives a qualified written request from the borrower (or an agent of the borrower) for information relating to the servicing of such loan, the servicer shall provide a written response acknowledging receipt of the correspondence within 5 days (excluding legal public holidays, Saturdays, and Sundays) unless the action requested is taken within such period.
 
 #### (B) Qualified written request
 
@@ -100,7 +100,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (2) Action with respect to inquiry
 
-&emsp;Not later than 30 days (excluding legal public holidays, Saturdays, and Sundays) after the receipt from any borrower of any qualified written request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
+&emsp;Not later than 30 days (excluding legal public holidays, Saturdays, and Sundays) after the receipt from any borrower of any qualifiedwritten request under paragraph (1) and, if applicable, before taking any action with respect to the inquiry of the borrower, the servicer shall—
 
 &emsp;&emsp;(A) make appropriate corrections in the account of the borrower, including the crediting of any late charges or penalties, and transmit to the borrower a written notification of such correction (which shall include the name and telephone number of a representative of the servicer who can provide assistance to the borrower);
 
@@ -158,7 +158,7 @@ Whoever fails to comply with any provision of this section shall be liable to th
 
 #### (g) Administration of escrow accounts
 
-If the terms of any federally related mortgage loan require the borrower to make payments to the servicer of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall make payments from the escrow account for such taxes, insurance premiums, andother charges in a timely manner as such payments become due. Any balance in any such account that is within the servicer's control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.
+If the terms of any federally related mortgage loan require the borrower to make payments to the servicer of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall make payments from the escrow account for such taxes, insurance premiums, and other charges in a timely manner as such payments become due. Any balance in any such account that is within the servicer's control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.
 
 #### (h) Preemption of conflicting State laws
 
@@ -194,15 +194,15 @@ For purposes of this section:
 
 #### (1) Originator liability
 
-&emsp;A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) of this section with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
+&emsp;A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
 
 #### (2) Servicer liability
 
-&emsp;A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) of this section that arises before the regulations referred to in paragraph (3) take effect.
+&emsp;A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) that arises before the regulations referred to in paragraph (3) take effect.
 
 #### (3) Regulations and effective date
 
-&emsp;The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
+&emsp;The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2).
 
 #### (k) Servicer prohibitions
 

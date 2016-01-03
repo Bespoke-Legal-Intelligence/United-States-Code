@@ -40,7 +40,7 @@ Exception for State Adjutants General and Assistant Adjutants General.—This se
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852 of this title, prior to repeal by Pub. L. 103–337, §§1628(4), 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3851, 3852, 6389(f)(1), (2), 8851, and 8852of this title, prior to repeal by Pub. L. 103–337, §§1628(4), 1629(a)(3), (c)(3).
 
 #### Amendments
 

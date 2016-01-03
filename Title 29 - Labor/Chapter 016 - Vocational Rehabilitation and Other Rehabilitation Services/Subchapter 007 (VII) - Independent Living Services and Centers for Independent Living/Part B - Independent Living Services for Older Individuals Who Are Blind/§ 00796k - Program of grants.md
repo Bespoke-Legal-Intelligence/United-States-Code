@@ -74,7 +74,7 @@ Independent living services for purposes of subsection (d)(1) of this section in
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) of this section unless theState involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
+&emsp;The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
 
 #### (2) Determination of amount contributed
 
@@ -160,7 +160,7 @@ A State may expend a grant under subsection (a) of this section to carry out the
 
 #### (A) Grants
 
-&emsp;&emsp;From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) of this section relative to the populationsin other States of older individuals who are blind.
+&emsp;&emsp;From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) of this section relative to the populations in other States of older individuals who are blind.
 
 #### (B) Amounts
 

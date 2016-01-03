@@ -56,7 +56,7 @@ For purposes of this part (other than section 816), amounts in the nature of int
 
 &emsp;(2) is guaranteed beyond the end of the taxable year on which the reserves are being computed,
 
-> shall be taken into account in computing the reserves with respect to such contract as if such interest were guaranteed only up to the end of the taxable year.
+> shall be taken into account in computing the reserves with respect to such contract as if suchinterest were guaranteed only up to the end of the taxable year.
 
 #### (e) Short taxable years
 

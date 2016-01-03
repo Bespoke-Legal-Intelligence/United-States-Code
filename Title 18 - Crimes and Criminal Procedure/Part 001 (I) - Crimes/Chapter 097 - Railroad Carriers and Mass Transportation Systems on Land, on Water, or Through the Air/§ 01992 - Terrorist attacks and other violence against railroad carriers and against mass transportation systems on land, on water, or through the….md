@@ -50,7 +50,7 @@ Aggravated Offense.—Whoever commits an offense under subsection (a) of this se
 
 Circumstances Required for Offense.—A circumstance referred to in subsection (a) is any of the following:
 
-&emsp;(1) Any of the conduct required for the offense is, or, in the case of an attempt, threat, or conspiracy to engage in conduct, the conduct required for the completed offense would be, engaged in, on, against, or affecting a mass transportation provider, or a railroad carrier engaged in interstate or foreign commerce.
+&emsp;(1) Any of the conduct required for the offense is, or, in the case of an attempt, threat,or conspiracy to engage in conduct, the conduct required for the completed offense would be, engaged in, on, against, or affecting a mass transportation provider, or a railroad carrier engaged in interstate or foreign commerce.
 
 &emsp;(2) Any person travels or communicates across a State line in order to commit the offense, or transports materials across a State line in aid of the commission of the offense.
 

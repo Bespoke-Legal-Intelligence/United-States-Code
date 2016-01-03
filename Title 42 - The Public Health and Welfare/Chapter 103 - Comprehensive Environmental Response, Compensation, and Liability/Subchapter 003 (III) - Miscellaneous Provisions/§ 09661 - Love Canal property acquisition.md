@@ -10,7 +10,7 @@ No property shall be acquired pursuant to this section unless the property owner
 
 #### (c) State ownership
 
-The Administrator shall not provide any funds under this section for the acquisition of any properties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement withthe Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
+The Administrator shall not provide any funds under this section for the acquisition of any properties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement with the Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
 
 #### (d) Maintenance of property
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (1) Emergency Declaration Area
 
-&emsp;The terms "Emergency Declaration Area" and "Love Canal Emergency Declaration Area" mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of New York, Chapter 259, Laws of 1980, as in effect on October 17, 1986.
+&emsp;The terms "Emergency Declaration Area" and "Love Canal Emergency Declaration Area" mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of NewYork, Chapter 259, Laws of 1980, as in effect on October 17, 1986.
 
 #### (2) Private property
 

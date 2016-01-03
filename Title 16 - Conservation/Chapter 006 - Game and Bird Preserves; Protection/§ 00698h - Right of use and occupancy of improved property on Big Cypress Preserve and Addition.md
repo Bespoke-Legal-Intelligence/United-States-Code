@@ -14,7 +14,7 @@ As used in sections 698f to 698m–4 of this title, the term "improved property"
 
 #### (c) Waiver of right to relocation assistance by election of right of use and occupancy
 
-Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
+Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to havewaived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
 (Pub. L. 93–440, §3, Oct. 11, 1974, 88 Stat. 1259; Pub. L. 100–301, §4(f), Apr. 29, 1988, 102 Stat. 445.)
 

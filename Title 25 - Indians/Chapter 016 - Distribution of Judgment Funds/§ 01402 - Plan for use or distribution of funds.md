@@ -14,11 +14,11 @@ In any case where the Secretary determines that the circumstances do not permit 
 
 #### (d) Submission of proposed legislation and report to Congress in absence of consent of tribal governments to division of judgment funds between two or more beneficiary entities
 
-In cases where the Secretary has to submit a plan dividing judgment funds between two or more beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eighty days of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c) of this section.
+In cases where the Secretary has to submit a plan dividing judgment funds between two or more beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eighty days of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c).
 
 #### (e) Extension of time for preparation and submission of plan
 
-An extension of the one-year period, not to exceed one hundred and eighty days, may be requested by the Secretary or by the affected Indian tribe, submitting such request to the committees through the Secretary, and any such request will be subject to the approval of both the Senate Committee on Indian Affairs and the United States House of Representatives Committee on Natural Resources.
+An extension of the one-year period, not to exceed one hundred and eighty days, may be requested by the Secretary or by the affected Indian tribe, submitting such request to the committees through the Secretary, and any such request will be subject to the approval of both the Senate Committee on Indian Affairs and theUnited States House of Representatives Committee on Natural Resources.
 
 (Pub. L. 93–134, §2, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, §160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 97–458, §1, Jan. 12, 1983, 96 Stat. 2512; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–437, §10(e)(1), (2)(A), Nov. 2, 1994, 108 Stat. 4589.)
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as sub
 
 Subsec. (d). Pub. L. 97–458 added subsec. (d).
 
-Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans toone year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
+Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans to one year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims". See Codification note above.
 

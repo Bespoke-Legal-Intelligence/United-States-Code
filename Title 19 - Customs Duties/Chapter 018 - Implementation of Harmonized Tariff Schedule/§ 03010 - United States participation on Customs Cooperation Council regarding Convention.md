@@ -18,7 +18,7 @@
 
 &emsp;(A) solicit and consider the views of interested parties in the private sector (including a functional advisory committee) and of interested Federal agencies;
 
-&emsp;(B) establish procedures for reviewing, and developing appropriate responses to, inquiries and complaints from interested parties concerning articles produced in and exported from the United States; and
+&emsp;(B) establish procedures for reviewing, and developing appropriate responses to, inquiriesand complaints from interested parties concerning articles produced in and exported from the United States; and
 
 &emsp;(C) where appropriate, establish procedures for—
 

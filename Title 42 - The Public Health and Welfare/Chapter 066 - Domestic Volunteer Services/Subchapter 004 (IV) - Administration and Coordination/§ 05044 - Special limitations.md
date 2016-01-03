@@ -18,7 +18,7 @@ No funds authorized to be appropriated herein shall be directly or indirectly ut
 
 #### (e) Selection procedure
 
-Persons serving as volunteers under this chapter shall provide such information concerning their qualifications, including their ability to perform their assigned tasks, and their integrity, as the Director shall prescribe and shall be subject to such procedures for selection and approval as the Director determines are necessary to carry out the purposes of this chapter. The Director may establish such special procedures for the recruitment, selection, training, and assignment of low-income residents of the area to be served by a program under this chapter who wish to become volunteers as the Director determines will further the purposes of this chapter.
+Persons serving as volunteers under this chapter shall provide such information concerning their qualifications, including their ability to perform their assigned tasks, and their integrity, as the Director shall prescribe and shall be subject to such procedures for selection and approval as the Director determines are necessary to carry out the purposes of this chapter. The Director may establish such special procedures for the recruitment, selection, training, and assignment of low-income residents of the area to be served by a program under this chapter whowish to become volunteers as the Director determines will further the purposes of this chapter.
 
 #### (f) Government assistance; eligibility; special limitations
 
@@ -42,7 +42,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (f)(1), is act June
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–82, §364(1), inserted "from such volunteers or from beneficiaries" after "compensation".
 
-Subsecs. (f), (g). Pub. L. 103–82, §364(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Notwithstanding any other provision of law, the Director shall assign or delegate any substantial responsibility for carrying out programsunder this chapter only to persons appointed or employed pursuant to clauses (1) and (2) of section 5042 of this title, and persons assigned or delegated such substantial responsibilities on October 1, 1973, and who are receiving compensation in accordance with provisions of law other than the applicable provisions of title 5 on such date shall, by operation of law on such date, be assigned a grade level pursuant to such latter provisions so as to fix the compensation of such persons under such authority at no less than their compensation rate on the day preceding such date."
+Subsecs. (f), (g). Pub. L. 103–82, §364(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Notwithstanding any other provision of law, the Director shall assign or delegate any substantial responsibility for carrying out programs under this chapter only to persons appointed or employed pursuant to clauses (1) and (2) of section 5042 of this title, and persons assigned or delegated such substantial responsibilities on October 1, 1973, and who are receiving compensation in accordance with provisions of law other than the applicable provisions of title 5 on such date shall, by operation of law on such date, be assigned a grade level pursuant to such latter provisions so as to fix the compensation of such persons under such authority at no less than their compensation rate on the day preceding such date."
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–551 substituted "the Director" for "he" before "determines will".
 

@@ -24,7 +24,7 @@
 
 #### (2) Swap submissions
 
-&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in amanner to be determined by the Commission) of such submission.
+&emsp;(A) A clearing agency shall submit to the Commission each security-based swap, or any group, category, type, or class of security-based swaps that it plans to accept for clearing and provide notice to its members (in a manner to be determined by the Commission) of such submission.
 
 &emsp;(B) Any security-based swap or group, category, type, or class of security-based swaps listed for clearing by a clearing agency as of July 21, 2010, shall be considered submitted to the Commission.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) review each submission made under subparagraphs (A) and (B), and determine whether the security-based swap, or group, category, type, or class of security-based swaps, described in the submission is required to be cleared; and
 
-&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determination whether the clearing requirement under subsection (a)(1) shall apply to the submission.
+&emsp;&emsp;(iii) provide at least a 30-day public comment period regarding its determinationwhether the clearing requirement under subsection (a)(1) shall apply to the submission.
 
 #### (3) Deadline
 
@@ -92,7 +92,7 @@
 
 #### (2) Duty of Commission to investigate and take certain actions
 
-&emsp;To the extent the Commission finds that a particular security-based swap or any group,category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
+&emsp;To the extent the Commission finds that a particular security-based swap or any group, category, type, or class of security-based swaps that would otherwise be subject to mandatory clearing but no clearing agency has listed the security-based swap or the group, category, type, or class of security-based swaps for clearing, the Commission shall—
 
 &emsp;&emsp;(A) investigate the relevant facts and circumstances;
 
@@ -178,9 +178,19 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (A) In general
 
-&emsp;&emsp;An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+&emsp;&emsp;An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-#### (B) Prohibition relating to certain affiliates
+&emsp;&emsp;&emsp;(i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+&emsp;&emsp;&emsp;(ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+
+&emsp;&emsp;&emsp;(iii) is not indirectly majority-owned by a financial entity;
+
+&emsp;&emsp;&emsp;(iv) is not ultimately owned by a parent company that is a financial entity; and
+
+&emsp;&emsp;&emsp;(v) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
+
+#### (B) Limitation on qualifying affiliates
 
 &emsp;&emsp;The exception in subparagraph (A) shall not apply if the affiliate is—
 
@@ -192,15 +202,51 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 &emsp;&emsp;&emsp;(iv) a major security-based swap participant;
 
-&emsp;&emsp;&emsp;(v) an issuer that would be an investment company, as defined in section 80a–3 of this title, but for paragraph (1) or (7) of subsection (c) of that section;
+&emsp;&emsp;&emsp;(v) a commodity pool;
 
-&emsp;&emsp;&emsp;(vi) a commodity pool; or
+&emsp;&emsp;&emsp;(vi) a bank holding company;
 
-&emsp;&emsp;&emsp;(vii) a bank holding company with over $50,000,000,000 in consolidated assets.
+&emsp;&emsp;&emsp;(vii) a private fund, as defined in section 80b–2(a) of this title;
 
-#### (C) Transition rule for affiliates
+&emsp;&emsp;&emsp;(viii) an employee benefit plan or government <sup>1</sup> plan, as defined in paragraphs (3) and (32) of section 1002 of title 29;
+
+&emsp;&emsp;&emsp;(ix) an insured depository institution;
+
+&emsp;&emsp;&emsp;(x) a farm credit system institution;
+
+&emsp;&emsp;&emsp;(xi) a credit union;
+
+&emsp;&emsp;&emsp;(xii) a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12); or
+
+&emsp;&emsp;&emsp;(xiii) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+#### (C) Limitation on affiliates' affiliates
+
+&emsp;&emsp;Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in subparagraph (A) shall not apply with respect to an affiliate if such affiliate is itself affiliated with—
+
+&emsp;&emsp;&emsp;(i) a major security-based swap participant;
+
+&emsp;&emsp;&emsp;(ii) a security-based swap dealer;
+
+&emsp;&emsp;&emsp;(iii) a major swap participant; or
+
+&emsp;&emsp;&emsp;(iv) a swap dealer.
+
+#### (D) Conditions on transactions
+
+&emsp;&emsp;With respect to an affiliate that qualifies for the exception in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) such affiliate may not enter into any security-based swap other than for the purpose of hedging or mitigating commercial risk; and
+
+&emsp;&emsp;&emsp;(ii) neither such affiliate nor any person affiliated with such affiliate that is not a financial entity may enter into a security-based swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of security-based swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under subparagraph (A).
+
+#### (E) Transition rule for affiliates
 
 &emsp;&emsp;An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+#### (F) Risk management program
+
+&emsp;&emsp;Any security-based swap entered into by an affiliate that qualifies for the exception in subparagraph (A) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the security-based swap and to identify each of the affiliates on whose behalf a security-based swap was entered into.
 
 #### (5) Election of counterparty
 
@@ -236,7 +282,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 #### (i) Board approval
 
-Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
+Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap executionfacility shall be available to a counterparty that is an issuer of securities that are registered under section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title, only if an appropriate committee of the issuer's board or governing body has reviewed and approved the issuer's decision to enter into security-based swaps that are subject to such exemptions.
 
 #### (j) Designation of chief compliance officer
 
@@ -288,7 +334,7 @@ Exemptions from the requirements of this section to clear a security-based swap 
 
 &emsp;&emsp;&emsp;(ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-(June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762.)
+(June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762; amended Pub. L. 114–113, div. O, title VII, §705(b), Dec. 18, 2015, 129 Stat. 3027.)
 
 #### References in Text
 
@@ -298,7 +344,13 @@ For the effective date of this section, referred to in subsec. (e), see section 
 
 Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original "subsection (c) of that Act", and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
 #### Effective Date
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "governmental".</i>
 

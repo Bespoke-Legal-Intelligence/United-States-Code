@@ -13,3 +13,4 @@
 - [&sect; 06326 - Absence in connection with funerals of immediate relatives in the Armed Forces](%C2%A7%2006326%20-%20Absence%20in%20connection%20with%20funerals%20of%20immediate%20relatives%20in%20the%20Armed%20Forces.md)
 - [&sect; 06327 - Absence in connection with serving as a bone-marrow or organ donor](%C2%A7%2006327%20-%20Absence%20in%20connection%20with%20serving%20as%20a%20bone-marrow%20or%20organ%20donor.md)
 - [&sect; 06328 - Absence in connection with funerals of fellow Federal law enforcement officers](%C2%A7%2006328%20-%20Absence%20in%20connection%20with%20funerals%20of%20fellow%20Federal%20law%20enforcement%20officers.md)
+- [&sect; 06329 - Disabled veteran leave](%C2%A7%2006329%20-%20Disabled%20veteran%20leave.md)

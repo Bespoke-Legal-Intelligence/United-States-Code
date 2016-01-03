@@ -24,7 +24,7 @@ The Secretary, acting through the Director of the National Cancer Institute and 
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(July 1, 1944, ch. 373, title XXIII, §2311, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3066; amended Pub. L. 103–43, title XVIII, §1811(2), June 10, 1993,107 Stat. 199.)
+(July 1, 1944, ch. 373, title XXIII, §2311, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3066; amended Pub. L. 103–43, title XVIII, §1811(2), June 10, 1993,107 Stat. 199.)
 
 #### Prior Provisions
 

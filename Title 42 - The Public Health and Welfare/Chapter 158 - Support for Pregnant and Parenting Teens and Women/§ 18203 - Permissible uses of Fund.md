@@ -48,7 +48,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 &emsp;&emsp;&emsp;(vii) Post-partum counseling.
 
-&emsp;&emsp;(C) Identify public and private service providers, located on the campus of the eligible institution or within the local community, that are qualified to meet the needs described in subparagraph (B), and establishes <sup>1</sup> programs with qualified providers to meet such needs.
+&emsp;&emsp;(C) Identify public and private service providers, located on the campus of the eligibleinstitution or within the local community, that are qualified to meet the needs described in subparagraph (B), and establishes <sup>1</sup> programs with qualified providers to meet such needs.
 
 &emsp;&emsp;(D) Assist pregnant and parenting students, fathers or spouses in locating and obtaining services that meet the needs described in subparagraph (B).
 
@@ -74,7 +74,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 &emsp;&emsp;&emsp;&emsp;(II) contains a review and evaluation of the performance of the office in fulfilling the requirements of this section, using the specific performance criteria or standards established under subparagraph (B)(i); and
 
-&emsp;&emsp;&emsp;&emsp;(III) describes the achievement of the office in meeting the needs listed inparagraph (4)(B) of the students served by the eligible institution, and the frequency of use of the office by such students.
+&emsp;&emsp;&emsp;&emsp;(III) describes the achievement of the office in meeting the needs listed in paragraph (4)(B) of the students served by the eligible institution, and the frequency of use of the office by such students.
 
 #### (ii) Performance criteria
 

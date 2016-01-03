@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) "Alaska Railroad" means the agency of the United States Government that is operated by the Department of Transportation as a rail carrier in Alaska under authority of the Act of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the "Alaska Railroad Act") and section 6(i) <sup>1</sup> of the Department of Transportation Act, or, as the context requires, the railroad operated by that agency;
+&emsp;(1) "Alaska Railroad" means the agency of the United States Government that is operated by the Department of Transportation as a rail carrier in Alaska under authority of theAct of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the "Alaska Railroad Act") and section 6(i) <sup>1</sup> of the Department of Transportation Act, or, as the context requires, the railroad operated by that agency;
 
 &emsp;(2) "Alaska Railroad Revolving Fund" means the public enterprise fund maintained by the Department of the Treasury into which revenues of the Alaska Railroad and appropriations for the Alaska Railroad are deposited, and from which funds are expended for Alaska Railroad operation, maintenance and construction work authorized by law;
 
@@ -30,7 +30,7 @@ As used in this chapter, the term—
 
 &emsp;(10) "rail properties of the Alaska Railroad" means all right, title, and interest of the United States to lands, buildings, facilities, machinery, equipment, supplies, records, rolling stock, trade names, accounts receivable, goodwill, and other real and personal property, both tangible and intangible, in which there is an interest reserved, withdrawn, appropriated, owned, administered or otherwise held or validly claimed for the Alaska Railroad by the United States or any agency or instrumentality thereof as of January 14, 1983, but excluding any such properties disposed of, and including any such properties acquired, in the ordinary course of business after that date but before the date of transfer, and also including the exclusive-use easement within the Denali National Park and Preserve conveyed to the State pursuant to this chapter and also excluding the following:
 
-&emsp;&emsp;(A) the unexercised reservation to the United States for future rights-of-way required in all patents for land taken up, entered, or located in Alaska, as provided bythe Act of March 12, 1914 (43 U.S.C. 975 et seq.);
+&emsp;&emsp;(A) the unexercised reservation to the United States for future rights-of-way required in all patents for land taken up, entered, or located in Alaska, as provided by the Act of March 12, 1914 (43 U.S.C. 975 et seq.);
 
 &emsp;&emsp;(B) the right of the United States to exercise the power of eminent domain;
 
@@ -50,7 +50,7 @@ As used in this chapter, the term—
 
 &emsp;(13) "State" means the State of Alaska or the State-owned railroad, as the context requires;
 
-&emsp;(14) "State-owned railroad" means the authority, agency, corporation or other entity which the State of Alaska designates or contracts with to own, operate or manage the rail properties of the Alaska Railroad or, as the context requires, the railroad owned, operated, or managed by such authority, agency, corporation, or other entity; and
+&emsp;(14) "State-owned railroad" means the authority, agency, corporation or other entity which the State of Alaska designates or contracts with to own, operate or manage the rail properties of the Alaska Railroad or, as thecontext requires, the railroad owned, operated, or managed by such authority, agency, corporation, or other entity; and
 
 &emsp;(15) "Village Corporation" has the same meaning as such term has under section 3(j) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(j)).
 

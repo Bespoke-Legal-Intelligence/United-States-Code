@@ -42,11 +42,11 @@
 
 #### (6) Funding
 
-&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 3303(a)(1)(C) of title 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
+&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 3303(a)(1)(C) oftitle 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
 
 #### (c) Separate contracting
 
-To the extent that programs or activities transferred by this chapter from the Department of Energy to the Department of HomelandSecurity are being carried out through direct contracts with the operator of a national laboratory or site of the Department of Energy, the Secretary of Homeland Security and the Secretary of Energy shall ensure that direct contracts for such programs and activities between the Department of Homeland Security and such operator are separate from the direct contracts of the Department of Energy with such operator.
+To the extent that programs or activities transferred by this chapter from the Department of Energy to the Department of Homeland Security are being carried out through direct contracts with the operator of a national laboratory or site of the Department of Energy, the Secretary of Homeland Security and the Secretary of Energy shall ensure that direct contracts for such programs and activities between the Department of Homeland Security and such operator are separate from the direct contracts of the Department of Energy with such operator.
 
 #### (d) Authority with respect to cooperative research and development agreements and licensing agreements
 

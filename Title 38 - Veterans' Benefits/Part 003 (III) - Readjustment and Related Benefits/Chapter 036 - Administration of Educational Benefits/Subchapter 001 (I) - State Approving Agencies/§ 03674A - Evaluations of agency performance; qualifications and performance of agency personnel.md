@@ -8,7 +8,7 @@
 
 &emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
 
-&emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualification and performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
+&emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualificationand performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
 
 (b)(1) Each State approving agency carrying out a contract or agreement with the Secretary under section 3674(a) of this title shall—
 
@@ -20,7 +20,7 @@
 
 (3) The Secretary shall provide assistance in developing such standards to a State approving agency that requests it.
 
-(Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83,§5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, §1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, §8(a)(8), June 5, 2001, 115 Stat. 35.)
+(Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, §1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, §8(a)(8), June 5, 2001, 115 Stat. 35.)
 
 #### Amendments
 

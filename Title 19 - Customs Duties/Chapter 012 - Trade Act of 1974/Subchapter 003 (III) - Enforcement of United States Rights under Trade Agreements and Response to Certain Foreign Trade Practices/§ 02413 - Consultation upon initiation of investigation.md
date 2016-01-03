@@ -16,9 +16,9 @@
 
 #### (b) Delay of request for consultations
 
-(1) Notwithstanding the provisions of subsection (a) of this section—
+(1) Notwithstanding the provisions of subsection (a)—
 
-&emsp;(A) the United States Trade Representative may, after consulting with the petitioner (if any), delay for up to 90 days any request for consultations under subsection (a) of this section for the purpose of verifying or improving the petition to ensure an adequate basis for consultation, and
+&emsp;(A) the United States Trade Representative may, after consulting with the petitioner (if any), delay for up to 90 days any request for consultations under subsection (a) for the purpose of verifying or improving the petition to ensure an adequate basis for consultation, and
 
 &emsp;(B) if such consultations are delayed by reason of subparagraph (A), each time limitation under section 2414 of this title shall be extended for the period of such delay.
 
@@ -40,5 +40,5 @@ Subsec. (b). Pub. L. 98–573, §304(e)(2), added subsec. (b).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
+Amendment by Pub. L. 100–418 applicable to petitions filed, and investigations initiated, under section 2412 ofthis title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as a note under section 2411 of this title.
 

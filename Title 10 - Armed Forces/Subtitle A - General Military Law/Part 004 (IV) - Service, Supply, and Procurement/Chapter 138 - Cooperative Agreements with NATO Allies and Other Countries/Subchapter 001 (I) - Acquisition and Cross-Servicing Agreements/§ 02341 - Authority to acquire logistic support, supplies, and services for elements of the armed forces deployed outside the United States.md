@@ -12,7 +12,7 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 &emsp;&emsp;(C) has agreed to preposition materiel of the United States in such country; or
 
-&emsp;&emsp;(D) serves as the host country to military exercises which include elements of the armed forces or permits other military operations by the armed forces in such country.
+&emsp;&emsp;(D) serves as the host country to military exercises which include elements of thearmed forces or permits other military operations by the armed forces in such country.
 
 (Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1016, §2321; renumbered §2341 and amended Pub. L. 99–145, title XIII, §1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 102–484, div. A, title XIII, §1312(a), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–337, div. A, title XIII, §1317(a), Oct. 5, 1994, 108 Stat. 2899; Pub. L. 109–163, div. A, title XII, §1204, Jan. 6, 2006, 119 Stat. 3456.)
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) any employee who—
 
-&emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shallnot apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
+&emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
 &emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
@@ -132,7 +132,7 @@
 
 &emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child;
 
-&emsp;(B) as of the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered as the child of a former employee receiving continued coverage under this section based on the former employee's separation from service; and
+&emsp;(B) as of the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered as the child of a former employee receiving continued coverage underthis section based on the former employee's separation from service; and
 
 &emsp;(C) so ceases to meet the requirements referred to in subparagraph (A) before the end of the 18-month period beginning on the date of the former employee's separation from service,
 
@@ -204,7 +204,7 @@ Subsec. (b)(3). Pub. L. 108–375, §1101(a)(2), added par. (3).
 
 Subsec. (e)(1)(C). Pub. L. 108–375, §1101(a)(4), added subpar. (C).
 
-<b>2003</b>—Subsec. (d)(5)(A). Pub. L. 108–136, §3141(m)(3), substituted "section 4421 of the Atomic Energy DefenseAct" for "section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)".
+<b>2003</b>—Subsec. (d)(5)(A). Pub. L. 108–136, §3141(m)(3), substituted "section 4421 of the Atomic Energy Defense Act" for "section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)".
 
 <b>2002</b>—Subsec. (d)(4)(B)(i). Pub. L. 107–314, §1103(1), substituted "2006" for "2003".
 

@@ -40,7 +40,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (4) Management of Great Lakes Navigation System
 
-&emsp;To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of a single, comprehensive system, recognizing the interdependence of the projects.
+&emsp;To sustain effective and efficient operation and maintenance of the Great Lakes Navigation System, including any navigation feature in the Great Lakes that is a Federal responsibility with respect to operation and maintenance, the Secretary shall manage all of the individually authorized projects in the Great Lakes Navigation System as components of asingle, comprehensive system, recognizing the interdependence of the projects.
 
 #### (d) Prioritization
 
@@ -78,7 +78,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) Definition of eligible harbor or inland harbor defined
 
-&emsp;&emsp;In this paragraph, the term "eligible harbor or inland harbor" means a harbor or inland harbor at which the total amount of harbor maintenance taxes collected in the immediately preceding 3 fiscal years exceedsthe value of the work carried out for the harbor or inland harbor using amounts from the Harbor Maintenance Trust Fund during those 3 fiscal years.
+&emsp;&emsp;In this paragraph, the term "eligible harbor or inland harbor" means a harbor or inland harbor at which the total amount of harbor maintenance taxes collected in the immediately preceding 3 fiscal years exceeds the value of the work carried out for the harbor or inland harbor using amounts from the Harbor Maintenance Trust Fund during those 3 fiscal years.
 
 #### (B) Use of expanded uses funds
 
@@ -132,7 +132,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;&emsp;In carrying out paragraph (1), the Secretary shall identify—
 
-&emsp;&emsp;&emsp;(i) the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
+&emsp;&emsp;&emsp;(i) the total future costs required to achieve and maintain the constructedwidth and depth for the harbors and inland harbors referred to in subsection (a)(2); and
 
 &emsp;&emsp;&emsp;(ii) the total expected costs for expanded uses at eligible harbors or inland harbors referred to in subsection (d)(2).
 
@@ -170,7 +170,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2016, and biennially thereafter, in conjunction with the President's annual budget submission to Congress under section 1105(a) of title 31, the Secretary shall submit to the Committee on Environmentand Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that, with respect to harbors and inland harbors referred to in subsection (a)(2)—
+&emsp;&emsp;For fiscal year 2016, and biennially thereafter, in conjunction with the President's annual budget submission to Congress under section 1105(a) of title 31, the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that, with respect to harbors and inland harbors referred to in subsection (a)(2)—
 
 &emsp;&emsp;&emsp;(i) identifies the operation and maintenance costs associated with the harbors and inland harbors, including those costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors and the costs for expanded uses at eligible harbors and inland harbors, on a project-by-project basis;
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (6) High-use harbor project
 
-&emsp;The term "high-use harbor project" means a project that is assigned to a harbor or inland harbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
+&emsp;The term "high-use harbor project" means a project that is assigned to a harbor or inlandharbor referred to in subsection (a)(2) that transits not less than 10,000,000 tons of cargo annually.
 
 #### (7) Moderate-use harbor project
 
@@ -268,7 +268,7 @@ In this section:
 
 &emsp;&emsp;For purposes of this paragraph, State and local investments in infrastructure shall include infrastructure investments made using amounts made available for activities under section 5305(a)(9) of title 42.
 
-(Pub. L. 99–662, title II, §210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, §316, Nov. 28,1990, 104 Stat. 4641; Pub. L. 113–121, title II, §2102(a), June 10, 2014, 128 Stat. 1273.)
+(Pub. L. 99–662, title II, §210, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 101–640, title III, §316, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 113–121, title II, §2102(a), June 10, 2014, 128 Stat. 1273.)
 
 #### Amendments
 

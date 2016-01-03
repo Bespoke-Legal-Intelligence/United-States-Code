@@ -62,7 +62,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who—
 
-&emsp;&emsp;&emsp;(i)(I) is the spouse, parent, son, or daughter of a citizen of the United States or ofan alien lawfully admitted to the United States for permanent residence; and
+&emsp;&emsp;&emsp;(i)(I) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
 
 &emsp;&emsp;&emsp;(II) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
 
@@ -126,7 +126,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;(ii) any offense under section 871 or 960 of title 18;
 
-&emsp;&emsp;&emsp;(iii) a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.); or
+&emsp;&emsp;&emsp;(iii) a violation of any provision of the Military Selective Service Act (50 U.S.C. App. 451 et seq.) \[now 50 U.S.C. 3801 et seq.\] or the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) \[now 50 U.S.C. 4301 et seq.\]; or
 
 &emsp;&emsp;&emsp;(iv) a violation of section 1185 or 1328 of this title,
 
@@ -136,7 +136,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Domestic violence, stalking, and child abuse
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term "crime of domestic violence" means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual's acts under the domestic or family violence laws of the United States or any State, Indiantribal government, or unit of local government.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term "crime of domestic violence" means any crime of violence (as defined in section 16 of title 18) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual's acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
 
 #### (ii) Violators of protection orders
 
@@ -210,7 +210,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Exceptions
 
-&emsp;&emsp;&emsp;The exceptions described in clauses (ii) and (iii) of section 1182(a)(3)(C) of this title shall apply to deportability under clause (i) in the same manner as they apply to inadmissibility under section 1182(a)(3)(C)(i) of this title.
+&emsp;&emsp;&emsp;The exceptions described in clauses (ii) and (iii) of section 1182(a)(3)(C) of this title shall apply to deportability under clause\(i) in the same manner as they apply to inadmissibility under section 1182(a)(3)(C)(i) of this title.
 
 #### (D) Participated in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing
 
@@ -262,11 +262,11 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (b) Deportation of certain nonimmigrants
 
-An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a) of this section.
+An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title, and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a).
 
 #### (c) Waiver of grounds for deportation
 
-Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
 #### (d) Administrative stay
 
@@ -282,7 +282,7 @@ Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this 
 
 (4) Nothing in this subsection may be construed to limit the authority of the Secretary of Homeland Security or the Attorney General to grant a stay of removal or deportation in any case not described in this subsection.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b),Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch.629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060, 5071.)
 
 #### References in Text
 
@@ -292,15 +292,13 @@ Section 301 of the Immigration Act of 1990, referred to in subsec. (a)(1)(E)(ii)
 
 Section 112 of the Immigration Act of 1990, referred to in subsec. (a)(1)(E)(ii), is section 112 of Pub. L. 101–649, which is set out as a note under section 1153 of this title.
 
-The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Section 36(a) of that act was classified to section 457(c) of this title and was repealed by section 403(a)(39) of act June 27, 1952.
 
 The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
-
-#### Codification
 
 Section was formerly classified to section 1251 of this title prior to renumbering by Pub. L. 104–208.
 
@@ -338,7 +336,7 @@ Pub. L. 108–458, §5402, which added subpar. (E) relating to recipient of mili
 
 Subsec. (a)(3)(D). Pub. L. 106–395, §201(c)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title) or any Federal or State law is deportable."
 
-Subsec. (a)(6). Pub. L. 106–395, §201(c)(1), amended heading and text of par. (6) generally. Prior to amendment, text read as follows: "Any alien who has voted inviolation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable."
+Subsec. (a)(6). Pub. L. 106–395, §201(c)(1), amended heading and text of par. (6) generally. Prior to amendment, text read as follows: "Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable."
 
 Subsec. (a)(7). Pub. L. 106–386, §1505(b)(1), added par. (7).
 
@@ -436,7 +434,7 @@ Subsec. (a)(4)(C). Pub. L. 102–232, §307(h)(10), substituted "excludability" 
 
 Subsec. (c). Pub. L. 102–232, §307(k)(2), redesignated subsec. (h) as (c) and substituted "existed" for "exist".
 
-Subsec. (d). Pub. L. 102–232, §307(k)(1), struck out subsec. (d) which related to applicability of this section to aliens belonging to any of the classes enumerated in subsection (a) of this section.
+Subsec. (d). Pub. L. 102–232, §307(k)(1), struck out subsec. (d) which related to applicability of this section toaliens belonging to any of the classes enumerated in subsection (a) of this section.
 
 Subsec. (h). Pub. L. 102–232, §307(k)(2), redesignated subsec. (h) as (c).
 
@@ -448,7 +446,7 @@ Pub. L. 101–649, §544(b), added par. (21) which read as follows: "is the subj
 
 Pub. L. 101–649, §508(a), substituted "conspiracy or attempt" for "conspiracy" in par. (11).
 
-Subsec. (b). Pub. L. 101–649, §602(b), redesignated subsec. (e) as (b), substituted "paragraph (4) of subsection (a) of this section" for "subsection (a)(6) or (7) of this section" and struck out former subsec. (b) which related to nonapplicability of subsec. (a)(4) of this section.
+Subsec. (b). Pub. L. 101–649, §602(b), redesignated subsec. (e) as (b), substituted "paragraph (4) of subsection (a)" for "subsection (a)(6) or (7) of this section" and struck out former subsec. (b) which related to nonapplicability of subsec. (a)(4) of this section.
 
 Pub. L. 101–649, §505(a), struck out "(1)" after "crimes shall not apply" and ", or (2) if the court sentencing such alien for such crime shall make, at the time of first imposing judgment or passing sentence, or within thirty days thereafter, a recommendation to the Attorney General that such alien not be deported, due notice having been given prior to making such recommendation to representatives of the interested State, the Service, and prosecution authorities, who shall be granted an opportunity to make representations in the matter" at end of first sentence, and inserted "or who has been convicted of an aggravated felony" after "subsection (a)(11) of this section" in second sentence.
 
@@ -512,7 +510,7 @@ Pub. L. 109–13, div. B, title I, §105(b), May 11, 2005, 119 Stat. 310, provid
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 5304(b) of Pub. L. 108–458 effective Dec. 17, 2004, and applicable to revocations undersections 1155 and 1201(i) of this title made before, on, or after such date, see section 5304(d) of Pub. L. 108–458, set out as a note under section 1155 of this title.
+Amendment by section 5304(b) of Pub. L. 108–458 effective Dec. 17, 2004, and applicable to revocations under sections 1155 and 1201(i) of this title made before, on, or after such date, see section 5304(d) of Pub. L. 108–458, set out as a note under section 1155 of this title.
 
 Amendment by section 5501(b) of Pub. L. 108–458 applicable to offenses committed before, on, or after Dec. 17, 2004, see section 5501(c) of Pub. L. 108–458, set out as a note under section 1182 of this title.
 

@@ -114,7 +114,7 @@ For purposes of this subtitle, if livestock are destroyed by or on account of di
 
 #### (A) In general
 
-&emsp;&emsp;In the case of drought, flood, or other weather-related conditions described in paragraph (1) which result in the area being designated as eligible for assistance by the Federal Government, subsection (a)(2)(B) shall be applied with respect to any converted property by substituting "4 years" for "2 years".
+&emsp;&emsp;In the case of drought, flood, or other weather-related conditions described inparagraph (1) which result in the area being designated as eligible for assistance by the Federal Government, subsection (a)(2)(B) shall be applied with respect to any converted property by substituting "4 years" for "2 years".
 
 #### (B) Further extension by Secretary
 
@@ -182,7 +182,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (2) Trade or business and investment property
 
-&emsp;If a taxpayer's property held for productive use in a trade or business or for investment <sup>1</sup> located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
+&emsp;If a taxpayer's property held for productive use in a trade or business or for investment <sup>1</sup>located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
 
 #### (3) Federally declared disaster; disaster area
 

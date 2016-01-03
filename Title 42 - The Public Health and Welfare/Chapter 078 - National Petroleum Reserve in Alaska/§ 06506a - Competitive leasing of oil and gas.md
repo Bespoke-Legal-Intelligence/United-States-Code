@@ -14,7 +14,7 @@ The provisions of section 1712 and section 1782 of title 43 shall not be applica
 
 #### (d) First lease sale
 
-The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>,That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessary under the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+The; <sup>1</sup> first lease sale shall be conducted within twenty months of December 12, 1980: <i>Provided</i>, That the first lease sale shall be conducted only after publication of a final environmental impact statement if such is deemed necessary under the provisions of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 #### (e) Withdrawals
 
@@ -40,7 +40,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (2) Renewal of leases with discoveries
 
-&emsp;At the end of the primary term of a lease the Secretary shall renew for an additional 10-year term a lease that does not meet the requirements of paragraph (1) if the lessee submits to the Secretary an application for renewal not later than 60 days before the expiration of the primary lease and the lessee certifies, and the Secretary agrees, that hydrocarbon resources were discovered on one or more wells drilled on the leased land in such quantities that a prudent operator would hold the lease for potential future development.
+&emsp;At the end of the primary term of a lease the Secretary shall renew for an additional 10-year term a lease that does not meet the requirements of paragraph (1) if the lessee submits to the Secretary an application for renewal not later than 60 days before the expiration of the primary lease and the lessee certifies, and the Secretary agrees, that hydrocarbon resources were discovered on one or more wells drilledon the leased land in such quantities that a prudent operator would hold the lease for potential future development.
 
 #### (3) Renewal of leases without discoveries
 
@@ -84,7 +84,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (4) Benefit of operations
 
-&emsp;Drilling, production, and well reworking operations performed in accordance with a unitagreement shall be deemed to be performed for the benefit of all leases that are subject in whole or in part to such unit agreement.
+&emsp;Drilling, production, and well reworking operations performed in accordance with a unit agreement shall be deemed to be performed for the benefit of all leases that are subject in whole or in part to such unit agreement.
 
 #### (5) Pooling
 
@@ -158,7 +158,7 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 This Act, referred to in subsecs. (a), (b), (i)(5), and (l) is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-December 12, 1980, referred to in subsec. (d), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 96–514, which enacted this section, to reflect the probable intent of Congress.
+December 12, 1980, referred to in subsec. (d), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment ofPub. L. 96–514, which enacted this section, to reflect the probable intent of Congress.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 

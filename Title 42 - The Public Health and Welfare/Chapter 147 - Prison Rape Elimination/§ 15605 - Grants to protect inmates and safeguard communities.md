@@ -32,7 +32,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;&emsp;(ii) delivery of services (such as job training and substance abuse treatment) to those released inmates;
 
-&emsp;&emsp;(D) promoting collaborative efforts, among officials of State and local governments and leaders of appropriate communities, to understand and address the effects on a community of the presence of a disproportionate number of released inmates in that community; or
+&emsp;&emsp;(D) promoting collaborative efforts, among officials of State and local governments andleaders of appropriate communities, to understand and address the effects on a community of the presence of a disproportionate number of released inmates in that community; or
 
 &emsp;&emsp;(E) developing policies and programs that reduce spending on prisons by effectively reducing rates of parole and probation revocation without compromising public safety.
 

@@ -76,7 +76,7 @@ For the purposes of this part—
 
 (9) The term "State" means, in addition to the several States of the Union, the District of Columbia, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
-(10) The term "State energy agency" means the State agency responsible for developing State energy conservation plans pursuant to section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of such State to prepare and submit a State plan under section 6371c of this title.
+(10) The term "State energy agency" means the State agency responsible for developingState energy conservation plans pursuant to section 6322 of this title, or, if no such agency exists, a State agency designated by the Governor of such State to prepare and submit a State plan under section 6371c of this title.
 
 (11) The term "State school facilities agency" means an existing agency which is broadly representative of public institutions of higher education, nonprofit institutions of higher education, public elementary and secondary schools, nonprofit elementary and secondary schools, public vocational education institutions, nonprofit vocational education institutions, and the interests of handicapped persons, in a State or, if no such agency exists, an agency which is designated by the Governor of such State which conforms to the requirements of this paragraph.
 

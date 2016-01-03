@@ -112,7 +112,7 @@ Par. (8). Pub. L. 94–566, §214(b), added par. (8).
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 Pub. L. 96–215, §4(c), Mar. 25, 1980, 94 Stat. 124, provided that: "The amendments made by this section \[amending this section and section 8521 of this title\] shall apply with respect to assignments of services and wages pursuant to any first claim (for a benefit year) which is filed after the date of the enactment of this Act \[Mar. 25, 1980\]."
 

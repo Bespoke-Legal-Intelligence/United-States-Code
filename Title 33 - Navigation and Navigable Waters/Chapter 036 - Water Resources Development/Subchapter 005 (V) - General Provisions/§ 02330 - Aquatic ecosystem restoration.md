@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Non-Federal interests shall provide 35 percent of the cost of construction of any projectcarried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
+&emsp;Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all lands, easements, rights-of-way, and necessary relocations.
 
 #### (2) Form
 

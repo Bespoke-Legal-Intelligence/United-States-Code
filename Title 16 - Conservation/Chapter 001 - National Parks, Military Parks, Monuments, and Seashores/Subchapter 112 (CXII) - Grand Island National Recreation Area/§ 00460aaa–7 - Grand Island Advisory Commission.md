@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Subject to appointments as provided in subsection (b) of this section, there is established a Grand Island Advisory Commission (hereafter in this subchapter referred to as the "Commission") comprised of 12 members for the purpose of advising the Secretary on the preparation of the management plan which is provided for in section 460aaa–6 of this title.
+Subject to appointments as provided in subsection (b), there is established a Grand Island Advisory Commission (hereafter in this subchapter referred to as the "Commission") comprised of 12 members for the purpose of advising the Secretary on the preparation of the management plan which is provided for in section 460aaa–6 of this title.
 
 #### (b) Appointment
 
@@ -30,7 +30,7 @@ Subject to appointments as provided in subsection (b) of this section, there is 
 
 #### (c) Quorum
 
-A quorum shall be six members. The operations of the Commission shall not be impairedby the fact that a member has not been appointed as long as a quorum has been attained.
+A quorum shall be six members. The operations of the Commission shall not be impaired by the fact that a member has not been appointed as long as a quorum has been attained.
 
 #### (d) Procedures
 

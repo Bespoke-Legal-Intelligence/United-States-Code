@@ -34,7 +34,7 @@ Conditions.—Prior to the establishment of a preinspection station, the Attorne
 
 #### (b) Establishment of carrier consultant program and immigration security initiative
 
-The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3) of this section, served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.
+The Secretary of Homeland Security shall assign additional immigration officers to assist air carriers in the detection of fraudulent documents at foreign airports which, based on the records maintained pursuant to subsection (a)(3), served as a point of departure for a significant number of arrivals at United States ports of entry without valid documentation, but where no preinspection station exists. Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §235A, as added Pub. L. 104–208, div. C, title I, §123(a), Sept. 30, 1996, 110 Stat. 3009–560; amended Pub. L. 108–458, title VII, §§7206(a), 7210(d)(1), Dec. 17, 2004, 118 Stat. 3817, 3825.)
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 108–458, §7206(a), inserted "and immigration security in
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Exchange of Terrorist Information and Increased Preinspection at Foreign Airports
 

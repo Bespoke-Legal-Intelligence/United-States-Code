@@ -94,7 +94,7 @@
 
 #### (ii) Supplemental coverage
 
-&emsp;&emsp;&emsp;In the case of a prescription drug plan that provides supplemental prescriptiondrug coverage, the portion of the PDP approved bid that is attributable to basic prescription drug coverage.
+&emsp;&emsp;&emsp;In the case of a prescription drug plan that provides supplemental prescription drug coverage, the portion of the PDP approved bid that is attributable to basic prescription drug coverage.
 
 #### (B) MA–PD plans
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;&emsp;(i) an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
 
-&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2) ofthis section) for each such uncovered month in such period.
+&emsp;&emsp;&emsp;(ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2) of this section) for each such uncovered month in such period.
 
 #### (B) Uncovered month defined
 
@@ -274,7 +274,7 @@
 
 #### (C) Collection by plan
 
-&emsp;&emsp;In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title, the Secretary shall establish procedures for reducing payments otherwise made to the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
+&emsp;&emsp;In the case of a late enrollment penalty that is collected from a part D eligible individual in a manner other than the manner described in section 1395w–24(d)(2)(A) of this title, the Secretary shall establish procedures for reducing payments otherwise madeto the PDP sponsor or MA organization by an amount equal to the amount of such penalty less the portion of such penalty estimated under subparagraph (A).
 
 #### (3) Fallback plans
 

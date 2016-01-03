@@ -14,13 +14,17 @@ If the taxpayer files a petition with the Tax Court, the entire amount redetermi
 
 &emsp;&emsp;<b>(4) For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.</b>
 
-&emsp;&emsp;<b>(5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).</b>
+&emsp;&emsp;<b>(5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).</b><b><sup>1</sup></b>
 
 &emsp;&emsp;<b>(6) For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.</b>
 
 &emsp;&emsp;<b>(7) For extension of time for paying amount determined as deficiency, see section 6161(b).</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 94–455, title XIX, §1906(a)(16), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 99–514, title XIV, §1404(c)(2), Oct. 22, 1986, 100 Stat. 2714.)
+
+#### References in Text
+
+Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in subsec. (b)(5), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, §501(g), Sept. 14, 1976, 90 Stat. 1258.
 
 #### Amendments
 
@@ -33,4 +37,6 @@ Subsec. (b)(5). Pub. L. 94–455, §1906(a)(16), struck out "60 Stat. 48;" befor
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as a note under section 643 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@
 
 #### (b) Notice for other purposes permissible
 
-A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a) of this section, and that is provided by a person described in subsection (a) of this section to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a) of this section.
+A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a), and that is provided by a person described in subsection (a) to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a).
 
 #### (c) User requirements
 
@@ -68,7 +68,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) a financial contract between a person and a consumer which is in force;
 
-&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section;
+&emsp;&emsp;(B) the purchase, rental, or lease by the consumer of that person's goods or services, or a financial transaction (including holding an active account or a policy in force or having another continuing relationship) between the consumer and that person during the 18-month period immediately precedingthe date on which the consumer is sent a solicitation covered by this section;
 
 &emsp;&emsp;(C) an inquiry or application by the consumer regarding a product or service offered by that person, during the 3-month period immediately preceding the date on which the consumer is sent a solicitation covered by this section; or
 
@@ -76,7 +76,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Solicitation
 
-&emsp;The term "solicitation" means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+&emsp;The term "solicitation" means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
 (Pub. L. 90–321, title VI, §624, as added Pub. L. 108–159, title II, §214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
 

@@ -60,7 +60,7 @@
 
 &emsp;(2) "payment certifying agency" means any agency that has transmitted a voucher to a disbursing official for disbursement.
 
-(f) In section 3711 of this title, "private collection contractor" means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
+(f) In section 3711 of this title, "private collection contractor" means private debt collectorsunder contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
 
@@ -192,7 +192,7 @@ Subsec. (c). Pub. L. 104–134, §31001(d)(1), amended subsec. (c) generally. Pr
 
 Subsec. (d). Pub. L. 104–316 substituted "Sections 3711(e)" for "Sections 3711(f)" in introductory provisions.
 
-Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.),except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States."
+Pub. L. 104–134, §31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States."
 
 Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (f).
 
@@ -200,7 +200,7 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted "Government" for "United States Government", redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out "the" before "Commissioned Corps" in two places, and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 97–452 designated existing provisions as subsec. (a), added pars. (1), (2), and (3), redesignated former par. (1) as (4) and substituted "Government" for"United States Government", redesignated former par. (2) as (5), added par. (6), redesignated former par. (3) as (7) and struck out "the" before "Commissioned Corps" in two places, and added subsecs. (b) to (d).
 
 #### Effective Date of 1999 Amendment
 

@@ -4,9 +4,9 @@
 
 In General.—As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
 
-&emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
+&emsp;(1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-&emsp;(2) designate an independent nonprofit organization, with experience in disasters and post trauma <sup>1</sup> communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+&emsp;(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 
 (b)
 
@@ -112,7 +112,7 @@ Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of a rail passenger carrier aboard a train;
 
-&emsp;&emsp;(B) any other person aboard the train without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the rail transportation; and
+&emsp;&emsp;(B) any other person aboard the train without regard to whether the person paidfor the transportation, occupied a seat, or held a reservation for the rail transportation; and
 
 &emsp;&emsp;(C) any other person injured or killed in a rail passenger accident, as determined appropriate by the Board.
 
@@ -126,17 +126,29 @@ Relinquishment of Investigative Priority.—
 
 &emsp;(1)
 
-General rule.—This section (other than subsection (g)) shall not apply to a railroad passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+General rule.—This section (other than subsection (g)) shall not apply to a rail passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
 
 &emsp;(2)
 
-Board assistance.—If this section does not apply to a railroad passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+Board assistance.—If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
 (k)
 
 Savings Clause.—Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
 
-(Added Pub. L. 110–432, div. A, title V, §501(a), Oct. 16, 2008, 122 Stat. 4894.)
+(Added Pub. L. 110–432, div. A, title V, §501(a), Oct. 16, 2008, 122 Stat. 4894; amended Pub. L. 114–94, div. A, title XI, §11316(a), Dec. 4, 2015, 129 Stat. 1676.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §11316(a)(1), substituted "telephone number" for "phone number".
+
+Subsec. (a)(2). Pub. L. 114–94, §11316(a)(2), substituted "post-trauma communication with families" for "post trauma communication with families".
+
+Subsec. (j). Pub. L. 114–94, §11316(a)(3), substituted "rail passenger accident" for "railroad passenger accident" in pars. (1) and (2).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Establishment of Task Force
 
@@ -154,13 +166,11 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 &emsp;"(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident;
 
-&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger railaccident who are not citizens of the United States receive appropriate assistance; and
+&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
 
 &emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
 
 "(c)
 
 Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "post-trauma".</i>
 

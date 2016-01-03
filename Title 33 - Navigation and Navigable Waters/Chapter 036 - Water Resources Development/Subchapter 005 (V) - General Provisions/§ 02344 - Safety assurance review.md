@@ -6,7 +6,7 @@ The Chief of Engineers shall ensure that the design and construction activities 
 
 #### (b) Factors
 
-In determining whether a review of design and construction of a project is necessary under this section, the Chief of Engineers shall consider whether—
+In determining whether a review of design and construction of a project is necessary under thissection, the Chief of Engineers shall consider whether—
 
 &emsp;(1) the failure of the project would pose a significant threat to human life;
 
@@ -32,7 +32,7 @@ In determining whether a review of design and construction of a project is neces
 
 #### (d) Scope of safety assurance reviews
 
-A safety assurance review under this section shall include a review of the design and construction activities prior to the initiation of physical construction and periodically thereafter until construction activities are completedon a regular schedule sufficient to inform the Chief of Engineers on the adequacy, appropriateness, and acceptability of the design and construction activities for the purpose of assuring public health, safety, and welfare. The Chief of Engineers shall ensure that reviews under this section do not create any unnecessary delays in design and construction activities.
+A safety assurance review under this section shall include a review of the design and construction activities prior to the initiation of physical construction and periodically thereafter until construction activities are completed on a regular schedule sufficient to inform the Chief of Engineers on the adequacy, appropriateness, and acceptability of the design and construction activities for the purpose of assuring public health, safety, and welfare. The Chief of Engineers shall ensure that reviews under this section do not create any unnecessary delays in design and construction activities.
 
 #### (e) Safety assurance review record
 

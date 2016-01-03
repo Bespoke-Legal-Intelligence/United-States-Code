@@ -18,7 +18,7 @@ The 9/11 Commission has made the following recommendations:
 
 #### (3) Support the Cooperative Threat Reduction program
 
-&emsp;The United States should expand, improve, increase resources for, and otherwise fullysupport the Cooperative Threat Reduction program.
+&emsp;The United States should expand, improve, increase resources for, and otherwise fully support the Cooperative Threat Reduction program.
 
 (Pub. L. 110–53, title XVIII, §1801, Aug. 3, 2007, 121 Stat. 491.)
 

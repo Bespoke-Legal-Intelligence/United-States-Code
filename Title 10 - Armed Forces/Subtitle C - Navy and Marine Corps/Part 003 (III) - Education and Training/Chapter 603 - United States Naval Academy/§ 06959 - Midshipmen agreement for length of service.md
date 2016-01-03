@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 109–163, §687(c)(10), added subsec. (f).
 
 "(b) A midshipman who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Navy to the Naval Reserve or the Marine Corps Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes but not for more than four years."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(b), struck out ", unless sooner separated," in introductory text preceding "he will"; inserted in cl. (1) "unless sooner separated from the Naval Academy,"; and inserted", unless sooner separated from the naval service," in cls. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(b), struck out ", unless sooner separated," in introductory text preceding "he will"; inserted in cl. (1) "unless sooner separated from the Naval Academy,"; and inserted ", unless sooner separated from the naval service," in cls. (2) and (3).
 
 Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted "at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary" for "the sixth anniversary".
 

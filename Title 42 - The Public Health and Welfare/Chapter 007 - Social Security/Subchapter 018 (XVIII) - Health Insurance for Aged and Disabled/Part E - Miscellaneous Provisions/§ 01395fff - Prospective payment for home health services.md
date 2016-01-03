@@ -26,7 +26,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
-&emsp;&emsp;&emsp;&emsp;(III) Subject to clause (iii), for periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction inlimits described in clause (ii) had been in effect, updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(III) Subject to clause (iii), for periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
 
 &emsp;&emsp;&nbsp;Each such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and area wage adjustments among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
@@ -66,7 +66,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iii) Home health market basket percentage increase
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term "home health market basket percentage increase" means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year.
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "home health market basket percentage increase" means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year. Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent.
 
 #### (iv) Adjustment for case mix changes
 
@@ -76,7 +76,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (I) Adjustment
 
-&emsp;&emsp;&emsp;&emsp;For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclauses (II) and (IV) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall bereduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
+&emsp;&emsp;&emsp;&emsp;For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclauses (II) and (IV) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
 
 #### (II) Submission of quality data
 
@@ -108,7 +108,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;After determining the home health market basket percentage increase under clause (iii), and after application of clause (v), the Secretary shall reduce such percentage—
 
-&emsp;&emsp;&emsp;&emsp;(I) for 2015 and each subsequent year, by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) for 2015 and each subsequent year (except 2018), by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of 2011, 2012, and 2013, by 1 percentage point.
 
@@ -192,13 +192,17 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161.)
 
 #### References in Text
 
 Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(3)(B)(iii). Pub. L. 114–10, §411(c)(1), inserted at end "Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent."
+
+Subsec. (b)(3)(B)(vi)(I). Pub. L. 114–10, §411(c)(2), inserted "(except 2018)" after "each subsequent year".
 
 <b>2014</b>—Subsec. (b)(3)(B)(v)(I). Pub. L. 113–185, §2(c)(1)(A), substituted "subclauses (II) and (IV)" for "subclause (II)".
 
@@ -386,11 +390,11 @@ Administration.—Chapter 35 of title 44, United States Code, shall not apply wi
 
 #### Temporary Increase for Home Health Services Furnished in a Rural Area
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428, provided that:
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151, provided that:
 
 "(a)
 
-In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2016, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2016, 3 percent).
+In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary \[of Health and Human Services\] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
 
 "(b)
 
@@ -554,7 +558,7 @@ In general.—Notwithstanding the amendments made by subsection (a) \[amending s
 
 "(2)
 
-No effect on other payments or determinations.—The Secretary shall not take the provisions of paragraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act."
+No effect on other payments or determinations.—The Secretary shall not take the provisions ofparagraph (1) into account for purposes of payments, determinations, or budget neutrality adjustments under section 1895 of the Social Security Act."
 
 #### Temporary Two-Month Periodic Interim Payment
 
@@ -710,7 +714,7 @@ Pub. L. 105–33, title IV, §4602(e), Aug. 5, 1997, 111 Stat. 467, provided tha
 
 #### Prospective Payment System Contingency
 
-Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) ofthis section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
+Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) of this section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
 
 #### Reports to Congress Regarding Home Health Cost Containment
 

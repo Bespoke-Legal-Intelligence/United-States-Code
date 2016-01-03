@@ -296,7 +296,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts oromissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
+&emsp;&emsp;This paragraph shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of such member on the State Commission or alternative administrative entity.
 
 #### (3) Effect on other law
 

@@ -6,7 +6,7 @@ Recognizing the special relationship between the United States and the Indian tr
 
 &emsp;(2) that Congress, through statutes, treaties, and the general course of dealing with Indian tribes, has assumed the responsibility for the protection and preservation of Indian tribes and their resources;
 
-&emsp;(3) that there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and that the United States has a direct interest, astrustee, in protecting Indian children who are members of or are eligible for membership in an Indian tribe;
+&emsp;(3) that there is no resource that is more vital to the continued existence and integrity of Indian tribes than their children and that the United States has a direct interest, as trustee, in protecting Indian children who are members of or are eligible for membership in an Indian tribe;
 
 &emsp;(4) that an alarmingly high percentage of Indian families are broken up by the removal, often unwarranted, of their children from them by nontribal public and private agencies and that an alarmingly high percentage of such children are placed in non-Indian foster and adoptive homes and institutions; and
 

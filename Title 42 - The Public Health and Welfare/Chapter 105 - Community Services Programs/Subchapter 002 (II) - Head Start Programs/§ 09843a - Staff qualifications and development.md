@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a baccalaureate or advanced degree in early childhood education; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a baccalaureate or advanced degree and coursework equivalent to amajor relating to early childhood education, with experience teaching preschool-age children; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a baccalaureate or advanced degree and coursework equivalent to a major relating to early childhood education, with experience teaching preschool-age children; and
 
 &emsp;&emsp;&emsp;(ii) Head Start teaching assistants nationwide in center-based programs have—
 

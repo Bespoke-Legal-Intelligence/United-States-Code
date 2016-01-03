@@ -60,7 +60,7 @@ Any person who shall violate, or aid or abet in violating, any of the provisions
 
 #### (g) Construction with other laws
 
-Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of theFederal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
+Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
 #### (h) Exportation of partially processed biological products
 
@@ -72,7 +72,7 @@ A partially processed biological product which—
 
 &emsp;(3) is intended for further manufacture into final dosage form outside the United States,
 
-> shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(e)).
+> shall be subject to no restriction on the export of the product under this chapter or the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 etseq.\] if the product is manufactured, processed, packaged, and held in conformity with current good manufacturing practice requirements or meets international manufacturing standards as certified by an international standards organization recognized by the Secretary and meets the requirements of section 801(e)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381(e)).
 
 #### (i) "Biological product" defined
 
@@ -142,7 +142,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (3) Evaluation by Secretary
 
-&emsp;Upon review of an application (or a supplement to an application) submitted under this subsection, the Secretary shall license the biological product under this subsection if—
+&emsp;Upon review of an application (or a supplement to an application) submitted under thissubsection, the Secretary shall license the biological product under this subsection if—
 
 &emsp;&emsp;(A) the Secretary determines that the information submitted in the application (or the supplement) is sufficient to show that the biological product—
 
@@ -204,7 +204,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (B) Filing period
 
-&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until thedate that is 4 years after the date on which the reference product was first licensed under subsection (a).
+&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until the date that is 4 years after the date on which the reference product was first licensed under subsection (a).
 
 #### (C) First licensure
 
@@ -214,7 +214,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;(ii) a subsequent application filed by the same sponsor or manufacturer of the biological product that is the reference product (or a licensor, predecessor in interest, or other related entity) for—
 
-&emsp;&emsp;&emsp;&emsp;(I) a change (not including a modification to the structure of the biological product) that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength; or
+&emsp;&emsp;&emsp;&emsp;(I) a change (not including a modification to the structure of the biological product) that results in a new indication, route of administration, dosing schedule,dosage form, delivery system, delivery device, or strength; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a modification to the structure of the biological product that does not result in a change in safety, purity, or potency.
 
@@ -284,7 +284,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (II) In-house counsel
 
-&emsp;&emsp;&emsp;&emsp;One attorney that represents the reference product sponsor who is an employee of the reference product sponsor, provided that such attorney does not engage, formally or informally, in patentprosecution relevant or related to the reference product.
+&emsp;&emsp;&emsp;&emsp;One attorney that represents the reference product sponsor who is an employee of the reference product sponsor, provided that such attorney does not engage, formally or informally, in patent prosecution relevant or related to the reference product.
 
 #### (iii) Patent owner access
 
@@ -344,7 +344,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;(ii) shall provide to the reference product sponsor, with respect to each patent listed by the reference product sponsor under subparagraph (A) or listed by the subsection (k) applicant under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) a detailed statement that describes, on a claim by claim basis, the factual and legal basis of the opinion of the subsection (k) applicant that such patent is invalid, unenforceable, or will not be infringed by the commercial marketing of the biological product that is the subject of the subsection (k) application; or
+&emsp;&emsp;&emsp;&emsp;(I) a detailed statement that describes, on a claim by claim basis, the factualand legal basis of the opinion of the subsection (k) applicant that such patent is invalid, unenforceable, or will not be infringed by the commercial marketing of the biological product that is the subject of the subsection (k) application; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a statement that the subsection (k) applicant does not intend to begin commercial marketing of the biological product before the date that such patent expires; and
 
@@ -404,7 +404,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Notification to Secretary
 
-&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant inan action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
+&emsp;&emsp;&emsp;Not later than 30 days after a complaint is served to a subsection (k) applicant in an action for patent infringement described under this paragraph, the subsection (k) applicant shall provide the Secretary with notice and a copy of such complaint.
 
 #### (ii) Publication by Secretary
 
@@ -464,11 +464,11 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (2) Market exclusivity for new biological products
 
-&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing suchstudies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
+&emsp;If, prior to approval of an application that is submitted under subsection (a), the Secretary determines that information relating to the use of a new biological product in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with section 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a(d)(3)\]—
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
-&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a rare disease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup> \[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
+&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a raredisease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup> \[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
 
 #### (3) Market exclusivity for already-marketed biological products
 
@@ -482,7 +482,21 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(3) <sup>1</sup> \[21 U.S.C. 355a(d)(3)\] is made later than 9 months prior to the expiration of such period.
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040.)
+#### (n) Date of approval in the case of recommended controls under the CSA
+
+#### (1) In general
+
+&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+
+#### (2) Date of approval
+
+&emsp;For purposes of this section, with respect to an application described in paragraph (1), references to the date of approval of such application, or licensure of the product subject to such application, shall mean the later of—
+
+&emsp;&emsp;(A) the date an application is approved under subsection (a); or
+
+&emsp;&emsp;(B) the date of issuance of the interim final rule controlling the biological product.
+
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698.)
 
 #### References in Text
 
@@ -492,7 +506,11 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j),
 
 Sections 526, 527(a), and 505A(d)(3), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(3), respectively, of Title 21, Food and Drugs.
 
+The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (n). Pub. L. 114–89 added subsec. (n).
 
 <b>2012</b>—Subsec. (m)(1). Pub. L. 112–144 substituted "(f), (h), (i), (j), (k), (l), (n), and (p)" for "(f), (i), (j), (k), (l), (p), and (q)".
 
@@ -582,7 +600,7 @@ Exception.—An application for a biological product may be submitted under sect
 
 "(3)
 
-Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act \[42 U.S.C. 262\] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351.
+Limitation.—Notwithstanding paragraph (2), an application for a biological product may not be submitted under section 505 of the Federal Food, Drug, andCosmetic Act (21 U.S.C. 355) if there is another biological product approved under subsection (a) of section 351 of the Public Health Service Act \[42 U.S.C. 262\] that could be a reference product with respect to such application (within the meaning of such section 351) if such application were submitted under subsection (k) of such section 351.
 
 "(4)
 

@@ -7,7 +7,7 @@
 | [5603\.](%C2%A7%2005603%20-%20Authorities%20of%20Secretary%20of%20State%20with%20respect%20to%20Convention.md) | Authorities of Secretary of State with respect to Convention. |
 | [5604\.](%C2%A7%2005604%20-%20Interagency%20cooperation.md) | Interagency cooperation. |
 | [5605\.](%C2%A7%2005605%20-%20Rulemaking.md) | Rulemaking. |
-| [5606\.](%C2%A7%2005606%20-%20Prohibited%20acts%20and%20penalties.md) | Prohibited acts and penalties. |
+| [5606\.](%C2%A7%2005606%20-%20Prohibited%20acts%20and%20enforcement.md) | Prohibited acts and enforcement. |
 | [5607\.](%C2%A7%2005607%20-%20Consultative%20committee.md) | Consultative committee. |
 | [5608\.](%C2%A7%2005608%20-%20Administrative%20matters.md) | Administrative matters. |
 | [5609\.](%C2%A7%2005609%20-%20Definitions.md) | Definitions. |
@@ -27,7 +27,7 @@
 - [&sect; 05603 - Authorities of Secretary of State with respect to Convention](%C2%A7%2005603%20-%20Authorities%20of%20Secretary%20of%20State%20with%20respect%20to%20Convention.md)
 - [&sect; 05604 - Interagency cooperation](%C2%A7%2005604%20-%20Interagency%20cooperation.md)
 - [&sect; 05605 - Rulemaking](%C2%A7%2005605%20-%20Rulemaking.md)
-- [&sect; 05606 - Prohibited acts and penalties](%C2%A7%2005606%20-%20Prohibited%20acts%20and%20penalties.md)
+- [&sect; 05606 - Prohibited acts and enforcement](%C2%A7%2005606%20-%20Prohibited%20acts%20and%20enforcement.md)
 - [&sect; 05607 - Consultative committee](%C2%A7%2005607%20-%20Consultative%20committee.md)
 - [&sect; 05608 - Administrative matters](%C2%A7%2005608%20-%20Administrative%20matters.md)
 - [&sect; 05609 - Definitions](%C2%A7%2005609%20-%20Definitions.md)

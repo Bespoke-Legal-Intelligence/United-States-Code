@@ -36,7 +36,7 @@ Every organization subject to foreign control which engages in civilian military
 
 Every organization, the purpose or aim of which, or one of the purposes or aims of which, is the establishment, control, conduct, seizure, or overthrow of a government or subdivision thereof by the use of force, violence, military measures, or threats of any one or more of the foregoing.
 
-Every such organization shall register by filing with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a registration statement containing the information and documents prescribed in subsection (B)(3) and shall within thirty days after the expiration of each period of six months succeeding the filing of such registration statement, file with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a supplemental statement containing such information and documents as may be necessary to make the information and documents previously filed under this section accurate and current with respect to such preceding six months' period. Every statement required to be filed by this section shall be subscribed,under oath, by all of the officers of the organization.
+Every such organization shall register by filing with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a registration statement containing the information and documents prescribed in subsection (B)(3) and shall within thirty days after the expiration of each period of six months succeeding the filing of such registration statement, file with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a supplemental statement containing such information and documents as may be necessary to make the information and documents previously filed under this section accurate and current with respect to such preceding six months' period. Every statement required to be filed by this section shall be subscribed, under oath, by all of the officers of the organization.
 
 (2) This section shall not require registration or the filing of any statement with the Attorney General by:
 
@@ -62,7 +62,7 @@ Every such organization shall register by filing with the Attorney General, on s
 
 (e) The address or addresses of meeting places of the organization, and of each branch, chapter, or affiliate of the organization, and the times of meetings;
 
-(f) The name and address of each person who has contributed any money, dues, property, or other thing of value to the organization or to any branch, chapter, or affiliate of the organization;
+(f) The name and address of each person who has contributed any money, dues, property, orother thing of value to the organization or to any branch, chapter, or affiliate of the organization;
 
 (g) A detailed statement of the assets of the organization, and of each branch, chapter, and affiliate of the organization, the manner in which such assets were acquired, and a detailed statement of the liabilities and income of the organization and of each branch, chapter, and affiliate of the organization;
 

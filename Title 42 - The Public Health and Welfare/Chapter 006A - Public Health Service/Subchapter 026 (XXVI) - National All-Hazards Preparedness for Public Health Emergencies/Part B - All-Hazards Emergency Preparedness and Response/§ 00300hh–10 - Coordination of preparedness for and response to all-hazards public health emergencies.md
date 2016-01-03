@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established within the Department of Health and Human Services the position of the Assistant Secretary for Preparedness and Response. The President, with the advice and consent of the Senate, shall appoint an individual to serve in such position. Such Assistant Secretary shall report to the Secretary.
+There is established within the Department of Health and Human Services the position of theAssistant Secretary for Preparedness and Response. The President, with the advice and consent of the Senate, shall appoint an individual to serve in such position. Such Assistant Secretary shall report to the Secretary.
 
 #### (b) Duties
 
@@ -44,7 +44,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (F) Coordination of grants and agreements
 
-&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements asapplicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
+&emsp;&emsp;Align and coordinate medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this chapter, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to—
 
 &emsp;&emsp;&emsp;(i) optimize and streamline medical and public health preparedness and response capabilities and the ability of local communities to respond to public health emergencies; and
 
@@ -72,7 +72,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (7) Countermeasures budget plan
 
-&emsp;Develop, and update on an annual basis, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d). Each such plan shall—
+&emsp;Develop, and update on an annual basis, a coordinated 5-year budget plan based on themedical countermeasure priorities described in subsection (d). Each such plan shall—
 
 &emsp;&emsp;(A) include consideration of the entire medical countermeasures enterprise, including—
 
@@ -122,7 +122,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 #### (1) In general
 
-&emsp;Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the BiomedicalAdvanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
+&emsp;Not later than 180 days after March 13, 2013, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the "Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan".
 
 #### (2) Requirements
 

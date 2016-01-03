@@ -10,7 +10,7 @@ Pub. L. 87–728, §5(b), Oct. 1, 1962, 76 Stat. 679, provided that: "The rights
 
 #### Amendatory Repayment Contract
 
-Pub. L. 87–728, §§1, 2, Oct. 1, 1962, 76 Stat. 677, 678, provided: "That the amendatory repayment contract with the Quincy Columbia Basin Irrigation District negotiated by the Secretary of the Interior, pursuant to subsection (a) of section 7 of the Reclamation Project Act of 1939 (53 Stat. 1192; 43 U.S.C. 485f) \[section 485f(a) of Title 43, Public Lands\], which contract was approved by the district electors on February 13, 1962, is hereby approved and the Secretary is hereby authorized to execute it on behalf of the United States and to negotiate and execute on behalf of the United States amendatory repayment contracts in substantially the same form or amendatory repayment contracts containing substantially the same provisions with the South and East Columbia Basin Irrigation Districts.
+Pub. L. 87–728, §§1, 2, Oct. 1, 1962, 76 Stat. 677, 678, provided: "That the amendatory repayment contract withthe Quincy Columbia Basin Irrigation District negotiated by the Secretary of the Interior, pursuant to subsection (a) of section 7 of the Reclamation Project Act of 1939 (53 Stat. 1192; 43 U.S.C. 485f) \[section 485f(a) of Title 43, Public Lands\], which contract was approved by the district electors on February 13, 1962, is hereby approved and the Secretary is hereby authorized to execute it on behalf of the United States and to negotiate and execute on behalf of the United States amendatory repayment contracts in substantially the same form or amendatory repayment contracts containing substantially the same provisions with the South and East Columbia Basin Irrigation Districts.
 
 "
 

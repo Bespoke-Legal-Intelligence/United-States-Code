@@ -102,7 +102,7 @@ Sponges
 
 &emsp;(8) The term "Council" means any Regional Fishery Management Council established under section 1852 of this title.
 
-&emsp;(9) The term "economic discards" means fish which are the target of a fishery, but whichare not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
+&emsp;(9) The term "economic discards" means fish which are the target of a fishery, but which are not retained because they are of an undesirable size, sex, or quality, or for other economic reasons.
 
 &emsp;(10) The term "essential fish habitat" means those waters and substrate necessary to fish for spawning, breeding, feeding or growth to maturity.
 
@@ -146,7 +146,7 @@ Sponges
 
 &emsp;(19) The term "foreign fishing" means fishing by a vessel other than a vessel of the United States.
 
-&emsp;(20) The term "high seas" means all waters beyond the territorial sea of the United States and beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
+&emsp;(20) The term "high seas" means all waters beyond the territorial sea of the United Statesand beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
 
 &emsp;(21) The term "highly migratory species" means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
 

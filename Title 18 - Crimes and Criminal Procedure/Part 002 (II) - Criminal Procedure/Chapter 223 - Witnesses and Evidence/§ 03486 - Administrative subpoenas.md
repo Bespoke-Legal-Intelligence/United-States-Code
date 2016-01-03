@@ -54,7 +54,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (7) A summons issued under this section shall not require the production of anything that would be protected from production under the standards applicable to a subpoena duces tecum issued by a court of the United States.
 
-(8) If no case or proceeding arises from the production of records or other things pursuantto this section within a reasonable time after those records or things are produced, the agency to which those records or things were delivered shall, upon written demand made by the person producing those records or things, return them to that person, except where the production required was only of copies rather than originals.
+(8) If no case or proceeding arises from the production of records or other things pursuant to this section within a reasonable time after those records or things are produced, the agency to which those records or things were delivered shall, upon written demand made by the personproducing those records or things, return them to that person, except where the production required was only of copies rather than originals.
 
 (9) A subpoena issued under paragraph (1)(A)(i)(II) or (1)(A)(iii) may require production as soon as possible, but in no event less than 24 hours after service of the subpoena.
 
@@ -106,9 +106,9 @@ Subsec. (a)(9), (10). Pub. L. 112–206, §4(a)(2)(B), (C), substituted "(1)(A)(
 
 <b>2000</b>—Pub. L. 106–544, §5(b)(1), struck out "in Federal health care investigations" after "subpoenas" in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designeemay issue in writing and cause to be served a subpoena—
+Subsec. (a)(1). Pub. L. 106–544, §5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General's designee may issue in writing and cause to be served a subpoena—
 
-&emsp;"(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
+&emsp;"(A) requiring the production of any records (including any books, papers, documents, electronicmedia, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 
 &emsp;"(B) requiring a custodian of records to give testimony concerning the production and authentication of such records."
 

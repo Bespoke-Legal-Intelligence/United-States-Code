@@ -4,7 +4,7 @@
 
 &emsp;(i) on real property which the veteran owns at the time of application; or
 
-&emsp;(ii) as to which the Secretary has incurred actual liability or loss, unless in the event ofloss or the incurrence and payment of such liability by the Secretary the resulting indebtedness of the veteran to the United States has been paid in full.
+&emsp;(ii) as to which the Secretary has incurred actual liability or loss, unless in the event of loss or the incurrence and payment of such liability by the Secretary the resulting indebtedness of the veteran to the United States has been paid in full.
 
 (2) The veterans referred to in the first sentence of paragraph (1) of this subsection are the following:
 
@@ -54,7 +54,7 @@
 
 (e) The Secretary may at any time upon thirty days' notice require housing loans to be made by any lender or class of lenders to be submitted to the Secretary for prior approval. No guaranty or insurance liability shall exist with respect to any such loan unless evidence of guaranty or insurance is issued by the Secretary.
 
-(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savingsand loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
+(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
 
 &emsp;(1) ratio of amount of loan to the value of the property;
 
@@ -108,7 +108,7 @@ Subsec. (b)(3). Pub. L. 101–237, §310, added par. (3).
 
 Subsecs. (c) to (e). Pub. L. 101–237, §313(b)(1), substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted "The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter" for "Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter", substituted "in paragraph (2)" for "in the preceding sentence, or in section 1818 of this title," and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted "The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter" for "Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was forninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter", substituted "in paragraph (2)" for "in the preceding sentence, or in section 1818 of this title," and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
 
 Subsec. (a)(2), (3). Pub. L. 100–322, §415(a)(1)(F), added pars. (2) and (3).
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 97–72, §303(b)(7), substituted "Any housing loan at leas
 
 Subsec. (b). Pub. L. 95–476, §102(b), redesignated cl. (1) as (1)(A), cl. (2) as (B), cl. (3) as (2), and struck out reference to cl. (2) in provision authorizing the Administrator to waive certain conditions prescribed in this subsection.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted "the Administrator deems" for "he deems" and "theveteran-transferee's entitlement" for "his entitlement".
+<b>1976</b>—Subsec. (b). Pub. L. 94–324, §7(3), substituted "the Administrator deems" for "he deems" and "the veteran-transferee's entitlement" for "his entitlement".
 
 Subsec. (c). Pub. L. 94–324, §7(4), substituted "The Administrator" for "He".
 
@@ -198,7 +198,7 @@ Pub. L. 102–547, §2(c), Oct. 28, 1992, 106 Stat. 3634, directed Secretary of 
 
 #### References in Other Laws
 
-Pub. L. 100–322, title IV, §415(c)(7), May 20, 1988, 102 Stat. 551, provided that: "Any reference, in effect on the date of the enactment of this Act \[May 20, 1988\], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section \[sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) \[now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)\], respectively, of this title\] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section."
+Pub. L. 100–322, title IV, §415(c)(7), May 20, 1988, 102 Stat. 551, provided that: "Any reference, in effect onthe date of the enactment of this Act \[May 20, 1988\], in any law, rule, or regulation to any of the sections, or parts thereof, which are redesignated or transferred by this section \[sections 1802(a), (g), 1815, 1816(a) to (c), 1816(d) to (f), 1817, 1817A, 1819, and 1832 of this title were redesignated as sections 1802(a)(1), (4), 1803(a)(2), 1832(a) to (c), 1833(a) to (c), 1813, 1814, 1812, and 1833(d) \[now 3702(a)(1), (4), 3703(a)(2), 3732(a) to (c), 3733(a) to (c), 3713, 3714, 3712, and 3733(d)\], respectively, of this title\] shall be construed to refer to the section, or part thereof, as redesignated or transferred by this section."
 
 #### Technical Nature of 1986 Amendments
 

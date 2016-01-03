@@ -8,7 +8,7 @@ If an installment obligation is satisfied at other than its face value or distri
 
 &emsp;(2) the fair market value of the obligation at the time of distribution, transmission, or disposition, in the case of the distribution, transmission, or disposition otherwise than by sale or exchange.
 
-> any gain or loss so resulting shall be considered as resulting from the sale or exchange of theproperty in respect of which the installment obligation was received.
+> any gain or loss so resulting shall be considered as resulting from the sale or exchange of the property in respect of which the installment obligation was received.
 
 #### (b) Basis of obligation
 
@@ -122,7 +122,7 @@ Amendment by section 43(c)(2) of Pub. L. 98–369 applicable to taxable years en
 
 Amendment by section 211(b)(6) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
-Amendment by section 421(b)(3) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
+Amendment by section 421(b)(3) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable yearsending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 Amendment by section 492(b)(3) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 492(d) of Pub. L. 98–369, set out as a note under section 170 of this title.
 

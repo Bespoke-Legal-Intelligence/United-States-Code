@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(D) the Office of Government Ethics for all executive branch officers and employees; and
 
-&emsp;&emsp;(E) in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under title I of the Ethics in Government Act of 1978 are transmitted under such title, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
+&emsp;&emsp;(E) in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under title I of the Ethics in Government Act of 1978 are transmitted under such title, except that the authority of this section may be delegated by suchcommittee with respect to such officers and employees; and
 
 &emsp;(2) the term "officer or employee" means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
 

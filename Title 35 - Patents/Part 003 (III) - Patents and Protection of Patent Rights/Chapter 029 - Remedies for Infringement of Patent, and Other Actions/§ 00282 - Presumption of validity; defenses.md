@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid eventhough dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
+In General.—A patent shall be presumed valid. Each claim of a patent (whether in independent, dependent, or multiple dependent form) shall be presumed valid independently of the validity of other claims; dependent or multiple dependent claims shall be presumed valid even though dependent upon an invalid claim. The burden of establishing invalidity of a patent or any claim thereof shall rest on the party asserting such invalidity.
 
 (b)
 
@@ -30,7 +30,7 @@ Notice of Actions; Actions During Extension of Patent Term.—In an action invol
 
 > to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§15(a), 20(g), (j), Sept. 16, 2011, 125 Stat. 328, 334, 335.)
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10,Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§15(a), 20(g), (j), Sept. 16, 2011, 125 Stat. 328, 334, 335.)
 
 #### Historical and Revision Notes
 

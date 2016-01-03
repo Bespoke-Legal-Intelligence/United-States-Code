@@ -1,6 +1,6 @@
 ### §7234. Advisory committees
 
-The Secretary is authorized to establish in accordance with the Federal Advisory CommitteeAct such advisory committees as he may deem appropriate to assist in the performance of his functions. Members of such advisory committees, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise serving at the request of the Secretary while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government serving without pay.
+The Secretary is authorized to establish in accordance with the Federal Advisory Committee Act such advisory committees as he may deem appropriate to assist in the performance of his functions. Members of such advisory committees, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise serving at the request of the Secretary while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government serving without pay.
 
 (Pub. L. 95–91, title VI, §624, Aug. 4, 1977, 91 Stat. 598; Pub. L. 105–28, §2(b)(1), July 18, 1997, 111 Stat. 245.)
 
@@ -18,5 +18,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Department of Energy Project Review Groups not Subject to Federal Advisory Committee Act by Reason of Inclusion of Employees of Department of Energy Management and Operating Contractors
 
-Pub. L. 108–136, div. C, title XXXI, §3112, Nov. 24, 2003, 117 Stat. 1743, provided that: "An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one or more management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of section 3 of the Federal Advisory Committee Act (5 U.S.C. App.)."
+Pub. L. 108–136, div. C, title XXXI, §3112, Nov. 24, 2003, 117 Stat. 1743, provided that: "An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one ormore management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of section 3 of the Federal Advisory Committee Act (5 U.S.C. App.)."
 

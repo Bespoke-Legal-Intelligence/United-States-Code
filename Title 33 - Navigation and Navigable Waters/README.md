@@ -37,6 +37,7 @@
 | [<b>31.</b>](Chapter%20031%20-%20Ocean%20Pollution%20Research%20and%20Development%20and%20Monitoring%20Planning/README.md) | <b>Ocean Pollution Research and Development and Monitoring Planning \[Repealed\]</b> | <b>1701</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Inland%20Waterways%20Trust%20Fund/README.md) | <b>Inland Waterways Trust Fund</b> | <b>1801</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Prevention%20of%20Pollution%20from%20Ships/README.md) | <b>Prevention of Pollution From Ships</b> | <b>1901</b> |
+| [<b>33A.</b>](Chapter%20033A%20-%20Marine%20Debris%20Research%2C%20Prevention%2C%20and%20Reduction/README.md) | <b>Marine Debris Research, Prevention, and Reduction</b> | <b>1951</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Inland%20Navigational%20Rules/README.md) | <b>Inland Navigational Rules</b> | <b>2001</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Artificial%20Reefs/README.md) | <b>Artificial Reefs</b> | <b>2101</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Water%20Resources%20Development/README.md) | <b>Water Resources Development</b> | <b>2201</b> |

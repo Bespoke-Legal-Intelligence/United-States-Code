@@ -6,7 +6,7 @@ Subject to the availability of appropriations, and in conformance with the strat
 
 &emsp;(A) augment and support the capabilities and efforts of Federal employees to implement resource management, conservation, and public education programs and activities across the National Wildlife Refuge System;
 
-&emsp;(B) provide meaningful opportunities for volunteers to support the resource management, conservation, and public education programsand activities of national wildlife refuges or complexes of geographically related national wildlife refuges in each United States Fish and Wildlife Service region; and
+&emsp;(B) provide meaningful opportunities for volunteers to support the resource management, conservation, and public education programs and activities of national wildlife refuges or complexes of geographically related national wildlife refuges in each United States Fish and Wildlife Service region; and
 
 &emsp;(C) fulfill the purpose and mission of the National Wildlife Refuge System under the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.).
 

@@ -2,7 +2,7 @@
 
 The sections of this subchapter and subdivisions of sections are declared to be separable, and in the event any one or more sections or parts of the same of this subchapter be held to be unconstitutional, the same shall not affect the validity of other sections or parts of sections of this subchapter.
 
-(Feb. 16, 1938, ch. 30, title V, §517, 52 Stat. 77; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22,2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
+(Feb. 16, 1938, ch. 30, title V, §517, 52 Stat. 77; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
 #### Codification
 

@@ -14,7 +14,7 @@ The Attorney General may award grants under this subsection to private nonprofit
 
 &emsp;(1) to implement, expand, and establish cooperative efforts and projects between domestic violence, dating violence, and sexual assault victim service providers and legal assistance providers to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault;
 
-&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistance for victims of domestic violence, dating violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
+&emsp;(2) to implement, expand, and establish efforts and projects to provide legal assistancefor victims of domestic violence, dating violence, stalking, and sexual assault by organizations with a demonstrated history of providing direct legal or advocacy services on behalf of these victims; and
 
 &emsp;(3) to implement, expand, and establish efforts and projects to provide competent, supervised pro bono legal assistance for victims of domestic violence, dating violence, sexual assault, or stalking, except that not more than 10 percent of the funds awarded under this section may be used for the purpose described in this paragraph.
 
@@ -92,7 +92,7 @@ Subsec. (d)(2). Pub. L. 113–4, §103(4)(B), substituted "stalking victim servi
 
 Subsec. (f)(1). Pub. L. 113–4, §103(5), substituted "this section $57,000,000 for each of fiscal years 2014 through 2018." for "this section $65,000,000 for each of fiscal years 2007 through 2011."
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §103(1), inserted "civil and criminal" after "availability of", "adult and youth" after "effective aid to", and "Criminal legal assistance provided for under this section shall be limitedto criminal matters relating to domestic violence, sexual assault, dating violence, and stalking." at end.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §103(1), inserted "civil and criminal" after "availability of", "adult and youth" after "effective aid to", and "Criminal legal assistance provided for under this section shall be limited to criminal matters relating to domestic violence, sexual assault, dating violence, and stalking." at end.
 
 Subsec. (b). Pub. L. 109–162, §103(2), reenacted subsec. heading without change and amended text generally. Prior to amendment, text defined for purposes of this section the terms "dating violence", "domestic violence", "legal assistance", and "sexual assault".
 

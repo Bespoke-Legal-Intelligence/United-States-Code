@@ -2,7 +2,7 @@
 
 #### (a) Tier 1 tax
 
-In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence,the term "applicable percentage" means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
+In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee. For purposes of the preceding sentence, the term "applicable percentage" means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 for the calendar year.
 
 #### (b) Tier 2 tax
 
@@ -22,7 +22,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted "applicable" for "following" before "percentage of the" and provision defining the term "applicable percentage" for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
+<b>1987</b>—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In addition to other taxes, there is hereby imposed on the income of each employee a tax equal tothe following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
 &nbsp;
 
@@ -75,7 +75,7 @@ Pub. L. 100–203, title IX, §9031(b), Dec. 22, 1987, 101 Stat. 1330–296, pro
 
 Pub. L. 98–76, title II, §212, Aug. 12, 1983, 97 Stat. 419, provided that: "The amendments made by this part \[part I (§§211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare\] shall apply to compensation paid for services rendered after December 31, 1983, and before January 1, 1985."
 
-Pub. L. 98–76, title II, §227(a), Aug. 12, 1983, 97 Stat. 426, provided that: "The amendments made by sections 221, 222, 223, and 225 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42\] shall apply to remuneration paid after December 31, 1984."
+Pub. L. 98–76, title II, §227(a), Aug. 12, 1983, 97 Stat. 426, provided that: "The amendments made by sections221, 222, 223, and 225 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42\] shall apply to remuneration paid after December 31, 1984."
 
 #### Effective Date of 1981 Amendment
 

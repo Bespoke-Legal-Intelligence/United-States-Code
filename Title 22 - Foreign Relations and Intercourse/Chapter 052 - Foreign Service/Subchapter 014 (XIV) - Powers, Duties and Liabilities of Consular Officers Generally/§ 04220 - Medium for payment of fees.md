@@ -1,6 +1,6 @@
 ### §4220. Medium for payment of fees
 
-All fees collected by diplomatic and consular officers for and in behalf of the United States shall be collected in the coin of the United States, or at its representative value in exchange.
+All fees collected by diplomatic and consular officers for and in behalf of the United Statesshall be collected in the coin of the United States, or at its representative value in exchange.
 
 (R.S. §1746.)
 

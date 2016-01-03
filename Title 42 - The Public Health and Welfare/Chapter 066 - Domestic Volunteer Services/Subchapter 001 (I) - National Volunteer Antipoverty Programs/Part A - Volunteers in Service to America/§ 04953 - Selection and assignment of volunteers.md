@@ -34,7 +34,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (1) The Director shall establish placement procedures that involve sponsoring organizations and that offer opportunities for both local and national placement of volunteers for service under this part.
 
-(2)(A) The Director shall establish and maintain within the national headquarters of the Corporation (or any successor entity of such agency) a volunteer placement office which shall be responsible for all functions related tothe recruitment and placement of volunteers under this part. Such functions and activities shall be carried out in coordination or in conjunction with recruitment and placement activities carried out under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
+(2)(A) The Director shall establish and maintain within the national headquarters of the Corporation (or any successor entity of such agency) a volunteer placement office which shall be responsible for all functions related to the recruitment and placement of volunteers under this part. Such functions and activities shall be carried out in coordination or in conjunction with recruitment and placement activities carried out under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\].
 
 (B) Such volunteer placement office shall develop, operate, and maintain a current and comprehensive database that provides information—
 
@@ -52,7 +52,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (B) In carrying out subparagraph (A), the Director shall utilize the database established under paragraph (2)(B).
 
-(C) A sponsoring organization of VISTA may recruit volunteers for service under this part. The Director shall give a locally recruited volunteer priority for placement in the sponsoring organization of VISTA that recruited such volunteer.
+(C) A sponsoring organization of VISTA may recruit volunteers for service under this part.The Director shall give a locally recruited volunteer priority for placement in the sponsoring organization of VISTA that recruited such volunteer.
 
 (D) A volunteer under this part shall not be assigned to any project or program without the express approval and consent of such project or program.
 
@@ -72,7 +72,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
-&emsp;(E) publicizing the student loan deferment and forgiveness opportunities available to VISTA volunteers under parts B and E of titleIV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\] and including such information in all applications and recruitment materials;
+&emsp;(E) publicizing the student loan deferment and forgiveness opportunities available to VISTA volunteers under parts B and E of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087aa et seq.\] and including such information in all applications and recruitment materials;
 
 &emsp;(F) publicizing national service educational awards available under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\];
 
@@ -86,7 +86,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 #### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards
 
-The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under section 2832 of title 29.
+The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under section 3122 of title 29.
 
 #### (e) Educational and vocational counseling for volunteers; Director to provide
 
@@ -110,15 +110,11 @@ The Director may enter into agreements under which public and private nonprofit 
 
 (Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–13, title II, §2102, Apr. 21, 2009, 123 Stat. 1582; Pub. L. 113–128, title V, §512(h), July 22, 2014, 128 Stat. 1708.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 113–128, title V, §§506, 512(h), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (d) of this section is amended by striking "employment." and all that follows and inserting the following: "employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under section 3122 of title 29.". See 2014 Amendment note below.</i>
-
 #### References in Text
 
 This chapter, referred to in subsec. (a)(6), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.)of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+The Community Service Block Grant Act, referred to in subsec. (a)(6), probably means the Community Services Block Grant Act, which is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(6), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.), respectively, of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -190,7 +186,7 @@ Subsec. (a)(3). Pub. L. 103–82, §323(a)(3), struck out "illiterate or functio
 
 Subsec. (a)(5). Pub. L. 103–82, §323(a)(4), struck out "and" at end.
 
-Subsec. (a)(6). Pub. L. 103–82, §323(a)(5), struck out "or" before "the Community Economic", inserted "orother similar Acts," before "in furtherance of", and substituted "; and" for period at end.
+Subsec. (a)(6). Pub. L. 103–82, §323(a)(5), struck out "or" before "the Community Economic", inserted "or other similar Acts," before "in furtherance of", and substituted "; and" for period at end.
 
 Subsec. (a)(7). Pub. L. 103–82, §323(a)(6), added par. (7).
 
@@ -234,7 +230,7 @@ Subsec. (a). Pub. L. 101–204, §101(d)(2)(B), inserted introductory provisions
 
 Subsec. (a)(5), (6). Pub. L. 101–204, §701, added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers. The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration."
+Subsec. (b). Pub. L. 101–204, §101(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: "The Director shall establish, at a cost not to exceed $250,000, procedures to recruit and place individuals from all walks of life, age groups, economic levels, and geographic areas to serve as VISTA volunteers.The procedures shall include an information system to ensure that potential applicants are made aware of the broad range of VISTA volunteer opportunities and a system to identify and place qualified volunteers where their skills are most needed. The Director shall also establish procedures for national and local recruitment, media and public awareness efforts, and specialized campaigns designed to recruit recent college graduates, special skilled volunteers, and individuals 55 years of age and older. The Director, wherever feasible and appropriate, shall assign low-income community volunteers to serve in their home communities in teams with nationally recruited specialist volunteers. The Director shall make efforts to assign volunteers to serve in their home or nearby communities and shall make national efforts to attract other volunteers to serve in the VISTA program. The Director shall also, in the assignment of volunteers, recognize that the community identified needs which cannot be met in the local area, and the individual desires of VISTA volunteers in regard to placement in various geographic areas of the Nation, should be taken into consideration."
 
 Subsecs. (c) to (e). Pub. L. 101–204, §101(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -266,7 +262,7 @@ Subsec. (d). Pub. L. 96–143, §2(b), inserted "in a program or project" after 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment
 

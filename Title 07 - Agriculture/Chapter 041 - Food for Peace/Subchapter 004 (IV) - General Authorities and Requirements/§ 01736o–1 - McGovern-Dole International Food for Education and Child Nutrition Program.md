@@ -28,7 +28,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(iv) the vessel freight charges from United States ports or designated Canadian transshipment ports, as determined by the Secretary, to designated ports of entry abroad;
 
-&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from United States ports to designated points of entry abroad in the case—
+&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from UnitedStates ports to designated points of entry abroad in the case—
 
 &emsp;&emsp;&emsp;(I) of landlocked countries;
 

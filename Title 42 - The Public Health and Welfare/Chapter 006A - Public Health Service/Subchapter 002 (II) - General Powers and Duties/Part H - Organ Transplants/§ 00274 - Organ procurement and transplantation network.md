@@ -2,7 +2,7 @@
 
 #### (a) Contract authority of Secretary; limitation; available appropriations
 
-The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under suchcontract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
+The Secretary shall by contract provide for the establishment and operation of an Organ Procurement and Transplantation Network which meets the requirements of subsection (b) of this section. The amount provided under such contract in any fiscal year may not exceed $7,000,000. Funds for such contracts shall be made available from funds available to the Public Health Service from appropriations for fiscal years beginning after fiscal year 1984.
 
 #### (b) Functions
 
@@ -58,7 +58,7 @@ Clarification.—In adopting and using standards of quality under paragraph (2)(
 
 &emsp;(A) are infected with HIV before receiving such organ; and
 
-&emsp;(B)(i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title; or
+&emsp;(B)(i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulationsdescribed in subsections (a) and (b) of section 274f–5 of this title; or
 
 &emsp;(ii) if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title.
 
@@ -74,7 +74,7 @@ The Secretary shall establish procedures for—
 
 #### Prior Provisions
 
-A prior section 274, act July 1, 1944, ch. 373, title III, §372, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 710; amended June 25, 1959, Pub. L. 86–70, §31(b)(2)–(4), 73 Stat. 148, related to grants to Alaska for a mental health program and payment for constructionof hospital facilities, prior to the general revision of this part by section 201 of Pub. L. 98–507.
+A prior section 274, act July 1, 1944, ch. 373, title III, §372, as added July 28, 1956, ch. 772, title II, §201, 70 Stat. 710; amended June 25, 1959, Pub. L. 86–70, §31(b)(2)–(4), 73 Stat. 148, related to grants to Alaska for a mental health program and payment for construction of hospital facilities, prior to the general revision of this part by section 201 of Pub. L. 98–507.
 
 Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1, 70 Stat. 960, which related to functions of National Library of Medicine, was renumbered section 382 and classified to section 276 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 

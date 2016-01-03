@@ -16,17 +16,17 @@
 
 #### (b) Method of computation and payment
 
-The method of computing and paying amounts pursuant to subsection (a) of this section shall be as follows:
+The method of computing and paying amounts pursuant to subsection (a) shall be as follows:
 
 &emsp;(1) The Commissioner shall, prior to the beginning of each calendar quarter or other period prescribed by the Commissioner, estimate the amount to be paid to each State under the provisions of such subsection for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation as the Commissioner may find necessary.
 
-&emsp;(2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State forsuch prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
+&emsp;(2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
 
 (Pub. L. 93–112, title I, §111, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1162; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–128, title IV, §420, July 22, 2014, 128 Stat. 1656.)
 
 #### Prior Provisions
 
-A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, §122(b)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, §208, title X, §1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, §202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, §107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 371; Pub. L. 95–602, title I, §122(b)(1),Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title II, §208, title X, §1001(b)(6), Oct. 21, 1986, 100 Stat. 1818, 1842; Pub. L. 100–630, title II, §202(e)(1), (2)(A), (3), Nov. 7, 1988, 102 Stat. 3306; Pub. L. 102–569, title I, §132, Oct. 29, 1992, 106 Stat. 4390; Pub. L. 103–73, title I, §107(f), Aug. 11, 1993, 107 Stat. 723, related to payments to States, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 
@@ -38,5 +38,5 @@ A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

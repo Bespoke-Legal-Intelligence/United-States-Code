@@ -52,7 +52,7 @@ Ex. Ord. No. 12139, May 23, 1979, 44 F.R. 30311, as amended by Ex. Ord. No. 1338
 
 By the authority vested in me as President by Sections 102 and 104 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1802 and 1804), in order to provide as set forth in that Act \[this chapter\] for the authorization of electronic surveillance for foreign intelligence purposes, it is hereby ordered as follows:
 
-1–101. Pursuant to Section 102(a)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1802(a)), the Attorney General is authorized to approve electronic surveillance to acquire foreign intelligence information without a court order, but only if the Attorney General makes the certifications required by that Section.
+1–101. Pursuant to Section 102(a)(1) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1802(a)),the Attorney General is authorized to approve electronic surveillance to acquire foreign intelligence information without a court order, but only if the Attorney General makes the certifications required by that Section.
 
 1–102. Pursuant to Section 102(b) of the Foreign Intelligence Act of 1978 (50 U.S.C. 1802(b)), the Attorney General is authorized to approve applications to the court having jurisdiction under Section 103 of that Act \[50 U.S.C. 1803\] to obtain orders for electronic surveillance for the purpose of obtaining foreign intelligence information.
 

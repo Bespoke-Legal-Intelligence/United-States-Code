@@ -28,7 +28,7 @@ Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal 
 
 #### (f) Authority
 
-Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europe and Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 \[22 U.S.C. 2871\], as in effect on such date.
+Grants authorized under section 6204 of this title for RFE/RL, Incorporated, shall be available to make annual grants for the purpose of carrying out similar functions as were carried out by RFE/RL, Incorporated, on the day before April 30, 1994, with respect to Radio Free Europeand Radio Liberty, consistent with section 2 of the Board for International Broadcasting Act of 1973 \[22 U.S.C. 2871\], as in effect on such date.
 
 #### (g) Grant agreement
 
@@ -64,7 +64,7 @@ No grant funds provided under this section may be used for the following purpose
 
 #### (i) Report on management practices
 
-(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the InspectorGeneral of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+(1) <sup>1</sup> Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General's office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
 #### (j) Audit authority
 
@@ -84,7 +84,7 @@ The foreign relations laws of the United States, referred to in subsec. (h)(1)(A
 
 The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

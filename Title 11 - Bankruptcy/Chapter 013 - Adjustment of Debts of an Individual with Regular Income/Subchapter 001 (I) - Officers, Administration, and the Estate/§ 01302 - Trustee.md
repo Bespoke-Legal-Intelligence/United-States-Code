@@ -1,6 +1,6 @@
 ### §1302. Trustee
 
-(a) If the United States trustee appoints an individual under section 586(b) of title 28 to serve as standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as a trustee in the case.
+(a) If the United States trustee appoints an individual under section 586(b) of title 28 to serveas standing trustee in cases under this chapter and if such individual qualifies under section 322 of this title, then such individual shall serve as trustee in the case. Otherwise, the United States trustee shall appoint one disinterested person to serve as trustee in the case or the United States trustee may serve as a trustee in the case.
 
 (b) The trustee shall—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(II) was reaffirmed by the debtor under section 524(c).
 
-(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described inparagraph (1)(C)(iv) the last known address of the debtor.
+(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
 
@@ -76,7 +76,7 @@ Subsection (c) imposes on the trustee in a chapter 13 case filed by a debtor eng
 
 #### house report no. 95–595
 
-Subsection (d) gives the trustee an additional duty if the debtor is engaged in business, as defined in section 1304. The trustee must perform the duties specified in sections 1106(a)(3) and 1106(a)(4), relating to investigation of the debtor.
+Subsection (d) gives the trustee an additional duty if the debtor is engaged in business, as defined in section1304. The trustee must perform the duties specified in sections 1106(a)(3) and 1106(a)(4), relating to investigation of the debtor.
 
 #### References in Text
 

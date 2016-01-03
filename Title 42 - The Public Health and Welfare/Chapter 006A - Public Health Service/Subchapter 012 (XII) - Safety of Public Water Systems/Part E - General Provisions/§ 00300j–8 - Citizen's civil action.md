@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any requirement prescribed by or under this subchapter;
 
-&emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this subchapter which is not discretionary with the Administrator; or
+&emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this subchapterwhich is not discretionary with the Administrator; or
 
 &emsp;(3) for the collection of a penalty by the United States Government (and associated costs and interest) against any Federal agency that fails, by the date that is 18 months after the effective date of a final order to pay a penalty assessed by the Administrator under section 300h–8(b) <sup>1</sup> of this title, to pay the penalty.
 

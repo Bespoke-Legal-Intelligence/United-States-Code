@@ -8,7 +8,7 @@ To maintain fish-restoration and management projects established under the provi
 
 (1) Each State shall allocate 15 percent of the funds apportioned to it for each fiscal year under section 777c of this title for the payment of up to 75 per centum of the costs of the acquisition, development, renovation, or improvement of facilities (and auxiliary facilities necessary to insure the safe use of such facilities) that create, or add to, public access to the waters of the United States to improve the suitability of such waters for recreational boating purposes. Notwithstanding this provision, States within a United States Fish and Wildlife Service Administrative Region may allocate more or less than 15 percent in a fiscal year, provided that the total regional allocation averages 15 percent over a 5 year period.
 
-(2) So much of the funds that are allocated by a State under paragraph (1) in any fiscal year that remained unexpended or unobligated at the close of such year are authorized to be made available for the purposes described in paragraph (1) during the succeeding four fiscal years, but any portion of such funds that remain unexpended or unobligated at the close of such period are authorized to be made available for expenditure by the Secretary of the Interior to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title.
+(2) So much of the funds that are allocated by a State under paragraph (1) in any fiscal year that remained unexpended or unobligated at the close of such year are authorized to be made available for the purposes described in paragraph (1) during the succeeding four fiscal years, but any portion of such funds that remain unexpended or unobligated at the close of such period are authorized to be made available for expenditure by the Secretary of the Interior to supplement the 58.012 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title.
 
 #### (c) Aquatic resource education program; funding, etc.
 
@@ -42,9 +42,9 @@ Each State may use not to exceed 15 percent of the funds apportioned to it under
 
 #### (e) State outreach and communications program
 
-Within 12 months after the completion of the national plan under subsection (d)(1) of this section, a State shall develop a plan for an outreach and communications program and submit it to the Secretary. In developing the plan, a State shall—
+Within 12 months after the completion of the national plan under subsection (d)(1), a State shall develop a plan for an outreach and communications program and submit it to the Secretary. In developing the plan, a State shall—
 
-&emsp;(1) review the national plan developed under subsection (d) of this section;
+&emsp;(1) review the national plan developed under subsection (d);
 
 &emsp;(2) consult with anglers, boaters, the sportfishing and boating industries, and the general public; and
 
@@ -72,7 +72,7 @@ Amounts apportioned to States under section 777c of this title may be used to pa
 
 &emsp;A State that conducts a public boat access needs survey under paragraph (2) may fund the costs of conducting that assessment out of amounts allocated to it as funding dedicated to motorboat access to recreational waters under subsection (b)(1) of this section.
 
-(Aug. 9, 1950, ch. 658, §8, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, §1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, §5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10114, Aug. 10, 2005, 119 Stat. 1928.)
+(Aug. 9, 1950, ch. 658, §8, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103; Pub. L. 98–369, div. A, title X, §1014(a)(6), July 18, 1984, 98 Stat. 1016; Pub. L. 102–587, title V, §5604(b), Nov. 4, 1992, 106 Stat. 5088; Pub. L. 105–178, title VII, §§7402(c), 7404(b), June 9, 1998, 112 Stat. 484, 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10114, Aug. 10, 2005, 119 Stat. 1928; Pub. L. 114–94, div. A, title X, §10001(d), Dec. 4, 2015, 129 Stat. 1621.)
 
 #### References in Text
 
@@ -81,6 +81,8 @@ For effective date of this subsection, referred to in subsec. (c), see Effective
 The Clean Vessel Act of 1992, referred to in subsec. (f), is subtitle F of title V of Pub. L. 102–587, Nov. 4, 1992, 106 Stat. 5086, which amended this section and section 777c of this title and enacted provisions set out as a note under section 1322 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1322 of Title 33 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2). Pub. L. 114–94 substituted "58.012 percent" for "57 percent".
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–59, §10114(1), substituted "to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(c) of this title" for "in carrying out the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation".
 
@@ -107,6 +109,10 @@ Subsec. (d). Pub. L. 102–587, §5604(b)(4), added subsec. (d).
 <b>1984</b>—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 <b>1970</b>—Pub. L. 91–503 struck out restriction that not more than 25 percent of the Federal funds be set aside for maintenance projects.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2005 Amendments
 

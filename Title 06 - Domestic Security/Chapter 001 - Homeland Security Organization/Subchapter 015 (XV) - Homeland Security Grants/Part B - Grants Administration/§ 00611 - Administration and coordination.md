@@ -22,7 +22,7 @@ The Administrator shall ensure that—
 
 &emsp;&emsp;&emsp;(i) local and tribal government officials; and
 
-&emsp;&emsp;&emsp;(ii) emergency response providers, which shall include representatives of the fire service, law enforcement, emergency medical response, and emergency managers.
+&emsp;&emsp;&emsp;(ii) emergency response providers, which shall include representatives of the fireservice, law enforcement, emergency medical response, and emergency managers.
 
 #### (B) Geographic representation
 

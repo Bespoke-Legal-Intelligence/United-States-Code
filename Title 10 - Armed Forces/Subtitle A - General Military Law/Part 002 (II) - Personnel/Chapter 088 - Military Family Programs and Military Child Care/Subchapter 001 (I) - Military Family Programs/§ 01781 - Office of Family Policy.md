@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is in the Office of the Secretary of Defense an Office of FamilyPolicy (in this section referred to as the "Office"). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
+Establishment.—There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the "Office"). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
 (b)
 
@@ -24,7 +24,7 @@ Provisions similar to those in this subchapter were contained in Pub. L. 99–14
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted "in the Office" for "in the Director" and struck out "hereinafter" before "in this section", and in second sentence, substituted "Office" for "office" in two places.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, in first sentence, substituted "in the Office" for "in the Director" andstruck out "hereinafter" before "in this section", and in second sentence, substituted "Office" for "office" in two places.
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and "The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
 

@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -110,7 +110,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Authority to lease aircraft to respond to a terrorist attack abroad
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of theDepartment of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
 #### (7) Rapid response procedures
 
@@ -141,6 +141,32 @@ By the authority vested in me by the Constitution and laws of the United States 
 You are hereby authorized and directed to publish this delegation in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
+
+Pub. L. 114–113, div. M, title V, §513, Dec. 18, 2015, 129 Stat. 2926, provided that:
+
+"(a)
+
+Restricted Access Space Requirement.—Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act \[Dec. 18, 2015\], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility.
+
+"(b)
+
+National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary—
+
+&emsp;"(1) determines that such waiver is in the national security interest of the United States; and
+
+&emsp;"(2) submits a written justification for such waiver to the appropriate congressional committees not later than 90 days before exercising such waiver.
+
+"(c)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\];
+
+&emsp;"(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+
+&emsp;"(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives."
 
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries
 

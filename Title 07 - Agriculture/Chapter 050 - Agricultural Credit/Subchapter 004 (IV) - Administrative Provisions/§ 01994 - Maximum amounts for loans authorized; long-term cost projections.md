@@ -76,7 +76,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;(i) beginning on August 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers under the down payment loan program established under section 1935 of this title, if sufficient direct farm ownership loan funds are not otherwise available; and
 
-&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use availableunsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
+&emsp;&emsp;&emsp;(ii) beginning on September 1 of each fiscal year, the Secretary shall use available unsubsidized guaranteed farm operating loan funds to provide direct farm ownership loans approved by the Secretary to qualified beginning farmers and ranchers, if sufficient direct farm ownership loan funds are not otherwise available.
 
 #### (B) Limitation
 
@@ -114,7 +114,7 @@ For definition of "this chapter", referred to in subsecs. (a) and (d)(2), see no
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

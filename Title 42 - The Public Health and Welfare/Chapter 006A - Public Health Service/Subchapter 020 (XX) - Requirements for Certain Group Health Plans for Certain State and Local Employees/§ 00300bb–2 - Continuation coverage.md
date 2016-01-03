@@ -4,7 +4,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (1) Type of benefit coverage
 
-&emsp;The coverage must consist of coverage which, as of the time the coverage is beingprovided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
+&emsp;The coverage must consist of coverage which, as of the time the coverage is being provided, is identical to the coverage provided under the plan to similarly situated beneficiaries under the plan with respect to whom a qualifying event has not occurred. If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part <sup>1</sup> in connection with such group.
 
 #### (2) Period of coverage
 
@@ -104,7 +104,7 @@ Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generall
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)" before ", or".
 
-Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
+Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted "at any time during the first 60 days of continuationcoverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
 
 <b>1989</b>—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months."
 
@@ -118,7 +118,7 @@ Par. (3). Pub. L. 101–239, §6801(b)(3)(A), which directed the general amendme
 
 Pub. L. 101–239, §6702(b), inserted at end of concluding provision "In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to '102 percent' is deemed a reference to '150 percent' for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A)." See Amendment note above.
 
-<b>1986</b>—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end "If coverage is modified under the plan for anygroup of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group."
+<b>1986</b>—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end "If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group."
 
 Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. This subchapter is not divided into parts.</i>
 

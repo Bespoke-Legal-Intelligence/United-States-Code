@@ -22,7 +22,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(A) Conveyance, transfer, or encumbrance of any of the mortgaged property, or permitting the conveyance, transfer, or encumbrance of such property, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(B) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, or paying out anyfunds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
+&emsp;&emsp;(B) Assignment, transfer, disposition, or encumbrance of any personal property of the project, including rents, or paying out any funds, except for reasonable operating expenses and necessary repairs, without the prior written approval of the Secretary.
 
 &emsp;&emsp;(C) Conveyance, assignment, or transfer of any beneficial interest in any trust holding title to the property, or the interest of any general partner in a partnership owning the property, or any right to manage or receive the rents and profits from the mortgaged property, without the prior written approval of the Secretary.
 

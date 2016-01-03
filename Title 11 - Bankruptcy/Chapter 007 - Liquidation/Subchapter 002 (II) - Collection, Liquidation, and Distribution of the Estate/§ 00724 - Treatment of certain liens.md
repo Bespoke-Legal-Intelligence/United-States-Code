@@ -10,7 +10,7 @@
 
 &emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
-&emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is notavoidable under this title and that is junior to such tax lien;
+&emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 
 &emsp;(5) fifth, to the holder of such tax lien, to the extent that such holder's allowed claim secured by such tax lien is not paid under paragraph (3) of this subsection; and
 
@@ -38,7 +38,7 @@
 
 #### legislative statements
 
-Section 724 of the House amendment adopts the provision taken in the House bill and rejects the provision taken in the Senate amendment. In effect, a tax claim secured by a lien is treated as a claim between the fifth and sixth priority in a case under chapter 7 rather than as a secured claim.
+Section 724 of the House amendment adopts the provision taken in the House bill and rejects the provisiontaken in the Senate amendment. In effect, a tax claim secured by a lien is treated as a claim between the fifth and sixth priority in a case under chapter 7 rather than as a secured claim.
 
 Treatment of certain liens: The House amendment modifies present law by requiring the subordination of tax liens on both real and personal property to the payment of claims having a priority. This means that assets are to be distributed from the debtor's estate to pay higher priority claims before the tax claims are paid, even though the tax claims are properly secured. Under present law and the Senate amendment only tax liens on personal property, but not on real property, are subordinated to the payment of claims having a priority above the priority for tax claims.
 

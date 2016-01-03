@@ -2,7 +2,7 @@
 
 #### (a) Trade readjustment allowance conditions
 
-Payment of a trade readjustment allowance shall be made to an adversely affected worker covered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins on or after the date of such certification, if the following conditions are met:
+Payment of a trade readjustment allowance shall be made to an adversely affected workercovered by a certification under subpart A of this part who files an application for such allowance for any week of unemployment which begins on or after the date of such certification, if the following conditions are met:
 
 &emsp;(1) Such worker's total or partial separation before the worker's application under this part occurred—
 
@@ -48,11 +48,11 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;&emsp;(IV) in the case of a worker who fails to enroll by the date required by subclause (I), (II), or (III), as the case may be, due to the failure to provide the worker with timely information regarding the date specified in such subclause, the last day of a period determined by the Secretary, or
 
-&emsp;&emsp;&emsp;(V) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c) of this section,
+&emsp;&emsp;&emsp;(V) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c),
 
 &emsp;&emsp;(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a training program approved by the Secretary under section 2296(a) of this title, or
 
-&emsp;&emsp;(C) has received a written statement under subsection (c)(1) of this section after the date described in subparagraph (B).
+&emsp;&emsp;(C) has received a written statement under subsection (c)(1) after the date described in subparagraph (B).
 
 #### (b) Withholding of trade readjustment allowance pending beginning or resumption of participation in training program; period of applicability
 
@@ -62,13 +62,13 @@ If—
 
 &emsp;&emsp;(A) the adversely affected worker—
 
-&emsp;&emsp;&emsp;(i) has failed to begin participation in the training program the enrollment in which meets the requirement of subsection (a)(5) of this section, or
+&emsp;&emsp;&emsp;(i) has failed to begin participation in the training program the enrollment in which meets the requirement of subsection (a)(5), or
 
 &emsp;&emsp;&emsp;(ii) has ceased to participate in such training program before completing such training program, and
 
 &emsp;&emsp;(B) there is no justifiable cause for such failure or cessation, or
 
-&emsp;(2) the certification made with respect to such worker under subsection (c)(1) of this section is revoked under subsection (c)(2) of this section,
+&emsp;(2) the certification made with respect to such worker under subsection (c)(1) is revoked under subsection (c)(2),
 
 > no trade readjustment allowance may be paid to the adversely affected worker under this division for the week in which such failure, cessation, or revocation occurred, or any succeeding week, until the adversely affected worker begins or resumes participation in a training program approved under section 2296(a) of this title.
 
@@ -76,7 +76,7 @@ If—
 
 #### (1) Issuance of waivers
 
-&emsp;The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) of this section if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
+&emsp;The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
 
 #### (A) Health
 
@@ -118,11 +118,11 @@ If—
 
 &emsp;&emsp;An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
 
-(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009,123 Stat. 371, 375, 376, 395; Pub. L. 112–40, title II, §§201(b), (c), 212(a), Oct. 21, 2011, 125 Stat. 403, 404.)
+(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395; Pub. L. 112–40, title II, §§201(b), (c), 212(a), Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on February 13, 2011
+#### Reversion to Provisions in Effect on January 1, 2014
 
-<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### References in Text
 
@@ -130,9 +130,13 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -200,7 +204,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–318 added subpar. (D) and substituted "subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D))" for "paragraph (A) or (C), or both" in closing provisions.
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–418, §1423(a)(1), amended par. (5) generally. Prior to amendment, par.\(5) read as follows: "Such worker, unless the Secretary has determined that no acceptable job search program is reasonably available—
 
 &emsp;"(A) is enrolled in a job search program approved by the Secretary under section 2297(c) of this title, or
 
@@ -218,15 +222,23 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
 
+#### Effective and Termination Dates of 2015 Revival
+
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -258,7 +270,7 @@ Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 
 
 "(d)
 
-Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted underthe Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986."
+Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986."
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -296,5 +308,5 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

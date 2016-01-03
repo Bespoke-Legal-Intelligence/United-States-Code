@@ -12,7 +12,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 #### (3) Critical foreign language
 
-&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for Economic Security Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
+&emsp;Except as otherwise provided, the term "critical foreign language" means each of the languages contained in the list of critical languages designated by the Secretary in the Federal Register on August 2, 1985 (50 Fed. Reg. 31412; promulgated under the authority of section 212(d) of the Education for EconomicSecurity Act (repealed by section 2303 of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988)), as updated by the Secretary from time to time and published in the Federal Register, except that in the implementation of this definition with respect to a specific title, the Secretary may set priorities according to the purposes of such title and the national security, economic competitiveness, and educational needs of the United States.
 
 #### (4) Department
 
@@ -106,7 +106,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 &emsp;The term "school or department of divinity" means an institution, or a department or a branch of an institution, the program of instruction of which is designed for the education of students—
 
-&emsp;&emsp;(A) to prepare the students to become ministers of religion or to enter upon some other religious vocation (or to provide continuing training for any such vocation); or
+&emsp;&emsp;(A) to prepare the students to become ministers of religion or to enter upon some otherreligious vocation (or to provide continuing training for any such vocation); or
 
 &emsp;&emsp;(B) to prepare the students to teach theological subjects.
 
@@ -156,7 +156,7 @@ In this chapter and part C of subchapter I of chapter 34 of title 42:
 
 &emsp;&emsp;(B) reduces barriers in instruction, provides appropriate accommodations, supports, and challenges, and maintains high achievement expectations for all students, including students with disabilities and students who are limited English proficient.
 
-(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086.)
+(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 110–315, title I, §103(a), Aug. 14, 2008, 122 Stat. 3086; Pub. L. 114–95, title IX, §9215(oo)(1), Dec. 10, 2015, 129 Stat. 2177.)
 
 #### References in Text
 
@@ -184,7 +184,7 @@ A prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 102–3
 
 Another prior section 1004, Pub. L. 89–329, title I, §104, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1376, related to administrative provisions and powers of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1004, Pub. L. 89–329, title I, §104, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 94–482, title I, §101(b)(3), Oct. 12, 1976, 90 Stat. 2084; Pub. L. 95–43, §1(a)(2), June 15, 1977, 91 Stat. 213, described the allowable uses of States' allotments of funds, prior to thegeneral amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, related to peer review of applications, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -204,7 +204,7 @@ Section 1007, Pub. L. 89–329, title I, §108, formerly §107, Nov. 8, 1965, 79
 
 Section 1008, Pub. L. 89–329, title I, §109, formerly §108, Nov. 8, 1965, 79 Stat. 1222, renumbered Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, and amended Pub. L. 94–482, title I, §101(d), Oct. 12, 1976, 90 Stat. 2085, provided for judicial review of actions of Commissioner of Education and scope of that review.
 
-Section 1008a, Pub. L. 89–329, title I, §110, as added Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, and amended Pub. L. 94–135, title II, §201, Nov. 28, 1975, 89 Stat. 726; Pub. L. 94–482, title I, §101(g)(2), Oct. 12,1976, 90 Stat. 2086, provided for programs and projects relating to problems of the elderly.
+Section 1008a, Pub. L. 89–329, title I, §110, as added Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, and amended Pub. L. 94–135, title II, §201, Nov. 28, 1975, 89 Stat. 726; Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for programs and projects relating to problems of the elderly.
 
 Section 1008b, Pub. L. 89–329, title I, §111, as added Pub. L. 94–482, title I, §101(e), Oct. 12, 1976, 90 Stat. 2085, related to technical assistance and administration.
 
@@ -213,6 +213,10 @@ Section 1009, Pub. L. 89–329, title I, §112, formerly §109, Nov. 8, 1965, 79
 Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79 Stat. 1224, renumbered §111, Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, renumbered §112, Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, renumbered §113 and amended Pub. L. 94–482, title I, §101(e), (f)(2), Oct. 12, 1976, 90 Stat. 2085, 2086, directed that nothing in the section be held to modify any authority under the Smith-Lever Act, section 341 et seq. of Title 7, Agriculture.
 
 #### Amendments
+
+<b>2015</b>—Pars. (9) to (11), (16). Pub. L. 114–95, §9215(oo)(1)(A)–(D), made technical amendments to references in original act which appear in text as references to section 7801 of this title.
+
+Par. (20). Pub. L. 114–95, §9215(oo)(1)(E), which directed technical amendment in par. (21) to reference in original act which appears in text as reference to section 7801 of this title, was executed by making the amendment in par. (20), to reflect the probable intent of Congress. The reference did not appear in par. (21).
 
 <b>2008</b>—Pub. L. 110–315, §103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
 
@@ -223,6 +227,10 @@ Pars. (17) to (24). Pub. L. 110–315, §103(a)(1), added pars. (17) to (24).
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -36,22 +36,20 @@
 
 |  |  |
 | :--- | ---: |
-| [6751\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006751%20-%20State%20flexibility%20in%20multistate%20licensing%20reforms.md) | State flexibility in multistate licensing reforms. |
-| [6752\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006752%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers.md) | National Association of Registered Agents and Brokers. |
-| [6753\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006753%20-%20Purpose.md) | Purpose. |
-| [6754\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006754%20-%20Relationship%20to%20the%20Federal%20Government.md) | Relationship to the Federal Government. |
-| [6755\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006755%20-%20Membership.md) | Membership. |
-| [6756\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006756%20-%20Board%20of%20directors.md) | Board of directors. |
-| [6757\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006757%20-%20Officers.md) | Officers. |
-| [6758\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006758%20-%20Bylaws%2C%20rules%2C%20and%20disciplinary%20action.md) | Bylaws, rules, and disciplinary action. |
-| [6759\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006759%20-%20Assessments.md) | Assessments. |
-| [6760\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006760%20-%20Functions%20of%20the%20NAIC.md) | Functions of the NAIC. |
-| [6761\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006761%20-%20Liability%20of%20the%20Association%20and%20the%20directors%2C%20officers%2C%20and%20employees%20of%20the%20Association.md) | Liability of the Association and the directors, officers, and employees of the Association. |
-| [6762\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006762%20-%20Elimination%20of%20NAIC%20oversight.md) | Elimination of NAIC oversight. |
-| [6763\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006763%20-%20Relationship%20to%20State%20law.md) | Relationship to State law. |
-| [6764\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006764%20-%20Coordination%20with%20other%20regulators.md) | Coordination with other regulators. |
-| [6765\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006765%20-%20Judicial%20review.md) | Judicial review. |
-| [6766\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006766%20-%20Definitions.md) | Definitions. |
+| [6751\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006751%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers.md) | National Association of Registered Agents and Brokers. |
+| [6752\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006752%20-%20Purpose.md) | Purpose. |
+| [6753\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006753%20-%20Membership.md) | Membership. |
+| [6754\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006754%20-%20Board%20of%20directors.md) | Board of directors. |
+| [6755\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006755%20-%20Bylaws%2C%20standards%2C%20and%20disciplinary%20actions.md) | Bylaws, standards, and disciplinary actions. |
+| [6756\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006756%20-%20Powers.md) | Powers. |
+| [6757\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006757%20-%20Report%20by%20the%20Association.md) | Report by the Association. |
+| [6758\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006758%20-%20Liability%20of%20the%20Association%20and%20the%20Board%20members%2C%20officers%2C%20and%20employees%20of%20the%20Association.md) | Liability of the Association and the Board members, officers, and employees of the Association. |
+| [6759\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006759%20-%20Presidential%20oversight.md) | Presidential oversight. |
+| [6760\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006760%20-%20Relationship%20to%20State%20law.md) | Relationship to State law. |
+| [6761\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006761%20-%20Coordination%20with%20Financial%20Industry%20Regulatory%20Authority.md) | Coordination with Financial Industry Regulatory Authority. |
+| [6762\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006762%20-%20Right%20of%20action.md) | Right of action. |
+| [6763\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006763%20-%20Federal%20funding%20prohibited.md) | Federal funding prohibited. |
+| [6764\.](Subchapter%20003%20%28III%29%20-%20National%20Association%20of%20Registered%20Agents%20and%20Brokers/%C2%A7%2006764%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

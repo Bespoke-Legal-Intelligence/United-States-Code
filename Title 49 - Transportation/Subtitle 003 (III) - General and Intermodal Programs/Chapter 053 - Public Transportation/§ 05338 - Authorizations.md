@@ -2,79 +2,95 @@
 
 (a)
 
-Formula Grants.—
+Grants.—
 
 &emsp;(1)
 
-In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013, $8,595,000,000 for fiscal year 2014, and $5,722,150,685 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+In general.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5312, 5314, 5318, 5335, 5337, 5339, and 5340, section 20005(b) of the Federal Public Transportation Act of 2012, and sections <sup>1</sup> 3006(b) of the Federal Public Transportation Act of 2015—
+
+&emsp;&emsp;(A) $9,347,604,639 for fiscal year 2016;
+
+&emsp;&emsp;(B) $9,534,706,043 for fiscal year 2017;
+
+&emsp;&emsp;(C) $9,733,353,407 for fiscal year 2018;
+
+&emsp;&emsp;(D) $9,939,380,030 for fiscal year 2019; and
+
+&emsp;&emsp;(E) $10,150,348,462 for fiscal year 2020.
 
 &emsp;(2)
 
 Allocation of funds.—Of the amounts made available under paragraph (1)—
 
-&emsp;&emsp;(A) $126,900,000 for fiscal year 2013, $128,800,000 for fiscal year 2014, and $85,749,041 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5305;
+&emsp;&emsp;(A) $130,732,000 for fiscal year 2016, $133,398,933 for fiscal year 2017, $136,200,310 for fiscal year 2018, $139,087,757 for fiscal year 2019, and $142,036,417 for fiscal year 2020, shall be available to carry out section 5305;
 
-&emsp;&emsp;(B) $10,000,000 for each of fiscal years 2013 and 2014 and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
+&emsp;&emsp;(B) $10,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
 
-&emsp;&emsp;(C) $4,397,950,000 for fiscal year 2013, $4,458,650,000 for fiscal year 2014, and $2,968,361,507 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+&emsp;&emsp;(C) $4,538,905,700 for fiscal year 2016, $4,629,683,814 for fiscal year 2017, $4,726,907,174 for fiscal year 2018, $4,827,117,606 for fiscal year 2019, and $4,929,452,499 for fiscal year 2020 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
 
-&emsp;&emsp;(D) $254,800,000 for fiscal year 2013, $258,300,000 for fiscal year 2014, and $171,964,110 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
+&emsp;&emsp;(D) $262,949,400 for fiscal year 2016, $268,208,388 for fiscal year 2017, $273,840,764 for fiscal year 2018, $279,646,188 for fiscal year 2019, and $285,574,688 for fiscal year 2020 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
 
-&emsp;&emsp;(E) $599,500,000 for fiscal year 2013, $607,800,000 for fiscal year 2014, and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013, $30,000,000 for fiscal year 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013, $20,000,000 for fiscal year 2014, and $13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5311(c)(2);
+&emsp;&emsp;(E) $2,000,000 for fiscal year 2016, $3,000,000 for fiscal year 2017, $3,250,000 for fiscal year 2018, $3,500,000 for fiscal year 2019 and $3,500,000 for fiscal year 2020 shall be available for the pilot program for innovative coordinated access and mobility under section 3006(b) of the Federal Public Transportation Act of 2015;
 
-&emsp;&emsp;(F) $3,000,000 for each of fiscal years 2013 and 2014 and $1,997,260 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for bus testing under section 5318;
+&emsp;&emsp;(F) $619,956,000 for fiscal year 2016, $632,355,120 for fiscal year 2017, $645,634,578 for fiscal year 2018, $659,322,031 for fiscal year 2019, and $673,299,658 for fiscal year 2020 shall be available to provide financial assistance for rural areas under section 5311, of which not less than—
 
-&emsp;&emsp;(G) $5,000,000 for each of fiscal years 2013 and 2014 and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for the national transit institute under section 5322(d);
+&emsp;&emsp;&emsp;(i) $35,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5311(c)(1); and
 
-&emsp;&emsp;(H) $3,850,000 for each of fiscal years 2013 and 2014 and $2,563,151 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5335;
+&emsp;&emsp;&emsp;(ii) $20,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5311(c)(2);
 
-&emsp;&emsp;(I) $2,136,300,000 for fiscal year 2013, $2,165,900,000 for fiscal year 2014, and $1,441,955,342 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5337;
+&emsp;&emsp;(G) $28,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312, of which—
 
-&emsp;&emsp;(J) $422,000,000 for fiscal year 2013, $427,800,000 for fiscal year 2014, and $284,809,315 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available for the bus and bus facilities program under section 5339; and
+&emsp;&emsp;&emsp;(i) $3,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312(h); and
 
-&emsp;&emsp;(K) $518,700,000 for fiscal year 2013, $525,900,000 for fiscal year 2014, and $350,119,726 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
+&emsp;&emsp;&emsp;(ii) $5,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5312(i);
+
+&emsp;&emsp;(H) $9,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5314; of which $5,000,000 shall be available for the national transit institute under section 5314(c);
+
+&emsp;&emsp;(I) $3,000,000 for each of fiscal years 2016 through 2020 shall be available for bus testing under section 5318;
+
+&emsp;&emsp;(J) $4,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5335;
+
+&emsp;&emsp;(K) $2,507,000,000 for fiscal year 2016, $2,549,670,000 for fiscal year 2017, $2,593,703,558 for fiscal year 2018, $2,638,366,859 for fiscal year 2019, and $2,683,798,369 for fiscal year 2020 shall be available to carry out section 5337;
+
+&emsp;&emsp;(L) $427,800,000 for fiscal year 2016, $436,356,000 for fiscal year 2017, $445,519,476 for fiscal year 2018, $454,964,489 for fiscal year 2019, and $464,609,736 for fiscal year 2020 shall be available for the bus and buses facilities program under section 5339(a);
+
+&emsp;&emsp;(M) $268,000,000 for fiscal year 2016, $283,600,000 for fiscal year 2017, $301,514,000 for fiscal year 2018, $322,059,980 for fiscal year 2019, and $344,044,179 for fiscal year 2020 shall be available for buses and bus facilities competitive grants under section 5339(b) and no or low emission grants under section 5339(c), of which $55,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5339(c); and
+
+&emsp;&emsp;(N) $536,261,539 for fiscal year 2016, $544,433,788 for fiscal year 2017, $552,783,547 for fiscal year 2018, $561,315,120 for fiscal year 2019 and $570,032,917 for fiscal year 2020, to carry out section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311, of which—
+
+&emsp;&emsp;&emsp;(i) $272,297,083 for fiscal year 2016, $279,129,510 for fiscal year 2017, $286,132,747 for fiscal year 2018, $293,311,066 for fiscal year 2019, $300,668,843 for fiscal year 2020 shall be for growing States under section 5340(c); and
+
+&emsp;&emsp;&emsp;(ii) $263,964,457 for fiscal year 2016, $265,304,279 for fiscal year 2017, $266,650,800 for fiscal year 2018, $268,004,054 for fiscal year 2019, $269,364,074 for fiscal year 2020 shall be for high density States under section 5340(d).
 
 (b)
 
-Research, Development Demonstration and Deployment Projects.—There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013, $70,000,000 for fiscal year 2014, and $46,602,740 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+Research, Development, Demonstration, and Deployment Program.—There are authorized to be appropriated to carry out section 5312, other than subsections (h) and (i) of that section, $20,000,000 for each of fiscal years 2016 through 2020.
 
 (c)
 
-Transit Cooperative Research Program.—There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+Technical Assistance and Training.—There are authorized to be appropriated to carry out section 5314, $5,000,000 for each of fiscal years 2016 through 2020.
 
 (d)
 
-Technical Assistance and Standards Development.—There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013, $7,000,000 for fiscal year 2014, and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309 of this title and section 3005(b) of the Federal Public Transportation Act of 2015, $2,301,785,760 for each of fiscal years 2016 through 2020.
 
 (e)
-
-Human Resources and Training.—There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013, $5,000,000 for fiscal year 2014, and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015.
-
-(f)
-
-Emergency Relief Program.—There are authorized to be appropriated such sums as are necessary to carry out section 5324.
-
-(g)
-
-Capital Investment Grants.—There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013, $1,907,000,000 for fiscal year 2014, and $1,269,591,781 for the period beginning on October 1, 2014, and ending on May 31, 2015.
-
-(h)
 
 Administration.—
 
 &emsp;(1)
 
-In general.—There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013, $104,000,000 for fiscal year 2014, and $69,238,356 for the period beginning on October 1, 2014, and ending on May 31, 2015.
+In general.—There are authorized to be appropriated to carry out section 5334, $115,016,543 for each of fiscal years 2016 through 2020.
 
 &emsp;(2)
 
-Section 5329.—Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2013 and 2014 and not less than $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5329.
+Section 5329.—Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5329.
 
 &emsp;(3)
 
-Section 5326.—Of the amounts made available under paragraph (2), not less than $1,000,000 for each of fiscal years 2013 and 2014 and not less than $665,753 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be available to carry out section 5326.
+Section 5326.—Of the amounts made available under paragraph (2), not less than $2,000,000 for each of fiscal years 2016 through 2020 shall be available to carry out section 5326.
 
-(i)
+(f)
 
 Oversight.—
 
@@ -88,13 +104,15 @@ In general.—Of the amounts made available to carry out this chapter for a fisc
 
 &emsp;&emsp;(C) 1 percent of amounts made available to carry out section 5309.
 
-&emsp;&emsp;(D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 126 <sup>1</sup> Stat. 4968).
+&emsp;&emsp;(D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 126 Stat. 4968).
 
 &emsp;&emsp;(E) 0.5 percent of amounts made available to carry out section 5310.
 
 &emsp;&emsp;(F) 0.5 percent of amounts made available to carry out section 5311.
 
-&emsp;&emsp;(G) 0.75 percent of amounts made available to carry out section 5337(c).
+&emsp;&emsp;(G) 1 percent of amounts made available to carry out section 5337, of which not less than 0.25 percent of amounts made available for this subparagraph shall be available to carry out section 5329.
+
+&emsp;&emsp;(H) 0.75 percent of amounts made available to carry out section 5339.
 
 &emsp;(2)
 
@@ -114,7 +132,7 @@ Government share of costs.—The Government shall pay the entire cost of carryin
 
 Availability of certain funds.—Funds made available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement.
 
-(j)
+(g)
 
 Grants as Contractual Obligations.—
 
@@ -126,11 +144,11 @@ Grants financed from highway trust fund.—A grant or contract that is approved 
 
 Grants financed from general fund.—A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
 
-(k)
+(h)
 
 Availability of Amounts.—Amounts made available by or appropriated under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985; Pub. L. 113–159, title I, §1203, Aug. 8, 2014, 128 Stat. 1845.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124; Pub. L. 108–202, §9(c), (e)–(g), (i), (k), Feb. 29, 2004, 118 Stat. 485–487; Pub. L. 108–224, §7(c), (e)–(g), (i), (k), Apr. 30, 2004, 118 Stat. 633–636; Pub. L. 108–263, §7(c), (e)–(g), (i), (k), June 30, 2004, 118 Stat. 704–707; Pub. L. 108–280, §7(c), (e)–(g), (i), (k), July 30, 2004, 118 Stat. 882–884; Pub. L. 108–310, §8(c), (e)–(g), (i), (k), Sept. 30, 2004, 118 Stat. 1154–1157; Pub. L. 109–14, §7(b), (d)–(f), (h), (j), May 31, 2005, 119 Stat. 331–333; Pub. L. 109–20, §7(b), (d)–(f), (h), (j), July 1, 2005, 119 Stat. 353–355; Pub. L. 109–35, §7(b), (d)–(f), (h), (j), July 20, 2005, 119 Stat. 386–388; Pub. L. 109–37, §7(b), (d)–(f), (h), (j), July 22, 2005, 119 Stat. 401–403; Pub. L. 109–40, §7(b), (d)–(f), (h), (j), July 28, 2005, 119 Stat. 417–419; Pub. L. 109–42, §5(a), July 30, 2005, 119 Stat. 436; Pub. L. 109–59, title III, §3036, Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(n), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §436, Mar. 18, 2010, 124 Stat. 90; Pub. L. 111–322, title II, §2306, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §306, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §136, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §306, Mar. 30, 2012, 126 Stat. 278; Pub. L. 112–140, title III, §306, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20028, div. G, title III, §113006, July 6, 2012, 126 Stat. 726, 985; Pub. L. 113–159, title I, §1203, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1203, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1203, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1203, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1203, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3016, Dec. 4, 2015, 129 Stat. 1479.)
 
 Historical and Revision Notes
 
@@ -272,9 +290,175 @@ This amends 49:5338(g)(2) to correct an erroneous cross-reference.
 
 Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsec. (a)(1), (2)(B), is section 20005(b) of Pub. L. 112–141, which is set out as a note under section 5303 of this title.
 
-Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (i)(1)(D), is section 601 of div. B of Pub. L. 110–432, Oct. 16, 2008, 122 Stat. 4968, which is not classified to the Code.
+Section 3006(b) of the Federal Public Transportation Act of 2015, referred to in subsec. (a)(1), (2)(E), is section 3006(b) of Pub. L. 114–94, which is set out as a note under section 5310 of this title.
+
+Section 3005(b) of the Federal Public Transportation Act of 2015, referred to in subsec. (d), is section 3005(b) of Pub. L. 114–94, which is set out as a note under section 5309 of this title.
+
+Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (f)(1)(D), is section 601 of div. B of Pub. L. 110–432, Oct. 16, 2008, 122 Stat. 4968, which is not classified to the Code.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94 amended section generally, substituting provisions relating to fiscal years 2016 to 2020 for provisions relating to fiscal years 2013 to 2015.
+
+Subsec. (a)(1). Pub. L. 114–87, §1203(a)(1), substituted "and $1,526,434,426 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(a)(1), substituted "and $1,197,663,934 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $681,024,590 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(a)(1), substituted "$8,595,000,000 for fiscal year 2015, and $681,024,590 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $7,158,575,342 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(a)(1), substituted "and $7,158,575,342 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $5,722,150,685 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (a)(2)(A). Pub. L. 114–87, §1203(a)(2)(A), substituted "and $22,874,317 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $17,947,541 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(A), substituted "and $17,947,541 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $10,205,464 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(A), substituted "$128,800,000 for fiscal 2015, and $10,205,464 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $107,274,521 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(A), substituted "and $107,274,521 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $85,749,041 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(B). Pub. L. 114–87, §1203(a)(2)(B), substituted "and $1,775,956 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $1,393,443 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(B), substituted "and $1,393,443 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $792,350 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(B), substituted "for each of fiscal years 2013 through 2015 and $792,350 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each of fiscal years 2013 and 2014 and $8,328,767 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(B), substituted "and $8,328,767 for the period beginning on October 1, 2014,and ending on July 31, 2015," for "and $6,657,534 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(C). Pub. L. 114–87, §1203(a)(2)(C), substituted "and $791,836,749 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $621,287,295 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(C), substituted "and $621,287,295 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $353,281,011 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(C), substituted "$4,458,650,000 for fiscal year 2015, and $353,281,011 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $3,713,505,753 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(C), substituted "and $3,713,505,753 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $2,968,361,507 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(D). Pub. L. 114–87, §1203(a)(2)(D), substituted "and $45,872,951 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $35,992,623 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(D), substituted "and $35,992,623 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $20,466,393 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(D), substituted "$258,300,000 for fiscal year 2015, and $20,466,393 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $215,132,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(D), substituted "and $215,132,055 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $171,964,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(E). Pub. L. 114–87, §1203(a)(2)(E), substituted "and $107,942,623 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $84,693,443 for the period beginning on October 1, 2015, and ending on November 20, 2015,", "and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015,", and "and $3,551,913 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $2,786,885 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(E), substituted "and $84,693,443 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $48,159,016 for the period beginning on October 1, 2015, and ending on October 29, 2015,", "and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,", and "and $2,786,885 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $1,584,699 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(E), substituted "$607,800,000 for fiscal year 2015, and $48,159,016 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $506,222,466 for the period beginning on October 1, 2014, and ending on July 31, 2015,", "$30,000,000 for fiscal year 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,", and "$20,000,000 for fiscal year 2015, and $1,584,699 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $16,657,534 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(E), substituted "and $506,222,466 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $404,644,932 for the period beginning on October 1, 2014, and ending on May 31, 2015,", "and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,", and "and $16,657,534 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $13,315,068 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(F). Pub. L. 114–87, §1203(a)(2)(F), substituted "and $532,787 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $418,033 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(F), substituted "and $418,033 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $237,705 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(F), substituted "each of fiscal years 2013 through 2015 and $237,705 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2013 and 2014 and $2,498,630 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(F), substituted "and $2,498,630 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $1,997,260 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(G). Pub. L. 114–87, §1203(a)(2)(G), substituted "and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(G), substituted "and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(G), substituted "each of fiscal years 2013 through 2015 and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2013 and 2014 and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(G), substituted "and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(H). Pub. L. 114–87, §1203(a)(2)(H), substituted "and $683,743 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $536,475 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(H), substituted "and $536,475 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $305,055 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(H), substituted "each of fiscal years 2013 through 2015 and $305,055 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2013 and 2014 and $3,206,575 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(H), substituted "and $3,206,575 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $2,563,151 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(I). Pub. L. 114–87, §1203(a)(2)(I), substituted "and $384,654,372 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $301,805,738 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(I), substituted "and $301,805,738 for the period beginning on October 1, 2015,and ending on November 20, 2015," for "and $171,615,027 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(I), substituted "$2,165,900,000 for fiscal year 2015, and $171,615,027 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $1,803,927,671 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(I), substituted "and $1,803,927,671 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $1,441,955,342 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(J). Pub. L. 114–87, §1203(a)(2)(J), substituted "and $75,975,410 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $59,611,475 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(J), substituted "and $59,611,475 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $33,896,721 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(J), substituted "$427,800,000 for fiscal year 2015, and $33,896,721 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $356,304,658 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(J), substituted "and $356,304,658 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $284,809,315 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (a)(2)(K). Pub. L. 114–87, §1203(a)(2)(K), substituted "and $93,397,541 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $73,281,148 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(a)(2)(K), substituted "and $73,281,148 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $41,669,672 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(a)(2)(K), substituted "$525,900,000 for fiscal year 2015, and $41,669,672 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "and $438,009,863 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(a)(2)(K), substituted "and $438,009,863 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $350,119,726 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (b). Pub. L. 114–87, §1203(b), substituted "and $12,431,694 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $9,754,098 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(b), substituted "and $9,754,098 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $5,546,448 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(b), substituted "$70,000,000 for fiscal year 2015, and $5,546,448 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $58,301,370 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(b), substituted "and $58,301,370 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $46,602,740 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (c). Pub. L. 114–87, §1203(c), substituted "and $1,243,169 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $975,410 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(c), substituted "and $975,410 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $554,645 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(c), substituted "$7,000,000 for fiscal year 2015, and $554,645 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $5,830,137 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(c), substituted "and $5,830,137 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (d). Pub. L. 114–87, §1203(d), substituted "and $1,243,169 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $975,410 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(d), substituted "and $975,410 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $554,645 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(d), substituted "$7,000,000 for fiscal year 2015, and $554,645 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $5,830,137 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(d), substituted "and $5,830,137 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $4,660,274 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (e). Pub. L. 114–87, §1203(e), substituted "and $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(e), substituted "and $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(e), substituted "$5,000,000 for fiscal year 2015, and $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(e), substituted "and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (g). Pub. L. 114–87, §1203(f), substituted "and $338,674,863 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $265,729,508 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(f), substituted "and $265,729,508 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $151,101,093 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(f), substituted "$1,907,000,000 for fiscal year 2015, and $151,101,093 for the period beginning on October 1, 2015, and ending on October 29, 2015" for "and $1,558,295,890 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(f), substituted "and $1,558,295,890 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $1,269,591,781 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (h)(1). Pub. L. 114–87, §1203(g)(1), substituted "and $18,469,945 for the period beginning on October 1, 2015, and ending on December 4, 2015" for "and $14,491,803 for the period beginning on October 1, 2015, and ending on November 20, 2015".
+
+Pub. L. 114–73, §1203(g)(1), substituted "and $14,491,803 for the period beginning on October 1, 2015, and ending on November 20, 2015" for "and $8,240,437 for the period beginning on October 1, 2015, and ending on October 29, 2015".
+
+Pub. L. 114–41, §1203(g)(1), substituted "$104,000,000 for fiscal year 2015, and $8,240,437 for the period beginningon October 1, 2015, and ending on October 29, 2015" for "and $86,619,178 for the period beginning on October 1, 2014, and ending on July 31, 2015".
+
+Pub. L. 114–21, §1203(g)(1), substituted "and $86,619,178 for the period beginning on October 1, 2014, and ending on July 31, 2015" for "and $69,238,356 for the period beginning on October 1, 2014, and ending on May 31, 2015".
+
+Subsec. (h)(2). Pub. L. 114–87, §1203(g)(2), substituted "and not less than $887,978 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and not less than $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(g)(2), substituted "and not less than $696,721 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and not less than $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(g)(2), substituted "each of fiscal years 2013 through 2015 and not less than $396,175 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2013 and 2014 and not less than $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(g)(2), substituted "and not less than $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and not less than $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (h)(3). Pub. L. 114–87, §1203(g)(3), substituted "and not less than $177,596 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and not less than $139,344 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73, §1203(g)(3), substituted "and not less than $139,344 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and not less than $79,235 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41, §1203(g)(3), substituted "each of fiscal years 2013 through 2015 and not less than $79,235 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2013 and 2014 and not less than $832,877 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21, §1203(g)(3), substituted "and not less than $832,877 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and not less than $665,753 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–159, §1203(a)(1), substituted ", $8,595,000,000 for fiscal year 2014, and $5,722,150,685 for the period beginning on October 1, 2014, and ending on May 31, 2015" for "and $8,595,000,000 for fiscal year 2014".
 
@@ -324,7 +508,7 @@ Pub. L. 112–140, §§1(c), 306(a)(1), temporarily added subpar. (G), which mad
 
 Pub. L. 112–102, §306(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: "$4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012."
 
-Subsec. (b)(2)(A). Pub. L. 112–141, §113006(a)(2)(A), substituted "and $113,500,000 for each of fiscal years 2009 through 2012" for "$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(A). Pub. L. 112–141, §113006(a)(2)(A), substituted "and $113,500,000 for each of fiscal years 2009through 2012" for "$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(A), temporarily substituted "$86,260,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -378,7 +562,7 @@ Pub. L. 112–140, §§1(c), 306(a)(2)(I), temporarily substituted "$70,300,000 
 
 Pub. L. 112–102, §306(a)(2)(I), substituted "$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012," for "$92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009 through 2012" for "$26,900,000 for each of fiscal years2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
+Subsec. (b)(2)(J). Pub. L. 112–141, §113006(a)(2)(J), substituted "and $26,900,000 for each of fiscal years 2009through 2012" for "$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,".
 
 Pub. L. 112–140, §§1(c), 306(a)(2)(J), temporarily substituted "$20,444,000 for the period beginning on October 1, 2011, and ending on July 6, 2012," for "$20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,". See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -1394,6 +1578,10 @@ Subsec. (m). Pub. L. 102–240, §3049(c)(8), as added by Pub. L. 105–130, add
 
 <b>1996</b>—Subsec. (g)(2). Pub. L. 104–287 substituted "section 5311(b)(2)" for "section 5308(b)(2)".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective and Termination Dates of 2012 Amendment
 
 Amendment by section 20028 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
@@ -1409,6 +1597,20 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
+#### Obligation Ceiling
+
+Pub. L. 114–94, div. A, title III, §3018, Dec. 4, 2015, 129 Stat. 1487, provided that: "Notwithstanding any other provision of law, the total of all obligations from amounts made available from the Mass Transit Account of the Highway Trust Fund by subsection (a) of section 5338 of title 49, United States Code, and section 3028 of the Federal Public Transportation Act of 2015 \[section 3028 of Pub. L. 114–94, 129 Stat. 1495\] shall not exceed—
+
+&emsp;"(1) $9,347,604,639 in fiscal year 2016;
+
+&emsp;"(2) $9,733,706,043 in fiscal year 2017;
+
+&emsp;"(3) $9,733,353,407 in fiscal year 2018;
+
+&emsp;"(4) $9,939,380,030 in fiscal year 2019; and
+
+&emsp;"(5) $10,150,348,462 in fiscal year 2020."
 
 #### Allocations for National Research and Technology Programs
 
@@ -1468,5 +1670,5 @@ Pub. L. 99–500, §101(l) \[H.R. 5205, title III, §317\], Oct. 18, 1986, 100 S
 
 Pub. L. 99–190, §101(e) \[title III, §322\], Dec. 19, 1985, 99 Stat. 1267, 1287.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "122".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -16,7 +16,7 @@ Entry, Inspection, and Impoundment.—(1) In carrying out subsection (a) of this
 
 &emsp;(D) impound for not more than 72 hours for inspection a motor vehicle or motor vehicle equipment that the Secretary reasonably believes is an object of a violation of this chapter.
 
-(2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonablepromptness. The written notice may consist of a warrant issued under section 32707 of this title.
+(2) An inspection or impoundment under this subsection shall be conducted at a reasonable time, in a reasonable way, and with reasonable promptness. The written notice may consist of a warrant issued under section 32707 of this title.
 
 (c)
 

@@ -20,7 +20,7 @@ For each fiscal year and along with the budget materials submitted in support of
 
 #### (b) Feasibility and advisability report
 
-Not later than 120 days after December 19, 2014, the Secretary of Homeland Security, actingthrough the Under Secretary for Intelligence and Analysis, shall submit to the congressional intelligence committees a report that—
+Not later than 120 days after December 19, 2014, the Secretary of Homeland Security, acting through the Under Secretary for Intelligence and Analysis, shall submit to the congressional intelligence committees a report that—
 
 &emsp;(1) examines the feasibility and advisability of including the budget request for all intelligence activities of each intelligence component of the Department that predominantly support departmental missions, as designated by the Under Secretary for Intelligence and Analysis, in the Homeland Security Intelligence Program; and
 

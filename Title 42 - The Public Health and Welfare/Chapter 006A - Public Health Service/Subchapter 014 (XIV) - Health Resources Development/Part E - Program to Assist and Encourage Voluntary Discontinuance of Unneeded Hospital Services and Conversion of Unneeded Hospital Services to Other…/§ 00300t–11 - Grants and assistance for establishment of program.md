@@ -4,7 +4,7 @@ The Secretary shall, by April 1, 1980, establish a program under which—
 
 &emsp;(1) grants and technical assistance may be provided to hospitals in operation on October 4, 1979, (A) for the discontinuance of unneeded hospital services, and (B) for the conversion of unneeded hospital services to other health services needed by the community; and
 
-&emsp;(2) grants may be provided to State Agencies designated under section 300m(b)(3) <sup>1</sup> of this title for reducing excesses in resources and facilities of hospitals.
+&emsp;(2) grants may be provided to State Agencies designated under section 300m(b)(3) <sup>1</sup> of thistitle for reducing excesses in resources and facilities of hospitals.
 
 (July 1, 1944, ch. 373, title XVI, §1641, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 636.)
 

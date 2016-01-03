@@ -28,7 +28,7 @@ Such agreements may include one or more of the following incentives:
 
 &emsp;(8) Other incentives authorized in law.
 
-> With respect to any housing with a mortgage insured or otherwise assisted pursuant to section 1715z–1 of this title, the provisions of subsections (f) and (g) of section 1715z–1 of this title notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under section 1715z–1(f) of this title absent the requirements of this paragraph.
+> With respect to any housing with a mortgage insured or otherwise assisted pursuant to section1715z–1 of this title, the provisions of subsections (f) and (g) of section 1715z–1 of this title notwithstanding, the fair market rental charge for each unit in such housing may be increased in accordance with this subsection, but the owner shall pay to the Secretary all rental charges collected in excess of the basic rental charges, in an amount not greater than the fair market rental charges as such charges would have been established under section 1715z–1(f) of this title absent the requirements of this paragraph.
 
 (Pub. L. 100–242, title II, §219, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4256; amended Pub. L. 102–550, title III, §306, Oct. 28, 1992, 106 Stat. 3764.)
 

@@ -30,7 +30,7 @@ To advise the Secretary and the Congress there shall be a Colorado River Floodwa
 
 #### (b) Charter and operation; reports and recommendations
 
-The task force shall be chartered and operate under the provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
+The task force shall be chartered and operate under the provisions of the Federal AdvisoryCommittee Act (Public Law 92–463; 5 U.S.C. App.) and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
 
 &emsp;(1) the means to restore and maintain the Floodway specified in section 1600c of this title, including, but not limited to, specific instances where land transfers or relocations, or other changes in land management, might best effect the purposes of this chapter;
 

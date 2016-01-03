@@ -152,11 +152,11 @@ Objectives of Program.—The objectives of the program are as follows:
 
 Personnel To Be Assigned.—(1) The Secretary shall assign not less than 3,500 active component personnel to serve as advisers under the program.
 
-"(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active component personnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
+"(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active componentpersonnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
 
 "(d)
 
-Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of activeduty personnel assigned to the program decrease below the number specified for the pilot program."
+Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary's evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program."
 
 #### Reserve Forces Readiness
 

@@ -1,6 +1,6 @@
 ### §11325. Consolidation, merger, and acquisition of control: procedure
 
-(a) The Board shall publish notice of the application under section 11324 in the Federal Register by the end of the 30th day after the application is filed with the Board. However, if theapplication is incomplete, the Board shall reject it by the end of that period. The order of rejection is a final action of the Board. The published notice shall indicate whether the application involves—
+(a) The Board shall publish notice of the application under section 11324 in the Federal Register by the end of the 30th day after the application is filed with the Board. However, if the application is incomplete, the Board shall reject it by the end of that period. The order of rejection is a final action of the Board. The published notice shall indicate whether the application involves—
 
 &emsp;(1) the merger or control of at least two Class I railroads, as defined by the Board, to be decided within the time limits specified in subsection (b) of this section;
 

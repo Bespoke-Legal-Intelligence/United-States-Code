@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
+During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d), with semiannual interest coupon payments and a maturity period of 15 years—
 
 &emsp;(1) in an aggregate amount not to exceed $2,800,000,000; and
 
@@ -22,21 +22,21 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (1) Payment of interest during first 5-year period
 
-&emsp;During each year of the first 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay, without recourse to System institutions, other than that described in paragraph (5), all of the interest due on such obligation.
+&emsp;During each year of the first 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay, without recourse to System institutions, other than that described in paragraph (5), all of the interest due on such obligation.
 
 #### (2) Payment of interest during second 5-year period
 
 #### (A) In general
 
-&emsp;&emsp;During each year of the second 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation.
+&emsp;&emsp;During each year of the second 5-year period of the 10-year period beginning on the date of issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay all of the interest due on such obligation.
 
 #### (B) Payment by System banks to Financial Assistance Corporation
 
-&emsp;&emsp;During each year of the second 5-year period, System banks shall pay to the Financial Assistance Corporation 50 percent of the interest due on the obligations, except that System banks shall pay an additional 10 percent of the interest expense for each 1 percent that the unallocated retained earningsof the System (as determined under generally accepted accounting principles) exceed 5 percent of net assets (total assets less allowance for loan losses) based on a year-end financial statement for the preceding year.
+&emsp;&emsp;During each year of the second 5-year period, System banks shall pay to the Financial Assistance Corporation 50 percent of the interest due on the obligations, except that System banks shall pay an additional 10 percent of the interest expense for each 1 percent that the unallocated retained earnings of the System (as determined under generally accepted accounting principles) exceed 5 percent of net assets (total assets less allowance for loan losses) based on a year-end financial statement for the preceding year.
 
 #### (C) Allocation
 
-&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the interest due from System banks under this paragraph equal to—
+&emsp;&emsp;During each year of the second 5-year period, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial AssistanceCorporation, of the interest due from System banks under this paragraph equal to—
 
 &emsp;&emsp;&emsp;(i) the amount of the average accruing retail loan volume of the bank and its affiliated associations for the preceding year; divided by
 
@@ -48,13 +48,13 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (4) Payment of interest after first 10-year period
 
-&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
+&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a), the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
 
 #### (5) Repayment of Treasury-paid interest
 
 #### (A) In general
 
-&emsp;&emsp;On the maturity date of the last-maturing debt obligation issued under subsection (a) of this section, the Financial Assistance Corporation shall repay to the Secretary of the Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
+&emsp;&emsp;On the maturity date of the last-maturing debt obligation issued under subsection (a), the Financial Assistance Corporation shall repay to the Secretary of the Treasury the total amount of any annual interest charges on the debt obligations that Farm Credit System institutions (other than the Financial Assistance Corporation) have not previously paid, and the Financial Assistance Corporation shall not be required to pay any additional interest charges on the payments.
 
 #### (B) Assessment
 
@@ -84,11 +84,11 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Refund of recoveries
 
-&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received,and all earnings on the recoveries, to reduce the other banks' payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks' payments.
+&emsp;&emsp;&emsp;The Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks' payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks' payments.
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this titleshall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
@@ -114,7 +114,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) Time of repayment
 
-&emsp;&emsp;On maturity of an obligation issued under subsection (a) of this section, the obligation shall be repaid by the Financial Assistance Corporation.
+&emsp;&emsp;On maturity of an obligation issued under subsection (a), the obligation shall be repaid by the Financial Assistance Corporation.
 
 #### (B) Payments by institutions
 
@@ -136,11 +136,11 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;An annual appropriation shall not be made to the extent that the appropriation would exceed the institution's net income (as determined pursuant to generally accepted accounting principles) in that yearor to the extent that the appropriation would cause the institution's preferred stock to be impaired.
+&emsp;&emsp;&emsp;An annual appropriation shall not be made to the extent that the appropriation would exceed the institution's net income (as determined pursuant to generally accepted accounting principles) in that year or to the extent that the appropriation would cause the institution's preferred stock to be impaired.
 
 #### (iv) Use
 
-&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailable to pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The account shall be senior to all other unallocated surplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
+&emsp;&emsp;&emsp;The amount in the appropriated unallocated surplus account shall be unavailable to pay dividends or other allocations or distributions to shareholders or holders of participation certificates. The account shall be senior to all other unallocatedsurplus accounts but junior to all preferred and common stock for purposes of the application of operating losses.
 
 #### (v) Preferred stock
 
@@ -186,7 +186,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Payment by Corporation
 
-&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) of this section during the first 15 years after an obligation is issued under subsection (a) of this section, on the paymentof principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
+&emsp;&emsp;&emsp;If a System bank defaults on the payment of interest due under subsection (c) during the first 15 years after an obligation is issued under subsection (a), on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B), the Financial Assistance Corporation shall pay the amount due by the System bank out of the Trust Fund, and shall recover the amount due from the defaulting System bank, and such amount shall be paid to the Trust Fund.
 
 #### (ii) Payment by Insurance Fund
 
@@ -200,7 +200,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Evaluation
 
-&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
+&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a), the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
 
 #### (ii) Availability of evaluation
 
@@ -218,13 +218,13 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (A) Inability to pay
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) of this section or section 2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
+&emsp;&emsp;Notwithstanding any other provision of this chapter, if the Financial Assistance Corporation is unable to pay the principal or interest of any obligation issued under subsection (a) or section 2278a–9(e)(3)(A) of this title, the Secretary of the Treasury shall pay to the Financial Assistance Corporation the amount due which shall be used by the Financial Assistance Corporation to pay the obligation.
 
 #### (B) Recovery
 
 #### (i) Certain principal and interest obligations
 
-&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
+&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c), on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B), the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
 
 #### (ii) Principal of bonds issued to fund purchase of preferred stock
 
@@ -284,7 +284,7 @@ Subsec. (d)(1)(D), (E). Pub. L. 102–552, §305(2), redesignated subpar. (E) as
 
 Special rule.—For purposes of determining the average loan volume of Farm Credit Banks, loan volume shall consist of loans made by such banks with the exception of loans made to associations."
 
-Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading "Interest", in cl. (i), inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,", struck out "of the interest" after "the amount" in two places, and substituted "bank" for "institution" wherever appearing, in cl. (ii), struck out "of interest" after "the full amount", and substituted "defaulting bank" for "defaulting institution" and "any uncollected amount" for "such uncollected interest", and in cl. (iii), substituted "allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation." for "added to the amount of interest due from remaining System institutions, under subsection (c) of this section, and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D) of this section, shall pay to the Trust Fund a proportion of the uncollected interest equal to—
+Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck out former heading "Interest", in cl. (i), inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),", struck out "of the interest" after "the amount" in two places, and substituted "bank" for "institution" wherever appearing, in cl. (ii), struck out "of interest" after "the full amount", and substituted "defaulting bank" for "defaulting institution" and "any uncollected amount" for "such uncollected interest", and in cl. (iii), substituted "allocated to other System banks in accordance with the allocation mechanism applicable under this chapter to the particular defaulted obligation." for "added to the amount of interest due from remaining System institutions, under subsection (c), and each remaining System institution, subject to the special rule provided in subsection (c)(2)(D), shall pay to the Trust Fund a proportion of the uncollected interest equal to—
 
 &emsp;"(I) the amount of the performing loan volume of the institution (based on the average loan volume for the preceding year); divided by
 
@@ -296,7 +296,7 @@ Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted "banks" for "inst
 
 Subsec. (d)(4)(A). Pub. L. 102–552, §306(2)(A), inserted "or section 2278a–9(e)(3)(A) of this title".
 
-Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading "Interest payments", substituted "bank" for "institution" wherever appearing, and inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,".
+Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading "Interest payments", substituted "bank" for "institution" wherever appearing, and inserted "on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B),".
 
 Subsec. (d)(4)(B)(ii). Pub. L. 102–552, §306(2)(B)(ii), inserted heading and struck out former heading "Principal payments".
 
@@ -322,7 +322,7 @@ Pub. L. 100–399, §201(p), inserted "and Federal land banks" after "credit ban
 
 Subsec. (d)(1)(E). Pub. L. 100–399, §201(u), substituted "subparagraphs (B) and (C)" for "subparagraph (B)".
 
-Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, §201(v), substituted "subsection (c) of this section" for "this subsection".
+Subsec. (d)(3)(A)(i), (iii). Pub. L. 100–399, §201(v), substituted "subsection (c)" for "this subsection".
 
 Subsec. (d)(3)(B)(iii). Pub. L. 100–399, §201(w), inserted "is prohibited from redeeming or" after "If such institution".
 

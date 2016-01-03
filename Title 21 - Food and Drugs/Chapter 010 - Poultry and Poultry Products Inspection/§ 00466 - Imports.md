@@ -24,7 +24,7 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 (B) The Secretary may—
 
-&emsp;(i) determine, on a scientific basis, that the standard of the exporting country does not achieve the level of protection that the Secretary considers appropriate; and
+&emsp;(i) determine, on a scientific basis, that the standard of the exporting country does notachieve the level of protection that the Secretary considers appropriate; and
 
 &emsp;(ii) provide the basis for the determination in writing to the exporting country on request.
 

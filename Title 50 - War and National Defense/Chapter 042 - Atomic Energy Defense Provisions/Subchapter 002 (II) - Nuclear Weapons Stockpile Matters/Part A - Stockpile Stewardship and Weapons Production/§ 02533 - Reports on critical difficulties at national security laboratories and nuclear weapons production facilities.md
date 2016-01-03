@@ -38,7 +38,7 @@ Pub. L. 112–239, §3131(f)(1)(B), in first sentence, substituted "national sec
 
 Subsec. (b). Pub. L. 112–239, §3131(f)(1)(C), substituted "Administrator" for "Assistant Secretary" in heading and in two places in text.
 
-Subsec. (d). Pub. L. 113–66, §3146(c)(7)(B), substituted "assessment" for "certification" in heading and "submitted to the President and Congress with the matters required to be submitted under section 2525(f) of thistitle" for "included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President" in text.
+Subsec. (d). Pub. L. 113–66, §3146(c)(7)(B), substituted "assessment" for "certification" in heading and "submitted to the President and Congress with the matters required to be submitted under section 2525(f) of this title" for "included with the decision documents that accompany the annual certification of the safety and reliability of the United States nuclear weapons stockpile which is provided to the President" in text.
 
 Subsec. (e). Pub. L. 112–239, §3131(f)(1)(D), struck out subsec. (e), which defined terms "nuclear weapons laboratory" and "nuclear weapons production plant".
 

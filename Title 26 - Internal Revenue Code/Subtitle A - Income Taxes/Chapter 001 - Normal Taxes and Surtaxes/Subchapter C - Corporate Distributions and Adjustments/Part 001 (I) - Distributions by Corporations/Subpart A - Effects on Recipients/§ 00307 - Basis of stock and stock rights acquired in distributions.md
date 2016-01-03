@@ -18,7 +18,7 @@ If a shareholder in a corporation receives its stock or rights to acquire its st
 
 #### (2) Election
 
-&emsp;The election referred to in paragraph (1) shall be made in the return filed within thetime prescribed by law (including extensions thereof) for the taxable year in which such rights were received. Such election shall be made in such manner as the Secretary may by regulations prescribe, and shall be irrevocable when made.
+&emsp;The election referred to in paragraph (1) shall be made in the return filed within the time prescribed by law (including extensions thereof) for the taxable year in which such rights were received. Such election shall be made in such manner as the Secretary may by regulations prescribe, and shall be irrevocable when made.
 
 #### (c) Cross reference
 

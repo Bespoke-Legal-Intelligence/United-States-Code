@@ -64,7 +64,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
+&emsp;&emsp;&emsp;On the initiative of the Secretary or at the request of the applicant, the Secretarymay grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary determines that the conditions described in subclause (II) or (III) of subparagraph (A)(i) continue to be met; and
 
@@ -340,7 +340,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 &emsp;&emsp;&emsp;(i) the Commissioner shall request that the sponsor of the application make any labeling change that the Commissioner determines to be appropriate; and
 
-&emsp;&emsp;&emsp;(ii) if the sponsor does not agree within 30 days after the Commissioner's request to make a labeling change requested by the Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Committee.
+&emsp;&emsp;&emsp;(ii) if the sponsor does not agree within 30 days after the Commissioner's request to make a labeling change requested bythe Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Committee.
 
 #### (B) Action by the Pediatric Advisory Committee
 
@@ -384,7 +384,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (1) Reporting in first 18-month period
 
-&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverse event reports that have been received for suchdrug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
+&emsp;Beginning on September 27, 2007, during the 18-month period beginning on the date a labeling change is made pursuant to subsection (g), the Secretary shall ensure that all adverse event reports that have been received for such drug (regardless of when such report was received) are referred to the Office of Pediatric Therapeutics. In considering such reports, the Director of such Office shall provide for the review of such reports by the Pediatric Advisory Committee, including obtaining any recommendations of such committee regarding whether the Secretary should take action under this chapter in response to such reports.
 
 #### (2) Reporting in subsequent periods
 

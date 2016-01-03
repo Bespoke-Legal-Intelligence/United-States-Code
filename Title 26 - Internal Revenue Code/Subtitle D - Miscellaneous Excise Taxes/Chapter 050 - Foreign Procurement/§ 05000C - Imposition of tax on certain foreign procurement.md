@@ -2,7 +2,7 @@
 
 #### (a) Imposition of tax
 
-There is hereby imposed on any foreign person that receives a specified Federal procurement payment a tax equal to 2 percent of the amount of such specified Federal procurement payment.
+There is hereby imposed on any foreign person that receives a specified Federal procurementpayment a tax equal to 2 percent of the amount of such specified Federal procurement payment.
 
 #### (b) Specified Federal procurement payment
 

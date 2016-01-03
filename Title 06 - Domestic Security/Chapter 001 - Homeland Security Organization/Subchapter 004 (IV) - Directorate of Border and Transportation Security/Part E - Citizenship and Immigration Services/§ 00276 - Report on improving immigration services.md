@@ -26,5 +26,5 @@ The effective date of this chapter, referred to in subsec. (a), is 60 days after
 
 #### Change of Name
 
-Bureau of Border Security, referred to in subsec. (c), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H.Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
+Bureau of Border Security, referred to in subsec. (c), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 

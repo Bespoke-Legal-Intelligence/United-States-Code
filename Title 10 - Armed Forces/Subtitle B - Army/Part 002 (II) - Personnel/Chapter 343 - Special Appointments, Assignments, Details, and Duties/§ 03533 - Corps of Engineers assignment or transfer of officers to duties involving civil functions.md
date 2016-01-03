@@ -22,5 +22,5 @@ The words "and reassignments" are omitted as surplusage.
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–718 struck out provisions requiring the recommendation of the Chief of Engineers in order to transfer officers of the Corps of Engineers to or from the civil functions of the Corps of Engineers.
+<b>1966</b>—Pub. L. 89–718 struck out provisions requiring the recommendation of the Chief of Engineers in orderto transfer officers of the Corps of Engineers to or from the civil functions of the Corps of Engineers.
 

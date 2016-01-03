@@ -28,7 +28,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 > In prescribing requirements for audits under clause (iv), the Secretary shall provide that such audits be conducted by appropriately trained individuals who do not have any direct responsibility for the manufacture or production of infant formula.
 
-(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensurethat such infant formula is in compliance with the requirements of this subsection and subsection (i) of this section relating to such vitamins.
+(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensure that such infant formula is in compliance with the requirements of this subsection and subsection (i) of this section relating to such vitamins.
 
 (B) Each nutrient premix used in the manufacture of an infant formula shall be tested for each relied upon nutrient required by subsection (i) of this section which is contained in such premix to ensure that such premix is in compliance with its specifications or certifications by a premix supplier.
 
@@ -60,7 +60,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(vi) the retention of all complaints and the maintenance of files with respect to, and the review of, complaints concerning infant formulas which may reveal the possible existence of a hazard to health.
 
-(B)(i) Records required under subparagraph (A) with respect to an infant formula shall be retained for at least one year after the expiration of the shelf life of such infant formula. Except as provided in clause (ii), such records shall be made available to the Secretary for review and duplication upon request of the Secretary.
+(B)(i) Records required under subparagraph (A) with respect to an infant formula shall be retained for at least one year after the expiration of the shelf life of such infant formula. Exceptas provided in clause (ii), such records shall be made available to the Secretary for review and duplication upon request of the Secretary.
 
 (ii) A manufacturer need only provide written assurances to the Secretary that the regularly scheduled audits required by paragraph (2)(B)(iv) are being conducted by the manufacturer, and need not make available to the Secretary the actual written reports of such audits.
 
@@ -118,7 +118,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (2) The Secretary shall by regulation prescribe the scope and extent of recalls of infant formulas necessary and appropriate for the degree of risks to human health presented by the formula subject to the recall.
 
-(3) The Secretary shall by regulation require each manufacturer of an infant formula who begins a recall of such formula because of a risk to human health to request each retail establishment at which such formula is sold or available for sale to post at the point of purchase of such formula a notice of such recall at such establishment for such time that the Secretary determines necessary to inform the public of such recall.
+(3) The Secretary shall by regulation require each manufacturer of an infant formula who begins a recall of such formula because of a risk tohuman health to request each retail establishment at which such formula is sold or available for sale to post at the point of purchase of such formula a notice of such recall at such establishment for such time that the Secretary determines necessary to inform the public of such recall.
 
 #### (g) Recordkeeping requirements for manufacturer; regulatory oversight and enforcement
 
@@ -208,7 +208,7 @@ NUTRIENTS
 
 Subsecs. (e), (f). Pub. L. 99–570, §4014(a)(1), (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
 
-Subsec. (g). Pub. L. 99–570, §4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted "Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula" for "No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made". Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 99–570, §4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted "Such recordsshall be retained for at least one year after the expiration of the shelf life of the infant formula" for "No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made". Former subsec. (g) redesignated (i).
 
 Subsec. (h). Pub. L. 99–570, §4014(a)(1), redesignated subsec. (f) as (h).
 

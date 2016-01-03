@@ -62,7 +62,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(4) The President has requested no funding for the loan guarantee program despite the stated national policy to foster the development and encourage the maintenance of a merchant marine in section 50101 of title 46, United States Code.
 
-&emsp;"(5) United States commercial shipyards were placed at a competitive disadvantage in the world shipbuilding market by government subsidized foreign commercial shipyards.
+&emsp;"(5) United States commercial shipyards were placed at a competitive disadvantage in the worldshipbuilding market by government subsidized foreign commercial shipyards.
 
 &emsp;"(6) The maritime loan guarantee program has the potential to modernize shipyards and the ships of the United States coastwise trade and restore a competitive position in the world shipbuilding market for United States shipyards.
 
@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Traditional application.—The term 'traditional application' means an application for a loan, guarantee, or commitment to guarantee submittedpursuant to chapter 537 of title 46, United States Code, that involves a market, technology, and financial structure of a type that has proven successful in previous applications and does not present an unreasonable risk to the United States, as determined by the Administrator of the Maritime Administration.
+Traditional application.—The term 'traditional application' means an application for a loan, guarantee, or commitment to guarantee submitted pursuant to chapter 537 of title 46, United States Code, that involves a market, technology, and financial structure of a type that has proven successful in previous applications and does not present an unreasonable risk to the United States, as determined by the Administrator of the Maritime Administration.
 
 &emsp;"(2)
 

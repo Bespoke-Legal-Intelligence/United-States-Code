@@ -32,7 +32,7 @@ A prior section 12613, Pub. L. 101–610, title I, §162, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1503(1), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "on National Civilian Community Corps" for "on Civilian Community Corps".
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1503(1), substituted "National Civilian Community Corps Program" for"Civilian Community Corps Demonstration Program" and "on National Civilian Community Corps" for "on Civilian Community Corps".
 
 Subsec. (b)(1). Pub. L. 111–13, §1503(2), added par. (1) and struck out former par. (1) which read as follows: "is at least 16 and not more than 24 years of age; and".
 

@@ -112,7 +112,7 @@ Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–424 inserted "or materials produced by convict labor" after "Convict labor".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read asfollows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
+<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
 
@@ -154,7 +154,7 @@ Projects.—
 
 &emsp;"(1)
 
-Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is in such form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
+Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is insuch form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
 
 &emsp;"(2)
 

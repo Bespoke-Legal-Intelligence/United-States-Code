@@ -70,7 +70,7 @@ This chapter shall apply—
 
 &emsp;&emsp;(III) With regard to a submersible, nonplastic garbage that has been compacted and weighted to ensure negative buoyancy.
 
-&emsp;&emsp;(IV) Ash from incinerators or other thermal destruction systems not containing toxic chemicals, heavy metals, or incompletely burned plastics.
+&emsp;&emsp;(IV) Ash from incinerators or other thermal destruction systems not containingtoxic chemicals, heavy metals, or incompletely burned plastics.
 
 (C)(i) Garbage described in subparagraph (B)(ii)(I) may not be discharged within 3 nautical miles of land.
 
@@ -92,7 +92,7 @@ This chapter shall apply to all persons to the extent necessary to ensure compli
 
 #### (d) Discharges in special areas
 
-(1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surfaceships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
+(1) Except as provided in paragraphs (2) and (3), not later than December 31, 2000, all surface ships owned or operated by the Department of the Navy, and not later than December 31, 2008, all submersibles owned or operated by the Department of the Navy, shall comply with the special area requirements of Regulation 5 of Annex V to the Convention.
 
 (2)(A) Subject to subparagraph (B), any ship described in subparagraph (C) may discharge, without regard to the special area requirements of Regulation 5 of Annex V to the Convention, the following non-plastic, non-floating garbage:
 
@@ -148,7 +148,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (h) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable andpracticable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
 #### (i) Savings clause
 
@@ -206,7 +206,7 @@ Subsec. (c)(2) to (4). Pub. L. 104–201, §324(a)(2), added pars. (2) and (3) a
 
 Subsec. (e)(4)(A). Pub. L. 104–201, §324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy."
 
-<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted "as follows:" and cls. (i) to (iii) for "after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A)."
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–160, §1003(a), substituted "as follows:" and cls. (i) to (iii) for "after 5years after the effective date of this paragraph to a ship referred to in paragraph (1)(A)."
 
 Subsecs. (c), (d). Pub. L. 103–160, §1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
 

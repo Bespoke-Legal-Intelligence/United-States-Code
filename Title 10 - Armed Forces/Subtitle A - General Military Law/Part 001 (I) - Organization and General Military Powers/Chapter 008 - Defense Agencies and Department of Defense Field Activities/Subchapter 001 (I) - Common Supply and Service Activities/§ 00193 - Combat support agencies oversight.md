@@ -14,7 +14,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 Participation in Joint Training Exercises.—The Chairman shall—
 
-&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing theirsupport missions with respect to a war or threat to national security; and
+&emsp;(1) provide for the participation of the combat support agencies in joint training exercises to the extent necessary to ensure that those agencies are capable of performing their support missions with respect to a war or threat to national security; and
 
 &emsp;(2) assess the performance in joint training exercises of each such agency and, in accordance with guidelines established by the Secretary of Defense, take steps to provide for any change that the Chairman considers appropriate to improve that performance.
 

@@ -44,7 +44,7 @@
 
 (B) If a member is receiving simultaneous voluntary separation incentive payments and retired or retainer pay, the member may elect to terminate the receipt of voluntary separation incentive payments. Any such election is permanent and irrevocable. The rate of monthly recoupment from retired or retainer pay of voluntary separation incentive payments received after such an election shall be reduced by a percentage that is equal to a fraction with a denominator equal to the number of months that the voluntary separation incentive payments were scheduled to be paid and a numerator equal to the number of months that would not be paid as a result of the member's decision to terminate the voluntary separation incentive.
 
-(4) A member who is receiving voluntary separation incentive payments shall not be deprived of this incentive by reason of entitlement to disability compensation under the laws administered by the Department of Veterans Affairs, but there shall be deducted from voluntary separation incentive payments an amount equal to the amount of any such disability compensation concurrently received. Notwithstanding the preceding sentence, no deduction may be made from voluntary separation incentive payments for any disability compensation received because of an earlier period of active duty if the voluntary separation incentive is received because of discharge or release from a later period of active duty.
+(4) A member who is receiving voluntary separation incentive payments shall not be deprived of this incentive by reason of entitlement to disability compensation under the laws administered by the Department of Veterans Affairs, but there shall be deducted from voluntary separation incentive payments an amount equal tothe amount of any such disability compensation concurrently received. Notwithstanding the preceding sentence, no deduction may be made from voluntary separation incentive payments for any disability compensation received because of an earlier period of active duty if the voluntary separation incentive is received because of discharge or release from a later period of active duty.
 
 (5) The years of service of a member for purposes of this section shall be computed in accordance with section 1405 of this title.
 
@@ -94,7 +94,7 @@
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div.A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 4405(b) of Pub. L. 102–484 applicable as if included in this section as enacted Dec. 5, 1991, with any benefits or services payable by reason of applicability of that amendment during the period beginning Dec. 5, 1991, and ending Oct. 23, 1992, to be subject to availability of appropriations, see section 4405(c) of Pub. L. 102–484, set out as a note under section 1174a of this title.
+Amendment by section 4405(b) of Pub. L. 102–484 applicable as if included in this section as enacted Dec. 5, 1991, with any benefits or services payable by reason of applicability of that amendment during the period beginning Dec. 5, 1991, and ending Oct. 23, 1992, to be subject to availability of appropriations, see section 4405(c)of Pub. L. 102–484, set out as a note under section 1174a of this title.
 
 Pub. L. 102–484, div. D, title XLIV, §4406(c), Oct. 23, 1992, 106 Stat. 2707, provided that: "The amendments to section 1175 of title 10, United States Code, made by subsections (a) and (b) shall apply as if included in section 1175 of title 10, United States Code, as enacted on December 5, 1991."
 
@@ -196,7 +196,7 @@ Pub. L. 102–396, title IX, §9106, Oct. 6, 1992, 106 Stat. 1927.
 
 #### Separation Payments; Reductions and Prohibitions
 
-For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 incase of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
+For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 in case of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
 
 #### Tax Treatment of Incentive Payment
 

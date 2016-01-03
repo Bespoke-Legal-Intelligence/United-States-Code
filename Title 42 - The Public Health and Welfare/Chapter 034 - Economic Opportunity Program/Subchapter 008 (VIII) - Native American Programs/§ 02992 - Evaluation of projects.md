@@ -24,7 +24,7 @@ The Commissioner shall publish the results of evaluative research and summaries 
 
 #### (f) Evaluation results as United States property
 
-The Commissioner shall take the necessary action to assure that all studies, evaluations,proposals, and data produced or developed with assistance under this subchapter shall become the property of the United States.
+The Commissioner shall take the necessary action to assure that all studies, evaluations, proposals, and data produced or developed with assistance under this subchapter shall become the property of the United States.
 
 (Pub. L. 88–452, title VIII, §811, formerly §810, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2326; renumbered §811, Pub. L. 100–175, title V, §502(3), Nov. 29, 1987, 101 Stat. 973; amended Pub. L. 102–375, title VIII, §822(11), Sept. 30, 1992, 106 Stat. 1298.)
 

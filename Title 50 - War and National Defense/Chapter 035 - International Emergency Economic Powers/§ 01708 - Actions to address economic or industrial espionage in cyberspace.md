@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of each person described in paragraph (2), if such property and interests in property are in the United States, come within theUnited States, or are or come within the possession or control of a United States person.
+&emsp;The President may, pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block and prohibit all transactions in all property and interests in property of each person described in paragraph (2), if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 #### (2) Persons described
 
@@ -118,7 +118,7 @@ In this section:
 
 #### (7) Proprietary information
 
-&emsp;The term "proprietary information" means competitive bid preparations, negotiating strategies, executive emails, internal financial data, strategic business plans, technical designs, manufacturing processes, source code, data derived from research and development investments, and other commercially valuable information that a person has developed or obtained if—
+&emsp;The term "proprietary information" means competitive bid preparations, negotiating strategies, executive emails, internal financial data, strategic business plans, technical designs, manufacturing processes, source code, data derived from research and developmentinvestments, and other commercially valuable information that a person has developed or obtained if—
 
 &emsp;&emsp;(A) the person has taken reasonable measures to keep the information confidential; and
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (8) Technology
 
-&emsp;The term "technology" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;The term "technology" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (9) Trade secret
 

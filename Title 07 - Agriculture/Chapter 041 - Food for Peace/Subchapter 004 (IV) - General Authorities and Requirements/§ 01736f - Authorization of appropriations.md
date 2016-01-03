@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than 20 nor more than 30 percent for each of fiscal years 2014 through 2018 shall be expended for nonemergency food assistance programs under subchapter III.
+&emsp;Subject to paragraph (2), of the amounts made available to carry out emergency andnonemergency food assistance programs under subchapter III, not less than 20 nor more than 30 percent for each of fiscal years 2014 through 2018 shall be expended for nonemergency food assistance programs under subchapter III.
 
 #### (2) Minimum level
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 #### Amendments
 
-<b>2014</b>—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, subsec. (e) specifiedminimum amounts to be expended for nonemergency food assistance programs under subchapter III for fiscal years 2009 to 2012, provided an exception allowing the President to use less than the amount specified, and required notification to Congress if the President determined that there was an urgent need for additional emergency food assistance.
+<b>2014</b>—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, subsec. (e) specified minimum amounts to be expended for nonemergency food assistance programs under subchapter III for fiscal years 2009 to 2012, provided an exception allowing the President to use less than the amount specified, and required notification to Congress if the President determined that there was an urgent need for additional emergency food assistance.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
 

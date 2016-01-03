@@ -16,9 +16,9 @@
 
 &emsp;&emsp;(iii) provisions for the measurement of the performance characteristics of the device,
 
-&emsp;&emsp;(iv) provisions requiring that the results of each or of certain of the tests of the devicerequired to be made under clause (ii) show that the device is in conformity with the portions of the standard for which the test or tests were required, and
+&emsp;&emsp;(iv) provisions requiring that the results of each or of certain of the tests of the device required to be made under clause (ii) show that the device is in conformity with the portions of the standard for which the test or tests were required, and
 
-&emsp;&emsp;(v) a provision requiring that the sale and distribution of the device be restricted but only to the extent that the sale and distribution of a device may be restricted under a regulation under section 360j(e) of this title; and
+&emsp;&emsp;(v) a provision requiring that the sale and distribution of the device be restricted butonly to the extent that the sale and distribution of a device may be restricted under a regulation under section 360j(e) of this title; and
 
 &emsp;(C) shall, where appropriate, require the use and prescribe the form and content of labeling for the proper installation, maintenance, operation, and use of the device.
 

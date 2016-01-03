@@ -34,7 +34,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (3)(A) In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
 
-(B) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
+(B) Any such resolution shall be considered in the Senate in accordance with the provisions ofsection 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (C) The term "certification", as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 

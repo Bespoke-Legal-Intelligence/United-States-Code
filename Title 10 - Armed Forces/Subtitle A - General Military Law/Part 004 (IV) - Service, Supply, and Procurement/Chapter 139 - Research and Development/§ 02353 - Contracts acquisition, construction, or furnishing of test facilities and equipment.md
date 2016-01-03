@@ -1,6 +1,6 @@
 ### §2353. Contracts: acquisition, construction, or furnishing of test facilities and equipment
 
-(a) A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility.
+(a) A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The facilities and equipment, andspecialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility.
 
 (b) Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
 
@@ -102,7 +102,7 @@ One-time Authority to Transfer.—The Secretary of the Navy may transfer, to Pia
 
 "(d)
 
-Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
+Applicable Law.—The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\], continued under Executive Order 12924 \[listed in a table under 50 U.S.C. 1701\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[act June 15, 1917, ch. 30, 40 Stat. 217, see Tables for classification\].
 
 "(e)
 
@@ -114,7 +114,7 @@ As-is condition.—The military equipment transferred under subsection (c) shall
 
 &emsp;"(2)
 
-Spare parts or equipment.—The Secretary of the Navy is not required to provide spare parts or equipment as a result of the transfer authorized under subsection (c).
+Spare parts or equipment.—The Secretary of the Navy is not required to provide spare parts orequipment as a result of the transfer authorized under subsection (c).
 
 "(f)
 

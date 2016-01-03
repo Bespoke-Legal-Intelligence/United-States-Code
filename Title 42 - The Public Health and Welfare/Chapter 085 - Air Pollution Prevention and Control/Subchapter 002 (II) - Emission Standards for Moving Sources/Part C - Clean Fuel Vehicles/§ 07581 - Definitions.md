@@ -33,7 +33,7 @@ For purposes of this part—
 | Distillation, D–86 °F |  |
 | IBP | 92&nbsp;&nbsp;&nbsp; |
 | 10% | 126&nbsp;&nbsp;&nbsp; |
-| 50% | 219    |
+| 50% | 219&nbsp;&nbsp;&nbsp; |
 | 90% | 327&nbsp;&nbsp;&nbsp; |
 | EP | 414&nbsp;&nbsp;&nbsp; |
 | Hydrocarbon Type, Vol. % FIA: |  |

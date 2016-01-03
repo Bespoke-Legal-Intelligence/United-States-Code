@@ -36,13 +36,13 @@ Subsec. (b). Pub. L. 107–273, §11008(b)(2), substituted "20" for "ten".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–132 inserted "(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)" after "deadly or dangerous weapon".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted ", where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases," after "shall" in concluding provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted ", where the acts in violation of this sectionconstitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases," after "shall" in concluding provisions.
 
 Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted "or inflicts bodily injury" after "weapon".
 
 <b>1988</b>—Pub. L. 100–690 amended text generally. Prior to amendment, text read as follows:
 
-"Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated insection 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both.
+"Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both.
 
 "Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both."
 

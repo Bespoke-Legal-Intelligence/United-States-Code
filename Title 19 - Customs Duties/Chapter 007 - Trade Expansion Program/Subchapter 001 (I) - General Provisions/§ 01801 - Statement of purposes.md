@@ -24,9 +24,9 @@ The legal authority for the establishment and operation of the Office of the Spe
 
 #### President's Export Council
 
-For provisions relating to establishment of President's Export Council and the Council's functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under section 2401 of Title 50, Appendix, War and National Defense.
+For provisions relating to establishment of President's Export Council and the Council's functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under section 4601 of Title 50, War and National Defense.
 
 #### Executive Order No. 11075
 
-Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex.Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title.
+Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex. Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under section 2111 of this title.
 

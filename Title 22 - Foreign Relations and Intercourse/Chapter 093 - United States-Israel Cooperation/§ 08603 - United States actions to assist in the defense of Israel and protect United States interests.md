@@ -2,7 +2,7 @@
 
 It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
 
-&emsp;(1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increasesecurity cooperation, and expand joint military exercises.
+&emsp;(1) Seek to enhance the capabilities of the Governments of the United States and Israel to address emerging common threats, increase security cooperation, and expand joint military exercises.
 
 &emsp;(2) Provide the Government of Israel such support as may be necessary to increase development and production of joint missile defense systems, particularly such systems that defend against the urgent threat posed to Israel and United States forces in the region.
 

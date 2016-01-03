@@ -28,3 +28,4 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 - [&sect; 01395w&#8211;3b - Competitive acquisition of outpatient drugs and biologicals](%C2%A7%2001395w%E2%80%933b%20-%20Competitive%20acquisition%20of%20outpatient%20drugs%20and%20biologicals.md)
 - [&sect; 01395w&#8211;4 - Payment for physicians' services](%C2%A7%2001395w%E2%80%934%20-%20Payment%20for%20physicians%27%20services.md)
 - [&sect; 01395w&#8211;5 - Public reporting of performance information](%C2%A7%2001395w%E2%80%935%20-%20Public%20reporting%20of%20performance%20information.md)
+- [&sect; 01395w&#8211;6 - Empowering beneficiary choices through continued access to information on physicians' services](%C2%A7%2001395w%E2%80%936%20-%20Empowering%20beneficiary%20choices%20through%20continued%20access%20to%20information%20on%20physicians%27%20services.md)

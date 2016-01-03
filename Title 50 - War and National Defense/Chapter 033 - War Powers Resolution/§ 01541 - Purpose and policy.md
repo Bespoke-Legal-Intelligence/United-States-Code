@@ -6,7 +6,7 @@ It is the purpose of this chapter to fulfill the intent of the framers of the Co
 
 #### (b) Congressional legislative power under necessary and proper clause
 
-Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer hereof.
+Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
@@ -94,7 +94,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas Iraq, in direct and flagrant violation of the cease-fire, attempted to thwart the efforts of weapons inspectors to identify and destroy Iraq's weapons of mass destruction stockpiles and development capabilities, which finally resulted in the withdrawal of inspectors from Iraq on October 31, 1998;
 
-"Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuing weapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in 'material and unacceptable breach of its international obligations' and urged the President 'to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations';
+"Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuingweapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in 'material and unacceptable breach of its international obligations' and urged the President 'to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations';
 
 "Whereas Iraq both poses a continuing threat to the national security of the United States and international peace and security in the Persian Gulf region and remains in material and unacceptable breach of its international obligations by, among other things, continuing to possess and develop a significant chemical and biological weapons capability, actively seeking a nuclear weapons capability, and supporting and harboring terrorist organizations;
 
@@ -124,7 +124,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 "Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in direct violation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
 
-"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacksthat occurred on September 11, 2001, or harbored such persons or organizations;
+"Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
 "Whereas the President and Congress are determined to continue to take all appropriate actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
@@ -144,7 +144,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 &emsp;"(1) strictly enforce through the United Nations Security Council all relevant Security Council resolutions regarding Iraq and encourages him in those efforts; and
 
-&emsp;"(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategy of delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
+&emsp;"(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategyof delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
 
 #### "SEC. 3. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
@@ -394,7 +394,7 @@ Pub. L. 102–1, Jan. 14, 1991, 105 Stat. 3, as amended by Pub. L. 106–113, di
 
 "Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990;
 
-"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S.Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
+"Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S. Con. Res. 147 of the 101st Congress) have condemned Iraq's invasion of Kuwait and declared their support for international action to reverse Iraq's aggression;
 
 "Whereas, Iraq's conventional, chemical, biological, and nuclear weapons and ballistic missile programs and its demonstrated willingness to use weapons of mass destruction pose a grave threat to world peace;
 
@@ -420,7 +420,7 @@ Authorization.—The President is authorized, subject to subsection (b), to use 
 
 "(b)
 
-Requirement for Determination That Use of Military Force Is Necessary.—Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+Requirement for Determination That Use of Military Force Is Necessary.—Before exercising theauthority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
 &emsp;"(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
 
@@ -516,7 +516,7 @@ Sec. 3. The President is authorized, for purposes of section 5(b) of the War Pow
 
 "
 
-Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
+Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on thestatus, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
 
 &emsp;"(1) the activities being performed by the Multinational Force in Lebanon;
 
@@ -570,7 +570,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 "(c) Such a joint resolution or bill passed by one House shall be referred to the committee of the other House named in subsection (a) and shall be reported out by such committee together with its recommendations within fifteen calendar days and shall thereupon become the pending business of such House and shall be voted upon within three calendar days, unless such House shall otherwise determine by the yeas and nays.
 
-"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall makeand file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
+"(d) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution or bill passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the legislation is referred to the committee of conference. Notwithstanding any rule in either House concerning the printing of conference reports in the Record or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement."
 
 #### Adherence to War Powers Resolution
 
@@ -582,7 +582,7 @@ Memorandum of President of the United States, July 2, 2004, 69 F.R. 43723, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in anote above\], to make the specified reports to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

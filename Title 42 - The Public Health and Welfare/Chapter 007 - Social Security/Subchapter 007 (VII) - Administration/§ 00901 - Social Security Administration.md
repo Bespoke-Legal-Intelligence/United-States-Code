@@ -104,7 +104,7 @@ Transition Rules Relating to Officers of the Social Security Administration.—
 
 &emsp;"(1)
 
-Appointment of initial commissioner of social security.—The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[42 U.S.C. 901\] (as amended by this Act) not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
+Appointment of initial commissioner of social security.—The President shall nominate for appointment the initial Commissioner of Social Security to serve as head of the Social Security Administration established under section 701 of the Social Security Act \[42 U.S.C. 901\] (as amended by this Act)not later than 60 days after the date of the enactment of this Act \[Aug. 15, 1994\].
 
 &emsp;"(2)
 
@@ -142,7 +142,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 &emsp;"(2) which are in effect immediately before March 31, 1995,
 
-> shall (to the extent that they relate to functions described in paragraph (1)(B)) continue in effect according to their terms until modified, terminated, suspended, set aside, or repealed by such Commissioner, except that any collective bargaining agreement shall remainin effect until the date of termination specified in such agreement.
+> shall (to the extent that they relate to functions described in paragraph (1)(B)) continue in effect according to their terms until modified, terminated, suspended, set aside, or repealed by such Commissioner, except that any collective bargaining agreement shall remain in effect until the date of termination specified in such agreement.
 
 "(c)
 

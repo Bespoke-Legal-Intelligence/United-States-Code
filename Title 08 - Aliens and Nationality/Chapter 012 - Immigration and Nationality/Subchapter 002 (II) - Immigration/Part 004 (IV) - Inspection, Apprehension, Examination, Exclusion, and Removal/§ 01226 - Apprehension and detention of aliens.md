@@ -2,7 +2,7 @@
 
 #### (a) Arrest, detention, and release
 
-On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) of this section and pending such decision, the Attorney General—
+On a warrant issued by the Attorney General, an alien may be arrested and detained pending a decision on whether the alien is to be removed from the United States. Except as provided in subsection (c) and pending such decision, the Attorney General—
 
 &emsp;(1) may continue to detain the arrested alien; and
 
@@ -16,7 +16,7 @@ On a warrant issued by the Attorney General, an alien may be arrested and detain
 
 #### (b) Revocation of bond or parole
 
-The Attorney General at any time may revoke a bond or parole authorized under subsection (a) of this section, rearrest the alien under the original warrant, and detain the alien.
+The Attorney General at any time may revoke a bond or parole authorized under subsection (a), rearrest the alien under the original warrant, and detain the alien.
 
 #### (c) Detention of criminal aliens
 
@@ -54,11 +54,11 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;(B) to officials of the Department of State for use in its automated visa lookout system.
 
-(3) Upon the request of the governor or chief executive officer of any State, the Service shall provide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
+(3) Upon the request of the governor or chief executive officer of any State, the Service shallprovide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
 
 #### (e) Judicial review
 
-The Attorney General's discretionary judgment regarding the application of this section shall not be subject to review. No court may setaside any action or decision by the Attorney General under this section regarding the detention or release of any alien or the grant, revocation, or denial of bond or parole.
+The Attorney General's discretionary judgment regarding the application of this section shall not be subject to review. No court may set aside any action or decision by the Attorney General under this section regarding the detention or release of any alien or the grant, revocation, or denial of bond or parole.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §236, 66 Stat. 200; Pub. L. 101–649, title V, §504(b), title VI, §603(a)(12), Nov. 29, 1990, 104 Stat. 5050, 5083; Pub. L. 102–232, title III, §306(a)(5), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title III, §§303(a), 371(b)(5), Sept. 30, 1996, 110 Stat. 3009–585, 3009–645.)
 
@@ -134,7 +134,7 @@ Pub. L. 105–141, Dec. 5, 1997, 111 Stat. 2647, provided that:
 
 "(a)
 
-Establishment of Program.—Not later than 6 months after the date of the enactment of this Act \[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
+Establishment of Program.—Not later than 6 months after the date of the enactment of this Act\[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
 
 &emsp;"(1) Aliens unlawfully present in the United States.
 

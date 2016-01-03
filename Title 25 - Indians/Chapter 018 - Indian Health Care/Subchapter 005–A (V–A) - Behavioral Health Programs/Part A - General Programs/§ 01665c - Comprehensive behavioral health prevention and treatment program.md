@@ -30,7 +30,7 @@
 
 #### (2) Provision of assistance
 
-&emsp;In carrying out this subsection, the Secretary shall provide assistance to Indian tribes and tribal organizations to develop criteria for the certification of behavioral health service providers and accreditation of service facilities which meet minimum standards for such services and facilities.
+&emsp;In carrying out this subsection, the Secretary shall provide assistance to Indian tribesand tribal organizations to develop criteria for the certification of behavioral health service providers and accreditation of service facilities which meet minimum standards for such services and facilities.
 
 (Pub. L. 94–437, title VII, §704, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

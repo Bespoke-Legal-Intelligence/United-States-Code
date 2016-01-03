@@ -6,7 +6,7 @@
 
 #### (1) Environmental quality incentives program
 
-&emsp;The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
+&emsp;The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance withchapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
 #### (2) to (4) Repealed. Pub. L. 104–127, title III, §336(a)(1)(A)(i)(I), Apr. 4, 1996, 110 Stat. 1004
 

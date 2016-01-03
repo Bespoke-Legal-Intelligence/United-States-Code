@@ -14,7 +14,7 @@
 
 The Secretary shall have the same authority in relation to enforcement of the provisions of this part with respect to issuers of health insurance coverage in the individual market in a State as the Secretary has under section 300gg–22(b)(2) of this title, and section 300gg–22(b)(3) of this title <sup>1</sup> with respect to violations of genetic nondiscrimination provisions, in relation to the enforcement of the provisions of part A with respect to issuers of health insurance coverage in the small group market in the State.
 
-(July 1, 1944, ch. 373, title XXVII, §2761, formerly §2745, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1986; renumbered §2761and amended Pub. L. 104–204, title VI, §605(a)(2), (b)(2), Sept. 26, 1996, 110 Stat. 2941, 2942; Pub. L. 110–233, title I, §102(b)(2), May 21, 2008, 122 Stat. 895.)
+(July 1, 1944, ch. 373, title XXVII, §2761, formerly §2745, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1986; renumbered §2761 and amended Pub. L. 104–204, title VI, §605(a)(2), (b)(2), Sept. 26, 1996, 110 Stat. 2941, 2942; Pub. L. 110–233, title I, §102(b)(2), May 21, 2008, 122 Stat. 895.)
 
 #### References in Text
 

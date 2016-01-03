@@ -16,7 +16,7 @@
 
 #### (b) Requirements
 
-In implementing subsection (a) of this section, the Secretary—
+In implementing subsection (a), the Secretary—
 
 &emsp;(1) shall promote the policies provided for in section 102 of the Indian Land Consolidation Act Amendments of 2000;
 

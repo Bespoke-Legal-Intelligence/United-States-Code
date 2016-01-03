@@ -2,7 +2,7 @@
 
 #### (a) Bond not required; agents; fee
 
-The Corporation as receiver of an insured depository institution or branch of a foreign bank shall not be required to furnish bond and may appoint an agent or agents to assist it in its duties as such receiver. All fees, compensation, and expenses of liquidation and administration shall be fixed by the Corporation, and may be paid by it out of funds coming into its possession as such receiver.
+The Corporation as receiver of an insured depository institution or branch of a foreign bank shall not be required to furnish bond and may appoint an agent or agents to assist it in its duties as such receiver. All fees, compensation, and expenses of liquidation and administrationshall be fixed by the Corporation, and may be paid by it out of funds coming into its possession as such receiver.
 
 #### (b) Payment of insured deposit as discharge from liability
 
@@ -46,7 +46,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (4) Treatment of United States deposits
 
-&emsp;If the deposit is a United States deposit it shall be delivered to the Secretary of the Treasury for deposit in the general fund of theTreasury. Upon delivery to the Secretary of the Treasury, all rights of the depositor against the Corporation with respect to the deposit shall be barred and the Corporation shall be deemed to have made payment to the depositor for purposes of section 1821(g)(1) of this title.
+&emsp;If the deposit is a United States deposit it shall be delivered to the Secretary of the Treasury for deposit in the general fund of the Treasury. Upon delivery to the Secretary of the Treasury, all rights of the depositor against the Corporation with respect to the deposit shall be barred and the Corporation shall be deemed to have made payment to the depositor for purposes of section 1821(g)(1) of this title.
 
 #### (5) Reversion
 

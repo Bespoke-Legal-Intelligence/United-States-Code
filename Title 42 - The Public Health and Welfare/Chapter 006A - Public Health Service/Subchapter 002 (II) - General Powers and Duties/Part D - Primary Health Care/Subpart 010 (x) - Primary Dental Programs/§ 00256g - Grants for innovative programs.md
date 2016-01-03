@@ -26,7 +26,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 &emsp;(4) the establishment or expansion of dental residency programs in coordination with accredited dental training institutions in States without dental schools;
 
-&emsp;(5) programs developed in consultation with State and local dental societies to expand or establish oral health services and facilities indesignated dental health professional shortage areas, including services and facilities for children with special needs, such as—
+&emsp;(5) programs developed in consultation with State and local dental societies to expand or establish oral health services and facilities in designated dental health professional shortage areas, including services and facilities for children with special needs, such as—
 
 &emsp;&emsp;(A) the expansion or establishment of a community-based dental facility, free-standing dental clinic, consolidated health center dental facility, school-linked dental facility, or United States dental school-based facility;
 

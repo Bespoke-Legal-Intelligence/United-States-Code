@@ -30,7 +30,7 @@ Federal Tort Claims Act.—A State or local law enforcement officer who is deput
 
 (f)
 
-Stationing of Officers.—The Under Secretary may allow law enforcement personnel to be stationed other than at the airport securityscreening location if that would be preferable for law enforcement purposes and if such personnel would still be able to provide prompt responsiveness to problems occurring at the screening location.
+Stationing of Officers.—The Under Secretary may allow law enforcement personnel to be stationed other than at the airport security screening location if that would be preferable for law enforcement purposes and if such personnel would still be able to provide prompt responsiveness to problems occurring at the screening location.
 
 (Added Pub. L. 108–7, div. I, title III, §351(a), Feb. 20, 2003, 117 Stat. 419.)
 

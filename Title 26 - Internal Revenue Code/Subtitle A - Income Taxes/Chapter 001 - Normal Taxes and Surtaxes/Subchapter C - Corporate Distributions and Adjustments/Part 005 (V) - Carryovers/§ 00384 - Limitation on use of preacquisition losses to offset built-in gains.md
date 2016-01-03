@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
-Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit\(as defined in section 383(a)(2)) or net capital loss.
+Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
 
 #### (e) Ordering rules for net operating losses, etc.
 

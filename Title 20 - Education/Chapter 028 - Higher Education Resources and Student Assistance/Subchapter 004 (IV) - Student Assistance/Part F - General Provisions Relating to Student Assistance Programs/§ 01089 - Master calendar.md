@@ -134,7 +134,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Inapplicability of Master Calendar and Negotiated Rulemaking Requirements
 
@@ -142,7 +142,7 @@ Pub. L. 112–141, div. F, title III, §100302(b), July 6, 2012, 126 Stat. 980, 
 
 Pub. L. 112–74, div. F, title III, §309(h), Dec. 23, 2011, 125 Stat. 1103, provided that: "Sections 482(c) and 492 of the HEA (20 U.S.C. 1089(c), 1098a) shall not apply to the amendments made by this section \[amending sections 1001, 1070a, 1078, 1087–1, 1087ss, and 1091 of this title and enacting provisions set out as notes under sections 1001, 1078, and 1091 of this title\], or to any regulations promulgated under those amendments."
 
-Pub. L. 112–25, title V, §504, Aug. 2, 2011, 125 Stat. 267, provided that: "Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the amendments made by this title \[amending sections 1070a and 1087e of this title\], or to any regulations promulgated under those amendments."
+Pub. L. 112–25, title V, §504, Aug. 2, 2011, 125 Stat. 267, provided that: "Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall notapply to the amendments made by this title \[amending sections 1070a and 1087e of this title\], or to any regulations promulgated under those amendments."
 
 Pub. L. 112–10, div. B, title VIII, §1860(c), Apr. 15, 2011, 125 Stat. 170, provided that: "Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the amendments made by subsection (a)(2) \[amending section 1070a of this title\], or to any regulations promulgated under those amendments."
 

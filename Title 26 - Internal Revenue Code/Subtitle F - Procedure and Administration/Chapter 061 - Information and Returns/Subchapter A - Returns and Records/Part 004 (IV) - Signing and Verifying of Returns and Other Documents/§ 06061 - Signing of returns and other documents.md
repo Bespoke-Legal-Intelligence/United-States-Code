@@ -24,7 +24,7 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 &emsp;The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724.)
 
 #### Amendments
 

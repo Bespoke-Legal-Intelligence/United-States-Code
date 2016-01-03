@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(5) In response, the United States implemented sanctions restricting the importation of rough diamonds from Sierra Leone to those diamonds accompanied by specified certificates of origin and fully prohibiting the importation of rough diamonds from Liberia. The United States is now taking further action against trade in conflict diamonds.
 
-&emsp;(6) Without effective action to eliminate trade in conflict diamonds, the trade in legitimate diamonds faces the threat of a consumer backlash that could damage the economies of countries not involved in the trade in conflict diamonds and penalize members of the legitimate trade and the people they employ. Toprevent that, South Africa and more than 30 other countries are involved in working, through the "Kimberley Process", toward devising a solution to this problem. As the consumer of a majority of the world's supply of diamonds, the United States has an obligation to help sever the link between diamonds and conflict and press for implementation of an effective solution.
+&emsp;(6) Without effective action to eliminate trade in conflict diamonds, the trade in legitimate diamonds faces the threat of a consumer backlash that could damage the economies of countries not involved in the trade in conflict diamonds and penalize members of the legitimate trade and the people they employ. To prevent that, South Africa and more than 30 other countries are involved in working, through the "Kimberley Process", toward devising a solution to this problem. As the consumer of a majority of the world's supply of diamonds, the United States has an obligation to help sever the link between diamonds and conflict and press for implementation of an effective solution.
 
 &emsp;(7) Failure to curtail the trade in conflict diamonds or to differentiate between the trade in conflict diamonds and the trade in legitimate diamonds could have a severe negative impact on the legitimate diamond trade in countries such as Botswana, Namibia, South Africa, and Tanzania.
 
@@ -24,7 +24,7 @@ Congress finds the following:
 
 #### Effective Date
 
-Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: "This Act \[enacting this chapter\] shall take effect on the date on which the President certifies to the Congress that—
+Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: "This Act \[enacting this chapter\] shall take effecton the date on which the President certifies to the Congress that—
 
 &emsp;"(1) an applicable waiver that has been granted by the World Trade Organization is in effect; or
 
@@ -72,7 +72,7 @@ Sec. 3. <i>Amendments to Related Executive Orders</i>. (a) \[Amended Ex. Ord. No
 
 (d) \[Amended Ex. Ord. No. 13213.\]
 
-Sec. 4. <i>Definitions</i>. For the purposes of this order and Executive Order 13194, the definitions set forth in section 3 of the Act \[19 U.S.C. 3902\] shall apply, and the term "Kimberley Process Certification Scheme" shallnot be construed to include any changes to the KPCS after April 25, 2003.
+Sec. 4. <i>Definitions</i>. For the purposes of this order and Executive Order 13194, the definitions set forth in section 3 of the Act \[19 U.S.C. 3902\] shall apply, and the term "Kimberley Process Certification Scheme" shall not be construed to include any changes to the KPCS after April 25, 2003.
 
 Sec. 5. <i>General Provisions</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 

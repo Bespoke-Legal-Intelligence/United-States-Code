@@ -34,7 +34,7 @@
 
 (c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
 
-(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of suchchapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
+(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
 (2) The provisions of subsections (i) and (m)(2) of section 8344 and subsections (f) and (j)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
 

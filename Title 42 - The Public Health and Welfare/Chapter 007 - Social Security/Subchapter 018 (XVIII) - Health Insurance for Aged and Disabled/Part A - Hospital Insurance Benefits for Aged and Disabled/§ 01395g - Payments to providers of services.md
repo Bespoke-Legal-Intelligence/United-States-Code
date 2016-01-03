@@ -110,7 +110,7 @@ Pub. L. 101–239, title VI, §6021(b), Dec. 19, 1989, 103 Stat. 2167, provided 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9311(a)(2), Oct. 21, 1986, 100 Stat. 1997, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987."
+Pub. L. 99–509, title IX, §9311(a)(2), Oct. 21, 1986, 100 Stat. 1997, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to claims received on or after July 1, 1987."
 
 #### Effective Date of 1982 Amendment
 
@@ -120,7 +120,7 @@ Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contra
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: "The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and services furnished on or after the date of the enactment of this Act \[Oct. 25, 1977\]."
+Pub. L. 95–142, §2(a)(4), Oct. 25, 1977, 91 Stat. 1176, provided that: "The amendments made by this subsection \[amending this section and sections 1395u and 1396a of this title\] shall apply with respect to care and servicesfurnished on or after the date of the enactment of this Act \[Oct. 25, 1977\]."
 
 #### Effective Date of 1975 Amendment
 

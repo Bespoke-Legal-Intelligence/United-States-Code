@@ -6,7 +6,7 @@ For the school year beginning July 2008 and each subsequent school year, the Sec
 
 #### (b) Program
 
-A school participating in the program shall make free fresh fruits and vegetables availableto students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
+A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
 
 #### (c) Funding to States
 
@@ -36,7 +36,7 @@ A school participating in the program shall make free fresh fruits and vegetable
 
 &emsp;&emsp;(B) to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
 
-&emsp;&emsp;(C) ensure that each school selected is an elementary school (as defined in section 7801 of title 20);
+&emsp;&emsp;(C) ensure that each school selected is an elementary school (as defined in section 7801 <sup>1</sup> of title 20);
 
 &emsp;&emsp;(D) solicit applications from interested schools that include—
 
@@ -154,6 +154,8 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 Section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(1), is section 4304(a)(2) of Pub. L. 110–246, which is set out as a note below.
 
+Section 7801 of title 20, referred to in subsec. (d)(1)(C), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 of Pub. L. 89–10 by Pub. L. 114–95, title VIII, §8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
+
 The Child Nutrition Act of 1966, referred to in subsec. (g), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -164,7 +166,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary toreduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
 
 #### Change of Name
 
@@ -182,7 +184,7 @@ Pub. L. 113–79, title IV, §4214, Feb. 7, 2014, 128 Stat. 831, provided that:
 
 "(a)
 
-In general.—Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769a) (referred to in this sectionas the "Program"), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
+In General.—Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769a) (referred to in this section as the "Program"), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
 
 "(b)
 
@@ -216,11 +218,11 @@ Final report.—On completion of the pilot project, the Secretary shall submit t
 
 "(e)
 
-Notice of availability.—As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project.
+Notice of Availability.—As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project.
 
 "(f)
 
-Relationship to fresh fruit and vegetable program.—Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program.
+Relationship to Fresh Fruit and Vegetable Program.—Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program.
 
 "(g)
 
@@ -243,4 +245,6 @@ School year beginning july 1, 2008.—To facilitate transition from the program 
 &emsp;"(ii) funds made available under that Act \[42 U.S.C. 1751 et seq.\] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act (42 U.S.C. 1769(f)) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\])."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

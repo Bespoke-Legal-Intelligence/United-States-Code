@@ -1,6 +1,6 @@
 ### §2431. Weapons development and procurement schedules
 
-(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies,in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
+(a) The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits the budget to Congress under section 1105 of title 31, budget justification documents regarding development and procurement schedules for each weapon system for which fund authorization is required by section 114(a) of this title, and for which any funds for procurement are requested in that budget. The documents shall include data on operational testing and evaluation for each weapon system for which funds for procurement are requested (other than funds requested only for the procurement of units for operational testing and evaluation, or long lead-time items, or both). A weapon system shall also be included in the annual documents required under this subsection in each year thereafter until procurement of that system has been completed or terminated, or the Secretary of Defense certifies, in writing, that such inclusion would not serve any useful purpose and gives his reasons therefor.
 
 (b) Any documents required to be submitted under subsection (a) shall include detailed and summarized information with respect to each weapon system covered and shall specifically include each of the following:
 
@@ -83,6 +83,276 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability
+
+Pub. L. 114–92, div. A, title XVI, §1618, Nov. 25, 2015, 129 Stat. 1108, provided that:
+
+"(a)
+
+Plan.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, shall jointly submit to the appropriate congressional committees a plan for the integration of overhead persistent infrared capabilities to support the missions specified in subsection (b)(1).
+
+"(b)
+
+Elements.—The plan under subsection (a) shall—
+
+&emsp;"(1) ensure that all overhead persistent infrared capabilities of the United States, including such capabilities that are planned to be developed, are integrated to allow for such capabilities to be exploited to support the requirements of the missions of the Department of Defense relating to—
+
+&emsp;&emsp;"(A) strategic and theater missile warning;
+
+&emsp;&emsp;"(B) ballistic and cruise missile defense, including with respect to missile tracking, fire control, and kill assessment;
+
+&emsp;&emsp;"(C) technical intelligence supporting missile warning;
+
+&emsp;&emsp;"(D) battlespace awareness;
+
+&emsp;&emsp;"(E) other technical intelligence;
+
+&emsp;&emsp;"(F) civil and environmental missions, including with respect to the collection of weather data; and
+
+&emsp;&emsp;"(G) battle damage assessments; and
+
+&emsp;"(2) establish clear benchmarks by which to establish acquisition plans, manning, and budget requirements.
+
+"(c)
+
+Annual Determination.—The Secretary of Defense shall include, together with, or not later than 30 days after, the budget justification materials submitted to Congress in support of the budget of the Department of Defense for a fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), a written determination of how the plan under subsection (a) is being implemented.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;"(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
+
+#### Integration and Interoperability of Air and Missile Defense Capabilities of the United States
+
+Pub. L. 114–92, div. A, title XVI, §1675, Nov. 25, 2015, 129 Stat. 1131, provided that:
+
+"(a)
+
+Interoperability of Missile Defense Systems.—The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff, acting through the Missile Defense Executive Board, shall ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing.
+
+"(b)
+
+Annual Demonstration.—
+
+&emsp;"(1)
+
+Requirement.—Except as provided by paragraph (2), the Director of the Missile Defense Agency and the Secretary of the Army shall jointly ensure that not less than one intercept or flight test is carried out each year that demonstrates interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+&emsp;"(2)
+
+Waiver.—The Director and the Secretary may waive the requirement in paragraph (1) with respect to an intercept or flight test carried out during the year covered by the waiver if the Under Secretary of Defense for Acquisition, Technology, and Logistics—
+
+&emsp;&emsp;"(A) determines that such waiver is necessary for such year; and
+
+&emsp;&emsp;"(B) submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+"(c)
+
+Definitions.—In this section, the term 'covered air and missile defense capabilities' means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors."
+
+#### Boost Phase Defense System
+
+Pub. L. 114–92, div. A, title XVI, §1680, Nov. 25, 2015, 129 Stat. 1137, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall—
+
+&emsp;"(1) prioritize technology investments in the Department of Defense to support feasible and cost-effective efforts by the Missile Defense Agency to develop and field an airborne boost phase defense system by not later than fiscal year 2025;
+
+&emsp;"(2) ensure that development and fielding of a boost phase missile defense layer to the ballistic missile defense system supports multiple warfighter missile defense requirements, including, specifically, protection of the United States homeland and allies of the United States against ballistic missiles, particularly in the boost phase;
+
+&emsp;"(3) continue development and fielding of high-energy lasers, electromagnetic and other railgun technology, high-power microwave systems, and other advanced technologies as part of a layered architecture to defend ships and theater bases against air and cruise missile strikes;
+
+&emsp;"(4) encourage collaboration among the military departments and the Defense Advanced Research Projects Agency with respect to high energy laser efforts carried out in support of the Missile Defense Agency; and
+
+&emsp;"(5) ensure cooperation and coordination between the Missile Defense Agency with respect to the plans of the Missile Defense Agency to develop an airborne laser and the requirements of the Air Force for unmanned aerial vehicles.
+
+"(b)
+
+Report to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the efforts of the Department of Defense to develop and deploy an airborne or other boost phase defense system for missile defense by fiscal year 2025.
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Such schedules, costs, warfighter requirements, operational concept, constraints, potential alternative boost phase approaches, and other information regarding the efforts described in paragraph (1) as the Secretary considers appropriate.
+
+&emsp;&emsp;"(B) Analyses of the efforts described in paragraph (1) with respect to the following cases:
+
+&emsp;&emsp;&emsp;"(i) A case in which the Department is under no funding constraints with respect to such efforts and progress is based on the state of the technology.
+
+&emsp;&emsp;&emsp;"(ii) A case in which the Department is under funding constraints and the efforts are carried out in accordance with a moderately aggressive schedule and are subject to moderate technical risk.
+
+&emsp;&emsp;&emsp;"(iii) A case in which the Department is under funding constraints and the efforts are carried out in accordance with a less aggressive schedule and are subject to less technical risk.
+
+&emsp;&emsp;"(C) An update on related efforts of the Department to develop high energy lasers, electromagnetic and other railguns, high power microwave systems, and other advanced technologies to defend ships and theater bases against air and cruise missile strikes and to protect the homeland of the United States and protect allies of the United States.
+
+&emsp;&emsp;"(D) An evaluation of recommendations, including a listing of the recommendations, from industry on emerging technologies that could be applied for boost phase missile defense.
+
+&emsp;&emsp;"(E) Such recommendations as the Secretary may have for legislative or administrative action to enable more rapid fielding of a directed-energy based missile defense system.
+
+&emsp;"(3)
+
+Form.—The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex."
+
+#### Development and Deployment of Multiple-Object Kill Vehicle for Missile Defense of the United States Homeland
+
+Pub. L. 114–92, div. A, title XVI, §1681, Nov. 25, 2015, 129 Stat. 1138, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the defense of the United States homeland against the threat of limited ballistic missile attack (whether accidental, unauthorized, or deliberate) is the highest priority of the Missile Defense Agency;
+
+&emsp;"(2) the Missile Defense Agency is appropriately prioritizing the design, development, and deployment of the redesigned kill vehicle; and
+
+&emsp;"(3) the multiple-object kill vehicle could contribute critical capabilities to the future of the ballistic missile defense of the United States homeland.
+
+"(b)
+
+Multiple-object Kill Vehicle.—
+
+&emsp;"(1)
+
+Development.—The Director of the Missile Defense Agency shall develop a highly reliable multiple-object kill vehicle for the ground-based midcourse defense system using sound acquisition practices.
+
+&emsp;"(2)
+
+Deployment.—The Director shall—
+
+&emsp;&emsp;"(A) conduct rigorous flight testing of the multiple-object kill vehicle developed under paragraph (1) by not later than 2020; and
+
+&emsp;&emsp;"(B) recognizing the primacy of developing the redesigned kill vehicle, produce and deploy the multiple-object kill vehicle as early as practicable after the date on which the Director carries out subparagraph (A).
+
+"(c)
+
+Capabilities and Criteria.—The Director shall ensure that the multiple-object kill vehicle developed under subsection (b)(1) meets, at a minimum, the following capabilities and criteria:
+
+&emsp;"(1) Vehicle-to-vehicle communications.
+
+&emsp;"(2) Vehicle-to-ground communications.
+
+&emsp;"(3) Kill assessment capability.
+
+&emsp;"(4) The ability to counter advanced counter measures, decoys, and penetration aids.
+
+&emsp;"(5) Producibility and manufacturability.
+
+&emsp;"(6) Use of technology involving high technology readiness levels.
+
+&emsp;"(7) Options to be integrated onto other missile defense interceptor vehicles other than the ground-based interceptors of the ground-based midcourse defense system.
+
+&emsp;"(8) Sound acquisition processes.
+
+"(d)
+
+Program Management.—The management of the multiple-object kill vehicle program under subsection (b) shall report directly to the Deputy Director of the Missile Defense Agency.
+
+"(e)
+
+Report on Funding Profile.—The Director shall include with the budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 2017 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a report on the funding profile necessary for the multiple-object kill vehicle program to meet the objectives under subsection (b)."
+
+#### Requirement To Replace Capability Enhancement I Exoatmospheric Kill Vehicles
+
+Pub. L. 114–92, div. A, title XVI, §1682, Nov. 25, 2015, 129 Stat. 1139, provided that:
+
+"(a)
+
+In General.—Subject to subsection (b), the Director of the Missile Defense Agency shall ensure, to the maximum extent practicable, that all remaining ground-based interceptors of the ground-based midcourse defense system that are armed with the capability enhancement I exoatmospheric kill vehicle are replaced with the redesigned exoatmospheric kill vehicle before September 30, 2022.
+
+"(b)
+
+Condition.—Subsection (a) shall not apply if the Director determines that flight and intercept testing of the redesigned exoatmospheric kill vehicle is not successful."
+
+#### Additional Missile Defense Sensor Coverage for Protection of United States Homeland
+
+Pub. L. 114–92, div. A, title XVI, §1684, Nov. 25, 2015, 129 Stat. 1140, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that additional missile defense sensor discrimination capabilities are needed to enhance the protection of the United States homeland against potential long-range ballistic missiles from Iran that, according to the Department of Defense, could soon be obtained by Iran as a result of its active space launch program.
+
+"(b)
+
+Studies and Evaluations on Homeport of Sea-based X-band Radar.—Not later than 60 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Director of the Missile Defense Agency shall commence any siting studies, environmental impact assessments or statements required pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) that have not otherwise been prepared, homeport agreements for sea-based X-band radar support, evaluations of any needed pier modifications, and evaluations of any communications capabilities or other requirements to carry out the reassignment of the homeport of the sea-based X-band radar to a homeport on the East Coast of the United States.
+
+"(c)
+
+Potential Future Missile Defense Sensor Sites.—
+
+&emsp;"(1)
+
+Evaluation.—Not later than March 31, 2016, the Director shall commence a study to evaluate at least three possible additional locations (in or outside the United States), selected by the Director, that would be best suited for future deployment of an advanced missile defense sensor site optimized against threats from Iran.
+
+&emsp;"(2)
+
+Environmental impact statements.—Except as provided by paragraph (3), the evaluation under paragraph (1) shall include an environmental impact statement or other analysis in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) for each location included in the evaluation.
+
+&emsp;"(3)
+
+Exception.—If an environmental impact statement or other analysis described in paragraph (2) has already been prepared, or is not required by law, for a location included in the evaluation under paragraph (1), the Director shall not be required to carry out paragraph (2) with respect to such location.
+
+"(d)
+
+Deployment of Additional Coverage.—
+
+&emsp;"(1)
+
+Deployment.—Not later than December 31, 2020, the Director, in cooperation with the relevant combatant command, shall deploy a long-range discrimination radar or other appropriate sensor capability in a location optimized to support the defense of the homeland of the United States from emerging long-range ballistic missile threats from Iran.
+
+&emsp;"(2)
+
+Sea-based x-band radar.—If the Director carries out paragraph (1) by reassigning the homeport of the sea-based X-band radar, the Director and the Secretary of the Navy may not carry out such reassignment until the date on which the Director certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that Hawaii will have adequate missile defense coverage prior to such reassignment.
+
+"(e)
+
+Submission of Information.—
+
+&emsp;"(1)
+
+Report.—Not later than December 31, 2018, the Director shall submit to the congressional defense committees a report containing the following:
+
+&emsp;&emsp;"(A) The findings of the study conducted under paragraph (1) of subsection (c), including any environmental impact statements or analyses required by paragraph (2) of such subsection.
+
+&emsp;&emsp;"(B) Notification of the manner in which Hawaii is being provided ballistic missile defense coverage.
+
+&emsp;"(2)
+
+Plan.—In the budget justification materials submitted to Congress in support of the budget for each of fiscal years 2017 through 2020 submitted by the President to Congress under section 1105 of title 31, United States Code, the Director shall include—
+
+&emsp;&emsp;"(A) the plan of the Director to carry out subsection (d); and
+
+&emsp;&emsp;"(B) an update on the progress of the Director in implementing subsections (b) and (c)."
+
+#### Development of Requirements To Support Integrated Air and Missile Defense Capabilities
+
+Pub. L. 114–92, div. A, title XVI, §1687, Nov. 25, 2015, 129 Stat. 1143, provided that:
+
+"(a)
+
+In General.—Consistent with the memorandum of the Chairman of the Joint Chiefs of Staff of January 27, 2014, regarding joint integrated air and missile defense, the Vice Chairman of the Joint Chiefs of Staff shall oversee the development of warfighter requirements for persistent and survivable capabilities to detect, identify, determine the status, track, and support engagement of strategically important mobile or relocatable assets in all phases of conflict in order to achieve the objective of preventing the effective employment of such assets, including through offensive actions against such assets prior to their use.
+
+"(b)
+
+Purpose of Requirements.—The requirements developed pursuant to subsection (a) shall be used and updated, as appropriate, for the purpose of informing applicable acquisition programs and systems-of-systems architecture planning that are funded through the Military Intelligence Program, the National Intelligence Program, and non-intelligence programs.
+
+"(c)
+
+Supporting Activities.—The Vice Chairman shall also oversee the development of the enabling framework for intelligence support for integrated air and missile defense, including concepts for the integrated operation of multiple systems, and, as appropriate, the development of requirements for capabilities to be acquired to achieve such integrated operations.
+
+"(d)
+
+Sense of Congress.—It is the sense of Congress that new acquisition programs for applicable major systems or capabilities, or for upgrades to existing systems, should not be undertaken until the applicable requirements described in subsections (a) and (c) have been developed and incorporated into programmatic decision-making."
 
 #### Testing and Assessment of Missile Defense Systems Prior to Production and Deployment
 
@@ -472,7 +742,7 @@ Testing Criteria.—Not later than February 1, 2005, the Secretary of Defense, i
 
 "(b)
 
-Use of Criteria.—(1) The Secretary of Defense shall ensure that, not later than October 1, 2005, a test of the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
+Use of Criteria.—(1) The Secretary of Defense shall ensure that, not later than October 1, 2005, a testof the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
 
 "(2) The Secretary of Defense shall ensure that each block configuration of the ballistic missile defense system is tested consistent with the criteria prescribed under subsection (a).
 
@@ -734,7 +1004,7 @@ Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall pres
 
 "(c)
 
-Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of thesystems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
+Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
 
 &emsp;"(A) the Cooperative Engagement Capability (CEC) system of the Navy;
 
@@ -812,7 +1082,7 @@ Qualifying Flight Test Defined.—For purposes of this section, an ABM-qualifyin
 
 &emsp;"(2) to take the initiative within the North Atlantic Treaty Organization to develop consensus in the Alliance for a timely deployment of effective ballistic missile defenses by the Alliance; and
 
-&emsp;"(3) in the interim, to seek agreement with allies of the United States and selected other states on stepsthe parties should take, consistent with their national interests, to reduce the risks posed by the threat of limited ballistic missile attacks, such steps to include—
+&emsp;"(3) in the interim, to seek agreement with allies of the United States and selected other states on steps the parties should take, consistent with their national interests, to reduce the risks posed by the threat of limited ballistic missile attacks, such steps to include—
 
 &emsp;&emsp;"(A) the sharing of early warning information derived from sensors deployed by the United States and other states;
 
@@ -914,7 +1184,7 @@ Description of Testing Program.—The Secretary of Defense shall include in the 
 
 "(d)
 
-Relationship to Arms Control Treaties.—The Secretary shall include in the report under subsection (b) a statement of how production and deployment of any projected Theater Missile Defense program will conform to all relevant arms control agreements. The report shall describe any potential noncompliance with any such agreement, when such noncompliance is expected to occur, and whether provisions need to be renegotiated within that agreement to address future contingencies.
+Relationship to Arms Control Treaties.—The Secretary shall include in the report under subsection (b) a statement of how production and deployment of any projected Theater Missile Defense program willconform to all relevant arms control agreements. The report shall describe any potential noncompliance with any such agreement, when such noncompliance is expected to occur, and whether provisions need to be renegotiated within that agreement to address future contingencies.
 
 "(e)
 
@@ -996,7 +1266,7 @@ Report.—When the President's budget for fiscal year 1994 is submitted to Congr
 
 &emsp;"(1) setting forth the proposed allocation by the Secretary of funds for the Theater Missile Defense Initiative for fiscal year 1994, shown for each program, project, and activity;
 
-&emsp;"(2) describing an updated master plan for the Theater Missile Defense Initiative that includes (A) a detailed consideration of plans for theater and tactical missile defense doctrine, training, tactics, and force structure, and (B) a detailed acquisition strategy which includes a consideration of acquisition and life-cycle costs through the year 2005 for the programs, projects, and activities associated with the Theater Missile Defense Initiative;
+&emsp;"(2) describing an updated master plan for the Theater Missile Defense Initiative that includes (A) a detailed consideration of plans for theater and tacticalmissile defense doctrine, training, tactics, and force structure, and (B) a detailed acquisition strategy which includes a consideration of acquisition and life-cycle costs through the year 2005 for the programs, projects, and activities associated with the Theater Missile Defense Initiative;
 
 &emsp;"(3) assessing the possible near-term contribution and cost-effectiveness for theater missile defense of exoatmospheric capabilities, to include at a minimum a consideration of—
 
@@ -1018,7 +1288,7 @@ Pub. L. 101–510, div. A, title II, §221, Nov. 5, 1990, 104 Stat. 1511.
 
 #### Stretchout of Major Defense Acquisition Programs
 
-Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676, required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by Pub. L. 105–85, div. A, title X, §1041(c), Nov. 18, 1997, 111 Stat. 1885.
+Pub. L. 100–456, div. A, title I, §117, Sept. 29, 1988, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676, required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by Pub. L. 105–85, div. A, title X, §1041(c), Nov. 18, 1997, 111 Stat. 1885.
 
 #### Prohibition of Certain Contracts With Foreign Entities
 
@@ -1046,7 +1316,7 @@ Pub. L. 99–661, div. A, title II, §213, Nov. 14, 1986, 100 Stat. 3841, prohib
 
 #### Should-Cost Analyses
 
-Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, required Secretary of Defense to submit toCongress an annual report setting forth Secretary's plan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
+Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub. L. 100–26, §11(a)(2), Apr. 21, 1987, 101 Stat. 288, required Secretary of Defense to submit to Congress an annual report setting forth Secretary's plan for performance during next fiscal year of cost analyses for major defense acquisition programs for purpose of determining how much production of covered systems under such programs should cost, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1322(d)(2), Nov. 5, 1990, 104 Stat. 1672.
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 

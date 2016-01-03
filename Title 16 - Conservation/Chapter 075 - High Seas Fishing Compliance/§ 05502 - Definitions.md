@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;&emsp;(C) a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation.
 
-&emsp;(10) The terms "vessel subject to the jurisdiction of the United States" and "vesselwithout nationality" have the same meaning as in subsections (c) and (d) of section 70502 of title 46.
+&emsp;(10) The terms "vessel subject to the jurisdiction of the United States" and "vessel without nationality" have the same meaning as in subsections (c) and (d) of section 70502 of title 46.
 
 (Pub. L. 104–43, title I, §103, Nov. 3, 1995, 109 Stat. 367; Pub. L. 106–562, title III, §305, Dec. 23, 2000, 114 Stat. 2807.)
 

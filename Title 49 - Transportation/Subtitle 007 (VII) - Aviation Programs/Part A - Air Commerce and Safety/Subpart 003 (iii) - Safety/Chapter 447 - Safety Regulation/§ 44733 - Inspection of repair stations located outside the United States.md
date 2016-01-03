@@ -12,7 +12,7 @@ In General.—Not later than 1 year after the date of enactment of this section,
 
 (b)
 
-Notice to Congress of Negotiations.—The Administrator shall notify the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives not later than 30 days after initiating formal negotiations with foreign aviation authorities or other appropriate foreign government agencies on a new maintenance safety or maintenance implementation agreement.
+Notice to Congress of Negotiations.—The Administrator shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives not later than 30 days after initiating formal negotiations with foreign aviation authorities or other appropriate foreign government agencies on a new maintenance safety or maintenance implementation agreement.
 
 (c)
 

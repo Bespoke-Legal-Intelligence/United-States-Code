@@ -72,7 +72,7 @@
 
 #### (A) Designation
 
-&emsp;&emsp;In carrying out the duties of the Office, the Ombudsman may designate an entity as a local Ombudsman entity, and may designate an employee or volunteer to represent the entity.
+&emsp;&emsp;In carrying out the duties of the Office, the Ombudsman may designate an entity asa local Ombudsman entity, and may designate an employee or volunteer to represent the entity.
 
 #### (B) Duties
 
@@ -170,7 +170,7 @@ The State agency shall establish a statewide uniform reporting system to—
 
 #### (1) In general
 
-&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files maintained by theprogram, including records described in subsection (b)(1) or (c) of this section.
+&emsp;The State agency shall establish procedures for the disclosure by the Ombudsman or localOmbudsman entities of files maintained by the program, including records described in subsection (b)(1) or (c) of this section.
 
 #### (2) Identity of complainant or resident
 

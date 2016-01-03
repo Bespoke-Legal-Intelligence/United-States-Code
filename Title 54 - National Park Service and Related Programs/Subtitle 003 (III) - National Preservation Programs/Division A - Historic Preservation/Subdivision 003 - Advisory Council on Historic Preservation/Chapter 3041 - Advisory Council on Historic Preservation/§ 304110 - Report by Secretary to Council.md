@@ -1,6 +1,6 @@
 ### §304110. Report by Secretary to Council
 
-To assist the Council in discharging its responsibilities under this division, the Secretaryat the request of the Chairman shall provide a report to the Council detailing the significance of any historic property, describing the effects of any proposed undertaking on the affected property, and recommending measures to avoid, minimize, or mitigate adverse effects.
+To assist the Council in discharging its responsibilities under this division, the Secretary at the request of the Chairman shall provide a report to the Council detailing the significance of any historic property, describing the effects of any proposed undertaking on the affected property, and recommending measures to avoid, minimize, or mitigate adverse effects.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3214.)
 

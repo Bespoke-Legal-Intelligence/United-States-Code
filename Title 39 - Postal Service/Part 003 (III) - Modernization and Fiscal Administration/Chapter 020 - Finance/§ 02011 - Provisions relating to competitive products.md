@@ -20,7 +20,7 @@
 
 (c) If the Postal Service determines that the moneys of the Competitive Products Fund are in excess of current needs, the Postal Service may request the investment of such amounts as the Postal Service determines advisable by the Secretary of the Treasury in obligations of, or obligations guaranteed by, the Government of the United States, and, with the approval of the Secretary, in such other obligations or securities as the Postal Service determines appropriate.
 
-(d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Competitive Products Fund in any Federal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
+(d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Competitive Products Fund in anyFederal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
 
 (e)(1)(A) Subject to the limitations specified in section 2005(a), the Postal Service is authorized to borrow money and to issue and sell such obligations as the Postal Service determines necessary to provide for competitive products and deposit such amounts in the Competitive Products Fund.
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) the substantive and procedural rules that should be followed in determining the assumed Federal income tax on competitive products income of the Postal Service for any year (within the meaning of section 3634).
 
-(B) Not earlier than 6 months after the date of enactment of this section, and not later than 12 months after such date, the Secretary of the Treasury shall submit the recommendationsunder subparagraph (A) to the Postal Regulatory Commission.
+(B) Not earlier than 6 months after the date of enactment of this section, and not later than 12 months after such date, the Secretary of the Treasury shall submit the recommendations under subparagraph (A) to the Postal Regulatory Commission.
 
 (2)(A) Upon receiving the recommendations of the Secretary of the Treasury under paragraph (1), the Commission shall give interested parties, including the Postal Service, users of the mails, and an officer of the Commission who shall be required to represent the interests of the general public, an opportunity to present their views on those recommendations through submission of written data, views, or arguments with or without opportunity for oral presentation, or in such other manner as the Commission considers appropriate.
 

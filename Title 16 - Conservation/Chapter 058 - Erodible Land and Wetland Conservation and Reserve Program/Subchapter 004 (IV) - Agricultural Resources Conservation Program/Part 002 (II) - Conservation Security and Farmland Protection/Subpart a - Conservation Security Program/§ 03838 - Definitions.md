@@ -72,7 +72,7 @@ In this subpart:
 
 #### (11) Resource management system
 
-&emsp;The term "resource management system" means a system of conservation practices and management relating to land or water use that is designed to prevent resource degradation and permit sustained use of land, water, and other natural resources, as defined in accordance with the technical guide of the Natural Resources Conservation Service.
+&emsp;The term "resource management system" means a system of conservation practices andmanagement relating to land or water use that is designed to prevent resource degradation and permit sustained use of land, water, and other natural resources, as defined in accordance with the technical guide of the Natural Resources Conservation Service.
 
 #### (12) Secretary
 

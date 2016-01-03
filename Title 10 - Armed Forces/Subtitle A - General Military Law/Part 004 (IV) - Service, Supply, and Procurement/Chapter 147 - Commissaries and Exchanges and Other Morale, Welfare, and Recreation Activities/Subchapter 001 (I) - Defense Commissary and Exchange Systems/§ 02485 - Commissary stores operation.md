@@ -42,7 +42,7 @@ Donation of Unusable Food.—(1) The Secretary of Defense may donate food descri
 
 &emsp;(A) A charitable nonprofit food bank that is designated by the Secretary of Defense or the Secretary of Health and Human Services as authorized to receive such donations.
 
-&emsp;(B) A State or local agency that is designated by the Secretary of Defense or the Secretary of Health and Human Services as authorized to receive such donations.
+&emsp;(B) A State or local agency that is designated by the Secretary of Defense or theSecretary of Health and Human Services as authorized to receive such donations.
 
 &emsp;(C) A chapter or other local unit of a recognized national veterans organization that provides services to persons without adequate shelter and is designated by the Secretary of Veterans Affairs as authorized to receive such donations.
 
@@ -108,7 +108,7 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 (5) Amounts received by the Secretary under this section shall be credited to funds derived from commissary surcharges applied under section 2484(e) of this title, shall be merged with those funds, and shall be available for the same purposes as the funds with which merged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(16), Dec. 31, 2011, 125 Stat. 1583.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III,§§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(16), Dec. 31, 2011, 125 Stat. 1583.)
 
 Historical and Revision Notes
 

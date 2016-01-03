@@ -12,7 +12,7 @@ For purposes of this subchapter, the term "qualified school construction bond" m
 
 #### (b) Limitation on amount of bonds designated
 
-The maximum aggregate face amount of bonds issued during any calendar year which may bedesignated under subsection (a) by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer.
+The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (a) by any issuer shall not exceed the limitation amount allocated under subsection (d) for such calendar year to such issuer.
 
 #### (c) National limitation on amount of bonds designated
 

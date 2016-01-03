@@ -58,7 +58,7 @@ Through Routes and Joint Fares.—(1) Establishing through routes and joint fare
 
 (e)
 
-Rail Police.—Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
+Rail Police.—Amtrak may directly employ or contract with rail police to provide security for rail passengers and property of Amtrak. Rail police directly employed by or contracted by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be directly employed or contracted without regard to the law of another State containing those requirements.
 
 (f)
 
@@ -84,7 +84,7 @@ Domestic Buying Preferences.—(1) In this subsection, "United States" means the
 
 &emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909; Pub. L. 105–134, title I, §107, Dec. 2, 1997, 111 Stat. 2573.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909; Pub. L. 105–134, title I, §107, Dec. 2, 1997, 111 Stat. 2573; Pub. L. 114–94, div. A, title XI, §11412(c)(1), Dec. 4, 2015, 129 Stat. 1688.)
 
 Historical and Revision Notes
 
@@ -206,9 +206,191 @@ In subsection (f)(4)(A)(i), the words "imposing" and "with respect to such artic
 
 #### Amendments
 
+<b>2015</b>—Subsec. (e). Pub. L. 114–94 substituted "may directly employ or contract with" for "may employ", "directly employed by or contracted by" for "employed by", and "directly employed or contracted without" for "employed without".
+
 <b>1997</b>—Subsec. (a)(3). Pub. L. 105–134, §107(a), added par. (3).
 
 Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+#### Local Products and Promotional Events
+
+Pub. L. 114–94, div. A, title XI, §11209, Dec. 4, 2015, 129 Stat. 1640, provided that:
+
+"(a)
+
+In General.—Not later than 6 months after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall establish a pilot program for a State or States that sponsor a State-supported route operated by Amtrak to facilitate—
+
+&emsp;"(1) onboard purchase and sale of local food and beverage products; and
+
+&emsp;"(2) partnerships with local entities to hold promotional events on trains or in stations.
+
+"(b)
+
+Program Design.—The pilot program under paragraph (1) shall—
+
+&emsp;"(1) allow a State or States to nominate and select a local food and beverage products supplier or suppliers or local promotional event partner;
+
+&emsp;"(2) allow a State or States to charge a reasonable price or fee for local food and beverage products or promotional events and related activities to help defray the costs of program administration and State-supported routes; and
+
+&emsp;"(3) provide a mechanism to ensure that State products can effectively be handled and integrated into existing food and beverage services, including compliance with all applicable regulations and standards governing such services.
+
+"(c)
+
+Program Administration.—The pilot program shall—
+
+&emsp;"(1) for local food and beverage products, ensure the products are integrated into existing food and beverage services, including compliance with all applicable regulations and standards;
+
+&emsp;"(2) for promotional events, ensure the events are held in compliance with all applicable regulations and standards, including terms to address insurance requirements; and
+
+&emsp;"(3) require an annual report that documents revenues and costs and indicates whether the products or events resulted in a reduction in the financial contribution of a State or States to the applicable State-supported route.
+
+"(d)
+
+Report.—Not later than 4 years after the date of enactment of this Act, Amtrak shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on which States have participated in the pilot programs under this section. The report shall summarize the financial and operational outcomes of the pilot programs and include any plan for future action.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed as limiting Amtrak's ability to operate special trains in accordance with section 216 of the Passenger Rail Investment and Improvement Act of 2008 \[div. B of Pub. L. 110–432\] (49 U.S.C. 24308 note)."
+
+#### Amtrak Pilot Program for Passengers Transporting Domesticated Cats and Dogs
+
+Pub. L. 114–94, div. A, title XI, §11210, Dec. 4, 2015, 129 Stat. 1641, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall develop a pilot program that allows passengers to transport domesticated cats or dogs on certain trains operated by Amtrak.
+
+"(b)
+
+Pet Policy.—In developing the pilot program required under subsection (a), Amtrak shall—
+
+&emsp;"(1) in the case of a passenger train that is comprised of more than 1 car, designate, where feasible, at least 1 car in which a ticketed passenger may transport a domesticated cat or dog in the same manner as carry-on baggage if—
+
+&emsp;&emsp;"(A) the cat or dog is contained in a pet kennel;
+
+&emsp;&emsp;"(B) the pet kennel complies with Amtrak size requirements for carriage of carry-on baggage;
+
+&emsp;&emsp;"(C) the passenger is traveling on a train operating on a route described in subparagraph (A), (B), or (D) of section 24102(7) of title 49, United States Code; and
+
+&emsp;&emsp;"(D) the passenger pays a fee described in paragraph (3);
+
+&emsp;"(2) allow a ticketed passenger to transport a domesticated cat or dog on a train in the same manner as cargo if—
+
+&emsp;&emsp;"(A) the cat or dog is contained in a pet kennel;
+
+&emsp;&emsp;"(B) the pet kennel complies with Amtrak size requirements for carriage of carry-on baggage;
+
+&emsp;&emsp;"(C) the passenger is traveling on a train operating on a route described in subparagraph (A), (B), or (D) of section 24102(7) of title 49, United States Code;
+
+&emsp;&emsp;"(D) the cargo area is temperature controlled in a manner protective of cat and dog safety and health; and
+
+&emsp;&emsp;"(E) the passenger pays a fee described in paragraph (3); and
+
+&emsp;"(3) collect fees for each cat or dog transported by a ticketed passenger in an amount that, in the aggregate and at a minimum, covers the full costs of the pilot program.
+
+"(c)
+
+Report.—Not later than 1 year after the pilot program required under subsection (a) is first implemented, Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing an evaluation of the pilot program.
+
+"(d)
+
+Limitation on Statutory Construction.—
+
+&emsp;"(1)
+
+Service animals.—The pilot program under subsection (a) shall be separate from and in addition to the policy governing Amtrak passengers traveling with service animals. Nothing in this section may be interpreted to limit or waive the rights of passengers to transport service animals.
+
+&emsp;"(2)
+
+Additional train cars.—Nothing in this section may be interpreted to require Amtrak to add additional train cars or modify existing train cars.
+
+&emsp;"(3)
+
+Federal funds.—No Federal funds may be used to implement the pilot program required under this section."
+
+#### Right-of-Way Leveraging
+
+Pub. L. 114–94, div. A, title XI, §11211, Dec. 4, 2015, 129 Stat. 1641, provided that:
+
+"(a)
+
+Request for Proposals.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall issue a Request for Proposals seeking qualified persons or entities to utilize right-of-way and real estate owned, controlled, or managed by Amtrak for telecommunications systems, energy distribution systems, and other activities considered appropriate by Amtrak.
+
+&emsp;"(2)
+
+Contents.—The Request for Proposals shall provide sufficient information on the right-of-way and real estate assets to enable respondents to propose an arrangement that will monetize or generate additional revenue from such assets through revenue sharing or leasing agreements with Amtrak, to the extent possible.
+
+&emsp;"(3)
+
+Deadline.—Amtrak shall set a deadline for the submission of proposals that is not later than 1 year after the issuance of the Request for Proposals under paragraph (1).
+
+"(b)
+
+Consideration of Proposals.—Not later than 180 days after the deadline for the receipt of proposals under subsection (a), the Amtrak Board of Directors shall review and consider each qualified proposal. Amtrak may enter into such agreements as are necessary to implement any qualified proposal.
+
+"(c)
+
+Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors.
+
+"(d)
+
+Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to utilize right-of-way or real estate assets that it currently owns, controls, or manages or constrain Amtrak's ability to enter into agreements with other parties to utilize such assets."
+
+#### Station Development
+
+Pub. L. 114–94, div. A, title XI, §11212, Dec. 4, 2015, 129 Stat. 1642, provided that:
+
+"(a)
+
+Report on Development Options.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], Amtrak shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes—
+
+&emsp;"(1) options to enhance economic development and accessibility of and around Amtrak stations and terminals, for the purposes of—
+
+&emsp;&emsp;"(A) improving station condition, functionality, capacity, and customer amenities;
+
+&emsp;&emsp;"(B) generating additional investment capital and development-related revenue streams;
+
+&emsp;&emsp;"(C) increasing ridership and revenue; and
+
+&emsp;&emsp;"(D) strengthening multimodal connections, including transit, intercity buses, roll-on and roll-off bicycles, and airports, as appropriate; and
+
+&emsp;"(2) options for additional Amtrak stops that would have a positive incremental financial impact to Amtrak, based on Amtrak feasibility studies that demonstrate a financial benefit to Amtrak by generating additional revenue that exceeds any incremental costs.
+
+"(b)
+
+Request for Information.—Not later than 90 days after the date the report is submitted under subsection (a), Amtrak shall issue a Request for Information for 1 or more owners of stations served by Amtrak to formally express an interest in completing the requirements of this section.
+
+"(c)
+
+Proposals.—
+
+&emsp;"(1)
+
+Request for proposals.—Not later than 180 days after the date the Request for Information is issued under subsection (b), Amtrak shall issue a Request for Proposals from qualified persons, including small business concerns owned and controlled by socially and economically disadvantaged individuals and veteran-owned small businesses, to lead, participate, or partner with Amtrak, a station owner that responded under subsection (b), and other entities in enhancing development in and around such stations and terminals using applicable options identified under subsection (a) at facilities selected by Amtrak.
+
+&emsp;"(2)
+
+Consideration of proposals.—Not later than 1 year after the date the Request for Proposals is issued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal.
+
+"(d)
+
+Report.—Not later than 4 years after the date of enactment of this Act, Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals process required under this section, including summary information of any qualified proposals submitted to Amtrak and any proposals acted upon by Amtrak or a station owner that responded under subsection (b).
+
+"(e)
+
+Definitions.—In this section, the terms 'small business concern', 'socially and economically disadvantaged individual', and 'veteran-owned small business' have the meanings given the terms in section 11310(c) of this Act \[129 Stat. 1670\].
+
+"(f)
+
+Savings Clause.—Nothing in this section shall be construed to limit Amtrak's ability to develop its stations, terminals, or other assets, to constrain Amtrak's ability to enter into and carry out agreementswith other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act."
 
 #### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
 
@@ -268,7 +450,7 @@ Definitions.—
 
 Pub. L. 110–432, div. B, title II, §218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: "Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code."
 
-Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code."
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: "Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and \[former\] 24104(a) of title 49, United States Code."
 
 #### Rail and Motor Carrier Passenger Service
 

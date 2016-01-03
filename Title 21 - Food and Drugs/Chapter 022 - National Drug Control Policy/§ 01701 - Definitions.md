@@ -44,7 +44,7 @@ In this chapter:
 
 #### (6) National Drug Control Program
 
-&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilities of such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
+&emsp;The term "National Drug Control Program" means programs, policies, and activities undertaken by National Drug Control Program agencies pursuant to the responsibilitiesof such agencies under the National Drug Control Strategy, including any activities involving supply reduction, demand reduction, or State, local, and tribal affairs.
 
 #### (7) National Drug Control Program agency
 
@@ -182,7 +182,7 @@ Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. 
 
 (d) To the extent permitted by law and at the request of the Chairs, agencies shall cooperate with and provide information to the Task Force.
 
-Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board of the WADA. This order will authorize the Director to serve as the United States Government's representative on the WADA board.
+Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my Administration's efforts to address the problem of drug use in sports, the United States has played a leading role in the formation of a World Anti-Doping Agency (WADA) by the Olympic and sports community and the nations of the world. Through these efforts, the United States has been selected to serve as a governmental representative on the board ofthe WADA. This order will authorize the Director to serve as the United States Government's representative on the WADA board.
 
 (b) Pursuant to 21 U.S.C. 1701 <i>et seq</i>., the Director, or in his absence his designee, is hereby authorized to take all necessary and proper actions to execute his responsibilities as United States representative to the WADA.
 

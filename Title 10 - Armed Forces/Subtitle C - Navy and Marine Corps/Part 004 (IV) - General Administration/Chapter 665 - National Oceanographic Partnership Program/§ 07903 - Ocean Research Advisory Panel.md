@@ -26,13 +26,11 @@ Responsibilities.—The Council shall assign the following responsibilities to t
 
 &emsp;(4) Any additional responsibilities that the Council considers appropriate.
 
-(c)
-
-Funding.—The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.
-
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2473; amended Pub. L. 105–85, div. A, title II, §241(b)(1), Nov. 18, 1997, 111 Stat. 1666.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2473; amended Pub. L. 105–85, div. A, title II, §241(b)(1), Nov. 18, 1997, 111 Stat. 1666; Pub. L. 114–92, div. A, title X, §1084, Nov. 25, 2015, 129 Stat. 1004.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–92 struck out subsec. (c). Text read as follows: "The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel."
 
 <b>1997</b>—Pub. L. 105–85 amended text generally. Prior to amendment, text read as follows:
 

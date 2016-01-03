@@ -98,7 +98,7 @@ Payment in advance.—A requisitioning agency shall pay in advance when the Admi
 
 &emsp;&emsp;(B)
 
-Prompt reimbursement.—If payment is not made in advance, the Administrationshall be reimbursed promptly out of amounts of the requisitioning agency in accordance with accounting procedures approved by the Comptroller General.
+Prompt reimbursement.—If payment is not made in advance, the Administration shall be reimbursed promptly out of amounts of the requisitioning agency in accordance with accounting procedures approved by the Comptroller General.
 
 &emsp;&emsp;(C)
 

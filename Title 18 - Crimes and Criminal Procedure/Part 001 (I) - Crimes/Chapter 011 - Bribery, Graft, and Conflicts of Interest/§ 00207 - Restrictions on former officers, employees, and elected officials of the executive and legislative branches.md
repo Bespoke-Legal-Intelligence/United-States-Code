@@ -42,7 +42,7 @@ One-Year Restrictions on Aiding or Advising.—
 
 &emsp;(1)
 
-In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under section 552 of title 5, which is so designated by the appropriate department or agency, andwhich the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
+In general.—Any person who is a former officer or employee of the executive branch of the United States (including any independent agency) and is subject to the restrictions contained in subsection (a)(1), or any person who is a former officer or employee of the legislative branch or a former Member of Congress, who personally and substantially participated in any ongoing trade or treaty negotiation on behalf of the United States within the 1-year period preceding the date on which his or her service or employment with the United States terminated, and who had access to information concerning such trade or treaty negotiation which is exempt from disclosure under section 552 of title 5, which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent, aid, or advise any other person (except the United States) concerning such ongoing trade or treaty negotiation for a period of 1 year after his or her service or employment with the United States terminates. Any person who violates this subsection shall be punished as provided in section 216 of this title.
 
 &emsp;(2)
 
@@ -154,11 +154,11 @@ Personal staff.—(A) Any person who is an employee of a Member of the House of 
 
 &emsp;(4)
 
-Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, any communication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Committee staff.—Any person who is an employee of a committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such committee or joint committee (as the case may be), knowingly makes, with the intent to influence, anycommunication to or appearance before any person who is a Member or an employee of that committee or joint committee (as the case may be) or who was a Member of the committee or joint committee (as the case may be) in the year immediately prior to the termination of such person's employment by the committee or joint committee (as the case may be), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(5)
 
-Leadership staff.—(A) Any person who is an employee on the leadership staff of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such staff, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described insubparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
+Leadership staff.—(A) Any person who is an employee on the leadership staff of the House of Representatives to whom paragraph (7)(A) applies and who, within 1 year after the termination of that person's employment on such staff, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B), on behalf of any other person (except the United States) in connection with any matter on which such former employee seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
 &emsp;(B) The persons referred to in subparagraph (A) with respect to appearances or communications by a former employee are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.
 
@@ -206,7 +206,7 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(L) the term "Member of the leadership of the House of Representatives" means the Speaker, majority leader, minority leader, majority whip, minority whip, chief deputy majority whip, chief deputy minority whip, chairman of the Democratic Steering Committee, chairman and vice chairman of the Democratic Caucus, chairman, vice chairman, and secretary of the Republican Conference, chairman of the Republican Research Committee, and chairman of the Republican Policy Committee, of the House of Representatives (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989);
 
-&emsp;&emsp;(M) the term "Member of the leadership of the Senate" means the Vice President, and the President pro tempore, Deputy Presidentpro tempore, majority leader, minority leader, majority whip, minority whip, chairman and secretary of the Conference of the Majority, chairman and secretary of the Conference of the Minority, chairman and co-chairman of the Majority Policy Committee, and chairman of the Minority Policy Committee, of the Senate (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989).
+&emsp;&emsp;(M) the term "Member of the leadership of the Senate" means the Vice President, and the President pro tempore, Deputy President pro tempore, majority leader, minority leader, majority whip, minority whip, chairman and secretary of the Conference of the Majority, chairman and secretary of the Conference of the Minority, chairman and co-chairman of the Majority Policy Committee, and chairman of the Minority Policy Committee, of the Senate (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989).
 
 (f)
 
@@ -286,7 +286,7 @@ State and local governments and institutions, hospitals, and organizations.—Th
 
 &emsp;(3)
 
-International organizations.—The restrictions contained in this section shall notapply to an appearance or communication on behalf of, or advice or aid to, an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States.
+International organizations.—The restrictions contained in this section shall not apply to an appearance or communication on behalf of, or advice or aid to, an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States.
 
 &emsp;(4)
 
@@ -334,7 +334,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(vii) the term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writingthat it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
+(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writing that it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
 
 (B)(i) A waiver granted under this paragraph to any person shall apply only with respect to activities engaged in by that person after that person's Federal Government employment is terminated and only to that person's employment at a Government-owned, contractor operated entity with which the person served as an officer or employee immediately before the person's Federal Government employment began.
 
@@ -372,7 +372,7 @@ Contract Advice by Former Details.—Whoever, being an employee of a private sec
 
 Section 1102 of the Omnibus Trade and Competitiveness Act of 1988, referred to in subsec. (b)(2)(A), is classified to section 2902 of Title 19, Customs Duties.
 
-Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B), are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
+Levels I, II, and IV of the Executive Schedule, referred to in subsecs. (c)(2)(A)(ii), (d)(1)(B), and (e)(7)(B),are set out in sections 5312, 5313, and 5315, respectively, of Title 5, Government Organization and Employees.
 
 The National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (c)(2)(A)(ii), is Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1392. For complete classification of this Act to the Code, see Tables.
 
@@ -384,7 +384,7 @@ The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 1
 
 Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
 
-Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classifiedto section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
+Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classified to section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
 
 Section 101 of the Higher Education Act of 1965, referred to in subsec. (j)(2)(B), is classified to section 1001 of Title 20, Education.
 
@@ -480,7 +480,7 @@ Subsec. (c)(2)(A)(ii). Pub. L. 103–322, §330002(i), substituted a comma for s
 
 <b>1992</b>—Subsec. (f)(2), (3). Pub. L. 102–395 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1991</b>—Subsec. (k). Pub. L. 102–25 reinstated subsec. (k) as originally enacted by Pub. L. 101–189. See 1989Amendment note and Effective Date of 1991 Amendments note below.
+<b>1991</b>—Subsec. (k). Pub. L. 102–25 reinstated subsec. (k) as originally enacted by Pub. L. 101–189. See 1989 Amendment note and Effective Date of 1991 Amendments note below.
 
 Subsec. (k)(1)(B). Pub. L. 102–190 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -524,13 +524,13 @@ Subsec. (i)(1). Pub. L. 101–280, §2(a)(9), amended subsec. (i)(1), as amended
 
 Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (a), (c), (d), and (e)", "on behalf of" for "as an officer or employee of", and "or the District of Columbia" for "Government".
 
-Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and (e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
+Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting "this section" for "subsections (c), (d), and\(e)" and "in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States" for "of which the United States is a member".
 
 Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting "Special" for "Personal matters and special" in heading, substituting "prevent an individual" for "apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee", substituting "individual's" for "former officer's or employee's", and striking out ", other than that regularly provided for by law or regulation for witnesses" after "if no compensation is thereby received".
 
 Subsec. (j)(5). Pub. L. 101–280, §2(a)(10)(D), amended subsec. (j)(5), as amended by Pub. L. 101–194, by substituting "and (d)" for "(d), and (e)" and inserting "For purposes of this paragraph, the term 'officer or employee' includes the Vice President."
 
-Subsec. (j)(6). Pub. L. 101–280, §2(a)(10)(E)(ii), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting "sentence—" for "sentence, a former officeror employee subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the United States) in that matter." and adding subpars. (A) and (B).
+Subsec. (j)(6). Pub. L. 101–280, §2(a)(10)(E)(ii), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting "sentence—" for "sentence, a former officer or employee subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the United States) in that matter." and adding subpars. (A) and (B).
 
 Pub. L. 101–280, §2(a)(10)(E)(i), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting "an individual" for "a former Member of Congress or officer or employee of the executive or legislative branch or an independent agency (including the Vice President and any special Government employee)".
 
@@ -686,7 +686,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Pub. L. 95–521, title V, §502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
 Pub. L. 95–521, title V, §503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 

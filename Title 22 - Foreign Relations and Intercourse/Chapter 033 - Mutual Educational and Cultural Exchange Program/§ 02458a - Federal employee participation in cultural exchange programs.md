@@ -2,7 +2,7 @@
 
 #### (a) Grants and other foreign government assistance; family or household expense assistance prohibited; "Federal employee" defined
 
-(1) Congress consents to the acceptance by a Federal employee of grants and other forms of assistance provided by a foreign government to facilitate the participation of such Federal employee in a cultural exchange—
+(1) Congress consents to the acceptance by a Federal employee of grants and other forms ofassistance provided by a foreign government to facilitate the participation of such Federal employee in a cultural exchange—
 
 &emsp;(A) which is of the type described in section 2452(a)(2)(i) of this title,
 

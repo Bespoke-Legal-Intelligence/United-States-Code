@@ -142,7 +142,7 @@ For purposes of this section, the term "host country" means a foreign country wh
 
 &emsp;(2) either—
 
-&emsp;&emsp;(A) classified as a country eligible to participate in development assistance programs of the Agency for International Development pursuant to applicable law or regulation; or
+&emsp;&emsp;(A) classified as a country eligible to participate in development assistance programsof the Agency for International Development pursuant to applicable law or regulation; or
 
 &emsp;&emsp;(B) a developing country or country with an economy in transition from a nonmarket to a market economy.
 

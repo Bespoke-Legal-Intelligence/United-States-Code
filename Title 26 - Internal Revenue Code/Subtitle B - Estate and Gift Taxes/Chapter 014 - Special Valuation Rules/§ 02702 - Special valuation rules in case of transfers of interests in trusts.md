@@ -68,7 +68,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) subparagraph (A) of subsection (a)(2) shall not apply to such term interest, and
 
-&emsp;&emsp;(B) the value of such term interest for purposes of applying subsection (a)(1) shall be the amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
+&emsp;&emsp;(B) the value of such term interest for purposes of applying subsection (a)(1) shall bethe amount which the holder of the term interest establishes as the amount for which such interest could be sold to an unrelated third party.
 
 #### (d) Treatment of transfers of interests in portion of trust
 

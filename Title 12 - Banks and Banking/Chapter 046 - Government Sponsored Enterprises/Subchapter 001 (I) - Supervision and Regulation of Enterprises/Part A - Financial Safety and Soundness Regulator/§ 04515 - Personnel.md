@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation ofsuch officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
+Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation of such officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
 #### (b) Comparability of compensation with Federal banking agencies
 
-In fixing and directing compensation under subsection (a) of this section, the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+In fixing and directing compensation under subsection (a), the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
 #### (c) Personnel of other Federal agencies
 

@@ -2,7 +2,7 @@
 
 #### (a) No other funding
 
-Funds for the orderly liquidation of any covered financial company under this subchapter shall only be provided as specified under this subchapter.
+Funds for the orderly liquidation of any covered financial company under this subchaptershall only be provided as specified under this subchapter.
 
 #### (b) Limit on governmental actions
 

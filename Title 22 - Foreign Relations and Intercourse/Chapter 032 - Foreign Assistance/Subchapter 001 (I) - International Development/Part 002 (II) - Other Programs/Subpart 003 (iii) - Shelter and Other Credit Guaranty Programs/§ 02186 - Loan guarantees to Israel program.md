@@ -10,7 +10,7 @@ The President is authorized to issue guarantees in furtherance of the purposes o
 
 &emsp;(1) in fiscal year 1993, up to $2,000,000,000 may be issued on October 1, 1992 or thereafter;
 
-&emsp;(2) subject to subsection (d), in fiscal years 1994 through 1997, up to $2,000,000,000 in each fiscal year may be issued on October 1 or thereafter.
+&emsp;(2) subject to subsection (d), in fiscal years 1994 through 1997, up to $2,000,000,000 in eachfiscal year may be issued on October 1 or thereafter.
 
 &emsp;(3) If less than the full amount of guarantees authorized to be made available in a fiscal year pursuant to paragraphs (1) and (2) of this subsection is issued to Israel during that fiscal year, the authority to issue the balance of such guarantees shall extend to any subsequent fiscal year ending on or before September 30, 1998.
 
@@ -28,7 +28,7 @@ The amount of authorized but unissued guarantees that the President is authorize
 
 #### (e) Fees
 
-(1) Fees charged for the loan guarantee program under this section each year shall be an aggregate annual origination fee equal to the estimated subsidy cost of the guarantees issued under this section for that year, calculated by the Office of Management and Budget for the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. This shall also include an amount for the administrative expenses of the Agency for International Development in administering the program under this section. All such fees shall be paid by the Government of Israel to the Government of the United States. Funds made available for Israel under part 4 of subchapter II of this chapter, may be utilized by the Governmentof Israel to pay such fees to the United States Government. No further appropriations of subsidy cost are needed for the loan guarantee authorized hereunder for fiscal year 1993 and the four succeeding fiscal years.
+(1) Fees charged for the loan guarantee program under this section each year shall be an aggregate annual origination fee equal to the estimated subsidy cost of the guarantees issued under this section for that year, calculated by the Office of Management and Budget for the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. This shall also include an amount for the administrative expenses of the Agency for International Development in administering the program under this section. All such fees shall be paid by the Government of Israel to the Government of the United States. Funds made available for Israel under part 4 of subchapter II of this chapter, may be utilized by the Government of Israel to pay such fees to the United States Government. No further appropriations of subsidy cost are needed for the loan guarantee authorized hereunder for fiscal year 1993 and the four succeeding fiscal years.
 
 (2) The origination fee shall be payable to the United States Government on a pro rata basis as each guarantee for each loan or increment is issued.
 
@@ -68,7 +68,7 @@ The President shall report to Congress by December 31 of each fiscal year until 
 
 #### (l) Applicability of certain sections
 
-Section 2183 of this title shall apply to guarantees issued under subsection (a) in the same manner as such section applies to guarantees issued under section 2182 of this title, except that subsections (a), (e)(1), (g), and (j) of section 2183 of this title shall not apply to such guarantees and except that, to the extent section 2183 of this title is inconsistent with the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], that Act shall apply. Loans shall be guaranteed under this section without regard to sections 2181, 2182, and 2198(c) of this title. Notwithstanding section 2183(f) of this title, the interest rate for loans guaranteed under this section may include a reasonable fee to cover the costs and fees incurred by the borrower in connection with this program or financing under this section in the event the borrower elects not to finance such costs or fees out of loan principal. Guaranteesonce issued hereunder shall be unconditional and fully and freely transferable.
+Section 2183 of this title shall apply to guarantees issued under subsection (a) in the same manner as such section applies to guarantees issued under section 2182 of this title, except that subsections (a), (e)(1), (g), and (j) of section 2183 of this title shall not apply to such guarantees and except that, to the extent section 2183 of this title is inconsistent with the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\], that Act shall apply. Loans shall be guaranteed under this section without regard to sections 2181, 2182, and 2198(c) of this title. Notwithstanding section 2183(f) of this title, the interest rate for loans guaranteed under this section may include a reasonable fee to cover the costs and fees incurred by the borrower in connection with this program or financing under this section in the event the borrower elects not to finance such costs or fees out of loan principal. Guarantees once issued hereunder shall be unconditional and fully and freely transferable.
 
 #### (m) Terms and conditions
 

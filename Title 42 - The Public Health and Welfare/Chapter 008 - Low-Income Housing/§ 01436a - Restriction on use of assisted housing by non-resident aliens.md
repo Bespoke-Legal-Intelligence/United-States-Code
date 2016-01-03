@@ -76,7 +76,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity, not to exceed 30 days, to submit to the applicable Secretary evidence indicating a satisfactory immigration status, or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),
 
-&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigrationstatus of that individual until the expiration of that 30-day period; and
+&emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
 
 &emsp;&emsp;&emsp;(iii) in the case of any individual applying for financial assistance on or after September 30, 1996, may not deny the application for such assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
 
@@ -276,7 +276,7 @@ Subsec. (d)(4). Pub. L. 100–242, §164(c)(2), in introductory provisions, inse
 
 Subsec. (d)(4)(A)(i). Pub. L. 100–242, §164(c)(3), inserted after comma "or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),".
 
-Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "if thereare submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—".
+Subsec. (d)(4)(B). Pub. L. 100–242, §164(c)(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "if there are submitted documents which the Secretary determines constitutes reasonable evidence indicating such status—".
 
 Subsec. (d)(4)(B)(i), (ii). Pub. L. 100–242, §164(c)(5), (6), inserted "or additional information" after "documents" in cl. (i), and "or appeal" after "verification" in cl. (ii).
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. C, title V, §571, Sept. 30, 1996, 110 Stat. 3009–684, provided that: "This subtitle \[subtitle E (§§571–577) of title V of div. C of Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the 'Use of Assisted Housing by Aliens Act of 1996'."
+Pub. L. 104–208, div. C, title V, §571, Sept. 30, 1996, 110 Stat. 3009–684, provided that: "This subtitle \[subtitle E\(§§571–577) of title V of div. C of Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the 'Use of Assisted Housing by Aliens Act of 1996'."
 
 #### Regulations
 

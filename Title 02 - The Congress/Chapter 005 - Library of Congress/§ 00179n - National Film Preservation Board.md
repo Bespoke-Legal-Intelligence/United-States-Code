@@ -96,7 +96,7 @@ Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted "5" for "three".
 
 Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted "12" for "11".
 
-Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the Board shall serve without pay, but may be reimbursed for the actual andnecessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board."
+Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

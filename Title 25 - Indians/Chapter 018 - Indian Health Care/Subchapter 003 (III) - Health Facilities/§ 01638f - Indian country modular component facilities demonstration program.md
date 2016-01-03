@@ -64,7 +64,7 @@ There are authorized to be appropriated $50,000,000 to carry out the demonstrati
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principallyto subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Codification
 

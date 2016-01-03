@@ -6,5 +6,5 @@ In the distribution of farmers' bulletins, which shall be adapted to the interes
 
 #### Codification
 
-Section is derived from an Appropriation Act for the Department of Agriculture, 1907. The last proviso of section relating to farmers' bulletins not called for in quotas of Senators and Representatives was omitted from the Code as obsolete in view of Attorney General's opinion, 27 Op. Atty. Gen. 288.
+Section is derived from an Appropriation Act for the Department of Agriculture, 1907. The last proviso of section relating to farmers' bulletins not called for in quotas of Senators and Representatives was omittedfrom the Code as obsolete in view of Attorney General's opinion, 27 Op. Atty. Gen. 288.
 

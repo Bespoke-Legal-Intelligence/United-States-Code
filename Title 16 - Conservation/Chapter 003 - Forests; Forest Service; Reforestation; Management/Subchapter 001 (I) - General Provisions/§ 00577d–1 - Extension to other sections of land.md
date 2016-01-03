@@ -38,7 +38,7 @@ Township 63 north, range 3 west, fourth principal meridian: North half section 1
 
 Township 63 north, range 9 west, fourth principal meridian: Lot 3 section 15; lots 4, 6, 7, 8, 10, 11 and 12 section 16; lots 6 and 7 section 19.
 
-Township 63 north, range 10 west, fourth principal meridian: Section 6, north half section 7; lots 7 and 8 section 24; northeast quarter, lots 1, 3 and 4, southwest quarter southwest quarter, east half southwest quarter, southeast quarter section 25; lots 5, 6, 7, 8, 9, 10, southeast quarter southeast quarter section 26; lots 3 to 6, inclusive, lot 8, southwest quarter, southwest quarter southeast quarter section 27; lots 5 to 8, inclusive, south half section 28; lots 5 to 8, inclusive, south half section 29; lots 10 to 14, inclusive, southeast quarter southeast quarter section 30; sections 31 to 36, inclusive.
+Township 63 north, range 10 west, fourth principal meridian: Section 6, north half section 7; lots 7 and 8 section 24; northeast quarter, lots 1, 3 and 4, southwest quarter southwest quarter, east half southwest quarter, southeast quarter section 25; lots 5, 6, 7, 8, 9, 10, southeast quarter southeast quarter section 26; lots 3 to 6, inclusive, lot 8, southwest quarter, southwest quarter southeast quarter section 27; lots 5 to 8, inclusive, south half section 28; lots 5 to 8, inclusive, south half section 29; lots 10 to 14, inclusive,southeast quarter southeast quarter section 30; sections 31 to 36, inclusive.
 
 Township 63 north, range 11 west, fourth principal meridian: Sections 1 to 4, inclusive; north half of sections 9 to 12, inclusive; lots 9 to 12, inclusive, section 25; lots 5 and 6, section 26; section 35 except lot 3; section 36.
 

@@ -34,7 +34,7 @@ Any permit issued under this section shall—
 
 &emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
 
-(B) A permit under this paragraph shall grant to the person to which it is issued the right,without obtaining any additional permit or authorization under this chapter, to—
+(B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
 
 &emsp;(i) take, import, purchase, offer to purchase, possess, or transport the marine mammal that is the subject of the permit; and
 
@@ -58,13 +58,13 @@ Any permit issued under this section shall—
 
 &emsp;(i) finds in concurrence with the Secretary of Agriculture, that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(ii) and is not reasonably likely to meet those requirements in the near future, or
 
-&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonably likely to meet those requirements in the near future,
+&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonablylikely to meet those requirements in the near future,
 
-> the Secretary may revoke the permit in accordance with subsection (e) of this section, seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
+> the Secretary may revoke the permit in accordance with subsection (e), seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 
 (E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary may only require the notification to include the information required for the inventory established under paragraph (10).
 
-(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
+(3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
 (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
@@ -86,7 +86,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) taking or importation is likely to contribute significantly to maintaining or increasing distribution or numbers necessary to ensure the survival or recovery of the species or stock; and
 
-&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by theSecretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
+&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
 
 (B) A permit issued in accordance with this paragraph may allow the captive maintenance of a marine mammal from a depleted species or stock only if the Secretary—
 
@@ -102,7 +102,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) Canada has a monitored and enforced sport hunting program consistent with the purposes of the Agreement on the Conservation of Polar Bears;
 
-&emsp;(ii) Canada has a sport hunting program based on scientifically sound quotas ensuring the maintenance of the affected population stock at a sustainable level;
+&emsp;(ii) Canada has a sport hunting program based on scientifically sound quotas ensuringthe maintenance of the affected population stock at a sustainable level;
 
 &emsp;(iii) the export and subsequent import are consistent with the provisions of the Convention on International Trade in Endangered Species of Wild Fauna and Flora and other international agreements and conventions; and
 
@@ -114,7 +114,7 @@ Any permit issued under this section shall—
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2) of this section, issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
+(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2), issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
 
 (6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
@@ -126,7 +126,7 @@ Any permit issued under this section shall—
 
 &emsp;(C) meets the requirements of paragraph (4), in the case of a request for a permit under that paragraph.
 
-(8)(A) No additional permit or authorization shall be required to possess, sell, purchase,transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
+(8)(A) No additional permit or authorization shall be required to possess, sell, purchase, transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
 
 &emsp;(i) for the purpose of public display, and by or to, respectively, a person which meets the requirements of clauses (i), (ii), and (iii) of paragraph (2)(A);
 
@@ -186,7 +186,7 @@ Any permit issued under this section shall—
 
 &emsp;(B) in any case in which a violation of the terms and conditions of the permit is found, or
 
-&emsp;(C) if, in the case of a permit under subsection (c)(5) of this section authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada's polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
+&emsp;(C) if, in the case of a permit under subsection (c)(5) authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada's polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
 
 (2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
 

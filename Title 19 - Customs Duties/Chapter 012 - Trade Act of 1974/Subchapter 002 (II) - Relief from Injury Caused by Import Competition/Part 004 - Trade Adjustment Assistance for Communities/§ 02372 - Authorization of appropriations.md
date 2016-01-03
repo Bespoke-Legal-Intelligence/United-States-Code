@@ -16,7 +16,7 @@ This subpart, referred to in subsec. (b), means former subpart B (§§2372, 2372
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L.112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–152, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–152, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
 
 Section was formerly classified to section 2372a of this title prior to renumbering by Pub. L. 112–40.
 

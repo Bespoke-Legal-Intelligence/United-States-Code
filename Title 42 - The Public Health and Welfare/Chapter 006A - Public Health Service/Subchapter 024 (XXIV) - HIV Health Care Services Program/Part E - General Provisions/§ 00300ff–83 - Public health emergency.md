@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety ofthose receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the funds allocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
+In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety of those receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the funds allocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
 
 #### (b) Emergency area and emergency period
 
@@ -32,7 +32,7 @@ If funds under a grant under this section are not expended for an emergency in t
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat.1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 

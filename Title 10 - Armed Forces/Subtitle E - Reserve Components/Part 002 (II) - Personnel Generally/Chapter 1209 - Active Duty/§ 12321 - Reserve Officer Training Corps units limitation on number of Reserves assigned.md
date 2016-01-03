@@ -6,7 +6,7 @@ The number of members of the reserve components serving on active duty or full-t
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 renumbered section 690 of this title as this section and substituted "Reserve OfficerTraining Corps units: limitation on number of Reserves assigned" for "Limitation on duty with Reserve Officer Training Corps units" as section catchline.
+<b>1994</b>—Pub. L. 103–337 renumbered section 690 of this title as this section and substituted "Reserve Officer Training Corps units: limitation on number of Reserves assigned" for "Limitation on duty with Reserve Officer Training Corps units" as section catchline.
 
 <b>1993</b>—Pub. L. 103–160 substituted "may not exceed 275" for "may not exceed 200".
 

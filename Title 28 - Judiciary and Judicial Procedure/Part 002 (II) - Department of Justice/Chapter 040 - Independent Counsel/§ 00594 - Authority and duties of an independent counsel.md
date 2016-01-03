@@ -224,7 +224,7 @@ Administrative support.—The Director of the Administrative Office of the Unite
 
 Office space.—The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 6(a)–(c), Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1300; Pub. L. 103–270, §3(a)–(f), (m), (o), June 30, 1994, 108 Stat. 732–734, 736; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §118\], Sept. 30, 1996, 110 Stat. 3009, 3009-23; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 

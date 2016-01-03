@@ -2,7 +2,7 @@
 
 #### (a) Preparation and distribution
 
-The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of differentethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
+The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
 
 #### (b) Contents
 
@@ -52,7 +52,7 @@ Each lender shall include with the booklet a good faith estimate of the amount o
 
 #### (d) Distribution by lenders to loan applicants at time of receipt or preparation of applications
 
-Each lender referred to in subsection (a) of this section shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 
 #### (e) Printing and distribution by lenders of booklets approved by Bureau
 
@@ -64,7 +64,7 @@ Booklets may be printed and distributed by lenders if their form and content are
 
 This chapter, referred to in subsec. (a), was in the original "this title" and was translated as reading "this Act", meaning Pub. L. 93–533, which is classified principally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–533 does not contain titles.
 
-The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and areclassified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 

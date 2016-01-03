@@ -2,11 +2,11 @@
 
 #### (a) General authority
 
-The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e) of this section) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
+The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e)) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
 
 #### (b) Briefings
 
-The Director or his designee (who may be the leader or a member of a Team), on behalf of aTeam, shall hold regular public briefings on the status of investigative proceedings and findings, including a final briefing after the report required by section 7307 of this title is issued.
+The Director or his designee (who may be the leader or a member of a Team), on behalf of a Team, shall hold regular public briefings on the status of investigative proceedings and findings, including a final briefing after the report required by section 7307 of this title is issued.
 
 #### (c) Public hearings
 

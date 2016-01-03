@@ -48,7 +48,7 @@ Pub. L. 89–699, §301(b), (d), designated existing provisions as subsec. (a), 
 
 Subsec. (b). Pub. L. 89–699, §301(d), added subsec. (b).
 
-<b>1965</b>—Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 13½ percent of so much of the compensation paid to such employee representative for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 14½ percent of so much of the compensation paid to such employee representative for services rendered by him after Dec. 31, 1961, and inserted "and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended".
+<b>1965</b>—Pub. L. 89–212 substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 13½ percent of so much of the compensation paid tosuch employee representative for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 14½ percent of so much of the compensation paid to such employee representative for services rendered by him after Dec. 31, 1961, and inserted "and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended".
 
 Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages by section 3101(a) at such time exceeds 2¾ percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956)" for "the rate of the tax imposed with respect to wages by section 3101 at such time exceeds the rate provided by paragraph (2) of such section 3101 as amended by the Social Security Amendments of 1956" and inserted "plus the rate imposed by section 3101(b)" after "section 3101(a)", respectively.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 94–93 applicable for taxable years ending on or after Aug
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid forservices rendered on or after Oct. 1, 1972; and applicable to railway labor organization covered by private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1972; and applicable to railway labor organization covered by private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -112,7 +112,7 @@ Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Interna
 
 #### Separability
 
-Pub. L. 91–215, §9, Mar. 17, 1970, 84 Stat. 72, provided that: "If any provision of this Act \[amending this section, section 3221 of this title, and sections 228c and 228o of Title 45, Railroads, enacting provisions set out as notes under section 3221 of this title and sections 228c and 228o of Title 45, and amending provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the remainder of this Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby."
+Pub. L. 91–215, §9, Mar. 17, 1970, 84 Stat. 72, provided that: "If any provision of this Act \[amending this section, section 3221 of this title, and sections 228c and 228o of Title 45, Railroads, enacting provisions set out as notes under section 3221 of this title and sections 228c and 228o of Title 45, and amending provisions set out asnotes under this section\] or the application thereof to any person or circumstances is held invalid, the remainder of this Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby."
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 

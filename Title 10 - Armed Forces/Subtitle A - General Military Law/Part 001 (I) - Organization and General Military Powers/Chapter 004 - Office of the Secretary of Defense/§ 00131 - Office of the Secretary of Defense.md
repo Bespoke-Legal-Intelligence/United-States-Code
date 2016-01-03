@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(E) The Director of Small Business Programs appointed pursuant to section 144 of this title.
 
-&emsp;&emsp;(F) The official designated under section 1501(a) of this title to have responsibility forDepartment of Defense matters relating to missing persons as set forth in section 1501 of this title.
+&emsp;&emsp;(F) The official designated under section 1501(a) of this title to have responsibility for Department of Defense matters relating to missing persons as set forth in section 1501 of this title.
 
 &emsp;&emsp;(G) The Director of Family Policy under section 1781 of this title.
 
@@ -94,7 +94,7 @@ A prior section 131 was renumbered section 111 of this title.
 
 <b>2014</b>—Subsec. (b)(2). Pub. L. 113–291, §901(a)(2), added subpar. (A) and redesignated former subpars. (A) to (E) as (B) to (F), respectively.
 
-Subsec. (b)(5) to (7). Pub. L. 113–291, §901(j)(1)(A), redesignated pars. (6) to (8) as (5) to (7), respectively, and struck out former par. (5) which read as follows: "The Chief Information Officer of the Department of Defense."
+Subsec. (b)(5) to (7). Pub. L. 113–291, §901(j)(1)(A), redesignated pars. (6) to (8) as (5) to (7), respectively, andstruck out former par. (5) which read as follows: "The Chief Information Officer of the Department of Defense."
 
 Pub. L. 113–291, §901(b)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 

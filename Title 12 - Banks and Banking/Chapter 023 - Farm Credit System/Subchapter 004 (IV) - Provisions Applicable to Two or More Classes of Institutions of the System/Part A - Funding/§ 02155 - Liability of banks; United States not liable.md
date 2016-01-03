@@ -8,7 +8,7 @@
 
 (B) Such calls first shall be made on all nondefaulting banks in proportion to each such bank's proportionate share of the aggregate available collateral held by all such banks.
 
-(C) For purposes of this paragraph, the term "available collateral" means the amount (determined at the close of the last calendar quarter ending before such call) by which a bank's collateral as described in section 2154 of this title exceeds the collateral required to support thebank's outstanding notes, bonds, debentures, and other similar obligations.
+(C) For purposes of this paragraph, the term "available collateral" means the amount (determined at the close of the last calendar quarter ending before such call) by which a bank's collateral as described in section 2154 of this title exceeds the collateral required to support the bank's outstanding notes, bonds, debentures, and other similar obligations.
 
 (D) If the Farm Credit Administration makes any such call and the available collateral of all such banks does not fully satisfy the liability necessitating such calls, such calls shall be made on all nondefaulting banks in proportion to each such bank's remaining assets.
 
@@ -18,7 +18,7 @@
 
 #### (b) Resolutions as to liability; execution of obligations
 
-Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a) of this section, and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
+Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a), and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
 
 #### (c) United States liability
 

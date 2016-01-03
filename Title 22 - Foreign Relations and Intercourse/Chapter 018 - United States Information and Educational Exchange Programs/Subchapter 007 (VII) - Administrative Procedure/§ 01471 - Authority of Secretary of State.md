@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Actof June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>2</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -80,7 +80,7 @@ Findings.—The Congress finds that the overriding national security aspects of 
 
 "(b)
 
-Responsive Bid.—A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be less than 55 percent of the value of his proposal and the resulting total contract.
+Responsive Bid.—A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be lessthan 55 percent of the value of his proposal and the resulting total contract.
 
 "(c)
 

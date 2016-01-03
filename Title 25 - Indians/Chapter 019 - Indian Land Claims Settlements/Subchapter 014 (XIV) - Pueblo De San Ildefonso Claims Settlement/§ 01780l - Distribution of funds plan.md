@@ -6,5 +6,5 @@ Not later than 2 years after September 27, 2006, the Secretary of the Interior s
 
 #### References in Text
 
-The Indian Tribal Judgment Funds Use or Distribution Act, referred to in text, is Pub. L. 93–134, Oct. 19,1973, 87 Stat. 466, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
+The Indian Tribal Judgment Funds Use or Distribution Act, referred to in text, is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, which is classified generally to chapter 16 (§1401 et seq.) of this title. For complete classification of this Act to the Code, see section 1401(c) of this title and Tables.
 

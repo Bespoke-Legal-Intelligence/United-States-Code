@@ -16,7 +16,7 @@ The Congress declares and finds that:
 
 &emsp;&emsp;(B) The Tribe's district court suit contended that in 1840 the Tribe and the State entered into an agreement without Federal approval or participation whereby the Tribe ceded its treaty reservation to the State, thereby giving rise to the Tribe's claim that it was dispossessed of its lands in violation of Federal law.
 
-&emsp;&emsp;(C) In 1943, the United States entered into an agreement with the Tribe and the State to provide services to the Tribe and its members. The State purchased 3,434 acres of land and conveyed it to the Secretary in trust for the Tribe and the Tribe organized under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
+&emsp;&emsp;(C) In 1943, the United States entered into an agreement with the Tribe and the Stateto provide services to the Tribe and its members. The State purchased 3,434 acres of land and conveyed it to the Secretary in trust for the Tribe and the Tribe organized under the Indian Reorganization Act \[25 U.S.C. 461 et seq.\].
 
 &emsp;&emsp;(D) In 1959, when Congress enacted the Catawba Tribe of South Carolina Division of Assets Act (25 U.S.C. 931–938), Federal agents assured the Tribe that if the Tribe would release the Government from its obligation under the 1943 agreement and agree to Federal legislation terminating the Federal trust relationship and liquidating the 1943 reservation, the status of the Tribe's land claim would not be jeopardized by termination.
 

@@ -50,7 +50,7 @@
 
 #### (2) Major swap participant
 
-&emsp;Any person that is required to be registered as a major swap participant under this sectionshall register with the Commission regardless of whether the person also is a depository institution or is registered with the Securities and Exchange Commission as a major security-based swap participant.
+&emsp;Any person that is required to be registered as a major swap participant under this section shall register with the Commission regardless of whether the person also is a depository institution or is registered with the Securities and Exchange Commission as a major security-based swap participant.
 
 #### (d) Rulemakings
 
@@ -128,7 +128,7 @@
 
 #### (C) Margin requirements
 
-&emsp;&emsp;In prescribing margin requirements under this subsection, the prudential regulatorwith respect to swap dealers and major swap participants for which it is the prudential regulator and the Commission with respect to swap dealers and major swap participants for which there is no prudential regulator shall permit the use of noncash collateral, as the regulator or the Commission determines to be consistent with—
+&emsp;&emsp;In prescribing margin requirements under this subsection, the prudential regulator with respect to swap dealers and major swap participants for which it is the prudential regulator and the Commission with respect to swap dealers and major swap participants for which there is no prudential regulator shall permit the use of noncash collateral, as the regulator or the Commission determines to be consistent with—
 
 &emsp;&emsp;&emsp;(i) preserving the financial integrity of markets trading swaps; and
 
@@ -147,6 +147,10 @@
 &emsp;&emsp;&emsp;&emsp;(I) swap dealers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) major swap participants.
+
+#### (4) Applicability with respect to counterparties
+
+&emsp;The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed by rules adopted pursuant to paragraphs (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a counterparty qualifies for an exception under section 2(h)(7)(A) of this title, or an exemption issued under section 6(c)(1) of this title from the requirements of section 2(h)(1)(A) of this title for cooperative entities as defined in such exemption, or satisfies the criteria in section 2(h)(7)(D) of this title.
 
 #### (f) Reporting and recordkeeping
 
@@ -240,7 +244,7 @@
 
 &emsp;&emsp;&emsp;(ii) any material incentives or conflicts of interest that the swap dealer or major swap participant may have in connection with the swap; and
 
-&emsp;&emsp;&emsp;(iii)(I) for cleared swaps, upon the request of the counterparty, receipt of the daily mark of the transaction from the appropriate derivatives clearing organization; and
+&emsp;&emsp;&emsp;(iii)(I) for cleared swaps, upon the request of the counterparty, receipt of thedaily mark of the transaction from the appropriate derivatives clearing organization; and
 
 &emsp;&emsp;&emsp;(II) for uncleared swaps, receipt of the daily mark of the transaction from the swap dealer or the major swap participant;
 
@@ -468,7 +472,7 @@ Each registered swap dealer and major swap participant at all times shall comply
 
 &emsp;If the counterparty does not choose to require segregation of the funds or other property supplied to margin, guarantee, or secure the obligations of the counterparty, the swap dealer or major swap participant shall report to the counterparty of the swap dealer or major swap participant on a quarterly basis that the back office procedures of the swap dealer or major swap participant relating to margin and collateral requirements are in compliance with the agreement of the counterparties.
 
-(Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703.)
+(Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, §302(a), Jan. 12, 2015, 129 Stat. 28.)
 
 #### References in Text
 
@@ -478,11 +482,27 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 
 #### Amendments
 
+<b>2015</b>—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
+
 <b>2010</b>—Subsec. (l). Pub. L. 111–203, §724(c), added subsec. (l).
 
 #### Effective Date
 
 Section and amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+
+#### Implementation
+
+Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title to the Commodity Exchange Act \[amending this section\] shall be implemented—
+
+&emsp;"(1) without regard to—
+
+&emsp;&emsp;"(A) chapter 35 of title 44, United States Code; and
+
+&emsp;&emsp;"(B) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;"(2) through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and
+
+&emsp;"(3) such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
 

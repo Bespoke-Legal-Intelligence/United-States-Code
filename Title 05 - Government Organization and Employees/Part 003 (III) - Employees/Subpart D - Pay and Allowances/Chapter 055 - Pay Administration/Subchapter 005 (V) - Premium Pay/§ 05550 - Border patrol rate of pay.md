@@ -94,7 +94,7 @@ Pay assignment continuity.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 1 year after the date of enactment of the BorderPatrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the border patrol agent has been assigned during the course of the career of the border patrol agent.
+In general.—Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the border patrol agent has been assigned during the course of the career of the border patrol agent.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -266,7 +266,7 @@ In general.—For a period of absence during scheduled overtime (as described in
 
 &emsp;&emsp;(B)
 
-Priority for same day work.—In substituting hours of work under subparagraph\(A), work performed on the same day as the period of absence shall be substituted first.
+Priority for same day work.—In substituting hours of work under subparagraph (A), work performed on the same day as the period of absence shall be substituted first.
 
 &emsp;(3)
 
@@ -294,7 +294,13 @@ The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referre
 
 A prior section 5550, added Pub. L. 92–392, §10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by Pub. L. 102–378, §2(44)(A), Oct. 2, 1992, 106 Stat. 1352.
 
+#### Effective Date
+
+Section effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as an Effective Date of 2014 Amendment note under section 5542 of this title.
+
 #### Minimization of Overtime
 
 Pub. L. 113–277, §2(c)(2), Dec. 18, 2014, 128 Stat. 3003, provided that: "U.S. Customs and Border Protection shall, to the maximum extent practicable, avoid the use of scheduled overtime work by border patrol agents."
+
+\[Section 2(c)(2) of Pub. L. 113–277, set out above, effective on the first day of the first pay period beginning on or after Jan. 1, 2016, with exception, see section 2(i) of Pub. L. 113–277, set out as an Effective Date of 2014 Amendment note under section 5542 of this title.\]
 

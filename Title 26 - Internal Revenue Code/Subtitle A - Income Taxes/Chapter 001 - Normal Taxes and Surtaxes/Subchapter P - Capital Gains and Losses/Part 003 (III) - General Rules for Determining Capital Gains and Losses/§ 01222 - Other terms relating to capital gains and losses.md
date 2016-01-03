@@ -86,7 +86,7 @@ Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 198
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIV, §1402(a)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by thatsection is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(a)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
 Pub. L. 94–455, title XIV, §1402(a)(2), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 

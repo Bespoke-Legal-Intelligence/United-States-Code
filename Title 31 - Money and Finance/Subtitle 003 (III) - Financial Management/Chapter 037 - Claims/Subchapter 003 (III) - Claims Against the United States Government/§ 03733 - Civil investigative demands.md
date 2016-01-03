@@ -54,7 +54,7 @@ Contents and deadlines.—
 
 &emsp;&emsp;(E) Any civil investigative demand issued under this section which is an express demand for any product of discovery shall not be returned or returnable until 20 days after a copy of such demand has been served upon the person from whom the discovery was obtained.
 
-&emsp;&emsp;(F) The date prescribed for the commencement of oral testimony pursuant to a civil investigative demand issued under this section shall be a date which is not less than seven days after the date on which demand is received, unless the Attorney General or an Assistant Attorney General designated by the Attorney General determines that exceptional circumstances are present which warrant the commencement of such testimony within a lesser period of time.
+&emsp;&emsp;(F) The date prescribed for the commencement of oral testimony pursuant to a civil investigative demand issued under this section shall be a date which is not less thanseven days after the date on which demand is received, unless the Attorney General or an Assistant Attorney General designated by the Attorney General determines that exceptional circumstances are present which warrant the commencement of such testimony within a lesser period of time.
 
 &emsp;&emsp;(G) The Attorney General shall not authorize the issuance under this section of more than one civil investigative demand for oral testimony by the same person unless the person requests otherwise or unless the Attorney General, after investigation, notifies that person in writing that an additional demand for oral testimony is necessary.
 
@@ -128,7 +128,7 @@ Sworn certificates.—The production of documentary material in response to a ci
 
 &emsp;(2)
 
-Production of materials.—Any person upon whom any civil investigative demand forthe production of documentary material has been served under this section shall make such material available for inspection and copying to the false claims law investigator identified in such demand at the principal place of business of such person, or at such other place as the false claims law investigator and the person thereafter may agree and prescribe in writing, or as the court may direct under subsection (j)(1). Such material shall be made so available on the return date specified in such demand, or on such later date as the false claims law investigator may prescribe in writing. Such person may, upon written agreement between the person and the false claims law investigator, substitute copies for originals of all or any part of such material.
+Production of materials.—Any person upon whom any civil investigative demand for the production of documentary material has been served under this section shall make such material available for inspection and copying to the false claims law investigator identified in such demand at the principal place of business of such person, or at such other place as the false claims law investigator and the person thereafter may agree and prescribe in writing, or as the court may direct under subsection (j)(1). Such material shall be made so available on the return date specified in such demand, or on such later date as the false claims law investigator may prescribe in writing. Such person may, upon written agreement between the person and the false claims law investigator, substitute copies for originals of all or any part of such material.
 
 (g)
 
@@ -170,7 +170,7 @@ Furnishing or inspection of transcript by witness.—Upon payment of reasonable 
 
 &emsp;(7)
 
-Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
+Conduct of oral testimony.—(A) Any person compelled to appear for oral testimony under a civil investigative demand issued under subsection (a) may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on the grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person may not otherwise object to or refuse to answer any question, and may not directly or through counsel otherwise interrupt the oral examination. If such personrefuses to answer any question, a petition may be filed in the district court of the United States under subsection (j)(1) for an order compelling such person to answer such question.
 
 &emsp;(B) If such person refuses to answer any question on the grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of part V of title 18.
 
@@ -216,7 +216,7 @@ Conditions for return of material.—If any documentary material has been produc
 
 &emsp;(5)
 
-Appointment of successor custodians.—In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts oforal testimony produced pursuant to a civil investigative demand under this section, or in the event of the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Attorney General shall promptly—
+Appointment of successor custodians.—In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced pursuant to a civil investigative demand under this section, or in the event of the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Attorney General shall promptly—
 
 &emsp;&emsp;(A) designate another false claims law investigator to serve as custodian of such material, answers, or transcripts, and
 
@@ -262,7 +262,7 @@ Jurisdiction.—Whenever any petition is filed in any district court of the Unit
 
 &emsp;(6)
 
-Applicability of federal rules of civil procedure.—The Federal Rules of Civil Procedure shall apply to any petition under thissubsection, to the extent that such rules are not inconsistent with the provisions of this section.
+Applicability of federal rules of civil procedure.—The Federal Rules of Civil Procedure shall apply to any petition under this subsection, to the extent that such rules are not inconsistent with the provisions of this section.
 
 (k)
 

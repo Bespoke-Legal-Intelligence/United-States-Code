@@ -31,6 +31,7 @@ Part E—Miscellaneous Provisions
 - [&sect; 01395jj - Designation of organization or publication by name](%C2%A7%2001395jj%20-%20Designation%20of%20organization%20or%20publication%20by%20name.md)
 - [&sect; 01395kk - Administration of insurance programs](%C2%A7%2001395kk%20-%20Administration%20of%20insurance%20programs.md)
 - [&sect; 01395kk&#8211;1 - Contracts with medicare administrative contractors](%C2%A7%2001395kk%E2%80%931%20-%20Contracts%20with%20medicare%20administrative%20contractors.md)
+- [&sect; 01395kk&#8211;2 - Expanding availability of Medicare data](%C2%A7%2001395kk%E2%80%932%20-%20Expanding%20availability%20of%20Medicare%20data.md)
 - [&sect; 01395ll - Studies and recommendations](%C2%A7%2001395ll%20-%20Studies%20and%20recommendations.md)
 - [&sect; 01395mm - Payments to health maintenance organizations and competitive medical plans](%C2%A7%2001395mm%20-%20Payments%20to%20health%20maintenance%20organizations%20and%20competitive%20medical%20plans.md)
 - [&sect; 01395nn - Limitation on certain physician referrals](%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md)

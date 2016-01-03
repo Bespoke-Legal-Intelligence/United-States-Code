@@ -12,7 +12,7 @@ Section was formerly classified to section 481 of Title 5 prior to the general r
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title andprovisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
+Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: "This Act \[enacting section 1475b of this title and provisions set out as a note under section 1475b of this title\] may be cited as the 'Department of the Interior Volunteer Recruitment Act of 2005'."
 
 #### Transfer of Functions
 
@@ -42,7 +42,7 @@ Compensation of Secretary, see section 5312 of Title 5, Government Organization 
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267,listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 9432
 

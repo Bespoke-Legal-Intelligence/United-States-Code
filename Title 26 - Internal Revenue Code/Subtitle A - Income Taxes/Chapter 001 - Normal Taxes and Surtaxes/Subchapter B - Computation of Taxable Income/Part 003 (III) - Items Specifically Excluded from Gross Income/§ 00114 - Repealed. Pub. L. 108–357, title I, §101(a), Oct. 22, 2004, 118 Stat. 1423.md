@@ -36,7 +36,7 @@ Coordination with section 199.—This subsection shall be applied without regard
 
 "(e)
 
-Revocation of Election To Be Treated as Domestic Corporation.—If, during the 1-year period beginning on the date of the enactment of this Act \[Oct. 22, 2004\], a corporation for which an election is in effect under section 943(e) of the Internal Revenue Code of 1986 revokes such election, no gain or loss shall be recognized with respect to property treated as transferred under clause (ii) of section 943(e)(4)(B) of such Code to the extent such property—
+Revocation of Election To Be Treated as Domestic Corporation.—If, during the 1-year period beginning on the date of the enactment of this Act \[Oct. 22, 2004\], a corporation for which an election is in effect under section 943(e) of the Internal Revenue Code of 1986 revokes such election, no gain or loss shall be recognized with respect to property treated as transferredunder clause (ii) of section 943(e)(4)(B) of such Code to the extent such property—
 
 &emsp;"(1) was treated as transferred under clause (i) thereof, or
 

@@ -96,7 +96,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
-(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
+(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequentlist in the annual report to the Congress, as required by section 1906(b)(6) of this title.
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 
@@ -138,7 +138,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (4) For purposes of this subsection, the Foreign Language Center of the Defense Language Institute and any other educational institution that provides training in foreign languages operated by the Department of Defense or an agency in the intelligence community is deemed to be an institution of higher education, and may carry out the types of activities permitted under the National Flagship Language Initiative.
 
-(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) of this section shall enter into a service agreement under subsection (b) of this section applicable to an undergraduate or graduate student, as thecase may be, with respect to participation in such training in a program under paragraph (1).
+(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) of this section shall enter into a service agreement under subsection (b) of this section applicable to an undergraduate or graduate student, as the case may be, with respect to participation in such training in a program under paragraph (1).
 
 (6)(A) An employee of a department or agency of the Federal Government who participates in training in a program under paragraph (1) shall agree in writing—
 
@@ -192,7 +192,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;&emsp;&emsp;(iii) is a former civilian employee of the Federal Government who has less than a one-year break in service from the last period of Federal employment of such individual in a non-permanent appointment in the excepted service with national security responsibilities.
 
-(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24,2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899.)
+(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899.)
 
 #### Codification
 
@@ -202,7 +202,7 @@ In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of t
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: "The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
-&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
+&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program forwhich a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
 
 &emsp;"(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment."
 
@@ -250,7 +250,7 @@ Subsec. (b)(2)(A)(ii), (B)(ii). Pub. L. 105–272, §305(a)(2)(B), inserted "cou
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–201, §1078(b)(2)(A), inserted "relating to the national security interests of the United States" after "international fields".
 
-Subsec. (a)(1)(B)(ii). Pub. L. 104–201, §1078(b)(2)(B), substituted "subsection (b)(2)(B)" for "subsection (b)(2)" and "work in a national security position orwork in" for "work for an agency or office of the Federal Government or in".
+Subsec. (a)(1)(B)(ii). Pub. L. 104–201, §1078(b)(2)(B), substituted "subsection (b)(2)(B)" for "subsection (b)(2)" and "work in a national security position or work in" for "work for an agency or office of the Federal Government or in".
 
 Subsec. (b). Pub. L. 104–201, §1078(c)(1), in introductory provisions, substituted "or any scholarship" for ", or of scholarships that provide assistance for periods that aggregate 12 months or more,".
 

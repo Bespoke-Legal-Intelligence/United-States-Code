@@ -10,7 +10,7 @@ Date of Appointment.—The Secretary concerned shall appoint a board under this 
 
 (c)
 
-Combined Inquiries.—If it appears to the Secretary concerned that the absence or statusof two or more persons is factually related, the Secretary may appoint one board under this section to conduct the inquiry into the whereabouts and status of such persons.
+Combined Inquiries.—If it appears to the Secretary concerned that the absence or status of two or more persons is factually related, the Secretary may appoint one board under this section to conduct the inquiry into the whereabouts and status of such persons.
 
 (d)
 
@@ -64,7 +64,7 @@ Counsel for Missing Persons.—(1) When the Secretary concerned appoints a board
 
 (g)
 
-Attendance of Family Members and Certain Other Interested Persons at Proceedings.—(1) With respect to any person covered by an inquiry under this section, the primary next of kin, other members of the immediate family, and any other previously designated person of the person may attend the proceedings of the board during the inquiry.
+Attendance of Family Members and Certain Other Interested Persons at Proceedings.—(1) With respect to any person covered by an inquiry under this section, the primary next of kin, other members of the immediate family,and any other previously designated person of the person may attend the proceedings of the board during the inquiry.
 
 (2) The Secretary concerned shall take reasonable actions to notify each individual referred to in paragraph (1) of the opportunity to attend the proceedings of a board. Such notice shall be provided not less than 60 days before the first meeting of the board.
 
@@ -126,7 +126,7 @@ Actions by Secretary Concerned.—(1) Not later than 30 days after the receipt o
 
 (2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
-(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
+(3) Upon a determination by the Secretary that a report reviewed under this subsection iscomplete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 
 (l)
 
@@ -140,7 +140,7 @@ Report to Family Members and Other Interested Persons.—Not later than 60 days 
 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L.104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
 
 #### Amendments
 

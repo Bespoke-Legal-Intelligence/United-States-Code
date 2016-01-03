@@ -122,7 +122,7 @@ Each State or unit of local government which receives a grant under this section
 
 #### (g) Reports to Congress
 
-Not later than 90 days after the end of each fiscal year for which grants are made under thissection, the Attorney General shall submit to the Congress a report that includes—
+Not later than 90 days after the end of each fiscal year for which grants are made under this section, the Attorney General shall submit to the Congress a report that includes—
 
 &emsp;(1) the aggregate amount of grants made under this section to each State or unit of local government for such fiscal year;
 
@@ -266,7 +266,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;&emsp;The Attorney General shall—
 
-&emsp;&emsp;&emsp;(i) at the discretion of a State or unit of local government required to file a reportunder subparagraph (A), allow such State or unit of local government, at their sole discretion, to submit such reports on a more frequent basis; and
+&emsp;&emsp;&emsp;(i) at the discretion of a State or unit of local government required to file a report under subparagraph (A), allow such State or unit of local government, at their sole discretion, to submit such reports on a more frequent basis; and
 
 &emsp;&emsp;&emsp;(ii) make available to all States and units of local government the reporting form created pursuant to subparagraph (A), whether or not they are required to submit such reports, and allow such States or units of local government, at their sole discretion, to submit such reports for publication.
 
@@ -424,7 +424,7 @@ Subsec. (b)(6). Pub. L. 108–405, §202(a)(3)(F), added par. (6).
 
 Subsec. (b)(7). Pub. L. 108–405, §202(b)(2), added par. (7).
 
-Subsec. (c). Pub. L. 108–405, §202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects."
+Subsec. (c). Pub. L. 108–405, §202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A State that proposes to allocate grant amounts under paragraph (4) or (5) ofsubsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects."
 
 Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant to subsection (b)(1) of this section" for "The plan" in introductory provisions and struck out "within the State" after "local government" in subpars. (A) and (B).
 

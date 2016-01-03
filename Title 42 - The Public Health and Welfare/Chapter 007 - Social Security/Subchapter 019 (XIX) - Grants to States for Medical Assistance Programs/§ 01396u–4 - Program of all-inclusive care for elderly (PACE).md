@@ -68,7 +68,7 @@
 
 #### (7) "PACE demonstration waiver program" defined
 
-&emsp;For purposes of this section, the term "PACE demonstration waiver program" means a demonstration program under either of the following sections (as in effect before the date of their repeal):
+&emsp;For purposes of this section, the term "PACE demonstration waiver program"means a demonstration program under either of the following sections (as in effect before the date of their repeal):
 
 &emsp;&emsp;(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21), as extended by section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272).
 
@@ -130,7 +130,7 @@
 
 #### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
 
-&emsp;For provisions relating to limitations on payments to providers participating under theState plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but not under subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
+&emsp;For provisions relating to limitations on payments to providers participating under the State plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but notunder subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
 
 #### (c) Eligibility determinations
 

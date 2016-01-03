@@ -36,13 +36,13 @@ Because progress toward a Cyprus settlement is a high priority of United States 
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
-In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
+In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forthin subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
 
 #### (e) Arms sales agreements to prohibit transfer to Cyprus
 
 (1) Any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (Pub. L. 87–195, pt. III, §620C, as added Pub. L. 95–384, §13(b), Sept. 26, 1978, 92 Stat. 737; amended Pub. L. 100–202, §101(e) \[title V, §562\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–171.)
 

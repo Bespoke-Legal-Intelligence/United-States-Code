@@ -22,7 +22,7 @@ In addition to the Cochairmen, the Council shall consist of the following member
 
 #### (d) State decision not to participate
 
-If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, the agencies referred to in subsection (c)(1) of this section and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3) of this section. The Council, so composed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j) of this section. In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
+If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, the agencies referred to in subsection (c)(1) and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3). The Council, so composed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j). In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
 
 #### (e) Compensation and expenses
 
@@ -30,7 +30,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The other members of the Council who are Federal employees shall receive no additional compensation for service on the Council.
 
-(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3) of this section, shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
+(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3), shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
 
 (4) The State Cochairman and other State members of the Council have been compensated in accordance with applicable State law.
 
@@ -40,9 +40,9 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The office of the Council shall be located in the State of Alaska.
 
-(3) Except as provided in subsection (d) of this section, within any one fiscal year, the Federal Government shall pay only 50 per centum of the costs and other expenses other than salaries, benefits, et cetera of members, incurred by the Council in carrying out its duties under this Act.
+(3) Except as provided in subsection (d), within any one fiscal year, the Federal Government shall pay only 50 per centum of the costs and other expenses other than salaries, benefits, et cetera of members, incurred by the Council in carrying out its duties under this Act.
 
-(4) The Council is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement. Each department and agency of the Federal Government is authorized and directed to cooperate fully in making its services, equipment, personnel, and facilities available to the Council. Personnel detailed to the Council in accordance with the provisions of this subsection shall be under the direction ofthe Cochairman during any period such staff is so detailed.
+(4) The Council is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement. Each department and agency of the Federal Government is authorized and directed to cooperate fully in making its services, equipment, personnel, and facilities available to the Council. Personnel detailed to the Council in accordance with the provisions of this subsection shall be under the direction of the Cochairman during any period such staff is so detailed.
 
 (5) The Council is authorized to accept donations, gifts, and other contributions and to utilize such donations, gifts, and contributions in carrying out its functions under this Act.
 
@@ -58,7 +58,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (i) Functions of the Council
 
-(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
+(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture,other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
 
 (2) It shall be the function of the Council—
 
@@ -90,11 +90,11 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 (2) With respect to lands, waters, and interests therein which are subject to a cooperative agreement in accordance with this subsection, the Secretary, in addition to any requirement of applicable law, may provide technical and other assistance to the landowner with respect to fire control, trespass control, law enforcement, resource use, and planning. Such assistance may be provided without reimbursement if the Secretary determines that to do so would further the purposes of the cooperative agreement and would be in the public interest.
 
-(3) Cooperative agreements established pursuant to this section shall include a plan for public participation consistent with the guidelines established by the Council pursuant to subsection (m) of this section.
+(3) Cooperative agreements established pursuant to this section shall include a plan for public participation consistent with the guidelines established by the Council pursuant to subsection (m).
 
 #### (k) Nonacceptance of Council recommendations
 
-If any Federal or State agency does not accept a recommendation made by the Council pursuant to subsection (i) or (j) of this section, such agency, within thirty days of receipt of the recommendation, shall inform the Council, in writing, of its reason for such action.
+If any Federal or State agency does not accept a recommendation made by the Council pursuant to subsection (i) or (j), such agency, within thirty days of receipt of the recommendation, shall inform the Council, in writing, of its reason for such action.
 
 #### (l) Termination
 

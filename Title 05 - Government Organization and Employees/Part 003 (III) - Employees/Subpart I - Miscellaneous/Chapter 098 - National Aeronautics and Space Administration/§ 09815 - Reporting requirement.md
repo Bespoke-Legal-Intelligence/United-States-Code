@@ -16,7 +16,7 @@ The Administrator shall submit to the appropriate committees of Congress, not la
 
 &emsp;(7) The average amount paid per appointee, and the largest amount paid to any appointee, under section 9811 during the preceding fiscal year for travel and transportation expenses.
 
-&emsp;(8) The total number of employees who were awarded enhanced annual leave under section 9812 during the preceding fiscal year; of that total number, the number of employees who were serving in a position addressing a critical need described in the workforce plan pursuant to section 9802(b)(2); and, for employees in each of those respective groups, the average amount of additional annual leave such employees earned in the preceding fiscal year (over and above what they would have earned absent section 9812).
+&emsp;(8) The total number of employees who were awarded enhanced annual leave under section 9812 during the preceding fiscal year; of that total number, the number of employees who were serving in a position addressing a critical need described in the workforce plan pursuant to section 9802(b)(2); and, for employees in each of those respective groups, the average amount of additional annual leave such employees earned in the preceding fiscal year\(over and above what they would have earned absent section 9812).
 
 &emsp;(9) The total number of appointments made under section 9813 during the preceding fiscal year and, of that total number, the number of appointments that were made to address a critical need described in the workforce plan pursuant to section 9802(b)(2).
 

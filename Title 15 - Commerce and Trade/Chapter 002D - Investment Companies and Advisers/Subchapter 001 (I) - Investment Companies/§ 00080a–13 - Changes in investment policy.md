@@ -8,13 +8,13 @@ No registered investment company shall, unless authorized by the vote of a major
 
 &emsp;(2) borrow money, issue senior securities, underwrite securities issued by other persons, purchase or sell real estate or commodities or make loans to other persons, except in each case in accordance with the recitals of policy contained in its registration statement in respect thereto;
 
-&emsp;(3) deviate from its policy in respect of concentration of investments in any particular industry or group of industries as recited in its registration statement, deviate from any investment policy which is changeable only if authorized by shareholder vote, or deviate from any policy recited in its registration statement pursuant to section 80a–8(b)(3) of this title; or
+&emsp;(3) deviate from its policy in respect of concentration of investments in any particular industry or group of industries as recited in its registration statement, deviate from any investment policy which is changeable only if authorized by shareholder vote, or deviatefrom any policy recited in its registration statement pursuant to section 80a–8(b)(3) of this title; or
 
 &emsp;(4) change the nature of its business so as to cease to be an investment company.
 
 #### (b) Majority equivalent for common-law trusts
 
-In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of subsection (a) of this section be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
+In the case of a common-law trust of the character described in section 80a–16(c) of this title, either written approval by holders of a majority of the outstanding shares of beneficial interest or the vote of a majority of such outstanding shares cast in person or by proxy at a meeting called for the purpose shall for the purposes of subsection (a) be deemed the equivalent of the vote of a majority of the outstanding voting securities, and the provisions of paragraph (42) of section 80a–2(a) of this title as to a majority shall be applicable to the vote cast at such a meeting.
 
 #### (c) Limitation on actions
 
@@ -30,7 +30,7 @@ In the case of a common-law trust of the character described in section 80a–16
 
 #### (A) Rule of construction
 
-&emsp;&emsp;Nothing in paragraph (1) shall be construed to create, imply, diminish, change, oraffect in any way whether or not a private right of action exists under subsection (a) or any other provision of this chapter.
+&emsp;&emsp;Nothing in paragraph (1) shall be construed to create, imply, diminish, change, or affect in any way whether or not a private right of action exists under subsection (a) or any other provision of this chapter.
 
 #### (B) Disclosures
 

@@ -12,7 +12,7 @@
 
 (b) For the purpose of determining whether a commissioned officer of the Regular Army in the Medical Corps may be retired under section 3911, 3918, or 3924 of this title, his years of service are computed by adding to his service under subsection (a) all service performed as a contract surgeon, acting assistant surgeon, or contract physician, under a contract to serve full time and to take and change station as ordered.
 
-(c) For the purpose of determining whether a commissioned officer of the Regular Army in the Dental Corps may be retired under section 3911, 3918, or 3924 of this title, his years of service are computed by adding to his service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
+(c) For the purpose of determining whether a commissioned officer of the Regular Army in the Dental Corps may be retired under section3911, 3918, or 3924 of this title, his years of service are computed by adding to his service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
 
 (d) For the purpose of determining whether a commissioned officer of the Army Nurse Corps or the Army Medical Specialist Corps may be retired under section 3911 of this title, all service computed under section 3683 <sup>1</sup> of this title shall be treated as if it were service as a commissioned officer.
 
@@ -100,7 +100,7 @@ Section 3683 of this title, referred to in subsecs. (a)(3) and (d), was repealed
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

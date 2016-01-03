@@ -10,7 +10,7 @@ For the purpose of this subchapter—
 
 > &emsp;but does not include a member of the uniformed services or an individual employed or holding office in the government of the District of Columbia;
 
-&emsp;(2) "partisan political office" means any office for which any candidate is nominated or elected as representing a party any of whose candidates for Presidential elector receivedvotes in the last preceding election at which Presidential electors were selected, but shall exclude any office or position within a political party or affiliated organization; and
+&emsp;(2) "partisan political office" means any office for which any candidate is nominated or elected as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected, but shall exclude any office or position within a political party or affiliated organization; and
 
 &emsp;(3) "political contribution"—
 

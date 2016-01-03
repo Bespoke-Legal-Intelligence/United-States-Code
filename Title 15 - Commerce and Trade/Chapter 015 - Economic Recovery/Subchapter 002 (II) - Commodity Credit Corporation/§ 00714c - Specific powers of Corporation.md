@@ -4,7 +4,7 @@ In the fulfillment of its purposes and in carrying out its annual budget program
 
 (a) Support the prices of agricultural commodities (other than tobacco) through loans, purchases, payments, and other operations.
 
-(b) Make available materials and facilities required in connection with the production and marketing of agricultural commodities (other than tobacco).
+(b) Make available materials and facilities required in connection with the production andmarketing of agricultural commodities (other than tobacco).
 
 (c) Procure agricultural commodities (other than tobacco) for sale to other Government agencies, foreign governments, and domestic, foreign, or international relief or rehabilitation agencies, and to meet domestic requirements.
 
@@ -82,7 +82,7 @@ Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 
-Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: "Notwithstanding any other provision oflaw, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
+Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject tosuch terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
 
 &emsp;"(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but
 

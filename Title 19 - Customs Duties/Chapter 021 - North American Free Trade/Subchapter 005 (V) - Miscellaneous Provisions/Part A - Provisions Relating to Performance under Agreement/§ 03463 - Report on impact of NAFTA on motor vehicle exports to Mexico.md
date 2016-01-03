@@ -10,7 +10,7 @@ The Congress makes the following findings:
 
 &emsp;(3) The Department of Commerce estimates that the Agreement provides the opportunity to increase United States exports of motor vehicles and motor vehicle parts by $1,000,000,000 during the first year of the Agreement's implementation with the potential for additional increases over the 10-year transition period.
 
-&emsp;(4) The United States automotive industry has estimated that United States exports of motor vehicles to Mexico should increase to more than 60,000 units during the first year ofthe Agreement's implementation, which is substantially above the current level of 4,000 units.
+&emsp;(4) The United States automotive industry has estimated that United States exports of motor vehicles to Mexico should increase to more than 60,000 units during the first year of the Agreement's implementation, which is substantially above the current level of 4,000 units.
 
 #### (b) Trade Representative report
 

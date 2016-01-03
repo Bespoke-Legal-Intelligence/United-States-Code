@@ -28,7 +28,7 @@ Pub. L. 94–385, title I, §101, Aug. 14, 1976, 90 Stat. 1127, provided that: "
 
 #### Short Title
 
-Pub. L. 93–275, §1, May 7, 1974, 88 Stat. 96, provided that: "This Act \[enacting this chapter and provisionsset out as notes under this section\] may be cited as the 'Federal Energy Administration Act of 1974'."
+Pub. L. 93–275, §1, May 7, 1974, 88 Stat. 96, provided that: "This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the 'Federal Energy Administration Act of 1974'."
 
 #### Separability
 
@@ -62,7 +62,7 @@ Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–38
 
 &emsp;&emsp;"(B) for the fiscal year ending September 30, 1978, not to exceed $62,459,000.
 
-&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
+&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions describedin part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
 
 &emsp;&emsp;"(A) for the fiscal year ending September 30, 1977, not to exceed $38,603,000; and
 
@@ -110,7 +110,7 @@ Ex. Ord. No. 11726, June 29, 1973, 38 F.R. 17711, formerly set out as a note und
 
 Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415, as amended by Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, provided:
 
-Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in beingon an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
+Executive Order No. 11726 of June 29, 1973, established in the Executive Office of the President an Energy Policy Office. Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], established in the Executive Office of the President a Federal Energy Office. In order to permit an orderly transition, the Energy Policy Office was continued in being on an interim basis. That transition has been successfully completed and the Energy Policy Office should now be abolished.
 
 NOW, THEREFORE, by virtue of the authority vested in me as the President of the United States of America it is hereby ordered as follows:
 
@@ -126,7 +126,7 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12919, §904(c), June 3, 1994, 59 F.R. 29534, provided:
 
-Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 (Public Law 93–275) \[this chapter\], the Emergency Petroleum Allocation Act of 1973 (Public Law 93–159; 87 Stat. 627) \[15 U.S.C. §751 et seq.\], the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.), and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 (Public Law 93–275) \[this chapter\], the Emergency Petroleum Allocation Act of 1973 (Public Law 93–159; 87 Stat. 627) \[15 U.S.C. 751 et seq.\], the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. 1904 note\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.) \[now 50 U.S.C. 4501 et seq.\], and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. Pursuant to the authority vested in me by section 30 of the Federal Energy Administration Act of 1974 \[set out above\], notice is hereby given that that act shall be effective as of June 27, 1974.
 
@@ -138,7 +138,7 @@ Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in t
 
 (b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. §1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under section 754 of this title\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. §1904 note\].
 
-Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under section 2153 of Title 50, Appendix, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. App. §2061 et seq.\], except section 708 thereof \[50 U.S.C. App. §2158\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
+Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under section 2153 of the former Appendix to Title 50, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. 4501 et seq.\], except section 708 thereof \[50 U.S.C. 4558\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
 
 Sec. 5. (a) The Federal Energy Office established by Executive Order No. 11748 is hereby abolished, and that Executive order is hereby revoked.
 

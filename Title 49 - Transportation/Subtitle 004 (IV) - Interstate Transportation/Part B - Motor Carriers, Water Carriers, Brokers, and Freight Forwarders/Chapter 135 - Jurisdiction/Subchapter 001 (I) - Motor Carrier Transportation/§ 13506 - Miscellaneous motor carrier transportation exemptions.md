@@ -56,15 +56,17 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(13) transportation of wood chips;
 
-&emsp;(14) brokers for motor carriers of passengers, except as provided in section 13904(d); <sup>1</sup> or
+&emsp;(14) brokers for motor carriers of passengers, except as provided in section 13904(d); <sup>1</sup>
 
-&emsp;(15) transportation of broken, crushed, or powdered glass.
+&emsp;(15) transportation of broken, crushed, or powdered glass; or
+
+&emsp;(16) the transportation of passengers by 9 to 15 passenger motor vehicles operated by youth or family camps that provide recreational or educational activities.
 
 (b)
 
 Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 
-&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
+&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially apart of, the municipality or municipalities, except—
 
 &emsp;&emsp;(A) when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
 
@@ -74,7 +76,7 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 &emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861; amended Pub. L. 105–102, §2(8), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 107–298, §3(b)(1), Nov. 26, 2002, 116 Stat. 2343.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861; amended Pub. L. 105–102, §2(8), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 107–298, §3(b)(1), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 114–113, div. L, title I, §136, Dec. 18, 2015, 129 Stat. 2851.)
 
 #### Historical and Revision Notes
 
@@ -92,13 +94,15 @@ Provisions similar to those in this section were contained in section 10526 of t
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(16). Pub. L. 114–113 added par. (16).
+
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;".
 
 <b>1997</b>—Subsec. (a)(5). Pub. L. 105–102 substituted "1141j(a)))" for "1141j(a))".
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

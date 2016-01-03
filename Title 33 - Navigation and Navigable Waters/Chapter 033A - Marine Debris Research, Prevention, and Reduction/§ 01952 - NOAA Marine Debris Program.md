@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is established, within the National Oceanic and Atmospheric Administration, a Marine Debris Program to identify, determine sources of, assess, prevent, reduce, and remove marinedebris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety.
+There is established, within the National Oceanic and Atmospheric Administration, a Marine Debris Program to identify, determine sources of, assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety.
 
 #### (b) Program components
 
@@ -52,7 +52,7 @@ The Administrator, acting through the Program and subject to the availability of
 
 #### (B) Other decrees and orders
 
-&emsp;&emsp;The non-Federal share of the cost of a project carried out under this chapter may not include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
+&emsp;&emsp;The non-Federal share of the cost of a project carried out under this chapter maynot include any money paid pursuant to, or the value of any in-kind service performed under, any other administrative order or court order.
 
 #### (4) Eligibility
 

@@ -22,7 +22,7 @@ Covered Vessels and Equipment.—The authority under this section applies—
 
 (c)
 
-Reimbursement.—The Secretary may require a recipient of assistance under subsection\(a) to reimburse the Navy for amounts expended by the Navy in providing the assistance.
+Reimbursement.—The Secretary may require a recipient of assistance under subsection (a) to reimburse the Navy for amounts expended by the Navy in providing the assistance.
 
 (d)
 

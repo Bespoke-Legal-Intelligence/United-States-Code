@@ -10,7 +10,7 @@
 
 &emsp;(4) such other matters as the Attorney General may deem appropriate.
 
-> Such report shall include the number, type, and disposition of all investigations and prosecutions supervised by such Section or such unit, except that such report shall not disclose information which would interfere with any pendinginvestigation or prosecution or which would improperly infringe upon the privacy rights of any individuals.
+> Such report shall include the number, type, and disposition of all investigations and prosecutions supervised by such Section or such unit, except that such report shall not disclose information which would interfere with any pending investigation or prosecution or which would improperly infringe upon the privacy rights of any individuals.
 
 (b) Notwithstanding any provision of law limiting the amount of management or administrative expenses, the Attorney General shall, not later than May 2, 2003, and of every year thereafter, prepare and provide to the Committees on the Judiciary and Appropriations of each House of the Congress using funds available for the underlying programs—
 

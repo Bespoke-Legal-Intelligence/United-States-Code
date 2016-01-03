@@ -88,7 +88,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (i) Investment partnership
 
-&emsp;&emsp;&emsp;The term "investment partnership" means any partnership which has neverbeen engaged in a trade or business and substantially all of the assets (by value) of which have always consisted of—
+&emsp;&emsp;&emsp;The term "investment partnership" means any partnership which has never been engaged in a trade or business and substantially all of the assets (by value) of which have always consisted of—
 
 &emsp;&emsp;&emsp;&emsp;(I) money,
 
@@ -122,7 +122,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (II) Exception for certain nonrecognition transactions
 
-&emsp;&emsp;&emsp;&emsp;The term "eligible partner" shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
+&emsp;&emsp;&emsp;&emsp;The term "eligible partner" shall not include the transferor or transferee in a nonrecognition transaction involving atransfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
 
 #### (iv) Look-thru of partnership tiers
 
@@ -180,7 +180,7 @@ Section 2(a)(32) of the Investment Company Act of 1940, referred to in subsec. (
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but notapplicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
+Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -16,7 +16,7 @@ This chapter, referred to in subsec. (a), probably should have been a reference 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections and repealed former section 6 of act Mar. 4,1907. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections and repealed former section 6 of act Mar. 4, 1907. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

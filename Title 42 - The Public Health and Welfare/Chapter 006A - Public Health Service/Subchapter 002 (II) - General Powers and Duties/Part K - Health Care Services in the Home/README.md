@@ -2,7 +2,7 @@ Part K—Health Care Services in the Home
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–43, title XX, §2008(i)(2)(B)(i), June 10, 1993, 107 Stat. 213, redesignated part L "Health Care Services in the Home" as K. Former part K "Injury Control" redesignated J.
+<b>1993</b>—Pub. L. 103–43, title XX, §2008(i)(2)(B)(i), June 10, 1993, 107 Stat. 213, redesignated part L "Health CareServices in the Home" as K. Former part K "Injury Control" redesignated J.
 
 <b>1990</b>—Pub. L. 101–616, title I, §101(a)(1), Nov. 16, 1990, 104 Stat. 3279, redesignated part J "Injury Control" as K. Former part K "Health Care Services in the Home" redesignated L.
 

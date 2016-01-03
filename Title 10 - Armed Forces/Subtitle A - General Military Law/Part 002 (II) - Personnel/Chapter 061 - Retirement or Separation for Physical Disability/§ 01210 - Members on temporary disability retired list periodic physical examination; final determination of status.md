@@ -96,7 +96,7 @@ In subsection (e), the words "and if he has less than 20 years of service comput
 
 In subsection (f), the first 39 words are inserted for clarity.
 
-In subsection (g), the words "members in his retired grade traveling in connection with temporary duty" are substituted for the words "the rank, grade, or rating in which retired for temporary duty travel performed". The words "for travel performed" are omitted as surplusage.
+In subsection (g), the words "members in his retired grade traveling in connection with temporary duty"are substituted for the words "the rank, grade, or rating in which retired for temporary duty travel performed". The words "for travel performed" are omitted as surplusage.
 
 #### Amendments
 

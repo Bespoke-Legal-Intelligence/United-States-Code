@@ -12,5 +12,5 @@ If a servicer specifies in writing requirements for the consumer to follow in ma
 
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on thedate that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of this title.
 

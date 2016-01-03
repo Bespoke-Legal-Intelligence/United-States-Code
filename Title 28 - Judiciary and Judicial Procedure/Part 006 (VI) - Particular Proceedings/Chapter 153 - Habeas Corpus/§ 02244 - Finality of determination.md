@@ -1,6 +1,6 @@
 ### §2244. Finality of determination
 
-(a) No circuit or district judge shall be required to entertain an application for a writ ofhabeas corpus to inquire into the detention of a person pursuant to a judgment of a court of the United States if it appears that the legality of such detention has been determined by a judge or court of the United States on a prior application for a writ of habeas corpus, except as provided in section 2255.
+(a) No circuit or district judge shall be required to entertain an application for a writ of habeas corpus to inquire into the detention of a person pursuant to a judgment of a court of the United States if it appears that the legality of such detention has been determined by a judge or court of the United States on a prior application for a writ of habeas corpus, except as provided in section 2255.
 
 (b)(1) A claim presented in a second or successive habeas corpus application under section 2254 that was presented in a prior application shall be dismissed.
 

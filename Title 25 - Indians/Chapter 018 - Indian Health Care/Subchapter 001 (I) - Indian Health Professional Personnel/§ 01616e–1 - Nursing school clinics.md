@@ -6,7 +6,7 @@ In addition to the authority of the Secretary under section 1616e(a)(1) of this 
 
 #### (b) Purposes
 
-Grants provided under subsection (a) of this section may be used to—
+Grants provided under subsection (a) may be used to—
 
 &emsp;(1) establish clinics, to be run and staffed by the faculty and students of a grantee school, to provide primary care services in areas in or within 50 miles of Indian country (as defined in section 1151 of title 18);
 
@@ -28,7 +28,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (f) Authorization to use amounts
 
-Out of amounts appropriated to carry out this subchapter for each of the fiscal years 1993through 2000 not more than $5,000,000 may be used to carry out this section.
+Out of amounts appropriated to carry out this subchapter for each of the fiscal years 1993 through 2000 not more than $5,000,000 may be used to carry out this section.
 
 (Pub. L. 94–437, title I, §112A, as added Pub. L. 102–573, title I, §104(f), Oct. 29, 1992, 106 Stat. 4534.)
 

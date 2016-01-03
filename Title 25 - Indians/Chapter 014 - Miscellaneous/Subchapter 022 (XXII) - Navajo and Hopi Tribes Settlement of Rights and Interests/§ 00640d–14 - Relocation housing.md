@@ -18,7 +18,7 @@ In implementing subsection (b) of this section, the Commissioner shall establish
 
 #### (d) Methods of payment
 
-The Commissioner shall be responsible for the provision of housing for each household eligible for payments under this section in one of the following manners:
+The Commissioner shall be responsible for the provision of housing for each household eligiblefor payments under this section in one of the following manners:
 
 &emsp;(1) Should any head of household apply for and become a participant or homebuyer in a mutual help housing or other homeownership opportunity project undertaken under the United States Housing Act of 1937 (50 Stat. 888) as amended \[42 U.S.C. 1437 et seq.\], or in any other federally assisted housing program now or hereafter established, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to the local housing agency or sponsor involved as a voluntary equity payment and shall be credited against the outstanding indebtedness or purchase price of the household's home in the project in a manner which will accelerate to the maximum extent possible the achievement by that household of debt free homeownership.
 

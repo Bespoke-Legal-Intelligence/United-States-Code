@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
+The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings todetermine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
 
 #### (b) Parties
 
@@ -112,7 +112,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of thedate of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
@@ -186,7 +186,7 @@ Subsec. (e). Pub. L. 100–360, §411(o)(2), made technical amendment to directo
 
 Pub. L. 100–360, §411(o)(3)(A), added Pub. L. 100–203, §4308(b), see 1987 Amendment note below.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted "United States Claims Court" for "district courts of the United States" and "the court" for "the courts".
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §4307(3)(A), substituted "United States Claims Court" for "districtcourts of the United States" and "the court" for "the courts".
 
 Subsec. (c)(1). Pub. L. 100–203, §4307(3)(B), substituted "the United States Claims Court" for "the district court of the United States in which the petition is filed".
 

@@ -58,7 +58,7 @@ Military Ranges.—(1) In the case of a rifle range referred to in subsection (a
 
 Regulations.—Regulations to carry out this section shall be prescribed by the authorities controlling the rifle range, subject to the approval of the Secretary of the Army."
 
-<b>1990</b>—Pub. L. 101–510 substituted "Rifle ranges: available for use by members and civilians" for "Rifle ranges: recommendations to Congress; regulations" in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1990</b>—Pub. L. 101–510 substituted "Rifle ranges: available for use by members and civilians" for "Rifleranges: recommendations to Congress; regulations" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 "(a) The Secretary of the Army shall submit annually to Congress recommendations and estimates for the establishment and maintenance of indoor and outdoor rifle ranges under a plan to provide facilities for rifle practice in all sections of the country.
 

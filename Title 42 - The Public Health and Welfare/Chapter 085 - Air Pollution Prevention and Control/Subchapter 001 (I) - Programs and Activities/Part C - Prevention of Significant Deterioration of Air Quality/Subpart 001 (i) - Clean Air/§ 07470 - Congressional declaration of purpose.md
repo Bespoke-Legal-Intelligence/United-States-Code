@@ -24,7 +24,7 @@ Pub. L. 95–95, title I, §127(c), Aug. 7, 1977, 91 Stat. 741, required Adminis
 
 #### Study and Report on Progress Made in Program Relating to Significant Deterioration of Air Quality
 
-Pub. L. 95–95, title I, §127(d), Aug. 7, 1977, 91 Stat. 742, directed Administrator, not later than 2 years after Aug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
+Pub. L. 95–95, title I, §127(d), Aug. 7, 1977, 91 Stat. 742, directed Administrator, not later than 2 years afterAug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "anticipated".</i>
 

@@ -36,7 +36,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) 331/3 percent shall be allotted on the basis of the relative number of unemployed individuals in areas of substantial unemployment in each State, compared to the total number of unemployed individuals in areas of substantial unemployment in all States;
 
-&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State,compared to the total excess number of unemployed individuals in all States; and
+&emsp;&emsp;&emsp;&emsp;(II) 331/3 percent shall be allotted on the basis of the relative excess number of unemployed individuals in each State, compared to the total excess number of unemployed individuals in all States; and
 
 &emsp;&emsp;&emsp;&emsp;(III) 331/3 percent shall be allotted on the basis of the relative number of disadvantaged adults in each State, compared to the total number of disadvantaged adults in all States, except as described in clause (iii).
 
@@ -54,7 +54,7 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), the Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (II) Small State minimum allotment
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 #### (VII) Low-income level
 
-&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amountthat bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
+&emsp;&emsp;&emsp;&emsp;The term "low-income level" means $7,000 with respect to income in 1969, and for any later year means that amount that bears the same relationship to $7,000 as the Consumer Price Index for that year bears to the Consumer Price Index for 1969, rounded to the nearest $1,000.
 
 #### (2) Dislocated worker employment and training activities
 
@@ -146,11 +146,11 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (II) Maximum percentage
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (I), the Secretary shall ensure that no State shall receivean allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (iv) Definitions
 
@@ -190,13 +190,21 @@ The Secretary shall—
 
 &emsp;The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
 
-(Pub. L. 113–128, title I, §132, July 22, 2014, 128 Stat. 1511.)
+(Pub. L. 113–128, title I, §132, July 22, 2014, 128 Stat. 1511; Pub. L. 114–18, §2(d), May 22, 2015, 129 Stat. 213.)
 
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(B)(iv)(I), (2)(B)(iii)(I). Pub. L. 114–18 inserted "less than" after "fiscal year that is".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

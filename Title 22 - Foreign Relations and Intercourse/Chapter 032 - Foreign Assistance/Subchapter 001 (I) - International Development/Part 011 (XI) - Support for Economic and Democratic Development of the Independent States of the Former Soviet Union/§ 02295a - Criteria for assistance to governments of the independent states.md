@@ -10,7 +10,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(3) respect internationally recognized human rights, including the rights of minorities and the rights to freedom of religion and emigration;
 
-&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of theConference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
+&emsp;(4) respect international law and obligations and adhere to the Helsinki Final Act of the Conference on Security and Cooperation in Europe and the Charter of Paris, including the obligations to refrain from the threat or use of force and to settle disputes peacefully;
 
 &emsp;(5) cooperate in seeking peaceful resolution of ethnic and regional conflicts;
 
@@ -56,7 +56,7 @@ The President shall not provide assistance under this part—
 
 #### (c) Exceptions to ineligibility
 
-Assistance prohibited by subsection (b) or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4), may be furnished under any of the following circumstances:
+Assistance prohibited by subsection (b) or any similar provision of law, other than assistanceprohibited by the provisions referred to in subsection (b)(4), may be furnished under any of the following circumstances:
 
 &emsp;(1) The President determines that furnishing such assistance is important to the national interest of the United States.
 
@@ -76,7 +76,7 @@ Assistance prohibited by subsection (b) or any similar provision of law, other t
 
 #### (2) Waiver
 
-&emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision ofsuch assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
+&emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision of such assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
 
 &emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Government and the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
 
@@ -136,7 +136,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (a) and (c)(2) of this section delegated to Coordinator by section 2(c), (d) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

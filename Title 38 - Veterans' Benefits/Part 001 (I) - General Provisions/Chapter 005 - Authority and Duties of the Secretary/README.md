@@ -23,12 +23,7 @@
 |  |  |
 | :--- | ---: |
 | [521\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000521%20-%20Assistance%20to%20certain%20rehabilitation%20activities.md) | Assistance to certain rehabilitation activities. |
-| 512A.<sup>1</sup> | Adaptive sports programs for disabled veterans and members of the Armed Forces. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [521A.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000521A%20-%20Adaptive%20sports%20programs%20for%20disabled%20veterans%20and%20members%20of%20the%20Armed%20Forces.md) | Adaptive sports programs for disabled veterans and members of the Armed Forces. |
 | [522\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000522%20-%20Studies%20of%20rehabilitation%20of%20disabled%20persons.md) | Studies of rehabilitation of disabled persons. |
 | [523\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000523%20-%20Coordination%20and%20promotion%20of%20other%20programs%20affecting%20veterans%20and%20their%20dependents.md) | Coordination and promotion of other programs affecting veterans and their dependents. |
 | [525\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000525%20-%20Publication%20of%20laws%20relating%20to%20veterans.md) | Publication of laws relating to veterans. |
@@ -55,6 +50,8 @@
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–58, title VI, §601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item "521A" and adding item 521A, was executed by striking item 512A "Adaptive sports programs for disabled veterans and members of the Armed Forces" and adding item 521A, to reflect the probable intent of Congress.
+
 <b>2013</b>—Pub. L. 113–59, §5(h)(2), Dec. 20, 2013, 127 Stat. 662, which directed amendment of this analysis by striking item 521A and adding item "512A", was executed by striking item 521A "Assistance for United States Olympic Committee" and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
 
 Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and struck out former item 521A "Assistance for United States Paralympics, Inc."
@@ -72,8 +69,6 @@ Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and 
 <b>1994</b>—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
 <b>1992</b>—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "521A." See 2013 Amendment note below.</i>
 
 
 ---

@@ -15,8 +15,13 @@
 | [6311\.](%C2%A7%2006311%20-%20Research%20and%20development%20grants.md) | Research and development grants. |
 | [6312\.](%C2%A7%2006312%20-%20Transportation%20statistics%20annual%20report.md) | Transportation statistics annual report. |
 | [6313\.](%C2%A7%2006313%20-%20Mandatory%20response%20authority%20for%20freight%20data%20collection.md) | Mandatory response authority for freight data collection. |
+| [6314\.](%C2%A7%2006314%20-%20Port%20performance%20freight%20statistics%20program.md) | Port performance freight statistics program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title VI, §6018(c), Dec. 4, 2015, 129 Stat. 1577, added item 6314.
 
 
 ---
@@ -36,3 +41,4 @@
 - [&sect; 06311 - Research and development grants](%C2%A7%2006311%20-%20Research%20and%20development%20grants.md)
 - [&sect; 06312 - Transportation statistics annual report](%C2%A7%2006312%20-%20Transportation%20statistics%20annual%20report.md)
 - [&sect; 06313 - Mandatory response authority for freight data collection](%C2%A7%2006313%20-%20Mandatory%20response%20authority%20for%20freight%20data%20collection.md)
+- [&sect; 06314 - Port performance freight statistics program](%C2%A7%2006314%20-%20Port%20performance%20freight%20statistics%20program.md)

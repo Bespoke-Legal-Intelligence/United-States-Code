@@ -44,7 +44,7 @@
 
 (3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Committee on House Oversight of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
 
-(4) For the purpose of this subsection, "agency in the legislative branch", "employee of theHouse of Representatives", "employee of the Senate", and "congressional employee" each has the meaning given to it in section 5531 of this title.
+(4) For the purpose of this subsection, "agency in the legislative branch", "employee of the House of Representatives", "employee of the Senate", and "congressional employee" each has the meaning given to it in section 5531 of this title.
 
 (i)(1) For purposes of this subsection—
 
@@ -116,7 +116,7 @@
 
 (2) An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L.108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, §5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, §1107(b), Dec. 19, 2014, 128 Stat. 3527.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, §5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, §1107(b), Dec. 19, 2014, 128 Stat. 3527.)
 
 #### References in Text
 
@@ -200,7 +200,7 @@ Nothing in amendment by section 1122 of Pub. L. 111–84 to be construed to auth
 
 #### Annual Report to Congress
 
-Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used by such agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
+Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used bysuch agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "part-time".</i>
 

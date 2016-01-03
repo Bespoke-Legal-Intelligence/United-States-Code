@@ -34,7 +34,7 @@ Subject to subsection (e), the State shall—
 
 &emsp;&emsp;(C) An assessment of the effectiveness of other public and private programs in the State in increasing the availability of affordable quality individual and family health insurance for children.
 
-&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under this subchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
+&emsp;&emsp;(D) A review and assessment of State activities to coordinate the plan under thissubchapter with other public and private programs providing health care and health care financing, including medicaid and maternal and child health services.
 
 &emsp;&emsp;(E) An analysis of changes and trends in the State that affect the provision of accessible, affordable, quality health insurance and health care to children.
 
@@ -112,7 +112,7 @@ The State shall include the following information in the annual report required 
 
 &emsp;(5) If the State provides child health assistance in the form of premium assistance for the purchase of coverage under a group health plan, data regarding the provision of such assistance, including the extent to which employer-sponsored health insurance coverage is available for children eligible for child health assistance under the State child health plan, the range of the monthly amount of such assistance provided on behalf of a child or family, the number of children or families provided such assistance on a monthly basis, the income of the children or families provided such assistance, the benefits and cost-sharing protection provided under the State child health plan to supplement the coverage purchased with such premium assistance, the effective strategies the State engages in to reduce any administrative barriers to the provision of such assistance, and,<sup>2</sup> the effects, if any, of the provision of such assistance on preventing the coverage provided under the State child health plan from substituting for coverage provided under employer-sponsored health insurance offered in the State.
 
-&emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in theState, including through a State health insurance connector program or support for innovative private health coverage initiatives.
+&emsp;(6) To the extent applicable, a description of any State activities that are designed to reduce the number of uncovered children in the State, including through a State health insurance connector program or support for innovative private health coverage initiatives.
 
 &emsp;(7) Data collected and reported in accordance with section 300kk of this title, with respect to individuals enrolled in the State child health plan (and, in the case of enrollees under 19 years of age, their parents or legal guardians), including data regarding the primary language of such individuals, parents, and legal guardians.
 

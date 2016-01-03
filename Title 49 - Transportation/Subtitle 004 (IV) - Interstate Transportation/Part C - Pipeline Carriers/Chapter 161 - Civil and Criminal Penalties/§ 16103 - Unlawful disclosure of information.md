@@ -16,7 +16,7 @@ Limitation on Statutory Construction.—This part does not prevent a pipeline ca
 
 (c)
 
-Board Employee.—An employee of the Board delegated to make an inspection or examination under section 15722 who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall be fined under title 18 or imprisoned for not more than 6 months, or both.
+Board Employee.—An employee of the Board delegated to make an inspection or examination under section 15722 who knowingly discloses information acquired during that inspection or examination, except as directed by the Board, a court, or a judge of that court, shall befined under title 18 or imprisoned for not more than 6 months, or both.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 931.)
 

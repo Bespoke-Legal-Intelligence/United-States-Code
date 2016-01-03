@@ -10,7 +10,7 @@ A State, using funds available under section 300x–21 of this title, may establ
 
 &emsp;(3) Not less than $100,000 is available for the fund.
 
-&emsp;(4) Loans made from the revolving fund do not exceed $4,000 and each such loan is repaidto the revolving fund by the residents of the housing involved not later than 2 years after the date on which the loan is made.
+&emsp;(4) Loans made from the revolving fund do not exceed $4,000 and each such loan is repaid to the revolving fund by the residents of the housing involved not later than 2 years after the date on which the loan is made.
 
 &emsp;(5) Each such loan is repaid by such residents through monthly installments, and a reasonable penalty is assessed for each failure to pay such periodic installments by the date specified in the loan agreement involved.
 

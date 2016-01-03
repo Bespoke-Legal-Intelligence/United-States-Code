@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish,within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
+&emsp;Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
 
 #### (2) Administration
 

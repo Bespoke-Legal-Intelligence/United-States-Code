@@ -6,7 +6,7 @@
 
 (3) Assignments shall be by instruments in writing duly executed. Acknowledgment shall be prima facie evidence of the execution of an assignment, and when the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office, the record shall be prima facie evidence of execution.
 
-(4) An assignment shall be void against any subsequent purchaser for valuable considerationwithout notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
+(4) An assignment shall be void against any subsequent purchaser for valuable consideration without notice, unless the prescribed information reporting the assignment is recorded in the United States Patent and Trademark Office within 3 months after the date of the assignment or prior to the subsequent purchase.
 
 (5) The United States Patent and Trademark Office shall maintain a record of information on assignments, in such form as may be prescribed by the Director.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

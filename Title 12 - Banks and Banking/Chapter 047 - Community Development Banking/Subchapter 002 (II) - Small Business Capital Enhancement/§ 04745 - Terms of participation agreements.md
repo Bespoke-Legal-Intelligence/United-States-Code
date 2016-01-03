@@ -10,7 +10,7 @@ A separate reserve fund shall be established by the participating State for each
 
 &emsp;(1) receiving all required premium charges to be paid by the borrower and participating financial institution and contributions by the participating State; and
 
-&emsp;(2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r) of this section.
+&emsp;(2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r).
 
 #### (c) Investment authority
 
@@ -28,7 +28,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (2) Lines of credit
 
-&emsp;If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loan shall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.
+&emsp;If a loan to be filed for enrollment is in the form of a line of credit, the amount of the loanshall be considered to be the maximum amount that can be drawn by the borrower against the line of credit.
 
 #### (f) Enrollment process
 
@@ -52,7 +52,7 @@ Interest or income earned on the funds credited to a reserve fund shall be deeme
 
 #### (2) Enrollment by State
 
-&emsp;Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j) of this section, unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
+&emsp;Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j), unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
 
 #### (g) Coverage amount
 
@@ -72,7 +72,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 #### (1) Actions prohibited
 
-&emsp;Except as provided in subsection (h) of this section and paragraph (2) of this subsection, the participating State may not—
+&emsp;Except as provided in subsection (h) and paragraph (2) of this subsection, the participating State may not—
 
 &emsp;&emsp;(A) impose any restrictions or requirements, relating to the interest rate, fees, collateral, or other business terms and conditions of the loan; or
 
@@ -102,13 +102,13 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (l) Elements of claims
 
-A claim filed by a participating financial institution may include the amount of principal charged off, not to exceed the covered amount of the loan. Such claim may also include accrued interest and out-of-pocket expenses, if and to the extent provided for under the participation agreement.
+A claim filed by a participating financial institution may include the amount of principal charged off, not to exceed the covered amount of the loan. Such claim may also include accrued interest and out-of-pocket expenses, if and tothe extent provided for under the participation agreement.
 
 #### (m) Payment of claims
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (n) of this section and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
+&emsp;Except as provided in subsection (n) and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
 
 #### (2) Insufficient reserve funds
 
@@ -176,7 +176,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (1) Special treatment of premium charges
 
-&emsp;Notwithstanding subsection (b) or (d) of this section, the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
+&emsp;Notwithstanding subsection (b) or (d), the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
 
 &emsp;&emsp;(A) for the payment of claims approved by the participating State in accordance with this section; and
 
@@ -184,7 +184,7 @@ The participation agreement may provide that, if, for any consecutive period of 
 
 #### (2) Payment of post-withdrawal claims
 
-&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of suchwithdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
+&emsp;After any withdrawal of assets from the reserve fund pursuant to paragraph (1)(B), any future claims filed by the participating financial institution on loans remaining in its capital access program portfolio shall only be paid from funds remaining in the reserve fund to the extent that, in the aggregate, such claims exceed the sum of the amount of such withdrawn assets, and interest on that amount, imputed at the same rate as income would have accrued had the amount not been withdrawn.
 
 #### (3) Conditions for terminating special authority
 

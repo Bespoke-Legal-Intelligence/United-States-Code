@@ -136,7 +136,7 @@
 
 #### (B) Administrator's options after receipt of petition
 
-&emsp;&emsp;In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 60 days after the date of receipt of such petition the Administrator shall—
+&emsp;&emsp;In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 90 days after the date of receipt of such petition the Administrator shall—
 
 &emsp;&emsp;&emsp;(i) request a recommendation of the Advisory Committee;
 
@@ -148,7 +148,7 @@
 
 #### (C) Action by Advisory Committee
 
-&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 60 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 60 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
 
 #### (D) Publication
 
@@ -164,13 +164,33 @@
 
 &emsp;&emsp;For purposes of this paragraph, the term "interested party" includes a representative of any organization representing WTC responders, a nationally recognized medical association, a Clinical or Data Center, a State or political subdivision, or any other interested person.
 
+#### (F) Independent peer reviews
+
+&emsp;&emsp;Prior to issuing a final rule to add a health condition to the list in paragraph (3), the WTC Program Administrator shall provide for an independent peer review of the scientific and technical evidence that would be the basis for issuing such final rule.
+
+#### (G) Additional advisory committee recommendations
+
+#### (i) Program policies
+
+#### (I) Existing policies
+
+&emsp;&emsp;&emsp;&emsp;Not later than 1 year after December 18, 2015, the WTC Program Administrator shall request the Advisory Committee to review and evaluate the policies and procedures, in effect at the time of the review and evaluation, that are used to determine whether sufficient evidence exists to support adding a health condition to the list in paragraph (3).
+
+#### (II) Subsequent policies
+
+&emsp;&emsp;&emsp;&emsp;Prior to establishing any substantive new policy or procedure used to make the determination described in subclause (I) or prior to making any substantive amendment to any policy or procedure described in such subclause, the WTC Program Administrator shall request the Advisory Committee to review and evaluate such substantive policy, procedure, or amendment.
+
+#### (ii) Identification of individuals conducting independent peer reviews
+
+&emsp;&emsp;&emsp;Not later than 1 year after December 18, 2015, and not less than every 2 years thereafter, the WTC Program Administrator shall seek recommendations from the Advisory Committee regarding the identification of individuals to conduct the independent peer reviews under subparagraph (F).
+
 #### (b) Coverage of treatment for WTC-related health conditions
 
 #### (1) Determination for enrolled WTC responders based on a WTC-related health condition
 
 #### (A) In general
 
-&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title foran enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
+&emsp;&emsp;If a physician at a Clinical Center of Excellence that is providing monitoring benefits under section 300mm–21 of this title for an enrolled WTC responder makes a determination that the responder has a WTC-related health condition that is in the list in subsection (a)(3) and that exposure to airborne toxins, other hazards, or adverse conditions resulting from the September 1, 2001, terrorist attacks is substantially likely to be a significant factor in aggravating, contributing to, or causing the condition—
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
 
@@ -202,7 +222,7 @@
 
 #### (B) Procedures for review, certification, and appeal
 
-&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinations under subparagraph (A). Such rule shall provide for—
+&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinationsunder subparagraph (A). Such rule shall provide for—
 
 &emsp;&emsp;&emsp;(i) the timely review of such a determination by a physician panel with appropriate expertise for the condition and recommendations to the WTC Program Administrator;
 
@@ -264,7 +284,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a rate higher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
+&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a ratehigher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
 
 #### (B) Pharmaceuticals
 
@@ -294,7 +314,7 @@
 
 #### (2) Monitoring and initial health evaluation
 
-&emsp;The WTC Program Administrator shall reimburse the costs of monitoring and the costsof an initial health evaluation provided under this subchapter at a rate set by the Administrator by regulation.
+&emsp;The WTC Program Administrator shall reimburse the costs of monitoring and the costs of an initial health evaluation provided under this subchapter at a rate set by the Administrator by regulation.
 
 #### (3) Determination of medical necessity
 
@@ -316,11 +336,19 @@
 
 &emsp;The medical treatment protocols developed under paragraph (1) shall be subject to approval by the WTC Program Administrator.
 
-(July 1, 1944, ch. 373, title XXXIII, §3312, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3639.)
+(July 1, 1944, ch. 373, title XXXIII, §3312, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3639; amended Pub. L. 114–113, div. O, title III, §302(e), Dec. 18, 2015, 129 Stat. 2999.)
 
 #### References in Text
 
 The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is act Sept. 7, 1916, ch. 458, 39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(6)(B). Pub. L. 114–113, §302(e)(1)(A), substituted "90 days" for "60 days" in introductory provisions.
+
+Subsec. (a)(6)(C). Pub. L. 114–113, §302(e)(1)(B), substituted "90 days" for "60 days" in two places.
+
+Subsec. (a)(6)(F), (G). Pub. L. 114–113, §302(e)(2), added subpars. (F) and (G).
 
 <i><sup>1</sup></i><i> So in original. The word "of" probably should appear.</i>
 

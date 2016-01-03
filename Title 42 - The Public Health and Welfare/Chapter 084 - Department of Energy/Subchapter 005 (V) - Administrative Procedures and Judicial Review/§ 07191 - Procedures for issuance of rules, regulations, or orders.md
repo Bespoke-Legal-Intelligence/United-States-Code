@@ -20,7 +20,7 @@ The requirements of subsection (b) of this section may be waived where strict co
 
 #### (d) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
 
-(1) With respect to any rule, regulation, or order described in subsection (a) of this section,the effects of which, except for indirect effects of an inconsequential nature, are confined to—
+(1) With respect to any rule, regulation, or order described in subsection (a) of this section, the effects of which, except for indirect effects of an inconsequential nature, are confined to—
 
 &emsp;(A) a single unit of local government or the residents thereof;
 
@@ -46,7 +46,7 @@ Where authorized by any law vested, transferred, or delegated pursuant to this c
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (e), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (e), was in the original "this Act", meaning Pub. L. 95–91, Aug.4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 

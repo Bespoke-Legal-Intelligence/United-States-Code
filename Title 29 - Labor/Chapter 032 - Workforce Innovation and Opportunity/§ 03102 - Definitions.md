@@ -168,7 +168,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;The term "in-demand industry sector or occupation" means—
 
-&emsp;&emsp;&emsp;(i) an industry sector that has a substantial current or potential impact (including through jobs that lead to economic self-sufficiency and opportunities for advancement) on the State, regional, or local economy, as appropriate, and that contributes to the growth or stability of other supporting businesses, or the growth of other industry sectors; or
+&emsp;&emsp;&emsp;(i) an industry sector that has a substantial current or potential impact (includingthrough jobs that lead to economic self-sufficiency and opportunities for advancement) on the State, regional, or local economy, as appropriate, and that contributes to the growth or stability of other supporting businesses, or the growth of other industry sectors; or
 
 &emsp;&emsp;&emsp;(ii) an occupation that currently has or is projected to have a number of positions (including positions that lead to economic self-sufficiency and opportunities for advancement) in an industry sector so as to have a significant impact on the State, regional, or local economy, as appropriate.
 
@@ -440,7 +440,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (58) State plan
 
-&emsp;The term "State plan", used without further description, means a unified State plan under section 3112 of this title or a combined State plan under section 3113 of this title.
+&emsp;The term "State plan", used without further description, means a unified State plan undersection 3112 of this title or a combined State plan under section 3113 of this title.
 
 #### (59) Supportive services
 
@@ -500,7 +500,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;The term "youth workforce investment activity" means an activity described in section 3164 of this title that is carried out for eligible youth (or as described in section 3164(a)(3)(A) of this title).
 
-(Pub. L. 113–128, §3, July 22, 2014, 128 Stat. 1429.)
+(Pub. L. 113–128, §3, July 22, 2014, 128 Stat. 1429; Pub. L. 114–95, title IX, §9215(yyy)(1), Dec. 10, 2015, 129 Stat. 2191.)
 
 #### References in Text
 
@@ -518,7 +518,15 @@ The Food and Nutrition Act of 2008, referred to in par. (36)(A)(i), is Pub. L. 8
 
 The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
+#### Amendments
+
+<b>2015</b>—Pars. (34), (55). Pub. L. 114–95 made technical amendments to references in original act which appear in text as references to section 7801 of title 20.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

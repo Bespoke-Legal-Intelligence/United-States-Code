@@ -8,7 +8,7 @@
 
 #### (b) Utilization of officers and employees of Federal agencies
 
-The Administrator, with the consent of the head of any other agency of the United States, may utilize such officers and employees of such agency as he deems necessary to assist him in carrying out the purposes of this subchapter.
+The Administrator, with the consent of the head of any other agency of the United States,may utilize such officers and employees of such agency as he deems necessary to assist him in carrying out the purposes of this subchapter.
 
 #### (c) Assignment of Agency personnel to State or interstate agencies
 
@@ -26,7 +26,7 @@ The Administrator shall take such action as may be necessary to assure complianc
 
 #### (f) Appearance and representation of Administrator through Attorney General or attorney appointees
 
-The Administrator shall request the Attorney General to appear and represent him in any civil action instituted under this subchapter to whichthe Administrator is a party. Unless, within a reasonable time, the Attorney General notifies the Administrator that he will appear in such action, attorneys appointed by the Administrator shall appear and represent him.
+The Administrator shall request the Attorney General to appear and represent him in any civil action instituted under this subchapter to which the Administrator is a party. Unless, within a reasonable time, the Attorney General notifies the Administrator that he will appear in such action, attorneys appointed by the Administrator shall appear and represent him.
 
 #### (g) Authority of Administrator under other provisions unaffected
 
@@ -48,7 +48,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (2)(A) Any employee who believes that he has been discharged or otherwise discriminated against by any person in violation of paragraph (1) may, within 30 days after such violation occurs, file (or have any person file on his behalf) a complaint with the Secretary of Labor (hereinafter in this subsection referred to as the "Secretary") alleging such discharge or discrimination. Upon receipt of such a complaint, the Secretary shall notify the person named in the complaint of the filing of the complaint.
 
-(B)(i) Upon receipt of a complaint filed under subparagraph (A), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within 30 days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting in his behalf) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this subparagraph. Within 90 days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committed such violation, issue an order either providing the relief prescribed by clause (ii) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for agency hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
+(B)(i) Upon receipt of a complaint filed under subparagraph (A), the Secretary shall conduct an investigation of the violation alleged in the complaint. Within 30 days of the receipt of such complaint, the Secretary shall complete such investigation and shall notify in writing the complainant (and any person acting in his behalf) and the person alleged to have committed such violation of the results of the investigation conducted pursuant to this subparagraph. Within 90 days of the receipt of such complaint the Secretary shall, unless the proceeding on the complaint is terminated by the Secretary on the basis of a settlement entered into by the Secretary and the person alleged to have committedsuch violation, issue an order either providing the relief prescribed by clause (ii) or denying the complaint. An order of the Secretary shall be made on the record after notice and opportunity for agency hearing. The Secretary may not enter into a settlement terminating a proceeding on a complaint without the participation and consent of the complainant.
 
 (ii) If in response to a complaint filed under subparagraph (A) the Secretary determines that a violation of paragraph (1) has occurred, the Secretary shall order (I) the person who committed such violation to take affirmative action to abate the violation, (II) such person to reinstate the complainant to his former position together with the compensation (including back pay), terms, conditions, and privileges of his employment, (III) compensatory damages, and (IV) where appropriate, exemplary damages. If such an order is issued, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
 
@@ -56,7 +56,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
-(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the UnitedStates District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
+(4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
 
 (5) Any nondiscretionary duty imposed by this section is enforceable in mandamus proceeding brought under section 1361 of title 28.
 

@@ -32,7 +32,7 @@ Subsec. (e). Pub. L. 101–237, §423(b)(1), (4)(B), substituted "Secretary" and
 
 Subsec. (e). Pub. L. 97–306, §209, added subsec. (e).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466, §406(a), substituted "Except as provided in subsections (c) and (d) of this section, each" for "Each", "$25" for "$50", and "$100" for "$75".
+<b>1980</b>—Subsec. (a). Pub. L. 96–466, §406(a), substituted "Except as provided in subsections (c) and (d) of thissection, each" for "Each", "$25" for "$50", and "$100" for "$75".
 
 Subsec. (c). Pub. L. 96–466, §406(b), inserted ", including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section" after "Armed Forces".
 

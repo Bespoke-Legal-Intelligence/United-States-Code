@@ -52,7 +52,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (2) Data and records
 
-&emsp;The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
+&emsp;The State shall collect data and maintain records relating to the State program in astandardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
 
 #### (3) Reports
 
@@ -62,7 +62,7 @@ In carrying out this subpart, each area agency on aging shall make use of traine
 
 #### (1) In general
 
-&emsp;(A) From sums appropriated under section 3023(e) of this title for fiscal years 2007, 2008,2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
+&emsp;(A) From sums appropriated under section 3023(e) of this title for fiscal years 2007, 2008, 2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
 
 &emsp;(B) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 

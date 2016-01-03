@@ -44,7 +44,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (C) Requirement of rules
 
-&emsp;&emsp;The rules of the contract market shall provide the board of trade with the ability andauthority to obtain any necessary information to perform any function described in this subsection, including the capacity to carry out such international information-sharing agreements as the Commission may require.
+&emsp;&emsp;The rules of the contract market shall provide the board of trade with the ability and authority to obtain any necessary information to perform any function described in this subsection, including the capacity to carry out such international information-sharing agreements as the Commission may require.
 
 #### (3) Contracts not readily subject to manipulation
 
@@ -152,7 +152,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (13) Disciplinary procedures
 
-&emsp;The board of trade shall establish and enforce disciplinary procedures that authorizethe board of trade to discipline, suspend, or expel members or market participants that violate the rules of the board of trade, or similar methods for performing the same functions, including delegation of the functions to third parties.
+&emsp;The board of trade shall establish and enforce disciplinary procedures that authorize the board of trade to discipline, suspend, or expel members or market participants that violate the rules of the board of trade, or similar methods for performing the same functions, including delegation of the functions to third parties.
 
 #### (14) Dispute resolution
 

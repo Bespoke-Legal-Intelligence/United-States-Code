@@ -2,7 +2,7 @@
 
 (a)
 
-Policies and Procedures.—The Secretary of Defense shall establish policies and procedures for the establishment and implementation of the education and training programs authorized by this subchapter.
+Policies and Procedures.—The Secretary of Defense shall establish policies and procedures for the establishment and implementationof the education and training programs authorized by this subchapter.
 
 (b)
 

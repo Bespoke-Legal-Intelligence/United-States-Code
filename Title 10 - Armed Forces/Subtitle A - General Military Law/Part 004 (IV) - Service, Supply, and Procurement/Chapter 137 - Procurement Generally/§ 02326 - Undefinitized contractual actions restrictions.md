@@ -10,7 +10,7 @@ Limitations on Obligation of Funds.—(1) A contracting officer of the Departmen
 
 &emsp;(A) the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or
 
-&emsp;(B) the date on which the amount of funds obligated under the contractual action isequal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
+&emsp;(B) the date on which the amount of funds obligated under the contractual action is equal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
 
 (2) Except as provided in paragraph (3), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
@@ -188,7 +188,7 @@ Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the l
 
 "(2) On the last day of each six-month period described in paragraph (4), the amount of funds obligated for undefinitized contractual actions entered into by the Secretary of Defense (with respect to the Defense Logistics Agency) or the Secretary of a military department during the six-month period that are not definitized on or before such day may not exceed 10 percent of the amount of funds obligated for all contractual actions entered into by the Secretary during the six-month period.
 
-"(3) If on the last day of a six-month period described in paragraph (4) the total amount of funds obligated for undefinitized contractual actions under the jurisdiction of a Secretary that were entered into during the six-month period exceeds the limit established in paragraph (2), the Secretary—
+"(3) If on the last day of a six-month period described in paragraph (4) the total amount of funds obligated forundefinitized contractual actions under the jurisdiction of a Secretary that were entered into during the six-month period exceeds the limit established in paragraph (2), the Secretary—
 
 &emsp;"(A) shall, not later than the end of the 45-day period beginning on the first day following the six-month period, submit to the defense committees an unclassified report concerning—
 

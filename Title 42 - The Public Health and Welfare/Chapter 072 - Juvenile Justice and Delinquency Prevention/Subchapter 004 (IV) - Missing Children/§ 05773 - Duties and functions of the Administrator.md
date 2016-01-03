@@ -10,7 +10,7 @@ The Administrator shall—
 
 &emsp;(3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1) of this section, to appropriate entities;
 
-&emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
+&emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensurethat homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
 &emsp;(5) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
 
@@ -96,7 +96,7 @@ The Administrator shall—
 
 &emsp;&emsp;&emsp;(ii) online enticement of children for sexual acts;
 
-&emsp;&emsp;&emsp;(iii) child prostitution;
+&emsp;&emsp;&emsp;(iii) child sex trafficking, including child prostitution;
 
 &emsp;&emsp;&emsp;(iv) sex tourism involving children;
 
@@ -122,7 +122,7 @@ The Administrator shall—
 
 &emsp;&emsp;(T) provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
 
-&emsp;&emsp;(U) assist the efforts of law enforcement agencies in coordinating with child welfareagencies to respond to foster children missing from the State welfare system; and
+&emsp;&emsp;(U) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
 
 &emsp;&emsp;(V) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
 
@@ -152,7 +152,7 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, §211, May 29, 2015, 129 Stat. 249.)
 
 #### References in Text
 
@@ -163,6 +163,8 @@ The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c
 A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(P)(iii). Pub. L. 114–22 substituted "child sex trafficking, including child prostitution" for "child prostitution".
 
 <b>2013</b>—Subsec. (a)(4). Pub. L. 113–38, §2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
 
@@ -194,7 +196,7 @@ Pub. L. 108–21, §321(b), substituted "$20,000,000 for each of the fiscal year
 
 <b>2002</b>—Subsec. (a)(5)(E). Pub. L. 107–273 substituted "section 5714–11" for "section 5712a".
 
-<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of nationalincidence studies, and use of school records and birth certificates.
+<b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
 <b>1989</b>—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
 

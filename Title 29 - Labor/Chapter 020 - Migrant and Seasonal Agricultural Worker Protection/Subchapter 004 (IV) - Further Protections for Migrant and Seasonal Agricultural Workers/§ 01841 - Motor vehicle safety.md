@@ -8,7 +8,7 @@
 
 #### (b) Applicability of standards, licensing, and insurance requirements; promulgation of regulations for standards; criteria, etc., for regulations; amount of insurance required
 
-(1) When using, or causing to be used, any vehicle for providing transportation to which this section applies, each agricultural employer, agricultural association, and farm labor contractor shall—
+(1) When using, or causing to be used, any vehicle for providing transportation to which thissection applies, each agricultural employer, agricultural association, and farm labor contractor shall—
 
 &emsp;(A) ensure that such vehicle conforms to the standards prescribed by the Secretary under paragraph (2) of this subsection and other applicable Federal and State safety standards,
 
@@ -32,7 +32,7 @@
 
 (C) Standards prescribed by the Secretary under subparagraph (A) shall be in addition to, and shall not supersede or modify, any standard under part B of subtitle IV of title 49, or regulations issued thereunder, which is independently applicable to transportation to which this section applies. A violation of any such standard shall also constitute a violation under this chapter.
 
-(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations containedin such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
+(D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
 
 (3) The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.
 
@@ -66,9 +66,9 @@ Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment,
 
 #### Effective Date of 1995 Amendments
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
-Pub. L. 104–49, §5(c), Nov. 15, 1995, 109 Stat. 435, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first."
+Pub. L. 104–49, §5(c), Nov. 15, 1995, 109 Stat. 435, provided that: "The amendment made by subsection (a)\[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first."
 
 #### Regulations
 

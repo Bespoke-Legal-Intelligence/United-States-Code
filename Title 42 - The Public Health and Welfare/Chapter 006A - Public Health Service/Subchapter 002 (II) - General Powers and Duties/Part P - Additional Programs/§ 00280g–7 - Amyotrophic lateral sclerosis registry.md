@@ -78,7 +78,7 @@
 
 #### (c) Grants
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS after receiving the report under subsection (b)(3).
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in somecases progress to ALS after receiving the report under subsection (b)(3).
 
 #### (d) Coordination with State, local, and Federal registries
 
@@ -94,7 +94,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;&emsp;(iii) the DNA and Cell Line Repository of the National Institute of Neurological Disorders and Stroke Human Genetics Resource Center at the National Institutes of Health;
 
-&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studiesconducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
+&emsp;&emsp;&emsp;(iv) Agency for Toxic Substances and Disease Registry studies, including studies conducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
 
 &emsp;&emsp;&emsp;(v) State-based ALS registries;
 

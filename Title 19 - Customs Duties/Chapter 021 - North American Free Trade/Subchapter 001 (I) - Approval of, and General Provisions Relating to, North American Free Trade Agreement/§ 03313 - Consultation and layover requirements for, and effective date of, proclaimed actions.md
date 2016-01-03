@@ -22,7 +22,7 @@ If a provision of this Act provides that the implementation of an action by the 
 
 #### (b) Effective date of certain proclaimed actions
 
-Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) of this section may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 (Pub. L. 103–182, title I, §103, Dec. 8, 1993, 107 Stat. 2063.)
 
@@ -52,5 +52,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of NAFTA Status
 
-Section to cease to have effect with respect to any country during any period in which such country ceases to be a NAFTA country, see section 109(b) of Pub. L. 103–182, set out as an Effective Date; Termination of NAFTA Status note under section 3311 of this title.
+Section to cease to have effect with respect to any country during any period in which such country ceases to be a NAFTA country, see section 109(b) ofPub. L. 103–182, set out as an Effective Date; Termination of NAFTA Status note under section 3311 of this title.
 

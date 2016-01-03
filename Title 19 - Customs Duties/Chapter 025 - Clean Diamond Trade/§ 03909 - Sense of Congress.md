@@ -2,7 +2,7 @@
 
 #### (a) Ongoing process
 
-It is the sense of the Congress that the Kimberley Process Certification Scheme, officiallylaunched on January 1, 2003, is an ongoing process. The President should work with Participants to strengthen the Kimberley Process Certification Scheme through the adoption of measures for the sharing of statistics on the production of and trade in rough diamonds, and for monitoring the effectiveness of the Kimberley Process Certification Scheme in stemming trade in diamonds the importation or exportation of which is not controlled through the Kimberley Process Certification Scheme.
+It is the sense of the Congress that the Kimberley Process Certification Scheme, officially launched on January 1, 2003, is an ongoing process. The President should work with Participants to strengthen the Kimberley Process Certification Scheme through the adoption of measures for the sharing of statistics on the production of and trade in rough diamonds, and for monitoring the effectiveness of the Kimberley Process Certification Scheme in stemming trade in diamonds the importation or exportation of which is not controlled through the Kimberley Process Certification Scheme.
 
 #### (b) Statistics and reporting
 
@@ -12,7 +12,7 @@ It is the sense of the Congress that under Annex III to the Kimberley Process Ce
 
 &emsp;(2) make these statistics available for analysis by interested parties and by Participants; and
 
-&emsp;(3) take a leadership role in negotiating a standardized methodology among Participants for reporting statistics on imports and exports of rough diamonds.
+&emsp;(3) take a leadership role in negotiating a standardized methodology among Participantsfor reporting statistics on imports and exports of rough diamonds.
 
 (Pub. L. 108–19, §10, Apr. 25, 2003, 117 Stat. 635.)
 

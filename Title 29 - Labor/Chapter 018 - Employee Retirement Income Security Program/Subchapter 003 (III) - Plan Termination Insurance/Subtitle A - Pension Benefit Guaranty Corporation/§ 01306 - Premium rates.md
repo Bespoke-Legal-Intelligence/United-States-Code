@@ -72,7 +72,7 @@
 
 (D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
-(ii) The board of directors shall review the hearing record established under clause (i) andshall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
+(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
 (E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
@@ -90,7 +90,7 @@
 
 &emsp;(II) the fair market value of plan assets for the plan year which are held by the plan on the valuation date.
 
-(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shall be equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
+(iv) The interest rate used in valuing benefits for purposes of subclause (I) of clause (iii) shallbe equal to the first, second, or third segment rate for the month preceding the month in which the plan year begins, which would be determined under section 1083(h)(2)(C) of this title (notwithstanding any regulations issued by the corporation, determined by not taking into account any adjustment under clause (iv) thereof) if section 1083(h)(2)(D) of this title were applied by using the monthly yields for the month preceding the month in which the plan year begins on investment grade corporate bonds with varying maturities and in the top 3 quality levels rather than the average of such yields for a 24-month period.
 
 (F) For each plan year beginning in a calendar year after 2006 and before 2013, there shall be substituted for the premium rate specified in clause (i) of subparagraph (A) an amount equal to the greater of—
 
@@ -308,7 +308,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 #### (b) Revised schedule; Congressional procedures applicable
 
-(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C),\(D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
+(1) In order to place a revised schedule (other than a schedule described in subsection (a)(2)(C), (D), or (E) of this section) in effect, the corporation shall transmit the proposed schedule, its proposed effective date, and the reasons for its proposal to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate.
 
 (2) The succeeding paragraphs of this subsection are enacted by Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described in paragraph (3). They shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any rule of that House.
 
@@ -348,13 +348,91 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–74, title V, §501, Nov. 2, 2015, 129 Stat. 591, provided that, applicable to plan years beginning after Dec. 31, 2016, this subsection is amended—</i>
+
+<i>(1) in paragraph (3)(A)(i), by striking "and" at the end of subclause (IV), by striking the pe</i><i>riod at the end of subclause (V) and inserting a semicolon, and by adding after subclause (V) the following:</i>
+
+&emsp;&emsp;<i>"(VI) for plan years beginning after December 31, 2016, and before January 1, 2018, $69;</i>
+
+&emsp;&emsp;<i>"(VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and</i>
+
+&emsp;&emsp;<i>"(VIII) for plan years beginning after December 31, 2018, $80.";</i>
+
+<i>(2) in paragraph (3)(G)—</i>
+
+<i>(A) in the matter preceding clause (i), by striking "2016" and inserting "2019"; and</i>
+
+<i>(B) in clause (i)(II) by striking "2014" and inserting "2017";</i>
+
+<i>(3) in paragraph (8)(A)—</i>
+
+<i>(A) in clause (iii), by striking "and" at the end;</i>
+
+<i>(B) in clause (iv), by striking the period at the end and inserting a semicolon; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));</i>
+
+&emsp;&emsp;<i>"(vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and</i>
+
+&emsp;&emsp;<i>"(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).";</i>
+
+<i>(4) in paragraph (8)(C)</i>
+
+<i>(A) in the subparagraph heading, by striking "increase in 2014 and 2015" and inserting "increases";</i>
+
+<i>(B) in clause (ii), by striking "and" at the end;</i>
+
+<i>(C) in clause (iii), by striking the period at the end and inserting a semicolon; and</i>
+
+<i>(D) by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(iv) in the case of plan years beginning in calendar year 2017, by $3;</i>
+
+&emsp;&emsp;<i>"(v) in the case of plan years beginning in calendar year 2018, by $4; and</i>
+
+&emsp;&emsp;<i>"(vi) in the case of plan years beginning in calendar year 2019, by $4."; and</i>
+
+<i>(5) in paragraph (8)(D)—</i>
+
+<i>(A) in clause (iii), by striking "and" at the end;</i>
+
+<i>(B) in clause (iv), by striking the period at the end and inserting a semicolon; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(v) 2015, in the case of plan years beginning after calendar year 2017;</i>
+
+&emsp;&emsp;<i>"(vi) 2016, in the case of plan years beginning after calendar year 2018; and</i>
+
+&emsp;&emsp;<i>"(vii) 2017, in the case of plan years beginning after calendar year 2019."</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3)(A)(i)(VI) to (VIII). Pub. L. 114–74, §501(a)(1), added subcls. (VI) to (VIII).
+
+Subsec. (a)(3)(G). Pub. L. 114–74, §501(a)(2)(A), substituted "2019" for "2016" in introductory provisions.
+
+Subsec. (a)(3)(G)(i)(II). Pub. L. 114–74, §501(a)(2)(B), substituted "2017" for "2014".
+
+Subsec. (a)(8)(A)(v) to (vii). Pub. L. 114–74, §501(b)(2)(A), added cls. (v) to (vii).
+
+Subsec. (a)(8)(C). Pub. L. 114–74, §501(b)(1)(A), substituted "increases" for "increase in 2014 and 2015" in heading.
+
+Subsec. (a)(8)(C)(iv) to (vi). Pub. L. 114–74, §501(b)(1)(B)–(D), added cls. (iv) to (vi).
+
+Subsec. (a)(8)(D)(v) to (vii). Pub. L. 114–74, §501(b)(2)(B), added cls. (v) to (vii).
 
 <b>2014</b>—Subsec. (a)(3)(A)(v), (vi). Pub. L. 113–235, §131(a)(1), inserted "and before January 1, 2015," after "December 31, 2012," in cl. (v) and added cl. (vi).
 
@@ -488,7 +566,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted "joint" for "concur
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for theapplication of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted "(C), (D), or (E)" for "(B) or (C)", "revised schedule" for "revised coverage schedule", and "Human Resources" for "Public Welfare", in par. (3) substituted "revised schedule" for "revised coverage schedule", and in par. (4) substituted "Human Resources" for "Public Welfare".
 
@@ -499,6 +577,10 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–74, title V, §501(b)(3), Nov. 2, 2015, 129 Stat. 593, provided that: "The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2016."
 
 #### Effective Date of 2014 Amendment
 
@@ -518,7 +600,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title IV, §401(a)(2), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to plan years beginning after 2007."
+Pub. L. 109–280, title IV, §401(a)(2), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to plan years beginning after 2007."
 
 Pub. L. 109–280, title IV, §401(b)(2)(B), Aug. 17, 2006, 120 Stat. 922, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in the provision of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\] to which it relates."
 
@@ -622,7 +704,7 @@ Pub. L. 103–465, title VII, §774(c), Dec. 8, 1994, 108 Stat. 5046, provided t
 
 &emsp;"(1) January 1, 1998, or
 
-&emsp;"(2) the date the regulated public utility begins to collect from utility customers rates that reflect the costs incurred or projected to be incurred for additional premiums under section 4006(a)(3)(E) of the Employee Retirement Income Security Act of 1974 \[subsec. (a)(3)(E) of this section\] pursuant to final and nonappealable determinations by all public utility commissions (or other authorities having jurisdiction over the rates and terms of service by the regulated public utility) that the costs are just and reasonableand recoverable from customers of the regulated public utility."
+&emsp;"(2) the date the regulated public utility begins to collect from utility customers rates that reflect the costs incurred or projected to be incurred for additional premiums under section 4006(a)(3)(E) of the Employee Retirement Income Security Act of 1974 \[subsec. (a)(3)(E) of this section\] pursuant to final and nonappealable determinations by all public utility commissions (or other authorities having jurisdiction over the rates and terms of service by the regulated public utility) that the costs are just and reasonable and recoverable from customers of the regulated public utility."
 
 Pub. L. 99–272, title XI, §11005(e), Apr. 7, 1986, 100 Stat. 243, provided that:
 

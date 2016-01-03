@@ -98,7 +98,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (C) If an increase in premiums is not so enacted, the revised guarantee schedule described in subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
 
-(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
+(3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased withoutincreasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
 
 &emsp;(i) a revised schedule of increases in the basic-benefit guarantees which can be supported by the existing schedule of basic-benefit premiums for multiemployer plans, and
 
@@ -136,7 +136,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is a joint resolution the matter after the resolving clause of which is as follows: "The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.", the blank space therein being filled with the date on which the revised schedule was submitted.
 
-(C) For purposes of subparagraph (A), the term "legislative day" means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
+(C) For purposes of subparagraph (A), the term "legislative day" means any calendar day otherthan a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
 (D) The procedure for disposition of a joint resolution described in subparagraph (B) shall be the procedure described in paragraphs (4) through (7) of section 1306(b) of this title.
 
@@ -218,7 +218,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(b) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

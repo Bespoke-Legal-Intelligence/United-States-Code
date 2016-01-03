@@ -2,7 +2,7 @@ Part C—Job Corps
 
 #### Definition of "Secretary"
 
-In this part, Secretary means the Secretary of Labor, see section 3151(b)(1)(C)(ii)(II) of this title.
+In this part, "Secretary" means the Secretary of Labor, see section 3151(b)(1)(C)(ii)(II) of this title.
 
 
 ---
@@ -12,6 +12,7 @@ In this part, Secretary means the Secretary of Labor, see section 3151(b)(1)(C)(
 - [&sect; 03191 - Purposes](%C2%A7%2003191%20-%20Purposes.md)
 - [&sect; 03192 - Definitions](%C2%A7%2003192%20-%20Definitions.md)
 - [&sect; 03193 - Establishment](%C2%A7%2003193%20-%20Establishment.md)
+- [&sect; 03193a - Transfer of administration of Job Corps program to Employment and Training Administration](%C2%A7%2003193a%20-%20Transfer%20of%20administration%20of%20Job%20Corps%20program%20to%20Employment%20and%20Training%20Administration.md)
 - [&sect; 03194 - Individuals eligible for the Job Corps](%C2%A7%2003194%20-%20Individuals%20eligible%20for%20the%20Job%20Corps.md)
 - [&sect; 03195 - Recruitment, screening, selection, and assignment of enrollees](%C2%A7%2003195%20-%20Recruitment%2C%20screening%2C%20selection%2C%20and%20assignment%20of%20enrollees.md)
 - [&sect; 03196 - Enrollment](%C2%A7%2003196%20-%20Enrollment.md)

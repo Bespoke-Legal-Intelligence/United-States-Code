@@ -46,7 +46,7 @@ Except as provided in subsection (c) of this section, if as a result of the enac
 
 #### (f) Copy of rule or general statement of policy to Congressional leaders
 
-Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) of this section applies, such agency shall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
+Whenever an agency publishes in the Federal Register a rule (including an interpretative rule) or a general statement of policy to which subsection (c) of this section applies, such agencyshall transmit a copy of such rule or such general statement of policy to the Speaker of the House of Representatives and the President pro tempore of the Senate.
 
 (Pub. L. 88–452, title VIII, §814, as added Pub. L. 100–175, title V, §503(a), Nov. 29, 1987, 101 Stat. 974.)
 

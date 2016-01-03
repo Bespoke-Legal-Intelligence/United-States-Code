@@ -30,7 +30,7 @@ In the case of any estate with respect to which an election has been made under 
 
 #### (c) Agreement
 
-The agreement referred to in this subsection is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement—
+The agreement referred to in this subsection is a written agreement signed by each person inbeing who has an interest (whether or not in possession) in any property designated in such agreement—
 
 &emsp;(1) consenting to the creation of the lien under this section with respect to such property, and
 

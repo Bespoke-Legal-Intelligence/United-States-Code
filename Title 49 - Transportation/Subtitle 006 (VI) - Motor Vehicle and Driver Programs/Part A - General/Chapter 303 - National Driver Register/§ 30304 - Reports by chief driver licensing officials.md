@@ -44,7 +44,7 @@ Events Occurring Before Participation.—This section does not require a State t
 
 (e)
 
-Driver Record Inquiry.—Before issuing a motor vehicle operator's license to an individual or renewing such a license, a State shall requestfrom the Secretary information from the National Driver Register under section 30302 and the commercial driver's license information system under section 31309 on the individual's driving record.
+Driver Record Inquiry.—Before issuing a motor vehicle operator's license to an individual or renewing such a license, a State shall request from the Secretary information from the National Driver Register under section 30302 and the commercial driver's license information system under section 31309 on the individual's driving record.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 975; Pub. L. 106–159, title II, §204, Dec. 9, 1999, 113 Stat. 1762.)
 

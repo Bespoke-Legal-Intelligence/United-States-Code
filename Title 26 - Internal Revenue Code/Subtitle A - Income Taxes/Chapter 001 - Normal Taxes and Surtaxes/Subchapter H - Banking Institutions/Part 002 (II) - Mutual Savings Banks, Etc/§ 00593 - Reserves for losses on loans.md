@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the amount determined under this paragraph forthe taxable year shall be an amount equal to 8 percent of the taxable income for such year.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the amount determined under this paragraph for the taxable year shall be an amount equal to 8 percent of the taxable income for such year.
 
 #### (B) Reduction for amounts referred to in paragraph (1)(A)
 
@@ -76,7 +76,7 @@
 
 #### (2) Certain pre-1963 reserves
 
-&emsp;Notwithstanding the second sentence of paragraph (1), any amount allocated pursuant to paragraph (5) (as in effect immediately before the enactment of the Tax Reform Act of 1976) during a taxable year beginning before January 1, 1977, to the reserve for losses on qualifying real property loans out of the surplus, undivided profits, and bad debt reserves (determined as of December 31, 1962) attributable to the period before the first taxable year beginning after December 31, 1951, shall not be treated as a reserve for bad debts for any purpose other than determining the amount referred to in subsection (b)(1)(B), and for such purpose such amount shall be treated as remaining in such reserve.
+&emsp;Notwithstanding the second sentence of paragraph (1), any amount allocated pursuantto paragraph (5) (as in effect immediately before the enactment of the Tax Reform Act of 1976) during a taxable year beginning before January 1, 1977, to the reserve for losses on qualifying real property loans out of the surplus, undivided profits, and bad debt reserves (determined as of December 31, 1962) attributable to the period before the first taxable year beginning after December 31, 1951, shall not be treated as a reserve for bad debts for any purpose other than determining the amount referred to in subsection (b)(1)(B), and for such purpose such amount shall be treated as remaining in such reserve.
 
 #### (3) Charging of bad debts to reserves
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) any loan, to the extent secured by a deposit in or share of the taxpayer; or
 
-&emsp;&emsp;(D) any loan which, within a 60-day period beginning in one taxable year of the creditor and ending in its next taxable year, is made or acquired and then repaid or disposed of, unless the transactions by which such loan was made or acquired and then repaid or disposed of are established to be for bona fide business purposes. For purposes of subparagraph (B)(iii), the term "affiliated group" has the meaning assigned to such term by section 1504(a); except that (i) the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1504(a), and (ii) all corporations shall be treated as includiblecorporations (without any exclusion under section 1504(b)).
+&emsp;&emsp;(D) any loan which, within a 60-day period beginning in one taxable year of the creditor and ending in its next taxable year, is made or acquired and then repaid or disposed of, unless the transactions by which such loan was made or acquired and then repaid or disposed of are established to be for bona fide business purposes. For purposes of subparagraph (B)(iii), the term "affiliated group" has the meaning assigned to such term by section 1504(a); except that (i) the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" each place it appears in section 1504(a), and (ii) all corporations shall be treated as includible corporations (without any exclusion under section 1504(b)).
 
 #### (2) Nonqualifying loans
 
@@ -270,7 +270,7 @@ Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1)
 
 Subsec. (e)(1). Pub. L. 104–188, §1616(b)(7)(A), substituted "by a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)" in introductory provisions.
 
-Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" and inserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
+Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted "a taxpayer having a balance described in subsection (g)(2)(A)(ii)" for "the association or an institution that is treated as a mutual savings bank under section 591(b)" after "complete liquidation of" and for "an association" after "an interest in" and inserted at end "This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect."
 
 Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),".
 
@@ -338,7 +338,7 @@ Subsecs. (e), (f). Pub. L. 94–455, §1901(a)(84)(C), redesignated subsec. (f) 
 
 <b>1969</b>—Subsec. (b)(1)(A). Pub. L. 91–172, §432(a)(1), inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
 
-Subsec. (b)(2). Pub. L. 91–172, §432(a)(2), substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
+Subsec. (b)(2). Pub. L. 91–172, §432(a)(2), substituted a table of applicable percentages of the taxable incomefor each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
 
 Subsec. (b)(3). Pub. L. 91–172, §432(a)(2), substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
 
@@ -376,7 +376,7 @@ Subsection (b)(7)(B).—The amendments made by subsection (b)(7)(B) \[amending t
 
 &emsp;"(A) such stock is outstanding at all times after October 31, 1995, and before the distribution, and
 
-&emsp;"(B) such distribution is made before the date which is 1 year after the date of the enactment of thisAct \[Aug. 20, 1996\] (or, in the case of stock which may be redeemed, if later, the date which is 30 days after the earliest date that such stock may be redeemed).
+&emsp;"(B) such distribution is made before the date which is 1 year after the date of the enactment of this Act \[Aug. 20, 1996\] (or, in the case of stock which may be redeemed, if later, the date which is 30 days after the earliest date that such stock may be redeemed).
 
 "(3)
 
@@ -426,7 +426,7 @@ Pub. L. 87–834, §6(g)(1), Oct. 16, 1962, 76 Stat. 984, as amended by Pub. L. 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transfer of Functions
 

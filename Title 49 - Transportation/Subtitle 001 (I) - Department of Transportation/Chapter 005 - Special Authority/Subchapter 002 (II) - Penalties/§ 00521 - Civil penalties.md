@@ -36,7 +36,7 @@ In general.—Except as otherwise provided in this subsection, any person who is
 
 &emsp;(B)
 
-Recordkeeping and reporting violations.—A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title or under any regulation issued by the Secretary pursuant to subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person—
+Recordkeeping and reporting violations.—A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title or under any regulation issued by the Secretary pursuant to subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title about transportationby motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person—
 
 &emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $10,000; or
 
@@ -130,7 +130,7 @@ Enforcement of imminent hazard out-of-service orders.—
 
 &emsp;(B)
 
-Issuance of regulations.—The Secretary shall promulgate regulations on the use of impoundment or immobilization of commercial motor vehicles as a means of enforcing additional out-of-service orders issued under chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder. Regulations promulgated under this subparagraph shall include consideration of public safety, the protection of passengers and cargo, inconvenience to passengers, and the security of the commercial motor vehicle.
+Issuance of regulations.—The Secretary shall promulgate regulations on the use of impoundment or immobilization of commercial motor vehicles as a means of enforcing additional out-of-service orders issuedunder chapters 5, 51, 131 through 149, 311, 313, or 315 of this title, or a regulation promulgated thereunder. Regulations promulgated under this subparagraph shall include consideration of public safety, the protection of passengers and cargo, inconvenience to passengers, and the security of the commercial motor vehicle.
 
 &emsp;(C)
 
@@ -221,7 +221,7 @@ Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted "under subchapt
 
 Pub. L. 103–272, §4(j)(11)(D), substituted "chapter 59 of this title" for "section 508 of this title".
 
-Subsec. (b)(2)(B). Pub. L. 103–272, §5(m)(11)(C), substituted "section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title" for "section 12002, 12003,12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986".
+Subsec. (b)(2)(B). Pub. L. 103–272, §5(m)(11)(C), substituted "section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title" for "section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986".
 
 Subsec. (b)(3). Pub. L. 103–272, §5(m)(11)(D), substituted "subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title" for "section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, or 12005(b) of the Commercial Motor Vehicle Safety Act of 1986".
 
@@ -285,7 +285,7 @@ Establishment.—The Secretary—
 
 "(c)
 
-Extraordinary Circumstances.—If the Secretary determines and documents that extraordinary circumstances exist which merit the assessment of any civil penalty lower than any level established under subsection (b), the Secretary may assess such lower penalty. In cases where a person has been found to have previously committed the same or a related violation of critical or acute regulations issued to carry out a law referred to in subsection (a), extraordinary circumstances may be found to exist when the Secretary determines that repetition of such violation does not demonstrate a failure to take appropriate remedial action.
+Extraordinary Circumstances.—If the Secretary determines and documents that extraordinary circumstances exist which merit the assessment of any civil penalty lower than any level established under subsection (b), the Secretary may assess such lower penalty. In cases where a person has been found to havepreviously committed the same or a related violation of critical or acute regulations issued to carry out a law referred to in subsection (a), extraordinary circumstances may be found to exist when the Secretary determines that repetition of such violation does not demonstrate a failure to take appropriate remedial action.
 
 "(d)
 
@@ -301,7 +301,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminalpenalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

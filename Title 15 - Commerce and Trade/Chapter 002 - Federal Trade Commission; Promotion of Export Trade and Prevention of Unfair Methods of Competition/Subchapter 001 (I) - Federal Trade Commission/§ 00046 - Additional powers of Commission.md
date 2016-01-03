@@ -16,7 +16,7 @@ Whenever a final decree has been entered against any defendant corporation in an
 
 #### (d) Investigations of violations of antitrust statutes
 
-Upon the direction of the President or either House of Congress to investigate and report thefacts relating to any alleged violations of the antitrust Acts by any corporation.
+Upon the direction of the President or either House of Congress to investigate and report the facts relating to any alleged violations of the antitrust Acts by any corporation.
 
 #### (e) Readjustment of business of corporations violating antitrust statutes
 
@@ -82,7 +82,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (7) Assistance to certain countries
 
-&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
 
 #### (k) Referral of evidence for criminal proceedings
 
@@ -112,7 +112,7 @@ To expend appropriated funds for—
 
 The Commission shall establish a plan designed to substantially reduce burdens imposed upon small businesses as a result of requirements established by the Commission under clause (b) relating to the filing of quarterly financial reports. Such plan shall (1) be established after consultation with small businesses and persons who use the information contained in such quarterly financial reports; (2) provide for a reduction of the number of small businesses required to file such quarterly financial reports; and (3) make revisions in the forms used for such quarterly financial reports for the purpose of reducing the complexity of such forms. The Commission, not later than December 31, 1980, shall submit such plan to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. Such plan shall take effect not later than October 31, 1981.
 
-No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specificlaw enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
+No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specific law enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
@@ -166,7 +166,7 @@ Subsec. (g). Pub. L. 93–637, §202(b), inserted "(except as provided in sectio
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce ofHouse of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination Date of 2006 Amendment
 

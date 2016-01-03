@@ -42,7 +42,7 @@ July 9, 1952, ch. 608, §211(b) (less 1st 16 words), 66 Stat. 485.
 
 34:440k (last sentence, less applicability to inactive status).
 
-Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17 words of last sentence, as applicable to inactive status), and 34:440o (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
+Subsection (a) is substituted for 10:1036c (1st 17 words of last sentence, as applicable to inactive status), 10:1036g (last 41 words of 2d sentence), 34:440k (last 17words of last sentence, as applicable to inactive status), and 34:440o (last 41 words of 2d sentence). 10:1036c (proviso of last sentence, as applicable to inactive status) and 34:440k (proviso of last sentence, as applicable to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, as applicable to inactive status) are omitted as surplusage.
 
 In subsection (b), 10:1036c (proviso of last sentence, less applicability to inactive status) and 34:440k (proviso of last sentence, less applicability to inactive status) are omitted as executed. 10:1036c (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) and 34:440k (last sentence, less 1st 17 words and less proviso, less applicability to inactive status) are omitted as surplusage.
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1962 Amendment
 
-Section 305 of Pub. L. 87–651 provided that: "Section 108 of this Act \[amending this section\] is effective as ofAugust 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959."
+Section 305 of Pub. L. 87–651 provided that: "Section 108 of this Act \[amending this section\] is effective as of August 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959."
 

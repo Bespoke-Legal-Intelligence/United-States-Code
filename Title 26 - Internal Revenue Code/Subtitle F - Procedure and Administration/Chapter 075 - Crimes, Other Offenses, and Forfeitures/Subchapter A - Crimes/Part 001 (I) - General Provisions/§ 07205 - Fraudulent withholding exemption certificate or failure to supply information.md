@@ -6,7 +6,7 @@ Any individual required to supply information to his employer under section 3402
 
 #### (b) Backup withholding on interest and dividends
 
-If any individual willfully makes a false certification under paragraph (1) or (2)(C) of section3406(d), then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+If any individual willfully makes a false certification under paragraph (1) or (2)(C) of section 3406(d), then such individual shall, in addition to any other penalty provided by law, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 89–368, title I, §101(e)(5), Mar. 15, 1966, 80 Stat. 62; Pub. L. 97–34, title VII, §721(b), Aug. 13, 1981, 95 Stat. 341; Pub. L. 97–248, title III, §§306(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §§102(a), 107(b), Aug. 5, 1983, 97 Stat. 369, 382; Pub. L. 98–369, div. A, title I, §159(a), July 18, 1984, 98 Stat. 696; Pub. L. 101–239, title VII, §7711(b)(2), Dec. 19, 1989, 103 Stat. 2393.)
 

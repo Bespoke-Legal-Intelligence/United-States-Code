@@ -72,7 +72,7 @@ Field.—The term "field" means a part of a farm that is separated from the bala
 
 &emsp;(11)(A) The term "highly erodible land" means land—
 
-&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII landunder the land capability classification system in effect on December 23, 1985; or
+&emsp;&emsp;(i) that is classified by the Soil Conservation Service as class IV, VI, VII, or VIII land under the land capability classification system in effect on December 23, 1985; or
 
 &emsp;&emsp;(ii) that has, or that if used to produce an agricultural commodity, would have an excessive average annual rate of erosion in relation to the soil loss tolerance level, as established by the Secretary, and as determined by the Secretary through application of factors from the universal soil loss equation and the wind erosion equation, including factors for climate, soil erodibility, and field slope.
 
@@ -158,7 +158,7 @@ Technical assistance.—The term "technical assistance" means technical expertis
 
 &emsp;(2) lists of such soils and such vegetation.
 
-(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, §2713(a), Feb. 7, 2014, 128 Stat. 772.)
+(Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, §2713(a), Feb. 7, 2014, 128 Stat. 772.)
 
 #### References in Text
 
@@ -216,7 +216,7 @@ Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: "This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the 'Conservation Program Improvements Act'."
+Pub. L. 101–624, title XIV, §1401, Nov. 28, 1990, 104 Stat. 3568, provided that: "This title \[enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7\] may be cited as the 'Conservation Program Improvements Act'."
 
 #### Regulations
 
@@ -452,7 +452,7 @@ Sufficient staffing.—Staffing, considering both Federal and non-Federal resour
 
 "(a)
 
-Memorandum of Agreement.—On approval of a conservation corridor plan, the Secretary may enter into a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
+Memorandum of Agreement.—On approval of a conservation corridor plan, the Secretary may enterinto a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
 
 &emsp;"(1) guarantee specific program resources for implementation of the plan;
 

@@ -1,6 +1,6 @@
 ### §4515. Appropriations
 
-There are appropriated to the James Madison Memorial Trust Fund $20,000,000 to carry out theprovisions of this chapter, $10,000,000 of which shall be available on November 1, 1987, and to remain available until expended; and $10,000,000 of which shall be available on November 1, 1988, and to remain available until expended.
+There are appropriated to the James Madison Memorial Trust Fund $20,000,000 to carry out the provisions of this chapter, $10,000,000 of which shall be available on November 1, 1987, and to remain available until expended; and $10,000,000 of which shall be available on November 1, 1988, and to remain available until expended.
 
 (Pub. L. 99–500, §101(b) \[title VIII, §816\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §816\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81.)
 

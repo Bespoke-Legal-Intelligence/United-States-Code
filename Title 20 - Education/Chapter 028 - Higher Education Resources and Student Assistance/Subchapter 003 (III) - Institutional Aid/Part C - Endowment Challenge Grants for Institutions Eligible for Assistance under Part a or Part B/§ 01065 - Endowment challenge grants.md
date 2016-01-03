@@ -56,9 +56,9 @@
 
 #### (c) Grant agreement; endowment fund provisions
 
-(1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
+(1) An institution awarded a grant under this section shall enter into an agreement with theSecretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
 
-(2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of theState in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
+(2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
 (B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
@@ -112,7 +112,7 @@ Any institution which is eligible for assistance under this section may submit t
 
 The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this section.
 
-(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat.2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646; Pub. L. 110–315, title III, §313, Aug. 14, 2008, 122 Stat. 3180.)
+(Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646; Pub. L. 110–315, title III, §313, Aug. 14, 2008, 122 Stat. 3180.)
 
 #### Prior Provisions
 

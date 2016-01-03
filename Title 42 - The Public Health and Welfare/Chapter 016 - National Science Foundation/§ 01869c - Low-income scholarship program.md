@@ -14,7 +14,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
+&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
 
 #### (B) Ability
 

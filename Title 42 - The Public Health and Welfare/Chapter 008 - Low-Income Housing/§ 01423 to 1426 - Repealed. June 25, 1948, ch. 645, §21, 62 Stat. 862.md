@@ -1,6 +1,6 @@
 ### §§1423 to 1426. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862
 
-Section 1423, act Sept. 1, 1937, ch. 896, §24, formerly §23, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, related to penalties for false entries and reports.
+Section 1423, act Sept. 1, 1937, ch. 896, §24, formerly §23, 50 Stat. 899, renumbered July 15, 1949, ch. 338, titleIII, §307(h), 63 Stat. 431, related to penalties for false entries and reports.
 
 Section 1424, act Sept. 1, 1937, ch. 896, §25, formerly §24, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, related to penalties for defrauding or hindering the Authority.
 

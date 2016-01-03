@@ -26,13 +26,17 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act \[
 
 Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–44, §1, Aug. 6, 2015, 129 Stat. 472, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Need-Based Educational Aid Act of 2015'."
+
 #### Short Title of 2009 Amendment
 
 Pub. L. 111–30, §1, June 19, 2009, 123 Stat. 1775, provided that: "This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the 'Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act'."
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: "This Act \[amending provisions set out asa note under this section\] may be cited as the 'Need-Based Educational Aid Act of 2008'."
+Pub. L. 110–327, §1, Sept. 30, 2008, 122 Stat. 3566, provided that: "This Act \[amending provisions set out as a note under this section\] may be cited as the 'Need-Based Educational Aid Act of 2008'."
 
 #### Short Title of 2007 Amendment
 
@@ -334,11 +338,11 @@ Facilities and Support Services.—The Administrator of General Services shall p
 
 "(d)
 
-Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or insuch amounts as are provided in advance in appropriation Acts.
 
 "(e)
 
-Mails.—The Commission may use the United States mails in the same manner and under the sameconditions as other departments and agencies of the United States.
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
 "(f)
 
@@ -456,7 +460,7 @@ In general.—For the purpose of completing the study under subsection (a)(1), a
 
 Non-participating institutions.—Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection."
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566, provided that:
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2,Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, §2, Aug. 6, 2015, 129 Stat. 472, provided that:
 
 "(a)
 
@@ -464,11 +468,9 @@ Exemption.—It shall not be unlawful under the antitrust laws for 2 or more ins
 
 &emsp;"(1) to award such students financial aid only on the basis of demonstrated financial need for such aid;
 
-&emsp;"(2) to use common principles of analysis for determining the need of such students for financial aid if the agreement to use such principles does not restrict financial aid officers at such institutions in their exercising independent professional judgment with respect to individual applicants for such financial aid;
+&emsp;"(2) to use common principles of analysis for determining the need of such students for financial aid if the agreement to use such principles does not restrict financial aid officers at such institutions in their exercising independent professional judgment with respect to individual applicants for such financial aid; or
 
-&emsp;"(3) to use a common aid application form for need-based financial aid for such students if the agreement to use such form does not restrict such institutions in their requesting from such students, or in their using, data in addition to the data requested on such form; or
-
-&emsp;"(4) to exchange through an independent third party, before awarding need-based financial aid to any of such students who is commonly admitted to the institutions of higher education involved, data submitted by the student so admitted, the student's family, or a financial institution on behalf of the student or the student's family relating to assets, liabilities, income, expenses, the number of family members, and the number of the student's siblings in college, if each of such institutions of higher education is permitted to retrieve such data only once with respect to the student.
+&emsp;"(3) to use a common aid application form for need-based financial aid for such students if the agreement to use such form does not restrict such institutions in their requesting from such students, or in their using, data in addition to the data requested on such form.
 
 "(b)
 
@@ -498,7 +500,7 @@ Definitions.—For purposes of this section—
 
 "(d)
 
-Expiration.—Subsection (a) shall expire on September 30, 2015."
+Expiration.—Subsection (a) shall expire on September 30, 2022."
 
 \[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: "The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997."\]
 

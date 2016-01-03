@@ -50,13 +50,13 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;The alien must establish that he—
 
-&emsp;&emsp;(A) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section,
+&emsp;&emsp;(A) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2),
 
 &emsp;&emsp;(B) has not been convicted of any felony or of three or more misdemeanors committed in the United States,
 
 &emsp;&emsp;(C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 U.S.C. App. 451 et seq.\], if the alien is required to be so registered under that Act.
+&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 U.S.C. 3801 et seq.\], if the alien is required to be so registered under that Act.
 
 > &emsp;For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1522 note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -64,7 +64,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) Adjustment to permanent residence
 
-&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) of this section to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
+&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under subsection (a) to that of an alien lawfully admitted for permanent residence if the alien meets the following requirements:
 
 #### (A) Timely application after one year's residence
 
@@ -84,7 +84,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;The alien must establish that he—
 
-&emsp;&emsp;&emsp;(i) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, and
+&emsp;&emsp;&emsp;(i) is admissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), and
 
 &emsp;&emsp;&emsp;(ii) has not been convicted of any felony or three or more misdemeanors committed in the United States.
 
@@ -104,21 +104,21 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (iii) Relation to naturalization examination
 
-&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III of this chapter.
+&emsp;&emsp;&emsp;In accordance with regulations of the Attorney General, an alien who has demonstrated under clause (i)(I) that the alien meets the requirements of section 1423(a) of this title may be considered to have satisfied the requirements of that section for purposes of becoming naturalized as a citizen of the United States under subchapter III.
 
 #### (2) Termination of temporary residence
 
-&emsp;The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a) of this section—
+&emsp;The Attorney General shall provide for termination of temporary resident status granted an alien under subsection (a)—
 
 &emsp;&emsp;(A) if it appears to the Attorney General that the alien was in fact not eligible for such status;
 
-&emsp;&emsp;(B) if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2) of this section, or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
+&emsp;&emsp;(B) if the alien commits an act that (i) makes the alien inadmissible to the United States as an immigrant, except as otherwise provided under subsection (d)(2), or (ii) is convicted of any felony or three or more misdemeanors committed in the United States; or
 
 &emsp;&emsp;(C) at the end of the 43rd month beginning after the date the alien is granted such status, unless the alien has filed an application for adjustment of such status pursuant to paragraph (1) and such application has not been denied.
 
 #### (3) Authorized travel and employment during temporary residence
 
-&emsp;During the period an alien is in lawful temporary resident status granted under subsection (a) of this section—
+&emsp;During the period an alien is in lawful temporary resident status granted under subsection (a)—
 
 #### (A) Authorization of travel abroad
 
@@ -132,7 +132,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) To whom may be made
 
-&emsp;The Attorney General shall provide that applications for adjustment of status under subsection (a) of this section may be filed—
+&emsp;The Attorney General shall provide that applications for adjustment of status under subsection (a) may be filed—
 
 &emsp;&emsp;(A) with the Attorney General, or
 
@@ -198,7 +198,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) Fee schedule
 
-&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
+&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1). The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) after the end of the first year of the 2-year period described in subsection (b)(1)(A).
 
 #### (B) Use of fees
 
@@ -206,7 +206,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Immigration-related unfair employment practices
 
-&emsp;&emsp;Not to exceed $3,000,000 of the unobligated balances remaining in the account established in subparagraph (B) shall be available in fiscal year 1992 and each fiscal year thereafter for grants, contracts, and cooperative agreements to community-based organizations for outreach programs, to be administered by the Office of Special Counsel for Immigration-Related Unfair Employment Practices: <i>Provided</i>, That such amounts shall be in addition to any funds appropriated to theOffice of Special Counsel for such purposes: <i>Provided further</i>, That none of the funds made available by this section shall be used by the Office of Special Counsel to establish regional offices.
+&emsp;&emsp;Not to exceed $3,000,000 of the unobligated balances remaining in the account established in subparagraph (B) shall be available in fiscal year 1992 and each fiscal year thereafter for grants, contracts, and cooperative agreements to community-based organizations for outreach programs, to be administered by the Office of Special Counsel for Immigration-Related Unfair Employment Practices: <i>Provided</i>, That such amounts shall be in addition to any funds appropriated to the Office of Special Counsel for such purposes:<i>Provided further</i>, That none of the funds made available by this section shall be used by the Office of Special Counsel to establish regional offices.
 
 #### (d) Waiver of numerical limitations and certain grounds for exclusion
 
@@ -216,7 +216,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) Waiver of grounds for exclusion
 
-&emsp;In the determination of an alien's admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B) of this section—
+&emsp;In the determination of an alien's admissibility under subsections (a)(4)(A), (b)(1)(C)(i), and (b)(2)(B)—
 
 #### (A) Grounds of exclusion not applicable
 
@@ -254,7 +254,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) Before application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) of this section and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) of this section (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -262,7 +262,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) During application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -292,7 +292,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) Limitation to review of deportation
 
-&emsp;&emsp;There shall be judicial review of such a denial only in the judicial review of an order of deportation under section 1105a of this title (as in effect before October 1, 1996).
+&emsp;&emsp;There shall be judicial review of such a denial only in the judicial review of an order ofdeportation under section 1105a of this title (as in effect before October 1, 1996).
 
 #### (B) Standard for judicial review
 
@@ -300,7 +300,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Jurisdiction of courts
 
-&emsp;&emsp;Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1) of this section, or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
+&emsp;&emsp;Notwithstanding any other provision of law, no court shall have jurisdiction of any cause of action or claim by or on behalf of any person asserting an interest under this section unless such person in fact filed an application under this section within the period specified by subsection (a)(1), or attempted to file a complete application and application fee with an authorized legalization officer of the Service but had the application and fee refused by that officer.
 
 #### (g) Implementation of section
 
@@ -348,7 +348,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) In general
 
-&emsp;During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law—
+&emsp;During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a), and notwithstanding any other provision of law—
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
@@ -360,7 +360,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(B) a State or political subdivision therein may, to the extent consistent with subparagraph (A) and paragraphs (2) and (3), provide that the alien is not eligible for the programs of financial assistance or for medical assistance described in subparagraph (A)(ii) furnished under the law of that State or political subdivision.
 
-> &emsp;Unless otherwise specifically provided by this section or other law, an alien in temporary lawful residence status granted under subsection (a) of this section shall not be considered (for purposes of any law of a State or political subdivision providing for a program of financial assistance) to be permanently residing in the United States under color of law.
+> &emsp;Unless otherwise specifically provided by this section or other law, an alien in temporary lawful residence status granted under subsection (a) shall not be considered (for purposes of any law of a State or political subdivision providing for a program of financial assistance) to be permanently residing in the United States under color of law.
 
 #### (2) Exceptions
 
@@ -414,7 +414,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(E) The Headstart-Follow Through Act \[42 U.S.C. 2921 et seq.\].
 
-&emsp;&emsp;(F) Title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
+&emsp;&emsp;(F) Title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\].
 
 &emsp;&emsp;(G) Title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\].
 
@@ -428,17 +428,13 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (i) Dissemination of information on legalization program
 
-Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
+Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A), the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), titleVI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title V, §512(q), July 22, 2014, 128 Stat. 1712.)
-
-#### Amendment of Subsection (h)(4)(F)
-
-<i>Pub. L. 113–128, title V, §§506, 512(q), July 22, 2014, 128 Stat. 1703, 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (h)(4)(F) of this section is amended by striking "Title I of the Workforce Investment Act of 1998" and inserting "Title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
+(June 27, 1952, ch. 477, title II, ch. 5, §245A, as added Pub. L. 99–603, title II, §201(a)(1), Nov. 6, 1986, 100 Stat. 3394; amended Pub. L. 100–525, §2(h)(1), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–649, title VI, §603(a)(13), title VII, §703, Nov. 29, 1990, 104 Stat. 5083, 5086; Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 785; Pub. L. 102–232, title III, §307(l)(6), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 103–382, title III, §394(g), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 103–416, title I, §108(b), title II, §219(l)(1), Oct. 25, 1994, 108 Stat. 4310, 4317; Pub. L. 104–132, title IV, §431(a), Apr. 24, 1996, 110 Stat. 1273; Pub. L. 104–193, title I, §110(s)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, §623(a), Sept. 30, 1996, 110 Stat. 3009–622, 3009–623, 3009–649, 3009–653, 3009–696; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(4), (f)(4)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419,2681–430; Pub. L. 105–332, §3(a), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–78, title VII, §752(b)(5), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 109–270, §2(a), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(J), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(J), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title V, §512(q), July 22, 2014, 128 Stat. 1712.)
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a)(4)(D), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(4)(D), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 Public Law 96–422, referred to in subsecs. (a) and (h)(2)(A), (5), is Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended, which is known as the Refugee Education Assistance Act of 1980, and is set out as a note under section 1522 of this title.
 
@@ -466,7 +462,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4
 
 The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (h)(4)(F), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (h)(4)(F), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (h)(4)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -478,7 +474,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26,1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
+A prior section 1255a, Pub. L. 85–316, §9, Sept. 11, 1957, 71 Stat. 641, provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien's lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by Pub. L. 87–301, §24(a)(5), (b), Sept. 26, 1961, 75 Stat. 657.
 
 #### Amendments
 
@@ -566,13 +562,13 @@ Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out "by an
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 4002(b)(1)(B), (2)(J) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
+Amendment by section 4002(b)(1)(B), (2)(J) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L.110–246, set out as a note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1998 Amendment
 

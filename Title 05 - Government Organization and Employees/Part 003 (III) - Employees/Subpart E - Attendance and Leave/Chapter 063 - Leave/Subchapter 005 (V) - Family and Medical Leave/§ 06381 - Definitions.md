@@ -34,7 +34,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
-&emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10, United States Code;
+&emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under acall or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10, United States Code;
 
 &emsp;(8) the term "covered servicemember" means—
 
@@ -42,7 +42,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) a veteran who is undergoing medical treatment, recuperation, or therapy, for a serious injury or illness and who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during the period of 5 years preceding the date on which the veteran undergoes that medical treatment, recuperation, or therapy;
 
-&emsp;(9) the term "outpatient status", with respect to a covered servicemember, means thestatus of a member of the Armed Forces assigned to—
+&emsp;(9) the term "outpatient status", with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
 
 &emsp;&emsp;(A) a military medical treatment facility as an outpatient; or
 

@@ -24,7 +24,7 @@ The Secretary shall, to such extent or in such amounts as are provided in approp
 
 #### (c) Long-term and short-term contracts, grants, to train officers and employees in application of science and technology to problems of foreign policy
 
-The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts,including contracts for the services of consultants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
+The Secretary shall, to such extent or in such amounts as are provided in appropriation Acts, enter into short-term and long-term contracts, including contracts for the services of consultants, and shall make grants and take other appropriate measures in order to obtain assistance from knowledgeable persons and organizations in training officers and employees of the United States Government, at all levels of the Foreign Service and Civil Service—
 
 &emsp;(1) in the application of science and technology to problems of United States foreign policy and international relations generally; and
 

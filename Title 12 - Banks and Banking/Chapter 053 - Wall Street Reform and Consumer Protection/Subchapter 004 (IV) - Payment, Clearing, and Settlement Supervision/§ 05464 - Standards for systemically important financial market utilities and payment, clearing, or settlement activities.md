@@ -22,7 +22,7 @@
 
 #### (B) Review and determination
 
-&emsp;&emsp;The Board of Governors may determine that existing prudential requirements of the Commodity Futures Trading Commission, the Commission, or both (including requirements prescribed pursuant to subparagraph (A)) with respect to designated clearing entities and financial institutions engaged in designated activities for which the Commission or the Commodity Futures Trading Commission is the Supervisory Agency or the appropriate financial regulator are insufficient to prevent or mitigate significantliquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States.
+&emsp;&emsp;The Board of Governors may determine that existing prudential requirements of the Commodity Futures Trading Commission, the Commission, or both (including requirements prescribed pursuant to subparagraph (A)) with respect to designated clearing entities and financial institutions engaged in designated activities for which the Commission or the Commodity Futures Trading Commission is the Supervisory Agency or the appropriate financial regulator are insufficient to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States.
 
 #### (C) Written determination
 

@@ -2,7 +2,7 @@
 
 (a) The head of an Executive agency may pay an extended assignment incentive to an employee if—
 
-&emsp;(1) the employee has completed at least 2 years of continuous service in 1 or more civil service positions located in a territory or possession of the United States, the Commonwealth of Puerto Rico, or the Commonwealth of the Northern Mariana Islands;
+&emsp;(1) the employee has completed at least 2 years of continuous service in 1 or more civilservice positions located in a territory or possession of the United States, the Commonwealth of Puerto Rico, or the Commonwealth of the Northern Mariana Islands;
 
 &emsp;(2) the agency determines that replacing the employee with another employee possessing the required qualifications and experience would be difficult; and
 

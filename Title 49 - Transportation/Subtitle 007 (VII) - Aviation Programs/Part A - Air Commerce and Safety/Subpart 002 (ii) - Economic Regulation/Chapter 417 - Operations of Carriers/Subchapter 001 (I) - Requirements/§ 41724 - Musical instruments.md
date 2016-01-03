@@ -50,3 +50,5 @@ Effective Date.—The requirements of this section shall become effective on the
 
 The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
+Final regulations, referred to in subsecs. (b) and (c), were issued Dec. 29, 2014, effective Mar. 6, 2015. See 80 F.R. 161.
+

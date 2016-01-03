@@ -38,7 +38,7 @@ Act February 9, 1893, established a court of appeals for the District of Columbi
 
 The Judiciary Appropriation Act, 1945, Act June 26, 1944, ch. 277, §202, 58 Stat. 358, provided that as used in that Act, "the term 'circuit court of appeals' includes the United States Court of Appeals for the District of Columbia; the term 'senior circuit judge' includes the Chief Justice of the United States Court of Appeals for the District of Columbia; and the term 'circuit judge' includes associate justice of the United States Court of Appeals for the District of Columbia; and the term 'judge' includes justice."
 
-Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and section 213 of title 28, U.S.C., 1940ed., for payment of salaries in monthly installments were omitted, since time of payment is a matter of administrative convenience (20 Comp. Gen. 834).
+Provisions in section 11–202 of the District of Columbia Code, 1940 ed., and section 213 of title 28, U.S.C., 1940 ed., for payment of salaries in monthly installments were omitted, since time of payment is a matter of administrative convenience (20 Comp. Gen. 834).
 
 The exception in subsection (c) extends to circuit judges in the District of Columbia the effect of the recent decision in <i>U.S. ex rel. Laughlin v. Eicher</i>, D.C. 1944, 56 F.Supp. 972, holding that residence requirement of section 1 of title 28, U.S.C., 1940 ed., did not apply to district judges in the District of Columbia. (See Reviser's Note under section 134 of this title.)
 

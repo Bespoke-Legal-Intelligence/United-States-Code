@@ -78,7 +78,7 @@ After a determination that a producer is eligible for the program under subsecti
 
 &emsp;&emsp;&emsp;&emsp;(II) the producer shall refund all or a portion of the payments received by the producer under the contract, including any interest on the payments, as determined by the Secretary; or
 
-&emsp;&emsp;&emsp;(ii) if the Secretary determines that the violation does not warrant termination of the contract, the producer shall refund or accept adjustments to the payments provided to the producer, as the Secretary determines to be appropriate;
+&emsp;&emsp;&emsp;(ii) if the Secretary determines that the violation does not warrant termination ofthe contract, the producer shall refund or accept adjustments to the payments provided to the producer, as the Secretary determines to be appropriate;
 
 &emsp;&emsp;(F) include provisions in accordance with paragraphs (3) and (4); and
 
@@ -94,7 +94,7 @@ After a determination that a producer is eligible for the program under subsecti
 
 &emsp;&emsp;Subparagraph (A) shall not apply if—
 
-&emsp;&emsp;&emsp;(i) within a reasonable period of time (as determined by the Secretary) after thedate of the change in the interest in eligible land covered by a contract under the program, the transferee of the land provides written notice to the Secretary that all duties and rights under the contract have been transferred to, and assumed by, the transferee for the portion of the land transferred;
+&emsp;&emsp;&emsp;(i) within a reasonable period of time (as determined by the Secretary) after the date of the change in the interest in eligible land covered by a contract under the program, the transferee of the land provides written notice to the Secretary that all duties and rights under the contract have been transferred to, and assumed by, the transferee for the portion of the land transferred;
 
 &emsp;&emsp;&emsp;(ii) the transferee meets the eligibility requirements of the program; and
 

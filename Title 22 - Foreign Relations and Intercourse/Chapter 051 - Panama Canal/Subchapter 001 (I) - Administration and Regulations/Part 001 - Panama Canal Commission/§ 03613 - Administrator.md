@@ -18,7 +18,7 @@ If before the Canal Transfer Date the Republic of Panama appoints as the Adminis
 
 &emsp;(1) during any period during which that individual serves as both Administrator of the Commission and the Administrator of the Panama Canal Authority—
 
-&emsp;&emsp;(A) the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611 et seq.), shall not apply to that individual with respect toservice as the Administrator of the Panama Canal Authority;
+&emsp;&emsp;(A) the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611 et seq.), shall not apply to that individual with respect to service as the Administrator of the Panama Canal Authority;
 
 &emsp;&emsp;(B) that individual, with respect to participation in any particular matter as the Administrator of the Panama Canal Commission, is not subject to section 208(a) of title 18, insofar as that section would otherwise apply to that matter only because the matter will have a direct and predictable effect on the financial interest of the Panama Canal Authority;
 

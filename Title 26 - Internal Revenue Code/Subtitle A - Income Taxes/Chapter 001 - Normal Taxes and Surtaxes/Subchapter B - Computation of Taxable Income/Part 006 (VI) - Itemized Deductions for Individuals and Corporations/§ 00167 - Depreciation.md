@@ -28,7 +28,7 @@ There shall be allowed as a depreciation deduction a reasonable allowance for th
 
 #### (d) Life tenants and beneficiaries of trusts and estates
 
-In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
+In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property andshall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
 
 #### (e) Certain term interests not depreciable
 
@@ -136,7 +136,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any cost incurred after the property is placed in service (which is not treated as a separate property under paragraph (5)) shall be takeninto account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such cost is incurred) such cost to its value as of the date the property is placed in service. The taxpayer may elect with respect to any property to have the preceding sentence not apply to such property.
+> &emsp;For purposes of the preceding sentence, any cost incurred after the property is placed in service (which is not treated as a separate property under paragraph (5)) shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such cost is incurred) such cost to its value as of the date the property is placed in service. The taxpayer may elect with respect to any property to have the preceding sentence not apply to such property.
 
 #### (3) Exception from look-back method
 
@@ -212,7 +212,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Special rules relating to recomputation years
 
-&emsp;&emsp;If the adjusted basis of any property is determined under this paragraph, paragraph (4)shall be applied by substituting "for each taxable year in such period" for "for such period".
+&emsp;&emsp;If the adjusted basis of any property is determined under this paragraph, paragraph (4) shall be applied by substituting "for each taxable year in such period" for "for such period".
 
 #### (D) Other special rules
 
@@ -264,7 +264,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (D) Election
 
-&emsp;&emsp;An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
+&emsp;&emsp;An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply toall applicable musical property placed in service during the taxable year for which the election applies.
 
 #### (E) Termination
 
@@ -334,7 +334,7 @@ Subsecs. (h), (i). Pub. L. 109–58 added subsec. (h) and redesignated former su
 
 <b>2004</b>—Subsec. (f)(1)(C). Pub. L. 108–357, §847(b)(1), added subpar. (C).
 
-Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end "If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3))."
+Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end "If such property would be tax-exempt use propertyas defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3))."
 
 Subsec. (g)(5)(E) to (G). Pub. L. 108–357, §242(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
@@ -458,7 +458,7 @@ Subsec. (k)(1), (3)(D). Pub. L. 95–615 substituted "January 1, 1979" for "Janu
 
 Pub. L. 95–600, §367, substituted "January 1, 1982" for "January 1, 1979" wherever appearing.
 
-Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted "occupied by a certified historic structure (orby any structure in a registered historic district) which is demolished or substantially altered after such date" for "occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date", inserted "and" preceding subpar. (B), substituted "means" for "shall mean" in subpar. (B), and inserted provision that "The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation."; in par. (2), substituted heading "Exceptions" for "Exception", designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
+Subsec. (n). Pub. L. 95–600, §701(f)(4), in par. (1), substituted "occupied by a certified historic structure (or by any structure in a registered historic district) which is demolished or substantially altered after such date" for "occupied by a certified historic structure (as defined in section 191(d)(1)) which is demolished or substantially altered (other than by virtue of a certified rehabilitation as defined in section 191(d)(3) after such date", inserted "and" preceding subpar. (B), substituted "means" for "shall mean" in subpar. (B), and inserted provision that "The preceding sentence shall not apply if the last substantial alteration of the structure is a certified rehabilitation."; in par. (2), substituted heading "Exceptions" for "Exception", designated existing text as subpar. (A), and added subpar. (B); and added par. (3).
 
 Subsec. (o). Pub. L. 95–600, §701(f)(6), inserted in par. (1) "(other than property with respect to which an amortization deduction has been allowed to the taxpayer under section 191)" after "substantially rehabilitated historic property" and substituted in par. (2) "section 191(d)(4)" for "section 191(d)(3)".
 
@@ -604,7 +604,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(1) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1511(c)(4) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
@@ -634,7 +634,7 @@ Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amende
 
 Amendment by Pub. L. 95–615 to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.
 
-Amendment by section 301(d)(3) of Pub. L. 95–618 applicable to property which is placed in service after Sept. 30, 1978, but not to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on Oct. 1, 1978, and at all times thereafter,was binding on the taxpayer, see section 301(d)(4) of Pub. L. 95–618, set out as an Effective Date of 1978 Amendment note under section 48 of this title.
+Amendment by section 301(d)(3) of Pub. L. 95–618 applicable to property which is placed in service after Sept. 30, 1978, but not to property which is constructed, reconstructed, erected, or acquired pursuant to a contract which, on Oct. 1, 1978, and at all times thereafter, was binding on the taxpayer, see section 301(d)(4) of Pub. L. 95–618, set out as an Effective Date of 1978 Amendment note under section 48 of this title.
 
 Pub. L. 95–618, title III, §301(e)(2), Nov. 9, 1978, 92 Stat. 3201, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years ending after the date of enactment of this Act \[Nov. 9, 1978\]."
 
@@ -706,7 +706,7 @@ Pub. L. 97–34, title II, §203(e), Aug. 13, 1981, 95 Stat. 222, as amended by 
 
 #### Class Life System; Application to Real Property; General Rule
 
-Pub. L. 93–625, §5(a), Jan. 3, 1975, 88 Stat. 2112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of buildings and otheritems of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
+Pub. L. 93–625, §5(a), Jan. 3, 1975, 88 Stat. 2112, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of buildings and other items of section 1250 property (within the meaning of section 1250(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) placed in service before the effective date of the class lives first prescribed by the Secretary of the Treasury or his delegate under section 167(m) of such Code for the class in which such property falls, if an election under such section 167(m) applies to the taxpayer for the taxable year in which such property is placed in service, the taxpayer may, in accordance with regulations prescribed by the Secretary of the Treasury or his delegate, elect to determine the useful life of such property—
 
 &emsp;"(1) under Revenue Procedure 62–21 (as amended and supplemented) as in effect on December 31, 1970, or
 

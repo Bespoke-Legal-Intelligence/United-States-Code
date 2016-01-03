@@ -46,7 +46,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 &emsp;(2) innovative ways to involve the private nonprofit and business sector in delinquency prevention activities;
 
-&emsp;(3) developing or enhancing a statewide subsidy program to local governments that isdedicated to early intervention and delinquency prevention;
+&emsp;(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
 
 &emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; <sup>2</sup> and
 
@@ -56,7 +56,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 #### (1) In general
 
-&emsp;The Administrator shall make grants under this section, on a competitive basis, to eligible Indian tribes or consortia of Indian tribes, as described in paragraph (2)—
+&emsp;The Administrator shall make grants under this section, on a competitive basis, to eligibleIndian tribes or consortia of Indian tribes, as described in paragraph (2)—
 
 &emsp;&emsp;(A) to support and enhance—
 

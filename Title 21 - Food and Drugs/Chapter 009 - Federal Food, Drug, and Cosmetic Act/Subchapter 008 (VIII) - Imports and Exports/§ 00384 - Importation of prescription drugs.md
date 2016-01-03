@@ -206,7 +206,7 @@ Nothing in this section limits the authority of the Secretary relating to the im
 
 #### (A) In general
 
-&emsp;&emsp;If, after the date that is 1 year after the effective date of the regulations under subsection (b) of this section and before the date that is 18 months after the effective date, the Secretary submits to Congress a certification that, in the opinion of the Secretary, based on substantial evidence obtained after the effective date, the benefits of implementation of this section do not outweigh any detriment of implementation of this section, this section shall cease to be effective as of the date that is 30 days after the date on which the Secretary submits the certification.
+&emsp;&emsp;If, after the date that is 1 year after the effective date of the regulations under subsection (b) of this section and before the date that is 18 months after the effectivedate, the Secretary submits to Congress a certification that, in the opinion of the Secretary, based on substantial evidence obtained after the effective date, the benefits of implementation of this section do not outweigh any detriment of implementation of this section, this section shall cease to be effective as of the date that is 30 days after the date on which the Secretary submits the certification.
 
 #### (B) Procedure
 

@@ -32,7 +32,7 @@ For purposes of subsection (a)—
 
 #### (c) Tax to apply only if shareholder gain recognized
 
-Subsection (a) shall apply to any disqualified individual with respect to an expatriated corporation only if gain (if any) on any stock in such corporation is recognized in whole or partby any shareholder by reason of the acquisition referred to in section 7874(a)(2)(B)(i) with respect to such corporation.
+Subsection (a) shall apply to any disqualified individual with respect to an expatriated corporation only if gain (if any) on any stock in such corporation is recognized in whole or part by any shareholder by reason of the acquisition referred to in section 7874(a)(2)(B)(i) with respect to such corporation.
 
 #### (d) Exception where gain recognized on compensation
 

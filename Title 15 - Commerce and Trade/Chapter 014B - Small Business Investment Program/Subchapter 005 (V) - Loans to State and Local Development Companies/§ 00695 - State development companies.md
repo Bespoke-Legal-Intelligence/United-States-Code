@@ -52,9 +52,9 @@ In order to qualify for assistance under this subchapter, the development compan
 
 #### (e) Creation or retention of jobs
 
-(1) A project meets the objective set forth in subsection (d)(1) of this section if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
+(1) A project meets the objective set forth in subsection (d)(1) if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
 
-(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d) of this section, if the development company's portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
+(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
 
 (3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
 
@@ -94,7 +94,7 @@ Subsec. (d)(3)(I) to (K). Pub. L. 110–140, §1204(a)(1)–(3), added subpars. 
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
-<b>1988</b>—Pub. L. 100–590 inserted "State development companies" as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+<b>1988</b>—Pub. L. 100–590 inserted "State development companies" as section catchline, added subsec. (a), andredesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
 #### Effective Date of 2007 Amendment
 

@@ -62,7 +62,7 @@ Requirement.—For each major satellite acquisition program that the Under Secre
 
 &emsp;(2)
 
-Termination of requirement.—The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that isfive years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
+Termination of requirement.—The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that is five years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
 
 &emsp;(3)
 

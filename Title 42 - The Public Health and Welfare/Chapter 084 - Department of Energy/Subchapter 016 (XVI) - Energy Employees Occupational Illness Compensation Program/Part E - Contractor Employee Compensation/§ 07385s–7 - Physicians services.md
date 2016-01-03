@@ -6,7 +6,7 @@ The Secretary may utilize the services of physicians for purposes of making dete
 
 #### (b) Physicians
 
-Any physicians whose services are utilized under subsection (a) of this section shall possessappropriate expertise and experience in the evaluation and determination of the extent of permanent physical impairments or in the evaluation and diagnosis of illnesses or deaths aggravated, contributed to, or caused by exposure to toxic substances.
+Any physicians whose services are utilized under subsection (a) of this section shall possess appropriate expertise and experience in the evaluation and determination of the extent of permanent physical impairments or in the evaluation and diagnosis of illnesses or deaths aggravated, contributed to, or caused by exposure to toxic substances.
 
 #### (c) Arrangement
 

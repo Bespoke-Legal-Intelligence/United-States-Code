@@ -126,23 +126,39 @@ Notwithstanding any other provision of law, gross income includes benefits paid 
 
 #### (1) In general
 
-&emsp;For purposes of subsection (b), amounts paid (directly or indirectly) to the taxpayer from an accident or health plan described in paragraph (2) shall not fail to be excluded from gross income solely because such plan, on or before January 1, 2008, provides for reimbursements of health care expenses of a deceased plan participant's beneficiary.
+&emsp;For purposes of subsection (b), amounts paid (directly or indirectly) to a qualified taxpayer from an accident or health plan described in paragraph (2) shall not fail to be excluded from gross income solely because such plan, on or before January 1, 2008, provides for reimbursements of health care expenses of a deceased employee's beneficiary (other than an individual described in paragraph (3)(B)).
 
 #### (2) Plan described
 
-&emsp;An accident or health plan is described in this paragraph if such plan is funded by a medical trust that is established in connection with a public retirement system and that—
+&emsp;An accident or health plan is described in this paragraph if such plan is funded by a medical trust that is established in connection with a public retirement system or established by or on behalf of a State or political subdivision thereof and that—
 
 &emsp;&emsp;(A) has been authorized by a State legislature, or
 
-&emsp;&emsp;(B) has received a favorable ruling from the Internal Revenue Service that the trust's income is not includible in gross income under section 115.
+&emsp;&emsp;(B) has received a favorable ruling from the Internal Revenue Service that the trust's income is not includible in gross income under section 115 or 501(c)(9).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039.)
+#### (3) Qualified taxpayer
+
+&emsp;For purposes of paragraph (1), with respect to an accident or health plan described in paragraph (2), the term "qualified taxpayer" means a taxpayer who is—
+
+&emsp;&emsp;(A) an employee, or
+
+&emsp;&emsp;(B) the spouse, dependent (as defined for purposes of subsection (b)), or child (as defined for purposes of such subsection) of an employee.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L.99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–113, div. Q, title III, §305(a)–(c), Dec. 18, 2015, 129 Stat. 3088.)
 
 #### References in Text
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to section 352(a) of Title 45, Railroads.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (j)(1). Pub. L. 114–113, §305(a), substituted "a qualified taxpayer" for "the taxpayer" and "deceased employee's beneficiary (other than an individual described in paragraph (3)(B))" for "deceased plan participant's beneficiary".
+
+Subsec. (j)(2). Pub. L. 114–113, §305(c)(1), inserted "or established by or on behalf of a State or political subdivision thereof" after "public retirement system" in introductory provisions.
+
+Subsec. (j)(2)(B). Pub. L. 114–113, §305(c)(2), inserted "or 501(c)(9)" after "section 115".
+
+Subsec. (j)(3). Pub. L. 114–113, §305(b), added par. (3).
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–295 struck out "or (d)" after "subsection (c)".
 
@@ -192,6 +208,10 @@ Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out "a territory" after "
 
 <b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §305(d), Dec. 18, 2015, 129 Stat. 3089, provided that: "The amendments made by this section \[amending this section\] shall apply to payments after the date of the enactment of this Act \[Dec. 18, 2015\]."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -226,7 +246,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) ofPub. L. 97–248, set out as a note under section 213 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) of Pub. L. 97–248, set out as a note under section 213 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -278,7 +298,7 @@ Pub. L. 95–30, title III, §301(d), May 23, 1977, 91 Stat. 152, provided that:
 
 Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting and amending provisions set out as notes under this section\] shall take effect on October 4, 1976, but shall not apply—
 
-&emsp;"(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
+&emsp;"(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxableyear beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
 &emsp;"(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply."
 
@@ -296,7 +316,7 @@ Pub. L. 94–455, title V, §505(c), Oct. 4, 1976, 90 Stat. 1567, as amended by 
 
 #### Special Rule for Coordination With Section 72 of This Title
 
-Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III,§301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
+Pub. L. 94–455, title V, §505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of an individual who—
 
 &emsp;"(1) retired on disability before January 1, 1977, and
 

@@ -34,7 +34,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the release of personal information collected from a child in identifiable form by an operator for any purpose, except where such information is provided to a person other than the operator who provides support for the internal operations of the website and does not disclose or use that information for any other purpose; and
 
-&emsp;&emsp;(B) making personal information collected from a child by a website or online servicedirected to children or with actual knowledge that such information was collected from a child, publicly available in identifiable form, by any means including by a public posting, through the Internet, or through—
+&emsp;&emsp;(B) making personal information collected from a child by a website or online service directed to children or with actual knowledge that such information was collected from a child, publicly available in identifiable form, by any means including by a public posting, through the Internet, or through—
 
 &emsp;&emsp;&emsp;(i) a home page of a website;
 

@@ -28,7 +28,7 @@
 
 #### Codification
 
-Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L. 109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
+Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), amended this section by adding substantially identical subsecs. (i). The subsec. (i) added by Pub. L.109–148, §8126(c)(2), was subsequently omitted on authority of Pub. L. 109–364, §1071(f)(1), (3), which repealed Pub. L. 109–148, §8126(c)(2), and provided that the amendments by Pub. L. 109–148, §8126(c)(2), and Pub. L. 109–163, §1058(c), to this section be executed so as to appear only once in the law as amended. See Reconciliation of Duplicate Enactments note and 2005 and 2006 Amendment notes below.
 
 #### Prior Provisions
 

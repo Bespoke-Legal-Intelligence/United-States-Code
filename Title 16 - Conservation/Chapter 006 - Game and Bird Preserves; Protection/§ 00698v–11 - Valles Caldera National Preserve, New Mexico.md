@@ -38,7 +38,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The boundary of the Preserve shall consist of approximately 89,900 acres of land as depicted on the map entitled "Valles CalderaNational Preserve Proposed Boundary", numbered P80/102,036C, and dated November 4, 2014.
+&emsp;&emsp;The boundary of the Preserve shall consist of approximately 89,900 acres of land as depicted on the map entitled "Valles Caldera National Preserve Proposed Boundary", numbered P80/102,036C, and dated November 4, 2014.
 
 #### (B) Availability of map
 
@@ -278,7 +278,7 @@ In this section:
 
 #### (B) Existing management plans
 
-&emsp;&emsp;Notwithstanding the repeal made by subsection (d)(1), until the date on which the Secretary completes a management plan forthe Preserve in accordance with subsection (b)(3)(C), the Secretary may administer the Preserve in accordance with any management activities or plans adopted by the Trust under the Valles Caldera Preservation Act, to the extent the activities or plans are consistent with subsection (b)(3)(A).
+&emsp;&emsp;Notwithstanding the repeal made by subsection (d)(1), until the date on which the Secretary completes a management plan for the Preserve in accordance with subsection (b)(3)(C), the Secretary may administer the Preserve in accordance with any management activities or plans adopted by the Trust under the Valles Caldera Preservation Act, to the extent the activities or plans are consistent with subsection (b)(3)(A).
 
 #### (C) Public use
 
@@ -386,11 +386,11 @@ In this section:
 
 #### References in Text
 
-The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of Pub. L.106–248, July 25, 2000, 114 Stat. 598, which was classified to sections 698v to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
+The Valles Caldera Preservation Act, referred to in subsecs. (a)(2), (6), (c)(3)(B), and (d), is title I of Pub. L. 106–248, July 25, 2000, 114 Stat. 598, which was classified to sections 698v to 698v–10 of this title, prior to repeal by subsec. (d)(1) of this section. Sections 104 and 106 of the Act were classified to sections 698v–2 and 698v–4 of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
-The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (b)(3)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (b)(3)(A)(ii)(II), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (b)(3)(A)(ii)(II), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Omnibus Public Land Management Act of 2009, referred to in subsec. (b)(8)(A), is Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 991. Title IV of the Act is classified generally to chapter 92 (§7301 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 

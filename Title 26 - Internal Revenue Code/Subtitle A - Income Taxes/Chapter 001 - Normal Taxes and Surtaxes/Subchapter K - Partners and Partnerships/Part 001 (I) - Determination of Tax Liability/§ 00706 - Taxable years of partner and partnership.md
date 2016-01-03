@@ -54,7 +54,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Further change not required for 3 years
 
-&emsp;&emsp;Except as provided in regulations necessary to prevent the avoidance of this section, if, by reason of paragraph (1)(B)(i), the taxable year of a partnership is changed,such partnership shall not be required to change to another taxable year for either of the 2 taxable years following the year of change.
+&emsp;&emsp;Except as provided in regulations necessary to prevent the avoidance of this section, if, by reason of paragraph (1)(B)(i), the taxable year of a partnership is changed, such partnership shall not be required to change to another taxable year for either of the 2 taxable years following the year of change.
 
 #### (5) Application with other sections
 
@@ -74,7 +74,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Disposition of less than entire interest
 
-&emsp;&emsp;The taxable year of a partnership shall not close (other than at the end of a partnership's taxable year as determined under subsection (b)(1)) with respect to a partner who sells or exchanges less than his entire interest in the partnership or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner's interest, gift, or otherwise).
+&emsp;&emsp;The taxable year of a partnership shall not close (other than at the end of a partnership's taxable year as determined under subsection (b)(1)) with respect to a partner who sells or exchanges less than his entire interest in the partnership or with respect to apartner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner's interest, gift, or otherwise).
 
 #### (d) Determination of distributive share when partner's interest changes
 
@@ -128,7 +128,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 &emsp;&emsp;(B) such partnership is a partner in another partnership (hereinafter in this paragraph referred to as the "lower tier partnership"),
 
-> &emsp;then (except to the extent provided in regulations) each partner's distributive share of any item of the upper tier partnership attributable to the lower tier partnership shall be determined by assigning the appropriate portion (determined by applying principles similar to the principles of subparagraphs (C) and (D) ofparagraph (2)) of each such item to the appropriate days during which the upper tier partnership is a partner in the lower tier partnership and by allocating the portion assigned to any such day among the partners in proportion to their interests in the upper tier partnership at the close of such day.
+> &emsp;then (except to the extent provided in regulations) each partner's distributive share of any item of the upper tier partnership attributable to the lower tier partnership shall be determined by assigning the appropriate portion (determined by applying principles similar to the principles of subparagraphs (C) and (D) of paragraph (2)) of each such item to the appropriate days during which the upper tier partnership is a partner in the lower tier partnership and by allocating the portion assigned to any such day among the partners in proportion to their interests in the upper tier partnership at the close of such day.
 
 #### (4) Taxable year determined without regard to subsection (c)(2)(A)
 

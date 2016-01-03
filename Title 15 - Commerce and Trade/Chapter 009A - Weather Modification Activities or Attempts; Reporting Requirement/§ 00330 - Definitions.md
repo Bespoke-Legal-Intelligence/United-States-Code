@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The term "Secretary" means the Secretary of Commerce.
 
-&emsp;(2) The term "person" means any individual, corporation, company, association, firm, partnership, society, joint stock company, any State or local government or any agency thereof, or any other organization, whether commercial or nonprofit, who is performingweather modification activities, except where acting solely as an employee, agent, or independent contractor of the Federal Government.
+&emsp;(2) The term "person" means any individual, corporation, company, association, firm, partnership, society, joint stock company, any State or local government or any agency thereof, or any other organization, whether commercial or nonprofit, who is performing weather modification activities, except where acting solely as an employee, agent, or independent contractor of the Federal Government.
 
 &emsp;(3) The term "weather modification" means any activity performed with the intention of producing artificial changes in the composition, behavior, or dynamics of the atmosphere.
 

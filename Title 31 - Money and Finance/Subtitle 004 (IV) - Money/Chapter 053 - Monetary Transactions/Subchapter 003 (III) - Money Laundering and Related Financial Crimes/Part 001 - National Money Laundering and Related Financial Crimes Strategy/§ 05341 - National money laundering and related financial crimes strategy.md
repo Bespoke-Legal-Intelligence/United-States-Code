@@ -72,7 +72,7 @@ Data regarding trends in money laundering and related financial crimes.—The ne
 
 &emsp;(11)
 
-Improved communications systems.—A plan for enhancing the compatibility of automated information and facilitating access of the Federal Government and State and local governments to timely, accurate, and complete information.
+Improved communications systems.—A plan for enhancing the compatibility of automated information and facilitating access of the Federal Government and State and localgovernments to timely, accurate, and complete information.
 
 &emsp;(12)
 
@@ -80,7 +80,7 @@ Data regarding funding of terrorism.—Data concerning money laundering efforts 
 
 (c)
 
-Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to theCongress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
+Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
 
 (d)
 

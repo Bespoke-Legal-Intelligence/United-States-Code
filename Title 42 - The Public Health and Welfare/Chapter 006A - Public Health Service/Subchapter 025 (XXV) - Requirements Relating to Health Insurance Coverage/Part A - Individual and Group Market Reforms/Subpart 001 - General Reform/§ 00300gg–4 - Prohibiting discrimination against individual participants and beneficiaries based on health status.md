@@ -44,7 +44,7 @@ A group health plan and a health insurance issuer offering group or individual h
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall beconstrued to limit the ability of a health insurance issuer offering group or individual health insurance coverage to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
+&emsp;&emsp;Nothing in subparagraph (A) or in paragraphs (1) and (2) of subsection (d) shall be construed to limit the ability of a health insurance issuer offering group or individual health insurance coverage to increase the premium for an employer based on the manifestation of a disease or disorder of an individual who is enrolled in the plan. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other group members and to further increase the premium for the employer.
 
 #### (c) Genetic testing
 
@@ -252,7 +252,7 @@ Another prior section 2705 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline "Prohibiting discrimination against individual participants and beneficiaries based on health status", by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting "health insurance issuer offering group or individual health insurance coverage" for "health insurance issuer offering health insurance coverage in connection with a group health plan" in pars. (1) and (3)(B) and by inserting "or individual" after "employer" and "or individual health coverage, as the case may be" before semicolon in par. (2)(A), and by amending subsec. (e) by substituting "(a)(6)" for "(a)(1)(F)" and "300gg–3" for "300gg" and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+<b>2010</b>—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline "Prohibiting discrimination against individual participants and beneficiaries based on health status", by striking subsec. (a) which prohibited discriminationagainst individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting "health insurance issuer offering group or individual health insurance coverage" for "health insurance issuer offering health insurance coverage in connection with a group health plan" in pars. (1) and (3)(B) and by inserting "or individual" after "employer" and "or individual health coverage, as the case may be" before semicolon in par. (2)(A), and by amending subsec. (e) by substituting "(a)(6)" for "(a)(1)(F)" and "300gg–3" for "300gg" and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
 
 #### Effective Date
 

@@ -102,7 +102,7 @@ In updating and maintaining maps under this section, the Administrator shall—
 
 &emsp;&emsp;(F) engage with local communities to enhance communication and outreach to the residents of such communities, including tenants (with regard to contents insurance), on the matters described under subparagraph (E);
 
-&emsp;&emsp;(G) not less than 30 days before issuance of any preliminary map, notify the Senatorsfor each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
+&emsp;&emsp;(G) not less than 30 days before issuance of any preliminary map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
 
 &emsp;&emsp;&emsp;(i) the estimated schedule for—
 

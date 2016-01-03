@@ -120,7 +120,7 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 &emsp;(A) Notwithstanding the termination of production required by subsection (b) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211 (bromochlorodifluoromethane), halon-1301 (bromotrifluoromethane), and halon-2402 (dibromotetrafluoroethane) solely for purposes of aviation safety if the Administrator of the Federal Aviation Administration, in consultation with the Administrator, determines that no safe and effective substitute has been developed and that such authorization is necessary for aviation safety purposes.
 
-&emsp;(B) The Administrator of the Federal Aviation Administration shall, in consultationwith the Administrator, examine whether safe and effective substitutes for methyl chloroform or alternative techniques will be available for nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue and whether an exception for such uses of methyl chloroform under this paragraph will be necessary for purposes of airline safety after January 1, 2005 and provide a report to Congress in 1998.
+&emsp;(B) The Administrator of the Federal Aviation Administration shall, in consultation with the Administrator, examine whether safe and effective substitutes for methyl chloroform or alternative techniques will be available for nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue and whether an exception for such uses of methyl chloroform under this paragraph will be necessary for purposes of airline safety after January 1, 2005 and provide a report to Congress in 1998.
 
 #### (4) Cap on certain exceptions
 
@@ -142,7 +142,7 @@ The Administrator shall promulgate regulations within 10 months after November 1
 
 #### (2) Cap on exception
 
-&emsp;(A) Under no circumstances may the authority set forth in paragraph (1) be applied to authorize any person to produce a class I substance in any year for which a production percentage is specified in Table 2 of subsection (a) of this section in an annual quantity greater than the specified percentage, plus an amount equal to 10 percent of the amount produced by such person in the baseline year.
+&emsp;(A) Under no circumstances may the authority set forth in paragraph (1) be applied to authorize any person to produce a class I substance in any year for which a production percentage is specified in Table 2 of subsection (a) of this section in an annual quantity greaterthan the specified percentage, plus an amount equal to 10 percent of the amount produced by such person in the baseline year.
 
 &emsp;(B) Under no circumstances may the authority set forth in paragraph (1) be applied to authorize any person to produce a class I substance in the applicable termination year referred to in subsection (b) of this section, or in any year thereafter, in an annual quantity greater than 15 percent of the baseline quantity of such substance produced by such person.
 
@@ -168,7 +168,7 @@ The President may, to the extent such action is consistent with the Montreal Pro
 
 Notwithstanding subsections (b) and (d) of this section, the Administrator shall not terminate production of methyl bromide prior to January 1, 2005. The Administrator shall promulgate rules for reductions in, and terminate the production, importation, and consumption of, methyl bromide under a schedule that is in accordance with, but not more stringent than, the phaseout schedule of the Montreal Protocol Treaty as in effect on October 21, 1998.
 
-(July 14, 1955, ch. 360, title VI, §604, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2655; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §764\], Oct. 21, 1998, 112 Stat. 2681, 2681–36.)
+(July 14, 1955, ch. 360, title VI, §604, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104Stat. 2655; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §764\], Oct. 21, 1998, 112 Stat. 2681, 2681–36.)
 
 #### Amendments
 

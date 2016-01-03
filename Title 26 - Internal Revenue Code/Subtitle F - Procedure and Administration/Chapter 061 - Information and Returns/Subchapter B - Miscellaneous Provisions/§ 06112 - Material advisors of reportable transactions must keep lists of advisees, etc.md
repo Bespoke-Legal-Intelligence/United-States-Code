@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each material advisor (as defined in section 6111) with respect to any reportable transaction (as defined in section 6707A(c)) shall (whether ornot required to file a return under section 6111 with respect to such transaction) maintain (in such manner as the Secretary may by regulations prescribe) a list—
+Each material advisor (as defined in section 6111) with respect to any reportable transaction (as defined in section 6707A(c)) shall (whether or not required to file a return under section 6111 with respect to such transaction) maintain (in such manner as the Secretary may by regulations prescribe) a list—
 
 &emsp;(1) identifying each person with respect to whom such advisor acted as a material advisor with respect to such transaction, and
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 108–357, §815(b)(3)(A), redesignated subsec. (c) as (b).
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 

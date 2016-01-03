@@ -26,7 +26,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (1) Common carrier treatment of commercial mobile services
 
-&emsp;(A) A person engaged in the provision of a service that is a commercial mobile serviceshall, insofar as such person is so engaged, be treated as a common carrier for purposes of this chapter, except for such provisions of subchapter II of this chapter as the Commission may specify by regulation as inapplicable to that service or person. In prescribing or amending any such regulation, the Commission may not specify any provision of section 201, 202, or 208 of this title, and may specify any other provision only if the Commission determines that—
+&emsp;(A) A person engaged in the provision of a service that is a commercial mobile service shall, insofar as such person is so engaged, be treated as a common carrier for purposes of this chapter, except for such provisions of subchapter II of this chapter as the Commission may specify by regulation as inapplicable to that service or person. In prescribing or amending any such regulation, the Commission may not specify any provision of section 201, 202, or 208 of this title, and may specify any other provision only if the Commission determines that—
 
 &emsp;&emsp;(i) enforcement of such provision is not necessary in order to ensure that the charges, practices, classifications, or regulations for or in connection with that service are just and reasonable and are not unjustly or unreasonably discriminatory;
 
@@ -42,7 +42,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (2) Non-common carrier treatment of private mobile services
 
-&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10, 1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
+&emsp;A person engaged in the provision of a service that is a private mobile service shall not, insofar as such person is so engaged, be treated as a common carrier for any purpose under this chapter. A common carrier (other than a person that was treated as a provider of a private land mobile service prior to August 10,1993) shall not provide any dispatch service on any frequency allocated for common carrier service, except to the extent such dispatch service is provided on stations licensed in the domestic public land mobile radio service before January 1, 1982. The Commission may by regulation terminate, in whole or in part, the prohibition contained in the preceding sentence if the Commission determines that such termination will serve the public interest.
 
 #### (3) State preemption
 
@@ -106,7 +106,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (8) Mobile services access
 
-&emsp;A person engaged in the provision of commercial mobile services, insofar as such personis so engaged, shall not be required to provide equal access to common carriers for the provision of telephone toll services. If the Commission determines that subscribers to such services are denied access to the provider of telephone toll services of the subscribers' choice, and that such denial is contrary to the public interest, convenience, and necessity, then the Commission shall prescribe regulations to afford subscribers unblocked access to the provider of telephone toll services of the subscribers' choice through the use of a carrier identification code assigned to such provider or other mechanism. The requirements for unblocking shall not apply to mobile satellite services unless the Commission finds it to be in the public interest to apply such requirements to such services.
+&emsp;A person engaged in the provision of commercial mobile services, insofar as such person is so engaged, shall not be required to provide equal access to common carriers for the provision of telephone toll services. If the Commission determines that subscribers to such services are denied access to the provider of telephone toll services of the subscribers' choice, and that such denial is contrary to the public interest, convenience, and necessity, then the Commission shall prescribe regulations to afford subscribers unblocked access to the provider of telephone toll services of the subscribers' choice through the use of a carrier identification code assigned to such provider or other mechanism. The requirements for unblocking shall not apply to mobile satellite services unless the Commission finds it to be in the public interest to apply such requirements to such services.
 
 #### (d) Definitions
 

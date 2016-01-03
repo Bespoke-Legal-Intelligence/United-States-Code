@@ -64,7 +64,7 @@
 
 (2) Such regulations shall include provisions for—
 
-&emsp;(A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); and
+&emsp;(A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); <sup>1</sup> and
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
@@ -76,7 +76,7 @@
 
 The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -114,7 +114,7 @@ Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 
@@ -131,4 +131,6 @@ Section 1. The Office of Personnel Management, in consultation with the Attorney
 Sec. 2. The Postmaster General is designated to promulgate regulations for the implementation of section 5520a of title 5, United States Code, with respect to employees of the United States Postal Service.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

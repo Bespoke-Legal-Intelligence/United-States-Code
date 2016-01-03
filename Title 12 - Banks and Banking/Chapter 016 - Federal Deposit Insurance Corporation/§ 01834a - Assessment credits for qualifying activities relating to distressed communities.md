@@ -238,7 +238,7 @@ No community development financial institution may receive a community enterpris
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for anyfiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available, determine which institutions shall receive an award.
+&emsp;&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subparagraphs (A) and (B) of subsection (a)(2) for any semiannual period for which such appropriation is available,determine which institutions shall receive an award.
 
 #### (B) Priority for support of efforts of CDFI
 
@@ -316,11 +316,11 @@ For purposes of this section—
 
 #### References in Text
 
-The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557,set out as a Short Title note under section 8101 of Title 42 and Tables.
+The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557, set out as a Short Title note under section 8101 of Title 42 and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L.101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the "HOME Investment Partnerships Act", is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§12871 et seq.) and B (§12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (a)(4)(F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. Title III of the Act is classified generally to subchapter II–A (§1437aaa et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
@@ -386,7 +386,7 @@ Income.—At least 70 percent of the families and unrelated individuals residing
 
 "(B)
 
-Poverty.—At least 20 percent of the residents residing in the area have incomes which are less thanthe national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
+Poverty.—At least 20 percent of the residents residing in the area have incomes which are less than the national poverty level (as determined pursuant to criteria established by the Director of the Office of Management and Budget).
 
 "(C)
 
@@ -396,7 +396,7 @@ Subsec. (e)(2). Pub. L. 102–558, §303(b)(9)(C), substituted "of the semiannua
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
+Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of Title 50, War and National Defense.
 
 Pub. L. 102–558, title III, §303(b)(9), Oct. 28, 1992, 106 Stat. 4226, provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 

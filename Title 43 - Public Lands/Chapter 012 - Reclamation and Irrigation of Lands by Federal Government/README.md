@@ -401,6 +401,7 @@
 | [508\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000508%20-%20Costs%20incurred%20in%20the%20modification%20of%20structures.md) | Costs incurred in the modification of structures. |
 | [509\.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509%20-%20Authorization%20of%20appropriations%3B%20report%20to%20Congress.md) | Authorization of appropriations; report to Congress. |
 | [509a.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509a%20-%20Project%20beneficiaries.md) | Project beneficiaries. |
+| [509b.](Subchapter%20011%E2%80%93A%20%28XI%E2%80%93A%29%20-%20Reclamation%20Safety%20of%20Dams/%C2%A7%2000509b%20-%20Additional%20project%20benefits%20through%20the%20construction%20of%20new%20or%20supplementary%20works.md) | Additional project benefits through the construction of new or supplementary works. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

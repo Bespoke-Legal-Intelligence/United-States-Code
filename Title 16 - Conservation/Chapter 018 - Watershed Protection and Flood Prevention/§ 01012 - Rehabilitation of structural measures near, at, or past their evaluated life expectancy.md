@@ -20,7 +20,7 @@ For purposes of this section:
 
 Flood Prevention" of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
-&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451et seq.; commonly known as the Resource Conservation and Development Program).
+&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
 #### (3) Structural measure
 
@@ -56,7 +56,7 @@ The Secretary, acting through the Natural Resources Conservation Service, may pr
 
 #### (2) Renegotiation
 
-&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
+&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b), the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
 
 #### (e) Application for rehabilitation assistance
 
@@ -130,7 +130,7 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 
 Flood Prevention" are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat.1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

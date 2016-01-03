@@ -1,6 +1,6 @@
 # Printed pages - Title 13 - Census
 
-GPO's 2014 edition (laws in effect as of 2015-01-05), from its printed page marks. The exact position of
+GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title13.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -9,8 +9,8 @@ from edition to edition; the section files hold the text only.
 | [Title 13 - Census](README.md) | 1–2 |
 | [Chapter 001 - Administration](Chapter%20001%20-%20Administration/README.md) | 2 |
 | [Subchapter 001 (I) - General Provisions](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | 2 |
-| [&sect; 00001 - Definitions](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000001%20-%20Definitions.md) | 2 |
-| [&sect; 00002 - Bureau of the Census](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000002%20-%20Bureau%20of%20the%20Census.md) | 2–3 |
+| [&sect; 00001 - Definitions](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000001%20-%20Definitions.md) | 2–3 |
+| [&sect; 00002 - Bureau of the Census](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000002%20-%20Bureau%20of%20the%20Census.md) | 3 |
 | [&sect; 00003 - Seal](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000003%20-%20Seal.md) | 3 |
 | [&sect; 00004 - Functions of Secretary; regulations; delegation](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000004%20-%20Functions%20of%20Secretary%3B%20regulations%3B%20delegation.md) | 3–4 |
 | [&sect; 00005 - Questionnaires; number, form, and scope of inquiries](Chapter%20001%20-%20Administration/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000005%20-%20Questionnaires%3B%20number%2C%20form%2C%20and%20scope%20of%20inquiries.md) | 4 |

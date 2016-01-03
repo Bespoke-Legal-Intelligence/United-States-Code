@@ -98,9 +98,11 @@ Buying Buses Under Other Laws.—Subsections (d) and (f) of this section apply t
 
 Grant and Loan Prohibitions.—A grant or loan may not be used to—
 
-&emsp;(1) pay ordinary governmental or nonproject operating expenses; or
+&emsp;(1) pay ordinary governmental or nonproject operating expenses;
 
-&emsp;(2) support a procurement that uses an exclusionary or discriminatory specification.
+&emsp;(2) pay incremental costs of incorporating art or non-functional landscaping into facilities, including the costs of an artist on the design team; or
+
+&emsp;(3) support a procurement that uses an exclusionary or discriminatory specification.
 
 (i)
 
@@ -162,9 +164,15 @@ Waiver.—The Secretary may waive paragraph (1) of this subsection if the Secret
 
 &emsp;&emsp;(B) the steel, iron, and goods produced in the United States are not produced in a sufficient and reasonably available amount or are not of a satisfactory quality;
 
-&emsp;&emsp;(C) when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+&emsp;&emsp;(C) when procuring rolling stock (including train control, communication, traction power equipment, and rolling stock prototypes) under this chapter—
 
-&emsp;&emsp;&emsp;(i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+&emsp;&emsp;&emsp;(i) the cost of components and subcomponents produced in the United States—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal years 2016 and 2017, is more than 60 percent of the cost of all components of the rolling stock;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal years 2018 and 2019, is more than 65 percent of the cost of all components of the rolling stock; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2020 and each fiscal year thereafter, is more than 70 percent of the cost of all components of the rolling stock; and
 
 &emsp;&emsp;&emsp;(ii) final assembly of the rolling stock has occurred in the United States; or
 
@@ -184,7 +192,7 @@ Written determination.—Before issuing a waiver under paragraph (2), the Secret
 
 &emsp;&emsp;(B)
 
-Annual report.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listingany waiver issued under paragraph (2) during the preceding year.
+Annual report.—Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listing any waiver issued under paragraph (2) during the preceding year.
 
 &emsp;(4)
 
@@ -192,31 +200,61 @@ Labor costs for final assembly.—In this subsection, labor costs involved in fi
 
 &emsp;(5)
 
+Rolling stock frames or car shells.—In carrying out paragraph (2)(C) in the case of a rolling stock procurement receiving assistance under this chapter in which the average cost of a rolling stock vehicle in the procurement is more than $300,000, if rolling stock frames or car shells are not produced in the United States, the Secretary shall include in the calculation of the domestic content of the rolling stock the cost of steel or iron that is produced in the United States and used in the rolling stock frames or car shells.
+
+&emsp;(6)
+
+Certification of domestic supply and disclosure.—
+
+&emsp;&emsp;(A)
+
+Certification of domestic supply.—If the Secretary denies an application for a waiver under paragraph (2), the Secretary shall provide to the applicant a written certification that—
+
+&emsp;&emsp;&emsp;(i) the steel, iron, or manufactured goods, as applicable, (referred to in this subparagraph as the "item") is produced in the United States in a sufficient and reasonably available amount;
+
+&emsp;&emsp;&emsp;(ii) the item produced in the United States is of a satisfactory quality; and
+
+&emsp;&emsp;&emsp;(iii) includes a list of known manufacturers in the United States from which the item can be obtained.
+
+&emsp;&emsp;(B)
+
+Disclosure.—The Secretary shall disclose the waiver denial and the written certification to the public in an easily identifiable location on the website of the Department of Transportation.
+
+&emsp;(7)
+
 Waiver prohibited.—The Secretary may not make a waiver under paragraph (2) of this subsection for goods produced in a foreign country if the Secretary, in consultation with the United States Trade Representative, decides that the government of that foreign country—
 
 &emsp;&emsp;(A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
 
 &emsp;&emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
 
-&emsp;(6)
+&emsp;(8)
 
-Penalty for mislabeling and misrepresentation.—A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2012 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
+Penalty for mislabeling and misrepresentation.—A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2015 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
 
 &emsp;&emsp;(A) affixed a "Made in America" label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
 
 &emsp;&emsp;(B) represented that goods described in subparagraph (A) of this paragraph were produced in the United States.
 
-&emsp;(7)
+&emsp;(9)
 
 State requirements.—The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
 
-&emsp;(8)
+&emsp;(10)
 
 Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
-&emsp;(9)
+&emsp;(11)
 
 Administrative review.—A party adversely affected by an agency action under this subsection shall have the right to seek review under section 702 of title 5.
+
+&emsp;(12)
+
+Steel and iron.—For purposes of this subsection, steel and iron meeting the requirements of section 661.5(b) of title 49, Code of Federal Regulations may be considered produced in the United States.
+
+&emsp;(13)
+
+Definition of small purchase.—For purposes of determining whether a purchase qualifies for a general public interest waiver under paragraph (2)(A) of this subsection, including under any regulation promulgated under that paragraph, the term "small purchase" means a purchase of not more than $150,000.
 
 (k)
 
@@ -240,7 +278,7 @@ Political activities of nonsupervisory employees.—The provision of assistance 
 
 (m)
 
-Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
+Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary shallprescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
 
 (n)
 
@@ -268,7 +306,7 @@ Corridor Preservation.—
 
 &emsp;(1)
 
-In general.—The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law. The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.
+In general.—The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law.
 
 &emsp;(2)
 
@@ -278,7 +316,19 @@ Environmental reviews.—Right-of-way acquired under this subsection may not be 
 
 Reasonable Access to Public Transportation Facilities.—A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697.)
+(s)
+
+Value Capture Revenue Eligible for Local Share.—Notwithstanding any other provision of law, a recipient of assistance under this chapter may use the revenue generated from value capture financing mechanisms as local matching funds for capital projects and operating costs eligible under this chapter.
+
+(t)
+
+Special Condition on Charter Bus Transportation Service.—If, in a fiscal year, the Secretary is prohibited by law from enforcing regulations related to charter bus service under part 604 of title 49, Code of Federal Regulations, for any transit agency that during fiscal year 2008 was both initially granted a 60-day period to come into compliance with such part 604, and then was subsequently granted an exception from such part—
+
+&emsp;(1) the transit agency shall be precluded from receiving its allocation of urbanized area formula grant funds for such fiscal year; and
+
+&emsp;(2) any amounts withheld pursuant to paragraph (1) shall be added to the amount that the Secretary may apportion under section 5336 in the following fiscal year.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474.)
 
 Historical and Revision Notes
 
@@ -472,15 +522,31 @@ The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360,
 
 The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
-The Federal Public Transportation Act of 2012, referred to in subsec. (j)(6), is div. B of Pub. L. 112–141, July 6, 2012, 126 Stat. 622. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 5101 of this title and Tables.
+The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h)(2), (3). Pub. L. 114–94, §3011(1), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (j)(2)(C). Pub. L. 114–94, §3011(2)(A), added subpar. (C) and struck out former subpar. (C), which read as follows: "when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+
+&emsp;"(i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+
+&emsp;"(ii) final assembly of the rolling stock has occurred in the United States; or".
+
+Subsec. (j)(5) to (11). Pub. L. 114–94, §3011(2)(B)–(D), added pars. (5) and (6), redesignated former pars. (5) to (9) as pars. (7) to (11), respectively, and in par. (8), substituted "Federal Public Transportation Act of 2015" for "Federal Public Transportation Act of 2012".
+
+Subsec. (j)(12), (13). Pub. L. 114–94, §3011(2)(E), added pars. (12) and (13).
+
+Subsec. (q)(1). Pub. L. 114–94, §3011(3), struck out at end "The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate."
+
+Subsecs. (s), (t). Pub. L. 114–94, §3011(4), added subsecs. (s) and (t).
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to general provisions on assistance.
 
 <b>2008</b>—Subsec. (n). Pub. L. 110–244 substituted "section 5336(d)(2)" for "section 5336(e)(2)".
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential toa program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
 
 Subsec. (a)(2). Pub. L. 109–59, §3023(a)(2), inserted heading.
 
@@ -540,6 +606,10 @@ Subsec. (o). Pub. L. 105–178, §3020(f), added subsec. (o).
 
 Subsec. (l). Pub. L. 103–429, §6(10)(B), added subsec. (l).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -558,5 +628,5 @@ Pub. L. 109–59, title III, §3023(i)(5), Aug. 10, 2005, 119 Stat. 1618, requir
 
 #### Final Assembly of Buses
 
-Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, required certain buses manufactured after Sept. 1,1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, required certain buses manufactured after Sept. 1, 1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
 

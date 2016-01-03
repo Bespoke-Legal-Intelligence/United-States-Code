@@ -16,12 +16,7 @@
 | [<b>15.</b>](Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
-| [<b>19.</b>](Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber matters </b><b><sup>1</sup></b> | <b>391</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>19.</b>](Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber Matters</b> | <b>391</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
@@ -31,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
 
@@ -69,8 +66,6 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 <b>1981</b>—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Matters".</i>
 
 
 ---

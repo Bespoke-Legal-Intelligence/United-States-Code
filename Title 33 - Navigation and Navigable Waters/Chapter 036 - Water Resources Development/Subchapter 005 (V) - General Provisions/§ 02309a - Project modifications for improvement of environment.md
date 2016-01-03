@@ -6,7 +6,7 @@ The Secretary is authorized to review water resources projects constructed by th
 
 #### (b) Authority to make modifications
 
-The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasibleand consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
+The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
 
 #### (c) Restoration of environmental quality
 
@@ -84,7 +84,7 @@ Subsec. (e). Pub. L. 102–580, §202(2), substituted "$25,000,000" for "$15,000
 
 Subsec. (b). Pub. L. 101–640, §304(b), substituted "program" for "demonstration program in the 5-year period beginning on the date of enactment of this Act" and struck out "before the date of enactment of this Act" after "constructed by the Secretary".
 
-Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conductedunder subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program."
+Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program."
 
 Subsec. (e). Pub. L. 101–640, §304(d), substituted "$15,000,000 annually to carry out this section" for "$25,000,000 to carry out this section".
 

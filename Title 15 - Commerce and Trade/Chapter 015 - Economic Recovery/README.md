@@ -23,6 +23,10 @@
 | 713c–1. | Annual report to Congress by Federal Surplus Commodities Corporation. |
 | 713c–2. | Purchase and distribution of surplus fishery products. |
 | 713c–3. | Promotion of the free flow of domestically produced fishery products. |
+| [713d.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2000713d%20-%20Declaration%20of%20purpose.md) | Declaration of purpose. |
+| 713d–1. | Critical shortages; recommendations by President; public hearings. |
+| 713d–2. | Food and conservation program; appropriations; administrative expenses. |
+| 713d–3. | Authorizations for appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

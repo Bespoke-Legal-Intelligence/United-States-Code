@@ -10,7 +10,7 @@ Admission Authorized.—(1) The Secretary of the Air Force may permit defense in
 
 (b)
 
-Eligible Defense Industry Employees.—For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long at that person remains employed by the same firm.
+Eligible Defense Industry Employees.—For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm.
 
 (c)
 
@@ -18,7 +18,7 @@ Annual Determination by the Secretary of the Air Force.—Defense industry emplo
 
 &emsp;(1) will further the military mission of the United States Air Force Institute of Technology; and
 
-&emsp;(2) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
+&emsp;(2) will not require an increase in the permanently authorized size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
 
 (d)
 
@@ -38,9 +38,13 @@ Tuition.—(1) The United States Air Force Institute of Technology shall charge 
 
 Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, defense industry employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769.)
+(Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, §558, title X, §1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–92, §1081(a)(13), substituted "only so long as" for "only so long at".
+
+Subsec. (c)(2). Pub. L. 114–92, §558, substituted "will not require an increase in the permanently authorized size of the faculty" for "will be done on a space-available basis and not require an increase in the size of the faculty".
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §589(b)(1), inserted "or professional continuing education certificate" after "graduate degree".
 

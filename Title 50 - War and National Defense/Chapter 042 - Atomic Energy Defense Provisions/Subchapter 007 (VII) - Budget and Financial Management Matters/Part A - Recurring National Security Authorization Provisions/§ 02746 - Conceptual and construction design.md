@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Subject to paragraph (2) and except as provided in paragraph (3), before submitting to Congress a request for funds for a construction project that is in support of a national security program of the Department of Energy, the Secretary of Energy shall complete a conceptual design for that project.
+&emsp;Subject to paragraph (2) and except as provided in paragraph (3), before submitting toCongress a request for funds for a construction project that is in support of a national security program of the Department of Energy, the Secretary of Energy shall complete a conceptual design for that project.
 
 #### (2) Requests for conceptual design funds
 

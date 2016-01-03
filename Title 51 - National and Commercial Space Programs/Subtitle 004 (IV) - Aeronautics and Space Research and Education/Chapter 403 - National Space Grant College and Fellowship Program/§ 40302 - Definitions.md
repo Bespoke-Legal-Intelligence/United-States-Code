@@ -54,7 +54,7 @@ Space resource.—The term "space resource" means any tangible or intangible ben
 
 &emsp;(10)
 
-State.—The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+State.—The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3383.)
 

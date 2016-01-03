@@ -12,7 +12,7 @@ Any employee of the Milwaukee Railroad—
 
 #### (b) Period of payment
 
-Each employee described in subsection (a) of this section shall be entitled to receive supplementary unemployment insurance during each month in which such employee is not employed,for all or a portion of such month, by the Milwaukee Railroad or another rail carrier. Each such employee shall be entitled to receive such insurance for a total of not more than 36 months, except that—
+Each employee described in subsection (a) of this section shall be entitled to receive supplementary unemployment insurance during each month in which such employee is not employed, for all or a portion of such month, by the Milwaukee Railroad or another rail carrier. Each such employee shall be entitled to receive such insurance for a total of not more than 36 months, except that—
 
 &emsp;(1) the period of entitlement for assistance under this section shall not exceed the employee's total months of service with the Milwaukee Railroad; and
 
@@ -44,7 +44,7 @@ Any supplementary unemployment insurance received by any employee pursuant to th
 
 (2) An employee shall not be entitled to receive supplementary unemployment insurance under this section if he has failed to exhaust all seniority rights or other employment rights under applicable collective bargaining agreements.
 
-(3) An employee shall not be entitled to receive supplementary unemployment insurance under this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
+(3) An employee shall not be entitled to receive supplementary unemployment insuranceunder this section for any month or portion of a month in which such employee is unemployed due to normal seasonal unemployment patterns in the railroad industry.
 
 #### (g) Furloughed employees
 

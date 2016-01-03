@@ -10,7 +10,7 @@ Political Activities.—The corporation or an officer or agent as such may not c
 
 (c)
 
-Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, an officer or member during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of compensation to an officer or reimbursement for actual necessary expenses in amounts approved by the council of administration of the corporation.
+Distribution of Income or Assets.—The income or assets of the corporation may not inure to the benefit of, or be distributed to, an officer or member during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of compensation to an officer or reimbursement for actual necessary expenses in amounts approvedby the council of administration of the corporation.
 
 (d)
 

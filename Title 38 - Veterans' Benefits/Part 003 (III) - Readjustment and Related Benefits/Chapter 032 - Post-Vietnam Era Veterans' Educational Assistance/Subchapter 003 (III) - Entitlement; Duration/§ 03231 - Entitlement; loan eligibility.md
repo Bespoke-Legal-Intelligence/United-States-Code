@@ -34,7 +34,7 @@
 
 > had not been made or paid.
 
-(b) Any enlisted member of the Armed Forces participating in the program shall be eligible toenroll in a course, courses, or program of education for the purpose of attaining a secondary school diploma (or an equivalency certificate), as authorized by section 3491(a) of this title, during the last six months of such member's first enlistment and at any time thereafter.
+(b) Any enlisted member of the Armed Forces participating in the program shall be eligible to enroll in a course, courses, or program of education for the purpose of attaining a secondary school diploma (or an equivalency certificate), as authorized by section 3491(a) of this title, during the last six months of such member's first enlistment and at any time thereafter.
 
 (c) When an eligible veteran is pursuing a program of education under this chapter by correspondence, such eligible veteran's entitlement shall be charged at the rate of 1 month's entitlement for each month of benefits paid to the eligible veteran (computed on the basis of the formula provided in subsection (a)(2) of this section).
 

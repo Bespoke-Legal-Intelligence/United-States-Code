@@ -104,11 +104,11 @@ In order to be eligible to receive a grant under subsection (a) of this section,
 
 &emsp;(3) an assurance that the assistance to be provided is closely related to the identified needs of the target population;
 
-&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existing assistance or provide assistance not available in the immediate area;
+&emsp;(4) a description of the existing assistance available to the target population, including Federal, State, and local programs, and a description of the manner in which the organization will coordinate with and expand existingassistance or provide assistance not available in the immediate area;
 
 &emsp;(5) an agreement by the organization that the organization will collect data on the projects conducted by the organization, including assistance provided, number and characteristics of persons served, and causes of homelessness for persons served;
 
-&emsp;(6) a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved bythe organization through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section;
+&emsp;(6) a description of how individuals and families who are homeless or who have the lowest incomes in the community will be involved by the organization through employment, volunteer services, and otherwise, in providing, operating, and rehabilitating housing assisted under this section and in providing services assisted under this section and services for occupants of housing assisted under this section;
 
 &emsp;(7) a description of consultations that took place within the community to ascertain the most important uses for funding under this section, including the involvement of potential beneficiaries of the project; and
 

@@ -6,7 +6,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term "person" means any (A) individual, corporation, company, partnership, association, firm, institution, society, trust, joint venture, or joint stock company, (B) any State, the District of Columbia, Puerto Rico, and any territory or possession of the UnitedStates, or (C) any agency or instrumentality (including any municipality) thereof.
+&emsp;(2) The term "person" means any (A) individual, corporation, company, partnership, association, firm, institution, society, trust, joint venture, or joint stock company, (B) any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States, or (C) any agency or instrumentality (including any municipality) thereof.
 
 &emsp;(3)(A) Except as provided in subparagraph (B), the term "natural gas" means any fuel consisting in whole or in part of—
 
@@ -52,7 +52,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has the design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more electric generating units which are locatedat the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) For purposes of subparagraph (A), the term "electric generating unit" does not include—
 
@@ -146,7 +146,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
 
-&emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or theNational Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+&emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
 &emsp;(18)(A) The term "peakload powerplant" means a powerplant the electrical generation of which in kilowatt hours does not exceed, for any 12-calendar-month period, such powerplant's design capacity multiplied by 1,500 hours.
 

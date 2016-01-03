@@ -20,7 +20,7 @@ For the purpose of this title, "Congressional employee" means—
 
 &emsp;(9) an employee of the Office of Congressional Accessibility Services.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV,§422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, §7(a), Mar. 4, 2010, 124 Stat. 55.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 110–437, title IV, §422(c), Oct. 20, 2008, 122 Stat. 4997; Pub. L. 111–145, §7(a), Mar. 4, 2010, 124 Stat. 55.)
 
 #### Historical and Revision Notes
 

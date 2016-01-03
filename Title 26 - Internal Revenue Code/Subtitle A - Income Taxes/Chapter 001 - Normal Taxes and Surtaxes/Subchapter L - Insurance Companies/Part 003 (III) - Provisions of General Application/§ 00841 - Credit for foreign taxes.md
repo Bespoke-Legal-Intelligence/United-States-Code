@@ -18,7 +18,7 @@ The taxes imposed by foreign countries or possessions of the United States shall
 
 <b>1962</b>—Pub. L. 87–834 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1959</b>—Pub. L. 86–69 struck out reference to section 811 of this title in first sentence, and substituted "section 802, the life insurance company taxable income (as defined in section 802(b)), and" for "section 802 or 811, thenet investment income (as defined in section 803(c))" in par. (1).
+<b>1959</b>—Pub. L. 86–69 struck out reference to section 811 of this title in first sentence, and substituted "section 802, the life insurance company taxable income (as defined in section 802(b)), and" for "section 802 or 811, the net investment income (as defined in section 803(c))" in par. (1).
 
 <b>1956</b>—Act Mar. 13, 1956, inserted references to section 811.
 

@@ -24,7 +24,7 @@ The Attorney General shall ensure that procedures are in place to notify each se
 
 &emsp;&emsp;(A) means an Internet website—
 
-&emsp;&emsp;&emsp;(i) that allows users, through the creation of web pages or profiles or by other means, to provide information about themselves that is available to the public or to other users; and
+&emsp;&emsp;&emsp;(i) that allows users, through the creation of web pages or profiles or by othermeans, to provide information about themselves that is available to the public or to other users; and
 
 &emsp;&emsp;&emsp;(ii) that offers a mechanism for communication with other users where such users are likely to include a substantial number of minors; and
 

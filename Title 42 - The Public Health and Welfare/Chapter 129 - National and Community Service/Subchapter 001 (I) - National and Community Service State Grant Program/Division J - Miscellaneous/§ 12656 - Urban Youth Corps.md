@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (d) Establishment of Urban Youth Corps
 
@@ -120,11 +120,11 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (1) Projects by qualified urban youth corps
 
-&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
+&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of anyappropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
 
 #### (2) Donations
 
-&emsp;The Secretaries are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes ofoperating the Urban Youth Corps and carrying out appropriate service projects by the Corps. However, nothing in this section shall be construed to require any cost sharing for any project carried out directly by the Corps.
+&emsp;The Secretaries are each authorized to accept donations of funds, services, facilities, materials, or equipment for the purposes of operating the Urban Youth Corps and carrying out appropriate service projects by the Corps. However, nothing in this section shall be construed to require any cost sharing for any project carried out directly by the Corps.
 
 #### (3) Funds available under National and Community Service Act
 

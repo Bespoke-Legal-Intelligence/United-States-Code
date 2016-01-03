@@ -144,7 +144,7 @@ Subject to subsection (g) of this section, of the amount appropriated to carry o
 
 #### (g) Hold harmless rule
 
-Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year thatis less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
+Notwithstanding paragraphs (2) and (3) of subsection (f) of this section, no institution or qualified program identified in subsection (e)(1) of this section that received a grant for fiscal year 2008 and that is eligible to receive a grant in a subsequent fiscal year shall receive a grant amount in any such subsequent fiscal year that is less than the grant amount received for fiscal year 2008, unless the amount appropriated is not sufficient to provide such grant amounts to all such institutions and programs, or the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
 #### (h) Interaction with other grant programs
 
@@ -226,7 +226,7 @@ Subsec. (f)(2), (3). Pub. L. 105–244, §304(b)(4)(C), added pars. (2) and (3) 
 
 Subsec. (g). Pub. L. 105–244, §304(b)(5), added subsec. (g).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–141 struck out at end "No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution."
+<b>1996</b>—Subsec. (b). Pub. L. 104–141 struck out at end "No more than two 5-year grants (for a period of notmore than 10 years) may be made to any one undergraduate or postgraduate institution."
 
 <b>1993</b>—Subsec. (e)(2). Pub. L. 103–208 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and".
 

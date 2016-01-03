@@ -28,7 +28,7 @@
 
 &emsp;(IV) Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-&emsp;(V) Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479) \[50 U.S.C. App. 1622\].
+&emsp;(V) Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479).
 
 &emsp;(VI) Chapters 21, 25, 27, 29, and 31 of title 44.
 
@@ -192,6 +192,8 @@ This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
+Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479), referred to in subsec. (a)(3)(C)(ii)(V), is act Oct. 3, 1944, ch. 479, §13, 58 Stat. 770, which is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works.
+
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans' Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
@@ -234,7 +236,7 @@ Subsec. (o). Pub. L. 106–260, §8, added subsec. (o).
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: "Contracts with tribal organizations pursuantto section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts."
+<b>1994</b>—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: "Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: <i>Provided</i>, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: <i>Provided further</i>, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts."
 
 Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: "Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe."
 

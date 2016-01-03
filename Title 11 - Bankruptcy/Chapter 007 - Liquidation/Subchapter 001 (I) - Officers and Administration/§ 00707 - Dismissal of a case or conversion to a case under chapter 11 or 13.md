@@ -18,7 +18,7 @@
 
 (ii)(I) The debtor's monthly expenses shall be the debtor's applicable monthly expense amounts specified under the National Standards and Local Standards, and the debtor's actual monthly expenses for the categories specified as Other Necessary Expenses issued by the Internal Revenue Service for the area in which the debtor resides, as in effect on the date of the order for relief, for the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case, if the spouse is not otherwise a dependent. Such expenses shall include reasonably necessary health insurance, disability insurance, and health savings account expenses for the debtor, the spouse of the debtor, or the dependents of the debtor. Notwithstanding any other provision of this clause, the monthly expenses of the debtor shall not include any payments for debts. In addition, the debtor's monthly expenses shall include the debtor's reasonably necessary expenses incurred to maintain the safety of the debtor and the family of the debtor from family violence as identified under section 302 of the Family Violence Prevention and Services Act, or other applicable Federal law. The expenses included in the debtor's monthly expenses described in the preceding sentence shall be kept confidential by the court. In addition, if it is demonstrated that it is reasonable and necessary, the debtor's monthly expenses may also include an additional allowance for food and clothing of up to 5 percent of the food and clothing categories as specified by the National Standards issued by the Internal Revenue Service.
 
-(II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if the designated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
+(II) In addition, the debtor's monthly expenses may include, if applicable, the continuation of actual expenses paid by the debtor that are reasonable and necessary for care and support of an elderly, chronically ill, or disabled household member or member of the debtor's immediate family (including parents, grandparents, siblings, children, and grandchildren of the debtor, the dependents of the debtor, and the spouse of the debtor in a joint case who is not a dependent) and who is unable to pay for such reasonable and necessary expenses. Such monthly expenses may include, if applicable, contributions to an account of a qualified ABLE program to the extent such contributions are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986) and if thedesignated beneficiary of such account is a child, stepchild, grandchild, or stepgrandchild of the debtor.
 
 (III) In addition, for a debtor eligible for chapter 13, the debtor's monthly expenses may include the actual administrative expenses of administering a chapter 13 plan for the district in which the debtor resides, up to an amount of 10 percent of the projected plan payments, as determined under schedules issued by the Executive Office for United States Trustees.
 
@@ -76,7 +76,7 @@
 
 &emsp;(B) the totality of the circumstances (including whether the debtor seeks to reject a personal services contract and the financial need for such rejection as sought by the debtor) of the debtor's financial situation demonstrates abuse.
 
-(4)(A) The court, on its own initiative or on the motion of a party in interest, in accordance with the procedures described in rule 9011 of the Federal Rules of Bankruptcy Procedure, may order the attorney for the debtor to reimburse the trustee for all reasonable costs in prosecuting a motion filed under section 707(b), including reasonable attorneys' fees, if—
+(4)(A) The court, on its own initiative or on the motion of a party in interest, in accordance with the procedures described in rule 9011 of the Federal Rules of Bankruptcy Procedure, mayorder the attorney for the debtor to reimburse the trustee for all reasonable costs in prosecuting a motion filed under section 707(b), including reasonable attorneys' fees, if—
 
 &emsp;(i) a trustee files a motion for dismissal or conversion under this subsection; and
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 113–295 applicable with respect to cases commenced under 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766, provided that:
+Pub. L. 110–438, §4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, §2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, §2, Dec. 18, 2015, 129 Stat. 2223, provided that:
 
 "(a)
 
@@ -234,11 +234,11 @@ Effective Date.—Except as provided in subsection (b), this Act \[amending this
 
 "(b)
 
-Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 7-year period beginning on the effective date of this Act."
+Application of Amendments.—The amendments made by this Act \[amending this section\] shall apply only with respect to cases commenced under title 11 of the United States Code in the 11-year period beginning on the effective date of this Act."
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -260,7 +260,9 @@ Pub. L. 109–8, title I, §107, Apr. 20, 2005, 119 Stat. 42, provided that: "Fo
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(2)(A)(i)(I), dollar amount "7,025" was adjusted to "7,475"; in subsec. (b)(2)(A)(i)(II), dollar amount "11,725" was adjusted to "12,475"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,775" was adjusted to "1,875"; in subsec. (b)(2)(B)(iv)(I), dollar amount "7,025" was adjusted to "7,475"; in subsec. (b)(2)(B)(iv)(II), dollar amount "11,725" was adjusted to "12,475"; in subsec. (b)(5)(B), dollar amount "1,175" was adjusted to "1,250"; in subsec. (b)(6)(C), dollar amount "625" was adjusted to "675"; and, in subsec. (b)(7)(A)(iii), dollar amount "625" was adjusted to "675". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(2)(A)(i)(I), dollar amount "7,475" was adjusted to "7,700"; in subsec. (b)(2)(A)(i)(II), dollar amount "12,475" was adjusted to "12,850"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,875" was adjusted to "1,925"; in subsec. (b)(2)(B)(iv)(I), dollar amount "7,475" was adjusted to "7,700"; in subsec. (b)(2)(B)(iv)(II), dollar amount "12,475" was adjusted to "12,850"; in subsec. (b)(5)(B), dollar amount "1,250" was adjusted to "1,300"; in subsec. (b)(6)(C), dollar amount "675" was adjusted to "700"; and, in subsec. (b)(7)(A)(iii), dollar amount "675" was adjusted to "700". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b)(2)(A)(i)(I), dollar amount "7,025" was adjusted to "7,475"; in subsec. (b)(2)(A)(i)(II), dollar amount "11,725" was adjusted to "12,475"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,775" was adjusted to "1,875"; in subsec. (b)(2)(B)(iv)(I), dollar amount "7,025" was adjusted to "7,475"; in subsec. (b)(2)(B)(iv)(II), dollar amount "11,725" was adjusted to "12,475"; in subsec. (b)(5)(B), dollar amount "1,175" was adjusted to "1,250"; in subsec. (b)(6)(C), dollar amount "625" was adjusted to "675"; and, in subsec. (b)(7)(A)(iii), dollar amount "625" was adjusted to "675".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(2)(A)(i)(I), dollar amount "6,575" was adjusted to "7,025"; in subsec. (b)(2)(A)(i)(II), dollar amount "10,950" was adjusted to "11,725"; in subsec. (b)(2)(A)(ii)(IV), dollar amount "1,650" was adjusted to "1,775"; in subsec. (b)(2)(B)(iv)(I), dollar amount "6,575" was adjusted to "7,025"; in subsec. (b)(2)(B)(iv)(II), dollar amount "10,950" was adjusted to "11,725"; in subsec. (b)(5)(B), dollar amount "1,100" was adjusted to "1,175"; in subsec. (b)(6)(C), dollar amount "575" was adjusted to "625"; and, in subsec. (b)(7)(A)(iii), dollar amount "575" was adjusted to "625".
 
@@ -268,5 +270,5 @@ By notice dated Feb. 7, 2007, 72 F.R. 7082, effective Apr. 1, 2007, in subsec. (
 
 #### Rules Promulgated by Supreme Court
 
-United States Supreme Court to prescribe general rules implementing the practice and procedure to befollowed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
+United States Supreme Court to prescribe general rules implementing the practice and procedure to be followed under subsec. (b) of this section, with section 2075 of Title 28, Judiciary and Judicial Procedure, to apply with respect to such general rules, see section 320 of Pub. L. 98–353, set out as a note under section 2075 of Title 28.
 

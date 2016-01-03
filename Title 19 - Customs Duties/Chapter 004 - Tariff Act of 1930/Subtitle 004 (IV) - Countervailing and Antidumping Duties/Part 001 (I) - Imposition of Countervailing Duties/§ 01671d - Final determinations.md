@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) ofthis title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) the establishment of an industry in the United States is materially retarded,
 
-> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a). If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
 
 #### (2) Period for injury determination following affirmative preliminary determination by administering authority
 
@@ -42,11 +42,11 @@
 
 &emsp;&emsp;(A) the 120th day after the day on which the administering authority makes its affirmative preliminary determination under section 1671b(b) of this title, or
 
-&emsp;&emsp;(B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a) of this section.
+&emsp;&emsp;(B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a).
 
 #### (3) Period for injury determination following negative preliminary determination by administering authority
 
-&emsp;If the preliminary determination by the administering authority under section 1671b(b) of this title is negative, and its final determination under subsection (a) of this section is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
+&emsp;If the preliminary determination by the administering authority under section 1671b(b) of this title is negative, and its final determination under subsection (a) is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
 
 #### (4) Certain additional findings
 
@@ -56,7 +56,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
+In general.—If the finding of the administering authority under subsection (a)(2) is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -68,13 +68,13 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;&emsp;(III) any other circumstances indicating that the remedial effect of the countervailing duty order will be seriously undermined.
 
-&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of that merchandise.
+&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) would have been found but for any suspension of liquidation of entries of that merchandise.
 
 #### (c) Effect of final determinations
 
 #### (1) Effect of affirmative determination by the administering authority
 
-&emsp;If the determination of the administering authority under subsection (a) of this section is affirmative, then—
+&emsp;If the determination of the administering authority under subsection (a) is affirmative, then—
 
 &emsp;&emsp;(A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority,
 
@@ -86,33 +86,33 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated individual countervailable subsidy rate, the estimated all-others rate, or the estimated country-wide subsidy rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of section 1671b(d) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authorityunder section 1671b(b) of this title was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of section 1671b(d) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 
-&emsp;If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) of this section are affirmative, then the administering authority shall issue a countervailing duty order under section 1671e(a) of this title. If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
+&emsp;If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) are affirmative, then the administering authority shall issue a countervailing duty order under section 1671e(a) of this title. If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1671b(d)(2) of this title, and
 
 &emsp;&emsp;(B) release any bond or other security and refund any cash deposit required under section 1671b(d)(1)(B) of this title.
 
-#### (3) Effect of negative determinations under subsections (a)(2) and (b)(4)(A) of this section
+#### (3) Effect of negative determinations under subsections (a)(2) and (b)(4)(A)
 
-&emsp;If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+&emsp;If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A), respectively, is negative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate any retroactive suspension of liquidation required under paragraph (4) or section 1671b(e)(2) of this title, and
 
 &emsp;&emsp;(B) release any bond or other security, and refund any cash deposit required, under section 1671b(d)(1)(B) of this title with respect to entries of the merchandise the liquidation of which was suspended retroactively under section 1671b(e)(2) of this title.
 
-#### (4) Effect of affirmative determination under subsection (a)(2) of this section
+#### (4) Effect of affirmative determination under subsection (a)(2)
 
-&emsp;If the determination of the administering authority under subsection (a)(2) of this section is affirmative, then the administering authority shall—
+&emsp;If the determination of the administering authority under subsection (a)(2) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) in cases where the preliminary determinations by the administering authority under sections 1671b(b) and 1671b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under section 1671b(e)(2) of this title;
 
 &emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was affirmative, but the preliminary determination under section 1671b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1671b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) of this section to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
 
 #### (5) Method for determining the all-others rate and the country-wide subsidy rate
 
@@ -128,7 +128,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (B) Country-wide subsidy rate
 
-&emsp;&emsp;The administering authority may calculate a single country-wide subsidy rate, applicable to all exporters and producers, if the administering authority limits its examination pursuant to section 1677f–1(e)(2)(B) of this title. The estimated country-wide rate determined under section 1671b(d)(1)(A)(ii) of this title or paragraph (1)(B)(i)(II) of thissubsection shall be based on industry-wide data regarding the use of subsidies determined to be countervailable.
+&emsp;&emsp;The administering authority may calculate a single country-wide subsidy rate, applicable to all exporters and producers, if the administering authority limits its examination pursuant to section 1677f–1(e)(2)(B) of this title. The estimated country-wide rate determined under section 1671b(d)(1)(A)(ii) of this title or paragraph (1)(B)(i)(II) of this subsection shall be based on industry-wide data regarding the use of subsidies determined to be countervailable.
 
 #### (d) Publication of notice of determinations
 

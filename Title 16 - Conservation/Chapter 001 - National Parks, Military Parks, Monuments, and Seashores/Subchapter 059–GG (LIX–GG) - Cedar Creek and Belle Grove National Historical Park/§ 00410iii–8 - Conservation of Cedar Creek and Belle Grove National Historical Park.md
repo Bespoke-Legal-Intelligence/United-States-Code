@@ -2,7 +2,7 @@
 
 #### (a) Encouragement of conservation
 
-The Secretary and the Commission shall encourage conservation of the historic and naturalresources within and in proximity of the Park by landowners, local governments, organizations, and businesses.
+The Secretary and the Commission shall encourage conservation of the historic and natural resources within and in proximity of the Park by landowners, local governments, organizations, and businesses.
 
 #### (b) Provision of technical assistance
 

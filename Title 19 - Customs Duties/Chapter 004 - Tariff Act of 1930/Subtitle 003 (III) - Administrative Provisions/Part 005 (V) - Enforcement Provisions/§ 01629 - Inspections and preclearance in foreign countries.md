@@ -6,7 +6,7 @@ When authorized by treaty or executive agreement, the Secretary may station cust
 
 #### (b) Functions and duties
 
-Customs officers stationed in a foreign country under subsection (a) of this section may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
+Customs officers stationed in a foreign country under subsection (a) may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
 
 #### (c) Compliance
 
@@ -22,7 +22,7 @@ The Secretary of State, in coordination with the Secretary and the Secretary of 
 
 #### (f) Application of certain laws
 
-When customs officials of a foreign country are stationed in the United States in accordancewith subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
+When customs officials of a foreign country are stationed in the United States in accordance with subsection (e), and if similar provisions are applied to United States officials stationed in that country—
 
 &emsp;(1) sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
 
@@ -30,7 +30,7 @@ When customs officials of a foreign country are stationed in the United States i
 
 #### (g) Privileges and immunities
 
-Any person designated to perform the duties of an officer of the Customs Service pursuant to section 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
+Any person designated to perform the duties of an officer of the Customs Service pursuant tosection 1401(i) of this title shall be entitled to the same privileges and immunities as an officer of the Customs Service with respect to any actions taken by the designated person in the performance of such duties.
 
 #### (h) Customs procedures and commitments
 

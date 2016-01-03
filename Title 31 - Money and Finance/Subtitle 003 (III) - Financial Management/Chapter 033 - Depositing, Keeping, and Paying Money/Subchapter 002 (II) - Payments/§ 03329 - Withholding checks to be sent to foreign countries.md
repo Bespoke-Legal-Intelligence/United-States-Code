@@ -42,7 +42,7 @@
 
 &emsp;(1) apply to a check or warrant whose delivery may be withheld under Executive Order 8389;
 
-&emsp;(2) do not affect a requirement for a license for delivering and paying a check in paymentof a claim under subsection (c) of this section when a license is required by law to authorize delivery and payment; and
+&emsp;(2) do not affect a requirement for a license for delivering and paying a check in payment of a claim under subsection (c) of this section when a license is required by law to authorize delivery and payment; and
 
 &emsp;(3) do not affect a check or warrant issued for the payment of pay or goods bought by the United States Government in a foreign country.
 

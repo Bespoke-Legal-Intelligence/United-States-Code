@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverageoffered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standard or requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 701 <sup>1</sup> which differs from the standards or requirements specified in such section.
+&emsp;Subject to paragraph (2), the provisions of this part relating to health insurance coverage offered by a health insurance issuer supersede any provision of State law which establishes, implements, or continues in effect a standard or requirement applicable to imposition of a preexisting condition exclusion specifically governed by section 701 <sup>1</sup> which differs from the standards or requirements specified in such section.
 
 #### (2) Exceptions
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;The term "State" includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
-(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2724, formerly §2723, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1971; amended Pub. L. 104–204, title VI, §604(b)(2), Sept. 26, 1996, 110 Stat. 2941; renumbered §2737, renumbered §2724, and amended Pub. L. 111–148, title I, §§1001(4),1563(c)(14), formerly §1562(c)(14), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
 
 #### References in Text
 

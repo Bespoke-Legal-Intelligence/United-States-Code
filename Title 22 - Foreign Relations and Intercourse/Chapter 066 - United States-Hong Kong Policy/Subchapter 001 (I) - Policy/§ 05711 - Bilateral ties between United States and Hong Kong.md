@@ -4,7 +4,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(1) The United States should play an active role, before, on, and after July 1, 1997, in maintaining Hong Kong's confidence and prosperity, Hong Kong's role as an international financial center, and the mutually beneficial ties between the people of the United States and the people of Hong Kong.
 
-&emsp;(2) The United States should actively seek to establish and expand direct bilateral ties and agreements with Hong Kong in economic, trade, financial, monetary, aviation, shipping, communications, tourism, cultural, sport, and other appropriate areas.
+&emsp;(2) The United States should actively seek to establish and expand direct bilateral ties andagreements with Hong Kong in economic, trade, financial, monetary, aviation, shipping, communications, tourism, cultural, sport, and other appropriate areas.
 
 &emsp;(3) The United States should seek to maintain, after June 30, 1997, the United States consulate-general in Hong Kong, together with other official and semi-official organizations, such as the United States Information Agency American Library.
 

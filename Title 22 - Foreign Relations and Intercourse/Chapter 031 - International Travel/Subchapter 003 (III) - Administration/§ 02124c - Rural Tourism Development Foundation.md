@@ -28,7 +28,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 &emsp;(ii) The voting members of the Board, other than those referred to in clause (i), shall be appointed in accordance with procedures established by such bylaws.
 
-&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at least one shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
+&emsp;(C) The voting members of the Board shall be individuals who are not Federal officers or employees and who have demonstrated an interest in rural tourism development. Of such voting members, at least a majority shall have experience and expertise in tourism trade promotion, at least one shall have experience and expertise in resource conservation, at leastone shall have experience and expertise in financial administration in a fiduciary capacity, at least one shall be a representative of an Indian tribe who has experience and expertise in rural tourism on an Indian reservation, at least one shall represent a regional or national organization or association with a major interest in rural tourism development or promotion, and at least one shall be a representative of a State who is responsible for tourism promotion.
 
 &emsp;(D) Voting members of the Board shall each serve a term of six years, except that—
 
@@ -88,7 +88,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (3) Construction
 
-&emsp;Neither an officer or employee hired under paragraph (1) nor an individual who provides services under paragraph (2) shall be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
+&emsp;Neither an officer or employee hired under paragraph (1) nor an individual who providesservices under paragraph (2) shall be considered a Federal employee for any purpose other than for purposes of chapter 81 of title 5, relating to compensation for work injuries, and chapter 171 of title 28, relating to tort claims.
 
 #### (j) Exemption from taxes; contributions
 

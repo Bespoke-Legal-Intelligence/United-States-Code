@@ -122,11 +122,11 @@ Notice of anticipated use of authority.—As part of the annual budget justifica
 
 &emsp;"(2)
 
-Notice of changes to conveyance list.—If the Secretary proposes to convey an administrative siteunder this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
+Notice of changes to conveyance list.—If the Secretary proposes to convey an administrative site under this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
 
 &emsp;"(3)
 
-Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
+Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee onAgriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
 "(f)
 
@@ -244,7 +244,7 @@ Deposit.—The Secretary shall deposit in the fund established under Public Law 
 
 "(b)
 
-Use.—Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessaryand incidental costs incurred by the Secretary in connection with—
+Use.—Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessary and incidental costs incurred by the Secretary in connection with—
 
 &emsp;"(1) the acquisition, improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System; and
 
@@ -252,7 +252,7 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 
 "(c)
 
-Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
+Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection withthe conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
 #### Conveyance of Excess Forest Service Structures
 

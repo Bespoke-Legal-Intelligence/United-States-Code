@@ -16,7 +16,7 @@ Vessel Changing Homeports.—(1) In the case of a naval vessel the homeport of w
 
 (c)
 
-Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in anyshipyard outside the United States or Guam (in this section referred to as a "foreign shipyard") during the fiscal year preceding the fiscal year in which the report is submitted.
+Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a "foreign shipyard") during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (2) The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
 

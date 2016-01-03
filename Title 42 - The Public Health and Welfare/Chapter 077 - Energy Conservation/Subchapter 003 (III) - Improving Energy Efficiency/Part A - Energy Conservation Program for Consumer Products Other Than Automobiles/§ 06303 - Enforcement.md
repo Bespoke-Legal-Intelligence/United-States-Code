@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (c) of this section, any person who knowingly violates any provision of section 6302 of this title shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of section 6302(a)(3) of this title which relate to requirements prescribed by the Secretary, violations of section 6302(a)(4) of this title which relate to requests of the Secretary under section 6296(b)(2) of this title, or violations of section 6302(a)(5) of this title shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), or (5) of section 6302(a) of this title shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
+Except as provided in subsection (c) of this section, any person who knowingly violates any provision of section 6302 of this title shall be subject to a civil penalty of not more than $100 for each violation. Such penalties shall be assessed by the Commission, except that penalties for violations of section 6302(a)(3) of this title which relate to requirements prescribed by the Secretary, violations of section 6302(a)(4) of this title which relate to requests of the Secretary under section 6296(b)(2) of this title, or violations of paragraph (5), (6), (7), or (8) of section 6302(a) of this title shall be assessed by the Secretary. Civil penalties assessed under this part may be compromised by the agency or officer authorized to assess the penalty, taking into account the nature and degree of the violation and the impact of the penalty upon a particular respondent. Each violation of paragraph (1), (2), (5), (6), (7), or (8) of section 6302(a) of this title shall constitute a separate violation with respect to each covered product, and each day of violation of section 6302(a)(3) or (4) of this title shall constitute a separate violation.
 
 #### (b) "Knowingly" defined
 
@@ -28,7 +28,7 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 (4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Secretary under paragraph (3), the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 
-(5)(A) Notwithstanding the provisions of title 28 or section 7192(c) of this title, the Secretary shall be represented by the general counsel of the Department of Energy (or any attorney or attorneys within the Department of Energy designated by the Secretary) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (4)) in a court of the United States or in any other court, except the Supreme Court. However, the Secretary or the general counselshall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
+(5)(A) Notwithstanding the provisions of title 28 or section 7192(c) of this title, the Secretary shall be represented by the general counsel of the Department of Energy (or any attorney or attorneys within the Department of Energy designated by the Secretary) who shall supervise, conduct, and argue any civil litigation to which paragraph (3) of this subsection applies (including any related collection action under paragraph (4)) in a court of the United States or in any other court, except the Supreme Court. However, the Secretary or the general counsel shall consult with the Attorney General concerning such litigation, and the Attorney General shall provide, on request, such assistance in the conduct of such litigation as may be appropriate.
 
 (B) Subject to the provisions of section 7192(c) of this title, the Secretary shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 
@@ -36,9 +36,11 @@ It shall be an unfair or deceptive act or practice in or affecting commerce (wit
 
 (6) For purposes of applying the preceding provisions of this subsection in the case of the assessment of a penalty by the Commission for a violation of paragraphs (1) and (2) of section 6302 of this title, references in such provisions to "Secretary" and "Department of Energy" shall be considered to be references to the "Commission".
 
-(Pub. L. 94–163, title III, §333, Dec. 22, 1975, 89 Stat. 929; Pub. L. 95–619, title IV, §§423, 425(e), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3262, 3266, 3288; Pub. L. 100–12, §11(b)(6), Mar. 17, 1987, 101 Stat. 125.)
+(Pub. L. 94–163, title III, §333, Dec. 22, 1975, 89 Stat. 929; Pub. L. 95–619, title IV, §§423, 425(e), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3262, 3266, 3288; Pub. L. 100–12, §11(b)(6), Mar. 17, 1987, 101 Stat. 125; Pub. L. 114–11, title II, §201(3), Apr. 30, 2015, 129 Stat. 189.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–11 substituted "paragraph (5), (6), (7), or (8) of section 6302(a)" for "section 6302(a)(5)" and "paragraph (1), (2), (5), (6), (7), or (8) of section 6302(a)" for "paragraph (1), (2), or (5) of section 6302(a)".
 
 <b>1987</b>—Pub. L. 100–12 inserted headings for subsecs. (a) to (d).
 

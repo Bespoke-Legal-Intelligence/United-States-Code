@@ -10,7 +10,7 @@
 
 Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
-&emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
+&emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive informationrelating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 
 &emsp;(2) would disclose the names or identities of living persons who provided confidential information to the United States and would pose a substantial risk of harm to such persons;
 
@@ -64,5 +64,5 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline
 
-Pub. L. 102–138, title I, §198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: "The Secretary of State shallensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act."
+Pub. L. 102–138, title I, §198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: "The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 4354\] (as amended by this section) are met not later than one year after the date of enactment of this Act \[Oct. 28, 1991\]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act."
 

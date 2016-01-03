@@ -34,7 +34,7 @@ The Attorney General shall require each applicant under this section to identify
 
 #### (e) Reports
 
-An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
+An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grantduring that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
 
 #### (f) Authorization of appropriations
 

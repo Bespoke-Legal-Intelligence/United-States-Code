@@ -18,7 +18,7 @@ A Certificate issued by any country that is a party to the Convention has the sa
 
 #### (e) Vessels of nonparty countries
 
-Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstratecompliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
+Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstrate compliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
 
 (Pub. L. 111–281, title X, §1021, Oct. 15, 2010, 124 Stat. 3025.)
 

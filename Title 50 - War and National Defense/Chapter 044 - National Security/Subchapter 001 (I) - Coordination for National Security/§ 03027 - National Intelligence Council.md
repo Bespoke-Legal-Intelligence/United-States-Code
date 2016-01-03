@@ -28,7 +28,7 @@ Within their respective areas of expertise and under the direction of the Direct
 
 #### (e) Authority to contract
 
-Subject to the direction and control of the Director of National Intelligence, the National Intelligence Council may carry out its responsibilities under this section by contract, includingcontracts for substantive experts necessary to assist the Council with particular assessments under this section.
+Subject to the direction and control of the Director of National Intelligence, the National Intelligence Council may carry out its responsibilities under this section by contract, including contracts for substantive experts necessary to assist the Council with particular assessments under this section.
 
 #### (f) Staff
 

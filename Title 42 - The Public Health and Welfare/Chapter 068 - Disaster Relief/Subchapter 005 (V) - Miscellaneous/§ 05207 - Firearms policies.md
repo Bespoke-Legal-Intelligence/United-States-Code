@@ -20,7 +20,7 @@ Nothing in this section shall be construed to prohibit any person in subsection 
 
 #### (1) In general
 
-&emsp;Any individual aggrieved by a violation of this section may seek relief in an action at law, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
+&emsp;Any individual aggrieved by a violation of this section may seek relief in an action atlaw, suit in equity, or other proper proceeding for redress against any person who subjects such individual, or causes such individual to be subjected, to the deprivation of any of the rights, privileges, or immunities secured by this section.
 
 #### (2) Remedies
 

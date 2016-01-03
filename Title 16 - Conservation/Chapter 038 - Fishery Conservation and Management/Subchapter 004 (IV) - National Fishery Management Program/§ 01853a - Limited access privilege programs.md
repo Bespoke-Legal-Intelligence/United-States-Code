@@ -188,7 +188,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(iv) Chapter 35 of title 44 (commonly known as the Paperwork Reduction Act) does not apply to the referenda conducted under this subparagraph.
 
-&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described inclause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
+&emsp;&emsp;(v) The Secretary shall promulgate criteria for determining whether additional fishery participants are eligible to vote in the New England referendum described in clause (i) in order to ensure that crew members who derive a significant percentage of their total income from the fishery under the proposed program are eligible to vote in the referendum.
 
 &emsp;&emsp;(vi) In this subparagraph, the term "individual fishing quota" does not include a sector allocation.
 
@@ -198,7 +198,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(A) establish a policy and criteria for the transferability of limited access privileges (through sale or lease), that is consistent with the policies adopted by the Council for the fishery under paragraph (5); and
 
-&emsp;&emsp;(B) establish, in coordination with the Secretary, a process for monitoring of transfers (including sales and leases) of limited access privileges.
+&emsp;&emsp;(B) establish, in coordination with the Secretary, a process for monitoring of transfers\(including sales and leases) of limited access privileges.
 
 #### (8) Preparation and implementation of secretarial plans
 
@@ -268,7 +268,7 @@ The requirements of this section shall not apply to any quota program, including
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
 

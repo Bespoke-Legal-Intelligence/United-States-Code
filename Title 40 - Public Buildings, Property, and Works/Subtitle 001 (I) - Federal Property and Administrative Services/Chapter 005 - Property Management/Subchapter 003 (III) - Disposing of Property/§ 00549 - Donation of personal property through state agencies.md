@@ -70,7 +70,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;(A) to a public agency for use in carrying out or promoting, for residents of a given political area, a public purpose, including conservation, economic development, education, parks and recreation, public health, and public safety;
 
-&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
+&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxationunder section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
 
 &emsp;&emsp;&emsp;(i) a medical institution, hospital, clinic, health center, or drug abuse treatment center;
 
@@ -110,7 +110,7 @@ Determination.—The Secretary of Defense shall determine whether surplus person
 
 &emsp;(2)
 
-Property usable for special interest activities.—If the Secretary of Defense determines that the property is usable and necessary for educational activities which are of special interest to the armed services, the Secretary shall allocate the property for transfer by the Administrator to the appropriate stateagency for distribution through donation to the educational activities.
+Property usable for special interest activities.—If the Secretary of Defense determines that the property is usable and necessary for educational activities which are of special interest to the armed services, the Secretary shall allocate the property for transfer by the Administrator to the appropriate state agency for distribution through donation to the educational activities.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Management control and accounting systems.—The state plan of operation shall r
 
 &emsp;&emsp;(D)
 
-Return and redistribution for non-use.—The state plan of operation shall require the state agency to provide for the return and redistribution of donable property if the property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for that purpose within one year of being placed in use.
+Return and redistribution for non-use.—The state plan of operation shall require the state agency to provide for the return and redistribution of donable property if the property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for thatpurpose within one year of being placed in use.
 
 &emsp;&emsp;(E)
 
@@ -366,7 +366,7 @@ Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) "Schools" means 
 
 (b) "Community-based educational organizations" means nonprofit entities that are engaged in collaborative projects with schools or that have education as their primary focus. Such organizations shall qualify as nonprofit educational institutions or organizations for purposes of section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[now 40 U.S.C. 549\].
 
-(c) "Educationally useful Federal equipment" means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriatefor use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
+(c) "Educationally useful Federal equipment" means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in prekindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.
 
 (d) "Nonprofit reuse or recycling program" means a 501(c) organization able to upgrade computer equipment at no or low cost to the school or nonprofit organization taking title to it.
 

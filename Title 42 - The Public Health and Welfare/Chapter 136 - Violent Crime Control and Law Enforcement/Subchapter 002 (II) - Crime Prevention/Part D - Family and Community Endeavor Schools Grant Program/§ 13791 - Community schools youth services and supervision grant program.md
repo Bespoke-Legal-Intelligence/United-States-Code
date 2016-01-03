@@ -126,7 +126,7 @@ In this section—
 
 &emsp;&emsp;(A) describe the activities and services to be provided through the program for which the grant is sought;
 
-&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organization determines will best accomplish the objectives of this section;
+&emsp;&emsp;(B) contain an assurance that the community-based organization will spend grant funds received under this section in a manner that the community-based organizationdetermines will best accomplish the objectives of this section;
 
 &emsp;&emsp;(C) contain a comprehensive plan for the program that is designed to achieve identifiable goals for children in the eligible community;
 
@@ -192,7 +192,7 @@ In this section—
 
 #### (1) In general
 
-&emsp;To the extent possible, each child who resides in an eligible community shall be eligible to participate in a program carried out insuch community that receives assistance under this section.
+&emsp;To the extent possible, each child who resides in an eligible community shall be eligible to participate in a program carried out in such community that receives assistance under this section.
 
 #### (2) Eligibility
 
@@ -206,7 +206,7 @@ In this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designing and implementing community-based programs.
+&emsp;The Secretary may establish a peer review panel that shall be comprised of individuals with demonstrated experience in designingand implementing community-based programs.
 
 #### (2) Composition
 

@@ -70,7 +70,7 @@ Requirements.—A carrier that maintains a tariff under this subsection is bound
 
 &emsp;(4)
 
-Incorporation by reference.—A carrier may incorporate by reference the rates, terms, and other conditions of a tariff in agreements covering the transportation of household goods.
+Incorporation by reference.—A carrier may incorporate by reference the rates, terms,and other conditions of a tariff in agreements covering the transportation of household goods.
 
 &emsp;(5)
 

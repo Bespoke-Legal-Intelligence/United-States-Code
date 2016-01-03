@@ -6,7 +6,7 @@ For purposes of determining whether a corporation is a personal holding company,
 
 #### (1) Stock not owned by individual
 
-&emsp;Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trustshall be considered as being owned proportionately by its shareholders, partners, or beneficiaries.
+&emsp;Stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust shall be considered as being owned proportionately by its shareholders, partners, or beneficiaries.
 
 #### (2) Family and partnership ownership
 

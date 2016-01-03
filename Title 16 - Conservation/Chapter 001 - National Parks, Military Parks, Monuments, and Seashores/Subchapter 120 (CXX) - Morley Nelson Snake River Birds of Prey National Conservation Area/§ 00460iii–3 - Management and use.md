@@ -12,7 +12,7 @@
 
 #### (b) Management guidance
 
-After each review pursuant to subsection (a) of this section, the Secretary shall make such revisions as may be needed so that the plan and management program to implement the plan include, in addition to any other necessary or appropriate provisions, provisions for—
+After each review pursuant to subsection (a), the Secretary shall make such revisions as may be needed so that the plan and management program to implement the plan include, in addition to any other necessary or appropriate provisions, provisions for—
 
 &emsp;(1) protection for the raptor populations and habitats and the scientific, cultural, and educational resources and values of the public lands in the conservation area;
 
@@ -44,7 +44,7 @@ In addition to the visitors center, the Secretary may provide for visitor use of
 
 (2) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall review the management plan and make such additional revisions therein as may be required to assure that it meets the requirements of this subchapter.
 
-(3) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall submit to the Committees on Natural Resources and Merchant Marine and Fisheries of the House of Representatives and the Committee on Energy andNatural Resources of the Senate a report of the results of such research.
+(3) Upon completion of the ongoing research concerning military use of lands in the conservation area, the Secretary shall submit to the Committees on Natural Resources and Merchant Marine and Fisheries of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report of the results of such research.
 
 (4) Nothing in this subchapter shall preclude minor adjustment of the boundaries of the Orchard Training Area in accordance with provisions of the Memorandum of Understanding.
 
@@ -56,7 +56,7 @@ In addition to the visitors center, the Secretary may provide for visitor use of
 
 #### (f) Livestock grazing
 
-(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatible with such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B) of this section.
+(1) So long as the Secretary determines that domestic livestock grazing is compatible with the purposes for which the conservation area is established, the Secretary shall permit such use of public lands within the conservation area, to the extent such use of such lands is compatible with such purposes. Determinations as to compatibility shall be made in connection with the initial revision of management plans for the conservation area and in connection with each plan review required by subsection (a)(1)(B).
 
 (2) Any livestock grazing on public lands within the conservation area, and activities the Secretary determines necessary to carry out proper and practical grazing management programs on such lands (such as animal damage control activities) shall be managed in accordance with the Act of June 28, 1934 (43 U.S.C. 315 et seq.; commonly referred to as the "Taylor Grazing Act"), section 1752 of title 43, other laws applicable to such use and programs on the public lands, and the management plan for the conservation area.
 

@@ -32,7 +32,7 @@ Stay of Additional Compensation.—When a person proceeds under this section to 
 
 (d)
 
-Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
+Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
 
 (e)
 
@@ -76,5 +76,5 @@ Subsec. (g). Pub. L. 104–287, §5(31)(C), substituted "January 1, 1996" for "t
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

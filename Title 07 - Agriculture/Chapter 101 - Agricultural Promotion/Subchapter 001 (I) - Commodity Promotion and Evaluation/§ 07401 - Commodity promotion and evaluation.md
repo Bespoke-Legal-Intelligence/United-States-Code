@@ -64,7 +64,7 @@ Congress finds the following:
 
 &emsp;&emsp;(A) further specific national governmental goals, as established by Congress; and
 
-&emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which isto further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
+&emsp;&emsp;(B) produce nonideological and commercial communication the purpose of which is to further the governmental policy and objective of maintaining and expanding the markets for the covered commodities.
 
 &emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 

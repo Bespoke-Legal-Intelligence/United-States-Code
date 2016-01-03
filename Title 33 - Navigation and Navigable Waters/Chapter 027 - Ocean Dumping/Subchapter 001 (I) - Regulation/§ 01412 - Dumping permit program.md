@@ -28,7 +28,7 @@ Except in relation to dredged material, as provided for in section 1413 of this 
 
 &emsp;(I) In designating recommended sites, the Administrator shall utilize wherever feasible locations beyond the edge of the Continental Shelf.
 
-> In establishing or revising such criteria, the Administrator shall consult with Federal, State, and local officials, and interested members of the general public, as may appear appropriate to the Administrator. With respect to such criteria as may affect the civil works program of the Department of the Army, the Administrator shall also consult with the Secretary. In reviewing applications for permits, the Administrator shall make such provision for consultation with interested Federal and State agencies as he deems useful or necessary. No permit shall be issued for a dumping of material which will violate applicable water quality standards. To the extent that he may do so without relaxing the requirements of this subchapter, the Administrator, in establishing or revising such criteria, shall apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+> In establishing or revising such criteria, the Administrator shall consult with Federal, State, and local officials, and interested members of the general public, as may appear appropriate to the Administrator. With respect to such criteria as may affect the civil works program of the Department of the Army, the Administrator shall also consult with the Secretary. In reviewing applications for permits, the Administrator shall make such provision for consultation with interested Federal and State agencies as he deems useful or necessary. No permit shall be issued for a dumping of material which will violate applicable water quality standards. To theextent that he may do so without relaxing the requirements of this subchapter, the Administrator, in establishing or revising such criteria, shall apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
 #### (b) Permit categories
 
@@ -42,7 +42,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (2) Prohibitions regarding site or time period
 
-&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibitionshall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
+&emsp;In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under section 1413(e) of this title.
 
 #### (3) Dredged material disposal sites
 
@@ -76,7 +76,7 @@ No permit is required under this subchapter for the transportation for dumping o
 
 In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: <i>Provided</i>, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
-(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, §562, Aug. 17, 1999, 113 Stat. 355; Pub. L. 110–114, title V, §5046, Nov. 8, 2007, 121 Stat. 1209.)
+(Pub. L. 92–532, title I, §102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, §1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, §3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, §3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, §506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, §582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, §562, Aug. 17, 1999, 113 Stat. 355;Pub. L. 110–114, title V, §5046, Nov. 8, 2007, 121 Stat. 1209.)
 
 #### References in Text
 

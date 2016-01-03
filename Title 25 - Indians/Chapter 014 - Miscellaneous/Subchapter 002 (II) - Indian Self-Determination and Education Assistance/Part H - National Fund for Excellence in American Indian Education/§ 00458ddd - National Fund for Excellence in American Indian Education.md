@@ -48,7 +48,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The officers of the Foundation shall be a secretary, elected from among the members of the Board, and any other officers provided for in the constitution and bylaws of the Foundation.
+&emsp;The officers of the Foundation shall be a secretary, elected from among the members ofthe Board, and any other officers provided for in the constitution and bylaws of the Foundation.
 
 #### (2) Secretary of Foundation
 
@@ -92,7 +92,7 @@ The Foundation shall be liable for the acts of its officers and agents acting wi
 
 &emsp;Beginning with the fiscal year following the first full fiscal year during which the Foundation is in operation, the administrative costs of the Foundation may not exceed 10 percent of the sum of—
 
-&emsp;&emsp;(A) the amounts transferred to the Foundation under subsection (m) of this section during the preceding fiscal year; and
+&emsp;&emsp;(A) the amounts transferred to the Foundation under subsection (m) during the preceding fiscal year; and
 
 &emsp;&emsp;(B) donations received from private sources during the preceding fiscal year.
 

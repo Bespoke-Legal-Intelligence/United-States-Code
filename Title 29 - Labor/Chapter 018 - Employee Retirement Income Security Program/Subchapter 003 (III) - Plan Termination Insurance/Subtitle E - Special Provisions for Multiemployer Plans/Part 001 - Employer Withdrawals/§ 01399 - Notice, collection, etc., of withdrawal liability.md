@@ -48,7 +48,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 > For purposes of the preceding sentence, a partial withdrawal described in section 1385(a)(1) of this title shall be deemed to occur on the last day of the first year of the 3-year testing period described in section 1385(b)(1)(B)(i) of this title.
 
-(ii)(I) A plan may be amended to provide that for any plan year ending before 1986 the amount of each annual payment shall be (in lieu of the amount determined under clause (i)) the average of the required employer contributions under the plan for the period of 3 consecutive plan years (during the period of 10 consecutive plan years ending with the plan year preceding the plan year in which the withdrawal occurs) for which such required contributions were the highest.
+(ii)(I) A plan may be amended to provide that for any plan year ending before 1986 the amount of each annual payment shall be (in lieu of theamount determined under clause (i)) the average of the required employer contributions under the plan for the period of 3 consecutive plan years (during the period of 10 consecutive plan years ending with the plan year preceding the plan year in which the withdrawal occurs) for which such required contributions were the highest.
 
 (II) Subparagraph (B) shall not apply to any plan year to which this clause applies.
 
@@ -104,7 +104,7 @@ The prohibitions provided in section 1106(a) of this title do not apply to any a
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

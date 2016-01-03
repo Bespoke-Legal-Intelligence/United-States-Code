@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Brand
 
-&emsp;The term "brand" means a variety of tobacco product distinguished by the tobacco used, tar content, nicotine content, flavoring used, size, filtration, packaging, logo, registered trademark, brand name, identifiable pattern of colors, or any combination of such attributes.
+&emsp;The term "brand" means a variety of tobacco product distinguished by the tobaccoused, tar content, nicotine content, flavoring used, size, filtration, packaging, logo, registered trademark, brand name, identifiable pattern of colors, or any combination of such attributes.
 
 #### (3) Cigarette
 
@@ -148,7 +148,7 @@ Intended Effect.—Nothing in this division \[see Short Title of 2009 Amendment 
 
 "(b)
 
-Agricultural Activities.—The provisions of this division (or an amendment made by this division)which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
+Agricultural Activities.—The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
 
 "(c)
 
@@ -252,7 +252,7 @@ Pub. L. 111–31, div. A, §2, June 22, 2009, 123 Stat. 1776, provided that: "Th
 
 &emsp;"(47) In August 2006 a United States district court judge found that the major United States cigarette companies continue to target and market to youth. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
-&emsp;"(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertisingand promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
+&emsp;"(48) In August 2006 a United States district court judge found that the major United States cigarette companies dramatically increased their advertising and promotional spending in ways that encourage youth to start smoking subsequent to the signing of the Master Settlement Agreement in 1998. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006).
 
 &emsp;"(49) In August 2006 a United States district court judge found that the major United States cigarette companies have designed their cigarettes to precisely control nicotine delivery levels and provide doses of nicotine sufficient to create and sustain addiction while also concealing much of their nicotine-related research. USA v. Philip Morris, USA, Inc., et al. (Civil Action No. 99–2496 (GK), August 17, 2006)."
 
@@ -294,7 +294,7 @@ In general.—Except as provided in subsection (c), with respect to any time per
 
 &emsp;"(2)
 
-Limitation.—Subsection (a) shall only apply with respect to obligations of the Secretary of Health and Human Services that must be completed within a specified time period and shall not apply to the obligations of any other person or to any other provision of this division (including the amendments made by this division) that do not create such obligations of the Secretary and are not contingent on actions by the Secretary.
+Limitation.—Subsection (a) shall only apply with respect to obligations of the Secretary of Health and Human Services that must be completed withina specified time period and shall not apply to the obligations of any other person or to any other provision of this division (including the amendments made by this division) that do not create such obligations of the Secretary and are not contingent on actions by the Secretary.
 
 "(b)
 

@@ -8,7 +8,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;(2) shall give priority for program review to institutions of higher education that are—
 
-&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter inexcess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
+&emsp;&emsp;(A) institutions with a cohort default rate for loans under part B of this subchapter in excess of 25 percent or which places such institutions in the highest 25 percent of such institutions;
 
 &emsp;&emsp;(B) institutions with a default rate in dollar volume for loans under part B of this subchapter which places the institutions in the highest 25 percent of such institutions;
 
@@ -34,7 +34,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 #### (b) Special administrative rules
 
-In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevant provisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
+In carrying out paragraphs (1) and (2) of subsection (a) of this section and any other relevantprovisions of this subchapter and part C of subchapter I of chapter 34 of title 42, the Secretary shall—
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 

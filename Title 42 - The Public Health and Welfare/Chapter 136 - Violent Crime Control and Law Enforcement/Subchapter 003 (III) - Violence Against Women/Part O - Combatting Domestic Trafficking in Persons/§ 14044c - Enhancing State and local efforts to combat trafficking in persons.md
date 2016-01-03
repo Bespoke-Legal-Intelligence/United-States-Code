@@ -58,7 +58,7 @@ Subsec. (a)(1)(B) to (E). Pub. L. 113–4, §1242(1)(B)–(D), added subpar. (B)
 
 Subsec. (d). Pub. L. 113–4, §1242(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 113–4, §1242(2), (4), redesignated subsec. (d) as (e) and substituted "$10,000,000 for each ofthe fiscal years 2014 through 2017" for "$20,000,000 for each of the fiscal years 2008 through 2011".
+Subsec. (e). Pub. L. 113–4, §1242(2), (4), redesignated subsec. (d) as (e) and substituted "$10,000,000 for each of the fiscal years 2014 through 2017" for "$20,000,000 for each of the fiscal years 2008 through 2011".
 
 Subsec. (f). Pub. L. 113–4, §1242(5), added subsec. (f).
 

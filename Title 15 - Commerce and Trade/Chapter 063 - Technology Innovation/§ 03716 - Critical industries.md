@@ -10,13 +10,13 @@ The Secretary shall—
 
 #### (b) Initial report
 
-The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a) of this section.
+The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a).
 
 (Pub. L. 102–245, title V, §504, Feb. 14, 1992, 106 Stat. 24.)
 
 #### Codification
 
-Subsec. (c) of this section, which required the Secretary to annually submit to Congress an update of thereport submitted under subsec. (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 52 of House Document No. 103–7.
+Subsec. (c) of this section, which required the Secretary to annually submit to Congress an update of the report submitted under subsec. (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 52 of House Document No. 103–7.
 
 Section was enacted as part of the American Technology Preeminence Act of 1991, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 

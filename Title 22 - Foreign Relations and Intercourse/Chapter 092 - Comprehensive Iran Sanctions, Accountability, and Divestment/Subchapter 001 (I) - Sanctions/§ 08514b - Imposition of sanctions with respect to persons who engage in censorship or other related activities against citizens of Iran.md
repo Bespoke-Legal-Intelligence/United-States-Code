@@ -8,7 +8,7 @@ The President shall impose sanctions described in section 8514(c) of this title 
 
 #### (1) In general
 
-&emsp;Not later than 90 days after August 10, 2012, the President shall submit to the appropriate congressional committees a list of personsthat the President determines have, on or after June 12, 2009, engaged in censorship or other activities with respect to Iran that—
+&emsp;Not later than 90 days after August 10, 2012, the President shall submit to the appropriate congressional committees a list of persons that the President determines have, on or after June 12, 2009, engaged in censorship or other activities with respect to Iran that—
 
 &emsp;&emsp;(A) prohibit, limit, or penalize the exercise of freedom of expression or assembly by citizens of Iran; or
 

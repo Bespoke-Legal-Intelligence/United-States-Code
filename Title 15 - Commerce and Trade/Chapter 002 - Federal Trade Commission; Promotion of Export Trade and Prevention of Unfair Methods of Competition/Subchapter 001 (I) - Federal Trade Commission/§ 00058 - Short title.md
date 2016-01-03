@@ -2,7 +2,7 @@
 
 This subchapter may be cited as the "Federal Trade Commission Act".
 
-(Sept. 26, 1914, ch. 311, §28, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691; renumbered §28, Pub. L. 109–455, §11(1), Dec. 22, 2006, 120 Stat. 3381.)
+(Sept. 26, 1914, ch. 311, §28, formerly §18, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; renumbered §21, Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered §25, Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; renumbered §26, Pub.L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691; renumbered §28, Pub. L. 109–455, §11(1), Dec. 22, 2006, 120 Stat. 3381.)
 
 #### Amendment of Section
 

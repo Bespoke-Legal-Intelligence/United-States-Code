@@ -12,7 +12,7 @@ If for any month prior to the month in which an individual attains retirement ag
 
 &emsp;&emsp;(B) periodic benefits on account of his or her total or partial disability (whether or not permanent) under any other law or plan of the United States, a State, a political subdivision (as that term is used in section 418(b)(2) of this title), or an instrumentality of two or more States (as that term is used in section 418(g) of this title), other than (i) benefits payable under title 38, (ii) benefits payable under a program of assistance which is based on need, (iii) benefits based on service all or substantially all of which was included under an agreement entered into by a State and the Commissioner of Social Security under section 418 of this title, and (iv) benefits under a law or plan of the United States based on service all or substantially all of which is employment as defined in section 410 of this title,
 
-> the total of his benefits under section 423 of this title for such month and of any benefits under section 402 of this title for such month based on his wages and self-employment income shall be reduced (but not below zero) by the amount by which the sum of—
+> the total of his benefits under section 423 of this title for such month and of any benefits under section 402 of this title for such month based onhis wages and self-employment income shall be reduced (but not below zero) by the amount by which the sum of—
 
 &emsp;(3) such total of benefits under sections 423 and 402 of this title for such month, and
 
@@ -106,7 +106,7 @@ Subsec. (f)(2)(B)(ii). Pub. L. 101–239, §10208(b)(2)(C), inserted "(I)" after
 
 &emsp;"(A) a workmen's compensation law or plan of the United States or a State, or
 
-&emsp;"(B) any other law or plan of the United States, a State, a political subdivision (as that term is used in section 418(b)(2) of this title), or an instrumentality of two or more States (as that term is used in section 418(k) of this title),
+&emsp;"(B) any other law or plan of the United States, a State, a political subdivision (as that term is used in section 418(b)(2) of this title), or an instrumentalityof two or more States (as that term is used in section 418(k) of this title),
 
 > other than benefits payable under title 38, benefits payable under a program of assistance which is based on need, benefits based on service all, or substantially all, of which was included under an agreement entered into by a State and the Secretary under section 418 of this title, and benefits under a law or plan of the United States based on service all or part of which is employment as defined in section 410 of this title,".
 
@@ -148,7 +148,7 @@ Amendment by section 10208(b)(2)(A), (C) of Pub. L. 101–239 applicable with re
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified itsagreement pursuant to section 418(e)(2) of this title prior to Oct. 21, 1986, with certain exceptions, see section 9002(d) of Pub. L. 99–509 set out as a note under section 418 of this title.
+Amendment by Pub. L. 99–509 effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to section 418(e)(2) of this title prior to Oct. 21, 1986, with certain exceptions, see section 9002(d) of Pub. L. 99–509 set out as a note under section 418 of this title.
 
 Pub. L. 99–272, title XII, §12109(b), Apr. 7, 1986, 100 Stat. 287, provided that:
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than the end of the 2-year period beginning on the date the Agreement entersinto force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
+&emsp;Not later than the end of the 2-year period beginning on the date the Agreement enters into force, and not later than the end of each 2-year period thereafter during the succeeding 14-year period, the President shall report to the Congress on the progress made by the CAFTA–DR countries in—
 
 &emsp;&emsp;(A) implementing Chapter Sixteen and Annex 16.5 of the Agreement; and
 

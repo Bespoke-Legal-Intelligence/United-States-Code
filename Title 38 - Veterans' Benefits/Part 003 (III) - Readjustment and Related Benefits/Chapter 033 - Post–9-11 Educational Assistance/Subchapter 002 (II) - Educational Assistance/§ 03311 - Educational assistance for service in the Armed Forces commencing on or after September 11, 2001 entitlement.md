@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding serviceon active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -148,7 +148,7 @@ Election on receipt of certain benefits.—A surviving spouse entitled to assist
 
 Definition of child.—For purposes of that paragraph, the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32,title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795.)
 
 #### Amendments
 

@@ -82,7 +82,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) reducing the amount of any payments otherwise due to such eligible lender from the Secretary by the amount of the penalty; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) requesting any other Federal agency to reduce the amount of anypayments due to such eligible lender from such agency by the amount of the penalty, in accordance with section 3716 of title 31.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) requesting any other Federal agency to reduce the amount of any payments due to such eligible lender from such agency by the amount of the penalty, in accordance with section 3716 of title 31.
 
 &emsp;&emsp;&emsp;&emsp;(II) A prohibition of bidding by such lender in other auctions under this section.
 
@@ -148,7 +148,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a Federal Direct PLUS Loan, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions that would otherwise be available to the borrower if the borrower consolidated such loans in the loan program under part C; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a loan made on behalf of a dependent student under section 1078–2 of this title, the eligible lender agrees, not later than 10 days after theborrower requests such consolidation from the lender, to match the consolidation terms and conditions offered by an eligible lender other than the eligible lender that originated the borrower's loans under this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a loan made on behalf of a dependent student under section 1078–2 of this title, the eligible lender agrees, not later than 10 days after the borrower requests such consolidation from the lender, to match the consolidation terms and conditions offered by an eligible lender other than the eligible lender that originated the borrower's loans under this paragraph.
 
 #### (v) Special allowance on consolidation loans that include loans made under this paragraph
 
@@ -172,7 +172,7 @@ The Secretary and Secretary of the Treasury shall jointly conduct an evaluation,
 
 &emsp;(1) the extent of the savings to the Federal Government that are generated through the pilot program, compared to the cost the Federal Government would have incurred in operating the PLUS loan program under section 1078–2 of this title in the absence of the pilot program;
 
-&emsp;(2) the number of lenders that participated in the pilot program, and the extent to which the pilot program generated competition among lenders to participate in the auctions under the pilot program;
+&emsp;(2) the number of lenders that participated in the pilot program, and the extent to whichthe pilot program generated competition among lenders to participate in the auctions under the pilot program;
 
 &emsp;(3) the number and volume of loans made under the pilot program in each State;
 

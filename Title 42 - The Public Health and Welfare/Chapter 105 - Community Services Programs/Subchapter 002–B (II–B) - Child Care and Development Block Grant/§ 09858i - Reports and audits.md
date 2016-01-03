@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the temporary assistance for needy families program under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a State program for which State spending is counted toward the maintenance of effort requirement under section 409(a)(7) of the Social Security Act (42 U.S.C. 609(a)(7));
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a State program for which State spending is counted toward the maintenance of effort requirement undersection 409(a)(7) of the Social Security Act (42 U.S.C. 609(a)(7));
 
 &emsp;&emsp;&emsp;&emsp;(III) housing assistance;
 
@@ -108,7 +108,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat.620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(1)(B)(v)(IV), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 

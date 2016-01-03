@@ -56,9 +56,9 @@ Provisions similar to those in this section were contained in sections 10762 and
 
 <b>1996</b>—Subsec. (a)(4). Pub. L. 104–287, §5(30)(A), substituted "January 1, 1996," for "the effective date of this section".
 
-Subsec. (b). Pub. L. 104–287, §5(30)(B), substituted "December 31, 1995" for "the day before the effective date of this section" and "January 1, 1996," for "the effective date of this section".
+Subsec. (b). Pub. L. 104–287, §5(30)(B), substituted "December 31, 1995" for "the day before the effectivedate of this section" and "January 1, 1996," for "the effective date of this section".
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

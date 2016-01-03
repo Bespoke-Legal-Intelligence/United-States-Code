@@ -38,7 +38,7 @@ As used in this subchapter:
 
 #### (D) Other secondary market institutions
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the term "financial institution" does not include institutions chartered by Congress specifically to engage in transactions described in section 6802(e)(1)(C) of this title, as long as such institutions do not sell or transfer nonpublic personal information to a nonaffiliated third party.
+&emsp;&emsp;Notwithstanding subparagraph (A), the term "financial institution" does not include institutions chartered by Congress specifically to engage in transactions described in section 6802(e)(1)(C) of this title, as long as such institutions do not sell ortransfer nonpublic personal information to a nonaffiliated third party.
 
 #### (4) Nonpublic personal information
 
@@ -108,7 +108,7 @@ As used in this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) oftitle V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 

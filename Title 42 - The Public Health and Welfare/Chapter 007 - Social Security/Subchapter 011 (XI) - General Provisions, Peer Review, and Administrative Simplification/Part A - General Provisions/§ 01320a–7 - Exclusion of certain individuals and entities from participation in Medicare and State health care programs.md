@@ -18,7 +18,7 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relatingto the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -174,7 +174,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 > until the passage of 30 days after the effective date of the exclusion.
 
-(3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
+(3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection\(b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
 
 (B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusion would impose a hardship on beneficiaries (as defined in section 1320a–7a(i)(5) of this title) of that program, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
 
@@ -288,7 +288,7 @@ For purposes of subsection (b)(8)(A)(iii) of this section:
 
 &emsp;(2) The term "member of the household" means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii),June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804.)
 
 #### References in Text
 
@@ -416,7 +416,7 @@ Pub. L. 103–296, title II, §206(b)(3), Aug. 15, 1994, 108 Stat. 1513, provide
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1,1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
+Amendment by Pub. L. 101–508 applicable with respect to items or services furnished on or after Jan. 1, 1993, in the case of items or services furnished by a provider who, on or before Nov. 5, 1990, has furnished items or services for which payment may be made under part B of subchapter XVIII of this chapter, or Jan. 1, 1992, in the case of items or services furnished by any other provider, see section 4164(b)(4) of Pub. L. 101–508, set out as an Effective Date note under section 1320a–3a of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -444,7 +444,7 @@ Effective Date for Changes in Medicaid Law.—(1) The amendments made by section
 
 "(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this Act, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act.
 
-"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f) of this Act) takes effect on the date of the enactment of this Act.
+"(3) Subsection (j) of section 1128A of the Social Security Act \[42 U.S.C. 1320a–7a(j)\] (as added by section 3(f)of this Act) takes effect on the date of the enactment of this Act.
 
 "(d)
 

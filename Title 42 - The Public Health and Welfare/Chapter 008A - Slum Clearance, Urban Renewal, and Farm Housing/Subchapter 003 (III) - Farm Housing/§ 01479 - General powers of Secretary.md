@@ -138,7 +138,7 @@ Subsec. (f)(4)(A). Pub. L. 102–550, §705(a)(3), substituted "an amount equal 
 
 Subsec. (f)(4)(B)(ii). Pub. L. 102–550, §705(c), inserted ", or in close proximity to, and serving the residents of," before "a colonia".
 
-Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C) which read as follows: "is designated by the State or county in which it is located as a colonia;", added subpar. (D), and struck out subpar. (E) which read as follows: "was in existence and generally recognized as a colonia before November 28, 1990."
+Subsec. (f)(8)(C) to (E). Pub. L. 102–550, §705(b), redesignated subpar. (D) as (C), struck out former subpar. (C)which read as follows: "is designated by the State or county in which it is located as a colonia;", added subpar. (D), and struck out subpar. (E) which read as follows: "was in existence and generally recognized as a colonia before November 28, 1990."
 
 <b>1990</b>—Subsecs. (d), (e). Pub. L. 101–625, §708, added subsec. (d) and redesignated former subsec. (d) as (e).
 

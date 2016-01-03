@@ -48,5 +48,5 @@ As used in this section—
 
 #### Effective Date
 
-Pub. L. 99–499, title II, §203(b), Oct. 17, 1986, 100 Stat. 1696, provided that: "The amendment made by subsection (a) of this section \[enacting this section\] shalltake effect with respect to actions brought after December 11, 1980."
+Pub. L. 99–499, title II, §203(b), Oct. 17, 1986, 100 Stat. 1696, provided that: "The amendment made by subsection (a) of this section \[enacting this section\] shall take effect with respect to actions brought after December 11, 1980."
 

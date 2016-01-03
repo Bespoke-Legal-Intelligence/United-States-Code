@@ -82,7 +82,7 @@ Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted "the President o
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–35, title II, §202(b), May 31, 1993, 107 Stat. 102, provided that: "The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484)."
+Pub. L. 103–35, title II, §202(b), May 31, 1993, 107 Stat. 102, provided that: "The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies andObservances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484)."
 
 #### Transfer of Functions
 
@@ -108,5 +108,5 @@ Supplement Not Supplant.—Any amounts made available by the Chairman of the Joi
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
-Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, titleV, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
+Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as section 155a of this title by Pub. L. 112–239, §511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
 

@@ -12,7 +12,7 @@
 
 (b) There is a United States Air Force within the Department of the Air Force.
 
-(c) In general, the Air Force includes aviation forces both combat and service not otherwise assigned. It shall be organized, trained, and equipped primarily for prompt and sustained offensive and defensive air operations. It is responsible for the preparation of the air forces necessary for the effective prosecution of war except as otherwise assigned and, in accordancewith integrated joint mobilization plans, for the expansion of the peacetime components of the Air Force to meet the needs of war.
+(c) In general, the Air Force includes aviation forces both combat and service not otherwise assigned. It shall be organized, trained, and equipped primarily for prompt and sustained offensive and defensive air operations. It is responsible for the preparation of the air forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Air Force to meet the needs of war.
 
 (d) The Air Force consists of—
 
@@ -26,7 +26,7 @@
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
+(g)(1) Effective October 1, 2011, the Secretary of the Air Force shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 301 aircraft. Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted tothe congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.
 
 (2) In this subsection:
 
@@ -116,7 +116,7 @@ Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239, §141(a), inserted at end "Effective on the date that is 45 days after thedate on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft."
+<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239, §141(a), inserted at end "Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft."
 
 Subsec. (h). Pub. L. 112–239, §142(a), added subsec. (h).
 
@@ -140,23 +140,23 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Requirements for Transferring Aircraft Within the Air Force Inventory
 
-Pub. L. 111–383, div. A, title III, §345, Jan. 7, 2011, 124 Stat. 4191, provided that:
+Pub. L. 111–383, div. A, title III, §345, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 114–92, div. A, title X, §1088, Nov. 25, 2015, 129 Stat. 1014, provided that:
 
 "(a)
 
-Requirements.—In proposing the transfer of ownership of any aircraft from ownership by a reserve component of the Air Force to ownership by a regular component of the Air Force, including such a transfer to be made on a temporary basis, the Secretary of the Air Force shall ensure that a written agreement regarding such transfer of ownership has been entered into between the Director of the Air National Guard, the Commander of the Air Force Reserve Command, and the Chief of Staff of the Air Force. Any such agreement shall specify each of the following:
+Requirements.—Before making an aircraft transfer described in subsection (c), the Secretary of the Air Force shall ensure that a written agreement regarding such transfer has been entered into between the Chief of Staff of the Air Force and the Director of the Air National Guard or the Chief of Air Force Reserve. Any such agreement shall specify each of the following:
 
 &emsp;"(1) The number of and type of aircraft to be transferred.
 
 &emsp;"(2) In the case of any aircraft transferred on a temporary basis—
 
-&emsp;&emsp;"(A) the schedule under which the aircraft will be returned to the ownership of the reserve component;
+&emsp;&emsp;"(A) the schedule under which the aircraft will be returned to the reserve component;
 
 &emsp;&emsp;"(B) a description of the condition, including the estimated remaining service life, in which any such aircraft will be returned to the reserve component; and
 
-&emsp;&emsp;"(C) a description of the allocation of resources, including the designation of responsibility for funding aircraft operation and maintenance and a detailed description of budgetary responsibilities, for the period for which the ownership of the aircraft is transferred to the regular component.
+&emsp;&emsp;"(C) a description of the allocation of resources, including the designation of responsibility for funding aircraft operation and maintenance and a detailed description of budgetary responsibilities, for the period for which the aircraft is transferred to the regular component.
 
-&emsp;"(3) The designation of responsibility for funding depot maintenance requirements or modifications to the aircraft generated as a result of the transfer, including any such requirements and modifications required during the period for which the ownership of the aircraft is transferred to the regular component.
+&emsp;"(3) The designation of responsibility for funding maintenance requirements or modifications to the aircraft generated as a result of the transfer, including any such requirements and modifications required during the period for which the aircraft is transferred to the regular component.
 
 &emsp;"(4) Any location from which the aircraft will be transferred.
 
@@ -164,11 +164,41 @@ Requirements.—In proposing the transfer of ownership of any aircraft from owne
 
 &emsp;"(6) The effects on the skills and proficiencies of the reserve component personnel affected by the transfer.
 
-&emsp;"(7) Any other items the Director of the Air National Guard or the Commander of the Air Force Reserve Command determines are necessary in order to execute such a transfer.
+&emsp;"(7) Any other items the Director of the Air National Guard or the Chief of Air Force Reserve determines are necessary in order to execute such a transfer.
 
 "(b)
 
-Submittal of Agreements to Congress.—The Secretary of the Air Force may not take any action to transfer the ownership of an aircraft as described in subsection (a) until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to such subsection regarding the transfer of ownership of the aircraft."
+Submittal of Agreements to the Department of Defense and Congress.—The Secretary of the Air Force may not take any action to transfer an aircraft until the Secretary—
+
+&emsp;"(1) ensures that the Air Force has complied with Department of Defense regulations applicable to the transfer; and
+
+&emsp;"(2) for a transfer described in subsection (c)(1), submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to subsection (a) regarding the transfer of the aircraft.
+
+"(c)
+
+Covered Aircraft Transfers.—
+
+&emsp;"(1)
+
+Covered transfers.—An aircraft transfer described in this subsection is the transfer (other than as specified in paragraph (2)) from a reserve component of the Air Force to the regular component of the Air Force of—
+
+&emsp;&emsp;"(A) the permanent assignment of an aircraft that terminates a reserve component's equitable interest in the aircraft; or
+
+&emsp;&emsp;"(B) possession of an aircraft for a period in excess of 90 days.
+
+&emsp;"(2)
+
+Exceptions.—Paragraph (1) does not apply to the following:
+
+&emsp;&emsp;"(A) A routine temporary transfer of possession of an aircraft from a reserve component that is made solely for the benefit of the reserve component for the purpose of maintenance, upgrade, conversion, modification, or testing and evaluation.
+
+&emsp;&emsp;"(B) A routine permanent transfer of assignment of an aircraft that terminates a reserve component's equitable interest in the aircraft if notice of the transfer has previously been provided to the congressional defense committees and the transfer has been approved by the Secretary of Defense pursuant to Department of Defense regulations.
+
+&emsp;&emsp;"(C) A transfer described in paragraph (1)(A) when there is a reciprocal permanent assignment of an aircraft from the regular component of the Air Force to the reserve component that does not degrade the capability of, or reduce the total number of, aircraft assigned to the reserve component.
+
+"(d)
+
+Return of Aircraft After Routine Temporary Transfer.—In the case of an aircraft transferred from a reserve component of the Air Force to the regular component of the Air Force for which an agreement under subsection (a) is not required by reason of subsection (c)(2)(A), possession of the aircraft shall be transferred back to the reserve component upon completion of the work described in subsection (c)(2)(A)."
 
 #### Consolidation of Air Force and Air National Guard Aircraft Maintenance
 

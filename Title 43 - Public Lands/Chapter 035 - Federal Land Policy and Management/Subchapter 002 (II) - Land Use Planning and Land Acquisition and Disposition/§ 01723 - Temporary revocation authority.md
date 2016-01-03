@@ -2,7 +2,7 @@
 
 #### (a) Exchange involved
 
-When the sole impediment to consummation of an exchange of lands or interests therein\(hereinafter referred to as an exchange) determined to be in the public interest, is the inability of the Secretary of the Interior to revoke, modify, or terminate part or all of a withdrawal or classification because of the order (or subsequent modification or continuance thereof) of the United States District Court for the District of Columbia dated February 10, 1986, in Civil Action No. 85–2238 (National Wildlife Federation v. Robert E. Burford, et al.), the Secretary of the Interior is hereby authorized, notwithstanding such order (or subsequent modification or continuance thereof), to use the authority contained herein, in lieu of other authority provided in this Act including section 1714 of this title, to revoke, modify, or terminate in whole or in part, withdrawals or classifications to the extent deemed necessary by the Secretary to enable the United States to transfer land or interests therein out of Federal ownership pursuant to an exchange.
+When the sole impediment to consummation of an exchange of lands or interests therein (hereinafter referred to as an exchange) determined to be in the public interest, is the inability of the Secretary of the Interior to revoke, modify, or terminate part or all of a withdrawal or classification because of the order (or subsequent modification or continuance thereof) of the United States District Court for the District of Columbia dated February 10, 1986, in Civil Action No. 85–2238 (National Wildlife Federation v. Robert E. Burford, et al.), the Secretary of the Interior is hereby authorized, notwithstanding such order (or subsequent modification or continuance thereof), to use the authority contained herein, in lieu of other authority provided in this Act including section 1714 of this title, to revoke, modify, or terminate in whole or in part, withdrawals or classifications to the extent deemed necessary by the Secretary to enable the United States to transfer land or interests therein out of Federal ownership pursuant to an exchange.
 
 #### (b) Requirements
 
@@ -28,21 +28,21 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 #### (c) Limitations
 
-(1) Nothing in this section shall be construed as affirming or denying any of the allegations made by any party in the civil action specified in subsection (a) of this section, or as constituting an expression of congressional opinion with respect to the merits of any allegation, contention, or argument made or issue raised by any party in such action, or as expanding or diminishing the jurisdiction of the United States District Court for the District of Columbia.
+(1) Nothing in this section shall be construed as affirming or denying any of the allegations made by any party in the civil action specified in subsection (a), or as constituting an expression of congressional opinion with respect to the merits of any allegation, contention, or argument made or issue raised by any party in such action, or as expanding or diminishing the jurisdiction of the United States District Court for the District of Columbia.
 
 (2) Except as specifically provided in this section, nothing in this section shall be construed as modifying, terminating, revoking, or otherwise affecting any provision of law applicable to land exchanges, withdrawals, or classifications.
 
-(3) The availability or exercise of the authority granted in subsection (a) of this section may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
+(3) The availability or exercise of the authority granted in subsection (a) may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
 
 #### (d) Termination
 
-The authority specified in subsection (a) of this section shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) of this section is no longer in effect, whichever occurs first.
+The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
 
 (Pub. L. 94–579, title II, §215, as added Pub. L. 100–409, §10, Aug. 20, 1988, 102 Stat. 1092; amended Pub. L. 103–437, §16(d)(2), Nov. 2, 1994, 108 Stat. 4595.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended,known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

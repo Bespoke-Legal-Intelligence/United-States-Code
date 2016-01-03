@@ -24,7 +24,7 @@ In general.—The maximum amount of outstanding leverage made available to any o
 
 &emsp;&emsp;(B)
 
-Multiple licenses under common control.—The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
+Multiple licenses under common control.—The maximum amount of outstanding leverage made available to two or more companies licensed under section 681(c) of this title that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $350,000,000.
 
 &emsp;&emsp;(C)
 
@@ -158,7 +158,7 @@ In order to encourage small business investment companies to provide equity capi
 
 The computation of amounts due the Administration under participating securities shall be subject to the following terms and conditions:
 
-&emsp;(1) The formula in subsection (g)(11) of this section shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
+&emsp;(1) The formula in subsection (g)(11) shall be computed annually and the Administration shall receive distributions of its profit participation at the same time as other investors in the company.
 
 &emsp;(2) The formula shall not be modified due to an increase in the private capital unless the increase is provided for in a proposed business plan submitted to and approved by the Administration.
 
@@ -166,7 +166,7 @@ The computation of amounts due the Administration under participating securities
 
 &emsp;(4) If the company prepays or repays the participating securities, the Administration shall receive the requisite participation upon the distribution of profits due to any investments held by the company on the date of the repayment or prepayment.
 
-&emsp;(5) If a company is licensed on or before March 31, 1993, it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: <i>Provided</i>, That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6) of this section, it may not elect to exclude profits on existing investments under this paragraph.
+&emsp;(5) If a company is licensed on or before March 31, 1993, it may elect to exclude from profit participation all investments held on that date and in such case the Administration shall determine the amount of the future expenses attributable to such prior investment: <i>Provided</i>, That if the company issues participating securities to refinance debentures as authorized in subsection (g)(6), it may not elect to exclude profits on existing investments under this paragraph.
 
 #### (i) Leverage fee
 
@@ -180,13 +180,15 @@ All fees, interest, and profits received and retained by the Administration unde
 
 In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
 
-(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, §505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157.)
+(Pub. L. 85–699, title III, §303, Aug. 21, 1958, 72 Stat. 692; Pub. L. 87–341, §4, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §3, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §205, Oct. 11, 1967, 81 Stat. 270; Pub. L. 92–213, §10, Dec. 22, 1971, 85 Stat. 776; Pub. L. 92–595, §2(c), (d), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §104, June 4, 1976, 90 Stat. 665; Pub. L. 95–507, title I, §101, Oct. 24, 1978, 92 Stat. 1757; Pub. L. 101–162, title V, (4), Nov. 21, 1989, 103 Stat. 1025; Pub. L. 101–574, title II, §215(a)(1), (b), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 102–366, title IV, §§402, 403, 412, 413, Sept. 4, 1992, 106 Stat. 1008, 1009, 1018; Pub. L. 103–403, title II, §215, Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–208, div. D, title II, §208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, 110 Stat. 3009–743, 3009–744, 3009–746; Pub. L. 105–135, title II, §215(b)–(d), Dec. 2, 1997, 111 Stat. 2602, 2603; Pub. L. 106–9, §2(d)(1), Apr. 5, 1999, 113 Stat. 18; Pub. L. 106–554, §1(a)(8) \[§1(d)\], §1(a)(9) \[title IV, §§404, 405\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–690, 2763A–691; Pub. L. 107–100, §2(a), Dec. 21, 2001, 115 Stat. 966; Pub. L. 108–84, §117, Sept. 30, 2003, 117 Stat. 1044; Pub. L. 108–172, §1(b), Dec. 6, 2003, 117 Stat. 2065; Pub. L. 108–447, div. K, title II, §201, Dec. 8, 2004, 118 Stat. 3465; Pub. L. 110–140, title XII, §§1205(a), 1206, Dec. 19, 2007, 121 Stat. 1773; Pub. L. 111–5, div. A, title V, §505(a), (c), Feb. 17, 2009, 123 Stat. 156, 157; Pub. L. 114–113, div. E, title V, §521(b), Dec. 18, 2015, 129 Stat. 2464.)
 
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (b), (e), (g)(2), (4), (j), and (k), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B). Pub. L. 114–113 substituted "$350,000,000" for "$225,000,000".
 
 <b>2009</b>—Subsec. (b)(2)(A), (B). Pub. L. 111–5, §505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
 
@@ -294,7 +296,7 @@ Subsec. (d). Pub. L. 101–574, §215(b)(2), struck out after second sentence "T
 
 Subsecs. (d) to (f). Pub. L. 101–162 added subsecs. (d) to (f).
 
-<b>1978</b>—Subsec. (c)(1). Pub. L. 95–507 increased the amount of preferred stock small business investmentcompanies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies' outstanding equity investments and inserted definition of "equity securities".
+<b>1978</b>—Subsec. (c)(1). Pub. L. 95–507 increased the amount of preferred stock small business investment companies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies' outstanding equity investments and inserted definition of "equity securities".
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–305, §104(a), substituted "300" for "200" and "$35,000,000" for "$15,000,000".
 

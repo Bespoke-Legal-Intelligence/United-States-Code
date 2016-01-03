@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) has been provisionally accepted for that duty; or
 
-&emsp;&emsp;(B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), for service in that armed force.
+&emsp;&emsp;(B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.),<sup>1</sup> for service in that armed force.
 
 (b) This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
@@ -58,7 +58,7 @@ In subsection (a), the word "receiving" is inserted for clarity. Clause (1) is s
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act Jun
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments made by this section \[amending this section and sections 1478 and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
+Pub. L. 112–81, div. A, title VI, §651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: "The amendments made by this section \[amending this section and sections 1478and 1481 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\], and shall apply with respect to deaths that occur on or after that date."
 
 #### Effective Date of 1986 Amendment
 
@@ -196,7 +196,7 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 
 &emsp;&emsp;"(A) provide for the provision of such information (in person and otherwise) by qualified Department of Defense personnel;
 
-&emsp;&emsp;"(B) ensure that information is provided as soon as possible after death and that, when requested,updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available;
+&emsp;&emsp;"(B) ensure that information is provided as soon as possible after death and that, when requested, updates are provided, in accordance with the procedures established under this paragraph, in a timely manner when new information becomes available;
 
 &emsp;&emsp;"(C) ensure that—
 
@@ -231,4 +231,6 @@ Report required.—Not later than July 1, 2006, the Comptroller General shall su
 &emsp;"(2)
 
 Assessment.—The report shall include the assessment of the Comptroller General of the adequacy of the current policies and procedures of, and funding for, the casualty assistance programs covered by the report to achieve their intended purposes."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

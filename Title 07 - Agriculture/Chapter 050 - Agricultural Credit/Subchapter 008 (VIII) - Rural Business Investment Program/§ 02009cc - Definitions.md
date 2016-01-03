@@ -56,7 +56,7 @@ In this subchapter:
 
 #### (10) Participation agreement
 
-&emsp;The term "participation agreement" means an agreement, between the Secretary and a rural business investment company granted final approval under section 2009cc–3(e) of this title, that requires the rural business investment company to make investments in smaller enterprises in rural areas.
+&emsp;The term "participation agreement" means an agreement, between the Secretary and arural business investment company granted final approval under section 2009cc–3(e) of this title, that requires the rural business investment company to make investments in smaller enterprises in rural areas.
 
 #### (11) Private capital
 
@@ -134,7 +134,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) the net income (so determined) less any deduction for State (and local) income taxes calculated under subclause (I), multiplied by the marginal Federal income tax rate that would have applied if the rural business concern were a corporation; or
 
-&emsp;&emsp;(B) satisfies the standard industrial classification size standards established by the Administrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
+&emsp;&emsp;(B) satisfies the standard industrial classification size standards established by theAdministrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
 
 (Pub. L. 87–128, title III, §384A, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 388.)
 

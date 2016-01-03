@@ -10,7 +10,7 @@ The Secretary is authorized to establish and maintain at Independence National H
 
 #### (c) Public materials
 
-In coordination with the National Constitution Center, the Secretary shall develop and make available to the public interpretive and educational materials related to sites within the National Park System as referred to in subsection (a) of this section.
+In coordination with the National Constitution Center, the Secretary shall develop and make available to the public interpretive and educational materials related to sites within the National Park System as referred to in subsection (a).
 
 #### (d) Cooperative agreements
 
@@ -22,7 +22,7 @@ The Secretary shall contract with the National Constitution Center and other qua
 
 #### (f) Maintenance of historic integrity
 
-Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of units of the National Park System, including compliance with section 306108 of title 54.
+Nothing in this section may be construed to alter or waive the requirement that the Secretary maintain the historic integrity of unitsof the National Park System, including compliance with section 306108 of title 54.
 
 (Pub. L. 100–433, §5, Sept. 16, 1988, 102 Stat. 1641.)
 

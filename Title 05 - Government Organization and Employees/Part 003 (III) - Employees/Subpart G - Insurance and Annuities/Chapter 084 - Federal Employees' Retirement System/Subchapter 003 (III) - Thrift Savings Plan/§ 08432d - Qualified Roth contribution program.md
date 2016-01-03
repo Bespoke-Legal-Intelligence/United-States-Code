@@ -22,7 +22,7 @@ Required Provisions.—The regulations under subsection (b) shall include—
 
 &emsp;&emsp;(B) by any individual, not described in subparagraph (A), who is otherwise eligible to make elective deferrals under the Thrift Savings Plan;
 
-&emsp;(2) any provisions which may, as a result of enactment of this section, be necessary in order to clarify the meaning of any reference to an "account" made in section 8432(f), 8433, 8434(d), 8435, 8437, or any other provision of law; and
+&emsp;(2) any provisions which may, as a result of enactment of this section, be necessary in order to clarify the meaning of any reference to an "account" made in section 8432(f), 8433,8434(d), 8435, 8437, or any other provision of law; and
 
 &emsp;(3) any other provisions which may be necessary to carry out this section.
 

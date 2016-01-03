@@ -20,7 +20,7 @@ Costs and Expenses.—(1) A student from a military academy of a foreign country
 
 (d)
 
-Application of Other Laws.—Subsections (c) and (d) of section 9344 of this title shall apply with respect to a student enrolled at a military academy of a foreign country while attending the Air Force Academy under the exchange program.
+Application of Other Laws.—Subsections (c) and (d) of section 9344 of this title shall applywith respect to a student enrolled at a military academy of a foreign country while attending the Air Force Academy under the exchange program.
 
 (e)
 

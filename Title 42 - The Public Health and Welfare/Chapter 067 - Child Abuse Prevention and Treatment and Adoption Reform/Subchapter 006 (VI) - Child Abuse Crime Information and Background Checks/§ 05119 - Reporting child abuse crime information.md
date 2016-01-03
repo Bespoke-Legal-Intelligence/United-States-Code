@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In each State, an authorized criminal justice agency of the State shall report child abuse crime information to, or index child abuse crime information in, the national criminal history background check system. A criminal justiceagency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.
+In each State, an authorized criminal justice agency of the State shall report child abuse crime information to, or index child abuse crime information in, the national criminal history background check system. A criminal justice agency may satisfy the requirement of this subsection by reporting or indexing all felony and serious misdemeanor arrests and dispositions.
 
 #### (b) Provision of State child abuse crime records through national criminal history background check system
 

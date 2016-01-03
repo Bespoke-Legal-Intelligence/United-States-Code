@@ -86,7 +86,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;(ii) permit effective enforcement of the conservation purposes of such easements;
 
-&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary, that may be used only if the terms of the easement are not enforced by the holder of the easement;
+&emsp;&emsp;&emsp;(iii) include a right of enforcement for the Secretary, that may be used only if theterms of the easement are not enforced by the holder of the easement;
 
 &emsp;&emsp;&emsp;(iv) subject the land in which an interest is purchased to an agricultural land easement plan that—
 
@@ -94,7 +94,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;&emsp;(II) requires the management of grasslands according to a grasslands management plan; and
 
-&emsp;&emsp;&emsp;&emsp;(III) includes a conservation plan, where appropriate, and requires, at theoption of the Secretary, the conversion of highly erodible cropland to less intensive uses; and
+&emsp;&emsp;&emsp;&emsp;(III) includes a conservation plan, where appropriate, and requires, at the option of the Secretary, the conversion of highly erodible cropland to less intensive uses; and
 
 &emsp;&emsp;&emsp;(v) include a limit on the impervious surfaces to be allowed that is consistent with the agricultural activities to be conducted.
 

@@ -96,7 +96,7 @@ Obligating amounts for recycling programs.—In addition to amounts appropriated
 
 (f)
 
-Additional Authority Related to Energy Management and Recycling Programs.—The Fund may receive, in the form of rebates, cash incentives or otherwise, any revenues, collections, or other income related to energy savings or recycling efforts. Amounts received under this subsection remain in the Fund until expended and remain available for federal energy management improvement programs, recycling programs, or employee programs that are authorized by law or that the Administrator considers appropriate. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in activities of the Fund as necessary.
+Additional Authority Related to Energy Management and Recycling Programs.—The Fund may receive, in the form of rebates, cash incentives or otherwise, any revenues, collections, or other income related to energy savingsor recycling efforts. Amounts received under this subsection remain in the Fund until expended and remain available for federal energy management improvement programs, recycling programs, or employee programs that are authorized by law or that the Administrator considers appropriate. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in activities of the Fund as necessary.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1118.)
 

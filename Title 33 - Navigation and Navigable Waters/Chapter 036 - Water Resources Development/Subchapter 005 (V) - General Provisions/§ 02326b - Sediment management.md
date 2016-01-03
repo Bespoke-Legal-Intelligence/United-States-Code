@@ -40,7 +40,7 @@ In developing strategies under subsection (a) of this section, the Secretary sha
 
 #### (3) Report
 
-&emsp;Not later than December 31, 2003, the Secretary shall transmit to Congress a report on the Secretary's activities under this subsection.
+&emsp;Not later than December 31, 2003, the Secretary shall transmit to Congress a report onthe Secretary's activities under this subsection.
 
 #### (f) "Great Lakes States" defined
 

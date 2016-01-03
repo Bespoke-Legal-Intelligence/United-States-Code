@@ -8,7 +8,7 @@ It is unlawful for any person subject to the jurisdiction of the United Statesâ€
 
 &emsp;(3) to use a high seas fishing vessel in violation of the conditions or restrictions of a permit issued under section 5503 of this title;
 
-&emsp;(4) to falsify any information required to be reported, communicated, or recorded pursuant to this chapter or any regulation issued under this chapter, or to fail to submit in a timelyfashion any required information, or to fail to report to the Secretary immediately any change in circumstances that has the effect of rendering any such information false, incomplete, or misleading;
+&emsp;(4) to falsify any information required to be reported, communicated, or recorded pursuant to this chapter or any regulation issued under this chapter, or to fail to submit in a timely fashion any required information, or to fail to report to the Secretary immediately any change in circumstances that has the effect of rendering any such information false, incomplete, or misleading;
 
 &emsp;(5) to refuse to permit an authorized officer to board a high seas fishing vessel subject to such person's control for purposes of conducting any search or inspection in connection with the enforcement of this chapter or any regulation issued under this chapter;
 

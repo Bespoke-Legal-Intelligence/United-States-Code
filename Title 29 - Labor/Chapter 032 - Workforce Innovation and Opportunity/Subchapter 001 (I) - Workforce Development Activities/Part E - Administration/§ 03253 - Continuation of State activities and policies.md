@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may not de
 
 &emsp;(4) the State proposes to carry out or carries out a State procedure through which the persons responsible for selecting eligible providers for purposes of part B are permitted to determine that a provider shall not be selected to provide both intake services under section 3174(c)(2) of this title and training services under section 3174(c)(3) of this title, under prior consistent State laws;
 
-&emsp;(5) the State proposes to designate or designates a State board, or proposes to assign or assigns functions and roles of the State board (including determining the time periods for development and submission of a State plan required under section 3112 or 3113 of this title), for purposes of part A in accordance with prior consistent State laws; or
+&emsp;(5) the State proposes to designate or designates a State board, or proposes to assign or assigns functions and roles of the State board (including determining the time periods fordevelopment and submission of a State plan required under section 3112 or 3113 of this title), for purposes of part A in accordance with prior consistent State laws; or
 
 &emsp;(6) a local board in the State proposes to use or carry out, uses, or carries out a local plan (including assigning functions and roles of the local board) for purposes of part A in accordance with the authorities and requirements applicable to local plans and private industry councils under prior consistent State laws.
 
@@ -34,9 +34,9 @@ In this section:
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of this title and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of this title, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

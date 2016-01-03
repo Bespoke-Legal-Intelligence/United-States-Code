@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term "program" means the Senior Reserve Officers' Training Corps of an armed force.
 
-&emsp;(2) The term "member of the program" means a student who is enrolled in the SeniorReserve Officers' Training Corps of an armed force.
+&emsp;(2) The term "member of the program" means a student who is enrolled in the Senior Reserve Officers' Training Corps of an armed force.
 
 &emsp;(3) The term "advanced training" means the training and instruction offered in the Senior Reserve Officers' Training Corps to students enrolled in an advanced education program beyond the baccalaureate degree level or to students in the third and fourth years of a four-year Senior Reserve Officers' Training Corps course, or the equivalent period of training in an approved two-year Senior Reserve Officers' Training Corps course (except that, in the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers' Training Corps course, such term includes a fifth academic year or a combination of a part of a fifth academic year and summer sessions).
 
@@ -25,6 +25,10 @@ Par. (2). Pub. L. 98–94, §1268(11)(D), (E), substituted "Member" for "member"
 Par. (3). Pub. L. 98–94, §1268(11)(F), substituted "Advanced" for "advanced".
 
 Pub. L. 98–94, §1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
+
+#### Sexual Assault Prevention and Response Training for Administrators and Instructors of Senior Reserve Officers' Training Corps
+
+Pub. L. 114–92, div. A, title V, §540, Nov. 25, 2015, 129 Stat. 818, provided that: "The Secretary of a military department shall ensure that the commander of each unit of the Senior Reserve Officers' Training Corps and all Professors of Military Science, senior military instructors, and civilian employees detailed, assigned, or employed as administrators and instructors of the Senior Reserve Officers' Training Corps receive regular sexual assault prevention and response training and education."
 
 #### Promotion of Foreign Language Skills Among Members of the Reserve Officers' Training Corps
 

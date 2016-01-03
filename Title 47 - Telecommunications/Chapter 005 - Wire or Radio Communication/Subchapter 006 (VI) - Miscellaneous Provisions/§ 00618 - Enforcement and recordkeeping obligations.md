@@ -22,7 +22,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 &emsp;&emsp;The Commission shall investigate the allegations in an informal complaint and, within 180 days after the date on which such complaint was filed with the Commission, issue an order concluding the investigation, unless such complaint is resolved before such time. The order shall include a determination whether any violation occurred.
 
-&emsp;&emsp;&emsp;(i) If the Commission determines that a violation has occurred, the Commission may, in the order issued under this subparagraph or in a subsequent order, direct the manufacturer or service provider to bring the service, or in the case of a manufacturer, the next generation of the equipment or device, into compliance with requirements of those sections within a reasonable time established by the Commission in its order.
+&emsp;&emsp;&emsp;(i) If the Commission determines that a violation has occurred, the Commissionmay, in the order issued under this subparagraph or in a subsequent order, direct the manufacturer or service provider to bring the service, or in the case of a manufacturer, the next generation of the equipment or device, into compliance with requirements of those sections within a reasonable time established by the Commission in its order.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -52,7 +52,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 #### (6) Failure to act
 
-&emsp;If the Commission fails to carry out any of its responsibilities to act upon a complaint in the manner prescribed in paragraph (3), the person that filed such complaint may bring an action in the nature of mandamus in the United States Court of Appeals for the Districtof Columbia to compel the Commission to carry out any such responsibility.
+&emsp;If the Commission fails to carry out any of its responsibilities to act upon a complaint in the manner prescribed in paragraph (3), the person that filed such complaint may bring an action in the nature of mandamus in the United States Court of Appeals for the District of Columbia to compel the Commission to carry out any such responsibility.
 
 #### (7) Commission jurisdiction
 
@@ -92,7 +92,7 @@ No violation.—If a determination is made that a violation has not occurred, th
 
 &emsp;The Comptroller General shall conduct a study to consider and evaluate the following:
 
-&emsp;&emsp;(A) The Commission's compliance with the requirements of this section, including the Commission's level of compliance with the deadlines established under and pursuant to this section and deadlines for acting on complaints pursuant to subsection (a).
+&emsp;&emsp;(A) The Commission's compliance with the requirements of this section, including the Commission's level of compliance with thedeadlines established under and pursuant to this section and deadlines for acting on complaints pursuant to subsection (a).
 
 &emsp;&emsp;(B) Whether the enforcement actions taken by the Commission pursuant to this section have been appropriate and effective in ensuring compliance with this section.
 

@@ -38,7 +38,7 @@
 
 (2)(A) In the case of a person who as a member of the Ready Reserve serves on active duty or performs active service described in subparagraph (B) after January 28, 2008, the eligibility age for purposes of subsection (a)(1) shall be reduced, subject to subparagraph (C), below 60 years of age by three months for each aggregate of 90 days on which such person serves on such active duty or performs such active service in any fiscal year after January 28, 2008, or in any two consecutive fiscal years after September 30, 2014. A day of duty may be included in only one aggregate of 90 days for purposes of this subparagraph.
 
-(B)(i) Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) or under section 12301(d) of this title. Such service does not include service on active duty pursuant to a call or order to active duty under section 12310 of this title.
+(B)(i) Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) or under section 12301(d) of this title. Such servicedoes not include service on active duty pursuant to a call or order to active duty under section 12310 of this title.
 
 (ii) Active service described in this subparagraph is also service under a call to active service authorized by the President or the Secretary of Defense under section 502(f) of title 32 for purposes of responding to a national emergency declared by the President or supported by Federal funds.
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as f
 
 <b>1994</b>—Pub. L. 103–337, §1662(j)(1), renumbered section 1331 of this title as this section and amended text generally, making changes in style and in references to other sections.
 
-Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: "In the case of a person whocompletes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
+Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: "In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on the date of the enactment of this subsection and ending on September 30, 1999, the provisions of subsection (a)(3) shall be applied by substituting 'the last six years' for 'the last eight years'."
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–189 inserted "and the Supplemental Survivor Benefit Plan established under subchapter III of that chapter," after "this title".
 

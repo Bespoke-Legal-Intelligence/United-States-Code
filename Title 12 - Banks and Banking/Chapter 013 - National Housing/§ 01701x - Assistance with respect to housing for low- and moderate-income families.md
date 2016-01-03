@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide, or contract with public or private organizations to provide, information, advice, and technical assistance, including but not limited to—
 
-&emsp;(i) the assembly, correlation, publication, and dissemination of information with respectto the construction, rehabilitation, and operation of low- and moderate-income housing;
+&emsp;(i) the assembly, correlation, publication, and dissemination of information with respect to the construction, rehabilitation, and operation of low- and moderate-income housing;
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
@@ -130,7 +130,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;(C) the homeowner is, or is expected to be, unable to make payments, correct a home loan delinquency within a reasonable time, or resume full home loan payments due to a reduction in the income of the homeowner because of—
 
-&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, the self-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
+&emsp;&emsp;&emsp;(i) an involuntary loss of, or reduction in, the employment of the homeowner, theself-employment of the homeowner, or income from the pursuit of the occupation of the homeowner;
 
 &emsp;&emsp;&emsp;(ii) any similar loss or reduction experienced by any person who contributes to the income of the homeowner;
 
@@ -166,7 +166,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;&emsp;(III) notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i);
 
-&emsp;&emsp;&emsp;&emsp;(IV) notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
+&emsp;&emsp;&emsp;&emsp;(IV) notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.) \[now 50 U.S.C. 3901 et seq.\], including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance; and
 
 &emsp;&emsp;&emsp;&emsp;(V) notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (g)(3).
 
@@ -220,7 +220,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (8) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D).Any amount appropriated under this subsection shall remain available until expended.
+&emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
 
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
@@ -364,7 +364,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;(iii) is a single parent who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse while married, meets the requirements of clause (i).
 
-&emsp;&emsp;(I) The term "home" includes any dwelling or dwelling unit eligible for a qualifiedmortgage, and includes a unit in a condominium project, a membership interest and occupancy agreement in a cooperative housing project, and a manufactured home and the lot on which the home is situated.
+&emsp;&emsp;(I) The term "home" includes any dwelling or dwelling unit eligible for a qualified mortgage, and includes a unit in a condominium project, a membership interest and occupancy agreement in a cooperative housing project, and a manufactured home and the lot on which the home is situated.
 
 &emsp;&emsp;(J) The term "metropolitan area" means a standard metropolitan statistical area as designated by the Director of the Office of Management and Budget.
 
@@ -440,7 +440,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (B) Selection
 
-&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph (A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
+&emsp;&emsp;The Secretary shall provide for entities meeting the requirements of subparagraph\(A) to submit applications to provide the training and certification program under this subsection. The Secretary shall select an application based on the ability of the entity to—
 
 &emsp;&emsp;&emsp;(i) establish the program as soon as possible on a national basis, but not later than the date under paragraph (6);
 
@@ -450,7 +450,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (3) Training
 
-&emsp;The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepareindividuals for successful completion of the examination for certification under subsection (e)(2). The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
+&emsp;The Secretary shall require that training of counselors under the program under this subsection be designed and coordinated to prepare individuals for successful completion of the examination for certification under subsection (e)(2). The Secretary, in consultation with the entity selected under paragraph (2)(B), shall establish the curriculum and standards for training counselors under the program.
 
 #### (4) Certification
 
@@ -680,7 +680,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) require any organization or entity, as a condition of receipt of any covered assistance, to agree to comply with such requirements regarding covered assistance as the Secretary shall establish, which shall include—
 
-&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organization or entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
+&emsp;&emsp;&emsp;(i) appropriate periodic financial and grant activity reporting, record retention, and audit requirements for the duration of the covered assistance to the organizationor entity to ensure compliance with the limitations and requirements of this section, the regulations under this section, and any requirements or conditions under which such amounts were provided; and
 
 &emsp;&emsp;&emsp;(ii) any other requirements that the Secretary determines are necessary to ensure appropriate administration and compliance.
 
@@ -688,7 +688,7 @@ For purposes of this section:
 
 &emsp;If any organization or entity that receives any covered assistance is determined by the Secretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
 
-&emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of suchmisuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
+&emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
 
 &emsp;&emsp;(B) such organization or entity shall be ineligible, at any time after such determination, to apply for or receive any further covered assistance.
 
@@ -710,7 +710,7 @@ Section 152 of the Housing and Community Development Act of 1992, referred to in
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (g)(1)(B)(ii), (C)(ii), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 

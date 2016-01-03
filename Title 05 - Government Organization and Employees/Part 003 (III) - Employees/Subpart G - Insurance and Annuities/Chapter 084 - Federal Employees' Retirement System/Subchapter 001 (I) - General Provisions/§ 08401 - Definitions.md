@@ -84,7 +84,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) the protection of officials of the United States against threats to personal safety; and
 
-&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limitedto young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency;
 
 &emsp;&emsp;(B) an employee of the Department of the Interior or the Department of the Treasury (excluding any employee under subparagraph (A)) who occupies a position that, but for the enactment of the Federal Employees' Retirement System Act of 1986, would be subject to the District of Columbia Police and Firefighters' Retirement System, as determined by the Secretary of the Interior or the Secretary of the Treasury, as appropriate;
 
@@ -110,7 +110,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) amounts deposited by an employee, Member, or survivor under section 8411(f) or 8422(i); and
 
-&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
+&emsp;&emsp;(D) interest on the deductions and deposits which, for any calendar year, shall be equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of theTreasury during such fiscal year under section 8348(c), (d), and (e), as determined by the Secretary (compounded annually);
 
 > &emsp;but does not include interest—
 
@@ -214,7 +214,7 @@ Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is cl
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Employees' Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. For complete classification of thisAct to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees' Retirement System Act of 1986, referred to in par. (17)(B), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
 The Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note under section 8331 of this title.
 
@@ -268,7 +268,7 @@ Par. (32). Pub. L. 101–335 added par. (32).
 
 <b>1988</b>—Par. (11)(A). Pub. L. 100–679 substituted "(J), or (K)" for "or (J)".
 
-Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out "(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)".
+Par. (11)(i)(II). Pub. L. 100–238, §103(d)(2), struck out "(other than an employee of the United States ParkPolice, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)".
 
 Par. (11)(iii). Pub. L. 100–238, §113(b)(1), added cl. (iii).
 
@@ -390,7 +390,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §201\
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: "This Act \[enacting section 8432a of thistitle, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the 'Thrift Savings Plan Technical Amendments Act of 1990'."
+Pub. L. 101–335, §1, July 17, 1990, 104 Stat. 319, provided that: "This Act \[enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title\] may be cited as the 'Thrift Savings Plan Technical Amendments Act of 1990'."
 
 #### Short Title of 1987 Amendment
 

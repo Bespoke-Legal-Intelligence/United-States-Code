@@ -90,25 +90,21 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 #### (2) Eligible career pathway program
 
-&emsp;In this subsection, the term "eligible career pathway program" means a program that—
+&emsp;In this subsection, the term "eligible career pathway program" means a program that combines rigorous and high-quality education, training, and other services that—
 
-&emsp;&emsp;(A) concurrently enrolls participants in connected adult education and eligible postsecondary programs;
+&emsp;&emsp;(A) aligns with the skill needs of industries in the economy of the State or regional economy involved;
 
-&emsp;&emsp;(B) provides counseling and supportive services to identify and attain academic and career goals;
+&emsp;&emsp;(B) prepares an individual to be successful in any of a full range of secondary or postsecondary education options, including apprenticeships registered under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act"; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.) (referred to individually in this chapter and part C of subchapter I of chapter 34 of title 42 as an "apprenticeship", except in section 171); <sup>1</sup>
 
-&emsp;&emsp;(C) provides structured course sequences that—
+&emsp;&emsp;(C) includes counseling to support an individual in achieving the individual's education and career goals;
 
-&emsp;&emsp;&emsp;(i) are articulated and contextualized; and
+&emsp;&emsp;(D) includes, as appropriate, education offered concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster;
 
-&emsp;&emsp;&emsp;(ii) allow students to advance to higher levels of education and employment;
+&emsp;&emsp;(E) organizes education, training, and other services to meet the particular needs of an individual in a manner that accelerates the educational and career advancement of the individual to the extent practicable;
 
-&emsp;&emsp;(D) provides opportunities for acceleration to attain recognized postsecondary credentials, including degrees, industry relevant certifications, and certificates of completion of apprenticeship programs;
+&emsp;&emsp;(F) enables an individual to attain a secondary school diploma or its recognized equivalent, and at least 1 recognized postsecondary credential; and
 
-&emsp;&emsp;(E) is organized to meet the needs of adults;
-
-&emsp;&emsp;(F) is aligned with the education and skill needs of the regional economy; and
-
-&emsp;&emsp;(G) has been developed and implemented in collaboration with partners in business, workforce development, and economic development.
+&emsp;&emsp;(G) helps an individual enter or advance within a specific occupation or occupational cluster.
 
 #### (e) Certification for GSL eligibility
 
@@ -214,11 +210,11 @@ A student shall not be ineligible for assistance under parts B, C, and D of this
 
 #### (n) Data base matching
 
-To enforce the Selective Service registration provisions of section 462(f) of title 50, Appendix, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
+To enforce the Selective Service registration provisions of section 3811(f) of title 50, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
 
 #### (o) Study abroad
 
-Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit or otherwise prohibit access to study abroad programs approved by the home institution at which a student is enrolled. An otherwise eligible student who is engaged in a program of study abroad approved for academic credit by the home institution at which the student is enrolled shall be eligible to receive grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, without regard to whether such study abroad program is required as part of the student's degree program.
+Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit or otherwise prohibit access to study abroad programs approved by the home institution at which a student is enrolled. An otherwise eligible student who is engaged in a program of study abroad approved for academic credit by the home institution at which the student is enrolled shall be eligible to receivegrant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, without regard to whether such study abroad program is required as part of the student's degree program.
 
 #### (p) Verification of social security number
 
@@ -279,7 +275,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;&emsp;(ii) includes two unannounced drug tests;
 
-&emsp;&emsp;(B) the student successfully passes two unannounced drug tests conducted by a drugrehabilitation program that complies with such criteria as the Secretary shall prescribe in regulations for purposes of subparagraph (A)(i); or
+&emsp;&emsp;(B) the student successfully passes two unannounced drug tests conducted by a drug rehabilitation program that complies with such criteria as the Secretary shall prescribe in regulations for purposes of subparagraph (A)(i); or
 
 &emsp;&emsp;(C) the conviction is reversed, set aside, or otherwise rendered nugatory.
 
@@ -329,11 +325,15 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;The Secretary shall prepare and submit to the authorizing committees, in each fiscal year, a report describing the results obtained by the establishment and operation of the data system authorized by this subsection.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736; Pub. L. 109–171, title VIII, §§8020(c), 8021, Feb. 8, 2006, 120 Stat. 178; Pub. L. 109–270, §2(c)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title IV, §485(a), Aug. 14, 2008, 122 Stat. 3287; Pub. L. 111–39, title IV, §407(b)(4), July 1, 2009, 123 Stat. 1950; Pub. L. 112–74, div. F, title III, §309(c)(1), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–235, div. G, title III, §309(a)(1), Dec. 16, 2014, 128 Stat. 2504; Pub. L. 114–113, div. H, title III, §313(1), Dec. 18, 2015, 129 Stat. 2638.)
 
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+
+Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (d)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+
+Section 171, referred to in subsec. (d)(2)(B), may have been intended as a reference to section 171 of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, which is classified to section 3226 of Title 29, Labor. Neither the National Apprenticeship Act nor the Higher Education Act of 1965 contains a section 171.
 
 Subsection (h) of this section, referred to in subsec. (i), was redesignated subsec. (g) of this section by Pub. L. 103–208, §2(h)(25), Dec. 20, 1993, 107 Stat. 2477.
 
@@ -344,6 +344,8 @@ A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–3
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(2). Pub. L. 114–113 amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of "eligible career pathway program".
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, and D of this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law."
 
@@ -357,7 +359,7 @@ Subsec. (f)(1). Pub. L. 111–39, §407(b)(4)(C), amended references in original
 
 Subsec. (h)(2), (3). Pub. L. 111–39, §407(b)(4)(D), substituted "(g)(4)(A)(i)" for "(h)(4)(A)(i)" in par. (2) and "(g)(4)(B)(i)" for "(h)(4)(B)(i)" in par. (3).
 
-Subsec. (n). Pub. L. 111–39, §407(b)(4)(E), substituted "section 462(f) of title 50, Appendix" for "section 1113 of Public Law 97–252".
+Subsec. (n). Pub. L. 111–39, §407(b)(4)(E), substituted "section 3811(f) of title 50" for "section 1113 of Public Law 97–252".
 
 <b>2008</b>—Subsec. (a)(4)(B). Pub. L. 110–315, §485(a)(1)(A), substituted "number;" for "number, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau;".
 
@@ -405,7 +407,7 @@ Subsec. (a)(5). Pub. L. 105–244, §483(a)(2), substituted "a citizen of any on
 
 Subsec. (d). Pub. L. 105–244, §483(b), struck out "either" after "shall meet" in introductory provisions and added par. (3).
 
-Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j) generally. Prior to amendment,text read as follows: "Notwithstanding any other provision of law, a student shall be eligible, if otherwise qualified, for assistance under subparts 1, 3, and 6, and division 1 of subpart 2, of part A of this subchapter, and part C of subchapter I of chapter 34 of title 42, if the student is otherwise qualified and—
+Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, a student shall be eligible, if otherwise qualified, for assistance under subparts 1, 3, and 6, and division 1 of subpart 2, of part A of this subchapter, and part C of subchapter I of chapter 34 of title 42, if the student is otherwise qualified and—
 
 &emsp;"(1) is a citizen of the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau, and attends an institution of higher education in a State or a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau; or
 
@@ -549,7 +551,7 @@ Pub. L. 110–315, title IV, §485(b), Aug. 14, 2008, 122 Stat. 3290, provided t
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -625,11 +627,11 @@ Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended 
 
 #### Denial of Student Assistance to Certain Noncitizens
 
-Pub. L. 99–498, title XIII, §1361, Oct. 17, 1986, 100 Stat. 1588, established in Department of Education the Alien Youth Education Opportunity Panel and provided for Panel's composition, duties, reports, administrative and clerical support, compensation and expenses, and access to information, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1361, Oct. 17, 1986, 100 Stat. 1588, established in Department of Education the Alien Youth Education Opportunity Panel and provided for Panel's composition, duties, reports, administrative and clerical support, compensation and expenses, andaccess to information, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Financial Aid to Students Not Deemed Income or Resources for Purposes of Certain Social Security Act Programs
 
-Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17,1979, 93 Stat. 677, provided that: "For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources."
+Pub. L. 90–575, title V, §507, Oct. 16, 1968, 82 Stat. 1063, as amended by Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677, provided that: "For the purpose of any program assisted under title I, IV, X, XIV, XVI, or XIX of the Social Security Act \[subchapters I, IV, X, XIV, XVI, or XIX of chapter 7 of Title 42, The Public Health and Welfare\], no grant or loan to any undergraduate student for educational purposes made or insured under any program administered by the Secretary of Education shall be considered to be income or resources."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

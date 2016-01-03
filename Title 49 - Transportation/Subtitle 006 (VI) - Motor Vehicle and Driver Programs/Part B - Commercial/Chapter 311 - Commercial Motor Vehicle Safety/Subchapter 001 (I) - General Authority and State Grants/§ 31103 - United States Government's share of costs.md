@@ -8,7 +8,27 @@ Commercial Motor Vehicle Safety Programs and Enforcement.—The Secretary of Tra
 
 Other Activities.—The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–178, title IV, §4003(d), June 9, 1998, 112Stat. 397; Pub. L. 109–59, title IV, §4307(a), Aug. 10, 2005, 119 Stat. 1774; Pub. L. 112–141, div. C, title II, §32933(c), (d), July 6, 2012, 126 Stat. 830.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–178, title IV, §4003(d), June 9, 1998, 112 Stat. 397; Pub. L. 109–59, title IV, §4307(a), Aug. 10, 2005, 119 Stat. 1774; Pub. L. 112–141, div. C, title II, §32933(c), (d), July 6, 2012, 126 Stat. 830; Pub. L. 114–94, div. A, title V, §5101(b), Dec. 4, 2015, 129 Stat. 1523.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–94, div. A, title V, §5101(b), (f), (g), Dec. 4, 2015, 129 Stat. 1523, 1526, provided that, effective Oct. 1, 2016, and subject to a transition provision, this section is amended to read as follows:</i>
+
+#### §31103. Commercial motor vehicle operators grant program
+
+<i>(a)</i>
+
+<i>In General.—The Secretary shall administer a commercial motor vehicle operators grant program funded under section 31104.</i>
+
+<i>(b)</i>
+
+<i>Purpose.—The purpose of the grant program is to train individuals in the safe operation of commercial motor vehicles (as defined in section 31301).</i>
+
+<i>(c)</i>
+
+<i>Veterans.—In administering grants under this section, the Secretary shall award priority to grant applications for programs to train former members of the armed forces (as defined in section 101 of title 10) in the safe operation of such vehicles.</i>
+
+<i>See 2015 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -30,6 +50,8 @@ The word "rules" is omitted as being synonymous with "regulations".
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to United States Government's share of costs incurred by a State.
+
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §32933(c), substituted "section 31102(b)(2)(E)" for "section 31102(b)(1)(E)".
 
 Subsec. (b). Pub. L. 112–141, §32933(d), struck out "authorized by section 31104(f)(2)" after "public education activities".
@@ -37,6 +59,10 @@ Subsec. (b). Pub. L. 112–141, §32933(d), struck out "authorized by section 31
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "31102(b)(1)(E)" for "31102(b)(1)(D)" and inserted before last sentence "Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States."
 
 <b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted "improve commercial motor vehicle safety and" after "implementing programs to", and added subsec. (b).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under section 31102 of this title.
 
 #### Effective Date of 2012 Amendment
 

@@ -4,7 +4,7 @@
 
 (2)(A) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
-(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
+(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additionaltwo months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
 
 (3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
 
@@ -37,7 +37,7 @@
 
 &emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
 
-(4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing <sup>1</sup> rehabilitation program concerned.
+(4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under section 403 of title 37 for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing the rehabilitation program concerned.
 
 (c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
 
@@ -49,7 +49,7 @@
 
 (e) In any case in which a veteran is pursuing a rehabilitation program on a residential basis in a specialized rehabilitation facility, the Secretary may (1) pay to such facility the cost of such veteran's room and board in lieu of payment to such veteran of the subsistence allowance (not including any portion payable for any dependents) payable under subsection (b) of this section, and (2) pay to such veteran that portion of the allowance for dependents payable, as determined by such veteran's dependency status, under subsection (b) of this section for a full-time institutional program.
 
-(f)(1)(A) In any case in which the Secretary determines that a veteran is eligible for and entitled to rehabilitation under this chapter, to the extent that such veteran has remaining eligibility for and entitlement to educational assistance benefits under chapter 30 of this title, such veteran may elect, as part of a vocational rehabilitation program under this chapter, to pursue an approved program of education and receive allowances and other forms of assistance equivalent to those authorized for veterans enrolled under chapter 30 of this title, if the Secretary approves the educational, professional, or vocational objective chosen by such veteran for such program.
+(f)(1)(A) In any case in which the Secretary determines that a veteran is eligible for and entitled to rehabilitation under this chapter, to the extent that such veteran has remaining eligibility for and entitlement to educational assistance benefits under chapter 30 of this title, such veteran may elect, as part of a vocational rehabilitation program under this chapter, to pursue an approved program of education and receiveallowances and other forms of assistance equivalent to those authorized for veterans enrolled under chapter 30 of this title, if the Secretary approves the educational, professional, or vocational objective chosen by such veteran for such program.
 
 (B) In the event that such veteran makes such an election, the terms and conditions applicable to the pursuit of a comparable program of education and the payment of allowances and provision of assistance under chapter 30 of this title for such a comparable program shall be applied to the pursuit of the approved program of education under this chapter.
 
@@ -71,7 +71,7 @@
 
 (i) Payment of a subsistence allowance may be made in advance in accordance with the provisions of section 3680(d) of this title.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, §205(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–154, title VII, §701(b), Aug. 6, 2012, 126 Stat. 1203.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2178, §1508; amended Pub. L. 97–306, title II, §205(a), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–525, title VII, §703(a), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 98–543, title II, §201, Oct. 24, 1984, 98 Stat. 2740; Pub. L. 101–237, title IV, §§402(a), 423(b)(1), Dec. 18, 1989, 103 Stat. 2078, 2092; Pub. L. 102–16, §3(c), Mar. 22, 1991, 105 Stat. 49; renumbered §3108 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §405(a), (b), Oct. 29, 1992, 106 Stat. 4338, 4339; Pub. L. 103–446, title VI, §602(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §101(g), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 109–461, title X, §1002(b), Dec. 22, 2006, 120 Stat. 3465; Pub. L. 111–377, title II, §205(a), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 112–154, title VII, §701(b), Aug. 6, 2012, 126 Stat. 1203; Pub. L. 114–58, title VI, §601(15), Sept. 30, 2015, 129 Stat. 539.)
 
 #### Prior Provisions
 
@@ -80,6 +80,8 @@ Prior section 3108 was renumbered section 5308 of this title.
 Provisions similar to those comprising this section were contained in former section 1504 of this title prior to the general revision of this chapter by Pub. L. 96–466.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4). Pub. L. 114–58 inserted "the" before "rehabilitation program concerned".
 
 <b>2012</b>—Subsec. (a)(2). Pub. L. 112–154 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -117,7 +119,7 @@ Subsec. (i). Pub. L. 102–83, §5(c)(1), substituted "3680(d)" for "1780(d)".
 
 Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator".
 
-Pub. L. 101–237, §402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; in column III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; in column IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
+Pub. L. 101–237, §402(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $310, $233, $155, $271, $310, $310, $233, and $155 to $333, $250, $167, $291, $333, $333, $250, and $167; incolumn III from $384, $288, $193, $327, $384, $384, $288, and $193 to $413, $310, $207, $352, $413, $413, $310, and $207; in column IV from $452, $339, $227, $377, $452, $452, $339, and $227 to $486, $364, $244, $405, $486, $486, $364, and $244; in column V from $33, $25, $17, $24, $33, $33, $25, and $17 to $35, $27, $18, $26, $35, $35, $27, and $18, respectively.
 
 Subsecs. (c)(1) to (f)(1)(A). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
@@ -156,6 +158,4 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 
 Pub. L. 96–466, title I, §101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: "The provisions of section 1508(g)(1) \[now 3108(g)(1)\] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) \[now 5307(c)\] of such title before the date of the enactment of this Act \[Oct. 17, 1980\]."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 

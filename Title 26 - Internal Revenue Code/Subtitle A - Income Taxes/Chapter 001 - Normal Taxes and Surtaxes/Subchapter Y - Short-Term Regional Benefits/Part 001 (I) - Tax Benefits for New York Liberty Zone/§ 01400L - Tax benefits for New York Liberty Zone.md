@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(iii) the original use of which in the New York Liberty Zone commences with the taxpayer after September 10, 2001,
 
-&emsp;&emsp;&emsp;(iv) which is acquired by the taxpayer by purchase (as defined in section 179(d)) after September 10, 2001, but only if no written binding contract for the acquisition was in effect before September 11, 2001, and
+&emsp;&emsp;&emsp;(iv) which is acquired by the taxpayer by purchase (as defined in section 179(d)) afterSeptember 10, 2001, but only if no written binding contract for the acquisition was in effect before September 11, 2001, and
 
 &emsp;&emsp;&emsp;(v) which is placed in service by the taxpayer on or before the termination date.
 
@@ -108,7 +108,7 @@
 
 #### (ii) Alternative depreciation property
 
-&emsp;&emsp;&emsp;The term "qualified New York Liberty Zone property" shall not include any property described in section 168(k)(2)(D)(i).
+&emsp;&emsp;&emsp;The term "qualified New York Liberty Zone property" shall not include any property described in section 168(k)(2)(D)(i).<sup>1</sup>
 
 #### (iii) Qualified New York Liberty Zone leasehold improvement property
 
@@ -116,7 +116,7 @@
 
 #### (iv) Election out
 
-&emsp;&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+&emsp;&emsp;&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) <sup>1</sup> shall apply.
 
 #### (D) Special rules
 
@@ -134,7 +134,7 @@
 
 #### (2) Qualified New York Liberty Zone leasehold improvement property
 
-&emsp;For purposes of this section, the term "qualified New York Liberty Zone leasehold improvement property" means qualified leasehold improvement property (as defined in section 168(k)(3)) if—
+&emsp;For purposes of this section, the term "qualified New York Liberty Zone leasehold improvement property" means qualified leasehold improvement property (as defined in section 168(k)(3) <sup>1</sup>) if—
 
 &emsp;&emsp;(A) such building is located in the New York Liberty Zone,
 
@@ -144,7 +144,7 @@
 
 #### (3) Requirement to use straight line method
 
-&emsp;The applicable depreciation method under section 168 shall be the straight line method inthe case of qualified New York Liberty Zone leasehold improvement property.
+&emsp;The applicable depreciation method under section 168 shall be the straight line method in the case of qualified New York Liberty Zone leasehold improvement property.
 
 #### (4) 9-year recovery period under alternative system
 
@@ -152,7 +152,7 @@
 
 #### (5) Election out
 
-&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) shall apply.
+&emsp;For purposes of this subsection, rules similar to the rules of section 168(k)(2)(D)(iii) <sup>1</sup> shall apply.
 
 #### (d) Tax-exempt bond financing
 
@@ -238,7 +238,7 @@
 
 #### (1) In general
 
-&emsp;With respect to a bond described in paragraph (2) issued as part of an issue 90 percent (95 percent in the case of a bond described in paragraph (2)(C)) or more of the net proceeds\(as defined in section 150(a)(3)) of which were used to finance facilities located within the City of New York, New York (or property which is functionally related and subordinate to facilities located within the City of New York for the furnishing of water), one additional advanced refunding after the date of the enactment of this section and before January 1, 2006, shall be allowed under the applicable rules of section 149(d) if—
+&emsp;With respect to a bond described in paragraph (2) issued as part of an issue 90 percent (95 percent in the case of a bond described in paragraph (2)(C)) or more of the net proceeds (as defined in section 150(a)(3)) of which were used to finance facilities located within the City of New York, New York (or property which is functionally related and subordinate to facilities located within the City of New York for the furnishing of water), one additional advanced refunding after the date of the enactment of this section and before January 1, 2006, shall be allowed under the applicable rules of section 149(d) if—
 
 &emsp;&emsp;(A) the Governor or the Mayor designates the advance refunding bond for purposes of this subsection, and
 
@@ -305,6 +305,10 @@ For purposes of this section, the terms "Governor" and "Mayor" mean the Governor
 (Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337; Pub. L. 113–295, div. A, title I, §125(d)(4), Dec. 19, 2014, 128 Stat. 4017.)
 
 #### References in Text
+
+Section 168(k)(2)(D), referred to in subsecs. (b)(2)(C)(ii), (iv) and (c)(5), was amended generally by Pub. L. 114–113, div. Q, §143(b)(1), Dec. 18, 2015, 129 Stat. 3057, and, as so amended, no longer contains provisions similar to those in former cl. (iii) of section 158(k)(2)(D). Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
+
+Section 168(k)(3), referred to in subsec. (c)(2), was amended generally by Pub. L. 114–113, div. Q, §143(b)(2), Dec. 18, 2015, 129 Stat. 3057. Provisions similar to those contained in former par. (3) of section 168(k) are now contained in par. (6) of section 168(k).
 
 The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
 
@@ -389,4 +393,6 @@ Amendment by section 403(c) of Pub. L. 108–311 effective as if included in the
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable to taxable years ending after May 5, 2003, see section 201(d) of Pub. L. 108–27, set out as a note under section 168 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

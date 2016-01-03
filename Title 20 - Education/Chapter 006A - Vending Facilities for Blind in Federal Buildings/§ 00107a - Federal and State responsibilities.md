@@ -10,7 +10,7 @@ The Secretary of Education shall—
 
 &emsp;(3) Make surveys throughout the United States of industries with a view to obtaining information that will assist blind persons to obtain employment;
 
-&emsp;(4) Make available to the public, and especially to persons and organizations engaged inwork for the blind, information obtained as a result of such surveys;
+&emsp;(4) Make available to the public, and especially to persons and organizations engaged in work for the blind, information obtained as a result of such surveys;
 
 &emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
 

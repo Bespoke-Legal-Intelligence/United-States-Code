@@ -16,7 +16,7 @@ In determining the taxable income of an organization to which this part applies,
 
 &emsp;(4) in money or other property (except per-unit retain certificates) in redemption of a nonqualified per-unit retain certificate which was paid as a per-unit retain allocation during the payment period for the taxable year during which the marketing occurred.
 
-> For purposes of this title, any amount not taken into account under the preceding sentence shall, in the case of an amount described in paragraph (1) or (2), be treated in the same manner as an item of gross income and as a deduction therefrom, and in the case of an amount described in paragraph (3) or (4), be treated as a deduction in arriving at gross income.
+> For purposes of this title, any amount not taken into account under the preceding sentence shall, in the case of an amount described in paragraph\(1) or (2), be treated in the same manner as an item of gross income and as a deduction therefrom, and in the case of an amount described in paragraph (3) or (4), be treated as a deduction in arriving at gross income.
 
 #### (c) Deduction for nonpatronage distributions, etc.
 
@@ -52,7 +52,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;An organization described in section 1381(a) which is engaged in pooling arrangements for the marketing of products may compute its taxable income with respect to any pool opened prior to March 1, 1978, under the completed crop pool method of accounting if—
 
-&emsp;&emsp;(A) the organization has computed its taxable income under such method for the 10taxable years ending with its first taxable year beginning after December 31, 1976, and
+&emsp;&emsp;(A) the organization has computed its taxable income under such method for the 10 taxable years ending with its first taxable year beginning after December 31, 1976, and
 
 &emsp;&emsp;(B) with respect to the pool, the organization has entered into an agreement with the United States or any of its agencies which includes provisions to the effect that—
 

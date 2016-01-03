@@ -6,7 +6,7 @@ Definition.—In this section, "motor vehicle repair business" means a person ho
 
 (b)
 
-Prohibition.—A manufacturer, distributor, dealer, or motor vehicle repair business may not knowingly make inoperative any part of a device or element of design installed on or in a motor vehicle or motor vehicle equipment in compliance with an applicable motor vehicle safety standard prescribed under this chapter unless the manufacturer, distributor, dealer, or repair business reasonably believes the vehicle or equipment will not be used (except for testing or a similar purpose during maintenance or repair) when the device or element is inoperative.
+Prohibition.—A manufacturer, distributor, dealer, or motor vehicle repair business may not knowingly make inoperative any part of a device or element of design installed on or in a motor vehicle or motor vehicle equipment incompliance with an applicable motor vehicle safety standard prescribed under this chapter unless the manufacturer, distributor, dealer, or repair business reasonably believes the vehicle or equipment will not be used (except for testing or a similar purpose during maintenance or repair) when the device or element is inoperative.
 
 (c)
 
@@ -16,7 +16,11 @@ Regulations.—The Secretary of Transportation may prescribe regulations—
 
 &emsp;(2) to define "make inoperative".
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 956; Pub. L. 112–141, div. C, title I, §31202(a)(1), July 6, 2012, 126 Stat. 757.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 956; Pub. L. 112–141, div. C, title I, §31202(a)(1), July 6, 2012, 126 Stat. 757; Pub. L. 114–94, div. B, title XXIV, §24109(d), Dec. 4, 2015, 129 Stat. 1707.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 114–94, div. B, title XXIV, §24109(d), (k), Dec. 4, 2015, 129 Stat. 1707, 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (b) of this section is amended by inserting "rental company," after "dealer," each place such term appears. See 2015 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -58,7 +62,13 @@ In subsection (d), the words "with respect . . . the rendering inoperative of"
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b). Pub. L. 114–94 inserted "rental company," after "dealer," in two places.
+
 <b>2012</b>—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: "This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under section 30102 of this title.
 
 #### Effective Date of 2012 Amendment
 

@@ -12,7 +12,7 @@
 
 > shall, at the end of such year period, return or be returned to the custody of the Department of Homeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
 
-(2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
+(2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c)) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
 
 #### (b) Requirements for adjustment
 
@@ -26,7 +26,7 @@ The Secretary of Homeland Security or the Attorney General, in the Secretary's o
 
 &emsp;(4) is not firmly resettled in any foreign country, and
 
-&emsp;(5) is admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of examination for adjustment of such alien.
+&emsp;(5) is admissible (except as otherwise provided under subsection (c)) as an immigrant under this chapter at the time of examination for adjustment of such alien.
 
 > Upon approval of an application under this subsection, the Secretary of Homeland Security or the Attorney General shall establish a record of the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application.
 
@@ -110,7 +110,7 @@ In general.—Subject to paragraph (2), the provisions of section 209(b) of the 
 
 &emsp;"(2)
 
-Application of per country limitations.—The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act \[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act."
+Application of per country limitations.—The number of aliens who are natives of any foreign state who may adjust status pursuant to paragraph (1) in any fiscal year shall not exceed the difference between the per country limitation established under section 202(a) of the Immigration and Nationality Act\[8 U.S.C. 1152(a)\] and the number of aliens who are chargeable to that foreign state in the fiscal year under section 202 of such Act."
 
 \[Section 104(c), (d) of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 

@@ -10,11 +10,11 @@
 
 (1) Nothing in this chapter shall invalidate or restrict any right or remedy of any consumer under State law or any other Federal law.
 
-(2) Nothing in this chapter (other than sections 2308 and 2304(a)(2) and (4) of this title) shall (A) affect the liability of, or impose liability on, any person for personal injury, or (B) supersede any provision of State law regarding consequential damages for injury to the person or other injury.
+(2) Nothing in this chapter (other than sections 2308 and 2304(a)(2) and (4) of this title) shall (A) affect the liability of, or impose liability on, any person for personal injury, or (B) supersedeany provision of State law regarding consequential damages for injury to the person or other injury.
 
 #### (c) State warranty laws
 
-(1) Except as provided in subsection (b) of this section and in paragraph (2) of this subsection, a State requirement—
+(1) Except as provided in subsection (b) and in paragraph (2) of this subsection, a State requirement—
 
 &emsp;(A) which relates to labeling or disclosure with respect to written warranties or performance thereunder;
 

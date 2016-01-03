@@ -96,7 +96,7 @@ Title IV, referred to in subsec. (b), means title IV of the Higher Education Act
 
 Subsec. (a)(1)(D)(i). Pub. L. 113–67, §501(2), added cl. (i) and struck out former cl. (i) which read as follows: "the guaranty agency—
 
-&emsp;"(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at thetime of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
+&emsp;"(I) shall repay the Secretary 81.5 percent of the amount of the principal balance outstanding at the time of such sale, multiplied by the reinsurance percentage in effect when payment under the guaranty agreement was made with respect to the loan; and
 
 &emsp;"(II) may, in order to defray collection costs—
 

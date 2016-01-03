@@ -20,3 +20,7 @@ Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to i
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–283 substituted "section 320(b)(1)(A) of the Federal Election Campaign Act of 1971" for "section 608(c)(1)(A) of title 18, United States Code".
 
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
+

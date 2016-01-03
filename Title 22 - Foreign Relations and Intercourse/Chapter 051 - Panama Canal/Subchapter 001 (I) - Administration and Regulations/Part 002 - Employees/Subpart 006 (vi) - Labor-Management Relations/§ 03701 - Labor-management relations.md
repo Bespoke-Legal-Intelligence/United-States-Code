@@ -8,7 +8,7 @@ Nothing in this chapter shall be construed to affect the applicability of chapte
 
 &emsp;(2) a unit shall be considered to be appropriate notwithstanding the fact that it includes any supervisor if that supervisor's position (or type of position) was, before October 1, 1979, represented before the Panama Canal Company by a labor organization that included employees who were not supervisors; and
 
-&emsp;(3) any negotiated grievance procedures under section 7121 of title 5, including any provisions relating to binding arbitration, shall, with respect to any personnel action to which subchapter II of chapter 75 of such title applies (as determined under section 7512 of such title), be available to the same extent and inthe same manner as if employees of the Panama Canal Commission were not excluded from such subchapter under section 7511(b)(8) of such title.
+&emsp;(3) any negotiated grievance procedures under section 7121 of title 5, including any provisions relating to binding arbitration, shall, with respect to any personnel action to which subchapter II of chapter 75 of such title applies (as determined under section 7512 of such title), be available to the same extent and in the same manner as if employees of the Panama Canal Commission were not excluded from such subchapter under section 7511(b)(8) of such title.
 
 #### (b) United States laws applicable
 
@@ -34,7 +34,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 (4) In the case of a notice of agreement described in paragraph (2)(A) that is transmitted to the Congress as described in the second sentence of that paragraph after July 1, 1998, the impasse resolution procedures covered by that notice shall apply to any impasse between the Commission and the other party to the agreement that is unresolved on the date on which that notice is transmitted to the Congress.
 
-(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, §3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85, div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
+(Pub. L. 96–70, title I, §1271, Sept. 27, 1979, 93 Stat. 476; Pub. L. 103–160, div. C, title XXXV, §3505, Nov. 30, 1993, 107 Stat. 1966; Pub. L. 105–85,div. C, title XXXV, §3527, Nov. 18, 1997, 111 Stat. 2068.)
 
 #### References in Text
 

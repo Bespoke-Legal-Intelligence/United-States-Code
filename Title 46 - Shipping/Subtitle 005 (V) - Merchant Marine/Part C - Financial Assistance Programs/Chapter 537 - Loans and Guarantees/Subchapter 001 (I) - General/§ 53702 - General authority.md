@@ -14,7 +14,7 @@ In general.—Notwithstanding any other provision of this chapter, any obligatio
 
 &emsp;(2)
 
-Interest rate.—Notwithstanding any other provision of this chapter, the annual rate of interest an obligor shall pay on a direct loan obligation under this subsection is 2 percent plus the additional percent the Secretary must pay as interest to borrow from the Treasury the funds to make the loan.
+Interest rate.—Notwithstanding any other provision of this chapter, the annual rate of interest an obligor shall pay on a direct loan obligation under this subsection is 2 percent plus the additional percent the Secretarymust pay as interest to borrow from the Treasury the funds to make the loan.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1603; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (d), Jan. 6, 2006, 119 Stat. 3555, 3557; Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(B), (b), Jan. 28, 2008, 122 Stat. 598.)
 

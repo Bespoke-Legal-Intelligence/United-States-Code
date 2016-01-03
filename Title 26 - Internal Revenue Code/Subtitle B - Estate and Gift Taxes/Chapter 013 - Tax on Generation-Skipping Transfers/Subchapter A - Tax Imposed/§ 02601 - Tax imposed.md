@@ -34,7 +34,7 @@ Exceptions.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;"(C) any generation-skipping transfer—
 
-&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by thedecedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
+&emsp;&emsp;&emsp;"(i) under a trust to the extent such trust consists of property included in the gross estate of a decedent (other than property transferred by the decedent during his life after the date of the enactment of this Act \[Oct. 22, 1986\]), or reinvestments thereof, or
 
 &emsp;&emsp;&emsp;"(ii) which is a direct skip which occurs by reason of the death of any decedent;
 
@@ -106,7 +106,7 @@ Election.—An election under paragraph (1) shall be made at such time and in su
 
 > Unless the grandchild otherwise directs by will, the estate of such grandchild shall be entitled to recover from the person receiving the property on the death of the grandchild any increase in Federal estate tax on the estate of the grandchild by reason of the preceding sentence."
 
-\[Pub. L. 101–508, title XI, §11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: "Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out above\] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act \[probably means subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990."\]
+\[Pub. L. 101–508, title XI, §11703(c)(3), Nov. 5, 1990, 104 Stat. 1388–517, provided that: "Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out above\] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act \[probably means subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] to the extent such transfer is attributable to property transferred by gift or byreason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990."\]
 
 \[Pub. L. 100–647, title I, §1014(h)(3)(B), Nov. 10, 1988, 102 Stat. 3568, provided that: "Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987."\]
 

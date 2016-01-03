@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year 2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
+&emsp;Fees under subsection (a) shall be refunded for a fiscal year beginning after fiscal year2010 unless the amount of the total appropriations for food safety activities at the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) is equal to or greater than the amount of appropriations for food safety activities at the Food and Drug Administration for fiscal year 2009 (excluding the amount of fees appropriated for such fiscal year), multiplied by the adjustment factor under paragraph (3).
 
 #### (2) Authority
 
@@ -116,7 +116,7 @@
 
 #### (d) Crediting and availability of fees
 
-Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from theFood and Drug Administration salaries and expenses account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the operating expenses of the Food and Drug Administration employees and contractors performing activities associated with these food safety fees.
+Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the operating expenses of the Food and Drug Administration employees and contractors performing activities associated with these food safety fees.
 
 #### (e) Collection of fees
 

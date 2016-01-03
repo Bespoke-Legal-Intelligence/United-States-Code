@@ -10,9 +10,9 @@
 
 &emsp;(B) may—
 
-&emsp;&emsp;(i) subject to subsection (d)(1)(C)(i) of this section, request provisional relief under subsection (d)(1) of this section; or
+&emsp;&emsp;(i) subject to subsection (d)(1)(C)(i), request provisional relief under subsection (d)(1); or
 
-&emsp;&emsp;(ii) request provisional relief under subsection (d)(2) of this section.
+&emsp;&emsp;(ii) request provisional relief under subsection (d)(2).
 
 (3) Whenever a petition is filed under paragraph (1), the Commission shall promptly transmit copies of the petition to the Office of the United States Trade Representative and other Federal agencies directly concerned.
 
@@ -24,7 +24,7 @@
 
 (6)(A) In the course of any investigation under subsection (b) of this section, the Commission shall seek information (on a confidential basis, to the extent appropriate) on actions being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
 
-(B) Regardless whether an adjustment plan is submitted under paragraph (4) by the petitioner, if the Commission makes an affirmative determination under subsection (b) of this section, any—
+(B) Regardless whether an adjustment plan is submitted under paragraph (4) by the petitioner, if the Commission makes an affirmative determination under subsection (b), any—
 
 &emsp;(i) firm in the domestic industry;
 
@@ -40,23 +40,23 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, title III of the United States–Korea Free Trade Agreement Implementation Act, title III of the United States–Colombia Trade Promotion Agreement Implementation Act, and title III of the United States–Panama Trade Promotion Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, title III of the United States-Singapore Free Trade Agreement Implementation Act, title III of the United States-Australia Free Trade Agreement Implementation Act, title III of the United States-Morocco Free Trade Agreement Implementation Act, title III of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act \[19 U.S.C. 4051 et seq.\], title III of the United States-Bahrain Free Trade Agreement Implementation Act, title III of the United States-Oman Free Trade Agreement Implementation Act, title III of the United States-Peru Trade Promotion Agreement Implementation Act, title III of the United States–Korea Free Trade Agreement Implementation Act, title III of the United States–Colombia Trade Promotion Agreement Implementation Act, and title III of the United States–Panama Trade Promotion Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
-(1)(A) Upon the filing of a petition under subsection (a) of this section, the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
+(1)(A) Upon the filing of a petition under subsection (a), the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
 
 (B) For purposes of this section, the term "substantial cause" means a cause which is important and not less than any other cause.
 
 (2)(A) Except as provided in subparagraph (B), the Commission shall make the determination under paragraph (1) within 120 days (180 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
 
-(B) If before the 100th day after a petition is filed under subsection (a)(1) of this section the Commission determines that the investigation is extraordinarily complicated, the Commission shall make the determination under paragraph (1) within 150 days (210 days if the petition alleges that critical circumstances exist) after the date referred to in subparagraph (A).
+(B) If before the 100th day after a petition is filed under subsection (a)(1) the Commission determines that the investigation is extraordinarily complicated, the Commission shall make the determination under paragraph (1) within 150 days (210 days if the petition alleges that critical circumstances exist) after the date referred to in subparagraph (A).
 
-(3) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, to comment on the adjustment plan, if any, submitted under subsection (a) of this section, to respond to the presentations of other parties and consumers, and otherwise to be heard.
+(3) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold public hearings at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, to comment on the adjustment plan, if any, submitted under subsection (a), to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
 #### (c) Factors applied in making determinations
 
-(1) In making determinations under subsection (b) of this section, the Commission shall take into account all economic factors which it considers relevant, including (but not limited to)—
+(1) In making determinations under subsection (b), the Commission shall take into account all economic factors which it considers relevant, including (but not limited to)—
 
 &emsp;(A) with respect to serious injury—
 
@@ -76,17 +76,17 @@
 
 &emsp;(C) with respect to substantial cause, an increase in imports (either actual or relative to domestic production) and a decline in the proportion of the domestic market supplied by domestic producers.
 
-(2) In making determinations under subsection (b) of this section, the Commission shall—
+(2) In making determinations under subsection (b), the Commission shall—
 
-&emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causesof declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
+&emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causes of declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
 
 &emsp;(B) examine factors other than imports which may be a cause of serious injury, or threat of serious injury, to the domestic industry.
 
-> The Commission shall include the results of its examination under subparagraph (B) in the report submitted by the Commission to the President under subsection (e) of this section.
+> The Commission shall include the results of its examination under subparagraph (B) in the report submitted by the Commission to the President under subsection (e).
 
-(3) The presence or absence of any factor which the Commission is required to evaluate in subparagraphs (A) and (B) of paragraph (1) is not necessarily dispositive of whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry.
+(3) The presence or absence of any factor which the Commission is required to evaluate in subparagraphs (A) and (B) of paragraph (1) is not necessarily dispositive of whether an article is being imported into the United States in suchincreased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry.
 
-(4) For purposes of subsection (b) of this section, in determining the domestic industry producing an article like or directly competitive with an imported article, the Commission—
+(4) For purposes of subsection (b), in determining the domestic industry producing an article like or directly competitive with an imported article, the Commission—
 
 &emsp;(A) to the extent information is available, shall, in the case of a domestic producer which also imports, treat as part of such domestic industry only its domestic production;
 
@@ -116,9 +116,9 @@
 
 &emsp;(ii) there is a reasonable indication that such product is being imported into the United States in such increased quantities as to be, or likely to be, a substantial cause of serious injury, or the threat thereof, to such domestic industry.
 
-(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Trade Representative shall request, under section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\], the Commission to monitor and investigate the imports concerned for a period not to exceed 2 years. The monitoring and investigation may include the collection and analysis of information that would expedite an investigation under subsection (b) of this section.
+(B) If the determinations under subparagraph (A)(i) and (ii) are affirmative, the Trade Representative shall request, under section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\], the Commission to monitor and investigate the imports concerned for a period not to exceed 2 years. The monitoring and investigation may include the collection and analysis of information that would expedite an investigation under subsection (b).
 
-(C) If a petition filed under subsection (a) of this section—
+(C) If a petition filed under subsection (a)—
 
 &emsp;(i) alleges injury from imports of a perishable agricultural product or citrus product that has been, on the date the allegation is included in the petition, subject to monitoring by the Commission under subparagraph (B) for not less than 90 days; and
 
@@ -128,9 +128,9 @@
 
 &emsp;(I) the serious injury is likely to be difficult to repair by reason of perishability of the like or directly competitive agricultural product; or
 
-&emsp;(II) the serious injury cannot be timely prevented through investigation under subsection (b) of this section and action under section 2253 of this title.
+&emsp;(II) the serious injury cannot be timely prevented through investigation under subsection (b) and action under section 2253 of this title.
 
-(D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information thatthe Department of Agriculture may have for purposes of making determinations and findings under this subsection.
+(D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information that the Department of Agriculture may have for purposes of making determinations and findings under this subsection.
 
 (E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
@@ -138,7 +138,7 @@
 
 (G) Within 7 days after receiving a report from the Commission under subparagraph (F) containing an affirmative determination, the President, if he considers provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (E), shall proclaim such provisional relief that the President considers necessary to prevent or remedy the serious injury.
 
-(2)(A) When a petition filed under subsection (a) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to imports of the article identified in the petition, the Commission shall, not later than 60 days after the petition containing the request was filed, determine, on the basis of available information, whether—
+(2)(A) When a petition filed under subsection (a) alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to imports of the article identified in the petition, the Commission shall, not later than 60 days after the petition containing the request was filed, determine, on the basis of available information, whether—
 
 &emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article; and
 
@@ -154,7 +154,7 @@
 
 (4)(A) Any provisional relief implemented under this subsection with respect to an imported article shall terminate on the day on which—
 
-&emsp;(i) if such relief was proclaimed under paragraph (1)(G) or (2)(D), the Commission makes a negative determination under subsection (b) of this section regarding injury or the threat thereof by imports of such article;
+&emsp;(i) if such relief was proclaimed under paragraph (1)(G) or (2)(D), the Commission makes a negative determination under subsection (b) regarding injury or the threat thereof by imports of such article;
 
 &emsp;(ii) action described in section 2253(a)(3)(A) or (C) of this title takes effect under section 2253 of this title with respect to such article;
 
@@ -198,7 +198,7 @@
 
 #### (e) Commission recommendations
 
-(1) If the Commission makes an affirmative determination under subsection (b)(1) of this section, the Commission shall also recommend the action that would address the serious injury, or threat thereof, to the domestic industry and be most effective in facilitating the efforts of the domestic industry to make a positive adjustment to import competition.
+(1) If the Commission makes an affirmative determination under subsection (b)(1), the Commission shall also recommend the action that would address the serious injury, or threat thereof, to the domestic industry and be most effective in facilitating the efforts of the domestic industry to make a positive adjustment to import competition.
 
 (2) The Commission is authorized to recommend under paragraph (1)—
 
@@ -228,29 +228,29 @@
 
 &emsp;&emsp;(i) the form and amount of action described in paragraph (2)(A), (B), and (C) that would prevent or remedy the injury or threat thereof,
 
-&emsp;&emsp;(ii) the objectives and actions specified in the adjustment plan, if any, submitted under subsection (a)(4) of this section,
+&emsp;&emsp;(ii) the objectives and actions specified in the adjustment plan, if any, submitted under subsection (a)(4),
 
-&emsp;&emsp;(iii) any individual commitment that was submitted to the Commission under subsection (a)(6) of this section,
+&emsp;&emsp;(iii) any individual commitment that was submitted to the Commission under subsection (a)(6),
 
 &emsp;&emsp;(iv) any information available to the Commission concerning the conditions of competition in domestic and world markets, and likely developments affecting such conditions during the period for which action is being requested, and
 
 &emsp;&emsp;(v) whether international negotiations may be constructive to address the injury or threat thereof or to facilitate adjustment.
 
-(6) Only those members of the Commission who agreed to the affirmative determination under subsection (b) of this section are eligible to vote on the recommendation required to be made under paragraph (1) or that may be made under paragraph (3). Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (f) of this section, separate views regarding what action, if any, should be taken under section 2253 of this title.
+(6) Only those members of the Commission who agreed to the affirmative determination under subsection (b) are eligible to vote on the recommendation required to be made under paragraph (1) or that may be made under paragraph (3). Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (f), separate views regarding what action, if any, should be taken under section 2253 of this title.
 
 #### (f) Report by Commission
 
-(1) The Commission shall submit to the President a report on each investigation undertaken under subsection (b) of this section. The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
+(1) The Commission shall submit to the President a report on each investigation undertaken under subsection (b). The report shall be submitted at the earliest practicable time, but not later than 180 days (240 days if the petition alleges that critical circumstances exist) after the date on which the petition is filed, the request or resolution is received, or the motion is adopted, as the case may be.
 
 (2) The Commission shall include in the report required under paragraph (1) the following:
 
-&emsp;(A) The determination made under subsection (b) of this section and an explanation of the basis for the determination.
+&emsp;(A) The determination made under subsection (b) and an explanation of the basis for the determination.
 
-&emsp;(B) If the determination under subsection (b) of this section is affirmative, the recommendations for action made under subsection (e) of this section and an explanation of the basis for each recommendation.
+&emsp;(B) If the determination under subsection (b) is affirmative, the recommendations for action made under subsection (e) and an explanation of the basis for each recommendation.
 
 &emsp;(C) Any dissenting or separate views by members of the Commission regarding the determination and any recommendation referred to in subparagraphs (A) and (B).
 
-&emsp;(D) The findings required to be included in the report under subsection (c)(2) of this section.
+&emsp;(D) The findings required to be included in the report under subsection (c)(2).
 
 &emsp;(E) A copy of the adjustment plan, if any, submitted under section 2251(b)(4) of this title.
 
@@ -258,15 +258,15 @@
 
 &emsp;(G) A description of—
 
-&emsp;&emsp;(i) the short- and long-term effects that implementation of the action recommended under subection <sup>1</sup> (e) of this section is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers, and
+&emsp;&emsp;(i) the short- and long-term effects that implementation of the action recommended under subection <sup>1</sup> (e) is likely to have on the petitioning domestic industry, on other domestic industries, and on consumers, and
 
-&emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers andthe communities where production facilities of such industry are located, and on other domestic industries.
+&emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
-(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
+(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
 #### (g) Expedited consideration of adjustment assistance petitions
 
-If the Commission makes an affirmative determination under subsection (b)(1) of this section, the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce of the determination. After receiving such notification—
+If the Commission makes an affirmative determination under subsection (b)(1), the Commission shall promptly notify the Secretary of Labor and the Secretary of Commerce of the determination. After receiving such notification—
 
 &emsp;(1) the Secretary of Labor shall give expedited consideration to petitions by workers in the domestic industry for certification for eligibility to apply for adjustment assistance under part 2 of this subchapter; and
 
@@ -320,7 +320,7 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 #### References in Text
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L.103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
@@ -330,7 +330,7 @@ Title III of the United States-Singapore Free Trade Agreement Implementation Act
 
 Title III of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–286, Aug. 3, 2004, 118 Stat. 941, which is set out in a note under section 3805 of this title.
 
-Title III of the United States-Morocco Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–302, Aug. 17, 2004, 118 Stat. 1116, which is set out in a note under section 3805 of this title.
+Title III of the United States-Morocco Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–302, Aug. 17, 2004, 118Stat. 1116, which is set out in a note under section 3805 of this title.
 
 The Dominican Republic-Central America-United States Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, as amended. Title III of the Act is classified generally to subchapter III (§4051 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
@@ -372,9 +372,9 @@ Pub. L. 108–286, §§106(c), 316, in first sentence, temporarily struck out "a
 
 Pub. L. 108–77, §§107(c), 316, in first sentence, temporarily struck out "and" before "title II" and inserted before period at end ", and title III of the United States-Chile Free Trade Agreement Implementation Act". See Effective and Termination Dates of 2003 Amendments note below.
 
-<b>2001</b>—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted ", part 1" for "and part 1" andinserted before period at end ", and title II of the United States-Jordan Free Trade Area Implementation Act". See Effective and Termination Dates of 2001 Amendment note below.
+<b>2001</b>—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted ", part 1" for "and part 1" and inserted before period at end ", and title II of the United States-Jordan Free Trade Area Implementation Act". See Effective and Termination Dates of 2001 Amendment note below.
 
-<b>1996</b>—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
+<b>1996</b>—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b).
 
 <b>1994</b>—Subsec. (a)(2)(B)(ii). Pub. L. 103–465, §303(1), struck out ", or at any time before the 150th day after the date of filing be amended to request," after "request".
 
@@ -408,7 +408,7 @@ Subsec. (d)(2). Pub. L. 103–465, §301(d)(1), amended par. (2) generally. Prio
 
 Subsec. (d)(3). Pub. L. 103–465, §301(d)(4)(A), substituted "(2)(D)" for "(2)(B)" and "paragraph (2)(A)" for "subsection (b)(1) of this section".
 
-Subsec. (d)(4)(A)(i). Pub. L. 103–465, §§301(d)(4)(B), 303(4), inserted "or (2)(D)" after "(1)(G)" and substituted "subsection (b) of this section" for "section 2253(a) of this title".
+Subsec. (d)(4)(A)(i). Pub. L. 103–465, §§301(d)(4)(B), 303(4), inserted "or (2)(D)" after "(1)(G)" and substituted "subsection (b)" for "section 2253(a) of this title".
 
 Subsec. (f)(1). Pub. L. 103–465, §301(d)(2)(B), inserted "(240 days if the petition alleges that critical circumstances exist)" after "180 days".
 

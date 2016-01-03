@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Federal Aviation Administration shall require apart 135 certificate holder providing helicopter air ambulance services to submit to the Administrator, not later than 1 year after the date of enactment of this section, and annually thereafter, a report containing, at a minimum, the following data:
+In General.—The Administrator of the Federal Aviation Administration shall require a part 135 certificate holder providing helicopter air ambulance services to submit to the Administrator, not later than 1 year after the date of enactment of this section, and annually thereafter, a report containing, at a minimum, the following data:
 
 &emsp;(1) The number of helicopters that the certificate holder uses to provide helicopter air ambulance services and the base locations of the helicopters.
 

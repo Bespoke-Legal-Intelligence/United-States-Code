@@ -42,7 +42,7 @@
 
 &emsp;(D) The Secretary shall publish a notice in the Federal Register at least annually informing the public of the allocation of assistance under section 1439(d)(1)(A) of this title.
 
-&emsp;(E) The Secretary shall ensure that each application and all related documentation andother information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(E) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -70,7 +70,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (d) Limitation of assistance
 
-The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocated to an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
+The Secretary shall certify that assistance within the jurisdiction of the Department, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.) <sup>1</sup> to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance described in subsection (b)(1) of this section. The Secretary shall adjust the amount of such assistance awarded or allocatedto an applicant to compensate in whole or in part, as the Secretary determines to be appropriate, for any changes reported under subsection (c) of this section.
 
 #### (e) Administrative remedies
 
@@ -144,7 +144,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (i) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is nolonger subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (j) Settlement by Secretary
 

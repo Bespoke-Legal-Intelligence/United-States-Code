@@ -22,11 +22,11 @@ The Secretary shall provide each owner who submits notice of intent to extend th
 
 #### (4) Federal cost limit analysis
 
-&emsp;A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under section 4107 of this title or submit a second notice of intent under subsection (d) of this section, whichever is applicable.
+&emsp;A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under section 4107 of this title or submit a second notice of intent under subsection (d), whichever is applicable.
 
 #### (c) Availability to tenants
 
-The Secretary shall make any information provided to the owner under subsections (a) and (b) of this section available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
+The Secretary shall make any information provided to the owner under subsections (a) and (b) available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
 
 #### (d) Second notice of intent
 

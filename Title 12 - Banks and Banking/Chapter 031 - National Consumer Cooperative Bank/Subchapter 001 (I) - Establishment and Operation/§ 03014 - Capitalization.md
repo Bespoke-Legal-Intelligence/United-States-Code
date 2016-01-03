@@ -14,7 +14,7 @@ The holder of class A notes shall be entitled to interest at a rate or rates det
 
 #### (d) Class B stock; ownership requirements, etc.
 
-Class B stock shall be held only by recipients of loans under section 3015 of this title, and suchborrowers shall be required to own class B stock in an amount not less than 1 per centum of the face amount of the loan at the time the loan is made. Such borrowers may be required by the Bank to own additional class B or class C stock at the time the loan is made, but not to exceed an amount equal to 10 per centum of the face amount of the loan, or from time to time, as the Bank may determine. Such additional stock ownership requirements may be on the basis of the face amount of the loan, the outstanding balances, or on a percentage of interest payable during any year or any quarter thereof, as the Bank may determine will provide adequate capital for the operation of the Bank and equitable ownership thereof among borrowers.
+Class B stock shall be held only by recipients of loans under section 3015 of this title, and such borrowers shall be required to own class B stock in an amount not less than 1 per centum of the face amount of the loan at the time the loan is made. Such borrowers may be required by the Bank to own additional class B or class C stock at the time the loan is made, but not to exceed an amount equal to 10 per centum of the face amount of the loan, or from time to time, as the Bank may determine. Such additional stock ownership requirements may be on the basis of the face amount of the loan, the outstanding balances, or on a percentage of interest payable during any year or any quarter thereof, as the Bank may determine will provide adequate capital for the operation of the Bank and equitable ownership thereof among borrowers.
 
 #### (e) Class C stock; purchase, dividends, etc.
 
@@ -48,7 +48,7 @@ The Bank may accept nonreturnable capital contributions on which no interest, di
 
 #### (i) Patronage refunds
 
-After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c) of this section, the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
+After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c), the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
 
 (Pub. L. 95–351, title I, §104, Aug. 20, 1978, 92 Stat. 503; Pub. L. 97–35, title III, §§394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, 95 Stat. 436, 439; Pub. L. 101–206, §2, Dec. 7, 1989, 103 Stat. 1832.)
 
@@ -76,7 +76,7 @@ Subsec. (i). Pub. L. 97–35, §396(c)(7), substituted provisions relating to cl
 
 Pub. L. 97–35, title III, §394(c)(2), Aug. 13, 1981, 95 Stat. 436, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\]." For definition of "Final Government Equity Redemption Date", see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
-Pub. L. 97–35, title III, §395(b)(3), Aug. 13, 1981, 95 Stat. 439, provided that: "The amendments made by paragraphs (1) \[amending section 3042 of this title\] and (2) \[amending this section\] shall take effect on October 1, 1981."
+Pub. L. 97–35, title III, §395(b)(3), Aug. 13, 1981, 95 Stat. 439, provided that: "The amendments made byparagraphs (1) \[amending section 3042 of this title\] and (2) \[amending this section\] shall take effect on October 1, 1981."
 
 Amendment by section 396(c) of Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 3011 of this title.
 

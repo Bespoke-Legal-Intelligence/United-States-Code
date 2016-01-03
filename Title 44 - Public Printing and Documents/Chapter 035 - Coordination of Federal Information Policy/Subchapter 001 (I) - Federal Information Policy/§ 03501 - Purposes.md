@@ -6,11 +6,11 @@ The purposes of this subchapter are to—
 
 &emsp;(2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
 
-&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniform Federal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
+&emsp;(3) coordinate, integrate, and to the extent practicable and appropriate, make uniformFederal information resources management policies and practices as a means to improve the productivity, efficiency, and effectiveness of Government programs, including the reduction of information collection burdens on the public and the improvement of service delivery to the public;
 
 &emsp;(4) improve the quality and use of Federal information to strengthen decisionmaking, accountability, and openness in Government and society;
 
-&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance,use, dissemination, and disposition of information;
+&emsp;(5) minimize the cost to the Federal Government of the creation, collection, maintenance, use, dissemination, and disposition of information;
 
 &emsp;(6) strengthen the partnership between the Federal Government and State, local, and tribal governments by minimizing the burden and maximizing the utility of information created, collected, maintained, used, disseminated, and retained by or for the Federal Government;
 
@@ -94,7 +94,7 @@ Pub. L. 107–347, title II, Dec. 17, 2002, 116 Stat. 2910, as amended by Pub. L
 
 In General.—The head of each agency shall be responsible for—
 
-&emsp;"(1) complying with the requirements of this Act \[see Tables for classification\] (including the amendments made by this Act), the related information resource management policies and guidance established by the Director of the Office of Management and Budget, and the related information technology standards promulgated by the Secretary of Commerce;
+&emsp;"(1) complying with the requirements of this Act \[see Tables for classification\] (including the amendments made by this Act), the related information resource management policies and guidance established by the Director of the Office of Management andBudget, and the related information technology standards promulgated by the Secretary of Commerce;
 
 &emsp;"(2) ensuring that the information resource management policies and guidance established under this Act by the Director, and the related information technology standards promulgated by the Secretary of Commerce are communicated promptly and effectively to all relevant officials within their agency; and
 
@@ -232,7 +232,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 "(a)
 
-Individual Court Websites.—The Chief Justice of the United States, the chief judge of each circuit anddistrict and of the Court of Federal Claims, and the chief bankruptcy judge of each district shall cause to be established and maintained, for the court of which the judge is chief justice or judge, a website that contains the following information or links to websites with the following information:
+Individual Court Websites.—The Chief Justice of the United States, the chief judge of each circuit and district and of the Court of Federal Claims, and the chief bankruptcy judge of each district shall cause to be established and maintained, for the court of which the judge is chief justice or judge, a website that contains the following information or links to websites with the following information:
 
 &emsp;"(1) Location and contact information for the courthouse, including the telephone numbers and contact names for the clerk's office and justices' or judges' chambers.
 
@@ -342,7 +342,7 @@ Exception.—To the extent that the Supreme Court, a court of appeals, district,
 
 &emsp;"(2)
 
-Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set outunder section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
+Report.—Not later than 1 year after the effective date of this title \[see Effective Date note set out under section 3601 of this title\], and every year thereafter, the Judicial Conference of the United States shall submit a report to the Committees on Governmental Affairs and the Judiciary of the Senate and the Committees on Government Reform \[now Oversight and Government Reform\] and the Judiciary of the House of Representatives that—
 
 &emsp;&emsp;"(A) contains all notifications submitted to the Administrative Office of the United States Courts under this subsection; and
 
@@ -624,7 +624,7 @@ Repository and website.—The Director of the Office of Management and Budget (o
 
 &emsp;&emsp;&emsp;"(cc) the entity or institution performing the task or award and its contact information;
 
-&emsp;&emsp;&emsp;"(dd) the total amount of Federal funds expected to be provided to the task or award over its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
+&emsp;&emsp;&emsp;"(dd) the total amount of Federal funds expected to be provided to the task or awardover its lifetime and the amount of funds expected to be provided in each fiscal year in which the work of the task or award is ongoing;
 
 &emsp;&emsp;&emsp;"(ee) any restrictions attached to the task or award that would prevent the sharing with the general public of any or all of the information required by this subsection, and the reasons for such restrictions; and
 
@@ -776,7 +776,7 @@ Contents.—The guidance shall require that a privacy notice address, consistent
 
 &emsp;&emsp;&emsp;"(iv) with whom the information will be shared;
 
-&emsp;&emsp;&emsp;"(v) what notice or opportunities for consent would be provided to individuals regarding what information is collected and how that information is shared;
+&emsp;&emsp;&emsp;"(v) what notice or opportunities for consent would be provided to individuals regarding whatinformation is collected and how that information is shared;
 
 &emsp;&emsp;&emsp;"(vi) how the information will be secured; and
 
@@ -784,7 +784,7 @@ Contents.—The guidance shall require that a privacy notice address, consistent
 
 &emsp;"(2)
 
-Privacy policies in machine-readable formats.—The Director shall issue guidance requiringagencies to translate privacy policies into a standardized machine-readable format.
+Privacy policies in machine-readable formats.—The Director shall issue guidance requiring agencies to translate privacy policies into a standardized machine-readable format.
 
 "(d)
 
@@ -1296,7 +1296,7 @@ Authorization of appropriations.—There are authorized to be appropriated for r
 
 "(c)
 
-Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administrator shall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
+Pilot Projects.—Based on the results of the research conducted under subsection (b), the Administrator, in consultation with the Federal Emergency Management Agency, shall initiate pilot projects or report to Congress on other activities that further the goal of maximizing the utility of information technology in disaster management. The Administratorshall cooperate with other relevant agencies, and, if appropriate, State, local, and tribal governments, in initiating such pilot projects.
 
 #### "SEC. 215. DISPARITIES IN ACCESS TO THE INTERNET.
 
@@ -1418,7 +1418,7 @@ Pub. L. 107–347, title V, Dec. 17, 2002, 116 Stat. 2962, provided that:
 
 &emsp;&emsp;"(A)(i) who is an employee of a private organization or a researcher affiliated with an institution of higher learning (including a person granted special sworn status by the Bureau of the Census under section 23(c) of title 13, United States Code), and with whom a contract or other agreement is executed, on a temporary basis, by an executive agency to perform exclusively statistical activities under the control and supervision of an officer or employee of that agency;
 
-&emsp;&emsp;"(ii) who is working under the authority of a government entity with which a contract or otheragreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
+&emsp;&emsp;"(ii) who is working under the authority of a government entity with which a contract or other agreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
 
 &emsp;&emsp;"(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract or other agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
 
@@ -1512,7 +1512,7 @@ Various Energy Statutes.—Data or information acquired by the Energy Informatio
 
 Section 201
 
-of Congressional Budget Act of 1974 \[2 U.S.C. 601\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated Statistical Agencies (as defined in section 522), either separately or, for data that may be shared pursuant to section 524 of this title or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.
+of Congressional Budget Act of 1974 \[2 U.S.C. 601\].—This title, including amendments made by this title, shall not be construed to limit any authorities of the Congressional Budget Office to work (consistent with laws governing the confidentiality of information the disclosure of which would be a violation of law) with databases of Designated StatisticalAgencies (as defined in section 522), either separately or, for data that may be shared pursuant to section 524 of this title or other authority, jointly in order to improve the general utility of these databases for the statistical purpose of analyzing pension and health care financing issues.
 
 "(f)
 
@@ -1520,7 +1520,7 @@ Preemption of State Law.—Nothing in this title shall preempt applicable State 
 
 "(g)
 
-Statutes Regarding False Statements.—Notwithstanding section 512, information collected by anagency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as section 221 of title 13, United States Code) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
+Statutes Regarding False Statements.—Notwithstanding section 512, information collected by an agency for exclusively statistical purposes under a pledge of confidentiality may be provided by the collecting agency to a law enforcement agency for the prosecution of submissions to the collecting agency of false statistical information under statutes that authorize criminal penalties (such as section 221 of title 13, United States Code) or civil penalties for the provision of false statistical information, unless such disclosure or use would otherwise be prohibited under Federal law.
 
 "(h)
 
@@ -1602,7 +1602,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(4) Enhanced sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics for exclusively statistical purposes will improve their ability to track more accurately the large and rapidly changing nature of United States business. In particular, the statistical agencies will be able to better ensure that businesses are consistently classified in appropriate industries, resolve data anomalies, produce statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and correct faulty reporting errors quickly and efficiently.
 
-&emsp;"(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, Pub. L. 94–472, as amended by Pub. L. 101–533, which is classified to 22 U.S.C. 3101 et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of LaborStatistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
+&emsp;"(5) The Congress enacted the International Investment and Trade in Services Act of 1990 \[probably means the International Investment and Trade in Services Survey Act, Pub. L. 94–472, as amended by Pub. L. 101–533, which is classified to 22 U.S.C. 3101 et seq.\] that allowed the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics to share data on foreign-owned companies. The Act not only expanded detailed industry coverage from 135 industries to over 800 industries with no increase in the data collected from respondents but also demonstrated how data sharing can result in the creation of valuable data products.
 
 &emsp;"(6) With subtitle A of this title, the sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis, and the Bureau of Labor Statistics continues to ensure the highest level of confidentiality for respondents to statistical surveys.
 

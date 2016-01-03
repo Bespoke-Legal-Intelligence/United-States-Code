@@ -34,7 +34,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (B) Applicability and allocation
 
-&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. The Secretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reduction projects on land described in section 6512(a)(4) of this title.
+&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. TheSecretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reduction projects on land described in section 6512(a)(4) of this title.
 
 #### (C) Wildland-urban interface
 
@@ -54,7 +54,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

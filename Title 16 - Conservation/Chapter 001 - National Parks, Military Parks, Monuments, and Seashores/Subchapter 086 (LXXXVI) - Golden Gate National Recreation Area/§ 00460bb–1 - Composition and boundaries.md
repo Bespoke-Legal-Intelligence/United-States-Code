@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) Lands acquired under the Golden Gate National Recreation Area Addition Act of 1992 (16 U.S.C. 460bb–1 note; Public Law 102–299).
 
-&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate NationalRecreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
+&emsp;&emsp;(D) Lands generally depicted on the map entitled "Additions to Golden Gate National Recreation Area", numbered NPS–80–076, and dated July 2000/PWR–PLRPC.
 
 &emsp;&emsp;(E) Lands generally depicted on the map entitled "Rancho Corral de Tierra Additions to the Golden Gate National Recreation Area", numbered NPS–80,079E, and dated March 2004.
 
@@ -36,7 +36,7 @@ The Golden Gate National Recreational Area Addition Act of 1992, referred to in 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–131 designated first four sentences of existing provisions as par. (1), inserted par. (1) heading, struck out at end "The following additional lands are also hereby included within the boundaries of the recreation area: Marin County Assessor's parcel numbered 119–040–04, 119–040–05, 119–040–18, 166–202–03, 166–010–06, 166–010–07, 166–010–24, 166–010–25, 119–240–19, 166–010–10, 166–010–22, 119–240–03, 119–240–51, 119–240–52, 119–240–54, 166–010–12, 166–010–13, and 119–235–10. The recreation area shall also include the lands and waters in San Mateo County generally depicted on the map entitled 'Sweeney Ridge Addition, Golden Gate National Recreation Area', numbered NRA GG–80,000–A, and dated May 1980. The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992. The recreation area shall also include the lands generally depicted on the map entitled 'Additions to Golden Gate National Recreation Area', numbered NPS–80,076, and dated July 2000/ PWR–PLRPC.", and added pars. (2) and (3).
+<b>2005</b>—Subsec. (a). Pub. L. 109–131 designated first four sentences of existing provisions as par. (1), inserted par. (1) heading, struck out at end "The following additional lands are also hereby included within the boundaries of the recreation area: Marin County Assessor's parcel numbered 119–040–04, 119–040–05, 119–040–18, 166–202–03, 166–010–06, 166–010–07, 166–010–24, 166–010–25, 119–240–19, 166–010–10, 166–010–22, 119–240–03, 119–240–51, 119–240–52, 119–240–54, 166–010–12, 166–010–13, and 119–235–10. The recreation area shall also include thelands and waters in San Mateo County generally depicted on the map entitled 'Sweeney Ridge Addition, Golden Gate National Recreation Area', numbered NRA GG–80,000–A, and dated May 1980. The recreation area shall also include those lands acquired pursuant to the Golden Gate National Recreation Area Addition Act of 1992. The recreation area shall also include the lands generally depicted on the map entitled 'Additions to Golden Gate National Recreation Area', numbered NPS–80,076, and dated July 2000/ PWR–PLRPC.", and added pars. (2) and (3).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–350 inserted at end "The recreation area shall also include the lands generally depicted on the map entitled 'Additions to Golden Gate National Recreation Area', numbered NPS–80,076, and dated July 2000/ PWR–PLRPC."
 

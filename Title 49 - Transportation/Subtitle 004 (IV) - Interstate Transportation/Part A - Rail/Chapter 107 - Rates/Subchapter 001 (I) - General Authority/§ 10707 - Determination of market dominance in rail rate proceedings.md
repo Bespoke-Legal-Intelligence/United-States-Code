@@ -24,7 +24,7 @@ Provisions similar to those in this section were contained in section 10709 of t
 
 Prior sections 10707 and 10707a were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-Section 10707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1380; Pub. L. 96–448, title II, §207, Oct. 14, 1980, 94 Stat.1907; Pub. L. 103–272, §4(j)(21), July 5, 1994, 108 Stat. 1369, related to investigation and suspension of new rail carrier rates, classifications, rules, and practices.
+Section 10707, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1380; Pub. L. 96–448, title II, §207, Oct. 14, 1980, 94 Stat. 1907; Pub. L. 103–272, §4(j)(21), July 5, 1994, 108 Stat. 1369, related to investigation and suspension of new rail carrier rates, classifications, rules, and practices.
 
 Section 10707a, added Pub. L. 96–448, title II, §203(a), Oct. 14, 1980, 94 Stat. 1901; amended Pub. L. 103–272, §4(j)(22), July 5, 1994, 108 Stat. 1369, related to zone of rail carrier flexibility.
 

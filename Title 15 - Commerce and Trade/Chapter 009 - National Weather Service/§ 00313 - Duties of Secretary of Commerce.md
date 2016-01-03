@@ -350,7 +350,7 @@ Pub. L. 98–8, title I, §104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 "Since our Nation's economy—its agriculture, aviation, ocean shipping and construction—is heavily affected by weather and our ability to forecast and disseminate vital information about its behavior: Now, therefore,
 
-"It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can work closely with the private sector, other Federal and State government agencies, and the weather services of other nations.
+"It is the sense of the Congress that a reliable and comprehensive national weather information system responsive to the needs of national security; agriculture, transportation and other affected sectors; and individual citizens must be maintained through a strong central National Weather Service that can workclosely with the private sector, other Federal and State government agencies, and the weather services of other nations.
 
 "Further, the Nation's civil operational remote sensing satellites (METSAT and LANDSAT) shall remain under the National Oceanic and Atmospheric Administration. No effort shall be made to dismantle, transfer, lease or sell any portion of these systems without prior congressional approval."
 

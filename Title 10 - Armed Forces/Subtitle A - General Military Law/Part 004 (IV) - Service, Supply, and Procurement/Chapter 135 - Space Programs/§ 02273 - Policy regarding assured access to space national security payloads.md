@@ -32,9 +32,77 @@ A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982,
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
+#### Acquisition Strategy for Evolved Expendable Launch Vehicle Program
+
+Pub. L. 114–92, div. A, title XVI, §1608, Nov. 25, 2015, 129 Stat. 1100, provided that:
+
+"(a)
+
+Treatment of Certain Arrangement.—
+
+&emsp;"(1)
+
+Discontinuation.—The Secretary of the Air Force shall discontinue the evolved expendable launch vehicle launch capability arrangement, as structured as of the date of the enactment of this Act \[Nov. 25, 2015\], for—
+
+&emsp;&emsp;"(A) existing contracts using rocket engines designed or manufactured in the Russian Federation by not later than December 31, 2019; and
+
+&emsp;&emsp;"(B) existing contracts using domestic rocket engines by not later than December 31, 2020.
+
+&emsp;"(2)
+
+Waiver.—The Secretary may waive paragraph (1) if the Secretary—
+
+&emsp;&emsp;"(A) determines that such waiver is necessary for the national security interests of the United States;
+
+&emsp;&emsp;"(B) notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of such waiver; and
+
+&emsp;&emsp;"(C) a period of 90 days has elapsed following the date of such notification.
+
+"(b)
+
+Consistent Standards.—In accordance with section 2306a of title 10, United States Code, the Secretary shall—
+
+&emsp;"(1) apply consistent and appropriate standards to certified evolved expendable launch vehicle providers with respect to certified cost and pricing data; and
+
+&emsp;"(2) conduct the appropriate audits.
+
+"(c)
+
+Acquisition Strategy.—In accordance with subsections (a) and (b) and section 2273 of title 10, United States Code, the Secretary shall develop and carry out a 10-year phased acquisition strategy, including near and long term, for the evolved expendable launch vehicle program.
+
+"(d)
+
+Elements.—The acquisition strategy under subsection (c) for the evolved expendable launch vehicle program shall—
+
+&emsp;"(1) provide the necessary—
+
+&emsp;&emsp;"(A) stability in budgeting and acquisition of capabilities;
+
+&emsp;&emsp;"(B) flexibility to the Federal Government; and
+
+&emsp;&emsp;"(C) procedures for fair competition; and
+
+&emsp;"(2) specifically take into account, as appropriate per competition, the effect of—
+
+&emsp;&emsp;"(A) contracts or agreements for launch services or launch capability entered into by the Department of Defense and the National Aeronautics and Space Administration with certified evolved expendable launch vehicle providers;
+
+&emsp;&emsp;"(B) the requirements of the Department of Defense, including with respect to launch capabilities and pricing data, that are met by such providers;
+
+&emsp;&emsp;"(C) the cost of integrating a satellite onto a launch vehicle; and
+
+&emsp;&emsp;"(D) any other matters the Secretary considers appropriate.
+
+"(e)
+
+Competition.—In awarding any contract for launch services in a national security space mission pursuant to a competitive acquisition, the evaluation shall account for the value of the evolved expendable launch vehicle launch capability arrangement per contract line item numbers in the bid price of the offeror as appropriate per launch.
+
+"(f)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a report on the acquisition strategy developed under subsection (c)."
+
 #### Rocket Propulsion System Development Program
 
-Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, provided that:
+Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099, provided that:
 
 "(a)
 
@@ -69,6 +137,14 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 &emsp;"(3) the estimated cost of such system.
 
 "(c)
+
+Streamlined Acquisition.—In developing the rocket propulsion system required under subsection (a), the Secretary shall—
+
+&emsp;"(1) use a streamlined acquisition approach, including tailored documentation and review processes, that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches; and
+
+&emsp;"(2) prior to establishing such acquisition approach, establish well-defined requirements with a clear acquisition strategy.
+
+"(d)
 
 Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the following:
 

@@ -108,7 +108,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (II) Exception
 
-&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+&emsp;&emsp;&emsp;&emsp;Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close ofthe 90th day after the close of the calender <sup>1</sup> year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
 
 #### (iii) Testing period
 
@@ -280,7 +280,7 @@ For nonapplication of amendment by section 123(b)(3) of Pub. L. 99–514 to the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "calendar".</i>
 

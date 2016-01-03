@@ -42,7 +42,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 &emsp;(11) Programs that engage older individuals with children and youth to complete service in energy conservation, environmental stewardship, or other environmental needs of a community, including service relating to conducting energy audits, insulating homes, or conducting other activities to promote energy efficiency.
 
-&emsp;(12) Programs that reach out to organizations (such as labor unions and profitmakingorganizations) not previously involved in addressing national problems of local concern.
+&emsp;(12) Programs that reach out to organizations (such as labor unions and profitmaking organizations) not previously involved in addressing national problems of local concern.
 
 &emsp;(13) Programs that provide for outreach to increase participation of members of ethnic groups who have limited English proficiency.
 
@@ -68,7 +68,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 The Director shall widely disseminate information on grants that may be made under subsection (a) of this section to field personnel of the Corporation and to community volunteer organizations that request such information.
 
-(Pub. L. 93–113, title II, §225, as added Pub. L. 101–204, title V, §502(a), Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §349, title IV, §405(a)(6), Sept. 21, 1993, 107 Stat. 906, 920; Pub. L. 111–13, title II, §2146(d), Apr. 21, 2009, 123 Stat. 1589.)
+(Pub. L. 93–113, title II, §225, as added Pub. L. 101–204, title V, §502(a), Dec. 7, 1989, 103 Stat.1815; amended Pub. L. 103–82, title III, §349, title IV, §405(a)(6), Sept. 21, 1993, 107 Stat. 906, 920; Pub. L. 111–13, title II, §2146(d), Apr. 21, 2009, 123 Stat. 1589.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Pub. L. 111–13, §2146(d)(2)(F), redesignated par. (15) as (14). Former par. (
 
 Subsec. (b)(15) to (18). Pub. L. 111–13, §2146(d)(2)(J), (K), redesignated pars. (17) and (18) as (15) and (16), respectively, and struck out former par. (16), which read as follows: "Programs that involve older volunteers working with young people in apprenticeship programs." Former par. (15) redesignated (14).
 
-Subsec. (c)(1). Pub. L. 111–13, §2146(d)(3), inserted "and that such applicant has expertise applicable toimplementing the proposed program for which the applicant is requesting the grant" after "supported by such applicant".
+Subsec. (c)(1). Pub. L. 111–13, §2146(d)(3), inserted "and that such applicant has expertise applicable to implementing the proposed program for which the applicant is requesting the grant" after "supported by such applicant".
 
 Subsec. (e). Pub. L. 111–13, §2146(d)(4), inserted "widely" after "shall".
 

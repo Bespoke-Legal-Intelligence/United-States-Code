@@ -16,7 +16,7 @@ The term "upstream subsidy" means any countervailable subsidy, other than an exp
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) of this section for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
+&emsp;Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
 
 #### (2) Adjustments
 
@@ -40,7 +40,7 @@ Subsec. (b)(2). Pub. L. 103–465, §270(a)(1)(K), inserted "countervailable" be
 
 Subsec. (c). Pub. L. 103–465, §270(a)(2)(B), as amended by Pub. L. 104–295, inserted "countervailable" before "subsidy" in heading.
 
-Pub. L. 103–465, §270(a)(1)(L), (c)(3), inserted "countervailable" after "upstream" and substituted "the countervailable subsidy determined" for "subsidization determined".
+Pub. L. 103–465, §270(a)(1)(L), (c)(3), inserted "countervailable" after "upstream" and substituted "thecountervailable subsidy determined" for "subsidization determined".
 
 Pub. L. 103–465, §233(a)(5)(GG), substituted "subject merchandise" for "merchandise under investigation".
 

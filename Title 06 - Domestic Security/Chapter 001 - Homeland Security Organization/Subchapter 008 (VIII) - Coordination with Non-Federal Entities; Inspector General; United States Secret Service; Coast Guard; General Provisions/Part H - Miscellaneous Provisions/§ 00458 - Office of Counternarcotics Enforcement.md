@@ -22,7 +22,7 @@ The Director of the Office of Counternarcotics Enforcement shall not be employed
 
 The Secretary shall direct the Director of the Office of Counternarcotics Enforcement—
 
-&emsp;(1) to coordinate policy and operations within the Department, between the Departmentand other Federal departments and agencies, and between the Department and State and local agencies with respect to stopping the entry of illegal drugs into the United States;
+&emsp;(1) to coordinate policy and operations within the Department, between the Department and other Federal departments and agencies, and between the Department and State and local agencies with respect to stopping the entry of illegal drugs into the United States;
 
 &emsp;(2) to ensure the adequacy of resources within the Department for stopping the entry of illegal drugs into the United States;
 
@@ -58,7 +58,7 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 &emsp;&emsp;(C) state whether those activities were sufficient to meet the responsibility of the Department to stop the entry of illegal drugs into the United States, including a description of the performance measures of effectiveness that were used in making that determination; and
 
-&emsp;&emsp;(D) recommend, where appropriate, changes to those activities to improve the performance of the Department in meeting its responsibility to stop the entry of illegal drugs into the United States.
+&emsp;&emsp;(D) recommend, where appropriate, changes to those activities to improve theperformance of the Department in meeting its responsibility to stop the entry of illegal drugs into the United States.
 
 #### (3) Classified or law enforcement sensitive information
 

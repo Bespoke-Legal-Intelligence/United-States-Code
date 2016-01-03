@@ -1,6 +1,6 @@
 ### §5501. Commitment actions
 
-The Secretary may incur necessary court costs and other expenses incident to proceedings for the commitment of mentally incompetentveterans to a Department hospital or domiciliary when necessary for treatment or domiciliary purposes.
+The Secretary may incur necessary court costs and other expenses incident to proceedings for the commitment of mentally incompetent veterans to a Department hospital or domiciliary when necessary for treatment or domiciliary purposes.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1232, §3201; renumbered §5501, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

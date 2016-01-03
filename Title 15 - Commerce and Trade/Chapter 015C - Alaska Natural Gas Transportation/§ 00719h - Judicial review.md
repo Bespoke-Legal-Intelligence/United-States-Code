@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, the actions of Federal officers or a
 
 #### (A) In general
 
-&emsp;&emsp;A claim under subsection (b) of this section shall be barred unless a complaint is filed prior to the expiration of such time limits in the United States Court of Appeals for the District of Columbia acting as a Special Court.
+&emsp;&emsp;A claim under subsection (b) shall be barred unless a complaint is filed prior to the expiration of such time limits in the United States Court of Appeals for the District of Columbia acting as a Special Court.
 
 #### (B) Exclusive jurisdiction
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Transfer of Functions
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of dateof initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 

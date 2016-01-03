@@ -32,7 +32,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 &emsp;Notwithstanding any other provision of law:
 
-&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection by a certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
+&emsp;&emsp;(A) The Secretary shall guarantee 80 percent of a loan made under this subsection bya certified lending institution as described in paragraph (1), subject to county committee certification that the borrower of the loan meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter.
 
 &emsp;&emsp;(B) With respect to loans to be guaranteed by the Secretary under this subsection, the Secretary shall permit certified lending institutions to make appropriate certifications (as provided by regulations issued by the Secretary)—
 
@@ -102,7 +102,7 @@ Pub. L. 102–554, §23, Oct. 28, 1992, 106 Stat. 4161, provided that:
 
 "(a)
 
-Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
+Interim Regulations.—Not later than 180 days after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary of Agriculture shall issue such interimregulations as are necessary to implement this Act \[see Short Title of 1992 Amendment note set out under section 1921 of this title\] and the amendments made by this Act.
 
 "(b)
 
@@ -112,7 +112,7 @@ Pub. L. 100–233, title VI, §624, Jan. 6, 1988, 101 Stat. 1685, provided that:
 
 #### Study and Report to Congress Before Issuance of Certain Final Regulations
 
-Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate andthe Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
+Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
 
 #### Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds
 

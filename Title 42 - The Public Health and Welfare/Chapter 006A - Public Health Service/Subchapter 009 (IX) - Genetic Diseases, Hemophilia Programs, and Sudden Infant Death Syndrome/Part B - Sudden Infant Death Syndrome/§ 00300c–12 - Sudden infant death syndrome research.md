@@ -1,6 +1,6 @@
 ### §300c–12. Sudden infant death syndrome research
 
-From the sums appropriated to the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the Secretary shall assure that there are applied to research ofthe type described in subparagraphs (A) and (B) of subsection (b)(1) <sup>1</sup> of this section such amounts each year as will be adequate, given the leads and findings then available from such research, in order to make maximum feasible progress toward identification of infants at risk of sudden infant death syndrome and prevention of sudden infant death syndrome.
+From the sums appropriated to the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the Secretary shall assure that there are applied to research of the type described in subparagraphs (A) and (B) of subsection (b)(1) <sup>1</sup> of this section such amounts each year as will be adequate, given the leads and findings then available from such research, in order to make maximum feasible progress toward identification of infants at risk of sudden infant death syndrome and prevention of sudden infant death syndrome.
 
 (July 1, 1944, ch. 373, title XI, §1122, as added Pub. L. 96–142, title II, §202, Dec. 12, 1979, 93 Stat. 1072; amended Pub. L. 99–158, §3(a)(6), Nov. 20, 1985, 99 Stat. 879; Pub. L. 103–437, §15(a)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 109–482, title I, §104(b)(2)(B), Jan. 15, 2007, 120 Stat. 3693; Pub. L. 110–154, §1(b)(10), Dec. 21, 2007, 121 Stat. 1827.)
 

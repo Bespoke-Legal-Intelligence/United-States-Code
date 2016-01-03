@@ -54,7 +54,7 @@ Act Aug. 8, 1951, ch. 298, §1, 65 Stat. 175, provided: "That this Act \[this su
 
 #### Separability
 
-Act Aug. 8, 1951, ch. 298, §13, 65 Stat. 181, provided that: "If any provision of this Act \[this subchapter\] orthe application thereof to any person or circumstance is held invalid, the remainder of the Act \[this subchapter\] and the application of such provision to any other person or circumstance shall not be affected thereby."
+Act Aug. 8, 1951, ch. 298, §13, 65 Stat. 181, provided that: "If any provision of this Act \[this subchapter\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act \[this subchapter\] and the application of such provision to any other person or circumstance shall not be affected thereby."
 
 #### Transfer of Functions
 

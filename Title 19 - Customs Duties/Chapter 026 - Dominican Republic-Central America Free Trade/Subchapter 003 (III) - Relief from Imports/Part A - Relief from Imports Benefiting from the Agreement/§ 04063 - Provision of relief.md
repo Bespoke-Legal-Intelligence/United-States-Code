@@ -38,7 +38,7 @@ The President is not required to provide import relief under this section if the
 
 &emsp;&emsp;If the initial period for any import relief provided under this section is less than 4 years, the President, after receiving a determination from the Commission under subparagraph (B) that is affirmative, or which the President considers to be affirmative under paragraph (1) of section 1330(d) of this title, may extend the effective period of any import relief provided under this section, subject to the limitation under paragraph (1), if the President determines that—
 
-&emsp;&emsp;&emsp;(i) the import relief continues to be necessary to remedy or prevent serious injuryand to facilitate adjustment by the domestic industry to import competition; and
+&emsp;&emsp;&emsp;(i) the import relief continues to be necessary to remedy or prevent serious injury and to facilitate adjustment by the domestic industry to import competition; and
 
 &emsp;&emsp;&emsp;(ii) there is evidence that the industry is making a positive adjustment to import competition.
 
@@ -48,7 +48,7 @@ The President is not required to provide import relief under this section if the
 
 &emsp;&emsp;(ii) The Commission shall publish notice of the commencement of any proceeding under this subparagraph in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
-&emsp;&emsp;(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action under subsection (a) is to terminate, unless the President specifies a different date.
+&emsp;&emsp;(iii) The Commission shall transmit to the President a report on its investigation and determination under this subparagraph not later than 60 days before the action undersubsection (a) is to terminate, unless the President specifies a different date.
 
 #### (e) Rate after termination of import relief
 

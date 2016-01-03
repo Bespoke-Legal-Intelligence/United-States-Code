@@ -4,7 +4,7 @@
 
 (1) It shall be unlawful for any person, including any transportation company, or the owner, master, commanding officer, agent, charterer, or consignee of any vessel or aircraft, to bring to the United States from any place outside thereof (other than from foreign contiguous territory) any alien who does not have a valid passport and an unexpired visa, if a visa was required under this chapter or regulations issued thereunder.
 
-(2) It is unlawful for an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft who is bringing an alien (except an alien crewmember) to theUnited States to take any consideration to be kept or returned contingent on whether an alien is admitted to, or ordered removed from, the United States.
+(2) It is unlawful for an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft who is bringing an alien (except an alien crewmember) to the United States to take any consideration to be kept or returned contingent on whether an alien is admitted to, or ordered removed from, the United States.
 
 #### (b) Evidence
 
@@ -12,7 +12,7 @@ If it appears to the satisfaction of the Attorney General that any alien has bee
 
 #### (c) Remission or refund
 
-Except as provided in subsection (e) of this section, such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by the exercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
+Except as provided in subsection (e), such fine shall not be remitted or refunded, unless it appears to the satisfaction of the Attorney General that such person, and the owner, master, commanding officer, agent, charterer, and consignee of the vessel or aircraft, prior to the departure of the vessel or aircraft from the last port outside the United States, did not know, and could not have ascertained by the exercise of reasonable diligence, that the individual transported was an alien and that a valid passport or visa was required.
 
 #### (d) Repealed. Pub. L. 104–208, div. C, title III, §308(e)(13), Sept. 30, 1996, 110 Stat. 3009–620
 
@@ -48,11 +48,11 @@ Pub. L. 103–416, §209(a)(1), as amended by Pub. L. 104–208, §671(b)(7), su
 
 Pub. L. 103–416, §209(a)(2), (4), in first sentence substituted "an amount equal to" for "a sum equal to" and "such latter fine" for "such latter sum", and in second sentence substituted "such fine or while such fine" for "such sums or while such sums" and "cover such fine" for "cover such sums".
 
-Subsec. (c). Pub. L. 103–416, §209(a)(4), (5), substituted "Except as provided in subsection (e) of this section, such fine" for "Such sums".
+Subsec. (c). Pub. L. 103–416, §209(a)(4), (5), substituted "Except as provided in subsection (e), such fine" for "Such sums".
 
 Subsec. (d). Pub. L. 103–416, §216, amended first sentence generally. Prior to amendment, first sentence read as follows: "The owner, charterer, agent, consignee, commanding officer, or master of any vessel or aircraft arriving at the United States from any place outside thereof who fails to detain on board or at such other place as may be designated by an immigration officer any alien stowaway until such stowaway has been inspected by an immigration officer, or who fails to detain such stowaway on board or at such other designated place after inspection if ordered to do so by an immigration officer, or who fails to deport such stowaway on the vessel or aircraft on which he arrived or on another vessel or aircraft at the expense of the vessel or aircraft on which he arrived when required to do so by an immigration officer, shall pay to the Commissioner the sum of $3,000 for each alien stowaway, in respect of whom any such failure occurs."
 
-Pub. L. 103–416, §209(a)(1), which directed that subsec. (d) be amended by substituting "a fine of $3,000" for "the sum of $3000", was executed in the first sentenceby making the substitution for "the sum of $3,000", to reflect the probable intent of Congress.
+Pub. L. 103–416, §209(a)(1), which directed that subsec. (d) be amended by substituting "a fine of $3,000" for "the sum of $3000", was executed in the first sentence by making the substitution for "the sum of $3,000", to reflect the probable intent of Congress.
 
 Pub. L. 103–416, §209(a)(3), in second sentence substituted "an amount" for "a sum" before "sufficient to cover such fine".
 

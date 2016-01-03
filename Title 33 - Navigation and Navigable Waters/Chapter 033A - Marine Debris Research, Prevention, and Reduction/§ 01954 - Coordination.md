@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 109–449, §5(a)(2), inserted "public, interagency" before
 
 &emsp;"(3) identify the types and classes of plastic materials that pose the greatest potential hazard to living marine resources;
 
-&emsp;"(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materials which are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
+&emsp;"(4) analyze, in consultation with the Director of the National Bureau of Standards, plastic materialswhich are claimed to be capable of reduction to environmentally benign submits under the action of normal environmental forces (including biological decomposition, photodegradation, and hydrolysis); and
 
 &emsp;"(5) recommend legislation which is necessary to prohibit, tax, or regulate sources of plastic materials that enter the marine environment."
 

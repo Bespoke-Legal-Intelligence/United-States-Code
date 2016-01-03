@@ -38,7 +38,7 @@ Study and Evaluation of Activities.—The Committee shall make a continuing stud
 
 &emsp;(1) problems related to the employment of the blind and other severely disabled individuals; and
 
-&emsp;(2) the development and adaptation of production methods that would enable a greater utilization of the blind and other severely disabled individuals.
+&emsp;(2) the development and adaptation of production methods that would enable a greaterutilization of the blind and other severely disabled individuals.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3836.)
 

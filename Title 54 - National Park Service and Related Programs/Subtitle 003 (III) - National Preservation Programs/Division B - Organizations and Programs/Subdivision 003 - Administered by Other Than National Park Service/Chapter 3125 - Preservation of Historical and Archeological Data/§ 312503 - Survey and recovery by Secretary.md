@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary, on notification, in writing, by any Federal or State agencyor appropriate historical or archeological authority that scientific, prehistorical, historical, or archeological data are being or may be irrevocably lost or destroyed by any Federal or federally assisted or licensed project, activity, or program, shall, if the Secretary determines that the data are significant and are being or may be irrevocably lost or destroyed and after reasonable notice to the agency responsible for funding or licensing the project, activity, or program—
+In General.—The Secretary, on notification, in writing, by any Federal or State agency or appropriate historical or archeological authority that scientific, prehistorical, historical, or archeological data are being or may be irrevocably lost or destroyed by any Federal or federally assisted or licensed project, activity, or program, shall, if the Secretary determines that the data are significant and are being or may be irrevocably lost or destroyed and after reasonable notice to the agency responsible for funding or licensing the project, activity, or program—
 
 &emsp;(1) conduct or cause to be conducted a survey and other investigation of the areas that are or may be affected; and
 

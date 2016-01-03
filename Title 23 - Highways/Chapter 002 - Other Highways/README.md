@@ -8,16 +8,10 @@
 | [204\.](%C2%A7%2000204%20-%20Federal%20lands%20access%20program.md) | Federal lands access program. |
 | [205\.](%C2%A7%2000205%20-%20Forest%20development%20roads%20and%20trails.md) | Forest development roads and trails. |
 | [206\.](%C2%A7%2000206%20-%20Recreational%20trails%20program.md) | Recreational trails program. |
-| \[207 to 209. Repealed.\] |  |
+| [207\.](%C2%A7%2000207%20-%20Tribal%20transportation%20self-governance%20program.md) | Tribal transportation self-governance program. |
+| \[208, 209. Repealed.\] |  |
 | [210\.](%C2%A7%2000210%20-%20Defense%20access%20roads.md) | Defense access roads. |
-| \[211, 212. Repealed.\] |  |
-| [213\.](%C2%A7%2000213%20-%20Transportation%20alternatives.md) | Transportation alternatives <sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| \[214 to 216. Repealed.\] |  |
+| \[211 to 216. Repealed.\] |  |
 | [217\.](%C2%A7%2000217%20-%20Bicycle%20transportation%20and%20pedestrian%20walkways.md) | Bicycle transportation and pedestrian walkways. |
 | [218\.](%C2%A7%2000218%20-%20Alaska%20Highway.md) | Alaska Highway. |
 | \[219. | Repealed.\] |
@@ -25,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title I, §§1109(c)(6)(B), 1121(b), Dec. 4, 2015, 129 Stat. 1344, 1368, added item 207 and struck out item 213 "Transportation alternatives".
 
 <b>2012</b>—Pub. L. 112–141, div. A, title I, §§1114(b)(2)(B), 1119(c)(1), 1122(b), 1519(c)(1)(B), July 6, 2012, 126 Stat. 468, 491, 497, 575, substituted "Federal lands and tribal transportation programs" for "Authorizations" in item 201, "Tribal transportation program" for "Allocations" in item 202, "Federal lands transportation program" for "Availability of funds" in item 203, and "Federal lands access program" for "Federal lands highways program" in item 204, struck out item 212 "Inter-American Highway", added item 213, and struck out items 214 "Public lands development roads and trails", 215 "Territorial highway program", and 216 "Darien Gap Highway".
 
@@ -50,8 +46,6 @@ Pub. L. 97–424, title I, §126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted
 
 <b>1962</b>—Pub. L. 87–866, §6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
 
 ---
 
@@ -63,11 +57,12 @@ Pub. L. 97–424, title I, §126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted
 - [&sect; 00204 - Federal lands access program](%C2%A7%2000204%20-%20Federal%20lands%20access%20program.md)
 - [&sect; 00205 - Forest development roads and trails](%C2%A7%2000205%20-%20Forest%20development%20roads%20and%20trails.md)
 - [&sect; 00206 - Recreational trails program](%C2%A7%2000206%20-%20Recreational%20trails%20program.md)
-- [&sect; 00207 to 209 - Repealed. Pub. L. 97&#8211;424, title I, &sect;126(d), Jan. 6, 1983, 96 Stat. 2115](%C2%A7%2000207%20to%20209%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93424%2C%20title%20I%2C%20%C2%A7126%28d%29%2C%20Jan.%206%2C%201983%2C%2096%20Stat.%202115.md)
+- [&sect; 00207 - Tribal transportation self-governance program](%C2%A7%2000207%20-%20Tribal%20transportation%20self-governance%20program.md)
+- [&sect; 00208, 209 - Repealed. Pub. L. 97&#8211;424, title I, &sect;126(d), Jan. 6, 1983, 96 Stat. 2115](%C2%A7%2000208%2C%20209%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93424%2C%20title%20I%2C%20%C2%A7126%28d%29%2C%20Jan.%206%2C%201983%2C%2096%20Stat.%202115.md)
 - [&sect; 00210 - Defense access roads](%C2%A7%2000210%20-%20Defense%20access%20roads.md)
 - [&sect; 00211 - Repealed. Pub. L. 100&#8211;17, title I, &sect;133(e)(1), Apr. 2, 1987, 101 Stat. 173](%C2%A7%2000211%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7133%28e%29%281%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20173.md)
 - [&sect; 00212 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000212%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
-- [&sect; 00213 - Transportation alternatives](%C2%A7%2000213%20-%20Transportation%20alternatives.md)
+- [&sect; 00213 - Repealed. Pub. L. 114&#8211;94, div. A, title I, &sect;1109(c)(2), Dec. 4, 2015, 129 Stat. 1343](%C2%A7%2000213%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71109%28c%29%282%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201343.md)
 - [&sect; 00214 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1119(b), July 6, 2012, 126 Stat. 491](%C2%A7%2000214%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71119%28b%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20491.md)
 - [&sect; 00215 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1114(b)(2)(A), July 6, 2012, 126 Stat. 468](%C2%A7%2000215%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71114%28b%29%282%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20468.md)
 - [&sect; 00216 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000216%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)

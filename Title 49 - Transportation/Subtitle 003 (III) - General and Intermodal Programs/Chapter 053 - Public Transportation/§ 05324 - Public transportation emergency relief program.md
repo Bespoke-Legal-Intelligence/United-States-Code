@@ -122,7 +122,7 @@ In subsection (a), before clause (1), the word "provided" is substituted for "ex
 
 In subsection (b)(1), the words "Health and Human Services" are substituted for "Health, Education, and Welfare" in section 14(a) (last sentence) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 308) \[subsequently changed to the Federal Transit Act by section 3003(a) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2087)\] because of 20:3508(b).
 
-In subsection (b)(2), before clause (A), the words "In carrying out section 5306 of this title" are added for clarity and consistency with subsections (b)(3) and (c)of this section. The word "detailed" is omitted as surplus. In clause (B), the words "should the proposal be implemented" are omitted as surplus. In clause (D), the words "which may be involved in the proposed project should it be implemented" are omitted as surplus.
+In subsection (b)(2), before clause (A), the words "In carrying out section 5306 of this title" are added for clarity and consistency with subsections (b)(3) and (c) of this section. The word "detailed" is omitted as surplus. In clause (B), the words "should the proposal be implemented" are omitted as surplus. In clause (D), the words "which may be involved in the proposed project should it be implemented" are omitted as surplus.
 
 In subsection (b)(3)(A), before clause (i), the word "financial" is added for clarity. The words "full and complete" are omitted as surplus. In clause (ii), the word "fair" is omitted as surplus. In clause (iii), the word "either" is omitted as surplus.
 

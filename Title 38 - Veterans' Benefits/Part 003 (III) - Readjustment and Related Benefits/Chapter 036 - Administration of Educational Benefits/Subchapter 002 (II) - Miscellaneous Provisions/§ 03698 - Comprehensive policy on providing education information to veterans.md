@@ -2,7 +2,7 @@
 
 (a)
 
-Comprehensive Policy Required.—The Secretary shall develop a comprehensive policyto improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
+Comprehensive Policy Required.—The Secretary shall develop a comprehensive policy to improve outreach and transparency to veterans and members of the Armed Forces through the provision of information on institutions of higher learning.
 
 (b)
 
@@ -70,7 +70,7 @@ Consistency With Existing Education Policy.—In carrying out this section, the 
 
 (e)
 
-Communication With Institutions of Higher Learning.—To the extent practicable, if theSecretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
+Communication With Institutions of Higher Learning.—To the extent practicable, if the Secretary considers it necessary to communicate with an institution of higher learning to carry out the comprehensive policy required by subsection (a), the Secretary shall carry out such communication through the use of a communication system of the Department of Education.
 
 (f)
 
@@ -132,5 +132,5 @@ Commercially available off-the-shelf.—The term 'commercially available off-the
 
 &emsp;"(3)
 
-Postsecondary education and training opportunities.—The term 'postsecondary education and training opportunities' means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces."
+Postsecondary education and training opportunities.—The term 'postsecondary educationand training opportunities' means any postsecondary program of education, including apprenticeships and on-job training, for which the Secretary of Veterans Affairs provides assistance to a veteran or member of the Armed Forces."
 

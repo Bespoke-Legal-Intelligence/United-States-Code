@@ -38,7 +38,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) provides reimbursement for at least the items and services described in section 1395w–22(a)(1) of this title in a year but only after the enrollee incurs countable expenses (as specified under the plan) equal to the amount of an annual deductible (described in subparagraph (B));
 
-&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amountsthat would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
+&emsp;&emsp;&emsp;(ii) counts as such expenses (for purposes of such deductible) at least all amounts that would have been payable under parts A and B of this subchapter, and that would have been payable by the enrollee as deductibles, coinsurance, or copayments, if the enrollee had elected to receive benefits through the provisions of such parts; and
 
 &emsp;&emsp;&emsp;(iii) provides, after such deductible is met for a year and for all subsequent expenses for items and services referred to in clause (i) in the year, for a level of reimbursement that is not less than—
 
@@ -120,7 +120,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) In general
 
-&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict the enrollment of individuals under this part to individuals who are members of the church,convention, or group described in paragraph (3)(B) with which the society is affiliated.
+&emsp;In the case of a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), notwithstanding any other provision of this part to the contrary and in accordance with regulations of the Secretary, the society offering the plan may restrict the enrollment of individuals under this part to individuals who are members of the church, convention, or group described in paragraph (3)(B) with which the society is affiliated.
 
 #### (2) Medicare+Choice religious fraternal benefit society plan described
 
@@ -152,7 +152,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (1) Requirements for enrollment
 
-&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2017, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+&emsp;In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2019, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
 
 #### (2) Additional requirements for institutional SNPS
 
@@ -260,13 +260,15 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(D) has participated (as of December 31, 2009) in a demonstration project established by the Secretary under which such a plan was offered for not less than 1 year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f)(1). Pub. L. 114–10 substituted "2019" for "2017".
 
 <b>2014</b>—Subsec. (f)(1). Pub. L. 113–93 substituted "2017" for "2016".
 

@@ -10,7 +10,7 @@ International organizations shall enjoy the status, immunities, exemptions, and 
 
 &emsp;(iii) to institute legal proceedings.
 
-(b) International organizations, their property and their assets, wherever located, and bywhomsoever held, shall enjoy the same immunity from suit and every form of judicial process as is enjoyed by foreign governments, except to the extent that such organizations may expressly waive their immunity for the purpose of any proceedings or by the terms of any contract.
+(b) International organizations, their property and their assets, wherever located, and by whomsoever held, shall enjoy the same immunity from suit and every form of judicial process as is enjoyed by foreign governments, except to the extent that such organizations may expressly waive their immunity for the purpose of any proceedings or by the terms of any contract.
 
 (c) Property and assets of international organizations, wherever located and by whomsoever held, shall be immune from search, unless such immunity be expressly waived, and from confiscation. The archives of international organizations shall be inviolable.
 

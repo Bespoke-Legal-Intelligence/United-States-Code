@@ -18,7 +18,7 @@ The Administrator, to verify the accuracy of information he has received or othe
 
 #### (e) Subpenas; attendance and testimony of witnesses; production of evidence; enforcement; judicial orders; contempt
 
-(1) The Administrator, or any of his duly authorized agents, shall have the power to requireby subpena the attendance and testimony of witnesses, and the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence which the Administrator is authorized to obtain pursuant to this section.
+(1) The Administrator, or any of his duly authorized agents, shall have the power to require by subpena the attendance and testimony of witnesses, and the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence which the Administrator is authorized to obtain pursuant to this section.
 
 (2) Any appropriate United States district court may, in case of contumacy or refusal to obey a subpena issued pursuant to this section, issue an order requiring the party to whom such subpena is directed to appear before the Administration and to give testimony touching on the matter in question, or to produce any matter described in paragraph (1) of this subsection, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
@@ -28,7 +28,7 @@ The Administrator shall collect from departments, agencies and instrumentalities
 
 #### (g) Maintenance of records and accounts
 
-With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, the Administrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.
+With respect to any person who is subject to any rule, regulation, or order promulgated by the Administrator or to any provision of law the administration of which is vested in or transferred or delegated to the Administrator, theAdministrator may require, by rule, the keeping of such accounts or records as he determines are necessary or appropriate for determining compliance with such rule, regulation, order, or any applicable provision of law.
 
 #### (h) Alleviation of reporting burdens for small businesses
 
@@ -36,7 +36,7 @@ In exercising his authority under this chapter and any other provision of law re
 
 #### (i) Penalties for failure to file information
 
-Any failure to make information available to the Administrator under subsection (b) of this section, any failure to comply with any general or special order under subsection (c) of this section, or any failure to allow the Administrator to act under subsection (d) of this section shall be subject to the same penalties as any violation of section 796 of this title or any rule, regulation, or order issued under such section.
+Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of section 796 of this title or any rule, regulation, or order issued under such section.
 
 (Pub. L. 93–275, §13, May 7, 1974, 88 Stat. 107; Pub. L. 94–385, title I, §§107, 108, Aug. 14, 1976, 90 Stat. 1129.)
 

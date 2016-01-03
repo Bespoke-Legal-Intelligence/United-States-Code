@@ -74,7 +74,7 @@ Pub. L. 86–707, title V, §501(a), Sept. 6, 1960, 74 Stat. 800, provided that:
 
 #### References to Provisions Affected by the Overseas Differentials and Allowances Act
 
-Pub. L. 86–707, title V, §521, Sept. 6, 1960, 74 Stat. 802, provided that: "Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act \[repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections 3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section\], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act."
+Pub. L. 86–707, title V, §521, Sept. 6, 1960, 74 Stat. 802, provided that: "Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act \[repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section\], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act."
 
 #### Transitional Provisions for Payment of Allowances and Differentials
 
@@ -186,7 +186,7 @@ Sec. 202. Regulations approved under authority delegated by the provisions of Se
 
 (b) Shall not apply to employees who are stationed in either the Canal Zone or in any "foreign area" as defined in 5 U.S.C. 5921(6).
 
-(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paidby the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
+(c) Shall be limited to employees whose rates of basic compensation are fixed in conformity with rates paid by the Government for work of a comparable level of difficulty and responsibility to employees stationed in the continental United States, exclusive of Alaska.
 
 (d) Shall not, with respect to any locality, authorize allowances which exceed those prescribed under Executive Order No. 10000 of September 16, 1948, as amended, for other employees of the United States in the same locality.
 

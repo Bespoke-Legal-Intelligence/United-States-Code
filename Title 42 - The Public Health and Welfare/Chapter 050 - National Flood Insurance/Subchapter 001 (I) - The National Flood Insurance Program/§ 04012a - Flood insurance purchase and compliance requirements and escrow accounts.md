@@ -112,7 +112,43 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+#### (A) Federal entities responsible for lending regulations
+
+&emsp;&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.
+
+#### (B) Limitation
+
+&emsp;&emsp;Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the regulated lending institution has total assets of less than $1,000,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;(II) on or before July 6, 2012, the regulated lending institution—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a loan that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
+
+&emsp;&emsp;&emsp;&emsp;(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
+
+&emsp;&emsp;&emsp;&emsp;(III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
+
+&emsp;&emsp;&emsp;&emsp;(IV) is a home equity line of credit;
+
+&emsp;&emsp;&emsp;&emsp;(V) is a nonperforming loan; or
+
+&emsp;&emsp;&emsp;&emsp;(VI) has a term of not longer than 12 months.
 
 #### (2) Federal agency lenders
 
@@ -262,52 +298,6 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 (Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780; Pub. L. 112–141, div. F, title II, §§100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, 126 Stat. 919, 920, 958, 966; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, §§13(a), 25(a), Mar. 21, 2014, 128 Stat. 1026, 1030.)
 
-#### Amendment of Subsection (d)(1)
-
-<i>Pub. L. 112–141, div. F, title II, §100209(a), July 6, 2012, 126 Stat. 920; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, §25(a), (b)(1), Mar. 21, 2014, 128 Stat. 1030, provided that, applicable to any loan that is originated, refinanced, increased, extended, or renewed on or after Jan. 1, 2016, with provision for optional applicability, subsection (d)(1) of this section is amended to read as follows:</i>
-
-#### <i>(1) Regulated lending institutions</i>
-
-#### <i>(A) Federal entities responsible for lending regulations</i>
-
-&emsp;&emsp;<i>Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.</i>
-
-#### <i>(B) Limitation</i>
-
-&emsp;&emsp;<i>Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lend</i><i>ing institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—</i>
-
-&emsp;&emsp;&emsp;<i>(i) if—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the regulated lending institution has total assets of less than $1,000,000,000; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) on or before July 6, 2012, the regulated lending institution—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) in the case of a loan that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and</i>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) is a home equity line of credit;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(V) is a nonperforming loan; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(VI) has a term of not longer than 12 months.</i>
-
-<i>See 2012, 2013, and 2014 Amendment notes below.</i>
-
 #### References in Text
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -352,7 +342,7 @@ Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" f
 
 Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved realestate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
+Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
 
 Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 

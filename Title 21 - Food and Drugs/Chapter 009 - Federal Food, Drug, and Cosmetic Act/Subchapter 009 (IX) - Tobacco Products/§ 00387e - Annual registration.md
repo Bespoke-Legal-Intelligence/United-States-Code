@@ -26,7 +26,7 @@ Every person required to register under subsection (b) or (c) shall immediately 
 
 #### (e) Uniform product identification system
 
-The Secretary may by regulation prescribe a uniform system for the identification of tobacco products and may require that persons who are required to list such tobacco products under subsection (i) shall list such tobacco products in accordance with such system.
+The Secretary may by regulation prescribe a uniform system for the identification of tobaccoproducts and may require that persons who are required to list such tobacco products under subsection (i) shall list such tobacco products in accordance with such system.
 
 #### (f) Public access to registration information
 
@@ -48,7 +48,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(A) in the case of a tobacco product contained in the applicable list with respect to which a tobacco product standard has been established under section 387g of this title or which is subject to section 387j of this title, a reference to the authority for the marketing of such tobacco product and a copy of all labeling for such tobacco product;
 
-&emsp;&emsp;(B) in the case of any other tobacco product contained in an applicable list, a copy ofall consumer information and other labeling for such tobacco product, a representative sampling of advertisements for such tobacco product, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular tobacco product; and
+&emsp;&emsp;(B) in the case of any other tobacco product contained in an applicable list, a copy of all consumer information and other labeling for such tobacco product, a representative sampling of advertisements for such tobacco product, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular tobacco product; and
 
 &emsp;&emsp;(C) if the registrant filing a list has determined that a tobacco product contained in such list is not subject to a tobacco product standard established under section 387g of this title, a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular tobacco product.
 
@@ -94,7 +94,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;&emsp;(i) such modification would be a minor modification of a tobacco product that can be sold under this chapter;
 
-&emsp;&emsp;&emsp;(ii) a report under this subsection is not necessary to ensure that permitting the tobacco product to be marketed would beappropriate for protection of the public health; and
+&emsp;&emsp;&emsp;(ii) a report under this subsection is not necessary to ensure that permitting the tobacco product to be marketed would be appropriate for protection of the public health; and
 
 &emsp;&emsp;&emsp;(iii) an exemption is otherwise appropriate.
 

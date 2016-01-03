@@ -50,7 +50,7 @@
 
 (e) For purposes of any computation under this section, an employee shall, with respect to the period referred to in subsection (b)(2)(B), be considered to have been paid at the rate which would have been payable over such period had such employee remained continuously employed in the position which such employee last held before separating or entering leave-without-pay status to perform military service.
 
-(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been made had the employee not separated or entered leave without pay status to perform military service.
+(f)(1) The employing agency may be required to pay lost earnings on contributions made pursuant to subsections (c) and (d). Such earnings, if required, shall be calculated retroactively to the date the contribution would have been madehad the employee not separated or entered leave without pay status to perform military service.
 
 (2) Procedures for calculating and crediting the earnings payable pursuant to paragraph (1) shall be prescribed by the Executive Director.
 
@@ -68,13 +68,17 @@
 
 &emsp;(B) such employee shall be credited with a period of civilian service equal to the period referred to in subsection (b)(2)(B).
 
-(2)(A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h),<sup>1</sup> as the case may be, to have such employee's separation\(described in subsection (a)(1)) treated as if it had never occurred.
+(2)(A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h),<sup>1</sup> as the case may be, to have such employee's separation (described in subsection (a)(1)) treated as if it had never occurred.
 
 (B) An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 
 (i) The Executive Director shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671.)
+(Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671; Pub. L. 114–92, div. A, title VI, §632(e)(2), Nov. 25, 2015, 129 Stat. 847.)
+
+#### Amendment of Subsection (c)(2)(B)
+
+<i>Pub. L. 114–92, div. A, title VI, §§632(e)(2), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2)(B) of this section is amended by striking "(including pursuant to an agreement under section 211(d) of title 37)". See 2015 Amendment note below.</i>
 
 #### References in Text
 
@@ -82,9 +86,15 @@ Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(2)(B). Pub. L. 114–92 struck out "(including pursuant to an agreement under section 211(d) of title 37)" before "with respect to the period".
+
 <b>1999</b>—Subsec. (b)(2)(B). Pub. L. 106–65, §661(a)(3)(A), inserted "or 8440e" after "section 8432(a)".
 
 Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of this title.
 
 #### Effective Date of 1999 Amendment
 

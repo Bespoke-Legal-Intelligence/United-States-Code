@@ -20,7 +20,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Future obligation of Fund
 
-&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that such subsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties whowere not signatories to the original agreement.
+&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that such subsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
 
 #### (c) Effect of agreement
 
@@ -144,7 +144,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Special covenants not to sue
 
-&emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
+&emsp;In the case of any person to whom the President is authorized under paragraph (1) of thissubsection to provide a covenant not to sue, for the portion of remedial action—
 
 &emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (o), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
@@ -292,7 +292,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Claims for contribution
 
-&emsp;A person who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the otherpotentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A person who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement shall not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (i) Settlement procedures
 

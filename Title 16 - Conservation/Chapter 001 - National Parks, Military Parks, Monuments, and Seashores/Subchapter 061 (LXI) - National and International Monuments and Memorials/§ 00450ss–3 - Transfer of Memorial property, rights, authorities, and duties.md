@@ -6,7 +6,7 @@
 
 &emsp;Not later than 90 days after January 23, 2004, the Trust shall transfer to the Foundation—
 
-&emsp;&emsp;(A) all assets of the Trust, including all real and personal property of the Memorial, any appurtenances, buildings, facilities,monuments, contents, artifacts, contracts and contract rights, accounts, deposits, intangibles, trademarks, trade names, copyrights, all other intellectual property, all other real and personal property of every kind and character comprising the Memorial, and any amounts appropriated for the Trust;
+&emsp;&emsp;(A) all assets of the Trust, including all real and personal property of the Memorial, any appurtenances, buildings, facilities, monuments, contents, artifacts, contracts and contract rights, accounts, deposits, intangibles, trademarks, trade names, copyrights, all other intellectual property, all other real and personal property of every kind and character comprising the Memorial, and any amounts appropriated for the Trust;
 
 &emsp;&emsp;(B) any property owned by the Trust that is adjacent or related to the Memorial; and
 
@@ -18,11 +18,11 @@
 
 #### (b) Assumption of Trust obligations
 
-Any obligations of the Trust relating to the Memorial that have been approved by the Trust before the date on which the property is transferred under subsection (a) of this section shall become the responsibility of the Foundation on the date of the transfer.
+Any obligations of the Trust relating to the Memorial that have been approved by the Trust before the date on which the property is transferred under subsection (a) shall become the responsibility of the Foundation on the date of the transfer.
 
 #### (c) Dissolution of Trust
 
-Not later than 30 days after the transfer under subsection (a) of this section is completed—
+Not later than 30 days after the transfer under subsection (a) is completed—
 
 &emsp;(1) the Trust shall be dissolved; and
 

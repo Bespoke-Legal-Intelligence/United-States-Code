@@ -32,7 +32,7 @@ Pub. L. 109–155, title V, §501(a), (b), Dec. 30, 2005, 119 Stat. 2927.
 
 In subsection (b), the words "The Administrator shall transmit an annual report" are substituted for "Not later than 180 days after the date of enactment of this Act \[December 30, 2005\] and annually thereafter, the Administrator shall transmit a report" to eliminate obsolete language.
 
-In subsection (b), the words "Committee on Science and Technology" are substituted for "Committee onScience" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 

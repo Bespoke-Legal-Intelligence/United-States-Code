@@ -60,7 +60,7 @@ Memorandum of President of the United States, Feb. 17, 2005, 70 F.R. 9841, provi
 
 Memorandum for the Director of the National Science Foundation
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I herebydelegate to you the functions and authority conferred upon the President by Public Law 98–373 (15 U.S.C. 4107(b) and 4108(a)), to provide the specified report and plan to the Congress.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by Public Law 98–373 (15 U.S.C. 4107(b) and 4108(a)), to provide the specified report and plan to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

@@ -18,7 +18,7 @@
 
 #### (3) Priority in grants
 
-&emsp;In determining whether to make grants under this section, the Secretary shall give a priority to eligible entities that, as determined by the Secretary—
+&emsp;In determining whether to make grants under this section, the Secretary shall give apriority to eligible entities that, as determined by the Secretary—
 
 &emsp;&emsp;(A) possess the most substantial capability to increase their capacity to train realtime writers;
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(D) A description of the manner in which the eligible entity intends to continue providing the training and assistance to be funded by the grant after the end of the grant period, including any partnerships or arrangements established for that purpose.
 
-&emsp;&emsp;(E) A description of how the eligible entity will work with local boards (as defined in section 2801 of title 29) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
+&emsp;&emsp;(E) A description of how the eligible entity will work with local boards (as defined in section 3102 of title 29) to ensure that training and assistance to be funded with the grant will further local workforce goals, including the creation of educational opportunities for individuals who are from economically disadvantaged backgrounds or are displaced workers.
 
 &emsp;&emsp;(F) Additional information, if any, on the eligibility of the eligible entity for priority in the making of grants under subsection (a)(3).
 
@@ -122,11 +122,7 @@
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §872, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat.3426; amended Pub. L. 113–128, title V, §512(n)(7), July 22, 2014, 128 Stat. 1711.)
-
-#### Amendment of Subsection (b)(2)(E)
-
-<i>Pub. L. 113–128, title V, §§506, 512(n)(7), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(2)(E) of this section is amended by striking "local boards (as defined in section 2801 of title 29)" and inserting "local boards (as defined in section 3102 of title 29)". See 2014 Amendment note below.</i>
+(Pub. L. 89–329, title VIII, §872, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3426; amended Pub. L. 113–128, title V, §512(n)(7), July 22, 2014, 128 Stat. 1711.)
 
 #### Amendments
 
@@ -134,5 +130,5 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

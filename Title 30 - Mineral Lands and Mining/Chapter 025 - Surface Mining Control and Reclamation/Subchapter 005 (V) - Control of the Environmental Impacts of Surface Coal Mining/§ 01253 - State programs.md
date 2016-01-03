@@ -8,7 +8,7 @@ Each State in which there are or may be conducted surface coal mining operations
 
 &emsp;(2) a State law which provides sanctions for violations of State laws, regulations, or conditions of permits concerning surface coal mining and reclamation operations, which sanctions shall meet the minimum requirements of this chapter, including civil and criminal actions, forfeiture of bonds, suspensions, revocations, and withholding of permits, and the issuance of cease-and-desist orders by the State regulatory authority or its inspectors;
 
-&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel, and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
+&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel,and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
 
 &emsp;(4) a State law which provides for the effective implementations,<sup>1</sup> maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations <sup>1</sup> of surface coal mining and reclamation operations for coal on lands within the State;
 

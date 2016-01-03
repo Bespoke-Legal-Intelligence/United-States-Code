@@ -28,7 +28,7 @@ Biennial Report.—(1) Not later than December 1 of each even-numbered year, eac
 
 (c)
 
-Report to President and Congress.—(1) Not later than March 1 of each year following a year for which a report under subsection (b) is submitted, the Secretary of Defense shall submit to the President a report containing—
+Report to President and Congress.—(1) Not later than March 1 of each year following a year for which a report under subsection (b) issubmitted, the Secretary of Defense shall submit to the President a report containing—
 
 &emsp;(A) each report under subsection (b) submitted during the previous year, as originally submitted to the Secretary;
 

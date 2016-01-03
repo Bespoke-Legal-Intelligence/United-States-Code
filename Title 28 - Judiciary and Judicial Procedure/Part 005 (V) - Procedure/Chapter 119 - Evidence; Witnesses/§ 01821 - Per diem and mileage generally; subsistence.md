@@ -22,7 +22,7 @@
 
 (4) When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 
-(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
+(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible toreceive the fees or allowances provided by this section.
 
 (f) Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of section 3144 of title 18 apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testimony."
+Pub. L. 102–417, §2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: "The amendments made by this section \[amending this section\] shall be effective on and after the date of the enactment of this act \[Oct. 14, 1992\] and shall apply to any witness who testified before such date and has not received any fee or allowance undersection 1821 of title 28, United States Code, relating to such testimony."
 
 #### Effective Date of 1978 Amendment
 

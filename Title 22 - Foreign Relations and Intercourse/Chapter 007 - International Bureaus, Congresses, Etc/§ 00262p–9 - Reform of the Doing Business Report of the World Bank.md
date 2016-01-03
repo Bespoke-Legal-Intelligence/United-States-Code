@@ -8,7 +8,7 @@
 
 &emsp;(3) Removal of the "Employing Workers" Indicator as a "guidepost" for calculating the annual Country Policy and Institutional Assessment score for each recipient country.
 
-(b) Within 60 days after June 24, 2009, the Secretary of the Treasury shall provide an instruction to the United States Executive Directors referred to in subsection (a) to take appropriate actions with respect to implementing the policygoals of the United States set forth in subsection (a), and such instruction shall be posted on the website of the Department of the Treasury.
+(b) Within 60 days after June 24, 2009, the Secretary of the Treasury shall provide an instruction to the United States Executive Directors referred to in subsection (a) to take appropriate actions with respect to implementing the policy goals of the United States set forth in subsection (a), and such instruction shall be posted on the website of the Department of the Treasury.
 
 (Pub. L. 95–118, title XVI, §1626, as added Pub. L. 111–32, title XI, §1110, June 24, 2009, 123 Stat. 1902.)
 

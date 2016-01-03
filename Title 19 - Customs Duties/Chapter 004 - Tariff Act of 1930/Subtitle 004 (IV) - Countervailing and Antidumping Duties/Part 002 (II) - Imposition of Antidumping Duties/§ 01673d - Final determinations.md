@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) the establishment of an industry in the United States is materially retarded,
 
-> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a)(1) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+> &emsp;by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a)(1). If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
 
 #### (2) Period for injury determination following affirmative preliminary determination by administering authority
 
@@ -52,11 +52,11 @@
 
 &emsp;&emsp;(A) the 120th day after the day on which the administering authority makes its affirmative preliminary determination under section 1673b(b) of this title, or
 
-&emsp;&emsp;(B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a) of this section.
+&emsp;&emsp;(B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a).
 
 #### (3) Period for injury determination following negative preliminary determination by administering authority
 
-&emsp;If the preliminary determination by the administering authority under section 1673b(b) of this title is negative, and its final determination under subsection (a) of this section is affirmative, then the final determination by theCommission under this subsection shall be made within 75 days after the date of that affirmative final determination.
+&emsp;If the preliminary determination by the administering authority under section 1673b(b) of this title is negative, and its final determination under subsection (a) is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
 
 #### (4) Certain additional findings
 
@@ -66,7 +66,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection (a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
+In general.—If the finding of the administering authority under subsection (a)(3) is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -78,13 +78,13 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;&emsp;(III) any other circumstances indicating that the remedial effect of the antidumping order will be seriously undermined.
 
-&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
+&emsp;(B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) would have been found but for any suspension of liquidation of entries of the merchandise.
 
 #### (c) Effect of final determinations
 
 #### (1) Effect of affirmative determination by the administering authority
 
-&emsp;If the determination of the administering authority under subsection (a) of this section is affirmative, then—
+&emsp;If the determination of the administering authority under subsection (a) is affirmative, then—
 
 &emsp;&emsp;(A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information as to which confidential treatment has been given by the administering authority,
 
@@ -100,29 +100,29 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (2) Issuance of order; effect of negative determination
 
-&emsp;If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) of this section are affirmative, then the administering authority shall issue an antidumping duty order under section 1673e(a) of this title. If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
+&emsp;If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) are affirmative, then the administering authority shall issue an antidumping duty order under section 1673e(a) of this title. If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1673b(d)(2) of this title, and
 
 &emsp;&emsp;(B) release any bond or other security, and refund any cash deposit, required under section 1673b(d)(1)(B) of this title.
 
-#### (3) Effect of negative determinations under subsections (a)(3) and (b)(4)(A) of this section
+#### (3) Effect of negative determinations under subsections (a)(3) and (b)(4)(A)
 
-&emsp;If the determination of the administering authority or the Commission under subsection (a)(3) or (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+&emsp;If the determination of the administering authority or the Commission under subsection (a)(3) or (b)(4)(A), respectively, is negative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate any retroactive suspension of liquidation required under paragraph (4) or section 1673b(e)(2) of this title, and
 
 &emsp;&emsp;(B) release any bond or other security, and refund any cash deposit required, under section 1673b(d)(1)(B) of this title with respect to entries of the merchandise the liquidation of which was suspended retroactively under section 1673b(e)(2) of this title.
 
-#### (4) Effect of affirmative determination under subsection (a)(3) of this section
+#### (4) Effect of affirmative determination under subsection (a)(3)
 
-&emsp;If the determination of the administering authority under subsection (a)(3) of this section is affirmative, then the administering authority shall—
+&emsp;If the determination of the administering authority under subsection (a)(3) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) in cases where the preliminary determinations by the administering authority under sections 1673b(b) and 1673b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under section 1673b(e)(2) of this title;
 
 &emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was affirmative, but the preliminary determination under section 1673b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1673b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) of this section to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
 
 #### (5) Method for determining estimated all-others rate
 
@@ -140,7 +140,7 @@ Whenever the administering authority or the Commission makes a determination und
 
 #### (e) Correction of ministerial errors
 
-The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present theirviews regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
 (June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c), 605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
 

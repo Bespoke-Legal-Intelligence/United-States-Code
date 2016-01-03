@@ -12,5 +12,5 @@ In par. 2(b), "subchapter I of chapter 57 of title 5 and section 5731(a) of titl
 
 In par. 2(e), "section 501 of title 44 and section 6101 of title 41" substituted for "section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111), and section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In par. 2(f), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. 2(f), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41,sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

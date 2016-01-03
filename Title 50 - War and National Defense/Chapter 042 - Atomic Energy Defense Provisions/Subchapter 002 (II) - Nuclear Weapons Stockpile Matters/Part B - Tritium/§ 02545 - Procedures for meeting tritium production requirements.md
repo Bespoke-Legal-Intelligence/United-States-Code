@@ -2,7 +2,7 @@
 
 #### (a) Production of new tritium
 
-The Secretary of Energy shall produce new tritium to meet the requirements of the NuclearWeapons Stockpile Memorandum at the Tennessee Valley Authority Watts Bar or Sequoyah nuclear power plants consistent with the Secretary's December 22, 1998, decision document designating the Secretary's preferred tritium production technology.
+The Secretary of Energy shall produce new tritium to meet the requirements of the Nuclear Weapons Stockpile Memorandum at the Tennessee Valley Authority Watts Bar or Sequoyah nuclear power plants consistent with the Secretary's December 22, 1998, decision document designating the Secretary's preferred tritium production technology.
 
 #### (b) Support
 

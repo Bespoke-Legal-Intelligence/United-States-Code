@@ -170,7 +170,7 @@ In subsection (a)(2), before clause (A), the word "application" is substituted f
 
 In subsection (a)(3), the words "to the provision, or to the order (other than an order issued in accordance with this sentence), rule, regulation, term, condition, or limitation found by the Board to have been violated" are omitted as surplus.
 
-In subsection (a)(4), the word "provide" is substituted for "engage in" for consistency in the revised title. The words "altered" and "the simplified procedures of" are omitted as surplus.
+In subsection (a)(4), the word "provide" is substituted for "engage in" for consistency in the revised title. Thewords "altered" and "the simplified procedures of" are omitted as surplus.
 
 In subsection (b), the words "to the extent of such service" are omitted as surplus. The word "provided" is substituted for "performed" for consistency in the revised title.
 

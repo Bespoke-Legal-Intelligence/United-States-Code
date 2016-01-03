@@ -64,7 +64,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (3) Trustees
 
-&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner in furnishing, or assisting the Commissioner to obtain, any information the Commissionerneeds to carry out the Commissioner's responsibilities under this section.
+&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner in furnishing, or assisting the Commissioner to obtain, any information the Commissioner needs to carry out the Commissioner's responsibilities under this section.
 
 #### (e) Notice by Commissioner
 
@@ -98,7 +98,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (B) No error
 
-&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted under paragraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
+&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted underparagraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
 
 #### (4) Determinations
 
@@ -144,7 +144,7 @@ Any person to which information is provided by the Commissioner of Social Securi
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 19143(a) of Pub. L. 102–486, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Actsof Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 19143(a) of Pub. L. 102–486, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

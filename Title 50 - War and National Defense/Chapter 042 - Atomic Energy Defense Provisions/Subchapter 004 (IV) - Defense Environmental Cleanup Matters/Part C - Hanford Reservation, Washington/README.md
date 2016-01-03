@@ -18,3 +18,4 @@ A prior part C, consisting of section 2611, related to privatization, prior to r
 - [&sect; 02623 - River Protection Project](%C2%A7%2002623%20-%20River%20Protection%20Project.md)
 - [&sect; 02624 - Funding for termination costs of River Protection Project, Richland, Washington](%C2%A7%2002624%20-%20Funding%20for%20termination%20costs%20of%20River%20Protection%20Project%2C%20Richland%2C%20Washington.md)
 - [&sect; 02625 - Plan for tank farm waste at Hanford Nuclear Reservation](%C2%A7%2002625%20-%20Plan%20for%20tank%20farm%20waste%20at%20Hanford%20Nuclear%20Reservation.md)
+- [&sect; 02626 - Hanford Waste Treatment and Immobilization Plant contract oversight](%C2%A7%2002626%20-%20Hanford%20Waste%20Treatment%20and%20Immobilization%20Plant%20contract%20oversight.md)

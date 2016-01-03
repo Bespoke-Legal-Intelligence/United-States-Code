@@ -2,7 +2,7 @@
 
 The personnel, property, records, and unexpended balances of appropriations, allocations, and other funds (available or to be made available), which the Director of the Office of Management and Budget shall determine to relate primarily to the functions transferred to the Public Health Service of the Department of Health and Human Services hereunder, are transferred for use in the administration of the functions so transferred. Any of the personnel transferred pursuant to this subchapter which the transferee agency shall find to be in excess of the personnel necessary for the administration of the functions transferred to such agency shall be retransferred under existing law to other positions in the Government or separated from the service.
 
-(Aug. 5, 1954, ch. 658, §4, 68 Stat. 674; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84Stat. 2085; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Aug. 5, 1954, ch. 658, §4, 68 Stat. 674; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Transfer of Functions
 

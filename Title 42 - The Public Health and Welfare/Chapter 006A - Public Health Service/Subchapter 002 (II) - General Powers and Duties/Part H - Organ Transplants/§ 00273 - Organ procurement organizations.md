@@ -182,7 +182,7 @@ Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. 
 
 &emsp;"(4) The limitations in the recertification process include:
 
-&emsp;&emsp;"(A) An exclusive reliance on population-based measures of performance that do not account for the potential in the population for organ donation and do not permit consideration of other outcomeand process standards that would more accurately reflect the relative capability and performance of each organ procurement organization.
+&emsp;&emsp;"(A) An exclusive reliance on population-based measures of performance that do not account for the potential in the population for organ donation and do not permit consideration of other outcome and process standards that would more accurately reflect the relative capability and performance of each organ procurement organization.
 
 &emsp;&emsp;"(B) A lack of due process to appeal to the Secretary of Health and Human Services for recertification on either substantive or procedural grounds.
 

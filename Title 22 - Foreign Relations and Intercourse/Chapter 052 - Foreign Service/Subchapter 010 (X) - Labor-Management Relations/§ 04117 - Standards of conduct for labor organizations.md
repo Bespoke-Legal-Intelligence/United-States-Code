@@ -2,7 +2,7 @@
 
 #### (a) Freedom from corrupt influences and influences opposed to basic democratic principles
 
-The Department shall accord recognition only to a labor organization that is free from corruptinfluences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
+The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
 &emsp;(1) the maintenance of democratic procedures and practices, including—
 
@@ -20,7 +20,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 A labor organization may be required to furnish evidence of its freedom from corrupt influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
+&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanctionby, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
 
 &emsp;(2) the organization is in fact subject to influences that would preclude recognition under this subchapter.
 
@@ -68,7 +68,7 @@ If the Board finds that any labor organization has willfully and intentionally v
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e)(2). Pub. L. 105–277 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term 'management official' shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad."
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–277 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term 'management official' shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad."
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "This subchapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee."
 

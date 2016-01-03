@@ -56,9 +56,9 @@ To receive a payment under this section, an eligible producer shall meet any oth
 
 #### (3) Limitation
 
-&emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall bemade available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
+&emsp;Of the funds provided for each fiscal year, not more than 5 percent of the funds shall be made available to eligible producers for production at facilities with a total refining capacity exceeding 150,000,000 gallons per year.
 
-(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930.)
+(Pub. L. 107–171, title IX, §9005, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat.1314, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2075; amended Pub. L. 112–240, title VII, §701(f)(4), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9005, Feb. 7, 2014, 128 Stat. 930.)
 
 #### Codification
 

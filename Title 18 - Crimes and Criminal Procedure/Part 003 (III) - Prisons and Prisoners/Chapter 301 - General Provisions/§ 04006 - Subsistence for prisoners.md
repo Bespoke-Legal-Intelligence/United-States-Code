@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Attorney General or the Secretary of Homeland Security, as applicable, shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
+In General.—The Attorney General or the Secretary of Homeland Security, as applicable, shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in thecustody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
 
 (b)
 

@@ -10,7 +10,7 @@ Grants.—For each fiscal year, funds authorized to carry out this section shall
 
 &emsp;(1) the amount authorized to carry out this section for the fiscal year; by
 
-&emsp;(2) the ratio that the amount of funds apportioned to each such State under section 402 forsuch fiscal year bears to the total amount of funds apportioned to all such States under section 402 for such fiscal year.
+&emsp;(2) the ratio that the amount of funds apportioned to each such State under section 402 for such fiscal year bears to the total amount of funds apportioned to all such States under section 402 for such fiscal year.
 
 (c)
 
@@ -46,17 +46,17 @@ In general.—There are authorized to be appropriated out of the Highway Trust F
 
 &emsp;(2)
 
-Availability of funds.—Notwithstanding section 118(b)(2),<sup>1</sup> the funds authorized by this subsection shall remain available until expended.
+Availability of funds.—Notwithstanding section 118(b), the funds authorized by this subsection shall remain available until expended.
 
-(Added Pub. L. 105–178, title I, §1404(a), June 9, 1998, 112 Stat. 240; amended Pub. L. 108–88, §6(a)(2), Sept. 30, 2003, 117 Stat. 1119; Pub. L. 108–202, §6(b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(b), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(2), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(2), May 31, 2005, 119 Stat. 329; Pub. L. 109–20, §5(a)(2), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(2), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(2), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(2), July 28, 2005, 119 Stat. 416; Pub. L. 109–59, title I, §1407(a), (b), Aug. 10, 2005, 119 Stat. 1231; Pub. L. 112–141, div. A, title I, §1404(i), July 6, 2012, 126 Stat. 559.)
+(Added Pub. L. 105–178, title I, §1404(a), June 9, 1998, 112 Stat. 240; amended Pub. L. 108–88, §6(a)(2), Sept. 30, 2003, 117 Stat. 1119; Pub. L.108–202, §6(b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §5(b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §5(b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §5(b), July 30, 2004, 118 Stat. 881; Pub. L. 108–310, §6(a)(2), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–14, §5(a)(2), May 31, 2005, 119 Stat. 329; Pub. L. 109–20, §5(a)(2), July 1, 2005, 119 Stat. 351; Pub. L. 109–35, §5(a)(2), July 20, 2005, 119 Stat. 384; Pub. L. 109–37, §5(a)(2), July 22, 2005, 119 Stat. 399; Pub. L. 109–40, §5(a)(2), July 28, 2005, 119 Stat. 416; Pub. L. 109–59, title I, §1407(a), (b), Aug. 10, 2005, 119 Stat. 1231; Pub. L. 112–141, div. A, title I, §1404(i), July 6, 2012, 126 Stat. 559; Pub. L. 114–94, div. A, title I, §1446(a)(9), Dec. 4, 2015, 129 Stat. 1437.)
 
 #### References in Text
 
 Section 104, referred to in subsec. (e)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
-Section 118(b) of this title, referred to in subsec. (f)(2), was amended by section 1519(c)(5) of Pub. L. 112–141 and no longer contains a par. (2).
-
 #### Amendments
+
+<b>2015</b>—Subsec. (f)(2). Pub. L. 114–94 substituted "118(b)" for "118(b)(2)".
 
 <b>2012</b>—Subsec. (e)(1), (2). Pub. L. 112–141 added pars. (1) and (2) and struck out former pars. (1) and (2) which related to penalty generally and amount to be withheld, respectively.
 
@@ -88,13 +88,17 @@ Pub. L. 108–202 substituted "$70,000,000 for the period of October 1, 2003, th
 
 <b>2003</b>—Subsec. (e)(1). Pub. L. 108–88 struck out "and" after "2002," and inserted before period at end ", and $50,000,000 for the period of October 1, 2003, through February 29, 2004".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Withholding of Funds for Failure To Enact and Enforce Laws Relating to Driving While Intoxicated
 
-Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under former pars. (1), (3), and\(4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
+Pub. L. 106–346, §101(a) \[title III, §351\], Oct. 23, 2000, 114 Stat. 1356, 1356A–34, directed the Secretary to withhold a percentage, beginning in fiscal year 2004, of the amount required to be apportioned for Federal-aid highways to any State under former pars. (1), (3), and (4) of section 104(b) of this title, if a State had not enacted and was not enforcing a provision described in section 163(a) of this title, and provided for increase of the apportionment by an amount equal to such reduction if within 4 years from the date of the reduction the Secretary determined that such State had enacted and was enforcing a provision described in section 163(a) of this title, prior to repeal by Pub. L. 109–59, title I, §1407(c), Aug. 10, 2005, 119 Stat. 1231.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

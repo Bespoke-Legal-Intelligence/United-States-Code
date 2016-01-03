@@ -8,7 +8,7 @@
 
 #### (2) Determination of quantity of SME
 
-&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or itssuccessor publications, of the United States Department of Commerce, shall apply.
+&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or its successor publications, of the United States Department of Commerce, shall apply.
 
 #### (b) Earned import allowance program
 

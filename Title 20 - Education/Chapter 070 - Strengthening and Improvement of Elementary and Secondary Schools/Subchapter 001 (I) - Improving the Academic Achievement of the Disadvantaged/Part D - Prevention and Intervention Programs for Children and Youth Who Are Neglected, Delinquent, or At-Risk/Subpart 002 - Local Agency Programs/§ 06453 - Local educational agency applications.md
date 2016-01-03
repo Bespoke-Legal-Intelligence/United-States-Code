@@ -8,21 +8,21 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;&emsp;(A) the local educational agency; and
 
-&emsp;&emsp;(B) correctional facilities and alternative school programs serving children and youth involved with the juvenile justice system;
+&emsp;&emsp;(B) correctional facilities and alternative school programs serving children and youth involved with the juvenile justice system, including such facilities operated by the Secretary of the Interior and Indian tribes;
 
 &emsp;(3) as appropriate, a description of how participating schools will coordinate with facilities working with delinquent children and youth to ensure that such children and youth are participating in an education program comparable to one operating in the local school such youth would attend;
 
-&emsp;(4) a description of the program operated by participating schools for children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;
+&emsp;(4) a description of the program operated by participating schools to facilitate the successful transition of children and youth returning from correctional facilities and, as appropriate, the types of services that such schoolswill provide such children and youth and other at-risk children and youth;
 
-&emsp;(5) a description of the characteristics (including learning difficulties, substance abuseproblems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
+&emsp;(5) a description of the characteristics (including learning difficulties, substance abuse problems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
 
 &emsp;(6) as appropriate, a description of how schools will coordinate with existing social, health, and other services to meet the needs of students returning from correctional facilities, at-risk children or youth, and other participating children or youth, including prenatal health care and nutrition services related to the health of the parent and the child or youth, parenting and child development classes, child care, targeted reentry and outreach programs, referrals to community resources, and scheduling flexibility;
 
-&emsp;(7) as appropriate, a description of any partnerships with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring services for participating students;
+&emsp;(7) as appropriate, a description of any partnerships with institutions of higher education or local businesses to facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school, enrollment in postsecondary education, participation in career and technical education programming, and mentoring services for participating students;
 
-&emsp;(8) as appropriate, a description of how the program will involve parents in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
+&emsp;(8) as appropriate, a description of how the program will involve parents and family members in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220 \[29 U.S.C. 2801 et seq.\] and vocational and technical education programs serving at-risk children and youth;
+&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and career and technical education programs serving at-risk children and youth;
 
 &emsp;(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable;
 
@@ -30,17 +30,13 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(12) a description of the efforts participating schools will make to ensure correctional facilities working with children and youth are aware of a child's or youth's existing individualized education program; and
 
-&emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a regular public school program.
+&emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a traditional public school program.
 
-(Pub. L. 89–10, title I, §1423, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1588; amended Pub. L. 113–128, title V, §512(i)(3), July 22, 2014, 128 Stat. 1708.)
-
-#### Amendment of Paragraph (9)
-
-<i>Pub. L. 113–128, title V, §§506, 512(i)(3), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220" and inserting "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.</i>
+(Pub. L. 89–10, title I, §1423, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1588; amended Pub. L. 113–128, title V, §512(i)(3), July 22, 2014, 128 Stat. 1708; Pub. L. 114–95, title I, §1401(10), Dec. 10, 2015, 129 Stat. 1903.)
 
 #### References in Text
 
-Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
@@ -50,9 +46,25 @@ A prior section 6453, Pub. L. 89–10, title I, §1423, as added Pub. L. 103–3
 
 #### Amendments
 
+<b>2015</b>—Par. (2)(B). Pub. L. 114–95, §1401(10)(A), inserted ", including such facilities operated by the Secretary of the Interior and Indian tribes" after "juvenile justice system".
+
+Par. (4). Pub. L. 114–95, §1401(10)(B), added par. (4) and struck out former par. (4) which read as follows: "a description of the program operated by participating schools for children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;".
+
+Par. (7). Pub. L. 114–95, §1401(10)(C), inserted "institutions of higher education or" before "local businesses" and substituted "facilitate postsecondary and workforce success for children and youth returning from correctional facilities, such as through participation in credit-bearing coursework while in secondary school, enrollment in postsecondary education, participation in career and technical education programming" for "develop training, curriculum-based youth entrepreneurship education".
+
+Par. (8). Pub. L. 114–95, §1401(10)(D), inserted "and family members" after "parents".
+
+Par. (9). Pub. L. 114–95, §1401(10)(E), substituted "career" for "vocational".
+
+Par. (13). Pub. L. 114–95, §1401(10)(F), substituted "traditional" for "regular".
+
 <b>2014</b>—Par. (9). Pub. L. 113–128 substituted "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act" for "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

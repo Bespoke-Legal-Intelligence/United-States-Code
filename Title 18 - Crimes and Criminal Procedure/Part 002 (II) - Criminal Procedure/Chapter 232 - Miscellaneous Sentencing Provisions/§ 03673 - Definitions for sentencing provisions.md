@@ -16,7 +16,7 @@ As used in chapters 227 and 229—
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §2(b), Nov. 10, 1986, 100 Stat. 3592, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of the taking effect of section 3673 of title 18, United States Code \[Nov. 1, 1987\]."
+Pub. L. 99–646, §2(b), Nov. 10, 1986, 100 Stat. 3592, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3673 of title 18, United States Code \[Nov. 1, 1987\]."
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (1) Transfer authority
 
-&emsp;Notwithstanding the authority under subsection (a) and the last sentence of section 1710(g) of this title, the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transferand the Secretary determines that such transfer is practicable.
+&emsp;Notwithstanding the authority under subsection (a) and the last sentence of section 1710(g) of this title, the Secretary of Housing and Urban Development shall transfer ownership of any qualified HUD property, subject to the requirements of this section, to a unit of general local government having jurisdiction for the area in which the property is located or to a community development corporation which operates within such a unit of general local government in accordance with this subsection, but only to the extent that units of general local government and community development corporations consent to transfer and the Secretary determines that such transfer is practicable.
 
 #### (2) Qualified HUD properties
 
@@ -56,7 +56,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (5) Satisfaction of indebtedness
 
-&emsp;Before transferring ownership of any qualified HUD property pursuant to this subsection, the Secretary shall satisfy any indebtedness incurred in connection with the property to be transferred, by canceling the indebtedness.
+&emsp;Before transferring ownership of any qualified HUD property pursuant to this subsection,the Secretary shall satisfy any indebtedness incurred in connection with the property to be transferred, by canceling the indebtedness.
 
 #### (6) Determination of status of properties
 
@@ -84,7 +84,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (9) Inapplicability to properties made available for homeless
 
-&emsp;Notwithstanding any other provision of this subsection, this subsection shall not apply toany properties that the Secretary determines are to be made available for use by the homeless pursuant to subpart E of part 291 of title 24, Code of Federal Regulations, during the period that the properties are so available.
+&emsp;Notwithstanding any other provision of this subsection, this subsection shall not apply to any properties that the Secretary determines are to be made available for use by the homeless pursuant to subpart E of part 291 of title 24, Code of Federal Regulations, during the period that the properties are so available.
 
 #### (10) Protection of existing contracts
 
@@ -142,7 +142,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (J) Unoccupied
 
-&emsp;&emsp;The term "unoccupied" means, with respect to a residential property, that the unit of general local government having jurisdiction over the area in which the project is located has certified in writing that the property is not inhabited.
+&emsp;&emsp;The term "unoccupied" means, with respect to a residential property, that the unitof general local government having jurisdiction over the area in which the project is located has certified in writing that the property is not inhabited.
 
 #### (12) Regulations
 

@@ -26,7 +26,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(12) Facilitating and supporting the training of members and units of the National Guard to meet State requirements.
 
-&emsp;(13)(A) Assisting the Secretary of Defense in facilitating and coordinating with the entitieslisted in subparagraph (B) the use of National Guard personnel and resources for operations conducted under title 32, or in support of State missions.
+&emsp;(13)(A) Assisting the Secretary of Defense in facilitating and coordinating with the entities listed in subparagraph (B) the use of National Guard personnel and resources for operations conducted under title 32, or in support of State missions.
 
 &emsp;(B) The entities listed in this subparagraph for purposes of subparagraph (A) are the following:
 
@@ -38,7 +38,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(14) Such other functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L.110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
 
 #### Amendments
 

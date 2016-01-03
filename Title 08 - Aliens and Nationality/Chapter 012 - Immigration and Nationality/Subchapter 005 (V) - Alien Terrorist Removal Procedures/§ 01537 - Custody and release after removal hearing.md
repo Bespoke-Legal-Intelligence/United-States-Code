@@ -28,7 +28,7 @@
 
 #### (C) Continued detention
 
-&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
+&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State,shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
 
 #### (D) Fingerprinting
 
@@ -46,7 +46,7 @@
 
 #### (3) Subsequent removal
 
-&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of Statecriminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
+&emsp;Following the completion of a sentence of confinement by an alien described in paragraph (1), or following the completion of State criminal proceedings which do not result in a sentence of confinement of an alien released to the custody of State authorities pursuant to paragraph (2), such an alien shall be returned to the custody of the Attorney General who shall proceed to the removal of the alien under this subchapter.
 
 #### (d) Application of certain provisions relating to escape of prisoners
 

@@ -10,7 +10,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 &emsp;(A) willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument or authorization issued by the Commission;
 
-&emsp;(B) willfully or repeatedly failed to comply with any of the provisions of this chapter or ofany rule, regulation, or order issued by the Commission under this chapter or under any treaty, convention, or other agreement to which the United States is a party and which is binding upon the United States;
+&emsp;(B) willfully or repeatedly failed to comply with any of the provisions of this chapter or of any rule, regulation, or order issued by the Commission under this chapter or under any treaty, convention, or other agreement to which the United States is a party and which is binding upon the United States;
 
 &emsp;(C) violated any provision of section 317(c) or 509(a) of this title; or
 
@@ -34,7 +34,7 @@ Any person who shall deliver messages for interstate or foreign transmission to 
 
 (E) The amount of such forfeiture penalty shall be assessed by the Commission, or its designee, by written notice. In determining the amount of such a forfeiture penalty, the Commission or its designee shall take into account the nature, circumstances, extent, and gravity of the violation and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
-(F) Subject to paragraph (5) of this section, if the violator is a manufacturer or service provider subject to the requirements of section 255, 617, or 619 of this title, and is determined by the Commission to have violated any such requirement, the manufacturer or provider shall be liable to the United States for a forfeiture penalty of not more than $100,000 for each violation or each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
+(F) Subject to paragraph (5) of this section, if the violator is a manufacturer or service provider subject to the requirements of section 255, 617, or 619 of this title, and is determined by the Commission to have violated any such requirement, the manufacturer or provider shall be liable to the United States for a forfeiture penalty of not more than $100,000 for each violation oreach day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.
 
 (3)(A) At the discretion of the Commission, a forfeiture penalty may be determined against a person under this subsection after notice and an opportunity for a hearing before the Commission or an administrative law judge thereof in accordance with section 554 of title 5. Any person against whom a forfeiture penalty is determined under this paragraph may obtain review thereof pursuant to section 402(a) of this title.
 

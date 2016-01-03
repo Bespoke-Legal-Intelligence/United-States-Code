@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the "program") by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish amodel agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
+The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the "program") by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
 
 #### (b) Terms of agreement
 
@@ -78,7 +78,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 &emsp;&emsp;&emsp;(iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
 
-&emsp;&emsp;&emsp;(iv) the establishment of procedures to ensure that, not later than the applicablenumber of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
+&emsp;&emsp;&emsp;(iv) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
 
 &emsp;&emsp;&emsp;&emsp;(I) the negotiated price of the applicable drug; and
 
@@ -118,7 +118,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in providing for such implementation, the Secretary shall not receive or distribute any funds of a manufacturer under the program.
+&emsp;&emsp;Subject to subparagraph (B), in providing for such implementation, the Secretaryshall not receive or distribute any funds of a manufacturer under the program.
 
 #### (B) Exception
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;(B)(i) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in;
 
-&emsp;&emsp;(ii) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
+&emsp;&emsp;(ii) if the PDP sponsor of the prescription drug plan or the MA organization offeringthe MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
 
 &emsp;&emsp;(iii) is provided through an exception or appeal.
 

@@ -52,7 +52,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (iv) Indicator for services to employers
 
-&emsp;&emsp;&emsp;Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause (ii)(III) with respect to clause (i)(IV), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
+&emsp;&emsp;&emsp;Prior to the commencement of the second full program year after July 22, 2014, for purposes of clauses (i)(VI), or clause\(ii)(III) with respect to clause (i)(VI), the Secretary of Labor and the Secretary of Education, after consultation with the representatives described in paragraph (4)(B), shall jointly develop and establish, for purposes of this subparagraph, 1 or more primary indicators of performance that indicate the effectiveness of the core programs in serving employers.
 
 #### (B) Additional indicators
 
@@ -162,7 +162,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (1) In general
 
-&emsp;Not later than 12 months after July 22, 2014, the Secretary of Labor, in conjunction with the Secretary of Education, shall develop a template for performance reports that shall be used by States, local boards, and eligible providers of training services under section 3152 of this title to report on outcomes achieved by the core programs. In developing such templates, the Secretary of Labor, in conjunction with the Secretary of Education, will take into account the need to maximize the valueof the templates for workers, jobseekers, employers, local elected officials, State officials, Federal policymakers, and other key stakeholders.
+&emsp;Not later than 12 months after July 22, 2014, the Secretary of Labor, in conjunction with the Secretary of Education, shall develop a template for performance reports that shall be used by States, local boards, and eligible providers of training services under section 3152 of this title to report on outcomes achieved by the core programs. In developing such templates, the Secretary of Labor, in conjunction with the Secretary of Education, will take into account the need to maximize the value of the templates for workers, jobseekers, employers, local elected officials, State officials, Federal policymakers, and other key stakeholders.
 
 #### (2) Contents of State performance reports
 
@@ -278,7 +278,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (1) Technical assistance
 
-&emsp;If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for a program described in subsection (d)(2)(A) for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
+&emsp;If a local area fails to meet local performance accountability measures established under subsection (c) for the youth, adult, or dislocated worker program authorized under subpart 2 or 3 of part B for any program year, the Governor, or upon request by the Governor, the Secretary of Labor, shall provide technical assistance, which may include assistance in the development of a performance improvement plan or the development of a modified local plan (or regional plan).
 
 #### (2) Corrective actions
 
@@ -324,7 +324,7 @@ Using non-Federal funds, the Governor may establish incentives for local boards 
 
 &emsp;In carrying out the requirements of this Act, the State shall comply with section 1232g of title 20.
 
-(Pub. L. 113–128, title I, §116, July 22, 2014, 128 Stat. 1471.)
+(Pub. L. 113–128, title I, §116, July 22, 2014, 128 Stat. 1471; Pub. L. 114–18, §2(c), May 22, 2015, 129 Stat. 213.)
 
 #### References in Text
 
@@ -336,7 +336,17 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b)(3
 
 This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, §2(c)(1), substituted "clause (i)(VI)" for "clause (i)(IV)".
+
+Subsec. (g)(1). Pub. L. 114–18, §2(c)(2), struck out "for a program described in subsection (d)(2)(A)" after "part B".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

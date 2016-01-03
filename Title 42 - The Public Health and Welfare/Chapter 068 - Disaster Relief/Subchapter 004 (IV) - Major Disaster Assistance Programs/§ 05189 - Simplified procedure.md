@@ -20,7 +20,7 @@ If the Federal estimate of the cost of—
 
 &emsp;&emsp;(A) complete an analysis to determine whether an increase in the threshold for eligibility under subsection (a) is appropriate, which shall include consideration of cost-effectiveness, speed of recovery, capacity of grantees, past performance, and accountability measures; and
 
-&emsp;&emsp;(B) submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding the analysis conducted under subparagraph (A).
+&emsp;&emsp;(B) submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee onHomeland Security and Governmental Affairs of the Senate a report regarding the analysis conducted under subparagraph (A).
 
 #### (2) Amount
 

@@ -36,7 +36,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(10) A description of the past experience of the applicant in operating a comparable program or in conducting a grant program in support of other comparable service programs.
 
-&emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D of this subchapter and a description of the manner in which approved national service positions will be apportioned by the applicant.
+&emsp;(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D of this subchapter and a description of the manner inwhich approved national service positions will be apportioned by the applicant.
 
 &emsp;(12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
 

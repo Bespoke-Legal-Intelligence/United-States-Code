@@ -36,7 +36,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §105(a)(1), substituted in introductory provisions "The Secretaryshall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home" for "The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)".
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–154, §105(a)(1), substituted in introductory provisions "The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home" for "The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)".
 
 Subsec. (a)(2). Pub. L. 112–154, §105(a)(2), added par. (2) and struck out former par. (2) which read as follows: "The rate determined under this paragraph with respect to a State home is the lesser of—
 

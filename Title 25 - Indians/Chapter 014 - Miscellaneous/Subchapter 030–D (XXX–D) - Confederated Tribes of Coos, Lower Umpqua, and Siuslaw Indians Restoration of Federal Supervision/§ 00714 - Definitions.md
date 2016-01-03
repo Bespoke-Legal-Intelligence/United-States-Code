@@ -14,5 +14,5 @@ For the purposes of this subchapter—
 
 #### Short Title
 
-Pub. L. 98–481, §1, Oct. 17, 1984, 98 Stat. 2250, provided: "That this Act \[enacting this subchapter\] may be cited as the 'Coos, Lower Umpqua, and Siuslaw Restoration Act'."
+Pub. L. 98–481, §1, Oct. 17, 1984, 98 Stat. 2250, provided: "That this Act \[enacting this subchapter\] may be citedas the 'Coos, Lower Umpqua, and Siuslaw Restoration Act'."
 

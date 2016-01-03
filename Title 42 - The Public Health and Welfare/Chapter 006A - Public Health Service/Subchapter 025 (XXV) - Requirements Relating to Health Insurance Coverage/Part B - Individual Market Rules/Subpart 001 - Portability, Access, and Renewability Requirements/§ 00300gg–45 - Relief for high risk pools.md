@@ -30,7 +30,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 #### (3) Special rule for pools charging higher premiums
 
-&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150 percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided to the State to carry out this subsection to reduce premiums for enrollees.
+&emsp;In the case of a qualified high risk pool of a State which charges premiums that exceed 150percent of the premium for applicable standard risks, the State shall use at least 50 percent of the amount of the grant provided to the State to carry out this subsection to reduce premiums for enrollees.
 
 #### (4) Limitation for territories
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (A) <sup>1</sup> In general
 
-&emsp;&emsp;The term "qualified high risk pool" has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individuals through an acceptable alternative mechanism (as defined for purposes of section 300gg–44 of this title) that includes a high risk pool as a component.
+&emsp;&emsp;The term "qualified high risk pool" has the meaning given such term in section 300gg–44(c)(2) of this title, except that a State may elect to meet the requirement of subparagraph (A) of such section (insofar as it requires the provision of coverage to all eligible individuals) through providing for the enrollment of eligible individualsthrough an acceptable alternative mechanism (as defined for purposes of section 300gg–44 of this title) that includes a high risk pool as a component.
 
 #### (2) Standard risk rate
 
@@ -140,7 +140,7 @@ In this section:
 
 #### Construction
 
-Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 35 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

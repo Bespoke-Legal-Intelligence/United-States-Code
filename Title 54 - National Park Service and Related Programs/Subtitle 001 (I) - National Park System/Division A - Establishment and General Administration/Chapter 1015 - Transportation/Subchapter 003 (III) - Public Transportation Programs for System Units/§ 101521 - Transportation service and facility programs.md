@@ -30,7 +30,9 @@ Administration.—The acquired property shall be administered as part of the Sys
 
 &emsp;&emsp;(B)
 
-Acquistion <sup>1</sup> of land or interests in land owned by state or political subdivision.—Any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation.
+Acquistion <sup>1</sup>
+
+of land or interests in land owned by state or political subdivision.—Any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation.
 
 &emsp;&emsp;(C)
 

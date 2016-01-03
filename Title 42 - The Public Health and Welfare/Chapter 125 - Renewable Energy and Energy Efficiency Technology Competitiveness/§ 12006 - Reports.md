@@ -30,13 +30,13 @@ One year after December 11, 1989, and annually thereafter, the Secretary shall r
 
 &emsp;(E) identify program areas for which funding levels have been changed from the previous year's Plan.<sup>1</sup>
 
-(6) Within one year after October 24, 1992, the Secretary shall submit a revised managementplan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
+(6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President's annual budget submission to the Congress.
 
 #### (c) Report on options
 
 As part of the first report submitted under subsection (a) of this section, the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
 
-(Pub. L. 101–218, §9, Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–486, title XII, §1202(c), (d)(5), title XXIII, §2303(b), Oct. 24, 1992, 106 Stat. 2959, 2960, 3093.)
+(Pub. L. 101–218, §9, Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–486, title XII, §1202(c), (d)(5), titleXXIII, §2303(b), Oct. 24, 1992, 106 Stat. 2959, 2960, 3093.)
 
 #### References in Text
 

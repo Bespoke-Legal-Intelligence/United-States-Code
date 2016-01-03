@@ -26,7 +26,7 @@ For the purpose of carrying out the provisions of this chapter, the Secretary is
 
 &emsp;(4) to request from any Federal agency any information he deems necessary to carry out his functions under this chapter, and each such agency is authorized and directed to cooperate with the Secretary and to furnish such information upon request made by the Secretary, and the head of any Federal agency is authorized to detail, on a reimbursable basis, any personnel of such agency to assist in carrying out the duties of the Secretary under this chapter; and
 
-&emsp;(5) to make available to the public any information which may indicate the existence of a defect which relates to manufactured home construction or safety or of the failure of a manufactured home to comply with applicable manufactured home construction and safety standards. The Secretary shall disclose so much of other information obtained under this subsection to the public as he determines will assist in carrying out this chapter; but he shall not (under the authority of this sentence) make available or disclosure to the public any information which contains or relates to a trade secret or any information the disclosure of which would put the person furnishing such information at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purpose of this chapter.
+&emsp;(5) to make available to the public any information which may indicate the existence of a defect which relates to manufactured home construction or safety or of the failure of a manufactured home to comply with applicable manufactured home construction and safetystandards. The Secretary shall disclose so much of other information obtained under this subsection to the public as he determines will assist in carrying out this chapter; but he shall not (under the authority of this sentence) make available or disclosure to the public any information which contains or relates to a trade secret or any information the disclosure of which would put the person furnishing such information at a substantial competitive disadvantage, unless he determines that it is necessary to carry out the purpose of this chapter.
 
 #### (d) Refusal to obey subpena or order of Secretary; order of compliance by district court; failure to obey order of compliance punishable as contempt
 
@@ -66,5 +66,5 @@ References to "mobile homes", wherever appearing in text, changed to "manufactur
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order orinterpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 

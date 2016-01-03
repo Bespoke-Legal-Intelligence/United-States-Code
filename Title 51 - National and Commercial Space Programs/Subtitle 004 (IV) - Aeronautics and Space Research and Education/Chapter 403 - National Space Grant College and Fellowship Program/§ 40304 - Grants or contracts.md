@@ -38,7 +38,7 @@ Limitations.—No payment under any grant or contract under this section may be 
 
 &emsp;(3)
 
-Leases.—Notwithstanding paragraph (2), the items in subparagraphs (A), (B), and (C) of such paragraph may be leased upon written approval of the Administrator.
+Leases.—Notwithstanding paragraph (2), the items in subparagraphs (A), (B), and (C) ofsuch paragraph may be leased upon written approval of the Administrator.
 
 &emsp;(4)
 

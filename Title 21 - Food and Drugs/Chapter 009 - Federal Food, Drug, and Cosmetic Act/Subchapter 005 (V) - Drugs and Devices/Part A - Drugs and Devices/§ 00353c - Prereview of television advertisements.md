@@ -18,7 +18,7 @@ In conducting a review of a television advertisement under this section, the Sec
 
 #### (c) No authority to require changes
 
-Except as provided by subsection (e), this section does not authorize the Secretary to make or direct changes in any material submitted pursuant to subsection (a).
+Except as provided by subsection (e), this section does not authorize the Secretary to makeor direct changes in any material submitted pursuant to subsection (a).
 
 #### (d) Elderly populations, children, racially and ethnically diverse communities
 

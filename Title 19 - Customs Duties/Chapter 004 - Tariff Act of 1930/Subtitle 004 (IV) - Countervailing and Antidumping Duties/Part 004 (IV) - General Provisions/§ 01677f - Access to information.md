@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subsection (a)(4)(A) of this section and subsection (c) of this section, information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
+&emsp;&emsp;Except as provided in subsection (a)(4)(A) and subsection (c), information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
 
 &emsp;&emsp;&emsp;(i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
@@ -52,13 +52,13 @@
 
 &emsp;&emsp;&emsp;(ii) either—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c) of this section, the information submitted in confidence, or
+&emsp;&emsp;&emsp;&emsp;(I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c), the information submitted in confidence, or
 
 &emsp;&emsp;&emsp;&emsp;(II) a statement to the administering authority or the Commission that the business proprietary information is of a type that should not be released under administrative protective order.
 
 #### (2) Unwarranted designation
 
-&emsp;If the administering authority of the Commission determines, on the basis of the nature and extent of the information or its availability from public sources, that designation of any information as proprietary is unwarranted, then it shall notify the person who submitted it and ask for an explanation of the reasons for the designation. Unless that person persuades the administering authority or the Commission that the designation is warranted, or withdraws the designation, the administering authority or the Commission, as the case may be, shall return it to the party submitting it. In a case in which the administering authority or the Commission returns the information to the person submitting it, the person may thereafter submit other material concerning the subject matter of the returned information if the submission is made within the time otherwise provided for submitting such material.
+&emsp;If the administering authority of the Commission determines, on the basis of the nature and extent of the information or its availability from public sources, that designation of any information as proprietary is unwarranted, then it shall notify the person who submitted it and ask for an explanation of the reasons for the designation. Unless that person persuades the administering authority or the Commission that the designation is warranted, or withdraws the designation, the administering authority or the Commission, as the case may be, shall return it to the party submitting it. In a case in which the administering authority or the Commission returns the information to the person submitting it, the person may thereafter submit other material concerning the subject matter of the returned information if the submission is madewithin the time otherwise provided for submitting such material.
 
 #### (3) Section 1675 reviews
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) the business proprietary information submitted to the administering authority or the Commission on or before the date of the determination shall be made available, subject to the terms and conditions of the protective order, on such date; and
 
-&emsp;&emsp;&emsp;(ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d) of this section.
+&emsp;&emsp;&emsp;(ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d).
 
 #### (E) Failure to disclose
 
@@ -106,7 +106,7 @@
 
 &emsp;If the administering authority denies a request for information under paragraph (1), then application may be made to the United States Customs Court for an order directing the administering authority or the Commission to make the information available. After notification of all parties to the investigation and after an opportunity for a hearing on the record, the court may issue an order, under such conditions as the court deems appropriate, which shall not have the effect of stopping or suspending the investigation, directing the administering authority or the Commission to make all or a portion of the requested information described in the preceding sentence available under a protective order and setting forth sanctions for violation of such order if the court finds that, under the standards applicable in proceedings of the court, such an order is warranted, and that—
 
-&emsp;&emsp;(A) the administering authority or the Commission has denied access to the information under subsection (b)(1) of this section,
+&emsp;&emsp;(A) the administering authority or the Commission has denied access to the information under subsection (b)(1),
 
 &emsp;&emsp;(B) the person on whose behalf the information is requested is an interested party who is a party to the investigation in connection with which the information was obtained or developed, and
 
@@ -136,7 +136,7 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;&emsp;(iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement, and
 
-&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(10) of this title) designated by an authorized agency ofsuch country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
+&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
 
 #### (C) Review
 
@@ -152,7 +152,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (4) Sanctions for violation of protective orders
 
-&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
+&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title,who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
 
 #### (5) Review of sanctions
 
@@ -194,7 +194,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (g) Information relating to violations of protective orders and sanctions
 
-The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d) of this section, and such information shall be treated as information described in section 552(b)(3) of title 5.
+The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d), and such information shall be treated as information described in section 552(b)(3) of title 5.
 
 #### (h) Opportunity for comment by consumers and industrial users
 
@@ -246,7 +246,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–465, §231(b), substituted "shall disclose" for "may disclose" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 103–465, §226(a)(1), amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitle covering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
+Subsec. (b)(1). Pub. L. 103–465, §226(a)(1), amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitlecovering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
 
 Subsec. (b)(2). Pub. L. 103–465, §226(b), inserted at end "In a case in which the administering authority or the Commission returns the information to the person submitting it, the person may thereafter submit other material concerning the subject matter of the returned information if the submission is made within the time otherwise provided for submitting such material."
 
@@ -348,5 +348,5 @@ For provisions relating to effect of termination of NAFTA country status on the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

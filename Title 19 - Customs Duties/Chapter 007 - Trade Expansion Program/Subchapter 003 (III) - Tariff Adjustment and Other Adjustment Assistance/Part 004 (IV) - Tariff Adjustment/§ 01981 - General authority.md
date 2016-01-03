@@ -18,7 +18,7 @@
 
 #### (b) Maximum rate of increase
 
-No proclamation pursuant to subsection (a) of this section shall be made—
+No proclamation pursuant to subsection (a) shall be made—
 
 &emsp;(1) increasing any rate of duty to a rate more than 50 percent above the rate existing on July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
 
@@ -30,7 +30,7 @@ No proclamation pursuant to subsection (a) of this section shall be made—
 
 (1) Any increase in, or imposition of, any duty or other import restriction proclaimed pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951—
 
-&emsp;(A) may be reduced or terminated by the President when he determines, after taking into account the advice received from the United States International Trade Commission under subsection (d)(2) of this section and after seeking advice of the Secretary of Commerce and the Secretary of Labor, that such reduction or termination is in the national interest, and
+&emsp;(A) may be reduced or terminated by the President when he determines, after taking into account the advice received from the United States International Trade Commission under subsection (d)(2) and after seeking advice of the Secretary of Commerce and the Secretary of Labor, that such reduction or termination is in the national interest, and
 
 &emsp;(B) unless extended under section 2253 of this title, shall terminate not later than the close of the date which is 4 years (or, in the case of any such increase or imposition proclaimed pursuant to such section 7, 5 years) after the effective date of the initial proclamation or October 11, 1962, whichever date is the later.
 
@@ -50,7 +50,7 @@ No proclamation pursuant to subsection (a) of this section shall be made—
 
 #### (e) Conformity of trade agreements with this section
 
-The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered into under section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.
+The President, as soon as practicable, shall take such action as he determines to be necessary to bring trade agreements entered intounder section 1351 of this title into conformity with the provisions of this section. No trade agreement shall be entered into under section 1821(a) of this title unless such agreement permits action in conformity with the provisions of this section.
 
 (Pub. L. 87–794, title III, §351, Oct. 11, 1962, 76 Stat. 899; Pub. L. 93–618, title I, §171(b), title VI, §602(c), (d), Jan. 3, 1975, 88 Stat. 2009, 2072.)
 
@@ -102,7 +102,7 @@ Pub. L. 89–388, §4, Apr. 13, 1966, 80 Stat. 110, provided that: "For purposes
 
 Pub. L. 89–241, §3, Oct. 7, 1965, 79 Stat. 933, provided that:
 
-"(a) For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C., sec. 1886) and section 351(b) (19 U.S.C., sec. 1981(b)) of the Trade Expansion Act of 1962and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C., sec. 1351(c)(2)(A))—
+"(a) For purposes of applying paragraphs (4) and (5) of section 256 (19 U.S.C., sec. 1886) and section 351(b) (19 U.S.C., sec. 1981(b)) of the Trade Expansion Act of 1962 and section 350(c)(2)(A) of the Tariff Act of 1930 (19 U.S.C., sec. 1351(c)(2)(A))—
 
 &emsp;"(1) The rates of duty in rate column numbered 1 of the Tariff Schedules of the United States as changed by this Act shall be treated as the rates of duty existing on July 1, 1962.
 

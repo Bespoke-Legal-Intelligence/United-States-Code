@@ -56,6 +56,14 @@ Subsecs. (d), (e). Pub. L. 91–605 added subsecs. (d) and (e).
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
+#### Relinquishment of Park-and-Ride Lot Facilities
+
+Pub. L. 114–94, div. A, title I, §1423, Dec. 4, 2015, 129 Stat. 1425, provided that: "A State transportation agency may relinquish park-and-ride lot facilities or portions of park-and-ride lot facilities to a local government agency for highway purposes if authorized to do so under State law if the agreement providing for the relinquishment provides that—
+
+&emsp;"(1) rights-of-way on the Interstate System will remain available for future highway improvements; and
+
+&emsp;"(2) modifications to the facilities that could impair the highway or interfere with the free and safe flow of traffic are subject to the approval of the Secretary \[of Transportation\]."
+
 #### Jason's Law
 
 Pub. L. 112–141, div. A, title I, §1401, July 6, 2012, 126 Stat. 554, provided that:
@@ -114,7 +122,7 @@ Electric Vehicle and Natural Gas Vehicle Infrastructure.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), a State may establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
+In general.—Except as provided in paragraph (2), a State may establish electric vehicle chargingstations or natural gas vehicle refueling stations for the use of battery-powered or natural gas-fueled trucks or other motor vehicles at any parking facility funded or authorized under this Act \[see Tables for classification\] or title 23, United States Code.
 
 &emsp;"(2)
 

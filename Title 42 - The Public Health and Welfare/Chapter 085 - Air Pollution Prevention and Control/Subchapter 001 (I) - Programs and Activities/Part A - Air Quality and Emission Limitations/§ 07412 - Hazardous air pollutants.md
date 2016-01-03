@@ -34,7 +34,7 @@ For purposes of this section, except subsection (r) of this section—
 
 #### (8) Electric utility steam generating unit
 
-&emsp;The term "electric utility steam generating unit" means any fossil fuel fired combustionunit of more than 25 megawatts that serves a generator that produces electricity for sale. A unit that cogenerates steam and electricity and supplies more than one-third of its potential electric output capacity and more than 25 megawatts electrical output to any utility power distribution system for sale shall be considered an electric utility steam generating unit.
+&emsp;The term "electric utility steam generating unit" means any fossil fuel fired combustion unit of more than 25 megawatts that serves a generator that produces electricity for sale. A unit that cogenerates steam and electricity and supplies more than one-third of its potential electric output capacity and more than 25 megawatts electrical output to any utility power distribution system for sale shall be considered an electric utility steam generating unit.
 
 #### (9) Owner or operator
 
@@ -272,7 +272,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (3) Petitions to modify the list
 
-&emsp;(A) Beginning at any time after 6 months after November 15, 1990, any person may petition the Administrator to modify the list of hazardous air pollutants under this subsection by adding or deleting a substance or, in case of listed pollutants without CAS numbers (other than coke oven emissions, mineral fibers, or polycyclic organic matter) removing certain unique substances. Within 18 months after receipt of a petition, the Administrator shall either grant or deny the petition by publishing a written explanation of the reasons for the Administrator's decision. Any such petitionshall include a showing by the petitioner that there is adequate data on the health or environmental defects <sup>2</sup> of the pollutant or other evidence adequate to support the petition. The Administrator may not deny a petition solely on the basis of inadequate resources or time for review.
+&emsp;(A) Beginning at any time after 6 months after November 15, 1990, any person may petition the Administrator to modify the list of hazardous air pollutants under this subsection by adding or deleting a substance or, in case of listed pollutants without CAS numbers (other than coke oven emissions, mineral fibers, or polycyclic organic matter) removing certain unique substances. Within 18 months after receipt of a petition, the Administrator shall either grant or deny the petition by publishing a written explanation of the reasons for the Administrator's decision. Any such petition shall include a showing by the petitioner that there is adequate data on the health or environmental defects <sup>2</sup> of the pollutant or other evidence adequate to support the petition. The Administrator may not deny a petition solely on the basis of inadequate resources or time for review.
 
 &emsp;(B) The Administrator shall add a substance to the list upon a showing by the petitioner or on the Administrator's own determination that the substance is an air pollutant and that emissions, ambient concentrations, bioaccumulation or deposition of the substance are known to cause or may reasonably be anticipated to cause adverse effects to human health or adverse environmental effects.
 
@@ -316,7 +316,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (5) Additional categories
 
-&emsp;In addition to those categories and subcategories of sources listed for regulation pursuant to paragraphs (1) and (3), the Administrator may at any time list additional categories and subcategories of sources of hazardous air pollutants according to the same criteria for listing applicable under such paragraphs. In the case of source categories and subcategories listed after publication of theinitial list required under paragraph (1) or (3), emission standards under subsection (d) of this section for the category or subcategory shall be promulgated within 10 years after November 15, 1990, or within 2 years after the date on which such category or subcategory is listed, whichever is later.
+&emsp;In addition to those categories and subcategories of sources listed for regulation pursuant to paragraphs (1) and (3), the Administrator may at any time list additional categories and subcategories of sources of hazardous air pollutants according to the same criteria for listing applicable under such paragraphs. In the case of source categories and subcategories listed after publication of the initial list required under paragraph (1) or (3), emission standards under subsection (d) of this section for the category or subcategory shall be promulgated within 10 years after November 15, 1990, or within 2 years after the date on which such category or subcategory is listed, whichever is later.
 
 #### (6) Specific pollutants
 
@@ -346,7 +346,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources and area sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sources within a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
+&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources and area sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sourceswithin a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
 
 #### (2) Standards and methods
 
@@ -394,7 +394,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;&emsp;(i) the use of sodium silicate (or equivalent) luting compounds to prevent door leaks, and other operating practices and technologies for their effectiveness in reducing coke oven emissions, and their suitability for use on new and existing coke oven batteries, taking into account costs and reasonable commercial door warranties; and
 
-&emsp;&emsp;(ii) as a basis for emission standards under this subsection for new coke oven batteries that begin construction after the date of proposal of such standards, the Jewell design Thompson non-recovery coke oven batteries and other non-recovery coke oven technologies, and other appropriate emission control and coke production technologies, as to their effectiveness in reducing coke oven emissions and their capability for production of steel quality coke.
+&emsp;&emsp;(ii) as a basis for emission standards under this subsection for new coke oven batteriesthat begin construction after the date of proposal of such standards, the Jewell design Thompson non-recovery coke oven batteries and other non-recovery coke oven technologies, and other appropriate emission control and coke production technologies, as to their effectiveness in reducing coke oven emissions and their capability for production of steel quality coke.
 
 > &emsp;Such regulations shall require at a minimum that coke oven batteries will not exceed 8 per centum leaking doors, 1 per centum leaking lids, 5 per centum leaking offtakes, and 16 seconds visible emissions per charge, with no exclusion for emissions during the period after the closing of self-sealing oven doors. Notwithstanding subsection (i) of this section, the compliance date for such emission standards for existing coke oven batteries shall be December 31, 1995.
 
@@ -464,7 +464,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;&emsp;(B) the public health significance of such estimated remaining risk and the technologically and commercially available methods and costs of reducing such risks;
 
-&emsp;&emsp;(C) the actual health effects with respect to persons living in the vicinity of sources,any available epidemiological or other health studies, risks presented by background concentrations of hazardous air pollutants, any uncertainties in risk assessment methodology or other health assessment technique, and any negative health or environmental consequences to the community of efforts to reduce such risks; and
+&emsp;&emsp;(C) the actual health effects with respect to persons living in the vicinity of sources, any available epidemiological or other health studies, risks presented by background concentrations of hazardous air pollutants, any uncertainties in risk assessment methodology or other health assessment technique, and any negative health or environmental consequences to the community of efforts to reduce such risks; and
 
 &emsp;&emsp;(D) recommendations as to legislation regarding such remaining risk.
 
@@ -502,7 +502,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;(A) A physical change in, or change in the method of operation of, a major source which results in a greater than de minimis increase in actual emissions of a hazardous air pollutant shall not be considered a modification, if such increase in the quantity of actual emissions of any hazardous air pollutant from such source will be offset by an equal or greater decrease in the quantity of emissions of another hazardous air pollutant (or pollutants) from such source which is deemed more hazardous, pursuant to guidance issued by the Administrator under subparagraph (B). The owner or operator of such source shall submit a showing to the Administrator (or the State) that such increase has been offset under the preceding sentence.
 
-&emsp;(B) The Administrator shall, after notice and opportunity for comment and not later than 18 months after November 15, 1990, publish guidance with respect to implementation of this subsection. Such guidance shall include an identification, to the extent practicable, of the relative hazard to human health resulting from emissions to the ambient air of each of the pollutants listed under subsection (b) ofthis section sufficient to facilitate the offset showing authorized by subparagraph (A). Such guidance shall not authorize offsets between pollutants where the increased pollutant (or more than one pollutant in a stream of pollutants) causes adverse effects to human health for which no safety threshold for exposure can be determined unless there are corresponding decreases in such types of pollutant(s).
+&emsp;(B) The Administrator shall, after notice and opportunity for comment and not later than 18 months after November 15, 1990, publish guidance with respect to implementation of this subsection. Such guidance shall include an identification, to the extent practicable, of the relative hazard to human health resulting from emissions to the ambient air of each of the pollutants listed under subsection (b) of this section sufficient to facilitate the offset showing authorized by subparagraph (A). Such guidance shall not authorize offsets between pollutants where the increased pollutant (or more than one pollutant in a stream of pollutants) causes adverse effects to human health for which no safety threshold for exposure can be determined unless there are corresponding decreases in such types of pollutant(s).
 
 #### (2) Construction, reconstruction and modifications
 
@@ -540,7 +540,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (1) Preconstruction and operating requirements
 
-&emsp;After the effective date of any emission standard, limitation, or regulation under subsection (d), (f) or (h) of this section, no person may construct any new major source or reconstruct any existing major source subject to such emission standard, regulation or limitation unless the Administrator (or a State with a permit program approved under subchapter V of this chapter) determines that such source, if properly constructed, reconstructed and operated, will comply with the standard, regulation or limitation.
+&emsp;After the effective date of any emission standard, limitation, or regulation under subsection (d), (f) or (h) of this section, no person may construct any new major source or reconstruct any existing major source subject tosuch emission standard, regulation or limitation unless the Administrator (or a State with a permit program approved under subchapter V of this chapter) determines that such source, if properly constructed, reconstructed and operated, will comply with the standard, regulation or limitation.
 
 #### (2) Special rule
 
@@ -552,7 +552,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (3) Compliance schedule for existing sources
 
-&emsp;(A) After the effective date of any emissions standard, limitation or regulation promulgated under this section and applicable to a source, no person may operate such source in violation of such standard, limitation or regulation except, in the case of an existing source, the Administrator shall establish acompliance date or dates for each category or subcategory of existing sources, which shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the effective date of such standard, except as provided in subparagraph (B) and paragraphs (4) through (8).
+&emsp;(A) After the effective date of any emissions standard, limitation or regulation promulgated under this section and applicable to a source, no person may operate such source in violation of such standard, limitation or regulation except, in the case of an existing source, the Administrator shall establish a compliance date or dates for each category or subcategory of existing sources, which shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the effective date of such standard, except as provided in subparagraph (B) and paragraphs (4) through (8).
 
 &emsp;(B) The Administrator (or a State with a program approved under subchapter V of this chapter) may issue a permit that grants an extension permitting an existing source up to 1 additional year to comply with standards under subsection (d) of this section if such additional period is necessary for the installation of controls. An additional extension of up to 3 years may be added for mining waste operations, if the 4-year compliance time is insufficient to dry and cover mining waste in order to reduce emissions of any pollutant listed under subsection (b) of this section.
 
@@ -584,7 +584,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (7) Extension for new sources
 
-&emsp;A source for which construction or reconstruction is commenced after the date an emission standard applicable to such source is proposed pursuant to subsection (d) of this section but before the date an emission standard applicable to such source is proposed pursuantto subsection (f) of this section shall not be required to comply with the emission standard under subsection (f) of this section until the date 10 years after the date construction or reconstruction is commenced.
+&emsp;A source for which construction or reconstruction is commenced after the date an emission standard applicable to such source is proposed pursuant to subsection (d) of this section but before the date an emission standard applicable to such source is proposed pursuant to subsection (f) of this section shall not be required to comply with the emission standard under subsection (f) of this section until the date 10 years after the date construction or reconstruction is commenced.
 
 #### (8) Coke ovens
 
@@ -618,7 +618,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;(D) At any time prior to January 1, 1998, the owner or operator of any coke oven battery may elect to comply with emission limitations promulgated under subsection (f) of this section by the date such emission limitations would otherwise apply to such coke oven battery, in lieu of the emission limitations and the compliance dates provided under subparagraphs (B) and (C) of this paragraph. Any such owner or operator shall be legally bound to comply with such emission limitations promulgated under subsection (f) of this section with respect to such coke oven battery as of January 1, 2003. If no such emission limitations have been promulgated for such coke oven battery, the Administrator shall promulgate such emission limitations in accordance with subsection (f) of this section for such coke oven battery.
 
-&emsp;(E) Coke oven batteries qualifying for an extension under subparagraph (A) shall make available not later than January 1, 2000, to the surrounding communities the results of any risk assessment performed by the Administrator to determine the appropriate level of any emission standard established by the Administrator pursuant to subsection (f) of this section.
+&emsp;(E) Coke oven batteries qualifying for an extension under subparagraph (A) shall make available not later than January 1, 2000, to thesurrounding communities the results of any risk assessment performed by the Administrator to determine the appropriate level of any emission standard established by the Administrator pursuant to subsection (f) of this section.
 
 &emsp;(F) Notwithstanding the provisions of this section, reconstruction of any source of coke oven emissions qualifying for an extension under this paragraph shall not subject such source to emission limitations under subsection (f) of this section more stringent than those established under subparagraphs (B) and (C) until January 1, 2020. For the purposes of this subparagraph, the term "reconstruction" includes the replacement of existing coke oven battery capacity with new coke oven batteries of comparable or lower capacity and lower potential emissions.
 
@@ -702,7 +702,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (2) Guidance
 
-&emsp;Not later than 12 months after November 15, 1990, the Administrator shall publish guidance that would be useful to the States in developing programs for submittal under this subsection. The guidance shall also provide for the registration of all facilities producing, processing, handling or storing any substance listed pursuant to subsection (r) of this sectionin amounts greater than the threshold quantity. The Administrator shall include as an element in such guidance an optional program begun in 1986 for the review of high-risk point sources of air pollutants including, but not limited to, hazardous air pollutants listed pursuant to subsection (b) of this section.
+&emsp;Not later than 12 months after November 15, 1990, the Administrator shall publish guidance that would be useful to the States in developing programs for submittal under this subsection. The guidance shall also provide for the registration of all facilities producing, processing, handling or storing any substance listed pursuant to subsection (r) of this section in amounts greater than the threshold quantity. The Administrator shall include as an element in such guidance an optional program begun in 1986 for the review of high-risk point sources of air pollutants including, but not limited to, hazardous air pollutants listed pursuant to subsection (b) of this section.
 
 #### (3) Technical assistance
 
@@ -822,7 +822,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;(A) Notwithstanding the provisions of subsection (a) of this section, emissions from any oil or gas exploration or production well (with its associated equipment) and emissions from any pipeline compressor or pump station shall not be aggregated with emissions from other similar units, whether or not such units are in a contiguous area or under common control, to determine whether such units or stations are major sources, and in the case of any oil or gas exploration or production well (with its associated equipment), such emissions shall not be aggregated for any purpose under this section.
 
-&emsp;(B) The Administrator shall not list oil and gas production wells (with its associated equipment) as an area source category under subsection (c) of this section, except that theAdministrator may establish an area source category for oil and gas production wells located in any metropolitan statistical area or consolidated metropolitan statistical area with a population in excess of 1 million, if the Administrator determines that emissions of hazardous air pollutants from such wells present more than a negligible risk of adverse effects to public health.
+&emsp;(B) The Administrator shall not list oil and gas production wells (with its associated equipment) as an area source category under subsection (c) of this section, except that the Administrator may establish an area source category for oil and gas production wells located in any metropolitan statistical area or consolidated metropolitan statistical area with a population in excess of 1 million, if the Administrator determines that emissions of hazardous air pollutants from such wells present more than a negligible risk of adverse effects to public health.
 
 #### (5) Hydrogen sulfide
 
@@ -864,7 +864,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (5) Assistance
 
-&emsp;The Administrator shall assist the Academy in gathering any information the Academy deems necessary to carry out this subsection. The Administrator may use any authority under this chapter to obtain information from any person, and to require any person to conduct tests, keep and produce records, and make reports respecting research or other activities conducted by such person as necessary to carry out this subsection.
+&emsp;The Administrator shall assist the Academy in gathering any information the Academydeems necessary to carry out this subsection. The Administrator may use any authority under this chapter to obtain information from any person, and to require any person to conduct tests, keep and produce records, and make reports respecting research or other activities conducted by such person as necessary to carry out this subsection.
 
 #### (6) Authorization
 
@@ -946,7 +946,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 #### (5) Threshold quantity
 
-&emsp;At the time any substance is listed pursuant to paragraph (3), the Administrator shall establish by rule, a threshold quantity for the substance, taking into account the toxicity, reactivity, volatility, dispersibility, combustibility, or flammability of the substance and the amount of the substance which, as a result of an accidental release, is known to cause or may reasonably be anticipated to cause death, injury or serious adverse effects to human health for which the substance was listed. The Administrator is authorized to establish agreater threshold quantity for, or to exempt entirely, any substance that is a nutrient used in agriculture when held by a farmer.
+&emsp;At the time any substance is listed pursuant to paragraph (3), the Administrator shall establish by rule, a threshold quantity for the substance, taking into account the toxicity, reactivity, volatility, dispersibility, combustibility, or flammability of the substance and the amount of the substance which, as a result of an accidental release, is known to cause or may reasonably be anticipated to cause death, injury or serious adverse effects to human health for which the substance was listed. The Administrator is authorized to establish a greater threshold quantity for, or to exempt entirely, any substance that is a nutrient used in agriculture when held by a farmer.
 
 #### (6) Chemical Safety Board
 
@@ -972,7 +972,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;(H) Not later than 18 months after November 15, 1990, the Board shall publish a report accompanied by recommendations to the Administrator on the use of hazard assessments in preventing the occurrence and minimizing the consequences of accidental releases of extremely hazardous substances. The recommendations shall include a list of extremely hazardous substances which are not regulated substances (including threshold quantities for such substances) and categories of stationary sources for which hazard assessments would be an appropriate measure to aid in the prevention of accidental releases and to minimize the consequences of those releases that do occur. The recommendations shall also include a description of the information and analysis which would be appropriate to include in any hazard assessment. The Board shall also make recommendations with respect to the role of risk management plans as required by paragraph (8)(B) <sup>5</sup> in preventing accidental releases. The Board may from time to time review and revise its recommendations under this subparagraph.
 
-&emsp;(I) Whenever the Board submits a recommendation with respect to accidental releases to the Administrator, the Administrator shall respond to such recommendation formally andin writing not later than 180 days after receipt thereof. The response to the Board's recommendation by the Administrator shall indicate whether the Administrator will—
+&emsp;(I) Whenever the Board submits a recommendation with respect to accidental releases to the Administrator, the Administrator shall respond to such recommendation formally and in writing not later than 180 days after receipt thereof. The response to the Board's recommendation by the Administrator shall indicate whether the Administrator will—
 
 &emsp;&emsp;(i) initiate a rulemaking or issue such orders as are necessary to implement the recommendation in full or in part, pursuant to any timetable contained in the recommendation; <sup>6</sup>
 
@@ -998,7 +998,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 > &emsp;Whenever the Administrator or the Board conducts an inspection of a facility pursuant to this subsection, employees and their representatives shall have the same rights to participate in such inspections as provided in the Occupational Safety and Health Act \[29 U.S.C. 651 et seq.\].
 
-&emsp;(M) In addition to that described in subparagraph (L), the Board may use any information gathering authority of the Administrator under this chapter, including the subpoena power provided in section 7607(a)(1) of this title.
+&emsp;(M) In addition to that described in subparagraph (L), the Board may use any information gathering authority of the Administrator under this chapter, including the subpoenapower provided in section 7607(a)(1) of this title.
 
 &emsp;(N) The Board is authorized to establish such procedural and administrative rules as are necessary to the exercise of its functions and duties. The Board is authorized without regard to section 6101 of title 41 to enter into contracts, leases, cooperative agreements or other transactions as may be necessary in the conduct of the duties and functions of the Board with any other agency, institution, or person.
 
@@ -1038,7 +1038,7 @@ NOTE: For all listings above which contain the word "compounds" and for glycol e
 
 &emsp;(F) Notwithstanding the provisions of subchapter V of this chapter or this section, no stationary source shall be required to apply for, or operate pursuant to, a permit issued under such subchapter solely because such source is subject to regulations or requirements under this subsection.
 
-&emsp;(G) In exercising any authority under this subsection, the Administrator shall not, for purposes of section 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
+&emsp;(G) In exercising any authority under this subsection, the Administrator shall not, forpurposes of section 653(b)(1) of title 29, be deemed to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.
 
 &emsp;(H)
 
@@ -1190,7 +1190,7 @@ Report.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Not later than 3 years after August 5, 1999, the Attorney General, in consultation with appropriate State, local, and Federal Government agencies, affected industry, and the public, shall submit to Congress a report that describes the extent to which regulations promulgated under this paragraph have resulted in actions, including the design and maintenance of safe facilities, that are effective in detecting, preventing, and minimizing the consequences of releases of regulated substances that may be caused by criminal activity. As part of this report, the Attorney General, using available data to the extent possible, and a sampling of covered stationary sources selected at the discretion of the Attorney General, and in consultation with appropriate State, local, and Federal governmental agencies, affected industry, and the public, shall review the vulnerability of covered stationary sources to criminal and terrorist activity, current industry practices regarding site security, and security of transportation of regulated substances. The Attorney General shall submit this report, containing the results of the review, together with recommendations, if any, for reducing vulnerability of covered stationary sources to criminal and terrorist activity, to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate and other relevant committees of Congress.
+In general.—Not later than 3 years after August 5, 1999, the Attorney General, in consultation with appropriate State, local, and Federal Government agencies, affected industry, and the public, shall submit to Congress a report that describes the extent to which regulations promulgated under this paragraph have resulted in actions, including the design and maintenance of safe facilities, that are effective in detecting, preventing, and minimizing the consequences of releases of regulated substances that may be caused by criminal activity. As part of this report, the Attorney General, using available data to the extent possible, and a sampling of covered stationary sources selected at the discretion of the Attorney General, and in consultation with appropriate State, local,and Federal governmental agencies, affected industry, and the public, shall review the vulnerability of covered stationary sources to criminal and terrorist activity, current industry practices regarding site security, and security of transportation of regulated substances. The Attorney General shall submit this report, containing the results of the review, together with recommendations, if any, for reducing vulnerability of covered stationary sources to criminal and terrorist activity, to the Committee on Commerce of the United States House of Representatives and the Committee on Environment and Public Works of the United States Senate and other relevant committees of Congress.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -1232,7 +1232,7 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 #### (10) Presidential review
 
-&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but not later than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign release prevention, mitigation or response authorities otherwise established by law.
+&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but not later than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign releaseprevention, mitigation or response authorities otherwise established by law.
 
 #### (11) State authority
 
@@ -1312,7 +1312,7 @@ Subsec. (e). Pub. L. 95–95, §110, added subsec. (e).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1977 Amendment
 
@@ -1356,7 +1356,7 @@ Memorandum for the Attorney General\[, \] the Administrator of the Environmental
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 112(r)(7)(H) of the Clean Air Act ("Act") (42 U.S.C. 7412(r)(7)(H)), as added by section 3 of the Chemical Safety Information, Site Security and Fuels Regulatory Relief Act (Public Law 106–40), and section 301 of title 3, United States Code, I hereby delegate to:
 
-(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Act to assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
+(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Actto assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
 
 (2) the Administrator of the Environmental Protection Agency (EPA) the authority vested in the President under section 112(r)(7)(H)(ii)(I)(bb) of the Act to assess the incentives created by public disclosure of off-site consequence analysis information for reduction in the risk of accidental releases; and
 
@@ -1474,7 +1474,7 @@ The EPA has concluded that 4 years should generally be sufficient to install the
 
 To address any concerns with respect to electric reliability while assuring MATS' public health benefits, I direct you to take the following actions:
 
-1\. Building on the information and guidance that you have provided to the public, relevant stakeholders, and permitting authorities in the preamble of the MATS Rule, work with State and local permitting authorities to make the additional year for compliance with the MATS Rule provided under section 112(i)(3)(B) of the Clean Air Act broadly available to sources, consistent with law, and to invoke this flexibility expeditiously where justified.
+1\. Building on the information and guidance that you have provided to the public, relevant stakeholders, and permitting authorities in the preamble of the MATS Rule, work with State and local permitting authorities to make the additional year for compliance with theMATS Rule provided under section 112(i)(3)(B) of the Clean Air Act broadly available to sources, consistent with law, and to invoke this flexibility expeditiously where justified.
 
 2\. Promote early, coordinated, and orderly planning and execution of the measures needed to implement the MATS Rule while maintaining the reliability of the electric power system. Consistent with Executive Order 13563, this process should be designed to "promote predictability and reduce uncertainty," and should include engagement and coordination with DOE, the Federal Energy Regulatory Commission, State utility regulators, Regional Transmission Organizations, the North American Electric Reliability Corporation and regional electric reliability organizations, other grid planning authorities, electric utilities, and other stakeholders, as appropriate.
 

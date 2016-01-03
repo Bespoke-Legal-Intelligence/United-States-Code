@@ -90,7 +90,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) renovation and improvement in classroom, library, laboratory, and other instructional facilities;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) support of faculty exchanges, faculty development, and faculty fellowships to assist faculty in attainingadvanced degrees in the faculty's field of instruction;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) support of faculty exchanges, faculty development, and faculty fellowships to assist faculty in attaining advanced degrees in the faculty's field of instruction;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) curriculum development and academic instruction;
 
@@ -160,7 +160,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(ii) is not a Tribal College or University (as defined in section 1059c of this title); and
 
-&emsp;&emsp;(B) submits to the Secretary such enrollment data as may be necessary to demonstrate that the institution is described in subparagraph (A), along with such other information and data as the Secretary may by regulation require.
+&emsp;&emsp;(B) submits to the Secretary such enrollment data as may be necessary to demonstrate that the institution is described insubparagraph (A), along with such other information and data as the Secretary may by regulation require.
 
 #### (9) Predominantly Black institution
 
@@ -168,7 +168,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;(A) has an enrollment of needy students as defined by paragraph (3);
 
-&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational andgeneral expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary applies the waiver requirements to section 1058(b)(1)(B) of this title;
+&emsp;&emsp;(B) has an average educational and general expenditure which is low, per full-time equivalent undergraduate student in comparison with the average educational and general expenditure per full-time equivalent undergraduate student of institutions of higher education that offer similar instruction, except that the Secretary may apply the waiver requirements described in section 1068a(b) of this title to this subparagraph in the same manner as the Secretary applies the waiver requirements to section 1058(b)(1)(B) of this title;
 
 &emsp;&emsp;(C) has an enrollment of undergraduate students—
 

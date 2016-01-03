@@ -2,7 +2,7 @@
 
 For purposes of this subpart:
 
-&emsp;(1) The term "adjustment factor" applicable to a fiscal year that is the Consumer PriceIndex for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.
+&emsp;(1) The term "adjustment factor" applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011.
 
 &emsp;(2) The term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—
 

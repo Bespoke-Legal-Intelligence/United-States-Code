@@ -102,7 +102,7 @@ Consultation.—The Secretary of Defense shall develop and implement the plan re
 
 Supporting Information for Budget Requests.—The material submitted in support of the budget of the President for each fiscal year after fiscal year 2013, as submitted to Congress pursuant to section 1105(a) of title 31, United States Code, shall include the following with regard to the Marine Corps Security Guard Program:
 
-&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards tothe Department of State during that fiscal year, including—
+&emsp;"(1) A description of the expanded security support to be provided by Marine Corps Security Guards to the Department of State during that fiscal year, including—
 
 &emsp;&emsp;"(A) any increased internal security to be provided at United States embassies, consulates, and other diplomatic facilities;
 

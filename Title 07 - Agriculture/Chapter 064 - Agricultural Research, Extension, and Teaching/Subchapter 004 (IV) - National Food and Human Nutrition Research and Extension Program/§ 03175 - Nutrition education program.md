@@ -16,7 +16,7 @@ To enable low-income individuals and families to engage in nutritionally sound f
 
 Beginning with the fiscal year ending September 30, 1982—
 
-&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated among the States; with the exception that the Secretary may retain up to 2 per centum of suchamount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
+&emsp;(1) Any funds annually appropriated under section 343(d) of this title, for the conduct of the expanded food and nutrition education program, up to the amount appropriated under such section for such program for the fiscal year ending September 30, 1981, shall be allocated to each State in the same proportion as funds appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, are allocated amongthe States; with the exception that the Secretary may retain up to 2 per centum of such amount for the conduct of such program in States that did not participate in such program in the fiscal year ending September 30, 1981.
 
 &emsp;(2) Any funds appropriated annually under section 343(d) of this title, for the conduct of the expanded food and nutrition education program in excess of the amount appropriated under such section for the conduct of the program for the fiscal year ending September 30, 1981, shall be allocated as follows:
 
@@ -90,7 +90,7 @@ Subsecs. (e), (f). Pub. L. 110–246, §7116(a)(6), added subsecs. (e) and (f).
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–185 substituted "through 2002" for "and 1997".
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–127 substituted ", $83,000,000 for each of fiscal years 1996 and 1997" for"$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995".
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–127 substituted ", $83,000,000 for each of fiscal years 1996 and 1997" for "$63,000,000 for fiscal year 1991, $68,000,000 for fiscal year 1992, $73,000,000 for fiscal year 1993, $78,000,000 for fiscal year 1994, and $83,000,000 for fiscal year 1995".
 
 <b>1990</b>—Subsec. (c)(3). Pub. L. 101–624 added par. (3).
 

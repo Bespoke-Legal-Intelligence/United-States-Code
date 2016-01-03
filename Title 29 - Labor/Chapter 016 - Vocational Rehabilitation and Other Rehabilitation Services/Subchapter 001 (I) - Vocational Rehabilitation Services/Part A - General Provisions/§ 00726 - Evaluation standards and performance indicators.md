@@ -26,13 +26,13 @@
 
 &emsp;&emsp;The Commissioner shall—
 
-&emsp;&emsp;&emsp;(i) on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct theState to make further revisions to the plan to improve performance; and
+&emsp;&emsp;&emsp;(i) on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State to make further revisions to the plan to improve performance; and
 
 &emsp;&emsp;&emsp;(ii) continue to conduct such reviews and request such revisions until the State sustains satisfactory performance over a period of more than 1 year.
 
 #### (c) Withholding
 
-If the Commissioner determines that a State whose performance falls below the established standards has failed to enter into a program improvement plan, or is not complying substantially with the terms and conditions of such a program improvement plan, the Commissioner shall, consistent with subsections (c) and (d) of section 727 of this title, reduce or make no further payments to the State under this program, until the State has entered into an approved program improvement plan, or satisfies the Commissioner that the State is complying substantially with the terms and conditions of such a program improvement plan, as appropriate.
+If the Commissioner determines that a State whose performance falls below the establishedstandards has failed to enter into a program improvement plan, or is not complying substantially with the terms and conditions of such a program improvement plan, the Commissioner shall, consistent with subsections (c) and (d) of section 727 of this title, reduce or make no further payments to the State under this program, until the State has entered into an approved program improvement plan, or satisfies the Commissioner that the State is complying substantially with the terms and conditions of such a program improvement plan, as appropriate.
 
 #### (d) Report to Congress
 
@@ -52,5 +52,5 @@ Subsec. (b)(2)(B)(i). Pub. L. 113–128, §416(2), substituted "on a biannual ba
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

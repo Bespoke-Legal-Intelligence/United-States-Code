@@ -80,7 +80,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 #### (A) Limitation
 
-&emsp;&emsp;For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres of the land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
+&emsp;&emsp;For purposes of applying the limitations in paragraph (1), no more than 2,000,000 acres ofthe land described in subsection (b)(3) may be enrolled in the program at any one time during the 2014 through 2018 fiscal years.
 
 #### (B) Priority
 
@@ -154,7 +154,7 @@ Subsec. (b)(1)(B). Pub. L. 113–79, §2001(b)(1), substituted "February 7, 2014
 
 Subsec. (b)(2), (3). Pub. L. 113–79, §2001(b)(2), (3), redesignated par. (3) as (2), added par. (3), and struck out former par. (2) which read as follows: "marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;".
 
-Subsec. (b)(4)(C). Pub. L. 113–79, §2001(b)(4), substituted "filterstrips or riparian buffers devoted to trees, shrubs, or grasses" for "filterstrips devoted to trees or shrubs".
+Subsec. (b)(4)(C). Pub. L. 113–79, §2001(b)(4), substituted "filterstrips or riparian buffers devoted totrees, shrubs, or grasses" for "filterstrips devoted to trees or shrubs".
 
 Subsec. (b)(5). Pub. L. 113–79, §2001(b)(5), added par. (5) and struck out former par. (5) which read as follows: "the portion of land in a field not enrolled in the conservation reserve in a case in which more than 50 percent of the land in the field is enrolled as a buffer, if—
 
@@ -174,7 +174,7 @@ Subsec. (c). Pub. L. 113–79, §2001(c), substituted "if, during the crop year,
 
 "(B) the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002."
 
-Subsec. (d). Pub. L. 113–79, §2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows:"The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time."
+Subsec. (d). Pub. L. 113–79, §2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time."
 
 Subsec. (e)(2), (3). Pub. L. 113–79, §2001(e), added par. (2) and struck out former pars. (2) and (3) which related to duration of contracts for certain land and 1-year extensions, respectively.
 

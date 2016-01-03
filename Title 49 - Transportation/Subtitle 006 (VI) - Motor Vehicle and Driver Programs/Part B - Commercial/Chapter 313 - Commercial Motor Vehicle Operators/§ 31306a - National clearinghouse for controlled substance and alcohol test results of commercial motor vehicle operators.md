@@ -404,7 +404,7 @@ Testing program.—The term "testing program" means the alcohol and controlled s
 
 The date of enactment of the Safe Roads Act of 2012, referred to in subsec. (a)(1), is the date of enactment of subtitle D of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
-Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (b)(1)(A), is section 226of Pub. L. 106–159, which is set out as a note under section 31306 of this title.
+Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (b)(1)(A), is section 226 of Pub. L. 106–159, which is set out as a note under section 31306 of this title.
 
 The Privacy Act of 1974, referred to in subsec. (d)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 

@@ -38,7 +38,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;(2) if requested by (A) the chief executive officer of the State in which is located the public water system which is not in compliance with such regulation or requirement, or (B) the agency of such State which has jurisdiction over compliance by public water systems in the State with national primary drinking water regulations or State drinking water regulations.
 
-> The court may enter, in an action brought under this subsection, such judgement as protection of public health may require, taking into consideration the time necessary to comply and the availability of alternative water supplies; and, if the court determines that there has been a violation of the regulation or schedule or other requirement with respect to which the action was brought, the court may, taking into account the seriousness of the violation, the population at risk, and other appropriate factors, impose on the violator a civil penalty of not to exceed $25,000 for each day in which such violation occurs.
+> The court may enter, in an action brought under this subsection, such judgement as protection of public health may require, taking into consideration the time necessary to comply and the availability of alternative water supplies; and, if the court determines that there has been a violation of the regulation or schedule or other requirement with respect to which the action was brought, the court may, taking into account the seriousness of the violation, the population at risk, and other appropriate factors, impose on the violator a civil penalty of not to exceed$25,000 for each day in which such violation occurs.
 
 #### (c) Notice to persons served
 
@@ -118,7 +118,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to eachperson served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
+&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
 
 #### (ii) Form and manner of notice
 
@@ -162,7 +162,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(iv) Information on compliance with national primary drinking water regulations, as required by the Administrator, and notice if the system is operating under a variance or exemption and the basis on which the variance or exemption was granted.
 
-&emsp;&emsp;&emsp;(v) Information on the levels of unregulated contaminants for which monitoring is required under section 300j–4(a)(2) of thistitle (including levels of cryptosporidium and radon where States determine they may be found).
+&emsp;&emsp;&emsp;(v) Information on the levels of unregulated contaminants for which monitoring is required under section 300j–4(a)(2) of this title (including levels of cryptosporidium and radon where States determine they may be found).
 
 &emsp;&emsp;&emsp;(vi) A statement that the presence of contaminants in drinking water does not necessarily indicate that the drinking water poses a health risk and that more information about contaminants and potential health effects can be obtained by calling the Environmental Protection Agency hotline.
 

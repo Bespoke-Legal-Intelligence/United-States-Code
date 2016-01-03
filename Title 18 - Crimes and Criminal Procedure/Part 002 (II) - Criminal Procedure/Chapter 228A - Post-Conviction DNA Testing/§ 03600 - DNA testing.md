@@ -16,7 +16,7 @@ In General.—Upon a written motion by an individual under a sentence of impriso
 
 &emsp;&emsp;&emsp;&emsp;(I) the applicant demonstrates that there is no adequate remedy under State law to permit DNA testing of the specified evidence relating to the State offense; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to the extent available, the applicant has exhausted all remedies available under State law for requesting DNAtesting of specified evidence relating to the State offense.
+&emsp;&emsp;&emsp;&emsp;(II) to the extent available, the applicant has exhausted all remedies available under State law for requesting DNA testing of specified evidence relating to the State offense.
 
 &emsp;(2) The specific evidence to be tested was secured in relation to the investigation or prosecution of the Federal or State offense referenced in the applicant's assertion under paragraph (1).
 
@@ -120,7 +120,7 @@ Time Limitation in Capital Cases.—In any case in which the applicant is senten
 
 &emsp;(1) any DNA testing ordered under this section shall be completed not later than 60 days after the date on which the Government responds to the motion filed under subsection (a); and
 
-&emsp;(2) not later than 120 days after the date on which the DNA testing ordered under this section is completed, the court shall order anypost-testing procedures under subsection (f) or (g), as appropriate.
+&emsp;(2) not later than 120 days after the date on which the DNA testing ordered under this section is completed, the court shall order any post-testing procedures under subsection (f) or (g), as appropriate.
 
 (e)
 

@@ -92,7 +92,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(II) technical assistance activities undertaken under clause (i);
 
-&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, other entities funded under this chapter, and public and private entities not funded under this chapter, including—
+&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, otherentities funded under this chapter, and public and private entities not funded under this chapter, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) annually providing a forum for exchanging information concerning, and promoting program and policy improvements in, required activities of the State assistive technology programs;
 
@@ -170,7 +170,7 @@ In order to support activities designed to improve the administration of this ch
 
 #### (v) Links to public-sector resources and information
 
-&emsp;&emsp;&emsp;To the extent feasible, the site shall be linked to relevant public-sector resourcesand information, such as the Internet sites of the Office of Special Education and Rehabilitation Services of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the Small Business Administration, the Architectural and Transportation Barriers Compliance Board, the National Institute of Standards and Technology, the Jobs Accommodation Network funded by the Office of Disability Employment Policy of the Department of Labor, and other relevant sites.
+&emsp;&emsp;&emsp;To the extent feasible, the site shall be linked to relevant public-sector resources and information, such as the Internet sites of the Office of Special Education and Rehabilitation Services of the Department of Education, the Office of Disability Employment Policy of the Department of Labor, the Small Business Administration, the Architectural and Transportation Barriers Compliance Board, the National Institute of Standards and Technology, the Jobs Accommodation Network funded by the Office of Disability Employment Policy of the Department of Labor, and other relevant sites.
 
 #### (vi) Minimum library components
 

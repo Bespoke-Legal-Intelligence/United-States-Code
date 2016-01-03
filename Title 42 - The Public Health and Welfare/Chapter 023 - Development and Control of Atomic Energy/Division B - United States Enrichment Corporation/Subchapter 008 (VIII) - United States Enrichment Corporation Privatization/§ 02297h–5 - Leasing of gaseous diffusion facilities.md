@@ -2,7 +2,7 @@
 
 #### (a) Transfer of lease
 
-Concurrent with privatization, the Corporation shall transfer to the private corporationthe lease of the gaseous diffusion plants and related property for the remainder of the term of such lease in accordance with the terms of such lease.
+Concurrent with privatization, the Corporation shall transfer to the private corporation the lease of the gaseous diffusion plants and related property for the remainder of the term of such lease in accordance with the terms of such lease.
 
 #### (b) Renewal
 
@@ -38,7 +38,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 &emsp;(A) The costs of arming and providing arrest authority to the security police officers required under paragraph (1) shall be paid as follows:
 
-&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
+&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of theDepartment (including employees of a contractor or subcontractor of the private entity); and
 
 &emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
 

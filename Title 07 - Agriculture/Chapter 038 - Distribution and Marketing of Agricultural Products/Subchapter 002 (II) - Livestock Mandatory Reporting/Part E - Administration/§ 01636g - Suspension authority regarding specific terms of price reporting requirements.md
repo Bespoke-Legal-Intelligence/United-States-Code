@@ -12,7 +12,7 @@ The Secretary may suspend any requirement of this subchapter if the Secretary de
 
 #### (2) Action by Congress
 
-&emsp;If an Act of Congress concerning the requirement that is the subject of the suspensionunder subsection (a) is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
+&emsp;If an Act of Congress concerning the requirement that is the subject of the suspension under subsection (a) is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
 
 (Aug. 14, 1946, ch. 966, title II, §258, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1205.)
 

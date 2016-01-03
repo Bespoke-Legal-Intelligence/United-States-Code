@@ -20,7 +20,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 > &emsp;if the officer or employee is performing duties relating to the enforcement of the immigration laws at the time of the arrest and if there is a likelihood of the person escaping before a warrant can be obtained for his arrest.
 
-> Under regulations prescribed by the Attorney General, an officer or employee of the Service may carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of the United States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
+> Under regulations prescribed by the Attorney General, an officer or employee of the Servicemay carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of the United States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
 
 #### (b) Administration of oath; taking of evidence
 
@@ -40,11 +40,11 @@ In the case of an alien who is arrested by a Federal, State, or local law enforc
 
 &emsp;(3) requests the Service to determine promptly whether or not to issue a detainer to detain the alien,
 
-> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney Generalshall effectively and expeditiously take custody of the alien.
+> the officer or employee of the Service shall promptly determine whether or not to issue such a detainer. If such a detainer is issued and the alien is not otherwise detained by Federal, State, or local officials, the Attorney General shall effectively and expeditiously take custody of the alien.
 
 #### (e) Restriction on warrantless entry in case of outdoor agricultural operations
 
-Notwithstanding any other provision of this section other than paragraph (3) of subsection (a) of this section, an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
+Notwithstanding any other provision of this section other than paragraph (3) of subsection (a), an officer or employee of the Service may not enter without the consent of the owner (or agent thereof) or a properly executed warrant onto the premises of a farm or other outdoor agricultural operation for the purpose of interrogating a person believed to be an alien as to the person's right to be or to remain in the United States.
 
 #### (f) Fingerprinting and photographing of certain aliens
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 (3) In performing a function under this subsection, an officer or employee of a State or political subdivision of a State shall be subject to the direction and supervision of the Attorney General.
 
-(4) In performing a function under this subsection, an officer or employee of a State or political subdivision of a State may use Federal property or facilities, as provided in a written agreement between the Attorney General and the State or subdivision.
+(4) In performing a function under this subsection, an officer or employee of a State or political subdivision of a State may use Federalproperty or facilities, as provided in a written agreement between the Attorney General and the State or subdivision.
 
 (5) With respect to each officer or employee of a State or political subdivision who is authorized to perform a function under this subsection, the specific powers and duties that may be, or are required to be, exercised or performed by the individual, the duration of the authority of the individual, and the position of the agency of the Attorney General who is required to supervise and direct the individual, shall be set forth in a written agreement between the Attorney General and the State or political subdivision.
 
@@ -86,7 +86,7 @@ An alien described in section 1101(a)(27)(J) of this title who has been battered
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 99–603, as amended by Pub. L. 100–525, §2(e), added su
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 

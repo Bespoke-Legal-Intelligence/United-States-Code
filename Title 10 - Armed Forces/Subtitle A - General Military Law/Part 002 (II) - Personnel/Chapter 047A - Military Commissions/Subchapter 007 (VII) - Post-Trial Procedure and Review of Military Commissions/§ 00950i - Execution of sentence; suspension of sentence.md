@@ -14,7 +14,7 @@ Execution of Sentence of Death Only Upon Final Judgment of Legality of Proceedin
 
 (2) A judgment as to legality of proceedings is final for purposes of paragraph (1) when review is completed in accordance with the judgment of the United States Court of Military Commission Review and—
 
-&emsp;(A) the time for the accused to file a petition for review by the United States Court of Appeals for the District of Columbia Circuit has expired, the accused has not filed a timely petition for such review, and the case is not otherwise under review by the Court of Appeals; or
+&emsp;(A) the time for the accused to file a petition for review by the United States Court of Appeals for the District of Columbia Circuit has expired, the accused has not filed a timely petition for such review, and the case is nototherwise under review by the Court of Appeals; or
 
 &emsp;(B) review is completed in accordance with the judgment of the United States Court of Appeals for the District of Columbia Circuit and—
 

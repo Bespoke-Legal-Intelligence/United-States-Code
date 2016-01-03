@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) citizens of the United States must own not less than 75 percent of the interest in the entity or, in the case of a nonprofit entity, exercise control in the entity that is determined by the Secretary to be the equivalent of such ownership, and
 
-&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islandsshall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
+&emsp;&emsp;&emsp;(iii) nationals of the United States and citizens of the Northern Mariana Islands shall be treated as citizens of the United States in meeting the ownership and control requirements referred to in clause (ii).
 
 &emsp;(2) The term "Secretary" means the Secretary of Commerce.
 
@@ -32,13 +32,13 @@ As used in this section—
 
 #### (b) Transfer of funds
 
-(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginning with the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
+(1) The Secretary of Agriculture shall transfer to the Secretary each fiscal year, beginningwith the fiscal year commencing July 1, 1954, and ending on June 30, 1957, from moneys made available to carry out the provisions of section 612c of title 7, an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws on fishery products (including fish, shellfish, mollusks, crustacea, aquatic plants and animals, and any products thereof, including processed and manufactured products), which shall be maintained in a separate fund only for—
 
 &emsp;(A) use by the Secretary—
 
-&emsp;&emsp;(i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c) of this section,<sup>1</sup>
+&emsp;&emsp;(i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c),<sup>1</sup>
 
-&emsp;&emsp;(ii) to implement the national fisheries research and development program provided for under subsection (d) of this section;
+&emsp;&emsp;(ii) to implement the national fisheries research and development program provided for under subsection (d);
 
 &emsp;&emsp;(iii) to implement the Northwest Atlantic Ocean Fisheries Reinvestment Program established under section 1863 of title 16; and
 
@@ -50,7 +50,7 @@ As used in this section—
 
 #### (c) Fisheries research and development projects
 
-(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
+(1) The Secretary shall make grants from the fund established under subsection (b) to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
 
 (2) The Secretary shall—
 
@@ -86,7 +86,7 @@ As used in this section—
 
 &emsp;(C) The recipient of the grant must submit to the Secretary periodic project status reports.
 
-(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept,as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
+(5)(A) If the cost of a project will be shared by the grant recipient, the Secretary shall accept, as a part or all of that share, the value of in-kind contributions made by the recipient, or made available to, and applied by, the recipient, with respect to the project.
 
 (B) For purposes of subparagraph (A), in-kind contributions may be in the form of, but are not limited to, personal services rendered in carrying out functions related to, and permission to use real or personal property owned by others (for which consideration is not required) in carrying out the project. The Secretary shall establish (i) the training, experience, and other qualifications which shall be required in order for services to be considered as in-kind contributions; and (ii) the standards under which the Secretary will determine the value of in-kind contributions for purposes of subparagraph (A).
 
@@ -94,23 +94,23 @@ As used in this section—
 
 #### (d) National fisheries research and development program
 
-(1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c) of this section, as the Secretary deems appropriate.
+(1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c), as the Secretary deems appropriate.
 
 (2) The Secretary shall, after consultation with appropriate representatives of the fishing industry, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives, an annual report, that must be submitted not later than 60 days before the close of each fiscal year, containing—
 
 &emsp;(A) the fisheries development goals and funding priorities under paragraph (1) for the next fiscal year;
 
-&emsp;(B) a description of all pending projects assisted under subsection (c) of this section or carried out under paragraph (1), in addition to—
+&emsp;(B) a description of all pending projects assisted under subsection (c) or carried out under paragraph (1), in addition to—
 
-&emsp;&emsp;(i) a list of those applications approved and those disapproved under subsection (c) of this section, and the total amount of grants made, for the current fiscal year, and
+&emsp;&emsp;(i) a list of those applications approved and those disapproved under subsection (c), and the total amount of grants made, for the current fiscal year, and
 
-&emsp;&emsp;(ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) of this section during the current fiscal year; and
+&emsp;&emsp;(ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) during the current fiscal year; and
 
-&emsp;(C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
+&emsp;(C) an assessment of each project assisted under subsection (c) or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
 
 #### (e) Allocation of fund moneys
 
-(1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) of this section or any other provision of law with respect to that fiscal year, shall be allocated as follows:
+(1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) or any other provision of law with respect to that fiscal year, shall be allocated as follows:
 
 &emsp;(A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
 

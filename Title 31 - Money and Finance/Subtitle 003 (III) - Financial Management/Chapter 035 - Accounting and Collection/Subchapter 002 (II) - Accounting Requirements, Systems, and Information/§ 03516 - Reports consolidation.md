@@ -86,7 +86,7 @@ Reaching an Unqualified Audit Opinion.—In order to ensure compliance with the 
 
 Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118 Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
 
-&emsp;"(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans andresources needed to meet the deadlines under subsection (b);
+&emsp;"(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans and resources needed to meet the deadlines under subsection (b);
 
 &emsp;"(2) that addresses how the Department will eliminate material weaknesses and significant deficiencies in internal controls over financial reporting and provides deadlines for the elimination of such weaknesses and deficiencies; and
 

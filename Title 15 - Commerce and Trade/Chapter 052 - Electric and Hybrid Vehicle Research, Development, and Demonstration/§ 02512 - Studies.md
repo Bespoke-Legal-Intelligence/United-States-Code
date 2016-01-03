@@ -2,11 +2,11 @@
 
 #### (a) Bias of surface transportation systems; submission of report
 
-The Secretary of Energy shall conduct a study to determine the existence of any tax, regulatory, traffic, urban design, rural electrical, or other institutional factor which tends or may tend to bias surface transportation systems toward vehicles of particular characteristics. The Secretary of Energy shall submit a report to the Congress on the findings and conclusions of such study, within 1 year after September 17, 1976. The report shall include any legislative or other recommendations of the Secretary of Energy.
+The Secretary of Energy shall conduct a study to determine the existence of any tax, regulatory, traffic, urban design, rural electrical, orother institutional factor which tends or may tend to bias surface transportation systems toward vehicles of particular characteristics. The Secretary of Energy shall submit a report to the Congress on the findings and conclusions of such study, within 1 year after September 17, 1976. The report shall include any legislative or other recommendations of the Secretary of Energy.
 
 #### (b) Material demand and pollution effect; impact statement
 
-The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chaptershall include reference to the matters which are subject to assessment under this subsection.
+The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy's current findings in each report submitted under section 2513 <sup>1</sup> of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chapter shall include reference to the matters which are subject to assessment under this subsection.
 
 #### (c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987
 
@@ -48,13 +48,13 @@ Section 512(b)(2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.
 
 #### Codification
 
-In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))" and "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act", and "part C of subtitle VI of title 49" substituted for "the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
+In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C.2003(a)(1) and (2))" and "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act", and "part C of subtitle VI of title 49" substituted for "the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
 
 January 7, 1980, referred to in subsec. (c)(2), was in the original "enactment of the Act" which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
 
 A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of this section. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
 
-In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, seeCodification note set out under section 2502 of this title.
+In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, see Codification note set out under section 2502 of this title.
 
 #### Amendments
 

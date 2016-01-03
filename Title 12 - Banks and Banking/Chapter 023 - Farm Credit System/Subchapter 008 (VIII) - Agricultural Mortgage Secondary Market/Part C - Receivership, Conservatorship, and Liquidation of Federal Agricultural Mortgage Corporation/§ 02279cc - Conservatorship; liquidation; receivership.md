@@ -60,7 +60,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (3) Expenses
 
-&emsp;A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) of this section shall—
+&emsp;A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) shall—
 
 &emsp;&emsp;(A) be paid by the conservator or receiver from funds of the Corporation before any other valid claim against the Corporation; and
 
@@ -78,7 +78,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (i)(1) of this section, not later than 30 days after a conservator or receiver is appointed under subsection (b) of this section, the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
+&emsp;Notwithstanding subsection (i)(1), not later than 30 days after a conservator or receiver isappointed under subsection (b), the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
 
 #### (2) Stay of other actions
 

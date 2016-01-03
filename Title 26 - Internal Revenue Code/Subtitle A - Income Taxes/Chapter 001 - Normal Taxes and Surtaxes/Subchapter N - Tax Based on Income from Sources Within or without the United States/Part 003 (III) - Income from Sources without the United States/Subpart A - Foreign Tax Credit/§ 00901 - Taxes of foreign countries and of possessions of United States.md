@@ -26,7 +26,7 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (5) Partnerships and estates
 
-&emsp;In the case of any person described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of thepartnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
+&emsp;In the case of any person described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
 
 #### (c) Similar credit required for certain alien residents
 
@@ -178,7 +178,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (2) Deemed paid taxes
 
-&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no creditshall be allowed under subsection (a) for such taxes if—
+&emsp;In the case of income, war profits, or excess profits taxes deemed paid under section 853, 902, or 960 through a chain of ownership of stock in 1 or more corporations, no credit shall be allowed under subsection (a) for such taxes if—
 
 &emsp;&emsp;(A) any stock of any corporation in such chain (the ownership of which is required to obtain credit under subsection (a) for such taxes) is held for less than the period described in paragraph (1)(A)(i), or
 
@@ -268,7 +268,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 #### (3) Exceptions
 
-&emsp;The Secretary may by regulation provide that paragraph (1) shall not apply to propertywhere the Secretary determines that the application of paragraph (1) to such property is not necessary to carry out the purposes of this subsection.
+&emsp;The Secretary may by regulation provide that paragraph (1) shall not apply to property where the Secretary determines that the application of paragraph (1) to such property is not necessary to carry out the purposes of this subsection.
 
 #### (4) Certain rules to apply
 
@@ -286,7 +286,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;(A) shall not be taken into account in determining the credit allowed under subsection (a), and
 
-&emsp;&emsp;(B) in the case of a foreign income tax paid by a section 902 corporation (as defined in section 909(d)(5)), shall not be taken into account for purposes of section 902 or 960.
+&emsp;&emsp;(B) in the case of a foreign income tax paid by a section 902 corporation (as defined insection 909(d)(5)), shall not be taken into account for purposes of section 902 or 960.
 
 #### (2) Covered asset acquisition
 
@@ -376,7 +376,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat.1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330-419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396.)
 
 #### References in Text
 
@@ -386,7 +386,7 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 
 The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to section 4605(j) of Title 50, War and National Defense.
 
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (k)(4)(A)(i), (ii), are classified to sections 78o(a) and 78o–5(a), respectively, of Title 15, Commerce and Trade.
 
@@ -534,7 +534,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Pub. L. 108–357, title IV, §405(c), Oct. 22, 2004, 118 Stat. 1498, provided that: "The amendments made by this section \[amending this section and section 902 of this title\] shall apply to taxes of foreign corporations for taxable years of such corporations beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
-Pub. L. 108–357, title VIII, §832(c), Oct. 22, 2004, 118 Stat. 1588, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or accrued more than 30 days after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §832(c), Oct. 22, 2004, 118 Stat. 1588, provided that: "The amendments made bythis section \[amending this section\] shall apply to amounts paid or accrued more than 30 days after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 

@@ -46,7 +46,7 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 #### (1) In general
 
-&emsp;A State or other recipient of assistance under section 12571 of this title shall provide or make available a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative health carepolicy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
+&emsp;A State or other recipient of assistance under section 12571 of this title shall provide or make available a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative health care policy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
 
 #### (2) Option
 

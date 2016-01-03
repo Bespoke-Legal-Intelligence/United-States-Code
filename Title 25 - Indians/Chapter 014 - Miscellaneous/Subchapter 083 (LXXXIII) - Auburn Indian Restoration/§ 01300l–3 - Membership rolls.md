@@ -14,11 +14,11 @@ Within 1 year after October 31, 1994, the Secretary shall, after consultation wi
 
 &emsp;(C) the individual is a lineal descendant of an individual, living or dead, identified in subparagraph (A) or (B).
 
-(2) After adoption of a tribal constitution pursuant to section 1300l–5 of this title, such tribal constitution shall govern membership in the Tribe, except that in addition to meeting any other criteria imposed in such tribal constitution, any person added to the membership rollshall be of United Auburn Indian Community ancestry and shall not be an enrolled member of another federally recognized Indian tribe.
+(2) After adoption of a tribal constitution pursuant to section 1300l–5 of this title, such tribal constitution shall govern membership in the Tribe, except that in addition to meeting any other criteria imposed in such tribal constitution, any person added to the membership roll shall be of United Auburn Indian Community ancestry and shall not be an enrolled member of another federally recognized Indian tribe.
 
 #### (c) Conclusive proof of United Auburn Indian Community ancestry
 
-For the purpose of subsection (b) of this section, the Secretary shall accept any available evidence establishing United Auburn Indian Community ancestry. The Secretary shall accept as conclusive evidence of United Auburn Indian Community ancestry information contained in the Auburn Indian Rancheria distribution list compiled by the Bureau of Indian Affairs on August 13, 1959.
+For the purpose of subsection (b), the Secretary shall accept any available evidence establishing United Auburn Indian Community ancestry. The Secretary shall accept as conclusive evidence of United Auburn Indian Community ancestry information contained in the Auburn Indian Rancheria distribution list compiled by the Bureau of Indian Affairs on August 13, 1959.
 
 (Pub. L. 103–434, title II, §205, Oct. 31, 1994, 108 Stat. 4534.)
 

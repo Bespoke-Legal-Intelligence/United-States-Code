@@ -18,9 +18,9 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;(5) bear interest (exclusive of premium charges for insurance and service charges, if any) at not to exceed 5 per centum per annum on the amount of the principal obligation outstanding at any time;
 
-&emsp;(6) provide, in a manner satisfactory to the Secretary, for the application of the mortgagor's periodic payments (exclusive of the amount allocated to interest and to the premium charge which is required for mortgage insurance as hereinafter provided and to the service charge, if any) to amortization of the principal of the mortgage; and
+&emsp;(6) provide, in a manner satisfactory to the Secretary, for the application of the mortgagor's periodic payments (exclusive of theamount allocated to interest and to the premium charge which is required for mortgage insurance as hereinafter provided and to the service charge, if any) to amortization of the principal of the mortgage; and
 
-&emsp;(7) contain such terms and provisions with respect to insurance, repairs, alterations, payment of taxes, service charges, default reserves, delinquency charges, foreclosure proceedings, anticipation of maturity, and othermatters as the Secretary may in his discretion prescribe.
+&emsp;(7) contain such terms and provisions with respect to insurance, repairs, alterations, payment of taxes, service charges, default reserves, delinquency charges, foreclosure proceedings, anticipation of maturity, and other matters as the Secretary may in his discretion prescribe.
 
 #### (c) Premium charge
 

@@ -20,7 +20,7 @@ Pub. L. 102–428, §1, Oct. 21, 1992, 106 Stat. 2183, provided that: "This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XXIII, §2351(a), Nov. 28, 1990, 104 Stat. 4038, provided that: "This subtitle \[subtitle F (§§2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending sections 924, 932, 935, 936, 939, 945, 946, 948, and 950 of this title, and enacting provisions set out as notes under this section and section 946 of this title\] may be cited as the 'Rural Telecommunications Improvements Act of 1990'."
+Pub. L. 101–624, title XXIII, §2351(a), Nov. 28, 1990, 104 Stat. 4038, provided that: "This subtitle \[subtitle F (§§2351–2368) of title XXIII of Pub. L. 101–624, enacting sections 918 and 925 to 928 of this title, amending sections 924, 932, 935, 936, 939, 945, 946, 948, and 950 of this title, and enacting provisions set out as notes underthis section and section 946 of this title\] may be cited as the 'Rural Telecommunications Improvements Act of 1990'."
 
 #### Short Title of 1976 Amendment
 

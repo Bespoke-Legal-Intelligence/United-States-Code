@@ -8,6 +8,7 @@
 | [3533a.](%C2%A7%2003533a%20-%20Transferred.md) | Transferred. |
 | [3534\.](%C2%A7%2003534%20-%20Transfer%20of%20functions.md) | Transfer of functions. |
 | [3535\.](%C2%A7%2003535%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [3535a.](%C2%A7%2003535a%20-%20Working%20capital%20fund.md) | Working capital fund. |
 | [3536\.](%C2%A7%2003536%20-%20Annual%20reports.md) | Annual reports. |
 | [3537\.](%C2%A7%2003537%20-%20Separability.md) | Separability. |
 | [3537a.](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md) | Prohibition of advance disclosure of funding decisions. |
@@ -40,6 +41,7 @@
 - [&sect; 03533a - Transferred](%C2%A7%2003533a%20-%20Transferred.md)
 - [&sect; 03534 - Transfer of functions](%C2%A7%2003534%20-%20Transfer%20of%20functions.md)
 - [&sect; 03535 - Administrative provisions](%C2%A7%2003535%20-%20Administrative%20provisions.md)
+- [&sect; 03535a - Working capital fund](%C2%A7%2003535a%20-%20Working%20capital%20fund.md)
 - [&sect; 03536 - Annual reports](%C2%A7%2003536%20-%20Annual%20reports.md)
 - [&sect; 03537 - Separability](%C2%A7%2003537%20-%20Separability.md)
 - [&sect; 03537a - Prohibition of advance disclosure of funding decisions](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md)

@@ -16,7 +16,7 @@
 
 (h) "Party" or "parties" means the United States of America, Canada, Japan, and Russia (except that as used in subsection (b) of this section, "party" and "parties" refer to the Union of Soviet Socialist Republics).
 
-(i) "Person" means any individual, partnership, corporation, trust, association or any other private entity, or any officer, employee, agent, department, or instrumentality of the Federal Government, of any State or political subdivision thereof, or of any foreign government.
+(i) "Person" means any individual, partnership, corporation, trust, association or any other private entity, or any officer, employee, agent, department, or instrumentality of theFederal Government, of any State or political subdivision thereof, or of any foreign government.
 
 (j) "Pribilof Islands" means the islands of Saint Paul and Saint George, Walrus and Otter Islands, and Sea Lion Rock.
 
@@ -32,7 +32,7 @@
 
 <i>Pub. L. 102–251, title III, §§303, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:</i>
 
-(f) "Jurisdiction of the United States" includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+<i>(f) "Jurisdiction of the United States" includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.</i>
 
 #### Amendments
 

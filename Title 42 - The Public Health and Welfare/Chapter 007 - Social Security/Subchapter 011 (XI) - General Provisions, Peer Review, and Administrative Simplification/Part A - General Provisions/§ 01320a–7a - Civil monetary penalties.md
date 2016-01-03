@@ -28,7 +28,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(4) in the case of a person who is not an organization, agency, or other entity, is excluded from participating in a program under subchapter XVIII of this chapter or a State health care program in accordance with this subsection or under section 1320a–7 of this title and who, at the time of a violation of this subsection—
 
-&emsp;&emsp;(A) retains a direct or indirect ownership or control interest in an entity that is participating in a program under subchapter XVIII of this chapter or a State health care program, and who knows or should know of the action constituting the basis for the exclusion; or
+&emsp;&emsp;(A) retains a direct or indirect ownership or control interest in an entity that is participating in a program under subchapter XVIII of this chapter or a State health care program, and who knows or should know ofthe action constituting the basis for the exclusion; or
 
 &emsp;&emsp;(B) is an officer or managing employee (as defined in section 1320a–5(b) of this title) of such an entity;
 
@@ -48,11 +48,11 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(10) knows of an overpayment (as defined in paragraph (4) of section 1320a–7k(d) of this title) and does not report and return the overpayment in accordance with such section;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civilmoney penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; in cases under paragraph (7), $50,000 for each such act,<sup>6</sup> in cases under paragraph (8),<sup>7</sup> $50,000 for each false record or statement,<sup>6</sup> or <sup>8</sup> in cases under paragraph (9),<sup>9</sup> $15,000 for each day of the failure described in such paragraph); <sup>10</sup> or in cases under paragraph (9),<sup>11</sup> $50,000 for each false statement or misrepresentation of a material fact). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
-(1) If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit services provided with respect to individuals who—
+(1) If a hospital or a critical access hospital knowingly makes a payment, directly or indirectly, to a physician as an inducement to reduce or limit medically necessary services provided with respect to individuals who—
 
 &emsp;(A) are entitled to benefits under part A or part B of subchapter XVIII of this chapter or to medical assistance under a State plan approved under subchapter XIX of this chapter, and
 
@@ -60,7 +60,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 > the hospital or a critical access hospital shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each such individual with respect to whom the payment is made.
 
-(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for each individual described in such paragraph with respect to whom the payment is made.
+(2) Any physician who knowingly accepts receipt of a payment described in paragraph (1) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $2,000 for eachindividual described in such paragraph with respect to whom the payment is made.
 
 (3)(A) Any physician who executes a document described in subparagraph (B) with respect to an individual knowing that all of the requirements referred to in such subparagraph are not met with respect to the individual shall be subject to a civil monetary penalty of not more than the greater of—
 
@@ -154,7 +154,7 @@ For the purposes of this section:
 
 &emsp;(5) The term "beneficiary" means an individual who is eligible to receive items or services for which payment may be made under a Federal health care program (as so defined) but does not include a provider, supplier, or practitioner.
 
-&emsp;(6) The term "remuneration" includes the waiver of coinsurance and deductible amounts (or any part thereof), and transfers of items or services for free or for other than fair market value. The term "remuneration" does not include—
+&emsp;(6) The term "remuneration" includes the waiver of coinsurance and deductible amounts (or any part thereof), and transfers of items orservices for free or for other than fair market value. The term "remuneration" does not include—
 
 &emsp;&emsp;(A) the waiver of coinsurance and deductible amounts by a person, if—
 
@@ -190,7 +190,7 @@ For the purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the items or services are not offered as part of any advertisement or solicitation;
 
-&emsp;&emsp;&emsp;(ii) the items or services are not tied to the provision of other services reimbursed in whole or in part by the program undersubchapter XVIII or a State health care program (as so defined);
+&emsp;&emsp;&emsp;(ii) the items or services are not tied to the provision of other services reimbursed in whole or in part by the program under subchapter XVIII or a State health care program (as so defined);
 
 &emsp;&emsp;&emsp;(iii) there is a reasonable connection between the items or services and the medical care of the individual; and
 
@@ -222,7 +222,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 #### (m) Claims within jurisdiction of other departments or agencies
 
-(1) For purposes of this section, with respect to a Federal health care program not contained in this chapter, references to the Secretary in this section shall be deemed to be references to the Secretary or Administrator of the department or agency with jurisdiction over such program and references to the Inspector General of the Department of Health and Human Services in this section shall be deemed to be references to the Inspector General of the applicable department or agency.
+(1) For purposes of this section, with respect to a Federal health care program not contained in this chapter, references to the Secretary in this section shall be deemed to be references tothe Secretary or Administrator of the department or agency with jurisdiction over such program and references to the Inspector General of the Department of Health and Human Services in this section shall be deemed to be references to the Inspector General of the applicable department or agency.
 
 (2)(A) The Secretary and Administrator of the departments and agencies referred to in paragraph (1) may include in any action pursuant to this section, claims within the jurisdiction of other Federal departments or agencies as long as the following conditions are satisfied:
 
@@ -242,7 +242,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 (2) A practice described in this paragraph is a practice under which a health care provider or facility pays, in whole or in part, premiums for medicare supplemental policies for individuals entitled to benefits under part A of subchapter XVIII of this chapter pursuant to section 426–1 of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L.100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804.)
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804; Pub. L. 114–10, title V, §512(a)(1), Apr. 16, 2015, 129 Stat. 170.)
 
 #### References in Text
 
@@ -258,13 +258,15 @@ The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is Pub. L. 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–10 inserted "medically necessary" after "reduce or limit".
+
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §6408(a)(3)(B), which directed substitution of "act, in cases under paragraph (8), $50,000 for each false record or statement, or in cases under paragraph (9), $15,000 for each day of the failure described in such paragraph)" for "act)" in first sentence, was executed by making the substitution for "act" to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
 
 Pub. L. 111–148, §6408(a)(3)(A), which directed substitution of "in cases under paragraph (7)" for "or in cases under paragraph (7)" in first sentence, was executed by making the substitution for "in cases under paragraph (7)" resulting in no change in text and to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
 
 Pub. L. 111–148, §6402(d)(2)(A)(iv), (v), in concluding provisions, struck out "or" after "prohibited relationship occurs;" and substituted "act; or in cases under paragraph (9), $50,000 for each false statement or misrepresentation of a material fact)" for "act)" and "purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact)" for "purpose)".
 
-Subsec. (a)(1)(D). Pub. L. 111–148, §6402(d)(2)(A)(i), which directed substitution of "was excluded from the Federal health care program (as defined in section 1320a–7b(f) of this title) under which the claim was made pursuant to Federal law." for " 'was excluded' and all that follows through the period at the end", was executed by making the substitution for "was excluded from the program under which the claim was made pursuant to a determination by the Secretary under this section or under section 1320a–7, 1320c–5, 1320c–9(b) (as in effect on September 2, 1982), 1395y(d) (as in effect on August 18, 1987), or 1395cc(b) of this title or as a result of the application of the provisions of section 1395u(j)(2) of this title, or", to reflect the probable intent of Congress, because there was no period at the end.
+Subsec. (a)(1)(D). Pub. L. 111–148, §6402(d)(2)(A)(i), which directed substitution of "was excluded from the Federal health care program (as defined in section1320a–7b(f) of this title) under which the claim was made pursuant to Federal law." for " 'was excluded' and all that follows through the period at the end", was executed by making the substitution for "was excluded from the program under which the claim was made pursuant to a determination by the Secretary under this section or under section 1320a–7, 1320c–5, 1320c–9(b) (as in effect on September 2, 1982), 1395y(d) (as in effect on August 18, 1987), or 1395cc(b) of this title or as a result of the application of the provisions of section 1395u(j)(2) of this title, or", to reflect the probable intent of Congress, because there was no period at the end.
 
 Subsec. (a)(6). Pub. L. 111–148, §§6402(d)(2)(A)(ii), 6408(a)(1), amended par. (6) identically, striking out "or" at the end.
 
@@ -302,7 +304,7 @@ Subsec. (i)(6)(B). Pub. L. 105–33, §4523(c)(1), which directed amendment of p
 
 Pub. L. 105–33, §4331(e)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (i)(6)(C). Pub. L. 105–33, §4523(c)(2), which directed amendment of par. (6) by substituting "; or" for the period at end of subpar. (C), could not be executed because there was not a period at the end of subpar. (C)subsequent to amendment by Pub. L. 105–33, §4331(e)(2). See below.
+Subsec. (i)(6)(C). Pub. L. 105–33, §4523(c)(2), which directed amendment of par. (6) by substituting "; or" for the period at end of subpar. (C), could not be executed because there was not a period at the end of subpar. (C) subsequent to amendment by Pub. L. 105–33, §4331(e)(2). See below.
 
 Pub. L. 105–33, §4331(e)(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
@@ -396,7 +398,7 @@ Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted "(or, in case
 
 Subsec. (a)(1). Pub. L. 100–203, §4118(e)(1)(A), formerly §4118(e)(1), as amended by Pub. L. 100–360, §411(k)(10)(B)(ii)(I), (II), as amended by Pub. L. 100–485, §608(d)(26)(H), substituted "or should know" for "or has reason to know" in subpars. (A) to (C).
 
-Pub. L. 100–93, §3(a)(1), substituted "the Secretary determines" for "the Secretary determines is for a medical or other item or service" in introductory provisionsand substituted subpars. (A) to (D) for former subpars. (A) and (B) which read as follows:
+Pub. L. 100–93, §3(a)(1), substituted "the Secretary determines" for "the Secretary determines is for a medical or other item or service" in introductory provisions and substituted subpars. (A) to (D) for former subpars. (A) and (B) which read as follows:
 
 "(A) that the person knows or has reason to know was not provided as claimed, or
 
@@ -472,6 +474,10 @@ Subsec. (g). Pub. L. 98–369, §2354(a)(3), substituted "utilization and qualit
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 redesignated as part of par. (1) preceding subpar. (A) provisions formerly preceding par. (1), in subpar. (B) substituted "or pursuant to a determination by the Secretary under section 1395cc(b)(2) of this title with respect to which the Secretary has initiated termination proceedings;" for "or 1395cc(b)(2) of this title,", and in par. (2) substituted "presents or causes to be presented to any person a request for payment which is in violation of the terms of (A) an assignment under section 1842(b)(3)(B)(ii), or (B) an agreement with a State agency not to charge a person for an item or service in excess of the amount permitted to be charged" for "is submitted in violation of an agreement between the person and the United States or a State agency".
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–10, title V, §512(a)(2), Apr. 16, 2015, 129 Stat. 170, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to payments made on or after the date of the enactment of this Act \[Apr. 16, 2015\]."
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 6408(a) of Pub. L. 111–148 applicable to acts committed on or after Jan. 1, 2010, see section 6408(d)(1) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
@@ -482,7 +488,7 @@ Pub. L. 105–277, div. J, title V, §5201(d), Oct. 21, 1998, 112 Stat. 2681–9
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 Pub. L. 105–33, title IV, §4304(c), Aug. 5, 1997, 111 Stat. 384, provided that:
 
@@ -516,7 +522,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4118(e)(14), formerly §4118(e)(3), Dec. 22, 1987, 101 Stat. 1330–155, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4118(e)(14), formerly §4118(e)(3), Dec. 22, 1987, 101 Stat. 1330–155, as renumbered and amended by Pub. L. 100–360, title IV, §411(k)(10)(B)(i), (D), July 1, 1988, 102 Stat. 794, 795, provided that: "The amendments made by paragraph (1)\[amending this section\] shall apply to activities occurring before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, except that amendment by section 3(a)(1) of Pub. L. 100–93 applicable to claims presented for services performed on or after date at end of fourteen-day period beginning Aug. 18, 1987, without regard to the date the physician's misrepresentation of fact was made, and amendment by section 3(f) of Pub. L. 100–93 effective Aug. 18, 1987, see section 15(a), (c)(3), and (d) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

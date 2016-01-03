@@ -12,7 +12,7 @@ Section 19 of Pub. L. 86–565 is based on section 102 of title I of H.R. 2253, 
 
 #### Congressional Findings
 
-Section 101 of title I of H.R. 2253, as enacted into permanent law by Pub. L. 99–190, §101(i) \[title I\], Dec. 19, 1985, 99 Stat. 1291, 1294, provided that: "The Congress hereby finds that—
+Section 101 of title I of H.R. 2253, as enacted into permanent law by Pub. L. 99–190, §101(i) \[title I\], Dec. 19,1985, 99 Stat. 1291, 1294, provided that: "The Congress hereby finds that—
 
 &emsp;"(1) Sub-Saharan Africa faces a virtually unprecedented condition of human misery which threatens the lives of one hundred and fifty million people;
 

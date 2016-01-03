@@ -32,7 +32,7 @@ For each bill or joint resolution of a public character reported by any committe
 
 #### (b) Federal private sector mandates in reported bills and joint resolutions
 
-For each bill or joint resolution of a public character reported by any committee of authorization of the Senate or the House of Representatives, the Director of the Congressional BudgetOffice shall prepare and submit to the committee a statement as follows:
+For each bill or joint resolution of a public character reported by any committee of authorization of the Senate or the House of Representatives, the Director of the Congressional Budget Office shall prepare and submit to the committee a statement as follows:
 
 #### (1) Contents
 

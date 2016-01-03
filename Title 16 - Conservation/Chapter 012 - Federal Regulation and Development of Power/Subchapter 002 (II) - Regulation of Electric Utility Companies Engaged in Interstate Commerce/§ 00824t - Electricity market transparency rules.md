@@ -4,19 +4,19 @@
 
 (1) The Commission is directed to facilitate price transparency in markets for the sale and transmission of electric energy in interstate commerce, having due regard for the public interest, the integrity of those markets, fair competition, and the protection of consumers.
 
-(2) The Commission may prescribe such rules as the Commission determines necessary and appropriate to carry out the purposes of this section. The rules shall provide for the dissemination, on a timely basis, of information about the availability and prices of wholesale electric energy and transmission service to the Commission, State commissions, buyers and sellers ofwholesale electric energy, users of transmission services, and the public.
+(2) The Commission may prescribe such rules as the Commission determines necessary and appropriate to carry out the purposes of this section. The rules shall provide for the dissemination, on a timely basis, of information about the availability and prices of wholesale electric energy and transmission service to the Commission, State commissions, buyers and sellers of wholesale electric energy, users of transmission services, and the public.
 
 (3) The Commission may—
 
 &emsp;(A) obtain the information described in paragraph (2) from any market participant; and
 
-&emsp;(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
+&emsp;(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b).
 
 (4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
 
 #### (b) Exemption of information from disclosure
 
-(1) Rules described in subsection (a)(2) of this section, if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
+(1) Rules described in subsection (a)(2), if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
 
 (2) In determining the information to be made available under this section and time to make the information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
 

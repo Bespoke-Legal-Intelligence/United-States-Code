@@ -64,7 +64,7 @@ A pension plan contract which is not a life, accident, or health, property, casu
 
 #### (2) Additional separate computations
 
-&emsp;Under regulations prescribed by the Secretary, such additional separate computations shall be made, with respect to the items separately accounted for in accordance with subsection (c), as may be necessary to carry out the purposes of this section and this part.
+&emsp;Under regulations prescribed by the Secretary, such additional separate computationsshall be made, with respect to the items separately accounted for in accordance with subsection (c), as may be necessary to carry out the purposes of this section and this part.
 
 #### (g) Variable annuity contracts treated as annuity contracts
 

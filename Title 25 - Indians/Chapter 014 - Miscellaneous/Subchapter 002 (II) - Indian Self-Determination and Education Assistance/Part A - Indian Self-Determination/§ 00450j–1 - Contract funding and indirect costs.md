@@ -10,13 +10,13 @@
 
 &emsp;(B) are provided by the Secretary in support of the contracted program from resources other than those under contract.
 
-(3)(A) The contract support costs that are eligible costs for the purposes of receiving funding under this subchapter shall include the costs of reimbursing each tribal contractor for reasonable and allowable costs of—
+(3)(A) The contract support costs that are eligible costs for the purposes of receiving fundingunder this subchapter shall include the costs of reimbursing each tribal contractor for reasonable and allowable costs of—
 
 &emsp;(i) direct program expenses for the operation of the Federal program that is the subject of the contract, and
 
 &emsp;(ii) any additional administrative or other expense related to the overhead incurred by the tribal contractor in connection with the operation of the Federal program, function, service, or activity pursuant to the contract,
 
-> except that such funding shall not duplicate any funding provided under subsection (a)(1) of this section.
+> except that such funding shall not duplicate any funding provided under subsection (a)(1).
 
 (B) On an annual basis, during such period as a tribe or tribal organization operates a Federal program, function, service, or activity pursuant to a contract entered into under this subchapter, the tribe or tribal organization shall have the option to negotiate with the Secretary the amount of funds that the tribe or tribal organization is entitled to receive under such contract pursuant to this paragraph.
 
@@ -36,7 +36,7 @@
 
 #### (b) Reductions and increases in amount of funds provided
 
-The amount of funds required by subsection (a) of this section—
+The amount of funds required by subsection (a)—
 
 &emsp;(1) shall not be reduced to make funding available for contract monitoring or administration by the Secretary;
 
@@ -78,7 +78,7 @@ Not later than May 15 of each year, the Secretary shall prepare and submit to Co
 
 #### (d) Treatment of shortfalls in indirect cost recoveries
 
-(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverse adjustment to any future years' indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
+(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverseadjustment to any future years' indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to fund less than the full amount of need for indirect costs associated with a self-determination contract.
 
@@ -92,7 +92,7 @@ Any right of action or other remedy (other than those relating to a criminal off
 
 #### (g) Addition to contract of full amount contractor entitled; adjustment
 
-Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a) of this section, subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
+Upon the approval of a self-determination contract, the Secretary shall add to the contract the full amount of funds to which the contractor is entitled under subsection (a), subject to adjustments for each subsequent year that such tribe or tribal organization administers a Federal program, function, service, or activity under such contract.
 
 #### (h) Indirect costs for contracts for construction programs
 
@@ -136,7 +136,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 #### (l) Suspension, withholding, or delay in payment of funds
 
-(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to availableresources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
+(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carryout the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
 
 (2) With respect to any hearing or appeal conducted pursuant to this subsection, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for suspending, withholding, or delaying payment of funds.
 
@@ -150,7 +150,7 @@ The program income earned by a tribal organization in the course of carrying out
 
 #### (n) Reduction of administrative or other responsibilities of Secretary; use of savings
 
-To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a) of this section, the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
+To the extent that programs, functions, services, or activities carried out by tribal organizations pursuant to contracts entered into under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of contract funds determined under subsection (a), the Secretary shall make such savings available for the provision of additional services to program beneficiaries, either directly or through contractors, in a manner equitable to both direct and contracted programs.
 
 #### (o) Rebudgeting by tribal organization
 

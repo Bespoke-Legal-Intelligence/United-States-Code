@@ -30,7 +30,7 @@
 
 #### (b) Form and contents of returns
 
-The returns required by subsection (a) shall be in such form and shall set forth, in respect of the foreign corporation, such information as theSecretary prescribes by forms or regulations as necessary for carrying out the provisions of the income tax laws, except that in the case of persons described only in subsection (a)(1)(A) the information required shall be limited to the names and addresses of persons described in subparagraph (B) or (C) of subsection (a)(1).
+The returns required by subsection (a) shall be in such form and shall set forth, in respect of the foreign corporation, such information as the Secretary prescribes by forms or regulations as necessary for carrying out the provisions of the income tax laws, except that in the case of persons described only in subsection (a)(1)(A) the information required shall be limited to the names and addresses of persons described in subparagraph (B) or (C) of subsection (a)(1).
 
 #### (c) Ownership of stock
 
@@ -48,7 +48,7 @@ No information shall be required to be furnished under this section with respect
 
 &emsp;&emsp;<b>For provisions relating to penalties for violations of this section, sections 6679 and 7203.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L. 87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 86–780, §7(a), Sept. 14, 1960, 74 Stat. 1016; Pub. L.87–834, §20(b), Oct. 16, 1962, 76 Stat. 1061; Pub. L. 94–455, title XIX, §1906(a)(4), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 97–248, title III, §341(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 100–647, title I, §1012(i)(19), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 105–34, title XI, §1146(a), Aug. 5, 1997, 111 Stat. 986; Pub. L. 110–172, §11(a)(33), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Subsecs. (d) to (f). Pub. L. 87–834 added subsecs. (d) and (e) and redesignate
 
 <b>1960</b>—Pub. L. 86–780 substituted "Returns as to creation or organization, or reorganization, of foreign corporations" for "Returns as to formation or reorganization of foreign corporations" in section catchline.
 
-Subsec. (a). Pub. L. 86–780 substituted requirement that returns relating to the creation, organization, orreorganization of foreign corporations be made by every citizen or resident of the United States who was an officer or director of the corporation at any time within 60 days after its creation, organization, or reorganization, and by every United States shareholder of the corporation owning at least 5 percent of its outstanding stock at any time within such 60 days for requirement that every attorney, accountant, fiduciary, bank, trust company, financial institution, or other person, who advises as to the formation or reorganization of a foreign corporation, file a return in accordance with regulations prescribed by the Secretary of the Treasury or his delegate.
+Subsec. (a). Pub. L. 86–780 substituted requirement that returns relating to the creation, organization, or reorganization of foreign corporations be made by every citizen or resident of the United States who was an officer or director of the corporation at any time within 60 days after its creation, organization, or reorganization, and by every United States shareholder of the corporation owning at least 5 percent of its outstanding stock at any time within such 60 days for requirement that every attorney, accountant, fiduciary, bank, trust company, financial institution, or other person, who advises as to the formation or reorganization of a foreign corporation, file a return in accordance with regulations prescribed by the Secretary of the Treasury or his delegate.
 
 Subsec. (b). Pub. L. 86–780 reenacted the substance of subsec. (b), struck out "to the full extent of the information within the possession or knowledge or under the control of the person required to make the return" before "such information".
 

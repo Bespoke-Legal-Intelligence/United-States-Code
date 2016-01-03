@@ -30,7 +30,7 @@ Explosive or incendiary device.—The term "explosive or incendiary device" has 
 
 &emsp;(5)
 
-Nuclear material.—The term "nuclear material" has the meaning given that term in section 831(f)(1).
+Nuclear material.—The term "nuclear material" has the meaning given that term in section 831(f)(1).<sup>1</sup>
 
 &emsp;(6)
 
@@ -44,7 +44,7 @@ Radioactive material.—The term "radioactive material" means—
 
 &emsp;&emsp;(D) all refined isotopes of radium.
 
-&emsp;(8) <sup>1</sup>
+&emsp;(8) <sup>2</sup>
 
 Source material.—The term "source material" has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 (42 U.S.C. 2014(z)).
 
@@ -54,5 +54,11 @@ Special nuclear material.—The term "special nuclear material" has the meaning 
 
 (Added Pub. L. 109–177, title III, §305(a), Mar. 9, 2006, 120 Stat. 236.)
 
-<i><sup>1</sup></i><i> So in original. No par. (7) has been enacted.</i>
+#### References in Text
+
+Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, §812(d), June 2, 2015, 129 Stat. 312.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. No par. (7) has been enacted.</i>
 

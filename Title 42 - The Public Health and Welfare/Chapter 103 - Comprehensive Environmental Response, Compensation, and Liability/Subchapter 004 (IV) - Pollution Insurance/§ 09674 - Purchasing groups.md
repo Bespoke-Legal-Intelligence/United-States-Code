@@ -6,7 +6,7 @@ Except as provided in this section, a purchasing group is exempt from the follow
 
 &emsp;(1) A State law, rule, or order which prohibits the establishment of a purchasing group.
 
-&emsp;(2) A State law, rule, or order which makes it unlawful for an insurer to provide or offer to provide insurance on a basis providing, to a purchasing group or its member, advantages, based on their loss and expense experience, not afforded to other persons with respect to rates, policy forms, coverages, or other matters.
+&emsp;(2) A State law, rule, or order which makes it unlawful for an insurer to provide or offer toprovide insurance on a basis providing, to a purchasing group or its member, advantages, based on their loss and expense experience, not afforded to other persons with respect to rates, policy forms, coverages, or other matters.
 
 &emsp;(3) A State law, rule, or order which prohibits a purchasing group or its members from purchasing insurance on the group basis described in paragraph (2) of this subsection.
 

@@ -38,7 +38,7 @@
 
 &emsp;(2) between such components furnishing health care to veterans and the Armed Forces.
 
-(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
+(f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject isinfected with such virus, identified as being a sexual partner of such patient or subject.
 
 (2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 

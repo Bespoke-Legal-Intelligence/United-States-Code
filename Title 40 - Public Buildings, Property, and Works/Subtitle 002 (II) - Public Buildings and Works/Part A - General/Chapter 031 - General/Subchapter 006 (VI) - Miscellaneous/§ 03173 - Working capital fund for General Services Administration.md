@@ -18,7 +18,7 @@ Cost and capital requirements.—The Administrator shall determine the cost and 
 
 (c)
 
-Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, after making provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, aftermaking provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
 (d)
 

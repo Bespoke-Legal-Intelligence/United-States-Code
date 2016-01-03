@@ -20,7 +20,7 @@ No action may be commenced—
 
 &emsp;&emsp;(A) prior to 60 days after the date on which the plaintiff has given notice of the violation (i) to the Secretary, (ii) to the Commission, and (iii) to any alleged violator of such provision or rule, or
 
-&emsp;&emsp;(B) if the Commission has commenced and is diligently prosecuting a civil action to require compliance with such provision orrule, but, in any such action, any person may intervene as a matter of right.
+&emsp;&emsp;(B) if the Commission has commenced and is diligently prosecuting a civil action to require compliance with such provision or rule, but, in any such action, any person may intervene as a matter of right.
 
 &emsp;(2) under subsection (a)(2) of this section prior to 60 days after the date on which the plaintiff has given notice of such action to the Secretary and Commission.
 

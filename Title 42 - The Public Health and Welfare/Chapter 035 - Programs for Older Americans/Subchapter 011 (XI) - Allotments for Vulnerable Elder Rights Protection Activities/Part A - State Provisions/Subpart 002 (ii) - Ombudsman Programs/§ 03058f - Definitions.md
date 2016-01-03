@@ -12,7 +12,7 @@ As used in this subpart:
 
 #### (3) Local Ombudsman entity
 
-&emsp;The term "local Ombudsman entity" means an entity designated under section3058g(a)(5)(A) of this title to carry out the duties described in section 3058g(a)(5)(B) of this title with respect to a planning and service area or other substate area.
+&emsp;The term "local Ombudsman entity" means an entity designated under section 3058g(a)(5)(A) of this title to carry out the duties described in section 3058g(a)(5)(B) of this title with respect to a planning and service area or other substate area.
 
 #### (4) Program
 

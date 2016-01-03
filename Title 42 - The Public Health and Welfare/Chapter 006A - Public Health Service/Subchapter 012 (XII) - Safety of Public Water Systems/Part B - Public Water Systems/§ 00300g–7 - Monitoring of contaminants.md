@@ -12,7 +12,7 @@
 
 #### (2) Termination; timing of monitoring
 
-&emsp;The interim relief period referred to in paragraph (1) shall terminate when permanent monitoring relief is adopted and approved for such State, or at the end of 36 months after August 6, 1996, whichever comes first. In order to serve as a basis for interim relief, the monitoring conducted at the beginning of the period must occur at the time determined by the State to be the time of the public water system's greatest vulnerability to the contaminant concerned in the relevant ground or surface water, taking into account in the case of pesticides the time of application of the pesticide for the source water area and the travel time for the pesticide to reach such waters and taking into account, in the case of other contaminants, seasonality of precipitation and contaminant travel time.
+&emsp;The interim relief period referred to in paragraph (1) shall terminate when permanent monitoring relief is adopted and approved for such State, or at the end of 36 months afterAugust 6, 1996, whichever comes first. In order to serve as a basis for interim relief, the monitoring conducted at the beginning of the period must occur at the time determined by the State to be the time of the public water system's greatest vulnerability to the contaminant concerned in the relevant ground or surface water, taking into account in the case of pesticides the time of application of the pesticide for the source water area and the travel time for the pesticide to reach such waters and taking into account, in the case of other contaminants, seasonality of precipitation and contaminant travel time.
 
 #### (b) Permanent monitoring relief authority
 

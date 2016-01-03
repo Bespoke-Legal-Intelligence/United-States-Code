@@ -6,5 +6,5 @@ A person who has completed a security awareness training course approved by or o
 
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2006, and not aspart of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2006, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 

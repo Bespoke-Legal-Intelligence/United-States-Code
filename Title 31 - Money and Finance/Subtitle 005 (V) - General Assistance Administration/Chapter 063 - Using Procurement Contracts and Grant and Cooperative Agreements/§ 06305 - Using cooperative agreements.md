@@ -30,7 +30,7 @@ Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995, provided that: "Notwit
 
 #### Printing of Educational Materials and Continuation of Challenge Cost-Share Program
 
-Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: "Notwithstanding the provisions of the Federal Grant and Cooperative Agreements Act of 1977 (31 U.S.C. 6301–6308), the Forest Service is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals to print educationalmaterials and to continue the Challenge Cost-Share Program."
+Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018, provided that: "Notwithstanding the provisions of theFederal Grant and Cooperative Agreements Act of 1977 (31 U.S.C. 6301–6308), the Forest Service is authorized hereafter to negotiate and enter into cooperative arrangements with public and private agencies, organizations, institutions, and individuals to print educational materials and to continue the Challenge Cost-Share Program."
 
 #### Bureau of Land Management; Authorization To Use Cooperative Arrangements To Implement Challenge Cost-Share Programs
 

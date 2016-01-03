@@ -8,7 +8,7 @@
 
 &emsp;(B) Under the Single Convention on Narcotic Drugs, 1961, and under the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, the parties are required to criminalize certain drug-related activities, provide appropriately severe penalties, and cooperate in the extradition of accused offenders.
 
-&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion,and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
+&emsp;(C) International narcotics control programs should include, as priority goals, the suppression of the illicit manufacture of and trafficking in narcotic and psychotropic drugs, money laundering, and precursor chemical diversion, and the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived.
 
 &emsp;(D) International criminal activities, particularly international narcotics trafficking, money laundering, and corruption, endanger political and economic stability and democratic development, and assistance for the prevention and suppression of international criminal activities should be a priority for the United States.
 
@@ -32,7 +32,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing contained in this subsection or section 2291h(b) of this title shall be construed to limit or impair the authority or responsibility of any other Federal agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
+&emsp;Nothing contained in this subsection or section 2291h(b) of this title shall be construed tolimit or impair the authority or responsibility of any other Federal agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
 
 #### (c) Participation in foreign police actions
 
@@ -72,7 +72,7 @@
 
 #### (3) Report upon determination of harm to environment or health
 
-&emsp;If the President determines that any such use is harmful to the environment or thehealth of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
+&emsp;If the President determines that any such use is harmful to the environment or the health of individuals, the President shall immediately report that determination to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, together with such recommendations as the President deems appropriate.
 
 #### (e) Definitions
 
@@ -236,7 +236,7 @@ Pub. L. 102–550, §1519(b), added par. (7) and redesignated former pars. (7) a
 
 "(C) The report shall also include information on multilateral and bilateral strategies pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering.
 
-"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy withrespect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 "(E) As used in this paragraph, the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking."
 
@@ -454,7 +454,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 "(a)
 
-Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
+Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdictionover companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
 "(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
@@ -594,7 +594,7 @@ Pub. L. 99–570, title II, §2029, Oct. 27, 1986, 100 Stat. 3207–72, directed
 
 Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
-"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shall be paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
+"(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account 'Expenses of the United States Senate Caucus on International Narcotics Control' under the heading 'Congressional Operations' shallbe paid from the Senate appropriations account for 'Salaries, Officers and Employees'.
 
 "(b) This section shall apply to pay periods beginning on or after October 1, 2001."
 
@@ -686,7 +686,7 @@ Pub. L. 97–113, title V, §502(a)(2)–(4), Dec. 29, 1981, 95 Stat. 1539, prov
 
 "(3) Funds appropriated for the fiscal year 1980 to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] which were obligated for assistance for the Republic of Colombia may be used for purposes other than those set forth in section 482(a)(2) of that Act \[22 U.S.C. 2291a\] as in effect immediately before the enactment of the International Security and Development Cooperation Act of 1980 \[Dec. 16, 1980\].
 
-"(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds described in those paragraphs are authorized to be made available for the purposes specified in those paragraphs."
+"(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds describedin those paragraphs are authorized to be made available for the purposes specified in those paragraphs."
 
 #### United States Citizens Imprisoned in Mexico
 

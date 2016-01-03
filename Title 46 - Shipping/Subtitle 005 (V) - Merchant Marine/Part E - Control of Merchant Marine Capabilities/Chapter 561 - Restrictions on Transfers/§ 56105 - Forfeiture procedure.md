@@ -6,7 +6,7 @@ In General.—A forfeiture under this chapter may be enforced in the same way as
 
 (b)
 
-Prior Convictions.—In a proceeding under this chapter to enforce a forfeiture, a priorcriminal conviction of a person for a violation of this chapter with respect to the subject matter of the forfeiture is prima facie evidence of the violation against the person convicted.
+Prior Convictions.—In a proceeding under this chapter to enforce a forfeiture, a prior criminal conviction of a person for a violation of this chapter with respect to the subject matter of the forfeiture is prima facie evidence of the violation against the person convicted.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1654.)
 

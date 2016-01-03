@@ -52,7 +52,7 @@ This section shall apply with respect to any months occurring during the One Hun
 
 #### References in Text
 
-The most recent bill making appropriations for the legislative branch that was enacted prior to December 23, 2011, containing the heading "House leadership offices", referred to in subsecs. (a)(2)(E) and (b)(2)(D), is Pub. L. 111–68, div. A, Oct. 1, 2009, 123 Stat. 2023. For complete classification of this Act to the Code, see Tables.
+The most recent bill making appropriations for the legislative branch that was enacted prior to December 23, 2011, containing the heading "House leadership offices", referred to in subsecs. (a)(2)(E) and (b)(2)(D), isPub. L. 111–68, div. A, Oct. 1, 2009, 123 Stat. 2023. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

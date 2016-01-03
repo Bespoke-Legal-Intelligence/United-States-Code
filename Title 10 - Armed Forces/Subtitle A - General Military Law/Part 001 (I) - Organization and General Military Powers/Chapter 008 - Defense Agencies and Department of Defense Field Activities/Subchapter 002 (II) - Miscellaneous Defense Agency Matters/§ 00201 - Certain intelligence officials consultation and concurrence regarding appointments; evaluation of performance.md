@@ -56,7 +56,7 @@ Pub. L. 110–181, §931(a)(5), and Pub. L. 110–417, §932(a)(5), amended par.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made bysection 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date of 1996 Amendment
 

@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) Authority
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, torestore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount of penalty
 
@@ -160,7 +160,7 @@ In this section, the terms "agent employed to manage the property that has an id
 
 <b>2004</b>—Subsec. (c)(1)(B)(ii). Pub. L. 108–447, §219(b), inserted "other revenues, or contract rights," after "rents,".
 
-Subsec. (c)(1)(B)(x). Pub. L. 108–447, §219(c), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: "Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretaryhas approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor."
+Subsec. (c)(1)(B)(x). Pub. L. 108–447, §219(c), amended cl. (x) generally. Prior to amendment, cl. (x) read as follows: "Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor."
 
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–65, §561(a)(1), substituted "on that mortgagor, on a general partner of a partnership mortgagor, or on any officer or director of a corporate mortgagor" for "on that mortgagor".
 
@@ -200,7 +200,7 @@ Pub. L. 105–65, title V, §561(b), Oct. 27, 1997, 111 Stat. 1416, provided tha
 
 "(1)
 
-Public comment.—The Secretary shall implement the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] by regulation issued after notice and opportunity for public comment. The notice shall seek comments primarily as to the definitions of the terms 'ownership interest in' and 'effective control', as those terms are used in the definition of the terms 'agent employed to manage the property that has an identity of interest' and 'identity of interest agent'.
+Public comment.—The Secretary shall implement the amendments made by this section \[amendingthis section and enacting provisions set out as a note under this section\] by regulation issued after notice and opportunity for public comment. The notice shall seek comments primarily as to the definitions of the terms 'ownership interest in' and 'effective control', as those terms are used in the definition of the terms 'agent employed to manage the property that has an identity of interest' and 'identity of interest agent'.
 
 "(2)
 

@@ -82,7 +82,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the end of each fiscal year, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report containing statistics demonstrating the relative reduction in recidivism for inmates released by the Bureau of Prisons within that fiscal year and the 2 prior fiscal years, comparing inmates who participated in major inmate programs (including residential drug treatment, vocational training, and prison industries) with inmates who did not participate in such programs. Such statistics shall be compiled separately for each such fiscal year.
+&emsp;&emsp;&emsp;At the end of each fiscal year, the Director shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report containing statistics demonstrating the relative reduction in recidivism for inmates released by the Bureau of Prisons within that fiscal year and the 2 prior fiscal years, comparing inmateswho participated in major inmate programs (including residential drug treatment, vocational training, and prison industries) with inmates who did not participate in such programs. Such statistics shall be compiled separately for each such fiscal year.
 
 #### (ii) Scope
 
@@ -116,7 +116,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (e) Encouragement of employment of former prisoners
 
-The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29 regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
+The Attorney General, in consultation with the Secretary of Labor, shall take such steps as are necessary to educate employers and the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29 regarding incentives (including the Federal bonding program of the Department of Labor and tax credits) for hiring former Federal, State, or local prisoners.
 
 #### (f) Omitted
 
@@ -146,7 +146,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (4) Implementation and evaluation
 
-&emsp;The Attorney General shall monitor and evaluate each eligible elderly offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The Administrative Office of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders released to home detention under this section.
+&emsp;The Attorney General shall monitor and evaluate each eligible elderly offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The AdministrativeOffice of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders released to home detention under this section.
 
 #### (5) Definitions
 
@@ -182,7 +182,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (1) Establishment of program
 
-&emsp;The Director of the Administrative Office of the United States Courts, in consultation withthe Attorney General, may establish the Federal Remote Satellite Tracking and Reentry Training (ReStart) program to promote the effective reentry into the community of high risk individuals.
+&emsp;The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, may establish the Federal Remote Satellite Tracking and Reentry Training (ReStart) program to promote the effective reentry into the community of high risk individuals.
 
 #### (2) High risk individuals
 
@@ -216,13 +216,9 @@ There are authorized to be appropriated to the Attorney General to carry out thi
 
 (Pub. L. 110–199, title II, §231, Apr. 9, 2008, 122 Stat. 683; Pub. L. 113–128, title V, §512(bb)(2), July 22, 2014, 128 Stat. 1717.)
 
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 113–128, title V, §§506, 512(bb)(2), July 22, 2014, 128 Stat. 1703, 1717, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (e) of this section is amended by striking "the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29" and inserting "the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29". See 2014 Amendment note below.</i>
-
 #### Codification
 
-Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of section 231 of Pub. L. 110–199 amended section 4042(a) of Title 18, Crimes and Criminal Procedure. Subsec. (f) of section 231 of Pub. L. 110–199 amended section 3621 of Title 18.
+Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of section 231 of Pub. L. 110–199 amendedsection 4042(a) of Title 18, Crimes and Criminal Procedure. Subsec. (f) of section 231 of Pub. L. 110–199 amended section 3621 of Title 18.
 
 #### Amendments
 
@@ -230,5 +226,5 @@ Section is comprised of section 231 of Pub. L. 110–199. Subsec. (d)(1) of sect
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

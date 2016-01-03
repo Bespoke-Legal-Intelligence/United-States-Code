@@ -54,7 +54,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.
 
-(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall beavailable, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
 (g)
 

@@ -48,7 +48,7 @@
 
 &emsp;(E) In the case of an insurable dependent who is a spouse, the date of marriage of the spouse to the member.
 
-&emsp;(F) In the case of an insurable dependent who is a child, the date of birth of such child or, if the child is not the natural child of the member, the date on which the child acquires status as an insurable dependent of the member.
+&emsp;(F) In the case of an insurable dependent who is a child, the date of birth of such childor, if the child is not the natural child of the member, the date on which the child acquires status as an insurable dependent of the member.
 
 (b) Any member (other than one who has elected not to be insured under this subchapter for the period or periods of duty involved)—
 
@@ -80,9 +80,9 @@
 
 &emsp;(B) in the case of any subsequent such election if the effect of such election is to reduce the amount of insurance coverage of the member from that in effect immediately before such election.
 
-(3) In the case of a member who is married and who is insured under this section, if the member makes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notifythe member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
+(3) In the case of a member who is married and who is insured under this section, if the member makes a designation under section 1970(a) of this title of any person other than the spouse or a child of the member as the beneficiary of the member for any amount of insurance under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, that such a beneficiary designation has been made by the member, except that such a notification is not required if the spouse has previously received such a notification under this paragraph and if immediately before the new designation by the member under section 1970(a) of this title the spouse is not a designated beneficiary of the member for any amount of insurance under this subchapter.
 
-(4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
+(4) A notification required by this subsection is satisfied by a good faith effort to provide therequired information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
 (Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783.)
 
@@ -130,13 +130,13 @@ Subsec. (e). Pub. L. 109–13, §1012(c)(1), which directed addition of subsec. 
 
 &emsp;"(A) Any member who dies as a result of one or more wounds, injuries, or illnesses incurred while serving in an operation or area that the Secretary designates, in writing, as a combat operation or a zone of combat, respectively, for purposes of this subsection.
 
-&emsp;"(B) Any member who formerly served in an operation or area so designated and whose death is determined (under regulations prescribed by the Secretaryof Defense) to be the direct result of injury or illness incurred or aggravated while so serving.
+&emsp;"(B) Any member who formerly served in an operation or area so designated and whose death is determined (under regulations prescribed by the Secretary of Defense) to be the direct result of injury or illness incurred or aggravated while so serving.
 
 "(2) The additional amount of insurance under this subchapter that is provided for a member by this subsection is $150,000, except that in a case in which the amount provided for or elected by the member under subsection (a)(3)(A)(i)(I) exceeds $250,000, the additional amount of insurance under this subchapter that is provided for the member by this subsection shall be reduced to such amount as is necessary to comply with the limitation in paragraph (3).
 
 "(3) The total amount of insurance payable for a member under this subchapter may not exceed $400,000.
 
-"(4) While a member is serving in an operation or area designated as described in paragraph (1), the cost of insurance of the member under this subchapter that is attributable to $150,000 of insurance coverage shall, at the election of the Secretary concerned—
+"(4) While a member is serving in an operation or area designated as described in paragraph (1), the costof insurance of the member under this subchapter that is attributable to $150,000 of insurance coverage shall, at the election of the Secretary concerned—
 
 &emsp;"(A) be contributed as provided in section 1969(b)(2) of this title, rather through deduction or withholding from the member's pay; or
 
@@ -278,7 +278,7 @@ Pub. L. 107–14, §5, June 5, 2001, 115 Stat. 30, provided that:
 
 "(a)
 
-Applicability of Increase in Benefit.—Notwithstanding subsection (c) of section 312 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1854) \[set out as a notebelow\], the amendments made by subsection (a) of that section \[amending this section\] shall take effect on October 1, 2000, with respect to any member of the uniformed services who died in the performance of duty (as determined by the Secretary concerned) during the period beginning on October 1, 2000, and ending at the close of March 31, 2001, and who on the date of death was insured under the Servicemembers' Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, for the maximum coverage available under that program.
+Applicability of Increase in Benefit.—Notwithstanding subsection (c) of section 312 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1854) \[set out as a note below\], the amendments made by subsection (a) of that section \[amending this section\] shall take effect on October 1, 2000, with respect to any member of the uniformed services who died in the performance of duty (as determined by the Secretary concerned) during the period beginning on October 1, 2000, and ending at the close of March 31, 2001, and who on the date of death was insured under the Servicemembers' Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, for the maximum coverage available under that program.
 
 "(b)
 

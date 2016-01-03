@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, the Secretary of State may not issue
 
 #### (b) Exceptions
 
-The prohibitions in subsection (a) of this section shall not apply in the case of a foreign national who is a head of state, head of government, or cabinet level minister.
+The prohibitions in subsection (a) shall not apply in the case of a foreign national who is a head of state, head of government, or cabinet level minister.
 
 #### (c) Waiver
 
-The Secretary of State may waive the prohibitions in subsection (a) of this section with respect to a foreign national if the Secretary—
+The Secretary of State may waive the prohibitions in subsection (a) with respect to a foreign national if the Secretary—
 
 &emsp;(1) determines that it is important to the national interest of the United States to do so; and
 
@@ -24,5 +24,5 @@ Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreig
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

@@ -22,7 +22,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (2) Transfers in bond
 
-&emsp;When distilled spirits are transferred in bond in accordance with the provisions of section5212, persons liable for the tax on such spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall be relieved of such liability, if proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so transferred. Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
+&emsp;When distilled spirits are transferred in bond in accordance with the provisions of section 5212, persons liable for the tax on such spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall be relieved of such liability, if proprietors of transferring and receiving premises are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so transferred. Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later.
 
 #### (d) Withdrawals free of tax
 
@@ -86,7 +86,7 @@ Subsec. (e)(1). Pub. L. 95–176, §4(d)(2), inserted reference to pars. (9) and
 
 Subsec. (e)(2). Pub. L. 95–176, §4(b), substituted "customs bonded warehouses" for "customs manufacturing bonded warehouses" and provided for relief from liability for tax on distilled spirits used in certain research, development, or testing.
 
-<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 substituted "Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later." for "Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law,or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).".
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 substituted "Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later." for "Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law, or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).".
 
 #### Effective Date of 1994 Amendment
 

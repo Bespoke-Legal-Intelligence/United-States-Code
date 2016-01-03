@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) "retailer" means any person engaged in the sale, leasing, or distribution of new manufactured homes primarily to persons who in good faith purchase or lease a manufactured home for purposes other than resale;
 
-&emsp;(3) "defect" includes any defect in the performance, construction, components, or material of a manufactured home that renders the home or any part thereof not fit for the ordinary use for which it was intended;
+&emsp;(3) "defect" includes any defect in the performance, construction, components, or material of a manufactured home that renders thehome or any part thereof not fit for the ordinary use for which it was intended;
 
 &emsp;(4) "distributor" means any person engaged in the sale and distribution of manufactured homes for resale;
 
@@ -26,7 +26,7 @@ As used in this chapter, the term—
 
 &emsp;(12) "State" includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
-&emsp;(13) "United States district courts" means the Federal district courts of the United States and the United States courts of theCommonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
+&emsp;(13) "United States district courts" means the Federal district courts of the United States and the United States courts of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
 &emsp;(14) "administering organization" means the recognized, voluntary, private sector, consensus standards body with specific experience in developing model residential building codes and standards involving all disciplines regarding construction and safety that administers the consensus standards through a development process;
 
@@ -52,7 +52,7 @@ For definition of Canal Zone, referred to in pars. (12) and (13), see section 36
 
 #### Codification
 
-References to "mobile homes", wherever appearing in text, changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobile home" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
+References to "mobile homes", wherever appearing in text, changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobilehome" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
 
 #### Amendments
 

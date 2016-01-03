@@ -212,7 +212,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988."
+Pub. L. 100–647, title I, §1006(e)(13)(B), Nov. 10, 1988, 102 Stat. 3402, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to exchanges on or after June 21, 1988, except that such amendment shall not apply to any exchange pursuant to any reorganization for which a plan of reorganization was adopted before June 21, 1988."
 
 #### Effective Date of 1986 Amendment
 

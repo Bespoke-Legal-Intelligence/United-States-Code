@@ -66,7 +66,7 @@ As used in this subchapter—
 
 &emsp;(14) the term "penalty" includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div.A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111.)
 
 #### Prior Provisions
 
@@ -110,5 +110,5 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

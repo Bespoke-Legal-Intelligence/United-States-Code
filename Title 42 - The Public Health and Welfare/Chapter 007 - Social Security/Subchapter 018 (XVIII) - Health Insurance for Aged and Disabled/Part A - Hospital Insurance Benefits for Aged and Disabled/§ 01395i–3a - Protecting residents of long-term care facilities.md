@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iv) Develop and disseminate information on best practices for the investigation of such abuse, neglect, and misappropriation of property.
 
-&emsp;&emsp;(v) Assess the performance of State complaint intake systems, in order to ensure that the intake of complaints occurs 24 hours per day, 7 days a week (including holidays).
+&emsp;&emsp;(v) Assess the performance of State complaint intake systems, in order to ensure that the intake of complaints occurs 24hours per day, 7 days a week (including holidays).
 
 &emsp;&emsp;(vi) To the extent approved by the Secretary of Health and Human Services, provide a national 24 hours per day, 7 days a week (including holidays), back-up system to State complaint intake systems in order to ensure optimum national responsiveness to complaints of such abuse, neglect, and misappropriation of property.
 

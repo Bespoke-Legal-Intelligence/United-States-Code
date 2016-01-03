@@ -14,7 +14,7 @@ In the case of an individual, there shall be allowed as a deduction for the taxa
 
 #### (A) In general
 
-&emsp;&emsp;The amount which would (but for this paragraph) be allowable as a deductionunder this section shall be reduced (but not below zero) by the amount determined under subparagraph (B).
+&emsp;&emsp;The amount which would (but for this paragraph) be allowable as a deduction under this section shall be reduced (but not below zero) by the amount determined under subparagraph (B).
 
 #### (B) Amount of reduction
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the amount of any scholarship, allowance, or payment described in section 25A(g)(2).
 
-> &emsp;For purposes of the preceding sentence, the term "eligible educational institution" has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility which offers postgraduate training.
+> &emsp;For purposes of the preceding sentence, the term "eligible educational institution" has the same meaning given such term by section 25A(f)(2), except that such term shall also include an institution conducting an internship or residency program leading to a degree orcertificate awarded by an institution of higher education, a hospital, or a health care facility which offers postgraduate training.
 
 #### (3) Eligible student
 

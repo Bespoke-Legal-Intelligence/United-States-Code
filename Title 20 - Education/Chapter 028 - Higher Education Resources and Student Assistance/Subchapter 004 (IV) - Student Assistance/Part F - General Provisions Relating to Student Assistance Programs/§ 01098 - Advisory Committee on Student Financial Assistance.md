@@ -32,7 +32,7 @@ In the exercise of its functions, powers, and duties, the Advisory Committee sha
 
 &emsp;(A) Four members shall be appointed by the President pro tempore of the Senate, of whom two members shall be appointed from recommendations by the Majority Leader of the Senate, and two members shall be appointed from recommendations by the Minority Leader of the Senate.
 
-&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader of the House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
+&emsp;(B) Four members shall be appointed by the Speaker of the House of Representatives, of whom two members shall be appointed from recommendations by the Majority Leader ofthe House of Representatives, and two members shall be appointed from recommendations by the Minority Leader of the House of Representatives.
 
 &emsp;(C) Three members shall be appointed by the Secretary, of whom at least one member shall be a student.
 
@@ -82,7 +82,7 @@ The Advisory Committee shall—
 
 > as designated at the time of appointment by the Secretary.
 
-(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee serving on August 14, 2008, shallbe permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.
+(2) Any member appointed to fill a vacancy occurring prior to the expiration of the term of a predecessor shall be appointed only for the remainder of such term. A member of the Advisory Committee serving on August 14, 2008, shall be permitted to serve the duration of the member's term, regardless of whether the member was previously appointed to more than one term.
 
 (3) No officers or full-time employees of the Federal Government shall serve as members of the Advisory Committee.
 
@@ -166,7 +166,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;&emsp;(ii) provides an area for the experts and members of the public to provide recommendations for ways in which the regulations may be streamlined; and
 
-&emsp;&emsp;&emsp;(iii) publishes the study conducted by the National Research Council of the National Academy of Sciences under section 1106 of the Higher Education Opportunity Act.
+&emsp;&emsp;&emsp;(iii) publishes the study conducted by the National Research Council of the National Academy of Sciences under section1106 of the Higher Education Opportunity Act.
 
 #### (3) Consultation
 
@@ -232,7 +232,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 #### (A) Interim report
 
-&emsp;&emsp;The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008, describing the progress made in conducting the study required by this subsection and any preliminary findings on the topics identified under paragraph (2).
+&emsp;&emsp;The Advisory Committee shall prepare and submit to the authorizing committees and the Secretary an interim report, not later than one year after August 14, 2008, describing the progress made in conducting thestudy required by this subsection and any preliminary findings on the topics identified under paragraph (2).
 
 #### (B) Final report
 
@@ -282,7 +282,7 @@ Subsec. (j)(4), (5). Pub. L. 110–315, §494C(a)(5)(B), added pars. (4) and (5)
 
 "(4) assess the implications of distance education on student eligibility and other requirements for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, and make recommendations that will enhance access to postsecondary education through distance education while maintaining access, through on-campus instruction at eligible institutions, and program integrity; and
 
-"(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulationsunder this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title."
+"(5) make recommendations to the Secretary regarding redundant or outdated provisions of and regulations under this chapter, consistent with the Secretary's requirements under section 1099c–2 of this title."
 
 Subsec. (k). Pub. L. 110–315, §494C(a)(6), substituted "2014" for "2004".
 
@@ -306,7 +306,7 @@ Subsec. (j). Pub. L. 105–244, §490C(6), amended heading and text of subsec. (
 
 &emsp;"(1) monitor and evaluate the program modifications resulting from the enactment of the Higher Education Amendments of 1992, especially as such amendments relate to the need analysis;
 
-&emsp;"(2) monitor and evaluate the implementation, pursuant to section 1090 of this title, of a Free Application for Federal Student Aid and the process for determining eligibility and awards for programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including a simplified reapplication process;
+&emsp;"(2) monitor and evaluate the implementation, pursuant to section 1090 of this title, of a Free Application for Federal Student Aid and the process for determining eligibility and awards for programs underthis subchapter and part C of subchapter I of chapter 34 of title 42, including a simplified reapplication process;
 
 &emsp;"(3) assess the adequacy of current methods for disseminating information about programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and recommend improvements, as appropriate, regarding early needs assessment and information for first-year high school students; and
 

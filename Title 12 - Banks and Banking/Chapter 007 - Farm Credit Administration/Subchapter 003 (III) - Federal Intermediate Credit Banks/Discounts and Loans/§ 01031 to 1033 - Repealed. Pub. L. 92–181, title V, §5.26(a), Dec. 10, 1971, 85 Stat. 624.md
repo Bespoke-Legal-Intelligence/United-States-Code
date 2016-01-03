@@ -4,5 +4,5 @@ Section 1031, act July 17, 1916, ch. 245, title II, §202(a), as added Mar. 4, 1
 
 Section 1032, act July 17, 1916, ch. 245, title II, §202(b), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1455, placed a limitation on amount of purchases by intermediate credit banks for national banks, State banks, trust companies, or saving institutions.
 
-Section 1033, act July 17, 1916, ch. 245, title II, §202(c), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1455; amended June 26, 1930, ch. 616, §2, 46 Stat. 816; July 26, 1956, ch. 741, title I, §104(c), 70 Stat. 664; Aug. 18, 1959, Pub. L. 86–168, title I, §104(f), 73 Stat. 386; Oct. 3, 1961, Pub. L. 87–343, §1(b), 75 Stat. 758, covered maturity, sale, and purchase of loans, advances, and discounts of intermediate credit banks.
+Section 1033, act July 17, 1916, ch. 245, title II, §202(c), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1455; amended June 26, 1930, ch. 616, §2, 46 Stat. 816; July 26, 1956, ch. 741, title I, §104(c), 70 Stat. 664; Aug. 18, 1959,Pub. L. 86–168, title I, §104(f), 73 Stat. 386; Oct. 3, 1961, Pub. L. 87–343, §1(b), 75 Stat. 758, covered maturity, sale, and purchase of loans, advances, and discounts of intermediate credit banks.
 

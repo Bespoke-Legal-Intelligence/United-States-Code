@@ -54,9 +54,10 @@
 | [<b>501.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20501%20-%20Space%20Commerce/README.md) | <b>Space Commerce</b> | <b>50101</b> |
 | [<b>503.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20503%20-%20Commercial%20Reusable%20In-Space%20Transportation/README.md) | <b>Commercial Reusable In-Space Transportation</b> | <b>50301</b> |
 | [<b>505.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20505%20-%20Commercial%20Space%20Competitiveness/README.md) | <b>Commercial Space Competitiveness</b> | <b>50501</b> |
-| [<b>507.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20507%20-%20Office%20of%20Space%20Commercialization/README.md) | <b>Office of Space Commercialization</b> | <b>50701</b> |
+| [<b>507.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20507%20-%20Office%20of%20Space%20Commerce/README.md) | <b>Office of Space Commerce</b> | <b>50701</b> |
 | [<b>509.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20509%20-%20Commercial%20Space%20Launch%20Activities/README.md) | <b>Commercial Space Launch Activities</b> | <b>50901</b> |
 | [<b>511.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20511%20-%20Space%20Transportation%20Infrastructure%20Matching%20Grants/README.md) | <b>Space Transportation Infrastructure Matching Grants</b> | <b>51101</b> |
+| [<b>513.</b>](Subtitle%20005%20%28V%29%20-%20Programs%20Targeting%20Commercial%20Opportunities/Chapter%20513%20-%20Space%20Resource%20Commercial%20Exploration%20and%20Utilization/README.md) | <b>Space resource commercial exploration and utilization </b><b><sup>1</sup></b> | <b>51301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,7 +75,12 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>701.</b>](Subtitle%20007%20%28VII%29%20-%20Access%20to%20Space/Chapter%20701%20-%20Use%20of%20Space%20Shuttle%20or%20Alternatives/README.md) | <b>Use of Space Shuttle or Alternatives</b> | <b>70101</b> |
+| [<b>701.</b>](Subtitle%20007%20%28VII%29%20-%20Access%20to%20Space/Chapter%20701%20-%20Use%20of%20Space%20Launch%20System%20or%20Alternatives/README.md) | <b>Use of space launch system or alternatives </b><b><sup>2</sup></b> | <b>70101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>703.</b>](Subtitle%20007%20%28VII%29%20-%20Access%20to%20Space/Chapter%20703%20-%20Shuttle%20Pricing%20Policy%20for%20Commercial%20and%20Foreign%20Users/README.md) | <b>Shuttle Pricing Policy for Commercial and Foreign Users</b> | <b>70301</b> |
 | [<b>705.</b>](Subtitle%20007%20%28VII%29%20-%20Access%20to%20Space/Chapter%20705%20-%20Exploration%20Initiatives/README.md) | <b>Exploration Initiatives</b> | <b>70501</b> |
 | [<b>707.</b>](Subtitle%20007%20%28VII%29%20-%20Access%20to%20Space/Chapter%20707%20-%20Human%20Space%20Flight%20Independent%20Investigation%20Commission/README.md) | <b>Human Space Flight Independent Investigation Commission</b> | <b>70701</b> |
@@ -85,6 +91,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item 513 and substituted "Commerce" for "Commercialization" in item 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item 701.
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items 509 and 511.
 
@@ -1145,6 +1153,10 @@ Actions Taken and Offenses Committed.—An action taken or an offense committed 
 #### Repeals
 
 Pub. L. 111–314, §6, Dec. 18, 2010, 124 Stat. 3444, repealed specified laws relating to national and commercial space programs, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 18, 2010.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Space Resource Commercial Exploration and Utilization".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "Use of Space Launch System or Alternatives".</i>
 
 
 ---

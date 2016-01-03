@@ -10,7 +10,7 @@ Jurisdiction of Mayor.—The Mayor of the District of Columbia has possession, c
 
 (b)
 
-Jurisdiction of Secretary of the Army Not Affected.—This section does not affect the superintendence and control of the Secretary of the Army over the Washington Aqueduct and the rights, appurtenances, and fixtures connected with the Aqueduct.
+Jurisdiction of Secretary of the Army Not Affected.—This section does not affect thesuperintendence and control of the Secretary of the Army over the Washington Aqueduct and the rights, appurtenances, and fixtures connected with the Aqueduct.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1208.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of inspections
 
-Inspections by the Technical Secretariat of plants, plant sites, or other facilities or locations for which the United States has a facilityagreement with the Organization shall be conducted in accordance with the facility agreement. Any such facility agreement may not in any way limit the right of the owner or operator of the facility to withhold consent to an inspection request.
+Inspections by the Technical Secretariat of plants, plant sites, or other facilities or locations for which the United States has a facility agreement with the Organization shall be conducted in accordance with the facility agreement. Any such facility agreement may not in any way limit the right of the owner or operator of the facility to withhold consent to an inspection request.
 
 #### (b) Types of facility agreements
 
@@ -16,7 +16,7 @@ Inspections by the Technical Secretariat of plants, plant sites, or other facili
 
 #### (c) Notification requirements
 
-The United States National Authority shall ensure that the owner, operator, occupant, or agent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
+The United States National Authority shall ensure that the owner, operator, occupant, oragent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.
 
 #### (d) Content of facility agreements
 

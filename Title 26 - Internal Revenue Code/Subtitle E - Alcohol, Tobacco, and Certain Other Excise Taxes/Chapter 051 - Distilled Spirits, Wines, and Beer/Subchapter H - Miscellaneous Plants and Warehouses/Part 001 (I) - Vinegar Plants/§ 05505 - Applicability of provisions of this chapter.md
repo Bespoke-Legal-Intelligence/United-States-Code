@@ -60,7 +60,7 @@ Provisions similar to those comprising subsecs. (a) to (i) of this section were 
 | (h) | 5556\. |
 | (i) | 5601, 5607, 5608, 5686(b). |
 
-The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 630, 640, 680, 681, 683–685, 700.
+The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 630, 640, 680, 681, 683-685, 700.
 
 #### Amendments
 

@@ -9,6 +9,7 @@
 | [5703\.](Subchapter%20001%20%28I%29%20-%20Records/%C2%A7%2005703%20-%20Certification%20of%20records%20of%20District%20of%20Columbia.md) | Certification of records of District of Columbia. |
 | [5704\.](Subchapter%20001%20%28I%29%20-%20Records/%C2%A7%2005704%20-%20Transcript%20of%20trial%20records.md) | Transcript of trial records. |
 | [5705\.](Subchapter%20001%20%28I%29%20-%20Records/%C2%A7%2005705%20-%20Confidentiality%20of%20medical%20quality-assurance%20records.md) | Confidentiality of medical quality-assurance records. |
+| [5706\.](Subchapter%20001%20%28I%29%20-%20Records/%C2%A7%2005706%20-%20Veterans%20identification%20card.md) | Veterans identification card. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,6 +39,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–31, §2(c), July 20, 2015, 129 Stat. 430, added item 5706.
 
 <b>2006</b>—Pub. L. 109–461, title IX, §902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 

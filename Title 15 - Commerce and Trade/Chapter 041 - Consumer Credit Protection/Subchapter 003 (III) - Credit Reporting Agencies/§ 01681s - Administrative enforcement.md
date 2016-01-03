@@ -72,7 +72,7 @@
 
 #### (2) Rights of Federal regulators
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) of this section and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 
@@ -106,7 +106,7 @@
 
 #### (d) Enforcement under other authority
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
 
 #### (e) Regulatory authority
 
@@ -116,7 +116,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 #### (2) Deference
 
-&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by theBureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
+&emsp;Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>2</sup> The regulations prescribed by the Bureau under this subchapter shall apply to any person that is subject to this subchapter, notwithstanding the enforcement authorities granted to other agencies under this section.
 
 #### (f) Coordination of consumer complaint investigations
 
@@ -160,7 +160,7 @@ In subsec. (b)(1)(D), "part A of subtitle VII of title 49" substituted for "the 
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §1088(a)(10)(A), added subsec. (a) and struck out former subsec. (a) which related to enforcement by Federal Trade Commission.
 
-Subsec. (b). Pub. L. 111–203, §1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
+Subsec. (b). Pub. L. 111–203, §1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which relatedto enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
 
 Subsec. (c)(2). Pub. L. 111–203, §1088(a)(10)(C), in introductory provisions, inserted "and the Federal Trade Commission" before "or the appropriate" and before "or appropriate" in two places.
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1992 Amendment
 

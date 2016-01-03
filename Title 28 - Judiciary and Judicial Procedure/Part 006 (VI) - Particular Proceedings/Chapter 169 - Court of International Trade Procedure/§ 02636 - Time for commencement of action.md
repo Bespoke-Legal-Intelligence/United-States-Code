@@ -70,7 +70,7 @@ Amendment by section 623(b)(1) of Pub. L. 98–573 applicable with respect to ci
 
 #### Effective Date
 
-Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B)of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
 #### Application of 1993 Amendment
 

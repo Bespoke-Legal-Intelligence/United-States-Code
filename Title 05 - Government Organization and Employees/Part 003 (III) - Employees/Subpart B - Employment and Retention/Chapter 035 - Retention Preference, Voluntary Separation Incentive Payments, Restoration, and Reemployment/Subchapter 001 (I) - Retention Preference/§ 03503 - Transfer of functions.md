@@ -2,7 +2,7 @@
 
 (a) When a function is transferred from one agency to another, each competing employee in the function shall be transferred to the receiving agency for employment in a position for which he is qualified before the receiving agency may make an appointment from another source to that position.
 
-(b) When one agency is replaced by another, each competing employee in the agency to be replaced shall be transferred to the replacing agency for employment in a position for which he is qualified before the replacing agency may make an appointment from another source to that position.
+(b) When one agency is replaced by another, each competing employee in the agency to be replaced shall be transferred to the replacingagency for employment in a position for which he is qualified before the replacing agency may make an appointment from another source to that position.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 95–454, title III, §307(f), Oct. 13, 1978, 92 Stat. 1149; Pub. L. 96–54, §2(a)(18), Aug. 14, 1979, 93 Stat. 382.)
 

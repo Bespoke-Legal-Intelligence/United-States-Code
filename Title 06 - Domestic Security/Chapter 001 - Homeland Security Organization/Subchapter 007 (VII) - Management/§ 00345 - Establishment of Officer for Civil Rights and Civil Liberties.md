@@ -18,7 +18,7 @@ The Officer for Civil Rights and Civil Liberties, who shall report directly to t
 
 &emsp;&emsp;(B) Congress receives appropriate reports regarding such programs, policies, and procedures; and
 
-&emsp;(6) investigate complaints and information indicating possible abuses of civil rights or civil liberties, unless the Inspector General ofthe Department determines that any such complaint or information should be investigated by the Inspector General.
+&emsp;(6) investigate complaints and information indicating possible abuses of civil rights or civil liberties, unless the Inspector General of the Department determines that any such complaint or information should be investigated by the Inspector General.
 
 #### (b) Report
 

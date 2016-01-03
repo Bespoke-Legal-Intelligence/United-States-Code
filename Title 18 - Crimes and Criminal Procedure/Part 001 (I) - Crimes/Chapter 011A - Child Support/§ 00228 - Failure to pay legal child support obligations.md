@@ -58,7 +58,7 @@ Definitions.—As used in this section—
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–187, §1, June 24, 1998, 112 Stat. 618, provided that: "This Act \[amending this section\] may becited as the 'Deadbeat Parents Punishment Act of 1998'."
+Pub. L. 105–187, §1, June 24, 1998, 112 Stat. 618, provided that: "This Act \[amending this section\] may be cited as the 'Deadbeat Parents Punishment Act of 1998'."
 
 #### Short Title
 

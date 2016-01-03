@@ -16,7 +16,7 @@ The acquisition of a building or facility under subsection (a) shall be subject 
 
 #### (c) United States Capitol grounds provisions applicable
 
-Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a)shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a) shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 
 #### (d) Lease of buildings and facilities
 
@@ -34,7 +34,7 @@ Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 510
 
 #### Codification
 
-Section was classified to section 166k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 166k of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 

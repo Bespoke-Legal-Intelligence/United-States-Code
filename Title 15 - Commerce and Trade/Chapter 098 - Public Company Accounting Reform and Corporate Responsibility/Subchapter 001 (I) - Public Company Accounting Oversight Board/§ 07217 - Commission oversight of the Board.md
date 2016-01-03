@@ -2,7 +2,7 @@
 
 #### (a) General oversight responsibility
 
-The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 78q(a)(1) of this title, and of section 78q(b)(1) of this title shall apply to the Board as fully as if the Board were a "registered securities association" for purposes of those sections 78q(a)(1) and 78q(b)(1).
+The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 78q(a)(1) ofthis title, and of section 78q(b)(1) of this title shall apply to the Board as fully as if the Board were a "registered securities association" for purposes of those sections 78q(a)(1) and 78q(b)(1).
 
 #### (b) Rules of the Board
 
@@ -56,7 +56,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) is not necessary or appropriate in furtherance of this Act or the securities laws; or
 
-&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding orthe basis on which the sanction was imposed.
+&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
 
 #### (d) Censure of the Board; other sanctions
 

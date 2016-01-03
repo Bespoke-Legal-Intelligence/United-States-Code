@@ -16,7 +16,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;(4) Providing any license or other approval under section 2778 of this title for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
 
-&emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d). This paragraph applies with respect to activities undertaken—
+&emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described insubsection (d). This paragraph applies with respect to activities undertaken—
 
 &emsp;&emsp;(A) by any department, agency, or other instrumentality of the Government,
 
@@ -106,7 +106,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;&emsp;(iv) the date on which the proposed transaction is expected to occur; and
 
-&emsp;&emsp;&emsp;(v) the name of every United States Government department, agency, or other entity involved in the proposed transaction, every foreign government involved in theproposed transaction, and every private party with significant participation in the proposed transaction.
+&emsp;&emsp;&emsp;(v) the name of every United States Government department, agency, or other entity involved in the proposed transaction, every foreign government involved in the proposed transaction, and every private party with significant participation in the proposed transaction.
 
 > To the extent possible, the information specified in subparagraph (B) of paragraph (2) shall be provided in unclassified form, with any classified information provided in an addendum to the report.
 
@@ -130,7 +130,7 @@ Any person who willfully violates this section shall be fined for each violation
 
 #### (k) Civil penalties; enforcement
 
-In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[50 U.S.C. App. 2410(c), (e), (g), 2411(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. App. 2401 et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) of the Export Administration Act of 1979 \[50 U.S.C. 4610(c), (e), (g), 4614(a)\] (subject to the same terms and conditions as are applicable to such powers under that Act \[50 U.S.C. 4601 et seq.\]), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 
 #### (l) Definitions
 
@@ -144,7 +144,7 @@ As used in this section—
 
 &emsp;&emsp;(A) any citizen or permanent resident alien of the United States;
 
-&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within the United States or organized under the laws of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
+&emsp;&emsp;(B) any sole proprietorship, partnership, company, association, or corporation having its principal place of business within the United States or organized under the laws of the United States, any State, the District ofColumbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States;
 
 &emsp;&emsp;(C) any other person with respect to that person's actions while in the United States; and
 
@@ -174,7 +174,7 @@ Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appro
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -16,11 +16,11 @@ All revenues collected in connection with the operation of the Colorado River st
 
 Revenues in the Basin Fund in excess of operating needs shall be paid annually to the general fund of the Treasury to return—
 
-&emsp;(1) the costs of each unit, participating project, or any separable feature thereof which are allocated to power pursuant to section 620e of this title, within a period not exceeding fifty years from the date of completion of such unit, participating project, or separable feature thereof;
+&emsp;(1) the costs of each unit, participating project, or any separable feature thereof whichare allocated to power pursuant to section 620e of this title, within a period not exceeding fifty years from the date of completion of such unit, participating project, or separable feature thereof;
 
 &emsp;(2) the costs of each unit, participating project, or any separable feature thereof which are allocated to municipal water supply pursuant to section 620e of this title, within a period not exceeding fifty years from the date of completion of such unit, participating project, or separable feature thereof;
 
-&emsp;(3) interest on the unamortized balance of the investment (including interest during construction) in the power and municipal water supply features of each unit, participating project, or any separable feature thereof, at a rate determined by the Secretary of the Treasury as provided in subsection (f) of this section, and interest due shall be a first charge;
+&emsp;(3) interest on the unamortized balance of the investment (including interest during construction) in the power and municipal water supply features of each unit, participating project, or any separable feature thereof, at a rate determined by the Secretary of the Treasury as provided in subsection (f), and interest due shall be a first charge;
 
 &emsp;(4) the costs of each storage unit which are allocated to irrigation pursuant to section 620e of this title within a period not exceeding fifty years; and
 
@@ -34,7 +34,7 @@ Revenues so apportioned to each State shall be used only for the repayment of co
 
 #### (f) Determination of interest rate
 
-The interest rate applicable to each unit of the storage project and each participating project for purposes of computing interest during construction and interest on the unpaid balance shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payableby the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from the date of issue.
+The interest rate applicable to each unit of the storage project and each participating project for purposes of computing interest during construction and interest on the unpaid balance shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from the date of issue.
 
 #### (g) Budget to be submitted to Congress
 
@@ -68,5 +68,5 @@ Pub. L. 86–529, §9, June 27, 1960, 74 Stat. 227, provided that the amendment 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed as the 8th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed as the 8th item on page 114), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 

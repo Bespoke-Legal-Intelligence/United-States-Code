@@ -62,7 +62,7 @@
 
 (2)(A) The debtor shall provide—
 
-&emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to thetrustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
+&emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to the trustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
 
 &emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or if elected under clause (i), such transcript) to any creditor that timely requests such copy.
 
@@ -104,7 +104,7 @@
 
 (h) If requested by the United States trustee or by the trustee, the debtor shall provide—
 
-&emsp;(1) a document that establishes the identity of the debtor, including a driver's license, passport, or other document that contains a photograph of the debtor; or
+&emsp;(1) a document that establishes the identity of the debtor, including a driver's license,passport, or other document that contains a photograph of the debtor; or
 
 &emsp;(2) such other personal identifying information relating to the debtor that establishes the identity of the debtor.
 
@@ -116,7 +116,7 @@
 
 (4) Notwithstanding any other provision of this subsection, on the motion of the trustee filed before the expiration of the applicable period of time specified in paragraph (1), (2), or (3), and after notice and a hearing, the court may decline to dismiss the case if the court finds that the debtor attempted in good faith to file all the information required by subsection (a)(1)(B)(iv) and that the best interests of creditors would be served by administration of the case.
 
-(j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension ofthe due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
+(j)(1) Notwithstanding any other provision of this title, if the debtor fails to file a tax return that becomes due after the commencement of the case or to properly obtain an extension of the due date for filing such return, the taxing authority may request that the court enter an order converting or dismissing the case.
 
 (2) If the debtor does not file the required return or obtain the extension referred to in paragraph (1) within 90 days after a request is filed by the taxing authority under that paragraph, the court shall convert or dismiss the case, whichever is in the best interests of creditors and the estate.
 

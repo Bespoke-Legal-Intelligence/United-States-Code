@@ -1,6 +1,6 @@
 ### §4628. State acting as agent for Federal program
 
-Whenever real property is acquired by a State agency at the request of a Federal agency for a Federal program or project, such acquisition shall, for the purposes of this chapter, bedeemed an acquisition by the Federal agency having authority over such program or project.
+Whenever real property is acquired by a State agency at the request of a Federal agency for a Federal program or project, such acquisition shall, for the purposes of this chapter, be deemed an acquisition by the Federal agency having authority over such program or project.
 
 (Pub. L. 91–646, title II, §208, Jan. 2, 1971, 84 Stat. 1899.)
 

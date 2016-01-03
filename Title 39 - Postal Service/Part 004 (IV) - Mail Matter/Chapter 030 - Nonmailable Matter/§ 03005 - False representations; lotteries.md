@@ -10,9 +10,9 @@
 
 > For purposes of the preceding sentence, the mailing of matter which is nonmailable under such section 3001(d), (h), (i), (j), or (k) by any person shall constitute prima facie evidence that such person is engaged in conducting a scheme or device for obtaining money or property through the mail by false representations.
 
-(b) The public advertisement by a person engaged in activities covered by subsection (a) of this section, that remittances may be made by mail to a person named in the advertisement, is prima facie evidence that the latter is the agent or representative of the advertiser for the receipt of remittances on behalf of the advertiser. The Postal Service may ascertain the existence of the agency in any other legal way satisfactory to it.
+(b) The public advertisement by a person engaged in activities covered by subsection (a) of this section, that remittances may be made bymail to a person named in the advertisement, is prima facie evidence that the latter is the agent or representative of the advertiser for the receipt of remittances on behalf of the advertiser. The Postal Service may ascertain the existence of the agency in any other legal way satisfactory to it.
 
-(c) As used in this section, the term "representative" includes an agent or representativeacting as an individual or as a firm, bank, corporation, or association of any kind.
+(c) As used in this section, the term "representative" includes an agent or representative acting as an individual or as a firm, bank, corporation, or association of any kind.
 
 (d) Nothing in this section shall prohibit the mailing of (1) publications containing advertisements, lists of prizes, or information concerning a lottery, which are exempt, pursuant to section 1307 of title 18 of the United States Code, from the provisions of sections 1301, 1302, 1303, and 1304 of title 18 of the United States Code, (2) tickets or other materials concerning such a lottery within that State to addresses within that State, or (3) an advertisement promoting the sale of a book or other publication, or a solicitation to purchase, or a purchase order for any such publication, if (A) such advertisement, solicitation, or purchase order is not materially false or misleading in its description of the publication; (B) such advertisement, solicitation, or purchase order contains no material misrepresentation of fact: <i>Provided, however</i>, That no statement quoted or derived from the publication shall constitute a misrepresentation of fact as long as such statement complies with the requirements of subparagraphs (A) and (C); and (C) the advertisement, solicitation, or purchase order accurately discloses the source of any statements quoted or derived from the publication. Paragraph (3) shall not be applicable to any publication, advertisement, solicitation, or purchase order which is used to sell some other product in which the publisher or author has a financial interest as part of a commercial scheme. For the purposes of this subsection, "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
@@ -66,13 +66,13 @@ Amendment by Pub. L. 101–524 effective Nov. 6, 1990, and applicable to matter 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see section 5 of Pub. L. 100–625, set out as a note under section 1304 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see section 5 of Pub. L. 100–625, setout as a note under section 1304 of Title 18, Crimes and Criminal Procedure.
 
 #### Consumer Education Program on Schemes Involving False Representations
 
 Section 4 of Pub. L. 98–186, as amended by Pub. L. 104–66, title II, §2211(a), Dec. 21, 1995, 109 Stat. 732, provided that:
 
-"(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster Generalor his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
+"(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
 "(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)."
 

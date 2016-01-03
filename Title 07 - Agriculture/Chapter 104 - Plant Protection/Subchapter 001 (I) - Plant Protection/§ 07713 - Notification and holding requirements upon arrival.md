@@ -40,7 +40,7 @@
 
 #### (c) Prohibition on movement of items without authorization
 
-No person shall move from a port of entry or interstate any imported plant, plant product, biological control organism, plant pest, noxious weed, article, or means of conveyance unless theimported plant, plant product, biological control organism, plant pest, noxious weed, article, or means of conveyance—
+No person shall move from a port of entry or interstate any imported plant, plant product, biological control organism, plant pest, noxious weed, article, or means of conveyance unless the imported plant, plant product, biological control organism, plant pest, noxious weed, article, or means of conveyance—
 
 &emsp;(1) is inspected and authorized for entry into or transit movement through the United States; or
 

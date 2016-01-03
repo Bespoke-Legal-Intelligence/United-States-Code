@@ -42,7 +42,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(B) the amount necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) separately, with respect to each plan year, the net decrease (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) separately, with respect to each plan year, the net decrease (if any) in unfundedpast service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net experience gain (if any) under the plan, over a period of 5 plan years, and
 
@@ -286,7 +286,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 &nbsp;
 
-| &nbsp; | <b> In the case of the following required installments:</b> | <b> The due date is:</b> |
+| &nbsp; | <b>In the case of the following required installments:</b> | <b>The due date is:</b> |
 | :--- | :---: | ---: |
 | &nbsp; | 1st | April 15 |
 | &nbsp; | 2nd | July 15 |
@@ -305,7 +305,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "required annual payment" means the lesser of—
 
-&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by the employer for the plan year under section 1082 of this title (without regard to any waiver under subsection (c) thereof), or
+&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by theemployer for the plan year under section 1082 of this title (without regard to any waiver under subsection (c) thereof), or
 
 &emsp;&emsp;&emsp;(ii) 100 percent of the amount so required for the preceding plan year.
 
@@ -393,7 +393,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 &emsp;&emsp;(A) any person fails to make a required installment under subsection (f) or any other payment required under this section before the due date for such installment or other payment, and
 
-&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), when added to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
+&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), whenadded to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
 > &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
 
@@ -425,7 +425,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (5) Enforcement
 
-&emsp;Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by any contributing employer (or anymember of the controlled group of the contributing employer).
+&emsp;Any lien created under paragraph (1) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Pension Benefit Guaranty Corporation, by any contributing employer (or any member of the controlled group of the contributing employer).
 
 #### (6) Definitions
 
@@ -501,13 +501,13 @@ For purposes of this section—
 
 &nbsp;
 
-| <b> If the years of participation are:</b> | <b> The applicable percentage is:</b> |
-| :--- | ---: |
-| 1 | 20&nbsp; |
-| 2 | 40&nbsp; |
-| 3 | 60&nbsp; |
-| 4 | 80&nbsp; |
-| 5 or more | 100\. |
+| &nbsp; | <b>If the years of participation are:</b> | <b>The applicable percentage is:</b> |
+| :--- | :---: | ---: |
+| &nbsp; | 1 | &nbsp;&nbsp;20&nbsp; |
+| &nbsp; | 2 | &nbsp;&nbsp;40&nbsp; |
+| &nbsp; | 3 | &nbsp;&nbsp;60&nbsp; |
+| &nbsp; | 4 | &nbsp;&nbsp;80&nbsp; |
+| &nbsp; | 5 or more | 100\. |
 
 #### (C) Participants to whom paragraph applies
 
@@ -555,7 +555,7 @@ Notwithstanding any other provisions of this section—
 
 #### (3) Funding restoration plan
 
-&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to this paragraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
+&emsp;The sponsor of a CSEC plan shall establish a written funding restoration plan within 180 days of the receipt by the plan sponsor of a certification from the plan actuary that the plan is in funding restoration status for a plan year. Such funding restoration plan shall consist of actions that are calculated, based on reasonably anticipated experience and reasonable actuarial assumptions, to increase the plan's funded percentage to 100 percent over a period that is not longer than the greater of 7 years or the shortest amount of time practicable. Such funding restoration plan shall take into account contributions required under this section (without regard to thisparagraph). If a plan remains in funding restoration status for 2 or more years, such funding restoration plan shall be updated each year after the 1st such year within 180 days of receipt by the plan sponsor of a certification from the plan actuary that the plan remains in funding restoration status for the plan year.
 
 #### (4) Annual certification by plan actuary
 
@@ -595,7 +595,7 @@ Notwithstanding any other provisions of this section—
 
 #### References in Text
 
-Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L.109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
+Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

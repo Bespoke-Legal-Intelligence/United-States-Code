@@ -20,7 +20,7 @@ Establishment of System.—The Administrator of the Federal Aviation Administrat
 
 (b)
 
-General Description Required.—A lease or instrument recorded under subsection (a)(2)(C) or (D) of this section only has to describe generally the engine, propeller, appliance, or spare part by type and designate its location.
+General Description Required.—A lease or instrument recorded under subsection\(a)(2)(C) or (D) of this section only has to describe generally the engine, propeller, appliance, or spare part by type and designate its location.
 
 (c)
 

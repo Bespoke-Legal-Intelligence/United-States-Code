@@ -74,7 +74,7 @@ The Secretary of State, acting through the Director established pursuant to sect
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may suspend or terminate assistance provided under this subsection in whole or in part for a country or entity if the Secretary determines that—
+&emsp;&emsp;The Secretary may suspend or terminate assistance provided under this subsection inwhole or in part for a country or entity if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the country or entity is engaged in activities that are contrary to the national security interests of the United States;
 

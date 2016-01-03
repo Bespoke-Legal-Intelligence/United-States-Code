@@ -22,7 +22,7 @@ For purposes of subsection (a), the term "related persons" means—
 
 &emsp;&emsp;(A) a corporation more than 50 percent of the value of the outstanding stock of which is owned (directly or indirectly) by or for such person,
 
-&emsp;&emsp;(B) a partnership more than 50 percent of the capital interest or profits interest in which is owned (directly or indirectly) by or for such person, and
+&emsp;&emsp;(B) a partnership more than 50 percent of the capital interest or profits interest inwhich is owned (directly or indirectly) by or for such person, and
 
 &emsp;&emsp;(C) any entity which is a related person to such person under paragraph (3), (10), (11), or (12) of section 267(b).
 
@@ -50,7 +50,7 @@ For purposes of this section, a patent application shall be treated as property 
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §642(a)(1)(A), substituted "controlled entities" for "80-percent owned entities".
 
-Subsec. (c). Pub. L. 99–514, §642(a)(1)(B), (C), in heading, substituted "Controlled entity" for "80-percent owned entity", in par. (1), in introductory provisions, substituted "controlled entity" for "80-percent owned entity", in subpar. (A), substituted "more than 50 percent of the value" for "80 percent or more in value", in subpar. (B), substituted "more than 50 percent" for "80percent or more", and added subpar. (C), and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of subparagraphs (A) and (B) of paragraph (1), the principles of section 318 shall apply, except that—
+Subsec. (c). Pub. L. 99–514, §642(a)(1)(B), (C), in heading, substituted "Controlled entity" for "80-percent owned entity", in par. (1), in introductory provisions, substituted "controlled entity" for "80-percent owned entity", in subpar. (A), substituted "more than 50 percent of the value" for "80 percent or more in value", in subpar. (B), substituted "more than 50 percent" for "80 percent or more", and added subpar. (C), and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of subparagraphs (A) and (B) of paragraph (1), the principles of section 318 shall apply, except that—
 
 &emsp;"(A) the members of an individual's family shall consist only of such individual and such individual's spouse,
 
@@ -102,7 +102,7 @@ Pub. L. 99–514, title VI, §642(c), Oct. 22, 1986, 100 Stat. 2284, as amended 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 453 and 707 of this title\] shall applyto sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
 
 "(2)
 

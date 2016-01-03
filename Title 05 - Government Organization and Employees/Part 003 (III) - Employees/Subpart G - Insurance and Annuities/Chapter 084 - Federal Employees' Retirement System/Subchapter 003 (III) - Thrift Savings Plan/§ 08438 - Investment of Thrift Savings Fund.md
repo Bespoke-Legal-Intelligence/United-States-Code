@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
-&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in themost recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
+&emsp;(9) the term "shareholder's or partner's equity", as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
 
 &emsp;(10) the term "Small Capitalization Stock Index Investment Fund" means the Small Capitalization Stock Index Investment Fund established under subsection (b)(1)(D).
 
@@ -98,7 +98,9 @@
 
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
-(2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
+(2)(A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).
+
+(B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member's Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.
 
 (d)(1) At least twice each year, an employee or Member (or former employee or Member) may elect the investment funds and options referred to in subsection (b) into which the sums in the Thrift Savings Fund credited to such individual's account are to be invested or reinvested.
 
@@ -106,7 +108,7 @@
 
 (e)(1) The Secretary of the Treasury is authorized to issue special interest-bearing obligations of the United States for purchase by the Thrift Savings Fund for the Government Securities Investment Fund.
 
-(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the UnitedStates then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
+(2)(A) Obligations issued for the purpose of this subsection shall have maturities fixed with due regard to the needs of such Fund as determined by the Executive Director, and shall bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month next preceding the date of issue of such obligations) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable earlier than 4 years after the end of such calendar month.
 
 (B) Any average market yield computed under subparagraph (A) which is not a multiple of one-eighth of 1 percent, shall be rounded to the nearest multiple of one-eighth of 1 percent.
 
@@ -136,19 +138,15 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854; Pub. L. 113–255, §2(a), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, §104, June 22, 2009, 123 Stat. 1854; Pub. L. 113–255, §2(a), Dec. 18, 2014, 128 Stat. 2920; Pub. L. 114–92, div. A, title VI, §632(d), Nov. 25, 2015, 129 Stat. 847.)
 
 #### Amendment of Subsection (c)(2)
 
-<i>Pub. L. 113–255, §2(a), (e), Dec. 18, 2014, 128 Stat. 2920, provided that, effective on the date that the Executive Director issues guidance under section 2(d) of Pub. L. 113–255, set out as a note below, and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (c)(2) of this section is amended to read as follows:</i>
-
-<i>"(2)(A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).</i>
-
-<i>"(B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member's Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund."</i>
-
-<i>See 2014 Amendment note below.</i>
+<i>Pub. L. 114–92, div. A, title VI, §§632(d), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2) of this section is amended in subparagraph (A) by striking "(A) Consistent with the requirements of subparagraph (B), if an" and inserting "If an" and by striking subparagraph (B). See 2015 Amendment note below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(2). Pub. L. 114–92 substituted "If an" for "(A) Consistent with the requirements of subparagraph (B), if an" and struck out subpar. (B) which read as follows: "If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member's Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund."
 
 <b>2014</b>—Subsec. (c)(2). Pub. L. 113–255 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund."
 
@@ -184,11 +182,15 @@ Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) a
 
 <b>1987</b>—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–255, §2(e), Dec. 18, 2014, 128 Stat. 2920, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 8439 of this title\] shall—
 
-&emsp;"(1) take effect on the date that the Executive Director issues guidance under subsection (d) \[section 2(d) of Pub. L. 113–255, set out as a Guidance note below\]; and
+&emsp;"(1) take effect on the date that the Executive Director issues guidance under subsection (d) \[guidance published Aug. 28, 2015, effective Sept. 5, 2015, see section 2(d) of Pub. L. 113–255, set out as a Guidance note below\]; and
 
 &emsp;"(2) apply to individuals enrolled in the Thrift Savings Plan on or after such date."
 
@@ -207,6 +209,8 @@ Pub. L. 100–366, §2(b), July 13, 1988, 102 Stat. 826, provided that: "The ame
 #### Guidance
 
 Pub. L. 113–255, §2(d), Dec. 18, 2014, 128 Stat. 2920, provided that: "Not later than 9 months after the date of enactment of this Act \[Dec. 18, 2014\], the Executive Director (as that term is defined under section 8401(13) of title 5, United States Code) shall develop and issue guidance implementing the requirements of this Act \[see section 1 of Pub. L. 113–255, set out as a Short Title of 2014 Amendment note under section 101 of this title\]."
+
+\[Guidance issued in the form of a final rule published Aug. 28, 2015, effective Sept. 5, 2015, see 80 F.R. 52173.\]
 
 #### Removal of Investment Restrictions
 

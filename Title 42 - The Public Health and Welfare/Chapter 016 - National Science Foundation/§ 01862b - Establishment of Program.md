@@ -30,7 +30,7 @@ Criteria for the award of funds to any institution for a project under the Progr
 
 &emsp;(2) the need for the proposed repair, renovation, or, in exceptional cases, replacement based on an analysis of the age and condition of existing research facilities and equipment;
 
-&emsp;(3) the congruence of the institution's research and training activities with the future research needs of the Nation and the research mission of the Foundation;
+&emsp;(3) the congruence of the institution's research and training activities with the futureresearch needs of the Nation and the research mission of the Foundation;
 
 &emsp;(4) the contribution that the project will make toward meeting national, regional, and institutional research and related training needs;
 
@@ -42,7 +42,7 @@ Criteria for the award of funds to any institution for a project under the Progr
 
 #### Codification
 
-Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also aspart of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the Academic Research Facilities Modernization Act of 1988, and also as part of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Prior Provisions
 

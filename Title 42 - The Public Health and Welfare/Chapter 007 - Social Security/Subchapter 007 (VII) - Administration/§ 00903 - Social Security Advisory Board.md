@@ -72,13 +72,13 @@ A member of the Board shall be designated by the President to serve as Chairman 
 
 #### (f) Compensation, expenses, and per diem
 
-A member of the Board shall, for each day (including traveltime) during which the member isattending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
+A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 
 #### (g) Meetings
 
 (1) The Board shall meet at the call of the Chairman (in consultation with the other members of the Board) not less than 4 times each year to consider a specific agenda of issues, as determined by the Chairman in consultation with the other members of the Board.
 
-(2) Four members of the Board (not more than 3 of whom may be of the same political party) shall constitute a quorum for purposes of conducting business.
+(2) Four members of the Board (not more than 3 of whom may be of the same political party)shall constitute a quorum for purposes of conducting business.
 
 #### (h) Federal Advisory Committee Act
 
@@ -154,7 +154,7 @@ Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as
 
 Section 5526
 
-Amendments.—The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactmentof section 108 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 857).
+Amendments.—The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactment of section 108 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 857).
 
 "(e)
 

@@ -24,7 +24,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 #### (1) Factors
 
-&emsp;For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a) of this section, the Secretary shall consider—
+&emsp;For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a), the Secretary shall consider—
 
 &emsp;&emsp;(A) the area's natural resource and ecological qualities, including its contribution to biological productivity, maintenance of ecosystem structure, maintenance of ecologically or commercially important or threatened species or species assemblages, maintenance of critical habitat of endangered species, and the biogeographic representation of the site;
 
@@ -140,7 +140,7 @@ Gerry E. Studds Stellwagen Bank National Marine Sanctuary (former Stellwagen Ban
 
 Gray's Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R. part 922, subpart I.
 
-Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997.
+Greater Farallones National Marine Sanctuary (former Gulf of the Farallones National Marine Sanctuary; former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997; 80 F.R. 34047, June 15, 2015.
 
 Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, §7, Oct. 11, 1996, 110 Stat. 3365.
 
@@ -156,5 +156,5 @@ Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, 
 
 #### Northwest Straits
 
-Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: "No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\]."
+Pub. L. 104–283, §10, Oct. 11, 1996, 110 Stat. 3368, provided that: "No designation of an area in the Northwest Straits in the State of Washington as a national marine sanctuary under the National Marine SanctuariesAct \[16 U.S.C. 1431 et seq.\] shall take effect unless that designation is specifically authorized by a law enacted after the date of enactment of this Act \[Oct. 11, 1996\]."
 

@@ -10,7 +10,7 @@ All persons within the United States shall have the right to be free from crimes
 
 #### (c) Cause of action
 
-A person (including a person who acts under color of any statute, ordinance, regulation, custom, or usage of any State) who commits a crime of violence motivated by gender and thusdeprives another of the right declared in subsection (b) of this section shall be liable to the party injured, in an action for the recovery of compensatory and punitive damages, injunctive and declaratory relief, and such other relief as a court may deem appropriate.
+A person (including a person who acts under color of any statute, ordinance, regulation, custom, or usage of any State) who commits a crime of violence motivated by gender and thus deprives another of the right declared in subsection (b) of this section shall be liable to the party injured, in an action for the recovery of compensatory and punitive damages, injunctive and declaratory relief, and such other relief as a court may deem appropriate.
 
 #### (d) Definitions
 
@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an act or series of acts that would constitute a felony against the person or that would constitute a felony against property if the conduct presents a serious risk of physical injury to another, and that would come within the meaning of State or Federal offenses described in section 16 of title 18, whether or not those acts have actually resulted in criminal charges, prosecution, or conviction and whether or not those acts were committed in the special maritime, territorial, or prison jurisdiction of the United States; and
 
-&emsp;&emsp;(B) includes an act or series of acts that would constitute a felony described in subparagraph (A) but for the relationship between the person who takes such action and the individual against whom such action is taken.
+&emsp;&emsp;(B) includes an act or series of acts that would constitute a felony described in subparagraph (A) but for the relationship between the person who takes such action andthe individual against whom such action is taken.
 
 #### (e) Limitation and procedures
 

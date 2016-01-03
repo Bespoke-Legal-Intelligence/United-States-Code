@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(i) knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
 
-&emsp;&emsp;&emsp;(ii) uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
+&emsp;&emsp;&emsp;(ii) uses any false writing or document knowing the writing or document containsany false, fictitious, or fraudulent statement or entry.
 
 #### (b) Protected disclosures
 

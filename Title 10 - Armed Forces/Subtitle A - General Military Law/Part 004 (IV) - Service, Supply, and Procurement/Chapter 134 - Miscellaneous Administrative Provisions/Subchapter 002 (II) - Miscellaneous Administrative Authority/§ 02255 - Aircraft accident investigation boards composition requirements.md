@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "mishap unit", with respect to an aircraft accident investigation, means the unit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
 
-(Added Pub. L. 104–201, div. A, title IX, §911(a)(1), Sept. 23, 1996, 110 Stat. 2621; amended Pub. L. 108–136, div. A, title X, §1031(a)(13), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 104–201, div. A, title IX, §911(a)(1), Sept. 23, 1996, 110 Stat. 2621; amended Pub. L.108–136, div. A, title X, §1031(a)(13), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
 
@@ -52,5 +52,5 @@ Definitions.—In this section:
 
 #### Effective Date
 
-Pub. L. 104–201, div. A, title IX, §911(b), Sept. 23, 1996, 110 Stat. 2622, provided that: "Section 2255 of title 10,United States Code, as added by subsection (a), shall apply with respect to any aircraft accident investigation board convened by the Secretary of a military department after the end of the six-month period beginning on the date of the enactment of this Act \[Sept. 23, 1996\]."
+Pub. L. 104–201, div. A, title IX, §911(b), Sept. 23, 1996, 110 Stat. 2622, provided that: "Section 2255 of title 10, United States Code, as added by subsection (a), shall apply with respect to any aircraft accident investigation board convened by the Secretary of a military department after the end of the six-month period beginning on the date of the enactment of this Act \[Sept. 23, 1996\]."
 

@@ -12,13 +12,13 @@ Notwithstanding any other provision of law, to the extent permitted by relevant 
 
 #### (b) Cooperation
 
-The Attorney General shall cooperate with the States to assure that information in the control of the Attorney General, including information in the National Crime Information Center, that would assist State and local law enforcement officials in carrying out duties under subsection (a) of this section is made available to such officials.
+The Attorney General shall cooperate with the States to assure that information in the control of the Attorney General, including information in the National Crime Information Center, that would assist State and local law enforcement officials in carrying out duties under subsection (a) is made available to such officials.
 
 (Pub. L. 104–132, title IV, §439, Apr. 24, 1996, 110 Stat. 1276.)
 
 #### Codification
 
-This section was enacted as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as partof the Immigration and Nationality Act which comprises this chapter.
+This section was enacted as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

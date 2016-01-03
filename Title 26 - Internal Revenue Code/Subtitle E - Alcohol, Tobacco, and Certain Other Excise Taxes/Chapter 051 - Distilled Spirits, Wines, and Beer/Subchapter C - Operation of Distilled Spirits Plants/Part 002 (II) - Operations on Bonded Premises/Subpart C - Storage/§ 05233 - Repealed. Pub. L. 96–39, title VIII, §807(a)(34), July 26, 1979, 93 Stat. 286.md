@@ -4,7 +4,7 @@ Section, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366; 
 
 A prior section 5233, act Aug. 16, 1954, ch. 736, 68A Stat. 644, made a cross reference provision to establishment of bottling in bond department, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section 5233 added by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366, were contained in prior section 5243(a) to (c), (g), act Aug. 16, 1954, ch. 736, 68A Stat. 645, as amended by Pub. L. 85–859, title II, §206(c), Sept. 2, 1958, 72 Stat. 1431.
+Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section 5233 added by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366, were contained in prior section 5243(a) to (c), (g), act Aug. 16, 1954, ch.736, 68A Stat. 645, as amended by Pub. L. 85–859, title II, §206(c), Sept. 2, 1958, 72 Stat. 1431.
 
 #### Effective Date of Repeal
 

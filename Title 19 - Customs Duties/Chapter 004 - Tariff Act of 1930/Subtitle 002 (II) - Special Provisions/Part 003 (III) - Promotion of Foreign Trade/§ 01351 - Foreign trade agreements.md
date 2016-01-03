@@ -52,9 +52,9 @@
 
 &emsp;(iii) The rate 50 per centum ad valorem or, in the case of any article subject to a specific rate of duty or to a combination of rates including a specific rate, any rate (or combination of rates), however stated, the ad valorem equivalent of which has been determined as 50 per centum ad valorem.
 
-> The provisions of clauses (ii) and (iii) of this subparagraph and of subparagraph (B)(ii) of this paragraph shall, in the case of any article, subject to a combination of ad valorem rates of duty, apply to the aggregate of such rates; and, in the case of any article, subject to a specific rate of duty or to a combination of rates including a specific rate, such provisions shall apply on the basis of the ad valorem equivalent of such rate or rates, during a representative period (whether or not such period includes July 1, 1958), determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purpose of paragraph (2)(D)(ii) of this subsection.
+> The provisions of clauses (ii) and (iii) of this subparagraph and of subparagraph (B)(ii) of this paragraph shall, in the case of any article, subject to a combination of ad valorem rates of duty, apply to the aggregate of such rates; and,in the case of any article, subject to a specific rate of duty or to a combination of rates including a specific rate, such provisions shall apply on the basis of the ad valorem equivalent of such rate or rates, during a representative period (whether or not such period includes July 1, 1958), determined in the same manner as the ad valorem equivalent of rates not stated wholly in ad valorem terms is determined for the purpose of paragraph (2)(D)(ii) of this subsection.
 
-(B)(i) In the case of any decrease in duty to which clause (i) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 10 per centum of the rate of duty existing on July 1, 1958, or, in any case in which the rate has beenincreased since that date, exceed such 10 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
+(B)(i) In the case of any decrease in duty to which clause (i) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 10 per centum of the rate of duty existing on July 1, 1958, or, in any case in which the rate has been increased since that date, exceed such 10 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
 
 (ii) In the case of any decrease in duty to which clause (ii) of subparagraph (A) of this paragraph applies, such decrease shall become initially effective in not more than four annual stages, and no amount of decrease becoming initially effective at one time shall exceed 1 per centum ad valorem or, in any case in which the rate has been increased since July 1, 1958, exceed such 1 per centum or one-third of the total amount of the decrease under the foreign trade agreement, whichever is the greater.
 
@@ -72,7 +72,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 &emsp;(1) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, by more than 50 per centum of the rate of duty existing on January 1, 1945, with respect to products of Cuba.
 
-&emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) of this section (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C) of this section), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) of this section may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
+&emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
 
 &emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, and before July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
 
@@ -82,15 +82,15 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (2) For purposes of this section—
 
-&emsp;(A) Except as provided in subsection (d) of this section, the terms "existing on July 1, 1934", "existing on January 1, 1945", "existing on January 1, 1955", and "existing on July 1, 1958" refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
+&emsp;(A) Except as provided in subsection (d), the terms "existing on July 1, 1934", "existing on January 1, 1945", "existing on January 1, 1955", and "existing on July 1, 1958" refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
 
-&emsp;(B) The term "existing" without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
+&emsp;(B) The term "existing" without the specification of any date, when used with respect toany matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
 #### (d) Rate basis for additional increases or decreases; restoration of terminated treaties forbidden
 
 (1) When any rate of duty has been increased or decreased for the duration of war or an emergency, by agreement or otherwise, any further increase or decrease shall be computed upon the basis of the post-war or post-emergency rate carried in such agreement or otherwise.
 
-(2) Where under a foreign trade agreement the United States has reserved the unqualified rightto withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as "existing on January 1, 1945" for the purpose of this section shall be the rate which would have existed if the agreement had not been entered into.
+(2) Where under a foreign trade agreement the United States has reserved the unqualified right to withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as "existing on January 1, 1945" for the purpose of this section shall be the rate which would have existed if the agreement had not been entered into.
 
 (3) No proclamation shall be made pursuant to this section for the purpose of carrying out any foreign trade agreement the proclamation with respect to which has been terminated in whole by the President prior to July 5, 1945.
 
@@ -158,7 +158,7 @@ Subsec. (b). Act Sept. 26, 1949, substituted period for colon following Cuba, st
 
 <b>1945</b>—Subsec. (a)(2). Act July 5, 1945, struck out "existing" after "per centum any", and inserted ", however established, existing on January 1, 1945 (even though temporarily suspended by Act of Congress)," after "rate of duty".
 
-Subsec. (b). Act July 5, 1945, struck out "payable" after "That the duties", and substituted "however established, existing on January 1, 1945 (even thoughtemporarily suspended by Act of Congress)." for "now payable thereon" in proviso.
+Subsec. (b). Act July 5, 1945, struck out "payable" after "That the duties", and substituted "however established, existing on January 1, 1945 (even though temporarily suspended by Act of Congress)." for "now payable thereon" in proviso.
 
 Subsec. (d). Act July 5, 1945, added subsec. (d).
 

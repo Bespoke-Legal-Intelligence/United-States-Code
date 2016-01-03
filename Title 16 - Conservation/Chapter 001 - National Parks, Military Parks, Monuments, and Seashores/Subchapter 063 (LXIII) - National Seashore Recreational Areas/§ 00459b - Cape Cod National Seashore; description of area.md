@@ -1,8 +1,8 @@
 ### §459b. Cape Cod National Seashore; description of area
 
-(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
+(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b), is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
 
-(b) The area referred to in subsection (a) of this section is described as follows:
+(b) The area referred to in subsection (a) is described as follows:
 
 &emsp;Beginning at a point in the Atlantic Ocean one-quarter of a mile due west of the mean low-water line of the Atlantic Ocean on Cape Cod at the westernmost extremity of Race Point, Provincetown, Massachusetts;
 
@@ -26,11 +26,11 @@
 
 &emsp;thence southeasterly paralleling the general alinement of United States Route 6 and generally distant two-tenths of a mile northeasterly thereof to a point 300 feet south of the southerly right-of-way line of Higgins Hollow Road;
 
-&emsp;thence in a general easterly direction paralleling the southerly alinement of Higgins Hollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
+&emsp;thence in a general easterly direction paralleling the southerly alinement of HigginsHollow Road and 300 feet distant southerly therefrom to a point five-tenths of a mile east of the easterly right-of-way line of said Route 6;
 
 &emsp;thence turning and running in a southeasterly and southerly direction paralleling the general alinement of United States Route 6 and distant five-tenths of a mile easterly therefrom to a point 300 feet north of the northerly right-of-way line of North Pamet Road;
 
-&emsp;thence in a generally southwesterly direction paralleling the general alinement ofNorth Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
+&emsp;thence in a generally southwesterly direction paralleling the general alinement of North Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
 
 &emsp;thence in a southerly direction paralleling the alinement of United States Route 6 and generally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
 

@@ -14,7 +14,7 @@ Occupant Ejection Prevention.—
 
 &emsp;(1)
 
-In general.—The Secretary shall also initiate a rulemaking proceeding to establish performance standards to reduce complete and partial ejections of vehicle occupants from outboard seating positions. In formulating the standards the Secretary shall consider various ejection mitigation systems. The Secretary shall issue a final rule under this paragraph no later than October 1, 2009.
+In general.—The Secretary shall also initiate a rulemaking proceeding to establish performance standards to reduce complete andpartial ejections of vehicle occupants from outboard seating positions. In formulating the standards the Secretary shall consider various ejection mitigation systems. The Secretary shall issue a final rule under this paragraph no later than October 1, 2009.
 
 &emsp;(2)
 

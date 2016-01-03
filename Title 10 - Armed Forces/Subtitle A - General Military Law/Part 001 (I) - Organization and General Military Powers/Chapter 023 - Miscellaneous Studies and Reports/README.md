@@ -45,7 +45,7 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 <b>1997</b>—Pub. L. 105–85, div. A, title III, §§322(a)(2), 323(b), 324(a)(2), Nov. 18, 1997, 111 Stat. 1675, 1677, substituted "Quarterly reports: personnel and unit readiness" for "Quarterly readiness reports" in item 482 and added items 483 and 484.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532,2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
+<b>1996</b>—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532, 2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
 

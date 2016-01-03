@@ -272,7 +272,7 @@
 
 &emsp;&emsp;If the corporation determines that the requirements for a distress termination set forth in paragraphs (1) and (2) are met, the corporation shall—
 
-&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on thebasis of information made available to the corporation,
+&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation,
 
 &emsp;&emsp;&emsp;(ii) determine that the plan is sufficient for benefit liabilities (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation, and
 
@@ -378,7 +378,7 @@ Subsec. (b)(2)(B). Pub. L. 101–239, §7893(c), realigned margin of last senten
 
 Subsec. (b)(3)(B). Pub. L. 101–239, §7881(g)(4), inserted period at end.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted "unless the corporation determines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title," before "certification", in subcl. (I), inserted "and, if applicable, the proposed distribution date" after "termination date", and in subcls. (II) to (V), substituted "dates" for "date".
+Subsec. (c)(2)(A)(ii). Pub. L. 101–239, §7881(g)(3), in introductory provisions, inserted "unless the corporationdetermines the information is not necessary for purposes of paragraph (3)(A) or section 1362 of this title," before "certification", in subcl. (I), inserted "and, if applicable, the proposed distribution date" after "termination date", and in subcls. (II) to (V), substituted "dates" for "date".
 
 Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–239, §7881(f)(7)(A), (B), struck out "(or its designee under section 1349(b) of this title)" before "to be able" and substituted "section 1322(c) of this title" for "section 1349 of this title".
 
@@ -452,7 +452,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before "the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section 1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
@@ -484,7 +484,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: "The amendments made by this section \[amending this section\] shall apply to anytransaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: "The amendments made by this section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Pub. L. 109–280, title V, §506(c), Aug. 17, 2006, 120 Stat. 948, provided that:
 
@@ -570,7 +570,7 @@ Terminations for which sufficiency notices have not been issued.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporationbefore the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
+In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 

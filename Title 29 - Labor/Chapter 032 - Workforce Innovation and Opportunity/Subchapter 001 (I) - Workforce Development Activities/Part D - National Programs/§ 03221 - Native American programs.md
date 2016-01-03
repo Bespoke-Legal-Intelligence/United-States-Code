@@ -206,7 +206,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 &emsp;&emsp;(F) $542,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, §166, July 22, 2014, 128 Stat. 1560.)
+(Pub. L. 113–128, title I, §166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, §9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192.)
 
 #### References in Text
 
@@ -220,7 +220,15 @@ This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 12
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i)(4)(G), is section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of title 20.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

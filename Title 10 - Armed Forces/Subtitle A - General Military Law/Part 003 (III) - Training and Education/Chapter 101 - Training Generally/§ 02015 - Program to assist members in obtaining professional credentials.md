@@ -16,6 +16,26 @@ Payment of Expenses.—(1) Under the program required by this section, the Secre
 
 (c)
 
+Quality Assurance of Certification Programs and Standards.—(1) Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) is accredited by an accreditation body that meets the requirements specified in paragraph (2).
+
+(2) The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+
+&emsp;(A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+
+&emsp;(B) meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+
+&emsp;(C) apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+
+&emsp;(D) conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+
+&emsp;(E) have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
+
+&emsp;(F) conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
+
+&emsp;(G) meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities.
+
+(d)
+
 Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
 
 (2) The regulations shall apply uniformly to the armed forces to the extent practicable.
@@ -30,13 +50,19 @@ Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Securi
 
 &emsp;(D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
 
-(d)
+(e)
 
 Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376.)
+(Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (c) to (e). Pub. L. 114–92 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
@@ -72,7 +98,7 @@ Types of information.—The information made available under paragraph (1) shall
 
 &emsp;"(4)
 
-Use and adaptation of certain programs.—In making information available under paragraph (1),the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force.
+Use and adaptation of certain programs.—In making information available under paragraph (1), the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force.
 
 "(b)
 

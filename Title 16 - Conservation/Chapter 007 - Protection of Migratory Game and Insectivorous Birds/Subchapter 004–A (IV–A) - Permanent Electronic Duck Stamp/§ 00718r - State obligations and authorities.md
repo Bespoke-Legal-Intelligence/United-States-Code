@@ -22,7 +22,7 @@ The Secretary shall require that each individual to whom a State sells an electr
 
 #### (2) Time of transmittal
 
-&emsp;The Secretary shall require the submission under paragraph (1) to be made with respect tosales of electronic stamps by a State according to the written agreement between the Secretary and the State agency.
+&emsp;The Secretary shall require the submission under paragraph (1) to be made with respect to sales of electronic stamps by a State according to the written agreement between the Secretary and the State agency.
 
 #### (3) Additional fees not affected
 

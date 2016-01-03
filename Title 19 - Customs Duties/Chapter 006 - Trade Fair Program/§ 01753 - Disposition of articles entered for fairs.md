@@ -10,7 +10,7 @@ At any time before, or within 3 months after, the closing date of any fair, any 
 
 #### (b) Disposition without payment of duties or taxes
 
-At any time before, or within 3 months after, the closing date of any fair, any article entered for such fair under section 1752 of this title may, without the payment of any duties or internal-revenue taxes, be—
+At any time before, or within 3 months after, the closing date of any fair, any article enteredfor such fair under section 1752 of this title may, without the payment of any duties or internal-revenue taxes, be—
 
 &emsp;(1) exported,
 
@@ -26,7 +26,7 @@ If any article entered under section 1752 of this title is still in customs cust
 
 #### (d) Period for performance of certain acts
 
-Whenever any article entered under section 1752 of this title is transferred pursuant to subsection (b)(2) of this section or entered under subsection (a) of this section, the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
+Whenever any article entered under section 1752 of this title is transferred pursuant to subsection (b)(2) or entered under subsection (a), the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
 
 (Pub. L. 86–14, §4, Apr. 22, 1959, 73 Stat. 18.)
 

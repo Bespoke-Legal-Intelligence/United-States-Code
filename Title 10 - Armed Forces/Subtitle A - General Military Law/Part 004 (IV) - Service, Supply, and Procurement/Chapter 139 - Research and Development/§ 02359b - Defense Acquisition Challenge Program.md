@@ -112,7 +112,7 @@ Qualifying proposals.—For purposes of this subsection, a qualifying proposal i
 
 &emsp;(3)
 
-Review procedures.—The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
+Review procedures.—The Under Secretary shall adopt modifications as may beneeded to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
 
 &emsp;(4)
 

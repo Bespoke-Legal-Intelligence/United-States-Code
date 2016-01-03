@@ -32,7 +32,7 @@ The term "antique firearm" means any firearm not designed or redesigned for usin
 
 #### (h) Unserviceable firearm
 
-The term "unserviceable firearm" means a firearm which is incapable of discharging a shotby means of an explosive and incapable of being readily restored to a firing condition.
+The term "unserviceable firearm" means a firearm which is incapable of discharging a shot by means of an explosive and incapable of being readily restored to a firing condition.
 
 #### (i) Make
 

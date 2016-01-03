@@ -74,7 +74,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 &emsp;The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
 
-(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, §891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, §8244, May 25, 2007, 121 Stat.200; Pub. L. 113–295, div. B, title II, §206(f), Dec. 19, 2014, 128 Stat. 4071.)
+(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, §891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, §8244, May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. B, title II, §206(f), Dec. 19, 2014, 128 Stat. 4071.)
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: "The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: "The amendment made bythis section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2003 Amendment
 

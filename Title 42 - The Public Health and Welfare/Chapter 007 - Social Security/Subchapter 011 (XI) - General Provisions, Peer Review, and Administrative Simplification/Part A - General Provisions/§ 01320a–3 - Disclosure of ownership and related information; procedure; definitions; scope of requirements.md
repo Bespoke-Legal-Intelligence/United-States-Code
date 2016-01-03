@@ -42,7 +42,7 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 &emsp;&emsp;(B) beginning on the effective date of the final regulations promulgated under paragraph (3)(A), for reporting such information in accordance with such final regulations.
 
-> &emsp;Nothing in subparagraph (A) shall be construed as authorizing a facility to dispose of or delete information described in such subparagraph after the effective date of the final regulations promulgated under paragraph (3)(A).
+> &emsp;Nothing in subparagraph (A) shall be construed as authorizing a facility to dispose of ordelete information described in such subparagraph after the effective date of the final regulations promulgated under paragraph (3)(A).
 
 #### (2) Information described
 

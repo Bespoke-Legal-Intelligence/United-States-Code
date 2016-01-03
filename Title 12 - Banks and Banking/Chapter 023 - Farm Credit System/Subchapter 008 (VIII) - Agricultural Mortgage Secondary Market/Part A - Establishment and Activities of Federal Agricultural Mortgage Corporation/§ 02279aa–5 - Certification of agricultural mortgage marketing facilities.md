@@ -4,7 +4,7 @@
 
 #### (1) Establishment required
 
-&emsp;Within 120 days after the date on which the permanent board first meets with a quorumpresent, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities (other than the Corporation), including eligibility standards in accordance with paragraph (2).
+&emsp;Within 120 days after the date on which the permanent board first meets with a quorum present, the Corporation shall issue standards for the certification of agricultural mortgage marketing facilities (other than the Corporation), including eligibility standards in accordance with paragraph (2).
 
 #### (2) Minimum requirements
 
@@ -30,7 +30,7 @@
 
 #### (b) Certification by Corporation
 
-Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1) of this section.
+Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1).
 
 #### (c) Maximum time period for certification
 
@@ -40,7 +40,7 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### (1) In general
 
-&emsp;After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a) of this section.
+&emsp;After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a).
 
 #### (2) Effect of revocation
 
@@ -50,7 +50,7 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### (1) Establishment of affiliate authorized
 
-&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) as a certified facility.
 
 #### (2) Exclusive agency agreement authorized
 

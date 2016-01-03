@@ -68,7 +68,7 @@ The requirements of subparts 1 and 2 <sup>1</sup> shall not apply to any indivi
 
 #### (3) Supplemental excepted benefits
 
-&emsp;The requirements of this part shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(4) <sup>1</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
+&emsp;The requirements of this part shall not apply to any individual coverage or any group health plan (and group health insurance coverage) in relation to its provision of exceptedbenefits described in section 300gg–91(c)(4) <sup>1</sup> of this title if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
 #### (d) Treatment of partnerships
 
@@ -108,7 +108,7 @@ subpart 2—other requirements" (preceding section 300gg–4 of this title), and
 
 exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title).
 
-Section 2701, referred to in subsec. (a)(2)(C)(ii), (D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title,was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (a)(2)(C)(ii), (D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 Section 2702, referred to in subsec. (a)(2)(D), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
@@ -138,7 +138,7 @@ Subsec. (b)(2)(E). Pub. L. 111–148, §10107(a), substituted "subparts I and II
 
 Pub. L. 111–148, §1563(a)(2)(B)(iii), formerly §1562(a)(2)(B)(iii), as renumbered by Pub. L. 111–148, §10107(b)(1), added subpar. (E).
 
-Subsec. (c). Pub. L. 111–148, §1563(c)(12)(C), formerly §1562(c)(12)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 111–148, §1563(c)(12)(C), formerly §1562(c)(12)(C), as renumbered by Pub. L. 111–148,§10107(b)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
 Pub. L. 111–148, §1563(a)(3), formerly §1562(a)(3), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "subparts 1 and 2 shall not apply to any individual coverage or any group" for "subparts 1 through 3 shall not apply to any group".
 

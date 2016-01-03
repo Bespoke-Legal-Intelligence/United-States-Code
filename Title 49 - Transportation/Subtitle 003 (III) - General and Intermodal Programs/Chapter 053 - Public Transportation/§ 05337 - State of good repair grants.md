@@ -74,7 +74,7 @@ High Intensity Fixed Guideway State of Good Repair Formula.—
 
 &emsp;(1)
 
-In general.—Of the amount authorized or made available under section 5338(a)(2)(I), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
+In general.—Of the amount authorized or made available under section 5338(a)(2)(K), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ In general.—50 percent of the amount described in paragraph (1) shall be appor
 
 &emsp;&emsp;(B)
 
-Share.—A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with section 5336(b)(1) and using the definition of the term "fixed guideway" under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
+Share.—A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with the provisions of section 5336(b)(1) and using the definition of the term "fixed guideway" under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
 
 &emsp;&emsp;(C)
 
@@ -134,7 +134,7 @@ In general.—Except as provided in subparagraph (B), for an area with a fixed g
 
 &emsp;&emsp;(B)
 
-Exception.—An area described in the amendment made by section 3028(a) of theTransportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366) shall receive an individual apportionment under this subsection.
+Exception.—An area described in the amendment made by section 3028(a) of the Transportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366) shall receive an individual apportionment under this subsection.
 
 &emsp;(7)
 
@@ -150,7 +150,7 @@ Definition.—For purposes of this subsection, the term "high intensity motorbus
 
 &emsp;(2)
 
-Apportionment.—Of the amount authorized or made available under section 5338(a)(2)(I), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus state of good repair in accordance with this subsection.
+Apportionment.—Of the amount authorized or made available under section 5338(a)(2)(K), 2.85 percent shall be apportionedto urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
 
 &emsp;(3)
 
@@ -172,7 +172,29 @@ Directional route miles.—Each area shall receive an amount equal to 40 percent
 
 Apportionment requirements.—For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985.)
+&emsp;(5)
+
+Use of funds.—Amounts apportioned under this subsection may be used for any project that is an eligible project under subsection (b)(1).
+
+(e)
+
+Government Share of Costs.—
+
+&emsp;(1)
+
+Capital projects.—A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
+
+&emsp;(2)
+
+Remaining costs.—The remainder of the net project cost shall be provided—
+
+&emsp;&emsp;(A) in cash from non-Government sources;
+
+&emsp;&emsp;(B) from revenues derived from the sale of advertising and concessions; or
+
+&emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121; Pub. L. 109–59, title III, §3035(a), Aug. 10, 2005, 119 Stat. 1629; Pub. L. 110–244, title II, §201(m), June 6, 2008, 122 Stat. 1611; Pub. L. 111–147, title IV, §435, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2305, Dec. 22, 2010, 124 Stat. 3528; Pub. L. 112–5, title III, §305, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §135, Sept. 16, 2011, 125 Stat. 352; Pub. L. 112–102, title III, §305, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §305, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20027, div. G, title III, §113005, July 6, 2012, 126 Stat. 723, 985; Pub. L. 114–94, div. A, title III, §3015, Dec. 4, 2015, 129 Stat. 1478.)
 
 Historical and Revision Notes
 
@@ -224,6 +246,16 @@ Section 3028(a) of the Transportation Equity Act for the 21st Century (Public La
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–94, §3015(b)(1), substituted "5338(a)(2)(K)" for "5338(a)(2)(I)".
+
+Subsec. (c)(2)(B). Pub. L. 114–94, §3015(a)(1), inserted "the provisions of" before "section 5336(b)(1)".
+
+Subsec. (d)(2). Pub. L. 114–94, §3015(a)(2)(A), (b)(2), substituted "5338(a)(2)(K)" for "5338(a)(2)(I)" and inserted "vehicle" after "motorbus".
+
+Subsec. (d)(5). Pub. L. 114–94, §3015(a)(2)(B), added par. (5).
+
+Subsec. (e). Pub. L. 114–94, §3015(a)(3), added subsec. (e).
+
 <b>2012</b>—Pub. L. 112–141, §20027, amended section generally. Prior to amendment, section related to apportionment based on fixed guideway factors.
 
 Subsec. (g). Pub. L. 112–141, §113005, struck out subsec. (g). Text read as follows: "The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on June 30, 2012, in accordance with subsection (a), except that the Secretary shall apportion 75 percent of each dollar amount specified in subsection (a)."
@@ -267,6 +299,10 @@ Subsec. (e)(1). Pub. L. 105–178, §3029(b)(12), which directed substitution of
 Subsec. (e). Pub. L. 102–240, §3049(b)(2), as added by Pub. L. 105–130, added subsec. (e).
 
 <b>1994</b>—Subsec. (a)(4). Pub. L. 103–429 substituted "section 5336(b)(2)(A) of this title" for "section 5336(B)(2)(A)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective and Termination Dates of 2012 Amendment
 

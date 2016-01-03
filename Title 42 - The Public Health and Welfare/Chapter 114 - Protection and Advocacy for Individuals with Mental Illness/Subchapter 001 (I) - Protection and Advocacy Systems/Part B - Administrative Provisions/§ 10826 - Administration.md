@@ -8,7 +8,7 @@ The Secretary shall carry out this subchapter through the Administrator of the S
 
 Not later than 6 months after November 27, 1991, the Secretary shall promulgate final regulations to carry out this subchapter and subchapter III of this chapter.
 
-(Pub. L. 99–319, title I, §116, May 23, 1986, 100 Stat. 485; Pub. L. 102–173, §9, Nov. 27, 1991, 105 Stat. 1219; Pub. L. 102–321, title I, §163(c)(3)(B), July 10, 1992, 106 Stat. 377.)
+(Pub. L. 99–319, title I, §116, May 23, 1986, 100 Stat. 485; Pub. L. 102–173, §9, Nov. 27, 1991, 105Stat. 1219; Pub. L. 102–321, title I, §163(c)(3)(B), July 10, 1992, 106 Stat. 377.)
 
 #### Amendments
 

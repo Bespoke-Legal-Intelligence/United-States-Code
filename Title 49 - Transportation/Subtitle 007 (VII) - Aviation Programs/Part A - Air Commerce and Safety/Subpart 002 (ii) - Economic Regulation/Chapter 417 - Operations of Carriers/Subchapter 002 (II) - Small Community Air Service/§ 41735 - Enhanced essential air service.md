@@ -2,7 +2,7 @@
 
 (a)
 
-Proposals.—(1) A State or local government may submit a proposal to the Secretary ofTransportation for enhanced essential air service to an eligible place for which basic essential air service is being provided under section 41733 of this title. The proposal shall—
+Proposals.—(1) A State or local government may submit a proposal to the Secretary of Transportation for enhanced essential air service to an eligible place for which basic essential air service is being provided under section 41733 of this title. The proposal shall—
 
 &emsp;(A) specify the level and type of enhanced essential air service the State or local government considers appropriate; and
 

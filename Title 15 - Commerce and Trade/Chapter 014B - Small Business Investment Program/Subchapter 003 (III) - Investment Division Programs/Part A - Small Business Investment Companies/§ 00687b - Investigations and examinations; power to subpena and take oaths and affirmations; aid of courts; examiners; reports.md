@@ -34,7 +34,7 @@ Each small business investment company shall be examined at least every two year
 
 #### (A) In general
 
-&emsp;&emsp;Each licensee shall submit to the Administrator a written valuation of the loans andinvestments of the licensee not less often than semiannually or otherwise upon the request of the Administrator, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise.
+&emsp;&emsp;Each licensee shall submit to the Administrator a written valuation of the loans and investments of the licensee not less often than semiannually or otherwise upon the request of the Administrator, except that any licensee with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise.
 
 #### (B) Material adverse changes
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
 #### Transfer of Resources
 

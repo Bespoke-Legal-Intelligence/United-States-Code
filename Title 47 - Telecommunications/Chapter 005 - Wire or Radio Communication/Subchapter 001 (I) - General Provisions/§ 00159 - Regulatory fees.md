@@ -78,7 +78,7 @@ Moneys received from fees established under this section shall be deposited as a
 
 #### (g) Schedule
 
-Until amended by the Commission pursuant to subsection (b) of this section, the Schedule of Regulatory Fees which the Federal Communications Commission shall, subject to subsection (a)(2) of this section, assess and collect shall be as follows:
+Until amended by the Commission pursuant to subsection (b) of this section, the Schedule ofRegulatory Fees which the Federal Communications Commission shall, subject to subsection (a)(2) of this section, assess and collect shall be as follows:
 
 Schedule of Regulatory Fees
 

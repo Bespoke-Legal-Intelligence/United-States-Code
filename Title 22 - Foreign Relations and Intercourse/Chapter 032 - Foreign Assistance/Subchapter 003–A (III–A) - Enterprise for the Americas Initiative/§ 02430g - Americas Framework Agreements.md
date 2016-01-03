@@ -24,7 +24,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 #### (1) In general
 
-&emsp;Funds disbursed from the Americas Fund in each beneficiary country shall be administered by a body constituted under the laws of that country.
+&emsp;Funds disbursed from the Americas Fund in each beneficiary country shall be administeredby a body constituted under the laws of that country.
 
 #### (2) Composition
 

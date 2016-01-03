@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [2545\.](%C2%A7%2002545%20-%20Definitions.md) | Definitions. |
 | [2546\.](%C2%A7%2002546%20-%20Civilian%20management%20of%20the%20defense%20acquisition%20system.md) | Civilian management of the defense acquisition system. |
+| [2546a.](%C2%A7%2002546a%20-%20Customer-oriented%20acquisition%20system.md) | Customer-oriented acquisition system. |
 | [2547\.](%C2%A7%2002547%20-%20Acquisition-related%20functions%20of%20chiefs%20of%20the%20armed%20forces.md) | Acquisition-related functions of chiefs of the armed forces. |
 | [2548\.](%C2%A7%2002548%20-%20Performance%20assessments%20of%20the%20defense%20acquisition%20system.md) | Performance assessments of the defense acquisition system. |
 
@@ -19,6 +20,10 @@ A prior chapter 150, comprised of sections 2521 to 2526, relating to development
 
 Another prior chapter 150, comprised of section 2521, was renumbered chapter 152 of this title, comprised of section 2540 et seq.
 
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §802(a)(2), Nov. 25, 2015, 129 Stat. 879, added item 2546a.
+
 
 ---
 
@@ -26,5 +31,6 @@ Another prior chapter 150, comprised of section 2521, was renumbered chapter 152
 
 - [&sect; 02545 - Definitions](%C2%A7%2002545%20-%20Definitions.md)
 - [&sect; 02546 - Civilian management of the defense acquisition system](%C2%A7%2002546%20-%20Civilian%20management%20of%20the%20defense%20acquisition%20system.md)
+- [&sect; 02546a - Customer-oriented acquisition system](%C2%A7%2002546a%20-%20Customer-oriented%20acquisition%20system.md)
 - [&sect; 02547 - Acquisition-related functions of chiefs of the armed forces](%C2%A7%2002547%20-%20Acquisition-related%20functions%20of%20chiefs%20of%20the%20armed%20forces.md)
 - [&sect; 02548 - Performance assessments of the defense acquisition system](%C2%A7%2002548%20-%20Performance%20assessments%20of%20the%20defense%20acquisition%20system.md)

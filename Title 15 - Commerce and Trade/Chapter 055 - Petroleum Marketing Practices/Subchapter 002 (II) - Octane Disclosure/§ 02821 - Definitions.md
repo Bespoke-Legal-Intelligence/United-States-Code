@@ -64,7 +64,7 @@ The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 191
 
 #### Codification
 
-October 24, 1992, referred to in par. (18)(B), was in the original "the date of the enactment of this Act" and"such date", which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
+October 24, 1992, referred to in par. (18)(B), was in the original "the date of the enactment of this Act" and "such date", which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
 
 #### Amendments
 

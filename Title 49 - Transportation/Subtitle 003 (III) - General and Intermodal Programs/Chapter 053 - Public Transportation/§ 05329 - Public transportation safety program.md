@@ -28,9 +28,25 @@ Contents of plan.—The national public transportation safety plan under paragra
 
 &emsp;&emsp;&emsp;&emsp;(I) relevant recommendations of the National Transportation Safety Board; and
 
-&emsp;&emsp;&emsp;&emsp;(II) recommendations of, and best practices standards developed by, the public transportation industry; and
+&emsp;&emsp;&emsp;&emsp;(II) recommendations of, and best practices standards developed by, the public transportation industry;
 
-&emsp;&emsp;(D) a public transportation safety certification training program, as described in subsection (c).
+&emsp;&emsp;(D) minimum safety standards to ensure the safe operation of public transportation systems that—
+
+&emsp;&emsp;&emsp;(i) are not related to performance standards for public transportation vehicles developed under subparagraph (C); and
+
+&emsp;&emsp;&emsp;(ii) to the extent practicable, take into consideration—
+
+&emsp;&emsp;&emsp;&emsp;(I) relevant recommendations of the National Transportation Safety Board;
+
+&emsp;&emsp;&emsp;&emsp;(II) best practices standards developed by the public transportation industry;
+
+&emsp;&emsp;&emsp;&emsp;(III) any minimum safety standards or performance criteria being implemented across the public transportation industry;
+
+&emsp;&emsp;&emsp;&emsp;(IV) relevant recommendations from the report under section 3020 of the Federal Public Transportation Act of 2015; and
+
+&emsp;&emsp;&emsp;&emsp;(V) any additional information that the Secretary determines necessary and appropriate; and
+
+&emsp;&emsp;(E) a public transportation safety certification training program, as described in subsection (c).
 
 (c)
 
@@ -236,9 +252,39 @@ Failure to correct.—If the Secretary determines that a modification by an elig
 
 &emsp;&emsp;&emsp;&emsp;(II) withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title, until the State safety oversight program has been certified; or
 
-&emsp;&emsp;&emsp;&emsp;(III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only for safety-related improvements on such systems, until the State safety oversight program has been certified.
+&emsp;&emsp;&emsp;&emsp;(III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only forsafety-related improvements on such systems, until the State safety oversight program has been certified.
 
 &emsp;(8)
+
+Federal safety management.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Secretary determines that a State safety oversight program is not being carried out in accordance with this section, has become inadequate to ensure the enforcement of Federal safety regulation, or is incapable of providing adequate safety oversight consistent with the prevention of substantial risk of death, or personal injury, the Secretary shall administer the State safety oversight program until the eligible State develops a State safety oversight program certified by the Secretary in accordance with this subsection.
+
+&emsp;&emsp;(B)
+
+Temporary federal oversight.—In making a determination under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) transmit to the eligible State and affected recipient or recipients, a written explanation of the determination or subsequent finding, including any intention to withhold funding under this section, the amount of funds proposed to be withheld, and if applicable, a formal notice of a withdrawal of State safety oversight program approval; and
+
+&emsp;&emsp;&emsp;(ii) require the State to submit a State safety oversight program or modification for certification by the Secretary that meets the requirements of this subsection.
+
+&emsp;&emsp;(C)
+
+Failure to correct.—If the Secretary determines in accordance with subparagraph (A), that a State safety oversight program or modification required pursuant to subparagraph (B)(ii), submitted by a State is not sufficient, the Secretary may—
+
+&emsp;&emsp;&emsp;(i) withhold funds available under paragraph (6) in an amount determined by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) beginning 1 year after the date of the determination, withhold not more than 5 percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
+
+&emsp;&emsp;&emsp;(iii) use any other authorities authorized under this chapter considered necessary and appropriate.
+
+&emsp;&emsp;(D)
+
+Administrative and oversight activities.—To carry out administrative and oversight activities authorized by this paragraph, the Secretary may use grant funds apportioned to an eligible State, under paragraph (6), to develop or carry out a State safety oversight program.
+
+&emsp;(9)
 
 Evaluation of program and annual report.—The Secretary shall continually evaluate the implementation of a State safety oversight program by a State safety oversight agency, and shall submit on or before July 1 of each year to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
@@ -246,7 +292,7 @@ Evaluation of program and annual report.—The Secretary shall continually evalu
 
 &emsp;&emsp;(B) the certification status of each State safety oversight program, including what steps a State program that has been denied certification must take in order to be certified.
 
-&emsp;(9)
+&emsp;(10)
 
 Federal oversight.—The Secretary shall—
 
@@ -262,7 +308,7 @@ Authority of Secretary.—In carrying out this section, the Secretary may—
 
 &emsp;(1) conduct inspections, investigations, audits, examinations, and testing of the equipment, facilities, rolling stock, and operations of the public transportation system of a recipient;
 
-&emsp;(2) make reports and issue directives with respect to the safety of the public transportation system of a recipient;
+&emsp;(2) make reports and issue directives with respect to the safety of the public transportation system of a recipient or the public transportation industry generally;
 
 &emsp;(3) in conjunction with an accident investigation or an investigation into a pattern or practice of conduct that negatively affects public safety, issue a subpoena to, and take the deposition of, any employee of a recipient or a State safety oversight agency, if—
 
@@ -288,15 +334,17 @@ Enforcement Actions.—
 
 &emsp;(1)
 
-Types of enforcement actions.—The Secretary may take enforcement action against an eligible State, as defined in subsection (e), that does not comply with Federal law with respect to the safety of the public transportation system, including—
+Types of enforcement actions.—The Secretary may take enforcement action against a recipient that does not comply with Federal law with respect to the safety of the public transportation system, including—
 
 &emsp;&emsp;(A) issuing directives;
 
 &emsp;&emsp;(B) requiring more frequent oversight of the recipient by a State safety oversight agency or the Secretary;
 
-&emsp;&emsp;(C) imposing more frequent reporting requirements; and
+&emsp;&emsp;(C) imposing more frequent reporting requirements;
 
-&emsp;&emsp;(D) requiring that any Federal financial assistance provided under this chapter be spent on correcting safety deficiencies identified by the Secretary or the State safety oversight agency before such funds are spent on other projects.
+&emsp;&emsp;(D) requiring that any Federal financial assistance provided under this chapter be spent on correcting safety deficiencies identified by the Secretary or the State safety oversight agency before such funds are spent on other projects; and
+
+&emsp;&emsp;(E) withholding not more than 25 percent of financial assistance under section 5307.
 
 &emsp;(2)
 
@@ -304,7 +352,7 @@ Use or withholding of funds.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may require the use of funds in accordance withparagraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
+In general.—The Secretary may require the use of funds or withhold funds in accordance with paragraph (1)(D) or (1)(E) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
 
 &emsp;&emsp;(B)
 
@@ -316,15 +364,19 @@ Notice.—Before withholding funds from a recipient, the Secretary shall provide
 
 (h)
 
-Cost-benefit Analysis.—
+Restrictions and Prohibitions.—
 
 &emsp;(1)
 
-Analysis required.—In carrying out this section, the Secretary shall take into consideration the costs and benefits of each action the Secretary proposes to take under this section.
+Restrictions and prohibitions.—The Secretary shall issue restrictions and prohibitions by whatever means are determined necessary and appropriate, without regard to section 5334(c), if, through testing, inspection, investigation, audit, or research carried out under this chapter, the Secretary determines that an unsafe condition or practice, or a combination of unsafe conditions and practices, exist such that there is a substantial risk of death or personal injury.
 
 &emsp;(2)
 
-Waiver.—The Secretary may waive the requirement under this subsection if the Secretary determines that such a waiver is in the public interest.
+Notice.—The notice of restriction or prohibition shall describe the condition or practice, the subsequent risk and the standards and procedures required to address the restriction or prohibition.
+
+&emsp;(3)
+
+Continued authority.—Nothing in this subsection shall be construed as limiting the Secretary's authority to maintain a restriction or prohibition for as long as is necessary to ensure that the risk has been substantially addressed.
 
 (i)
 
@@ -358,7 +410,7 @@ National Public Transportation Safety Report.—Not later than 3 years after the
 
 &emsp;(2) describes the effect on public transportation safety of activities carried out using grants under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 830; Pub. L. 109–59, title III, §3028(a), Aug. 10, 2005, 119 Stat. 1624; Pub. L. 112–141, div. B, §20021(a), July 6, 2012, 126 Stat. 709; Pub. L. 114–94, div. A, title III, §3013, Dec. 4, 2015, 129 Stat. 1476.)
 
 Historical and Revision Notes
 
@@ -388,15 +440,61 @@ In subsection (b)(1) and (2), the words "a description of" are added for clarity
 
 #### References in Text
 
+Section 3020 of the Federal Public Transportation Act of 2015, referred to in subsec. (b)(2)(D)(ii)(IV), is section 3020 of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1491, which is not classified to the Code.
+
 The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (c)(2), (d)(2), (3)(B), (e)(7)(A), (j)(2), and (k), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(D), (E). Pub. L. 114–94, §3013(1), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (e)(8) to (10). Pub. L. 114–94, §3013(2), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+
+Subsec. (f)(2). Pub. L. 114–94, §3013(3), which directed insertion of "or the public transportation industry generally" after "recipients", was executed by making the insertion after "recipient", to reflect the probable intent of Congress.
+
+Subsec. (g)(1). Pub. L. 114–94, §3013(4)(A), substituted "a recipient" for "an eligible State, as defined in subsection (e)," in introductory provisions.
+
+Subsec. (g)(1)(E). Pub. L. 114–94, §3013(4)(B)–(D), added subpar. (E).
+
+Subsec. (g)(2)(A). Pub. L. 114–94, §3013(5), inserted "or withhold funds" after "use of funds" and "or (1)(E)" after "paragraph (1)(D)".
+
+Subsec. (h). Pub. L. 114–94, §3013(6), added subsec. (h) and struck out former subsec. (h), which related to cost-benefit analysis.
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to investigations of safety hazards and security risks.
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to investigations of safety hazards and security risks for provisions relating to investigation of safety hazards.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Improved Public Transportation Safety Measures
+
+Pub. L. 114–94, div. A, title III, §3022, Dec. 4, 2015, 129 Stat. 1493, provided that:
+
+"(a)
+
+Requirements.—Not later than 90 days after publication of the report required in section 3020, the Secretary \[of Transportation\] shall issue a notice of proposed rulemaking on protecting public transportation operators from the risk of assault.
+
+"(b)
+
+Consideration.—In the proposed rulemaking, the Secretary shall consider—
+
+&emsp;"(1) different safety needs of drivers of different modes;
+
+&emsp;"(2) differences in operating environments;
+
+&emsp;"(3) the use of technology to mitigate driver assault risks;
+
+&emsp;"(4) existing experience, from both agencies and operators that already are using or testing driver assault mitigation infrastructure; and
+
+&emsp;"(5) the impact of the rule on future rolling stock procurements and vehicles currently in revenue service.
+
+"(c)
+
+Savings Clause.—Nothing in this section may be construed as prohibiting the Secretary from issuing different comprehensive worker protections, including standards for mitigating assaults."
 

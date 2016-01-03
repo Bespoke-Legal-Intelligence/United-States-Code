@@ -30,7 +30,7 @@ multinational species conservation fund" \[16 U.S.C. 4246\];
 
 &emsp;&emsp;(D) any other entity subject to the jurisdiction of the United States.
 
-(Pub. L. 103–391, §4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, §404, Oct. 30, 1998, 112Stat. 2960; Pub. L. 107–112, §6(a)(1), Jan. 8, 2002, 115 Stat. 2098.)
+(Pub. L. 103–391, §4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, §404, Oct. 30, 1998, 112 Stat. 2960; Pub. L. 107–112, §6(a)(1), Jan. 8, 2002, 115 Stat. 2098.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ multinational species conservation fund" in Pub. L. 105–277, §101(e) \[title 
 
 #### Amendments
 
-<b>2002</b>—Par. (3). Pub. L. 107–112 substituted "the account established by division A, section 101(e), title I of Public Law 105–277 under the heading '
+<b>2002</b>—Par. (3). Pub. L. 107–112 substituted "the account established by division A, section 101(e), title I ofPublic Law 105–277 under the heading '
 
 multinational species conservation fund' " for "Rhinoceros and Tiger Conservation Fund established under section 5305(a) of this title".
 

@@ -30,7 +30,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### 1949 Act
 
-This section \[section 46\] inserts the words, "Air Force," in subsection (b) of section 2387 of title 18, U.S.C., in view of the establishment in 1947 of this separate branch of the armed services.
+This section \[section 46\] inserts the words, "Air Force," in subsection (b) of section 2387 of title 18,U.S.C., in view of the establishment in 1947 of this separate branch of the armed services.
 
 #### Amendments
 

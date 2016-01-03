@@ -21,11 +21,13 @@
 | [1012\.](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md) | Disbursement and accounting: pay of enlisted members of the National Guard. |
 | [1013\.](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md) | Payment of compensation for victims of terrorism. |
 | [1014\.](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md) | Payment date for pay and allowances. |
-| \[1015. | Repealed.\] |
+| [1015\.](%C2%A7%2001015%20-%20Recordation%20of%20installment%20payment%20obligations%20for%20incentive%20pays%20and%20similar%20benefits.md) | Recordation of installment payment obligations for incentive pays and similar benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VI, §662(b), Nov. 25, 2015, 129 Stat. 859, added item 1015.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title X, §1046(b)(2), Oct. 17, 2006, 120 Stat. 2394, struck out item 1015 "Annual report on effects of recruitment and retention initiatives".
 
@@ -72,4 +74,4 @@ Pub. L. 99–399, title VIII, §806(e)(2), Aug. 27, 1986, 100 Stat. 889, added i
 - [&sect; 01012 - Disbursement and accounting pay of enlisted members of the National Guard](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md)
 - [&sect; 01013 - Payment of compensation for victims of terrorism](%C2%A7%2001013%20-%20Payment%20of%20compensation%20for%20victims%20of%20terrorism.md)
 - [&sect; 01014 - Payment date for pay and allowances](%C2%A7%2001014%20-%20Payment%20date%20for%20pay%20and%20allowances.md)
-- [&sect; 01015 - Repealed. Pub. L. 109&#8211;364, div. A, title X, &sect;1046(b)(1), Oct. 17, 2006, 120 Stat. 2393](%C2%A7%2001015%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71046%28b%29%281%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202393.md)
+- [&sect; 01015 - Recordation of installment payment obligations for incentive pays and similar benefits](%C2%A7%2001015%20-%20Recordation%20of%20installment%20payment%20obligations%20for%20incentive%20pays%20and%20similar%20benefits.md)

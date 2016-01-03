@@ -6,7 +6,7 @@ The Congress finds—
 
 &emsp;(2) the process of transferring or diverting chronically mentally ill individuals from unwarranted or inappropriate institutionalized settings to their home communities has frequently not been accompanied by a process of providing those individuals with the mental health and support services they need in community-based settings;
 
-&emsp;(3) the shift in emphasis from institutional care to community-based care has not alwaysbeen accompanied by a process of affording training, retraining, and job placement for employees affected by institutional closure and conversion;
+&emsp;(3) the shift in emphasis from institutional care to community-based care has not always been accompanied by a process of affording training, retraining, and job placement for employees affected by institutional closure and conversion;
 
 &emsp;(4) the delivery of mental health and support services is typically uncoordinated within and among local, State, and Federal entities;
 
@@ -24,5 +24,5 @@ The Congress finds—
 
 #### Short Title
 
-Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: "This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1, and 2689b of this title\] may be cited as the 'Mental Health Systems Act'."
+Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: "This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1,and 2689b of this title\] may be cited as the 'Mental Health Systems Act'."
 

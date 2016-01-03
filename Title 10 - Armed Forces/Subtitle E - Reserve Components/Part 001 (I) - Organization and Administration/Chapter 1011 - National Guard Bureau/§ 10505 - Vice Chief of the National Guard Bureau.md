@@ -32,7 +32,7 @@ Grade and Exclusion From General and Flag Officer Authorized Strength.—(1) The
 
 (2) The Secretary of Defense shall designate, pursuant to subsection (b) of section 526 of this title, the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
-(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L.108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393.)
+(Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393.)
 
 #### Amendments
 

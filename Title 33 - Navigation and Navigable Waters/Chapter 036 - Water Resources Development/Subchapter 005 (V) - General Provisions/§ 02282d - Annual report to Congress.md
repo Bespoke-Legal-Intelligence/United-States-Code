@@ -60,7 +60,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (i) Description
 
-&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources developmentproject or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposed modification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
+&emsp;&emsp;&emsp;The Secretary shall describe in the annual report, to the extent applicable and practicable, for each proposed feasibility study and proposed modification to an authorized water resources development project or feasibility study included in the annual report, the benefits, as described in clause (ii), of each such study or proposed modification (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study).
 
 #### (ii) Benefits
 
@@ -154,7 +154,7 @@ Notwithstanding any other deadlines required by this section, the Secretary shal
 
 &emsp;(1) not later than 60 days after June 10, 2014, publish in the Federal Register a notice required by subsection (b)(1); and
 
-&emsp;(2) include in such notice a requirement that non-Federal interests submit to the Secretary any proposals described in subsection (b)(1) by not later than 120 days after the date of publication of such notice in the Federal Register in order for such proposals to be considered forinclusion in the first annual report developed by the Secretary under this section.
+&emsp;(2) include in such notice a requirement that non-Federal interests submit to the Secretary any proposals described in subsection (b)(1) by not later than 120 days after the date of publication of such notice in the Federal Register in order for such proposals to be considered for inclusion in the first annual report developed by the Secretary under this section.
 
 #### (e) Publication
 

@@ -20,7 +20,7 @@ The sums reserved by the Secretary on the basis of a determination made under su
 
 #### (d) Plan
 
-In order for an Indian tribe or tribal organization to be eligible for a grant award for a fiscal year under this section, the tribe or organization shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe by regulation.
+In order for an Indian tribe or tribal organization to be eligible for a grant award for a fiscalyear under this section, the tribe or organization shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe by regulation.
 
 #### (e) Definitions
 

@@ -50,7 +50,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(C) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
 
-&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the areaunder the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
+&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) are determined by the head of the agency to be hazardous duties; or
 
@@ -78,7 +78,7 @@ A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is clas
 
 <b>2013</b>—Par. (1). Pub. L. 112–239, §1086(b)(1)(E)(i), substituted "an injury, the direct and proximate consequences of which" for "consequences of an injury that".
 
-Par. (3). Pub. L. 112–239, §1086(b)(1)(E)(ii), inserted "or permanently and totally disabled" after "deceased" and substituted "fatal or catastrophic injury" for "death" in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Par. (3). Pub. L. 112–239, §1086(b)(1)(E)(ii), inserted "or permanently and totally disabled" after "deceased"and substituted "fatal or catastrophic injury" for "death" in introductory provisions and redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
 Par. (5). Pub. L. 112–239, §1086(b)(1)(E)(iii)(II), (III), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and, in subpar. (B), substituted "fatal or catastrophic injury" for "death".
 
@@ -122,7 +122,7 @@ Pars. (3) to (7). Pub. L. 101–647, §1301(c)(1), redesignated pars. (2) to (6)
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 3791 of this title.
 
 #### Effective Date of 2002 Amendment
 

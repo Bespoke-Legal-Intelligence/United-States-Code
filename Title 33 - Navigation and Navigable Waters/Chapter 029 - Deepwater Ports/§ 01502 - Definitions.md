@@ -8,7 +8,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(3) "application" means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
 
-&emsp;(4) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holderof a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
+&emsp;(4) "citizen of the United States" means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
 
 &emsp;(5) "coastal environment" means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
@@ -44,7 +44,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(17) "Secretary" means the Secretary of Transportation;
 
-&emsp;(18) "State" includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+&emsp;(18) "State" includes each of the States of the United States, the District of Columbia,the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
 
 &emsp;(19) "vessel" means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 

@@ -116,7 +116,7 @@ Pub. L. 107–195, §6, June 19, 2002, 116 Stat. 717, provided that:
 
 "(a)
 
-Interference Waivers.—In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels 2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
+Interference Waivers.—In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
 
 &emsp;"(1) the spacing requirements provided for analog broadcasting licensees within channels 2–51 as required by section 73.610 of the Commission's rules (and the table contained therein) (47 CFR 73.610), or
 

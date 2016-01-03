@@ -6,7 +6,7 @@ The Secretary, through the Service, shall develop procedures to evaluate complia
 
 #### (b) Annual onsite evaluation
 
-The Secretary, through the Service, shall conduct an annual onsite evaluation of each urban Indian organization which has entered into a contract or received a grant under section 1653 of this title for purposes of determining the compliance of such organization with, and evaluating the performance of such organization under, such contract or the terms of such grant.
+The Secretary, through the Service, shall conduct an annual onsite evaluation of each urban Indian organization which has entered into a contract or received a grant under section 1653 of this title for purposes of determining thecompliance of such organization with, and evaluating the performance of such organization under, such contract or the terms of such grant.
 
 #### (c) Noncompliance or unsatisfactory performance
 
@@ -14,7 +14,7 @@ If, as a result of the evaluations conducted under this section, the Secretary d
 
 #### (d) Contract and grant renewals
 
-In determining whether to renew a contract or grant with an urban Indian organization under section 1653 of this title which has completed performance of a contract or grant under section 1654 of this title, the Secretary shall review the records of the urban Indian organization, the reports submitted under section 1657 of this title, and, in the case of a renewal of a contract or grant under section 1653 of this title, shall consider the results of the onsite evaluations conducted under subsection (b) of this section.
+In determining whether to renew a contract or grant with an urban Indian organization under section 1653 of this title which has completed performance of a contract or grant under section 1654 of this title, the Secretary shall review the records of the urban Indian organization, the reports submitted under section 1657 of this title, and, in the case of a renewal of a contract or grant under section 1653 of this title, shall consider the results of the onsite evaluations conducted under subsection (b).
 
 (Pub. L. 94–437, title V, §505, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4822; amended Pub. L. 102–573, title V, §501(b)(3), Oct. 29, 1992, 106 Stat. 4568.)
 

@@ -26,7 +26,7 @@ The Chief Administrative Officer of the United States Capitol Police, or when th
 
 #### (c) Enforcement of liability
 
-The liability of the certifying officers of the United States Capitol Police shall be enforced inthe same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
+The liability of the certifying officers of the United States Capitol Police shall be enforced in the same manner and to the same extent as currently provided with respect to the enforcement of the liability of disbursing and other accountable officers, and such officers shall have the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment on any vouchers presented to them for certification.
 
 (Pub. L. 106–554, §1(a)(2) \[title I, §107\], Dec. 21, 2000, 114 Stat. 2763, 2763A–103; Pub. L. 111–145, §2(a)(3), Mar. 4, 2010, 124 Stat. 49.)
 

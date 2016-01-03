@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an Antimicrobial Resistance Task Force to provide advice and recommendations to the Secretaryand coordinate Federal programs relating to antimicrobial resistance. The Secretary may appoint or select a committee, or other organization in existence as of November 13, 2000, to serve as such a task force, if such committee, or other organization meets the requirements of this section.
+&emsp;The Secretary shall establish an Antimicrobial Resistance Task Force to provide advice and recommendations to the Secretary and coordinate Federal programs relating to antimicrobial resistance. The Secretary may appoint or select a committee, or other organization in existence as of November 13, 2000, to serve as such a task force, if such committee, or other organization meets the requirements of this section.
 
 #### (2) Members of task force
 
@@ -178,7 +178,7 @@ Sec. 4. <i>Presidential Advisory Council on Combating Antibiotic-Resistant Bacte
 
 (b) The Secretary shall designate a chairperson from among the members of the Advisory Council.
 
-(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
+(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments forbacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
 
 (d) Task Force agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
@@ -233,4 +233,8 @@ Sec. 10. <i>General Provisions</i>. (a) This order shall be implemented consiste
 (d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
+
+Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

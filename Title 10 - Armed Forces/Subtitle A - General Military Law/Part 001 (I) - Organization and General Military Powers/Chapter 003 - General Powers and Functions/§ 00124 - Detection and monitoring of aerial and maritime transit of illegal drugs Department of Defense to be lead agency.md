@@ -14,7 +14,7 @@ Performance of Detection and Monitoring Function.—(1) To carry out subsection 
 
 &emsp;(B) directing that vessel or aircraft to go to a location designated by appropriate civilian officials.
 
-(2) In cases in which a vessel or an aircraft is detected outside the land area of the United States, Department of Defense personnel maybegin or continue pursuit of that vessel or aircraft over the land area of the United States.
+(2) In cases in which a vessel or an aircraft is detected outside the land area of the United States, Department of Defense personnel may begin or continue pursuit of that vessel or aircraft over the land area of the United States.
 
 (c)
 
@@ -48,7 +48,7 @@ Pub. L. 102–484, div. A, title X, §1043, Oct. 23, 1992, 106 Stat. 2492, provi
 
 "(a)
 
-Requirements of Detection and Monitoring Systems.—The Secretary of Defense shall establish requirements for counter-drug detection and monitoring systems to be used by the Department of Defense in the performance of its mission under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of the transit of illegal drugs into the United States. Such requirements shall be designed—
+Requirements of Detection and Monitoring Systems.—The Secretary of Defense shall establish requirements for counter-drug detection and monitoring systems to be used by the Department of Defense in the performance of its mission under section 124(a) of title 10, United States Code, as lead agency of the Federal Government for the detection and monitoring of thetransit of illegal drugs into the United States. Such requirements shall be designed—
 
 &emsp;"(1) to minimize unnecessary redundancy between counter-drug detection and monitoring systems;
 

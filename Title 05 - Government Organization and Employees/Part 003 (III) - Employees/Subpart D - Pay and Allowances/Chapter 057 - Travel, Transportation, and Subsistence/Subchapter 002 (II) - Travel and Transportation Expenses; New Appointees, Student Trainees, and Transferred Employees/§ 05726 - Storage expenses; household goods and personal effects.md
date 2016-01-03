@@ -1,6 +1,6 @@
 ### §5726. Storage expenses; household goods and personal effects
 
-(a) For the purpose of subsection (b) of this section, "household goods and personal effects" means such personal property of an employeeand his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
+(a) For the purpose of subsection (b) of this section, "household goods and personal effects" means such personal property of an employee and his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
 
 (b) Under regulations prescribed under section 5738 of this title, an employee, including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title, assigned to a permanent duty station outside the continental United States may be allowed storage expenses and related transportation and other expenses for his household goods and personal effects when—
 
@@ -32,7 +32,7 @@ Sept. 6, 1960, Pub. L. 86–707, §301(c)(2), (d) (as applicable to the Administ
 
 The word "employee" is substituted for "civilian officer or employee" in view of the definition of "employee" in sections 5721 and 2105.
 
-In subsection (b), the words "including a new appointee and a student trainee to the extent authorized by sections 5722 and 5723 of this title" are substituted for "including any new appointee in accordance with section 73b–3 of this title" for clarity and reflect the codification of former section 73b–3 in this title.
+In subsection (b), the words "including a new appointee and a student trainee to the extent authorizedby sections 5722 and 5723 of this title" are substituted for "including any new appointee in accordance with section 73b–3 of this title" for clarity and reflect the codification of former section 73b–3 in this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

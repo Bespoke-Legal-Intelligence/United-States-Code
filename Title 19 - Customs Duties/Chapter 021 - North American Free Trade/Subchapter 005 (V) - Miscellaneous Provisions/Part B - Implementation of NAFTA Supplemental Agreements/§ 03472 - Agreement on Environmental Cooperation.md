@@ -66,7 +66,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 (e) <i>Consultation with States</i>. (1) Pursuant to Article 18 of the Environmental Cooperation Agreement, the EPA Administrator shall establish a governmental committee to furnish advice regarding implementation and further elaboration of the Agreement. Through this committee, or through other means as appropriate, the EPA Administrator and other relevant Federal agencies shall:
 
-&emsp;(A) inform the States on a continuing basis of matters under the Environmental Cooperation Agreement that directly relate to, or will potentially have a direct impact on, the States, including: (i) dispute settlement proceedings and other matters involving enforcement by the States of environmental laws; and (ii) implementation of the Environmental Cooperation Agreement, including Council, committee, and working group activities, in any area in which the States exercise concurrent or exclusive legislative, regulatory, or enforcement authority;
+&emsp;(A) inform the States on a continuing basis of matters under the Environmental Cooperation Agreement that directly relate to, or will potentially have a direct impact on, the States, including: (i) disputesettlement proceedings and other matters involving enforcement by the States of environmental laws; and (ii) implementation of the Environmental Cooperation Agreement, including Council, committee, and working group activities, in any area in which the States exercise concurrent or exclusive legislative, regulatory, or enforcement authority;
 
 &emsp;(B) provide the States with an opportunity to submit information and advice with respect to the matters identified in section 2(e)(1)(A) of this order; and
 
@@ -83,4 +83,12 @@ Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERAT
 Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
+
+Term of the Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
+
+Term of the National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

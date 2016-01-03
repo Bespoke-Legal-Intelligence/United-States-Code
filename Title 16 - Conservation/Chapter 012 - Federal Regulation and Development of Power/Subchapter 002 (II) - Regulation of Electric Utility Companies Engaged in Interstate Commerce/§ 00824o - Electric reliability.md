@@ -12,7 +12,7 @@ For purposes of this section:
 
 > &emsp;The term does not include facilities used in the local distribution of electric energy.
 
-&emsp;(2) The terms "Electric Reliability Organization" and "ERO" mean the organization certified by the Commission under subsection (c) of this section the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
+&emsp;(2) The terms "Electric Reliability Organization" and "ERO" mean the organization certified by the Commission under subsection (c) the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
 
 &emsp;(3) The term "reliability standard" means a requirement, approved by the Commission under this section, to provide for reliable operation of the bulk-power system. The term includes requirements for the operation of existing bulk-power system facilities, including cybersecurity protection, and the design of planned additions or modifications to such facilities to the extent necessary to provide for reliable operation of the bulk-power system, but the term does not include any requirement to enlarge such facilities or to construct new transmission capacity or generation capacity.
 
@@ -22,21 +22,21 @@ For purposes of this section:
 
 &emsp;(6) The term "transmission organization" means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-&emsp;(7) The term "regional entity" means an entity having enforcement authority pursuant to subsection (e)(4) of this section.
+&emsp;(7) The term "regional entity" means an entity having enforcement authority pursuant to subsection (e)(4).
 
 &emsp;(8) The term "cybersecurity incident" means a malicious act or suspicious event that disrupts, or was an attempt to disrupt, the operation of those programmable electronic devices and communication networks including hardware, software and data that are essential to the reliable operation of the bulk power system.
 
 #### (b) Jurisdiction and applicability
 
-(1) The Commission shall have jurisdiction, within the United States, over the ERO certified by the Commission under subsection (c) of this section, any regional entities, and all users, owners and operators of the bulk-power system, including but not limited to the entities described in section 824(f) of this title, for purposes of approving reliability standards established under this section and enforcing compliance with this section. All users, owners and operators of the bulk-power system shall comply with reliability standards that take effect under this section.
+(1) The Commission shall have jurisdiction, within the United States, over the ERO certified by the Commission under subsection (c), any regional entities, and all users, owners and operators of the bulk-power system, including but not limited to the entities described in section 824(f) of this title, for purposes of approving reliability standards established under this section and enforcing compliance with this section. All users, owners and operators of the bulk-power system shall comply with reliability standards that take effect under this section.
 
 (2) The Commission shall issue a final rule to implement the requirements of this section not later than 180 days after August 8, 2005.
 
 #### (c) Certification
 
-Following the issuance of a Commission rule under subsection (b)(2) of this section, any person may submit an application to the Commission for certification as the Electric Reliability Organization. The Commission may certify one such ERO if the Commission determines that such ERO—
+Following the issuance of a Commission rule under subsection (b)(2), any person may submit an application to the Commission for certification as the Electric Reliability Organization. The Commission may certify one such ERO if the Commission determines that such ERO—
 
-&emsp;(1) has the ability to develop and enforce, subject to subsection (e)(2) of this section, reliability standards that provide for an adequate level of reliability of the bulk-power system; and
+&emsp;(1) has the ability to develop and enforce, subject to subsection (e)(2), reliability standards that provide for an adequate level of reliability of the bulk-power system; and
 
 &emsp;(2) has established rules that—
 
@@ -44,7 +44,7 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 &emsp;&emsp;(B) allocate equitably reasonable dues, fees, and other charges among end users for all activities under this section;
 
-&emsp;&emsp;(C) provide fair and impartial procedures for enforcement of reliability standards through the imposition of penalties in accordance with subsection (e) of this section (including limitations on activities, functions, or operations, or other appropriate sanctions);
+&emsp;&emsp;(C) provide fair and impartial procedures for enforcement of reliability standards through the imposition of penalties in accordance with subsection (e) (including limitations on activities, functions, or operations, or other appropriate sanctions);
 
 &emsp;&emsp;(D) provide for reasonable notice and opportunity for public comment, due process, openness, and balance of interests in developing reliability standards and otherwise exercising its duties; and
 
@@ -58,11 +58,11 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 (3) The Electric Reliability Organization shall rebuttably presume that a proposal from a regional entity organized on an Interconnection-wide basis for a reliability standard or modification to a reliability standard to be applicable on an Interconnection-wide basis is just, reasonable, and not unduly discriminatory or preferential, and in the public interest.
 
-(4) The Commission shall remand to the Electric Reliability Organization for further consideration a proposed reliability standard or a modification to a reliability standard that the Commission disapproves in whole or in part.
+(4) The Commission shall remand to the Electric Reliability Organization for further consideration a proposed reliability standard or amodification to a reliability standard that the Commission disapproves in whole or in part.
 
 (5) The Commission, upon its own motion or upon complaint, may order the Electric Reliability Organization to submit to the Commission a proposed reliability standard or a modification to a reliability standard that addresses a specific matter if the Commission considers such a new or modified reliability standard appropriate to carry out this section.
 
-(6) The final rule adopted under subsection (b)(2) of this section shall include fair processes for the identification and timely resolution of any conflict between a reliability standard and any function, rule, order, tariff, rate schedule, or agreement accepted, approved, or ordered by the Commission applicable to a transmission organization. Such transmission organization shall continue to comply with such function, rule, order, tariff, rate schedule or agreement accepted, approved, or ordered by the Commission until—
+(6) The final rule adopted under subsection (b)(2) shall include fair processes for the identification and timely resolution of any conflict between a reliability standard and any function, rule, order, tariff, rate schedule, or agreement accepted, approved, or ordered by the Commission applicable to a transmission organization. Such transmission organization shall continue to comply with such function, rule, order, tariff, rate schedule or agreement accepted, approved, or ordered by the Commission until—
 
 &emsp;(A) the Commission finds a conflict exists between a reliability standard and any such provision;
 
@@ -74,9 +74,9 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 #### (e) Enforcement
 
-(1) The ERO may impose, subject to paragraph (2), a penalty on a user or owner or operator of the bulk-power system for a violation of a reliability standard approved by the Commission under subsection (d) of this section if the ERO, after notice and an opportunity for a hearing—
+(1) The ERO may impose, subject to paragraph (2), a penalty on a user or owner or operator of the bulk-power system for a violation of a reliability standard approved by the Commission under subsection (d) if the ERO, after notice and an opportunity for a hearing—
 
-&emsp;(A) finds that the user or owner or operator has violated a reliability standard approved by the Commission under subsection (d) of this section; and
+&emsp;(A) finds that the user or owner or operator has violated a reliability standard approved by the Commission under subsection (d); and
 
 &emsp;(B) files notice and the record of the proceeding with the Commission.
 
@@ -94,7 +94,7 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 &emsp;&emsp;(iii) a combination independent and balanced stakeholder board.
 
-&emsp;(B) the regional entity otherwise satisfies the provisions of subsection (c)(1) and (2) of this section; and
+&emsp;(B) the regional entity otherwise satisfies the provisions of subsection (c)(1) and (2); and
 
 &emsp;(C) the agreement promotes effective and efficient administration of bulk-power system reliability.
 
@@ -106,7 +106,7 @@ Following the issuance of a Commission rule under subsection (b)(2) of this sect
 
 #### (f) Changes in Electric Reliability Organization rules
 
-The Electric Reliability Organization shall file with the Commission for approval any proposed rule or proposed rule change, accompanied by an explanation of its basis and purpose. The Commission, upon its own motion or complaint, may propose a change to the rules of the ERO. A proposed rule or proposed rule change shall take effect upon a finding by the Commission, after notice and opportunity for comment, that the change is just, reasonable, not unduly discriminatory or preferential, is in the public interest, and satisfies the requirements of subsection (c) of this section.
+The Electric Reliability Organization shall file with the Commission for approval any proposed rule or proposed rule change, accompanied by an explanation of its basis and purpose. The Commission, upon its own motion or complaint, may propose a change to the rules of the ERO. A proposed rule or proposed rule change shall take effect upon a finding by the Commission, after notice and opportunity for comment, that the change is just, reasonable, not unduly discriminatory or preferential, is in the public interest, and satisfies the requirements of subsection (c).
 
 #### (g) Reliability reports
 

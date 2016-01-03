@@ -22,7 +22,7 @@ Except as provided in subsection (b), the status of any organization as a privat
 
 &emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section 509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
 
-&emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed underthis subsection become final) that it is terminating its private foundation status, and
+&emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed under this subsection become final) that it is terminating its private foundation status, and
 
 &emsp;&emsp;(iii) such organization establishes to the satisfaction of the Secretary (in such manner as the Secretary may by regulations prescribe) immediately after the expiration of such 12-month or 60-month period that such organization has complied with clause (i).
 
@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantial contributor" also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the privatefoundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantial contributor" also means the creator of the trust.
 
 #### (B) Special rules
 
@@ -86,7 +86,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (ii) Related person
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "related person" means, with respect to any person, any other person who would be a disqualified person (within the meaning ofsection 4946) by reason of his relationship to such person. In the case of a contributor which is a corporation, the term also includes any officer or director of such corporation.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "related person" means, with respect to any person, any other person who would be a disqualified person (within the meaning of section 4946) by reason of his relationship to such person. In the case of a contributor which is a corporation, the term also includes any officer or director of such corporation.
 
 #### (3) Regulations
 
@@ -126,7 +126,7 @@ Section effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set o
 
 #### Applicability to Determination of Status as Substantial Contributor for Purposes of Taxes on Self-Dealing of Contributions Made Prior to October 9, 1969
 
-Pub. L. 95–170, §3, Nov. 12, 1977, 91 Stat. 1352, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In determining whether a person is a substantial contributor within the meaning of section 507(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for purposes of applying section 4941 of such Code (relating to taxes on self-dealing), contributions made before October 9, 1969, which—
+Pub. L. 95–170, §3, Nov. 12, 1977, 91 Stat. 1352, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "In determining whether a person is a substantial contributor within the meaning of section 507(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for purposes of applying section 4941 of such Code (relating to taxes on self-dealing), contributions made before October 9, 1969, which—
 
 &emsp;"(1) were made on account of or in lieu of payments required under a lease in effect before such date, and
 

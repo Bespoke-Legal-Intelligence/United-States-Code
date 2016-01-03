@@ -6,7 +6,7 @@
 
 (2) The provisions of subsections (c) through (e) of section 3761 of this title shall apply to any claim described in paragraph (1).
 
-(Pub. L. 96–70, title I, §1411, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, §2(a), (b), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 100–203, title V, §5417(b),Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 105–85, div. C, title XXXV, §3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§3509(a)(1), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2269, 2271.)
+(Pub. L. 96–70, title I, §1411, Sept. 27, 1979, 93 Stat. 485; Pub. L. 99–209, §2(a), (b), Dec. 23, 1985, 99 Stat. 1716; Pub. L. 100–203, title V, §5417(b), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 105–85, div. C, title XXXV, §3543(a), Nov. 18, 1997, 111 Stat. 2072; Pub. L. 105–261, div. C, title XXXV, §§3509(a)(1), 3512(a)(4), Oct. 17, 1998, 112 Stat. 2269, 2271.)
 
 #### Amendments
 

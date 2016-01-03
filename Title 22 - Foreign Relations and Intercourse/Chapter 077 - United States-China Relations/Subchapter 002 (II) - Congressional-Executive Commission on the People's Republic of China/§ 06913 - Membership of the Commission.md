@@ -24,7 +24,7 @@ The Commission shall be composed of 23 members as follows:
 
 #### (2) Designation of Cochairman
 
-&emsp;At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of themajority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.
+&emsp;At the beginning of each odd-numbered Congress, the Speaker of the House of Representatives shall designate one of the members of the Commission from the House as Cochairman of the Commission. At the beginning of each even-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the members of the Commission from the Senate as Cochairman of the Commission.
 
 (Pub. L. 106–286, div. B, title III, §303, Oct. 10, 2000, 114 Stat. 898.)
 

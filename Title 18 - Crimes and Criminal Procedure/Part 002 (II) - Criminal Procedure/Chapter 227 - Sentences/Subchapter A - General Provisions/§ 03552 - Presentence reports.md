@@ -44,7 +44,7 @@ Pub. L. 104–294, title V, §501, Oct. 11, 1996, 110 Stat. 3497, provided that:
 
 "(a)
 
-Information.—The Administrative Office of the United States courts shall establish policies and procedures for the inclusion in all presentence reports of information that specifically identifies and describes any use of encryption or scrambling technology that wouldbe relevant to an enhancement under section 3C1.1 (dealing with Obstructing or Impeding the Administration of Justice) of the Sentencing Guidelines or to offense conduct under the Sentencing Guidelines.
+Information.—The Administrative Office of the United States courts shall establish policies and procedures for the inclusion in all presentence reports of information that specifically identifies and describes any use of encryption or scrambling technology that would be relevant to an enhancement under section 3C1.1 (dealing with Obstructing or Impeding the Administration of Justice) of the Sentencing Guidelines or to offense conduct under the Sentencing Guidelines.
 
 "(b)
 

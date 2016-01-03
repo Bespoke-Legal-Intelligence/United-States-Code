@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for thepurpose of enforcing the provisions with respect to which the penalty was imposed.
 
 #### (3) Enforcement authority relating to genetic discrimination
 
@@ -144,7 +144,7 @@
 
 #### (i) Penalty not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the personotherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
+&emsp;&emsp;&emsp;No penalty shall be imposed by subparagraph (A) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such penalty did not know, and exercising reasonable diligence would not have known, that such failure existed.
 
 #### (ii) Penalty not to apply to failures corrected within certain periods
 
@@ -174,7 +174,7 @@ Section 300gg–23 of this title, referred to in subsec. (a)(1), was in the orig
 
 Section 2702, referred to in subsec. (b)(3)(A), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
-Section 2701, referred to in subsec. (b)(3)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701, referred to in subsec. (b)(3)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2),1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Prior Provisions
 

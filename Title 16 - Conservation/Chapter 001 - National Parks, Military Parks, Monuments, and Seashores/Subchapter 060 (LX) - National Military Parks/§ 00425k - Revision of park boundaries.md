@@ -6,7 +6,7 @@ In furtherance of the purposes of sections 425 to 425j of this title, the Freder
 
 #### (b) Excluded lands
 
-Lands and interests in lands within the boundary depicted on the maps referred to in subsection (a) of this section as "Existing Park Boundary" but outside of the boundary depicted as "Proposed Park Boundary" are hereby excluded from the park, in accordance with the provisions of section 425l(b) of this title. The Secretary of the Interior (hereinafter referred to as the "Secretary") may relinquish to the Commonwealth of Virginia exclusive or concurrent legislative jurisdiction over lands excluded from the park by this section by filing with the Governor a notice of relinquishment. Such relinquishment shall take effect upon acceptance thereof, or as the laws of the Commonwealth may otherwise provide.
+Lands and interests in lands within the boundary depicted on the maps referred to in subsection (a) as "Existing Park Boundary" but outside of the boundary depicted as "Proposed Park Boundary" are hereby excluded from the park, in accordance with the provisions of section 425l(b) of this title. The Secretary of the Interior (hereinafter referred to as the "Secretary") may relinquish to the Commonwealth of Virginia exclusive or concurrent legislative jurisdiction over lands excluded from the park by this section by filing with the Governor a notice of relinquishment. Such relinquishment shall take effect upon acceptance thereof, or as the laws of the Commonwealth may otherwise provide.
 
 (Pub. L. 101–214, §2, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 102–541, §2(a), Oct. 27, 1992, 106 Stat. 3565; Pub. L. 106–150, §1(c), Dec. 9, 1999, 113 Stat. 1730.)
 
@@ -14,7 +14,7 @@ Lands and interests in lands within the boundary depicted on the maps referred t
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–150 substituted "Spotsylvania National" for "Spotslyvania National".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–541 struck out "326–40072E/89," after "326–40071C/89." and substituted "1989, and the map entitled 'Fredericksburg and Spotsylvania National Military Park,' numbered 326–40072E/89/A and dated September, 1990." for "1989."
+<b>1992</b>—Subsec. (a). Pub. L. 102–541 struck out "326–40072E/89," after "326–40071C/89." and substituted"1989, and the map entitled 'Fredericksburg and Spotsylvania National Military Park,' numbered 326–40072E/89/A and dated September, 1990." for "1989."
 
 #### Effective Date of 1992 Amendment
 

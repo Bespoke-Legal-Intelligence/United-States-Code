@@ -130,7 +130,7 @@
 
 #### (2) Limitation
 
-&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section,or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
+&emsp;The rules and regulations that the Commission may prescribe pursuant to this chapter, as they apply to nationally recognized statistical rating organizations, shall be narrowly tailored to meet the requirements of this chapter applicable to nationally recognized statistical rating organizations. Notwithstanding any other provision of this section, or any other provision of law, neither the Commission nor any State (or political subdivision thereof) may regulate the substance of credit ratings or the procedures and methodologies by which any nationally recognized statistical rating organization determines credit ratings. Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.
 
 #### (3) Internal controls over processes for determining credit ratings
 
@@ -364,7 +364,7 @@
 
 #### (k) Statements of financial condition
 
-Each nationally recognized statistical rating organization shall, on a confidential basis, file with the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+Each nationally recognized statistical rating organization shall, on a confidential basis, filewith the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (l) Sole method of registration
 
@@ -392,7 +392,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (1) In general
 
-&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statementsshall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
+&emsp;The enforcement and penalty provisions of this chapter shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 78u–5 of this title.
 
 #### (2) Rulemaking
 
@@ -446,7 +446,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (2) Staffing
 
-&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of and expertise in corporate, municipal, and structured debt finance.
+&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of andexpertise in corporate, municipal, and structured debt finance.
 
 #### (3) Commission examinations
 
@@ -524,7 +524,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;(B) in accordance with the policies and procedures of the nationally recognized statistical rating organization for the development and modification of credit rating procedures and methodologies;
 
-&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies (including changes to qualitative and quantitative data and models) are made, that—
+&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies\(including changes to qualitative and quantitative data and models) are made, that—
 
 &emsp;&emsp;(A) the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply;
 
@@ -640,7 +640,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (D) Disclosure of certification
 
-&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical ratingorganization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
+&emsp;&emsp;The Commission shall adopt rules requiring a nationally recognized statistical rating organization, at the time at which the nationally recognized statistical rating organization produces a rating, to disclose the certification described in subparagraph (B) to the public in a manner that allows the public to determine the adequacy and level of due diligence services provided by a third party.
 
 #### (t) Corporate governance, organization, and management of conflicts of interest
 
@@ -684,7 +684,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (4) Treatment of NRSRO subsidiaries
 
-&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity, the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
+&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity,the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
 
 &emsp;&emsp;(A) at least ½ of the members of the committee (including the chairperson of the committee) are independent, as defined in this section; and
 
@@ -712,7 +712,7 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original"this title". See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 

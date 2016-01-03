@@ -80,7 +80,7 @@ Aviation security preclearance agreement defined.—In this paragraph, the term 
 
 Report.—The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
-&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States forwhich the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
+&emsp;&emsp;&emsp;(i) A list of airports outside the United States from which a flight or flight segment traveled to the United States for which the Assistant Secretary determined, in accordance with the authority under subparagraph (A), that checked baggage was not required to be re-screened in the United States by an explosives detection system before such baggage continued on an additional flight or flight segment.
 
 &emsp;&emsp;&emsp;(ii) The amount of Federal savings generated from the exercise of such authority.
 
@@ -110,7 +110,7 @@ In general.—Not later than 3 years after the date of enactment of the Implemen
 
 &emsp;(2)
 
-Minimum standards.—The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security for the screening of passenger checked baggage as follows:
+Minimum standards.—The system referred to in paragraph (1) shall require, at a minimum, that equipment, technology, procedures, personnel, or other methods approved by the Administrator of the Transportation Security Administration, are used to screen cargo carried on passenger aircraft described in paragraph (1) to provide a level of security commensurate with the level of security forthe screening of passenger checked baggage as follows:
 
 &emsp;&emsp;(A) 50 percent of such cargo is so screened not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
@@ -394,7 +394,7 @@ Transfer of Assets and Personnel.—Except as otherwise provided in this Act \[s
 
 "(b)
 
-Legal Documents.—All orders, determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
+Legal Documents.—All orders, determinations, rules, regulations, permits, grants, loans, contracts,settlements, agreements, certificates, licenses, and privileges—
 
 &emsp;"(1) that have been issued, made, granted, or allowed to become effective by the Federal Aviation Administration, any officer or employee thereof, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
@@ -446,7 +446,7 @@ Act Defined.—In this section, the term 'Act' includes the amendments made by t
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition Provisions
 
@@ -514,7 +514,7 @@ Pub. L. 109–90, title V, §524, Oct. 18, 2005, 119 Stat. 2086.
 
 #### Use of Existing Equipment To Screen Passenger Cargo; Reports
 
-Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month thereafter."
+Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, as amended by Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month."
 
 #### In-Line Checked Baggage Screening
 
@@ -658,7 +658,7 @@ In general.—An approval resolution shall be referred to the committees of the 
 
 &emsp;&emsp;"(B)
 
-Final passage.—A vote on final passage of the resolution shall be taken in each House on orbefore the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
+Final passage.—A vote on final passage of the resolution shall be taken in each House on or before the close of the 15th day after the resolution is reported by the committee or committees of that House to which it was referred, or after such committee or committees have been discharged from further consideration of the resolution.
 
 &emsp;&emsp;"(C)
 
@@ -706,7 +706,7 @@ Debate on resolution.—Debate in the Senate on an approval resolution, and appe
 
 &emsp;&emsp;"(C)
 
-Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal in connection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+Debate on motions and appeals.—Debate in the Senate on any debatable motion or appeal inconnection with an approval resolution shall be limited to not more than 1 hour, which shall be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the Minority Leader or designee. Such leaders, or either of them, may, from time under their control on the passage of an approval resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
 &emsp;&emsp;"(D)
 

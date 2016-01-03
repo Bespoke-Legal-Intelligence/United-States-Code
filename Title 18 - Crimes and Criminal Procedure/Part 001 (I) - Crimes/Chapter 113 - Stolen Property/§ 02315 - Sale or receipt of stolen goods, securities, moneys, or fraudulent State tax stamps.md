@@ -42,7 +42,7 @@ Pub. L. 112–239, §1084(b)(1), (2), inserted fourth par. relating to veterans'
 
 Pub. L. 100–690, §7057(b), struck out "or by a bank or corporation of any foreign country" after "foreign government" in last par. and inserted at end "This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money."
 
-<b>1986</b>—Pub. L. 99–646 substituted "receives, possesses, conceals" for "receives, conceals" and "which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken" for "moving as, or which are part of, or which constitute interstate or foreign commerce" in first and second pars.
+<b>1986</b>—Pub. L. 99–646 substituted "receives, possesses, conceals" for "receives, conceals" and "which havecrossed a State or United States boundary after being stolen, unlawfully converted, or taken" for "moving as, or which are part of, or which constitute interstate or foreign commerce" in first and second pars.
 
 <b>1961</b>—Pub. L. 87–371 inserted "or tax stamps" after "securities", wherever appearing, in second par., and "or tax stamp" after "security", wherever appearing, in third par., and substituted "moneys, or fraudulent State tax stamps" for "or monies" in section catchline.
 

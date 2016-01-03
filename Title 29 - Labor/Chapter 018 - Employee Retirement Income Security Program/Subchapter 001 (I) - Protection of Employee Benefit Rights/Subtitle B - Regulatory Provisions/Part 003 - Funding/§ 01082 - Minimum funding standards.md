@@ -156,7 +156,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
+&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21)of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 

@@ -10,15 +10,15 @@ Each eligible partnership submitting an application for a grant under this part 
 
 &emsp;(3) improvement in the pass rates and scaled scores for initial State certification or licensure of teachers; and
 
-&emsp;(4)(A) the percentage of highly qualified teachers hired by the high-need local educational agency participating in the eligible partnership;
+&emsp;(4)(A) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, hired by the high-need local educational agency participating in the eligible partnership;
 
-&emsp;(B) the percentage of highly qualified teachers hired by the high-need local educational agency who are members of underrepresented groups;
+&emsp;(B) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, hired by the high-need local educational agency who are members of underrepresented groups;
 
-&emsp;(C) the percentage of highly qualified teachers hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
+&emsp;(C) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
 
-&emsp;(D) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
+&emsp;(D) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
 
-&emsp;(E) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
+&emsp;(E) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
 
 &emsp;(F) as applicable, the percentage of early childhood education program classes in the geographic area served by the eligible partnership taught by early childhood educators who are highly competent; and
 
@@ -52,11 +52,19 @@ The Secretary shall evaluate the activities funded under this part and report th
 
 &emsp;(2) information regarding such practices that were found to be ineffective.
 
-(Pub. L. 89–329, title II, §204, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3146.)
+(Pub. L. 89–329, title II, §204, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3146; amended Pub. L. 114–95, title IX, §9214(c)(4), Dec. 10, 2015, 129 Stat. 2162.)
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 89–329 was classified to section 1024 of this title, prior to repeal by Pub. L. 110–315.
 
 Another prior section 204 of Pub. L. 89–329 was classified to section 1024 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(4)(A) to (E). Pub. L. 114–95 substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title," for "highly qualified teachers".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

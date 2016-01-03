@@ -18,7 +18,7 @@ Except as otherwise specifically provided by title VI of the Robert T. Stafford 
 
 #### (d) Apportionment
 
-For fiscal year 2008, and each fiscal year thereafter, the Administrator shall apportion the amounts appropriated to carry out the program among the States as follows:
+For fiscal year 2008, and each fiscal year thereafter, the Administrator shall apportion theamounts appropriated to carry out the program among the States as follows:
 
 #### (1) Baseline amount
 

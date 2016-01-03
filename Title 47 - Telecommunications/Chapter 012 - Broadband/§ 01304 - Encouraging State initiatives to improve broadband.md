@@ -26,7 +26,7 @@ The purposes of any grant under subsection (b) are—
 
 To be eligible to receive a grant under subsection (b), an eligible entity shall—
 
-&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, andcontaining such information as the Secretary may require;
+&emsp;(1) submit an application to the Secretary of Commerce, at such time, in such manner, and containing such information as the Secretary may require;
 
 &emsp;(2) contribute matching non-Federal funds in an amount equal to not less than 20 percent of the total amount of the grant; and
 
@@ -106,7 +106,7 @@ The Secretary of Commerce shall—
 
 &emsp;(1) require each recipient of a grant under subsection (b) to submit a report on the use of the funds provided by the grant; and
 
-&emsp;(2) create a web page on the Department of Commerce website that aggregates relevant information made available to the public by grant recipients, including, where appropriate, hypertext links to any geographic inventory maps created by grant recipients under subsection (e)(10).
+&emsp;(2) create a web page on the Department of Commerce website that aggregates relevant information made available to the public by grant recipients, including, where appropriate, hypertext links to any geographic inventorymaps created by grant recipients under subsection (e)(10).
 
 #### (h) Access to aggregate data
 

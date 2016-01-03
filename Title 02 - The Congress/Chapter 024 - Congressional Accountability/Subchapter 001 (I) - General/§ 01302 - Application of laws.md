@@ -44,7 +44,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 &emsp;&emsp;(B) in the case of a provision not applicable to the legislative branch, include a statement of the reasons the provision does not apply.
 
-> &emsp;On the objection of any Member, it shall not be in order for the Senate or the House of Representatives to consider any such bill or joint resolution if the report of the committee on such bill or joint resolution does not comply with the provisions of this paragraph. This paragraph may be waived in either House by majority vote of that House.
+> &emsp;On the objection of any Member, it shall not be in order for the Senate or the House of Representatives to consider any such bill or joint resolution if the report of the committee onsuch bill or joint resolution does not comply with the provisions of this paragraph. This paragraph may be waived in either House by majority vote of that House.
 
 (Pub. L. 104–1, title I, §102, Jan. 23, 1995, 109 Stat. 5.)
 

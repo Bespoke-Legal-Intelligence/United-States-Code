@@ -24,7 +24,7 @@ Application required.—Before commencing commercial air tour operations over a 
 
 &emsp;&emsp;(B)
 
-Competitive bidding for limited capacity parks.—Whenever an air tour management plan limits the number of commercial air tour operations over a national park during a specified time frame, the Administrator, in cooperation with the Director, shall issue operation specifications to commercial air tour operators that conduct such operations. The operation specifications shall include such terms and conditions as the Administrator and the Director find necessary for management of commercial air tour operations over the park. The Administrator, in cooperation with the Director, shall develop an open competitive process for evaluating proposals from persons interested in providing commercial air tour operations over the park. In making a selection from among various proposals submitted, the Administrator, in cooperation with the Director, shall consider relevant factors, including—
+Competitive bidding for limited capacity parks.—Whenever an air tour management plan limits the number of commercial air tour operations over a national park during a specified time frame, the Administrator, in cooperation with the Director, shall issue operation specifications to commercial air tour operators that conduct such operations. The operation specifications shall include such terms and conditions as the Administrator and the Director find necessary for management of commercial airtour operations over the park. The Administrator, in cooperation with the Director, shall develop an open competitive process for evaluating proposals from persons interested in providing commercial air tour operations over the park. In making a selection from among various proposals submitted, the Administrator, in cooperation with the Director, shall consider relevant factors, including—
 
 &emsp;&emsp;&emsp;(i) the safety record of the person submitting the proposal or pilots employed by the person;
 
@@ -226,7 +226,7 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;(H) shall promote the adoption of quiet technology, as appropriate; and
 
-&emsp;&emsp;(I) may allow for modifications of the interim operating authority without furtherenvironmental review beyond that described in this subsection, if—
+&emsp;&emsp;(I) may allow for modifications of the interim operating authority without further environmental review beyond that described in this subsection, if—
 
 &emsp;&emsp;&emsp;(i) adequate information regarding the existing and proposed operations of the operator under the interim operating authority is provided to the Administrator and the Director;
 
@@ -266,7 +266,7 @@ Report.—Each commercial air tour operator conducting a commercial air tour ope
 
 &emsp;(2)
 
-Report submission.—Not later than 90 days after the date of enactment of the FAA Modernization and Reform Act of 2012, the Administrator and the Director shall jointly issue an initial request for reports under this subsection. The reports shall be submitted to the Administrator and the Director with a frequency and in a format prescribed by the Administrator and the Director.
+Report submission.—Not later than 90 days after the date of enactment of the FAAModernization and Reform Act of 2012, the Administrator and the Director shall jointly issue an initial request for reports under this subsection. The reports shall be submitted to the Administrator and the Director with a frequency and in a format prescribed by the Administrator and the Director.
 
 (e)
 
@@ -422,7 +422,7 @@ Determinations With Respect to Substantial Restoration of Natural Quiet and Expe
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, for purposes of section 3(b)(1) of Public Law 100–91 (\[former\] 16 U.S.C. 1a–1 note \[now set outbelow\]), the substantial restoration of the natural quiet and experience of the Grand Canyon National Park (in this section referred to as the 'Park') shall be considered to be achieved in the Park if, for at least 75 percent of each day, 50 percent of the Park is free of sound produced by commercial air tour operations that have an allocation to conduct commercial air tours in the Park as of the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].
+In general.—Notwithstanding any other provision of law, for purposes of section 3(b)(1) of Public Law 100–91 (\[former\] 16 U.S.C. 1a–1 note \[now set out below\]), the substantial restoration of the natural quiet and experience of the Grand Canyon National Park (in this section referred to as the 'Park') shall be considered to be achieved in the Park if, for at least 75 percent of each day, 50 percent of the Park is free of sound produced by commercial air tour operations that have an allocation to conduct commercial air tours in the Park as of the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].
 
 &emsp;"(2)
 
@@ -682,7 +682,7 @@ Specific Requirements.—The study under this section shall include research at 
 
 &emsp;"(4) the values associated with aircraft flights over such units of the National Park System in terms of visitor enjoyment, the protection of persons or property, search and rescue operations and firefighting.
 
-> Such research shall evaluate the impact of overflights by both fixed-wing aircraft and helicopters. The research shall include an evaluation of the differences in noise levels within such units of the National Park System which are associated with flight by commonly used aircraft at different altitudes. The research shall apply only to overflights and shall not apply to landing fields within, or adjacent to, such units.
+> Such research shall evaluate the impact of overflights by both fixed-wing aircraft and helicopters. The research shall include an evaluation of the differences in noise levels within such units of the National Park System which are associated with flight by commonly used aircraft at different altitudes. The research shallapply only to overflights and shall not apply to landing fields within, or adjacent to, such units.
 
 "(d)
 

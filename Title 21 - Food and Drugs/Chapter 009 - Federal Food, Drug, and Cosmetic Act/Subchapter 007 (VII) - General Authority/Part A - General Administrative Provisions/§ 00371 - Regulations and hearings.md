@@ -10,7 +10,7 @@ The Secretary of the Treasury and the Secretary of Health and Human Services sha
 
 #### (c) Conduct of hearings
 
-Hearings authorized or required by this chapter shall be conducted by the Secretary or suchofficer or employee as he may designate for the purpose.
+Hearings authorized or required by this chapter shall be conducted by the Secretary or such officer or employee as he may designate for the purpose.
 
 #### (d) Effectiveness of definitions and standards of identity
 
@@ -22,7 +22,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 (2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretary under paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
 
-(3) As soon as practicable after such request for a public hearing, the Secretary, after due notice, shall hold such a public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. At the hearing, any interested person may be heard in person or by representative. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public. Such order shall be based only on substantial evidence of record at such hearing and shall set forth, as part of the order, detailed findings of fact on which the order is based. The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
+(3) As soon as practicable after such request for a public hearing, the Secretary, after due notice, shall hold such a public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. At the hearing, any interested person may be heard in person or by representative. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public. Such order shall be based only on substantial evidence of record at such hearing and shall set forth, as part of the order, detailed findings of fact on which the order is based. The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effectprior to the ninetieth day after its publication unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
 #### (f) Review of order
 
@@ -40,7 +40,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (g) Copies of records of hearings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment ofthe costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
 
 #### (h) Guidance documents
 

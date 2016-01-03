@@ -86,7 +86,7 @@ Rail Transportation Treated Equally.—When authorizing transportation in the co
 
 Applicability of District of Columbia Law.—Any lease or contract entered into between Amtrak and the State of Maryland, or any department or agency of the State of Maryland, after the date of the enactment of this subsection shall be governed by the laws of the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303; Pub. L. 110–53, title XV, §1527, Aug. 3, 2007, 121 Stat. 452.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a),title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303; Pub. L. 110–53, title XV, §1527, Aug. 3, 2007, 121 Stat. 452.)
 
 Historical and Revision Notes
 
@@ -292,7 +292,7 @@ Subsec. (c). Pub. L. 105–134, §401(2), reenacted heading without change and a
 
 Subsec. (e). Pub. L. 105–134, §110(a), inserted at end "Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy."
 
-Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
+Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
 
 Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
 
@@ -308,7 +308,7 @@ Subsec. (d). Pub. L. 104–88, §308(g)(2), substituted "rail carrier subject to
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
 #### Regulations
 

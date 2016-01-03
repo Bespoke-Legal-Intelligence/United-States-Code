@@ -1,6 +1,6 @@
 ### §8473. Employee Thrift Advisory Council
 
-(a) The Board shall establish an Employee Thrift Advisory Council. The Council shall be composed of 15 members appointed by the Chairman of the Board in accordance with subsection (b).
+(a) The Board shall establish an Employee Thrift Advisory Council. The Council shall becomposed of 15 members appointed by the Chairman of the Board in accordance with subsection (b).
 
 (b) The Chairman shall appoint 15 members of the Council, of whom—
 

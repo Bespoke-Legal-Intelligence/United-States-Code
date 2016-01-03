@@ -114,7 +114,7 @@
 
 #### (C) Contents
 
-&emsp;&emsp;An allocation plan of a State or State designated entity under this paragraph shall set forth the requirements for eligible recipients under paragraph (8) to apply for such grant amounts, including a requirement that each such application include—
+&emsp;&emsp;An allocation plan of a State or State designated entity under this paragraph shall set forth the requirements for eligible recipients under paragraph (8) to apply for such grantamounts, including a requirement that each such application include—
 
 &emsp;&emsp;&emsp;(i) a description of the eligible activities to be conducted using such assistance; and
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(C) demonstrates its familiarity with the requirements of any other Federal, State, or local housing program that will be used in conjunction with such grant amounts to ensure compliance with all applicable requirements and regulations of such programs; and
 
-&emsp;&emsp;(D) makes such assurances to the State or State designated entity as the Secretary shall, by regulation, require to ensure that the recipient will comply with the requirements of this subsection during the entire period that begins upon selection of the recipient to receive such grant amounts and ending upon the conclusion of all activities under paragraph (8) that are engaged in by the recipient and funded with such grant amounts.
+&emsp;&emsp;(D) makes such assurances to the State or State designated entity as the Secretaryshall, by regulation, require to ensure that the recipient will comply with the requirements of this subsection during the entire period that begins upon selection of the recipient to receive such grant amounts and ending upon the conclusion of all activities under paragraph (8) that are engaged in by the recipient and funded with such grant amounts.
 
 #### (10) Limitations on use
 
@@ -186,7 +186,7 @@
 
 #### (B) Deadline for commitment or use
 
-&emsp;&emsp;Grant amounts allocated to a State or State designated entity under this subsection shall be used or committed for use within 2 years of the date that such grant amounts are made available to the State orState designated entity. The Secretary shall recapture any such amounts not so used or committed for use and reallocate such amounts under this subsection in the first year after such recapture.
+&emsp;&emsp;Grant amounts allocated to a State or State designated entity under this subsection shall be used or committed for use within 2 years of the date that such grant amounts are made available to the State or State designated entity. The Secretary shall recapture any such amounts not so used or committed for use and reallocate such amounts under this subsection in the first year after such recapture.
 
 #### (C) Use of returns
 
@@ -256,7 +256,7 @@ If in any year a State or State designated entity fails to obtain reimbursement 
 
 #### (i) Reimbursement requirement
 
-&emsp;&emsp;&emsp;If any recipient of assistance under this section is determined, in accordance with clause (ii), to have used any such amounts in a manner that is materially in violationof this section, the regulations issued under this section, or any requirements or conditions under which such amounts were provided, the State or State designated entity shall require that, within 12 months after the determination of such misuse, the recipient shall reimburse the State or State designated entity for such misused amounts and return to the State or State designated entity any such amounts that remain unused or uncommitted for use. The remedies under this clause are in addition to any other remedies that may be available under law.
+&emsp;&emsp;&emsp;If any recipient of assistance under this section is determined, in accordance with clause (ii), to have used any such amounts in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such amounts were provided, the State or State designated entity shall require that, within 12 months after the determination of such misuse, the recipient shall reimburse the State or State designated entity for such misused amounts and return to the State or State designated entity any such amounts that remain unused or uncommitted for use. The remedies under this clause are in addition to any other remedies that may be available under law.
 
 #### (ii) Determination
 
@@ -382,7 +382,7 @@ If, after July 30, 2008, in any year, there is enacted any provision of Federal 
 
 #### (i) Funding accountability and transparency
 
-Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
+Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtainand provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
 (Pub. L. 102–550, title XIII, §1338, as added Pub. L. 110–289, div. A, title I, §1131(b), July 30, 2008, 122 Stat. 2712.)
 

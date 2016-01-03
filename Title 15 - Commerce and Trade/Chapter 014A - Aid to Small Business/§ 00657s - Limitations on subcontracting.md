@@ -16,7 +16,7 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 &emsp;&emsp;(C) may not expend on subcontractors, with respect to the amount determined under subparagraph (B), more than 50 percent of that amount; and
 
-&emsp;(4) in the case of a contract for supplies from a regular dealer in such supplies, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
+&emsp;(4) in the case of a contract which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
 
 &emsp;&emsp;(A) by the Administrator, after reviewing a determination by the applicable contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required by the contract; or
 
@@ -24,11 +24,11 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 #### (b) Similarly situated entities
 
-Contract amounts expended by a covered small business concern on a subcontractor thatis a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
+Contract amounts expended by a covered small business concern on a subcontractor that is a similarly situated entity shall not be considered subcontracted for purposes of determining whether the covered small business concern has violated a requirement established under subsection (a) or (d).
 
 #### (c) Modifications of percentages
 
-The Administrator may change, by rule (after providing notice and an opportunity for public comment), a percentage specified in paragraphs (1) through (4) of subsection (a) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category.
+The Administrator may change, by rule (after providing notice and an opportunity for publiccomment), a percentage specified in paragraphs (1) through (4) of subsection (a) if the Administrator determines that such change is necessary to reflect conventional industry practices among business concerns that are below the numerical size standard for businesses in that industry category.
 
 #### (d) Other contracts
 
@@ -82,7 +82,11 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;(F) if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
 
-(Pub. L. 85–536, §2\[46\], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079.)
+(Pub. L. 85–536, §2\[46\], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079; amended Pub. L. 114–92, div. A, title VIII, §864(b), Nov. 25, 2015, 129 Stat. 927.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–92 substituted "which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction" for "for supplies from a regular dealer in such supplies" in introductory provisions.
 
 #### Inapplicability of Requirement To Review and Justify Certain Contracts
 

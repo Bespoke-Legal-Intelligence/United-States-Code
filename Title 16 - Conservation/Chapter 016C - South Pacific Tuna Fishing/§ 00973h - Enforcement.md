@@ -2,7 +2,7 @@
 
 #### (a) Federal responsibilities; utilization of personnel, etc., of other Federal and State agencies
 
-The provisions of this chapter shall be enforced by the Secretary in cooperation with theSecretary of State. The Secretary, after consultation with the Secretary of State, may by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency and of any State agency in the performance of these duties.
+The provisions of this chapter shall be enforced by the Secretary in cooperation with the Secretary of State. The Secretary, after consultation with the Secretary of State, may by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency and of any State agency in the performance of these duties.
 
 #### (b) Investigation and report of alleged Treaty infringement involving U.S. vessel; notice requirements to operator of vessel; comments, information, or evidence by operator
 

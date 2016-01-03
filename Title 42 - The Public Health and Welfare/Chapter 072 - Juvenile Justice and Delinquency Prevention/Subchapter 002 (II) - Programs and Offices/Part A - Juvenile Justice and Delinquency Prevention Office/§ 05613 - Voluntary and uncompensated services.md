@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Codification
 
-"Section 1342 of title 31" substituted in text for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Section 1342 of title 31" substituted in text for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

@@ -142,7 +142,7 @@ In this section—
 
 &emsp;From among small business development centers submitting applications to participate in the Efficiency Program, the Administrator—
 
-&emsp;&emsp;(A) shall, to the maximum extent practicable, select small business development centers in such a manner so as to promote a nationwide distribution of centers participating in the Efficiency Program; and
+&emsp;&emsp;(A) shall, to the maximum extent practicable, select small business developmentcenters in such a manner so as to promote a nationwide distribution of centers participating in the Efficiency Program; and
 
 &emsp;&emsp;(B) may not select more than 1 small business development center in a State to participate in the Efficiency Program.
 
@@ -172,7 +172,7 @@ In this section—
 
 #### (8) Guarantee
 
-&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a smallbusiness concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
+&emsp;To the extent not inconsistent with State law, the Administrator may guarantee the timely payment of a loan made to a small business concern through an on-bill financing agreement on such terms and conditions as the Administrator shall establish through a formal rulemaking, after providing notice and an opportunity for comment.
 
 #### (9) Implementation
 

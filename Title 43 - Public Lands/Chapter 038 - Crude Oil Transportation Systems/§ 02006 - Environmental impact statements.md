@@ -2,7 +2,7 @@
 
 #### (a) Preparation of environmental impact statements
 
-Any Federal agency required under section 102 of the National Environmental Policy Act of1969 (42 U.S.C. 4332) to issue an environmental impact statement concerning a proposed crude oil transportation system eligible for consideration under this chapter shall, in preparing such statement, utilize, to the maximum extent practicable and consistent with such Act \[42 U.S.C. 4321 et seq.\], appropriate data, analyses, conclusions, findings, and decisions regarding environmental impacts developed or made by any other Federal or State agency.
+Any Federal agency required under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) to issue an environmental impact statement concerning a proposed crude oil transportation system eligible for consideration under this chapter shall, in preparing such statement, utilize, to the maximum extent practicable and consistent with such Act \[42 U.S.C. 4321 et seq.\], appropriate data, analyses, conclusions, findings, and decisions regarding environmental impacts developed or made by any other Federal or State agency.
 
 #### (b) Filing of environmental impact statements
 
@@ -10,7 +10,7 @@ On or before December 1, 1978, all environmental impact statements concerning pr
 
 #### (c) Report of Council on Environmental Quality
 
-Promptly after receiving an environmental impact statement referred to in subsection (b) of this section for a crude oil transportation system, the Council on Environmental Quality shall submit to the President a report on the Council's opinion concerning such statement and concerning other matters related to the environmental impact of such system.
+Promptly after receiving an environmental impact statement referred to in subsection (b) for a crude oil transportation system, the Council on Environmental Quality shall submit tothe President a report on the Council's opinion concerning such statement and concerning other matters related to the environmental impact of such system.
 
 (Pub. L. 95–617, title V, §506, Nov. 9, 1978, 92 Stat. 3160.)
 

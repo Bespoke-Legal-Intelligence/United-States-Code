@@ -10,7 +10,7 @@
 
 #### (b) Conditions
 
-(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructureproject only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
+(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
@@ -26,7 +26,7 @@
 
 #### (d) Loan terms and fees
 
-(1) The Secretary may issue Federal guarantee instruments under this section that take into account repayment profiles and grace periods justified by project cash flows and project-specific considerations. The term of any loan guaranteed under this section shall not exceed 30 years.
+(1) The Secretary may issue Federal guarantee instruments under this section that take intoaccount repayment profiles and grace periods justified by project cash flows and project-specific considerations. The term of any loan guaranteed under this section shall not exceed 30 years.
 
 (2) An eligible lender may assess and collect from the borrower such other fees and costs associated with the application and origination of the loan or other debt obligation as are reasonable and customary for a project finance transaction in the oil and gas sector.
 

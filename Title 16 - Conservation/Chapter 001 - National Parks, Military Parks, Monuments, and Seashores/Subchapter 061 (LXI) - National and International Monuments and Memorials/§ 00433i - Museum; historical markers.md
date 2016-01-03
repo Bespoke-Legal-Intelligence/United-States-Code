@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized, in his discretion, to maintain in s
 
 #### (b) State and local participation
 
-Any State or political subdivision thereof, organization, or individual may, with the approval of the Secretary of the Interior, erect monuments or place tablets commemorating historic events or persons connected with the history of the area, within the boundaries of the Fort Frederica National Monument.
+Any State or political subdivision thereof, organization, or individual may, with the approval of the Secretary of the Interior, erect monuments or place tablets commemorating historicevents or persons connected with the history of the area, within the boundaries of the Fort Frederica National Monument.
 
 (May 26, 1936, ch. 451, §3, 49 Stat. 1373.)
 

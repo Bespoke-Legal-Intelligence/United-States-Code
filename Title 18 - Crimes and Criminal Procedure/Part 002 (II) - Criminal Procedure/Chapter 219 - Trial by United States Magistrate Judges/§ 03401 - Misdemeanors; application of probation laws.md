@@ -1,6 +1,6 @@
 ### §3401. Misdemeanors; application of probation laws
 
-(a) When specially designated to exercise such jurisdiction by the district court or courts he serves, any United States magistrate judge shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
+(a) When specially designated to exercise such jurisdiction by the district court or courts heserves, any United States magistrate judge shall have jurisdiction to try persons accused of, and sentence persons convicted of, misdemeanors committed within that judicial district.
 
 (b) Any person charged with a misdemeanor, other than a petty offense may elect, however, to be tried before a district judge for the district in which the offense was committed. The magistrate judge shall carefully explain to the defendant that he has a right to trial, judgment, and sentencing by a district judge and that he may have a right to trial by jury before a district judge or magistrate judge. The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record.
 
@@ -34,7 +34,7 @@ Four sections were consolidated herein with minor rearrangements and deletion of
 
 Subsec. (g). Pub. L. 106–518, §203(a)(2), substituted first sentence for former first sentence which read: "The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title.", substituted "the case of any misdemeanor, other than a petty offense," for "any other class B or C misdemeanor case" in second sentence, and struck out at end "No term of imprisonment shall be imposed by the magistrate in any such case."
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317, §202(a)(1), inserted ", other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction," after "misdemeanor", substituted "tried before a district judge" for "tried before a judge of the district court" and "by a districtjudge" for "by a judge of the district court", substituted "magistrate judge" for "magistrate" in two places, and substituted "The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record." for "The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court."
+<b>1996</b>—Subsec. (b). Pub. L. 104–317, §202(a)(1), inserted ", other than a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction," after "misdemeanor", substituted "tried before a district judge" for "tried before a judge of the district court" and "by a district judge" for "by a judge of the district court", substituted "magistrate judge" for "magistrate" in two places, and substituted "The magistrate judge may not proceed to try the case unless the defendant, after such explanation, expressly consents to be tried before the magistrate judge and expressly and specifically waives trial, judgment, and sentencing by a district judge. Any such consent and waiver shall be made in writing or orally on the record." for "The magistrate shall not proceed to try the case unless the defendant, after such explanation, files a written consent to be tried before the magistrate that specifically waives trial, judgment, and sentencing by a judge of the district court."
 
 Subsec. (g). Pub. L. 104–317, §202(a)(2), substituted "The magistrate judge may, in a petty offense case involving a juvenile, that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction, exercise all powers granted to the district court under chapter 403 of this title. The magistrate judge may, in any other class B or C misdemeanor case involving a juvenile in which consent to trial before a magistrate judge has been filed under subsection (b), exercise all powers granted to the district court under chapter 403 of this title." for "The magistrate may, in a Class B or C misdemeanor case, or infraction case, involving a juvenile in which consent to trial before a magistrate has been filed under subsection (b) of this section, exercise all powers granted to the district court under chapter 403 of this title."
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 90–578 added subsec. (f).
 
 #### Change of Name
 
-"United States magistrate judge", "magistrate judge", and "magistrate judges" substituted for "United States magistrate", "magistrate", and "magistrates", respectively, in subsecs. (a), (c), (e), and (f), and "magistrate judge under" substituted for "magistrate under" in subsec. (d), pursuant to section 321 ofPub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge", "magistrate judge", and "magistrate judges" substituted for "United States magistrate", "magistrate", and "magistrates", respectively, in subsecs. (a), (c), (e), and (f), and "magistrate judge under" substituted for "magistrate under" in subsec. (d), pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1992 Amendment
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1)of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
 #### Effective Date of 1968 Amendment
 

@@ -28,5 +28,5 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 <b>1956</b>—Subsec. (a). Act Aug. 2, 1956, inserted provisions relating to submission of comments by parties and required a public hearing upon request, in lieu of former provisions requiring hearing upon application.
 
-<b>1954</b>—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by local governmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
+<b>1954</b>—Subsec. (b). Act Apr. 27, 1954, included mobile or point-to-point radio telephone exchange service within exclusions provided for in such subsection, where it is subject to regulation by a State commission or by localgovernmental authority, and made it clear that the Commission retains its licensing authority over the radio stations that might be involved in such service.
 

@@ -24,7 +24,7 @@ Provisions for sale of the property by the collector if no claim should be filed
 
 <b>1988</b>—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows:
 
-"(a) If no such claim is filed or bond given within the twenty days hereinbefore specified, the appropriate customs officer shall declare the vessel, vehicle, aircraft, merchandise, or baggage forfeited, and shall sell the same at public auction in the same manner as merchandise abandoned to the United States is sold or otherwise dispose of the same according to law, and (except as provided in subsection (b) of this section)shall deposit the proceeds of sale, after deducting expenses enumerated in section 1613 of this title into the Customs Forfeiture Fund.
+"(a) If no such claim is filed or bond given within the twenty days hereinbefore specified, the appropriate customs officer shall declare the vessel, vehicle, aircraft, merchandise, or baggage forfeited, and shall sell the same at public auction in the same manner as merchandise abandoned to the United States is sold or otherwise dispose of the same according to law, and (except as provided in subsection (b) of this section) shall deposit the proceeds of sale, after deducting expenses enumerated in section 1613 of this title into the Customs Forfeiture Fund.
 
 "(b) During the period beginning on October 30, 1984, and ending on September 30, 1987, the appropriate customs officer shall deposit the proceeds of sale (after deducting such expenses) in the Customs Forfeiture Fund."
 

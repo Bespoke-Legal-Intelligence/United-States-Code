@@ -18,7 +18,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–104 amended subsec. (b) generally, revising structure of subsec. so as to contain 2 pars. and adding provisions relating to inspection by an entity designated by Commission, waiver of inspection for up to 90 days, and waiver for vessels in compliance with radio provisions of Safety Convention that are outside the jurisdiction of the United States.
+<b>1996</b>—Subsec. (b). Pub. L. 104–104 amended subsec. (b) generally, revising structure of subsec. so as to contain2 pars. and adding provisions relating to inspection by an entity designated by Commission, waiver of inspection for up to 90 days, and waiver for vessels in compliance with radio provisions of Safety Convention that are outside the jurisdiction of the United States.
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–811 empowered the Commission to waive the annual inspection from the time of first arrival at a United States port from a foreign port, for the sole purpose of enabling the vessel to proceed coastwise to another port in the United States where an inspection can be held, and limiting such waiver to not more than a period of 30 days.
 

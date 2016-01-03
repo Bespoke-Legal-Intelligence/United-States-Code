@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(II) 900 clock hours in a course of study that measures its program length in clock hours.
 
-(B) The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree and that measures program length in credit hours or clock hours.
+(B) The Secretary may reduce such minimum of 30 weeks to not less than 26 weeks for good cause, as determined by the Secretary on a case-by-case basis, in the case of an institution of higher education that provides a 2-year or 4-year program of instruction for which the institution awards an associate or baccalaureate degree andthat measures program length in credit hours or clock hours.
 
 #### (b) Eligible program
 
@@ -86,7 +86,7 @@ For purposes of parts B, C, and D of this subchapter:
 
 #### (5) Qualifying National Guard duty
 
-&emsp;The term "qualifying National Guard duty during a war or other military operation or national emergency" means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32 in connection with a war, other military operation, or a national emergency declared by the President and supported by Federal funds.
+&emsp;The term "qualifying National Guard duty during a war or other military operation ornational emergency" means service as a member of the National Guard on full-time National Guard duty (as defined in section 101(d)(5) of title 10) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under section 502(f) of title 32 in connection with a war, other military operation, or a national emergency declared by the President and supported by Federal funds.
 
 #### (e) Consumer reporting agency
 
@@ -96,7 +96,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 For purposes of parts B, C, and D, the term "educational service agency" has the meaning given the term in section 7801 of this title.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950; Pub. L. 114–95, title IX, §9215(oo)(10), Dec. 10, 2015, 129 Stat. 2180.)
 
 #### Prior Provisions
 
@@ -105,6 +105,8 @@ A prior section 1088, Pub. L. 89–329, title IV, §481, as added Pub. L. 96–3
 Another prior section 1088, Pub. L. 89–329, title IV, §491, formerly §461, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032, renumbered §491 and amended Pub. L. 92–318, title I, §§131(c), 137(b), title X, §1001(c)(3), June 23, 1972, 86 Stat. 259, 272, 381; amended Pub. L. 95–180, §1(b), Nov. 15, 1977, 91 Stat. 1372; Pub. L. 95–566, §6, Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–49, §5(e), Aug. 13, 1979, 93 Stat. 352, defined terms for this subchapter and part C of subchapter I of chapter 34 of title 42, prior to the general revision of this part by Pub. L. 96–374.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–39 substituted "any State, or any private, for-profit or nonprofit organization," for "or any State, or private, profit or nonprofit organization" in introductory provisions.
 
@@ -128,7 +130,7 @@ Subsec. (a)(3)(D). Pub. L. 103–208, §2(h)(2), substituted "do not have a high
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "such institution has filed for bankruptcy; or".
 
-Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term 'academic year' shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or at least 900 clock hours at an institution which measures program length in clock hours."
+Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term 'academic year' shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or atleast 900 clock hours at an institution which measures program length in clock hours."
 
 Subsec. (e)(2). Pub. L. 103–208, §2(h)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall develop regulations to determine the quality of programs of less than 600 clock hours in length. Such regulations shall require, at a minimum, that the programs have a verified rate of completion of at least 70 percent and a verified rate of placement of at least 70 percent. Pursuant to these regulations and notwithstanding paragraph (1), the Secretary shall allow programs of less than 600 clock hours, but greater than 300 clock hours, in length to be eligible to participate in the programs authorized under part B of this subchapter."
 
@@ -170,6 +172,10 @@ Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–50 substituted "section 1091(d) of this title" for "subsection (d) of this section".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
@@ -192,7 +198,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–325, title IV, §498, July 23, 1992, 106 Stat. 634, provided that: "The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 ofthis title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
+Pub. L. 102–325, title IV, §498, July 23, 1992, 106 Stat. 634, provided that: "The changes made in part G of title IV of the Act \[20 U.S.C. 1088 et seq.\] by the amendments made by this part \[part G (§§481–498) of title IV of Pub. L. 102–325, enacting sections 1091b, 1092c, 1094a, 1094b, 1098a, and 1098b of this title, amending sections 1088 to 1091, 1092, 1092b, 1093, 1094, 1095, 1096, 1097, and 1098 of this title, and repealing section 1096a of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
 &emsp;"(1) as otherwise provided in such part G;
 

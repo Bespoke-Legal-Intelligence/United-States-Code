@@ -32,7 +32,7 @@ In this part:
 
 &emsp;&emsp;(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10 or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with a war or other military operation or national emergency, regardless of the location at which such active duty service is performed; and
 
-&emsp;&emsp;(B) any other member of an Armed Force on active duty in connection with such war, operation, or emergency or subsequent actions or conditions who has been assigned toa duty station at a location other than the location at which such member is normally assigned.
+&emsp;&emsp;(B) any other member of an Armed Force on active duty in connection with such war, operation, or emergency or subsequent actions or conditions who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
 #### (6) Qualifying National Guard duty
 

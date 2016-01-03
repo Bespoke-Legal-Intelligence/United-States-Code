@@ -150,7 +150,7 @@ If counter-cyclical payments are required to be paid for any of the 2002 through
 
 #### (5) Repayment
 
-&emsp;The producers on a farm that receive a partial payment under this subsection for a crop year shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
+&emsp;The producers on a farm that receive a partial payment under this subsection for a cropyear shall repay to the Secretary the amount, if any, by which the total of the partial payments exceed the actual counter-cyclical payment to be made for the covered commodity for that crop year.
 
 (Pub. L. 107–171, title I, §1104, May 13, 2002, 116 Stat. 150.)
 

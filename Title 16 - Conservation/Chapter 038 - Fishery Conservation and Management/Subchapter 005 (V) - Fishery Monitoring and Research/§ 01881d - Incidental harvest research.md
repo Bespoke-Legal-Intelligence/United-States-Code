@@ -6,11 +6,11 @@ Within nine months after October 11, 1996, the Secretary shall, after consultati
 
 #### (b) Identification of stock
 
-The program concluded pursuant to subsection (a) of this section shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
+The program concluded pursuant to subsection (a) shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
 
 #### (c) Collection and assessment of specific stock information
 
-For stocks of fish identified pursuant to subsection (b) of this section, with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
+For stocks of fish identified pursuant to subsection (b), with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
 
 &emsp;(1) a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
 
@@ -44,7 +44,7 @@ To the extent practicable, any conservation and management measure implemented u
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13,1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 

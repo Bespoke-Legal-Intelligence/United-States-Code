@@ -90,7 +90,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (B) Adverse event reports
 
-&emsp;&emsp;An applicant or holder that, on or after September 27, 2007, agrees to the request for such studies shall provide the Secretary, at the same time as the submission of the reports of such studies, with all postmarket adverse event reports regarding the drug that is the subject of such studies and are available prior to submission of such reports.
+&emsp;&emsp;An applicant or holder that, on or after September 27, 2007, agrees to the request for such studies shall provide the Secretary, at the same time as the submission of the reports of such studies, with all postmarket adverse event reports regarding the drugthat is the subject of such studies and are available prior to submission of such reports.
 
 #### (3) Meeting the studies requirement
 
@@ -138,7 +138,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (6) Tracking pediatric studies and labeling changes
 
-&emsp;The Secretary, in consultation with the committee referred to in paragraph (1), shalltrack and make available to the public, in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration—
+&emsp;The Secretary, in consultation with the committee referred to in paragraph (1), shall track and make available to the public, in an easily accessible manner, including through posting on the Web site of the Food and Drug Administration—
 
 &emsp;&emsp;(A) the number of studies conducted under this section and under section 284m of title 42;
 
@@ -330,7 +330,7 @@ Subsec. (n)(1)(C). Pub. L. 113–5, §307(a)(2), added subpar. (C).
 
 <b>2012</b>—Subsec. (d)(1)(A). Pub. L. 112–144, §502(b), inserted at end "If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates."
 
-Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall bedeemed to satisfy the requirement for market exclusivity pursuant to this section."
+Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section."
 
 Subsec. (k)(2). Pub. L. 112–144, §509(a)(1), substituted "subsection (f)(6)(F)" for "subsection (f)(3)(F)".
 
@@ -458,7 +458,7 @@ Application.—Notwithstanding any provision of section 505A and 505B of the Fed
 
 "(2)
 
-Transitional rule for adverse event reporting.—With respect to a drug for which a labeling change described under section 505A(l)(1) or 505B(i)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(l)(1); 355c(i)(1)) is approved or made, respectively, during the one-year period that ends on the day before the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall apply section 505A(l) and section 505B(i), as applicable, to such drug, as such sections were in effect on such day."
+Transitional rule for adverse event reporting.—With respect to a drug for which a labelingchange described under section 505A(l)(1) or 505B(i)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(l)(1); 355c(i)(1)) is approved or made, respectively, during the one-year period that ends on the day before the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall apply section 505A(l) and section 505B(i), as applicable, to such drug, as such sections were in effect on such day."
 
 #### Effective Date of 2007 Amendment
 

@@ -66,7 +66,7 @@
 
 #### (1) Agreements with lenders
 
-&emsp;Any lender described in subparagraph (A), (B), or (C) of subsection (a)(1) of this section who wishes to make consolidation loans under this section shall enter into an agreement with the Secretary or a guaranty agency which provides—
+&emsp;Any lender described in subparagraph (A), (B), or (C) of subsection (a)(1) of this sectionwho wishes to make consolidation loans under this section shall enter into an agreement with the Secretary or a guaranty agency which provides—
 
 &emsp;&emsp;(A) that, in the case of all lenders described in subsection (a)(1) of this section, the lender will make a consolidation loan to an eligible borrower (on request of that borrower) only if the borrower certifies that the borrower has no other application pending for a loan under this section;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(D) the aggregate amount to which the certificate applies;
 
-&emsp;&emsp;(E) the reporting requirements of the Secretary on the lender and an identification of the office of the Department of Education or of the guaranty agency which will process claims and perform other related administrative functions;
+&emsp;&emsp;(E) the reporting requirements of the Secretary on the lender and an identification ofthe office of the Department of Education or of the guaranty agency which will process claims and perform other related administrative functions;
 
 &emsp;&emsp;(F) the alternative repayment terms which will be offered to borrowers by the lender;
 
@@ -180,7 +180,7 @@
 
 #### (1) Interest rate
 
-&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender—
+&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under thissection for which the application is received by an eligible lender—
 
 &emsp;&emsp;(i) on or after October 1, 1998, and before July 1, 2006, the applicable interest rate shall be determined under section 1077a(k)(4) of this title; or
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;(ii) is equal to or greater than $7,500 but less than $10,000, then such consolidation loan shall be repaid in not more than 12 years;
 
-&emsp;&emsp;(iii) is equal to or greater than $10,000 but less than $20,000, then such consolidationloan shall be repaid in not more than 15 years;
+&emsp;&emsp;(iii) is equal to or greater than $10,000 but less than $20,000, then such consolidation loan shall be repaid in not more than 15 years;
 
 &emsp;&emsp;(iv) is equal to or greater than $20,000 but less than $40,000, then such consolidation loan shall be repaid in not more than 20 years;
 
@@ -306,7 +306,7 @@ The authority to make loans under this section expires at the close of June 30, 
 
 &emsp;The Secretary shall deposit all fees collected pursuant to this subsection into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246; Pub. L. 111–39, title IV, §402(c)(1), (f)(3), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2206(a), Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb.8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246; Pub. L. 111–39, title IV, §402(c)(1), (f)(3), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2206(a), Mar. 30, 2010, 124 Stat. 1075.)
 
 #### References in Text
 
@@ -380,7 +380,7 @@ Subsec. (a)(3)(B)(i)(V). Pub. L. 109–171, §8009(a)(1)(C)–(E), added subcl. 
 
 Subsec. (a)(3)(C). Pub. L. 109–171, §8009(c), struck out subpar. (C), which read as follows:
 
-"(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing under subparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard to any subsequent change that may occur in such couple's marital status.
+"(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing under subparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard toany subsequent change that may occur in such couple's marital status.
 
 "(ii) Only one spouse in a married couple applying for a consolidation loan under this subparagraph need meet any of the requirements of subsection (b) of this section, except that each spouse shall—
 
@@ -402,7 +402,7 @@ Subsec. (e). Pub. L. 109–171, §8004(b)(3), substituted "2012" for "2004".
 
 Subsec. (a)(4)(C). Pub. L. 105–244, §420(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "made under part C of this subchapter, except that loans made under such part shall be eligible student loans only for consolidation loans for which the application is received by an eligible lender during the period beginning on November 13, 1997, and ending on October 1, 1998;".
 
-Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted "except that this clause shall not apply in the case ofa borrower with multiple holders of loans under this part," after "under this section,".
+Subsec. (b)(1)(A)(i). Pub. L. 105–244, §420(c)(1), inserted "except that this clause shall not apply in the case of a borrower with multiple holders of loans under this part," after "under this section,".
 
 Subsec. (b)(4)(C)(ii). Pub. L. 105–244, §420(c)(2), inserted "during any such period" after "and be paid" in introductory provisions and struck out ", or on or after October 1, 1998," before "that consolidated" in subcl. (I) and "and before October 1, 1998," before "except that" in subcl. (II).
 
@@ -442,7 +442,7 @@ Pub. L. 103–66, §4046(a)(1), amended subpar. (A) generally. Prior to amendmen
 
 &emsp;"(ii) is in repayment status, or in a grace period preceding repayment, or is a delinquent or defaulted borrower who will reenter repayment through loan consolidation."
 
-Subsec. (a)(3)(B)(ii). Pub. L. 103–66, §4046(b)(2), struck out at end "Nothing in this section shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidated loans to receive, to maintain, or to make reports with respect to preexisting records relating to any eligible student loan (as defined under paragraph (4)) discharged by a borrower in receiving a consolidation loan."
+Subsec. (a)(3)(B)(ii). Pub. L. 103–66, §4046(b)(2), struck out at end "Nothing in this section shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidated loans to receive, to maintain, or to make reports with respect to preexisting records relating to any eligible student loan (as definedunder paragraph (4)) discharged by a borrower in receiving a consolidation loan."
 
 Subsec. (a)(4)(A). Pub. L. 103–208, §2(c)(34), struck out before semicolon at end ", except for loans made to parent borrowers under section 1078–2 of this title as in effect prior to October 17, 1986".
 
@@ -478,7 +478,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 102–325, §419(b)(1)(A), substituted "$7,500" fo
 
 Subsec. (a)(3)(A)(ii). Pub. L. 102–325, §419(b)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is in repayment status, or in a grace period preceding repayment, and is not delinquent with respect to any required payment on such indebtedness by more than 90 days."
 
-Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual's status as an eligibleborrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan."
+Subsec. (a)(3)(B). Pub. L. 102–325, §419(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section except with respect to eligible student loans received after the date of receipt of the consolidation loan. Loans made under this section shall, to the extent used to discharge loans made under this subchapter and part C of subchapter I of chapter 34 of title 42, be counted against the applicable limitations on aggregate indebtedness contained in sections 1075(a)(2), 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title. Nothing in this subparagraph shall be interpreted to authorize the Secretary to require lenders, holders, or guarantors of consolidation loans to receive, to maintain, or to make reports with respect to pre-existing records relating to any eligible student loan (as defined under subsection (a)(4) of this section) discharged by a borrower in receiving a consolidation loan."
 
 Subsec. (a)(3)(C). Pub. L. 102–325, §419(d), added subpar. (C).
 
@@ -510,7 +510,7 @@ Pub. L. 102–408, §306(a)(1), redesignated subsec. (d) as subsec. (e).
 
 Subsec. (a)(3)(A). Pub. L. 100–50, §10(s)(2), struck out cl. (iii) which read as follows: "is not a parent borrower under section 1078–2 of this title."
 
-Subsec. (a)(3)(B). Pub. L. 100–50, §10(s)(3), substituted "eligible student loans received" for "loans received under this subchapter and part C of subchapter I of chapter 34 of title 42", "under this subchapter and part C of subchapter I of chapter 34 of title 42" for "under this part", and ", 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title" for "and 1078(b)(1)(B) of this title", and inserted provision that nothing in subpar. (B) should be interpreted to authorize Secretary to require lenders, holders, or guarantors of consolidation loans to make reports with respect to pre-existing records relating to eligible student loans discharged by a borrower in receiving a consolidation loan.
+Subsec. (a)(3)(B). Pub. L. 100–50, §10(s)(3), substituted "eligible student loans received" for "loans received under this subchapter and part C of subchapter I ofchapter 34 of title 42", "under this subchapter and part C of subchapter I of chapter 34 of title 42" for "under this part", and ", 1078(b)(1)(B), 1078–1(b)(2), and 1087dd(a)(2) of this title" for "and 1078(b)(1)(B) of this title", and inserted provision that nothing in subpar. (B) should be interpreted to authorize Secretary to require lenders, holders, or guarantors of consolidation loans to make reports with respect to pre-existing records relating to eligible student loans discharged by a borrower in receiving a consolidation loan.
 
 Subsec. (a)(4)(A). Pub. L. 100–50, §10(s)(4), inserted exception for loans made to parent borrowers under section 1078–2 of this title.
 
@@ -550,7 +550,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or afterOct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
+Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
 Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

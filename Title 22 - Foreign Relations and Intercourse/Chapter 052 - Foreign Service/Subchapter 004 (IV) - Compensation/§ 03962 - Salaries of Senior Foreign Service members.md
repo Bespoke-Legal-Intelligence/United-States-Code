@@ -2,7 +2,7 @@
 
 #### (a) Prescription by President; basic salary rates; adjustments; determinations by Secretary
 
-(1) The President shall prescribe salary classes for the Senior Foreign Service and shall prescribe an appropriate title for each class. The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5.
+(1) The President shall prescribe salary classes for the Senior Foreign Service and shall prescribe an appropriate title for each class. The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the SeniorForeign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5.
 
 (2) The Secretary shall determine which basic salary rate within the ranges prescribed by the President under paragraph (1) shall be paid to each member of the Senior Foreign Service based on individual performance, contribution to the mission of the Department, or both, as determined under a rigorous performance management system. Except as provided in regulations prescribed by the Secretary and, to the extent possible, consistent with regulations governing the Senior Executive Service, the Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period.
 

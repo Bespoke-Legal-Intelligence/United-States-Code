@@ -42,7 +42,7 @@ Pub. L. 101–624, title XV, §1513, Nov. 28, 1990, 104 Stat. 3662, provided tha
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–808, §5, Nov. 11, 1966, 80 Stat. 1538, provided that: "This Act \[enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\]."
+Pub. L. 89–808, §5, Nov. 11, 1966, 80 Stat. 1538, provided that: "This Act \[enacting sections 1707a, 1710, 1725, and1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title\] shall take effect as of January 1, 1967, except that section 4 \[enacting section 1707a of this title\] shall take effect upon enactment \[Nov. 11, 1966\]."
 
 #### Short Title of 1998 Amendment
 
@@ -112,7 +112,7 @@ Pub. L. 97–98, title XII, subtitle C (§§1217–1224), as added Pub. L. 98–
 
 #### Use of Nonprice-Supported Commodities
 
-Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "It is the sense of Congress that there be no discrimination between 'price-supported' and 'nonprice-supported' commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\]."
+Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by Pub. L. 110–246, title III, §3001(c),June 18, 2008, 122 Stat. 1821, provided that: "It is the sense of Congress that there be no discrimination between 'price-supported' and 'nonprice-supported' commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) \[which enacted this chapter and amended sections 1427 and 1431 of this title\]."
 
 #### Special Task Force
 

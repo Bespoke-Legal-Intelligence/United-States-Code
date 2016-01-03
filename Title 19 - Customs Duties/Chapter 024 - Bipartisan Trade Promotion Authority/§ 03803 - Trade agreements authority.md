@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) July 1, 2005; or
 
-&emsp;&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c); and
 
 &emsp;&emsp;(B) may, subject to paragraphs (2) and (3), proclaim—
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) July 1, 2005; or
 
-&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c) of this section.
+&emsp;&emsp;(ii) July 1, 2007, if trade authorities procedures are extended under subsection (c).
 
 #### (2) Conditions
 
@@ -98,7 +98,7 @@
 
 #### (3) Bills qualifying for trade authorities procedures
 
-&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 of this title applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
+&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 of this title applies to implementing bills under that section. A billto which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
 
 &emsp;(B) The provisions referred to in subparagraph (A) are—
 
@@ -112,9 +112,9 @@
 
 &emsp;Except as provided in section 3805(b) of this title—
 
-&emsp;&emsp;(A) the trade authorities procedures apply to implementing bills submitted with respect to trade agreements entered into under subsection (b) of this section before July 1, 2005; and
+&emsp;&emsp;(A) the trade authorities procedures apply to implementing bills submitted with respect to trade agreements entered into under subsection (b) before July 1, 2005; and
 
-&emsp;&emsp;(B) the trade authorities procedures shall be extended to implementing bills submitted with respect to trade agreements entered into under subsection (b) of this section after June 30, 2005, and before July 1, 2007, if (and only if)—
+&emsp;&emsp;(B) the trade authorities procedures shall be extended to implementing bills submitted with respect to trade agreements entered into under subsection (b) after June 30, 2005, and before July 1, 2007, if (and only if)—
 
 &emsp;&emsp;&emsp;(i) the President requests such extension under paragraph (2); and
 
@@ -124,7 +124,7 @@
 
 &emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit to the Congress, not later than April 1, 2005, a written report that contains a request for such extension, together with—
 
-&emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) of this section and the anticipated schedule for submitting such agreements to the Congress for approval;
+&emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) and the anticipated schedule for submitting such agreements to the Congress for approval;
 
 &emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
 
@@ -150,7 +150,7 @@
 
 #### (5) Extension disapproval resolutions
 
-&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respectto any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.", with the blank space being filled with the name of the resolving House of the Congress.
+&emsp;(A) For purposes of paragraph (1), the term "extension disapproval resolution" means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: "That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respect to any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.", with the blank space being filled with the name of the resolving House of the Congress.
 
 &emsp;(B) Extension disapproval resolutions—
 

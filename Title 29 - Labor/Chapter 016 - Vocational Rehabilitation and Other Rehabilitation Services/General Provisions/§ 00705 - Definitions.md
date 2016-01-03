@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 #### (1) Administrative costs
 
-&emsp;The term "administrative costs" means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I of this chapter, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
+&emsp;The term "administrative costs" means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
 
 &emsp;&emsp;(A) quality assurance;
 
@@ -42,7 +42,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(I) to determine whether an individual is eligible for vocational rehabilitation services; and
 
-&emsp;&emsp;&emsp;(II) to assign priority for an order of selection described in section 721(a)(5)(A) ofthis title in the States that use an order of selection pursuant to section 721(a)(5)(A) of this title; and
+&emsp;&emsp;&emsp;(II) to assign priority for an order of selection described in section 721(a)(5)(A) of this title in the States that use an order of selection pursuant to section 721(a)(5)(A) of this title; and
 
 &emsp;&emsp;(ii) to the extent necessary, the provision of appropriate assessment activities to obtain necessary additional data to make such determination and assignment;
 
@@ -196,7 +196,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) except as otherwise provided in subparagraph (B), a physical or mental impairment that constitutes or results in a substantial impediment to employment; or
 
-&emsp;&emsp;(B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, the meaning given it in section 12102 of title 42.
+&emsp;&emsp;(B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII, the meaning given it in section 12102 of title 42.
 
 #### (10) Drug and illegal use of drugs
 
@@ -206,7 +206,7 @@ For the purposes of this chapter:
 
 #### (B) Illegal use of drugs
 
-&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Suchterm does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
+&emsp;&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
 
 #### (11) Employment outcome
 
@@ -242,7 +242,7 @@ For the purposes of this chapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -290,7 +290,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) provide assistance to individuals with significant disabilities who are at risk of entering institutions so that the individuals may remain in the community; and
 
-&emsp;&emsp;&emsp;(iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)), and who have completed their secondary education or otherwise left school, to postsecondary life.
+&emsp;&emsp;&emsp;(iii) facilitate the transition of youth who are individuals with significant disabilities, who were eligible for individualized education programs under section 614(d) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)), and who have completed their secondary educationor otherwise left school, to postsecondary life.
 
 #### (18) Independent living services
 
@@ -358,7 +358,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(i) has a physical or mental impairment which for such individual constitutes or results in a substantial impediment to employment; and
 
-&emsp;&emsp;&emsp;(ii) can benefit in terms of an employment outcome from vocational rehabilitation services provided pursuant to subchapter I, III, or VI of this chapter.
+&emsp;&emsp;&emsp;(ii) can benefit in terms of an employment outcome from vocational rehabilitation services provided pursuant to subchapter I, III, or VI.
 
 #### (B) Certain programs; limitations on major life activities
 
@@ -368,7 +368,7 @@ For the purposes of this chapter:
 
 #### (i) In general; exclusion of individuals engaging in drug use
 
-&emsp;&emsp;&emsp;For purposes of subchapter V of this chapter, the term "individual with a disability" does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
+&emsp;&emsp;&emsp;For purposes of subchapter V, the term "individual with a disability" does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
 
 #### (ii) Exception for individuals no longer engaging in drug use
 
@@ -384,7 +384,7 @@ For the purposes of this chapter:
 
 #### (iii) Exclusion for certain services
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III of this chapter, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
 
 #### (iv) Disciplinary action
 
@@ -434,11 +434,11 @@ For the purposes of this chapter:
 
 #### (B) Independent living services and centers for independent living
 
-&emsp;&emsp;For purposes of subchapter VII of this chapter, the term "individual with a significant disability" means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
+&emsp;&emsp;For purposes of subchapter VII, the term "individual with a significant disability" means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
 
 #### (C) Research and training
 
-&emsp;&emsp;For purposes of subchapter II of this chapter, the term "individual with a significant disability" includes an individual described in subparagraph (A) or (B).
+&emsp;&emsp;For purposes of subchapter II, the term "individual with a significant disability" includes an individual described in subparagraph (A) or (B).
 
 #### (D) Individuals with significant disabilities
 
@@ -508,7 +508,7 @@ For the purposes of this chapter:
 
 #### (28) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual did not have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
+&emsp;The term "personal assistance services" means a range of services, provided by one or more persons, designed to assist an individual with a disability to perform daily living activities on or off the job that the individual would typically perform if the individual didnot have a disability. Such services shall be designed to increase the individual's control in life and ability to perform everyday activities on or off the job.
 
 #### (30) <sup>2</sup> Pre-employment transition services
 
@@ -682,7 +682,7 @@ Pub. L. 113–128, §404(17), redesignated par. (31) as (33). Former par. (33) r
 
 Par. (34). Pub. L. 113–128, §404(17), redesignated par. (32) as (34). Former par. (34) redesignated (36).
 
-Pars. (35), (36). Pub. L. 113–128, §404(20), added pars. (35) and (36) and struck out former pars. (35) and (36), which defined "State workforce investment board" and"statewide workforce investment system", respectively.
+Pars. (35), (36). Pub. L. 113–128, §404(20), added pars. (35) and (36) and struck out former pars. (35) and (36), which defined "State workforce investment board" and "statewide workforce investment system", respectively.
 
 Pub. L. 113–128, §404(17), redesignated pars. (33) and (34) as (35) and (36), respectively. Former pars. (35) and (36) redesignated (38) and (39), respectively.
 

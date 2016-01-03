@@ -108,7 +108,7 @@ Sec. 2. <i>Definitions</i>. When used in this Order, the term—
 
 (4) discriminates with regard to the terms or conditions of membership because of race, color, creed, sex, age, or national origin;
 
-(f) "Agency management" means the agency head and all management officials, supervisors, and other representatives of management having authority to act for the agency on any matters relating to the implementation of the agency labor-management relations program established under this Order;
+(f) "Agency management" means the agency head and all management officials, supervisors, and otherrepresentatives of management having authority to act for the agency on any matters relating to the implementation of the agency labor-management relations program established under this Order;
 
 (g) "Authority" means the Federal Labor Relations Authority;
 
@@ -218,7 +218,7 @@ Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive reco
 
 (2) preclude or restrict consultations and dealings between an agency and a veterans organization with respect to matters of particular interest to employees with veterans preference; or
 
-(3) preclude an agency from consulting or dealing with a religious, social, fraternal, professional or otherlawful association, not qualified as a labor organization, with respect to matters or policies which involve individual members of the association or are of particular applicability to it or its members. Consultations and dealings under subparagraph (3) of this paragraph shall be so limited that they do not assume the character of formal consultation on matters of general employee-management policy covering employees in that unit or extend to areas where recognition of the interests of one employee group may result in discrimination against or injury to the interests of other employees.
+(3) preclude an agency from consulting or dealing with a religious, social, fraternal, professional or other lawful association, not qualified as a labor organization, with respect to matters or policies which involve individual members of the association or are of particular applicability to it or its members. Consultations and dealings under subparagraph (3) of this paragraph shall be so limited that they do not assume the character of formal consultation on matters of general employee-management policy covering employees in that unit or extend to areas where recognition of the interests of one employee group may result in discrimination against or injury to the interests of other employees.
 
 (e) \[Revoked by Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743.\]
 
@@ -262,7 +262,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
-(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
+(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligationto meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
 (c) If, in connection with negotiations, an issue develops as to whether a proposal is contrary to law, regulation, controlling agreement, or this order and therefore not negotiable, it shall be resolved as follows:
 
@@ -388,7 +388,7 @@ Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or
 
 (b) \[Revoked by Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743.\]
 
-Sec. 22. <i>Adverse action appeals</i>. The head of each agency, in accordance with the provisions of this Order and regulations prescribed by the Office of Personnel Management, shall extend to all employees in the competitive civil service rights identical in adverse action cases to those provided preference eligibles under sections 7511–7512 of title 5 of the United States Code. Each employee in the competitive service shall have the right to appeal to the Merit Systems Protection Board from an adverse decision of the administrative officer so acting, such appeal to be processed in an identical manner to that provided for appeals under section 7701 of title 5 of the United States Code. Any recommendation by the Merit Systems Protection Board submitted to the head of an agency on the basis of an appeal by an employee in the competitive service shall be complied with by the head of the agency.
+Sec. 22. <i>Adverse action appeals</i>. The head of each agency, in accordance with the provisions of this Order andregulations prescribed by the Office of Personnel Management, shall extend to all employees in the competitive civil service rights identical in adverse action cases to those provided preference eligibles under sections 7511–7512 of title 5 of the United States Code. Each employee in the competitive service shall have the right to appeal to the Merit Systems Protection Board from an adverse decision of the administrative officer so acting, such appeal to be processed in an identical manner to that provided for appeals under section 7701 of title 5 of the United States Code. Any recommendation by the Merit Systems Protection Board submitted to the head of an agency on the basis of an appeal by an employee in the competitive service shall be complied with by the head of the agency.
 
 Sec. 23. <i>Agency implementation</i>. No later than April 1, 1970, each agency shall issue appropriate policies and regulations consistent with this Order for its implementation. This includes but is not limited to a clear statement of the rights of its employees under this Order; procedures with respect to recognition of labor organizations, determination of appropriate units, consultation and negotiation with labor organizations, approval of agreements, mediation, and impasse resolution; policies with respect to the use of agency facilities by labor organizations; and policies and practices regarding consultation with other organizations and associations and individual employees. Insofar as practicable, agencies shall consult with representatives of labor organizations in the formulation of these policies and regulations.
 
@@ -456,7 +456,7 @@ Sec. 2. <i>The National Council on Federal Labor-Management Relations</i>. There
 
 &emsp;(ii) developing suggested measurements and metrics for the evaluation of the effectiveness of the Council and department or agency labor-management forums in order to promote consistent, appropriate, and administratively efficient measurement and evaluation processes across departments and agencies;
 
-&emsp;(iii) collecting and disseminating information about, and providing guidance on, labor-managementrelations improvement efforts in the executive branch, including results achieved;
+&emsp;(iii) collecting and disseminating information about, and providing guidance on, labor-management relations improvement efforts in the executive branch, including results achieved;
 
 &emsp;(iv) utilizing the expertise of individuals both within and outside the Federal Government to foster successful labor-management relations, including through training of department and agency personnel in methods of dispute resolution and cooperative methods of labor-management relations;
 
@@ -506,7 +506,7 @@ Sec. 3. <i>Implementation of Labor-Management Forums Throughout the Executive Br
 
 Sec. 4. <i>Negotiation over Permissive Subjects of Bargaining</i>.
 
-(a) In order to evaluate the impact of bargaining over permissive subjects, several pilot projects of specified duration shall be established in which some executive departments or agencies elect to bargain over some or all of the subjects set forth in 5 U.S.C. 7106(b)(1) and waive any objection to participating in impasse procedures set forth in 5 U.S.C. 7119 that is based on the subjects being permissive. The Council shall develop recommendations for establishing the pilot projects, including (i) recommendations for evaluating such pilot projects on the basis, among other things, of their impacts on organizational performance, employee satisfaction, and labor relations of the affected departments or agencies; (ii) recommended methods for evaluating the effectiveness of dispute resolution procedures adopted and followed in the course of the pilot projects; and (iii) a recommended timeline for expeditious implementation of the pilot programs.
+(a) In order to evaluate the impact of bargaining over permissive subjects, several pilot projects of specified duration shall be established in which some executive departments or agencies elect to bargain over some or all of the subjects set forth in 5 U.S.C. 7106(b)(1) andwaive any objection to participating in impasse procedures set forth in 5 U.S.C. 7119 that is based on the subjects being permissive. The Council shall develop recommendations for establishing the pilot projects, including (i) recommendations for evaluating such pilot projects on the basis, among other things, of their impacts on organizational performance, employee satisfaction, and labor relations of the affected departments or agencies; (ii) recommended methods for evaluating the effectiveness of dispute resolution procedures adopted and followed in the course of the pilot projects; and (iii) a recommended timeline for expeditious implementation of the pilot programs.
 
 (b) The Council shall present its recommendations to the President within 150 days after the date of this order.
 
@@ -534,5 +534,11 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+#### Extension of Term of U.S. General Services Administration Labor-Management Relations Council
+
+Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

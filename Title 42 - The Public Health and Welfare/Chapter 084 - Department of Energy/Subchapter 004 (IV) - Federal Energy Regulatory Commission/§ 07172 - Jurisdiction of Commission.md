@@ -60,7 +60,7 @@ The Commission is authorized to prescribe rules, regulations, and statements of 
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
@@ -160,7 +160,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 "(c)
 
-Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—Nothing in this section shall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act \[former 49 U.S.C. 13, 15(1)\] challenging any tariff provision as unduly discriminatory or unduly preferential.
+Limitation Regarding Unduly Discriminatory or Preferential Tariffs.—Nothing in this sectionshall prohibit any aggrieved person from filing a complaint under section 13 or section 15(l) of the Interstate Commerce Act \[former 49 U.S.C. 13, 15(1)\] challenging any tariff provision as unduly discriminatory or unduly preferential.
 
 #### "SEC. 1804. DEFINITIONS.
 

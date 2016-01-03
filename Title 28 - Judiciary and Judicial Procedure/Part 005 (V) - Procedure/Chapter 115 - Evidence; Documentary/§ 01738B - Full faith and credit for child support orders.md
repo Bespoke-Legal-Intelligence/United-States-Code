@@ -80,7 +80,7 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determiningwhich order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
@@ -102,7 +102,7 @@ Choice of Law.—
 
 &emsp;(1)
 
-In general.—In a proceeding to establish, modify, or enforce a child support order,the forum State's law shall apply except as provided in paragraphs (2) and (3).
+In general.—In a proceeding to establish, modify, or enforce a child support order, the forum State's law shall apply except as provided in paragraphs (2) and (3).
 
 &emsp;(2)
 

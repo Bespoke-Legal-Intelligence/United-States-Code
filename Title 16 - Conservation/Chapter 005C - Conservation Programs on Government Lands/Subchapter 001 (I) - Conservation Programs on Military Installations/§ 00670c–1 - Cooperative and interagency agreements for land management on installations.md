@@ -10,7 +10,7 @@ The Secretary of a military department may enter into cooperative agreements wit
 
 #### (b) Multiyear agreements
 
-(1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under section 1535 of title 31 during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+(1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) or through an agency agreement under section 1535 of title 31 during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
 
 (2) In the case of a cooperative agreement under subsection (a)(2), such funds—
 
@@ -26,7 +26,7 @@ The Secretary of a military department may enter into cooperative agreements wit
 
 (2) Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
 
-(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, \[div. A\], title III, §313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, §313, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, §312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, §312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, §312, Dec. 19, 2014, 128 Stat. 3336.)
+(Pub. L. 86–797, title I, §103a, as added Pub. L. 101–189, div. B, title XXVIII, §2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, §2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, \[div. A\], title III, §313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, §313, Oct. 28, 2009, 123 Stat. 2248; Pub. L.112–81, div. A, title III, §312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, §312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, §312, Dec. 19, 2014, 128 Stat. 3336.)
 
 #### Codification
 

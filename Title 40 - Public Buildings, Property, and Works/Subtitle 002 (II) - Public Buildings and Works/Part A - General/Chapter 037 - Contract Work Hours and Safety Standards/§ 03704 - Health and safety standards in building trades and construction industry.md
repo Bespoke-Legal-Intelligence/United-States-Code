@@ -130,7 +130,7 @@ In subsection (d)(6), the words "expenses under section 5703 of title 5" are sub
 
 #### References in Text
 
-Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg. Plan No. 14 of 1950, eff. May24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

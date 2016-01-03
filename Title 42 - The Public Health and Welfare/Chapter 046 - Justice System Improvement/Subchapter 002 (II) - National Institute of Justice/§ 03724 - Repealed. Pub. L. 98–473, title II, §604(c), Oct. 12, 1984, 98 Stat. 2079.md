@@ -8,7 +8,7 @@ Section 3724, Pub. L. 90–351, title I, §204, June 19, 1968, 82 Stat. 199; Pub
 
 Section 3725, Pub. L. 90–351, title I, §205, June 19, 1968, 82 Stat. 199; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 199; Pub. L. 94–503, title I, §107, Oct. 15, 1976, 90 Stat. 2410, related to allocation of funds and reallocation of unused funds.
 
-Section 3726, Pub. L. 90–351, title I, §206, as added Pub. L. 94–503, title I, §108, Oct. 15, 1976, 90 Stat. 2411,related to advisory review of comprehensive statewide plans by States.
+Section 3726, Pub. L. 90–351, title I, §206, as added Pub. L. 94–503, title I, §108, Oct. 15, 1976, 90 Stat. 2411, related to advisory review of comprehensive statewide plans by States.
 
 #### Effective Date of Repeal
 

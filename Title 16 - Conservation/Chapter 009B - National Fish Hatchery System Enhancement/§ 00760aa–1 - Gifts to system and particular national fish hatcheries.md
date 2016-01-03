@@ -8,7 +8,7 @@ In furtherance of the purposes of this chapter, the Secretary of the Interior ma
 
 #### (1) In general
 
-&emsp;Any gifts and bequests of money and proceeds from the sales of other property received as gifts or bequests pursuant to this subsection shall be deposited in a separate account in the Treasury and may be expended without further appropriation by the Secretary for the benefit of the System programs administered by the United States Fish and Wildlife Service.
+&emsp;Any gifts and bequests of money and proceeds from the sales of other property receivedas gifts or bequests pursuant to this subsection shall be deposited in a separate account in the Treasury and may be expended without further appropriation by the Secretary for the benefit of the System programs administered by the United States Fish and Wildlife Service.
 
 #### (2) Gifts, devises, and bequests for particular facilities
 

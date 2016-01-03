@@ -2,7 +2,7 @@
 
 #### (a) Fisheries disaster relief
 
-(1) At the discretion of the Secretary or at the request of the Governor of an affected State or a fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
+(1) At the discretion of the Secretary or at the request of the Governor of an affected State ora fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
 
 &emsp;(A) natural causes;
 
@@ -34,7 +34,7 @@
 
 &emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
 
-&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limitedaccess system permit in the fishery for which the program was established.
+&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
 
 (3) Participation in the program shall be voluntary, but the Secretary shall ensure compliance by all who do participate.
 
@@ -74,11 +74,11 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 &emsp;(B) appropriated for the purposes of this section;
 
-&emsp;(C) provided by an industry fee system established under subsection (d) of this section and in accordance with section 53735 of title 46; or
+&emsp;(C) provided by an industry fee system established under subsection (d) and in accordance with section 53735 of title 46; or
 
 &emsp;(D) provided from any State or other public sources or private or non-profit organizations.
 
-(2) All funds for the program, including any fees established under subsection (d) of this section, shall be paid into the fishing capacity reduction fund established under section 53735 of title 46.
+(2) All funds for the program, including any fees established under subsection (d), shall be paid into the fishing capacity reduction fund established under section 53735 of title 46.
 
 #### (d) Industry fee system
 

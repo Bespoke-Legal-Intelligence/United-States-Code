@@ -72,7 +72,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;For the purpose of providing assistance under this section, the President shall ensure that—
 
-&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental PolicyAct of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
+&emsp;&emsp;(A) adequate resources are devoted to ensure that applicable environmental reviews under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and historic preservation reviews under the National Historic Preservation Act <sup>1</sup> are completed on an expeditious basis; and
 
 &emsp;&emsp;(B) the shortest existing applicable process under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the National Historic Preservation Act <sup>1</sup> is utilized.
 

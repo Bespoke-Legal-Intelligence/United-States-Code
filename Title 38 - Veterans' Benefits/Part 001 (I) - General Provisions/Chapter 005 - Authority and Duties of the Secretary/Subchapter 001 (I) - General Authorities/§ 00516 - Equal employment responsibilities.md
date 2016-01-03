@@ -12,7 +12,7 @@
 
 (d) The Secretary shall, when appropriate, impose disciplinary measures, as authorized by law, in the case of employees of the Department who engage in unlawful employment discrimination, including retaliation against an employee asserting rights under an equal employment opportunity law.
 
-(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shallsubmit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
+(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
 (B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals' personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals' positions as officials of the Department.
 
@@ -108,7 +108,7 @@ Agreement for Assessment and Review.—(1) The Secretary of Veterans Affairs sha
 
 "(b)
 
-Initial Assessment of System.—(1) Under the agreement under subsection (a), the entity shall conduct an assessment of the employment discrimination complaint resolution system administered within the Department of Veterans Affairs, including the extent to which the system meets the objectives set forth in section 516(a) of title 38, United States Code, as added by section 101. The assessment shall include a comprehensive description of the system as of the time of the assessment.
+Initial Assessment of System.—(1) Under the agreement under subsection (a), the entity shall conduct an assessment of the employment discriminationcomplaint resolution system administered within the Department of Veterans Affairs, including the extent to which the system meets the objectives set forth in section 516(a) of title 38, United States Code, as added by section 101. The assessment shall include a comprehensive description of the system as of the time of the assessment.
 
 "(2) Under the agreement, the entity shall submit the assessment to the committees referred to in subsection (a)(3) and to the Secretary not later than June 1, 1998.
 

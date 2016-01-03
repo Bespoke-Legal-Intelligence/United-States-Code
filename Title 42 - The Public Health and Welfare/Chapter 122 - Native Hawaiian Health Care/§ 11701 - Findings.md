@@ -22,7 +22,7 @@ The Congress finds that:
 
 &emsp;(8) In pursuance of that conspiracy, the United States Minister and the naval representative of the United States caused armed naval forces of the United States to invade the sovereign Hawaiian Nation in support of the overthrow of the indigenous and lawful Government of Hawaii and the United States Minister thereupon extended diplomatic recognition of a provisional government formed by the conspirators without the consent of the native people of Hawaii or the lawful Government of Hawaii in violation of treaties between the two nations and of international law.
 
-&emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions, and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
+&emsp;(9) In a message to Congress on December 18, 1893, then President Grover Cleveland reported fully and accurately on these illegal actions,and acknowledged that by these acts, described by the President as acts of war, the government of a peaceful and friendly people was overthrown, and the President concluded that a "substantial wrong has thus been done which a due regard for our national character as well as the rights of the injured people required that we should endeavor to repair".
 
 &emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
@@ -34,7 +34,7 @@ The Congress finds that:
 
 &emsp;(14) In 1938, the United States Congress again acknowledged the unique status of the Hawaiian people by including in the Act of June 20, 1938 (52 Stat. 781 et seq.), a provision to lease lands within the extension to Native Hawaiians and to permit fishing in the area "only by native Hawaiian residents of said area or of adjacent villages and by visitors under their guidance".
 
-&emsp;(15) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approveland exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
+&emsp;(15) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
 
 &emsp;(16) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for administration over portions of the ceded public lands trust not retained by the United States to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the legal responsibility of the State for the betterment of the conditions of Native Hawaiians under section 5(f) of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4, 6).
 
@@ -48,7 +48,7 @@ The Congress finds that:
 
 &emsp;(21) The United States has also affirmed the historical and unique legal relationship to the Hawaiian people by authorizing the provision of services to Native Hawaiians to address problems of alcohol and drug abuse under the Anti-Drug Abuse Act of 1986.
 
-&emsp;(22) Despite such services, the unmet health needs of the Native Hawaiian people are severe and the health status of Native Hawaiians continues to be far below that of the general population of the United States.
+&emsp;(22) Despite such services, the unmet health needs of the Native Hawaiian people are severeand the health status of Native Hawaiians continues to be far below that of the general population of the United States.
 
 (Pub. L. 100–579, §2, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2302, Nov. 18, 1988, 102 Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 
@@ -76,7 +76,7 @@ The Older Americans Act of 1965, referred to in par. (20), is Pub. L. 89–73, J
 
 The Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1987, referred to in par. (20), is Pub. L. 100–146, Oct. 29, 1987, 101 Stat. 840, as amended. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6000 of this title and Tables.
 
-The Veterans' Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102 Stat. 487, as amended. For complete classification ofthis Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans' Benefits, and Tables.
+The Veterans' Benefits and Services Act of 1988, referred to in par. (20), is Pub. L. 100–322, May 20, 1988, 102 Stat. 487, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 101 of Title 38, Veterans' Benefits, and Tables.
 
 The Rehabilitation Act of 1973, referred to in par. (20), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

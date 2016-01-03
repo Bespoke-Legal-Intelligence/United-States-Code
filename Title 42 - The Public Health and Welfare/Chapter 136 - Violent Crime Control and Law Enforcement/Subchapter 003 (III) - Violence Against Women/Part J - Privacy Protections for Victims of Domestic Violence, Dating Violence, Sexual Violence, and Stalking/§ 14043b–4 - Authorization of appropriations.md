@@ -10,7 +10,7 @@ Of the amount made available under this section in each fiscal year, 10 percent 
 
 #### (c) Technical assistance and training
 
-Of the amount made available under this section in each fiscal year, not less than 5 percent shall be used for grants to organizations that have expertise in confidentiality, privacy, and technology issues impacting victims of domestic violence, dating violence, sexual assault, and stalking to provide technical assistance and training to grantees and non-grantees on how to improve safety, privacy, confidentiality, and technology to protect victimized persons.
+Of the amount made available under this section in each fiscal year, not less than 5 percentshall be used for grants to organizations that have expertise in confidentiality, privacy, and technology issues impacting victims of domestic violence, dating violence, sexual assault, and stalking to provide technical assistance and training to grantees and non-grantees on how to improve safety, privacy, confidentiality, and technology to protect victimized persons.
 
 (Pub. L. 103–322, title IV, §41105, as added Pub. L. 109–162, title I, §107, Jan. 5, 2006, 119 Stat. 2984.)
 

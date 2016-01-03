@@ -8,7 +8,7 @@ A person charged with treason or other capital offense shall at least three enti
 
 Based on title 18, U.S.C., 1940 ed., §562 (R.S. §1033).
 
-Words "or other capital offense" inserted after "treason" and "jurors" substituted for "jury". The concluding sentence "When any person is indicted for any other capital offense, such copy of the indictment and list of the jurors and witnesses shall be delivered to him at least two entire days before the trial" was omitted. The change made by the revisers, permitting an additional day's preparation for trial in homicide, kidnapping, rape, and other capital cases seemed not unreasonable.
+Words "or other capital offense" inserted after "treason" and "jurors" substituted for "jury". The concluding sentence "When any person is indicted for any other capital offense, such copy of the indictment andlist of the jurors and witnesses shall be delivered to him at least two entire days before the trial" was omitted. The change made by the revisers, permitting an additional day's preparation for trial in homicide, kidnapping, rape, and other capital cases seemed not unreasonable.
 
 Words "shall be delivered to him", at end of section, were omitted as unnecessary.
 

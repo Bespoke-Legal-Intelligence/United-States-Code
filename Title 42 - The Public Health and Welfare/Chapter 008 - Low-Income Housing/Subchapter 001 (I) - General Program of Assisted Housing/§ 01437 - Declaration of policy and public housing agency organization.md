@@ -16,7 +16,7 @@ It is the policy of the United States—
 
 &emsp;(3) that the Federal Government should act where there is a serious need that private citizens or groups cannot or are not addressing responsibly; and
 
-&emsp;(4) that our Nation should promote the goal of providing decent and affordable housing for all citizens through the efforts and encouragement of Federal, State, and local governments, and by the independent and collective actions of private citizens, organizations, and the private sector.
+&emsp;(4) that our Nation should promote the goal of providing decent and affordable housing forall citizens through the efforts and encouragement of Federal, State, and local governments, and by the independent and collective actions of private citizens, organizations, and the private sector.
 
 #### (b) Public housing agency organization
 
@@ -152,7 +152,7 @@ Effective date.—Paragraph (1) shall take effect as if such provision were enac
 
 Pub. L. 101–625, title IV, §419, Nov. 28, 1990, 104 Stat. 4161, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\]."
 
-Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply."
+Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housingand Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply."
 
 #### Applicability of 1989 Amendments; Indian Housing
 
@@ -192,7 +192,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, an asset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
 
-&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems,including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
+&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
 
 &emsp;"(4) the Federal method of overseeing every aspect of public housing by detailed and complex statutes and regulations has aggravated the problem and has placed excessive administrative burdens on public housing agencies; and
 

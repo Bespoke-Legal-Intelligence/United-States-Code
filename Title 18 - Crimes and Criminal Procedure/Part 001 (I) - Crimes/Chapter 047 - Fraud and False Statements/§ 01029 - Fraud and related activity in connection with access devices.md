@@ -44,7 +44,7 @@ Generally.—The punishment for an offense under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
 
-&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine underthis title or imprisonment for not more than 15 years, or both;
+&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
 
 &emsp;&emsp;(B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
 
@@ -86,13 +86,9 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 (2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 
-(h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
+(h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
-&emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
-
-&emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
-
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII,§330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(l), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 114–113, div. N, title IV, §407, Dec. 18, 2015, 129 Stat. 2985.)
 
 #### References in Text
 
@@ -101,6 +97,12 @@ Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is 
 The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h). Pub. L. 114–113 substituted "title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States." for "title if—
+
+&emsp;"(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
+
+&emsp;"(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom."
 
 <b>2002</b>—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, §4002(b)(11)(A), substituted "(9)" for "(9),".
 
@@ -118,7 +120,7 @@ Subsec. (b)(1). Pub. L. 105–172, §2(b)(2), substituted "subject to the same p
 
 Subsec. (c). Pub. L. 105–172, §2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
-&emsp;"(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+&emsp;"(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6),\(7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
 &emsp;"(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
 

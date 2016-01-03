@@ -24,7 +24,7 @@
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–419 substituted "subchapter" for "subsection".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–368, §805(3)(A), designated existing provisions as par. (1), substituted "To apply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter," for "To apply to participate in the Educational Assistance Program,", and added par. (2).
+<b>1998</b>—Subsec. (a). Pub. L. 105–368, §805(3)(A), designated existing provisions as par. (1), substituted "Toapply to participate in the Educational Assistance Program under subsection II, III, V, or VI of this chapter," for "To apply to participate in the Educational Assistance Program,", and added par. (2).
 
 Subsec. (b)(1). Pub. L. 105–368, §805(3)(B), inserted "(if required)" before period at end.
 

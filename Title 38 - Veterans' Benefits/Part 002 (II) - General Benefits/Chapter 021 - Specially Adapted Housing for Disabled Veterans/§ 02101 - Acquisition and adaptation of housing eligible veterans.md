@@ -16,7 +16,9 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 &emsp;(ii) The disability is due to—
 
-&emsp;&emsp;(I) blindness in both eyes, having only light perception, plus (ii) <sup>1</sup> loss or loss of use of one lower extremity.
+&emsp;&emsp;(I) blindness in both eyes, having only light perception, plus
+
+&emsp;&emsp;(II) loss or loss of use of one lower extremity.
 
 &emsp;(iii) The disability is due to the loss or loss of use of one lower extremity together with—
 
@@ -44,9 +46,9 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 &emsp;(C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran's needs for dwelling purposes.
 
-(4)(A) Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2015.
+(4)(A) Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2016.
 
-(B) In each of fiscal years 2014 and 2015, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+(B) In each of fiscal years 2014 through 2016, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
 (b)
 
@@ -74,13 +76,23 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 Regulations.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48),702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, §405, Sept. 26, 2014, 128 Stat. 1905.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, §405, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §407, title VI, §601(10), (11), Sept. 30, 2015, 129 Stat. 535, 538.)
 
 #### Prior Provisions
 
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–58, §601(10), realigned margins.
+
+Subsec. (a)(2)(B)(ii). Pub. L. 114–58, §601(11), added cl. (ii) and struck out former cl. (ii) which read as follows: "The disability is due to—
+
+&emsp;"(I) blindness in both eyes, having only light perception, plus (ii) loss or loss of use of one lower extremity."
+
+Subsec. (a)(4)(A). Pub. L. 114–58, §407(1), substituted "September 30, 2016" for "September 30, 2015".
+
+Subsec. (a)(4)(B). Pub. L. 114–58, §407(2), substituted "each of fiscal years 2014 through 2016" for "each of fiscal years 2014 and 2015".
 
 <b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–175, §405(1), substituted "September 30, 2015" for "September 30, 2014".
 
@@ -166,7 +178,7 @@ Amendment by Pub. L. 95–117 effective Oct. 1, 1977, see section 501 of Pub. L.
 
 #### Pilot Program to Rehabilitate and Modify Homes of Disabled and Low-Income Veterans
 
-Pub. L. 113–291, div. A, title X, §1079, Dec. 19, 2014, 128 Stat. 3521, provided that:
+Pub. L. 113–291, div. A, title X, §1079, Dec. 19, 2014, 128 Stat. 3521, as amended by Pub. L. 114–92, div. A, title X, §1081(b)(4), Nov. 25, 2015, 129 Stat. 1001, provided that:
 
 "(a)
 
@@ -174,7 +186,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Disabled.—The term 'disabled' means an individual with a disability, as defined by section 12102 of title 42, United States Code.
+Disabled.—The term 'disabled' means an individual with a disability, as defined by section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
 &emsp;"(2)
 
@@ -306,7 +318,7 @@ Matching funds.—
 
 &emsp;&emsp;"(A)
 
-In general.—A qualified organization receiving a grant under the pilot program shall contribute towards the housing modification and rehabilitation services provided to eligible veterans anamount equal to not less than 50 percent of the grant award received by such organization.
+In general.—A qualified organization receiving a grant under the pilot program shall contribute towards the housing modification and rehabilitation services provided to eligible veterans an amount equal to not less than 50 percent of the grant award received by such organization.
 
 &emsp;&emsp;"(B)
 
@@ -357,6 +369,4 @@ Inspector general report.—Not later than March 31, 2019, the Inspector General
 &emsp;"(9)
 
 Authorization of appropriations.—There are authorized to be appropriated for the Department of Housing and Urban Development for carrying out this section $4,000,000 for each of fiscal years 2015 through 2019."
-
-<i><sup>1</sup></i><i> So in original. Probably should be a separate subcl. and be designated "(II)".</i>
 

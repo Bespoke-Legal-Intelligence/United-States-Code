@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may pay the travel, subsistence, and similar personal expenses of defense personnel of developing countries in connection with the attendance of such personnel at a multilateral, bilateral, or regional conference, seminar, or similar meeting if the Secretary determines that the attendance of such personnel at such conference, seminar, or similar meeting is in the national security interests of the United States.
 
-(b)(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel to, from, and within the area of responsibility of the unified combatant command (as such term is defined in section 161(c) of this title) in which the multilateral, bilateral, or regional conference, seminar, or similar meeting for which expenses are authorized is located or in connection with travel to Canada or Mexico.
+(b)(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel to, from, and within the area of responsibility of the unified combatant command (as such term is defined in section 161(c) of thistitle) in which the multilateral, bilateral, or regional conference, seminar, or similar meeting for which expenses are authorized is located or in connection with travel to Canada or Mexico.
 
 (2) In a case in which the headquarters of a unified combatant command is located within the United States, expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the United States to attend a multilateral, bilateral, or regional conference, seminar, or similar meeting.
 
@@ -76,7 +76,7 @@ Transportation, Supplies, and Allowance.—Under such conditions as the Secretar
 
 &emsp;"(4) billeting, food, and health services; and
 
-&emsp;"(5) a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the Armed Forces of the United States under similar circumstances.
+&emsp;"(5) a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the ArmedForces of the United States under similar circumstances.
 
 "(c)
 

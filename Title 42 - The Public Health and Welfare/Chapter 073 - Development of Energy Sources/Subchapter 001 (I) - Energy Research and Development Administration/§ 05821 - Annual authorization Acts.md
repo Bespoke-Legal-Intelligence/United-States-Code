@@ -62,7 +62,7 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 &emsp;(1) this subsection shall not apply with respect to sums received from disposal of property under the Atomic Energy Community Act of 1955 \[42 U.S.C. 2301 et seq.\] or the Strategic and Critical Materials Stockpiling Act, as amended \[50 U.S.C. 98 et seq.\], or with respect to fees received for tests or investigations under the Act of May 16, 1910, as amended (30 U.S.C. 7); and
 
-&emsp;(2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred by the Administration in providing uranium enrichment service activities.
+&emsp;(2) revenues received by the Administration from the enrichment of uranium shall (when so specified) be retained and used for the specific purpose of offsetting costs incurred bythe Administration in providing uranium enrichment service activities.
 
 #### (i) Requirements respecting transfers of sums appropriated for operating expenses to other Government agencies; merger of transferred sums
 

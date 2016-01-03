@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+&emsp;&emsp;Except in the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
 &emsp;&emsp;&emsp;(i) at least one representative of the Statewide Independent Living Council established under section 796d of this title, which representative may be the chairperson or other designee of the Council;
 
@@ -46,7 +46,7 @@
 
 #### (B) Separate Council
 
-&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
 &emsp;&emsp;&emsp;(i) at least one representative described in subparagraph (A)(i);
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) at least one representative described in subparagraph (A)(iii);
 
-&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph\(A)(iv), who shall serve as described in such subparagraph;
+&emsp;&emsp;&emsp;(iv) at least one vocational rehabilitation counselor described in subparagraph (A)(iv), who shall serve as described in such subparagraph;
 
 &emsp;&emsp;&emsp;(v) at least one representative described in subparagraph (A)(v);
 
@@ -78,7 +78,7 @@
 
 #### (C) Exception
 
-&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2), any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
 
 &emsp;&emsp;&emsp;(i) meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
 
@@ -108,7 +108,7 @@
 
 #### (B) Separate Council
 
-&emsp;&emsp;In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
+&emsp;&emsp;In the case of a separate Council established under subsection (a)(2), a majority of Council members shall be persons who are—
 
 &emsp;&emsp;&emsp;(i) blind; and
 
@@ -216,7 +216,7 @@ The Council may use funds allocated to the Council by the designated State unit 
 
 #### (h) Hearings and forums
 
-The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
+The Council is authorized to hold such hearings and forums as the Council may determineto be necessary to carry out the duties of the Council.
 
 (Pub. L. 93–112, title I, §105, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1151; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415; Pub. L. 106–402, title IV, §401(b)(3)(A), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–446, title III, §305(h)(2), (3), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 113–128, title IV, §415, July 22, 2014, 128 Stat. 1654.)
 
@@ -256,5 +256,5 @@ Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

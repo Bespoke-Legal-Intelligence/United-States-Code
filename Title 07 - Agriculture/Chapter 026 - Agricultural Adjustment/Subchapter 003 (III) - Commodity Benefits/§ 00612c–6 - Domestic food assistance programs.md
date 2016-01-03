@@ -62,7 +62,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsecs. (b)(1)
 
 The Child Nutrition Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 742a of Title 16 and Tables.
+The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 742a of Title 16 and Tables.
 
 The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 inserted "except section 21, and the Child Nutrition Act of 1966 (42 U.S.C.1771 et seq.), except sections 17 and 21" before period at end.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 inserted "except section 21, and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except sections 17 and 21" before period at end.
 
 #### Effective Date
 

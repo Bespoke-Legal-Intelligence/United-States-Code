@@ -82,6 +82,10 @@ In the case of an individual who files a return of tax on or before the due date
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649; Pub. L. 113–295, div. B, title II, §208(a), Dec. 19, 2014, 128 Stat. 4072.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (i). Pub. L. 113–295 added subsec. (i).
@@ -106,7 +110,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1502(a), added subsec. (d) and redesignat
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248, §318(a), inserted provision that, in the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under par. (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
 
-Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) of subsec. (a) shall not be reduced under first sentence of this subpar. below the amount provided in such last sentence.
+Subsec. (c)(1)(A). Pub. L. 97–248, §318(b)(1), inserted provision that in any case described in last sentence of subsec. (a), the amount of the addition under par. (1) of subsec. (a) shall not be reduced under first sentence ofthis subpar. below the amount provided in such last sentence.
 
 Subsec. (c)(1)(B). Pub. L. 97–248, §318(b)(2), inserted "(determined without regard to the last sentence of such subsection)" after "paragraph (1) of subsection (a)".
 

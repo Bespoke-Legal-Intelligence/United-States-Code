@@ -2,7 +2,7 @@
 
 #### (a) Technical and financial assistance
 
-The Administrator of the Environmental Protection Agency may provide technical and financial assistance in the form of grants to States (1) for the construction, rehabilitation, and improvement of water supply systems, and (2) consistent with nonpoint source management programs established under section 1329 of title 33, for source water quality protection programs to address pollutants in navigable waters for the purpose of making such waters usable by water supply systems.
+The Administrator of the Environmental Protection Agency may provide technical and financial assistance in the form of grants to States (1) for the construction, rehabilitation, and improvement of water supply systems, and (2) consistent with nonpoint source management programs established under section 1329 of title 33, for source water quality protection programs to address pollutants in navigable waters for thepurpose of making such waters usable by water supply systems.
 
 #### (b) Limitation
 

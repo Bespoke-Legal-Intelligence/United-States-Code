@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Pub. L. 100–418, title X, §10002(d), Aug. 23, 1988, 102 Stat. 1571; Pub. L. 105–258, title I, §111(4), Oct. 14, 1998, 112 Stat. 1911.
 
-In subsection (b), the words "subpoena witnesses and evidence" are substituted for "issue subpoenas to compel the attendance and testimony of witnesses and the production of records or other evidence" for consistency in the revised title and to eliminate unnecessary words.
+In subsection (b), the words "subpoena witnesses and evidence" are substituted for "issue subpoenas to compel the attendance and testimony of witnesses and theproduction of records or other evidence" for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (c), the words "in its discretion" are omitted as unnecessary.
 

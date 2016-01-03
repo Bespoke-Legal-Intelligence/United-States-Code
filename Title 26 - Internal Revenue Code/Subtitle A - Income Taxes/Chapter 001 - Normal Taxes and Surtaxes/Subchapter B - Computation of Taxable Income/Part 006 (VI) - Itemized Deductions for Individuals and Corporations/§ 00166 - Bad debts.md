@@ -132,7 +132,7 @@ Pub. L. 89–722, §2, Nov. 2, 1966, 80 Stat. 1152, as amended by Pub. L. 99–5
 
 "(b) If—
 
-&emsp;"(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date,under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations described in section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
+&emsp;"(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date, under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations described in section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
 
 &emsp;"(2) the assessment of a deficiency of the tax imposed by chapter 1 of such Code for such taxable year and each subsequent taxable year ending before October 22, 1965, is not prevented on December 31, 1966, by the operation of any law or rule of law,
 

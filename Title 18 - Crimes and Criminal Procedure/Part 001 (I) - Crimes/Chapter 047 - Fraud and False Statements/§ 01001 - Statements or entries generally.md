@@ -38,7 +38,7 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted "be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both" for "be fined under this title or imprisoned not more than 5 years, or both" in concluding provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted "be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both" for "be fined under this title orimprisoned not more than 5 years, or both" in concluding provisions.
 
 <b>1996</b>—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both."
 
@@ -84,7 +84,7 @@ Pub. L. 101–123, §1, Oct. 23, 1989, 103 Stat. 759, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: "This Act \[enacting sections 293 and 1031 ofthis title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the 'Major Fraud Act of 1988'."
+Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: "This Act \[enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the 'Major Fraud Act of 1988'."
 
 #### Short Title of 1986 Amendment
 

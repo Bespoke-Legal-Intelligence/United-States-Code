@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) commerce within the District of Columbia.
 
-&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from one State with the expectation that they will end their transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
+&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from oneState with the expectation that they will end their transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
 
 &emsp;(5) The term "foreign commerce" means commerce between the United States, its possessions, or any Territory of the United States, and any foreign country.
 
@@ -112,7 +112,7 @@ Subsec. (a)(10). Pub. L. 89–686, §1, struck out references to "Alaska," and "
 
 Subsec. (a)(11). Pub. L. 89–686, §3, substituted "soybean, flax, carrot, radish" for "wheat, oat, vetch, sweetclover".
 
-<b>1958</b>—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter bystriking out "excluding sugar beet" after "Beta vulgaris L.—Field beet".
+<b>1958</b>—Subsec. (a)(7)(A). Pub. L. 85–581, §1, included sugar beets in list of seeds subject to this chapter by striking out "excluding sugar beet" after "Beta vulgaris L.—Field beet".
 
 Subsec. (a)(24). Pub. L. 85–581, §2, added par. (24).
 

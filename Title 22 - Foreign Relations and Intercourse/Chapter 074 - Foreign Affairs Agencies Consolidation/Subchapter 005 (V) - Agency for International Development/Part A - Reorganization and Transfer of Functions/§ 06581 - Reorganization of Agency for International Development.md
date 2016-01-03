@@ -16,7 +16,7 @@ The reorganization of the Agency for International Development shall provide, at
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, knownas the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Effective Date
 

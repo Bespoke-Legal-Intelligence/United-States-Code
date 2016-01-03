@@ -12,7 +12,7 @@ General Authority to Accept Gifts.—(1) The Secretary concerned may accept, hol
 
 Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—
 
-&emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incura wound, injury, or illness while in the line of duty;
+&emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incur a wound, injury, or illness while in the line of duty;
 
 &emsp;(B) civilian employees of the Department of Defense who incur a wound, injury, or illness while in the line of duty;
 
@@ -56,21 +56,35 @@ Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property 
 
 (e)
 
-Payment of Expenses.—The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+Acceptance of Real Property Gifts; Naming Rights.—(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real property offered to the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy even though the gift will be subject to the condition that the real property, or a portion thereof, bear a specified name.
+
+(2) The authority conferred by this subsection may be delegated by the Secretary concerned only to a civilian official appointed by the President, by and with the advice and consent of the Senate.
+
+(3) A gift may not be accepted under paragraph (1) if—
+
+&emsp;(A) the acceptance of the gift or the imposition of the naming-rights condition would reflect unfavorably upon the United States, as provided in subsection (d)(2); or
+
+&emsp;(B) the real property to be subject to the condition, or portion thereof, has been named by an act of Congress.
+
+(4) The Secretaries concerned shall issue uniform regulations governing the circumstances under which gifts conditioned on naming rights may be accepted, appropriate naming conventions, and suitable display standards.
 
 (f)
 
-Treatment of Gifts.—For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+Payment of Expenses.—The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
 
 (g)
 
-Management of Funds.—In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
+Treatment of Gifts.—For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
 
 (h)
 
-Comptroller General Review.—The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+Management of Funds.—In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
 
 (i)
+
+Comptroller General Review.—The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+
+(j)
 
 Definitions.—In this section:
 
@@ -78,7 +92,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat.2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174.)
 
 Historical and Revision Notes
 
@@ -115,6 +129,8 @@ In subsection (c), the words "any gift, devise, or bequest of" and "real or pers
 In subsection (d), the words "or any part thereof deposited in the Treasury pursuant to section 150r of this title" are omitted as surplusage.
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (e) to (j). Pub. L. 114–92 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §2852(a)(1), designated existing provisions as par. (1), substituted "The" for "Subject to subsection (d)(2), the", and added par. (2).
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
 
-&emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize therefinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
+&emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize the refinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
 
 &emsp;&emsp;(F) The terms of the refinancing do not result in a balloon payment, as defined in subsection (b)(2)(A)(ii).
 
@@ -76,7 +76,7 @@
 
 #### (7) Fully-indexed rate defined
 
-&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at thetime the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
 
 #### (8) Reverse mortgages and bridge loans
 
@@ -142,7 +142,7 @@
 
 #### (iii) Bona fide discount points defined
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fidereduction of, the interest rate or time-price differential applicable to the mortgage.
 
 #### (iv) Interest rate reduction
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;(iv) that is extended by a creditor that—
 
-&emsp;&emsp;&emsp;&emsp;(I) operates predominantly in rural or underserved areas;
+&emsp;&emsp;&emsp;&emsp;(I) operates in rural or underserved areas;
 
 &emsp;&emsp;&emsp;&emsp;(II) together with all affiliates, has total annual residential mortgage loan originations that do not exceed a limit set by the Bureau;
 
@@ -290,7 +290,7 @@ No creditor may extend credit to a borrower in connection with a consumer credit
 
 #### (2) Notice at time of consummation
 
-&emsp;In the case of any residential mortgage loan that is, or upon consummation will be, subject to protection under an anti-deficiency law, the creditor or mortgage originator shall provide a written notice to the consumer describing the protection provided by the anti-deficiencylaw and the significance for the consumer of the loss of such protection before such loan is consummated.
+&emsp;In the case of any residential mortgage loan that is, or upon consummation will be, subject to protection under an anti-deficiency law, the creditor or mortgage originator shall provide a written notice to the consumer describing the protection provided by the anti-deficiency law and the significance for the consumer of the loss of such protection before such loan is consummated.
 
 #### (3) Notice before refinancing that would cause loss of protection
 
@@ -308,7 +308,7 @@ In the case of any residential mortgage loan, a creditor shall disclose prior to
 
 This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-(Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152.)
+(Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, §89003(1), Dec. 4, 2015, 129 Stat. 1800.)
 
 #### References in Text
 
@@ -321,6 +321,8 @@ The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 2
 The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2136. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1601 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(E)(iv)(I). Pub. L. 114–94 struck out "predominantly" after "operates".
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 

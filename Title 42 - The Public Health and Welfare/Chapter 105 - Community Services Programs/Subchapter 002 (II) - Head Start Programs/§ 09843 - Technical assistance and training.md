@@ -24,11 +24,11 @@
 
 &emsp;&emsp;&emsp;(ii) assisting Head Start agencies in ensuring the school readiness of children; and
 
-&emsp;&emsp;&emsp;(iii) activities that supplement those funded with amounts provided under section 9835(a)(5)(B) of this title to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities, and for activities described in section 6372(d) of title 20), and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
+&emsp;&emsp;&emsp;(iii) activities that supplement those funded with amounts provided under section 9835(a)(5)(B) of this title to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities <sup>1</sup> and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
 
 &emsp;&emsp;(B) to the maximum extent practicable—
 
-&emsp;&emsp;&emsp;(i) assist Head Start agencies in the development of collaborative initiatives with States and other entities within theStates, to foster effective professional development systems for early childhood education and development services;
+&emsp;&emsp;&emsp;(i) assist Head Start agencies in the development of collaborative initiatives with States and other entities within the States, to foster effective professional development systems for early childhood education and development services;
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance and training, either directly or through a grant, contract, or cooperative agreement with an entity that has experience in the development and operation of successful family literacy services programs, for the purpose of—
 
@@ -126,7 +126,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(F) Activities that help local programs ensure that the arrangement, condition, and implementation of the learning environments in Head Start programs are conducive to providing effective program services to children and families.
 
-&emsp;&emsp;(G) Activities to provide training necessary to improve the qualifications of Head Start staff and to support staff training, child counseling, health services, and other services necessary to address the needs of children enrolled in Head Start programs, including children from families in crises, children who experience chronic violence or homelessness, children who experience substance abuse in their families, and children under 3 years of age, where applicable.
+&emsp;&emsp;(G) Activities to provide training necessary to improve the qualifications of Head Start staff and to support staff training, child counseling, health services, and other services necessary to address the needs of children enrolled in Head Start programs, including children from families in crises, children who experience chronic violence orhomelessness, children who experience substance abuse in their families, and children under 3 years of age, where applicable.
 
 &emsp;&emsp;(H) Activities to provide classes or in-service-type programs to improve or enhance parenting skills, job skills, and adult and family literacy, including financial literacy, or training to become a classroom aide or bus driver in a Head Start program.
 
@@ -142,7 +142,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(D) the literacy training shall include specific methods to best address the needs of children who are limited English proficient;
 
-&emsp;&emsp;(E) the literacy training shall include training on how to best address the languageand literacy needs of children with disabilities, including training on how to work with specialists in language development; and
+&emsp;&emsp;(E) the literacy training shall include training on how to best address the language and literacy needs of children with disabilities, including training on how to work with specialists in language development; and
 
 &emsp;&emsp;(F) the literacy training shall be tailored to the early childhood literacy background and experience of the teachers involved;
 
@@ -224,9 +224,11 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 &emsp;A student at an institution receiving a grant under this subsection who receives assistance under a program funded under this subsection shall teach in a center-based Head Start program for a period of time equivalent to the period for which they received assistance or shall repay such assistance.
 
-(Pub. L. 97–35, title VI, §648, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §106, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 101–501, title I, §116(a), Nov. 3, 1990, 104 Stat. 1232; Pub. L. 102–586, §7(b), Nov. 4, 1992, 106 Stat. 5035; Pub. L. 103–252, title I, §114, May 18, 1994, 108 Stat. 642; Pub. L. 105–285, title I, §114, Oct. 27, 1998, 112 Stat. 2721; Pub. L. 110–134, §18, Dec. 12, 2007, 121 Stat. 1423.)
+(Pub. L. 97–35, title VI, §648, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §106, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 101–501, title I, §116(a), Nov. 3, 1990, 104 Stat. 1232; Pub. L. 102–586, §7(b), Nov. 4, 1992, 106 Stat. 5035; Pub. L. 103–252, title I, §114, May 18, 1994, 108 Stat. 642; Pub. L. 105–285, title I, §114, Oct. 27, 1998, 112 Stat. 2721; Pub. L. 110–134, §18, Dec. 12, 2007, 121 Stat. 1423; Pub. L. 114–95, title IX, §9215(nn)(5), Dec. 10, 2015, 129 Stat. 2177.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3)(A)(iii). Pub. L. 114–95 struck out ", and for activities described in section 6372(d) of title 20)," after "children with disabilities".
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), technical assistance and personnel training, in subsec. (b), consideration of local needs, in subsec. (c), prioritization of resource allocation, in subsec. (d), training in performing and visual arts and electronic media, and, in subsec. (e), child development and assessment program.
 
@@ -260,7 +262,7 @@ Subsec. (e). Pub. L. 105–285, §114(b), inserted "(including services to promo
 
 <b>1994</b>—Pub. L. 103–252, §114(1), substituted "Technical assistance and training" for "Technical assistance, training, and staff qualifications" in section catchline.
 
-Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel inhelping children cope with community violence, and resource access projects for personnel working with disabled children."
+Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children."
 
 Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
 
@@ -284,6 +286,10 @@ Subsecs. (c), (d). Pub. L. 102–586, §7(b)(2), added subsecs. (c) and (d).
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
@@ -303,4 +309,6 @@ Pub. L. 102–586, §7(a), Nov. 4, 1992, 106 Stat. 5034, provided that: "It is t
 &emsp;"(3) to create a systematic approach to training, thereby improving the quality of Head Start instruction and using training funds more efficiently and effectively; and
 
 &emsp;"(4) to allow the use of training funds for creative approaches to learning for children."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

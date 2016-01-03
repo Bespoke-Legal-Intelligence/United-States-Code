@@ -1,6 +1,6 @@
 ### §9125. Termination of actions by the Secretary of State
 
-Any specific action taken under this Act or any amendment made by this Act with respect to a foreign country shall terminate on the date on which the Secretary of State submits a written certification to Congress that the government of such country—
+Any specific action taken under this Act or any amendment made by this Act with respect to a foreign country shall terminate on the dateon which the Secretary of State submits a written certification to Congress that the government of such country—
 
 &emsp;(1) has resolved any unresolved abduction case that gave rise to such specific action; or
 

@@ -30,7 +30,7 @@ The head of any Federal agency may, for purposes of this chapter—
 
 #### (f) Attachment, execution, etc., of assets
 
-Assets of or under the control of the Department of State, wherever situated, which are used by or held for the use of a foreign mission shall not be subject to attachment, execution, injunction, or similar process, whether intermediate or final.
+Assets of or under the control of the Department of State, wherever situated, which are used by or held for the use of a foreign missionshall not be subject to attachment, execution, injunction, or similar process, whether intermediate or final.
 
 #### (g) Discretion of Secretary
 

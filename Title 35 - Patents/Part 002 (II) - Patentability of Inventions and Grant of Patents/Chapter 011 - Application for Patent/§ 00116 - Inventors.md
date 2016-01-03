@@ -16,7 +16,7 @@ Correction of Errors in Application.—Whenever through error a person is named 
 
 #### Historical and Revision Notes
 
-The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
+The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one ofseveral joint inventors cannot be found. This section is ancillary to section 256.
 
 #### Amendments
 

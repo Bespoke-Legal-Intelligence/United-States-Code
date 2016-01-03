@@ -20,7 +20,7 @@ For purposes of this Act, all functions relating to education that are located a
 
 #### (d) Evaluation of programs; services and support functions; technical and coordinating assistance
 
-Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) of this section shall—
+Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) shall—
 
 &emsp;(1) monitor and evaluate Bureau education programs;
 
@@ -68,11 +68,11 @@ Education personnel who are under the direction and supervision of the Director 
 
 #### (1) Guidelines
 
-&emsp;Notwithstanding any other provision of law, the Director of the Office shall promulgate guidelines for the establishment and administration of mechanisms for the acceptance of gifts and bequests for the use and benefit ofparticular schools or designated Bureau-operated education programs, including, in appropriate cases, the establishment and administration of trust funds.
+&emsp;Notwithstanding any other provision of law, the Director of the Office shall promulgate guidelines for the establishment and administration of mechanisms for the acceptance of gifts and bequests for the use and benefit of particular schools or designated Bureau-operated education programs, including, in appropriate cases, the establishment and administration of trust funds.
 
 #### (2) Monitoring and reports
 
-&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated education program is the beneficiary of such a gift or bequest, the Director shall—
+&emsp;Except as provided in paragraph (3), in a case in which a Bureau-operated educationprogram is the beneficiary of such a gift or bequest, the Director shall—
 
 &emsp;&emsp;(A) make provisions for monitoring use of the gift or bequest; and
 

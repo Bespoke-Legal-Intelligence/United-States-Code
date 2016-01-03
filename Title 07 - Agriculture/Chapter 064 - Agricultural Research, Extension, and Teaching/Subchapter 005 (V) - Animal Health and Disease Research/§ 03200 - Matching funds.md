@@ -6,5 +6,5 @@ No funds in excess of $100,000, exclusive of the funds provided for research on 
 
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–79 substituted "under subsection (c) of section 3195 of this title to carry out subsection (a) of such section" for "under this subchapter".
+<b>2014</b>—Pub. L. 113–79 substituted "under subsection (c) of section 3195 of this section to carry out subsection (a) of such section" for "under this subchapter".
 

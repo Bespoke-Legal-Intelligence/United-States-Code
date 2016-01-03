@@ -6,7 +6,7 @@ There are authorized to be appropriated to the President to carry out this part 
 
 #### (b) Availability of funds
 
-Funds made available under subsection (a) may be used notwithstanding any other provision of law (other than section 2304 or 2371 of this title) and shall remain available until expended.
+Funds made available under subsection (a) may be used notwithstanding any other provision of law (other than section 2304 or 2371 ofthis title) and shall remain available until expended.
 
 #### (c) Treatment of appropriations
 

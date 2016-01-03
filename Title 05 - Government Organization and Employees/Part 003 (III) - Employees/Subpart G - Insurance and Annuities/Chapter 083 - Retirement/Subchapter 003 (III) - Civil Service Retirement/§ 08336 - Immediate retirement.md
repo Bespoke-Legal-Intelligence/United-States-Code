@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) identified as being in positions which are becoming surplus or excess to the agency's future ability to carry out its mission effectively; and
 
-&emsp;(E) as determined by the agency under regulations prescribed by the Office, is within thescope of the offer of voluntary early retirement, which may be made on the basis of—
+&emsp;(E) as determined by the agency under regulations prescribed by the Office, is within the scope of the offer of voluntary early retirement, which may be made on the basis of—
 
 &emsp;&emsp;(i) 1 or more organizational units;
 
@@ -54,7 +54,7 @@
 
 (h)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
-(2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
+(2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age andcompleting 20 years of service is entitled to an annuity.
 
 (3) A member of the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service or after becoming 50 years of age and completing 20 years of service is entitled to an annuity.
 
@@ -244,7 +244,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §504, 80 Stat. 301.
 
-In subsections (a) and (b), the words "is entitled to" are substituted for "shall \* \* \* be paid". The words"computed as provided in section 9" are omitted as unnecessary in view of 5 U.S.C. 8339.
+In subsections (a) and (b), the words "is entitled to" are substituted for "shall \* \* \* be paid". The words "computed as provided in section 9" are omitted as unnecessary in view of 5 U.S.C. 8339.
 
 #### References in Text
 
@@ -332,7 +332,7 @@ Pub. L. 96–70, §1241(a)(2), redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 96–135 redesignated former subsec. (j) as (k).
 
-<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, ortransfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
+<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
 
 Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -412,7 +412,7 @@ Section 1241(b)(1) of Pub. L. 96–70 provided that: "The amendments made by thi
 
 Amendment by section 306 of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review ofprovisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Effective Date of 1974 Amendment
 

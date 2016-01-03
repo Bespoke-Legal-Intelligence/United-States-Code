@@ -38,7 +38,7 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 (2) For purposes of section 6303(a) of this title, paragraph (1) of this subsection shall be considered to be a part of section 6302 of this title.
 
-(Pub. L. 94–163, title III, §346, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §124(a), Oct. 24, 1992, 106 Stat. 2832.)
+(Pub. L. 94–163, title III, §346, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272;amended Pub. L. 102–486, title I, §124(a), Oct. 24, 1992, 106 Stat. 2832.)
 
 #### Amendments
 

@@ -61,7 +61,7 @@
 | 19,000 | 62\.00&nbsp;&nbsp; |
 | 20,000 | 61\.00&nbsp;&nbsp; |
 | 21,000 | 60\.00&nbsp;&nbsp; |
-| 22,000 | 59\.00   |
+| 22,000 | 59\.00&nbsp;&nbsp; |
 | 23,000 | 59\.00&nbsp;&nbsp; |
 | 24,000 | 58\.00&nbsp;&nbsp; |
 | 25,000 | 57\.00&nbsp;&nbsp; |
@@ -82,7 +82,7 @@
 | 40,000 | 50\.00&nbsp;&nbsp; |
 | 41,000 | 49\.00&nbsp;&nbsp; |
 | 42,000 | 48\.00&nbsp;&nbsp; |
-| 43,000 | 48\.00&nbsp;&nbsp; |
+| 43,000 | 48\.00   |
 | 44,000 | 47\.00&nbsp;&nbsp; |
 | 45,000 | 47\.00&nbsp;&nbsp; |
 | 46,000 | 46\.00&nbsp;&nbsp; |
@@ -177,7 +177,7 @@ Pub. L. 103–397, §5(b)(3), amended table generally for fiscal year 1997 by au
 
 Pub. L. 103–397, §5(b)(2), amended table generally for fiscal year 1996 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $24.75 to $62.00 under prior table to $29.50 to $74.00.
 
-Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by whichpopulation totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
+Pub. L. 103–397, §5(b)(1), amended table generally for fiscal year 1995 by augmenting dollar amounts by which population totals must be multiplied in order to equal the limitation from $20.00 to $50.00 under prior table to $24.75 to $62.00.
 
 Subsec. (d). Pub. L. 103–397, §3, added subsec. (d).
 

@@ -32,7 +32,7 @@ The Department of State's Congressional Presentation Document for fiscal year 20
 
 &emsp;(1) the aggregated amounts that the Department will spend on such public diplomacy programs and on costs of personnel for such programs, and a detailed description of the goals and purposes for which such funds shall be expended; and
 
-&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacyprograms, including bureaus to be created upon the transfer of functions from USIA to the Department.
+&emsp;(2) the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
 

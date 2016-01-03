@@ -102,7 +102,7 @@ It is the policy of the United States to support the continued downblending of h
 
 &emsp;&emsp;&emsp;&emsp;(I) the failure of the completion of the Russian HEU Agreement arises from causes beyond the control and without the fault or negligence of the Government of the Russian Federation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Government of the Russian Federation has made reasonable efforts to avoid and mitigate the effects of the failure of the completion of the Russian HEU Agreement; and
+&emsp;&emsp;&emsp;&emsp;(II) the Government of the Russian Federation has made reasonable effortsto avoid and mitigate the effects of the failure of the completion of the Russian HEU Agreement; and
 
 &emsp;&emsp;&emsp;(ii) the Secretary of Energy and the Secretary of State jointly notify Congress of, and publish in the Federal Register, the determination under clause (i) and the reasons for the determination.
 
@@ -122,7 +122,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (B) Incentive adjustment
 
-&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(B) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(B)(i)) by apercentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
+&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(B) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(B)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
 
 #### (C) Publication of adjustments
 
@@ -164,7 +164,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(B) and (8).
+&emsp;&emsp;The Secretary of Energy shall verify the origin, quantity, and uranium-235 content ofthe highly enriched uranium downblended for purposes of paragraphs (2)(B) and (8).
 
 #### (B) Methods of verification
 
@@ -188,5 +188,5 @@ It is the policy of the United States to support the continued downblending of h
 
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not aspart of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 

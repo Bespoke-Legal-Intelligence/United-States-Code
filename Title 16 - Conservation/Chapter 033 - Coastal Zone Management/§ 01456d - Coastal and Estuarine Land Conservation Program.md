@@ -10,5 +10,5 @@ Section was enacted as part of the Department of Commerce and Related Agencies A
 
 #### Similar Provisions
 
-Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 75, provided in part: "That the Secretary shall establish a Coastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses".
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 75, provided in part: "That the Secretary shall establish aCoastal and Estuarine Land Conservation Program, for the purpose of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural or recreational state to other uses".
 

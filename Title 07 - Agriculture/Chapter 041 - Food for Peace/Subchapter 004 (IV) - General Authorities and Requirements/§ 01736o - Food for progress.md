@@ -88,7 +88,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (5)
 
-No effect on domestic programs.—The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feeding programs or agencies, as determined by the President.
+No effect on domestic programs.—The President shall not make an eligible commodity available for disposition under this section in any amount that will reduce the amount of the eligible commodity that is traditionally made available through donations to domestic feedingprograms or agencies, as determined by the President.
 
 #### (f) Provision of eligible commodities to developing countries
 

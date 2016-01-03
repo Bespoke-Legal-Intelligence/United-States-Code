@@ -38,7 +38,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+"Manufacturer of cigarette papers and tubes" means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -102,7 +102,7 @@ The term "roll-your-own tobacco" means any tobacco which, because of its appeara
 
 &emsp;The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110; Pub. L. 112–141, div. F, title I, §100122(a), July 6, 2012, 126 Stat. 914.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110; Pub. L. 112–141, div. F, title I, §100122(a), July 6, 2012, 126 Stat. 914.)
 
 #### Amendments
 
@@ -210,7 +210,7 @@ Pub. L. 111–3, title VII, §702(d)(2), Feb. 4, 2009, 123 Stat. 110, provided t
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644, provided that: "The amendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §315(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-644, provided that: "The amendments made by this section \[amending this section, section 5761 of this title, and provisions set out as a note under section 5701 of this title\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 
 #### Effective Date of 1997 Amendment
 

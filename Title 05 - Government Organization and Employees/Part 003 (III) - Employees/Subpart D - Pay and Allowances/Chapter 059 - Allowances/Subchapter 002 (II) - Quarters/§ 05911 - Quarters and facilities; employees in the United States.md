@@ -26,7 +26,7 @@
 
 (g) Subsection (c) of this section does not repeal or modify any provision of statute authorizing the provision of quarters or facilities, either without charge or at rates or charges specifically fixed by statute.
 
-(h) A member of the uniformed service on a permanent change of duty station or temporaryduty orders and occupying unaccompanied personnel housing—
+(h) A member of the uniformed service on a permanent change of duty station or temporary duty orders and occupying unaccompanied personnel housing—
 
 &emsp;(1) is exempt from the requirement of subsection (c) to pay a rental rate or charge based on the reasonable value of the quarters and facilities provided; and
 
@@ -112,7 +112,7 @@ Pub. L. 113–291, div. A, title IX, §914, Dec. 19, 2014, 128 Stat. 3474, provi
 
 "(a)
 
-Authority.—Notwithstanding the provisions of section 5911 of title 5, United States Code, the Secretary of Defense may, for the period of time described in subsection (b), establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary's jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
+Authority.—Notwithstanding the provisions of section 5911 of title 5, United States Code, the Secretary of Defense may, for the period of time describedin subsection (b), establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary's jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
 
 "(b)
 
@@ -148,5 +148,5 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 #### Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters
 
-Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: "Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[25 U.S.C. 450f et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters."
+Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, §316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, §317, Oct. 23, 1989, 103 Stat. 745, provided that: "Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act \[probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473\] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: <i>Provided</i>, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) \[25 U.S.C. 450f et seq.\], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters."
 

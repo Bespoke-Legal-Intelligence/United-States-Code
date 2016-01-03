@@ -50,7 +50,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating toinitiation and pursuit of agricultural trade consultations among major agricultural producing countries, providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
+<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions relating to initiation and pursuit of agricultural trade consultations among major agricultural producing countries, providing for sense of Congress concerning objectives of such consultations, and requiring annual reports by Secretary of Agriculture on progress of such consultations.
 
 #### Agricultural Trade Negotiating Objectives and Consultations With Congress
 
@@ -124,5 +124,5 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 &emsp;"(2) reaching a successful agreement on agriculture should be the top priority of United States negotiators; and
 
-&emsp;"(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies in accordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers."
+&emsp;"(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies in accordance with the negotiating objectives expressed in this section, the United States should take stepsto increase the leverage of United States negotiators and level the playing field for United States producers."
 

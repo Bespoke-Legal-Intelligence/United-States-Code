@@ -120,7 +120,7 @@ Effective Date of Section 506.—The amendments made by section 506 of this Act 
 
 Pub. L. 98–459, title VIII, §803, Oct. 9, 1984, 98 Stat. 1793, provided that:
 
-"(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
+"(a) Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, and 3037b of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f,3057a, 3057c, and 3057g of this title and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, section 3056 of this title, and section 631 of Title 29, and amending provisions set out as a note under former section 3045 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 9, 1984\].
 
 "(b)(1) The amendment made by section 206(a) \[amending section 3017 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 9, 1984\].
 
@@ -148,7 +148,7 @@ Pub. L. 106–501, §1, Nov. 13, 2000, 114 Stat. 2226, provided that: "This Act 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \[see Tables for classification\] may becited as the 'Older Americans Act Technical Amendments of 1993'."
+Pub. L. 103–171, §1, Dec. 2, 1993, 107 Stat. 1988, provided that: "This Act \[see Tables for classification\] may be cited as the 'Older Americans Act Technical Amendments of 1993'."
 
 #### Short Title of 1992 Amendment
 
@@ -556,7 +556,7 @@ Participants.—In order to carry out the purposes of this section, the Conferen
 
 &emsp;"(2)
 
-Selection of delegates.—The delegates shall be selected without regard to political affiliation or past partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
+Selection of delegates.—The delegates shall be selected without regard to political affiliation orpast partisan activity and shall, to the best of the appointing authority's ability, be representative of the spectrum of thought in the field of aging. Delegates shall include individuals who are professionals, individuals who are nonprofessionals, minority individuals, individuals from low-income families, representatives of Federal, State, and local governments, and individuals from rural areas. A majority of such delegates shall be age 55 or older.
 
 #### "SEC. 202. CONFERENCE ADMINISTRATION.
 
@@ -580,7 +580,7 @@ Duties.—The Secretary shall, in carrying out the Secretary's responsibilities 
 
 &emsp;"(1) the agenda prepared under subsection (a)(3) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda, and
 
-&emsp;"(2) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard topolitical affiliation or previous partisan activities, \[and\]
+&emsp;"(2) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities, \[and\]
 
 &emsp;"(3) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference, and
 
@@ -666,7 +666,7 @@ Other committees.—The Secretary may establish such other committees, including
 
 "(c)
 
-Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minority groups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
+Composition of Committees.—Each committee established under subsection (b) shall be composed of professionals and public members, and shall include individuals from low-income families and from minoritygroups. A majority of the public members of each such committee shall be 55 years of age or older, and individuals who are Native Americans.
 
 "(d)
 
@@ -694,7 +694,7 @@ Final Report.—Not later than 6 months after the date on which the Conference a
 
 &emsp;"(4) the term 'Conference' means the White House Conference on Aging, and
 
-&emsp;"(5) the term 'State' means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the VirginIslands of the United States, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
+&emsp;"(5) the term 'State' means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Trust Territory of the Pacific Islands, or the Commonwealth of the Northern Mariana Islands.
 
 #### "SEC. 206. AUTHORIZATION OF APPROPRIATIONS.
 

@@ -12,7 +12,7 @@ For the purpose of carrying out the weatherization program under this part, ther
 
 &emsp;(5) $1,400,000,000 for fiscal year 2012..<sup>1</sup>
 
-(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title I \[title IV, §464\], Nov. 30, 1983, 97 Stat. 1235; Pub. L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 110–140, title IV, §411(a), Dec. 19, 2007, 121 Stat. 1600.)
+(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title I \[title IV, §464\], Nov. 30, 1983, 97 Stat. 1235; Pub.L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 110–140, title IV, §411(a), Dec. 19, 2007, 121 Stat. 1600.)
 
 #### Amendments
 

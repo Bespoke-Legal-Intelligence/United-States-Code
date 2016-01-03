@@ -26,7 +26,7 @@ The Secretary shall—
 
 &emsp;&emsp;(B)(i) in the case of a suspension, terminate the suspension; or
 
-&emsp;&emsp;(ii) in the case of a cancellation, notify the agency or person that the agency or person may re-apply to the accrediting entity for accreditation or approval.
+&emsp;&emsp;(ii) in the case of a cancellation, notify the agency or person that the agency or personmay re-apply to the accrediting entity for accreditation or approval.
 
 #### (c) Debarment
 

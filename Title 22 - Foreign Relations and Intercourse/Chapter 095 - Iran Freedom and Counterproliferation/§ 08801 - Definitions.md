@@ -26,11 +26,11 @@ In this chapter:
 
 #### (5) Foreign financial institution
 
-&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
+&emsp;The term "foreign financial institution" has the meaning of that term as determined bythe Secretary of the Treasury pursuant to section 8513(i) of this title.
 
 #### (6) Good
 
-&emsp;The term "good" has the meaning given that term in section 2415 of title 50, Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;The term "good" has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (7) Iranian financial institution
 
@@ -78,7 +78,7 @@ For purposes of this chapter, in determining if financial transactions or financ
 
 This chapter, referred to in text, was in the original "this subtitle", meaning subtitle D (§§1241–1255) of title XII of div. A of Pub. L. 112–239, Jan. 2, 2013, 126 Stat. 2004, known as the Iran Freedom and Counter-Proliferation Act of 2012, which is classified principally to this chapter. For complete classification of subtitle D to the Code, see Short Title note set out below and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Short Title
 
@@ -106,7 +106,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1245(a)(1)(A) \[22 U.S.C. 8804(a)(1)(A)\] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
-• Sections \[sic\] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Sections \[sic\] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of theTreasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
 • Section 1245(c) to the Secretary of the Treasury, in consultation with the Secretary of State;
 
@@ -152,7 +152,7 @@ I hereby delegate functions and authorities vested in the President by CISADA, a
 
 • Section 105C(b) \[22 U.S.C. 8514c(b)\] to the Secretary of the Treasury, in consultation with or at the recommendation of the Secretary of State, with respect to the determinations described in sections \[sic\] 105C(b)(1);
 
-• Section 105C(b) to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to submit any lists of persons determined to meet the criteria described in sections \[sic\] 105C(b)(1), to the appropriate congressional committees as required by sections \[sic\] 105C(b);
+• Section 105C(b) to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to submit any lists of persons determined to meet the criteria described in sections\[sic\] 105C(b)(1), to the appropriate congressional committees as required by sections \[sic\] 105C(b);
 
 • Section 401(b) \[22 U.S.C. 8551(b)\] to the Secretary of State, in consultation with the Secretary of the Treasury, with respect to the requirement to include a person on the list described in section 105C(b);
 

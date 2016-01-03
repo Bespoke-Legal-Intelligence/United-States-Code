@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(VII) assessing the child's readiness for self-administration of prescription medication; and
 
-&emsp;&emsp;&emsp;(ii) a list of substitute meals that may be offered to the child by school or earlychildhood education program food service personnel.
+&emsp;&emsp;&emsp;(ii) a list of substitute meals that may be offered to the child by school or early childhood education program food service personnel.
 
 &emsp;&emsp;(B) The creation and maintenance of an individual plan for food allergy management, in consultation with the parent, tailored to the needs of each child with a documented risk for anaphylaxis, including any procedures for the self-administration of medication by such children in instances where—
 
@@ -94,7 +94,7 @@ In this section:
 
 &emsp;&emsp;(J) Maintenance of information for each administration of epinephrine to a child at risk for anaphylaxis and prompt notification to parents.
 
-&emsp;&emsp;(K) Other elements the Secretary determines necessary for the management of food allergies and anaphylaxis in schools and early childhood education programs.
+&emsp;&emsp;(K) Other elements the Secretary determines necessary for the management of foodallergies and anaphylaxis in schools and early childhood education programs.
 
 #### (3) Relation to State law
 
@@ -200,11 +200,19 @@ In this section:
 
 &emsp;Notwithstanding paragraph (1), the Secretary may enforce an agreement by a local educational agency to implement food allergy and anaphylaxis management guidelines as a condition of the receipt of a grant under subsection (c).
 
-(Pub. L. 111–353, title I, §112, Jan. 4, 2011, 124 Stat. 3916.)
+(Pub. L. 111–353, title I, §112, Jan. 4, 2011, 124 Stat. 3916; Pub. L. 114–95, title IX, §9215(jj), Dec. 10, 2015, 129 Stat. 2175.)
 
 #### References in Text
 
 The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

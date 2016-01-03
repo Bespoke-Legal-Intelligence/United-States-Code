@@ -4,7 +4,7 @@
 
 If, during the 15-year period beginning on the date on which the Secretary publishes a determination pursuant to section 1775b(b) of this title, the State Agreement is invalidated by a court of competent jurisdiction, or if the gaming compact described in section 1775b(a)(1) of this title or any agreement between the State of Connecticut and the Mohegan Tribe to implement the compact is invalidated by a court of competent jurisdiction—
 
-&emsp;(1) the transfers, waivers, releases, relinquishments, and other commitments made bythe Mohegan Tribe under section 1(a) of the State Agreement shall cease to be of any force or effect;
+&emsp;(1) the transfers, waivers, releases, relinquishments, and other commitments made by the Mohegan Tribe under section 1(a) of the State Agreement shall cease to be of any force or effect;
 
 &emsp;(2) section 1775b of this title shall not apply to the lands or interests in lands or natural resources of the Mohegan Tribe or any of its members, and the title to the lands or interests in lands or natural resources shall be determined as if such section were never enacted; and
 
@@ -14,9 +14,9 @@ If, during the 15-year period beginning on the date on which the Secretary publi
 
 #### (1) In general
 
-&emsp;If a State Agreement or compact or agreement described in subsection (a) of this section is invalidated by a court of competent jurisdiction, the Mohegan Tribe or its members shall have the right to reinstate a claim to lands or interests in lands or natural resources to which the Tribe or members are entitled as a result of the invalidation, within a reasonable time, but not later than the later of—
+&emsp;If a State Agreement or compact or agreement described in subsection (a) is invalidated by a court of competent jurisdiction, the Mohegan Tribe or its members shall have the right to reinstate a claim to lands or interests in lands or natural resources to which the Tribe or members are entitled as a result of the invalidation, within a reasonable time, but not later than the later of—
 
-&emsp;&emsp;(A) 180 days after the Mohegan Tribe receives written notice of such determination of an invalidation described in subsection (a) of this section; or
+&emsp;&emsp;(A) 180 days after the Mohegan Tribe receives written notice of such determination of an invalidation described in subsection (a); or
 
 &emsp;&emsp;(B) if the determination of the invalidation is subject to an appeal, 180 days after the court of last resort enters a judgment.
 

@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(B) expand on existing pediatric quality measures used by public and private health care purchasers and advance the development of such new and emerging quality measures; and
 
-&emsp;&emsp;(C) increase the portfolio of evidence-based, consensus pediatric quality measures available to public and private purchasers of children's health care services, providers, and consumers.
+&emsp;&emsp;(C) increase the portfolio of evidence-based, consensus pediatric quality measures available to public and private purchasers ofchildren's health care services, providers, and consumers.
 
 #### (2) Evidence-based measures
 
@@ -130,7 +130,7 @@
 
 #### (6) Definition of pediatric quality measure
 
-&emsp;In this subsection, the term "pediatric quality measure" means a measurement of clinicalcare that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
+&emsp;In this subsection, the term "pediatric quality measure" means a measurement of clinical care that is capable of being examined through the collection and analysis of relevant information, that is developed in order to assess 1 or more aspects of pediatric health care quality in various institutional and ambulatory health care settings, including the structure of the clinical care system, the process of care, the outcome of care, or patient experiences in care.
 
 #### (7) Construction
 
@@ -354,7 +354,7 @@
 
 #### (8) Appropriation
 
-&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014.
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2010 through 2014, and $10,000,000 for the period of fiscal years 2016 and 2017.
 
 #### (f) Development of model electronic health record format for children enrolled in Medicaid or CHIP
 
@@ -378,7 +378,7 @@
 
 #### (1) In general
 
-&emsp;Not later than July 1, 2010, the Institute of Medicine shall study and report to Congress on the extent and quality of efforts to measure child health status and the quality of healthcare for children across the age span and in relation to preventive care, treatments for acute conditions, and treatments aimed at ameliorating or correcting physical, mental, and developmental conditions in children. In conducting such study and preparing such report, the Institute of Medicine shall—
+&emsp;Not later than July 1, 2010, the Institute of Medicine shall study and report to Congress on the extent and quality of efforts to measure child health status and the quality of health care for children across the age span and in relation to preventive care, treatments for acute conditions, and treatments aimed at ameliorating or correcting physical, mental, and developmental conditions in children. In conducting such study and preparing such report, the Institute of Medicine shall—
 
 &emsp;&emsp;(A) consider all of the major national population-based reporting systems sponsored by the Federal Government that are currently in place, including reporting requirements under Federal grant programs and national population surveys and estimates conducted directly by the Federal Government;
 
@@ -398,11 +398,15 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 #### (i) Appropriation
 
-Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)). Funds appropriated under this subsection shall remain available until expended.
+Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2009 through 2013, $45,000,000 for the purpose of carrying out this section (other than subsection (e)), and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)). Funds appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587.)
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(8). Pub. L. 114–10, §304(a), inserted ", and $10,000,000 for the period of fiscal years 2016 and 2017" after "2014".
+
+Subsec. (i). Pub. L. 114–10, §304(b), inserted ", and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g))" after "(other than subsection (e))".
 
 <b>2010</b>—Subsec. (e)(8). Pub. L. 111–148 amended par. (8) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013."
 

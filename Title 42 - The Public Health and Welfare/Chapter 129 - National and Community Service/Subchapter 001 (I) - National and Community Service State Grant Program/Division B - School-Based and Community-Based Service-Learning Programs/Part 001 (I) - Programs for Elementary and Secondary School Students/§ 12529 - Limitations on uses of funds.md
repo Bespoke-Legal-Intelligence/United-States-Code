@@ -48,7 +48,7 @@ Section 12547, Pub. L. 101–610, title I, §117F, as added Pub. L. 103–82, ti
 
 Another prior section 12547, Pub. L. 101–610, title I, §127, Nov. 16, 1990, 104 Stat. 3145, which related to training and education services, was renumbered section 199G of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655f of this title.
 
-A prior section 12548, Pub. L. 101–610, title I, §128, Nov. 16, 1990, 104 Stat. 3146, as amended, which relatedto amount of award and matching requirement, was renumbered section 199H of Pub. L. 101–610 by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, and transferred to section 12655g of this title, prior to repeal by Pub. L. 103–82, §101(e)(8)(A).
+A prior section 12548, Pub. L. 101–610, title I, §128, Nov. 16, 1990, 104 Stat. 3146, as amended, which related to amount of award and matching requirement, was renumbered section 199H of Pub. L. 101–610 by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, and transferred to section 12655g of this title, prior to repeal by Pub. L. 103–82, §101(e)(8)(A).
 
 A prior section 12549, Pub. L. 101–610, title I, §129, Nov. 16, 1990, 104 Stat. 3146, which related to preference for certain projects, was successively renumbered section 199I, then 199H, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655h of this title.
 

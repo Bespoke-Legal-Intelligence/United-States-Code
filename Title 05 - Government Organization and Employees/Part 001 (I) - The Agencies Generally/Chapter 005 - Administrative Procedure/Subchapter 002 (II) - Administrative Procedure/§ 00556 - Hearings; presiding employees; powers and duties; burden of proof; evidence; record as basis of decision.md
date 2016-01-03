@@ -1,6 +1,6 @@
 ### §556. Hearings; presiding employees; powers and duties; burden of proof; evidence; record as basis of decision
 
-(a) This section applies, according to the provisions thereof, to hearings required by section 553 or 554 of this title to be conducted in accordance with this section.
+(a) This section applies, according to the provisions thereof, to hearings required by section553 or 554 of this title to be conducted in accordance with this section.
 
 (b) There shall preside at the taking of evidence—
 
@@ -36,7 +36,7 @@
 
 &emsp;(11) take other action authorized by agency rule consistent with this subchapter.
 
-(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficientgrounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
+(d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficient grounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
 
 (e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Hearing Examiners Employed by Department of Agriculture
 
-Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
+Functions vested by this subchapter in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employeesof that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
 
 #### Hearing Examiners Employed by Department of Commerce
 

@@ -24,7 +24,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (2) Increase in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year isequal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) for a fiscal year is equal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
 #### (A) Allocation
 
@@ -118,7 +118,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (1) In general
 
-&emsp;For the purpose of administering this section (including the coordination of activitiesunder this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
+&emsp;For the purpose of administering this section (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount the State may reserve under subsection (d) for any fiscal year.
 
 #### (2) Administration of subchapter III
 
@@ -154,7 +154,7 @@ Each State shall use any funds the State reserves under subsection (d) and does 
 
 &emsp;&emsp;After making allocations under subparagraph (A), the State shall—
 
-&emsp;&emsp;&emsp;(i) allocate 85 percent of any remaining funds to those local educational agencies on the basis of the relative numbers of children enrolled in public and private elementary schools and secondary schools within the local educational agency's jurisdiction; and
+&emsp;&emsp;&emsp;(i) allocate 85 percent of any remaining funds to those local educational agencieson the basis of the relative numbers of children enrolled in public and private elementary schools and secondary schools within the local educational agency's jurisdiction; and
 
 &emsp;&emsp;&emsp;(ii) allocate 15 percent of those remaining funds to those local educational agencies in accordance with their relative numbers of children living in poverty, as determined by the State educational agency.
 
@@ -204,5 +204,5 @@ Section 1427, Pub. L. 91–230, title VI, §628, as added Pub. L. 98–199, §10
 
 #### Preschool Grants
 
-Pub. L. 100–630, title I, §110, Nov. 7, 1988, 102 Stat. 3303, as amended by Pub. L. 101–476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: "The provisions of section 300.300(b)(3) of title 34, Code of Federal Regulations, shall not apply with respect to children aged 3 through 5, inclusive, in any State for any fiscal year for which the State receives a grant under section 619(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1419(a)(1)\]."
+Pub. L. 100–630, title I, §110, Nov. 7, 1988, 102 Stat. 3303, as amended by Pub. L. 101–476, title IX, §901(a)(3), Oct. 30, 1990, 104 Stat. 1142, provided that: "The provisions of section 300.300(b)(3) of title 34, Code of Federal Regulations, shall not apply with respect to children aged 3 through 5, inclusive, in any State for any fiscalyear for which the State receives a grant under section 619(a)(1) of the Individuals with Disabilities Education Act \[20 U.S.C. 1419(a)(1)\]."
 

@@ -66,7 +66,7 @@ Civil Action.—(1) Any person aggrieved by any act of a person in violation of 
 
 &emsp;(D) such other preliminary and equitable relief as the court determines to be appropriate.
 
-(3) No action may be brought under this subsection unless such action is begun within 2years from the date of the act complained of or the date of discovery.
+(3) No action may be brought under this subsection unless such action is begun within 2 years from the date of the act complained of or the date of discovery.
 
 (4) No liability shall result from lawful disclosure permitted by this section.
 
@@ -76,7 +76,7 @@ Personally Identifiable Information.—Personally identifiable information obtai
 
 (e)
 
-Destruction of Old Records.—A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.
+Destruction of Old Records.—A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purposefor which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.
 
 (f)
 

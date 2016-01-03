@@ -44,7 +44,7 @@ Pub. L. 110–181, div. C, title XXXI, subtitle D, Jan. 28, 2008, 122 Stat. 586,
 
 &emsp;"(1) The term 'Convention on the Physical Protection of Nuclear Material' means the Convention on the Physical Protection of Nuclear Material, signed at New York and Vienna March 3, 1980.
 
-&emsp;"(2) The term 'formula quantities of strategic special nuclear material' means uranium–235 (containedin uranium enriched to 20 percent or more in the U–235 isotope), uranium–233, or plutonium in any combination in a total quantity of 5,000 grams or more computed by the formula, grams = (grams contained U–235) + 2.5 (grams U–233 + grams plutonium), as set forth in the definitions of 'formula quantity' and 'strategic special nuclear material' in section 73.2 of title 10, Code of Federal Regulations.
+&emsp;"(2) The term 'formula quantities of strategic special nuclear material' means uranium–235 (contained in uranium enriched to 20 percent or more in the U–235 isotope), uranium–233, or plutonium in any combination in a total quantity of 5,000 grams or more computed by the formula, grams = (grams contained U–235) + 2.5 (grams U–233 + grams plutonium), as set forth in the definitions of 'formula quantity' and 'strategic special nuclear material' in section 73.2 of title 10, Code of Federal Regulations.
 
 &emsp;"(3) The term 'Nuclear Non-Proliferation Treaty' means the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (21 UST 483).
 
@@ -114,7 +114,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;&emsp;&emsp;"(i) The security and accounting of nuclear weapons and related equipment and the elimination, removal, or security and accounting of formula quantities of strategic special nuclear material at such facilities and sites worldwide.
 
-&emsp;&emsp;&emsp;"(ii) Ensuring that security upgrades and accounting reforms implemented at such facilitiesand sites worldwide, using the financial and technical assistance of the United States, are effectively sustained after such assistance ends.
+&emsp;&emsp;&emsp;"(ii) Ensuring that security upgrades and accounting reforms implemented at such facilities and sites worldwide, using the financial and technical assistance of the United States, are effectively sustained after such assistance ends.
 
 &emsp;&emsp;&emsp;"(iii) The role that international agencies and the international community have committed to play, together with a plan for securing international contributions.
 

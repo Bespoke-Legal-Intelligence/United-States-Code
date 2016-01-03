@@ -6,7 +6,7 @@ The Secretary may—
 
 &emsp;(1) administer and enforce this chapter and any regulations issued under this chapter;
 
-&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in the administration and enforcement of this chapter; and
+&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services,personnel, equipment, and facilities of other Federal departments and agencies in the administration and enforcement of this chapter; and
 
 &emsp;(3) collect, utilize, and disclose such information as may be necessary to implement the Agreement and this chapter, subject to sections 552 and 552a of title 5.
 
@@ -26,5 +26,5 @@ This chapter shall be enforced by the Secretary as if a violation of this chapte
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classifiedprincipally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 

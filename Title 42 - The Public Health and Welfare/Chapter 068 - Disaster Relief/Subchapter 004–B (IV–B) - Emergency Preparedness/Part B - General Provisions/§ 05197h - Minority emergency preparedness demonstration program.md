@@ -18,7 +18,7 @@ A nonprofit organization is eligible to be awarded a grant, contract, or coopera
 
 #### (d) Use of funds
 
-A recipient of a grant, contract, or cooperative agreement awarded under this section may only use the proceeds of the grant, contract, or agreement to—
+A recipient of a grant, contract, or cooperative agreement awarded under this section mayonly use the proceeds of the grant, contract, or agreement to—
 
 &emsp;(1) acquire expert professional services necessary to conduct research in communities predominately populated by minority citizens, with a primary emphasis on African American and Hispanic communities;
 

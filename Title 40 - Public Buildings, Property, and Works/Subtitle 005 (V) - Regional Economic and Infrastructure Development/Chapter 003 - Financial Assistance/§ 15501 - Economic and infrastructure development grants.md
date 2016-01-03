@@ -56,7 +56,7 @@ Maintenance of Effort.—Funds may be provided by a Commission for a program or 
 
 No Relocation Assistance.—Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
 
 #### Codification
 

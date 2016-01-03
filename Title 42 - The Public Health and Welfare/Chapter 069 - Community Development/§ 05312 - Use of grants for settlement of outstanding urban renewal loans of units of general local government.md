@@ -2,7 +2,7 @@
 
 #### (a) Limitation on amounts; prerequisites
 
-The Secretary is authorized, notwithstanding any other provision of this chapter, to apply a portion of the grants, not to exceed 20 per centum thereof without the request of the recipient, made or to be made under section 5303 of this title in any fiscal year pursuant to an allocation under section 5306 of this title to any unitof general local government toward payment of the principal of, and accrued interest on, any temporary loan made in connection with urban renewal projects under title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\] being carried out within the jurisdiction of such unit of general local government if—
+The Secretary is authorized, notwithstanding any other provision of this chapter, to apply a portion of the grants, not to exceed 20 per centum thereof without the request of the recipient, made or to be made under section 5303 of this title in any fiscal year pursuant to an allocation under section 5306 of this title to any unit of general local government toward payment of the principal of, and accrued interest on, any temporary loan made in connection with urban renewal projects under title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\] being carried out within the jurisdiction of such unit of general local government if—
 
 &emsp;(1) the Secretary determines, after consultation with the local public agency carrying out the project and the chief executive of such unit of general local government, that the project cannot be completed without additional capital grants, or
 

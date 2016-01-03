@@ -52,7 +52,7 @@ For purposes of this section, the term "withdrawal liability payment fund", and 
 
 &emsp;(i) any amount described in paragraph (1) and paragraph (2), and
 
-&emsp;(ii) reasonable and necessary administrative expenses in connection with the establishmentand operation of the trust and the processing of claims against the fund.
+&emsp;(ii) reasonable and necessary administrative expenses in connection with the establishment and operation of the trust and the processing of claims against the fund.
 
 (B) The amounts paid by a plan to a fund shall be deemed a reasonable expense of administering the plan under sections 1103(c)(1) and 1104(a)(1)(A)(ii) of this title, and the payments made by a fund to a participating plan shall be deemed services necessary for the operation of the plan within the meaning of section 1108(b)(2) of this title or within the meaning of section 4975(d)(2) of title 26.
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of this chapter, a fiduciary of the fund sha
 
 #### (g) Prohibition on payments from fund to plan where certain labor negotiations involve employer withdrawn or partially withdrawn from plan and continuity of labor organization representing employees continues
 
-No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
+No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organizationwhich represented such employees immediately preceding such withdrawal.
 
 #### (h) Purchase of insurance by employer
 

@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(B) the articles are shipped from Haiti or the Dominican Republic into the United States through the territory of an intermediate country, and—
 
-&emsp;&emsp;&emsp;(i) the articles in the shipment do not enter into the commerce of any intermediate country, and the invoices, bills of lading, and other shipping documents specify the United States as the final destination; or
+&emsp;&emsp;&emsp;(i) the articles in the shipment do not enter into the commerce of any intermediate country, and the invoices, bills of lading, and other shipping documents specifythe United States as the final destination; or
 
 &emsp;&emsp;&emsp;(ii) the invoices and other documents do not specify the United States as the final destination, but the articles in the shipment—
 
@@ -134,7 +134,7 @@ In this section:
 
 #### (IV) Inclusion in calculation of other articles receiving preferential treatment
 
-&emsp;&emsp;&emsp;&emsp;Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the "General" column 1rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
+&emsp;&emsp;&emsp;&emsp;Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the "General" column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
 
 #### (v) Definitions
 
@@ -148,7 +148,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) 60 percent or more during the 1-year period beginning on December 20, 2017, and each of the 7 succeeding 1-year periods.
 
 #### (II) Foreign material
 
@@ -223,9 +223,9 @@ In this section:
 | <b>During:</b> | <b>the corresponding percentage is:</b> |
 | :--- | ---: |
 | the initial applicable 1-year period | 1 percent. |
-| each of the succeeding 11 1-year periods | 1\.25 percent. |
+| each of the 16 succeeding 1-year periods | 1\.25 percent. |
 
-> &emsp;&emsp;No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+> &emsp;&emsp;No preferential treatment shall be provided under subparagraph (A) after December 19, 2025.
 
 #### (D) Other preferential treatment not affected by quantitative limitations
 
@@ -241,7 +241,7 @@ In this section:
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iii) Other preferential treatment not affected by quantitative limitation
 
@@ -259,7 +259,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) The following apparel articles of cotton, for men or boys, that are classifiable under subheading 6109.10.00 of the HTS:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom, with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) All white T-shirts, with short hemmed sleeves and hemmed bottom,with crew or round neckline or with V-neck and with a mitered seam at the center of the V, and without pockets, trim, or embroidery.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) All white singlets, without pockets, trim, or embroidery.
 
@@ -277,11 +277,11 @@ In this section:
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+&emsp;&emsp;&emsp;Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
 #### (iv) Other preferential treatment not affected by quantitative limitation
 
-&emsp;&emsp;&emsp;Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision ofthis chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
+&emsp;&emsp;&emsp;Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii).
 
 #### (2A) Special rule for certain woven articles and certain knit articles entered during fiscal year 2010 and succeeding 1-year periods
 
@@ -765,7 +765,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) fabric or knit-to-shape components that would otherwise be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns not wholly formed in the United States shall not be ineligible as qualifying knit fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric or knit-to-shape components; and
 
-&emsp;&emsp;&emsp;&emsp;(III) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabricor knit-to-shape components contain yarns covered by clause (i) or (ii) of paragraph (5)(A).
+&emsp;&emsp;&emsp;&emsp;(III) fabric or knit-to-shape components otherwise eligible as qualifying knit fabric shall not be ineligible as qualifying knit fabric because the fabric or knit-to-shape components contain yarns covered by clause (i) or (ii) of paragraph (5)(A).
 
 #### (C) Enforcement provisions
 
@@ -845,7 +845,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) the resolution of bilateral trade and investment disputes;
 
-&emsp;&emsp;&emsp;(iv) economic policies to reduce poverty, increase the availability of health care andeducational opportunities, expand physical infrastructure, promote the development of private enterprise, and encourage the formation of capital markets through microcredit or other programs;
+&emsp;&emsp;&emsp;(iv) economic policies to reduce poverty, increase the availability of health care and educational opportunities, expand physical infrastructure, promote the development of private enterprise, and encourage the formation of capital markets through microcredit or other programs;
 
 &emsp;&emsp;&emsp;(v) a system to combat corruption and bribery, such as signing and implementing the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions; and
 
@@ -913,7 +913,7 @@ In this section:
 
 &emsp;&emsp;The functions of the Labor Ombudsman's Office shall include—
 
-&emsp;&emsp;&emsp;(i) developing and maintaining a registry of producers of articles for which duty-freetreatment may be requested under subsection (b), and developing, in consultation and coordination with any other appropriate officials of the Government of Haiti, a system to ensure participation by such producers in the TAICNAR Program described in paragraph (3);
+&emsp;&emsp;&emsp;(i) developing and maintaining a registry of producers of articles for which duty-free treatment may be requested under subsection (b), and developing, in consultation and coordination with any other appropriate officials of the Government of Haiti, a system to ensure participation by such producers in the TAICNAR Program described in paragraph (3);
 
 &emsp;&emsp;&emsp;(ii) overseeing the implementation of the TAICNAR Program described in paragraph (3);
 
@@ -977,7 +977,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) The name of each producer listed in the registry described in paragraph (2)(B)(i) that has been identified as having met the conditions under subparagraph (B).
 
-&emsp;&emsp;&emsp;(ii) The name of each producer listed in the registry described in paragraph\(2)(B)(i) that has been identified as having deficiencies with respect to the conditions under subparagraph (B), and has failed to remedy such deficiencies.
+&emsp;&emsp;&emsp;(ii) The name of each producer listed in the registry described in paragraph (2)(B)(i) that has been identified as having deficiencies with respect to the conditions under subparagraph (B), and has failed to remedy such deficiencies.
 
 &emsp;&emsp;&emsp;(iii) For each producer listed under clause (ii)—
 
@@ -1021,7 +1021,7 @@ In this section:
 
 #### (ii) Assistance to producers; withdrawal, etc., of preferential treatment
 
-&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent with core labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
+&emsp;&emsp;&emsp;For each producer that the President identifies under clause (i), the President shall seek to assist such producer in coming into compliance with core labor standards and with the labor laws of Haiti that directly relate to and are consistent withcore labor standards. If such efforts fail, the President shall withdraw, suspend, or limit the application of preferential treatment under subsection (b) to articles of such producer.
 
 #### (iii) Reinstating preferential treatment
 
@@ -1081,7 +1081,7 @@ In this section:
 
 #### (B) Technical and other assistance
 
-&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti and the Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
+&emsp;&emsp;The Commissioner responsible for U.S. Customs and Border Protection shall provide technical and other assistance to Haiti andthe Dominican Republic to develop expeditiously the procedures described in subparagraph (A).
 
 #### (g) Regulations
 
@@ -1089,9 +1089,9 @@ The President shall issue regulations to carry out this section not later than 1
 
 #### (h) Termination
 
-Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020.
+Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.
 
-(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, §2(f), Dec. 28, 2012, 126 Stat. 1625.)
+(Pub. L. 98–67, title II, §213A, as added Pub. L. 109–432, div. D, title V, §5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, §4(a), title XV, §§15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, §7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, §2(f), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 114–27, title III, §301, June 29, 2015, 129 Stat. 373.)
 
 #### References in Text
 
@@ -1099,13 +1099,23 @@ This chapter, referred to in subsec. (b)(1)(D), (2)(A)(iii), (B)(iv), (6), was i
 
 Proclamation 8213 of the President of December 20, 2007, referred to in subsec. (b)(3)(B), is Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73555. Par. (4) of Proclamation 8213 appears as a paraphrased Delegation of Functions note under section 4033 of this title.
 
-The date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, referred to in subsec. (e)(1)(A), (5)(A),is the date of enactment of part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, which was approved June 18, 2008.
+The date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, referred to in subsec. (e)(1)(A), (5)(A), is the date of enactment of part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, §301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: "60 percent or more during the 1-year period beginning on December 20, 2017."
+
+Subsec. (b)(1)(C). Pub. L. 114–27, §301(1)(A)(ii), substituted "16 succeeding 1-year periods" for "succeeding 11 1-year periods" in table and "December 19, 2025" for "December 19, 2018" in concluding provisions.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 114–27, §301(1)(B)(i), substituted "16 succeeding 1-year periods" for "11 succeeding 1-year periods".
+
+Subsec. (b)(2)(B)(iii). Pub. L. 114–27, §301(1)(B)(ii), substituted "16 succeeding 1-year periods" for "11 succeeding 1-year periods".
+
+Subsec. (h). Pub. L. 114–27, §301(2), substituted "September 30, 2025" for "September 30, 2020".
 
 <b>2012</b>—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: "The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program."
 
@@ -1227,7 +1237,7 @@ Pub. L. 110–234, title XV, §15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 
 
 #### Delegation of Functions
 
-Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultation with the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
+Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the United States Trade Representative is authorized to perform the functions under subsec. (d)(4) of this section, the reporting function under subsec. (e)(1)(B)(ii) of this section, the consultation function under subsec. (e)(1)(C)(i) of this section, and the functions under subsec. (e)(5) of this section and provided in par. (4) that the Secretary of Labor, in consultationwith the United States Trade Representative, is authorized to perform the functions under subsec. (e)(4)(B)(i), (ii) of this section.
 
 Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
 
@@ -1251,7 +1261,7 @@ Pub. L. 111–171, §2, May 24, 2010, 124 Stat. 1194, provided that: "Congress f
 
 &emsp;"(8) According to estimates by the Department of Commerce, imports of apparel articles from Haiti to the United States in 2010 have decreased by 43 percent as compared to the same period in 2009.
 
-&emsp;"(9) The earthquake has increased significantly the costs and uncertainty of doing business in Haiti. A strong and unequivocal commitment from the United States is needed to help Haiti offset these costs andpreserve the gains made under United States trade preference programs, and to encourage buyers and investors to stand with Haiti through this crisis."
+&emsp;"(9) The earthquake has increased significantly the costs and uncertainty of doing business in Haiti. A strong and unequivocal commitment from the United States is needed to help Haiti offset these costs and preserve the gains made under United States trade preference programs, and to encourage buyers and investors to stand with Haiti through this crisis."
 
 #### Customs Support Services
 
@@ -1317,7 +1327,7 @@ Supplement and not supplant.—The amounts authorized to be appropriated by para
 
 #### Presidential Proclamation Authority
 
-Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
+Pub. L. 110–234, title XV, §15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, §4(a), title XV, §15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: "The President may exercise the authority under section 604 of the Trade Act of 1974 \[19 U.S.C. 2483\] to proclaim such modifications to the Harmonized Tariff Schedule of theUnited States as may be necessary to carry out this part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title\] and the amendments made by this part."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

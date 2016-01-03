@@ -102,7 +102,7 @@
 
 (3) In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L.108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590; Pub. L. 113–101, §5, May 9, 2014, 128 Stat. 1153.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, §31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, §251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, §189(b), July 15, 2008, 122 Stat. 2590; Pub. L. 113–101, §5, May 9, 2014, 128 Stat. 1153.)
 
 Historical and Revision Notes
 
@@ -266,7 +266,7 @@ Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the ext
 
 (2) to the extent practicable, review all rules, regulations, and procedures implementing laws under the jurisdiction of the department or agency governing the provision of any Federal financial assistance to individuals and, where appropriate, conform such rules, regulations, and procedures to the provisions of this order and the rules, regulations, and procedures issued by the Secretary pursuant to section 1 of this order.
 
-Sec. 3. <i>Reports</i>. (a) The head of each executive department and agency shall provide to the Secretary such information as the Secretary may request concerning the implementation of this order, the provisions of the Debt Collection Improvement Act of 1996 applicable to delinquent child support obligations, and the rules, regulations, and procedures issued by the Secretary pursuant to section 1 of this order.
+Sec. 3. <i>Reports</i>. (a) The head of each executive department and agency shall provide to the Secretary such information as the Secretary may request concerning the implementation of this order, the provisions of theDebt Collection Improvement Act of 1996 applicable to delinquent child support obligations, and the rules, regulations, and procedures issued by the Secretary pursuant to section 1 of this order.
 
 (b) The Secretary shall report annually to the President concerning the implementation by departments and agencies of this order and the provisions of the Debt Collection Improvement Act of 1996 applicable to delinquent child support obligations.
 

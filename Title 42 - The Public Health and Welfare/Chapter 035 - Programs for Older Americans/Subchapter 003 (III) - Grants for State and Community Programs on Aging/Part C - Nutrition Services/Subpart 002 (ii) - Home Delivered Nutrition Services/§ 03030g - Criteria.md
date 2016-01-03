@@ -2,7 +2,7 @@
 
 The Assistant Secretary, in consultation with recognized experts in the fields of nutrition science, dietetics, meal planning and food service management, and aging, shall develop minimum criteria of efficiency and quality for the furnishing of home delivered meal services for projects described in section 3030f of this title.
 
-(Pub. L. 89–73, title III, §337, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1536; amended Pub. L. 97–115, §10(e), Dec. 29, 1981, 95Stat. 1601; Pub. L. 100–175, title I, §182(n), Nov. 29, 1987, 101 Stat. 967; Pub. L. 102–375, title III, §315, Sept. 30, 1992, 106 Stat. 1239; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title III, §315, Oct. 17, 2006, 120 Stat. 2548.)
+(Pub. L. 89–73, title III, §337, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1536; amended Pub. L. 97–115, §10(e), Dec. 29, 1981, 95 Stat. 1601; Pub. L. 100–175, title I, §182(n), Nov. 29, 1987, 101 Stat. 967; Pub. L. 102–375, title III, §315, Sept. 30, 1992, 106 Stat. 1239; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title III, §315, Oct. 17, 2006, 120 Stat. 2548.)
 
 #### Amendments
 

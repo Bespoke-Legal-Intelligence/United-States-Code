@@ -10,7 +10,7 @@ Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 St
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973,which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
 

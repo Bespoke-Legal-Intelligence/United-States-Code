@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes or tribal consortia
 
-From the amount reserved pursuant to section 629f(b)(3) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+From the amount reserved pursuant to section 629f(b)(3) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, asdetermined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (b) Territories
 
@@ -12,7 +12,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (1) In general
 
-&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remainsafter applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
+&emsp;From the amount described in section 629f(a) of this title for any fiscal year that remains after applying section 629f(b) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State for the fiscal year.
 
 #### (2) Supplemental nutrition assistance program benefits percentage defined
 

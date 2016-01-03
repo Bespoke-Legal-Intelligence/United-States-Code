@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (ii) Separate household for spouse and dependents
 
-&emsp;&emsp;&emsp;If an individual maintains a separate abode outside the United States for his spouse and dependents and they do not reside with him because of living conditionswhich are dangerous, unhealthful, or otherwise adverse, then—
+&emsp;&emsp;&emsp;If an individual maintains a separate abode outside the United States for his spouse and dependents and they do not reside with him because of living conditions which are dangerous, unhealthful, or otherwise adverse, then—
 
 &emsp;&emsp;&emsp;&emsp;(I) the words "if they reside with him" in subparagraph (A) shall be disregarded, and
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph (A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
+&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph\(A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
 
 #### (ii) Limitation
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (6) Denial of double benefits
 
-&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
+&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable againstamounts excluded from gross income under subsection (a).
 
 #### (7) Aggregate benefit cannot exceed foreign earned income
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
 
-&emsp;&emsp;&emsp;(i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and
+&emsp;&emsp;&emsp;(i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.),<sup>1</sup> or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), and
 
 &emsp;&emsp;&emsp;(ii) include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
 
@@ -280,7 +280,7 @@ For purposes of this section—
 
 &emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
 
-&emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
+&emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11))shall be reduced (but not below zero) by such capital gain excess,
 
 &emsp;&emsp;&emsp;(ii) the taxpayer's qualified dividend income shall be reduced by so much of such capital gain excess as exceeds the taxpayer's net capital gain (determined without regard to section 1(h)(11) and the reduction under clause (i)), and
 
@@ -310,7 +310,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39, and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified generally to chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
@@ -395,7 +395,7 @@ Pub. L. 95–600, §703(e), redesignated former par. (8) as (7). Such par. (8) w
 
 Subsec. (c)(8). Pub. L. 95–615, §202(e), struck out par. (8) which related to the nonexclusion under subsec. (a) of any amount attributable to services performed in a foreign country or countries if such amount was received outside of the foreign country or countries where such services were performed and if one of the purposes was the avoidance of any tax imposed by such foreign country or countries on such amount.
 
-Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted "for the taxable year" after "section apply", and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a)and which defined "net taxable income" and "net excluded earned income", was struck out.
+Subsec. (d). Pub. L. 95–615, §202(d)(1), redesignated subsec. (e) as (d), inserted "for the taxable year" after "section apply", and struck out provision that an election was applicable to the taxable year for which made and to all subsequent taxable years. Former subsec. (d), which related to the computation of tax imposed by section 1 or section 1201 if an individual earned income which was excluded from gross income under subsec. (a) and which defined "net taxable income" and "net excluded earned income", was struck out.
 
 Subsec. (d)(1). Pub. L. 95–600, §401(b)(4), struck out provisions respecting applicability of section 1201 of this title.
 
@@ -473,7 +473,7 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
-Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I,§107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\]."
+Pub. L. 95–600, title VII, §701(u)(10)(B), Nov. 6, 1978, 92 Stat. 2917, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\]."
 
 Amendment by section 703(e) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -493,7 +493,7 @@ Wage Withholding.—The amendment made by section 207(a) \[amending section 3401
 
 Election of Prior Law.—
 
-&emsp;"(1) A taxpayer may elect not to have the amendments made by this title \[see section 201(a) of Pub. L. 95–615, set out as a Short Title of 1978 Amendment note under section 1 of this title\] apply with respect to any taxable year beginning after December 31, 1977, and before January 1, 1979.
+&emsp;"(1) A taxpayer may elect not to have the amendments made by this title \[see section 201(a) of Pub. L. 95–615, set out as a Short Title of 1978 Amendment note under section 1 of this title\] apply with respectto any taxable year beginning after December 31, 1977, and before January 1, 1979.
 
 &emsp;"(2) An election under this subsection shall be filed with a taxpayer's timely filed return for the first taxable year beginning after December 31, 1977."
 
@@ -556,4 +556,6 @@ General Rule.—As soon as practicable after December 31, 1993, and as soon as p
 "(b)
 
 Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

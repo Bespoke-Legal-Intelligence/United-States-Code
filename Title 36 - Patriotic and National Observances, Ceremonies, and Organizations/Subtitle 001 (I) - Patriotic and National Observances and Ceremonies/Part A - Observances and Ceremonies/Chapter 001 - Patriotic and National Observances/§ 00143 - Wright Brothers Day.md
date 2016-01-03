@@ -44,5 +44,5 @@ Dec. 17, 1963, Pub. L. 88–209, 77 Stat. 402.
 
 #### Centennial of Flight Commemoration Act
 
-Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, §1, Oct. 6, 1999, 113 Stat. 981, known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, andprovided that the Commission terminate not later than 60 days after submission of the final report.
+Pub. L. 105–389, Nov. 13, 1998, 112 Stat. 3486, as amended by Pub. L. 106–68, §1, Oct. 6, 1999, 113 Stat. 981, known as the Centennial of Flight Commemoration Act, established the Centennial of Flight Commission to carry out certain activities related to the history of aviation and the commemoration of the centennial of powered flight, required the Commission to make annual reports and a final report not later than June 30, 2004, and provided that the Commission terminate not later than 60 days after submission of the final report.
 

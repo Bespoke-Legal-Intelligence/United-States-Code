@@ -2,7 +2,7 @@
 
 #### (a) Civil actions by Commission; jurisdiction; allegations; injunctive or other relief
 
-The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person who is, or at the time of the alleged misconduct was, serving or acting in one or more of the followingcapacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investment company for which such person so serves or acts, or at the time of the alleged misconduct, so served or acted—
+The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person who is, or at the time of the alleged misconduct was, serving or acting in one or more of the following capacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investment company for which such person so serves or acts, or at the time of the alleged misconduct, so served or acted—
 
 &emsp;(1) as officer, director, member of any advisory board, investment adviser, or depositor; or
 
@@ -24,7 +24,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (5) Any action pursuant to this subsection may be brought only in an appropriate district court of the United States.
 
-(6) No finding by a court with respect to a breach of fiduciary duty under this subsection shall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78o of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
+(6) No finding by a court with respect to a breach of fiduciary duty under this subsectionshall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78o of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
 
 #### (c) Corporate or other trustees performing functions of investment advisers
 

@@ -180,7 +180,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 3835, Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994, related to contracts, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 3835, Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII,§801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994, related to contracts, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
 

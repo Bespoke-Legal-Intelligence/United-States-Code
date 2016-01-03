@@ -22,17 +22,13 @@ When used in this title unless the context otherwise indicates—
 
 &emsp;(A) if subparagraph (B) does not apply, the actual filing date of the patent or the application for the patent containing a claim to the invention; or
 
-&emsp;(B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c).
+&emsp;(B) the filing date of the earliest application for which the patent or application is entitled, as to such invention, to a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c).
 
 (2) The effective filing date for a claimed invention in an application for reissue or reissued patent shall be determined by deeming the claim to the invention to have been contained in the patent for which reissue was sought.
 
 (j) The term "claimed invention" means the subject matter defined by a claim in a patent or an application for a patent.
 
 (July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4603\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; Pub. L. 112–29, §3(a), Sept. 16, 2011, 125 Stat. 285; Pub. L. 112–211, title I, §102(1), Dec. 18, 2012, 126 Stat. 1531.)
-
-#### Amendment of Subsection (i)(1)(B)
-
-<i>Pub. L. 112–211, title I, §§102(1), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (i)(1)(B) of this section is amended by substituting "right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)" for "right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)". See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -62,7 +58,7 @@ In General.—The amendments made by this title \[enacting part V of this title 
 
 &emsp;"(1) the date that is 1 year after the date of the enactment of this Act \[Dec. 18, 2012\]; or
 
-&emsp;"(2) the date of entry into force of the treaty with respect to the United States.
+&emsp;"(2) the date of entry into force of the treaty with respect to the United States \[May 13, 2015\].
 
 "(b)
 
@@ -100,7 +96,7 @@ In general.—Except as otherwise provided in this section \[amending this secti
 
 "(2)
 
-Interfering patents.—The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patentissued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
+Interfering patents.—The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patent issued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
 
 &emsp;"(A) a claim to an invention having an effective filing date as defined in section 100(i) of title 35, United States Code, that occurs before the effective date set forth in paragraph (1) of this subsection; or
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, a civil action may not lie or be mai
 
 &emsp;(2) any assistance by that person was provided pursuant to a certification in writing under section 2511(2)(a)(ii)(B) or 2709(b) of title 18;
 
-&emsp;(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), or 1881a(h) of this title directing such assistance;
+&emsp;(3) any assistance by that person was provided pursuant to a directive under section 1802(a)(4), 1805b(e), as added by section 2 of the Protect America Act of 2007 (Public Law110–55), or 1881a(h) of this title directing such assistance;
 
 &emsp;(4) in the case of a covered civil action, the assistance alleged to have been provided by the electronic communication service provider was—
 

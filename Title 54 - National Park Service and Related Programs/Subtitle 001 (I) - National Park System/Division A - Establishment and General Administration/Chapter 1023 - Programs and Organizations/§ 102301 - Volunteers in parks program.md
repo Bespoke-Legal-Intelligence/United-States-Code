@@ -30,9 +30,9 @@ Compensation for losses and damages.—For the purpose of claims relating to dam
 
 (d)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section not more than $3,500,000 for each fiscal year.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section not more than $7,000,000 for each fiscal year.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3153; Pub. L. 113–235, div. F, title I, §118, Dec. 16, 2014, 128 Stat. 2421.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3153; Pub. L. 113–235, div. F, title I, §118, Dec. 16, 2014,128 Stat. 2421; Pub. L. 114–113, div. G, title I, §114, Dec. 18, 2015, 129 Stat. 2550.)
 
 #### Amendment Not Shown in Text
 
@@ -79,4 +79,8 @@ In subsection (b), the words "of volunteers" are added for clarity.
 In subsection (c)(3), the words "relating to compensation to Federal employees for work injuries" are omitted as unnecessary.
 
 In subsection (d), the words "such sums as may be necessary" are omitted as unnecessary.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–113 substituted "$7,000,000" for "$3,500,000".
 

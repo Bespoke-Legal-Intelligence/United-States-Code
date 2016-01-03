@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) in the case of a public entity that is a State, the State is a grantee under section 300x of this title;
 
-&emsp;&emsp;(B) in the case of a public entity that is a political subdivision of a State, the State in which the political subdivision is located is such a grantee; and
+&emsp;&emsp;(B) in the case of a public entity that is a political subdivision of a State, the State inwhich the political subdivision is located is such a grantee; and
 
 &emsp;&emsp;(C) in the case of a public entity that is an Indian tribe or tribal organization, the State in which the tribe or tribal organization is located is such a grantee.
 

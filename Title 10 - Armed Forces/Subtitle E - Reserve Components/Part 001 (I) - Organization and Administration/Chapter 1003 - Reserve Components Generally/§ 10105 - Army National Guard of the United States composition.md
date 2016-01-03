@@ -74,7 +74,7 @@ Review.—Whenever an officer in an Army Selected Reserve unit as defined in sub
 
 Coverage of Selected Reserve Combat and Early Deploying Units.—(1) Subsection (a) applies to officers in all units of the Selected Reserve that are designated as combat units or that are designated for deployment within 75 days of mobilization.
 
-"(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject to subsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
+"(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject tosubsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
 
 "(c)
 
@@ -94,7 +94,7 @@ Availability of Training Positions.—The Secretary of the Army shall ensure tha
 
 "(a)
 
-Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwisenot available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
+Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
 "(b)
 
@@ -210,7 +210,7 @@ Requirement for Priority System.—The Secretary of the Army shall develop a sys
 
 "(b)
 
-Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to groupunits according to the timing of deployment after mobilization.
+Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to group units according to the timing of deployment after mobilization.
 
 "(c)
 

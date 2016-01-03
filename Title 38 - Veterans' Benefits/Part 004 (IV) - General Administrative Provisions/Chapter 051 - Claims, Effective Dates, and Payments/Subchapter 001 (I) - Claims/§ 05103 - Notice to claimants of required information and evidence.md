@@ -2,7 +2,7 @@
 
 (a)
 
-Required Information and Evidence.—(1) The Secretary shall provide to the claimant and the claimant's representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that informationand evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
+Required Information and Evidence.—(1) The Secretary shall provide to the claimant and the claimant's representative, if any, by the most effective means available, including electronic communication or notification in writing, notice of any information, and any medical or lay evidence, not previously provided to the Secretary that is necessary to substantiate the claim. As part of that notice, the Secretary shall indicate which portion of that information and evidence, if any, is to be provided by the claimant and which portion, if any, the Secretary, in accordance with section 5103A of this title and any other applicable provisions of law, will attempt to obtain on behalf of the claimant.
 
 (2)(A) The Secretary shall prescribe in regulations requirements relating to the contents of notice to be provided under this subsection.
 
@@ -74,7 +74,7 @@ Amendment effective as if enacted Nov. 9, 2000, immediately after the enactment 
 
 #### Construction
 
-Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments made by subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
+Pub. L. 112–154, title V, §504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: "Nothing in the amendments madeby subsection (a) \[amending this section\] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act \[Aug. 6, 2012\]."
 
 #### Applicability of Regulations
 

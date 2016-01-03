@@ -60,7 +60,7 @@ Separation Pay and Benefits.—(1) A member of the armed forces who is separated
 
 (f)
 
-Computation of Voluntary Separation Pay.—The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under section 1174 of this title.
+Computation of Voluntary Separation Pay.—The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service whois involuntarily separated under section 1174 of this title.
 
 (g)
 
@@ -136,5 +136,5 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Limitation on Applicability
 
-Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would belimited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
+Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
 

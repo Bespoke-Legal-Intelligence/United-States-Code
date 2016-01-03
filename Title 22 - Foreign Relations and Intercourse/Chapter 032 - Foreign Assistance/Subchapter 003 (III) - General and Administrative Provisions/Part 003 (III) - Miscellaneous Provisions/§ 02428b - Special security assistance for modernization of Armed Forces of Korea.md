@@ -24,7 +24,7 @@ In order that transfers of defense articles under subsection (a) will not cause 
 
 #### (c) Report by President to Congress of types, etc., of transferred defense articles
 
-The President shall transmit to the Congress, together with the presentation materials for security assistance programs proposed for each fiscal year through and including the fiscal year 1983, a report describing the types, quantities, and value of defense articles furnished or intended to be furnished to the Republic of Korea under this section.
+The President shall transmit to the Congress, together with the presentation materials for security assistance programs proposed for each fiscal year through and including the fiscal year 1983, a report describing the types, quantities,and value of defense articles furnished or intended to be furnished to the Republic of Korea under this section.
 
 #### (d) Repealed. Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560
 
@@ -38,7 +38,7 @@ The President shall transmit to the Congress, together with the presentation mat
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Actto the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

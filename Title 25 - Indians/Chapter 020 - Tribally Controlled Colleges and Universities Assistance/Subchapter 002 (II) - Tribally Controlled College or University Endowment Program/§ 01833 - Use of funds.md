@@ -1,6 +1,6 @@
 ### §1833. Use of funds
 
-Interest deposited, pursuant to section 1832(b)(2)(C) of this title, in the trust fund of any tribally controlled college or university may be periodically withdrawn and used, at the discretion of such college or university, to defray any expenses associated with the operation of suchcollege or university, including expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
+Interest deposited, pursuant to section 1832(b)(2)(C) of this title, in the trust fund of any tribally controlled college or university may be periodically withdrawn and used, at the discretion of such college or university, to defray any expenses associated with the operation of such college or university, including expense of operations and maintenance, administration, academic and support personnel, community and student services programs, and technical assistance.
 
 (Pub. L. 95–471, title III, §303, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1342; amended Pub. L. 105–244, title IX, §901(b)(5), (7), Oct. 7, 1998, 112 Stat. 1828.)
 

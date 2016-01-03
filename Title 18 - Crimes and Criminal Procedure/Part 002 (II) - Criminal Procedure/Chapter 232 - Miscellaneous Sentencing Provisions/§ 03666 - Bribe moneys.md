@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 55\] corrects section 3612 of title 18, U.S.C., so that the reference in such section will be to the correct section number in title 28, U.S.C., as revised and enacted in 1948.
+This section \[section 55\] corrects section 3612 of title 18, U.S.C., so that the reference in such section will beto the correct section number in title 28, U.S.C., as revised and enacted in 1948.
 
 #### Amendments
 

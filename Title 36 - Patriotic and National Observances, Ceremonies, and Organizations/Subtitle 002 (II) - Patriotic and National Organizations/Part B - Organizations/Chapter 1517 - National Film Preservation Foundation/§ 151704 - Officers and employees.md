@@ -66,7 +66,7 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §203(g)(1)(A), (2)(A) (1st, 2d sent
 
 &nbsp;
 
-In subsection (a)(1), the words "The first employee appointed shall be the Secretary of the Board" in 36:5702(g)(2)(B) are omitted as unnecessary. The words "executive director of the corporation" are substituted for "its executive director" in 36:5702(g)(2)(C)(i) for clarity.
+In subsection (a)(1), the words "The first employee appointed shall be the Secretary of the Board" in36:5702(g)(2)(B) are omitted as unnecessary. The words "executive director of the corporation" are substituted for "its executive director" in 36:5702(g)(2)(C)(i) for clarity.
 
 In subsection (b), the words "the board of directors appoints, removes, and replaces officers of the corporation" are substituted for "The Board may complete the organization of the Foundation by . . . appointing, removing, and replacing officers" for clarity.
 

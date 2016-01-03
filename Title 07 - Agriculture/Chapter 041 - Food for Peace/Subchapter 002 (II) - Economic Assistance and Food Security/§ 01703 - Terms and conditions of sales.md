@@ -36,7 +36,7 @@ Delivery of the commodities shall be made in accordance with the terms of the ag
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–127, §204(1), struck out "a recipient country to make" after "may permit"and substituted "the appropriate country" for "such country".
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–127, §204(1), struck out "a recipient country to make" after "may permit" and substituted "the appropriate country" for "such country".
 
 Subsec. (c). Pub. L. 104–127, §204(2), struck out "less than 10 nor" before "more than 30".
 
@@ -122,7 +122,7 @@ Subsec. (b). Pub. L. 88–638, §1(5), substituted "1965" for "1962", "1966" for
 
 Pub. L. 87–28 authorized agreements during the calendar year 1961 calling for appropriations of not more than $3,500,000,000 plus any unused authority carried over from 1960.
 
-<b>1959</b>—Subsec. (b). Pub. L. 86–341 substituted "in any calendar year during the period beginning January 1, 1960, and ending December 31, 1961" for "during the period beginning July 1, 1958, and ending December 31, 1959", "$1,500,000,000" for "$2,250,000,000", "in the preceding calendar year" for "in prior fiscal years", "for such preceding year" for "for such prior fiscal years", and "during such preceding year" for "during such fiscal years".
+<b>1959</b>—Subsec. (b). Pub. L. 86–341 substituted "in any calendar year during the period beginning January 1, 1960, and ending December 31, 1961" for "during the period beginning July 1, 1958, and ending December 31,1959", "$1,500,000,000" for "$2,250,000,000", "in the preceding calendar year" for "in prior fiscal years", "for such preceding year" for "for such prior fiscal years", and "during such preceding year" for "during such fiscal years".
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–931 amended subsec. (b) generally, substituting "Agreements entered into" for "Transactions carried out", providing for $2,250,000,000 for sales between July 1, 1958, and Dec. 31, 1959, and for carrying over unused authorizations from one fiscal to succeeding fiscal years, and striking out clause that limitation on sales shall not be apportioned by year or by country and shall be considered as an objective to be reached as rapidly as possible within the safeguards of this chapter.
 

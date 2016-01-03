@@ -142,7 +142,7 @@ Content of Initial Study.—The initial study under this section shall consider 
 
 &emsp;"(3) The likelihood of sponsors of employment-based retiree health coverage to maintain or adjust their levels of retiree health benefits beyond coordination with medicare, including for prescription drug coverage, provided to medicare-eligible retirees after the date of the enactment of this Act.
 
-&emsp;"(4) The factors that sponsors of employment-based retiree health coverage expect to consider in making decisions about any changes they may make in thehealth coverage provided to medicare-eligible retirees.
+&emsp;"(4) The factors that sponsors of employment-based retiree health coverage expect to consider in making decisions about any changes they may make in the health coverage provided to medicare-eligible retirees.
 
 &emsp;"(5) Whether the prescription drug plan options available, or the health plan options available under the Medicare Advantage program, are likely to cause employers and other entities that did not provide health coverage to retirees prior to the date of the enactment of this Act to provide supplemental coverage or contributions toward premium expenses for medicare-eligible retirees who may enroll in such options in the future.
 

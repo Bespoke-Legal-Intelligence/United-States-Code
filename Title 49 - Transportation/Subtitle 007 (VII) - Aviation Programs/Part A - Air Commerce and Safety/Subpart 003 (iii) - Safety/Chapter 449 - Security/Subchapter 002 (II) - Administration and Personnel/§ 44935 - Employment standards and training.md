@@ -68,7 +68,7 @@ Qualifications.—Within 30 days after the date of enactment of the Aviation and
 
 &emsp;&emsp;(B)
 
-Background checks.—The Under Secretary shall require that an individual to behired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
+Background checks.—The Under Secretary shall require that an individual to be hired as a security screener undergo an employment investigation (including a criminal history record check) under section 44936(a)(1).
 
 &emsp;&emsp;(C)
 
@@ -162,7 +162,7 @@ Training plan.—Within 60 days after the date of enactment of the Aviation and 
 
 &emsp;(3)
 
-Equipment-specific training.—An individual employed as a security screener may not use any security screening device or equipment in the scope of that individual's employment unless the individual has been trained on that device or equipment and has successfully completed a test on the use of the device or equipment.
+Equipment-specific training.—An individual employed as a security screener may not use any security screening device or equipment in the scope of that individual's employment unless the individual has been trained on that device or equipment and has successfullycompleted a test on the use of the device or equipment.
 
 (h)
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security,relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition
 

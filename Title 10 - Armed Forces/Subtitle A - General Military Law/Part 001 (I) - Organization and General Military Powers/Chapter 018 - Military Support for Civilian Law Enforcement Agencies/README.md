@@ -14,10 +14,13 @@
 | [380\.](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md) | Enhancement of cooperation with civilian law enforcement officials. |
 | [381\.](%C2%A7%2000381%20-%20Procurement%20of%20equipment%20by%20State%20and%20local%20governments%20through%20the%20Department%20of%20Defense%20equipment%20for%20counter-drug%2C%20homeland%20security%E2%80%A6.md) | Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities. |
 | [382\.](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20weapons%20of%20mass%20destruction.md) | Emergency situations involving weapons of mass destruction. |
+| [383\.](%C2%A7%2000383%20-%20Situations%20involving%20bombings%20of%20places%20of%20public%20use%2C%20Government%20facilities%2C%20public%20transportation%20systems%2C%20and%20infrastructure%20facilities.md) | Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1082(b), Nov. 25, 2015, 129 Stat. 1003, added item 383.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(b)(10)(C), Jan. 7, 2011, 124 Stat. 4369, added item 382 and struck out former item 382 "Emergency situations involving chemical or biological weapons of mass destruction".
 
@@ -34,6 +37,48 @@
 <b>1987</b>—Pub. L. 100–180, div. A, title XII, §1243(b), Dec. 4, 1987, 101 Stat. 1164, added item 380.
 
 <b>1986</b>—Pub. L. 99–570, title III, §3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
+
+#### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States
+
+Pub. L. 114–92, div. A, title X, §1059, Nov. 25, 2015, 129 Stat. 986, provided that:
+
+"(a)
+
+Authority to Provide Assistance.—The Secretary of Defense may provide assistance to United States Customs and Border Protection for purposes of increasing ongoing efforts to secure the southern land border of the United States.
+
+"(b)
+
+Concurrence in Assistance.—Assistance under subsection (a) shall be provided with the concurrence of the Secretary of Homeland Security.
+
+"(c)
+
+Types of Assistance Authorized.—The assistance provided under subsection (a) may include the following:
+
+&emsp;"(1) Deployment of members and units of the regular and reserve components of the Armed Forces to the southern land border of the United States.
+
+&emsp;"(2) Deployment of manned aircraft, unmanned aerial surveillance systems, and ground-based surveillance systems to support continuous surveillance of the southern land border of the United States.
+
+&emsp;"(3) Intelligence analysis support.
+
+"(d)
+
+Materiel and Logistical Support.—The Secretary of Defense is authorized to deploy such materiel and equipment and logistics support as is necessary to ensure the effectiveness of assistance provided under subsection (a).
+
+"(e)
+
+Funding.—Of the amounts authorized to be appropriated for the Department of Defense by this Act \[see Tables for classification\], the Secretary of Defense may use up to $75,000,000 to provide assistance under subsection (a).
+
+"(f)
+
+Reports.—At the end of each three-month period during which assistance is provided under subsection (a), the Secretary of Defense, in coordination with the Secretary of Homeland Security, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate a report on the provision of such assistance during that period. Each report shall include, for the period covered by the report, the following:
+
+&emsp;"(1) A description of the assistance provided.
+
+&emsp;"(2) A description of the sources and amounts of funds used to provide such assistance.
+
+&emsp;"(3) A description of the amounts obligated to provide such assistance.
+
+&emsp;"(4) An assessment of the efficacy and cost-effectiveness of such assistance in support of the Department of Homeland Security's objectives and strategy to address the challenges on the southern land border of the United States and recommendations, if any, to enhance the effectiveness of such assistance."
 
 
 ---
@@ -52,3 +97,4 @@
 - [&sect; 00380 - Enhancement of cooperation with civilian law enforcement officials](%C2%A7%2000380%20-%20Enhancement%20of%20cooperation%20with%20civilian%20law%20enforcement%20officials.md)
 - [&sect; 00381 - Procurement of equipment by State and local governments through the Department of Defense equipment for counter-drug, homeland security&#8230;](%C2%A7%2000381%20-%20Procurement%20of%20equipment%20by%20State%20and%20local%20governments%20through%20the%20Department%20of%20Defense%20equipment%20for%20counter-drug%2C%20homeland%20security%E2%80%A6.md)
 - [&sect; 00382 - Emergency situations involving weapons of mass destruction](%C2%A7%2000382%20-%20Emergency%20situations%20involving%20weapons%20of%20mass%20destruction.md)
+- [&sect; 00383 - Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities](%C2%A7%2000383%20-%20Situations%20involving%20bombings%20of%20places%20of%20public%20use%2C%20Government%20facilities%2C%20public%20transportation%20systems%2C%20and%20infrastructure%20facilities.md)

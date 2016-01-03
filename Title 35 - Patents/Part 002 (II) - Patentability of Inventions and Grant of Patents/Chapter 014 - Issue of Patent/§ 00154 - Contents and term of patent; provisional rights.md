@@ -10,11 +10,11 @@ Contents.—Every patent shall contain a short title of the invention and a gran
 
 &emsp;(2)
 
-Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
+Term.—Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, 365(c), or 386(c), from the date on which the earliest such application was filed.
 
 &emsp;(3)
 
-Priority.—Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
+Priority.—Priority under section 119, 365(a), 365(b), 386(a), or 386(b) shall not be taken into account in determining the term of a patent.
 
 &emsp;(4)
 
@@ -102,7 +102,7 @@ Procedures for patent term adjustment determination.—
 
 &emsp;&emsp;&emsp;(i) make a determination of the period of any patent term adjustment under this subsection, and shall transmit a notice of that determination no later than the date of issuance of the patent; and
 
-&emsp;&emsp;&emsp;(ii) provide the applicant one opportunity to request reconsideration of anypatent term adjustment determination made by the Director.
+&emsp;&emsp;&emsp;(ii) provide the applicant one opportunity to request reconsideration of any patent term adjustment determination made by the Director.
 
 &emsp;&emsp;(C) The Director shall reinstate all or part of the cumulative period of time of an adjustment under paragraph (2)(C) if the applicant, prior to the issuance of the patent, makes a showing that, in spite of all due care, the applicant was unable to respond within the 3-month period, but in no case shall more than three additional months for each such response beyond the original 3-month period be reinstated.
 
@@ -142,7 +142,7 @@ Provisional Rights.—
 
 &emsp;(1)
 
-In general.—In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+In general.—In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty fromany person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
 &emsp;&emsp;(A)(i) makes, uses, offers for sale, or sells in the United States the invention as claimed in the published patent application or imports such an invention into the United States; or
 
@@ -170,19 +170,7 @@ Effective date.—The right under paragraph (1) to obtain a reasonable royalty b
 
 Copies.—The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat.1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, §102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(h), Jan. 14, 2013, 126 Stat. 2457.)
-
-#### Amendment of Section
-
-<i>Pub. L. 112–211, title I, §§102(6), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(2), by substituting "section 120, 121, 365(c), or 386(c)" for "section 120, 121, or 365(c)";</i>
-
-<i>(2) in subsection (a)(3), by substituting "section 119, 365(a), 365(b), 386(a), or 386(b)" for "section 119, 365(a), or 365(b)"; and</i>
-
-<i>(3) in subsection (d)(1), by inserting "or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty" after "Article 21(2)(a) of such treaty".</i>
-
-<i>See 2012 Amendment notes below.</i>
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–29, §§3(j)(1), (2)(B), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335; Pub. L. 112–211, title I, §102(6), Dec. 18, 2012, 126 Stat. 1531; Pub. L. 112–274, §1(h), Jan. 14, 2013, 126 Stat. 2457.)
 
 #### Historical and Revision Notes
 
@@ -262,7 +250,7 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
 
 #### Effective Date of 2011 Amendment
 

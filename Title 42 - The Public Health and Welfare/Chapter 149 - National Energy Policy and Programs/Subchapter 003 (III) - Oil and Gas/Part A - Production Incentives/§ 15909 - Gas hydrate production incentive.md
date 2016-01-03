@@ -22,7 +22,7 @@ The purpose of this section is to promote natural gas production from the natura
 
 #### (3) Amount of relief
 
-&emsp;The Secretary shall conduct a rulemaking and grant royalty relief under this section as a suspension volume if the Secretary determines that such royalty relief would encourage production of natural gas from gas hydrate resources from an eligible lease. The maximum suspension volume shall be 30 billion cubic feet of natural gas per lease. Such relief shall be in addition to any other royalty relief under any other provision applicable to the lease that does not specifically grant a gas hydrate production incentive. Such royalty suspension volume shall be applied to any eligible production occurring on or after the date of publication of the advanced notice of proposed rulemaking.
+&emsp;The Secretary shall conduct a rulemaking and grant royalty relief under this section as a suspension volume if the Secretary determines that such royalty relief would encourage production of natural gas from gas hydrate resources from an eligible lease. The maximum suspension volume shall be 30 billion cubic feet of natural gas per lease. Such relief shall be in addition to any other royaltyrelief under any other provision applicable to the lease that does not specifically grant a gas hydrate production incentive. Such royalty suspension volume shall be applied to any eligible production occurring on or after the date of publication of the advanced notice of proposed rulemaking.
 
 #### (4) Limitation
 

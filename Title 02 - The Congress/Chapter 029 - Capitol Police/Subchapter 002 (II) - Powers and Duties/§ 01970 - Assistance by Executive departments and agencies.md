@@ -44,7 +44,7 @@
 
 #### (1) Submission
 
-&emsp;With respect to any fiscal year in which an executive department or executive agency provides assistance under this section, the head of that department or agency shall submit a report not later than 90 days after the end of thefiscal year to the Chairman of the Capitol Police Board.
+&emsp;With respect to any fiscal year in which an executive department or executive agency provides assistance under this section, the head of that department or agency shall submit a report not later than 90 days after the end of the fiscal year to the Chairman of the Capitol Police Board.
 
 #### (2) Content
 

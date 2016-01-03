@@ -28,7 +28,7 @@ No action shall be taken pursuant to section 1821(a) of this title or pursuant t
 
 #### (c) Adjustment of imports; determination by President; report to Congress; additional actions; publication in Federal Register
 
-(1)(A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
+(1)(A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
 
 &emsp;(i) determine whether the President concurs with the finding of the Secretary, and
 
@@ -36,7 +36,7 @@ No action shall be taken pursuant to section 1821(a) of this title or pursuant t
 
 (B) If the President determines under subparagraph (A) to take action to adjust imports of an article and its derivatives, the President shall implement that action by no later than the date that is 15 days after the day on which the President determines to take action under subparagraph (A).
 
-(2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e) of this section.
+(2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e).
 
 (3)(A) If—
 
@@ -64,19 +64,19 @@ For the purposes of this section, the Secretary and the President shall, in the 
 
 #### (d) <sup>1</sup> Report by Secretary of Commerce
 
-(1) Upon the disposition of each request, application, or motion under subsection (b) of this section, the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
+(1) Upon the disposition of each request, application, or motion under subsection (b), the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
 
 (2) Omitted.
 
 #### (f) Congressional disapproval of Presidential adjustment of imports of petroleum or petroleum products; disapproval resolution
 
-(1) An action taken by the President under subsection (c) of this section to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
+(1) An action taken by the President under subsection (c) to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
 
 (2)(A) This paragraph is enacted by the Congress—
 
 &emsp;(i) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedures to be followed in that House in the case of disapproval resolutions and such procedures supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(ii) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure ofthat House) at any time, in the same manner, and to the same extent as any other rule of that House.
+&emsp;(ii) with the full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
 (B) For purposes of this subsection, the term "disapproval resolution" means only a joint resolution of either House of Congress the matter after the resolving clause of which is as follows: "That the Congress disapproves the action taken under section 232 of the Trade Expansion Act of 1962 with respect to petroleum imports under \_\_\_\_\_\_\_\_\_\_\_\_ dated \_\_\_\_\_\_\_\_\_\_\_\_.", the first blank space being filled with the number of the proclamation, Executive order, or other Executive act issued under the authority of subsection (c) of this section for purposes of adjusting imports of petroleum or petroleum products and the second blank being filled with the appropriate date.
 
@@ -138,7 +138,7 @@ Pub. L. 96–264, §2, June 6, 1980, 94 Stat. 439, provided that: "Notwithstandi
 
 #### Proclamation No. 3279
 
-Proc. No. 3279, Mar. 10, 1959, 24 F.R. 1781, as amended by Proc. No. 3290, Apr. 30, 1959, 24 F.R. 3527; Proc. No. 3328, Dec. 10, 1959, 24 F.R. 10133; Proc. No. 3386, Dec. 24, 1960, 25 F.R. 13945; Proc. No. 3389, Jan. 17, 1961, 26 F.R. 507; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Proc. No. 3509, Nov. 30, 1962, 27 F.R. 11985; Proc. No. 3531, Apr. 19, 1963, 28 F.R. 4077; Proc. No. 3541, June 12, 1963, 28 F.R. 5931; Proc. No. 3693, Dec. 10, 1965, 30 F.R. 15459; Proc. No. 3779, Apr. 10, 1967, 32 F.R. 5919; Proc. No. 3794, July 17, 1967, 32 F.R. 10547; Proc. No. 3820, Nov. 9, 1967,32 F.R. 15701; Proc. No. 3823, Jan. 29, 1968, 33 F.R. 1171; Proc. No. 3969, Mar. 10, 1970, 35 F.R. 4321; Proc. No. 3990, June 17, 1970, 35 F.R. 10091; Proc. No. 4018, Oct. 16, 1970, 35 F.R. 16357; Proc. No. 4025, Dec. 22, 1970, 35 F.R. 19391; Proc. No. 4092, Nov. 5, 1971, 36 F.R. 21397; Proc. No. 4099, Dec. 20, 1971, 36 F.R. 24203; Proc. No. 4133, May 11, 1972, 37 F.R. 9543; Proc. No. 4156, Sept. 18, 1972, 37 F.R. 19115; Proc. No. 4175, Dec. 16, 1972, 37 F.R. 28043; Proc. No. 4178, Jan. 17, 1973, 38 F.R. 1719; Ex. Ord. No. 11703, Feb. 7, 1973, 38 F.R. 3579; Proc. No. 4202, Mar. 23, 1973, 38 F.R. 7977; Proc. No. 4210, Apr. 18, 1973, 38 F.R. 9645; Proc. No. 4227, June 19, 1973, 38 F.R. 16195; Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459; Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415; Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185; Proc. No. 4317, Sept. 27, 1974, 39 F.R. 35103; Proc. No. 4341, Jan. 23, 1975, 40 F.R. 3965; Proc. No. 4355, Mar. 4, 1975, 40 F.R. 10437; Proc. No. 4370, Apr. 30, 1975, 40 F.R. 19421; Proc. No. 4377, May 27, 1975, 40 F.R. 23429; Proc. No. 4412, Jan. 3, 1976, 41 F.R. 1037; Proc. No. 4543, Dec. 27, 1977, 42 F.R. 64849; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4947; Proc. No. 4629, Dec. 8, 1978, 43 F.R. 58077; Proc. No. 4655, Apr. 6, 1979, 44 F.R. 21243; Proc. No. 4702, Nov. 12, 1979, 44 F.R. 65581; Proc. No. 4744, Apr. 2, 1980, 45 F.R. 22864; Proc. No. 4766, June 19, 1980, 45 F.R. 41899; Proc. No. 4907, Mar. 10, 1982, 47 F.R. 10507, which set forth regulations governing the licensing of imports of petroleum and petroleum products, was revoked by Proc. No. 5141, Dec. 22, 1983, 48 F.R. 56929, set out below.
+Proc. No. 3279, Mar. 10, 1959, 24 F.R. 1781, as amended by Proc. No. 3290, Apr. 30, 1959, 24 F.R. 3527; Proc. No. 3328, Dec. 10, 1959, 24 F.R. 10133; Proc. No. 3386, Dec. 24, 1960, 25 F.R. 13945; Proc. No. 3389, Jan. 17, 1961, 26 F.R. 507; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Proc. No. 3509, Nov. 30, 1962, 27 F.R. 11985; Proc. No. 3531, Apr. 19, 1963, 28 F.R. 4077; Proc. No. 3541, June 12, 1963, 28 F.R. 5931; Proc. No. 3693, Dec. 10, 1965, 30 F.R. 15459; Proc. No. 3779, Apr. 10, 1967, 32 F.R. 5919; Proc. No. 3794, July 17, 1967, 32 F.R. 10547; Proc. No. 3820, Nov. 9, 1967, 32 F.R. 15701; Proc. No. 3823, Jan. 29, 1968, 33 F.R. 1171; Proc. No. 3969, Mar. 10, 1970, 35 F.R. 4321; Proc. No. 3990, June 17, 1970, 35 F.R. 10091; Proc. No. 4018, Oct. 16, 1970, 35 F.R. 16357; Proc. No. 4025, Dec. 22, 1970, 35 F.R. 19391; Proc. No. 4092, Nov. 5, 1971, 36 F.R. 21397; Proc. No. 4099, Dec. 20, 1971, 36 F.R. 24203; Proc. No. 4133, May 11, 1972, 37 F.R. 9543; Proc. No. 4156, Sept. 18, 1972, 37 F.R. 19115; Proc. No. 4175, Dec. 16, 1972, 37 F.R. 28043; Proc. No. 4178, Jan. 17, 1973, 38 F.R. 1719; Ex. Ord. No. 11703, Feb. 7, 1973, 38 F.R. 3579; Proc. No. 4202, Mar. 23, 1973, 38 F.R. 7977; Proc. No. 4210, Apr. 18, 1973, 38 F.R. 9645; Proc. No. 4227, June 19, 1973, 38 F.R. 16195; Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459; Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415; Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185; Proc. No. 4317, Sept. 27, 1974, 39 F.R. 35103; Proc. No. 4341, Jan. 23, 1975, 40 F.R. 3965; Proc. No. 4355, Mar. 4, 1975, 40 F.R. 10437; Proc. No. 4370, Apr. 30, 1975, 40 F.R. 19421; Proc. No. 4377, May 27, 1975, 40 F.R. 23429; Proc. No. 4412, Jan. 3, 1976, 41 F.R. 1037; Proc. No. 4543, Dec. 27, 1977, 42 F.R. 64849; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4947; Proc. No. 4629, Dec. 8, 1978, 43 F.R. 58077; Proc. No. 4655, Apr. 6, 1979, 44 F.R. 21243; Proc. No. 4702, Nov. 12, 1979, 44 F.R. 65581; Proc. No. 4744, Apr. 2, 1980, 45 F.R. 22864; Proc. No. 4766, June 19, 1980, 45 F.R. 41899; Proc. No. 4907, Mar. 10, 1982, 47 F.R. 10507, which set forth regulations governing the licensing of imports of petroleum and petroleum products, was revoked by Proc. No. 5141, Dec. 22, 1983, 48 F.R. 56929, set out below.
 
 #### Proclamation No. 4744
 
@@ -204,7 +204,7 @@ Sec. 6. So much of the personnel, property, records, and unexpended balances of 
 
 #### Executive Order No. 11743
 
-Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459, formerly set out as a note under this section, which related to the continuation of the Oil Policy Committee, was superseded by Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415.
+Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459, formerly set out as a note under this section, which related tothe continuation of the Oil Policy Committee, was superseded by Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415.
 
 #### Executive Order No. 12538
 

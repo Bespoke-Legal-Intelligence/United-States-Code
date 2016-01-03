@@ -44,7 +44,7 @@ Agency information.—
 
 &emsp;&emsp;(C)
 
-Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agencyofficials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
+Investment evaluation.—For each major information technology investment listed under subparagraph (A), the Chief Information Officer of the covered agency, in consultation with other appropriate agency officials, shall categorize the investment according to risk, in accordance with guidance issued by the Director.
 
 &emsp;&emsp;(D)
 
@@ -68,7 +68,7 @@ Additional limitation.—The requirements of subparagraph (A) shall not apply to
 
 Risk management.—For each major information technology investment listed under paragraph (3)(A) that receives a high risk rating, as described in paragraph (3)(C), for 4 consecutive quarters—
 
-&emsp;&emsp;(A) the Chief Information Officer of the covered agency and the program manager of the investment within the covered agency, in consultation with the Administrator of the Office of Electronic Government, shall conduct a review of the investment that shall identify—
+&emsp;&emsp;(A) the Chief Information Officer of the covered agency and the program manager ofthe investment within the covered agency, in consultation with the Administrator of the Office of Electronic Government, shall conduct a review of the investment that shall identify—
 
 &emsp;&emsp;&emsp;(i) the root causes of the high level of risk of the investment;
 
@@ -114,7 +114,7 @@ Assessment of Other Models for Managing Information Technology.—On a continuin
 
 (h)
 
-Comparison of Agency Uses of Information Technology.—The Director shall comparethe performances of the executive agencies in using information technology and shall disseminate the comparisons to the heads of the executive agencies.
+Comparison of Agency Uses of Information Technology.—The Director shall compare the performances of the executive agencies in using information technology and shall disseminate the comparisons to the heads of the executive agencies.
 
 (i)
 

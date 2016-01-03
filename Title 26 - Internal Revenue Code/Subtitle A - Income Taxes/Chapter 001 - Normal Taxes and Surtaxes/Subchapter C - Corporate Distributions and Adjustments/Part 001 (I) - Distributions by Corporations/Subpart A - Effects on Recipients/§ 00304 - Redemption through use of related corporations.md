@@ -346,7 +346,7 @@ Special rule for certain transfers to form bank holding company.—Except as pro
 
 "(D)
 
-Amendments to apply to certain liabilities incurred before october 20, 1983.—The amendment made by paragraph (3)(A) shall apply to the acquisition of any stock to the extent the liability assumed, or to which such stock is subject, was incurred by the transferor after October 20, 1983."
+Amendments to apply to certain liabilities incurred before october 20, 1983.—The amendmentmade by paragraph (3)(A) shall apply to the acquisition of any stock to the extent the liability assumed, or to which such stock is subject, was incurred by the transferor after October 20, 1983."
 
 Amendment by section 712(l)(2), (4), (5)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

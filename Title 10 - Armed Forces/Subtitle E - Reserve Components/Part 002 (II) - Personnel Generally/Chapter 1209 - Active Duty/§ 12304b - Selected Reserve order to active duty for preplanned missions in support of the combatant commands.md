@@ -20,7 +20,7 @@ Exclusion From Strength Limitations.—Members ordered to active duty under this
 
 (d)
 
-Notice to Congress.—Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty under subsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
+Notice to Congress.—Whenever the Secretary of a military department orders any unit of the Selected Reserve to active duty undersubsection (a), such Secretary shall submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of such unit.
 
 (e)
 

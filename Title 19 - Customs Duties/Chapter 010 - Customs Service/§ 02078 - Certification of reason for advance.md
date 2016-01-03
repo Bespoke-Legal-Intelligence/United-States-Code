@@ -1,6 +1,6 @@
 ### §2078. Certification of reason for advance
 
-A certificate by the Commissioner of Customs stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee's receiptshall be a sufficient voucher for the sum expressed to have been expended.
+A certificate by the Commissioner of Customs stating the amount of an expenditure made from funds advanced and certifying that the confidential nature of the transaction involved renders it inadvisable to specify the details thereof or impracticable to furnish the payee's receipt shall be a sufficient voucher for the sum expressed to have been expended.
 
 (Mar. 28, 1928, ch. 266, §3, as added Aug. 7, 1939, ch. 566, §1, 53 Stat. 1263; amended Pub. L. 91–513, title III, §1102(n)(2), Oct. 27, 1970, 84 Stat. 1293.)
 

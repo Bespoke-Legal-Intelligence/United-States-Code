@@ -4,7 +4,7 @@
 
 Not later than 1 year after October 4, 2006, and not less than every 5 years thereafter, the Secretary, acting through the Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
 
-&emsp;(1) defines the range of capabilities needed by emergency response providers and relevantgovernment officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
+&emsp;(1) defines the range of capabilities needed by emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
 
 &emsp;(2) defines the range of interoperable emergency communications capabilities needed for specific events;
 

@@ -1,6 +1,6 @@
 ### §2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy
 
-As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
+As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of thatgoal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
 The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
@@ -54,7 +54,7 @@ Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "
 
 #### Effective Date
 
-Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: "This Act \[enacting this chapter,amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968."
+Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: "This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968."
 
 #### Short Title of 2010 Amendment
 
@@ -266,7 +266,7 @@ In general.—Except as provided in paragraph (2), this section shall take effec
 
 &emsp;"(2)
 
-Exception.—The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest."
+Exception.—The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing tothe specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest."
 
 #### Man-Portable Air Defense Systems (MANPADS)
 
@@ -290,7 +290,7 @@ In general.—If the President determines that a foreign government knowingly tr
 
 &emsp;"(2)
 
-Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 "(c)
 
@@ -308,7 +308,7 @@ Sanctions Described.—The sanctions referred to in subsection (b)(1)(B) are the
 
 "(d)
 
-Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financingthat would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
+Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
 
 "(e)
 
@@ -384,7 +384,7 @@ In general.—As soon as practicable, but not later than the date of completion 
 
 &emsp;"(2)
 
-Certification acceptance.—Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
+Certification acceptance.—Under the process, the Administrator shall accept the certification ofthe Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
 
 &emsp;"(3)
 
@@ -626,7 +626,7 @@ Establishment.—(1) There is hereby established a Counterproliferation Program 
 
 "(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logistics the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
 
-"(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serveas executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
+"(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
 
 "(b)
 
@@ -752,7 +752,7 @@ Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to underta
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
-Pub. L. 94–329, title II, §202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, §202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report toCongress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
@@ -772,7 +772,7 @@ Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the sense of Congress that (1) the Presidentshould continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation."
+Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation."
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 
@@ -812,7 +812,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (d) Those under sections 22(a), 29, 30, and 30A of the Act (22 U.S.C. 2762(a), 2769, 2770, and 2770a) to the Secretary of Defense.
 
-(e) Those under section 23 of the Act (22 U.S.C. 2763), and under section 7069 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012 (Public Law 112–74, Division I) and any subsequently enacted provision of law that is the same or substantially the same, to the Secretary of Defense to be exercised in consultation with the Secretary of State and, other than the last sentence of section 23(a) (22 U.S.C. 2763(a)), in consultation with the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged that is less than the market rate of interest.
+(e) Those under section 23 of the Act (22 U.S.C. 2763), and under section 7069 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012 (Public Law 112–74, Division I) and any subsequently enacted provision of law that is the same orsubstantially the same, to the Secretary of Defense to be exercised in consultation with the Secretary of State and, other than the last sentence of section 23(a) (22 U.S.C. 2763(a)), in consultation with the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged that is less than the market rate of interest.
 
 (f) Those under sections 24 and 27 of the Act (22 U.S.C. 2764 and 2767) to the Secretary of Defense. The Secretary of Defense shall consult with the Secretary of State and the Secretary of the Treasury in implementing the delegated functions under section 24 (22 U.S.C. 2764) and with the Secretary of State in implementing the delegated functions under section 27 (22 U.S.C. 2767).
 
@@ -832,7 +832,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (n) Those under section 38 of the Act (22 U.S.C. 2778) to:
 
-(i) the Secretary of State, except as otherwise provided in this subsection. Designations, including changes in designations, by the Secretary of State of items or categories of items that shall be considered as defense articles and defense services subject to export control under section 38 (22 U.S.C. 2778) shall have theconcurrence of the Secretary of Defense. The authority to undertake activities to ensure compliance with established export conditions may be redelegated to the Secretary of Defense, or to the head of another executive department or agency as appropriate, who shall exercise such functions in consultation with the Secretary of State;
+(i) the Secretary of State, except as otherwise provided in this subsection. Designations, including changes in designations, by the Secretary of State of items or categories of items that shall be considered as defense articles and defense services subject to export control under section 38 (22 U.S.C. 2778) shall have the concurrence of the Secretary of Defense. The authority to undertake activities to ensure compliance with established export conditions may be redelegated to the Secretary of Defense, or to the head of another executive department or agency as appropriate, who shall exercise such functions in consultation with the Secretary of State;
 
 (ii) the Attorney General, to the extent they relate to the control of the permanent import of defense articles and defense services. In carrying out such functions, the Attorney General shall be guided by the views of the Secretary of State on matters affecting world peace, and the external security and foreign policy of the United States. Designations, including changes in designations, by the Attorney General of items or categories of items that shall be considered as defense articles and defense services subject to permanent import control under section 38 of the Act (22 U.S.C. 2778) shall be made with the concurrence of the Secretary of State and the Secretary of Defense and with notice to the Secretary of Commerce; and
 

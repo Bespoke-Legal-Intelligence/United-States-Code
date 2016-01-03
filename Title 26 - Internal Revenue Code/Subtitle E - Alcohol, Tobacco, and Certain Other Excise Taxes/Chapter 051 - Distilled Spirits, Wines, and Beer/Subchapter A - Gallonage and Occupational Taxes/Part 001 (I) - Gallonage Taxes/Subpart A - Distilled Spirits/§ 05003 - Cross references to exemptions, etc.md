@@ -26,7 +26,7 @@
 
 &emsp;&emsp;<b>(13) For provisions relating to exemption from tax of taxable articles going into the possessions of the United States, see section 7653(b).</b>
 
-&emsp;&emsp;<b>(14) For provisions authorizing the withdrawal of distilled spirits without payment of tax for use in certain research, development, or testing, see section 5214(a)(10).</b>
+&emsp;&emsp;<b>(14) For provisions authorizing the withdrawal of distilled spirits without payment of tax for use in</b><b>certain research, development, or testing, see section 5214(a)(10).</b>
 
 &emsp;&emsp;<b>(15) For provisions authorizing the withdrawal of distilled spirits without payment of tax for transfer to manufacturing bonded warehouses for manufacturing for export, see section 5214(a)(6).</b>
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–176, §7, Nov. 14, 1977, 91 Stat. 1367, provided that: "The amendments made by this Act \[amendingthis section and sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Nov. 14, 1977\]."
+Pub. L. 95–176, §7, Nov. 14, 1977, 91 Stat. 1367, provided that: "The amendments made by this Act \[amending this section and sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Nov. 14, 1977\]."
 

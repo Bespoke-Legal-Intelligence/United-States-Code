@@ -66,7 +66,7 @@ The Attorney General shall register an applicant to distribute controlled substa
 
 #### (f) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances
 
-The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification wouldbe inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
 &emsp;(1) The recommendation of the appropriate State licensing board or professional disciplinary authority.
 
@@ -106,7 +106,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published in the Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
 
-(D)(i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
+(D)(i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless\(in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
 
 &emsp;(I) The notification under subparagraph (B) is in writing and states the name of the practitioner.
 
@@ -140,7 +140,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;&emsp;(III) The physician holds a subspecialty board certification in addiction medicine from the American Osteopathic Association.
 
-&emsp;&emsp;(IV) The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than eight hours of training (through classroom situations, seminars at professional societymeetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause.
+&emsp;&emsp;(IV) The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than eight hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause.
 
 &emsp;&emsp;(V) The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
 
@@ -168,7 +168,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(II) The Attorney General may make a determination of the extent to which there have been violations of the numerical limitations established under subparagraph (B) for the number of individuals to whom a practitioner may provide treatment; may make a determination of whether waivers under subparagraph (A) have increased (relative to the beginning of such period) the extent to which narcotic drugs in schedule III, IV, or V or combinations of such drugs are being dispensed or possessed in violation of this chapter; and may make a determination of whether such waivers have adverse consequences for the public health.
 
-(iii) If, before the expiration of the period specified in clause (ii), the Secretary or the Attorney General publishes in the Federal Register a decision, made on the basis of determinations under such clause, that subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective 60 days after the date on which the decision is so published. The Secretary shall in making any such decision consult with the Attorney General, and shall in publishing the decision in the Federal Register include any comments received from the Attorney General for inclusion in the publication. The Attorney General shall in making any such decision consult with the Secretary, and shall in publishing the decision in the Federal Register include anycomments received from the Secretary for inclusion in the publication.
+(iii) If, before the expiration of the period specified in clause (ii), the Secretary or the Attorney General publishes in the Federal Register a decision, made on the basis of determinations under such clause, that subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective 60 days after the date on which the decision is so published. The Secretary shall in making any such decision consult with the Attorney General, and shall in publishing the decision in the Federal Register include any comments received from the Attorney General for inclusion in the publication. The Attorney General shall in making any such decision consult with the Secretary, and shall in publishing the decision in the Federal Register include any comments received from the Secretary for inclusion in the publication.
 
 #### (h) Applicants for distribution of list I chemicals
 
@@ -184,7 +184,13 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824.)
+#### (i) Registration to manufacture certain controlled substances for use only in a clinical trial
+
+(1) For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, not later than 180 days after the date on which the application is accepted for filing.
+
+(2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with section 824(c) of this title, unless the Attorney General has granted a hearing on the application under section 958(i) of this title.
+
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701.)
 
 #### References in Text
 
@@ -195,6 +201,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), i
 This chapter, referred to in subsec. (g)(2)(J)(ii)(II), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (i). Pub. L. 114–89 added subsec. (i).
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–425, in introductory provisions, inserted "and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet" after "schedule II, III, IV, or V" and substituted "or such modification of registration if the Attorney General determines that the issuance of such registration or modification" for "if he determines that the issuance of such registration".
 

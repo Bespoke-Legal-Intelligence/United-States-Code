@@ -44,7 +44,7 @@
 
 #### Prior Provisions
 
-A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), Oct. 21, 2011, 125 Stat. 419, which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title.
+A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5,div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), Oct. 21, 2011, 125 Stat. 419, which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title.
 
 Another prior section 2701 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
@@ -132,7 +132,7 @@ Pub. L. 104–191, title I, §195, Aug. 21, 1996, 110 Stat. 1991, provided that:
 
 Findings Relating to Exercise of Commerce Clause Authority.—Congress finds the following in relation to the provisions of this title \[enacting this subchapter and sections 1181 to 1183 and 1191 to 1191c of Title 29, Labor, amending sections 233, 300e, and 300bb–8 of this title and sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of Title 29, and enacting provisions set out as notes under this section, section 300gg–92 of this title, and section 1181 of Title 29\]:
 
-&emsp;"(1) Provisions in group health plans and health insurance coverage that impose certain preexisting condition exclusions impact the ability of employees to seek employment in interstate commerce, thereby impeding such commerce.
+&emsp;"(1) Provisions in group health plans and health insurance coverage that impose certain preexistingcondition exclusions impact the ability of employees to seek employment in interstate commerce, thereby impeding such commerce.
 
 &emsp;"(2) Health insurance coverage is commercial in nature and is in and affects interstate commerce.
 

@@ -18,11 +18,11 @@ Except as otherwise provided by law, the Secretary shall interpret all Federal l
 
 #### (2) Approval
 
-&emsp;Not later than 90 days after receipt by the Secretary of a written request by an Indian tribe to waive application of a regulation for a compact or funding agreement entered into under this part, the Secretary shall either approve or deny the requested waiver in writing. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. A failure to approve or deny a waiver request not later than 90 days after receipt shall be deemed an approval of such request. The Secretary's decision shall be final for the Department.
+&emsp;Not later than 90 days after receipt by the Secretary of a written request by an Indian tribe to waive application of a regulation for a compact or funding agreement entered into under this part, the Secretary shall either approve or deny the requested waiver in writing. A denial may be made only upon a specific finding by the Secretary that identified language in the regulation may not be waived because such waiver is prohibited by Federal law. A failure to approve or deny a waiver request not later than 90 days after receipt shallbe deemed an approval of such request. The Secretary's decision shall be final for the Department.
 
 #### (c) Access to Federal property
 
-In connection with any compact or funding agreement executed pursuant to this part or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,<sup>1</sup> as in effect before August 18,2000, upon the request of an Indian tribe, the Secretary—
+In connection with any compact or funding agreement executed pursuant to this part or an agreement negotiated under the Tribal Self-Governance Demonstration Project established under title III,<sup>1</sup> as in effect before August 18, 2000, upon the request of an Indian tribe, the Secretary—
 
 &emsp;(1) shall permit an Indian tribe to use existing school buildings, hospitals, and other facilities and all equipment therein or appertaining thereto and other personal property owned by the Government within the Secretary's jurisdiction under such terms and conditions as may be agreed upon by the Secretary and the Indian tribe for their use and maintenance;
 

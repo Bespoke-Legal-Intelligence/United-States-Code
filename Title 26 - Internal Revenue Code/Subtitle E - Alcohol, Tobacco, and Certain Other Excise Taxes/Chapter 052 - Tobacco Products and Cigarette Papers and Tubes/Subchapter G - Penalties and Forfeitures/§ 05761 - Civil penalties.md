@@ -42,7 +42,7 @@ Except as provided in subsections (b) and (d) of section 5704—
 
 &emsp;&emsp;&emsp;(i) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made, or
 
-&emsp;&emsp;&emsp;(ii) the tobacco product is delivered by use of a common carrier, private deliveryservice, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the tobacco product.
+&emsp;&emsp;&emsp;(ii) the tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the tobacco product.
 
 #### (e) Applicability of section 6665
 
@@ -52,7 +52,7 @@ The penalties imposed by subsections (b) and (c) shall be assessed, collected, a
 
 &emsp;&emsp;<b>For penalty for failure to make deposits or for overstatement of deposits, see section 6656.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 717; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1425; Pub. L. 97–34, title VII, §§722(a)(3), 724(b)(5), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 97–448, title I, §107(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title VII, §714(h)(2), July 18, 1984, 98 Stat. 962; Pub. L. 101–239, title VII, §7721(c)(4), (5), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 105–33, title IX, §9302(h)(1)(B)–(D), Aug. 5, 1997, 111 Stat. 673; Pub. L. 106–476, title IV, §§4002(c), 4003(a), Nov. 9, 2000, 114 Stat. 2177; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 109–432, div. C, title IV, §401(f)(1), (2)(A), Dec. 20, 2006, 120 Stat. 3049, 3050.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 717; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1425; Pub. L. 97–34, title VII, §§722(a)(3), 724(b)(5), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 97–448, title I, §107(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title VII, §714(h)(2), July 18, 1984, 98 Stat. 962; Pub. L. 101–239, title VII, §7721(c)(4), (5), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 105–33, title IX, §9302(h)(1)(B)–(D), Aug. 5, 1997, 111 Stat. 673; Pub. L. 106–476, title IV, §§4002(c), 4003(a), Nov. 9, 2000, 114 Stat. 2177; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-644; Pub. L. 109–432, div. C, title IV, §401(f)(1), (2)(A), Dec. 20, 2006, 120 Stat. 3049, 3050.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 109–432 applicable with respect to goods entered, or with
 
 Amendment by Pub. L. 106–554 effective as if included in section 9302 of the Balanced Budget Act of 1997, Pub. L. 105–33, see section 1(a)(7) \[title III, §315(b)\] of Pub. L. 106–554, set out as a note under section 5702 of this title.
 
-Amendment by section 4002 of Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub.L. 106–476, set out as a note under section 5704 of this title.
+Amendment by section 4002 of Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub. L. 106–476, set out as a note under section 5704 of this title.
 
 Pub. L. 106–476, title IV, §4003(b), Nov. 9, 2000, 114 Stat. 2178, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 

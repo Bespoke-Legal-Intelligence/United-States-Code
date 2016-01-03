@@ -20,7 +20,7 @@
 
 #### (C) Suspension of period
 
-&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel orother documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
 
 #### (2) Detention
 
@@ -70,7 +70,7 @@
 
 #### (7) Employment authorization
 
-&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
+&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in theUnited States unless the Attorney General makes a specific finding that—
 
 &emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
 
-&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen orsubject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
+&emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
 
 #### (3) Restriction on removal to a country where alien's life or freedom would be threatened
 
@@ -236,15 +236,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) <sup>4</sup> of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d),<sup>4</sup> an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
-&emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1) of this section, and
+&emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1), and
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien who is a stowaway, while the alien is being detained pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) subsection (d)(2)(A) or (d)(2)(B)(i) of this section,
+&emsp;&emsp;&emsp;&emsp;(I) subsection (d)(2)(A) or (d)(2)(B)(i),
 
-&emsp;&emsp;&emsp;&emsp;(II) subsection (d)(2)(B)(ii) or (iii) of this section for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
+&emsp;&emsp;&emsp;&emsp;(II) subsection (d)(2)(B)(ii) or (iii) for the period of time reasonably necessary for the owner to arrange for repatriation or removal of the stowaway, including obtaining necessary travel documents, but not to extend beyond the date on which it is ascertained that such travel documents cannot be obtained from the country to which the stowaway is to be returned, or
 
 &emsp;&emsp;&emsp;&emsp;(III) section 1225(b)(1)(B)(ii) of this title, for a period not to exceed 15 days (excluding Saturdays, Sundays, and holidays) commencing on the first such day which begins on the earlier of 72 hours after the time of the initial presentation of the stowaway for inspection or at the time the stowaway is determined to have a credible fear of persecution.
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner ofthe vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation "Immigration and Naturalization Service—Salaries and Expenses"; and
 
@@ -382,7 +382,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 &emsp;(iii) was admitted as a nonimmigrant and at the time he or she was taken into custody by the State or a political subdivision of the State has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title, or to comply with the conditions of any such status.
 
-(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federalincarceration of undocumented criminal aliens who have committed aggravated felonies.
+(4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
 
 (B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
@@ -532,7 +532,7 @@ Pub. L. 103–322, title II, §20301(c), Sept. 13, 1994, 108 Stat. 1824, as amen
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection "(e)".</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection "(e),".</i>
 
 <i><sup>5</sup></i><i> So in original. Probably should be "1225(b)(1)".</i>
 

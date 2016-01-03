@@ -2,7 +2,7 @@
 
 #### (a) Exclusion of open end credit plans
 
-Except as provided in subsection (b) of this section, this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
+Except as provided in subsection (b), this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
 
 #### (b) Advertisements of residential real estate
 
@@ -14,7 +14,7 @@ If any advertisement to which this section applies states the rate of a finance 
 
 #### (d) Requisite disclosures in advertisement
 
-If any advertisement to which this section applies states the amount of the downpayment, if any, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
+If any advertisement to which this section applies states the amount of the downpayment, ifany, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
 
 &emsp;(1) The downpayment, if any.
 
@@ -38,7 +38,7 @@ Each advertisement to which this section applies that relates to a consumer cred
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
-<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3),for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
+<b>1980</b>—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
 
 #### Effective Date of 2010 Amendment
 

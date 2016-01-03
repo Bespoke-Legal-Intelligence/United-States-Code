@@ -26,7 +26,7 @@ In this chapter:
 
 #### (D) Reference to company or website
 
-&emsp;&emsp;The inclusion of a reference to a commercial entity or a link to the website of a commercial entity in an electronic mail message does not, by itself, cause such message to be treated as a commercial electronic mail message for purposes of this chapter if the contents or circumstances of the message indicate a primary purpose other than commercial advertisement or promotion of a commercial product or service.
+&emsp;&emsp;The inclusion of a reference to a commercial entity or a link to the website of a commercial entity in an electronic mail message does not, by itself, cause such message to betreated as a commercial electronic mail message for purposes of this chapter if the contents or circumstances of the message indicate a primary purpose other than commercial advertisement or promotion of a commercial product or service.
 
 #### (3) Commission
 

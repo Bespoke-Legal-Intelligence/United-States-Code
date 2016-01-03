@@ -2,7 +2,7 @@
 
 #### (a) Interoperability framework
 
-The Director of the National Institute of Standards and Technology shall have primaryresponsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
+The Director of the National Institute of Standards and Technology shall have primary responsibility to coordinate the development of a framework that includes protocols and model standards for information management to achieve interoperability of smart grid devices and systems. Such protocols and standards shall further align policy, business, and technology approaches in a manner that would enable all electric resources, including demand-side resources, to contribute to an efficient, reliable electricity network. In developing such protocols and standards—
 
 &emsp;(1) the Director shall seek input and cooperation from the Commission, OEDER and its Smart Grid Task Force, the Smart Grid Advisory Committee, other relevant Federal and State agencies; and
 
@@ -20,7 +20,7 @@ The framework developed under subsection (a) shall be flexible, uniform and tech
 
 &emsp;&emsp;(B) technological innovations;
 
-&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-produced electric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
+&emsp;(3) to consider the use of voluntary uniform standards for certain classes of mass-producedelectric appliances and equipment for homes and businesses that enable customers, at their election and consistent with applicable State and Federal laws, and are manufactured with the ability to respond to electric grid emergencies and demand response signals by curtailing all, or a portion of, the electrical power consumed by the appliances or equipment in response to an emergency or demand response signal, including through—
 
 &emsp;&emsp;(A) load reduction to reduce total electrical demand;
 

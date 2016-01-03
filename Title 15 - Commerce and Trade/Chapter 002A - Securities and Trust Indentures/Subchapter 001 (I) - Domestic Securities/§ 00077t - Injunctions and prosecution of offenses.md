@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission, either upon complaint or otherwise, 
 
 #### (b) Action for injunction or criminal prosecution in district court
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or UnitedStates court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
 
 #### (c) Writ of mandamus
 
@@ -60,7 +60,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
-In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (f) Prohibition of attorneys' fees paid from Commission disgorgement funds
 
@@ -70,7 +70,7 @@ Except as otherwise ordered by the court upon motion by the Commission, or, in t
 
 #### (1) In general
 
-&emsp;In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+&emsp;In any proceeding under subsection (a) against any person participating in, or, at thetime of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
 #### (2) Definition
 

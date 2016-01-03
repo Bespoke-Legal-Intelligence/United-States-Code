@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation may repair, recondition, reconstru
 
 (b)
 
-Transfer to Other Agencies.—The Secretary may transfer the possession or control of a vessel acquired under this chapter to another department or agency of the United States Government on terms and conditions approved by the President. The department or agency shall promptly reimburse the Secretary for expenditures for just compensation, purchase price,charter hire, repairs, reconditioning, or reconstruction.
+Transfer to Other Agencies.—The Secretary may transfer the possession or control of a vessel acquired under this chapter to another department or agency of the United States Government on terms and conditions approved by the President. The department or agency shall promptly reimburse the Secretary for expenditures for just compensation, purchase price, charter hire, repairs, reconditioning, or reconstruction.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1656.)
 

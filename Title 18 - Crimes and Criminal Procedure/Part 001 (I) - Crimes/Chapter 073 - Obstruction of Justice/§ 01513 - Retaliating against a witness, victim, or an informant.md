@@ -4,7 +4,7 @@
 
 &emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
-&emsp;(B) providing to a law enforcement officer any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings,
+&emsp;(B) providing to a law enforcement officer any information relating to the commission orpossible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings,
 
 > shall be punished as provided in paragraph (2).
 

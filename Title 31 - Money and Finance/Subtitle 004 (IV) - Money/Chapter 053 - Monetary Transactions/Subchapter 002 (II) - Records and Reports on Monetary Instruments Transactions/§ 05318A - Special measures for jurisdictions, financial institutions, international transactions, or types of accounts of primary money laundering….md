@@ -72,7 +72,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;(2)
 
-Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, theSecretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
+Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
 &emsp;(3)
 
@@ -114,7 +114,7 @@ Jurisdictional factors.—In the case of a particular jurisdiction—
 
 &emsp;&emsp;&emsp;(ii) the extent to which that jurisdiction or financial institutions operating in that jurisdiction offer bank secrecy or special regulatory advantages to nonresidents or nondomiciliaries of that jurisdiction;
 
-&emsp;&emsp;&emsp;(iii) the substance and quality of administration of the bank supervisory andcounter-money laundering laws of that jurisdiction;
+&emsp;&emsp;&emsp;(iii) the substance and quality of administration of the bank supervisory and counter-money laundering laws of that jurisdiction;
 
 &emsp;&emsp;&emsp;(iv) the relationship between the volume of financial transactions occurring in that jurisdiction and the size of the economy of the jurisdiction;
 

@@ -18,7 +18,7 @@
 
 &emsp;(1) with the prior consent, or on the authority, of the Secretary; and
 
-&emsp;(2) to employees within such occupational groups or geographic locations, or subject to such other similar objective and nonpersonallimitations or conditions, as the Secretary may require.
+&emsp;(2) to employees within such occupational groups or geographic locations, or subject to such other similar objective and nonpersonal limitations or conditions, as the Secretary may require.
 
 > A determination of which employees are within the scope of an offer of separation pay shall be made only on the basis of consistent and well-documented application of the relevant criteria.
 
@@ -80,7 +80,7 @@ Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(a)\], inserted "workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number ofhigh-grade, managerial, or supervisory positions)," after "transfer of function,".
+<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(a)\], inserted "workforce restructuring (to meet mission needs, achieve one or more strength reductions, correct skill imbalances, or reduce the number of high-grade, managerial, or supervisory positions)," after "transfer of function,".
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1151(b)(2)\], inserted concluding provisions.
 
@@ -140,7 +140,7 @@ Terms and Conditions.—The authority to provide voluntary separation incentive 
 
 &emsp;&emsp;"(A) by construing the citations therein to be references to the appropriate authorities in connection with employees of the Government Accountability Office; and
 
-&emsp;&emsp;"(B) by deeming such subsection to be amended by striking 'Code.' and inserting 'Code, or who, during the thirty-six month period preceding the date of separation, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5, United States Code.'
+&emsp;&emsp;"(B) by deeming such subsection to be amended by striking 'Code.' and inserting 'Code, or who, during the thirty-six month period preceding the date of separation, performed service for which a studentloan repayment benefit was or is to be paid under section 5379 of title 5, United States Code.'
 
 &emsp;"(3) subsection (b)(1) of such section shall be applied by substituting 'Committee on Government Reform' \[now Committee on Oversight and Government Reform\] for 'Committee on Government Reform and Oversight';
 
@@ -272,7 +272,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;"(C) an employee who is in receipt of a specific notice of involuntary separation for misconduct or unacceptable performance;
 
-&emsp;&emsp;"(D) an employee who, upon completing an additional period of service as referred to in section 3(b)(2)(B)(ii) of the Federal Workforce Restructuring Act of 1994 (\[Pub. L. 103–226\] 5 U.S.C. 5597 note), would qualify for a voluntary separation incentive payment under section 3 of such Act;
+&emsp;&emsp;"(D) an employee who, upon completing an additional period of service as referred to in section3(b)(2)(B)(ii) of the Federal Workforce Restructuring Act of 1994 (\[Pub. L. 103–226\] 5 U.S.C. 5597 note), would qualify for a voluntary separation incentive payment under section 3 of such Act;
 
 &emsp;&emsp;"(E) an employee who has previously received any voluntary separation incentive payment by the Federal Government under this section or any other authority and has not repaid such payment;
 

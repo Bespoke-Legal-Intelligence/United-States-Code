@@ -26,7 +26,7 @@
 
 #### (B) Submission of proposed strategy
 
-&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) with respect to the drug involved, or within such other reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
+&emsp;&emsp;Not later than 120 days after the Secretary notifies the holder of an approved covered application that the Secretary has made a determination under subparagraph (A) with respect to the drug involved, or within suchother reasonable time as the Secretary requires to protect the public health, the holder shall submit to the Secretary a proposed risk evaluation and mitigation strategy.
 
 #### (3) Abbreviated new drug applications
 
@@ -282,7 +282,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (B) On initiative of Secretary
 
-&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, the Secretary may, at any time, require a responsible person to submit a proposed modification to the strategy within 120 days or within such reasonable time as the Secretary specifies, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that 1 or more goals or elements should be added, modified, or removed from the approved strategy to—
+&emsp;&emsp;After the approval of a risk evaluation and mitigation strategy by the Secretary, theSecretary may, at any time, require a responsible person to submit a proposed modification to the strategy within 120 days or within such reasonable time as the Secretary specifies, if the Secretary, in consultation with the offices described in subsection (c)(2), determines that 1 or more goals or elements should be added, modified, or removed from the approved strategy to—
 
 &emsp;&emsp;&emsp;(i) ensure the benefits of the drug outweigh the risks of the drug; or
 
@@ -392,7 +392,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (I) Effect on action deadline
 
-&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in thisparagraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
+&emsp;&emsp;With respect to a proposal or assessment referred to in paragraph (1), the Secretary shall be considered to have met the action deadline for the action letter on the application if the responsible person requests the dispute resolution process described in this paragraph and if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively.
 
 #### (J) Disqualification
 
@@ -466,7 +466,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(B) Elements to assure safe use, if required under subsection (f) for the listed drug. A drug that is the subject of an abbreviated new drug application and the listed drug shall use a single, shared system under subsection (f). The Secretary may waive the requirement under the preceding sentence for a drug that is the subject of an abbreviated new drug application, and permit the applicant to use a different, comparable aspect of the elements to assure safe use, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single,system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
+&emsp;&emsp;&emsp;(i) the burden of creating a single, shared system outweighs the benefit of a single, system,<sup>2</sup> taking into consideration the impact on health care providers, patients, the applicant for the abbreviated new drug application, and the holder of the reference drug product; or
 
 &emsp;&emsp;&emsp;(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
@@ -476,7 +476,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;For an applicable listed drug for which a drug is approved under section 355(j) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall undertake any communication plan to health care providers required under subsection (e)(3) for the applicable listed drug; and
+&emsp;&emsp;(A) shall undertake any communication plan to health care providers required undersubsection (e)(3) for the applicable listed drug; and
 
 &emsp;&emsp;(B) shall inform the responsible person for the drug that is so approved if the risk evaluation and mitigation strategy for the applicable listed drug is modified.
 
@@ -554,7 +554,7 @@ Subsec. (h)(2)(C). Pub. L. 112–144, §1132(b)(5)(B), amended subpar. (C) gener
 
 Subsec. (h)(3), (4). Pub. L. 112–144, §1132(b)(4), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (h)(4)(A)(i). Pub. L. 112–144, §1132(b)(6)(A), substituted "The responsible" for "Not earlier than 15 days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible" and inserted ", after the sponsor is required to make a submission under subsection (a)(2) or (g)," before "request in writing".
+Subsec. (h)(4)(A)(i). Pub. L. 112–144, §1132(b)(6)(A), substituted "The responsible" for "Not earlier than 15days, and not later than 35 days, after discussions under paragraph (2) have begun, the responsible" and inserted ", after the sponsor is required to make a submission under subsection (a)(2) or (g)," before "request in writing".
 
 Subsec. (h)(4)(I). Pub. L. 112–144, §1132(b)(6)(B), substituted "if the Secretary has complied with the timing requirements of scheduling review by the Drug Safety Oversight Board, providing a written recommendation, and issuing an action letter under subparagraphs (B), (F), and (G), respectively." for "if the Secretary—" and struck out cls. (i) and (ii) which read as follows:
 

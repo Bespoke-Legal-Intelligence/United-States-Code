@@ -50,7 +50,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;&emsp;(ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medicalrecords (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 &emsp;&emsp;(D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -70,7 +70,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 > &emsp;is subject to a civil money penalty of not more than $50,000 for each such violation and, if the violation is gross and flagrant or is repeated, to exclusion from participation in this subchapter and State health care programs. The provisions of section 1320a–7a of this title (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to a civil money penalty and exclusion under this subparagraph in the same manner as such provisions apply with respect to a penalty, exclusion, or proceeding under section 1320a–7a(a) of this title.
 
-&emsp;(C) If, after an initial examination, a physician determines that the individual requiresthe services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
+&emsp;(C) If, after an initial examination, a physician determines that the individual requires the services of a physician listed by the hospital on its list of on-call physicians (required to be maintained under section 1395cc(a)(1)(I) of this title) and notifies the on-call physician and the on-call physician fails or refuses to appear within a reasonable period of time, and the physician orders the transfer of the individual because the physician determines that without the services of the on-call physician the benefits of transfer outweigh the risks of transfer, the physician authorizing the transfer shall not be subject to a penalty under subparagraph (B). However, the previous sentence shall not apply to the hospital or to the on-call physician who failed or refused to appear.
 
 #### (2) Civil enforcement
 
@@ -144,7 +144,7 @@ A participating hospital may not penalize or take adverse action against a quali
 
 #### Prior Provisions
 
-A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
+A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal byPub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments
 
@@ -212,7 +212,7 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §6211(c)(5), added subpar. (A). Former su
 
 Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted "the individual" for "the patient" in cls. (i) and (ii). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
+Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatmentprovided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
 
 Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
@@ -288,7 +288,7 @@ Pub. L. 101–508, title IV, §4207(a)(4), formerly §4027(a)(4), Nov. 5, 1990, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations to carry out such amendments have been promulgated by such date."
+Pub. L. 101–239, title VI, §6211(i), Dec. 19, 1989, 103 Stat. 2249, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 19, 1989\], without regard to whether regulations tocarry out such amendments have been promulgated by such date."
 
 #### Effective Date of 1988 Amendment
 

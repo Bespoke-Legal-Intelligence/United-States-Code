@@ -66,7 +66,7 @@
 
 #### (8) Non-Federal share
 
-&emsp;The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
+&emsp;The proceeds of a secured loan under this section may be used to pay any non-Federalshare of project costs required if the loan is repayable from non-Federal funds.
 
 #### (9) Maximum Federal involvement
 

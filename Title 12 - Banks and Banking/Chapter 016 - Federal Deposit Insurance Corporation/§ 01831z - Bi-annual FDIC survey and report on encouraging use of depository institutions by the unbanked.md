@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation shall conduct a bi-annual survey on efforts by insured depository institutions to bring those individuals and families who have rarely, if ever, held a checking account, a savings account or other type of transaction or check cashing account at an insured depository institution (hereafter in this section referred to as the "unbanked") into the conventional finance system.
+&emsp;The Corporation shall conduct a bi-annual survey on efforts by insured depository institutions to bring those individuals and familieswho have rarely, if ever, held a checking account, a savings account or other type of transaction or check cashing account at an insured depository institution (hereafter in this section referred to as the "unbanked") into the conventional finance system.
 
 #### (2) Factors and questions to consider
 

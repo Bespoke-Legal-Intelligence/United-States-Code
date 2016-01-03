@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (C) Contributions to qualified tuition program and Coverdell education savings accounts
 
-&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined insection 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
 
 #### (3) Eligible educational institution
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388-516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -232,5 +232,5 @@ Pub. L. 100–647, title VI, §6009(b), Nov. 10, 1988, 102 Stat. 3690, provided 
 
 #### Parental Assistance With Tuition Stamp Study
 
-Pub. L. 100–647, title VI, §6009(e), Nov. 10, 1988, 102 Stat. 3690, directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of SeriesEE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Pub. L. 100–647, title VI, §6009(e), Nov. 10, 1988, 102 Stat. 3690, directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of Series EE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 

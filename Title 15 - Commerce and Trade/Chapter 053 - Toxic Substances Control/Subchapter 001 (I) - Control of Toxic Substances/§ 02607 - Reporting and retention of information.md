@@ -14,7 +14,7 @@
 
 > &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
 
-> The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b) of this section, the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
+> The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
 (2) The Administrator may require under paragraph (1) maintenance of records and reporting with respect to the following insofar as known to the person making the report or insofar as reasonably ascertainable:
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) The categories or proposed categories of use of each such substance or mixture.
 
-&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed for each of its categories of use or proposed categories of use.
+&emsp;(C) The total amount of each such substance and mixture manufactured or processed, reasonable estimates of the total amount to be manufactured or processed, the amount manufactured or processed for each of its categories of use, and reasonable estimates of the amount to be manufactured or processed foreach of its categories of use or proposed categories of use.
 
 &emsp;(D) A description of the byproducts resulting from the manufacture, processing, use, or disposal of each such substance or mixture.
 
@@ -34,7 +34,7 @@
 
 > To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative.
 
-(3)(A)(i) The Administrator may by rule require a small manufacturer or processor of a chemical substance to submit to the Administrator such information respecting the chemical substance as the Administrator may require for publication of the first list of chemical substances required by subsection (b) of this section.
+(3)(A)(i) The Administrator may by rule require a small manufacturer or processor of a chemical substance to submit to the Administrator such information respecting the chemical substance as the Administrator may require for publication of the first list of chemical substances required by subsection (b).
 
 (ii) The Administrator may by rule require a small manufacturer or processor of a chemical substance or mixture—
 
@@ -48,7 +48,7 @@
 
 #### (b) Inventory
 
-(1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1) of this section. In the case of a chemical substance for which a notice is submitted in accordance with section 2604 of this title, such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
+(1) The Administrator shall compile, keep current, and publish a list of each chemical substance which is manufactured or processed in the United States. Such list shall at least include each chemical substance which any person reports, under section 2604 of this title or subsection (a) of this section, is manufactured or processed in the United States. Such list may not include any chemical substance which was not manufactured or processed in the United States within three years before the effective date of the rules promulgated pursuant to the last sentence of subsection (a)(1). In the case of a chemical substance for which a notice is submitted in accordance with section 2604 of this title, such chemical substance shall be included in such list as of the earliest date (as determined by the Administrator) on which such substance was manufactured or processed in the United States. The Administrator shall first publish such a list not later than 315 days after January 1, 1977. The Administrator shall not include in such list any chemical substance which is manufactured or processed only in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including such research or analysis for the development of a product.
 
 (2) To the extent consistent with the purposes of this chapter, the Administrator may, in lieu of listing, pursuant to paragraph (1), a chemical substance individually, list a category of chemical substances in which such substance is included.
 

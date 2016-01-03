@@ -8,7 +8,7 @@ This section may be cited as the "Oil Shale, Tar Sands, and Other Strategic Unco
 
 Congress declares that it is the policy of the United States that—
 
-&emsp;(1) United States oil shale, tar sands, and other unconventional fuels are strategically important domestic resources that should be developed to reduce the growing dependence of the United States on politically and economically unstable sources of foreign oil imports;
+&emsp;(1) United States oil shale, tar sands, and other unconventional fuels are strategically important domestic resources that should bedeveloped to reduce the growing dependence of the United States on politically and economically unstable sources of foreign oil imports;
 
 &emsp;(2) the development of oil shale, tar sands, and other strategic unconventional fuels, for research and commercial development, should be conducted in an environmentally sound manner, using practices that minimize impacts; and
 
@@ -84,7 +84,7 @@ Within 90 days after August 8, 2005, the Secretary of the Interior shall report 
 
 #### (B) Subsequent reports
 
-&emsp;&emsp;The Secretary shall provide an annual report describing the progress in developing the strategic unconventional fuels resources within the United States for each of the 5 years following submission of the report provided for in subparagraph (A).
+&emsp;&emsp;The Secretary shall provide an annual report describing the progress in developingthe strategic unconventional fuels resources within the United States for each of the 5 years following submission of the report provided for in subparagraph (A).
 
 #### (i) Office of Petroleum Reserves
 

@@ -30,7 +30,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 #### (b) Exception
 
-(1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifyingemployer securities or qualifying employer real property by an eligible individual account plan.
+(1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifying employer securities or qualifying employer real property by an eligible individual account plan.
 
 (2)(A) If this paragraph applies to an eligible individual account plan, the portion of such plan which consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
 
@@ -66,7 +66,7 @@ Cross References.—
 
 #### (c) Election
 
-(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) of this section if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
+(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying therequirement of subsection (a)(3) of this section if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
 
 &emsp;(A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets such other requirements as the Secretary of the Treasury may prescribe by regulation.
 
-&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
+&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintainsthe plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
@@ -180,7 +180,7 @@ Subsec. (d)(9). Pub. L. 101–239, §7881(l)(2), substituted "such individual ac
 
 Subsec. (f)(1). Pub. L. 101–239, §7881(l)(3)(A), (4), substituted "paragraph" for "subsection" and "if, immediately following the acquisition of such stock" for "if".
 
-Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which read as follows: "After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date."
+Subsec. (f)(3). Pub. L. 101–239, §7881(l)(3)(B), struck out par. (3) which read as follows: "After December 17,1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date."
 
 <b>1987</b>—Subsec. (d)(3)(C). Pub. L. 100–203, §9345(a)(1), added subpar. (C).
 

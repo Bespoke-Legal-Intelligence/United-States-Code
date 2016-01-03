@@ -1,8 +1,8 @@
 ### §1826b. Duration of denial of port privileges and sanctions
 
-Any denial of port privileges or sanction under section 1826a of this title with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing or illegal, unreported, or unregulated fishing by its nationals and vessels beyond the exclusive economic zone of any nation.
+Any denial of port privileges or sanction under section 1826a of this title with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) <sup>1</sup> or 1826k(c) of this title.
 
-(Pub. L. 102–582, title I, §102, Nov. 2, 1992, 106 Stat. 4903; Pub. L. 109–479, title IV, §403(b)(2), Jan. 12, 2007, 120 Stat. 3632.)
+(Pub. L. 102–582, title I, §102, Nov. 2, 1992, 106 Stat. 4903; Pub. L. 109–479, title IV, §403(b)(2), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, §102(b), Nov. 5, 2015, 129 Stat. 656.)
 
 #### Codification
 
@@ -10,5 +10,9 @@ Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act,
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–81 struck out "or illegal, unreported, or unregulated fishing" after "driftnet fishing" and inserted "or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) or 1826j(c) of this title" before period at end.
+
 <b>2007</b>—Pub. L. 109–479 inserted "or illegal, unreported, or unregulated fishing" after "driftnet fishing".
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

@@ -5,6 +5,4 @@ subpart 3—local provisions
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09241 - Grants and contracts for eligible providers](%C2%A7%2009241%20-%20Grants%20and%20contracts%20for%20eligible%20providers.md)
-- [&sect; 09242 - Local application](%C2%A7%2009242%20-%20Local%20application.md)
-- [&sect; 09243 - Local administrative cost limits](%C2%A7%2009243%20-%20Local%20administrative%20cost%20limits.md)
+- [&sect; 09241 to 9243 - Repealed. Pub. L. 113&#8211;128, title V, &sect;511(a), July 22, 2014, 128 Stat. 1705](%C2%A7%2009241%20to%209243%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93128%2C%20title%20V%2C%20%C2%A7511%28a%29%2C%20July%2022%2C%202014%2C%20128%20Stat.%201705.md)

@@ -2,9 +2,41 @@
 
 #### (a) In general
 
-In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance.
+In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, have not received a waiver under section 6314(a)(1)(B) of this title to operate such a schoolwide program, or choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (c) identified as having the greatest need for special assistance.
 
-#### (b) Eligible children
+#### (b) Targeted assistance school program
+
+To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the challenging State academic standards, each targeted assistance program under this section shall—
+
+&emsp;(1) determine which students will be served;
+
+&emsp;(2) serve participating students identified as eligible children under subsection (c), including by—
+
+&emsp;&emsp;(A) using resources under this part to help eligible children meet the challenging State academic standards, which may include programs, activities, and academic courses necessary to provide a well-rounded education;
+
+&emsp;&emsp;(B) using methods and instructional strategies to strengthen the academic program of the school through activities, which may include—
+
+&emsp;&emsp;&emsp;(i) expanded learning time, before- and after-school programs, and summer programs and opportunities; and
+
+&emsp;&emsp;&emsp;(ii) a schoolwide tiered model to prevent and address behavior problems, and early intervening services, coordinated with similar activities and services carried out under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+
+&emsp;&emsp;(C) coordinating with and supporting the regular education program, which may include services to assist preschool children in the transition from early childhood education programs such as Head Start, the literacy program under subpart 2 of part B ofsubchapter II, or State-run preschool programs to elementary school programs;
+
+&emsp;&emsp;(D) providing professional development with resources provided under this part, and, to the extent practicable, from other sources, to teachers, principals, other school leaders, paraprofessionals, and, if appropriate, specialized instructional support personnel, and other school personnel who work with eligible children in programs under this section or in the regular education program;
+
+&emsp;&emsp;(E) implementing strategies to increase the involvement of parents of eligible children in accordance with section 6318 of this title; and <sup>1</sup>
+
+&emsp;&emsp;(F) if appropriate and applicable, coordinating and integrating Federal, State, and local services and programs, such as programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start programs, adult education programs, career and technical education programs, and comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title; and
+
+&emsp;&emsp;(G) provide <sup>2</sup> to the local educational agency assurances that the school will—
+
+&emsp;&emsp;&emsp;(i) help provide an accelerated, high-quality curriculum;
+
+&emsp;&emsp;&emsp;(ii) minimize the removal of children from the regular classroom during regular school hours for instruction provided under this part; and
+
+&emsp;&emsp;&emsp;(iii) on an ongoing basis, review the progress of eligible children and revise the targeted assistance program under this section, if necessary, to provide additional assistance to enable such children to meet the challenging State academic standards.
+
+#### (c) Eligible children
 
 #### (1) Eligible population
 
@@ -18,19 +50,19 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (B) Eligible children from eligible population
 
-&emsp;&emsp;From the population described in subparagraph (A), eligible children are children identified by the school as failing, or most at risk of failing, to meet the State's challenging student academic achievementstandards on the basis of multiple, educationally related, objective criteria established by the local educational agency and supplemented by the school, except that children from preschool through grade 2 shall be selected solely on the basis of such criteria as teacher judgment, interviews with parents, and developmentally appropriate measures.
+&emsp;&emsp;From the population described in subparagraph (A), eligible children are children identified by the school as failing, or most at risk of failing, to meet the challenging State academic standards on the basis of multiple, educationally related, objective criteria established by the local educational agency and supplemented by the school, except that children from preschool through grade 2 shall be selected solely on the basis of criteria, including objective criteria, established by the local educational agency and supplemented by the school.
 
 #### (2) Children included
 
 #### (A) In general
 
-&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrant children or limited English proficient children, are eligible for services under this part on the same basis as other children selected to receive services under this part.
+&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrant children or English learners, are eligible for services under this part on the same basis as other children selected to receive services under this part.
 
-#### (B) Head Start, Even Start, or Early Reading First children
+#### (B) Head Start and preschool children
 
-&emsp;&emsp;A child who, at any time in the 2 years preceding the year for which the determination is made, participated in a Head Start, Even Start, or Early Reading First program, or in preschool services under this subchapter, is eligible for services under this part.
+&emsp;&emsp;A child who, at any time in the 2 years preceding the year for which the determination is made, participated in a Head Start program, the literacy program under subpart 2 of part B of subchapter II, or in preschool services under this subchapter, is eligible for services under this part.
 
-#### (C) Part C children
+#### (C) Migrant children
 
 &emsp;&emsp;A child who, at any time in the 2 years preceding the year for which the determination is made, received services under part C of this subchapter is eligible for services under this part.
 
@@ -45,42 +77,6 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 #### (3) Special rule
 
 &emsp;Funds received under this part may not be used to provide services that are otherwise required by law to be made available to children described in paragraph (2) but may be used to coordinate or supplement such services.
-
-#### (c) Components of a targeted assistance school program
-
-#### (1) In general
-
-&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
-
-&emsp;&emsp;(A) use such program's resources under this part to help participating children meet such State's challenging student academic achievement standards expected for all children;
-
-&emsp;&emsp;(B) ensure that planning for students served under this part is incorporated into existing school planning;
-
-&emsp;&emsp;(C) use effective methods and instructional strategies that are based on scientifically based research that strengthens the core academic program of the school and that—
-
-&emsp;&emsp;&emsp;(i) give primary consideration to providing extended learning time, such as an extended school year, before- and after-school, and summer programs and opportunities;
-
-&emsp;&emsp;&emsp;(ii) help provide an accelerated, high-quality curriculum, including applied learning; and
-
-&emsp;&emsp;&emsp;(iii) minimize removing children from the regular classroom during regular school hours for instruction provided under this part;
-
-&emsp;&emsp;(D) coordinate with and support the regular education program, which may include services to assist preschool children in the transition from early childhood programs such as Head Start, Even Start, Early Reading First or State-run preschool programs to elementary school programs;
-
-&emsp;&emsp;(E) provide instruction by highly qualified teachers;
-
-&emsp;&emsp;(F) in accordance with subsection (e)(3) of this section and section 6319 of this title, provide opportunities for professional development with resources provided under this part, and, to the extent practicable, from other sources, for teachers, principals, and paraprofessionals, including, if appropriate, pupil services personnel, parents, and other staff, who work with participating children in programs under this section or in the regular education program;
-
-&emsp;&emsp;(G) provide strategies to increase parental involvement in accordance with section 6318 of this title, such as family literacy services; and
-
-&emsp;&emsp;(H) coordinate and integrate Federal, State, and local services and programs, including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
-
-#### (2) Requirements
-
-&emsp;Each school conducting a program under this section shall assist participating children selected in accordance with subsection (b) of this section to meet the State's proficient and advanced levels of achievement by—
-
-&emsp;&emsp;(A) the coordinating of resources provided under this part with other resources; and
-
-&emsp;&emsp;(B) reviewing, on an ongoing basis, the progress of participating children and revising the targeted assistance program, if necessary, to provide additional assistance to enable such children to meet the State's challenging student academic achievement standards, such as an extended school year, before- and after-school, and summer programs and opportunities, training for teachers regarding how to identify students who need additional assistance, and training for teachers regarding how to implement student academic achievement standards in the classroom.
 
 #### (d) Integration of professional development
 
@@ -106,17 +102,65 @@ To promote the integration of staff supported with funds under this part into th
 
 &emsp;&emsp;&emsp;(i) the provision of basic medical equipment, such as eyeglasses and hearing aids;
 
-&emsp;&emsp;&emsp;(ii) compensation of a coordinator; and
+&emsp;&emsp;&emsp;(ii) compensation of a coordinator;
 
-&emsp;&emsp;&emsp;(iii) professional development necessary to assist teachers, pupil services personnel, other staff, and parents in identifying and meeting the comprehensive needs of eligible children.
+&emsp;&emsp;&emsp;(iii) family support and engagement services;
 
-#### (3) Professional development
+&emsp;&emsp;&emsp;(iv) integrated student supports; and
 
-&emsp;Each school receiving funds under this part for any fiscal year shall devote sufficient resources to carry out effectively the professional development activities described in subparagraph (F) of subsection (c)(1) of this section in accordance with section 6319 of this title for such fiscal year, and a school may enter into a consortium with another school to carry out such activities.
+&emsp;&emsp;&emsp;(v) professional development necessary to assist teachers, specialized instructional support personnel, other staff, and parents in identifying and meeting the comprehensive needs of eligible children.
 
-(Pub. L. 89–10, title I, §1115, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1475.)
+#### (f) Use of funds for dual or concurrent enrollment programs
+
+A secondary school operating a targeted assistance program under this section may use funds received under this part to provide dual or concurrent enrollment program services described under section 6314(e) of this title to eligible children under subsection (c)(1)(B) who are identified as having the greatest need for special assistance.
+
+#### (g) Prohibition
+
+Nothing in this section shall be construed to authorize the Secretary or any other officer or employee of the Federal Government to require a local educational agency or school to submit the results of a comprehensive needs assessment or plan under section 6314(b) of this title, or a program described in subsection (b), for review or approval by the Secretary.
+
+#### (h) Delivery of services
+
+The services of a targeted assistance program under this section may be delivered by nonprofit or for-profit external providers with expertise in using evidence-based or other effective strategies to improve student achievement.
+
+(Pub. L. 89–10, title I, §1115, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1475; amended Pub. L. 114–95, title I, §1009, Dec. 10, 2015, 129 Stat. 1865.)
+
+#### References in Text
+
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 6315, Pub. L. 89–10, title I, §1115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3539, related to targeted assistance schools, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1009(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance."
+
+Subsec. (b). Pub. L. 114–95, §1009(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to general components of a targeted assistance school program and coordination of resources and review and revision of program.
+
+Pub. L. 114–95, §1009(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 114–95, §1009(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(1)(B). Pub. L. 114–95, §1009(4)(A), substituted "the challenging State academic standards" for "the State's challenging student academic achievement standards" and "criteria, including objective criteria, established by the local educational agency and supplemented by the school" for "such criteria as teacher judgment, interviews with parents, and developmentally appropriate measures".
+
+Subsec. (c)(2)(A). Pub. L. 114–95, §1009(4)(B)(i), substituted "English learners" for "limited English proficient children".
+
+Subsec. (c)(2)(B). Pub. L. 114–95, §1009(4)(B)(ii), in heading, substituted "Head Start and preschool children" for "Head Start, Even Start, or Early Reading First children" and, in text, substituted "Head Start program, the literacy program under subpart 2 of part B of subchapter II," for "Head Start, Even Start, or Early Reading First program,".
+
+Subsec. (c)(2)(C). Pub. L. 114–95, §1009(4)(B)(iii), substituted "Migrant children" for "Part C children" in heading.
+
+Subsec. (e)(2)(B)(iii) to (v). Pub. L. 114–95, §1009(5)(A), added cls. (iii) and (iv), redesignated former cl. (iii) as (v), and, in cl. (v), substituted "specialized instructional support" for "pupil services".
+
+Subsec. (e)(3). Pub. L. 114–95, §1009(5)(B), struck out par. (3). Text read as follows: "Each school receiving funds under this part for any fiscal year shall devote sufficient resources to carry out effectively the professional development activities described in subparagraph (F) of subsection (c)(1) of this section in accordance with section 6319 of this title for such fiscal year, and a school may enter into a consortium with another school to carry out such activities."
+
+Subsecs. (f) to (h). Pub. L. 114–95, §1009(6), added subsecs. (f) to (h).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "providing".</i>
 

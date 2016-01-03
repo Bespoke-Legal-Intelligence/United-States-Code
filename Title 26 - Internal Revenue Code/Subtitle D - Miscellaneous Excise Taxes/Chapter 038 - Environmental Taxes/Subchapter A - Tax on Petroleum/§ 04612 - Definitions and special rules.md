@@ -98,7 +98,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount determined under clause (ii), over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit determined under this subsection forprior taxable years with respect to such taxpayer.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit determined under this subsection for prior taxable years with respect to such taxpayer.
 
 #### (ii) Overall limitation
 

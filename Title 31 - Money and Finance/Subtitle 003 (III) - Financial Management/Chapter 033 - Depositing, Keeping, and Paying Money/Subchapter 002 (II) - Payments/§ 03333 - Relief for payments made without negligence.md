@@ -14,7 +14,7 @@
 
 (b) This section does not relieve another individual from civil or criminal liability for a check, draft, warrant, or debt obligation of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 956; Pub. L. 108–447, div. H, title II, §220(a), Dec. 8, 2004, 118 Stat. 3242; Pub. L. 110–161, div. D, title I, §119, Dec. 26, 2007, 121 Stat. 1979.)
 
 Historical and Revision Notes
 
@@ -34,7 +34,7 @@ Aug. 4, 1947, ch. 455, §3, 61 Stat. 730.
 
 31:156(proviso).
 
-In subsection (a)(1), before clause (A), the words "Secretary of the Treasury" are substituted for "Treasurer" before "is not liable" because of the source provisions restated in section 321(c) of the revised title. The word "depositary" is substituted for "upon the Treasurer of the United States through any Federal Reserve Bank" for consistency in the revised title. The words "Whenever . . . heretofore has been or hereafter" and "or on behalf of" are omitted as surplus. In clause (A), the word "Treasury" is substituted for "Treasurer of the United States" after "drawn upon the" because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words "public . . . of the United States, including any obligation of any type whatever, the payment of which is" are omitted as surplus.
+In subsection (a)(1), before clause (A), the words "Secretary of the Treasury" are substituted for "Treasurer" before "is not liable" because of the source provisions restated in section 321(c) of the revised title. The word "depositary" is substituted for"upon the Treasurer of the United States through any Federal Reserve Bank" for consistency in the revised title. The words "Whenever . . . heretofore has been or hereafter" and "or on behalf of" are omitted as surplus. In clause (A), the word "Treasury" is substituted for "Treasurer of the United States" after "drawn upon the" because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). In clause (B), the words "public . . . of the United States, including any obligation of any type whatever, the payment of which is" are omitted as surplus.
 
 In subsection (a)(2), the words "of the United States" are omitted as unnecessary. The words "of the Treasury or the depositary" are substituted for "Treasurer's" because of the restatement.
 

@@ -12,7 +12,7 @@ In General.—In the case of each eligible facility that is made available for t
 
 &emsp;&emsp;(A) enter into contracts, and provide for subcontracts, for terms up to 25 years, as the Secretary considers appropriate and consistent with the needs of the Department of the Army and the goals and purposes of the ARMS Initiative; and
 
-&emsp;&emsp;(B) use procedures that are authorized to be used under section 2304(c)(5) of this title when the contractor or subcontractor is a source specified in law.
+&emsp;&emsp;(B) use procedures that are authorized to be used under section 2304(c)(5) of this titlewhen the contractor or subcontractor is a source specified in law.
 
 (b)
 
@@ -39,6 +39,10 @@ Consideration for Use.—(1) To the extent provided in a contract entered into u
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(2)(D). Pub. L. 109–163 added subpar. (D).
+
+#### Temporary Authority To Extend Contracts and Leases Under the Arms Initiative
+
+Pub. L. 114–92, div. A, title III, §343, Nov. 25, 2015, 129 Stat. 794, provided that: "Contracts or subcontracts entered into pursuant to section 4554(a)(3)(A) of title 10, United States Code, on or before the date that is five years after the date of the enactment of this Act \[Nov. 25, 2015\] may include an option to extend the term of the contract or subcontract for an additional 25 years."
 
 #### Implementation Report
 

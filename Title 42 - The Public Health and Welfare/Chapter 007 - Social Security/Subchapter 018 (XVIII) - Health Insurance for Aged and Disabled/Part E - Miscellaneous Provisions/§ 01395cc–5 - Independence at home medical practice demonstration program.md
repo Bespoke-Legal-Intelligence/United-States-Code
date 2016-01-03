@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The term "independence at home medical practice" means a legal entity that—
 
-&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours per day, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
+&emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours perday, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
 
 &emsp;&emsp;&emsp;(ii) is organized at least in part for the purpose of providing physicians' services;
 
@@ -66,7 +66,7 @@
 
 #### (3) Inclusion of providers and practitioners
 
-&emsp;Nothing in this subsection shall be construed as preventing an independence at homemedical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under an arrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
+&emsp;Nothing in this subsection shall be construed as preventing an independence at home medical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under an arrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
 
 #### (4) Quality and performance standards
 
@@ -114,7 +114,7 @@
 
 #### (1) Starting date
 
-&emsp;The demonstration program shall begin no later than January 1, 2012. An agreement with an independence at home medical practice under the demonstration program may cover not more than a 3-year period.
+&emsp;The demonstration program shall begin no later than January 1, 2012. An agreement with an independence at home medical practice under the demonstration program may cover not more than a 5-year period.
 
 #### (2) No physician duplication in demonstration participation
 
@@ -136,7 +136,7 @@
 
 #### (5) Limitation on number of practices
 
-&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shalllimit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 10,000.
+&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 10,000.
 
 #### (6) Waiver
 
@@ -178,9 +178,13 @@ For purposes of administering and carrying out the demonstration program, other 
 
 &emsp;The Secretary may terminate an agreement with an independence at home medical practice for such other reasons determined appropriate by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E, Pub. L. 111–148, title III, §3024, title X, §10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E,Pub. L. 111–148, title III, §3024, title X, §10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942; amended Pub. L. 114–39, §2, July 30, 2015, 129 Stat. 440.)
 
 #### References in Text
 
 Parts A, B, and C, referred to in subsecs. (c) and (d)(1)(A), (B), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (e)(1). Pub. L. 114–39 substituted "5-year" for "3-year".
 

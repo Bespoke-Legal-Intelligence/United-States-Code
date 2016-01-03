@@ -8,7 +8,7 @@ Every person who is a tobacco product manufacturer or importer of a tobacco prod
 
 &emsp;(2) shall require reporting of other significant adverse tobacco product experiences as determined by the Secretary to be necessary to be reported;
 
-&emsp;(3) shall not impose requirements unduly burdensome to a tobacco product manufacturer or importer, taking into account the cost of complying with such requirements andthe need for the protection of the public health and the implementation of this subchapter;
+&emsp;(3) shall not impose requirements unduly burdensome to a tobacco product manufacturer or importer, taking into account the cost of complying with such requirements and the need for the protection of the public health and the implementation of this subchapter;
 
 &emsp;(4) when prescribing the procedure for making requests for reports or information, shall require that each request made under such regulations for submission of a report or information to the Secretary state the reason or purpose for such request and identify to the fullest extent practicable such report or information;
 

@@ -18,7 +18,7 @@ The purposes of this Act are the following:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter,repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 
@@ -80,11 +80,25 @@ Submission.—Sections 102, 103, and 108 of this Act shall apply to plans for th
 
 Disability Provisions.—Except as otherwise provided in title IV of this Act, title IV \[see Tables for classification\], and the amendments made by title IV, shall take effect on the date of enactment of this Act."
 
-\[The first full program year after the date of enactment of Pub. L. 113–128, referred to in section 506 of Pub. L. 113–128, set out above, probably begins on July 1, 2015, based on section 189(g)(1)(A) of Pub. L. 113–128, which is classified to section 3249(g)(1)(A) of this title.\]
+\[The first full program year after the date of enactment of Pub. L. 113–128, referred to in section 506 of Pub. L. 113–128, set out above, begins on July 1, 2015, based on section 189(g)(1)(A) of Pub. L. 113–128, which is classified to section 3249(g)(1)(A) of this title.\]
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–18, §1, May 22, 2015, 129 Stat. 213, provided that: "This Act \[amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title\] may be cited as the 'WIOA Technical Amendments Act'."
 
 #### Short Title
 
 Pub. L. 113–128, §1(a), July 22, 2014, 128 Stat. 1425, provided that: "This Act \[see Tables for classification\] may be cited as the 'Workforce Innovation and Opportunity Act'."
 
 Pub. L. 113–128, title II, §201, July 22, 2014, 128 Stat. 1608, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Adult Education and Family Literacy Act'."
+
+#### Declaration of Policy
+
+Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided that: "In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
+
+&emsp;"(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
+
+&emsp;"(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
+
+&emsp;"(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels."
 

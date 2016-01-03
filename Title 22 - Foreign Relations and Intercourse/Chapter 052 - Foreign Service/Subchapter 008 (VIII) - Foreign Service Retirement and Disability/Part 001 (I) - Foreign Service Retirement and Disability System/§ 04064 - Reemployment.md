@@ -6,7 +6,7 @@
 
 (B) If the annuity of an individual is terminated under subparagraph (A) and that individual becomes covered under the same retirement system from which that annuity is terminated, that individual shall be entitled to a redetermination of rights under that system upon termination of the employment.
 
-(C) If the annuity is terminated and the individual becomes covered under another contributory retirement system for Government employees pursuant to paragraph (A), the individual shall be entitled to benefits under the rules of that system. In addition, the individual shall be entitled to a resumption of any annuity terminated by reason of the employment.
+(C) If the annuity is terminated and the individual becomes covered under another contributory retirement system for Government employees pursuant to paragraph (A), the individual shall be entitled to benefits under the rules ofthat system. In addition, the individual shall be entitled to a resumption of any annuity terminated by reason of the employment.
 
 #### (b) Part-time, intermittent, or temporary employment; election to continue receiving annuity; reduction in amount of annuity; resumption of full annuity
 
@@ -124,9 +124,11 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Extension of Authority
 
-Pub. L. 113–235, div. J, title VII, §7034(l)(4), Dec. 16, 2014, 128 Stat. 2625, provided that: "Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting 'September 30, 2015' for 'October 1, 2010' in paragraph (2)."
+Pub. L. 114–113, div. K, title VII, §7034(k)(4), Dec. 18, 2015, 129 Stat. 2764, provided that: "Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) shall be applied by substituting 'September 30, 2016' for 'October 1, 2010' in paragraph (2)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–235, div. J, title VII, §7034(l)(4), Dec. 16, 2014, 128 Stat. 2625.
 
 Pub. L. 113–76, div. K, title VII, §7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
 

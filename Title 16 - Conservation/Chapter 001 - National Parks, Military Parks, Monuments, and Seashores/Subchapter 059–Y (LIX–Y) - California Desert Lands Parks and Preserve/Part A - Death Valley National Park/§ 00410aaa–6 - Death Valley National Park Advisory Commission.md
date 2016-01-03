@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish an Advisory Commission of no more than fifteen members, toadvise the Secretary concerning the development and implementation of a new or revised comprehensive management plan for Death Valley National Park.
+The Secretary shall establish an Advisory Commission of no more than fifteen members, to advise the Secretary concerning the development and implementation of a new or revised comprehensive management plan for Death Valley National Park.
 
 #### (b) Membership
 

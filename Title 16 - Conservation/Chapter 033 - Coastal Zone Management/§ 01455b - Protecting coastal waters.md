@@ -4,7 +4,7 @@
 
 #### (1) Program development
 
-&emsp;Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
+&emsp;Not later than 30 months after the date of the publication of final guidance under subsection (g), each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
 
 #### (2) Program coordination
 
@@ -12,7 +12,7 @@
 
 #### (b) Program contents
 
-Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g), to protect coastal waters generally, and shall also contain the following:
 
 #### (1) Identifying land uses
 
@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
 #### (3) Management measures
 
@@ -44,7 +44,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (7) State coastal zone boundary modification
 
-&emsp;A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e) of this section. If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
+&emsp;A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
 
 #### (c) Program submission, approval, and implementation
 
@@ -58,7 +58,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Implementation of approved program
 
-&emsp;If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b) of this section, through—
+&emsp;If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b), through—
 
 &emsp;&emsp;(A) changes to the State plan for control of nonpoint source pollution approved under section 1329 of title 33; and
 
@@ -100,7 +100,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 &emsp;(2) methods for assessing the cumulative water quality effects of coastal development;
 
-&emsp;(3) maintaining and from time to time revising an inventory of model ordinances, and providing other assistance to coastal States andlocal governments in identifying, developing, and implementing pollution control measures; and
+&emsp;(3) maintaining and from time to time revising an inventory of model ordinances, and providing other assistance to coastal States and local governments in identifying, developing, and implementing pollution control measures; and
 
 &emsp;(4) methods to predict and assess the effects of coastal land use management measures on coastal water quality and designated uses.
 
@@ -178,9 +178,9 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
-&emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) of this section not more than—
+&emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
 &emsp;&emsp;(i) $6,000,000 for fiscal year 1992;
 

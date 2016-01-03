@@ -22,7 +22,7 @@ In carrying out this part, the Research Commissioner shall—
 
 &emsp;The Research Commissioner shall—
 
-&emsp;&emsp;(A) develop the procedures to be used in evaluating applications for research grants, cooperative agreements, and contracts, and specify the criteria and factors (including, asapplicable, the use of longitudinal data linking test scores, enrollment, and graduation rates over time) which shall be considered in making such evaluations; and
+&emsp;&emsp;(A) develop the procedures to be used in evaluating applications for research grants, cooperative agreements, and contracts, and specify the criteria and factors (including, as applicable, the use of longitudinal data linking test scores, enrollment, and graduation rates over time) which shall be considered in making such evaluations; and
 
 &emsp;&emsp;(B) evaluate the performance of each recipient of an award of a research grant, contract, or cooperative agreement at the conclusion of the award.
 
@@ -34,5 +34,5 @@ The Research Commissioner shall ensure that not less than 50 percent of the fund
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b)(1), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007,9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 

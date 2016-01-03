@@ -46,7 +46,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 #### (B) Full contribution amount
 
-&emsp;&emsp;Under such contract, with respect to the last calendar quarter of fiscal year 2011 and each calendar quarter in fiscal years 2012 through 2015 the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter and with respect to calendar quarters in fiscal year 2016, such full contribution amount shall be equal to 1/9 of the Federal expenditures in carrying out this subchapter for the respective quarter.
+&emsp;&emsp;Under such contract, with respect to each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090, the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter.
 
 #### (C) Satisfaction of payment obligation
 
@@ -70,7 +70,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 #### (ii) Recovery of amounts owed
 
-&emsp;&emsp;&emsp;The amounts owed to the WTC Program Administrator under such contract shall be recoverable by the United States in anaction in the same manner as payments made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] may be recoverable in an action brought under section 1862(b)(2)(B)(iii) of such Act \[42 U.S.C. 1395y(b)(2)(B)(iii)\].
+&emsp;&emsp;&emsp;The amounts owed to the WTC Program Administrator under such contract shall be recoverable by the United States in an action in the same manner as payments made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] may be recoverable in an action brought under section 1862(b)(2)(B)(iii) of such Act \[42 U.S.C. 1395y(b)(2)(B)(iii)\].
 
 #### (F) Deposit in fund
 
@@ -100,11 +100,15 @@ For the purposes of this section, a WTC-related health condition shall be treate
 
 &emsp;(2) with respect to the condition the individual has filed and had established a claim under a workers' compensation law or plan of the United States or a State, or other work-related injury or illness benefit plan of the employer of such individual.
 
-(July 1, 1944, ch. 373, title XXXIII, §3331, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3653.)
+(July 1, 1944, ch. 373, title XXXIII, §3331, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011,124 Stat. 3653; amended Pub. L. 114–113, div. O, title III, §302(g), Dec. 18, 2015, 129 Stat. 3000.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(1), (c)(1), and (d)(1)(E)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (d)(1)(B). Pub. L. 114–113 substituted "each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090," for "the last calendar quarter of fiscal year 2011 and each calendar quarter in fiscal years 2012 through 2015" and struck out "and with respect to calendar quarters in fiscal year 2016, such full contribution amount shall be equal to 1/9 of the Federal expenditures in carrying out this subchapter for the respective quarter" before period at end.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
 

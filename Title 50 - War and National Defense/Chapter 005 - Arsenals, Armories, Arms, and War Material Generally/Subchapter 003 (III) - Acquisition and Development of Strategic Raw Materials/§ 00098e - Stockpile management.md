@@ -12,7 +12,7 @@ The President shall—
 
 &emsp;(4) provide for the rotation of any material in the stockpile when necessary to prevent deterioration or technological obsolescence of such material by replacement of such material with an equivalent quantity of substantially the same material or better material;
 
-&emsp;(5) provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be availablefrom excess materials made available for recovery purposes by other Federal agencies;
+&emsp;(5) provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be available from excess materials made available for recovery purposes by other Federal agencies;
 
 &emsp;(6) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
 
@@ -78,7 +78,7 @@ Pub. L. 104–106, §1502(e)(1)(B), substituted "such congressional committees" 
 
 Subsec. (c)(1). Pub. L. 101–510, §3301(b)(2), inserted "under subsection (a)(1) of this section" after "the acquisition" and "under subsection (a)(5) or (a)(6) of this section" after "the disposal".
 
-Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted "(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law)" for ", the disposition of which is authorized by law," and "of upgrading, refining" for "of refining".
+Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted "(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing ofa material in the stockpile, or is otherwise authorized by law)" for ", the disposition of which is authorized by law," and "of upgrading, refining" for "of refining".
 
 Subsec. (c)(3), (4). Pub. L. 101–510, §3301(a), added par. (3) and redesignated former par. (3) as (4).
 

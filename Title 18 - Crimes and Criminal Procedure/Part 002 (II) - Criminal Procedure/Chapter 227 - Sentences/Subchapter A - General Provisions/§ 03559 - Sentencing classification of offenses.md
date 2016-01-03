@@ -76,7 +76,7 @@ Nonqualifying felonies.—
 
 &emsp;&emsp;(A)
 
-Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
+Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if thedefendant establishes by clear and convincing evidence that—
 
 &emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
 
@@ -164,7 +164,7 @@ Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) sha
 
 Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
 
-&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years notless than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
+&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
 
 &emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
 

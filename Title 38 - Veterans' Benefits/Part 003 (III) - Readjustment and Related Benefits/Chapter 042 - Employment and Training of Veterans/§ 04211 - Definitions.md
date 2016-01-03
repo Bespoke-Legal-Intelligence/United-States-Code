@@ -60,7 +60,7 @@ Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par.
 
 <b>1989</b>—Par. (2)(B). Pub. L. 101–237 inserted before period at end "except for purposes of section 2014 of this title".
 
-<b>1984</b>—Par. (1). Pub. L. 98–223 expanded term "special disabled veteran" to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran whohas been determined under section 1506 of this title to have a serious employment handicap.
+<b>1984</b>—Par. (1). Pub. L. 98–223 expanded term "special disabled veteran" to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under section 1506 of this title to have a serious employment handicap.
 
 <b>1982</b>—Pars. (1), (3). Pub. L. 97–306, §309(1), inserted "(or who but for the receipt of military retired pay would be entitled to compensation)" after "compensation".
 

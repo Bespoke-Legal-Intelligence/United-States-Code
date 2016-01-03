@@ -10,7 +10,7 @@ Contents.—The report shall include—
 
 &emsp;(1) a description of the criteria used by the Commission to designate counties under section 15702 and a list of the counties designated in each category;
 
-&emsp;(2) an evaluation of the progress of the Commission in meeting the goals identified in theCommission's economic and infrastructure development plan under section 15303 and State economic and infrastructure development plans under section 15502; and
+&emsp;(2) an evaluation of the progress of the Commission in meeting the goals identified in the Commission's economic and infrastructure development plan under section 15303 and State economic and infrastructure development plans under section 15502; and
 
 &emsp;(3) any policy recommendations approved by the Commission.
 

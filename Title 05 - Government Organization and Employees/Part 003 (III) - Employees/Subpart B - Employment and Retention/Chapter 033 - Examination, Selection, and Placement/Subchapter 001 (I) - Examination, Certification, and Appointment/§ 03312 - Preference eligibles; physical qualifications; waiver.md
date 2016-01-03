@@ -2,7 +2,7 @@
 
 (a) In determining qualifications of a preference eligible for examination for, appointment in, or reinstatement in the competitive service, the Office of Personnel Management or other examining agency shall waive—
 
-&emsp;(1) requirements as to age, height, and weight, unless the requirement is essential tothe performance of the duties of the position; and
+&emsp;(1) requirements as to age, height, and weight, unless the requirement is essential to the performance of the duties of the position; and
 
 &emsp;(2) physical requirements if, in the opinion of the Office or other examining agency, after considering the recommendation of an accredited physician, the preference eligible is physically able to perform efficiently the duties of the position.
 

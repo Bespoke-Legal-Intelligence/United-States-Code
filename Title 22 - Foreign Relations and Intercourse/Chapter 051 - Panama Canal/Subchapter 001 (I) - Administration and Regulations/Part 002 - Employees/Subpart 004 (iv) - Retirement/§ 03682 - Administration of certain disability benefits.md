@@ -20,7 +20,7 @@ The Commission may pay cash relief to the widow of any former employee of the Ca
 
 &emsp;(1) a woman legally married to such employee at the time of his termination for disability and at his death;
 
-&emsp;(2) a woman who, although not legally married to such former employee at the time of his termination, had resided continuously with him for at least five years immediately preceding the employee's termination under such circumstances as would at common law make the relationship a valid marriage and who continued to reside with him until his death; and
+&emsp;(2) a woman who, although not legally married to such former employee at the time ofhis termination, had resided continuously with him for at least five years immediately preceding the employee's termination under such circumstances as would at common law make the relationship a valid marriage and who continued to reside with him until his death; and
 
 &emsp;(3) a woman who has not remarried or assumed a common-law relationship with any other person.
 
@@ -34,7 +34,7 @@ Subchapter III of chapter 83 of title 5 applies with respect to those individual
 
 #### References in Text
 
-The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, as amended, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior torepeal by Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701.
+The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, as amended, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701.
 
 The Canal Zone Code, referred to in subsec. (a)(2), was enacted by Pub. L. 87–845, §1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, §3549, Sept. 23, 1996, 110 Stat. 2870.
 

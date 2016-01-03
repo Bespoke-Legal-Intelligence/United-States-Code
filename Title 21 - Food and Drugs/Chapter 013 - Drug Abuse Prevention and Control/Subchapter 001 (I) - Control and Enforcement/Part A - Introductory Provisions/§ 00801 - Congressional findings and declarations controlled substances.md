@@ -50,7 +50,7 @@ Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
+Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 ofthis title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
 
 Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
 
@@ -82,7 +82,7 @@ Pub. L. 108–21, title VI, §608(a), Apr. 30, 2003, 117 Stat. 691, provided tha
 
 Pub. L. 106–310, div. B, title XXXV, §3501, Oct. 17, 2000, 114 Stat. 1222, provided that: "This title \[amending sections 823 and 824 of this title\] may be cited as the 'Drug Addiction Treatment Act of 2000'."
 
-Pub. L. 106–310, div. B, title XXXVI, §3601, Oct. 17, 2000, 114 Stat. 1227, provided that: "This title \[enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and CriminalProcedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285o–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the 'Methamphetamine Anti-Proliferation Act of 2000'."
+Pub. L. 106–310, div. B, title XXXVI, §3601, Oct. 17, 2000, 114 Stat. 1227, provided that: "This title \[enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285o–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42\] may be cited as the 'Methamphetamine Anti-Proliferation Act of 2000'."
 
 Pub. L. 106–172, §1, Feb. 18, 2000, 114 Stat. 7, provided that: "This Act \[amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and section 812 of this title\] may be cited as the 'Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000'."
 
@@ -160,7 +160,7 @@ Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enact
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
-For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the "Controlled Substances Import and Export Act", see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
+For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of thischapter, as the "Controlled Substances Import and Export Act", see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
 
 #### Severability
 
@@ -246,7 +246,7 @@ Advisory committee.—Not later than 180 days after the date of the enactment of
 
 &emsp;"(2)
 
-Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
+Implementation of plan.—Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developedunder such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
 
 "(c)
 
@@ -414,7 +414,7 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 
 "(b)
 
-Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United Statesand Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
+Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -602,7 +602,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 "(e)
 
-\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
+\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations forlegislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
 
 "(f)
 

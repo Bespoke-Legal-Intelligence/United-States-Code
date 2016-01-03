@@ -56,7 +56,7 @@ Pub. L. 103–160, div. A, title V, §573(b), Nov. 30, 1993, 107 Stat. 1674, pro
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–94, title X, §1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983."
+Pub. L. 98–94, title X, §1003(b)(2), Sept. 24, 1983, 97 Stat. 657, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to agreements entered into after September 30, 1983."
 
 #### Savings Provision
 

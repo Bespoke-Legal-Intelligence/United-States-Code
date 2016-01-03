@@ -14,7 +14,7 @@ Sections 3789d(c), 3789f(a), 3789f(b), 3789f(c), 3789g(a), 3789g(b), and 3789g(d
 
 #### (c) Certain other crime control provisions applicable
 
-Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
+Sections 3782(a), 3782(c), and 3787 of this title shall apply with respect to the administration ofand compliance with this chapter, except that for purposes of this chapter—
 
 &emsp;(1) any reference to the Attorney General, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, or the Director of the Bureau of Justice Assistance shall be deemed to be a reference to the Administrator;
 
@@ -42,7 +42,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 Subsec. (e). Pub. L. 107–273, §12214(2), added subsec. (e).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certainreferences as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
 Subsec. (b). Pub. L. 98–473, in amending subsec. (b) generally, substituted provisions relating to the applicability of other provisions to this chapter as well as defining certain references therein for former provisions which directed the Office of Justice Assistance, Research and Statistics to provide staff support and coordinate the activities of the Office of Juvenile Justice and Delinquency Prevention.
 

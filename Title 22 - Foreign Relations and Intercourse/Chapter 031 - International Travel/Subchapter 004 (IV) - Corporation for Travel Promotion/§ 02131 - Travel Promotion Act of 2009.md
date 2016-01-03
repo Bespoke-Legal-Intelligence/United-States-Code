@@ -8,7 +8,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (1) Establishment
 
-&emsp;The Corporation for Travel Promotion is established as a nonprofit corporation. The Corporation shall not be an agency or establishment of the United States Government. The Corporation shall be subject to the provisions of the District of Columbia Nonprofit Corporation Act (D.C. Code, section 29–1001 et seq.), to the extent that such provisions are consistent with this subsection, and shall have the powers conferred upon a nonprofit corporation by that Act to carry out its purposes and activities.
+&emsp;The Corporation for Travel Promotion is established as a nonprofit corporation. The Corporation shall not be an agency or establishment of the United States Government. The Corporation shall be subject to the provisionsof the District of Columbia Nonprofit Corporation Act (D.C. Code, section 29–1001 et seq.), to the extent that such provisions are consistent with this subsection, and shall have the powers conferred upon a nonprofit corporation by that Act to carry out its purposes and activities.
 
 #### (2) Board of directors
 
@@ -56,7 +56,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (E) Vacancies
 
-&emsp;&emsp;Any vacancy in the board shall not affect its power, but shall be filled in the manner required by this subsection. Any member whose term has expired may serve until the member's successor has taken office, or until the end of the calendar year in which the member's term has expired, whichever is earlier. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of the predecessor's term. Nomember of the board shall be eligible to serve more than 2 consecutive full 3-year terms.
+&emsp;&emsp;Any vacancy in the board shall not affect its power, but shall be filled in the manner required by this subsection. Any member whose term has expired may serve until the member's successor has taken office, or until the end of the calendar year in which the member's term has expired, whichever is earlier. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which that member's predecessor was appointed shall be appointed for the remainder of the predecessor's term. No member of the board shall be eligible to serve more than 2 consecutive full 3-year terms.
 
 #### (F) Election of Chairman and Vice Chairman
 
@@ -74,7 +74,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall have an executive director and such other officers as may be named and appointed by the board for terms and at rates of compensation fixed by the board. No individual other than a citizen of the United States may be an officer of the Corporation. The Corporation may hire and fix the compensation of such employees as may be necessary to carry out its purposes. No officer or employee of the Corporation may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of his or her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers and employees shall serve at the pleasure of the board.
+&emsp;&emsp;The Corporation shall have an executive director and such other officers as may be named and appointed by the board for terms and at rates of compensation fixed by the board. No individual other than a citizen of the United States may be an officer of the Corporation. The Corporation may hire and fix the compensation of such employees as may be necessary to carry out its purposes. No officer or employee of the Corporation may receive any salary or other compensation (except for compensation for services on boards of directors of other organizations that do not receive funds from the Corporation, on committees of such boards, and in similar activities for such organizations) from any sources other than the Corporation for services rendered during the period of hisor her employment by the Corporation. Service by any officer on boards of directors of other organizations, on committees of such boards, and in similar activities for such organizations shall be subject to annual advance approval by the board and subject to the provisions of the Corporation's Statement of Ethical Conduct. All officers and employees shall serve at the pleasure of the board.
 
 #### (B) Nonpolitical nature of appointment
 
@@ -190,9 +190,9 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;(H)(i) a description of, and rationales for, the Corporation's combination of media channels employed in meeting the promotional objectives of its marketing campaign;
 
-&emsp;&emsp;&emsp;(ii) the ratio in which such channels are used; and
+&emsp;&emsp;(ii) the ratio in which such channels are used; and
 
-&emsp;&emsp;&emsp;(iii) a justification for the use and ratio of such channels; and
+&emsp;&emsp;(iii) a justification for the use and ratio of such channels; and
 
 &emsp;&emsp;(I) such recommendations as the Corporation deems appropriate.
 

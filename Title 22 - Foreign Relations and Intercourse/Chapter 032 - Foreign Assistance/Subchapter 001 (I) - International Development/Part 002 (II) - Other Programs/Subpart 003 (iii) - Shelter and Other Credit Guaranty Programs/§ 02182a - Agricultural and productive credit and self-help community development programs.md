@@ -48,7 +48,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Codification
 
-Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this sectiondid not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
+Amendment by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, directing repeal of subsec. (d) of this section did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
 
 Amendment by Pub. L. 98–473 is based on section 312 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 

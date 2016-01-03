@@ -130,7 +130,7 @@ Simultaneously with publication of the initial list of class I substances, the A
 
 #### (c) Additions to the lists
 
-(1) The Administrator may add, by rule, in accordance with the criteria set forth in subsection (a) or (b) of this section, as the case may be, any substance to the list of class I or class II substances under subsection (a) or (b) of this section. For purposes of exchanges under section 7661f <sup>1</sup> of this title, whenever a substance is added to the list of class I substances the Administrator shall, to the extent consistent with the Montreal Protocol, assign such substance to existing Group I, II, III, IV, or V or place such substance in a new Group.
+(1) The Administrator may add, by rule, in accordance with the criteria set forth in subsection (a) or (b) of this section, as the case may be, any substance to the list of class I or class II substances under subsection (a) or (b) of this section. For purposes of exchanges under section 7661f <sup>1</sup> of this title, whenever a substance isadded to the list of class I substances the Administrator shall, to the extent consistent with the Montreal Protocol, assign such substance to existing Group I, II, III, IV, or V or place such substance in a new Group.
 
 (2) Periodically, but not less frequently than every 3 years after November 15, 1990, the Administrator shall list, by rule, as additional class I or class II substances those substances which the Administrator finds meet the criteria of subsection (a) or (b) of this section, as the case may be.
 

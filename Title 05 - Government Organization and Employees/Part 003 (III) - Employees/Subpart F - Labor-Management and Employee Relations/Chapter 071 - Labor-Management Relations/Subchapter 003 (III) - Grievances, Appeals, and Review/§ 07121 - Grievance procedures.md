@@ -1,6 +1,6 @@
 ### §7121. Grievance procedures
 
-(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures for resolving grievances which fall within its coverage.
+(a)(1) Except as provided in paragraph (2) of this subsection, any collective bargaining agreement shall provide procedures for the settlement of grievances, including questions of arbitrability. Except as provided in subsections (d), (e), and (g) of this section, the procedures shall be the exclusive administrative procedures forresolving grievances which fall within its coverage.
 
 (2) Any collective bargaining agreement may exclude any matter from the application of the grievance procedures which are provided for in the agreement.
 
@@ -48,7 +48,7 @@
 
 (g)(1) This subsection applies with respect to a prohibited personnel practice other than a prohibited personnel practice to which subsection (d) applies.
 
-(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of the remedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
+(2) An aggrieved employee affected by a prohibited personnel practice described in paragraph (1) may elect not more than one of theremedies described in paragraph (3) with respect thereto. For purposes of the preceding sentence, a determination as to whether a particular remedy has been elected shall be made as set forth under paragraph (4).
 
 (3) The remedies described in this paragraph are as follows:
 

@@ -1,6 +1,6 @@
 ### §1625. Authorization for verification of eligibility for State and local public benefits
 
-A State or political subdivision of a State is authorized to require an applicant for State and local public benefits (as defined in section 1621(c) of this title) to provide proof of eligibility.
+A State or political subdivision of a State is authorized to require an applicant for State andlocal public benefits (as defined in section 1621(c) of this title) to provide proof of eligibility.
 
 (Pub. L. 104–193, title IV, §413, as added Pub. L. 105–33, title V, §5307(a), Aug. 5, 1997, 111 Stat. 602.)
 

@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary shall establish a grant program to expand the capacity of family violence, domestic violence, and dating violenceservice programs and community-based programs to prevent future domestic violence by addressing, in an appropriate manner, the needs of children exposed to family violence, domestic violence, or dating violence.
+&emsp;The Secretary shall establish a grant program to expand the capacity of family violence, domestic violence, and dating violence service programs and community-based programs to prevent future domestic violence by addressing, in an appropriate manner, the needs of children exposed to family violence, domestic violence, or dating violence.
 
 #### (2) Grants
 
@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be a local
 
 #### (c) Application
 
-An entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
+An entity seeking a grant under this section shall submit an application to the Secretary atsuch time, in such manner, and containing such information as the Secretary may reasonably require, including—
 
 &emsp;(1) a description of how the entity will prioritize the safety of, and confidentiality of information about—
 

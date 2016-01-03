@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) Client
 
-&emsp;The term "client" means any person or entity that employs or retains another personfor financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
+&emsp;The term "client" means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.
 
 #### (3) Covered executive branch official
 
@@ -98,7 +98,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(viii) information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;
 
-&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelledby statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
+&emsp;&emsp;&emsp;(ix) required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;
 
 &emsp;&emsp;&emsp;(x) made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;
 
@@ -206,7 +206,7 @@ Levels I, II, III, IV, and V of the Executive Schedule, referred to in par. (3)(
 
 Section 109(13) of the Ethics in Government Act of 1978, referred to in par. (4)(D), is section 109(13) of Pub. L. 95–521, which is set out in the Appendix to Title 5.
 
-The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in par. (8)(B)(iv), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations andIntercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Federal Advisory Committee Act, referred to in par. (8)(B)(vi), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

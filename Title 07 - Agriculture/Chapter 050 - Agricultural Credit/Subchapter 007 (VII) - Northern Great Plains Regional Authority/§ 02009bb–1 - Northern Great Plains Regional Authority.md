@@ -84,7 +84,7 @@
 
 #### (1) In general
 
-&emsp;A decision by the Authority shall require a majority vote of the Authority (not includingany member representing a State that is delinquent under subsection (g)(2)(D)) to be effective.
+&emsp;A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(D)) to be effective.
 
 #### (2) Quorum
 

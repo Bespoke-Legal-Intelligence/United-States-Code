@@ -36,13 +36,13 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (B) Time of submission
 
-&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period,the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
+&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower not less than once for each 12-month period, the first such period beginning on the first January 1st that occurs after November 28, 1990, and shall be submitted not more than 30 days after the conclusion of each such 1-year period.
 
 #### (d) Penalties
 
 #### (1) In general
 
-&emsp;In the case of each failure to submit a statement to a borrower as required under subsection (c) of this section, the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) <sup>1</sup> of this section may not exceed $100,000.
+&emsp;In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on suchlender or escrow servicer for all such failures during any 12-month period referred to in subsection (b) <sup>1</sup> may not exceed $100,000.
 
 #### (2) Intentional violations
 

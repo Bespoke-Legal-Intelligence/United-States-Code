@@ -170,7 +170,7 @@ Report.—Within the 180-day period beginning on the date on which the Secretary
 
 "(c)
 
-Definition.—As used in this section, the term 'medical facility laboratories' means facilities for the biological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings."
+Definition.—As used in this section, the term 'medical facility laboratories' means facilities for thebiological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

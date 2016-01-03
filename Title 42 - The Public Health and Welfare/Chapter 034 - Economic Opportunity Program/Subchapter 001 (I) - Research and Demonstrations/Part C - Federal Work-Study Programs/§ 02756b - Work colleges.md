@@ -32,7 +32,7 @@ The purpose of this section is to recognize, encourage, and promote the use of c
 
 #### (c) Application
 
-Each eligible institution may submit an application for funds authorized by subsection (f) of this section to use funds under subsection (b)(1) of this section at such time and in such manner as the Secretary, by regulation, may reasonably require.
+Each eligible institution may submit an application for funds authorized by subsection (f) ofthis section to use funds under subsection (b)(1) of this section at such time and in such manner as the Secretary, by regulation, may reasonably require.
 
 #### (d) Match required
 

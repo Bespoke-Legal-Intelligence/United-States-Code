@@ -76,7 +76,7 @@ In determining whether to approve project proposals under this section, the Secr
 
 #### (1) In general
 
-&emsp;Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary may require) that include allinformation that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+&emsp;Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary may require) that include all information that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
 
 #### (2) Availability to the public
 

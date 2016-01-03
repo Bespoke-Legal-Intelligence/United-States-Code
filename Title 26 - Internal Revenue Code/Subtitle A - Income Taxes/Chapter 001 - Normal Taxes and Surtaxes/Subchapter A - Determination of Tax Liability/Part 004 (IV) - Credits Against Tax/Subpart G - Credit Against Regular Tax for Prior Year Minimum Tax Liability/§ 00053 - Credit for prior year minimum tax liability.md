@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;The term "tentative minimum tax" has the meaning given to such term by section 55(b).
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a),\(b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038.)
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### Prior Provisions
 
@@ -70,7 +70,7 @@ A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 
 
 <b>2014</b>—Subsecs. (e), (f). Pub. L. 113–295 struck out subsecs. (e) and (f) which related to special rule for individuals with long-term unused credits and treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options, respectively.
 
-<b>2009</b>—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)."
+<b>2009</b>—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struckout former cl. (iii). Prior to amendment, text read as follows: "The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)."
 
 Subsec. (d)(1)(B)(iii)(II). Pub. L. 111–5, §1142(b)(4)(B), struck out "increased in the manner provided in clause (iii)" before period.
 
@@ -162,7 +162,7 @@ Pub. L. 108–357, title IV, §421(b), Oct. 22, 2004, 118 Stat. 1514, provided t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable yearsending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Pub. L. 104–188, title I, §1704(j)(1), Aug. 20, 1996, 110 Stat. 1881, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
 

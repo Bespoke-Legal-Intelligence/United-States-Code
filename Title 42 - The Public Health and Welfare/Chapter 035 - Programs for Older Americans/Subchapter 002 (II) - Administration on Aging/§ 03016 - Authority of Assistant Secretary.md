@@ -76,7 +76,7 @@ Subsec. (a)(2)(C)(i). Pub. L. 109–365, §204(1)(B)(ii), amended cl. (i) genera
 
 Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which read as follows:
 
-"(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
+"(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not laterthan 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
 
 "(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available."
 
@@ -98,7 +98,7 @@ Subsecs. (c), (d). Pub. L. 98–459, §205(b), added subsec. (c) and redesignate
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29,1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

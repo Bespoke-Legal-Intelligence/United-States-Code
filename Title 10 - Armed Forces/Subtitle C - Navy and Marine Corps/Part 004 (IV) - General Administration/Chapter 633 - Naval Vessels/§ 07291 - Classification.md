@@ -192,7 +192,7 @@ Establishment of Location as a Major Criterion.—In the evaluation of bids and 
 
 "(c)
 
-Applicability.—Subsection (a) shall apply to any solicitation for bids or proposals issued after theend of the 120-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
+Applicability.—Subsection (a) shall apply to any solicitation for bids or proposals issued after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Revitalization of United States Shipbuilding Industry
 
@@ -410,7 +410,7 @@ Definition.—For the purposes of this section, the term 'sensitive warship tech
 
 Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that: "It is the sense of the Congress that—
 
-&emsp;"(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing to serve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
+&emsp;"(1) A larger and stronger American Navy is needed as an essential ingredient of our Armed Forces, in order to fulfill its basic missions of (A) protecting the sea lanes to preserve the safety of the free world's commerce, (B) assuring continued access to raw materials essential to the well-being of the free world, (C) enhancing our capacity to project effective American forces into regions of the world where the vital interests of the United States must be protected, (D) engaging the Navy of the Soviet Union or any other potential adversary successfully, (E) continuing toserve as a viable leg of our strategic triad, and (F) providing visible evidence of American diplomatic, economic and military commitments throughout the world.
 
 &emsp;"(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 

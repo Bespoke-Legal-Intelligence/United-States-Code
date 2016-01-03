@@ -58,7 +58,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept.27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 Section 3504 of Public Law 106–65, referred to in subsec. (e)(1), is section 3504 of Pub. L. 106–65, div. C, title XXXV, Oct. 5, 1999, 113 Stat. 975, which amended section 3714a of this title and enacted provisions set out as a note under section 3714a of this title.
 

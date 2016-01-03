@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 104–106 added subsec. (g) which prohibited certain transf
 
 Subsec. (a)(3). Pub. L. 103–160, §1421, inserted "or fiscal year 1992" after "fiscal year 1991".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking "and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deterIraqi aggression in the Arabian Gulf,", could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
+<b>1992</b>—Subsec. (a). Pub. L. 102–484, §1313(4), which directed the amendment of subsec. (a) by striking "and those countries which received Foreign Military Financing (FMF) assistance in fiscal year 1990 and which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf,", could not be executed because that language did not appear subsequent to amendment by Pub. L. 102–391. See below.
 
 Pub. L. 102–484, §1313(3), inserted "and (3) to those countries which, as of October 1, 1990, contributed armed forces to deter Iraqi aggression in the Arabian Gulf, and which either received Foreign Military Financing (FMF) assistance in fiscal year 1990 or are in the Near East Region and received Foreign Military Financing (FMF) assistance in fiscal year 1991," after "southeastern flank of NATO which are eligible for United States security assistance,".
 

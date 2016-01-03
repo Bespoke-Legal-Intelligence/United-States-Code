@@ -6,7 +6,7 @@ In this chapter—
 
 &emsp;&emsp;(A) through the moment when one external door is opened to allow passengers to leave the aircraft; or
 
-&emsp;&emsp;(B) until, if a forced landing, competent authorities take over responsibility for the aircraft and individuals and property on the aircraft.
+&emsp;&emsp;(B) until, if a forced landing, competent authorities take over responsibility for theaircraft and individuals and property on the aircraft.
 
 &emsp;(2) "special aircraft jurisdiction of the United States" includes any of the following aircraft in flight:
 

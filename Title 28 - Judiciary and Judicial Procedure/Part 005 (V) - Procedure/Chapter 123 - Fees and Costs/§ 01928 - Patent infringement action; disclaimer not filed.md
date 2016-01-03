@@ -2,7 +2,7 @@
 
 Whenever a judgment is rendered for the plaintiff in any patent infringement action involving a part of a patent and it appears that the patentee, in his specifications, claimed to be, but was not, the original and first inventor or discoverer of any material or substantial part of the thing patented, no costs shall be included in such judgment, unless the proper disclaimer has been filed in the United States Patent and Trademark Office prior to the commencement of the action.
 
-(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(17)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
+(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(17)\], Nov. 29, 1999, 113 Stat. 1536, 1501A-585.)
 
 #### Historical and Revision Notes
 

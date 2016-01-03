@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part C of subchapter IV of this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part C of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year forwhich a student is seeking a loan under part C of subchapter IV of this chapter; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution—
 
@@ -136,7 +136,7 @@
 
 #### (6) Loss of eligibility
 
-&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
+&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
 
 #### (b) Proprietary institution of higher education
 

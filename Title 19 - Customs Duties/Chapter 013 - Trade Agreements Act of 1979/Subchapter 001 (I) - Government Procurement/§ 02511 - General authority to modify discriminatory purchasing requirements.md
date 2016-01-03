@@ -2,7 +2,7 @@
 
 #### (a) Presidential waiver of discriminatory purchasing requirements
 
-Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b) of this section, and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
+Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b), and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
 
 &emsp;(1) to United States products and suppliers of such products; or
 
@@ -10,7 +10,7 @@ Subject to subsection (f) of this section, the President may waive, in whole or 
 
 #### (b) Designation of eligible countries and instrumentalities
 
-The President may designate a foreign country or instrumentality for purposes of subsection (a) of this section only if he determines that such country or instrumentality—
+The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
 
 &emsp;(1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
@@ -22,7 +22,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 #### (c) Modification or withdrawal of waivers and designations
 
-The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
+The President may modify or withdraw any waiver granted pursuant to subsection (a) or designation made pursuant to subsection (b).
 
 #### (d) Omitted
 
@@ -234,7 +234,7 @@ Sec. 3. This order shall apply only to solicitations, issued by agencies listed 
 
 Sec. 4. This order shall apply to solicitations outstanding on the date of this order, except for those for which the initial deadline for receipt of bids or proposals has passed, and to all solicitations issued after the date of this order.
 
-Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C.1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
+Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
 
 Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 

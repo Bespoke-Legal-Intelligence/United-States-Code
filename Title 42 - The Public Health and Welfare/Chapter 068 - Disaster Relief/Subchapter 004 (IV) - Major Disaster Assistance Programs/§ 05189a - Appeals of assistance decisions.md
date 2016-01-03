@@ -76,7 +76,7 @@ Considerations.—The procedures established under this section shall—
 
 &emsp;&emsp;"(E) require an independent review panel to expeditiously issue a written decision for any alternative dispute resolution under this section; and
 
-&emsp;&emsp;"(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panel shall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received.
+&emsp;&emsp;"(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panelshall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received.
 
 "(c)
 

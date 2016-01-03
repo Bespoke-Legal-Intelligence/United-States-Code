@@ -44,9 +44,9 @@ In this section:
 
 &emsp;&emsp;(B)(i) is not younger than 18 years of age nor older than 20 years of age;
 
-&emsp;&emsp;&emsp;(ii) before the individual reached 18 years of age, was described in subparagraph (A); and
+&emsp;&emsp;(ii) before the individual reached 18 years of age, was described in subparagraph (A); and
 
-&emsp;&emsp;&emsp;(iii) was receiving shelter or services as a minor victim of sex trafficking.
+&emsp;&emsp;(iii) was receiving shelter or services as a minor victim of sex trafficking.
 
 #### (5) Qualified nongovernmental organization
 
@@ -158,7 +158,7 @@ In this section:
 
 #### (c) Mandatory exclusion
 
-An eligible entity that receives a grant under this section that is found to have utilized grantfunds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
+An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
 
 #### (d) Compliance requirement
 

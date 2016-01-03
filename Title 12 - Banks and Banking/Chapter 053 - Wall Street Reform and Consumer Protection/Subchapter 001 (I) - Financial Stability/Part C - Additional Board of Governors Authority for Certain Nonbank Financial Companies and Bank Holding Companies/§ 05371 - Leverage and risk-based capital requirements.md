@@ -52,7 +52,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Minimum leverage capital requirements
 
-&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve asa floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
 
 #### (2) Minimum risk-based capital requirements
 
@@ -74,7 +74,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (C) Debt or equity instruments of smaller institutions
 
-&emsp;&emsp;For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
+&emsp;&emsp;For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, or March 31, 2010, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
 
 #### (D) Depository institution holding companies not previously supervised by the Board of Governors
 
@@ -106,7 +106,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (C) Report to Congress
 
-&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the studyconducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
+&emsp;&emsp;Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
 
 #### (7) Capital requirements to address activities that pose risks to the financial system
 
@@ -144,7 +144,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(b)(2)), as appropriate.
 
-(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017.)
+(Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, §87001, Dec. 4, 2015, 129 Stat. 1798.)
 
 #### References in Text
 
@@ -155,6 +155,8 @@ Section 1 of an Act entitled "To enhance the ability of community financial inst
 The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4)(C). Pub. L. 114–94 inserted "or March 31, 2010," after "December 31, 2009,".
 
 <b>2014</b>—Subsec. (a)(4) to (7). Pub. L. 113–279, §2(1), added pars. (4) to (7).
 

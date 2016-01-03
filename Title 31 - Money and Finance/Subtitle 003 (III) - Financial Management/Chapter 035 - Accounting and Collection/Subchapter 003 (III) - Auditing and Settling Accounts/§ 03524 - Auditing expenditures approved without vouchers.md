@@ -58,7 +58,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 31:67(f)(1)(2d sentence).
 
-In subsection (a)(1), the words "Notwithstanding any provision of law" are omitted as unnecessary. The words "may audit" are added for clarity and for consistency in the revised section and chapter. The words"as may be necessary to enable him" and "in fact, actually" are omitted as surplus. The words "Records . . . shall be made available" are substituted for "shall have access to such books, documents, papers, records" for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words "Notwithstanding any provision of law" are omitted as unnecessary. The words "may audit" are added for clarity and for consistency in the revised section and chapter. The words "as may be necessary to enable him" and "in fact, actually" are omitted as surplus. The words "Records . . . shall be made available" are substituted for "shall have access to such books, documents, papers, records" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words "With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law" are omitted because of the restatement. The words "in question" are omitted as surplus.
 

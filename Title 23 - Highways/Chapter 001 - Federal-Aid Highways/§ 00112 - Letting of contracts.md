@@ -140,7 +140,7 @@ Reimbursement.—Design activities carried out under subclause (I) shall be elig
 
 &emsp;&emsp;&emsp;(v)
 
-Termination provision.—The Secretary shall require a contract to includean appropriate termination provision in the event that a no-build alternative is selected.
+Termination provision.—The Secretary shall require a contract to include an appropriate termination provision in the event that a no-build alternative is selected.
 
 (c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
@@ -402,7 +402,7 @@ Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secr
 
 #### Evaluation of State Procurement Practices
 
-Pub. L. 102–240, title VI, §6014, Dec. 18, 1991, 105 Stat. 2181, directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit toCongress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
+Pub. L. 102–240, title VI, §6014, Dec. 18, 1991, 105 Stat. 2181, directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

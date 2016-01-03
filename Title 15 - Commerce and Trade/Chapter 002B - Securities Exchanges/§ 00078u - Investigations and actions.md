@@ -16,7 +16,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Injunction proceedings; authority of court to prohibit persons from serving as officers and directors; money penalties in civil actions
 
-(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
+(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission maytransmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
 
 (2)
 
@@ -92,7 +92,7 @@ In general.—In any proceeding under paragraph (1) against any person participa
 
 &emsp;(B)
 
-Definition.—For purposes of this paragraph, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+Definition.—For purposes of this paragraph, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commissionmay, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
 #### (e) Mandamus
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of this chapter, the Commission shall not br
 
 #### (g) Consolidation of actions; consent of Commission
 
-Notwithstanding the provisions of section 1407(a) of title 28, or any other provision of law, no action for equitable relief instituted by the Commission pursuant to the securities lawsshall be consolidated or coordinated with other actions not brought by the Commission, even though such other actions may involve common questions of fact, unless such consolidation is consented to by the Commission.
+Notwithstanding the provisions of section 1407(a) of title 28, or any other provision of law, no action for equitable relief instituted by the Commission pursuant to the securities laws shall be consolidated or coordinated with other actions not brought by the Commission, even though such other actions may involve common questions of fact, unless such consolidation is consented to by the Commission.
 
 #### (h) Access to records
 
@@ -150,7 +150,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
-(6) The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) <sup>1</sup> of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.
+(6) Repealed. Pub. L. 114–113, div. O, title VII, §708, Dec. 18, 2015, 129 Stat. 3030.
 
 (7)(A) Following the expiration of the period of delay of notification ordered by the court pursuant to paragraph (4) of this subsection, the customer may, upon motion, reopen the proceeding in the district court which issued the order. If the presiding judge or magistrate judge finds that the movant is the customer to whom the records obtained by the Commission pertain, and that the Commission has obtained financial records or information contained therein in violation of this subsection, other than paragraph (1), it may order that the customer be granted civil penalties against the Commission in an amount equal to the sum of—
 
@@ -182,19 +182,21 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 The Commission shall provide the Commodity Futures Trading Commission with notice of the commencement of any proceeding and a copy of any order entered by the Commission against any broker or dealer registered pursuant to section 78o(b)(11) of this title, any exchange registered pursuant to section 78f(g) of this title, or any national securities association registered pursuant to section 78o–3(k) of this title.
 
-(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426; Pub. L. 107–204, §3(b)(2), title III, §§305(a)(1), (b), 308(d)(1), title VI, §603(a), July 30, 2002, 116 Stat. 749, 778, 779, 785, 794; Pub. L. 111–203, title IX, §§923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, 124 Stat. 1849, 1854, 1855, 1935.)
+(June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426; Pub. L. 107–204, §3(b)(2), title III, §§305(a)(1), (b), 308(d)(1), title VI, §603(a), July 30, 2002, 116 Stat. 749, 778, 779, 785, 794; Pub. L. 111–203, title IX, §§923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, 124 Stat. 1849, 1854, 1855, 1935; Pub. L. 114–113, div. O, title VII, §708, Dec. 18, 2015, 129 Stat. 3030.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. Section 1121(b) of the Act, which was classified to section 3421(b) of Title 12, was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was redesignated section 19(c) by Pub. L. 107–204, title I, §108(a)(1), July 30, 2002, 116 Stat. 768, and is classified to section 77s(c) of this title.
 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted ", a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm" for "or a person associated with such a firm".
 
@@ -260,7 +262,7 @@ Words "magistrate judge" substituted for "magistrate" wherever appearing in subs
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1995 Amendment
 
@@ -312,7 +314,7 @@ Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
 
 "(a)
 
-Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
+Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigationby a State securities commission of an alleged violation of State securities laws.
 
 "(b)
 

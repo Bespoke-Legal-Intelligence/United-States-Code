@@ -8,7 +8,7 @@ The Administrator may make grants to small business development centers under se
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), and notwithstanding the requirements of section 648(a)(4)(C)(iii) of this title, the amount appropriated to carryout this section shall be allocated under the formula under section 648(a)(4)(C)(i) of this title.
+&emsp;Subject to paragraph (2), and notwithstanding the requirements of section 648(a)(4)(C)(iii) of this title, the amount appropriated to carry out this section shall be allocated under the formula under section 648(a)(4)(C)(i) of this title.
 
 #### (2) Minimum funding
 

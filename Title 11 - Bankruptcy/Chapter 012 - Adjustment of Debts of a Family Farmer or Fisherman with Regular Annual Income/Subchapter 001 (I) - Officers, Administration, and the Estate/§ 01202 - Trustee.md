@@ -56,7 +56,7 @@
 
 #### References in Text
 
-Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Codification
 
@@ -112,7 +112,7 @@ Effective date and applicability of amendment by section 227 of Pub. L. 99–554
 
 #### References in Subsection (a) Temporarily Deemed To Be References to Other Provisions
 
-Until the amendments made by subtitle A (§§201 to 231) of title II of Pub. L. 99–554 become effective in adistrict and apply to a case, in subsec. (a) of this section—
+Until the amendments made by subtitle A (§§201 to 231) of title II of Pub. L. 99–554 become effective in a district and apply to a case, in subsec. (a) of this section—
 
 &emsp;(1) the first two references to the United States trustee are deemed to be references to the court, and
 

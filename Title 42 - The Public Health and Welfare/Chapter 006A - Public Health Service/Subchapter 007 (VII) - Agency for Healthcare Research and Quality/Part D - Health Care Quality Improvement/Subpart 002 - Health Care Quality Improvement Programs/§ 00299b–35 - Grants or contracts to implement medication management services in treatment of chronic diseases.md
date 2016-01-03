@@ -30,7 +30,7 @@ The MTM services provided with the assistance of a grant or contract awarded und
 
 &emsp;(4) monitoring, which may include access to, ordering, or performing laboratory assessments, and evaluating the response of the patient to therapy, including safety and effectiveness;
 
-&emsp;(5) performing an initial comprehensive medication review to identify, resolve, and prevent medication-related problems, including adverse drug events, quarterly targeted medication reviews for ongoing monitoring,and additional followup interventions on a schedule developed collaboratively with the prescriber;
+&emsp;(5) performing an initial comprehensive medication review to identify, resolve, and prevent medication-related problems, including adverse drug events, quarterly targeted medication reviews for ongoing monitoring, and additional followup interventions on a schedule developed collaboratively with the prescriber;
 
 &emsp;(6) documenting the care delivered and communicating essential information about such care, including a summary of the medication review, and the recommendations of the pharmacist to other appropriate health care providers of the patient in a timely fashion;
 

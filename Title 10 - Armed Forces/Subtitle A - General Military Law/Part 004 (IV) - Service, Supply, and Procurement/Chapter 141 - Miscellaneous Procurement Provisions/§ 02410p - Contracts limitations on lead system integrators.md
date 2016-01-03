@@ -14,7 +14,7 @@ Exception.—An entity described in subsection (a) may have a direct financial i
 
 &emsp;&emsp;(B) the Department took appropriate steps to prevent any organizational conflict of interest in the selection process; or
 
-&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor, through a process over which the entity exercised no control.
+&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor,through a process over which the entity exercised no control.
 
 (c)
 

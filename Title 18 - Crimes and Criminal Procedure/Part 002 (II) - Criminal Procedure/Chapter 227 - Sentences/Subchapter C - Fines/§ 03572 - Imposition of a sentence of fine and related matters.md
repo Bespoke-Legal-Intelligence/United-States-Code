@@ -46,7 +46,7 @@ Time, Method of Payment, and Related Items.—(1) A person sentenced to pay a fi
 
 (e)
 
-Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a fine,the court may not impose an alternative sentence to be carried out if the fine is not paid.
+Alternative Sentence Precluded.—At the time a defendant is sentenced to pay a fine, the court may not impose an alternative sentence to be carried out if the fine is not paid.
 
 (f)
 

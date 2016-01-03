@@ -40,7 +40,7 @@ Pub. L. 100–647, title I, §1014(c), Nov. 10, 1988, 102 Stat. 3559, provided t
 
 "(1) If a beneficiary of a trust to which section 664 of the 1986 Code applies elects (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph apply, such beneficiary shall be entitled to the benefits of section 1403(c)(2) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date; Transition Rule note above\] with respect to amounts included in gross income under section 664(b) of the 1986 Code in the same manner as if such amounts were included in gross income under section 652(a) of the 1986 Code.
 
-"(2) Any trust beneficiary may elect (at such time and in such manner as the Secretary of the Treasury orhis delegate may prescribe) to waive the benefits of section 1403(c)(2) of the Reform Act.
+"(2) Any trust beneficiary may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to waive the benefits of section 1403(c)(2) of the Reform Act.
 
 "(3)(A) For purposes of determining the gross income of any pass-thru entity, such pass-thru entity shall not be allowed the benefits of section 806(e)(2)(C) \[Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 1378 of this title\] (other than with respect to income from a common trust fund) or 1403(c)(2) of the Reform Act if such pass-thru entity is required to change its taxable year by reason of the amendments made by section 806 or 1403 of the Reform Act \[Pub. L. 99–514, which enacted this section and amended sections 267, 441, 706, and 1378 of this title\].
 

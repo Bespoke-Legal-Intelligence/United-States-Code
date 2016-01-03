@@ -38,7 +38,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;(B) hold a public meeting at which the public may present its views on the reauthorization, including specific suggestions for changes to the goals referred to in subsection (a);
 
-&emsp;&emsp;(C) provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this subpart; and
+&emsp;&emsp;(C) provide a period of 30 days after the public meeting to obtain written commentsfrom the public suggesting changes to this subpart; and
 
 &emsp;&emsp;(D) publish the comments on the Food and Drug Administration's Internet Web site.
 

@@ -54,7 +54,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (d) Annual report
 
-The President shall, not later than December 31 of each year, submit to the Committee onForeign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
+The President shall, not later than December 31 of each year, submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the activities of the Trade and Development Agency in the preceding fiscal year.
 
 #### (e) Audits
 

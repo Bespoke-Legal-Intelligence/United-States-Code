@@ -12,7 +12,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(B) All telephones manufactured in the United States (other than for export) more than one year after August 16, 1988, or imported for use in the United States more than one year after such date.
 
-&emsp;(C) All customer premises equipment used with advanced communications services that is designed to provide 2-way voice communication via a built-in speaker intended to be held to the ear in a manner functionally equivalent to a telephone, subject to the regulations prescribed by the Commission under subsection (e).
+&emsp;(C) All customer premises equipment used with advanced communications services that is designed to provide 2-way voice communication via a built-in speaker intended to be heldto the ear in a manner functionally equivalent to a telephone, subject to the regulations prescribed by the Commission under subsection (e).
 
 (2)(A) The regulations prescribed by the Commission under paragraph (1) shall exempt from the requirements established pursuant to subparagraphs (B) and (C) of paragraph (1) only—
 
@@ -38,7 +38,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(A) the term "essential telephones" means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids;
 
-&emsp;(B) the term "telephones used with public mobile services" means telephones and other customer premises equipment used in whole orin part with air-to-ground radiotelephone services, cellular radio telecommunications services, offshore radio, rural radio service, public land mobile telephone service, or other common carrier radio communication services covered by title 47 of the Code of Federal Regulations, or any functionally equivalent unlicensed wireless services;
+&emsp;(B) the term "telephones used with public mobile services" means telephones and other customer premises equipment used in whole or in part with air-to-ground radiotelephone services, cellular radio telecommunications services, offshore radio, rural radio service, public land mobile telephone service, or other common carrier radio communication services covered by title 47 of the Code of Federal Regulations, or any functionally equivalent unlicensed wireless services;
 
 &emsp;(C) the term "telephones used with private radio services" means telephones and other customer premises equipment used in whole or in part with private land mobile radio services and other communications services characterized by the Commission in its rules as private radio services; and
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 100–394, §3(b), substituted "The Commission shall comple
 
 Pub. L. 100–394, §2, Aug. 16, 1988, 102 Stat. 976, provided that: "The Congress finds that—
 
-&emsp;"(1) to the fullest extent made possible by technology and medical science, hearing-impaired persons should have equal access to the national telecommunications network;
+&emsp;"(1) to the fullest extent made possible by technology and medical science, hearing-impaired personsshould have equal access to the national telecommunications network;
 
 &emsp;"(2) present technology provides effective coupling of telephones to hearing aids used by some severely hearing-impaired persons for communicating by voice telephone;
 

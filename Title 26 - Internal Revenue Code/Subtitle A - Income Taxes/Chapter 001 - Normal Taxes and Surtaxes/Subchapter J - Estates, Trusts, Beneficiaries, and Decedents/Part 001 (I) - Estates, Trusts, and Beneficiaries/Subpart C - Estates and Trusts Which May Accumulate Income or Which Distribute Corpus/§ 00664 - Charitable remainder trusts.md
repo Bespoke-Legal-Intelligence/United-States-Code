@@ -12,7 +12,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;(2) Second, as a capital gain to the extent of the capital gain of the trust for the year and the undistributed capital gain of the trust for prior years;
 
-&emsp;(3) Third, as other income to the extent of such income of the trust for the year and such undistributed income of the trust for prior years; and
+&emsp;(3) Third, as other income to the extent of such income of the trust for the year and suchundistributed income of the trust for prior years; and
 
 &emsp;(4) Fourth, as a distribution of trust corpus.
 
@@ -48,7 +48,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;&emsp;(B) from which no amount other than the payments described in subparagraph (A) and other than qualified gratuitous transfers described in subparagraph (C) may be paid to or for the use of any person other than an organization described in section 170(c),
 
-&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in aqualified gratuitous transfer (as defined by subsection (g)), and
+&emsp;&emsp;(C) following the termination of the payments described in subparagraph (A), the remainder interest in the trust is to be transferred to, or for the use of, an organization described in section 170(c) or is to be retained by the trust for such a use or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)), and
 
 &emsp;&emsp;(D) the value (determined under section 7520) of such remainder interest is at least 10 percent of the initial net fair market value of all property placed in the trust.
 
@@ -78,13 +78,13 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 &emsp;&emsp;(A) any contribution is made to a trust which before the contribution is a charitable remainder unitrust, and
 
-&emsp;&emsp;(B) such contribution would (but for this paragraph) result in such trust ceasing to be a charitable unitrust by reason of paragraph (2)(D),
+&emsp;&emsp;(B) such contribution would (but for this paragraph) result in such trust ceasing to bea charitable unitrust by reason of paragraph (2)(D),
 
 > &emsp;such contribution shall be treated as a transfer to a separate trust under regulations prescribed by the Secretary.
 
-#### (e) Valuation for purposes of charitable contribution
+#### (e) Valuation of interests
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year. In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence.
 
 #### (f) Certain contingencies permitted
 
@@ -192,15 +192,17 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (B) Cost-of-living adjustment
 
-&emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) atthe same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
+&emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974.)
+(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114; Pub. L. 109–280, title VIII, §868(a), Aug. 17, 2006, 120 Stat. 1025; Pub. L. 109–432, div. A, title IV, §424(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 114–113, div. Q, title III, §344(a), Dec. 18, 2015, 129 Stat. 3115.)
 
 #### References in Text
 
 Section 415(e) of this title, referred to in subsec. (g)(3)(E), was repealed by Pub. L. 104–188, title I, §1452(a), Aug. 20, 1996, 110 Stat. 1816.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e). Pub. L. 114–113 substituted "of interests" for "for purposes of charitable contribution" in heading and inserted at end of text "In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence."
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–432 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle, unless such trust, for such year, has unrelated business taxable income (within the meaning of section 512, determined as if part III of subchapter F applied to such trust)."
 
@@ -245,6 +247,10 @@ Subsec. (g). Pub. L. 105–34, §1530(b), added subsec. (g).
 <b>1984</b>—Subsec. (f). Pub. L. 98–369 added subsec. (f).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §344(b), Dec. 18, 2015, 129 Stat. 3115, provided that: "The amendment made by this section \[amending this section\] shall apply to terminations of trusts occurring after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2006 Amendment
 

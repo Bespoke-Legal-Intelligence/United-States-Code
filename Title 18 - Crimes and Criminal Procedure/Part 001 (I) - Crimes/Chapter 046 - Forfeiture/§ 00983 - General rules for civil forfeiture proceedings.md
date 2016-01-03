@@ -36,7 +36,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Each of the Federal seizing agencies conducting nonjudicial forfeitures under this section shall report periodically to the Committees on the Judiciary of the House of Representatives and the Senate the number of occasions when an extension of time is granted under subparagraph (B).
 
-&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of timeis granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
+&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of time is granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
 
 &emsp;(2)(A) Any person claiming property seized in a nonjudicial civil forfeiture proceeding under a civil forfeiture statute may file a claim with the appropriate official after the seizure.
 
@@ -124,7 +124,7 @@ Innocent Owner Defense.—
 
 &emsp;&emsp;(II) in a timely fashion revoked or made a good faith attempt to revoke permission for those engaging in such conduct to use the property or took reasonable actions in consultation with a law enforcement agency to discourage or prevent the illegal use of the property.
 
-&emsp;(ii) A person is not required by this subparagraph to take steps that the person reasonably believes would be likely to subject any person (other than the person whose conduct gave rise to the forfeiture) to physical danger.
+&emsp;(ii) A person is not required by this subparagraph to take steps that the person reasonablybelieves would be likely to subject any person (other than the person whose conduct gave rise to the forfeiture) to physical danger.
 
 &emsp;(3)(A) With respect to a property interest acquired after the conduct giving rise to the forfeiture has taken place, the term "innocent owner" means a person who, at the time that person acquired the interest in the property—
 
@@ -200,7 +200,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(B) the claimant has sufficient ties to the community to provide assurance that the property will be available at the time of the trial;
 
-&emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing an individual from working, or leaving an individual homeless;
+&emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing anindividual from working, or leaving an individual homeless;
 
 &emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Government of the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
 
@@ -286,7 +286,7 @@ Civil Forfeiture Statute Defined.—In this section, the term "civil forfeiture 
 
 &emsp;&emsp;(C) the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.);
 
-&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or
+&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) <sup>1</sup> or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or
 
 &emsp;&emsp;(E) section 1 of title VI of the Act of June 15, 1917 (40 Stat. 233; 22 U.S.C. 401).
 
@@ -314,7 +314,7 @@ Restraining Orders; Protective Orders.—
 
 #### References in Text
 
-The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), were renamed the Supplemental Rulesfor Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (h)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -324,7 +324,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (i)(2)(B), is classifi
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified principally to chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
@@ -355,4 +355,6 @@ Section applicable to any forfeiture proceeding commenced on or after the date t
 #### Anti-Terrorist Forfeiture Protection
 
 Pub. L. 107–56, title III, §316(a)–(c), Oct. 26, 2001, 115 Stat. 309, which provided the procedure for an owner of property that had been confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists to contest such confiscation, was repealed and restated as section 987 of this title by Pub. L. 109–177, title IV, §406(b)(1)(B), (2), Mar. 9, 2006, 120 Stat. 244, 245.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

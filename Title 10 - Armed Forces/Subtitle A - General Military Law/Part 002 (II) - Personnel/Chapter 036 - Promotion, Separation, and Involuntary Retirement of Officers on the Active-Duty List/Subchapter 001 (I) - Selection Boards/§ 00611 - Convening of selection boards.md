@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted "Whenever the needs of the service require,the Secretary of the military department concerned" for "Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require," and inserted at end "The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion."
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §505(a)(3)(A), substituted "Whenever the needs of the service require, the Secretary of the military department concerned" for "Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require," and inserted at end "The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion."
 
 Subsec. (b). Pub. L. 107–107, §505(a)(3)(B), substituted "Whenever the needs of the service require, the Secretary of the military department concerned" for "Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned, whenever the needs of the service require,".
 
@@ -170,7 +170,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 "(b)(1) The Secretary of the Army or the Secretary of the Air Force, as appropriate, may convene selection boards under this section for the purpose of recommending from among officers described in subsection (a) officers to be selected to be subject to mandatory retirement for years of service in accordance with the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\] to officers in the permanent grade to which such officers were promoted pursuant to section 601(a) or to officers in a lower permanent grade higher than the permanent grade held by such officers on the day before the effective date of this Act.
 
-"(2) Upon the recommendation of a selection board convened under this section, the Secretary concerned may select officers described in subsection (a) to be subject to mandatory retirement in accordance with the provisions of section 3922, 3923, 8922, or 8923, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\], rather than in the manner described in subsection (a).
+"(2) Upon the recommendation of a selection board convened under this section, the Secretary concerned may select officers described in subsection (a) to be subject to mandatory retirement in accordance withthe provisions of section 3922, 3923, 8922, or 8923, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\], rather than in the manner described in subsection (a).
 
 "(3) Any selection board convened under this section shall be convened in accordance with the provisions of section 3297 or 8297, as appropriate, of title 10, United States Code, as in effect on the day before the effective date of this Act \[Sept. 15, 1981\].
 
@@ -422,7 +422,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "certain navy lieutenants holding temporary appointments in the grade of lieutenant commander
 
-"Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointment in the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
+"Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointmentin the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
 
 #### "director of budget and reports of the navy
 
@@ -488,7 +488,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 &emsp;"(2) all subsequent active commissioned service of such officer.
 
-"(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\], the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
+"(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\],the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
 
 #### "savings provision for constructive service previously granted
 
@@ -516,7 +516,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 #### "transition to officer grade-strength tables during fiscal year 1981
 
-"Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armedforce serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
+"Sec. 627. For the fiscal year ending on September 30, 1981, the maximum number of officers authorized to be serving on active duty as of the end of such fiscal year in each of the grades of major, lieutenant colonel, and colonel for the Army, Air Force, and Marine Corps, and in each of the grades of lieutenant commander, commander, and captain for the Navy, under section 523 of title 10, United States Code, as added by this Act, is increased by the number equal to one-half the difference between (1) the actual number of officers of that armed force serving on active duty in that grade on September 30, 1980 (excluding officers in categories specified in subsection (b) of such section), and (2) the number specified in the table contained in such section for such armed force and grade based upon the total number of commissioned officers of such armed force on active duty on September 30, 1981 (excluding officers in categories specified in subsection (b) of such section).
 
 #### "right of commissioned officers with permanent enlisted or warrant officer status to retire in highest enlisted or warrant officer grade held
 
@@ -534,7 +534,7 @@ Sec. 620. Notwithstanding section 6389 of title 10, United States Code, an offic
 
 #### "exemption of certain officers from selective early retirement provisions
 
-"Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled 'An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes', approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled 'An Act relating to the promotion and separation of certain officers of the regular components of the armed forces', approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, United States Code, as added by this Act, relating to selective early retirement.
+"Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled 'An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes', approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled 'An Act relating to the promotion and separation of certain officers of the regular components of the armed forces', approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, UnitedStates Code, as added by this Act, relating to selective early retirement.
 
 #### "savings provision for entitlement to readjustment pay or severance pay under prior provisions of law
 
@@ -588,7 +588,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 "Sec. 636. A reserve officer of the Army, Navy, Air Force, or Marine Corps who on September 14, 1981—
 
-&emsp;"(1) is serving on active duty (A) under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System, or (B) under section 708 of title 32; and
+&emsp;"(1) is serving on active duty (A) under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) \[now 50 U.S.C. 3809(b)(2)\] for the administration of the Selective Service System, or (B) under section 708 of title 32; and
 
 &emsp;"(2) is serving in a temporary grade or is selected for promotion to a temporary grade,
 

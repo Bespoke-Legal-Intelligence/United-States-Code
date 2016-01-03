@@ -32,7 +32,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, the amount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
 
-&emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
+&emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a),transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
 
 &emsp;&emsp;(B) if a transfer under subparagraph (A)(ii)(II) is made with respect to the metropolitan area for such first subsequent fiscal year, then—
 

@@ -16,7 +16,7 @@ The reference to the offense as a misdemeanor was omitted as unnecessary in view
 
 The words "upon conviction thereof" were omitted as unnecessary, since punishment cannot be imposed until a conviction is secured.
 
-Maximum fine was changed from $2,000 to $500 to bring the offense within the category of petty offensesdefined by section 1 of this title. (See reviser's note under section 1157 of this title.)
+Maximum fine was changed from $2,000 to $500 to bring the offense within the category of petty offenses defined by section 1 of this title. (See reviser's note under section 1157 of this title.)
 
 Minor changes were made in phraseology.
 

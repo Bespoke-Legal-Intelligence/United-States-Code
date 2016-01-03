@@ -214,7 +214,7 @@
 
 &emsp;&emsp;(A) the name and address of the issuer,
 
-&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interestrate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
+&emsp;&emsp;(B) the date of issue, the amount of net proceeds of the issue, the stated interest rate, term, and face amount of each bond which is part of the issue, the amount of issuance costs of the issue, and the amount of reserves of the issue,
 
 &emsp;&emsp;(C) where required, the name of the applicable elected representative who approved the issue, or a description of the voter referendum by which the issue was approved,
 
@@ -286,7 +286,7 @@
 
 &emsp;&emsp;&emsp;(i) is a State (or an integral part of a State) issuing pooled financing bonds to make or finance loans to subordinate governmental units of such State, or
 
-&emsp;&emsp;&emsp;(ii) is a State-created entity providing financing for water-infrastructure projects through the federally-sponsored State revolving fund program.
+&emsp;&emsp;&emsp;(ii) is a State-created entity providing financing for water-infrastructure projectsthrough the federally-sponsored State revolving fund program.
 
 #### (5) Redemption requirement
 
@@ -480,7 +480,7 @@ Pub. L. 111–147, title V, §502(f), Mar. 18, 2010, 124 Stat. 108, provided tha
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3023(c), July 30, 2008, 122 Stat. 2895, provided that: "The amendments madeby this section \[amending this section\] shall apply to guarantees made after the date of the enactment of this Act \[July 30, 2008\]."
+Pub. L. 110–289, div. C, title I, §3023(c), July 30, 2008, 122 Stat. 2895, provided that: "The amendments made by this section \[amending this section\] shall apply to guarantees made after the date of the enactment of this Act \[July 30, 2008\]."
 
 #### Effective Date of 2006 Amendment
 

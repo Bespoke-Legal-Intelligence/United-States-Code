@@ -40,7 +40,7 @@ Under regulations prescribed by the Secretary—
 
 #### (D) Coordination with paragraph (1)
 
-&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
+&emsp;&emsp;If, after property is placed in service, there is a disposition or other cessation describedin paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
 
 #### (E) Special rules
 
@@ -120,7 +120,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (B) Exception for short-term leases
 
-&emsp;&emsp;This paragraph and paragraph (3) shall not apply to any property by reason of use under a lease with a term of less than 6 months (determined under section 168(i)(3)).
+&emsp;&emsp;This paragraph and paragraph (3) shall not apply to any property by reason of use undera lease with a term of less than 6 months (determined under section 168(i)(3)).
 
 #### (C) Exception for qualified rehabilitated buildings leased to governments, etc.
 
@@ -174,7 +174,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (d) Certain rules made applicable
 
-For purposes of this subpart, rules similar to the rules of the following provisions (as in effecton the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 
@@ -220,7 +220,7 @@ Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22, 2004, see section 322(e) of Pub. L. 108–357, set out as a note under section 46 of this title.
+Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22,2004, see section 322(e) of Pub. L. 108–357, set out as a note under section 46 of this title.
 
 #### Effective Date of 1998 Amendment
 

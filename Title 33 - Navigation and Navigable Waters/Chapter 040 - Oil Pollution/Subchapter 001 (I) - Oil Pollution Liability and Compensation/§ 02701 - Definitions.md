@@ -18,7 +18,7 @@ For the purposes of this Act, the term—
 
 &emsp;(8) "exclusive economic zone" means the zone established by Presidential Proclamation Numbered 5030, dated March 10, 1983, including the ocean waters of the areas referred to as "eastern special areas" in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990;
 
-&emsp;(9) "facility" means any structure, group of structures, equipment, or device (other than a vessel) which is used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil. This term includes any motor vehicle, rolling stock, or pipeline used for one or more of these purposes;
+&emsp;(9) "facility" means any structure, group of structures, equipment, or device (other than a vessel) which is used for one or more of the following purposes: exploring for, drilling for,producing, storing, handling, transferring, processing, or transporting oil. This term includes any motor vehicle, rolling stock, or pipeline used for one or more of these purposes;
 
 &emsp;(10) "foreign offshore unit" means a facility which is located, in whole or in part, in the territorial sea or on the continental shelf of a foreign country and which is or was used for one or more of the following purposes: exploring for, drilling for, producing, storing, handling, transferring, processing, or transporting oil produced from the seabed beneath the foreign country's territorial sea or from the foreign country's continental shelf;
 
@@ -32,7 +32,7 @@ For the purposes of this Act, the term—
 
 &emsp;(15) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
-&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf,granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
+&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
 &emsp;(17) "liable" or "liability" shall be construed to be the standard of liability which obtains under section 1321 of this title;
 
@@ -76,7 +76,7 @@ For the purposes of this Act, the term—
 
 &emsp;&emsp;&emsp;&emsp;(V) other circumstances in which the government involuntarily acquires title by virtue of its function as sovereign;
 
-&emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and that holds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
+&emsp;&emsp;&emsp;(vi) notwithstanding subparagraph (B)(ii), a person that is a lender and thatholds indicia of ownership primarily to protect a security interest in a vessel or facility if, while the borrower is still in possession of the vessel or facility encumbered by the security interest, the person—
 
 &emsp;&emsp;&emsp;&emsp;(I) exercises decision making control over the environmental compliance related to the vessel or facility, such that the person has undertaken responsibility for oil handling or disposal practices related to the vessel or facility; or
 
@@ -144,7 +144,7 @@ Pipelines.—In the case of a pipeline, any person owning or operating the pipel
 
 &emsp;&emsp;(F)
 
-Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
+Abandonment.—In the case of an abandoned vessel, onshore facility, deepwaterport, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 
 &emsp;(33) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
@@ -214,7 +214,7 @@ The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pu
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to theCode, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
@@ -230,7 +230,7 @@ Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 
 #### Effective Date
 
-Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that: "This Act \[see Short Title of 1990Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\]."
+Pub. L. 101–380, title I, §1020, Aug. 18, 1990, 104 Stat. 506, provided that: "This Act \[see Short Title of 1990 Amendments note below for classification\] shall apply to an incident occurring after the date of the enactment of this Act \[Aug. 18, 1990\]."
 
 #### Short Title of 2006 Amendment
 

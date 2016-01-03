@@ -72,7 +72,37 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 &emsp;&emsp;In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor,rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(74), Dec. 19, 2014, 128 Stat. 4049.)
+#### (f) Basis must be consistent with estate tax return
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The basis of any property to which subsection (a) applies shall not exceed—
+
+&emsp;&emsp;(A) in the case of property the final value of which has been determined for purposes of the tax imposed by chapter 11 on the estate of such decedent, such value, and
+
+&emsp;&emsp;(B) in the case of property not described in subparagraph (A) and with respect to which a statement has been furnished under section 6035(a) identifying the value of such property, such value.
+
+#### (2) Exception
+
+&emsp;Paragraph (1) shall only apply to any property whose inclusion in the decedent's estate increased the liability for the tax imposed by chapter 11 (reduced by credits allowable against such tax) on such estate.
+
+#### (3) Determination
+
+&emsp;For purposes of paragraph (1), the basis of property has been determined for purposes of the tax imposed by chapter 11 if—
+
+&emsp;&emsp;(A) the value of such property is shown on a return under section 6018 and such value is not contested by the Secretary before the expiration of the time for assessing a tax under chapter 11,
+
+&emsp;&emsp;(B) in a case not described in subparagraph (A), the value is specified by the Secretary and such value is not timely contested by the executor of the estate, or
+
+&emsp;&emsp;(C) the value is determined by a court or pursuant to a settlement agreement with the Secretary.
+
+#### (4) Regulations
+
+&emsp;The Secretary may by regulations provide exceptions to the application of this subsection.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(74), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 114–41, title II, §2004(a), July 31, 2015, 129 Stat. 454.)
 
 #### References in Text
 
@@ -81,6 +111,8 @@ Section 811 of the Internal Revenue Code of 1939, referred to in subsec. (b)(6),
 The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–41 added subsec. (f).
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–295, §221(a)(74)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942, its value at the applicable valuation date prescribed by those sections,".
 
@@ -114,6 +146,10 @@ Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to t
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–41, title II, §2004(d), July 31, 2015, 129 Stat. 456, provided that: "The amendments made by this section \[enacting section 6035 of this title and amending this section and sections 6662 and 6724 of this title\] shall apply to property with respect to which an estatetax return is filed after the date of the enactment of this Act \[July 31, 2015\]."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -142,7 +178,7 @@ Pub. L. 97–34, title IV, §425(b), Aug. 13, 1981, 95 Stat. 318, provided that:
 
 Amendment by Pub. L. 96–223 (repealing section 2005(a)(1) of Pub. L. 94–455 and the amendment made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied and administered as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, towhich such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 

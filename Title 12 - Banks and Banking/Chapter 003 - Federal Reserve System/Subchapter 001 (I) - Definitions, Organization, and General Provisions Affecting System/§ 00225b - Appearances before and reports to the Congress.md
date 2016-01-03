@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the efforts, activities, objectives and plans of the Board and the Federal Open Market Committee with respect to the conduct of monetary policy; and
 
-&emsp;&emsp;(B) economic developments and prospects for the future described in the report required in subsection (b) of this section.
+&emsp;&emsp;(B) economic developments and prospects for the future described in the report required in subsection (b).
 
 #### (2) Schedule
 
@@ -36,7 +36,7 @@ The Board shall place on its home Internet website, a link entitled "Audit", whi
 
 &emsp;(4) such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
 
-(Dec. 23, 1913, ch. 6, §2B, as added Pub. L. 106–569, title X, §1003(b)(1), Dec. 27, 2000, 114 Stat. 3028; amended Pub. L. 111–203, title XI, §1103(a), July 21, 2010, 124 Stat. 2118.)
+(Dec. 23, 1913, ch. 6, §2B, as added Pub. L. 106–569, title X, §1003(b)(1), Dec. 27, 2000, 114 Stat. 3028;amended Pub. L. 111–203, title XI, §1103(a), July 21, 2010, 124 Stat. 2118.)
 
 #### Amendments
 

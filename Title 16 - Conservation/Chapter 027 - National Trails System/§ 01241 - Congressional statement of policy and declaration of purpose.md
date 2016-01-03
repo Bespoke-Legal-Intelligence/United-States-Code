@@ -46,7 +46,7 @@ Pub. L. 107–214, §1, Aug. 21, 2002, 116 Stat. 1053, provided that: "This Act 
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–509, §1, Nov. 13, 2000, 114 Stat. 2361, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'Ala Kahakai National Historic Trail Act'."
+Pub. L. 106–509, §1, Nov. 13, 2000, 114 Stat. 2361, provided that: "This Act \[amending section 1244 of thistitle\] may be cited as the 'Ala Kahakai National Historic Trail Act'."
 
 Pub. L. 106–307, §1, Oct. 13, 2000, 114 Stat. 1074, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'El Camino Real de Tierra Adentro National Historic Trail Act'."
 
@@ -120,7 +120,7 @@ Sec. 2. <i>The Federal Interagency Council on Trails</i>. The Federal Interagenc
 
 (a) Enhancing federally designated trails of all types (e.g., scenic, historic, recreation, and Millennium) and working to integrate these trails into a fully connected national system;
 
-(b) Coordinating mapping, signs and markers, historical and cultural interpretations, public information, training, and developing plans and recommendations for a national trails registry and database;
+(b) Coordinating mapping, signs and markers, historical and cultural interpretations, public information,training, and developing plans and recommendations for a national trails registry and database;
 
 (c) Ensuring that trail issues are integrated in Federal agency programs and that technology transfer and education programs are coordinated at the national level; and
 

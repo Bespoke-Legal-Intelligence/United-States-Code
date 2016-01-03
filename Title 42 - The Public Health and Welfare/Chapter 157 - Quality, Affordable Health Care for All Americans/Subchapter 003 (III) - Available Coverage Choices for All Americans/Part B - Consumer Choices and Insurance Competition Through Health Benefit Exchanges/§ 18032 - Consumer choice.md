@@ -64,7 +64,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (C) Individuals allowed to enroll in any plan
 
-&emsp;&emsp;A qualified individual may enroll in any qualified health plan, except that in the caseof a catastrophic plan described in section 18022(e) of this title, a qualified individual may enroll in the plan only if the individual is eligible to enroll in the plan under section 18022(e)(2) of this title.
+&emsp;&emsp;A qualified individual may enroll in any qualified health plan, except that in the case of a catastrophic plan described in section 18022(e) of this title, a qualified individual may enroll in the plan only if the individual is eligible to enroll in the plan under section 18022(e)(2) of this title.
 
 #### (D) Members of Congress in the Exchange
 
@@ -96,7 +96,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 The Secretary shall establish procedures under which a State may allow agents or brokers—
 
-&emsp;(1) to enroll individuals and employers in any qualified health plans in the individual or small group market as soon as the plan is offered through an Exchange in the State; and
+&emsp;(1) to enroll individuals and employers in any qualified health plans in the individual orsmall group market as soon as the plan is offered through an Exchange in the State; and
 
 &emsp;(2) to assist individuals in applying for premium tax credits and cost-sharing reductions for plans sold through an Exchange.
 

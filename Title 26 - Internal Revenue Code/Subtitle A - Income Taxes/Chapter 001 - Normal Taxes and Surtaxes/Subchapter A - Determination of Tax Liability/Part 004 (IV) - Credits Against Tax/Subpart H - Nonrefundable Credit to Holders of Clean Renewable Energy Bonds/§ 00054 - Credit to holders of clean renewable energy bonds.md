@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-If a taxpayer holds a clean renewable energy bond on one or more credit allowance dates ofthe bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection (b) with respect to such dates.
+If a taxpayer holds a clean renewable energy bond on one or more credit allowance dates of the bond occurring during any taxable year, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credits determined under subsection (b) with respect to such dates.
 
 #### (b) Amount of credit
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
+&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rulessimilar to the rules of section 41(g) shall apply with respect to the credit allowable under subsection (a).
 
 #### (B) No basis adjustment
 
@@ -256,7 +256,7 @@ Pub. L. 110–343, div. B, title I, §107(d), Oct. 3, 2008, 122 Stat. 3819, prov
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15316(d), May 22, 2008, 122 Stat. 1512, and Pub. L. 110–246, §4(a), title XV, §15316(d), June 18, 2008, 122 Stat. 1664, 2274, provided that: "Theamendments made by this section \[enacting subpart I (§54A et seq.) of part IV of subchapter A of this chapter and amending this section, sections 1397E, 1400N, 6049, and 6401 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to obligations issued after the date of the enactment of this Act \[June 18, 2008\]."
+Pub. L. 110–234, title XV, §15316(d), May 22, 2008, 122 Stat. 1512, and Pub. L. 110–246, §4(a), title XV, §15316(d), June 18, 2008, 122 Stat. 1664, 2274, provided that: "The amendments made by this section \[enacting subpart I (§54A et seq.) of part IV of subchapter A of this chapter and amending this section, sections 1397E, 1400N, 6049, and 6401 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to obligations issued after the date of the enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

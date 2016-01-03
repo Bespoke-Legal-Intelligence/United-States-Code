@@ -42,7 +42,7 @@
 
 #### (3) Cross references
 
-&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received</b><b>under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
 
 &emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (2)(B), see section 61.</b>
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactio
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1980 Amendment
 

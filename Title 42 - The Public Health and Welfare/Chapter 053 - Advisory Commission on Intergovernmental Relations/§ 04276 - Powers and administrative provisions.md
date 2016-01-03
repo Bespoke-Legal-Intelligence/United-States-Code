@@ -22,7 +22,7 @@ Subject to such rules and regulations as may be adopted by the Commission, the C
 
 #### (e) Applicability of other laws to employees
 
-Except as otherwise provided in this chapter, persons in the employ of the Commission under subsections (c) and (d)(1) of this section shall beconsidered to be Federal employees for all purposes, including—
+Except as otherwise provided in this chapter, persons in the employ of the Commission under subsections (c) and (d)(1) of this section shall be considered to be Federal employees for all purposes, including—
 
 &emsp;(1) subchapter III of chapter 83 of title 5,
 

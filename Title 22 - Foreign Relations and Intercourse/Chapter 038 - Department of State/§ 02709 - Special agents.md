@@ -48,7 +48,7 @@ Nothing in subsection (a)(3) shall be construed to preclude or limit in any way 
 
 #### References in Text
 
-Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently amended, and section4302(a)(4) no longer defines the term "foreign mission". However, such term is defined elsewhere in that section.
+Section 4302 of this title, referred to in subsec. (a)(3)(D), was subsequently amended, and section 4302(a)(4) no longer defines the term "foreign mission". However, such term is defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 107–228, §202(b), substituted "Agreements with Attorney 
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting "970, or 1028" for "911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546".
+Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting "970, or1028" for "911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546".
 
 #### Transfer of Functions
 

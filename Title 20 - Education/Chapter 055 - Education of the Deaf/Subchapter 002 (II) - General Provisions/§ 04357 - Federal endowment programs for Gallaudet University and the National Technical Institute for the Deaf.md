@@ -14,7 +14,7 @@
 
 #### (c) Investments
 
-(1) Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
+(1) Except as provided in subsection (e) of this section, the University and NTID, respectively,shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
 
 (2) In managing the investment of its Federal endowment fund, the University or NTID shall exercise the judgment and care, under the prevailing circumstances, that a person of prudence, discretion, and intelligence would exercise in the management of that person's own business affairs.
 
@@ -32,7 +32,7 @@
 
 (3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
 
-(B) The Secretary may permit the University or NTID to withdraw or expend a portion of itsFederal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
+(B) The Secretary may permit the University or NTID to withdraw or expend a portion of its Federal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
 
 &emsp;(i) a financial emergency, such as a pending insolvency or temporary liquidity problem;
 
@@ -78,7 +78,7 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat.2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
 
 #### Prior Provisions
 

@@ -254,7 +254,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 &emsp;&emsp;&emsp;&emsp;(I) any expected rebate of arbitrage profits, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, orsimilar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans' mortgage bonds.
+&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, or similar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans' mortgage bonds.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply to origination fees, points, or similar amounts.
 
@@ -338,7 +338,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds ofsuch issue is used to acquire or replace existing mortgages.
+&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds of such issue is used to acquire or replace existing mortgages.
 
 #### (B) Exceptions
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 #### (D) Designation where no county
 
-&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii)and (C) shall be applied by substituting for "county" an area designated by the Secretary which is the equivalent of a county.
+&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii) and (C) shall be applied by substituting for "county" an area designated by the Secretary which is the equivalent of a county.
 
 #### (3) Acquisition cost
 
@@ -698,9 +698,9 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;&emsp;In the case of any State to which clause (ii) does not apply, the State veterans limit for any calendar year is the amount equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) in such period for which the amount of such bonds so issued was the lowest), divided by
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of qualified veterans bonds issued by such State during the period beginning on January 1, 1979, and ending on June 22, 1984 (not including the amount of any qualified veterans bond issued by such State during the calendar year (or portion thereof) insuch period for which the amount of such bonds so issued was the lowest), divided by
 
-&emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
+&emsp;&emsp;&emsp;&emsp;(II) the number (not to exceed 5) of calendar years after 1979 and before 1985 during which the State issued qualified veterans bonds (determined by only taking into account bonds issued on or before June 22, 1984).
 
 #### (ii) Alaska, Oregon, and Wisconsin
 
@@ -923,7 +923,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925; Pub. L. 113–295, div. A, title II, §211(c)(2), Dec. 19, 2014, 128 Stat. 4033.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645-3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925; Pub. L. 113–295, div. A, title II, §211(c)(2), Dec. 19, 2014, 128 Stat. 4033.)
 
 #### References in Text
 
@@ -977,7 +977,7 @@ Subsec. (m)(6)(A). Pub. L. 105–34, §312(d)(3), inserted "(as in effect on the
 
 <b>1996</b>—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted "thereon," for "thereon.".
 
-Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted "any year of the 4-year period" for "any month of the 10-year period", "succeeding years" for "succeeding months", and "to zero over the succeeding5 years" for "over the remainder of such period (or, if lesser, over 5 years)".
+Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted "any year of the 4-year period" for "any month of the 10-year period", "succeeding years" for "succeeding months", and "to zero over the succeeding 5 years" for "over the remainder of such period (or, if lesser, over 5 years)".
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13141(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
@@ -1071,11 +1071,11 @@ Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
+Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165,168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title VII, §709(b), Oct. 3, 2008, 122 Stat. 3926, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 2007."
+Pub. L. 110–343, div. C, title VII, §709(b), Oct. 3, 2008, 122 Stat. 3926, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to disasters occurring after December 31, 2007."
 
 Pub. L. 110–289, div. C, title I, §3021(c), July 30, 2008, 122 Stat. 2893, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after the date of the enactment of this Act \[July 30, 2008\]."
 
@@ -1167,7 +1167,7 @@ Exception.—The amendments made by subsection (g) shall not apply to financing 
 
 #### Transition Rule
 
-Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, as amended by this section, shall be applied by substituting '30 years' for '25 years'."
+Pub. L. 110–245, title I, §103(e), June 17, 2008, 122 Stat. 1626, provided that: "In the case of any bond issued after December 31, 2007, and before the date of the enactment of this Act \[June 17, 2008\], subparagraph (B) of section 143(l)(4) of the Internal Revenue Code of 1986, asamended by this section, shall be applied by substituting '30 years' for '25 years'."
 
 #### Termination Date for Obligations Treated as Qualified Mortgage Bonds Under Former Section 103A
 

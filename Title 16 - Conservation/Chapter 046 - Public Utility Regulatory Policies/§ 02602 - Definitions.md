@@ -18,7 +18,7 @@ As used in this Act, except as otherwise specifically provided—
 
 &emsp;&emsp;(B) in the case of a Federal agency, a proceeding conducted as provided in sections 554, 556, and 557 of title 5; and
 
-&emsp;&emsp;(C) in the case of a proceeding conducted by any entity other than a State or Federal agency, a proceeding which conforms, to the extent appropriate, with the requirements of subparagraph (A).
+&emsp;&emsp;(C) in the case of a proceeding conducted by any entity other than a State or Federal agency, a proceeding which conforms, to theextent appropriate, with the requirements of subparagraph (A).
 
 &emsp;(7) The term "Federal agency" means an executive agency (as defined in section 105 of title 5).
 

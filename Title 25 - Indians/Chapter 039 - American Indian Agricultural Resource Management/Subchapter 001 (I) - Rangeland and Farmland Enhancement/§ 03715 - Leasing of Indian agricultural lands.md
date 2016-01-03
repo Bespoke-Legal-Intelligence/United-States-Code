@@ -6,7 +6,7 @@ The Secretary is authorized to—
 
 &emsp;(1) approve any agricultural lease or permit with (A) a tenure of up to 10 years, or (B) a tenure longer than 10 years but not to exceed 25 years unless authorized by other Federal law, when such longer tenure is determined by the Secretary to be in the best interest of the Indian landowners and when such lease or permit requires substantial investment in the development of the lands or crops by the lessee; and
 
-&emsp;(2) lease or permit agricultural lands to the highest responsible bidder at rates less thanthe Federal appraisal after satisfactorily advertising such lands for lease, when, in the opinion of the Secretary, such action would be in the best interest of the Indian landowner.
+&emsp;(2) lease or permit agricultural lands to the highest responsible bidder at rates less than the Federal appraisal after satisfactorily advertising such lands for lease, when, in the opinion of the Secretary, such action would be in the best interest of the Indian landowner.
 
 #### (b) Authority of tribe
 
@@ -24,13 +24,13 @@ When authorized by an appropriate tribal resolution establishing a general polic
 
 #### (c) Rights of individual landowners
 
-(1) Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee or Indian tribe in the legal or beneficial use of his, her, or its own land or to enter into an agricultural lease of the surface interest of his, her, or its allotment or land under any other provision of law.
+(1) Nothing in this section shall be construed as limiting or altering the authority or right of an individual allottee or Indian tribe in the legal or beneficial use of his, her, or its own landor to enter into an agricultural lease of the surface interest of his, her, or its allotment or land under any other provision of law.
 
 (2)(A) The owners of a majority interest in any trust or restricted land are authorized to enter into an agricultural lease of the surface interest of a trust or restricted allotment, and such lease shall be binding upon the owners of the minority interests in such land if the terms of the lease provide such minority interests with not less than fair market value for such land.
 
 (B) For the purposes of subparagraph (A), a majority interest in trust or restricted land is an interest greater than 50 percent of the legal or beneficial title.
 
-(3) The provisions of subsection (b) of this section shall not apply to a parcel of trust or restricted land if the owners of at least 50 percent of the legal or beneficial interest in such land file with the Secretary a written objection to the application of all or any part of such tribal rules to the leasing of such parcel of land.
+(3) The provisions of subsection (b) shall not apply to a parcel of trust or restricted land if the owners of at least 50 percent of the legal or beneficial interest in such land file with the Secretary a written objection to the application of all or any part of such tribal rules to the leasing of such parcel of land.
 
 (Pub. L. 103–177, title I, §105, Dec. 3, 1993, 107 Stat. 2017; Pub. L. 103–435, §12(a), Nov. 2, 1994, 108 Stat. 4572.)
 

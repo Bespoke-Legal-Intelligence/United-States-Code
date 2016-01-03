@@ -28,7 +28,7 @@
 
 #### (2) French Quarter
 
-&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) suchlands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
+&emsp;The Secretary may acquire by any of the methods referred to in paragraph (1)(A) such lands and interests therein, including leasehold interests, as he may designate in the French Quarter of New Orleans for development and operation as an interpretive and administrative facility.
 
 #### (3) Acquisition of State land
 
@@ -60,7 +60,7 @@ With the consent of the owner and the parish governing authority, the Secretary 
 
 #### (d) Acadian villages and towns
 
-The Secretary is authorized to acquire lands or interests in lands by donation, purchase with donated or appropriated funds or exchange, not to exceed approximately 20 acres, in Acadian villages and towns. Any lands so acquired shall be developed, maintained and operated as part of the Jean Lafitte National Historical Park and Preserve.
+The Secretary is authorized to acquire lands or interests in lands by donation, purchase with donated or appropriated funds or exchange, not to exceed approximately 20 acres, in Acadian villages and towns. Any lands so acquired shall bedeveloped, maintained and operated as part of the Jean Lafitte National Historical Park and Preserve.
 
 (Pub. L. 95–625, title IX, §902, Nov. 10, 1978, 92 Stat. 3535; Pub. L. 96–87, title IV, §401(q)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(b), Feb. 16, 1988, 102 Stat. 16; Pub. L. 111–11, title VII, §7105(b), (f)(2)(B), Mar. 30, 2009, 123 Stat. 1191, 1193.)
 

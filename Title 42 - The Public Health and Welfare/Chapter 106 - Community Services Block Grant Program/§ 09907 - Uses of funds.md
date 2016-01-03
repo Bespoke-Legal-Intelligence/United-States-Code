@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) providing training and technical assistance to those entities in need of such training and assistance;
 
-&emsp;&emsp;(B) coordinating State-operated programs and services, and at the option of the State,locally-operated programs and services, targeted to low-income children and families with services provided by eligible entities and other organizations funded under this chapter, including detailing appropriate employees of State or local agencies to entities funded under this chapter, to ensure increased access to services provided by such State or local agencies;
+&emsp;&emsp;(B) coordinating State-operated programs and services, and at the option of the State, locally-operated programs and services, targeted to low-income children and families with services provided by eligible entities and other organizations funded under this chapter, including detailing appropriate employees of State or local agencies to entities funded under this chapter, to ensure increased access to services provided by such State or local agencies;
 
 &emsp;&emsp;(C) supporting statewide coordination and communication among eligible entities;
 

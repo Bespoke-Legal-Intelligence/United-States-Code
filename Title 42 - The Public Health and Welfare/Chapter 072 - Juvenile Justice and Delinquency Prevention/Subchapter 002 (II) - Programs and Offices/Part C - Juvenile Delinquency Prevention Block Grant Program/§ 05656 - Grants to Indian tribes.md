@@ -28,7 +28,7 @@
 
 For the purpose of selecting eligible applicants to receive grants under section 5651(b) of this title, the Administrator shall consider—
 
-&emsp;(1) the resources that are available to each applicant Indian tribe that will assist, and be coordinated with, the overall juvenile justice system of the Indian tribe; and
+&emsp;(1) the resources that are available to each applicant Indian tribe that will assist, and becoordinated with, the overall juvenile justice system of the Indian tribe; and
 
 &emsp;(2) with respect to each such applicant—
 

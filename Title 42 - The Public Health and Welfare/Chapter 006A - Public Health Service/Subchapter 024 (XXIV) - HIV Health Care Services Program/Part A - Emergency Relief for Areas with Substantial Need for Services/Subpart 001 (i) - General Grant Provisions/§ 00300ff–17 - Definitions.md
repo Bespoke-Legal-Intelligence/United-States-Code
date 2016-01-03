@@ -26,7 +26,7 @@ Pub. L. 109–415, §107(b), substituted "this subpart" for "this part" in intro
 
 Par. (2). Pub. L. 109–415, §101(c), substituted "area that is referred" for "area referred" and inserted ", and that has a population of 50,000 or more individuals" before period at end.
 
-<b>1996</b>—Par. (1). Pub. L. 104–146 substituted "The term 'eligible area' means a metropolitan area meeting the requirements of section 300ff–11 of this title that are applicable to the area." for "The term 'eligible area' means a metropolitan area described in section 300ff–11(a) of this title."
+<b>1996</b>—Par. (1). Pub. L. 104–146 substituted "The term 'eligible area' means a metropolitan area meeting therequirements of section 300ff–11 of this title that are applicable to the area." for "The term 'eligible area' means a metropolitan area described in section 300ff–11(a) of this title."
 
 <b>1992</b>—Par. (2). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 

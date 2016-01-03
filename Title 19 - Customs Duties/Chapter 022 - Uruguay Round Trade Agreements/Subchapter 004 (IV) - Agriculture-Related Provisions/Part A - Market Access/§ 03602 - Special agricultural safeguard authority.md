@@ -26,7 +26,7 @@ If the President determines with respect to a special safeguard agricultural goo
 
 #### (c) Imposition of safeguard
 
-The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b) of this section.
+The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b).
 
 #### (d) No simultaneous safeguard
 

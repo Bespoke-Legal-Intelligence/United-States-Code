@@ -26,7 +26,79 @@
 
 (e) Except as provided in section 211(d) of title 37, no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.
 
-(Added Pub. L. 106–65, div. A, title VI, §661(a)(2)(A), Oct. 5, 1999, 113 Stat. 670; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(8), Dec. 21, 2004, 118 Stat. 3892.)
+(Added Pub. L. 106–65, div. A, title VI, §661(a)(2)(A), Oct. 5, 1999, 113 Stat. 670; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(8), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 114–92, div. A, title VI, §632(a), Nov. 25, 2015, 129 Stat. 845.)
+
+#### Amendment of Subsections (a) and (e)
+
+<i>Pub. L. 114–92, div. A, title VI, §§632(a), 635, Nov. 25, 2015, 129 Stat. 845, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by striking paragraphs (1) and (2) and inserting the following new paragraphs:</i>
+
+&emsp;<i>"(1) the term 'basic pay' means basic pay payable under section 204 of title 37;</i>
+
+&emsp;<i>"(2) the term 'full TSP member' means a member described in subsection (e)(1);</i>
+
+&emsp;<i>"(3) the term 'member' has the meaning given the term in section 211 of title 37; and</i>
+
+&emsp;<i>"(4) the term 'Secretary concerned' has the meaning given the term in section 101 of title 37."; and</i>
+
+<i>(2) by amending subsection (e) to read as follows:</i>
+
+<i>(e)</i>
+
+<i>Modernized Retirement System.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>TSP contributions.—Notwithstanding any other provision of law, the Secretary concerned shall make contributions to the Thrift Savings Fund, in accordance with section 8432 (except to the extent the requirements under such section are modified by this subsection), for the benefit of a member—</i>
+
+&emsp;&emsp;<i>(A) who first enters a uniformed service on or after January 1, 2018; or</i>
+
+&emsp;&emsp;<i>(B) who—</i>
+
+&emsp;&emsp;&emsp;<i>(i) first entered a uniformed service before January 1, 2018;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) has completed fewer than 12 years of service in the uniformed services as of December 31, 2017; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.</i>
+
+&emsp;<i>(2)</i>
+
+<i>Maximum amount.—The amount contributed under this subsection by the Secretary concerned for the benefit of a full TSP member for any pay period shall not be more than 5 percent of the member's basic pay for such pay period. Any such contribution under this subsection, though in accordance with section 8432 as provided in paragraph (1), is instead of, and not in addition to, amounts contributable under section 8432 as provided in section 8432(c).</i>
+
+&emsp;<i>(3)</i>
+
+<i>Timing and duration of contributions.—</i>
+
+&emsp;&emsp;<i>(A)</i>
+
+<i>Automatic contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(1) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—</i>
+
+&emsp;&emsp;&emsp;<i>(i) begins—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the day that is 60 days afer the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.</i>
+
+&emsp;&emsp;<i>(B)</i>
+
+<i>Matching contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(2) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—</i>
+
+&emsp;&emsp;&emsp;<i>(i) begins—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) on or after the day that is 2 years and 1 day after the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.</i>
+
+&emsp;<i>(4)</i>
+
+<i>Protections for spouses and former spouses.—Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
@@ -36,6 +108,10 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §632(a)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which defined "member" and "basic pay", respectively.
+
+Subsec. (e). Pub. L. 114–92, §632(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Except as provided in section 211(d) of title 37, no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section."
+
 <b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–469 substituted "as provided under section 8432(b)" for "only during a period provided under section 8432(b), subject to the same conditions as prescribed under paragraph (2) (A)–(D) thereof".
 
 <b>2000</b>—Subsec. (b)(2)(B)(i). Pub. L. 106–398 substituted "as of the effective date that applies with respect to such individual under section 663 of the National Defense Authorization Act for Fiscal Year 2000" for "as of the effective date described in paragraph (1) of section 663(a) of the National Defense Authorization Act for Fiscal Year 2000 (or, if applicable, paragraph (2) thereof)".
@@ -44,13 +120,17 @@ Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)(A
 
 Subsec. (d)(1)(B). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(6)(B)\], substituted "the maximum percentage of such member's compensation for such pay period (received under such section 206) allowable under section 8440f." for "5 percent of such compensation, payable to such member for such pay period."
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of this title.
+
 #### Effective Date
 
 Pub. L. 106–65, div. A, title VI, §663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle F (§§661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37\] shall take effect 180 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle F (§§661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37\] shall take effect 180 days after thedate of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\].
 
 "(b)
 
@@ -60,7 +140,7 @@ Postponement Authority.—(1) The Secretary of Defense may postpone by up to 180
 
 &emsp;"(B) the date as of which section 211(a)(2) of title 37, United States Code (as added by this subtitle) shall take effect.
 
-"(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of theBoard to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
+"(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of the Board to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
 
 "(3) Paragraph (1) includes the authority to postpone the effective date of the amendments made by this subtitle (apart from section 211(a)(2) of title 37, United States Code), and the effective date of such section 211(a)(2), by different lengths of time.
 

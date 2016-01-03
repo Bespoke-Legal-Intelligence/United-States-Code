@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "nonqualified deferred compensation plan" has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
+&emsp;&emsp;The term "nonqualified deferred compensation plan" has the meaning given suchterm under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
 
 #### (B) Exception
 

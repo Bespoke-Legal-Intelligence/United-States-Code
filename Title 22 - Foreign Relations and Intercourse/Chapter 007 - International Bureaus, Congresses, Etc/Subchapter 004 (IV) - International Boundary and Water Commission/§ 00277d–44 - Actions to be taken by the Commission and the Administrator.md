@@ -36,7 +36,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(A) Transportation of the advanced primary effluent from the IWTP to the Mexican facility for secondary treatment.
 
-&emsp;&emsp;(B) Treatment of the advanced primary effluent from the IWTP to the secondary treatment level in compliance with water quality laws of the United States, California, and Mexico.
+&emsp;&emsp;(B) Treatment of the advanced primary effluent from the IWTP to the secondarytreatment level in compliance with water quality laws of the United States, California, and Mexico.
 
 &emsp;&emsp;(C) Return conveyance from the Mexican facility of any such treated effluent that cannot be reused in either Mexico or the United States to the South Bay Ocean Outfall for discharge into the Pacific Ocean in compliance with water quality laws of the United States and California.
 
@@ -110,7 +110,7 @@ Subsec. (c)(2)(L), (M). Pub. L. 108–425, §1(b)(4), added subpars. (L) and (M)
 
 Pub. L. 108–425, §1(b)(3), redesignated subpars. (J) and (K) as (L) and (M), respectively. Former subpars. (L) and (M) redesignated (N) and (O), respectively.
 
-Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted "under applicablelaw" after "competitive procedures". Former subpar. (N) redesignated (P).
+Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted "under applicable law" after "competitive procedures". Former subpar. (N) redesignated (P).
 
 Subsec. (c)(2)(O) to (R). Pub. L. 108–425, §1(b)(3), redesignated subpars. (M) to (P) as (O) to (R), respectively.
 

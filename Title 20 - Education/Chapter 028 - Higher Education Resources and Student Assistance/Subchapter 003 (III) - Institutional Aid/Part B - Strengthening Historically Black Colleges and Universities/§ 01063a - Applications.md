@@ -20,7 +20,7 @@ The Secretary shall approve any application which meets the requirements of subs
 
 Any application for a grant under this part shall describe measurable goals for the institution's financial management and academic programs and include a plan of how the applicant intends to achieve those goals.
 
-(Pub. L. 89–329, title III, §325, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 100–50, §2(a)(8), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(e), July 23, 1992, 106 Stat. 475.)
+(Pub. L. 89–329, title III, §325, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 100–50, §2(a)(8), June 3,1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(e), July 23, 1992, 106 Stat. 475.)
 
 #### References in Text
 

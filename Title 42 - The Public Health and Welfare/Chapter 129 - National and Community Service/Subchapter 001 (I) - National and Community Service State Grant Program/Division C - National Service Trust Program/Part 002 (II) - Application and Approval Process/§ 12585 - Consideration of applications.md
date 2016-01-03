@@ -12,7 +12,7 @@ The Corporation shall apply the criteria described in subsections (c) and (d) of
 
 #### (1) In general
 
-&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title tosupport national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
+&emsp;A State or other entity that uses assistance provided under section 12571(a) of this title to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
 
 #### (2) Contents
 
@@ -74,7 +74,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;&emsp;&emsp;(ii) are innovative; and
 
-&emsp;&emsp;&emsp;(iii) are well established in 1 or more States at the time of the application and are proposed to be expanded to additional States using assistance provided under section 12571 of this title;
+&emsp;&emsp;&emsp;(iii) are well established in 1 or more States at the time of the application andare proposed to be expanded to additional States using assistance provided under section 12571 of this title;
 
 &emsp;&emsp;(B) grant programs in support of other national service programs if the grant programs are to be conducted by nonprofit organizations with demonstrated and extensive expertise in the provision of services to meet human, educational, environmental, or public safety needs; and
 
@@ -94,7 +94,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;The Corporation shall—
 
-&emsp;&emsp;(A) establish panels of experts for the purpose of securing recommendations on applications submitted under section 12582 of thistitle for more than $250,000 in assistance, or for national service positions that would require more than $250,000 in national service educational awards; and
+&emsp;&emsp;(A) establish panels of experts for the purpose of securing recommendations on applications submitted under section 12582 of this title for more than $250,000 in assistance, or for national service positions that would require more than $250,000 in national service educational awards; and
 
 &emsp;&emsp;(B) consider the opinions of such panels prior to making such determinations.
 

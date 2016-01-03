@@ -20,7 +20,7 @@ Each Humphrey Fellow shall—
 
 #### (d) Hubert H. Humphrey Fellowship Trust Fund; establishment, composition, investments, etc.
 
-(1) There is hereby established in the Treasury of the United States a trust fund to be known asthe Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the "fund"). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) of this section and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
+(1) There is hereby established in the Treasury of the United States a trust fund to be known as the Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the "fund"). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) of this section and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
 
 (2) The Secretary of the Treasury shall invest amounts in the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at prevailing market rates; and the interest on such investments shall be credited to and form a part of the fund.
 

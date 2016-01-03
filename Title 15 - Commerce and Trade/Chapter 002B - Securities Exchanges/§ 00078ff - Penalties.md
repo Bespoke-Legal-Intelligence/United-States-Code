@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (a), was in the original "this title". See 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–204 substituted "$5,000,000, or imprisoned not more than 20 years" for"$1,000,000, or imprisoned not more than 10 years" and "$25,000,000" for "$2,500,000".
+<b>2002</b>—Subsec. (a). Pub. L. 107–204 substituted "$5,000,000, or imprisoned not more than 20 years" for "$1,000,000, or imprisoned not more than 10 years" and "$25,000,000" for "$2,500,000".
 
 <b>1998</b>—Subsec. (c)(1). Pub. L. 105–366, §2(d)(1), (2), substituted "subsection (a) or (g) of section 78dd–1" for "section 78dd–1(a)" in subpars. (A) and (B).
 

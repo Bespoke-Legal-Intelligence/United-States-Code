@@ -16,7 +16,7 @@ In this subchapter—
 
 &emsp;&emsp;(C) with respect to a leverage transaction merchant, leverage transaction;
 
-&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on,or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
 
 &emsp;&emsp;(E) with respect to a commodity options dealer, commodity option;
 
@@ -140,7 +140,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(i) any commodity contract to which such customer is entitled that is transferred to another person under section 766 of this title; and
 
-&emsp;&emsp;&emsp;(ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
+&emsp;&emsp;&emsp;(ii) any cash, security, or other property of such customer transferred to such otherperson under section 766 of this title to margin or secure such transferred commodity contract.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174; Pub. L. 111–203, title VII, §724(b), July 21, 2010, 124 Stat. 1684.)
 
@@ -182,7 +182,7 @@ Paragraph (19) \[enacted as (17)\] defines "net equity" to be the sum of (A) the
 
 #### house report no. 95–595
 
-Paragraph (8) \[enacted as (4)\] is a dynamic definition of "contractual commitment". The definition will vary depending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D) indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
+Paragraph (8) \[enacted as (4)\] is a dynamic definition of "contractual commitment". The definition will varydepending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D) indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
 
 Paragraph (9) defines "customer" in a similar style. It is anticipated that a debtor with multifaceted characteristics will have separate estates for each different kind of customer. Thus, a debtor that is a leverage transaction merchant and a commodity options dealer would have separate estates for the leverage transaction customers and for the options customers, and a general estate for other creditors. Customers for each kind of commodity broker, except the clearing organization, arise from either of two relationships. In subparagraphs (A), (B), (C), and (E), clause (i) treats with customers to the extent of contractual commitments with the debtor in either a broker or a dealer relationship. Clause (ii) treats with customers to the extent of proceeds from contractual commitments or deposits for the purpose of making contractual commitments. The customer of the clearing organization is a member with a proprietary or customers' account.
 
@@ -206,7 +206,7 @@ Par. (9)(A)(i). Pub. L. 111–203, §724(b)(2), substituted "a commodity contrac
 
 Par. (7). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(B)\], amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'contract market' means board of trade designated as a contract market by the Commission under the Act;".
 
-Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par.\(8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
+Par. (8). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(C)\], amended par. (8) generally. Prior to amendment, par. (8) read as follows: " 'contract of sale', 'commodity', 'future delivery', 'board of trade', and 'futures commission merchant' have the meanings assigned to those terms in the Act;".
 
 <b>1994</b>—Par. (1). Pub. L. 103–394, §501(d)(29)(A), struck out "(7 U.S.C. 1 et seq.)" after "Act".
 

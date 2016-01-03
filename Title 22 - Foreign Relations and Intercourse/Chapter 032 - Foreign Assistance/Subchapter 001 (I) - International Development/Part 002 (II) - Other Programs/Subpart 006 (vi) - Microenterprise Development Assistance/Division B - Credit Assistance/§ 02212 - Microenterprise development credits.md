@@ -50,7 +50,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 &emsp;Amounts authorized to be available under paragraph (1) shall be made available to cover the subsidy cost, as defined in section 661a(5) of title 2, for activities under this section.
 
-(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927.)
+(Pub. L. 87–195, pt. I, §256, formerly §108, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 99–83, title III, §308, Aug. 8, 1985, 99 Stat. 215; Pub. L. 100–418, title II, §2211, Aug. 23, 1988, 102 Stat. 1335; Pub. L. 106–309, title I, §106, Oct. 17, 2000, 114 Stat. 1085; Pub. L. 108–31, §2, June 17, 2003, 117 Stat. 775; renumbered §256 and amended Pub. L. 108–484, §4(a), (b), (c)(3), Dec. 23, 2004, 118 Stat. 3926, 3927.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 108–31, §2(b), amended heading and text of subsec. (b) g
 
 &emsp;"(3) training programs for microentrepreneurs in order to enable them to make better use of credit and to better manage their enterprises."
 
-Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted "microfinance institutions" for "credit institutions" and "microenterprise households" for "micro- and small enterprises" in introductory provisions.
+Subsec. (c). Pub. L. 108–31, §2(c)(1), substituted "microfinance institutions" for "credit institutions"and "microenterprise households" for "micro- and small enterprises" in introductory provisions.
 
 Subsec. (c)(1), (2). Pub. L. 108–31, §2(c)(2), substituted "financial services" for "credit".
 

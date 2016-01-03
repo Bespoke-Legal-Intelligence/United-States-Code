@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the State involved has developed, or agrees to develop, a plan for coordinating control programs in the State, and the plan takes into account any assessments or plans described in subsection (b)(3) of this section that have been conducted or developed, respectively, by political subdivisions in the State;
 
-&emsp;&emsp;(B) in developing such plan, the State consulted or will consult (as the case may be under subparagraph (A)) with political subdivisions in the State that are carrying out or planning to carry out control programs;
+&emsp;&emsp;(B) in developing such plan, the State consulted or will consult (as the case may beunder subparagraph (A)) with political subdivisions in the State that are carrying out or planning to carry out control programs;
 
 &emsp;&emsp;(C) the State agrees to monitor control programs in the State in order to ensure that the programs are carried out in accordance with such plan, with priority given to coordination of control programs in political subdivisions described in paragraph (2) that are contiguous;
 
@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that isnot less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
+&emsp;&emsp;With respect to the costs of a control program to be carried out under paragraph (1) by a political subdivision or consortium of political subdivisions, a grant under such paragraph may be made only if the subdivision or consortium agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 1/3 of such costs ($1 for each $2 of Federal funds provided in the grant).
 
 #### (B) Determination of amount contributed
 

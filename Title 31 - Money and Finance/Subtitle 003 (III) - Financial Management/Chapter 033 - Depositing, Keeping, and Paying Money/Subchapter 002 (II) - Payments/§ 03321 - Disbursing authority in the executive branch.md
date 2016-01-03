@@ -68,7 +68,7 @@ Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 #### Improper Payments Elimination and Recovery Improvement
 
-Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181, provided that:
+Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§2–4, Dec. 18, 2015, 129 Stat. 2225–2227, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -136,7 +136,7 @@ In general.—Each agency shall review prepayment and preaward procedures and en
 
 Databases.—At a minimum and before issuing any payment and award, each agency shall review as appropriate the following databases to verify eligibility of the payment and award:
 
-&emsp;&emsp;"(A) The Death Master File of the Social Security Administration.
+&emsp;&emsp;"(A) The death records maintained by the Commissioner of Social Security.
 
 &emsp;&emsp;"(B) The General Services Administration's Excluded Parties List System.
 
@@ -170,7 +170,19 @@ Other databases.—In making designations of other databases under paragraph (1)
 
 &emsp;"(3)
 
-Access and review by agencies.—For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+Access and review.—
+
+&emsp;&emsp;"(A)
+
+In general.—For purposes of identifying and preventing improper payments, each agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a) when the Director of the Office of Management and Budget determines the Do Not Pay Initiative is appropriately established for the agency.
+
+&emsp;&emsp;"(B)
+
+Other entities.—States and any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code), shall have access to, and use of, the Do Not Pay Initiative for the purpose of verifying payment or award eligibility for payments (as defined in section 2(g)(3) of the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)) when, with respect to a State, the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for that State and any contractor, subcontractor, or agent of theState, and, with respect to the judicial and legislative branches of the United States, when the Director of the Office of Management and Budget determines that the Do Not Pay Initiative is appropriately established for the judicial branch or the legislative branch, as applicable.
+
+&emsp;&emsp;"(C)
+
+Consistency with privacy act of 1974.—To ensure consistency with the principles of section 552a of title 5, United States Code (commonly known as the 'Privacy Act of 1974'), the Director of the Office of Management and Budget may issue guidance that establishes privacy and other requirements that shall be incorporated into Do Not Pay Initiative access agreements with States, including any contractor, subcontractor, or agent of a State, and the judicial and legislative branches of the United States.
 
 &emsp;"(4)
 
@@ -208,9 +220,11 @@ Working system.—The working system established under paragraph (1)—
 
 &emsp;&emsp;"(A) may be located within an appropriate agency;
 
-&emsp;&emsp;"(B) shall include not less than 3 agencies as users of the system; and
+&emsp;&emsp;"(B) shall include not less than 3 agencies as users of the system;
 
-&emsp;&emsp;"(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access.
+&emsp;&emsp;"(C) shall include investigation activities for fraud and systemic improper payments detection through analytic technologies and other techniques, which may include commercial database use or access; and
+
+&emsp;&emsp;"(D) may include States and their quasi-government entities, and the judicial and legislative branches of the United States (as defined in paragraphs (2) and (3), respectively, of section 202(e) of title 18, United States Code) as users of the system in accordance with subsection (b)(3).
 
 &emsp;"(3)
 
@@ -276,7 +290,7 @@ Guidance by the office of management and budget.—Not later than 6 months after
 
 &emsp;"(4)
 
-Corrections.—The Director of the Office of Management and Budget shall establish procedures providing for the correction of data in order to ensure—
+Corrections.—The Director of the Office of Management and Budget shall establish proceduresproviding for the correction of data in order to ensure—
 
 &emsp;&emsp;"(A) compliance with section 552a(p) of title 5, United States Code; and
 
@@ -320,11 +334,27 @@ Additional actions under plan.—The plan established under this subsection shal
 
 Report.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall submit a report to Congress on the plan established under this subsection, including recommended legislation.
 
+"(h)
+
+Report on Improper Payments Data Analysis.—Not later than 180 days after the date of enactment of the Federal Improper Payments Coordination Act of 2015 \[Dec. 18, 2015\], the Secretary of the Treasury shall submit to Congress a report which shall include a description of—
+
+&emsp;"(1) data analytics performed as part of the Do Not Pay Business Center operated by the Department of the Treasury for the purpose of detecting, preventing, and recovering improper payments through preaward, postaward prepayment, and postpayment analysis, which shall include a description of any analysis or investigations incorporating—
+
+&emsp;&emsp;"(A) review and data matching of payments and beneficiary enrollment lists of State programs carried out using Federal funds for the purposes of identifying eligibility duplication, residency ineligibility, duplicate payments, or other potential improper payment issues;
+
+&emsp;&emsp;"(B) review of multiple Federal agencies and programs for which comparison of data could show payment duplication; and
+
+&emsp;&emsp;"(C) review of other information the Secretary of the Treasury determines could prove effective for identifying, preventing, or recovering improper payments, which may include investigation or review of information from multiple Federal agencies or programs;
+
+&emsp;"(2) the metrics used in determining whether the analytic and investigatory efforts have reduced, or contributed to the reduction of, improper payments or improper awards; and
+
+&emsp;"(3) the target dates for implementing the data analytics operations performed as part of the Do Not Pay Business Center\[.\]
+
 #### "SEC. 6. IMPROVING RECOVERY OF IMPROPER PAYMENTS.
 
 "(a)
 
-Definition.—In this section, the term 'recovery audit' means a recovery audit described under section2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[Pub. L. 111–204\] (31 U.S.C. 3301 note).
+Definition.—In this section, the term 'recovery audit' means a recovery audit described under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 \[Pub. L. 111–204\] (31 U.S.C. 3301 note).
 
 "(b)
 
@@ -332,7 +362,37 @@ Review.—The Director of the Office of Management and Budget shall determine—
 
 &emsp;"(1) current and historical rates and amounts of recovery of improper payments (or, in cases in which improper payments are identified solely on the basis of a sample, recovery rates and amounts estimated on the basis of the applicable sample), including a list of agency recovery audit contract programs and specific information of amounts and payments recovered by recovery audit contractors; and
 
-&emsp;"(2) targets for recovering improper payments, including specific information on amounts and payments recovered by recovery audit contractors."
+&emsp;"(2) targets for recovering improper payments, including specific information on amounts and payments recovered by recovery audit contractors.
+
+#### "SEC. 7. IMPROVING THE USE OF DATA BY GOVERNMENT AGENCIES FOR CURBING IMPROPER PAYMENTS.
+
+"(a)
+
+Prompt Reporting of Death Information by the Department of State and the Department of Defense.—Not later than 1 year after the date of enactment of this section \[Dec. 18, 2015\], the Secretary of State and the Secretary of Defense shall establish a procedure under which each Secretary shall, promptly and on a regular basis, submit information relating to the deaths of individuals to each agency for which the Director of the Office of Management and Budget determines receiving and using such information would be relevant and necessary.
+
+"(b)
+
+Guidance to Agencies Regarding Data Access and Use for Improper Payments Purposes.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this section, the Director of the Office of Management and Budget, in consultation with the Council of the Inspectors General on Integrity and Efficiency, the heads of other relevant Federal, State, and local agencies, and Indian tribes and tribal organizations, as appropriate, shall issue guidance regarding implementation of the Do Not Pay Initiative under section 5 to—
+
+&emsp;&emsp;"(A) the Department of the Treasury; and
+
+&emsp;&emsp;"(B) each agency or component of an agency—
+
+&emsp;&emsp;&emsp;"(i) that operates or maintains a database of information described in section 5(a)(2); or
+
+&emsp;&emsp;&emsp;"(ii) for which the Director determines improved data matching would be relevant, necessary, or beneficial.
+
+&emsp;"(2)
+
+Requirements.—The guidance issued under paragraph (1) shall—
+
+&emsp;&emsp;"(A) address the implementation of subsection (a); and
+
+&emsp;&emsp;"(B) include the establishment of deadlines for access to and use of the databases described in section 5(a)(2) under the Do Not Pay Initiative."
 
 #### Determinations of Agency Readiness for Opinion on Internal Control
 
@@ -444,7 +504,7 @@ Use for inspector general activities.—Not more than 5 percent of the amounts c
 
 &emsp;"(E)
 
-Remainder.—Amounts collected that are not applied in accordance with subparagraph (A), (B), (C), or (D) shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust or special fund accounts, such amounts shall revert to those accounts.
+Remainder.—Amounts collected that are not applied in accordance with subparagraph (A), (B), (C), or (D) shall be deposited in the Treasury as miscellaneous receipts, except that in the case of recoveries of overpayments that are made from trust orspecial fund accounts, such amounts shall revert to those accounts.
 
 &emsp;"(F)
 
@@ -568,7 +628,7 @@ Plan.—The plan described under subparagraph (A) shall include—
 
 &emsp;&emsp;&emsp;"(ii) the designation of a senior agency official who shall be accountable for the progress of the agency in coming into compliance for each program or activity; and
 
-&emsp;&emsp;&emsp;"(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated underclause (ii) in leading the efforts of the agency to come into compliance for each program and activity.
+&emsp;&emsp;&emsp;"(iii) the establishment of an accountability mechanism, such as a performance agreement, with appropriate incentives and consequences tied to the success of the official designated under clause (ii) in leading the efforts of the agency to come into compliance for each program and activity.
 
 &emsp;"(2)
 
@@ -580,7 +640,7 @@ In general.—If an agency is determined by the Inspector General of that agency
 
 &emsp;&emsp;"(B)
 
-Funding.—In providing additional funding described under subparagraph (A), the head of an agency shall use any reprogramming or transfer authority available to the agency. If after exercising that reprogramming or transfer authority additional funding is necessary to obligate the full level of funding determined by the Director of the Office of Management and Budget under subparagraph (A), the agency shall submit a request to Congress for additional reprogramming or transfer authority.
+Funding.—In providing additional funding described under subparagraph (A), the head of an agency shall use any reprogramming or transfer authority available to the agency. If after exercisingthat reprogramming or transfer authority additional funding is necessary to obligate the full level of funding determined by the Director of the Office of Management and Budget under subparagraph (A), the agency shall submit a request to Congress for additional reprogramming or transfer authority.
 
 &emsp;"(3)
 
@@ -678,7 +738,7 @@ Scope.—In conducting the reviews under paragraph (1), the head of each agency 
 
 &emsp;&emsp;&emsp;"(vi) the level, experience, and quality of training for personnel responsible for making program eligibility determinations or certifying that payments are accurate; and
 
-&emsp;&emsp;&emsp;"(vii) significant deficiencies in the audit report of the agency or other relevant managementfindings that might hinder accurate payment certification.
+&emsp;&emsp;&emsp;"(vii) significant deficiencies in the audit report of the agency or other relevant management findings that might hinder accurate payment certification.
 
 "(b)
 
@@ -896,7 +956,7 @@ Information on entities that have received the greatest amount of outstanding im
 
 Sec. 3. <i>Agency Accountability and Coordination</i>.
 
-(a) Within 120 days of the date of this order, the head of each agency responsible for operating a high-priority program shall designate an official who holds an existing Senate-confirmed position to be accountable for meeting the targets established under section 2 of this order without unduly burdening program access and participation by eligible beneficiaries. In those agencies where the majority of payments are isolated to a single component, the head of the agency shall name a second accountable official for that component whose sole responsibility would be for program integrity activities and, as appropriate, shall consolidate and coordinate all program integrity activities within the component.
+(a) Within 120 days of the date of this order, the head of each agency responsible for operating a high-priorityprogram shall designate an official who holds an existing Senate-confirmed position to be accountable for meeting the targets established under section 2 of this order without unduly burdening program access and participation by eligible beneficiaries. In those agencies where the majority of payments are isolated to a single component, the head of the agency shall name a second accountable official for that component whose sole responsibility would be for program integrity activities and, as appropriate, shall consolidate and coordinate all program integrity activities within the component.
 
 (b) Within 180 days of the date of this order, each agency official designated under subsection (a) of this section, or otherwise designated by the Director of OMB, shall provide the agency's Inspector General a report containing:
 
@@ -922,7 +982,7 @@ Sec. 4. <i>Enhanced Focus on Contractors and Working with State and Local Stakeh
 
 (b) Within 30 days of the date of this order, the Director of OMB shall establish a working group consisting of Federal and elected State and local officials to make recommendations to the Director of OMB designed to improve the effectiveness of single audits of State and local governments and non-profit organizations that are expending Federal funds. The Director of OMB may designate an appropriate official to serve as Chair of the working group to convene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order. The recommendations shall address, among other things, the effectiveness of single audits in identifying improper payments and opportunities to streamline or eliminate single audit requirements where their value is minimal.
 
-(c) Within 30 days of the date of this order, the Director of OMB shall establish a working group (which may be separate from the group established under subsection (b) of this section) consisting of Federal and elected State and local officials to make recommendations to the Director of OMB for administrative actions designed to improve the incentives and accountability of State and local governments, as well as other entities receiving Federal funds, for reducing improper payments. The Director of OMB may designate an appropriate official to serve as Chair of the working group toconvene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order.
+(c) Within 30 days of the date of this order, the Director of OMB shall establish a working group (which may be separate from the group established under subsection (b) of this section) consisting of Federal and elected State and local officials to make recommendations to the Director of OMB for administrative actions designed to improve the incentives and accountability of State and local governments, as well as other entities receiving Federal funds, for reducing improper payments. The Director of OMB may designate an appropriate official to serve as Chair of the working group to convene its meetings and direct its work. The working group's recommendations shall be prepared in consultation with the CIGIE and submitted within 180 days of the date of this order.
 
 Sec. 5. <i>Policy Proposals</i>. The Director of OMB, in consultation with the appropriate agencies and the CIGIE, shall develop policy recommendations, including potential legislative proposals, designed to reduce improper payments, including those caused by error, waste, fraud, and abuse, across Federal programs without compromising program access, to be included, as appropriate, in the Budget of the United States Government for Fiscal Year 2011 and future years, or other Administration proposals.
 
@@ -990,7 +1050,7 @@ Memorandum of President of the United States, Mar. 10, 2010, 75 F.R. 12119, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-My Administration is committed to reducing payment errors and eliminating waste, fraud, and abuse in Federal programs—a commitment reflected in Executive Order 13520 of November 20, 2009, Reducing Improper Payments. Executive departments and agencies should use every tool available to identify and subsequently reclaim the funds associated with improper payments. Thorough identification of improper payments promotes accountability at executive departments and agencies; it also makes the integrity of Federal spending transparent to taxpayers. Reclaiming the funds associated with improper payments is a critical component of the proper stewardship and protection of taxpayer dollars, and it underscores that waste, fraud, and abuse by entities receiving Federal payments will not be tolerated.
+My Administration is committed to reducing payment errors and eliminating waste, fraud, and abuse in Federal programs—a commitment reflected in Executive Order 13520 of November 20, 2009, Reducing Improper Payments. Executive departments and agenciesshould use every tool available to identify and subsequently reclaim the funds associated with improper payments. Thorough identification of improper payments promotes accountability at executive departments and agencies; it also makes the integrity of Federal spending transparent to taxpayers. Reclaiming the funds associated with improper payments is a critical component of the proper stewardship and protection of taxpayer dollars, and it underscores that waste, fraud, and abuse by entities receiving Federal payments will not be tolerated.
 
 Today, to further intensify efforts to reclaim improper payments, my Administration is expanding the use of "Payment Recapture Audits," which have proven to be effective mechanisms for detecting and recapturing payment errors. A Payment Recapture Audit is a process of identifying improper payments paid to contractors or other entities whereby highly skilled accounting specialists and fraud examiners use state-of-the-art tools and technology to examine payment records and uncover such problems as duplicate payments, payments for services not rendered, overpayments, and fictitious vendors. (A Payment Recapture Audit as used in this memorandum shall have the same meaning as the term "recovery audit" as defined in Appendix C to Office of Management and Budget Circular A-123.) One approach that has worked effectively is using professional and specialized auditors on a contingency basis, with their compensation tied to the identification of misspent funds.
 
@@ -1016,7 +1076,7 @@ Agencies maintain many databases containing information on a recipient's eligibi
 
 Therefore, I hereby direct agencies to review current pre-payment and pre-award procedures and ensure that a thorough review of available databases with relevant information on eligibility occurs before the release of any Federal funds, to the extent permitted by law. At a minimum, agencies shall, before payment and award, check the following existing databases (where applicable and permitted by law) to verify eligibility: the Social Security Administration's Death Master File, the General Services Administration's Excluded Parties List System, the Department of the Treasury's Debt Check Database, the Department of Housing and Urban Development's Credit Alert System or Credit Alert Interactive Voice Response System, and the Department of Health and Human Services' Office of Inspector General's List of Excluded Individuals/Entities. This network of databases, and additional databases so designated by the Director of the Office of Management and Budget (OMB) in consultation with agencies, shall be collectively known as the "Do Not Pay List." This memorandum requires agencies to review these databases with the recognition that there may be circumstances when the law nevertheless requires a payment or award to be made to a recipient listed in them. My Administration began coordination of the databases discussed in this memorandum in April 2010 by launching the Federal Awardee Performance and Integrity Information System (FAPIIS), which integrates various sources of information on the eligibility of Government contractors for award. No later than 120 days of the date of this memorandum, the Director of the OMB shall provide to the President a plan for completing integration for the remaining databases, to the extent permitted by law, so that agencies can access them through a single entry point.
 
-Each agency shall, within 90 days of the date of this memorandum, submit to the OMB a plan that includes information on its current pre-payment and pre-award procedures and a list of databases that the agency checks pursuant to those procedures. Within 180 days of the date of this memorandum, the Director of the OMB shall issue guidance, to be developed in consultation with affected agencies and taking into account current agency pre-payment and pre-award practices, on actions agencies must take to carry out this memorandum's requirements. This guidance shall clarify thatthe head of each agency is responsible for ensuring an efficient and accurate process for determining whether the information provided on the "Do Not Pay List" is sufficient to stop a payment, consistent with applicable laws and regulations, and, if so, whether a payment should be stopped under the circumstances. In addition, this guidance shall identify best practices and databases that agencies should utilize to conduct pre-payment checks to ensure that only eligible recipients receive Government benefits or payments.
+Each agency shall, within 90 days of the date of this memorandum, submit to the OMB a plan that includes information on its current pre-payment and pre-award procedures and a list of databases that the agency checks pursuant to those procedures. Within 180 days of the date of this memorandum, the Director of the OMB shall issue guidance, to be developed in consultation with affected agencies and taking into account current agency pre-payment and pre-award practices, on actions agencies must take to carry out this memorandum's requirements. This guidance shall clarify that the head of each agency is responsible for ensuring an efficient and accurate process for determining whether the information provided on the "Do Not Pay List" is sufficient to stop a payment, consistent with applicable laws and regulations, and, if so, whether a payment should be stopped under the circumstances. In addition, this guidance shall identify best practices and databases that agencies should utilize to conduct pre-payment checks to ensure that only eligible recipients receive Government benefits or payments.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

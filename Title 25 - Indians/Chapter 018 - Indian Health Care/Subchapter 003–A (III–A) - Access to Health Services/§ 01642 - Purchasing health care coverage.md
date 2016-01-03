@@ -16,7 +16,7 @@ Insofar as amounts are made available under law (including a provision of the So
 
 #### (b) Financial need
 
-The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being served based on a schedule of income levels developed or implemented by such 1 ore <sup>1</sup> more Indian tribes).
+The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being servedbased on a schedule of income levels developed or implemented by such 1 ore <sup>1</sup> more Indian tribes).
 
 #### (c) Expenses for self-insured plan
 

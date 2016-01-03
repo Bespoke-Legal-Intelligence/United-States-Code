@@ -32,7 +32,7 @@ In subsection (b), the words "in lieu of subsistence" are omitted as unnecessary
 
 In subsection (c), the words "this subchapter" are substituted for "said regulations and said Act of February 14, 1931, as so amended" as the Act of February 14, 1931, was repealed by section 9(a) of the Travel Expense Act of 1949, 63 Stat. 167, part of which appeared in former section 842 and is carried into section 5708, and as the authority for the Standardized Government Travel Regulations in former section 840 is carried into section 5707. The words "in lieu of subsistence" are omitted as unnecessary in view of the definition of "per diem allowance" in section 5701(4).
 
-In subsection (d), the words "Under regulations prescribed under section 5707 of this title" are substitutedfor "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title".
+In subsection (d), the words "Under regulations prescribed under section 5707 of this title" are substituted for "in accordance with regulations promulgated by the Director, Bureau of the Budget, pursuant to section 840 of this title".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

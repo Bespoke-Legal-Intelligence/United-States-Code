@@ -26,7 +26,7 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 (8) The employees to whom the Commission may delegate review functions in any case of adjudication (as defined in section 551 of title 5) shall be qualified, by reason of their training, experience, and competence, to perform such review functions, and shall perform no duties inconsistent with such review functions. Such employees shall be in a grade classification or salary level commensurate with their important duties, and in no event less than the grade classification or salary level of the employee or employees whose actions are to be reviewed. In the performance of such review functions such employees shall be assigned to cases in rotation so far as practicable and shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for any agency.
 
-(9) The secretary and seal of the Commission shall be the secretary and seal of each panel ofthe Commission, each individual commissioner, and each employee board or individual employee exercising functions delegated pursuant to paragraph (1) of this subsection.
+(9) The secretary and seal of the Commission shall be the secretary and seal of each panel of the Commission, each individual commissioner, and each employee board or individual employee exercising functions delegated pursuant to paragraph (1) of this subsection.
 
 #### (d) Meetings
 

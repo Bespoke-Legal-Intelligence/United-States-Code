@@ -26,7 +26,7 @@ To the fullest extent possible, projects supported under this section shall incl
 
 #### (f) PVOs and other nongovernmental organizations
 
-Whenever feasible, the objectives of this section shall be accomplished through projects managed by appropriate private and voluntary organizations, or international, regional, or national nongovernmental organizations, which are active in the region or country where the project is located.
+Whenever feasible, the objectives of this section shall be accomplished through projectsmanaged by appropriate private and voluntary organizations, or international, regional, or national nongovernmental organizations, which are active in the region or country where the project is located.
 
 #### (g) Actions by AID
 
@@ -40,7 +40,7 @@ The Administrator of the Agency for International Development shall—
 
 &emsp;(4) support training and education efforts which improve the capacity of recipient countries to prevent loss of biological diversity;
 
-&emsp;(5) whenever possible, enter into long-term agreements in which the recipient country agrees to protect ecosystems or other wildlife habitats recommended for protection by relevant governmental or nongovernmental organizations or as a result of activities undertaken pursuant to paragraph (6), and theUnited States agrees to provide, subject to obtaining the necessary appropriations, additional assistance necessary for the establishment and maintenance of such protected areas;
+&emsp;(5) whenever possible, enter into long-term agreements in which the recipient country agrees to protect ecosystems or other wildlife habitats recommended for protection by relevant governmental or nongovernmental organizations or as a result of activities undertaken pursuant to paragraph (6), and the United States agrees to provide, subject to obtaining the necessary appropriations, additional assistance necessary for the establishment and maintenance of such protected areas;
 
 &emsp;(6) support, as necessary and in cooperation with the appropriate governmental and nongovernmental organizations, efforts to identify and survey ecosystems in recipient countries worthy of protection;
 

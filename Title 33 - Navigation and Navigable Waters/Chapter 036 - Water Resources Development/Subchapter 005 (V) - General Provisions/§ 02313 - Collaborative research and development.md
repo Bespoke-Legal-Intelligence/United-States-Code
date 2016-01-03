@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of improving the state of engineering and construction in the United States and consistent with the civil works mission of the Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
+For the purpose of improving the state of engineering and construction in the United States and consistent with the civil works mission ofthe Army Corps of Engineers, the Secretary is authorized to utilize Army Corps of Engineers laboratories and research centers to undertake, on a cost-shared basis, collaborative research and development with non-Federal entities, including State and local government, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under the laws of any of the several States of the United States or the District of Columbia.
 
 #### (b) Pre-agreement temporary protection of technology
 
@@ -12,7 +12,7 @@ For the purpose of improving the state of engineering and construction in the Un
 
 #### (2) Treatment
 
-&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accordedthe protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B)) as if such technology had been developed under a cooperative research and development agreement.
+&emsp;Any technology covered by this section that becomes the subject of a cooperative research and development agreement shall be accorded the protection provided under section 12(c)(7)(B) of such Act (15 U.S.C. 3710a(c)(7)(B)) as if such technology had been developed under a cooperative research and development agreement.
 
 #### (c) Administrative provisions
 

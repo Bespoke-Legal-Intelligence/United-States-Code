@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) has a high rate for placing graduates in practice settings having the principal focus of serving residents of medically underserved communities;
 
-&emsp;&emsp;(B) during the 2-year period preceding the fiscal year for which such an award is sought, has achieved a significant increasein the rate of placing graduates in such settings; or
+&emsp;&emsp;(B) during the 2-year period preceding the fiscal year for which such an award is sought, has achieved a significant increase in the rate of placing graduates in such settings; or
 
 &emsp;&emsp;(C) utilizes a longitudinal evaluation (as described in section 294n(d)(2) of this title) and reports data from such system to the national workforce database (as established under section 294n(b)(2)(E) of this title).
 

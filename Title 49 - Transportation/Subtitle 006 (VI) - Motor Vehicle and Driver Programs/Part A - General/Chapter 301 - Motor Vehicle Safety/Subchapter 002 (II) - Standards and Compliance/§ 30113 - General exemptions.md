@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, "low-emission motor vehicle" means a motor vehicle meeting the standards for new motor vehicles applicable to the vehicle under section 202 of the Clean Air Act (42 U.S.C. 7521) when the vehicle is manufactured and emitting an air pollutant in an amount significantly below one of those standards.
+Definition.—In this section, "low-emission motor vehicle" means a motor vehicle meetingthe standards for new motor vehicles applicable to the vehicle under section 202 of the Clean Air Act (42 U.S.C. 7521) when the vehicle is manufactured and emitting an air pollutant in an amount significantly below one of those standards.
 
 (b)
 
@@ -20,7 +20,7 @@ Authority To Exempt and Procedures.—(1) The Secretary of Transportation may ex
 
 &emsp;(iii) the exemption would make the development or field evaluation of a low-emission motor vehicle easier and would not unreasonably lower the safety level of that vehicle; or
 
-&emsp;(iv) compliance with the standard would prevent the manufacturer from selling a motor vehicle with an overall safety level at leastequal to the overall safety level of nonexempt vehicles.
+&emsp;(iv) compliance with the standard would prevent the manufacturer from selling a motor vehicle with an overall safety level at least equal to the overall safety level of nonexempt vehicles.
 
 (c)
 
@@ -116,7 +116,7 @@ In subsection (b)(3)(B)(iii), the words "lower the safety level" are substituted
 
 In subsection (b)(3)(B)(iv), the word "requiring" is omitted as surplus.
 
-In subsection (c), before clause (1), the words "the following information" are added for clarity. In clause (1), the word "describing" is substituted for "the basis of showing" to eliminate unnecessary words. The words "each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption" are substituted for "the standards" for clarity. In clauses (2) and (3), the words "a record" are substituted for "documentation" for consistency in the revised title. In clause (2), the words "establishing that the safety level of the feature at least equals the safety level of the standard" are substituted for "establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought" because of the restatement. In clause (3), the word"level" is added, and the words "lowered . . . by exemption from the standard" are substituted for "degraded", for consistency in this section. In clause (4), the words "at least equal to" are substituted for "equivalent to or exceeding" for consistency.
+In subsection (c), before clause (1), the words "the following information" are added for clarity. In clause (1), the word "describing" is substituted for "the basis of showing" to eliminate unnecessary words. The words "each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption" are substituted for "the standards" for clarity. In clauses (2) and (3), the words "a record" are substituted for "documentation" for consistency in the revised title. In clause (2), the words "establishing that the safety level of the feature at least equals the safety level of the standard" are substituted for "establishing that the level of safety of the new safety feature is equivalent to or exceeds the level of safety established in the standard from which the exemption is sought" because of the restatement. In clause (3), the word "level" is added, and the words "lowered . . . by exemption from the standard" are substituted for "degraded", for consistency in this section. In clause (4), the words "at least equal to" are substituted for "equivalent to or exceeding" for consistency.
 
 In subsection (f), the text of 15:1410(f) (1st sentence) is omitted as executed. The words "under this section all" and "other information" are omitted as surplus. The words "to the application" are substituted for "thereto" for clarity. The words "business" and "for exemption" are omitted as surplus.
 

@@ -4,7 +4,7 @@
 
 In accordance with the provisions of this subchapter, effective on the transfer date—
 
-&emsp;(1) the contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special ServicesOffice of the Capitol Guide Service, and the employees of such Office, are transferred to the Office of Congressional Accessibility Services established under section 2172(a) of this title (as amended by section 2251 of this title), except that the transfer of any amounts appropriated to the Congressional Special Services Office that remain available as of the transfer date shall occur only upon the approval of the Committees on Appropriations of the House of Representatives and Senate; and
+&emsp;(1) the contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service, and the employees of such Office, are transferred to the Office of Congressional Accessibility Services established under section 2172(a) of this title (as amended by section 2251 of this title), except that the transfer of any amounts appropriated to the Congressional Special Services Office that remain available as of the transfer date shall occur only upon the approval of the Committees on Appropriations of the House of Representatives and Senate; and
 
 &emsp;(2) the employees of such Office shall be subject to the direction, supervision, and control of the Director of Accessibility Services.
 
@@ -16,7 +16,7 @@ In accordance with the provisions of this subchapter, effective on the transfer 
 
 #### (2) Eligibility for immediate retirement on basis of involuntary separation
 
-&emsp;For purposes of section 8336(d) and section 8414(b) of title 5, an individual described in paragraph (1) who is separated from service with the Office of Congressional Accessibility Services shall be considered to have separated from the service involuntarily if, at the time the individual is separated from service—
+&emsp;For purposes of section 8336(d) and section 8414(b) of title 5, an individual described in paragraph (1) who is separated from service with the Office of Congressional AccessibilityServices shall be considered to have separated from the service involuntarily if, at the time the individual is separated from service—
 
 &emsp;&emsp;(A) the individual has completed 25 years of service under such title; or
 

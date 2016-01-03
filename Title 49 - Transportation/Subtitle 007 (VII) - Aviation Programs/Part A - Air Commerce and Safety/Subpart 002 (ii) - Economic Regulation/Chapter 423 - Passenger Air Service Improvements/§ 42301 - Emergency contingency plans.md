@@ -42,7 +42,7 @@ Deplaning following an excessive tarmac delay.—For purposes of paragraph (2)(C
 
 &emsp;&emsp;(C) Notwithstanding the requirements described in subparagraphs (A) and (B), a passenger shall not have an option to deplane an aircraft and return to the airport terminal in the case of an excessive tarmac delay if—
 
-&emsp;&emsp;&emsp;(i) an air traffic controller with authority over the aircraft advises the pilot incommand that permitting a passenger to deplane would significantly disrupt airport operations; or
+&emsp;&emsp;&emsp;(i) an air traffic controller with authority over the aircraft advises the pilot in command that permitting a passenger to deplane would significantly disrupt airport operations; or
 
 &emsp;&emsp;&emsp;(ii) the pilot in command determines that permitting a passenger to deplane would jeopardize passenger safety or security.
 
@@ -82,7 +82,7 @@ Failure to approve or require modifications.—If the Secretary fails to approve
 
 &emsp;(3)
 
-Adherence required.—An air carrier or airport operator shall adhere to an emergency contingency plan of the carrier or operator approved under this section.
+Adherence required.—An air carrier or airport operator shall adhere to an emergencycontingency plan of the carrier or operator approved under this section.
 
 (f)
 

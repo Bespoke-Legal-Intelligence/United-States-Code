@@ -158,7 +158,7 @@
 
 #### (C) Functions of officers, directors, and shareholders of a regulated entity
 
-&emsp;&emsp;The Agency may, by regulation or order, provide for the exercise of any function byany stockholder, director, or officer of any regulated entity for which the Agency has been named conservator or receiver.
+&emsp;&emsp;The Agency may, by regulation or order, provide for the exercise of any function by any stockholder, director, or officer of any regulated entity for which the Agency has been named conservator or receiver.
 
 #### (D) Powers as conservator
 
@@ -238,7 +238,7 @@
 
 #### (C) Mailing required
 
-&emsp;&emsp;The receiver shall mail a notice similar to the notice published under subparagraph (B)(i) at the time of such publication to anycreditor shown on the books of the regulated entity—
+&emsp;&emsp;The receiver shall mail a notice similar to the notice published under subparagraph (B)(i) at the time of such publication to any creditor shown on the books of the regulated entity—
 
 &emsp;&emsp;&emsp;(i) at the last address of the creditor appearing in such books; or
 
@@ -328,7 +328,7 @@
 
 &emsp;&emsp;The claimant may file suit on a claim (or continue an action commenced before the appointment of the receiver) in the district or territorial court of the United States for the district within which the principal place of business of the regulated entity is located or the United States District Court for the District of Columbia (and such court shall have jurisdiction to hear such claim), before the end of the 60-day period beginning on the earlier of—
 
-&emsp;&emsp;&emsp;(i) the end of the period described in paragraph (5)(A)(i) with respect to anyclaim against a regulated entity for which the Agency is receiver; or
+&emsp;&emsp;&emsp;(i) the end of the period described in paragraph (5)(A)(i) with respect to any claim against a regulated entity for which the Agency is receiver; or
 
 &emsp;&emsp;&emsp;(ii) the date of any notice of disallowance of such claim pursuant to paragraph (5)(A)(i).
 
@@ -398,7 +398,7 @@
 
 #### (ii) No prejudice to other actions
 
-&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
+&emsp;&emsp;&emsp;Subject to paragraph (10), the filing of a claim with the receiver shall not prejudiceany right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
 
 #### (9) Payment of claims
 
@@ -414,7 +414,7 @@
 
 #### (B) Agreements against the interest of the Agency
 
-&emsp;&emsp;No agreement that tends to diminish or defeat the interest of the Agency in any asset acquired by the Agency as receiver under this section shall be valid against the Agency unless such agreement is in writingand executed by an authorized officer or representative of the regulated entity.
+&emsp;&emsp;No agreement that tends to diminish or defeat the interest of the Agency in any asset acquired by the Agency as receiver under this section shall be valid against the Agency unless such agreement is in writing and executed by an authorized officer or representative of the regulated entity.
 
 #### (C) Payment of dividends on claims
 
@@ -566,7 +566,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for the breach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against the conservator or receiver for thebreach of an agreement executed or approved in writing by the conservator or receiver after the date of its appointment, shall be paid as an administrative expense of the conservator or receiver.
 
 #### (B) No limitation of power
 
@@ -582,7 +582,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages held in trust,custodial, or agency capacity by a regulated entity for the benefit of any person other than the regulated entity shall not be available to satisfy the claims of creditors generally, except that nothing in this clause shall be construed to expand or otherwise affect the authority of any regulated entity.
+&emsp;&emsp;&emsp;Any mortgage, pool of mortgages, or interest in a pool of mortgages held in trust, custodial, or agency capacity by a regulated entity for the benefit of any person other than the regulated entity shall not be available to satisfy the claims of creditors generally, except that nothing in this clause shall be construed to expand or otherwise affect the authority of any regulated entity.
 
 #### (ii) Holding of mortgages
 
@@ -810,13 +810,13 @@
 
 &emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on anyof the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
 &emsp;&emsp;&emsp;&emsp;(III) means any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans orinterests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
 &emsp;&emsp;&emsp;&emsp;(V) means any margin loan;
 
@@ -962,7 +962,7 @@
 
 #### (i) Receivership
 
-&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with a regulated entity may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) of this subsection or under section 4403 or4404 of this title, solely by reason of or incidental to the appointment of a receiver for the regulated entity (or the insolvency or financial condition of the regulated entity for which the receiver has been appointed)—
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with a regulated entity may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) of this subsection or under section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a receiver for the regulated entity (or the insolvency or financial condition of the regulated entity for which the receiver has been appointed)—
 
 &emsp;&emsp;&emsp;&emsp;(I) until 5:00 p.m. (Eastern Standard Time) on the business day following the date of the appointment of the receiver; or
 
@@ -1188,7 +1188,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (iii) Savings clause
 
-&emsp;&emsp;&emsp;Notwithstanding any provision of law, other than clause (ii), the Agency shall not be required to sell the capital stock of anenterprise or a limited-life regulated entity established with respect to an enterprise.
+&emsp;&emsp;&emsp;Notwithstanding any provision of law, other than clause (ii), the Agency shall not be required to sell the capital stock of an enterprise or a limited-life regulated entity established with respect to an enterprise.
 
 #### (iv) Applicability
 

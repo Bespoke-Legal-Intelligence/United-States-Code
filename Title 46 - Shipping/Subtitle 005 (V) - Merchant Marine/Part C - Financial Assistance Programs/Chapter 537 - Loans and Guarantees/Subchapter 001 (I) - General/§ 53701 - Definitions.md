@@ -26,7 +26,7 @@ Depreciated actual cost.—The term "depreciated actual cost" of a vessel means�
 
 &emsp;&emsp;(B) if the vessel was reconstructed or reconditioned, the sum of—
 
-&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning, using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
+&emsp;&emsp;&emsp;(i) the actual cost of the vessel depreciated on a straight line basis from the date of delivery by the builder to the date of the reconstruction or reconditioning,using the original useful life of the vessel, and from the date of the reconstruction or reconditioning, using a useful life of the vessel determined by the Secretary or Administrator; and
 
 &emsp;&emsp;&emsp;(ii) any amount paid or obligated to be paid for the reconstruction or reconditioning, depreciated on a straight line basis using a useful life of the vessel determined by the Secretary or Administrator.
 

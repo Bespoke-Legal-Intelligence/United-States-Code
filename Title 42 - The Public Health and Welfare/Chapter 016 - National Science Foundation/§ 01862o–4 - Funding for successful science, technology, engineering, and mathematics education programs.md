@@ -14,7 +14,7 @@ For grants that are identified under subsection (a) and that are determined by t
 
 #### (c) Report to Congress
 
-Not later than 1 year after August 9, 2007, and annually thereafter, the Director shall submit a report to the Committee on Science and Technology of the House of Representatives and to the Committee on Commerce, Science, andTransportation and the Committee on Health, Education, Labor, and Pensions of the Senate that—
+Not later than 1 year after August 9, 2007, and annually thereafter, the Director shall submit a report to the Committee on Science and Technology of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate that—
 
 &emsp;(1) lists the grants that have been extended in duration by the authority provided under this section; and
 
@@ -32,7 +32,7 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

@@ -16,7 +16,7 @@ It is the policy of the United States—
 
 &emsp;(7) to foster a more efficient, cost-effective, and adaptable armaments industry in the United States;
 
-&emsp;(8) to achieve, with respect to armaments manufacturing, storage, maintenance, renovation, and demilitarization capacity, an optimum level of readiness of the national technology and industrial base within the United States that is consistent with the projected threats to the national security of the United States and the projected emergency requirements of the armed forces; and
+&emsp;(8) to achieve, with respect to armaments manufacturing, storage, maintenance, renovation, and demilitarization capacity, an optimum level of readiness of the national technology and industrial base within the United States that is consistent with the projectedthreats to the national security of the United States and the projected emergency requirements of the armed forces; and
 
 &emsp;(9) to encourage facility use contracting where feasible.
 

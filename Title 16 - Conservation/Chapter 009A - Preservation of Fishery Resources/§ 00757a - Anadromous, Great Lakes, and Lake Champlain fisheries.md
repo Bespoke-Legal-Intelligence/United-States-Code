@@ -22,7 +22,7 @@ For the purpose of conserving, developing, and enhancing within the several Stat
 
 &emsp;(C) the commission established by the Gulf States Marine Fisheries Compact (as consented to and approved by Public Law 81–66), approved May 19, 1949 (63 Stat. 70).
 
-(Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 98–44, title I, §104, July 12, 1983, 97 Stat. 216; Pub. L. 107–372, title III, §303(b), Dec. 19, 2002, 116 Stat. 3095.)
+(Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L.98–44, title I, §104, July 12, 1983, 97 Stat. 216; Pub. L. 107–372, title III, §303(b), Dec. 19, 2002, 116 Stat. 3095.)
 
 #### References in Text
 

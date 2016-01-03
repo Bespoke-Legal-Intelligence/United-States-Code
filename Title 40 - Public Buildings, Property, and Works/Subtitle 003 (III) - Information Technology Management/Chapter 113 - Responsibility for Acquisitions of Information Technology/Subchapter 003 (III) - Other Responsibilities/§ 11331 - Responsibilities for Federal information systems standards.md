@@ -30,7 +30,7 @@ Required standards binding.—Information security standards described under sub
 
 &emsp;(2)
 
-Standards and guidelines for national security systems.—Standards and guidelines for national security systems, as defined under section 3532(3) <sup>1</sup> of title 44, shall be developed,promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
+Standards and guidelines for national security systems.—Standards and guidelines for national security systems, as defined under section 3532(3) <sup>1</sup> of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 (c)
 
@@ -148,7 +148,7 @@ Pub. L. 107–347 substituted "Responsibilities for Federal information systems 
 
 "(a)
 
-Definitions.—In this section, the terms 'federal computer system' and 'operator of a federal computersystem' have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
+Definitions.—In this section, the terms 'federal computer system' and 'operator of a federal computer system' have the meanings given those terms in section 20(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(d)).
 
 "(b)
 

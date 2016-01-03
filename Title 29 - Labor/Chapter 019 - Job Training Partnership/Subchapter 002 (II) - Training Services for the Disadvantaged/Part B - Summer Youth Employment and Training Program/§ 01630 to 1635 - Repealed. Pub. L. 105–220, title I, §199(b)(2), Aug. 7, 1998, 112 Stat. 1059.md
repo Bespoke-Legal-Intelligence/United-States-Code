@@ -2,7 +2,7 @@
 
 Section 1630, Pub. L. 97–300, title II, §251, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061, stated purpose of Summer Youth Employment and Training Program.
 
-A prior section 1630, Pub. L. 97–300, title II, §251, as added Pub. L. 99–496, §8(a)(2), Oct. 16, 1986, 100 Stat. 1263, stated purpose of summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
+A prior section 1630, Pub. L. 97–300, title II, §251, as added Pub. L. 99–496, §8(a)(2), Oct. 16, 1986, 100 Stat.1263, stated purpose of summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
 Section 1631, Pub. L. 97–300, title II, §252, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061, related to allotments and allocations.
 

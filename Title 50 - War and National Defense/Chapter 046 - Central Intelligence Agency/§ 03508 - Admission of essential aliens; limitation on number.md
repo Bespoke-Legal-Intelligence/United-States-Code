@@ -18,7 +18,7 @@ A prior section 7 of act June 20, 1949, was renumbered section 6 and is classifi
 
 #### Change of Name
 
-Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organizationand Employees, consolidated Bureaus of Immigration and Naturalization of Department of Labor to form an Immigration and Naturalization Service in Department of Labor, to be administered by a Commissioner of Immigration and Naturalization, which was then transferred from Department of Labor to Department of Justice by Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. Accordingly, "Commissioner of Immigration and Naturalization" was substituted for "Commissioner of Immigration".
+Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated Bureaus of Immigration and Naturalization of Department of Labor to form an Immigration and Naturalization Service in Department of Labor, to be administered by a Commissioner of Immigration and Naturalization, which was then transferred from Department of Labor to Department of Justice by Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. Accordingly, "Commissioner of Immigration and Naturalization" was substituted for "Commissioner of Immigration".
 
 #### Effective Date of 1996 Amendment
 
@@ -30,5 +30,5 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

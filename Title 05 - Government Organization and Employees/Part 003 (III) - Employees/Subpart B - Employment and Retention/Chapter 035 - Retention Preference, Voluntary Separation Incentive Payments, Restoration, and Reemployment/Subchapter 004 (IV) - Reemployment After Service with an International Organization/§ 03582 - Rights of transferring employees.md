@@ -4,7 +4,7 @@
 
 &emsp;(1) to retain coverage, rights, and benefits under any system established by law for the retirement of employees, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the international organization are currently deposited in the system's fund or depository; and the period during which coverage, rights, and benefits are retained under this paragraph is deemed creditable service under the system, except that such service shall not be considered creditable service for the purpose of any retirement system for transferring personnel, if such service forms the basis, in whole or in part, for an annuity or pension under the retirement system of the international organization;
 
-&emsp;(2) to retain coverage, rights, and benefits under chapters 87 and 89 of this title, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the international organization are currently deposited in the Employees' Life Insurance Fund and the Employees' Health Benefits Fund, as applicable, and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapters 87 and 89 of this title;
+&emsp;(2) to retain coverage, rights, and benefits under chapters 87 and 89 of this title, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the international organization are currently deposited in the Employees' Life Insurance Fund and the Employees' Health Benefits Fund, as applicable, and the period during which coverage, rights, and benefits are retained under this paragraph is deemed serviceas an employee under chapters 87 and 89 of this title;
 
 &emsp;(3) to retain coverage, rights, and benefits under subchapter I of chapter 81 of this title, and for this purpose his employment with the international organization is deemed employment by the United States, but if he or his dependents receive from the international organization a payment, allowance, gratuity, payment under an insurance policy for which the premium is wholly paid by the international organization, or other benefit of any kind on account of the same injury or death, the amount thereof is credited against disability or death compensation, as the case may be, payable under subchapter I of chapter 81 of this title; and
 
@@ -26,7 +26,7 @@
 
 > During that reemployment period, the employee is deemed on leave without pay for retirement and insurance purposes.
 
-(d) During the employee's period of service with the international organization, the agencyfrom which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
+(d) During the employee's period of service with the international organization, the agency from which the employee is transferred shall make contributions for retirement and insurance purposes from the appropriations or funds of that agency so long as contributions are made by the employee.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 430; Pub. L. 91–175, pt. V, §502(c)–(f), Dec. 30, 1969, 83 Stat. 825, 826; Pub. L. 94–183, §2(10), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 105–277, div. G, subdiv. B, title XXV, §2504(a), Oct. 21, 1998, 112 Stat. 2681–837.)
 

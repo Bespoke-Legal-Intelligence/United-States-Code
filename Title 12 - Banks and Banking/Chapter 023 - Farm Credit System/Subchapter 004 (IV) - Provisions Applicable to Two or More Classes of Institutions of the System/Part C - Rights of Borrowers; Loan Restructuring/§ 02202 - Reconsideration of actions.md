@@ -22,13 +22,13 @@
 
 #### (c) Personal appearance
 
-An applicant for a loan or for restructuring, who is entitled to and has requested a reviewunder this section, may appear in person before the credit review committee, and may be accompanied by counsel or by any other representative of such person's choice, to seek a reversal of the decision on the application under review.
+An applicant for a loan or for restructuring, who is entitled to and has requested a review under this section, may appear in person before the credit review committee, and may be accompanied by counsel or by any other representative of such person's choice, to seek a reversal of the decision on the application under review.
 
 #### (d) Independent appraisal
 
 #### (1) In general
 
-&emsp;An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+&emsp;An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2), a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
 #### (2) Arrangement and cost
 

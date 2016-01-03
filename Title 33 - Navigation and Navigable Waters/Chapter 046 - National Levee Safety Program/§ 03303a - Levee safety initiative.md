@@ -60,7 +60,7 @@ The Secretary shall appoint—
 
 #### (3) Consistency
 
-&emsp;The hazard potential classification system established pursuant to this subsection shallbe consistent with and incorporated into the levee safety action classification tool developed by the Corps of Engineers.
+&emsp;The hazard potential classification system established pursuant to this subsection shall be consistent with and incorporated into the levee safety action classification tool developed by the Corps of Engineers.
 
 #### (e) Technical assistance and materials
 
@@ -346,7 +346,7 @@ Cost Share.—
 
 &emsp;"(1)
 
-In general.—The non-Federal share of the cost of construction of a project carried out under thissection shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 (33 U.S.C. 2213).
+In general.—The non-Federal share of the cost of construction of a project carried out under this section shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 (33 U.S.C. 2213).
 
 &emsp;"(2)
 

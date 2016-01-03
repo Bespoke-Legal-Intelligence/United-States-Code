@@ -52,7 +52,7 @@ The amount of appropriated Federal funds provided from the Fund by the Secretary
 
 #### (1) State share
 
-&emsp;Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a) of this section, at least 1/3 shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
+&emsp;Of the total cost each fiscal year of each project carried out with amounts provided bythe Secretary under subsection (a) of this section, at least 1/3 shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
 
 #### (2) Private share
 

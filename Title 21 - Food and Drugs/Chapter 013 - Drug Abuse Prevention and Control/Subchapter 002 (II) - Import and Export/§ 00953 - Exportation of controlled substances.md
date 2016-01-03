@@ -66,19 +66,45 @@ Notwithstanding subsections (a)(4) and (c)(3) of this section, the Attorney Gene
 
 &emsp;&emsp;(B) the controlled substance is to be applied exclusively to medical, scientific, or other legitimate uses within the country.
 
-&emsp;(5) The controlled substance will not be exported from the second country.
+&emsp;(5)(A) The controlled substance will not be exported from the second country, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area.
 
-&emsp;(6) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
+&emsp;(B) Subsequent to any re-exportation described in subparagraph (A), a controlled substance may continue to be exported from any country that is a member of the European Economic Area to any other such country, if—
+
+&emsp;&emsp;(i) the conditions applicable with respect to the first country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country from which the controlled substance is exported pursuant to this paragraph; and
+
+&emsp;&emsp;(ii) the conditions applicable with respect to the second country under paragraphs (1), (2), (3), (4), (6), and (7) are met by each subsequent country to which the controlled substance is exported pursuant to this paragraph.
+
+&emsp;(6)(A) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
+
+&emsp;(B) In the case of re-exportation among members of the European Economic Area, within 30 days after each re-exportation, the person who exported the controlled substance from the United States delivers to the Attorney General—
+
+&emsp;&emsp;(i) documentation certifying that such re-exportation has occurred; and
+
+&emsp;&emsp;(ii) information concerning the consignee, country, and product.
 
 &emsp;(7) A permit to export the controlled substance from the United States has been issued by the Attorney General.
 
-(Pub. L. 91–513, title III, §1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, §106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §522, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 109–57, §1(b), Aug. 2, 2005, 119 Stat. 592.)
+#### (g) Limitation
+
+Subject to paragraphs (5) and (6) of subsection (f) in the case of any controlled substance in schedule I or II or any narcotic drug in schedule III or IV, the Attorney General shall not promulgate nor enforce any regulation, subregulatory guidance, or enforcement policy which impedes re-exportation of any controlled substance among European Economic Area countries, including by promulgating or enforcing any requirement that—
+
+&emsp;(1) re-exportation from the first country to the second country or re-exportation from the second country to another country occur within a specified period of time; or
+
+&emsp;(2) information concerning the consignee, country, and product be provided prior to exportation of the controlled substance from the United States or prior to each re-exportation among members of the European Economic Area.
+
+(Pub. L. 91–513, title III, §1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, §106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §522, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 109–57, §1(b), Aug. 2, 2005, 119 Stat. 592; Pub. L. 114–89, §4, Nov. 25, 2015, 129 Stat. 701.)
 
 #### References in Text
 
 Schedules I, II, III, IV and V, referred to in text, are set out in section 812(c) of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f)(5). Pub. L. 114–89, §4(1)(A), designated existing provisions as subpar. (A), inserted ", except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area" before period at end, and added subpar. (B).
+
+Subsec. (f)(6). Pub. L. 114–89, §4(1)(B), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (g). Pub. L. 114–89, §4(2), added subsec. (g).
 
 <b>2005</b>—Subsec. (f). Pub. L. 109–57 added subsec. (f).
 
@@ -88,5 +114,5 @@ Schedules I, II, III, IV and V, referred to in text, are set out in section 812(
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
+Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters intoforce in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 

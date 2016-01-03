@@ -12,13 +12,13 @@ The Secretary of State and the Commissioner of Immigration and Naturalization, i
 
 #### (b) Report
 
-Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a) of this section.
+Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
 (Pub. L. 107–173, title VI, §603, May 14, 2002, 116 Stat. 564.)
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163,as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) appoint persons to such positions.
 
-(2) The rate of pay for a position established under paragraph (1) may not exceed the rate of pay payable for level III of the Executive Schedule under section 5314 of title 5.
+(2) The rate of pay for a position established under paragraph (1) may not exceed the rate ofpay payable for level III of the Executive Schedule under section 5314 of title 5.
 
 (3) To the maximum extent practicable, the Secretary shall appoint persons under paragraph (1)(B) to the positions established under paragraph (1)(A) in accordance with the merit system principles set forth in section 2301 of such title.
 

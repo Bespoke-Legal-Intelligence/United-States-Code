@@ -116,21 +116,89 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
 
-#### (7) 5-year study and demonstration projects
+#### (7) Great Lakes Restoration Initiative
 
-&emsp;(A) The Program Office shall carry out a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes, with emphasis on the removal of toxic pollutants from bottom sediments. In selecting locations for conducting demonstration projects under this paragraph, priority consideration shall be given to projects at the following locations: Saginaw Bay, Michigan; Sheboygan Harbor, Wisconsin; Grand Calumet River, Indiana; Ashtabula River, Ohio; and Buffalo River, New York.
+#### (A) Establishment
 
-&emsp;(B) The Program Office shall—
+&emsp;&emsp;There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the "Initiative") to carry out programs and projects for Great Lakes protection and restoration.
 
-&emsp;&emsp;(i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locations selected for the study and demonstration projects;
+#### (B) Focus areas
 
-&emsp;&emsp;(ii) by December 31, 1990, announce the technologies that will be demonstrated at each location and the numerical standard of protection intended to be achieved at each location;
+&emsp;&emsp;The Initiative shall prioritize programs and projects carried out in coordination with non-Federal partners and programs and projects that address priority areas each fiscal year, including—
 
-&emsp;&emsp;(iii) by December 31, 1992, complete full or pilot scale demonstration projects on site at each location of promising technologies to remedy contaminated sediments; and
+&emsp;&emsp;&emsp;(i) the remediation of toxic substances and areas of concern;
 
-&emsp;&emsp;(iv) by December 31, 1993, issue a final report to Congress on its findings.
+&emsp;&emsp;&emsp;(ii) the prevention and control of invasive species and the impacts of invasive species;
 
-&emsp;(C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protect health, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
+&emsp;&emsp;&emsp;(iii) the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
+
+&emsp;&emsp;&emsp;(iv) habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
+
+&emsp;&emsp;&emsp;(v) accountability, monitoring, evaluation, communication, and partnership activities.
+
+#### (C) Projects
+
+&emsp;&emsp;Under the Initiative, the Agency shall collaborate with Federal partners, including the Great Lakes Interagency Task Force, to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+
+&emsp;&emsp;&emsp;(i) the ability to achieve strategic and measurable environmental outcomes that implement the Great Lakes Action Plan and the Great Lakes Water Quality Agreement;
+
+&emsp;&emsp;&emsp;(ii) the feasibility of—
+
+&emsp;&emsp;&emsp;&emsp;(I) prompt implementation;
+
+&emsp;&emsp;&emsp;&emsp;(II) timely achievement of results; and
+
+&emsp;&emsp;&emsp;&emsp;(III) resource leveraging; and
+
+&emsp;&emsp;&emsp;(iii) the opportunity to improve interagency and inter-organizational coordination and collaboration to reduce duplication and streamline efforts.
+
+#### (D) Implementation of projects
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+
+&emsp;&emsp;&emsp;&emsp;(I) Federal projects; and
+
+&emsp;&emsp;&emsp;&emsp;(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.
+
+#### (ii) Transfer of funds
+
+&emsp;&emsp;&emsp;With amounts made available for the Initiative each fiscal year, the Administrator may—
+
+&emsp;&emsp;&emsp;&emsp;(I) transfer not more than the total amount appropriated under subparagraph (G)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+
+#### (E) Scope
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Projects shall be carried out under the Initiative on multiple levels, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) Great Lakes-wide; and
+
+&emsp;&emsp;&emsp;&emsp;(II) Great Lakes basin-wide.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which amounts are made available from—
+
+&emsp;&emsp;&emsp;&emsp;(I) a State water pollution control revolving fund established under subchapter VI; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a State drinking water revolving loan fund established under section 300j–12 of title 42.
+
+#### (F) Activities by other Federal agencies
+
+&emsp;&emsp;Each relevant Federal department or agency shall, to the maximum extent practicable—
+
+&emsp;&emsp;&emsp;(i) maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
+
+&emsp;&emsp;&emsp;(ii) identify new activities and projects to support the environmental goals of the Initiative.
+
+#### (G) Funding
+
+&emsp;&emsp;There are authorized to be appropriated to carry out this paragraph for fiscal year 2016, $300,000,000.
 
 #### (8) Administrator's responsibility
 
@@ -144,7 +212,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (9) Budget item
 
-&emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include afunding request for the Program Office as a separate budget line item.
+&emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
 
 #### (10) Confined disposal facilities
 
@@ -224,7 +292,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (III) Work performed before project agreement
 
-&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution ofthe agreement shall be eligible for credit.
+&emsp;&emsp;&emsp;&emsp;In any case in which a non-Federal sponsor is to receive credit under subclause (II) for the cost of work carried out by the non-Federal sponsor and such work has not been carried out by the non-Federal sponsor as of October 8, 2008, the Administrator and the non-Federal sponsor shall enter into an agreement under which the non-Federal sponsor shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
 
 #### (IV) Limitation
 
@@ -266,7 +334,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (G) Coordination
 
-&emsp;&emsp;In carrying out projects under this paragraph, the Administrator shall coordinate with the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
+&emsp;&emsp;In carrying out projects under this paragraph, the Administrator shall coordinatewith the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
 
 #### (H) Authorization of appropriations
 
@@ -366,13 +434,15 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 &emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, §426, Dec. 18, 2015, 129 Stat. 2581.)
 
 #### Codification
 
-November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original "the enactment of this Act", and "the date of the enactment of this title" which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
+November 16, 1990, referred to in subsec. (c)(3)(C), was in the original "the enactment of this Act", and "the date of the enactment of this title" which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(7). Pub. L. 114–113 added par. (7) and struck out former par. (7), which required a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes.
 
 <b>2014</b>—Subsec. (c)(10) to (13). Pub. L. 113–188 redesignated pars. (11) to (13) as (10) to (12), respectively, and struck out former par. (10) which required submission of annual comprehensive reports.
 
@@ -428,6 +498,96 @@ Subsec. (h). Pub. L. 101–596, §105, substituted "and 1990, and $25,000,000 fo
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Notification Requirements
+
+Pub. L. 114–113, div. G, title IV, §425, Dec. 18, 2015, 129 Stat. 2580, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
+
+&emsp;"(2)
+
+Affected state.—The term 'affected State' means any of the Great Lakes States (as defined in section 118(a)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1268(a)(3))).
+
+&emsp;"(3)
+
+Discharge.—The term 'discharge' means a discharge as defined in section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362).
+
+&emsp;"(4)
+
+Great lakes.—The term 'Great Lakes' means any of the waters as defined in section 118(a)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1268(a)(3)).
+
+&emsp;"(5)
+
+Treatment works.—The term 'treatment works' has the meaning given the term in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292).
+
+"(b)
+
+Requirements.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall work with affected States having publicly owned treatment works that discharge to the Great Lakes to create public notice requirements for a combined sewer overflow discharge to the Great Lakes.
+
+&emsp;"(2)
+
+Notice requirements.—The notice requirements referred to in paragraph (1) shall provide for—
+
+&emsp;&emsp;"(i) the method of the notice;
+
+&emsp;&emsp;"(ii) the contents of the notice, in accordance with paragraph (3); and
+
+&emsp;&emsp;"(iii) requirements for public availability of the notice.
+
+&emsp;"(3)
+
+Minimum requirements.—
+
+&emsp;&emsp;"(A)
+
+In general.—The contents of the notice under paragraph (1) shall include—
+
+&emsp;&emsp;&emsp;"(i) the dates and times of the applicable discharge;
+
+&emsp;&emsp;&emsp;"(ii) the volume of the discharge; and
+
+&emsp;&emsp;&emsp;"(iii) a description of any public access areas impacted by the discharge.
+
+&emsp;&emsp;"(B)
+
+Consistency.—The minimum requirements under this paragraph shall be consistent for all affected States.
+
+&emsp;"(4)
+
+Additional requirements.—The Administrator shall work with the affected States to include—
+
+&emsp;&emsp;"(A) follow-up notice requirements that provide a description of—
+
+&emsp;&emsp;&emsp;"(i) each applicable discharge;
+
+&emsp;&emsp;&emsp;"(ii) the cause of the discharge; and
+
+&emsp;&emsp;&emsp;"(iii) plans to prevent a reoccurrence of a combined sewer overflow discharge to the Great Lakes consistent with section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) or an administrative order or consent decree under such Act; and
+
+&emsp;&emsp;"(B) annual publication requirements that list each treatment works from which the Administrator or the affected State receive a follow-up notice.
+
+&emsp;"(5)
+
+Timing.—
+
+&emsp;&emsp;"(A) The notice and publication requirements described in this subsection shall be implemented by not later than 2 years after the date of enactment of this Act \[Dec. 18, 2015\].
+
+&emsp;&emsp;"(B) The Administrator of the EPA may extend the implementation deadline for individual communities if the Administrator determines the community needs additional time to comply in order to avoid undue economic hardship.
+
+&emsp;"(6)
+
+State action.—Nothing in this subsection prohibits an affected State from establishing a State notice requirement in the event of a discharge that is more stringent than the requirements described in this subsection."
+
 #### Funds Contributed by a Non-Federal Sponsor
 
 Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: "The Administrator \[of the Environmental Protection Agency\] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) \[now (c)(11)\] of section 118 of the Federal Water Pollution Control Act \[33 U.S.C. 1268(c)(11)\], as amended."
@@ -470,7 +630,7 @@ Site selection for projects.—In selecting the sites for the technology project
 
 &emsp;"(3)
 
-Non-federal share.—Non-Federal interests shall contribute 35 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
+Non-federal share.—Non-Federal interests shall contribute 35 percent of costs of projects underthis subsection. Such costs may be paid in cash or by providing in-kind contributions.
 
 "(c)
 
@@ -522,7 +682,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 (c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
 
-Sec. 4. <i>Great Lakes National Program Office</i>. The Great Lakes National Program Office of the Environmental Protection Agency shall assist the Task Force and the Working Group in the performance of their functions. The Great Lakes National Program Manager shall serve as chair of the Working Group.
+Sec. 4. <i>Great Lakes National Program Office</i>. The Great Lakes National Program Office of the EnvironmentalProtection Agency shall assist the Task Force and the Working Group in the performance of their functions. The Great Lakes National Program Manager shall serve as chair of the Working Group.
 
 Sec. 5. <i>Preservation of Authority</i>. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, regulatory, and legislative proposals. Nothing in this order shall be construed to affect the statutory authority or obligations of any Federal agency or any bi-national agreement with Canada.
 

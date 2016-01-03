@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) invite public comments regarding such transition requirements and final regulations to carry out this chapter; and
 
-&emsp;&emsp;(B) include a general notice of proposed rulemaking (for purposes of section 564(a) of title 5) of the final regulations under subsection (b) of this section.
+&emsp;&emsp;(B) include a general notice of proposed rulemaking (for purposes of section 564(a) of title 5) of the final regulations under subsection (b).
 
 #### (b) Final regulations
 
@@ -70,7 +70,7 @@ The date of enactment of the Native American Housing Assistance and Self-Determi
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted "Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary" for "The Secretary".
+<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–411, §105(1), substituted "Not later than 180 days after the date of enactment of the Native American Housing Assistanceand Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary" for "The Secretary".
 
 Subsec. (b)(2)(C), (D). Pub. L. 110–411, §105(2), added subpars. (C) and (D).
 

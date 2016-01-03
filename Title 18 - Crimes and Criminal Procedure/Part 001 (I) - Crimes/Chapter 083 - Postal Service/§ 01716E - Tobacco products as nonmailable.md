@@ -64,7 +64,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;&emsp;&emsp;(VI) that any mailing described in subparagraph (A) be marked with a United States Postal Service label or marking that makes it clear to employees of the United States Postal Service that it is a permitted mailing of otherwise nonmailable tobacco products that may be delivered only to a permitted government agency or business and may not be delivered to any residence or individual person; and
 
-&emsp;&emsp;&emsp;&emsp;(VII) that any mailing described in subparagraph (A) be delivered only to a verified employee of the recipient business or government agency, who is not aminor and who shall be required to sign for the mailing.
+&emsp;&emsp;&emsp;&emsp;(VII) that any mailing described in subparagraph (A) be delivered only to a verified employee of the recipient business or government agency, who is not a minor and who shall be required to sign for the mailing.
 
 &emsp;&emsp;(C)
 
@@ -106,7 +106,7 @@ Contents.—The final rule issued under clause (i) shall require—
 
 &emsp;&emsp;(C)
 
-Definition.—In this paragraph, the term "minor" means an individual who is less than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
+Definition.—In this paragraph, the term "minor" means an individual who isless than the minimum age required for the legal sale or purchase of tobacco products as determined by applicable law at the place the individual is located.
 
 &emsp;(5)
 
@@ -150,7 +150,7 @@ In general.—Not later than 180 days after the date of enactment of the Prevent
 
 Contents.—The final rule issued under clause (i) shall require—
 
-&emsp;&emsp;&emsp;&emsp;(I) the United States Postal Service to verify that any person submitting a tobacco product into the mails under this paragraph is a legally operating cigarette manufacturer permitted to make a mailing under this paragraph,<sup>3</sup> or anagent legally authorized by the legally operating cigarette manufacturer to submit the tobacco product into the mails on behalf of the manufacturer;
+&emsp;&emsp;&emsp;&emsp;(I) the United States Postal Service to verify that any person submitting a tobacco product into the mails under this paragraph is a legally operating cigarette manufacturer permitted to make a mailing under this paragraph,<sup>3</sup> or an agent legally authorized by the legally operating cigarette manufacturer to submit the tobacco product into the mails on behalf of the manufacturer;
 
 &emsp;&emsp;&emsp;&emsp;(II) the legally operating cigarette manufacturer submitting the cigarettes into the mails under this paragraph to affirm that—
 
@@ -210,7 +210,7 @@ Actions by State, Local, or Tribal Governments Relating to Certain Tobacco Produ
 
 &emsp;(1)
 
-In general.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may in a civil action in a United States district court obtain appropriate relief with respect to a violation of this section. Appropriate relief includes injunctive and equitablerelief and damages equal to the amount of unpaid taxes on tobacco products mailed in violation of this section to addressees in that State, locality, or tribal land.
+In general.—A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer, may in a civil action in a United States district court obtain appropriate relief with respect to a violation of this section. Appropriate relief includes injunctive and equitable relief and damages equal to the amount of unpaid taxes on tobacco products mailed in violation of this section to addressees in that State, locality, or tribal land.
 
 &emsp;(2)
 

@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (3) Marital status
 
-&emsp;An individual legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married.
+&emsp;An individual legally separated from his spouse under a decree of divorce or of separatemaintenance shall not be considered as married.
 
 #### (4) Certain married individuals living apart
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: "The amendments made by this section \[amending this section and sections 23 and 137 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
+Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: "The amendments made by this section \[amending this section and sections 23 and 137 ofthis title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
 
 #### Effective Date of 2001 Amendment
 

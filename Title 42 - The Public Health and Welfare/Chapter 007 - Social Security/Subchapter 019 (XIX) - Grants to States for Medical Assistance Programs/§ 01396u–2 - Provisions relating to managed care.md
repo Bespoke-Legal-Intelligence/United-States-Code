@@ -108,7 +108,7 @@
 
 &emsp;&emsp;In carrying out paragraph (1)(A), the State shall establish a default enrollment process—
 
-&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entity during the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
+&emsp;&emsp;&emsp;(i) under which any such individual who does not enroll with a managed care entityduring the enrollment period specified by the State shall be enrolled by the State with such an entity which has not been found to be out of substantial compliance with the applicable requirements of this section and of section 1396b(m) of this title or section 1396d(t) of this title; and
 
 &emsp;&emsp;&emsp;(ii) that takes into consideration—
 
@@ -182,7 +182,7 @@
 
 #### (B) "Emergency services" defined
 
-&emsp;&emsp;In subparagraph (A)(i), the term "emergency services" means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
+&emsp;&emsp;In subparagraph (A)(i), the term "emergency services" means, with respect to an individual enrolled with an organization,covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -220,7 +220,7 @@
 
 #### (C) "Health care professional" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registeredrespiratory therapist, and certified respiratory therapy technician.
+&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the contract referred to in subparagraph (A) for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
 
 #### (4) Grievance procedures
 
@@ -430,7 +430,7 @@
 
 &emsp;&emsp;&emsp;(ii) With respect to a determination under clause (iii) or (iv)(I) of paragraph (1)(A), not more than $100,000 for each such determination.
 
-&emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of suchsubsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
+&emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of such subsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
 
 &emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual not enrolled as a result of a practice described in such subsection.
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) improvements are made to remedy the violations found under paragraph (1),
 
-&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that the medicaid managed care organization has the capability to ensure that the violations shall not recur.
+&emsp;&emsp;&nbsp;except that temporary management under this subparagraph may not be terminated until the State has determined that themedicaid managed care organization has the capability to ensure that the violations shall not recur.
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
@@ -504,7 +504,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (2) Assurance of payment to Indian health care providers for provision of covered services
 
-&emsp;Each contract with a managed care entity under section 1396b(m) of this title or under section 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
+&emsp;Each contract with a managed care entity under section 1396b(m) of this title or undersection 1396d(t)(3) of this title shall require any such entity, as a condition of receiving payment under such contract, to satisfy the following requirements:
 
 #### (A) Demonstration of access to Indian health care providers and application of alternative payment arrangements
 
@@ -542,7 +542,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (3) Special rule for enrollment for Indian managed care entities
 
-&emsp;Regarding the application of a Medicaid managed care program to Indian Medicaidmanaged care entities, an Indian Medicaid managed care entity may restrict enrollment under such program to Indians in the same manner as Indian Health Programs may restrict the delivery of services to Indians.
+&emsp;Regarding the application of a Medicaid managed care program to Indian Medicaid managed care entities, an Indian Medicaid managed care entity may restrict enrollment under such program to Indians in the same manner as Indian Health Programs may restrict the delivery of services to Indians.
 
 #### (4) Definitions
 

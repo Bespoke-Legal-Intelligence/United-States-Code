@@ -34,7 +34,7 @@ Section 30 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1563, provided that:
 
 #### Increase of Annuities—1957
 
-Pub. L. 85–40, May 31, 1957, 71 Stat. 42, provided: "That the annuities, payable under chapter 607 of title 10, United States Code \[this chapter\], to civilian members of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School are increased as follows: That portion of an annuity which is not in excess of $1,500 is increased by 12 per centum, and that portion of an annuity which is in excess of $1,500 is increased by 8 per centum. These increases shall not exceed the sum necessary to increase the annuity to $4,104, and are in addition to the increases authorized by Public Law 371, Eighty-fourth Congress. The monthly installments of each annuity shall be fixed at the nearest dollar.
+Pub. L. 85–40, May 31, 1957, 71 Stat. 42, provided: "That the annuities, payable under chapter 607 of title10, United States Code \[this chapter\], to civilian members of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School are increased as follows: That portion of an annuity which is not in excess of $1,500 is increased by 12 per centum, and that portion of an annuity which is in excess of $1,500 is increased by 8 per centum. These increases shall not exceed the sum necessary to increase the annuity to $4,104, and are in addition to the increases authorized by Public Law 371, Eighty-fourth Congress. The monthly installments of each annuity shall be fixed at the nearest dollar.
 
 "
 

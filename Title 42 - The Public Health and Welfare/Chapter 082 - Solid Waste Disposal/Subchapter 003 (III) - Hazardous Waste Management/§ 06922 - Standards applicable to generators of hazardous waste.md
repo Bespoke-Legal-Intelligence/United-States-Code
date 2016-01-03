@@ -10,7 +10,7 @@ Not later than eighteen months after October 21, 1976, and after notice and oppo
 
 &emsp;(3) use of appropriate containers for such hazardous waste;
 
-&emsp;(4) furnishing of information on the general chemical composition of such hazardous wasteto persons transporting, treating, storing, or disposing of such wastes;
+&emsp;(4) furnishing of information on the general chemical composition of such hazardous waste to persons transporting, treating, storing, or disposing of such wastes;
 
 &emsp;(5) use of a manifest system and any other reasonable means necessary to assure that all such hazardous waste generated is designated for treatment, storage, or disposal in, and arrives at, treatment, storage, or disposal facilities (other than facilities on the premises where the waste is generated) for which a permit has been issued as provided in this subchapter, or pursuant to title I of the Marine Protection, Research, and Sanctuaries Act (86 Stat. 1052) \[33 U.S.C. 1411 et seq.\]; and
 

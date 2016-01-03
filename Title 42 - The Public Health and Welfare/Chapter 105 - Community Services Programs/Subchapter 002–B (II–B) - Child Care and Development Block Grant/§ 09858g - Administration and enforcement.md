@@ -82,7 +82,7 @@ The Secretary shall—
 
 #### (5) Duration
 
-&emsp;The Secretary may approve a request under this subsection for a period not to exceedthree years, unless a renewal is granted under paragraph (7).
+&emsp;The Secretary may approve a request under this subsection for a period not to exceed three years, unless a renewal is granted under paragraph (7).
 
 #### (6) Termination
 

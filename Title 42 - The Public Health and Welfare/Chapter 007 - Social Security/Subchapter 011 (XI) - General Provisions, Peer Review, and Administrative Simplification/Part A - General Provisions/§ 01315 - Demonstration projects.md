@@ -26,7 +26,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in suchStates to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
@@ -36,7 +36,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 (4) A demonstration project under this subsection may be commenced any time after September 30, 1990, and shall be conducted for such period of time as the agreement with the Secretary may provide; except that, in no event may a demonstration project under this section be conducted after September 30, 1995.
 
-(5)(A) Any State with an agreement under this subsection shall evaluate the comparative cost and employment effects of the use of the definition of unemployment in its demonstration project under this section by use of experimental and control groups comprised of a random sample of individuals receiving aid under section 607 of this title and shall furnish theSecretary with such information as the Secretary determines to be necessary to evaluate the results of the project conducted by the State.
+(5)(A) Any State with an agreement under this subsection shall evaluate the comparative cost and employment effects of the use of the definition of unemployment in its demonstration project under this section by use of experimental and control groups comprised of a random sample of individuals receiving aid under section 607 of this title and shall furnish the Secretary with such information as the Secretary determines to be necessary to evaluate the results of the project conducted by the State.
 
 (B) The Secretary shall report the results of the demonstration projects conducted under this subsection to the Congress not later than 6 months after all such projects are completed.
 
@@ -92,7 +92,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
-&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiverproject is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
+&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
 &emsp;&emsp;(i) approve the application subject to such modifications in the terms and conditions—
 
@@ -130,7 +130,7 @@ Subsec. (f)(6). Pub. L. 111–148, §2601(b)(2)(B), inserted "(5 years, in the c
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §108(g)(2)(A), designated existing provisions as subpar. (A), struck out "603," before "655,", substituted ", and" for period at end, and added subpar. (B).
 
-Subsec. (b). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to purposes, criteria and procedures applicable to establishment, participatory effect, duration and termination of demonstration projects.
+Subsec. (b). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to purposes, criteria and procedures applicable to establishment, participatory effect, duration and termination of demonstration projects.
 
 Subsec. (c). Pub. L. 104–193, §108(g)(2)(C), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
@@ -282,7 +282,7 @@ Nature of Project.—Under each demonstration project conducted under this secti
 
 &emsp;&emsp;"(D) A program to provide participants in the project (to the extent practicable) with such transportation, child care, and equipment as is necessary to carry out the purposes of the project.
 
-&emsp;"(2) The State shall designate two geographical areas within the State to be targeted by the project. One area will serve as the 'home base' for the project, where services will be concentrated and in which a local school system will be selected to receive services and provide facilities for resource referral and counseling. The second geographical area will serve as a 'peripheral' participant, receiving assistance and services from the home base.
+&emsp;"(2) The State shall designate two geographical areas within the State to be targeted by the project.One area will serve as the 'home base' for the project, where services will be concentrated and in which a local school system will be selected to receive services and provide facilities for resource referral and counseling. The second geographical area will serve as a 'peripheral' participant, receiving assistance and services from the home base.
 
 &emsp;"(3) A high-risk teenager is any male or female who has reached the age of 10 years and whose age does not exceed 20 years, and who—
 
@@ -336,7 +336,7 @@ Evaluation and Report.—(1) Each State conducting a demonstration project under
 
 "(f)
 
-Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscalyear for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
+Funding.—(1) Three-fifths of the total amount appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated project home base, and 5 percent of such three-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 
 "(2) Two-fifths of the total amounts appropriated pursuant to this section for any fiscal year for each State conducting a demonstration project shall be expended by such State for the provision of services and facilities within the State's designated peripheral area, and 5 percent of such two-fifths shall be set aside for the conduct of the State's evaluation as provided for in subsection (e).
 
@@ -372,7 +372,7 @@ Pub. L. 93–233, §11, Dec. 31, 1973, 87 Stat. 958, provided that:
 
 > the Secretary may waive such requirements of title XVI of such Act (as enacted by section 301 of the Social Security Amendments of 1972) to such extent as he determines to be necessary to the successful operation of such project.
 
-"(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which there is (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
+"(c) In the case of any State which has entered into an agreement with the Secretary under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (or which is deemed, under section 212(d) of Public Law 93–66 \[set out as a note under section 1382 of this title\], to have entered into such an agreement), then, of the costs of any project of such State with respect to which thereis (solely by reason of the provisions of subsection (a)) Federal financial participation, the non-Federal share thereof shall—
 
 &emsp;"(1) be paid, from time to time, to such State by the Secretary, and
 

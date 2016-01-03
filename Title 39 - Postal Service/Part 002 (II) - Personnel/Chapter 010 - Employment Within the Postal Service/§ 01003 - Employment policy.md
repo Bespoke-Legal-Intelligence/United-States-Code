@@ -34,7 +34,7 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 &emsp;"(1) to an officer or employee who retired, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], for services rendered during such period; and
 
-&emsp;"(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code \[section 5581 et seq.of Title 5, Government Organization and Employees\], relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], by an officer or employee who died during such period.
+&emsp;"(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code \[section 5581 et seq. of Title 5, Government Organization and Employees\], relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], by an officer or employee who died during such period.
 
 > Such retroactive pay, compensation, or salary shall not be considered as basic pay for the purposes of subchapter III of chapter 83 of title 5, United States Code \[section 8331 et seq. of Title 5\], relating to civil service retirement, or any other retirement law or retirement system, in the case of any such retired or deceased officer or employee.
 

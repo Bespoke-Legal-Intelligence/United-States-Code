@@ -6,11 +6,11 @@ In addition to the authority conferred by section 1574(b) of this title, the leg
 
 #### (b) Federal guarantee
 
-The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) of this section the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title.
+The legislature of the government of the Virgin Islands may provide, in connection with any issue of bonds or other obligations authorized to be issued under subsection (a) the proceeds of which are to be used for public works or other capital projects, that a guarantee of such bonds or obligations by the United States should be applied for under section 1574b of this title.
 
 #### (c) Limitations on issuance
 
-Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
+Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a).
 
 (Pub. L. 94–392, §1, Aug. 19, 1976, 90 Stat. 1193; Pub. L. 105–83, title I, §124(c), Nov. 14, 1997, 111 Stat. 1567; Pub. L. 106–84, §1(b)(3), Oct. 28, 1999, 113 Stat. 1295.)
 
@@ -32,5 +32,5 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 
 #### Authorization of Appropriations
 
-Pub. L. 94–392, §6, Aug. 19, 1976, 90 Stat. 1195, provided that: "There are hereby authorized to be appropriatedsuch sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections 1574b to 1574d of this title and amending section 1397 of this title\]."
+Pub. L. 94–392, §6, Aug. 19, 1976, 90 Stat. 1195, provided that: "There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[enacting this section and sections1574b to 1574d of this title and amending section 1397 of this title\]."
 

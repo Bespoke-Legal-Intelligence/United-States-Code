@@ -6,15 +6,17 @@ A Small Grants Program (SGP) shall be established within the United States Agenc
 
 #### (b) Eligibility
 
-Grants from the SGP shall only be made to eligible entities as described in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
+Awards from the SGP shall only be made to eligible entities as described in the joint explanatory statement described in section 4 (in the matter preceding division A of this consolidated Act).
 
 #### (c) Proposals
 
-Grants made pursuant to the authority of this section shall be provided through—
+Awards made pursuant to the authority of this section shall be provided through—
 
-&emsp;(1) unsolicited applications received and evaluated pursuant to USAID policy regarding such proposals; or
+&emsp;(1) unsolicited applications received and evaluated pursuant to USAID policy regarding such proposals;
 
-&emsp;(2) an open and competitive process.
+&emsp;(2) an open and competitive process; or
+
+&emsp;(3) as otherwise allowable under Federal Acquisition Regulations and USAID procurement policies.
 
 #### (d) Funding
 
@@ -30,13 +32,13 @@ Grants made pursuant to the authority of this section shall be provided through�
 
 (2) Upon selection of a mission pursuant to the procedures required by paragraph (1), such selected mission may be allocated the full estimated cost of the multi-year program: <i>Provided</i>, That such allocations shall be subject to the regular notification procedures of the Committees on Appropriations.
 
-(3) In addition to funds otherwise available for such purposes, up to 12 percent of the funds made available to carry out this section may be used by USAID for administrative and oversight expenses associated with managing relationships with entities under the SGP.
+(3) In addition to funds otherwise available for such purposes, up to 20 percent of the funds made available to carry out this section may be used by USAID for administrative expenses, and other necessary support associated with managing and strengthening relationships with entities under the SGP.
 
 #### (f) Report
 
 Not later than 120 days after December 16, 2014, and after consultation with the appropriate congressional committees, the Administrator shall submit a report to such committees describing the guidance to implement the SGP.
 
-(Pub. L. 113–235, div. J, title VII, §7080, Dec. 16, 2014, 128 Stat. 2682.)
+(Pub. L. 113–235, div. J, title VII, §7080, Dec. 16, 2014, 128 Stat. 2682; Pub. L. 114–113, div. K, title VII, §7034(q)(3), Dec. 18, 2015, 129 Stat. 2768.)
 
 #### References in Text
 
@@ -52,7 +54,17 @@ This Act, referred to in subsec. (d)(1), (2), is div. J of Pub. L. 113–235, De
 
 Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
-#### "Appropriate Congressional Committees" Defined
+#### Amendments
+
+<b>2015</b>—Subsecs. (b), (c). Pub. L. 114–113, §7034(q)(3)(A), substituted "Awards" for "Grants".
+
+Subsec. (c)(3). Pub. L. 114–113, §7034(q)(3)(B)–(D), added par. (3).
+
+Subsec. (e)(3). Pub. L. 114–113, §7034(q)(3)(E), substituted "20" for "12" and "administrative expenses, and other necessary support associated with managing and strengthening" for "administrative and oversight expenses associated with managing".
+
+#### Definitions
+
+Pub. L. 114–113, div. K, title VII, §7034(q)(4), Dec. 18, 2015, 129 Stat. 2768, provided that: "For the purposes of section 7080 of Public Law 113–235 \[22 U.S.C. 2152i\], 'eligible entities' shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 in USAID funding over the previous five years: <i>Provided</i>, That departments or centers of such educational institutions may be considered individually in determining such eligibility."
 
 Pub. L. 113–235, div. J, title VII, §7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: "Unless otherwise defined in this Act \[div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification\], for purposes of this Act the term 'appropriate congressional committees' shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
 

@@ -20,7 +20,7 @@ For purposes of this subtitle, the term "dividend" means any distribution of pro
 
 &emsp;&emsp;(A) In the case of a corporation which—
 
-&emsp;&emsp;&emsp;(i) under the law applicable to the taxable year in which the distribution ismade, is a personal holding company (as defined in section 542), or
+&emsp;&emsp;&emsp;(i) under the law applicable to the taxable year in which the distribution is made, is a personal holding company (as defined in section 542), or
 
 &emsp;&emsp;&emsp;(ii) for the taxable year in respect of which the distribution is made under section 563(b) (relating to dividends paid after the close of the taxable year), or section 547 (relating to deficiency dividends), or the corresponding provisions of prior law, is a personal holding company under the law applicable to such taxable year,
 

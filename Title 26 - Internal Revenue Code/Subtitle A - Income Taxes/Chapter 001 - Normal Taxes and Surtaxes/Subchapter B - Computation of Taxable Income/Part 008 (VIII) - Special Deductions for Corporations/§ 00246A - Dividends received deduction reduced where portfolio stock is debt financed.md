@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any dividend on debt-financed portfolio stock, there shall be substituted forthe percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
+In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
 
 &emsp;(1) 70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
 

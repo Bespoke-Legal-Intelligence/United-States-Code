@@ -82,7 +82,7 @@ Section was formerly classified to section 432 of this title prior to editorial 
 
 #### Prior Provisions
 
-A prior section 702 of act July 26, 1947, ch. 343, title VII, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573. Section 431 of this title was editorially reclassified and renumbered as section 3141 of this title.
+A prior section 702 of act July 26, 1947, ch. 343, title VII, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat.2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573. Section 431 of this title was editorially reclassified and renumbered as section 3141 of this title.
 
 #### Amendments
 

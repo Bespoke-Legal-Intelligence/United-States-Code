@@ -32,7 +32,7 @@ In subsection (b), the words "so submitted" are omitted as unnecessary. The word
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177, §222(a), substituted "On or before the first Monday after January 3 of each year (on or before February 5 in 1986)" for "Before November 11 of each year".
+<b>1985</b>—Subsec. (a). Pub. L. 99–177, §222(a), substituted "On or before the first Monday after January 3 of eachyear (on or before February 5 in 1986)" for "Before November 11 of each year".
 
 Subsec. (b). Pub. L. 99–177, §222(b), substituted "March 1" for "January 1".
 

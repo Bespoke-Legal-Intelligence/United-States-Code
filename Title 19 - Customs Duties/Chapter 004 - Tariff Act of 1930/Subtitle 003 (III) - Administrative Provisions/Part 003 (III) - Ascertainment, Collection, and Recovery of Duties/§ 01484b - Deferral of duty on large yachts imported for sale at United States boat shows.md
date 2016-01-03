@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
+Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
 
 #### (b) Definition
 
-As used in this section, the term "large yacht" means a vessel that exceeds 79 feet inlength, is used primarily for recreation or pleasure, and has been previously sold by a manufacturer or dealer to a retail consumer.
+As used in this section, the term "large yacht" means a vessel that exceeds 79 feet in length, is used primarily for recreation or pleasure, and has been previously sold by a manufacturer or dealer to a retail consumer.
 
 #### (c) Deferral of duty
 
@@ -24,7 +24,7 @@ At the time of importation of any large yacht, if such large yacht is imported f
 
 &emsp;&emsp;(A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-&emsp;&emsp;(B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+&emsp;&emsp;(B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
 #### (e) Procedures upon expiration of bond period
 
@@ -34,7 +34,7 @@ At the time of importation of any large yacht, if such large yacht is imported f
 
 &emsp;&emsp;(A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-&emsp;&emsp;(B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+&emsp;&emsp;(B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
 #### (2) Additional requirements
 

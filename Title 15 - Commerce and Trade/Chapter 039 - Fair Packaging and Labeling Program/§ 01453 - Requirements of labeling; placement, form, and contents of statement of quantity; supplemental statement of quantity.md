@@ -22,7 +22,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(C) shall contain letters or numerals in a type size which shall be (i) established in relationship to the area of the principal display panel of the package, and (ii) uniform for all packages of substantially the same size; and
 
-&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statement are generally parallel to the base on which the package rests as it is designed to be displayed; and
+&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statementare generally parallel to the base on which the package rests as it is designed to be displayed; and
 
 &emsp;(4) The label of any package of a consumer commodity which bears a representation as to the number of servings of such commodity contained in such package shall bear a statement of the net quantity (in terms of weight or mass, measure, or numerical count) of each such serving.
 
@@ -32,7 +32,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 #### (b) Supplemental statements
 
-No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity if any qualifying words or phrases appear in conjunction with the separate statement of the net quantity of contents required by subsection (a) of this section, but nothing in this subsection or in paragraph (2) of subsection (a) of this section shall prohibit supplemental statements, at other places on the package, describing in nondeceptive terms the net quantity of contents: <i>Provided</i>, That such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of the commodity contained in the package.
+No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity if any qualifying words or phrases appear in conjunction with the separate statement of the net quantity of contents required by subsection (a), but nothing in this subsection or in paragraph (2) of subsection (a) shall prohibit supplemental statements, at other places on the package, describing in nondeceptive terms the net quantity of contents: <i>Provided</i>, That such supplemental statements of net quantity of contents shall not include any term qualifying a unit of weight or mass, measure, or count that tends to exaggerate the amount of the commodity contained in the package.
 
 (Pub. L. 89–755, §4, Nov. 3, 1966, 80 Stat. 1297; Pub. L. 102–245, title I, §107(a), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102–329, §§1, 3, Aug. 3, 1992, 106 Stat. 847, 848.)
 

@@ -152,7 +152,7 @@ The term "undue burden" means significant difficulty or expense. In determining 
 
 #### (iv) Additional market areas
 
-&emsp;&emsp;&emsp;Ten years after October 8, 2010, the Commission shall have the authority, based upon the findings, conclusions, and recommendations contained in the report under clause (iii), to phase in the video description regulations for up to an additional 10 designated market areas each year—
+&emsp;&emsp;&emsp;Ten years after October 8, 2010, the Commission shall have the authority, basedupon the findings, conclusions, and recommendations contained in the report under clause (iii), to phase in the video description regulations for up to an additional 10 designated market areas each year—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the costs of implementing the video description regulations to program owners, providers, and distributors in those additional markets are reasonable, as determined by the Commission; and
 
@@ -186,7 +186,7 @@ Nothing in this section shall be construed to authorize any private right of act
 
 #### References in Text
 
-Subsection (e)(1) of the Twenty-First Century Communications and Video Accessibility Act of 2010 and subsection (e)(2), referred to in subsecs. (c)(2)(A) and\(g), respectively, probably mean subsections (e)(1) and (e)(2) of section 201 of Pub. L. 111–260, which are set out as a note under this section.
+Subsection (e)(1) of the Twenty-First Century Communications and Video Accessibility Act of 2010 and subsection (e)(2), referred to in subsecs. (c)(2)(A) and (g), respectively, probably mean subsections (e)(1) and (e)(2) of section 201 of Pub. L. 111–260, which are set out as a note under this section.
 
 The Act, referred to in subsec. (c)(2)(D)(v), (vi), probably means act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

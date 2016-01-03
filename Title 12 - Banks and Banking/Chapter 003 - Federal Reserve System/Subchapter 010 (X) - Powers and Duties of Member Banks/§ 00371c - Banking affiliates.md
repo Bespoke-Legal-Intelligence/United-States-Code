@@ -12,7 +12,7 @@
 
 (3) A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
 
-(4) Any covered transactions and any transactions exempt under subsection (d) of this section between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
+(4) Any covered transactions and any transactions exempt under subsection (d) between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
 
 #### (b) Definitions
 
@@ -124,9 +124,9 @@ Rebuttable presumption of control of portfolio companies.—In addition to parag
 
 #### (d) Exemptions
 
-The provisions of this section, except subsection (a)(4) of this section, shall not be applicable to—
+The provisions of this section, except paragraph (a)(4),<sup>1</sup> shall not be applicable to—
 
-&emsp;(1) any transaction, subject to the prohibition contained in subsection (a)(3) of this section, with a bank—
+&emsp;(1) any transaction, subject to the prohibition contained in subsection (a)(3), with a bank—
 
 &emsp;&emsp;(A) which controls 80 per centum or more of the voting shares of the member bank;
 
@@ -148,7 +148,7 @@ The provisions of this section, except subsection (a)(4) of this section, shall 
 
 &emsp;(5) purchasing securities issued by any company of the kinds described in section 1843(c)(1) of this title;
 
-&emsp;(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+&emsp;(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3), purchasing loans on a nonrecourse basis from affiliated banks; and
 
 &emsp;(7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
 
@@ -220,7 +220,7 @@ Effective date.—The effective date of any final rule adopted by the Board purs
 
 (4)
 
-Amounts of covered transactions.—The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection\(d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
+Amounts of covered transactions.—The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
 
 (Dec. 23, 1913, ch. 6, §23A, as added June 16, 1933, ch. 89, §13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717; June 30, 1954, ch. 434, §1, 68 Stat. 358; Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, §121(b), Nov. 12, 1999, 113 Stat. 1378; Pub. L. 111–203, title VI, §§608(a), 609(a), July 21, 2010, 124 Stat. 1608, 1611.)
 
@@ -290,9 +290,9 @@ Subsec. (e). Pub. L. 106–102, §121(b)(1)(B), added subsec. (e). Former subsec
 
 Subsec. (f). Pub. L. 106–102, §121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
-<b>1983</b>—Subsec. (d)(1). Pub. L. 97–457, §22(1), substituted "subject to the prohibition contained in subsection (a)(3) of this section" for "except for the purchase of a low-quality asset which is prohibited".
+<b>1983</b>—Subsec. (d)(1). Pub. L. 97–457, §22(1), substituted "subject to the prohibition contained in subsection (a)(3)" for "except for the purchase of a low-quality asset which is prohibited".
 
-Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibition contained in subsection (a)(3) of this section," after "market quotation or".
+Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibition contained in subsection (a)(3)," after "market quotation or".
 
 <b>1982</b>—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
@@ -300,7 +300,7 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibiti
 
 "Within the foregoing limitations, each loan or extension of credit of any kind or character to an affiliate shall be secured by collateral in the form of stocks, bonds, debentures, or other such obligations having a market value at the time of making the loan or extension of credit of at least 20 per centum more than the amount of the loan or extension of credit, or of at least 10 per centum more than the amount of the loan or extension of credit if it is secured by obligations of any State or of any political subdivision or agency thereof: <i>Provided</i>, That the provisions of this paragraph shall not apply to loans or extensions of credit secured by obligations of the United States Government, the Federal intermediate credit banks, the Federal land banks, or the Federal Home Loan Banks, or by such notes, drafts, bills of exchange, or bankers' acceptances as are eligible for rediscount or for purchase by Federal Reserve Banks. A loan or extension of credit to a director, officer, clerk, or other employee, or any representative of any such affiliate, shall be deemed a loan to the affiliate to the extent that the proceeds of such loan are used for the benefit of or transferred to the affiliate.
 
-"The provisions of this section shall not apply to any affiliate (1) engaged solely in holding the bank premises of the member bank with which it is affiliated; (2) engaged solely in conducting a safe-deposit business or the business of an agricultural credit corporation or livestock loan company; (3) in the capital stock of which a national banking association is authorized to invest pursuant to section 25 of this Act, as amended \[12 U.S.C. 601 et seq.\], or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (4) organized under section 25(a) of this Act, as amended \[12 U.S.C. 611 et seq.\], of this title, or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (5) engaged solely in holding obligations of the United States or obligations fully guaranteed by the United States as to principal and interest, the Federal intermediate credit banks, the Federal land banks, the Federal Home Loan Banks; (6) where the affiliate relationship has arisen out of a bona fide debt contracted prior to the date of the creation of such relationship; or (7) where the affiliate relationship exists by reason of the ownership or control of any voting shares thereof by a member bank as executor, administrator, trustee, receiver, agent, depositary, or in any other fiduciary capacity, except where such shares are held for the benefit of all or a majority of the stockholders of such member bank; but as to any such affiliate, member banks shall continue to be subject to other provisions of law applicable to loans by such banks and investments by such banks in stocks, bonds, debentures, or other such obligations. The provisions of this section shall likewise not apply to indebtedness of any affiliate for unpaid balances due a bank on assets purchased from such bank or to loans secured by, or extensions of credit against, obligations of the United States or obligations fully guaranteed by the United States as to principal and interest.
+"The provisions of this section shall not apply to any affiliate (1) engaged solely in holding the bank premises of the member bank with which it is affiliated; (2) engaged solely in conducting a safe-deposit business or the business of an agricultural credit corporation or livestock loan company; (3) in the capital stock of which a national banking association is authorized to invest pursuant to section 25 of this Act, as amended \[12 U.S.C. 601 et seq.\], or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (4) organized under section 25(a) of this Act, as amended \[12 U.S.C. 611 et seq.\], of this title, or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (5) engaged solely in holding obligations of the United States or obligations fully guaranteed by the United States as to principal and interest, the Federal intermediate credit banks, the Federal land banks, the Federal Home Loan Banks; (6) where the affiliate relationship has arisen out of a bona fide debt contracted prior to the date of the creation of such relationship; or (7) where the affiliate relationship exists by reason of the ownership or control of any voting shares thereof by a member bank as executor, administrator, trustee, receiver, agent, depositary, or in any other fiduciary capacity, except where such shares are held for the benefit of all or a majority of the stockholders of such member bank; but as to any such affiliate, member banks shall continue to be subject to other provisions of law applicable to loans by such banks and investments by such banks in stocks, bonds,debentures, or other such obligations. The provisions of this section shall likewise not apply to indebtedness of any affiliate for unpaid balances due a bank on assets purchased from such bank or to loans secured by, or extensions of credit against, obligations of the United States or obligations fully guaranteed by the United States as to principal and interest.
 
 "For the purposes of this section, (1) the term 'extension of credit' and 'extensions of credit' shall be deemed to include (A) any purchase of securities, other assets or obligations under repurchase agreement, and (B) the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, except that the acquisition of such paper by a member bank from another bank, without recourse, shall not be deemed to be a 'discount' by such member bank for such other bank; and (2) noninterest-bearing deposits to the credit of a bank shall not be deemed to be a loan or advance or extension of credit to the bank of deposit, nor shall the giving of immediate credit to a bank upon uncollected items received in the ordinary course of business be deemed to be a loan or advance or extension of credit to the depositing bank.
 
@@ -318,7 +318,7 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibiti
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611, provided that: "The amendments made by this section \[amending this section and sections 371c–1and 1468 of this title\] shall take effect 1 year after the transfer date."
+Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611, provided that: "The amendments made by this section \[amending this section and sections 371c–1 and 1468 of this title\] shall take effect 1 year after the transfer date."
 
 \[For definition of "transfer date" as used in section 608(d) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
@@ -341,4 +341,6 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: "Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title\], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act."
+
+<i><sup>1</sup></i><i> So in original. Probably should read "subsection (a)(4),".</i>
 

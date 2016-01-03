@@ -6,8 +6,9 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 241 - General](Chapter%20241%20-%20General/README.md)
+- [Chapter 242 - Project Delivery](Chapter%20242%20-%20Project%20Delivery/README.md)
 - [Chapter 243 - Amtrak](Chapter%20243%20-%20Amtrak/README.md)
-- [Chapter 244 - Intercity Passenger Rail Service Corridor Capital Assistance](Chapter%20244%20-%20Intercity%20Passenger%20Rail%20Service%20Corridor%20Capital%20Assistance/README.md)
+- [Chapter 244 - Rail Improvement Grants](Chapter%20244%20-%20Rail%20Improvement%20Grants/README.md)
 - [Chapter 245 - Repealed](Chapter%20245%20-%20Repealed/README.md)
 - [Chapter 247 - Amtrak Route System](Chapter%20247%20-%20Amtrak%20Route%20System/README.md)
 - [Chapter 249 - Northeast Corridor Improvement Program](Chapter%20249%20-%20Northeast%20Corridor%20Improvement%20Program/README.md)

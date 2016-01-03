@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
+&emsp;Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
 
 &emsp;&emsp;(A) terminate payments under this chapter to the recipient;
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
+&emsp;If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
 
 &emsp;&emsp;(A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -66,13 +66,13 @@
 
 &emsp;&emsp;(A) has made a good faith effort to meet the compliance objectives specified in the agreement, the Secretary may enter into an additional performance agreement for the period specified in paragraph (2); and
 
-&emsp;&emsp;(B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a) of this section.
+&emsp;&emsp;(B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a).
 
 #### (c) Referral for civil action
 
 #### (1) Authority
 
-&emsp;In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+&emsp;In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the UnitedStates with a recommendation that an appropriate civil action be instituted.
 
 #### (2) Civil action
 
@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;Any recipient who receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter—
+&emsp;Any recipient who receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter—
 
 &emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 
@@ -114,7 +114,7 @@
 
 &emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569,title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965; Pub. L. 110–411, title IV, §401, Oct. 14, 2008, 122 Stat. 4330.)
+(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965; Pub. L. 110–411, title IV, §401, Oct. 14, 2008, 122 Stat. 4330.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 #### (b) Fee amount
 
-The machine-readable visa fee charged by the Department of State shall be the higher of $65 orthe cost of the machine-readable visa service, as determined by the Secretary of State after conducting a study of the cost of such service.
+The machine-readable visa fee charged by the Department of State shall be the higher of $65 or the cost of the machine-readable visa service, as determined by the Secretary of State after conducting a study of the cost of such service.
 
 #### (c) Surcharge
 

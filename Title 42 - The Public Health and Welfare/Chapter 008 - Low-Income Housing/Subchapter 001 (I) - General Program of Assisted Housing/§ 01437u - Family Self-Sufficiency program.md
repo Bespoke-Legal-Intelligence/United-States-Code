@@ -16,13 +16,13 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;&emsp;(C) effective on October 21, 1998, to the extent an agency is not required to carry out a program pursuant to subparagraph (B) of this paragraph and paragraph (4), may carry out a local Family Self-Sufficiency program under this section.
 
-> &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) of this section and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program mayemploy a service coordinator to administer the local program.
+> &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) of this section and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program may employ a service coordinator to administer the local program.
 
 #### (2) Exception
 
 &emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
 
-&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act;
+&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act;
 
 &emsp;&emsp;(B) lack of funding for reasonable administrative costs;
 
@@ -104,7 +104,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (1) Maximum rents
 
-&emsp;During the term of the contract of participation, the amount of rent paid by any participating family whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide for increased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family.
+&emsp;During the term of the contract of participation, the amount of rent paid by any participating family whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide forincreased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family.
 
 #### (2) Escrow savings accounts
 
@@ -122,11 +122,11 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (1) Functions
 
-&emsp;Each public housing agency carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, developan action plan under subsection (g) of this section, carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by the public housing agency under this subsection.
+&emsp;Each public housing agency carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (g) of this section, carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by the public housing agency under this subsection.
 
 #### (2) Membership
 
-&emsp;The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>2</sup> of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
+&emsp;The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
 
 #### (g) Action plan
 
@@ -136,7 +136,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Development of plan
 
-&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>2</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
+&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
 
 #### (3) Contents of plan
 
@@ -156,7 +156,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 &emsp;&emsp;(G) a timetable for implementation of the local program;
 
-&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F <sup>2</sup> of title IV of the Social Security Act and programs under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
+&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act and programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
 
 &emsp;&emsp;(I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to public housing or section 8 \[42 U.S.C. 1437f\] assistance notwithstanding the provisions of this section.
 
@@ -164,11 +164,11 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (1) Fees under section 1437f
 
-&emsp;The Secretary shall establish a fee under section 1437f(q) of this title for the costs incurred in administering the provision of certificate and voucher assistance under section 1437f of this title through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) <sup>2</sup> of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
+&emsp;The Secretary shall establish a fee under section 1437f(q) of this title for the costs incurred in administering the provision of certificate and voucher assistance under section 1437f of this title through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) <sup>1</sup> of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
 
 #### (2) Performance funding system
 
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-timeservice coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
+&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
 
 #### (i) Public housing agency incentive award allocation
 
@@ -178,7 +178,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>2</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -186,7 +186,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (4) Reservation of budget authority
 
-&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucher programs for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
+&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucherprograms for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
 
 #### (j) On-site facilities
 
@@ -244,27 +244,11 @@ As used in this section:
 
 (Sept. 1, 1937, ch. 896, title I, §23, as added Pub. L. 101–625, title V, §554(a), Nov. 28, 1990, 104 Stat. 4225; amended Pub. L. 102–550, title I, §§106, 185(b), Oct. 28, 1992, 106 Stat. 3684, 3747; Pub. L. 104–316, title I, §122(l), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §509(a), Oct. 21, 1998, 112 Stat. 2530; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(31), (f)(23)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 113–128, title V, §512(ii), July 22, 2014, 128 Stat. 1721.)
 
-#### Amendment of Section
-
-<i>Pub. L. 113–128, title V, §§506, 512(ii), July 22, 2014, 128 Stat. 1703, 1721, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(2)(A), by striking "lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998" and inserting "lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act";</i>
-
-<i>(2) in subsection (f)(2), by striking "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act," and inserting "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,"; and</i>
-
-<i>(3) in subsection (g):</i>
-
-<i>(A) in paragraph (2), by striking "any local agencies responsible for programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act" and inserting "any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act"; and</i>
-
-<i>(B) in paragraph (3)(H), by striking "programs under title I of the Workforce Investment Act of 1998 and any other relevant employment, child care, transportation, training, and education programs in the applicable area" and inserting "programs under title I of the Workforce Innovation and Opportunity Act and any other relevant employment, child care, transportation, training, and education programs in the applicable area".</i>
-
-<i>See 2014 Amendment notes below.</i>
-
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -274,7 +258,7 @@ Section 1437g(c) of this title, referred to in subsec. (h)(2), was amended gener
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–128, §512(ii)(1), substituted "lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act" for "lack of supportive services accessible to eligible families,which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998".
+<b>2014</b>—Subsec. (b)(2)(A). Pub. L. 113–128, §512(ii)(1), substituted "lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act" for "lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998".
 
 Subsec. (f)(2). Pub. L. 113–128, §512(ii)(2), substituted "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act," for "the local agencies (if any) responsible for carrying out programs under title I of the Workforce Investment Act of 1998 or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act,".
 
@@ -338,7 +322,7 @@ Subsec. (o)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text 
 
 Subsec. (b)(4). Pub. L. 102–550, §106(c), added par. (4).
 
-Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted ", shall establish specific interim and final goals by which compliance with and performance of the contract may be measured," after "program" and substituted last sentence for former last sentence which read as follows: "The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract."
+Subsec. (c)(1). Pub. L. 102–550, §106(d), in second sentence, inserted ", shall establish specific interim and final goals by which compliance with and performance of the contract may be measured," after "program"and substituted last sentence for former last sentence which read as follows: "The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this section if the family fails to comply with the requirements under the contract."
 
 Subsec. (c)(2). Pub. L. 102–550, §106(e), struck out "to each participating family" after "paragraph (1)" in introductory provisions.
 
@@ -362,7 +346,7 @@ Applicability to indian public housing.—In accordance with section 1437aa(b)(2
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendments
 
@@ -380,7 +364,5 @@ Pub. L. 101–625, title V, §554(b), Nov. 28, 1990, 104 Stat. 4231, directed Co
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "performance".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "performance".</i>
 

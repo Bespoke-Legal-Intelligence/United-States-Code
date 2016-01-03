@@ -10,7 +10,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "automated licensing system" means an electronic, computerized licensingsystem used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
+&emsp;&emsp;The term "automated licensing system" means an electronic, computerized licensing system used by a State fish and wildlife agency to issue hunting, fishing, and other associated licenses and products.
 
 #### (B) Inclusion
 

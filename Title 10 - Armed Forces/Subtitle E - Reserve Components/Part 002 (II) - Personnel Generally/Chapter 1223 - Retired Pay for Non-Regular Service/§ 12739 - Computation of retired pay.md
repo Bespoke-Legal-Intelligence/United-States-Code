@@ -32,13 +32,67 @@
 
 &emsp;(C) fails to complete the minimum two years of service solely because the appointment of the member to such position is terminated or vacated as described in section 324(b) of title 32.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365; Pub. L. 114–92, div. A, title VI, §631(b), Nov. 25, 2015, 129 Stat. 843.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–92, div. A, title VI, §§631(b), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:</i>
+
+<i>(f)</i>
+
+<i>Modernized Retirement System.—</i>
+
+&emsp;<i>(1)</i>
+
+<i>Reduced multiplier for full tsp members.—Notwithstanding subsection (a) or (c), in the case of a person who first performs reserve component service on or after January 1, 2018, after not having performed regular or reserve component service on or before that date, or a person who makes the election described in paragraph (2) (referred to as a "full TSP member")—</i>
+
+&emsp;&emsp;<i>(A) subsection (a)(2) shall be applied by substituting "2 percent" for "2½ percent";</i>
+
+&emsp;&emsp;<i>(B) subparagraph (A) of subsection (c)(2) shall be applied by substituting "60 percent" for "75 percent"; and</i>
+
+&emsp;&emsp;<i>(C) subparagraph (B)(ii) of such subsection shall be applied by substituting "2 percent" for "2½ percent".</i>
+
+&emsp;<i>(2)</i>
+
+<i>Election to participate in modernized retirement system.—</i>
+
+&emsp;&emsp;<i>(A)</i>
+
+<i>In general.—Pursuant to subparagraph (B), a person performing reserve component service on December 31, 2017, who has performed fewer than 12 years of service as of December 31, 2017 (as computed in accordance with section 12733 of this title), may elect, in exchange for the reduced multipliers described in paragraph (1) for purposes of calculating the retired pay of the person, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.</i>
+
+&emsp;&emsp;<i>(B)</i>
+
+<i>Election period.—</i>
+
+&emsp;&emsp;&emsp;<i>(i)</i>
+
+<i>In general.—Except as provided in clauses (ii) and (iii), a person described in subparagraph (A) may make the election described in that subparagraph during the period that begins on January 1, 2018, and ends on December 31, 2018.</i>
+
+&emsp;&emsp;&emsp;<i>(ii)</i>
+
+<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a person who experiences a hardship as determined by the Secretary concerned.</i>
+
+&emsp;&emsp;&emsp;<i>(iii)</i>
+
+<i>Persons experiencing break in service.—A person returning to reserve component service after a break in reserve component service in which falls the election period specified in clause (i) shall make the election described in subparagraph (A) on the date of the reentry into service of the person.</i>
+
+&emsp;&emsp;<i>(C)</i>
+
+<i>No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a person making an election pursuant to subparagraph (A) for any pay period beginning before the date of the person's election under that subparagraph by reason of the person's election.</i>
+
+&emsp;<i>(3)</i>
+
+<i>Regulations.—The Secretary concerned shall prescribe regulations to implement this subsection.</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in formula 3 of the table in section 1401(a) of this title, prior to amendment by Pub. L. 103–337, §1662(j)(2).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
 <b>2009</b>—Subsec. (e). Pub. L. 111–84 added subsec. (e).
 
@@ -50,9 +104,13 @@ Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c
 
 Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shalltake effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date."
+Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2002, and shall apply with respect to retired pay for months beginning on or after that date."
 
 #### Effective Date
 

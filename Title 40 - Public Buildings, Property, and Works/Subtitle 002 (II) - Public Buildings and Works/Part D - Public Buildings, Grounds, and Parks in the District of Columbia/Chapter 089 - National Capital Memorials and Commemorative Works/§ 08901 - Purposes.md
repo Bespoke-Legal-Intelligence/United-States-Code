@@ -46,5 +46,5 @@ Pub. L. 108–126, title II, §202(a), Nov. 17, 2003, 117 Stat. 1349, provided t
 
 &emsp;"(1) the great cross-axis of the Mall in the District of Columbia, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, is a substantially completed work of civic art; and
 
-&emsp;"(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the greatcross-axis of the Mall where the siting of new commemorative works is prohibited."
+&emsp;"(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited."
 

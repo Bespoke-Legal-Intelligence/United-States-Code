@@ -1,6 +1,6 @@
 ### §476. Taking impressions of tools used for obligations or securities
 
-Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, analog, digital, or electronic image, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted orintended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 25 years, or both.
+Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, analog, digital, or electronic image, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted or intended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 25 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(f), Oct. 26, 2001, 115 Stat. 341.)
 

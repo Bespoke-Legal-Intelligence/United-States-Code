@@ -2,7 +2,7 @@
 
 #### (a) Delegation
 
-All authority vested in the Administrator by virtue of the provisions of this subchapter may with like force and effect be executed by such employees of the Environmental ProtectionAgency as the Administrator may designate for the purpose.
+All authority vested in the Administrator by virtue of the provisions of this subchapter may with like force and effect be executed by such employees of the Environmental Protection Agency as the Administrator may designate for the purpose.
 
 #### (b) Cooperation
 

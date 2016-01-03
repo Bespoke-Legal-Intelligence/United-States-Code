@@ -42,11 +42,11 @@ Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: "
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: "That this Act \[enacting sections 1929b, 1934, 1981a, 1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16\] may be cited as the 'Agricultural Credit Act of 1978'."
+Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: "That this Act \[enacting sections 1929b, 1934, 1981a,1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16\] may be cited as the 'Agricultural Credit Act of 1978'."
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–419, §1, Aug. 30, 1972, 86 Stat. 657, provided: "That this Act \[enacting sections 1010a, 1929a, 1931 to1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590o, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the 'Rural Development Act of 1972'."
+Pub. L. 92–419, §1, Aug. 30, 1972, 86 Stat. 657, provided: "That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590o, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the 'Rural Development Act of 1972'."
 
 #### Short Title
 

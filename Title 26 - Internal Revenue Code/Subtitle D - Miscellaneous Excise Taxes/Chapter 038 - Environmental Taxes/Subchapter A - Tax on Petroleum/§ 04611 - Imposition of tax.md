@@ -212,5 +212,5 @@ Pub. L. 96–510, title II, §211(c), Dec. 11, 1980, 94 Stat. 2801, provided tha
 
 #### Short Title
 
-For short title of title II of Pub. L. 96–510 as the "Hazardous Substance Response Revenue Act of 1980",see Short Title of 1980 Amendment note, set out under section 1 of this title.
+For short title of title II of Pub. L. 96–510 as the "Hazardous Substance Response Revenue Act of 1980", see Short Title of 1980 Amendment note, set out under section 1 of this title.
 

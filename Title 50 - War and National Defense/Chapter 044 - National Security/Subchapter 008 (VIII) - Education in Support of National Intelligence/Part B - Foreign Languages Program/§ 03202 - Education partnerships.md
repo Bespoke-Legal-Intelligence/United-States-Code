@@ -8,7 +8,7 @@ In carrying out the Foreign Languages Program, the head of a covered element of 
 
 Under an educational partnership agreement entered into with an educational institution pursuant to this section, the head of a covered element of the intelligence community may provide the following assistance to the educational institution:
 
-&emsp;(1) The loan of equipment and instructional materials of the element of the intelligence community to the educational institution for any purpose and duration that the head of the element considers appropriate.
+&emsp;(1) The loan of equipment and instructional materials of the element of the intelligencecommunity to the educational institution for any purpose and duration that the head of the element considers appropriate.
 
 &emsp;(2) Notwithstanding any other provision of law relating to the transfer of surplus property, the transfer to the educational institution of any computer equipment, or other equipment, that is—
 

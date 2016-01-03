@@ -46,7 +46,7 @@ The Director—
 
 &emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
 
-&emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of National Drug Control Program agencies, and changes in the allocation of personnel to and withinthose departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
+&emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of National Drug Control Program agencies, and changes in the allocation of personnel to and within those departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
 
 &emsp;(5) shall consult with and assist State and local governments with respect to the formulation and implementation of National Drug Control Policy and their relations with the National Drug Control Program agencies;
 
@@ -84,7 +84,7 @@ The Director—
 
 &emsp;&emsp;(E) implementation of drug treatment and prevention programs in the United States and improvements in the adequacy and effectiveness of such programs;
 
-&emsp;(14) shall submit to the appropriate congressional committees on an annual basis, not later than 60 days after the date of the last day of the applicable period, a summary of—
+&emsp;(14) shall submit to the appropriate congressional committees on an annual basis, notlater than 60 days after the date of the last day of the applicable period, a summary of—
 
 &emsp;&emsp;(A) each of the evaluations received by the Director under paragraph (13); and
 
@@ -110,7 +110,7 @@ The Director—
 
 &emsp;(19) shall submit an annual report to Congress detailing how the Office of National Drug Control Policy has consulted with and assisted State, local, and tribal governments with respect to the formulation and implementation of the National Drug Control Strategy and other relevant issues; and
 
-&emsp;(20) shall, within 1 year after December 29, 2006, report to Congress on the impact of eachFederal drug reduction strategy upon the availability, addiction rate, use rate, and other harms of illegal drugs.
+&emsp;(20) shall, within 1 year after December 29, 2006, report to Congress on the impact of each Federal drug reduction strategy upon the availability, addiction rate, use rate, and other harms of illegal drugs.
 
 #### (c) National Drug Control Program budget
 
@@ -210,7 +210,7 @@ The Director—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) may issue a written decertification of that agency's budget; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a decertification issued under item (aa), shall submit to the Senate and the House of Representatives and the appropriate congressional committees, a copy of—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a decertification issued under item (aa), shall submit tothe Senate and the House of Representatives and the appropriate congressional committees, a copy of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(aaa) the decertification issued under item (aa);
 
@@ -238,7 +238,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
-&emsp;(4) procure the services of experts and consultants in accordance with section 3109 oftitle 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
+&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
 
 &emsp;(5) accept and use gifts and donations of property from Federal, State, and local government agencies, and from the private sector, as authorized in section 1702(d) of this title;
 
@@ -368,7 +368,7 @@ Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and 
 
 This chapter, referred to in subsec. (h), was in the original "this Act" and was translated as reading "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, whichwas formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Central Intelligence Agency Act of 1949, referred to in subsec. (h), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified generally to chapter 46 (§3501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -434,7 +434,7 @@ Pub. L. 109–469, §103(e), added pars. (4) and (5) set out first.
 
 Subsec. (g). Pub. L. 109–469, §103(f)(3)(A), amended subsec. (g) generally. Prior to amendment, text read as follows: "The provisions of this section shall not apply to the National Foreign Intelligence Program, the Joint Military Intelligence Program and Tactical Intelligence and Related Activities unless the agency that carries out such program is designated as a National Drug Control Program agency by the President or jointly by the Director and the head of the agency."
 
-Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: "Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law."
+Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. Prior to amendment, text read as follows: "Nothing in this chapter shall be construed as derogating the authorities and responsibilities of theDirector of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law."
 
 #### Effective Date of 2012 Amendment
 

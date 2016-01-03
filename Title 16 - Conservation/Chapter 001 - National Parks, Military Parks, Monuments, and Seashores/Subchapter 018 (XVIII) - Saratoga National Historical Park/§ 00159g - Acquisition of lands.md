@@ -2,7 +2,7 @@
 
 #### (a) Manner; limitations
 
-Except as provided in subsection (b) of this section, within the boundary of the park, the Secretary of the Interior (hereinafter in this Act referred to as the "Secretary"), is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange. Except for the tract identified on the aforesaid map as tract number 01–132, which was authorized to be acquired by section 159e of this title, the Secretary may not acquire (except by donation) fee simple title to those lands depicted on the map as proposed for less than fee acquisition. The map shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior.
+Except as provided in subsection (b), within the boundary of the park, the Secretary of the Interior (hereinafter in this Act referred to as the "Secretary"), is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, or exchange. Except for the tract identified on the aforesaid map as tract number 01–132, which was authorized to be acquired by section 159e of this title, the Secretary may not acquire (except by donation) fee simple title to those lands depicted on the map as proposed for less than fee acquisition. The map shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior.
 
 #### (b) Conditions for forced sale; right of first refusal
 
@@ -18,11 +18,11 @@ Except as provided in subsection (b) of this section, within the boundary of the
 
 #### (c) Exception
 
-Subsection (b) of this section shall not apply with respect to tract number 01–142.
+Subsection (b) shall not apply with respect to tract number 01–142.
 
 #### (d) Notification by owner of intended actions
 
-When an owner of property within the park desires to take an action with respect to his property, he shall request, in writing, a prompt written determination from the Secretary as to the likelihood of such action provoking a determination by the Secretary under the provisions of subsection (b)(1)(A) of this section. The Secretary is thereupon directed to promptly issue such owner a certificate of exemption from condemnation for such actions proposed by the owner which the Secretary determines to be compatible with the purposes of the park.
+When an owner of property within the park desires to take an action with respect to his property, he shall request, in writing, a prompt written determination from the Secretary as to the likelihood of such action provoking a determination by the Secretary under the provisions of subsection (b)(1)(A). The Secretary is thereupon directed to promptly issue such owner a certificate of exemption from condemnation for such actions proposed by the owner which the Secretary determines to be compatible with the purposes of the park.
 
 #### (e) Limited right of retention; calculation of payment
 
@@ -32,11 +32,11 @@ When an owner of property within the park desires to take an action with respect
 
 #### (f) Rapid acquisition
 
-Any owner of lands or interests therein within the park who desires to have such lands or interests acquired by the Secretary may notify theSecretary in writing of such desire. It is the intention of the Congress that, upon receipt of such notification, and on the condition that such acquisition will transpire at fair market value and in accordance with other conditions acceptable to the Secretary, the Secretary shall endeavor to acquire such lands or interests therein within six months of the date of receipt of such notice from the owner.
+Any owner of lands or interests therein within the park who desires to have such lands or interests acquired by the Secretary may notify the Secretary in writing of such desire. It is the intention of the Congress that, upon receipt of such notification, and on the condition that such acquisition will transpire at fair market value and in accordance with other conditions acceptable to the Secretary, the Secretary shall endeavor to acquire such lands or interests therein within six months of the date of receipt of such notice from the owner.
 
 (Pub. L. 97–460, §2, Jan. 12, 1983, 96 Stat. 2520.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 97–460, Jan. 12, 1983, 96 Stat. 2520, which enacted sections 159f and 159g of this title, amended section 159d of this title, and enacted a provision set out as a note under section 159f of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 97–460, Jan. 12, 1983, 96 Stat. 2520, which enacted sections 159f and 159g of this title, amended section 159d of this title, and enacted a provision set out as a note under section159f of this title. For complete classification of this Act to the Code, see Tables.
 

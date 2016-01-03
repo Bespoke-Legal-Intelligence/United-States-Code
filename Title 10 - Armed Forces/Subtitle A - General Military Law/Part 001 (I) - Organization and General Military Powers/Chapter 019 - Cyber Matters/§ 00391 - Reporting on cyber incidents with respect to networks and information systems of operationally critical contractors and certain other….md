@@ -2,7 +2,7 @@
 
 (a)
 
-Designation of Department Component to Receive Reports.—The Secretary of Defense shall designate a component of the Department of Defense to receive reports of cyber incidents from contractors in accordance with this section and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 2224 note) or from other governmental entities.
+Designation of Department Component to Receive Reports.—The Secretary of Defense shall designate a component of the Department of Defense to receive reports of cyber incidents from contractors in accordance with this section and section 393 of this title or from other governmental entities.
 
 (b)
 
@@ -58,6 +58,26 @@ Dissemination of information.—The procedures established pursuant to subsectio
 
 (d)
 
+Protection From Liability of Operationally Critical Contractors.—(1) No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section that is conducted in accordance with procedures established pursuant to subsection (b).
+
+(2)(A) Nothing in this section shall be construed—
+
+&emsp;(i) to require dismissal of a cause of action against an operationally critical contractor that has engaged in willful misconduct in the course of complying with the procedures established pursuant to subsection (b); or
+
+&emsp;(ii) to undermine or limit the availability of otherwise applicable common law or statutory defenses.
+
+(B) In any action claiming that paragraph (1) does not apply due to willful misconduct described in subparagraph (A), the plaintiff shall have the burden of proving by clear and convincing evidence the willful misconduct by each operationally critical contractor subject to such claim and that such willful misconduct proximately caused injury to the plaintiff.
+
+(C) In this subsection, the term "willful misconduct" means an act or omission that is taken—
+
+&emsp;(i) intentionally to achieve a wrongful purpose;
+
+&emsp;(ii) knowingly without legal or factual justification; and
+
+&emsp;(iii) in disregard of a known or obvious risk that is so great as to make it highly probable that the harm will outweigh the benefit.
+
+(e)
+
 Definitions.—In this section:
 
 &emsp;(1)
@@ -66,9 +86,15 @@ Cyber incident.—The term "cyber incident" means actions taken through the use 
 
 &emsp;(2)
 
-Operationally critical contractor.—The term "operationally critical contractor" means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
+Operationally critical contractor.—The term "operationally critical contractor" means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical supportthat is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
 
-(Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639.)
+(Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, §1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §1641(c)(1), substituted "and section 393 of this title" for "and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 2224 note)".
+
+Subsecs. (d), (e). Pub. L. 114–92, §1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Issuance of Procedures
 

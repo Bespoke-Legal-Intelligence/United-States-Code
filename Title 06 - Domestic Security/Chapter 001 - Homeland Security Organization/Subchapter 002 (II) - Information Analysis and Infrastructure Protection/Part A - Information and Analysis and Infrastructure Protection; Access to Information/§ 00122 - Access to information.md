@@ -40,7 +40,7 @@ The Secretary shall be deemed to be a Federal law enforcement, intelligence, pro
 
 #### (1) Access by elements of Federal Government
 
-&emsp;Nothing in this subchapter shall preclude any element of the intelligence community (as that term is defined in section 3003(4) of title 50,<sup>1</sup> or any other element of the Federal Government with responsibility for analyzing terrorist threat information, from receiving any intelligence or other information relating to terrorism.
+&emsp;Nothing in this subchapter shall preclude any element of the intelligence community (as that term is defined in section 3003(4) of title50,<sup>1</sup> or any other element of the Federal Government with responsibility for analyzing terrorist threat information, from receiving any intelligence or other information relating to terrorism.
 
 #### (2) Sharing of information
 

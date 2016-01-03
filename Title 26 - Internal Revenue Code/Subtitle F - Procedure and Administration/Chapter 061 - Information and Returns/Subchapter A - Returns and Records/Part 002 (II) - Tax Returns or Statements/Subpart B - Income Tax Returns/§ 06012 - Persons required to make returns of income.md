@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the returnis, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -212,7 +212,7 @@ Pub. L. 106–230, §3(d), July 1, 2000, 114 Stat. 483, provided that: "The amen
 
 Amendment by section 312(d)(11) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec.31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
+Amendment by section 1225 of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -284,7 +284,7 @@ Amendment by section 941(d) of Pub. L. 91–172, which substituted "$750", "$1,7
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 

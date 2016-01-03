@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
-&emsp;&emsp;(B) may, subject to subsection (b)(1) of this section, bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
+&emsp;&emsp;(B) may, subject to subsection (b)(1), bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
 
 #### (2) Amount of penalty for person who committed violation
 
@@ -16,13 +16,13 @@
 
 #### (3) Amount of penalty for controlling person
 
-&emsp;The amount of the penalty which may be imposed on any person who, at the time of theviolation, directly or indirectly controlled the person who committed such violation, shall be determined by the court in light of the facts and circumstances, but shall not exceed the greater of $1,000,000, or three times the amount of the profit gained or loss avoided as a result of such controlled person's violation. If such controlled person's violation was a violation by communication, the profit gained or loss avoided as a result of the violation shall, for purposes of this paragraph only, be deemed to be limited to the profit gained or loss avoided by the person or persons to whom the controlled person directed such communication.
+&emsp;The amount of the penalty which may be imposed on any person who, at the time of the violation, directly or indirectly controlled the person who committed such violation, shall be determined by the court in light of the facts and circumstances, but shall not exceed the greater of $1,000,000, or three times the amount of the profit gained or loss avoided as a result of such controlled person's violation. If such controlled person's violation was a violation by communication, the profit gained or loss avoided as a result of the violation shall, for purposes of this paragraph only, be deemed to be limited to the profit gained or loss avoided by the person or persons to whom the controlled person directed such communication.
 
 #### (b) Limitations on liability
 
 #### (1) Liability of controlling persons
 
-&emsp;No controlling person shall be subject to a penalty under subsection (a)(1)(B) of this section unless the Commission establishes that—
+&emsp;No controlling person shall be subject to a penalty under subsection (a)(1)(B) unless the Commission establishes that—
 
 &emsp;&emsp;(A) such controlling person knew or recklessly disregarded the fact that such controlled person was likely to engage in the act or acts constituting the violation and failed to take appropriate steps to prevent such act or acts before they occurred; or
 
@@ -30,7 +30,7 @@
 
 #### (2) Additional restrictions on liability
 
-&emsp;No person shall be subject to a penalty under subsection (a) of this section solely by reason of employing another person who is subject to a penalty under such subsection, unless such employing person is liable as a controlling person under paragraph (1) of this subsection. Section 78t(a) of this title shall not apply to actions under subsection (a) of this section.
+&emsp;No person shall be subject to a penalty under subsection (a) solely by reason of employing another person who is subject to a penalty under such subsection, unless such employing person is liable as a controlling person under paragraph (1) of this subsection. Section 78t(a) of this title shall not apply to actions under subsection (a) of this section.
 
 #### (c) Authority of Commission
 
@@ -82,7 +82,7 @@ The authority of the Commission under this section with respect to security-base
 
 &emsp;&emsp;&emsp;(i) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
-&emsp;&emsp;&emsp;(ii) any other officer or employee of the legislative branch (as defined in section109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
+&emsp;&emsp;&emsp;(ii) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
 
 #### (3) Rule of construction
 

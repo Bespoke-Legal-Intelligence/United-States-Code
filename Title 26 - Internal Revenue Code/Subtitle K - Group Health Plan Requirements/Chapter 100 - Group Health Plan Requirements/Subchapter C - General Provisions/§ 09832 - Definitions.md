@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 #### (2) Health insurance issuer
 
-&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section). Such term does not include a group health plan.
+&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a healthmaintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 

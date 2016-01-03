@@ -52,5 +52,5 @@ Subsec. (a). Pub. L. 110–181, §3523(a)(4), incorporated the substance of the 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. C, title XXXV, §3510(d)(2), Oct. 17, 2006, 120 Stat. 2521, provided that: "This subsection \[amending section 3509 of Pub. L. 109–163 which had amended section 1295e(a) of the former Appendix to this title, from which subsec. (a) of this section is derived\] shall be effective immediately after section 3509 of the National Defense Authorization Act for Fiscal Year 2006 (119 Stat. 3557) \[Pub. L. 109–163\] takes effect \[Jan. 6, 2006\]."
+Pub. L. 109–364, div. C, title XXXV, §3510(d)(2), Oct. 17, 2006, 120 Stat. 2521, provided that: "This subsection \[amending section 3509 of Pub. L. 109–163 which had amended section 1295e(a) of the former Appendix to this title, from which subsec. (a) of this section is derived\] shall be effective immediately after section 3509 of theNational Defense Authorization Act for Fiscal Year 2006 (119 Stat. 3557) \[Pub. L. 109–163\] takes effect \[Jan. 6, 2006\]."
 

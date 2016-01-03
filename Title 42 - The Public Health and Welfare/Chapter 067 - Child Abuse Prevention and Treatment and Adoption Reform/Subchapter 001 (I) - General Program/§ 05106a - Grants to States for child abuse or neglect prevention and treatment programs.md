@@ -54,7 +54,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(A) to provide child abuse and neglect prevention and treatment services (including linkages with education systems), and the use of differential response; and
 
-&emsp;&emsp;(B) to address the health needs, including mental health needs, of children identified as victims of child abuse or neglect;,<sup>1</sup> including supporting prompt, comprehensive health and developmental evaluations forchildren who are the subject of substantiated child maltreatment reports; or
+&emsp;&emsp;(B) to address the health needs, including mental health needs, of children identified as victims of child abuse or neglect;,<sup>1</sup> including supporting prompt, comprehensive health and developmental evaluations for children who are the subject of substantiated child maltreatment reports; or
 
 &emsp;(14) developing and implementing procedures for collaboration among child protective services, domestic violence services, and other agencies in—
 
@@ -124,7 +124,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(V) a grand jury or court, upon a finding that information in the record is necessary for the determination of an issue before the court or grand jury; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) other entities or classes of individuals statutorily authorized by the Stateto receive such information pursuant to a legitimate State purpose;
+&emsp;&emsp;&emsp;&emsp;(VI) other entities or classes of individuals statutorily authorized by the State to receive such information pursuant to a legitimate State purpose;
 
 &emsp;&emsp;&emsp;(ix) provisions to require a State to disclose confidential information to any Federal, State, or local government entity, or any agent of such entity, that has a need for such information in order to carry out its responsibilities under law to protect children from child abuse and neglect;
 
@@ -172,7 +172,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(xxi) provisions and procedures for referral of a child under the age of 3 who is involved in a substantiated case of child abuse or neglect to early intervention services funded under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.);
 
-&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relativesand non-relatives residing in the household; and
+&emsp;&emsp;&emsp;(xxii) provisions and procedures for requiring criminal background record checks that meet the requirements of section 471(a)(20) of the Social Security Act (42 U.S.C. 671(a)(20)) for prospective foster and adoptive parents and other adult relatives and non-relatives residing in the household; and
 
 &emsp;&emsp;&emsp;(xxiii) provisions for systems of technology that support the State child protective service system described in subsection (a) and track reports of child abuse and neglect from intake through final disposition;
 
@@ -230,7 +230,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (i) Establishment of panels by States receiving minimum allotment
 
-&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal yearshall establish not less than 1 citizen review panel.
+&emsp;&emsp;&emsp;A State that receives the minimum allotment of $175,000 under section 5116b(b)(1)(A) of this title for a fiscal year shall establish not less than 1 citizen review panel.
 
 #### (ii) Designation of existing entities
 
@@ -402,7 +402,7 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 &emsp;&emsp;&emsp;(i) $100,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by more than $1,000,000 but less than $2,000,000;
 
-&emsp;&emsp;&emsp;(ii) $125,000, for a fiscal year in which the grant funds exceed the fiscal year 2009grant funds by at least $2,000,000 but less than $3,000,000; and
+&emsp;&emsp;&emsp;(ii) $125,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by at least $2,000,000 but less than $3,000,000; and
 
 &emsp;&emsp;&emsp;(iii) $150,000, for a fiscal year in which the grant funds exceed the fiscal year 2009 grant funds by at least $3,000,000.
 
@@ -414,11 +414,31 @@ Within 6 months after receiving the State reports under subsection (d) of this s
 
 &emsp;Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–22, title VIII, §802(a), (b), May 29, 2015, 129 Stat. 263, provided that, effective 2 years after May 29, 2015, this section is amended—</i>
+
+<i>(1) in subsection (b)(2)(B)—</i>
+
+<i>(A) in clause (xxii), by striking "and" at the end; and</i>
+
+<i>(B) by adding at the end the following:</i>
+
+&emsp;&emsp;&emsp;<i>"(xxiv) provisions and procedures requiring identification and assessment of all reports involving children known or suspected to be victims of sex trafficking (as defined in section 7102(10) of title 22); and</i>
+
+&emsp;&emsp;&emsp;<i>"(xxv) provisions and procedures for training child protective services workers about identifying, assessing, and providing comprehensive services for children who are sex trafficking victims, including efforts to coordinate with State law enforcement, juvenile justice, and social service agencies such as runaway and homeless youth shelters to serve this population;"; and</i>
+
+<i>(2) in subsection (d), by adding at the end the following:</i>
+
+&emsp;<i>"(17) The number of children determined to be victims described in subsection (b)(2)(B)(xxiv)."</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A), (E), (F) and (c)(4)(A), is act Aug. 14, 1935, ch.531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(2)(B)(xxi) and (d)(16), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -429,6 +449,10 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is
 A prior section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to section 5106 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B)(xxiv), (xxv). Pub. L. 114–22, §802(b)(1), added cls. (xxiv) and (xxv).
+
+Subsec. (d)(17). Pub. L. 114–22, §802(b)(2), added par. (17).
 
 <b>2010</b>—Pub. L. 111–320, §115(a), substituted "child abuse or neglect" for "child abuse and neglect" in section catchline.
 
@@ -568,7 +592,7 @@ Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (ii) as (iv). Former cl. (
 
 Subsec. (b)(2)(A)(v). Pub. L. 108–36, §114(b)(1)(B)(iv), added cl. (v). Former cl. (v) redesignated (viii).
 
-Subsec. (b)(2)(A)(vi), (vii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cls. (iii) and (iv) as (vi) and\(vii), respectively. Former cls. (vi) and (vii) redesignated (x) and (xi), respectively.
+Subsec. (b)(2)(A)(vi), (vii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cls. (iii) and (iv) as (vi) and (vii), respectively. Former cls. (vi) and (vii) redesignated (x) and (xi), respectively.
 
 Subsec. (b)(2)(A)(viii). Pub. L. 108–36, §114(b)(1)(B)(i), redesignated cl. (v) as (viii). Former cl. (viii) redesignated (xii).
 
@@ -625,6 +649,10 @@ Subsec. (d). Pub. L. 102–295, §114(b)(1), redesignated subsec. (c) as (d). Fo
 Subsec. (d)(1). Pub. L. 102–295, §114(c), which directed the amendment of subsec. (d) by substituting "subsection (a) of this section" for "this subsection" in provisions preceding subparagraph (A), was executed by making the substitution the second place that phrase appeared in introductory provisions of par. (1) of subsec. (d) to reflect the probable intent of Congress.
 
 Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–22, title VIII, §802(a), May 29, 2015, 129 Stat. 263, provided that: "The amendments to the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) made by this section \[amending this section and section 5106g of this title and provisions set out as a note under section 5101 of this title\] shall take effect 2 years after the date of the enactment of this Act \[May 29, 2015\]."
 
 #### Effective Date of 1992 Amendment
 

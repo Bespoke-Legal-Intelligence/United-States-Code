@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 12 months after March 23, 2010, the Secretary shall develop standards for use by a group health plan and a health insurance issuer offering group or individual health insurance coverage, in compiling and providing to applicants, enrollees, and policyholders or certificate holders a summary of benefits and coverageexplanation that accurately describes the benefits and coverage under the applicable plan or coverage. In developing such standards, the Secretary shall consult with the National Association of Insurance Commissioners (referred to in this section as the "NAIC"), a working group composed of representatives of health insurance-related consumer advocacy organizations, health insurance issuers, health care professionals, patient advocates including those representing individuals with limited English proficiency, and other qualified individuals.
+Not later than 12 months after March 23, 2010, the Secretary shall develop standards for use by a group health plan and a health insurance issuer offering group or individual health insurance coverage, in compiling and providing to applicants, enrollees, and policyholders or certificate holders a summary of benefits and coverage explanation that accurately describes the benefits and coverage under the applicable plan or coverage. In developing such standards, the Secretary shall consult with the National Association of Insurance Commissioners (referred to in this section as the "NAIC"), a working group composed of representatives of health insurance-related consumer advocacy organizations, health insurance issuers, health care professionals, patient advocates including those representing individuals with limited English proficiency, and other qualified individuals.
 
 #### (b) Requirements
 
@@ -42,7 +42,7 @@ The standards for the summary of benefits and coverage developed under subsectio
 
 &emsp;&emsp;&emsp;(ii) ensures that the plan or coverage share of the total allowed costs of benefits provided under the plan or coverage is not less than 60 percent of such costs;
 
-&emsp;&emsp;(H) a statement that the outline is a summary of the policy or certificate and that the coverage document itself should be consulted to determine the governing contractual provisions; and
+&emsp;&emsp;(H) a statement that the outline is a summary of the policy or certificate and thatthe coverage document itself should be consulted to determine the governing contractual provisions; and
 
 &emsp;&emsp;(I) a contact number for the consumer to call with additional questions and an Internet web address where a copy of the actual individual coverage policy or group certificate of coverage can be reviewed and obtained.
 

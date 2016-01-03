@@ -20,7 +20,7 @@ Termination of Payment of Benefits.—The Secretary may not make any benefit pay
 
 (e)
 
-Termination of Insurance Fund.—The Secretary shall close the Fund not later than 60 days after the date on which the last benefitpayment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
+Termination of Insurance Fund.—The Secretary shall close the Fund not later than 60 days after the date on which the last benefit payment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
 
 (Added Pub. L. 105–85, div. A, title V, §512(a), Nov. 18, 1997, 111 Stat. 1729; amended Pub. L. 107–107, div. A, title X, §1048(c)(15), Dec. 28, 2001, 115 Stat. 1226.)
 

@@ -4,9 +4,9 @@
 
 Division of Funds.—Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
 
-&emsp;(1) $150,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+&emsp;(1) $158,000,000 shall be for the Puerto Rico highway program under subsection (b); and
 
-&emsp;(2) $40,000,000 shall be for the territorial highway program under subsection (c).
+&emsp;(2) $42,000,000 shall be for the territorial highway program under subsection (c).
 
 (b)
 
@@ -26,7 +26,7 @@ Apportionment.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
+In general.—For the purpose of imposing any penalty under this title or title 49, the amounts shall be treated as being apportioned to Puerto Rico under sections 104(b) and 144 (as in effect for fiscal year 1997) for each program funded under those sections in an amount determined by multiplying—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate of the amounts for the fiscal year; by
 
@@ -38,7 +38,7 @@ In general.—For the purpose of imposing any penalty under this title or title 
 
 &emsp;&emsp;&emsp;(ii)
 
-Exception.—Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
+Exception.—Funds identified under clause (i) as having been apportioned for the national highway system, the surface transportation block grant program, and the Interstate maintenance program shall be deemed to have been apportioned 50 percent for the national highway performance program and 50 percent for the surface transportation program for purposes of imposing such penalties.
 
 &emsp;&emsp;(B)
 
@@ -172,7 +172,7 @@ Eligible uses of funds.—
 
 In general.—Funds made available under this subsection may be used only for the following projects and activities carried out in a territory:
 
-&emsp;&emsp;&emsp;(i) Eligible surface transportation program projects described in section 133(b).
+&emsp;&emsp;&emsp;(i) Eligible surface transportation block grant program projects described in section 133(b).
 
 &emsp;&emsp;&emsp;(ii) Cost-effective, preventive maintenance consistent with section 116(e).
 
@@ -192,9 +192,9 @@ Prohibition on use of funds for routine maintenance.—None of the funds made av
 
 &emsp;(7)
 
-Location of projects.—Territorial highway program projects (other than those described in paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)) may not be undertaken on roads functionally classified as local.
+Location of projects.—Territorial highway program projects (other than those described in paragraphs (1) through (4) of section 133(c) and section 133(b)(12)) may not be undertaken on roads functionally classified as local.
 
-(Added Pub. L. 109–59, title I, §1120(a), Aug. 10, 2005, 119 Stat. 1191; amended Pub. L. 112–141, div. A, title I, §1114(a), July 6, 2012, 126 Stat. 464.)
+(Added Pub. L. 109–59, title I, §1120(a), Aug. 10, 2005, 119 Stat. 1191; amended Pub. L. 112–141, div. A, title I, §1114(a), July 6, 2012, 126 Stat. 464; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1115, 1446(a)(11), Dec. 4, 2015, 129 Stat. 1343, 1349, 1438.)
 
 #### References in Text
 
@@ -202,7 +202,19 @@ Section 215 as in effect on the day before the enactment of this section and sec
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §1115(1), substituted "$158,000,000" for "$150,000,000".
+
+Subsec. (a)(2). Pub. L. 114–94, §1115(2), substituted "$42,000,000" for "$40,000,000".
+
+Subsecs. (b)(2)(A)(ii), (c)(6)(A)(i). Pub. L. 114–94, §1109(c)(5), substituted "surface transportation block grant program" for "surface transportation program".
+
+Subsec. (c)(7). Pub. L. 114–94, §1446(a)(11), substituted "paragraphs (1) through (4) of section 133(c) and section 133(b)(12)" for "paragraphs (2), (4), (7), (8), (14), and (19) of section 133(b)".
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to Puerto Rico highway program.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

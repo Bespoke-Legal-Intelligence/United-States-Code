@@ -98,6 +98,7 @@
 | [2712\.](%C2%A7%2002712%20-%20Authority%20to%20control%20certain%20terrorism-related%20services.md) | Authority to control certain terrorism-related services. |
 | [2713\.](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md) | Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building. |
 | [2714\.](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md) | Denial of passports to certain convicted drug traffickers. |
+| [2714a.](%C2%A7%2002714a%20-%20Revocation%20or%20denial%20of%20passport%20in%20case%20of%20certain%20unpaid%20taxes.md) | Revocation or denial of passport in case of certain unpaid taxes. |
 | [2715\.](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md) | Procedures regarding major disasters and incidents abroad affecting United States citizens. |
 | [2715a.](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%27%20families.md) | Provision of information on certain violent crimes abroad to victims and victims' families. |
 | [2715b.](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md) | Notification of next of kin; reports of death. |
@@ -227,6 +228,7 @@
 - [&sect; 02712 - Authority to control certain terrorism-related services](%C2%A7%2002712%20-%20Authority%20to%20control%20certain%20terrorism-related%20services.md)
 - [&sect; 02713 - Protection of historic and artistic furnishings of reception areas of the Harry S Truman Federal Building](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Harry%20S%20Truman%20Federal%20Building.md)
 - [&sect; 02714 - Denial of passports to certain convicted drug traffickers](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md)
+- [&sect; 02714a - Revocation or denial of passport in case of certain unpaid taxes](%C2%A7%2002714a%20-%20Revocation%20or%20denial%20of%20passport%20in%20case%20of%20certain%20unpaid%20taxes.md)
 - [&sect; 02715 - Procedures regarding major disasters and incidents abroad affecting United States citizens](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md)
 - [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims' families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%27%20families.md)
 - [&sect; 02715b - Notification of next of kin; reports of death](%C2%A7%2002715b%20-%20Notification%20of%20next%20of%20kin%3B%20reports%20of%20death.md)

@@ -38,7 +38,7 @@ The Secretary shall submit the study and his findings to the President and the C
 
 #### (f) Selection and conveyance of land by State and Natives unaffected
 
-Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and this Act.
+Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting theselection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and this Act.
 
 (Pub. L. 96–487, title X, §1001, Dec. 2, 1980, 94 Stat. 2448.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assignedto temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
+Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
 
 (b)
 

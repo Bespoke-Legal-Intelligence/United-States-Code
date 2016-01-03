@@ -10,7 +10,7 @@ Alcoholic beverage.—The term "alcoholic beverage" has the meaning given the te
 
 &emsp;(2)
 
-Motor vehicle.—The term "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarilyfor use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
+Motor vehicle.—The term "motor vehicle" means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public highways, but does not include a vehicle operated exclusively on a rail or rails.
 
 &emsp;(3)
 
@@ -50,7 +50,7 @@ Transfer of Funds.—
 
 &emsp;(1)
 
-Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) <sup>1</sup> to the apportionment of the State under section 402—
+Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 1½ percent of the funds apportioned to the State on that date under each of paragraphs (1), (2), and (4) of section 104(b) to the apportionment of the State under section 402—
 
 &emsp;&emsp;(A) to be used for alcohol-impaired driving countermeasures; or
 
@@ -62,7 +62,7 @@ Fiscal year 2012 and thereafter.—
 
 &emsp;&emsp;(A)
 
-Reservation of funds.—On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3).
+Reservation of funds.—On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary themeans by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3).
 
 &emsp;&emsp;(B)
 
@@ -78,7 +78,7 @@ Use for highway safety improvement program.—
 
 &emsp;&emsp;(A)
 
-In general.—A State may elect to use all or a portion of the funds transferred under paragraph (2) for activities eligible under section 148.
+In general.—A State may elect to use all or a portion of the funds reserved under paragraph (2) for activities eligible under section 148.
 
 &emsp;&emsp;(B)
 
@@ -90,9 +90,9 @@ Federal share.—The Federal share of the cost of a project carried out with fun
 
 &emsp;(5)
 
-Derivation of amount to be transferred.—The amount to be transferred under paragraph (2) may be derived from the following:
+Derivation of amount to be transferred.—The amount to be transferred or released under paragraph (2) may be derived from the following:
 
-&emsp;&emsp;(A) The apportionment of the State under section 104(b)(l).
+&emsp;&emsp;(A) The apportionment of the State under section 104(b)(1).
 
 &emsp;&emsp;(B) The apportionment of the State under section 104(b)(2).
 
@@ -114,23 +114,27 @@ Amount.—The amount of obligation authority referred to in subparagraph (A) sha
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of obligation authority distributed for the fiscal year to the State for Federal-aid highways and highway safety construction programs, bears to
 
-&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highwaysand highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) the total of the sums apportioned to the State for Federal-aid highways and highway safety construction programs (excluding sums not subject to any obligation limitation) for the fiscal year.
 
 &emsp;(7)
 
 Limitation on applicability of obligation limitation.—Notwithstanding any other provision of law, no limitation on the total of obligations for highway safety programs under section 402 shall apply to funds transferred under this subsection to the apportionment of a State under such section.
 
-(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556.)
-
-#### References in Text
-
-Section 104, referred to in subsec. (c)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+(Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §1446(a)(8), Dec. 4, 2015, 129 Stat. 1437.)
 
 #### Prior Provisions
 
 A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–94, §1446(a)(8)(A), substituted "paragraphs (1), (2), and (4)" for "paragraphs (1), (3), and (4)".
+
+Subsec. (c)(3)(A). Pub. L. 114–94, §1446(a)(8)(B), substituted "reserved" for "transferred".
+
+Subsec. (c)(5). Pub. L. 114–94, §1446(a)(8)(C)(i), inserted "or released" after "transferred" in introductory provisions.
+
+Subsec. (c)(5)(A). Pub. L. 114–94, §1446(a)(8)(C)(ii), substituted "under section 104(b)(1)" for "under section 104(b)(l)".
 
 <b>2012</b>—Subsec. (c)(2). Pub. L. 112–141, §1402(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "On October 1, 2002, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall transfer an amount equal to 3 percent of the funds apportioned to the State on that date under each of paragraphs (1), (3), and (4) of section 104(b) to the apportionment of the State under section 402 to be used or directed as described in subparagraph (A) or (B) of paragraph (1)."
 
@@ -146,6 +150,10 @@ Subsec. (c)(5). Pub. L. 112–141, §1402(3), added par. (5) and struck out form
 
 <b>2005</b>—Subsec. (c)(3). Pub. L. 109–59 substituted "148" for "152".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -153,6 +161,4 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date
 
 Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

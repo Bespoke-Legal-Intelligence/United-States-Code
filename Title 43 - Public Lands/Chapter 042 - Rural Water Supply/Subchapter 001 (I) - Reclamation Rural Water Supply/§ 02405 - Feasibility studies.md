@@ -18,7 +18,7 @@ On completion of an appraisal report under section 2404(c) of this title that re
 
 &emsp;&emsp;(ii) using the non-Federal project entity to conduct the feasibility study is a cost-effective alternative for completing the appraisal investigation; or
 
-&emsp;(B) if the Secretary determines not to provide a grant to, or enter into a cooperativeagreement with, a non-Federal project entity under subparagraph (A), provide to the non-Federal project entity notice of the determination, including an explanation of the reason for the determination.
+&emsp;(B) if the Secretary determines not to provide a grant to, or enter into a cooperative agreement with, a non-Federal project entity under subparagraph (A), provide to the non-Federal project entity notice of the determination, including an explanation of the reason for the determination.
 
 #### (b) Review of non-Federal feasibility studies
 
@@ -102,7 +102,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) at least 25 percent of the total construction costs; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) determined based on an analysis of the capability-to-pay informationconsidered under subsections (c)(9) and (f); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) determined based on an analysis of the capability-to-pay information considered under subsections (c)(9) and (f); and
 
 &emsp;&emsp;&emsp;(ii) if the Secretary recommends that the project should be authorized for construction—
 
@@ -130,7 +130,7 @@ Feasibility studies authorized or reviewed under this subchapter shall include a
 
 #### (2) Factors
 
-&emsp;In determining the financial capability of non-Federal project entities to pay for a rural water supply project under paragraph (1), the Secretary shall evaluate factors for the project area, relative to the State average, including—
+&emsp;In determining the financial capability of non-Federal project entities to pay for a rural water supply project under paragraph (1), theSecretary shall evaluate factors for the project area, relative to the State average, including—
 
 &emsp;&emsp;(A) per capita income;
 

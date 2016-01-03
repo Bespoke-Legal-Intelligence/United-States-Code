@@ -50,7 +50,7 @@ The members of a management conference convened under this section shall include
 
 &emsp;(3) each interested Federal agency, as determined appropriate by the Administrator;
 
-&emsp;(4) local governments having jurisdiction over any land or water within the estuarine zone, as determined appropriate by the Administrator; and
+&emsp;(4) local governments having jurisdiction over any land or water within the estuarinezone, as determined appropriate by the Administrator; and
 
 &emsp;(5) affected industries, public and private educational institutions, and the general public, as determined appropriate by the Administrator.
 
@@ -120,7 +120,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) a program of ecosystem assessment assisting in the development of (i) baseline studies which determine the state of estuarine zones and the effects of natural and anthropogenic changes, and (ii) predictive models capable of translating information on specific discharges or general pollutant loadings within estuarine zones into a set of probable effects on such zones;
 
-&emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate, or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
+&emsp;&emsp;(C) a comprehensive water quality sampling program for the continuous monitoring of nutrients, chlorine, acid precipitation dissolved oxygen, and potentially toxic pollutants (including organic chemicals and metals) in estuarine zones, after consultation with interested State, local, interstate,or international agencies and review and analysis of all environmental sampling data presently collected from estuarine zones; and
 
 &emsp;&emsp;(D) a program of research to identify the movements of nutrients, sediments and pollutants through estuarine zones and the impact of nutrients, sediments, and pollutants on water quality, the ecosystem, and designated or potential uses of the estuarine zones.
 

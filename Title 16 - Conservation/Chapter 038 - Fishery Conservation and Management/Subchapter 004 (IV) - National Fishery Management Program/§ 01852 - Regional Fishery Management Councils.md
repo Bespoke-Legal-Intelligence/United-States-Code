@@ -6,35 +6,35 @@
 
 #### (A) New England Council
 
-&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (B) Mid-Atlantic Council
 
-&emsp;The Mid-Atlantic Fishery Management Council shall consist of the States of New York, New Jersey, Delaware, Pennsylvania, Maryland, Virginia, and North Carolina and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except North Carolina, and as provided in paragraph (3)). The Mid-Atlantic Council shall have 21 voting members, including 13 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The Mid-Atlantic Fishery Management Council shall consist of the States of New York, New Jersey, Delaware, Pennsylvania, Maryland, Virginia, and North Carolina and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except North Carolina, and as provided in paragraph (3)). The Mid-Atlantic Council shall have 21 voting members, including 13 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (C) South Atlantic Council
 
-&emsp;The South Atlantic Fishery Management Council shall consist of the States of North Carolina, South Carolina, Georgia, and Florida and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The South Atlantic Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The South Atlantic Fishery Management Council shall consist of the States of North Carolina, South Carolina, Georgia, and Florida and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The South Atlantic Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (D) Caribbean Council
 
-&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (E) Gulf Council
 
-&emsp;The Gulf of Mexico Fishery Management Council shall consist of the States of Texas, Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The Gulf of Mexico Fishery Management Council shall consist of the States of Texas, Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
 #### (F) Pacific Council
 
-&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
+&emsp;The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5).
 
 #### (G) North Pacific Council
 
-&emsp;The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean,Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) of this section (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
+&emsp;The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean, Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
 
 #### (H) Western Pacific Council
 
-&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
+&emsp;The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority overthe fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
 
 (2) Each Council shall reflect the expertise and interest of the several constituent States in the ocean area over which such Council is granted authority.
 
@@ -60,7 +60,7 @@
 
 &emsp;(iii) state the Secretary's plans and schedule for actions to achieve a fair and balanced apportionment on the Council for the active participants in any such fishery.
 
-(C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) <sup>2</sup> of this section.
+(C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k).<sup>2</sup>
 
 (D)(i) The Governor of a State submitting a list of names of individuals for appointment by the Secretary of Commerce to the Gulf of Mexico Fisheries Management Council under subparagraph (C) shall include—
 
@@ -84,7 +84,7 @@
 
 (4) Successors to the voting members of any Council shall be appointed in the same manner as the original voting members. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term.
 
-(5)(A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>3</sup> recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
+(5)(A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
 
 (B) Representation shall be rotated among the tribes taking into consideration—
 
@@ -98,7 +98,7 @@
 
 (D) The tribal representative appointed under subparagraph (A) may designate as an alternate, during the period of the representative's term, an individual knowledgeable concerning tribal rights, tribal law, and the fishery resources of the geographical area concerned.
 
-(6) The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs <sup>4</sup> (2) or (5) if—
+(6) The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs <sup>3</sup> (2) or (5) if—
 
 &emsp;(A) the Council concerned first recommends removal by not less than two-thirds of the members who are voting members and submits such removal recommendation to the Secretary in writing together with a statement of the basis for the recommendation; or
 
@@ -120,7 +120,7 @@
 
 #### (d) Compensation and expenses
 
-The voting members of each Council who are required to be appointed by the Secretary and who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–15, step 7 of the General Schedule, when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members and Council staff members may be reimbursed for actual expenses.
+The voting members of each Council who are required to be appointed by the Secretary and who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–15, step 7 of the General Schedule, when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C), and the nonvoting member appointed pursuant to subsection (c)(2) shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members and Council staff members may be reimbursed for actual expenses.
 
 #### (e) Transaction of business
 
@@ -130,7 +130,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (3) Each Council shall meet at appropriate times and places in any of the constituent States of the Council at the call of the Chairman or upon the request of a majority of its voting members.
 
-(4) If any voting member of a Council disagrees with respect to any matter which is transmitted to the Secretary by such Council, such member may submit a statement to the Secretary setting forth the reasons for such disagreement. The regional director of the National Marine Fisheries Service serving on the Council, or the regional director's designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.
+(4) If any voting member of a Council disagrees with respect to any matter which is transmitted to the Secretary by such Council, such member may submit a statement to the Secretary setting forth the reasons for such disagreement. The regional director of the National Marine Fisheries Service serving on the Council, or the regional director's designee,shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.
 
 (5) At the request of any voting member of a Council, the Council shall hold a roll call vote on any matter before the Council. The official minutes and other appropriate records of any Council meeting shall identify all roll call votes held, the name of each voting member present during each roll call vote, and how each member voted on each roll call vote.
 
@@ -146,17 +146,17 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (5) The Secretary and the Secretary of State shall furnish each Council with relevant information concerning foreign fishing and international fishery agreements.
 
-(6) Each Council shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, in accordance with such uniform standards as are prescribed by the Secretary. The procedures of a Council, and of its scientific and statistical committee and advisory panels established under subsection (g) of this section, must be consistent with the procedural guidelines set forth in subsection (i)(2) of this section. Each Council shall publish and make available to the public a statement of its organization, practices, and procedures.
+(6) Each Council shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, in accordance with such uniform standards as are prescribed by the Secretary. The procedures of a Council, and of its scientific and statistical committee and advisory panels established under subsection (g), must be consistent with the procedural guidelines set forth in subsection (i)(2). Each Council shall publish and make available to the public a statement of its organization, practices, and procedures.
 
 (7) The Secretary shall pay—
 
-&emsp;(A) the compensation and expenses provided for in subsection (d) of this section;
+&emsp;(A) the compensation and expenses provided for in subsection (d);
 
 &emsp;(B) appropriate compensation to employees appointed under paragraph (1);
 
 &emsp;(C) the amounts required for reimbursement of other Federal agencies under paragraphs (2) and (4);
 
-&emsp;(D) the actual expenses of the members of the committees and panels established under subsection (g) of this section; and
+&emsp;(D) the actual expenses of the members of the committees and panels established under subsection (g); and
 
 &emsp;(E) such other costs as the Secretary determines are necessary to the performance of the functions of the Councils.
 
@@ -182,7 +182,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (B) Appointments to a committee established under subparagraph (A) shall be made by each Council in such a manner as to provide fair representation to commercial fishing interests in the geographical area of authority of the Council.
 
-(4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) of this section applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; and consist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
+(4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; andconsist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
 
 &emsp;(A) members of advisory committees and species working groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species; and
 
@@ -202,7 +202,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(4) submit to the Secretary such periodic reports as the Council deems appropriate, and any other relevant report which may be requested by the Secretary;
 
-&emsp;(5) review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section <sup>5</sup> subsection (a)(3) of this section) within its geographical area of authority;
+&emsp;(5) review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section <sup>4</sup> subsection (a)(3)) within its geographical area of authority;
 
 &emsp;(6) develop annual catch limits for each of its managed fisheries that may not exceed the fishing level recommendations of its scientific and statistical committee or the peer review process established under subsection (g);
 
@@ -226,11 +226,11 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(B) Emergency meetings shall be held at the call of the chairman or equivalent presiding officer.
 
-&emsp;(C) Timely public notice of each regular meeting and each emergency meeting, including the time, place, and agenda of the meeting, shall be provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient. Timely notice of each regular meeting shall also be published in the Federal Register. The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.
+&emsp;(C) Timely public notice of each regular meeting and each emergency meeting, including the time, place, and agenda of the meeting, shall be provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient. Timely notice of each regular meeting shall also be published in the Federal Register. The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.
 
 &emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.
 
-&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
+&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall bekept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
 
 &emsp;(F) Subject to the procedures established under paragraph (4), and the guidelines prescribed by the Secretary under section 1881a(b) of this title, relating to confidentiality, the administrative record, including minutes required under subparagraph (E), of each meeting, and records or other documents which were made available to or prepared for or by the Council, committee, or panel incident to the meeting, shall be available for public inspection and copying at a single location in the offices of the Council or the Secretary, as appropriate.
 
@@ -242,11 +242,11 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 > Subparagraphs (D) and (F) of paragraph (2) shall not apply to any meeting or portion thereof that is so closed.
 
-(B) If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
+(B) If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph <sup>5</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
 (4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
-(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
+(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
 (6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
@@ -256,13 +256,13 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(A) the term "affected individual" means an individual who—
 
-&emsp;&emsp;(i) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2) of this section; or
+&emsp;&emsp;(i) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2); or
 
 &emsp;&emsp;(ii) is a voting member of a Council appointed—
 
-&emsp;&emsp;&emsp;(I) under subsection (b)(2) of this section; or
+&emsp;&emsp;&emsp;(I) under subsection (b)(2); or
 
-&emsp;&emsp;&emsp;(II) under subsection (b)(5) of this section who is not subject to disclosure and recusal requirements under the laws of an Indian tribal government; and
+&emsp;&emsp;&emsp;(II) under subsection (b)(5) who is not subject to disclosure and recusal requirements under the laws of an Indian tribal government; and
 
 &emsp;(B) the term "designated official" means a person with expertise in Federal conflict-of-interest requirements who is designated by the Secretary, in consultation with the Council, to attend Council meetings and make determinations under paragraph (7)(B).
 
@@ -340,15 +340,17 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 #### (3) Required training
 
-&emsp;Council members appointed after January 12, 2007, shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 monthsbefore January 12, 2007, shall be considered to have met the training requirement of this paragraph.
+&emsp;Council members appointed after January 12, 2007, shall complete a training course that meets the requirements of this section not later than 1 year after the date on which they were appointed. Any Council member who has completed a training course within 24 months before January 12, 2007, shall be considered to have met the training requirement of this paragraph.
 
 #### (l) Council coordination committee
 
 The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22,1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579.)
 
 #### References in Text
+
+Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by Pub. L. 104–297, title I, §107(g), Oct. 11, 1996, 110 Stat. 3572.
 
 The General Schedule, referred to in subsec. (d), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -414,7 +416,7 @@ Subsec. (a)(1)(B). Pub. L. 104–297, §107(a)(3), (4), substituted "Virginia, a
 
 Subsec. (a)(1)(C) to (E). Pub. L. 104–297, §107(a)(3), substituted "paragraph (3)" for "section 1854(f)(3) of this title".
 
-Subsec. (a)(1)(F). Pub. L. 104–297, §107(a)(5), amended heading and text of subpar. (F) generally. Prior to amendment, text read as follows: "The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State)."
+Subsec. (a)(1)(F). Pub. L. 104–297, §107(a)(5), amended heading and text of subpar. (F) generally. Prior toamendment, text read as follows: "The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State)."
 
 Subsec. (a)(3). Pub. L. 104–297, §107(a)(7), added par. (3).
 
@@ -434,7 +436,7 @@ Subsec. (h)(1). Pub. L. 104–297, §107(f)(1), added par. (1) and struck out fo
 
 Subsec. (h)(2). Pub. L. 104–297, §107(f)(2), substituted "section 1824(b)(4)(C) of this title or section 1824(d) of this title" for "section 1824(b)(4)(C) of this title" and "section 1854(c)(4)" for "section 1854(c)(2)".
 
-Subsec. (h)(5). Pub. L. 104–297, §107(f)(3), substituted "subsection (a)(3) of this section" for "1854(f)(3) of this title".
+Subsec. (h)(5). Pub. L. 104–297, §107(f)(3), substituted "subsection (a)(3)" for "1854(f)(3) of this title".
 
 Subsec. (i). Pub. L. 104–297, §107(g), redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
 
@@ -492,7 +494,7 @@ Subsec. (k). Pub. L. 104–297, §107(g), redesignated subsec. (k) as (j).
 
 Subsec. (b)(2). Pub. L. 101–627, §108(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
-"(A) The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable and experienced with regard to the conservation and management, or the recreational or commercial harvest, of the fishery resources of the geographical area concerned. The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair apportionment, on a rotating or other basis, of the active participants (or their representatives) involved in the fisheries under Council jurisdiction.
+"(A) The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable and experienced with regard to the conservation and management, or the recreational or commercial harvest, of the fishery resources of the geographical area concerned. The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair apportionment, on a rotatingor other basis, of the active participants (or their representatives) involved in the fisheries under Council jurisdiction.
 
 "(B) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy. The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of the required knowledge and experience required by subparagraph (A). If the Secretary determines that any individual is not qualified, he shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) of this section.
 
@@ -586,13 +588,11 @@ Pub. L. 99–659, title I, §113, Nov. 14, 1986, 100 Stat. 3715, provided that: 
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection "(j)".</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be "paragraph".</i>
+<i><sup>4</sup></i><i> So in original. The word "section" probably should not appear.</i>
 
-<i><sup>5</sup></i><i> So in original. The word "section" probably should not appear.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be "subparagraph".</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

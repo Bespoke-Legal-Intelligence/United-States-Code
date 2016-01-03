@@ -14,7 +14,7 @@ Prerequisites to Acquisition.—
 
 &emsp;(1)
 
-Fee title to land subject to limited rights.—The reservation of rights to thegrantor shall not continue beyond the life of the grantor of the fee. The Commission must decide that the permanent public park purposes for which control over the land is needed are not essentially impaired by the reserved rights and that there is a substantial saving in cost by acquiring the land subject to the limited rights as compared with the cost of acquiring unencumbered title to the land.
+Fee title to land subject to limited rights.—The reservation of rights to the grantor shall not continue beyond the life of the grantor of the fee. The Commission must decide that the permanent public park purposes for which control over the land is needed are not essentially impaired by the reserved rights and that there is a substantial saving in cost by acquiring the land subject to the limited rights as compared with the cost of acquiring unencumbered title to the land.
 
 &emsp;(2)
 

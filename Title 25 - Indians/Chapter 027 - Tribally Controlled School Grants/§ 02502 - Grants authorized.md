@@ -28,7 +28,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;Grants provided under this chapter may, at the discretion of the school board of the tribally controlled school with respect to which such grant is provided, be used to defray operations and maintenance expenditures for the school if any funds for the operation and maintenance of the school are allocated to the school under the provisions ofany of the laws described in section 2504(a) of this title.
+&emsp;&emsp;Grants provided under this chapter may, at the discretion of the school board of the tribally controlled school with respect to which such grant is provided, be used to defray operations and maintenance expenditures for the school if any funds for the operation and maintenance of the school are allocated to the school under the provisions of any of the laws described in section 2504(a) of this title.
 
 #### (b) Limitations
 

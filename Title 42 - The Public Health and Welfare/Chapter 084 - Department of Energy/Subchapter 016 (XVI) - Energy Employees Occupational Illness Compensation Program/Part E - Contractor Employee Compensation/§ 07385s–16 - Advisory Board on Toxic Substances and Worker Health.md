@@ -46,11 +46,11 @@ Members of the Board, other than full-time employees of the United States, while
 
 (2) The Secretary of Energy should, not later than 180 days after receiving a completed application for a security clearance for an individual under this subsection, make a determination of whether or not the individual is eligible for the clearance.
 
-(3) For fiscal year 2016 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submittedto Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
+(3) For fiscal year 2016 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
 
 #### (g) Information
 
-The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry out its responsibilities under this section, including information such as Restricted Data (as defined in section 2014(y) of this title) and information covered by section 552a of title 5 (commonly known as the "Privacy Act").
+The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board, access to any information that the Board considers relevant to carry outits responsibilities under this section, including information such as Restricted Data (as defined in section 2014(y) of this title) and information covered by section 552a of title 5 (commonly known as the "Privacy Act").
 
 #### (h) Authorization of appropriations
 
@@ -75,4 +75,48 @@ The Board shall terminate on the date that is 5 years after December 19, 2014.
 #### References in Text
 
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is Pub. L. 106–554, §1(a)(4) \[div. B, title I, §151\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
+
+#### Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health
+
+Ex. Ord. No. 13699, June 26, 2015, 80 F.R. 37529, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291), and to allocate the responsibilities imposed by that Act, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established within the Department of Labor the Advisory Board on Toxic Substances and Worker Health (Advisory Board).
+
+Sec. 2. <i>Membership</i>. (a) The Advisory Board shall reflect a proper balance of perspectives from the scientific, medical, and claimant communities.
+
+(b) The Advisory Board shall consist of no more than 15 members to be appointed by the Secretary of Labor in consultation with organizations with expertise on worker health issues. Members shall serve without compensation as Special Government Employees, but shall be allowed travel and meal expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+
+(c) The Secretary of Labor shall designate a Chair of the Board from among its members.
+
+Sec. 3. <i>Functions</i>. (a) The Advisory Board shall advise the Secretary of Labor with respect to:
+
+(i) the site exposure matrices of the Department of Labor;
+
+(ii) medical guidance for claims examiners for claims under subtitle E of the Energy Employees Occupational Illness Compensation Program Act of 2000 (EEOICPA) with respect to the weighing of the medical evidence of claimants;
+
+(iii) evidentiary requirements for claims under EEOICPA subtitle B related to lung disease; and
+
+(iv) the work of industrial hygienists, staff physicians, and consulting physicians of the Department of Labor and reports of such hygienists and physicians to ensure quality, objectivity, and consistency.
+
+(b) To the extent necessary, the Advisory Board also shall coordinate exchanges of data and findings with the Advisory Board on Radiation and Worker Health, which was authorized by EEOICPA and established by Executive Order 13179 of December 7, 2000.
+
+Sec. 4. <i>Administration</i>. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2), with respect to the Advisory Board.
+
+(b) The Secretary of Labor shall designate a senior officer of the Department of Labor to serve as the Director of the staff of the Advisory Board.
+
+Sec. 5. <i>Termination</i>. The Advisory Board shall terminate on the date that is 5 years after the enactment of the National Defense Authorization Act for Fiscal Year 2015.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

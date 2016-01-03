@@ -80,7 +80,7 @@ As used in this chapter:
 
 #### (14) Research
 
-&emsp;The term "research" means any type of test, study, or analysis relating to market research,market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
+&emsp;The term "research" means any type of test, study, or analysis relating to market research, market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
 
 #### (15) Secretary
 

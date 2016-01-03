@@ -6,7 +6,7 @@ The Secretary of Health and Human Services acting through the National Center fo
 
 #### (b) Use of funds
 
-The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violenceagainst women and children addressed by the strategies included in Department of Health and Human Services-related provisions <sup>2</sup> this title,<sup>3</sup> including strategies addressing underserved communities.
+The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violence against women and children addressed by the strategies included in Department of Health and Human Services-related provisions <sup>2</sup> this title,<sup>3</sup> including strategies addressing underserved communities.
 
 #### (c) Authorization of appropriations
 

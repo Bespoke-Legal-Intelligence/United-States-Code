@@ -98,7 +98,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (8) The Administrator shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
 
-(9) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Administrator under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and ½ times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Administrator shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, withrespect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
+(9) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Administrator under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and ½ times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Administrator shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
 
 #### (k) Sale or disposal of certain materials and facilities
 
@@ -120,7 +120,7 @@ In subsec. (k), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2281 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (j)(2) to (9). Pub. L. 109–308, §3(2), added par. (2) and redesignate
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -278,7 +278,7 @@ Licenses and Permits.—If any person holds a license, certificate, or other per
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 
-Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, required the Director of the Federal EmergencyManagement Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
+Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, required the Director of the Federal Emergency Management Agency to establish a pilot program of designing and constructing buildings able to withstand nuclear explosions and to submit a report to Congress on the establishment of the pilot program no later than Apr. 1, 1981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

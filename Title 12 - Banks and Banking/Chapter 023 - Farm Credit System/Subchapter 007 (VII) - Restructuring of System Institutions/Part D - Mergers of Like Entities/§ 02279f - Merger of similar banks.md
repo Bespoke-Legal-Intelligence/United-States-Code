@@ -20,7 +20,7 @@ Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under
 
 #### (1) In general
 
-&emsp;After a merger under subsection (a) of this section, a board of directors shall be created for the resulting bank.
+&emsp;After a merger under subsection (a), a board of directors shall be created for the resulting bank.
 
 #### (2) Composition
 

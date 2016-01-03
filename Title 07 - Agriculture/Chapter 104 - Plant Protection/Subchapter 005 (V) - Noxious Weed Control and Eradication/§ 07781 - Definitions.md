@@ -42,7 +42,7 @@ Pub. L. 109–320, Oct. 11, 2006, 120 Stat. 1748, provided that:
 
 "(a)
 
-Establishment.—The Secretary of the Interior (referred to in this Act as the 'Secretary'), acting through the Commissioner of Reclamation and the Director of the United States Geological Survey and incooperation with the Secretary of Agriculture and the Secretary of Defense, shall carry out a salt cedar (Tamarix spp) and Russian olive (Elaeagnus angustifolia) assessment and demonstration program—
+Establishment.—The Secretary of the Interior (referred to in this Act as the 'Secretary'), acting through the Commissioner of Reclamation and the Director of the United States Geological Survey and in cooperation with the Secretary of Agriculture and the Secretary of Defense, shall carry out a salt cedar (Tamarix spp) and Russian olive (Elaeagnus angustifolia) assessment and demonstration program—
 
 &emsp;"(1) to assess the extent of the infestation by salt cedar and Russian olive trees in the western United States;
 
@@ -180,7 +180,7 @@ Requirements.—The analysis shall—
 
 &emsp;&emsp;"(B) consider and build upon existing research by the Department of Agriculture and other agencies on beneficial uses of salt cedar and Russian olive tree fiber; and
 
-&emsp;&emsp;"(C) consider economic development opportunities, including manufacture of wood products usingbiomass resulting from demonstration projects under subsection (e) as a means of defraying costs of control.
+&emsp;&emsp;"(C) consider economic development opportunities, including manufacture of wood products using biomass resulting from demonstration projects under subsection (e) as a means of defraying costs of control.
 
 "(g)
 

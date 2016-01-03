@@ -11,7 +11,7 @@
 | [5007\.](%C2%A7%2005007%20-%20Cooperation%20with%20other%20agencies.md) | Cooperation with other agencies. |
 | [5008\.](%C2%A7%2005008%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | [5009\.](%C2%A7%2005009%20-%20Unlawful%20activities.md) | Unlawful activities. |
-| [5010\.](%C2%A7%2005010%20-%20Penalties.md) | Penalties. |
+| [5010\.](%C2%A7%2005010%20-%20Additional%20prohibitions%20and%20enforcement.md) | Additional prohibitions and enforcement. |
 | [5011\.](%C2%A7%2005011%20-%20Funding%20requirements.md) | Funding requirements. |
 | [5012\.](%C2%A7%2005012%20-%20Disposition%20of%20property.md) | Disposition of property. |
 
@@ -31,6 +31,6 @@
 - [&sect; 05007 - Cooperation with other agencies](%C2%A7%2005007%20-%20Cooperation%20with%20other%20agencies.md)
 - [&sect; 05008 - Enforcement provisions](%C2%A7%2005008%20-%20Enforcement%20provisions.md)
 - [&sect; 05009 - Unlawful activities](%C2%A7%2005009%20-%20Unlawful%20activities.md)
-- [&sect; 05010 - Penalties](%C2%A7%2005010%20-%20Penalties.md)
+- [&sect; 05010 - Additional prohibitions and enforcement](%C2%A7%2005010%20-%20Additional%20prohibitions%20and%20enforcement.md)
 - [&sect; 05011 - Funding requirements](%C2%A7%2005011%20-%20Funding%20requirements.md)
 - [&sect; 05012 - Disposition of property](%C2%A7%2005012%20-%20Disposition%20of%20property.md)

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(ii) videos;
 
-&emsp;&emsp;&emsp;(iii) other materials, including programs and materials associated with new and emerging technologies, such as CDs, DVDs,video streaming, and other forms of multimedia; or
+&emsp;&emsp;&emsp;(iii) other materials, including programs and materials associated with new and emerging technologies, such as CDs, DVDs, video streaming, and other forms of multimedia; or
 
 &emsp;&emsp;&emsp;(iv) news (but only until September 30, 2006);
 

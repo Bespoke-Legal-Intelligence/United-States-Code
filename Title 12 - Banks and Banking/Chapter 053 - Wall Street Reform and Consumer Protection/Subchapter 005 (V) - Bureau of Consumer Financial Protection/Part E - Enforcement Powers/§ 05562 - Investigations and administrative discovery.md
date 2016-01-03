@@ -140,7 +140,7 @@
 
 #### (iii) Transmission to custodian
 
-&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+&emsp;&emsp;&emsp;After the testimony is fully transcribed, the officer investigator before whom thetestimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
 #### (B) Parties present
 
@@ -148,7 +148,7 @@
 
 #### (C) Location
 
-&emsp;&emsp;The oral testimony of any person taken pursuant to a civil investigative demand shall be taken in the judicial district of the United States in which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the Bureau investigator before whom the oraltestimony of such person is to be taken and such person.
+&emsp;&emsp;The oral testimony of any person taken pursuant to a civil investigative demand shall be taken in the judicial district of the United States in which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the Bureau investigator before whom the oral testimony of such person is to be taken and such person.
 
 #### (D) Attorney representation
 
@@ -206,7 +206,7 @@
 
 #### (2) Disclosure to Congress
 
-&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided the material to the Bureau and had designated such material as confidential.
+&emsp;No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided thematerial to the Bureau and had designated such material as confidential.
 
 #### (e) Petition for enforcement
 

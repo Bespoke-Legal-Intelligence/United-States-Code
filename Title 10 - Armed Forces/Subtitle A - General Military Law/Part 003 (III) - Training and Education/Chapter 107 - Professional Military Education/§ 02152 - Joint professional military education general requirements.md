@@ -10,7 +10,7 @@ Joint Military Education Schools.—The Secretary of Defense, with the advice an
 
 (c)
 
-Other Professional Military Education Schools.—The Secretary of Defense shall require that each Department of Defense school concerned with professional military education periodically review and revise its curriculum for senior and intermediate grade officers in order to strengthen the focus on—
+Other Professional Military Education Schools.—The Secretary of Defense shall require that each Department of Defense school concerned with professional military educationperiodically review and revise its curriculum for senior and intermediate grade officers in order to strengthen the focus on—
 
 &emsp;(1) joint matters; and
 

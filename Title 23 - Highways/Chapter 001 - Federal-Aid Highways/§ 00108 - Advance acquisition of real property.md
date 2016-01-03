@@ -20,19 +20,19 @@ State-funded Early Acquisition of Real Property Interests.—
 
 &emsp;(1)
 
-In general.—A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals requiredfor the project by the State or any Federal agency.
+In general.—A State may carry out, at the expense of the State, acquisitions of interests in real property for a project before completion of the review process required for the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) without affecting subsequent approvals required for the project by the State or any Federal agency.
 
 &emsp;(2)
 
 Eligibility for reimbursement.—Subject to paragraph (3), funds apportioned to a State under this title may be used to participate in the payment of—
 
-&emsp;&emsp;(A) costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation program funds; and
+&emsp;&emsp;(A) costs incurred by the State for acquisition of real property interests, acquired in advance of any Federal approval or authorization, if the real property interests are subsequently incorporated into a project eligible for surface transportation block grant program funds; and
 
 &emsp;&emsp;(B) costs incurred by the State for the acquisition of land necessary to preserve environmental and scenic values.
 
 &emsp;(3)
 
-Terms and conditions.—The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation program funds, if the State demonstrates to the Secretary and the Secretary finds that—
+Terms and conditions.—The Federal share payable of the costs described in paragraph (2) shall be eligible for reimbursement out of funds apportioned to a State under this title when the real property interests acquired are incorporated into a project eligible for surface transportation block grant program funds, if the State demonstrates to the Secretary and the Secretary finds that—
 
 &emsp;&emsp;(A) any land acquired, and relocation assistance provided, complied with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
 
@@ -138,7 +138,7 @@ Applicable law.—The acquisition of a real property interest shall be carried o
 
 Additional conditions.—The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528; Pub. L. 114–94, div. A, title I, §1109(c)(5), Dec. 4, 2015, 129 Stat. 1343.)
 
 #### References in Text
 
@@ -155,6 +155,8 @@ This Act, referred to in subsec. (c)(3)(F), probably means Pub. L. 102–240, De
 Section 7 of the Endangered Species Act, referred to in subsec. (c)(3)(F), probably means section 7 of the Endangered Species Act of 1973, which is classified to section 1536 of Title 16, Conservation.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(2)(A), (3). Pub. L. 114–94 substituted "surface transportation block grant program" for "surface transportation program" in par. (2)(A) and in introductory provisions of par. (3).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §1302(a)(1), substituted "real property interests" for "real property" wherever appearing.
 
@@ -186,7 +188,7 @@ Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as 
 
 <b>1994</b>—Subsec. (d)(2)(F). Pub. L. 103–429 substituted "section 303 of title 49" for "section 4(f) of the Department of Transportation Act".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted "Federal-aid highway" for "of the Federal-aid highway systems, including the Interstate System,"and "which may be expended on such highway" for "for expenditure on any of the Federal-aid highway systems, including the Interstate System,".
+<b>1992</b>—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted "Federal-aid highway" for "of the Federal-aid highway systems, including the Interstate System," and "which may be expended on such highway" for "for expenditure on any of the Federal-aid highway systems, including the Interstate System,".
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted "and passenger transit facilities".
 
@@ -213,6 +215,10 @@ Subsec. (c)(3). Pub. L. 93–87, §113(b), substituted "ten" for "seven" years i
 Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(B) include as part of the reviews, a review and assessment of program strengths and areas in need of improvement;
 
-&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs haveadequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
+&emsp;&emsp;(C) include as part of the reviews, a review and assessment of whether programs have adequately addressed population and community needs (including those of limited English proficient children and children of migrant or seasonal farmworker families);
 
 &emsp;&emsp;(D) include as part of the reviews, an assessment of the extent to which the programs address the communitywide strategic planning and needs assessment described in section 9835(g)(1)(C) of this title;
 
@@ -316,7 +316,7 @@
 
 #### (3) Training and technical assistance
 
-&emsp;The Secretary shall provide training and technical assistance to Head Start agencies and programs with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
+&emsp;The Secretary shall provide training and technical assistance to Head Start agenciesand programs with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
 
 #### (f) Summaries of monitoring outcomes
 

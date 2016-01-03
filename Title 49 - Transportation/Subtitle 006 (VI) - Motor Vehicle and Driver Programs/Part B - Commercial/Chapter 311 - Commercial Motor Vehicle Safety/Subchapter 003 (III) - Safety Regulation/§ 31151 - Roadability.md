@@ -40,7 +40,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(J) a process by which motor carriers and agents of motor carriers shall be able to request the Federal Motor Carrier Safety Administration to undertake an investigation of an intermodal equipment provider identified under subparagraph (A) that is alleged to be not in compliance with the regulations under this section;
 
-&emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shall be able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
+&emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shallbe able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
 
 &emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodal equipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
 
@@ -112,7 +112,7 @@ Interchange.—The term "interchange"—
 
 &emsp;&emsp;(B) does not include the leasing of equipment to a motor carrier for primary use in the motor carrier's freight hauling operations.
 
-(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
+(Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, titleIII, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
 
 #### References in Text
 

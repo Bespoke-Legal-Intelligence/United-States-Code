@@ -34,7 +34,7 @@ Additional Authority and Considerations.—(1) The Secretary may prescribe—
 
 &emsp;(C) provide for approval of qualifications on a conditional basis until specified requirements are met.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120Stat. 3489; Pub. L. 112–90, §19, Jan. 3, 2012, 125 Stat. 1916.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1311; Pub. L. 104–304, §20(c), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(c), (d), Dec. 29, 2006, 120 Stat. 3489; Pub. L. 112–90, §19, Jan. 3, 2012, 125 Stat. 1916.)
 
 Historical and Revision Notes
 
@@ -118,7 +118,7 @@ In subsection (d)(2), before clause (A), the words "qualifications prescribed" a
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–90 inserted at end "For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economic hardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence."
+<b>2012</b>—Subsec. (b). Pub. L. 112–90 inserted at end "For each of fiscal years 2012 and 2013, the Secretary shall grant such a waiver to a State if the State can demonstrate an inability to maintain or increase the required funding share of its safety program at or above the level required by this subsection due to economichardship in that State. For fiscal year 2014, and each fiscal year thereafter, the Secretary may grant such a waiver to a State if the State can make the demonstration described in the preceding sentence."
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–468, §2(c), substituted "not more than 80 percent" for "not more than 50 percent" in introductory provisions.
 

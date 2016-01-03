@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) The United States Government administers various assistance programs for orphans and other vulnerable children in developing countries. In order to improve targeting and programming of resources, the United States Agency for International Development should develop methods to adequately track the overall number of orphans and other vulnerable children receiving assistance, the kinds of programs for such children by sector and location, and any other such related data and analysis.
 
-&emsp;(7) The United States Agency for International Development should improve its capabilities to deliver assistance to orphans and other vulnerable children in developing countries through partnerships with private volunteer organizations, including community and faith-based organizations.
+&emsp;(7) The United States Agency for International Development should improve its capabilities to deliver assistance to orphans andother vulnerable children in developing countries through partnerships with private volunteer organizations, including community and faith-based organizations.
 
 &emsp;(8) The United States Agency for International Development should be the primary United States Government agency responsible for identifying and assisting orphans and other vulnerable children in developing countries.
 
@@ -166,7 +166,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;"(14) Although section 403(b) of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (22 U.S.C. 7673(b)) establishes the requirement that not less than 10 percent of amounts appropriated for HIV/AIDS assistance for each of fiscal years 2006 through 2008 shall be expended for assistance for orphans and other vulnerable children affected by HIV/AIDS, there is an urgent need to provide assistance to such children prior to 2006.
 
-&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the UnitedStates Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
+&emsp;"(15) Numerous United States and indigenous private voluntary organizations, including faith-based organizations, provide assistance to orphans and other vulnerable children in developing countries. Many of these organizations have submitted applications for grants to the Administrator of the United States Agency for International Development to provide increased levels of assistance for orphans and other vulnerable children in developing countries.
 
 &emsp;"(16) Increasing the amount of assistance that is provided by the Administrator of the United States Agency for International Development through United States and indigenous private voluntary organizations, including faith-based organizations, will provide greater protection for orphans and other vulnerable children in developing countries.
 

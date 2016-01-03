@@ -110,7 +110,7 @@ With respect to the freshwater aspects of the Program, the Administrator, throug
 
 #### (2) Nonduplication
 
-&emsp;The Administrator shall ensure that activities carried out under this chapter focus on new approaches to addressing freshwater harmful algal blooms and are not duplicative of existing research and development programs authorized by this chapter or any other law.
+&emsp;The Administrator shall ensure that activities carried out under this chapter focus onnew approaches to addressing freshwater harmful algal blooms and are not duplicative of existing research and development programs authorized by this chapter or any other law.
 
 #### (i) Integrated Coastal and Ocean Observation System
 

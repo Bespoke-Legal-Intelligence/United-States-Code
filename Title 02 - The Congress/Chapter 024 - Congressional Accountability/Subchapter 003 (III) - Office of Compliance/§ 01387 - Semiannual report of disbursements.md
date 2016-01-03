@@ -10,7 +10,7 @@ Not later than 60 days after the last day of each semiannual period of a fiscal 
 
 &emsp;The report required by subsection (a) shall include—
 
-&emsp;&emsp;(A) the identification of each person who receives a payment from the Office of Compliance, except that in the case of an individual, the identification shall be provided in a manner that does not identify the individual by name;
+&emsp;&emsp;(A) the identification of each person who receives a payment from the Office of Compliance, except that in the case of an individual, the identification shall be providedin a manner that does not identify the individual by name;
 
 &emsp;&emsp;(B) the quantity and price of any item furnished to the Office of Compliance;
 

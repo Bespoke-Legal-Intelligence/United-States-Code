@@ -2,7 +2,7 @@
 
 #### (a) Applications; qualifications; certificate of approval; periodic reauthorization
 
-(1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; (C) whether the applicant is located in an area with significantly limited access to food; and (D) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval. No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
+(1) Regulations issued pursuant to this chapter shall provide for the submission of applications for approval by retail food stores and wholesale food concerns which desire to be authorized to accept and redeem benefits under the supplemental nutrition assistance program and for the approval of those applicants whose participation will effectuate the purposes of the supplemental nutrition assistance program. In determining the qualifications of applicants, there shall be considered among such other factors as may be appropriate, the following: (A) the nature and extent of the food business conducted by the applicant; (B) the volume of benefit transactions which may reasonably be expected to be conducted by the applicant food store or wholesale food concern; (C) whether the applicant is located in an area with significantly limited access to food; and (D) the business integrity and reputation of the applicant. Approval of an applicant shall be evidenced by the issuance to such applicant of a nontransferable certificate of approval. No retail food store or wholesalefood concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the supplemental nutrition assistance program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.
 
 (2) The Secretary shall issue regulations providing for—
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking intoaccount need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1977 Amendment
 

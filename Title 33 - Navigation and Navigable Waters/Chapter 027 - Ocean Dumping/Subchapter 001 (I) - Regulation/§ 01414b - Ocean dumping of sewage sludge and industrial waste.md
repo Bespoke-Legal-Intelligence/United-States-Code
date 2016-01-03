@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by theState under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
 
 #### (3) Schedule for payment
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located asum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
 
 &emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
 

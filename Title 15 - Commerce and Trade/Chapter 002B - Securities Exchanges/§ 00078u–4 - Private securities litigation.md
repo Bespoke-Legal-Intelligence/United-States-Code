@@ -96,7 +96,7 @@
 
 #### (5) Restrictions on settlements under seal
 
-&emsp;The terms and provisions of any settlement agreement of a class action shall not be filed under seal, except that on motion of any party to the settlement, the court may order filing under seal for those portions of a settlement agreement as to which good cause is shown for such filing under seal. For purposes of this paragraph, good cause shall exist only if publication of a term or provision of a settlement agreement would cause direct and substantial harm to any party.
+&emsp;The terms and provisions of any settlement agreement of a class action shall not be filed under seal, except that on motion of any party to the settlement, the court may order filing under seal for those portions of a settlement agreement as to which good cause is shown forsuch filing under seal. For purposes of this paragraph, good cause shall exist only if publication of a term or provision of a settlement agreement would cause direct and substantial harm to any party.
 
 #### (6) Restrictions on payment of attorneys' fees and expenses
 
@@ -122,7 +122,7 @@
 
 #### (iii) Inadmissibility for certain purposes
 
-&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount ofdamages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
+&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount of damages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
 
 #### (C) Statement of attorneys' fees or costs sought
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shalltreat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -232,7 +232,7 @@
 
 #### (C) Sanctions
 
-&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
+&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burdenunder subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 
 #### (d) Defendant's right to written interrogatories
 
@@ -302,7 +302,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months after a final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding paragraph (2)(B), upon <sup>1</sup> motion made not later than 6 months aftera final judgment is entered in any private action, the court determines that all or part of the share of the judgment of the covered person is not collectible against that covered person, and is also not collectible against a covered person described in paragraph (2)(A), each covered person described in paragraph (2)(B) shall be liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 

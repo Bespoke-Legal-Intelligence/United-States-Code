@@ -62,7 +62,7 @@ If—
 
 #### (d) Special rules for generation-skipping transfers
 
-Where stock in a corporation is the subject of a generation-skipping transfer (within themeaning of section 2611(a)) occurring at the same time as and as a result of the death of an individual—
+Where stock in a corporation is the subject of a generation-skipping transfer (within the meaning of section 2611(a)) occurring at the same time as and as a result of the death of an individual—
 
 &emsp;(1) the stock shall be deemed to be included in the gross estate of such individual;
 
@@ -94,7 +94,7 @@ Subsec. (b)(2)(B). Pub. L. 97–34, §422(b)(2), in heading, substituted "stock 
 
 <b>1976</b>—Subsec. (b)(1)(C). Pub. L. 94–455, §2004(e)(1), added subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
+Subsec. (b)(2)(A). Pub. L. 94–455, §2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent's gross estate is either more than 35percent of the gross estate or 50 percent of the taxable estate.
 
 Subsec. (b)(2)(B). Pub. L. 94–455, §2004(e)(2)(B), substituted "the 50 percent requirement" for "the 35 percent and 50 percent requirements".
 

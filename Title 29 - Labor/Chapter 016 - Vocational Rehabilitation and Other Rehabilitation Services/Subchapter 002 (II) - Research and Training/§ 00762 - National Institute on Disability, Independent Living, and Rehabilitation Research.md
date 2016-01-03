@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Director as principal officer
 
-(1) There is established within the Administration for Community Living of the Department of Health and Human Services a National Instituteon Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
+(1) There is established within the Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the "Institute"), which shall be headed by a Director (hereinafter in this subchapter referred to as the "Director"), in order to—
 
 &emsp;(A) promote, coordinate, and provide for—
 
@@ -22,7 +22,7 @@
 
 &emsp;(D) provide leadership in advancing the quality of life of individuals with disabilities.
 
-(2) In the performance of the functions of the office, the Director shall be directly responsible to the Administrator for the Administration for Community Living of the Department of Health and Human Services.
+(2) In the performance of the functions of the office, the Director shall be directly responsible to the Administrator for the Administration forCommunity Living of the Department of Health and Human Services.
 
 #### (b) Duties of Director
 
@@ -148,7 +148,7 @@ Not less than 90 percent of the funds appropriated under this subchapter for any
 
 &emsp;&emsp;(ii) in coordination with the Administrator;
 
-&emsp;&emsp;(iii) after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Interagency Committee on Disability Research established under section 763 of this title; and
+&emsp;&emsp;(iii) after consultation with the National Council on Disability established under subchapter IV, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Interagency Committee on Disability Research established under section 763 of this title; and
 
 &emsp;&emsp;(iv) after full consideration of the input of individuals with disabilities and the individuals' representatives, organizations representing individuals with disabilities, providers of services furnished under this chapter, researchers in the independent living and rehabilitation fields, and any other persons or entities the Director considers to be appropriate;
 
@@ -190,11 +190,11 @@ The Director shall make grants to institutions of higher education for the train
 
 #### (m) Action taken for failure to comply
 
-(1) If the Director determines that an entity that receives funding under this subchapter fails to comply with the applicable requirements of this chapter, or to make progress toward achieving the measurable goals described in section 764(d)(2) of this title, with respect to the coveredactivities involved, the Director shall utilize available monitoring and enforcement measures.
+(1) If the Director determines that an entity that receives funding under this subchapter fails to comply with the applicable requirements of this chapter, or to make progress toward achieving the measurable goals described in section 764(d)(2) of this title, with respect to the covered activities involved, the Director shall utilize available monitoring and enforcement measures.
 
 (2) As part of the annual report required under subsection (l), the Secretary shall describe each action taken by the Secretary under paragraph (1) and the outcomes of such action.
 
-(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 113–128, title IV, §433, July 22, 2014, 128 Stat. 1661.)
+(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 113–128, title IV, §433, July 22, 2014, 128 Stat. 1661; Pub. L. 114–95, title IX, §9215(mmm)(1), Dec. 10, 2015, 129 Stat. 2188.)
 
 #### References in Text
 
@@ -209,6 +209,8 @@ Provisions similar to this section were contained in section 761a of this title 
 A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4)(A)(i). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
 <b>2014</b>—Pub. L. 113–128, §433(1), inserted ", Independent Living," after "Disability" in section catchline.
 
@@ -271,6 +273,10 @@ Subsecs. (k) to (m). Pub. L. 113–128, §433(8), added subsecs. (k) to (m) and 
 <b>2000</b>—Subsec. (h)(2)(D)(iii). Pub. L. 106–402 substituted "Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)".
 
 <b>1998</b>—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, §405, which enacted this section.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 

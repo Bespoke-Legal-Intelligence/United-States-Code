@@ -1,6 +1,6 @@
 ### §7612. Eligibility; application; agreement
 
-(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be acceptedfor enrollment or be enrolled (as described in section 7602 of this title) as a full-time student to be eligible to participate in the Scholarship Program.
+(a)(1) Except as provided in paragraph (2) of this subsection, an individual must be accepted for enrollment or be enrolled (as described in section 7602 of this title) as a full-time student to be eligible to participate in the Scholarship Program.
 
 (2) An individual who is an eligible Department employee may be accepted as a participant if accepted for enrollment or enrolled (as described in section 7602 of this title) for study on less than a full-time but not less than a half-time basis. (Such a participant is hereinafter in this subchapter referred to as a "part-time student".)
 

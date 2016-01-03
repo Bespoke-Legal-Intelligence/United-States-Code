@@ -108,7 +108,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (A) Authority
 
-&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined bythe Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
+&emsp;&emsp;From amounts appropriated for a fiscal year to provide financial assistance under the national service laws, the Corporation may provide assistance in the form of fixed-amount grants in an amount determined by the Corporation under paragraph (2) rather than on the basis of actual costs incurred by a program.
 
 #### (B) Limitation
 
@@ -170,7 +170,7 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservation of amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
+<b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservationof amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
 
 #### Effective Date of 2009 Amendment
 

@@ -50,7 +50,7 @@ This section may be cited as the "Fern Lake Conservation and Recreation Act".
 
 #### (2) Acquisition authorized
 
-&emsp;The Secretary may acquire for addition to the park lands consisting of approximately4,500 acres and containing Fern Lake and its surrounding watershed, as generally depicted on the map entitled "Cumberland Gap National Historical Park, Fern Lake Watershed", numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
+&emsp;The Secretary may acquire for addition to the park lands consisting of approximately 4,500 acres and containing Fern Lake and its surrounding watershed, as generally depicted on the map entitled "Cumberland Gap National Historical Park, Fern Lake Watershed", numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
 
 #### (3) Boundary adjustment and administration
 

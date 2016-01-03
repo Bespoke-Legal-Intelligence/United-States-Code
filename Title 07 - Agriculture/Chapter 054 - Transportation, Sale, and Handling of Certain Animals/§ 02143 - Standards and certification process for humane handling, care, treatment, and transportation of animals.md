@@ -60,7 +60,7 @@
 
 &emsp;(iii) an explanation for any deviation from the standards promulgated under this section.
 
-(8) Paragraph (1) shall not prohibit any State (or a political subdivision of such State) from promulgating standards in addition to those standards promulgated by the Secretary under paragraph (1).
+(8) Paragraph (1) shall not prohibit any State (or a political subdivision of such State) frompromulgating standards in addition to those standards promulgated by the Secretary under paragraph (1).
 
 #### (b) Research facility Committee; establishment, membership, functions, etc.
 
@@ -126,7 +126,7 @@ Each research facility shall provide for the training of scientists, animal tech
 
 #### (e) Establishment of information service at National Agricultural Library; service functions
 
-The Secretary shall establish an information service at the National Agricultural Library.Such service shall, in cooperation with the National Library of Medicine, provide information—
+The Secretary shall establish an information service at the National Agricultural Library. Such service shall, in cooperation with the National Library of Medicine, provide information—
 
 &emsp;(1) pertinent to employee training;
 

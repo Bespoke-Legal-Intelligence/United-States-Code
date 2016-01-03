@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. The court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
+Appointment.—A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. A person appointed as a probation officer in one district may serve in another district with the consent of the appointing court and the court in the other district. The appointing court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
 
 (b)
 
@@ -12,7 +12,11 @@ Record of Appointment.—The order of appointment shall be entered on the record
 
 Chief Probation Officer.—If the court appoints more than one probation officer, one may be designated by the court as chief probation officer and shall direct the work of all probation officers serving in the judicial district.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2001.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2001; amended Pub. L. 114–113, div. E, title III, §307, Dec. 18, 2015, 129 Stat. 2443.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–113 inserted "A person appointed as a probation officer in one district may serve in another district with the consent of the appointing court and the court in the other district." after first sentence and "appointing" before "court may, for cause, remove".
 
 #### Effective Date
 

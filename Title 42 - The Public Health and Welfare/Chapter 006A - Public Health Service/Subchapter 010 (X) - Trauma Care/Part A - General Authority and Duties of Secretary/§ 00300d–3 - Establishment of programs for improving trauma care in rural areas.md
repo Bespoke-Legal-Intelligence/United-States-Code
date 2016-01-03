@@ -28,7 +28,7 @@ In making grants under subsection (a), the Secretary shall give special consider
 
 The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title XII, §1202, formerly §1204, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2918; renumbered §1203 and amendedPub. L. 103–183, title VI, §601(b)(2), (f)(1), Dec. 14, 1993, 107 Stat. 2238, 2239; Pub. L. 105–392, title IV, §401(a)(1), Nov. 13, 1998, 112 Stat. 3587; renumbered §1202 and amended Pub. L. 110–23, §§3(2), 4, May 3, 2007, 121 Stat. 90, 91.)
+(July 1, 1944, ch. 373, title XII, §1202, formerly §1204, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2918; renumbered §1203 and amended Pub. L. 103–183, title VI, §601(b)(2), (f)(1), Dec. 14, 1993, 107 Stat. 2238, 2239; Pub. L. 105–392, title IV, §401(a)(1), Nov. 13, 1998, 112 Stat. 3587; renumbered §1202 and amended Pub. L. 110–23, §§3(2), 4, May 3, 2007, 121 Stat. 90, 91.)
 
 #### Prior Provisions
 

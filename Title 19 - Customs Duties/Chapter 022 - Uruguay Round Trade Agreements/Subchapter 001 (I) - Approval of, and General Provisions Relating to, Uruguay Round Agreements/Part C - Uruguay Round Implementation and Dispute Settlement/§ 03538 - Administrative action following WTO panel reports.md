@@ -28,7 +28,7 @@
 
 #### (6) Revocation of order
 
-&emsp;If, by virtue of the Commission's determination under paragraph (4), an antidumping or countervailing duty order with respect to some or all of the imports that are subject to the action of the Commission described in paragraph (1) is no longer supported by an affirmative Commission determination under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or this subsection, the Trade Representative may, after consulting with the congressional committees under paragraph (5), direct the administering authority to revoke the antidumping or countervailing duty order in whole or in part.
+&emsp;If, by virtue of the Commission's determination under paragraph (4), an antidumping or countervailing duty order with respect to some or all of the imports that are subject to the action of the Commission described in paragraph (1) is no longer supported by an affirmative Commission determination under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or this subsection, the Trade Representative may, after consulting with the congressional committees under paragraph (5),direct the administering authority to revoke the antidumping or countervailing duty order in whole or in part.
 
 #### (b) Action by administering authority
 
@@ -54,9 +54,9 @@
 
 &emsp;Determinations concerning title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that are implemented under this section shall apply with respect to unliquidated entries of the subject merchandise (as defined in section 771 of that Act \[19 U.S.C. 1677\]) that are entered, or withdrawn from warehouse, for consumption on or after—
 
-&emsp;&emsp;(A) in the case of a determination by the Commission under subsection (a)(4) of this section, the date on which the Trade Representative directs the administering authority under subsection (a)(6) of this section to revoke an order pursuant to that determination, and
+&emsp;&emsp;(A) in the case of a determination by the Commission under subsection (a)(4), the date on which the Trade Representative directs the administering authority under subsection (a)(6) to revoke an order pursuant to that determination, and
 
-&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) ofthis section to implement that determination.
+&emsp;&emsp;(B) in the case of a determination by the administering authority under subsection (b)(2), the date on which the Trade Representative directs the administering authority under subsection (b)(4) to implement that determination.
 
 #### (2) Notice of implementation
 

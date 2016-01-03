@@ -40,7 +40,7 @@
 
 #### (b) Limitation based on need
 
-Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A) the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
+Any loan under this section may be counted as part of the expected family contribution in the determination of need under this subchapter and part C of subchapter I of chapter 34 of title 42, but no loan may be made to any graduate or professional student or any parent under this section for any academic year in excess of (A)the student's estimated cost of attendance, minus (B) other financial aid as certified by the eligible institution under section 1078(a)(2)(A) of this title. The annual insurable limit on account of any student shall not be deemed to be exceeded by a line of credit under which actual payments to the borrower will not be made in any year in excess of the annual limit.
 
 #### (c) PLUS loan disbursement
 
@@ -108,7 +108,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Refinancing to secure variable interest rate
 
-&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not to exceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
+&emsp;An eligible lender may reissue a loan which was made under this section before July 1, 1987, or under this section as in effect prior to October 17, 1986, in order to permit the borrower to obtain the interest rate provided under section 1077a(c)(4) of this title. A lender offering to reissue a loan or loans for such purpose may charge a borrower an amount not toexceed $100 to cover the administrative costs of reissuing such loan or loans, not more than one-half of which shall be paid to the guarantor of the loan being reissued to cover costs of reissuance. Reissuance of a loan under this paragraph shall not affect any insurance applicable with respect to the loan, and no additional insurance fee may be charged to the borrower with respect to the loan.
 
 #### (3) Refinancing by discharge of previous loan
 
@@ -138,7 +138,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Subsec. (c)(2). Pub. L. 100–50, §10(o)(1), (2)(C), (q), in introductory provi
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted "at any time" after "eligible lender may" in first sentence, substituted "the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)" for "the borrower complies with the requirements of paragraph (2)" in second sentence, and inserted "(if required by them)" after "shall be reported" in third sentence.
 
-Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before"under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
+Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before "under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted "October 1, 1987" for "January 1, 1987" and, in subpar. (B), inserted "and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples" before semicolon at end.
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request
 

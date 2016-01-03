@@ -8,7 +8,7 @@ To be eligible for a grant under this chapter, a State shall—
 
 &emsp;(2) designate a Lead State Agency under section 9409(c) of this title to administer and monitor the grant and ensure State-level coordination of early learning programs;
 
-&emsp;(3) submit to the Secretary an application at such time, in such manner, and accompanied by such information as the Secretary may require;
+&emsp;(3) submit to the Secretary an application at such time, in such manner, and accompaniedby such information as the Secretary may require;
 
 &emsp;(4) ensure that funds made available under this chapter are distributed on a competitive basis throughout the State to Local Councils serving rural, urban, and suburban areas of the State; and
 
@@ -52,7 +52,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (5) Improvement plans
 
-&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described inparagraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
+&emsp;If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §811\], Dec. 21, 2000, 114 Stat. 2763, 2763A–86.)
 

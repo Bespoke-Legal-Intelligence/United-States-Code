@@ -98,13 +98,15 @@ In subsection (g), the words "10 years after December 26, 2007" are substituted 
 
 #### Deposit of Proceeds
 
-Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: "That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see 51 U.S.C. 20145), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings '
+Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: "That hereafter, notwithstanding section 315 of the National Aeronautics and Space Actof 1958 (see 51 U.S.C. 20145), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings '
 
 National Aeronautics and Space Administration' and '
 
 construction and environmental compliance and restoration' of title III of div. B of Pub. L. 113–6\]: <i>Provided further</i>, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. B, title III, Dec. 18, 2015, 129 Stat. 2317.
 
 Pub. L. 113–235, div. B, title III, Dec. 16, 2014, 128 Stat. 2203.
 

@@ -150,7 +150,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under theplan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -202,7 +202,7 @@ Protection against loss.—Except in the case of any benefit provided in the for
 
 &emsp;&emsp;(iii)
 
-Indexing.—For purposes of this subparagraph, the term "indexing" means, in connection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
+Indexing.—For purposes of this subparagraph, the term "indexing" means, inconnection with an accrued benefit, the periodic adjustment of the accrued benefit by means of the application of a recognized investment index or methodology.
 
 &emsp;(F)
 
@@ -230,7 +230,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;(i) all mandatory contributions made by the employee,
 
-&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
+&emsp;(ii) interest (if any) under the plan to the end of the last plan year to which section 1053(a)(2) of this title does not apply (by reason of the applicable effective date), and
 
 &emsp;(iii) interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
@@ -560,7 +560,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b),June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
 
 #### References in Text
 
@@ -718,7 +718,7 @@ Amendment by section 659(b) of Pub. L. 107–16 applicable to plan amendments ta
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub.L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 
@@ -756,7 +756,7 @@ Plan amendments not required until january 1, 1989.—If any amendment made by t
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988,with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1113(e)(4)(B) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Pub. L. 99–514, title XVIII, §1879(u)(5), formerly §1879(u)(4), Oct. 22, 1986, 100 Stat. 2913, as redesignated and amended by Pub. L. 101–239, title VII, §7862(b)(1)(A), (B), Dec. 19, 1989, 103 Stat. 2432, provided that:
 

@@ -73,6 +73,7 @@
 | [824m.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824m%20-%20Sales%20by%20exempt%20wholesale%20generators.md) | Sales by exempt wholesale generators. |
 | [824n.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824n%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71232%28e%29%283%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20957.md) | Repealed. |
 | 824<i>o.</i> | Electric reliability. |
+| 824o–1. | Critical electric infrastructure security. |
 | [824p.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824p%20-%20Siting%20of%20interstate%20electric%20transmission%20facilities.md) | Siting of interstate electric transmission facilities. |
 | [824q.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824q%20-%20Native%20load%20service%20obligation.md) | Native load service obligation. |
 | [824r.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824r%20-%20Protection%20of%20transmission%20contracts%20in%20the%20Pacific%20Northwest.md) | Protection of transmission contracts in the Pacific Northwest. |

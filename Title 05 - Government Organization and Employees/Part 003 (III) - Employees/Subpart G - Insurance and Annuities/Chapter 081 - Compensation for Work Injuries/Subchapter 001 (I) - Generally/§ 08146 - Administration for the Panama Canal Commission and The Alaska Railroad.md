@@ -40,7 +40,7 @@ In subsection (b), the words "the Employees' Compensation Fund" are substituted 
 
 In subsections (b) and (c), the words "Canal Zone Government", "Panama Canal Company", and "Governor of the Canal Zone" are substituted for "Panama Canal", "Panama Railroad Company", and "Governor of the Panama Canal", respectively, on authority of the Act of Sept. 26, 1950, ch. 1049, §2, 64 Stat. 1038.
 
-In subsection (e), the words "of other employees to whom this subchapter applies" are substituted for "of other employees of the Federal Government" for clarity and in view of the provisions of section 8149. The words "Employees' Compensation Appeals Board" are substituted for "Appeals Board" to reflect the full title of the Board
+In subsection (e), the words "of other employees to whom this subchapter applies" are substituted for "ofother employees of the Federal Government" for clarity and in view of the provisions of section 8149. The words "Employees' Compensation Appeals Board" are substituted for "Appeals Board" to reflect the full title of the Board
 
 Administration of this subchapter was transferred to the Secretary of Labor by section 1 of 1950 Reorg. Plan No. 19, 64 Stat. 1271 (see section 8145).
 

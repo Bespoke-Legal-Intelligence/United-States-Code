@@ -30,7 +30,7 @@
 
 (3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes<br>1956
 
@@ -60,7 +60,7 @@ July 9, 1918, ch. 143, subch. XV, §8 (last par.), 40 Stat. 888.
 
 50:172 (91st through 109th words of last par.).
 
-In subsection (a), the words "an executive department or the Federal Maritime Board" are substitutedfor the words "any department or the United States Maritime Commission" to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words "and dispose of" are omitted as surplusage.
+In subsection (a), the words "an executive department or the Federal Maritime Board" are substituted for the words "any department or the United States Maritime Commission" to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words "and dispose of" are omitted as surplusage.
 
 In subsection (b), the words "an executive department or the Federal Maritime Board" are inserted for clarity and to name the successor of the United States Maritime Commission.
 

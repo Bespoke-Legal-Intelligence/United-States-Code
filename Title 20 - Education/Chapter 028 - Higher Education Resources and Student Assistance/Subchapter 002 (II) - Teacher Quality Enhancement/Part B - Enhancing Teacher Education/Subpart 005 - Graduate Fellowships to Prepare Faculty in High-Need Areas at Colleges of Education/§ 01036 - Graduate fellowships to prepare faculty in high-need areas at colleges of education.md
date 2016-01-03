@@ -16,7 +16,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (1) In general
 
-&emsp;An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become highly qualified elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students.
+&emsp;An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students, who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title.
 
 #### (2) Types of study
 
@@ -56,7 +56,7 @@ An eligible institution that desires a grant under this section shall submit an 
 
 #### (A) Teaching required
 
-&emsp;&emsp;Each individual who receives a graduate fellowship under this section and earns a doctoral degree shall teach for one year at an institution of higher education that has a teacher preparation program for each yearof fellowship support received under this section.
+&emsp;&emsp;Each individual who receives a graduate fellowship under this section and earns a doctoral degree shall teach for one year at an institution of higher education that has a teacher preparation program for each year of fellowship support received under this section.
 
 #### (B) Institutional obligation
 
@@ -86,7 +86,15 @@ An eligible institution that receives a grant under this section may reserve not
 
 An eligible institution that receives a grant under this section may not use grant funds for general operational overhead of the institution.
 
-(Pub. L. 89–329, title II, §258, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3163.)
+(Pub. L. 89–329, title II, §258, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3163; amended Pub. L. 114–95, title IX, §9214(c)(11), Dec. 10, 2015, 129 Stat. 2164.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 struck out "highly qualified" after "become" and inserted ", who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" before period at end.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "individual's".</i>
 

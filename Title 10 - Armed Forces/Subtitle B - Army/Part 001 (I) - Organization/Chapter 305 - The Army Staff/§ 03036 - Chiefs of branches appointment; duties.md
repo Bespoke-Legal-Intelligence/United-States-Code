@@ -36,7 +36,7 @@
 
 &emsp;(2) the name of each officer whose regular grade is above colonel, who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment;
 
-&emsp;(3) to the extent that the Secretary determines advisable, the name of each officer of the Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is lieutenant colonel, in the order in which their names appear on the applicable promotion lists; and
+&emsp;(3) to the extent that the Secretary determines advisable, the name of each officer ofthe Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is lieutenant colonel, in the order in which their names appear on the applicable promotion lists; and
 
 &emsp;(4) to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
@@ -154,7 +154,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purp
 
 #### Corps of Engineers; Annual Budget Submission
 
-Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: "All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congressbut shall be submitted separately from the budget justifications documents."
+Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: "All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents."
 
 #### Chief of Engineers; Fiscal Transparency Report
 
@@ -252,7 +252,7 @@ Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided 
 
 #### reorganization of the department of the army
 
-By virtue of the authority vested in me by section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), and as Secretary of Defense, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 202(c) of the National Security Act of 1947, as amended\(72 Stat. 514; 5 U.S.C. 171a(c)), and as Secretary of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Abolition of officers and transfer of functions</i>. The following officers named in section 3036, Title 10, United States Code, are hereby abolished and their functions transferred to the Secretary of the Army:
 

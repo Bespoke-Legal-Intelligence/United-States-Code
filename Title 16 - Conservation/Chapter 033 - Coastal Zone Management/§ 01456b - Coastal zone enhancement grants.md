@@ -12,7 +12,7 @@ For purposes of this section, the term "coastal zone enhancement objective" mean
 
 &emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
 
-&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect onvarious individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
+&emsp;(5) Development and adoption of procedures to assess, consider, and control cumulative and secondary impacts of coastal growth and development, including the collective effect on various individual uses or activities on coastal resources, such as coastal wetlands and fishery resources.
 
 &emsp;(6) Preparing and implementing special area management plans for important coastal areas.
 
@@ -32,7 +32,7 @@ For purposes of this section, the term "coastal zone enhancement objective" mean
 
 #### (c) Evaluation of State proposals by Secretary
 
-The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d) of this section. The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
+The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d). The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
 
 #### (d) Promulgation of regulations by Secretary
 

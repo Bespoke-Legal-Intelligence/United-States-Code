@@ -16,7 +16,7 @@ Township 5 south, range 2 east, section 6, lots 4 through 9; 16 through 21; and 
 
 Township 4 south, range 1 west, all sections in township.
 
-Township 4 south, range 1 east; section 4, south half; south half northeast quarter and south half northwest quarter; sections 5 through 9; 15 through 23; section 24, west half; section 25, west half; sections 26 through 35; section 36, lots 3 through 5 and 8 through 11 and southeast quarter.
+Township 4 south, range 1 east; section 4, south half; south half northeast quarter and south half northwest quarter; sections 5 through 9; 15 through 23; section 24, west half; section 25,west half; sections 26 through 35; section 36, lots 3 through 5 and 8 through 11 and southeast quarter.
 
 Township 4 south, range 2 east, section 31, west half southeast quarter and southwest quarter.
 

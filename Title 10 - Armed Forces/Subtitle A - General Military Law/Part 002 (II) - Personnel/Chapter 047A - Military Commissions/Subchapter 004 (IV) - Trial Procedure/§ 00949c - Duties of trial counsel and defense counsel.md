@@ -8,7 +8,7 @@ Trial Counsel.—The trial counsel of a military commission under this chapter s
 
 Defense Counsel.—(1) The accused shall be represented in the accused's defense before a military commission under this chapter as provided in this subsection.
 
-(2) The accused may be represented by military counsel detailed under section 948k of this title or by military counsel of the accused's own selection, if reasonably available.
+(2) The accused may be represented by military counsel detailed under section 948k of thistitle or by military counsel of the accused's own selection, if reasonably available.
 
 (3) The accused may be represented by civilian counsel if retained by the accused, provided that such civilian counsel—
 

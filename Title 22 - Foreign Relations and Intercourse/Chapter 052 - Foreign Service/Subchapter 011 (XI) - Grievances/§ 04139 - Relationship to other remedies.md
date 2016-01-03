@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 102–138, §153(d)(1)(C), added subsec. (b). Former subsec
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section 4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
+Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
 
 #### Effective Date of 1989 Amendment
 

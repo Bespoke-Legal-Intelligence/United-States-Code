@@ -158,7 +158,7 @@ In subsection (b), the words "As soon as practicable after August 1, 1956" are o
 
 In subsections (c) and (d), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "considers" is substituted for "deemed" as being more precise.
 
-In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
+In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and othertitles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
 
 In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
@@ -268,7 +268,7 @@ Findings.—The Congress finds the following:
 
 &emsp;&emsp;"(C) accurately report the financial condition of the Federal Government.
 
-&emsp;"(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices undermines the Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
+&emsp;"(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices underminesthe Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
 
 &emsp;"(4) Waste and inefficiency in the Federal Government undermine the confidence of the American people in the government and reduce the federal Government's ability to address vital public needs adequately.
 

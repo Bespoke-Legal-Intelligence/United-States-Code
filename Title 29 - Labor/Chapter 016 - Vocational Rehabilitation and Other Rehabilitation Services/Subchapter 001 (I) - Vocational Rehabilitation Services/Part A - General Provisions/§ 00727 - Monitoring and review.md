@@ -106,11 +106,11 @@ The Commissioner shall—
 
 #### (1) Petition
 
-&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
+&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
 
 #### (2) Submissions and determinations
 
-&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return ofsuch submissions and presentations. The court shall thereafter review such new or modified determination.
+&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c), the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
 
 #### (3) Standards of review
 
@@ -118,7 +118,7 @@ The Commissioner shall—
 
 &emsp;&emsp;Upon the filing of a petition under paragraph (1) for judicial review of a determination, the court shall have jurisdiction—
 
-&emsp;&emsp;&emsp;(i) to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(i) to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c); and
 
 &emsp;&emsp;&emsp;(ii) except as otherwise provided in subparagraph (B), to review such determination in accordance with chapter 7 of title 5.
 
@@ -148,5 +148,5 @@ Subsec. (b)(3). Pub. L. 113–128, §417(a)(2), added par. (3).
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

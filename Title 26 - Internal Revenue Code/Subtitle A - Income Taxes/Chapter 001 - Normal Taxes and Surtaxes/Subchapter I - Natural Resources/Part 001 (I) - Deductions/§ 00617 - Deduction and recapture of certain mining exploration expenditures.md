@@ -18,7 +18,7 @@
 
 #### (C) Deficiencies
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to theextent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
 #### (b) Recapture on reaching producing stage
 
@@ -140,7 +140,7 @@ In the case of any expenditures paid or incurred before the development stage fo
 
 &emsp;&emsp;<b>For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).</b>
 
-(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, §1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, §504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, §201(d)(9)(D), formerly §201(c)(9)(D), §224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered §201(d)(9)(D), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388-527.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Subsec. (d)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income"
 
 Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted "and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)" for "and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)".
+Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted "and subsection (a) of section 615 (as in effectbefore the enactment of the Tax Reform Act of 1976)" for "and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)".
 
 Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out "and all amounts treated as deferred expenses which were paid or incurred" after "amounts deducted" in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted "374(b)(1)" for "373(b)(1)". Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
@@ -200,7 +200,7 @@ Amendment by section 1901(a)(89), (b)(3)(K), (21)(C)–(E) of Pub. L. 94–455 e
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, and for purposes of this section, elections under section 615(e) of this title, effective with respectto exploration expenditures paid or incurred before Jan. 1, 1970, to be treated as an election under subsec. (a) of this section with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d) of Pub. L. 91–172, set out as a note under section 243 of this title.
+Amendment by Pub. L. 91–172 applicable with respect to exploration expenditures paid or incurred after Dec. 31, 1969, and for purposes of this section, elections under section 615(e) of this title, effective with respect to exploration expenditures paid or incurred before Jan. 1, 1970, to be treated as an election under subsec. (a) of this section with respect to exploration expenditures paid or incurred after Dec. 31, 1969, see section 504(d) of Pub. L. 91–172, set out as a note under section 243 of this title.
 
 #### Effective Date
 

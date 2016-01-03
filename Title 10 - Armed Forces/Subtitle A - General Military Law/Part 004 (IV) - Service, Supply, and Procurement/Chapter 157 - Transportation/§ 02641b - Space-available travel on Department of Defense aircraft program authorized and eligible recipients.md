@@ -4,7 +4,7 @@
 
 Authority to Establish Program.—(1) The Secretary of Defense may establish a program (in this section referred to as the "travel program") to provide transportation on Department of Defense aircraft on a space-available basis to the categories of individuals eligible under subsection (c).
 
-(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation of the travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
+(2) If the Secretary makes a determination to establish the travel program, the Secretary shall prescribe regulations for the operation ofthe travel program not later than one year after the date on which the determination was made. The regulations shall take effect on that date or such earlier date as the Secretary shall specify in the regulations.
 
 (3) Not later than 30 days after making the determination to establish the travel program, the Secretary shall submit to the congressional defense committees an initial implementation report describing—
 

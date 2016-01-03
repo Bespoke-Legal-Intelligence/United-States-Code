@@ -66,7 +66,7 @@ Termination.—No transportation, allowance, reimbursement, or per diem may be p
 
 #### References in Text
 
-The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. Forcomplete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Pub. L. 107–107, div. A, title VI, §639(d), Dec. 28, 2001, 115 Stat. 1149, as
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title VI, §625(b), Nov. 29, 1989, 103 Stat. 1449, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\]."
+Pub. L. 101–189, div. A, title VI, §625(b), Nov. 29, 1989, 103 Stat. 1449, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to travel and transportation commenced after the date of the enactment of this Act \[Nov. 29, 1989\]."
 
 #### Effective Date
 

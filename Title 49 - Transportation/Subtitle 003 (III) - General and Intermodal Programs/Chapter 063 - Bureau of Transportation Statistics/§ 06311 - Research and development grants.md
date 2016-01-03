@@ -10,7 +10,7 @@ The Secretary may make grants to, or enter into cooperative agreements or contra
 
 &emsp;(4) development of electronic clearinghouses of transportation data and related information, as part of the Library; and
 
-&emsp;(5) development and improvement of methods for sharing geographic data, in support of the database under section 6310 <sup>1</sup> and the National Spatial Data Infrastructure developedunder Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order).
+&emsp;(5) development and improvement of methods for sharing geographic data, in support of the database under section 6310 <sup>1</sup> and the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order).
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 894.)
 

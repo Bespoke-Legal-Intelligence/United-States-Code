@@ -56,7 +56,7 @@ Employment of Program Participants.—The Secretary of Defense—
 
 &emsp;(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to an information technology position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship under this section was awarded and who, under the terms of the agreement for such scholarship, at the time of such appointment owes a service commitment to the Department; and
 
-&emsp;(2) may, upon satisfactory completion of two years of substantially continuous service byan incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+&emsp;(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, §687(c)(8), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 111–84, div. A, title X, §1073(a)(20), title XI, §1103, Oct. 28, 2009, 123 Stat. 2473, 2485.)
 

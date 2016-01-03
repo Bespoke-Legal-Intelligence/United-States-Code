@@ -6,7 +6,7 @@ Not later than one year after the effective date of this chapter, the Administra
 
 #### (b) Administrator's annual report to Congress; contents
 
-The Administrator shall prepare and submit directly to the Congress and the President every year after May 7, 1974, a report which shall include—
+The Administrator shall prepare and submit directly to the Congress and the President everyyear after May 7, 1974, a report which shall include—
 
 &emsp;(1) a review and analysis of the major actions taken by the Administrator;
 
@@ -42,7 +42,7 @@ The Administrator shall provide interim reports to the Congress from time to tim
 
 #### (e) Energy needs analysis; time for submission; contents; continuation of analysis after termination of Administration
 
-The analysis referred to in subsection (b)(6) of this section shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
+The analysis referred to in subsection (b)(6) shall include, for each of the next five fiscal years following the year in which the annual report is submitted and for the tenth fiscal year following such year—
 
 &emsp;(1) the effect of various conservation programs on such energy needs;
 
@@ -56,7 +56,7 @@ The analysis referred to in subsection (b)(6) of this section shall include, for
 
 &emsp;(3) recommendations for the best method or methods of meeting the energy needs identified in such annual report and for legislation needed to meet those needs.
 
-> Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6) of this section.
+> Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6).
 
 (Pub. L. 93–275, §15, May 7, 1974, 88 Stat. 108; Pub. L. 94–385, title I, §109(a)–(c), Aug. 14, 1976, 90 Stat. 1130.)
 
@@ -68,7 +68,7 @@ For effective date of this chapter, referred to in subsecs. (a) and (c), see Eff
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–385, §109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
 
-Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as ameans for obtaining national energy goals. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 94–385, §109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
 

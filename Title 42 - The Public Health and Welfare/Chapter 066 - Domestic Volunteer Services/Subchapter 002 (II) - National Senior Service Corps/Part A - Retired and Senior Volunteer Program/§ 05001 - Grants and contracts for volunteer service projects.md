@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other publicand nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, volunteer service under this part sh
 
 (1) Beginning with fiscal year 2013 and for each fiscal year thereafter, each grant or contract awarded under this section, for such a year, shall be—
 
-&emsp;(A) awarded for a period of 3 years, with an option for a grant renewal of 3 years if the grantee meets the performances <sup>1</sup> measures established under subsection (g); and
+&emsp;(A) awarded for a period of 3 years, with an option for a grant renewal of 3 years if thegrantee meets the performances <sup>1</sup> measures established under subsection (g); and
 
 &emsp;(B) awarded through a competitive process described in paragraph (2).
 

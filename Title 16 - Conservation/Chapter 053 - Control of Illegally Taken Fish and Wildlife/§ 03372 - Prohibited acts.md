@@ -26,7 +26,7 @@ It is unlawful for any person—
 
 &emsp;&emsp;&emsp;(iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
 
-&emsp;&emsp;(C) any prohibited wildlife species (subject to subsection (e) of this section);
+&emsp;&emsp;(C) any prohibited wildlife species (subject to subsection (e));
 
 &emsp;(3) within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18)—
 
@@ -88,7 +88,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (1) In general
 
-&emsp;Subsection (a)(2)(C) of this section does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+&emsp;Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
 
 #### (2) Persons described
 
@@ -120,7 +120,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (5) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) of this section $3,000,000 for each of fiscal years 2004 through 2008.
+&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
 
 #### (f) Plant declarations
 
@@ -142,7 +142,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;Until the date on which the Secretary promulgates a regulation under paragraph (6), a declaration relating to a plant product shall—
 
-&emsp;&emsp;(A) in the case in which the species of plant used to produce the plant product thatis the subject of the importation varies, and the species used to produce the plant product is unknown, contain the name of each species of plant that may have been used to produce the plant product;
+&emsp;&emsp;(A) in the case in which the species of plant used to produce the plant product that is the subject of the importation varies, and the species used to produce the plant product is unknown, contain the name of each species of plant that may have been used to produce the plant product;
 
 &emsp;&emsp;(B) in the case in which the species of plant used to produce the plant product that is the subject of the importation is commonly taken from more than one country, and the country from which the plant was taken and used to produce the plant product is unknown, contain the name of each country from which the plant may have been taken; and
 

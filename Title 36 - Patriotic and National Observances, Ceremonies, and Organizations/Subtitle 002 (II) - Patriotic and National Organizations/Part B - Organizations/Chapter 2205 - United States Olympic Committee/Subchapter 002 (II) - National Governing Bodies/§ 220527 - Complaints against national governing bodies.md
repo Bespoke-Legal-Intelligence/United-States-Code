@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) An amateur sports organization or person that belongs to or is eligible to belong to a national governing body may seek to compel the national governing body to complywith sections 220522, 220524, and 220525 of this title by filing a written complaint with the corporation. A copy of the complaint shall be served on the national governing body.
+General.—(1) An amateur sports organization or person that belongs to or is eligible to belong to a national governing body may seek to compel the national governing body to comply with sections 220522, 220524, and 220525 of this title by filing a written complaint with the corporation. A copy of the complaint shall be served on the national governing body.
 
 (2) The corporation shall establish procedures for the filing and disposition of complaints under this section.
 
@@ -14,7 +14,7 @@ Exhaustion of Remedies.—(1) An organization or person may file a complaint und
 
 (c)
 
-Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after the complaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
+Hearings.—If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it shall hold a hearing, within 90 days after thecomplaint is filed, to receive testimony to decide whether the national governing body is complying with sections 220522, 220524, and 220525 of this title.
 
 (d)
 

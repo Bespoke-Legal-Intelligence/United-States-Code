@@ -1,6 +1,6 @@
 ### §312106. Consultation with National Park System Advisory Board
 
-In carrying out its functions under this chapter, the National Trust may consult with the National Park System Advisory Board on matters relating to the selection of sites, buildings, and objects to be preserved and protected pursuant to this chapter.
+In carrying out its functions under this chapter, the National Trust may consult with theNational Park System Advisory Board on matters relating to the selection of sites, buildings, and objects to be preserved and protected pursuant to this chapter.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3251.)
 

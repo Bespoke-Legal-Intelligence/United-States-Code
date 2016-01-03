@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) the payment is part of a program that is generally applicable to all full-time employees; and
 
-&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of the mean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
+&emsp;&emsp;(B) the amount of the payment is not greater than 10 times the amount of themean severance pay given to nonmanagement employees during the calendar year in which the payment is made; or
 
 &emsp;(3) other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

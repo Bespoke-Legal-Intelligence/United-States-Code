@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
+As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans andHuman Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
 
 &emsp;(1) centralized program and research coordination;
 
@@ -34,7 +34,7 @@ The Secretary is authorized to establish an oceans and human health advisory pan
 
 #### (e) Traineeships
 
-The Secretary of Commerce is authorized to establish a program to provide traineeships,training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
+The Secretary of Commerce is authorized to establish a program to provide traineeships, training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
 
 (Pub. L. 108–447, div. B, title IX, §903, Dec. 8, 2004, 118 Stat. 2933.)
 

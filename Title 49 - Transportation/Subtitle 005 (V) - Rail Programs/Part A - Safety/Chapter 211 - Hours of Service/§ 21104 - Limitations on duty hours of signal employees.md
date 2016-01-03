@@ -82,7 +82,7 @@ In this section, the words "signal employee" are substituted for "an individual 
 
 Subsection (a)(1) is substituted for 45:63a(a) (last sentence) for clarity and because of the restatement.
 
-In subsection (a)(2), before clause (A), the words "Except as provided in subsection (c) of this section" are added to alert the reader to the exception restated in subsection (c). The text of 45:63a(a) (2d sentence) is omitted as surplus.
+In subsection (a)(2), before clause (A), the words "Except as provided in subsection (c) of this section" areadded to alert the reader to the exception restated in subsection (c). The text of 45:63a(a) (2d sentence) is omitted as surplus.
 
 In subsection (b), the words before paragraph (1) are added as related to 45:63a(c) and substituted for "In determining for the purposes of subsection (a) of this section the number of hours an individual is on duty" for clarity. In paragraph (2), the word "actually" is omitted as surplus.
 

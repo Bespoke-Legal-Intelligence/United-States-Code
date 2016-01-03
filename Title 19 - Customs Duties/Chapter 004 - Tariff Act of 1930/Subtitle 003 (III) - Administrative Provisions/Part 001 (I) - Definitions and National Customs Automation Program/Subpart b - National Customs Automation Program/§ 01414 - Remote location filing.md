@@ -40,17 +40,17 @@
 
 #### (4) Alternative filing
 
-&emsp;Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d) of this section.
+&emsp;Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d).
 
 #### (b) Additional entry information
 
 #### (1) In general
 
-&emsp;A Program participant that is eligible under subsection (a) of this section to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
+&emsp;A Program participant that is eligible under subsection (a) to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
 
 #### (2) Requirements
 
-&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within theexisting and planned components of the Program that a Program participant must have for purposes of this subsection.
+&emsp;The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
 
 #### (3) Filing of additional information
 
@@ -80,7 +80,7 @@
 
 #### (c) Post-entry summary information
 
-A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
+A Program participant that is eligible to file electronically entry information under subsection (a) and additional information under subsection (b) from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
 
 #### (d) Definitions
 

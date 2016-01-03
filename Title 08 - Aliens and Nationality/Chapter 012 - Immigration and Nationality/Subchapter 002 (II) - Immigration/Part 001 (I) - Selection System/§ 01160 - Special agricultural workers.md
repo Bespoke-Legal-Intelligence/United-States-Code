@@ -22,7 +22,7 @@
 
 #### (C) Admissible as immigrant
 
-&emsp;&emsp;The alien must establish that he is admissible to the United States as an immigrant, except as otherwise provided under subsection (c)(2) of this section.
+&emsp;&emsp;The alien must establish that he is admissible to the United States as an immigrant, except as otherwise provided under subsection (c)(2).
 
 #### (2) Adjustment to permanent residence
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(i) the Attorney General finds by a preponderance of the evidence that the adjustment to temporary resident status was the result of fraud or willful misrepresentation as set out in section 1182(a)(6)(C)(i) of this title, or
 
-&emsp;&emsp;(ii) the alien commits an act that (I) makes the alien inadmissible to the United States as an immigrant, except as provided under subsection (c)(2) of this section, or (II) is convicted of a felony or 3 or more misdemeanors committed in the United States.
+&emsp;&emsp;(ii) the alien commits an act that (I) makes the alien inadmissible to the United States as an immigrant, except as provided under subsection (c)(2), or (II) is convicted of a felony or 3 or more misdemeanors committed in the United States.
 
 #### (4) Authorized travel and employment during temporary residence
 
@@ -72,7 +72,7 @@
 
 #### (B) Outside the United States
 
-&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) of this section at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
+&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
 
 #### (2) Designation of entities to receive applications
 
@@ -86,15 +86,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) of this section through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as the alien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
+&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as the alien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
 
 #### (B) Documentation of work history
 
-&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) of this section has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii) of this section).
+&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii)).
 
 &emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
 
-&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) of this section by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
+&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
 
 #### (4) Treatment of applications by designated entities
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;Except as provided in this paragraph, neither the Attorney General, nor any other official or employee of the Department of Justice, or bureau or agency thereof, may—
 
-&emsp;&emsp;&emsp;(i) use the information furnished by the applicant pursuant to an application filed under this section for any purpose other than to make a determination on the application, including a determination under subsection (a)(3)(B) of this section, or for enforcement of paragraph (7);
+&emsp;&emsp;&emsp;(i) use the information furnished by the applicant pursuant to an application filed under this section for any purpose other than to make a determination on the application, including a determination under subsection (a)(3)(B), or for enforcement of paragraph (7);
 
 &emsp;&emsp;&emsp;(ii) make any publication whereby the information furnished by any particular individual can be identified; or
 
@@ -158,7 +158,7 @@
 
 #### (2) Waiver of grounds for exclusion
 
-&emsp;In the determination of an alien's admissibility under subsection (a)(1)(C) of this section—
+&emsp;In the determination of an alien's admissibility under subsection (a)(1)(C)—
 
 #### (A) Grounds of exclusion not applicable
 
@@ -190,7 +190,7 @@
 
 #### (1) Before application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1) of this section and who can establish a nonfrivolous case of eligibility to have his status adjusted under subsection (a) of this section (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1) and who can establish a nonfrivolous case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
 
 &emsp;&emsp;(A) may not be excluded or deported, and
 
@@ -198,7 +198,7 @@
 
 #### (2) During application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who presents a nonfrivolous application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who presents a nonfrivolous application for adjustment of status under subsection (a) during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
 &emsp;&emsp;(A) may not be excluded or deported, and
 
@@ -208,9 +208,9 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an "employment authorized" endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) the Service may grant temporary admission to theUnited States, work authorization, and provide an "employment authorized" endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
-&emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) of this section any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) of this section pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
+&emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
 &emsp;&emsp;(C) A preliminary application is defined as a fully completed and signed application with fee and photographs which contains specific information concerning the performance of qualifying employment in the United States and the documentary evidence which the applicant intends to submit as proof of such employment. The applicant must be otherwise admissible to the United States and must establish to the satisfaction of the examining officer during an interview that his or her claim to eligibility for special agriculture worker status is credible.
 
@@ -238,15 +238,15 @@
 
 #### (B) Standard for judicial review
 
-&emsp;&emsp;Such judicial review shall be based solely upon the administrative record establishedat the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
+&emsp;&emsp;Such judicial review shall be based solely upon the administrative record established at the time of the review by the appellate authority and the findings of fact and determinations contained in such record shall be conclusive unless the applicant can establish abuse of discretion or that the findings are directly contrary to clear and convincing facts contained in the record considered as a whole.
 
 #### (f) Temporary disqualification of newly legalized aliens from receiving aid to families with dependent children
 
-During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
+During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a), and notwithstanding any other provision of law, the alien is not eligible for assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. Notwithstanding the previous sentence, in the case of an alien who would be eligible for assistance under a State program funded under part A of title IV of the Social Security Act but for the previous sentence, the provisions of paragraph (3) of section 1255a(h) of this title shall apply in the same manner as they apply with respect to paragraph (1) of such section and, for this purpose, any reference in section 1255a(h)(3) of this title to paragraph (1) is deemed a reference to the previous sentence.
 
 #### (g) Treatment of special agricultural workers
 
-For all purposes (subject to subsections (a)(5) and (f) of this section) an alien whose status is adjusted under this section to that of an alien lawfully admitted for permanent residence, such status not having changed, shall be considered to be an alien lawfully admitted for permanent residence (within the meaning of section 1101(a)(20) of this title).
+For all purposes (subject to subsections (a)(5) and (f)) an alien whose status is adjusted under this section to that of an alien lawfully admitted for permanent residence, such status not having changed, shall be considered to be an alien lawfully admitted for permanent residence (within the meaning of section 1101(a)(20) of this title).
 
 #### (h) "Seasonal agricultural services" defined
 
@@ -288,7 +288,7 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(z)(7), made technical correction to 
 
 Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, and in introductory provisions substituted "Service" for "the Immigration and Naturalization Service (INS)" and "Service" for "INS" in two places.
 
-Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted "period described in" for "period as defined in" and "Service" for "INS", and made technicalamendment to reference to this chapter involving corresponding provision of original act.
+Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted "period described in" for "period as defined in" and "Service" for "INS", and made technical amendment to reference to this chapter involving corresponding provision of original act.
 
 Subsec. (d)(3)(B). Pub. L. 102–232, §309(b)(6)(F), as amended by Pub. L. 103–416, §219(z)(7), substituted "described in subsection (a)(1)(A)" for "as defined in subsection (a)(B)(1)(B)".
 
@@ -338,7 +338,7 @@ Pub. L. 102–232, title III, §307(j), Dec. 12, 1991, 105 Stat. 1756, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1, 1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to applications for adjustment of status made on or after June 1,1991, see section 601(e)(2) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 

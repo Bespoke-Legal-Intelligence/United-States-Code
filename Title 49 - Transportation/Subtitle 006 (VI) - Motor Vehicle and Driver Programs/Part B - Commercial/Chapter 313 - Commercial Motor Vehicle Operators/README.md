@@ -20,7 +20,7 @@
 | [31310\.](%C2%A7%2031310%20-%20Disqualifications.md) | Disqualifications. |
 | [31311\.](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md) | Requirements for State participation. |
 | [31312\.](%C2%A7%2031312%20-%20Decertification%20authority.md) | Decertification authority. |
-| [31313\.](%C2%A7%2031313%20-%20Grants%20for%20commercial%20driver%27s%20license%20program%20implementation.md) | Grants for commercial driver's license program implementation. |
+| [31313\.](%C2%A7%2031313%20-%20Commercial%20driver%27s%20license%20program%20implementation%20financial%20assistance%20program.md) | Commercial driver's license program implementation financial assistance program. |
 | [31314\.](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md) | Withholding amounts for State noncompliance. |
 | [31315\.](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md) | Waivers, exemptions, and pilot programs. |
 | [31316\.](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md) | Limitation on statutory construction. |
@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title V, §5104(b), Dec. 4, 2015, 129 Stat. 1529, substituted "Commercial driver's license program implementation financial assistance program" for "Grants for commercial driver's license program implementation" in item 31313.
 
 <b>2012</b>—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 "General driver fitness and testing" and 31313 "Grants for commercial driver's license program improvements".
 
@@ -58,7 +60,7 @@
 - [&sect; 31310 - Disqualifications](%C2%A7%2031310%20-%20Disqualifications.md)
 - [&sect; 31311 - Requirements for State participation](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md)
 - [&sect; 31312 - Decertification authority](%C2%A7%2031312%20-%20Decertification%20authority.md)
-- [&sect; 31313 - Grants for commercial driver's license program implementation](%C2%A7%2031313%20-%20Grants%20for%20commercial%20driver%27s%20license%20program%20implementation.md)
+- [&sect; 31313 - Commercial driver's license program implementation financial assistance program](%C2%A7%2031313%20-%20Commercial%20driver%27s%20license%20program%20implementation%20financial%20assistance%20program.md)
 - [&sect; 31314 - Withholding amounts for State noncompliance](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md)
 - [&sect; 31315 - Waivers, exemptions, and pilot programs](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md)
 - [&sect; 31316 - Limitation on statutory construction](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md)

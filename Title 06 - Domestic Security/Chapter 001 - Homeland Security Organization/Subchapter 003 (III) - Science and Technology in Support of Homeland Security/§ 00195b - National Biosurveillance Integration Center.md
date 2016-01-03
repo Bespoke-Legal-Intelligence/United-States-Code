@@ -62,7 +62,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;&emsp;&emsp;(i) establish a method of real-time communication with the National Operations Center;
 
-&emsp;&emsp;&emsp;(ii) in the event that a biological event of national concern is detected, notify theSecretary and disseminate results of NBIC assessments relating to that biological event of national concern to appropriate Federal response entities and, in coordination with relevant Member Agencies, regional, State, local, and tribal governmental response entities in a timely manner;
+&emsp;&emsp;&emsp;(ii) in the event that a biological event of national concern is detected, notify the Secretary and disseminate results of NBIC assessments relating to that biological event of national concern to appropriate Federal response entities and, in coordination with relevant Member Agencies, regional, State, local, and tribal governmental response entities in a timely manner;
 
 &emsp;&emsp;&emsp;(iii) provide any report on NBIC assessments to Member Agencies and, in coordination with relevant Member Agencies, any affected regional, State, local, or tribal government, and any private sector entity considered appropriate that may enhance the mission of such Member Agencies, governments, or entities or the ability of the Nation to respond to biological events of national concern; and
 

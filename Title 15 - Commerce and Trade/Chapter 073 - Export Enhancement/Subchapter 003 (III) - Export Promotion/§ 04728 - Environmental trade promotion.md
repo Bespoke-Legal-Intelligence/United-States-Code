@@ -10,7 +10,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;The President shall establish the Environmental Trade Promotion Working Group (hereafter in this section referred to as the "Working Group") as a subcommittee of the Trade Promotion Coordination Committee (hereafter in this section referred to as the "TPCC"), established under section 4727 of this title. The purpose of the Working Group shall be—
 
-&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing ofUnited States environmental technologies, goods, and services; and
+&emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing of United States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(B) to develop a strategy for expanding United States exports of environmental technologies, goods, and services.
 
@@ -72,7 +72,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(A) identify the primary public and private sector opportunities for United States exporters of environmental technologies, goods, and services in the priority country;
 
-&emsp;&emsp;(B) analyze the financing and other requirements for major projects in the priority country which will use environmental technologies, goods, and services, and analyze whether such projects are dependent upon financial assistance from foreign countries or multilateral institutions; and
+&emsp;&emsp;(B) analyze the financing and other requirements for major projects in the priority country which will use environmental technologies, goods, and services, and analyzewhether such projects are dependent upon financial assistance from foreign countries or multilateral institutions; and
 
 &emsp;&emsp;(C) list specific actions to be taken by the member agencies of the Working Group to increase United States exports to the priority country.
 
@@ -88,7 +88,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (1) Assignment of environmental technologies specialists
 
-&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1), and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 #### (2) Duties of environmental technologies specialists
 
@@ -112,7 +112,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (g) Environmental training in one-stop shops
 
-In addition to the training provided under subsection (f)(2)(C) of this section, the Secretary shall establish a mechanism to train—
+In addition to the training provided under subsection (f)(2)(C), the Secretary shall establish a mechanism to train—
 
 &emsp;(1) Commercial Service Officers assigned to the one-stop shops provided for in section 4721(b)(8) of this title, and
 
@@ -130,7 +130,7 @@ In addition to the training provided under subsection (f)(2)(C) of this section,
 
 &emsp;In carrying out each international regional environmental initiative, the TPCC shall—
 
-&emsp;&emsp;(A) support, through the provision of foreign assistance, the development of sound environmental policies and practices in countries in the geographic region for which the initiative is established, including the development of environmentally sound regulatory regimes and enforcement mechanisms;
+&emsp;&emsp;(A) support, through the provision of foreign assistance, the development of sound environmental policies and practices in countries in the geographic region for whichthe initiative is established, including the development of environmentally sound regulatory regimes and enforcement mechanisms;
 
 &emsp;&emsp;(B) identify and disseminate to United States environmental businesses information regarding specific environmental business opportunities in that geographic region;
 

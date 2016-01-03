@@ -16,7 +16,7 @@ In this subchapter:
 
 #### (3) Core academic subjects
 
-&emsp;The term "core academic subjects" has the meaning given the term in section 7801 of this title.
+&emsp;The term "core academic subjects" means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography.
 
 #### (4) Early childhood educator
 
@@ -74,11 +74,11 @@ In this subchapter:
 
 #### (7) Essential components of reading instruction
 
-&emsp;The term "essential components of reading instruction" has the meaning given the term in section 6368 of this title.
+&emsp;The term "essential components of reading instruction" has the meaning given the term in section 6368 of this title as such section was in effect on the day before December 10, 2015.
 
 #### (8) Exemplary teacher
 
-&emsp;The term "exemplary teacher" has the meaning given the term in section 7801 of this title.
+&emsp;The term "exemplary teacher" has the meaning given the term in section 7801 of this title as such section was in effect on the day before December 10, 2015.
 
 #### (9) High-need early childhood education program
 
@@ -104,7 +104,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "high-need school" means a school that, based on the most recent dataavailable, meets one or both of the following:
+&emsp;&emsp;The term "high-need school" means a school that, based on the most recent data available, meets one or both of the following:
 
 &emsp;&emsp;&emsp;(i) The school is in the highest quartile of schools in a ranking of all schools served by a local educational agency, ranked in descending order by percentage of students from low-income families enrolled in such schools, as determined by the local educational agency based on one of the following measures of poverty:
 
@@ -162,9 +162,7 @@ In this subchapter:
 
 &emsp;&emsp;(C) who has demonstrated a high level of knowledge and use of content and pedagogy in the relevant areas associated with quality early childhood education.
 
-#### (13) Highly qualified
-
-&emsp;The term "highly qualified" has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
+#### (13) Repealed. Pub. L. 114–95, title IX, §9214(c)(1)(A), Dec. 10, 2015, 129 Stat. 2161
 
 #### (14) Induction program
 
@@ -186,7 +184,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) assist new teachers with the effective use and integration of technology in the classroom.
 
-&emsp;&emsp;(G) Interdisciplinary collaboration among exemplary teachers, faculty, researchers,and other staff who prepare new teachers with respect to the learning process and the assessment of learning.
+&emsp;&emsp;(G) Interdisciplinary collaboration among exemplary teachers, faculty, researchers, and other staff who prepare new teachers with respect to the learning process and the assessment of learning.
 
 &emsp;&emsp;(H) Assistance with the understanding of data, particularly student achievement data, and the applicability of such data in classroom instruction.
 
@@ -194,7 +192,7 @@ In this subchapter:
 
 #### (15) Limited English proficient
 
-&emsp;The term "limited English proficient" has the meaning given the term in section 7801 of this title.
+&emsp;The term "limited English proficient" has the meaning given the term "English learner" in section 7801 of this title.
 
 #### (16) Parent
 
@@ -218,7 +216,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) each student in the program to meet high academic standards or demonstrate a record of success, as determined by the institution (including prior to entering and being accepted into a program), and participate in intensive clinical experience;
 
-&emsp;&emsp;&emsp;(ii) each student in the program preparing to become a teacher to become highly qualified; and
+&emsp;&emsp;&emsp;(ii) each student in the program preparing to become a teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title; and
 
 &emsp;&emsp;&emsp;(iii) each student in the program preparing to become an early childhood educator to meet degree requirements, as established by the State, and become highly competent.
 
@@ -296,7 +294,7 @@ In this subchapter:
 
 &emsp;&emsp;(D) prior to completion of the program—
 
-&emsp;&emsp;&emsp;(i) attains full State certification or licensure and becomes highly qualified; and
+&emsp;&emsp;&emsp;(i) attains full State certification or licensure and, with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title; and
 
 &emsp;&emsp;&emsp;(ii) acquires a master's degree not later than 18 months after beginning the program.
 
@@ -326,9 +324,13 @@ In this subchapter:
 
 &emsp;&emsp;(H) use, in the case of an early childhood educator, age-appropriate and developmentally appropriate strategies and practices for children in early childhood education programs.
 
-(Pub. L. 89–329, title II, §200 as added Pub. L. 110–315, title II, §201(1), Aug. 14, 2008, 122 Stat. 3126; amended Pub. L. 111–39, title II, §201(1), July 1, 2009, 123 Stat. 1936.)
+(Pub. L. 89–329, title II, §200 as added Pub. L. 110–315, title II, §201(1), Aug. 14, 2008, 122 Stat. 3126; amended Pub. L. 111–39, title II, §201(1), July 1, 2009, 123 Stat. 1936; Pub. L. 114–95, title IX, §§9214(c)(1), 9215(oo)(2), Dec. 10, 2015, 129 Stat. 2161, 2178.)
 
 #### References in Text
+
+Section 6368 of this title as such section was in effect on the day before December 10, 2015, referred to in par. (7), means section 6368 of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1879.
+
+Section 7801 of this title as such section was in effect on the day before December 10, 2015, referred to in par. (8), means section 7801 of this title prior to amendment by Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089.
 
 The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -346,7 +348,37 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master'sdegree, attains full State teacher certification or licensure, and becomes highly qualified."
+<b>2015</b>—Par. (3). Pub. L. 114–95, §9215(oo)(2)(A), substituted "The term 'core academic subjects' means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography" for "The term 'core academic subjects' has the meaning given the term in section 7801 of this title".
+
+Par. (5). Pub. L. 114–95, §9215(oo)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Par. (6)(B)(x). Pub. L. 114–95, §9215(oo)(2)(C), made technical amendment to reference in original act which appears in text as reference to section 7221i of this title.
+
+Par. (7). Pub. L. 114–95, §9215(oo)(2)(D), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of this title."
+
+Par. (8). Pub. L. 114–95, §9215(oo)(2)(E), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: "The term 'exemplary teacher' has the meaning given the term in section 7801 of this title."
+
+Par. (10)(A)(iii). Pub. L. 114–95, §9215(oo)(2)(F)(i), made technical amendment to reference in original act which appears in text as reference to section 7345(b) of this title.
+
+Par. (10)(A)(iv). Pub. L. 114–95, §9215(oo)(2)(F)(ii), made technical amendment to reference in original act which appears in text as reference to section 7351(b) of this title.
+
+Par. (13). Pub. L. 114–95, §9214(c)(1)(A), struck out par. (13). Text read as follows: "The term 'highly qualified' has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title."
+
+Par. (15). Pub. L. 114–95, §9215(oo)(2)(G), substituted "The term 'limited English proficient' has the meaning given the term 'English learner' in section 7801 of this title." for "The term 'limited English proficient' has the meaning given the term in section 7801 of this title."
+
+Par. (16). Pub. L. 114–95, §9215(oo)(2)(H), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Par. (17)(B)(ii). Pub. L. 114–95, §9214(c)(1)(B), substituted "who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "to become highly qualified".
+
+Par. (19). Pub. L. 114–95, §9215(oo)(2)(I), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
+
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2009 Amendment
 

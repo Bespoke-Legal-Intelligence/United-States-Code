@@ -48,7 +48,7 @@ Subject to subsection (h)(2), the Secretary shall make payments under this secti
 
 &emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under section 256e(c)(2)(D) of this title into a wage-related portion and a non-wage related portion by applying the proportion determined under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section 1395ww(d)(3)(E) of this title (but without application of section 4410 of the Balanced Budget Act of 1997 (42 U.S.C. 1395ww note)) during the preceding fiscal year for the teaching health center's area; and
+&emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor applied under section1395ww(d)(3)(E) of this title (but without application of section 4410 of the Balanced Budget Act of 1997 (42 U.S.C. 1395ww note)) during the preceding fiscal year for the teaching health center's area; and
 
 &emsp;&emsp;&emsp;(iii) by adding the non-wage-related portion to the amount computed under clause (ii).
 
@@ -96,7 +96,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (g) Funding
 
-To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015.
+To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015 and $60,000,000 for each of fiscal years 2016 and 2017.
 
 #### (h) Annual reporting required
 
@@ -164,7 +164,7 @@ In this section:
 
 &emsp;The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154.)
 
 #### References in Text
 
@@ -175,6 +175,10 @@ Section 1395ww(d) of this title, referred to in subsec. (f), was in the original
 #### Codification
 
 Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title X, §10333, March 23, 2010, 124 Stat. 970, is classified to section 256i of this title.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

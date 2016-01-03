@@ -26,7 +26,7 @@ The Chairman may approve any management contract entered into pursuant to this s
 
 &emsp;(4) for an agreed ceiling for the repayment of development and construction costs;
 
-&emsp;(5) for a contract term not to exceed five years, except that, upon the request of an Indian tribe, the Chairman may authorize a contract term that exceeds five years but does not exceed seven years if the Chairman is satisfiedthat the capital investment required, and the income projections, for the particular gaming activity require the additional time; and
+&emsp;(5) for a contract term not to exceed five years, except that, upon the request of an Indian tribe, the Chairman may authorize a contract term that exceeds five years but does not exceed seven years if the Chairman is satisfied that the capital investment required, and the income projections, for the particular gaming activity require the additional time; and
 
 &emsp;(6) for grounds and mechanisms for terminating such contract, but actual contract termination shall not require the approval of the Commission.
 
@@ -50,7 +50,7 @@ The Chairman shall not approve any contract if the Chairman determines that—
 
 &emsp;&emsp;(B) has been or subsequently is convicted of any felony or gaming offense;
 
-&emsp;&emsp;(C) has knowingly and willfully provided materially important false statements or information to the Commission or the Indian tribe pursuant to this chapter or has refused to respond to questions propounded pursuant to subsection (a)(2) of this section; or
+&emsp;&emsp;(C) has knowingly and willfully provided materially important false statements or information to the Commission or the Indian tribe pursuant to this chapter or has refused to respond to questions propounded pursuant to subsection (a)(2); or
 
 &emsp;&emsp;(D) has been determined to be a person whose prior activities, criminal record if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;
 

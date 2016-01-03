@@ -30,7 +30,7 @@
 
 #### (B) Rights, powers, and duties
 
-&emsp;&emsp;When acting as conservator or receiver with respect to any depository institutiondescribed in subparagraph (A), the Corporation shall have all rights, powers, and duties that the Corporation otherwise has as conservator or receiver under this chapter.
+&emsp;&emsp;When acting as conservator or receiver with respect to any depository institution described in subparagraph (A), the Corporation shall have all rights, powers, and duties that the Corporation otherwise has as conservator or receiver under this chapter.
 
 #### (b) Source of funds
 

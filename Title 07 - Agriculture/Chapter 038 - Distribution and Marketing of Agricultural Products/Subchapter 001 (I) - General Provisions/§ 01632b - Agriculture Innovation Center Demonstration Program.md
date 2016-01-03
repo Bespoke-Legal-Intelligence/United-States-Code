@@ -112,7 +112,7 @@ An eligible entity to which a grant is made under the Program may use the grant 
 
 &emsp;(3) Hiring of employees, at the discretion of the board of directors of the Agriculture Innovation Center of the eligible entity.
 
-&emsp;(4) The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matchinggrants made by the eligible entity shall be not more than $50,000.
+&emsp;(4) The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matching grants made by the eligible entity shall be not more than $50,000.
 
 &emsp;(5) Legal services.
 

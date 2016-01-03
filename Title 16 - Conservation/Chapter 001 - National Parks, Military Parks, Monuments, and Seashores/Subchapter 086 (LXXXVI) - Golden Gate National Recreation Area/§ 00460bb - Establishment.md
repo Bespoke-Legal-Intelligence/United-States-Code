@@ -6,7 +6,7 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: "This title \[amending section 460bb–1 of this title\] may be cited as the 'Rancho Corral de Tierra Golden Gate National Recreation Area Boundary Adjustment Act'."
+Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: "This title \[amending section 460bb–1 of this title\] may be cited as the 'Rancho Corralde Tierra Golden Gate National Recreation Area Boundary Adjustment Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -168,7 +168,7 @@ Management Program.—The Trust shall develop a comprehensive program for manage
 
 "(d)
 
-Financial Authorities.—(1) To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to itsjurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.):
+Financial Authorities.—(1) To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to its jurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.):
 
 &emsp;"(A) The authority to guarantee any lender against loss of principal or interest on any loan: <i>Provided</i>, That—
 
@@ -230,7 +230,7 @@ Reversion.—If, at the expiration of 15 years, the Trust has not accomplished t
 
 "(p)
 
-Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclusive right to use the words 'Presidio Trust' and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may usethe words 'Presidio Trust', or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
+Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclusive right to use the words 'Presidio Trust' and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may use the words 'Presidio Trust', or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
 
 #### "SEC. 105. LIMITATIONS ON FUNDING.
 

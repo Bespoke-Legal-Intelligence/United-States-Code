@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(iv) by substituting "$150,000" for "$15,000" in subsection (k)(4) thereof.
 
-&emsp;&emsp;(C) Except as provided in section 143, repayments of principal on financing providedby the issue of which such bond is a part may not be used to provide financing.
+&emsp;&emsp;(C) Except as provided in section 143, repayments of principal on financing provided by the issue of which such bond is a part may not be used to provide financing.
 
 &emsp;&emsp;(D) Section 146 (relating to volume cap) shall not apply.
 
@@ -246,7 +246,7 @@
 
 #### (i) Alternative depreciation property
 
-&emsp;&emsp;&emsp;Such term shall not include any property described in section 168(k)(2)(D)(i).
+&emsp;&emsp;&emsp;Such term shall not include any property described in section 168(k)(2)(D)(i).<sup>1</sup>
 
 #### (ii) Tax-exempt bond-financed property
 
@@ -354,7 +354,7 @@
 
 #### (1) In general
 
-&emsp;A taxpayer may elect to treat 50 percent of any qualified Gulf Opportunity Zone clean-up cost as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction for the taxable year in which such cost is paid or incurred.
+&emsp;A taxpayer may elect to treat 50 percent of any qualified Gulf Opportunity Zone clean-up cost as an expense which is not chargeable tocapital account. Any cost so treated shall be allowed as a deduction for the taxable year in which such cost is paid or incurred.
 
 #### (2) Qualified Gulf Opportunity Zone clean-up cost
 
@@ -408,7 +408,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) Expensing
 
-&emsp;&emsp;Paragraph (1) shall not apply to any taxpayer if such taxpayer holds more than 500acres of qualified timber property at any time during the taxable year.
+&emsp;&emsp;Paragraph (1) shall not apply to any taxpayer if such taxpayer holds more than 500 acres of qualified timber property at any time during the taxable year.
 
 #### (B) NOL carryback
 
@@ -522,7 +522,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;&nbsp;For purposes of this clause, the term "moving expenses" has the meaning given such term by section 217(b), except that the taxpayer's former residence and new residence may be the same residence if the initial vacating of the residence was as the result of Hurricane Katrina.
 
-&emsp;&emsp;&emsp;(iii) Any deduction allowable under this chapter for expenses paid or incurred after August 27, 2005, and before January 1, 2008, to temporarily house any employee of the taxpayer whose principal place of employment is in the Gulf Opportunity Zone.
+&emsp;&emsp;&emsp;(iii) Any deduction allowable under this chapter for expenses paid or incurred after August 27, 2005, and before January 1, 2008, to temporarily house any employee of thetaxpayer whose principal place of employment is in the Gulf Opportunity Zone.
 
 &emsp;&emsp;&emsp;(iv) Any deduction for depreciation (or amortization in lieu of depreciation) allowable under this chapter with respect to any qualified Gulf Opportunity Zone property (as defined in subsection (d)(2), but without regard to subparagraph (B)(iv) thereof)) <sup>2</sup> for the taxable year such property is placed in service.
 
@@ -576,7 +576,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (D) Credit allowance date
 
-&emsp;&emsp;For purposes of this subsection, the term "credit allowance date" means March 15,June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
+&emsp;&emsp;For purposes of this subsection, the term "credit allowance date" means March 15, June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
 
 #### (E) Special rule for issuance and redemption
 
@@ -674,7 +674,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust,S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
+&emsp;&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a partnership, trust, S corporation, or other pass-thru entity, rules similar to the rules of section 41(g) shall apply with respect to the credit allowable under paragraph (1).
 
 #### (ii) No basis adjustment
 
@@ -774,7 +774,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;&emsp;&emsp;Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036.)
+(Added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036.)
 
 #### References in Text
 
@@ -791,6 +791,8 @@ Sections 106, 107, 108, and 122 of the Housing and Community Development Act of 
 The Department of Defense Appropriations Act, 2006, referred to in subsec. (c)(6), is div. A of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2680. For complete classification of this Act to the Code, see Tables.
 
 The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is Pub. L. 109–234, June 15, 2006, 120 Stat. 418. For complete classification of this Act to the Code, see Tables.
+
+Section 168(k)(2)(D)(i), referred to in subsec. (d)(2)(B)(i), was part of the general amendment of section 168(k)(2) by Pub. L. 114–113, div. Q, §143(b)(1), Dec. 18, 2015, 129 Stat. 3057. Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
 
 Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(ii), Dec. 19, 2014, 128 Stat. 4041.
 
@@ -862,7 +864,7 @@ Subsec. (l)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted "1397E(l)" fo
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 125(d)(5) of Pub. L. 113–295 applicable to property placed in service after Dec. 31, 2013,in taxable years ending after such date, see section 125(e) of Pub. L. 113–295, set out as a note under section 168 of this title.
+Amendment by section 125(d)(5) of Pub. L. 113–295 applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see section 125(e) of Pub. L. 113–295, set out as a note under section 168 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -880,7 +882,7 @@ Amendment by Pub. L. 111–240 applicable to property placed in service after De
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1201(a)(2)(E) of Pub. L. 111–5 applicable to property placed in service after Dec. 31, 2008, in taxable years ending after such date, see section 1201(c)(1) of Pub. L. 111–5, set out as a note under section 168 of this title.
+Amendment by section 1201(a)(2)(E) of Pub. L. 111–5 applicable to property placed in service after Dec. 31,2008, in taxable years ending after such date, see section 1201(c)(1) of Pub. L. 111–5, set out as a note under section 168 of this title.
 
 Amendment by section 1531(c)(3) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under section 54 of this title.
 
@@ -917,6 +919,8 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years."
 
 <i><sup>1</sup></i><i> See References in text note below.</i>
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

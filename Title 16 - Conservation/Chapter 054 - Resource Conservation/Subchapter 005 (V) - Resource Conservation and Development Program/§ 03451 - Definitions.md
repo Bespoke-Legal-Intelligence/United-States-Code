@@ -50,7 +50,7 @@ In this subchapter:
 
 #### (2) Board
 
-&emsp;The term "Board" means the Resource Conservation and Development Policy AdvisoryBoard established under section 3456(a) of this title.
+&emsp;The term "Board" means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.
 
 #### (3) Council
 

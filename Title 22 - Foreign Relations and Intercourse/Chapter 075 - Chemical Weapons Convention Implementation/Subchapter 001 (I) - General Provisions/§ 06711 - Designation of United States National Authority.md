@@ -58,7 +58,7 @@ Sec. 7. The USNA, in coordination with the interagency group designated in secti
 
 Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction and means of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[listed in a table under section 1701 of Title 50, War and National Defense\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
 
-&emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
+&emsp;"(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessaryto carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction."
 
 Sec. 9. Any investigation emanating from a possible violation of this order, or of any license, order, or regulation issued pursuant to this order, involving or revealing a possible violation of 18 U.S.C. section 229 shall be referred to the Federal Bureau of Investigation (FBI), which shall coordinate with the referring agency and other appropriate agencies. The FBI shall timely notify the referring agency and other appropriate agencies of any action it takes on such referrals.
 

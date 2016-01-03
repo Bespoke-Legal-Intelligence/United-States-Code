@@ -12,6 +12,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Part
+
+<i>Pub. L. 114–74, title XI, §1101(b)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this part is repealed.</i>
+
 #### Prior Provisions
 
 A prior part IV, relating to effective date for subchapter, consisted of section 771 of this title, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(94), Oct. 4, 1976, 90 Stat. 1780.

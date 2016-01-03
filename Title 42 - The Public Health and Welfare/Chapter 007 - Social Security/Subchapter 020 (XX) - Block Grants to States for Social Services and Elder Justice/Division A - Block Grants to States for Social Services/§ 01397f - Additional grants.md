@@ -164,7 +164,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(3), (d)(1), and (
 
 #### Prior Provisions
 
-A prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2007, as added Aug. 13, 1981, Pub. L. 97–35, titleXXIII, §2352(a), 95 Stat. 871, related to child day care services, prior to repeal by Pub. L. 99–514, title XVIII, §1883(e)(2), Oct. 22, 1986, 100 Stat. 2919.
+A prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2007, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2352(a), 95 Stat. 871, related to child day care services, prior to repeal by Pub. L. 99–514, title XVIII, §1883(e)(2), Oct. 22, 1986, 100 Stat. 2919.
 
 Another prior section 1397f, act Aug. 14, 1935, ch. 531, title XX, §2008, formerly §2007, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2348; renumbered §2008, Jan. 2, 1980, Pub. L. 96–178, §4(b), 93 Stat. 1296, defined "State supplementary payment" and "State", prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 

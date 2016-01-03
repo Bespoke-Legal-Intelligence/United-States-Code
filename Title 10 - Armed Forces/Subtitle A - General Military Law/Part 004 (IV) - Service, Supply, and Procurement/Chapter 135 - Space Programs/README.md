@@ -12,16 +12,20 @@
 | [2277\.](%C2%A7%2002277%20-%20Report%20on%20foreign%20counter-space%20programs.md) | Report on foreign counter-space programs. |
 | [2278\.](%C2%A7%2002278%20-%20Notification%20of%20foreign%20interference%20of%20national%20security%20space.md) | Notification of foreign interference of national security space. |
 | [2279\.](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services.md) | Foreign commercial satellite services. |
+| [2279a.](%C2%A7%2002279a%20-%20Principal%20Advisor%20on%20Space%20Control.md) | Principal Advisor on Space Control. |
+| [2279b.](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md) | Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
+
 <b>2013</b>—Pub. L. 113–66, div. A, title IX, §911(b), title XVI, §1602(a)(2), Dec. 26, 2013, 127 Stat. 823, 942, added items 2278 and 2279.
 
 Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
 
-<b>2009</b>—Pub. L. 111–84, div. A, title IX, §912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 "Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government".
+<b>2009</b>—Pub. L. 111–84, div. A, title IX, §912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 "Space surveillance network: pilotprogram for provision of satellite tracking support to entities outside United States Government".
 
 <b>2006</b>—Pub. L. 109–364, div. A, title IX, §913(b)(2), Oct. 17, 2006, 120 Stat. 2357, substituted "Operationally Responsive Space Program Office" for "Operationally responsive national security payloads and buses: separate program element required" in item 2273a.
 
@@ -44,3 +48,5 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 - [&sect; 02277 - Report on foreign counter-space programs](%C2%A7%2002277%20-%20Report%20on%20foreign%20counter-space%20programs.md)
 - [&sect; 02278 - Notification of foreign interference of national security space](%C2%A7%2002278%20-%20Notification%20of%20foreign%20interference%20of%20national%20security%20space.md)
 - [&sect; 02279 - Foreign commercial satellite services](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services.md)
+- [&sect; 02279a - Principal Advisor on Space Control](%C2%A7%2002279a%20-%20Principal%20Advisor%20on%20Space%20Control.md)
+- [&sect; 02279b - Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md)

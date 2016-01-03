@@ -40,11 +40,11 @@ In subsection (a), the text of 49 App.:2215(a) (last sentence) is omitted as sur
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–181 inserted at end "Before waiving a condition that property be used for an aeronautical purpose under the preceding sentence, the Secretary must provide notice to the public not less than 30 days before waiving such condition."
+<b>2000</b>—Subsec. (a). Pub. L. 106–181 inserted at end "Before waiving a condition that property be used for anaeronautical purpose under the preceding sentence, the Secretary must provide notice to the public not less than 30 days before waiving such condition."
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Construction of 2000 Amendment
 

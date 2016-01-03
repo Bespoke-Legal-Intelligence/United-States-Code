@@ -16,7 +16,7 @@
 
 #### (b) Report requirements
 
-(1) Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+(1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
 &emsp;(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
 
@@ -32,7 +32,7 @@
 
 #### (c) Submission dates; public comment
 
-(1) Each report required under subsection (a) of this section shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
+(1) Each report required under subsection (a) shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
 
 (2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
@@ -40,7 +40,7 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The United States International Trade Commission (hereinafter in this section referred to as the 'Commission') shall prepare, and submit to the Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
+<b>2000</b>—Subsec. (a). Pub. L. 106–200 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The United States International Trade Commission (hereinafter in this section referred to as the 'Commission') shall prepare, and submit tothe Congress, a report regarding the economic impact of this chapter on United States industries and consumers, and, in conjunction with other agencies, the effectiveness of this chapter in promoting drug-related crop eradication and crop substitution efforts of the beneficiary countries, during—
 
 &emsp;"(1) the 24-month period beginning with December 4, 1991; and
 

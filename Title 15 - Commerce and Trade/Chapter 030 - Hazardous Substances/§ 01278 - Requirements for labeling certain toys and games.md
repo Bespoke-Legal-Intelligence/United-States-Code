@@ -118,7 +118,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), any cautionary statement required under subsection (a) or (b) of this section shall be—
+&emsp;Except as provided in paragraphs (2) and (3), any cautionary statement required under subsection (a) or (b) shall be—
 
 &emsp;&emsp;(A) displayed in its entirety on the principal display panel of the product's package, and on any descriptive material which accompanies the product, and, in the case of bulk sales of such product when unpackaged, on the bin, container for retail display of the product, and any vending machine from which the unpackaged product is dispensed, and
 
@@ -130,17 +130,17 @@
 
 #### (3) Special rules for certain packages
 
-&emsp;(A) A cautionary statement required by subsection (a) or (b) of this section may, in lieu of display on the principal display panel of the product's package, be displayed on another panel of the package if—
+&emsp;(A) A cautionary statement required by subsection (a) or (b) may, in lieu of display on the principal display panel of the product's package, be displayed on another panel of the package if—
 
 &emsp;&emsp;(i) the package has a principal display panel of 15 square inches or less and the required statement is displayed in three or more languages; and
 
-&emsp;&emsp;(ii) the statement specified in subparagraph (B) is displayed on the principal display panel and is accompanied by an arrow or other indicator pointing toward the place on the package where the statement required by subsection (a) or (b) of this section appears.
+&emsp;&emsp;(ii) the statement specified in subparagraph (B) is displayed on the principal display panel and is accompanied by an arrow or other indicator pointing toward the place on the package where the statement required by subsection (a) or (b) appears.
 
-&emsp;(B)(i) In the case of a product to which subsection (a) of this section, subsection (b)(2)(B) of this section, subsection (b)(2)(C) of this section, or subsection (b)(2)(D) of this section applies, the statement specified by this subparagraph is as follows:
+&emsp;(B)(i) In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
 
 [Image not captured: t151278g.gif]
 
-&emsp;(ii) In the case of a product to which subsection (b)(2)(A) of this section applies, the statement specified by this subparagraph is as follows:
+&emsp;(ii) In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
 
 [Image not captured: t151278h.gif]
 

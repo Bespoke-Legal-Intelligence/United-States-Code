@@ -56,7 +56,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(ii) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
-&emsp;&emsp;(C) The term "local educational agency" has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713).
+&emsp;&emsp;(C) The term "local educational agency" has the meaning given that term in section 7013 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;&emsp;(D) The term "institution of higher education" has the meaning given that term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
@@ -70,7 +70,7 @@ In general.—The Administrator may provide for the use by State or local govern
 
 &emsp;(2)
 
-Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods andservices qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
+Determination by secretary of homeland security.—The Secretary of Homeland Security shall determine which goods and services qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
 
 &emsp;(3)
 
@@ -100,7 +100,7 @@ Qualified organization.—In this subsection, the term "qualified organization" 
 
 Duty of Users Regarding Use of Supply Schedules.—All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, §5(l)(7), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1080; Pub. L. 107–347, title II, §211(a), Dec. 17, 2002, 116 Stat. 2939; Pub. L. 109–364, div. A, title VIII, §833(a), Oct. 17, 2006, 120 Stat. 2332; Pub. L. 110–248, §2, June 26, 2008, 122 Stat. 2316; Pub. L. 111–263, §§2–4, Oct. 8, 2010, 124 Stat. 2787, 2788; Pub. L. 111–350, §5(l)(7), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 114–95, title IX, §9215(www), Dec. 10, 2015, 129 Stat. 2191.)
 
 Historical and Revision Notes
 
@@ -128,9 +128,13 @@ In subsection (b)(2), the words "the authority of" in 40:481(b)(2)(B) are omitte
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+Section 7013 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C), is classified to section 7713 of Title 20, Education.
+
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(3)(C). Pub. L. 114–95 substituted "section 7013 of the Elementary and Secondary Education Act of 1965" for "section 8013 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7713)".
 
 <b>2011</b>—Subsec. (b)(1)(A)(i). Pub. L. 111–350, §5(l)(7)(A), substituted "section 8501(7) of title 41" for "section 5(3) of the Javits-Wagner-O'Day Act (41 U.S.C. 48b(3))".
 
@@ -151,6 +155,10 @@ Subsec. (f). Pub. L. 111–263, §3, added subsec. (f).
 <b>2006</b>—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–347 added subsec. (c).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 

@@ -24,7 +24,7 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 #### Comptroller General Review of Operations of Defense Logistics Agency
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Logistics Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General's findings not later than Feb. 1, 2002.
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §917\], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the ComptrollerGeneral to review the operations of the Defense Logistics Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General's findings not later than Feb. 1, 2002.
 
 #### Comptroller General Review of Operations of Defense Information Systems Agency
 

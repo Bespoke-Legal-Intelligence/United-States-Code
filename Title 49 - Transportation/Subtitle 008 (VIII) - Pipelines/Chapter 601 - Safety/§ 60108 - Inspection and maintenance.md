@@ -104,7 +104,7 @@ Replacing Cast Iron Gas Pipelines.—(1) The Secretary shall publish a notice on
 
 (4) Not later than December 31, 2012, and every 2 years thereafter, the Secretary shall conduct a follow-up survey to measure the progress that owners and operators of pipeline facilities have made in adopting and implementing their plans for the safe management and replacement of cast iron gas pipelines.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1312; Pub. L. 104–304, §§6, 20(h), Oct. 12, 1996, 110 Stat.3800, 3805; Pub. L. 112–90, §§7(a), 18(a), 21(c), Jan. 3, 2012, 125 Stat. 1910, 1916, 1917.)
 
 Historical and Revision Notes
 
@@ -296,7 +296,7 @@ In subsection (d)(2), the words "(relating to coordination of Federal informatio
 
 #### References in Text
 
-Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
+Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108Stat. 1379. For further details, see Historical and Revision Notes above.
 
 Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of Pub. L. 96–129, which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
@@ -348,7 +348,7 @@ Contents.—The report shall include—
 
 &emsp;&emsp;"(A) an analysis of the technical limitations of current leak detection systems, including the ability of the systems to detect ruptures and small leaks that are ongoing or intermittent, and what can be done to foster development of better technologies; and
 
-&emsp;&emsp;"(B) an analysis of the practicability of establishing technically, operationally, and economicallyfeasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
+&emsp;&emsp;"(B) an analysis of the practicability of establishing technically, operationally, and economically feasible standards for the capability of such systems to detect leaks, and the safety benefits and adverse consequences of requiring operators to use leak detection systems.
 
 "(b)
 

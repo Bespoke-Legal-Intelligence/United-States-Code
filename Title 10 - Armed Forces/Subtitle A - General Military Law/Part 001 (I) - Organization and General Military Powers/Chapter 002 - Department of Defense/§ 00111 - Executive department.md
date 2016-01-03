@@ -72,6 +72,118 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities
+
+Pub. L. 114–92, div. A, title III, §346(a), (b), Nov. 25, 2015, 129 Stat. 796, provided that:
+
+"(a)
+
+Plan for Achievement of Cost Savings.—
+
+&emsp;"(1)
+
+In general.—Commencing not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
+
+&emsp;"(2)
+
+Treatment of savings pursuant to headquarters reduction.—Documented savings achieved pursuant to the headquarters reduction requirement in subsection (b), other than savings achieved in fiscal year 2020, shall count toward the cost savings required by paragraph (1).
+
+&emsp;"(3)
+
+Treatment of savings pursuant to management activities.—Documented savings in the human resources management, health care management, financial flow management, information technology infrastructure and management, supply chain and logistics, acquisition and procurement, and real property management activities of the Department during the period referred to in paragraph (1) may be counted toward the cost savings required by paragraph (1).
+
+&emsp;"(4)
+
+Treatment of savings pursuant to force structure revisions.—Savings or reductions to military force structure or military operating units of the Armed Forces may not count toward the cost savings required by paragraph (1).
+
+&emsp;"(5)
+
+Reports.—The Secretary shall include with the budget for the Department of Defense for each of fiscal years 2017, 2018, and 2019, as submitted to Congress pursuant to section 1105 of title 31, United States Code, a report describing and assessing the progress of the Department in implementing the plan required by paragraph (1) and in achieving the cost savings required by that paragraph.
+
+&emsp;"(6)
+
+Comptroller general assessments.—Not later than 90 days after the submittal of each report required by paragraph (5), the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the assessment of the Comptroller General of the report and of the extent to which the Department of Defense is in compliance with the requirements of this section.
+
+"(b)
+
+Headquarters Reductions.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], theSecretary of Defense shall modify the headquarters reduction plan required by section 904 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 816; 10 U.S.C. 111 note) to ensure that it achieves savings in the total funding available for major Department of Defense headquarters activities by fiscal year 2020 that are not less than 25 percent of the baseline amount. The modified plan shall establish a specific savings objective for each major headquarters activity in each fiscal year through fiscal year 2020. The budget for the Department of Defense for each fiscal year after fiscal year 2016 shall reflect the savings required by the modified plan.
+
+&emsp;"(2)
+
+Baseline amount.—For the purposes of this subsection, the baseline amount is the amount authorized to be appropriated by this Act \[see Tables for classification\] for fiscal year 2016 for major Department of Defense headquarters activities, adjusted by a credit for reductions in such headquarters activities that are documented, as of the date that is 90 days after the date of the enactment of this Act, as having been accomplished in earlier fiscal years in accordance with the December 2013 directive of the Secretary of Defense on headquarters reductions. The modified plan issued pursuant to paragraph (1) shall include an overall baseline amount for all of the major Department of Defense headquarters activities that credits reductions accomplished in earlier fiscal years in accordance with the December 2013 directive, and a specific baseline amount for each such headquarters activity that credits such reductions.
+
+&emsp;"(3)
+
+Major department of defense headquarters activities defined.—In this subsection, the term 'major Department of Defense headquarters activities' means the following:
+
+&emsp;&emsp;"(A) Each of the following organizations:
+
+&emsp;&emsp;&emsp;"(i) The Office of the Secretary of Defense and the Joint Staff.
+
+&emsp;&emsp;&emsp;"(ii) The Office of the Secretary of the Army and the Army Staff.
+
+&emsp;&emsp;&emsp;"(iii) The Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and Headquarters, Marine Corps.
+
+&emsp;&emsp;&emsp;"(iv) The Office of the Secretary of the Air Force and the Air Staff.
+
+&emsp;&emsp;&emsp;"(v) The Office of the Chief, National Guard Bureau, and the National Guard Joint Staff.
+
+&emsp;&emsp;"(B)(i) Except as provided in clause (ii), headquarters elements of each of the following:
+
+&emsp;&emsp;&emsp;"(I) The combatant commands, the sub-unified commands, and subordinate commands that directly report to such commands.
+
+&emsp;&emsp;&emsp;"(II) The major commands of the military departments and the subordinate commands that directly report to such commands.
+
+&emsp;&emsp;&emsp;"(III) The component commands of the military departments.
+
+&emsp;&emsp;&emsp;"(IV) The Defense Agencies, the Department of Defense field activities, and the Office of the Inspector General of the Department of Defense.
+
+&emsp;&emsp;&emsp;"(V) Department of Defense components that report directly to the organizations specified in subparagraph (A).
+
+&emsp;&emsp;"(ii) Subordinate commands and direct-reporting components otherwise described in clause (i) that do not have significant functions other than operational, operational intelligence, or tactical functions, or training for operational, operational intelligence, or tactical functions, are not headquarters elements for purposes of this subsection.
+
+&emsp;"(4)
+
+Implementation.—Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
+
+&emsp;&emsp;"(A) incorporate into such guidance the definition of the term 'major Department of Defense headquarters activities' as provided in paragraph (3);
+
+&emsp;&emsp;"(B) ensure that the term 'headquarters element', as used in paragraph (3)(B), is consistently applied within such guidance to include—
+
+&emsp;&emsp;&emsp;"(i) senior leadership and staff functions of applicable commands and components; and
+
+&emsp;&emsp;&emsp;"(ii) direct support to senior leadership and staff functions of applicable commands and components and to higher headquarters;
+
+&emsp;&emsp;"(C) ensure that the budget and accounting systems of the Department of Defense are modified to track funding for the major Department of Defense headquarters activities as separate funding lines; and
+
+&emsp;&emsp;"(D) identify and address any deviation from the specific savings objective established for a headquarters activity in the modified plan issued by the Secretary pursuant to the requirement in paragraph (1)."
+
+#### Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute
+
+Pub. L. 114–92, div. A, title X, §1080, Nov. 25, 2015, 129 Stat. 1000, provided that:
+
+"(a)
+
+Termination.—Effective on the date that is two years after the date of the enactment of this Act \[Nov. 25, 2015\], each report described in subsection (b) that is still required to be submitted to Congress as of such effective date shall no longer be required to be submitted to Congress.
+
+"(b)
+
+Covered Reports.—A report described in this subsection is a report that is required to be submitted to Congress by the Department of Defense, or by any officer, official, component, or element of the Department, by any annual national defense authorization Act as of April 1, 2015.
+
+"(c)
+
+Report to Congress.—Not later than February 1, 2016, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes each of the following:
+
+&emsp;"(1) A list of all reports described in subsection (b).
+
+&emsp;"(2) For each such report, a citation to the provision of law under which the report is required to be submitted.
+
+&emsp;"(3) Draft legislation that would repeal each such report."
+
 #### Streamlining of Department of Defense Management Headquarters
 
 Pub. L. 113–66, div. A, title IX, §904, Dec. 26, 2013, 127 Stat. 816, as amended by Pub. L. 113–291, div. A, title IX, §905(e), Dec. 19, 2014, 128 Stat. 3472, provided that:
@@ -216,7 +328,7 @@ Construction.—Nothing in this provision shall be construed as preventing the S
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
-Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15,2005, and provided that the Commission would terminate 45 days after such date.
+Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
 
 #### Commission To Assess United States National Security Space Management and Organization
 
@@ -270,7 +382,7 @@ Pub. L. 104–201, div. A, title IX, §912, Sept. 23, 1996, 110 Stat. 2623, as a
 
 "(a)
 
-Telecommunications Support and Audiovisual Support Services.—The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscal year are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
+Telecommunications Support and Audiovisual Support Services.—The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscalyear are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
 
 "(b)
 
@@ -286,7 +398,7 @@ Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623,
 
 #### Commission on Roles and Missions of Armed Forces
 
-Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat.2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
+Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
 
 #### Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense
 
@@ -334,7 +446,7 @@ Pub. L. 99–433, §3, Oct. 1, 1986, 100 Stat. 993, provided that: "In enacting 
 
 &emsp;"(3) to place clear responsibility on the commanders of the unified and specified combatant commands for the accomplishment of missions assigned to those commands;
 
-&emsp;"(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility of those commanders for the accomplishment of missions assigned to their commands;
+&emsp;"(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility ofthose commanders for the accomplishment of missions assigned to their commands;
 
 &emsp;"(5) to increase attention to the formulation of strategy and to contingency planning;
 
@@ -350,7 +462,7 @@ Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by P
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should bemade by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

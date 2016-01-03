@@ -1,6 +1,6 @@
 ### §302. Joint cases
 
-(a) A joint case under a chapter of this title is commenced by the filing with the bankruptcy court of a single petition under such chapter by an individual that may be a debtor under such chapter and such individual's spouse. The commencement of a joint case under a chapter of this title constitutes an order for relief under such chapter.
+(a) A joint case under a chapter of this title is commenced by the filing with the bankruptcy court of a single petition under such chapter by an individual that may be a debtor under such chapter and such individual's spouse. The commencement of a joint case under a chapter ofthis title constitutes an order for relief under such chapter.
 
 (b) After the commencement of a joint case, the court shall determine the extent, if any, to which the debtors' estates shall be consolidated.
 
@@ -10,7 +10,7 @@
 
 #### senate report no. 95–989
 
-A joint case is a voluntary bankruptcy case concerning a wife and husband. Under current law, there is no explicit provision for joint cases. Very often, however, in the consumer debtor context, a husband and wife are jointly liable on their debts, and jointly hold most of their property. A joint case will facilitate consolidation of their estates, to the benefit of both the debtorsand their creditors, because the cost of administration will be reduced, and there will be only one filing fee.
+A joint case is a voluntary bankruptcy case concerning a wife and husband. Under current law, there is no explicit provision for joint cases. Very often, however, in the consumer debtor context, a husband and wife are jointly liable on their debts, and jointly hold most of their property. A joint case will facilitate consolidation of their estates, to the benefit of both the debtors and their creditors, because the cost of administration will be reduced, and there will be only one filing fee.
 
 Section 302 specifies that a joint case is commenced by the filing of a petition under an appropriate chapter by an individual and that individual's spouse. Thus, one spouse cannot take the other into bankruptcy without the other's knowledge or consent. The filing of the petition constitutes an order for relief under the chapter selected.
 

@@ -50,7 +50,7 @@
 
 &emsp;(D) consult with the chief State school officer, local educational agencies, and providers of early childhood education and development, at both the State and local levels;
 
-&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact onchild development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
+&emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact on child development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
 
 &emsp;(F) promote partnerships between Head Start agencies and other organizations in order to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
 
@@ -144,7 +144,7 @@
 
 &emsp;(iv) any other information that the Secretary may require.
 
-(F) Nothing in this subsection shall be construed to provide the State Advisory Council with authority to modify, supersede, or negate the requirements of this subchapter.
+(F) Nothing in this subsection shall be construed to provide the State Advisory Councilwith authority to modify, supersede, or negate the requirements of this subchapter.
 
 (Pub. L. 97–35, title VI, §642B, as added and amended Pub. L. 110–134, §11, Dec. 12, 2007, 121 Stat. 1408.)
 

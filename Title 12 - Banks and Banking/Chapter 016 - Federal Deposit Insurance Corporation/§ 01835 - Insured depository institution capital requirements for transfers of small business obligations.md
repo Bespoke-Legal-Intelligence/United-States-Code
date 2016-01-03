@@ -48,7 +48,7 @@ Not later than 180 days after September 23, 1994, each appropriate Federal banki
 
 #### (2) Existing transactions not affected
 
-&emsp;Notwithstanding paragraph (1), this section shall remain in effect with respect to transfers of small business loans and leases of personalproperty with recourse by qualified insured depository institutions occurring before the effective date of regulations referred to in paragraph (1).
+&emsp;Notwithstanding paragraph (1), this section shall remain in effect with respect to transfers of small business loans and leases of personal property with recourse by qualified insured depository institutions occurring before the effective date of regulations referred to in paragraph (1).
 
 #### (i) Definitions
 

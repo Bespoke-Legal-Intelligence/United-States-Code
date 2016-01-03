@@ -2,7 +2,7 @@
 
 (a)
 
-Scope.—Subject to the provisions of this chapter, the Secretary shall conduct an ongoing intelligent transportation system program—
+Scope.—Subject to the provisions of sections 512 through 518, the Secretary shall conduct an ongoing intelligent transportation system program—
 
 &emsp;(1) to research, develop, and operationally test intelligent transportation systems; and
 
@@ -10,11 +10,11 @@ Scope.—Subject to the provisions of this chapter, the Secretary shall conduct 
 
 (b)
 
-Policy.—Intelligent transportation system research projects and operational tests funded pursuant to this chapter shall encourage and not displace public-private partnerships or private sector investment in those tests and projects.
+Policy.—Intelligent transportation system research projects and operational tests funded pursuant to sections 512 through 518 shall encourage and not displace public-private partnerships or private sector investment in those tests and projects.
 
 (c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the UnitedStates, the Federal laboratories, and institutions of higher education, including historically Black colleges and universities and other minority institutions of higher education.
 
 (d)
 
@@ -36,7 +36,7 @@ Information Clearinghouse.—
 
 In general.—The Secretary shall—
 
-&emsp;&emsp;(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under this chapter; and
+&emsp;&emsp;(A) maintain a repository for technical and safety data collected as a result of federally sponsored projects carried out under sections 512 through 518; and
 
 &emsp;&emsp;(B) make, on request, that information (except for proprietary information and data) readily available to all users of the repository at an appropriate cost.
 
@@ -62,7 +62,7 @@ Advisory Committee.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out this chapter.
+In general.—The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out sections 512 through 518.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Membership.—The Advisory Committee shall have no more than 20 members, be bala
 
 Duties.—The Advisory Committee shall, at a minimum, perform the following duties:
 
-&emsp;&emsp;(A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.
+&emsp;&emsp;(A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.<sup>1</sup>
 
 &emsp;&emsp;(B) Review, at least annually, areas of intelligent transportation systems research being considered for funding by the Department, to determine—
 
@@ -108,7 +108,7 @@ Duties.—The Advisory Committee shall, at a minimum, perform the following duti
 
 &emsp;(4)
 
-Report.—Not later than February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary shall submit to Congress a report that includes—
+Report.—Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
 
 &emsp;&emsp;(A) all recommendations made by the Advisory Committee during the preceding calendar year;
 
@@ -130,11 +130,11 @@ Guidelines and requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall issue guidelines and requirements for the reporting and evaluation of operational tests and deployment projects carried out under this chapter.
+In general.—The Secretary shall issue guidelines and requirements for the reporting and evaluation of operational tests and deployment projects carried out under sections 512 through 518.
 
 &emsp;&emsp;(B)
 
-Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any real or apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under this chapter.
+Objectivity and independence.—The guidelines and requirements issued under subparagraph (A) shall include provisions to ensure the objectivity and independence of the reporting entity so as to avoid any realor apparent conflict of interest or potential influence on the outcome by parties to any such test or deployment project or by any other formal evaluation carried out under sections 512 through 518.
 
 &emsp;&emsp;(C)
 
@@ -142,17 +142,29 @@ Funding.—The guidelines and requirements issued under subparagraph (A) shall e
 
 &emsp;(2)
 
-Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under this chapter shall not be subject to chapter 35 of title 44, United States Code.
+Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
 
-(Added Pub. L. 112–141, div. E, title III, §53003(a), July 6, 2012, 126 Stat. 899.)
+(Added Pub. L. 112–141, div. E, title III, §53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, §1446(a)(14), title VI, §6007, Dec. 4, 2015, 129 Stat. 1438, 1567.)
 
 #### References in Text
 
-The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (h)(4), is the date of enactment of div. E of Pub. L. 112–141, which was approved July 6, 2012.
+Section 508, referred to in subsec. (h)(3)(A), was repealed by Pub. L. 114–94, div. A, title VI, §6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
 
 The Federal Advisory Committee Act, referred to in subsec. (h)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94, §1446(a)(14), substituted "sections 512 through 518" for "this chapter" wherever appearing.
+
+Subsec. (h)(4). Pub. L. 114–94, §6007, in introductory provisions, substituted "May 1 of each year" for "February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012" and "make available to the public on a Department of Transportation website" for "submit to Congress".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

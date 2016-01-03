@@ -10,7 +10,7 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 (2) Within 180 days following October 27, 1993, the Secretary, after consulting with the Tribe, shall ascertain the boundaries and area of the existing reservation.<sup>1</sup> In addition, the Secretary, after consulting with the Tribe, shall engage a professional land planning firm as provided in the Settlement Agreement. The Secretary shall bear the cost of all services rendered pursuant to this section.
 
-(3) The Tribe may identify, purchase and request that the Secretary place into reservation status, tracts of lands in the manner prescribed by the Settlement Agreement. The Tribe may not request that any land be placed in reservation status, unless those lands were acquired by the Tribe and qualify for reservation status in full compliance with the Settlement Agreement, including section 14 thereof.
+(3) The Tribe may identify, purchase and request that the Secretary place into reservation status, tracts of lands in the manner prescribedby the Settlement Agreement. The Tribe may not request that any land be placed in reservation status, unless those lands were acquired by the Tribe and qualify for reservation status in full compliance with the Settlement Agreement, including section 14 thereof.
 
 (4) The Secretary shall bear the cost of all title examinations, preliminary subsurface soil investigations, and level one environmental audits to be performed on each parcel contemplated for purchase by the Tribe or the Secretary for the Expanded Reservation, and shall report the results to the Tribe. The Secretary's or the Tribe's payment of any option fee and the purchase price may be drawn from the Catawba Land Acquisition Trust Fund.
 
@@ -40,7 +40,7 @@ The Tribe, in consultation with the Secretary, shall take such actions as are re
 
 #### (f) Terms and conditions of acquisition
 
-All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribe and the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation landsusing the methods of financing described in the Settlement Agreement.
+All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribe and the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
 
 #### (g) Authority to erect permanent improvements on Existing and Expanded Reservation land and non-Reservation land held in trust
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law or regulation, the Attorney General o
 
 (B) Unless the Tribe and the State agree upon a valuation formula for pricing easements over the Reservation, the Secretary shall be subject to proceedings for condemnation and eminent domain to acquire easements and rights of way for public purposes through the Reservation under the laws of the State in circumstances where no other reasonable access is available.
 
-(C) With the approval of the Tribe, the Secretary may grant easements or rights-of-way over the Reservation for private purposes, and implied easements of necessity shall apply to all lands acquired by the Tribe, unless expressly excluded by the parties.
+(C) With the approval of the Tribe, the Secretary may grant easements or rights-of-wayover the Reservation for private purposes, and implied easements of necessity shall apply to all lands acquired by the Tribe, unless expressly excluded by the parties.
 
 #### (i) Jurisdictional status
 

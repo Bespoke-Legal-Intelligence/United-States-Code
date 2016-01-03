@@ -54,7 +54,7 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (C) Third tier
 
-&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than$1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
+&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than $1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
 
 #### (3) Assessments
 
@@ -62,7 +62,7 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (4) Hearing
 
-&emsp;A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
+&emsp;A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
 
 (Pub. L. 102–550, title XIII, §1314, Oct. 28, 1992, 106 Stat. 3946; Pub. L. 110–289, div. A, title I, §1104(a), July 30, 2008, 122 Stat. 2666.)
 

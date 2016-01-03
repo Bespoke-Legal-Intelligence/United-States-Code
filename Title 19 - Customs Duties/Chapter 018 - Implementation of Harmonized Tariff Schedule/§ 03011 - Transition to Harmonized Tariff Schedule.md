@@ -8,7 +8,7 @@
 
 &emsp;(B) contain references to the tariff classification of articles under the old Schedules.
 
-(2) Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changesrequired under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
+(2) Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changes required under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
 
 #### (b) Generalized System of Preferences conversion
 
@@ -54,7 +54,7 @@
 
 &emsp;(i) are published during the 2-year period beginning on February 1, 1988; and
 
-&emsp;(ii) would have affected tariff treatment if they had been published during the period of the conversion of the old Schedules into the format of the Convention.
+&emsp;(ii) would have affected tariff treatment if they had been published during the period ofthe conversion of the old Schedules into the format of the Convention.
 
 > No later than September 1, 1990, the Commission shall report the results of the investigation to the President, the Committee on Ways and Means, and the Committee on Finance, and shall recommend those changes to the Harmonized Tariff Schedule that the Commission would have recommended if the final decisions concerned had been made before the conversion into the format of the Convention occurred.
 

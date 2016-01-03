@@ -48,7 +48,7 @@ Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], r
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: "This Act \[enacting sections 5891a and 5891b ofthis title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the 'Education Flexibility Partnership Act of 1999'."
+Pub. L. 106–25, §1, Apr. 29, 1999, 113 Stat. 41, provided that: "This Act \[enacting sections 5891a and 5891b of this title, amending section 1415 of this title, and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the 'Education Flexibility Partnership Act of 1999'."
 
 #### Short Title
 

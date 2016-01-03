@@ -42,5 +42,5 @@ For purposes of this section, the eligible agency shall provide funds to charter
 
 #### Prior Provisions
 
-A prior section 2353, Pub. L. 88–210, title I, §133, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3113,related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2353, Pub. L. 88–210, title I, §133, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3113, related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
 

@@ -8,7 +8,7 @@ Definition.—In this section, "controlled substance" means any substance under 
 
 General.—(1) In the interest of safety, the Secretary of Transportation shall prescribe regulations and issue orders, not later than October 28, 1992, related to alcohol and controlled substances use in railroad operations. The regulations shall establish a program requiring—
 
-&emsp;(A) a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation; the regulations shall permit such railroad carriers to conduct preemployment testing of such employees for the use of alcohol; and
+&emsp;(A) a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or aUnited States Government regulation; the regulations shall permit such railroad carriers to conduct preemployment testing of such employees for the use of alcohol; and
 
 &emsp;(B) when the Secretary considers it appropriate, disqualification for an established period of time or dismissal of any employee found—
 
@@ -112,7 +112,9 @@ In subsection (c)(5), the word "tested" is substituted for "assayed" for consist
 
 #### Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees
 
-Pub. L. 110–432, div. A, title IV, §412, Oct. 16, 2008, 122 Stat. 4889, provided that: "Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall complete a rulemaking proceeding to revise the regulations prescribed under section 20140 of title 49, United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities."
+Pub. L. 110–432, div. A, title IV, §412, Oct. 16, 2008, 122 Stat. 4889, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(6), Dec. 4, 2015, 129 Stat. 1678, provided that: "Not later than 2 years following the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall complete a rulemaking proceeding to revise the regulations prescribed under section 20140 of title 49, United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities."
 
 \[For definition of "railroad carrier", as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+
+'
 

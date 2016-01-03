@@ -2,7 +2,7 @@
 
 #### (a) Conditions for approval of H–2A petitions
 
-(1) A petition to import an alien as an H–2A worker (as defined in subsection (i)(2) of this section) may not be approved by the Attorney General unless the petitioner has applied to the Secretary of Labor for a certification that—
+(1) A petition to import an alien as an H–2A worker (as defined in subsection (i)(2)) may not be approved by the Attorney General unless the petitioner has applied to the Secretary of Labor for a certification that—
 
 &emsp;(A) there are not sufficient workers who are able, willing, and qualified, and who will be available at the time and place needed, to perform the labor or services involved in the petition, and
 
@@ -12,7 +12,7 @@
 
 #### (b) Conditions for denial of labor certification
 
-The Secretary of Labor may not issue a certification under subsection (a) of this section with respect to an employer if the conditions described in that subsection are not met or if any of the following conditions are met:
+The Secretary of Labor may not issue a certification under subsection (a) with respect to an employer if the conditions described in that subsection are not met or if any of the following conditions are met:
 
 &emsp;(1) There is a strike or lockout in the course of a labor dispute which, under the regulations, precludes such certification.
 
@@ -34,13 +34,13 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (2) Notice within seven days of deficiencies
 
-&emsp;(A) The employer shall be notified in writing within seven days of the date of filing if the application does not meet the standards (other than that described in subsection (a)(1)(A) of this section) for approval.
+&emsp;(A) The employer shall be notified in writing within seven days of the date of filing if the application does not meet the standards (other than that described in subsection (a)(1)(A)) for approval.
 
 &emsp;(B) If the application does not meet such standards, the notice shall include the reasons therefor and the Secretary shall provide an opportunity for the prompt resubmission of a modified application.
 
 #### (3) Issuance of certification
 
-&emsp;(A) The Secretary of Labor shall make, not later than 30 days before the date such labor or services are first required to be performed, the certification described in subsection (a)(1) of this section if—
+&emsp;(A) The Secretary of Labor shall make, not later than 30 days before the date such labor or services are first required to be performed, the certification described in subsection (a)(1) if—
 
 &emsp;&emsp;(i) the employer has complied with the criteria for certification (including criteria for the recruitment of eligible individuals as prescribed by the Secretary), and
 
@@ -48,7 +48,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 > &emsp;In considering the question of whether a specific qualification is appropriate in a job offer, the Secretary shall apply the normal and accepted qualifications required by non-H–2A-employers in the same or comparable occupations and crops.
 
-&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from the time the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
+&emsp;(B)(i) For a period of 3 years subsequent to the effective date of this section, labor certifications shall remain effective only if, from thetime the foreign worker departs for the employer's place of employment, the employer will provide employment to any qualified United States worker who applies to the employer until 50 percent of the period of the work contract, under which the foreign worker who is in the job was hired, has elapsed. In addition, the employer will offer to provide benefits, wages and working conditions required pursuant to this section and regulations.
 
 &emsp;(ii) The requirement of clause (i) shall not apply to any employer who—
 
@@ -72,7 +72,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (4) Housing
 
-&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
+&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) with respect to a petition for the importation of such worker.
 
 #### (d) Roles of agricultural associations
 
@@ -88,17 +88,17 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (A) Member's violation does not necessarily disqualify association or other members
 
-&emsp;&emsp;If an individual producer member of a joint employer association is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the member, the denial shall apply only to that member of the association unless the Secretary determines that the association or other member participated in, had knowledge of, or reason to know of, the violation.
+&emsp;&emsp;If an individual producer member of a joint employer association is determined to have committed an act that under subsection (b)(2) results in the denial of certification with respect to the member, the denial shall apply only to that member of the association unless the Secretary determines that the association or other member participated in, had knowledge of, or reason to know of, the violation.
 
 #### (B) Association's violation does not necessarily disqualify members
 
-&emsp;&emsp;(i) If an association representing agricultural producers as a joint employer is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the association, the denial shall apply only to the association and does not apply to any individual producer member of the association unless the Secretary determines that the member participated in, had knowledge of, or reason to know of, the violation.
+&emsp;&emsp;(i) If an association representing agricultural producers as a joint employer is determined to have committed an act that under subsection (b)(2) results in the denial of certification with respect to the association, the denial shall apply only to the association and does not apply to any individual producer member of the association unless the Secretary determines that the member participated in, had knowledge of, or reason to know of, the violation.
 
-&emsp;&emsp;(ii) If an association of agricultural producers certified as a sole employer is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the association, no individual producer member of such association may be the beneficiary of the services of temporary alien agricultural workers admitted under this section in the commodity and occupation in which such aliens were employed by the association which was denied certification during the period such denial is in force, unless such producer member employs such aliens in the commodity and occupation in question directly or through an association which is a joint employer of such workers with the producer member.
+&emsp;&emsp;(ii) If an association of agricultural producers certified as a sole employer is determined to have committed an act that under subsection (b)(2) results in the denial of certification with respect to the association, no individual producer member of such association may be the beneficiary of the services of temporary alien agricultural workers admitted under this section in the commodity and occupation in which such aliens were employed by the association which was denied certification during the period such denial is in force, unless such producer member employs such aliens in the commodity and occupation in question directly or through an association which is a joint employer of such workers with the producer member.
 
 #### (e) Expedited administrative appeals of certain determinations
 
-(1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) of this section or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
+(1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
 (2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
@@ -146,7 +146,7 @@ Section was classified to section 1186 of this title prior to its renumbering by
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(4). Pub. L. 106–554 inserted at end "The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker."
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–554 inserted at end "The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) with respect to a petition for the importation of such worker."
 
 <b>1999</b>—Subsec. (c)(1). Pub. L. 106–78, §748(1), substituted "45 days" for "60 days".
 
@@ -216,7 +216,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;"(C) improving cooperation among government agencies, employers, employer associations, workers, unions, and other worker associations to end the dependence of any industry on a constant supply of temporary foreign workers, and
 
-&emsp;&emsp;"(D) the relative benefits to domestic workers and burdens upon employers of a policy which requires employers, as a condition for certification under the program, to continue to accept qualifiedUnited States workers for employment after the date the H–2A workers depart for work with the employer.
+&emsp;&emsp;"(D) the relative benefits to domestic workers and burdens upon employers of a policy which requires employers, as a condition for certification under the program, to continue to accept qualified United States workers for employment after the date the H–2A workers depart for work with the employer.
 
 > The recommendations under subparagraph (D) shall be made in furtherance of the Congressional policy that aliens not be admitted under the H–2A program unless there are not sufficient workers in the United States who are able, willing, and qualified to perform the labor or services needed and that the employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the United States similarly employed.
 

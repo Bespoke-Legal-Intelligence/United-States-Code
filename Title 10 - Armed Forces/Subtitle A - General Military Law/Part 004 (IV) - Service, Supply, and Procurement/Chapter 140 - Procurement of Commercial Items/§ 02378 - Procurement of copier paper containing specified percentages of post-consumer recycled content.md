@@ -26,7 +26,7 @@ Exceptions.—A department or agency of the Department of Defense is not require
 
 Effect of Inability To Meet Goal in 2004.—(1) In the case of the requirement that will take effect on January 1, 2004, pursuant to subsection (a)(2)(C), the requirement shall not take effect with respect to a military department or Defense Agency if the Secretary of Defense determines that the department or agency will be unable to meet such requirement by that date.
 
-(2) The Secretary shall submit to Congress written notice of any determination made under paragraph (1) and the reasons for the determination. The Secretary shall submit such notice, if at all, not later than January 1, 2003.
+(2) The Secretary shall submit to Congress written notice of any determination made underparagraph (1) and the reasons for the determination. The Secretary shall submit such notice, if at all, not later than January 1, 2003.
 
 (d)
 

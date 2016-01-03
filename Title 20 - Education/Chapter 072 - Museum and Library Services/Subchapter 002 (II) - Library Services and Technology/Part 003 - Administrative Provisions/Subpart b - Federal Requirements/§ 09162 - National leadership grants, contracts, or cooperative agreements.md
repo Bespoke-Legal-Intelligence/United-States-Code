@@ -6,7 +6,7 @@ From the amounts reserved under section 9131(a)(1)(B) of this title for any fisc
 
 &emsp;(1) building workforce and institutional capacity for managing the national information infrastructure and serving the information and education needs of the public;
 
-&emsp;(2)(A) research and demonstration projects related to the improvement of libraries or the enhancement of library and information services through effective and efficient use of new technologies, including projects that enable library users to acquire digital literacy skills and that make information resources more accessible and available; and
+&emsp;(2)(A) research and demonstration projects related to the improvement of libraries or the enhancement of library and information services through effective and efficient use of newtechnologies, including projects that enable library users to acquire digital literacy skills and that make information resources more accessible and available; and
 
 &emsp;(B) dissemination of information derived from such projects;
 

@@ -8,7 +8,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (1) Reburial areas
 
-&emsp;In consultation with affected Indian tribes, the Secretary may identify and set aside areas at civil works projects of the Department ofthe Army that may be used to rebury Native American remains that—
+&emsp;In consultation with affected Indian tribes, the Secretary may identify and set aside areas at civil works projects of the Department of the Army that may be used to rebury Native American remains that—
 
 &emsp;&emsp;(A) have been discovered on project land; and
 

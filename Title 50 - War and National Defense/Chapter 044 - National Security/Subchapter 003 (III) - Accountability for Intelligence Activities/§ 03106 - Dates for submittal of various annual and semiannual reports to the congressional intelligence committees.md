@@ -12,9 +12,7 @@ The date for the submittal to the congressional intelligence committees of the f
 
 &emsp;(4) The annual report on hiring and retention of minority employees in the intelligence community required by section 3050(a) of this title.
 
-&emsp;(5) The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title.
-
-&emsp;(6) The annual report on financial intelligence on terrorist assets required by section 3055 of this title.
+&emsp;(5) The annual report on financial intelligence on terrorist assets required by section 3055 of this title.
 
 #### (b) Semiannual reports
 
@@ -28,7 +26,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 #### (c) Submittal dates for reports
 
-(1) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
+(1) Except as provided in subsection (d) of this section, each annual report listed in subsection (a) of this section shall be submitted not later than February 1.
 
 (2) Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
 
@@ -48,9 +46,9 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (3)(A) The date for the submittal of a report whose submittal is postponed under paragraph (1) or (2) may be postponed beyond the time provided for the submittal of such report under such paragraph if the official required to submit such report submits to the congressional intelligence committees a written certification that preparation and submittal of such report at such time will impede the work of officers or employees of the intelligence community in a manner that will be detrimental to the national security of the United States.
 
-(B) A certification with respect to a report under subparagraph (A) shall include a proposedsubmittal date for such report, and such report shall be submitted not later than that date.
+(B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929.)
 
 #### References in Text
 
@@ -60,13 +58,17 @@ The David L. Boren National Security Education Act of 1991, referred to in subse
 
 The Classified Information Procedures Act, referred to in subsec. (b)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-Section 1681u(h)(2) of title 15, referred to in subsec. (b)(2), was in the original "section 624(h)(2) of the Fair Credit Reporting Act", which was translated as reading "section 626(h)(2) of the Fair Credit Reporting Act", to reflect the probable intent of Congress and the renumbering of section 624 as 626 by section 358(g)(1)(A) of Pub. L. 107–56 and section 214(a)(1) of Pub. L. 108–159.
+Section 1681u(h)(2) of title 15, referred to in subsec. (b)(2), was in the original "section 624(h)(2) of the Fair Credit Reporting Act", which was translated as reading "section 626(h)(2) of the Fair Credit Reporting Act", to reflect the probable intent of Congress and the renumbering of section 624 as 626 by section 358(g)(1)(A) of Pub. L. 107–56 and section 214(a)(1) of Pub. L. 108–159. Section 1681u(h) of title 15 was subsequently redesignated section 1681u(i) of title 15 by Pub. L. 114–23, title V, §503(c)(1), June 2, 2015, 129 Stat. 290.
 
 #### Codification
 
 Section was formerly classified to section 415b of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5)which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
+
+Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
 

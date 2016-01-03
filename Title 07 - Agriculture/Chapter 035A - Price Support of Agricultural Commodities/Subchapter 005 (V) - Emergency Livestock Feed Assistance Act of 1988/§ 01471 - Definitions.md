@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term "livestock producer" means—
 
-&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantialamount of total income from the production of grain or livestock, as determined by the Secretary, that is—
+&emsp;&emsp;(A) a person that is actively engaged in farming and that receives a substantial amount of total income from the production of grain or livestock, as determined by the Secretary, that is—
 
 &emsp;&emsp;&emsp;(i) an established producer or husbander of livestock or a dairy producer who is a citizen of, or legal resident alien in, the United States; or
 

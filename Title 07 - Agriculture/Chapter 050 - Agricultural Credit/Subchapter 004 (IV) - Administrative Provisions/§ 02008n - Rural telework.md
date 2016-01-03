@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible organization
 
-&emsp;The term "eligible organization" means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 450b of title 25), or any other organization, in a rural area (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
+&emsp;The term "eligible organization" means a nonprofit entity, an educational institution, an Indian tribe (as defined in section 450b of title 25), or any other organization, in a ruralarea (except for the institute), that meets the requirements of this section and such other requirements as are established by the Secretary.
 
 #### (2) Institute
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (5) Amount
 
-&emsp;The amount of a grant provided to an eligible organization under this subsection shall be not less than $1,000,000 and not more than $2,000,000.
+&emsp;The amount of a grant provided to an eligible organization under this subsection shall benot less than $1,000,000 and not more than $2,000,000.
 
 #### (d) Applicability of certain Federal law
 
@@ -116,5 +116,5 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 

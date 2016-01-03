@@ -6,7 +6,7 @@ The Congress finds that it is in the national security and economic interest of 
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordance with section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
+It is the purpose of this chapter to authorize the Secretary of Energy, acting in accordancewith section 13541 of this title, to pursue an aggressive national program of research, development, demonstration, and commercial application of renewable energy and energy efficiency technologies in order to ensure a stable and secure future energy supply by—
 
 &emsp;(1) achieving as soon as practicable cost competitive use of those technologies without need of Federal financial incentives;
 

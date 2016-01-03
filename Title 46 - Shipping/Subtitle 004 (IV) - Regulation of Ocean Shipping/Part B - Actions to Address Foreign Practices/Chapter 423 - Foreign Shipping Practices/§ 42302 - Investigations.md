@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Federal Maritime Commission shall investigate whether any laws, rules, regulations, policies, or practices of a foreign government, or any practices of a foreign carrier or other person providing maritime ormaritime-related services in a foreign country, result in the existence of conditions that—
+In General.—The Federal Maritime Commission shall investigate whether any laws, rules, regulations, policies, or practices of a foreign government, or any practices of a foreign carrier or other person providing maritime or maritime-related services in a foreign country, result in the existence of conditions that—
 
 &emsp;(1) adversely affect the operations of United States carriers in United States oceanborne trade; and
 

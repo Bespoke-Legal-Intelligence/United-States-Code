@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the "Secretary") may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+&emsp;Notwithstanding any other provision of law, unless enacted with specific reference to thissection, the Secretary of Education (referred to in this part as the "Secretary") may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
 
 #### (2) Actions authorized
 
@@ -36,7 +36,7 @@
 
 #### (c) Impact report
 
-The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of anywaivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 
 #### (d) No delay in waivers and modifications
 

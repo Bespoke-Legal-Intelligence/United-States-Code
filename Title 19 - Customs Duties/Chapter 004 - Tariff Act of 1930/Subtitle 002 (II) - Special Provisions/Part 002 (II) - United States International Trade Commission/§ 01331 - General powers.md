@@ -42,7 +42,7 @@ The commission is authorized to establish and maintain an office at the port of 
 
 The commission is authorized to adopt an official seal, which shall be judicially noticed.
 
-(June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Pub. L. 95–106, §3(a), (b), Aug. 17, 1977, 91 Stat. 868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–456, §1(b), Jan. 12, 1983, 96 Stat. 2503.)
+(June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Pub. L. 95–106, §3(a), (b), Aug. 17, 1977, 91 Stat.868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–456, §1(b), Jan. 12, 1983, 96 Stat. 2503.)
 
 #### Codification
 

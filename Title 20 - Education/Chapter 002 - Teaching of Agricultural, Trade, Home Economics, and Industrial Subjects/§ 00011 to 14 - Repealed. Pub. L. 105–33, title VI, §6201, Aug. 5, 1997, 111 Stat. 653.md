@@ -1,6 +1,6 @@
 ### §§11 to 14. Repealed. Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653
 
-Section 11, acts Feb. 23, 1917, ch. 114, §1, 39 Stat. 929; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, related to annual appropriations for payments to States for teaching agricultural, trade, home economics, and industrial subjects.
+Section 11, acts Feb. 23, 1917, ch. 114, §1, 39 Stat. 929; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424;1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, related to annual appropriations for payments to States for teaching agricultural, trade, home economics, and industrial subjects.
 
 Section 12, acts Feb. 23, 1917, ch. 114, §2, 39 Stat. 930; July 12, 1960, Pub. L. 86–624, §14(b)(2), 74 Stat. 414, appropriated money for salaries of teachers, supervisors, and directors of agricultural subjects.
 

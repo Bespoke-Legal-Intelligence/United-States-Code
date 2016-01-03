@@ -22,7 +22,7 @@
 
 &emsp;(5)(A) has not been officially found by a qualified medical professional employed by the agency to be unqualified for reasons relating to mental health and as a result of this finding will not be issued the photographic identification as described in subsection (d)(1); or
 
-&emsp;(B) has not entered into an agreement with the agency from which the individual is separating from service in which that individualacknowledges he or she is not qualified under this section for reasons relating to mental health and for those reasons will not receive or accept the photographic identification as described in subsection (d)(1);
+&emsp;(B) has not entered into an agreement with the agency from which the individual is separating from service in which that individual acknowledges he or she is not qualified under this section for reasons relating to mental health and for those reasons will not receive or accept the photographic identification as described in subsection (d)(1);
 
 &emsp;(6) is not under the influence of alcohol or another intoxicating or hallucinatory drug or substance; and
 

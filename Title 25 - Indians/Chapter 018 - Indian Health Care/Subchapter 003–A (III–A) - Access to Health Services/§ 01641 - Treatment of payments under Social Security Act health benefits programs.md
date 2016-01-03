@@ -2,7 +2,7 @@
 
 #### (a) Disregard of Medicare, Medicaid, and CHIP payments in determining appropriations
 
-Any payments received by an Indian health program or by an urban Indian organization under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\] for services provided to Indians eligible for benefits under such respective titles shall not be considered in determining appropriations for the provision of health care and services to Indians.
+Any payments received by an Indian health program or by an urban Indian organization under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.,1397aa et seq.\] for services provided to Indians eligible for benefits under such respective titles shall not be considered in determining appropriations for the provision of health care and services to Indians.
 
 #### (b) Nonpreferential treatment
 
@@ -48,7 +48,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administratorof the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may be necessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
+&emsp;&emsp;The Secretary, acting through the Service and with the assistance of the Administrator of the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this subsection, including any agreements with States that may benecessary to provide for direct billing under a program under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\].
 
 #### (B) Coordination of information
 

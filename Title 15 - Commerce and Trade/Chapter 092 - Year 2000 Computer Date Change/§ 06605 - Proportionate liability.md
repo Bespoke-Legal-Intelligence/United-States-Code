@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
+Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g), a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
 #### (b) Proportionate liability
 
@@ -34,7 +34,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a) of this section, the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
+&emsp;Notwithstanding subsection (a), the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
 
 &emsp;&emsp;(A) acted with specific intent to injure the plaintiff; or
 
@@ -44,21 +44,21 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (A) Knowing commission of fraud described
 
-&emsp;&emsp;For purposes of subsection (b)(1)(B)(ii) of this section and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
+&emsp;&emsp;For purposes of subsection (b)(1)(B)(ii) and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
 
 &emsp;&emsp;&emsp;(i) made an untrue statement of a material fact, with actual knowledge that the statement was false;
 
-&emsp;&emsp;&emsp;(ii) omitted a fact necessary to make the statement not be misleading, with actual knowledge that, as a result of the omission, the statement was false; and
+&emsp;&emsp;&emsp;(ii) omitted a fact necessary to make the statement not be misleading, with actualknowledge that, as a result of the omission, the statement was false; and
 
 &emsp;&emsp;&emsp;(iii) knew that the plaintiff was reasonably likely to rely on the false statement.
 
 #### (B) Recklessness
 
-&emsp;&emsp;For purposes of subsection (b)(1)(B) of this section and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
+&emsp;&emsp;For purposes of subsection (b)(1)(B) and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
 
 #### (3) Right to contribution not affected
 
-&emsp;Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B) of this section, or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
+&emsp;Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B), or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
 
 #### (d) Special rules
 
@@ -66,7 +66,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
+&emsp;&emsp;Notwithstanding subsection (a), if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
 
 #### (i) Percentage of net worth
 
@@ -82,7 +82,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (iii) Additional liability
 
-&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), in addition to the share identified in clause (ii), the defendant is liable for an additional portion of the uncollectible share in an amount equal to 50 percent ofthe amount determined under clause (ii) if the plaintiff demonstrates by a preponderance of the evidence that the defendant acted with reckless disregard for the likelihood that its acts would cause injury of the sort suffered by the plaintiff.
+&emsp;&emsp;&emsp;For a plaintiff not described in clause (i), in addition to the share identified in clause (ii), the defendant is liable for an additional portion of the uncollectible share in an amount equal to 50 percent of the amount determined under clause (ii) if the plaintiff demonstrates by a preponderance of the evidence that the defendant acted with reckless disregard for the likelihood that its acts would cause injury of the sort suffered by the plaintiff.
 
 #### (B) Overall limit
 
@@ -126,7 +126,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (3) Nondisclosure to jury
 
-&emsp;The standard for allocation of damages under subsection (a) of this section and subsection (b)(1) of this section, and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
+&emsp;The standard for allocation of damages under subsection (a) and subsection (b)(1), and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
 
 #### (e) Settlement discharge
 
@@ -154,7 +154,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (2) Statute of limitations for contribution
 
-&emsp;An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) of this section may be brought not later than 6 months after the date on which such payment was made.
+&emsp;An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) may be brought not later than 6 months after the date on which such payment was made.
 
 #### (g) More protective State law not preempted
 

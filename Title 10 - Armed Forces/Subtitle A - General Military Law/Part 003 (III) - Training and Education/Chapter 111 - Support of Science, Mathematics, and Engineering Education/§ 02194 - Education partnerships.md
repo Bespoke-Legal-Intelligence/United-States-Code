@@ -1,6 +1,6 @@
 ### §2194. Education partnerships
 
-(a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, and engineering education.
+(a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
 (b) Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
 
@@ -16,11 +16,13 @@
 
 &emsp;(3) making laboratory personnel available to teach science courses or to assist in the development of science courses and materials for the institution;
 
-&emsp;(4) involving faculty and students of the institution in defense laboratory research projects;
+&emsp;(4) providing in the defense laboratory sabbatical opportunities for faculty and internship opportunities for students;
 
-&emsp;(5) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory research projects; and
+&emsp;(5) involving faculty and students of the institution in defense laboratory projects, including research and technology transfer or transition projects;
 
-&emsp;(6) providing academic and career advice and assistance to students of the institution.
+&emsp;(6) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory projects, including research and technology transfer or transition projects; and
+
+&emsp;(7) providing academic and career advice and assistance to students of the institution.
 
 (c) The Secretary of Defense shall ensure that the director of each defense laboratory shall give a priority under this section to entering into an education partnership agreement with one or more historically Black colleges and universities and other minority institutions referred to in paragraphs (3), (4), and (5) of section 312(b) <sup>1</sup> of the Higher Education Act of 1965 (20 U.S.C. 1058(b)).
 
@@ -32,17 +34,25 @@
 
 &emsp;(1) The term "defense laboratory" means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
 
-&emsp;(2) The term "local educational agency" has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+&emsp;(2) The term "local educational agency" has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;(3) The term "United States" includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, §251, Jan. 2, 2013, 126 Stat. 1688.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, §251, Jan. 2, 2013, 126 Stat. 1688; Pub. L. 114–92, div. A, title II, §213, Nov. 25, 2015, 129 Stat. 767; Pub. L. 114–95, title IX, §9215(uuu)(4), Dec. 10, 2015, 129 Stat. 2190.)
 
 #### References in Text
 
 Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, §302(a)(3), July 23, 1992, 106 Stat. 472.
 
+Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(2), is classified to section 7801 of Title 20, Education.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §213(1), inserted "business, law, technology transfer or transition" after "mathematics,".
+
+Subsec. (b)(4) to (7). Pub. L. 114–92, §213(2), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and, in pars. (5) and (6), substituted "projects, including research and technology transfer or transition projects" for "research projects".
+
+Subsec. (f)(2). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §251(b), inserted "(20 U.S.C. 7801)" before period at end.
 
@@ -71,6 +81,10 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended 
 Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out "(20 U.S.C. 1058(b)" could not be executed because "(20 U.S.C. 1058(b)" does not appear in subsec. (e).
 
 Pub. L. 103–382, §391(b)(4)(B)(i), (ii), substituted "educational agency" for "education agency" and "section 14101" for "section 1471(12)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2003 Amendment
 

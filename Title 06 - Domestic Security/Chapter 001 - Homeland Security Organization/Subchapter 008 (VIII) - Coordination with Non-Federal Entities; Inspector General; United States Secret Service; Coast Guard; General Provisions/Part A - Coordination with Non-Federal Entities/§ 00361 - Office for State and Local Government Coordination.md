@@ -12,7 +12,7 @@ The Office established under subsection (a) shall—
 
 &emsp;(2) assess, and advocate for, the resources needed by State and local government to implement the national strategy for combating terrorism;
 
-&emsp;(3) provide State and local government with regular information, research, and technical support to assist local efforts at securing the homeland; and
+&emsp;(3) provide State and local government with regular information, research, and technicalsupport to assist local efforts at securing the homeland; and
 
 &emsp;(4) develop a process for receiving meaningful input from State and local government to assist the development of the national strategy for combating terrorism and other homeland security activities.
 

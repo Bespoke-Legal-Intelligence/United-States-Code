@@ -10,7 +10,7 @@ The provisions of section 6306 of title 41 shall not apply to any crop insurance
 
 #### Codification
 
-In subsec. (f), "section 6306 of title 41" substituted for "section 3741 of the Revised Statutes, as amended (41 U.S.C., section 22)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f), "section 6306 of title 41" substituted for "section 3741 of the Revised Statutes (U.S.C., title 41, sec. 22)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 

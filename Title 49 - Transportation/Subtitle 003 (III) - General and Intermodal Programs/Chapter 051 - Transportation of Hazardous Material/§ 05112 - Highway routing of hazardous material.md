@@ -16,7 +16,7 @@ Application.—(1) This section applies to a motor vehicle only if the vehicle i
 
 (b)
 
-Standards for States and Indian Tribes.—(1) The Secretary, in consultation withthe States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
+Standards for States and Indian Tribes.—(1) The Secretary, in consultation with the States, shall prescribe by regulation standards for States and Indian tribes to use in carrying out subsection (a) of this section. The standards shall include—
 
 &emsp;(A) a requirement that a highway routing designation, limitation, or requirement of a State or Indian tribe shall enhance public safety in the area subject to the jurisdiction of the State or tribe and in areas of the United States not subject to the jurisdiction of the State or tribe and directly affected by the designation, limitation, or requirement;
 
@@ -102,7 +102,7 @@ Frequency.—Each State shall submit the information described in subparagraph (
 
 Dispute Resolution.—(1) The Secretary shall prescribe regulations for resolving a dispute related to through highway routing or to an agreement with a proposed highway route designation, limitation, or requirement between or among States, political subdivisions of different States, or Indian tribes.
 
-(2) A State or Indian tribe involved in a dispute under this subsection may petition the Secretary to resolve the dispute. The Secretary shall resolve the dispute not later than one year after receiving the petition. The resolution shall provide the greatest level of highway safety without being an unreasonable burden on commerce and shall ensure compliance with standards prescribed under subsection (b) of this section.
+(2) A State or Indian tribe involved in a dispute under this subsection may petition the Secretary to resolve the dispute. The Secretary shall resolve the dispute not later than one yearafter receiving the petition. The resolution shall provide the greatest level of highway safety without being an unreasonable burden on commerce and shall ensure compliance with standards prescribed under subsection (b) of this section.
 
 (3)(A) After a petition is filed under this subsection, a civil action about the subject matter of the dispute may be brought in a court only after the earlier of—
 

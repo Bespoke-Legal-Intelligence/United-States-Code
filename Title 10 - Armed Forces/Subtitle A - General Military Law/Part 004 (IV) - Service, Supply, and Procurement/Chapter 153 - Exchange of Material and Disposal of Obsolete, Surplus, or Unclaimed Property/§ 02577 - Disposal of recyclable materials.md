@@ -10,7 +10,7 @@
 
 (3) The remaining balance available to a military installation may be transferred to the nonappropriated morale and welfare account of the installation to be used for any morale or welfare activity.
 
-(c) If the balance available to a military installation under this section at the end of anyfiscal year is in excess of $2,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
+(c) If the balance available to a military installation under this section at the end of any fiscal year is in excess of $2,000,000, the amount of that excess shall be covered into the Treasury as miscellaneous receipts.
 
 (Added Pub. L. 97–214, §6(b)(1), July 12, 1982, 96 Stat. 172; amended Pub. L. 98–525, title XIV, §1405(37), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 107–217, §3(b)(11), Aug. 21, 2002, 116 Stat. 1296.)
 

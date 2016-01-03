@@ -44,7 +44,7 @@ The minimum standards for license renewal for State-licensed loan originators sh
 
 #### (B) Standards
 
-&emsp;&emsp;In approving courses under this section, the Nationwide Mortgage Licensing Systemand Registry shall apply reasonable standards in the review and approval of courses.
+&emsp;&emsp;In approving courses under this section, the Nationwide Mortgage Licensing System and Registry shall apply reasonable standards in the review and approval of courses.
 
 (Pub. L. 110–289, div. A, title V, §1506, July 30, 2008, 122 Stat. 2816.)
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iv) the primary risk parameters associated with the current procurement cost for the program (as that term is used in section 2432(e)(4) of this title);
 
-&emsp;(C) a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report and program highlights since the last Selected Acquisition Report;
+&emsp;(C) a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report andprogram highlights since the last Selected Acquisition Report;
 
 &emsp;(D) the significant schedule and technical risks for each such program or subprogram, identified at each major milestone and as of the quarter for which the current report is submitted;
 
@@ -94,7 +94,7 @@
 
 (g) The requirements of this section with respect to a major defense acquisition program or designated major subprogram shall cease to apply after 90 percent of the items to be delivered to the United States under the program or subprogram (shown as the total quantity of items to be purchased under the program or subprogram in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program or subprogram have been made.
 
-(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense has decided to proceed to system development and demonstration of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense has decided to proceed to system development and demonstration of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on ArmedServices of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
 
 (2) A limited report under this subsection shall include the following:
 
@@ -224,7 +224,7 @@ Subsec. (c)(3)(A). Pub. L. 101–510, §1407(a), amended subpar. (A) generally. 
 
 Subsec. (c)(3)(B). Pub. L. 101–510, §1484(f)(4)(B), (C), substituted "If" for "if" and a period for "; and".
 
-Subsec. (c)(3)(C). Pub. L. 101–510, §1484(f)(4)(B), (D), substituted "Production" for "production" and "program) the following:" for "program)—" in introductory provisions, "Specification" for "specification" in cls. (i) to (iv), "Estimation" for "estimation" in cls. (v) to (vii), a period for a semicolon in cls. (i) to (v), and a period for "; and" in cl. (vi).
+Subsec. (c)(3)(C). Pub. L. 101–510, §1484(f)(4)(B), (D), substituted "Production" for "production" and "program) the following:" for "program)—" in introductoryprovisions, "Specification" for "specification" in cls. (i) to (iv), "Estimation" for "estimation" in cls. (v) to (vii), a period for a semicolon in cls. (i) to (v), and a period for "; and" in cl. (vi).
 
 Subsec. (c)(5). Pub. L. 101–510, §1407(c), added par. (5).
 

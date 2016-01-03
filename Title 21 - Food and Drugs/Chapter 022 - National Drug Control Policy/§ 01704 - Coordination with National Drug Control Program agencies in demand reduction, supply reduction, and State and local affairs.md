@@ -36,7 +36,7 @@
 
 #### (C) Secretary of Defense
 
-&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and theappropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
+&emsp;&emsp;The Secretary of Defense shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number of air and maritime patrol hours primarily dedicated to drug supply reduction missions undertaken by each component of the Department of Defense.
 
 #### (D) Attorney General
 

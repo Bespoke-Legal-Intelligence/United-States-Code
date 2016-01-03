@@ -6,7 +6,7 @@ Notice Required.—The Commander of the United States Strategic Command shall, w
 
 &emsp;(1) not later than 48 hours after the Commander determines that there is reason to believe such attempt occurred, notice of such attempt; and
 
-&emsp;(2) not later than 10 days after the date on which the Commander determines that there is reason to believe such attempt occurred, anotification described in subsection (b) with respect to such attempt.
+&emsp;(2) not later than 10 days after the date on which the Commander determines that there is reason to believe such attempt occurred, a notification described in subsection (b) with respect to such attempt.
 
 (b)
 

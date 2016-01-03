@@ -50,7 +50,7 @@
 
 &emsp;(C) the Patent and Trademark Office approves the requested arrangement for reasons of employee convenience instead of an agency need for the employee to relocate in order to perform duties specific to the new location.
 
-(4)(A) The Patent and Trademark Office shall establish an oversight committee comprising an equal number of members representing management and labor, including representatives from each collective bargaining unit.
+(4)(A) The Patent and Trademark Office shall establish an oversight committee comprising anequal number of members representing management and labor, including representatives from each collective bargaining unit.
 
 (B) The oversight committee shall develop the operating procedures for the program under this subsection to—
 

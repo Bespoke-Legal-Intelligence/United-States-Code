@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Preference sensitive care
 
-&emsp;The term "preference sensitive care" means medical care for which the clinical evidence does not clearly support one treatment option such that the appropriate course of treatment depends on the values of the patient or the preferences of the patient, caregivers or authorized representatives regarding the benefits, harms and scientific evidence for each treatment option, the <sup>4</sup> use of such care should depend on the informed patient choice among clinically appropriate treatment options.
+&emsp;The term "preference sensitive care" means medical care for which the clinical evidence does not clearly support one treatment option such that the appropriate course of treatment depends on the values of the patient or the preferences of the patient, caregivers or authorized representatives regarding the benefits, harms and scientific evidence for each treatment option, the <sup>4</sup> use of such care shoulddepend on the informed patient choice among clinically appropriate treatment options.
 
 #### (c) Establishment of independent standards for patient decision aids for preference sensitive care
 
@@ -86,7 +86,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide grants for the establishment and support of Shared Decisionmaking Resource Centers (referred to in this subsection as "Centers") to provide technical assistance to providers and to develop and disseminate best practices and other information to support and accelerate adoption, implementation, and effective use of patient decision aids and shared decisionmaking by providers.
+&emsp;&emsp;The Secretary shall provide grants for the establishment and support of Shared Decisionmaking Resource Centers (referred to in this subsection as "Centers") to provide technical assistance to providers and to develop and disseminate best practices and other information to support and accelerateadoption, implementation, and effective use of patient decision aids and shared decisionmaking by providers.
 
 #### (B) Objectives
 

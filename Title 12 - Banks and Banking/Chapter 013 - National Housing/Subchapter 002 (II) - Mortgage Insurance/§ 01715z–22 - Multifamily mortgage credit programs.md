@@ -18,7 +18,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance throughthe Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 
@@ -46,7 +46,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (G) Disclosure of records
 
-&emsp;&emsp;Qualified participating entities shall make available to the Secretary or the Secretary's designee, at the Secretary's request, such financial and other records as the Secretary deems necessary for purposes of review and monitoring for the program under this section.
+&emsp;&emsp;Qualified participating entities shall make available to the Secretary or the Secretary'sdesignee, at the Secretary's request, such financial and other records as the Secretary deems necessary for purposes of review and monitoring for the program under this section.
 
 #### (3) Development of alternatives
 
@@ -110,7 +110,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (B) Mortgage insurance
 
-&emsp;&emsp;Agreements under subparagraph (A) shall provide for full mortgage insurance through the Federal Housing Administration of the loans for affordable multifamily housing originated by or through qualified housing finance agencies and for reimbursement to the Secretary by such agencies for either all or a portion of the losses incurred on the loans insured.
+&emsp;&emsp;Agreements under subparagraph (A) shall provide for full mortgage insurance throughthe Federal Housing Administration of the loans for affordable multifamily housing originated by or through qualified housing finance agencies and for reimbursement to the Secretary by such agencies for either all or a portion of the losses incurred on the loans insured.
 
 #### (C) Risk apportionment
 
@@ -130,7 +130,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 #### (E) Underwriting standards
 
-&emsp;&emsp;The Secretary shall allow any qualified housing finance agency to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection without further review by the Secretary, except thatthe Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss.
+&emsp;&emsp;The Secretary shall allow any qualified housing finance agency to use its own underwriting standards and loan terms and conditions for purposes of underwriting loans to be insured under this subsection without further review by the Secretary, except that the Secretary may impose additional underwriting criteria and loan terms and conditions for contractual agreements where the Secretary retains more than 50 percent of the risk of loss.
 
 #### (F) Disclosure of records
 
@@ -188,7 +188,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 &emsp;&emsp;&emsp;&emsp;(I) be in a form acceptable to the Secretary;
 
-&emsp;&emsp;&emsp;&emsp;(II) be executed by the chief executive officer or other officer of the State orunit of general local government who qualifies under regulations of the Secretary;
+&emsp;&emsp;&emsp;&emsp;(II) be executed by the chief executive officer or other officer of the State or unit of general local government who qualifies under regulations of the Secretary;
 
 &emsp;&emsp;&emsp;&emsp;(III) specify that the State or unit of general local government under this section has fully carried out its responsibilities as described under clause (i); and
 
@@ -230,7 +230,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the "
 
 &emsp;&emsp;The terms "unit of general local government" and "State" have the same meanings as in section 5302(a) of title 42.
 
-(Pub. L. 102–550, title V, §542, Oct. 28, 1992, 106 Stat. 3794; Pub. L. 103–233, title III, §307(a), (b), Apr. 11, 1994, 108 Stat. 373, 376; Pub. L. 104–120, §8, Mar. 28, 1996, 110 Stat. 836; Pub. L. 104–134, title I, §101(e) \[title II, §205\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–18, title II, §10003, June 12, 1997, 111 Stat. 201; Pub. L. 105–276, title II, §211, Oct. 21, 1998, 112 Stat. 2486; Pub. L. 106–74, title II, §226, as added Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534; Pub. L. 106–377, §1(a)(1) \[title II, §235\], Oct. 27, 2000, 114 Stat. 1441, 1441A–35.)
+(Pub. L. 102–550, title V, §542, Oct. 28, 1992, 106 Stat. 3794; Pub. L. 103–233, title III, §307(a), (b), Apr. 11, 1994, 108 Stat. 373, 376; Pub. L. 104–120, §8, Mar. 28, 1996, 110 Stat. 836; Pub. L. 104–134, titleI, §101(e) \[title II, §205\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–284; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–18, title II, §10003, June 12, 1997, 111 Stat. 201; Pub. L. 105–276, title II, §211, Oct. 21, 1998, 112 Stat. 2486; Pub. L. 106–74, title II, §226, as added Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534; Pub. L. 106–377, §1(a)(1) \[title II, §235\], Oct. 27, 2000, 114 Stat. 1441, 1441A–35.)
 
 #### References in Text
 

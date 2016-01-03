@@ -40,7 +40,7 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 #### (c) Reporting system for cases of HIV/AIDS; preference in making grants
 
-In making grants under subsection (a) of this section, the Secretary shall give preference to States whose reporting systems for cases of HIV/AIDS produce data on such cases that is sufficiently accurate and reliable for use for purposes of section 300ff–28(a)(2)(D)(i) of this title.
+In making grants under subsection (a) of this section, the Secretary shall give preference toStates whose reporting systems for cases of HIV/AIDS produce data on such cases that is sufficiently accurate and reliable for use for purposes of section 300ff–28(a)(2)(D)(i) of this title.
 
 #### (d) Authorization of appropriations
 

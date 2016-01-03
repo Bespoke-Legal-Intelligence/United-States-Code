@@ -14,5 +14,5 @@ Funds collected under the authority of subsection (a) shall be deposited as an o
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277 inserted at end "Funds deposited under this subsection shall remainavailable for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited."
+<b>1998</b>—Subsec. (b). Pub. L. 105–277 inserted at end "Funds deposited under this subsection shall remain available for obligation through September 30 of the fiscal year following the fiscal year in which the funds were deposited."
 

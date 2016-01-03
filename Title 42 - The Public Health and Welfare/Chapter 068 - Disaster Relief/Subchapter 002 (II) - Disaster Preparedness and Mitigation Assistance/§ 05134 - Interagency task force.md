@@ -18,7 +18,7 @@ The membership of the task force shall include representatives of—
 
 &emsp;(3) the American Red Cross.
 
-(Pub. L. 93–288, title II, §204, as added Pub. L. 106–390, title I, §103, Oct. 30, 2000, 114 Stat. 1557; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title II, §204, as added Pub. L. 106–390, title I, §103, Oct. 30, 2000, 114 Stat. 1557;amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### Amendments
 

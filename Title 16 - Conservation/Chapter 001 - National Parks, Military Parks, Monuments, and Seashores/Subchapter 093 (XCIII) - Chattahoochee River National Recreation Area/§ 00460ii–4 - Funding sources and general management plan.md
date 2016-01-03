@@ -72,7 +72,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 > Actions which are part of a project recommended in the study entitled "Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers", dated June 1, 1982, and any Federal action which pertains to the control of air space, which is regulated under the Clean Air Act \[42 U.S.C. 7401 et seq.\], or which is required for maintenance or rehabilitation of existing structures or facilities shall also be exempt from the provisions of this subsection.
 
-(Pub. L. 95–344, title I, §105, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(e), Oct. 30, 1984, 98 Stat. 2929; Pub. L. 106–154, §2(d), (e)(4), Dec. 9, 1999, 113 Stat. 1738, 1739.)
+(Pub. L. 95–344, title I, §105, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(e), Oct. 30, 1984, 98Stat. 2929; Pub. L. 106–154, §2(d), (e)(4), Dec. 9, 1999, 113 Stat. 1738, 1739.)
 
 #### References in Text
 

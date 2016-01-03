@@ -10,11 +10,11 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, and $93,000,000 for fiscal year 2015 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016, to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 &emsp;(3)
 
-Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for theoffice responsible for carrying out the essential air service program.
+Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
 
 (b)
 
@@ -24,7 +24,7 @@ Distribution of Additional Funds.—Notwithstanding any other provision of law, 
 
 Availability of Funds.—The funds made available under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(m); added Oct. 24, 1978, Pu
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 9502 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–55 substituted "$93,000,000 for fiscal year 2015, and $77,500,000 for the period beginning on October 1, 2015, and ending on March 31, 2016," for "and $93,000,000 for fiscal year 2015".
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–95, §428(a)(1), inserted "for each fiscal year" before "is authorized" and substituted "under this subchapter" for "under this subchapter for each fiscal year".
 

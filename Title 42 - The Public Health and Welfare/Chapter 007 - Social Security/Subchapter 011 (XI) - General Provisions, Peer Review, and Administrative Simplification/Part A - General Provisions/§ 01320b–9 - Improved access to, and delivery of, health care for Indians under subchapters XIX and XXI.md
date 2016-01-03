@@ -8,7 +8,7 @@
 
 #### (2) Construction
 
-&emsp;Nothing in paragraph (1) shall be construed as affecting arrangements entered into between States and the Indian Health Service, Indian Tribes, Tribal Organizations, or Urban Indian Organizations for such Service, Tribes, or Organizations to conduct administrative activities under such subchapters.
+&emsp;Nothing in paragraph (1) shall be construed as affecting arrangements entered into between States and the Indian Health Service, Indian Tribes, Tribal Organizations, or Urban Indian Organizations for such Service, Tribes,or Organizations to conduct administrative activities under such subchapters.
 
 #### (b) Requirement to facilitate cooperation
 

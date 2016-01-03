@@ -52,7 +52,7 @@ As used in this chapter—
 
 &emsp;(t)
 
-Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
+Indian Tribe <sup>1</sup>.—The term "Indian tribe" has the meaning given the term in section 102of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a)).<sup>2</sup>
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280; Pub. L. 111–211, title II, §236(b), July 29, 2010, 124 Stat. 2286.)
 
@@ -98,7 +98,7 @@ Pub. L. 91–452, title XI, §1105(a), (b), Oct. 15, 1970, 84 Stat. 959, provide
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C\(§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
+Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: "This subtitle \[subtitle C (§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the 'Safe Explosives Act'."
 
 #### Short Title of 1982 Amendment
 
@@ -136,7 +136,7 @@ Pub. L. 104–132, title VII, §732, Apr. 24, 1996, 110 Stat. 1303, as amended b
 
 #### Congressional Declaration of Purpose
 
-Pub. L. 91–452, title XI, §1101, Oct. 15, 1970, 84 Stat. 952, provided that: "The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title."
+Pub. L. 91–452, title XI, §1101, Oct. 15, 1970, 84 Stat. 952, provided that: "The Congress hereby declares that the purpose of this title \[enacting this chapter amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set out as notes under this section\] is to protect interstate and foreign commerce against interference and interruption by reducing the hazard to persons and property arising from misuse and unsafe or insecure storage of explosive materials. It is not the purpose of this title to place anyundue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, storage, or use of explosive materials for industrial, mining, agricultural, or other lawful purposes, or to provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title."
 
 #### Modification of Other Provisions
 

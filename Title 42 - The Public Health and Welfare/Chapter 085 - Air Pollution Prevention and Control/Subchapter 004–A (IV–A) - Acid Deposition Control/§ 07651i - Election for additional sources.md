@@ -18,7 +18,7 @@ Not later than 18 months after November 15, 1990, the Administrator shall establ
 
 #### (e) Allowances and permits
 
-The Administrator shall issue allowances to an affected unit under this section in an amountequal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
+The Administrator shall issue allowances to an affected unit under this section in an amount equal to the emissions limitation calculated under subsection (c) or (d) of this section, in accordance with section 7651b of this title. Such allowance may be used in accordance with, and shall be subject to, the provisions of section 7651b of this title. Affected sources under this section shall be subject to the requirements of sections 7651b, 7651g, 7651j, 7651k, 7651l, and 7651m of this title.
 
 #### (f) Limitation
 
@@ -46,7 +46,7 @@ The Administrator shall issue allowances to owners or operators of small diesel 
 
 &emsp;&emsp;(A) which, as of November 15, 1990, has bona fide crude oil throughput of less than 18,250,000 barrels per year, as reported to the Department of Energy, and
 
-&emsp;&emsp;(B) which, as of November 15, 1990, is owned or controlled by a refiner with a total combined bona fide crude oil throughput of less than 50,187,500 barrels per year, as reported to the Department of Energy.
+&emsp;&emsp;(B) which, as of November 15, 1990, is owned or controlled by a refiner with a totalcombined bona fide crude oil throughput of less than 50,187,500 barrels per year, as reported to the Department of Energy.
 
 #### (4) Limitation per refinery
 

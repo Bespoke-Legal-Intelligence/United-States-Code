@@ -64,7 +64,7 @@ For purposes of this section, the term "standard maximum cash advance amount" me
 
 #### (4) Implementation period
 
-&emsp;Any adjustment to the standard maximum cash advance amount shall take effect on January 1 of the year immediately succeeding thecalendar year in which such adjustment is made.
+&emsp;Any adjustment to the standard maximum cash advance amount shall take effect on January 1 of the year immediately succeeding the calendar year in which such adjustment is made.
 
 #### (5) Inflation adjustment considerations
 

@@ -12,7 +12,7 @@
 
 #### (b) Agency and public assistance
 
-The Attorney General may obtain the assistance of other Federal agencies in carrying outsubsection (a) of this section, including the National Council on Disability, the President's Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
+The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a) of this section, including the National Council on Disability, the President's Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
 
 #### (c) Implementation
 

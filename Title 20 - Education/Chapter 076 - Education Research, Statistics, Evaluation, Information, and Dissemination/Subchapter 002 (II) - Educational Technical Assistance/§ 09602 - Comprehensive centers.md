@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002); and
 
-&emsp;&emsp;(B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)) <sup>1</sup> in the population served by the local entity or consortium of such entities.
+&emsp;&emsp;(B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\] in the population served by the local entity or consortium of such entities.
 
 #### (b) Eligible applicants
 
@@ -26,13 +26,13 @@
 
 #### (3) Objectives and indicators
 
-&emsp;Before awarding a grant under this section, the Secretary shall design specific objectives and measurable indicators, using the results of the assessment conducted under section 9605 of this title, to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional entities, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices are being carried out as part of school improvement efforts.
+&emsp;Before awarding a grant under this section, the Secretary shall design specific objectivesand measurable indicators, using the results of the assessment conducted under section 9605 of this title, to be used to assess the particular programs or initiatives, and ongoing progress and performance, of the regional entities, in order to ensure that the educational needs of the region are being met and that the latest and best research and proven practices are being carried out as part of school improvement efforts.
 
 #### (c) Application
 
 #### (1) Submission
 
-&emsp;Each local entity, or consortium of such entities, seeking a grant under this section shallsubmit an application at such time, in such manner, and containing such additional information as the Secretary may reasonably require.
+&emsp;Each local entity, or consortium of such entities, seeking a grant under this section shall submit an application at such time, in such manner, and containing such additional information as the Secretary may reasonably require.
 
 #### (2) Plan
 
@@ -50,7 +50,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;(2) local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)), including such local educational agencies in rural and urban areas; and
 
-&emsp;(3) schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)).
+&emsp;(3) schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\].
 
 #### (f) Activities
 
@@ -72,7 +72,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;&emsp;&emsp;(iii) the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
 
-&emsp;&emsp;(B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps, and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))), to schools, educators, parents, and policymakers within the region in which the center is located; and
+&emsp;&emsp;(B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, <sup>1</sup> and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\],, <sup>1</sup> to schools, educators, parents, and policymakers within the region in which the center is located; and
 
 &emsp;&emsp;(C) developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
 
@@ -104,7 +104,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;&emsp;Each advisory board shall be composed of—
 
-&emsp;&emsp;&emsp;(i) the chief State school officers, or such officers' designees or other State officials, in each State served by the comprehensive center who have primary responsibilityunder State law for elementary and secondary education in the State; and
+&emsp;&emsp;&emsp;(i) the chief State school officers, or such officers' designees or other State officials, in each State served by the comprehensive center who have primary responsibility under State law for elementary and secondary education in the State; and
 
 &emsp;&emsp;&emsp;(ii) not more than 15 other members who are representative of the educational interests in the region served by the comprehensive center and are selected jointly by the officials specified in clause (i) and the chief executive officer of each State served by the comprehensive center, including the following:
 
@@ -132,7 +132,7 @@ Each comprehensive center established under this section shall submit to the Sec
 
 &emsp;(2) A listing of the States, local educational agencies, and schools the comprehensive center assisted during the preceding year.
 
-(Pub. L. 107–279, title II, §203, Nov. 5, 2002, 116 Stat. 1975.)
+(Pub. L. 107–279, title II, §203, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, §9215(gg)(2), Dec. 10, 2015, 129 Stat. 2174.)
 
 #### References in Text
 
@@ -140,11 +140,23 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(2)(B). Pub. L. 114–95, §9215(gg)(2)(A), substituted "the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965" for "the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))".
+
+Subsec. (e)(3). Pub. L. 114–95, §9215(gg)(2)(B), substituted "schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965" for "schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))".
+
+Subsec. (f)(1)(B). Pub. L. 114–95, §9215(gg)(2)(C), substituted ", and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965," for "and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)))".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

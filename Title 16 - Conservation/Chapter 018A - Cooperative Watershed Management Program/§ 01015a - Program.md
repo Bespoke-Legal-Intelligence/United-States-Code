@@ -118,7 +118,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the Secretary may provide to a grant recipient a third-phase grant in an amount not greater than $5,000,000 for a period of not more than 5 years.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the Secretary may provide to a grant recipient a third-phase grant in an amountnot greater than $5,000,000 for a period of not more than 5 years.
 
 #### (II) Exception
 
@@ -170,7 +170,7 @@ Not later than 180 days after March 30, 2009, the Secretary shall establish a pr
 
 #### (A) In general
 
-&emsp;&emsp;The Federal share of the costs of any activity of a watershed group of a grant recipient relating to a watershed management project provided assistance through a third-phase grant shall not exceed 50 percent ofthe total costs of the watershed management project.
+&emsp;&emsp;The Federal share of the costs of any activity of a watershed group of a grant recipient relating to a watershed management project provided assistance through a third-phase grant shall not exceed 50 percent of the total costs of the watershed management project.
 
 #### (B) Form of non-Federal share
 

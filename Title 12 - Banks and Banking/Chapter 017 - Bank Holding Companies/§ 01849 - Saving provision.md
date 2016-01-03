@@ -22,7 +22,7 @@ Nothing herein contained shall be interpreted or construed as approving any act,
 
 &emsp;(B) Upon receipt of notice from the Federal Deposit Insurance Corporation under subparagraph (A) or at such earlier time as deemed appropriate by the Board, the Board shall immediately notify the Attorney General of the United States of the facts concerning the possible acquisition.
 
-&emsp;(C) Within 5 days of receiving notice under subparagraph (B), the Attorney General shall notify the Board in writing of the AttorneyGeneral's preliminary finding as to the consistency of the possible acquisition with the antitrust laws.
+&emsp;(C) Within 5 days of receiving notice under subparagraph (B), the Attorney General shall notify the Board in writing of the Attorney General's preliminary finding as to the consistency of the possible acquisition with the antitrust laws.
 
 &emsp;(D) The Board may reduce or eliminate the post-approval waiting period established under paragraph (1) for an acquisition to which this paragraph applies, except that such period may not be eliminated or reduced to less than 5 days without the concurrence of the Attorney General.
 

@@ -12,7 +12,7 @@
 
 #### (3) Limitation
 
-&emsp;The Secretary may not enter into any agreement by which the Secretary sells such heliumother than to a private party with whom the Secretary has an agreement for recovery and disposal of helium.
+&emsp;The Secretary may not enter into any agreement by which the Secretary sells such helium other than to a private party with whom the Secretary has an agreement for recovery and disposal of helium.
 
 #### (4) Regulations
 

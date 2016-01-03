@@ -2,7 +2,7 @@
 
 #### (a) Authority to commence suits
 
-Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
+Except as provided in subsection (b) of this section, any person (other than the UnitedStates) may commence a civil action on his own behalf—
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup> of this section), or
 
@@ -34,7 +34,7 @@ In an action under this section, the Administrator of the Environmental Protecti
 
 #### (d) Litigation costs
 
-The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (includingreasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.
+The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.
 
 #### (e) Other common law or statutory rights of action
 

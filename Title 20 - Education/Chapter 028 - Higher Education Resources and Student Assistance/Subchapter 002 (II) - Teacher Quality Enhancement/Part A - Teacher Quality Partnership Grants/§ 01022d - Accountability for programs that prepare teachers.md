@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) the percentage of all students who passed such assessment;
 
-&emsp;&emsp;&emsp;(iii) the percentage of students who have taken such assessment who enrolled in and completed the traditional teacher preparation program or alternative routes to State certification or licensure program, as applicable;
+&emsp;&emsp;&emsp;(iii) the percentage of students who have taken such assessment who enrolled in andcompleted the traditional teacher preparation program or alternative routes to State certification or licensure program, as applicable;
 
 &emsp;&emsp;&emsp;(iv) the average scaled score for all students who took such assessment;
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(B) The standards and criteria that prospective teachers must meet to attain initial teacher certification or licensure and to be certified or licensed to teach particular academic subjects, areas, or grades within the State.
 
-&emsp;&emsp;(C) A description of how the assessments and requirements described in subparagraph (A) are aligned with the State's challenging academic content standards required under section 6311(b)(1) of this title and, as applicable, State early learning standards for early childhood education programs.
+&emsp;&emsp;(C) A description of how the assessments and requirements described in subparagraph (A) are aligned with the challenging State academic standards required under section 6311(b)(1) of this title and, as applicable, State early learning standards for early childhood education programs.
 
 &emsp;&emsp;(D) For each of the assessments used by the State for teacher certification or licensure—
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;(ii) the average scaled score of individuals participating in such routes, or who have completed such routes during the two-year period preceding the first year for which the annual State report card is provided, who took each such assessment.
 
-&emsp;&emsp;(F) A description of the State's criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State. Such criteria shallinclude indicators of the academic content knowledge and teaching skills of students enrolled in such programs.
+&emsp;&emsp;(F) A description of the State's criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State. Such criteria shall include indicators of the academic content knowledge and teaching skills of students enrolled in such programs.
 
 &emsp;&emsp;(G) For each teacher preparation program in the State—
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iii) subject area for which the teacher has been prepared to teach.
 
-&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, by area of certification or licensure, subject, and specialty, in the State's public schools.
+&emsp;&emsp;(I) A description of the extent to which teacher preparation programs are addressing shortages of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title, by area of certification or licensure, subject, and specialty, in the State's public schools.
 
 &emsp;&emsp;(J) The extent to which teacher preparation programs prepare teachers, including general education and special education teachers, to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in section 1414(d)(1)(B) of this title.
 
@@ -168,11 +168,21 @@ The Secretary shall prescribe regulations to ensure the reliability, validity, i
 
 The Secretary, to the extent practicable, shall coordinate the information collected and published under this part among States for individuals who took State teacher certification or licensure assessments in a State other than the State in which the individual received the individual's most recent degree.
 
-(Pub. L. 89–329, title II, §205, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3147.)
+(Pub. L. 89–329, title II, §205, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3147; amended Pub. L. 114–95, title IX, §§9214(c)(5), 9215(oo)(4), Dec. 10, 2015, 129 Stat. 2163, 2179.)
 
 #### Prior Provisions
 
 A prior section 205 of Pub. L. 89–329 was classified to section 1025 of this title, prior to repeal by Pub. L. 110–315.
 
 Another prior section 205 of Pub. L. 89–329 was classified to section 1025 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–95, §9215(oo)(4), substituted "are aligned with the challenging State academic standards required under section 6311(b)(1) of this title" for "are aligned with the State's challenging academic content standards required under section 6311(b)(1) of this title".
+
+Subsec. (b)(1)(I). Pub. L. 114–95, §9214(c)(5), substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified teachers".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

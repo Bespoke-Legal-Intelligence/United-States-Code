@@ -8,7 +8,7 @@ Appropriations herein and on and after December 22, 1987, made shall be availabl
 
 Appropriations herein, referred to in text, probably means appropriations under the headings "
 
-Geological Survey", "surveys, investigations, and research"and "
+GeologicalSurvey", "surveys, investigations, and research" and "
 
 administrative provisions", of the annual Department of the Interior and Related Agencies Appropriations Act.
 

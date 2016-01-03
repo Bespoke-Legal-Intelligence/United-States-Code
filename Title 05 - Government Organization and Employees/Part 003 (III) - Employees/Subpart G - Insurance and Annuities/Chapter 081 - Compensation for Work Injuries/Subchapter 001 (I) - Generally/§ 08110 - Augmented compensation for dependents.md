@@ -32,7 +32,7 @@
 
 &emsp;(1) at the rate of 81/3 percent of his monthly pay if that compensation is payable under section 8105 or 8107(a) of this title; and
 
-&emsp;(2) at the rate of 81/3 percent of the difference between his monthly pay and his monthlywage-earning capacity if that compensation is payable under section 8106(a) of this title.
+&emsp;(2) at the rate of 81/3 percent of the difference between his monthly pay and his monthly wage-earning capacity if that compensation is payable under section 8106(a) of this title.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 539; Pub. L. 90–83, §1(53), Sept. 11, 1967, 81 Stat. 210; Pub. L. 93–416, §6, Sept. 7, 1974, 88 Stat. 1145.)
 

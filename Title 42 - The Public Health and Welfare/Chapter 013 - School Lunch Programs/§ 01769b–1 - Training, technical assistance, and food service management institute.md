@@ -134,7 +134,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### (A) In general
 
-&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection—
+&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of theTreasury shall transfer to the Secretary of Agriculture to carry out this subsection—
 
 &emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000;
 
@@ -154,7 +154,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;The Secretary may use funds provided under this subsection—
 
-&emsp;&emsp;(A) to provide training and technical assistance and material related to improvingprogram integrity and administrative accuracy in school meals programs; and
+&emsp;&emsp;(A) to provide training and technical assistance and material related to improving program integrity and administrative accuracy in school meals programs; and
 
 &emsp;&emsp;(B) to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
 

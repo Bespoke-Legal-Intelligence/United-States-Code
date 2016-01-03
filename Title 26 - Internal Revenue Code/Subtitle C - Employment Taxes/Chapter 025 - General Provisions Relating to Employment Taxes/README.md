@@ -13,10 +13,13 @@
 | [3509\.](%C2%A7%2003509%20-%20Determination%20of%20employer%27s%20liability%20for%20certain%20employment%20taxes.md) | Determination of employer's liability for certain employment taxes. |
 | [3510\.](%C2%A7%2003510%20-%20Coordination%20of%20collection%20of%20domestic%20service%20employment%20taxes%20with%20collection%20of%20income%20taxes.md) | Coordination of collection of domestic service employment taxes with collection of income taxes. |
 | [3511\.](%C2%A7%2003511%20-%20Certified%20professional%20employer%20organizations.md) | Certified professional employer organizations. |
+| [3512\.](%C2%A7%2003512%20-%20Treatment%20of%20certain%20persons%20as%20employers%20with%20respect%20to%20motion%20picture%20projects.md) | Treatment of certain persons as employers with respect to motion picture projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–113, div. Q, title III, §346(b), Dec. 18, 2015, 129 Stat. 3116, added item 3512.
 
 <b>2014</b>—Pub. L. 113–295, div. B, title II, §206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
 
@@ -56,3 +59,4 @@ Pub. L. 97–248, title III, §§307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591,
 - [&sect; 03509 - Determination of employer's liability for certain employment taxes](%C2%A7%2003509%20-%20Determination%20of%20employer%27s%20liability%20for%20certain%20employment%20taxes.md)
 - [&sect; 03510 - Coordination of collection of domestic service employment taxes with collection of income taxes](%C2%A7%2003510%20-%20Coordination%20of%20collection%20of%20domestic%20service%20employment%20taxes%20with%20collection%20of%20income%20taxes.md)
 - [&sect; 03511 - Certified professional employer organizations](%C2%A7%2003511%20-%20Certified%20professional%20employer%20organizations.md)
+- [&sect; 03512 - Treatment of certain persons as employers with respect to motion picture projects](%C2%A7%2003512%20-%20Treatment%20of%20certain%20persons%20as%20employers%20with%20respect%20to%20motion%20picture%20projects.md)

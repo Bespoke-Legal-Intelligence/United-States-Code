@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State that receives an allotment under section 9859c of this title shall use the funds madeavailable through the allotment to carry out two or more activities consisting of—
+A State that receives an allotment under section 9859c of this title shall use the funds made available through the allotment to carry out two or more activities consisting of—
 
 &emsp;(1) providing training and education to eligible child care providers on preventing injuries and illnesses in children, and promoting health-related practices;
 

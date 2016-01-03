@@ -16,7 +16,7 @@ Stones River National Military Park redesignated Stones River National Battlefie
 
 #### Transfer of Functions
 
-Administrative functions of Stones River National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. Administrative functions of StonesRiver National Battlefield assigned to Department of the Interior by section 3 of Pub. L. 86–443, set out as section 426m of this title.
+Administrative functions of Stones River National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees. Administrative functions of Stones River National Battlefield assigned to Department of the Interior by section 3 of Pub. L. 86–443, set out as section 426m of this title.
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 

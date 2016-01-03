@@ -6,11 +6,11 @@ The Secretary, through the Service, shall provide for screening mammography (as 
 
 #### References in Text
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 ofTitle 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of theSenate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 

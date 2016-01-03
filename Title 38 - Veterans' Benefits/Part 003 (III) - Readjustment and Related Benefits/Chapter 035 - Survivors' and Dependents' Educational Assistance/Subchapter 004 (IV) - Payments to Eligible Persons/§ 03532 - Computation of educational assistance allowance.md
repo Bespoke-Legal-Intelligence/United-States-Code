@@ -168,7 +168,7 @@ Amendment by section 122(b)(4) of Pub. L. 106–419 effective Mar. 1, 2001, and 
 
 #### Effective Date of 1998 Amendments
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 Pub. L. 105–178, title VIII, §8210(e), as added by Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866, provided that: "The amendments made by this section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998."
 
@@ -182,7 +182,7 @@ Pub. L. 102–568, title III, §316(c), Oct. 29, 1992, 106 Stat. 4334, provided 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–237, title IV, §403(c), Dec. 18, 1989, 103 Stat. 2080, provided that: "The amendments made by thissection \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990."
+Pub. L. 101–237, title IV, §403(c), Dec. 18, 1989, 103 Stat. 2080, provided that: "The amendments made by this section \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990."
 
 #### Effective Date of 1984 Amendment
 

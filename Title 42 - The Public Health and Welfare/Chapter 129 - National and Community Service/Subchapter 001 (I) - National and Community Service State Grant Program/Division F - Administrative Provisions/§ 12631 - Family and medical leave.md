@@ -22,7 +22,7 @@ For purposes of subchapter V of chapter 63 of title 5, if—
 
 #### (c) Treatment of absence
 
-The period of any absence of a participant from a service position pursuant to title I of theFamily and Medical Leave Act of 1993 \[29 U.S.C. 2611 et seq.\] or subchapter V of chapter 63 of title 5 shall not be counted toward the completion of the term of service of the participant under section 12593 of this title.
+The period of any absence of a participant from a service position pursuant to title I of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2611 et seq.\] or subchapter V of chapter 63 of title 5 shall not be counted toward the completion of the term of service of the participant under section 12593 of this title.
 
 (Pub. L. 101–610, title I, §171, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §113(a), Sept. 21, 1993, 107 Stat. 861; Pub. L. 111–13, title I, §1601, Apr. 21, 2009, 123 Stat. 1529.)
 

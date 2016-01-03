@@ -116,9 +116,9 @@ Effective on the date of the assessment of annual permit fees in accordance with
 
 #### References in Text
 
-The Cabin User Fee Fairness Act of 2000, referred to in subsecs. (b)(1), (c), (d), and (k), is title VI of Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 1014, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Cabin User Fee Fairness Act of 2000, referred to in subsecs. (b)(1), (c), (d), and (k), is title VI of Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 1014, which was classified generally to this chapter, prior to repeal by subsec. (k) of this section.
 
 #### Codification
 
-Section was enacted as part of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 and also as part of the Military Construction Authorization Act for Fiscal Year 2015 and not as part of the Cabin User Fee Fairness Act of 2000 which comprises this chapter.
+Section was enacted as part of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 and also as part of the Military Construction Authorization Act for Fiscal Year 2015 and not as part of the Cabin User Fee Fairness Act of 2000 which formerly comprised this chapter.
 

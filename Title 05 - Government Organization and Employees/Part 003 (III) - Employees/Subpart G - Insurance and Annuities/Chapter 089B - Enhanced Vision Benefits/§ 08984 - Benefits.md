@@ -14,7 +14,7 @@
 
 (d) A contract approved under this chapter shall require the qualified company to cover the geographic service delivery area specified by the Office. The Office shall require qualified companies to include visually underserved areas in their service delivery areas.
 
-(e) If an individual has vision coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
+(e) If an individual has vision coverage under a health benefits plan under chapter 89 and alsohas coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
 
 (Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4008.)
 

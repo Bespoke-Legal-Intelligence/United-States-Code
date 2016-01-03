@@ -16,7 +16,7 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Prior Provisions
 
-A prior section 2691, Pub. L. 107–314, div. D, title XLV, §4541, formerly Pub. L. 104–106, div. C, title XXXI, §3158, Feb. 10, 1996, 110 Stat. 626; renumbered Pub. L. 107–314, div. D, title XLV, §4541, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(17), Nov. 24, 2003, 117 Stat. 1776, relatedto responsibility for Defense Programs Emergency Response Program, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(f)(5)(A), Dec. 26, 2013, 127 Stat. 1079.
+A prior section 2691, Pub. L. 107–314, div. D, title XLV, §4541, formerly Pub. L. 104–106, div. C, title XXXI, §3158, Feb. 10, 1996, 110 Stat. 626; renumbered Pub. L. 107–314, div. D, title XLV, §4541, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(17), Nov. 24, 2003, 117 Stat. 1776, related to responsibility for Defense Programs Emergency Response Program, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(f)(5)(A), Dec. 26, 2013, 127 Stat. 1079.
 
 #### Amendments
 

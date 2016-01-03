@@ -106,7 +106,7 @@ Term of Office.—Notwithstanding section 581(b) of title 28, United States Code
 
 "(a)
 
-General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 daysafter the date of the enactment of this Act \[Oct. 27, 1986\].
+General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Actand the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
 
 "(b)
 

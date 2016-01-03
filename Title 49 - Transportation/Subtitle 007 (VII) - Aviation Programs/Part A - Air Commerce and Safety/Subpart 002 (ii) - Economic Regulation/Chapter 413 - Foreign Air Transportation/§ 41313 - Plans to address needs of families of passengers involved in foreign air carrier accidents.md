@@ -46,7 +46,7 @@ List of passengers.—An assurance that the foreign air carrier shall provide, i
 
 &emsp;(5)
 
-Consultation regarding disposition of remains and effects.—An assurance that thefamily of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
+Consultation regarding disposition of remains and effects.—An assurance that the family of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
 
 &emsp;(6)
 
@@ -90,7 +90,7 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 &emsp;(16)
 
-Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, theforeign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
 
 &emsp;(17)
 

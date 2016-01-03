@@ -84,7 +84,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part) by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
+&emsp;&emsp;&emsp;Any payments made to a first-tier legal entity that is owned (in whole or in part)by another legal entity (a second-tier legal entity) shall be attributed to the second-tier legal entity in proportion to the ownership of the second-tier legal entity in the first-tier legal entity.
 
 #### (ii) Ownership by a person
 
@@ -106,7 +106,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the ageof 18 shall be attributed to the parents of the child.
+&emsp;&emsp;Except as provided in subparagraph (B), payments received by a child under the age of 18 shall be attributed to the parents of the child.
 
 #### (B) Regulations
 
@@ -230,7 +230,7 @@ Pars. (1) and (2) of section 1308–3a(b) of this title, referred to in subsec. 
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation.
+Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation.
 
 #### Codification
 
@@ -262,7 +262,7 @@ Subsec. (f)(6)(A). Pub. L. 113–79, §1603(b)(2)(B), substituted ", title I of
 
 Subsec. (a)(1). Pub. L. 110–246, §1603(a), substituted "Food, Conservation, and Energy Act of 2008" for "Farm Security and Rural Investment Act of 2002".
 
-Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of2002, except that the term does not include wool, mohair, or honey."
+Subsec. (a)(2). Pub. L. 110–246, §1603(b)(1)(B), (C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'loan commodity' has the meaning given that term in section 1001 of the Farm Security and Rural Investment Act of 2002, except that the term does not include wool, mohair, or honey."
 
 Subsec. (a)(3) to (5). Pub. L. 110–246, §1603(b)(1)(B), (C), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
@@ -306,7 +306,7 @@ Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Pri
 
 "(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
-"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
+"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XIIwith respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
 
 Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
@@ -372,7 +372,7 @@ Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 
 #### Transition Provisions
 
-Pub. L. 110–234, title I, §1603(h), May 22, 2008, 122 Stat. 1012, and Pub. L. 110–246, §4(a), title I, §1603(h), June 18, 2008, 122 Stat. 1664, 1740, provided that: "Section 1001, 1001A, and 1001B of the Food Security Act of 1985 (7 U.S.C. 1308, 1308–1, 1308–2), as in effect on September 30, 2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts."
+Pub. L. 110–234, title I, §1603(h), May 22, 2008, 122 Stat. 1012, and Pub. L. 110–246, §4(a), title I, §1603(h), June 18, 2008, 122 Stat. 1664, 1740, provided that: "Section 1001, 1001A, and 1001B of the Food Security Act of 1985 (7 U.S.C. 1308, 1308–1, 1308–2), as in effect on September 30,2007, shall continue to apply with respect to the 2007 and 2008 crops of any covered commodity or peanuts."
 
 \[For definition of "covered commodity" as used in section 1603(h) of Pub. L. 110–246, set out above, see section 8702 of this title.\]
 
@@ -448,7 +448,7 @@ Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 
 #### Separate Person Status Among Family Members
 
-Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title VI, §636\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §636\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: "Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985."
+Pub. L. 99–198 (last sentence), as added by Pub. L. 99–500, §101(a) \[title VI, §636\], Oct. 18, 1986, 100 Stat.1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §636\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: "Effective for each of the 1987 through 1990 crops, the Secretary may not deny a person status as a separate person solely on the ground that a family member cosigns for, or makes a loan to, such person and leases, loans, or gives such person equipment, land or labor, if such family members were organized as separate units prior to December 31, 1985."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

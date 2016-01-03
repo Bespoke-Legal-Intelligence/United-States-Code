@@ -50,7 +50,7 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 &emsp;&emsp;The Chief Information Officer shall establish and carry out a program to provide for the efficient use of geospatial information, which shall include—
 
-&emsp;&emsp;&emsp;(i) providing such geospatial information as may be necessary to implement thecritical infrastructure protection programs;
+&emsp;&emsp;&emsp;(i) providing such geospatial information as may be necessary to implement the critical infrastructure protection programs;
 
 &emsp;&emsp;&emsp;(ii) providing leadership and coordination in meeting the geospatial information requirements of those responsible for planning, prevention, mitigation, assessment and response to emergencies, critical infrastructure protection, and other functions of the Department; and
 

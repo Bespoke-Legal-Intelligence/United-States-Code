@@ -12,7 +12,7 @@
 
 #### (b) Review by Secretary
 
-The Secretary shall review each feasibility study received under subsection (a)(1) for thepurpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
+The Secretary shall review each feasibility study received under subsection (a)(1) for the purpose of determining whether or not the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water resources development projects.
 
 #### (c) Submission to Congress
 

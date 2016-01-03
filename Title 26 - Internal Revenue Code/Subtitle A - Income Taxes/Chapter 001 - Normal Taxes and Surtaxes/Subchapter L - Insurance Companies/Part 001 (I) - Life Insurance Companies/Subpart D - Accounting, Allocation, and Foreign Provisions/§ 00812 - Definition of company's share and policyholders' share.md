@@ -120,7 +120,7 @@ For purposes of this section, the term "gross investment income" means the sum o
 
 #### (C) Certain dividends received by foreign corporations
 
-&emsp;&emsp;The term "100 percent dividends" does not include any dividend described in section805(a)(4)(E) (relating to certain dividends in the case of foreign corporations).
+&emsp;&emsp;The term "100 percent dividends" does not include any dividend described in section 805(a)(4)(E) (relating to certain dividends in the case of foreign corporations).
 
 #### (f) No double counting
 

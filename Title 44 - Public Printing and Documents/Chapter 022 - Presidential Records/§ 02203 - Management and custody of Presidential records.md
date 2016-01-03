@@ -30,7 +30,7 @@
 
 #### Amendments
 
-Subsec. (a). Pub. L. 113–187, §8(3)(A), substituted "the President's" for "his".
+<b>2014</b>—Subsec. (a). Pub. L. 113–187, §8(3)(A), substituted "the President's" for "his".
 
 Pub. L. 113–187, §2(c)(1), substituted "preserved and maintained" for "maintained".
 

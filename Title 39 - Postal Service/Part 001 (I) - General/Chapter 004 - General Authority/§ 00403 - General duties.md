@@ -84,5 +84,5 @@ Pub. L. 96–499, title IV, §412, Dec. 5, 1980, 94 Stat. 2607.
 
 #### Prohibition of 9-Digit ZIP Code
 
-Pub. L. 97–35, title XVII, §1726, Aug. 13, 1981, 95 Stat. 761, prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983,and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
+Pub. L. 97–35, title XVII, §1726, Aug. 13, 1981, 95 Stat. 761, prohibited Postal Service from implementing ZIP code system using more than 5 digits before Oct. 1, 1983, and prohibited executive agencies from taking action to conform mailing procedures to ZIP code system using more than 5 digits during the period from Aug. 13, 1981 to Dec. 31, 1982.
 

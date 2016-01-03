@@ -30,9 +30,9 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;
 
-&emsp;&emsp;&emsp;(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801(41) of title 20) and State child care lead agencies (designated under section 9858b of this title);
+&emsp;&emsp;&emsp;(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
-&emsp;&emsp;&emsp;(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry outunder the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
+&emsp;&emsp;&emsp;(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
 
 &emsp;&emsp;&emsp;(ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -46,7 +46,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;(F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity make <sup>2</sup> satisfactory annual improvement and describe <sup>3</sup> such system in the plan under subparagraph (A);
 
-&emsp;&emsp;(G) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
+&emsp;&emsp;(G) a description of the means by which to obtain public comment and input on theplan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
 
 &emsp;&emsp;(H) as relevant, a description of the process used by the entity to consult with local departments of public health to reach consensus, approval, or concurrence on the relative distribution of amounts received under this section.
 
@@ -174,7 +174,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;An entity that receives an award under this section shall maintain expenditures for public health security at a level that is not less than the average level of such expenditures maintained by the entity for the preceding 2 year period.
+&emsp;&emsp;An entity that receives an award under this section shall maintain expenditures for public health security at a level that is notless than the average level of such expenditures maintained by the entity for the preceding 2 year period.
 
 #### (B) Rule of construction
 
@@ -234,7 +234,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to eligible entities that—
 
-&emsp;&emsp;&emsp;(i) have a significant need for funds to build capacity to identify, detect, monitor, and respond to a bioterrorist or other threat to the public health, which need will not be met by awards pursuant to paragraph (3); and
+&emsp;&emsp;&emsp;(i) have a significant need for funds to build capacity to identify, detect, monitor, and respond to a bioterrorist or other threat to the public health, which needwill not be met by awards pursuant to paragraph (3); and
 
 &emsp;&emsp;&emsp;(ii) face a particularly high degree of risk of such a threat.
 
@@ -294,13 +294,15 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
-(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179.)
+(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187.)
 
 #### Codification
 
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(A)(vii). Pub. L. 114–95 substituted "including State educational agencies (as defined in section 7801 of title 20)" for "including State educational agencies (as defined in section 7801(41) of title 20)".
 
 <b>2013</b>—Subsec. (b)(1)(B). Pub. L. 113–5, §202(c)(1), substituted "subsection (h)(4)" for "subsection (i)(4)".
 
@@ -367,6 +369,10 @@ Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Emergency Medical and Public Health Communications Pilot Projects
 

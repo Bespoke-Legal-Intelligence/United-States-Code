@@ -32,7 +32,7 @@
 
 (d) Lump-sum benefits authorized by subsections (e) through (g) shall be paid to the individual or individuals surviving the employee or Member and alive at the date title to the payment arises in the following order of precedence, and the payment bars recovery by any other individual:
 
-&emsp;First, to the beneficiary or beneficiaries designated by the employee or Member in asigned and witnessed writing received in the Office before the death of such employee or Member. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
+&emsp;First, to the beneficiary or beneficiaries designated by the employee or Member in a signed and witnessed writing received in the Office before the death of such employee or Member. For this purpose, a designation, change, or cancellation of beneficiary in a will or other document not so executed and filed has no force or effect.
 
 &emsp;Second, if there is no designated beneficiary, to the widow or widower of the employee or Member.
 
@@ -70,7 +70,7 @@
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 substituted "based, until the employee or Member is reemployed in the service subject to this chapter." for "based." in concluding provisions.
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Payment of the lump-sum credit under subsection (a)—
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"Payment of the lump-sum credit under subsection (a)—
 
 &emsp;"(A) may be made only if any current spouse and any former spouse of the employee or Member are notified of the application by the employee or Member; and
 

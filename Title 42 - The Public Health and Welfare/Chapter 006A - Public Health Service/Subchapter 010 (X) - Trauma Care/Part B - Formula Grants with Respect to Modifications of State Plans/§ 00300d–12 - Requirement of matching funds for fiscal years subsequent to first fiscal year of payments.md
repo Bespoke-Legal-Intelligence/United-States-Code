@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 300d–11(a) of this title unless the State involved agrees, with respect to the costs described in paragraph (2), to make available non-Federal contributions (in cash or in kind under subsection (b)(1)) toward such costs in an amount that—
+&emsp;The Secretary may not make payments under section 300d–11(a) of this title unless theState involved agrees, with respect to the costs described in paragraph (2), to make available non-Federal contributions (in cash or in kind under subsection (b)(1)) toward such costs in an amount that—
 
 &emsp;&emsp;(A) for the second and third fiscal years of such payments to the State, is not less than $1 for each $1 of Federal funds provided in such payments for such fiscal years; and
 

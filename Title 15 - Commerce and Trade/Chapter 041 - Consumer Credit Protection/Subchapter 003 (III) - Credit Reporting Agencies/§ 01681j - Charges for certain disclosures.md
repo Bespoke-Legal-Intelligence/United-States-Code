@@ -34,9 +34,9 @@
 
 #### (iv) Consideration of ability to comply
 
-&emsp;&emsp;&emsp;The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a) of this section, which effective date—
+&emsp;&emsp;&emsp;The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) <sup>1</sup> of this title) shall be required to comply with subsection (a), which effective date—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be established after consideration of the ability of each nationwidespecialty consumer reporting agency to comply with subsection (a); and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
 
@@ -54,7 +54,7 @@
 
 #### (b) Free disclosure after adverse notice to consumer
 
-Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, or of a notification from a debt collection agency affiliated with that consumer reporting agencystating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
+Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
 
 #### (c) Free disclosure under certain other circumstances
 
@@ -72,13 +72,13 @@ Upon the request of a consumer, a consumer reporting agency described in section
 
 #### (e) Other charges prohibited
 
-A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f) of this section.
+A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f).
 
 #### (f) Reasonable charges allowed for certain disclosures
 
 #### (1) In general
 
-&emsp;In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
+&emsp;In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
 
 &emsp;&emsp;(A) for making a disclosure to the consumer pursuant to section 1681g of this title, which charge—
 
@@ -106,7 +106,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 &emsp;In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison <sup>3</sup> or radio, the disclosure required under paragraph (1) shall consist only of the following: "This is not the free credit report provided for by Federal law".
 
-(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
+(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub.L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
 
 #### References in Text
 
@@ -130,9 +130,9 @@ Subsec. (d). Pub. L. 108–159, §211(a)(4), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 108–159, §211(a)(3), (5), redesignated subsec. (d) as (e) and substituted "subsection (f)" for "subsection (a)".
 
-Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted "In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a" for "Except as provided in subsections (b), (c), and (d) of this section, a" in par. (1).
+Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted "In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a" for "Except as provided in subsections (b), (c), and (d), a" in par. (1).
 
-<b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: "A consumerreporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified."
+<b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: "A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified."
 
 #### Effective Date of 2010 Amendment
 
@@ -202,7 +202,7 @@ Centralized source.—The centralized source for a request for a consumer report
 
 "(4)
 
-Transition.—The regulations of the Bureau under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\] to the centralized source for consumer report distribution required by section 612(a)(1)(B) \[15 U.S.C. 1681j(a)(1)(B)\], as amended by this section, in a manner that—
+Transition.—The regulations of the Bureau under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C.1681a(p)\] to the centralized source for consumer report distribution required by section 612(a)(1)(B) \[15 U.S.C. 1681j(a)(1)(B)\], as amended by this section, in a manner that—
 
 &emsp;"(A) does not temporarily overwhelm such consumer reporting agencies with requests for disclosures of consumer reports beyond their capacity to deliver; and
 

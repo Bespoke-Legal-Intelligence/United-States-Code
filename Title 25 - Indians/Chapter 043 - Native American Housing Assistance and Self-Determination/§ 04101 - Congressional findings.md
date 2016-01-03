@@ -58,7 +58,7 @@ Pub. L. 107–292, §1, Nov. 13, 2002, 116 Stat. 2053, provided that: "This Act 
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–569, title V, §511, Dec. 27, 2000, 114 Stat. 2966, provided that: "This subtitle \[subtitle B\(§§511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title\] may be cited as the 'Hawaiian Homelands Homeownership Act of 2000'."
+Pub. L. 106–569, title V, §511, Dec. 27, 2000, 114 Stat. 2966, provided that: "This subtitle \[subtitle B (§§511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title\] may be cited as the 'Hawaiian Homelands Homeownership Act of 2000'."
 
 Pub. L. 106–568, §1, Dec. 27, 2000, 114 Stat. 2868, provided that: "This Act \[see Tables for classification\] may be cited as the 'Omnibus Indian Advancement Act'."
 

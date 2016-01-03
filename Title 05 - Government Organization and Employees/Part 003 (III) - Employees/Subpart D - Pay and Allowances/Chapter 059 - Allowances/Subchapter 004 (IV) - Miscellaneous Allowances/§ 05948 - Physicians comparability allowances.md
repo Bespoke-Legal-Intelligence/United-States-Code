@@ -20,7 +20,7 @@
 
 (c) The head of an agency, pursuant to such regulations, criteria, and conditions as the President or his designee may prescribe, shall determine categories of positions applicable to physicians in such agency with respect to which there is a significant recruitment and retention problem. Only physicians serving in such positions shall be eligible for an allowance pursuant to this section. The amounts of each such allowance shall be determined by the agency head, subject to such regulations, criteria, and conditions as the President or his designee may prescribe, and shall be the minimum amount necessary to deal with the recruitment and retention problem for each such category of physicians.
 
-(d) Any agreement entered into by a physician under this section shall be for a period of oneyear of service in the agency involved unless the physician requests an agreement for a longer period of service.
+(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
 (e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
@@ -82,7 +82,7 @@ The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, 
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 4 of title I of the Act is classified generally to subchapter IV (§3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208,which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
 
@@ -160,7 +160,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of Repeal
 
-Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat.1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, §1(a)(1) \[title II, §218(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, §2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
+Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, §1(a)(1) \[title II, §218(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, §2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
 
 #### Short Title of 2000 Amendment
 

@@ -1,6 +1,6 @@
 ### §1201. Kidnapping
 
-(a) Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries awayand holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
+(a) Whoever unlawfully seizes, confines, inveigles, decoys, kidnaps, abducts, or carries away and holds for ransom or reward or otherwise any person, except in the case of a minor by the parent thereof, when—
 
 &emsp;(1) the person is willfully transported in interstate or foreign commerce, regardless of whether the person was alive when transported across a State boundary, or the offender travels in interstate or foreign commerce or uses the mail or any means, facility, or instrumentality of interstate or foreign commerce in committing or in furtherance of the commission of the offense;
 
@@ -16,7 +16,7 @@
 
 (b) With respect to subsection (a)(1), above, the failure to release the victim within twenty-four hours after he shall have been unlawfully seized, confined, inveigled, decoyed, kidnapped, abducted, or carried away shall create a rebuttable presumption that such person has been transported in interstate or foreign commerce. Notwithstanding the preceding sentence, the fact that the presumption under this section has not yet taken effect does not preclude a Federal investigation of a possible violation of this section before the 24-hour period has ended.
 
-(c) If two or more persons conspire to violate this section and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
+(c) If two or more persons conspire to violate this section and one or more of such persons doany overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
 (d) Whoever attempts to violate subsection (a) shall be punished by imprisonment for not more than twenty years.
 
@@ -74,7 +74,7 @@ Words "upon conviction" were omitted as surplusage, because punishment cannot be
 
 Direction as to confinement "in the penitentiary" was omitted because of section 4082 of this title which commits all prisoners to the custody of the Attorney General. (See reviser's note under section 1 of this title.)
 
-The phrase "for any term of years or for life" was substituted for the words "for such term of years as thecourt in its discretion shall determine" which appeared in said section 408a of Title 18, U.S.C., 1940 ed. This change was made in order to remove all doubt as to whether "term of years" includes life imprisonment.
+The phrase "for any term of years or for life" was substituted for the words "for such term of years as the court in its discretion shall determine" which appeared in said section 408a of Title 18, U.S.C., 1940 ed. This change was made in order to remove all doubt as to whether "term of years" includes life imprisonment.
 
 Minor changes were made in phraseology.
 

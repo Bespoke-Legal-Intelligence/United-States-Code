@@ -38,7 +38,7 @@ Performance Management and Workforce Incentives.—(1) The Secretary, in coordin
 
 (b)
 
-Flexibilities Relating to Appointments.—(1) The Secretary, in coordination with the Director, shall promulgate regulations to redesign the procedures which are applied by the Department of Defense in making appointments to positions within the competitive service in order to—
+Flexibilities Relating to Appointments.—(1) The Secretary, in coordination withthe Director, shall promulgate regulations to redesign the procedures which are applied by the Department of Defense in making appointments to positions within the competitive service in order to—
 
 &emsp;(A) better meet mission needs;
 
@@ -176,11 +176,11 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;(5)(A) Separation pay shall be paid in a lump sum or in installments and shall be equal to the lesser of—
 
-&emsp;&emsp;(i) an amount equal to the amount the employee would be entitled to receive undersection 5595(c), if the employee were entitled to payment under such section; or
+&emsp;&emsp;(i) an amount equal to the amount the employee would be entitled to receive under section 5595(c), if the employee were entitled to payment under such section; or
 
 &emsp;&emsp;(ii) $25,000.
 
-&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
+&emsp;(B) Separation pay shall not be a basis for payment, and shall not be included in thecomputation, of any other type of Government benefit. Separation pay shall not be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595, based on any other separation.
 
 &emsp;(C) Separation pay, if paid in installments, shall cease to be paid upon the recipient's acceptance of employment by the Federal Government, or commencement of work under a personal services contract as described in paragraph (6).
 
@@ -230,7 +230,7 @@ Review.—After receiving any report under paragraph (1), the Comptroller Genera
 
 &emsp;&emsp;(A) shall review the assessments or surveys described in such report to determine if they were appropriately designed and statistically valid;
 
-&emsp;&emsp;(B) shall conduct a review of the extent to which the program, system, procedures, or other aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
+&emsp;&emsp;(B) shall conduct a review of the extent to which the program, system, procedures, orother aspect of program management concerned (as described in paragraph (1)(A)) is fair, credible, transparent, and otherwise in conformance with the requirements of this section; and
 
 &emsp;&emsp;(C) within 6 months after receiving such report, shall submit to the appropriate committees of Congress—
 
@@ -300,7 +300,7 @@ Pub. L. 111–383, div. A, title XI, §1101(d), Jan. 7, 2011, 124 Stat. 4382, pr
 
 #### References to Pub. L. 111–383
 
-Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: "Any reference in this or any other Act tothe 'National Defense Authorization Act for Fiscal Year 2011' shall be deemed to refer to the 'Ike Skelton National Defense Authorization Act for Fiscal Year 2011'."
+Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: "Any reference in this or any other Act to the 'National Defense Authorization Act for Fiscal Year 2011' shall be deemed to refer to the 'Ike Skelton National Defense Authorization Act for Fiscal Year 2011'."
 
 #### Reports on Performance Management System and Appointment Procedures
 

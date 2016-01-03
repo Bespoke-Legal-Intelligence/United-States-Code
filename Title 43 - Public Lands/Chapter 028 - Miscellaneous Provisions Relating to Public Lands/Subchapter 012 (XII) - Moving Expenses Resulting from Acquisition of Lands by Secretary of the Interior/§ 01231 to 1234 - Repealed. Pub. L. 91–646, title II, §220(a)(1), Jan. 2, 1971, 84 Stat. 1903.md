@@ -1,6 +1,6 @@
 ### §§1231 to 1234. Repealed. Pub. L. 91–646, title II, §220(a)(1), Jan. 2, 1971, 84 Stat. 1903
 
-Section 1231, Pub. L. 85–433, §1, May 29, 1958, 72 Stat. 152, related to payment of moving expenses to owners and tenants of land acquired for developments and to applications for payments.
+Section 1231, Pub. L. 85–433, §1, May 29, 1958, 72 Stat. 152, related to payment of moving expenses to ownersand tenants of land acquired for developments and to applications for payments.
 
 Section 1232, Pub. L. 85–433, §2, May 29, 1958, 72 Stat. 152, related to administration and rules and regulations.
 

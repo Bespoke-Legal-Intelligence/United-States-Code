@@ -42,7 +42,7 @@ Not later than March 31, 1997, the Comptroller General of the United States shal
 
 &emsp;(3) any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.
 
-(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
+(Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat.38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
 
 #### References in Text
 

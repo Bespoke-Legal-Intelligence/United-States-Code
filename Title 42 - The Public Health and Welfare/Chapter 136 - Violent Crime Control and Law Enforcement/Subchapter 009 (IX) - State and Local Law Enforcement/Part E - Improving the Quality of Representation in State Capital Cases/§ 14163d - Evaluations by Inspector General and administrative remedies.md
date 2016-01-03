@@ -38,7 +38,7 @@
 
 #### (c) Penalties for noncompliance
 
-If the State fails to take the prescribed corrective action under subsection (b) of this section and is not in compliance with the terms and conditions of the grant, the Attorney General shall discontinue all further funding under sections 14163 and 14163a of this title and requirethe State to return the funds granted under such sections for that fiscal year. Nothing in this paragraph shall prevent a State which has been subject to penalties for noncompliance from reapplying for a grant under this part in another fiscal year.
+If the State fails to take the prescribed corrective action under subsection (b) of this section and is not in compliance with the terms and conditions of the grant, the Attorney General shall discontinue all further funding under sections 14163 and 14163a of this title and require the State to return the funds granted under such sections for that fiscal year. Nothing in this paragraph shall prevent a State which has been subject to penalties for noncompliance from reapplying for a grant under this part in another fiscal year.
 
 #### (d) Periodic reports
 

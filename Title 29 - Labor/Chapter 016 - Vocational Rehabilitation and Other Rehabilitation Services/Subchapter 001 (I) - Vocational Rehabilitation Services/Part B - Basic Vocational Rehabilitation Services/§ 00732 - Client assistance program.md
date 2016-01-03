@@ -2,7 +2,7 @@
 
 #### (a) Establishment of grant program
 
-From funds appropriated under subsection (h) of this section, the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
+From funds appropriated under subsection (h), the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
 
 #### (b) Existence of State program as requisite to receiving payments
 
@@ -10,7 +10,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 &emsp;(1) has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of rights of individuals with disabilities who are receiving treatments, services, or rehabilitation under this chapter within the State; and
 
-&emsp;(2) meets the requirements of designation under subsection (c) of this section.
+&emsp;(2) meets the requirements of designation under subsection (c).
 
 #### (c) Designation of agency to conduct program
 
@@ -38,7 +38,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 #### (d) Class action by designated agency prohibited
 
-The agency designated under subsection (c) of this section may not bring any class action in carrying out its responsibilities under this section.
+The agency designated under subsection (c) of this section may not bring any class action incarrying out its responsibilities under this section.
 
 #### (e) Allotment and reallotment of funds
 
@@ -50,7 +50,7 @@ The agency designated under subsection (c) of this section may not bring any cla
 
 (D)(i) In any fiscal year that the funds appropriated for such fiscal year exceed $7,500,000, the minimum allotment shall be $100,000 for States and $45,000 for territories.
 
-(ii) For any fiscal year in which the total amount appropriated under subsection (h) of this section exceeds the total amount appropriated under such subsection for the preceding fiscal year, the Secretary shall increase each of the minimum allotments under clause (i) by a percentage that shall not exceed the percentage increase in the total amount appropriated under such subsection between the preceding fiscal year and the fiscal year involved.
+(ii) For any fiscal year in which the total amount appropriated under subsection (h) exceeds the total amount appropriated under such subsection for the preceding fiscal year, the Secretary shall increase each of the minimum allotments under clause (i) by a percentage that shall not exceed the percentage increase in the total amount appropriated under such subsection between the preceding fiscal year and the fiscal year involved.
 
 (E)(i) The Secretary shall reserve funds appropriated under subsection (h) to make a grant to the protection and advocacy system serving the American Indian Consortium to provide services in accordance with this section. The amount of such a grant shall be the same amount as is provided to a territory under this subsection.
 
@@ -64,7 +64,7 @@ The agency designated under subsection (c) of this section may not bring any cla
 
 (2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
 
-(3) Except as specifically prohibited by or as otherwise provided in State law, the Secretary shall pay to the agency designated under subsection (c) of this section the amount specified in the application approved under subsection (f) of this section.
+(3) Except as specifically prohibited by or as otherwise provided in State law, the Secretary shall pay to the agency designated under subsection (c) the amount specified in the application approved under subsection (f).
 
 #### (f) Application by State for grant funds
 
@@ -100,7 +100,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 &emsp;(6) $14,098,000 for fiscal year 2020.
 
-(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §421, July 22, 2014, 128 Stat. 1656.)
+(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §421, July 22, 2014, 128 Stat. 1656.)
 
 #### References in Text
 

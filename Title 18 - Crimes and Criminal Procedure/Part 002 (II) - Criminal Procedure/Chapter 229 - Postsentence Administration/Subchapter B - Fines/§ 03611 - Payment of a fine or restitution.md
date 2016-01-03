@@ -46,5 +46,5 @@ to October 31, 1988.—(1) Notwithstanding section 3611 of title 18, United Stat
 
 "(2) In a case initiated by citation or violation notice, such person shall pay the fine or assessment (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(17) of title 28, United States Code.
 
-"(3) In any other case, such person shall pay the fine or assessment (including any interest or penalty) to theclerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984."
+"(3) In any other case, such person shall pay the fine or assessment (including any interest or penalty) to the clerk of the court, with respect to an offense committed on or before December 31, 1984, and to the Attorney General, with respect to an offense committed after December 31, 1984."
 

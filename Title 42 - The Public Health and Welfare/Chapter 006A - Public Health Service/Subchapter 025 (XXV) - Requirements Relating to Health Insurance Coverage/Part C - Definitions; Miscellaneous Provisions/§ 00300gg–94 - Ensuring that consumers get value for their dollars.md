@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning with plan years beginning in 2014, the Secretary, in conjunction with the States and consistent with the provisions of subsection (a)(2), shall monitor premium increases of health insurance coverage offeredthrough an Exchange and outside of an Exchange.
+&emsp;&emsp;Beginning with plan years beginning in 2014, the Secretary, in conjunction with the States and consistent with the provisions of subsection (a)(2), shall monitor premium increases of health insurance coverage offered through an Exchange and outside of an Exchange.
 
 #### (B) Consideration in opening Exchange
 
@@ -54,7 +54,7 @@
 
 #### (C) Allocation
 
-&emsp;&emsp;The Secretary shall establish a formula for determining the amount of any grant to a State under this subsection. Under such formula—
+&emsp;&emsp;The Secretary shall establish a formula for determining the amount of any grant to aState under this subsection. Under such formula—
 
 &emsp;&emsp;&emsp;(i) the Secretary shall consider the number of plans of health insurance coverage offered in each State and the population of the State; and
 

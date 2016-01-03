@@ -100,7 +100,7 @@ Definition.—In this clause, the term 'former rate of basic pay' means the rate
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-In general.—If, as a result of conversion to the new salary schedule, the member's former rate of basic pay is greater than the maximum rate of basic pay payable for the rankof the member's position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member's former rate of basic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member's position by 50 percent of the dollar amount of each such increase.
+In general.—If, as a result of conversion to the new salary schedule, the member's former rate of basic pay is greater than the maximum rate of basic pay payable for the rank of the member's position immediately after the conversion, the member is entitled to basic pay at a rate equal to the member's former rate ofbasic pay, and increased at the time of any increase in the maximum rate of basic pay payable for the rank of the member's position by 50 percent of the dollar amount of each such increase.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 

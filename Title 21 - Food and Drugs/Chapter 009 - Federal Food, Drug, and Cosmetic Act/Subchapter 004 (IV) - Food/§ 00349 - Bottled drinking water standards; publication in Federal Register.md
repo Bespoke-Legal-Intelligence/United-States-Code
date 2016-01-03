@@ -8,7 +8,7 @@
 
 (3) A regulation issued by the Secretary as provided in this subsection shall require the following:
 
-&emsp;(A) In the case of contaminants for which a maximum contaminant level is established in a national primary drinking water regulation under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the regulation underthis subsection shall establish a maximum contaminant level for the contaminant in bottled water which is no less stringent than the maximum contaminant level provided in the national primary drinking water regulation.
+&emsp;(A) In the case of contaminants for which a maximum contaminant level is established in a national primary drinking water regulation under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the regulation under this subsection shall establish a maximum contaminant level for the contaminant in bottled water which is no less stringent than the maximum contaminant level provided in the national primary drinking water regulation.
 
 &emsp;(B) In the case of contaminants for which a treatment technique is established in a national primary drinking water regulation under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the regulation under this subsection shall require that bottled water be subject to requirements no less protective of the public health than those applicable to water provided by public water systems using the treatment technique required by the national primary drinking water regulation.
 

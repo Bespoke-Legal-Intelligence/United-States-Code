@@ -32,7 +32,7 @@
 
 #### (7) Support services
 
-&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use a portion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
+&emsp;A community-based entity receiving a fixed-amount grant under this subsection may use aportion of the grant to provide transportation services to an eligible individual to allow such individual to participate in a service project.
 
 #### (b) Encore Fellowships
 

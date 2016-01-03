@@ -8,7 +8,7 @@ Not later than May 31 of each year, the Secretary of Commerce shall submit to th
 
 #### (1) In general
 
-&emsp;Each report required under subsection (a) of this section shall address—
+&emsp;Each report required under subsection (a) shall address—
 
 &emsp;&emsp;(A) the state of United States international economic competitiveness, focusing, in particular, on the efforts of the Department of Commerce—
 

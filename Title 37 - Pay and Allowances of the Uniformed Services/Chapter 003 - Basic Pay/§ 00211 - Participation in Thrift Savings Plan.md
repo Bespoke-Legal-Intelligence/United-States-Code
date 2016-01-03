@@ -44,9 +44,15 @@ Agency Contributions for Retention in Critical Specialties and First-Time Enlist
 
 Repayment of Amounts Borrowed From Member Account.—If a loan is issued to a member under section 8433(g) of title 5 from funds in the member's account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under section 1014(c) of this title.
 
-(Added and amended Pub. L. 106–65, div. A, title VI, §§661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, §605, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 110–181, div. A, title VI, §605(b), Jan. 28, 2008, 122 Stat. 146.)
+(Added and amended Pub. L. 106–65, div. A, title VI, §§661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, §605, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 110–181, div. A, title VI, §605(b), Jan. 28, 2008, 122 Stat. 146; Pub. L. 114–92, div. A, title VI, §632(e)(1), Nov. 25, 2015, 129 Stat. 847.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–92, div. A, title VI, §§632(e)(1), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by striking subsection (d) and redesignating subsection (e) as subsection (d). See 2015 Amendment note below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (d), (e). Pub. L. 114–92 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to agency contributions for retention in critical specialties and first-time enlistees.
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
@@ -58,6 +64,10 @@ Subsec. (d)(2) to (4). Pub. L. 109–163, §605(a)(2)–(4), substituted "member
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–65, §662, added subsec. (d).
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
+
 #### Effective Date
 
 Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under section 8440e of Title 5, Government Organization and Employees.
@@ -68,7 +78,7 @@ Pub. L. 109–163, div. A, title VI, §606, Jan. 6, 2006, 119 Stat. 3287, as ame
 
 "(a)
 
-Pilot Program Required.—During the period beginning on January 6, 2006, and ending on December 31, 2008, the Secretary of the Army shall use the authority provided by section 211(d)(1)(B) of title 37, United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—
+Pilot Program Required.—During the period beginning on January 6, 2006, and ending on December 31, 2008, the Secretary of the Army shall use the authority provided by section 211(d)(1)(B) of title 37,United States Code, as amended by section 605, to carry out within the Army a pilot program in order to assess the extent to which contributions by the Secretary to the Thrift Savings Fund on behalf of members of the Army described in subsection (b) would—
 
 &emsp;"(1) assist the Army in recruiting efforts; and
 
@@ -102,7 +112,7 @@ In general.—Not later than February 1, 2008, the Secretary of Defense shall su
 
 Elements.—The report shall include the following:
 
-&emsp;&emsp;"(A) A description of the pilot program, including the number of members of the Army who participated in the pilot program and the contributionsmade by the Army to the Thrift Savings Fund on behalf of such members during the period of the pilot program.
+&emsp;&emsp;"(A) A description of the pilot program, including the number of members of the Army who participated in the pilot program and the contributions made by the Army to the Thrift Savings Fund on behalf of such members during the period of the pilot program.
 
 &emsp;&emsp;"(B) An assessment, based on the pilot program and taking into account the views of officers and senior enlisted personnel of the Army, and of field recruiters, of the extent to which contributions by the military departments to the Thrift Savings Fund on behalf of members of the Armed Forces similar to the participants in the pilot program—
 

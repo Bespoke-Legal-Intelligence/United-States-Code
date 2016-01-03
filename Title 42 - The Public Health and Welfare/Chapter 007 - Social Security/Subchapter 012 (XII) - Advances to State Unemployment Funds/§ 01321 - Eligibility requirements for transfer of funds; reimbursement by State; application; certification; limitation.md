@@ -24,7 +24,7 @@
 
 (b) The Secretary of the Treasury shall, prior to audit or settlement by the Government Accountability Office, transfer in monthly installments from the Federal unemployment account to the account of the State in the Unemployment Trust Fund the amount certified under subsection (a) of this section by the Secretary of Labor (but not exceeding that portion of the balance in the Federal unemployment account at the time of the transfer which is not restricted as to use pursuant to section 1103(b)(1) of this title). The amount of any monthly installment so transferred shall not exceed the amount estimated by the State to be required for the payment of compensation for the month with respect to which such installment is made.
 
-(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3, 68 Stat. 671; Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 978; Pub. L. 94–566, title II, §213(a)–(c), Oct. 20, 1976, 90 Stat. 2677; Pub. L. 97–35, title XXIV, §2407(b)(1), Aug. 13, 1981, 95 Stat. 880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title XII, §1201, as added Oct. 3, 1944, ch. 480, title IV, §402, 58 Stat. 790; amended Aug. 6, 1947, ch. 510, §5(b), 61 Stat. 794; 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §404(a), 64 Stat. 560; Aug. 5, 1954, ch. 657, §3,68 Stat. 671; Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 978; Pub. L. 94–566, title II, §213(a)–(c), Oct. 20, 1976, 90 Stat. 2677; Pub. L. 97–35, title XXIV, §2407(b)(1), Aug. 13, 1981, 95 Stat. 880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Amendment by act Aug. 28, 1950, effective Jan. 1, 1950, see section 404(c) of ac
 
 #### Termination Date
 
-Act Aug. 6, 1947, ch. 510, §4, 61 Stat. 794, provided that: "Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and section 1104 of this title\]."
+Act Aug. 6, 1947, ch. 510, §4, 61 Stat. 794, provided that: "Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of the former Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of the former Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of the former Appendix to Title 50\] to the Social Security Act \[this section and section 1104 of this title\]."
 
 #### Applications for Transfer of Funds Under Former Provisions of Section 1321(a); Limitations
 

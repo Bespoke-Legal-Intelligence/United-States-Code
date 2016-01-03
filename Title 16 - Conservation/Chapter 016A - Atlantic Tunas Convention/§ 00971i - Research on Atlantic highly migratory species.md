@@ -20,7 +20,7 @@
 
 &emsp;(D) adequate observer coverage and port sampling of commercial and recreational fishing activity;
 
-&emsp;(E) collection of comparable real-time data on commercial and recreational catches and landings through the use of permits, logbooks, landing reports for charter operations and fishing tournaments, and programs to provide reliable reporting of the catch by private anglers;
+&emsp;(E) collection of comparable real-time data on commercial and recreational catches and landings through the use of permits, logbooks,landing reports for charter operations and fishing tournaments, and programs to provide reliable reporting of the catch by private anglers;
 
 &emsp;(F) studies of the life history parameters of Atlantic bluefin tuna and other highly migratory species;
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 #### Codification
 

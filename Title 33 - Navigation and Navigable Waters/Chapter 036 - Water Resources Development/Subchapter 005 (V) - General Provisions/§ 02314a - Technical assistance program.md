@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) United States
 
-&emsp;The term "United States", when used in a geographical sense, means the several Statesof the United States and the District of Columbia.
+&emsp;The term "United States", when used in a geographical sense, means the several States of the United States and the District of Columbia.
 
 (Pub. L. 100–676, §9, Nov. 17, 1988, 102 Stat. 4024; Pub. L. 101–640, title III, §318(c), Nov. 28, 1990, 104 Stat. 4642.)
 

@@ -48,7 +48,7 @@ Pub. L. 106–518, title III, §304(c), Nov. 13, 2000, 114 Stat. 2418, provided 
 
 #### Similar Provisions
 
-Pub. L. 106–553, §1(a)(2) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2762, 2762A–83, provided that:
+Pub. L. 106–553, §1(a)(2) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2762, 2762A-83, provided that:
 
 "(a) The Director of the Administrative Office of the United States Courts (the Director) may designate in writing officers and employees of the judicial branch of the United States Government, including the courts as defined in section 610 of title 28, United States Code, but excluding the Supreme Court, to be disbursing officers in such numbers and locations as the Director considers necessary. These disbursing officers will: (1) disburse moneys appropriated to the judicial branch and other funds only in strict accordance with payment requests certified by the Director or in accordance with subsection (b) of this section; (2) examine payment requests as necessary to ascertain whether they are in proper form, certified, and approved; and (3) be held accountable as provided by law. However, a disbursing officer will not be held accountable or responsible for any illegal, improper, or incorrect payment resulting from any false, inaccurate, or misleading certificate for which a certifying officer is responsible under subsection (b) of this section.
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
+&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a)shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
 
 #### (2) Deduction limited to adjusted basis in stock
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
 <b>1980</b>—Subsec. (b)(6)(A). Pub. L. 96–222, §105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
 
-Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
+Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B)and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
 
 <b>1978</b>—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
 

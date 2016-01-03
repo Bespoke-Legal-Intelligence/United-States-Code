@@ -50,7 +50,7 @@ Not later than 1 year after July 22, 2014, the Administrator shall develop and p
 
 #### (1) In general
 
-&emsp;The Director described in section 796–1 of this title shall provide to the Administrator of the Administration for Community Living and the Administrator shall include, in an annual report, information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Director may identify individual centers for independent living in the analysis contained in that information. The Director shall include in the report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under subpart 3.
+&emsp;The Director described in section 796–1 of this title shall provide to the Administrator of the Administration for Community Living and the Administrator shall include, in an annual report, information on the extent to whichcenters for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in section 796f–4 of this title. The Director may identify individual centers for independent living in the analysis contained in that information. The Director shall include in the report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under subpart 3.
 
 #### (2) Public availability
 
@@ -60,7 +60,7 @@ Not later than 1 year after July 22, 2014, the Administrator shall develop and p
 
 #### Prior Provisions
 
-A prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992,106 Stat. 4448; amended Pub. L. 103–73, title I, §114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4448; amended Pub. L. 103–73, title I, §114(d), Aug. 11, 1993, 107 Stat. 729, related to responsibilities of Commissioner, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 796d–1, Pub. L. 93–112, title VII, §706, as added Pub. L. 99–506, title VIII, §803(a), Oct. 21, 1986, 100 Stat. 1837; amended Pub. L. 100–630, title II, §208(e), Nov. 7, 1988, 102 Stat. 3314, provided for a State Independent Living Council, prior to repeal by Pub. L. 102–569, §701(1).
 

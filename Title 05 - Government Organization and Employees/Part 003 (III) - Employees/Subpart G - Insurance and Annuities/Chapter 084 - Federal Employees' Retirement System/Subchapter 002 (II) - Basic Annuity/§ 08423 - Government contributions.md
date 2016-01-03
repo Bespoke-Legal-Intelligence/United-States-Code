@@ -42,7 +42,7 @@
 
 > as of the close of each fiscal year beginning after September 30, 1987.
 
-(2) The amount of any supplemental liability computed under paragraph (1)(A) or (1)(B) shall be amortized in 30 equal annual installments, with interest computed at the rate used in the most recent valuation of the System.
+(2) The amount of any supplemental liability computed under paragraph (1)(A) or (1)(B) shallbe amortized in 30 equal annual installments, with interest computed at the rate used in the most recent valuation of the System.
 
 (3) At the end of each fiscal year, the Office shall notify—
 

@@ -1,6 +1,6 @@
 ### §193. Privilege of witnesses
 
-No witness is privileged to refuse to testify to any fact, or to produce any paper, respecting which he shall be examined by either House ofCongress, or by any joint committee established by a joint or concurrent resolution of the two Houses of Congress, or by any committee of either House, upon the ground that his testimony to such fact or his production of such paper may tend to disgrace him or otherwise render him infamous.
+No witness is privileged to refuse to testify to any fact, or to produce any paper, respecting which he shall be examined by either House of Congress, or by any joint committee established by a joint or concurrent resolution of the two Houses of Congress, or by any committee of either House, upon the ground that his testimony to such fact or his production of such paper may tend to disgrace him or otherwise render him infamous.
 
 (R.S. §103; June 22, 1938, ch. 594, 52 Stat. 942.)
 

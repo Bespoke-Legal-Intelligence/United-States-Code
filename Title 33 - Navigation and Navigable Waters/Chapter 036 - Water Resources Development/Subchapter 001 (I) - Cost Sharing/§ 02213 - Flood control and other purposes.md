@@ -18,7 +18,7 @@
 
 #### (3) 50 percent maximum
 
-&emsp;The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of theproject assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
+&emsp;The non-Federal share under paragraph (1) shall not exceed 50 percent of the cost of the project assigned to flood control. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
 
 #### (4) Deferred payment of amount exceeding 30 percent
 
@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriateproject purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -148,7 +148,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a projectfor navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
@@ -196,7 +196,7 @@ This Act, referred to in subsecs. (f) and (h), is Pub. L. 99–662, Nov. 17, 198
 
 The Flood Control Act of 1946, referred to in subsec. (g)(2)(A), is act July 24, 1946, ch. 596, 60 Stat. 641, as amended. For complete classification of this Act to the Code, see Tables.
 
-Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for Eight Mile Creek, Arkansas, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for Eight Mile Creek, Arkansas, are not classified to the Code. Forcomplete classification of this Act to the Code, see Tables.
 
 The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C), is act Aug. 18, 1941, ch. 377, 55 Stat. 638. For complete classification of this Act to the Code, see Tables.
 
@@ -226,7 +226,7 @@ Subsec. (c)(7). Pub. L. 104–303, §210(a), added par. (7).
 
 Subsec. (e)(1). Pub. L. 104–303, §202(a)(2), inserted at end "For the purpose of the preceding sentence, physical construction shall be considered to be initiated on the date of the award of a construction contract."
 
-Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
+Subsec. (m). Pub. L. 104–303, §202(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
 
 <b>1992</b>—Subsec. (i). Pub. L. 102–580, §333(b)(2), substituted "Except as provided under section 2283(c) of this title, the non-Federal" for "The non-Federal".
 
@@ -282,7 +282,7 @@ Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided 
 
 #### Reports to Congress
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\]listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

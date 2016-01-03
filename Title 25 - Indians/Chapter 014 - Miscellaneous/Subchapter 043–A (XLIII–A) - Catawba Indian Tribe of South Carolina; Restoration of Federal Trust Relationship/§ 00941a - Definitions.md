@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term "Tribe" means the Catawba Indian Tribe of South Carolina as constituted in aboriginal times, which was party to the Treaty of Pine Tree Hill in 1760 as confirmed by the Treaty of Augusta in 1763, which was party also to the Treaty of Nation Ford in 1840, and which was the subject of the Termination Act, and all predecessors and successors in interest, including the Catawba Indian Tribe of South Carolina, Inc.
+&emsp;(1) The term "Tribe" means the Catawba Indian Tribe of South Carolina as constituted in aboriginal times, which was party to the Treaty of Pine Tree Hill in 1760 as confirmed by the Treaty of Augusta in 1763, which was partyalso to the Treaty of Nation Ford in 1840, and which was the subject of the Termination Act, and all predecessors and successors in interest, including the Catawba Indian Tribe of South Carolina, Inc.
 
 &emsp;(2) The term "claim" or "claims" means any claim which was asserted by the Tribe in either Suit, and any other claim which could have been asserted by the Tribe or any Catawba Indian of a right, title or interest in property, to trespass or property damages, or of hunting, fishing or other rights to natural resources, if such claim is based upon aboriginal title, recognized title, or title by grant, patent, or treaty including the Treaty of Pine Tree Hill of 1760, the Treaty of Augusta of 1763, or the Treaty of Nation Ford of 1840.
 

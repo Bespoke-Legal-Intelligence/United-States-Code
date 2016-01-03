@@ -14,7 +14,7 @@ Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act,the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
+Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
 
 #### Short Title of 2010 Amendment
 
@@ -22,7 +22,7 @@ Pub. L. 111–296, §1(a), Dec. 13, 2010, 124 Stat. 3183, provided that: "This A
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–265, §1(a), June 30, 2004, 118 Stat. 729, provided that: "This Act \[enacting sections 1754 and 1769i of this title, amending sections 1396a, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769b–1, 1769c, 1769g, 1773, 1776, 1786, and 1788 of this title and section 2020 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 1754, 1758, 1766, 1769c, 1773, and 1786 of this title, and amending provisions set out as a note under section 612c of Title 7\] may be cited as the 'Child Nutrition and WIC Reauthorization Act of 2004'."
+Pub. L. 108–265, §1(a), June 30, 2004, 118 Stat. 729, provided that: "This Act \[enacting sections 1754 and 1769iof this title, amending sections 1396a, 1758, 1759a, 1760, 1761, 1762a, 1766, 1769, 1769b–1, 1769c, 1769g, 1773, 1776, 1786, and 1788 of this title and section 2020 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 1754, 1758, 1766, 1769c, 1773, and 1786 of this title, and amending provisions set out as a note under section 612c of Title 7\] may be cited as the 'Child Nutrition and WIC Reauthorization Act of 2004'."
 
 #### Short Title of 1998 Amendment
 

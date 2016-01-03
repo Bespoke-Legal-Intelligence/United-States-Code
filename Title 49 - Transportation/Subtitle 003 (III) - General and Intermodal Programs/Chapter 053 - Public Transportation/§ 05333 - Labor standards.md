@@ -2,7 +2,7 @@
 
 (a)
 
-Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard underthis subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
+Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
 
 (b)
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

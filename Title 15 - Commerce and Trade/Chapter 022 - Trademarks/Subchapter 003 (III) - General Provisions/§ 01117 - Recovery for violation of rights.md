@@ -16,7 +16,7 @@ In assessing damages under subsection (a) for any violation of section 1114(1)(a
 
 #### (c) Statutory damages for use of counterfeit marks
 
-In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
+In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a), an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
 
 &emsp;(1) not less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
 
@@ -72,7 +72,7 @@ Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that:"Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act."
 
 #### Effective Date of 1988 Amendment
 

@@ -50,7 +50,7 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 &emsp;(5) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
 
-&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determinedthat any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
 
 (d)
 
@@ -112,7 +112,7 @@ Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10."
+<b>2004</b>—Subsec. (e). Pub. L. 108–375, §416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading andtext of former subsec. (e). Text read as follows: "Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10."
 
 Subsec. (e)(1)(A), (B). Pub. L. 108–375, §416(k)(3), struck out "for a period of more than 180 days" after "order to duty".
 
@@ -190,7 +190,7 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### National Guard Counterdrug Schools
 

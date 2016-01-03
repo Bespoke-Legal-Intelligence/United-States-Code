@@ -2,7 +2,7 @@
 
 #### (a) General operating and expenditure authority
 
-Subject to such limitations as may be provided for under this section, the Board may takesuch actions and make such expenditures as may be necessary to carry out the Congressional Award Program, except that—
+Subject to such limitations as may be provided for under this section, the Board may take such actions and make such expenditures as may be necessary to carry out the Congressional Award Program, except that—
 
 &emsp;(1) the Board shall carry out its functions and make expenditures with—
 

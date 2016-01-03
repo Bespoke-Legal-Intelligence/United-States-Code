@@ -160,7 +160,7 @@ Subsec. (c)(1). Pub. L. 109–443, §9(c), inserted "or the Secretary of the dep
 
 Subsec. (d). Pub. L. 106–424, §7, substituted "1134(a), (b), (d), and (f)" for "1134(b)(2)".
 
-<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end "or an aircraft accident involving a public aircraft as defined by section40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States".
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end "or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States".
 
 Subsecs. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 

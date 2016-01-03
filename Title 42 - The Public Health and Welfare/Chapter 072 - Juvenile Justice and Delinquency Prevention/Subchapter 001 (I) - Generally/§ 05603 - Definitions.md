@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term "Administrator" means the agency head designated by section 5611(b) of this title;
 
-&emsp;(6) the term "law enforcement and criminal justice" means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehendcriminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
+&emsp;(6) the term "law enforcement and criminal justice" means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
 
 &emsp;(7) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
@@ -124,7 +124,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996.
 
-(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12,1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
 
 #### References in Text
 

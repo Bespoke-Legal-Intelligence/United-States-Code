@@ -84,5 +84,5 @@ The Secretary shall submit an annual report to the Committee on Agriculture of t
 
 #### Prior Provisions
 
-A prior section 617 of Pub. L. 105–185, title VI, June 23, 1998, 112 Stat. 607, which was not classified to the Code, was repealed by Pub. L. 107–171, title VII, §7302, May 13, 2002, 116 Stat. 455.
+A prior section 617 of Pub. L. 105–185, title VI, June 23, 1998, 112 Stat. 607, which was not classified to theCode, was repealed by Pub. L. 107–171, title VII, §7302, May 13, 2002, 116 Stat. 455.
 

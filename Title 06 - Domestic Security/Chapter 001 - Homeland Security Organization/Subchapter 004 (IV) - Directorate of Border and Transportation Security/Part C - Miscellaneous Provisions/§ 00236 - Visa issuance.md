@@ -20,7 +20,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (2) Construction regarding authority
 
-&emsp;Nothing in this section, consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law, shall beconstrued as affecting the authorities of the Secretary of State under the following provisions of law:
+&emsp;Nothing in this section, consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law, shall be construed as affecting the authorities of the Secretary of State under the following provisions of law:
 
 &emsp;&emsp;(A) Section 101(a)(15)(A) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(A)).
 

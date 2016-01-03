@@ -34,7 +34,7 @@ Of the amounts appropriated under subsection (a) of this section for a fiscal ye
 
 With respect to certification as a nurse practitioner, nurse midwife, or physician assistant, the Secretary shall, from amounts appropriated under subsection (a) of this section for a fiscal year, obligate not less than a total of 10 percent for contracts for both scholarships under the Scholarship Program under section 254l of this title and loan repayments under the Loan Repayment Program under section 254l–1 of this title to individuals who are entering the first year of a course of study or program described in section 254l(b)(1)(B) of this title that leads to such a certification or individuals who are eligible for the loan repayment program as specified in section 254l–1(b) of this title for a loan related to such certification.
 
-(July 1, 1944, ch. 373, title III, §338H, formerly §338G, as added Pub. L. 100–177, title II, §203,Dec. 1, 1987, 101 Stat. 999; renumbered §338H and amended Pub. L. 101–597, title II, §§204, 205, Nov. 16, 1990, 104 Stat. 3027, 3028; Pub. L. 107–251, title III, §314, Oct. 26, 2002, 116 Stat. 1652; Pub. L. 110–355, §3(a)(2), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 111–148, title V, §5207, Mar. 23, 2010, 124 Stat. 612.)
+(July 1, 1944, ch. 373, title III, §338H, formerly §338G, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338H and amended Pub. L. 101–597, title II, §§204, 205, Nov. 16, 1990, 104 Stat. 3027, 3028; Pub. L. 107–251, title III, §314, Oct. 26, 2002, 116 Stat. 1652; Pub. L. 110–355, §3(a)(2), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 111–148, title V, §5207, Mar. 23, 2010, 124 Stat. 612.)
 
 #### Prior Provisions
 
@@ -44,7 +44,7 @@ A prior section 338H of act July 1, 1944, was renumbered section 338I by Pub. L.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to authorization of appropriations for the purposes of carrying out this subpart as follows: for fiscal year 2008, $131,500,000; for fiscal year 2009, $143,335,000; for fiscal year 2010, $156,235,150; for fiscal year 2011, $170,296,310; and for fiscal year 2012, $185,622,980.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 amended subsec. (a) generally. Prior to amendment, subsec. (a) related toauthorization of appropriations for the purposes of carrying out this subpart as follows: for fiscal year 2008, $131,500,000; for fiscal year 2009, $143,335,000; for fiscal year 2010, $156,235,150; for fiscal year 2011, $170,296,310; and for fiscal year 2012, $185,622,980.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted "appropriated—" for "appropriated $146,250,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006." and added pars. (1) to (5).
 

@@ -8,7 +8,7 @@ The Administrator of the National Oceanic and Atmospheric Administration, in con
 
 The Administrator shall implement programs and activities—
 
-&emsp;(1) to identify emerging and innovative research and development priorities to enhance United States competitiveness, support development of new economic opportunities basedon NOAA research, observations, monitoring modeling, and predictions that sustain ecosystem services;
+&emsp;(1) to identify emerging and innovative research and development priorities to enhanceUnited States competitiveness, support development of new economic opportunities based on NOAA research, observations, monitoring modeling, and predictions that sustain ecosystem services;
 
 &emsp;(2) to promote United States leadership in oceanic and atmospheric science and competitiveness in the applied uses of such knowledge, including for the development and expansion of economic opportunities; and
 

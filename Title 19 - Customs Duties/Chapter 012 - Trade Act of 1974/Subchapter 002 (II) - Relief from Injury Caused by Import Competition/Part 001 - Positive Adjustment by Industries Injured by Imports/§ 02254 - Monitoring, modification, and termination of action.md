@@ -12,9 +12,9 @@
 
 #### (b) Reduction, modification, and termination of action
 
-(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
+(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A)) if the President—
 
-&emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce andthe Secretary of Labor, determines, on the basis that either—
+&emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
 
 &emsp;&emsp;(i) the domestic industry has not made adequate efforts to make a positive adjustment to import competition, or
 
@@ -30,7 +30,7 @@
 
 #### (c) Extension of action
 
-(1) Upon request of the President, or upon petition on behalf of the industry concerned filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any action taken under section 2253 of this title is to terminate, the Commission shall investigate to determine whether action under section 2253 of this title continues to be necessary to prevent or remedy serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
+(1) Upon request of the President, or upon petition on behalf of the industry concerned filed with the Commission not earlier than the datewhich is 9 months, and not later than the date which is 6 months, before the date any action taken under section 2253 of this title is to terminate, the Commission shall investigate to determine whether action under section 2253 of this title continues to be necessary to prevent or remedy serious injury and whether there is evidence that the industry is making a positive adjustment to import competition.
 
 (2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 #### Effective Date
 
-Section effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on orafter that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.
+Section effective Aug. 23, 1988, and applicable with respect to investigations initiated under this part on or after that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.
 

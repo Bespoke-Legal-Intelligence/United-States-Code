@@ -9,9 +9,13 @@
 | [22105\.](%C2%A7%2022105%20-%20Sharing%20project%20costs.md) | Sharing project costs. |
 | [22106\.](%C2%A7%2022106%20-%20Limitations%20on%20financial%20assistance.md) | Limitations on financial assistance. |
 | [22107\.](%C2%A7%2022107%20-%20Records%2C%20audits%2C%20and%20information.md) | Records, audits, and information. |
-| [22108\.](%C2%A7%2022108%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| \[22108. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title XI, §11301(c)(4), Dec. 4, 2015, 129 Stat. 1648, struck out item 22108 "Authorization of appropriations".
 
 
 ---
@@ -25,4 +29,4 @@
 - [&sect; 22105 - Sharing project costs](%C2%A7%2022105%20-%20Sharing%20project%20costs.md)
 - [&sect; 22106 - Limitations on financial assistance](%C2%A7%2022106%20-%20Limitations%20on%20financial%20assistance.md)
 - [&sect; 22107 - Records, audits, and information](%C2%A7%2022107%20-%20Records%2C%20audits%2C%20and%20information.md)
-- [&sect; 22108 - Authorization of appropriations](%C2%A7%2022108%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 22108 - Repealed. Pub. L. 114&#8211;94, div. A, title XI, &sect;11301(c)(4), Dec. 4, 2015, 129 Stat. 1648](%C2%A7%2022108%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9394%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A711301%28c%29%284%29%2C%20Dec.%204%2C%202015%2C%20129%20Stat.%201648.md)

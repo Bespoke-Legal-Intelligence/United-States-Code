@@ -104,7 +104,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;(D) provide advice to personnel of the Administration involved in making loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small business concerns engaged in exports;
 
-&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
+&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments andagencies, to study export programs and to examine the needs of small business concerns for export information and assistance;
 
 &emsp;&emsp;(F) participate, jointly with employees of the Office, in an annual training program that focuses on current small business needs for exporting; and
 
@@ -166,7 +166,7 @@ The Associate Administrator shall submit an annual report to the Committee on Sm
 
 #### (g) Studies
 
-The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shall report to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
+The Associate Administrator, in cooperation, where appropriate, with the Division of Economic Research of the Office of Advocacy, and with other Federal agencies, shall undertake studies regarding the following issues and shallreport to the Committees on Small Business of the House of Representatives and the Senate, and to other relevant Committees of the House and Senate within 6 months after August 23, 1988, with specific recommendations on—
 
 &emsp;(1) the viability and cost of establishing an annual, competitive small business export incentive program similar to the Small Business Innovation Research program and alternative methods of structuring such a program;
 
@@ -430,7 +430,7 @@ Pub. L. 96–481, title I, §113(b), Oct. 21, 1980, 94 Stat. 2324, provided that
 
 #### Short Title
 
-For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, see Short Title of 1980 Amendment note set out under section 631 of this title.
+For short title of part B of title I of Pub. L. 96–481 as the Small Business Export Expansion Act of 1980, seeShort Title of 1980 Amendment note set out under section 631 of this title.
 
 #### Implementation
 

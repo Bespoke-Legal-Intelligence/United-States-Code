@@ -28,7 +28,7 @@ There is established within the Institute a program linked to the purpose and fu
 
 #### (5) Prohibitions
 
-&emsp;Federal funds awarded under this program may be used only for direct costs and not for indirect costs, profits, or management fees of a contractor. Any business that is not a small-sized or medium-sized business may not receive any funding under this program.
+&emsp;Federal funds awarded under this program may be used only for direct costs and not forindirect costs, profits, or management fees of a contractor. Any business that is not a small-sized or medium-sized business may not receive any funding under this program.
 
 #### (c) Award criteria
 
@@ -96,7 +96,7 @@ In addition to amounts appropriated to carry out this section, the Secretary and
 
 #### (A) In general
 
-&emsp;&emsp;The TIP Advisory Board shall consist of 10 members appointed by the Director, at least 7 of whom shall be from United States industry, chosen to reflect the wide diversity of technical disciplines and industrial sectors represented in Technology Innovation Program projects. No member shall be an employee of the Federal Government.
+&emsp;&emsp;The TIP Advisory Board shall consist of 10 members appointed by the Director, at least 7 of whom shall be from United States industry, chosen to reflect the wide diversity of technical disciplines and industrial sectorsrepresented in Technology Innovation Program projects. No member shall be an employee of the Federal Government.
 
 #### (B) Term
 
@@ -202,7 +202,7 @@ Subsec. (l). Pub. L. 113–188, §201(d)(2), redesignated subsec. (l) as (k).
 
 #### Technology Innovation Program
 
-Pub. L. 111–240, title IV, §4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: "In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), in addition to the award criteria set forthin subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection."
+Pub. L. 111–240, title IV, §4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: "In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection."
 
 #### Transition
 

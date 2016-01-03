@@ -64,11 +64,11 @@ In this chapter, the following definitions apply:
 
 &emsp;(18) The term "voluntary preparedness standards" means a common set of criteria for preparedness, disaster management, emergency management, and business continuity programs, such as the American National Standards Institute's National Fire Protection Association Standard on Disaster/Emergency Management and Business Continuity Programs (ANSI/NFPA 1600).
 
-(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943; Pub. L. 110–53, title V, §502(a), title IX, §901(d), Aug. 3, 2007, 121 Stat. 310, 371.)
+(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943; Pub. L. 110–53, title V, §502(a), title IX, §901(d), Aug. 3, 2007, 121 Stat. 310, 371.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Immigration and Nationality Act, referred to in par. (17)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -85,6 +85,14 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–113, div. N, title II, §201, Dec. 18, 2015, 129 Stat. 2956, provided that: "This subtitle \[subtitle A (§§201–211) of title II of div. N of Pub. L. 114–113, amending sections 131, 148, and 149 of this title and enacting provisions set out as notes under section 131 of this title\] may be cited as the 'National Cybersecurity Protection Advancement Act of 2015'."
+
+Pub. L. 114–80, §1, Nov. 5, 2015, 129 Stat. 646, provided that: "This Act \[enacting section 195d of this title\] may be cited as the 'DHS Social Media Improvement Act of 2015'."
+
+Pub. L. 114–22, title III, §301, May 29, 2015, 129 Stat. 251, provided that: "This title \[enacting section 473 of this title and section 2421 of Title 18, Crimes and Criminal Procedure, amending section 187 of this title, repealing former section 2421 of Title 18, and enacting provisions set out as a note under section 473 of this title\] may be cited as the 'Human Exploitation Rescue Operations Act of 2015' or the 'HERO Act of 2015'."
 
 #### Short Title of 2014 Amendment
 
@@ -142,7 +150,7 @@ Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: "This Act 
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The PublicHealth and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
 
 #### Short Title
 

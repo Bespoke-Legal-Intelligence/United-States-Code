@@ -112,7 +112,7 @@ For purposes of this section, if—
 
 > then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552, §1397B; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat.1877; Pub. L. 105–34, title IX, §956(a), Aug. 5, 1997, 111 Stat. 890; Pub. L. 106–170, title V, §532(c)(4), Dec. 17, 1999, 113 Stat. 1931; renumbered §1397C, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-602.)
 
 #### Prior Provisions
 

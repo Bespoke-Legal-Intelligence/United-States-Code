@@ -44,7 +44,7 @@ Proc. No. 3542, June 11, 1963, 28 F.R. 5707, commanded the Governor of the State
 
 #### Proc. No. 3554. Obstruction of Justice in the State of Alabama
 
-Proc. No. 3554, Sept. 10, 1963, 28 F.R. 9861, commanded all persons obstructing the enforcement of orders entered by the United States District Courts in the State of Alabama relating to the enrollment and attendance of students in public schools in that State to cease anddesist therefrom and to disperse and retire peaceably forthwith.
+Proc. No. 3554, Sept. 10, 1963, 28 F.R. 9861, commanded all persons obstructing the enforcement of orders entered by the United States District Courts in the State of Alabama relating to the enrollment and attendance of students in public schools in that State to cease and desist therefrom and to disperse and retire peaceably forthwith.
 
 #### Proc. No. 3645. Obstruction of Justice in the State of Alabama
 
@@ -56,7 +56,7 @@ Proc. No. 3795, July 26, 1967, 32 F.R. 10905, commanded all persons engaged in d
 
 #### Proc. No. 3840. Obstruction of Justice in the Washington Metropolitan Area
 
-Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening the Washington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening theWashington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3841. Obstruction of Justice in the State of Illinois
 

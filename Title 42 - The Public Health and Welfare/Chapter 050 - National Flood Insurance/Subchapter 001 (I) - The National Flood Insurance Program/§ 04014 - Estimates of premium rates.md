@@ -2,7 +2,7 @@
 
 #### (a) Studies and investigations
 
-The Administrator is authorized to undertake and carry out such studies and investigations and receive or exchange such information as may be necessary to estimate, and shall from time to time estimate, on an area, subdivision, or other appropriate basis—
+The Administrator is authorized to undertake and carry out such studies and investigationsand receive or exchange such information as may be necessary to estimate, and shall from time to time estimate, on an area, subdivision, or other appropriate basis—
 
 &emsp;(1) the risk premium rates for flood insurance which—
 
@@ -54,7 +54,7 @@ In carrying out subsection (a) of this section, the Administrator shall, to the 
 
 #### (c) Priority to studies and investigations in States or areas evidencing positive interest in securing insurance under program
 
-The Administrator shall give priority to conducting studies and investigations and makingestimates under this section in those States or areas (or subdivisions thereof) which he has determined have evidenced a positive interest in securing flood insurance coverage under the flood insurance program.
+The Administrator shall give priority to conducting studies and investigations and making estimates under this section in those States or areas (or subdivisions thereof) which he has determined have evidenced a positive interest in securing flood insurance coverage under the flood insurance program.
 
 #### (d) Parishes of Louisiana; premium rates
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, this subsection shall apply to river
 
 The Administrator shall not provide flood insurance to prospective insureds at rates less than those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
 
-&emsp;(1) any policy under the flood insurance program that has lapsed in coverage,,<sup>1</sup> unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result ofthe property covered by the policy no longer being required to retain such coverage; or
+&emsp;(1) any policy under the flood insurance program that has lapsed in coverage,,<sup>1</sup> unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage; or
 
 &emsp;(2) any prospective insured who refuses to accept any offer for mitigation assistance by the Administrator (including an offer to relocate), including an offer of mitigation assistance—
 
@@ -250,7 +250,7 @@ Considerations.—In determining whether a flood protection system has been asse
 
 &emsp;&emsp;"(C)
 
-Date of commencement.—For purposes of subparagraph (A)(iv) of this paragraph and subsection (b)(2)(B), the date of commencement of the reconstruction or improvement of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act\[July 6, 2012\] shall be deemed to be the date on which the owner of the flood protection system submits a request under paragraph (3).
+Date of commencement.—For purposes of subparagraph (A)(iv) of this paragraph and subsection (b)(2)(B), the date of commencement of the reconstruction or improvement of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act \[July 6, 2012\] shall be deemed to be the date on which the owner of the flood protection system submits a request under paragraph (3).
 
 &emsp;"(3)
 
@@ -340,7 +340,7 @@ Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the 
 
 #### Sea Level Rise Study
 
-Pub. L. 101–137, §5, Nov. 3, 1989, 103 Stat. 825, directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sealevel rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
+Pub. L. 101–137, §5, Nov. 3, 1989, 103 Stat. 825, directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sea level rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

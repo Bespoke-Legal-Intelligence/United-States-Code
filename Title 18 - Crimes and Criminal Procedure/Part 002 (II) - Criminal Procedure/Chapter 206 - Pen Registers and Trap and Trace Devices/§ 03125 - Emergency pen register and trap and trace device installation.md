@@ -12,11 +12,11 @@
 
 &emsp;&emsp;(D) an ongoing attack on a protected computer (as defined in section 1030) that constitutes a crime punishable by a term of imprisonment greater than one year;
 
-> &emsp;that requires the installation and use of a pen register or a trap and trace device before anorder authorizing such installation and use can, with due diligence, be obtained, and
+> &emsp;that requires the installation and use of a pen register or a trap and trace device before an order authorizing such installation and use can, with due diligence, be obtained, and
 
 &emsp;(2) there are grounds upon which an order could be entered under this chapter to authorize such installation and use;
 
-> may have installed and use a pen register or trap and trace device if, within forty-eight hours after the installation has occurred, or begins to occur, an order approving the installation or use is issued in accordance with section 3123 of this title.
+> may have installed and use a pen register or trap and trace device if, within forty-eight hours after the installation has occurred, or begins tooccur, an order approving the installation or use is issued in accordance with section 3123 of this title.
 
 (b) In the absence of an authorizing order, such use shall immediately terminate when the information sought is obtained, when the application for the order is denied or when forty-eight hours have lapsed since the installation of the pen register or trap and trace device, whichever is earlier.
 

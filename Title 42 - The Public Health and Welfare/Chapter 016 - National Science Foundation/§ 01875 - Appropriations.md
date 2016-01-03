@@ -6,7 +6,7 @@ To enable the Foundation to carry out its powers and duties, only such sums may 
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–516 amended subsec. (a) generally, striking out specific dollar amounts for fiscal yearsending June 30, 1969, and June 30, 1970, reference to subsequent fiscal years, and provisions relating to sums as additional to sums under section 1122(b)(1) of title 33, and struck out subsec. (b) which related to availability of sums for obligation and expenditure.
+<b>1980</b>—Pub. L. 96–516 amended subsec. (a) generally, striking out specific dollar amounts for fiscal years ending June 30, 1969, and June 30, 1970, reference to subsequent fiscal years, and provisions relating to sums as additional to sums under section 1122(b)(1) of title 33, and struck out subsec. (b) which related to availability of sums for obligation and expenditure.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–407, §14, substituted provisions authorizing the appropriation of funds for the fiscal year ending June 30, 1969, June 30, 1970, and each subsequent fiscal year, such sums to be in addition to sums authorized by section 1122(b)(1) of title 33, for provisions authorizing the appropriation of such sums as may be necessary to carry out the provisions of this chapter out of any money in the Treasury not otherwise appropriated.
 

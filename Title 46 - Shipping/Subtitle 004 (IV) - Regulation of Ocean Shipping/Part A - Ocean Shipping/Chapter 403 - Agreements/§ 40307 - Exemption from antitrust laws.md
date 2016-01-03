@@ -40,7 +40,7 @@ Retroactive Effect of Determinations.—A determination by an agency or court th
 
 (d)
 
-Relief Under Clayton Act.—A person may not recover damages under section 4 of the Clayton Act (15 U.S.C. 15), or obtain injunctive relief under section 16 of that Act (15 U.S.C. 26), for conduct prohibited by this part.
+Relief Under Clayton Act.—A person may not recover damages under section 4 of the Clayton Act (15 U.S.C. 15), or obtain injunctiverelief under section 16 of that Act (15 U.S.C. 26), for conduct prohibited by this part.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1531.)
 

@@ -34,7 +34,7 @@
 
 &emsp;In granting mortgages under the pilot program established pursuant to this subsection, the Secretary shall grant mortgagees the authority—
 
-&emsp;&emsp;(A) to permit the final loan amount to exceed the loan limits established under titleII of the National Housing Act \[12 U.S.C. 1707 et seq.\] by an amount not to exceed 100 percent of the cost of the cost-effective energy efficiency improvements, if the mortgagor's request to add the cost of such improvements is received by the mortgagee prior to funding of the base loan;
+&emsp;&emsp;(A) to permit the final loan amount to exceed the loan limits established under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] by an amount not to exceed 100 percent of the cost of the cost-effective energy efficiency improvements, if the mortgagor's request to add the cost of such improvements is received by the mortgagee prior to funding of the base loan;
 
 &emsp;&emsp;(B) to hold in escrow all funds provided to the mortgagor to undertake the energy efficiency improvements until the efficiency improvements are actually installed; and
 
@@ -90,7 +90,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (a)(2)(A), (D), (3)(A), (4)(C), and (c)(1), is act June 27,1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a)(2)(A), (D), (3)(A), (4)(C), and (c)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Codification
 

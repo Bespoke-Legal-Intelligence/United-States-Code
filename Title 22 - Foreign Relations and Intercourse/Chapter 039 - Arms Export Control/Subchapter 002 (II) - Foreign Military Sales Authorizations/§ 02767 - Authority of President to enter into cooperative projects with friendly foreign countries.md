@@ -70,7 +70,7 @@ The authority under this section is in addition to the authority under sections 
 
 (1) With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>4</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
 
-(2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>4</sup> of that amendment.
+(2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Securityand Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>4</sup> of that amendment.
 
 #### (j) Cooperative project agreements with friendly foreign countries not members of NATO
 
@@ -90,7 +90,7 @@ The amendment made to this section made by the International Security and Develo
 
 #### Codification
 
-Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation incooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 39 of House Document No. 103–7.
+Subsec. (j)(2) of this section, which required the President to submit to certain committees of Congress an annual report specifying countries eligible, and criteria used to determine eligibility, for participation in cooperative project agreements under subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 39 of House Document No. 103–7.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Assessment of Risk Required.—
 
 &emsp;"(1)
 
-In general.—Not later than two days after the President transmits a certification to Congress pursuant to section 27(f) of the Arms Export Control Act (22 U.S.C. 2767(f)) regarding a proposed cooperative project agreement that is expected to result in the award of a Department of Defense contract for the engineering and manufacturing development of a major weapon system, the Secretary of Defense shall submit to the Chairmen of the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a risk assessment of the proposed cooperative project.
+In general.—Not later than two days after the President transmits a certification to Congress pursuant to section 27(f) of the Arms Export Control Act (22 U.S.C. 2767(f)) regarding a proposed cooperativeproject agreement that is expected to result in the award of a Department of Defense contract for the engineering and manufacturing development of a major weapon system, the Secretary of Defense shall submit to the Chairmen of the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a risk assessment of the proposed cooperative project.
 
 &emsp;"(2)
 

@@ -38,7 +38,7 @@ Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted "a noncustod
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or any succeeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
+Amendment by Pub. L. 105–200 applicable to information maintained with respect to fiscal year 1995 or anysucceeding fiscal year, see section 407(c) of Pub. L. 105–200, set out as a note under section 652 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -48,5 +48,5 @@ For effective date of amendment by section 395(d)(2)(E) of Pub. L. 104–193, se
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VIII, §8105, Nov. 10, 1988, 102 Stat. 3797, provided that the amendment made by thatsection is effective on date of enactment of Family Support Act of 1988, Pub. L. 100–485, which was approved Oct. 13, 1988.
+Pub. L. 100–647, title VIII, §8105, Nov. 10, 1988, 102 Stat. 3797, provided that the amendment made by that section is effective on date of enactment of Family Support Act of 1988, Pub. L. 100–485, which was approved Oct. 13, 1988.
 

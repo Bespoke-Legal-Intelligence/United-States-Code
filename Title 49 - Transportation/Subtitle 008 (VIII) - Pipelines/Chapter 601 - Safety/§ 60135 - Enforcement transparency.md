@@ -4,7 +4,7 @@
 
 In General.—Not later than December 31, 2007, the Secretary shall—
 
-&emsp;(1) provide a monthly updated summary to the public of all gas and hazardous liquid pipeline enforcement actions taken by the Secretary or the Pipeline and Hazardous Materials Safety Administration, from the time anotice commencing an enforcement action is issued until the enforcement action is final;
+&emsp;(1) provide a monthly updated summary to the public of all gas and hazardous liquid pipeline enforcement actions taken by the Secretary or the Pipeline and Hazardous Materials Safety Administration, from the time a notice commencing an enforcement action is issued until the enforcement action is final;
 
 &emsp;(2) include in each such summary identification of the operator involved in the enforcement activity, the type of alleged violation, the penalty or penalties proposed, any changes in case status since the previous summary, the final assessment amount of each penalty, and the reasons for a reduction in the proposed penalty, if appropriate; and
 

@@ -32,7 +32,7 @@ Preventive Maintenance.—A preventive maintenance activity shall be eligible fo
 
 Subsec. (b). Pub. L. 112–141, §1507(1), (3), redesignated subsec. (a) as (b), inserted "or other direct recipient" before "to maintain", and struck out at end "The State's obligation to the United States to maintain any such project shall cease when it no longer constitutes a part of a Federal-aid system." Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 112–141, §1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formalagreement for its maintenance with the appropriate officials of the county or municipality in which such project is located."
+Subsec. (c). Pub. L. 112–141, §1507(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In any State wherein the State transportation department is without legal authority to maintain a project constructed on the Federal-aid secondary system, or within a municipality, such transportation department shall enter into a formal agreement for its maintenance with the appropriate officials of the county or municipality in which such project is located."
 
 Pub. L. 112–141, §1507(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
@@ -75,6 +75,32 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 Amendment by section 21(d)(2) of Pub. L. 86–70 effective July 1, 1959, see section 21(d) of Pub. L. 86–70, set out as a note under section 103 of this title.
 
 Amendment by section 21(e)(3) of Pub. L. 86–70 effective July 1, 1959, see section 21(e) of Pub. L. 86–70, set out as a note under section 101 of this title.
+
+#### Pilot Program
+
+Pub. L. 114–94, div. A, title I, §1424, Dec. 4, 2015, 129 Stat. 1425, provided that:
+
+"(a)
+
+In General.—The Administrator of the Federal Highway Administration (referred to in this section as the 'Administrator') may establish a pilot program that allows a State to utilize innovative approaches to maintain the right-of-way of Federal-aid highways within the State.
+
+"(b)
+
+Limitation.—A pilot program established under subsection (a) shall—
+
+&emsp;"(1) terminate after not more than 4 years;
+
+&emsp;"(2) include not more than 5 States; and
+
+&emsp;"(3) be subject to guidelines published by the Administrator.
+
+"(c)
+
+Report.—If the Administrator establishes a pilot program under subsection (a), the Administrator shall, not more than 1 year after the completion of the pilot program, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the pilot program.
+
+"(d)
+
+Savings Provision.—Nothing in this section may be construed to affect the requirements of section 111 of title 23, United States Code."
 
 #### Establishment of Minimum Federal Guidelines for Maintenance; Study by National Academy of Sciences and Report
 

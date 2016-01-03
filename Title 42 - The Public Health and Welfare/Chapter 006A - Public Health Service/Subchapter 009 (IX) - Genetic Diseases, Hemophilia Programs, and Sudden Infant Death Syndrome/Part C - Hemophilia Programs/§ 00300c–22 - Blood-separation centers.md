@@ -6,7 +6,7 @@ The Secretary may make grants to and enter into contracts with public and nonpro
 
 &emsp;(1) the term "blood components" means those constituents of whole blood which are used for therapy and which are obtained by physical separation processes which result in licensed products such as red blood cells, platelets, white blood cells, AHF-rich plasma, fresh-frozen plasma, cryoprecipitate, and single unit plasma for infusion; and
 
-&emsp;(2) the term "blood fractions" means those constituents of plasma which are used for therapy and which are obtained by licensed fractionation processes presently used in manufacturing which result in licensed products such as normal serum albumin, plasma, protein fraction, prothrombin complex, fibrinogen, AHF concentrate, immune serum globulin, and hyperimmune globulins.
+&emsp;(2) the term "blood fractions" means those constituents of plasma which are used fortherapy and which are obtained by licensed fractionation processes presently used in manufacturing which result in licensed products such as normal serum albumin, plasma, protein fraction, prothrombin complex, fibrinogen, AHF concentrate, immune serum globulin, and hyperimmune globulins.
 
 #### (b) Grants for alleviation of insufficient supplies of blood fractions
 
@@ -84,7 +84,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 In General.—If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:
 
-&emsp;"(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated withantihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
+&emsp;"(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
 
 &emsp;"(2) The individual—
 
@@ -100,7 +100,7 @@ Conditions.—The conditions described in this subsection are, with respect to a
 
 &emsp;"(1)
 
-Submission of medical documentation of hiv infection.—The individual submits to the Secretary written medical documentation that the individual has an HIV infection.
+Submission of medical documentation of hiv infection.—The individual submits to the Secretarywritten medical documentation that the individual has an HIV infection.
 
 &emsp;"(2)
 
@@ -208,7 +208,7 @@ One Petition With Respect to Each Victim.—With respect to each individual desc
 
 #### "SEC. 105. TIME LIMITATION.
 
-"The Secretary may not make any payment with respect to any petition filed under this title unless thepetition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
+"The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
 
 #### "SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.
 
@@ -216,7 +216,7 @@ One Petition With Respect to Each Victim.—With respect to each individual desc
 
 #### "SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.
 
-"Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
+"Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under thistitle, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
 
 #### "SEC. 108. DEFINITIONS.
 

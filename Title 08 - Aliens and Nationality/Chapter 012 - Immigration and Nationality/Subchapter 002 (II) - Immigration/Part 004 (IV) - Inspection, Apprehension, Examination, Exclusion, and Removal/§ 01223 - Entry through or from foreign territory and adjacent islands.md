@@ -2,11 +2,11 @@
 
 #### (a) Necessity of transportation contract
 
-The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has entered into any such contracts which may be required by the Attorney General.
+The Attorney General shall have power to enter into contracts with transportation lines for the inspection and admission of aliens coming to the United States from foreign territory or from adjacent islands. No such transportation line shall be allowed to land any such alien in the United States until and unless it has enteredinto any such contracts which may be required by the Attorney General.
 
 #### (b) Landing stations
 
-Every transportation line engaged in carrying alien passengers for hire to the United States from foreign territory or from adjacent islandsshall provide and maintain at its expense suitable landing stations, approved by the Attorney General, conveniently located at the point or points of entry. No such transportation line shall be allowed to land any alien passengers in the United States until such landing stations are provided, and unless such stations are thereafter maintained to the satisfaction of the Attorney General.
+Every transportation line engaged in carrying alien passengers for hire to the United States from foreign territory or from adjacent islands shall provide and maintain at its expense suitable landing stations, approved by the Attorney General, conveniently located at the point or points of entry. No such transportation line shall be allowed to land any alien passengers in the United States until such landing stations are provided, and unless such stations are thereafter maintained to the satisfaction of the Attorney General.
 
 #### (c) Landing agreements
 

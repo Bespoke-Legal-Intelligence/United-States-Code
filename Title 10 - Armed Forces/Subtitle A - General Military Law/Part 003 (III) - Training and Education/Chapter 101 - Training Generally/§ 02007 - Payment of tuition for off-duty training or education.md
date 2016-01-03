@@ -32,7 +32,7 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
 
-(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, §553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, §687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, §521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102.)
+(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L.103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, §553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, §687(c)(3), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 110–181, div. A, title V, §521(a)–(d), Jan. 28, 2008, 122 Stat. 100–102.)
 
 #### Prior Provisions
 
@@ -136,7 +136,7 @@ Pub. L. 110–181, §521(c)(2)(B), redesignated subsec. (f) as (e).
 
 Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree."
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of thearmed forces enrolled in such institution for education or training during his off-duty periods, except that—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
 &emsp;"(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years' service, not more than 90 percent of the charges may be paid;
 

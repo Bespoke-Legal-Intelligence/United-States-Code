@@ -116,7 +116,7 @@ If—
 
 #### (6) Uncompensated use of trust property treated as a payment
 
-&emsp;For purposes of this subsection, a loan of cash or marketable securities (or the use ofany other trust property) directly or indirectly to or by any United States person (whether or not a beneficiary under the terms of the trust) shall be treated as paid or accumulated for the benefit of a United States person. The preceding sentence shall not apply to the extent that the United States person repays the loan at a market rate of interest (or pays the fair market value of the use of such property) within a reasonable period of time.
+&emsp;For purposes of this subsection, a loan of cash or marketable securities (or the use of any other trust property) directly or indirectly to or by any United States person (whether or not a beneficiary under the terms of the trust) shall be treated as paid or accumulated for the benefit of a United States person. The preceding sentence shall not apply to the extent that the United States person repays the loan at a market rate of interest (or pays the fair market value of the use of such property) within a reasonable period of time.
 
 #### (d) Presumption that foreign trust has United States beneficiary
 

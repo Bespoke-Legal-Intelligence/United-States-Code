@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected financial institutions, the Board of Governors shall, on its own or pursuant to recommendations by the Council under section 5325 of this title, establish prudential standards for nonbank financial companies supervised by the Board of Governors and bankholding companies with total consolidated assets equal to or greater than $50,000,000,000 that—
+&emsp;In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected financial institutions, the Board of Governors shall, on its own or pursuant to recommendations by the Council under section 5325 of this title, establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies with total consolidated assets equal to or greater than $50,000,000,000 that—
 
 &emsp;&emsp;(A) are more stringent than the standards and requirements applicable to nonbank financial companies and bank holding companies that do not present similar risks to the financial stability of the United States; and
 

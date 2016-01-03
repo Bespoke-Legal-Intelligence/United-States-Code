@@ -12,7 +12,7 @@ The Attorney General shall pay to each State or specifically <sup>1</sup> quali
 
 #### (1) Repayment required
 
-&emsp;From amounts awarded under this subchapter, a State or specially qualified unit shall repay to the Attorney General, before the expiration of the 36-month period beginning on the date of the award, any amount that is not expended by such State or unit.
+&emsp;From amounts awarded under this subchapter, a State or specially qualified unitshall repay to the Attorney General, before the expiration of the 36-month period beginning on the date of the award, any amount that is not expended by such State or unit.
 
 #### (2) Extension
 

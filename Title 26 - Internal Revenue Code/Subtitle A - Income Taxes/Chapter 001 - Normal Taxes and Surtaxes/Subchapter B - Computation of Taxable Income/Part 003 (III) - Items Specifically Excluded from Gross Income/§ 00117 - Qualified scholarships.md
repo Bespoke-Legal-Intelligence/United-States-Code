@@ -30,9 +30,11 @@ For purposes of this section—
 
 &emsp;Paragraph (1) shall not apply to any amount received by an individual under—
 
-&emsp;&emsp;(A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act, or
+&emsp;&emsp;(A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act,
 
-&emsp;&emsp;(B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code.
+&emsp;&emsp;(B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code, or
+
+&emsp;&emsp;(C) a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in such section).
 
 #### (d) Qualified tuition reduction
 
@@ -58,13 +60,17 @@ For purposes of this section—
 
 &emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase "(below the graduate level)".
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 107–16, title IV, §413(a), June 7, 2001, 115 Stat. 64.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 107–16, title IV, §413(a), June 7, 2001, 115 Stat. 64; Pub. L. 114–113, div. Q, title III, §301(a), Dec. 18, 2015, 129 Stat. 3086.)
 
 #### References in Text
 
 Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254l(g)(1)(A) of Title 42, The Public Health and Welfare.
 
+Section 448(e) of the Higher Education Act of 1965, referred to in subsec. (c)(2)(C), is classified to section 2756b(e) of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(2)(C). Pub. L. 114–113 added subpar. (C).
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–16 designated existing provisions as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), subsections (a)" for "Subsections (a)", and added par. (2).
 
@@ -122,6 +128,10 @@ Subsec. (b)(2)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted "educational o
 
 <b>1961</b>—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §301(b), Dec. 18, 2015, 129 Stat. 3086, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after the date of the enactment of this Act \[Dec. 18, 2015\]."
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–16, title IV, §413(b), June 7, 2001, 115 Stat. 64, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 2001."
@@ -132,7 +142,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -6,7 +6,7 @@ The President is authorized to carry out programs in furtherance of the purposes
 
 #### (b) Authorization of appropriations
 
-(1) There are authorized to be appropriated to carry out the purposes of this chapter $270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003.
+(1) There are authorized to be appropriated to carry out the purposes of this chapter$270,000,000 for fiscal year 2000, $298,000,000 for fiscal year 2001, $327,000,000 for fiscal year 2002, and $365,000,000 for fiscal year 2003.
 
 (2) Amounts authorized to be appropriated under paragraph (1) for a fiscal year are authorized to remain available for that fiscal year and the subsequent fiscal year.
 
@@ -26,7 +26,7 @@ In recognition of the fact that women in developing countries play a significant
 
 In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
-(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L.88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
+(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
 
 #### References in Text
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 96–533, §601(b), substituted "1981" for "1980".
 
 Subsec. (c). Pub. L. 96–53, §301(2), substituted "1980" for "1978, $1,069,000, and for fiscal year 1979".
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+<b>1978</b>—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
 Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 

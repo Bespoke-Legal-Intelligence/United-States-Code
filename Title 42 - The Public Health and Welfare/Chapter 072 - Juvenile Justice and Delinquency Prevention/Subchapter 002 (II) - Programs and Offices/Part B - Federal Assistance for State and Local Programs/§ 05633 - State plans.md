@@ -78,7 +78,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(iii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
 
-&emsp;&emsp;(iv) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
+&emsp;&emsp;(iv) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information onhow such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
 
 &emsp;(8) provide for the coordination and maximum utilization of existing juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
 
@@ -112,7 +112,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(I) the instruction that juveniles receive outside school is closely aligned with the instruction provided in school; and
 
-&emsp;&emsp;&emsp;&emsp;(II) information regarding any learning problems identified in such alternativelearning situations are communicated to the schools;
+&emsp;&emsp;&emsp;&emsp;(II) information regarding any learning problems identified in such alternative learning situations are communicated to the schools;
 
 &emsp;&emsp;(F) expanding the use of probation officers—
 
@@ -210,7 +210,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(I) such juveniles do not have contact with adult inmates; and
 
-&emsp;&emsp;&emsp;&emsp;(II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have been trained and certified to work with juveniles; and
+&emsp;&emsp;&emsp;&emsp;(II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have beentrained and certified to work with juveniles; and
 
 &emsp;&emsp;&emsp;(ii) that—
 
@@ -236,7 +236,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) no such activity that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization involved;
 
-&emsp;(19) provide for such fiscal control and fund accounting procedures necessary to assureprudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
+&emsp;(19) provide for such fiscal control and fund accounting procedures necessary to assure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
 
 &emsp;(20) provide reasonable assurance that Federal funds made available under this part for any period will be so used as to supplement and increase (but not supplant) the level of the State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this part, and will in no event replace such State, local, and other non-Federal funds;
 
@@ -294,7 +294,7 @@ If a State fails to comply with any of the applicable requirements of paragraphs
 
 &emsp;&emsp;&emsp;(i) has achieved substantial compliance with such applicable requirements with respect to which the State was not in compliance; and
 
-&emsp;&emsp;&emsp;(ii) has made, through appropriate executive or legislative action, an unequivocalcommitment to achieving full compliance with such applicable requirements within a reasonable time.
+&emsp;&emsp;&emsp;(ii) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance with such applicable requirements within a reasonable time.
 
 #### (d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds
 
@@ -350,7 +350,7 @@ Subsec. (a)(5). Pub. L. 107–273, §12209(1)(C)(i), substituted "reduced by the
 
 Subsec. (a)(5)(C). Pub. L. 107–273, §12209(1)(C)(ii), substituted "paragraphs (11), (12), and (13)" for "paragraphs (12)(A), (13), and (14)".
 
-Subsec. (a)(6). Pub. L. 107–273, §12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to thatagency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the 'local agency') which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;".
+Subsec. (a)(6). Pub. L. 107–273, §12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the 'local agency') which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;".
 
 Subsec. (a)(7). Pub. L. 107–273, §12209(1)(S), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
@@ -448,7 +448,7 @@ Pub. L. 107–273, §12209(1)(K), amended par. (14) generally. Prior to amendmen
 
 &emsp;"(ii) have no existing acceptable alternative placement available;
 
-&emsp;"(B) are located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
+&emsp;"(B) are located where conditions of distance to be traveled or the lack of highway, road, or otherground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
 
 &emsp;"(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;".
 
@@ -592,7 +592,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted "agency described in 
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out "(hereafter referred to in this part as the 'State criminal justice council')" before "has or will have authority".
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a special focus on maintaining and strengthening the family unit", designated provisions following "which utilize" as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following "representatives of private organizations" as cl. (i) and inserted ", including those with a specialfocus on maintaining and strengthening the family unit", designated provisions following "which utilize" as cl. (ii) and inserted "representatives of organizations which", added cl. (iii), designated provisions following "business groups" as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted "family, school violence and vandalism, and learning disabilities," for "school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,".
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted "agency designated under paragraph (1)" for "criminal justice council" in three places.
 
@@ -658,7 +658,7 @@ Subsec. (a)(3)(F). Pub. L. 96–509, §§11(a)(5), (6), 19(g)(4), substituted in
 
 Subsec. (a)(8). Pub. L. 96–509, §11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, §11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to "secure" juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committedserious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
 Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 
@@ -692,7 +692,7 @@ Subsec. (a)(22). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(10), redesignated for
 
 Subsec. (b). Pub. L. 96–509, §19(g)(12), substituted "criminal justice council" for "planning agency".
 
-Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined "substantial compliance" with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juvenileswho are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined "substantial compliance" with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
 Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
@@ -764,7 +764,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 Pub. L. 95–115, §4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052, provided in part that the amendment of subsec. (a)(5) of this section, which substituted "5632(d)" for "5632(e)", by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
-Pub. L. 95–115, §4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part that the amendment of subsec. (a)(10) of this section, which substituted "5632(d)" for"5632(e)", by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Pub. L. 95–115, §4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part that the amendment of subsec. (a)(10) of this section, which substituted "5632(d)" for "5632(e)", by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 #### Savings Provision
 

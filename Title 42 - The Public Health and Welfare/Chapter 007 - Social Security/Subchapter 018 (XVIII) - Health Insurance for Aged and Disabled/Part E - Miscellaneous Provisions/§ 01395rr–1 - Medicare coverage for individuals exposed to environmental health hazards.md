@@ -56,7 +56,7 @@
 
 #### (5) Limitation
 
-&emsp;Consistent with section 1395y(b) of this title, no payment shall be made under the pilot program under this subsection with respect tobenefits, items, or services furnished to an environmental exposure affected individual (as defined in subsection (e)) to the extent that such individual is eligible to receive such benefits, items, or services through any other public or private benefits plan or legal agreement.
+&emsp;Consistent with section 1395y(b) of this title, no payment shall be made under the pilot program under this subsection with respect to benefits, items, or services furnished to an environmental exposure affected individual (as defined in subsection (e)) to the extent that such individual is eligible to receive such benefits, items, or services through any other public or private benefits plan or legal agreement.
 
 #### (6) Waiver authority
 
@@ -144,7 +144,7 @@ For purposes of this section, the term "emergency declaration" means a declarati
 
 &emsp;&emsp;(C) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject to the emergency declaration involved, during a period determined appropriate by the Secretary;
 
-&emsp;&emsp;(D) files an application for benefits under this subchapter (or has an application filedon behalf of the individual), including pursuant to this section; and
+&emsp;&emsp;(D) files an application for benefits under this subchapter (or has an application filed on behalf of the individual), including pursuant to this section; and
 
 &emsp;&emsp;(E) is determined under this section to meet the criteria in this paragraph.
 

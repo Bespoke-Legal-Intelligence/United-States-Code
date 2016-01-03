@@ -40,11 +40,11 @@
 
 (2) Such allowance shall be paid quarterly on a pro rata basis for the lessons completed by the individual and serviced by the institution.
 
-(3) In each case in which the rate of payment to an individual is determined under paragraph (1) of this subsection, the period of entitlement of such individual under this chapter shall be charged at the rate of one month for each payment of educational assistance to the individual that is equal to the amount of monthly educational assistance the individual would otherwise be eligible to receive for full-time pursuit of an institutional course under this chapter.
+(3) In each case in which the rate of payment to an individual is determined under paragraph (1) of this subsection, the period of entitlement of such individual under this chapter shall becharged at the rate of one month for each payment of educational assistance to the individual that is equal to the amount of monthly educational assistance the individual would otherwise be eligible to receive for full-time pursuit of an institutional course under this chapter.
 
 (e)(1) Notwithstanding subsection (a) of this section, each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 3034(d) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
-(2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification ofthe flight training received by the individual during that month and the tuition and other fees charged for that training.
+(2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
 (3) The number of months of entitlement charged in the case of any individual for a program of education described in paragraph (1) of this subsection shall be equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such program by the monthly rate of educational assistance which, except for paragraph (1) of this subsection, such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
 
@@ -96,7 +96,7 @@ Pub. L. 102–16 substituted "(c), or (d)(1)" for "or (c)".
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–237 added subsec. (f).
 
-<b>1988</b>—Subsec. (c)(3)(A). Pub. L. 100–689, §111(a)(8)(A), (B), designated existing provision as subpar. (A) and substituted "Except as provided in subparagraph (B) of this paragraph, for" for "For", and redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively.
+<b>1988</b>—Subsec. (c)(3)(A). Pub. L. 100–689, §111(a)(8)(A), (B), designated existing provision as subpar. (A) andsubstituted "Except as provided in subparagraph (B) of this paragraph, for" for "For", and redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively.
 
 Subsec. (c)(3)(B). Pub. L. 100–689, §111(a)(8)(C), added subpar. (B).
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediate
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–419, title I, §122(d), Nov. 1, 2000, 114 Stat. 1837, provided that: "The amendments made by this section \[enacting section 3689 of this title and amending this section and sections 3232, 3452, 3482, 3501, and3532 of this title\] shall take effect on March 1, 2001, and shall apply with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date."
+Pub. L. 106–419, title I, §122(d), Nov. 1, 2000, 114 Stat. 1837, provided that: "The amendments made by this section \[enacting section 3689 of this title and amending this section and sections 3232, 3452, 3482, 3501, and 3532 of this title\] shall take effect on March 1, 2001, and shall apply with respect to licensing and certification tests approved by the Secretary of Veterans Affairs on or after such date."
 
 #### Effective Date of 1992 Amendment
 

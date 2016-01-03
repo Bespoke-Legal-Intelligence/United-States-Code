@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securitiesexchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) third as made out of the capital account.
 
-> &emsp;For purposes of this section, items withdrawn from any account shall be treated as withdrawn on a first-in-first-out basis; except that (i) any nonqualified withdrawal for research,development, and design expenses incident to new and advanced ship design, machinery and equipment, and (ii) any amount treated as a nonqualified withdrawal under the second sentence of subsection (f)(4), shall be treated as withdrawn on a last-in-first-out basis.
+> &emsp;For purposes of this section, items withdrawn from any account shall be treated as withdrawn on a first-in-first-out basis; except that (i) any nonqualified withdrawal for research, development, and design expenses incident to new and advanced ship design, machinery and equipment, and (ii) any amount treated as a nonqualified withdrawal under the second sentence of subsection (f)(4), shall be treated as withdrawn on a last-in-first-out basis.
 
 #### (3) Operating rules
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (4) Interest rate
 
-&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+&emsp;For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualifiedwithdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
 
 #### (5) Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (B) Tax benefit rule
 
-&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which didnot reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
+&emsp;&emsp;If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer's liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
 
 &emsp;&emsp;&emsp;(i) such portion shall not be taken into account under subparagraph (A), and
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 99–514, title II, §261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: "The amendments made by this section \[enacting this section and amending section 26of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title II, §261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: "The amendments made by this section \[enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986."
 
 #### Merchant Marine Capital Construction Funds
 

@@ -50,7 +50,7 @@
 
 #### (3) Financial incentive
 
-&emsp;The Administrator may award to a State that develops and implements requirementsdescribed in paragraph (1), in addition to any funds that the State is entitled to receive under this subchapter, not more than $200,000, to be used to carry out the requirements.
+&emsp;The Administrator may award to a State that develops and implements requirements described in paragraph (1), in addition to any funds that the State is entitled to receive under this subchapter, not more than $200,000, to be used to carry out the requirements.
 
 #### (c) Training
 

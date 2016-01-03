@@ -54,6 +54,8 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 #### Definitions
 
+Pub. L. 114–59, §2, Oct. 7, 2015, 129 Stat. 540, provided that: "For purposes of carrying out STEM educationactivities at the National Science Foundation, the Department of Energy, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and the Environmental Protection Agency, the term 'STEM education' means education in the subjects of science, technology, engineering, and mathematics, including computer science."
+
 Pub. L. 111–358, §2, Jan. 4, 2011, 124 Stat. 3984, provided that: "In this Act \[see Tables for classification\]:
 
 &emsp;"(1)

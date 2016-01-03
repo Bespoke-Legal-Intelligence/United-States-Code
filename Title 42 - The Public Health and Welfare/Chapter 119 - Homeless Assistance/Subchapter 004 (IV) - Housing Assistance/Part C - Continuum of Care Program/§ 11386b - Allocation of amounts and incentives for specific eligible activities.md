@@ -12,7 +12,7 @@
 
 #### (3) Adjustment
 
-&emsp;The 30 percent figure in paragraph (1) shall be reduced proportionately based on needunder section 11386a(b)(2) of this title in geographic areas for which subsection (e) applies in regard to subsection (d)(2)(A).
+&emsp;The 30 percent figure in paragraph (1) shall be reduced proportionately based on need under section 11386a(b)(2) of this title in geographic areas for which subsection (e) applies in regard to subsection (d)(2)(A).
 
 #### (4) Suspension
 

@@ -24,7 +24,7 @@ If the interest is transferred to the donee spouse as sole joint tenant with the
 
 #### (e) Life estate with power of appointment in donee spouse
 
-Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
+Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with nopower in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
 
 &emsp;(1) the interest, or such portion, so transferred shall, for purposes of subsection (a) be considered as transferred to the donee spouse, and
 
@@ -114,7 +114,7 @@ If the spouse of the donor is not a citizen of the United States—
 
 &emsp;(1) no deduction shall be allowed under this section,
 
-&emsp;(2) section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section but for paragraph (1) by substituting "$100,000" for "$10,000", and
+&emsp;(2) section 2503(b) shall be applied with respect to gifts which are made by the donor to such spouse and with respect to which a deduction would be allowable under this section butfor paragraph (1) by substituting "$100,000" for "$10,000", and
 
 &emsp;(3) the principles of sections 2515 and 2515A (as such sections were in effect before their repeal by the Economic Recovery Tax Act of 1981) shall apply, except that the provisions of such section 2515 providing for an election shall not apply.
 
@@ -190,7 +190,7 @@ Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherw
 
 Pub. L. 100–647, title V, §5033(d)(2), Nov. 10, 1988, 102 Stat. 3673, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to gifts on or after July 14, 1988."
 
-Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the case of any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
+Amendment by section 6152(b) of Pub. L. 100–647 applicable to transfers after Dec. 31, 1981, and, in the caseof any estate or gift tax return filed before Nov. 10, 1988, such amendment inapplicable to the extent it would be inconsistent with the treatment of the annuity on such return unless executor or donor otherwise elects before the day 2 years after Nov. 10, 1988, the time for making such an election not to expire before such date, see section 6152(c), of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of aforeign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

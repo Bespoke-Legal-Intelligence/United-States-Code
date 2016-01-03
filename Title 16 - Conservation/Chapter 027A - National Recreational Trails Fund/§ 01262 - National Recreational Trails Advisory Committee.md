@@ -36,11 +36,11 @@ There shall be 12 members of the advisory committee, consisting of—
 
 #### (c) Chairman
 
-The Chair of the advisory committee shall be the government official referenced in subsection (b)(3) of this section, who shall serve as a non-voting member.
+The Chair of the advisory committee shall be the government official referenced in subsection (b)(3), who shall serve as a non-voting member.
 
 #### (d) Support for committee action
 
-Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1) of this section.
+Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1).
 
 #### (e) Terms
 
@@ -66,7 +66,7 @@ Nongovernmental members of the advisory committee shall serve without pay, but, 
 
 #### (i) Report to Congress
 
-Not later than 4 years after December 18, 1991, the Secretary shall prepare and submit to the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, a study which summarizes the annual reports of the National Recreational TrailsAdvisory Committee, describes the allocation and utilization of moneys under this chapter, and contains recommendations for changes in Federal policy to advance the purposes of this chapter.
+Not later than 4 years after December 18, 1991, the Secretary shall prepare and submit to the Committee on Environment and Public Works of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives, a study which summarizes the annual reports of the National Recreational Trails Advisory Committee, describes the allocation and utilization of moneys under this chapter, and contains recommendations for changes in Federal policy to advance the purposes of this chapter.
 
 #### (j) Termination
 

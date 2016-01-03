@@ -82,7 +82,7 @@ Documentation.—With respect to grants made under this subparagraph, the Secret
 
 &emsp;&emsp;&emsp;(II)
 
-Matching.—Notwithstanding any other provisions in this subsection, the Secretary may fund up to 100 percent of the eligible costs of grants provided under this subparagraph, as determined by the Secretary.
+Matching.—Notwithstanding any other provisions in this subsection, theSecretary may fund up to 100 percent of the eligible costs of grants provided under this subparagraph, as determined by the Secretary.
 
 &emsp;&emsp;(iii)
 
@@ -90,7 +90,7 @@ Funding.—The Secretary may use not more than 4 percent of the total amount of 
 
 &emsp;&emsp;(iv)
 
-Relationship to other authority.—The funds and authorities provided underthis subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in clause (i).
+Relationship to other authority.—The funds and authorities provided under this subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in clause (i).
 
 (3) No grant shall be made under paragraph (2) of this subsection in connection with any project unless the Secretary determines that the project (i) will serve a rural area which, if such project is carried out, is not likely to decline in population below that for which the project was designed, (ii) is designed and constructed so that adequate capacity will or can be made available to serve the present population of the area to the extent feasible and to serve the reasonably foreseeable growth needs of the area, and (iii) is necessary for an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan of the rural area.
 
@@ -126,7 +126,7 @@ Conformity with federal and state water pollution control standards.—No Federa
 
 (D) Of the sums authorized to be appropriated to carry out the provisions of this chapter, not more than $1,000,000 per year may be expended to carry out the provisions of this paragraph.
 
-(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrences the system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
+(13) In the making of loans and grants for community waste disposal and water facilities under paragraphs (1) and (2) of this subsection the Secretary shall accord highest priority to the application of any municipality or other public agency (including an Indian tribe on a Federal or State reservation or other federally recognized Indian tribal group) in a rural community having a population not in excess of five thousand five hundred and which, in the case of water facility loans, has a community water supply system, where the Secretary determines that due to unanticipated diminution or deterioration of its water supply, immediate action is needed, or in the case of waste disposal, has a community waste disposal system, where the Secretary determines that due to unanticipated occurrencesthe system is not adequate to the needs of the community. The Secretary shall utilize the Soil Conservation Service in rendering technical assistance to applicants under this paragraph to the extent he deems appropriate.
 
 (14)
 
@@ -206,7 +206,7 @@ Federal share.—Paragraph (19)(B) shall apply to a grant made under this paragr
 
 &emsp;(D)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary foreach subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
 
 &emsp;(E)
 
@@ -372,7 +372,7 @@ The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May
 
 For definition of "this chapter", referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), see note set out under section 1921 of this title.
 
-The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification ofthese Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
 
 Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
@@ -504,7 +504,7 @@ Subsec. (a)(16) to (19). Pub. L. 99–198 added pars. (16) to (19).
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–35 inserted provisions limiting grants for fiscal years after Sept. 30, 1981.
 
-<b>1980</b>—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms "rural" and "rural area" may include any area in any city ortown with a population not in excess of twenty thousand.
+<b>1980</b>—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms "rural" and "rural area" may include any area in any city or town with a population not in excess of twenty thousand.
 
 Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
@@ -566,7 +566,7 @@ Pub. L. 95–334, title I, §105, Aug. 4, 1978, 92 Stat. 421, provided that the 
 
 #### Effective Date of 1970 Amendments
 
-Pub. L. 91–617, §1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\]."
+Pub. L. 91–617, §1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\]."
 
 Amendment by Pub. L. 91–606 effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as a note under section 165 of Title 26, Internal Revenue Code.
 

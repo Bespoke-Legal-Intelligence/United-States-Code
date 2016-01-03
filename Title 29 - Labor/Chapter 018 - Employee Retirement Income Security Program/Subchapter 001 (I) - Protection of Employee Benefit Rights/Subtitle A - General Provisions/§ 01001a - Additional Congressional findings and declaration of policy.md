@@ -18,7 +18,7 @@ The Congress finds that—
 
 The Congress further finds that—
 
-&emsp;(1) it is desirable to modify the current multiemployer plan termination insuranceprovisions in order to increase the likelihood of protecting plan participants against benefit losses; and
+&emsp;(1) it is desirable to modify the current multiemployer plan termination insurance provisions in order to increase the likelihood of protecting plan participants against benefit losses; and
 
 &emsp;(2) it is desirable to replace the termination insurance program for multiemployer pension plans with an insolvency-based benefit protection program that will enhance the financial soundness of such plans, place primary emphasis on plan continuation, and contain program costs within reasonable limits.
 

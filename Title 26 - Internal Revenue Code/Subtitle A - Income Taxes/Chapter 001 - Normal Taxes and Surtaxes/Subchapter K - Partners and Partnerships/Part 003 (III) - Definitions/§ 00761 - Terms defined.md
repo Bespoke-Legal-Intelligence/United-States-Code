@@ -14,7 +14,7 @@ For purposes of this subtitle, the term "partnership" includes a syndicate, grou
 
 #### (b) Partner
 
-For purposes of this subtitle, the term "partner" means a member of a partnership.
+For purposes of this subtitle, the term "partner" means a member of a partnership. In the case of a capital interest in a partnership in which capital is a material income-producing factor, whether a person is a partner with respect to such interest shall be determined without regard to whether such interest was derived by gift from any other person.
 
 #### (c) Partnership agreement
 
@@ -46,7 +46,7 @@ Except as otherwise provided in regulations, for purposes of—
 
 &emsp;&emsp;(B) all items of income, gain, loss, deduction, and credit shall be divided between the spouses in accordance with their respective interests in the venture, and
 
-&emsp;&emsp;(C) each spouse shall take into account such spouse's respective share of such items as if they were attributable to a trade orbusiness conducted by such spouse as a sole proprietor.
+&emsp;&emsp;(C) each spouse shall take into account such spouse's respective share of such items as if they were attributable to a trade or business conducted by such spouse as a sole proprietor.
 
 #### (2) Qualified joint venture
 
@@ -62,9 +62,11 @@ Except as otherwise provided in regulations, for purposes of—
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see sections 704(b) and 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, §213(c)(3)(B), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, §102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, §75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, §1805(c)(2), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 110–28, title VIII, §8215(a), May 25, 2007, 121 Stat. 193.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 252; Pub. L. 94–455, title II, §213(c)(3)(B), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 96–222, title I, §102(a)(2)(C), Apr. 1, 1980, 94 Stat. 208; Pub. L. 98–369, div. A, title I, §75(b), July 18, 1984, 98 Stat. 594; Pub. L. 99–514, title XVIII, §1805(c)(2), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 110–28, title VIII, §8215(a), May 25, 2007, 121 Stat. 193; Pub. L. 114–74, title XI, §1102(a), Nov. 2, 2015, 129 Stat. 638.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–74 inserted at end "In the case of a capital interest in a partnership in which capital is a material income-producing factor, whether a person is a partner with respect to such interest shall be determined without regard to whether such interest was derived by gift from any other person."
 
 <b>2007</b>—Subsecs. (f), (g). Pub. L. 110–28 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -77,6 +79,10 @@ Except as otherwise provided in regulations, for purposes of—
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (e). Pub. L. 94–455, §213(c)(3)(B), added subsec. (e).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–74 applicable to partnership taxable years beginning after Dec. 31, 2015, see section 1102(c) of Pub. L. 114–74, set out as a note under section 704 of this title.
 
 #### Effective Date of 2007 Amendment
 

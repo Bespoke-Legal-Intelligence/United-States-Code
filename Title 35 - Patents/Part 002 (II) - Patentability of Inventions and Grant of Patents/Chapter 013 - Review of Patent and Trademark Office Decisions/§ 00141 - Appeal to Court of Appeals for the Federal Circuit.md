@@ -16,7 +16,7 @@ Post-Grant and Inter Partes Reviews.—A party to an inter partes review or a po
 
 Derivation Proceedings.—A party to a derivation proceeding who is dissatisfied with the final decision of the Patent Trial and Appeal Board in the proceeding may appeal the decision to the United States Court of Appeals for the Federal Circuit, but such appeal shall be dismissed if any adverse party to such derivation proceeding, within 20 days after the appellant has filed notice of appeal in accordance with section 142, files notice with the Director that the party elects to have all further proceedings conducted as provided in section 146. If the appellant does not, within 30 days after the filing of such notice by the adverse party, file a civil action under section 146, the Board's decision shall govern the further proceedings in the case.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 97–164, title I, §163(a)(7), (b)(2), Apr. 2, 1982, 96 Stat. 49, 50; Pub. L. 98–622, title II, §203(a), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(c), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §§13106(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1901, 1906; Pub. L. 112–29, §7(c)(1), Sept. 16, 2011, 125 Stat. 314.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 97–164, title I, §163(a)(7), (b)(2), Apr. 2, 1982, 96 Stat. 49, 50; Pub. L. 98–622, title II, §203(a), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9)\[title IV, §§4605(c), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §§13106(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1901, 1906; Pub. L. 112–29, §7(c)(1), Sept. 16, 2011, 125 Stat. 314.)
 
 #### Historical and Revision Notes
 
@@ -62,7 +62,7 @@ Amendment by section 13106(c) of Pub. L. 107–273 applicable with respect to an
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 applicable to any reexamination filed inthe United States Patent and Trademark Office on or after Nov. 2, 2002, see section 13202(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 applicable to any reexamination filed in the United States Patent and Trademark Office on or after Nov. 2, 2002, see section 13202(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4605(c)\] of Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 

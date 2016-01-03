@@ -12,7 +12,7 @@ Subject to subsection (b), this chapter shall not be construed to prevent a reci
 
 &emsp;&emsp;(B) all costs incurred by the recipient in providing such services (and not otherwise reimbursed under paragraph (1)), are reimbursed to such recipient; and
 
-&emsp;&emsp;(C) the recipient reports the rates for providing such services under such agreement in accordance with subsection (c) and the rates are consistent with the prevailing market rate for provision of such services in the relevant geographic area as determined by the State agency or area agency on aging (as applicable); and
+&emsp;&emsp;(C) the recipient reports the rates for providing such services under such agreement in accordance with subsection (c) and the rates are consistent with the prevailing market rate for provision of such services in therelevant geographic area as determined by the State agency or area agency on aging (as applicable); and
 
 &emsp;(3) any amount of payment to the recipient under the agreement that exceeds reimbursement under this subsection of the recipient's costs is used to provide, or support the provision of, services under this chapter.
 
@@ -30,7 +30,7 @@ An agreement described in subsection (a) may not—
 
 #### (c) Monitoring and reporting
 
-To ensure that any agreement described in subsection (a) complies with the requirements of this section and other applicable provisions ofthis chapter, the Assistant Secretary shall develop and implement uniform monitoring procedures and reporting requirements consistent with the provisions of subparagraphs (A) through (E) of section 3026(a)(13) of this title in consultation with the State agencies and area agencies on aging. The Assistant Secretary shall annually prepare and submit to the chairpersons and ranking members of the appropriate committees of Congress a report analyzing all such agreements, and the costs incurred and services provided under the agreements. This report shall contain information on the number of the agreements per State, summaries of all the agreements, and information on the type of organizations participating in the agreements, types of services provided under the agreements, and the net proceeds from, and documentation of funds spent and reimbursed, under the agreements.
+To ensure that any agreement described in subsection (a) complies with the requirements of this section and other applicable provisions of this chapter, the Assistant Secretary shall develop and implement uniform monitoring procedures and reporting requirements consistent with the provisions of subparagraphs (A) through (E) of section 3026(a)(13) of this title in consultation with the State agencies and area agencies on aging. The Assistant Secretary shall annually prepare and submit to the chairpersons and ranking members of the appropriate committees of Congress a report analyzing all such agreements, and the costs incurred and services provided under the agreements. This report shall contain information on the number of the agreements per State, summaries of all the agreements, and information on the type of organizations participating in the agreements, types of services provided under the agreements, and the net proceeds from, and documentation of funds spent and reimbursed, under the agreements.
 
 #### (d) Timely reimbursement
 

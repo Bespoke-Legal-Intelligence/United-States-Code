@@ -36,7 +36,7 @@ A coalition that receives a grant under this section shall use the grant funds f
 
 &emsp;(3) working in collaboration with service providers and community-based organizations to address the needs of family violence, domestic violence, and dating violence victims, and their dependents, who are members of racial and ethnic minority populations and underserved populations;
 
-&emsp;(4) collaborating with and providing information to entities in such fields as housing, health care, mental health, social welfare, or business to support the development and implementation of effective policies, protocols, and programs that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence;
+&emsp;(4) collaborating with and providing information to entities in such fields as housing,health care, mental health, social welfare, or business to support the development and implementation of effective policies, protocols, and programs that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence;
 
 &emsp;(5) encouraging appropriate responses to cases of family violence, domestic violence, or dating violence against adults or youth, including by working with judicial and law enforcement agencies;
 

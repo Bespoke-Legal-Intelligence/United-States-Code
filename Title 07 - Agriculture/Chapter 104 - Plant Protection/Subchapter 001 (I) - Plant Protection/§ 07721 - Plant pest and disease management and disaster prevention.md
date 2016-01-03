@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Specialty crop
 
-&emsp;The term "specialty crop" has the meaning given the term in section 3 of the SpecialtyCrops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
+&emsp;The term "specialty crop" has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
 
 #### (3) State department of agriculture
 
@@ -110,7 +110,7 @@ In this section:
 
 &emsp;&emsp;(B) collaborate with the National Plant Board; and
 
-&emsp;&emsp;(C) implement action plans for high consequence plant pest and diseases to assist in preventing the introduction and widespreaddissemination of new plant pest and disease threats in the United States.
+&emsp;&emsp;(C) implement action plans for high consequence plant pest and diseases to assist in preventing the introduction and widespread dissemination of new plant pest and disease threats in the United States.
 
 #### (3) Reports
 

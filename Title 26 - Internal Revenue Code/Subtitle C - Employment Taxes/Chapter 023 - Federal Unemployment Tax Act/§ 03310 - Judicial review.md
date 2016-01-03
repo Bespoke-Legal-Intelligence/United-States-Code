@@ -6,7 +6,7 @@ Whenever under section 3303(b) or section 3304(c) the Secretary of Labor makes a
 
 #### (b) Findings of fact
 
-The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall beconclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence, and the Secretary of Labor may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence, and the Secretary of Labor may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Jurisdiction of court; review
 
@@ -30,5 +30,5 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(H), substituted "of the Secretary o
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 

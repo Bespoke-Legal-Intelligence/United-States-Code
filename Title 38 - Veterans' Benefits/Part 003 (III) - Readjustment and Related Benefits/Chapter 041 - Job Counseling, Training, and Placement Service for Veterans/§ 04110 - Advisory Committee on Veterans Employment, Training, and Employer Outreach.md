@@ -84,7 +84,7 @@
 
 (h) The advisory committee shall continue until terminated by law.
 
-(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1441, §2010; amended Pub. L. 100–323, §§10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §8(a), Mar. 22, 1991, 105 Stat. 52; renumbered §4110 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, §504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, §1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L.109–233, title II, §202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, §604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, §901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1441, §2010; amended Pub. L. 100–323, §§10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §8(a), Mar. 22, 1991, 105 Stat. 52; renumbered §4110 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, §504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, §1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L. 109–233, title II, §202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, §604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, §901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
 
 #### Prior Provisions
 
@@ -154,5 +154,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (g) 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

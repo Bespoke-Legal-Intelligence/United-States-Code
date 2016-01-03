@@ -8,7 +8,7 @@
 
 &emsp;(2) a vessel of less than 24 meters (79 feet) overall in length.
 
-&emsp;(3) a vessel of United States or Canadian registry or nationality, or a vessel operated underthe authority of the United States or Canada, and that is operating only on the Great Lakes, unless the owner requests.
+&emsp;(3) a vessel of United States or Canadian registry or nationality, or a vessel operated under the authority of the United States or Canada, and that is operating only on the Great Lakes, unless the owner requests.
 
 &emsp;(4) a vessel of United States registry or nationality, or one operated under the authority of the United States (except a vessel that engages on a foreign voyage) the keel of which was laid or that was at a similar stage of construction before January 1, 1986, unless—
 

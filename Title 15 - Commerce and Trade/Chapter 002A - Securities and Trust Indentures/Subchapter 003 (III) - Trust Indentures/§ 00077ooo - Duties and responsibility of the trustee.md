@@ -6,13 +6,13 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(1) the indenture trustee shall not be liable except for the performance of such duties as are specifically set out in such indenture; and
 
-&emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of suchtrustee, upon certificates or opinions conforming to the requirements of the indenture;
+&emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of such trustee, upon certificates or opinions conforming to the requirements of the indenture;
 
 > but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnn of this title to determine whether or not such evidence conforms to the requirements of the indenture.
 
 #### (b) Notice of defaults
 
-The indenture trustee shall give to the indenture security holders, in the manner and to the extent provided in subsection (c) of section 77mmm of this title, notice of all defaults known to the trustee, within ninety days after the occurrence thereof: <i>Provided</i>, That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that, except in the case of default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the trustee shall be protected in withholding such notice if and so long as the board of directors, the executive committee, or a trust committee of directors and/or responsible officers, of the trustee in good faith determine that the withholding of such notice is in the interests of the indenture security holders.
+The indenture trustee shall give to the indenture security holders, in the manner and to theextent provided in subsection (c) of section 77mmm of this title, notice of all defaults known to the trustee, within ninety days after the occurrence thereof: <i>Provided</i>, That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that, except in the case of default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the trustee shall be protected in withholding such notice if and so long as the board of directors, the executive committee, or a trust committee of directors and/or responsible officers, of the trustee in good faith determine that the withholding of such notice is in the interests of the indenture security holders.
 
 #### (c) Duties of the trustee in case of default
 

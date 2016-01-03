@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) "medical, surgical, and hospital services and supplies" includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay atthe time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) "injury" includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -56,7 +56,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) the discharge or explosion of munitions intended for use in connection with a war or armed conflict with a hostile force or individual;
 
-&emsp;&emsp;(D) the collision of vessels on convoy or the operation of vessels or aircraft without running lights or without other customary peacetime aids to navigation; or
+&emsp;&emsp;(D) the collision of vessels on convoy or the operation of vessels or aircraft withoutrunning lights or without other customary peacetime aids to navigation; or
 
 &emsp;&emsp;(E) the operation of vessels or aircraft in a zone of hostilities or engaged in war activities;
 
@@ -84,7 +84,7 @@ For the purpose of this subchapter—
 
 > &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
 
-&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average)published monthly by the Bureau of Labor Statistics; and
+&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
 &emsp;(19) "organ" means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
@@ -274,7 +274,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Processing of Claims Filed by District of Columbia Employees
 
-Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: "All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems." An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
+Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: "All functions of the Secretaryunder chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems." An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
 
 #### Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter
 

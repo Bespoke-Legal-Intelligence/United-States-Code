@@ -42,7 +42,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act (7 U.S.C.1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
+&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2018 from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(1) and (f)(2), except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2018;
 
 &emsp;&emsp;&emsp;(ii) from funds authorized for that use by an appropriations Act; or
 
@@ -152,7 +152,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 &emsp;(1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act (7 U.S.C. 1691 et seq.); and
 
-&emsp;(2) subject to any quantitative limitation on exports that may be imposed under section 2406 of title 50, Appendix.
+&emsp;(2) subject to any quantitative limitation on exports that may be imposed under section 4606 of title 50.
 
 #### (f) Use of Commodity Credit Corporation
 
@@ -216,7 +216,7 @@ A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 
 
 Subsec. (h). Pub. L. 113–79, §3202(2), substituted "2018" for "2012" in pars. (1) and (2).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3201(1), substituted "establish and maintain a trust" for "establish a trust stock" and "any combination of the commodities, orfunds" for "or any combination of the commodities, totaling not more than 4,000,000 metric tons".
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §3201(1), substituted "establish and maintain a trust" for "establish a trust stock" and "any combination of the commodities, or funds" for "or any combination of the commodities, totaling not more than 4,000,000 metric tons".
 
 Subsec. (b)(1)(D). Pub. L. 110–246, §3201(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: "funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust."
 

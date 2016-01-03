@@ -204,13 +204,19 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+&emsp;&emsp;The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
-&emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
+&emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
 
-&emsp;&emsp;&emsp;(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
+&emsp;&emsp;&emsp;(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to investigate and recover amounts with respect to suspect claims to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter;
 
-&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+&emsp;&emsp;&emsp;(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures; and
+
+&emsp;&emsp;&emsp;(iv) furthering the Secretary's design, development, installation, or enhancement of an automated data system architecture—
+
+&emsp;&emsp;&emsp;&emsp;(I) to collect, integrate, and assess data for purposes of program integrity, program oversight, and administration, including the Medi-Medi Program; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that improves the coordination of requests for data from States.
 
 #### (B) Reporting requirements
 
@@ -219,6 +225,10 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 #### (2) Limited waiver authority
 
 &emsp;The Secretary shall waive only such requirements of this section and of subchapters XI and XIX as are necessary to carry out paragraph (1).
+
+#### (3) Incentives for States
+
+&emsp;The Secretary shall study and, as appropriate, may specify incentives for States towork with the Secretary for the purposes described in paragraph (1)(A)(ii). The application of the previous sentence may include use of the waiver authority described in paragraph (2).
 
 #### (h) Use of recovery audit contractors
 
@@ -238,7 +248,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (2) Disposition of remaining recoveries
 
-&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) shall be applied to reduce expenditures under this subchapter.
+&emsp;The amounts recovered under such contracts that are not paid to the contractor under paragraph (1) or retained by the Secretary under paragraph (1)(C) or paragraph (10) shall be applied to reduce expenditures under this subchapter.
 
 #### (3) Nationwide coverage
 
@@ -288,7 +298,21 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;(C) examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drug plans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
 
-&emsp;&emsp;(D) review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
+&emsp;&emsp;(D) review estimates submitted by prescription drug plans by private plans withrespect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
+
+#### (10) Use of certain recovered funds
+
+#### (A) In general
+
+&emsp;&emsp;After application of paragraph (1)(C), the Secretary shall retain a portion of the amounts recovered by recovery audit contractors for each year under this section which shall be available to the program management account of the Centers for Medicare \& Medicaid Services for purposes of, subject to subparagraph (B), carrying out sections 1395l(z),<sup>1</sup> 1935m(l)(16), and 1395kk–1(a)(4)(G) of this title, carrying out section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, and implementing strategies (such as claims processing edits) to help reduce the error rate of payments under this subchapter. The amounts retained under the preceding sentence shall not exceed an amount equal to 15 percent of the amounts recovered under this subsection, and shall remain available until expended.
+
+#### (B) Limitation
+
+&emsp;&emsp;Except for uses that support claims processing (including edits) or system functionality for detecting fraud, amounts retained under subparagraph (A) may not be used for technological-related infrastructure, capital investments, or information systems.
+
+#### (C) No reduction in payments to recovery audit contractors
+
+&emsp;&emsp;Nothing in subparagraph (A) shall reduce amounts available for payments to recovery audit contractors under this subsection.
 
 #### (i) Evaluations and annual report
 
@@ -304,13 +328,31 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135.)
 
 #### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
+Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171.
+
+Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (g)(1)(A). Pub. L. 114–115, §9(b)(1), inserted "or otherwise" after "eligible entities" in introductory provisions.
+
+Subsec. (g)(1)(A)(i). Pub. L. 114–115, §9(b)(2), inserted "to review claims data" after "algorithms" and substituted "provider, service, time, or patient" for "service, time, or patient".
+
+Subsec. (g)(1)(A)(ii). Pub. L. 114–115, §9(b)(3)(A), inserted "to investigate and recover amounts with respect to suspect claims" after "appropriate actions".
+
+Subsec. (g)(1)(A)(iv). Pub. L. 114–115, §9(b)(3)(B)–(5), added cl. (iv).
+
+Subsec. (g)(3). Pub. L. 114–10, §510, added par. (3).
+
+Subsec. (h)(2). Pub. L. 114–10, §505(b)(1), inserted "or paragraph (10)" after "paragraph (1)(C)".
+
+Subsec. (h)(10). Pub. L. 114–10, §505(b)(2), added par. (10).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted ", or otherwise," after "entities".
 
@@ -348,7 +390,7 @@ Use of repayment plans.—Section 1893(f)(1) of the Social Security Act \[42 U.S
 
 "(2)
 
-Limitation on recoupment.—Section 1893(f)(2) of the Social Security Act \[42 U.S.C. 1395ddd(f)(2)\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
+Limitation on recoupment.—Section 1893(f)(2) of the Social Security Act \[42 U.S.C. 1395ddd(f)(2)\], asadded by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
 
 "(3)
 
@@ -374,19 +416,49 @@ Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act 
 
 Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[42 U.S.C. 1395ddd(f)(8)\], as added by subsection (a)."
 
-#### Extension of Two-Midnight Rule
+#### Improving the Sharing of Data Between the Federal Government and State Medicaid Programs
 
-Pub. L. 113–93, title I, §111, Apr. 1, 2014, 128 Stat. 1044, provided that:
+Pub. L. 114–115, §9, Dec. 28, 2015, 129 Stat. 3135, provided that:
 
 "(a)
 
-Continuation of Certain Medical Review Activities.—The Secretary of Health and Human Services may continue medical review activities described in the notice entitled 'Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013', posted on the Internet website of the Centers for Medicare \& Medicaid Services, through the first 6 months of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall establish a plan to encourage and facilitate the participation of States in the Medicare-Medicaid Data Match Program (commonly referred to as the 'Medi-Medi Program') under section 1893(g) of the Social Security Act (42 U.S.C. 1395ddd(g)).
 
 "(b)
 
-Limitation.—The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act (42 U.S.C. 1395ddd(h)) for inpatient claims with dates of admission October 1, 2013, through March 31, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act (42 U.S.C. 1395x(u)))."
+Program Revisions To Improve Medi-Medi Data Match Program Participation by States.—\[Amended this section.\]
+
+"(c)
+
+Providing States With Data on Improper Payments Made for Items or Services Provided to Dual Eligible Individuals.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall develop and implement a plan that allows each State agency responsible for administering a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] access to relevant data on improper or fraudulent payments made under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) for health care items or services provided to dual eligible individuals.
+
+&emsp;"(2)
+
+Dual eligible individual defined.—In this section, the term 'dual eligible individual' means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), or enrolled for benefits under part B of title XVIII of such Act (42 U.S.C. 1395j et seq.), and is eligible for medical assistance under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.) or under a waiver of such plan."
+
+#### Extension of Two-Midnight Rule
+
+Pub. L. 113–93, title I, §111, Apr. 1, 2014, 128 Stat. 1044, as amended by Pub. L. 114–10, title V, §521, Apr. 16, 2015, 129 Stat. 176, provided that:
+
+"(a)
+
+Continuation of Certain Medical Review Activities.—The Secretary of Health and Human Services may continue medical review activities described in the notice entitled 'Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013', posted on the Internet website of the Centers for Medicare \& Medicaid Services, through through \[sic\] the end of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+
+"(b)
+
+Limitation.—The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act (42 U.S.C. 1395ddd(h)) for inpatient claims with dates of admission October 1, 2013, through September 30, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act (42 U.S.C. 1395x(u))).
+
+"(c)
+
+Construction.—Except as provided in subsections (a) and (b), nothing in this section shall be construed as limiting the Secretary's authority to pursue fraud and abuse activities under such section 1893(h) or otherwise."
 
 #### Access to Coordination of Benefits Contractor Database
 
 Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: "The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act \[42 U.S.C. 1395ddd(h)\], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare \& Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

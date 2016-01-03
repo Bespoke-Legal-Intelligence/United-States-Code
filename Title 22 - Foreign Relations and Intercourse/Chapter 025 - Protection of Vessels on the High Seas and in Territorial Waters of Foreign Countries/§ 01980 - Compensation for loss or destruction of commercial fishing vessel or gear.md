@@ -10,7 +10,7 @@ For purposes of this section—
 
 &emsp;(3) The term "fund" means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f).
 
-&emsp;(4) The term "resulting economic loss" means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
+&emsp;(4) The term "resulting economic loss" means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gearused with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
 
 #### (b) Causes of loss or destruction
 
@@ -68,7 +68,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 #### (e) Surcharge on foreign fishing vessels
 
-In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretary shall impose a surcharge in an amount not to exceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
+In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1824(b)(10)) with respect to any foreign fishing vessel for any year after 1978, the Secretary shall impose a surcharge in an amount not toexceed 20 percent of the amount of the fee imposed under such section for such year. The failure to pay any surcharge imposed under this subsection with respect to any foreign fishing vessel shall be treated by the Secretary as a failure to pay the fee for such vessel under such section 204(b)(10).
 
 #### (f) Fishing Vessel and Gear Damage Compensation Fund; requirements, etc.
 
@@ -124,7 +124,7 @@ Subsec. (d). Pub. L. 96–561, §241(4), inserted in par. (1) ", and resulting 
 
 Subsec. (e). Pub. L. 96–561, §238(b), substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–376 substituted provisions defining "fishery", "fishing conservation zone", "fishing", "fishing vessel", "Secretary", "vessel of the United States", "fishing gear" and "fund" for provisions authorizing the Secretary to make a loan to an owner or operator whose commercial fishing vessel or its fishing gear was lost, damaged or destroyed by any vessel of a foreign nation.
+<b>1978</b>—Subsec. (a). Pub. L. 95–376 substituted provisions defining "fishery", "fishing conservation zone","fishing", "fishing vessel", "Secretary", "vessel of the United States", "fishing gear" and "fund" for provisions authorizing the Secretary to make a loan to an owner or operator whose commercial fishing vessel or its fishing gear was lost, damaged or destroyed by any vessel of a foreign nation.
 
 Subsec. (b). Pub. L. 95–376 substituted provisions setting forth the causes of the damage, loss, or destruction of the vessel or its gear for which compensation is payable for provisions authorizing the Secretary to conduct an investigation of each incident of loss, damage or destruction for which the owner received a loan and allowing for repayment or cancellation of such loan depending on fault or nonfault of owner.
 

@@ -46,7 +46,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981,see section 105(c) of Pub. L. 97–257, set out as a note under section 4591 of Title 2, The Congress.
+Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981, see section 105(c) of Pub. L. 97–257, set out as a note under section 4591 of Title 2, The Congress.
 
 #### Effective Date of 1969 Amendment
 

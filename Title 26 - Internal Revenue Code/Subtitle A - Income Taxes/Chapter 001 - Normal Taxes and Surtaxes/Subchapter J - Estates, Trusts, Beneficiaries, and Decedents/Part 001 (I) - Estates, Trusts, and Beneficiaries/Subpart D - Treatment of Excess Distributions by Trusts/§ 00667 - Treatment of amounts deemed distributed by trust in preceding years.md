@@ -76,7 +76,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (A) In general
 
-&emsp;&emsp;In determining the increase in tax under subsection (b)(1)(D) for any computation year, the taxes described in section 665(d)(2) which are deemed distributed under section 666(b) or (c) and added under subsection (b)(1)(C) to the taxable income of the beneficiary for any computation year shall, except as provided in subparagraphs (B) and (C), be treated as a credit against the increase in tax for such computation year under subsection (b)(1)(D).
+&emsp;&emsp;In determining the increase in tax under subsection (b)(1)(D) for any computation year, the taxes described in section 665(d)(2)which are deemed distributed under section 666(b) or (c) and added under subsection (b)(1)(C) to the taxable income of the beneficiary for any computation year shall, except as provided in subparagraphs (B) and (C), be treated as a credit against the increase in tax for such computation year under subsection (b)(1)(D).
 
 #### (B) Deduction in lieu of credit
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
-Pub. L. 95–600, title VII, §702(o)(2), Nov. 6, 1978, 92 Stat. 2937, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply—
+Pub. L. 95–600, title VII, §702(o)(2), Nov. 6, 1978, 92 Stat. 2937, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply—
 
 &emsp;"(A) in the case of the tax imposed by chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 2001 et seq. of this title\], to the estates of decedents dying after December 31, 1979, and
 

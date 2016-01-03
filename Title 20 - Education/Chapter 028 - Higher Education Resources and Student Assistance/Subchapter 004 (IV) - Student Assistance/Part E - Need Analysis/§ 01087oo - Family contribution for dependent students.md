@@ -226,7 +226,7 @@ Parents' Assessment From Adjusted Available Income (AAI)
 
 #### (3) Remarried parents
 
-&emsp;If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
+&emsp;If a parent whose income and assets are taken into account under paragraph (1) of thissubsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
 
 &emsp;&emsp;(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
 
@@ -313,7 +313,7 @@ For periods of enrollment other than 9 months, the parents' contribution from ad
 
 &emsp;(2) For periods of enrollment greater than 9 months—
 
-&emsp;&emsp;(A) the parents' adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
+&emsp;&emsp;(A) the parents' adjusted available income (determined in accordance with subsection\(b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
 
 &emsp;&emsp;(B) the resulting revised parents' adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents' contribution from adjusted available income;
 
@@ -413,7 +413,7 @@ Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided th
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
+Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment
 

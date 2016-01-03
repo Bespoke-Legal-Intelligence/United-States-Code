@@ -12,7 +12,7 @@ In General.—A defendant who has been found guilty of an offense may be sentenc
 
 (b)
 
-Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term "domestic violence crime" means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
+Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term "domestic violence crime" means a crime of violence for which thedefendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
 
 (c)
 
@@ -24,7 +24,7 @@ Authorized Terms.—The authorized terms of probation are—
 
 &emsp;(3) for an infraction, not more than one year.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 99–646, §10(a),Nov. 10, 1986, 100 Stat. 3593; Pub. L. 100–182, §7, Dec. 7, 1987, 101 Stat. 1267; Pub. L. 103–322, title XXVIII, §280004, title XXXII, §320921(a), Sept. 13, 1994, 108 Stat. 2096, 2130; Pub. L. 104–294, title VI, §604(c)(1), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 99–646, §10(a), Nov. 10, 1986, 100 Stat. 3593; Pub. L. 100–182, §7, Dec. 7, 1987, 101 Stat. 1267; Pub. L. 103–322, title XXVIII, §280004, title XXXII, §320921(a), Sept. 13, 1994, 108 Stat. 2096, 2130; Pub. L. 104–294, title VI, §604(c)(1), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### Prior Provisions
 

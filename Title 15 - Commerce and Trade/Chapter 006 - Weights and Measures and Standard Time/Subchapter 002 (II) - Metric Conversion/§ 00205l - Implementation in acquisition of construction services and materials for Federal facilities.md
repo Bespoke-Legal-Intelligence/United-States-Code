@@ -46,7 +46,7 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 > The construction metrication ombudsman shall be independent of the contracting officer for construction contracts.
 
-(2) The ombudsman shall be responsible for ensuring that the agency is not implementing the metric system of measurement in a manner that is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms in violation of the policy stated in section 205b(2) of this title, or is otherwise inconsistent with guidance issued by the Secretary of Commerce in consultation with theInteragency Council on Metric Policy while ensuring that the goals of this subchapter are observed.
+(2) The ombudsman shall be responsible for ensuring that the agency is not implementing the metric system of measurement in a manner that is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms in violation of the policy stated in section 205b(2) of this title, or is otherwise inconsistent with guidance issued by the Secretary of Commerce in consultation with the Interagency Council on Metric Policy while ensuring that the goals of this subchapter are observed.
 
 (3) The ombudsman shall respond to each complaint in writing within 60 days and make a recommendation to the head of the executive agency for an appropriate resolution thereto. In such a recommendation, the ombudsman shall consider—
 

@@ -52,7 +52,7 @@ An entity shall use amounts received under a grant made under subsection (a) of 
 
 In awarding grants under this section the Secretary shall give preference to—
 
-&emsp;(1) applications that reflect a collaborative effort by 2 or more of the entities described in subparagraphs (A) through (F) of subsection (b)(1) of this section; and
+&emsp;(1) applications that reflect a collaborative effort by 2 or more of the entities described insubparagraphs (A) through (F) of subsection (b)(1) of this section; and
 
 &emsp;(2) applications submitted by entities that intend to use amounts provided under the grant to fund activities described in any of paragraphs (1) through (5) of subsection (c) of this section.
 

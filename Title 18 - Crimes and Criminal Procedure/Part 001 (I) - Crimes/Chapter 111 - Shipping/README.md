@@ -17,7 +17,9 @@
 | [2278\.](%C2%A7%2002278%20-%20Explosives%20on%20vessels%20carrying%20steerage%20passengers.md) | Explosives on vessels carrying steerage passengers. |
 | [2279\.](%C2%A7%2002279%20-%20Boarding%20vessels%20before%20arrival.md) | Boarding vessels before arrival. |
 | [2280\.](%C2%A7%2002280%20-%20Violence%20against%20maritime%20navigation.md) | Violence against maritime navigation. |
+| [2280a.](%C2%A7%2002280a%20-%20Violence%20against%20maritime%20navigation%20and%20maritime%20transport%20involving%20weapons%20of%20mass%20destruction.md) | Violence against maritime navigation and maritime transport involving weapons of mass destruction. |
 | [2281\.](%C2%A7%2002281%20-%20Violence%20against%20maritime%20fixed%20platforms.md) | Violence against maritime fixed platforms. |
+| [2281a.](%C2%A7%2002281a%20-%20Additional%20offenses%20against%20maritime%20fixed%20platforms.md) | Additional offenses against maritime fixed platforms. |
 | [2282A.](%C2%A7%2002282A%20-%201%20Devices%20or%20dangerous%20substances%20in%20waters%20of%20the%20United%20States%20likely%20to%20destroy%20or%20damage%20ships%20or%20to%20interfere%20with%20maritime%20commerce.md) | Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce. |
 | [2282B.](%C2%A7%2002282B%20-%20Violence%20against%20aids%20to%20maritime%20navigation.md) | Violence against aids to maritime navigation. |
 | [2283\.](%C2%A7%2002283%20-%20Transportation%20of%20explosive%2C%20biological%2C%20chemical%2C%20or%20radioactive%20or%20nuclear%20materials.md) | Transportation of explosive, chemical, biological, or radioactive or nuclear materials.<sup>1</sup> |
@@ -27,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–23, title VIII, §§802(b), 804(b), June 2, 2015, 129 Stat. 307, 308, added items 2280a and 2281a.
 
 <b>2008</b>—Pub. L. 110–407, title I, §102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
 
@@ -57,7 +61,9 @@ Pub. L. 109–177, title III, §304(a)(2), Mar. 9, 2006, 120 Stat. 235, which di
 - [&sect; 02278 - Explosives on vessels carrying steerage passengers](%C2%A7%2002278%20-%20Explosives%20on%20vessels%20carrying%20steerage%20passengers.md)
 - [&sect; 02279 - Boarding vessels before arrival](%C2%A7%2002279%20-%20Boarding%20vessels%20before%20arrival.md)
 - [&sect; 02280 - Violence against maritime navigation](%C2%A7%2002280%20-%20Violence%20against%20maritime%20navigation.md)
+- [&sect; 02280a - Violence against maritime navigation and maritime transport involving weapons of mass destruction](%C2%A7%2002280a%20-%20Violence%20against%20maritime%20navigation%20and%20maritime%20transport%20involving%20weapons%20of%20mass%20destruction.md)
 - [&sect; 02281 - Violence against maritime fixed platforms](%C2%A7%2002281%20-%20Violence%20against%20maritime%20fixed%20platforms.md)
+- [&sect; 02281a - Additional offenses against maritime fixed platforms](%C2%A7%2002281a%20-%20Additional%20offenses%20against%20maritime%20fixed%20platforms.md)
 - [&sect; 02282A - 1 Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce](%C2%A7%2002282A%20-%201%20Devices%20or%20dangerous%20substances%20in%20waters%20of%20the%20United%20States%20likely%20to%20destroy%20or%20damage%20ships%20or%20to%20interfere%20with%20maritime%20commerce.md)
 - [&sect; 02282B - Violence against aids to maritime navigation](%C2%A7%2002282B%20-%20Violence%20against%20aids%20to%20maritime%20navigation.md)
 - [&sect; 02283 - Transportation of explosive, biological, chemical, or radioactive or nuclear materials](%C2%A7%2002283%20-%20Transportation%20of%20explosive%2C%20biological%2C%20chemical%2C%20or%20radioactive%20or%20nuclear%20materials.md)

@@ -68,7 +68,7 @@ No high-cost mortgage may contain a scheduled payment that is more than twice as
 
 #### (f) No negative amortization
 
-A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under which the outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
+A mortgage referred to in section 1602(aa) <sup>1</sup> of this title may not include terms under whichthe outstanding principal balance will increase at any time over the course of the loan because the regular periodic payments do not cover the full amount of interest due.
 
 #### (g) No prepaid payments
 
@@ -136,7 +136,7 @@ For purposes of this section, the term "affiliate" has the same meaning as in se
 
 #### (1) Exemptions
 
-&emsp;The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
+&emsp;The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i), if the Bureau finds that the exemption—
 
 &emsp;&emsp;(A) is in the interest of the borrowing public; and
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "affiliate" has the same meaning as in se
 
 #### (q) Civil penalties in Federal Trade Commission enforcement actions
 
-For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
+For purposes of enforcement by the Federal Trade Commission, any violation of a regulationissued by the Bureau pursuant to subsection (l)(2) shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices.
 
 #### (r) Prohibitions on evasions, structuring of transactions, and reciprocal arrangements
 
@@ -176,7 +176,7 @@ A creditor, successor in interest, assignee, or any agent of any of the above, m
 
 #### (B) Transaction fee
 
-&emsp;&emsp;When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that aresecured by the consumer's principal dwelling and are not high-cost mortgages.
+&emsp;&emsp;When payoff information referred to in subparagraph (A) is provided by facsimile transmission or by a courier service, a creditor or servicer may charge a processing fee to cover the cost of such transmission or service in an amount not to exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that are secured by the consumer's principal dwelling and are not high-cost mortgages.
 
 #### (C) Fee disclosure
 
@@ -226,7 +226,7 @@ A creditor or assignee in a high-cost mortgage who, when acting in good faith, f
 
 Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is Pub. L. 93–533, Dec. 22,1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Prior Provisions
 

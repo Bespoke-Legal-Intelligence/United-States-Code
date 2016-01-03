@@ -8,9 +8,9 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;(2) binding commitments have been made to ensure that—
 
-&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
+&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c));
 
-&emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
+&emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d), as determined by inspections conducted under such subsection by the Secretary;
 
 &emsp;&emsp;(C) current tenants will not be involuntarily displaced (except for good cause);
 
@@ -24,7 +24,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved bythe Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
 &emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
@@ -34,9 +34,9 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;&emsp;(ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
 
-&emsp;&emsp;(H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d) of this section; and
+&emsp;&emsp;(H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
 
-&emsp;(3) no incentives under section 4109 of this title (other than to purchasers under section 4110 of this title) may be provided until the Secretary determines the project meets housing standards under subsection (d) of this section, except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
+&emsp;(3) no incentives under section 4109 of this title (other than to purchasers under section 4110 of this title) may be provided until the Secretary determines the project meets housing standards under subsection (d), except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
 
 #### (b) Implementation
 
@@ -54,7 +54,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (3) Owner petition
 
-&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretarymay not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
+&emsp;The Secretary shall establish a procedure under which owners of eligible low-income housing may petition the Secretary for a determination that the useful life of such housing has expired. The procedure shall not permit such a petition before the expiration of the 50-year period beginning upon the approval of a plan of action under this subchapter with respect to such housing. In making a determination pursuant to a petition under this paragraph, the Secretary shall presume that the useful life of the housing has not expired, and the owner shall have the burden of proof in establishing such expiration. The Secretary may not determine that the useful life of any housing has expired if such determination results primarily from failure to make regular and reasonable repairs and replacement, as became necessary.
 
 #### (4) Tenant and community comment and appeal
 
@@ -72,7 +72,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;The Secretary shall take any action appropriate to require the owner of any housing not in compliance with such standards to bring such housing into compliance with the standards, including—
 
-&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowed loan proceeds and requiring that such proceeds be used for repair of the housing; and
+&emsp;&emsp;&emsp;(i) directing the mortgagee, with respect to an equity take-out loan under section 1715z–6(f) <sup>1</sup> of this title, to withhold the disbursement to the owner of any escrowedloan proceeds and requiring that such proceeds be used for repair of the housing; and
 
 &emsp;&emsp;&emsp;(ii) reduce the amount of the annual authorized return, as determined by the Secretary, for the period ending upon a determination by the Secretary that the project is in compliance with the standards and requiring that such amounts be used for repair.
 
@@ -94,7 +94,27 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;&emsp;&emsp;(v) Take any other action authorized by law or the project regulatory agreement to ensure that the housing will be brought into compliance with the standards established under this subsection.
 
-(Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
+#### (e) Distribution and residual receipts
+
+#### (1) Authority
+
+&emsp;After December 4, 2015, the owner of a property subject to a plan of action or use agreement pursuant to this section shall be entitled to distribute—
+
+&emsp;&emsp;(A) annually, all surplus cash generated by the property, but only if the owner is in material compliance with such use agreement including compliance with prevailing physical condition standards established by the Secretary; and
+
+&emsp;&emsp;(B) notwithstanding any conflicting provision in such use agreement, any funds accumulated in a residual receipts account, but only if the owner is in material compliance with such use agreement and has completed, or set aside sufficient funds for completion of, any capital repairs identified by the most recent third party capital needs assessment.
+
+#### (2) Operation of property
+
+&emsp;An owner that distributes any amounts pursuant to paragraph (1) shall—
+
+&emsp;&emsp;(A) continue to operate the property in accordance with the affordability provisions of the use agreement for the property for the remaining useful life of the property;
+
+&emsp;&emsp;(B) as required by the plan of action for the property, continue to renew or extend any project-based rental assistance contract for a term of not less than 20 years; and
+
+&emsp;&emsp;(C) if the owner has an existing multi-year project-based rental assistance contract for less than 20 years, have the option to extend the contract to a 20-year term.
+
+(Pub. L. 100–242, title II, §222, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4260; amended Pub. L. 102–550, title III, §§308, 317(a)(4), Oct. 28, 1992, 106 Stat. 3764, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 114–94, div. G, title LXXVII, §77001, Dec. 4, 2015, 129 Stat. 1790.)
 
 #### References in Text
 
@@ -108,6 +128,8 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 #### Amendments
 
+<b>2015</b>—Subsec. (e). Pub. L. 114–94 added subsec. (e).
+
 <b>1994</b>—Subsec. (a)(2)(D). Pub. L. 103–327 temporarily amended subpar. (D) to read as follows: "monthly rent contributions by current and future tenants, including tenants receiving assistance under section 1437f of title 42, shall not exceed the lesser of—
 
 &emsp;"(i) 30 percent of the adjusted income of the tenant; or
@@ -116,7 +138,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 > except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph." See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for "; and" and inserting at end "Forany section 8 assistance provided under this subchapter, whether through the extension of an existing contract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and", was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(2)(E)(ii). Pub. L. 103–327, which directed the temporary amendment of par. (1)(E)(ii) by substituting a period for "; and" and inserting at end "For any section 8 assistance provided under this subchapter, whether through the extension of an existingcontract or the provision of a new contract for assistance, the Secretary shall have the discretion to adjust contract rents within the limits established under section 4105 of this title, irrespective of the comparable rent requirements set forth in section 1437f(c) of title 42. Notwithstanding any provision of law to the contrary, any conflict pertaining to the computation of contract rents arising from differences between this subchapter and section 1437f of title 42 shall, subject to the prior approval of the Secretary, be resolved in favor of this subchapter; and", was executed by making the amendments to par. (2)(E)(ii) to reflect the probable intent of Congress. See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(2)(E)(iii). Pub. L. 103–327 temporarily added cl. (iii) which read as follows:
 

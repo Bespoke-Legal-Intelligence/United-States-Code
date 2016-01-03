@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term "base period" means the 5-year period running from the sixth through the second prior fiscal years.
+Definition.—In this section, the term "base period" means the 5-year period runningfrom the sixth through the second prior fiscal years.
 
 (b)
 

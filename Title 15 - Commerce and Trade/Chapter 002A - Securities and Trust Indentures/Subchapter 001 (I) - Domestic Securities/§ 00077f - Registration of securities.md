@@ -65,7 +65,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (c) Time registration effective
 
-The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b) of this section.
+The filing with the Commission of a registration statement, or of an amendment to a registration statement, shall be deemed to have taken place upon the receipt thereof, but the filing of a registration statement shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under subsection (b).
 
 #### (d) Information available to public
 
@@ -75,19 +75,21 @@ The information contained in or filed with any registration statement shall be m
 
 #### (1) In general
 
-&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 21 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto.
+&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to publicfiling, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
 
 #### (2) Confidentiality
 
 &emsp;Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
 
-(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312.)
+(May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
 
 #### References in Text
 
 Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, "sections 13(e) and 14(g)" and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(1). Pub. L. 114–94 substituted "15 days" for "21 days" and inserted at end "An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company."
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–106 added subsec. (e).
 
@@ -129,7 +131,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Increase in Registration Fees and Deposit Into Treasury
 
-Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
+Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rateand offsetting collection authority contained in Public Law 104–208, which fee rate and offsetting collection authority was to remain in effect during the period of Pub. L. 105–46 which provided continuing appropriations for fiscal year 1998.
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 

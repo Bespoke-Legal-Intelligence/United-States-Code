@@ -42,7 +42,7 @@ The Secretary may enter into interagency agreements with Federal or State agenci
 
 #### (d) Definition of sanitation facility
 
-In this section, the term "sanitation facility" means a safe and adequate water supply system, sanitary sewage disposal system, or sanitarysolid waste system (including all related equipment and support infrastructure).
+In this section, the term "sanitation facility" means a safe and adequate water supply system, sanitary sewage disposal system, or sanitary solid waste system (including all related equipment and support infrastructure).
 
 (Pub. L. 94–437, title III, §311, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

@@ -28,11 +28,11 @@
 
 #### (2) Penalties
 
-&emsp;Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\] for violations under that Act.
+&emsp;Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act \[50 U.S.C. 4301 et seq.\] for violations under that Act.
 
 #### (3) Administration and enforcement
 
-&emsp;The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[50 U.S.C. App. 1 et seq.\], with respect to the conduct prohibited in paragraph (1).
+&emsp;The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act \[50 U.S.C. 4301 et seq.\], with respect to the conduct prohibited in paragraph (1).
 
 #### (4) Definitions
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) the term "financing" includes any loan or extension of credit;
 
-&emsp;&emsp;(B) the term "United States depository institution" means any entity (including its foreign branches or subsidiaries) organized under the laws of any jurisdiction within the United States, or any agency, office orbranch located in the United States of a foreign entity, that is engaged primarily in the business of banking (including a bank, savings bank, savings association, credit union, trust company, or United States bank holding company); and
+&emsp;&emsp;(B) the term "United States depository institution" means any entity (including its foreign branches or subsidiaries) organized under the laws of any jurisdiction within the United States, or any agency, office or branch located in the United States of a foreign entity, that is engaged primarily in the business of banking (including a bank, savings bank, savings association, credit union, trust company, or United States bank holding company); and
 
 &emsp;&emsp;(C) the term "United States person" means the Federal Government, any State or local government, or any private person or entity of the United States.
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Determination and Waiver of Application of Section 908(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 With Respect to Libya
 

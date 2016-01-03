@@ -18,7 +18,7 @@
 
 &emsp;&emsp;The public section of the written evaluation shall—
 
-&emsp;&emsp;&emsp;(i) state the appropriate Federal financial supervisory agency's conclusions foreach assessment factor identified in the regulations prescribed by the Federal financial supervisory agencies to implement this chapter;
+&emsp;&emsp;&emsp;(i) state the appropriate Federal financial supervisory agency's conclusions for each assessment factor identified in the regulations prescribed by the Federal financial supervisory agencies to implement this chapter;
 
 &emsp;&emsp;&emsp;(ii) discuss the facts and data supporting such conclusions; and
 
@@ -26,7 +26,7 @@
 
 #### (B) Metropolitan area distinctions
 
-&emsp;&emsp;The information required by clauses (i) and (ii) of subparagraph (A) shall be presented separately for each metropolitan area in which a regulated depository institution maintains one or more domestic branch offices.
+&emsp;&emsp;The information required by clauses (i) and (ii) of subparagraph (A) shall be presented separately for each metropolitan area in which a regulated depository institutionmaintains one or more domestic branch offices.
 
 #### (2) Assigned rating
 
@@ -62,19 +62,19 @@
 
 &emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States, the appropriate Federal financial supervisory agency shall prepare—
 
-&emsp;&emsp;(A) a written evaluation of the entire institution's record of performance under this chapter, as required by subsections (a), (b), and (c) of this section; and
+&emsp;&emsp;(A) a written evaluation of the entire institution's record of performance under this chapter, as required by subsections (a), (b), and (c); and
 
-&emsp;&emsp;(B) for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution's record of performance within such State under this chapter, as required by subsections (a), (b), and (c) of this section.
+&emsp;&emsp;(B) for each State in which the institution maintains 1 or more domestic branches, a separate written evaluation of the institution's record of performance within such State under this chapter, as required by subsections (a), (b), and (c).
 
 #### (2) Multistate metropolitan areas
 
-&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
+&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c). If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
 
 #### (3) Content of State level evaluation
 
 &emsp;A written evaluation prepared pursuant to paragraph (1)(B) shall—
 
-&emsp;&emsp;(A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) of this section separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
+&emsp;&emsp;(A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
 
 &emsp;&emsp;(B) describe how the Federal financial supervisory agency has performed the examination of the institution, including a list of the individual branches examined.
 
@@ -98,7 +98,7 @@ For purposes of this section the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the original "this Act" and was translatedas reading "this title", meaning title VIII of Pub. L. 95–128, known as the Community Reinvestment Act of 1977, to reflect the probable intent of Congress.
+This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the original "this Act" and was translated as reading "this title", meaning title VIII of Pub. L. 95–128, known as the Community Reinvestment Act of 1977, to reflect the probable intent of Congress.
 
 #### Amendments
 

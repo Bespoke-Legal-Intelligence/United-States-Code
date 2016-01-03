@@ -1,6 +1,6 @@
 ### §8004. Appointment and compensation of staff
 
-Except as otherwise provided by law, the Joint Committee shall have power to appoint and fix the compensation of the Chief of Staff of the Joint Committee and such experts and clerical, stenographic, and other assistants as it deems advisable.
+Except as otherwise provided by law, the Joint Committee shall have power to appoint and fix the compensation of the Chief of Staff of theJoint Committee and such experts and clerical, stenographic, and other assistants as it deems advisable.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 926; Pub. L. 94–455, title XIX, §1907(a)(2), Oct. 4, 1976, 90 Stat. 1835.)
 

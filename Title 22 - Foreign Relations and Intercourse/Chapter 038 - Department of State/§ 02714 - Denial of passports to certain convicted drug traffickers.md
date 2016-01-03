@@ -44,7 +44,7 @@ As used in this section—
 
 &emsp;&emsp;(B) any other Federal law involving controlled substances; or
 
-&emsp;&emsp;(C) subchapter II of chapter 53 of title 31 (commonly referred to as the "Bank Secrecy Act"), or section 1956 or section 1957 of title18 (commonly referred to as the "Money Laundering Act"), if the Secretary of State determines that the violation is related to illicit production of or trafficking in a controlled substance;
+&emsp;&emsp;(C) subchapter II of chapter 53 of title 31 (commonly referred to as the "Bank Secrecy Act"), or section 1956 or section 1957 of title 18 (commonly referred to as the "Money Laundering Act"), if the Secretary of State determines that the violation is related to illicit production of or trafficking in a controlled substance;
 
 &emsp;(3) the term "felony" means a criminal offense punishable by death or imprisonment for more than one year;
 

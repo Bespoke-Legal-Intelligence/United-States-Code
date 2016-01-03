@@ -6,7 +6,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(2) To achieve, through the Department, effective management of energy functions of the Federal Government, including consultation with the heads of other Federal departments and agencies in order to encourage them to establish and observe policies consistent with a coordinated energy policy, and to promote maximum possible energy conservation measures in connection with the activities within their respective jurisdictions.
 
-&emsp;(3) To provide for a mechanism through which a coordinated national energy policy can be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plans and programs for dealing with domestic energy production and import shortages.
+&emsp;(3) To provide for a mechanism through which a coordinated national energy policycan be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plans and programs for dealing with domestic energy production and import shortages.
 
 &emsp;(4) To create and implement a comprehensive energy conservation strategy that will receive the highest priority in the national energy program.
 
@@ -24,7 +24,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(7) To continue and improve the effectiveness and objectivity of a central energy data collection and analysis program within the Department.
 
-&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocatingfuels in periods of short supply and to provide for the administration of a national energy supply reserve.
+&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to provide for the administration of a national energy supply reserve.
 
 &emsp;(9) To promote the interests of consumers through the provision of an adequate and reliable supply of energy at the lowest reasonable cost.
 

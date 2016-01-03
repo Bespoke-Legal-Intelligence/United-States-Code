@@ -12,7 +12,7 @@ It is the sense of Congress that Radio Free Europe and Radio Liberty should cont
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which set forth sense of Congress that funding of Radio Free Europe and Radio Liberty be privatizednot later than Dec. 31, 1999, directed President to submit analysis and recommendation for achieving this objective with his annual budget submission, and directed Board for International Broadcasting to submit to appropriate congressional committees not later than 120 days after Apr. 30, 1994, report on steps being taken to transfer RFE/RL Research Institute, and periodic progress reports until such transfer would be achieved.
+<b>1999</b>—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which set forth sense of Congress that funding of Radio Free Europe and Radio Liberty be privatized not later than Dec. 31, 1999, directed President to submit analysis and recommendation for achieving this objective with his annual budget submission, and directed Board for International Broadcasting to submit to appropriate congressional committees not later than 120 days after Apr. 30, 1994, report on steps being taken to transfer RFE/RL Research Institute, and periodic progress reports until such transfer would be achieved.
 
 #### Programming to Ukraine and Neighboring Regions: Findings and Declarations
 
@@ -56,7 +56,7 @@ Programming Surge.—RFE/RL, Incorporated, and Voice of America programming to U
 
 &emsp;"(3) provide programming content 24 hours a day, seven days a week to target populations, using all available and effective distribution outlets, including—
 
-&emsp;&emsp;"(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed on satellite, digital, and through regional television affiliates by the Voice of America; and
+&emsp;&emsp;"(A) at least 8 weekly hours of total original television and video content in Ukrainian, Russian, and Tatar languages, not inclusive of live video streaming coverage of breaking news, to be distributed onsatellite, digital, and through regional television affiliates by the Voice of America; and
 
 &emsp;&emsp;"(B) at least 14 weekly hours the total audio content in Ukrainian, Russian, and Tatar languages to be distributed on satellite, digital, and through regional radio affiliates of RFE/RL, Incorporated;
 

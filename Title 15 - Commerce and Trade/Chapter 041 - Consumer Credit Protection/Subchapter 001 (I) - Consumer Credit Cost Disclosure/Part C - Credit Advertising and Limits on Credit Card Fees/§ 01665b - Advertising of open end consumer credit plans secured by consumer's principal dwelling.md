@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
+If any advertisement to aid, promote, or assist, directly or indirectly, the extension of consumer credit through an open end consumer credit plan under which extensions of credit aresecured by the consumer's principal dwelling states, affirmatively or negatively, any of the specific terms of the plan, including any periodic payment amount required under such plan, such advertisement shall also clearly and conspicuously set forth the following information, in such form and manner as the Bureau may require:
 
 #### (1) Loan fees and opening cost estimates
 
@@ -24,11 +24,11 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (1) In general
 
-&emsp;If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+&emsp;If any advertisement described in subsection (a) contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
 
 #### (2) Credit in excess of fair market value
 
-&emsp;Each advertisement described in subsection (a) of this section that relates to an extensionof credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+&emsp;Each advertisement described in subsection (a) that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -36,13 +36,13 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (c) Certain terms prohibited
 
-No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as "free money" or use other terms determined by the Bureau by regulation to be misleading.
+No advertisement described in subsection (a) with respect to any home equity account may refer to such loan as "free money" or use other terms determined by the Bureau by regulation to be misleading.
 
 #### (d) Discounted initial rate
 
 #### (1) In general
 
-&emsp;If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+&emsp;If any advertisement described in subsection (a) includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
 
 #### (2) Quoted rate must be reasonably current
 
@@ -54,7 +54,7 @@ No advertisement described in subsection (a) of this section with respect to any
 
 #### (e) Balloon payment
 
-If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
+If any advertisement described in subsection (a) contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 
 #### (f) "Balloon payment" defined
 

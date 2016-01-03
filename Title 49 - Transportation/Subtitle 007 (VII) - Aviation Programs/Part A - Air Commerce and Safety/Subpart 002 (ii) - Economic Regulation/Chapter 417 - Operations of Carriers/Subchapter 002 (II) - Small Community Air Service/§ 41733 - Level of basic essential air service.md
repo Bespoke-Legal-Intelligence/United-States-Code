@@ -26,7 +26,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(F) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
 
-(2) Under guidelines prescribed under section 41737(a) of this title, the Secretary shall pay therate of compensation for providing basic essential air service under this section and section 41734 of this title.
+(2) Under guidelines prescribed under section 41737(a) of this title, the Secretary shall pay the rate of compensation for providing basic essential air service under this section and section 41734 of this title.
 
 (d)
 
@@ -62,7 +62,7 @@ Proposals of State and Local Governments to Restore Eligibility.—
 
 &emsp;(1)
 
-In general.—If the Secretary, after the date of enactment of this subsection, ends payment of compensation to an air carrier for providing basic essential air service to an eligible place because the Secretary has determined that providing such service requires a rate of subsidy per passenger in excess of the subsidy cap or that the place is no longer an eligible place pursuant to section 41731(a)(1)(B), a State or local government may submit to the Secretary a proposal for restoring compensation for such service. Such proposal shall be a joint proposal of the State or local government and an air carrier.
+In general.—If the Secretary, after the date of enactment of this subsection, ends payment of compensation to an air carrier for providing basic essential air service to an eligible place because the Secretary has determined that providing such service requires arate of subsidy per passenger in excess of the subsidy cap or that the place is no longer an eligible place pursuant to section 41731(a)(1)(B), a State or local government may submit to the Secretary a proposal for restoring compensation for such service. Such proposal shall be a joint proposal of the State or local government and an air carrier.
 
 &emsp;(2)
 

@@ -2,7 +2,7 @@
 
 #### (a) Youth workforce investment activities
 
-There are authorized to be appropriated to carry out the activities described in section 3162(a) of this title, $820,430,000 for fiscal year 2015, $883,800,000 for fiscal year 2016, $902,139,000 for fiscal year 2017, $922,148,000 for fiscal year2018, $943,828,000 for fiscal year 2019, and $963,837,000 for fiscal year 2020.
+There are authorized to be appropriated to carry out the activities described in section 3162(a) of this title, $820,430,000 for fiscal year 2015, $883,800,000 for fiscal year 2016, $902,139,000 for fiscal year 2017, $922,148,000 for fiscal year 2018, $943,828,000 for fiscal year 2019, and $963,837,000 for fiscal year 2020.
 
 #### (b) Adult employment and training activities
 
@@ -16,5 +16,5 @@ There are authorized to be appropriated to carry out the activities described in
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

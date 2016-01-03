@@ -28,7 +28,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 #### (c) Exercise of certain powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) <sup>2</sup> of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a),<sup>2</sup> each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (d) Actions by Commission
 
@@ -42,7 +42,7 @@ Nothing contained in this chapter shall be construed to limit the authority of t
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. Forcomplete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
 

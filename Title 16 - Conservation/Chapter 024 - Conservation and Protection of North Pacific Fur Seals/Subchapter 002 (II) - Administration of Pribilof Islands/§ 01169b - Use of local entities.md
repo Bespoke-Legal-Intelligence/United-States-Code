@@ -10,7 +10,7 @@ Subsection (a), referred to in text, was a reference to subsection (a) of sectio
 
 #### Codification
 
-The text of this section as added by Pub. L. 106–554 and Pub. L. 106–562 is based on the text of Pub. L. 104–91, §3(d), Jan. 6, 1996, 110 Stat. 9, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(A)(i)\],Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(a)(1), Dec. 23, 2000, 114 Stat. 2799. Pub. L. 104–91, §3(d), was included in a note set out under section 1165 of this title prior to being redesignated and transferred by Pub. L. 106–554 and Pub. L. 106–562 so as to appear as section 212 of Pub. L. 89–702.
+The text of this section as added by Pub. L. 106–554 and Pub. L. 106–562 is based on the text of Pub. L. 104–91, §3(d), Jan. 6, 1996, 110 Stat. 9, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(6)(A)(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–248; Pub. L. 106–562, title I, §106(a)(1), Dec. 23, 2000, 114 Stat. 2799. Pub. L. 104–91, §3(d), was included in a note set out under section 1165 of this title prior to being redesignated and transferred by Pub. L. 106–554 and Pub. L. 106–562 so as to appear as section 212 of Pub. L. 89–702.
 
 Another section 212 of Pub. L. 89–702 is classified to section 1169a of this title.
 

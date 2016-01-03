@@ -76,7 +76,7 @@ Pub. L. 98–169, §1(2), substituted "Director" for "Director of the Office of 
 
 Subsec. (b). Pub. L. 98–169, §4, substituted "Administrator" for "Director" in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 98–169, §3(e), amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under section 6102(a) of this title at the time the catalog was prepared.
+Subsec. (b)(1). Pub. L. 98–169, §3(e), amended par. (1) generally, substituting provisions requiring that the catalog contain all substantive information on domestic assistance programs that is in the system under section 6102(a)(1), (2), and (5)–(7) of this title, and such portions or summaries, as the Administrator considers appropriate, of information in the system under section 6102(a)(3), (4) of this title, at the time the catalog is prepared, for provision requiring that the catalog contain all such information in the system under section6102(a) of this title at the time the catalog was prepared.
 
 Subsecs. (b)(2), (c), (d). Pub. L. 98–169, §4, substituted "Administrator" for "Director" wherever appearing.
 

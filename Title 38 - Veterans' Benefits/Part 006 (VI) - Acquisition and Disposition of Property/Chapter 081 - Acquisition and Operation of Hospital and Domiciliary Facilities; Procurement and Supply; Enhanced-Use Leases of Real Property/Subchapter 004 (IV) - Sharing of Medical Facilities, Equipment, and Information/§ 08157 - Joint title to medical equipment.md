@@ -8,7 +8,7 @@
 
 (3) Before equipment acquired under such an agreement may be used, the parties to the agreement shall arrange by contract under section 8153 of this title for the exchange or use of the equipment.
 
-(4) The Secretary may not contract for the acquisition of medical equipment to be purchased jointly under an agreement under subsection (a)until the institution which enters into the agreement provides to the Secretary its share of the purchase price of the medical equipment.
+(4) The Secretary may not contract for the acquisition of medical equipment to be purchased jointly under an agreement under subsection (a) until the institution which enters into the agreement provides to the Secretary its share of the purchase price of the medical equipment.
 
 (c)(1) Notwithstanding any other provision of law, the Secretary may transfer the interest of the Department in equipment acquired through an agreement under subsection (a) to the institution which holds joint title to the equipment if the Secretary determines that the transfer would be justified by compelling clinical considerations or the economic interest of the Department. Any such transfer may only be made upon agreement by the institution to pay to the Department the amount equal to one-half of the depreciated purchase price of the equipment. Any such payment when received shall be credited to the applicable Department medical appropriation.
 

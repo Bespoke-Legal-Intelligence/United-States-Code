@@ -22,7 +22,7 @@ It is the sense of Congress that—
 
 &emsp;Not later than 90 days after December 18, 2014, and every 90 days thereafter, the President shall submit to the committees specified in subsection (d) a report that includes the following elements:
 
-&emsp;&emsp;(A) A description of the status of the President's efforts, in cooperation with United States allies, to hold the Russian Federation accountable for being in violation of its obligations under the INF Treaty and obtain the complete and verifiable elimination of its military systems that constitute the violation of its obligations under the INF Treaty.
+&emsp;&emsp;(A) A description of the status of the President's efforts, in cooperation withUnited States allies, to hold the Russian Federation accountable for being in violation of its obligations under the INF Treaty and obtain the complete and verifiable elimination of its military systems that constitute the violation of its obligations under the INF Treaty.
 
 &emsp;&emsp;(B) The President's assessment as to whether it remains in the national security interests of the United States to remain a party to the INF Treaty, and other related treaties and agreements, while the Russian Federation is in violation of its obligations under the INF Treaty.
 
@@ -43,4 +43,8 @@ The committees specified in this subsection are—
 &emsp;(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 (Pub. L. 113–272, §10, Dec. 18, 2014, 128 Stat. 2965.)
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 

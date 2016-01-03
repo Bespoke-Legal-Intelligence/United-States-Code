@@ -16,7 +16,7 @@ For purposes of this chapter, if a regulated investment company—
 
 #### (b) Receipt by shareholder
 
-Except as provided in section 852(b)(7), amounts to which subsection (a) is applicableshall be treated as received by the shareholder in the taxable year in which the distribution is made.
+Except as provided in section 852(b)(7), amounts to which subsection (a) is applicable shall be treated as received by the shareholder in the taxable year in which the distribution is made.
 
 #### (c) Foreign tax election
 

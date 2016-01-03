@@ -2,7 +2,7 @@
 
 #### (a) Consistency of provisions
 
-This part does not annul, alter, or affect, or exempt any person subject to the provisions of this part from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this part, and then only to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this part if the Bureau determines that such law gives greater protection to the consumer.
+This part does not annul, alter, or affect, or exempt any person subject to the provisions of this part from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this part, and thenonly to the extent of the inconsistency. The Bureau is authorized to determine whether such inconsistencies exist. The Bureau may not determine that any State law is inconsistent with any provision of this part if the Bureau determines that such law gives greater protection to the consumer.
 
 #### (b) Exemptions by Bureau from credit billing requirements
 
@@ -12,7 +12,7 @@ The Bureau shall by regulation exempt from the requirements of this part any cla
 
 Notwithstanding any other provisions of this subchapter, any discount offered under section 1666f(b) of this title shall not be considered a finance charge or other charge for credit under the usury laws of any State or under the laws of any State relating to disclosure of information in connection with credit transactions, or relating to the types, amounts or rates of charges, or to any element or elements of charges permissible under such laws in connection with the extension or use of credit.
 
-(Pub. L. 90–321, title I, §173, formerly §171, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974,88 Stat. 1516; amended Pub. L. 94–222, §3(d), Feb. 27, 1976, 90 Stat. 198; renumbered §173, Pub. L. 111–24, title I, §101(b)(1), May 22, 2009, 123 Stat. 1736; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+(Pub. L. 90–321, title I, §173, formerly §171, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1516; amended Pub. L. 94–222, §3(d), Feb. 27, 1976, 90 Stat. 198; renumbered §173, Pub. L. 111–24, title I, §101(b)(1), May 22, 2009, 123 Stat. 1736; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
 
 #### Codification
 

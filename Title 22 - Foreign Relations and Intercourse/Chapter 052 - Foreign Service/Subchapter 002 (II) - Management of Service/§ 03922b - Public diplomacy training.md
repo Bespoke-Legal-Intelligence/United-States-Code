@@ -6,7 +6,7 @@ The following should be the policy of the United States:
 
 &emsp;(1) The Foreign Service should recruit individuals with expertise and professional experience in public diplomacy.
 
-&emsp;(2) United States chiefs of mission should have a prominent role in the formulation of public diplomacy strategies for the countries and regions to which they are assigned andshould be accountable for the operation and success of public diplomacy efforts at their posts.
+&emsp;(2) United States chiefs of mission should have a prominent role in the formulation of public diplomacy strategies for the countries and regions to which they are assigned and should be accountable for the operation and success of public diplomacy efforts at their posts.
 
 &emsp;(3) Initial and subsequent training of Foreign Service officers should be enhanced to include information and training on public diplomacy and the tools and technology of mass communication.
 

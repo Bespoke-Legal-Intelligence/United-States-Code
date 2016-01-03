@@ -14,11 +14,11 @@ The Secretary may use up to 5 percent of the amounts made available for research
 
 #### (d) Priorities
 
-In making grants under subsections (b) and (c) of this section, the Secretary shall give priority to research proposals under which—
+In making grants under subsections (b) and (c), the Secretary shall give priority to research proposals under which—
 
 &emsp;(1) the proposed research will be collaborative research organized through a center of scientific excellence;
 
-&emsp;(2) the applicant agrees to provide matching funds (in the form of direct funding or in-kindsupport) in an amount equal to not less than 50 percent of the grant amount; and
+&emsp;(2) the applicant agrees to provide matching funds (in the form of direct funding or in-kind support) in an amount equal to not less than 50 percent of the grant amount; and
 
 &emsp;(3) the proposed research will be conducted as part of an existing private and public partnership or cooperative research effort and involves several interested research partners.
 

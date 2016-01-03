@@ -40,7 +40,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Priorities
 
-&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assume leadership of sustainable campaigns to combat their local epidemics should place high priority on—
+&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assumeleadership of sustainable campaigns to combat their local epidemics should place high priority on—
 
 &emsp;&emsp;(A) the prevention of the transmission of HIV;
 
@@ -120,7 +120,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(vii) strategies to address the stigma and discrimination that impede HIV/AIDS prevention efforts; and
 
-&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention,if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
+&emsp;&emsp;&emsp;(viii) assistance to facilitate widespread access to microbicides for HIV prevention, if safe and effective products become available, including financial and technical support for culturally appropriate introductory programs, procurement, distribution, logistics management, program delivery, acceptability studies, provider training, demand generation, and postintroduction monitoring.
 
 #### (2) Treatment
 
@@ -242,7 +242,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(ii) promote provider-initiated or "opt-out" HIV/AIDS counseling and testing and appropriate referral for treatment and care to individuals with tuberculosis or its symptoms, particularly in areas with significant HIV prevalence; and
 
-&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receive tuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
+&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receivetuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
 
 &emsp;&emsp;(G) activities to—
 
@@ -258,7 +258,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;The establishment and operation of public-private partnership entities within countries in sub-Saharan Africa, the Caribbean, and other countries affected by the HIV/AIDS pandemic that are dedicated to supporting the national strategy of such countries regarding the prevention, treatment, and monitoring of HIV/AIDS. Each such public-private partnership should—
 
-&emsp;&emsp;(A) support the development, implementation, and management of comprehensiveHIV/AIDS plans in support of the national HIV/AIDS strategy;
+&emsp;&emsp;(A) support the development, implementation, and management of comprehensive HIV/AIDS plans in support of the national HIV/AIDS strategy;
 
 &emsp;&emsp;(B) operate at all times in a manner that emphasizes efficiency, accountability, and results-driven programs;
 
@@ -496,7 +496,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;&emsp;(iii) a description of measures taken to improve partner country capacity to sustain positive outcomes where needed; and
 
-&emsp;&emsp;&emsp;(iv) for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigate programmatic and financial risk and to ensure continued quality of care for essential services.
+&emsp;&emsp;&emsp;(iv) for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigateprogrammatic and financial risk and to ensure continued quality of care for essential services.
 
 &emsp;&emsp;(L) A description, globally and by partner country, of specific efforts to achieve and incentivize greater programmatic and cost effectiveness, including—
 
@@ -570,7 +570,7 @@ In this section:
 
 Section 7672(a)(3) of this title and section 7673(d) of this title, referred to in subsec. (b)(1)(A)(ii)(I), were in the original references to sections 402(a)(3) and 403(d), respectively, and were translated as meaning sections 402(a)(3) and 403(d), respectively, of Pub. L. 108–25, to reflect the probable intent of Congress.
 
-The PEPFAR Stewardship and Oversight Act of 2013, referred to in subsec. (f)(2), is Pub. L. 113–56, Dec. 2, 2013, 127 Stat. 648. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 7601 of this title and Tables.
+The PEPFAR Stewardship and Oversight Act of 2013, referred to in subsec. (f)(2), is Pub. L. 113–56, Dec. 2,2013, 127 Stat. 648. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 7601 of this title and Tables.
 
 This chapter, referred to in subsec. (h)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -584,7 +584,7 @@ Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prio
 
 Subsec. (c)(1). Pub. L. 110–293, §301(b)(1), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates" for "and other countries and areas".
 
-Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDSpandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
+Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
 
 Subsec. (c)(3). Pub. L. 110–293, §301(b)(3), substituted "partner countries, other international actors," for "foreign countries" and inserted "within the framework of the principles of the Three Ones" before the period at end.
 

@@ -20,7 +20,7 @@
 
 #### (B) Responsibilities
 
-&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) of this title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.
+&emsp;&emsp;Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual's disability or that the individual is ineligible for vocational rehabilitation services, the designated State unit shall explore the individual's abilities, capabilities, and capacity to perform in work situations, through the use of trial work experiences, as described in section 705(2)(D) of this title, with appropriate supports provided through the designated State unit. Such experiences shall be of sufficient variety and over a sufficient period of time to determine the eligibility of the individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supportedemployment, and the opportunity to become employed in competitive integrated employment.
 
 #### (3) Presumption of eligibility
 
@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) of this section for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
+&emsp;&emsp;To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
 
 #### (B) Determinations by officials of other agencies
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(i) the reasons for the determination, including the clear and convincing evidence that forms the basis for the determination of ineligibility; and
 
-&emsp;&emsp;&emsp;(ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
+&emsp;&emsp;&emsp;(ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c);
 
 &emsp;&emsp;(D) the individual shall be provided with a description of services available from the client assistance program under section 732 of this title and information on how to contact that program; and
 
@@ -78,7 +78,7 @@
 
 #### (6) Timeframe for making an eligibility determination
 
-&emsp;The designated State unit shall determine whether an individual is eligible for vocationalrehabilitation services under this subchapter within a reasonable period of time, not to exceed 60 days, after the individual has submitted an application for the services unless—
+&emsp;The designated State unit shall determine whether an individual is eligible for vocational rehabilitation services under this subchapter within a reasonable period of time, not to exceed 60 days, after the individual has submitted an application for the services unless—
 
 &emsp;&emsp;(A) exceptional and unforeseen circumstances beyond the control of the designated State unit preclude making an eligibility determination within 60 days and the designated State unit and the individual agree to a specific extension of time; or
 
@@ -88,7 +88,7 @@
 
 #### (1) Options for developing an individualized plan for employment
 
-&emsp;If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a) of this section, the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual's representative, in writing and in an appropriate mode of communication, with information on the individual's options for developing an individualized plan for employment, including—
+&emsp;If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a), the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual's representative, in writing and in an appropriate mode of communication, with information on the individual's options for developing an individualized plan for employment, including—
 
 &emsp;&emsp;(A) information on the availability of assistance from a qualified vocational rehabilitation counselor or, as appropriate, a disability advocacy organization in developing all or part of the individualized plan for employment for the individual, and the availability of technical assistance in developing all or part of the individualized plan for employment for the individual;
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(iii) information on the availability of assistance in completing designated State agency forms required in developing an individualized plan for employment; and
 
-&emsp;&emsp;(D)(i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c) of this section; and
+&emsp;&emsp;(D)(i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c); and
 
 &emsp;&emsp;(ii) a description of the availability of a client assistance program established pursuant to section 732 of this title and information about how to contact the client assistance program.
 
@@ -118,7 +118,7 @@
 
 #### (B) Informed choice
 
-&emsp;&emsp;An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d) of this section.
+&emsp;&emsp;An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d).
 
 #### (C) Signatories
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(ii) amended, as necessary, by the individual or, as appropriate, the individual's representative, in collaboration with a representative of the designated State agency or a qualified vocational rehabilitation counselor (to the extent determined to be appropriate by the individual), if there are substantive changes in the employment outcome, the vocational rehabilitation services to be provided, or the service providers of the services (which amendments shall not take effect until agreed to and signed by the eligible individual or, as appropriate, the individual's representative, and by a qualified vocational rehabilitation counselor employed by the designated State unit); and
 
-&emsp;&emsp;&emsp;(iii) amended, as necessary, to include the postemployment services and serviceproviders that are necessary for the individual to maintain or regain employment, consistent with the individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
+&emsp;&emsp;&emsp;(iii) amended, as necessary, to include the postemployment services and service providers that are necessary for the individual to maintain or regain employment, consistent with the individual's strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.
 
 #### (F) Timeframe for completing the individualized plan for employment
 
@@ -210,7 +210,7 @@
 
 &emsp;&emsp;The procedures shall provide that an applicant or an eligible individual or, as appropriate, the applicant's representative or individual's representative shall be notified of—
 
-&emsp;&emsp;&emsp;(i) the right to obtain review of determinations described in paragraph (1) in an impartial due process hearing under paragraph (5);
+&emsp;&emsp;&emsp;(i) the right to obtain review of determinations described in paragraph (1) in animpartial due process hearing under paragraph (5);
 
 &emsp;&emsp;&emsp;(ii) the right to pursue mediation with respect to the determinations under paragraph (4);
 
@@ -284,7 +284,7 @@
 
 #### (B) List
 
-&emsp;&emsp;The designated State unit shall maintain a list of qualified impartial hearing officerswho are knowledgeable about Federal laws (including regulations) relating to the provision of vocational rehabilitation services under this subchapter from which the officer described in subparagraph (A) shall be selected. For the purposes of maintaining such list, impartial hearing officers shall be identified jointly by—
+&emsp;&emsp;The designated State unit shall maintain a list of qualified impartial hearing officers who are knowledgeable about Federal laws (including regulations) relating to the provision of vocational rehabilitation services under this subchapter from which the officer described in subparagraph (A) shall be selected. For the purposes of maintaining suchlist, impartial hearing officers shall be identified jointly by—
 
 &emsp;&emsp;&emsp;(i) the designated State unit; and
 
@@ -430,7 +430,7 @@ The Social Security Act, referred to in subsecs. (a)(3)(A) and (b)(2), is act Au
 
 #### Prior Provisions
 
-A prior section 722, Pub. L. 93–112, title I, §102, Sept. 26, 1973, 87 Stat. 368; Pub. L. 93–516, title I, §111(e), Dec.7, 1974, 88 Stat. 1620; Pub. L. 93–651, title I, §111(e), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§103, 122(b)(1), Nov. 6, 1978, 92 Stat. 2959, 2987; Pub. L. 98–221, title I, §§104(a)(3), 112, Feb. 22, 1984, 98 Stat. 18, 20; Pub. L. 99–506, title I, §103(d)(2)(A), (B), title II, §203, title X, §1001(b)(5), Oct. 21, 1986, 100 Stat. 1810, 1815, 1842; Pub. L. 100–630, title II, §202(c), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§102(p)(8), 123, Oct. 29, 1992, 106 Stat. 4357, 4375; Pub. L. 103–73, title I, §107(b), Aug. 11, 1993, 107 Stat. 720, related to individualized written rehabilitation program, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 722, Pub. L. 93–112, title I, §102, Sept. 26, 1973, 87 Stat. 368; Pub. L. 93–516, title I, §111(e), Dec. 7, 1974, 88 Stat. 1620; Pub. L. 93–651, title I, §111(e), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§103, 122(b)(1), Nov. 6, 1978, 92 Stat. 2959, 2987; Pub. L. 98–221,title I, §§104(a)(3), 112, Feb. 22, 1984, 98 Stat. 18, 20; Pub. L. 99–506, title I, §103(d)(2)(A), (B), title II, §203, title X, §1001(b)(5), Oct. 21, 1986, 100 Stat. 1810, 1815, 1842; Pub. L. 100–630, title II, §202(c), Nov. 7, 1988, 102 Stat. 3305; Pub. L. 102–569, title I, §§102(p)(8), 123, Oct. 29, 1992, 106 Stat. 4357, 4375; Pub. L. 103–73, title I, §107(b), Aug. 11, 1993, 107 Stat. 720, related to individualized written rehabilitation program, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 
@@ -482,5 +482,5 @@ Subsec. (c)(5)(B). Pub. L. 113–128, §413(c)(3)(B), substituted "about Federal
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

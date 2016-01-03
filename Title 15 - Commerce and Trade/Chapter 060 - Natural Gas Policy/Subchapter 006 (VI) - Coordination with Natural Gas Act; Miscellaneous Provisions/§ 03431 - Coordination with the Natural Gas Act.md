@@ -6,7 +6,7 @@
 
 #### (A) Application to first sales
 
-&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\], and the jurisdiction of the Commission under such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
+&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\], and the jurisdiction of the Commissionunder such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.
 
 #### (B) Authorized sales or assignments
 

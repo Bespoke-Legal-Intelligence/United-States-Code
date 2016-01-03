@@ -48,5 +48,5 @@ Section was enacted as part of the Code Adam Act of 2003 and also as part of the
 
 #### Short Title
 
-For short title of subtitle D of title III of Pub. L. 108–21, which enacted this part, as the "Code Adam Actof 2003", see section 361 of Pub. L. 108–21, set out as a note under section 5601 of this title.
+For short title of subtitle D of title III of Pub. L. 108–21, which enacted this part, as the "Code Adam Act of 2003", see section 361 of Pub. L. 108–21, set out as a note under section 5601 of this title.
 

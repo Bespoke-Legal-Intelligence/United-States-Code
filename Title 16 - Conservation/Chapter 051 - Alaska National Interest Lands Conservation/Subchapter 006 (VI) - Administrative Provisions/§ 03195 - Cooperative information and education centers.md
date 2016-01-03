@@ -10,7 +10,7 @@ Pub. L. 99–664, §11, Nov. 17, 1986, 100 Stat. 4308, provided that:
 
 "(a)
 
-Authorization.—There is hereby authorized to be appropriated $250,000 to be used by the Secretary of Agriculture to conduct surveys, develop designs, and carry out other preliminary work related to the establishment of an Information and Education Center provided for in section 1305 of Public Law 96–487 \[16 U.S.C. 3195\].
+Authorization.—There is hereby authorized to be appropriated $250,000 to be used by the Secretary of Agriculture to conduct surveys, develop designs, andcarry out other preliminary work related to the establishment of an Information and Education Center provided for in section 1305 of Public Law 96–487 \[16 U.S.C. 3195\].
 
 "(b)
 

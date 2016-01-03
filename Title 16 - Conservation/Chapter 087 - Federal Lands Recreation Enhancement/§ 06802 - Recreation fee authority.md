@@ -130,7 +130,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 #### (1) NPS and USFWS authority
 
-&emsp;Except as limited by subsection (d), the Secretary of the Interior may charge an expanded amenity recreation fee, either in addition to an entrance fee or by itself, at Federal recreational lands and waters under the jurisdiction of the National Park Service or the United States Fish and Wildlife Service when the Secretary of the Interior determines that the visitor uses a specific or specialized facility, equipment, or service.
+&emsp;Except as limited by subsection (d), the Secretary of the Interior may charge an expanded amenity recreation fee, either in addition toan entrance fee or by itself, at Federal recreational lands and waters under the jurisdiction of the National Park Service or the United States Fish and Wildlife Service when the Secretary of the Interior determines that the visitor uses a specific or specialized facility, equipment, or service.
 
 #### (2) Other Federal land management agencies
 
@@ -158,7 +158,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 &emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
 
-&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-useor overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
+&emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
 
 &emsp;&emsp;(D) Use of hookups for electricity, cable, or sewer.
 

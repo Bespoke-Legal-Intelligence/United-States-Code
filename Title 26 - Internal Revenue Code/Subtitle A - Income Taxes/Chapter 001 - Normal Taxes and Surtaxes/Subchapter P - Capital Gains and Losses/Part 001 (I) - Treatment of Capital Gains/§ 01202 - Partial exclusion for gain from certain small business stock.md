@@ -34,9 +34,9 @@
 
 > &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
 
-#### (4) 100 percent exclusion for stock acquired during certain periods in 2010, 2011, 2012, 2013, and 2014
+#### (4) 100 percent exclusion for stock acquired during certain periods in 2010 and thereafter
 
-&emsp;In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2015—
+&emsp;In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010—
 
 &emsp;&emsp;(A) paragraph (1) shall be applied by substituting "100 percent" for "50 percent",
 
@@ -70,7 +70,7 @@
 
 #### (B) Allocation of exclusion
 
-&emsp;&emsp;In the case of any joint return, the amount of gain taken into account under subsection (a) shall be allocated equally between the spouses for purposes of applying this subsection to subsequent taxable years.
+&emsp;&emsp;In the case of any joint return, the amount of gain taken into account under subsection (a) shall be allocated equally between thespouses for purposes of applying this subsection to subsequent taxable years.
 
 #### (C) Marital status
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) start-up activities described in section 195(c)(1)(A),
 
-&emsp;&emsp;(B) activities resulting in the payment or incurring of expenditures which may betreated as research and experimental expenditures under section 174, or
+&emsp;&emsp;(B) activities resulting in the payment or incurring of expenditures which may be treated as research and experimental expenditures under section 174, or
 
 &emsp;&emsp;(C) activities with respect to in-house research expenses described in section 41(b)(4),
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (8) Computer software royalties
 
-&emsp;For purposes of paragraph (1), rights to computer software which produces active business computer software royalties (within the meaning of section 543(d)(1)) shall be treated as an asset used in the active conduct of a trade or business.
+&emsp;For purposes of paragraph (1), rights to computer software which produces active businesscomputer software royalties (within the meaning of section 543(d)(1)) shall be treated as an asset used in the active conduct of a trade or business.
 
 #### (f) Stock acquired on conversion of other stock
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (D) Control test
 
-&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
+&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, thecorporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
 
 #### (i) Basis rules
 
@@ -368,7 +368,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054.)
 
 #### References in Text
 
@@ -387,6 +387,8 @@ Section 301(d) of the Small Business Investment Act of 1958, referred to in subs
 A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(33)(M), 90 Stat. 1802; Nov. 6, 1978, Pub. L. 95–600, title IV, §402(a), 92 Stat. 2867; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(2)(A), 94 Stat. 214, authorized deduction for capital gains, prior to repeal by Pub. L. 99–514, title III, §301(a), (c), Oct. 22, 1986, 100 Stat. 2216, 2218, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–113 substituted "and thereafter" for ", 2011, 2012, 2013, and 2014" in heading and struck out "and before January 1, 2015" after "of the Creating Small Business Jobs Act of 2010" in introductory provisions.
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–295 substituted "2013, and 2014" for "and 2013" in heading and "January 1, 2015" for "January 1, 2014" in introductory provisions.
 
@@ -415,6 +417,10 @@ Pub. L. 111–240, §2011(a), added par. (4).
 Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years."
 
 <b>1996</b>—Subsec. (e)(4)(C). Pub. L. 104–188 substituted "REMIC, or FASIT" for "or REMIC".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §126(b), Dec. 18, 2015, 129 Stat. 3054, provided that: "The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2014."
 
 #### Effective Date of 2014 Amendment
 

@@ -24,7 +24,7 @@
 
 &emsp;(A) at the rate the employee would have received but for the period of service described in subsection (a)(2)(B), or
 
-&emsp;(B) in the case that the determination of such rate is not reasonably certain, on the basis of the employee's average rate of compensation during the 12-month period immediately preceding such period (or, if shorter, the period of employment immediately preceding such period).
+&emsp;(B) in the case that the determination of such rate is not reasonably certain, on thebasis of the employee's average rate of compensation during the 12-month period immediately preceding such period (or, if shorter, the period of employment immediately preceding such period).
 
 (c) Any employer who reemploys a person under this chapter and who is an employer contributing to a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, under which benefits are or may be payable to such person by reason of the obligations set forth in this chapter, shall, within 30 days after the date of such reemployment, provide information, in writing, of such reemployment to the administrator of such plan.
 

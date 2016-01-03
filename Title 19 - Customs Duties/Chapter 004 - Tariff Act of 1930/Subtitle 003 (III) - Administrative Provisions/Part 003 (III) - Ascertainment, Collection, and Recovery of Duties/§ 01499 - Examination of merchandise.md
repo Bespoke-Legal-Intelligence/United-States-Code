@@ -22,7 +22,7 @@
 
 &emsp;If any package contains any article not specified in the invoice or entry and, in the opinion of the Customs Service, the article was omitted from the invoice or entry—
 
-&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer of record, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
+&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer ofrecord, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
 
 &emsp;&emsp;(B) without fraudulent intent, the value of the article shall be added to the entry and the duties, fees, and taxes thereon paid accordingly.
 
@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided,either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 
@@ -90,7 +90,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (1) In general
 
-&emsp;Within the 5-day period (excluding weekends and holidays) following the date on which merchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
+&emsp;Within the 5-day period (excluding weekends and holidays) following the date on whichmerchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
 
 #### (2) Notice of detention
 
@@ -160,7 +160,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees ofsuch Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Existing Laboratories
 

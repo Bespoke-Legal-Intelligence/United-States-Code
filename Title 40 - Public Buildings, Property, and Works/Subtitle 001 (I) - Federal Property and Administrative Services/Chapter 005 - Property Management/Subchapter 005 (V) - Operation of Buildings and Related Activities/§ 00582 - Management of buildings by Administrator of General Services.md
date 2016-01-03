@@ -26,7 +26,7 @@ Exception for department of defense buildings.—A transfer of functions shall n
 
 &emsp;(5)
 
-Exception for groups of special purpose buildings.—A transfer of functions shall not be made under this subsection for a building that the Director finds to be a part of a group of buildings that are—
+Exception for groups of special purpose buildings.—A transfer of functions shallnot be made under this subsection for a building that the Director finds to be a part of a group of buildings that are—
 
 &emsp;&emsp;(A) located in the same vicinity;
 

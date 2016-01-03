@@ -4,5 +4,5 @@ Section, Pub. L. 97–300, title I, §181, Oct. 13, 1982, 96 Stat. 1354; Pub. L.
 
 #### Effective Date of Repeal
 
-Repeal effective July 1, 1993, see section 701(a) of Pub. L. 102–367, formerly set out as an Effective Date of 1992Amendment; Transition Provisions note under section 1501 of this title.
+Repeal effective July 1, 1993, see section 701(a) of Pub. L. 102–367, formerly set out as an Effective Date of 1992 Amendment; Transition Provisions note under section 1501 of this title.
 

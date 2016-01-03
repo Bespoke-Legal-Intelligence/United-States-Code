@@ -46,7 +46,7 @@ Payment by fdic.—Upon the request of the Chairman of the Federal Home Loan Ban
 
 &emsp;&emsp;"(C)
 
-Exclusive source of funds.—No funds or other property of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation (other than the FSLIC Resolution Fund) may be used by the Chairman of the Federal Home Loan Bank Board to pay any expense incurred in carrying out any provision of this title \[see Tables for classification\].
+Exclusive source of funds.—No funds or other property of the Federal Home Loan BankBoard or the Federal Savings and Loan Insurance Corporation (other than the FSLIC Resolution Fund) may be used by the Chairman of the Federal Home Loan Bank Board to pay any expense incurred in carrying out any provision of this title \[see Tables for classification\].
 
 &emsp;&emsp;"(D)
 
@@ -144,7 +144,7 @@ In general.—No action or other proceeding commenced by or against the Federal 
 
 Continuation of Orders, Resolutions, Determinations, and Regulations.—Subject to section 402, all orders, resolutions, determinations, and regulations, which—
 
-&emsp;"(1) have been issued, made, prescribed, or allowed to become effective by the Federal Savings and Loan Insurance Corporation or the Federal Home Loan Bank Board (including orders, resolutions, determinations, and regulations which relate to the conduct of conservatorships and receiverships), or by a court of competent jurisdiction, in the performance of functions which are transferred by this Act \[see Tables for classification\]; and
+&emsp;"(1) have been issued, made, prescribed, or allowed to become effective by the Federal Savings and Loan Insurance Corporation or the Federal Home LoanBank Board (including orders, resolutions, determinations, and regulations which relate to the conduct of conservatorships and receiverships), or by a court of competent jurisdiction, in the performance of functions which are transferred by this Act \[see Tables for classification\]; and
 
 &emsp;"(2) are in effect on the date this Act takes effect \[Aug. 9, 1989\],
 
@@ -256,7 +256,7 @@ Agency action required to provide continued availability of indexes.—Promptly 
 
 &emsp;"(4)
 
-Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency,as the case may be, determines, after notice and opportunity for comment, that—
+Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Comptroller of the Currency, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Agency, as the case may be, determines, after notice and opportunity for comment, that—
 
 &emsp;&emsp;"(A) the new index is based upon data substantially similar to that of the original index; and
 
@@ -374,7 +374,7 @@ Federal Home Loan Banks' Share of Administrative Expenses.—The Federal Home Lo
 
 "(b)
 
-Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees of the Federal Home Loan Banks or the joint offices ofsuch banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
+Compensation of Supervisory and Examinations Employees.—The Federal Home Loan Banks shall continue to pay the compensation of employees of the Federal Home Loan Banks or the joint offices of such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing supervisory and examination functions until such supervisory and examination functions are transferred under this Act \[see Tables for classification\]. Thereafter, the obligation of the Federal Home Loan Banks hereunder to pay such applicable compensation shall continue until the later of—
 
 &emsp;"(1) the date which is 120 days after the date of transfer of such supervisory and examination functions to the Office of Thrift Supervision, or
 
@@ -462,7 +462,7 @@ Effective Date.—The guidelines required to be promulgated under subsection (a)
 
 #### Guidelines for Asset Disposition
 
-Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board tosubmit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, §411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 #### Expansion of Use of Underutilized Minority Thrift Institutions
 
@@ -512,7 +512,7 @@ Appearance.—The Federal Home Loan Bank Board and the Federal Savings and Loan 
 
 "(d)
 
-Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, and other persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility."
+Guidelines for Employment of Outside Accountants, Attorneys, Conservators, and Other Consultants.—Before the end of the 6-month period beginning on the date of the enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing guidelines to improve the management of and control over all outside accountants, attorneys, conservators, consultants, andother persons whose services are employed by the Board, the Federal Savings and Loan Insurance Corporation, the Federal Asset Disposition Association, the principal supervisory agent for any Federal home loan bank district, or any other entity created, owned, or controlled by the Board in connection with any function for which the Board has direct or indirect regulatory or supervisory responsibility."
 
 #### Study and Reports Concerning Direct Investments
 
@@ -544,7 +544,7 @@ Prior Reports to Congress on Changes To Direct Investment Regulations.—
 
 &emsp;"(1)
 
-In general.—Not less than 90 days before final approval is given by the Federal Home Loan BankBoard to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
+In general.—Not less than 90 days before final approval is given by the Federal Home Loan Bank Board to any regulation which repeals or modifies (or has the effect of repealing or modifying) any regulation limiting direct investment activities, the Board shall submit to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the proposed regulation and the reasons for the proposed regulation, including the effect of such regulation on the insurance fund.
 
 &emsp;"(2)
 

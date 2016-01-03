@@ -10,7 +10,7 @@ No guarantee or commitment to guarantee shall be made with respect to any note o
 
 #### (c) Payment of principal, interest and costs
 
-Notwithstanding any other provision of this chapter, grants allocated to an issuer pursuant to this chapter (including program income derived therefrom) are authorized for use in the payment of principal and interest due (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) on the notes or other obligations guaranteed pursuant to this section.
+Notwithstanding any other provision of this chapter, grants allocated to an issuer pursuant to this chapter (including program income derived therefrom) are authorized for use in the payment of principal and interest due (including such servicing, underwriting, or other costs asmay be specified in regulations of the Secretary) on the notes or other obligations guaranteed pursuant to this section.
 
 #### (d) Repayment contract; security; pledge by State
 
@@ -34,7 +34,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (g) Issuance of obligations by Secretary to Secretary of the Treasury to satisfy authorized guarantee obligations; establishment of maturities and rates of interest and purchase of obligations by Secretary of the Treasury
 
-The Secretary may issue obligations to the Secretary of the Treasury in an amount outstanding at any one time sufficient to enable the Secretary to carry out his obligations under guarantees authorized by this section. The obligations issued under this subsection shall havesuch maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Secretary issued under this section, and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchases of the Secretary's obligations hereunder.
+The Secretary may issue obligations to the Secretary of the Treasury in an amount outstanding at any one time sufficient to enable the Secretary to carry out his obligations under guarantees authorized by this section. The obligations issued under this subsection shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Secretary issued under this section, and for such purposes is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchases of the Secretary's obligations hereunder.
 
 #### (h) Federal taxation of guaranteed obligations; grants to borrowing entity or agency of taxable obligations for net interest costs, etc.; limitation on amount of grant; assistance to issuer in hardship cases
 

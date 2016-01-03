@@ -138,7 +138,7 @@ Personnel and Assets.—Subject to subsections (b) and (c), the personnel, asset
 
 "(b)
 
-Determination of CIA Positions To Be Transferred.—Not earlier than two years after the effective date of this subtitle \[Oct. 1, 1996\], the Secretary of Defense and the Director of Central Intelligence shall determine which, if any, positions and personnel of the Central Intelligence Agency are to be transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]. The positions to be transferred, and the employees serving in such positions, shall be transferred to the National Imagery and Mapping Agency under terms and conditions prescribed by the Secretary of Defense and the Director of Central Intelligence.
+Determination of CIA Positions To Be Transferred.—Not earlier than two years after the effective date of this subtitle \[Oct. 1, 1996\], the Secretary of Defense and the Director of Central Intelligence shall determine which, if any, positions and personnel of the Central Intelligence Agency are to be transferred to the National Imagery and Mapping Agency \[now NationalGeospatial-Intelligence Agency\]. The positions to be transferred, and the employees serving in such positions, shall be transferred to the National Imagery and Mapping Agency under terms and conditions prescribed by the Secretary of Defense and the Director of Central Intelligence.
 
 "(c)
 

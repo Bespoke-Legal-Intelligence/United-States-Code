@@ -54,7 +54,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) of this section shall apply.
 
-(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) <sup>2</sup> of this title, subsections (b) and (c) of section 6297 ofthis title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer for the period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
+(4)(A) If the Secretary does not issue a final rule for a specific type of commercial refrigerator, freezer, or refrigerator-freezer within the time frame specified in section 6313(c)(5) <sup>2</sup> of this title, subsections (b) and (c) of section 6297 of this title shall not apply to that specific type of refrigerator, freezer, or refrigerator-freezer for the period beginning on the date that is 2 years after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of refrigerator, freezer, or refrigerator-freezer.
 
 (B) Any State or local standard issued before the date of publication of the final rule shall not be preempted until the final rule takes effect.
 
@@ -128,7 +128,7 @@ In general.—If the Secretary does not issue a final rule for a specific type o
 
 &emsp;&emsp;(B)
 
-State standards.—Any State standard issued before the publication of the finalrule shall not be preempted until the standards established in the final rule take effect.
+State standards.—Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
 
 &emsp;(3)
 

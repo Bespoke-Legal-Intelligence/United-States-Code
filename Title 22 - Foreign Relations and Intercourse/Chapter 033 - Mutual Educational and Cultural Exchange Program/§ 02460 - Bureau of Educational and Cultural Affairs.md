@@ -36,7 +36,7 @@ The President shall insure that all programs under the authority of the Bureau s
 
 (1) The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
 
-(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
+(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Actauthorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
 
 #### (e) Office of Citizen Exchanges
 
@@ -106,7 +106,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L.87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -160,7 +160,7 @@ Pub. L. 101–246, title II, §222(b), Feb. 16, 1990, 104 Stat. 56, provided tha
 
 Pub. L. 98–164, title II, §207, Nov. 22, 1983, 97 Stat. 1032, as amended by Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398, provided that:
 
-"(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
+"(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waivethis limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
 
 "\[(b) Repealed. Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398.\]"
 
@@ -174,7 +174,7 @@ Section 1. There is hereby established within the United States Information Agen
 
 Sec. 2. The term "Government-sponsored international exchanges and training" shall mean the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
-Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies. In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureauof Education and Cultural Affairs of the United States Information Agency.
+Sec. 3. The Working Group shall consist of the Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair, and a comparable senior representative appointed by the respective Secretary of each of the Departments of State, Defense, Education, and the Attorney General, by the Administrator of the United States Agency for International Development, and by heads of other interested executive departments and agencies. In addition, representatives of the National Security Council and the Director of the Office of Management and Budget shall participate in the Working Group at their discretion. The Working Group shall be supported by an interagency staff office established in the Bureau of Education and Cultural Affairs of the United States Information Agency.
 
 Sec. 4. The Working Group shall have the following responsibilities:
 

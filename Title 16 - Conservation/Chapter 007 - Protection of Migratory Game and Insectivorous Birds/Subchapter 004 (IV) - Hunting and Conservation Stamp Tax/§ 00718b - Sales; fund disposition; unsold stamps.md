@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The stamps required under section 718a of this title shall be sold by the Postal Serviceand may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
+&emsp;The stamps required under section 718a of this title shall be sold by the Postal Service and may be sold by the Department of the Interior, pursuant to regulations promulgated jointly by the Postal Service and the Secretary, at—
 
 &emsp;&emsp;(A) any post office; and
 

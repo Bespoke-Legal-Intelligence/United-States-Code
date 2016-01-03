@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 98–181, §518(b), struck out subsec. (c), which related t
 
 #### Housing Assistance Council
 
-Pub. L. 110–234, title VI, subtitle D, May 22, 2008, 122 Stat. 1210, and Pub. L. 110–246, §4(a), title VI, subtitle D, June 18, 2008, 122 Stat. 1664, 1972, as amended by Pub.L. 113–188, title IX, §901(f), Nov. 26, 2014, 128 Stat. 2020, provided that:
+Pub. L. 110–234, title VI, subtitle D, May 22, 2008, 122 Stat. 1210, and Pub. L. 110–246, §4(a), title VI, subtitle D, June 18, 2008, 122 Stat. 1664, 1972, as amended by Pub. L. 113–188, title IX, §901(f), Nov. 26, 2014, 128 Stat. 2020, provided that:
 
 #### "SEC. 6301. SHORT TITLE.
 

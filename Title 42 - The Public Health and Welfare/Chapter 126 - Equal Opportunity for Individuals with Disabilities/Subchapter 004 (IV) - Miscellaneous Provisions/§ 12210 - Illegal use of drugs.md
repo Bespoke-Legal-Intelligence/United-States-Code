@@ -24,7 +24,7 @@ Notwithstanding subsection (a) of this section and section 12211(b)(3) of this t
 
 #### (1) In general
 
-&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such termdoes not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
+&emsp;The term "illegal use of drugs" means the use of drugs, the possession or distribution of which is unlawful under the Controlled Substances Act \[21 U.S.C. 801 et seq.\]. Such term does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provisions of Federal law.
 
 #### (2) Drugs
 

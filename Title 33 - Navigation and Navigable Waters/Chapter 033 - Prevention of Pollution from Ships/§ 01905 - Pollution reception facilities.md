@@ -2,11 +2,11 @@
 
 #### (a) Adequacy; criteria
 
-(1) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
+(1) The Secretary, after consultation with the Administrator of the Environmental ProtectionAgency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
 
 (2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
-(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances,and exhaust gas cleaning residues from ships are adequate.
+(3) The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port's or terminal's facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
 
 #### (b) Traffic considerations
 
@@ -56,7 +56,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
-(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
+(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision ofadequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
 
 #### (f) Surveys
 
@@ -72,7 +72,7 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 Subsec. (b). Pub. L. 110–280, §7(2), inserted "or the Administrator" after "Secretary".
 
-Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary may deny the entry ofa ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations."
+Subsec. (e)(2). Pub. L. 110–280, §7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations."
 
 Subsec. (f)(1). Pub. L. 110–280, §7(4), substituted "Secretary and the Administrator are" for "Secretary is".
 

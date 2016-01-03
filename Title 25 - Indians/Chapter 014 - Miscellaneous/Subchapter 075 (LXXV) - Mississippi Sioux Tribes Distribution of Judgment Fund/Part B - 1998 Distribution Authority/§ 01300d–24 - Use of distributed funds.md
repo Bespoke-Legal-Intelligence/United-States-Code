@@ -26,7 +26,7 @@ The funds allocated under section 1300d–23 of this title may be used, administ
 
 #### (c) Management
 
-Subject to subsections (a), (b), and (d) of this section, any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.).
+Subject to subsections (a), (b), and (d), any funds distributed to a covered Indian tribe pursuant to sections 1300d–23 and 1300d–26 of this title may be managed and invested by that Indian tribe pursuant to the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.).
 
 #### (d) Withdrawal of funds by covered tribes
 
@@ -46,7 +46,7 @@ Subject to subsections (a), (b), and (d) of this section, any funds distributed 
 
 #### References in Text
 
-The American Indian Trust Fund Management Reform Act of 1994, referred to in subsecs. (c) and (d)(1), is Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, as amended, which is classified principally to chapter 42 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The American Indian Trust Fund Management Reform Act of 1994, referred to in subsecs. (c) and (d)(1), is Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, as amended, which is classified principally to chapter 42 (§4001 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "of 1994".</i>
 

@@ -38,7 +38,7 @@ Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts,
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 
-Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of upland cotton, see section 502 of Pub. L. 101–624, set out as a note under section 1342 of this title.
 

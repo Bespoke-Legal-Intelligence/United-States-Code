@@ -24,7 +24,7 @@ Eligible airport-related project.—The term "eligible airport-related project" 
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
-&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance under section 47504, whether or not a program for those measures has been approved under section 47504.
+&emsp;&emsp;(E) A project to carry out noise compatibility measures eligible for assistance undersection 47504, whether or not a program for those measures has been approved under section 47504.
 
 &emsp;&emsp;(F) A project for constructing gates and related areas at which passengers board or exit aircraft. In the case of a project required to enable additional air service by an air carrier with less than 50 percent of the annual passenger boardings at an airport, the project for constructing gates and related areas may include structural foundations and floor systems, exterior building walls and load-bearing interior columns or walls, windows, door and roof systems, building utilities (including heating, air conditioning, ventilation, plumbing, and electrical service), and aircraft fueling facilities adjacent to the gate.
 
@@ -74,7 +74,7 @@ In general.—In addition to the uses specified in paragraphs (1), (4), and (6),
 
 &emsp;&emsp;(i) the Secretary determines that the building is adversely affected by airport noise;
 
-&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order;
+&emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff incase number 986,442 or 986,446, which was resolved by such judgment and final order;
 
 &emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effective February 16, 2005, between the airport and each of the school districts;
 
@@ -100,7 +100,7 @@ Applications.—(1) An eligible agency must submit to the Secretary an applicati
 
 &emsp;(D) Not later than 30 days after the meeting, each air carrier and foreign air carrier must provide to the agency certification of agreement or disagreement with projects (or total plan for the projects). Failure to provide the certification is deemed certification of agreement with the project by the carrier. A certification of disagreement is void if it does not contain the reasons for the disagreement.
 
-&emsp;(E) The agency must include in its application or notice submitted under subparagraph\(A) copies of all certifications of agreement or disagreement received under subparagraph (D).
+&emsp;(E) The agency must include in its application or notice submitted under subparagraph (A) copies of all certifications of agreement or disagreement received under subparagraph (D).
 
 &emsp;(F) For the purpose of this section, an eligible agency providing notice and an opportunity for consultation to an air carrier or foreign air carrier is deemed to have satisfied the requirements of this paragraph if the eligible agency limits such notices and consultations to air carriers and foreign air carriers that have a significant business interest at the airport. In the subparagraph, the term "significant business interest" means an air carrier or foreign air carrier that had no less than 1.0 percent of passenger boardings at the airport in the prior calendar year, had at least 25,000 passenger boardings at the airport in the prior calendar year, or provides scheduled service at the airport.
 
@@ -242,7 +242,7 @@ Notice and opportunity for consultation.—The eligible agency must provide reas
 
 &emsp;(3)
 
-Notice of intention.—The eligible agency must submit to the Secretary a notice ofintention to impose a passenger facility charge under this subsection. The notice shall include—
+Notice of intention.—The eligible agency must submit to the Secretary a notice of intention to impose a passenger facility charge under this subsection. The notice shall include—
 
 &emsp;&emsp;(A) information that the Secretary may require by regulation on each project for which authority to impose a passenger facility charge is sought;
 
@@ -594,7 +594,7 @@ Pub. L. 111–153, §5(j), Mar. 31, 2010, 124 Stat. 1085, provided that: "The am
 
 Pub. L. 111–116, §5(j), Dec. 16, 2009, 123 Stat. 3032, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on January 1, 2010."
 
-Pub. L. 111–69, §5(l), Oct. 1, 2009, 123 Stat. 2055, provided that: "The amendments made by this section\[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2009."
+Pub. L. 111–69, §5(l), Oct. 1, 2009, 123 Stat. 2055, provided that: "The amendments made by this section \[amending this section and sections 41743, 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as notes under sections 41731 and 47109 of this title\] shall take effect on October 1, 2009."
 
 Pub. L. 111–12, §5(j), Mar. 30, 2009, 123 Stat. 1458, provided that: "The amendments made by this section \[amending this section and sections 44302, 44303, 47107, 47115, 47141, and 49108 of this title and provisions set out as a note under section 47109 of this title\] shall take effect on April 1, 2009."
 

@@ -12,7 +12,17 @@ Refunds of Taxes.—There shall be paid from time to time from the Fund into the
 
 &emsp;(2) 80 percent of the floor stocks refunds made before October 1, 2017, under section 6412(a)(1) of the Internal Revenue Code of 1986 (26 U.S.C. 6412(a)(1)) with respect to gasoline to be used in motorboats.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3179.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3179; Pub. L. 114–94, div. C, title XXXI, §31102(e)(2)(B), Dec. 4, 2015, 129 Stat. 1728.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–94, div. C, title XXXI, §31102(e)(2)(B), (f), Dec. 4, 2015, 129 Stat. 1728, provided that, effective Oct. 1, 2016, this section is amended as follows:</i>
+
+<i>(1) by striking "October 1, 2017" each place it appears and inserting "October 1, 2023"; and</i>
+
+<i>(2) by striking "October 1, 2016" and inserting "October 1, 2022".</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -33,4 +43,14 @@ Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605
 In subsection (a), the words "(relating to special motor fuels and gasoline used in motorboats)" are omitted as unnecessary.
 
 In subsection (b), the words "(relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems)" are omitted as unnecessary.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–94 substituted "October 1, 2023" for "October 1, 2017" and "October 1, 2022" for "October 1, 2016".
+
+Subsec. (b)(2). Pub. L. 114–94, §31102(e)(2)(B)(i), substituted "October 1, 2023" for "October 1, 2017".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under section 4041 of Title 26, Internal Revenue Code.
 

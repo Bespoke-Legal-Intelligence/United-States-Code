@@ -96,7 +96,7 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 &emsp;"(i) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;"(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce of the House of Representatives.
+&emsp;"(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, andCommittee on Education and the Workforce of the House of Representatives.
 
 "(3) Amounts for the study under paragraph (1) shall be derived from amounts authorized to be appropriated by section 3614(a) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498) \[42 U.S.C. 7384g(a)\].
 
@@ -209,4 +209,8 @@ Sec. 6. <i>Administration and Judicial Review</i>. (a) This Executive Order shal
 (b) This Executive Order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Advisory Board on Radiation and Worker Health
+
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

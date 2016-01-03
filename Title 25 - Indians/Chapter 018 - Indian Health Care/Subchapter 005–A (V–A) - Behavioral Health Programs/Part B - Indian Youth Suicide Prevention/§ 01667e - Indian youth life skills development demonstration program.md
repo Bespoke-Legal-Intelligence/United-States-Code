@@ -94,7 +94,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 #### (4) Applications
 
-&emsp;To be eligible to receive a grant under the demonstration program, an eligible entity shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under the demonstration program, an eligible entity shall submit to the Secretary an application,at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) an assurance that, in implementing the curriculum, the eligible entity will collaborate with 1 or more local educational agencies, including elementary schools, middle schools, and high schools;
 
@@ -188,11 +188,19 @@ Using such amounts made available pursuant to subsection (e) as the Secretary de
 
 &emsp;There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2010 through 2014.
 
-(Pub. L. 94–437, title VII, §726, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, §726, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 114–95, title IX, §9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
 
 #### Codification
 
 Section 726 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(3)(D)(iii). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7702 or 7703 of title 20.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

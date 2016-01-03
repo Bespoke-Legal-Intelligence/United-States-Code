@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 \[42 U.S.C. 3796gg–10 note\]; and
 
-&emsp;&emsp;&emsp;(iii) coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiiansthat experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.
+&emsp;&emsp;&emsp;(iii) coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiians that experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.
 
 #### (2) Special issue resource centers
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(B) experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (42 U.S.C. 3796gg–10 note);
 
-&emsp;&emsp;(C) strong support for the entity's designation as the National Indian Resource CenterAddressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;
+&emsp;&emsp;(C) strong support for the entity's designation as the National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;
 
 &emsp;&emsp;(D) a record of demonstrated effectiveness in assisting Indian tribes and tribal organizations with prevention and intervention services addressing domestic violence; and
 

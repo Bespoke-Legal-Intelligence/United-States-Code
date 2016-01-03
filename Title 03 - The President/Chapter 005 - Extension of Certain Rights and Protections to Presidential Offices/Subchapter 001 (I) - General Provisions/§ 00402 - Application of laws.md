@@ -44,5 +44,5 @@ The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. 
 
 The Worker Adjustment and Retraining Notification Act, referred to in par. (9), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§2101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended,which is classified generally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

@@ -34,7 +34,7 @@
 
 The practices and procedures specifically enumerated in this subsection shall be deemed proper cellar treatment for natural wine:
 
-&emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juice or must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
+&emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juiceor must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
 
 &emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
 
@@ -64,7 +64,7 @@ The Secretary may by regulations prescribe limitations on the preparation and us
 
 #### (d) Use of juice or must from which volatile fruit flavor has been removed
 
-For purposes of this part, juice, concentrated juice, or must processed at a plant qualified under section 5511 may be deemed to be pure juice, concentrated juice, or must even thoughvolatile fruit flavor has been removed if, at a plant qualified under section 5511 or at the bonded wine cellar, there is added to such juice, concentrated juice, or must, or (in the case of a bonded wine cellar) to wine of the winemaker's own production made therefrom, either the identical volatile flavor removed or—
+For purposes of this part, juice, concentrated juice, or must processed at a plant qualified under section 5511 may be deemed to be pure juice, concentrated juice, or must even though volatile fruit flavor has been removed if, at a plant qualified under section 5511 or at the bonded wine cellar, there is added to such juice, concentrated juice, or must, or (in the case of a bonded wine cellar) to wine of the winemaker's own production made therefrom, either the identical volatile flavor removed or—
 
 &emsp;(1) in the case of natural grape or berry wine of the winemaker's own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind and variety of grape or berry, or
 

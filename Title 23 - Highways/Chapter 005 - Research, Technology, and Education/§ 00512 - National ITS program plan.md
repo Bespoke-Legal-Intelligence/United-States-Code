@@ -32,9 +32,9 @@ Scope.—The National ITS program plan shall—
 
 (b)
 
-Reporting.—The National ITS program plan shall be submitted and biennially updated as part of the transportation research and development strategic plan developed under section 508.
+Reporting.—The National ITS program plan shall be submitted and biennially updated.
 
-(Added Pub. L. 109–59, title V, §5301(a), Aug. 10, 2005, 119 Stat. 1804.)
+(Added Pub. L. 109–59, title V, §5301(a), Aug. 10, 2005, 119 Stat. 1804; amended Pub. L. 114–94, div. A, title VI, §6019(d)(1)(D), Dec. 4, 2015, 129 Stat. 1581.)
 
 #### References in Text
 
@@ -44,9 +44,17 @@ The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1), is the
 
 A prior section 512, formerly 511, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 834; renumbered §512, Pub. L. 91–605, title I, §117(a), Dec. 31, 1970, 84 Stat. 1724, related to definitions for chapter, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–94 struck out "as part of the transportation research and development strategic plan developed under section 508" before period at end.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Intelligent Transportation System Program
 
-Pub. L. 109–59, title V, §§5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, provided that:
+Pub. L. 109–59, title V, §§5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, as amended by Pub. L. 114–94, div. A, title VI, §6019(d)(3), Dec. 4, 2015, 129 Stat. 1582, provided that:
 
 #### "SEC. 5303. GOALS AND PURPOSES.
 
@@ -186,7 +194,7 @@ Membership.—The Advisory Committee shall have no more than 20 members, be bala
 
 Duties.—The Advisory Committee shall, at a minimum, perform the following duties:
 
-&emsp;&emsp;"(A) Provide input into the development of the Intelligent Transportation System aspects of the strategic plan under section 508 of title 23, United States Code.
+&emsp;&emsp;"(A) Provide input into the development of the Intelligent Transportation System aspects of the 5-year strategic plan under \[section\] 6503 of title 49, United States Code.
 
 &emsp;&emsp;"(B) Review, at least annually, areas of intelligent transportation systems research being considered for funding by the Department, to determine—
 
@@ -528,11 +536,11 @@ Nationwide Programmatic Agreement.—
 
 &emsp;"(1)
 
-Development.—The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act (16 U.S.C. 470f) \[see 54 U.S.C. 306108\] and the regulations of the Advisory Council on Historic Preservation.
+Development.—The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act (\[former\] 16 U.S.C. 470f) \[see 54 U.S.C. 306108\] and the regulations of the Advisory Council on Historic Preservation.
 
 &emsp;"(2)
 
-Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 U.S.C. 470i et seq.) and after soliciting the views of other interested parties.
+Consultation.—The Secretary shall develop the agreement under paragraph (1) in consultation with the National Conference of State Historic Preservation Officers and the Advisory Council on Historic Preservation established under title II of the National Historic Preservation Act (26 \[sic\] U.S.C. 470i et seq. \[former 16 U.S.C. 470i et seq., see 54 U.S.C. 304101 et seq.\]) and after soliciting the views of other interested parties.
 
 "(c)
 

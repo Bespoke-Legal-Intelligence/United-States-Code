@@ -130,7 +130,7 @@ Subsec. (a)(4)(B). Pub. L. 102–573, §207(b), substituted "preventive health, 
 
 Subsec. (b)(1). Pub. L. 102–573, §201(a)(2)(A), substituted "this section" for "subsection (h) of this section".
 
-Subsec. (b)(2). Pub. L. 102–573, §201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level I or II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II."
+Subsec. (b)(2). Pub. L. 102–573, §201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level Ior II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II."
 
 Subsec. (b)(2)(A). Pub. L. 102–573, §201(a)(2)(C), in first sentence, substituted "this section" for "subsection (h) of this section" and struck out "but such allocation shall be made in a manner which ensures that the requirement of paragraph (2) is met" after "service unit basis" and, in second sentence, struck out "(in accordance with paragraph (2))" after "the service unit" and substituted "reduce the health status and resource deficiency" for "raise the deficiency level".
 
@@ -138,7 +138,7 @@ Subsec. (b)(2)(B). Pub. L. 102–573, §201(a)(2)(D), inserted ", and with the 
 
 Subsec. (b)(3). Pub. L. 102–573, §201(a)(2)(B), redesignated par. (3) as (2).
 
-Subsec. (c)(1). Pub. L. 102–573, §201(a)(3)(B), amended par. (1) generally, substituting provisions defining"health status and resource deficiency" for former provisions defining "health resources deficiency".
+Subsec. (c)(1). Pub. L. 102–573, §201(a)(3)(B), amended par. (1) generally, substituting provisions defining "health status and resource deficiency" for former provisions defining "health resources deficiency".
 
 Pub. L. 102–573, §201(a)(3)(A), redesignated par. (2) as (1) and struck out former par. (1) which specified the health resource deficiency levels of an Indian tribe.
 
@@ -198,5 +198,5 @@ Pub. L. 102–573, title II, §201(b), Oct. 29, 1992, 106 Stat. 4546, provided t
 
 #### Contract Medical Care Funds
 
-Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: "That contract medical care funds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care".
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: "That contract medical carefunds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care".
 

@@ -8,7 +8,7 @@
 
 (3) Under no circumstances shall the Secretary of Transportation offer any of the United States shares for sale unless, before the sale date, the Secretary determines, after such consultation, that the estimated sum of the gross proceeds from the sale of all the United States shares will be an adequate amount. A determination by the Secretary under this paragraph shall not be reviewable.
 
-(4) In making a determination under paragraph (3), the Secretary shall have the goal of obtaining at least $2,000,000,000 in aggregate gross proceeds for the United States from the public offering and any payments made under section 1311(b) of this title.
+(4) In making a determination under paragraph (3), the Secretary shall have the goal of obtaining at least $2,000,000,000 in aggregate gross proceeds for the United States from thepublic offering and any payments made under section 1311(b) of this title.
 
 #### (b) Subsequent sales
 
@@ -20,13 +20,13 @@ Any public offering under this section may be made without the consent of the Co
 
 #### (d) Authority to require stock splits
 
-(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a) of this section, before the filing of the registration statement referred to in section 1311(c) of this title, require the Corporation to declare a stock split or reverse stock split.
+(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a), before the filing of the registration statement referred to in section 1311(c) of this title, require the Corporation to declare a stock split or reverse stock split.
 
 (2) The Corporation shall take such action as may be necessary to comply with the Secretary's requirements under this subsection.
 
 #### (e) Cancellation of other securities held by United States
 
-(1) In consideration for amounts transferred to the United States under section 1311(b) of this title, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a) of this section, deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
+(1) In consideration for amounts transferred to the United States under section 1311(b) of this title, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a), deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
 
 (2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of the Corporation's assets net of depreciation and shall not be used to alter the calculation of the Corporation's stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
 
@@ -56,5 +56,5 @@ This subchapter, referred to in subsec. (f), was in the original "this part" mea
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

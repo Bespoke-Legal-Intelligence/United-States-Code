@@ -18,7 +18,7 @@ Correction.—A person described in paragraph (1) shall not be subject to crimin
 
 &emsp;&emsp;(B)
 
-Reasonable time and sufficiency of correction.—The Secretary shall establish by regulation what constitutes a reasonable time for the purposes of subparagraph (A) and what manner of correction is sufficient for purposes of subparagraph (A). The Secretary shall issue a final rule under this subparagraph within 90 days of the date of the enactment of this section.
+Reasonable time and sufficiency of correction.—The Secretary shall establishby regulation what constitutes a reasonable time for the purposes of subparagraph (A) and what manner of correction is sufficient for purposes of subparagraph (A). The Secretary shall issue a final rule under this subparagraph within 90 days of the date of the enactment of this section.
 
 &emsp;&emsp;(C)
 

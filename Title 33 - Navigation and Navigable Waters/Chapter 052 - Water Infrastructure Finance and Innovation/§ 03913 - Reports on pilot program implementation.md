@@ -36,7 +36,7 @@ As soon as practicable after each fiscal year for which amounts are made availab
 
 &emsp;The report under paragraph (1) shall include—
 
-&emsp;&emsp;(A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) of thistitle on the ability of eligible entities to finance water infrastructure projects under this chapter;
+&emsp;&emsp;(A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) <sup>1</sup> of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
 
 &emsp;&emsp;(B) a recommendation as to whether the objectives of this chapter would be best served—
 
@@ -50,7 +50,13 @@ As soon as practicable after each fiscal year for which amounts are made availab
 
 (Pub. L. 113–121, title V, §5034, June 10, 2014, 128 Stat. 1343.)
 
+#### References in Text
+
+Section 3907(a)(5) of this title, referred to in subsec. (b)(2)(A), was struck out, and section 3907(a)(6) of this title was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
+
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

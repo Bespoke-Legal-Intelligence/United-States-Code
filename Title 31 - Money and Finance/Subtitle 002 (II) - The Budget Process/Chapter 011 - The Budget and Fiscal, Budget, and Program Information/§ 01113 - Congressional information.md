@@ -132,7 +132,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Termination of Reporting Requirements Contained in This Section
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), seesection 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
@@ -218,7 +218,7 @@ Conditions of public ports of the united states.—Section 308(c) of title 49, U
 
 &emsp;"(5)
 
-Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see 46 U.S.C. 306(a), 50111(a)\].
+Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see 46 U.S.C. 306(a)\].
 
 &emsp;"(6)
 
@@ -288,7 +288,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;"(1) Section 3 of the Employment Act of 1946 (15 U.S.C. 1022).
 
-&emsp;"(2) Section 723 of the Defense Production Act of 1950 \[50 U.S.C. App. 2172\].
+&emsp;"(2) Section 723 of the Defense Production Act of 1950 \[50 U.S.C. 4568\].
 
 &emsp;"(3) Section 603 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3213).
 
@@ -354,7 +354,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, as amended b
 
 &emsp;"(34) Section 607(a) of the Housing and Community Development Amendments of 1978 (42 U.S.C. 8106(a)).
 
-&emsp;"(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)).
+&emsp;"(35) Section 708(l) of the Defense Production Act of 1950 (50 U.S.C. App. 2158(l)) \[now 50 U.S.C. 4558(l)\].
 
 &emsp;"(36) Section 2546 of the Comprehensive Thrift and Bank Fraud Prosecution and Taxpayer Recovery Act of 1990 \[Pub. L. 101–647\] (28 U.S.C. 522 note).
 
@@ -588,11 +588,11 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(8) Section 3 of the International Claims Settlement Act of 1949 (22 U.S.C. 1622).
 
-&emsp;"(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008).
+&emsp;"(9) Section 9 of the War Claims Act of 1948 (50 U.S.C. App. 2008) \[now 50 U.S.C. 4107\].
 
 &emsp;"(10) Section 13(c) of the Act of September 11, 1957 (8 U.S.C. 1255b(c)).
 
-&emsp;"(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)).
+&emsp;"(11) Section 203(b) of the Aleutian and Pribilof Islands Restitution Act (50 U.S.C. App. 1989c–2(b)) \[now 50 U.S.C. 4233\].
 
 &emsp;"(12) Section 801(e) of the Immigration Act of 1990 (29 U.S.C. 2920(e)).
 
@@ -708,13 +708,13 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;"(22) Section 12 of the Act of March 9, 1920 (popularly known as the 'Suits in Admiralty Act') (46 App. U.S.C. 752) \[now 46 U.S.C. 30918\].
 
-&emsp;"(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see 46 U.S.C. 306(a), 50111(a), 55305(d)\].
+&emsp;"(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see 46 U.S.C. 306(a), 55305(d)\].
 
 &emsp;"(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–2, 98h–5).
 
 &emsp;"(25) Section 108 of the National Security Act of 1947 (\[former\] 50 U.S.C. 404a) \[now 50 U.S.C. 3043\].
 
-&emsp;"(26) Section 4 of the Act entitled 'An Act to authorize the making, amending, and modification ofcontracts to facilitate the national defense', approved August 28, 1958 (\[former\] 50 U.S.C. 1434).
+&emsp;"(26) Section 4 of the Act entitled 'An Act to authorize the making, amending, and modification of contracts to facilitate the national defense', approved August 28, 1958 (\[former\] 50 U.S.C. 1434).
 
 &emsp;"(27) Section 1412(g) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(g)).
 
@@ -722,9 +722,9 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;"(29) Sections 202(d) and 401(c) of the National Emergencies Act (50 U.S.C. 1622(d), 1641(c)).
 
-&emsp;"(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)).
+&emsp;"(30) Section 10(g) of the Military Selective Service Act (50 U.S.C. App. 460(g)) \[now 50 U.S.C. 3809(g)\].
 
-&emsp;"(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158).
+&emsp;"(31) Section 708 of the Defense Production Act of 1950 (50 U.S.C. App. 2158) \[now 50 U.S.C. 4558\].
 
 &emsp;"(32) Section 703(g) of the Military Construction Authorization Act, 1982 (Public Law 97–99; 95 Stat. 1376).
 
@@ -790,7 +790,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(14) section 204 of the International Emergency Economic Powers Act (50 U.S.C. 1703);
 
-&emsp;"(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+&emsp;"(15) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now 50 U.S.C. 4616\];
 
 &emsp;"(16) section 207 of the International Economic Policy Act of 1972 (Public Law 92–412; 86 Stat. 648) \[former 22 U.S.C. 2846\];
 
@@ -816,9 +816,9 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(27) section 23 of the Act of August 1, 1956 (Chapter 841 \[probably should be section 515(b)(2) of Public Law 95–105\]; 22 U.S.C. 2694(2));
 
-&emsp;"(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5));
+&emsp;"(28) section 5(c)(5) of the Export Administration Act of 1979 (50 U.S.C. App. 2404(c)(5)) \[now 50 U.S.C. 4604(c)(5)\];
 
-&emsp;"(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413);
+&emsp;"(29) section 14 of the Export Administration Act of 1979 (50 U.S.C. App. 2413) \[now 50 U.S.C. 4616\];
 
 &emsp;"(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 
@@ -834,7 +834,7 @@ Pub. L. 103–356, title III, §301, Oct. 13, 1994, 108 Stat. 3412, provided tha
 
 "(a)
 
-Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
+Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlinesthat shall provide for more efficient workload distribution or improve the quality of reports.
 
 "(b)
 

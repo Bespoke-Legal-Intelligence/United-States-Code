@@ -912,8 +912,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1151\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001151%20-%20Grants%20to%20States%20for%20workplace%20and%20community%20transition%20training%20for%20incarcerated%20individuals.md) | Grants to States for workplace and community transition training for incarcerated individuals. |
-| [1152\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001152%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20III%2C%20%C2%A7304%28f%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203016.md) | Repealed. |
+| 1151, 1152. Repealed. |  |
 | [1153\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001153%20-%20Underground%20Railroad%20educational%20and%20cultural%20program.md) | Underground Railroad educational and cultural program. |
 | [1154\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001154%20-%20Contract%20authority.md) | Contract authority. |
 | [1155\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001155%20-%20Connie%20Lee%20privatization.md) | Connie Lee privatization. |

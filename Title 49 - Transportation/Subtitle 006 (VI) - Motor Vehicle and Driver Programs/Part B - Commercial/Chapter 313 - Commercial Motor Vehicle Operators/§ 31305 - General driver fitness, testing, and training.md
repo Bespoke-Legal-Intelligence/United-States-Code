@@ -70,7 +70,55 @@ Standards for Training.—Not later than 1 year after the date of enactment of t
 
 &emsp;(5) requiring a training provider (including a public or private driving school, motor carrier, or owner or operator of a commercial motor vehicle) that offers training that results in the issuance of a certification to an individual under paragraph (4) to demonstrate that the training meets the requirements of the regulations, through a process established by the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792.)
+(d)
+
+Standards for Training and Testing of Veteran Operators.—
+
+&emsp;(1)
+
+In general.—Not later than December 31, 2016, the Secretary shall modify the regulations prescribed under subsections (a) and (c) to—
+
+&emsp;&emsp;(A) exempt a covered individual from all or a portion of a driving test if the covered individual had experience in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle;
+
+&emsp;&emsp;(B) ensure that a covered individual may apply for an exemption under subparagraph (A) during, at least, the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
+
+&emsp;&emsp;(C) credit the training and knowledge a covered individual received in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle for purposes of satisfying minimum standards for training and knowledge.
+
+&emsp;(2)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+Armed forces.—The term "armed forces" has the meaning given that term in section 101(a) of title 10.
+
+&emsp;&emsp;(B)
+
+Covered individual.—The term "covered individual" means an individual over the age of 21 years who is—
+
+&emsp;&emsp;&emsp;(i) a former member of the armed forces; or
+
+&emsp;&emsp;&emsp;(ii) a former member of the reserve components.
+
+&emsp;&emsp;(C)
+
+Reserve components.—The term "reserve components" means—
+
+&emsp;&emsp;&emsp;(i) the Army National Guard of the United States;
+
+&emsp;&emsp;&emsp;(ii) the Army Reserve;
+
+&emsp;&emsp;&emsp;(iii) the Navy Reserve;
+
+&emsp;&emsp;&emsp;(iv) the Marine Corps Reserve;
+
+&emsp;&emsp;&emsp;(v) the Air National Guard of the United States;
+
+&emsp;&emsp;&emsp;(vi) the Air Force Reserve; and
+
+&emsp;&emsp;&emsp;(vii) the Coast Guard Reserve.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397; Pub. L. 112–141, div. C, title II, §32304(a), (c), July 6, 2012, 126 Stat. 791, 792; Pub. L. 114–94, div. A, title V, §5401(a), Dec. 4, 2015, 129 Stat. 1546.)
 
 Historical and Revision Notes
 
@@ -104,6 +152,8 @@ The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d). Pub. L. 114–94 added subsec. (d).
+
 <b>2012</b>—Pub. L. 112–141, §32304(c), substituted "General driver fitness, testing, and training" for "General driver fitness and testing" in section catchline.
 
 Subsec. (c). Pub. L. 112–141, §32304(a), added subsec. (c).
@@ -112,9 +162,41 @@ Subsec. (c). Pub. L. 112–141, §32304(a), added subsec. (c).
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" and inserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Report on Commercial Driver's License Skills Test Delays
+
+Pub. L. 114–94, div. A, title V, §5506, Dec. 4, 2015, 129 Stat. 1553, provided that: "Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], and each year thereafter, the Administrator of the Federal Motor Carrier Safety Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+&emsp;"(1) describes, for each State, the status of skills testing for applicants for a commercial driver's license, including—
+
+&emsp;&emsp;"(A) the average wait time from the date an applicant requests to take a skills test to the date the applicant has the opportunity to complete such test;
+
+&emsp;&emsp;"(B) the average wait time from the date an applicant, upon failure of a skills test, requests a retest to the date the applicant has the opportunity to complete such retest;
+
+&emsp;&emsp;"(C) the actual number of qualified commercial driver's license examiners available to test applicants; and
+
+&emsp;&emsp;"(D) the number of testing sites available through the State department of motor vehicles and whether this number has increased or decreased from the previous year; and
+
+&emsp;"(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times of more than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest."
+
+#### Hazardous Materials Endorsement Exemption
+
+Pub. L. 114–94, div. A, title VII, §7208, Dec. 4, 2015, 129 Stat. 1593, provided that: "The Secretary \[of Transportation\] shall allow a State, at the discretion of the State, to waive the requirement for a holder of a Class A commercial driver's license to obtain a hazardous materials endorsement under part 383 of title 49, Code of Federal Regulations, if the license holder—
+
+&emsp;"(1) is acting within the scope of the license holder's employment as an employee of a custom harvester operation, agrichemical business, farm retail outlet and supplier, or livestock feeder; and
+
+&emsp;"(2) is operating a service vehicle that is—
+
+&emsp;&emsp;"(A) transporting diesel in a quantity of 3,785 liters (1,000 gallons) or less; and
+
+&emsp;&emsp;"(B) clearly marked with a 'flammable' or 'combustible' placard, as appropriate."
 
 #### Commercial Motor Vehicle Operator Requirements Relating to Sleep Disorders
 
@@ -142,7 +224,7 @@ Revision of Final Rule.—Not later than 90 days after the date of the enactment
 
 "(b)
 
-No Period of Commercial Driving While Using Insulin Required for Qualification.—After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the date of enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
+No Period of Commercial Driving While Using Insulin Required for Qualification.—After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the dateof enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
 
 "(c)
 
@@ -208,7 +290,7 @@ Pub. L. 105–178, title IV, §4019, June 9, 1998, 112 Stat. 414, provided that:
 
 "(a)
 
-Review.—Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[ofTransportation\] shall complete a review of the procedures established and implemented by States under section 31305 of title 49, United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual's knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
+Review.—Not later than 1 year after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall complete a review of the procedures established and implemented by States under section 31305 of title 49, United States Code, to determine if the current system for testing is an accurate measure and reflection of an individual's knowledge and skills as an operator of a commercial motor vehicle and to identify methods to improve testing and licensing standards, including identifying the benefits and costs of a graduated licensing system.
 
 "(b)
 
@@ -242,5 +324,5 @@ Funding.—The Secretary may use amounts made available under section 5001(a)(2)
 
 "(b)
 
-Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as a means of reducing the adverse effects of the use of other medications by drivers."
+Nonsedating Medications.—The Secretary shall review available information on the effects of medications (including antihistamines) on driver fatigue, awareness, and performance and shall consider encouraging, if appropriate, the use of nonsedating medications (including nonsedating antihistamines) as ameans of reducing the adverse effects of the use of other medications by drivers."
 

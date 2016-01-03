@@ -4,7 +4,7 @@
 
 (b) Omitted.
 
-(c) No employee of the Department of Labor or the Department of the Treasury shall administer or enforce this subchapter or title 26 with respect to any employee benefit plan under which he is a participant or beneficiary, any employee organization of which he is a member, or any employer organization in which he has aninterest. This subsection does not apply to an employee benefit plan which covers only employees of the United States.
+(c) No employee of the Department of Labor or the Department of the Treasury shall administer or enforce this subchapter or title 26 with respect to any employee benefit plan under which he is a participant or beneficiary, any employee organization of which he is a member, or any employer organization in which he has an interest. This subsection does not apply to an employee benefit plan which covers only employees of the United States.
 
 (Pub. L. 93–406, title I, §507, Sept. 2, 1974, 88 Stat. 894; Pub. L. 101–239, title VII, §7891(a), Dec. 19, 1989, 103 Stat. 2445.)
 

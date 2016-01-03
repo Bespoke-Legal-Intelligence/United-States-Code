@@ -18,7 +18,7 @@ Section was formerly classified to section 405 of this title prior to editorial 
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–458 substituted "Director of National Intelligence" for "Director of Central Intelligence" in two places.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–453 substituted "Retired members of the uniformed services employed by the Director of Central Intelligence who hold no other office or position under the United States for which they receive compensation, other" for "Other" in last sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–453 substituted "Retired members of the uniformed services employed by the Director of Central Intelligence who hold no other officeor position under the United States for which they receive compensation, other" for "Other" in last sentence.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–89, §504(a), substituted "at a daily rate not to exceed the daily equivalent of the rate of pay in effect for grade GS–18 of the General Schedule established by section 5332 of title 5" for "at a rate not to exceed $50 for each day of service".
 

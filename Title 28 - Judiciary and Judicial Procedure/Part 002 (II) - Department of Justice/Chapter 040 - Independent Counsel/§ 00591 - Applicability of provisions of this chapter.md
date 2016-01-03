@@ -210,7 +210,7 @@ Pub. L. 95–521, title VI, §604, Oct. 26, 1978, 92 Stat. 1875, provided that: 
 
 #### Permanent Appropriation for Expenses of Independent Counsels
 
-Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, as amended by Pub. L. 111–68, div. A, title I, §1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: "That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law".
+Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329-9, as amended by Pub. L. 111–68, div. A, title I, §1501(d), Oct. 1, 2009, 123 Stat. 2041, provided: "That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law".
 
 #### Contingency Fund for Independent Counsels
 

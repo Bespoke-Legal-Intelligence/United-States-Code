@@ -80,7 +80,7 @@ Calendar year 2008.—For a month during 2008, the amount of retired pay payable
 
 &emsp;&emsp;(A) the amount determined under paragraph (4) for that qualified retiree; and
 
-&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
+&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) theamount determined under paragraph (4) for that qualified retiree.
 
 &emsp;(6)
 
@@ -174,15 +174,13 @@ In general.—The term "current baseline offset" for any qualified retiree means
 
 Applicable retired pay.—In subparagraph (A), the term "applicable retired pay" for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157; Pub. L. 113–76, div. C, title X, §10001(b)(2), Jan. 17, 2014, 128 Stat. 151.)
-
-#### Amendment of Subsection (b)(1)
-
-<i>Pub. L. 113–76, div. C, title X, §10001(b)(2), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(1) of this section is amended by inserting "(but without the application of section 1401a(b)(4) of this title)" after "under any other provision of law". See 2014 Amendment note below.</i>
+(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157; Pub. L. 113–76, div. C, title X, §10001(b)(2), Jan. 17, 2014, 128 Stat. 151; Pub. L.114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(1). Pub. L. 113–76 inserted "(but without the application of section 1401a(b)(4) of this title)" after "under any other provision of law".
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–92, §631(d)(2), which was approved Nov. 25, 2015, provided that the amendment made by Pub. L. 113–76, §10001(b)(2), which was effective Dec. 1, 2015, would not take effect. See 2014 Amendment note below.
+
+<b>2014</b>—Subsec. (b)(1). Pub. L. 113–76, §10001(b)(2), which directed insertion of "(but without the application of section 1401a(b)(4) of this title)" after "under any other provision of law", did not take effect pursuant to Pub. L. 114–92, §631(d)(2). See 2015 Amendment note above.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–181 substituted "except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:" for "except that in the case of a qualified retiree receiving veterans' disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans' disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009." and added subpars. (A) and (B).
 
@@ -196,7 +194,7 @@ Subsec. (c). Pub. L. 108–375, §642(b), inserted "that pursuant to the second 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under section 1401a of this title.
+Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under section 1401a of this title. Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under section 1401a of this title.
 
 #### Effective Date of 2008 Amendment
 

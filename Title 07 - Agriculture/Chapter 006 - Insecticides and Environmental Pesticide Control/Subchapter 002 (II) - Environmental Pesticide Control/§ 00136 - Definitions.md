@@ -42,7 +42,7 @@ The term "animal" means all vertebrate and invertebrate species, including but n
 
 #### (2) Private applicator
 
-&emsp;The term "private applicator" means a certified applicator who uses or supervises the use of any pesticide which is classified for restricted use for purposes of producing any agricultural commodity on property owned or rented by the applicator or the applicator's employer or (if applied without compensation other than trading of personal services between producers of agricultural commodities) on the property of another person.
+&emsp;The term "private applicator" means a certified applicator who uses or supervises theuse of any pesticide which is classified for restricted use for purposes of producing any agricultural commodity on property owned or rented by the applicator or the applicator's employer or (if applied without compensation other than trading of personal services between producers of agricultural commodities) on the property of another person.
 
 #### (3) Commercial applicator
 
@@ -78,7 +78,7 @@ The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any no
 
 #### (l) Imminent hazard
 
-The term "imminent hazard" means a situation which exists when the continued use of apesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
+The term "imminent hazard" means a situation which exists when the continued use of a pesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
 #### (m) Inert ingredient
 
@@ -120,7 +120,7 @@ The term "insect" means any of the numerous small invertebrate animals generally
 
 &emsp;&emsp;(C) it is an imitation of, or is offered for sale under the name of, another pesticide;
 
-&emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of this title to each establishment in which it was produced;
+&emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of thistitle to each establishment in which it was produced;
 
 &emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -200,7 +200,7 @@ The term "State" means a State, the District of Columbia, the Commonwealth of Pu
 
 #### (bb) Unreasonable adverse effects on the environment
 
-The term "unreasonable adverse effects on the environment" means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) ahuman dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
+The term "unreasonable adverse effects on the environment" means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) a human dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
 
 #### (cc) Weed
 
@@ -250,7 +250,7 @@ The term "nitrogen stabilizer" means any substance or mixture of substances inte
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
-The term "maintenance applicator" means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumerproducts pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term "maintenance applicator" does not include private applicators as defined in subsection (e)(2); individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
+The term "maintenance applicator" means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumer products pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term "maintenance applicator" does not include private applicators as defined in subsection (e)(2); individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
 
 #### (kk) Service technician
 
@@ -284,7 +284,7 @@ The term "minor use" means the use of a pesticide on an animal, on a commercial 
 
 &emsp;&emsp;&emsp;(i) disinfect, sanitize, reduce, or mitigate growth or development of microbiological organisms; or
 
-&emsp;&emsp;&emsp;(ii) protect inanimate objects, industrial processes or systems, surfaces, water, or other chemical substances from contamination, fouling, or deterioration caused by bacteria, viruses, fungi, protozoa, algae, or slime; and
+&emsp;&emsp;&emsp;(ii) protect inanimate objects, industrial processes or systems, surfaces, water, orother chemical substances from contamination, fouling, or deterioration caused by bacteria, viruses, fungi, protozoa, algae, or slime; and
 
 &emsp;&emsp;(B) in the intended use is exempt from, or otherwise not subject to, a tolerance under section 346a of title 21 or a food additive regulation under section 348 of title 21.
 
@@ -362,7 +362,7 @@ Subsec. (q)(2)(A). Pub. L. 100–532, §801(a)(3), substituted "if—" for "if:"
 
 Subsec. (q)(2)(C)(iii). Pub. L. 100–532, §801(a)(4), substituted ", except that" for ": <i>Provided</i>, That".
 
-Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted ", except that" for ": <i>Provided</i>, That", struck out "(1)(a)" after "include any article" and "or (b)" after "section 321(w) of title 21,", and substituted "Health and Human Services" for "Health, Education, and Welfare", "or that is" for "or (2) that is", and "a new animal drug" for "an article covered by clause (1) of this proviso".
+Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted ", except that" for ": <i>Provided</i>, That", struck out"(1)(a)" after "include any article" and "or (b)" after "section 321(w) of title 21,", and substituted "Health and Human Services" for "Health, Education, and Welfare", "or that is" for "or (2) that is", and "a new animal drug" for "an article covered by clause (1) of this proviso".
 
 Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted ", except that" for ": <i>Provided</i>, That", inserted "unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency" and "unless the labeling specifically states that the product may be applied only by the methods specified on the labeling", substituted "labeling, (4) mixing" for "labeling, or (4) mixing", ", (5)" for ": <i>Provided further</i>, That the term also shall not include", "or (6) any use" for "or any use", and ". After" for ": <i>And provided further</i>, That after".
 
@@ -434,7 +434,7 @@ Pub. L. 108–199, div. G, title V, §501(a), Jan. 23, 2004, 118 Stat. 419, prov
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–170, §1, Aug. 3, 1996, 110 Stat. 1489, provided that: "This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the 'Food Quality Protection Act of 1996'."
+Pub. L. 104–170, §1, Aug. 3, 1996, 110 Stat. 1489, provided that: "This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3,136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the 'Food Quality Protection Act of 1996'."
 
 \[Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.\]
 

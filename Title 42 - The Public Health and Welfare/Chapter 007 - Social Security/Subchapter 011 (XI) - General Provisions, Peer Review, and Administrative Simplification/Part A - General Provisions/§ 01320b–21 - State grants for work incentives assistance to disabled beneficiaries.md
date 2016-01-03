@@ -14,7 +14,7 @@ Services provided to disabled beneficiaries pursuant to a payment made under thi
 
 #### (c) Application
 
-In order to receive payments under this section, a protection and advocacy system shallsubmit an application to the Commissioner, at such time, in such form and manner, and accompanied by such information and assurances as the Commissioner may require.
+In order to receive payments under this section, a protection and advocacy system shall submit an application to the Commissioner, at such time, in such form and manner, and accompanied by such information and assurances as the Commissioner may require.
 
 #### (d) Amount of payments
 

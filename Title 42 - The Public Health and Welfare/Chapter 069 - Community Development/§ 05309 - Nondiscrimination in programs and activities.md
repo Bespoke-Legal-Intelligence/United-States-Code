@@ -62,7 +62,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Reconciliation of Duplicate Enactments
 
-Pub. L. 109–364, div. A, title X, §1071(f)(2), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: "In executing to section 109 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5309\] the amendments made by section 8126(d) of Public Law 109–148 (119 Stat. 2730) and section 1058(d) of Public Law 109–163 (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended."
+Pub. L. 109–364, div. A, title X, §1071(f)(2), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, providedthat: "In executing to section 109 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5309\] the amendments made by section 8126(d) of Public Law 109–148 (119 Stat. 2730) and section 1058(d) of Public Law 109–163 (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended."
 
 \[Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(10) to Pub. L. 109–364, §1071(f)(2), set out above, is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364, as enacted.\]
 

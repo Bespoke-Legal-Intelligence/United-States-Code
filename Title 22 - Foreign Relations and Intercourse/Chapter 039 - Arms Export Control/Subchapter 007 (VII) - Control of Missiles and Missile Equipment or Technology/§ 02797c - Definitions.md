@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(5) the terms "missile equipment or technology" and "MTCR equipment or technology" mean those items listed in category I or category II of the MTCR Annex;
 
-&emsp;(6) the term "United States person" has the meaning given that term in section 2415(2) of title 50, Appendix;
+&emsp;(6) the term "United States person" has the meaning given that term in section 4618(2) of title 50;
 
 &emsp;(7) the term "foreign person" means any person other than a United States person;
 

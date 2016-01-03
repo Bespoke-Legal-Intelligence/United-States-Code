@@ -46,7 +46,7 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 Act of August 2, 1956, referred to in subsec. (c), is act Aug. 2, 1956, ch. 890, 70 Stat. 953, which is classified generally to chapter 26 (§1211 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-For the effective date of this section or, alternatively, the time or date this section takes effect, referred to in subsec. (e)(1)(B), (2), (3), and (4), see section34(2) of Pub. L. 92–573, set out as an Effective Date note under section 2051 of this title.
+For the effective date of this section or, alternatively, the time or date this section takes effect, referred to in subsec. (e)(1)(B), (2), (3), and (4), see section 34(2) of Pub. L. 92–573, set out as an Effective Date note under section 2051 of this title.
 
 Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 1970, referred to in subsec. (e)(1)(B), are pars. (3) through (8)(A) of section 15(b) of Pub. L. 91–604, Dec. 31, 1970, 84 Stat. 1710, which is set out as a note under section 215 of Title 42, The Public Health and Welfare.
 

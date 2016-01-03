@@ -26,7 +26,7 @@ For purposes of this section, a multiemployer plan is an eligible multiemployer 
 
 #### (c) Transfer of liabilities
 
-The corporation's partition order shall provide for a transfer to the plan referenced in subsection (d)(1) of the minimum amount of the plan's liabilities necessary for the plan to remain solvent.
+The corporation's partition order shall provide for a transfer to the plan referenced in subsection (d)(1) of the minimum amount of theplan's liabilities necessary for the plan to remain solvent.
 
 #### (d) Plans created by partition orders
 
@@ -56,7 +56,7 @@ The corporation's partition order shall provide for a transfer to the plan refer
 
 #### (f) Notice of partition orders to Congress
 
-Not later than 14 days after the partition order, the corporation shall provide notice ofsuch order to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and any affected participants or beneficiaries.
+Not later than 14 days after the partition order, the corporation shall provide notice of such order to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and any affected participants or beneficiaries.
 
 (Pub. L. 93–406, title IV, §4233, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1246; amended Pub. L. 113–235, div. O, title I, §122(a)(1), Dec. 16, 2014, 128 Stat. 2795.)
 

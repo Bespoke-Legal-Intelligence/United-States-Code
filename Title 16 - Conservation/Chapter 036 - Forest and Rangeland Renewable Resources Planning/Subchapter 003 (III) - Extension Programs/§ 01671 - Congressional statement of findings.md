@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) the extension program of the Department of Agriculture and the extension activities of each State provide useful and productive educational programs for private forest and range landowners and processors and consumptive and nonconsumptive users of forest and rangeland renewable resources, and these educational programs complement research and assistance programs conducted by the Department of Agriculture;
 
-&emsp;(2) to meet national goals, it is essential that all forest and rangeland renewable resources (hereinafter in this subchapter referred to as "renewable resources"), including fish and wildlife, forage, outdoor recreationopportunities, timber, and water, be fully considered in designing educational programs for landowners, processors, and users;
+&emsp;(2) to meet national goals, it is essential that all forest and rangeland renewable resources (hereinafter in this subchapter referred to as "renewable resources"), including fish and wildlife, forage, outdoor recreation opportunities, timber, and water, be fully considered in designing educational programs for landowners, processors, and users;
 
 &emsp;(3) more efficient utilization and marketing of renewable resources extend available supplies of such resources, provide products to consumers at prices less than they would otherwise be, and promote reasonable returns on the investments of landowners, processors, and users;
 

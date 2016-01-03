@@ -46,7 +46,7 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 &emsp;&emsp;(A) operating the Federal information security incident center established under section 3556;
 
-&emsp;&emsp;(B) upon request by an agency, deploying technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
+&emsp;&emsp;(B) upon request by an agency, deploying, operating, and maintaining technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
 
 &emsp;&emsp;(C) compiling and analyzing data on agency information security; and
 
@@ -104,11 +104,123 @@ Rule of construction.—Nothing in this subchapter shall be construed as authori
 
 Exercise of Authority.—To ensure fiscal and policy consistency, the Secretary shall exercise the authority under this section subject to direction by the President, in coordination with the Director.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075.)
+(h)
+
+Direction to Agencies.—
+
+&emsp;(1)
+
+Authority.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), in response to a known or reasonably suspected information security threat, vulnerability, or incident that represents a substantial threat to the information security of an agency, the Secretary may issue an emergency directive to the head of an agency to take any lawful action with respect to the operation of the information system, including such systems used or operated by another entity on behalf of an agency, that collects, processes, stores, transmits, disseminates, or otherwise maintains agency information, for the purpose of protecting the information system from, or mitigating, an information security threat.
+
+&emsp;&emsp;(B)
+
+Exception.—The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) or to a system described in paragraph (2) or (3) of subsection (e).
+
+&emsp;(2)
+
+Procedures for use of authority.—The Secretary shall—
+
+&emsp;&emsp;(A) in coordination with the Director, and in consultation with Federal contractors as appropriate, establish procedures governing the circumstances under which a directive may be issued under this subsection, which shall include—
+
+&emsp;&emsp;&emsp;(i) thresholds and other criteria;
+
+&emsp;&emsp;&emsp;(ii) privacy and civil liberties protections; and
+
+&emsp;&emsp;&emsp;(iii) providing notice to potentially affected third parties;
+
+&emsp;&emsp;(B) specify the reasons for the required action and the duration of the directive;
+
+&emsp;&emsp;(C) minimize the impact of a directive under this subsection by—
+
+&emsp;&emsp;&emsp;(i) adopting the least intrusive means possible under the circumstances to secure the agency information systems; and
+
+&emsp;&emsp;&emsp;(ii) limiting directives to the shortest period practicable;
+
+&emsp;&emsp;(D) notify the Director and the head of any affected agency immediately upon the issuance of a directive under this subsection;
+
+&emsp;&emsp;(E) consult with the Director of the National Institute of Standards and Technology regarding any directive under this subsection that implements standards and guidelines developed by the National Institute of Standards and Technology;
+
+&emsp;&emsp;(F) ensure that directives issued under this subsection do not conflict with the standards and guidelines issued under section 11331 of title 40;
+
+&emsp;&emsp;(G) consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40; and
+
+&emsp;&emsp;(H) not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+
+&emsp;(3)
+
+Imminent threats.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+
+&emsp;&emsp;&emsp;(i) the Secretary determines there is an imminent threat to agency information systems;
+
+&emsp;&emsp;&emsp;(ii) the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
+
+&emsp;&emsp;&emsp;(iii) the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;
+
+&emsp;&emsp;&emsp;(iv) the Secretary provides prior notice to the Director, and the head and chief information officer (or equivalent official) of each agency to which specific actions will be taken pursuant to this paragraph, and notifies the appropriate congressional committees and authorizing committees of each such agency within 7 days of taking an action under this paragraph of—
+
+&emsp;&emsp;&emsp;&emsp;(I) any action taken under this paragraph; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the reasons for and duration and nature of the action;
+
+&emsp;&emsp;&emsp;(v) the action of the Secretary is consistent with applicable law; and
+
+&emsp;&emsp;&emsp;(vi) the Secretary authorizes the use of the intrusion detection and prevention capabilities in accordance with the advance procedures established under subparagraph (C).
+
+&emsp;&emsp;(B)
+
+Limitation on delegation.—The authority under this paragraph may not be delegated by the Secretary.
+
+&emsp;&emsp;(C)
+
+Advance procedures.—The Secretary shall, in coordination with the Director, and in consultation with the heads of Federal agencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
+
+&emsp;(4)
+
+Limitation.—The Secretary may direct or authorize lawful action or the use of the intrusion detection and prevention capabilities under this subsection only to—
+
+&emsp;&emsp;(A) protect agency information from unauthorized access, use, disclosure, disruption, modification, or destruction; or
+
+&emsp;&emsp;(B) require the remediation of or protect against identified information security risks with respect to—
+
+&emsp;&emsp;&emsp;(i) information collected or maintained by or on behalf of an agency; or
+
+&emsp;&emsp;&emsp;(ii) that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
+
+(i)
+
+Annual Report to Congress.—Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to section 11303(b)(5) of title 40.
+
+(j)
+
+Appropriate Congressional Committees Defined.—In this section, the term "appropriate congressional committees" means—
+
+&emsp;(1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;(2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, title II, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972.)
+
+#### References in Text
+
+Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which is classified to section 151(b)(1) of Title 6, Domestic Security.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 3533 and 3543 of this title prior to repeal by Pub. L. 113–283.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(6)(B). Pub. L. 114–113, §224(e), inserted ", operating, and maintaining" after "deploying".
+
+Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
 
 #### Breaches
 

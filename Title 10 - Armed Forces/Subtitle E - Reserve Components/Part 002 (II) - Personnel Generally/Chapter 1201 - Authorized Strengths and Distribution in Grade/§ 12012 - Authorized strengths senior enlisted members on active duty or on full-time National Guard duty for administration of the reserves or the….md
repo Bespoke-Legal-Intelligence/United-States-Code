@@ -21,7 +21,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 18,000 | 1,583 | 246&nbsp;&nbsp; |
 | 19,000 | 1,647 | 257&nbsp;&nbsp; |
 | 20,000 | 1,711 | 268&nbsp;&nbsp; |
-| 21,000 | 1,775 | 278&nbsp;&nbsp; |
+| 21,000 | 1,775 | 278   |
 | &nbsp; |  |  |
 | Army National Guard: |  |  |
 | 20,000 | 1,650 | 550&nbsp;&nbsp; |
@@ -38,7 +38,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 42,000 | 3,000 | 840&nbsp;&nbsp; |
 | &nbsp; |  |  |
 | Navy Reserve: |  |  |
-| 10,000 | 340 | 143   |
+| 10,000 | 340 | 143&nbsp;&nbsp; |
 | 11,000 | 364 | 156&nbsp;&nbsp; |
 | 12,000 | 386 | 169&nbsp;&nbsp; |
 | 13,000 | 407 | 182&nbsp;&nbsp; |
@@ -125,7 +125,7 @@ Secretarial Waiver.—(1) Upon determining that it is in the national interest t
 
 Full-Time Reserve Component Duty Defined.—In this section, the term "full-time reserve component duty" has the meaning given the term in section 12011(e) of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV,§414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440.)
 
 #### Prior Provisions
 

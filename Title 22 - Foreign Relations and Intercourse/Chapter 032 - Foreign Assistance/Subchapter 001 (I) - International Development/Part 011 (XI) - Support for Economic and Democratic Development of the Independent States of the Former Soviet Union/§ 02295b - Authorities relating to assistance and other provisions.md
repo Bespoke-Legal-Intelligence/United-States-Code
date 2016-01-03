@@ -58,7 +58,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) In general
 
-&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under thispart notwithstanding any other provision of law, except for—
+&emsp;Funds authorized to be appropriated for fiscal year 1993 by this part, and any other funds appropriated for fiscal year 1993 that are used under the authority of subsection (f) or (g), may be used to provide assistance under this part notwithstanding any other provision of law, except for—
 
 &emsp;&emsp;(A) this part;
 
@@ -108,7 +108,7 @@ The Support for East European Democracy (SEED) Act of 1989, referred to in subse
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (j)(1)(D), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (j)(1)(D), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (j)(1)(D), is title II ofPub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Budget Enforcement Act of 1990, referred to in subsec. (j)(1)(D), is title XIII of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–573. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 900 of Title 2 and Tables.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 

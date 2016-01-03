@@ -14,7 +14,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Authority to assist secretary.—Subject to paragraphs (3) and (4), the Secretary may enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing the Officer to assist the Secretary in carrying out one or more of the following responsibilities within that State:
+Authority to assist secretary.—Subject to paragraphs (3) and (4), the Secretarymay enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing the Officer to assist the Secretary in carrying out one or more of the following responsibilities within that State:
 
 &emsp;&emsp;&emsp;(i) Identification and preservation of historic property.
 

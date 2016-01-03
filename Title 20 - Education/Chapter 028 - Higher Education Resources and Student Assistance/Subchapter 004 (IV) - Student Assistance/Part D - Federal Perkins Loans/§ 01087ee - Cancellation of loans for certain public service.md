@@ -68,7 +68,7 @@
 
 #### (b) Reimbursement for cancellation
 
-The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title. None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
+The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title. None of the funds appropriated pursuant to section 1087aa(b) <sup>1</sup> of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 
 #### (c) Special rules
 
@@ -84,7 +84,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 &emsp;&emsp;(B) in a subsequent year fails to meet the requirements of such subsection,
 
-> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such <sup>1</sup> subsequent years.
+> &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such <sup>2</sup> subsequent years.
 
 (Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947.)
 
@@ -100,6 +100,8 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
+Section 1087aa of this title, referred to in subsec. (b), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
+
 #### Codification
 
 Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
@@ -112,7 +114,7 @@ A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92�
 
 <b>2009</b>—Subsec. (a)(6). Pub. L. 111–39 substituted "12601" for "12571".
 
-<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A)which read as follows: "as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;".
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;".
 
 Subsec. (a)(2)(B). Pub. L. 110–315, §465(1)(B), substituted "Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that" for "Head Start Act which".
 
@@ -202,5 +204,7 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Subsection (a)(2)(E) of this section applicable only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "in such".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "in such".</i>
 

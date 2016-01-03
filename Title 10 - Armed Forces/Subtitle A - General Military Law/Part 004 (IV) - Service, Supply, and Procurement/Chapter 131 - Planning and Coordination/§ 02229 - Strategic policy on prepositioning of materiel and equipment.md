@@ -42,15 +42,17 @@ Congressional Notification.—The Secretary of Defense may not implement or chan
 
 (d)
 
-Annual Certification.—(1) Not later than the date of the submission of the President's budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees certification <sup>1</sup> in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
+Annual Certification.—(1) Not later than the date of the submission of the President's budget request for a fiscal year under section 1105 of title 31, the Secretary of Defense shall submit to the congressional defense committees a certification in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
 
 (2) If, for any year, the Secretary cannot certify that any of the prepositioned stocks meet such operations plans, the Secretary shall include with the certification for that year a list of the operations plans affected, a description of any measures that have been taken to mitigate any risk associated with prepositioned stock shortfalls, and an anticipated timeframe for the replenishment of the stocks.
 
 (3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added Pub. L. 109–364, div. A, title III, §351(a), Oct. 17, 2006, 120 Stat. 2160; amended Pub. L. 112–81, div. A, title III, §341(a), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 113–66, div. A, title III, §321(a), Dec. 26, 2013, 127 Stat. 730; Pub. L. 113–291, div. A, title III, §322, Dec. 19, 2014, 128 Stat. 3343.)
+(Added Pub. L. 109–364, div. A, title III, §351(a), Oct. 17, 2006, 120 Stat. 2160; amended Pub. L. 112–81, div. A, title III, §341(a), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 113–66, div. A, title III, §321(a), Dec. 26, 2013, 127 Stat. 730; Pub. L. 113–291, div. A, title III, §322, Dec. 19, 2014, 128 Stat. 3343; Pub. L. 114–92, div. A, title X, §1081(a)(8), Nov. 25, 2015, 129 Stat. 1001.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–92 substituted "a certification in writing" for "certification in writing".
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 inserted "support for crisis response elements," after "service requirements,".
 
@@ -122,7 +124,7 @@ Consultation.—In the development of concept plans for the Department of Defens
 
 "(b)
 
-Prepositioning of Department of Defense Assets.—The Secretary of Defense may provide for the prepositioning of prepackaged or preidentified basic response assets, such as medical supplies, food and water, and communications equipment, in order to improve the ability of the Department of Defense to rapidly provide support to civil authorities. The prepositioning of basic response assets shall be carried out in a mannerconsistent with Department of Defense concept plans for providing support to civil authorities and section 2229 of title 10, United States Code, as added by section 351.
+Prepositioning of Department of Defense Assets.—The Secretary of Defense may provide for the prepositioning of prepackaged or preidentified basic response assets, such as medical supplies, food and water, and communications equipment, in order to improve the ability of the Department of Defense to rapidly provide support to civil authorities. The prepositioning of basic response assets shall be carried out in a manner consistent with Department of Defense concept plans for providing support to civil authorities and section 2229 of title 10, United States Code, as added by section 351.
 
 "(c)
 
@@ -135,6 +137,4 @@ Military Readiness.—The Secretary of Defense shall ensure that the preposition
 "(e)
 
 Procedures and Guidelines.—The Secretary may develop procedures and guidelines applicable to the prepositioning of basic response assets under subsection (b)."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "a certification".</i>
 

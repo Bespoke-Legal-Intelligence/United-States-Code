@@ -4,7 +4,7 @@
 
 (b) The Secretary of State shall be responsible for formulation, coordination, and oversight of foreign policy related to international communications and information policy. The Secretary of State shall—
 
-&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of theUnited States Trade Representative in this area;
+&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
 
 &emsp;(2) maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;
 
@@ -26,7 +26,7 @@ A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by section 124
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(k)(1)(A), struck out subsec. (a) which read as follows: "The Secretary of State shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the 'Under Secretary')."
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §162(k)(1)(A), struck out subsec. (a) which read as follows: "The Secretary ofState shall assign responsibility for international communications and information policy matters within the Department of State to an appropriate Under Secretary of State (hereafter in this section referred to as the 'Under Secretary')."
 
 Subsec. (b). Pub. L. 103–236, §162(k)(1)(B)(i), inserted introductory provisions and struck out former introductory provisions which read as follows: "The Secretary of State shall establish, within the Department of State, an Office of the Coordinator for International Communications and Information Policy, headed by a Coordinator who shall be responsible to the Under Secretary. The Coordinator shall be appointed by the President, by and with the advice and consent of the Senate, and shall have the rank of ambassador. The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5. The Coordinator shall be responsible, on behalf of the Under Secretary, for formulation, coordination, and oversight of international communications and information policy assigned to the Under Secretary. On behalf  of  the  Under  Secretary,  the  Coordinator  shall—".
 

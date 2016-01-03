@@ -6,7 +6,7 @@ Information To Be Provided on the Internet.—The Secretary of Transportation sh
 
 (b)
 
-Required Disclosures.—An air carrier, foreign air carrier, or ticket agent selling, in the United States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
+Required Disclosures.—An air carrier, foreign air carrier, or ticket agent selling, in theUnited States, a ticket for a flight in foreign air transportation to a country listed on the Internet Web site established under subsection (a) shall refer the purchaser of the ticket to the Internet Web site established under subsection (a) for additional information.
 
 (Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 95.)
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) required by a change made after the date of issue of the issue in question in a Federal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
 
-&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
+&emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account underthis clause with respect to any issue shall not exceed $1,000,000), or
 
 &emsp;&emsp;&emsp;(iv) described in clause (i) or (ii) of section 41(b)(2)(A) for which a deduction was allowed under section 174(a),
 
@@ -66,7 +66,7 @@
 
 #### (D) Limitation on loss of tax exemption
 
-&emsp;&emsp;In applying subparagraph (A)(ii) with respect to capital expenditures made after the date of any issue, no bond issued as a part of such issue shall cease to be treated as a qualified small issue bond by reason of any such expenditure for any period before thedate on which such expenditure is paid or incurred.
+&emsp;&emsp;In applying subparagraph (A)(ii) with respect to capital expenditures made after the date of any issue, no bond issued as a part of such issue shall cease to be treated as a qualified small issue bond by reason of any such expenditure for any period before the date on which such expenditure is paid or incurred.
 
 #### (E) Certain refinancing issues
 
@@ -122,7 +122,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized face amount of such issue allocated to any test-period beneficiary (when increased by the outstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
+&emsp;&emsp;This subsection shall not apply to any issue if the aggregate authorized face amount of such issue allocated to any test-period beneficiary (when increased by theoutstanding tax-exempt facility-related bonds of such beneficiary) exceeds $40,000,000.
 
 #### (B) Outstanding tax-exempt facility-related bonds
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangiblepersonal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
 
 #### (ii) Certain facilities included
 
@@ -374,7 +374,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
-&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
+&emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differfrom the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
 > &emsp;For purposes of the preceding sentence, the term "comparable property" means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
@@ -444,7 +444,7 @@ Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
 Subsec. (a)(12)(A)(ii). Pub. L. 100–647, §1013(a)(4)(A), inserted "(or series of bonds)" before "issued to refund" in introductory text.
 
-Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the refunding bond has a maturity date not later than the maturity date of the refunded bond,".
+Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: "the refunding bond has a maturity date not later than the maturity date of the refunded bond,".
 
 Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesignated subcl. (IV) as (III) and struck out former subcl. (III) which provided that this subsection apply when the interest rate on the refunding bond is lower than the interest rate on the refunded bond.
 

@@ -2,7 +2,7 @@
 
 #### (a) Redesignation of Department of Health, Education, and Welfare
 
-The Department of Health, Education, and Welfare is hereby redesignated the Departmentof Health and Human Services, and the Secretary of Health, Education, and Welfare or any other official of the Department of Health, Education, and Welfare is hereby redesignated the Secretary or official, as appropriate, of Health and Human Services.
+The Department of Health, Education, and Welfare is hereby redesignated the Department of Health and Human Services, and the Secretary of Health, Education, and Welfare or any other official of the Department of Health, Education, and Welfare is hereby redesignated the Secretary or official, as appropriate, of Health and Human Services.
 
 #### (b) Reference to Department, Secretary, etc., of Health, Education, and Welfare deemed reference to Department, Secretary, etc., of Health and Human Services
 

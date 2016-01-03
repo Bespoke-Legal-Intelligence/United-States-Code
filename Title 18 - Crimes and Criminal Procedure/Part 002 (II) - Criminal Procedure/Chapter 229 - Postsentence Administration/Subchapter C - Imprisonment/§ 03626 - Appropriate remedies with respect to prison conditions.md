@@ -30,7 +30,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;&emsp;(ii) the defendant has had a reasonable amount of time to comply with the previous court orders.
 
-&emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title 28, if the requirements of subparagraph (E) have been met.
+&emsp;(B) In any civil action in Federal court with respect to prison conditions, a prisoner release order shall be entered only by a three-judge court in accordance with section 2284 of title28, if the requirements of subparagraph (E) have been met.
 
 &emsp;(C) A party seeking a prisoner release order in Federal court shall file with any request for such relief, a request for a three-judge court and materials sufficient to demonstrate that the requirements of subparagraph (A) have been met.
 
@@ -192,7 +192,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 <b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted "requires" for "permits".
 
-Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted "no court shall enter a prisoner release order unless" for "no prisoner release order shall be entered unless".
+Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted "no court shall enter a prisoner release orderunless" for "no prisoner release order shall be entered unless".
 
 Subsec. (a)(3)(F). Pub. L. 105–119, §123(a)(1)(B)(ii), inserted "including a legislator" after "local official" and substituted "prison facilities" for "program facilities".
 

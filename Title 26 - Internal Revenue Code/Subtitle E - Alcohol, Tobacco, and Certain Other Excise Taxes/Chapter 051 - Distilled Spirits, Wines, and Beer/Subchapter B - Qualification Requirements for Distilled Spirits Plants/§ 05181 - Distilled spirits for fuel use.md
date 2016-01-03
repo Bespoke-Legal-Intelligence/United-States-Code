@@ -36,7 +36,7 @@ The Secretary may by regulation provide for the waiver of any provision of this 
 
 #### (B) Receipt of application
 
-&emsp;&emsp;Within 15 days of receipt of an application under subparagraph (A), the Secretary shall send a written notice of receipt to the applicant, together with a statement as to whether the application meets the requirements of subparagraph (A). If such a notice is not sent and the applicant has a receipt indicating that the Secretary has received an application, paragraph (2) shall apply as if a written notice required by the preceding sentence, together with a statement that the application meets the requirements of subparagraph (A), had been sent on the 15th day after the date the Secretary received the application.
+&emsp;&emsp;Within 15 days of receipt of an application under subparagraph (A), the Secretary shall send a written notice of receipt to the applicant, together with a statement as to whether the application meets the requirements of subparagraph (A). If such a notice is not sent and the applicant has a receipt indicating that the Secretary has received an application, paragraph (2) shall apply as if a written notice required by the preceding sentence,together with a statement that the application meets the requirements of subparagraph (A), had been sent on the 15th day after the date the Secretary received the application.
 
 #### (C) Multiple applications
 

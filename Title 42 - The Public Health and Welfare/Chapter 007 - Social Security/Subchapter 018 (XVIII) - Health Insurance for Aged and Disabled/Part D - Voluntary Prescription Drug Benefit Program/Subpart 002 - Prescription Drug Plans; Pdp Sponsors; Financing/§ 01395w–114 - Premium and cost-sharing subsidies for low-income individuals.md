@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application of section 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
 
-&emsp;&emsp;&emsp;(ii) the term "poverty line" has the meaning given such term in section 9902(2)of this title, including any revision required by such section.
+&emsp;&emsp;&emsp;(ii) the term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 > &emsp;&emsp;Nothing in clause (i) shall be construed to affect the application of section 1396a(r)(2) of this title for the determination of eligibility for medical assistance under subchapter XIX of this chapter.
 
@@ -252,7 +252,7 @@
 
 #### (d) Facilitation of reassignments
 
-Beginning not later than January 1, 2011, the Secretary shall, in the case of a subsidy eligible individual who is enrolled in one prescription drug plan and is subsequently reassigned by theSecretary to a new prescription drug plan, provide the individual, within 30 days of such reassignment, with—
+Beginning not later than January 1, 2011, the Secretary shall, in the case of a subsidy eligible individual who is enrolled in one prescription drug plan and is subsequently reassigned by the Secretary to a new prescription drug plan, provide the individual, within 30 days of such reassignment, with—
 
 &emsp;(1) information on formulary differences between the individual's former plan and the plan to which the individual is reassigned with respect to the individual's drug regimens; and
 

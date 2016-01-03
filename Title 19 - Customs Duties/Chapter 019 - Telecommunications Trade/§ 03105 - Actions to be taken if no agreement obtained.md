@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-(1) If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under section 3103 of this title which achieves the general negotiating objectives described in section 3104(b) of this title as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) of this section that are appropriate and most likely to achieve such general negotiating objectives.
+(1) If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under section 3103 of this title which achieves the general negotiating objectives described in section 3104(b) of this title as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) that are appropriate and most likely to achieve such general negotiating objectives.
 
 (2) In taking actions under paragraph (1), the President shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the President determines that actions against other economic sectors would be more effective in achieving the general negotiating objectives referred to in paragraph (1).
 
 #### (b) Actions authorized
 
-(1) The President is authorized to take any of the following actions under subsection (a) of this section with respect to any priority foreign country:
+(1) The President is authorized to take any of the following actions under subsection (a) with respect to any priority foreign country:
 
 &emsp;(A) termination, withdrawal, or suspension of any portion of any trade agreement entered into with such country under—
 
@@ -52,11 +52,11 @@
 
 #### (d) Modification and termination authority
 
-The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
+The President may modify or terminate any action taken under subsection (a) if, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
 
 #### (e) Report
 
-The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) of this section or of the modification or termination of any such action under subsection (d) of this section.
+The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
 
 (Pub. L. 100–418, title I, §1376, Aug. 23, 1988, 102 Stat. 1220.)
 
@@ -64,7 +64,7 @@ The President shall promptly inform the appropriate committees of the Congress o
 
 Subtitle A, referred to in subsec. (a)(1), is subtitle A (§§1101–1125) of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), (G), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101et seq.) of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(E), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 

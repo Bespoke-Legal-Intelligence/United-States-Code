@@ -52,7 +52,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1982 Amendment
 
-Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, §31, Jan. 12, 1983, 96 Stat. 2511, provided that: "The amendment made by subsection (a) \[amending this section\] and subsection (b) \[enacting section 1099 of Title 20, Education\] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act \[Oct. 15, 1982\]."
+Section 701(c) of Pub. L. 97–320, as amended by Pub. L. 97–457, §31, Jan. 12, 1983, 96 Stat. 2511, provided that: "The amendment made by subsection (a) \[amending this section\] and subsection (b) \[enacting section 1099 of Title 20, Education\] shall be effective with respect toloans made prior to, on, and after the date of the enactment of this Act \[Oct. 15, 1982\]."
 
 #### Effective Date of 1980 Amendment
 

@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Model accreditation standards
 
-&emsp;Not later than 18 months after January 4, 2011, the Secretary shall develop model standards, including requirements for regulatory audit reports, and each recognized accreditation body shall ensure that third-party auditors and audit agents of such auditors meetsuch standards in order to qualify such third-party auditors as accredited third-party auditors under this section. In developing the model standards, the Secretary shall look to standards in place on January 4, 2011, for guidance, to avoid unnecessary duplication of efforts and costs.
+&emsp;Not later than 18 months after January 4, 2011, the Secretary shall develop model standards, including requirements for regulatory audit reports, and each recognized accreditation body shall ensure that third-party auditors and audit agents of such auditors meet such standards in order to qualify such third-party auditors as accredited third-party auditors under this section. In developing the model standards, the Secretary shall look to standards in place on January 4, 2011, for guidance, to avoid unnecessary duplication of efforts and costs.
 
 #### (c) Third-party auditors
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (B) Records
 
-&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process,for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
+&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
 
 #### (C) Limitation
 

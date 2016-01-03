@@ -16,11 +16,11 @@ Notwithstanding any other provision of law, the Secretary shall be represented i
 
 #### (d) Consultation with governmental, private nonprofit, and other organizations
 
-The Secretary shall consult periodically with the various governmental, private nonprofit, and other organizations and agencies which have to do with any phase of fish and wildlife with respect to any problems that may arise in connection with such fish and wildlife.
+The Secretary shall consult periodically with the various governmental, private nonprofit,and other organizations and agencies which have to do with any phase of fish and wildlife with respect to any problems that may arise in connection with such fish and wildlife.
 
 (Aug. 8, 1956, ch. 1036, §8, 70 Stat. 1123.)
 
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 

@@ -48,7 +48,7 @@ The Secretary shall provide—
 
 &emsp;&emsp;A statement of the housing needs of the low-income Indian families residing in the jurisdiction of the Indian tribe, and the means by which those needs will be addressed during the applicable period, including—
 
-&emsp;&emsp;&emsp;(i) a description of the estimated housing needs and the need for assistance for the low-income Indian families in the jurisdiction, including a description of the manner in which the geographical distribution of assistance is consistent with the geographical needs and needs for various categories of housing assistance; and
+&emsp;&emsp;&emsp;(i) a description of the estimated housing needs and the need for assistance for the low-income Indian families in the jurisdiction, including a description of the manner in which the geographical distribution ofassistance is consistent with the geographical needs and needs for various categories of housing assistance; and
 
 &emsp;&emsp;&emsp;(ii) a description of the estimated housing needs for all Indian families in the jurisdiction.
 
@@ -92,7 +92,7 @@ A plan under this section may cover more than 1 Indian tribe, but only if the ce
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114Stat. 2962; Pub. L. 110–411, title I, §102, Oct. 14, 2008, 122 Stat. 4321.)
+(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962; Pub. L. 110–411, title I, §102, Oct. 14, 2008, 122 Stat. 4321.)
 
 #### References in Text
 

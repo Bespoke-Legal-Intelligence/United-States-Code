@@ -28,11 +28,11 @@ The Commission shall provide each Panel with such administrative support service
 
 #### (f) Compensation
 
-A member of a Panel appointed under subsection (a) of this section shall be paid at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
+A member of a Panel appointed under subsection (a) shall be paid at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
 
 #### (g) Requests for and disclosures of information
 
-Each Panel shall request information and disclose information to the public, as provided in subsection (h) of this section, only through the Commission.
+Each Panel shall request information and disclose information to the public, as provided in subsection (h), only through the Commission.
 
 #### (h) Information from other Federal departments and agencies
 
@@ -48,7 +48,7 @@ A prior section 2077, Pub. L. 92–573, §28, Oct. 27, 1972, 86 Stat. 1230, prov
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–314, which directed amendment of this section by substituting "the appropriate Congressional committees" for "the Congress" in subsecs.\(j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
+<b>2008</b>—Pub. L. 110–314, which directed amendment of this section by substituting "the appropriate Congressional committees" for "the Congress" in subsecs. (j)(10)(F) and (k)(1), (2), could not be executed because this section does not contain a subsec. (j) or (k).
 
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–608 inserted "(other than employees of the National Institutes of Health, the National Toxicology Program, or the National Center for Toxicological Research)" after "States".
 

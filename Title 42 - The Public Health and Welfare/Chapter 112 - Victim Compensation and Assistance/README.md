@@ -15,6 +15,7 @@
 | [10606\.](%C2%A7%2010606%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93405%2C%20title%20I%2C%20%C2%A7102%28c%29%2C%20Oct.%2030%2C%202004%2C%20118%20Stat.%202264.md) | Repealed. |
 | [10607\.](%C2%A7%2010607%20-%20Services%20to%20victims.md) | Services to victims. |
 | [10608\.](%C2%A7%2010608%20-%20Closed%20circuit%20televised%20court%20proceedings%20for%20victims%20of%20crime.md) | Closed circuit televised court proceedings for victims of crime. |
+| [10609\.](%C2%A7%2010609%20-%20Justice%20for%20United%20States%20victims%20of%20state%20sponsored%20terrorism.md) | Justice for United States victims of state sponsored terrorism. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,3 +37,4 @@
 - [&sect; 10606 - Repealed. Pub. L. 108&#8211;405, title I, &sect;102(c), Oct. 30, 2004, 118 Stat. 2264](%C2%A7%2010606%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93405%2C%20title%20I%2C%20%C2%A7102%28c%29%2C%20Oct.%2030%2C%202004%2C%20118%20Stat.%202264.md)
 - [&sect; 10607 - Services to victims](%C2%A7%2010607%20-%20Services%20to%20victims.md)
 - [&sect; 10608 - Closed circuit televised court proceedings for victims of crime](%C2%A7%2010608%20-%20Closed%20circuit%20televised%20court%20proceedings%20for%20victims%20of%20crime.md)
+- [&sect; 10609 - Justice for United States victims of state sponsored terrorism](%C2%A7%2010609%20-%20Justice%20for%20United%20States%20victims%20of%20state%20sponsored%20terrorism.md)

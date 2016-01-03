@@ -14,5 +14,5 @@ Section 1536, act June 5, 1950, ch. 220, title V, §501, 64 Stat. 209, related t
 
 #### Repeal of Additional Appropriations
 
-Acts June 20, 1952, ch. 449, §12, 66 Stat. 151; Oct. 10, 1951, ch. 479, title V, §545, as added by act July 16, 1953, ch. 195, ch. VI, §603, 67 Stat. 155, were repealed by act Aug. 26, 1954, §542(a)(9)–(11).
+Acts June 20, 1952, ch. 449, §12, 66 Stat. 151; Oct. 10, 1951, ch. 479, title V, §545, as added by act July 16, 1953,ch. 195, ch. VI, §603, 67 Stat. 155, were repealed by act Aug. 26, 1954, §542(a)(9)–(11).
 

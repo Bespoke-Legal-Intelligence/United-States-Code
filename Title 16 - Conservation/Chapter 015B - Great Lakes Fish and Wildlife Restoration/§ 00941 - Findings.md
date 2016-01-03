@@ -6,7 +6,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) The fishery resources of the Great Lakes support recreational fisheries enjoyed by more than 5,000,000 people annually and commercial fisheries providing approximately 9,000 jobs. Together, these fisheries generate economic activity worth more than $4,400,000,000 annually to the United States.
 
-&emsp;(3) The availability of a suitable forage base is essential to lake trout, walleye, yellow perch, and other recreational and commercially valuable fishery resources of the Great Lakes Basin. Protecting and restoring productive fish habitat, including by protecting water quality, is essential to the successful recovery of Great Lakes Basin fishery resources.
+&emsp;(3) The availability of a suitable forage base is essential to lake trout, walleye, yellowperch, and other recreational and commercially valuable fishery resources of the Great Lakes Basin. Protecting and restoring productive fish habitat, including by protecting water quality, is essential to the successful recovery of Great Lakes Basin fishery resources.
 
 &emsp;(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory bird species dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
 
@@ -64,7 +64,7 @@ Pub. L. 109–326, §2, Oct. 11, 2006, 120 Stat. 1761, provided that: "Congress 
 
 Pub. L. 105–265, §2, Oct. 19, 1998, 112 Stat. 2358, provided that: "Congress finds that—
 
-&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, andthe assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
+&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
 
 &emsp;"(2) the study—
 

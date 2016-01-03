@@ -126,7 +126,7 @@ Plan for Implementation.—Not later than 90 days after the effective date of th
 
 "(c)
 
-Deadline for Appointment.—The Chief Financial Officer designated or appointed under section 901(c) of title 31, United States Code (as added by subsection\(a)), shall be so designated or appointed not later than 180 days after the effective date of this section \[noon on Jan. 20, 2001\].
+Deadline for Appointment.—The Chief Financial Officer designated or appointed under section 901(c) of title 31, United States Code (as added by subsection (a)), shall be so designated or appointed not later than 180 days after the effective date of this section \[noon on Jan. 20, 2001\].
 
 "(d)
 

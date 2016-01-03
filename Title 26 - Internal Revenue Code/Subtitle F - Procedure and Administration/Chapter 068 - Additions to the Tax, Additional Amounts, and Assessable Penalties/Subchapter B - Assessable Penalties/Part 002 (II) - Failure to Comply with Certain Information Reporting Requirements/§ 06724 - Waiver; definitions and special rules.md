@@ -90,13 +90,15 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage), or
 
-&emsp;&emsp;&emsp;(xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), and
+&emsp;&emsp;&emsp;(xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
 &emsp;&emsp;(C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
 &emsp;&emsp;&emsp;(i) section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
 
-&emsp;&emsp;&emsp;(ii) section 6047(d) (relating to reports by employers, plan administrators, etc.).
+&emsp;&emsp;&emsp;(ii) section 6047(d) (relating to reports by employers, plan administrators, etc.), and
+
+&emsp;&emsp;(D) any statement required to be filed with the Secretary under section 6035.
 
 > &emsp;&emsp;Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).<sup>3</sup>
 
@@ -168,11 +170,13 @@ For purposes of this part—
 
 &emsp;&emsp;(FF) section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
 
-&emsp;&emsp;(GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage), or
+&emsp;&emsp;(GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage),
 
-&emsp;&emsp;(HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).
+&emsp;&emsp;(HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage), or
 
-> &emsp;Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
+&emsp;&emsp;(II) section 6035 (other than a statement described in paragraph (1)(D)).
+
+> &emsp;Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld underchapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
 #### (3) Specified information reporting requirement
 
@@ -208,7 +212,11 @@ For purposes of this part—
 
 If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908;Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036.)
+#### (f) Special rule for returns of educational institutions related to higher education tuition and related expenses
+
+No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual's TIN.
+
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388-465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613; Pub. L. 109–280, title VIII, §844(d)(2), title XII, §1211(b)(1), Aug. 17, 2006, 120 Stat. 1012, 1073; Pub. L. 109–432, div. A, title IV, §403(c)(1), (2), Dec. 20, 2006, 120 Stat. 2955; Pub. L. 110–172, §11(b)(2), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–289, div. C, title III, §3091(b), July 30, 2008, 122 Stat. 2910; Pub. L. 110–343, div. B, title IV, §403(c)(2), (d)(2), Oct. 3, 2008, 122 Stat. 3858, 3860; Pub. L. 111–147, title V, §§501(c)(6), (7), 522(b), Mar. 18, 2010, 124 Stat. 106, 113; Pub. L. 111–148, title I, §§1502(b), 1514(b), title X, §10108(j)(3)(E), (F), Mar. 23, 2010, 124 Stat. 251, 257, 915; Pub. L. 113–295, div. A, title II, §220(x), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–27, title VIII, §805(a), June 29, 2015, 129 Stat. 416; Pub. L. 114–41, title II, §2004(b)(2), July 31, 2015, 129 Stat. 456.)
 
 #### Codification
 
@@ -217,6 +225,12 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(1)(D). Pub. L. 114–41, §2004(b)(2)(A), which directed amendment of subsec. (d)(1) by "adding at the end" subpar. (D), was executed by adding subpar. (D) after subpar. (C) to reflect the probable intent of Congress.
+
+Subsec. (d)(2)(II). Pub. L. 114–41, §2004(b)(2)(B), which directed amendment of subsec. (d)(2) by "adding at the end" subpar. (II), was executed by adding subpar. (II) after subpar. (HH) to reflect the probable intent of Congress.
+
+Subsec. (f). Pub. L. 114–27 added subsec. (f).
 
 <b>2014</b>—Subsec. (d)(2)(FF). Pub. L. 113–295 substituted "section 6050W(f)" for "section 6050W(c)".
 
@@ -462,7 +476,7 @@ Pub. L. 104–188, §1704(j)(3), substituted "section 6109(h)" for "section 6109
 
 <b>1994</b>—Subsec. (d)(1)(B)(iv). Pub. L. 103–322, §20415(b)(1), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "section 6050I(a) (relating to cash received in trade or business),".
 
-Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: "section 6050I(e) (relating to returns relating to cash received in trade or business),".
+Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar.\(K) read as follows: "section 6050I(e) (relating to returns relating to cash received in trade or business),".
 
 <b>1993</b>—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
 
@@ -503,6 +517,12 @@ Subsec. (d)(2). Pub. L. 100–647, §3001(b)(2), which directed that "or" be str
 Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) to (I), respectively, and struck out former subpar. (A) which read as follows: "section 4997(a) (relating to records and information; regulations)," and redesignated subpars. (L) to (T) as (J) to (R), respectively, and struck out former subpar. (K) which read as follows: "section 6050C (relating to information regarding windfall profit tax on domestic crude oil),".
 
 Subsec. (d)(2)(B). Pub. L. 100–647, §1015(a), substituted "6031(b) or (c)" for "6031(b)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under section 1014 of this title.
+
+Pub. L. 114–27, title VIII, §805(b), June 29, 2015, 129 Stat. 416, provided that: "The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015."
 
 #### Effective Date of 2010 Amendment
 
@@ -594,7 +614,7 @@ Amendment by sections 7811(c)(3) and 7813(a) of Pub. L. 101–239 effective, exc
 
 #### Effective Date of 1988 Amendments
 
-Amendment by sections 1006(h)(3)(A) and 1015(a) of Pub. L. 100–647 effective, except as otherwise provided,as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1006(h)(3)(A) and 1015(a) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title III, §3001(c), Nov. 10, 1988, 102 Stat. 3615, provided that:
 
@@ -620,7 +640,7 @@ In general.—In the case of fuel—
 
 &emsp;"(B)
 
-Interest.—The amount of interest payable under subparagraph (A) shall be determined under section 6611 of the 1986 Code except that the date of the overpayment with respect to fuel purchased during any month shall be treated as being the 1st day of the succeeding month. No interest shall be paid under this paragraph with respect to fuel used by any agency of the United States.
+Interest.—The amount of interest payable under subparagraph (A) shall be determined under section 6611 of the 1986 Code except that the date ofthe overpayment with respect to fuel purchased during any month shall be treated as being the 1st day of the succeeding month. No interest shall be paid under this paragraph with respect to fuel used by any agency of the United States.
 
 &emsp;"(C)
 
@@ -634,7 +654,7 @@ Section applicable to returns the due date for which (determined without regard 
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of Title 29, Labor.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

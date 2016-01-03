@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible for program benefits in connection with production or reduced production of crops on certain lands; eligibility based upon compliance with conservation plan by January 1, 1995; minimization of documentation
 
-(1) During the period beginning on December 23, 1985, and ending on the later of January 1,1990, or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on December 23, 1985, except as provided in paragraph (2), no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
+(1) During the period beginning on December 23, 1985, and ending on the later of January 1, 1990, or the date that is 2 years after the date land on which a crop of an agricultural commodity is produced was mapped by the Soil Conservation Service for purposes of classifying such land under the land capability classification system in effect on December 23, 1985, except as provided in paragraph (2), no person shall become ineligible under section 3811 of this title for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity on any land that was—
 
 &emsp;(A) cultivated to produce any of the 1981 through 1985 crops of an agricultural commodity; or
 
@@ -62,7 +62,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;&emsp;(B) not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
 
-&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by theSoil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
+&emsp;(2) on highly erodible land that is planted or set aside in reliance on a determination by the Soil Conservation Service that such land was not highly erodible land, except that this paragraph shall not apply to any agricultural commodity that was planted or set aside on any land after the Soil Conservation Service determines that such land is highly erodible land; or
 
 &emsp;(3) on highly erodible land planted to alfalfa during each of the 1981 through 1985 crop years as part of a rotation practice approved by the Secretary, if the person has submitted a conservation plan, in which case, such person shall have until June 1, 1988, to comply with the plan without being subject to program ineligibility under section 3811 of this title.
 
@@ -126,7 +126,7 @@ If a tenant is determined to be ineligible for payments and other benefits under
 
 #### (g) Preparation or revision of conservation plan
 
-The Secretary, in providing assistance to an individual in the preparation or revision of a conservation plan under this section, shall provide such individual with information—
+The Secretary, in providing assistance to an individual in the preparation or revision of aconservation plan under this section, shall provide such individual with information—
 
 &emsp;(1) concerning cost effective and applicable erosion control measures that may be available to such individual to meet the requirements of this section; and
 
@@ -206,7 +206,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservationtreatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–28, §3, inserted "that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is" after "conservation plan", and inserted at end "In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph."
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

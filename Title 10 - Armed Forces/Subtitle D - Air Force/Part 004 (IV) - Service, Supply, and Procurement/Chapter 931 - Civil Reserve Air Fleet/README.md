@@ -9,6 +9,7 @@
 | [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
 | [9515\.](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md) | Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet. |
 | [9516\.](%C2%A7%2009516%20-%20Airlift%20service.md) | Airlift service. |
+| [9517\.](%C2%A7%2009517%20-%20Level%20of%20readiness%20of%20Civil%20Reserve%20Air%20Fleet%20carriers.md) | Level of Readiness <sup>1</sup> of Civil Reserve Air Fleet carriers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,6 +33,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1085(b)(2), Nov. 25, 2015, 129 Stat. 1005, added item 9517.
+
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513 "Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
@@ -48,6 +51,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 <b>1981</b>—Pub. L. 97–86, title IX, §915, Dec. 1, 1981, 95 Stat. 1125, added analysis of subchapters, subchapter headings "SUBCHAPTER I—GENERAL" and "SUBCHAPTER II—CIVIL RESERVE AIR FLEET", and the analysis of sections for subchapter II consisting of items 9511, 9512, and 9513.
 
+<i><sup>1</sup></i><i> So in original. Probably should be "readiness".</i>
+
 
 ---
 
@@ -60,3 +65,4 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 - [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)
 - [&sect; 09515 - Charter air transportation services minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md)
 - [&sect; 09516 - Airlift service](%C2%A7%2009516%20-%20Airlift%20service.md)
+- [&sect; 09517 - Level of readiness of Civil Reserve Air Fleet carriers](%C2%A7%2009517%20-%20Level%20of%20readiness%20of%20Civil%20Reserve%20Air%20Fleet%20carriers.md)

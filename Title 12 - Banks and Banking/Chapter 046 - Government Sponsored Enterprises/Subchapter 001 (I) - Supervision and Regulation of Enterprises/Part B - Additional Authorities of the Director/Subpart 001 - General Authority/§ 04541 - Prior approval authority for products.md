@@ -42,7 +42,7 @@ In considering any request for approval of a product pursuant to subsection (a),
 
 #### (C) Temporary approval
 
-&emsp;&emsp;The Director may, subject to the rules of the Director, provide for temporary approval of the offering of a product without a public comment period, if the Director finds that the existence of exigent circumstances makes such delay contrary to the public interest.
+&emsp;&emsp;The Director may, subject to the rules of the Director, provide for temporary approvalof the offering of a product without a public comment period, if the Director finds that the existence of exigent circumstances makes such delay contrary to the public interest.
 
 #### (d) Conditional approval
 

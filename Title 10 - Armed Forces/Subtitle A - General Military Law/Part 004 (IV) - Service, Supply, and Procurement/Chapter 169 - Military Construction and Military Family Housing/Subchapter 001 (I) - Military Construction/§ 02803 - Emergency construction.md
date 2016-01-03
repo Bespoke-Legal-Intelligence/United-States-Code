@@ -8,7 +8,7 @@
 
 (2) A project carried out under this section shall be carried out within the total amount of funds appropriated for military construction that have not been obligated.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, title XXVIII, §§2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, §1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(34), div. B, title XXVIII, §2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, §2801, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 112–81, div. A, title X, §1064(9), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 154; amended Pub. L. 102–190, div. B, titleXXVIII, §§2803, 2870(2), Dec. 5, 1991, 105 Stat. 1537, 1562; Pub. L. 102–484, div. A, title X, §1053(9), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(34), div. B, title XXVIII, §2802, Nov. 24, 2003, 117 Stat. 1600, 1719; Pub. L. 109–364, div. B, title XXVIII, §2801, Oct. 17, 2006, 120 Stat. 2466; Pub. L. 112–81, div. A, title X, §1064(9), Dec. 31, 2011, 125 Stat. 1587.)
 
 #### Amendments
 

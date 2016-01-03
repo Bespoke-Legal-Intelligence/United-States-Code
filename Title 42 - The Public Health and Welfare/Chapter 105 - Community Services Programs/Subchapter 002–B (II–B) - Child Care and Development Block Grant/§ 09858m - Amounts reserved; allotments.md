@@ -14,7 +14,7 @@
 
 #### (B) Limitations
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under section 9858 of this title, for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the "reservation year") if—
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary shall only reserve an amount thatis greater than 2 percent of the amount appropriated under section 9858 of this title, for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the "reservation year") if—
 
 &emsp;&emsp;&emsp;(i) the amount appropriated under section 9858 of this title for the reservation year is greater than the amount appropriated under section 9858 of this title for fiscal year 2014; and
 

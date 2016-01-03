@@ -12,7 +12,7 @@ Each agreement entered into under this section shall—
 
 &emsp;(2) provide for deposit in the fund, except as provided in section 298d of this title, of (A) the Federal capital contributions paid from allotments under section 297d of this title to the school by the Secretary, (B) an additional amount from other sources equal to not less than one-ninth of such Federal capital contributions, (C) collections of principal and interest on loans made from the fund, (D) collections pursuant to section 297b(f) of this title, and (E) any other earnings of the fund;
 
-&emsp;(3) provide that the fund, except as provided in section 298d of this title, shall be used onlyfor loans to students of the school in accordance with the agreement and for costs of collection of such loans and interest thereon;
+&emsp;(3) provide that the fund, except as provided in section 298d of this title, shall be used only for loans to students of the school in accordance with the agreement and for costs of collection of such loans and interest thereon;
 
 &emsp;(4) provide that loans may be made from such fund only to students pursuing a full-time or half-time course of study at the school leading to a baccalaureate or associate degree in nursing or an equivalent degree or a diploma in nursing, or to a graduate degree in nursing; and
 
@@ -22,7 +22,7 @@ Each agreement entered into under this section shall—
 
 (1) Any standard established by the Secretary by regulation for the collection by schools of nursing of loans made pursuant to loan agreements under this part shall provide that the failure of any such school to collect such loans shall be measured in accordance with this subsection. With respect to the student loan fund established pursuant to such agreements, this subsection may not be construed to require such schools to reimburse such loan fund for loans that became uncollectable prior to 1983.
 
-(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaulted principal amount outstanding of such school bears to the matured loans of such school.
+(2) The measurement of a school's failure to collect loans made under this part shall be the ratio (stated as a percentage) that the defaultedprincipal amount outstanding of such school bears to the matured loans of such school.
 
 (3) For purposes of this subsection—
 

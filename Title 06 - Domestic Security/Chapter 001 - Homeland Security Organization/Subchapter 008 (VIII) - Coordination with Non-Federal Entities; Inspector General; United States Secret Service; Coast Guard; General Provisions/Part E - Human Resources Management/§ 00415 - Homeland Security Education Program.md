@@ -12,7 +12,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### (1) Sources
 
-&emsp;The student body of the Program shall include officials from Federal, State, local, andtribal governments, and from other sources designated by the Administrator.
+&emsp;The student body of the Program shall include officials from Federal, State, local, and tribal governments, and from other sources designated by the Administrator.
 
 #### (2) Enrollment priorities and selection criteria
 

@@ -54,7 +54,7 @@ It is the purpose of this section—
 
 &emsp;Each application shall include—
 
-&emsp;&emsp;(A) a description of the institution, system, or consortium's consultation with a recognized accrediting agency or associationwith respect to quality assurances for the distance education programs to be offered;
+&emsp;&emsp;(A) a description of the institution, system, or consortium's consultation with a recognized accrediting agency or association with respect to quality assurances for the distance education programs to be offered;
 
 &emsp;&emsp;(B) a description of the statutory and regulatory requirements described in subsection (b)(2) of this section or, if applicable, subsection (b)(3)(D) of this section for which a waiver is sought and the reasons for which the waiver is sought;
 

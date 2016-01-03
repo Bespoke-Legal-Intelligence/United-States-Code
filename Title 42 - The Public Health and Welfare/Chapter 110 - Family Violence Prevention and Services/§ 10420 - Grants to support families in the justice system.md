@@ -10,7 +10,7 @@ A grant under this section may be used to—
 
 &emsp;(1) provide supervised visitation and safe visitation exchange of children and youth by and between parents in situations involving domestic violence, dating violence, child sexual abuse, sexual assault, or stalking;
 
-&emsp;(2) develop and promote State, local, and tribal legislation, policies, and best practices for improving civil and criminal court functions, responses, practices, and procedures in cases involving a history of domestic violenceor sexual assault, or in cases involving allegations of child sexual abuse, including cases in which the victim proceeds pro se;
+&emsp;(2) develop and promote State, local, and tribal legislation, policies, and best practices for improving civil and criminal court functions, responses, practices, and procedures in cases involving a history of domestic violence or sexual assault, or in cases involving allegations of child sexual abuse, including cases in which the victim proceeds pro se;
 
 &emsp;(3) educate court-based and court-related personnel and court-appointed personnel (including custody evaluators and guardians ad litem) and child protective services workers on the dynamics of domestic violence, dating violence, sexual assault, and stalking, including information on perpetrator behavior, evidence-based risk factors for domestic and dating violence homicide, and on issues relating to the needs of victims, including safety, security, privacy, and confidentiality, including cases in which the victim proceeds pro se;
 

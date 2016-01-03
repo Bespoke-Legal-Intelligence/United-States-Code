@@ -27,7 +27,7 @@ For purposes of this section—
 | 69 | 11&nbsp;&nbsp; |
 | 70 | 10\. |
 
-&emsp;(3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration of the term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
+&emsp;(3) Any judge who is not reappointed following the expiration of the term of his office may retire upon the completion of such term, if (A) he has served as a judge of the Tax Court for 15 years or more and (B) not earlier than 9 months preceding the date of the expiration ofthe term of his office and not later than 6 months preceding such date, he advised the President in writing that he was willing to accept reappointment to the Tax Court.
 
 &emsp;(4) Any judge who becomes permanently disabled from performing his duties shall retire.
 
@@ -85,7 +85,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (3) Suspension of retired pay during period of compensated Government service
 
-&emsp;If such individual accepts compensation for civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (c)), such individual shall forfeit all rights to retired pay under subsection (d) for the period for which such compensation is received.
+&emsp;If such individual accepts compensation for civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (c)), such individual shall forfeit allrights to retired pay under subsection (d) for the period for which such compensation is received.
 
 #### (4) Forfeitures of retired pay under paragraphs (1) and (2) not to apply where individual elects to freeze amount of retired pay
 
@@ -139,7 +139,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revokesuch election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
+&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
 
 #### (2) Manner of revoking
 
@@ -157,7 +157,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;&emsp;(ii) section 7448(g) shall not apply, and the amount credited to such individual's account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;&emsp;(C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amountequal to the amount so required, with interest,
 
 &emsp;&emsp;(D) the Tax Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (e), and
 
@@ -215,7 +215,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 <b>2006</b>—Subsec. (j). Pub. L. 109–280 added subsec. (j).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647 inserted at end "In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantiallyfull-time basis shall be treated as a period during which he has served as a judge."
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 inserted at end "In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge."
 
 <b>1986</b>—Subsec. (a)(2), (3), (5). Pub. L. 99–514, §1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "The term 'Civil Service Commission' means the United States Civil Service Commission."
 
@@ -291,7 +291,7 @@ Pub. L. 95–472, §2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: "The amen
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
+Pub. L. 92–41, §4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953."
 
 #### Effective Date of 1969 Amendment
 
@@ -303,7 +303,7 @@ Pub. L. 91–172, title IX, §962(d), Dec. 30, 1969, 83 Stat. 736, as amended by
 
 &emsp;"(2) all individuals performing judicial duties pursuant to section 7447(c) or receiving retired pay pursuant to section 7447(d) on the day preceding the date of enactment of this Act \[Dec. 30, 1969\].
 
-> Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act \[Dec. 30, 1969\] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bears the same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the Tax Court shall be determined in the manner set forth in section 7447(d) of such Code."
+> Any individual who has served as a judge of the Tax Court for 18 years or more by the end of one year after the date of the enactment of this Act \[Dec. 30, 1969\] may retire in accordance with the provisions of section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect on the day preceding the date of the enactment of this Act. Any individual who is a judge of the Tax Court on the date of the enactment of this Act may retire under the provisions of section 7447 of such Code upon the completion of the term of his office, if he is not reappointed as a judge of the Tax Court and gives notice to the President within the time prescribed by section 7447(b) of such Code (or if his term expires within 6 months after the date of enactment of this Act, gives notice to the President before the expiration of 3 months after the date of enactment of this Act), and shall receive retired pay at a rate which bearsthe same ratio to the rate of the salary payable to a judge as the number of years he has served as a judge of the Tax Court bears to 15; except that the rate of such retired pay shall not exceed the rate of the salary of a judge of the Tax Court. For purposes of the preceding sentence the years of service as a judge of the Tax Court shall be determined in the manner set forth in section 7447(d) of such Code."
 
 #### Effective Date of 1966 Amendment
 

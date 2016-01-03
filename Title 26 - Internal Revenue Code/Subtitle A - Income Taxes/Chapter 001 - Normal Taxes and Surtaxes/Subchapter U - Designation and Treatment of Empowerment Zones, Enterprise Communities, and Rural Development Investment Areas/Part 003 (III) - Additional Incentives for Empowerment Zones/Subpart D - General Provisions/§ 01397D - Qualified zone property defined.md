@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) the original use of which in an empowerment zone commences with the taxpayer, and
 
-&emsp;&emsp;(C) substantially all of the use of which is in an empowerment zone and is in the activeconduct of a qualified business by the taxpayer in such zone.
+&emsp;&emsp;(C) substantially all of the use of which is in an empowerment zone and is in the active conduct of a qualified business by the taxpayer in such zone.
 
 #### (2) Special rule for substantial renovations
 
@@ -22,7 +22,7 @@ For purposes of this part—
 
 For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 554, §1397C; renumbered §1397D, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 554, §1397C; renumbered §1397D, Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-602.)
 
 #### Prior Provisions
 

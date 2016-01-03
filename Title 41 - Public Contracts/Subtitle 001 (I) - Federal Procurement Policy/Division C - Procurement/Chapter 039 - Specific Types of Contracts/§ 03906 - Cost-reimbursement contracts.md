@@ -42,7 +42,7 @@ Time requirements.—
 
 &emsp;&emsp;(A)
 
-Deadline.—The report shall be submitted no later than March 1 and shall cover thefiscal year ending September 30 of the prior year.
+Deadline.—The report shall be submitted no later than March 1 and shall cover the fiscal year ending September 30 of the prior year.
 
 &emsp;&emsp;(B)
 

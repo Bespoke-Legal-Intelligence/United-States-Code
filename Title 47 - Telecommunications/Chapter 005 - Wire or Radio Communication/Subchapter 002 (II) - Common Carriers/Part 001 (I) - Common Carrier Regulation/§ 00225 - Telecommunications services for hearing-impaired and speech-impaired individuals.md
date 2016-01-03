@@ -24,11 +24,11 @@ As used in this section—
 
 #### (2) Use of general authority and remedies
 
-&emsp;For the purposes of administering and enforcing the provisions of this section and the regulations prescribed thereunder, the Commission shall have the same authority, power, and functions with respect to common carriers engaged in intrastate communication as the Commission has in administering and enforcing the provisions of this subchapter with respect to any common carrier engaged in interstate communication. Any violation of this section by any common carrier engaged in intrastate communication shall be subject to the same remedies, penalties, and procedures as are applicable to a violation of this chapter by a common carrier engaged in interstate communication.
+&emsp;For the purposes of administering and enforcing the provisions of this section and theregulations prescribed thereunder, the Commission shall have the same authority, power, and functions with respect to common carriers engaged in intrastate communication as the Commission has in administering and enforcing the provisions of this subchapter with respect to any common carrier engaged in interstate communication. Any violation of this section by any common carrier engaged in intrastate communication shall be subject to the same remedies, penalties, and procedures as are applicable to a violation of this chapter by a common carrier engaged in interstate communication.
 
 #### (c) Provision of services
 
-Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with othercarriers. A common carrier shall be considered to be in compliance with such regulations—
+Each common carrier providing telephone voice transmission services shall, not later than 3 years after July 26, 1990, provide in compliance with the regulations prescribed under this section, throughout the area in which it offers service, telecommunications relay services, individually, through designees, through a competitively selected vendor, or in concert with other carriers. A common carrier shall be considered to be in compliance with such regulations—
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) of this section and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d) of this section; or
 
@@ -88,7 +88,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;After review of such documentation, the Commission shall certify the State program if the Commission determines that—
 
-&emsp;&emsp;(A) the program makes available to hearing-impaired and speech-impaired individuals, either directly, through designees, through a competitively selected vendor, or through regulation of intrastate common carriers, intrastate telecommunications relay services in such State in a manner that meets or exceeds the requirements of regulations prescribed by the Commission under subsection (d) of this section; and
+&emsp;&emsp;(A) the program makes available to hearing-impaired and speech-impaired individuals, either directly, through designees, through a competitively selected vendor, or through regulation of intrastate commoncarriers, intrastate telecommunications relay services in such State in a manner that meets or exceeds the requirements of regulations prescribed by the Commission under subsection (d) of this section; and
 
 &emsp;&emsp;(B) the program makes available adequate procedures and remedies for enforcing the requirements of the State program.
 

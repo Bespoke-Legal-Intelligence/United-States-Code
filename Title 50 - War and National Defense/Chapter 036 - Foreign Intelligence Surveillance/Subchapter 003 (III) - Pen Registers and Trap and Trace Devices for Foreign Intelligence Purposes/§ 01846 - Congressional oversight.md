@@ -6,13 +6,19 @@
 
 &emsp;(1) the total number of applications made for orders approving the use of pen registers or trap and trace devices under this subchapter;
 
-&emsp;(2) the total number of such orders either granted, modified, or denied; and
+&emsp;(2) the total number of such orders either granted, modified, or denied;
 
-&emsp;(3) the total number of pen registers and trap and trace devices whose installation and use was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices.
+&emsp;(3) the total number of pen registers and trap and trace devices whose installation and use was authorized by the Attorney General on an emergency basis under section 1843 of this title, and the total number of subsequent orders approving or denying the installation and use of such pen registers and trap and trace devices;
 
-(Pub. L. 95–511, title IV, §406, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2410; amended Pub. L. 109–177, title I, §§109(b), 128(b), Mar. 9, 2006, 120 Stat. 204, 229.)
+&emsp;(4) each department or agency on behalf of which the Attorney General or a designated attorney for the Government has made an application for an order authorizing or approving the installation and use of a pen register or trap and trace device under this subchapter; and
+
+&emsp;(5) for each department or agency described in paragraph (4), each number described in paragraphs (1), (2), and (3).
+
+(Pub. L. 95–511, title IV, §406, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2410; amended Pub. L. 109–177, title I, §§109(b), 128(b), Mar. 9, 2006, 120 Stat. 204, 229; Pub. L. 114–23, title VI, §605(c), June 2, 2015, 129 Stat. 298.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4), (5). Pub. L. 114–23 added pars. (4) and (5).
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177, §128(b), inserted ", and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate," after "Select Committee on Intelligence of the Senate".
 

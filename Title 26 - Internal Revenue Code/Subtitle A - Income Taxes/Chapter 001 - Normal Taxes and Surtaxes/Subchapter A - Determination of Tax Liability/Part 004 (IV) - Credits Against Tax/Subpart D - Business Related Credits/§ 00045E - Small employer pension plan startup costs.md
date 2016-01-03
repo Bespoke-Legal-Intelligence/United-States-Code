@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) Aggregation rules
 
-&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, orsubsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
+&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
 
 #### (2) Disallowance of deduction
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
 #### Effective Date
 

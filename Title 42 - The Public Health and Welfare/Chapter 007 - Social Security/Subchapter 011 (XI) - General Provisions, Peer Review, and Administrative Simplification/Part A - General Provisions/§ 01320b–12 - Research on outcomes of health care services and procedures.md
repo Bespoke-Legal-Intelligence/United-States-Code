@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supported under subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
+&emsp;The Secretary shall establish priorities with respect to the diseases, disorders, and other health conditions for which research and evaluations are to be conducted or supportedunder subsection (a) of this section. In establishing such priorities, the Secretary shall, with respect to a disease, disorder, or other health condition, consider the extent to which—
 
 &emsp;&emsp;(A) improved methods of prevention, diagnosis, treatment, and clinical management can benefit a significant number of individuals;
 

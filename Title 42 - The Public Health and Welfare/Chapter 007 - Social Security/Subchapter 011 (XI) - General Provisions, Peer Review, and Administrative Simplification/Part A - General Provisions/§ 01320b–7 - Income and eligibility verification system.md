@@ -14,7 +14,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the agencies will exchange with each other information in their possession which may be of use in establishing or verifying eligibility or benefit amounts under any other such program;
 
-&emsp;&emsp;(B) such information shall be made available to assist in the child support program under part D of subchapter IV of this chapter, and to assist the Secretary of Healthand Human Services in establishing or verifying eligibility or benefit amounts under subchapters II and XVI of this chapter, but subject to the safeguards and restrictions established by the Secretary of the Treasury with respect to information released pursuant to section 6103(l) of the Internal Revenue Code of 1986; and
+&emsp;&emsp;(B) such information shall be made available to assist in the child support program under part D of subchapter IV of this chapter, and to assist the Secretary of Health and Human Services in establishing or verifying eligibility or benefit amounts under subchapters II and XVI of this chapter, but subject to the safeguards and restrictions established by the Secretary of the Treasury with respect to information released pursuant to section 6103(l) of the Internal Revenue Code of 1986; and
 
 &emsp;&emsp;(C) the use of such information shall be targeted to those uses which are most likely to be productive in identifying and preventing ineligibility and incorrect payments, and no State shall be required to use such information to verify the eligibility of all recipients;
 
@@ -132,7 +132,7 @@ Subsections (a)(1) and (d) of this section shall not apply with respect to alien
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (3), (4)(B), (5), (b)(3), and (c)(1), is classified generally to Title 26, Internal Revenue Code.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat.703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification
 
@@ -156,7 +156,7 @@ Pub. L. 106–170, §405(a), inserted before semicolon at end: ", and except th
 
 Pub. L. 106–169, substituted "653a(a)(2)(B)(ii) of this title))" for "653a(a)(2)(B)(iii) of this title)". See Effective Date of 1999 Amendment note below.
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted "(including State and local governmental entities and labor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)" after "employers" and ", and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission" before semicolon at end.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–193, §313(c), inserted "(including State and local governmental entities andlabor organizations (as defined in section 653a(a)(2)(B)(iii) of this title)" after "employers" and ", and except that no report shall be filed with respect to an employee of a State or local agency performing intelligence or counterintelligence functions, if the head of such agency has determined that filing such a report could endanger the safety of the employee or compromise an ongoing investigation or intelligence mission" before semicolon at end.
 
 Subsec. (b)(1). Pub. L. 104–193, §108(g)(8)(A), added par. (1) and struck out former par. (1) which read as follows: "the aid to families with dependent children program under part A of subchapter IV of this chapter;".
 
@@ -200,7 +200,7 @@ Amendment by section 401(p) of Pub. L. 106–169 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating toState options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by section 108(g)(8) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 For effective date of amendment by section 313(c) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
@@ -302,7 +302,7 @@ Pub. L. 98–369, div. B, title VI, §2651(l), July 18, 1984, 98 Stat. 1151, pro
 
 "(1) The amendments made by subsections (j) and (k) \[amending section 1383 of this title and section 6103 of Title 26, Internal Revenue Code\] shall become effective on the date of the enactment of this Act \[July 18, 1984\].
 
-"(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985.In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
+"(2) Except as otherwise specifically provided, the amendments made by subsections (a) through (i) \[enacting this section, amending sections 302, 503, 602, 1202, 1352, and 1396a of this title and section 2020 of Title 7, Agriculture, repealing section 611 of this title, and amending provisions set out as a note under section 1382 of this title\] shall become effective on April 1, 1985. In the case of any State which submits a plan describing a good faith effort by such State to come into compliance with the requirements of such subsections, the Secretary of Health and Human Services (or, in the case of the State unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture) may by waiver grant a delay in the effective date of such subsections, except that no such waiver may delay the effective date of section 1137(c) of the Social Security Act \[42 U.S.C. 1320b–7(c)\] (as added by subsection (a) of this section), or delay the effective date of any other provision of or added by this section beyond September 30, 1986."
 
 #### Construction of 1999 Amendment
 

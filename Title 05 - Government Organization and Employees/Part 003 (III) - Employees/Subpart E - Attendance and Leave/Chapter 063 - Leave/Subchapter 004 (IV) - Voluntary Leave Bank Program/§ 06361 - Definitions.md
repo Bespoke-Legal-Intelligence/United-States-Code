@@ -10,7 +10,7 @@ For the purpose of this subchapter the term—
 
 &emsp;(4) "leave contributor" means an employee who contributes leave to an agency leave bank under section 6365;
 
-&emsp;(5) "leave recipient" means an employee whose application under section 6367 to receive contributions of leave from a leave bank is approved; and
+&emsp;(5) "leave recipient" means an employee whose application under section 6367 to receivecontributions of leave from a leave bank is approved; and
 
 &emsp;(6) "medical emergency" means a medical condition of an employee or a family member of such employee that is likely to require the prolonged absence of such employee from duty and to result in a substantial loss of income to such employee because of the unavailability of paid leave (disregarding any advanced leave).
 

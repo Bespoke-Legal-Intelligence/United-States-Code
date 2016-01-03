@@ -8,7 +8,7 @@ For the purposes of this subchapter, a State shall have primary enforcement resp
 
 &emsp;(2) has adopted and is implementing adequate procedures for the enforcement of such State laws and regulations; and
 
-&emsp;(3) will keep such records and make such reports showing compliance with paragraphs (1)and (2) of this subsection as the Administrator may require by regulation.
+&emsp;(3) will keep such records and make such reports showing compliance with paragraphs (1) and (2) of this subsection as the Administrator may require by regulation.
 
 #### (b) Special rules
 

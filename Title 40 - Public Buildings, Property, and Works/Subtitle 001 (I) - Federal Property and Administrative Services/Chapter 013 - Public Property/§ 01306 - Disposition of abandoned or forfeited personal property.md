@@ -14,7 +14,7 @@ Property.—The term "property" means all personal property, including vessels, 
 
 (b)
 
-Voluntarily Abandoned Property.—Property voluntarily abandoned to any agencyin a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
+Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
 
 &emsp;(1) order the agency to deliver the property to another agency that requests the property and that the Administrator believes should be given the property; or
 
@@ -62,7 +62,7 @@ Delivery to other requesting agency.—If the agency that seized the property do
 
 &emsp;&emsp;(D)
 
-Delivery to seizing agency for temporary holding.—If application to the court cannot be made under subparagraph (B) or (C) and the Administrator believes the property may later become necessary to any agency for official use, the Administrator shall apply to the court to order delivery of the property to the agency that seized the property, to be retained in its custody. Within a reasonable time, the Administrator shall order the agency to—
+Delivery to seizing agency for temporary holding.—If application to the courtcannot be made under subparagraph (B) or (C) and the Administrator believes the property may later become necessary to any agency for official use, the Administrator shall apply to the court to order delivery of the property to the agency that seized the property, to be retained in its custody. Within a reasonable time, the Administrator shall order the agency to—
 
 &emsp;&emsp;&emsp;(i) deliver the property to another agency that requests the property and that the Administrator believes should be given the property; or
 

@@ -6,7 +6,7 @@
 
 &emsp;The Congress finds that—
 
-&emsp;&emsp;(A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2) of this section, including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
+&emsp;&emsp;(A) the New Bedford National Historic Landmark District and associated historic sites as described in subsection (c)(2), including the Schooner Ernestina, are National Historic Landmarks and are listed on the National Register of Historic Places as historic sites associated with the history of whaling in the United States;
 
 &emsp;&emsp;(B) the city of New Bedford was the 19th century capital of the world's whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
 
@@ -20,7 +20,7 @@
 
 &emsp;The purposes of this section are—
 
-&emsp;&emsp;(A) to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2) of this section, including architecture, setting, and associated archival and museum collections;
+&emsp;&emsp;(A) to help preserve, protect, and interpret the resources within the areas described in subsection (c)(2), including architecture, setting, and associated archival and museum collections;
 
 &emsp;&emsp;(B) to collaborate with the city of New Bedford and with associated historical, cultural, and preservation organizations to further the purposes of the park established under this section; and
 
@@ -30,7 +30,7 @@
 
 For the purposes of this section—
 
-&emsp;(1) the term "park" means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
+&emsp;(1) the term "park" means the New Bedford Whaling National Historical Park established by subsection (c); and
 
 &emsp;(2) the term "Secretary" means the Secretary of the Interior.
 
@@ -92,7 +92,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 &emsp;&emsp;(ii) construction, restoration, and rehabilitation of visitors and interpretive facilities (other than annual operation and maintenance costs) shall be expended in the ratio of one dollar of Federal funds for each one dollar of funds contributed by non-Federal sources.
 
-&emsp;(B) For the purposes of this paragraph, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this section, any money so contributed. With the approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for the purposes of this paragraph.
+&emsp;(B) For the purposes of this paragraph, the Secretary is authorized to accept from non-Federal sources, and to utilize for purposes of this section, any money so contributed. Withthe approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for the purposes of this paragraph.
 
 #### (4) Acquisition of real property
 
@@ -110,7 +110,7 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d) of this section.
+&emsp;Except as provided in paragraph (2), there are authorized to be appropriated such sums as may be necessary to carry out annual operations and maintenance with respect to the park and to carry out the activities under subsection (d).
 
 #### (2) Exceptions
 
@@ -120,13 +120,13 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 &emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
 
-&emsp;&emsp;(C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
+&emsp;&emsp;(C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2).
 
 (Pub. L. 104–333, div. I, title V, §511, Nov. 12, 1996, 110 Stat. 4159; Pub. L. 106–176, title I, §111(a), Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–7, div. F, title I, §154, Feb. 20, 2003, 117 Stat. 246.)
 
 #### References in Text
 
-The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (e)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (e)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (e)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
@@ -150,9 +150,9 @@ Subsecs. (e), (f). Pub. L. 106–176, §111(a)(4), redesignated subsec. (e), rel
 
 Subsec. (g). Pub. L. 106–176, §111(a)(4), redesignated subsec. (f) as (g).
 
-Subsec. (g)(1). Pub. L. 106–176, §111(a)(5)(A), substituted "subsection (d) of this section." for "section 3(D)."
+Subsec. (g)(1). Pub. L. 106–176, §111(a)(5)(A), substituted "subsection (d)." for "section 3(D)."
 
-Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted "cooperative agreements under subsection (e)(2) of this section" for "cooperative grants under subsection (d)(2) of this section".
+Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted "cooperative agreements under subsection (e)(2)" for "cooperative grants under subsection (d)(2)".
 
 #### Change of Name
 

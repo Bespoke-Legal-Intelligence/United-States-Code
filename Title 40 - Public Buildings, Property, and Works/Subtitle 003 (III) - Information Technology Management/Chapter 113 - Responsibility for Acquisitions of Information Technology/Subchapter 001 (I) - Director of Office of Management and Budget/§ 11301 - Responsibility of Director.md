@@ -1,6 +1,6 @@
 ### §11301. Responsibility of Director
 
-In fulfilling the responsibility to administer the functions assigned under chapter 35 of title 44, the Director of the Office of Management and Budget shall comply with this chapter with respect to the specific matters covered by this chapter.
+In fulfilling the responsibility to administer the functions assigned under chapter 35 of title44, the Director of the Office of Management and Budget shall comply with this chapter with respect to the specific matters covered by this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237.)
 

@@ -72,7 +72,7 @@ Exceptions.—A country shall not be eligible for cancellation of debt under thi
 
 &emsp;"(1) has an excessive level of military expenditures;
 
-&emsp;"(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) or section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a));
+&emsp;"(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) \[now 50 U.S.C. 4605(j)(1)\] or section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a));
 
 &emsp;"(3) is failing to cooperate on international narcotics control matters; or
 

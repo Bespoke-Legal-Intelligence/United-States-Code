@@ -18,7 +18,7 @@
 
 &emsp;(4) "gambling" includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
 
-&emsp;(5) "savings promotion raffle" means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amountof money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
+&emsp;(5) "savings promotion raffle" means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5481)).
 
 &emsp;(6) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
+Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, referred to in subsec.\(e)(1), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -68,5 +68,5 @@ Enactment of this section as not indicating an intent on the part of the Congres
 
 #### Commission on Review of National Policy Toward Gambling
 
-Sections 804–809 of Pub. L. 91–452 established Commission on Review of National Policy Toward Gambling, provided for its membership and compensation of members and staff, empowered Commission to subpoena witnesses and grant immunity, required Commission tomake a study of gambling in United States and existing Federal, State, and local policy and practices with respect to prohibition and taxation of gambling activities and to make a final report of its findings and recommendations to President and to Congress within four years of its establishment, and provided for its termination sixty days after submission of final report.
+Sections 804–809 of Pub. L. 91–452 established Commission on Review of National Policy Toward Gambling, provided for its membership and compensation of members and staff, empowered Commission to subpoena witnesses and grant immunity, required Commission to make a study of gambling in United States and existing Federal, State, and local policy and practices with respect to prohibition and taxation of gambling activities and to make a final report of its findings and recommendations to President and to Congress within four years of its establishment, and provided for its termination sixty days after submission of final report.
 

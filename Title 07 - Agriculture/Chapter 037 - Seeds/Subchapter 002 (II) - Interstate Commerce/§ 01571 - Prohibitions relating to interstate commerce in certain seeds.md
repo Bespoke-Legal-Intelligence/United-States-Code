@@ -12,7 +12,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(4) Percentage by weight of weed seeds, including noxious-weed seeds;
 
-&emsp;(5) Kinds of noxious-weed seeds and the rate of occurrence of each, which rate shall be expressed in accordance with and shall not exceed the rate allowed for shipment, movement, or sale of such noxious-weed seeds by the law and regulations of the State into which the seed is offered for transportation or transported or in accordance with the rules and regulations of the Secretary of Agriculture, whenunder the provisions of section 1561(a)(9)(A)(iii) of this title he shall determine that weeds other than those designated by State requirements are noxious;
+&emsp;(5) Kinds of noxious-weed seeds and the rate of occurrence of each, which rate shall be expressed in accordance with and shall not exceed the rate allowed for shipment, movement, or sale of such noxious-weed seeds by the law and regulations of the State into which the seed is offered for transportation or transported or in accordance with the rules and regulations of the Secretary of Agriculture, when under the provisions of section 1561(a)(9)(A)(iii) of this title he shall determine that weeds other than those designated by State requirements are noxious;
 
 &emsp;(6) Percentage by weight of agricultural seeds other than those included under paragraph (a)(1) of this section;
 
@@ -24,7 +24,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(10) The year and month beyond which an inoculant, if shown in the labeling, is no longer claimed to be effective.
 
-(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears a label giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
+(b) Any vegetable seeds, for seeding purposes, in containers, unless each container bears alabel giving the following information in accordance with rules and regulations prescribed under section 1592 of this title:
 
 &emsp;(1) For containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
 
@@ -76,7 +76,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;&emsp;&emsp;(ii) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
-(c) Any agricultural or vegetable seed unless the test to determine the percentage of germination required by this section shall have been completed within a five-month period, exclusive of the calendar month in which the test was completed, immediately prior to transportation or delivery for transportation in interstate commerce: <i>Provided, however</i>, That the Secretary ofAgriculture may by rules and regulations designate: (1) a shorter period for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will not maintain, during the aforesaid five-month period, a germination within the established limits of tolerance; or (2) a longer period for any kind of agricultural or vegetable seed which (A) is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling; or (B) the Secretary finds will maintain a percentage of germination within the limits of tolerance established under this chapter under ordinary conditions of handling.
+(c) Any agricultural or vegetable seed unless the test to determine the percentage of germination required by this section shall have been completed within a five-month period, exclusive of the calendar month in which the test was completed, immediately prior to transportation or delivery for transportation in interstate commerce: <i>Provided, however</i>, That the Secretary of Agriculture may by rules and regulations designate: (1) a shorter period for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will not maintain, during the aforesaid five-month period, a germination within the established limits of tolerance; or (2) a longer period for any kind of agricultural or vegetable seed which (A) is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling; or (B) the Secretary finds will maintain a percentage of germination within the limits of tolerance established under this chapter under ordinary conditions of handling.
 
 (d) Any agricultural seeds or vegetable seeds having a false labeling, or pertaining to which there has been a false advertisement, or to sell or offer for sale such seed for interstate shipment by himself or others.
 
@@ -86,7 +86,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulations made and promulgated thereunder, with seed of the same kind produced in the United States.
 
-(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that they are intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
+(h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that theyare intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
 
 (i) Any agricultural seeds or any mixture thereof or any vegetable seeds or any mixture thereof, for seeding purposes, that have been treated, unless each container thereof bears a label giving the following information and statements in accordance with rules and regulations prescribed under section 1592 of this title:
 

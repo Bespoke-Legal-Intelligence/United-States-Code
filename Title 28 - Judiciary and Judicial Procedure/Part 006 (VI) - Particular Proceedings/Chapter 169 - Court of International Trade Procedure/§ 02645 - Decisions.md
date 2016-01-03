@@ -8,7 +8,7 @@
 
 (b) After the Court of International Trade has rendered a judgment, the court may, upon the motion of a party or upon its own motion, amend its findings or make additional findings and may amend the decision and judgment accordingly. A motion of a party or the court shall be made not later than thirty days after the date of entry of the judgment.
 
-(c) A decision of the Court of International Trade is final and conclusive, unless a retrial or rehearing is granted pursuant to section 2646 of this title or an appeal is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
+(c) A decision of the Court of International Trade is final and conclusive, unless a retrial orrehearing is granted pursuant to section 2646 of this title or an appeal is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 97–164, title I, §141, Apr. 2, 1982, 96 Stat. 45.)
 

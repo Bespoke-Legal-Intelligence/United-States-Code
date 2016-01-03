@@ -46,11 +46,11 @@ For purposes of section 38, the amount of the low-income housing credit determin
 
 &emsp;&emsp;&emsp;(iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
 
-#### (2) Temporary minimum credit rate for non-federally subsidized new buildings
+#### (2) Minimum credit rate for non-federally subsidized new buildings
 
 &emsp;In the case of any new building—
 
-&emsp;&emsp;(A) which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2015, and
+&emsp;&emsp;(A) which is placed in service by the taxpayer after the date of the enactment of this paragraph, and
 
 &emsp;&emsp;(B) which is not federally subsidized for the taxable year,
 
@@ -310,13 +310,13 @@ For purposes of this section—
 
 #### (ii) State-assisted building
 
-&emsp;&emsp;&emsp;The term "State-assisted building" means any building which is substantiallyassisted, financed, or operated under any State law similar in purposes to any of the laws referred to in clause (i).
+&emsp;&emsp;&emsp;The term "State-assisted building" means any building which is substantially assisted, financed, or operated under any State law similar in purposes to any of the laws referred to in clause (i).
 
 #### (7) Acquisition of building before end of prior compliance period
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a building described in subparagraph (B) (or interest therein) which is acquired by the taxpayer—
+&emsp;&emsp;Under regulations prescribed by the Secretary, in the case of a building described insubparagraph (B) (or interest therein) which is acquired by the taxpayer—
 
 &emsp;&emsp;&emsp;(i) paragraph (2)(B) shall not apply, but
 
@@ -490,7 +490,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), a residential unit is rent-restricted if the gross rent with respect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit. For purposes of the preceding sentence, the amount of the income limitation under paragraph (1) applicable for any period shall not be less than such limitation applicable for the earliest period the building (which contains the unit) was included in the determination of whether the project is a qualified low-income housing project.
+&emsp;&emsp;For purposes of paragraph (1), a residential unit is rent-restricted if the gross rent withrespect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit. For purposes of the preceding sentence, the amount of the income limitation under paragraph (1) applicable for any period shall not be less than such limitation applicable for the earliest period the building (which contains the unit) was included in the determination of whether the project is a qualified low-income housing project.
 
 #### (B) Gross rent
 
@@ -538,7 +538,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) such units were rent-restricted within the meaning of subparagraph (A).
 
-> &emsp;&emsp;The preceding sentence shall apply to any unit only if the result described in clause (ii) is required by Federal statute as of the date of the enactment of this subparagraph and as of the date the Federal rental assistance payment is made.
+> &emsp;&emsp;The preceding sentence shall apply to any unit only if the result described in clause (ii) is required by Federal statute as of the dateof the enactment of this subparagraph and as of the date the Federal rental assistance payment is made.
 
 #### (3) Date for meeting requirements
 
@@ -610,7 +610,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with special needs,
 
-&emsp;&emsp;(B) who are members of a specified group under a Federal program or State program or policy that supports housing for such a specified group, or
+&emsp;&emsp;(B) who are members of a specified group under a Federal program or State programor policy that supports housing for such a specified group, or
 
 &emsp;&emsp;(C) who are involved in artistic or literary activities.
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The aggregate housing credit dollar amount which a housing credit agency may allocate for any calendar year is the portion of the State housing credit ceiling allocated under this paragraph for such calendar year to such agency.
+&emsp;&emsp;The aggregate housing credit dollar amount which a housing credit agency may allocate for any calendar year is the portionof the State housing credit ceiling allocated under this paragraph for such calendar year to such agency.
 
 #### (B) State ceiling initially allocated to State housing credit agencies
 
@@ -844,7 +844,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed by reason of this section with respect to any building for thetaxable year unless an extended low-income housing commitment is in effect as of the end of such taxable year.
+&emsp;&emsp;No credit shall be allowed by reason of this section with respect to any building for the taxable year unless an extended low-income housing commitment is in effect as of the end of such taxable year.
 
 #### (B) Extended low-income housing commitment
 
@@ -918,13 +918,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) cash distributions from (or available for distribution from) the project.
 
-> &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out this paragraph, including regulations to prevent the manipulation of the amount determined under the preceding sentence.
+> &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph, including regulations to prevent the manipulation of the amount determined under the preceding sentence.
 
 #### (G) Adjusted investor equity
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (E), the term "adjusted investor equity" means, with respect to any calendar year, the aggregate amount of cash taxpayers invested with respect to the project increased by the amount equal to—
+&emsp;&emsp;&emsp;For purposes of subparagraph (E), the term "adjusted investor equity" means,with respect to any calendar year, the aggregate amount of cash taxpayers invested with respect to the project increased by the amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount, multiplied by
 
@@ -1084,7 +1084,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) entirely by full-time students if such students are—
 
-&emsp;&emsp;&emsp;&emsp;(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents\(as so defined) of another individual other than a parent of such children, or.<sup>4</sup>
+&emsp;&emsp;&emsp;&emsp;(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or.<sup>4</sup>
 
 &emsp;&emsp;&emsp;&emsp;(II) married and file a joint return.
 
@@ -1162,13 +1162,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate decrease in the credits allowed to the taxpayer under section 38 for all prior taxable years which would have resulted if the accelerated portion of the credit allowable by reason of this section were not allowed for all prior taxable years with respect to the excess of the amount described in paragraph (1)(B) over the amount described in paragraph (1)(A), plus
 
-&emsp;&emsp;(B) interest at the overpayment rate established under section 6621 on the amount determined under subparagraph (A) for eachprior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.
+&emsp;&emsp;(B) interest at the overpayment rate established under section 6621 on the amount determined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.
 
 > &emsp;No deduction shall be allowed under this chapter for interest described in subparagraph (B).
 
 #### (3) Accelerated portion of credit
 
-&emsp;For purposes of paragraph (2), the accelerated portion of the credit for the prior taxable years with respect to any amount of basis is the excess of—
+&emsp;For purposes of paragraph (2), the accelerated portion of the credit for the prior taxableyears with respect to any amount of basis is the excess of—
 
 &emsp;&emsp;(A) the aggregate credit allowed by reason of this section (without regard to this subsection) for such years with respect to such basis, over
 
@@ -1324,7 +1324,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the adjusted basis and eligible basis of such building as of the close of the 1st year of the credit period,
 
-&emsp;&emsp;(C) the maximum applicable percentage and qualified basis permitted to be taken into account by the appropriate housing credit agency under subsection (h),
+&emsp;&emsp;(C) the maximum applicable percentage and qualified basis permitted to be takeninto account by the appropriate housing credit agency under subsection (h),
 
 &emsp;&emsp;(D) the election made under subsection (g) with respect to the qualified low-income housing project of which such building is a part, and
 
@@ -1472,7 +1472,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388-475, 1388-505 to 1388-507, 1388-535, 1388-551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A-610 to 2763A-613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1486,7 +1486,7 @@ Section 201(a) of the Tax Reform Act of 1986, referred to in subsec. (c)(2)(B), 
 
 Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (d)(6)(B), is classified to section 1813 of Title 12, Banks and Banking.
 
-Section 8 of the United States Housing Act of 1937, referred to in subsecs. (d)(6)(C)(i), (g)(2)(B), and (h)(6)(B)(iv), is classified to section 1437f of Title 42, The Public Health and Welfare. Section 8(e)(2) of the Act was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov. 28, 1990, 104 Stat. 4128, effective Oct. 1, 1991, but to remain in effect with respect to single room occupancy dwellings as authorized by subchapter IV (§11361 et seq.) of chapter 119 of Title 42. See section 12839(b) of Title 42.
+Section 8 of the United States Housing Act of 1937, referred to in subsecs. (d)(6)(C)(i), (g)(2)(B), and\(h)(6)(B)(iv), is classified to section 1437f of Title 42, The Public Health and Welfare. Section 8(e)(2) of the Act was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov. 28, 1990, 104 Stat. 4128, effective Oct. 1, 1991, but to remain in effect with respect to single room occupancy dwellings as authorized by subchapter IV (§11361 et seq.) of chapter 119 of Title 42. See section 12839(b) of Title 42.
 
 Sections 221(d)(3), (4) and 236 of the National Housing Act, referred to in subsec. (d)(6)(C)(i), are classified to sections 1715l(d)(3), (4) and 1715z–1, respectively, of Title 12, Banks and Banking.
 
@@ -1498,7 +1498,7 @@ The date of the enactment of this clause, referred to in subsec. (i)(3)(B)(iii)(
 
 The Social Security Act, referred to in subsec. (i)(3)(D)(i)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(III), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Job Training Partnership Act, referred to in subsec. (i)(3)(D)(i)(III), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 Section 1602 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (i)(9)(A), is section 1602 of Pub. L. 111–5, which is set out as a note below.
 
@@ -1509,6 +1509,10 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2). Pub. L. 114–113, §131(b), substituted "Minimum" for "Temporary minimum" in heading.
+
+Subsec. (b)(2)(A). Pub. L. 114–113, §131(a), struck out "with respect to housing credit dollar amount allocations made before January 1, 2015" after "paragraph".
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–295, §212(a), substituted "For purposes of this section—" for "For purposes of this section, the term", inserted subpar. (A) designation and heading, and inserted "The term" at beginning of subpar. (A).
 
@@ -1536,9 +1540,9 @@ Subsec. (d)(2)(D). Pub. L. 110–289, §3003(e), (g)(2), redesignated cls. (ii) 
 
 Subsec. (d)(4)(C)(ii). Pub. L. 110–289, §3003(c), substituted "shall not exceed the sum of—" for "shall not exceed 10 percent of the eligible basis of the qualified low-income housing project of which it is a part." and added subcls. (I) and (II).
 
-Subsec. (d)(5)(A). Pub. L. 110–289, §3003(d), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "If, during any taxable year of the compliance period, a grant is made with respect to any building or the operation thereof and any portion of such grant is funded with Federal funds (whether or not includible in gross income), the eligible basis of such building for such taxable year and all succeeding taxable years shall be reduced by the portion of such grant which is so funded."
+Subsec. (d)(5)(A). Pub. L. 110–289, §3003(d), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "If, during any taxable year of the compliance period, a grant is made with respect to any building or the operation thereofand any portion of such grant is funded with Federal funds (whether or not includible in gross income), the eligible basis of such building for such taxable year and all succeeding taxable years shall be reduced by the portion of such grant which is so funded."
 
-Subsec. (d)(5)(B), (C). Pub. L. 110–289, §3003(g)(3), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: "The eligible basis of any building shall not include any portion of its adjusted basis which is attributableto amounts with respect to which an election is made under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
+Subsec. (d)(5)(B), (C). Pub. L. 110–289, §3003(g)(3), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: "The eligible basis of any building shall not include any portion of its adjusted basis which is attributable to amounts with respect to which an election is made under section 167(k) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)."
 
 Subsec. (d)(5)(C)(v). Pub. L. 110–289, §3003(a), added cl. (v).
 
@@ -1878,7 +1882,7 @@ Subsec. (b)(3). Pub. L. 100–647, §1002(l)(9)(B), amended par. (3) generally. 
 
 Subsec. (c)(2)(A). Pub. L. 100–647, §1002(l)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which at all times during the compliance period with respect to such building is part of a qualified low-income housing project, and".
 
-Subsec. (d)(2)(D)(ii). Pub. L. 100–647, §1002(l)(3), substituted "Special rules for certain transfers" for "Special rule for nontaxable exchanges" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining under subparagraph (B)(ii) when a building was last placed in service, there shall not be taken into account any placement in service in connection with the acquisition of the building in a transaction in which the basis of the building in the hands of the person acquiring it is determined in whole or in part by reference to the adjusted basis of such building in the hands of the person from whom aquired \[sic\]."
+Subsec. (d)(2)(D)(ii). Pub. L. 100–647, §1002(l)(3), substituted "Special rules for certain transfers" for "Special rule for nontaxable exchanges" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of determining under subparagraph (B)(ii) when a building was last placed in service, there shall not be taken into account anyplacement in service in connection with the acquisition of the building in a transaction in which the basis of the building in the hands of the person acquiring it is determined in whole or in part by reference to the adjusted basis of such building in the hands of the person from whom aquired \[sic\]."
 
 Subsec. (d)(3). Pub. L. 100–647, §1002(l)(4), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The eligible basis of any building shall be reduced by an amount equal to the portion of the adjusted basis of the building which is attributable to residential rental units in the building which are not low-income units and which are above the average quality standard of the low-income units in the building."
 
@@ -1982,9 +1986,13 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for a
 
 <b>1986</b>—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §131(c), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2015."
+
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §112(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made bythis section \[amending this section\] shall take effect on January 1, 2014."
+Pub. L. 113–295, div. A, title I, §112(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 2014."
 
 Pub. L. 113–295, div. A, title II, §212(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 121 and 168 of this title\] shall take effect as if included in the provisions of the Housing Assistance Tax Act of 2008 \[Pub. L. 110–289, div. C\] to which they relate."
 
@@ -2066,9 +2074,9 @@ Amendment by section 207(8) of Pub. L. 108–311 applicable to taxable years beg
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, subtitle D, §131(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–611, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years after 2000."
+Pub. L. 106–554, §1(a)(7) \[title I, subtitle D, §131(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-611, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years after 2000."
 
-Pub. L. 106–554, §1(a)(7) \[title I, subtitle D, §137\], Dec. 21, 2000, 114 Stat. 2763, 2763A–613, provided that: "Except as otherwise provided in this subtitle \[amending this section and enacting provisions set out above\], the amendments made by this subtitle shall apply to—
+Pub. L. 106–554, §1(a)(7) \[title I, subtitle D, §137\], Dec. 21, 2000, 114 Stat. 2763, 2763A-613, provided that: "Except as otherwise provided in this subtitle \[amending this section and enacting provisions set out above\], the amendments made by this subtitle shall apply to—
 
 &emsp;"(1) housing credit dollar amounts allocated after December 31, 2000; and
 
@@ -2094,7 +2102,7 @@ In general.—Except as provided in subparagraphs (B) and (C), the amendments ma
 
 "(B)
 
-Full-time students, waiver authority, and prohibited discrimination.—The amendments made byparagraphs (2), (3), and (4) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].
+Full-time students, waiver authority, and prohibited discrimination.—The amendments made by paragraphs (2), (3), and (4) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].
 
 "(C)
 

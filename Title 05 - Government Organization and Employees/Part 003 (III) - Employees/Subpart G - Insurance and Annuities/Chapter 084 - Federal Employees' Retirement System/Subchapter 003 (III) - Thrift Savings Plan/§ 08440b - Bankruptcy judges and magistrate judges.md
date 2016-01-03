@@ -14,7 +14,7 @@
 
 (B) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
-(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988.
+(C) Section 8433(b) of this title applies to any bankruptcy judge or magistrate judge who elects to make contributions to the Thrift Savings Fund under subsection (a) of this sectionand who retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988.
 
 (5) With respect to bankruptcy judges and magistrate judges to whom this section applies, any of the actions described under paragraph (4)(A), (B), or (C) shall be considered a separation from service for purposes of this subchapter and subchapter VII.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 Amendment by section 3(b)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
-Amendment by section 6(b)(3) of Pub. L. 101–335 effective as of second election period described in section8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+Amendment by section 6(b)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Effective Date
 

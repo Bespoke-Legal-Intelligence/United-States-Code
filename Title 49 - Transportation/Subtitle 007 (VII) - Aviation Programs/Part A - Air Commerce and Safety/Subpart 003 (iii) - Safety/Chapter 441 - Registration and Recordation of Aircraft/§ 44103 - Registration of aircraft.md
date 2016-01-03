@@ -28,7 +28,7 @@ Controlled Substance Violations.—(1) The Administrator may not issue an owner'
 
 Certificates as Evidence.—A certificate of registration issued under this section is—
 
-&emsp;(1) conclusive evidence of the nationality of an aircraft for international purposes, but not conclusive evidence in a proceeding under the laws of the United States; and
+&emsp;(1) conclusive evidence of the nationality of an aircraft for international purposes, but notconclusive evidence in a proceeding under the laws of the United States; and
 
 &emsp;(2) not evidence of ownership of an aircraft in a proceeding in which ownership is or may be in issue.
 

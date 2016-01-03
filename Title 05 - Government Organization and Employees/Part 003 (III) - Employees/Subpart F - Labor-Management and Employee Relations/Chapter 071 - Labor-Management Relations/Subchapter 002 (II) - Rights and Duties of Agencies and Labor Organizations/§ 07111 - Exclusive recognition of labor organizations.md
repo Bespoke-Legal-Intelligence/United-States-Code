@@ -32,7 +32,7 @@
 
 > In any election in which no choice on the ballot receives a majority of the votes cast, a runoff election shall be conducted between the two choices receiving the highest number of votes. A labor organization which receives the majority of the votes cast in an election shall be certified by the Authority as the exclusive representative.
 
-(e) A labor organization seeking exclusive recognition shall submit to the Authority and theagency involved a roster of its officers and representatives, a copy of its constitution and bylaws, and a statement of its objectives.
+(e) A labor organization seeking exclusive recognition shall submit to the Authority and the agency involved a roster of its officers and representatives, a copy of its constitution and bylaws, and a statement of its objectives.
 
 (f) Exclusive recognition shall not be accorded to a labor organization—
 

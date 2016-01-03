@@ -28,7 +28,7 @@
 
 (c)(1) A hearing under subsection (b)(5) shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (b)(2), and in accordance with such procedures as the head of the executive, judicial, or legislative agency may prescribe, files a petition requesting such a hearing.
 
-(2) If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual a hearing under subsection (a)(5) <sup>1</sup> upon request, but such hearing need not be provided prior to issuance of a garnishment order.
+(2) If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual ahearing under subsection (a)(5) <sup>1</sup> upon request, but such hearing need not be provided prior to issuance of a garnishment order.
 
 (3) The hearing official shall issue a final decision at the earliest practicable date, but not later than 60 days after the filing of the petition requesting the hearing.
 

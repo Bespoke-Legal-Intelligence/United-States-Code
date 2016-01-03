@@ -12,7 +12,7 @@
 
 (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1733 of this title.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058; amended Pub. L. 100–456, div.A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278.)
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@ Congress finds as follows:
 
 #### (b) Purpose
 
-It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded project that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of individuals who participated in the American Civil Rights movement that will build upon and complement previous and ongoing documentary work on this subject, and to assist and encourage local efforts to preserve the memories of such individuals so that Americans of all current and future generations may hear from themdirectly and better appreciate the sacrifices they made.
+It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded project that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of individuals who participated in the American Civil Rights movement that will build upon and complement previous and ongoing documentary work on this subject, and to assist and encourage local efforts to preserve the memories of such individuals so that Americans of all current and future generations may hear from them directly and better appreciate the sacrifices they made.
 
 (Pub. L. 111–19, §2, May 12, 2009, 123 Stat. 1612.)
 

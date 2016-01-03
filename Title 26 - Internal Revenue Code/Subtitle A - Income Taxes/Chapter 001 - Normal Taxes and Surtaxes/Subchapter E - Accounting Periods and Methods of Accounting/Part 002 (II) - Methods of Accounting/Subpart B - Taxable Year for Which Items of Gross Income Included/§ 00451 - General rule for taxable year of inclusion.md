@@ -138,7 +138,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (2) Qualified gain
 
-&emsp;For purposes of this subsection, the term "qualified gain" means, with respect to anyqualifying electric transmission transaction in any taxable year—
+&emsp;For purposes of this subsection, the term "qualified gain" means, with respect to any qualifying electric transmission transaction in any taxable year—
 
 &emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
 
@@ -146,7 +146,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term "qualifying electric transmission transaction" means any sale or other disposition before January 1, 2008 (before January 1, 2015, in the case of a qualified electric utility), of—
+&emsp;For purposes of this subsection, the term "qualifying electric transmission transaction" means any sale or other disposition before January 1, 2008 (before January 1, 2017, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -194,7 +194,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (6) Qualified electric utility
 
-&emsp;For purposes of this subsection, the term "qualified electric utility" means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+&emsp;For purposes of this subsection, the term "qualified electric utility" means a personthat, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
 
 &emsp;&emsp;(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
 
@@ -224,7 +224,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075.)
 
 #### References in Text
 
@@ -233,6 +233,8 @@ The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct
 The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (i)(3). Pub. L. 114–113 substituted "January 1, 2017" for "January 1, 2015" in introductory provisions.
 
 <b>2014</b>—Subsec. (i)(3). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014" in introductory provisions.
 
@@ -278,6 +280,10 @@ Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–97 added subsec. (c).
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §191(b), Dec. 18, 2015, 129 Stat. 3075, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2014."
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–295, div. A, title I, §159(b), Dec. 19, 2014, 128 Stat. 4022, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2013."
@@ -312,7 +318,7 @@ Extension.—The amendments made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Transfers of operational control.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 909 ofthe American Jobs Creation Act of 2004 \[Pub. L. 108–357\].
+Transfers of operational control.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\].
 
 "(3)
 
@@ -372,7 +378,7 @@ Change in method of accounting.—If a taxpayer is required by the amendments ma
 
 "(3)
 
-Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers' meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginning after August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year."
+Special rule for certain cycle billing.—If a taxpayer for any taxable year beginning before August 16, 1986, for purposes of chapter 1 of the Internal Revenue Code of 1986 took into account income from services described in section 451(f) of such Code (as added by subsection (a)) on the basis of the period in which the customers' meters were read, then such treatment for such year shall be deemed to be proper. The preceding sentence shall also apply to any taxable year beginningafter August 16, 1986, and before January 1, 1987, if the taxpayer treated such income in the same manner for the taxable year preceding such taxable year."
 
 Pub. L. 99–514, title IX, §905(c), Oct. 22, 1986, 100 Stat. 2387, as amended by Pub. L. 100–647, title I, §1009(d)(2), Nov. 10, 1988, 102 Stat. 3450, provided that:
 
@@ -408,7 +414,7 @@ Voluntary separation incentives paid to members of Armed Forces under 10 U.S.C. 
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
-For provisions relating to credit or refund of overpayments of tax, and assessment of underpayments of tax, due to amendments by section 905 of Pub. L. 99–514 orsection 1009(d) of Pub. L. 100–647, see section 1009(d)(4) of Pub. L. 100–647, set out as a note under section 165 of this title.
+For provisions relating to credit or refund of overpayments of tax, and assessment of underpayments of tax, due to amendments by section 905 of Pub. L. 99–514 or section 1009(d) of Pub. L. 100–647, see section 1009(d)(4) of Pub. L. 100–647, set out as a note under section 165 of this title.
 
 #### Modification of Regulations on the Completed Contract Method of Accounting
 
@@ -540,7 +546,7 @@ Private Deferred Compensation Plan Defined.—
 
 In general.—For purposes of this section, the term 'private deferred compensation plan' means a plan, agreement, or arrangement—
 
-&emsp;&emsp;"(A) where the person for whom the service is performed is not a State (within the meaning ofparagraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
+&emsp;&emsp;"(A) where the person for whom the service is performed is not a State (within the meaning of paragraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
 
 &emsp;&emsp;"(B) under which the payment or otherwise making available of compensation is deferred.
 

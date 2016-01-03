@@ -6,11 +6,11 @@ In any State where there is no agreement in force between a State or its agency 
 
 #### (b) Review of final determination
 
-A final determination under subsection (a) of this section with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
+A final determination under subsection (a) with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
 
 (Pub. L. 93–618, title II, §240, Jan. 3, 1975, 88 Stat. 2025.)
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

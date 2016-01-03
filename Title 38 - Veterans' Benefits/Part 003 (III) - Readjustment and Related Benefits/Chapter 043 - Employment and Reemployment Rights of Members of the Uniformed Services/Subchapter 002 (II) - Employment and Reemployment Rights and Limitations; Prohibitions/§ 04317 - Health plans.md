@@ -38,7 +38,7 @@ A prior section 4317 was renumbered section 7617 of this title.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–233, §303(a), inserted "or such person becomes eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title," after "by reason of service in the uniformed services,".
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–233, §303(a), inserted "or such person becomes eligible for medical and dentalcare under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title," after "by reason of service in the uniformed services,".
 
 Subsec. (b)(1). Pub. L. 109–233, §303(b)(1), inserted "or by reason of the person's having become eligible for medical and dental care under chapter 55 of title 10 by reason of subsection (d) of section 1074 of that title," after "by reason of service in the uniformed services," and "or eligibility" after "such service".
 

@@ -30,11 +30,11 @@ With respect to any undercover investigative operation of the Service which is n
 
 #### (b) Disposition of proceeds no longer required
 
-As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
+As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a), are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Disposition of certain corporations and business entities
 
-If a corporation or business entity established or acquired as part of an undercover operation under paragraph (2) of subsection (a) of this section with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or Commissioner's designee determines practicable, shall report the circumstances to the Attorney General, the Director of the Office of Management and Budget, and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+If a corporation or business entity established or acquired as part of an undercover operation under paragraph (2) of subsection (a) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Service, as much in advance as the Commissioner or Commissioner's designee determines practicable, shall report the circumstances to the Attorney General, the Director of the Office of Management and Budget, and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 #### (d) Financial audits
 
@@ -48,7 +48,7 @@ In subsec. (a)(1)(A), (E), (2) to (4), "section 1341(a) of title 31" substituted
 
 In subsec. (a)(1)(B), (C), (F), "section 6301(a) and (b)(1) to (3) of title 41" substituted for "section 3732(a) of the Revised Statutes (41 U.S.C. 11(a))", "chapter 45 of title 41" substituted for "section 305 of the Act of June 30, 1949 (63 Stat. 396; 41 U.S.C. 255)", and "section 6306 of title 41" substituted for "section 3741 of the Revised Statutes (41 U.S.C. 22)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(1)(D), "section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(1)(D), "section 8141 of title 40" substituted for "the third undesignated paragraph under the heading 'Miscellaneous' of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on authority of Pub. L.107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (a)(1)(G), "section 3901 of title 41" substituted for "subsections (a) and (c) of section 304 of the Federal Property and Administrative Services Act of 1949 (63 Stat. 395; 41 U.S.C. 254(a) and (c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts and because subsec. (c) was previously repealed by Pub. L. 103–355, title II, §2251(b), Oct. 13, 1994, 108 Stat. 3320.
 

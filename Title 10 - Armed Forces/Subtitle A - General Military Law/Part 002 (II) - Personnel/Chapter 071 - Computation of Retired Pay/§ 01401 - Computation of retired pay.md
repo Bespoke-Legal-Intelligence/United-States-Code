@@ -22,7 +22,19 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 112–239, div. A, title X, §1076(f)(19), Jan. 2, 2013, 126 Stat. 1952.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(d)(1), Oct. 17, 2006, 120 Stat. 2177; Pub. L. 111–383, div. A, title VI, §631(a), Jan. 7, 2011, 124 Stat. 4239; Pub. L. 112–239, div. A, title X, §1076(f)(19), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–92, div. A, title VI, §631(c)(1)(A), Nov. 25, 2015, 129 Stat. 843.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–92, div. A, title VI, §§631(c)(1)(A), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, the table in subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (1) in column 2 of formula number 1, by striking "2½% of years of service credited to him under section 1208" and inserting "the retired pay multiplier determined for the member under section 1409 of this title";</i>
+
+<i>(2) in paragraph (1) in column 2 of formula number 2, by striking "2½% of years of service credited to him under section 1208" and inserting "the retired pay multiplier determined for the member under section 1409 of this title"; and</i>
+
+<i>(3) in column 2 of each of formula number 4 and formula number 5, by striking "section 1409(a)" and inserting "section 1409".</i>
+
+<i>See 2015 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -114,9 +126,11 @@ In footnote 3, the words "and disregard a part of a year that is less than six m
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, in column 2 of table, substituted "the retired pay multiplier determined for the member under section 1409 of this title" for "2½% of years of service credited to him under section 1208" in formula numbers 1 and 2 and "section 1409" for "section 1409(a)" in formula numbers 4 and 5.
+
 <b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "columns 1, 2, and 3," for "columns 1, 2, 3, and 4," in introductory provisions.
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted ", not to exceed 75%," after "percentage ofdisability" in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted ", not to exceed 75%," after "percentage of disability" in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364 in table inserted "1253" after "1252" in column under heading "For sections".
 
@@ -166,6 +180,10 @@ Pub. L. 85–422, §11(a)(2), substituted "under section 1405 of this title" for
 
 Pub. L. 85–422, §6(7)(B), added footnote 4.
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title VI, §631(d), Jan. 7, 2011, 124 Stat. 4240, provided that: "The tables in sections 1401(a), 1402(d), and 1402a(d) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 7, 2011\], shall continue to apply to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A of such title on or before the date of the enactment of this Act. The amendments made by this section \[amending this section and sections 1402 and 1402a of this title\] shall apply only with respect to persons who first become entitled to retired or retainer pay under such subtitle after that date."
@@ -176,7 +194,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–557, §35(c), Oct. 30, 1984, 98 Stat. 2877, provided that: "The amendments made by this section\[amending this section and provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\] shall become effective on October 1, 1984".
+Pub. L. 98–557, §35(c), Oct. 30, 1984, 98 Stat. 2877, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\] shall become effective on October 1, 1984".
 
 #### Effective Date of 1983 Amendment
 
@@ -198,7 +216,7 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 
@@ -274,7 +292,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 S
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
-Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, a member of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
+Pub. L. 90–207, §5, Dec. 16, 1967, 81 Stat. 654, provided that: "Notwithstanding any other provision of law, amember of an armed force who is entitled to pay and allowances under any of the following provisions of law on September 30, 1967, shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 4.5 per centum in the total of his pay and allowances:
 
 &emsp;"(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59).
 

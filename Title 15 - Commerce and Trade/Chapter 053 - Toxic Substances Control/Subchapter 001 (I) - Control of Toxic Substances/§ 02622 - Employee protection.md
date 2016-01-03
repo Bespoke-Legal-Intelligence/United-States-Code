@@ -20,17 +20,17 @@ No employer may discharge any employee or otherwise discriminate against any emp
 
 #### (c) Review
 
-(1) Any employee or employer adversely affected or aggrieved by an order issued under subsection (b) of this section may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5.
+(1) Any employee or employer adversely affected or aggrieved by an order issued under subsection (b) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5.
 
 (2) An order of the Secretary, with respect to which review could have been obtained under paragraph (1), shall not be subject to judicial review in any criminal or other civil proceeding.
 
 #### (d) Enforcement
 
-Whenever a person has failed to comply with an order issued under subsection (b)(2) of this section, the Secretary shall file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this subsection, the district courts shall have jurisdiction to grant all appropriate relief, including injunctive relief and compensatory and exemplary damages.
+Whenever a person has failed to comply with an order issued under subsection (b)(2), the Secretary shall file a civil action in the United States district court for the district in which the violation was found to occur to enforce such order. In actions brought under this subsection, the district courts shall have jurisdiction to grant all appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
 #### (e) Exclusion
 
-Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee's employer (orany agent of the employer), deliberately causes a violation of any requirement of this chapter.
+Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee's employer (or any agent of the employer), deliberately causes a violation of any requirement of this chapter.
 
 (Pub. L. 94–469, title I, §23, Oct. 11, 1976, 90 Stat. 2044; Pub. L. 98–620, title IV, §402(19), Nov. 8, 1984, 98 Stat. 3358; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 

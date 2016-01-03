@@ -2,7 +2,7 @@
 
 (a) For the purpose of this subchapter—
 
-&emsp;(1) "Federal service" means active service (not including active duty in a reserve status unless for a continuous period of 90 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
+&emsp;(1) "Federal service" means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
 
 &emsp;&emsp;(A) the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service); and
 
@@ -18,13 +18,13 @@
 
 &emsp;&emsp;&emsp;(IV) because of personality disorders or inaptitude but only if the service was continuous for 365 days or more;
 
-&emsp;(2) "Federal wages" means all pay and allowances, in cash and in kind, for Federal service, computed on the basis of the pay and allowances for the pay grade of the individual at the time of his latest discharge or release from Federal service as specified in the schedule applicable at the time he files his first claim for compensation for the benefit year. The Secretary of Labor shall issue, from time to time, after consultation with the Secretary of Defense, schedules specifying the pay and allowances for each pay grade of servicemen covered by this subchapter, which reflect representative amounts for appropriate elementsof the pay and allowances whether in cash or in kind; and
+&emsp;(2) "Federal wages" means all pay and allowances, in cash and in kind, for Federal service, computed on the basis of the pay and allowances for the pay grade of the individual at the time of his latest discharge or release from Federal service as specified in the schedule applicable at the time he files his first claim for compensation for the benefit year. The Secretary of Labor shall issue, from time to time, after consultation with the Secretary of Defense, schedules specifying the pay and allowances for each pay grade of servicemen covered by this subchapter, which reflect representative amounts for appropriate elements of the pay and allowances whether in cash or in kind; and
 
 &emsp;(3) "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the Virgin Islands.
 
 (b) The provisions of subchapter I of this chapter, subject to the modifications made by this subchapter, apply to individuals who have had Federal service as defined by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 590; Pub. L. 90–83, §1(89), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, §116(e)(4), Oct. 20, 1976, 90 Stat. 2673; Pub. L. 96–215, §4(b), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–364, title IV, §415(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, §2405(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–362, title II, §201(a), (b), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–164, title III, §301(a), (b), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 110–317, §7, Aug. 29, 2008, 122 Stat. 3529.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 590; Pub. L. 90–83, §1(89), Sept. 11, 1967, 81 Stat. 218; Pub. L. 94–566, title I, §116(e)(4), Oct. 20, 1976, 90 Stat. 2673; Pub. L. 96–215, §4(b), Mar. 25, 1980, 94 Stat. 124; Pub. L. 96–364, title IV, §415(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, §2405(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–362, title II, §201(a), (b), Oct. 25, 1982, 96 Stat. 1732; Pub. L. 102–164, title III, §301(a), (b), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 110–317, §7, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 114–92, div. A, title V, §513(a), Nov. 25, 2015, 129 Stat. 809.)
 
 Historical and Revision Notes<br>1966
 
@@ -58,9 +58,11 @@ Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained pr
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–92 substituted "180 days" for "90 days" in introductory provisions.
+
 <b>2008</b>—Subsec. (a)(1)(B)(ii)(III). Pub. L. 110–317 substituted "hardship (including pursuant to a sole survivorship discharge, as that term is defined in section 1174(i) of title 10)," for "hardship,".
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–164, §301(b), substituted "90 days" for "180 days".
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–164, §301(b), substituted "90 days" for "180 days" in introductory provisions.
 
 Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as follows:
 
@@ -80,9 +82,13 @@ Subsec. (a)(1)(A). Pub. L. 96–364 substituted "365" for "90".
 
 <b>1976</b>—Subsec. (a)(3). Pub. L. 94–566 added the Virgin Islands to definition of "State".
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–92, div. A, title V, §513(b), Nov. 25, 2015, 129 Stat. 809, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 25, 2015\], and shall apply with respect to periods of Federal service commencing on or after that date."
+
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of this title.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted afterAug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of this title.
 
 #### Effective Date of 1991 Amendment
 

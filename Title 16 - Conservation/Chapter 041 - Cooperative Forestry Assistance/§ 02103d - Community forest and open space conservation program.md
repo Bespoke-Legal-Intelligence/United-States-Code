@@ -86,7 +86,7 @@ The Secretary shall establish a program, to be known as the "community forest an
 
 #### (A) Ineligibility
 
-&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
+&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on landheld in trust by the United States (including Indian reservations and allotment land).
 
 #### (B) Acquired land
 
@@ -148,7 +148,7 @@ Pub. L. 110–234, title VIII, §8003(a), May 22, 2008, 122 Stat. 1281, and Pub.
 
 &emsp;"(6) throughout the United States, communities of diverse types and sizes are deriving significant financial and community benefits from managing forest land owned by local governmental entities for timber and other forest products; and
 
-&emsp;"(7) there is an urgent need for local governmental entities to be able to leverage financial resources inorder to purchase important parcels of privately-owned forest land as the parcels are offered for sale."
+&emsp;"(7) there is an urgent need for local governmental entities to be able to leverage financial resources in order to purchase important parcels of privately-owned forest land as the parcels are offered for sale."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

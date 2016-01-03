@@ -10,11 +10,11 @@ The Secretary and the Secretary of Health and Human Services shall enter into a 
 
 #### (c) Center staffing
 
-Each Center established under subsection (a) of this section shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
+Each Center established under subsection (a) shall be staffed by a multidisciplinary team of personnel with experience and training in prevention, identification, investigation, and treatment of incidents of family violence, child abuse, and child neglect.
 
 #### (d) Center responsibilities and functions
 
-Each Center established under subsection (a) of this section shall—
+Each Center established under subsection (a) shall—
 
 &emsp;(1) provide advice, technical assistance, and consultation to Indian tribes, tribal organizations, and inter-tribal consortia upon request;
 
@@ -44,7 +44,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### (g) Application of Indian Self-Determination Act to Centers
 
-Indian Child Resource and Family Services Centers established under subsection (a) of this section shall be subject to the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
+Indian Child Resource and Family Services Centers established under subsection (a) shall be subject to the provisions of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]. If a Center is located in an area office of the Bureau which serves more than one Indian tribe, any application to enter into a contract to operate the Center pursuant to such Act must have the consent of each of the other tribes to be served under the contract, except that, in the Juneau Area, only the consent of such tribes or tribal consortia that are engaged in contracting of Indian Child Protection and Family Violence Prevention programs pursuant to such Act shall be required. This section shall not preclude the designation of an existing child resource and family services center operated by a tribe or tribal organization as a Center if all of the tribes to be served by the Center agree to such designation.
 
 #### (h) Authorization of appropriations
 
@@ -64,5 +64,5 @@ The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the Presidentor an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

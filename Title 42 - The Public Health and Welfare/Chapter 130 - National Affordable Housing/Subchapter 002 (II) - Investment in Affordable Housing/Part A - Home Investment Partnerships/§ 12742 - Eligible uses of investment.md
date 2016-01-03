@@ -138,7 +138,7 @@ Pub. L. 102–550, §207(b)(1), inserted before comma at end of par. (1) "that e
 
 Subsec. (d). Pub. L. 102–550, §207(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 102–550, §206, inserted after first sentence of par. (1) "For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not toexceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs."
+Pub. L. 102–550, §206, inserted after first sentence of par. (1) "For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs."
 
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
@@ -146,7 +146,7 @@ Subsec. (g). Pub. L. 102–550, §207(d), added subsec. (g).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extentthat such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Effective Date of 1992 Amendment
 

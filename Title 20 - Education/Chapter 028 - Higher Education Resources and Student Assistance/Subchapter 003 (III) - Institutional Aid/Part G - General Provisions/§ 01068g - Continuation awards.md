@@ -1,6 +1,6 @@
 ### §1068g. Continuation awards
 
-The Secretary shall make continuation awards under this subchapter for the second andsucceeding years of a grant only after determining that the recipient is making satisfactory progress in carrying out the grant.
+The Secretary shall make continuation awards under this subchapter for the second and succeeding years of a grant only after determining that the recipient is making satisfactory progress in carrying out the grant.
 
 (Pub. L. 89–329, title III, §398, as added Pub. L. 105–244, title III, §308(g), Oct. 7, 1998, 112 Stat. 1649.)
 

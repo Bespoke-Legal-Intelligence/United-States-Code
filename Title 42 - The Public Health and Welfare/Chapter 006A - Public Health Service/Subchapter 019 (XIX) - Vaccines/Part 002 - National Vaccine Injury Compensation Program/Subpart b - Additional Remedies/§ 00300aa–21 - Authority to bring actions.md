@@ -2,7 +2,7 @@
 
 #### (a) Election
 
-After judgment has been entered by the United States Court of Federal Claims or, if an appeal is taken under section 300aa–12(f) of this title, after the appellate court's mandate is issued, the petitioner who filed the petition under section 300aa–11 of this title shall file with the clerk of the United States Court of Federal Claims—
+After judgment has been entered by the United States Court of Federal Claims or, if an appealis taken under section 300aa–12(f) of this title, after the appellate court's mandate is issued, the petitioner who filed the petition under section 300aa–11 of this title shall file with the clerk of the United States Court of Federal Claims—
 
 &emsp;(1) if the judgment awarded compensation, an election in writing to receive the compensation or to file a civil action for damages for such injury or death, or
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 101–502, §5(f)(2), amended subsec. (b) generally. Prior 
 
 Pub. L. 101–239, §6601(n)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: "If a person elects to receive compensation under a judgment of the court or is deemed to have accepted the judgment of the court, such person may not bring or maintain a civil action for damages against a vaccine manufacturer for the vaccine-related injury or death for which the judgment was entered."
 
-Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted "within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding anydays the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)" for "within 365 days" in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: "Such a notice shall be filed not later than 90 days after the expiration of such 365-day period."
+Subsec. (b). Pub. L. 101–239, §6601(n)(2), substituted "within 420 days (excluding any period of suspension under section 300aa–12(d) of this title and excluding any days the petition is before a special master as a result of a remand under section 300aa–12(e)(2)(C) of this title)" for "within 365 days" in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: "Such a notice shall be filed not later than 90 days after the expiration of such 365-day period."
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–360 added Pub. L. 100–203, §4308(c), see 1987 Amendment note below.
 

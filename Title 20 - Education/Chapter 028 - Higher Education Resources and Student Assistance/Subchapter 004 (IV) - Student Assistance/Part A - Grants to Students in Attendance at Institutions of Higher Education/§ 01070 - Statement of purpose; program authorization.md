@@ -74,7 +74,7 @@ Award determination.—The amount of the financial assistance provided to an ath
 
 &emsp;"(3)
 
-Information on distribution of assistance.—Each center providing such assistance shall annuallyreport to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
+Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 "(b)
 
@@ -138,7 +138,7 @@ Definitions.—For purposes of this Act \[probably should be "section"\]—
 
 &emsp;&emsp;"(A) any Reserve of an Armed Force called to active duty under section 672(a) \[now 12301(a)\], 672(g) \[now 12301(g)\], 673 \[now 12302\], 673b \[now 12304\], 674 \[now 12306\], or 688 of title 10, United States Code, for service in connection with Operation Desert Shield or Operation Desert Storm, regardless of the location at which such active duty service is performed; and
 
-&emsp;&emsp;"(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any other member of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
+&emsp;&emsp;"(B) for purposes of waivers of administrative requirements under subsection (b)(2) only, any othermember of an Armed Force on active duty in connection with Operation Desert Shield or Operation Desert Storm, who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
 
 &emsp;"(2) The term 'active duty' has the meaning given such term in section 101(22) of title 10, United States Code, except that such term does not include active duty for training or attendance at a service school.
 
@@ -146,7 +146,7 @@ Definitions.—For purposes of this Act \[probably should be "section"\]—
 
 "(a)
 
-Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service inconnection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
+Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service in connection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
 
 "(b)
 

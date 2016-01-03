@@ -6,7 +6,7 @@ For purposes of this title—
 
 &emsp;(1) a qualified long-term care insurance contract shall be treated as an accident and health insurance contract,
 
-&emsp;(2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-term care insurance contract shall be treated asamounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
+&emsp;(2) amounts (other than policyholder dividends, as defined in section 808, or premium refunds) received under a qualified long-term care insurance contract shall be treated as amounts received for personal injuries and sickness and shall be treated as reimbursement for expenses actually incurred for medical care (as defined in section 213(d)),
 
 &emsp;(3) any plan of an employer providing coverage under a qualified long-term care insurance contract shall be treated as an accident and health plan with respect to such coverage,
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (3) Maintenance or personal care services
 
-&emsp;The term "maintenance or personal care services" means any care the primary purposeof which is the provision of needed assistance with any of the disabilities as a result of which the individual is a chronically ill individual (including the protection from threats to health and safety due to severe cognitive impairment).
+&emsp;The term "maintenance or personal care services" means any care the primary purpose of which is the provision of needed assistance with any of the disabilities as a result of which the individual is a chronically ill individual (including the protection from threats to health and safety due to severe cognitive impairment).
 
 #### (4) Licensed health care practitioner
 
@@ -302,7 +302,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;&emsp;(i) The nonforfeiture provision shall be appropriately captioned.
 
-&emsp;&emsp;&emsp;(ii) The nonforfeiture provision shall provide for a benefit available in the event of a default in the payment of any premiums and the amount of the benefit may be adjusted subsequent to being initially granted only as necessary to reflect changes in claims, persistency, and interest as reflected in changes in rates for premium paying contracts approved by theappropriate State regulatory agency for the same contract form.
+&emsp;&emsp;&emsp;(ii) The nonforfeiture provision shall provide for a benefit available in the event of a default in the payment of any premiums and the amount of the benefit may be adjusted subsequent to being initially granted only as necessary to reflect changes in claims, persistency, and interest as reflected in changes in rates for premium paying contracts approved by the appropriate State regulatory agency for the same contract form.
 
 &emsp;&emsp;&emsp;(iii) The nonforfeiture provision shall provide at least one of the following:
 
@@ -318,7 +318,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;<b>For coordination of the requirements of this subsection with State requirements, see section 4980C(f).</b>
 
-(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–280, title VIII, §844(c), (f), Aug. 17, 2006, 120 Stat. 1011, 1013.)
+(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063;Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–280, title VIII, §844(c), (f), Aug. 17, 2006, 120 Stat. 1011, 1013.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -404,7 +404,7 @@ Issuance of certain riders permitted.—For purposes of applying sections 101(f)
 
 "(5)
 
-Application of per diem limitation to existing contracts.—The amount of per diem payments madeunder a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
+Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
 
 #### Long-Term Care Study Request
 

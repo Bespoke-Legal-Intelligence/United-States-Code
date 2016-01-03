@@ -14,7 +14,7 @@ The President, the Chairman of the Council, and the heads of the agencies and de
 
 #### (c) Effect on Federal response actions
 
-Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay theplanning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
+Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
 
 (Pub. L. 101–606, title I, §108, Nov. 16, 1990, 104 Stat. 3101.)
 

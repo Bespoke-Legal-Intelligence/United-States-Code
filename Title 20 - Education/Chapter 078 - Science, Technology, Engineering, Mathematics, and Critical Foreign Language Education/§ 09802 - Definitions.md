@@ -24,9 +24,17 @@ In this chapter:
 
 &emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with accepted principles of scientific research.
 
-(Pub. L. 110–69, title VI, §6001, formerly §6002, Aug. 9, 2007, 121 Stat. 625; renumbered §6001, Pub. L. 111–358, title X, §1002(b)(1), Jan. 4, 2011, 124 Stat. 4048.)
+(Pub. L. 110–69, title VI, §6001, formerly §6002, Aug. 9, 2007, 121 Stat. 625; renumbered §6001, Pub.L. 111–358, title X, §1002(b)(1), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, §9215(i)(1), Dec. 10, 2015, 129 Stat. 2167.)
 
 #### Prior Provisions
 
 A prior section 6001 of Pub. L. 110–69 was classified to section 9801 of this title prior to repeal by Pub. L. 111–358.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–95 made amendment to reference in original act which appears in text as reference to section 7801 of this title. Amendment was executed to this section, which is section 6001 of Pub. L. 110–69, notwithstanding directory language directing amendment of section 6002(a) of Pub. L. 110–69, to reflect the probable intent of Congress and the renumbering of section 6002 of Pub. L. 110–69 as this section. Pub. L. 110–69 does not contain a section 6002.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

@@ -10,3 +10,7 @@ Initial certifications by the Commission under subsection (a), and all determina
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1300.)
 
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
+

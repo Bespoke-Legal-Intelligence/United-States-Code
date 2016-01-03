@@ -2,7 +2,7 @@
 
 #### (a) Carved-out production payments
 
-A production payment carved out of mineral property shall be treated, for purposes of this subtitle, as if it were a mortgage loan on the property, and shall not qualify as an economic interest in the mineral property. In the case of a production payment carved out for exploration or development of a mineral property, the preceding sentence shall apply only if and to the extent gross income from the property (for purposes of section 613) would be realized, in the absence of the application of such sentence, by the person creating the production payment.
+A production payment carved out of mineral property shall be treated, for purposes of this subtitle, as if it were a mortgage loan on the property, and shall not qualify as an economic interest in the mineral property. In the case of a production payment carved out for explorationor development of a mineral property, the preceding sentence shall apply only if and to the extent gross income from the property (for purposes of section 613) would be realized, in the absence of the application of such sentence, by the person creating the production payment.
 
 #### (b) Retained production payment on sale of mineral property
 
@@ -44,7 +44,7 @@ Special rule.—With respect to a taxpayer who does not elect the treatment prov
 
 &emsp;"(A) the excess of
 
-&emsp;&emsp;"(i) the aggregate amount of production payments carved out and sold by the taxpayer duringthe 12-month period immediately preceding his taxable year which includes August 7, 1969, over
+&emsp;&emsp;"(i) the aggregate amount of production payments carved out and sold by the taxpayer during the 12-month period immediately preceding his taxable year which includes August 7, 1969, over
 
 &emsp;&emsp;"(ii) the aggregate amount of production payments carved out before August 7, 1969, by the taxpayer during his taxable year which includes such date, or
 

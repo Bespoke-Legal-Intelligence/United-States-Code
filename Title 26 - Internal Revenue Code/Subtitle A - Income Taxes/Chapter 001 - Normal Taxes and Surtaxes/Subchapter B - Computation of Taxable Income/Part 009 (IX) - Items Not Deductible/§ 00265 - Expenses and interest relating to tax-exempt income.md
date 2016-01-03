@@ -6,7 +6,7 @@ No deduction shall be allowed for—
 
 #### (1) Expenses
 
-&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued) wholly exempt from the taxes imposed by this subtitle.
+&emsp;Any amount otherwise allowable as a deduction which is allocable to one or more classes of income other than interest (whether or not any amount of income of that class or classes is received or accrued) wholly exempt from the taxes imposed by this subtitle, or any amount otherwise allowable under section 212 (relating to expenses for production of income) which is allocable to interest (whether or not any amount of such interest is received or accrued)wholly exempt from the taxes imposed by this subtitle.
 
 #### (2) Interest
 
@@ -18,7 +18,7 @@ No deduction shall be allowed for—
 
 #### (4) Interest related to exempt-interest dividends
 
-&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which duringthe taxable year of the holder thereof distributes exempt-interest dividends.
+&emsp;Interest on indebtedness incurred or continued to purchase or carry shares of stock of a regulated investment company which during the taxable year of the holder thereof distributes exempt-interest dividends.
 
 #### (5) Special rules for application of paragraph (2) in the case of short sales
 
@@ -238,7 +238,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;For purposes of this paragraph, a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834, 1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380–2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955; Pub. L. 111–5, div. B, title I, §§1501(a), 1502(a), Feb. 17, 2009, 123 Stat. 353.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 88–272, title II, §216(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title XIX, §§1901(a)(37), 1906(b)(13)(A), title XXI, §2137(e), Oct. 4, 1976, 90 Stat. 1770, 1834, 1931; Pub. L. 96–223, title IV, §404(b)(2), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §§301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 56(c), July 18, 1984, 98 Stat. 505, 574; Pub. L. 99–514, title I, §144, title IX, §902(a), (b), (d), Oct. 22, 1986, 100 Stat. 2121, 2380-2382; Pub. L. 100–647, title I, §1009(b)(3)(A), Nov. 10, 1988, 102 Stat. 3446; Pub. L. 101–508, title XI, §11801(c)(4), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 105–34, title X, §1084(c), Aug. 5, 1997, 111 Stat. 955; Pub. L. 111–5, div. B, title I, §§1501(a), 1502(a), Feb. 17, 2009, 123 Stat. 353.)
 
 #### References in Text
 
@@ -334,7 +334,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2)
 
-Obligations acquired pursuant to certain commitments.—For purposes of sections 265(b) and 291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
+Obligations acquired pursuant to certain commitments.—For purposes of sections 265(b) and291(e)(1)(B) of the Internal Revenue Code of 1986, any tax-exempt obligation which is acquired after August 7, 1986, pursuant to a direct or indirect written commitment—
 
 &emsp;"(A) to purchase or repurchase such obligation, and
 
@@ -368,7 +368,7 @@ Transitional rules.—For purposes of sections 265(b) and 291(e)(1)(B) of the In
 
 &emsp;"(K) Louisville, Kentucky, Speed Mansion renovation project.
 
-&emsp;"(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 projectat the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
+&emsp;"(L) Charleston, South Carolina, 2 Festival Market Place projects at Union Pier Terminal and 1 project at the Remount Road Container Yard, State Pier No. 15 at North Charleston Terminal.
 
 &emsp;"(M) New Orleans, Louisiana, Upper Pontalba Building renovation.
 

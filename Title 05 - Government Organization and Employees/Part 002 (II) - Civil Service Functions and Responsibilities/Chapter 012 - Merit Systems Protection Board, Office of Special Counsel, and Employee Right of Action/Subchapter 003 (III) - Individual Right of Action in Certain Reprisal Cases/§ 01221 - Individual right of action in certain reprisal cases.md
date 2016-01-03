@@ -88,7 +88,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 #### Effective Date
 
-Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an EffectiveDate of 1989 Amendment note under section 1201 of this title.
+Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an Effective Date of 1989 Amendment note under section 1201 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "employee,".</i>
 

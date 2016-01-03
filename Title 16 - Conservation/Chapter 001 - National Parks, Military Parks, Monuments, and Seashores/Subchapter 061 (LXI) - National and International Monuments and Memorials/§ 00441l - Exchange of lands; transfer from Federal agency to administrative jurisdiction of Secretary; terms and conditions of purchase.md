@@ -16,7 +16,7 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 &emsp;(5) An application to purchase the tract must be filed with the Secretary of the Interior within one year from the date a notice is published in the Federal Register that the tract has been transferred to the jurisdiction of the Secretary.
 
-&emsp;(6) No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree on not more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
+&emsp;(6) No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree onnot more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
 
 &emsp;(7) "Former owner" means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
 

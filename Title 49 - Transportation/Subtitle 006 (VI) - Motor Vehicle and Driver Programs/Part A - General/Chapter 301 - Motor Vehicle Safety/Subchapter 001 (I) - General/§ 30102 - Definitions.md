@@ -62,7 +62,35 @@ Limited Definitions.—(1) In sections 30117(b), 30118–30121, and 30166(f) of 
 
 (2) The Secretary of Transportation may prescribe regulations changing paragraph (1)(C), (D), (F), or (G) of this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941; Pub. L. 112–141, div. C, title I, §31201, July 6, 2012, 126 Stat. 757.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 941; Pub. L. 112–141, div. C, title I, §31201, July 6, 2012, 126 Stat. 757; Pub. L. 114–94, div. B, title XXIV, §24109(b), Dec. 4, 2015, 129 Stat. 1706.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–94, div. B, title XXIV, §24109(b), (k), Dec. 4, 2015, 129 Stat. 1706, 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, subsection (a) of this section is amended:</i>
+
+<i>(1) by redesignating paragraphs (10) and (11) as paragraphs (12) and (13), respectively;</i>
+
+<i>(2) by redesignating paragraphs (1) through (9) as paragraphs (2) through (10), respectively;</i>
+
+<i>(3) by inserting before paragraph (2), as redesignated, the following:</i>
+
+&emsp;<i>"(1) 'covered rental vehicle' means a motor vehicle that—</i>
+
+&emsp;&emsp;<i>"(A) has a gross vehicle weight rating of 10,000 pounds or less;</i>
+
+&emsp;&emsp;<i>"(B) is rented without a driver for an initial term of less than 4 months; and</i>
+
+&emsp;&emsp;<i>"(C) is part of a motor vehicle fleet of 35 or more motor vehicles that are used for rental purposes by a rental company."; and</i>
+
+<i>(4) by inserting after paragraph (10), as redesignated, the following:</i>
+
+&emsp;<i>"(11) 'rental company' means a person who—</i>
+
+&emsp;&emsp;<i>"(A) is engaged in the business of renting covered rental vehicles; and</i>
+
+&emsp;&emsp;<i>"(B) uses for rental purposes a motor vehicle fleet of 35 or more covered rental vehicles, on average, during the calendar year."</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -148,13 +176,37 @@ Subsection (b)(2) is substituted for "Except as otherwise provided in regulation
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §24109(b)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (a)(2) to (10). Pub. L. 114–94, §24109(b)(2), redesignated pars. (1) to (9) as (2) to (10), respectively. Former par. (10) redesignated (12).
+
+Subsec. (a)(11). Pub. L. 114–94, §24109(b)(4), added par. (11). Former par. (11) redesignated (13).
+
+Subsec. (a)(12), (13). Pub. L. 114–94, §24109(b)(1), redesignated pars. (10) and (11) as (12) and (13), respectively.
+
 <b>2012</b>—Subsec. (a)(7)(C). Pub. L. 112–141 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death."
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. B, title XXIV, §24109(k), Dec. 4, 2015, 129 Stat. 1709, provided that: "The amendments made by this section \[amending this section and sections 30120, 30122, and 30166 of this title\] shall take effect on the date that is 180 days after the date of enactment of this Act \[Dec. 4, 2015\]."
 
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
+#### Rule of Construction
+
+Pub. L. 114–94, div. B, title XXIV, §24109(i), Dec. 4, 2015, 129 Stat. 1708, provided that: "Nothing in this section \[amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and section 30101 of this title\] or the amendments made by this section—
+
+&emsp;"(1) may be construed to create or increase any liability, including for loss of use, for a manufacturer as a result of having manufactured or imported a motor vehicle subject to a notification of defect or noncompliance under subsection (b) or (c) of section 30118 of title 49, United States Code; or
+
+&emsp;"(2) shall supersede or otherwise affect the contractual obligations, if any, between such a manufacturer and a rental company (as defined in section 30102(a) of title 49, United States Code)."
+
+#### Rulemaking
+
+Pub. L. 114–94, div. B, title XXIV, §24109(j), Dec. 4, 2015, 129 Stat. 1708, provided that: "The Secretary \[probably means Secretary of Transportation\] may promulgate rules, as appropriate, to implement this section \[amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and section 30101 of this title\] and the amendments made by this section."
+
 #### Low-Speed Electric Bicycles
 
-Pub. L. 107–319, §2, Dec. 4, 2002, 116 Stat. 2776, provided that: "For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[15 U.S.C. 2085(b)\]) shall not be considered a motor vehicle as defined by section 30102(6) of title 49, United States Code."
+Pub. L. 107–319, §2, Dec. 4, 2002, 116 Stat. 2776, provided that: "For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act \[15 U.S.C. 2085(b)\]) shall not be considered a motor vehicle as defined by section 30102\[(a)\](6) of title 49, United States Code."
 

@@ -6,7 +6,7 @@ Reimbursement of Reasonable Subsistence Costs.—Under uniform regulations presc
 
 (b)
 
-Period of Authority.—The authority under subsection (a) applies to the period during which the inspection team, pursuant to authority specifically provided in the applicable arms control treaty or agreement, is in the country where inspections and related activities arebeing conducted by the team pursuant to that treaty or agreement.
+Period of Authority.—The authority under subsection (a) applies to the period during which the inspection team, pursuant to authority specifically provided in the applicable arms control treaty or agreement, is in the country where inspections and related activities are being conducted by the team pursuant to that treaty or agreement.
 
 (c)
 

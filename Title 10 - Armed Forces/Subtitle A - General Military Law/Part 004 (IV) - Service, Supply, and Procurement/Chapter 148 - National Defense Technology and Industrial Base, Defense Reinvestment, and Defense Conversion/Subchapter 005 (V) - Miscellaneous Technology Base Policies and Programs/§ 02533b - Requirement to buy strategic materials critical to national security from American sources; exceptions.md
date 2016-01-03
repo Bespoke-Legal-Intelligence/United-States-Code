@@ -84,7 +84,7 @@ Streamlined Compliance for Commercial Derivative Military Articles.—(1) Subsec
 
 &emsp;&emsp;(ii) an amount equivalent to 50 percent of the amount of specialty metal that is purchased by the contractor and its subcontractors for use during such period in the production of the commercial derivative military article and the related commercial article.
 
-(2) For the purposes of this subsection, the amount of specialty metal that is required to carry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military article.
+(2) For the purposes of this subsection, the amount of specialty metal that is required tocarry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military article.
 
 (k)
 
@@ -186,7 +186,7 @@ Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted "acquisition" for "proc
 
 Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted "acquisitions" for "procurements".
 
-Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electroniccomponent produced that contains such specialty metal."
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal."
 
 Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: "This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)."
 
@@ -238,7 +238,7 @@ Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, prov
 
 Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code, that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
 
-&emsp;"(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
+&emsp;"(1) publish a notice on the website maintained by the General Services Administration known asFedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
 
 &emsp;"(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
 

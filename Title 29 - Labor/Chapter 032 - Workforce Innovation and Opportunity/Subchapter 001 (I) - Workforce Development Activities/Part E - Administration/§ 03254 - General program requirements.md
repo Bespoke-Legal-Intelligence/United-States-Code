@@ -54,7 +54,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;(15)(A) None of the funds available under this subchapter shall be used by a recipient or subrecipient of such funds to pay the salary and bonuses of an individual, either as direct costs or indirect costs, at a rate in excess of the annual rate of basic pay prescribed for level II of the Executive Schedule under section 5313 of title 5.
 
-&emsp;(B) The limitation described in subparagraph (A) shall not apply to vendors providing goods and services as defined in Office of Management and Budget Circular A–133. In a case in which a State is a recipient of such funds, the State may establish a lower limit than is provided in subparagraph (A) for salaries and bonuses of those receiving salaries and bonuses from a subrecipient of such funds, taking into account factors including the relative cost ofliving in the State, the compensation levels for comparable State or local government employees, and the size of the organizations that administer the Federal programs involved.
+&emsp;(B) The limitation described in subparagraph (A) shall not apply to vendors providing goods and services as defined in Office of Management and Budget Circular A–133. In a case in which a State is a recipient of such funds, the State may establish a lower limit than is provided in subparagraph (A) for salaries and bonuses of those receiving salaries and bonuses from a subrecipient of such funds, taking into account factors including the relative cost of living in the State, the compensation levels for comparable State or local government employees, and the size of the organizations that administer the Federal programs involved.
 
 (Pub. L. 113–128, title I, §194, July 22, 2014, 128 Stat. 1605.)
 
@@ -66,5 +66,5 @@ The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

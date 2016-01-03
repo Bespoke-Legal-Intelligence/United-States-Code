@@ -106,7 +106,7 @@ Documentation in contract file.—The contract file for each contract of a Feder
 
 Disclosure in Applications.—The Federal Acquisition Regulation shall require that persons with Federal agency contracts and grants valued in total greater than $10,000,000 shall—
 
-&emsp;(1) submit to the Administrator of General Services, in a manner determined appropriate by the Administrator of General Services, theinformation subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of the information under this subsection; and
+&emsp;(1) submit to the Administrator of General Services, in a manner determined appropriate by the Administrator of General Services, the information subject to inclusion in the database as listed in subsection (c) current as of the date of submittal of the information under this subsection; and
 
 &emsp;(2) update the information submitted under paragraph (1) on a semiannual basis.
 
@@ -160,7 +160,7 @@ Subsec. (d)(3). Pub. L. 112–239, §852, added par. (3).
 
 #### Deadline for Establishing Database
 
-Pub. L. 111–350, §6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: "The requirement in section 2313(a) of title 41, United States Code, to establish a database shall be done not later than one year after October 14, 2008."
+Pub. L. 111–350, §6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: "The requirement in section 2313(a) of title 41, United States Code, to establish a databaseshall be done not later than one year after October 14, 2008."
 
 #### Deadline for Amending Federal Acquisition Regulation
 

@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(6) the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989; and
 
-&emsp;(7) increasing population pressures and new knowledge of the importance of living marineresources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
+&emsp;(7) increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
 
 #### (c) Policy
 
@@ -60,7 +60,7 @@ The Secretary, through the Secretary of State and the Secretary of the departmen
 
 Not later than January 1, 1991, and every year thereafter until the purposes of this section are met, the Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report—
 
-&emsp;(1) describing the steps taken to carry out the provisions of this section, particularly subsection (c) of this section;
+&emsp;(1) describing the steps taken to carry out the provisions of this section, particularly subsection (c);
 
 &emsp;(2) evaluating the progress of those efforts, the impacts on living marine resources, including available observer data, and specifying plans for further action;
 
@@ -70,11 +70,11 @@ Not later than January 1, 1991, and every year thereafter until the purposes of 
 
 #### (f) Certification
 
-If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4) of this section, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22.
+If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4), the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22.
 
 #### (g) Effect on sovereign rights
 
-This section shall not serve or be construed to expand or diminish the sovereign rights of theUnited States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
+This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
 
 #### (h) "Living marine resources" defined
 
@@ -98,7 +98,7 @@ This chapter, referred to in subsec. (g), was in the original "this Act", meanin
 
 "(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;".
 
-Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted "subsection (e)(4) of this section" for "subsection (e)(6) of this section".
+Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted "subsection (e)(4)" for "subsection (e)(6)".
 
 <b>1990</b>—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 

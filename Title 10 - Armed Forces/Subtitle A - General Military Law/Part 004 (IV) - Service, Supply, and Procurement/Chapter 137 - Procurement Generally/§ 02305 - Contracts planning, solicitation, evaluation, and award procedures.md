@@ -156,7 +156,7 @@
 
 (3) If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in paragraphs (1) and (2) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded. Such objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 
-(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or\(2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
+(4)(A) Whenever the head of an agency requires that proposals described in paragraph (1)(B) or (2)(B) be submitted by an offeror in its offer, the offeror shall not be required to provide a proposal that enables the United States to acquire competitively in the future an identical item if the item was developed exclusively at private expense unless the head of the agency determines that—
 
 &emsp;(i) the original supplier of such item will be unable to satisfy program schedule or delivery requirements; or
 

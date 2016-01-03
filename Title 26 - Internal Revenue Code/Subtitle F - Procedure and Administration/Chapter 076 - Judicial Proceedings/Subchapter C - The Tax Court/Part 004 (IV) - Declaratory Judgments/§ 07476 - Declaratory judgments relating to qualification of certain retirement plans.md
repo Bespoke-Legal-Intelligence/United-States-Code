@@ -18,7 +18,7 @@ In a case of actual controversy involving—
 
 #### (1) Petitioner
 
-&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who hasqualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
+&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
 
 #### (2) Notice
 

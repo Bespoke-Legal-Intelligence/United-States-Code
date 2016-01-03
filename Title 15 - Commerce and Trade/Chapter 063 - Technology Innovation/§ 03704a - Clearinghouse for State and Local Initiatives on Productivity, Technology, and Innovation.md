@@ -20,13 +20,13 @@ The Clearinghouse may—
 
 &emsp;(6) make periodic recommendations to the Secretary, and to other Federal agencies upon their request, concerning modifications in Federal policies and programs which would improve Federal assistance to State and local technology and business assistance programs;
 
-&emsp;(7) develop methodologies to evaluate State and local programs, and, when requested, advise State and local governments, and regional and multistate organizations of such governments, as to which programs are most effective in enhancing the competitiveness ofAmerican business through the stimulation of productivity, technology, and innovation; and
+&emsp;(7) develop methodologies to evaluate State and local programs, and, when requested, advise State and local governments, and regional and multistate organizations of such governments, as to which programs are most effective in enhancing the competitiveness of American business through the stimulation of productivity, technology, and innovation; and
 
 &emsp;(8) make use of, and disseminate, the nationwide study of State industrial extension programs conducted by the Secretary.
 
 #### (c) Contracts
 
-In carrying out subsection (b) of this section, the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
+In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
 (Pub. L. 96–480, §6, as added Pub. L. 100–418, title V, §5122(a)(2), Aug. 23, 1988, 102 Stat. 1438.)
 

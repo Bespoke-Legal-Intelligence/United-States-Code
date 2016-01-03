@@ -20,7 +20,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (i)(2) with respect to plans in at-risk status, the term"target normal cost" means, for any plan year, the excess of—
+&emsp;Except as provided in subsection (i)(2) with respect to plans in at-risk status, the term "target normal cost" means, for any plan year, the excess of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -90,7 +90,7 @@ For purposes of this section:
 
 #### (III) Other rules
 
-&emsp;&emsp;&emsp;&emsp;Such election shall be made at such time, and in such form and manner, as shall be prescribed by the Secretary, and may be revoked only with the consent of the Secretary. The Secretary shall, before granting a revocation request, provide the Pension Benefit Guaranty Corporation an opportunity to comment on the conditions applicable to the treatment of any portion of the election year shortfall amortization base that remains unamortized as of the revocation date.
+&emsp;&emsp;&emsp;&emsp;Such election shall be made at such time, and in such form and manner, as shall be prescribed by the Secretary, andmay be revoked only with the consent of the Secretary. The Secretary shall, before granting a revocation request, provide the Pension Benefit Guaranty Corporation an opportunity to comment on the conditions applicable to the treatment of any portion of the election year shortfall amortization base that remains unamortized as of the revocation date.
 
 #### (v) Eligible plan year
 
@@ -228,7 +228,7 @@ For purposes of this section:
 
 #### (vi) Self-employed individual treated as employee
 
-&emsp;&emsp;&emsp;The term "employee" includes, with respect to a calendar year, a self-employedindividual who is treated as an employee under section 401(c) for the taxable year ending during such calendar year, and the term "compensation" shall include earned income of such individual with respect to such self-employment.
+&emsp;&emsp;&emsp;The term "employee" includes, with respect to a calendar year, a self-employed individual who is treated as an employee under section 401(c) for the taxable year ending during such calendar year, and the term "compensation" shall include earned income of such individual with respect to such self-employment.
 
 #### (vii) Indexing of amount
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 #### (1) Funding target
 
-&emsp;Except as provided in subsection (i)(1) with respect to plans in at-risk status, the fundingtarget of a plan for a plan year is the present value of all benefits accrued or earned under the plan as of the beginning of the plan year.
+&emsp;Except as provided in subsection (i)(1) with respect to plans in at-risk status, the funding target of a plan for a plan year is the present value of all benefits accrued or earned under the plan as of the beginning of the plan year.
 
 #### (2) Funding target attainment percentage
 
@@ -382,7 +382,7 @@ For purposes of this section—
 
 #### (B) Coordination with funding standard carryover balance
 
-&emsp;&emsp;To the extent that any plan has a funding standard carryover balance greater than zero, no amount of the prefunding balance of such plan may be credited under this paragraph in reducing the minimum required contribution.
+&emsp;&emsp;To the extent that any plan has a funding standard carryover balance greater thanzero, no amount of the prefunding balance of such plan may be credited under this paragraph in reducing the minimum required contribution.
 
 #### (C) Limitation for underfunded plans
 
@@ -458,7 +458,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As of the first day of each plan year beginning after 2008, the prefunding balanceof a plan shall be increased by the amount elected by the plan sponsor for the plan year. Such amount shall not exceed the excess (if any) of—
+&emsp;&emsp;&emsp;As of the first day of each plan year beginning after 2008, the prefunding balance of a plan shall be increased by the amount elected by the plan sponsor for the plan year. Such amount shall not exceed the excess (if any) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate total of employer contributions to the plan for the preceding plan year, over—
 
@@ -614,7 +614,7 @@ For purposes of this section—
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term "second segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term "second segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based onbonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
@@ -632,11 +632,11 @@ For purposes of this section—
 
 | If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
 | :--- | :---: | ---: |
-| 2012, 2013, 2014, 2015, 2016, or 2017 | 90% | 110% |
-| 2018 | 85% | 115% |
-| 2019 | 80% | 120% |
-| 2020 | 75% | 125% |
-| After 2020 | 70% | 130% |
+| 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020 | 90% | 110% |
+| 2021 | 85% | 115% |
+| 2022 | 80% | 120% |
+| 2023 | 75% | 125% |
+| After 2023 | 70% | 130% |
 
 #### (D) Corporate bond yield curve
 
@@ -672,7 +672,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality table which meets the requirements of clause\(iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
+&emsp;&emsp;&emsp;Upon request by the plan sponsor and approval by the Secretary, a mortality tablewhich meets the requirements of clause (iii) shall be used in determining any present value or making any computation under this section during the period of consecutive plan years (not to exceed 10) specified in the request.
 
 #### (ii) Early termination of period
 
@@ -744,7 +744,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding planyear (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors' controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -1096,7 +1096,7 @@ For purposes of this section—
 
 In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301; Pub. L. 112–141, div. D, title II, §40211(a)(1), (2)(B), July 6, 2012, 126 Stat. 846, 847; Pub. L. 113–159, title II, §2003(a), (d)(1), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(i), (D)(i), Dec. 19, 2014, 128 Stat. 4046.)
+(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301; Pub. L. 112–141, div. D, title II, §40211(a)(1), (2)(B), July 6, 2012, 126 Stat. 846, 847; Pub. L. 113–159, title II, §2003(a), (d)(1), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(i), (D)(i), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(a), Nov. 2, 2015, 129 Stat. 593.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1115,6 +1115,8 @@ Section 417(e)(3)(D)(i), referred to in subsec. (h)(2)(F), was redesignated subs
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2020 and after.
 
 <b>2014</b>—Subsec. (c)(5). Pub. L. 113–295, §221(a)(57)(C)(i), struck out subpar. (A) designation and heading and subpar. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
@@ -1182,6 +1184,10 @@ Subsec. (k)(1). Pub. L. 110–458, §101(b)(2)(H)(i), inserted "(as provided und
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430" before period at end.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–74, title V, §504(c), Nov. 2, 2015, 129 Stat. 594, provided that: "The amendments made by this section \[amending this section and sections 1021 and 1083 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2015."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -1242,9 +1248,25 @@ Pub. L. 110–458, title II, §202(c), Dec. 23, 2008, 122 Stat. 5118, provided t
 
 Pub. L. 109–280, title I, §112(b), Aug. 17, 2006, 120 Stat. 846, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to plan years beginning after December 31, 2007."
 
+#### Mortality Tables
+
+Pub. L. 114–74, title V, §503, Nov. 2, 2015, 129 Stat. 593, provided that:
+
+"(a)
+
+Credibility.—For purposes of subclause (I) of section 430(h)(3)(C)(iii) of the Internal Revenue Code of 1986 and subclause (I) of section 303(h)(3)(C)(iii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083(h)(3)(C)(iii)\], the determination of whether plans have credible information shall be made in accordance with established actuarial credibility theory, which—
+
+&emsp;"(1) is materially different from rules under such section of such Code, including Revenue Procedure 2007–37, that are in effect on the date of the enactment of this Act \[Nov. 2, 2015\]; and
+
+&emsp;"(2) permits the use of tables that reflect adjustments to the tables described in subparagraphs (A) and (B) of section 430(h)(3) of such Code, and subparagraphs (A) and (B) of section 303(h)(3) of such Act, if such adjustments are based on the experience described in subclause (II) of section 430(h)(3)(C)(iii) of such Code and in subclause (II) of section 303(h)(3)(C)(iii) of such Act.
+
+"(b)
+
+Effective Date.—This section shall apply to plan years beginning after December 31, 2015."
+
 #### Applicability of Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Modification of Transition Rule to Pension Funding Requirements
 
@@ -1385,7 +1407,7 @@ Years for which election made.—
 
 &emsp;&emsp;"(A)
 
-Alternative funding schedule.—If an election under subsection (a)(1) was made with respect to an eligible plan, the plan sponsor may select either a plan year beginning in 2006 or a plan year beginning in 2007 as the first plan year to which suchelection applies. The election shall apply to such plan year and all subsequent years. The election shall be made—
+Alternative funding schedule.—If an election under subsection (a)(1) was made with respect to an eligible plan, the plan sponsor may select either a plan year beginning in 2006 or a plan year beginning in 2007 as the first plan year to which such election applies. The election shall apply to such plan year and all subsequent years. The election shall be made—
 
 &emsp;&emsp;&emsp;"(i) not later than December 31, 2006, in the case of an election for a plan year beginning in 2006, or
 

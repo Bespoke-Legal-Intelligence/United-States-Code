@@ -8,13 +8,13 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;&emsp;(i) in which acts of international terrorism occurred which were, in the opinion of the Secretary, of major significance;
 
-&emsp;&emsp;(ii) about which the Congress was notified during the preceding five years pursuant to section 2405(j) of the Appendix to title 50; and
+&emsp;&emsp;(ii) about which the Congress was notified during the preceding five years pursuant to section 4605(j) of title 50; and
 
 &emsp;&emsp;(iii) which the Secretary determines should be the subject of such report; and
 
 &emsp;(B) detailed assessments with respect to each foreign country whose territory is being used as a sanctuary for terrorists or terrorist organizations;
 
-&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained ordeveloped, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 2405(j) of the Appendix to title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
+&emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 4605(j) of title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
 &emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the government of which expressly consents to, or with knowledge, allows, tolerates, or disregards such use of its territory and is not subject to a determination under—
 
-&emsp;&emsp;&emsp;(i) section 2405(j)(1)(A) of the Appendix to title 50;
+&emsp;&emsp;&emsp;(i) section 4605(j)(1)(A) of title 50;
 
 &emsp;&emsp;&emsp;(ii) section 2371(a) of this title; or
 
@@ -256,7 +256,7 @@ In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Se
 
 "(b)
 
-Consultation with Other Departments.—The Secretary of State shall, in preparing the report required by this section, consult and coordinate with allother Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests or jeopardize ongoing criminal investigations or proceedings.
+Consultation with Other Departments.—The Secretary of State shall, in preparing the report required by this section, consult and coordinate with all other Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests or jeopardize ongoing criminal investigations or proceedings.
 
 "(c)
 

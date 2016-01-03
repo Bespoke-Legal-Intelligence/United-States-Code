@@ -8,7 +8,7 @@ Class.—The term "class" means all of the class members in a class action.
 
 &emsp;(2)
 
-Class action.—The term "class action" means any civil action filed in a district courtof the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
+Class action.—The term "class action" means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
 
 &emsp;(3)
 

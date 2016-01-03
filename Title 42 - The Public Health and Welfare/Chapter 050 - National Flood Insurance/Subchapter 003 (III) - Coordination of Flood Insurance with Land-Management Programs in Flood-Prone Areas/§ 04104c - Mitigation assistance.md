@@ -48,7 +48,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;&emsp;(E) minor physical mitigation efforts that do not duplicate the flood prevention activities of other Federal agencies and that lessen the frequency or severity of flooding and decrease predicted flood damages, which shall not include major flood control projects such as dikes, levees, seawalls, groins, and jetties unless the Administrator specifically determines in approving a mitigation plan that such activities are the most cost-effective mitigation activities for the National Flood Mitigation Fund;
 
-&emsp;&emsp;(F) the development or update of mitigation plans by a State or community which meet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
+&emsp;&emsp;(F) the development or update of mitigation plans by a State or community whichmeet the planning criteria established by the Administrator, except that the amount from grants under this section that may be used under this subparagraph may not exceed $50,000 for any mitigation plan of a State or $25,000 for any mitigation plan of a community;
 
 &emsp;&emsp;(G) the provision of technical assistance by States to communities and individuals to conduct eligible mitigation activities;
 
@@ -182,7 +182,7 @@ Subsec. (c)(4). Pub. L. 112–141, §100225(a)(5)(B), (E), added par. (4) and st
 
 Subsec. (c)(5). Pub. L. 112–141, §100225(a)(5)(C), redesignated par. (5) as (3).
 
-Subsec. (c)(6). Pub. L. 112–141, §100225(a)(5)(E), struck out par. (6). Text read as follows: "The Director shallconsider as an eligible activity the demolition and rebuilding of properties to at least base flood levels or higher, if required by the Director or if required by any State or local ordinance, and in accordance with project implementation criteria established by the Director."
+Subsec. (c)(6). Pub. L. 112–141, §100225(a)(5)(E), struck out par. (6). Text read as follows: "The Director shall consider as an eligible activity the demolition and rebuilding of properties to at least base flood levels or higher, if required by the Director or if required by any State or local ordinance, and in accordance with project implementation criteria established by the Director."
 
 Subsec. (d). Pub. L. 112–141, §100225(a)(1), (6), added subsec. (d) and struck out former subsec. (d) which related to notification of mitigation plan approval and grant award.
 

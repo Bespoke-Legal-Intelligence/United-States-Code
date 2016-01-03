@@ -26,7 +26,7 @@ The Office established under subsection (a)(1) shall—
 
 &emsp;(4) develop a process for receiving meaningful input from State, local, and regional authorities and the private sector in the National Capital Region to assist in the development of the homeland security plans and activities of the Federal Government;
 
-&emsp;(5) coordinate with Federal agencies in the National Capital Region on terrorism preparedness, to ensure adequate planning, information sharing, training, and execution of theFederal role in domestic preparedness activities;
+&emsp;(5) coordinate with Federal agencies in the National Capital Region on terrorism preparedness, to ensure adequate planning, information sharing, training, and execution of the Federal role in domestic preparedness activities;
 
 &emsp;(6) coordinate with Federal, State, local, and regional agencies, and the private sector in the National Capital Region on terrorism preparedness to ensure adequate planning, information sharing, training, and execution of domestic preparedness activities among these agencies and entities; and
 

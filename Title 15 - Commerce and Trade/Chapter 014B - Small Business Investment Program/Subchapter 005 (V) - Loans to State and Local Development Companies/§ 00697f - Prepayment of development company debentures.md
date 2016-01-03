@@ -4,7 +4,7 @@
 
 #### (1) Prepayment authorized
 
-&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
+&emsp;Subject to the requirements set forth in subsection (b), an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 #### (2) Procedure
 
@@ -44,11 +44,11 @@
 
 #### (b) Requirements
 
-For purposes of subsection (a) of this section, the requirements of this subsection are that—
+For purposes of subsection (a), the requirements of this subsection are that—
 
 &emsp;(1) the debenture is outstanding and neither the loan that secures the debenture, if any, nor the debenture is in default on the date on which the prepayment is made;
 
-&emsp;(2) State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) of this section under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
+&emsp;(2) State, local, or personal funds, or the proceeds of a refinancing in accordance with subsection (d) under the programs authorized by this subchapter, are used to prepay or roll over the debenture; and
 
 &emsp;(3) with respect to a debenture issued under section 697 of this title, the issuer certifies that the benefits, net of fees and expenses authorized herein, associated with prepayment of the debenture are entirely passed through to the borrower.
 
@@ -60,7 +60,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 #### (1) In general
 
-&emsp;The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2) of this section—
+&emsp;The refinancing of a debenture under sections 697a and 697b of this title, in accordance with subsection (b)(2)—
 
 &emsp;&emsp;(A) shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
 
@@ -72,11 +72,11 @@ No fees or penalties other than those specified in this section may be imposed o
 
 #### (3) Loan processing fee
 
-&emsp;To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) of this section may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
+&emsp;To cover the cost of loan packaging, processing, and other administrative functions, a development company that provides refinancing under subsection (b)(2) may impose a one-time loan processing fee, not to exceed 0.5 percent of the principal amount of the loan.
 
 #### (4) New debentures
 
-&emsp;Issuers of debentures under subchapter III of this chapter may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
+&emsp;Issuers of debentures under subchapter III may issue new debentures in accordance with such subchapter in order to prepay existing debentures as authorized in this section.
 
 #### (5) Preliminary notice
 

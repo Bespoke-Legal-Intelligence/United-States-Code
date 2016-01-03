@@ -22,7 +22,7 @@ Dissemination of technical findings.—Each recipient of a grant under this sect
 
 &emsp;(4)
 
-Technical assistance defined.—In this subsection, the term "technical assistance" means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
+Technical assistance defined.—In this subsection, the term "technical assistance"means engineering and other scientific analysis of pipeline safety issues, including the promotion of public participation in official proceedings conducted under this chapter.
 
 (b)
 

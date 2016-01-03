@@ -18,7 +18,7 @@ For purposes of subsection (a), the term "qualified disclaimer" means an irrevoc
 
 &emsp;(3) such person has not accepted the interest or any of its benefits, and
 
-&emsp;(4) as a result of such refusal, the interest passes without any direction on the part of the person making the disclaimer and passes either—
+&emsp;(4) as a result of such refusal, the interest passes without any direction on the part of theperson making the disclaimer and passes either—
 
 &emsp;&emsp;(A) to the spouse of the decedent, or
 

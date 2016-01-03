@@ -60,7 +60,7 @@ Subsection (a) of this section applies to assistance provided under the followin
 
 &emsp;(2) Sections 2261, 2318(a)(1), 2321j, 2348a(c), and 2357 of this title.
 
-&emsp;(3) Any other provisions of law pursuant to which assistance is provided by the United States to carry out the mandate of an assessed United Nations peacekeeping operation.
+&emsp;(3) Any other provisions of law pursuant to which assistance is provided by the UnitedStates to carry out the mandate of an assessed United Nations peacekeeping operation.
 
 #### (d) Waiver
 

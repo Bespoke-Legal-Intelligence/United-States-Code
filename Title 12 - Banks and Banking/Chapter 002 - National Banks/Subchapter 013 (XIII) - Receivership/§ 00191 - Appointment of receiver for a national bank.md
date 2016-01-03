@@ -54,7 +54,7 @@ Pub. L. 102–242, title I, §133(g), Dec. 19, 1991, 105 Stat. 2273, provided th
 
 #### Short Title
 
-Act June 30, 1876, ch. 156, §1, as added by Pub. L. 102–550, title XVI, §1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: "This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the 'National Bank Receivership Act'."
+Act June 30, 1876, ch. 156, §1, as added by Pub. L. 102–550, title XVI, §1603(d)(7)(A), Oct. 28, 1992, 106 Stat.4080, provided that: "This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the 'National Bank Receivership Act'."
 
 #### Exception as to Transfer of Functions
 

@@ -6,7 +6,7 @@ Section 1750a, Pub. L. 85–477, ch. V, §503, June 30, 1958, 72 Stat. 275, rela
 
 Section 1750b, act Aug. 26, 1954, ch. 937, ch. IV, §552, as added May 14, 1960, Pub. L. 86–472, ch. IV, §401(m), 74 Stat. 140, prohibited assistance to Cuba. See section 2370 of this title.
 
-Section 1751, acts Aug. 26, 1954, ch. 937, ch. IV, §545, 68 Stat. 862; July 18, 1956, ch. 627, §11(b), 70 Stat. 565;June 30, 1958, Pub. L. 85–477, ch. IV, §401(i), ch. V, §501(31)–(33), 72 Stat. 270, 272, defined terms used in this chapter. See section 2403 of this title.
+Section 1751, acts Aug. 26, 1954, ch. 937, ch. IV, §545, 68 Stat. 862; July 18, 1956, ch. 627, §11(b), 70 Stat. 565; June 30, 1958, Pub. L. 85–477, ch. IV, §401(i), ch. V, §501(31)–(33), 72 Stat. 270, 272, defined terms used in this chapter. See section 2403 of this title.
 
 Section 1752, acts Aug. 26, 1954, ch. 937, ch. IV, §546, 68 Stat. 863; Aug. 14, 1957, Pub. L. 85–141, §11(c), 71 Stat 365, related to construction and application of this chapter.
 

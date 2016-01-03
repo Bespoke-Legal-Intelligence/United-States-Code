@@ -24,7 +24,7 @@ All provisions of law relating to—
 
 #### (d) Disposition of forfeited property
 
-Whenever property is forfeited under this section, the Attorney General of the United States may forward it to the Commission or sell any forfeited property which is not harmful to thepublic. The proceeds from any such sale shall be deposited in the general fund of the Treasury of the United States.
+Whenever property is forfeited under this section, the Attorney General of the United States may forward it to the Commission or sell any forfeited property which is not harmful to the public. The proceeds from any such sale shall be deposited in the general fund of the Treasury of the United States.
 
 (June 19, 1934, ch. 652, title V, §510, as added Pub. L. 97–259, title I, §125, Sept. 13, 1982, 96 Stat. 1098.)
 

@@ -110,7 +110,7 @@
 
 &emsp;(i) the injunction shall be valid and enforceable and may not be revoked or modified by any court except through appeal in accordance with paragraph (6);
 
-&emsp;(ii) no entity that pursuant to such plan or thereafter becomes a direct or indirect transferee of, or successor to any assets of, a debtor or trust that is the subject of the injunctionshall be liable with respect to any claim or demand made against such entity by reason of its becoming such a transferee or successor; and
+&emsp;(ii) no entity that pursuant to such plan or thereafter becomes a direct or indirect transferee of, or successor to any assets of, a debtor or trust that is the subject of the injunction shall be liable with respect to any claim or demand made against such entity by reason of its becoming such a transferee or successor; and
 
 &emsp;(iii) no entity that pursuant to such plan or thereafter makes a loan to such a debtor or trust or to such a successor or transferee shall, by reason of making the loan, be liable with respect to any claim or demand made against such entity, nor shall any pledge of assets made in connection with such a loan be upset or impaired for that reason;
 
@@ -210,7 +210,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(C) The "Amount Reaffirmed", using that term, which shall be—
 
-&emsp;&emsp;(i) the total amount of debt that the debtor agrees to reaffirm by entering into an agreement of the kind specified in subsection (c), and
+&emsp;&emsp;(i) the total amount of debt that the debtor agrees to reaffirm by entering into anagreement of the kind specified in subsection (c), and
 
 &emsp;&emsp;(ii) the total of any fees and costs accrued as of the date of the disclosure statement, related to such total amount.
 
@@ -232,7 +232,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(ii) if, at the time the petition is filed, the debt is an extension of credit other than under an open end credit plan, as the terms "credit" and "open end credit plan" are defined in section 103 of the Truth in Lending Act, then—
 
-&emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act,as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
+&emsp;&emsp;&emsp;(I) the annual percentage rate under section 128(a)(4) of the Truth in Lending Act, as disclosed to the debtor in the most recent disclosure statement given to the debtor prior to the entering into an agreement of the kind specified in subsection (c) with respect to the debt, or, if no such disclosure statement was given to the debtor, the annual percentage rate as it would have been so disclosed at the time the disclosure statement is given to the debtor, or to the extent this annual percentage rate is not readily available or not applicable, then
 
 &emsp;&emsp;&emsp;(II) the simple interest rate applicable to the amount reaffirmed as of the date the disclosure statement is given to the debtor, or if different simple interest rates apply to different balances, the simple interest rate applicable to each such balance, identifying the amount of such balance included in the amount reaffirmed, or
 
@@ -314,7 +314,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(C) In the case of a reaffirmation agreement under subsection (m)(2), subparagraph (B) is not applicable.
 
-(6)(A) The statement in support of such agreement, which the debtor shall sign and date prior to filing with the court, shall consist of the following:
+(6)(A) The statement in support of such agreement, which the debtor shall sign and date priorto filing with the court, shall consist of the following:
 
 "Part D: Debtor's Statement in Support of Reaffirmation Agreement.
 
@@ -466,5 +466,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Construction
 
-Pub. L. 103–394, title I, §111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: "Nothing in subsection (a), or inthe amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization."
+Pub. L. 103–394, title I, §111(b), Oct. 22, 1994, 108 Stat. 4117, provided that: "Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization."
 

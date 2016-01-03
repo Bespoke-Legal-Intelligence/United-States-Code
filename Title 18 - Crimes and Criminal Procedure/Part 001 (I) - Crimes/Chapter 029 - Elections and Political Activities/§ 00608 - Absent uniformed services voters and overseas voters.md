@@ -12,7 +12,7 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is
 
 #### Prior Provisions
 
-A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pub. L. 92–225, title II, §203, 86 Stat. 9;Oct. 15, 1974, Pub. L. 93–443, title I, §101(a), (b), 88 Stat. 1263, 1266, set limitations on campaign contributions and expenditures, prior to repeal by Pub. L. 94–283, title II, §201(a), May 11, 1976, 90 Stat. 496. See section 30116 of Title 52, Voting and Elections.
+A prior section 608, acts June 25, 1948, ch. 645, 62 Stat. 723; Feb. 7, 1972, Pub. L. 92–225, title II, §203, 86 Stat. 9; Oct. 15, 1974, Pub. L. 93–443, title I, §101(a), (b), 88 Stat. 1263, 1266, set limitations on campaign contributions and expenditures, prior to repeal by Pub. L. 94–283, title II, §201(a), May 11, 1976, 90 Stat. 496. See section 30116 of Title 52, Voting and Elections.
 
 #### Effective Date
 

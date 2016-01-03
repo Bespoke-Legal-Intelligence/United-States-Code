@@ -2,7 +2,7 @@
 
 Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
 
-Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
+Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of theinternational relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
 &emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect such vessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof, and all other persons not especially authorized by him to go or remain on board thereof;
 
@@ -46,7 +46,7 @@ For regulations relating to safeguarding of vessels, harbors, ports, and waterfr
 
 #### Regulations—World War II
 
-Proc. No. 2732, June 2, 1947, 12 F.R. 3583, 61 Stat. 1069, revoked Proc. No. 2412, June 27, 1940, 5 F.R. 2419, 54Stat. 2711, which granted consent of President to the exercise of certain powers under this section by the Secretary of the Treasury and the Governor of the Canal Zone.
+Proc. No. 2732, June 2, 1947, 12 F.R. 3583, 61 Stat. 1069, revoked Proc. No. 2412, June 27, 1940, 5 F.R. 2419, 54 Stat. 2711, which granted consent of President to the exercise of certain powers under this section by the Secretary of the Treasury and the Governor of the Canal Zone.
 
 #### Regulations—World War I
 
@@ -64,7 +64,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, asamended, set out as a note under section 301 of Title 3, The President.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
 
@@ -98,7 +98,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 25, 2014, 79 F.R. 10949, provided:
+Notice of President of the United States, dated Feb. 25, 2015, 80 F.R. 11075, provided:
 
 On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757, the national emergency was extended and its scope was expanded to deny monetary and material support to the Cuban government. The Cuban government has not demonstrated that it will refrain from the use of excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. In addition, the unauthorized entry of any U.S.-registered vessel into Cuban territorial waters continues to be detrimental to the foreign policy of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867 as amended by Proclamation 7757.
 
@@ -107,6 +107,8 @@ This notice shall be published in the Federal Register and transmitted to the Co
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 25, 2014, 79 F.R. 10949.
 
 Notice of President of the United States, dated Feb. 22, 2013, 78 F.R. 13209.
 
@@ -148,7 +150,7 @@ Proc. No. 7757, Feb. 26, 2004, 69 F.R. 9515, provided:
 
 By the authority vested in me by the Constitution and the laws of the United States of America, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], based on the disturbance or threatened disturbance of the international relations of the United States caused by actions taken by the Cuban government, and in light of steps taken over the past year by the Cuban government to worsen the threat to United States international relations, and,
 
-WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)(1)(A)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], and section 40 of the Arms Export Control Act \[22 U.S.C. 2780\];
+WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 \[50 U.S.C. 4605(j)(1)(A)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], and section 40 of the Arms Export Control Act \[22 U.S.C. 2780\];
 
 WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
 

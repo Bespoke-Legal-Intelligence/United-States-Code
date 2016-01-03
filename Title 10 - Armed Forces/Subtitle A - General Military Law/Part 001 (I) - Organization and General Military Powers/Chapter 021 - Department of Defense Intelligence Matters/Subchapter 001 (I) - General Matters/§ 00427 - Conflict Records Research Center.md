@@ -10,7 +10,7 @@ Purposes.—The purposes of the Center shall be the following:
 
 &emsp;(1) To establish a digital research database, including translations, and to facilitate research and analysis of records captured from countries, organizations, and individuals, now or once hostile to the United States, with rigid adherence to academic freedom and integrity.
 
-&emsp;(2) Consistent with the protection of national security information, personally identifiable information, and intelligence sources and methods, to make a significant portion of these records available to researchers asquickly and responsibly as possible while taking into account the integrity of the academic process and risks to innocents or third parties.
+&emsp;(2) Consistent with the protection of national security information, personally identifiable information, and intelligence sources and methods, to make a significant portion of these records available to researchers as quickly and responsibly as possible while taking into account the integrity of the academic process and risks to innocents or third parties.
 
 &emsp;(3) To conduct and disseminate research and analysis to increase the understanding of factors related to international relations, counterterrorism, and conventional and unconventional warfare and, ultimately, enhance national security.
 
@@ -52,7 +52,7 @@ Acceptance of Gifts and Donations.—(1) Subject to paragraph (3), the Secretary
 
 (f)
 
-Crediting of Funds Transferred or Accepted.—Funds transferred to or accepted by the Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
+Crediting of Funds Transferred or Accepted.—Funds transferred to or accepted by the Secretary of Defense under this section shallbe credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
 
 (g)
 

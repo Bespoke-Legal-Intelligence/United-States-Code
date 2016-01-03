@@ -2,9 +2,9 @@
 
 #### (a) Establishment
 
-There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers andother areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be modified, revised, or corrected under—
+There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled "Coastal Barrier Resources System", dated October 24, 1990, as those maps may be modified, revised, or corrected under—
 
-&emsp;(1) subsection (f)(3) of this section;
+&emsp;(1) subsection (f)(3);
 
 &emsp;(2) section 4 of the Coastal Barrier Improvement Act of 1990 (16 U.S.C. 3503 note; Public Law 101–591); or
 
@@ -12,11 +12,11 @@ There is established the John H. Chafee Coastal Barrier Resources System, which 
 
 #### (b) System maps
 
-The Secretary shall keep the maps referred to in subsection (a) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
 
 #### (c) Boundary review and modification
 
-At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) of this section and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
+At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
 
 #### (d) Additions to System
 
@@ -44,7 +44,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 The Secretary shall—
 
-&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
 &emsp;(2) provide a copy of the map to—
 
@@ -54,7 +54,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) the Federal Emergency Management Agency; and
 
-&emsp;(3) revise the maps referred to in subsection (a) of this section to reflect each boundary modification under subsection (c) of this section and each addition of real property to the System under subsection (d) or (e) of this section, after publishing in the Federal Register a notice of any such proposed revision.
+&emsp;(3) revise the maps referred to in subsection (a) to reflect each boundary modification under subsection (c) and each addition of real property to the System under subsection (d) or (e), after publishing in the Federal Register a notice of any such proposed revision.
 
 #### (g) Guidelines for certain recommendations and determinations
 
@@ -84,9 +84,9 @@ The Secretary shall—
 
 #### (3) Savings clause
 
-&emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a) of this section.
+&emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999,113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395.)
 
 #### Codification
 
@@ -118,7 +118,7 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted "the John H. Chafee Co
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -178,7 +178,7 @@ Contents.—The report required under subsection (a) shall contain—
 
 &emsp;"(3) a summary of the comments received from the Governors of the States, other government officials, and the public regarding the digital maps;
 
-&emsp;"(4) a summary and update of the protocols and findings of the report required under section 6(d) ofthe Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
+&emsp;"(4) a summary and update of the protocols and findings of the report required under section 6(d) of the Coastal Barrier Resources Reauthorization Act of 2000 (16 U.S.C. 3503 note; Public Law 106–514); and
 
 &emsp;"(5) an analysis of any benefits that the public would receive by using digital mapping technology for all System units and otherwise protected areas.
 
@@ -250,7 +250,7 @@ Contents.—The report required under paragraph (1) shall contain—
 
 &emsp;&emsp;"(C) recommendations for the adoption of the digital maps created under this section by Congress;
 
-&emsp;&emsp;"(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System and otherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
+&emsp;&emsp;"(D) recommendations for expansion of the John H. Chafee Coastal Barrier Resources System andotherwise protected areas, as in existence on the date of enactment of this Act \[May 25, 2006\];
 
 &emsp;&emsp;"(E) a summary and update on the implementation and use of the digital maps created under the pilot project; and
 
@@ -498,7 +498,7 @@ Effective date of modifications.—A modification of the boundaries of a unit of
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
-Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
+Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C.3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
 
 #### Report Regarding Coastal Barrier Management
 

@@ -8,33 +8,33 @@ Each correctional facility entering into an agreement with a local educational a
 
 &emsp;(3) where feasible, provide transition assistance to help the child or youth stay in school, including coordination of services for the family, counseling, assistance in accessing drug and alcohol abuse prevention programs, tutoring, and family counseling;
 
-&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school once their term at the correctional facility has been completed, or provide such children and youth with the skills necessary to gain employment or seek a secondary school diploma or its recognized equivalent;
+&emsp;(4) provide support programs that encourage children and youth who have dropped out of school to reenter school and attain a regular high school diploma once their term at the correctional facility has been completed, or provide such children and youth with the skills necessary to gain employment or seek a regular high school diploma or its recognized equivalent;
 
 &emsp;(5) work to ensure that the correctional facility is staffed with teachers and other qualified staff who are trained to work with children and youth with disabilities taking into consideration the unique needs of such children and youth;
 
-&emsp;(6) ensure that educational programs in the correctional facility are related to assisting students to meet high academic achievement standards;
+&emsp;(6) ensure that educational programs in the correctional facility are related to assisting students to meet the challenging State academic standards;
 
 &emsp;(7) to the extent possible, use technology to assist in coordinating educational programs between the correctional facility and the community school;
 
 &emsp;(8) where feasible, involve parents in efforts to improve the educational achievement of their children and prevent the further involvement of such children in delinquent activities;
 
-&emsp;(9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220 \[29 U.S.C. 2801 et seq.\], and vocational and technical education funds;
+&emsp;(9) coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], and career and technical education funds;
 
-&emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable; and
+&emsp;(10) coordinate programs operated under this subpart with activities funded under the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5601 et seq.\] and other comparable programs, if applicable;
 
-&emsp;(11) if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth.
+&emsp;(11) if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth;
 
-(Pub. L. 89–10, title I, §1425, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1589; amended Pub. L. 113–128, title V, §512(i)(4), July 22, 2014, 128 Stat. 1708.)
+&emsp;(12) upon the child's or youth's entry into the correctional facility, work with the child's or youth's family members and the local educational agency that most recently provided services to the child or youth (if applicable) to ensure that the relevant and appropriate academic records and plans regarding the continuation of educational services for such child or youth are shared jointly between the correctional facility and local educational agency in order to facilitate the transition of such children and youth between the local educational agency and the correctional facility; and
 
-#### Amendment of Paragraph (9)
+&emsp;(13) consult with the local educational agency for a period jointly determined necessary by the correctional facility and local educational agency upon discharge from that facility, to coordinate educational services so as to minimize disruption to the child's or youth's achievement.
 
-<i>Pub. L. 113–128, title V, §§506, 512(i)(4), July 22, 2014, 128 Stat. 1703, 1708, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220," and inserting "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act,". See 2014 Amendment note below.</i>
+(Pub. L. 89–10, title I, §1425, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1589; amended Pub. L. 113–128, title V, §512(i)(4), July 22, 2014, 128 Stat. 1708; Pub. L. 114–95, title I, §1401(12), Dec. 10, 2015, 129 Stat. 1904.)
 
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-Pub. L. 105–220, referred to in par. (9), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
@@ -44,9 +44,21 @@ A prior section 6455, Pub. L. 89–10, title I, §1425, as added Pub. L. 103–3
 
 #### Amendments
 
-<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "coordinate funds received under this subpart with other local,State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act," for "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,".
+<b>2015</b>—Par. (4). Pub. L. 114–95, §1401(12)(A), inserted "and attain a regular high school diploma" after "reenter school" and substituted "seek a regular high school diploma" for "seek a secondary school diploma".
+
+Par. (6). Pub. L. 114–95, §1401(12)(B), substituted "the challenging State academic standards" for "high academic achievement standards".
+
+Par. (9). Pub. L. 114–95, §1401(12)(C), substituted "career" for "vocational".
+
+Pars. (12), (13). Pub. L. 114–95, §1401(12)(D)–(F), added pars. (12) and (13).
+
+<b>2014</b>—Par. (9). Pub. L. 113–128 substituted "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act," for "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

@@ -22,7 +22,7 @@
 
 (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L.111–16, §6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, §3, Nov. 29, 2011, 125 Stat. 757.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627; Pub. L. 111–16, §6(3), May 7, 2009, 123 Stat. 1608; Pub. L. 112–62, §3, Nov. 29, 2011, 125 Stat. 757.)
 
 #### Historical and Revision Notes
 
@@ -68,7 +68,7 @@ This amendment eliminates as surplusage the words "in any such action, suit or p
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted "within 14 days" for "within 7 days" in concluding provisions.
 
-<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
+<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c),designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
 "In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 
@@ -102,7 +102,7 @@ Pub. L. 112–62, §2, Nov. 29, 2011, 125 Stat. 756, provided that: "Congress fi
 
 &emsp;&emsp;"(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
 
-&emsp;"(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (asamended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
+&emsp;"(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
 
 &emsp;"(4) the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
 

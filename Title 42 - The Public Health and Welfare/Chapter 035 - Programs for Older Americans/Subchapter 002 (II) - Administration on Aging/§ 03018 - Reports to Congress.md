@@ -74,7 +74,7 @@ A prior section 207 of Pub. L. 89–73 was renumbered section 206 and is classif
 
 Subsec. (b)(2)(C). Pub. L. 109–365, §206(2), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;".
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–501, §801(b)(4), redesignated par. (4) as (3) and struck out former par. (3)which read as follows: "an analysis of the information received under section 3026(b)(2)(D) of this title by the Assistant Secretary;".
 
 Subsec. (a)(4). Pub. L. 106–501, §801(b)(4)(B), redesignated par. (5) as (4).
 

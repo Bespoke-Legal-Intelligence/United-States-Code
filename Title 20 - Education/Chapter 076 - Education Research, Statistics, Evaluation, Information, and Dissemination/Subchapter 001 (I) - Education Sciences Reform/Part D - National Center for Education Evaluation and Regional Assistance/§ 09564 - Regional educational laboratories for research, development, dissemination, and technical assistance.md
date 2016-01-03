@@ -58,7 +58,7 @@ The Director may enter into contracts under this section with research organizat
 
 #### (5) Standards
 
-&emsp;The Evaluation and Regional Assistance Commissioner shall establish a system for technical and peer review to ensure that applied research activities, research-based reports, and products of the regional educational laboratories are consistent with the research standards described in section 9534 of this title and the evaluation standards adhered to pursuant to section 9563(a)(2)(A) of this title.
+&emsp;The Evaluation and Regional Assistance Commissioner shall establish a system fortechnical and peer review to ensure that applied research activities, research-based reports, and products of the regional educational laboratories are consistent with the research standards described in section 9534 of this title and the evaluation standards adhered to pursuant to section 9563(a)(2)(A) of this title.
 
 #### (f) Central mission and primary function
 
@@ -116,11 +116,11 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;(2) Consult with the State educational agencies and local educational agencies in the region in developing the plan for serving the region.
 
-&emsp;(3) Develop strategies to utilize schools as critical components in reforming education and revitalizing rural communities in the United States.
+&emsp;(3) Develop strategies to utilize schools as critical components in reforming educationand revitalizing rural communities in the United States.
 
 &emsp;(4) Report and disseminate information on overcoming the obstacles faced by educators and schools in high poverty, urban, and rural areas.
 
-&emsp;(5) Identify successful educational programs that have either been developed by such laboratory in carrying out such laboratory's functions or that have been developed or usedby others within the region served by the laboratory and make such information available to the Secretary and the network of regional educational laboratories so that such programs may be considered for inclusion in the national education dissemination system.
+&emsp;(5) Identify successful educational programs that have either been developed by such laboratory in carrying out such laboratory's functions or that have been developed or used by others within the region served by the laboratory and make such information available to the Secretary and the network of regional educational laboratories so that such programs may be considered for inclusion in the national education dissemination system.
 
 #### (h) Governing board and allocation
 
@@ -188,7 +188,7 @@ The Evaluation and Regional Assistance Commissioner shall provide for independen
 
 #### (k) Rule of construction
 
-No regional educational laboratory receiving assistance under this section shall, by reason of the receipt of that assistance, be ineligible to receive any other assistance from the Department of Education as authorized by law or be prohibited from engaging in activities involving international projects or endeavors.
+No regional educational laboratory receiving assistance under this section shall, by reason ofthe receipt of that assistance, be ineligible to receive any other assistance from the Department of Education as authorized by law or be prohibited from engaging in activities involving international projects or endeavors.
 
 #### (l) Advance payment system
 

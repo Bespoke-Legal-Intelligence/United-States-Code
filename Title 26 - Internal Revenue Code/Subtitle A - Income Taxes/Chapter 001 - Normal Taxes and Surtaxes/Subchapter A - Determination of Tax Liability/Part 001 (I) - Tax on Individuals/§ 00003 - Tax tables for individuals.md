@@ -40,7 +40,7 @@ Whenever it is necessary to determine the taxable income of an individual to who
 
 &emsp;&emsp;<b>For computation of tax by Secretary, see section 6014.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title III, §301(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 91–172, title VIII, §803(c), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–12, title II, §201(c), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–455, title V, §501(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–30, title I, §101(b), May 23, 1977, 91 Stat. 131; Pub. L. 95–600, title IV, §401(b)(1), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–600, title II, §202(g), as added Pub. L. 96–222,title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–222, title I, §108(a)(1)(E), Apr. 1, 1980, 94 Stat. 225; Pub. L. 97–34, title I, §§101(b)(2)(B), (C), (c)(2)(A), 121(c)(3), Aug. 13, 1981, 95 Stat. 183, 197; Pub. L. 99–514, title I, §§102(b), 141(b)(1), Oct. 22, 1986, 100 Stat. 2102, 2117.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title III, §301(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 91–172, title VIII, §803(c), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–12, title II, §201(c), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–455, title V, §501(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–30, title I, §101(b), May 23, 1977, 91 Stat. 131; Pub. L. 95–600, title IV, §401(b)(1), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–600, title II, §202(g), as added Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–222, title I, §108(a)(1)(E), Apr. 1, 1980, 94 Stat. 225; Pub. L. 97–34, title I, §§101(b)(2)(B), (C), (c)(2)(A), 121(c)(3), Aug. 13, 1981, 95 Stat. 183, 197; Pub. L. 99–514, title I, §§102(b), 141(b)(1), Oct. 22, 1986, 100 Stat. 2102, 2117.)
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 101(c)(2)(A) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 101(f)(1) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
-Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section 121(d) of Pub. L. 97–34, set out as a note under section 170 of this title.
+Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section 121(d)of Pub. L. 97–34, set out as a note under section 170 of this title.
 
 #### Effective Date of 1980 Amendment
 

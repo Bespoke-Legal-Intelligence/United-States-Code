@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title44",
- "package": "USCODE-2014-title44",
+ "package": "USCODE-2015-title44",
  "pieces": [
   {
    "id": "44_",
@@ -3769,137 +3769,143 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       95,
+       92,
        "[Page 116]"
       ]
      ]
     ],
     [
-     "L",
-     102,
-     "[Page 117]",
-     true
-    ],
-    [
      "I",
-     234,
+     96,
      [
       [
-       102,
-       "[Page 118]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     344,
-     [
-      [
-       102,
-       "[Page 119]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     492,
-     [
-      [
-       166,
-       "[Page 120]"
+       259,
+       "[Page 117]"
       ]
      ]
     ],
     [
      "L",
-     632,
-     "[Page 121]",
+     224,
+     "[Page 118]",
+     true
+    ],
+    [
+     "L",
+     330,
+     "[Page 119]",
+     true
+    ],
+    [
+     "L",
+     480,
+     "[Page 120]",
      true
     ],
     [
      "I",
-     786,
+     626,
      [
       [
-       89,
+       102,
+       "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     778,
+     [
+      [
+       111,
        "[Page 122]"
       ]
      ]
     ],
     [
      "L",
-     908,
+     896,
      "[Page 123]",
      true
     ],
     [
      "L",
-     1048,
+     1038,
      "[Page 124]",
      true
     ],
     [
      "L",
-     1168,
+     1158,
      "[Page 125]",
      true
     ],
     [
-     "L",
-     1310,
-     "[Page 126]",
-     true
-    ],
-    [
      "I",
-     1420,
+     1298,
      [
       [
-       106,
-       "[Page 127]"
+       353,
+       "[Page 126]"
       ]
      ]
     ],
     [
+     "L",
+     1418,
+     "[Page 127]",
+     true
+    ],
+    [
      "I",
-     1522,
+     1514,
      [
       [
-       93,
+       358,
        "[Page 128]"
       ]
      ]
     ],
     [
      "I",
-     1604,
+     1602,
      [
       [
-       365,
+       478,
        "[Page 129]"
       ]
      ]
     ],
     [
      "L",
-     1708,
+     1700,
      "[Page 130]",
      true
     ],
     [
+     "I",
+     1766,
+     [
+      [
+       322,
+       "[Page 131]"
+      ]
+     ]
+    ],
+    [
      "L",
-     1772,
-     "[Page 131]",
+     1818,
+     "[Page 132]",
      true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03501 - Purposes.md",
    "printed_pages": [
     115,
-    131
+    132
    ]
   },
   {
@@ -3907,20 +3913,10 @@
    "marks": [
     [
      "I",
-     4,
+     66,
      [
       [
-       87,
-       "[Page 132]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       516,
+       134,
        "[Page 133]"
       ]
      ]
@@ -3928,7 +3924,7 @@
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03502 - Definitions.md",
    "printed_pages": [
-    131,
+    132,
     133
    ]
   },
@@ -3937,10 +3933,10 @@
    "marks": [
     [
      "I",
-     28,
+     20,
      [
       [
-       322,
+       115,
        "[Page 134]"
       ]
      ]
@@ -3957,33 +3953,29 @@
    "marks": [
     [
      "I",
-     66,
+     56,
      [
       [
-       97,
+       90,
        "[Page 135]"
       ]
      ]
     ],
     [
      "I",
-     142,
+     140,
      [
       [
-       422,
+       88,
        "[Page 136]"
       ]
      ]
     ],
     [
-     "I",
-     222,
-     [
-      [
-       101,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     210,
+     "[Page 137]",
+     true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03504 - Authority and functions of Director.md",
@@ -3997,19 +3989,23 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       89,
+       142,
        "[Page 138]"
       ]
      ]
     ],
     [
-     "L",
-     92,
-     "[Page 139]",
-     true
+     "I",
+     84,
+     [
+      [
+       106,
+       "[Page 139]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03505 - Assignment of tasks and deadlines.md",
@@ -4023,25 +4019,29 @@
    "marks": [
     [
      "L",
-     52,
+     40,
      "[Page 140]",
      true
     ],
     [
-     "L",
-     126,
-     "[Page 141]",
-     true
+     "I",
+     116,
+     [
+      [
+       92,
+       "[Page 141]"
+      ]
+     ]
     ],
     [
      "L",
-     204,
+     192,
      "[Page 142]",
      true
     ],
     [
      "L",
-     280,
+     274,
      "[Page 143]",
      true
     ]
@@ -4057,15 +4057,19 @@
    "marks": [
     [
      "L",
-     68,
+     56,
      "[Page 144]",
      true
     ],
     [
-     "L",
-     122,
-     "[Page 145]",
-     true
+     "I",
+     114,
+     [
+      [
+       287,
+       "[Page 145]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03507 - Public information collection activities; submission to Director; approval and delegation.md",
@@ -4088,7 +4092,7 @@
    "marks": [
     [
      "L",
-     20,
+     4,
      "[Page 146]",
      true
     ]
@@ -4122,7 +4126,7 @@
    "marks": [
     [
      "L",
-     16,
+     4,
      "[Page 147]",
      true
     ]
@@ -4146,14 +4150,10 @@
    "id": "44_3514",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       108,
-       "[Page 148]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 148]",
+     true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03514 - Responsiveness to Congress.md",
@@ -4182,11 +4182,18 @@
   },
   {
    "id": "44_3517",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 149]",
+     true
+    ]
+   ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03517 - Consultation with other agencies and the public.md",
    "printed_pages": [
     148,
-    148
+    149
    ]
   },
   {
@@ -4194,34 +4201,27 @@
    "marks": [
     [
      "I",
-     2,
+     58,
      [
       [
-       89,
-       "[Page 149]"
+       115,
+       "[Page 150]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03518 - Effect on existing laws and regulations.md",
    "printed_pages": [
-    148,
-    149
+    149,
+    150
    ]
   },
   {
    "id": "44_3519",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 150]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03519 - Access to information.md",
    "printed_pages": [
-    149,
+    150,
     150
    ]
   },
@@ -4230,7 +4230,7 @@
    "marks": [
     [
      "L",
-     90,
+     72,
      "[Page 151]",
      true
     ]
@@ -4254,14 +4254,10 @@
    "id": "44_[3531_to_3549",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       236,
-       "[Page 152]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 152]",
+     true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 001 (I) - Federal Information Policy/§ 03531 to 3549 - Repealed. Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073.md",
@@ -4284,10 +4280,10 @@
    "marks": [
     [
      "I",
-     34,
+     30,
      [
       [
-       161,
+       212,
        "[Page 153]"
       ]
      ]
@@ -4313,78 +4309,88 @@
    "marks": [
     [
      "L",
-     18,
+     14,
      "[Page 154]",
      true
     ],
     [
+     "I",
+     80,
+     [
+      [
+       182,
+       "[Page 155]"
+      ]
+     ]
+    ],
+    [
      "L",
-     90,
-     "[Page 155]",
+     174,
+     "[Page 156]",
+     true
+    ],
+    [
+     "L",
+     272,
+     "[Page 157]",
      true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03553 - Authority and functions of the Director and the Secretary.md",
    "printed_pages": [
     153,
-    155
+    157
    ]
   },
   {
    "id": "44_3554",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       137,
-       "[Page 156]"
-      ]
-     ]
-    ],
-    [
      "L",
-     104,
-     "[Page 157]",
+     76,
+     "[Page 158]",
      true
     ],
     [
      "L",
-     204,
-     "[Page 158]",
+     164,
+     "[Page 159]",
      true
     ]
    ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03554 - Federal agency responsibilities.md",
    "printed_pages": [
-    155,
-    158
+    157,
+    159
    ]
   },
   {
    "id": "44_3555",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       313,
+       "[Page 160]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03555 - Annual independent evaluation.md",
    "printed_pages": [
-    158,
-    158
+    159,
+    160
    ]
   },
   {
    "id": "44_3556",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 159]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03556 - Federal information security incident center.md",
    "printed_pages": [
-    158,
-    159
+    160,
+    160
    ]
   },
   {
@@ -4392,17 +4398,28 @@
    "marks": [],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03557 - National security systems.md",
    "printed_pages": [
-    159,
-    159
+    160,
+    160
    ]
   },
   {
    "id": "44_3558",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       788,
+       "[Page 161]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - Coordination of Federal Information Policy/Subchapter 002 (II) - Information Security/§ 03558 - Effect on existing law.md",
    "printed_pages": [
-    159,
-    159
+    160,
+    161
    ]
   },
   {
@@ -4410,8 +4427,8 @@
    "marks": [],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/README.md",
    "printed_pages": [
-    159,
-    159
+    161,
+    161
    ]
   },
   {
@@ -4419,71 +4436,77 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 160]",
-     true
-    ],
-    [
-     "L",
-     164,
-     "[Page 161]",
-     true
-    ],
-    [
-     "L",
-     288,
+     96,
      "[Page 162]",
      true
     ],
     [
      "L",
-     376,
+     236,
      "[Page 163]",
+     true
+    ],
+    [
+     "I",
+     342,
+     [
+      [
+       107,
+       "[Page 164]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     410,
+     "[Page 165]",
      true
     ]
    ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03601 - Definitions.md",
    "printed_pages": [
-    159,
-    163
+    161,
+    165
    ]
   },
   {
    "id": "44_3602",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 164]",
-     true
-    ],
-    [
-     "L",
-     110,
-     "[Page 165]",
-     true
+     "I",
+     82,
+     [
+      [
+       97,
+       "[Page 166]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03602 - Office of Electronic Government.md",
    "printed_pages": [
-    163,
-    165
+    165,
+    166
    ]
   },
   {
    "id": "44_3603",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 166]",
-     true
+     "I",
+     38,
+     [
+      [
+       136,
+       "[Page 167]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03603 - Chief Information Officers Council.md",
    "printed_pages": [
-    165,
-    166
+    166,
+    167
    ]
   },
   {
@@ -4491,106 +4514,23 @@
    "marks": [
     [
      "L",
-     84,
-     "[Page 167]",
+     44,
+     "[Page 168]",
      true
     ]
    ],
    "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03604 - E-Government Fund.md",
    "printed_pages": [
-    166,
-    167
+    167,
+    168
    ]
   },
   {
    "id": "44_3605",
-   "marks": [],
-   "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03605 - Program to encourage innovative solutions to enhance electronic Government services and processes.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "44_3606",
-   "marks": [],
-   "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03606 - E-Government report.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "44_-ch37",
    "marks": [
     [
      "I",
-     6,
-     [
-      [
-       70,
-       "[Page 168]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 037 - Advertisements by Government Agencies/README.md",
-   "printed_pages": [
-    167,
-    168
-   ]
-  },
-  {
-   "id": "44_3701",
-   "marks": [],
-   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03701 - Advertisements for contracts in District of Columbia.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "44_3702",
-   "marks": [],
-   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03702 - Advertisements not to be published without written authority.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "44_3703",
-   "marks": [],
-   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03703 - Rate of payment for advertisements, notices, and proposals.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "44_-ch39",
-   "marks": [],
-   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/README.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "44_3901",
-   "marks": [],
-   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/§ 03901 - Purpose and establishment of the Office of Inspector General.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "44_3902",
-   "marks": [
-    [
-     "I",
-     2,
+     22,
      [
       [
        91,
@@ -4599,10 +4539,89 @@
      ]
     ]
    ],
-   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/§ 03902 - Appointment of Inspector General; supervision; removal.md",
+   "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03605 - Program to encourage innovative solutions to enhance electronic Government services and processes.md",
    "printed_pages": [
     168,
     169
+   ]
+  },
+  {
+   "id": "44_3606",
+   "marks": [],
+   "path": "Chapter 036 - Management and Promotion of Electronic Government Services/§ 03606 - E-Government report.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_-ch37",
+   "marks": [],
+   "path": "Chapter 037 - Advertisements by Government Agencies/README.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_3701",
+   "marks": [],
+   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03701 - Advertisements for contracts in District of Columbia.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_3702",
+   "marks": [],
+   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03702 - Advertisements not to be published without written authority.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_3703",
+   "marks": [],
+   "path": "Chapter 037 - Advertisements by Government Agencies/§ 03703 - Rate of payment for advertisements, notices, and proposals.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_-ch39",
+   "marks": [],
+   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/README.md",
+   "printed_pages": [
+    169,
+    169
+   ]
+  },
+  {
+   "id": "44_3901",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 170]",
+     true
+    ]
+   ],
+   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/§ 03901 - Purpose and establishment of the Office of Inspector General.md",
+   "printed_pages": [
+    169,
+    170
+   ]
+  },
+  {
+   "id": "44_3902",
+   "marks": [],
+   "path": "Chapter 039 - Government Publishing Office Office of Inspector General/§ 03902 - Appointment of Inspector General; supervision; removal.md",
+   "printed_pages": [
+    170,
+    170
    ]
   },
   {
@@ -4610,33 +4629,37 @@
    "marks": [],
    "path": "Chapter 039 - Government Publishing Office Office of Inspector General/§ 03903 - Duties, responsibilities, authority, and reports.md",
    "printed_pages": [
-    169,
-    169
+    170,
+    170
    ]
   },
   {
    "id": "44_-ch41",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     5,
+     [
+      [
+       16,
+       "[Page 171]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 041 - Access to Federal Electronic Information/README.md",
    "printed_pages": [
-    169,
-    169
+    170,
+    171
    ]
   },
   {
    "id": "44_4101",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 170]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04101 - Electronic directory; online access to publications; electronic storage facility.md",
    "printed_pages": [
-    169,
-    170
+    171,
+    171
    ]
   },
   {
@@ -4644,8 +4667,8 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04102 - Fees.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    171
    ]
   },
   {
@@ -4653,8 +4676,8 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04103 - Biennial report.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    171
    ]
   },
   {
@@ -4662,11 +4685,11 @@
    "marks": [],
    "path": "Chapter 041 - Access to Federal Electronic Information/§ 04104 - Definition.md",
    "printed_pages": [
-    170,
-    170
+    171,
+    171
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2014-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2015-title44 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 44 - Public Printing and Documents"
 }

@@ -20,7 +20,7 @@
 
 (4) Where an allotment application describes land within the boundaries of a unit of the National Park System established on or before December 2, 1980, and the described land was not withdrawn pursuant to section 11(a)(1) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)\], or where an allotment application describes land which has been patented or deeded to the State of Alaska or which on or before December 18, 1971, was validly selected by or tentatively approved or confirmed to the State of Alaska pursuant to the Alaska Statehood Act and was not withdrawn pursuant to section 11(a)(1)(A) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1610(a)(1)(A)\] from those lands made available for selection by section 11(a)(2) of the Act \[43 U.S.C. 1610(a)(2)\] by any Native Village certified as eligible pursuant to section 11(b) of such Act \[43 U.S.C. 1610(b)\], paragraph (1) of this subsection and subsection (d) of this section shall not apply and the application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], and other applicable law.
 
-(5) Paragraph (1) of this subsection and subsection (d) of this section shall not apply and the Native allotment application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, if on or before the one hundred and eightieth day following December 2, 1980—
+(5) Paragraph (1) of this subsection and subsection (d) shall not apply and the Native allotment application shall be adjudicated pursuant to the requirements of the Act of May 17, 1906, as amended, if on or before the one hundred and eightieth day following December 2, 1980—
 
 &emsp;(A) A Native Corporation files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application, and said land is withdrawn for selection by the Corporation pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]; or
 
@@ -28,9 +28,9 @@
 
 &emsp;(C) A person or entity files a protest with the Secretary stating that the applicant is not entitled to the land described in the allotment application and that said land is the situs of improvements claimed by the person or entity.
 
-(6) Paragraph (1) of this subsection and subsection (d) of this section shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
+(6) Paragraph (1) of this subsection and subsection (d) shall not apply to any application pending before the Department of the Interior on or before December 18, 1971, which was knowingly and voluntarily relinquished by the applicant thereafter.
 
-(7) Paragraph (1) of this subsection and subsection (d) of this section shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
+(7) Paragraph (1) of this subsection and subsection (d) shall apply, and paragraph (5) of this subsection shall cease to apply, to an application—
 
 &emsp;(A) that is open and pending on October 31, 1998;
 
@@ -44,7 +44,7 @@
 
 #### (b) Conflicting land descriptions in applications; adjustments; reductions
 
-Where a conflict between two or more allotment applications exists due to overlapping landdescriptions, the Secretary shall adjust the descriptions to eliminate conflicts, and in so doing, consistent with other existing rights, if any, may expand or alter the applied-for allotment boundaries or increase or decrease acreage in one or more of the allotment applications to achieve an adjustment which, to the extent practicable, is consistent with prior use of the allotted land and is beneficial to the affected parties: <i>Provided</i>, That the Secretary shall, to the extent feasible, implement an adjustment proposed by the affected parties: <i>Provided further</i>, That the Secretary's decision concerning adjustment of conflicting land descriptions shall be final and unreviewable in all cases in which the reduction, if any, of the affected allottee's claim is less than 30 percent of the acreage contained in the parcel originally described and the adjustment does not exclude from the allotment improvements claimed by the allottee: <i>Provided further</i>, That where an allotment application describes more than one hundred and sixty acres, the Secretary shall at any time prior to or during survey reduce the acreage to one hundred and sixty acres and shall attempt to accomplish said reduction in the manner least detrimental to the applicant.
+Where a conflict between two or more allotment applications exists due to overlapping land descriptions, the Secretary shall adjust the descriptions to eliminate conflicts, and in so doing, consistent with other existing rights, if any, may expand or alter the applied-for allotment boundaries or increase or decrease acreage in one or more of the allotment applications to achieve an adjustment which, to the extent practicable, is consistent with prior use of the allotted land and is beneficial to the affected parties: <i>Provided</i>, That the Secretary shall, to the extent feasible, implement an adjustment proposed by the affected parties: <i>Provided further</i>, That the Secretary's decision concerning adjustment of conflicting land descriptions shall be final and unreviewable in all cases in which the reduction, if any, of the affected allottee's claim is less than 30 percent of the acreage contained in the parcel originally described and the adjustment does not exclude from the allotment improvements claimed by the allottee: <i>Provided further</i>, That where an allotment application describes more than one hundred and sixty acres, the Secretary shall at any time prior to or during survey reduce the acreage to one hundred and sixty acres and shall attempt to accomplish said reduction in the manner least detrimental to the applicant.
 
 #### (c) Amendment of land description in application; notification; protest; adoption of final plan of survey
 
@@ -60,7 +60,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 #### (f) Reinstatement
 
-(1)(A) Notwithstanding paragraphs (1) and (6) of subsection (a) of this section, and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled "An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska", approved May 17, 1906 (34 Stat. 197), that—
+(1)(A) Notwithstanding paragraphs (1) and (6) of subsection (a), and subject to subparagraph (B), each Alaska Native allotment application made pursuant to the Act entitled "An Act authorizing the Secretary of the Interior to allot homesteads to the natives of Alaska", approved May 17, 1906 (34 Stat. 197), that—
 
 &emsp;(i) was pending before the Department of the Interior on or before December 18, 1971; and
 
@@ -86,7 +86,7 @@ Prior to issuing a certificate for an allotment subject to this section, the Sec
 
 (3)(A) Subject to any valid existing rights, to the extent that the application describes lands that are authorized to be reconveyed or relinquished to the United States under paragraph (2), the Village Corporation shall file with the Secretary, not later than 3 years after October 14, 1992, the name of the applicant and the land description of each allotment proposed to be reconveyed or relinquished.
 
-(B) Upon receipt of the land description, the Secretary shall immediately notify the State of Alaska and all interested parties of the land description proposed to be reconveyed or relinquished, and any such party shall have 60 days following notification in which to file with the Department of the Interior a protest as provided in subsection (a)(5) of this section.
+(B) Upon receipt of the land description, the Secretary shall immediately notify the State of Alaska and all interested parties of the land description proposed to be reconveyed or relinquished, and any such party shall have 60 days following notification in which to file with the Department of the Interior a protest as provided in subsection (a)(5).
 
 (C) The Secretary shall then either—
 

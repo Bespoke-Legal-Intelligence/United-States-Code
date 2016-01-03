@@ -4,7 +4,7 @@
 
 (1) The President shall seek information and advice from representative elements of the private sector and the non-Federal governmental sector with respect to—
 
-&emsp;(A) negotiating objectives and bargaining positions before entering into a trade agreement under this subchapter or section 3803 of this title;
+&emsp;(A) negotiating objectives and bargaining positions before entering into a trade agreement under this subchapter or section 4202 of this title;
 
 &emsp;(B) the operation of any trade agreement once entered into, including preparation for dispute settlement panel proceedings to which the United States is a party; and
 
@@ -26,15 +26,15 @@
 
 #### (b) Advisory Committee for Trade Policy and Negotiations
 
-(1) The President shall establish an Advisory Committee for Trade Policy and Negotiations to provide overall policy advice on matters referred to in subsection (a) of this section. The committee shall be composed of not more than 45 individuals and shall include representatives of non-Federal governments, labor, industry, agriculture, small business, service industries, retailers, nongovernmental environmental and conservation organizations, and consumer interests. The committee shall be broadly representative of the key sectors and groups of the economy, particularly with respect to those sectors and groups which are affected by trade. Members of the committee shall be recommended by the United States Trade Representative and appointed by the President for a term of 4 years or until the committee is scheduled to expire. An individual may be reappointed to committee for any number of terms. Appointments to the Committee <sup>1</sup> shall be made without regard to political affiliation.
+(1) The President shall establish an Advisory Committee for Trade Policy and Negotiations to provide overall policy advice on matters referred to in subsection (a). The committee shall be composed of not more than 45 individuals and shall include representatives of non-Federal governments, labor, industry, agriculture, small business, service industries, retailers, nongovernmental environmental and conservation organizations, and consumer interests. The committee shall be broadly representative of the key sectors and groups of the economy, particularly with respect to those sectors and groups which are affected by trade. Members of the committee shall be recommended by the United States Trade Representative and appointed by the President for a term of 4 years or until the committee is scheduled to expire. An individual may be reappointed to committee for any number of terms. Appointments to the Committee <sup>1</sup> shall be made without regard to political affiliation.
 
 (2) The committee shall meet as needed at the call of the United States Trade Representative or at the call of two-thirds of the members of the committee. The chairman of the committee shall be elected by the committee from among its members.
 
-(3) The United States Trade Representative shall make available to the committee suchstaff, information, personnel, and administrative services and assistance as it may reasonably require to carry out its activities.
+(3) The United States Trade Representative shall make available to the committee such staff, information, personnel, and administrative services and assistance as it may reasonably require to carry out its activities.
 
 #### (c) General policy, sectoral, or functional advisory committees
 
-(1) The President may establish individual general policy advisory committees for industry, labor, agriculture, services, investment, defense, and other interests, as appropriate, to provide general policy advice on matters referred to in subsection (a) of this section. Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, service, investment, defense, and other interests, respectively, including small business interests, and shall be organized by the United States Trade Representative and the Secretaries of Commerce, Defense, Labor, Agriculture, the Treasury, or other executive departments, as appropriate. The members of such committees shall be appointed by the United States Trade Representative in consultation with such Secretaries.
+(1) The President may establish individual general policy advisory committees for industry, labor, agriculture, services, investment, defense, and other interests, as appropriate, to provide general policy advice on matters referred to in subsection (a). Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, service, investment, defense, and other interests, respectively, including small business interests, and shall be organized by the United States Trade Representative and the Secretaries of Commerce, Defense, Labor, Agriculture, the Treasury, or other executive departments, as appropriate. The members of such committees shall be appointed by the United States Trade Representative in consultation with such Secretaries.
 
 (2) The President shall establish such sectoral or functional advisory committees as may be appropriate. Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned. In organizing such committees, the United States Trade Representative and the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, shall—
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) may, if necessary, establish policy advisory committees representing non-Federal governmental interests to provide policy advice—
 
-&emsp;&emsp;(i) on matters referred to in subsection (a) of this section, and
+&emsp;&emsp;(i) on matters referred to in subsection (a), and
 
 &emsp;&emsp;(ii) with respect to implementation of trade agreements, and
 
@@ -66,13 +66,13 @@
 
 #### (d) Policy, technical, and other advice and information
 
-Committees established under subsection (c) of this section shall meet at the call of the United States Trade Representative and the Secretaries of Agriculture, Commerce, Labor, Defense, or other executive departments, as appropriate, to provide policy advice, technical advice and information, and advice on other factors relevant to the matters referred to in subsection (a) of this section.
+Committees established under subsection (c) shall meet at the call of the United States Trade Representative and the Secretaries of Agriculture, Commerce, Labor, Defense, or other executive departments, as appropriate, to provide policy advice, technical advice and information, and advice on other factors relevant to the matters referred to in subsection (a).
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 4202 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 4202 of this title shall be provided under the preceding sentence not later than the date that is 30 days after the date on which the President notifies Congress under section 4205(a)(1)(A) of this title of his intention to enter into that agreement.
 
-(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 3802 of this title, as appropriate.
+(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 4201 of this title, as appropriate.
 
 (3) The report of the appropriate sectoral or functional committee under paragraph (1) shall include an advisory opinion as to whether the agreement provides for equity and reciprocity within the sector or within the functional area.
 
@@ -80,13 +80,13 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 The provisions of the Federal Advisory Committee Act apply—
 
-&emsp;(1) to the Advisory Committee for Trade Policy and Negotiations established under subsection (b) of this section; and
+&emsp;(1) to the Advisory Committee for Trade Policy and Negotiations established under subsection (b); and
 
 &emsp;(2) to all other advisory committees which may be established under subsection (c) of this section, except that—
 
-&emsp;&emsp;(A) the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the President's designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives, or bargaining positions with respect to matters referred toin subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section; and
+&emsp;&emsp;(A) the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the President's designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives, or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section; and
 
-&emsp;&emsp;(B) notwithstanding subsection (a)(2) of section 14 of the Federal Advisory Committee Act, any committee established under subsection (b) or (c) of this section may, in the discretion of the President or the President's designee, terminate not later than the expiration of the 4-year period beginning on the date of its establishment.
+&emsp;&emsp;(B) notwithstanding subsection (a)(2) of section 14 of the Federal Advisory Committee Act, any committee established under subsection (b) or (c) may, in the discretion of the President or the President's designee, terminate not later than the expiration of the 4-year period beginning on the date of its establishment.
 
 #### (g) Trade secrets and confidential information
 
@@ -98,41 +98,41 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(C) members of any committee of the House or Senate or any joint committee of Congress who are designated as advisers under section 2211(a)(2) of this title or designated by the chairman of such committee under section 2211(b)(3)(B) of this title and staff members of such committee designated under section 2211(b)(3)(B) of this title, but disclosure may be made under this subparagraph only with respect to trade secrets or commercial or financial information that is relevant to trade policy matters or negotiations that are within the legislative jurisdiction of such committee;
 
-> for use in connection with matters referred to in subsection (a) of this section.
+> for use in connection with matters referred to in subsection (a).
 
-(2) Information other than that described in paragraph (1), and advice submitted in confidence by the private sector or non-Federal government to officers or employees of the United States, to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, in connection with matters referred to in subsection (a) of this section, may be disclosed upon request to—
+(2) Information other than that described in paragraph (1), and advice submitted in confidence by the private sector or non-Federal government to officers or employees of the United States, to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c), in connection with matters referred to in subsection (a), may be disclosed upon request to—
 
 &emsp;(A) the individuals described in paragraph (1); and
 
 &emsp;(B) the appropriate advisory committee established under this section.
 
-(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c) of this section, may be disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c) of this section. Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a) of this section.
+(3) Information submitted in confidence by officers or employees of the United States to the Advisory Committee for Trade Policy and Negotiations, or to any advisory committee established under subsection (c), may be disclosed in accordance with rules issued by the United States Trade Representative and the Secretaries of Commerce, Labor, Defense, Agriculture, or other executive departments, as appropriate, after consultation with the relevant advisory committees established under subsection (c). Such rules shall define the categories of information which require restricted or confidential handling by such committee considering the extent to which public disclosure of such information can reasonably be expected to prejudice the development of trade policy, priorities, or United States negotiating objectives. Such rules shall, to the maximum extent feasible, permit meaningful consultations by advisory committee members with persons affected by matters referred to in subsection (a).
 
 #### (h) Advisory committee support
 
-The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executive departments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) of this section as such committees may reasonably require to carry out their activities.
+The United States Trade Representative, and the Secretaries of Commerce, Labor, Defense, Agriculture, the Treasury, or other executive departments, as appropriate, shall provide such staff, information, personnel, and administrative services and assistance to advisory committees established under subsection (c) as such committees may reasonably require to carry out their activities.
 
 #### (i) Consultation with advisory committees; procedures; nonacceptance of committee advice or recommendations
 
-It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining information and advice from the advisory committees established under subsection (c) of this section on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
+It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining information and advice from the advisory committees established under subsection (c) on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
 
 &emsp;(1) significant issues and developments; and
 
 &emsp;(2) overall negotiating objectives and positions of the United States and other parties;
 
-> with respect to matters referred to in subsection (a) of this section. The United States Trade Representative shall not be bound by the advice or recommendations of such advisory committees, but shall inform the advisory committees of significant departures from such advice or recommendations made. In addition, in the course of consultations with the Congress under this subchapter, information on the advice and information provided by advisory committees shall be made available to congressional advisers.
+> with respect to matters referred to in subsection (a). The United States Trade Representative shall not be bound by the advice or recommendations of such advisory committees, but shall inform the advisory committees of significant departures from such advice or recommendations made. In addition, in the course of consultations with the Congress under this subchapter, information on the advice and information provided by advisory committees shall be made available to congressional advisers.
 
 #### (j) Private organizations or groups
 
-In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to anymatter referred to in subsection (a) of this section.
+In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g), on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a).
 
 #### (k) Scope of participation by members of advisory committees
 
-Nothing contained in this section shall be construed to authorize or permit any individual to participate directly in any negotiation of any matters referred to in subsection (a) of this section. To the maximum extent practicable, the members of the committees established under subsections (b) and (c) of this section, and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
+Nothing contained in this section shall be construed to authorize or permit any individual to participate directly in any negotiation of any matters referred to in subsection (a). To the maximum extent practicable, the members of the committees established under subsections (b) and (c), and other appropriate parties, shall be informed and consulted before and during any such negotiations. They may be designated as advisors to a negotiating delegation, and may be permitted to participate in international meetings to the extent the head of the United States delegation deems appropriate. However, they may not speak or negotiate for the United States.
 
 #### (l) Advisory committees established by Department of Agriculture
 
-The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c) of this section.
+The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c).
 
 #### (m) "Non-Federal government" defined
 
@@ -142,7 +142,7 @@ As used in this section, the term "non-Federal government" means—
 
 &emsp;(2) any agency or instrumentality of any entity described in paragraph (1).
 
-(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171.)
+(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B),Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 114–26, title I, §110(a)(5), June 29, 2015, 129 Stat. 357.)
 
 #### References in Text
 
@@ -155,6 +155,12 @@ The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–4
 The Food and Agriculture Act of 1977, referred to in subsec. (l), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–26, §110(a)(5)(A), substituted "section 4202 of this title" for "section 3803 of this title".
+
+Subsec. (e)(1). Pub. L. 114–26, §110(a)(5)(B)(i), substituted "section 4202 of this title" for "section 3803 of this title" in two places and "not later than the date that is 30 days after the date on which the President notifies Congress under section 4205(a)(1)(A) of this title" for "not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title".
+
+Subsec. (e)(2). Pub. L. 114–26, §110(a)(5)(B)(ii), substituted "section 4201 of this title" for "section 3802 of this title".
 
 <b>2006</b>—Subsec. (f)(2)(B). Pub. L. 109–280 substituted "its establishment" for "their establishment".
 
@@ -194,7 +200,7 @@ Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the mem
 
 Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after "initiative", included references to "services", and substituted "general policy advice on matters referred to in subsection (a) of this section" for "general policy advice on any trade agreement referred to in section 2111 or 2112 of this title", "Special Representative for Trade Negotiations" for "President acting through the Special Representative for Trade Negotiations" and "or Agriculture" for "and Agriculture".
 
-Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for "The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
+Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for"The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for "policy advice", "technical advice" and "advice on other factors", struck out "on negotiations" and "on negotiations on particular products both domestic and foreign" after "policy advice" and "technical advice and information" and substituted "factors relevant to the matters referred to in subsection (a) of this section" for "factors relevant to positions of the United States in trade negotiations."
 
@@ -240,7 +246,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Ex. Ord. No. 12905, Mar. 25, 1994, 59 F.R. 14733, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) ("Act"), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) ("Act"), it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established in the Office of the United States Trade Representative ("Trade Representative"\[)\] the "Trade and Environment Policy Advisory Committee" ("Committee").
 
@@ -292,7 +298,9 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

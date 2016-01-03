@@ -28,7 +28,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office onNov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
 
 #### Effective Date of 1982 Amendment
 

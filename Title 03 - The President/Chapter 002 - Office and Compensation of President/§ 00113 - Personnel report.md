@@ -74,7 +74,7 @@ Exclusion From Report.—If the President determines that disclosure of any item
 
 \[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.\]
 
-\[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set outas an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.\]
+\[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set out as an Effective Date of 1994 Amendment; Transition Provisions note under section 591 of Title 28, Judiciary and Judicial Procedure.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be title "5".</i>
 

@@ -68,7 +68,7 @@ Alternative Formula.—For the payment period beginning October 1, 1994, the amo
 
 &emsp;&emsp;(A) the labor force of the State, multiplied by a fraction in which—
 
-&emsp;&emsp;&emsp;(i) the numerator is the percentage of the labor force of the State that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes); and
+&emsp;&emsp;&emsp;(i) the numerator is the percentage of the labor force of the State that is unemployed in the calendar year preceding thepayment period (as determined by the Secretary of Labor for general statistical purposes); and
 
 &emsp;&emsp;&emsp;(ii) the denominator is the percentage of the labor force of the United States that is unemployed in the calendar year preceding the payment period (as determined by the Secretary of Labor for general statistical purposes)
 

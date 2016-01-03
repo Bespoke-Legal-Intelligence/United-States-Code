@@ -1,6 +1,6 @@
 # Printed pages - Title 32 - National Guard
 
-GPO's 2014 edition (laws in effect as of 2015-01-05), from its printed page marks. The exact position of
+GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title32.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -22,8 +22,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00112 - Drug interdiction and counter-drug activities](Chapter%20001%20-%20Organization/%C2%A7%2000112%20-%20Drug%20interdiction%20and%20counter-drug%20activities.md) | 12–15 |
 | [&sect; 00113 - Federal financial assistance for support of additional duties assigned to the Army National Guard](Chapter%20001%20-%20Organization/%C2%A7%2000113%20-%20Federal%20financial%20assistance%20for%20support%20of%20additional%20duties%20assigned%20to%20the%20Army%20National%20Guard.md) | 15–16 |
 | [&sect; 00114 - Funeral honors functions at funerals for veterans](Chapter%20001%20-%20Organization/%C2%A7%2000114%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | 16 |
-| [&sect; 00115 - Funeral honors duty performed as a Federal function](Chapter%20001%20-%20Organization/%C2%A7%2000115%20-%20Funeral%20honors%20duty%20performed%20as%20a%20Federal%20function.md) | 16 |
-| [Chapter 003 - Personnel](Chapter%20003%20-%20Personnel/README.md) | 16–17 |
+| [&sect; 00115 - Funeral honors duty performed as a Federal function](Chapter%20001%20-%20Organization/%C2%A7%2000115%20-%20Funeral%20honors%20duty%20performed%20as%20a%20Federal%20function.md) | 16–17 |
+| [Chapter 003 - Personnel](Chapter%20003%20-%20Personnel/README.md) | 17 |
 | [&sect; 00301 - Federal recognition of enlisted members](Chapter%20003%20-%20Personnel/%C2%A7%2000301%20-%20Federal%20recognition%20of%20enlisted%20members.md) | 17 |
 | [&sect; 00302 - Enlistments, reenlistments, and extensions](Chapter%20003%20-%20Personnel/%C2%A7%2000302%20-%20Enlistments%2C%20reenlistments%2C%20and%20extensions.md) | 17–18 |
 | [&sect; 00303 - Active and inactive enlistments and transfers](Chapter%20003%20-%20Personnel/%C2%A7%2000303%20-%20Active%20and%20inactive%20enlistments%20and%20transfers.md) | 18 |

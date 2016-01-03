@@ -68,7 +68,7 @@ Appendix 2 of title 5, referred to in subsec. (a)(5), probably means the Federal
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148 added subsec. (a) and struck out former subsec. (a) which related to establishment and purpose of Preventive Services TaskForce, provision of support by Agency, and nonapplicability of provisions of Appendix 2 of title 5.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 added subsec. (a) and struck out former subsec. (a) which related to establishment and purpose of Preventive Services Task Force, provision of support by Agency, and nonapplicability of provisions of Appendix 2 of title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "review of".</i>
 

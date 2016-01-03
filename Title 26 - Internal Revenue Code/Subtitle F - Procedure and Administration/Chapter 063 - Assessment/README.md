@@ -14,7 +14,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–74, title XI, §1101(a), (b)(2), (c)(2), (g), Nov. 2, 2015, 129 Stat. 625, 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:</i>
+
+<i>(1) by striking the item relating to subchapter C;</i>
+
+<i>(2) by striking the item relating to subchapter D; and</i>
+
+<i>(3) by inserting after the item relating to subchapter B the following new item for subchapter C: "Treatment of partnerships".</i>
+
+<i>See 2015 Amendment note below.</i>
+
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–74, title XI, §1101(a), (b)(2), (c)(2), Nov. 2, 2015, 129 Stat. 625, 637, added item for subchapter C and struck out former items for subchapter C "Tax treatment of partnership items" and subchapter D "Treatment of electing large partnerships".
 
 <b>1997</b>—Pub. L. 105–34, title XII, §1222(c), Aug. 5, 1997, 111 Stat. 1019, added item for subchapter D.
 

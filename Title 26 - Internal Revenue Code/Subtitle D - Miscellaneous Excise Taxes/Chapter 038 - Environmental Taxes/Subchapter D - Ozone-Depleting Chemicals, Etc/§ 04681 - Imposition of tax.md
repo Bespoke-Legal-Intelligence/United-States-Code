@@ -82,5 +82,5 @@ No deposits required before april 1, 1990.—No deposit of any tax imposed by su
 
 "(3)
 
-Notification of changes in international agreements.—The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements towhich the United States is a signatory relating to ozone-depleting chemicals."
+Notification of changes in international agreements.—The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements to which the United States is a signatory relating to ozone-depleting chemicals."
 

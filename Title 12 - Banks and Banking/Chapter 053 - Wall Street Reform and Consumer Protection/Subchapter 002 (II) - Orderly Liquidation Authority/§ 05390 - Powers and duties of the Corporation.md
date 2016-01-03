@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;If the Corporation establishes one or more bridge financial companies with respect to a covered broker or dealer, the Corporation shall transfer to one of such bridge financial companies, all customer accounts of the covered broker or dealer, and all associated customer name securities and customer property, unless the Corporation, after consulting with the Commission and SIPC, determines that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the customer accounts, customer name securities, and customer property are likely to be promptly transferred to another broker or dealer that is registered with the Commission under section 78o(b) of title 15 and is a member of SIPC; or
+&emsp;&emsp;&emsp;&emsp;(I) the customer accounts, customer name securities, and customer propertyare likely to be promptly transferred to another broker or dealer that is registered with the Commission under section 78o(b) of title 15 and is a member of SIPC; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the transfer of the accounts to a bridge financial company would materially interfere with the ability of the Corporation to avoid or mitigate serious adverse effects on financial stability or economic conditions in the United States.
 
@@ -190,7 +190,7 @@
 
 #### (B) Allowance of proven claim
 
-&emsp;&emsp;The receiver shall allow any claim received by the receiver on or before the date specified in the notice under paragraph (2)(B)(i), which is proved to the satisfaction of the receiver.
+&emsp;&emsp;The receiver shall allow any claim received by the receiver on or before the date specified in the notice under paragraph\(2)(B)(i), which is proved to the satisfaction of the receiver.
 
 #### (C) Disallowance of claims filed after end of filing period
 
@@ -440,7 +440,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) was engaged in business or a transaction, or was about to engage in business or a transaction, for which any property remaining with the covered financial company was an unreasonably small capital;
 
-&emsp;&emsp;&emsp;&emsp;(III) intended to incur, or believed that the covered financial company would incur, debts that would be beyond the ability of the covered financial company to pay as such debts matured; or
+&emsp;&emsp;&emsp;&emsp;(III) intended to incur, or believed that the covered financial company would incur, debts that would be beyond theability of the covered financial company to pay as such debts matured; or
 
 &emsp;&emsp;&emsp;&emsp;(IV) made such transfer to or for the benefit of an insider, or incurred such obligation to or for the benefit of an insider, under an employment contract and not in the ordinary course of business.
 
@@ -880,7 +880,7 @@
 
 &emsp;&emsp;&emsp;The term "securities contract"—
 
-&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v));
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security,certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v));
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
 
@@ -932,7 +932,7 @@
 
 &emsp;&emsp;&emsp;The term "forward contract" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date that is more than 2 days after the date on which the contract is entered into, including a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproductthereof, with a maturity date that is more than 2 days after the date on which the contract is entered into, including a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a "repurchase agreement", as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) any combination of agreements or transactions referred to in subclauses (I) and (III);
 
@@ -964,7 +964,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
 
-&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement ortransaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
 &emsp;&emsp;&emsp;&emsp;(III) any combination of agreements or transactions referred to in this clause;
 
@@ -1056,7 +1056,7 @@
 
 &emsp;&emsp;In making any transfer of assets or liabilities of a covered financial company in default, which includes any qualified financial contract, the Corporation as receiver for such covered financial company shall either—
 
-&emsp;&emsp;&emsp;(i) transfer to one financial institution, other than a financial institution forwhich a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
+&emsp;&emsp;&emsp;(i) transfer to one financial institution, other than a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
 
 &emsp;&emsp;&emsp;&emsp;(I) all qualified financial contracts between any person or any affiliate of such person and the covered financial company in default;
 
@@ -1066,7 +1066,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) all property securing or any other credit enhancement for any contract described in subclause (I) or any claim described in subclause (II) or (III) under any such contract; or
 
-&emsp;&emsp;&emsp;(ii) transfer none of the qualified financial contracts, claims, property or other credit enhancement referred to in clause (i) (with respect to such person and any affiliate of such person).
+&emsp;&emsp;&emsp;(ii) transfer none of the qualified financial contracts, claims, property or othercredit enhancement referred to in clause (i) (with respect to such person and any affiliate of such person).
 
 #### (B) Transfer to foreign bank, financial institution, or branch or agency thereof
 
@@ -1190,7 +1190,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;For purposes of this paragraph, a bridge financial company shall not be considered to be a third party for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding.
+&emsp;&emsp;For purposes of this paragraph, a bridge financial company shall not be considered tobe a third party for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding.
 
 #### (d) Valuation of claims in default
 
@@ -1242,7 +1242,7 @@ Except as provided in this subchapter, no court may take any action to restrain 
 
 #### (1) In general
 
-&emsp;A director or officer of a covered financial company may be held personally liable formonetary damages in any civil action described in paragraph (2) by, on behalf of, or at the request or direction of the Corporation, which action is prosecuted wholly or partially for the benefit of the Corporation—
+&emsp;A director or officer of a covered financial company may be held personally liable for monetary damages in any civil action described in paragraph (2) by, on behalf of, or at the request or direction of the Corporation, which action is prosecuted wholly or partially for the benefit of the Corporation—
 
 &emsp;&emsp;(A) acting as receiver for such covered financial company;
 
@@ -1310,7 +1310,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (ii) Effective without approval
 
-&emsp;&emsp;&emsp;Any succession to or assumption by a bridge financial company of rights, powers, authorities, or privileges of a coveredfinancial company under clause (i) or otherwise shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
+&emsp;&emsp;&emsp;Any succession to or assumption by a bridge financial company of rights, powers, authorities, or privileges of a covered financial company under clause (i) or otherwise shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
 
 #### (F) Corporate governance and election and designation of body of law
 
@@ -1364,7 +1364,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 &emsp;&emsp;(A) a bridge financial company shall assume, acquire, or succeed to the assets or liabilities of a covered financial company (including the assets or liabilities associated with any trust or custody business) only to the extent that such assets or liabilities are transferred by the Corporation to the bridge financial company in accordance with, and subject to the restrictions set forth in, paragraph (1)(B); and
 
-&emsp;&emsp;(B) a bridge financial company shall not assume, acquire, or succeed to any obligation that a covered financial company for which the Corporation has been appointed receiver may have to any shareholder, member, general partner, limited partner, or other person with an interest in the equity of the covered financial company that arisesas a result of the status of that person having an equity claim in the covered financial company.
+&emsp;&emsp;(B) a bridge financial company shall not assume, acquire, or succeed to any obligation that a covered financial company for which the Corporation has been appointed receiver may have to any shareholder, member, general partner, limited partner, or other person with an interest in the equity of the covered financial company that arises as a result of the status of that person having an equity claim in the covered financial company.
 
 #### (4) Bridge financial company treated as being in default for certain purposes
 
@@ -1476,7 +1476,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (C) Sale of stock
 
-&emsp;&emsp;Following the sale of 80 percent or more of the capital stock of a bridge financial company, as provided in paragraph (13)(C), thecompany shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, the State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
+&emsp;&emsp;Following the sale of 80 percent or more of the capital stock of a bridge financial company, as provided in paragraph (13)(C), the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, the State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
 
 #### (D) Assumption of liabilities and sale of assets
 
@@ -1484,7 +1484,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (E) Amendments to charter
 
-&emsp;&emsp;Following the consummation of a transaction described in subparagraph (A), (B), (C), or (D) of paragraph (13), the charter of the resulting company shall be amended to reflect the termination of bridge financial company status, if appropriate.
+&emsp;&emsp;Following the consummation of a transaction described in subparagraph (A), (B),\(C), or (D) of paragraph (13), the charter of the resulting company shall be amended to reflect the termination of bridge financial company status, if appropriate.
 
 #### (15) Dissolution of bridge financial company
 
@@ -1536,7 +1536,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 #### (E) Qualified financial contracts
 
-&emsp;&emsp;No credit or debt obtained or issued by a bridge financial company may contain terms that impair the rights of a counterparty to a qualified financial contract upon a default by the bridge financial company, other than the priority of such counterparty's unsecured claim (after the exercise of rights) relative to the priority of the bridge financial company's obligations in respect of suchcredit or debt, unless such counterparty consents in writing to any such impairment.
+&emsp;&emsp;No credit or debt obtained or issued by a bridge financial company may contain terms that impair the rights of a counterparty to a qualified financial contract upon a default by the bridge financial company, other than the priority of such counterparty's unsecured claim (after the exercise of rights) relative to the priority of the bridge financial company's obligations in respect of such credit or debt, unless such counterparty consents in writing to any such impairment.
 
 #### (17) Effect on debts and liens
 
@@ -1550,7 +1550,7 @@ If the Corporation has been appointed as receiver for a covered financial compan
 
 #### (1) Time for filing notice of appeal
 
-&emsp;The notice of appeal of any order, whether interlocutory or final, entered in any case brought by the Corporation against a director, officer, employee, agent, attorney, accountant, or appraiser of the covered financial company, or any other person employed by or providing services to a covered financial company, shall be filed not later than 30 days after the date of entry of the order. The hearing of the appeal shall be held not later than 120 days after the date of the notice of appeal. The appeal shall be decided not later than 180 days after the date of the notice of appeal.
+&emsp;The notice of appeal of any order, whether interlocutory or final, entered in any case brought by the Corporation against a director, officer, employee, agent, attorney, accountant, or appraiser of the covered financial company, or any other person employed by or providing services to a covered financial company, shall be filed not later than 30 days after the date of entry of the order. The hearing ofthe appeal shall be held not later than 120 days after the date of the notice of appeal. The appeal shall be decided not later than 180 days after the date of the notice of appeal.
 
 #### (2) Scheduling
 
@@ -1814,7 +1814,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (1) In general
 
-&emsp;No provision described in paragraph (2) shall be enforceable against or impose any liability on any person, as such enforcement or liability shall be contrary to public policy.
+&emsp;No provision described in paragraph (2) shall be enforceable against or impose any liabilityon any person, as such enforcement or liability shall be contrary to public policy.
 
 #### (2) Prohibited provisions
 
@@ -1884,7 +1884,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (1) In general
 
-&emsp;The Corporation, as receiver of a covered financial company, may recover from any current or former senior executive or director substantially responsible for the failed condition of the covered financial company any compensation received during the 2-year period preceding the date on which the Corporation was appointed as the receiver of the covered financial company, except that, in the case of fraud, no time limit shall apply.
+&emsp;The Corporation, as receiver of a covered financial company, may recover from any current or former senior executive or directorsubstantially responsible for the failed condition of the covered financial company any compensation received during the 2-year period preceding the date on which the Corporation was appointed as the receiver of the covered financial company, except that, in the case of fraud, no time limit shall apply.
 
 #### (2) Cost considerations
 

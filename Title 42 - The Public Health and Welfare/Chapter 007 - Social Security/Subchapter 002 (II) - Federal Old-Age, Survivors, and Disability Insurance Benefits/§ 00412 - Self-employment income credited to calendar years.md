@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 110–246, §15352(b)(3)(B), added subsec. (c).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Amendment by section 15352(b)(3) of Pub. L. 110–246 applicable to taxable years beginning after Dec. 31,2007, see section 15352(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
+Amendment by section 15352(b)(3) of Pub. L. 110–246 applicable to taxable years beginning after Dec. 31, 2007, see section 15352(c) of Pub. L. 110–246, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1977 Amendment
 

@@ -56,7 +56,7 @@ Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.
 
 Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–18.
 
-Pub. L. 100–202, §101(e) \[title III\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167,title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
+Pub. L. 100–202, §101(e) \[title III\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, §118, as added by Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
 
 "(a)
 

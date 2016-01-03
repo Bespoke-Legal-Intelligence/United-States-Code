@@ -48,7 +48,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 (c)
 
-Certificate Requirement.—The Secretary may not approve an application for a certificateof public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
+Certificate Requirement.—The Secretary may not approve an application for a certificate of public convenience and necessity under section 41102 of this title unless the applicant has included as part of such application a plan that meets the requirements of subsection (b).
 
 (d)
 

@@ -52,7 +52,7 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 
 (2) The Secretary of the Navy may advance to private salvage companies such funds as the Secretary considers necessary to provide for the immediate financing of salvage operations. Advances under this paragraph shall be made on terms that the Secretary considers adequate for the protection of the United States.
 
-(3) The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
+(3) The Secretary of the Navy shall provide, in each contract for construction or conversion ofa naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
 (h)
 
@@ -202,5 +202,5 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 
 #### Obligations Entered Into Before November 16, 1973
 
-Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: "The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\]."
+Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: "The amendments made by this section \[amending this section and sections 1431, 3816, and 4532 of Title 50, War and National Defense\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\]."
 

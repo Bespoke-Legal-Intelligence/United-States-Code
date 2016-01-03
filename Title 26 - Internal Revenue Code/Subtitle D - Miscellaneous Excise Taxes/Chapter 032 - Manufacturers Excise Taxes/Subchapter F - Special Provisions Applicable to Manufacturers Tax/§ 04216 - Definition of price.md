@@ -122,7 +122,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is broadcast over a radio station or television station, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§1, 2, 69 Stat. 613; Pub. L. 85–859, title I, §§115, 116, 117(b), Sept. 2, 1958, 72 Stat. 1279–1281; Pub. L. 86–781, §1, Sept. 14, 1960, 74 Stat. 1017; Pub. L. 87–770, §2(a), Oct. 9, 1962, 76 Stat. 768; Pub. L. 87–858, §1(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 89–44, title II, §§207(a), (b), 208(a), (b), title VIII, §801(b), June 21, 1965, 79 Stat. 140, 141, 158; Pub. L. 91–172, title IX, §932(a), Dec. 30, 1969, 83 Stat. 725; Pub. L. 91–614, title III, §301(a), (b), Dec. 31, 1970, 84 Stat. 1844; Pub. L. 92–178, title IV, §401(g)(4), Dec. 10, 1971, 85 Stat. 533; Pub. L.94–455, title XIX, §§1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 95–458, §1(a), (b), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 98–369, div. A, title VII, §735(c)(6), July 18, 1984, 98 Stat. 982.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§1, 2, 69 Stat. 613; Pub. L. 85–859, title I, §§115, 116, 117(b), Sept. 2, 1958, 72 Stat. 1279–1281; Pub. L. 86–781, §1, Sept. 14, 1960, 74 Stat. 1017; Pub. L. 87–770, §2(a), Oct. 9, 1962, 76 Stat. 768; Pub. L. 87–858, §1(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 89–44, title II, §§207(a), (b), 208(a), (b), title VIII, §801(b), June 21, 1965, 79 Stat. 140, 141, 158; Pub. L. 91–172, title IX, §932(a), Dec. 30, 1969, 83 Stat. 725; Pub. L. 91–614, title III, §301(a), (b), Dec. 31, 1970, 84 Stat. 1844; Pub. L. 92–178, title IV, §401(g)(4), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–455, title XIX, §§1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 95–458, §1(a), (b), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 98–369, div. A, title VII, §735(c)(6), July 18, 1984, 98 Stat. 982.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Subsec. (b). Pub. L. 94–455, §§1904(a)(2)(B), 1906(b)(13)(A), struck out "or
 
 Subsecs. (d) to (g). Pub. L. 94–455, §1904(a)(2)(A), redesignated subsecs. (e) to (g) as (d) to (f), respectively.
 
-<b>1971</b>—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted "(relating to trucks, buses, tractor, etc.)" for "(relating to automobiles, trucks, etc.)".
+<b>1971</b>—Subsec. (b)(2)(C), (5). Pub. L. 92–178, §401(g)(4)(A), substituted "(relating to trucks, buses,tractor, etc.)" for "(relating to automobiles, trucks, etc.)".
 
 Subsec. (g). Pub. L. 92–178, §401(g)(4)(B), inserted reference to "tractors," after "buses,".
 
@@ -224,7 +224,7 @@ Pub. L. 87–770, §2(b), Oct. 9, 1962, 76 Stat. 768, provided that: "The amendm
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–781, §3, Sept. 14, 1960, 74 Stat. 1018, provided that: "The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\]."
+Pub. L. 86–781, §3, Sept. 14, 1960, 74 Stat. 1018, provided that: "The amendments made by this Act \[amending this section and section 6416 of this title\] shall applywith respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\]."
 
 #### Effective Date of 1958 Amendment
 

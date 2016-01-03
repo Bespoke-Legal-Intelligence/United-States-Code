@@ -46,7 +46,7 @@ Historical and Revision Notes
 
 Nov. 4, 1992, Pub. L. 102–588, §505(e), 106 Stat. 5126.
 
-In subsection (a), the words "policy of the United States" are substituted for "national policy", and thewords "of the United States" are substituted for "of the Nation", for consistency. The words "included in a project grant application" and "full and" are omitted as surplus.
+In subsection (a), the words "policy of the United States" are substituted for "national policy", and the words "of the United States" are substituted for "of the Nation", for consistency. The words "included in a project grant application" and "full and" are omitted as surplus.
 
 In subsection (b), the words "of objectives" are omitted as surplus.
 

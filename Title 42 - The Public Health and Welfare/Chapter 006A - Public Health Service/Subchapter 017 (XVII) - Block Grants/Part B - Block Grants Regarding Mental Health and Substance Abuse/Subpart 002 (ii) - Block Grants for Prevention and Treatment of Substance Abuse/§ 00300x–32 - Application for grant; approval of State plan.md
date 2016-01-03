@@ -24,7 +24,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (1) In general
 
-&emsp;A plan submitted by a State under subsection (a)(6) of this section is in accordance with this subsection if the plan contains detailed provisions for complying with each funding agreement for a grant under section 300x–21 of this title that is applicable to the State, including a description of the manner in which the State intends to expend the grant.
+&emsp;A plan submitted by a State under subsection (a)(6) of this section is in accordancewith this subsection if the plan contains detailed provisions for complying with each funding agreement for a grant under section 300x–21 of this title that is applicable to the State, including a description of the manner in which the State intends to expend the grant.
 
 #### (2) Authority of Secretary regarding modifications
 

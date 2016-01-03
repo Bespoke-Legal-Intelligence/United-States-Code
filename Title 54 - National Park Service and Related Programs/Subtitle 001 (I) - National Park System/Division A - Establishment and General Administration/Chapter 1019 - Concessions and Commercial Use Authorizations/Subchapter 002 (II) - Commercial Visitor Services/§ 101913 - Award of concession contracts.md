@@ -62,7 +62,9 @@ Rejection of proposal.—The Secretary shall reject any proposal, regardless of 
 
 &emsp;&emsp;(C)
 
-All proposals fail to meet mimimum <sup>1</sup> requirements or are rejected.—If all proposals submitted to the Secretary fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
+All proposals fail to meet mimimum <sup>1</sup>
+
+requirements or are rejected.—If all proposals submitted to the Secretary fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
 
 &emsp;&emsp;(D)
 

@@ -16,5 +16,5 @@ The purposes of this Act are—
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-GonzalezNational Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in text, is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 

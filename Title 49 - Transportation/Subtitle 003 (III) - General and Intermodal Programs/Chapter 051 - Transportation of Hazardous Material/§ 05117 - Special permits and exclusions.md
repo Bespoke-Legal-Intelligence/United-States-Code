@@ -12,11 +12,11 @@ Authority To Issue Special Permits.—(1) As provided under procedures prescribe
 
 (b)
 
-Applications.—When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. This subsection does not require the release of information protected by law from public disclosure.
+Applications.—When applying for a special permit or renewal of a special permit under thissection, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
 
 (c)
 
-Applications To Be Dealt With Promptly.—The Secretary shall issue or renew the special permit for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the special permit is delayed, along with an estimate of the additional time necessary before the decision is made.
+Applications To Be Dealt With Promptly.—The Secretary shall issue or renew a special permit or approval for which an application was filed or deny such issuance or renewal within 120 days after the first day of the month following the date of the filing of such application, or the Secretary shall make available to the public a statement of the reason why the Secretary's decision on a special permit or approval is delayed, along with an estimate of the additional time necessary before the decision is made.
 
 (d)
 
@@ -62,7 +62,15 @@ Factors.—In conducting the review and analysis under paragraph (1), the Secret
 
 Rulemaking.—After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary's justification for why the special permit is not appropriate for incorporation into the regulations.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108 Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909; Pub. L. 112–141, div. C, title III, §33012(c), July 6, 2012, 126 Stat. 839.)
+(g)
+
+Disclosure of Final Action.—The Secretary shall periodically, but at least every 120 days—
+
+&emsp;(1) publish in the Federal Register notice of the final disposition of each application for a new special permit, modification to an existing special permit, or approval during the preceding quarter; and
+
+&emsp;(2) make available to the public on the Department of Transportation's Internet Web site notice of the final disposition of any other special permit during the preceding quarter.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 776; Pub. L. 103–311, title I, §120(a), Aug. 26, 1994, 108 Stat. 1680; Pub. L. 109–59, title VII, §§7115(a)(1), (b)–(g), 7126, Aug. 10, 2005, 119 Stat. 1901, 1909; Pub. L. 112–141, div. C, title III, §33012(c), July 6, 2012, 126 Stat. 839; Pub. L. 114–94, div. A, title VII, §7204, Dec. 4, 2015, 129 Stat. 1592.)
 
 Historical and Revision Notes
 
@@ -104,7 +112,7 @@ In subsection (b), the words "upon application" and "grant of such" are omitted 
 
 In subsection (c)(1), clauses (A) and (B) are substituted for "any vessel which is excepted from the application of section 201 of the Ports and Waterways Safety Act of 1972 by paragraph (2) of such section". Section 201 of that Act amended section 4417a of the Revised Statutes (classified at 46:391a prior to its repeal and reenactment as part of the codification of subtitle II of title 46 in 1983). Clauses (A) and (B) restate the exceptions provided by section 201 of that Act and by section 4417a of the Revised Statutes as subsequently amended. Clause (C) is substituted for "any other vessel regulated under such Act, to the extent of such regulation" because of the restatement.
 
-In subsection (c)(2), before clause (A), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(2), before clause (A), the word "prescribed" is substituted for "issued" for consistency inthe revised title and with other titles of the United States Code.
 
 In subsection (d), the words "by which", "the requirements of", and "or relieved of the obligation to meet any requirements imposed under" are omitted as surplus.
 
@@ -113,6 +121,12 @@ In subsection (d), the words "by which", "the requirements of", and "or relieved
 The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, as amended, which is classified generally to chapter 25 (§1221 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1221 of Title 33 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–94, §7204(1), substituted "an application for a new special permit or a modification to an existing special permit" for "an application for a special permit" and inserted "The Secretary shall make available to the public on the Department of Transportation's Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days." before "This subsection".
+
+Subsec. (c). Pub. L. 114–94, §7204(2), substituted "a special permit or approval" for "the special permit" in two places, "120 days" for "180 days", and "make available to the public" for "publish", and struck out "in the Federal Register" after "a statement".
+
+Subsec. (g). Pub. L. 114–94, §7204(3), added subsec. (g).
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–141 added subsec. (f).
 
@@ -133,6 +147,10 @@ Subsec. (c). Pub. L. 109–59, §7115(f), substituted "the special permit" for "
 Subsec. (e). Pub. L. 109–59, §7115(g), substituted "a special permit" for "an exemption" and "be granted a variance" for "be exempt".
 
 <b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

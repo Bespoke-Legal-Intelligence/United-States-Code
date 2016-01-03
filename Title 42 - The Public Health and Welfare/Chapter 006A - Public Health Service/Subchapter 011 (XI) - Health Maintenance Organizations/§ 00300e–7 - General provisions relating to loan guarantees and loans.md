@@ -50,7 +50,7 @@ There is established in the Treasury a loan fund (hereinafter in this subsection
 
 The Secretary may take such action as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this subchapter, including taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
-(July 1, 1944, ch. 373, title XIII, §1308, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 927; amended Pub. L. 94–460, title I, §109(b)(2), (c), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §4(c), Nov. 1, 1978, 92 Stat. 2132; Pub. L. 97–35, title IX, §945, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–514, §2,Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §807, Nov. 14, 1986, 100 Stat. 3800.)
+(July 1, 1944, ch. 373, title XIII, §1308, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 927; amended Pub. L. 94–460, title I, §109(b)(2), (c), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §4(c), Nov. 1, 1978, 92 Stat. 2132; Pub. L. 97–35, title IX, §945, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §807, Nov. 14, 1986, 100 Stat. 3800.)
 
 #### Codification
 

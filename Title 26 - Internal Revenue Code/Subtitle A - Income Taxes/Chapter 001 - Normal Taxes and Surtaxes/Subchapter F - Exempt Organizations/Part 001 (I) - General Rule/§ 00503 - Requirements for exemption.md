@@ -48,7 +48,7 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 &emsp;(2) immediately following acquisition of such obligation—
 
-&emsp;&emsp;(A) not more than 25 percent of the aggregate amount of obligations issued in suchissue and outstanding at the time of acquisition is held by the trust, and
+&emsp;&emsp;(A) not more than 25 percent of the aggregate amount of obligations issued in such issue and outstanding at the time of acquisition is held by the trust, and
 
 &emsp;&emsp;(B) at least 50 percent of the aggregate amount referred to in subparagraph (A) is held by persons independent of the issuer; and
 
@@ -56,7 +56,7 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 #### (f) Loans with respect to which employers are prohibited from pledging certain assets
 
-Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) to the employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
+Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) tothe employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
 
 &emsp;(1) the employer is prohibited (at the time of such making or renewal) by any law of the United States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
 
@@ -78,9 +78,9 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 "(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969."
 
-Subsec. (a)(2). Pub. L. 113–295, §221(a)(63)(B), which directed amendment of par. (2) by substituting "described in paragraph (1)" for "described in section 501(c)(17) or (18) or paragraph (a)(1)(B)", was executed by making the substitution for "described in section 501(c) (17) or (18) or paragraph (1)(B)" to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 113–295, §221(a)(63)(B), which directed amendment of par. (2) by substituting "described in paragraph (1)" for "described in section 501(c)(17) or (18) or paragraph (a)(1)(B)", was executed by making the substitution for "described in section 501(c)(17) or (18) or paragraph (1)(B)" to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 113–295, §221(a)(63)(C), which directed amendment of subsec. (c) by substituting "described in subsection (a)(1)" for "described in section 501(c)(17) or (18) or subsection (a)(1)(B)", was executed by making the substitution for "described in section 501(c) (17) or (18) or subsection (a)(1)(B)" to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 113–295, §221(a)(63)(C), substituted "described in subsection (a)(1)" for "described in section 501(c)(17) or (18) or subsection (a)(1)(B)".
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) "Special rule for loans" which read as follows: "For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 

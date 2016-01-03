@@ -10,5 +10,5 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 #### Codification
 
-Section was enacted as part of the Department of State Authorization Act, Fiscal Years 1984 and 1985, and not as part of the War Powers Resolution which comprises this chapter.
+Section was enacted as part of the Department of State Authorization Act, Fiscal Years 1984 and 1985,and not as part of the War Powers Resolution which comprises this chapter.
 

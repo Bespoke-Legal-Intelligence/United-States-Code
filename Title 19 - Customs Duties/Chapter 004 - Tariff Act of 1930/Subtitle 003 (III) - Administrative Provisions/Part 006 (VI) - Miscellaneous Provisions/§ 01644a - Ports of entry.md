@@ -34,7 +34,7 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 #### (d) Remission and mitigation of penalties
 
-A decision to remit or mitigate a civil penalty under this section is final. When libel proceedings are pending during a proceeding to remit ormitigate a penalty, the appropriate Secretary shall notify the Attorney General of the remission or mitigation proceeding.
+A decision to remit or mitigate a civil penalty under this section is final. When libel proceedings are pending during a proceeding to remit or mitigate a penalty, the appropriate Secretary shall notify the Attorney General of the remission or mitigation proceeding.
 
 #### (e) Summary seizure of aircraft
 

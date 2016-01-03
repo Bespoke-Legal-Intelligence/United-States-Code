@@ -52,7 +52,7 @@ Enterprise Architecture, Agency Plans and Reports.—This section shall be carri
 
 #### Report to Congress
 
-Pub. L. 108–405, title II, §203(f), Oct. 30, 2004, 118 Stat. 2271, provided that: "If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate and the Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change."
+Pub. L. 108–405, title II, §203(f), Oct. 30, 2004, 118 Stat. 2271, provided that: "If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate andthe Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change."
 
 #### Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
 

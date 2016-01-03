@@ -22,7 +22,7 @@
 
 #### (A) Parents
 
-&emsp;&emsp;Not less than 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
+&emsp;&emsp;Not less than 20 percent of the members shall be parents of infants or toddlers withdisabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
 
 #### (B) Service providers
 

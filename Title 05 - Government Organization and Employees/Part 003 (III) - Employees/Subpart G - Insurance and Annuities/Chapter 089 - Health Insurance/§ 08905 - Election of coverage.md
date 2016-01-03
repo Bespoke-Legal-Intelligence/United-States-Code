@@ -60,7 +60,7 @@
 
 (2) In addition to any opportunity afforded under paragraph (1) of this subsection, an employee, annuitant, former spouse, or person having continued coverage under section 8905a of this title enrolled in a health benefits plan under this chapter shall be permitted to transfer that individual's enrollment to another such plan, or to cancel such enrollment, at such other times and subject to such conditions as the Office may prescribe in regulations.
 
-(3)(A) In addition to any informational requirements otherwise applicable under thischapter, the regulations shall include provisions to ensure that each employee eligible to enroll in a health benefits plan under this chapter (whether actually enrolled or not) is notified in writing as to the rights afforded under section 8905a of this title.
+(3)(A) In addition to any informational requirements otherwise applicable under this chapter, the regulations shall include provisions to ensure that each employee eligible to enroll in a health benefits plan under this chapter (whether actually enrolled or not) is notified in writing as to the rights afforded under section 8905a of this title.
 
 (B) Notification under this paragraph shall be provided by employing agencies at an appropriate point in time before each period under paragraph (1) so that employees may be aware of their rights under section 8905a of this title when making enrollment decisions during such period.
 
@@ -106,7 +106,7 @@ Subsec. (c)(2). Pub. L. 113–67, §706(a)(2)(B)(i), inserted "for self plus one
 
 Subsec. (c)(2)(B). Pub. L. 113–67, §706(a)(2)(B)(ii), inserted "(or, in the case of self plus one coverage, not more than 1 such child)" after "adopted children".
 
-Subsec. (e). Pub. L. 113–67, §706(a)(3), substituted "or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollmentof the other spouse" for "or each spouse may enroll as an individual".
+Subsec. (e). Pub. L. 113–67, §706(a)(3), substituted "or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse" for "or each spouse may enroll as an individual".
 
 Subsec. (h). Pub. L. 113–67, §706(a)(4)(A)–(C), substituted "self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order," for "self and family enrollment", "1 or more children" for "a child", and "the child or children reside" for "the child resides" wherever appearing.
 

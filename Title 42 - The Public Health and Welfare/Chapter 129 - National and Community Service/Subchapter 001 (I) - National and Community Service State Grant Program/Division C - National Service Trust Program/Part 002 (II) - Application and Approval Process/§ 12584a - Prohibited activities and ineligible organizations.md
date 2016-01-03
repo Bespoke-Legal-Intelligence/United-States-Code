@@ -42,7 +42,7 @@ No assistance provided under this division may be provided to any organization t
 
 #### (c) Nondisplacement of employed workers or other volunteers
 
-A participant in an approved national service position under this division may not be directed to perform any services or duties, or to engage in any activities, prohibited under the nonduplication, nondisplacement, or nonsupplantation requirements relating to employees and volunteers in section 12637 of this title.
+A participant in an approved national service position under this division may not be directedto perform any services or duties, or to engage in any activities, prohibited under the nonduplication, nondisplacement, or nonsupplantation requirements relating to employees and volunteers in section 12637 of this title.
 
 (Pub. L. 101–610, title I, §132A, as added Pub. L. 111–13, title I, §1310, Apr. 21, 2009, 123 Stat. 1507.)
 

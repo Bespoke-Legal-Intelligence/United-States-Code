@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in section 5584 of this title, all employees of the Office of Thrift Supervision shall be transferred to the Office of the Comptroller of the Currency or theCorporation for employment in accordance with this section.
+&emsp;&emsp;Except as provided in section 5584 of this title, all employees of the Office of Thrift Supervision shall be transferred to the Office of the Comptroller of the Currency or the Corporation for employment in accordance with this section.
 
 #### (B) Allocating employees for transfer to receiving agencies
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any appointment authority of the Office of Thrift Supervision under Federal law that relates to the functions transferred under section 5412 of this title, including the regulations of the Office of Personnel Management, for filling the positions of employees in the excepted service shall be transferred to the Comptroller of the Currency or the Chairperson of the Corporation, as appropriate.
+&emsp;&emsp;Except as provided in subparagraph (B), any appointment authority of the Office of Thrift Supervision under Federal law that relates to the functions transferred under section 5412 of this title, including the regulations of the Office of Personnel Management, for filling the positions of employees in the excepted service shall be transferred to the Comptroller of the Currency or theChairperson of the Corporation, as appropriate.
 
 #### (B) Declining transfers allowed
 
@@ -100,7 +100,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (1) 30-month protection
 
-&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
+&emsp;Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have beenreduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
 
 #### (2) Exceptions
 
@@ -160,7 +160,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (C) Long term care insurance after 1st year
 
-&emsp;&emsp;If, after the 1-year period beginning on the transfer date, the Office of the Comptrollerof the Currency or the Corporation determines that the Office of the Comptroller of the Currency or the Corporation, as appropriate, will not continue to participate in any long term care insurance program of an agency from which an employee transferred, a transferred employee who is a member of such a program may, before the decision takes effect, elect to apply for coverage under the Federal Long Term Care Insurance Program established under chapter 90 of title 5 under the underwriting requirements applicable to a new active workforce member, as described in part 875 of title 5, Code of Federal Regulations (or any successor thereto).
+&emsp;&emsp;If, after the 1-year period beginning on the transfer date, the Office of the Comptroller of the Currency or the Corporation determines that the Office of the Comptroller of the Currency or the Corporation, as appropriate, will not continue to participate in any long term care insurance program of an agency from which an employee transferred, a transferred employee who is a member of such a program may, before the decision takes effect, elect to apply for coverage under the Federal Long Term Care Insurance Program established under chapter 90 of title 5 under the underwriting requirements applicable to a new active workforce member, as described in part 875 of title 5, Code of Federal Regulations (or any successor thereto).
 
 #### (D) Contribution of transferred employee
 
@@ -174,7 +174,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (iii) Funds transfer
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case maybe, shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
 
 #### (E) Special provisions to ensure continuation of life insurance benefits
 

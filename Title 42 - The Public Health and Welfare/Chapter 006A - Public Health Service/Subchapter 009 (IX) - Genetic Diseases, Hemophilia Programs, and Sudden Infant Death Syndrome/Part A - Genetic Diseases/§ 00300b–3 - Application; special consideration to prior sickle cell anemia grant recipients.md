@@ -14,13 +14,13 @@ A grant or contract under this part may be made upon application submitted to th
 
 #### (b) Considerations for grants and contracts under section 300b–1 of this title
 
-In making grants and entering into contracts for any fiscal year under section 241 of this title for projects described in section 300b–1 of this title the Secretary shall give special consideration to applications from entities that received grants from, or entered into contracts with, the Secretary for the preceding fiscal year for theconduct of comprehensive sickle cell centers or sickle cell screening and education clinics.
+In making grants and entering into contracts for any fiscal year under section 241 of this title for projects described in section 300b–1 of this title the Secretary shall give special consideration to applications from entities that received grants from, or entered into contracts with, the Secretary for the preceding fiscal year for the conduct of comprehensive sickle cell centers or sickle cell screening and education clinics.
 
 (July 1, 1944, ch. 373, title XI, §1104, as added Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 408; amended Pub. L. 95–626, title II, §205(c), Nov. 10, 1978, 92 Stat. 3584; Pub. L. 97–35, title XXI, §2193(b)(2), (3), Aug. 13, 1981, 95 Stat. 827.)
 
 #### Prior Provisions
 
-A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treated person, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
+A prior section 300b–3, act July 1, 1944, ch. 373, title XI, §1104, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, authorized grants to be made upon application to Secretary and required supervision of programs by applicant, confidentiality of test results, medical records and other information obtained from treatedperson, community representation in programs, assurances by applicant that priority will be given to persons of child bearing years, and demonstration by applicant of proper fiscal control and accounting procedures, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
 
 #### Amendments
 

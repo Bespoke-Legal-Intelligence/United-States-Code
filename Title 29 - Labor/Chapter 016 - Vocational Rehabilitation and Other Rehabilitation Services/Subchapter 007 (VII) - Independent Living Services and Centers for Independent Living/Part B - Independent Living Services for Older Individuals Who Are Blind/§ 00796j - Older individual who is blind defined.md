@@ -6,5 +6,5 @@ For purposes of this part, the term "older individual who is blind" means an ind
 
 #### Prior Provisions
 
-A prior section 796j, Pub. L. 93–112, title VII, §751, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4464, defined "older individual who is blind", priorto the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 796j, Pub. L. 93–112, title VII, §751, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4464, defined "older individual who is blind", prior to the general amendment of this subchapter by Pub. L. 105–220.
 

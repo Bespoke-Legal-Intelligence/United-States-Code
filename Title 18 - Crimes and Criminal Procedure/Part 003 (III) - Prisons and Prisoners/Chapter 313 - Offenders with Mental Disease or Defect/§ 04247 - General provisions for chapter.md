@@ -26,7 +26,7 @@ Definitions.—As used in this chapter—
 
 (b)
 
-Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of anexamination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
+Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245, 4246, or 4248, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, 4246, or 4248, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, 4246, or 4248, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
 (c)
 
@@ -84,7 +84,7 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 &emsp;(A) may contract with a State, a political subdivision, a locality, or a private agency for the confinement, hospitalization, care, or treatment of, or the provision of services to, a person committed to his custody pursuant to this chapter;
 
-&emsp;(B) may apply for the civil commitment, pursuant to State law, of a person committedto his custody pursuant to section 4243, 4246, or 4248;
+&emsp;(B) may apply for the civil commitment, pursuant to State law, of a person committed to his custody pursuant to section 4243, 4246, or 4248;
 
 &emsp;(C) shall, before placing a person in a facility pursuant to the provisions of section 4241, 4243, 4244, 4245, 4246, or 4248, consider the suitability of the facility's rehabilitation programs in meeting the needs of the person; and
 

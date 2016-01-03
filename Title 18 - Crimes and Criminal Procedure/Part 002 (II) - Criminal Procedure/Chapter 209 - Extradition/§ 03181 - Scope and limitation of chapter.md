@@ -96,7 +96,7 @@ International tribunal for yugoslavia.—The term 'International Tribunal for Yu
 
 &emsp;"(2)
 
-International tribunal for rwanda.—The term 'International Tribunal for Rwanda' means theInternational Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
+International tribunal for rwanda.—The term 'International Tribunal for Rwanda' means the International Tribunal for the Prosecution of Persons Responsible for Genocide and Other Serious Violations of International Humanitarian Law Committed in the Territory of Rwanda and Rwandan Citizens Responsible for Genocide and Other Such Violations Committed in the Territory of Neighboring States, as established by United Nations Security Council Resolution 955 of November 8, 1994.
 
 &emsp;"(3)
 

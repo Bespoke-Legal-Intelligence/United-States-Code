@@ -32,7 +32,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (C) Appointment process for industry representatives
 
-&emsp;&emsp;The Secretary shall appoint 3 peanut industry representatives from each of the 3peanut producing regions in the United States.
+&emsp;&emsp;The Secretary shall appoint 3 peanut industry representatives from each of the 3 peanut producing regions in the United States.
 
 #### (3) Terms
 

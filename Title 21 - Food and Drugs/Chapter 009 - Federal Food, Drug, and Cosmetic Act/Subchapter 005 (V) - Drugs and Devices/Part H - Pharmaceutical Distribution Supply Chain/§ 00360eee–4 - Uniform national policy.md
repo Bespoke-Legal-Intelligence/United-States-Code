@@ -30,7 +30,7 @@ Beginning on November 27, 2013, no State or political subdivision of a State may
 
 &emsp;&emsp;(B) may provide for the suspension or revocation of licenses issued by the State for violations of the laws of such State;
 
-&emsp;&emsp;(C) upon conviction of violations of Federal, State, or local drug laws or regulations,may provide for fines, imprisonment, or civil penalties; and
+&emsp;&emsp;(C) upon conviction of violations of Federal, State, or local drug laws or regulations, may provide for fines, imprisonment, or civil penalties; and
 
 &emsp;&emsp;(D) may regulate activities of licensed entities in a manner that is consistent with product tracing requirements under section 360eee–1 of this title.
 

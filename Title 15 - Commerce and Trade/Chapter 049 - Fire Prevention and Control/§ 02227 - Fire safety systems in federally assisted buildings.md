@@ -42,9 +42,9 @@ For purposes of this section, the following definitions apply:
 
 #### (b) Federal employee office buildings
 
-(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee officebuilding unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
+(1)(A) No Federal funds may be used for the construction or purchase of a Federal employee office building of 6 or more stories unless during the period of occupancy by Federal employees the building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the construction or purchase of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the building are protected by automatic sprinkler systems or an equivalent level of safety.
 
-(B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federal employees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
+(B)(i) Except as provided in clause (ii), no Federal funds may be used for the lease of a Federal employee office building of 6 or more stories, where at least some portion of the federally leased space is on the sixth floor or above and at least 35,000 square feet of space is federally occupied, unless during the period of occupancy by Federal employees the entire Federal employee office building is protected by an automatic sprinkler system or equivalent level of safety. No Federal funds may be used for the lease of any other Federal employee office building unless during the period of occupancy by Federalemployees the hazardous areas of the entire Federal employee office building are protected by automatic sprinkler systems or an equivalent level of safety.
 
 (ii) The first sentence of clause (i) shall not apply to the lease of a building the construction of which is completed before October 26, 1992, if the leasing agency certifies that no suitable building with automatic sprinkler systems or an equivalent level of safety is available at an affordable cost.
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(II) for which (a) housing assistance is used for such new construction, or (b) a binding commitment is made, before commencement of such construction, to provide housing assistance for the newly constructed property.
 
-(iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to providehousing assistance for the new construction of the property or for the newly constructed property.
+(iii) Clause (i) shall not apply to any multifamily property for which, before October 26, 1992, a binding commitment is made to provide housing assistance for the new construction of the property or for the newly constructed property.
 
 (B)(i) Except as provided in clause (ii), housing assistance may not be used in connection with any rebuilt multifamily property, unless after the rebuilding the multifamily property complies with the chapter on existing apartment buildings of National Fire Protection Association Standard 101 (known as the Life Safety Code) or any successor standard to that standard, as in effect at the earlier of (I) the time of any approval by the Department of Housing and Urban Development of the specific plan or budget for rebuilding, or (II) the time that a binding commitment is made to provide housing assistance for the rebuilt property.
 
@@ -124,7 +124,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (1) Within 3 years after October 26, 1992, and every 3 years thereafter, the Administrator of General Services shall transmit to Congress a report on the level of fire safety in Federal employee office buildings subject to fire safety requirements under this section. Such report shall contain a description of such buildings for each Federal agency.
 
-(2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) of this section and on plans for continuing such implementation.
+(2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) and on plans for continuing such implementation.
 
 (3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
@@ -138,7 +138,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
-(Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108Stat. 682; Pub. L. 104–316, title I, §107, Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–108, §3(4), (5), Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108 Stat. 682; Pub. L. 104–316, title I, §107, Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–108, §3(4), (5), Nov. 20, 1997, 111 Stat. 2264.)
 
 #### References in Text
 

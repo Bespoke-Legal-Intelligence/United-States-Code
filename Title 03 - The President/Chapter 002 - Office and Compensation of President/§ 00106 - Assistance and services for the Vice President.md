@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
 
-&emsp;&emsp;(D) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5; and
+&emsp;&emsp;(D) such number of other employees as he may determine to be appropriate at ratesnot to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5; and
 
 &emsp;(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
 

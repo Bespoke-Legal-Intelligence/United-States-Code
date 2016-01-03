@@ -36,7 +36,7 @@
 | [<b>27.</b>](Chapter%20027%20-%20Women%20in%20Apprenticeship%20and%20Nontraditional%20Occupations/README.md) | <b>Women in Apprenticeship and Nontraditional Occupations</b> | <b>2501</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Family%20and%20Medical%20Leave/README.md) | <b>Family and Medical Leave</b> | <b>2601</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Workers%20Technology%20Skill%20Development/README.md) | <b>Workers Technology Skill Development</b> | <b>2701</b> |
-| [<b>30.</b>](Chapter%20030%20-%20Workforce%20Investment%20Systems/README.md) | <b>Workforce Investment Systems</b> | <b>2801</b> |
+| [<b>30.</b>](Chapter%20030%20-%20Workforce%20Investment%20Systems/README.md) | <b>Workforce Investment Systems \[Repealed, Transferred, or Omitted\]</b> | <b>2801</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Assistive%20Technology%20for%20Individuals%20with%20Disabilities/README.md) | <b>Assistive Technology for Individuals With Disabilities</b> | <b>3001</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Workforce%20Innovation%20and%20Opportunity/README.md) | <b>Workforce Innovation and Opportunity</b> | <b>3101</b> |
 

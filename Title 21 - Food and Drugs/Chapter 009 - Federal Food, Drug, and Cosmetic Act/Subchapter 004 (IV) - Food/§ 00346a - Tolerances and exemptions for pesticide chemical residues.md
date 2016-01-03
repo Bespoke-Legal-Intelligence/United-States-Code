@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2) or (3), any pesticide chemical residue in or on a foodshall be deemed unsafe for the purpose of section 342(a)(2)(B) of this title unless—
+&emsp;Except as provided in paragraph (2) or (3), any pesticide chemical residue in or on a food shall be deemed unsafe for the purpose of section 342(a)(2)(B) of this title unless—
 
 &emsp;&emsp;(A) a tolerance for such pesticide chemical residue in or on such food is in effect under this section and the quantity of the residue is within the limits of the tolerance; or
 
@@ -36,7 +36,7 @@
 
 #### (4) Effect of tolerance or exemption
 
-&emsp;While a tolerance or exemption from the requirement for a tolerance is in effect under this section for a pesticide chemical residue with respect to any food, the food shall not by reason of bearing or containing any amount of such a residue be considered to be adulterated within the meaning of section 342(a)(1) of this title.
+&emsp;While a tolerance or exemption from the requirement for a tolerance is in effect underthis section for a pesticide chemical residue with respect to any food, the food shall not by reason of bearing or containing any amount of such a residue be considered to be adulterated within the meaning of section 342(a)(1) of this title.
 
 #### (b) Authority and standard for tolerance
 
@@ -70,7 +70,7 @@
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;As used in this subparagraph, the term "eligible pesticide chemical residue"means a pesticide chemical residue as to which—
+&emsp;&emsp;&emsp;As used in this subparagraph, the term "eligible pesticide chemical residue" means a pesticide chemical residue as to which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Administrator is not able to identify a level of exposure to the residue at which the residue will not cause or contribute to a known or anticipated harm to human health (referred to in this section as a "nonthreshold effect");
 
@@ -160,7 +160,7 @@
 
 #### (ii) Requirement
 
-&emsp;&emsp;&emsp;If the Administrator relies on anticipated or actual residue levels in establishing, modifying, or leaving in effect a tolerance, the Administrator shall pursuant to subsection (f)(1) of this section require that data be provided five years after the date on which the tolerance is established, modified, or left in effect, and thereafter as the Administrator deems appropriate, demonstrating that such residue levels are not above the levels so relied on. If such data are not so provided, or if the data do not demonstrate that the residue levels are not above the levels so relied on, the Administrator shall, not later than 180 days after the date on which the data were required to be provided, issue a regulation under subsection (e)(1) of this section, or an order under subsection (f)(2) of this section, as appropriate, to modify or revoke the tolerance.
+&emsp;&emsp;&emsp;If the Administrator relies on anticipated or actual residue levels in establishing, modifying, or leaving in effect a tolerance, the Administrator shall pursuant to subsection (f)(1) of this section require that data be provided five years after the date on which the tolerance is established, modified, or left in effect, and thereafter as the Administrator deems appropriate, demonstrating that such residue levels are not above the levels so relied on. If such data are not so provided, or if the data do not demonstrate that the residue levels are not above the levels so relied on, the Administrator shall, not later than 180 days after the date on which the data were required to be provided, issue a regulationunder subsection (e)(1) of this section, or an order under subsection (f)(2) of this section, as appropriate, to modify or revoke the tolerance.
 
 #### (F) Percent of food actually treated
 
@@ -186,7 +186,7 @@
 
 #### (4) International standards
 
-&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximumresidue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticide chemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
+&emsp;In establishing a tolerance for a pesticide chemical residue in or on a food, the Administrator shall determine whether a maximum residue level for the pesticide chemical has been established by the Codex Alimentarius Commission. If a Codex maximum residue level has been established for the pesticide chemical and the Administrator does not propose to adopt the Codex level, the Administrator shall publish for public comment a notice explaining the reasons for departing from the Codex level.
 
 #### (c) Authority and standard for exemptions
 
@@ -300,7 +300,7 @@
 
 #### (ii) Required determinations
 
-&emsp;&emsp;&emsp;If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determine whether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) of this section continues to exist with respect to a tolerance that has been left in effect or modified under subsection (b)(2)(B) of this section. If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
+&emsp;&emsp;&emsp;If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determinewhether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) of this section continues to exist with respect to a tolerance that has been left in effect or modified under subsection (b)(2)(B) of this section. If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
 
 #### (e) Action on Administrator's own initiative
 
@@ -470,7 +470,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (4) Tolerances for unavoidable residues
 
-&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) of this section and the unavoidability of the residue. Subsection (e) of this section shall apply to the establishment of such tolerance. The Administratorshall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
+&emsp;In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) of this section and the unavoidability of the residue. Subsection (e) of this section shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
 
 #### (5) Pesticide residues resulting from lawful application of pesticide
 
@@ -582,7 +582,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (o) Consumer right to know
 
-Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers forpublic display (in a manner determined by the grocer), the following information, at a minimum:
+Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers for public display (in a manner determined by the grocer), the following information, at a minimum:
 
 &emsp;(1) A discussion of the risks and benefits of pesticide chemical residues in or on food purchased by consumers.
 
@@ -640,7 +640,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (D) Noncompliance by other persons
 
-&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposedin the same manner as provided in such section 16.
+&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposed in the same manner as provided in such section 16.
 
 #### (6) Agency action
 
@@ -680,7 +680,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (r) Temporary tolerance or exemption
 
-The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or upon the Administrator's own initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) of this section shall apply to actions taken under this subsection.
+The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or upon the Administrator'sown initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) of this section shall apply to actions taken under this subsection.
 
 #### (s) Savings clause
 
@@ -702,7 +702,7 @@ The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–46
 
 #### Codification
 
-August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original referencesto the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
+August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -760,7 +760,7 @@ Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if reg
 
 #### Regulation of Sulfuryl Fluoride
 
-Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the EnvironmentalProtection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."
+Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."
 
 #### Tolerance Fees
 

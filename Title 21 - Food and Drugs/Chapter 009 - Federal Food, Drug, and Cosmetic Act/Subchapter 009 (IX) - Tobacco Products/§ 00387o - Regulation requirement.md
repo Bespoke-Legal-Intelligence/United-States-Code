@@ -20,7 +20,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (1) First compliance date
 
-&emsp;The initial regulations promulgated under subsection (a) shall not impose requirements on small tobacco product manufacturers before the later of—
+&emsp;The initial regulations promulgated under subsection (a) shall not impose requirementson small tobacco product manufacturers before the later of—
 
 &emsp;&emsp;(A) the end of the 2-year period following the final promulgation of such regulations; and
 
@@ -42,7 +42,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 #### (3) Subsequent and additional testing and reporting
 
-&emsp;The regulations promulgated under subsection (a) shall provide that, with respect to any subsequent or additional testing and reporting of tobacco products required under this section, such testing and reporting by a small tobacco product manufacturer shall be conducted in accordance with the timeframes described in paragraph (2)(A), except that, in the case of a new product, or if there has been a modification described in section 387j(a)(1)(B) of this title of any product of a small tobacco product manufacturer since the last testing and reporting required under this section, the Secretary shall require that anysubsequent or additional testing and reporting be conducted in accordance with the same timeframe applicable to manufacturers that are not small tobacco product manufacturers.
+&emsp;The regulations promulgated under subsection (a) shall provide that, with respect to any subsequent or additional testing and reporting of tobacco products required under this section, such testing and reporting by a small tobacco product manufacturer shall be conducted in accordance with the timeframes described in paragraph (2)(A), except that, in the case of a new product, or if there has been a modification described in section 387j(a)(1)(B) of this title of any product of a small tobacco product manufacturer since the last testing and reporting required under this section, the Secretary shall require that any subsequent or additional testing and reporting be conducted in accordance with the same timeframe applicable to manufacturers that are not small tobacco product manufacturers.
 
 #### (4) Joint laboratory testing services
 

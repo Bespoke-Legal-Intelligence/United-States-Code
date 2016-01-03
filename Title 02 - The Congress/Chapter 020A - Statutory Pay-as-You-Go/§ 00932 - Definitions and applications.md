@@ -10,9 +10,9 @@ As used in this chapter—
 
 &emsp;&emsp;(B) In section 250(c)(8)(C) \[2 U.S.C. 900(c)(8)(C)\], the reference to the food stamp program shall be deemed to be a reference to the Supplemental Nutrition Assistance Program.
 
-&emsp;(3) The term "AMT" means the Alternative Minimum Tax for individuals under sections 55–59 of title 26, the term "EGTRRA" means the Economic Growth and Tax Relief Reconciliation Act of 2001 (Public Law 107–16), and the term "JGTRRA" means the Jobs and Growth Tax Relief and <sup>1</sup> Reconciliation Act of 2003 (Public Law 108–27).
+&emsp;(3) The term "AMT" means the Alternative Minimum Tax for individuals under sections55–59 of title 26, the term "EGTRRA" means the Economic Growth and Tax Relief Reconciliation Act of 2001 (Public Law 107–16), and the term "JGTRRA" means the Jobs and Growth Tax Relief and <sup>1</sup> Reconciliation Act of 2003 (Public Law 108–27).
 
-&emsp;(4)(A) The term "budgetary effects" means the amount by which PAYGO legislation changes outlays flowing from direct spending or revenues relative to the baseline and shall be determined on the basis of estimates prepared under section 933 of this title. Budgetary effects that increase outlays flowing from direct spending or decrease revenues are termed"costs" and budgetary effects that increase revenues or decrease outlays flowing from direct spending are termed "savings". Budgetary effects shall not include any costs associated with debt service.
+&emsp;(4)(A) The term "budgetary effects" means the amount by which PAYGO legislation changes outlays flowing from direct spending or revenues relative to the baseline and shall be determined on the basis of estimates prepared under section 933 of this title. Budgetary effects that increase outlays flowing from direct spending or decrease revenues are termed "costs" and budgetary effects that increase revenues or decrease outlays flowing from direct spending are termed "savings". Budgetary effects shall not include any costs associated with debt service.
 
 &emsp;(B) For purposes of these definitions, off-budget effects shall not be counted as budgetary effects.
 

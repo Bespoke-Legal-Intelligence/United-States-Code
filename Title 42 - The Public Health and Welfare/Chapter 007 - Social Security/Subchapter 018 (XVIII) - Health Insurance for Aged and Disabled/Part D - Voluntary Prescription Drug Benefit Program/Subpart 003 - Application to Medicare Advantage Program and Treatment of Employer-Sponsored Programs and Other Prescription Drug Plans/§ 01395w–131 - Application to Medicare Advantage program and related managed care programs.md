@@ -6,7 +6,7 @@
 
 &emsp;An MA organization on and after January 1, 2006—
 
-&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in anarea unless either that plan (or another MA plan offered by the organization in that same service area) includes required prescription drug coverage (as defined in paragraph (2)); and
+&emsp;&emsp;(A) may not offer an MA plan described in section 1395w–21(a)(2)(A) of this title in an area unless either that plan (or another MA plan offered by the organization in that same service area) includes required prescription drug coverage (as defined in paragraph (2)); and
 
 &emsp;&emsp;(B) may not offer prescription drug coverage (other than that required under parts A and B of this subchapter) to an enrollee—
 
@@ -76,7 +76,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (2) Modification of pharmacy access standard and disclosure requirement
 
-&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without chargingadditional cost-sharing, and without regard to whether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
+&emsp;If the plan provides coverage for drugs purchased from all pharmacies, without charging additional cost-sharing, and without regard to whether they are participating pharmacies in a network or have entered into contracts or agreements with pharmacies to provide drugs to enrollees covered by the plan, subsections (b)(1)(C) and (k) of section 1395w–104 of this title shall not apply to the plan.
 
 #### (3) Drug utilization management program and medication therapy management program not required
 
@@ -106,7 +106,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
+&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) ofthis title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
 
 #### (2) Limitation on enrollment
 

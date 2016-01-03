@@ -12,7 +12,7 @@ In General.—The purposes of the foundation are to—
 
 (b)
 
-Requiring Activities To Be Carried Out on Nonpartisan Basis.—The foundation shallcarry out its purposes without partisan bias or without promoting any particular point of view regarding any issue, and shall ensure that each participant in its activities is governed in a balanced manner which does not reflect any partisan bias.
+Requiring Activities To Be Carried Out on Nonpartisan Basis.—The foundation shall carry out its purposes without partisan bias or without promoting any particular point of view regarding any issue, and shall ensure that each participant in its activities is governed in a balanced manner which does not reflect any partisan bias.
 
 (c)
 

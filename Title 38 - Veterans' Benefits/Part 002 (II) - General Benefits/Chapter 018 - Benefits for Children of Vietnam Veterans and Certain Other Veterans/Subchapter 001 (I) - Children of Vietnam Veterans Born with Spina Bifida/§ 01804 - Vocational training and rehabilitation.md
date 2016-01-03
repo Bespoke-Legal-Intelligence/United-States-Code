@@ -28,7 +28,7 @@
 
 (2) The aggregate period for which a child may receive assistance under this section and chapter 35 of this title may not exceed 48 months (or the part-time equivalent thereof).
 
-(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2924; amended Pub. L. 105–114, title IV, §404(c), Nov. 21, 1997, 111 Stat. 2295; Pub. L. 108–183, title VII, §708(a)(3), Dec. 16, 2003, 117 Stat. 2673.)
+(Added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Stat. 2924; amended Pub. L. 105–114, title IV, §404(c), Nov. 21, 1997, 111 Stat. 2295; Pub.L. 108–183, title VII, §708(a)(3), Dec. 16, 2003, 117 Stat. 2673.)
 
 #### Prior Provisions
 

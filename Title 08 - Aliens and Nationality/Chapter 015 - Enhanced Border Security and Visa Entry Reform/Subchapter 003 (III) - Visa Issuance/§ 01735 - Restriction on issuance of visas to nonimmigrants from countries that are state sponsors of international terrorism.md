@@ -14,7 +14,7 @@ No nonimmigrant visa under section 1101(a)(15) of this title shall be issued to 
 
 &emsp;The laws specified in this paragraph are the following:
 
-&emsp;&emsp;(A) Section 2405(j)(1)(A) of title 50, Appendix (or successor statute).
+&emsp;&emsp;(A) Section 4605(j)(1)(A) of title 50 (or successor statute).
 
 &emsp;&emsp;(B) Section 2780(d) of title 22.
 

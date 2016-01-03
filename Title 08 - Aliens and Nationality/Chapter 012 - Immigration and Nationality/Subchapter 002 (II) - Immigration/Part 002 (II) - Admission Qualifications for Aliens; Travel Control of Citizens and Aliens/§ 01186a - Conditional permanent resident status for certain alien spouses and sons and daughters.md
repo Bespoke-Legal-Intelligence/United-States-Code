@@ -136,7 +136,7 @@
 
 #### (A) 90-day period before second anniversary
 
-&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) mustbe filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (B) Date petitions for good cause
 
@@ -162,7 +162,7 @@ In the case of an alien who has permanent residence status on a conditional basi
 
 #### (1) Filing petition
 
-&emsp;The 90-day period described in subsection (d)(2)(A) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces, except that, at the option of the petitioners, the petition may be filed during such active-duty service at any time after the commencement of such 90-day period.
+&emsp;The 90-day period described in subsection (d)(2)(A) shall be tolled during any period of time in which the alien spouse or petitioning spouse is a member of the Armed Forces of the United States and serving abroad in an active-duty status in the Armed Forces, except that,at the option of the petitioners, the petition may be filed during such active-duty service at any time after the commencement of such 90-day period.
 
 #### (2) Personal interview
 

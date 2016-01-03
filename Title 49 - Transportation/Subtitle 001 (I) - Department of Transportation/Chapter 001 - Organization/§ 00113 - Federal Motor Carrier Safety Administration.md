@@ -46,6 +46,132 @@ Consultation.—The Administrator shall consult with the Federal Highway Adminis
 
 Section effective Jan. 1, 2000, see section 107(a) of Pub. L. 106–159, set out as an Effective Date of 1999 Amendment note under section 104 of this title.
 
+#### Guidance
+
+Pub. L. 114–94, div. A, title V, §5203, Dec. 4, 2015, 129 Stat. 1535, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Date of issuance and point of contact.—Each guidance document issued by the Federal Motor Carrier Safety Administration shall have a date of issuance or a date of revision, as applicable, and shall include the name and contact information of a point of contact at the Administration who can respond to questions regarding the guidance.
+
+&emsp;"(2)
+
+Public accessibility.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each guidance document issued or revised by the Federal Motor Carrier Safety Administration shall be published on a publicly accessible Internet Web site of the Department \[of Transportation\] on the date of issuance or revision.
+
+&emsp;&emsp;"(B)
+
+Redaction.—The Administrator of the Federal Motor Carrier Safety Administration may redact from a guidance document published under subparagraph (A) any information that would reveal investigative techniques that would compromise Administration enforcement efforts.
+
+&emsp;"(3)
+
+Incorporation into regulations.—Not later than 5 years after the date on which a guidance document is published under paragraph (2) or during an applicable review under subsection (c), whichever is earlier, the Secretary \[of Transportation\] shall revise regulations to incorporate the guidance document to the extent practicable.
+
+&emsp;"(4)
+
+Reissuance.—If a guidance document is not incorporated into regulations in accordance with paragraph (3), the Administrator shall—
+
+&emsp;&emsp;"(A) reissue an updated version of the guidance document; and
+
+&emsp;&emsp;"(B) review and reissue an updated version of the guidance document every 5 years until the date on which the guidance document is removed or incorporated into applicable regulations.
+
+"(b)
+
+Initial Review.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to the public, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
+
+"(c)
+
+Regular Review.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), not less than once every 5 years, the Administrator shall conduct a comprehensive review of the guidance documents issued by the Federal Motor Carrier Safety Administration to determine whether such documents are—
+
+&emsp;&emsp;"(A) consistent and clear;
+
+&emsp;&emsp;"(B) uniformly and consistently enforced; and
+
+&emsp;&emsp;"(C) still necessary.
+
+&emsp;"(2)
+
+Notice and comment.—Prior to beginning a review under paragraph (1), the Administrator shall publish in the Federal Register a notice and request for comment that solicits input from stakeholders on which guidance documents should be updated or eliminated.
+
+&emsp;"(3)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date on which a review under paragraph (1) is completed, the Administrator shall publish on a publicly accessible Internet Web site of the Department a report detailing the review and a full inventory of the guidance documents of the Administration.
+
+&emsp;&emsp;"(B)
+
+Contents.—A report under subparagraph (A) shall include a summary of the response of the Administration to comments received under paragraph (2).
+
+"(d)
+
+Guidance Document Defined.—In this section, the term 'guidance document' means a document issued by the Federal Motor Carrier Safety Administration that—
+
+&emsp;"(1) provides an interpretation of a regulation of the Administration; or
+
+&emsp;"(2) includes an enforcement policy of the Administration available to the public."
+
+#### Petitions
+
+Pub. L. 114–94, div. A, title V, §5204, Dec. 4, 2015, 129 Stat. 1536, provided that:
+
+"(a)
+
+In General.—The Administrator of the Federal Motor Carrier Safety Administration shall—
+
+&emsp;"(1) publish on a publicly accessible Internet Web site of the Department \[of Transportation\] a summary of all petitions for regulatory action submitted to the Administration;
+
+&emsp;"(2) prioritize the petitions submitted based on the likelihood of safety improvements resulting from the regulatory action requested;
+
+&emsp;"(3) not later than 180 days after the date a summary of a petition is published under paragraph (1), formally respond to such petition by indicating whether the Administrator will accept, deny, or further review the petition;
+
+&emsp;"(4) prioritize responses to petitions consistent with a petition's potential to reduce crashes, improve enforcement, and reduce unnecessary burdens; and
+
+&emsp;"(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventory of the petitions described in paragraph (1), including any applicable disposition information for those petitions.
+
+"(b)
+
+Treatment of Multiple Petitions.—The Administrator may treat multiple similar petitions as a single petition for the purposes of subsection (a).
+
+"(c)
+
+Petition Defined.—In this section, the term 'petition' means a request for—
+
+&emsp;"(1) a new regulation;
+
+&emsp;"(2) a regulatory interpretation or clarification; or
+
+&emsp;"(3) a determination by the Administrator that a regulation should be modified or eliminated because it is—
+
+&emsp;&emsp;"(A) no longer—
+
+&emsp;&emsp;&emsp;"(i) consistent and clear;
+
+&emsp;&emsp;&emsp;"(ii) current with the operational realities of the motor carrier industry; or
+
+&emsp;&emsp;&emsp;"(iii) uniformly enforced;
+
+&emsp;&emsp;"(B) ineffective; or
+
+&emsp;&emsp;"(C) overly burdensome."
+
+#### Prioritizing Statutory Rulemakings
+
+Pub. L. 114–94, div. A, title V, §5302, Dec. 4, 2015, 129 Stat. 1543, provided that: "The Administrator of theFederal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary \[of Transportation\] determines that there is a significant need for such other rulemaking and notifies Congress of such determination."
+
 #### Findings
 
 Pub. L. 106–159, §3, Dec. 9, 1999, 113 Stat. 1749, provided that: "Congress makes the following findings:
@@ -130,7 +256,7 @@ Continuance of Actions Against Officers.—No suit, action, or other proceeding 
 
 "(f)
 
-Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
+Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible forthe performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
 
 "(g)
 

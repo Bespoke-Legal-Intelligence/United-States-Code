@@ -20,7 +20,7 @@ Section 16, formerly §15, of Pub. L. 90–202, renumbered by Pub. L. 93–259, 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, provided in partthat: "This section \[amending section 623 of this title, enacting provisions set out as notes under section 623 of this title, and repealing provisions set out as a note under section 623 of this title\] may be cited as the 'Age Discrimination in Employment Amendments of 1996'."
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, provided in part that: "This section \[amending section 623 of this title, enacting provisions set out as notes under section 623 of this title, and repealing provisions set out as a note under section 623 of this title\] may be cited as the 'Age Discrimination in Employment Amendments of 1996'."
 
 #### Short Title of 1990 Amendment
 

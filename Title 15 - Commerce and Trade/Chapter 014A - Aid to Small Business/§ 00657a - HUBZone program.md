@@ -20,7 +20,7 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;A contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
 
-&emsp;&emsp;&emsp;(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonable expectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
+&emsp;&emsp;&emsp;(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonableexpectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
 
 &emsp;&emsp;&emsp;(ii) the anticipated award price of the contract (including options) will not exceed—
 
@@ -82,11 +82,11 @@ There is established within the Administration a program to be carried out by th
 
 #### (3) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (4) Penalties
 
-&emsp;In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
+&emsp;In addition to the penalties described in section 645(d) of this title, any small businessconcern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
 
 &emsp;&emsp;(A) section 1001 of title 18; and
 
@@ -96,7 +96,7 @@ There is established within the Administration a program to be carried out by th
 
 There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547.)
+(Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932.)
 
 #### Codification
 
@@ -111,6 +111,8 @@ In subsec. (b)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O
 A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[47\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(3). Pub. L. 114–92 inserted "the Administrator of the Federal Emergency Management Agency," after "the Secretary of Labor,".
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–240, §1347(c)(1), struck out introductory provisions which read as follows: "Notwithstanding any other provision of law—".
 

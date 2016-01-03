@@ -28,11 +28,11 @@
 
 &emsp;(1) may review any audit of a financial statement conducted under this subsection by an Inspector General or an external auditor;
 
-&emsp;(2) shall report to the Congress, the Director of the Office of Management and Budget, and the head of the agency which prepared the statement, regarding the results of the reviewand make any recommendation the Comptroller General considers appropriate; and
+&emsp;(2) shall report to the Congress, the Director of the Office of Management and Budget, and the head of the agency which prepared the statement, regarding the results of the review and make any recommendation the Comptroller General considers appropriate; and
 
 &emsp;(3) may audit a financial statement prepared under section 3515 of this title at the discretion of the Comptroller General or at the request of a committee of the Congress.
 
-> An audit the Comptroller General performs under this subsection shall be in lieu of the audit otherwise required by subsection (e) of this section. Prior to performing such audit, the Comptroller General shall consult with the Inspector General of the agency which prepared the statement.
+> An audit the Comptroller General performs under this subsection shall be in lieu of the audit otherwise required by subsection (e) of this section. Prior to performing such audit, theComptroller General shall consult with the Inspector General of the agency which prepared the statement.
 
 (h) Each financial statement prepared by an executive agency for a fiscal year after fiscal year 1991 shall be audited in accordance with this section and the plan required by section 3512(a)(3)(B)(viii) of this title.
 
@@ -108,11 +108,11 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–323 added subsec. (i).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–531 struck out "(1)" before "For each audited", substituted "subsection (a)"for "subsections (a) and (f)", and struck out par. (2) which read as follows: "Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards."
+<b>2000</b>—Subsec. (f). Pub. L. 106–531 struck out "(1)" before "For each audited", substituted "subsection (a)" for "subsections (a) and (f)", and struck out par. (2) which read as follows: "Not later than June 30 following the fiscal year for which a financial statement is submitted under subsection (g) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards."
 
 <b>1996</b>—Subsec. (f)(1). Pub. L. 104–208 inserted "and the Controller of the Office of Federal Financial Management" before period at end of first sentence.
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Not later than June 30 following the fiscal year for which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards."
+<b>1994</b>—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Not later than June 30 following the fiscal year for which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shallsubmit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards."
 
 <b>1990</b>—Subsecs. (e) to (h). Pub. L. 101–576 added subsecs. (e) to (h).
 

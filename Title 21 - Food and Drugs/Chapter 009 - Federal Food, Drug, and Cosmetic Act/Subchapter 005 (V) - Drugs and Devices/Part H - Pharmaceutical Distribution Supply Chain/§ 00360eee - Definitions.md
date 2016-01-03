@@ -76,7 +76,7 @@ In this part:
 
 &emsp;&emsp;(B) a co-licensed partner of the person described in subparagraph (A) that obtains the product directly from a person described in this subparagraph or subparagraph (A) or (C); or
 
-&emsp;&emsp;(C) an affiliate of a person described in subparagraph (A) or (B) that receives the product directly from a person described in this subparagraph or subparagraph (A) or (B).
+&emsp;&emsp;(C) an affiliate of a person described in subparagraph (A) or (B) that receives theproduct directly from a person described in this subparagraph or subparagraph (A) or (B).
 
 #### (11) Package
 
@@ -118,7 +118,7 @@ In this part:
 
 #### (18) Returns processor or reverse logistics provider
 
-&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns oroperates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
+&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
 
 #### (19) Specific patient need
 

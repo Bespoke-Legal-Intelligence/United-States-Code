@@ -14,7 +14,7 @@ A State may expend payments received under section 300ee–11(a) of this title�
 
 &emsp;(6) with respect to education and training programs for the prevention of such syndrome, to conduct such programs for health professionals (including allied health professionals), public safety workers (including emergency response employees), teachers, school administrators, and other appropriate education personnel;
 
-&emsp;(7) to conduct appropriate programs for educating school-aged children with respect to such syndrome, after consulting with local school boards;
+&emsp;(7) to conduct appropriate programs for educating school-aged children with respect tosuch syndrome, after consulting with local school boards;
 
 &emsp;(8) to make available to physicians and dentists in the State information with respect to acquired immune deficiency syndrome, including measures for the prevention of exposure to, and the transmission of, the etiologic agent for such syndrome (which information is updated not less than annually with the most recently available scientific date <sup>1</sup> relating to such syndrome);
 

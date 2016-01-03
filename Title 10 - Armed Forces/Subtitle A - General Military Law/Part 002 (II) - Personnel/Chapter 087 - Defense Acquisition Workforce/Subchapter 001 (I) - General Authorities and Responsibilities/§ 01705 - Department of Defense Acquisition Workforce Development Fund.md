@@ -32,25 +32,13 @@ Credits to the fund.—(A) There shall be credited to the Fund an amount equal t
 
 &emsp;(B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
 
-&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund in such fiscal year of an amount as follows:
+&emsp;(C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in each fiscal year.
 
-&emsp;&emsp;(i) For fiscal year 2013, $500,000,000.
-
-&emsp;&emsp;(ii) For fiscal year 2014, $800,000,000.
-
-&emsp;&emsp;(iii) For fiscal year 2015, $700,000,000.
-
-&emsp;&emsp;(iv) For fiscal year 2016, $600,000,000.
-
-&emsp;&emsp;(v) For fiscal year 2017, $500,000,000.
-
-&emsp;&emsp;(vi) For fiscal year 2018, $400,000,000.
-
-&emsp;(D) The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
+&emsp;(D) The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000.
 
 &emsp;(3)
 
-Transfer of certain unobligated balances.—To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
+Transfer of certain unobligated balances.—To the extent provided in appropriations Acts, the Secretary of Defense may, during the 36-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
 
 &emsp;(4)
 
@@ -102,7 +90,7 @@ Duration of availability.—Amounts credited to the Fund in accordance with subs
 
 (f)
 
-Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+Annual Report.—Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
 
@@ -116,15 +104,11 @@ Annual Report.—Not later than 60 days after the end of each fiscal year, the S
 
 (g)
 
-Expedited Hiring Authority.—
+Expedited Hiring Authority.—For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
-&emsp;(1) For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
+&emsp;(1) designate any category of of <sup>1</sup> positions in the acquisition workforce, as defined in subsection (h), as positions for which there exists a shortage of candidates or there is a critical hiring need; and
 
-&emsp;&emsp;(A) designate any category of acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need; and
-
-&emsp;&emsp;(B) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
-
-&emsp;(2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.
+&emsp;(2) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
 
 (h)
 
@@ -138,13 +122,23 @@ Acquisition Workforce Defined.—In this section, the term "acquisition workforc
 
 &emsp;&emsp;(B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825.)
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, titleVIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913.)
 
 #### Prior Provisions
 
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(2)(C). Pub. L. 114–92, §841(a)(1)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) defined the applicable percentage for fiscal years 2013 to 2018.
+
+Subsec. (d)(2)(D). Pub. L. 114–92, §841(a)(1)(B), substituted "the amount specified in subparagraph (C)" for "an amount specified in subparagraph (C)" and "an amount that is less than $400,000,000." for "an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year."
+
+Subsec. (d)(3). Pub. L. 114–92, §841(a)(1)(C), substituted "36-month period" for "24-month period".
+
+Subsec. (f). Pub. L. 114–92, §841(a)(2), substituted "120 days" for "60 days" in introductory provisions.
+
+Subsec. (g). Pub. L. 114–92, §841(a)(3), struck out par. (1) designation before "For purposes of"; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted "of positions in the acquisition workforce, as defined in subsection (h)," for "acquisition workforce positions" in par. (1); and struck out former par. (2) which read as follows: "The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017."
 
 <b>2013</b>—Subsec. (d)(2)(C). Pub. L. 112–239, §803(a)(1), added cls. (i) to (vi) and struck out former cls. (i) to (vi) which established applicable amounts for fiscal years 2010 to 2015.
 
@@ -170,7 +164,7 @@ Subsec. (d)(2)(B). Pub. L. 111–84, §832(d)(1), (2)(A), substituted "Subject t
 
 Pub. L. 111–84, §832(c), inserted ", from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance," after "remit to the Secretary of Defense".
 
-Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages forfiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
 
 Subsec. (d)(3). Pub. L. 111–84, §832(a)(2), added par. (3).
 
@@ -213,4 +207,6 @@ Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, p
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 
 Pub. L. 112–239, div. A, title VIII, §803(c), Jan. 2, 2013, 126 Stat. 1825, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) \[amending this section\] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

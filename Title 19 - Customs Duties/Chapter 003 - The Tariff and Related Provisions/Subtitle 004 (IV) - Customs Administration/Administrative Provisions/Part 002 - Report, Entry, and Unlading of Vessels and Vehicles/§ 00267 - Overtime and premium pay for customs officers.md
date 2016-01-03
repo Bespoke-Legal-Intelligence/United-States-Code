@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and subsection (c) of this section, a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that is equal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b) of this section.
+&emsp;Subject to paragraph (2) and subsection (c), a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that is equal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b).
 
 #### (2) Special provisions relating to overtime work on callback basis
 
@@ -40,7 +40,7 @@
 
 #### (C) 7:30 p.m. to 3:30 a.m. shiftwork
 
-&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
+&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium payamounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
 
 #### (2) Sunday differential
 
@@ -58,17 +58,17 @@
 
 #### (1) Fiscal year cap
 
-&emsp;The aggregate of overtime pay under subsection (a) of this section (including commuting compensation under subsection (a)(2)(B) of this section) and premium pay under subsection (b) of this section that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
+&emsp;The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
 
 #### (2) Exclusivity of pay under this section
 
-&emsp;A customs officer who receives overtime pay under subsection (a) of this section or premium pay under subsection (b) of this section for time worked may not receive pay or other compensation for that work under any other provision of law.
+&emsp;A customs officer who receives overtime pay under subsection (a) or premium pay under subsection (b) for time worked may not receive pay or other compensation for that work under any other provision of law.
 
 #### (d) Regulations
 
 The Secretary of the Treasury shall promulgate regulations to prevent—
 
-&emsp;(1) abuse of callback work assignments and commuting time compensation authorized under subsection (a)(2) of this section; and
+&emsp;(1) abuse of callback work assignments and commuting time compensation authorized under subsection (a)(2); and
 
 &emsp;(2) the disproportionately more frequent assignment of overtime work to customs officers who are near to retirement.
 

@@ -60,6 +60,8 @@ Advisors.—(1) The following officials of the Department of Defense shall serve
 
 (2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
 
+(3) The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to trade-offs among cost, schedule, technical feasibility, and performance under subsection (b)(1)(C) and the balancing of resources with priorities pursuant to subsection (b)(3).
+
 (e)
 
 Organization.—The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
@@ -76,11 +78,17 @@ Definitions.—In this section:
 
 &emsp;(1) The term "joint military requirement" means a capability necessary to fulfill a gap in a core mission area of the Department of Defense.
 
-&emsp;(2) The term "core mission area" means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title.
+&emsp;(2) The term "core mission area" means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b <sup>1</sup> of this title.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat.4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879.)
+
+#### References in Text
+
+Section 118b of this title, referred to in subsec. (g)(2), was repealed by Pub. L. 113–291, div. A, title X, §1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
 
 <b>2013</b>—Subsec. (b)(1)(C). Pub. L. 112–239, §951(b)(1), substituted "in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements" for "in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements".
 
@@ -124,7 +132,7 @@ Subsec. (f). Pub. L. 110–181, §942(b)(1), redesignated subsec. (d) as (f).
 
 Subsec. (g). Pub. L. 110–181, §942(d), added subsec. (g).
 
-<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136 substituted "subsection, the term 'oversight" for "subsection:", struck out "(A) The term 'oversight" before "information' means", and struck out subpar. (B) which read as follows: "The term 'congressional defense committees' means—
+<b>2003</b>—Subsec. (d)(2). Pub. L. 108–136 substituted "subsection, the term 'oversight" for "subsection:", struckout "(A) The term 'oversight" before "information' means", and struck out subpar. (B) which read as follows: "The term 'congressional defense committees' means—
 
 &emsp;"(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
@@ -162,7 +170,7 @@ Pub. L. 111–23, title II, §201(c), May 22, 2009, 123 Stat. 1720, provided tha
 
 #### Study Guidance for Analyses of Alternatives
 
-Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided that: "The Director of Cost Assessmentand Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
+Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided that: "The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
 
 &emsp;"(1) full consideration of possible trade-offs among cost, schedule, and performance objectives for each alternative considered; and
 
@@ -170,9 +178,11 @@ Pub. L. 111–23, title II, §201(d), May 22, 2009, 123 Stat. 1720, provided tha
 
 #### Deadlines for Inclusion of Core Mission References in Documents
 
-Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, provided that: "Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under section 181(b)(1) of title 10, United States Code, shall reference the core mission areas organized and defined under section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure."
+Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, provided that: "Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under section 181(b)(1) of title 10, United States Code, shall reference the core mission areas organized and defined under \[former\] section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure."
 
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 
 Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

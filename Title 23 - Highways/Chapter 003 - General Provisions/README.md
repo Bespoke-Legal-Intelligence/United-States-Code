@@ -31,10 +31,13 @@
 | [327\.](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md) | Surface transportation project delivery program. |
 | [328\.](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md) | Eligibility for environmental restoration and pollution abatement. |
 | [329\.](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md) | Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species. |
+| [330\.](%C2%A7%2000330%20-%20Program%20for%20eliminating%20duplication%20of%20environmental%20reviews.md) | Program for eliminating duplication of environmental reviews. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title I, §1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
 
 <b>2012</b>—Pub. L. 112–141, div. A, title I, §1519(c)(1)(C), July 6, 2012, 126 Stat. 575, struck out items 303 "Management systems" and 309 "Cooperation with other American Republics".
 
@@ -92,3 +95,4 @@ Pub. L. 112–141, div. A, title I, §1313(i), July 6, 2012, 126 Stat. 547, whic
 - [&sect; 00327 - Surface transportation project delivery program](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md)
 - [&sect; 00328 - Eligibility for environmental restoration and pollution abatement](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md)
 - [&sect; 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md)
+- [&sect; 00330 - Program for eliminating duplication of environmental reviews](%C2%A7%2000330%20-%20Program%20for%20eliminating%20duplication%20of%20environmental%20reviews.md)

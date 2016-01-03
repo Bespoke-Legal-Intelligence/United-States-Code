@@ -62,7 +62,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18; and
 
-&emsp;(20) developing, enhancing, or strengthening prevention and educational programming toaddress domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
+&emsp;(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
 
 #### (c) State coalition grants
 
@@ -144,7 +144,7 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 Subsec. (b)(1). Pub. L. 113–4, §101(2)(B), substituted "domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8" for "sexual assault, domestic violence, and dating violence".
 
-Subsec. (b)(2). Pub. L. 113–4, §101(2)(C), substituted "domestic violence, dating violence, sexual assault,and stalking" for "sexual assault and domestic violence".
+Subsec. (b)(2). Pub. L. 113–4, §101(2)(C), substituted "domestic violence, dating violence, sexual assault, and stalking" for "sexual assault and domestic violence".
 
 Subsec. (b)(3). Pub. L. 113–4, §101(2)(D), substituted "domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims" for "sexual assault and domestic violence".
 
@@ -236,7 +236,7 @@ In General.—The Attorney General shall—
 
 "(b)
 
-Consultation.—The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sex crimes in underserved communities (as defined in \[former\] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] 42 U.S.C. 3796gg–2(7)), as amended by this division).
+Consultation.—The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sexcrimes in underserved communities (as defined in \[former\] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] 42 U.S.C. 3796gg–2(7)), as amended by this division).
 
 "(c)
 

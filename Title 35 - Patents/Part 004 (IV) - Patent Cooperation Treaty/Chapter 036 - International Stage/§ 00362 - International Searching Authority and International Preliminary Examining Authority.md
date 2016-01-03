@@ -1,6 +1,6 @@
 ### §362. International Searching Authority and International Preliminary Examining Authority
 
-(a) The Patent and Trademark Office may act as an International Searching Authority andInternational Preliminary Examining Authority with respect to international applications in accordance with the terms and conditions of an agreement which may be concluded with the International Bureau, and may discharge all duties required of such Authorities, including the collection of handling fees and their transmittal to the International Bureau.
+(a) The Patent and Trademark Office may act as an International Searching Authority and International Preliminary Examining Authority with respect to international applications in accordance with the terms and conditions of an agreement which may be concluded with the International Bureau, and may discharge all duties required of such Authorities, including the collection of handling fees and their transmittal to the International Bureau.
 
 (b) The handling fee, preliminary examination fee, and any additional fees due for international preliminary examination shall be paid within such time as may be fixed by the Director.
 
@@ -22,7 +22,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pending before or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
+Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all international applications pendingbefore or after that date, see section 9 of Pub. L. 99–616, set out as a note under section 351 of this title.
 
 #### Effective Date of 1984 Amendment
 

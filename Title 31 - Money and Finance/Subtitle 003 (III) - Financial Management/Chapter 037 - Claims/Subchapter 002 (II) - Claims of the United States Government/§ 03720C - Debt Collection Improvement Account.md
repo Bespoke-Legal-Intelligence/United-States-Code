@@ -24,7 +24,7 @@
 
 &emsp;(B) 5 percent of the average annual amount of delinquent nontax debt collected by the agency in the previous 4 fiscal years.
 
-(4) In consultation with the Secretary of the Treasury, the Office of Management and Budget may adjust the amount described in paragraph (3) for an agency to reflect the level of effort in credit management programs by the agency. As an indicator of the level of effort in credit management, the Office of Management and Budget shall consider the following:
+(4) In consultation with the Secretary of the Treasury, the Office of Management and Budget may adjust the amount described in paragraph (3) for an agency to reflect the level of effort in credit management programs by the agency. Asan indicator of the level of effort in credit management, the Office of Management and Budget shall consider the following:
 
 &emsp;(A) The number of days between the date a claim or debt became delinquent and the date which an agency referred the debt or claim to the Secretary of the Treasury or obtained an exemption from this referral under section 3711(g)(2) of this title.
 

@@ -1,6 +1,6 @@
 ### §1656. Conversion or surrender of vessel
 
-Whoever, being a captain or other officer or mariner of a vessel upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, piratically orfeloniously runs away with such vessel, or with any goods or merchandise thereof, to the value of $50 or over; or
+Whoever, being a captain or other officer or mariner of a vessel upon the high seas or on any other waters within the admiralty and maritime jurisdiction of the United States, piratically or feloniously runs away with such vessel, or with any goods or merchandise thereof, to the value of $50 or over; or
 
 Whoever yields up such vessel voluntarily to any pirate—
 

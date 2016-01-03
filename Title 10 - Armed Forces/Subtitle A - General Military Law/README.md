@@ -18,12 +18,7 @@
 | [<b>15.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20015%20-%20Insurrection/README.md) | <b>Insurrection</b> | <b>331</b> |
 | [<b>17.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20017%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>351</b> |
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
-| [<b>19.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber matters </b><b><sup>1</sup></b> | <b>391</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>19.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20019%20-%20Cyber%20Matters/README.md) | <b>Cyber Matters</b> | <b>391</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
@@ -149,6 +144,8 @@
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
+
 <b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted "Nuclear Posture" for "Nuclear posture" in item for chapter 24.
@@ -262,8 +259,6 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 <b>1961</b>—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted "Retired Serviceman's Family Protection Plan" for "Annuities Based on Retired or Retainer Pay" in item for chapter 73.
 
 <b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Matters".</i>
 
 
 ---

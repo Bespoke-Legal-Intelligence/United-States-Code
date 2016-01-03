@@ -22,7 +22,7 @@
 
 #### (2) Domestic funds transfers
 
-&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes of this section with respect to the maintenance of such records.
+&emsp;Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes ofthis section with respect to the maintenance of such records.
 
 #### (3) International funds transfers
 
@@ -62,7 +62,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recordedunder subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–56, title III, §358(h), Oct. 26, 2001, 115 Stat. 328, provided that: "The amendments made by this section \[enacting section 1681v of Title 15, Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, section 1681u of Title 15, andsections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\]."
+Pub. L. 107–56, title III, §358(h), Oct. 26, 2001, 115 Stat. 328, provided that: "The amendments made by this section \[enacting section 1681v of Title 15, Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, section 1681u of Title 15, and sections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\]."
 
 #### Effective Date
 

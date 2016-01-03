@@ -20,7 +20,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 &emsp;(1) such articles constitute components incorporated into foreign defense articles;
 
-&emsp;(2) the recipient is the government of a member country of the North Atlantic Treaty Organization, the Government of Australia,the Government of Japan, the Government of the Republic of Korea, the Government of Israel, or the Government of New Zealand;
+&emsp;(2) the recipient is the government of a member country of the North Atlantic Treaty Organization, the Government of Australia, the Government of Japan, the Government of the Republic of Korea, the Government of Israel, or the Government of New Zealand;
 
 &emsp;(3) the recipient is not a country designated under section 2371 of this title;
 
@@ -68,7 +68,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 > Any certification submitted to Congress pursuant to this paragraph shall be unclassified, except that information regarding the dollar value and number of articles or services proposed to be transferred may be classified if public disclosure thereof would be clearly detrimental to the security of the United States.
 
-(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days afterthe date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution prohibiting the proposed transfer.
+(2)(A) Except as provided in subparagraph (B), unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until 30 calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such 30-day period, a joint resolution prohibiting the proposed transfer.
 
 (B) In the case of a proposed transfer to the North Atlantic Treaty Organization, or any member country of such Organization, Japan, Australia, the Republic of Korea, Israel, or New Zealand, unless the President states in the certification submitted pursuant to paragraph (1) of this subsection that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States, such consent shall not become effective until fifteen calendar days after the date of such submission and such consent shall become effective then only if the Congress does not enact, within such fifteen-day period, a joint resolution prohibiting the proposed transfer.
 
@@ -86,7 +86,7 @@ The consent of the President under paragraph (2) of subsection (a) or under para
 
 > unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
 
-(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
+(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end ofthe 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
 
 (C)(i) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -164,7 +164,7 @@ Subsec. (d)(2)(B). Pub. L. 104–164, §141(a)(2), substituted "joint resolution
 
 Subsec. (d)(2)(C), (D). Pub. L. 104–164, §141(a)(3), added subpars. (C) and (D).
 
-Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out "at least 30 calendar days" before "before giving such consent the President", substituted "a certification" for "a report" after "Committee on Foreign Relations of theSenate", and substituted "Such certification shall be submitted—
+Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out "at least 30 calendar days" before "before giving such consent the President", substituted "a certification" for "a report" after "Committee on Foreign Relations of the Senate", and substituted "Such certification shall be submitted—
 
 &emsp;"(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
@@ -418,7 +418,7 @@ Pub. L. 110–429, title II, §203(a), Oct. 15, 2008, 122 Stat. 4844, provided t
 
 #### Reporting Requirements
 
-Pub. L. 105–277, div. A, §101(d) \[title V, §594\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, as amended by Pub. L.106–31, title V, §5002(c)–(e), May 21, 1999, 113 Stat. 109, provided that:
+Pub. L. 105–277, div. A, §101(d) \[title V, §594\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, as amended by Pub. L. 106–31, title V, §5002(c)–(e), May 21, 1999, 113 Stat. 109, provided that:
 
 "(a)
 

@@ -122,7 +122,7 @@ Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, provided that:
 
 "(a)
 
-Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the 'Committees') no later than February 1, 1991.
+Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States CustomsService at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the 'Committees') no later than February 1, 1991.
 
 "(b)
 

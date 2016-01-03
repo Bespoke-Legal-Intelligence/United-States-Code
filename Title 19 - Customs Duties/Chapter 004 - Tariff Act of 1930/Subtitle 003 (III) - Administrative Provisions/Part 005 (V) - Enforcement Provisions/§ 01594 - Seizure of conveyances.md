@@ -8,7 +8,7 @@ Whenever—
 
 &emsp;(2) the owner or operator, or the master, pilot, conductor, driver, or other person in charge of a vessel, vehicle, or aircraft;
 
-> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may be seized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
+> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may beseized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
 
 #### (b) Exceptions
 
@@ -22,7 +22,7 @@ Whenever—
 
 > unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
-(2) Except as provided in paragraph (1) or subsection (c) of this section, no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
+(2) Except as provided in paragraph (1) or subsection (c), no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
 
 #### (c) Prohibited merchandise on conveyance
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (e) Costs and expenses of seizure
 
-When a common carrier has been seized in accordance with the provisions of subsection (c) of this section and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
+When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
 
 (June 17, 1930, ch. 497, title IV, §594, 46 Stat. 751; Pub. L. 99–570, title III, §3121, Oct. 27, 1986, 100 Stat. 3207–86; Pub. L. 100–690, title VI, §6076(b), Nov. 18, 1988, 102 Stat. 4324.)
 
@@ -72,5 +72,5 @@ Provisions substantially similar to subsec. (a) of this section, so far as it re
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and added par. (2).
 
-<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read "Libel of vesselsand vehicles" and text read as follows: "Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided</i>, That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto."
+<b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section catchline read "Libel of vessels and vehicles" and text read as follows: "Whenever a vessel or vehicle, or the owner or master, conductor, driver, or other person in charge thereof, has become subject to a penalty for violation of the customs-revenue laws of the United States, such vessel or vehicle shall be held for the payment of such penalty and may be seized and proceeded against summarily by libel to recover the same: <i>Provided</i>, That no vessel or vehicle used by any person as a common carrier in the transaction of business as such common carrier shall be so held or subject to seizure or forfeiture under the customs laws, unless it shall appear that the owner or master of such vessel or the conductor, driver, or other person in charge of such vehicle was at the time of the alleged illegal act a consenting party or privy thereto."
 

@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end "For purposes of para
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense.
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amendedby "adding the following new clause at the end thereof", the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the "new" clause was numbered "(9)" and subsec. (a) contained cls. (1) to (8).
+<b>1962</b>—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by "adding the following new clause at the end thereof", the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the "new" clause was numbered "(9)" and subsec. (a) contained cls. (1) to (8).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
 

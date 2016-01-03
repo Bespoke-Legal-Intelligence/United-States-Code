@@ -52,7 +52,7 @@
 
 (d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
 
-(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, or modification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
+(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, ormodification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
 
 (C) Nothing in this paragraph shall be construed as permitting the use of appropriated funds for making any payment prohibited in or pursuant to any other provision of law.
 
@@ -124,7 +124,7 @@
 
 &emsp;(9) The term "reasonable compensation" means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term "regularly employed", with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such personfor at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term "regularly employed", with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or acommitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 &emsp;(11) The terms "Indian tribe" and "tribal organization" have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
@@ -204,7 +204,7 @@ Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided t
 
 #### First Report on May 31, 1990; Content
 
-Pub. L. 101–121, title III, §319(b), Oct. 23, 1989, 103 Stat. 756, provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of this section during the six-month period beginning on Oct. 1, 1989.
+Pub. L. 101–121, title III, §319(b), Oct. 23, 1989, 103 Stat. 756, provided that the first report submitted under former subsec. (b)(6) of this section was to be submitted on May 31, 1990, and was to contain a compilation relating to the statements received under subsec. (b) of thissection during the six-month period beginning on Oct. 1, 1989.
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 

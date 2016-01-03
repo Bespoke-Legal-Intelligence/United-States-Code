@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(D) Points credited for the year under section 2126(b) of this title.
 
-&emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title orsection 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
+&emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
 > &emsp;For the purpose of clauses (A), (B), (C), (D), and (E), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
@@ -146,7 +146,7 @@ June 29, 1948, ch. 708, §306 (less (c) and (d), as applicable to determination 
 
 34:440m(f).
 
-Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 34:440i and 440m(b)–(d), relating to service that may be counted in determining eligibility for retired pay under this chapter. 10:1036e(a) and 34:440m(a) are omitted as covered by the enumeration of the service that may be counted for the purposes of the revised section.
+Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 34:440i and 440m(b)–(d), relating to service that may be counted in determining eligibility for retired pay under this chapter. 10:1036e(a) and34:440m(a) are omitted as covered by the enumeration of the service that may be counted for the purposes of the revised section.
 
 In subsection (a)(1)(A)–(F), the requirement that the service must have been satisfactory is omitted as executed, since all service before July 1, 1949, has been found to have been satisfactory by the Secretaries concerned.
 
@@ -162,7 +162,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words "other than active Federal service" are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service"for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words "active service" are substituted for the words "active Federal service" for uniformity of expression. In clause (5), the words "transferred thereto after completion of 16 or more years of active naval service" are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–636, §2, Oct. 8, 1964, 78 Stat. 1034, provided that: "The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department."
+Pub. L. 88–636, §2, Oct. 8, 1964, 78 Stat. 1034, provided that: "The amendments made by this Act \[amending this section\] shall apply to any period before enactment of this Act \[Oct. 8, 1964\] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissionedpersonnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department."
 
 #### Effective Date of 1958 Amendment
 

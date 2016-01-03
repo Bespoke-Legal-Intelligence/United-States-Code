@@ -92,7 +92,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 &emsp;For the purposes of carrying out the scientific studies, demonstration projects, and public information and education projects authorized in this section, there is authorized to be appropriated for fiscal years beginning after September 30, 1986, not to exceed $5,000,000.
 
-(June 30, 1948, ch. 758, title IV, §405, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 884;amended Pub. L. 95–217, §§54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, §406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
+(June 30, 1948, ch. 758, title IV, §405, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, §§54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, §406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
 
 #### References in Text
 

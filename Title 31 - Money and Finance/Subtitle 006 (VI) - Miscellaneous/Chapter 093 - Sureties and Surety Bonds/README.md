@@ -19,6 +19,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–92, div. A, title VIII, §874(a)(2), (c), Nov. 25, 2015, 129 Stat. 940, 941, provided that, effective 1 year after Nov. 25, 2015, this analysis is amended by adding item 9310 "Individual sureties". See 2015 Amendment note below.</i>
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §874(a)(2), Nov. 25, 2015, 129 Stat. 940, added item 9310.
+
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–351 without corresponding amendment of chapter analysis.</i>
 
 
@@ -35,3 +43,4 @@
 - [&sect; 09307 - Civil actions and judgments against surety corporations](%C2%A7%2009307%20-%20Civil%20actions%20and%20judgments%20against%20surety%20corporations.md)
 - [&sect; 09308 - Civil penalty](%C2%A7%2009308%20-%20Civil%20penalty.md)
 - [&sect; 09309 - Priority of sureties](%C2%A7%2009309%20-%20Priority%20of%20sureties.md)
+- [&sect; 09310 - Individual sureties](%C2%A7%2009310%20-%20Individual%20sureties.md)

@@ -32,7 +32,7 @@ A nominated area shall be eligible for designation under section 1391 only if it
 
 &emsp;&emsp;(ii) in the case of a rural area, is located entirely within no more than 3 contiguous States, and
 
-&emsp;&emsp;(D) does not include any portion of a central business district (as such term is used for purposes of the most recent Census of Retail Trade) unless the poverty rate for each population census tract in such district is not less than 35 percent (30 percent in the case of an enterprise community).
+&emsp;&emsp;(D) does not include any portion of a central business district (as such term is used for purposes of the most recent Census of Retail Trade) unless the poverty rate for eachpopulation census tract in such district is not less than 35 percent (30 percent in the case of an enterprise community).
 
 #### (4) Poverty rate
 
@@ -98,7 +98,7 @@ A nominated area in Alaska or Hawaii shall be treated as meeting the requirement
 
 #### Prior Provisions
 
-A prior section 1392, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2893; amended Pub. L. 96–222, title I, §106(a)(5), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, §3(a)(3), (4), Dec. 24, 1980, 94 Stat. 3465, related to election by general stock ownership corporationsnot to be subject to taxes imposed by this chapter, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+A prior section 1392, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2893; amended Pub. L. 96–222, title I, §106(a)(5), Apr. 1, 1980, 94 Stat. 221; Pub. L. 96–595, §3(a)(3), (4), Dec. 24, 1980, 94 Stat. 3465, related to election by general stock ownership corporations not to be subject to taxes imposed by this chapter, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 #### Amendments
 

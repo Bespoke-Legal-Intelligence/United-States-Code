@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-No telecommunications carrier shall submit or execute a change in a subscriber's selection of a provider of telephone exchange service or telephone toll service except in accordance with such verification procedures as the Commission shall prescribe. Nothing in this section shall preclude any State commission from enforcing such procedures with respect to intrastate services.
+No telecommunications carrier shall submit or execute a change in a subscriber's selection of a provider of telephone exchange service or telephone toll service except in accordance with such verification procedures as the Commission shall prescribe. Nothing in this section shall preclude any State commission from enforcingsuch procedures with respect to intrastate services.
 
 #### (b) Liability for charges
 

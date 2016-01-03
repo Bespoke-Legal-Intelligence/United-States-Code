@@ -24,7 +24,7 @@ Initial 14-day waiting period.—If the Board finds that a qualified employee ha
 
 &emsp;&emsp;(II)
 
-Subsequent days of unemployment.—For subsequent days of unemployment due to the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
+Subsequent days of unemployment.—For subsequent days of unemployment dueto the same stoppage of work, benefits shall be payable as provided in clause (i) of this subparagraph.
 
 &emsp;&emsp;(III)
 
@@ -88,7 +88,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (A) Generally
 
-&emsp;&emsp;The maximum number of days of unemployment within a benefit year for whichbenefits may be paid to an employee shall be 130, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be 130.
+&emsp;&emsp;The maximum number of days of unemployment within a benefit year for which benefits may be paid to an employee shall be 130, and the maximum number of days of sickness within a benefit year for which benefits may be paid to an employee shall be 130.
 
 #### (B) Limitation
 
@@ -134,7 +134,7 @@ The benefits provided for in this section shall be paid to an employee at such r
 
 #### (A) General rule
 
-&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respect to the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
+&emsp;&emsp;With respect to an employee who has 10 or more years of service as defined in section 231(f) of this title, who did not voluntarily retire, and (in a case involving unemployment benefits) did not voluntarily leave work without good cause, who has 14 or more consecutive days of unemployment, or 14 or more consecutive days of sickness, and who is not a qualified employee with respectto the general benefit year current when such unemployment or sickness commences but is or becomes a qualified employee for the next succeeding general benefit year, such succeeding general benefit year shall, in that employee's case, begin on the first day of the month in which such unemployment or sickness commences.
 
 #### (B) Exception
 
@@ -166,7 +166,7 @@ If (i) benefits are paid to any employee with respect to unemployment or sicknes
 
 Benefits accrued to an individual but not yet paid at death shall, upon certification by the Board, be paid, without necessity of filing further claims therefor, to the same individual or individuals to whom any accrued annuities under section 231e(a)(1) of this title are paid. In the event that no such accrued annuities are paid, and if application for such accrued benefits is filed prior to the expiration of two years after the death of the individual to whom such benefits accrued, such accrued benefits shall be paid, upon certification by the Board, to the individual or individuals who would be entitled thereto under section 231e(a)(1) of this title if such accrued benefits were accrued annuities. If there is no individual to whom all or any part of such accrued benefits can be paid in accordance with the foregoing provisions, such benefits or part thereof shall escheat to the credit of the account.
 
-(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10, 1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344.)
+(June 25, 1938, ch. 680, §2, 52 Stat. 1096; June 20, 1939, ch. 227, §§7–9, 21, 53 Stat. 845, 848; Oct. 10,1940, ch. 842, §§9–12, 54 Stat. 1095, 1096; July 31, 1946, ch. 709, §§305–307, 60 Stat. 736, 737; May 15, 1952, ch. 290, §1, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §304, 68 Stat. 1041; Aug. 12, 1955, ch. 869, §4, 69 Stat. 716; Pub. L. 86–28, pt. III, §§302, 303(a), May 19, 1959, 73 Stat. 30; Pub. L. 89–700, title II, §202, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 90–257, title II, §202, Feb. 15, 1968, 82 Stat. 23; Pub. L. 93–445, title IV, §401, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(c)–(e), Aug. 9, 1975, 89 Stat. 461, 462; Pub. L. 98–76, title IV, §412(a), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §§7101(c), 7201(a), Nov. 10, 1988, 102 Stat. 3758, 3774; Pub. L. 104–88, title III, §324(3), Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–251, §§2–5(b), Oct. 9, 1996, 110 Stat. 3161–3165; Pub. L. 111–5, div. B, title II, §2006(a), Feb. 17, 2009, 123 Stat. 445; Pub. L. 111–92, §9(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 111–312, title V, §505(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 112–78, title II, §202(a), Dec. 23, 2011, 125 Stat. 1283; Pub. L. 112–96, title II, §2124(a), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, §504(a), Jan. 2, 2013, 126 Stat. 2344.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Subsec. (a)(3). Pub. L. 100–647, §7201(a)(7), added par. (3).
 
 Subsec. (a)(4). Pub. L. 100–647, §7201(a)(8), inserted "(4)" before "In computing benefits".
 
-Subsec. (c). Pub. L. 100–647, §7101(c), substituted "shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount that bears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600" for "not in excess of $775 in any month shall be taken into account".
+Subsec. (c). Pub. L. 100–647, §7101(c), substituted "shall be taken into account that is not in excess of $775 in any month before 1989 and, in any month in a base year after 1988, is not in excess of an amount thatbears the same ratio to $775 as the monthly compensation base for that year as computed under section 351(i) of this title bears to $600" for "not in excess of $775 in any month shall be taken into account".
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–76 substituted "That in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, no benefits shall be payable for the first fourteen days of unemployment due to such stoppage of work" for "That notwithstanding the provisions of section 351(h) of this title, in any case in which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, other than a strike subject to the disqualification in section 354(a–2)(iii) of this title, none of the first seven days of unemployment due to such stoppage of work shall be included in any registration period; and subject to the registration provisions of section 351(h) of this title, so many of the ensuing seven consecutive calendar days during which his unemployment continues to be caused by such stoppage of work shall constitute a registration period, during which benefits shall be payable for each day of unemployment".
 
@@ -264,7 +264,7 @@ Subsec. (f). Act July 31, 1946, §307, inserted references to sickness.
 
 Subsec. (c). Act Oct. 10, 1940, §10, substituted provisions relating to maximum number of days of unemployment within a benefit year, for provisions relating to maximum benefits payable to an employee within his benefit year.
 
-Subsec. (d). Act Oct. 10, 1940, §11, substituted provisions relating to adjustments for erroneous paymentsand procedure for recovery of such payments, for provisions making applicable section 228i of this title for adjustments and recovery of erroneous payments.
+Subsec. (d). Act Oct. 10, 1940, §11, substituted provisions relating to adjustments for erroneous payments and procedure for recovery of such payments, for provisions making applicable section 228i of this title for adjustments and recovery of erroneous payments.
 
 Subsec. (f). Act Oct. 10, 1940, §12, in cl. (i) substituted provisions relating to registration periods for provisions relating to benefits paid with respect to any period, and in text following cl. (ii) inserted condition relating to benefits which were paid upon the basis of days determined to be days of unemployment and included in the period for which remuneration is payable.
 
@@ -282,7 +282,7 @@ Pub. L. 104–251, §6, Oct. 9, 1996, 110 Stat. 3165, provided that: "The amendm
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1988 Amendment
 
@@ -434,7 +434,7 @@ Pub. L. 100–647, title VII, §7107, Nov. 10, 1988, 102 Stat. 3774, provided th
 
 #### Benefits for Certain Employees Who Exhausted Rights to Benefits Before April 1, 1959
 
-Pub. L. 86–28, pt. III, §303(b), May 19, 1959, 73 Stat. 31, provided that: "An employee who has less than tenyears of service as defined in section 1(f) of the Railroad Retirement Act of 1937 \[section 228a(f) of this title\], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act \[this chapter\], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 \[42 U.S.C. 1400 et seq.\] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act \[this chapter\] shall be applicable in the administration of this subsection."
+Pub. L. 86–28, pt. III, §303(b), May 19, 1959, 73 Stat. 31, provided that: "An employee who has less than ten years of service as defined in section 1(f) of the Railroad Retirement Act of 1937 \[section 228a(f) of this title\], and who has after June 30, 1957, and before April 1, 1959, exhausted (within the meaning prescribed by the Railroad Retirement Board by regulation) his rights to unemployment benefits, shall be paid unemployment benefits for days of unemployment, not exceeding sixty-five, which occur in registration periods beginning on or after June 19, 1958, and before July 1, 1959, and which would not be days with respect to which he would be held entitled otherwise to receive unemployment benefits under the Railroad Unemployment Insurance Act \[this chapter\], except that an employee who has filed, and established, a first claim for benefits under the Temporary Unemployment Compensation Act of 1958 \[42 U.S.C. 1400 et seq.\] may not thereafter establish a claim under this subsection, and an employee who has registered for, and established a claim for benefits under this subsection may not thereafter establish a claim under the Temporary Unemployment Compensation Act of 1958. Except to the extent inconsistent with this subsection, the provisions of the Railroad Unemployment Insurance Act \[this chapter\] shall be applicable in the administration of this subsection."
 
 #### Interchange of Information Between Secretary of Labor and Railroad Retirement Board
 

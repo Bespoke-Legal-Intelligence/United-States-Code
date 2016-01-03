@@ -16,7 +16,7 @@ It is the sense of the Congress that—
 
 #### (b) Funding commitments to international financial institutions; availability of funds subject to appropriations
 
-The Congress recognizes that economic development is a long-term process needing fundingcommitments to international financial institutions. It also notes that the availability of funds for the United States contribution to international financial institutions is subject to the appropriations process.
+The Congress recognizes that economic development is a long-term process needing funding commitments to international financial institutions. It also notes that the availability of funds for the United States contribution to international financial institutions is subject to the appropriations process.
 
 (Pub. L. 95–118, title I, §101, Oct. 3, 1977, 91 Stat. 1067.)
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) all right, title, and interest of any Indian nation or tribe other than any Indian Nation defined in section 1779b of this title (referred to in this section and section 1779g of this title as a "claimant tribe") in or to the Disclaimed Drybed Lands, and any such right, title, or interest held by the United States on behalf of such a claimant tribe, shall be considered to be extinguished in accordance with section 177 of title 25;
 
-&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to theDisclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
+&emsp;&emsp;(B) if any party other than a claimant tribe holds transferred interests in or to the Disclaimed Drybed Lands in violation of section 177 of title 25, Congress approves and ratifies those transfers of interests to the extent that the transfers are in accordance with other applicable law; and
 
 &emsp;&emsp;(C) the documents described in section 1779c(b)(1)(D) of this title shall serve to identify the geographic scope of the interests extinguished by subparagraph (A).
 
@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, after December 13, 2002, neither the United States (or any department or agency of the United States) nor any Indian Nation shall be included as a party to any civil action brought by any private person or private entity to quiet title to, or determine ownership of an interest in or to, the Disclaimed Drybed Lands.
+&emsp;&emsp;Notwithstanding any other provision of law, after December 13, 2002, neither the United States (or any department or agency of the United States) nor any Indian Nation shall be included as a party to any civil action brought by any private person or private entity to quiet title to, or determineownership of an interest in or to, the Disclaimed Drybed Lands.
 
 #### (B) Future actions
 
@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of section 1779c(a) of this title or subsection (a) of this section may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
+&emsp;&emsp;Not later than 180 days after December 13, 2002, any claimant tribe that claims that any title, interest, or entitlement held by the claimant tribe has been extinguished by operation of section 1779c(a) of this title or subsection (a) may file a claim against the United States relating to the extinguishment in the United States Court of Federal Claims.
 
 #### (B) Failure to file
 
@@ -90,7 +90,7 @@
 
 Congress declares that—
 
-&emsp;(1) subsection (b) of this section is intended only to establish a process by which alleged claims may be resolved; and
+&emsp;(1) subsection (b) is intended only to establish a process by which alleged claims may be resolved; and
 
 &emsp;(2) nothing in this section acknowledges, enhances, or establishes any prior right, title, or interest of any claimant tribe in or to the Arkansas Riverbed.
 

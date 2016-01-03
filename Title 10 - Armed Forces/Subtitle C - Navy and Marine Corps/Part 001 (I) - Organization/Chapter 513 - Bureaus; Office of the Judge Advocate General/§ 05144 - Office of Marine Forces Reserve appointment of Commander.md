@@ -14,7 +14,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 &emsp;(B) is determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience.
 
-(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall becounted for purposes of the grade limitations under sections 525 and 526 of this title.
+(3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
 (4) Until December 31, 2006, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended h
 
 Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. He is eligible to succeed himself.
 
-"(2) The Commander, Marine Forces Reserve, while so serving, has the grade of major general, without vacating the officer's permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
+"(2) The Commander, Marine Forces Reserve, while so serving, has the grade of major general, withoutvacating the officer's permanent grade. However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], substituted "has the grade of" for "has a grade".
 

@@ -10,7 +10,7 @@ For purposes of applying sections 2135, 2136(a), and 2137 of this title—
 
 #### (b) Reciprocal nondiscriminatory treatment
 
-(1) The President shall determine, before June 1, 1993, whether any major industrial country has failed to make concessions under trade agreements entered into under section 2902(a) and (b) of this title which provide competitive opportunities for the commerce of the United States in such country substantially equivalent to the competitive opportunities, provided by concessions made by the United States under trade agreements entered into under section 2902(a) and (b) of this title, for the commerce of such country in the United States.
+(1) The President shall determine, before June 1, 1993, whether any major industrial countryhas failed to make concessions under trade agreements entered into under section 2902(a) and (b) of this title which provide competitive opportunities for the commerce of the United States in such country substantially equivalent to the competitive opportunities, provided by concessions made by the United States under trade agreements entered into under section 2902(a) and (b) of this title, for the commerce of such country in the United States.
 
 (2) If the President determines under paragraph (1) that a major industrial country has not made concessions under trade agreements entered into under section 2902(a) and (b) of this title which provide substantially equivalent competitive opportunities for the commerce of the United States, the President shall, either generally with respect to such country or by article produced by such country, in order to restore equivalence of competitive opportunities, recommend to the Congress—
 

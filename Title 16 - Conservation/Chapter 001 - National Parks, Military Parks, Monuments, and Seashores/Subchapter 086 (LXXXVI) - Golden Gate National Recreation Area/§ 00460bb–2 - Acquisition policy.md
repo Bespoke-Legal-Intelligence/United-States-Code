@@ -14,11 +14,11 @@ The easterly one-half of Fort Baker in Marin County, California, shall remain un
 
 #### (d) Presidio of San Francisco; use and occupation of certain acreage by Secretary
 
-Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable use and occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b) of this section.
+Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable use and occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b).
 
 #### (e) Use and occupancy of airfield acreage by Secretary
 
-The Secretary of the Army shall grant to the Secretary within a reasonable time, the irrevocable use and occupancy of forty-five acres of the Crissy Army Airfield of the Presidio, as depicted on the map referred to in subsection (b) of this section.
+The Secretary of the Army shall grant to the Secretary within a reasonable time, the irrevocable use and occupancy of forty-five acres of the Crissy Army Airfield of the Presidio, as depicted on the map referred to in subsection (b).
 
 #### (f) Transfer of remainder to administrative jurisdiction of Secretary; use and occupancy by Coast Guard under permit from Secretary
 
@@ -30,7 +30,7 @@ Point Bonita, Point Diablo, Point Montara, and Lime Point shall remain under the
 
 #### (h) Transfer of certain property of Navy Department to administrative jurisdiction of Secretary
 
-That portion of Fort Miley comprising approximately one and seven-tenths acres of land presently used and required by the Secretary of the Navy for its inshore, underseas warfare installations shall remain under the administrative jurisdiction of the Department of the Navy until such time as all or any portion thereof is determined by the Department of Defense to be excess to its needs, at which time such excessportion shall be transferred to the administrative jurisdiction of the Secretary for purposes of this subchapter. That property known as the Pillar Point Military Reservation, under the jurisdiction of the Secretary of Defense shall be transferred to the administrative jurisdiction of the Secretary at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
+That portion of Fort Miley comprising approximately one and seven-tenths acres of land presently used and required by the Secretary of the Navy for its inshore, underseas warfare installations shall remain under the administrative jurisdiction of the Department of the Navy until such time as all or any portion thereof is determined by the Department of Defense to be excess to its needs, at which time such excess portion shall be transferred to the administrative jurisdiction of the Secretary for purposes of this subchapter. That property known as the Pillar Point Military Reservation, under the jurisdiction of the Secretary of Defense shall be transferred to the administrative jurisdiction of the Secretary at such time as the property, or any portion thereof, becomes excess to the needs of the Department of Defense.
 
 #### (i) New construction; limitation; notice and public hearing; exceptions
 
@@ -38,7 +38,7 @@ New construction and development within the boundaries described in section 460b
 
 #### (j) Owner's reservation of right of use and occupancy for residential purposes for fixed term of years or for life; election by owner; adjustment of compensation; termination of use and occupancy inconsistent with statutory purposes and upon tender of sum for unexpired right; lease of Federal lands: restrictive covenants, offer to prior owner or leaseholder
 
-The owner of improved residential property or of agricultural property on the date of its acquisition by the Secretary under this subchapter may, as a condition of such acquisition, retain for himself and his or her heirs and assigns a right of use and occupancy for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of his or her spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partly donated to the United States, the Secretary shall pay to the owner the fair market value of the property on the date of acquisition minus the fair market value on that date of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his or her determination that it is being exercised in a manner inconsistent with the purposes of this subchapter, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him or her an amount equal to the fair market value of that portion of the right which remains unexpired. Where appropriate in the discretion of the Secretary, he or she may lease federally owned land (or any interest therein) which has been acquired by the Secretary under this subchapter, and which was agricultural land prior to its acquisition. Such lease shall be subject to such restrictive covenants as may be necessary to carry out the purposes of this subchapter. Any land to be leased by the Secretary under this section shall be offered first for such lease to the person who owned such land or who was a leaseholder thereon immediately before its acquisition by the United States.
+The owner of improved residential property or of agricultural property on the date of its acquisition by the Secretary under this subchapter may, as a condition of such acquisition, retain for himself and his or her heirs and assigns a right of use and occupancy for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of his or her spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partly donated to the United States, the Secretary shall pay to the owner the fair market value of the property on the date of acquisition minus the fair market value on that date of theright retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his or her determination that it is being exercised in a manner inconsistent with the purposes of this subchapter, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him or her an amount equal to the fair market value of that portion of the right which remains unexpired. Where appropriate in the discretion of the Secretary, he or she may lease federally owned land (or any interest therein) which has been acquired by the Secretary under this subchapter, and which was agricultural land prior to its acquisition. Such lease shall be subject to such restrictive covenants as may be necessary to carry out the purposes of this subchapter. Any land to be leased by the Secretary under this section shall be offered first for such lease to the person who owned such land or who was a leaseholder thereon immediately before its acquisition by the United States.
 
 #### (k) "Improved and agricultural property" defined
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Secretary shall have the same au
 
 #### (n) Management of State donated lands
 
-The Secretary shall accept and shall manage in accordance with this subchapter, any landand improvements adjacent to the recreation area which are donated by the State of California or its political subdivisions. The boundaries of the recreation area shall be changed to include such donated lands.
+The Secretary shall accept and shall manage in accordance with this subchapter, any land and improvements adjacent to the recreation area which are donated by the State of California or its political subdivisions. The boundaries of the recreation area shall be changed to include such donated lands.
 
 #### (o) Payment deferral; scheduling; interest rate
 
@@ -74,7 +74,7 @@ Upon enactment, referred to in subsec. (d), probably means the date of enactment
 
 In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-"Section 3171 of title 40 relating to purchase of sites for public buildings" substituted in subsec. (m) for "section 34 of the Act of May 30, 1908, relating to purchase of sites for public buildings (35 Stat. 545)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 3171 of title 40 relating to purchase of sites for public buildings" substituted in subsec. (m) for"section 34 of the Act of May 30, 1908, relating to purchase of sites for public buildings (35 Stat. 545)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (m), "section 1304 of title 31" substituted for "the Act of July 27, 1956 (70 Stat. 624) \[31 U.S.C. 724a\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 

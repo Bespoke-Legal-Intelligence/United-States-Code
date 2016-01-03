@@ -18,7 +18,7 @@ Approval process.—If the Postal Service wishes to have the authority, under an
 
 &emsp;&emsp;(A) the Postal Service shall make an appropriate request to the Board of Governors of the Postal Service in such form and manner as the Board requires; and
 
-&emsp;&emsp;(B) the Board of Governors shall approve any such request if the Board certifies, for the annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
+&emsp;&emsp;(B) the Board of Governors shall approve any such request if the Board certifies, forthe annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
 
 &emsp;(3)
 
@@ -26,7 +26,7 @@ Revocation authority.—If the Board of Governors of the Postal Service finds th
 
 (c)
 
-Exceptions for Critical Positions.—Notwithstanding any other provision of law, theBoard of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
+Exceptions for Critical Positions.—Notwithstanding any other provision of law, the Board of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
 
 (d)
 

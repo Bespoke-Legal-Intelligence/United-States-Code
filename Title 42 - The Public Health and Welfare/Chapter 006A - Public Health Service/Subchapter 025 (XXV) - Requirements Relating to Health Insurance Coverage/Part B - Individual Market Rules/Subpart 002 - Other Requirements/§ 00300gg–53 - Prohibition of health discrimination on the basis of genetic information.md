@@ -18,7 +18,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestationof a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
+&emsp;Nothing in paragraph (1) or in paragraphs (1) and (2) of subsection (e) shall be construed to preclude a health insurance issuer from adjusting premium or contribution amounts for an individual on the basis of a manifestation of a disease or disorder in that individual, or in a family member of such individual where such family member is covered under the policy that covers such individual. In such case, the manifestation of a disease or disorder in one individual cannot also be used as genetic information about other individuals covered under the policy issued to such individual and to further increase premiums or contribution amounts.
 
 #### (c) Prohibition on genetic information as preexisting condition
 

@@ -38,7 +38,7 @@
 
 #### (A) Compliance with requirements
 
-&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
+&emsp;&emsp;Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliancewith each requirement described in subparagraphs (B) through (F).
 
 #### (B) Agricultural operations
 
@@ -120,15 +120,17 @@ This section shall not supersede any existing project-specific funding authority
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $300,000,000, to remain available until expended.
+There is authorized to be appropriated to carry out this section $350,000,000, to remain available until expended.
 
-(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311.)
+(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407.)
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e). Pub. L. 114–113 substituted "$350,000,000" for "$300,000,000".
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–235 substituted "$300,000,000" for "$200,000,000".
 

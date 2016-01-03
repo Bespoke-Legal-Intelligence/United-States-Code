@@ -10,7 +10,7 @@ Pub. L. 92–70, §1, Aug. 9, 1971, 85 Stat. 178, provided that: "This Act \[ena
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, §108, Dec. 16, 2009, 123 Stat. 3122, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat.1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, §108, Dec. 16, 2009, 123 Stat. 3122, provided that:
 
 #### "CHAPTER 1
 
@@ -26,7 +26,7 @@ Short Title.—This chapter may be cited as the 'Emergency Steel Loan Guarantee 
 
 Congressional Findings.—Congress finds that—
 
-&emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
+&emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
 &emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
@@ -152,7 +152,7 @@ Increased level one.—A loan guarantee may be provided under this section in ex
 
 Increased level two.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
 
-&emsp;&emsp;&emsp;"(i) the aggregate amount of loans guaranteed at such percentage and outstanding under thissection at any one time does not exceed $100,000,000; and
+&emsp;&emsp;&emsp;"(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
 
 &emsp;&emsp;&emsp;"(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
@@ -282,7 +282,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The Program may guarantee loans provided to qualified oil and gas companies byprivate banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
+In general.—The Program may guarantee loans provided to qualified oil and gas companies by private banking and investment institutions in accordance with procedures, rules, and regulations established by the Board.
 
 &emsp;"(2)
 

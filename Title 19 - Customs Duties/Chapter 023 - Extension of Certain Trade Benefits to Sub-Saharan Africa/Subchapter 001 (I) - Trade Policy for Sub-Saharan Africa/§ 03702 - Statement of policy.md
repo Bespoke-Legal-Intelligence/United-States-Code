@@ -16,9 +16,15 @@ Congress supports—
 
 &emsp;(7) facilitating the development of civil societies and political freedom in sub-Saharan Africa;
 
-&emsp;(8) establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum; and
+&emsp;(8) establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum;
 
-&emsp;(9) the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
+&emsp;(9) the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions; and
 
-(Pub. L. 106–200, title I, §103, May 18, 2000, 114 Stat. 253.)
+&emsp;(10) promoting the role of women in social, political, and economic development in sub-Saharan Africa.
+
+(Pub. L. 106–200, title I, §103, May 18, 2000, 114 Stat. 253; Pub. L. 114–27, title I, §106(a), June 29, 2015, 129 Stat. 368.)
+
+#### Amendments
+
+<b>2015</b>—Par. (10). Pub. L. 114–27 added par. (10).
 

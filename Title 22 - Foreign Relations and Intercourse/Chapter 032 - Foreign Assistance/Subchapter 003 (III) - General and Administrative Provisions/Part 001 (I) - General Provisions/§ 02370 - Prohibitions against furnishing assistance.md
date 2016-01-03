@@ -46,7 +46,7 @@ Upon request of the President (within seventy days after such action referred to
 
 &emsp;Tibet,<sup>1</sup>
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that whenconsideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection, the President may remove a country, for such period as the President determines, from the application of this subsection, and other provisions which reference this subsection, if the President determines and reports to the Congress that such action is important to the national interest of the United States. It is the sense of the Congress that when consideration is given to authorizing assistance to a country removed from the application of this subsection, one of the factors to be weighed, among others, is whether the country in question is giving evidence of fostering the establishment of a genuinely democratic system, with respect for internationally recognized human rights.
 
 #### (g) Use of assistance funds to compensate owners for expropriated or nationalized property; waiver for land reform programs
 
@@ -76,7 +76,7 @@ The President shall consider denying assistance under this chapter to the govern
 
 #### (o) Exclusion from assistance of countries seizing or imposing penalties or sanctions against United States fishing vessels
 
-In determining whether or not to furnish assistance under this chapter, consideration shall be given to excluding from such assistance any country which hereafter seizes, or imposes any penalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.
+In determining whether or not to furnish assistance under this chapter, consideration shall be given to excluding from such assistance any country which hereafter seizes, or imposes anypenalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.
 
 #### (p) Repealed. Pub. L. 93–559, §44, Dec. 30, 1974, 88 Stat. 1813
 
@@ -126,11 +126,11 @@ In any decision to provide or continue to provide any program of assistance to a
 
 (3) The Secretary of State shall prepare and submit to the Congress each year a report containing a description of the amount of nuclear fuel and related assistance and credits provided by any country, or any entity of a country, to Cuba during the preceding year, including the terms of each transfer of such fuel, assistance, or credits.
 
-(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### Amendment of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democrat</i><i>ically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
+<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Subsec. (a)(3). Pub. L. 95–88, §123(a)(2), struck out par. (3) which had dire
 
 Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countries that sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
 
-Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 forTurkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
+Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
 
 <b>1976</b>—Subsec. (k). Pub. L. 94–329, §606, inserted provision exempting from the condition of express approval of Congress any productive enterprise in Egypt which is described in the presentation to Congress for fiscal year 1977.
 
@@ -228,7 +228,7 @@ Subsecs. (s) to (u). Pub. L. 90–137, §301(f)(4), added subsecs. (s) to (u).
 
 <b>1966</b>—Subsec. (i). Pub. L. 89–583, §301(h)(1), provided for denial of assistance to any country which hereafter is officially represented at any international conference when that representation includes planning of activities involving insurrection or subversion, which military efforts, insurrection, or subversion are directed as described in the subsec., for Executive determination that such representation has ceased and for report to Congress that such representation will not be renewed or repeated.
 
-Subsec. (k). Pub. L. 89–583, §301(h)(2), made permanent the temporary (calendar year 1965) prohibition against the initiation of projects exceeding $100,000,000 without the express approval of Congress and included military assistance amounting in the aggregate to more than $100,000,000.
+Subsec. (k). Pub. L. 89–583, §301(h)(2), made permanent the temporary (calendar year 1965) prohibition against the initiation of projects exceeding $100,000,000without the express approval of Congress and included military assistance amounting in the aggregate to more than $100,000,000.
 
 Subsec. (l). Pub. L. 89–583, §301(h)(3), substituted "The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966," for "No assistance shall be provided under this chapter after December 31, 1966, to the government of any less developed country which".
 
@@ -404,7 +404,7 @@ Prohibition.—Subject to paragraph (2), no United States assistance may be furn
 
 "(2)
 
-Requirement for Resumption of Assistance.—Assistance prohibited under paragraph (1) may only be resumed pursuant to a law subsequently enacted by the Congress.
+Requirement for Resumption of Assistance.—Assistance prohibited under paragraph (1) may only beresumed pursuant to a law subsequently enacted by the Congress.
 
 "(f)
 
@@ -474,7 +474,7 @@ Pub. L. 95–426, title VI, §613, Oct. 7, 1978, 92 Stat. 990, as amended by Pub
 
 &emsp;"(1) the President authorized the exchange of notes of May 30, 1977, between the Governments of the United States and Cuba which established an Interests Section for the United States in the Embassy of Switzerland in Havana and an Interests Section for Cuba in the Embassy of Czechoslovakia in Washington;
 
-&emsp;"(2) the President has the authority under the Export Administration Act of 1969 \[section 2401 et seq. of the Appendix to Title 50, War and National Defense\] to limit trade with Cuba being conducted by subsidiaries of American firms operating in third countries;
+&emsp;"(2) the President has the authority under the Export Administration Act of 1969 \[50 U.S.C. 4601 et seq.\] to limit trade with Cuba being conducted by subsidiaries of American firms operating in third countries;
 
 &emsp;"(3) the President has the power to sever all diplomatic and economic relations with Cuba; and
 
@@ -482,7 +482,7 @@ Pub. L. 95–426, title VI, §613, Oct. 7, 1978, 92 Stat. 990, as amended by Pub
 
 #### Resumption of Military Assistance to Turkey; Determination and Certification to Congress by President of Military Cooperation as in Best Interests of United States and NATO
 
-Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: "Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of no further force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is in the national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement."
+Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: "Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of nofurther force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is in the national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement."
 
 #### Determination and Certification Regarding Resumption of Full Military Cooperation With Turkey
 
@@ -582,7 +582,7 @@ Pub. L. 89–273, title I, §116, Oct. 20, 1965, 79 Stat. 1005.
 
 #### Interdiction of the Delivery of Offensive Weapons to Cuba
 
-For Presidential proclamation prohibiting the delivery of offensive weapons to Cuba, see Proc. No. 3504, Oct. 23, 1962, 27 F.R. 10401, set out as a note preceding section 1 of the Appendix to Title 50, War and National Defense.
+For Presidential proclamation prohibiting the delivery of offensive weapons to Cuba, see Proc. No. 3504, Oct. 23, 1962, 27 F.R. 10401, set out as a note preceding section 1 of Title 50, War and National Defense.
 
 #### Proc. No. 3447. Embargo on Trade With Cuba
 

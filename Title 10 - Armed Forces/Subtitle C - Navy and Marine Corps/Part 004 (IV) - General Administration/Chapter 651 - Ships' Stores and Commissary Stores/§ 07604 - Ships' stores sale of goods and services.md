@@ -56,5 +56,5 @@ Pub. L. 101–510, div. A, title III, §329(a)(3), Nov. 5, 1990, 104 Stat. 1534,
 
 #### Conversion of Ships' Stores to Operation as Nonappropriated Fund Instrumentalities; Transfer of Funds
 
-Pub. L. 103–160, div. A, title III, §371(a), (b), Nov. 30, 1993, 107 Stat. 1634, 1635, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships' stores from operation as activity funded by direct appropriations tooperation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by Pub. L. 104–106, div. A, title III, §340(a)(1), Feb. 10, 1996, 110 Stat. 265.
+Pub. L. 103–160, div. A, title III, §371(a), (b), Nov. 30, 1993, 107 Stat. 1634, 1635, as amended by Pub. L. 103–337, div. A, title III, §374(a), Oct. 5, 1994, 108 Stat. 2736, provided that not later than Dec. 31, 1995, Secretary of the Navy was to convert operation of all ships' stores from operation as activity funded by direct appropriations to operation by Navy Exchange Service Command as activity funded from sources other than appropriated funds, prior to repeal by Pub. L. 104–106, div. A, title III, §340(a)(1), Feb. 10, 1996, 110 Stat. 265.
 

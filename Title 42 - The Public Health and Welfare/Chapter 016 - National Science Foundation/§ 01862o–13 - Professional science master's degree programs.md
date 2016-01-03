@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;The Director shall establish a clearinghouse, in collaboration with 4-year institutions of higher education (including applicable graduate schools and academic departments), and industries and Federal agencies that employ science-trained personnel, to share program elements used in successful professional science master's degree programs and other advanced degree programs related to science, technology, engineering, and mathematics.
+&emsp;The Director shall establish a clearinghouse, in collaboration with 4-year institutions of higher education (including applicable graduate schools and academic departments), and industries and Federal agencies that employ science-trained personnel, to share programelements used in successful professional science master's degree programs and other advanced degree programs related to science, technology, engineering, and mathematics.
 
 #### (2) Availability
 
@@ -72,7 +72,7 @@ The Higher Education Act of 1965, referred to in subsec. (b)(2)(D), is Pub. L. 8
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not aspart of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Definitions
 

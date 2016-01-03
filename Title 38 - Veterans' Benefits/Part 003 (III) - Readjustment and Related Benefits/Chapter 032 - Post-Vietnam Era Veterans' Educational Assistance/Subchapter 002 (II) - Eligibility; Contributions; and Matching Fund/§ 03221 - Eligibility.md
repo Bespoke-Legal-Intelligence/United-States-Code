@@ -40,7 +40,7 @@ Pub. L. 98–525, title VII, §704, Oct. 19, 1984, 98 Stat. 2564, which provided
 
 Pub. L. 94–502, title IV, §408, Oct. 15, 1976, 90 Stat. 2397, provided that:
 
-"(a)(1) No individual on active duty in the Armed Forces may initially enroll in the educational assistance program provided for in chapter 32 of title 38,United States Code (as added by section 404 of this Act) after December 31, 1981, unless—
+"(a)(1) No individual on active duty in the Armed Forces may initially enroll in the educational assistance program provided for in chapter 32 of title 38, United States Code (as added by section 404 of this Act) after December 31, 1981, unless—
 
 &emsp;"(A) before June 1, 1981, the President submits to both Houses of Congress a written recommendation that such program continue to be open for new enrollments; and
 

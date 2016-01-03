@@ -26,8 +26,6 @@ In General.—Each State rail plan shall, at a minimum, contain the following:
 
 &emsp;(11) A compilation of studies and reports on high-speed rail corridor development within the State not included in a previous plan under this subchapter,<sup>1</sup> and a plan for funding any recommended development of such corridors in the State.
 
-&emsp;(12) A statement that the State is in compliance with the requirements of section 22102.
-
 (b)
 
 Long-Range Service and Investment Program.—
@@ -70,7 +68,15 @@ Considerations for project list.—In preparing the list of freight and intercit
 
 &emsp;&emsp;(G) Projected ridership and other service measures for passenger rail projects.
 
-(Added Pub. L. 110–432, div. B, title III, §303(a), Oct. 16, 2008, 122 Stat. 4949.)
+(Added Pub. L. 110–432, div. B, title III, §303(a), Oct. 16, 2008, 122 Stat. 4949; amended Pub. L. 114–94, div. A, title XI, §11315(a)(2), Dec. 4, 2015, 129 Stat. 1674.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: "A statement that the State is in compliance with the requirements of section 22102."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "chapter,".</i>
 

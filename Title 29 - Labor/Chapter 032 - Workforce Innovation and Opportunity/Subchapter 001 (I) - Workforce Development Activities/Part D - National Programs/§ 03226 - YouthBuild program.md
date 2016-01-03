@@ -90,7 +90,7 @@ In this section:
 
 #### (12) YouthBuild program
 
-&emsp;The term "YouthBuild program" means any program that receives assistance under thissection and provides disadvantaged youth with opportunities for employment, education, leadership development, and training through the rehabilitation (which, for purposes of this section, shall include energy efficiency enhancements) or construction of housing for homeless individuals and low-income families, and of public facilities.
+&emsp;The term "YouthBuild program" means any program that receives assistance under this section and provides disadvantaged youth with opportunities for employment, education, leadership development, and training through the rehabilitation (which, for purposes of this section, shall include energy efficiency enhancements) or construction of housing for homeless individuals and low-income families, and of public facilities.
 
 #### (c) YouthBuild grants
 
@@ -134,7 +134,7 @@ In this section:
 
 &emsp;&emsp;(C) Supervision and training for participants—
 
-&emsp;&emsp;&emsp;(i) in the rehabilitation or construction of community and other public facilities, except that not more than 15 percent of funds appropriated to carry out this section may be used for such supervision and training; and
+&emsp;&emsp;&emsp;(i) in the rehabilitation or construction of community and other public facilities,except that not more than 15 percent of funds appropriated to carry out this section may be used for such supervision and training; and
 
 &emsp;&emsp;&emsp;(ii) if approved by the Secretary, in additional in-demand industry sectors or occupations in the region in which the program operates.
 
@@ -162,7 +162,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) a request for the grant, specifying the amount of the grant requested and its proposed uses;
 
-&emsp;&emsp;&emsp;(iii) a description of the applicant and a statement of its qualifications, including a description of the applicant's relationship with local boards, one-stop operators, localunions, entities carrying out registered apprenticeship programs, other community groups, and employers, and the applicant's past experience, if any, with rehabilitation or construction of housing or public facilities, and with youth education and employment training programs;
+&emsp;&emsp;&emsp;(iii) a description of the applicant and a statement of its qualifications, including a description of the applicant's relationship with local boards, one-stop operators, local unions, entities carrying out registered apprenticeship programs, other community groups, and employers, and the applicant's past experience, if any, with rehabilitation or construction of housing or public facilities, and with youth education and employment training programs;
 
 &emsp;&emsp;&emsp;(iv) a description of the proposed site for the proposed program;
 
@@ -258,7 +258,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 &emsp;(1) for rental by, or sale to, homeless individuals or low-income families; or
 
-&emsp;(2) for use as transitional or permanent housing, for the purpose of assisting in the movement of homeless individuals to independent living.
+&emsp;(2) for use as transitional or permanent housing, for the purpose of assisting in themovement of homeless individuals to independent living.
 
 #### (e) Additional program requirements
 
@@ -340,7 +340,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (h) Subgrants and contracts
 
-Each recipient of a grant under subsection (c) to carry out a YouthBuild program shall provide the services and activities described in this section directly or through subgrants, contracts, or other arrangements with local educational agencies, institutions of higher education, State or local housing development agencies, other public agencies, including agencies of Indian tribes, or private organizations.
+Each recipient of a grant under subsection (c) to carry out a YouthBuild program shall providethe services and activities described in this section directly or through subgrants, contracts, or other arrangements with local educational agencies, institutions of higher education, State or local housing development agencies, other public agencies, including agencies of Indian tribes, or private organizations.
 
 #### (i) Authorization of appropriations
 
@@ -368,5 +368,127 @@ The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pu
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+
+#### Transfer of Functions and Savings Provisions
+
+Pub. L. 109–281, §3, Sept. 22, 2006, 120 Stat. 1182, provided that:
+
+"(a)
+
+Definitions.—For purposes of this section, unless otherwise provided or indicated by the context—
+
+&emsp;"(1) the term 'Federal agency' has the meaning given to the term 'agency' by section 551(1) of title 5, United States Code;
+
+&emsp;"(2) the term 'function' means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program; and
+
+&emsp;"(3) the term 'office' includes any office, administration, agency, institute, unit, organizational entity, or component thereof.
+
+"(b)
+
+Transfer of Functions.—There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section \[Sept. 22, 2006\] (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] 42 U.S.C. 12899 et seq.).
+
+"(c)
+
+Determinations of Certain Functions by the Office of Management and Budget.—If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under subsection (b).
+
+"(d)
+
+Personnel Provisions.—
+
+&emsp;"(1)
+
+Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code.
+
+&emsp;"(2)
+
+Experts and consultants.—The Secretary of Labor may obtain the services of experts and consultants in accordance with section 3109 of title 5, United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultants who are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently.
+
+"(e)
+
+Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Labor of responsibility for the administration of such functions.
+
+"(f)
+
+Reorganization.—The Secretary of Labor is authorized to allocate or reallocate any function transferred under subsection (b) among the officers of the Department of Labor, and to establish, consolidate, alter, or discontinue such organizational entities in the Department of Labor as may be necessary or appropriate.
+
+"(g)
+
+Rules.—The Secretary of Labor is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, United States Code, such rules and regulations as the Secretary of Labor determines necessary or appropriate to administer and manage the functions of the Department of Labor.
+
+"(h)
+
+Transfer and Allocations of Appropriations.—Except as otherwise provided in this section, the assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with the functions transferred by this section, subject to section 1531 of title 31, United States Code, shall be transferred to the Department of Labor. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+
+"(i)
+
+Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to section 1531 of title 31, United States Code, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section.
+
+"(j)
+
+Savings Provisions.—
+
+&emsp;"(1)
+
+Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+
+&emsp;&emsp;"(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this section; and
+
+&emsp;&emsp;"(B) which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section,
+
+> &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Labor or other authorized official, a court of competent jurisdiction, or by operation of law.
+
+&emsp;"(2)
+
+Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+
+&emsp;"(3)
+
+Suits not affected.—The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted.
+
+&emsp;"(4)
+
+Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of Housing and Urban Development, or by or against any individual in the official capacity of such individual as an officer of the Department of Housing and Urban Development, shall abate by reason of the enactment of this section.
+
+&emsp;"(5)
+
+Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of Housing and Urban Development relating to a function transferred under this section may be continued by the Department of Labor with the same effect as if this section had not been enacted.
+
+"(k)
+
+Separability.—If a provision of this section or its application to any person or circumstance is held invalid, neither the remainder of this section nor the application of the provision to other persons or circumstances shall be affected.
+
+"(l)
+
+Transition.—The Secretary of Labor is authorized to utilize—
+
+&emsp;"(1) the services of such officers, employees, and other personnel of the Department of Housing and Urban Development with respect to functions transferred to the Department of Labor by this section; and
+
+&emsp;"(2) funds appropriated to such functions for such period of time,
+
+> as may reasonably be needed to facilitate the orderly implementation of this section.
+
+"(m)
+
+Accomplishing Orderly Transfer.—Consistent with the requirements of this section, the Secretary of Labor and the Secretary of Housing and Urban Development shall take such actions as the Secretaries determine are appropriate to accomplish the orderly transfer of functions as described in subsection (b).
+
+"(n)
+
+Administration of Prior Grants.—Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under section 2801 of this title\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] 42 U.S.C. 12899 et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
+
+"(o)
+
+References.—A reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to—
+
+&emsp;"(1) the Secretary of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Secretary of Labor; and
+
+&emsp;"(2) the Department of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Department of Labor.
+
+"(p)
+
+Effective Date.—This section takes effect on the earlier of—
+
+&emsp;"(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
+
+&emsp;"(2) September 30, 2006."
 

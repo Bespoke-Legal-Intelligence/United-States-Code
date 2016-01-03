@@ -48,7 +48,7 @@ Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: "T
 
 &emsp;"(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
 
-&emsp;"(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewerrural inhabitants actually have or can afford electricity;
+&emsp;"(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
 
 &emsp;"(5) wood, animal and agricultural waste, and other 'noncommercial' fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
 

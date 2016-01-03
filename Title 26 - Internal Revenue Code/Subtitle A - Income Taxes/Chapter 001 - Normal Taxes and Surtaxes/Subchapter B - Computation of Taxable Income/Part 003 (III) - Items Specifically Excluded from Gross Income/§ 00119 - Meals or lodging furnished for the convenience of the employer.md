@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 #### (2) Certain factors not taken into account with respect to meals
 
-&emsp;In determining whether meals are furnished for the convenience of the employer, the fact that a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
+&emsp;In determining whether meals are furnished for the convenience of the employer, the factthat a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
 
 #### (3) Certain fixed charges for meals
 
@@ -214,5 +214,5 @@ Limitation on Deduction.—If any individual receives a subsistence allowance wh
 
 "(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979."
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or beforeApril 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979."
 

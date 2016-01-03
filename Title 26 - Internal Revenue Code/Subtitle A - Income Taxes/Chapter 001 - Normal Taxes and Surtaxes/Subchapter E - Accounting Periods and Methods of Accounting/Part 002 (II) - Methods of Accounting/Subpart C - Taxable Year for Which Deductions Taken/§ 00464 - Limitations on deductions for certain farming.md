@@ -70,11 +70,11 @@ Subsection (a) shall not apply to any amount paid for supplies which are on hand
 
 For purposes of this section, the term "farming" means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
 
-(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047.)
+(Added Pub. L. 94–455, title II, §207(a)(1), Oct. 4, 1976, 90 Stat. 1536; amended Pub. L. 95–600, title VII, §701(l)(3), Nov. 6, 1978, 92 Stat. 2907; Pub. L. 97–354, §5(a)(30), Oct. 19, 1982, 96 Stat. 1695; Pub.L. 99–514, title IV, §404(a), (b)(1), title VIII, §803(b)(8), Oct. 22, 1986, 100 Stat. 2223, 2224, 2356; Pub. L. 100–647, title I, §1008(a)(4), Nov. 10, 1988, 102 Stat. 3437; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 113–295, div. A, title II, §221(a)(58)(A), (B)(i), (C), (D), Dec. 19, 2014, 128 Stat. 4047.)
 
 #### References in Text
 
-Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined "farming syndicate", was transferred to section 461 of this title and redesignated as subsec. (j) by Pub. L. 113–295, div. A, title II, §221(a)(58)(B)(i), Dec. 19, 2014, 128 Stat. 4047.
+Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined "farming syndicate", was transferred to section 461 of this title and redesignated as subsec. (j) of that section by Pub. L. 113–295, div. A, title II, §221(a)(58)(B)(i), Dec. 19, 2014, 128 Stat. 4047.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Subsection (c), referred to in subsec. (d)(2)(B)(iii), which defined "farming sy
 
 Subsec. (c). Pub. L. 113–295, §221(a)(58)(C)(i), redesignated subsec. (d) as (c). Former subsec. (c) transferred to section 461 of this title.
 
-Pub. L. 113–295, §221(a)(58)(B)(i), transferred subsec. (c) defining the term "farming syndicate" to section 461 of this title.
+Pub. L. 113–295, §221(a)(58)(B)(i), transferred subsec. (c) defining the term "farming syndicate" to section 461 of this title and redesignated it as subsec. (j) of that section.
 
 Subsec. (d). Pub. L. 113–295, §221(a)(58)(D), struck out "Subsections (a) and (b) to apply to" before "Certain persons" in heading, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate."
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time oftheir enactment, Oct. 4, 1976, see section 701(l)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
+Amendment by Pub. L. 95–600 effective as if included in this section or section 447 of this title at the time of their enactment, Oct. 4, 1976, see section 701(l)(4) of Pub. L. 95–600, set out as a note under section 447 of this title.
 
 #### Effective Date
 

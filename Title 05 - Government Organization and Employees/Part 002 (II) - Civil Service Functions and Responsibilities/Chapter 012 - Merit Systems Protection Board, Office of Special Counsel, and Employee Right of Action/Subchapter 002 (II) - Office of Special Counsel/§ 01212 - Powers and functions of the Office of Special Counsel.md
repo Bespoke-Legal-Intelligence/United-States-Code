@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) file a complaint or make recommendations for disciplinary action under section 1215;
 
-&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agencyhead under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+&emsp;(3) receive, review, and, where appropriate, forward to the Attorney General or an agency head under section 1213, disclosures of violations of any law, rule, or regulation, or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
 &emsp;(4) review rules and regulations issued by the Director of the Office of Personnel Management in carrying out functions under section 1103 and, where the Special Counsel finds that any such rule or regulation would, on its face or as implemented, require the commission of a prohibited personnel practice, file a written complaint with the Board; and
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 #### Policy Statement Regarding Implementation of Whistleblower Protection Act
 
-Pub. L. 103–424, §12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: "No later than 6 months after the date ofenactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication."
+Pub. L. 103–424, §12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: "No later than 6 months after the date of enactment of this Act \[Oct. 29, 1994\], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 \[see Short Title of 1989 Amendment note set out under section 1201 of this title\]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication."
 
 #### Annual Survey of Individuals Seeking Assistance
 

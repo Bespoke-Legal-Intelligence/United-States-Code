@@ -154,7 +154,7 @@
 
 #### (i) Establishment of payment methods
 
-&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entities participating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
+&emsp;&emsp;&emsp;The Secretary shall develop payment methods for the pilot program for entitiesparticipating in the pilot program. Such payment methods may include bundled payments and bids from entities for episodes of care. The Secretary shall make payments to the entity for services covered under this section.
 
 #### (ii) No additional program expenditures
 
@@ -180,7 +180,7 @@
 
 #### (D) Payment for post-acute care services after the episode of care
 
-&emsp;&emsp;The Secretary shall establish procedures, in the case where an applicable beneficiaryrequires continued post-acute care services after the last day of the episode of care, under which payment for such services shall be made.
+&emsp;&emsp;The Secretary shall establish procedures, in the case where an applicable beneficiary requires continued post-acute care services after the last day of the episode of care, under which payment for such services shall be made.
 
 #### (4) Quality measures
 

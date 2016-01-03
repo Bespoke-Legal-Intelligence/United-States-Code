@@ -26,7 +26,7 @@ Related series of violations.—A separate violation occurs for each motor vehic
 
 &emsp;(3)
 
-Section 30166.—Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $35,000,000.
+Section 30166.—Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under thatsection or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $35,000,000.
 
 &emsp;(4)
 
@@ -64,7 +64,25 @@ Relevant Factors in Determining Amount of Penalty or Compromise.—In determinin
 
 Subpenas for Witnesses.—In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803; Pub. L. 109–59, title X, §10309(c), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §§31203(a), 31304(b), title II, §32301(c), July 6, 2012, 126 Stat. 758, 764, 788.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803; Pub. L. 109–59, title X, §10309(c), Aug. 10, 2005, 119 Stat. 1942; Pub. L. 112–141, div. C, title I, §§31203(a), 31304(b), title II, §32301(c), July 6, 2012, 126 Stat. 758, 764, 788; Pub. L. 114–94, div. B, title XXIV, §24110(a), Dec. 4, 2015, 129 Stat. 1709.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 114–94, div. B, title XXIV, §24110(a), (b), Dec. 4, 2015, 129 Stat. 1709, provided that, effective on the date the Secretary of Transportation makes the certification required by section 31203(b) of Pub. L. 112–141, set out as a note below, subsection (a) of this section is amended:</i>
+
+<i>(1) in paragraph (1)—</i>
+
+<i>(A) by striking "$5,000" and inserting "$21,000"; and</i>
+
+<i>(B) by striking "$35,000,000" and inserting "$105,000,000"; and</i>
+
+<i>(2) in paragraph (3)—</i>
+
+<i>(A) by striking "$5,000" and inserting "$21,000"; and</i>
+
+<i>(B) by striking "$35,000,000" and inserting "$105,000,000".</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -114,6 +132,10 @@ This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §24110(a)(1), substituted "$21,000" for "$5,000" and "$105,000,000" for "$35,000,000".
+
+Subsec. (a)(3). Pub. L. 114–94, §24110(a)(2), substituted "$21,000" for "$5,000" and "$105,000,000" for "$35,000,000".
+
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32301(c), substituted "30141 through 30147, or 31137" for "or 30141 through 30147".
 
 Pub. L. 112–141, §31203(a)(1)(A), substituted "30123(a)" for "30123(d)" and "$35,000,000" for "$15,000,000".
@@ -132,6 +154,18 @@ Subsec. (c). Pub. L. 112–141, §31203(a)(2), amended subsec. (c) generally. Pr
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "any of sections 30112" for "section 30112" and inserted "any of" before "those sections" in two places.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. B, title XXIV, §24110(b), (c), Dec. 4, 2015, 129 Stat. 1709, provided that:
+
+"(b)
+
+Effective Date.—The amendments made by subsection (a) of this section \[amending this section\] take effect on the date that the Secretary certifies to Congress that the National Highway Traffic Safety Administration has issued the final rule required by section 31203(b) of the Moving Ahead for Progress In the 21st Century Act (Public Law 112–141; 126 Stat. 758; 49 U.S.C. 30165 note).
+
+"(c)
+
+Publication of Effective Date.—The Secretary shall publish notice of the effective date under subsection (b) of this section in the Federal Register."
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–141, div. C, title I, §31203(c), July 6, 2012, 126 Stat. 758, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b) \[set out as a note below\] or 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
@@ -144,5 +178,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Civil Penalty Criteria
 
-Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
+Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
 

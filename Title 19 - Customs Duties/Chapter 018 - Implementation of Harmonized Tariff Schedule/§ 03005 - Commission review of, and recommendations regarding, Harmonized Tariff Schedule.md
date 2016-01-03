@@ -16,7 +16,7 @@ The Commission shall keep the Harmonized Tariff Schedule under continuous review
 
 #### (b) Agency and public views regarding recommendations
 
-In formulating recommendations under subsection (a) of this section, the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
+In formulating recommendations under subsection (a), the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
 
 &emsp;(1) shall give notice of the proposed recommendations and afford reasonable opportunity for interested parties to present their views in writing; and
 
@@ -24,7 +24,7 @@ In formulating recommendations under subsection (a) of this section, the Commiss
 
 #### (c) Submission of recommendations
 
-The Commission shall submit recommendations under this section to the President in the form of a report that shall include a summary of the information on which the recommendations were based, together with a statement of the probable economic effect of each recommendedchange on any industry in the United States. The report also shall include a copy of all written views submitted by interested Federal agencies and a copy or summary, prepared by the Commission, of the views of all other interested parties.
+The Commission shall submit recommendations under this section to the President in the form of a report that shall include a summary of the information on which the recommendations were based, together with a statement of the probable economic effect of each recommended change on any industry in the United States. The report also shall include a copy of all written views submitted by interested Federal agencies and a copy or summary, prepared by the Commission, of the views of all other interested parties.
 
 #### (d) Requirements regarding recommendations
 

@@ -45,7 +45,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 &emsp;&emsp;(A) the aggregate amount paid for such taxable year to Archer MSAs of such individual,
 
-&emsp;&emsp;(B) the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer's gross income for such taxable year undersection 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
+&emsp;&emsp;(B) the aggregate amount contributed to health savings accounts of such individual which is excludable from the taxpayer's gross income for such taxable year under section 106(d) (and such amount shall not be allowed as a deduction under subsection (a)), and
 
 &emsp;&emsp;(C) the aggregate amount contributed to health savings accounts of such individual for such taxable year under section 408(d)(9) (and such amount shall not be allowed as a deduction under subsection (a)).
 
@@ -131,6 +131,10 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
 
+#### (C) Special rule for individuals eligible for certain veterans benefits
+
+&emsp;&emsp;An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38, United States Code).
+
 #### (2) High deductible health plan
 
 #### (A) In general
@@ -155,7 +159,7 @@ For purposes of this section—
 
 #### (C) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (withinthe meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
 
 #### (D) Special rules for network plans
 
@@ -329,7 +333,7 @@ For purposes of this section—
 
 #### (7) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
+&emsp;The transfer of an individual's interest in a health savings account to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision ofthis subtitle, and such interest shall, after such transfer, be treated as a health savings account with respect to which such spouse is the account beneficiary.
 
 #### (8) Treatment after death of account beneficiary
 
@@ -387,7 +391,7 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854.)
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -402,6 +406,8 @@ The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv
 A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(1)(C). Pub. L. 114–41 added subpar. (C).
 
 <b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(a), inserted at end "Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin."
 
@@ -431,6 +437,10 @@ Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 <b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–41, title IV, §4007(b)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2015."
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 9003(a) of Pub. L. 111–148 applicable to amounts paid with respect to taxable years beginning after Dec. 31, 2010, see section 9003(d)(1) of Pub. L. 111–148, set out as a note under section 220 of this title.
@@ -458,6 +468,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2016</b>—Revenue Procedure 2015–30.
 
 <b>2015</b>—Revenue Procedure 2014–30.
 

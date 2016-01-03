@@ -12,7 +12,7 @@
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–237 inserted "(or, at the option of those cotton producers who had an established practice of using 32 inch rows before the 1991 crop, 32 inch rows)" after "30 inch rows" and inserted at end "For the 1992 through 1995 crops, the rules establishing the requirements for eligibility for conserving use for payment acres shall be the same rules as were in effect for 1991 crops."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1995 crops, except that, for the 1991 through 1995 crops, the rules shall allow 30 inch rows to be taken into account for classifying the acreage planted to cotton and the area skipped" for "1990 crops".
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1995 crops, except that, for the 1991 through 1995 crops, therules shall allow 30 inch rows to be taken into account for classifying the acreage planted to cotton and the area skipped" for "1990 crops".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990 crops" for "1985 crops".
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretar
 
 <b>1960</b>—Subsec. (b). Pub. L. 86–553, §1, struck out second sentence which read as follows: "The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeasurement if the planted acreage is found to be in excess of the allotted acreage" which is now covered by subsec. (c) of this section.
 
-Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreageplanted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
+Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
 
 <b>1954</b>—Subsec. (b). Act Aug. 28, 1954, struck out last sentence relating to overplanting of cotton acreage.
 

@@ -6,7 +6,7 @@ The President is authorized to furnish assistance, on such terms and conditions 
 
 #### (b) Assistance for hospital centers
 
-The President is authorized, notwithstanding the provisions of the Mutual Defense Assistance Control Act of 1951 \[22 U.S.C. 1611 et seq.\], to furnish assistance, on such terms and conditions as he may specify, to institutions referred to in subsection (a) of this section, and to hospital centers for medical education and research outside the United States, founded or sponsored by United States citizens.
+The President is authorized, notwithstanding the provisions of the Mutual Defense AssistanceControl Act of 1951 \[22 U.S.C. 1611 et seq.\], to furnish assistance, on such terms and conditions as he may specify, to institutions referred to in subsection (a) of this section, and to hospital centers for medical education and research outside the United States, founded or sponsored by United States citizens.
 
 #### (c) Authorization of appropriations
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsection (b), funds appropriated under this 
 
 #### References in Text
 
-The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, as amended, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by section 2416(e) of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, as amended, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by section 4619(e) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

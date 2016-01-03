@@ -82,9 +82,9 @@ There are authorized to be appropriated to the Director of the Federal Bureau of
 
 #### (i) Authorization of appropriations to the Secretary of Homeland Security
 
-There are authorized to be appropriated to the Secretary of Homeland Security, <sup>4</sup> $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+There are authorized to be appropriated to the Secretary of Homeland Security,<sup>4</sup> $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
-(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572;Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155.)
+(Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Viole
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4, §1251(2)(A)(ii), which directed the insertion of ", including regional trafficking in persons officers," after "for additional personnel," was executed by making the insertion after "for additional personnel", to reflect the probable intent of Congress.
 
-Pub. L. 113–4, §1251(2)(A)(i), (iii), substituted "$2,000,000 for each of the fiscal years 2014 through 2017" for "$5,500,000 for each of the fiscal years 2008 through 2011" and struck out ", and $3,000 for official reception and representation expenses" before "for each of the fiscal years 2008 through 2011" the second time appearing.
+Pub. L. 113–4, §1251(2)(A)(i), (iii), substituted "$2,000,000 for each of the fiscal years 2014 through 2017"for "$5,500,000 for each of the fiscal years 2008 through 2011" and struck out ", and $3,000 for official reception and representation expenses" before "for each of the fiscal years 2008 through 2011" the second time appearing.
 
 Subsec. (b)(1). Pub. L. 113–4, §1251(2)(B)(i), substituted "$14,500,000 for each of the fiscal years 2014 through 2017" for "$12,500,000 for each of the fiscal years 2008 through 2011".
 
@@ -164,7 +164,7 @@ Subsec. (d)(A). Pub. L. 110–457, §301(4)(A), substituted "$10,000,000 for eac
 
 Subsec. (d)(B). Pub. L. 110–457, §301(4)(B), substituted "2008 through 2011" for "2004, 2005, 2006, and 2007".
 
-Subsec. (e)(1). Pub. L. 110–457, §301(5)(A), substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 forfiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
+Subsec. (e)(1). Pub. L. 110–457, §301(5)(A), substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
 
 Subsec. (e)(2). Pub. L. 110–457, §301(5)(B), made technical amendment to reference in original act which appears in text as reference to section 2152d of this title and substituted "$15,000,000 for each of the fiscal years 2008 through 2011." for "$5,000,000 for fiscal year 2001, $10,000,000 for fiscal year 2002, and $15,000,000 for each of the fiscal years 2003 through 2007."
 
@@ -184,7 +184,7 @@ Subsec. (c)(1). Pub. L. 109–164, §301(3), substituted "2004, 2005, 2006, and 
 
 Subsec. (d). Pub. L. 109–164, §301(4), substituted "2004, 2005, 2006, and 2007" for "2004 and 2005" in two places.
 
-Subsec. (e). Pub. L. 109–164, §301(5), substituted "2003 through 2007" for "2003 through 2005" in pars. (1) and (2) and "$300,000 for each of the fiscal years 2004 through 2007" for "$300,000 for fiscal year 2004 and $300,000 for fiscal year 2005" in par. (3).
+Subsec. (e). Pub. L. 109–164, §301(5), substituted "2003 through 2007" for "2003 through 2005" in pars. (1) and (2)and "$300,000 for each of the fiscal years 2004 through 2007" for "$300,000 for fiscal year 2004 and $300,000 for fiscal year 2005" in par. (3).
 
 Subsec. (f). Pub. L. 109–164, §301(6), substituted "2004, 2005, 2006, and 2007" for "2004 and 2005".
 

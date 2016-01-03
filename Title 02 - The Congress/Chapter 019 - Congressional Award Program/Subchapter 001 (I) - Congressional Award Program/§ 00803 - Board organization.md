@@ -60,7 +60,7 @@ The Board shall meet at least twice a year at the call of the Chairman (with at 
 
 #### (g) Chairman and Vice Chairman
 
-The Chairman and the Vice Chairman of the Board shall be elected from among the membersof the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
+The Chairman and the Vice Chairman of the Board shall be elected from among the members of the Board by a majority vote of the Board for such terms as the Board determines. The Vice Chairman shall perform the duties of the Chairman in his absence.
 
 #### (h) Appointment, functions, etc., of committees; membership
 
@@ -122,7 +122,7 @@ Subsec. (b). Pub. L. 98–33, §1(b), designated existing provisions as par. (1)
 
 #### Transition Provisions
 
-Pub. L. 100–674, §3, Nov. 17, 1988, 102 Stat. 3998, provided that: "Not later than 120 days after the date ofthe enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b))."
+Pub. L. 100–674, §3, Nov. 17, 1988, 102 Stat. 3998, provided that: "Not later than 120 days after the date of the enactment of this Act \[Nov. 17, 1988\], the congressional leadership shall appoint members to fill vacancies on the Congressional Award Board in accordance with section 4(a) of the Congressional Award Act \[2 U.S.C. 803(a)\] (as amended by section 2(b)). In filling such vacancies, the congressional leadership shall first appoint members from the Congressional Award Association and local Congressional Award Councils in accordance with section 4(a) of the Congressional Award Act (as amended by section 2(b))."
 
 #### Exceptional Terms for Certain Board Members
 

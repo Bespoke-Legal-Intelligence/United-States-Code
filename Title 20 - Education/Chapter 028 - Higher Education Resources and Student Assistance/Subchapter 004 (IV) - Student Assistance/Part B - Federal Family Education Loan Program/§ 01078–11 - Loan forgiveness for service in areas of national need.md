@@ -64,7 +64,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;The individual—
 
-&emsp;&emsp;(A) is highly qualified, as such term is defined in section 7801 of this title; and
+&emsp;&emsp;(A) is highly qualified, as such term is defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]; and
 
 &emsp;&emsp;(B) is employed full-time—
 
@@ -94,7 +94,17 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (8) School counselors
 
-&emsp;The individual is employed full-time as a school counselor (as such term is defined in section 7245(e) of this title), in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
+&emsp;The individual—
+
+&emsp;&emsp;(A) is employed full-time as a school counselor who has documented competence in counseling children and adolescents in a school setting and who—
+
+&emsp;&emsp;&emsp;(i) is licensed by the State or certified by an independent professional regulatory authority;
+
+&emsp;&emsp;&emsp;(ii) in the absence of such State licensure or certification, possesses national certification in school counseling or a specialty of counseling granted by an independent professional organization; or
+
+&emsp;&emsp;&emsp;(iii) holds a minimum of a master's degree in school counseling from a program accredited by the Council for Accreditation of Counseling and Related Educational Programs or the equivalent; and
+
+&emsp;&emsp;(B) is so employed in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school.
 
 #### (9) Public sector employees
 
@@ -214,7 +224,7 @@ In this section:
 
 &emsp;The term "audiologist" means an individual who—
 
-&emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institutionof higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
+&emsp;&emsp;(A) has received, at a minimum, a graduate degree in audiology from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title; and
 
 &emsp;&emsp;(B)(i) provides audiology services under subsection (ll)(2) of section 1395x of title 42; or
 
@@ -326,13 +336,19 @@ In this section:
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
 
-(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611.)
+(Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611; Pub. L. 114–95, title IX, §9215(oo)(8), Dec. 10, 2015, 129 Stat. 2180.)
 
 #### References in Text
+
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "HighlyQualified" in Other Laws note under section 1070g–2 of this title.
 
 The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(5)(B)(iv). Pub. L. 114–95, §9215(oo)(8)(A), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Subsec. (b)(8). Pub. L. 114–95, §9215(oo)(8)(B), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: "The individual is employed full-time as a school counselor (as such term is defined in section 7245(e) of this title), in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such a school."
 
 <b>2010</b>—Subsec. (b)(18). Pub. L. 111–148, §5205(b)(1), added par. (18).
 
@@ -341,6 +357,10 @@ Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated fo
 <b>2009</b>—Subsec. (g)(9)(B). Pub. L. 111–39 substituted "under subsection (ll)(4) of such section" for "under subsection (ll)(3) of such section".
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2009 Amendment
 
@@ -355,4 +375,6 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
 
 \[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

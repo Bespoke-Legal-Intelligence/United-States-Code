@@ -18,7 +18,7 @@ Annual Report Required.—Not later than the date of the submission of the Presi
 
 &emsp;(7) A list of any non-standard items slated for inclusion in the prepositioned stocks and a plan for funding the inclusion and sustainment of such items.
 
-&emsp;(8) A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks.
+&emsp;(8) A list of any equipment used in support of contingency operations slated for retrograde and subsequent inclusion in the prepositioned stocks.
 
 &emsp;(9) An efficiency strategy for limited shelf-life medical stock replacement.
 
@@ -36,9 +36,11 @@ Comptroller General Review.—(1) The Comptroller General shall review each repo
 
 (3) The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, §341(b), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title III, §343, Jan. 2, 2013, 126 Stat. 1700.)
+(Added Pub. L. 110–181, div. A, title III, §352(a), Jan. 28, 2008, 122 Stat. 71; amended Pub. L. 112–81, div. A, title III, §341(b), Dec. 31, 2011, 125 Stat. 1369; Pub. L. 112–239, div. A, title III, §343, Jan. 2, 2013, 126 Stat. 1700; Pub. L. 114–92, div. A, title III, §331, Nov. 25, 2015, 129 Stat. 791.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(8). Pub. L. 114–92 amended par. (8) generally. Prior to amendment, par. (8) read as follows: "A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks."
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted "The" for "By not later than 120 days after the date on which a report is submitted under subsection (a), the" and "each report submitted under subsection (a)" for "the report".
 

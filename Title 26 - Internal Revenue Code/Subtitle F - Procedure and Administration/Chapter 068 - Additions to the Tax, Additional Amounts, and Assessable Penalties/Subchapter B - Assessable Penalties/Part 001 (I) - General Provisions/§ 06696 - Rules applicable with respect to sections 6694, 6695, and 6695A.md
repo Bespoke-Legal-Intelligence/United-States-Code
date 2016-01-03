@@ -16,7 +16,7 @@ Any claim for credit or refund of any penalty paid under section 6694, 6695, or 
 
 #### (1) Assessment
 
-&emsp;The amount of any penalty under section 6694(a), section <sup>2</sup> 6695, or 6695A shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of such period. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
+&emsp;The amount of any penalty under section 6694(a), section <sup>2</sup> 6695, or 6695A shall be assessed within 3 years after the return or claim for refund with respect to which the penalty is assessed was filed, and no proceeding in court without assessment for the collection of such tax shall be begun after the expiration of suchperiod. In the case of any penalty under section 6694(b), the penalty may be assessed, or a proceeding in court for the collection of the penalty may be begun without assessment, at any time.
 
 #### (2) Claim for refund
 
@@ -34,7 +34,7 @@ For purposes of sections 6694, 6695, and 6695A—
 
 &emsp;The term "claim for refund" means a claim for refund of, or credit against, any tax imposed by this title.
 
-(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 109–280, title XII, §1219(b)(2), Aug. 17, 2006, 120 Stat. 1084; Pub.L. 110–28, title VIII, §8246(a)(2)(H), May 25, 2007, 121 Stat. 202; Pub. L. 110–172, §3(e)(2), Dec. 29, 2007, 121 Stat. 2474.)
+(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 109–280, title XII, §1219(b)(2), Aug. 17, 2006, 120 Stat. 1084; Pub. L. 110–28, title VIII, §8246(a)(2)(H), May 25, 2007, 121 Stat. 202; Pub. L. 110–172, §3(e)(2), Dec. 29, 2007, 121 Stat. 2474.)
 
 #### Codification
 

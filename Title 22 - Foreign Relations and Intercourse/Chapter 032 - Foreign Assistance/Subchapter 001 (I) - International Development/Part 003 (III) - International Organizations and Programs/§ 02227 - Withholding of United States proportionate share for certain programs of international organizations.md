@@ -2,7 +2,7 @@
 
 #### (a) Covered programs
 
-Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
+Notwithstanding any other provision of law, none of the funds authorized to be appropriatedby this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
 
 #### (b) Review and report by Secretary of State
 
@@ -30,7 +30,7 @@ The Secretary of State—
 
 #### (d) Programs and projects of the International Atomic Energy Agency in Iran
 
-(1) Notwithstanding subsection (c), if the Secretary of State determines that programs and projects of the International Atomic Energy Agency in Iran are inconsistent with United States nuclear nonproliferation and safety goals, will provide Iran with training or expertise relevant to the development of nuclear weapons, or are being used as a cover for the acquisition of sensitive nuclear technology, the limitations of subsection (a) shall apply to such programs and projects, and the Secretary ofState shall so notify the appropriate congressional committees (as defined in section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003).
+(1) Notwithstanding subsection (c), if the Secretary of State determines that programs and projects of the International Atomic Energy Agency in Iran are inconsistent with United States nuclear nonproliferation and safety goals, will provide Iran with training or expertise relevant to the development of nuclear weapons, or are being used as a cover for the acquisition of sensitive nuclear technology, the limitations of subsection (a) shall apply to such programs and projects, and the Secretary of State shall so notify the appropriate congressional committees (as defined in section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003).
 
 (2) A determination made by the Secretary of State under paragraph (1) shall be effective for the 1-year period beginning on the date of the determination.
 

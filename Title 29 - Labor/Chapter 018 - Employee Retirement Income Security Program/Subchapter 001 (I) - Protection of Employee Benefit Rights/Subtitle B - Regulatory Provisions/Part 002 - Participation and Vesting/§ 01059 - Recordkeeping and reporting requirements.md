@@ -1,6 +1,6 @@
 ### §1059. Recordkeeping and reporting requirements
 
-(a)(1) Except as provided by paragraph (2) every employer shall, in accordance with such regulations as the Secretary may prescribe, maintain records with respect to each of his employees sufficient to determine the benefits due or which may become due to such employees. The plan administrator shall make a report, in such manner and at such time as may be provided in regulations prescribed by the Secretary, to each employee who is a participant under the plan and who—
+(a)(1) Except as provided by paragraph (2) every employer shall, in accordance with suchregulations as the Secretary may prescribe, maintain records with respect to each of his employees sufficient to determine the benefits due or which may become due to such employees. The plan administrator shall make a report, in such manner and at such time as may be provided in regulations prescribed by the Secretary, to each employee who is a participant under the plan and who—
 
 &emsp;(A) requests such report, in such manner and at such time as may be provided in such regulations,
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–458, §105(f)(1), in introductory provisions, substituted "such regulations as the Secretary may prescribe" for "regulations prescribed by the Secretary" and, in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: "The report requiredunder this paragraph shall be sufficient to inform the employee of his accrued benefits under the plan and the percentage of such benefits which are nonforfeitable under the plan."
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–458, §105(f)(1), in introductory provisions, substituted "such regulations as the Secretary may prescribe" for "regulations prescribed by the Secretary" and, in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: "The report required under this paragraph shall be sufficient to inform the employee of his accrued benefits under the plan and the percentage of such benefits which are nonforfeitable under the plan."
 
 Subsec. (a)(2). Pub. L. 110–458, §105(f)(2), added par. (2) and struck out former par. (2) which read as follows: "If more than one employer adopts a plan, each such employer shall, in accordance with regulations prescribed by the Secretary, furnish to the plan administrator the information necessary for the administrator to maintain the records and make the reports required by paragraph (1). Such administrator shall maintain the records and, to the extent provided under regulations prescribed by the Secretary, make the reports, required by paragraph (1)."
 

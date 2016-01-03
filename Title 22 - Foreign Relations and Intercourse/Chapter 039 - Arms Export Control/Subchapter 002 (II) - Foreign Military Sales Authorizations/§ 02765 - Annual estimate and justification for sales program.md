@@ -30,7 +30,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(9) the progress made under the program of the Republic of Korea to modernize its armed forces, the role of the United States in mutual security efforts in the Republic of Korea and the military balance between the People's Republic of Korea and the Republic of Korea;
 
-&emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
+&emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cubaduring the preceding fiscal year and the military capabilities of those armed forces;
 
 &emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
@@ -48,7 +48,7 @@ Not later than thirty days following the receipt of a request made by any of the
 
 #### (c) Submission of information in unclassified form or classified addendum with unclassified summary
 
-The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shallalso submit simultaneously a detailed summary, in unclassified form, of such classified information.
+The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
 
 #### (d) <sup>2</sup> "Cash flow financing" defined
 
@@ -116,7 +116,7 @@ Subsec. (a)(6). Pub. L. 97–113 added par. (6).
 
 Subsec. (a)(7). Pub. L. 97–113 redesignated former par. (3) as (7).
 
-Subsec. (a)(8). Pub. L. 97–113 added par. (8), which incorporated provisions of former par. (4), requiring the report to contain a list of all findings in effect on date of its transmission made by the President pursuant tosection 2753(a)(1) of this title, together with a full and complete justification for each finding, explaining how sales to each country with respect to which findings were made would strengthen the security of the United States and promote world peace.
+Subsec. (a)(8). Pub. L. 97–113 added par. (8), which incorporated provisions of former par. (4), requiring the report to contain a list of all findings in effect on date of its transmission made by the President pursuant to section 2753(a)(1) of this title, together with a full and complete justification for each finding, explaining how sales to each country with respect to which findings were made would strengthen the security of the United States and promote world peace.
 
 Subsecs. (a)(9) to (12). Pub. L. 97–113 added pars. (9) to (12).
 

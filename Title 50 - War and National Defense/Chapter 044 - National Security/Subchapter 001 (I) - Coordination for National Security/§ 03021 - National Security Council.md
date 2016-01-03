@@ -80,7 +80,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(B) identify on an annual basis, and at such other times as the Council may require, the intelligence required to meet such interests and establish an order of priority for the collection and analysis of such intelligence; and
 
-&emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements in collecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
+&emsp;(C) conduct an annual review of the elements of the intelligence community in order to determine the success of such elements incollecting, analyzing, and disseminating the intelligence identified under subparagraph (B).
 
 (5) The Committee shall submit each year to the Council and to the Director of National Intelligence a comprehensive report on its activities during the preceding year, including its activities under paragraphs (3) and (4).
 
@@ -152,7 +152,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 In subsec. (c), provisions that specified compensation of $10,000 per year for the executive secretary to the Council were omitted. Section 304(b) of Pub. L. 88–426 amended section 105 of Title 3, The President, to include the executive secretary of the Council among those whose compensation was authorized to be fixed by the President. Section 1(a) of Pub. L. 95–570 further amended section 105 of Title 3 to authorize the President to appoint and fix the pay of the employees of the White House Office subject to certain provisions.
 
-In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Actof 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -226,11 +226,11 @@ Office of Director for Mutual Security abolished and functions of Director, incl
 
 National Security Resources Board, together with Office of Chairman, abolished by section 6 of Reorg. Plan No. 3 of 1953, eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634, set out under section 3042 of this title. Functions of Chairman with limited exception, including his functions as a member of National Security Council transferred to Office of Defense Mobilization by section 2(a) of Reorg. Plan No. 3 of 1953. Functions of Director of Office of Defense Mobilization with respect to being a member of National Security Council transferred to Director of Office of Civil and Defense Mobilization by Reorg. Plan No. 1 of 1958, §4, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended by Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861, set out as a note under section 5195 of Title 42, The Public Health and Welfare. For subsequent transfers or delegations to Office of Emergency Planning, Office of Emergency Preparedness, President, Federal Preparedness Agency, and Secretary of Homeland Security, see Transfer of Functions notes set out under section 3042 of this title.
 
-Munitions Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. All functions vested in Munitions Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
+Munitions Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in theAppendix to Title 5, Government Organization and Employees. All functions vested in Munitions Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
 Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
-National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out inthe Appendix to Title 5, Government Organization and Employees.
+National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
@@ -296,7 +296,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant to the President for National Security Affairs, when appropriate.
 
-(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. Inperforming this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
 
 &emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies to prevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
 

@@ -14,7 +14,7 @@ All funds paid pursuant to section 941c of this title, except for payments made 
 
 (4) Secretarial approval of an investment management firm shall not be unreasonably withheld, and any Secretarial disapproval of an investment management firm shall be accompanied by a detailed explanation setting forth the Secretary's reasons for such disapproval.
 
-(5)(A) For funds placed under professional management, the Tribe, in consultation withthe Secretary and its investment manager, shall develop—
+(5)(A) For funds placed under professional management, the Tribe, in consultation with the Secretary and its investment manager, shall develop—
 
 &emsp;(i) current operating and long-term capital budgets; and
 
@@ -104,7 +104,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 &emsp;(1) Funds may be transferred among the Catawba Economic Development Trust Fund, the Catawba Land Acquisition Trust Fund, and the Catawba Social Services and Elderly Assistance Trust Fund, and from any of those three Trust Funds into the Catawba Education Trust Fund; except, that the mandatory share of State, local, and private sector funds invested in the original corpus of the Catawba Education Trust Fund shall not be transferred to any other Trust Fund.
 
-&emsp;(2) Any Trust Fund, except for the Catawba Education Trust Fund, may be dissolved by a vote of two-thirds of those Members eligible to vote, and the assets in such Trust Fund shall be transferred to the remaining Trust Funds; except, that (A) no assets shall be transferred from any of the Trust Funds into the Catawba Per Capita Payment Trust Fund, and (B) the mandatory share of State, local and private funds invested in the original corpus of the Catawba Education Trust Fund may not be transferred or used for any non-educational purposes.
+&emsp;(2) Any Trust Fund, except for the Catawba Education Trust Fund, may be dissolved by avote of two-thirds of those Members eligible to vote, and the assets in such Trust Fund shall be transferred to the remaining Trust Funds; except, that (A) no assets shall be transferred from any of the Trust Funds into the Catawba Per Capita Payment Trust Fund, and (B) the mandatory share of State, local and private funds invested in the original corpus of the Catawba Education Trust Fund may not be transferred or used for any non-educational purposes.
 
 &emsp;(3) The dissolution of any Trust Fund shall require the approval of the Secretary pursuant to the Secretarial approval provisions set forth in subsection (b)(5)(D) of this section.
 

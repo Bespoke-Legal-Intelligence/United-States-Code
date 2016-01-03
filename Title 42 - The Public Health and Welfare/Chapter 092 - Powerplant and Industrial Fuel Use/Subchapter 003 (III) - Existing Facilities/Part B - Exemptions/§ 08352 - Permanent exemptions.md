@@ -82,7 +82,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (h) Permanent exemption for use of natural gas by certain powerplants with capacities of less than 250 million Btu's per hour
 
-(1) Subject to paragraph (2), after consideration of a petition (and comments thereon) foran exemption from any prohibition of part A for the use of natural gas by a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for such use, if he finds that the petitioner has demonstrated that—
+(1) Subject to paragraph (2), after consideration of a petition (and comments thereon) for an exemption from any prohibition of part A for the use of natural gas by a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection for such use, if he finds that the petitioner has demonstrated that—
 
 &emsp;(A) such powerplant has a design capability of consuming fuel (or any mixture thereof) at a fuel heat input rate of less than 250 million Btu's per hour;
 

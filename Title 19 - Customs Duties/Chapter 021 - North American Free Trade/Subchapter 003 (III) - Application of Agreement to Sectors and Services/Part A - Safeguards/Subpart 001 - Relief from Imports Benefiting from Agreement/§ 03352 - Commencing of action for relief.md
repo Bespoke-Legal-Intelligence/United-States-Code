@@ -8,15 +8,15 @@
 
 #### (2) Provisional relief
 
-&emsp;An entity filing a petition under this subsection may request that provisional relief beprovided as if the petition had been filed under section 2252(a) of this title.
+&emsp;An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 2252(a) of this title.
 
 #### (3) Critical circumstances
 
-&emsp;An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b) of this section.
+&emsp;An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b).
 
 #### (b) Investigation and determination
 
-Upon the filing of a petition under subsection (a) of this section, the International Trade Commission, unless subsection (d) of this section applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
+Upon the filing of a petition under subsection (a), the International Trade Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
 
 &emsp;(1) serious injury; or
 
@@ -34,7 +34,7 @@ The provisions of—
 
 &emsp;(3) subsection (d),
 
-> of section 2252 of this title apply with respect to any investigation initiated under subsection (b) of this section.
+> of section 2252 of this title apply with respect to any investigation initiated under subsection (b).
 
 #### (d) Articles exempt from investigation
 

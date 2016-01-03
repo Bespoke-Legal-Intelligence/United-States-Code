@@ -70,7 +70,7 @@ Pub. L. 108–81, title V, §506, Sept. 25, 2003, 117 Stat. 1005, provided that:
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–340, §1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: "This Act \[enacting part 4 of subchapter II of this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title\] may be cited as the 'Museum and Library Services Act of 2010'."
+Pub. L. 111–340, §1(a), Dec. 22, 2010, 124 Stat. 3594, provided that: "This Act \[enacting part 4 of subchapter IIof this chapter and sections 9110 and 9111 of this title, amending this section and sections 953, 958, 9103, 9105, 9105a, 9107, 9108, 9121, 9123, 9131, 9134, 9141, 9162, 9171 to 9173, and 9176 of this title, repealing chapter 34 of this title, and enacting provisions set out as notes under section 9102 of this title\] may be cited as the 'Museum and Library Services Act of 2010'."
 
 #### Short Title of 2003 Amendment
 

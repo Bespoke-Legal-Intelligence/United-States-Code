@@ -56,7 +56,7 @@ Each application under subsection (a) shall contain or be accompanied by an agre
 
 &emsp;&emsp;(D) submit evidence of such employment in the form of a certification by the chief administrative officer of the school upon completion of each year of such service; and
 
-&emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 7801 of this title;
+&emsp;&emsp;(E) comply with the requirements for being a highly qualified teacher as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\];
 
 &emsp;(2) in the event that the applicant is determined to have failed or refused to carry out such service obligation, the sum of the amounts of any TEACH Grants received by such applicant will be treated as a loan and collected from the applicant in accordance with subsection (c) and the regulations thereunder; and
 
@@ -70,13 +70,17 @@ In the event that any recipient of a grant under this subpart fails or refuses t
 
 #### (1) Change of high-need designation
 
-&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, orexpertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
+&emsp;If a recipient of an initial grant under this subpart has acquired an academic degree, or expertise, in a field that was, at the time of the recipient's application for that grant, designated as high need in accordance with subsection (b)(1)(C)(vii), but is no longer so designated, the grant recipient may fulfill the service obligation described in subsection (b)(1) by teaching in that field.
 
 #### (2) Extenuating circumstances
 
 &emsp;The Secretary shall establish, by regulation, categories of extenuating circumstances under which a recipient of a grant under this subpart who is unable to fulfill all or part of the recipient's service obligation may be excused from fulfilling that portion of the service obligation.
 
 (Pub. L. 89–329, title IV, §420N, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 788; amended Pub. L. 110–315, title IV, §412(a)(1), Aug. 14, 2008, 122 Stat. 3226.)
+
+#### References in Text
+
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1)(E), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note below.
 
 #### Amendments
 
@@ -87,4 +91,14 @@ Subsec. (d). Pub. L. 110–315, §412(a)(1)(B), added subsec. (d).
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, title IV, §412(b), Aug. 14, 2008, 122 Stat. 3227, provided that: "The amendments made by subsection (a)(1) \[amending this section\] shall take effect on July 1, 2010."
+
+#### Use of the Term "Highly Qualified" in Other Laws
+
+Pub. L. 114–95, title IX, §9214(a), Dec. 10, 2015, 129 Stat. 2160, provided that: "Beginning on the date of enactment of this Act \[Dec. 10, 2015\]—
+
+&emsp;"(1) any reference in sections 420N, 428J, 428K, and 460 of the Higher Education Act of 1965 (20 U.S.C. 1070g–2, 1078–10, 1078–11, and 1087j) to the term 'highly qualified' as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\] shall be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of this Act \[Dec. 10, 2015\]; and
+
+&emsp;"(2) any reference in section 6112 of the America COMPETES Act (20 U.S.C. 9812), section 553 of the America COMPETES Reauthorization Act of 2010 (20 U.S.C. 9903), and section 9 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n), to 'highly qualified', as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[now section 8101, 20 U.S.C. 7801\], with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

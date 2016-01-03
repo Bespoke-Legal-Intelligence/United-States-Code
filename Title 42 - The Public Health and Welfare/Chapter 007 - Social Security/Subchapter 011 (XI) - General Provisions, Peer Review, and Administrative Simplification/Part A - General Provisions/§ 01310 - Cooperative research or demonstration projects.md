@@ -16,7 +16,7 @@
 
 &emsp;(A) the Commissioner is not authorized to carry out any project that would result in a substantial reduction in any individual's total income and resources as a result of his or her participation in the project;
 
-&emsp;(B) the Commissioner may not require any individual to participate in a project; and the Commissioner shall assure (i) that the voluntary participation of individuals in any project is obtained through informed written consent which satisfies the requirements for informed consent established by the Commissioner for use in any experimental, pilot, or demonstration project in which human subjects are at risk, and (ii) that any individual's voluntary agreement to participate in any project may be revoked by such individual at any time;
+&emsp;(B) the Commissioner may not require any individual to participate in a project; and the Commissioner shall assure (i) that the voluntary participation of individuals in anyproject is obtained through informed written consent which satisfies the requirements for informed consent established by the Commissioner for use in any experimental, pilot, or demonstration project in which human subjects are at risk, and (ii) that any individual's voluntary agreement to participate in any project may be revoked by such individual at any time;
 
 &emsp;(C) the Commissioner shall, to the extent feasible and appropriate, include recipients who are under age 18 as well as adult recipients; and
 
@@ -28,7 +28,7 @@
 
 (2) Not later than 18 months after March 2, 2004, the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug.15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
+(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug. 15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 99–272 effective on first day of month following April 19
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2331(c), July 18, 1984, 98 Stat. 1088, provided that: "The amendments made by this section \[amending this section and section 1395b–1 of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. B, title III, §2331(c), July 18, 1984, 98 Stat. 1088, provided that: "The amendments made bythis section \[amending this section and section 1395b–1 of this title\] shall become effective on the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Vocational Rehabilitation Demonstration Projects
 
@@ -84,7 +84,7 @@ Pub. L. 96–265, title V, §505(c), June 9, 1980, 94 Stat. 475, as amended by P
 
 #### Authority for Demonstration Projects; Report to Congress
 
-Pub. L. 96–265, title V, §505(a)(1)–(4), June 9, 1980, 94 Stat. 473, as amended by Pub. L. 99–272, title XII, §12101(a), (b), Apr. 7, 1986, 100 Stat. 282; Pub. L. 101–239, title X, §10103(a)(1), (2), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 103–296, title I, §108(m), title III, §315(a)(1), (2), Aug. 15, 1994, 108 Stat. 1489, 1531, which authorized Commissioner of Social Security to carry out demonstration projects to determine advantages and disadvantages of alternative methods of treating work activity of disabled beneficiaries under the old age, survivors, and disability insurance program and altering limitations and conditions applicable to such disabled beneficiaries, and required report to Congress on or before June 9, 1986, and in each succeeding year through 1995,was repealed by Pub. L. 106–170, title III, §301(b)(1)(A), Dec. 17, 1999, 113 Stat. 1902.
+Pub. L. 96–265, title V, §505(a)(1)–(4), June 9, 1980, 94 Stat. 473, as amended by Pub. L. 99–272, title XII, §12101(a), (b), Apr. 7, 1986, 100 Stat. 282; Pub. L. 101–239, title X, §10103(a)(1), (2), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 103–296, title I, §108(m), title III, §315(a)(1), (2), Aug. 15, 1994, 108 Stat. 1489, 1531, which authorized Commissioner of Social Security to carry out demonstration projects to determine advantages and disadvantages of alternative methods of treating work activity of disabled beneficiaries under the old age, survivors, and disability insurance program and altering limitations and conditions applicable to such disabled beneficiaries, and required report to Congress on or before June 9, 1986, and in each succeeding year through 1995, was repealed by Pub. L. 106–170, title III, §301(b)(1)(A), Dec. 17, 1999, 113 Stat. 1902.
 
 Pub. L. 106–170, title III, §301(b)(2), Dec. 17, 1999, 113 Stat. 1902, provided that: "With respect to any experiment or demonstration project being conducted under section 505(a) of the Social Security Disability Amendments of 1980 \[Pub. L. 96–265, formerly set out above\] (42 U.S.C. 1310 note) as of the date of the enactment of this Act \[Dec. 17, 1999\], the authority to conduct such experiment or demonstration project (including the terms and conditions applicable to the experiment or demonstration project) shall be treated as if that authority (and such terms and conditions) had been established under section 234 of the Social Security Act \[42 U.S.C. 434\], as added by subsection (a)."
 

@@ -46,7 +46,7 @@ As used in subsection (c)(1) of this section, an effective system for providing 
 
 &emsp;&emsp;(B) in an entity established by statute or by the highest State court with jurisdiction in criminal cases, which is composed of individuals with demonstrated knowledge and expertise in capital cases, except for individuals currently employed as prosecutors; or
 
-&emsp;&emsp;(C) pursuant to a statutory procedure enacted before October 30, 2004, under which the trial judge is required to appoint qualified attorneys from a roster maintained by a State or regional selection committee or similar entity; and
+&emsp;&emsp;(C) pursuant to a statutory procedure enacted before October 30, 2004, under whichthe trial judge is required to appoint qualified attorneys from a roster maintained by a State or regional selection committee or similar entity; and
 
 &emsp;(2) requires the program described in paragraph (1)(A), the entity described in paragraph (1)(B), or an appropriate entity designated pursuant to the statutory procedure described in paragraph (1)(C), as applicable, to—
 

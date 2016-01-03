@@ -64,7 +64,7 @@ Findings and Policy.—Congress hereby finds and declares that:
 
 &emsp;"(3) This documentation does establish the historical presence of Micmacs in Maine and the existence of aboriginal lands in Maine jointly used by the Micmacs and other tribes to which the Micmacs could have asserted aboriginal title but for the extinguishment of all such claims by the Maine Indian Claims Settlement Act of 1980.
 
-&emsp;"(4) The Aroostook Band of Micmacs, in both its history and its presence in Maine, is similar to the Houlton Band of Maliseet Indians and would have received similar treatment under the Maine Indian Claims Settlement Act of 1980 if the information available today had been available to Congress and the parties at that time.
+&emsp;"(4) The Aroostook Band of Micmacs, in both its history and its presence in Maine, is similar to theHoulton Band of Maliseet Indians and would have received similar treatment under the Maine Indian Claims Settlement Act of 1980 if the information available today had been available to Congress and the parties at that time.
 
 &emsp;"(5) It is now fair and just to afford the Aroostook Band of Micmacs the same settlement provided to the Houlton Band of Maliseet Indians for the settlement of that Band's claims, to the extent they would have benefited from inclusion in the Maine Indian Claims Settlement Act of 1980.
 
@@ -146,7 +146,7 @@ Procedure for Filing and Payment of Claims.—The Secretary shall, after consult
 
 "(a)
 
-In General.—Subject to the provisions of section 4, the Secretary is authorized and directed to expend, at the request of the Band, the principal of, and income accruing on, the Land Acquisition Fund for the purposes of acquiring land or natural resources for the Band and for no other purposes. Land or natural resources acquired within the State of Maine with funds expended under the authority of this subsection shallbe held in trust by the United States for the benefit of the Band.
+In General.—Subject to the provisions of section 4, the Secretary is authorized and directed to expend, at the request of the Band, the principal of, and income accruing on, the Land Acquisition Fund for the purposes of acquiring land or natural resources for the Band and for no other purposes. Land or natural resources acquired within the State of Maine with funds expended under the authority of this subsection shall be held in trust by the United States for the benefit of the Band.
 
 "(b)
 
@@ -218,13 +218,13 @@ Eligibility for Special Services.—Notwithstanding any other provision of law a
 
 "(d)
 
-Agreements With State Regarding Jurisdiction.—The State of Maine and the Band are authorized to execute agreements regarding the jurisdiction of the State of Maine over lands owned by, or held in trust for the benefit of, the Band or any member of the Band. The consent of the United States is hereby given to theState of Maine to amend the Micmac Settlement Act for this purpose: <i>Provided</i>, That such amendment is made with the agreement of the Aroostook Band of Micmacs.
+Agreements With State Regarding Jurisdiction.—The State of Maine and the Band are authorized to execute agreements regarding the jurisdiction of the State of Maine over lands owned by, or held in trust for the benefit of, the Band or any member of the Band. The consent of the United States is hereby given to the State of Maine to amend the Micmac Settlement Act for this purpose: <i>Provided</i>, That such amendment is made with the agreement of the Aroostook Band of Micmacs.
 
 #### "SEC. 7. TRIBAL ORGANIZATION.
 
 "(a)
 
-In General.—The Band may organize for its common welfare and adopt an appropriate instrument in writing to govern the affairs of the Band when acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this Act. The Band shall file with the Secretary a copy of its organic governing document and any amendments thereto.
+In General.—The Band may organize for its common welfare and adopt an appropriate instrumentin writing to govern the affairs of the Band when acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this Act. The Band shall file with the Secretary a copy of its organic governing document and any amendments thereto.
 
 "(b)
 

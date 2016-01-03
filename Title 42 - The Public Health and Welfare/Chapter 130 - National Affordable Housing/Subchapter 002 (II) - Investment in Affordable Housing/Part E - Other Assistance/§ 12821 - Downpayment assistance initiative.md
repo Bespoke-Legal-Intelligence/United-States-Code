@@ -64,7 +64,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the Stateunder paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
+&emsp;&emsp;Subject to subparagraph (B), for each fiscal year, of the amount allocated to each State under paragraph (1), the Secretary shall further allocate from such amount to each participating jurisdiction located within such State an amount equal to the percentage of the allocation made to the State under paragraph (1) that is equal to the percentage of the State-wide total of low-income households residing in rental housing in such participating jurisdiction, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
 
 #### (B) Limitation
 

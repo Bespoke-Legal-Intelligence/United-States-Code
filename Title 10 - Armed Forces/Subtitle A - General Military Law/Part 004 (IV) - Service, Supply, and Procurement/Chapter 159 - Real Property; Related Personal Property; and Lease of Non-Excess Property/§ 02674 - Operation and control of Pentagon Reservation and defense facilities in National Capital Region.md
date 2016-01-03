@@ -32,7 +32,7 @@
 
 (3) If the cost of a construction or alteration activity proposed to be financed in whole or in part using monies from the Fund will exceed the limitation specified in section 2805 of this title for a comparable unspecified minor military construction project, the activity shall be subject to authorization as provided by section 2802 of this title before monies from the Fund are obligated for the activity.
 
-(4)(A) Except as provided in subparagraph (B), the authority of the Secretary to use monies from the Fund to support construction or alteration activities at the Pentagon Reservation expires on September 30, 2012.
+(4)(A) Except as provided in subparagraph (B), the authority of the Secretary to use moniesfrom the Fund to support construction or alteration activities at the Pentagon Reservation expires on September 30, 2012.
 
 (B) Notwithstanding the date specified in subparagraph (A), the Secretary may use monies from the Fund after that date to support construction or alteration activities at the Pentagon Reservation within the limits specified in section 2805 of this title.
 

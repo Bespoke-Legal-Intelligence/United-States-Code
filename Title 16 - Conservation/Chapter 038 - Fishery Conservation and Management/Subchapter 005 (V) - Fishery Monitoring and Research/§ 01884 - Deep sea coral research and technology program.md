@@ -14,7 +14,7 @@ The Secretary, in consultation with appropriate regional fishery management coun
 
 &emsp;(5) to develop technologies or methods designed to assist fishing industry participants in reducing interactions between fishing gear and deep sea corals; and
 
-&emsp;(6) to prioritize program activities in areas where deep sea corals are known to occur, and in areas where scientific modeling or other methods predict deep sea corals are likely to be present.
+&emsp;(6) to prioritize program activities in areas where deep sea corals are known to occur, andin areas where scientific modeling or other methods predict deep sea corals are likely to be present.
 
 #### (b) Reporting
 

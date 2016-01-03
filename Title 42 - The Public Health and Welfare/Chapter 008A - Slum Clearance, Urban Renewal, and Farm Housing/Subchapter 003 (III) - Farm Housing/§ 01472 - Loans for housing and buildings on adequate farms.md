@@ -92,7 +92,7 @@ In general.—If the Secretary determines after a reasonable period that an agre
 
 &emsp;(ii)
 
-Period for which requirement applicable.—If, upon the expiration of 180 days after an offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of this section of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
+Period for which requirement applicable.—If, upon the expiration of 180 days afteran offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of this section of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
 
 (B)
 
@@ -218,7 +218,7 @@ On and after November 30, 1983—
 
 &emsp;(A) reduce the operating costs for a borrower by maximizing the energy savings and be cost-effective over the life of the manufactured home or the term of the loan, whichever is shorter, taking into account variations in climate, types of energy used, the cost to modify the home to meet such requirements, and the estimated value of the energy saved over the term of the mortgage; and
 
-&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
+&emsp;(B) be established so that the increase in the annual loan payment resulting from the added energy conserving requirements in excess of those required by the standards prescribed under title VI of the Housing and CommunityDevelopment Act of 1974 \[42 U.S.C. 5401 et seq.\] shall not exceed the projected savings in annual energy costs.
 
 (3) A loan that may be made or insured under this section with respect to a manufactured home on a permanent foundation, or a manufactured home on a permanent foundation and a lot, shall be repayable over the same period as would be applicable under section 203(b) of the National Housing Act \[12 U.S.C. 1709(b)\].
 
@@ -226,7 +226,7 @@ On and after November 30, 1983—
 
 #### (1) Loan supplements
 
-&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted orIndian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
+&emsp;The Secretary may supplement any loan under this section to finance housing located in a remote rural area or on tribal allotted or Indian trust land with a grant in an amount not greater than the amount by which the reasonable land acquisition and construction costs of the security property exceeds the appraised value of such property.
 
 #### (2) Prohibition
 
@@ -362,7 +362,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;&emsp;(II) the mortgagee has modified the mortgage or qualified the mortgage for modification sufficient to cure the default and provide for mortgage payments the mortgagor is reasonably able to pay, at interest rates not exceeding current market interest rates; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that theSecretary has determined to be in the best interests of the appropriate guaranty fund.
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary arranges for servicing of the assigned mortgage by a mortgagee (which may include the assigning mortgagee) through procedures that the Secretary has determined to be in the best interests of the appropriate guaranty fund.
 
 #### (C) Payment of guaranty
 
@@ -494,7 +494,7 @@ Subsec. (c)(4)(B)(iii). Pub. L. 105–276, §599C(e)(2)(A)(iii), was executed by
 
 Subsec. (c)(4)(B)(v). Pub. L. 105–276, §599C(e)(2)(A)(iv), inserted before period at end ", or current tenants of projects not assisted under section 1490a(a)(5) of this title".
 
-Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after "1490a(a)(2)(A) of this title" and inserted "or any assistance payments receivedunder section 1490a(a)(5) of this title," before "with respect".
+Subsec. (c)(5)(C)(iii). Pub. L. 105–276, §599C(e)(2)(A)(v), struck out comma after "1490a(a)(2)(A) of this title" and inserted "or any assistance payments received under section 1490a(a)(5) of this title," before "with respect".
 
 Subsec. (c)(5)(D). Pub. L. 105–276, §599C(e)(2)(A)(vi), inserted before period at end "or, in the case of housing assisted under section 1490a(a)(5) of this title, does not exceed the rents established for the project under such section".
 

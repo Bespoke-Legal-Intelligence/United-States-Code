@@ -6,11 +6,11 @@
 
 &emsp;(2) any specified term, not less than one year, for persons who have served in any armed force.
 
-(b) Under regulations to be prescribed by the Secretary concerned, reenlistment in the National Guard may be accepted for any specified period, or, if the person last served in one of the highest five enlisted grades, for an unspecified period.
+(b) Under regulations to be prescribed by the Secretary concerned, reenlistment in the National Guard may be accepted for any specifiedperiod, or, if the person last served in one of the highest five enlisted grades, for an unspecified period.
 
 (c) Enlistments or reenlistments in the National Guard may be extended—
 
-&emsp;(1) under regulations to be prescribed by the Secretary concerned, at the request of themember, for any period not less than six months; or
+&emsp;(1) under regulations to be prescribed by the Secretary concerned, at the request of the member, for any period not less than six months; or
 
 &emsp;(2) by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.
 

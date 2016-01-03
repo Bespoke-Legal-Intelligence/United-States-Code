@@ -78,7 +78,7 @@ Subsec. (a)(2). Pub. L. 96–346, §2(2), substituted "25 cents" for "20 cents".
 
 Subsec. (a)(3). Pub. L. 96–346, §2(3), substituted "45 cents" for "24 cents".
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–22 struck out "or other individual performing services for the Government" after "employee", substituted "for the Government" for "inside or outside his designated post of duty or place of service", increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and insertedprovision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
+<b>1975</b>—Subsec. (a). Pub. L. 94–22 struck out "or other individual performing services for the Government" after "employee", substituted "for the Government" for "inside or outside his designated post of duty or place of service", increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
 
 Subsec. (b). Pub. L. 94–22 inserted "authorized" after "allowance", struck out "or other individual performing service for the Government" after "employee", and provided for reimbursement of airplane landing and tie-down fee.
 

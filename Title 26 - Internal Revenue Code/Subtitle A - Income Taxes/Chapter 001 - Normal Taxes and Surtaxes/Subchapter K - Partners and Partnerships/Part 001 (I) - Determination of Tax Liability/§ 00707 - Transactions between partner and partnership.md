@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If a partner engages in a transaction with a partnership other than in his capacity as a member of such partnership, the transaction shall, except as otherwise provided in this section, be considered as occurring between the partnership and one who is not a partner.
+&emsp;If a partner engages in a transaction with a partnership other than in his capacity as amember of such partnership, the transaction shall, except as otherwise provided in this section, be considered as occurring between the partnership and one who is not a partner.
 
 #### (2) Treatment of payments to partners for property or services
 
@@ -62,7 +62,7 @@
 
 #### (c) Guaranteed payments
 
-To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a memberof the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
+To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, §213(b)(3), title XIX, §1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, §73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, §642(a)(2), title XVIII, §§1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834.)
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 94–455, §213(b)(3), substituted "and, subject to section
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
+Amendment by section 642(a)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all timesthereafter, see section 642(c) of Pub. L. 99–514, set out as a note under section 1239 of this title.
 
 Amendment by sections 1805(b) and 1812(c)(3)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 

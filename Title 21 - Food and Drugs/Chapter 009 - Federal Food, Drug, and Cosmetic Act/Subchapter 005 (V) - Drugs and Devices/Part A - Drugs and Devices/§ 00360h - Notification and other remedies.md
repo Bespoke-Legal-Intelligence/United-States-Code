@@ -40,7 +40,7 @@ If the Secretary determines that—
 
 > &emsp;whichever first occurs).
 
-(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and provided under an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
+(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and providedunder an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
 
 #### (c) Reimbursement
 

@@ -16,7 +16,7 @@
 
 #### (4) Determination of penalty
 
-&emsp;In determining the amount of the penalty, the Administrator shall consider the appropriateness of such penalty to the size of the business of the person charged, the effect on the person's ability to continue in business, and the gravity of the violation. Whenever the Administrator finds that the violation occurred despite the exercise of due care or didnot cause significant harm to health or the environment, the Administrator may issue a warning in lieu of assessing a penalty.
+&emsp;In determining the amount of the penalty, the Administrator shall consider the appropriateness of such penalty to the size of the business of the person charged, the effect on the person's ability to continue in business, and the gravity of the violation. Whenever the Administrator finds that the violation occurred despite the exercise of due care or did not cause significant harm to health or the environment, the Administrator may issue a warning in lieu of assessing a penalty.
 
 #### (5) References to Attorney General
 
@@ -50,7 +50,7 @@
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–532 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any registrant, commercial applicator, wholesaler, dealer, retailer, or other distributor who knowingly violates any provision of this subchapter shall be guilty of a misdemeanor and shall on conviction be fined not more than $25,000, or imprisoned for not more than one year, or both."
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–396, §17(1), authorized assessment of a civil penalty of not more than $500 for a first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–396, §17(1), authorized assessment of a civil penalty of not more than $500 fora first offense and not more than $1,000 for each subsequent offense against any applicator providing a service of controlling pests for violations of this subchapter.
 
 Subsec. (a)(3). Pub. L. 95–396, §17(2), struck out provision respecting certain considerations when determining amount of penalty, now covered in par. (4).
 

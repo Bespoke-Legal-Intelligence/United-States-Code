@@ -26,7 +26,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (B) Alternate models of payment
 
-&emsp;&emsp;The methodology for determining payment for provision of health home services underthis section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
+&emsp;&emsp;The methodology for determining payment for provision of health home services under this section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
 
 #### (3) Planning grants
 
@@ -130,7 +130,7 @@ In this section:
 
 #### (5) Designated provider
 
-&emsp;The term "designated provider" means a physician, clinical practice or clinical grouppractice, rural clinic, community health center, community mental health center, home health agency, or any other entity or provider (including pediatricians, gynecologists, and obstetricians) that is determined by the State and approved by the Secretary to be qualified to be a health home for eligible individuals with chronic conditions on the basis of documentation evidencing that the physician, practice, or clinic—
+&emsp;The term "designated provider" means a physician, clinical practice or clinical group practice, rural clinic, community health center, community mental health center, home health agency, or any other entity or provider (including pediatricians, gynecologists, and obstetricians) that is determined by the State and approved by the Secretary to be qualified to be a health home for eligible individuals with chronic conditions on the basis of documentation evidencing that the physician, practice, or clinic—
 
 &emsp;&emsp;(A) has the systems and infrastructure in place to provide health home services; and
 

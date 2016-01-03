@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 108–136, §602(c)(1), (3), added subsec. (c) and struck o
 
 Subsec. (d). Pub. L. 108–136, §602(c)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to allocation of increase among pay grades and years-of-service.
 
-Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Whenever the President plans to exercise the authority of the President undersubsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase."
+Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Whenever the President plans to exercise the authority of the President under subsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase."
 
 Subsec. (f). Pub. L. 108–136, §602(c)(2), redesignated subsec. (f) as (d).
 

@@ -88,7 +88,7 @@ Subsec. (d)(3). Pub. L. 109–364, §704(c), inserted at end "During the period 
 
 Subsec. (e). Pub. L. 109–364, §706(c)(1)(A), (B), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "The service agreement required of a member of a reserve component under subsection (a)(2) is separate from any other form of commitment of the member to a period of obligated service in that reserve component and may cover any part or all of the same period that is covered by another commitment of the member to a period of obligated service in that reserve component.".
 
-Subsec. (f)(2). Pub. L. 109–163, §701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'TRICARE Standard' means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program."
+Subsec. (f)(2). Pub. L. 109–163, §701(e), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'TRICARE Standard' means the CivilianHealth and Medical Program of the Uniformed Services option under the TRICARE program."
 
 Subsec. (f)(3). Pub. L. 109–364, §706(c)(1)(C), struck out par. (3) which read as follows: "The term 'member recalled to active duty' means, with respect to a member who is eligible for coverage under this section based on a period of active duty service, a member who is called or ordered to active duty for an additional period of active duty subsequent to the period of active duty on which that eligibility is based."
 
@@ -102,7 +102,7 @@ Pub. L. 110–417, \[div. A\], title VII, §704(c), Oct. 14, 2008, 122 Stat. 449
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: "The Secretary of Defenseshall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007."
+Pub. L. 109–364, div. A, title VII, §706(g), Oct. 17, 2006, 120 Stat. 2282, provided that: "The Secretary of Defense shall ensure that health care under TRICARE Standard is provided under section 1076d of title 10, United States Code, as amended by this section, beginning not later than October 1, 2007."
 
 #### Savings Provision
 

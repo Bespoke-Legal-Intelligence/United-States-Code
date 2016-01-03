@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 85–866, §88(b), substituted "the filing or (where approv
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -62,7 +62,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;A person may discontinue participation in the biosimilar biological product development program for a product effective October 1 of a fiscal year by, not later than August 1 of the preceding fiscal year—
 
-&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing the product as a biosimilar biological product; or
+&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing theproduct as a biosimilar biological product; or
 
 &emsp;&emsp;&emsp;(ii) if an investigational new drug application concerning the product has been submitted, withdrawing the investigational new drug application in accordance with part 312 of title 21, Code of Federal Regulations (or any successor regulations).
 
@@ -96,7 +96,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (iii) Financial hold
 
-&emsp;&emsp;&emsp;Notwithstanding section 355(i)(2) of this title, except in extraordinary circumstances, the Secretary shall prohibit thesponsor of a clinical investigation from continuing the investigation if—
+&emsp;&emsp;&emsp;Notwithstanding section 355(i)(2) of this title, except in extraordinary circumstances, the Secretary shall prohibit the sponsor of a clinical investigation from continuing the investigation if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary determines that the investigation is intended to support a biosimilar biological product application; and
 
@@ -160,7 +160,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (E), each person that is named as the applicantin a biosimilar biological product application shall be assessed an annual fee established under subsection (b)(1)(E) for each biosimilar biological product establishment that is listed in the approved biosimilar biological product application as an establishment that manufactures the biosimilar biological product named in such application.
+&emsp;&emsp;Except as provided in subparagraph (E), each person that is named as the applicant in a biosimilar biological product application shall be assessed an annual fee established under subsection (b)(1)(E) for each biosimilar biological product establishment that is listed in the approved biosimilar biological product application as an establishment that manufactures the biosimilar biological product named in such application.
 
 #### (B) Assessment in fiscal years
 
@@ -232,7 +232,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (E) Biosimilar biological product establishment fee
 
-&emsp;&emsp;The biosimilar biological product establishment fee under subsection (a)(3) for a fiscal year shall be equal to the amount established under section 379h(c)(4) of this titlefor a prescription drug establishment for that fiscal year.
+&emsp;&emsp;The biosimilar biological product establishment fee under subsection (a)(3) for a fiscal year shall be equal to the amount established under section 379h(c)(4) of this title for a prescription drug establishment for that fiscal year.
 
 #### (F) Biosimilar biological product fee
 
@@ -268,7 +268,7 @@ A biosimilar biological product application or supplement submitted by a person 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of biosimilar biological product applications.
+&emsp;Subject to paragraph (2), fees authorized under subsection (a) shall be collected and available for obligation only to the extent andin the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of biosimilar biological product applications.
 
 #### (2) Collections and appropriation Acts
 

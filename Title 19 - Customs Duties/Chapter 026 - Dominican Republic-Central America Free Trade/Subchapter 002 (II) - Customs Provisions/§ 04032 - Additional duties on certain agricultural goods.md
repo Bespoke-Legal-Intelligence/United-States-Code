@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) that is included in the Schedule of the United States to Annex 3.15 of the Agreement;
 
-&emsp;&emsp;(B) that qualifies as an originating good under section 4033 of this title, except that operations performed in or material obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, acountry that is not a party to the Agreement; and
+&emsp;&emsp;(B) that qualifies as an originating good under section 4033 of this title, except that operations performed in or material obtained from the United States shall be considered as if the operations were performed in, and the material was obtained from, a country that is not a party to the Agreement; and
 
 &emsp;&emsp;(C) for which a claim for preferential tariff treatment under the Agreement has been made.
 
@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of this title, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
+&emsp;In addition to any duty proclaimed under subsection (a) or (b) of section 4031 of thistitle, and subject to subsection (a), the Secretary of the Treasury shall assess a duty, in the amount determined under paragraph (2), on a safeguard good of a CAFTA–DR country imported into the United States in a calendar year if the Secretary determines that, prior to such importation, the total volume of that safeguard good of such country that is imported into the United States in that calendar year exceeds 130 percent of the volume that is set out for that safeguard good in the corresponding year in the table for that country contained in Appendix I of the General Notes to the Schedule of the United States to Annex 3.3 of the Agreement. For purposes of this subsection, year 1 in that table corresponds to the calendar year in which the Agreement enters into force.
 
 #### (2) Calculation of additional duty
 

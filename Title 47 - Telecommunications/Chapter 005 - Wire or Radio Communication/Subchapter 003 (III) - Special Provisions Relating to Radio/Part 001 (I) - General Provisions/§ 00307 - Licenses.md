@@ -16,7 +16,7 @@ In considering applications for licenses, and modifications and renewals thereof
 
 #### (2) Materials in application
 
-&emsp;In order to expedite action on applications for renewal of broadcasting station licenses and in order to avoid needless expense to applicants for such renewals, the Commission shall not require any such applicant to file any information which previously has been furnished to the Commission or which is not directly material to the considerations that affect the granting or denial of such application, but the Commission may require any new or additional facts it deems necessary to make its findings.
+&emsp;In order to expedite action on applications for renewal of broadcasting station licenses and in order to avoid needless expense to applicants for such renewals, the Commission shall not require any such applicant to fileany information which previously has been furnished to the Commission or which is not directly material to the considerations that affect the granting or denial of such application, but the Commission may require any new or additional facts it deems necessary to make its findings.
 
 #### (3) Continuation pending decision
 

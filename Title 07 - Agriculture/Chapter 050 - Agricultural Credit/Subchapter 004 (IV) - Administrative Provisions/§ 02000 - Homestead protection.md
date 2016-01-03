@@ -128,7 +128,7 @@ Subsecs. (f), (g). Pub. L. 100–233, §614(4), added subsecs. (f) and (g).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -140,7 +140,7 @@ Pub. L. 102–552, title V, §516(j)(2), Oct. 28, 1992, 106 Stat. 4138, provided
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 701(h)(2) of Pub. L. 102–237 to any provision specified therein effective as if included in act that added provision so specified at the timesuch act became law, see section 1101(c) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by section 701(h)(2) of Pub. L. 102–237 to any provision specified therein effective as if included in act that added provision so specified at the time such act became law, see section 1101(c) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subchapter".</i>
 

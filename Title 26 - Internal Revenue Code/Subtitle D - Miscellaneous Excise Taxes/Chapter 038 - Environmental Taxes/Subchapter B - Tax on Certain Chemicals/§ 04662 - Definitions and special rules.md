@@ -184,7 +184,7 @@ For purposes of this subchapter—
 
 #### (D) Taxation of nonqualified sale or use
 
-&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
+&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or usessuch chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
 
 #### (10) Hydrocarbon streams containing mixtures of organic taxable chemicals
 
@@ -364,13 +364,13 @@ Subsecs. (e), (f). Pub. L. 99–499, §513(b)(1), added subsec. (e) and redesign
 
 Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted "qualified fertilizer substance" for "qualified substance".
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted "fertilizer" after "qualified" wherever appearing in subpar. (B), inserted "fertilizer" after "Qualified" in subpar. (C) heading and in text substituted "The term 'qualified fertilizer use' means any use in the manufacture or production of fertilizer or for direct application as a fertilizer" for "For purposes of this subsection, theterm 'qualified use' means any use in the manufacture or production of a fertilizer", and added subpar. (D).
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted "fertilizer" after "qualified" wherever appearing in subpar. (B), inserted "fertilizer" after "Qualified" in subpar. (C) heading and in text substituted "The term 'qualified fertilizer use' means any use in the manufacture or production of fertilizer or for direct application as a fertilizer" for "For purposes of this subsection, the term 'qualified use' means any use in the manufacture or production of a fertilizer", and added subpar. (D).
 
 Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 98–369, §1019(c), substituted "Except as provided in subsection (b), if" for "If".
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out ", or sells such substance for use," after "such substance".
+Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out", or sells such substance for use," after "such substance".
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
 

@@ -20,16 +20,19 @@
 | \[1413. | Repealed.\] |
 | [1413a.](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md) | Combat-related special compensation. |
 | [1414\.](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%27%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md) | Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation. |
+| [1415\.](%C2%A7%2001415%20-%20Lump%20sum%20payment%20of%20certain%20retired%20pay.md) | Lump sum payment of certain retired pay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–92, div. A, title VI, §633(a)(2), Nov. 25, 2015, 129 Stat. 850, added item 1415.
+
 <b>2011</b>—Pub. L. 111–383, div. A, title VI, §632(b)(2), Jan. 7, 2011, 124 Stat. 4240, added item 1412 and struck out former item 1412 "Rounding to next lower dollar".
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VI, §641(b), Oct. 17, 2006, 120 Stat. 2259, added item 1407a.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformed services retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
+<b>2003</b>—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 "Special compensation for certain severely disabled uniformed services retirees", and substituted "Combat-related special compensation" for "Special compensation for certain combat-related disabled uniformedservices retirees" in item 1413a and "Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation" for "Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans' disability compensation; contingent authority" in item 1414.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
 
@@ -78,3 +81,4 @@ Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 - [&sect; 01413 - Repealed. Pub. L. 108&#8211;136, div. A, title VI, &sect;641(b), Nov. 24, 2003, 117 Stat. 1514](%C2%A7%2001413%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7641%28b%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201514.md)
 - [&sect; 01413a - Combat-related special compensation](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md)
 - [&sect; 01414 - Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher&#8230;](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%27%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md)
+- [&sect; 01415 - Lump sum payment of certain retired pay](%C2%A7%2001415%20-%20Lump%20sum%20payment%20of%20certain%20retired%20pay.md)

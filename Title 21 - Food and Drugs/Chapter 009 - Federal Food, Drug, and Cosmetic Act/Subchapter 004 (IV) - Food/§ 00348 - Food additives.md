@@ -14,7 +14,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;&emsp;(B) a notification submitted under subsection (h) of this section that is effective.
 
-> While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title.
+> While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additivethat is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under section 342(a)(1) of this title.
 
 #### (b) Petition for regulation prescribing conditions of safe use; contents; description of production methods and controls; samples; notice of regulation
 
@@ -82,7 +82,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
-(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions existnecessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
+(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
 #### (g) Judicial review
 
@@ -100,7 +100,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (1) Subject to such regulations as may be promulgated under paragraph (3), a manufacturer or supplier of a food contact substance may, at least 120 days prior to the introduction or delivery for introduction into interstate commerce of the food contact substance, notify the Secretary of the identity and intended use of the food contact substance, and of the determination of the manufacturer or supplier that the intended use of such food contact substance is safe under the standard described in subsection (c)(3)(A) of this section. The notification shall contain the information that forms the basis of the determination and all information required to be submitted by regulations promulgated by the Secretary.
 
-(2)(A) A notification submitted under paragraph (1) shall become effective 120 days after the date of receipt by the Secretary and the food contact substance may be introduced or delivered for introduction into interstate commerce, unless the Secretary makes a determination within the 120-day period that, based on the data and information before the Secretary, such use of the food contact substance has not been shown to be safe under the standard described in subsection (c)(3)(A) of this section, and informs the manufacturer or supplier of such determination.
+(2)(A) A notification submitted under paragraph (1) shall become effective 120 days afterthe date of receipt by the Secretary and the food contact substance may be introduced or delivered for introduction into interstate commerce, unless the Secretary makes a determination within the 120-day period that, based on the data and information before the Secretary, such use of the food contact substance has not been shown to be safe under the standard described in subsection (c)(3)(A) of this section, and informs the manufacturer or supplier of such determination.
 
 (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
@@ -116,7 +116,7 @@ Any order, including any regulation established by such order, issued under subs
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iv) is made for such fiscal year for carrying out such program in such fiscal year; and
 
-&emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause\(I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
+&emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
 (ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notifications submitted under the notification program established under this subsection if—
 
@@ -166,7 +166,7 @@ Subsec. (j). Pub. L. 105–115, §309(b)(1), (4), redesignated subsec. (i) as (j
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

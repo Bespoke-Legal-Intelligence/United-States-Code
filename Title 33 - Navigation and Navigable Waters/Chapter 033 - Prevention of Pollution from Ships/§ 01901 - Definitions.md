@@ -116,7 +116,7 @@ Pub. L. 96–478, §14(c), Oct. 21, 1980, 94 Stat. 2303, provided that: "Any rig
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Interim Authority for Dry Bulk Cargo Residue Disposal
 
@@ -192,7 +192,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;"(3) concentrations of total residual chlorine may not exceed 10.0 µg/l; and
 
-&emsp;"(4) prior to any such discharge occurring, the owner, operator or master, or other person in charge of a cruise vessel, can demonstrate test results from at least five samples taken from the vessel representative of the effluent to be discharged, on different days over a 30-day period, conducted in accordance with the guidelines promulgated by the Administrator in 40 CFR Part 136, which confirm that the water quality of the effluents proposed for discharge is in compliance with paragraphs (1), (2), and (3) of this subsection. To the extent not otherwise being done by the owner, operator, master or other person in charge of a cruise vessel pursuant to section 1406, the owner, operator, master or other person in charge of a cruise vessel shall demonstrate continued compliance through periodic sampling. Such sampling and test results shall be considered environmental compliance records that must be made available for inspection pursuant to section 1406(d) of this title.
+&emsp;"(4) prior to any such discharge occurring, the owner, operator or master, or other person in charge of a cruise vessel, can demonstrate test results from at least five samples taken from the vessel representative of the effluent to be discharged, on different days over a 30-day period, conducted in accordance with the guidelines promulgated by the Administrator in 40 CFR Part 136, which confirm that the water quality of the effluents proposed for dischargeis in compliance with paragraphs (1), (2), and (3) of this subsection. To the extent not otherwise being done by the owner, operator, master or other person in charge of a cruise vessel pursuant to section 1406, the owner, operator, master or other person in charge of a cruise vessel shall demonstrate continued compliance through periodic sampling. Such sampling and test results shall be considered environmental compliance records that must be made available for inspection pursuant to section 1406(d) of this title.
 
 #### "SEC. 1405. SAFETY EXCEPTION.
 
@@ -436,7 +436,7 @@ Waters of the Alexander Archipelago.—The term 'waters of the Alexander Archipe
 
 &emsp;&emsp;"(5) 54°51′30″N, 131°20′45″W and 54°46′15″N, 130°52′00″W \[Revillagigedo Channel\].
 
-"The portion of each such geodesic situated beyond three nautical miles from the baseline from which the breadth of the territorial sea is measured forms the outer limit of the waters of the Alexander Archipelago in those five locations."
+"The portion of each such geodesic situated beyond three nautical miles from the baseline from which thebreadth of the territorial sea is measured forms the outer limit of the waters of the Alexander Archipelago in those five locations."
 
 #### Preemption; Additional State Requirements
 

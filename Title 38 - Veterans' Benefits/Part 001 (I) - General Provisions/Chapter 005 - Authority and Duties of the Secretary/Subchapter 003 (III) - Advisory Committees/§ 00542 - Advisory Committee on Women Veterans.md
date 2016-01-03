@@ -72,9 +72,9 @@ Reference to Assistant Secretary of Labor for Veterans' Employment in any law in
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by this section \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
+Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by thissection \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

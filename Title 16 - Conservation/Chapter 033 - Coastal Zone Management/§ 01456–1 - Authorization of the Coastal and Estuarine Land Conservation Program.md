@@ -44,7 +44,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
-&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, andshall submit such evaluations to Congress triennially.
+&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
 
 #### (d) Limitations and private property protections
 
@@ -86,7 +86,7 @@ Nothing in this chapter modifies the authority of Federal, State, or local gover
 
 &emsp;&emsp;&emsp;(i) the land meets the criteria set forth in section 2(b) <sup>1</sup> and is acquired in the period beginning 3 years before the date of the submission of the grant application and ending 3 years after the date of the award of the grant;
 
-&emsp;&emsp;&emsp;(ii) the value of the land or easement is held by a non-governmental organization included in the grant application in perpetuity for conservation purposes of the program; and
+&emsp;&emsp;&emsp;(ii) the value of the land or easement is held by a non-governmental organizationincluded in the grant application in perpetuity for conservation purposes of the program; and
 
 &emsp;&emsp;&emsp;(iii) the land or easement is connected either physically or through a conservation planning process to the land or easement that would be acquired.
 

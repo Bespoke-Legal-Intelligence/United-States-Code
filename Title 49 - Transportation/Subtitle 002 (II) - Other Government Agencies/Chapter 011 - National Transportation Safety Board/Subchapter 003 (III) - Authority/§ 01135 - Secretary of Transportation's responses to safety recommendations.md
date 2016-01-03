@@ -64,7 +64,7 @@ Reporting Requirements.—
 
 &emsp;(1)
 
-Annual secretarial regulatory status reports.—On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board's "most wanted list". The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or anAdministration within the Department) determines and states in such a report that no action should be taken.
+Annual secretarial regulatory status reports.—On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board's "most wanted list". The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
 
 &emsp;(2)
 
@@ -118,7 +118,7 @@ Subsecs. (d), (e). Pub. L. 111–216, §202(b), as amended by Pub. L. 111–249,
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
+Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub.L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
 
 #### Reports on Certain Open Safety Recommendations
 

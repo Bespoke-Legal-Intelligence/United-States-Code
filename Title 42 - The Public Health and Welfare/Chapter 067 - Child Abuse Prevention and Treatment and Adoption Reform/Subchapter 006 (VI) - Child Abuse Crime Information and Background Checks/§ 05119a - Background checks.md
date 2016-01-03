@@ -54,7 +54,7 @@ In the case of a background check pursuant to a State requirement adopted after 
 
 #### References in Text
 
-Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28,Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Final report.—Based on the findings of the pilot project, the Attorney General
 
 Limitation on Liability.—In connection with the Pilot Programs established under this section, in reliance upon the fitness criteria established under section 108(a)(3)(G)(i), and except upon proof of actual malice or intentional misconduct, the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of the Center shall not be liable in any civil action for damages—
 
-&emsp;"(1) arising from any act or communication by the Center, the director, officer, employee, or agent thatresults in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization;
+&emsp;"(1) arising from any act or communication by the Center, the director, officer, employee, or agent that results in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization;
 
 &emsp;"(2) alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and
 

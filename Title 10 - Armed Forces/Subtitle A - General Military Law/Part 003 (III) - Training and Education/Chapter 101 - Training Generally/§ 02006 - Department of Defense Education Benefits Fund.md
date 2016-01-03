@@ -32,7 +32,7 @@
 
 &emsp;(3) Any return on investment of the assets of the Fund.
 
-(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when,and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not be used for any purpose other than transfers as described in this subsection.
+(d) The Secretary of the Treasury shall transfer from the Fund to the Secretary of Veterans Affairs such amounts as may be necessary to enable the Secretary of Veterans Affairs to make required payments of armed forces education liabilities. The Secretary of the Treasury, the Secretary of Defense, the Secretary of the Department in which the Coast Guard is operating, and the Secretary of Veterans Affairs shall enter into an agreement as to how and when, and the amounts in which, such transfers shall be made. Except for investments under subsection (h), amounts in the Fund may not be used for any purpose other than transfers as described in this subsection.
 
 (e)(1) The Secretary of Defense shall carry out periodic actuarial valuations of the educational programs described in subsection (b)(1).
 

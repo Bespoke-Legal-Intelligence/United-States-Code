@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subsection (f) of this section, if the completeness or accuracy of any item of information contained in a consumer's file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
+&emsp;&emsp;Subject to subsection (f), if the completeness or accuracy of any item of information contained in a consumer's file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
 
 #### (B) Extension of period to reinvestigate
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information isfound to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall—
+&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall—
 
 &emsp;&emsp;&emsp;(i) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the reinvestigation; and
 
@@ -100,11 +100,11 @@
 
 &emsp;&emsp;&emsp;(ii) a consumer report that is based upon the consumer's file as that file is revised as a result of the reinvestigation;
 
-&emsp;&emsp;&emsp;(iii) a notice that, if requested by the consumer, a description of the procedure used to determine the accuracy and completeness of the information shall be provided to the consumer by the agency, including the business name and address of any furnisher of information contacted in connection with such information and the telephone number of such furnisher, if reasonably available;
+&emsp;&emsp;&emsp;(iii) a notice that, if requested by the consumer, a description of the procedure used to determine the accuracy and completeness of the information shall be provided to the consumer by the agency, including the business name and address of any furnisher of information contacted inconnection with such information and the telephone number of such furnisher, if reasonably available;
 
 &emsp;&emsp;&emsp;(iv) a notice that the consumer has the right to add a statement to the consumer's file disputing the accuracy or completeness of the information; and
 
-&emsp;&emsp;&emsp;(v) a notice that the consumer has the right to request under subsection (d) of this section that the consumer reporting agency furnish notifications under that subsection.
+&emsp;&emsp;&emsp;(v) a notice that the consumer has the right to request under subsection (d) that the consumer reporting agency furnish notifications under that subsection.
 
 #### (7) Description of reinvestigation procedure
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) provides prompt notice of the deletion to the consumer by telephone;
 
-&emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordancewith subparagraph (C), a statement of the consumer's right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
+&emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer's right to request under subsection (d) that the agency furnish notifications under that subsection; and
 
 &emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report on the consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
 
@@ -130,7 +130,7 @@ Whenever a statement of a dispute is filed, unless there is reasonable grounds t
 
 #### (d) Notification of deletion of disputed information
 
-Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) of this section to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
+Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
 
 #### (e) Treatment of complaints and report to Congress
 
@@ -138,7 +138,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;The Commission <sup>1</sup> shall—
 
-&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
+&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a); and
 
 &emsp;&emsp;(B) transmit each such complaint to each consumer reporting agency involved.
 
@@ -186,7 +186,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 &emsp;Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
 
-&emsp;&emsp;(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) of this section shall be provided to the reseller in lieu of the consumer; and
+&emsp;&emsp;(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) shall be provided to the reseller in lieu of the consumer; and
 
 &emsp;&emsp;(B) the reseller shall immediately reconvey such notice to the consumer, including any notice of a deletion by telephone in the manner required under paragraph (8)(A).
 
@@ -208,7 +208,7 @@ Subsec. (e)(3), (5). Pub. L. 111–203, §1088(a)(2)(C), substituted "the Bureau
 
 <b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted "shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate" for "shall reinvestigate free of charge".
 
-Pub. L. 108–159, §316(a)(1), substituted "Subject to subsection (f) of this section, if the completeness" for "If the completeness" and inserted ", or indirectly through a reseller," after "notifies the agency directly" and "or reseller" before period at end.
+Pub. L. 108–159, §316(a)(1), substituted "Subject to subsection (f), if the completeness" for "If the completeness" and inserted ", or indirectly through a reseller," after "notifies the agency directly" and "or reseller" before period at end.
 
 Subsec. (a)(2)(A). Pub. L. 108–159, §316(a)(2), inserted "or a reseller" after "dispute from any consumer" and "or reseller" before period at end.
 
@@ -234,7 +234,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -258,7 +258,7 @@ Report required.—Before the end of the 12-month period beginning on the date o
 
 "(3)
 
-Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaintscompiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
+Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
 
 "(4)
 

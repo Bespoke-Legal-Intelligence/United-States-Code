@@ -12,7 +12,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 &emsp;(A) which is operated in connection with a hospital,
 
-&emsp;(B) in which patient care is under the professional supervision of persons licensed to practice medicine or surgery in the State, or in the case of dental diagnosis or treatment, under the professional supervision of persons licensed to practice dentistry in the State; or
+&emsp;(B) in which patient care is under the professional supervision of persons licensed to practice medicine or surgery in the State, or in thecase of dental diagnosis or treatment, under the professional supervision of persons licensed to practice dentistry in the State; or
 
 &emsp;(C) which offers to patients not requiring hospitalization the services of licensed physicians in various medical specialties, and which provides to its patients a reasonably full-range of diagnostic and treatment services.
 

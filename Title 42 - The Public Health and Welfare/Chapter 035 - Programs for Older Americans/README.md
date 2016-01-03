@@ -222,7 +222,7 @@
 | [3056f.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056f%20-%20Report.md) | Report. |
 | [3056g.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056g%20-%20Employment%20assistance%20and%20Federal%20housing%20and%20supplemental%20nutrition%20assistance%20programs.md) | Employment assistance and Federal housing and supplemental nutrition assistance programs. |
 | [3056h.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056h%20-%20Eligibility%20for%20workforce%20investment%20activities.md) | Eligibility for workforce investment activities. |
-| [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Investment%20Act%20of%201998.md) | Coordination with the Workforce Investment Act of 1998. |
+| [3056i.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056i%20-%20Coordination%20with%20the%20Workforce%20Innovation%20and%20Opportunity%20Act%201.md) | Coordination with the Workforce Innovation and Opportunity Act. |
 | [3056j.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056j%20-%20Treatment%20of%20assistance.md) | Treatment of assistance. |
 | [3056k.](Subchapter%20009%20%28IX%29%20-%20Community%20Service%20Senior%20Opportunities/%C2%A7%2003056k%20-%20Performance.md) | Performance. |
 | 3056<i>l.</i> | Competitive requirements relating to grant awards. |

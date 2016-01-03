@@ -100,5 +100,5 @@ Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, pr
 
 #### Encryption Reporting Requirements
 
-Pub. L. 106–197, §2(b), May 2, 2000, 114 Stat. 247, provided that: "The encryption reporting requirement insubsection (a) \[amending this section\] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports."
+Pub. L. 106–197, §2(b), May 2, 2000, 114 Stat. 247, provided that: "The encryption reporting requirement in subsection (a) \[amending this section\] shall be effective for the report transmitted by the Director of the Administrative Office of the Courts for calendar year 2000 and in subsequent reports."
 

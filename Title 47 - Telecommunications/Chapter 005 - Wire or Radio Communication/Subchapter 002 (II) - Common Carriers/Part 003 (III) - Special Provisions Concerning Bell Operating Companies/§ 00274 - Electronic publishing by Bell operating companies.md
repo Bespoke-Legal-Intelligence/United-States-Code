@@ -6,7 +6,7 @@ No Bell operating company or any affiliate may engage in the provision of electr
 
 #### (b) Separated affiliate or electronic publishing joint venture requirements
 
-A separated affiliate or electronic publishing joint venture shall be operated independentlyfrom the Bell operating company. Such separated affiliate or joint venture and the Bell operating company with which it is affiliated shall—
+A separated affiliate or electronic publishing joint venture shall be operated independently from the Bell operating company. Such separated affiliate or joint venture and the Bell operating company with which it is affiliated shall—
 
 &emsp;(1) maintain separate books, records, and accounts and prepare separate financial statements;
 
@@ -48,7 +48,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 &emsp;&emsp;(A) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with a separated affiliate; and
 
-&emsp;&emsp;(B) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with an affiliate that is related to the provision of electronic publishing.
+&emsp;&emsp;(B) a Bell operating company shall not carry out any promotion, marketing, sales, or advertising for or in conjunction with anaffiliate that is related to the provision of electronic publishing.
 
 #### (2) Permissible joint activities
 
@@ -66,7 +66,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (d) Bell operating company requirement
 
-A Bell operating company under common ownership or control with a separated affiliate orelectronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at just and reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
+A Bell operating company under common ownership or control with a separated affiliate or electronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at just and reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
 
 #### (e) Private right of action
 
@@ -106,7 +106,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 &emsp;&emsp;(B) The transmission of information as a common carrier.
 
-&emsp;&emsp;(C) The transmission of information as part of a gateway to an information service that does not involve the generation or alteration of the content of information, including data transmission, address translation, protocol conversion, billing management, introductory information content, and navigational systems that enable users to access electronic publishing services, which do not affect the presentation of such electronic publishing services to users.
+&emsp;&emsp;(C) The transmission of information as part of a gateway to an information servicethat does not involve the generation or alteration of the content of information, including data transmission, address translation, protocol conversion, billing management, introductory information content, and navigational systems that enable users to access electronic publishing services, which do not affect the presentation of such electronic publishing services to users.
 
 &emsp;&emsp;(D) Voice storage and retrieval services, including voice messaging and electronic mail services.
 
@@ -140,7 +140,7 @@ As used in this section—
 
 &emsp;(2) The term "basic telephone service" means any wireline telephone exchange service, or wireline telephone exchange service facility, provided by a Bell operating company in a telephone exchange area, except that such term does not include—
 
-&emsp;&emsp;(A) a competitive wireline telephone exchange service provided in a telephone exchange area where another entity provides awireline telephone exchange service that was provided on January 1, 1984, or
+&emsp;&emsp;(A) a competitive wireline telephone exchange service provided in a telephone exchange area where another entity provides a wireline telephone exchange service that was provided on January 1, 1984, or
 
 &emsp;&emsp;(B) a commercial mobile service.
 

@@ -186,7 +186,7 @@ For purposes of this section:
 
 #### (C) Uniform enrollment fee
 
-&emsp;&emsp;A prescription drug card sponsor shall ensure that the annual enrollment fee (if any) for an endorsed discount card program is the same for all discount card eligible individuals enrolled in the program and residing in the State.
+&emsp;&emsp;A prescription drug card sponsor shall ensure that the annual enrollment fee (if any)for an endorsed discount card program is the same for all discount card eligible individuals enrolled in the program and residing in the State.
 
 #### (D) Collection
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminateinformation to discount card eligible individuals (and prospective eligible individuals) regarding—
+&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to discount card eligible individuals (and prospective eligible individuals) regarding—
 
 &emsp;&emsp;&emsp;(i) enrollment in endorsed discount card programs; and
 
@@ -256,7 +256,7 @@ For purposes of this section:
 
 #### (B) Response to enrollee questions
 
-&emsp;&emsp;Each sponsor offering an endorsed discount card program shall have a mechanism (including a toll-free telephone number) for providing upon request specific information (such as negotiated prices and the amount of transitional assistance remaining available through the program) to discount card eligible individuals enrolled in the program. The sponsor shall inform transitional assistance eligible individuals enrolled in the program of the availability of such toll-free telephone number to provide information on the amount of available transitional assistance.
+&emsp;&emsp;Each sponsor offering an endorsed discount card program shall have a mechanism (including a toll-free telephone number) for providing upon request specific information (such as negotiated prices and the amount of transitional assistance remaining available through the program) to discount card eligible individuals enrolled in the program. The sponsor shall inform transitional assistance eligible individuals enrolled in the program of the availability of such toll-free telephonenumber to provide information on the amount of available transitional assistance.
 
 #### (C) Information on balance of transitional assistance available at point-of-sale
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shallestablish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -328,7 +328,7 @@ For purposes of this section:
 
 #### (B) Income and family size determinations
 
-&emsp;&emsp;For purposes of this section, the Secretary shall define the terms "income" and "family size" and shall specify the methods and period for which they are determined. If under such methods income or family size is determined based on the income or family size for prior periods of time, the Secretary shall permit (whether through a process of reconsideration or otherwise) an individual whose income or family size has changed to elect to have eligibility for transitional assistance determined based on income or family size for a more recent period.
+&emsp;&emsp;For purposes of this section, the Secretary shall define the terms "income" and "family size" and shall specify the methods and period for which they are determined. If undersuch methods income or family size is determined based on the income or family size for prior periods of time, the Secretary shall permit (whether through a process of reconsideration or otherwise) an individual whose income or family size has changed to elect to have eligibility for transitional assistance determined based on income or family size for a more recent period.
 
 #### (2) Use of self-certification for transitional assistance
 
@@ -426,7 +426,7 @@ For purposes of this section:
 
 #### (C) Accounting for available balances in cases of changes in program enrollment
 
-&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balanceof amounts available on behalf of the individual under this paragraph.
+&emsp;&emsp;In the case of a transitional assistance eligible individual who changes the endorsed discount card program in which the individual is enrolled under this section, the Secretary shall provide a process under which the Secretary provides to the sponsor of the endorsed program in which the individual enrolls information concerning the balance of amounts available on behalf of the individual under this paragraph.
 
 #### (D) Limitation on use of funds
 
@@ -468,7 +468,7 @@ For purposes of this section:
 
 #### (A) Residents of long-term care facilities
 
-&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section as necessary to negotiate arrangements with sponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
+&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this sectionas necessary to negotiate arrangements with sponsors to provide arrangements with pharmacies that support long-term care facilities in order to ensure access to transitional assistance for transitional assistance eligible individuals who reside in long-term care facilities.
 
 #### (B) American Indians
 
@@ -502,7 +502,7 @@ For purposes of this section:
 
 #### (B) Administrative qualifications
 
-&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similarprogram and that meets such business stability and integrity requirements as the Secretary may specify.
+&emsp;&emsp;Each endorsed discount card program shall be operated directly, or through arrangements with an affiliated organization (or organizations), by one or more entities that have demonstrated experience and expertise in operating such a program or a similar program and that meets such business stability and integrity requirements as the Secretary may specify.
 
 #### (C) Accounting for transitional assistance
 
@@ -542,7 +542,7 @@ For purposes of this section:
 
 #### (4) Savings to medicare beneficiaries
 
-&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shall pass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1) of this section.
+&emsp;Each prescription drug card sponsor that offers an endorsed discount card program shallpass on to discount card eligible individuals enrolled in the program negotiated prices on covered discount card drugs, including discounts negotiated with pharmacies and manufacturers, to the extent disclosed under subsection (i)(1) of this section.
 
 #### (5) Grievance mechanism
 
@@ -630,7 +630,7 @@ For purposes of this section:
 
 &emsp;&emsp;The plan described in this subparagraph is a plan that—
 
-&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individualswho are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
+&emsp;&emsp;&emsp;(i) provides transitional assistance with respect to the provision of covered discount card drugs to some or all individuals who are entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, who reside in the State, and who have income below 135 percent of the poverty line; and
 
 &emsp;&emsp;&emsp;(ii) assures that amounts received by the State under this paragraph are used only for such assistance.
 

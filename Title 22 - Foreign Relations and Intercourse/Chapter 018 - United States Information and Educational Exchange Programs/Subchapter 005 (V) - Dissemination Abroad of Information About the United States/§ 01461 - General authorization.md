@@ -20,7 +20,7 @@ The Secretary and the Broadcasting Board of Governors are authorized to use fund
 
 &emsp;(B) the Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release, in accordance with paragraph (4).
 
-(3) The Archivist may undertake the functions described in paragraph (1) on behalf of and atthe request of the Secretary or the Broadcasting Board of Governors.
+(3) The Archivist may undertake the functions described in paragraph (1) on behalf of and at the request of the Secretary or the Broadcasting Board of Governors.
 
 (4) The Archivist may charge fees to recover the costs described in paragraphs (1) and (2), in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
@@ -32,7 +32,7 @@ Nothing in this section may be construed to require the Secretary or the Broadca
 
 #### References in Text
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (b)(1), is title III of Pub. L.103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The Radio Broadcasting to Cuba Act, referred to in subsec. (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
@@ -160,7 +160,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Director
 
-\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Section provided for appointment and responsibilities of Director of the Agency.\]
+\[Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790. Sectionprovided for appointment and responsibilities of Director of the Agency.\]
 
 #### Sec. 3. Deputy Director
 
@@ -202,7 +202,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (10) Section 3(a) of the Arts and Artifacts Indemnity Act (20 U.S.C. 972(a));
 
-(11) Section 7 of the Act of June 15, 1951, c. 138, 65 Stat. 71 (50 U.S.C. App. 2316);
+(11) Section 7 of the Act of June 15, 1951, c. 138, 65 Stat. 71 (\[former\] 50 U.S.C. App. 2316);
 
 (12) Section 9(b) of the National Foundation on the Arts and Humanities Act of 1965 (20 U.S.C. 958(b)), to the extent that such functions are vested in the Secretary of State;
 
@@ -226,11 +226,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 8. Establishment of the United States Advisory Commission on International Communication, Cultural, and Educational Affairs
 
-(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the "Commission") \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with theadvice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
+(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the "Commission") \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
 
 (b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
 
-The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vested in the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
+The Commission shall formulate and recommend to the Director, the Secretary of State, and the President policies and programs to carry out the functions vestedin the Director or the Agency, and shall appraise the effectiveness of policies and programs of the Agency. The Commission shall submit to the Congress, the President, the Secretary of State and the Director annual reports on programs and activities carried on by the Agency, including appraisals, where feasible, as to the effectiveness of the several programs. The Commission shall also include in such reports such recommendations as shall have been made by the Commission to the Director for effectuating the purposes of the Agency, and the action taken to carry out such recommendations. The Commission may also submit such other reports to the Congress as it deems appropriate, and shall make reports to the public in the United States and abroad to develop a better understanding of and support for the programs conducted by the Agency. The Commission's reports to the Congress shall include assessments of the degree to which the scholarly integrity and nonpolitical character of the educational and cultural exchange activities vested in the Director have been maintained, and assessments of the attitudes of foreign scholars and governments regarding such activities.
 
 (c) The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO. \[As amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.\]
 
@@ -276,7 +276,7 @@ This Reorganization Plan shall become effective at such time or times, on or bef
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1977 to consolidate certain international communication, educational and cultural, and broadcasting activities of the United States Government. I am acting under the authority vested in me by the Reorganization Act,chapter 9 of title 5 of the United States Code. I am also acting pursuant to section 501 of the Foreign Relations Authorization Act, Fiscal Year 1978 (Public Law 95–105), which provides that my recommendations for reorganizing these activities be transmitted by October 31, 1977.
+I transmit herewith Reorganization Plan No. 2 of 1977 to consolidate certain international communication, educational and cultural, and broadcasting activities of the United States Government. I am acting under the authority vested in me by the Reorganization Act, chapter 9 of title 5 of the United States Code. I am also acting pursuant to section 501 of the Foreign Relations Authorization Act, Fiscal Year 1978 (Public Law 95–105), which provides that my recommendations for reorganizing these activities be transmitted by October 31, 1977.
 
 This reorganization will consolidate into a new agency, to be known as the Agency for International Communication, the functions now exercised by the State Department's Bureau of Educational and Cultural Affairs and the United States Information Agency.
 
@@ -334,7 +334,7 @@ The White House, October 11, 1977.
 
 #### Ex. Ord. No. 12048. International Communication Agency
 
-Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12048, Mar. 27, 1978, 43 F.R. 13361, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R.46245; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 11 of Reorganization Plan No. 2 of 1977 (42 FR 62461 (December 13, 1977)) \[set out above\], Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to provide for the establishment of the International Communication Agency, it is hereby ordered as follows:
 

@@ -14,7 +14,7 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 &emsp;(6) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121 Stat. 1591; Pub. L. 111–350, §5(l)(18), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, §323(d), Dec. 19, 2007, 121Stat. 1591; Pub. L. 111–350, §5(l)(18), Jan. 4, 2011, 124 Stat. 3852.)
 
 Historical and Revision Notes
 

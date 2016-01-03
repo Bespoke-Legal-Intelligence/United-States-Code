@@ -16,11 +16,11 @@ Any entity, including a trade association, firm, certified or recognized union, 
 
 #### (b) Identification of industry
 
-Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
+Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
 
 #### (c) Action after identification
 
-At the request of an entity that is representative of an industry identified under subsection (b) of this section, the Trade Representative shall—
+At the request of an entity that is representative of an industry identified under subsection (b), the Trade Representative shall—
 
 &emsp;(1) compile and make available to the industry information under section 2418 of this title;
 
@@ -34,7 +34,7 @@ At the request of an entity that is representative of an industry identified und
 
 #### (1) In general
 
-&emsp;The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) of this section and consult with the industry identified under subsection (b) of this section with a view to deciding whether any action is appropriate—
+&emsp;The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) and consult with the industry identified under subsection (b) with a view to deciding whether any action is appropriate—
 
 &emsp;&emsp;(A) under section 2411 of this title, including the initiation of an investigation under section 2412(c) of this title (in the case of the Trade Representative); or
 
@@ -62,7 +62,7 @@ Any decision, whether positive or negative, or any action by the Trade Represent
 
 &emsp;(1) prejudice the right of any industry to file a petition under any trade law;
 
-&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, the International Trade Commission, or the Trade Representative pursuant to such a petition; or
+&emsp;(2) prejudice, affect, or substitute for, any proceeding, investigation, determination, or action by the Secretary of Commerce, theInternational Trade Commission, or the Trade Representative pursuant to such a petition; or
 
 &emsp;(3) prejudice, affect, substitute for, or obviate any proceeding, investigation, or determination under section 2411 of this title, title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\], or any other trade law.
 

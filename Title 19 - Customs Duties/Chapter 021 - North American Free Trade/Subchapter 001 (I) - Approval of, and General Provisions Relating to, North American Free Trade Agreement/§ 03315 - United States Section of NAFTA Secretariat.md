@@ -16,7 +16,7 @@ There are authorized to be appropriated for each fiscal year after fiscal year 1
 
 #### (c) Reimbursement of certain expenses
 
-If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a) of this section.
+If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a).
 
 (Pub. L. 103–182, title I, §105, Dec. 8, 1993, 107 Stat. 2064; Pub. L. 110–161, div. B, title I, §107, Dec. 26, 2007, 121 Stat. 1893.)
 
@@ -30,5 +30,5 @@ Section to cease to have effect with respect to any country during any period in
 
 #### Establishment of United States Section of NAFTA Secretariat
 
-For establishment of United States Section of NAFTA Secretariat within Department of Commerce, see section 1 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under section 3311 of this title.
+For establishment of United States Section of NAFTA Secretariat within Department of Commerce,see section 1 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under section 3311 of this title.
 

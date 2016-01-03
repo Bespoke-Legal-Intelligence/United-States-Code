@@ -24,7 +24,7 @@ The Attorney General may compromise or settle any claim asserted in such civil a
 
 #### (e) Inapplicability of section 2680(h) of title 28
 
-For purposes of this section, the provisions of section 2680(h) of title 28, shall not apply to anytort enumerated therein arising out of negligence in the furnishing of medical care or related services, including the conducting of clinical studies or investigations.
+For purposes of this section, the provisions of section 2680(h) of title 28, shall not apply to any tort enumerated therein arising out of negligence in the furnishing of medical care or related services, including the conducting of clinical studies or investigations.
 
 #### (f) Holding harmless or providing for liability insurance
 

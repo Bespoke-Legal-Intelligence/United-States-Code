@@ -56,7 +56,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 #### (f) Amendments, transfers, and reinstatements
 
-The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
+The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if theSecretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 
 #### (g) Eligible citizens
 
@@ -74,7 +74,7 @@ To promote the security of the United States, the Secretary shall give top prior
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text gene
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
-Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issuedunder this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
 Subsec. (f). Pub. L. 98–419, §2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### LNG Tankers
 

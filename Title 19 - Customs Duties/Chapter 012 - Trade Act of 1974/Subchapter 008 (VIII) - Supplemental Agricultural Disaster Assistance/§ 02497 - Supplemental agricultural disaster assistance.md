@@ -246,7 +246,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(I) the actual production by crop on a farm for purposes of determining lossesunder the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop assistance program; and
+&emsp;&emsp;&emsp;&emsp;(I) the actual production by crop on a farm for purposes of determining losses under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop assistance program; and
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
 
@@ -328,7 +328,7 @@ In this section:
 
 #### (1) Payments
 
-&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make livestock indemnity payments to eligible producers on farms that have incurred livestockdeath losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
 
 #### (2) Payment rates
 
@@ -390,7 +390,7 @@ In this section:
 
 #### (D) Normal carrying capacity
 
-&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland for livestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
+&emsp;&emsp;The term "normal carrying capacity", with respect to each type of grazing land or pastureland in a county, means the normal carrying capacity, as determined under paragraph (3)(D)(i), that would be expected from the grazing land or pastureland forlivestock during the normal grazing period, in the absence of a drought or fire that diminishes the production of the grazing land or pastureland.
 
 #### (E) Normal grazing period
 
@@ -426,7 +426,7 @@ In this section:
 
 #### (ii) Partial compensation
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed ofcovered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
 
 #### (C) Monthly feed cost
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (II) D3
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligibleto receive assistance under this paragraph—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
@@ -642,7 +642,7 @@ In this section:
 
 #### (2) Minimum
 
-&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer on a farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
+&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer ona farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
 
 #### (3) Waiver for socially disadvantaged, limited resource, or beginning farmer or rancher
 
@@ -666,7 +666,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that areotherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.
+&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that are otherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.
 
 #### (B) 2008 crop year
 
@@ -770,7 +770,7 @@ This section shall be effective only for losses that are incurred as the result 
 
 In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L.113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
 
 #### References in Text
 

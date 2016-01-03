@@ -4,7 +4,7 @@
 
 Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
 
-&emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a financecharge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
+&emsp;(1) The conditions under which a finance charge may be imposed, including the time period (if any) within which any credit extended may be repaid without incurring a finance charge, except that the creditor may, at his election and without disclosure, impose no such finance charge if payment is received after the termination of such time period. If no such time period is provided, the creditor shall disclose such fact.
 
 &emsp;(2) The method of determining the balance upon which a finance charge will be imposed.
 
@@ -16,7 +16,7 @@ Before opening any account under an open end consumer credit plan, the creditor 
 
 &emsp;(6) In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
-&emsp;(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
+&emsp;(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor's responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) for such billing cycle.
 
 &emsp;(8) In the case of any account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling, any information which—
 
@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Bureau sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Bureau, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Bureau sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Bureau, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of creditduring the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -48,7 +48,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
 
-&emsp;(11)(A) A written statement in the following form: "Minimum Payment Warning: Makingonly the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.", or such similar statement as is established by the Bureau pursuant to consumer testing.
+&emsp;(11)(A) A written statement in the following form: "Minimum Payment Warning: Making only the minimum payment will increase the amount of interest you pay and the time it takes to repay your balance.", or such similar statement as is established by the Bureau pursuant to consumer testing.
 
 &emsp;(B) Repayment information that would apply to the outstanding balance of the consumer under the credit plan, including—
 
@@ -82,7 +82,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;(ii) the items required to be included in the table shall be listed in the order in which such items are set forth in subparagraph (B).
 
-&emsp;(G) In prescribing the form of the table under subparagraph (D), the Bureau shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easily understood and conveys substantially the same meaning.
+&emsp;(G) In prescribing the form of the table under subparagraph (D), the Bureau shall employ terminology which is different than the terminology which is employed in subparagraph (B), if such terminology is more easilyunderstood and conveys substantially the same meaning.
 
 &emsp;(12)
 
@@ -106,7 +106,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) Information in tabular format
 
-&emsp;&emsp;Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subjectto subsection (e) of this section and section 1632(c) of this title:
+&emsp;&emsp;Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subject to subsection (e) and section 1632(c) of this title:
 
 #### (i) Annual percentage rates
 
@@ -138,7 +138,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Other information
 
-&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
+&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
 
 #### (i) Cash advance fee
 
@@ -156,7 +156,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under an open end consumer credit plan, the person making the solicitation shall orally disclose the information described in paragraph (1)(A).
+&emsp;&emsp;In any telephone solicitation to open a credit card account for any person under an open end consumer credit plan, the person making the solicitation shall orally disclosethe information described in paragraph (1)(A).
 
 #### (B) Exception
 
@@ -184,9 +184,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(i) the information—
 
-&emsp;&emsp;&emsp;&emsp;(I) described in paragraph (1)(A) in the form required under section 1632(c) of this title, subject to subsection (e) of this section, and
+&emsp;&emsp;&emsp;&emsp;(I) described in paragraph (1)(A) in the form required under section 1632(c) of this title, subject to subsection (e), and
 
-&emsp;&emsp;&emsp;&emsp;(II) described in paragraph (1)(B) in a clear and conspicuous form, subject to subsections (e) and (f) of this section;
+&emsp;&emsp;&emsp;&emsp;(II) described in paragraph (1)(B) in a clear and conspicuous form, subject to subsections (e) and (f);
 
 &emsp;&emsp;&emsp;(ii) a statement, in a conspicuous and prominent location on the application or solicitation, that—
 
@@ -218,7 +218,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;An application or solicitation meets the requirement of this subparagraph if it contains, or is accompanied by—
 
-&emsp;&emsp;&emsp;(i) the disclosures required by paragraphs (1) through (6) of subsection (a) of this section;
+&emsp;&emsp;&emsp;(i) the disclosures required by paragraphs (1) through (6) of subsection (a);
 
 &emsp;&emsp;&emsp;(ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously <sup>1</sup> (except that the provisions of section 1632(c) of this title shall not apply); and
 
@@ -232,9 +232,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (A) In general
 
-&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e) of this section:
+&emsp;&emsp;Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by section 1632(c) of this title, subject to subsection (e):
 
-&emsp;&emsp;&emsp;(i) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of the charge card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
+&emsp;&emsp;&emsp;(i) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of the charge card, including any account maintenance fee or othercharge imposed based on activity or inactivity for the account during the billing cycle.
 
 &emsp;&emsp;&emsp;(ii) Any transaction charge imposed in connection with use of the card to purchase goods or services.
 
@@ -242,7 +242,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Other information
 
-&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
+&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
 
 #### (i) Cash advance fee
 
@@ -262,9 +262,9 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(i) the information—
 
-&emsp;&emsp;&emsp;&emsp;(I) described in subparagraph (A) in the form required under section 1632(c) of this title, subject to subsection (e) of this section, and
+&emsp;&emsp;&emsp;&emsp;(I) described in subparagraph (A) in the form required under section 1632(c) of this title, subject to subsection (e), and
 
-&emsp;&emsp;&emsp;&emsp;(II) described in subparagraph (B) in a clear and conspicuous form, subject to subsections (e) and (f) of this section;
+&emsp;&emsp;&emsp;&emsp;(II) described in subparagraph (B) in a clear and conspicuous form, subject to subsections (e) and (f);
 
 &emsp;&emsp;&emsp;(ii) a statement, in a conspicuous and prominent location on the application or solicitation, that—
 
@@ -296,7 +296,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (5) Regulatory authority of the Bureau
 
-&emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+&emsp;The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d), and modify any disclosure of information required by this subsection or subsection (d), in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 #### (6) Additional notice concerning "introductory rates"
 
@@ -306,7 +306,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(i) use the term "introductory" in immediate proximity to each listing of the temporary annual percentage rate applicable to such account, which term shall appear clearly and conspicuously;
 
-&emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of the temporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
+&emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of thetemporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
 
 &emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with an index, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
 
@@ -322,7 +322,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(ii) if the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate—
 
-&emsp;&emsp;&emsp;&emsp;(I) will be a fixed rate, the annual percentage rate that will apply upon therevocation of the temporary annual percentage rate; or
+&emsp;&emsp;&emsp;&emsp;(I) will be a fixed rate, the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate; or
 
 &emsp;&emsp;&emsp;&emsp;(II) will vary in accordance with an index, the rate that will apply after the temporary rate, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
 
@@ -386,11 +386,11 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (1) In general
 
-&emsp;A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or that imposes any fee described in subsection (c)(1)(A)(ii)(I) or (c)(4)(A)(i) of this section shall transmit to a consumer at least 30 days prior to the scheduled renewal date of the consumer's credit or charge card account a clear and conspicuous disclosure of—
+&emsp;A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or that imposes any fee described in subsection (c)(1)(A)(ii)(I) or (c)(4)(A)(i) shall transmit to a consumer at least 30 days prior to the scheduled renewal date of the consumer's credit or charge card account a clear and conspicuous disclosure of—
 
 &emsp;&emsp;(A) the date by which, the month by which, or the billing period at the close of which, the account will expire if not renewed;
 
-&emsp;&emsp;(B) the information described in subsection (c)(1)(A) or (c)(4)(A) of this section that would apply if the account were renewed, subject to subsection (e) of this section; and
+&emsp;&emsp;(B) the information described in subsection (c)(1)(A) or (c)(4)(A) that would apply if the account were renewed, subject to subsection (e); and
 
 &emsp;&emsp;(C) the method by which the consumer may terminate continued credit availability under the account.
 
@@ -402,15 +402,15 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (1) Fees determined on the basis of a percentage
 
-&emsp;If the amount of any fee required to be disclosed under subsection (c) or (d) of this section is determined on the basis of a percentage of another amount, the percentage used in making such determination and the identification of the amount against which such percentage is applied shall be disclosed in lieu of the amount of such fee.
+&emsp;If the amount of any fee required to be disclosed under subsection (c) or (d) is determined on the basis of a percentage of another amount, the percentage used in making such determination and the identification of the amount against which such percentage is applied shall be disclosed in lieu of the amount of such fee.
 
 #### (2) Disclosure only of fees actually imposed
 
-&emsp;If a credit or charge card issuer does not impose any fee required to be disclosed under any provision of subsection (c) or (d) of this section, such provision shall not apply with respect to such issuer.
+&emsp;If a credit or charge card issuer does not impose any fee required to be disclosed under any provision of subsection (c) or (d), such provision shall not apply with respect to such issuer.
 
 #### (f) Disclosure of range of certain fees which vary by State allowed
 
-If the amount of any fee required to be disclosed by a credit or charge card issuer under paragraph (1)(B), (3)(B)(i)(II), (4)(B), or (4)(C)(i)(II) of subsection (c) of this section varies from State to State, the card issuer may disclose the range of such fees for purposes of subsection (c) of this section in lieu of the amount for each applicable State, if such disclosure includes a statement that the amount of such fee varies from State to State.
+If the amount of any fee required to be disclosed by a credit or charge card issuer under paragraph (1)(B), (3)(B)(i)(II), (4)(B), or (4)(C)(i)(II) of subsection (c) varies from State to State, the card issuer may disclose the range of such fees for purposes of subsection (c) in lieu of the amount for each applicable State, if such disclosure includes a statement that the amount of such fee varies from State to State.
 
 #### (g) Insurance in connection with certain open end credit card plans
 
@@ -442,7 +442,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) Advance notice of increase in interest rate required
 
-&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2), or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
+&emsp;In the case of any credit card account under an open end consumer credit plan, a creditor shall provide a written notice of an increase in an annual percentage rate (except in the case of an increase described in paragraph (1), (2),or (3) of section 1666i–1(b) of this title) not later than 45 days prior to the effective date of the increase.
 
 #### (2) Advance notice of other significant changes required
 
@@ -510,7 +510,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (l) Limit on fees related to method of payment
 
-With respect to a credit card account under an open end consumer credit plan, the creditor may not impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
+With respect to a credit card account under an open end consumer credit plan, the creditor maynot impose a separate fee to allow the obligor to repay an extension of credit or finance charge, whether such repayment is made by mail, electronic transfer, telephone authorization, or other means, unless such payment involves an expedited service by a service representative of the creditor.
 
 #### (m) Use of term "fixed rate"
 
@@ -674,7 +674,7 @@ Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disc
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2009 Amendment
 
@@ -706,7 +706,7 @@ Pub. L. 109–8, title XIII, §1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provide
 
 &emsp;"(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
 
-&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of theFederal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
+&emsp;"(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\] \[Jan. 29, 2009, see 74 F.R. 5244\]."
 
 Pub. L. 109–8, title XIII, §1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: "The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
 

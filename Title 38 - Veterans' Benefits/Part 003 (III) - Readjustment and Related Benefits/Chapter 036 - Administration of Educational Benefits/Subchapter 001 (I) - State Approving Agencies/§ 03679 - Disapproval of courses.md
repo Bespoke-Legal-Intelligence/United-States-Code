@@ -38,7 +38,7 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–146, title VII, §702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: "Subsection (c) of section 3679 of title 38, United States Code (as added by subsection\(a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015."
+Pub. L. 113–146, title VII, §702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: "Subsection (c) of section 3679 of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015."
 
 #### Effective Date of 2011 Amendment
 

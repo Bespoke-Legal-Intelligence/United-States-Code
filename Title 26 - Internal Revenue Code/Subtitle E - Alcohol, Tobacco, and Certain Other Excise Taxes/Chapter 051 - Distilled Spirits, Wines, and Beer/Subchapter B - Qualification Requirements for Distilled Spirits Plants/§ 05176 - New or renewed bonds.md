@@ -14,7 +14,7 @@ If the proprietor of a distilled spirits plant fails or refuses to furnish a bon
 
 A prior section 5176(c), act Aug. 16, 1954, ch. 736, 68A Stat. 629, consisted of provisions similar to those comprising subsec. (a) of this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Prior section 5176(a), (b), (d), (e), related to distiller's bond: form and approval; additional bond; exemption from survey requirements; and cross references, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5173(a), (b), 5174(a)(1) and 5177 of this title.
+Prior section 5176(a), (b), (d), (e), related to distiller's bond: form and approval; additional bond; exemptionfrom survey requirements; and cross references, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5173(a), (b), 5174(a)(1) and 5177 of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5232(c), act Aug. 16, 1954, ch. 736, 68A Stat. 643, prior to the general revision of this chapter by Pub. L. 85–859.
 

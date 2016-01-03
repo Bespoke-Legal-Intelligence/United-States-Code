@@ -2,7 +2,7 @@
 
 #### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup>1</sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2). Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -28,7 +28,7 @@ The activities of the Centers shall include—
 
 #### (c) Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law; report; modification of requirements
 
-(1) The Secretary may provide financial support to any Center created under subsection (a) of this section for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
+(1) The Secretary may provide financial support to any Center created under subsection (a)for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
 
 (2) The Secretary shall publish in the Federal Register, within 90 days after August 23, 1988, a draft description of a program for establishing Centers, including—
 
@@ -48,7 +48,7 @@ The activities of the Centers shall include—
 
 (B) In order to receive assistance under this section, an applicant for financial assistance under subparagraph (A) shall provide adequate assurances that non-Federal assets obtained from the applicant and the applicant's partnering organizations will be used as a funding source to meet not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years. For purposes of the preceding sentence, the costs incurred means the costs incurred in connection with the activities undertaken to improve the management, productivity, and technological performance of small- and medium-sized manufacturing companies.
 
-(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as privateindustry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup>2</sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
+(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as private industry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup>2</sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
 
 (D) Each applicant under subparagraph (A) shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.
 
@@ -92,7 +92,7 @@ The activities of the Centers shall include—
 
 #### (A) In general
 
-&emsp;&emsp;The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from UnitedStates small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
+&emsp;&emsp;The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from United States small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
 
 #### (B) Term
 
@@ -146,7 +146,7 @@ The activities of the Centers shall include—
 
 #### (3) Purpose
 
-&emsp;The purpose of the program under this subsection is to add capabilities to the MEP program, including the development of projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the Hollings MEP program, the Manufacturing Extension Partnership Advisory Board, and small and medium-sized manufacturers. One or more themes for the competition may be identified, which may vary from year to year, depending on the needs of manufacturers and the success of previous competitions. Centers may be reimbursed for costs incurred under the program. These themes—
+&emsp;The purpose of the program under this subsection is to add capabilities to the MEP program, including the development of projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the HollingsMEP program, the Manufacturing Extension Partnership Advisory Board, and small and medium-sized manufacturers. One or more themes for the competition may be identified, which may vary from year to year, depending on the needs of manufacturers and the success of previous competitions. Centers may be reimbursed for costs incurred under the program. These themes—
 
 &emsp;&emsp;(A) shall be related to projects designed to increase the viability both of traditional manufacturing sectors and other sectors, such as construction, that increasingly rely on manufacturing through the use of manufactured components and manufacturing techniques, including supply chain integration and quality management;
 
@@ -254,7 +254,7 @@ The Director shall—
 
 &emsp;(3) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to such obstacles.
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240,title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042.)
 
 #### References in Text
 
@@ -302,7 +302,7 @@ Subsec. (k). Pub. L. 111–358, §404(h), added subsec. (k).
 
 Subsec. (c)(5). Pub. L. 110–69, §3003(b), inserted "A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center." after "at declining levels."
 
-Subsec. (d). Pub. L. 110–69, §3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section."
+Subsec. (d). Pub. L. 110–69, §3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally camefrom other Federal departments and agencies shall be selected and operated according to the provisions of this section."
 
 Subsec. (e). Pub. L. 110–69, §3003(d), added subsec. (e).
 
@@ -324,7 +324,7 @@ Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that
 
 &emsp;"(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole.
 
-&emsp;"(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvestin themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
+&emsp;"(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
 
 &emsp;"(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies.
 

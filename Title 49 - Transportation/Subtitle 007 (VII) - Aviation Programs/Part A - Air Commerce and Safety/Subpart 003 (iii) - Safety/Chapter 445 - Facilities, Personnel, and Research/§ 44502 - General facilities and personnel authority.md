@@ -40,7 +40,7 @@ Certification of Necessity.—Except for Government money expended under this pa
 
 (c)
 
-Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plansand policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
+Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
 
 (2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice on the effects of the establishment, construction, or alteration on the use of airspace by aircraft.
 
@@ -154,7 +154,7 @@ In subsection (a)(2), the words "by the Secretary" and "to the Secretary" are om
 
 In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe" are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
 
-In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "underregulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
+In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
 
 In subsection (c)(1), the words "In order", "layout", and "In case of . . . the matter" are omitted as surplus. The words "Secretary of Defense" are substituted for "Department of Defense" because of 10:133(a). The words "the Administrator of" are added because of 42:2472(a).
 
@@ -212,9 +212,11 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
 
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
 

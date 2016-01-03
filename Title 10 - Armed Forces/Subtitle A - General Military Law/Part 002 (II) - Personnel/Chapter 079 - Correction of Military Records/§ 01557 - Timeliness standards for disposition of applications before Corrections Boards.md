@@ -2,7 +2,7 @@
 
 (a)
 
-Ten-Month Clearance Percentage.—Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
+Ten-Month Clearance Percentage.—Of the applications received by a Corrections Boardduring a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Waiver Authority.—The Secretary of the military department concerned may exclu
 
 (d)
 
-Failure To Meet Timeliness Standards Not To Affect Any Individual Application.—Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not conferany presumption or advantage with respect to consideration by the board of any application.
+Failure To Meet Timeliness Standards Not To Affect Any Individual Application.—Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not confer any presumption or advantage with respect to consideration by the board of any application.
 
 (e)
 

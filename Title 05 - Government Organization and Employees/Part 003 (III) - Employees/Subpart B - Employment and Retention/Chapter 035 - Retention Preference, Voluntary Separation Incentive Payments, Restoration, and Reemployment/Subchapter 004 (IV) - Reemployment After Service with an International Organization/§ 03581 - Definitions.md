@@ -42,7 +42,7 @@ Aug. 28, 1958, Pub. L. 85–795, §2, 72 Stat. 959.
 
 In paragraphs (1)(A) and (B), the terms "Executive agency" and "military department" are coextensive with and substituted for "any department or agency in the executive branch of the United States Government including independent establishments and Government owned or controlled corporations" in view of the definitions in sections 105 and 102.
 
-In paragraph (2), the word "employee" is substituted for "any civilian appointive officer or employee" inview of the definition of "employee" in section 2105. The words "in or under an agency" are substituted for "in or under the executive or the legislative branch of the United States Government".
+In paragraph (2), the word "employee" is substituted for "any civilian appointive officer or employee" in view of the definition of "employee" in section 2105. The words "in or under an agency" are substituted for "in or under the executive or the legislative branch of the United States Government".
 
 The definition of "Congressional employee" in former section 2331(4) is omitted as unnecessary because the term "Congressional employee", defined for the purpose of this title in section 2107, is coextensive with the definition in former section 2331(4).
 

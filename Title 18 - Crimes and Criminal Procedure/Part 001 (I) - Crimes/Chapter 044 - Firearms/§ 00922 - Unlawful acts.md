@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) this paragraph shall not be held to preclude a licensed importer, licensed manufacturer, or licensed dealer from depositing a firearm for conveyance in the mails to any officer, employee, agent, or watchman who, pursuant to the provisions of section 1715 of this title, is eligible to receive through the mails pistols, revolvers, and other firearms capable of being concealed on the person, for use in connection with his official duty; and
 
-&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if theDistrict of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
+&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if the District of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
 
 &emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any firearm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
 
@@ -68,7 +68,7 @@
 
 > &emsp;and containing blank spaces for the attachment of a true copy of any permit or other information required pursuant to such statute or published ordinance;
 
-&emsp;(2) the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to accept such letter in accordance with United States Post Office Department regulations; and
+&emsp;(2) the transferor has, prior to the shipment or delivery of the firearm, forwarded by registered or certified mail (return receipt requested) a copy of the sworn statement, together with a description of the firearm, in a form prescribed by the Attorney General, to the chief law enforcement officer of the transferee's place of residence, and has received a return receipt evidencing delivery of the statement or has had the statement returned due to the refusal of the named addressee to acceptsuch letter in accordance with United States Post Office Department regulations; and
 
 &emsp;(3) the transferor has delayed shipment or delivery for a period of at least seven days following receipt of the notification of the acceptance or refusal of delivery of the statement.
 
@@ -134,7 +134,7 @@
 
 &emsp;(8) who is subject to a court order that—
 
-&emsp;&emsp;(A) was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to participate;
+&emsp;&emsp;(A) was issued after a hearing of which such person received actual notice, and atwhich such person had an opportunity to participate;
 
 &emsp;&emsp;(B) restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child; and
 
@@ -160,7 +160,7 @@
 
 (l) Except as provided in section 925(d) of this chapter, it shall be unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition; and it shall be unlawful for any person knowingly to receive any firearm or ammunition which has been imported or brought into the United States or any possession thereof in violation of the provisions of this chapter.
 
-(m) It shall be unlawful for any licensed importer, licensed manufacturer, licensed dealer, or licensed collector knowingly to make any false entry in, to fail to make appropriate entry in, or to fail to properly maintain, any recordwhich he is required to keep pursuant to section 923 of this chapter or regulations promulgated thereunder.
+(m) It shall be unlawful for any licensed importer, licensed manufacturer, licensed dealer, or licensed collector knowingly to make any false entry in, to fail to make appropriate entry in, or to fail to properly maintain, any record which he is required to keep pursuant to section 923 of this chapter or regulations promulgated thereunder.
 
 (n) It shall be unlawful for any person who is under indictment for a crime punishable by imprisonment for a term exceeding one year to ship or transport in interstate or foreign commerce any firearm or ammunition or receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(ii) suitable for testing and calibrating metal detectors:
 
-> &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PH stainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
+> &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a "Security Exemplar" which contains 3.7 ounces of material type 17–4 PHstainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
 
 (3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
@@ -254,7 +254,7 @@
 
 &emsp;(ii) as part of a program approved by a school in the school zone, by an individual who is participating in the program;
 
-&emsp;(iii) by an individual in accordance with a contract entered into between a school in a school zone and the individual or an employer of the individual; or
+&emsp;(iii) by an individual in accordance with a contract entered into between a school in aschool zone and the individual or an employer of the individual; or
 
 &emsp;(iv) by a law enforcement officer acting in his or her official capacity.
 
@@ -382,7 +382,7 @@
 
 &emsp;(B) provide the licensee with the number; and
 
-&emsp;(C) destroy all records of the system with respect to the call (other than the identifying number and the date the number was assigned) and all records of the system relating to the person or the transfer.
+&emsp;(C) destroy all records of the system with respect to the call (other than the identifyingnumber and the date the number was assigned) and all records of the system relating to the person or the transfer.
 
 (3) Paragraph (1) shall not apply to a firearm transfer between a licensee and another person if—
 
@@ -496,7 +496,7 @@ Waiver.—
 
 &emsp;&emsp;(A)
 
-Conditions for waiver.—Any individual who has been admitted to the UnitedStates under a nonimmigrant visa may receive a waiver from the requirements of subsection (g)(5), if—
+Conditions for waiver.—Any individual who has been admitted to the United States under a nonimmigrant visa may receive a waiver from the requirements of subsection (g)(5), if—
 
 &emsp;&emsp;&emsp;(i) the individual submits to the Attorney General a petition that meets the requirements of subparagraph (C); and
 
@@ -534,7 +534,7 @@ Exceptions.—Paragraph (1) shall not apply to—
 
 &emsp;&emsp;(ii) the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
 
-&emsp;&emsp;(B) the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+&emsp;&emsp;(B) the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
 
 &emsp;&emsp;(C) the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
 
@@ -566,7 +566,7 @@ Defined term.—As used in this paragraph, the term "qualified civil liability a
 
 #### <b>\[APPENDIX A Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000\]</b>
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110105(2), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–92, §§5(c)(1), 6(a), Oct. 26, 2005, 119 Stat. 2099, 2101; Pub. L. 114–94, div. A, title XI, §11412(c)(2), Dec. 4, 2015, 129 Stat. 1688.)
 
 #### Amendment of Section
 
@@ -597,6 +597,8 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec.
 For information regarding constitutionality of certain provisions of this section, as added by section 102(a)(1) of Pub. L. 103–159, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (z)(2)(B). Pub. L. 114–94 substituted "directly employed by or contracted by" for "employed by".
 
 <b>2005</b>—Subsec. (a)(7), (8). Pub. L. 109–92, §6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
@@ -796,6 +798,10 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(o), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–92, §5(d), Oct. 26, 2005, 119 Stat. 2101, provided that: "This section \[amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title\] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act \[Oct. 26, 2005\]."
@@ -874,7 +880,7 @@ Pub. L. 109–92, §5(c)(3), Oct. 26, 2005, 119 Stat. 2101, provided that:
 
 "(A)
 
-Liability.—Nothing in this section \[amending this section and section 924 of this title and enactingprovisions set out as notes under this section and section 921 of this title\] shall be construed to—
+Liability.—Nothing in this section \[amending this section and section 924 of this title and enacting provisions set out as notes under this section and section 921 of this title\] shall be construed to—
 
 &emsp;"(i) create a cause of action against any Federal firearms licensee or any other person for any civil liability; or
 
@@ -1134,7 +1140,7 @@ Application to persons convicted of misdemeanor crimes of domestic violence.—T
 
 &emsp;"(3)
 
-Application to persons who have been adjudicated as a mental defective or committed to amental institution.—The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, the name and other relevant identifying information of persons adjudicated as a mental defective or those committed to mental institutions to assist the Attorney General in enforcing section 922(g)(4) of title 18, United States Code.
+Application to persons who have been adjudicated as a mental defective or committed to a mental institution.—The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, the name and other relevant identifying information of persons adjudicated as a mental defective or those committed to mental institutions to assist the Attorney General in enforcing section 922(g)(4) of title 18, United States Code.
 
 "(d)
 
@@ -1262,7 +1268,7 @@ Authority To Provide Relief From Certain Disabilities With Respect to Firearms.�
 
 "(a)
 
-In General.—Notwithstanding any other provision of law or of this Act, all records obtained by the National Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
+In General.—Notwithstanding any other provision of law or of this Act, all records obtained by theNational Instant Criminal Background Check system relevant to whether an individual is prohibited from possessing a firearm because such person is an alien illegally or unlawfully in the United States shall be made available to U.S. Immigration and Customs Enforcement.
 
 "(b)
 
@@ -1322,7 +1328,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 "(a)
 
-In General.—The Comptroller General of the United States shall conduct an audit of the expenditureof all funds appropriated for criminal records improvement pursuant to section 106(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159) \[set out below\] to determine if the funds were expended for the purposes authorized by the Act and how those funds were expended for those purposes or were otherwise expended.
+In General.—The Comptroller General of the United States shall conduct an audit of the expenditure of all funds appropriated for criminal records improvement pursuant to section 106(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159) \[set out below\] to determine if the funds were expended for the purposes authorized by the Act and how those funds were expended for those purposes or were otherwise expended.
 
 "(b)
 
@@ -1356,7 +1362,7 @@ Expedited Action by the Attorney General.—The Attorney General shall expedite�
 
 "(d)
 
-Notification of Licensees.—On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
+Notification of Licensees.—On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purposeof the system and the means to be used to contact the system.
 
 "(e)
 
@@ -1460,7 +1466,7 @@ Pub. L. 100–690, title VI, §6213, Nov. 18, 1988, 102 Stat. 4360, provided tha
 
 "(a)
 
-Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall develop a system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
+Identification of Felons Ineligible To Purchase Handguns.—The Attorney General shall developa system for immediate and accurate identification of felons who attempt to purchase 1 or more firearms but are ineligible to purchase firearms by reason of section 922(g)(1) of title 18, United States Code. The system shall be accessible to dealers but only for the purpose of determining whether a potential purchaser is a convicted felon. The Attorney General shall establish a plan (including a cost analysis of the proposed system) for implementation of the system. In developing the system, the Attorney General shall consult with the Secretary of the Treasury, other Federal, State, and local law enforcement officials with expertise in the area, and other experts. The Attorney General shall begin implementation of the system 30 days after the report to the Congress as provided in subsection (b).
 
 "(b)
 
@@ -1486,7 +1492,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Since it became operational in 1998, the National Instant Criminal Background Check System (NICS) has been an essential tool in the effort to ensure that individuals who are prohibited under Federal or State law from possessing firearms do not acquire them from Federal Firearms Licensees (FFLs). The ability of the NICS to determine quickly and effectively whether an individual is prohibited from possessing or receiving a firearm depends on the completeness and accuracy of the information made available to it by Federal, State, and tribal authorities.
 
-The NICS Improvement Amendments Act of 2007 (NIAA) (Public Law 1107–180 \[110–180\]) was a bipartisan effort to strengthen the NICS by increasing the quantity and quality of relevant records from Federal, State, and tribal authorities accessible by the system. Among its requirements, the NIAA mandated that executive departments and agencies (agencies) provide relevant information, including criminal history records, certain adjudications related to the mentalhealth of a person, and other information, to databases accessible by the NICS. Much progress has been made to identify information generated by agencies that is relevant to determining whether a person is prohibited from receiving or possessing firearms, but more must be done. Greater participation by agencies in identifying records they possess that are relevant to determining whether an individual is prohibited from possessing a firearm and a regularized process for submitting those records to the NICS will strengthen the accuracy and efficiency of the NICS, increasing public safety by keeping guns out of the hands of persons who cannot lawfully possess them.
+The NICS Improvement Amendments Act of 2007 (NIAA) (Public Law 1107–180 \[110–180\]) was a bipartisan effort to strengthen the NICS by increasing the quantity and quality of relevant records from Federal, State, and tribal authorities accessible by the system. Among its requirements, the NIAA mandated that executive departments and agencies (agencies) provide relevant information, including criminal history records, certain adjudications related to the mental health of a person, and other information, to databases accessible by the NICS. Much progress has been made to identify information generated by agencies that is relevant to determining whether a person is prohibited from receiving or possessing firearms, but more must be done. Greater participation by agencies in identifying records they possess that are relevant to determining whether an individual is prohibited from possessing a firearm and a regularized process for submitting those records to the NICS will strengthen the accuracy and efficiency of the NICS, increasing public safety by keeping guns out of the hands of persons who cannot lawfully possess them.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 

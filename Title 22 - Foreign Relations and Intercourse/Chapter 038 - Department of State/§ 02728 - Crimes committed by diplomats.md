@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The number of persons residing in the United States who enjoy full immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
 
-&emsp;&emsp;(B) Each case involving an alien described in subparagraph (A) in which an appropriate authority of a State, a political subdivision of a State, or the United States reported to the Department of State that the authority had reasonable cause to believe the alien committed a serious criminal offense within the United States, and any additional information provided to the Secretary relating to other serious criminal offenses that any such authority had reasonable cause to believe the alien committed before the period covered by the report. The Secretary may omit from such report any matter the provision of which the Secretary reasonably believes would compromise a criminal investigation or prosecution or which would directly compromise law enforcement or intelligence sources or methods.
+&emsp;&emsp;(B) Each case involving an alien described in subparagraph (A) in which an appropriate authority of a State, a political subdivision of a State, or the United States reported tothe Department of State that the authority had reasonable cause to believe the alien committed a serious criminal offense within the United States, and any additional information provided to the Secretary relating to other serious criminal offenses that any such authority had reasonable cause to believe the alien committed before the period covered by the report. The Secretary may omit from such report any matter the provision of which the Secretary reasonably believes would compromise a criminal investigation or prosecution or which would directly compromise law enforcement or intelligence sources or methods.
 
 &emsp;&emsp;(C) Each case described in subparagraph (B) in which the Secretary of State has certified that a person enjoys full immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
 
@@ -40,7 +40,7 @@
 
 #### (b) United States policy concerning reform of diplomatic immunity
 
-It is the sense of the Congress that the Secretary of State should explore, in appropriatefora, whether states should enter into agreements and adopt legislation—
+It is the sense of the Congress that the Secretary of State should explore, in appropriate fora, whether states should enter into agreements and adopt legislation—
 
 &emsp;(1) to provide jurisdiction in the sending state to prosecute crimes committed in the receiving state by persons entitled to immunity from criminal jurisdiction under laws extending diplomatic privileges and immunities; and
 

@@ -122,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "Clear Zone Area" means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473;Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(f)(23), Dec. 19, 2014, 128 Stat. 3511.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, §2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, §2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, §2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, §1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, §2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, §312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, §1071(f)(23), Dec. 19, 2014, 128 Stat. 3511.)
 
 #### Amendment of Section
 

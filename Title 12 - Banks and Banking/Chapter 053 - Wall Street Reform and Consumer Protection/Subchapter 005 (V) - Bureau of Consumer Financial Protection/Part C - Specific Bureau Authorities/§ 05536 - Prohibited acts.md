@@ -28,7 +28,7 @@ No person shall be held to have violated subsection (a)(1) solely by virtue of p
 
 #### References in Text
 
-This title, where footnoted in subsec. (a)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, where footnoted in subsec. (a)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known asthe Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Effective Date
 

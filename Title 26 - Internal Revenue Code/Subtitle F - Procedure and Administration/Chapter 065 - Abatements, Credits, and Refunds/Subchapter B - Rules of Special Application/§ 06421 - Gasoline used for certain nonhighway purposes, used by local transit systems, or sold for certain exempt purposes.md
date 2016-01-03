@@ -22,13 +22,13 @@ Except as provided in subsection (i), if gasoline is used in an off-highway busi
 
 #### (c) Exempt purposes
 
-If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) <sup>1</sup> (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. Thepreceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) <sup>1</sup> (5), or (6) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 
 #### (d) Time for filing claims; period covered
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may be filed under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
+&emsp;Except as provided in paragraph (2), not more than one claim may be filed under subsection (a), not more than one claim may befiled under subsection (b), and not more than one claim may be filed under subsection (c), by any person with respect to gasoline used during his taxable year; and no claim shall be allowed under this paragraph with respect to gasoline used during any taxable year unless filed by such person not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for such taxable year. For purposes of this subsection, a person's taxable year shall be his taxable year for purposes of subtitle A.
 
 #### (2) Exception
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed by section 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
+&emsp;All provisions of law, including penalties, applicable in respect to the tax imposed bysection 4081 shall, insofar as applicable and not inconsistent with this section, apply in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of overpayments of the tax so imposed.
 
 #### (2) Examination of books and witnesses
 
@@ -268,7 +268,7 @@ Subsec. (e). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (d) as (e).
 
 Subsec. (e)(4). Pub. L. 99–499, §521(c)(2)(B), added par. (4).
 
-Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) "Exempt sales" which read as follows: "No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amountwhich (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline." Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) "Exempt sales" which read as follows: "No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline." Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 

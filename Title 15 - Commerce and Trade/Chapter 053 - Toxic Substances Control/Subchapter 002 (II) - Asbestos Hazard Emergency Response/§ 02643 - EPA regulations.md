@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 360 days after October 22, 1986, the Administrator shall promulgate regulations as described in subsections (b) through (i) of this section. With respect to regulations described in subsections (b), (c), (d), (e), (f), (g), and (i) of this section, the Administrator shall issue an advanced notice of proposed rulemaking within 60 days after October 22, 1986, and shall propose regulations within 180 days after October 22, 1986. Any regulation promulgated under this section must protect human health and the environment.
+Within 360 days after October 22, 1986, the Administrator shall promulgate regulations as described in subsections (b) through (i). With respect to regulations described in subsections (b), (c), (d), (e), (f), (g), and (i), the Administrator shall issue an advanced notice of proposed rulemaking within 60 days after October 22, 1986, and shall propose regulations within 180 days after October 22, 1986. Any regulation promulgated under this section must protect human health and the environment.
 
 #### (b) Inspection
 
@@ -10,7 +10,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (c) Circumstances requiring response actions
 
-(1) The Administrator shall promulgate regulations which define the appropriate responseaction in a school building under the authority of a local educational agency in at least the following circumstances:
+(1) The Administrator shall promulgate regulations which define the appropriate response action in a school building under the authority of a local educational agency in at least the following circumstances:
 
 #### (A) Damage
 
@@ -46,19 +46,19 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (2) Response action for damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(A) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings".
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(A), methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings".
 
 #### (3) Response action for significantly damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(B) of this section, methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings".
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(B), methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings".
 
 #### (4) Response action for potentially damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(C), methods for responding shall include methods identified in chapters 3 and 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
 
 #### (5) Response action for potentially significantly damaged asbestos
 
-&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(D) of this section, methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
+&emsp;In the case of a response action for the circumstances described in subsection (c)(1)(D), methods for responding shall include methods identified in chapter 5 of the "Guidance for Controlling Asbestos-Containing Material in Buildings", unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
 
 #### (6) "Preventive measures" defined
 
@@ -78,7 +78,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (e) Implementation
 
-The Administrator shall promulgate regulations requiring the implementation of response actions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
+The Administrator shall promulgate regulations requiring the implementation of response actions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protectionof both workers and building occupants for the following phases of activity:
 
 &emsp;(1) Inspection.
 
@@ -112,13 +112,13 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 &emsp;&emsp;(A) An inspection statement describing inspection and response action activities carried out before October 22, 1986.
 
-&emsp;&emsp;(B) A description of the results of the inspection conducted pursuant to regulations under subsection (b) of this section, including a description of the specific areas inspected.
+&emsp;&emsp;(B) A description of the results of the inspection conducted pursuant to regulations under subsection (b), including a description of the specific areas inspected.
 
-&emsp;&emsp;(C) A detailed description of measures to be taken to respond to any friable asbestos-containing material pursuant to the regulations promulgated under subsections (c), (d), and (e) of this section, including the location or locations at which a response action will be taken, the method or methods of response action to be used, and a schedule for beginning and completing response actions.
+&emsp;&emsp;(C) A detailed description of measures to be taken to respond to any friable asbestos-containing material pursuant to the regulations promulgated under subsections (c), (d), and (e), including the location or locations at which a response action will be taken, the method or methods of response action to be used, and a schedule for beginning and completing response actions.
 
-&emsp;&emsp;(D) A detailed description of any asbestos-containing material which remains in the school building once response actions are undertaken pursuant to the regulations promulgated under subsections (c), (d), and (e) of this section.
+&emsp;&emsp;(D) A detailed description of any asbestos-containing material which remains in the school building once response actions are undertaken pursuant to the regulations promulgated under subsections (c), (d), and (e).
 
-&emsp;&emsp;(E) A plan for periodic reinspection and long-term surveillance activities developed pursuant to regulations promulgated under subsection (g) of this section, and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f) of this section.
+&emsp;&emsp;(E) A plan for periodic reinspection and long-term surveillance activities developed pursuant to regulations promulgated under subsection (g), and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f).
 
 &emsp;&emsp;(F) With respect to the person or persons who inspected for asbestos-containing material and who will design or carry out response actions with respect to the friable asbestos-containing material, one of the following statements:
 
@@ -142,7 +142,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (3) Warning labels
 
-&emsp;(A) The regulations shall require that each local educational agency which has inspectedfor and discovered any asbestos-containing material with respect to a school building shall attach a warning label to any asbestos-containing material still in routine maintenance areas (such as boiler rooms) of the school building, including—
+&emsp;(A) The regulations shall require that each local educational agency which has inspected for and discovered any asbestos-containing material with respect to a school building shall attach a warning label to any asbestos-containing material still in routine maintenance areas (such as boiler rooms) of the school building, including—
 
 &emsp;&emsp;(i) friable asbestos-containing material which was responded to by a means other than removal, and
 

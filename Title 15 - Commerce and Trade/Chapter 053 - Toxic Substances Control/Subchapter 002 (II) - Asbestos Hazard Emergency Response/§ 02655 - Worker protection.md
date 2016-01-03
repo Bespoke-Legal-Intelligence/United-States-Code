@@ -26,7 +26,7 @@ Any school employee who is directed to conduct emergency repairs involving any b
 
 &emsp;(1) shall be provided the proper training to safely conduct such work in order to prevent potential exposure to asbestos; and
 
-&emsp;(2) shall be provided the proper equipment and allowed to follow work practices that are necessary to safely conduct such work in order to prevent potential exposure to asbestos.
+&emsp;(2) shall be provided the proper equipment and allowed to follow work practices that arenecessary to safely conduct such work in order to prevent potential exposure to asbestos.
 
 #### (c) "Emergency repair" defined
 

@@ -12,7 +12,7 @@ Upon receipt of written request therefor from any person, the Trade Representati
 
 #### (b) If information not available
 
-If information that is requested by a person under subsection (a) of this section is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
+If information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
 
 &emsp;(1) request the information from the foreign government; or
 
@@ -44,5 +44,5 @@ If information that is requested by a person under subsection (a) of this sectio
 
 #### Effective Date
 
-Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date no decision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
+Section applicable to petitions filed, and investigations initiated, under section 2412 of this title on or after Aug. 23, 1988, and petitions filed, and investigations initiated, before Aug. 23, 1988, if by such date nodecision had been made under section 2414 of this title regarding the petition or investigation, see section 1301(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2411 of this title.
 

@@ -8,7 +8,7 @@ The Secretary shall, by regulation and under such conditions as to sanitary stan
 
 &emsp;(2) for such period of time as the Secretary determines that it would be impracticable to provide inspection and the exemption will aid in the effective administration of this chapter, any person engaged in the processing of poultry or poultry products for commerce and the poultry or poultry products processed by such person: <i>Provided, however</i>, That no such exemption shall continue in effect on and after January 1, 1970; and
 
-&emsp;(3) persons slaughtering, processing, or otherwise handling poultry or poultry products which have been or are to be processed as required by recognized religious dietary laws,to the extent that the Secretary determines necessary to avoid conflict with such requirements while still effectuating the purposes of this chapter.
+&emsp;(3) persons slaughtering, processing, or otherwise handling poultry or poultry products which have been or are to be processed as required by recognized religious dietary laws, to the extent that the Secretary determines necessary to avoid conflict with such requirements while still effectuating the purposes of this chapter.
 
 #### (b) Territorial exemption
 
@@ -44,7 +44,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 (1) Under such terms and conditions as the Secretary shall prescribe through rules and regulations issued under this section that may be necessary to ensure food safety and protect public health such as special handling procedures, the Secretary shall exempt pizzas containing a poultry product from the inspection requirements of this chapter if—
 
-&emsp;(A) the poultry product components of the pizzas have been prepared, inspected, andpassed in a cured or cooked form as ready-to-eat in compliance with the requirements of this chapter; and
+&emsp;(A) the poultry product components of the pizzas have been prepared, inspected, and passed in a cured or cooked form as ready-to-eat in compliance with the requirements of this chapter; and
 
 &emsp;(B) the pizzas are to be served in public or private nonprofit institutions.
 

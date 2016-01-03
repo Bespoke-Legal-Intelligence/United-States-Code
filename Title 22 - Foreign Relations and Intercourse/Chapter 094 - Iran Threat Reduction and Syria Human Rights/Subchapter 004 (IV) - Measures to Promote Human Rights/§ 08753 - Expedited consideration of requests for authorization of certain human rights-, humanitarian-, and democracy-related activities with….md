@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Office of Foreign Assets Control, in consultation with the Department of State, shall establish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
+The Office of Foreign Assets Control, in consultation with the Department of State, shallestablish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
 
 &emsp;(1) entities receiving funds from the Department of State to engage in the proposed activity;
 

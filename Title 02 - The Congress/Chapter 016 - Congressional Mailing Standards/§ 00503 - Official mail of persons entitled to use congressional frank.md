@@ -8,7 +8,7 @@ Except as otherwise provided in this section, funds appropriated by this Act or 
 
 &emsp;(2)(A) with respect to the House of Representatives, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session or to any other such person); and
 
-&emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
+&emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each suchperson with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
 
 &emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs incurred for official mail by each person entitled to use the congressional frank.
 
@@ -70,7 +70,7 @@ As used in subsections (a) through (f)—
 
 #### (i) Effective date
 
-This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session ofthe One Hundred Second Congress, except that, with respect to the Senate, subsection (d) shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
 (Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, §110, Nov. 12, 2001, 115 Stat. 569; Pub. L. 108–83, title I, §105(a), Sept. 30, 2003, 117 Stat. 1018.)
 

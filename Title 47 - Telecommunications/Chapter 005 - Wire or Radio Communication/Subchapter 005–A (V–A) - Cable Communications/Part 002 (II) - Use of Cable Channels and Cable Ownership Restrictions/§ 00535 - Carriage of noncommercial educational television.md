@@ -126,7 +126,7 @@ For purposes of this section—
 
 &emsp;The term "qualified local noncommercial educational television station" means a qualified noncommercial educational television station—
 
-&emsp;&emsp;(A) which is licensed to a principal community whose reference point, as defined in section 76.53 of title 47, Code of Federal Regulations (as in effect on March 29, 1990), or any successor regulations thereto, is within 50 miles of the principal headend of the cable system; or
+&emsp;&emsp;(A) which is licensed to a principal community whose reference point, as defined insection 76.53 of title 47, Code of Federal Regulations (as in effect on March 29, 1990), or any successor regulations thereto, is within 50 miles of the principal headend of the cable system; or
 
 &emsp;&emsp;(B) whose Grade B service contour, as defined in section 73.683(a) of such title (as in effect on March 29, 1990), or any successor regulations thereto, encompasses the principal headend of the cable system.
 

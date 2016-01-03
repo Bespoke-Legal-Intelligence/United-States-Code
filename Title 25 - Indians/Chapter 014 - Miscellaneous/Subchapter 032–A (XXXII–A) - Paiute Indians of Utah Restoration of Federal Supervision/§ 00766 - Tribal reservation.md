@@ -10,11 +10,11 @@ The State of Utah shall exercise civil and criminal jurisdiction with respect to
 
 #### (c) Plan for enlargement of reservation; negotiation; development; scope and approval
 
-Inasmuch as the Kanosh, Koosharem and Indian Peaks Bands of Paiute Indians lost land which had been their former reservations and the Cedar Band of Paiute Indians had never had a reservation, the Secretary shall negotiate with the tribe or bands, or with representatives of the tribe chosen by the tribe or bands, concerning the enlargement of the reservation for the tribe established pursuant to subsection (a) of this section and shall within two years after April 3, 1980, develop a plan for the enlargement of the reservation for the tribe. The plan shall include acquisition of not to exceed a total of fifteen thousand acres of land to be selected from available public, State, or private lands within Beaver, Iron, Millard, Sevier, or Washington Counties, Utah. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 765 of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
+Inasmuch as the Kanosh, Koosharem and Indian Peaks Bands of Paiute Indians lost land which had been their former reservations and the Cedar Band of Paiute Indians had never had a reservation, the Secretary shall negotiate with the tribe or bands, or with representatives of the tribe chosen by the tribe or bands, concerning the enlargement of the reservation for the tribe established pursuant to subsection (a) and shall within two years after April 3, 1980, develop a plan for the enlargement of the reservation for the tribe. The plan shall include acquisition of not to exceed a total of fifteen thousand acres of land to be selected from available public, State, or private lands within Beaver, Iron, Millard, Sevier, or Washington Counties, Utah. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 765 of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
 
 #### (d) Notification and consultative requirements for enlargement plan
 
-To assure that legitimate State and local interests are not prejudiced by the enlargement of the reservation for the tribe, the Secretary, in developing the plan under subsection (c) of this section for the enlargement of the reservation for the tribe, shall notify and consult with all appropriate officials of the State of Utah, all appropriate local government officials in the affected five county area in the State of Utah and any other interested parties. Such consultation shall include the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the enlargement of the reservation for the tribe, the Secretary, in developing the plan under subsection (c) for the enlargement of the reservation for the tribe, shall notify and consult with all appropriate officials of the State of Utah, all appropriate local government officials in the affected five county area in the State of Utah and any other interested parties. Such consultation shall include the following subjects:
 
 &emsp;(1) the size and location of the additions to the reservation;
 
@@ -34,7 +34,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 &emsp;(1) the enlargement of the reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such addition to the reservation;
 
-&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe orbands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
+&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe or bands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
 
 &emsp;(3) the transfer of any real property to the Secretary in trust for the benefit of the tribe or bands as an addition to the reservation shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
@@ -42,7 +42,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 #### (f) Statement appended to enlargement plan respecting implementation of notification and consultative requirements
 
-The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (d) of this section was carried out and shall include any written comments with respect to the enlargement of the reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
+The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (d) was carried out and shall include any written comments with respect to the enlargement of the reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
 
 (Pub. L. 96–227, §7, Apr. 3, 1980, 94 Stat. 320; Pub. L. 109–126, §4, Dec. 7, 2005, 119 Stat. 2547.)
 
@@ -174,7 +174,7 @@ Failure to Make Conveyance.—If after the Secretary takes the Property out of t
 
 #### "SEC. 3. TRUST LAND FOR SHIVWITS OR KANOSH BANDS.
 
-"If requested to do so by a tribal resolution of the Tribe, the Secretary shall take land held in trust bythe United States for the benefit of the Tribe out of such trust status and take that land into trust for the Shivwits or Kanosh Bands of the Paiute Indian Tribe of Utah, as so requested by the Tribe.
+"If requested to do so by a tribal resolution of the Tribe, the Secretary shall take land held in trust by the United States for the benefit of the Tribe out of such trust status and take that land into trust for the Shivwits or Kanosh Bands of the Paiute Indian Tribe of Utah, as so requested by the Tribe.
 
 #### "SEC. 4. CEDAR BAND OF PAIUTES TECHNICAL CORRECTION.
 
@@ -236,7 +236,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, �
 
 "Sec. 2. The lands which are declared to be held in trust for the benefit of the tribe or bands under this Act shall be subject to the laws of the United States relating to Indian land to the same extent and in the same manner as the lands comprising the reservation of the tribe or bands on the day before the date of the enactment of this Act \[Feb. 17, 1984\].
 
-"Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right touse and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
+"Sec. 3. (a) The Secretary of Agriculture shall not deny the tribe or any member of the tribe the right to use and occupy, on a nonexclusive basis, the national forest land described in subsection (b) for religious and ceremonial purposes for such periods of time and under such reasonable terms and conditions as the Secretarymay prescribe: <i>Provided</i>, That the Secretary shall permit the tribe to use and occupy, on an exclusive basis, so much of the national forest land in subsection (b) abutting Fish Lake as is necessary for such religious and ceremonial purposes during and including the second and third weeks of June and the first and second weeks of September of each year, under such reasonable terms and conditions as the Secretary may prescribe.
 
 "(b) The land referred to in subsection (a) is the parcel of land depicted on the map contained in the document entitled 'Proposed Paiute Indian Tribe of Utah Reservation Plan', dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs, as follows: Parcel numbered 6: Fish Lake; figure 9, page 117.
 

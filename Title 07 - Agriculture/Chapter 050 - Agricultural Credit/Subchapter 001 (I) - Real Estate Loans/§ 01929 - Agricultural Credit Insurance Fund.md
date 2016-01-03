@@ -14,11 +14,11 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
-Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the fund.
+Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, includingsales of notes or property, shall be deposited in and become a part of the fund.
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration andthe Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 

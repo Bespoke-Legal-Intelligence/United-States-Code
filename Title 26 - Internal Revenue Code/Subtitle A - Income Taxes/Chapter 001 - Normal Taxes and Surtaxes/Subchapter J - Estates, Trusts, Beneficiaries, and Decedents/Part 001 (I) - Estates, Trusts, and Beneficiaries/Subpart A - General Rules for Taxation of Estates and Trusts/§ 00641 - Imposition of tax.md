@@ -66,7 +66,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 &emsp;For purposes of this subsection, the term "electing small business trust" has the meaning given such term by section 1361(e)(1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 91–172, title VIII, §803(d)(3), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–455, title VII, §701(e)(2), Oct. 4, 1976, 90 Stat. 1579; Pub. L. 95–30, title I, §101(d)(8), May 23, 1977, 91 Stat. 134; Pub. L. 104–188, title I, §1302(d), Aug. 20, 1996, 110 Stat. 1778; Pub. L. 105–34, title XVI, §1601(i)(3)(B), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6007(f)(2), July 22, 1998, 112 Stat. 810; Pub. L. 110–28, title VIII, §8236(a), May 25, 2007, 121 Stat. 199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 91–172, title VIII, §803(d)(3), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–455, title VII, §701(e)(2), Oct. 4,1976, 90 Stat. 1579; Pub. L. 95–30, title I, §101(d)(8), May 23, 1977, 91 Stat. 134; Pub. L. 104–188, title I, §1302(d), Aug. 20, 1996, 110 Stat. 1778; Pub. L. 105–34, title XVI, §1601(i)(3)(B), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6007(f)(2), July 22, 1998, 112 Stat. 810; Pub. L. 110–28, title VIII, §8236(a), May 25, 2007, 121 Stat. 199.)
 
 #### Amendments
 
@@ -120,5 +120,5 @@ Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) ofPub. L. 91–172, set out as a note under section 1 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
 

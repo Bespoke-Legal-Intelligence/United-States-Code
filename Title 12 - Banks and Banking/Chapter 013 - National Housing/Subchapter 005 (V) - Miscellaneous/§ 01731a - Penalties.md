@@ -24,7 +24,7 @@ A prior section 512 of act of June 27, 1934, related to offenses and penalties, 
 
 <b>1966</b>—Pub. L. 89–754 inserted references to subchapters IX–A and IX–B of this chapter.
 
-<b>1959</b>—Pub. L. 86–372 provided that for purposes of compliance with this section the Commissioner's notice of a proposed determination under this section shall be considered to have been received by the interested person or firm if the notice is properly mailed to the last known address of such person or firm.
+<b>1959</b>—Pub. L. 86–372 provided that for purposes of compliance with this section the Commissioner's notice of a proposed determination under this sectionshall be considered to have been received by the interested person or firm if the notice is properly mailed to the last known address of such person or firm.
 
 <b>1958</b>—Pub. L. 85–857 inserted references to chapter 37 of title 38.
 

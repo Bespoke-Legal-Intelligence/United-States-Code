@@ -30,7 +30,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### <i>Purposes and Functions</i>
 
-1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamentalfreedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
+1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration amongthe nations through education, science, and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without distinction of race, sex, language or religion, by the Charter of the United Nations.
 
 2\. To realise this purpose the Organisation will:
 

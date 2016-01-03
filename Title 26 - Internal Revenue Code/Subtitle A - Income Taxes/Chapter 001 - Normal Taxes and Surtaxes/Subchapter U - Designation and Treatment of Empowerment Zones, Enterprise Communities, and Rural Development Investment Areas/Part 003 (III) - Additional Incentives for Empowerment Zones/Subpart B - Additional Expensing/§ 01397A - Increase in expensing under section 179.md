@@ -16,7 +16,7 @@ In the case of an enterprise zone business, for purposes of section 179—
 
 Rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 105–34, title IX, §952(c), Aug. 5, 1997, 111 Stat. 887; Pub. L. 106–554, §1(a)(7) \[title I, §114(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 105–34, title IX, §952(c), Aug. 5, 1997, 111 Stat. 887; Pub. L. 106–554, §1(a)(7) \[title I, §114(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601.)
 
 #### Amendments
 
@@ -28,5 +28,5 @@ Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §114(b)\], struck out head
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §114(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 106–554, §1(a)(7) \[title I, §114(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-601, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 

@@ -12,7 +12,7 @@ Composition of Board.—The Secretary shall appoint the members of the board fro
 
 Duties.—The board shall, on an annual basis—
 
-&emsp;(1) review all aspects of the athletics programs of the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy, including—
+&emsp;(1) review all aspects of the athletics programs of the United States Military Academy,the United States Naval Academy, and the United States Air Force Academy, including—
 
 &emsp;&emsp;(A) the policies relating to the administration of such programs;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Grants under this section may be used only for assistance to provide rental assistance for low-income eligible persons. Such assistance may be project based or tenant based and shallbe provided to the extent practicable in the manner provided for under section 1437f of this title. Grantees shall ensure that the housing provided is decent, safe, and sanitary.
+&emsp;Grants under this section may be used only for assistance to provide rental assistance for low-income eligible persons. Such assistance may be project based or tenant based and shall be provided to the extent practicable in the manner provided for under section 1437f of this title. Grantees shall ensure that the housing provided is decent, safe, and sanitary.
 
 #### (2) Shared housing arrangements
 

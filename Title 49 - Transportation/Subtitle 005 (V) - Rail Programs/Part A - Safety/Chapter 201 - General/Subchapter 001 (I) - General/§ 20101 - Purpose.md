@@ -22,6 +22,14 @@ Oct. 16, 1970, Pub. L. 91–458, §101, 84 Stat. 971.
 
 The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" are substituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–94, div. A, title XI, §11001, Dec. 4, 2015, 129 Stat. 1622, provided that: "This title \[see Tables for classification\] may be cited as the 'Passenger Rail Reform and Investment Act of 2015'."
+
+Pub. L. 114–94, div. A, title XI, §11501, Dec. 4, 2015, 129 Stat. 1690, provided that: "This subtitle \[subtitle E (§§11501–11504) of title XI of div. A of Pub. L. 114–94, enacting sections 24201 and 24202 of this title, amendingsection 303 of this title and section 138 of Title 23, Highways, and enacting provisions set out as a note under section 4370m of Title 42, The Public Health and Welfare\] may be cited as the 'Track, Railroad, and Infrastructure Network Act' or the 'TRAIN Act'."
+
+Pub. L. 114–73, title I, §1302(a), Oct. 29, 2015, 129 Stat. 576, provided that: "This section \[amending section 20157 of this title\] may be cited as the 'Positive Train Control Enforcement and Implementation Act of 2015'."
+
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–432, div. A, §1(a), Oct. 16, 2008, 122 Stat. 4848, provided that: "This division \[see Tables for classification\] may be cited as the 'Rail Safety Improvement Act of 2008'."
@@ -38,9 +46,77 @@ Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: 
 
 Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: "This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the 'Federal Railroad Safety Authorization Act of 1994'."
 
+#### Shared-Use Study
+
+Pub. L. 114–94, div. A, title XI, §11311, Dec. 4, 2015, 129 Stat. 1670, provided that:
+
+"(a)
+
+In General.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with Amtrak, commuter rail passenger transportation authorities, other railroad carriers, railroad carriers that own rail infrastructure over which both passenger and freight trains operate, States, the Surface Transportation Board, the Northeast Corridor Commission established under section 24905 of title 49, United States Code, the State-Supported Route Committee established under section 24712 of such title, and groups representing rail passengers and customers, as appropriate, shall complete a study that evaluates—
+
+&emsp;"(1) the shared use of right-of-way by passenger and freight rail systems; and
+
+&emsp;"(2) the operational, institutional, and legal structures that would best support improvements to the systems referred to in paragraph (1).
+
+"(b)
+
+Areas of Study.—In conducting the study under subsection (a), the Secretary shall evaluate—
+
+&emsp;"(1) the access and use of railroad right-of-way by a rail carrier that does not own the right-of-way, such as passenger rail services that operate over privately-owned right-of-way, including an analysis of—
+
+&emsp;&emsp;"(A) access agreements;
+
+&emsp;&emsp;"(B) costs of access; and
+
+&emsp;&emsp;"(C) the resolution of disputes relating to such access or costs;
+
+&emsp;"(2) the effectiveness of existing contractual, statutory, and regulatory mechanisms for establishing, measuring, and enforcing train performance standards, including—
+
+&emsp;&emsp;"(A) the manner in which passenger train delays are recorded;
+
+&emsp;&emsp;"(B) the assignment of responsibility for such delays; and
+
+&emsp;&emsp;"(C) the use of incentives and penalties for performance;
+
+&emsp;"(3) the strengths and weaknesses of the existing mechanisms described in paragraph (2) and possible approaches to address the weaknesses;
+
+&emsp;"(4) mechanisms for measuring and maintaining public benefits resulting from publicly funded freight or passenger rail improvements, including improvements directed towards shared-use right-of-way by passenger and freight rail;
+
+&emsp;"(5) approaches to operations, capacity, and cost estimation modeling that—
+
+&emsp;&emsp;"(A) allow for transparent decisionmaking; and
+
+&emsp;&emsp;"(B) protect the proprietary interests of all parties;
+
+&emsp;"(6) liability requirements and arrangements, including—
+
+&emsp;&emsp;"(A) whether to expand statutory liability limits to additional parties;
+
+&emsp;&emsp;"(B) whether to revise the current statutory liability limits;
+
+&emsp;&emsp;"(C) whether current insurance levels of passenger rail operators are adequate and whether to establish minimum insurance requirements for such passenger rail operators; and
+
+&emsp;&emsp;"(D) whether to establish alternative insurance models, including other models administered by the Federal Government;
+
+&emsp;"(7) the effect on rail passenger services, operations, liability limits, and insurance levels of the assertion of sovereign immunity by a State; and
+
+&emsp;"(8) other issues identified by the Secretary.
+
+"(c)
+
+Report.—Not later than 60 days after the study under subsection (a) is complete, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+&emsp;"(1) the results of the study; and
+
+&emsp;"(2) any recommendations for further action, including any legislative proposals consistent with such recommendations.
+
+"(d)
+
+Implementation.—The Secretary shall integrate, as appropriate, the recommendations submitted under subsection (c) into the financial assistance programs under subtitle V of title 49, United States Code, and section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822)."
+
 #### Railroad Safety Strategy
 
-Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, provided that:
+Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that:
 
 "(a)
 
@@ -56,7 +132,7 @@ Safety Goals.—In conjunction with existing federally-required and voluntary st
 
 &emsp;"(5) Preventing railroad trespasser accidents, incidents, injuries, and fatalities.
 
-&emsp;"(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic failures and other bridge and tunnel failures.
+&emsp;"(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic and other failures of such infrastructure.
 
 "(b)
 

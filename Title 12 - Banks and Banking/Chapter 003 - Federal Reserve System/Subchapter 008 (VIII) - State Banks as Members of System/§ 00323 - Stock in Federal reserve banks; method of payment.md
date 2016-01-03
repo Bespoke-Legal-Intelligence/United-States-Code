@@ -10,7 +10,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act D
 
 #### Codification
 
-Section is comprised of the fifth par. of section 9 of act Dec. 23, 1913, as amended. The fifth par. constituted the third par. of section 9 in 1917 (40 Stat. 232), became the fourth par. in 1927 (44 Stat. 1229), and became the fifth par. in 1950 (64 Stat. 458). For further details, see Codification note set out under section 321 of this title.
+Section is comprised of the fifth par. of section 9 of act Dec. 23, 1913, as amended. The fifth par. constitutedthe third par. of section 9 in 1917 (40 Stat. 232), became the fourth par. in 1927 (44 Stat. 1229), and became the fifth par. in 1950 (64 Stat. 458). For further details, see Codification note set out under section 321 of this title.
 
 #### Change of Name
 

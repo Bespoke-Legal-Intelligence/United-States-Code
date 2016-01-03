@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment assistance
 
-A firm certified under section 2341 of this title as eligible to apply for adjustment assistance may, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
+A firm certified under section 2341 of this title as eligible to apply for adjustment assistancemay, at any time within 2 years after the date of such certification, file an application with the Secretary for adjustment assistance under this part. Such application shall include a proposal for the economic adjustment of such firm.
 
 #### (b) Technical assistance
 
@@ -40,5 +40,5 @@ Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as 
 
 #### Termination Date
 
-Except as otherwise provided, assistance may not be provided under this section after Dec. 31, 2015, see section 285 of Pub. L. 93–618 and section 541(b) of Pub. L. 113–235, set out as notes preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

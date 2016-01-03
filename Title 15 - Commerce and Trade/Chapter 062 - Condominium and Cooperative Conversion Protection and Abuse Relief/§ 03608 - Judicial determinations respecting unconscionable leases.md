@@ -16,11 +16,11 @@ Cooperative and condominium unit owners through the unit owners' association may
 
 &emsp;(6) it was entered into prior to June 4, 1975.
 
-> Such action must be authorized by the cooperative or condominium unit owners through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, and may be brought by the cooperative or condominium unit owners through the units owners' association. Prior to instituting such action, the cooperative or condominium unit owners must, through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, agree to enter intonegotiation with the lessor and must seek through such negotiation to eliminate or modify any lease terms that are alleged to be unconscionable; if an agreement is not reached in ninety days from the date on which the authorizing vote was taken, the unit owners may authorize an action after following the procedure specified in the preceding sentence.
+> Such action must be authorized by the cooperative or condominium unit owners through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, and may be brought by the cooperative or condominium unit owners through the units owners' association. Prior to instituting such action, the cooperative or condominium unit owners must, through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, agree to enter into negotiation with the lessor and must seek through such negotiation to eliminate or modify any lease terms that are alleged to be unconscionable; if an agreement is not reached in ninety days from the date on which the authorizing vote was taken, the unit owners may authorize an action after following the procedure specified in the preceding sentence.
 
 #### (b) Presumption of unconscionability; rebuttal
 
-A rebuttal presumption of unconscionability exists if it is established that, in addition to the characteristics set forth in subsection (a) of this section, the lease—
+A rebuttal presumption of unconscionability exists if it is established that, in addition to thecharacteristics set forth in subsection (a) of this section, the lease—
 
 &emsp;(1) creates a lien subjecting any unit to foreclosure for failure to make payments;
 

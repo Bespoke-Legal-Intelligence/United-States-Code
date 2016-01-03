@@ -86,7 +86,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (5) Access to documents
 
-&emsp;The Commission shall ensure that the Investor Advocate has full access to the documentsof the Commission and any self-regulatory organization, as necessary to carry out the functions of the Office.
+&emsp;The Commission shall ensure that the Investor Advocate has full access to the documents of the Commission and any self-regulatory organization, as necessary to carry out the functions of the Office.
 
 #### (6) Annual reports
 
@@ -138,7 +138,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (7) Regulations
 
-&emsp;The Commission shall, by regulation, establish procedures requiring a formal response to all recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
+&emsp;The Commission shall, by regulation, establish procedures requiring a formal response toall recommendations submitted to the Commission by the Investor Advocate, not later than 3 months after the date of such submission.
 
 #### (8) Ombudsman
 
@@ -314,7 +314,7 @@ The functions of the Commission with respect to choosing a Chairman from among t
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons fortransmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

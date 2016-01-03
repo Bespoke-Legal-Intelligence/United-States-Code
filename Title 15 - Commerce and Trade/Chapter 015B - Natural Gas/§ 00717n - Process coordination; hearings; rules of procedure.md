@@ -34,7 +34,7 @@ In this section, the term "Federal authorization"—
 
 #### (d) Consolidated record
 
-The Commission shall, with the cooperation of Federal and State administrative agencies and officials, maintain a complete consolidated record of all decisions made or actions taken by the Commission or by a Federal administrative agency or officer (or State administrative agency or officer acting under delegated Federal authority) with respect to any Federal authorization. Such record shall be the record for—
+The Commission shall, with the cooperation of Federal and State administrative agencies andofficials, maintain a complete consolidated record of all decisions made or actions taken by the Commission or by a Federal administrative agency or officer (or State administrative agency or officer acting under delegated Federal authority) with respect to any Federal authorization. Such record shall be the record for—
 
 &emsp;(1) appeals or reviews under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), provided that the record may be supplemented as expressly provided pursuant to section 319 of that Act \[16 U.S.C. 1465\]; or
 

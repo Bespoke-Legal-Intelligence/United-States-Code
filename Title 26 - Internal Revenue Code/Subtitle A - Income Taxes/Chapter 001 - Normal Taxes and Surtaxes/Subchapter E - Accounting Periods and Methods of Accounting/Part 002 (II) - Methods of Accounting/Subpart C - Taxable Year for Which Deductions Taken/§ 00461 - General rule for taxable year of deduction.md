@@ -36,7 +36,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (e) Dividends or interest paid on certain deposits or withdrawable accounts
 
-Except as provided in regulations prescribed by the Secretary, amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paid or credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
+Except as provided in regulations prescribed by the Secretary, amounts paid to, or credited to the accounts of, depositors or holders of accounts as dividends or interest on their deposits or withdrawable accounts (if such amounts paidor credited are withdrawable on demand subject only to customary notice to withdraw) by a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, or a cooperative bank shall not be allowed as a deduction for the taxable year to the extent such amounts are paid or credited for periods representing more than 12 months. Any such amount not allowed as a deduction as the result of the application of the preceding sentence shall be allowed as a deduction for such other taxable year as the Secretary determines to be consistent with the preceding sentence.
 
 #### (f) Contested liabilities
 
@@ -298,7 +298,7 @@ If—
 
 &emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
 
-&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+&emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not lessthan 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
 
 &emsp;&emsp;(B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
 
@@ -368,7 +368,7 @@ Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Pri
 
 <b>1986</b>—Subsec. (h)(5)(A). Pub. L. 99–514, §805(c)(5), redesignated subpar. (B) as (A) and struck out former subpar. (A) which referred to subsec. (c) or (f) of section 166.
 
-Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Section 466 (relating to discount coupons)."
+Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar.\(C) as (B) and struck out former subpar. (B) which read as follows: "Section 466 (relating to discount coupons)."
 
 Pub. L. 99–514, §805(c)(5), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -456,7 +456,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
+In general.—Except as provided in this subsection and subsections (h) and (i), the amendmentsmade by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
 &emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
 
@@ -560,7 +560,7 @@ Pub. L. 94–455, title II, §208(b), Oct. 4, 1976, 90 Stat. 1542, provided that
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amendingthis section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
 
 &emsp;"(2)
 
@@ -580,7 +580,7 @@ Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amen
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960."
+Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to taxable years ending after December 31, 1960."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

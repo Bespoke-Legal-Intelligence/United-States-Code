@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
+Except as provided in subsection (b), for purposes of this part, the minimum capital level for the Corporation shall be an amount of core capital equal to the sum of
 
 &emsp;(1) 2.75 percent of the aggregate on-balance sheet assets of the Corporation, as determined in accordance with generally accepted accounting principles; and
 
@@ -46,9 +46,9 @@ Except as provided in subsection (b) of this section, for purposes of this part,
 
 &emsp;&emsp;&emsp;&emsp;(III) 2.65 percent of on-balance sheet assets of the Corporation other than assets designated under paragraph (2); or
 
-&emsp;&emsp;&emsp;(ii) if the Corporation's core capital is less than $25,000,000 on January 1, 1998, the amount determined under subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) if the Corporation's core capital is less than $25,000,000 on January 1, 1998, the amount determined under subsection (a); and
 
-&emsp;&emsp;(D) on and after January 1, 1999, shall be the amount determined under subsection (a) of this section.
+&emsp;&emsp;(D) on and after January 1, 1999, shall be the amount determined under subsection (a).
 
 #### (2) Designated on-balance sheet assets
 

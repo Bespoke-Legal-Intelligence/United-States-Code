@@ -160,7 +160,7 @@ Date Described.—The date described in this subsection is the date on which the
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 Pub. L. 100–418, title I, §1337, Aug. 23, 1988, 102 Stat. 1211, as amended by Pub. L. 100–647, title IX, §9001(a)(6), Nov. 10, 1988, 102 Stat. 3807, provided that:
 
@@ -244,7 +244,7 @@ Pub. L. 96–39, title I, §102, July 26, 1979, 93 Stat. 189, provided that:
 
 "(a)
 
-Pending Investigations of Bounties or Grants.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
+Pending Investigations of Bounties or Grants.—If, on the effective date of the application oftitle VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
 
 &emsp;"(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for in section 702 of that Act \[section 1671a of this title\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
 

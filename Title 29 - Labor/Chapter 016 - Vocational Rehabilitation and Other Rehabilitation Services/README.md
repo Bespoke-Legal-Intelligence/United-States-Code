@@ -157,7 +157,7 @@
 |  |  |
 | :--- | ---: |
 | [796\.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796%20-%20Purpose.md) | Purpose. |
-| 796–1.Administration of the independent living program. |  |
+| 796–1. | Administration of the independent living program. |
 | [796a.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796a%20-%20Definitions.md) | Definitions. |
 | [796b.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796b%20-%20Eligibility%20for%20receipt%20of%20services.md) | Eligibility for receipt of services. |
 | [796c.](Subchapter%20007%20%28VII%29%20-%20Independent%20Living%20Services%20and%20Centers%20for%20Independent%20Living/Part%20A%20-%20Individuals%20with%20Significant%20Disabilities/Subpart%20001%20-%20General%20Provisions/%C2%A7%2000796c%20-%20State%20plan.md) | State plan. |

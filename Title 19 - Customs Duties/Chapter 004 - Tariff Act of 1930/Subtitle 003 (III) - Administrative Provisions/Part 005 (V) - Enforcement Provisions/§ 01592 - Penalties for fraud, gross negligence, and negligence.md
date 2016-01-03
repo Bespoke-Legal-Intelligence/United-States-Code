@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, it shall issue to the person concerned a written notice of its intention to issue a claim for a monetary penalty. Such notice shall—
+&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) and determines that further proceedings are warranted, it shall issue to the person concerned a written notice of its intention to issue a claim for a monetary penalty. Such notice shall—
 
 &emsp;&emsp;&emsp;(i) describe the merchandise;
 
@@ -44,23 +44,23 @@
 
 &emsp;&emsp;The preceding subparagraph shall not apply if—
 
-&emsp;&emsp;&emsp;(i) the importation with respect to which the violation of subsection (a) of this section occurs is noncommercial in nature, or
+&emsp;&emsp;&emsp;(i) the importation with respect to which the violation of subsection (a) occurs is noncommercial in nature, or
 
 &emsp;&emsp;&emsp;(ii) the amount of the penalty in the penalty claim issued under paragraph (2) is $1,000 or less.
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice wassent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
 #### (1) Fraud
 
-&emsp;A fraudulent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed the domestic value of the merchandise.
+&emsp;A fraudulent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed the domestic value of the merchandise.
 
 #### (2) Gross negligence
 
-&emsp;A grossly negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed—
+&emsp;A grossly negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed—
 
 &emsp;&emsp;(A) the lesser of—
 
@@ -72,7 +72,7 @@
 
 #### (3) Negligence
 
-&emsp;A negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed—
+&emsp;A negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed—
 
 &emsp;&emsp;(A) the lesser of—
 
@@ -84,7 +84,7 @@
 
 #### (4) Prior disclosure
 
-&emsp;If the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of, the commencement of a formal investigation of such violation, with respect to such violation, merchandise shall not be seized and any monetary penalty to be assessed under subsection (c) of this section shall not exceed—
+&emsp;If the person concerned discloses the circumstances of a violation of subsection (a) before, or without knowledge of, the commencement of a formal investigation of such violation, with respect to such violation, merchandise shall not be seized and any monetary penalty to be assessed under subsection (c) shall not exceed—
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
@@ -94,11 +94,11 @@
 
 &emsp;&emsp;(B) if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under section 6621 of title 26) on the amount of lawful duties, taxes, and fees of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
 
-> &emsp;The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
+> &emsp;The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
 #### (5) Prior disclosure regarding NAFTA claims
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
 
 &emsp;&emsp;(A) has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) on which the claim was based contains incorrect information; and
 
@@ -106,11 +106,11 @@
 
 #### (6) Prior disclosure regarding claims under the United States-Chile Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes acorrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
 
 #### (7) Prior disclosure regarding claims under the United States-Singapore Free Trade Agreement
 
-&emsp;(A) An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+&emsp;(A) An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
 &emsp;(B) In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim that a good qualifies as an originating good.
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
 #### (B) Time periods for making corrections
 
@@ -126,7 +126,7 @@
 
 #### (9) Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
+&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 4033 of this title if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
 
 #### (10) Prior disclosure regarding claims under the United States-Peru Trade Promotion Agreement
 
@@ -146,11 +146,11 @@
 
 #### (14) Seizure
 
-&emsp;If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
+&emsp;If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c).
 
 #### (d) Deprivation of lawful duties, taxes, or fees
 
-Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
+Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a), the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
 
 #### (e) Court of International Trade proceedings
 
@@ -158,7 +158,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;(1) all issues, including the amount of the penalty, shall be tried de novo;
 
-&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden of proof to establish the alleged violation by clear and convincing evidence;
+&emsp;(2) if the monetary penalty is based on fraud, the United States shall have the burden ofproof to establish the alleged violation by clear and convincing evidence;
 
 &emsp;(3) if the monetary penalty is based on gross negligence, the United States shall have the burden of proof to establish all the elements of the alleged violation; and
 
@@ -172,11 +172,11 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (2) Applicable provisions
 
-&emsp;The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of paragraph (1), except that—
+&emsp;The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
 
-&emsp;&emsp;(A) subsection (d) of this section does not apply, and
+&emsp;&emsp;(A) subsection (d) does not apply, and
 
-&emsp;&emsp;(B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+&emsp;&emsp;(B) subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
 
 #### (3) Exception
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Immediate and voluntary disclosure of incorrect information
 
@@ -208,7 +208,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CAFTA–DR certification of origin (as defined in section 1508(g)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 4033 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CAFTA–DR certification of origin (as defined in section 1508(g)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 4033 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-PeruTrade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -280,7 +280,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Panama TPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–PanamaTrade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Panama TPA certification of origin (as defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -404,7 +404,7 @@ Subsec. (b)(1)(A). Pub. L. 103–182, §621(3)(A), substituted "the Customs Serv
 
 Subsec. (b)(2). Pub. L. 103–182, §621(3)(B), substituted "the Customs Service shall determine" for "the appropriate customs officer shall determine", "the Customs Service determines" for "such officer determines" in two places, "it shall" for "he shall" in two places, and "the Customs Service shall provide" for "the appropriate customs officer shall provide".
 
-Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end "For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed."
+Subsec. (c)(4). Pub. L. 103–182, §621(4)(B), inserted at end "For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed."
 
 Subsec. (c)(4)(A)(i). Pub. L. 103–182, §621(4)(A), as amended by Pub. L. 104–295, §21(e)(12); Pub. L. 106–36, §1001(b)(8), substituted "time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its" for "time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his".
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect t
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the UnitedStates–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 

@@ -10,7 +10,7 @@
 
 &emsp;(A) <sup>1</sup>
 
-Targeting.—Except as provided in paragraph (4), of the public housing dwellingunits of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by extremely low-income families.
+Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by extremely low-income families.
 
 #### (3) Prohibition of concentration of low-income families
 
@@ -30,7 +30,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (iii) Family choice
 
-&emsp;&emsp;&emsp;Incentives referred to in clause (ii) may be made available by a public housing agency only in a manner that allows for the eligible family to have the sole discretion in determining whether to accept the incentive and an agency may not take any adverse action toward any eligible family for choosing not to accept an incentive and occupancy of a project described in clause (i)(II),<sup>2</sup> <i>Provided</i>, That the skipping of a family on a waiting list to reach another family to implement the policy under clause (i) shall not be considered an adverse action. An agency implementing an admissions policy under this subparagraph shall implement the policy in a manner that does not prevent or interfere with the use of site-based waiting lists authorized under section 1437d(s) <sup>3</sup> of this title.
+&emsp;&emsp;&emsp;Incentives referred to in clause (ii) may be made available by a public housing agency only in a manner that allows for the eligible family to have the sole discretion in determining whether to accept the incentive and an agency may not take any adverse action toward any eligible family for choosing not to accept an incentive and occupancy of a project described in clause\(i)(II),<sup>2</sup> <i>Provided</i>, That the skipping of a family on a waiting list to reach another family to implement the policy under clause (i) shall not be considered an adverse action. An agency implementing an admissions policy under this subparagraph shall implement the policy in a manner that does not prevent or interfere with the use of site-based waiting lists authorized under section 1437d(s) <sup>3</sup> of this title.
 
 #### (4) Fungibility with tenant-based assistance
 
@@ -92,7 +92,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (4) Prohibition of skipping
 
-&emsp;In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy in such housing for families containing a member who is employed.
+&emsp;In developing admission procedures implementing paragraphs (1), (2), and (3), the Secretary shall prohibit project owners from selecting families for residence in an order different from the order on the waiting list for the purpose of selecting relatively higher income families for residence. Nothing in this paragraph or this subsection may be construed to prevent an owner of housing assisted under a contract for project-based assistance from establishing a preference for occupancy insuch housing for families containing a member who is employed.
 
 #### (5) Exception
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
-(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X,§1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635.)
+(Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635.)
 
 #### References in Text
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease tobe effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date
 

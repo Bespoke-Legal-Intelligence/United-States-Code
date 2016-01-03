@@ -106,7 +106,7 @@ Subsec. (e). Pub. L. 99–272, §13203(c), substituted "Reduction in amount of t
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–514, title XVIII, §1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 13203 of Pub. L. 99–272, see note below\]."
+Pub. L. 99–514, title XVIII, §1897(b), Oct. 22, 1986, 100 Stat. 2941, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[section 13203 of Pub. L. 99–272, see note below\]."
 
 Pub. L. 99–272, title XIII, §13203(d), Apr. 7, 1986, 100 Stat. 313, provided that: "The amendments made by this section \[amending this section\] shall apply to sales after March 31, 1986."
 

@@ -30,7 +30,7 @@ Subsec. (c)(2), (3). Pub. L. 113–291, §916(c)(2), substituted "designated Age
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-"(1) In the case of a missing person who was last known to be alive or who was last suspected of being alive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
+"(1) In the case of a missing person who was last known to be alive or who was last suspected of beingalive, the Secretary shall appoint a board to conduct an inquiry with respect to a person under this subsection—
 
 &emsp;"(A) on or about three years after the date of the initial report of the disappearance of the person under section 1502(a) of this title; and
 

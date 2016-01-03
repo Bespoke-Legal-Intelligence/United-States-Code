@@ -22,7 +22,7 @@ The report required under subsection (a)(2) shall include—
 
 &emsp;(5) a description of how the Administrator plans to coordinate the disaster efforts of the Administration with State and local government officials, including recommendations on how to better incorporate State initiatives or programs, such as State-administered bridge loan programs, into the disaster response of the Administration;
 
-&emsp;(6) recommendations, if any, on how the Administration can better coordinate its disasterresponse operations with the operations of other Federal, State, and local entities;
+&emsp;(6) recommendations, if any, on how the Administration can better coordinate its disaster response operations with the operations of other Federal, State, and local entities;
 
 &emsp;(7) any surge plan for the disaster loan program of the Administration in effect on or after August 29, 2005 (including surge plans for loss verification, loan processing, mailroom, customer service or call center operations, and a continuity of operations plan);
 

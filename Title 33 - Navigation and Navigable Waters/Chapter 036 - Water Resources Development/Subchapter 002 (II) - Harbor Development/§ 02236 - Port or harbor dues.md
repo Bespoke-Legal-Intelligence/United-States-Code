@@ -2,7 +2,7 @@
 
 #### (a) Consent of Congress
 
-Subject to the following conditions, a non-Federal interest may levy port or harbor dues\(in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
+Subject to the following conditions, a non-Federal interest may levy port or harbor dues (in the form of tonnage duties or fees) on a vessel engaged in trade entering or departing from a harbor and on cargo loaded on or unloaded from that vessel under clauses 2 and 3 of section 10, and under clause 3 of section 8, of Article 1 of the Constitution:
 
 #### (1) Purposes
 
@@ -112,7 +112,7 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 &emsp;(1) withhold the clearance required by section 60105 of title 46 for a vessel if the master, owner, or operator of a vessel subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation or ordinance issued hereunder; and
 
-&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section including any non-Federal law, regulation, or ordinance issued hereunder.
+&emsp;(2) assess a penalty or initiate a forfeiture of the cargo in the same manner and under the same procedures as are applicable for failure to pay customs duties under the Tariff Act of 1930 (19 U.S.C. 1202 et seq.) if the shipper, consignor, consignee, or terminal operator having title to or custody of cargo subject to port or harbor dues under this section fails to comply with the provisions of this section includingany non-Federal law, regulation, or ordinance issued hereunder.
 
 #### (e) Maritime Lien
 

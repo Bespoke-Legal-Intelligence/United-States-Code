@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(vii) a reemployment;
 
-&emsp;&emsp;(viii) a performance evaluation under chapter 43 of this title;
+&emsp;&emsp;(viii) a performance evaluation under chapter 43 of this title or under title 38;
 
 &emsp;&emsp;(ix) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
 
@@ -40,7 +40,7 @@
 
 &emsp;(C) "agency" means an Executive agency and the Government Publishing Office, but does not include—
 
-&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
+&emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnelpractice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
 
 &emsp;&emsp;(ii)(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(ii) other than with regard to remedying a violation of paragraph (8);
 
-&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of any right referred to in subparagraph (A)(i) or (ii);
+&emsp;&emsp;(B) testifying for or otherwise lawfully assisting any individual in the exercise of anyright referred to in subparagraph (A)(i) or (ii);
 
 &emsp;&emsp;(C) cooperating with or disclosing information to the Inspector General of an agency, or the Special Counsel, in accordance with applicable provisions of law; or
 
@@ -176,7 +176,7 @@
 
 (2) If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–199, title I, §§101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, 126 Stat. 1465–1468, 1472; Pub. L. 112–277, title V, §505(a), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. J, title II, §238, Dec. 18, 2015, 129 Stat. 2700.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subseq
 Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, §304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2)(A)(viii). Pub. L. 114–113 inserted "or under title 38" after "chapter 43 of this title".
 
 <b>2013</b>—Subsec. (a)(2)(C)(ii). Pub. L. 112–277 added cl. (ii) and struck out former cl. (ii) which read as follows:
 
@@ -354,7 +356,7 @@ In general.—Any disclosure of information by an employee or applicant for empl
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) any violation of law, rule, or regulation; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantialand specific danger to public health or safety; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; and
 
 &emsp;&emsp;&emsp;"(ii) the disclosure is made to the Special Counsel, or to the Inspector General of an agency or another person designated by the head of the agency to receive such disclosures, consistent with the protection of sources and methods.
 

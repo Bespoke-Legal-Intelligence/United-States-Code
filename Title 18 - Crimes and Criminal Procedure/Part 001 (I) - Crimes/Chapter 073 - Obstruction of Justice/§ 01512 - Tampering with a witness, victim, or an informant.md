@@ -98,7 +98,7 @@
 
 (i) A prosecution under this section or section 1503 may be brought in the district in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected or in the district in which the conduct constituting the alleged offense occurred.
 
-(j) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
+(j) If the offense under this section occurs in connection with a trial of a criminal case, themaximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
 (k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
@@ -186,7 +186,7 @@ Pub. L. 97–291, §2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 &emsp;"(4) Under current law, law enforcement agencies must have cooperation from a victim of crime and yet neither the agencies nor the legal system can offer adequate protection or assistance when the victim, as a result of such cooperation, is threatened or intimidated.
 
-&emsp;"(5) While the defendant is provided with counsel who can explain both the criminal justice process and the rights of the defendant, the victim or witness has no counterpart and is usually not even notified when the defendant is released on bail, the case is dismissed, a plea to a lesser charge is accepted, or a court date is changed.
+&emsp;"(5) While the defendant is provided with counsel who can explain both the criminal justice process andthe rights of the defendant, the victim or witness has no counterpart and is usually not even notified when the defendant is released on bail, the case is dismissed, a plea to a lesser charge is accepted, or a court date is changed.
 
 &emsp;"(6) The victim and witness who cooperate with the prosecutor often find that the transportation, parking facilities, and child care services at the court are unsatisfactory and they must often share the pretrial waiting room with the defendant or his family and friends.
 

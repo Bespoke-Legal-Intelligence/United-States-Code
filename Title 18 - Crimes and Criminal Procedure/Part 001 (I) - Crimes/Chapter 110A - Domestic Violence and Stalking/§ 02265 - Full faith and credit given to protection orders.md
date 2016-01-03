@@ -30,7 +30,7 @@ Notification.—A State, Indian tribe, or territory according full faith and cre
 
 &emsp;(2)
 
-No prior registration or filing as prerequisite for enforcement.—Any protectionorder that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State, tribal, or territorial jurisdiction.
+No prior registration or filing as prerequisite for enforcement.—Any protection order that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State, tribal, or territorial jurisdiction.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted ", Indian tribe, or te
 
 Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted "State, tribal, or territorial" for "State or tribal".
 
-Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting "the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction" for "the registration or filing of a protection order", was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
+Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting"the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction" for "the registration or filing of a protection order", was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
 
 Pub. L. 109–162, §106(c), added par. (3).
 

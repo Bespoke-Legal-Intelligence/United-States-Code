@@ -60,7 +60,7 @@ The Foundation shall be located in Tucson, Arizona.
 
 #### (2) Compensation
 
-&emsp;The Executive Director of the Foundation shall be compensated at a rate determined bythe Board in accordance with section 5383 of title 5.
+&emsp;The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with section 5383 of title 5.
 
 (Pub. L. 102–259, §5, Mar. 19, 1992, 106 Stat. 79; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §655\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 105–156, §3, Feb. 11, 1998, 112 Stat. 8; Pub. L. 111–90, §5, Nov. 3, 2009, 123 Stat. 2977.)
 

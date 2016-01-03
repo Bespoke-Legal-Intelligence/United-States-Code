@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c), determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -30,7 +30,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (B) Acceptance of communications
 
-&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority's consideration of the petition.
+&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority's consideration of the petition.
 
 #### (C) Nondisclosure of certain information
 
@@ -42,7 +42,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (A) Time for initial determination
 
-&emsp;&emsp;Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+&emsp;&emsp;Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
 
 &emsp;&emsp;&emsp;(i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under section 1671(a) of this title and contains information reasonably available to the petitioner supporting the allegations, and
 
@@ -84,7 +84,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (i) Producers related to foreign producers
 
-&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition,if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of a countervailing duty order.
+&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition, if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of a countervailing duty order.
 
 #### (ii) Producers who are importers
 
@@ -98,7 +98,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 &emsp;&emsp;If the petition does not establish support of domestic producers or workers accounting for more than 50 percent of the total production of the domestic like product, the administering authority shall—
 
-&emsp;&emsp;&emsp;(i) poll the industry or rely on other information in order to determine if there is support for the petition as required by subparagraph (A), or
+&emsp;&emsp;&emsp;(i) poll the industry or rely on other information in order to determine if there issupport for the petition as required by subparagraph (A), or
 
 &emsp;&emsp;&emsp;(ii) if there is a large number of producers in the industry, the administering authority may determine industry support for the petition by using any statistically valid sampling method to poll the industry.
 
@@ -108,7 +108,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (5) "Domestic producers or workers" defined
 
-&emsp;For purposes of this subsection, the term "domestic producers or workers" means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
+&emsp;For purposes of this subsection, the term "domestic producers or workers" means those interested parties who are eligible to file a petition under subsection (b)(1).
 
 #### (d) Notification to Commission of determination
 
@@ -130,7 +130,7 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 <b>1994</b>—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted "initiated" for "commenced".
 
-Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted "paragraph (1)" for "subsection (b)(1) of this section" and "5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section," for "twenty days".
+Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted "paragraph (1)" for "subsection (b)(1) of this section" and "5 days after the date on which the administering authority initiates an investigation under subsection (c)," for "twenty days".
 
 Subsec. (b)(4). Pub. L. 103–465, §211(a)(2), added par. (4).
 
@@ -164,7 +164,7 @@ Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

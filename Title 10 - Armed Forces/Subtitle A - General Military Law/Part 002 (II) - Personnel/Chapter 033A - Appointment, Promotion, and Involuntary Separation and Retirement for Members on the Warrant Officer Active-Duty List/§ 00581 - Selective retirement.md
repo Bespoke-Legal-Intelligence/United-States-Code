@@ -10,7 +10,7 @@
 
 (2) Such regulations shall require that when the Secretary concerned submits a list of regular warrant officers to a selection board convened under section 573(c) of this title to consider regular warrant officers for selection for retirement under this section, the list shall include—
 
-&emsp;(A) the name of each warrant officer on the active-duty list in the same grade or samegrade and competitive category whose position on the active-duty list is between that of the most junior regular warrant officer in that grade whose name is submitted to the board and that of the most senior regular warrant officer in that grade whose name is submitted to the board; or
+&emsp;(A) the name of each warrant officer on the active-duty list in the same grade or same grade and competitive category whose position on the active-duty list is between that of the most junior regular warrant officer in that grade whose name is submitted to the board and that of the most senior regular warrant officer in that grade whose name is submitted to the board; or
 
 &emsp;(B) with respect to a group of warrant officers designated under subparagraph (A) who are in a particular grade and competitive category, only those warrant officers in that grade and competitive category who are also in a particular year group or specialty, or any combination thereof determined by the Secretary concerned.
 
@@ -20,7 +20,7 @@
 
 (2) An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L.102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
 
 #### Amendments
 

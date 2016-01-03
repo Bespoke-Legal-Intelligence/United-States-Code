@@ -38,7 +38,7 @@ If a taxpayer holds a qualified tax credit bond on one or more credit allowance 
 
 #### (2) Carryover of unused credit
 
-&emsp;If the credit allowable under subsection (a) exceeds the limitation imposed by paragraph\(1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year (determined before the application of paragraph (1) for such succeeding taxable year).
+&emsp;If the credit allowable under subsection (a) exceeds the limitation imposed by paragraph (1) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year (determined before the application of paragraph (1) for such succeeding taxable year).
 
 #### (d) Qualified tax credit bond
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An issue shall be treated as meeting the requirements of this paragraph if, as of the date of issuance, the issuer reasonably expects—
+&emsp;&emsp;An issue shall be treated as meeting the requirements of this paragraph if, as of thedate of issuance, the issuer reasonably expects—
 
 &emsp;&emsp;&emsp;(i) 100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (B) Maximum term
 
-&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond. Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
+&emsp;&emsp;During each calendar month, the Secretary shall determine the maximum term permitted under this paragraph for bonds issued during the following calendar month. Such maximum term shall be the term which the Secretary estimates will result in the present value of the obligation to repay the principal on the bond being equal to 50 percent of the face amount of such bond.Such present value shall be determined using as a discount rate the average annual interest rate of tax-exempt obligations having a term of 10 years or more which are issued during the month. If the term as so determined is not a multiple of a whole year, such term shall be rounded to the next highest whole year.
 
 #### (6) Prohibition on financial conflicts of interest
 
@@ -228,7 +228,7 @@ Subsec. (d)(1)(E). Pub. L. 111–5, §1521(b)(1), added subpar. (E).
 
 Subsec. (d)(2)(C)(v). Pub. L. 111–5, §1521(b)(2), added cl. (v).
 
-Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: "If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiariesof such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary."
+Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: "If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary."
 
 <b>2008</b>—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'qualified tax credit bond' means—
 

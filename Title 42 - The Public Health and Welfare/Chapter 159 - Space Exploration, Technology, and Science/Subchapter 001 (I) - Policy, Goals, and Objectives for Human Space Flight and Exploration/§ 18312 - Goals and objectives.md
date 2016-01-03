@@ -12,7 +12,7 @@ The key objectives of the United States for human expansion into space shall beâ
 
 &emsp;(2) to determine if humans can live in an extended manner in space with decreasing reliance on Earth, starting with utilization of low-Earth orbit infrastructure, to identify potential roles that space resources such as energy and materials may play, to meet national and global needs and challenges, such as potential cataclysmic threats, and to explore the viability of and lay the foundation for sustainable economic activities in space;
 
-&emsp;(3) to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, and inspiring young people in their educational pursuits; and
+&emsp;(3) to maximize the role that human exploration of space can play in advancing overall knowledge of the universe, supporting United States national and economic security and the United States global competitive posture, andinspiring young people in their educational pursuits; and
 
 &emsp;(4) to build upon the cooperative and mutually beneficial framework established by the ISS partnership agreements and experience in developing and undertaking programs and meeting objectives designed to realize the goal of human space flight set forth in subsection (a).
 

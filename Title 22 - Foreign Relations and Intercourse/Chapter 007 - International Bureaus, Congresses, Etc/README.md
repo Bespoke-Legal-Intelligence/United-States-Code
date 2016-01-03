@@ -574,6 +574,8 @@
 | [286tt.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286tt%20-%20Restrictions%20on%20use%20of%20United%20States%20funds%20for%20foreign%20governments%3B%20protection%20of%20American%20taxpayers.md) | Restrictions on use of United States funds for foreign governments; protection of American taxpayers. |
 | [286uu.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286uu%20-%20Acceptance%20of%20an%20amendment%20to%20the%20Articles%20of%20Agreement%20of%20the%20Bank%20to%20increase%20basic%20votes.md) | Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes. |
 | [286vv.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286vv%20-%20Capital%20stock%20increases.md) | Capital stock increases. |
+| [286ww.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286ww%20-%20Acceptance%20of%20amendments%20to%20Articles%20of%20Agreement%20of%20Fund.md) | Acceptance of amendments to Articles of Agreement of Fund. |
+| [286xx.](Subchapter%20015%20%28XV%29%20-%20International%20Monetary%20Fund%20and%20Bank%20for%20Reconstruction%20and%20Development/%C2%A7%2000286xx%20-%20Quota%20increase.md) | Quota increase. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

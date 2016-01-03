@@ -14,7 +14,7 @@ The provisions of this part shall not apply to—
 
 &emsp;(5) Vessels in tow;
 
-&emsp;(6) A ship navigating solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States;
+&emsp;(6) A ship navigating solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a ship leaving or attempting to leave any harbor orport of the United States for a voyage solely on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States;
 
 &emsp;(7) A ship navigating solely on the Great Lakes of North America and the River Saint Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island, and, on the north side of Anticosti Island, the sixty-third meridian, or to a ship leaving or attempting to leave any harbor or port of the United States for a voyage solely on such waters and within such area;
 

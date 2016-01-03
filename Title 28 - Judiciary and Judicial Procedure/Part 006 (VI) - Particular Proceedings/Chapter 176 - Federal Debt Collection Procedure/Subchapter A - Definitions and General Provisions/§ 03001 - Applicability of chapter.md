@@ -14,7 +14,7 @@ Limitation.—To the extent that another Federal law specifies procedures for re
 
 (c)
 
-Amounts Owing Other Than Debts.—This chapter shall not apply with respect to anamount owing that is not a debt or to a claim for an amount owing that is not a debt.
+Amounts Owing Other Than Debts.—This chapter shall not apply with respect to an amount owing that is not a debt or to a claim for an amount owing that is not a debt.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4933.)
 

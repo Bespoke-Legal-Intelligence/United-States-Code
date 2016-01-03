@@ -20,7 +20,7 @@
 
 (d) The Principal Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense. The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468.)
+(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A,title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468.)
 
 #### Amendment of Subsection (d)
 
@@ -70,7 +70,7 @@ Pub. L. 111–84, div. A, title IX, §906(e), Oct. 28, 2009, 123 Stat. 2428, pro
 
 "(1)
 
-In general.—Notwithstanding the amendments made by this section \[enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, GovernmentOrganization and Employees\], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act \[Oct. 28, 2009\] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
+In general.—Notwithstanding the amendments made by this section \[enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees\], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act \[Oct. 28, 2009\] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
 
 "(2)
 

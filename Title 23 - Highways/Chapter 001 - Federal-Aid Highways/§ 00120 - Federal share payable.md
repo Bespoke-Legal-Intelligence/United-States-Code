@@ -40,11 +40,11 @@ Innovative project delivery.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), or (5) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
+In general.—Except as provided in subparagraph (C), the Federal share payable on account of a project, program, or activity carried out with funds apportioned under paragraph (1), (2), (5)(D), or (6) of section 104(b) may, at the discretion of the State, be up to 100 percent for any such project, program, or activity that the Secretary determines—
 
 &emsp;&emsp;&emsp;(i) contains innovative project delivery methods that improve work zone safety for motorists or workers and the quality of the facility;
 
-&emsp;&emsp;&emsp;(ii) contains innovative technologies, manufacturing processes, financing, or contracting methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
+&emsp;&emsp;&emsp;(ii) contains innovative technologies, engineering or design approaches, manufacturing processes, financing, or contracting or project delivery methods that improve the quality of, extend the service life of, or decrease the long-term costs of maintaining highways and bridges;
 
 &emsp;&emsp;&emsp;(iii) accelerates project delivery while complying with other applicable Federal laws (including regulations) and not causing any significant adverse environmental impact; or
 
@@ -58,11 +58,13 @@ Examples.—Projects, programs, and activities described in subparagraph (A) may
 
 &emsp;&emsp;&emsp;(ii) innovative construction equipment, materials, or techniques, including the use of in-place recycling technology and digital 3-dimensional modeling technologies;
 
-&emsp;&emsp;&emsp;(iii) innovative contracting methods, including the design-build and the construction manager-general contractor contracting methods;
+&emsp;&emsp;&emsp;(iii) innovative contracting methods, including the design-build and the construction manager-general contractor contracting methods and alternative bidding;
 
-&emsp;&emsp;&emsp;(iv) intelligent compaction equipment; or
+&emsp;&emsp;&emsp;(iv) intelligent compaction equipment;
 
-&emsp;&emsp;&emsp;(v) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
+&emsp;&emsp;&emsp;(v) innovative pavement materials that have a demonstrated life cycle of 75 or more years, are manufactured with reduced greenhouse gas emissions, and reduce construction-related congestion by rapidly curing; or
+
+&emsp;&emsp;&emsp;(vi) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
 
 &emsp;&emsp;(C)
 
@@ -70,7 +72,7 @@ Limitations.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), and (5) of section 104(b).
+In general.—In each fiscal year, a State may use the authority under subparagraph (A) for up to 10 percent of the combined apportionments of the State under paragraphs (1), (2), (5)(D), and (6) of section 104(b).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -84,7 +86,7 @@ Emergency Relief.—The Federal share payable for any repair or reconstruction p
 
 &emsp;(1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the cost of the repairs;
 
-&emsp;(2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, Federal land access transportation facilities, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
+&emsp;(2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, other Federally owned roads that are open to public travel, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
 
 &emsp;(3) the Secretary shall extend the time period in paragraph (1) taking into consideration any delay in the ability of the State to access damaged facilities to evaluate damage and the cost of repair; and
 
@@ -124,7 +126,7 @@ Maintenance of effort.—
 
 &emsp;&emsp;(A)
 
-In general.—The credit for any non-Federal share provided under this subsectionshall not reduce nor replace State funds required to match Federal funds for any program under this title.
+In general.—The credit for any non-Federal share provided under this subsection shall not reduce nor replace State funds required to match Federal funds for any program under this title.
 
 &emsp;&emsp;(B)
 
@@ -152,15 +154,27 @@ Chartered multistate agencies.—When a credit that is received from a chartered
 
 (j)
 
-Use of Federal Agency Funds.—Notwithstanding any other provision of law, any Federal funds other than those made available under this title and title 49 may be used to pay the non-Federal share of the cost of any transportation project that is within, adjacent to, or provides access to Federal land, the Federal share of which is funded under this title or chapter 53 of title 49.
+Use of Federal Agency Funds.—Notwithstanding any other provision of law, any Federal funds other than those made available under this title and title 49 may be used to pay thenon-Federal share of the cost of any transportation project that is within, adjacent to, or provides access to Federal land, the Federal share of which is funded under this title or chapter 53 of title 49.
 
 (k)
 
 Use of Federal Land and Tribal Transportation Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565; Pub. L. 114–94, div. A, title I, §§1104(e)(2), 1408, Dec. 4, 2015, 129 Stat. 1332, 1410.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(3)(A). Pub. L. 114–94, §1104(e)(2)(A), substituted "(5)(D), or (6)" for "or (5)" in introductory provisions.
+
+Subsec. (c)(3)(A)(ii). Pub. L. 114–94, §1408(a)(1), inserted "engineering or design approaches," after "technologies," and "or project delivery" after "or contracting".
+
+Subsec. (c)(3)(B)(iii). Pub. L. 114–94, §1408(a)(2)(A), inserted "and alternative bidding" before semicolon at end.
+
+Subsec. (c)(3)(B)(v), (vi). Pub. L. 114–94, §1408(a)(2)(B)–(D), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (c)(3)(C)(i). Pub. L. 114–94, §1104(e)(2)(B), substituted "(5)(D), and (6)" for "and (5)".
+
+Subsec. (e)(2). Pub. L. 114–94, §1408(b), substituted "other Federally owned roads that are open to public travel" for "Federal land access transportation facilities".
 
 <b>2012</b>—Subsec. (c)(1). Pub. L. 112–141, §1508(1), inserted "maintaining minimum levels of retroreflectivity of highway signs or pavement markings," after "traffic control signalization," and "shoulder and centerline rumble strips and stripes," after "pavement marking," and substituted "Federal-aid programs" for "Federal-aid systems".
 
@@ -250,7 +264,7 @@ Subsec. (n). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i).
 
 Subsec. (f). Pub. L. 100–17, §117(c)(1), inserted heading and amended first sentence generally. Prior to amendment, first sentence read as follows: "The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title shall not exceed 100 per centum of the cost thereof: <i>Provided</i>, That the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 per centum of the cost thereof."
 
-Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on accountof any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
+Subsecs. (i), (j). Pub. L. 100–17, §117(b), redesignated subsec. (i) relating to Federal share payable on account of any project financed under section 307(c) of this title, as subsec. (j). Former subsec. (j) redesignated (k).
 
 Subsec. (k). Pub. L. 100–17, §117(b), (d)(1), redesignated former subsec. (j) as (k) and substituted "(j)" for "(i)", "and 155" for ", 148, and 155," and "100–3" for "97–61". Former subsec. (k) redesignated (l).
 
@@ -268,7 +282,7 @@ Subsec. (d). Pub. L. 97–424, §117(b), inserted "or for pavement marking" afte
 
 Pub. L. 97–424, §123(a), inserted "or for commuter carpooling and vanpooling" before ", may amount to 100 per centum".
 
-Subsec. (f). Pub. L. 97–424, §153(f), substituted "100 per centum" for "75 per centum" after "shall not exceed", struck out provision that in the case of any State containing nontaxable Indian lands, individual and tribal, and public domain lands (both reserved and unreserved) exclusive of national forests and national parks and monuments exceeding 5 per centum of the total area of all lands therein, the Federal share would be increased by a percentage of the remaining cost equal to the percentage that the area of all such lands in such State is of its total area, struck out ", whether or not such highways, roads, or trails are on any Federal-aid highway system" after "may amount to 100 per centum of the cost thereof", substituted provision that the total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility for provision that the Secretary might increase the Federal share payable on account of any repair or reconstruction under this section up to 100 per centum of the replacement cost of a comparable facility if he determined it to be in the public interest, and struck out provision that any project agreement for which the final voucher had not been approved by the Secretary on or before the date of this Act might be modified to provide for the Federal share authorized herein.
+Subsec. (f). Pub. L. 97–424, §153(f), substituted "100 per centum" for "75 per centum" after "shall not exceed", struck out provision that in the case of any State containing nontaxable Indian lands, individual and tribal, and public domain lands (both reserved and unreserved) exclusive of national forests and national parks and monuments exceeding 5 per centum of the total area of all lands therein, the Federal share would be increased by a percentage of the remaining cost equal to the percentage that the area of all such lands in such State isof its total area, struck out ", whether or not such highways, roads, or trails are on any Federal-aid highway system" after "may amount to 100 per centum of the cost thereof", substituted provision that the total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility for provision that the Secretary might increase the Federal share payable on account of any repair or reconstruction under this section up to 100 per centum of the replacement cost of a comparable facility if he determined it to be in the public interest, and struck out provision that any project agreement for which the final voucher had not been approved by the Secretary on or before the date of this Act might be modified to provide for the Federal share authorized herein.
 
 Subsec. (i). Pub. L. 97–424, §156(c), added subsec. (i) relating to Federal share payable for any project financed under section 307(c) of this title.
 
@@ -308,6 +322,14 @@ Subsec. (f). Pub. L. 86–342 provided that the Federal share payable on account
 
 Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to contributions by the Territory of Alaska and to the expenditure of Federal funds apportioned to the Territory of Alaska and funds contributed by the Territory.
 
+#### Effective Date of 2015 Amendment
+
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, §1408(c), as added by Pub. L. 114–113, div. L, title IV, §421, Dec. 18, 2015, 129 Stat. 2908, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to projects to repair or reconstruct facilities damaged as a result of a natural disaster or catastrophic failure described in section 125(a) of title 23, United States Code, occurring on or after October 1, 2015."
+
+\[Pub. L. 114–113, div. L, title IV, §421, Dec. 18, 2015, 129 Stat. 2908, provided that the enactment by section 421 of section 1408(c) of Pub. L. 114–94, set out above, is effective as of Dec. 4, 2015, and as if included in Pub. L. 114–94 as enacted.\]
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -322,7 +344,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991,and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by section 1021 of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 Pub. L. 102–240, title I, §1022(c), Dec. 18, 1991, 105 Stat. 1951, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 125 of this title\] shall only apply to natural disasters and catastrophic failures occurring after the date of the enactment of this Act \[Dec. 18, 1991\]."
 
@@ -392,7 +414,7 @@ Pub. L. 100–17, title I, §117(f), Apr. 2, 1987, 101 Stat. 156, provided that 
 
 #### Obligations for Projects Resulting From Natural Disasters or Catastrophic Failures; Emergency Relief; Federal Share
 
-Pub. L. 97–424, title I, §153(g), Jan. 6, 1983, 96 Stat. 2133, provided that: "All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal sharerequired by subsection (f) of section 120 of title 23, United States Code, as amended by this section."
+Pub. L. 97–424, title I, §153(g), Jan. 6, 1983, 96 Stat. 2133, provided that: "All obligations for projects resulting from a natural disaster or catastrophic failure which the Secretary finds to be eligible for emergency relief subsequent to the date of enactment of this subsection \[Jan. 6, 1983\] shall provide for the Federal share required by subsection (f) of section 120 of title 23, United States Code, as amended by this section."
 
 #### Federal Share of Projects Approved During Period Beginning February 12, 1975, and Ending September 30, 1975
 
@@ -406,7 +428,7 @@ Pub. L. 95–599, title V, §507, Nov. 6, 1978, 92 Stat. 2761, provided that:
 
 In General.—The Secretary of the Treasury, in consultation with the Secretary of Transportation and the staff of the Joint Committee on Taxation, shall—
 
-&emsp;"(1) review and analyze each excise tax now dedicated to the Highway Trust Fund with respect to such factors as ease or difficulty of administration of such tax and the compliance burdens imposed on taxpayers by such tax, and
+&emsp;"(1) review and analyze each excise tax now dedicated to the Highway Trust Fund with respect to such factors as ease or difficulty of administration ofsuch tax and the compliance burdens imposed on taxpayers by such tax, and
 
 &emsp;"(2) on or before April 15, 1982, report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate as to the matters set forth in paragraph (1) and other findings, as well as recommendations on—
 

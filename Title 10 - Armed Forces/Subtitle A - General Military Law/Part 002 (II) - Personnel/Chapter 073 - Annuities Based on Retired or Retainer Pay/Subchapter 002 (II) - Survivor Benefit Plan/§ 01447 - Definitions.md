@@ -20,7 +20,7 @@ Retired pay.—The term "retired pay" includes retainer pay paid under section 6
 
 &emsp;(5)
 
-Reserve-component retired pay.—The term "reserve-component retired pay" means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
+Reserve-component retired pay.—The term "reserve-component retired pay" meansretired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
 
 &emsp;(6)
 
@@ -48,7 +48,7 @@ Reduced amount.—Such term means any amount less than the amount otherwise appl
 
 &emsp;&emsp;&emsp;(i) the first day for which he becomes eligible for retired pay, in the case of a person providing a standard annuity, or
 
-&emsp;&emsp;&emsp;(ii) the end of the 90-day period beginning on the date on which he receives the notification required by section 12731(d) ofthis title that he has completed the years of service required for eligibility for reserve-component retired pay, in the case of a person providing a reserve-component annuity.
+&emsp;&emsp;&emsp;(ii) the end of the 90-day period beginning on the date on which he receives the notification required by section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, in the case of a person providing a reserve-component annuity.
 
 &emsp;(7)
 
@@ -120,7 +120,7 @@ Regular on its face.—The term "regular on its face", when used in connection w
 
 #### References in Text
 
-Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act\(Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5), means chapter 67 (§1331 et seq.) of this title prior to its transfer to part II of subtitle E of this title, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Amendments
 

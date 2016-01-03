@@ -74,7 +74,7 @@
 
 #### (II) Insured individuals
 
-&emsp;&emsp;&emsp;&emsp;An individual determined to be covered under a health insurance program under subclause (I) shall be referred by the grantee to the existing providers under such program or, if such individual does not have a current provider, to a provider who is in-network with respect to the program involved.
+&emsp;&emsp;&emsp;&emsp;An individual determined to be covered under a health insurance program undersubclause (I) shall be referred by the grantee to the existing providers under such program or, if such individual does not have a current provider, to a provider who is in-network with respect to the program involved.
 
 #### (III) Uninsured individuals
 
@@ -146,7 +146,7 @@
 
 #### (4) Funding
 
-&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
+&emsp;For purposes of carrying out this subsection, the Secretary shall provide for the transfer,from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplemental <sup>3</sup> Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $50,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account. Amounts transferred under the preceding sentence shall remain available until expended.
 
 #### (5) Administration
 
@@ -160,7 +160,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

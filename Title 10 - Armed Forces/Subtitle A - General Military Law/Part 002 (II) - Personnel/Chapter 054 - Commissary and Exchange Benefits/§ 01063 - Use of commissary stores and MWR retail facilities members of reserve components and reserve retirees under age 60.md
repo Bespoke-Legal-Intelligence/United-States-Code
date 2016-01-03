@@ -36,7 +36,7 @@ Subsecs. (a) to (c). Pub. L. 108–136, §651(a)(1), inserted "commissary stores
 
 Subsec. (d). Pub. L. 108–136, §651(a)(2), inserted "commissary stores and" after "permitted under subsection (a) or (b) to use" and "stores and" after "permitted to use" in par. (1), and inserted "commissary stores and" after "permitted under subsection (c) to use" and "stores and" after "permitted to use" in par. (2).
 
-<b>1996</b>—Pub. L. 104–106 substituted "Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents" for "Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents" in sectioncatchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–106 substituted "Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents" for "Use of certain morale, welfare, and recreation facilities by members of reserve components and dependents" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 "(a)
 
@@ -48,7 +48,7 @@ Eligibility to Use Authorized.—Subject to such regulations as the Secretary of
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: "The amendments made by subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528, provided that: "The amendments madeby subsections (b) and (c) \[enacting this section and former section 1064 of this title\] shall take effect 120 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Regulations
 

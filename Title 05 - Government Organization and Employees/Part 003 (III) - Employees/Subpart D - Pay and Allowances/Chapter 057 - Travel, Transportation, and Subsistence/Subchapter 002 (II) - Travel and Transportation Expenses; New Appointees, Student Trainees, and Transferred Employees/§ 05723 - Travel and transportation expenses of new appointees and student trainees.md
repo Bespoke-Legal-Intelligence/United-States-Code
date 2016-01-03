@@ -2,7 +2,7 @@
 
 (a) Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
-&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
+&emsp;(1) travel expenses (A) of a new appointee, or a student trainee when assigned on completion of college work, to any position, (B) of a new appointee to the Senior Executive Service or the Federal Bureau of Investigation and DrugEnforcement Administration Senior Executive Service, or (C) of any person appointed by the President to a position the rate of pay for which is equal to or higher than the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108;
 
 &emsp;(2) transportation expenses of his immediate family and his household goods and personal effects to the extent authorized by section 5724 of this title; and
 
@@ -16,7 +16,7 @@
 
 (d) This section does not impair or otherwise affect the authority of an agency under existing statute to pay travel and transportation expenses of individuals named by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12,1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(3), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, §305, title IV, §409(a), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, §118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, §120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, §2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, §6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, §529 \[title II, §206(b)\], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, §2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(3), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes
 
@@ -68,7 +68,7 @@ Subsec. (a)(1). Pub. L. 100–398, §6(1), which directed that par. (1) be amend
 
 Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in cl. (B) and redesignated a second cl. (B) as (C).
 
-Subsec. (c). Pub. L. 100–398, §6(3), inserted at end "In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President."
+Subsec. (c). Pub. L. 100–398, §6(3), inserted at end "In the case of an appointee described in subsection (a)(1)who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President."
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out ", by and with the advice and consent of the Senate," which was executed to second subpar. (B) by striking out that phrase following "appointed by the President", as probable intent of Congress.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) that a State or local officer or employee has not been removed from his office or employment within 30 days after notice of a determination by the Board that he has violated section 1502 of this title and that the violation warrants removal; or
 
-&emsp;(2) that the State or local officer or employee has been removed and has been appointed within 18 months after his removal to an office or employment in the same State (orin the case of the District of Columbia, in the District of Columbia) in a State or local agency which does not receive loans or grants from a Federal agency;
+&emsp;(2) that the State or local officer or employee has been removed and has been appointed within 18 months after his removal to an office or employment in the same State (or in the case of the District of Columbia, in the District of Columbia) in a State or local agency which does not receive loans or grants from a Federal agency;
 
 > the Board shall make and certify to the appropriate Federal agency an order requiring that agency to withhold from its loans or grants to the State or local agency to which notice was given an amount equal to 2 years' pay at the rate the officer or employee was receiving at the time of the violation. When the State or local agency to which appointment within 18 months after removal has been made is one that receives loans or grants from a Federal agency, the Board order shall direct that the withholding be made from that State or local agency.
 

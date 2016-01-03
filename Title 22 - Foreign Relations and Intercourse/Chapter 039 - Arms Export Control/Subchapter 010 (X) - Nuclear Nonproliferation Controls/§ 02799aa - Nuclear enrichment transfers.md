@@ -34,7 +34,7 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 #### References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title
 
-Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519, provided that: "Any reference in law as of the date of enactment of this Act \[Apr. 30, 1994\] to section 669 or 670 of the Foreign Assistance Act of 1961 \[former 22 U.S.C. 2429, 2429a\] shall, after such date, be deemedto be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act \[22 U.S.C. 2799aa, 2799aa–1\]."
+Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519, provided that: "Any reference in law as of the date of enactment of this Act \[Apr. 30, 1994\] to section 669 or 670 of the Foreign Assistance Act of 1961 \[former 22 U.S.C. 2429, 2429a\] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act \[22 U.S.C. 2799aa, 2799aa–1\]."
 
 #### Amendments
 

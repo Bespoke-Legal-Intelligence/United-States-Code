@@ -8,7 +8,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
 
-&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
+&emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or directspending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
 
 &emsp;&emsp;(B) the bill, joint resolution, amendment, motion, or conference report includes an authorization for appropriations in an amount equal to or exceeding the direct costs of such mandate, and—
 
@@ -22,7 +22,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;&emsp;&emsp;(bb) legislative recommendations for either implementing a less costly mandate or making such mandate ineffective for the fiscal year;
 
-&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to insubclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
+&emsp;&emsp;&emsp;(II) provides for expedited procedures for the consideration of the statement or legislative recommendations referred to in subclause (I) by Congress no later than 30 days after the statement or recommendations are submitted to Congress; and
 
 &emsp;&emsp;&emsp;(III) provides that such mandate shall—
 

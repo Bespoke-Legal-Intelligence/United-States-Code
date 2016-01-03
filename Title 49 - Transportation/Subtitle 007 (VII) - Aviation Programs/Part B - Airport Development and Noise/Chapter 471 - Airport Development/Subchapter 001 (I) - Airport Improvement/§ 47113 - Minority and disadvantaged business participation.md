@@ -32,7 +32,7 @@ Mandatory Training Program.—
 
 &emsp;(1)
 
-In general.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concernqualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
+In general.—Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
 
 &emsp;(2)
 

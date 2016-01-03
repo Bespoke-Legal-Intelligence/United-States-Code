@@ -2,9 +2,9 @@
 
 #### (a) Maximum number of admissions; increases for humanitarian concerns; allocations
 
-(1) Except as provided in subsection (b) of this section, the number of refugees who may be admitted under this section in fiscal year 1980, 1981, or 1982, may not exceed fifty thousand unless the President determines, before the beginning of the fiscal year and after appropriate consultation (as defined in subsection (e) of this section), that admission of a specific number of refugees in excess of such number is justified by humanitarian concerns or is otherwise in the national interest.
+(1) Except as provided in subsection (b), the number of refugees who may be admitted under this section in fiscal year 1980, 1981, or 1982, may not exceed fifty thousand unless the President determines, before the beginning of the fiscal year and after appropriate consultation (as defined in subsection (e)), that admission of a specific number of refugees in excess of such number is justified by humanitarian concerns or is otherwise in the national interest.
 
-(2) Except as provided in subsection (b) of this section, the number of refugees who may be admitted under this section in any fiscal year after fiscal year 1982 shall be such number as the President determines, before the beginning of the fiscal year and after appropriate consultation, is justified by humanitarian concerns or is otherwise in the national interest.
+(2) Except as provided in subsection (b), the number of refugees who may be admitted under this section in any fiscal year after fiscal year 1982 shall be such number as the President determines, before the beginning of the fiscal year and after appropriate consultation, is justified by humanitarian concerns or is otherwise in the national interest.
 
 (3) Admissions under this subsection shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after appropriate consultation.
 
@@ -12,11 +12,11 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a), the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
-(1) Subject to the numerical limitations established pursuant to subsections (a) and (b) of this section, the Attorney General may, in the Attorney General's discretion and pursuant to such regulations as the Attorney General may prescribe, admit any refugee who is not firmly resettled in any foreign country, is determined to be of special humanitarian concern to the United States, and is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter.
+(1) Subject to the numerical limitations established pursuant to subsections (a) and (b), the Attorney General may, in the Attorney General's discretion and pursuant to such regulations as the Attorney General may prescribe, admit any refugee who is not firmly resettled in any foreign country, is determined to be of special humanitarian concern to the United States, and is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter.
 
 (2)(A) A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of any refugee who qualifies for admission under paragraph (1) shall, if not otherwise entitled to admission under paragraph (1) and if not a person described in the second sentence of section 1101(a)(42) of this title, be entitled to the same admission status as such refugee if accompanying, or following to join, such refugee and if the spouse or child is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter. Upon the spouse's or child's admission to the United States, such admission shall be charged against the numerical limitation established in accordance with the appropriate subsection under which the refugee's admission is charged.
 
@@ -30,11 +30,11 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
 
-(2) As soon as possible after representatives of the President initiate appropriate consultationwith respect to the number of refugee admissions under subsection (a) of this section or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b) of this section, the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
+(2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b), the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
 
-(3)(A) After the President initiates appropriate consultation prior to making a determination under subsection (a) of this section, a hearing to review the proposed determination shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
+(3)(A) After the President initiates appropriate consultation prior to making a determination under subsection (a), a hearing to review the proposed determination shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
 
-(B) After the President initiates appropriate consultation prior to making a determination, under subsection (b) of this section, that the number of refugee admissions should be increased because of an unforeseen emergency refugee situation, to the extent that time and the nature of the emergency refugee situation permit, a hearing to review the proposal to increase refugee admissions shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
+(B) After the President initiates appropriate consultation prior to making a determination, under subsection (b), that the number of refugee admissions should be increased because of an unforeseen emergency refugee situation, to the extent that time and the nature of the emergency refugee situation permit, a hearing to review the proposal to increase refugee admissions shall be held unless public disclosure of the details of the proposal would jeopardize the lives or safety of individuals.
 
 #### (e) "Appropriate consultation" defined
 
@@ -238,7 +238,7 @@ Spouses and children.—An alien is described in this subsection if the alien—
 
 Treatment of surviving spouse or child.—An alien is described in subsection (b) if the alien—
 
-&emsp;&emsp;"(A) was the spouse or child of a principal alien described in paragraph (1) who had a petition for classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
+&emsp;&emsp;"(A) was the spouse or child of a principal alien described in paragraph (1) who had a petition forclassification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
 
 &emsp;&emsp;"(B) due to the death of the principal alien—
 
@@ -356,7 +356,7 @@ Rule of Construction.—Nothing in this section may be construed to affect the a
 
 "(a)
 
-Designation in Iraq.—The Secretary of State shall designate in the embassy of the United States in Baghdad, Iraq, a Senior Coordinator for Iraqi Refugees and Internally Displaced Persons (referred to in this section as the 'Senior Coordinator').
+Designation in Iraq.—The Secretary of State shall designate in the embassy of the United States inBaghdad, Iraq, a Senior Coordinator for Iraqi Refugees and Internally Displaced Persons (referred to in this section as the 'Senior Coordinator').
 
 "(b)
 
@@ -568,7 +568,7 @@ Exclusion.—Such term does not include an individual with respect to whom it is
 
 &emsp;"(2)
 
-Missing status.—The term 'missing status', with respect to the Vietnam War, means the status of an individual as a result of the Vietnam War if immediately before that status began the individual—
+Missing status.—The term 'missing status', with respect to the Vietnam War, means the status ofan individual as a result of the Vietnam War if immediately before that status began the individual—
 
 &emsp;&emsp;"(A) was performing service in Vietnam; or
 
@@ -716,7 +716,7 @@ Level of Programming.—The International Broadcasting Bureau shall broadcast—
 
 "(c)
 
-Availability of Information on the Internet.—The International Broadcasting Bureau shall ensure that information regarding the 'Bring Them Home Alive' refugee program under this Act is readily available on the World Wide Web sites of the Bureau.
+Availability of Information on the Internet.—The International Broadcasting Bureau shall ensurethat information regarding the 'Bring Them Home Alive' refugee program under this Act is readily available on the World Wide Web sites of the Bureau.
 
 "(d)
 
@@ -744,7 +744,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, §7034(k)(8)(A), Dec. 18, 2015, 129 Stat. 2765, provided that:
 
 "(a)
 
@@ -768,7 +768,7 @@ Establishment of Categories.—
 
 &emsp;"(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with 'Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing' (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, and 2015 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, and 2016 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 "(c)
 
@@ -782,11 +782,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;"(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2015.
+&emsp;"(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2016.
 
-&emsp;"(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2015.
+&emsp;"(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2016.
 
-&emsp;"(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2015."
+&emsp;"(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2016."
 
 \[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting "2005, and 2006" for "and 2005", could not be executed.\]
 
@@ -809,6 +809,8 @@ Pub. L. 96–212, title II, §204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided t
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2015–14, Sept. 29, 2015, 80 F.R. 62433.
 
 Presidential Determination No. 2014–17, Sept. 30, 2014, 79 F.R. 69753.
 
@@ -884,7 +886,7 @@ Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 

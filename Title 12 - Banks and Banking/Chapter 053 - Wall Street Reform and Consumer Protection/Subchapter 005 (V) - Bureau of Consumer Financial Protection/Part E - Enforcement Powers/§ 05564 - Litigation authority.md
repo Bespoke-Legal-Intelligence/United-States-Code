@@ -26,7 +26,7 @@ The Bureau may compromise or settle any action if such compromise is approved by
 
 #### (B) Coordination
 
-&emsp;&emsp;In order to avoid conflicts and promote consistency regarding litigation of matters under Federal law, the Attorney General and the Bureau shall consult regarding the coordination of investigations and proceedings, including by negotiating an agreement for coordination by not later than 180 days after the designated transfer date. The agreement under this subparagraph shall include provisions to ensure that parallel investigations and proceedings involving the Federal consumer financial laws are conducted in a manner that avoids conflicts and does not impede the ability of the Attorney General to prosecute violations of Federal criminal laws.
+&emsp;&emsp;In order to avoid conflicts and promote consistency regarding litigation of mattersunder Federal law, the Attorney General and the Bureau shall consult regarding the coordination of investigations and proceedings, including by negotiating an agreement for coordination by not later than 180 days after the designated transfer date. The agreement under this subparagraph shall include provisions to ensure that parallel investigations and proceedings involving the Federal consumer financial laws are conducted in a manner that avoids conflicts and does not impede the ability of the Attorney General to prosecute violations of Federal criminal laws.
 
 #### (C) Rule of construction
 

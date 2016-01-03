@@ -46,7 +46,7 @@
 
 #### (B) Time for Commission determination
 
-&emsp;&emsp;Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1) of this section, to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
+&emsp;&emsp;Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1), to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
 
 #### (C) Special rule to permit administrative flexibility
 
@@ -60,15 +60,15 @@
 
 #### (B) Nature of subsidy
 
-&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether the countervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
+&emsp;&emsp;The administering authority shall inform the Commission of, and the Commission, in making its determination under this section, shall consider, the nature of the countervailable subsidy and whether thecountervailable subsidy is a subsidy described in Article 3 or Article 6.1 of the Subsidies Agreement.
 
 #### (3) Effect of Commission determination
 
 #### (A) Affirmative determination
 
-&emsp;&emsp;Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1) of this section—
+&emsp;&emsp;Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1)—
 
-&emsp;&emsp;&emsp;(i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4) of this section, and
+&emsp;&emsp;&emsp;(i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4), and
 
 &emsp;&emsp;&emsp;(ii) the countervailing duty order shall remain in effect until revoked, in whole or in part, under section 1675(d) of this title.
 
@@ -78,7 +78,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Upon being notified by the Commission that it has made a negative determination under subsection (a)(1) of this section, the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4) of this section.
+&emsp;&emsp;&emsp;Upon being notified by the Commission that it has made a negative determination under subsection (a)(1), the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4).
 
 #### (ii) Limitation on negative determination
 
@@ -86,7 +86,7 @@
 
 #### (4) Countervailing duty orders with respect to which no request for injury investigation is made
 
-&emsp;If, with respect to a countervailing duty order described in subsection (a) of this section, a request for an investigation is not made within the time required by subsection (a)(3) of this section, the Commission shall notify the administering authority that a negative determination has been made under subsection (a) of this section and the provisions of paragraph (3)(B) shall apply with respect to the order.
+&emsp;If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
 #### (c) Pending and suspended countervailing duty investigations
 
@@ -98,9 +98,9 @@ If, on the date on which a country becomes a Subsidies Agreement country, there 
 
 &emsp;(3) in the case of a suspended investigation to which section 1671c(i)(1)(C) of this title applies, treat the countervailing duty order issued pursuant to such section as if it were—
 
-&emsp;&emsp;(A) an order issued under subsection (a)(1)(B)(ii) of this section for purposes of subsection (a)(3) of this section; and
+&emsp;&emsp;(A) an order issued under subsection (a)(1)(B)(ii) for purposes of subsection (a)(3); and
 
-&emsp;&emsp;(B) an order issued under subsection (a)(1)(B)(i) of this section for purposes of subsection (a)(4) of this section.
+&emsp;&emsp;(B) an order issued under subsection (a)(1)(B)(i) for purposes of subsection (a)(4).
 
 #### (d) Publication in Federal Register
 
@@ -112,7 +112,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (A) Requests for reviews
 
-&emsp;&emsp;Notwithstanding section 1675(c)(6)(A) of this title and except as provided in subparagraph (B), an interested party may request a review of an order under section 1675(c) of this title at the same time the party requests an investigation under subsection (a) of this section, if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under section 1675(c) of this title. The Commission shall combine such review with the investigation under this section.
+&emsp;&emsp;Notwithstanding section 1675(c)(6)(A) of this title and except as provided in subparagraph (B), an interested party may request a review of an order under section 1675(c) of this title at the same time the party requests an investigation under subsection (a), if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under section 1675(c) of this title. The Commission shall combine such review with the investigation under this section.
 
 #### (B) Exception
 
@@ -120,7 +120,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (2) Cumulation
 
-&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which such investigations are treated as initiated on the same day.
+&emsp;If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title, cumulatively assess the volume and effect of imports of the subject merchandise from allcountries with respect to which such investigations are treated as initiated on the same day.
 
 #### (3) Time and procedure for Commission determination
 

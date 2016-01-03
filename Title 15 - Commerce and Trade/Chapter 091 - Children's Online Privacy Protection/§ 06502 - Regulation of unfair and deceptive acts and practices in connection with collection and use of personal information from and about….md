@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b) of this section.
+&emsp;It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b).
 
 #### (2) Disclosure to parent protected
 
-&emsp;Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator's agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) of this section to the parent of a child.
+&emsp;Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator's agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) to the parent of a child.
 
 #### (b) Regulations
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) online contact information collected from a child that is used only to respond more than once directly to a specific request from the child and is not used to recontact the child beyond the scope of that request—
 
-&emsp;&emsp;&emsp;(i) if, before any additional response after the initial response to the child, the operator uses reasonable efforts to provide a parent notice of the online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
+&emsp;&emsp;&emsp;(i) if, before any additional response after the initial response to the child, theoperator uses reasonable efforts to provide a parent notice of the online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
 
 &emsp;&emsp;&emsp;(ii) without notice to the parent in such circumstances as the Commission may determine are appropriate, taking into consideration the benefits to the child of access to information and services, and risks to the security and privacy of the child, in regulations promulgated under this subsection;
 
@@ -74,11 +74,11 @@
 
 #### (c) Enforcement
 
-Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) of this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title.
+Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 57a(a)(1)(B) of this title.
 
 #### (d) Inconsistent State law
 
-No State or local government may impose any liability for commercial activities or actions byoperators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
+No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
 (Pub. L. 105–277, div. C, title XIII, §1303, Oct. 21, 1998, 112 Stat. 2681–730.)
 

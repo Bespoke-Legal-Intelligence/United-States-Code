@@ -6,7 +6,7 @@ The Secretary is authorized to provide grants to at least 3 colleges and univers
 
 #### (b) University of North Dakota
 
-The Secretary shall provide one of the grants authorized under subsection (a) of this section to maintain the INMED program at the University of North Dakota, to be known as the "Quentin N. Burdick Indian Health Programs", unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.
+The Secretary shall provide one of the grants authorized under subsection (a) to maintain the INMED program at the University of North Dakota, to be known as the "Quentin N. Burdick Indian Health Programs", unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.
 
 #### (c) Regulations; contents of recruitment program
 
@@ -20,7 +20,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 &emsp;(C) provides summer preparatory programs for Indian students who need enrichment in the subjects of math and science in order to pursue training in the health professions,
 
-&emsp;(D) provides tutoring, counseling and support to students who are enrolled in a health career program of study at the respective college or university, and
+&emsp;(D) provides tutoring, counseling and support to students who are enrolled in a healthcareer program of study at the respective college or university, and
 
 &emsp;(E) to the maximum extent feasible, employs qualified Indians in the program.
 

@@ -2,7 +2,7 @@
 
 The Congress finds—
 
-&emsp;(1) that State and local governments represent a significant segment of the national economy whose economic health is essential to national economic prosperity;
+&emsp;(1) that State and local governments represent a significant segment of the nationaleconomy whose economic health is essential to national economic prosperity;
 
 &emsp;(2) that present national economic problems have imposed considerable hardships on State and local government budgets;
 

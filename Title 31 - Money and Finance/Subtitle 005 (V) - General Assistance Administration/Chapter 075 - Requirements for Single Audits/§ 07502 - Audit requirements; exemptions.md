@@ -1,6 +1,6 @@
 ### §7502. Audit requirements; exemptions
 
-(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
+(a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or inexcess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
 (B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) monitor the subrecipient's use of Federal awards through site visits, limited scope audits, or other means;
 
-&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
+&emsp;(C) review the audit of a subrecipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined bythe Director, pertaining to Federal awards provided to the subrecipient by the pass-through entity; and
 
 &emsp;(D) require each of its subrecipients of Federal awards to permit, as a condition of receiving Federal awards, the independent auditor of the pass-through entity to have such access to the subrecipient's records and financial statements as may be necessary for the pass-through entity to comply with this chapter.
 
@@ -98,5 +98,5 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted "section 3512(c)" 
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

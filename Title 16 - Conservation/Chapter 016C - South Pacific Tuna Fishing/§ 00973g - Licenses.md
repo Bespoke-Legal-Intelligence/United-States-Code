@@ -34,7 +34,7 @@ The Secretary, in consultation with the Secretary of State, may determine that a
 
 &emsp;(2) where the owner or charterer is the subject of proceedings under the bankruptcy laws of the United States, unless reasonable financial assurances have been provided to the Secretary;
 
-&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured against all risks and liabilities normally provided in maritime liability insurance;
+&emsp;(3) where the owner or charterer has not established to the satisfaction of the Secretary that the fishing vessel is fully insured againstall risks and liabilities normally provided in maritime liability insurance;
 
 &emsp;(4) where the owner or charterer has not paid any penalty which has become final, assessed by the Secretary in accordance with this chapter.
 
@@ -48,7 +48,7 @@ Notwithstanding the requirements of—
 
 &emsp;(3) sections 1374(h)(2) and 1416(a) of this title— <sup>1</sup>
 
-> any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) of this section may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>2</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
+> any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>2</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
 
 (Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, §801, Nov. 3, 1995, 109 Stat. 395.)
 

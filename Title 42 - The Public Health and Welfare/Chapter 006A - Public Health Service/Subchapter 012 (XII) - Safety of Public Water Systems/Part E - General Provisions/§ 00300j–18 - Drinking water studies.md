@@ -62,7 +62,7 @@ The Administrator shall conduct biomedical studies to—
 
 #### (3) Funding
 
-&emsp;There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under section 300j–12(n) ofthis title for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
+&emsp;There are authorized to be appropriated for each of the fiscal years 1997 through 2001, $3,000,000 to carry out this subsection. To the extent funds under this subsection are not fully appropriated, the Administrator may use not more than $2,000,000 of the funds from amounts reserved under section 300j–12(n) of this title for health effects studies for purposes of this subsection. The Administrator may transfer a portion of such funds to the Centers for Disease Control and Prevention for such purposes.
 
 (July 1, 1944, ch. 373, title XIV, §1458, as added Pub. L. 104–182, title I, §137, Aug. 6, 1996, 110 Stat. 1680.)
 

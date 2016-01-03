@@ -275,6 +275,10 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;&emsp;&emsp;In the case of a State that has a DSH allotment of $0 for fiscal year 2013, the DSH allotment shall be $53,100,000 for such fiscal year.
 
+#### (vi) Allotment for fiscal years 2015 through 2025
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection, any other provision of law, or the terms of the TennCare Demonstration Project in effect for the State, the DSH allotment for Tennessee for fiscal year 2015, and for each fiscal year thereafter through fiscal year 2025, shall be $53,100,000 for each such fiscal year.
+
 #### (B) Hawaii
 
 #### (i) In general
@@ -307,7 +311,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each of fiscal years 2017 through 2024 the Secretary shall effect the following reductions:
+&emsp;&emsp;&emsp;For each of fiscal years 2018 through 2025 the Secretary shall effect the following reductions:
 
 #### (I) Reduction in DSH allotments
 
@@ -321,25 +325,21 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;&emsp;The aggregate reductions in DSH allotments for all States under clause (i)(I) shall be equal to—
 
-&emsp;&emsp;&emsp;&emsp;(I) $1,800,000,000 for fiscal year 2017;
+&emsp;&emsp;&emsp;&emsp;(I) $2,000,000,000 for fiscal year 2018;
 
-&emsp;&emsp;&emsp;&emsp;(II) $4,700,000,000 for fiscal year 2018;
+&emsp;&emsp;&emsp;&emsp;(II) $3,000,000,000 for fiscal year 2019;
 
-&emsp;&emsp;&emsp;&emsp;(III) $4,700,000,000 for fiscal year 2019;
+&emsp;&emsp;&emsp;&emsp;(III) $4,000,000,000 for fiscal year 2020;
 
-&emsp;&emsp;&emsp;&emsp;(IV) $4,700,000,000 for fiscal year 2020;
+&emsp;&emsp;&emsp;&emsp;(IV) $5,000,000,000 for fiscal year 2021;
 
-&emsp;&emsp;&emsp;&emsp;(V) <sup>3</sup> $4,800,000,000 for fiscal year 2021;
+&emsp;&emsp;&emsp;&emsp;(V) $6,000,000,000 for fiscal year 2022;
 
-&emsp;&emsp;&emsp;&emsp;(VI) $5,000,000,000 for fiscal year 2022;
+&emsp;&emsp;&emsp;&emsp;(VI) $7,000,000,000 for fiscal year 2023;
 
-&emsp;&emsp;&emsp;&emsp;(VII) $5,000,000,000 for fiscal year 2023; and
+&emsp;&emsp;&emsp;&emsp;(VII) $8,000,000,000 for fiscal year 2024; and
 
-&emsp;&emsp;&emsp;&emsp;(VIII) $4,400,000,000 for fiscal year 2024.
-
-&emsp;&emsp;&emsp;&emsp;(V) <sup>3</sup> $4,000,000,000 for fiscal year 2020.
-
-&emsp;&emsp;&nbsp;The Secretary shall distribute such aggregate reductions among States in accordance with subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(VIII) $8,000,000,000 for fiscal year 2025.
 
 #### (iii) Manner of payment reduction
 
@@ -348,6 +348,10 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 #### (iv) Definition
 
 &emsp;&emsp;&emsp;In this paragraph, the term "State" means the 50 States and the District of Columbia.
+
+#### (v) Distribution of aggregate reductions
+
+&emsp;&emsp;&emsp;The Secretary shall distribute the aggregate reductions under clause (ii) among States in accordance with subparagraph (B).
 
 #### (B) DSH Health Reform methodology
 
@@ -369,7 +373,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (8) Calculation of DSH allotments after reductions period
 
-&emsp;The DSH allotment for a State for fiscal years after fiscal year 2024 shall be calculated under paragraph (3) without regard to paragraph (7).
+&emsp;The DSH allotment for a State for fiscal years after fiscal year 2025 shall be calculated under paragraph (3) without regard to paragraph (7).
 
 #### (9) "State" defined
 
@@ -495,7 +499,7 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;&emsp;(E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053;Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d),Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 114–10, title II, §219, title IV, §412, Apr. 16, 2015, 129 Stat. 153, 162.)
 
 #### References in Text
 
@@ -510,6 +514,16 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f)(6)(A)(vi). Pub. L. 114–10, §219, added cl. (vi).
+
+Subsec. (f)(7)(A)(i). Pub. L. 114–10, §412(1)(A), substituted "2018 through 2025" for "2017 through 2024" in introductory provisions.
+
+Subsec. (f)(7)(A)(ii). Pub. L. 114–10, §412(1)(B), added cl. (ii) and struck out former cl. (ii) which related to aggregate reductions for fiscal years 2017 to 2024.
+
+Subsec. (f)(7)(A)(v). Pub. L. 114–10, §412(1)(C), added cl. (v).
+
+Subsec. (f)(8). Pub. L. 114–10, §412(2), substituted "2025" for "2024".
 
 <b>2014</b>—Subsec. (f)(7)(A)(i). Pub. L. 113–93, §221(a)(1)(A), substituted "2017 through 2024" for "2016 through 2020" in introductory provisions.
 
@@ -587,7 +601,7 @@ Subsec. (f)(6)(B)(i). Pub. L. 111–3, §616(3)(A), substituted "2007 through 20
 
 <b>2008</b>—Subsec. (f)(6). Pub. L. 110–275, §202(1), substituted "fiscal years 2007 through 2009 and the first calendar quarter of fiscal year 2010" for "for fiscal year 2007 and portions of fiscal year 2008" in heading.
 
-Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only withrespect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
+Subsec. (f)(6)(A)(i). Pub. L. 110–275, §202(2)(A), in concluding provisions, substituted "fiscal years 2008 and 2009" for "fiscal year 2008 for the period ending on June 30, 2008", struck out "¾ of" before "the amount specified in the previous sentence", and inserted "Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms, shall be ¼ of the amount specified in the first sentence for fiscal year 2007." at end.
 
 Subsec. (f)(6)(A)(ii). Pub. L. 110–275, §202(2)(B), substituted ", 2008, 2009, or for a period in fiscal year 2010" for "or for a period in fiscal year 2008".
 
@@ -845,7 +859,7 @@ Period described.—The period described in this paragraph is the period that be
 
 "(4)
 
-Application to waivers.—With respect to a State operating under a waiver of the requirements of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under section 1115 of such Act (42 U.S.C. 1315), the amount by which any payment adjustment made by the State under title XIX of such Act (42 U.S.C. 1396 et seq.), after the application of section 4721(e) of the Balanced Budget Act of 1997 under paragraph (1) to such State, exceeds the costs of furnishing hospital servicesprovided by hospitals described in such section shall be fully reflected as an increase in the baseline expenditure limit for such waiver."
+Application to waivers.—With respect to a State operating under a waiver of the requirements of title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under section 1115 of such Act (42 U.S.C. 1315), the amount by which any payment adjustment made by the State under title XIX of such Act (42 U.S.C. 1396 et seq.), after the application of section 4721(e) of the Balanced Budget Act of 1997 under paragraph (1) to such State, exceeds the costs of furnishing hospital services provided by hospitals described in such section shall be fully reflected as an increase in the baseline expenditure limit for such waiver."
 
 #### Assistance for Certain Public Hospitals
 
@@ -925,11 +939,9 @@ Pub. L. 105–33, title IV, §4721(e), Aug. 5, 1997, 111 Stat. 514, as amended b
 
 #### Study of DSH Payment Adjustments
 
-Pub. L. 102–234, §3(d), Dec. 12, 1991, 105 Stat. 1803, directed Prospective Payment Assessment Commission to conduct a study concerning feasibility and desirability of establishing maximum and minimum payment adjustments under subsec. (c) of this section for hospitals deemed disproportionate share hospitals under State medicaid plans, and criteria (other than criteria described in clause (i) or (ii) of subsec. (f)(1)(D)) that are appropriate for the designation of disproportionate share hospitals under this section, specified items to be included in study, and directed that, not later than Jan. 1, 1994, Commission submit a report on the study to Committee on Finance of Senate and Committee on Energy and Commerce of House of Representatives, such report to include such recommendations respecting designation of disproportionate share hospitals and the establishment of maximum and minimum payment adjustments for such hospitals under this section as may be appropriate.
+Pub. L. 102–234, §3(d), Dec. 12, 1991, 105 Stat. 1803, directed Prospective Payment Assessment Commission to conduct a study concerning feasibility and desirability of establishing maximum and minimum payment adjustments under subsec. (c) of this section for hospitals deemed disproportionate share hospitals under State medicaid plans, and criteria (other than criteria described in clause (i) or (ii) of subsec. (f)(1)(D)) that are appropriate for the designation of disproportionate share hospitals under this section, specified items to be included in study, and directed that, not later than Jan. 1, 1994, Commission submit a report on the study to Committee on Finance of Senate and Committee onEnergy and Commerce of House of Representatives, such report to include such recommendations respecting designation of disproportionate share hospitals and the establishment of maximum and minimum payment adjustments for such hospitals under this section as may be appropriate.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by "a".</i>
-
-<i><sup>3</sup></i><i> So in original. Two subcls. (V) have been enacted.</i>
 

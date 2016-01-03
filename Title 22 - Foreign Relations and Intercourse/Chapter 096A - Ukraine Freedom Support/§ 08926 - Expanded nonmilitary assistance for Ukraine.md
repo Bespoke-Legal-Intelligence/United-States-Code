@@ -52,7 +52,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 &emsp;&emsp;&emsp;(iv) streamlining emergency communications throughout national, regional, and local governments to manage the potential energy crisis resulting from heating fuel and electricity shortages;
 
-&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of theteam's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
+&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of the team's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
 
 &emsp;&emsp;&emsp;(vi) developing a public outreach strategy to facilitate preparation by the population and communication with the population in the event of a crisis.
 
@@ -80,7 +80,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 #### (A) Plans required
 
-&emsp;&emsp;The Secretary of State, in collaboration with the Secretary of Energy and the Administrator of the United States Agency for International Development, shall work with officials of the Government of Ukraine to develop medium- and long-term plans to increase energy production and efficiency to increase energy security by helping Ukraine reduce its dependence on natural gas imported from the Russian Federation.
+&emsp;&emsp;The Secretary of State, in collaboration with the Secretary of Energy and the Administrator of the United States Agency for International Development, shall work with officials of the Government of Ukraine to develop medium- and long-term plans to increase energy production and efficiency toincrease energy security by helping Ukraine reduce its dependence on natural gas imported from the Russian Federation.
 
 #### (B) Elements
 
@@ -151,4 +151,8 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 &emsp;Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
 (Pub. L. 113–272, §7, Dec. 18, 2014, 128 Stat. 2960.)
+
+#### Delegation of Functions
+
+Functions of President under subsec. (d) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 

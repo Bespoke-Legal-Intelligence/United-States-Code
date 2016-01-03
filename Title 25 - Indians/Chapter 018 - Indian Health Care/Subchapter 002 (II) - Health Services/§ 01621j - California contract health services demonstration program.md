@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a demonstration program to evaluate the use of a contract care intermediary to improve the accessibility of health services to California Indians.
+The Secretary shall establish a demonstration program to evaluate the use of a contract careintermediary to improve the accessibility of health services to California Indians.
 
 #### (b) Agreement with California Rural Indian Health Board
 

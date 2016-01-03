@@ -24,7 +24,7 @@ No funds made available under this chapter shall be used for the purchase in bul
 
 #### (c) Agricultural commodities or products thereof available for disposition under Food for Peace Act
 
-In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and when in furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
+In providing for the procurement of any agricultural commodity or product thereof available for disposition under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], for transfer by grant under this chapter to any recipient country in accordance with its requirements, the President shall, insofar as practicable and whenin furtherance of the purposes of this chapter, authorize the procurement of such agricultural commodity only within the United States except to the extent that such agricultural commodity is not available in the United States in sufficient quantities to supply emergency requirements of recipients under this chapter.
 
 #### (d) Marine insurance
 
@@ -32,7 +32,7 @@ In providing assistance in the procurement of commodities in the United States, 
 
 #### (e) Parity for domestic commodities prior to use of funds outside United States
 
-No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside theUnited States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
+No funds made available under this chapter shall be used for the procurement of any agricultural commodity or product thereof outside the United States when the domestic price of such commodity is less than parity, unless the commodity to be financed could not reasonably be procured in the United States in fulfillment of the objectives of a particular assistance program under which such commodity procurement is to be financed.
 
 #### (f) Commodity eligibility
 
@@ -78,7 +78,7 @@ Subsec. (g). Pub. L. 96–533, §705(b), added subsec. (g).
 
 <b>1968</b>—Subsec. (f). Pub. L. 90–554 added subsec. (f).
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out "surplus" before "agricultural commodity" in three places and inserted "or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended," after "commodity" where first appearing.
+<b>1966</b>—Subsec. (c). Pub. L. 89–583, §301(b)(1), struck out "surplus" before "agricultural commodity" in threeplaces and inserted "or products thereof available for disposition under the Agricultural Trade Development and Assistance Act of 1954, as amended," after "commodity" where first appearing.
 
 Subsec. (e). Pub. L. 89–583, §301(b)(2), added subsec. (e).
 

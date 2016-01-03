@@ -18,7 +18,7 @@ Subsection (a) shall not exclude from gross income—
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not exclude from gross income any amount transferred by or for anemployer to, or for the benefit of, an employee.
+&emsp;Subsection (a) shall not exclude from gross income any amount transferred by or for an employer to, or for the benefit of, an employee.
 
 #### (2) Cross references
 

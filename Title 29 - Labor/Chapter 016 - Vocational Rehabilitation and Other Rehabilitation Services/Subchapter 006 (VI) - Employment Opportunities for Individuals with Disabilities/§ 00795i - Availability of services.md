@@ -12,7 +12,7 @@ Funds provided under this subchapter may be used to provide supported employment
 
 #### (2) Extended services for youth with the most significant disabilities
 
-&emsp;Funds allotted under this subchapter, or subchapter I, and used for the provision of services under this subchapter to youth with the most significant disabilities pursuant to section 795h(d) of this title, may be used toprovide extended services to youth with the most significant disabilities. Such extended services shall be available for a period not to exceed 4 years.
+&emsp;Funds allotted under this subchapter, or subchapter I, and used for the provision of services under this subchapter to youth with the most significant disabilities pursuant to section 795h(d) of this title, may be used to provide extended services to youth with the most significant disabilities. Such extended services shall be available for a period not to exceed 4 years.
 
 (Pub. L. 93–112, title VI, §604, as added Pub. L. 113–128, title IV, §461(6), July 22, 2014, 128 Stat. 1680.)
 

@@ -14,7 +14,7 @@
 
 (d)(1) The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of an armed force, the Deputy Administrator may not be an officer on active duty in an armed force, a retired regular officer of an armed force, or a former regular officer of an armed force.
 
-(2) The annual rate of basic pay of the Deputy Administrator shall be set by the Secretary but shall not exceed the annual rate of basic paypayable to the Administrator of the Federal Aviation Administration.
+(2) The annual rate of basic pay of the Deputy Administrator shall be set by the Secretary but shall not exceed the annual rate of basic pay payable to the Administrator of the Federal Aviation Administration.
 
 (3) An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
 
@@ -96,7 +96,7 @@ Definition of political appointee.—For purposes of this subsection, the term "
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material)and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -120,9 +120,11 @@ Salaries, operations, and maintenance.—There is authorized to be appropriated 
 
 &emsp;&emsp;(B) $9,539,000,000 for fiscal year 2013;
 
-&emsp;&emsp;(C) $9,596,000,000 for fiscal year 2014; and
+&emsp;&emsp;(C) $9,596,000,000 for fiscal year 2014;
 
-&emsp;&emsp;(D) $9,653,000,000 for fiscal year 2015.
+&emsp;&emsp;(D) $9,653,000,000 for fiscal year 2015; and
+
+&emsp;&emsp;(E) $4,870,350,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -138,7 +140,7 @@ Authorized expenditures.—Out of amounts appropriated under paragraph (1), the 
 
 &emsp;(3)
 
-Administering program within available funding.—Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+Administering program within available funding.—Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on March 31, 2016, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
 (l)
 
@@ -198,7 +200,7 @@ In general.—The Administrator is authorized—
 
 &emsp;&emsp;&emsp;(ii) research and testing sites and facilities; and
 
-&emsp;&emsp;&emsp;(iii) such other real and personal property (including office space and patents), or any interest therein, within and outsidethe continental United States as the Administrator considers necessary;
+&emsp;&emsp;&emsp;(iii) such other real and personal property (including office space and patents), or any interest therein, within and outside the continental United States as the Administrator considers necessary;
 
 &emsp;&emsp;(B) to lease to others such real and personal property; and
 
@@ -284,7 +286,7 @@ Term for air traffic control representative.—The member appointed under paragr
 
 &emsp;&emsp;(C)
 
-Terms for air traffic services committee members.—The members appointed to the Air Traffic Services Committee shallbe appointed for a term of 5 years, except that the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).
+Terms for air traffic services committee members.—The members appointed to the Air Traffic Services Committee shall be appointed for a term of 5 years, except that the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).
 
 &emsp;&emsp;(D)
 
@@ -334,7 +336,7 @@ Restrictions on post-employment.—For purposes of section 207(c) of title 18, a
 
 &emsp;&emsp;(J)
 
-Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
+Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for aterm of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
 &emsp;&emsp;(K)
 
@@ -572,7 +574,7 @@ Responsibilities.—The Administrator may delegate to the Chief Operating Office
 
 &emsp;&emsp;(A)
 
-Strategic plans.—To implement the strategic plan of the Administration for the air traffic control system in order to further—
+Strategic plans.—To implement the strategic plan of the Administration for theair traffic control system in order to further—
 
 &emsp;&emsp;&emsp;(i) a mission and objectives;
 
@@ -638,7 +640,7 @@ Compensation.—
 
 &emsp;&emsp;(A)
 
-In general.—The Chief NextGen Officer shall be paid at an annual rate of basicpay to be determined by the Administrator. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief NextGen Officer shall be subject to the postemployment provisions of section 207 of title 18 as if the position of Chief NextGen Officer were described in section 207(c)(2)(A)(i) of that title.
+In general.—The Chief NextGen Officer shall be paid at an annual rate of basic pay to be determined by the Administrator. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief NextGen Officer shall be subject to the postemployment provisions of section 207 of title 18 as if the position of Chief NextGen Officer were described in section 207(c)(2)(A)(i) of that title.
 
 &emsp;&emsp;(B)
 
@@ -768,7 +770,7 @@ Annual reports to congress.—Not later than October 1 of each year, the Directo
 
 &emsp;&emsp;(D) summaries of the responses of the Administrator to such recommendations.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272,§§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528; Pub. L. 110–330, §6, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §6, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §6, Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §6, Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §6, Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §6, Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §6, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §105, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §206, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §6, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §103, title II, §§203, 204, title III, §§306(b), 341, Feb. 14, 2012, 126 Stat. 16, 37, 61, 78; Pub. L. 112–166, §2(k)(2), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 113–188, title XV, §1501(a), Nov. 26, 2014, 128 Stat. 2023; Pub. L. 114–55, title I, §103, Sept. 30, 2015, 129 Stat. 523.)
 
 Historical and Revision Notes
 
@@ -882,7 +884,7 @@ In subsection (f), the word "Secretary" is substituted for "Administrator" becau
 
 In subsection (g), the words "are hereby transferred to" in 49:1655(c)(1) are omitted as executed. The words "carry out" are substituted for "it shall be his duty to exercise" in 49:1655(c)(1) for clarity, consistency, and to eliminate surplus words. The words "In addition to such functions, powers, and duties as are specified in this chapter" in 49:1652(e)(3) are omitted as unnecessary because of the restatement.
 
-In subsection (h), the first sentence is substituted for 49:1655(c)(1) (2d sentence) for clarity and consistency. The word "law" is substituted for "statute" in 49:1652(e)(4) for consistency. The words "carrying out" in 49:1655(c)(1) (last sentence) are substituted for "the exercise of" for consistency. The words after "administratively final" are omitted as unnecessary because of the restatement of the revised title and those laws giving a right of appeal.
+In subsection (h), the first sentence is substituted for 49:1655(c)(1) (2d sentence) for clarity and consistency. The word "law" is substituted for "statute" in 49:1652(e)(4) for consistency. The words "carrying out"in 49:1655(c)(1) (last sentence) are substituted for "the exercise of" for consistency. The words after "administratively final" are omitted as unnecessary because of the restatement of the revised title and those laws giving a right of appeal.
 
 In subsection (i), the words "and exercise the powers of" are omitted as surplus. The words "when the office of the Administrator is vacant" are inserted to conform to section 102 of the revised title.
 
@@ -908,11 +910,15 @@ The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pu
 
 #### Amendments
 
+<b>2015</b>—Subsec. (k)(1)(E). Pub. L. 114–55, §103(1), added subpar. (E).
+
+Subsec. (k)(3). Pub. L. 114–55, §103(2), inserted "and for the period beginning on October 1, 2015, and ending on March 31, 2016" after "fiscal years 2012 through 2015".
+
 <b>2014</b>—Subsec. (p)(7)(H), (I). Pub. L. 113–188 redesignated subpar. (I) as (H) and struck out former subsec. (H) which related to reports and other actions by the Air Traffic Services Committee, Administrator, and Comptroller General.
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–166, §2(k)(2)(A), substituted ", who shall be appointed" for ". The Administration has a Deputy Administrator. They are appointed".
 
-Subsec. (d)(1). Pub. L. 112–166, §2(k)(2)(B), substituted "The Administration has a Deputy Administrator, whoshall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall" for "The Deputy Administrator must".
+Subsec. (d)(1). Pub. L. 112–166, §2(k)(2)(B), substituted "The Administration has a Deputy Administrator, who shall be appointed by the President. In making an appointment, the President shall consider the fitness of the appointee to efficiently carry out the duties and powers of the office. The Deputy Administrator shall" for "The Deputy Administrator must".
 
 Subsec. (k)(1). Pub. L. 112–95, §103(a), added subpars. (A) to (D) and struck out former subpars. (A) to (H) which authorized appropriations for fiscal years 2004 through 2011 and for the period beginning Oct. 1, 2011, and ending Feb. 17, 2012.
 
@@ -1110,7 +1116,7 @@ Subsec. (r)(5)(C)(iii). Pub. L. 108–176, §203(9), inserted "agency's" before 
 
 Subsec. (r)(2)(A). Pub. L. 107–71, §101(c)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "The Chief Operating Officer shall be paid at an annual rate of basic pay equal to the annual rate of basic pay of the Administrator. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if this position were described in section 207(c)(2)(A)(i) of that title."
 
-<b>2000</b>—Subsec. (f)(3)(A). Pub. L. 106–181, §306, inserted at end "On February 1 and August 1 of each year theAdministrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken."
+<b>2000</b>—Subsec. (f)(3)(A). Pub. L. 106–181, §306, inserted at end "On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken."
 
 Subsec. (f)(3)(B)(i). Pub. L. 106–181, §305(1), (2), in introductory provisions, substituted "$250,000,000" for "$100,000,000" and "Wendell H. Ford Aviation Investment and Reform Act for the 21st Century" for "Air Traffic Management System Performance Improvement Act of 1996".
 
@@ -1194,7 +1200,7 @@ Pub. L. 103–272, §4(j)(3)(C), inserted "to the Secretary of Transportation" a
 
 <b>1992</b>—Subsec. (k). Pub. L. 102–581 substituted "1991," for "1991 and" and inserted before period at end ", $4,716,500,000 for fiscal year 1993, $5,100,000,000 for fiscal year 1994, and $5,520,000,000 for fiscal year 1995".
 
-<b>1990</b>—Subsec. (g)(1). Pub. L. 101–604 inserted "315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 ofthe Aviation Security Improvement Act of 1990)," after "312–314,".
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–604 inserted "315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990)," after "312–314,".
 
 Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
@@ -1372,7 +1378,7 @@ Pub. L. 108–176, title VII, §702, Dec. 12, 2003, 117 Stat. 2576, provided tha
 
 &emsp;"(A) the total amount of scholarships received by such individual under this section; plus
 
-&emsp;"(B) the interest on the amounts of such awards which would be payable if at the time the awardswere received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States,
+&emsp;"(B) the interest on the amounts of such awards which would be payable if at the time the awards were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States,
 
 > multiplied by 3.
 
@@ -1412,7 +1418,7 @@ Pub. L. 104–264, title II, §221, Oct. 9, 1996, 110 Stat. 3227, provided that:
 
 &emsp;"(5) Congress must keep its commitment to the users of the national air transportation system by seeking to spend all moneys collected from them each year and deposited into the Airport and Airway Trust Fund. Existing surpluses representing past receipts must also be spent for the purposes for which such funds were collected.
 
-&emsp;"(6) The aviation community and the employees of the Administration must come together to improve the system. The Administration must continue to recognize who its customers are and what their needs are, and to design and redesign the system to make safety improvements and increase productivity.
+&emsp;"(6) The aviation community and the employees of the Administration must come together to improvethe system. The Administration must continue to recognize who its customers are and what their needs are, and to design and redesign the system to make safety improvements and increase productivity.
 
 &emsp;"(7) The Administration projects that commercial operations will increase by 18 percent and passenger traffic by 35 percent by the year 2002. Without effective airport expansion and system modernization, these needs cannot be met.
 
@@ -1446,7 +1452,7 @@ Pub. L. 104–264, title II, §222, Oct. 9, 1996, 110 Stat. 3229, provided that:
 
 &emsp;"(3) to establish a more autonomous and accountable Administration within the Department of Transportation; and
 
-&emsp;"(4) to make the Administration a more efficient and effective organization, able to meet the needs ofa dynamic, growing industry, and to ensure the safety of the traveling public."
+&emsp;"(4) to make the Administration a more efficient and effective organization, able to meet the needs of a dynamic, growing industry, and to ensure the safety of the traveling public."
 
 #### Preservation of Existing Authority
 
@@ -1458,7 +1464,7 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 
 #### Dependents of Federal Aviation Administration Personnel
 
-Pub. L. 106–346, §101(a) \[title III, §303\], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, provided that: "Hereafter, funds appropriated under this or any other Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7701 et seq.), for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis."
+Pub. L. 106–346, §101(a) \[title III, §303\], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, as amended by Pub. L. 114–95, title IX, §9215(x), Dec. 10, 2015, 129 Stat. 2172, provided that: "Hereafter, funds appropriated under this or any other Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\], for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -1560,7 +1566,7 @@ Pub. L. 99–500, title V, §§501–507, Oct. 18, 1986, 100 Stat. 1783–370 to
 
 #### Appointment of Retired Military Officer as Administrator
 
-Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: "That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards' appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States AirForce, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
+Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: "That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards' appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
 
 "
 

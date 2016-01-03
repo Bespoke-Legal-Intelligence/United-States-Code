@@ -28,7 +28,7 @@ The Institute shall not—
 
 #### (c) Identification of Institute with political activities
 
-Officers and employees of the Institute or of recipients shall not at any time intentionally identify the Institute or the recipient with anypartisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
+Officers and employees of the Institute or of recipients shall not at any time intentionally identify the Institute or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
 
 (Pub. L. 98–620, title II, §208, Nov. 8, 1984, 98 Stat. 3343.)
 

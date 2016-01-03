@@ -68,7 +68,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (6) Maximum interest rate
 
-&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceeda maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
+&emsp;The interest payable on the mortgage is established at a fixed rate that does not exceed a maximum rate of interest established by the Trust taking into consideration prevailing interest rates on similar mortgages.
 
 #### (7) Responsible mortgagee
 

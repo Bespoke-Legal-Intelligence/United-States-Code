@@ -20,11 +20,11 @@ It is unlawful—
 
 #### (1) Civil penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of thissection shall be subject to a civil penalty under section 1375(a) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) shall be subject to a civil penalty under section 1375(a) of this title.
 
 #### (2) Criminal penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) of this section shall be subject to a criminal penalty under section 1375(b) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under section 1375(b) of this title.
 
 #### (c) Civil forfeitures
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec.
 
 &emsp;"(2) in the case of tuna or a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean, it is dolphin safe under subsection (d)(2) of section 1385 of this title;
 
-&emsp;"(3) in the case of tuna or a tuna product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel, it is accompanied by a written statement executed by the captain of the vessel certifying that no purse seine net was intentionally deployed on or to encircle dolphins during the particular voyage on which the tuna was harvested; and
+&emsp;"(3) in the case of tuna or a tuna product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel, it is accompanied by a written statement executed by the captain ofthe vessel certifying that no purse seine net was intentionally deployed on or to encircle dolphins during the particular voyage on which the tuna was harvested; and
 
 &emsp;"(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested."
 

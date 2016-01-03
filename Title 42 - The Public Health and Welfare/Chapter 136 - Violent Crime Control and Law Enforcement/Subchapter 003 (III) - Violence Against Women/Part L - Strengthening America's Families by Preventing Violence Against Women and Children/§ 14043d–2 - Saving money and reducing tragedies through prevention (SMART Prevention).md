@@ -78,7 +78,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 &emsp;&emsp;(A) include outcome-based evaluation; and
 
-&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explainhow the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
+&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explain how the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
 
 #### (e) Definitions and grant conditions
 
@@ -102,7 +102,7 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleXVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

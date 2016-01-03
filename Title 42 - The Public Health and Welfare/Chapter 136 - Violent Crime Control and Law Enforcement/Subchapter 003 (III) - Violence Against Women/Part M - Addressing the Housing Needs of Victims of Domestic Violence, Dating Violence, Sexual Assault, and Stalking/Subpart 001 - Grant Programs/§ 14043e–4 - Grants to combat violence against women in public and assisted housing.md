@@ -98,7 +98,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 #### (B) Notification
 
-&emsp;&emsp;Public housing agencies must provide notice to tenants of their rights under this section, including their right to confidentialityand the limits thereof, and to owners and managers of their rights and obligations under this section.
+&emsp;&emsp;Public housing agencies must provide notice to tenants of their rights under this section, including their right to confidentiality and the limits thereof, and to owners and managers of their rights and obligations under this section.
 
 #### (f) Use of funds
 

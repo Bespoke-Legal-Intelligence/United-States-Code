@@ -36,7 +36,7 @@ Term of Office.—Each member of the Council appointed under paragraphs (1) and 
 
 (d)
 
-Vacancies.—A vacancy in the Council shall not affect its powers, but shall be filled, not later than 60 days after the vacancy commences, in the same manner as the original appointment (and for the balance of the unexpired term).
+Vacancies.—A vacancy in the Council shall not affect its powers, but shall be filled, notlater than 60 days after the vacancy commences, in the same manner as the original appointment (and for the balance of the unexpired term).
 
 (e)
 

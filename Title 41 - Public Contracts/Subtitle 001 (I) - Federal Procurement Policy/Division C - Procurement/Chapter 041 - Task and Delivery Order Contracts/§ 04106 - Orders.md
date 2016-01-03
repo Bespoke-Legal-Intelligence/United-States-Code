@@ -52,7 +52,7 @@ Protests.—
 
 &emsp;(1)
 
-Protest not authorized.—A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for—
+Protest not authorized.—A protest is not authorized in connection with the issuanceor proposed issuance of a task or delivery order except for—
 
 &emsp;&emsp;(A) a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued; or
 

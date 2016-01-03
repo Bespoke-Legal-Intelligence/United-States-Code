@@ -36,7 +36,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup> of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup>of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
 
 #### (3) Clarification: competitive safeguards
 

@@ -14,7 +14,7 @@
 
 (d)(1) Enforcement of an order authorizing such abandonment shall be stayed until the time for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
 
-(2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
+(2) If an order authorizing such abandonment is appealed, the court, on request of a party ininterest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
 
 (e)(1) In authorizing any abandonment of a railroad line under this section, the court shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1984 Amendment
 

@@ -44,7 +44,7 @@ As used in this chapter—
 
 &emsp;(12) "chief executive" means the highest official of a State or local jurisdiction;
 
-&emsp;(13) "cost of construction" means all expenses found by the Director to be necessary for the construction of the project, including architect and engineering fees, but excluding land acquisition costs;
+&emsp;(13) "cost of construction" means all expenses found by the Director to be necessary for the construction of the project, includingarchitect and engineering fees, but excluding land acquisition costs;
 
 &emsp;(14) "population" means total resident population based on data compiled by the United States Bureau of the Census and referable to the same point or period in time;
 
@@ -88,7 +88,7 @@ Where appropriate, the definitions in subsection (a) of this section shall be ba
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, §1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849;Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, §1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964.)
 
 #### Codification
 
@@ -136,7 +136,7 @@ Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
 <b>1990</b>—Subsec. (a)(22), (23). Pub. L. 101–647 added pars. (22) and (23).
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–219 substituted "<i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands." for "<i>Provided</i>, That for the purposes of section 3756(a) of this title American Samoa, Guam, and the Northern Mariana Islands shallbe considered as one State and that, for these purposes, 33 per centum of the amounts allocated shall be allocated to American Samoa, 50 per centum to Guam, and 17 per centum to the Northern Mariana Islands;".
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–219 substituted "<i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands." for "<i>Provided</i>, That for the purposes of section 3756(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State and that, for these purposes, 33 per centum of the amounts allocated shall be allocated to American Samoa, 50 per centum to Guam, and 17 per centum to the Northern Mariana Islands;".
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–690 substituted "section 3756(a)" for "section 3747(a)".
 
@@ -180,7 +180,7 @@ Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance
 
 &emsp;"(B)
 
-Heart attacks, strokes, and vascular ruptures.—Section 1201(k) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796(k)\], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003."
+Heart attacks, strokes, and vascular ruptures.—Section 1201(k) of title I of the OmnibusCrime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796(k)\], as amended by this section, shall apply to heart attacks, strokes, and vascular ruptures sustained on or after December 15, 2003."
 
 \[Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(7) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.\]
 

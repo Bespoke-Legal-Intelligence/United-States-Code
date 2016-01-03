@@ -6,7 +6,7 @@ If a corporation, in any taxable year, files with the Secretary a statement, as 
 
 #### (b) Contents of statement
 
-The statement shall be filed at such time and in such manner and form as the Secretary may by regulations prescribe. Such statement shall set forth that the corporation expects to have a net operating loss carryback, as provided in section 172(b), from the taxable year in which such statement is made, and shall set forth, in such detail and with such supporting data and explanation as such regulations shall require—
+The statement shall be filed at such time and in such manner and form as the Secretary may by regulations prescribe. Such statement shallset forth that the corporation expects to have a net operating loss carryback, as provided in section 172(b), from the taxable year in which such statement is made, and shall set forth, in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) the estimated amount of the expected net operating loss;
 
@@ -28,7 +28,7 @@ The amount the time for payment of which may be extended under subsection (a) wi
 
 The extension of time for payment provided in this section shall expire—
 
-&emsp;(1) on the last day of the month in which falls the last date prescribed by law (includingany extension of time granted the taxpayer) for the filing of the return for the taxable year of the expected net operating loss, or
+&emsp;(1) on the last day of the month in which falls the last date prescribed by law (including any extension of time granted the taxpayer) for the filing of the return for the taxable year of the expected net operating loss, or
 
 &emsp;(2) if an application for tentative carryback adjustment provided in section 6411 with respect to such loss is filed before the expiration of the period prescribed in paragraph (1), on the date on which notice is mailed by certified mail or registered mail by the Secretary to the taxpayer that such application is allowed or disallowed in whole or in part.
 

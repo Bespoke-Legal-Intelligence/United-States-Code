@@ -78,7 +78,7 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140;amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927.)
 
 #### References in Text
 

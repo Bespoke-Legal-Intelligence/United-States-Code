@@ -76,7 +76,7 @@ With respect to any standard or protocol developed under subsection (a) that has
 
 #### References in Text
 
-March 23, 2010, referred to in subsec. (a)(1), was in the original "the date of enactment of this title", which was translated as meaning the date of enactment of Pub. L. 111–148, which enacted this part, to reflect the probable intent of Congress.
+March 23, 2010, referred to in subsec. (a)(1), was in the original "the date of enactment of this title", whichwas translated as meaning the date of enactment of Pub. L. 111–148, which enacted this part, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

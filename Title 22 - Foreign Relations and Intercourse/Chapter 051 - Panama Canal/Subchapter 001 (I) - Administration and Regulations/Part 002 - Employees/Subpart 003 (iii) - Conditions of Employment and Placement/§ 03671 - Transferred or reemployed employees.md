@@ -60,7 +60,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 (C)(i) Any teacher in a department or agency of the United States may be granted a sabbatical under this paragraph only if the teacher agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of two consecutive years.
 
-(ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+(ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teachershall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
 (Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, §3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3550(d)(2)(C), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 

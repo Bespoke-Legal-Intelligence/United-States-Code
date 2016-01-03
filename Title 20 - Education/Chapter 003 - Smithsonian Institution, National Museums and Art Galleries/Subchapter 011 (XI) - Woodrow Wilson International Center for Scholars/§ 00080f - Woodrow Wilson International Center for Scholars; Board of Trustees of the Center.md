@@ -38,7 +38,7 @@ Each member of the Board of Trustees appointed under paragraph (10) of subsectio
 
 The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
 
-(Pub. L. 90–637, §3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, §206, Oct. 7, 1978, 92 Stat. 975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(i), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 90–637, §3, Oct. 24, 1968, 82 Stat. 1357; Pub. L. 95–426, title II, §206, Oct. 7, 1978, 92 Stat.975; Pub. L. 101–268, Apr. 9, 1990, 104 Stat. 132; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(i), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 #### Amendments
 

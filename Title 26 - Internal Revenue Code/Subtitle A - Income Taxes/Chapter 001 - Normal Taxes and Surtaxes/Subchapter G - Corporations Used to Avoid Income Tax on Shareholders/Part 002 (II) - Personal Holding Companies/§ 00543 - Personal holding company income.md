@@ -38,7 +38,7 @@ For purposes of this subtitle, the term "personal holding company income" means 
 
 &emsp;&emsp;&emsp;(iii) the consent dividends for the taxable year (determined under section 565),
 
-> &emsp;equals or exceeds the amount, if any, by which the personal holding company income for the taxable year (computed without regard to this paragraph and paragraph (6), and computed by including as personal holding company income copyright royalties and the adjusted income from mineral, oil, and gas royalties) exceeds 10 percent of the ordinary gross income.
+> &emsp;equals or exceeds the amount, if any, by which the personal holding company income for the taxable year (computed without regard to this paragraph and paragraph (6), and computed by including as personal holding company incomecopyright royalties and the adjusted income from mineral, oil, and gas royalties) exceeds 10 percent of the ordinary gross income.
 
 #### (3) Mineral, oil, and gas royalties
 
@@ -100,7 +100,7 @@ For purposes of this subtitle, the term "personal holding company income" means 
 
 &emsp;&emsp;&emsp;(i) without regard to subparagraph (A) or paragraph (2),
 
-&emsp;&emsp;&emsp;(ii) by excluding amounts received as compensation for the use of (or right to use) intangible property (other than mineral, oil, or gas royalties or copyright royalties) if a substantial part of the tangible property used in connection with such intangible property is owned by the corporation and all such tangible and intangible property is used in the active conduct of a trade or business by an individual or individuals described in subparagraph (A), and
+&emsp;&emsp;&emsp;(ii) by excluding amounts received as compensation for the use of (or right touse) intangible property (other than mineral, oil, or gas royalties or copyright royalties) if a substantial part of the tangible property used in connection with such intangible property is owned by the corporation and all such tangible and intangible property is used in the active conduct of a trade or business by an individual or individuals described in subparagraph (A), and
 
 &emsp;&emsp;&emsp;(iii) by including copyright royalties and adjusted income from mineral, oil, and gas royalties.
 
@@ -182,7 +182,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) produced film rents (as defined in subsection (a)(5)(B)),
 
-&emsp;&emsp;(D) compensation, however designated, for the use of, or the right to use, any tangible personal property manufactured or produced by the taxpayer, if during the taxable year the taxpayer is engaged in substantial manufacturing or production of tangible personal property of the same type, or
+&emsp;&emsp;(D) compensation, however designated, for the use of, or the right to use, any tangiblepersonal property manufactured or produced by the taxpayer, if during the taxable year the taxpayer is engaged in substantial manufacturing or production of tangible personal property of the same type, or
 
 &emsp;&emsp;(E) active business computer software royalties (as defined in subsection (d)).
 
@@ -338,7 +338,7 @@ Subsec. (a)(6). Pub. L. 94–455, §2106(a), redesignated existing provisions as
 
 Subsec. (b)(2)(A), (B), (D). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, ordesign, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
+<b>1966</b>—Subsec. (a)(2). Pub. L. 89–809, §206(b)(1), struck out provision that royalties received for the use of, or for the privilege of using, a patent, invention, model, or design, secret formula, process, or other similar property right be treated as rent if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers and if the amount constituting rent from such leases to customers meets the requirement of subparagraph (A).
 
 Subsec. (b)(1)(C). Pub. L. 89–809, §104(h)(2), added subpar. (C).
 
@@ -406,7 +406,7 @@ Pub. L. 94–455, title XXI, §2106(b), Oct. 4, 1976, 90 Stat. 1903, provided th
 
 #### Effective Date of 1966 Amendment
 
-Amendment by section 104(h)(2) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
+Amendment by section 104(h)(2) of Pub. L. 89–809 applicable with respect to taxable years beginning afterDec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 Pub. L. 89–809, title II, §206(c), Nov. 13, 1966, 80 Stat. 1579, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\]. Such amendments shall also apply, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may prescribe), to taxable years beginning on or before such date and ending after December 31, 1965."
 

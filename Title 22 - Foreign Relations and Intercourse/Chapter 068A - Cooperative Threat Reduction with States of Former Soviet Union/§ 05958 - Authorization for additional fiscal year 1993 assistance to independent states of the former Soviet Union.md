@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated for fiscal year 1993 for "Operatio
 
 #### (b) Authorization of transfer of funds
 
-The Secretary of Defense may, to the extent provided in appropriations Acts, transfer fromthe account "Operation and Maintenance, Defense Agencies" for fiscal year 1993 a sum not to exceed the amount appropriated pursuant to the authorization in subsection (a) to—
+The Secretary of Defense may, to the extent provided in appropriations Acts, transfer from the account "Operation and Maintenance, Defense Agencies" for fiscal year 1993 a sum not to exceed the amount appropriated pursuant to the authorization in subsection (a) to—
 
 &emsp;(1) other accounts of the Department of Defense for the purpose of providing assistance to the independent states of the former Soviet Union; or
 

@@ -124,7 +124,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (4) Application requirements
 
-&emsp;To be eligible for a grant under this subsection, a regional partnership shall submit to the Secretary a written application containing the following:
+&emsp;To be eligible for a grant under this subsection, a regional partnership shall submit tothe Secretary a written application containing the following:
 
 &emsp;&emsp;(A) Recent evidence demonstrating that substance abuse has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.
 
@@ -216,7 +216,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;&emsp;(ii) The Administrator of the Substance Abuse and Mental Health Services Administration.
 
-&emsp;&emsp;&emsp;(iii) Representatives of States in which a State agency described in clause (i) or (ii) of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
+&emsp;&emsp;&emsp;(iii) Representatives of States in which a State agency described in clause (i) or (ii)of paragraph (2)(A) is a member of a regional partnership that is a grant recipient under this subsection.
 
 &emsp;&emsp;&emsp;(iv) Representatives of Indian tribes, tribal consortia, or tribal child welfare agencies that are members of a regional partnership that is a grant recipient under this subsection.
 
@@ -304,7 +304,7 @@ Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meetadditional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2008 Amendment
 

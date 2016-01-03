@@ -34,7 +34,7 @@
 
 &emsp;(2) files a waiver of such pay in accordance with section 5305 of this title in the amount of such pension or compensation before the end of the one-year period beginning on the date such person is notified by the Secretary of such person's eligibility for such pension or compensation,
 
-> the retired or retirement pay of such person shall be exempt from taxation, as provided in subsection (a) of this section, in an amount equal to the amount of pension or compensation which would have been paid to such person but for the receipt by such person of such pay.
+> the retired or retirement pay of such person shall be exempt from taxation, as provided insubsection (a) of this section, in an amount equal to the amount of pension or compensation which would have been paid to such person but for the receipt by such person of such pay.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1229, §3101; Pub. L. 94–502, title VII, §701, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–479, title III, §301, Oct. 18, 1978, 92 Stat. 1564; Pub. L. 97–295, §4(74), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–576, title V, §504, title VII, §701(68), Oct. 28, 1986, 100 Stat. 3286, 3296; Pub. L. 101–189, div. A, title XIV, §1404(b)(2), Nov. 29, 1989, 103 Stat. 1586; Pub. L. 102–25, title VII, §705(c)(2), Apr. 6, 1991, 105 Stat. 120; renumbered §5301 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(2), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(1), (2)(A)(vii), (b)(1), (2)(E), (4)(C), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–86, title V, §505(a), Aug. 14, 1991, 105 Stat. 426; Pub. L. 108–183, title VII, §702, Dec. 16, 2003, 117 Stat. 2671.)
 

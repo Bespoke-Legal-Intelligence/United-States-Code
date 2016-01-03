@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 92–128, §1(a), designated existing first and second pars
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–294, §1, Oct. 12, 2000, 114 Stat. 1038, provided that: "This Act \[enacting section 4048 of this title and amending section 4013 of this title\] may be cited as the 'Federal Prisoner Health Care Copayment Act of 2000'."
+Pub. L. 106–294, §1, Oct. 12, 2000, 114 Stat. 1038, provided that: "This Act \[enacting section 4048 of this titleand amending section 4013 of this title\] may be cited as the 'Federal Prisoner Health Care Copayment Act of 2000'."
 
 #### Short Title of 1998 Amendment
 

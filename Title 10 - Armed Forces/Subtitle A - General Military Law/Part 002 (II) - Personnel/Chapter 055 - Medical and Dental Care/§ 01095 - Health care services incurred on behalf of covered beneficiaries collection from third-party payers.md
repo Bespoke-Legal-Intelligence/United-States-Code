@@ -2,7 +2,7 @@
 
 (a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
-(2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
+(2) A covered beneficiary may not be required to pay an additional amount to the UnitedStates for health care services by reason of this section.
 
 (b) No provision of any insurance, medical service, or health plan contract or agreement having the effect of excluding from coverage or limiting payment of charges for certain care shall operate to prevent collection by the United States under subsection (a) if that care is provided—
 
@@ -56,7 +56,7 @@
 
 (4) The Secretary may provide for contacting employers of covered beneficiaries to obtain group health plan information comparable to the information authorized to be obtained under section 1862(b)(5)(C) of the Social Security Act (42 U.S.C. 1395y(b)(5)(C)). Notwithstanding clause (iii) of such section, clause (ii) of such section regarding the imposition of civil money penalties shall apply to the collection of information under this paragraph.
 
-(5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
+(5) Information obtained under this subsection may not be disclosed for any purpose other thanto carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
 
 (Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, §1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, §900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
 
@@ -78,7 +78,7 @@ Another section 1095 was renumbered section 1095a of this title.
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: "Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report specifying for each facility of the uniformed services the amount credited to the facility under this subsection during the preceding fiscal year."
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §716(c)(1)(A), substituted "reasonable charges for" for "the reasonablecosts of", "such charges" for "such costs", and "a reasonable charge for" for "the reasonable cost of".
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §716(c)(1)(A), substituted "reasonable charges for" for "the reasonable costs of", "such charges" for "such costs", and "a reasonable charge for" for "the reasonable cost of".
 
 Subsec. (g)(1). Pub. L. 106–65, §716(c)(1)(B), struck out "the costs of" after "any other payer for".
 
@@ -136,7 +136,7 @@ Subsecs. (h), (i). Pub. L. 101–510, §713(c), added subsecs. (h) and (i) and s
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–189, §727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec. (g) by insertion of "the term" after "In this section," was executed by making the insertion in subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, §727(a)(1), see below.
+Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec. (g) by insertion of "the term" after "In this section," was executed by making the insertion in subsec. (h) to reflect the probable intent ofCongress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, §727(a)(1), see below.
 
 Pub. L. 101–189, §727(a)(1), redesignated subsec. (g) as (h).
 

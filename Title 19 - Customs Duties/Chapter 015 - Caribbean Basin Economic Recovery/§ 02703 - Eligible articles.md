@@ -2,7 +2,7 @@
 
 #### (a) Growth, product, or manufacture of beneficiary countries
 
-(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3), the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -24,9 +24,9 @@
 
 > Such phrase does not include costs which are not directly attributable to the merchandise concerned or are not costs of manufacturing the product, such as (i) profit, and (ii) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
 
-(4) Notwithstanding section 1311 of this title, the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond for processing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
+(4) Notwithstanding section 1311 of this title, the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond forprocessing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
 
-(5) The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b) of this section) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
+(5) The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b)) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
 
 &emsp;(A) the article is imported directly from the beneficiary country into the customs territory of the United States,
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(E) watches and watch parts (including cases, bracelets, and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
 
-&emsp;&emsp;(F) articles to which reduced rates of duty apply under subsection (h) of this section.
+&emsp;&emsp;(F) articles to which reduced rates of duty apply under subsection (h).
 
 #### (2) Transition period treatment of certain textile and apparel articles
 
@@ -80,7 +80,7 @@
 
 #### (ii) Other apparel articles assembled in one or more CBTPA beneficiary countries
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in theUnited States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.
 
 #### (iii) Certain knit apparel articles
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;Textile luggage—
 
-&emsp;&emsp;&emsp;&emsp;(I) assembled in a CBTPA beneficiary country from fabric wholly formed and cut in the United States, from yarns wholly formed in the United States, that is entered under subheading 9802.00.80 of the HTS; or
+&emsp;&emsp;&emsp;&emsp;(I) assembled in a CBTPA beneficiary country from fabric wholly formed andcut in the United States, from yarns wholly formed in the United States, that is entered under subheading 9802.00.80 of the HTS; or
 
 &emsp;&emsp;&emsp;&emsp;(II) assembled from fabric cut in a CBTPA beneficiary country from fabric wholly formed in the United States from yarns wholly formed in the United States.
 
@@ -190,7 +190,7 @@
 
 #### (C) Handloomed, handmade, and folklore articles
 
-&emsp;&emsp;For purposes of subparagraph (A)(vi), the President shall consult with representativesof the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex.
+&emsp;&emsp;For purposes of subparagraph (A)(vi), the President shall consult with representatives of the CBTPA beneficiary countries concerned for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, handmade, or folklore goods of a kind described in section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex.
 
 #### (D) Penalties for transshipments
 
@@ -228,7 +228,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred to in any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii), the tariff treatment accorded at any time during the transition period to any article referred toin any of subparagraphs (B) through (F) of paragraph (1) that is a CBTPA originating good shall be identical to the tariff treatment that is accorded at such time under Annex 302.2 of the NAFTA to an article described in the same 8-digit subheading of the HTS that is a good of Mexico and is imported into the United States.
 
 #### (ii) Exception
 
@@ -240,11 +240,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the article of footwear is the growth, product, or manufacture of a CBTPA beneficiary country; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the article otherwise meets the requirements of subsection (a) of this section, except that in applying such subsection, "CBTPA beneficiary country" shall be substituted for "beneficiary country" each place it appears.
+&emsp;&emsp;&emsp;&emsp;(II) the article otherwise meets the requirements of subsection (a), except that in applying such subsection, "CBTPA beneficiary country" shall be substituted for "beneficiary country" each place it appears.
 
 #### (B) Relationship to subsection (h) duty reductions
 
-&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
 #### (4) Customs procedures
 
@@ -252,7 +252,7 @@
 
 #### (i) Regulations
 
-&emsp;&emsp;&emsp;Any importer that claims preferential treatment under paragraph (2) or (3) shallcomply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
+&emsp;&emsp;&emsp;Any importer that claims preferential treatment under paragraph (2) or (3) shall comply with customs procedures similar in all material respects to the requirements of Article 502(1) of the NAFTA as implemented pursuant to United States law, in accordance with regulations promulgated by the Secretary of the Treasury.
 
 #### (ii) Determination
 
@@ -300,7 +300,7 @@
 
 #### (B) CBTPA beneficiary country
 
-&emsp;&emsp;The term "CBTPA beneficiary country" means any "beneficiary country", as defined in section 2702(a)(1)(A) of this title, which the President designates as a CBTPA beneficiary country, taking into account the criteria contained in subsections (b) and (c) of section 2702 of this title and other appropriate criteria, including the following:
+&emsp;&emsp;The term "CBTPA beneficiary country" means any "beneficiary country", as definedin section 2702(a)(1)(A) of this title, which the President designates as a CBTPA beneficiary country, taking into account the criteria contained in subsections (b) and (c) of section 2702 of this title and other appropriate criteria, including the following:
 
 &emsp;&emsp;&emsp;(i) Whether the beneficiary country has demonstrated a commitment to—
 
@@ -440,7 +440,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (2) In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 \[19 U.S.C. 2252(f)\] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of subsections <sup>1</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
+(3) For purposes of subsections <sup>1</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], thesuspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
@@ -512,7 +512,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to theCode, see Short Title note set out under section 2701 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
 
@@ -602,7 +602,7 @@ Subsec. (b)(2)(A)(vii)(V). Pub. L. 107–210, §3107(a)(6), added subcl. (V).
 
 Subsec. (b)(2)(A)(ix). Pub. L. 107–210, §3107(a)(7), added cl. (ix).
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–200, §211(e)(1)(B), inserted "and except as provided in subsection (b)(2) and (3) of this section," after "Tax Reform Act of 1986," in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–200, §211(e)(1)(B), inserted "and except as provided in subsection (b)(2) and (3)," after "Tax Reform Act of 1986," in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 106–200, §212(1), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
@@ -618,7 +618,7 @@ Subsec. (b). Pub. L. 106–200, §211(a), inserted heading and amended text gene
 
 &emsp;"(4) petroleum, or any product derived from petroleum, provided for in headings 2709 and 2710 of the Harmonized Tariff Schedule of the United States;
 
-&emsp;"(5) watches and watch parts (including cases, bracelets and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
+&emsp;"(5) watches and watch parts (including cases, bracelets and straps), of whatever type including, butnot limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
 
 &emsp;"(6) articles to which reduced rates of duty apply under subsection (h) of this section."
 
@@ -648,7 +648,7 @@ Subsec. (e)(2). Pub. L. 100–418, §1401(b)(2)(B), substituted "section 202(f)"
 
 Subsec. (e)(3). Pub. L. 100–418, §1401(b)(2)(C), substituted "section 203" for "(a) and (c) of section 203".
 
-Subsec. (e)(4). Pub. L. 100–418, §1401(b)(2)(D), substituted "taken under section 203" for "made under subsections (a) and (c) of section 203", "under section202(b) of the Trade Act of 1974" for "under section 201(b) of the Trade Act of 1974", and "under such section" for "under section 201(b) of such Act".
+Subsec. (e)(4). Pub. L. 100–418, §1401(b)(2)(D), substituted "taken under section 203" for "made under subsections (a) and (c) of section 203", "under section 202(b) of the Trade Act of 1974" for "under section 201(b) of the Trade Act of 1974", and "under such section" for "under section 201(b) of such Act".
 
 Subsec. (e)(5)(A). Pub. L. 100–418, §1401(b)(2)(E)(i), substituted "action taken under section 203" for "proclamation issued pursuant to section 203".
 
@@ -700,7 +700,7 @@ Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 app
 
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–210, div. C, title XXXI, §3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: "The amendment made by subsection (a)(3) \[amending this section\] shall take effect on October 1, 2002."
+Pub. L. 107–210, div. C, title XXXI, §3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: "The amendmentmade by subsection (a)(3) \[amending this section\] shall take effect on October 1, 2002."
 
 Pub. L. 107–206, title III, §3001(c), Aug. 2, 2002, 116 Stat. 910, provided that: "Subsection (b) \[enacting provisions set out as a note under section 3203 of this title\] and the amendments made by subsection (a) \[amending this section\] shall take effect—
 
@@ -894,7 +894,7 @@ Drawbacks.—
 
 &emsp;"(1) For purposes of subsections (b) and (j)(2) of section 313 of the Tariff Act of 1930 (19 U.S.C. 1313), as amended by section 1888(2) of this Act, any ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States \[not classified to the Code\]) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) which is subject to the additional duty imposed by item 901.50 of the Appendix to such Schedules may be treated as being fungible with, or of being of the same kind and quality as, any other imported ethyl alcohol (provided for in item 427.88 of such Schedules) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) only if such other imported ethyl alcohol or mixture thereof is also subject to such additional duty.
 
-&emsp;"(2) Paragraph (1) shall not apply with respect to ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States) or mixture containing such ethly \[ethyl\] alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) that is exempt from the additional duty imposed by item 901.50 of the Appendix to such Schedules by reason of—
+&emsp;"(2) Paragraph (1) shall not apply with respect to ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States) or mixture containing such ethly \[ethyl\] alcohol (provided for in part 1,2, or 10 of schedule 4 of such Schedules) that is exempt from the additional duty imposed by item 901.50 of the Appendix to such Schedules by reason of—
 
 &emsp;&emsp;"(A) subsection (b), or
 
@@ -930,13 +930,13 @@ Sec. 3. <i>Certain Interlinings</i>. The Committee is authorized to exercise the
 
 Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1) of the AGOA (19 U.S.C. 3721(a) and 3722(a)(1)), the USTR is authorized to direct the Commissioner to take such actions as may be necessary to ensure that textile and apparel articles described in section 112(b) of the AGOA (19 U.S.C. 3721(b)) that are entered, or withdrawn from warehouse, for consumption are accompanied by an appropriate export visa, if the preferential treatment described in section 112(a) of the AGOA is claimed with respect to such articles.
+Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1) of the AGOA (19 U.S.C. 3721(a) and3722(a)(1)), the USTR is authorized to direct the Commissioner to take such actions as may be necessary to ensure that textile and apparel articles described in section 112(b) of the AGOA (19 U.S.C. 3721(b)) that are entered, or withdrawn from warehouse, for consumption are accompanied by an appropriate export visa, if the preferential treatment described in section 112(a) of the AGOA is claimed with respect to such articles.
 
 #### Part II—Implementation of the CBTPA
 
 Sec. 6. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(aa) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(aa)), as added by section 211(a) of the CBTPA, to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the USTR are jointly authorized to exercise the authority vested in the President under sections 213(b)(2)(A)(v)(II)(bb), (cc), and (ee) of the CBERA (19 U.S.C. 2703(b)(2)(A)(v)(II)(bb), (cc), and (ee)), as added by section 211(a) of the CBTPA, to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(v)(II)(bb) of the CBERA to obtain advice from the USITC.
 
-Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that theCommittee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 7. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 213(b)(2)(A)(vii)(II)(cc) of the CBERA (19 U.S.C. 2703(b)(2)(A)(vii)(II)(cc)), as added by section 211(a) of the CBTPA, to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 8. <i>Handloomed, Handmade, and Folklore Articles</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 213(b)(2)(C) of the CBERA (19 U.S.C. 2703(b)(2)(C)), as added by section 211(a) of the CBTPA, to consult with representatives of CBTPA beneficiary countries for the purpose of identifying particular textile and apparel goods that are mutually agreed upon as being handloomed, hand made, or folklore goods within the meaning of that section. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 

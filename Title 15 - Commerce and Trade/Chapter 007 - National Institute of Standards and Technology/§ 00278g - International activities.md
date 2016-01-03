@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance to foreign nationals
 
-The Secretary is authorized, notwithstanding any other provision of law, to expend such sums,within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
+The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
 
 #### (b) Foreign assistance and compensation to Institute employees
 

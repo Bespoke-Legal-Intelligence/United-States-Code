@@ -28,7 +28,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;(C) the amount necessary to amortize each waived funding deficiency (within the meaning of section 412(c)(3)) for each prior plan year in equal annual installments (until fully amortized) over a period of 15 plan years,
 
-&emsp;&emsp;(D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under section 412(b)(3)(D) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006), and
+&emsp;&emsp;(D) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 5 plan years any amount credited to the funding standard account under section 412(b)(3)(D) (as in effecton the day before the date of the enactment of the Pension Protection Act of 2006), and
 
 &emsp;&emsp;(E) the amount necessary to amortize in equal annual installments (until fully amortized) over a period of 20 years the contributions which would be required to be made under the plan but for the provisions of section 412(c)(7)(A)(i)(I) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006).
 
@@ -90,7 +90,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (D) Interim withdrawal liability payments
 
-&emsp;&emsp;Any amount paid by an employer pending a final determination of the employer's withdrawal liability under part 1 of subtitle E of title IV of such Act and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;Any amount paid by an employer pending a final determination of the employer'swithdrawal liability under part 1 of subtitle E of title IV of such Act and subsequently refunded to the employer by the plan shall be charged to the funding standard account in accordance with regulations prescribed by the Secretary.
 
 #### (E) Election for deferral of charge for portion of net experience loss
 
@@ -102,7 +102,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (G) Short-term benefits
 
-&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for "15".
+&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for "15".
 
 #### (8) Special relief rules
 
@@ -248,7 +248,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;&emsp;In no event shall the full-funding limitation determined under subparagraph (A) be less than the excess (if any) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the current liability of the plan (including the expected increase in current liability due to benefits accruing during the plan year), over
+&emsp;&emsp;&emsp;&emsp;(I) 90 percent of the current liability of the plan (including the expected increasein current liability due to benefits accruing during the plan year), over
 
 &emsp;&emsp;&emsp;&emsp;(II) the value of the plan's assets determined under paragraph (2).
 
@@ -422,7 +422,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A),Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023.)
 
 #### References in Text
 

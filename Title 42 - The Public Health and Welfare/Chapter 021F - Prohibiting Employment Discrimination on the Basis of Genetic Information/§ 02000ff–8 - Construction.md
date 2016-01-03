@@ -36,7 +36,7 @@ Nothing in this chapter shall be construed to—
 
 &emsp;(5) limit the authority of a Federal department or agency to conduct or sponsor occupational or other health research that is conducted in compliance with the regulations contained in part 46 of title 45, Code of Federal Regulations (or any corresponding or similar regulation or rule);
 
-&emsp;(6) limit the statutory or regulatory authority of the Occupational Safety and Health Administration or the Mine Safety and HealthAdministration to promulgate or enforce workplace safety and health laws and regulations; or
+&emsp;(6) limit the statutory or regulatory authority of the Occupational Safety and Health Administration or the Mine Safety and Health Administration to promulgate or enforce workplace safety and health laws and regulations; or
 
 &emsp;(7) require any specific benefit for an employee or member or a family member of an employee or member under any group health plan or health insurance issuer offering group health insurance coverage in connection with a group health plan.
 

@@ -16,7 +16,7 @@
 
 (b) Under regulations prescribed by the Office of Personnel Management, the benefit of successive step-increases shall be preserved for employees whose continuous service is interrupted in the public interest by service with the armed forces or by service in essential non-Government civilian employment during a period of war or national emergency.
 
-(c) When a determination is made under subsection (a) of this section that the work of an employee is not of an acceptable level of competence, the employee is entitled to prompt written notice of that determination and an opportunity for reconsideration of the determination within his agency under uniform procedures prescribed by the Office of Personnel Management. If the determination is affirmed on reconsideration, the employee is entitled to appeal to the Merit Systems Protection Board. If the reconsideration or appeal results in a reversal of the earlier determination, the new determination supersedes the earlier determination and is deemed to have been made as of the date of theearlier determination. The authority of the Office to prescribe procedures and the entitlement of the employee to appeal to the Board do not apply to a determination of acceptable level of competence made by the Librarian of Congress.
+(c) When a determination is made under subsection (a) of this section that the work of an employee is not of an acceptable level of competence, the employee is entitled to prompt written notice of that determination and an opportunity for reconsideration of the determination within his agency under uniform procedures prescribed by the Office of Personnel Management. If the determination is affirmed on reconsideration, the employee is entitled to appeal to the Merit Systems Protection Board. If the reconsideration or appeal results in a reversal of the earlier determination, the new determination supersedes the earlier determination and is deemed to have been made as of the date of the earlier determination. The authority of the Office to prescribe procedures and the entitlement of the employee to appeal to the Board do not apply to a determination of acceptable level of competence made by the Librarian of Congress.
 
 (d) An increase in pay granted by statute is not an equivalent increase in pay within the meaning of subsection (a) of this section.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that isnot described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -141,6 +141,18 @@ Amendment by section 906(a)(2), (8) of Pub. L. 95–454 effective 90 days after 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Delay of Periodic Step Increase for Civilian Employees of the Department of Defense Based Upon Unacceptable Performance
+
+Pub. L. 114–92, div. A, title XI, §1106, Nov. 25, 2015, 129 Stat. 1024, provided that:
+
+"(a)
+
+Delay.—Under procedures established by the Secretary of Defense, upon a determination by the Secretary that the work of an employee is not at an acceptable level of competence, the period of time during which the work of the employee is not at an acceptable level of competence shall not count toward completion of the period of service required for purposes of subsection (a) of section 5335 of title 5, United States Code, or subsection (e)(1) or (e)(2) of section 5343 of such title.
+
+"(b)
+
+Applicability to Periods of Service.—Subsection (a) shall not apply with respect to any period of service performed before the date of the enactment of this Act \[Nov. 25, 2015\]."
 
 #### Pay Increases Deemed Equivalent Increases in Pay
 

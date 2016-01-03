@@ -4,7 +4,7 @@ Whoever knowingly and willfully, by any means or device whatsoever—
 
 &emsp;(a) records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
 
-&emsp;(b) listens to or observes, or attempts to listen to or observe, the proceedings of any grandor petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—
+&emsp;(b) listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—
 
 > shall be fined under this title or imprisoned not more than one year, or both.
 

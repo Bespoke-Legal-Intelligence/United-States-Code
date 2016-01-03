@@ -92,7 +92,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 &emsp;&emsp;(i) the Secretary applies such prohibition to such species at the request of the State, or
 
-&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisionsof section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
+&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
 
 #### (h) Regulations
 
@@ -126,7 +126,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 &emsp;"(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State whichis unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 

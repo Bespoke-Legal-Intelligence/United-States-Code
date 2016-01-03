@@ -62,7 +62,7 @@ Voluntary Personnel Action Defined.—In this section, the term "voluntary perso
 
 &emsp;(2) Promotion to a higher grade if the technician is in a position for which the Secretary concerned has established a requirement that the person occupying the position be a military technician (dual status).
 
-(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §525(a), title X, §1087(a)(20)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291; Pub. L. 112–81, div. A, title V, §514(b), Dec. 31, 2011, 125 Stat. 1394.)
+(Added Pub. L. 106–65, div. A, title V, §522(a)(1), Oct. 5, 1999, 113 Stat. 595; amended Pub. L.106–398, §1 \[\[div. A\], title V, §525(a), title X, §1087(a)(20)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, 1654A–291; Pub. L. 112–81, div. A, title V, §514(b), Dec. 31, 2011, 125 Stat. 1394.)
 
 #### Amendments
 

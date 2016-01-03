@@ -26,9 +26,11 @@
 
 &emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period beginning on the day after the 5-day period described in paragraph (2);
 
-&emsp;&emsp;(C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals; and
+&emsp;&emsp;(C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals;
 
-&emsp;&emsp;(D) the provisions of this title and procedures relating to the release of liens on property.
+&emsp;&emsp;(D) the provisions of this title and procedures relating to the release of liens on property; and
+
+&emsp;&emsp;(E) the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 
 #### (b) Right to fair hearing
 
@@ -50,11 +52,19 @@
 
 #### (c) Conduct of hearing; review; suspensions
 
-For purposes of this section, subsections (c), (d) (other than paragraph (2)(B) thereof), (e), and (g) of section 6330 shall apply.
+For purposes of this section, subsections (c), (d) (other than paragraph (3)(B) thereof), (e), and (g) of section 6330 shall apply.
 
-(Added Pub. L. 105–206, title III, §3401(a), July 22, 1998, 112 Stat. 746; amended Pub. L. 109–432, div. A, title IV, §407(c), Dec. 20, 2006, 120 Stat. 2962.)
+(Added Pub. L. 105–206, title III, §3401(a), July 22, 1998, 112 Stat. 746; amended Pub. L. 109–432, div. A, title IV, §407(c), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 114–94, div. C, title XXXII, §32101(b)(1), Dec. 4, 2015, 129 Stat. 1731; Pub. L. 114–113, div. Q, title IV, §424(c), Dec. 18, 2015, 129 Stat. 3125.)
+
+#### References in Text
+
+Section 32101 of the FAST Act, referred to in subsec. (a)(3)(E), is section 32101 of Pub. L. 114–94, which enacted section 7345 of this title and section 2714a of Title 22, Foreign Relations and Intercourse, and amended this section and sections 6103, 6331, and 7508 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(3)(E). Pub. L. 114–94 added subpar. (E).
+
+Subsec. (c). Pub. L. 114–113 substituted "(3)(B)" for "(2)(B)".
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–432, §407(c)(1), substituted "in writing under subsection (a)(3)(B) and states the grounds for the requested hearing" for "under subsection (a)(3)(B)".
 

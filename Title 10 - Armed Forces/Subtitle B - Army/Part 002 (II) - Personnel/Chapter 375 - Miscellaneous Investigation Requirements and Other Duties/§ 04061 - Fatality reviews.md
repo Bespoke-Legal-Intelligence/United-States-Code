@@ -16,7 +16,7 @@ Matters To Be Included.—The report of a fatality review under subsection (a) s
 
 &emsp;(1) An executive summary.
 
-&emsp;(2) Data setting forth victim demographics, injuries, autopsy findings, homicide or suicidemethods, weapons, police information, assailant demographics, and household and family information.
+&emsp;(2) Data setting forth victim demographics, injuries, autopsy findings, homicide or suicide methods, weapons, police information, assailant demographics, and household and family information.
 
 &emsp;(3) Legal disposition.
 

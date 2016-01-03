@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;(12) Together, HIV/AIDS, tuberculosis, malaria and related diseases are undermining agricultural production throughout Africa. According to the United Nations Food and Agricultural Organization, 7,000,000 agricultural workers throughout 25 African countries have died from AIDS since 1985. Countries with poorly developed agricultural systems, which already face chronic food shortages, are the hardest hit, particularly in sub-Saharan Africa, where high HIV prevalence rates are compounding the risk of starvation for an estimated 14,400,000 people.
 
-&emsp;(13) Tuberculosis is the cause of death for one out of every three people with AIDSworldwide and is a highly communicable disease. HIV infection is the leading threat to tuberculosis control. Because HIV infection so severely weakens the immune system, individuals with HIV and latent tuberculosis infection have a 100 times greater risk of developing active tuberculosis diseases thereby increasing the risk of spreading tuberculosis to others. Tuberculosis, in turn, accelerates the onset of AIDS in individuals infected with HIV.
+&emsp;(13) Tuberculosis is the cause of death for one out of every three people with AIDS worldwide and is a highly communicable disease. HIV infection is the leading threat to tuberculosis control. Because HIV infection so severely weakens the immune system, individuals with HIV and latent tuberculosis infection have a 100 times greater risk of developing active tuberculosis diseases thereby increasing the risk of spreading tuberculosis to others. Tuberculosis, in turn, accelerates the onset of AIDS in individuals infected with HIV.
 
 &emsp;(14) Malaria, the most deadly of all tropical parasitic diseases, has been undergoing a dramatic resurgence in recent years due to increasing resistance of the malaria parasite to inexpensive and effective drugs. At the same time, increasing resistance of mosquitoes to standard insecticides makes control of transmission difficult to achieve. The World Health Organization estimates that between 300,000,000 and 500,000,000 new cases of malaria occur each year, and annual deaths from the disease number between 2,000,000 and 3,000,000. Persons infected with HIV are particularly vulnerable to the malaria parasite. The spread of HIV infection contributes to the difficulties of controlling resurgence of the drug resistant malaria parasite.
 
@@ -64,7 +64,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) development of health care infrastructure and delivery systems through cooperative and coordinated public efforts and public and private partnerships;
 
-&emsp;&emsp;(C) development and implementation of national and community-based multisector strategies that address the impact of HIV/AIDS on the individual, family, community, and nation and increase the participation ofat-risk populations in programs designed to encourage behavioral and social change and reduce the stigma associated with HIV/AIDS; and
+&emsp;&emsp;(C) development and implementation of national and community-based multisector strategies that address the impact of HIV/AIDS on the individual, family, community, and nation and increase the participation of at-risk populations in programs designed to encourage behavioral and social change and reduce the stigma associated with HIV/AIDS; and
 
 &emsp;&emsp;(D) coordination of efforts between international organizations such as the Global Fund to Fight AIDS, Tuberculosis and Malaria, the Joint United Nations Programme on HIV/AIDS (UNAIDS), the World Health Organization (WHO), national governments, and private sector organizations, including faith-based organizations.
 
@@ -90,7 +90,7 @@ Congress makes the following findings:
 
 &emsp;(26) In this address to Congress, the President stated the following: "Today, on the continent of Africa, nearly 30,000,000 people have the AIDS virus—including 3,000,000 children under the age of 15. There are whole countries in Africa where more than one-third of the adult population carries the infection. More than 4,000,000 require immediate drug treatment. Yet across that continent, only 50,000 AIDS victims—only 50,000—are receiving the medicine they need.".
 
-&emsp;(27) Furthermore, the President focused on care and treatment of HIV/AIDS in his address to Congress, stating the following: "Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, 'We have no medicines. Many hospitals tell people, you've got AIDS, we can't help you. Go home and die.' In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.".
+&emsp;(27) Furthermore, the President focused on care and treatment of HIV/AIDS in his addressto Congress, stating the following: "Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, 'We have no medicines. Many hospitals tell people, you've got AIDS, we can't help you. Go home and die.' In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.".
 
 &emsp;(28) Finally, the President stated that "\[w\]e have confronted, and will continue to confront, HIV/AIDS in our own country", proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress "to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean".
 
@@ -182,7 +182,7 @@ Pub. L. 113–56, §1, Dec. 2, 2013, 127 Stat. 648, provided that: "This Act \[a
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–293, §1(a), July 30, 2008, 122 Stat. 2918, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS,Tuberculosis, and Malaria Reauthorization Act of 2008'."
+Pub. L. 110–293, §1(a), July 30, 2008, 122 Stat. 2918, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008'."
 
 #### Short Title
 

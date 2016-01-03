@@ -98,7 +98,7 @@ Section 10606(b)(4) of this title, referred to in subsec. (c)(3)(D), was in the 
 
 #### Codification
 
-Section enacted as part of the Victims' Rights and Restitution Act of 1990 and also as part of the Crime Control Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
+Section enacted as part of the Victims' Rights and Restitution Act of 1990 and also as part of the CrimeControl Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
 
 #### Amendments
 

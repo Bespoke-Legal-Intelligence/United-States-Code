@@ -134,7 +134,7 @@ Transmittal of programs to state authorities.—The Secretary shall provide a co
 
 &emsp;(10)
 
-State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
+State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide theSecretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
 
 &emsp;(11)
 

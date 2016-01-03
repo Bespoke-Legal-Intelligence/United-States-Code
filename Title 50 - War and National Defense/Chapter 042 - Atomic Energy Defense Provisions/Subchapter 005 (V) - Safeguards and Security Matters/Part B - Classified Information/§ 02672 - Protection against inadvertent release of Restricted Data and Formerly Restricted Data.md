@@ -26,7 +26,7 @@ The plan under subsection (a) shall include the following:
 
 #### (c) Limitation on declassification of certain records
 
-(1) Effective on October 17, 1998, and except as provided in paragraph (3), a record referred to in subsection (a) may not be declassified unless the agency having custody of the record reviews the record on a page-by-page basis to ensure thatthe record does not contain Restricted Data or Formerly Restricted Data.
+(1) Effective on October 17, 1998, and except as provided in paragraph (3), a record referred to in subsection (a) may not be declassified unless the agency having custody of the record reviews the record on a page-by-page basis to ensure that the record does not contain Restricted Data or Formerly Restricted Data.
 
 (2) Any record determined as a result of a review under paragraph (1) to contain Restricted Data or Formerly Restricted Data may not be declassified until the Secretary of Energy, in conjunction with the head of the agency having custody of the record, determines that the document is suitable for declassification.
 
@@ -44,7 +44,7 @@ The Secretary of Energy shall submit the plan required under subsection (a) to t
 
 #### (e) Submission of reviews
 
-The Secretary of Energy shall, in each even-numbered year, submit a summary of the results of the periodic reviews and evaluations specified in the plan pursuant to subsection (b)(5) to the committees and Assistant to the President specified in subsection (d).
+The Secretary of Energy shall, in each even-numbered year, submit a summary of the results of the periodic reviews and evaluations specified in the plan pursuant to subsection (b)(5) to thecommittees and Assistant to the President specified in subsection (d).
 
 #### (f) Report and notification regarding inadvertent releases
 

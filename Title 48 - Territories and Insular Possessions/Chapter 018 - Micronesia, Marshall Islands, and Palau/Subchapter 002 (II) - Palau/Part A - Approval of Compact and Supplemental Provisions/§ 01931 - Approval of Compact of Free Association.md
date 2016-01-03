@@ -98,7 +98,7 @@ Pub. L. 99–658 which enacted this part contained several "Whereas" clauses rea
 
 "Whereas the United States, in accordance with the Trusteeship Agreement, the Charter of the United Nations and the objectives of the international trusteeship system, has promoted the development of the peoples of the Trust Territory toward self-government or independence as appropriate to the particular cicumstances \[sic\] of the Trust Territory and its peoples and the freely expressed wishes of the peoples concerned; and
 
-"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its own obligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
+"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its ownobligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
 
 "Whereas these negotiations resulted in the 'Compact of Free Association' \[set out below\] between the United States and Palau which, together with its related agreements, was signed by the United States and by Palau on January 10, 1986; and
 
@@ -296,7 +296,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(d) Disputes arising under this Article, except for Section 163(e), shall be resolved exclusively in accordance with Article II of Title Four.
 
-"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure whichmay be applicable under this Article if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the Government of Palau shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the Government of Palau.
+"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under this Article if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the Government of Palau shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the Government of Palau.
 
 #### "Article VII
 
@@ -308,7 +308,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 172
 
-"(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remedies under the laws of the United States enjoyed by any nonresident alien.
+"(a) Every citizen of Palau who is not a resident of the United States shall enjoy the rights and remediesunder the laws of the United States enjoyed by any nonresident alien.
 
 "(b) The Government and every citizen of Palau shall be considered a 'person' within the meaning of the Freedom of Information Act, 5 U.S.C. 552, and of the judicial review provisions of the Administrative Procedure Act, 5 U.S.C. 701–706.
 
@@ -350,7 +350,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(c) The Government of the United States and the Government of Palau shall provide for:
 
-&emsp;"(1) the administrative settlement of claims referred to in Section 177(a), including designation of local agents in Palau, such agents to be empowered to accept, investigate and settle such claims, in atimely manner, as provided in such related agreements; and
+&emsp;"(1) the administrative settlement of claims referred to in Section 177(a), including designation of local agents in Palau, such agents to be empowered to accept, investigate and settle such claims, in a timely manner, as provided in such related agreements; and
 
 &emsp;"(2) arbitration, referred to in Section 177(b), in a timely manner, at a site convenient to the claimant, in the event a claim is not otherwise settled pursuant to Section 177(a).
 
@@ -540,7 +540,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement of the kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
 
-"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegateshall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
+"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
 
 "(d) For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1954, the term 'North American area' shall include Palau.
 
@@ -632,7 +632,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(c) Unless otherwise mutually agreed, the joint committee shall meet semi-annually at a time and place to be designated, after appropriate consultation, by the Government of the United States. The joint committee also shall meet promptly upon request of either of its members. Upon notification by the Government of the United States, the joint committee shall meet promptly in combined session with other such joint committees so notified. The joint committee shall follow such procedures, including the establishment of functional subcommittees, as the members may from time to time agree.
 
-"(d) Unresolved issues in the joint committee shall be referred to the Government of the United States and the Government of Palau for resolution, and the Government of Palau shall be afforded, on an expeditious basis, an opportunity to raise its concerns with the United States Secretary of Defense personally regarding any unresolved issue which threatens its continued association with the Government of the United States.
+"(d) Unresolved issues in the joint committee shall be referred to the Government of the United States andthe Government of Palau for resolution, and the Government of Palau shall be afforded, on an expeditious basis, an opportunity to raise its concerns with the United States Secretary of Defense personally regarding any unresolved issue which threatens its continued association with the Government of the United States.
 
 #### "Section 352
 
@@ -704,11 +704,11 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 431
 
-"The provisions of this Compact may be amended at any time by mutual agreement of the Government ofthe United States and the Government of Palau in accordance with their respective constitutional processes.
+"The provisions of this Compact may be amended at any time by mutual agreement of the Government of the United States and the Government of Palau in accordance with their respective constitutional processes.
 
 #### "Section 432
 
-"Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact and its related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
+"Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact andits related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
 
 #### "Article IV
 
@@ -790,7 +790,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 &emsp;"(2) public and private sector projects identified in the official overall economic development plan.
 
-"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistanceprovided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
+"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistance provided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
 
 "(j) 'Official National Development Plan' means the documented program of annual development which identifies the specific policy and project activities necessary to achieve a specified set of economic goals and objectives during the period of free association, consistent with the economic assistance authority in Title Two. Such a document should include an analysis of population trends, manpower requirements, social needs, gross national product estimates, resource utilization, infrastructure needs and expenditures, and the specific private sector projects required to develop the local economy of Palau. Project identification should include initial cost estimates, with project purposes related to specific development goals and objectives.
 
@@ -878,7 +878,7 @@ On October 21, 1986, in the case of the Republic of the Marshall Islands, and on
 
 On January 10, 1986, the Government of the United States and the Government of Palau concluded a Compact of Free Association \[set out above\] similar to those that the United States entered into with the Republic of the Marshall Islands and with the Federated States of Micronesia. As in those instances, it was specified that the Compact with Palau would come into effect upon (1) mutual agreement between the Government of the United States, acting in fulfillment of its responsibilities as Administering Authority of the Trust Territory of the Pacific Islands, and the Government of Palau; (2) the approval of the Compact by the two Governments, in accordance with their constitutional processes; and (3) the approval of the Compact by plebiscite in Palau.
 
-In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved by Public Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
+In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved byPublic Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
 
 On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for the Trusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
 

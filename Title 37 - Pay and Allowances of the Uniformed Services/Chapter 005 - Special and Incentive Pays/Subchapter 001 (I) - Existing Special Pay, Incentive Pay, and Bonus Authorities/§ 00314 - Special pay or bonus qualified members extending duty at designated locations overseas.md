@@ -22,7 +22,7 @@ Special Pay or Bonus Authorized.—Upon the acceptance by the Secretary concerne
 
 (c)
 
-Selection and Payment of Special Pay or Bonus.—Not later than the date on which the Secretary concerned accepts an agreement described in subsection (a)(4) providing for the extension of a member's tour of duty, the Secretary concerned shall notify the member regarding whether the member will receive special pay or a bonus under this section. The payment rate for the special pay or bonus shall be fixedat the time of the agreement and may not be changed during the period of the extended tour of duty. The Secretary concerned may pay a bonus under this section either in a lump sum or installments.
+Selection and Payment of Special Pay or Bonus.—Not later than the date on which the Secretary concerned accepts an agreement described in subsection (a)(4) providing for the extension of a member's tour of duty, the Secretary concerned shall notify the member regarding whether the member will receive special pay or a bonus under this section. The payment rate for the special pay or bonus shall be fixed at the time of the agreement and may not be changed during the period of the extended tour of duty. The Secretary concerned may pay a bonus under this section either in a lump sum or installments.
 
 (d)
 
@@ -30,7 +30,7 @@ Repayment.—A member who, having entered into a written agreement to extend a t
 
 (e)
 
-Effect of Rest and Recuperative Absence.—A member who elects to receive one of the benefits specified in section 705(b) of title 10 as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension of duty for which the benefit under such section is provided.
+Effect of Rest and Recuperative Absence.—A member who elects to receive one of the benefits specified in section 705(b) of title 10 as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension ofduty for which the benefit under such section is provided.
 
 (Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI, §641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 109–163, div. A, title VI, §687(b)(23), Jan. 6, 2006, 119 Stat. 3331.)
 

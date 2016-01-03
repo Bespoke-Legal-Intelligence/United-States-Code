@@ -98,7 +98,7 @@ Appeals process for more stringent state procedures.—If a State establishes it
 
 &emsp;&emsp;(A) an appeals process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may appeal that denial; and
 
-&emsp;&emsp;(B) a waiver process similar to and to the same extent as the process provided underpart 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may apply for a waiver.
+&emsp;&emsp;(B) a waiver process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may apply for a waiver.
 
 &emsp;(3)
 

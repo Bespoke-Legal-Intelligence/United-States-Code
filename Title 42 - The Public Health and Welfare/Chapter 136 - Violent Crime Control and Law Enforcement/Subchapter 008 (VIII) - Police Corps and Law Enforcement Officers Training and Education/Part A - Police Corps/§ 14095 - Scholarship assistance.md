@@ -52,7 +52,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 &emsp;(ii) complete satisfactorily—
 
-&emsp;&emsp;(I) an educational course of study and receipt of a baccalaureate degree (in the case of undergraduate study) or the reward of credit to the participant for having completed one or more graduate courses (in the case of graduate study); and
+&emsp;&emsp;(I) an educational course of study and receipt of a baccalaureate degree (in the case of undergraduate study) or the reward ofcredit to the participant for having completed one or more graduate courses (in the case of graduate study); and
 
 &emsp;&emsp;(II) Police Corps training and certification by the Director that the participant has met such performance standards as may be established pursuant to section 14097 of this title; and
 

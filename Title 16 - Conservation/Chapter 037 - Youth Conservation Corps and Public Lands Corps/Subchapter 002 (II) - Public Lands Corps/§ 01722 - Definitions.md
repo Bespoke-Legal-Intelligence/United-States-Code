@@ -42,7 +42,7 @@ For purposes of this subchapter:
 
 #### (7) Indian tribe
 
-&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by theUnited States under Federal law to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
 
 #### (8) Priority project
 
@@ -102,7 +102,7 @@ Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note pr
 
 The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§6501et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Amendments
 

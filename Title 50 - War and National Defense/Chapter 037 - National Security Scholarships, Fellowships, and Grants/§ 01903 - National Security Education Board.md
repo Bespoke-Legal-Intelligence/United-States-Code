@@ -24,7 +24,7 @@ The Board shall be composed of the following individuals or the representatives 
 
 &emsp;(8) The Chairperson of the National Endowment for the Humanities.
 
-&emsp;(9) Six individuals appointed by the President, who shall be experts in the fields ofinternational, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
+&emsp;(9) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
 #### (c) Term of appointees
 
@@ -38,7 +38,7 @@ The Board shall perform the following functions:
 
 &emsp;(2) Provide for wide dissemination of information regarding the activities assisted under this chapter.
 
-&emsp;(3) Establish qualifications for students desiring scholarships or fellowships, and institutions of higher education desiring grants, under this chapter, including, in the case of students desiring a scholarship or fellowship, a requirement that the student have a demonstrated commitment to the study of the discipline for which the scholarship or fellowship is to be awarded.
+&emsp;(3) Establish qualifications for students desiring scholarships or fellowships, and institutions of higher education desiring grants,under this chapter, including, in the case of students desiring a scholarship or fellowship, a requirement that the student have a demonstrated commitment to the study of the discipline for which the scholarship or fellowship is to be awarded.
 
 &emsp;(4) After taking into account the annual analyses of trends in language, international, area, and counterproliferation studies under section 1906(b)(1) of this title, make recommendations to the Secretary regarding—
 

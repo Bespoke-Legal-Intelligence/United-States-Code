@@ -46,7 +46,7 @@ The penalty imposed by this section shall be in addition to any other penalty pr
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions "Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: "shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity."
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: "shall pay a penaltyequal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity."
 
 Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted "(directly or indirectly)" after "participates".
 

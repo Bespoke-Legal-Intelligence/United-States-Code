@@ -4,7 +4,7 @@
 
 (b) For purposes of this section, the term "social security increase" means the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased for any fiscal year as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
-(Added Pub. L. 105–33, title VIII, §8031(a)(1), Aug. 5, 1997, 111 Stat. 668, §1103; renumbered §1104, Pub. L. 105–368, title X, §1005(a), Nov. 11, 1998, 112Stat. 3364; amended Pub. L. 107–103, title II, §205, Dec. 27, 2001, 115 Stat. 990; Pub. L. 108–183, title VII, §706, Dec. 16, 2003, 117 Stat. 2672.)
+(Added Pub. L. 105–33, title VIII, §8031(a)(1), Aug. 5, 1997, 111 Stat. 668, §1103; renumbered §1104, Pub. L. 105–368, title X, §1005(a), Nov. 11, 1998, 112 Stat. 3364; amended Pub. L. 107–103, title II, §205, Dec. 27, 2001, 115 Stat. 990; Pub. L. 108–183, title VII, §706, Dec. 16, 2003, 117 Stat. 2672.)
 
 #### References in Text
 

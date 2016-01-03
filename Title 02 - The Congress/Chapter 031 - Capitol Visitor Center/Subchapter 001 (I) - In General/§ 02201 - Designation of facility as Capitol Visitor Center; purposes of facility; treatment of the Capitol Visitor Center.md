@@ -18,7 +18,7 @@ The Capitol Visitor Center shall be used—
 
 #### (1) Oversight
 
-&emsp;The Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives shall have oversight of the Capitol Visitor Center.
+&emsp;The Committee on Rules and Administration of the Senate and the Committee onHouse Administration of the House of Representatives shall have oversight of the Capitol Visitor Center.
 
 #### (2) Treatment of expansion space of the Senate and House of Representatives in the Capitol Visitor Center
 

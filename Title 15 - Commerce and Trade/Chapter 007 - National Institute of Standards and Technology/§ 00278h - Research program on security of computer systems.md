@@ -18,7 +18,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (2) Senior research fellowships
 
-&emsp;The Director is authorized to establish a program to award senior research fellowshipsto individuals seeking research positions at institutions, including the Institute, engaged in research activities related to the security of computer systems, including the research areas described in section 7403(a)(1) of this title. Senior research fellowships shall be made available for established researchers at institutions of higher education who seek to change research fields and pursue studies related to the security of computer systems.
+&emsp;The Director is authorized to establish a program to award senior research fellowships to individuals seeking research positions at institutions, including the Institute, engaged in research activities related to the security of computer systems, including the research areas described in section 7403(a)(1) of this title. Senior research fellowships shall be made available for established researchers at institutions of higher education who seek to change research fields and pursue studies related to the security of computer systems.
 
 #### (3) Eligibility
 
@@ -34,7 +34,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (1) In general
 
-&emsp;The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a) of this section. No funds made available under this section shall be made available directly to any for-profit partners.
+&emsp;The Director is authorized to award grants or cooperative agreements to institutions of higher education to carry out the program established under subsection (a). No funds made available under this section shall be made available directly to any for-profit partners.
 
 #### (2) Eligibility
 
@@ -52,7 +52,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (1) Management
 
-&emsp;The program established under subsection (a) of this section shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
+&emsp;The program established under subsection (a) shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
 
 #### (2) Managers may be employees
 
@@ -66,7 +66,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 &emsp;&emsp;(B) soliciting applications for specific research projects to address the goals developed under subparagraph (A);
 
-&emsp;&emsp;(C) selecting research projects for support under the program from among applications submitted to the Institute, following consideration of—
+&emsp;&emsp;(C) selecting research projects for support under the program from among applicationssubmitted to the Institute, following consideration of—
 
 &emsp;&emsp;&emsp;(i) the novelty and scientific and technical merit of the proposed projects;
 
@@ -76,23 +76,23 @@ The Director shall establish a program of assistance to institutions of higher e
 
 &emsp;&emsp;&emsp;(iv) the nature of the participation by for-profit entities and the extent to which the proposed projects address the concerns of industry; and
 
-&emsp;&emsp;&emsp;(v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c) of this section; and
+&emsp;&emsp;&emsp;(v) other criteria determined by the Director, based on information specified for inclusion in applications under subsection (c); and
 
 &emsp;&emsp;(D) monitoring the progress of research projects supported under the program.
 
 #### (4) Reports
 
-&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d) of this section.
+&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d).
 
 #### (e) Review of program
 
 #### (1) Periodic review
 
-&emsp;The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d) of this section. In conducting those reviews, the Director shall seek the advice of the Computer System Security <sup>1</sup> and Privacy Advisory Board, established under section 278g–4 of this title, on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d) of this section.
+&emsp;The Director shall periodically review the portfolio of research awards monitored by each program manager designated in accordance with subsection (d). In conducting those reviews, the Director shall seek the advice of the Computer System Security <sup>1</sup> and Privacy Advisory Board, established under section 278g–4 of this title, on the appropriateness of the research goals and on the quality and utility of research projects managed by program managers in accordance with subsection (d).
 
 #### (2) Comprehensive 5-year review
 
-&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) of this section during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A) of this section, and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
+&emsp;The Director shall also contract with the National Research Council for a comprehensive review of the program established under subsection (a) during the 5th year of the program. Such review shall include an assessment of the scientific quality of the research conducted, the relevance of the research results obtained to the goals of the program established under subsection (d)(3)(A), and the progress of the program in promoting the development of a substantial academic research community working at the leading edge of knowledge in the field. The Director shall submit to Congress a report on the results of the review under this paragraph no later than 6 years after the initiation of the program.
 
 #### (f) Definitions
 

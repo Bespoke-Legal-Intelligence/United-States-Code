@@ -16,5 +16,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 "Supervisor of Surveys," changed to "such officer as the Secretary of the Interior may designate," and two references to "Commissioner of the General Land Office," changed to "Secretary of the Interior or such officer as he may designate," and "Secretary or such officer," respectively, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities incharge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 

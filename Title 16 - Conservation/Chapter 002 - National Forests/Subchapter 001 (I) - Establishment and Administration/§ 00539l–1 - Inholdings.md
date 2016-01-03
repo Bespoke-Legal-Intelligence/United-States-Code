@@ -20,9 +20,9 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 &emsp;The Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report concerning any agreement or the status of negotiations conducted pursuant to—
 
-&emsp;&emsp;(A) subsection (a) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (a) of this section, or 1 year after August 21, 2002, whichever occurs first; and
+&emsp;&emsp;(A) subsection (a), upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (a), or 1 year after August 21, 2002, whichever occurs first; and
 
-&emsp;&emsp;(B) subsection (b) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (b) of this section, or 1 year after August 21, 2002, whichever occurs first.
+&emsp;&emsp;(B) subsection (b), upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (b), or 1 year after August 21, 2002, whichever occurs first.
 
 #### (2) Funding information
 

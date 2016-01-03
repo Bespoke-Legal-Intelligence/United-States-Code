@@ -68,7 +68,7 @@ A system of graduated sanctions, which may be discretionary as provided in subse
 
 #### (B) Units of local government
 
-&emsp;&emsp;Each unit of local government, other than a specially qualified unit, that has 1 or more juvenile courts that use a discretionary system of graduated sanctions shall collect the information reported under subparagraph (A) for submission to the State each year.
+&emsp;&emsp;Each unit of local government, other than a specially qualified unit, that has 1 or morejuvenile courts that use a discretionary system of graduated sanctions shall collect the information reported under subparagraph (A) for submission to the State each year.
 
 #### (C) States
 

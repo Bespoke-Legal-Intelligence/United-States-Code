@@ -34,7 +34,7 @@ Pub. L. 109–58, title III, subtitle D, Aug. 8, 2005, 119 Stat. 694, provided t
 
 "(a)
 
-Administration Jurisdiction Transfer to Secretary of the Interior.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], administrative jurisdiction and control over all public domain lands included within Naval Petroleum Reserve Numbered 2 located in Kern County, California (other than the lands specified in subsection (b)), are transferred from the Secretary to the Secretary of the Interior for management, subject to subsection (c), in accordance with the laws governing management of the public lands, and the regulations promulgated under such laws, including the Mineral Leasing Act (30 U.S.C. 181 et seq.) and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+Administration Jurisdiction Transfer to Secretary of the Interior.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], administrative jurisdiction and control over all public domain lands included within Naval Petroleum Reserve Numbered 2 located in Kern County, California (other than the lands specified in subsection (b)), are transferred from the Secretary to the Secretary of the Interior for management, subject to subsection (c), in accordance with the laws governing management of the public lands, and the regulations promulgated under such laws, includingthe Mineral Leasing Act (30 U.S.C. 181 et seq.) and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
 "(b)
 
@@ -334,7 +334,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 "(B) Upon making the determination referred to in subparagraph (A), the Secretary of Energy shall transfer all remaining royalty amounts to the general fund of the Treasury and release to the Tribe the royalty interest retained by the United States under subsection (e).
 
-"(4)(A) Funds made available to the Department of Energy for national security activities shall not beused to carry out the remedial action under paragraph (1), except that the Secretary of Energy may use such funds for program direction directly related to the remedial action.
+"(4)(A) Funds made available to the Department of Energy for national security activities shall not be used to carry out the remedial action under paragraph (1), except that the Secretary of Energy may use such funds for program direction directly related to the remedial action.
 
 "(B) There are authorized to be appropriated to the Secretary of Energy to carry out the remedial action under paragraph (1) such sums as are necessary.
 
@@ -490,7 +490,7 @@ Preservation of Private Right, Title, and Interest.—Nothing in this subtitle s
 
 "(d)
 
-Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject tothe same terms and conditions, as apply to the permit at the time of the transfer.
+Transfer of Otherwise Nontransferable Permit.—The Secretary may transfer to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 the incidental take permit regarding the reserve issued to the Secretary by the United States Fish and Wildlife Service and in effect on the effective date if the Secretary determines that transfer of the permit is necessary to expedite the sale of the reserve in a manner that maximizes the value of the sale to the United States. The transferred permit shall cover the identical activities, and shall be subject to the same terms and conditions, as apply to the permit at the time of the transfer.
 
 #### "SEC. 3414. CONDITIONS ON SALE PROCESS.
 
@@ -536,7 +536,7 @@ Settlement Offer.—Not later than 30 days after the date of the sale of Naval P
 
 "(d)
 
-Release of Claims.—Acceptance of the settlement offer made under subsection (c) shall be subject to the condition that all claims against the United States by the State of California for the Teachers' Retirement Fund of the State be released with respect to lands in Naval Petroleum Reserve Numbered 1, including sections 16 and 36 of township 30 south, range 23 east, Mount Diablo Principal Meridian, California, or production or proceeds of sale from the reserve.
+Release of Claims.—Acceptance of the settlement offer made under subsection (c) shall be subject to the condition that all claims against the UnitedStates by the State of California for the Teachers' Retirement Fund of the State be released with respect to lands in Naval Petroleum Reserve Numbered 1, including sections 16 and 36 of township 30 south, range 23 east, Mount Diablo Principal Meridian, California, or production or proceeds of sale from the reserve.
 
 #### "SEC. 3416. STUDY OF FUTURE OF OTHER NAVAL PETROLEUM RESERVES.
 

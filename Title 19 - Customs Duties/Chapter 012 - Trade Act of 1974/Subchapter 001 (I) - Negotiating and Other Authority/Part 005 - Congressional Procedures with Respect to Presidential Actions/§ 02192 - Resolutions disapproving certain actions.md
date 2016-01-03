@@ -34,7 +34,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 (4) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to a resolution shall be decided without debate.
 
-(5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of a resolution in the House of Representatives shall be governed by the Rules of the House of Representatives applicable to other resolutions in similar circumstances.
+(5) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of a resolution in the House of Representatives shall be governed by the Rulesof the House of Representatives applicable to other resolutions in similar circumstances.
 
 #### (e) Floor consideration in the Senate
 
@@ -62,7 +62,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 &emsp;(B) the text of the joint resolution passed by the Senate shall, immediately upon its passage (or, if later, upon receipt of the joint resolution passed by the House), be substituted for the text of the joint resolution passed by the House of Representatives, and such resolution, as amended, shall be returned with a request for a conference between the two Houses.
 
-(3) Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) of this section or section 2193(a) of this title, including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+(3) Consideration in the Senate of any veto message with respect to a joint resolution described in subsection (a)(2)(B) or section 2193(a) of this title, including consideration of all debatable motions and appeals in connection therewith, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
 (Pub. L. 93–618, title I, §152, Jan. 3, 1975, 88 Stat. 2004; Pub. L. 96–39, title IX, §902(a)(1), title XI, §1106(c)(5), July 26, 1979, 93 Stat. 299, 312; Pub. L. 98–573, title II, §248(b), Oct. 30, 1984, 98 Stat. 2998; Pub. L. 101–382, title I, §132(c)(2)–(5), Aug. 20, 1990, 104 Stat. 646, 647; Pub. L. 103–465, title II, §261(d)(1)(A)(ii), Dec. 8, 1994, 108 Stat. 4909; Pub. L. 104–295, §20(b)(10), Oct. 11, 1996, 110 Stat. 3527.)
 
@@ -78,9 +78,9 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for "as follows:" after "shall be filled" in introductory provisions, struck out "(B)" before "in the case", and struck out subpar. (A) which read as follows: "in the case of a resolution referred to in section 1303(e) of this title, with the phrase 'the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930'; and".
 
-<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: 'That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.', with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date."
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: 'That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.', with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date."
 
-Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted "first" for "second" in introductory provisions and "2437(c)(2)" for "2437(c)(3)" in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase 'the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_' (with this blank space being filled with the name of the country involved); and".
+Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted "first" for "second" in introductory provisions and "2437(c)(2)" for "2437(c)(3)" in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase 'the extension of nondiscriminatory treatmentwith respect to the products of \_\_\_\_\_\_' (with this blank space being filled with the name of the country involved); and".
 
 Subsec. (c)(1). Pub. L. 101–382, §132(c)(4), substituted "except that a motion to discharge—
 

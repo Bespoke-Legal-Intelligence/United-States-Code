@@ -24,7 +24,7 @@ General Purposes.—The purposes of this chapter are to—
 
 &emsp;(8) promote the development of the public transportation workforce.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10,2005, 119 Stat. 1545; Pub. L. 112–141, div. B, §20003, July 6, 2012, 126 Stat. 622.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 785; Pub. L. 109–59, title III, §§3002(b)(4), 3003, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 112–141, div. B, §20003, July 6, 2012, 126 Stat. 622.)
 
 Historical and Revision Notes
 
@@ -88,7 +88,7 @@ In subsection (b)(4), the words "the early 1970's" are substituted for "recent y
 
 In subsection (b)(5), the word "particularly" in 49 App.:1601b(5) is omitted as surplus.
 
-In subsection (b)(6), the words "were . . . in the early 1970's" are substituted for "now" in 49 App.:1601b(6) for clarity. The words "engaged in", "actually", and "comprehensive" in 49 App.:1601b(6) are omitted as surplus.
+In subsection (b)(6), the words "were . . . in the early 1970's" are substituted for "now" in 49 App.:1601b(6) forclarity. The words "engaged in", "actually", and "comprehensive" in 49 App.:1601b(6) are omitted as surplus.
 
 In subsection (b)(9), the word "many" in 49 App.:1601(b)(7) is omitted as surplus.
 

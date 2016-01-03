@@ -62,7 +62,7 @@ Par. (1). Pub. L. 103–429 substituted "section 3(f)" for "section 203(f)".
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Exemptions From Requirements of This Chapter for Certain Farm Vehicles
 
-For provisions relating to exemptions from certain requirements of this chapter with respect to certainfarm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
+For provisions relating to exemptions from certain requirements of this chapter with respect to certain farm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under section 31136 of this title.
 

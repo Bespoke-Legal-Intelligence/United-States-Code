@@ -42,7 +42,7 @@ Subsec. (c)(2). Pub. L. 113–291, §2812(a)(2), substituted "(2) Amounts credit
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. B, title XXVIII, §2812(b), Dec. 19, 2014, 128 Stat. 3700, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply to administrative expenses related to a realproperty transaction referred to in section 2695(b) of title 10, United States Code, that were covered by the Secretary of a military department using amounts appropriated to the Secretary before the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–291, div. B, title XXVIII, §2812(b), Dec. 19, 2014, 128 Stat. 3700, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply to administrative expenses related to a real property transaction referred to in section 2695(b) of title 10, United States Code, that were covered by the Secretary of a military department using amounts appropriated to the Secretary before the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Administrative Costs of Land Conveyances
 

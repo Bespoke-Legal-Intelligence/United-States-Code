@@ -2,7 +2,7 @@
 
 (a) The Secretary of State shall transmit to the Congress the text of any international agreement (including the text of any oral international agreement, which agreement shall be reduced to writing), other than a treaty, to which the United States is a party as soon as practicable after such agreement has entered into force with respect to the United States but in no event later than sixty days thereafter. However, any such agreement the immediate public disclosure of which would, in the opinion of the President, be prejudicial to the national security of the United States shall not be so transmitted to the Congress but shall be transmitted to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives under an appropriate injunction of secrecy to be removed only upon due notice from the President. Any department or agency of the United States Government which enters into any international agreement on behalf of the United States shall transmit to the Department of State the text of such agreement not later than twenty days after such agreement has been signed.
 
-(b) Not later than March 1, 1979, and at yearly intervals thereafter, the President shall, under his own signature, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report with respect to each international agreement which, during the preceding year, was transmitted to the Congress after the expiration of the 60-day period referred to in thefirst sentence of subsection (a), describing fully and completely the reasons for the late transmittal.
+(b) Not later than March 1, 1979, and at yearly intervals thereafter, the President shall, under his own signature, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report with respect to each international agreement which, during the preceding year, was transmitted to the Congress after the expiration of the 60-day period referred to in the first sentence of subsection (a), describing fully and completely the reasons for the late transmittal.
 
 (c) Notwithstanding any other provision of law, an international agreement may not be signed or otherwise concluded on behalf of the United States without prior consultation with the Secretary of State. Such consultation may encompass a class of agreements rather than a particular agreement.
 
@@ -22,11 +22,15 @@
 
 &emsp;(i) A bilateral or multilateral counterterrorism agreement.
 
-&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
+&emsp;(ii) A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)),<sup>1</sup> section 620A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2371(a)), or section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)).
 
 (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
 (Added Pub. L. 92–403, §1, Aug. 22, 1972, 86 Stat. 619; amended Pub. L. 95–45, §5, June 15, 1977, 91 Stat. 224; Pub. L. 95–426, title VII, §708, Oct. 7, 1978, 92 Stat. 993; Pub. L. 103–437, §1, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 108–458, title VII, §7121(b)–(d), Dec. 17, 2004, 118 Stat. 3807, 3808.)
+
+#### References in Text
+
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
 
 #### Amendments
 
@@ -69,4 +73,6 @@ Restriction on Use of Funds.—If any international agreement, whose text is req
 "(b)
 
 Effective Date.—Subsection (a) shall take effect 60 days after the date of enactment of the 911 \[probably means 9/11\] Commission Implementation Act of 2004 \[Dec. 17, 2004\] and shall apply during fiscal years 2005, 2006, and 2007."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

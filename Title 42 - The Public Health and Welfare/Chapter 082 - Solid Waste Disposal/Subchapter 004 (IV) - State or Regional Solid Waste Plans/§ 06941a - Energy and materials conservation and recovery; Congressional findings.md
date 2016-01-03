@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) significant savings could be realized by conserving materials in order to reduce the volume or quantity of material which ultimately becomes waste;
 
-&emsp;(2) solid waste contains valuable energy and material resources which can be recovered and used thereby conserving increasingly scarce and expensive fossil fuels and virgin materials;
+&emsp;(2) solid waste contains valuable energy and material resources which can be recovered andused thereby conserving increasingly scarce and expensive fossil fuels and virgin materials;
 
 &emsp;(3) the recovery of energy and materials from municipal waste, and the conservation of energy and materials contributing to such waste streams, can have the effect of reducing the volume of the municipal waste stream and the burden of disposing of increasing volumes of solid waste;
 

@@ -34,5 +34,5 @@ Historical and Revision Notes
 
 Pub. L. 95–625, title X, §1009, Nov. 10, 1978, 92 Stat. 3543.
 
-In subsection (a), the word "recovery" is added after "Reasonable local costs of", and the words "a recoveryaction program grant" are substituted for "program development grants", for clarity. See 36 CFR 72.32(a).
+In subsection (a), the word "recovery" is added after "Reasonable local costs of", and the words "a recovery action program grant" are substituted for "program development grants", for clarity. See 36 CFR 72.32(a).
 

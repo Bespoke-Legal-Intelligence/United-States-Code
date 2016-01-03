@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to d
 
 Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 
-Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273, §13206(b)(1)(A), substituted "Director's" for "Commissioner's".
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273,§13206(b)(1)(A), substituted "Director's" for "Commissioner's".
 
 Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 

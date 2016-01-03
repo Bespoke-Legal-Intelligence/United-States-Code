@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to haveparagraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
+&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
 
 #### (B) Affected shareholder
 

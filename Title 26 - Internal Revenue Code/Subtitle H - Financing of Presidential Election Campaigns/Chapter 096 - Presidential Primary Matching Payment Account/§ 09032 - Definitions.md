@@ -1,6 +1,6 @@
 ### §9032. Definitions
 
-For the purposes of this chapter—
+For purposes of this chapter—
 
 &emsp;(1) The term "authorized committee" means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(8) The term "political committee" means any individual, committee, association, or organization (whether or not incorporated) which accepts contributions or incurs qualified campaign expenses for the purpose of influencing, or attempting to influence, the nomination of any person for election to the office of President of the United States.
 
-&emsp;(9) The term "qualified campaign expense" means a purchase, payment, distribution,loan, advance, deposit, or gift of money or of anything of value—
+&emsp;(9) The term "qualified campaign expense" means a purchase, payment, distribution, loan, advance, deposit, or gift of money or of anything of value—
 
 &emsp;&emsp;(A) incurred by a candidate, or by his authorized committee, in connection with his campaign for nomination for election, and
 
@@ -59,4 +59,8 @@ Par. (3). Pub. L. 94–283, §115(c)(2), substituted "309(a)(1)" for "310(a)(1)"
 #### Effective Date of 1976 Amendment
 
 Amendment by section 306(b)(1) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under section 9002 of this title.
+
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 

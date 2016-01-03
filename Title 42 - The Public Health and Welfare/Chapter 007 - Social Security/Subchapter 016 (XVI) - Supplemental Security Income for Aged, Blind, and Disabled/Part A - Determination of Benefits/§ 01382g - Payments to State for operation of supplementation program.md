@@ -16,7 +16,7 @@ In order for any State which makes supplementary payments of the type described 
 
 #### (b) Levels of supplementary payments
 
-(1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall)beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
+(1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall) beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
 
 (2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase in the level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of the State, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
 
@@ -36,7 +36,7 @@ The Commissioner of Social Security shall not find that a State has failed to me
 
 > is not less than—
 
-&emsp;(B) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf of such recipients) under section 1382(b) of this title and section 211(a)(1)(A) of Public Law 93–66, for March 1983, increased by the amount of all cost-of-living adjustments under section 1382f of this title (and any other benefit increases under this subchapter) which have occurred after March 1983 and before that particular month.
+&emsp;(B) the combined level of its supplementary payments (to recipients of the type involved) and the amounts payable (to or on behalf ofsuch recipients) under section 1382(b) of this title and section 211(a)(1)(A) of Public Law 93–66, for March 1983, increased by the amount of all cost-of-living adjustments under section 1382f of this title (and any other benefit increases under this subchapter) which have occurred after March 1983 and before that particular month.
 
 (2) In determining the amount of any increase in the combined level involved under paragraph (1)(B) of this subsection, any portion of such amount which would otherwise be attributable to the increase under section 1382f(c) of this title shall be deemed instead to be equal to the amount of the cost-of-living adjustment which would have occurred in July 1983 (without regard to the 3-percent limitation contained in section 415(i)(1)(B) of this title) if section 111 of the Social Security Amendments of 1983 had not been enacted.
 
@@ -100,7 +100,7 @@ Pub. L. 98–369, §2663(g)(9)(B), (C), struck out the comma after "levels of it
 
 Subsec. (e). Pub. L. 98–21 added subsec. (e).
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–377 added subsec. (c) relating to conditions under which the Secretary shall not find that a State has failed to meet the requirements of subsec. (a)(4) of this section concerning levels of supplementary payments.
+<b>1982</b>—Subsec. (c). Pub. L. 97–377 added subsec. (c) relating to conditions under which the Secretary shallnot find that a State has failed to meet the requirements of subsec. (a)(4) of this section concerning levels of supplementary payments.
 
 Pub. L. 97–248 added subsec. (c) relating to conditions under which a State may elect to apply subsec. (a)(4) of this section.
 

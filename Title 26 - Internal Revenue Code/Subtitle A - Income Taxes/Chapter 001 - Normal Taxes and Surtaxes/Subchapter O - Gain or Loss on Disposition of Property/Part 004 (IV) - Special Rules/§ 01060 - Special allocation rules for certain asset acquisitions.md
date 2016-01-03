@@ -12,7 +12,7 @@ In the case of any applicable asset acquisition, for purposes of determining bot
 
 #### (b) Information required to be furnished to Secretary
 
-Under regulations, the transferor and transferee in an applicable asset acquisition shall, atsuch times and in such manner as may be provided in such regulations, furnish to the Secretary the following information:
+Under regulations, the transferor and transferee in an applicable asset acquisition shall, at such times and in such manner as may be provided in such regulations, furnish to the Secretary the following information:
 
 &emsp;(1) The amount of the consideration received for the assets which is allocated to section 197 intangibles.
 

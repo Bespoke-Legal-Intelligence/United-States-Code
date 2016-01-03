@@ -18,7 +18,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (3) Interest rate
 
-&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost ofmoney rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
+&emsp;(A) Loans under this section shall bear interest at the "cost of money rate". The cost of money rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
 
 &emsp;(B) On and after December 22, 1987, advances made on or after December 22, 1987, under loan commitments made on or after October 1, 1987, shall bear interest at the rate determined under subparagraph (C), but in no event at a rate that is less than 5 percent per annum.
 
@@ -60,14 +60,14 @@ Loans under this section shall be on such terms and conditions as the Governor o
 | Fiscal year 1981 | 9\.46 percent&nbsp;&nbsp; |
 | Fiscal year 1982 | 8\.39 percent&nbsp;&nbsp; |
 | Fiscal year 1983 | 6\.99 percent&nbsp;&nbsp; |
-| Fiscal year 1984 | 6\.55 percent&nbsp;&nbsp; |
+| Fiscal year 1984 | 6\.55 percent   |
 | Fiscal year 1985 | 5\.00 percent&nbsp;&nbsp; |
 | Fiscal year 1986 | 5\.00 percent&nbsp;&nbsp; |
 | Fiscal year 1987 | 5\.00 percent. |
 
 > &emsp;For purposes of this paragraph, the term "fiscal year" means the 12-month period ending on September 30 of the designated year.
 
-&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an electionunder this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
+&emsp;(F)(i) Notwithstanding subparagraph (B), if a borrower holds a commitment for a loan under this section made on or after October 1, 1987, and before December 22, 1987, part or all of the proceeds of which have not been advanced as of December 22, 1987, the borrower may, until the later of the date the next advance under the loan commitment is made or 90 days after December 22, 1987, elect to have the interest rate specified in the loan commitment apply to the unadvanced portion of the loan in lieu of the rate which (but for this clause) would apply to the unadvanced portion under this paragraph. If any borrower makes an election under this clause with respect to a loan, the Governor shall adjust the interest rate which applies to the unadvanced portion of the loan accordingly.
 
 &emsp;(ii)(I) If the telephone bank, pursuant to section 947(b) of this title, issues telephone debentures on any date to refinance telephone debentures or other obligations of the telephone bank, the telephone bank shall, in addition to any interest rate reduction required by any other provision of this paragraph, for the period applicable to the advance, reduce the interest rate charged on each advance made under this section during the fiscal year in which the refinanced debentures or other obligations were originally issued by the amount applicable to the advance.
 
@@ -161,7 +161,7 @@ Subsec. (b)(9), (10). Pub. L. 103–129, §2(a)(2)(B)(iii), added pars. (9) and 
 
 Subsec. (e). Pub. L. 103–129, §2(a)(2)(C), added subsec. (e).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2365, substituted "shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by law enacted by the Congress of the United States for loans to be made in any one year, and" for "is authorized on behalf of the telephone bank to make loans,".
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2365, substituted "shall make loans on behalf of the telephone bank, to the extent that there are qualifying applications therefor, subject only to limitations as to amounts authorized for loans and advances as may be imposed by lawenacted by the Congress of the United States for loans to be made in any one year, and" for "is authorized on behalf of the telephone bank to make loans,".
 
 Subsec. (b)(3)(B). Pub. L. 101–624, §2367(b)(1), substituted "the date of enactment of this subparagraph" for "the date of enactment of this paragraph" in the original text before "advances", which was translated as "December 22, 1987", requiring no change in text.
 

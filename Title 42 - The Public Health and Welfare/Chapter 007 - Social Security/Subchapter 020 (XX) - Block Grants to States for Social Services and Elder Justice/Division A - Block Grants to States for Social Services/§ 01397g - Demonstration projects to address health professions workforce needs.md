@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce investment board established under section 2821 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -46,7 +46,7 @@
 
 #### (A) Eligible entity
 
-&emsp;&emsp;The term "eligible entity" means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce investment board established under section 2832 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
+&emsp;&emsp;The term "eligible entity" means a State, an Indian tribe or tribal organization, an institution of higher education, a local workforce development board established under section 3122 of title 29, a sponsor of an apprenticeship program registered under the National Apprenticeship Act \[29 U.S.C. 50 et seq.\] or a community-based organization.
 
 #### (B) Eligible individual
 
@@ -56,7 +56,7 @@
 
 #### (ii) Other low-income individuals
 
-&emsp;&emsp;&emsp;Such term may include other low-income individuals described by the eligibleentity in its application for a grant under this section.
+&emsp;&emsp;&emsp;Such term may include other low-income individuals described by the eligible entity in its application for a grant under this section.
 
 #### (C) Indian tribe; tribal organization
 
@@ -236,11 +236,11 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2015.
+&emsp;Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2017.
 
 #### (2) Training and certification programs for personal and home care aides
 
-&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use $5,000,000 of the amount appropriated underparagraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
+&emsp;With respect to the demonstration projects under subsection (b), the Secretary shall use$5,000,000 of the amount appropriated under paragraph (1) for each of fiscal years 2010 through 2012 to carry out such projects. No funds appropriated under paragraph (1) shall be used to carry out demonstration projects under subsection (b) after fiscal year 2012.
 
 #### (d) Nonapplication
 
@@ -252,17 +252,7 @@
 
 &emsp;Section 1397d(a) of this title (other than paragraph (6)) shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this division.
 
-(Aug. 14, 1935, ch. 531, title XX, §2008, as added and amended Pub. L. 111–148, title V, §5507(a), title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 663, 803; Pub. L. 113–93, title II, §208, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 113–128, title V, §512(dd)(4), July 22, 2014, 128 Stat. 1718.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 113–128, title V, §§506, 512(dd)(4), July 22, 2014, 128 Stat. 1703, 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (2)(B), by striking "the State workforce investment board established under section 2821 of title 29" and inserting "the State workforce development board established under section 3111 of title 29"; and</i>
-
-<i>(2) in paragraph (4)(A), by striking "a local workforce investment board established under section 2832 of title 29," and inserting "a local workforce development board established under section 3122 of title 29,".</i>
-
-<i>See 2014 Amendment notes below.</i>
+(Aug. 14, 1935, ch. 531, title XX, §2008, as added and amended Pub. L. 111–148, title V, §5507(a), title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 663, 803; Pub. L. 113–93, title II, §208, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 113–128, title V, §512(dd)(4), July 22, 2014, 128 Stat. 1718; Pub. L. 114–10, title II, §217, Apr. 16, 2015, 129 Stat. 153.)
 
 #### References in Text
 
@@ -271,6 +261,8 @@ The Act of August 16, 1937, referred to in subsec. (a)(2)(B), (4)(A), is act Aug
 Part A of subchapter IV, referred to in subsec. (a)(4)(F), is classified to §601 et seq. of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–10 substituted "2017" for "2015".
 
 <b>2014</b>—Subsec. (a)(2)(B). Pub. L. 113–128, §512(dd)(4)(A), substituted "the State workforce development board established under section 3111 of title 29" for "the State workforce investment board established under section 2821 of title 29".
 
@@ -282,7 +274,7 @@ Subsec. (c)(1). Pub. L. 113–93 substituted "2015" for "2014".
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

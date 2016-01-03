@@ -74,7 +74,7 @@ Pub. L. 95–95, title IV, §406, Aug. 7, 1977, 91 Stat. 795, as amended by Pub.
 
 "(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
-"(2) Except as otherwise expressly provided, each State required to revise its applicable implementation plan by reason of any amendment made by this Act \[see Short Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
+"(2) Except as otherwise expressly provided, each State required to revise its applicable implementation plan by reason of any amendment made by this Act \[seeShort Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
 
 &emsp;"(A) one year after the date of enactment of this Act \[Aug. 7, 1977\], or
 
@@ -110,7 +110,7 @@ Pub. L. 90–148, §1, Nov. 21, 1967, 81 Stat. 485, provided: "That this Act \[a
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: "That this Act \[amending sections 7405 and 7616 of thistitle and repealing section 1857f–8 of this title\] may be cited as the 'Clean Air Act Amendments of 1966'."
+Pub. L. 89–675, §1, Oct. 15, 1966, 80 Stat. 954, provided: "That this Act \[amending sections 7405 and 7616 of this title and repealing section 1857f–8 of this title\] may be cited as the 'Clean Air Act Amendments of 1966'."
 
 #### Short Title
 
@@ -288,7 +288,7 @@ Pub. L. 95–95, title IV, §403(c), Aug. 7, 1977, 91 Stat. 792, directed Admini
 
 #### Study on Regional Air Quality
 
-Pub. L. 95–95, title IV, §403(d), Aug. 7, 1977, 91 Stat. 793, directed Administrator of EPA to conduct a studyof air quality in various areas throughout the country including the gulf coast region, such study to include analysis of liquid and solid aerosols and other fine particulate matter and contribution of such substances to visibility and public health problems in such areas, with Administrator to use environmental health experts from the National Institutes of Health and other outside agencies and organizations.
+Pub. L. 95–95, title IV, §403(d), Aug. 7, 1977, 91 Stat. 793, directed Administrator of EPA to conduct a study of air quality in various areas throughout the country including the gulf coast region, such study to include analysis of liquid and solid aerosols and other fine particulate matter and contribution of such substances to visibility and public health problems in such areas, with Administrator to use environmental health experts from the National Institutes of Health and other outside agencies and organizations.
 
 #### Railroad Emission Study
 

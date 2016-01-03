@@ -6,7 +6,7 @@ There is established, in accordance with the provisions of this section, an inco
 
 #### (b) Administration
 
-The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall be deemed the incorporators of the Association andshall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
+The Association shall be directed by a Board of Directors. The individuals designated, pursuant to subsection (d)(2) of this section, as the Government members of such Board shall bedeemed the incorporators of the Association and shall take whatever steps are necessary to establish the Association, including filing of articles of incorporation, and serving as an acting Board of Directors for a period of not more than 45 days after the date of incorporation of the Association.
 
 #### (c) Status
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

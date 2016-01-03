@@ -28,7 +28,7 @@ Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests f
 
 (d)
 
-Relationship to Other Funding.—Any amount provided by the Chairman of the JointChiefs of Staff for a fiscal year out of the Combating Terrorism Readiness Initiatives Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
+Relationship to Other Funding.—Any amount provided by the Chairman of the Joint Chiefs of Staff for a fiscal year out of the Combating Terrorism Readiness Initiatives Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 
 (e)
 

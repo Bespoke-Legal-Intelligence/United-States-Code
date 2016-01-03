@@ -14,7 +14,7 @@
 
 (c) The Secretary shall promulgate underwriting standards for loans guaranteed under this section, taking into account—
 
-&emsp;(1) the status of the interest rate index referred to in subsection (b)(1) and available atthe time an underwriting decision is made, regardless of the actual initial rate offered by the lender;
+&emsp;(1) the status of the interest rate index referred to in subsection (b)(1) and available at the time an underwriting decision is made, regardless of the actual initial rate offered by the lender;
 
 &emsp;(2) the maximum and likely amounts of increases in mortgage payments that the loans would require;
 

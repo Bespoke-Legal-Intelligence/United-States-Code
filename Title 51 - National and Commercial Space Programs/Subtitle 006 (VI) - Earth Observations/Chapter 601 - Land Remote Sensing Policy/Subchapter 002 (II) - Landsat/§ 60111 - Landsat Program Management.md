@@ -30,7 +30,7 @@ Responsibilities.—The Landsat Program Management shall be responsible for—
 
 &emsp;(3) ensuring that all unenhanced Landsat data remain unclassified and that, except as provided in subsections (a) and (b) of section 60146 of this title, no restrictions are placed on the availability of unenhanced data;
 
-&emsp;(4) ensuring that land remote sensing data of high priority locations will be acquired by theLandsat 7 system as required to meet the needs of the United States Global Change Research Program, as established in the Global Change Research Act of 1990 (15 U.S.C. 2921 et seq.), and to meet the needs of national security users;
+&emsp;(4) ensuring that land remote sensing data of high priority locations will be acquired by the Landsat 7 system as required to meet the needs of the United States Global Change Research Program, as established in the Global Change Research Act of 1990 (15 U.S.C. 2921 et seq.), and to meet the needs of national security users;
 
 &emsp;(5) Landsat data responsibilities pursuant to this chapter;
 

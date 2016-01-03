@@ -62,7 +62,7 @@ Review.—
 
 &emsp;(1)
 
-In general.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall changethe conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
+In general.—The Board may review an agreement approved under this section, on its own initiative or on request, and shall change the conditions of approval or terminate it when necessary to protect the public interest. Action of the Board under this section—
 
 &emsp;&emsp;(A) approving an agreement,
 
@@ -100,7 +100,7 @@ Undercharge claims.—Nothing in this section shall serve as a basis for any und
 
 &emsp;(2)
 
-Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
+Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shallbe construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
 
 (f)
 
@@ -166,7 +166,7 @@ Provisions similar to those in this section were contained in section 10706 of t
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 
-Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, theagreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending."
+Subsec. (d). Pub. L. 106–159, §227(b), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Subject to subsection (c), approval of an agreement under subsection (a) shall expire 3 years after the date of approval unless renewed under this subsection. The approval may be renewed upon request of the parties to the agreement if such parties resubmit the agreement to the Board, the agreement is unchanged, and the Board approves such renewal. The Board shall approve the renewal unless it finds that the renewal is not in the public interest. Parties to the agreement may continue to undertake activities pursuant to the previously approved agreement while the renewal request is pending."
 
 Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -178,7 +178,7 @@ Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted "December 31, 1995" f
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 

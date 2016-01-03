@@ -18,7 +18,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 &emsp;(1) consists of 5 or more adequate dwellings;
 
-&emsp;(2) is available for occupancy only by low or moderate income <sup>1</sup> families or persons, whose incomes at the time of initial occupancy donot exceed 115 percent of the median income of the area, as determined by the Secretary;
+&emsp;(2) is available for occupancy only by low or moderate income <sup>1</sup> families or persons, whose incomes at the time of initial occupancy do not exceed 115 percent of the median income of the area, as determined by the Secretary;
 
 &emsp;(3) will remain available as provided in paragraph (2), according to such binding commitments as the Secretary may require, for the period of the original term of the loan guaranteed, unless the housing is acquired by foreclosure (or instrument in lieu of foreclosure) or the Secretary waives the applicability of such requirement for the loan only after determining, based on objective information, that—
 
@@ -82,7 +82,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (2) Foreclosure
 
-&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of thecertificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+&emsp;After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
 #### (3) Assignment by Secretary
 
@@ -130,7 +130,7 @@ The Secretary shall establish standards for the treatment of tenants of housing 
 
 #### (o) Housing standards
 
-The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this title shall apply to housing and related facilities thedevelopment costs of which are financed in whole or in part with a loan guaranteed under this section.
+The standards established under section 1485(m) of this title for housing and related facilities assisted under section 1485 of this title shall apply to housing and related facilities the development costs of which are financed in whole or in part with a loan guaranteed under this section.
 
 #### (p) Limitation on commitments to guarantee loans
 
@@ -140,7 +140,7 @@ The standards established under section 1485(m) of this title for housing and re
 
 #### (2) Annual limitation on amount of loan guarantee
 
-&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;In each fiscal year, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed such amount as may beprovided in appropriation Acts for such fiscal year.
 
 #### (q) Report
 
@@ -194,7 +194,7 @@ Any amounts collected by the Secretary pursuant to the fees charged to lenders f
 
 In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
-(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
+(July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
 
 #### References in Text
 

@@ -62,7 +62,7 @@ Paragraph (5) specifies that "or" is not exclusive. Thus, if a party "may do (a)
 
 Paragraph (6) makes clear that "order for relief" means entry of an order for relief. If the court orally orders relief, but the order is not entered until a later time, then any time measurements in the bill are from entry, not from the oral order. In a voluntary case, the entry of the order for relief is the filing of the petition commencing the voluntary case.
 
-Paragraph (7) specifies that the singular includes the plural. The plural, however, generally does not include the singular. The bill uses only the singular, even when the item in question most often is found in plural quantities, in order to avoid the confusion possible if both rules of construction applied. When an item is specified in the plural, the plural is intended.
+Paragraph (7) specifies that the singular includes the plural. The plural, however, generally does not include the singular. The bill uses only the singular, even when the item in question most often is found in plural quantities, in order to avoid the confusion possible if bothrules of construction applied. When an item is specified in the plural, the plural is intended.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(1) by which such State or governing body of an affected Indian tribe, as the case may be, may study, determine, comment on, and make recommendations with regard to the possible public health and safety, environmental, social, and economic impacts of any such repository;
 
-&emsp;(2) by which the Secretary shall consider and respond to comments and recommendations made by such State or governing body of anaffected Indian tribe, including the period in which the Secretary shall so respond;
+&emsp;(2) by which the Secretary shall consider and respond to comments and recommendations made by such State or governing body of an affected Indian tribe, including the period in which the Secretary shall so respond;
 
 &emsp;(3) by which the Secretary and such State or governing body of an affected Indian tribe may review or modify the agreement periodically;
 
@@ -30,7 +30,7 @@ Not later than 60 days after (1) the approval of a site for site characterizatio
 
 &emsp;(8) by which such State may conduct reasonable independent monitoring and testing of activities on the repository site, except that such monitoring and testing shall not unreasonably interfere with or delay onsite activities;
 
-&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information, the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
+&emsp;(9) for sharing, in accordance with applicable law, of all technical and licensing information,the utilization of available expertise, the facilitating of permit procedures, joint project review, and the formulation of joint surveillance and monitoring arrangements to carry out applicable Federal and State laws;
 
 &emsp;(10) for public notification of the procedures specified under the preceding paragraphs; and
 

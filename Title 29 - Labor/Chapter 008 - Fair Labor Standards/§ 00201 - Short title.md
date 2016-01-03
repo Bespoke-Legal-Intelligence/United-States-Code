@@ -36,7 +36,7 @@ Pub. L. 99–150, §1(a), Nov. 13, 1985, 99 Stat. 787, provided that: "This Act 
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–151, §1(a), Nov. 1, 1977, 91 Stat. 1245, provided that: "This Act \[amending sections 203, 206, 208,213, 214, and 216 of this title and enacting provisions set out as notes under sections 203, 204, and 213 of this title\] may be cited as the 'Fair Labor Standards Amendments of 1977'."
+Pub. L. 95–151, §1(a), Nov. 1, 1977, 91 Stat. 1245, provided that: "This Act \[amending sections 203, 206, 208, 213, 214, and 216 of this title and enacting provisions set out as notes under sections 203, 204, and 213 of this title\] may be cited as the 'Fair Labor Standards Amendments of 1977'."
 
 #### Short Title of 1974 Amendment
 

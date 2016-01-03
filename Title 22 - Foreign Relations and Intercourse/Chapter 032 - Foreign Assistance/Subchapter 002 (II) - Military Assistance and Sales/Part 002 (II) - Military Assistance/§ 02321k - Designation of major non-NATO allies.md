@@ -16,7 +16,7 @@ Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -55,4 +55,6 @@ Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.—Kuwait.
 Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.—Morocco.
 
 Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.—Pakistan.
+
+Determination No. 2015–09, July 10, 2015, 80 F.R. 43613.—Tunisia.
 

@@ -64,7 +64,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significant transactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
 
-&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequatetime, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
+&emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
 
 &emsp;&emsp;&emsp;(iv) required or allowed financial institutions to report suspicious transactions;
 

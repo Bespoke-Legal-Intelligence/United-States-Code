@@ -14,7 +14,7 @@ The terms of Office of the Chairman and members of the Commission shall be for t
 
 #### (d) Continuation in office of existing members
 
-Notwithstanding the provisions of subsections (a), (b), and (c) of this section, members of the Foreign Claims Settlement Commission who areserving on March 14, 1980, shall continue to serve in their same capacities until the expiration of the terms to which they were appointed.
+Notwithstanding the provisions of subsections (a), (b), and (c) of this section, members of the Foreign Claims Settlement Commission who are serving on March 14, 1980, shall continue to serve in their same capacities until the expiration of the terms to which they were appointed.
 
 (Pub. L. 96–209, title I, §103, Mar. 14, 1980, 94 Stat. 96.)
 

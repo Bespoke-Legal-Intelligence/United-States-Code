@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Employment by States of a Sufficient Number of Specialists.—(1)Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans' outreach program specialists as the State determines appropriate and efficient to carry out intensive services and facilitate placements under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
+Requirement for Employment by States of a Sufficient Number of Specialists.—(1) Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans' outreach program specialists as the State determines appropriate and efficient to carry out intensive services and facilitate placements under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
 
 &emsp;(A) Special disabled veterans.
 
@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 112–56, §241(a), added subsec. (d).
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–368, in first sentence, substituted "for each 7,400 veterans who are between the ages of 20 and 64 residing in such State." for "for each 6,900 veterans residing in such State who are either veterans of the Vietnam era, veterans who first entered on active duty as a member of the Armed Forces after May 7, 1975, or disabled veterans.", in third sentence, struck out "of the Vietnam era" after "disabled veterans", and struck out after third sentence "If the Secretary finds that a qualified disabled veteran of the Vietnam era is not available for any such appointment, preference for such appointment shall be given to other qualified disabled veterans."
 
-Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(B)\], struck out "part C of title IV of the Job Training Partnership Act and" after "training programs including".
+Subsec. (c)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(B)\], struck out "part C of title IV of the JobTraining Partnership Act and" after "training programs including".
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(B)\], substituted "including part C of title IV of the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" for "(including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.))".
 
@@ -110,7 +110,7 @@ Pub. L. 109–461, title VI, §602(c), Dec. 22, 2006, 120 Stat. 3437, provided t
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–288, §4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: "The amendments made by this subsection \[amending this section and section 4104 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply for program years under chapter 41 of title 38, United States Code, beginning on or after such date."
+Pub. L. 107–288, §4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: "The amendments made by this subsection \[amending this section and section 4104 of thistitle\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply for program years under chapter 41 of title 38, United States Code, beginning on or after such date."
 
 #### Effective Date of 1998 Amendments
 

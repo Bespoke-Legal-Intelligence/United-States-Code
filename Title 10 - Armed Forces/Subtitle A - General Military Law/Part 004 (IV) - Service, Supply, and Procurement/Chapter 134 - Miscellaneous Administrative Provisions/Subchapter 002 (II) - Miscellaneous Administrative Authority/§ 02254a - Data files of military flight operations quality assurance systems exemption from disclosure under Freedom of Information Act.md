@@ -4,7 +4,7 @@
 
 Authority to Exempt Certain Data Files From Disclosure Under FOIA.—
 
-&emsp;(1) The Secretary of Defense may exempt information contained in any data file of the military flight operations quality assurance system of a military department from disclosure under section 552(b)(3) of title 5, upon a written determination that—
+&emsp;(1) The Secretary of Defense may exempt information contained in any data file of themilitary flight operations quality assurance system of a military department from disclosure under section 552(b)(3) of title 5, upon a written determination that—
 
 &emsp;&emsp;(A) the information is sensitive information concerning military aircraft, units, or aircrew; and
 

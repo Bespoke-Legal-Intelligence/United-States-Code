@@ -12,7 +12,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (b) Reliance of Commission upon voluntary standards
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 

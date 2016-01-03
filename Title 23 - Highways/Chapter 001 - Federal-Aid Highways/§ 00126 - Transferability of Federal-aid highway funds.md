@@ -10,13 +10,13 @@ Application to Certain Set-asides.—
 
 &emsp;(1)
 
-In general.—Funds that are subject to sections 104(d) and 133(d) shall not be transferred under this section.
+In general.—Funds that are subject to sections 104(d) and 133(d)(1)(A) shall not be transferred under this section.
 
 &emsp;(2)
 
-Funds transferred by states.—Funds transferred by a State under this section of the funding reserved for the State under section 213 for a fiscal year may only come from the portion of those funds that are available for obligation in any area of the State under section 213(c)(1)(B).
+Funds transferred by states.—Funds transferred by a State under this section of the funding reserved for the State under section 133(h) for a fiscal year may only come from the portion of those funds that are available for obligation in any area of the State under section 133(h).
 
-(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat. 1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1509(a), July 6, 2012, 126 Stat. 567.)
+(Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat. 1752; amended Pub. L. 109–59, title I, §1401(a)(3)(B), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1509(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1109(c)(1), 1446(a)(2), Dec. 4, 2015, 129 Stat. 1343, 1437.)
 
 #### Prior Provisions
 
@@ -24,11 +24,19 @@ A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93�
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(1). Pub. L. 114–94, §1446(a)(2), substituted "133(d)(1)(A)" for "133(d)".
+
+Subsec. (b)(2). Pub. L. 114–94, §1109(c)(1), substituted "for the State under section 133(h)" for "for the State under section 213" and "of the State under section 133(h)" for "of the State under section 213(c)(1)(B)".
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to uniform transferability of Federal-aid highway funds.
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, which directed insertion of "under" after "State's apportionment", was executed by making the insertion after "State's apportionment" the second place it appeared, to reflect the probable intent of Congress.
 
 <b>1999</b>—Pub. L. 106–159 renumbered section 110 of this title as this section.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

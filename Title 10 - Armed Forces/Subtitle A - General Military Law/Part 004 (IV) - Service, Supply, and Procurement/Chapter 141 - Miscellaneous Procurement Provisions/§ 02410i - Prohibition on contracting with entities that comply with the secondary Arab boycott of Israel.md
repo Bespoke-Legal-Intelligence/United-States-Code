@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)),<sup>1</sup> it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
 (b)
 
@@ -24,7 +24,13 @@ Exceptions.—Subsection (b) does not apply—
 
 (Added Pub. L. 102–484, div. A, title XIII, §1332(a), Oct. 23, 1992, 106 Stat. 2555; amended Pub. L. 111–350, §§4, 5(b)(31), Jan. 4, 2011, 124 Stat. 3841, 3845.)
 
+#### References in Text
+
+Section 3(5)(A) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2402(5)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4602(5)(A) of Title 50.
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted "simplified acquisition threshold (as defined in section 134 of title 41)" for "small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (3) Basis adjustments
 
-&emsp;If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any qualified small business stock which is purchased by the taxpayer during the 60-day period described in subsection (a).
+&emsp;If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) thebasis for determining gain or loss of any qualified small business stock which is purchased by the taxpayer during the 60-day period described in subsection (a).
 
 #### (4) Holding period
 

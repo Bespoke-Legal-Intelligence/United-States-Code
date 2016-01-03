@@ -22,5 +22,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 91–662, §7, Jan. 8, 1971, 84 Stat. 1974, provided that: "The amendments made by this Act (other than by section 6) \[amending this section, sections 1461 and 1462 of this title, and section 1305 of Title 19, Customs Duties\] shall take effect on the day after the date of the enactment of this Act \[Jan. 8, 1971\]."
+Pub. L. 91–662, §7, Jan. 8, 1971, 84 Stat. 1974, provided that: "The amendments made by this Act (other thanby section 6) \[amending this section, sections 1461 and 1462 of this title, and section 1305 of Title 19, Customs Duties\] shall take effect on the day after the date of the enactment of this Act \[Jan. 8, 1971\]."
 

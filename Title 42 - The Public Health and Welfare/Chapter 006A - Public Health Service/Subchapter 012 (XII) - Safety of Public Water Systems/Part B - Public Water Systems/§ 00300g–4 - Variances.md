@@ -88,7 +88,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 #### (4) Compliance schedules
 
-&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcementresponsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
+&emsp;A variance granted under this subsection shall require compliance with the conditions of the variance not later than 3 years after the date on which the variance is granted, except that the Administrator (or the State in the case of a State that has primary enforcement responsibility under section 300g–2 of this title) may allow up to 2 additional years to comply with a variance technology, secure an alternative source of water, restructure or consolidate if the Administrator (or the State) determines that additional time is necessary for capital improvements, or to allow for financial assistance provided pursuant to section 300j–12 of this title or any other Federal or State program.
 
 #### (5) Duration of variances
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "treatment technique requirement" means a
 
 &emsp;&emsp;&emsp;(ii) If the Administrator objects to the variance, the date on which the State makes the recommended modifications or responds in writing to each objection.
 
-(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19, 1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
+(July 1, 1944, ch. 373, title XIV, §1415, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1669; amended Pub. L. 99–339, title I, §104, June 19,1986, 100 Stat. 649; Pub. L. 104–182, title I, §§102(c)(1), 115, 116, title V, §501(a)(3), Aug. 6, 1996, 110 Stat. 1621, 1641, 1691.)
 
 #### Amendments
 

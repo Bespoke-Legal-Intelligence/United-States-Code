@@ -172,7 +172,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;&emsp;(iv) Duty performed as a general or flag officer.
 
-&emsp;&emsp;(v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)).
+&emsp;&emsp;(v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)).<sup>1</sup>
 
 &emsp;(7) The term "inactive-duty training" means—
 
@@ -262,7 +262,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub.L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat.1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440; Pub. L. 109–364, div. A, title V, §524, Oct. 17, 2006, 120 Stat. 2193; Pub. L. 111–383, div. A, title VIII, §876, Jan. 7, 2011, 124 Stat. 4305; Pub. L. 112–81, div. A, title V, §515(b), Dec. 31, 2011, 125 Stat. 1395; Pub. L. 112–239, div. A, title VI, §681(a), Jan. 2, 2013, 126 Stat. 1795.)
 
 Historical and Revision Notes<br>1956
 
@@ -528,6 +528,8 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
 
+Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (d)(6)(B)(v), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3809(b)(2) of Title 50.
+
 The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
@@ -584,7 +586,7 @@ Par. (2). Pub. L. 100–26, §7(1)(k)(B), inserted "the term" after "Air Nationa
 
 Pub. L. 100–180, §1233(a)(2), amended directory language of Pub. L. 100–26, §7(k)(1)(C), by adding par. (2) to those pars. excepted from direction that initial letter of first word after open quotation marks in each par. be made lowercase rather than uppercase.
 
-Pars. (3) to (7). Pub. L. 100–26, §7(k)(1)(A), (C), inserted "The term" after par. designation and struck out uppercase letter of first word after open quotation marks and substituted lowercase letter.
+Pars. (3) to (7). Pub. L. 100–26, §7(k)(1)(A), (C), inserted "The term" after par. designation and struckout uppercase letter of first word after open quotation marks and substituted lowercase letter.
 
 Pars. (8) to (13). Pub. L. 100–26, §7(k)(1)(A), inserted "The term" after par. designation.
 
@@ -762,13 +764,15 @@ Authority vested by this title in "military departments", "the Secretary concern
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
+Pub. L. 114–92, div. A, title X, §1081(e), Nov. 25, 2015, 129 Stat. 1002, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act."
+
 Pub. L. 113–291, div. A, title X, §1071(k), Dec. 19, 2014, 128 Stat. 3512, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.
 
-Pub. L. 113–66, div. A, title X, §1091(f), Dec. 26, 2013, 127 Stat. 877, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act."
+Pub. L. 113–66, div. A, title X, §1091(f), Dec. 26, 2013, 127 Stat. 877, provided that: "For purposes of applyingamendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act."
 
 Pub. L. 112–239, div. A, title X, §1076(m), Jan. 2, 2013, 126 Stat. 1956, provided that: "For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act."
 
-Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: "For purposes of applyingamendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
+Pub. L. 109–364, div. A, title X, §1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
 Pub. L. 107–107, div. A, title X, §1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: "For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act."
 
@@ -793,6 +797,8 @@ Pub. L. 102–484, div. A, title X, §1055, Oct. 23, 1992, 106 Stat. 2503, provi
 #### Congressional Defense Committees Defined
 
 The following provisions provided that the term "congressional defense committees" for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 114–92, §3, Nov. 25, 2015, 129 Stat. 745.
 
 Pub. L. 113–291, §3, Dec. 19, 2014, 128 Stat. 3312.
 
@@ -905,4 +911,6 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 &emsp;"(3) The term 'Persian Gulf conflict' means the period beginning on August 2, 1990, and ending thereafter on the date prescribed by Presidential proclamation or by law.
 
 &emsp;"(4) The term 'congressional defense committees' has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

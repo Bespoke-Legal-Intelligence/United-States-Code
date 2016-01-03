@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) to segregate all escrow funds received from a mortgagor for ground rents, taxes, assessments, and insurance premiums; or
 
-&emsp;&emsp;&emsp;(ii) to deposit these funds in a special account with a depository institution whose accounts are insured by the Federal Deposit Insurance Corporation through the Deposit Insurance Fund, or by the National Credit Union Administration.
+&emsp;&emsp;&emsp;(ii) to deposit these funds in a special account with a depository institution whose accounts are insured by the Federal Deposit Insurance Corporation through theDeposit Insurance Fund, or by the National Credit Union Administration.
 
 &emsp;&emsp;(C) Use of escrow funds for any purpose other than that for which they were received.
 
@@ -58,7 +58,7 @@
 
 &emsp;The Secretary may impose a civil money penalty under subsection (a) for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
 
-&emsp;&emsp;(A) submission to the Secretary of information that was false, in connection withany mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
+&emsp;&emsp;(A) submission to the Secretary of information that was false, in connection with any mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
 
 &emsp;&emsp;(B) falsely certifying to the Secretary or submitting to the Secretary a false certification by another person or entity;
 
@@ -88,7 +88,7 @@
 
 #### (3) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including those before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+&emsp;In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (includingthose before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
 #### (4) Reviewability of imposition of penalty
 
@@ -114,7 +114,7 @@
 
 #### (e) Action to collect penalty
 
-If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee or lender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, includethe attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d), the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee or lender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 

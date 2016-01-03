@@ -10,7 +10,7 @@ The Commission shall have as its primary responsibility—
 
 #### (b) Policy review and recommendations in response to violations
 
-The Commission, in evaluating United States Government policies in response to violations ofreligious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
+The Commission, in evaluating United States Government policies in response to violations of religious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
 
 #### (c) Policy review and recommendations in response to progress
 
@@ -29,4 +29,12 @@ The Commission shall, on an ongoing basis, monitor facts and circumstances of vi
 #### Amendments
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: "The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter."
+
+#### Sense of Congress
+
+Pub. L. 114–71, §2, Oct. 16, 2015, 129 Stat. 563, provided that: "It is the sense of the Congress that the United States Commission on International Religious Freedom—
+
+&emsp;"(1) was created by Congress to independently assess and to accurately and unflinchingly describe threats to religious freedom around the world; and
+
+&emsp;"(2) in carrying out its prescribed duties, should use its authorized powers to ensure that efforts by the United States to advance religious freedom abroad are timely, appropriate to the circumstances, prudent, and effective."
 

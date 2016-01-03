@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (ii) Substantial improvement
 
-&emsp;&emsp;&emsp;For purposes of clause (i), property shall be treated as substantially improved by the taxpayer only if, during any 24-month period beginning after December 31, 1997,additions to basis with respect to such property in the hands of the taxpayer exceed the greater of—
+&emsp;&emsp;&emsp;For purposes of clause (i), property shall be treated as substantially improved by the taxpayer only if, during any 24-month period beginning after December 31, 1997, additions to basis with respect to such property in the hands of the taxpayer exceed the greater of—
 
 &emsp;&emsp;&emsp;&emsp;(I) an amount equal to the adjusted basis of such property at the beginning of such 24-month period in the hands of the taxpayer, or
 
@@ -146,7 +146,7 @@ In the case of the sale or exchange of an interest in a partnership, or of stock
 
 &emsp;(2) any gain attributable to periods before January 1, 1998, or after December 31, 2016.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(c), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§116(b)(5), 164(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(c)(1)–(2)(B), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(1), (2)(A), (B), Oct. 3, 2008, 122 Stat. 3874; Pub. L. 111–312, title VII, §754(c), Dec. 17, 2010, 124 Stat. 3321.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(c), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§116(b)(5), 164(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-603, 2763A-625; Pub. L. 108–311, title III, §310(c)(1)–(2)(B), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–432, div. A, title I, §110(c)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §322(c)(1), (2)(A), (B), Oct. 3, 2008, 122 Stat. 3874; Pub. L. 111–312, title VII, §754(c), Dec. 17, 2010, 124 Stat. 3321.)
 
 #### Amendments
 

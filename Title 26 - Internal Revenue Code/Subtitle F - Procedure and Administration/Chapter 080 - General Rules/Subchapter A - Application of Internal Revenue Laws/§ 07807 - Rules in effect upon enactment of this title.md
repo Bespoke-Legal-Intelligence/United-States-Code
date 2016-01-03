@@ -8,7 +8,7 @@ Until regulations are promulgated under any provision of this title which depend
 
 #### (1) Reference to law applicable to prior period
 
-&emsp;Any provision of this title which refers to the application of any portion of this title toa prior period (or which depends upon the application to a prior period of any portion of this title) shall, when appropriate and consistent with the purpose of such provision, be deemed to refer to (or depend upon the application of) the corresponding provision of the Internal Revenue Code of 1939 or of such other internal revenue laws as were applicable to the prior period.
+&emsp;Any provision of this title which refers to the application of any portion of this title to a prior period (or which depends upon the application to a prior period of any portion of this title) shall, when appropriate and consistent with the purpose of such provision, be deemed to refer to (or depend upon the application of) the corresponding provision of the Internal Revenue Code of 1939 or of such other internal revenue laws as were applicable to the prior period.
 
 #### (2) Elections or other acts
 

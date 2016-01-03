@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States ofthe vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 

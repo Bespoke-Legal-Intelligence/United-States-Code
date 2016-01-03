@@ -134,7 +134,7 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not usemore than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the "Agricultural Marketing Resource Center") at an eligible institution described in paragraph (2) that will—
+&emsp;Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the "Agricultural Marketing Resource Center") at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 

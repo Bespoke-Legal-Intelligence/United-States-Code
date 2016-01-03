@@ -16,7 +16,7 @@
 
 (4) In this subsection, the term "short-term work" means work that will be for a period of six months or less.
 
-(Added Pub. L. 97–295, §1(48)(A), Oct. 12, 1982, 96 Stat. 1298; amended Pub. L. 99–661, div. A, titleXII, §1201(a), Nov. 14, 1986, 100 Stat. 3967; Pub. L. 100–180, div. A, title XI, §1101, Dec. 4, 1987, 101 Stat. 1145; Pub. L. 101–510, div. A, title XIV, §1422, Nov. 5, 1990, 104 Stat. 1682; Pub. L. 102–484, div. A, title X, §1016, Oct. 23, 1992, 106 Stat. 2485.)
+(Added Pub. L. 97–295, §1(48)(A), Oct. 12, 1982, 96 Stat. 1298; amended Pub. L. 99–661, div. A, title XII, §1201(a), Nov. 14, 1986, 100 Stat. 3967; Pub. L. 100–180, div. A, title XI, §1101, Dec. 4, 1987, 101 Stat. 1145; Pub. L. 101–510, div. A, title XIV, §1422, Nov. 5, 1990, 104 Stat. 1682; Pub. L. 102–484, div. A, title X, §1016, Oct. 23, 1992, 106 Stat. 2485.)
 
 Historical and Revision Notes
 

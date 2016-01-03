@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the case may be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
+&emsp;This section shall apply only to a recovery, by a domestic corporation subject to the tax imposed by section 11 or 801, of a foreign expropriation loss sustained by such corporation and only if such corporation was subject to the tax imposed by section 11 or 801, as the casemay be, for the year of the loss and elects to have the provisions of this section apply with respect to such loss.
 
 #### (2) Time, manner, and scope
 
@@ -32,7 +32,7 @@ For purposes of this section, the term "foreign expropriation loss" means any lo
 
 #### (2) Computation
 
-&emsp;The increase in the tax for each taxable year referred to in paragraph (1) shall be computed in accordance with regulations prescribed bythe Secretary. Such regulations shall give effect to previous recoveries of any kind (including recoveries described in section 111, relating to recovery of tax benefit items) with respect to any prior taxable year, but shall otherwise treat the tax previously determined for any taxable year in accordance with the principles set forth in section 1314(a) (relating to correction of errors). Subject to the provisions of paragraph (3), all credits allowable against the tax for any taxable year, and all carryovers and carrybacks affected by so decreasing the allowable deductions, shall be taken into account in computing the increase in the tax.
+&emsp;The increase in the tax for each taxable year referred to in paragraph (1) shall be computed in accordance with regulations prescribed by the Secretary. Such regulations shall give effect to previous recoveries of any kind (including recoveries described in section 111, relating to recovery of tax benefit items) with respect to any prior taxable year, but shall otherwise treat the tax previously determined for any taxable year in accordance with the principles set forth in section 1314(a) (relating to correction of errors). Subject to the provisions of paragraph (3), all credits allowable against the tax for any taxable year, and all carryovers and carrybacks affected by so decreasing the allowable deductions, shall be taken into account in computing the increase in the tax.
 
 #### (3) Foreign taxes
 
@@ -62,7 +62,7 @@ For purposes of this section, if the value of any interest in, or with respect t
 
 #### (h) Special rule for evidences of indebtedness
 
-Bonds or other evidences of indebtedness received as a recovery of a foreign expropriation loss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
+Bonds or other evidences of indebtedness received as a recovery of a foreign expropriationloss to which this section applies shall not be considered to have any original issue discount within the meaning of section 1273(a).
 
 #### (i) Adjustments for succeeding years
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 42(a)(12) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, seesection 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
+Amendment by section 42(a)(12) of Pub. L. 98–369 applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.
 
 Amendment by section 211(b)(18) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 

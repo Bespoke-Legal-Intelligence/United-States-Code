@@ -132,7 +132,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A cable operator may not require the subscription to any tier other than the basic service tier required by paragraph (7) as a condition of access to video programming offered on a per channel or per program basis.A cable operator may not discriminate between subscribers to the basic service tier and other subscribers with regard to the rates charged for video programming offered on a per channel or per program basis.
+&emsp;&emsp;A cable operator may not require the subscription to any tier other than the basic service tier required by paragraph (7) as a condition of access to video programming offered on a per channel or per program basis. A cable operator may not discriminate between subscribers to the basic service tier and other subscribers with regard to the rates charged for video programming offered on a per channel or per program basis.
 
 #### (B) Exception; limitation
 
@@ -224,7 +224,7 @@ During the term of an agreement made before July 1, 1990, by a franchising autho
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title.
+&emsp;&emsp;The Commission shall include in its report under paragraph (1) the aggregate averagetotal amount paid by cable systems in compensation under section 325 of this title.
 
 #### (B) Form
 
@@ -302,7 +302,7 @@ Subsec. (c)(1)(B). Pub. L. 104–104, §301(b)(1)(A), substituted "franchising a
 
 Subsec. (c)(1)(C). Pub. L. 104–104, §301(b)(1)(B), substituted "the first complaint filed with the franchising authority under paragraph (3)" for "such complaint".
 
-Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
+Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text offormer par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
 
 Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
 
@@ -324,7 +324,7 @@ Pub. L. 102–385, §3(b), Oct. 5, 1992, 106 Stat. 1471, provided that: "The ame
 
 #### Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) ofPub. L. 98–549, set out as a note under section 521 of this title.
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 
 #### Restoration, Retierment and Repricing of Service Previously Eliminated, Retiered, or Repriced
 

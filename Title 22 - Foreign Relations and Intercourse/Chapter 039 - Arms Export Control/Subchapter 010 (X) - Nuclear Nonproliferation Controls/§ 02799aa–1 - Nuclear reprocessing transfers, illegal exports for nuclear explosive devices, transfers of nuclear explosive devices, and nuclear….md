@@ -58,7 +58,7 @@
 
 &emsp;(F) The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
-&emsp;(G) The authorities of section 2405 of title 50, Appendix, shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] (relating to congressional oversight of intelligence activities).
+&emsp;(G) The authorities of section 4605 of title 50 shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] (relating to congressional oversight of intelligence activities).
 
 (3) As used in this subsection—
 
@@ -124,7 +124,7 @@ Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: "The ame
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905,set out as a note under section 301 of Title 3, The President.
 
 #### Waiver of Certain Sanctions Against North Korea
 
@@ -230,7 +230,7 @@ Reporting requirement.—Not later than 60 days after the date of the enactment 
 
 "(e)
 
-Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
+Congressional Notification.—The issuance of a license for export of a defense article, defense service,or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
 "(f)
 
@@ -254,7 +254,7 @@ Determination of President of the United States, No. 98–25, May 30, 1998, 63 F
 
 #### Waiver of Certain Sanctions Against India and Pakistan
 
-Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub.L. 106–79, set out as a note above, or section 101(a) \[title IX, §902\] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
+Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, or section 101(a) \[title IX, §902\] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
 
 Determination of President of the United States, No. 2001–28, Sept. 22, 2001, 66 F.R. 50095.
 

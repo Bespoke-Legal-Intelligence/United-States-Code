@@ -194,7 +194,7 @@ In subsection (b), before clause (1), the words "for an airport" are added for c
 
 In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
 
-In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
+In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" areomitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
 
 In subsection (c)(4)(A), the words "to the Secretary" are added for clarity.
 
@@ -286,7 +286,7 @@ Contents.—In conducting the study, the Secretary, at a minimum, shall assess�
 
 "(c)
 
-Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of otherappropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
+Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of other appropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
 
 "(d)
 

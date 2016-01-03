@@ -140,7 +140,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks against foreign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
 
-&emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bombNew York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
+&emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bomb New York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
 
 &emsp;"(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
 
@@ -266,7 +266,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 "(a)
 
-OPIC.—The President should initiate negotiations with the Government of East Timor to enter intoa new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
+OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
 
 "(b)
 
@@ -376,7 +376,7 @@ Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 6
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the formof excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
 
 You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
 
@@ -468,7 +468,7 @@ Availability of Funds.—The Secretary may make a grant to nongovernmental organ
 
 #### Report to Congress on Activities of North Korean Armed Forces
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2),Sept. 30, 2002, 116 Stat. 1441, which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People's Republic of Korea, was repealed by Pub. L. 113–76, div. K, title VII, §7034(i), Jan. 17, 2014, 128 Stat. 514.
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People's Republic of Korea, was repealed by Pub. L. 113–76, div. K, title VII, §7034(i), Jan. 17, 2014, 128 Stat. 514.
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
@@ -498,7 +498,7 @@ Report on United States-Tibet Relations.—Because Congress has determined that 
 
 &emsp;"(1) it is the sense of the Congress that the United States should seek to establish a dialogue with those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, concerning the situation in Tibet and the future of the Tibetan people and to expand and strengthen United States-Tibet cultural and educational relations, including promoting bilateral exchanges arranged directly with the Tibetan Government in exile; and
 
-&emsp;"(2) not later than 6 months after the date of enactment of this Act \[Apr. 30, 1994\], and every 12 months thereafter, the Secretary of State shall transmit to the Chairman of the Committee on Foreign Relations and the Speaker of the House of Representatives a report on the state of relations between the United States and those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, and on conditions in Tibet.
+&emsp;"(2) not later than 6 months after the date of enactment of this Act \[Apr. 30, 1994\], and every 12 months thereafter, the Secretary of State shall transmit to the Chairman of the Committee on Foreign Relations and the Speaker of the House of Representatives a report on the state of relations between the United States and those recognized by Congress as the true representatives of the Tibetan people, the DalaiLama, his representatives and the Tibetan Government in exile, and on conditions in Tibet.
 
 "(b)
 
@@ -642,7 +642,7 @@ Definition.—As used in this section, the term 'respect for freedom of the pres
 
 #### Emergency Telephone Service at United States Consular Offices
 
-Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that theSecretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
+Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It is the sense of the Congress that the Secretary of State should ensure that all United States consular offices are equipped with 24-hour emergency telephone service through which United States citizens can contact a member of the staff of any such office. The Secretary should publicize the telephone number of each such service for the information of United States citizens. Not more than 90 days after the date of the enactment of this Act \[Aug. 16, 1985\], the Secretary shall submit a report to the Congress on steps taken in accordance with this section."
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
@@ -668,7 +668,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: "That the Congress reaf
 
 &emsp;"(4) instructions to express concern in individual cases of torture brought to the attention of a United States diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
 
-"(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\].
+"(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\].
 
 "(d) The heads of the appropriate departments of the United States Government that furnish military and law enforcement training to foreign personnel, particularly personnel from countries where the practice of torture has been a documented concern, shall include in such training, when relevant, instruction regarding international human rights standards and the policy of the United States with respect to torture."
 
@@ -716,13 +716,13 @@ Pub. L. 95–426, title VI, §603, Oct. 7, 1978, 92 Stat. 985, as amended by Pub
 
 Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: "The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents."
 
-#### Ex. Ord. No. 13584. Developing an Integrated Strategic Counterterrorism Communications Initiative and Establishing a Temporary Organization to Support Certain Government-wide Communications Activities Directed Abroad
+#### Ex. Ord. No. 13584. Developing an Integrated Strategic Counterterrorism Communications Initiative and Establishing a Temporary Organization To Support Certain Government-wide Communications Activities Directed Abroad
 
 Ex. Ord. No. 13584, Sept. 9, 2011, 76 F.R. 56945, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 2656 of title 22, United States Code, and section 3161 of title 5, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States is committed to actively countering the actions and ideologies of al-Qa'ida, its affiliates and adherents, other terrorist organizations, and violent extremists overseas that threaten the interests and national security of the United States. These efforts take many forms, but all contain a communications element and some use of communications strategies directed to audiences outside the United States to counter the ideology and activities of such organizations. These communications strategies focus not only on the violent actions and human costs of terrorism, but also on narratives that can positively influence those who may be susceptible to radicalization and recruitment by terrorist organizations.
+Section 1. <i>Policy</i>. The United States is committed to actively countering the actions and ideologies of al-Qa'ida, its affiliates and adherents, other terrorist organizations, and violent extremists overseas that threaten the interests and national security of the United States. These efforts take many forms, but all contain a communications element and some use of communications strategies directed to audiences outside the United States to counter the ideology and activities of such organizations. These communicationsstrategies focus not only on the violent actions and human costs of terrorism, but also on narratives that can positively influence those who may be susceptible to radicalization and recruitment by terrorist organizations.
 
 The purpose of this Executive Order is to reinforce, integrate, and complement public communications efforts across the executive branch that are (1) focused on countering the actions and ideology of al-Qa'ida, its affiliates and adherents, and other international terrorist organizations and violent extremists overseas, and (2) directed to audiences outside the United States. This collaborative work among executive departments and agencies (agencies) brings together expertise, capabilities, and resources to realize efficiencies and better coordination of U.S. Government communications investments to combat terrorism and extremism.
 
@@ -750,7 +750,7 @@ Executive branch efforts undertaken through the Center shall draw on all agencie
 
 Sec. 3. <i>Establishment of a Temporary Organization</i>.
 
-(a) There is established within the Department of State, in accordance with section 3161 of title 5, UnitedStates Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
+(a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Counterterrorism Communications Support Office (CCSO).
 
 (b) The purpose of the CCSO shall be to perform the specific project of supporting agencies in Government-wide public communications activities targeted against violent extremism and terrorist organizations, especially al-Qa'ida and its affiliates and adherents, to audiences abroad by using communication tools designed to counter violent extremism and terrorism that threaten the interests and national security of the United States.
 

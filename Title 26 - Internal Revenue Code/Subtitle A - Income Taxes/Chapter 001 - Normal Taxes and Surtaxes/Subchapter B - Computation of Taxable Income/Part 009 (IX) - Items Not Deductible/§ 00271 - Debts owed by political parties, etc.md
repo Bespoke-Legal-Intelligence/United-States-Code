@@ -18,7 +18,7 @@ In the case of a taxpayer (other than a bank as defined in section 581) no deduc
 
 #### (2) Contributions
 
-&emsp;For purposes of paragraph (1)(C), the term "contributions" includes a gift, subscription, loan, advance, or deposit, of money, or anything of value, and includes a contract, promise, or agreement to make a contribution, whether or not legally enforceable.
+&emsp;For purposes of paragraph (1)(C), the term "contributions" includes a gift, subscription,loan, advance, or deposit, of money, or anything of value, and includes a contract, promise, or agreement to make a contribution, whether or not legally enforceable.
 
 #### (3) Expenditures
 

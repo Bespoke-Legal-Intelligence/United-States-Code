@@ -36,7 +36,7 @@
 
 #### (d) Funds for pre-employment transition services
 
-(1) From any State allotment under subsection (a) for a fiscal year, the State shall reserve not less than 15 percent of the allotted funds for the provision of pre-employment transition services.
+(1) From any State allotment under subsection (a) for a fiscal year, the State shall reserve not less than 15 percent of the allottedfunds for the provision of pre-employment transition services.
 
 (2) Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 113–128, §419(3), added subsec. (d).
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

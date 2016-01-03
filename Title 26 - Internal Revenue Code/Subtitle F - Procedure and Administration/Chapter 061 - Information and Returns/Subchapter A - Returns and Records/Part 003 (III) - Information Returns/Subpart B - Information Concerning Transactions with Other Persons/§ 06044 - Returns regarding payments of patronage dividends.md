@@ -80,7 +80,7 @@ Subsec. (d). Pub. L. 89–809, §211(d)(2), inserted references to qualified per
 
 Payments of $100
 
-or More.—Any corporation allocating amounts as patronage dividends, rebates, or refunds (whether in cash, merchandise, capital stock, revolving fund certificates, retain certificates, certificates of indebtedness, letters of advice, or in some other manner that discloses to each patron the amount of such dividend, refund, or rebate) shall make a return showing—
+or More.—Any corporation allocating amounts as patronage dividends, rebates, orrefunds (whether in cash, merchandise, capital stock, revolving fund certificates, retain certificates, certificates of indebtedness, letters of advice, or in some other manner that discloses to each patron the amount of such dividend, refund, or rebate) shall make a return showing—
 
 &emsp;"(1) The name and address of each patron to whom it has made such allocations amounting to $100 or more during the calendar year; and
 

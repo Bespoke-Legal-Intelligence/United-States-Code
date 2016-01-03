@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) "underrepresentation" means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constituted within the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
+&emsp;(1) "underrepresentation" means a situation in which the number of members of a minority group designation (determined by the Equal Employment Opportunity Commission in consultation with the Office of Personnel Management, on the basis of the policy set forth in subsection (b) of this section) within a category of civil service employment constitutes a lower percentage of the total number of employees within the employment category than the percentage that the minority constitutedwithin the labor force of the United States, as determined under the most recent decennial or mid-decade census, or current population survey, under title 13, and
 
 &emsp;(2) "category of civil service employment" means—
 
@@ -14,7 +14,7 @@
 
 (b) It is the policy of the United States to insure equal employment opportunities for employees without discrimination because of race, color, religion, sex, or national origin. The President shall use his existing authority to carry out this policy.
 
-(c) Not later than 180 days after the date of the enactment of the Civil Service Reform Act of1978, the Office of Personnel Management shall, by regulation, implement a minority recruitment program which shall provide, to the maximum extent practicable—
+(c) Not later than 180 days after the date of the enactment of the Civil Service Reform Act of 1978, the Office of Personnel Management shall, by regulation, implement a minority recruitment program which shall provide, to the maximum extent practicable—
 
 &emsp;(1) that each Executive agency conduct a continuing program for the recruitment of members of minorities for positions in the agency to carry out the policy set forth in subsection (b) in a manner designed to eliminate underrepresentation of minorities in the various categories of civil service employment within the Federal service, with special efforts directed at recruiting in minority communities, in educational institutions, and from other sources from which minorities can be recruited; and
 

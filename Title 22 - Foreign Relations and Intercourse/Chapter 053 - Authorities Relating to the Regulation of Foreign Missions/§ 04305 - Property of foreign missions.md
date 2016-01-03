@@ -2,7 +2,7 @@
 
 #### (a) Proposed acquisition, sale, or other disposition
 
-(1) The Secretary shall require any foreign mission, including any mission to an international organization (as defined in section 4309(b)(2) of this title), to notify the Secretary prior to any proposed acquisition, or any proposed sale or other disposition, of any real property by or on behalf of such mission. The foreign mission (or other party acting on behalf of the foreign mission) may initiate or execute any contract, proceeding, application, or other action required for the proposed action—
+(1) The Secretary shall require any foreign mission, including any mission to an international organization (as defined in section 4309(b)(2) of this title), to notify the Secretary prior to any proposed acquisition, or any proposed sale or other disposition, of any real property by or on behalf of such mission. The foreignmission (or other party acting on behalf of the foreign mission) may initiate or execute any contract, proceeding, application, or other action required for the proposed action—
 
 &emsp;(A) only after the expiration of the 60-day period beginning on the date of such notification (or after the expiration of such shorter period as the Secretary may specify in a given case); and
 
@@ -40,9 +40,9 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 &emsp;(A) any country listed as a Communist country in section 2370(f) of this title;
 
-&emsp;(B) any country determined by the Secretary of State, for purposes of section 2405(j) of the Appendix to title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
+&emsp;(B) any country determined by the Secretary of State, for purposes of section 4605(j) of title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
 
-&emsp;(C) any other country which engages in intelligence activities in the United Stateswhich are adverse to the national security interests of the United States.
+&emsp;(C) any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
 
 (5) As used in this section, the term "substantially improve" shall not be construed to prevent the establishment of a foreign mission by a country which, on December 22, 1987—
 

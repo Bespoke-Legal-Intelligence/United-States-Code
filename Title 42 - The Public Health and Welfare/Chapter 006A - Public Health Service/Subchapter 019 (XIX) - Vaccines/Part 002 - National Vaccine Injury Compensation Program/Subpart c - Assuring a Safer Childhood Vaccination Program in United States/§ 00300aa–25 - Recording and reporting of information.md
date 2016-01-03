@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Each health care provider who administers a vaccine set forth in the Vaccine Injury Table to any person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
+Each health care provider who administers a vaccine set forth in the Vaccine Injury Table toany person shall record, or ensure that there is recorded, in such person's permanent medical record (or in a permanent office log or file to which a legal representative shall have access upon request) with respect to each such vaccine—
 
 &emsp;(1) the date of administration of the vaccine,
 

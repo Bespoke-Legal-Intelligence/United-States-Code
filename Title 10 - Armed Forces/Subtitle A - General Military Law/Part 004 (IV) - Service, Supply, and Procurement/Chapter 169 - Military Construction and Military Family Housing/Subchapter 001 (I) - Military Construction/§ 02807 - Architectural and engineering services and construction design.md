@@ -44,7 +44,7 @@ Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: 
 
 Pub. L. 98–115, title VIII, §806, Oct. 11, 1983, 97 Stat. 786, provided that:
 
-"(a) The Secretary of Defense shall conduct a comprehensive review of current policies and practices of the Department of Defense with regard to the award of contracts for architectural and engineering services and construction design for military construction projects. The Secretary shall conduct such review with a view to determining whether current policies and practices of the Department of Defense result in a reasonable distribution of such contracts to firms of all sizes throughout the architect-engineer community.
+"(a) The Secretary of Defense shall conduct a comprehensive review of current policies and practices of the Department of Defense with regard to the award of contracts for architectural and engineering services and construction design for military construction projects. The Secretary shall conduct such review with a view to determining whether current policies andpractices of the Department of Defense result in a reasonable distribution of such contracts to firms of all sizes throughout the architect-engineer community.
 
 "(b) Upon the completion of such review, the Secretary shall modify current policies and practices of the Department to the extent necessary to ensure—
 

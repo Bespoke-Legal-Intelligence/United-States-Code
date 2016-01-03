@@ -18,7 +18,7 @@ There is established a board to be known as the "Enterprise for the Americas Boa
 
 #### (2) Chairperson
 
-&emsp;The Board shall be headed by a chairperson who shall be appointed by the President fromamong the representatives appointed under paragraph (1)(A).
+&emsp;The Board shall be headed by a chairperson who shall be appointed by the President from among the representatives appointed under paragraph (1)(A).
 
 #### (c) Responsibilities
 

@@ -36,7 +36,7 @@ The program shall—
 
 #### (2) Administration
 
-&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
+&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, ona competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
 
 #### (d) High-End Software Development Center
 

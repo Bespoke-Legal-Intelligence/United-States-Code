@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the "Director"), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
+&emsp;&emsp;To improve the quality, effectiveness, and efficiency of health care delivered pursuant to the programs established under titles XVIII, XIX, and XXI of the Social SecurityAct \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\], the Secretary <sup>1</sup> acting through the Director of the Agency for Healthcare Research and Quality (in this section referred to as the "Director"), shall conduct and support research to meet the priorities and requests for scientific evidence and information identified by such programs with respect to—
 
 &emsp;&emsp;&emsp;(i) the outcomes, comparative clinical effectiveness, and appropriateness of health care items and services (including prescription drugs); and
 

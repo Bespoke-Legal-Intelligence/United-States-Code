@@ -14,39 +14,39 @@ To assure the continued dedication of the United States to fundamental human rig
 
 #### (b) Presidential determination and report to Congress that nation is not violating freedom of emigration
 
-After January 3, 1975, (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (normal trade relations), (B) such country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
+After January 3, 1975, (A) products of a nonmarket economy country may be eligible to receive nondiscriminatory treatment (normal trade relations), (B) such country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (C) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a). Such report with respect to such country shall include information as to the nature and implementation of emigration laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter so long as such treatment is received, such credits or guarantees are extended, or such agreement is in effect.
 
 #### (c) Waiver authority of President
 
-(1) During the 18-month period beginning on January 3, 1975, the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, if he reports to the Congress that—
+(1) During the 18-month period beginning on January 3, 1975, the President is authorized to waive by Executive order the application of subsections (a) and (b) with respect to any country, if he reports to the Congress that—
 
 &emsp;(A) he has determined that such waiver will substantially promote the objectives of this section; and
 
 &emsp;(B) he has received assurances that the emigration practices of that country will henceforth lead substantially to the achievement of the objectives of this section.
 
-(2) During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) of this section with respect to any country, if the waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d) of this section, and if he reports to the Congress that—
+(2) During any period subsequent to the 18-month period referred to in paragraph (1), the President is authorized to waive by Executive order the application of subsections (a) and (b) with respect to any country, if the waiver authority granted by this subsection continues to apply to such country pursuant to subsection (d), and if he reports to the Congress that—
 
 &emsp;(A) he has determined that such waiver will substantially promote the objectives of this section; and
 
 &emsp;(B) he has received assurances that the emigration practices of that country will henceforth lead substantially to the achievement of the objectives of this section.
 
-(3) A waiver with respect to any country shall terminate on the day after the waiver authority granted by this subsection ceases to be effective with respect to such country pursuant to subsection (d) of this section. The President may, at any time, terminate by Executive order any waiver granted under this subsection.
+(3) A waiver with respect to any country shall terminate on the day after the waiver authority granted by this subsection ceases to be effective with respect to such country pursuant to subsection (d). The President may, at any time, terminate by Executive order any waiver granted under this subsection.
 
 #### (d) Extension of waiver authority
 
-(1) If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
+(1) If the President determines that the further extension of the waiver authority granted under subsection (c) will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
 
 &emsp;(A) be made not later than 30 days before the expiration of such authority;
 
 &emsp;(B) be made in a document transmitted to the House of Representatives and the Senate setting forth his reasons for recommending the extension of such authority; and
 
-&emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
+&emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
 
 > If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
 (2)(A) The requirements of this paragraph are met if the joint resolution is enacted under the procedures set forth in section 2193 of this title, and—
 
-&emsp;(i) the Congress adopts and transmits the joint resolution to the President before theend of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
+&emsp;(i) the Congress adopts and transmits the joint resolution to the President before the end of the 60-day period beginning on the date the waiver authority would expire but for an extension under paragraph (1), and
 
 &emsp;(ii) if the President vetoes the joint resolution, each House of Congress votes to override such veto on or before the later of the last day of the 60-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in section 2194(b) of this title) beginning on the date the Congress receives the veto message from the President.
 
@@ -68,13 +68,13 @@ The Tariff Schedules of the United States, referred to in subsec. (e), to be tre
 
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–206 substituted "(normal trade relations)" for "(most-favored-nation treatment)".
 
-<b>1990</b>—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted "If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will" for "If the waiver authority granted by subsection (c) of this section has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will" in introductory provisions, substituted ", unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2)." for ", unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country." in concluding provisions, and struck out former par. (1) which read as follows: "If the President determines that the extension of the waiver authority granted by subsection (c)(1) of this section will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted "If the President determines that the further extension of the waiver authority granted under subsection (c) will" for "If the waiver authority granted by subsection (c) has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will" in introductory provisions, substituted ", unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2)." for ", unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country." in concluding provisions, and struck out former par. (1) which read as follows: "If the President determines that the extension of the waiver authority granted by subsection (c)(1) will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
 
 &emsp;"(A) be made not later than 30 days before the expiration of such authority;
 
 &emsp;"(B) be made in the document transmitted to the House of Representatives and the Senate setting forth his reasons for recommending the extension of such authority; and
 
-&emsp;"(C) include, for each country with respect to which a waiver granted under subsection (c)(1) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination."
+&emsp;"(C) include, for each country with respect to which a waiver granted under subsection (c)(1) is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination."
 
 Subsec. (d)(2). Pub. L. 101–382, §132(a)(2)(A), (C), added par. (2) and struck out former par. (2) which authorized extension of waiver authority for 12-month period upon recommendation of President and adoption of concurrent resolution approving extension of authority and not excluding country, and provided procedures if such resolution was not adopted.
 
@@ -82,7 +82,7 @@ Subsec. (d)(3), (4). Pub. L. 101–382, §132(a)(2)(A), struck out par. (3) whic
 
 Subsec. (d)(5). Pub. L. 101–382, §132(a)(2)(B), redesignated par. (5) as (1).
 
-<b>1979</b>—Subsec. (c)(1). Pub. L. 96–39 substituted "subsections (a) and (b) of this section" for "subsection (a) and (b) of this section" in provisions preceding subpar. (A).
+<b>1979</b>—Subsec. (c)(1). Pub. L. 96–39 substituted "subsections (a) and (b)" for "subsection (a) and (b)" in provisions preceding subpar. (A).
 
 #### Effective Date of 1990 Amendment
 
@@ -98,7 +98,7 @@ Extension of waiver authority.—
 
 &emsp;"(A) The amendments made by subsections (a) and (c)(4) and (5) \[amending this section and sections 2192 and 2193 of this title\] apply with respect to recommendations made under section 402(d) of the Trade Act of 1974 \[subsec. (d) of this section\] by the President after May 23, 1990.
 
-&emsp;"(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] with respect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
+&emsp;"(B) Solely for purposes of applying the applicable provisions of the Trade Act of 1974 \[this chapter\] withrespect to the recommendations made by the President to the House of Representatives and the Senate under subsection (d) of section 402 of the Trade Act of 1974 after May 23, 1990, and on or before the date of the enactment of this Act—
 
 &emsp;&emsp;"(i) in paragraph (2)(A)(i) of subsection (d) of such section 402 (as amended by subsection (a)), the date on which the waiver authority granted under subsection (c) of such section 402 would expire but for an extension under paragraph (1) of such subsection (d) is the date of the enactment of this Act;
 

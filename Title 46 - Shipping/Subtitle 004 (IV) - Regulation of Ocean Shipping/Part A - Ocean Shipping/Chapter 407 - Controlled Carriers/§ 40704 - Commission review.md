@@ -22,7 +22,7 @@ Not yet effective.—Pending a determination of the lawfulness of a rate, charge
 
 &emsp;(2)
 
-Already effective.—If a rate, charge, classification, rule, or regulation has already become effective, the Commission, on issuance of an order to show cause, may suspend the rate, charge, classification, rule, or regulationon at least 30 days' notice to the controlled carrier.
+Already effective.—If a rate, charge, classification, rule, or regulation has already become effective, the Commission, on issuance of an order to show cause, may suspend the rate, charge, classification, rule, or regulation on at least 30 days' notice to the controlled carrier.
 
 &emsp;(3)
 

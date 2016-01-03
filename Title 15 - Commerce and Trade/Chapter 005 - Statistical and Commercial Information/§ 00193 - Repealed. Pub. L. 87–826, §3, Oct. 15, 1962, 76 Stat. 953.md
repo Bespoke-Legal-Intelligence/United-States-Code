@@ -1,6 +1,6 @@
 ### §193. Repealed. Pub. L. 87–826, §3, Oct. 15, 1962, 76 Stat. 953
 
-Section, act Jan. 5, 1923, ch. 23, §2, 42 Stat. 1110, related to statements and reports for collectors of customsand Treasury Department. See section 301 et seq. of Title 13, Census.
+Section, act Jan. 5, 1923, ch. 23, §2, 42 Stat. 1110, related to statements and reports for collectors of customs and Treasury Department. See section 301 et seq. of Title 13, Census.
 
 #### Effective Date of Repeal
 

@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (2) Failure to notify
 
-&emsp;If a transferor described in paragraph (1) fails to make a notification in accordancewith such paragraph and, subsequent to the transfer of the property—
+&emsp;If a transferor described in paragraph (1) fails to make a notification in accordance with such paragraph and, subsequent to the transfer of the property—
 
 &emsp;&emsp;(A) the transferee fails to obtain or maintain flood insurance in accordance with applicable Federal law with respect to the property,
 

@@ -22,7 +22,7 @@ For purposes of this part—
 
 #### (1) Certain partners not counted
 
-&emsp;For purposes of this section, the term "partner" does not include any individual performing substantial services in connection with the activities of the partnership and holding an interest in such partnership, or an individualwho formerly performed substantial services in connection with such activities and who held an interest in such partnership at the time the individual performed such services.
+&emsp;For purposes of this section, the term "partner" does not include any individual performing substantial services in connection with the activities of the partnership and holding an interest in such partnership, or an individual who formerly performed substantial services in connection with such activities and who held an interest in such partnership at the time the individual performed such services.
 
 #### (2) Exclusion
 
@@ -48,9 +48,17 @@ If, on the partnership return of any partnership, such partnership is treated as
 
 (Added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1006; amended Pub. L. 106–170, title V, §532(c)(2)(G), Dec. 17, 1999, 113 Stat. 1930.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(b)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–170 substituted "section 1221(a)(1)" for "section 1221(1)".
+
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 
 #### Effective Date of 1999 Amendment
 

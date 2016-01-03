@@ -12,7 +12,7 @@ Definition.—In this section, "law enforcement personnel" means individuals—
 
 (b)
 
-Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
+Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act ofcriminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -38,7 +38,7 @@ Security Programs.—(1) The Under Secretary shall prescribe regulations under s
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
-&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliancewith the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
+&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
 (B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
@@ -176,7 +176,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(iv) apply to all Federal, State, local, tribal, and territorial government law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, orterritorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
+&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
 
 &emsp;&emsp;(C)
 
@@ -262,7 +262,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the "piggy-backing" phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currentlyavailable technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -366,7 +366,7 @@ Appeal procedures.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat under one or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
+In general.—The Assistant Secretary shall establish a timely and fair process for individuals identified as a threat underone or more of subparagraphs (C), (D), and (E) to appeal to the Transportation Security Administration the determination and correct any erroneous information.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -606,7 +606,119 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Airport Security
+
+Pub. L. 114–50, Sept. 24, 2015, 129 Stat. 490, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Gerardo Hernandez Airport Security Act of 2015'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Assistant secretary.—The term 'Assistant Secretary' means the Assistant Secretary of Homeland Security (Transportation Security) of the Department of Homeland Security.
+
+&emsp;"(2)
+
+Administration.—The term 'Administration' means the Transportation Security Administration.
+
+#### "SEC. 3. SECURITY INCIDENT RESPONSE AT AIRPORTS.
+
+"(a)
+
+In General.—The Assistant Secretary shall, in consultation with other Federal agencies as appropriate, conduct outreach to all airports in the United States at which the Administration performs, or oversees the implementation and performance of, security measures, and provide technical assistance as necessary, to verify such airports have in place individualized working plans for responding to security incidents inside the perimeter of the airport, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.
+
+"(b)
+
+Types of Plans.—Such plans may include, but may not be limited to, the following:
+
+&emsp;"(1) A strategy for evacuating and providing care to persons inside the perimeter of the airport, with consideration given to the needs of persons with disabilities.
+
+&emsp;"(2) A plan for establishing a unified command, including identification of staging areas for non-airport-specific law enforcement and fire response.
+
+&emsp;"(3) A schedule for regular testing of communications equipment used to receive emergency calls.
+
+&emsp;"(4) An evaluation of how emergency calls placed by persons inside the perimeter of the airport will reach airport police in an expeditious manner.
+
+&emsp;"(5) A practiced method and plan to communicate with travelers and all other persons inside the perimeter of the airport.
+
+&emsp;"(6) To the extent practicable, a projected maximum timeframe for law enforcement response to active shooters, acts of terrorism, and incidents that target passenger security-screening checkpoints.
+
+&emsp;"(7) A schedule of joint exercises and training to be conducted by the airport, the Administration, other stakeholders such as airport and airline tenants, and any relevant law enforcement, airport police, fire, and medical personnel.
+
+&emsp;"(8) A schedule for producing after-action joint exercise reports to identify and determine how to improve security incident response capabilities.
+
+&emsp;"(9) A strategy, where feasible, for providing airport law enforcement with access to airport security video surveillance systems at category X airportswhere those systems were purchased and installed using Administration funds.
+
+"(c)
+
+Report to Congress.—Not later than 180 days after the date of the enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to airports under subsection (a), including an analysis of the level of preparedness such airports have to respond to security incidents, including active shooters, acts of terrorism, and incidents that target passenger-screening checkpoints.
+
+#### "SEC. 4. DISSEMINATING INFORMATION ON BEST PRACTICES.
+
+"The Assistant Secretary shall—
+
+&emsp;"(1) identify best practices that exist across airports for security incident planning, management, and training; and
+
+&emsp;"(2) establish a mechanism through which to share such best practices with other airport operators nationwide.
+
+#### "SEC. 5. CERTIFICATION.
+
+"Not later than 90 days after the date of enactment of this Act \[Sept. 24, 2015\], and annually thereafter, the Assistant Secretary shall certify in writing to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that all screening personnel have participated in practical training exercises for active shooter scenarios.
+
+#### "SEC. 6. REIMBURSABLE AGREEMENTS.
+
+"Not later than 90 days after the enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an analysis of how the Administration can use cost savings achieved through efficiencies to increase over the next 5 fiscal years the funding available for checkpoint screening law enforcement support reimbursable agreements.
+
+#### "SEC. 7. SECURITY INCIDENT RESPONSE FOR SURFACE TRANSPORTATION SYSTEMS.
+
+"(a)
+
+In General.—The Assistant Secretary shall, in consultation with the Secretary of Transportation, and other relevant agencies, conduct outreach to all passenger transportation agencies and providers with high-risk facilities, as identified by the Assistant Secretary, to verify such agencies and providers have in place plans to respond to active shooters, acts of terrorism, or other security-related incidents that target passengers.
+
+"(b)
+
+Types of Plans.—As applicable, such plans may include, but may not be limited to, the following:
+
+&emsp;"(1) A strategy for evacuating and providing care to individuals, with consideration given to the needs of persons with disabilities.
+
+&emsp;"(2) A plan for establishing a unified command.
+
+&emsp;"(3) A plan for frontline employees to receive active shooter training.
+
+&emsp;"(4) A schedule for regular testing of communications equipment used to receive emergency calls.
+
+&emsp;"(5) An evaluation of how emergency calls placed by individuals using the transportation system will reach police in an expeditious manner.
+
+&emsp;"(6) A practiced method and plan to communicate with individuals using the transportation system.
+
+"(c)
+
+Report to Congress.—Not later than 180 days after the date of enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall report to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the findings from its outreach to the agencies and providers under subsection (a), including an analysis of the level of preparedness such transportation systems have to respond to security incidents.
+
+"(d)
+
+Dissemination of Best Practices.—The Assistant Secretary shall identify best practices for security incident planning, management, and training and establish a mechanism through which to share such practices with passenger transportation agencies nationwide.
+
+#### "SEC. 8. NO ADDITIONAL AUTHORIZATION OF APPROPRIATIONS.
+
+"No additional funds are authorized to be appropriated to carry out this Act, and this Act shall be carried out using amounts otherwise available for such purpose.
+
+#### "SEC. 9. INTEROPERABILITY REVIEW.
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Sept. 24, 2015\], the Assistant Secretary shall, in consultation with the Assistant Secretary of the Office of Cybersecurity and Communications, conduct a review of the interoperable communications capabilities of the law enforcement, fire, and medical personnel responsible for responding to a security incident, including active shooter events, acts of terrorism, and incidents that target passenger-screening checkpoints, at all airports in the United States at which the Administration performs, or oversees the implementation and performance of, security measures.
+
+"(b)
+
+Report.—Not later than 30 days after the completion of the review, the Assistant Secretary shall report the findings of the review to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
 #### Cabin Flight Crew Participation in Known Crewmember Pilot Program
 
@@ -744,7 +856,7 @@ In General.—The Under Secretary for Border and Transportation Security of the 
 
 "(b) GAO
 
-Report.—Not later than 90 days after the date on which certification is provided under subsection (a), the Comptroller General shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science and Transportation of the Senate that assesses the impact of CAPPS2 on the issues listed in subsection (a) and on privacy and civil liberties. The report shall include any recommendations for practices, procedures, regulations, or legislation to eliminate or minimize adverse effect of CAPPS2 on privacy, discrimination, and other civil liberties."
+Report.—Not later than 90 days after the date on which certification is provided under subsection (a), the Comptroller General shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee onTransportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science and Transportation of the Senate that assesses the impact of CAPPS2 on the issues listed in subsection (a) and on privacy and civil liberties. The report shall include any recommendations for practices, procedures, regulations, or legislation to eliminate or minimize adverse effect of CAPPS2 on privacy, discrimination, and other civil liberties."
 
 #### Reimbursement of Air Carriers for Certain Screening and Related Activities
 
@@ -810,7 +922,7 @@ Certification by operator.—If the operator of an airport described in paragrap
 
 &emsp;"(B)
 
-Countermand period.—The time period within which the Secretary may notify an airport operator,after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
+Countermand period.—The time period within which the Secretary may notify an airport operator, after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
 
 &emsp;&emsp;"(i) 15 days for a nonhub airport (as defined in section 41714(h) of title 49, United States Code);
 
@@ -834,7 +946,7 @@ Pub. L. 107–71, title I, §121, Nov. 19, 2001, 115 Stat. 630, provided that:
 
 "(a)
 
-Airport Security.—There is authorized to be appropriated to the Secretary of Transportation for fiscal years 2002 and 2003 a total of $1,500,000,000 to reimburse airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers for direct costs incurred by such operators to comply with new, additional, or revised security requirements imposed on such operators by the Federal Aviation Administration or Transportation Security Administration on or after September 11, 2001. Such sums shall remain available until expended.
+Airport Security.—There is authorized to be appropriated to the Secretary of Transportation for fiscal years 2002 and 2003 a total of $1,500,000,000 to reimburseairport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers for direct costs incurred by such operators to comply with new, additional, or revised security requirements imposed on such operators by the Federal Aviation Administration or Transportation Security Administration on or after September 11, 2001. Such sums shall remain available until expended.
 
 "(b)
 

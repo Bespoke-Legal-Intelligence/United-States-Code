@@ -14,7 +14,7 @@ Language is changed. The requirement that the Commissioner notify the parties is
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "142".
 
-Pub. L. 112–29, §7(c)(3), substituted "In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervenein an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32." for "In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal." and struck out second occurrence of "The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal." at the end.
+Pub. L. 112–29, §7(c)(3), substituted "In an ex parte case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all of the issues raised in the appeal. The Director shall have the right to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board in a derivation proceeding under section 135 or in an inter partes or post-grant review under chapter 31 or 32." for "In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal." and struck out second occurrence of "The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal." at the end.
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -44,7 +44,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office onNov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
 
 #### Effective Date of 1982 Amendment
 

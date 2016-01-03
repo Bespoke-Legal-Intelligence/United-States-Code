@@ -126,7 +126,7 @@ Delegation.—To the extent that any authorities, powers, and responsibilities o
 
 (d)
 
-Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9703 of title 31, United States Code, and other relevant authorities.
+Designation as Enforcement Organization.—The Office of Terrorism and Financial Intelligence (including any components thereof) is designated as a law enforcement organization of the Department of the Treasury for purposes of section 9705 of title 31, United States Code, and other relevant authorities.
 
 (e)
 
@@ -136,7 +136,7 @@ Use of Existing Resources.—The Secretary may employ personnel, facilities, and
 
 References.—References in this section to the "Secretary", "Undersecretary", "Deputy Secretary", "Deputy Assistant Secretary", "Office", "Assistant Secretary", and "Department" are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
-(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580.)
+(Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580; amended Pub. L. 114–22, title I, §105(c)(2)(A)(ii)(I), May 29, 2015, 129 Stat. 237.)
 
 #### References in Text
 
@@ -146,13 +146,13 @@ For the Bank Secrecy Act, referred to in subsec. (a)(4)(A), see Short Title note
 
 Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat. 2603, which enacted section 311 of this title. For complete classification of section 105 to the Code, see Tables.
 
-Section 9703 of title 31, referred to in subsec. (d), probably means the section 9703 of this title added by section 638(b)(1) of Pub. L. 102–393.
-
 #### Prior Provisions
 
 A prior section 312 was renumbered section 315 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–22 substituted "section 9705" for "section 9703".
 
 <b>2010</b>—Pub. L. 111–203 renumbered section 313 of this title as this section.
 

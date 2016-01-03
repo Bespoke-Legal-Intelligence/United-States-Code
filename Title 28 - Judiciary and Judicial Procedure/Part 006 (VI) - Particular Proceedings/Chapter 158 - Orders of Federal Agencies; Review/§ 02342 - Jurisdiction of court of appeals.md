@@ -90,7 +90,7 @@ Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former pa
 
 <b>1984</b>—Par. (5). Pub. L. 98–554 substituted "11901(j)(2)" for "11901(i)(2)".
 
-<b>1982</b>—Pub. L. 97–164 inserted "(other than the United States Court of Appeals for the Federal Circuit)" after "court of appeals" in provisions preceding par. (1), andstruck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
+<b>1982</b>—Pub. L. 97–164 inserted "(other than the United States Court of Appeals for the Federal Circuit)" after "court of appeals" in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
 
 <b>1980</b>—Par. (5). Pub. L. 96–454 inserted "and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code" after "section 2321 of this title".
 
@@ -104,7 +104,7 @@ Pub. L. 104–287, §6(f), Oct. 11, 1996, 110 Stat. 3399, provided that the amen
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1988 Amendment
 

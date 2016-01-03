@@ -52,7 +52,7 @@ The basis of property received in a distribution to which subsection (a) applies
 
 #### (1) In general
 
-&emsp;Except to the extent otherwise provided in regulations, solely for purposes of determining the taxable income of any 20 percent corporate shareholder (and its adjusted basis in the stock of the distributing corporation), section 312 shall be applied with respect to the distributing corporation as if it did not contain subsections (k) and (n) thereof.
+&emsp;Except to the extent otherwise provided in regulations, solely for purposes of determiningthe taxable income of any 20 percent corporate shareholder (and its adjusted basis in the stock of the distributing corporation), section 312 shall be applied with respect to the distributing corporation as if it did not contain subsections (k) and (n) thereof.
 
 #### (2) 20 percent corporate shareholder
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 Amendment by section 1006(e)(10)–(12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by section 2004(j)(3)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -262,5 +262,5 @@ Pub. L. 99–514, title VI, §634, Oct. 22, 1986, 100 Stat. 2282, directed Secre
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -12,7 +12,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (3) Business of insurance
 
-&emsp;The term "business of insurance" means the writing of insurance or the reinsuring of risks by an insurer, including all acts necessary to such writing or reinsuring and the activities relating to the writing of insurance or the reinsuring of risks conducted by persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons.
+&emsp;The term "business of insurance" means the writing of insurance or the reinsuring of risksby an insurer, including all acts necessary to such writing or reinsuring and the activities relating to the writing of insurance or the reinsuring of risks conducted by persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons.
 
 #### (4) Consumer
 
@@ -72,7 +72,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (12) Enumerated consumer laws
 
-&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitleH, the term "enumerated consumer laws" means—
+&emsp;Except as otherwise specifically provided in section 5519 of this title, subtitle G or subtitle H, the term "enumerated consumer laws" means—
 
 &emsp;&emsp;(A) the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.);
 
@@ -148,7 +148,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructionsby the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
+&emsp;&emsp;&emsp;&emsp;(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
 
 &emsp;&emsp;&emsp;&emsp;(II) provides access to a host server to a person for purposes of enabling that person to establish and maintain a website;
 
@@ -304,7 +304,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term "service provider" means any person that provides a material service to acovered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
+&emsp;&emsp;The term "service provider" means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
 
 &emsp;&emsp;&emsp;(i) participates in designing, operating, or maintaining the consumer financial product or service; or
 
@@ -382,7 +382,7 @@ The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L
 
 The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289,July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 

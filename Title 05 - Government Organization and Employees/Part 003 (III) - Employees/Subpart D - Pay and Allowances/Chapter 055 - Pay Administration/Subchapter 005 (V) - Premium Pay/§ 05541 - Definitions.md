@@ -48,7 +48,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(viii) an employee of the Tennessee Valley Authority;
 
-&emsp;&emsp;(ix) an individual to whom section 1291(a) of title 50, appendix, applies;
+&emsp;&emsp;(ix) an individual to whom section 1291(a) <sup>2</sup> of title 50, appendix, applies;
 
 &emsp;&emsp;(x) an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
 
@@ -138,6 +138,10 @@ The exception for officers and employees of the Inland Waterways Corporation in 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is section 1(a) of act Mar. 24, 1943, ch. 26, 57 Stat. 45, which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, related to certain seamen employed on vessels through the War Shipping Administration, and has been omitted from the Code.
+
 #### Amendments
 
 <b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out "a member of the United States Secret Service Uniformed Division," before "a member of the United States Park Police".
@@ -198,7 +202,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendments
 
@@ -261,4 +265,6 @@ In General.—Notwithstanding any other provision of law, the Drug Enforcement A
 Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

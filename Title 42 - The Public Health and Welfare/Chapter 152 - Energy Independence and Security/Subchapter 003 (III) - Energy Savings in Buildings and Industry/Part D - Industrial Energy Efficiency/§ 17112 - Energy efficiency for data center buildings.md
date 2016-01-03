@@ -72,7 +72,7 @@ In this section:
 
 &emsp;&emsp;(D) have a mission to develop and promote energy efficiency for data centers and information technology; and
 
-&emsp;&emsp;(E) have the primary responsibility to consult in the development and publishing of the information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
+&emsp;&emsp;(E) have the primary responsibility to consult in the development and publishing ofthe information, measurements, and benchmarks described in subsection (b) and transmission of the information to the Secretary and the Administrator for consideration under subsection (d).
 
 #### (d) Measurements and specifications
 

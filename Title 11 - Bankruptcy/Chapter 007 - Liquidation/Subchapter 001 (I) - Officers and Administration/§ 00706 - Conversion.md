@@ -20,7 +20,7 @@ Section 706 of the House amendment adopts a similar provision contained in H.R. 
 
 #### senate report no. 95–989
 
-Subsection (a) of this section gives the debtor the one-time absolute right of conversion of a liquidation case to a reorganization or individual repayment plan case. If the case has already once been converted from chapter 11 or 13 to chapter 7, then the debtor does not have that right. The policy of the provision is that the debtor should always be given the opportunity to repay his debts, and a waiver of the right to convert a case is unenforceable.
+Subsection (a) of this section gives the debtor the one-time absolute right of conversion of a liquidation case to a reorganization or individual repayment plan case. If the case has already once been converted from chapter 11 or 13 to chapter 7, then the debtor does not have that right. The policy of the provision is that thedebtor should always be given the opportunity to repay his debts, and a waiver of the right to convert a case is unenforceable.
 
 Subsection (b) permits the court, on request of a party in interest and after notice and a hearing, to convert the case to chapter 11 at any time. The decision whether to convert is left in the sound discretion of the court, based on what will most inure to the benefit of all parties in interest.
 

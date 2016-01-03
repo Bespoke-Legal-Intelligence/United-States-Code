@@ -20,17 +20,17 @@ For purposes of this section—
 
 #### (2) Qualified architectural and transportation barrier removal expenses
 
-&emsp;The term "qualified architectural and transportation barrier removal expense" means, with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
+&emsp;The term "qualified architectural and transportation barrier removal expense" means,with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
 
 #### (3) Handicapped individual
 
-&emsp;The term "handicapped individual" means any individual who has a physical or mentaldisability (including, but not limited to, blindness or deafness) which for such individual constitutes or results in a functional limitation to employment, or who has any physical or mental impairment (including, but not limited to, a sight or hearing impairment) which substantially limits one or more major life activities of such individual.
+&emsp;The term "handicapped individual" means any individual who has a physical or mental disability (including, but not limited to, blindness or deafness) which for such individual constitutes or results in a functional limitation to employment, or who has any physical or mental impairment (including, but not limited to, a sight or hearing impairment) which substantially limits one or more major life activities of such individual.
 
 #### (c) Limitation
 
 The deduction allowed by subsection (a) for any taxable year shall not exceed $15,000.
 
-(Added Pub. L. 94–455, title XXI, §2122(a), Oct. 4, 1976, 90 Stat. 1914; amended Pub. L. 98–369, div. A, title X, §1062(a)(1), (b), July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §244, Oct. 22, 1986, 100 Stat. 2183; Pub. L. 101–508, title XI, §§11611(c), 11801(a)(14), Nov. 5, 1990, 104 Stat. 1388–503, 1388–520.)
+(Added Pub. L. 94–455, title XXI, §2122(a), Oct. 4, 1976, 90 Stat. 1914; amended Pub. L. 98–369, div. A, title X, §1062(a)(1), (b), July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §244, Oct. 22, 1986, 100 Stat. 2183; Pub. L. 101–508, title XI, §§11611(c), 11801(a)(14), Nov. 5, 1990, 104 Stat. 1388–503, 1388-520.)
 
 #### Amendments
 

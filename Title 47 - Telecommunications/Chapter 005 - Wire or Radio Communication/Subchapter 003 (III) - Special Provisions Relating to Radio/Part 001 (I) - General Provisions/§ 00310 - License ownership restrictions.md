@@ -18,7 +18,7 @@ No broadcast or common carrier or aeronautical en route or aeronautical fixed ra
 
 #### (c) Authorization for aliens licensed by foreign governments; multilateral or bilateral agreement to which United States and foreign country are parties as prerequisite
 
-In addition to amateur station licenses which the Commission may issue to aliens pursuant to this chapter, the Commission may issue authorizations, under such conditions and terms as itmay prescribe, to permit an alien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
+In addition to amateur station licenses which the Commission may issue to aliens pursuant to this chapter, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit an alien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
 
 #### (d) Assignment and transfer of construction permit or station license
 
@@ -38,7 +38,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this Act
 
 #### Codification
 
-In subsec. (c), "subchapter II of chapter 5, and chapter 7, of title 5" substituted for "the Administrative Procedure Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), "subchapter II of chapter 5, and chapter 7, of title 5" substituted for "the AdministrativeProcedure Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

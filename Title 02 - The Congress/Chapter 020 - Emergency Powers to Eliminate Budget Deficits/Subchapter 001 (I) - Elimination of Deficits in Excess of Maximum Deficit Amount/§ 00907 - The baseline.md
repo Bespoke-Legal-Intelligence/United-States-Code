@@ -50,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnelshall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 

@@ -28,7 +28,7 @@ The local plan shall include—
 
 &emsp;(2) a description of the workforce development system in the local area that identifies the programs that are included in that system and how the local board will work with the entities carrying out core programs and other workforce development programs to support alignment to provide services, including programs of study authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), that support the strategy identified in the State plan under section 3112(b)(1)(E) of this title;
 
-&emsp;(3) a description of how the local board, working with the entities carrying out core programs, will expand access to employment, training, education, and supportive services for eligible individuals, particularly eligible individuals with barriers to employment, including how the local board will facilitate the development of career pathways and co-enrollment, as appropriate, in core programs, and improve access to activities leading to a recognized postsecondary credential (including a credential that is an industry-recognized certificate or certification, portable, and stackable);
+&emsp;(3) a description of how the local board, working with the entities carrying out core programs, will expand access to employment, training, education, and supportive services for eligible individuals, particularly eligible individuals with barriers to employment, including how the local board will facilitate thedevelopment of career pathways and co-enrollment, as appropriate, in core programs, and improve access to activities leading to a recognized postsecondary credential (including a credential that is an industry-recognized certificate or certification, portable, and stackable);
 
 &emsp;(4) a description of the strategies and services that will be used in the local area—
 
@@ -72,7 +72,7 @@ The local plan shall include—
 
 &emsp;(14) a description of the replicated cooperative agreements (as defined in section 3122(d)(11) of this title) between the local board or other local entities described in section 101(a)(11)(B) of the Rehabilitation Act of 1973 (29 U.S.C. 721(a)(11)(B)) and the local office of a designated State agency or designated State unit administering programs carried out under title I of such Act (29 U.S.C. 720 et seq.) (other than section 112 or part C of that title (29 U.S.C. 732, 741) and subject to section 3151(f) of this title) in accordance with section 101(a)(11) of such Act (29 U.S.C. 721(a)(11)) with respect to efforts that will enhance the provision of services to individuals with disabilities and to other individuals, such as cross training of staff, technical assistance, use and sharing of information, cooperative efforts with employers, and other efforts at cooperation, collaboration, and coordination;
 
-&emsp;(15) an identification of the entity responsible for the disbursal of grant funds described in section 3122(d)(12)(B)(i)(III) of this title, as determined by the chief elected official or the Governor under section 3122(d)(12)(B)(i) of this title;
+&emsp;(15) an identification of the entity responsible for the disbursal of grant funds described in section 3122(d)(12)(B)(i)(III) of this title, as determined by the chief elected official or theGovernor under section 3122(d)(12)(B)(i) of this title;
 
 &emsp;(16) a description of the competitive process to be used to award the subgrants and contracts in the local area for activities carried out under this subchapter;
 
@@ -122,11 +122,11 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6)(C), i
 
 The Wagner-Peyser Act, referred to in subsec. (b)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. TitleI of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 This Act, referred to in subsecs. (b)(21) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

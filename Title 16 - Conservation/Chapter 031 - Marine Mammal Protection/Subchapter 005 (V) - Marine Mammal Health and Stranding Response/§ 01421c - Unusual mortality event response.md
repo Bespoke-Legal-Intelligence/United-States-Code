@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
 
-&emsp;&emsp;(iii) developing the contingency plan in accordance with subsection (b) of this section, to assist the Secretary in responding to unusual mortality events.
+&emsp;&emsp;(iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
 
 &emsp;(B) The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
 
@@ -26,13 +26,13 @@
 
 &emsp;&emsp;&emsp;(ii) inform the stranding network participant of that determination; and
 
-&emsp;&emsp;&emsp;(iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c) of this section.
+&emsp;&emsp;&emsp;(iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c).
 
 #### (b) Contingency plan
 
 #### (1) In general
 
-&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusual mortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
+&emsp;The Secretary shall, in consultation with the Secretary of the Interior and the unusualmortality event working group, and after an opportunity for public review and comment, issue a detailed contingency plan for responding to any unusual mortality event.
 
 #### (2) Contents
 
@@ -66,7 +66,7 @@
 
 #### (2) Functions
 
-&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
+&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b), except that—
 
 &emsp;&emsp;(i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 

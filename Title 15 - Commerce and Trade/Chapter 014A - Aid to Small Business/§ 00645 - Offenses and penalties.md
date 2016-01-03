@@ -22,7 +22,7 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 &emsp;(C) subcontract that is to be included as part or all of a goal contained in a subcontracting plan required pursuant to section 637(d) of this title; or
 
-&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>1</sup> shall be subject to thepenalties and remedies described in paragraph (2).
+&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>1</sup> shall be subject to the penalties and remedies described in paragraph (2).
 
 (2) Any person who violates paragraph (1) shall—
 
@@ -36,15 +36,15 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 (3)
 
-Limitation on liability.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
+Limitation on liability.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in goodfaith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
 
-#### (e) Representations under subsection (d) of this section to be in writing
+#### (e) Representations under subsection (d) to be in writing
 
 Any representation of the status of any concern or person as a "small business concern", a "HUBZone small business concern", a "small business concern owned and controlled by socially and economically disadvantaged individuals", or a "small business concern owned and controlled by women" in order to obtain any prime contract or subcontract enumerated in subsection (d) of this section shall be in writing.
 
 #### (f) Misrepresentation of compliance with section 636(j)(10)(I)
 
-Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d) of this section.
+Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d).
 
 #### (g) Subcontracting limitations
 
@@ -94,7 +94,7 @@ Pub. L. 105–85 substituted "concern owned and controlled by women" for "concer
 
 Subsec. (e). Pub. L. 103–355, §7106(c)(2), substituted ", a 'small business concern owned and controlled by socially and economically disadvantaged individuals', or a 'small business concerns owned and controlled by women' " for "or 'small business concern owned and controlled by socially and economically disadvantaged individuals' ".
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting "subject to the penalties and remedies described in paragraph (2)" for "punished by a fine of not more than $50,000 or by imprisonment for not more than five years, or both", and adding par. (2).
+<b>1988</b>—Subsec. (d). Pub. L. 100–656, §405(a), amended subsec. (d) generally, designating existing provisions as par. (1), redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, and in subpar. (D), substituting "subject to the penalties and remedies described in paragraph (2)" for "punished by a fine of not more than$50,000 or by imprisonment for not more than five years, or both", and adding par. (2).
 
 Subsec. (f). Pub. L. 100–656, §405(b), added subsec. (f).
 

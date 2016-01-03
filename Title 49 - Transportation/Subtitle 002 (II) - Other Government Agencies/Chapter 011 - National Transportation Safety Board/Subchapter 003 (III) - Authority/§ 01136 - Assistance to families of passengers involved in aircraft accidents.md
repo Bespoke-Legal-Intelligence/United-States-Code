@@ -48,7 +48,7 @@ Use of information.—The director of family support services and the organizati
 
 (e)
 
-Continuing Responsibilities of the Board.—In the course of its investigation of an accident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
+Continuing Responsibilities of the Board.—In the course of its investigation of anaccident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
 
 &emsp;(1) are briefed, prior to any public briefing, about the accident, its causes, and any other findings from the investigation; and
 
@@ -88,7 +88,7 @@ Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
 
-&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paidfor the transportation, occupied a seat, or held a reservation for the flight.
+&emsp;&emsp;(B) any other person aboard the aircraft without regard to whether the person paid for the transportation, occupied a seat, or held a reservation for the flight.
 
 (i)
 

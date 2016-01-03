@@ -44,7 +44,7 @@
 
 #### (2) Voluntary recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approve the plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approvethe plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
 
 #### (3) Mandatory recall
 
@@ -200,7 +200,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

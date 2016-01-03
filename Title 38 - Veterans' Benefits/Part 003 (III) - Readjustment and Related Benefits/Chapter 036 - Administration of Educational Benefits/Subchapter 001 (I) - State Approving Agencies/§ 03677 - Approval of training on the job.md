@@ -14,7 +14,7 @@
 
 (c) As a condition for approving a program of training on the job (other than a program of apprenticeship) the State approving agency must find upon investigation that the following criteria are met:
 
-&emsp;(1) The training content of the course is adequate to qualify the eligible veteran or personfor appointment to the job for which the veteran or person is to be trained.
+&emsp;(1) The training content of the course is adequate to qualify the eligible veteran or person for appointment to the job for which the veteran or person is to be trained.
 
 &emsp;(2) The job customarily requires full-time training for a period of not less than six months and not more than two years.
 

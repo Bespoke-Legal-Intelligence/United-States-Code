@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (D) Coordination with subsection (e)(1)(A)
 
-&emsp;&emsp;For purposes of subsection (e)(1)(A), disposition of property by the corporation shallbe treated also as disposition of such property by the shareholder.
+&emsp;&emsp;For purposes of subsection (e)(1)(A), disposition of property by the corporation shall be treated also as disposition of such property by the shareholder.
 
 #### (E) Sales by liquidating subsidiaries
 
@@ -290,7 +290,7 @@ In the case of—
 
 &emsp;&emsp;(A) stock or securities which are traded on an established securities market, or
 
-&emsp;&emsp;(B) to the extent provided in regulations, property (other than stock or securities) of a kind regularly traded on an established market,
+&emsp;&emsp;(B) to the extent provided in regulations, property (other than stock or securities) of akind regularly traded on an established market,
 
 > subsection (a) shall not apply, and, for purposes of this title, all payments to be received shall be treated as received in the year of disposition. The Secretary may provide for the application of this subsection in whole or in part for transactions in which the rules of this subsection otherwise would be avoided through the use of related parties, pass-thru entities, or intermediaries.
 
@@ -330,7 +330,7 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) a timeshare right to use or a timeshare ownership interest in residential real property for not more than 6 weeks per year, or a right to use specified campgrounds for recreational purposes, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any residential lot, but only if the taxpayer (or any related person) is not tomake any improvements with respect to such lot.
+&emsp;&emsp;&emsp;&emsp;(II) any residential lot, but only if the taxpayer (or any related person) is not to make any improvements with respect to such lot.
 
 &emsp;&emsp;&nbsp;For purposes of subclause (I), a timeshare right to use (or timeshare ownership interest in) property held by the spouse, children, grandchildren, or parents of an individual shall be treated as held by such individual.
 
@@ -368,7 +368,7 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a),title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
 
 #### Prior Provisions
 
@@ -438,7 +438,7 @@ Subsec. (h)(1)(A). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (A) general
 
 Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B)."
 
-Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted "subsidiaries" for "subsidiary" in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: "For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by the corporation distributing the obligation to the shareholder."
+Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted "subsidiaries" for "subsidiary" in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: "For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired bythe corporation distributing the obligation to the shareholder."
 
 Subsec. (i)(2). Pub. L. 99–514, §1809(c), substituted "(or so much of section 751 as relates to section 1245 or 1250)" for "section 1245 or 1250".
 
@@ -548,7 +548,7 @@ Certain dispositions deemed made on 1st day of taxable year.—If the taxpayer m
 
 "(4)
 
-Minimum tax.—The amendment made by subsection (d) \[amending section 56 of this title\] shall apply to dispositions in taxable years beginning after December 31, 1986.
+Minimum tax.—The amendment made by subsection (d) \[amending section 56 of this title\] shallapply to dispositions in taxable years beginning after December 31, 1986.
 
 "(5)
 
@@ -591,7 +591,7 @@ Change in method of accounting.—In the case of any taxpayer who made sales und
 | 3rd taxable year | 30&nbsp;&nbsp; |
 | 4th taxable year | 30\. |
 
-> If the taxpayer's last taxable year beginning before January 1, 1987, was the taxpayer's 1st taxable year inwhich sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer's 1st taxable year beginning after December 31, 1986.
+> If the taxpayer's last taxable year beginning before January 1, 1987, was the taxpayer's 1st taxable year in which sales were made under a revolving credit plan, all adjustments under section 481 of such Code shall be taken into account in the taxpayer's 1st taxable year beginning after December 31, 1986.
 
 "(4)
 
@@ -647,7 +647,7 @@ Limitation on losses from sales of obligations under revolving credit plans.—I
 
 Adjustment period.—For purposes of paragraphs (4) and (5), the adjustment period is the 4-year period under paragraph (3)."
 
-Amendment by section 1809(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1809(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in theprovisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -697,7 +697,7 @@ For section 453a.—Section 453A of the Internal Revenue Code of 1986 (as amende
 
 "(5)
 
-For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2)shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
+For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as amended by section 2) shall apply to installment obligations becoming unenforceable after the date of the enactment of this Act \[Oct. 19, 1980\].
 
 "(6)
 

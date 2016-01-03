@@ -80,7 +80,7 @@ Subsec. (a)(10), (11). Pub. L. 100–607, §312(b)(1)(A), redesignated pars. (9)
 
 Subsec. (b). Pub. L. 100–607, §312(a)(1), substituted "sections 300u through 300u–4 of this title" for "this subchapter", struck out "and" after "September 30, 1986,", and inserted ", and $10,000,000 for each of the fiscal years 1989 through 1991".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out "and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter" after "section 300k–2 of this title" and inserted provisions for appointment of a Director for Office of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
+<b>1984</b>—Subsec. (a). Pub. L. 98–551, §2(a)(1), added par. (10), and in provisions following par. (10) struck out "and with health planning and resource development activities undertaken under subchapters XIII and XIV of this chapter" after "section 300k–2 of this title" and inserted provisions for appointment of a Director forOffice of Disease Prevention and Health Promotion and cooperation in administration of this subchapter.
 
 Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchapter, there are authorized to be appropriated $9,000,000 for the fiscal year ending September 30, 1985, $9,500,000 for the fiscal year ending September 30, 1986, and $10,000,000 for the fiscal year ending September 30, 1987" for "For payments under grants and contracts under this subchapter (other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title) there are authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1977, $10,000,000 for the fiscal year ending September 30, 1978, $14,000,000 for the fiscal year ending September 30, 1979, $14,000,000 for the fiscal year ending September 30, 1980, $15,000,000 for the fiscal year ending September 30, 1981, and $16,000,000 for the fiscal year ending September 30, 1982."
 
@@ -154,7 +154,7 @@ Sec. 5. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -184,7 +184,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Fitness, Sports, and Nutrition extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13266. Activities To Promote Personal Fitness
 
@@ -210,7 +212,7 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
-Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, createany right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
+Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,7 +268,7 @@ Sec. 3. <i>Responsibilities of the National Health Information Technology Coordi
 
 &emsp;(iv) At the request of the Office of Management and Budget, provide comments and advice regarding specific Federal health information technology programs.
 
-Sec. 4. <i>Reports</i>. To facilitate the development of interoperable health information technologies, the Secretary of Health and Human Services shall report to the President within 90 days of this order on options to provide incentives in HHS programs that will promote the adoption of interoperable health information technology. In addition, the following reports shall be submitted to the President through the Secretary:
+Sec. 4. <i>Reports</i>. To facilitate the development of interoperable health information technologies, the Secretary of Health and Human Services shall report tothe President within 90 days of this order on options to provide incentives in HHS programs that will promote the adoption of interoperable health information technology. In addition, the following reports shall be submitted to the President through the Secretary:
 
 (a) The Director of the Office of Personnel Management shall report within 90 days of this order on options to provide incentives in the Federal Employee Health Benefit Program that will promote the adoption of interoperable health information technology; and
 

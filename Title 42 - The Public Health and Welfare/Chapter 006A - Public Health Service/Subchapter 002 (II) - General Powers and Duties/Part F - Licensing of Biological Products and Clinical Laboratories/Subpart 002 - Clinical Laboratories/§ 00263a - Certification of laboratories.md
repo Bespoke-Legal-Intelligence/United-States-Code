@@ -2,7 +2,7 @@
 
 #### (a) "Laboratory" or "clinical laboratory" defined
 
-As used in this section, the term "laboratory" or "clinical laboratory" means a facility for the biological, microbiological, serological, chemical, immuno-hematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.
+As used in this section, the term "laboratory" or "clinical laboratory" means a facility for thebiological, microbiological, serological, chemical, immuno-hematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.
 
 #### (b) Certificate requirement
 
@@ -12,7 +12,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may issue or renew a certificate for a laboratory only if the laboratorymeets the requirements of subsection (d) of this section.
+&emsp;The Secretary may issue or renew a certificate for a laboratory only if the laboratory meets the requirements of subsection (d) of this section.
 
 #### (2) Term
 
@@ -148,7 +148,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;(B) to maintain records, equipment, and facilities necessary for the proper and effective operation of the laboratory,
 
-&emsp;&emsp;(C) in performing and carrying out its laboratory examinations and other procedures, to use only personnel meeting such qualifications as the Secretary may establish for the direction, supervision, and performance of examinations and procedures within the laboratory, which qualifications shall take into consideration competency, training, experience, job performance, and education and which qualifications shall, as appropriate, be different on the basis of the type of examinations and procedures being performed by the laboratory and the risks and consequences of erroneous results associated with such examinations and procedures,
+&emsp;&emsp;(C) in performing and carrying out its laboratory examinations and other procedures, to use only personnel meeting such qualifications as the Secretary may establish forthe direction, supervision, and performance of examinations and procedures within the laboratory, which qualifications shall take into consideration competency, training, experience, job performance, and education and which qualifications shall, as appropriate, be different on the basis of the type of examinations and procedures being performed by the laboratory and the risks and consequences of erroneous results associated with such examinations and procedures,
 
 &emsp;&emsp;(D) to qualify under a proficiency testing program meeting the standards established by the Secretary under paragraph (3), and
 
@@ -202,7 +202,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (F) Testing results
 
-&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testing programs subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under this subparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
+&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testing programs subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under thissubparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
 
 #### (4) National standards for quality assurance in cytology services
 
@@ -266,7 +266,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the certificate of a laboratory issued under this section may be suspended, revoked, or limited if the Secretary finds, after reasonable notice and opportunity for hearing to the owner or operator of the laboratory, that such owner or operator or any employee of the laboratory—
+&emsp;Except as provided in paragraph (2), the certificate of a laboratory issued under this section may be suspended, revoked, or limited if the Secretary finds, after reasonable noticeand opportunity for hearing to the owner or operator of the laboratory, that such owner or operator or any employee of the laboratory—
 
 &emsp;&emsp;(A) has been guilty of misrepresentation in obtaining the certificate,
 
@@ -318,7 +318,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modificationor setting aside of his original action, with the return of such additional evidence.
 
 #### (3) Judgment of court
 

@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amendedPub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
+(Added Pub. L. 107–314, div. A, title X, §1067(a)(1), Dec. 2, 2002, 116 Stat. 2657; amended Pub. L. 110–181, div. A, title III, §371(a)–(e), Jan. 28, 2008, 122 Stat. 79–81; Pub. L. 110–417, \[div. A\], title X, §1061(b)(1), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–383, div. A, title III, §331, Jan. 7, 2011, 124 Stat. 4185; Pub. L. 112–239, div. A, title III, §341, Jan. 2, 2013, 126 Stat. 1699.)
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Subsec. (f)(4), (5). Pub. L. 110–181, §371(e), added pars. (4) and (5).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note undersection 6382 of Title 5, Government Organization and Employees.
 
 #### Implementation of Corrective Actions Resulting From Corrosion Study of the F–22 and F–35 Aircraft
 

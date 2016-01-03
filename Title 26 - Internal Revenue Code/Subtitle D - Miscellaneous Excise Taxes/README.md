@@ -285,7 +285,7 @@ Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by
 
 #### Imposition of Annual Fee on Health Insurance Providers
 
-Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065, provided that:
+Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017-1019, as amended byPub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, §201, Dec. 18, 2015, 129 Stat. 3037, provided that:
 
 "(a)
 
@@ -410,7 +410,7 @@ Years after 2018.—In the case of any calendar year beginning after 2018, the a
 
 Tax Treatment of Fees.—The fees imposed by this section—
 
-&emsp;"(1) for purposes of subtitle F of the Internal Revenue Code of 1986, shall be treated as excise taxes with respect to which only civil actions for refund under procedures of such subtitle shall apply, and
+&emsp;"(1) for purposes of subtitle F of the Internal Revenue Code of 1986, shall be treated as excise taxes withrespect to which only civil actions for refund under procedures of such subtitle shall apply, and
 
 &emsp;"(2) for purposes of section 275 of such Code shall be considered to be a tax described in section 275(a)(6).
 
@@ -500,7 +500,11 @@ Guidance.—The Secretary shall publish guidance necessary to carry out the purp
 
 "(j)
 
-Effective Date.—This section shall apply to calendar years beginning after December 31, 2013."
+Effective Date.—This section shall apply to calendar years—
+
+&emsp;"(1) beginning after December 31, 2013, and ending before January 1, 2017, and
+
+&emsp;"(2) beginning after December 31, 2017."
 
 \[Pub. L. 111–152, title I, §1406(a)(3)(C), Mar. 30, 2010, 124 Stat. 1065, which directed amendment of section 9010(c) of Pub. L. 111–148, set out above, by substituting "subparagraph (C) or (D)" for "subparagraph (C)(i)(I), (D)(i)(I), or (E)(i)" in par. (3)(A), was executed by making the substitution in concluding provisions of par. (3), to reflect the probable intent of Congress.\]
 

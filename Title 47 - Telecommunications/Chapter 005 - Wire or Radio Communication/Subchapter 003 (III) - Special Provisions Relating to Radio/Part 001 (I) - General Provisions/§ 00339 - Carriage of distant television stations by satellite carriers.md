@@ -10,7 +10,7 @@
 
 #### (B) Additional service
 
-&emsp;&emsp;In addition to signals provided under subparagraph (A), any satellite carrier may also provide service under the statutory license of section 122 of title 17, to the local market within which such household is located. The service provided under section 122 of such title may be in addition to the two signals provided under section 119 of such title.
+&emsp;&emsp;In addition to signals provided under subparagraph (A), any satellite carrier may also provide service under the statutory license of section 122 of title 17, to the local market within which such household is located. The service provided under section 122 of suchtitle may be in addition to the two signals provided under section 119 of such title.
 
 #### (2) Replacement of distant signals with local signals
 
@@ -32,7 +32,7 @@
 
 #### (ii) For those not receiving distant signals
 
-&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive thedistant signal of a network station solely by reason of section 119(e) of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
+&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive the distant signal of a network station solely by reason of section 119(e) of title 17 and who did not receive a distant signal of a station affiliated with the same network on October 1, 2009, the carrier may not provide the secondary transmissions of the distant signal of a station affiliated with the same network to that subscriber.
 
 #### (B) Rules for other subscribers
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) is not a subscriber lawfully receiving such secondary transmission as of the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to section 338 of this title (and the retransmission of such signal by such carrier can reach such subscriber); or
 
-&emsp;&emsp;&emsp;(ii) lawfully subscribes to and receives a distant signal on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, and, subsequent to such subscription, the satellite carrier makes available to that subscriber the signal of a local network station affiliated with the same network as the distant signal (and the retransmission of such signal by such carrier can reach such subscriber), unless such person subscribes to the signal of the local network station within 60 days after such signal is made available.
+&emsp;&emsp;&emsp;(ii) lawfully subscribes to and receives a distant signal on or after the date of enactment of the Satellite Television Extension and Localism Act of 2010, and, subsequent to such subscription, the satellite carrier makes available to that subscriber the signal of a local network station affiliated with the same network as the distantsignal (and the retransmission of such signal by such carrier can reach such subscriber), unless such person subscribes to the signal of the local network station within 60 days after such signal is made available.
 
 #### (D) Special rules for distant signals
 
@@ -78,7 +78,7 @@
 
 #### (iii) Time-shifting prohibited
 
-&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of alocal network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
+&emsp;&emsp;&emsp;In a case in which the satellite carrier makes available to an eligible subscriber under this subparagraph the signal of a local network station pursuant to section 338 of this title, the carrier may only provide the distant signal of a station affiliated with the same network to that subscriber if, in the case of any local market in the 48 contiguous States of the United States, the distant signal is the secondary transmission of a station whose prime time network programming is generally broadcast simultaneously with, or later than, the prime time network programming of the affiliate of the same network in the local market.
 
 #### (iv) Savings provision
 
@@ -120,7 +120,7 @@
 
 #### (H) Available defined
 
-&emsp;&emsp;For purposes of this paragraph, a satellite carrier makes available a local signal to a subscriber or person if the satellite carrier offers that local signal to other subscribers who reside in the same zip code as that subscriber or person.
+&emsp;&emsp;For purposes of this paragraph, a satellite carrier makes available a local signal to asubscriber or person if the satellite carrier offers that local signal to other subscribers who reside in the same zip code as that subscriber or person.
 
 #### (3) Penalty for violation
 
@@ -146,7 +146,7 @@
 
 #### (A) Study required
 
-&emsp;&emsp;Not later than 1 year after December 8, 2004, the Federal Communications Commission shall complete an inquiry regardingwhether, for purposes of identifying if a household is unserved by an adequate digital signal under section 119(d)(10) of title 17, the digital signal strength standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or the testing procedures in section 73.686(d) of title 47, Code of Federal Regulations, such statutes or regulations should be revised to take into account the types of antennas that are available to consumers.
+&emsp;&emsp;Not later than 1 year after December 8, 2004, the Federal Communications Commission shall complete an inquiry regarding whether, for purposes of identifying if a household is unserved by an adequate digital signal under section 119(d)(10) of title 17, the digital signal strength standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or the testing procedures in section 73.686(d) of title 47, Code of Federal Regulations, such statutes or regulations should be revised to take into account the types of antennas that are available to consumers.
 
 #### (B) Study considerations
 
@@ -190,7 +190,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal of the signal intensity referenced in clause (i) of subsection (a)(2)(D), the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified andindependent person to conduct the test referenced in such clause. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such clause demonstrate that the subscriber does not receive a signal that meets or exceeds the requisite signal intensity standard in such clause, the subscriber shall not be denied the retransmission of a signal of a network station under section 119(d)(10)(A) of title 17.
+&emsp;&emsp;If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal of the signal intensity referenced in clause (i) of subsection (a)(2)(D), the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct the test referenced in such clause. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such clause demonstrate that the subscriber does not receive a signal that meets or exceeds the requisite signal intensity standard in such clause, the subscriber shall not be denied the retransmission of a signal of a network station under section 119(d)(10)(A) of title 17.
 
 #### (B) Designation of tester and allocation of costs
 

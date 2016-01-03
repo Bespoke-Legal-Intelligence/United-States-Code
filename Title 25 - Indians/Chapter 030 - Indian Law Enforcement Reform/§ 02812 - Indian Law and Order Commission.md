@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the Indian Law and Order Commission (referred to in this section as the "Commission").
+There is established a commission to be known as the Indian Law and Order Commission\(referred to in this section as the "Commission").
 
 #### (b) Membership
 
@@ -202,7 +202,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (B) National Institute of Justice
 
-&emsp;&emsp;The National Institute of Justice may enter into a contract with the researchersand experts selected by the Commission under subparagraph (A) to provide funding in exchange for the services of the researchers and experts.
+&emsp;&emsp;The National Institute of Justice may enter into a contract with the researchers and experts selected by the Commission under subparagraph (A) to provide funding in exchange for the services of the researchers and experts.
 
 #### (2) Other organizations
 

@@ -6,7 +6,7 @@ The Government of the United States of America shall not be liable for any damag
 
 #### Codification
 
-Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter,and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the EURATOM Cooperation Act of 1958 which comprises this subchapter, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
 

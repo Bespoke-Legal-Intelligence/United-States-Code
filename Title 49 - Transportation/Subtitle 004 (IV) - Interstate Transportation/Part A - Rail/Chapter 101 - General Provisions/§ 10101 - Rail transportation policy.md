@@ -26,7 +26,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
 
 &emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of market power, and to prohibit unlawful discrimination;
 
-&emsp;(13) to ensure the availability of accurate cost information in regulatory proceedings, while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
+&emsp;(13) to ensure the availability of accurate cost information in regulatory proceedings,while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
 
 &emsp;(14) to encourage and promote energy conservation; and
 
@@ -44,7 +44,7 @@ Section 10101a, added Pub. L. 96–448, title I, §101(a), Oct. 14, 1980, 94 Sta
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Short Title of 2008 Amendment
 

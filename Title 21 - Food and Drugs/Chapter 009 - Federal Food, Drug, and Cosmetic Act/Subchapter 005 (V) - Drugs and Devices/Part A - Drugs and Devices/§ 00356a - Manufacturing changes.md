@@ -28,7 +28,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 &emsp;&emsp;(B) is determined by the Secretary by regulation or guidance to require completion of an appropriate clinical study demonstrating equivalence of the drug to the drug as manufactured without the change; or
 
-&emsp;&emsp;(C) is another type of change determined by the Secretary by regulation or guidance to have a substantial potential to adversely affect the safety or effectiveness of the drug.
+&emsp;&emsp;(C) is another type of change determined by the Secretary by regulation or guidanceto have a substantial potential to adversely affect the safety or effectiveness of the drug.
 
 #### (d) Other manufacturing changes
 

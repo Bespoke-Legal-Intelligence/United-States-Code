@@ -74,7 +74,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 (B) In subparagraph (A), the term "physical infrastructure" includes real property, utilities, and equipment (installed and free standing and including computer equipment), necessary to provide a complete and usable commissary store or central product processing facility.
 
-(2)(A) The Secretary of Defense may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of surcharges under subsection (d) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
+(2)(A) The Secretary of Defense may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of surchargesunder subsection (d) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
 
 (B) In subparagraph (A), the term "construction", with respect to a facility, includes acquisition, conversion, expansion, installation, or other improvement of the facility.
 
@@ -220,7 +220,11 @@ Application to Overseas Defense Retail Systems.—The regulations required by su
 
 Defense Retail Systems Defined.—In this section, the term 'defense retail systems' has the meaning given that term in section 2487(b)(2) of title 10, United States Code."
 
-Pub. L. 113–235, div. C, title VIII, §8073, Dec. 16, 2014, 128 Stat. 2271, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+Pub. L. 114–113, div. C, title VIII, §8033, Dec. 18, 2015, 129 Stat. 2358, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 113–235, div. C, title VIII, §8073, Dec. 16, 2014, 128 Stat. 2271.
 
 #### Test Program of Sale of Certain Items in Commissary Stores
 
@@ -228,7 +232,7 @@ Pub. L. 108–375, div. A, title VI, §651(g), Oct. 28, 2004, 118 Stat. 1972, pr
 
 "(1) The Secretary of Defense may conduct a test program involving the sale of telephone cards, film, and one-time use cameras in not less than 10 commissary stores for a period selected by the Secretary, but not less than six months.
 
-"(2) Within 90 days after the completion of the first year of the test program or within 90 days after the completion of the test program, whichever occurs first, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the results of the test program. The report shall include an analysis of the impact of the sale of such items on the exchange dividend and such recommendations as the Secretary considers appropriate regarding legislative changes necessary to expand the sale of such items in commissary stores."
+"(2) Within 90 days after the completion of the first year of the test program or within 90 days after the completion of the test program, whichever occurs first, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on ArmedServices of the House of Representatives a report containing the results of the test program. The report shall include an analysis of the impact of the sale of such items on the exchange dividend and such recommendations as the Secretary considers appropriate regarding legislative changes necessary to expand the sale of such items in commissary stores."
 
 #### Report on Merchandise Categories
 

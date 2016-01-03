@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (1) Salary deductions
 
-&emsp;There shall be deducted and withheld from the salary of each judge or special trial judge electing under subsection (b) a sum equal to 3.5 percent of such judge's or special trial judge's salary. The amounts so deducted and withheld from such judge's or special trial judge's salary shall, in accordance with such procedure as may be prescribed by the Comptroller General of the United States, be deposited in the Treasury of the United States to the credit of a fund to be known as the "Tax Court judicial officers survivors annuity fund" and said fund is appropriated for the payment of annuities, refunds, and allowances as provided by this section. Each judge or special trial judge electing under subsection (b) shall be deemed thereby to consent and agree to the deductions from his salary as provided in this subsection, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all judicial services rendered by such judge or special trial judge during the period covered by such payment, except the right to the benefits to which he or his survivors shall be entitled under the provisions of this section.
+&emsp;There shall be deducted and withheld from the salary of each judge or special trial judge electing under subsection (b) a sum equal to 3.5 percent of such judge's or special trial judge's salary. The amounts so deducted and withheld from such judge's or special trial judge's salary shall, in accordance with such procedure as may be prescribed by the Comptroller General of the United States, be deposited in the Treasury of the United States to the credit of a fund to be known as the "Tax Court judicial officers survivors annuity fund" and said fund is appropriated for the payment of annuities, refunds, and allowances as provided by this section. Each judge or special trial judge electing under subsection (b) shall be deemed thereby to consent and agree to the deductions from his salary as provided in this subsection, and payment less such deductions shall be a full and complete discharge and acquittance of all claims and demands whatsoever for all judicial services rendered by such judge or special trial judge during the period covered by such payment, except the right to the benefits to which he or his survivors shallbe entitled under the provisions of this section.
 
 #### (2) Appropriations where unfunded liability
 
@@ -80,7 +80,7 @@ The Secretary of the Treasury shall invest from time to time, in interest-bearin
 
 #### (f) Crediting of deposits
 
-The amount deposited by or deducted and withheld from the salary of each judge or specialtrial judge electing to bring himself within the purview of this section for credit to the survivors annuity fund shall be credited to an individual account of such judge or special trial judge.
+The amount deposited by or deducted and withheld from the salary of each judge or special trial judge electing to bring himself within the purview of this section for credit to the survivors annuity fund shall be credited to an individual account of such judge or special trial judge.
 
 #### (g) Termination
 
@@ -134,7 +134,7 @@ Questions of dependency and disability arising under this section shall be deter
 
 > Determination as to the surviving spouse, child, or parent of a judge or special trial judge for the purposes of this paragraph shall be made by the chief judge without regard to the definitions in paragraphs (8) and (9) of subsection (a).
 
-(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
+(2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trialjudge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
 
 (3) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any person based upon the service of a judge or special trial judge shall be paid to such person. Any accrued annuity remaining unpaid upon the death of any person receiving annuity based upon the service of a judge or special trial judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
 
@@ -230,7 +230,7 @@ Pub. L. 109–280, §854(c)(3), inserted "or special trial judge's" after "judge
 
 Subsec. (n). Pub. L. 109–280, §854(c)(3)(A), (7), inserted "or special trial judge" after "judge" wherever appearing and "his years of service pursuant to any appointment under section 7443A," after "of the Tax Court,".
 
-Subsec. (s). Pub. L. 109–280, §851(a), amended heading and text of subsec. (s) generally. Prior to amendment, text read as follows: "Whenever the salary of a judge under section 7443(c) is increased, each annuity payable from the survivors annuity fund which is based, in whole or in part, upon a deceased judge having rendered some portion of his or her final 18 months of service as a judge of the Tax Court, shall also be increased. The amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each full 5 percent by which such salary has been increased."
+Subsec. (s). Pub. L. 109–280, §851(a), amended heading and text of subsec. (s) generally. Prior to amendment, text read as follows: "Whenever the salary of a judge under section 7443(c) is increased, each annuity payable from the survivors annuity fund which is based, in whole or in part, upon a deceased judge having rendered some portion of his or her final 18 months of service as a judge of the Tax Court, shall also be increased. The amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, onthe date on which the increase in salary becomes effective, by 3 percent for each full 5 percent by which such salary has been increased."
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §1559(a)(1)(A), (2)(A), substituted "Survivors annuity fund" for "Salary deductions" in heading, inserted par. (1) designation and heading "Salary deductions" before existing text, realigned margin of text and substituted "3.5 percent" for "3 percent", and added par. (2).
 
@@ -308,7 +308,7 @@ Pub. L. 109–280, title VIII, §851(b), Aug. 17, 2006, 120 Stat. 1016, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1557(c) of Pub. L. 99–514 effective Oct. 22, 1986, but not applicable to any individual who, before Oct. 22, 1986, forfeited his rights to retired pay under section 7447(d) of this title by reason of the 1st sentence of section 7447(f) of this title (as in effect on the day before such date), see section 1557(e) of Pub. L. 99–514, set out as a note under section 7447 of this title.
+Amendment by section 1557(c) of Pub. L. 99–514 effective Oct. 22, 1986, but not applicable to any individualwho, before Oct. 22, 1986, forfeited his rights to retired pay under section 7447(d) of this title by reason of the 1st sentence of section 7447(f) of this title (as in effect on the day before such date), see section 1557(e) of Pub. L. 99–514, set out as a note under section 7447 of this title.
 
 Pub. L. 99–514, title XV, §1559(d), Oct. 22, 1986, 100 Stat. 2760, provided that:
 
@@ -382,7 +382,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Catchup for Survivors Annuities in Pay Status on October 25, 1982
 
-Pub. L. 97–362, title I, §105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of ajudge under section 7443(c) of such Code taking effect after December 31, 1963."
+Pub. L. 97–362, title I, §105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963."
 
 \[Pub. L. 97–448, title III, §311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: "The amendment made by subsection (e) of section 305 \[amending section 105(c) of Pub. L. 97–362, set out above\] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 \[Oct. 25, 1982\]."\]
 

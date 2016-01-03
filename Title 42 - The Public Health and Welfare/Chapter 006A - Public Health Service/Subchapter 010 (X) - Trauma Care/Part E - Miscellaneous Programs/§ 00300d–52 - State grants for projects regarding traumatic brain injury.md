@@ -92,7 +92,7 @@ A State or American Indian consortium that received a grant under this section p
 
 &emsp;&emsp;(D) develop best practices in areas such as family or consumer support, return to work, housing or supportive living personal assistance services, assistive technology and devices, behavioral health services, substance abuse services, and traumatic brain injury treatment and rehabilitation;
 
-&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals withtraumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
+&emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with traumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
 &emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
 

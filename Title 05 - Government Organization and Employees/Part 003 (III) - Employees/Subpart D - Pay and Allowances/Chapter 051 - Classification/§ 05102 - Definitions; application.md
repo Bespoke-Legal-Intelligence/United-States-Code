@@ -30,11 +30,13 @@
 
 &emsp;&emsp;(vi) the National Security Agency, Department of Defense;
 
-&emsp;&emsp;(vii) the Government Accountability Office; or <sup>1</sup>
+&emsp;&emsp;(vii) the Government Accountability Office;
 
-&emsp;&emsp;(ix) <sup>2</sup> the Defense Intelligence Agency, Department of Defense; or
+&emsp;&emsp;(viii) the Office of the Director of National Intelligence;
 
-&emsp;&emsp;(x) the National Geospatial-Intelligence Agency, Department of Defense.<sup>3</sup>
+&emsp;&emsp;(ix) the Defense Intelligence Agency, Department of Defense; or
+
+&emsp;&emsp;(x) the National Geospatial-Intelligence Agency, Department of Defense;
 
 &emsp;(2) "employee" means an individual employed in or under an agency;
 
@@ -134,7 +136,7 @@
 
 (e) Except as may be specifically provided, this chapter does not apply for pay purposes to any employee of the government of the District of Columbia during fiscal year 2006 or any succeeding fiscal year.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–282, §4(c)(1), Oct. 15, 2010, 124 Stat. 3043; Pub. L. 111–350, §5(a)(8), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII,§1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–375, div. A, title V, §557(b)(5), Oct. 28, 2004, 118 Stat. 1916; Pub. L. 109–356, title III, §303(b), Oct. 16, 2006, 120 Stat. 2040; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–282, §4(c)(1), Oct. 15, 2010, 124 Stat. 3043; Pub. L. 111–350, §5(a)(8), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title IV, §402, Dec. 18, 2015, 129 Stat. 2921.)
 
 Historical and Revision Notes<br>1966
 
@@ -288,6 +290,8 @@ Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1)(vii), (viii), (x). Pub. L. 114–113 struck out "or" at end of cl. (vii), added cl. (viii), and substituted semicolon for period at end of cl. (x).
+
 <b>2011</b>—Subsec. (c)(30). Pub. L. 111–350 substituted "section 7105(a)(2), (c)(2), or (d)(2) of title 41" for "section 8 of the Contract Disputes Act of 1978".
 
 <b>2010</b>—Subsec. (c)(5). Pub. L. 111–282 substituted "the United States Secret Service Uniformed Division" for "the Executive Protective Service".
@@ -384,7 +388,7 @@ Subsec. (c)(4). Pub. L. 91–358 expanded reference to include chief judges, sub
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and\(c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a)(1)(D) and (c)(9) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 2010 Amendment
 
@@ -436,7 +440,7 @@ Amendment by section 906(2)(2) of Pub. L. 95–454 effective 90 days after Oct. 
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–176 effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see section 4 of Pub. L. 93–176, set out as a note under section 460 of the Appendix to Title 50, War and National Defense.
+Amendment by Pub. L. 93–176 effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see section 4 of Pub. L. 93–176, set out as a note under section 3809 of Title 50, War and National Defense.
 
 #### Effective Date of 1970 Amendments
 
@@ -491,10 +495,4 @@ Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c)(7),
 #### Reduction of Basic Pay Rate
 
 Rate of basic pay not to be reduced by reason of the enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Subsec. (a)(1) does not contain a cl. (viii).</i>
-
-<i><sup>3</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

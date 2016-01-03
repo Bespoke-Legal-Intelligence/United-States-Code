@@ -2,7 +2,7 @@
 
 #### (a) General prohibition against termination or nonrenewal
 
-Except as provided in subsection (b) of this section and section 2803 of this title, no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
+Except as provided in subsection (b) and section 2803 of this title, no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
 
 &emsp;(1) terminate any franchise (entered into or renewed on or after June 19, 1978) prior to the conclusion of the term, or the expiration date, stated in the franchise; or
 
@@ -76,7 +76,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;(C) A failure by the franchisee to operate the marketing premises in a clean, safe, and healthful manner, if the franchisee failed to do so on two or more previous occasions and the franchisor notified the franchisee of such failures.
 
-&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business, if—
+&emsp;(D) In the case of any franchise entered into prior to June 19, 1978, (the unexpired term of which, on such date, is 3 years or longer) and, in the case of any franchise entered into or renewed on or after such date (the term of which was 3 years or longer, or with respect to which the franchisee was offered a term of 3 years orlonger), a determination made by the franchisor in good faith and in the normal course of business, if—
 
 &emsp;&emsp;(i) such determination is—
 
@@ -98,7 +98,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 #### (c) Definition
 
-As used in subsection (b)(2)(C) of this section, the term "an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable" includes events such as—
+As used in subsection (b)(2)(C), the term "an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable" includes events such as—
 
 &emsp;(1) fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
 
@@ -156,9 +156,9 @@ As used in subsection (b)(2)(C) of this section, the term "an event which is rel
 
 In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
 
-&emsp;(1) if such termination or nonrenewal is based upon an event described in subsection (c)(5) of this section, the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
+&emsp;(1) if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
 
-&emsp;(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) of this section and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
+&emsp;(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
 (Pub. L. 95–297, title I, §102, June 19, 1978, 92 Stat. 324; Pub. L. 103–371, §§2, 3, Oct. 19, 1994, 108 Stat. 3484.)
 

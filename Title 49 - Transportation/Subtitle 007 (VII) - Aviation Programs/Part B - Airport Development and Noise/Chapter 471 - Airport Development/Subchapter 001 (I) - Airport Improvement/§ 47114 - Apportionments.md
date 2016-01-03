@@ -116,7 +116,7 @@ Apportionment.—Except as provided in paragraph (3), the Secretary shall apport
 
 Special rule.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
 
-&emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimarycommercial service airports, in States the lesser of—
+&emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimary commercial service airports, in States the lesser of—
 
 &emsp;&emsp;&emsp;(i) $150,000; or
 
@@ -198,7 +198,7 @@ In general.—Subject to paragraph (3), an amount that would be apportioned unde
 
 &emsp;&emsp;&emsp;(i) except as provided in clause (ii), 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; or
 
-&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 50 percent of the projected revenues fromthe charge in the fiscal year but not by more than 50 percent of the excess of—
+&emsp;&emsp;&emsp;(ii) with respect to an airport in Hawaii, 50 percent of the projected revenues from the charge in the fiscal year but not by more than 50 percent of the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 

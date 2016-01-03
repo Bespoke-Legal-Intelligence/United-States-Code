@@ -72,9 +72,9 @@ Major Reorganization Defined.—With respect to the United States Fire Administr
 
 "(b)
 
-Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act\[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
+Notice of Reprogramming.—If any funds appropriated pursuant to the amendments made by this Act \[see Short Title of 1997 Amendment note set out under section 2201 of this title\] are subject to a reprogramming action that requires notice to be provided to the Committees on Appropriations of the Senate and the House of Representatives, notice of that action shall concurrently be provided to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives.
 
 "(c)
 
-Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committees on Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate."
+Notice of Reorganization.—Not later than 15 days before any major reorganization of any program, project, or activity of the United States Fire Administration, the Administrator of the United States Fire Administration shall provide notice to the Committeeson Science \[now Science, Space, and Technology\] and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate."
 

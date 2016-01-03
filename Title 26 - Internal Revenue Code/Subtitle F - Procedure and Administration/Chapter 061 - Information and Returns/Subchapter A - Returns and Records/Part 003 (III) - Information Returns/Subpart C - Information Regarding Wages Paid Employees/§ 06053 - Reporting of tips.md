@@ -60,7 +60,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (C) The Secretary may lower the percentage required to be allocated
 
-&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, theSecretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
+&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, the Secretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
 
 #### (4) Large food or beverage establishment
 
@@ -150,7 +150,7 @@ Pub. L. 98–369, div. A, title X, §1072(b), July 18, 1984, 98 Stat. 1052, prov
 
 #### Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements
 
-Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: "The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may notthreaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement."
+Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: "The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement."
 
 #### Modification of Tips Allocation Method
 

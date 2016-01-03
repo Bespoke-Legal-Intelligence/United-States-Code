@@ -92,7 +92,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 "(a)(1) Except as provided in subsection (b) or (c), none of the funds appropriated or made available by this Act, or any other Act, with respect to any fiscal year, shall be available to administer or implement any drug testing pursuant to Executive Order Numbered 12564 (dated September 15, 1986) \[set out as a note below\], or any subsequent order, unless and until—
 
-&emsp;"(A) the Secretary of Health and Human Services certifies in writing to the Committees on Appropriations of the House of Representatives and the Senate,and other appropriate committees of the Congress, that—
+&emsp;"(A) the Secretary of Health and Human Services certifies in writing to the Committees on Appropriations of the House of Representatives and the Senate, and other appropriate committees of the Congress, that—
 
 &emsp;&emsp;"(i) each agency has developed a plan for achieving a drug-free workplace in accordance with Executive Order Numbered 12564 and applicable provisions of law (including applicable provisions of this section);
 
@@ -402,7 +402,7 @@ Sec. 201. <i>The Office of Government Ethics</i>. The Office of Government Ethic
 
 (e) Ensuring that any implementing regulations issued by agencies under this order are consistent with and promulgated in accordance with this order.
 
-Sec. 202. <i>Executive Office of the President</i>. In that the agencies within the Executive Office of the President\(EOP) currently exercise functions that are not distinct and separate from each other within the meaning and for the purposes of section 207(e) of title 18, United States Code, those agencies shall be treated as one agency under section 207(c) of title 18, United States Code.
+Sec. 202. <i>Executive Office of the President</i>. In that the agencies within the Executive Office of the President (EOP) currently exercise functions that are not distinct and separate from each other within the meaning and for the purposes of section 207(e) of title 18, United States Code, those agencies shall be treated as one agency under section 207(c) of title 18, United States Code.
 
 #### Part III—Agency Responsibilities
 
@@ -474,7 +474,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
-Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areasthat are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
 
 (b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
 
@@ -600,7 +600,7 @@ Sec. 4. <i>Reciprocal Recognition of Fitness and Suitability Determinations</i>.
 
 &emsp;(iii) the individual's investigative record shows conduct that is incompatible with the core duties of the new position.
 
-Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trust shall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
+Sec. 5. <i>Reinvestigation of Individuals in Positions of Public Trust</i>. Individuals in positions of public trustshall be subject to reinvestigation under standards (including but not limited to the frequency of such reinvestigation) as determined by the Director of the Office of Personnel Management, to ensure their suitability for continued employment.
 
 Sec. 6. <i>Responsibilities</i>. (a) An agency shall report to the Office of Personnel Management the nature and results of the background investigation and fitness determination (or later changes to that determination) made on an individual, to the extent consistent with law.
 
@@ -674,7 +674,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledge set forth in sectio
 
 (g) "Particular matter" shall have the same meaning as set forth in section 207 of title 18, United States Code, and section 2635.402(b)(3) of title 5, Code of Federal Regulations.
 
-(h) "Particular matter involving specific parties" shall have the same meaning as set forth in section 2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
+(h) "Particular matter involving specific parties" shall have the same meaning as set forth in section2641.201(h) of title 5, Code of Federal Regulations, except that it shall also include any meeting or other communication relating to the performance of one's official duties with a former employer or former client, unless the communication applies to a particular matter of general applicability and participation in the meeting or other event is open to all interested parties.
 
 (i) "Former employer" is any person for whom the appointee has within the 2 years prior to the date of his or her appointment served as an employee, officer, director, trustee, or general partner, except that "former employer" does not include any executive agency or other entity of the Federal Government, State or local government, the District of Columbia, Native American tribe, or any United States territory or possession.
 

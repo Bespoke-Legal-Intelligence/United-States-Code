@@ -8,7 +8,7 @@ Criteria for Performance Incentive Awards.—(1) For purposes of carrying out a 
 
 &emsp;(B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
-(2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under section 4102A(b)(7) of this title.
+(2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 <sup>1</sup> consistent with the performance measures established under section 4102A(b)(7) of this title.
 
 (b)
 
@@ -32,13 +32,13 @@ Eligible Employee Defined.—In this section, the term "eligible employee" means
 
 &emsp;(2) A local veterans' employment representative.
 
-&emsp;(3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 or through an employment service delivery system (as defined in section 4101(7) of this title).
+&emsp;(3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 <sup>1</sup> or through an employment service delivery system (as defined in section 4101(7) of this title).
 
 (Added Pub. L. 107–288, §3(a), Nov. 7, 2002, 116 Stat. 2037; amended Pub. L. 109–461, title VI, §603, Dec. 22, 2006, 120 Stat. 3437.)
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Prior Provisions
 
@@ -53,4 +53,6 @@ Subsec. (c). Pub. L. 109–461, §603(b), substituted "Administration and Use of
 Subsec. (c)(2). Pub. L. 109–461, §603(a)(2)(B)(i), substituted "in the case of such an award made to an eligible employee, shall be" for "is".
 
 Subsec. (c)(3). Pub. L. 109–461, §603(a)(2)(A), (B)(ii), (C), added par. (3).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

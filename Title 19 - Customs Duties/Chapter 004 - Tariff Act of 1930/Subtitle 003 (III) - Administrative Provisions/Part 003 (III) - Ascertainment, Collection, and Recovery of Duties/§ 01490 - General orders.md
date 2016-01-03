@@ -12,7 +12,7 @@
 
 &emsp;(D) the Customs Service believes that any merchandise is not correctly and legally invoiced;
 
-> the carrier (unless subject to subsection (c) of this section) shall notify the bonded warehouse of such unentered merchandise.
+> the carrier (unless subject to subsection (c)) shall notify the bonded warehouse of such unentered merchandise.
 
 (2) After notification under paragraph (1), the bonded warehouse shall arrange for the transportation and storage of the merchandise at the risk and expense of the consignee. The merchandise shall remain in the bonded warehouse until—
 
@@ -30,7 +30,7 @@ At the request of the consignee of any merchandise, or of the owner or master of
 
 Any imported merchandise that—
 
-&emsp;(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1) of this section; and
+&emsp;(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
 
 &emsp;(2) is consigned to, or owned by, the United States Government;
 
@@ -40,7 +40,7 @@ Any imported merchandise that—
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §490, 42Stat. 963. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §490, 42 Stat. 963. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions authorizing the collector to take possession of, or store merchandise were contained in the following sections, all of which were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989:
 

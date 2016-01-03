@@ -20,7 +20,7 @@ The Council on Environmental Quality, in consultation with the Administrator, th
 
 #### References in Text
 
-The effective date of enactment of this chapter, referred to in subsecs. (a)(3) and (b), probably means January 1, 1977, the effective date of the chapter prescribedby sec. 31 of Pub. L. 94–469, which is set out as a note under section 2601 of this title, rather than October 11, 1976, the date of enactment.
+The effective date of enactment of this chapter, referred to in subsecs. (a)(3) and (b), probably means January 1, 1977, the effective date of the chapter prescribed by sec. 31 of Pub. L. 94–469, which is set out as a note under section 2601 of this title, rather than October 11, 1976, the date of enactment.
 
 #### Change of Name
 

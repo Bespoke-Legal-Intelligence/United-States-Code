@@ -24,11 +24,11 @@
 
 &emsp;&emsp;(G) A warning concerning the potential use of K nonimmigrant visas by United States citizens who have a history of committing domestic violence, sexual assault, child abuse, or other crimes and an explanation that such acts may not have resulted in a criminal record for such a citizen.
 
-&emsp;&emsp;(H) Notification of the requirement under subsection (d)(3)(A) of this section that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of the National Sex Offender Public Website and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
+&emsp;&emsp;(H) Notification of the requirement under subsection (d)(3)(A) that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of the National Sex Offender Public Website and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
 
 #### (3) Summaries
 
-&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b) of this section.
+&emsp;The Secretary of Homeland Security, in consultation with the Attorney General and theSecretary of State, shall develop summaries of the pamphlet developed under paragraph (1) that shall be used by Federal officials when reviewing the pamphlet in interviews under subsection (b).
 
 #### (4) Translation
 
@@ -88,15 +88,15 @@
 
 &emsp;During an interview with an applicant for a K nonimmigrant visa, a consular officers shall—
 
-&emsp;&emsp;(A) provide information, in the primary language of the visa applicant, on protection orders and criminal convictions collected under subsection (a)(5)(A)(iii) of this section;
+&emsp;&emsp;(A) provide information, in the primary language of the visa applicant, on protection orders and criminal convictions collected under subsection (a)(5)(A)(iii);
 
-&emsp;&emsp;(B) provide a copy of the pamphlet developed under subsection (a)(1) of this section in English or another appropriate language and provide an oral summary, in the primary language of the visa applicant, of that pamphlet; and
+&emsp;&emsp;(B) provide a copy of the pamphlet developed under subsection (a)(1) in English or another appropriate language and provide an oral summary, in the primary language of the visa applicant, of that pamphlet; and
 
-&emsp;&emsp;(C) ask the applicant, in the primary language of the applicant, whether an international marriage broker has facilitated the relationship between the applicant and the United States petitioner, and, if so, obtain the identity of the international marriage broker from the applicant and confirm that the international marriage broker provided to the applicant the information and materials required under subsection (d)(3)(A)(iii) of this section.
+&emsp;&emsp;(C) ask the applicant, in the primary language of the applicant, whether an international marriage broker has facilitated the relationship between the applicant and the United States petitioner, and, if so, obtain the identity of the international marriage broker from the applicant and confirm that the international marriage broker provided to the applicant the information and materials required under subsection (d)(3)(A)(iii).
 
 #### (2) Family-based applicants
 
-&emsp;The pamphlet developed under subsection (a)(1) of this section shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
+&emsp;The pamphlet developed under subsection (a)(1) shall be distributed directly to applicants for family-based immigration petitions at all consular and adjustment interviews for such visas. The Department of State or Department of Homeland Security officer conducting the interview shall review the summary of the pamphlet with the applicant orally in the applicant's primary language, in addition to distributing the pamphlet to the applicant in English or another appropriate language.
 
 #### (c) Confidentiality
 
@@ -114,7 +114,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;To comply with the requirements of subparagraph (A), an international marriage broker shall—
 
-&emsp;&emsp;&emsp;(i) obtain a valid copy of each foreign national client's birth certificate or otherproof of age document issued by an appropriate government entity;
+&emsp;&emsp;&emsp;(i) obtain a valid copy of each foreign national client's birth certificate or other proof of age document issued by an appropriate government entity;
 
 &emsp;&emsp;&emsp;(ii) indicate on such certificate or document the date it was received by the international marriage broker;
 
@@ -152,7 +152,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(iv) Any Federal, State, or local arrest or conviction of the United States client for offenses related to controlled substances or alcohol.
 
-&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination, and whether the client has previously sponsored an alien to whom the client was engaged or married.
+&emsp;&emsp;&emsp;(v) Marital history of the United States client, including whether the client is currently married, whether the client has previously been married and how many times, how previous marriages of the client were terminated and the date of termination,and whether the client has previously sponsored an alien to whom the client was engaged or married.
 
 &emsp;&emsp;&emsp;(vi) The ages of any of the United States client's children who are under the age of 18.
 
@@ -174,7 +174,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primary language), the pamphlet developed under subsection (a)(1) of this section; and
+&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primary language), the pamphlet developed under subsection (a)(1); and
 
 &emsp;&emsp;&emsp;(iv) received from the foreign national client a signed, written consent, in the foreign national client's primary language, to release the foreign national client's personal contact information to the specific United States client.
 
@@ -184,7 +184,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (4) Limitation on disclosure
 
-&emsp;An international marriage broker shall not provide the personal contact information of any foreign national client to any person orentity other than a United States client. Such information shall not be disclosed to potential United States clients or individuals who are being recruited to be United States clients or representatives.
+&emsp;An international marriage broker shall not provide the personal contact information of any foreign national client to any person or entity other than a United States client. Such information shall not be disclosed to potential United States clients or individuals who are being recruited to be United States clients or representatives.
 
 #### (5) Penalties
 
@@ -254,7 +254,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (B) Additional time allowed for information pamphlet
 
-&emsp;&emsp;The requirement for the distribution of the pamphlet developed under subsection (a)(1) of this section shall not apply until 30 days after the date of its development and initial distribution under subsection (a)(6) of this section.
+&emsp;&emsp;The requirement for the distribution of the pamphlet developed under subsection (a)(1) shall not apply until 30 days after the date of its development and initial distribution under subsection (a)(6).
 
 #### (e) Definitions
 
@@ -308,7 +308,7 @@ In this section:
 
 #### (7) Representative
 
-&emsp;The term "representative" means, with respect to an international marriage broker, the person or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
+&emsp;The term "representative" means, with respect to an international marriage broker, theperson or entity acting on behalf of such broker. Such a representative may be a recruiter, agent, independent contractor, or other international marriage broker or other person conveying information about or to a United States client or foreign national client, whether or not the person or entity receives remuneration.
 
 #### (8) State
 
@@ -336,7 +336,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) the annual number of waiver applications submitted under such a subsection, the number (and percentage) of such applications granted or denied, and the reasons for such decisions;
 
-&emsp;&emsp;&emsp;(iv) the annual number (and percentage) of cases in which the criminal background information collected and provided to the applicant as required by subsection (a)(5)(A)(iii) of this section contains one or more convictions;
+&emsp;&emsp;&emsp;(iv) the annual number (and percentage) of cases in which the criminal background information collected and provided to the applicant as required by subsection (a)(5)(A)(iii) contains one or more convictions;
 
 &emsp;&emsp;&emsp;(v) the annual number and percentage of cases described in clause (iv) that were granted or were denied waivers under section 1184(d)(2) of this title, as amended by this Act;
 
@@ -344,13 +344,13 @@ In this section:
 
 &emsp;&emsp;&emsp;(vii) the annual number of fiancé(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have concurrently filed other fiancé(e) or spousal K nonimmigrant visa petitioners or family-based immigration petitions; and
 
-&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked inthe multiple filings database established under paragraph (4) of section 1184(r) of this title, as added by this Act;
+&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked in the multiple filings database established under paragraph (4) of section 1184(r) of this title, as added by this Act;
 
 &emsp;&emsp;(B) regarding the number of international marriage brokers doing business in the United States, the number of marriages resulting from the services provided, and the extent of compliance with the applicable requirements of this section;
 
 &emsp;&emsp;(C) that assesses the accuracy and completeness of information gathered under section 832 <sup>2</sup> and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
 
-&emsp;&emsp;(D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B) of this section; and
+&emsp;&emsp;(D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B); and
 
 &emsp;&emsp;(E) that assesses the accuracy and completeness of the criminal background check performed by the Secretary of Homeland Security at identifying past instances of domestic violence.
 
@@ -374,7 +374,7 @@ In this section:
 
 #### (C) Data collection
 
-&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
+&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary ofState shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
 
 (Pub. L. 109–162, title VIII, §833, Jan. 5, 2006, 119 Stat. 3068; Pub. L. 113–4, title VIII, §§807(b), 808(b)–(d), Mar. 7, 2013, 127 Stat. 113–116.)
 
@@ -408,7 +408,7 @@ Subsec. (d)(2)(A)(i). Pub. L. 113–4, §808(c)(2)(A), substituted "website" for
 
 Subsec. (d)(2)(B)(ii). Pub. L. 113–4, §808(c)(2)(B), substituted "stalking, or an attempt to commit any such crime." for "or stalking."
 
-Subsec. (d)(3)(A)(i). Pub. L. 113–4, §808(c)(3)(A)(i), which directed substitution of "Website" for "Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry, in which the United States client has resided during the previous 20 years,", was executed by making the substitution for "Registry, or of the relevant State sex offender public registry for anyState not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years," to reflect the probable intent of Congress.
+Subsec. (d)(3)(A)(i). Pub. L. 113–4, §808(c)(3)(A)(i), which directed substitution of "Website" for "Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry, in which the United States client has resided during the previous 20 years,", was executed by making the substitution for "Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years," to reflect the probable intent of Congress.
 
 Subsec. (d)(3)(A)(iii)(II). Pub. L. 113–4, §808(c)(3)(A)(ii), substituted "signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B);" for "background information collected by the international marriage broker under paragraph (2)(B);".
 

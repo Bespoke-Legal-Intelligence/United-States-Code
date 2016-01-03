@@ -12,7 +12,7 @@ In General.—In addition to amounts made available under section 14501, there i
 
 &emsp;(4) $108,000,000 for fiscal year 2011; and
 
-&emsp;(5) $110,000,000 for fiscal year 2012.
+&emsp;(5) $110,000,000 for each of fiscal years 2012 through 2020.
 
 (b)
 
@@ -30,13 +30,17 @@ Economic and Energy Development Initiative.—Of the amounts made available unde
 
 (c)
 
-Availability.—Amounts made available under subsection (a) remain available until expended.
+High-speed Broadband Deployment Initiative.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2020.
 
 (d)
 
+Availability.—Amounts made available under subsection (a) remain available until expended.
+
+(e)
+
 Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
 
 Historical and Revision Notes
 
@@ -56,9 +60,17 @@ Pub. L. 89–4, title IV, §401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, ti
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(5). Pub. L. 114–94, §1436(b)(1), substituted "each of fiscal years 2012 through 2020" for "fiscal year 2012".
+
+Subsecs. (c) to (e). Pub. L. 114–94, §1436(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–371, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
 
 Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
 
 Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub. L. 114–94, set out as an Effective Date note under section 14509 of this title.
 

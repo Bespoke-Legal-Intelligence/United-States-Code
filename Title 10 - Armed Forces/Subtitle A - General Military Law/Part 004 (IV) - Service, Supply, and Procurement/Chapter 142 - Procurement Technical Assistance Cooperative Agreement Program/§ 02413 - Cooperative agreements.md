@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 113–66, §1611(c)(2), added subsec. (e).
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–180 made technical amendment to directory language of Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661. See 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, as amended by Pub. L. 100–180, amended subsec. (b) identically, inserting "sponsor programs to"after first reference to "agree to", "under such programs" after "such assistance", and "with respect to such program" after "such cost" and substituting "a program sponsored by such an entity that provides services solely in a distressed area" for "an eligible entity that is a distressed entity".
+<b>1986</b>—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661, as amended by Pub. L. 100–180, amended subsec. (b) identically, inserting "sponsor programs to" after first reference to "agree to", "under such programs" after "such assistance", and "with respect to such program" after "such cost" and substituting "a program sponsored by such an entity that provides services solely in a distressed area" for "an eligible entity that is a distressed entity".
 
 <b>1985</b>—Pub. L. 99–145 amended section generally, substituting ", in accordance with the provisions of this chapter, may enter" for "may, in accordance with the provisions of this chapter, enter" in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
 

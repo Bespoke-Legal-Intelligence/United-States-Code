@@ -28,7 +28,7 @@ The Secretary shall establish an advisory council to be known as the National Ad
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretary shall ensure the adequate representation of minorities.
+&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretaryshall ensure the adequate representation of minorities.
 
 #### (c) Vacancies
 
@@ -96,7 +96,7 @@ Another prior section 851 of act July 1, 1944, was classified to section 298 of 
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

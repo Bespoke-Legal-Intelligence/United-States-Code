@@ -36,7 +36,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expendmore than $250,000 in any fiscal year to procure such services.
+&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $250,000 in any fiscal year to procure such services.
 
 #### (2) Expert study
 

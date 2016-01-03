@@ -20,7 +20,7 @@ Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be availab
 
 &emsp;(D) Research and development relating to national defense sealift.
 
-&emsp;(E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744), and for the costs of acquisition of vessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
+&emsp;(E) Expenses for maintaining the National Defense Reserve Fleet under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744),<sup>1</sup> and for the costs of acquisition ofvessels for, and alteration and conversion of vessels in (or to be placed in), the fleet, but only for vessels built in United States shipyards.
 
 (2) Funds in the National Defense Sealift Fund may be obligated or expended only in amounts authorized by law.
 
@@ -40,7 +40,7 @@ Deposits.—There shall be deposited in the Fund the following:
 
 &emsp;&emsp;(D) research and development relating to national defense sealift.
 
-&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping ofNational Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
+&emsp;(2) All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
 
 &emsp;(3) All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 7291 note).
 
@@ -78,7 +78,7 @@ Budget Requests.—Budget requests submitted to Congress for the National Defens
 
 (i)
 
-Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+Title or Management of Vessels.—Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).<sup>1</sup>
 
 (j)
 
@@ -124,13 +124,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) a Department of Defense sealift vessel; and
 
-&emsp;&emsp;(B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
+&emsp;&emsp;(B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).<sup>1</sup>
 
 &emsp;(4) The term "head of an agency" has the meaning given that term in section 2302(1) of this title.
 
 (Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 109–163, div. A, title X, §1018(d), Jan. 6, 2006, 119 Stat. 3426; Pub. L. 109–304, §17(a)(2), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 110–417, \[div. A\], title XIV, §1407, Oct. 14, 2008, 122 Stat. 4647.)
 
 #### References in Text
+
+Section 11 of the Merchant Ship Sales Act of 1946, referred to in subsecs. (c)(1)(E), (i), and (k)(3)(B), was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4405 of Title 50.
 
 Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), and (k)(2)(A), is section 1424 of the National Defense Authorization Act for Fiscal Year 1991, which is set out as a note under section 7291 of this title.
 
@@ -209,4 +211,6 @@ Subsec. (j). Pub. L. 104–106, §1502(a)(15)(A), substituted "the congressional
 Subsec. (k)(4). Pub. L. 104–106, §1502(a)(15)(B), added par. (4).
 
 <b>1992</b>—Subsec. (c)(2). Pub. L. 102–396 substituted "in amounts authorized by law" for "for programs, projects, and activities and only in amounts authorized in, or otherwise permitted under, an Act other than an appropriations Act". See Codification note above.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

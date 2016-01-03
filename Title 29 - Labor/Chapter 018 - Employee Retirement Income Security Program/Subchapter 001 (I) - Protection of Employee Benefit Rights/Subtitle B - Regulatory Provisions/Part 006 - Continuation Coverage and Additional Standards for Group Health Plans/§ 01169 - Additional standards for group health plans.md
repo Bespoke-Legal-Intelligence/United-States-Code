@@ -104,7 +104,7 @@
 
 #### (8) Direct provision of benefits provided to alternate recipients
 
-&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardianshall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+&emsp;Any payment for benefits made by a group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 #### (9) Payment to State official treated as satisfaction of plan's obligation to make payment to alternate recipient
 
@@ -122,7 +122,7 @@
 
 #### (3) Acquisition by States of rights of third parties
 
-&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to makepayment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
 
 #### (c) Group health plan coverage of dependent children in cases of adoption
 
@@ -358,7 +358,7 @@ Establishment of procedures for determining qualified status of orders.—Each c
 
 &emsp;&emsp;&emsp;"(i) shall be in writing;
 
-&emsp;&emsp;&emsp;"(ii) shall provide for the notification of each person specified in a medical child support orderas eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
+&emsp;&emsp;&emsp;"(ii) shall provide for the notification of each person specified in a medical child support order as eligible to receive benefits under the plan (at the address included in the medical child support order) of such procedures promptly upon receipt by the plan of the medical child support order; and
 
 &emsp;&emsp;&emsp;"(iii) shall permit an alternate recipient to designate a representative for receipt of copies of notices that are sent to the alternate recipient with respect to a medical child support order.
 
@@ -384,7 +384,7 @@ Rule of construction.—Nothing in this subparagraph shall be construed as requi
 
 &emsp;"(6)
 
-Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be madeto the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 &emsp;"(7)
 

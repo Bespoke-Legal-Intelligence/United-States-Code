@@ -18,7 +18,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;&emsp;(A) in advance of—
 
-&emsp;&emsp;&emsp;(i) any certification under section 2366a or 2366b of this title;
+&emsp;&emsp;&emsp;(i) any decision to grant milestone approval pursuant to section 2366a or 2366b of this title;
 
 &emsp;&emsp;&emsp;(ii) any decision to enter into low-rate initial production or full-rate production;
 
@@ -28,7 +28,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;&emsp;(B) at any other time considered appropriate by the Director or upon the request of the Under Secretary of Defense for Acquisition, Technology, and Logistics;
 
-&emsp;(7) periodically assess and update the cost indexes used by the Department to ensure thatsuch indexes have a sound basis and meet the Department's needs for realistic cost estimation; and
+&emsp;(7) periodically assess and update the cost indexes used by the Department to ensure that such indexes have a sound basis and meet the Department's needs for realistic cost estimation; and
 
 &emsp;(8) annually review the cost and associated information required to be included, by section 2432(c)(1) of this title, in the Selected Acquisition Reports required by that section.
 
@@ -72,7 +72,7 @@ Estimates for Program Baseline and Analyses and Targets for Contract Negotiation
 
 (2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
 
-(3) The Program Manager and contracting officer for each major defense acquisition program and major automated information system program shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2).
+(3) The Program Manager and contracting officer for each major defense acquisition program and major automated information system program shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defensefor Acquisition, Technology, and Logistics under paragraph (2).
 
 (4) Funds that are made available for a major defense acquisition program or major automated information system program in accordance with a cost estimate conducted pursuant to subsection (a)(6), but are excess to a cost analysis or target developed pursuant to paragraph (2), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
@@ -90,33 +90,15 @@ Estimates for Program Baseline and Analyses and Targets for Contract Negotiation
 
 (f)
 
-Annual Report on Cost Assessment Activities.—(1) The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report—
-
-&emsp;(A) an assessment of the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
-
-&emsp;(B) an assessment of the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs;
-
-&emsp;(C) an assessment of any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director; and
-
-&emsp;(D) a summary of the cost and associated information reviewed under subsection (a)(8), an identification of any trends in that information, an aggregation of the cumulative risk of the portfolio of systems reviewed under that subsection, and recommendations for improving cost estimates on the basis of the review under that subsection.
-
-(2) Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to section 1105 of title 31).
-
-(3)(A) Each report submitted to the congressional defense committees under this subsection shall be submitted in unclassified form, but may include a classified annex.
-
-(B) The Director shall ensure that a report submitted under this subsection does not include any information, such as proprietary or source selection sensitive information, that could undermine the integrity of the acquisition process.
-
-(C) The unclassified version of each report submitted to the congressional defense committees under this subsection shall be posted on an Internet website of the Department of Defense that is available to the public.
-
-(4) The Secretary of Defense may comment on any report of the Director to the congressional defense committees under this subsection.
-
-(g)
-
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(6)(A)(i). Pub. L. 114–92, §824(b), substituted "any decision to grant milestone approval pursuant to" for "any certification under".
+
+Subsecs. (f), (g). Pub. L. 114–92, §1077(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual report on cost assessment activities.
 
 <b>2013</b>—Subsec. (a)(8). Pub. L. 113–66, §812(c)(1), added par. (8).
 

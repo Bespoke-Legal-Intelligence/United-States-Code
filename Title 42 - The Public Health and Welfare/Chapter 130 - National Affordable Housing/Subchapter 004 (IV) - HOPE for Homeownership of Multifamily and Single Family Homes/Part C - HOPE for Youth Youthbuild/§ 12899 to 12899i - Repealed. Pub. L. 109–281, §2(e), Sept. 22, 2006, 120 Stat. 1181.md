@@ -8,7 +8,7 @@ Section 12899b, Pub. L. 101–625, title IV, §453, as added Pub. L. 102–550, 
 
 Section 12899c, Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434, related to implementation grants.
 
-Section 12899d, Pub. L. 101–625, title IV, §455, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3728; amended Pub. L. 105–276, title V, §514(a)(2)(B), Oct. 21,1998, 112 Stat. 2547; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, set forth Youthbuild program requirements.
+Section 12899d, Pub. L. 101–625, title IV, §455, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3728; amended Pub. L. 105–276, title V, §514(a)(2)(B), Oct. 21, 1998, 112 Stat. 2547; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, set forth Youthbuild program requirements.
 
 Section 12899e, Pub. L. 101–625, title IV, §456, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3730; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, set forth additional program requirements.
 
@@ -24,5 +24,5 @@ Section 12899i, Pub. L. 101–625, title IV, §461, formerly §460, as added Pub
 
 #### Transfer of Functions
 
-All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) transferred to the Department of Labor, see section 3(b) of Pub. L. 109–281, set out as a Transfer of Functions and Savings Provisions note under section 2918a of Title 29, Labor.
+All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) transferred to the Department of Labor, see section 3(b) of Pub. L. 109–281, set out as a Transfer of Functions and Savings Provisions note under section 3226 of Title 29, Labor.
 

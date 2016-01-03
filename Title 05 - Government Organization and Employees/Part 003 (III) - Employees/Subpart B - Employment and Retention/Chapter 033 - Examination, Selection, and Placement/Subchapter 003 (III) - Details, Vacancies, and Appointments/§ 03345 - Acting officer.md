@@ -100,7 +100,7 @@ Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
 Sec. 4. <i>Orders of Succession Not Requiring Presidential Action</i>. (a) Each agency for which presidential action is not required to establish an order of succession because of the agency's existing legal authority shall establish and maintain such order in accordance with applicable law and any applicable guidance issued by the President or the Secretary of Homeland Security, including the laws and guidance regarding continuity plans and programs for the executive branch.
 
-(b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession as necessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
+(b) Each agency described in subsection 4(a) of this order shall update and revise its order of succession asnecessary. Before implementing any revisions to its order of succession, such agency shall send the proposed revisions to the Counsel to the President for review and comment.
 
 (c) Not later than 30 days from the date of this order, and not later than 7 days from the issuance date of any subsequent final revision to an existing order of succession, each agency described in subsection 4(a) of this order shall provide a copy of its order of succession to the Counsel to the President, the Assistant to the President for Homeland Security and Counterterrorism, and the Director of the Office of Management and Budget.
 
@@ -124,7 +124,9 @@ Provisions relating to the exercise of Presidential authorities to designate an 
 
 #### Council on Environmental Quality
 
-Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487.
+Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289.
+
+Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, revoked by Memorandum of President of the United States, §3, Mar. 13, 2015, 80 F.R. 14289.
 
 #### Department of Agriculture
 
@@ -140,7 +142,7 @@ Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, revoked by Ex. Ord. No. 13241, 
 
 Ex. Ord. No. 13613, May 21, 2012, 77 F.R. 31155.
 
-Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, as amended by Ex. Ord. No. 13261, §4(b), Mar. 19, 2002, 67F.R. 13243, revoked by Ex. Ord. No. 13613, §3, May 21, 2012, 77 F.R. 31155.
+Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, as amended by Ex. Ord. No. 13261, §4(b), Mar. 19, 2002, 67 F.R. 13243, revoked by Ex. Ord. No. 13613, §3, May 21, 2012, 77 F.R. 31155.
 
 Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12998, Apr. 5, 1996, 61 F.R. 15873, revoked by Ex. Ord. No. 13242, §4, Dec. 18, 2001, 66 F.R. 66261.
 

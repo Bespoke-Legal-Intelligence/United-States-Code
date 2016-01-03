@@ -2,7 +2,7 @@
 
 #### (a) Contents; report to Congress
 
-The Secretary shall conduct a detailed survey and study of the academic facilities needs ofDine <sup>1</sup> College, and shall report to the Congress not later than October 31, 2010, the results of such survey and study. Such report shall include any recommendations or views submitted by the governing body of such College and by the governing body of the Navajo Nation, and shall include detailed recommendations by the Secretary as to the number, type, and cost of academic facilities which are required, ranking each such required facility by relative need.
+The Secretary shall conduct a detailed survey and study of the academic facilities needs of Dine <sup>1</sup> College, and shall report to the Congress not later than October 31, 2010, the results of such survey and study. Such report shall include any recommendations or views submitted by the governing body of such College and by the governing body of the Navajo Nation, and shall include detailed recommendations by the Secretary as to the number, type, and cost of academic facilities which are required, ranking each such required facility by relative need.
 
 #### (b) Funding
 

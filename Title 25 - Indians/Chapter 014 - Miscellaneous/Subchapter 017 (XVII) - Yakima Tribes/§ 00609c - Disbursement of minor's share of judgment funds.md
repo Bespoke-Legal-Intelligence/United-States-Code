@@ -18,7 +18,7 @@ For purposes of this section and section 609c–1 of this title, the term—
 
 #### (b) Disbursement to parent of minor
 
-Notwithstanding any provision of the Act of October 19, 1973 (87 Stat. 466) \[25 U.S.C. 1401 et seq.\], the Act of March 12, 1968 (82 Stat. 47), or any other law, or any regulation or plan promulgated pursuant thereto, the minor's share of judgment funds heretofore or hereafter awarded by the Indian Claims Commission or the United States Court of Claims to a tribe may be disbursed to a parent of such minor pursuant to this section and section 609c–1 of this title.
+Notwithstanding any provision of the Act of October 19, 1973 (87 Stat. 466) \[25 U.S.C. 1401 et seq.\], the Act of March 12, 1968 (82 Stat. 47), orany other law, or any regulation or plan promulgated pursuant thereto, the minor's share of judgment funds heretofore or hereafter awarded by the Indian Claims Commission or the United States Court of Claims to a tribe may be disbursed to a parent of such minor pursuant to this section and section 609c–1 of this title.
 
 #### (c) Disbursements under plan for best interest of minor
 
@@ -26,7 +26,7 @@ The minor's share of judgment funds may be disbursed in such amounts deemed nece
 
 #### (d) Monthly reports
 
-The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c) of this section. Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
+The Secretary shall provide a monthly report to each tribal governing body which has approved one or more plans pursuant to subsection (c). Each such report shall include the amount and purpose of every disbursement made during each month under such plans.
 
 (Pub. L. 95–433, §1, Oct. 10, 1978, 92 Stat. 1047; Pub. L. 103–435, §17(b), Nov. 2, 1994, 108 Stat. 4573.)
 

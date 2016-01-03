@@ -2,7 +2,7 @@
 
 #### (a) Supersedure; effective date
 
-Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
+Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in section 1003(a) of this title and not exempt under section 1003(b) of this title. This section shall take effect on January 1, 1975.
 
 #### (b) Construction and application
 
@@ -24,7 +24,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(ii) any amendment of the Hawaii Prepaid Health Care Act enacted after September 2, 1974, to the extent it provides for more than the effective administration of such Act as in effect on such date.
 
-(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sections of this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
+(C) Notwithstanding subparagraph (A), parts 1 and 4 of this subtitle, and the preceding sectionsof this part to the extent they govern matters which are governed by the provisions of such parts 1 and 4, shall supersede the Hawaii Prepaid Health Care Act (as in effect on or after January 14, 1983), but the Secretary may enter into cooperative arrangements under this paragraph and section 1136 of this title with officials of the State of Hawaii to assist them in effectuating the policies of provisions of such Act which are superseded by such parts 1 and 4 and the preceding sections of this part.
 
 (6)(A) Notwithstanding any other provision of this section—
 
@@ -48,7 +48,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 &emsp;(A) with respect to which the State exercises its acquired rights under section 1169(b)(3) of this title with respect to a group health plan (as defined in section 1167(1) of this title), or
 
-&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State planfor medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.
+&emsp;(B) for recoupment of payment with respect to items or services pursuant to a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which would not have been payable if such acquired rights had been executed before payment with respect to such items or services by the group health plan.
 
 (9) For additional provisions relating to group health plans, see section 1191 of this title.
 
@@ -72,7 +72,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 &emsp;(A) under which a participant may elect to have the plan sponsor make payments as contributions under the plan on behalf of the participant, or to the participant directly in cash,
 
-&emsp;(B) under which a participant is treated as having elected to have the plan sponsor make such contributions in an amount equal to a uniform percentage of compensation provided under the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
+&emsp;(B) under which a participant is treated as having elected to have the plan sponsor make such contributions in an amount equal to a uniform percentage of compensation providedunder the plan until the participant specifically elects not to have such contributions made (or specifically elects to have such contributions made at a different percentage), and
 
 &emsp;(C) under which such contributions are invested in accordance with regulations prescribed by the Secretary under section 1104(c)(5) of this title.
 
@@ -110,7 +110,7 @@ Pub. L. 104–191 added par. (9).
 
 <b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted ", qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders" before period at end.
 
-Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: "Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a planunder title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act."
+Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: "Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act."
 
 <b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–239, §7894(f)(2)(A), substituted "by such parts 1 and 4 and the preceding sections of this part" for "by such parts".
 
@@ -152,7 +152,7 @@ Pub. L. 99–272, title IX, §9503(d)(2), Apr. 7, 1986, 100 Stat. 207, provided 
 
 &emsp;"(ii) the earlier of—
 
-&emsp;&emsp;"(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act); or
+&emsp;&emsp;"(I) the date on which the last of the collective bargaining agreements under which the plan is maintained, which were in effect on the date of the enactment of this Act, terminates (determinedwithout regard to any extension thereof agreed to after the date of the enactment of this Act); or
 
 &emsp;&emsp;"(II) three years after the date of the enactment of this Act."
 

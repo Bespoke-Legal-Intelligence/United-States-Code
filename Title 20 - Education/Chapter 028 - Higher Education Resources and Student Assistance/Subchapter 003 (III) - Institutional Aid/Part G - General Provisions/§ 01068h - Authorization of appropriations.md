@@ -56,13 +56,13 @@ Another prior section 1069, Pub. L. 89–329, title III, §344, as added Pub. L.
 
 Another prior section 1069, Pub. L. 89–329, title IV, §409, Nov. 8, 1965, 79 Stat. 1236, related to definition of academic year, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
-A prior section 1069a, Pub. L. 89–329, title III, §355, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 100–50, §2(a)(16), (17), June 3, 1987, 101 Stat. 336, related to special payments rules, prior to repeal by Pub. L. 102–325, §2, title III, §305(c), July 23, 1992, 106 Stat. 458, 478, effective Oct. 1, 1992.
+A prior section 1069a, Pub. L. 89–329, title III, §355, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 100–50, §2(a)(16), (17), June3, 1987, 101 Stat. 336, related to special payments rules, prior to repeal by Pub. L. 102–325, §2, title III, §305(c), July 23, 1992, 106 Stat. 458, 478, effective Oct. 1, 1992.
 
 Another prior section 1069a, Pub. L. 89–329, title III, §345, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1399, related to assistance to institutions under other programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 A prior section 1069b, Pub. L. 89–329, title III, §356, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306, and amended, which related to assistance to institutions under other programs, was renumbered section 395 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068d of this title.
 
-Another prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended,prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
 

@@ -12,7 +12,7 @@
 
 #### (b) Exemption from tax imposed in the United States
 
-Articles, goods, wares, or merchandise going into Puerto Rico, the Virgin Islands, Guam, andAmerican Samoa from the United States shall be exempted from the payment of any tax imposed by the internal revenue laws of the United States.
+Articles, goods, wares, or merchandise going into Puerto Rico, the Virgin Islands, Guam, and American Samoa from the United States shall be exempted from the payment of any tax imposed by the internal revenue laws of the United States.
 
 #### (c) Drawback of tax paid in the United States
 
@@ -22,7 +22,7 @@ All provisions of law for the allowance of drawback of internal revenue tax on a
 
 &emsp;&emsp;<b>For the disposition of the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in Guam and transported into the United States or its possessions, or consumed in Guam, see the Act of August 1, 1950 (48 U.S.C. 1421h).</b>
 
-(Aug. 16, 1954, ch. 736 68A Stat. 908; Pub. L. 86–70, §22(f), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(h), July 12, 1960, 74 Stat. 416; Pub. L. 94–455, title XIX, §1906(a)(56), Oct. 4, 1976, 90 Stat. 1832.)
+(Aug. 16, 1954, ch. 736 68A Stat. 908; Pub. L. 86–70, §22(f), June 25, 1959, 73 Stat. 146; Pub. L. 86–624,§18(h), July 12, 1960, 74 Stat. 416; Pub. L. 94–455, title XIX, §1906(a)(56), Oct. 4, 1976, 90 Stat. 1832.)
 
 #### References in Text
 

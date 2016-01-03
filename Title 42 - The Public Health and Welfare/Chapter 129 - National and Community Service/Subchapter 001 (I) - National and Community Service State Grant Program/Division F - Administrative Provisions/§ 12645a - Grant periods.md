@@ -1,6 +1,6 @@
 ### §12645a. Grant periods
 
-Unless otherwise specifically provided, the Corporation has authority to award a grant or contract, or enter into a cooperative agreement, under the national service laws for a period of 3 years.
+Unless otherwise specifically provided, the Corporation has authority to award a grant orcontract, or enter into a cooperative agreement, under the national service laws for a period of 3 years.
 
 (Pub. L. 101–610, title I, §187, as added Pub. L. 111–13, title I, §1612, Apr. 21, 2009, 123 Stat. 1538.)
 

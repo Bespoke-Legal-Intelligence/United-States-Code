@@ -50,7 +50,7 @@ In general.—The following applicable percentage of any amount that remains in 
 
 | <b> If the amount remains in the fund at  the close of the—</b> | <b>The applicable percentage is—</b> |
 | :--- | ---: |
-| 26th taxable year | 20 percent&nbsp;&nbsp; |
+| 26th taxable year | 20 percent   |
 | 27th taxable year | 40 percent&nbsp;&nbsp; |
 | 28th taxable year | 60 percent&nbsp;&nbsp; |
 | 29th taxable year | 80 percent&nbsp;&nbsp; |

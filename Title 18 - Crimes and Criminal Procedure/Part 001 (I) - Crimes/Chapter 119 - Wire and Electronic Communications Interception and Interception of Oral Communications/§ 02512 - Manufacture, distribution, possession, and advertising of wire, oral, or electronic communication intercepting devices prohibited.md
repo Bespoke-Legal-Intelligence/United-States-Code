@@ -4,7 +4,7 @@
 
 &emsp;(a) sends through the mail, or sends or carries in interstate or foreign commerce, any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications;
 
-&emsp;(b) manufactures, assembles, possesses, or sells any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitiousinterception of wire, oral, or electronic communications, and that such device or any component thereof has been or will be sent through the mail or transported in interstate or foreign commerce; or
+&emsp;(b) manufactures, assembles, possesses, or sells any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications, and that such device or any component thereof has been or will be sent through the mail or transported in interstate or foreign commerce; or
 
 &emsp;(c) places in any newspaper, magazine, handbill, or other publication or disseminates by electronic means any advertisement of—
 
@@ -44,7 +44,7 @@ Par. (2). Pub. L. 103–322, §330022, as amended by Pub. L. 104–294, realigne
 
 Par. (1). Pub. L. 99–508, §101(c)(1)(A), (f)(2), substituted "intentionally" for "willfully" in introductory provision and "wire, oral, or electronic" for "wire or oral" in subpars. (a), (b), and (c)(i), (ii).
 
-Par. (2)(a). Pub. L. 99–508, §101(c)(7), substituted "a provider of wire or electronic communication service or" for "a communications common carrier or", "such a provider, in" for "a communications common carrier, in", and "business of providing that wire or electronic communication service" for "communications common carrier's business".
+Par. (2)(a). Pub. L. 99–508, §101(c)(7), substituted "a provider of wire or electronic communication service or" for "a communications common carrier or", "sucha provider, in" for "a communications common carrier, in", and "business of providing that wire or electronic communication service" for "communications common carrier's business".
 
 Par. (2)(b). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral".
 

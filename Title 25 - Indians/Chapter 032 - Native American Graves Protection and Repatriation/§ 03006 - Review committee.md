@@ -6,7 +6,7 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 #### (b) Membership
 
-(1) The Committee <sup>1</sup> established under subsection (a) of this section shall be composed of 7 members,
+(1) The Committee <sup>1</sup> established under subsection (a) shall be composed of 7 members,
 
 &emsp;(A) 3 of whom shall be appointed by the Secretary from nominations submitted by Indian tribes, Native Hawaiian organizations, and traditional Native American religious leaders with at least 2 of such persons being traditional Indian religious leaders;
 
@@ -18,11 +18,11 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 (3) In the event vacancies shall occur, such vacancies shall be filled by the Secretary in the same manner as the original appointment within 90 days of the occurrence of such vacancy.
 
-(4) Members of the committee established under subsection (a) of this section shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+(4) Members of the committee established under subsection (a) shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (c) Responsibilities
 
-The committee established under subsection (a) of this section shall be responsible for—
+The committee established under subsection (a) shall be responsible for—
 
 &emsp;(1) designating one of the members of the committee as chairman;
 
@@ -36,7 +36,7 @@ The committee established under subsection (a) of this section shall be responsi
 
 &emsp;(4) facilitating the resolution of any disputes among Indian tribes, Native Hawaiian organizations, or lineal descendants and Federal agencies or museums relating to the return of such items including convening the parties to the dispute if deemed desirable;
 
-&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in the possession or control of each Federal agency and museum and recommending specific actions for developing a process for disposition of such remains;
+&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in thepossession or control of each Federal agency and museum and recommending specific actions for developing a process for disposition of such remains;
 
 &emsp;(6) consulting with Indian tribes and Native Hawaiian organizations and museums on matters within the scope of the work of the committee affecting such tribes or organizations;
 
@@ -56,7 +56,7 @@ The committee shall make the recommendations under paragraph <sup>2</sup> (c)(5
 
 #### (f) Access
 
-The Secretary shall ensure that the committee established under subsection (a) of this section and the members of the committee have reasonable access to Native American cultural items under review and to associated scientific and historical documents.
+The Secretary shall ensure that the committee established under subsection (a) and the members of the committee have reasonable access to Native American cultural items under review and to associated scientific and historical documents.
 
 #### (g) Duties of Secretary
 
@@ -68,11 +68,11 @@ The Secretary shall—
 
 #### (h) Annual report
 
-The committee established under subsection (a) of this section shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
+The committee established under subsection (a) shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
 
 #### (i) Termination
 
-The committee established under subsection (a) of this section shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
+The committee established under subsection (a) shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
 
 (Pub. L. 101–601, §8, Nov. 16, 1990, 104 Stat. 3055.)
 

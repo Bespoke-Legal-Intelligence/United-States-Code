@@ -160,7 +160,7 @@ Uses Not Permitted.—A State may not obligate funds apportioned to carry out th
 
 &emsp;(2) construction of any recreational trail on National Forest System land for any motorized use unless—
 
-&emsp;&emsp;(A) the land has been designated for uses other than wilderness by an approved forest land and resource management plan or has been released to uses other than wilderness by an Act of Congress; and
+&emsp;&emsp;(A) the land has been designated for uses other than wilderness by an approved forest land and resource management plan or hasbeen released to uses other than wilderness by an Act of Congress; and
 
 &emsp;&emsp;(B) the construction is otherwise consistent with the management direction in the approved forest land and resource management plan;
 
@@ -260,7 +260,7 @@ Pub. L. 112–141, div. A, title I, §1524, July 6, 2012, 126 Stat. 580, provide
 
 "(a)
 
-In General.—The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of Public Law 101–610 (42 U.S.C. 12572(a)(2)) and 106(c)(3) of Public Law 103–82 (42 U.S.C. 12656(c)(3)) to perform appropriate projects eligible under sections 162, 206, 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU (119 Stat. 1228).
+In General.—The Secretary shall encourage the States and regional transportation planning agencies to enter into contracts and cooperative agreements with qualified youth service or conservation corps, as defined in sections 122(a)(2) of Public Law 101–610 (42 U.S.C. 12572(a)(2)) and 106(c)(3) of Public Law 103–82 (42 U.S.C. 12656(c)(3)) to perform appropriate projects eligible under sections 162, 206, \[former\] 213, and 217 of title 23, United States Code, and under section 1404 of the SAFETEA–LU (119 Stat. 1228).
 
 "(b)
 

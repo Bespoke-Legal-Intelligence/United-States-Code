@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) a certificate of citizenship has been issued for such child under section 322 of that Act (8 U.S.C. 1433).
 
-(Added Pub. L. 102–190, div. A, title VI, §651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, §1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, §652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, §661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, §592(a), Jan. 6, 2006, 119 Stat. 3280.)
+(Added Pub. L. 102–190, div. A, title VI, §651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L.102–484, div. A, title X, §1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, §652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, §661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, §592(a), Jan. 6, 2006, 119 Stat. 3280.)
 
 #### Prior Provisions
 

@@ -44,7 +44,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of this title and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
 
-&emsp;(B) The Secretary shall not provide assistance to a program otherwise eligible for assistance under this division, if the Secretary has determined that such program has involved the fraudulent use of funds under this division.
+&emsp;(B) The Secretary shall not provide assistance to a program otherwise eligible for assistance under this division, if the Secretaryhas determined that such program has involved the fraudulent use of funds under this division.
 
 #### (4) Peer review process
 
@@ -164,7 +164,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Technical assistance
 
-&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underserved by the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, the application process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to be conducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
+&emsp;The Secretary shall provide technical training to applicants for projects and programs authorized under this division. The Secretary shall give priority to serving programs and projects that serve geographic areas and eligible populations which have been underservedby the programs assisted under this division. Technical training activities shall include the provision of information on authorizing legislation, goals and objectives of the program, required activities, eligibility requirements, the application process and application deadlines, and assistance in the development of program proposals and the completion of program applications. Such training shall be furnished at conferences, seminars, and workshops to be conducted at not less than 10 sites throughout the United States to ensure that all areas of the United States with large concentrations of eligible participants are served.
 
 #### (4) Special rule
 
@@ -330,7 +330,7 @@ For the purpose of this division:
 
 #### (6) Waiver
 
-&emsp;The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines theapplication of the service requirements to a veteran will defeat the purpose of a program under this division.
+&emsp;The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
 
 (Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652; Pub. L. 110–315, title IV, §403(a), Aug. 14, 2008, 122 Stat. 3191; Pub. L. 111–39, title IV, §401(a)(4), July 1, 2009, 123 Stat. 1938.)
 
@@ -402,7 +402,7 @@ Subsec. (h)(6). Pub. L. 110–315, §403(a)(7)(D), substituted "subparagraph (A)
 
 <b>1998</b>—Subsec. (b)(2)(C). Pub. L. 105–244, §402(a)(1), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 105–244, §402(a)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995."
+Subsec. (b)(3). Pub. L. 105–244, §402(a)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less.The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995."
 
 Subsec. (c). Pub. L. 105–244, §402(a)(3), amended subsec. (c) generally, revising and restating former pars. (1) to (6), relating to procedures for awarding grants and contracts, as pars. (1) to (7).
 

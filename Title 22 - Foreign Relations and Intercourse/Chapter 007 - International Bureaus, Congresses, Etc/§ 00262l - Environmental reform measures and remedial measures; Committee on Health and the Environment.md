@@ -28,7 +28,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) establish a regular integrated multidisciplinary planning process to conduct land use capability analyses in reviewing potential loans. Such plans shall include, but not be limited to, a review of ongoing or other potential resource utilization efforts in and adjacent to the project area;
 
-&emsp;(4) vigorously promote a commitment of these institutions to develop and implement plans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
+&emsp;(4) vigorously promote a commitment of these institutions to develop and implementplans for the rehabilitation and management of the ecological resources of borrower nations on a sustained basis. Special attention shall be paid to soil conservation, wildlife, wetlands, estuaries, croplands, grasslands, forests, and fisheries, including—
 
 &emsp;&emsp;(A) long-term programs of research designed to manage ecosystems properly;
 
@@ -76,7 +76,7 @@ In the report of the Secretary of the Treasury required by subsection (e), regar
 
 The Administrator of the Agency for International Development in conjunction with the Secretaries of Treasury and State shall—
 
-&emsp;(1) instruct overseas missions of the Agency for International Development and embassiesof the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
+&emsp;(1) instruct overseas missions of the Agency for International Development and embassies of the United States to analyze the impacts of Multilateral Development Bank projects proposed to be undertaken in the host country well in advance of a project's approval by the relevant institution. Such reviews shall address the economic viability of the project; adverse impacts on the environment, natural resources, and indigenous peoples; and recommendations as to measures, including alternatives, that could eliminate or mitigate adverse impacts. If not classified under the national security system of classification, such information shall be made available to the public;
 
 &emsp;(2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 
@@ -134,7 +134,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;&emsp;"(B) encouragement and adoption of policies which allow for public participation in the EIA process;
 
-&emsp;"(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
+&emsp;"(5) include environmental costs in the economic assessment of the proposed projects with significantpotential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
 
 &emsp;"(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
 

@@ -28,7 +28,7 @@ In addition to using funds as provided in subsection (a), the Secretary may use 
 
 #### (d) Standards for acquisition of health information technology
 
-To the greatest extent practicable, the Secretary shall ensure that where funds are expended under this section for the acquisition of health information technology, such funds shallbe used to acquire health information technology that meets applicable standards adopted under section 300jj–14 of this title. Where it is not practicable to expend funds on health information technology that meets such applicable standards, the Secretary shall ensure that such health information technology meets applicable standards otherwise adopted by the Secretary.
+To the greatest extent practicable, the Secretary shall ensure that where funds are expended under this section for the acquisition of health information technology, such funds shall be used to acquire health information technology that meets applicable standards adopted under section 300jj–14 of this title. Where it is not practicable to expend funds on health information technology that meets such applicable standards, the Secretary shall ensure that such health information technology meets applicable standards otherwise adopted by the Secretary.
 
 (July 1, 1944, ch. 373, title XXX, §3011, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 246.)
 

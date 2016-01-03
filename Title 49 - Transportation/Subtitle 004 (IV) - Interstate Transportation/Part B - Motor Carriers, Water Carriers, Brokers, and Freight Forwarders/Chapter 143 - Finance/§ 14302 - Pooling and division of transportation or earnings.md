@@ -22,11 +22,11 @@ Application.—Any motor carrier of property may apply to the Board for approval
 
 &emsp;(2)
 
-Determination of importance and restraint on competition.—Prior to the effective date of the agreement or combination, the Board shall determine whether the agreement or combination is of major transportation importance and whether there is substantial likelihood that the agreement or combination will unduly restrain competition. If the Board determines that neither of these 2 factors exists, it shall, prior to such effective date and without a hearing, approve and authorize theagreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Determination of importance and restraint on competition.—Prior to the effective date of the agreement or combination, the Board shall determine whether the agreement or combination is of major transportation importance and whether there is substantial likelihood that the agreement or combination will unduly restrain competition. If the Board determines that neither of these 2 factors exists, it shall, prior to such effective date and without a hearing, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(3)
 
-Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the publicor of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(4)
 
@@ -98,5 +98,5 @@ Subsec. (h)(2). Pub. L. 104–287, §5(37)(D), substituted "December 31, 1995" f
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

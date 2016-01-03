@@ -164,7 +164,7 @@ Pub. L. 104–275, title IV, §405(a), Oct. 9, 1996, 110 Stat. 3339, provided th
 
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
-Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen'sGroup Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
+Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

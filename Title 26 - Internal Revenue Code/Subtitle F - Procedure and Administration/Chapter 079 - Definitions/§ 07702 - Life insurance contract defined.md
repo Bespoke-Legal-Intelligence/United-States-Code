@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (i) Charges not specified in the contract
 
-&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into account under subparagraph (B)(ii) for such charge shall be zero.
+&emsp;&emsp;&emsp;If any charge is not specified in the contract, the amount taken into accountunder subparagraph (B)(ii) for such charge shall be zero.
 
 #### (ii) New companies, etc.
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "premiums paid" means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and anyother amounts received with respect to the contract which are specified in regulations.
+&emsp;&emsp;The term "premiums paid" means the premiums paid under the contract less amounts (other than amounts includible in gross income) to which section 72(e) applies and less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received with respect to the contract which are specified in regulations.
 
 #### (B) Treatment of certain premiums returned to policyholder
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (D) Recapture ceiling where change occurs after 5th year and before 16th year
 
-&emsp;&emsp;If the change referred to in subparagraph (B) occurs after the 5-year period referred tounder subparagraph (C), the recapture ceiling is the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction and whether or not subsection (d) applies to the contract).
+&emsp;&emsp;If the change referred to in subparagraph (B) occurs after the 5-year period referred to under subparagraph (C), the recapture ceiling is the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction and whether or not subsection (d) applies to the contract).
 
 #### (E) Treatment of certain distributions made in anticipation of benefit reductions
 
@@ -430,7 +430,7 @@ Exception for certain contracts.—Subparagraph (A) shall not apply to any contr
 
 &emsp;&emsp;"(iii) under such contract—
 
-&emsp;&emsp;&emsp;"(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and an annual effective interest rate of not less than 3 percent, or
+&emsp;&emsp;&emsp;"(I) the premiums (including any policy fees) will be adjusted from time-to-time to reflect the level amount necessary (but not less than zero) at the time of such adjustment to provide a level death benefit assuming interest crediting and anannual effective interest rate of not less than 3 percent, or
 
 &emsp;&emsp;&emsp;"(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
 

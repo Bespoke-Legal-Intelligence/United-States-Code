@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary is authorized to make grants to, or enter into contracts with, institutions ofhigher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
+The Secretary is authorized to make grants to, or enter into contracts with, institutions of higher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
 
 &emsp;(1) the encouragement of reform and improvement of, and innovation in, postsecondary education and the provision of educational opportunity for all students, including nontraditional students;
 
@@ -12,7 +12,7 @@ The Secretary is authorized to make grants to, or enter into contracts with, ins
 
 &emsp;&emsp;(B) combinations of academic and experiential learning;
 
-&emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those efforts that utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
+&emsp;(3) the establishment and continuation of institutions, programs, consortia, collaborations, and other joint efforts based on communications technology, including those effortsthat utilize distance education and technological advancements to educate and train postsecondary students (including health professionals serving medically underserved populations);
 
 &emsp;(4) the carrying out, in postsecondary educational institutions, of changes in internal structure and operations designed to clarify institutional priorities and purposes;
 
@@ -84,7 +84,7 @@ The Secretary is authorized to make planning grants to institutions of higher ed
 
 #### (e) Priority
 
-In making grants under this part to any institution of higher education after August 14, 2008, the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
+In making grants under this part to any institution of higher education after August 14, 2008,the Secretary may give priority to institutions that meet or exceed the most current version of ASHRAE/IES Standard 90.1 (as such term is used in section 6313(a)(6) of title 42) for any new facilities construction or major renovation of the institution after such date, except that this subsection shall not apply with respect to barns or greenhouses or similar structures owned by the institution.
 
 #### (f) Scholarship program for family members of veterans or members of the military
 

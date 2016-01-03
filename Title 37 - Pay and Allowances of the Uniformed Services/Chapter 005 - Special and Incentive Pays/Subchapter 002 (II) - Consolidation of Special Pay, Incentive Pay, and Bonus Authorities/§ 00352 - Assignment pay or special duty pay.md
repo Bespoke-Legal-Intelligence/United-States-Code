@@ -24,7 +24,7 @@ Maximum monthly amount.—The maximum monthly amount of assignment or special du
 
 Maximum lump sum amount.—The amount of a lump sum payment of assignment or special duty pay payable to a member may not exceed the amount equal to the product of—
 
-&emsp;&emsp;(A) the maximum monthly rate authorized under paragraph (2) at the time the memberenters into a written agreement under subsection (c); and
+&emsp;&emsp;(A) the maximum monthly rate authorized under paragraph (2) at the time the member enters into a written agreement under subsection (c); and
 
 &emsp;&emsp;(B) the number of continuous months in the period for which assignment or special duty pay will be paid pursuant to the agreement.
 
@@ -70,11 +70,13 @@ Repayment.—A member who receives assignment or special duty pay under this sec
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2015.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2016.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(7), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(8), Dec. 19, 2014, 128 Stat. 3401.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(7), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66,div. A, title VI, §614(7), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(8), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(8), Nov. 25, 2015, 129 Stat. 839.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 
 <b>2014</b>—Subsec. (g). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 
@@ -108,5 +110,5 @@ Reporting Requirements.—The Secretary shall submit to Congress an annual repor
 
 "(c)
 
-Duration of Authority.—The authority provided by subsection (a) to offer additional assignment pay or special duty pay under section 352 of title 37, United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the termsor duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section."
+Duration of Authority.—The authority provided by subsection (a) to offer additional assignment pay or special duty pay under section 352 of title 37, United States Code, expires on December 31, 2012. The expiration of such authority shall not affect the terms or duration of any agreement entered into before that date to provide additional assignment pay or special duty pay under such section."
 

@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;The net capital gain shall be treated—
 
-&emsp;&emsp;&emsp;(i) as allocable to passive loss limitation activities to the extent the net capitalgain does not exceed the net capital gain determined by only taking into account gains and losses from sales and exchanges of property used in connection with such activities, and
+&emsp;&emsp;&emsp;(i) as allocable to passive loss limitation activities to the extent the net capital gain does not exceed the net capital gain determined by only taking into accountgains and losses from sales and exchanges of property used in connection with such activities, and
 
 &emsp;&emsp;&emsp;(ii) as allocable to other activities to the extent such gain exceeds the amount allocated under clause (i).
 
@@ -144,11 +144,19 @@ If any person holds an interest in an electing large partnership other than as a
 
 (Added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1002; amended Pub. L. 109–58, title XIII, §1322(a)(3)(I), (J), Aug. 8, 2005, 119 Stat. 1012.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(b)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted "and" at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: "the credit allowable under section 29, and".
 
 Subsec. (d)(5). Pub. L. 109–58, §1322(a)(3)(J), substituted "and the foreign tax credit" for "the foreign tax credit, and the credit allowable under section 29".
+
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 
 #### Effective Date of 2005 Amendment
 

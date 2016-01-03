@@ -20,7 +20,7 @@ The Board shall—
 
 &emsp;(1) analyze and review actions the executive branch takes to protect the Nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties; and
 
-&emsp;(2) ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
+&emsp;(2) ensure that liberty concerns are appropriately considered in the development andimplementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
 
 #### (d) Functions
 
@@ -30,7 +30,7 @@ The Board shall—
 
 &emsp;&emsp;(A) review proposed legislation, regulations, and policies related to efforts to protect the Nation from terrorism, including the development and adoption of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
 
-&emsp;&emsp;(B) review the implementation of new and existing legislation, regulations, and policies related to efforts to protect the Nation fromterrorism, including the implementation of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
+&emsp;&emsp;(B) review the implementation of new and existing legislation, regulations, and policies related to efforts to protect the Nation from terrorism, including the implementation of information sharing guidelines under subsections (d) and (f) of section 485 of title 6;
 
 &emsp;&emsp;(C) advise the President and the departments, agencies, and elements of the executive branch to ensure that privacy and civil liberties are appropriately considered in the development and implementation of such legislation, regulations, policies, and guidelines; and
 
@@ -118,7 +118,7 @@ The Board shall—
 
 &emsp;If determined by the Board to be necessary to carry out its responsibilities under this section, the Board is authorized to—
 
-&emsp;&emsp;(A) have access from any department, agency, or element of the executive branch,or any Federal officer or employee of any such department, agency, or element, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
+&emsp;&emsp;(A) have access from any department, agency, or element of the executive branch, or any Federal officer or employee of any such department, agency, or element, to all relevant records, reports, audits, reviews, documents, papers, recommendations, or other relevant material, including classified information consistent with applicable law;
 
 &emsp;&emsp;(B) interview, take statements from, or take public testimony from personnel of any department, agency, or element of the executive branch, or any Federal officer or employee of any such department, agency, or element;
 
@@ -148,6 +148,10 @@ The Board shall—
 
 &emsp;Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department, agency, or element concerned without delay. The head of the department, agency, or element concerned shall ensure that the Board is given access to the information, assistance, material, or personnel the Board determines to be necessary to carry out its functions.
 
+#### (5) Access
+
+&emsp;Nothing in this section shall be construed to authorize the Board, or any agent thereof, to gain access to information regarding an activity covered by section 3093(a) of title 50.
+
 #### (h) Membership
 
 #### (1) Members
@@ -176,7 +180,7 @@ The Board shall—
 
 #### (5) Quorum and meetings
 
-&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
+&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Threemembers of the Board shall constitute a quorum.
 
 #### (i) Compensation and travel expenses
 
@@ -192,7 +196,7 @@ The Board shall—
 
 #### (2) Travel expenses
 
-&emsp;Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Government under section 5703(b) <sup>1</sup> of title 5, while awayfrom their homes or regular places of business in the performance of services for the Board.
+&emsp;Members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for persons employed intermittently by the Government under section 5703(b) <sup>1</sup> of title 5, while away from their homes or regular places of business in the performance of services for the Board.
 
 #### (j) Staff
 
@@ -240,7 +244,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 &emsp;(5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913.)
 
 #### References in Text
 
@@ -253,6 +257,8 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2
 Section was formerly set out as a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
 <b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
@@ -374,7 +380,7 @@ Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of 
 
 (u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
 
-A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of theBoard at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
 
 Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
 

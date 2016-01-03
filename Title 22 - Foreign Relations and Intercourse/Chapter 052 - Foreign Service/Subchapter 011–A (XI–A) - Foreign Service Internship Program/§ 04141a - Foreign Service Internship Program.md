@@ -10,7 +10,7 @@ The program shall introduce interns to the practice of diplomacy and the unique 
 
 #### (c) Eligibility to participate
 
-(1) Students enrolled full-time in institutions of higher education from groups which are underrepresented in the Foreign Service in terms of the cultural and ethnic diversity of the Foreign Service and for whom equal opportunity and affirmative action recruitment efforts have not been successful in achieving balanced representation in appointments to the Foreign Service shall be eligible to be interns in programs under this subchapter.
+(1) Students enrolled full-time in institutions of higher education from groups which areunderrepresented in the Foreign Service in terms of the cultural and ethnic diversity of the Foreign Service and for whom equal opportunity and affirmative action recruitment efforts have not been successful in achieving balanced representation in appointments to the Foreign Service shall be eligible to be interns in programs under this subchapter.
 
 (2) An intern shall have successfully completed not less than one academic year of study at an institution of higher education to be admitted to the program. In each succeeding year of participation an intern shall have completed an additional year of undergraduate or graduate study and shall maintain an exemplary record of academic achievement.
 
@@ -46,7 +46,7 @@ The Secretary of State shall study the feasibility of administering the Foreign 
 
 #### Codification
 
-February 16, 1990, referred to in subsec. (h), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment ofPub. L. 101–246, which enacted this subchapter, to reflect the probable intent of Congress.
+February 16, 1990, referred to in subsec. (h), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 101–246, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
 

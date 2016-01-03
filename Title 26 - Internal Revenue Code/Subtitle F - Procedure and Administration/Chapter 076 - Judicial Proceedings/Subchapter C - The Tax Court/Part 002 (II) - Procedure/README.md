@@ -22,10 +22,13 @@
 | [7463\.](%C2%A7%2007463%20-%20Disputes%20involving%20%2450%2C000%20or%20less.md) | Disputes involving $50,000 or less. |
 | [7464\.](%C2%A7%2007464%20-%20Intervention%20by%20trustee%20of%20debtor%27s%20estate.md) | Intervention by trustee of debtor's estate. |
 | [7465\.](%C2%A7%2007465%20-%20Provisions%20of%20special%20application%20to%20transferees.md) | Provisions of special application to transferees. |
+| [7466\.](%C2%A7%2007466%20-%20Judicial%20conduct%20and%20disability%20procedures.md) | Judicial conduct and disability procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–113, div. Q, title IV, §431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
 
 <b>1998</b>—Pub. L. 105–206, title III, §3103(b)(2), July 22, 1998, 112 Stat. 731, substituted "$50,000" for "$10,000" in item 7463.
 
@@ -61,3 +64,4 @@
 - [&sect; 07463 - Disputes involving $50,000 or less](%C2%A7%2007463%20-%20Disputes%20involving%20%2450%2C000%20or%20less.md)
 - [&sect; 07464 - Intervention by trustee of debtor's estate](%C2%A7%2007464%20-%20Intervention%20by%20trustee%20of%20debtor%27s%20estate.md)
 - [&sect; 07465 - Provisions of special application to transferees](%C2%A7%2007465%20-%20Provisions%20of%20special%20application%20to%20transferees.md)
+- [&sect; 07466 - Judicial conduct and disability procedures](%C2%A7%2007466%20-%20Judicial%20conduct%20and%20disability%20procedures.md)

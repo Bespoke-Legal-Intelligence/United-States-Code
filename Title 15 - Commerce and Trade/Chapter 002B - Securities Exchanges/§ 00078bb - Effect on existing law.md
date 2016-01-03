@@ -22,7 +22,7 @@
 
 #### (4) Other State provisions
 
-&emsp;No provision of State law regarding the offer, sale, or distribution of securities shallapply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
+&emsp;No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security-based swap or a security futures product, except that this paragraph may not be construed as limiting any State antifraud law of general applicability. A security-based swap may not be regulated as an insurance contract under any provision of State law.
 
 #### (b) Modification of disciplinary procedures
 
@@ -134,7 +134,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (C) Exception for derivative actions
 
-&emsp;&emsp;Notwithstanding subparagraph (B), the term "covered class action" does not include an exclusively derivative action brought byone or more shareholders on behalf of a corporation.
+&emsp;&emsp;Notwithstanding subparagraph (B), the term "covered class action" does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
 
 #### (D) Counting of certain class members
 

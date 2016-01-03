@@ -32,7 +32,7 @@ Congress finds the following:
 
 &emsp;(6) Between 1991 and 1999, the number of children with a parent in a Federal or State correctional facility increased by more than 100 percent, from approximately 900,000 to approximately 2,000,000. According to the Bureau of Prisons, there is evidence to suggest that inmates who are connected to their children and families are more likely to avoid negative incidents and have reduced sentences.
 
-&emsp;(7) Released prisoners cite family support as the most important factor in helping them stay out of prison. Research suggests that families are an often underutilized resource in the reentry process.
+&emsp;(7) Released prisoners cite family support as the most important factor in helping themstay out of prison. Research suggests that families are an often underutilized resource in the reentry process.
 
 &emsp;(8) Approximately 100,000 juveniles (ages 17 years and under) leave juvenile correctional facilities, State prison, or Federal prison each year. Juveniles released from secure confinement still have their likely prime crime years ahead of them. Juveniles released from secure confinement have a recidivism rate ranging from 55 to 75 percent. The chances that young people will successfully transition into society improve with effective reentry and aftercare programs.
 
@@ -62,7 +62,7 @@ Congress finds the following:
 
 #### References in Text
 
-The Act and this Act, referred to in subsecs. (a) and (b)(5), are Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657,known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+The Act and this Act, referred to in subsecs. (a) and (b)(5), are Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 

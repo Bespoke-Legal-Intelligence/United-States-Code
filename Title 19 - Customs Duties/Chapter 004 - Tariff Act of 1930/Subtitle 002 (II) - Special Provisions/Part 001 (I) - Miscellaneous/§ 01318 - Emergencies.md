@@ -10,7 +10,7 @@
 
 &emsp;(C) Take any other action that may be necessary to respond directly to the national emergency or specific threat.
 
-(2) Notwithstanding any other provision of law, the Commissioner of Customs, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
+(2) Notwithstanding any other provision of law, the Commissioner of Customs, when necessary to respond to a specific threat to humanlife or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
 
 (3) The Secretary of the Treasury or the Commissioner of Customs, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 

@@ -10,7 +10,7 @@ Authority.—Subject to the provisions of paragraph (2) of this subsection, a mo
 
 &emsp;(2)
 
-Nonpreferential; nonpredatory.—Any rate established under this subsection must be available on a nonpreferential basis to shippers and must not result in charges to shippers which are predatory.
+Nonpreferential; nonpredatory.—Any rate established under this subsection must beavailable on a nonpreferential basis to shippers and must not result in charges to shippers which are predatory.
 
 (b)
 

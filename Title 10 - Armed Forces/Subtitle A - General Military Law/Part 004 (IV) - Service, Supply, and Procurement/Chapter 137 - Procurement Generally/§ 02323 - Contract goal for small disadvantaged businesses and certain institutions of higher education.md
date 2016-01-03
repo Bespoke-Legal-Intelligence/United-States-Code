@@ -20,7 +20,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 (b)
 
-Amount.—(1) With respect to the Department of Defense, the requirements of subsection (a) for any fiscal year apply to the combined total of the following amounts:
+Amount.—(1) With respect to the Department of Defense, the requirements of subsection\(a) for any fiscal year apply to the combined total of the following amounts:
 
 &emsp;(A) Funds obligated for contracts entered into with the Department of Defense for such fiscal year for procurement.
 

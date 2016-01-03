@@ -6,7 +6,7 @@ An individual who does not itemize his deductions and who is not described in se
 
 #### (b) Regulations
 
-The Secretary shall prescribe regulations for carrying out this section, and such regulationsmay provide for the application of the rules of this section—
+The Secretary shall prescribe regulations for carrying out this section, and such regulations may provide for the application of the rules of this section—
 
 &emsp;(1) to cases where the gross income includes items other than those enumerated by subsection (a),
 

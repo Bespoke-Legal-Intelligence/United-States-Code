@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title;
 
-&emsp;&emsp;(G) paying salaries and benefits for personnel, including individuals employed by thegrant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+&emsp;&emsp;(G) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
 
 &emsp;&emsp;(H) any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
 

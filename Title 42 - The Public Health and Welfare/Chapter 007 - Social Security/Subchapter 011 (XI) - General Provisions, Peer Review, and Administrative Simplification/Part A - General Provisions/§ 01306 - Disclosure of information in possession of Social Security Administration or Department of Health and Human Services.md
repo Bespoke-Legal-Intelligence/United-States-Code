@@ -2,7 +2,7 @@
 
 #### (a) Disclosure prohibited; exceptions
 
-(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of theInternal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
+(1) No disclosure of any return or portion of a return (including information returns and other written statements) filed with the Commissioner of Internal Revenue under title VIII of the Social Security Act or under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code \[of 1939\], or under regulations made under authority thereof, which has been transmitted to the head of the applicable agency by the Commissioner of Internal Revenue, or of any file, record, report, or other paper, or any information, obtained at any time by the head of the applicable agency or by any officer or employee of the applicable agency in the course of discharging the duties of the head of the applicable agency under this chapter, and no disclosure of any such file, record, report, or other paper, or information, obtained at any time by any person from the head of the applicable agency or from any officer or employee of the applicable agency, shall be made except as the head of the applicable agency may by regulations prescribe and except as otherwise provided by Federal law. Any person who shall violate any provision of this section shall be deemed guilty of a felony and, upon conviction thereof, shall be punished by a fine not exceeding $10,000 for each occurrence of a violation, or by imprisonment not exceeding 5 years, or both.
 
 (2) For purposes of this subsection and subsection (b) of this section, the term "applicable agency" means—
 
@@ -36,7 +36,7 @@ Notwithstanding any other provision of this section the Secretary shall make ava
 
 &emsp;(2) comparative evaluations of the performance of such contractors, including comparisons of either overall performance or of any particular aspect of contractor operation; and
 
-&emsp;(3) program validation survey reports and other formal evaluations of the performance of providers of services, including the reports of follow-up reviews, except that such reportsshall not identify individual patients, individual health care practitioners, or other individuals.
+&emsp;(3) program validation survey reports and other formal evaluations of the performance of providers of services, including the reports of follow-up reviews, except that such reports shall not identify individual patients, individual health care practitioners, or other individuals.
 
 #### (f) Opportunity for review
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 89–97, §340, added subsec. (c).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–840 amended subsec. (b) generally, authorizing compliance with requests for services if the agency, person, or organization making the request agrees to pay for the services.
 
-<b>1950</b>—Act Aug. 28, 1950, amended section generally, designating existing provisions as subsec. (a), substituting "under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code of 1939" for "the Federal Insurance Contributions Act,"reflecting the transfer of functions from the Social Security Board to the Federal Security Administrator and the Federal Security Agency, and adding subsec. (b).
+<b>1950</b>—Act Aug. 28, 1950, amended section generally, designating existing provisions as subsec. (a), substituting "under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code of 1939" for "the Federal Insurance Contributions Act," reflecting the transfer of functions from the Social Security Board to the Federal Security Administrator and the Federal Security Agency, and adding subsec. (b).
 
 #### Effective Date of 1994 Amendment
 

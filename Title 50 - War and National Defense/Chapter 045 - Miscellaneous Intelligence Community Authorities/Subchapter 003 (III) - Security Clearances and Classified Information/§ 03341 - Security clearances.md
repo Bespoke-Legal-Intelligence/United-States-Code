@@ -70,7 +70,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 &emsp;(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
 
-&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
+&emsp;(5) ensuring, to the maximum extent practicable, that sufficient resources are availablein each agency to achieve clearance and investigative program goals;
 
 &emsp;(6) reviewing and coordinating the development of tools and techniques for enhancing the conduct of investigations and granting of clearances; and
 
@@ -322,7 +322,7 @@ Pub. L. 113–126, title VI, §602(a)(2), July 7, 2014, 128 Stat. 1416, provided
 
 #### Existing Rights Preserved
 
-Pub. L. 113–126, title VI, §602(d), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule."
+Pub. L. 113–126, title VI, §602(d), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notesunder this section\] or the amendments made by this section shall be construed to preempt, preclude, or otherwise prevent an individual from exercising rights, remedies, or avenues of redress currently provided under any other law, regulation, or rule."
 
 #### Strategy for Security Clearance Reciprocity
 

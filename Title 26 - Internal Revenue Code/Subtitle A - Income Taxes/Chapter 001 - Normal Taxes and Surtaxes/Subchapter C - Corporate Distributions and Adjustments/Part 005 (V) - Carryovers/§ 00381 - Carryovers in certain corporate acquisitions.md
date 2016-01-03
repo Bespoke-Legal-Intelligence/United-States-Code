@@ -138,7 +138,7 @@ The items referred to in subsection (a) are:
 
 #### (23) Deficiency dividend of regulated investment company or real estate investment trust
 
-&emsp;If the acquiring corporation pays a deficiency dividend (as defined in section 860(f)) with respect to the distributor or transferorcorporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 860.
+&emsp;If the acquiring corporation pays a deficiency dividend (as defined in section 860(f)) with respect to the distributor or transferor corporation, such distributor or transferor corporation shall, with respect to such payments, be entitled to the deficiency dividend deduction provided in section 860.
 
 #### (24) Credit under section 38
 
@@ -146,7 +146,7 @@ The items referred to in subsection (a) are:
 
 #### (25) Credit under section 53
 
-&emsp;The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
+&emsp;The acquiring corporation shall take into account (to the extent proper to carry out thepurposes of this section and section 53, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of section 53 in respect of the distributor or transferor corporation.
 
 #### (26) Enterprise zone provisions
 
@@ -156,7 +156,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;<b>For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388-535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987,with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
+Amendment by Pub. L. 100–203 applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for nondealers and coordination with Tax Reform Act of 1986, see section 10202(e)(1), (3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -442,9 +442,9 @@ Regulations.—For requirement that the Secretary of the Treasury or his delegat
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

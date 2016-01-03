@@ -2,7 +2,7 @@
 
 (a)
 
-Providing Information and Notice.—The Secretary of Transportation may require thateach manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
+Providing Information and Notice.—The Secretary of Transportation may require that each manufacturer of a motor vehicle or motor vehicle equipment provide technical information related to performance and safety required to carry out this chapter. The Secretary may require the manufacturer to give the following notice of that information when the Secretary decides it is necessary:
 
 &emsp;(1) to each prospective purchaser of a vehicle or equipment before the first sale other than for resale at each location at which the vehicle or equipment is offered for sale by a person having a legal relationship with the manufacturer, in a way the Secretary decides is appropriate.
 
@@ -16,25 +16,27 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 (B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
-(3)(A) The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
+(3)
 
-&emsp;(i) the extent to which distributors and dealers have complied with the procedures;
+Rulemaking.—
 
-&emsp;(ii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires; and
+&emsp;(A)
 
-&emsp;(iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
+In general.—The Secretary shall initiate a rulemaking to require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to maintain records of—
 
-(B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+&emsp;&emsp;(i) the name and address of tire purchasers and lessors;
 
-&emsp;(i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
+&emsp;&emsp;(ii) information identifying the tire that was purchased or leased; and
 
-&emsp;(ii) the extent to which distributors and dealers have complied with the procedures in paragraph (2) of this subsection; and
+&emsp;&emsp;(iii) any additional records the Secretary considers appropriate.
 
-&emsp;(iii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires.
+&emsp;(B)
 
-(C) A manufacturer of tires shall reimburse distributors and dealers of that manufacturer's tires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
+Electronic transmission.—The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit therecords described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
 
-(D) After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
+&emsp;(C)
+
+Satisfaction of requirements.—A regulation promulgated under subparagraph (A) may be considered to satisfy the requirements of paragraph (2)(B).
 
 (c)
 
@@ -56,7 +58,7 @@ Test results.—As the Secretary develops a test under paragraph (1)(A), the Sec
 
 Motor vehicles covered.—This subsection applies to motor vehicles, including passenger cars, multipurpose passenger vehicles, and trucks, with a gross vehicle weight rating of 10,000 pounds or less. A motor vehicle designed to provide temporary residential accommodations is not covered.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 948; Pub. L. 106–414, §12, Nov. 1, 2000, 114 Stat. 1806.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 948; Pub. L. 106–414, §12, Nov. 1, 2000, 114 Stat. 1806; Pub. L. 114–94, div. B, title XXIV, §24333, Dec. 4, 2015, 129 Stat. 1715.)
 
 Historical and Revision Notes
 
@@ -112,7 +114,21 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(3). Pub. L. 114–94 amended par. (3) generally. Prior to amendment, par. (3) related to requirement for Secretary to evaluate record maintenance procedures under par. (2) and submit reports to Congress.
+
 <b>2000</b>—Subsec. (c). Pub. L. 106–414 added subsec. (c).
+
+#### Retention of Safety Records by Manufacturers
+
+Pub. L. 114–94, div. B, title XXIV, §24403, Dec. 4, 2015, 129 Stat. 1720, provided that:
+
+"(a)
+
+Rule.—Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation shall issue a final rule pursuant to section 30117 of title 49, United States Code, requiring each manufacturer of motor vehicles or motor vehicle equipment to retain all motor vehicle safety records required to be maintained by manufacturers under section 576.6 of title 49, Code of Federal Regulations, for a period of not less than 10 calendar years from the date on which they were generated or acquired by the manufacturer.
+
+"(b)
+
+Application.—The rule required by subsection (a) shall apply with respect to any record described in such subsection that is in the possession of a manufacturer on the effective date of such rule."
 
 #### 15-
 

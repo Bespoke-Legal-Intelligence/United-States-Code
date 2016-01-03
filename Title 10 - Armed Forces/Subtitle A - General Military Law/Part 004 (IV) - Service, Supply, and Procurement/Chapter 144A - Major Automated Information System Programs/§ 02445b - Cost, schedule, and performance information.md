@@ -42,11 +42,17 @@ Baseline.—(1) For purposes of this chapter, the initial submittal to Congress 
 
 (d)
 
+Time-certain Development.—If an adjustment or revision under subsection (c) for a major automated information system that is not a national security system provides for a period in excess of five years from the time of program initiation to the time of a full deployment decision, the documents submitted under subsection (a) shall include a written determination by the senior Department of Defense official responsible for the program justifying the need for the longer period.
+
+(e)
+
 Elements Regarding Other Major Information Technology Investment Programs.—With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 
-(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, §805(b), Jan. 7, 2011, 124 Stat. 4259; Pub. L. 113–66, div. A, title X, §1092(d)(1), Dec. 26, 2013, 127 Stat. 877.)
+(Added Pub. L. 109–364, div. A, title VIII, §816(a)(1), Oct. 17, 2006, 120 Stat. 2323; amended Pub. L. 110–417, \[div. A\], title VIII, §812(b), Oct. 14, 2008, 122 Stat. 4525; Pub. L. 111–84, div. A, title VIII, §841(a), Oct. 28, 2009, 123 Stat. 2418; Pub. L. 111–383, div. A, title VIII, §805(b), Jan. 7, 2011, 124 Stat. 4259; Pub. L. 113–66, div. A, title X, §1092(d)(1), Dec. 26, 2013, 127 Stat. 877; Pub. L. 114–92, div. A, title VIII, §891(a), Nov. 25, 2015, 129 Stat. 951.)
 
 #### Amendments
+
+<b>2015</b>—Subsecs. (d), (e). Pub. L. 114–92 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2013</b>—Subsec. (b)(3). Pub. L. 113–66 substituted "total acquisition costs" for "development costs".
 

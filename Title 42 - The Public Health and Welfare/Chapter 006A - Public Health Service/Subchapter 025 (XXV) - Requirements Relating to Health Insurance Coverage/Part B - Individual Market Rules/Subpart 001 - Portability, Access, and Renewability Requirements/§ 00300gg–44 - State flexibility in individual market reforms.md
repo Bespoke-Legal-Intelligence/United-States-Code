@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) under which such coverage does not impose any preexisting condition exclusion with respect to such coverage;
 
-&emsp;&emsp;(C) under which such choice of coverage includes at least one policy form of coverage that is comparable to comprehensive health insurance coverage offered in the individual market in such State or that is comparable to a standard option of coverage available under the group or individual health insurance laws of such State; and
+&emsp;&emsp;(C) under which such choice of coverage includes at least one policy form of coverage that is comparable to comprehensive health insurance coverage offered in the individual market in such State or that is comparable to a standard option of coverage availableunder the group or individual health insurance laws of such State; and
 
 &emsp;&emsp;(D) in a State which is implementing—
 

@@ -10,7 +10,7 @@ The States referred to in subsection (a) of this section are Connecticut, Delawa
 
 #### (c) Cooperation of State
 
-The Secretary may conduct the study required in subsection (a) of this section in a State only if the State agrees to cooperate with the Secretary in the conduct of the study, including providing information from any registry operated by the State pursuant to section 280e(a) of this title.
+The Secretary may conduct the study required in subsection (a) of this section in a State only if the State agrees to cooperate with the Secretary in the conduct of the study, includingproviding information from any registry operated by the State pursuant to section 280e(a) of this title.
 
 #### (d) Planning, commencement, and duration
 

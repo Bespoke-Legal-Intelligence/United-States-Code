@@ -32,7 +32,7 @@ If—
 
 #### (3) Gain recognized
 
-&emsp;Except as provided in this section, the gain determined under this subsection resulting from a reacquisition to which subsection (a) applies shall be recognized, notwithstanding any other provision of this subtitle.
+&emsp;Except as provided in this section, the gain determined under this subsection resulting from a reacquisition to which subsection (a)applies shall be recognized, notwithstanding any other provision of this subtitle.
 
 #### (c) Basis of reacquired real property
 

@@ -32,7 +32,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1938 Amendment
 
-Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendments made by subsection (a) ofthis section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers."
+Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply in the case of grain imported prior to the effective date of this act \[see note set out under section 1401 of this title\] which, on such date, has not become abandoned to the Government under section 491 or 559 of the Tariff Act of 1930 \[section 1491 or 1559 of this title\], and which has remained in the custody of customs officers."
 
 #### Appropriations
 

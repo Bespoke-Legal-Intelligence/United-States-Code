@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States inthe same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
+If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
 
 #### (b) Application to others
 
@@ -20,7 +20,7 @@ Any vessel that is used in violation of this title,<sup>1</sup> or of any regula
 
 #### (1) In general
 
-&emsp;If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 60105 of title 46.
+&emsp;If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that theowner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by section 60105 of title 46.
 
 #### (2) Clearance upon filing of bond or other surety
 

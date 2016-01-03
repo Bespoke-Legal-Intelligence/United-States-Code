@@ -42,7 +42,7 @@ Payments of Fines and Penalties.—None of the funds appropriated to the Environ
 
 (g)
 
-Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(1) Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
+Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(1) Except as provided in subsection (h), the solesource of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
 
 (2) In this subsection, the term "environmental remedy" has the meaning given the term "remedy" in section 101 of CERCLA (42 U.S.C. 9601).
 
@@ -148,7 +148,7 @@ Pub. L. 99–499, title II, §211(c), Oct. 17, 1986, 100 Stat. 1726, provided th
 
 #### Effect of Amendment by Pub. L. 108–136 on Existing Agreements
 
-Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: "An agreement in effecton September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: "An agreement in effect on September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) \[amending this section\]."
 
 #### References to Defense Environmental Restoration Account
 

@@ -27,6 +27,7 @@
 | [60123\.](Subchapter%20003%20%28III%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2060123%20-%20Administrative%20authority%20of%20Secretary.md) | Administrative authority of Secretary. |
 | [60124\.](Subchapter%20003%20%28III%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2060124%20-%20Regulatory%20authority%20of%20Secretary.md) | Regulatory authority of Secretary. |
 | [60125\.](Subchapter%20003%20%28III%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2060125%20-%20Agency%20activities.md) | Agency activities. |
+| [60126\.](Subchapter%20003%20%28III%29%20-%20Licensing%20of%20Private%20Remote%20Sensing%20Space%20Systems/%C2%A7%2060126%20-%20Annual%20reports.md) | Annual reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,6 +65,10 @@
 | [60162\.](Subchapter%20006%20%28VI%29%20-%20Prohibition%20of%20Commercialization%20of%20Weather%20Satellites/%C2%A7%2060162%20-%20Future%20considerations.md) | Future considerations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–90, title II, §201(b), Nov. 25, 2015, 129 Stat. 719, added item 60126.
 
 
 ---

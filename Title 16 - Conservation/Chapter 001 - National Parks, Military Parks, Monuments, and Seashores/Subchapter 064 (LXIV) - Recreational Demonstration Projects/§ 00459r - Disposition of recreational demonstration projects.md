@@ -10,7 +10,7 @@ For delegation to Secretary of the Interior of authority vested in President by 
 
 #### Silver Creek Project
 
-Act July 30, 1947, ch. 351, 61 Stat. 519, provided: "That, in order to carry out the purposes of the act of June 6, 1942 \[56 Stat. 326; sections 459r to 459t of this title\], relating to the disposition of recreational demonstrationareas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942:
+Act July 30, 1947, ch. 351, 61 Stat. 519, provided: "That, in order to carry out the purposes of the act of June 6, 1942 \[56 Stat. 326; sections 459r to 459t of this title\], relating to the disposition of recreational demonstration areas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942:
 
 #### "willamette meridian
 

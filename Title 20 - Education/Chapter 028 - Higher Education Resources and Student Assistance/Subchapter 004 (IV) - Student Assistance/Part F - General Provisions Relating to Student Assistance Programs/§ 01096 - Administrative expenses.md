@@ -14,7 +14,7 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 #### Prior Provisions
 
-A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1096, Pub. L. 89–329, title IV, §489, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1453; amended Pub. L. 97–35, title V, §537(a)(2), Aug. 13, 1981, 95 Stat. 456, related to administrative expenses, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

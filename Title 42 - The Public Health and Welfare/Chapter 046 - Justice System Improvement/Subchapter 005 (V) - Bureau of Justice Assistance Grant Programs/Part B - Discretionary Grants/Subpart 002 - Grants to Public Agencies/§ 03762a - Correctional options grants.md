@@ -4,7 +4,7 @@
 
 The Director, in consultation with the Director of the National Institute of Corrections, may make—
 
-&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the UnitedStates, to public agencies for correctional options (including the cost of construction) that provide alternatives to traditional modes of incarceration and offender release programs—
+&emsp;(1) 4 grants in each fiscal year, in various geographical areas throughout the United States, to public agencies for correctional options (including the cost of construction) that provide alternatives to traditional modes of incarceration and offender release programs—
 
 &emsp;&emsp;(A) to provide more appropriate intervention for youthful offenders who are not career criminals, but who, without such intervention, are likely to become career criminals or more serious offenders;
 

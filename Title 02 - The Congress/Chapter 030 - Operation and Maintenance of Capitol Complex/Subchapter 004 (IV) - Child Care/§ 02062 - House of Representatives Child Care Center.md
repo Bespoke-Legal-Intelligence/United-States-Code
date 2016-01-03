@@ -40,7 +40,7 @@ In carrying out subsection (a), the Chief Administrative Officer is authorizedâ€
 
 #### (d) Salaries and expenses; funding limits
 
-(1) There is established in the Treasury of the United States a revolving fund for the House ofRepresentatives to be known as the "House Child Care Center Revolving Fund" (hereafter in this section referred to as the "Fund"), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
+(1) There is established in the Treasury of the United States a revolving fund for the House of Representatives to be known as the "House Child Care Center Revolving Fund" (hereafter in this section referred to as the "Fund"), consisting of the amounts received under subsection (c) and any other funds deposited by the Chief Administrative Officer of the House of Representatives from amounts received by the House of Representatives with respect to the operation of the center. Except as provided in paragraphs (2) and (3), the Fund shall be the exclusive source for all salaries and expenses for activities carried out under this section.
 
 (2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
@@ -48,7 +48,7 @@ In carrying out subsection (a), the Chief Administrative Officer is authorizedâ€
 
 &emsp;(A) The payment of the salary of the director of the center.
 
-&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with theprovision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
 #### (e) Fund as category of allowances and expenses
 

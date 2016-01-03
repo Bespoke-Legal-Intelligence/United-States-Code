@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Sept. 3, 1954, ch. 1257, §209 (as applicable to National Guard), 68 Stat. 1152.
 
-Reference to the exception in section 307(a) is omitted as unnecessary because a suspension of section 307(e) of this title, or of section 8365 or 8366 of Title 10, will in effect suspend that exception so far as it refers to the suspended section. A reference to the remainder of section 307(a) is omitted as unnecessary because the general rule that it states exists independently of that part of the source law for section 307(a) that is suspendible under this section. A reference to section 307(f) is omitted as unnecessary because a suspension of section 307(e) will in effect suspend section 307(f) so far as it applies to section 307(e). 50:1199 (2d sentence) is omitted as inapplicable to the National Guard.
+Reference to the exception in section 307(a) is omitted as unnecessary because a suspension of section 307(e) of this title, or of section 8365 or 8366 of Title 10, will in effect suspend that exception so far as it refers to the suspended section. A reference to the remainder of section 307(a) is omitted as unnecessary because thegeneral rule that it states exists independently of that part of the source law for section 307(a) that is suspendible under this section. A reference to section 307(f) is omitted as unnecessary because a suspension of section 307(e) will in effect suspend section 307(f) so far as it applies to section 307(e). 50:1199 (2d sentence) is omitted as inapplicable to the National Guard.
 
 #### References in Text
 

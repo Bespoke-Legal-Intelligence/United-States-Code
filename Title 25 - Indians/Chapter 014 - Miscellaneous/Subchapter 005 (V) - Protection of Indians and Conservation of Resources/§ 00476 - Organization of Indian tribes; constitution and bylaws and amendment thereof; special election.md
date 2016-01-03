@@ -10,11 +10,11 @@ Any Indian tribe shall have the right to organize for its common welfare, and ma
 
 #### (b) Revocation
 
-Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
+Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) for the adoption of a constitution or bylaws.
 
 #### (c) Election procedure; technical assistance; review of proposals; notification of contrary-to-applicable law findings
 
-(1) The Secretary shall call and hold an election as required by subsection (a) of this section—
+(1) The Secretary shall call and hold an election as required by subsection (a)—
 
 &emsp;(A) within one hundred and eighty days after the receipt of a tribal request for an election to ratify a proposed constitution and bylaws, or to revoke such constitution and bylaws; or
 
@@ -30,7 +30,7 @@ Any constitution or bylaws ratified and approved by the Secretary shall be revoc
 
 #### (d) Approval or disapproval by Secretary; enforcement
 
-(1) If an election called under subsection (a) of this section results in the adoption by the tribe of the proposed constitution and bylaws or amendments thereto, the Secretary shall approve the constitution and bylaws or amendments thereto within forty-five days after the election unless the Secretary finds that the proposed constitution and bylaws or any amendments are contrary to applicable laws.
+(1) If an election called under subsection (a) results in the adoption by the tribe of the proposed constitution and bylaws or amendments thereto, the Secretary shall approve the constitution and bylaws or amendments thereto within forty-five days after the election unless the Secretary finds that the proposed constitution and bylaws or any amendments are contrary to applicable laws.
 
 (2) If the Secretary does not approve or disapprove the constitution and bylaws or amendments within the forty-five days, the Secretary's approval shall be considered as given. Actions to enforce the provisions of this section may be brought in the appropriate Federal district court.
 
@@ -44,7 +44,7 @@ Departments or agencies of the United States shall not promulgate any regulation
 
 #### (g) Privileges and immunities of Indian tribes; existing regulations
 
-Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue oftheir status as Indian tribes shall have no force or effect.
+Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue of their status as Indian tribes shall have no force or effect.
 
 #### (h) Tribal sovereignty
 

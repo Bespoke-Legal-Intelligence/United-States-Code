@@ -8,7 +8,7 @@ The Secretary is authorized, independently and in cooperation with other branche
 
 Whoever shall falsely make, issue, alter, forge, or counterfeit, or cause or procure to be falsely made, issued, altered, forged, or counterfeited, or willingly aid, cause, procure or assist in, or be a party to the false making, issuing, altering, forging, or counterfeiting of any certificate of inspection issued under authority of this chapter, sections 491, 493 to 497 of this title, or any Act making appropriations for the Department of Agriculture; or shall utter or publish as true or cause to be uttered or published as true any such false, forged, altered, or counterfeited certificate, for a fraudulent purpose, shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than $500 or by imprisonment for a period of not more than one year, or both, at the discretion of the court.
 
-(June 10, 1930, ch. 436, §14, 46 Stat. 537; Apr. 13, 1934, ch. 120, §15, 48 Stat. 588; Aug. 20, 1937, ch. 719, §12, 50 Stat. 730; Pub. L. 102–237, title X, §1011(7), Dec. 13, 1991, 105 Stat. 1898.)
+(June 10, 1930, ch. 436, §14, 46 Stat. 537; Apr. 13, 1934, ch. 120, §15, 48 Stat. 588; Aug. 20, 1937, ch.719, §12, 50 Stat. 730; Pub. L. 102–237, title X, §1011(7), Dec. 13, 1991, 105 Stat. 1898.)
 
 #### References in Text
 
@@ -28,5 +28,5 @@ Section was formerly classified to section 564 of this title.
 
 #### Potato Inspection
 
-Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec.21, 1995, 109 Stat. 710, provided that: "The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States."
+Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: "The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States."
 

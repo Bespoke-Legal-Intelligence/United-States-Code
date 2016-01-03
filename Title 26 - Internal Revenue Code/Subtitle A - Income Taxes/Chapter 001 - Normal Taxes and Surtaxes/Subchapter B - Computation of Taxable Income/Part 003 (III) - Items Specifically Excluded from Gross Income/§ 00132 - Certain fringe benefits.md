@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
+&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinarycourse of the line of business of the employer in which the employee is peforming <sup>1</sup> services.
 
 #### (d) Working condition fringe defined
 
@@ -110,13 +110,11 @@ For purposes of this section—
 
 &emsp;The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
 
-&emsp;&emsp;(A) $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
+&emsp;&emsp;(A) $175 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1),
 
 &emsp;&emsp;(B) $175 per month in the case of qualified parking, and
 
 &emsp;&emsp;(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
-
-> &emsp;In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2015, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
 
 #### (3) Cash reimbursements
 
@@ -190,7 +188,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1998" for "calendar year 1992".
 
-> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall beapplied by substituting "calendar year 2001" for "calendar year 1998" for purposes of adjusting the dollar amount contained in paragraph (2)(A).
+> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall be applied by substituting "calendar year 2001" for "calendar year 1998" for purposes of adjusting the dollar amount contained in paragraph (2)(A).
 
 #### (B) Rounding
 
@@ -340,7 +338,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (8) Application of section to otherwise taxable educational or training benefits
 
-&emsp;Amounts paid or expenses incurred by the employer for education or training provided to the employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
+&emsp;Amounts paid or expenses incurred by the employer for education or training provided tothe employee which are not excludable from gross income under section 127 shall be excluded from gross income under this section if (and only if) such amounts or expenses are a working condition fringe.
 
 #### (k) Customers not to include employees
 
@@ -380,15 +378,13 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title II, §203(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §103(a), Dec. 19, 2014, 128 Stat. 4013.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–343, div. B, title II, §211(a)–(d), Oct. 3, 2008, 122 Stat. 3840, 3841; Pub. L. 111–5, div. B, title I, §1151(a), Feb. 17, 2009, 123 Stat. 333; Pub. L. 111–92, §14(a), Nov. 6, 2009, 123 Stat. 2995; Pub. L. 111–312, title VII, §727(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title II, §203(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §103(a), Dec. 19, 2014, 128 Stat. 4013; Pub. L. 114–113, div. Q, title I, §105(a), Dec. 18, 2015, 129 Stat. 3046.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### References in Text
-
-The date of the enactment of this sentence, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (n)(1), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
@@ -397,6 +393,10 @@ The date of the enactment of the American Recovery and Reinvestment Tax Act of 2
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (f)(2). Pub. L. 114–113, §105(a)(2), struck out concluding provisions which read as follows: "In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2015, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B)."
+
+Subsec. (f)(2)(A). Pub. L. 114–113, §105(a)(1), substituted "$175" for "$100".
 
 <b>2014</b>—Subsec. (f)(2). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014" in concluding provisions.
 
@@ -513,6 +513,10 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted "subsection (c)(2)" for "subsection (c)(2)(B)".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §105(b), Dec. 18, 2015, 129 Stat. 3046, provided that: "The amendments made by this section \[amending this section\] shall apply to months after December 31, 2014."
 
 #### Effective Date of 2014 Amendment
 
@@ -682,7 +686,7 @@ Pub. L. 98–369, div. A, title V, §531(f), July 18, 1984, 98 Stat. 886, as ame
 
 &emsp;"(2) the primary business of the affiliated group is the operation of retail department stores,
 
-> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member."
+> then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employershall be treated as engaged in the same line of business as such other member."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "performing".</i>
 

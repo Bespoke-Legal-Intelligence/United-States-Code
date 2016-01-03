@@ -12,6 +12,7 @@
 | [14506\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014506%20-%20Regional%20skills%20partnerships.md) | Regional skills partnerships. |
 | [14507\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014507%20-%20Supplements%20to%20federal%20grant%20programs.md) | Supplements to federal grant programs. |
 | [14508\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014508%20-%20Economic%20and%20energy%20development%20initiative.md) | Economic and energy development initiative. |
+| [14509\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014509%20-%20High-speed%20broadband%20deployment%20initiative.md) | High-speed broadband deployment initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title I, §1436(a)(2), Dec. 4, 2015, 129 Stat. 1431, added item 14509.
 
 <b>2008</b>—Pub. L. 110–371, §§3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 "Distressed and economically strong counties".
 

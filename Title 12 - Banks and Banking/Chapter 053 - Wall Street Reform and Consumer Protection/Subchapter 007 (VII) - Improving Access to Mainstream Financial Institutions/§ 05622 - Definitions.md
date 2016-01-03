@@ -4,7 +4,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (1) Account
 
-&emsp;The term "account" means an agreement between an individual and an eligible entity under which the individual obtains from or through the entity 1 or more banking productsand services, and includes a deposit account, a savings account (including a money market savings account), an account for a closed-end loan, and other products or services, as the Secretary deems appropriate.
+&emsp;The term "account" means an agreement between an individual and an eligible entity under which the individual obtains from or through the entity 1 or more banking products and services, and includes a deposit account, a savings account (including a money market savings account), an account for a closed-end loan, and other products or services, as the Secretary deems appropriate.
 
 #### (2) Community development financial institution
 

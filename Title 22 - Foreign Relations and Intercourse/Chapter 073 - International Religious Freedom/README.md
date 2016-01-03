@@ -30,6 +30,7 @@
 | [6432a.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006432a%20-%20Powers%20of%20the%20Commission.md) | Powers of the Commission. |
 | [6432b.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006432b%20-%20Commission%20personnel%20matters.md) | Commission personnel matters. |
 | [6433\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006433%20-%20Report%20of%20Commission.md) | Report of Commission. |
+| [6433a.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006433a%20-%20Strategic%20plan.md) | Strategic plan. |
 | [6434\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006434%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
 | [6435\.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6435a.](Subchapter%20002%20%28II%29%20-%20Commission%20on%20International%20Religious%20Freedom/%C2%A7%2006435a%20-%20Standards%20of%20conduct%20and%20disclosure.md) | Standards of conduct and disclosure. |

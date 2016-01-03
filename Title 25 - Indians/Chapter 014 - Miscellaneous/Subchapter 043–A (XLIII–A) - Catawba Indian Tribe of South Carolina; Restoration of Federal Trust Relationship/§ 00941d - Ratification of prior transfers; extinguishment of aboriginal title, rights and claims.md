@@ -20,7 +20,7 @@ By virtue of the approval and ratification of any transfer of land or natural re
 
 #### (e) Bar to future claims
 
-The United States is hereby barred from asserting by or on behalf of the Tribe or any of its Members, or anyone purporting to be a Member, any claim arising before the effective date of this subchapter from the transfer of any land or natural resources by deed or other grant, or by treaty, compact, or act of law, on the grounds that such transfer was not made in accordance with the laws of South Carolina or the Constitution or laws of the United States.
+The United States is hereby barred from asserting by or on behalf of the Tribe or any of itsMembers, or anyone purporting to be a Member, any claim arising before the effective date of this subchapter from the transfer of any land or natural resources by deed or other grant, or by treaty, compact, or act of law, on the grounds that such transfer was not made in accordance with the laws of South Carolina or the Constitution or laws of the United States.
 
 #### (f) No derogation of fee simple in Existing Reservation, or effect on Members' fee interests
 

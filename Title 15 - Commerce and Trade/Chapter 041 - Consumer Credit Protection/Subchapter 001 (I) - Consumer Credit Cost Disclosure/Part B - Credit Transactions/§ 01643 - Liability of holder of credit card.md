@@ -20,7 +20,7 @@
 
 #### (b) Burden of proof
 
-In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
+In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
 
 #### (c) Liability imposed by other laws or by agreement with issuer
 
@@ -34,7 +34,7 @@ Except as provided in this section, a cardholder incurs no liability from the un
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
+<b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par.\(1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
 
 #### Effective Date of 1980 Amendment
 

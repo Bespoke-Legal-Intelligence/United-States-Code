@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) a per diem allowance at the assignment location during the period of the assignment; and
 
-&emsp;&emsp;(C) travel, including a per diem allowance, while traveling on official business away from his designated post of duty during the assignment when the head of the Federal agency considers the travel in the interest of the United States;
+&emsp;&emsp;(C) travel, including a per diem allowance, while traveling on official business awayfrom his designated post of duty during the assignment when the head of the Federal agency considers the travel in the interest of the United States;
 
 &emsp;(2) section 5724 of this title, for the expenses of transportation of his immediate family and of his household goods and personal effects to and from the assignment location;
 

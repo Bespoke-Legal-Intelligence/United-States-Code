@@ -16,7 +16,7 @@ In order to protect and preserve the natural, scenic, recreational, and cultural
 
 #### (c) Map
 
-The maps referred to in subsection (b) of this section shall—
+The maps referred to in subsection (b) shall—
 
 &emsp;(1) be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
 

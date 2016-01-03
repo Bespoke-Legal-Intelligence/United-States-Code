@@ -62,7 +62,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the recorded list of debtor names; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an encryption program that enables the buyer, commission merchant, and selling agent to enter a social security number for matching against the recorded list of encrypted social security or taxpayer identification numbers; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an encryption program that enables the buyer, commission merchant,and selling agent to enter a social security number for matching against the recorded list of encrypted social security or taxpayer identification numbers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
@@ -120,7 +120,7 @@ Except as provided in subsection (e) and notwithstanding any other provision of 
 
 A buyer of farm products takes subject to a security interest created by the seller if—
 
-&emsp;(1)(A) within 1 year before the sale of the farm products, the buyer has received from the secured party or the seller written notice of the security interest organized according to farm products that—
+&emsp;(1)(A) within 1 year before the sale of the farm products, the buyer has received fromthe secured party or the seller written notice of the security interest organized according to farm products that—
 
 &emsp;&emsp;(i) is an original or reproduced copy thereof;
 

@@ -6,7 +6,7 @@ Reasonableness.—
 
 &emsp;(1)
 
-Certain household goods transportation; joint rates involving water transportation.—A rate, classification, rule, orpractice related to transportation or service provided by a carrier subject to jurisdiction under chapter 135 for transportation or service involving—
+Certain household goods transportation; joint rates involving water transportation.—A rate, classification, rule, or practice related to transportation or service provided by a carrier subject to jurisdiction under chapter 135 for transportation or service involving—
 
 &emsp;&emsp;(A) a movement of household goods,
 
@@ -56,5 +56,5 @@ Provisions similar to those in this section were contained in sections 10701, 10
 
 #### Effective Date
 
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

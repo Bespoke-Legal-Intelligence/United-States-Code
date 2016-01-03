@@ -30,7 +30,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 Any gift accepted by the Architect of the Capitol under this section shall be considered a gift to the United States for purposes of income, estate, and gift tax laws of the United States.
 
-(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec.12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, §201, Oct. 21, 1998, 112 Stat. 2445.)
+(Pub. L. 100–458, title III, §307E, Oct. 1, 1988, 102 Stat. 2183; Pub. L. 102–229, title II, §209(a), Dec. 12, 1991, 105 Stat. 1716; Pub. L. 104–53, title II, §201(b), Nov. 19, 1995, 109 Stat. 529; Pub. L. 105–275, title II, §201, Oct. 21, 1998, 112 Stat. 2445.)
 
 #### Codification
 

@@ -52,13 +52,13 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 (5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Bureau.
 
-(6) For purposes of this subsection, the term "adverse action" means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
+(6) For purposes of this subsection, the term "adverse action" means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not includea refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
 
 #### (e) Copies furnished to applicants
 
 #### (1) In general
 
-&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion,but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
+&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
 
 #### (2) Waiver
 

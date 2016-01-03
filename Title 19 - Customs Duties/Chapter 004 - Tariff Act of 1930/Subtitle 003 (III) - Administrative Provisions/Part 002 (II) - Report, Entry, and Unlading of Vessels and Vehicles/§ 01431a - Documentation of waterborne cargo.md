@@ -36,11 +36,11 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (3) Reassignment to another vessel
 
-&emsp;For purposes of this subsection and subsection (f) of this section, if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b) of this section. Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
+&emsp;For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
 
 #### (4) Multiple containers
 
-&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
+&emsp;If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipmentconsists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
 
 #### (e) Assessment of penalties
 
@@ -50,7 +50,7 @@ Whoever is found to have violated subsection (b) of this section shall be liable
 
 (1) Any cargo that is not properly documented pursuant to this section and has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal operator shall be subject to search, seizure, and forfeiture.
 
-(2) The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized bythe Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
+(2) The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized by the Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
 
 #### (g) Effect on other provisions
 

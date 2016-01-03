@@ -24,7 +24,7 @@ The Administrator of FEMA and the Comptroller General of the United States, or a
 
 #### (d) Inventions and discoveries
 
-All property rights with respect to inventions and discoveries, which are made in the course ofor under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
+All property rights with respect to inventions and discoveries, which are made in the course of or under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
 
 #### (e) Coordination
 

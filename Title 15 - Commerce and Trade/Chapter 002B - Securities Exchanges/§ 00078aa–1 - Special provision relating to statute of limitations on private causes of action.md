@@ -18,5 +18,5 @@ Any private civil action implied under section 78j(b) of this title that was com
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 27A of act June 6, 1934, as added by section 476 of Pub. L. 102–242, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of section 27A of act June 6, 1934, as added by section 476 of Pub. L. 102–242, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional inWhole or in Part by the Supreme Court of the United States.
 

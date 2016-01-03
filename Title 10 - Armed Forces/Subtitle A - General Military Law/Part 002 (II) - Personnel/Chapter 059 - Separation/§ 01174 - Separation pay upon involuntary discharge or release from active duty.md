@@ -60,7 +60,7 @@ Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As
 
 (f)
 
-Counting Fractional Years of Service.—In determining a member's years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
+Counting Fractional Years of Service.—In determining a member's years of active service for the purpose of computing separation payunder this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
 (g)
 
@@ -104,7 +104,7 @@ Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), 
 
 <b>2011</b>—Subsec. (i). Pub. L. 111–383 substituted "armed forces" for "Armed Forces" wherever appearing.
 
-<b>2009</b>—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received."
+<b>2009</b>—Subsec. (h)(1). Pub. L. 111–32 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A member who has received separation pay under thissection, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received separation pay under this section or separation pay, severance pay, or readjustment pay under any other provision of law until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay received."
 
 <b>2008</b>—Subsecs. (i), (j). Pub. L. 110–317 added subsec. (i) and redesignated former subsec. (i) as (j).
 

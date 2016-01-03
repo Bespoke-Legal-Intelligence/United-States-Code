@@ -2,7 +2,7 @@
 
 (a)
 
-Members Traveling In Connection With Medical Evacuation.—The Secretary of themilitary department concerned may furnish civilian clothing and luggage to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing and luggage in an amount not to exceed $250, in the case of a member who—
+Members Traveling In Connection With Medical Evacuation.—The Secretary of the military department concerned may furnish civilian clothing and luggage to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing and luggage in an amount not to exceed $250, in the case of a member who—
 
 &emsp;(1) is medically evacuated for treatment in a medical facility by reason of an illness or injury incurred or aggravated while on active duty; or
 
@@ -160,7 +160,7 @@ Effective Date.—Subsection (a) of section 1047 of title 10, United States Code
 
 "(c)
 
-Retroactive Application.—With respect to the period beginning on October 1, 2004, and ending on the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall provide for subsection (a) of section 1047 of title 10, United States Code, as added by subsection (a), to be applied as a continuation of the authority provided in section 1319 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 571), as continued in effect during fiscal year 2004 by section 1103 of the EmergencySupplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 (Public Law 108–106; 117 Stat. 1214)."
+Retroactive Application.—With respect to the period beginning on October 1, 2004, and ending on the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall provide for subsection (a) of section 1047 of title 10, United States Code, as added by subsection (a), to be applied as a continuation of the authority provided in section 1319 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 571), as continued in effect during fiscal year 2004 by section 1103 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 (Public Law 108–106; 117 Stat. 1214)."
 
 #### Effective Date
 

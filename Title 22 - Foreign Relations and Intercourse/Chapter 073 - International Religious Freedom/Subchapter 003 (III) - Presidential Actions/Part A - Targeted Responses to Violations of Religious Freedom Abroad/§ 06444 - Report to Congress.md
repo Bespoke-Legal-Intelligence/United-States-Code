@@ -6,7 +6,7 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 #### (1) Identification of Presidential actions
 
-&emsp;An identification of the Presidential action or actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) to be taken with respect to the foreign country.
+&emsp;An identification of the Presidential action or actions described in paragraphs (9) through\(15) of section 6445(a) of this title (or commensurate action in substitution thereto) to be taken with respect to the foreign country.
 
 #### (2) Description of violations
 

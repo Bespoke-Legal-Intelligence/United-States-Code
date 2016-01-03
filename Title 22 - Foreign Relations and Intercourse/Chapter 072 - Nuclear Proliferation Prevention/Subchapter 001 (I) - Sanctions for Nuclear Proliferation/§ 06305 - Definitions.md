@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;(3) the term "IAEA safeguards" means the safeguards set forth in an agreement between a country and the International Atomic Energy Agency, as authorized by Article III(A)(5) of the Statute of the International Atomic Energy Agency;
 
-&emsp;(4) the term "nuclear explosive device" means any device, whether assembled or disassembled, that is designed to produce an instantaneous release of an amount of nuclearenergy from special nuclear material that is greater than the amount of energy that would be released from the detonation of one pound of trinitrotoluene (TNT);
+&emsp;(4) the term "nuclear explosive device" means any device, whether assembled or disassembled, that is designed to produce an instantaneous release of an amount of nuclear energy from special nuclear material that is greater than the amount of energy that would be released from the detonation of one pound of trinitrotoluene (TNT);
 
 &emsp;(5) the term "non-nuclear-weapon state" means any country which is not a nuclear-weapon state, as defined by Article IX (3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow on July 1, 1968;
 

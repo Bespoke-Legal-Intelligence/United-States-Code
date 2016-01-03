@@ -26,7 +26,7 @@ An eligible institution may, upon the request of a student, make payments to the
 
 &emsp;&emsp;(B) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under this part prior to the occurrence of the major disaster.
 
-&emsp;&emsp;(C) Any payments made to disaster-affected students under this subsection shall meet the matching requirements of section 2753 of this title, unless such matching requirements are waived by the Secretary.
+&emsp;&emsp;(C) Any payments made to disaster-affected students under this subsection shall meet the matching requirements of section2753 of this title, unless such matching requirements are waived by the Secretary.
 
 #### (2) Definitions
 

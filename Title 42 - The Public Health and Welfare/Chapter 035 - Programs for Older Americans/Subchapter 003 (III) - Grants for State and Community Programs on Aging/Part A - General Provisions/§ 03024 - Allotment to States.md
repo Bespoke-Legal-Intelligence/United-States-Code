@@ -50,7 +50,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539.)
+(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §304, Oct. 17, 2006, 120 Stat. 2539.)
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Subsec. (d)(1)(A). Pub. L. 100–175, §123, substituted "10 percent" for "8.5 p
 
 Subsec. (d)(1)(B), (C). Pub. L. 100–175, §155(d), inserted "(excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title)" after "amount".
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted "Subject to paragraph (2), from" for "From", substituted "under section 3023 of this title" for "under parts B and C", substituted "Commonwealth of the Northern Mariana Islands" for "Northern Mariana Islands" in two places, substituted "and (C)" for "(C)", and struck out "; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978".
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–459, §304(a)(1)–(5), substituted "Subject to paragraph (2), from" for "From", substituted "under section 3023 of this title" for "underparts B and C", substituted "Commonwealth of the Northern Mariana Islands" for "Northern Mariana Islands" in two places, substituted "and (C)" for "(C)", and struck out "; and (D) no State shall be allotted an amount less than the State received for fiscal year 1978".
 
 Subsec. (a)(2), (3). Pub. L. 98–459, §304(a)(6)–(8), added par. (2), redesignated former par. (2) as (3), and substituted "available to the Commissioner" for "available to him".
 
@@ -128,7 +128,7 @@ Subsec. (d)(1)(C). Pub. L. 97–115, §4(b), (c)(2), redesignated subpar. (B) as
 
 Amendment by section 304 (excluding pars. (1) and (2) of subsec. (a)) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under section 3001 of this title.
 
-Amendment by section 304 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
+Amendment by section 304 of Pub. L. 102–375 inapplicable with respect to fiscal year 1992, see section 905(b)(2) of Pub. L. 102–375, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this subtitle, an individual shall be considered a head of a household if,and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection (a)), and either—
+&emsp;For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection (a)), and either—
 
 &emsp;&emsp;(A) maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of—
 
@@ -118,7 +118,7 @@ Subsec. (b)(1)(A)(i). Pub. L. 98–369, §423(c)(2)(B), inserted "(or would be s
 
 <b>1976</b>—Subsec. (a)(3)(B). Pub. L. 94–569 substituted "the date which is" for "the date which is 2 years after" in provisions preceding cl. (i), substituted "January 2, 1978" for "the date of the enactment of this paragraph" in cl. (i), and substituted "2 years after the date" for "the date" in cl. (ii).
 
-Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1901(b)(9), redesignated cl. (iii) as (ii) and struck out former cl. (ii)which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
+Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1901(b)(9), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(1), substituted "shall be treated as not married at the close of the taxable year" for "shall not be considered as married".
 

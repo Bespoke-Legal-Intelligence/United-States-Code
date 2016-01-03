@@ -74,7 +74,7 @@ Consistent with this chapter, the Commission, in consultation with the Securitie
 
 #### (6) Prohibition
 
-&emsp;It shall be unlawful for any person, including any derivatives clearing organization and anydepository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.
+&emsp;It shall be unlawful for any person, including any derivatives clearing organization and any depository institution, that has received any money, securities, or property for deposit in a separate account or accounts as provided in paragraph (2) to hold, dispose of, or use any such money, securities, or property as belonging to the depositing futures commission merchant or any person other than the swaps customer of the futures commission merchant.
 
 #### (g) Introducing broker registration requirements
 
@@ -88,7 +88,7 @@ Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and p
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale ofany commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
 
 Subsec. (a)(1). Pub. L. 111–203, §749(a)(1)(B), struck out "or introducing broker" after "merchant".
 

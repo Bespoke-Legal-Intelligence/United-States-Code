@@ -16,7 +16,7 @@ Program.—As part of the Defense Environmental Restoration Program, the Secreta
 
 (b)
 
-Special Permit.—The Administrator may use the authorities of section 3005(g) of the Solid Waste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
+Special Permit.—The Administrator may use the authorities of section 3005(g) of the SolidWaste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
 
 (c)
 
@@ -42,7 +42,7 @@ Role of epa.—The functions of the Secretary under paragraph (1) shall be carri
 
 #### Partnerships for Investment in Innovative Environmental Technologies
 
-Pub. L. 105–85, div. A, title III, §349, Nov. 18, 1997, 111 Stat. 1690, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title X, §1062(k)(1), Dec. 31, 2011, 125 Stat. 1586, authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriationsavailable to the Department of Defense for environmental activities for a period of up to five years.
+Pub. L. 105–85, div. A, title III, §349, Nov. 18, 1997, 111 Stat. 1690, as amended by Pub. L. 106–65, div. A, title X, §1067(4), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title X, §1062(k)(1), Dec. 31, 2011, 125 Stat. 1586, authorized the Secretary of Defense, until three years after Nov. 18, 1997, to enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies, and to provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities for a period of up to five years.
 
 #### Agreements for Services of Other Agencies in Support of Environmental Technology Certification
 

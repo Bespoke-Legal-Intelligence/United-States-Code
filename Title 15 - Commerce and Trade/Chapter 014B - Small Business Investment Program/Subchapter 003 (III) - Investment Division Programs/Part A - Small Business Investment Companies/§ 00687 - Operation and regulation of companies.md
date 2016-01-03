@@ -10,7 +10,7 @@ Each small business investment company may make use, wherever practicable, of th
 
 &emsp;(1) in direct obligations of, or obligations guaranteed as to principal and interest by, the United States;
 
-&emsp;(2) in certificates of deposit or other accounts of federally insured banks or other federally insured depository institutions, if the certificates or other accounts mature or are otherwise fully available not more than 1 year after the date of the investment; or
+&emsp;(2) in certificates of deposit or other accounts of federally insured banks or other federally insured depository institutions, if the certificates or other accounts mature or areotherwise fully available not more than 1 year after the date of the investment; or
 
 &emsp;(3) in mutual funds, securities, or other instruments that consist of, or represent pooled assets of, investments described in paragraphs (1) or (2).
 
@@ -58,7 +58,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 (3) In its annual report for the year ending on December 31, 1993, and in each succeeding annual report made pursuant to section 10(a) of the Small Business Act \[15 U.S.C. 639(a)\], the Administration shall include a full and detailed description or account relating to—
 
-&emsp;(A) the number of small business investment companies the Administration licensed, thenumber of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of government leverage each has received and the type of leverage instruments each has used;
+&emsp;(A) the number of small business investment companies the Administration licensed, the number of licensees that have been placed in liquidation, and the number of licensees that have surrendered their licenses in the previous year, identifying the amount of government leverage each has received and the type of leverage instruments each has used;
 
 &emsp;(B) the amount of government leverage that each licensee received in the previous year and the types of leverage instruments each licensee used;
 
@@ -98,7 +98,7 @@ In the performance of, and with respect to the functions, powers, and duties ves
 
 For definition of "this chapter", referred to in subsecs. (a) to (h), see References in Text note set out under section 661 of this title.
 
-The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
+The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

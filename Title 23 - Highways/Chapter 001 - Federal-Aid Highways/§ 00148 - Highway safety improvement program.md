@@ -30,7 +30,7 @@ In general.—The term "highway safety improvement project" means strategies, ac
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term "highway safety improvement project" includes, but is not limited to, a project for 1 or more of the following:
+Inclusions.—The term "highway safety improvement project" only includes a project for 1 or more of the following:
 
 &emsp;&emsp;&emsp;(i) An intersection safety improvement.
 
@@ -80,13 +80,21 @@ Inclusions.—The term "highway safety improvement project" includes, but is not
 
 &emsp;&emsp;&emsp;(xxiv) Systemic safety improvements.
 
+&emsp;&emsp;&emsp;(xxv) Installation of vehicle-to-infrastructure communication equipment.
+
+&emsp;&emsp;&emsp;(xxvi) Pedestrian hybrid beacons.
+
+&emsp;&emsp;&emsp;(xxvii) Roadway improvements that provide separation between pedestrians and motor vehicles, including medians and pedestrian crossing islands.
+
+&emsp;&emsp;&emsp;(xxviii) A physical infrastructure safety project not described in clauses (i) through (xxvii).
+
 &emsp;(5)
 
 Model inventory of roadway elements.—The term "model inventory of roadway elements" means the listing and standardized coding by the Federal Highway Administration of roadway and traffic data elements critical to safety management, analysis, and decisionmaking.
 
 &emsp;(6)
 
-Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain ahighway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
+Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
 
 &emsp;(7)
 
@@ -110,27 +118,9 @@ Inclusion.—The term "safety data" includes, in the case of a railway-highway g
 
 &emsp;(10)
 
-Safety project under any other section.—
-
-&emsp;&emsp;(A)
-
-In general.—The term "safety project under any other section" means a project carried out for the purpose of safety under any other section of this title.
-
-&emsp;&emsp;(B)
-
-Inclusion.—The term "safety project under any other section" includes—
-
-&emsp;&emsp;&emsp;(i) a project consistent with the State strategic highway safety plan that promotes the awareness of the public and educates the public concerning highway safety matters (including motorcycle safety);
-
-&emsp;&emsp;&emsp;(ii) a project to enforce highway safety laws; and
-
-&emsp;&emsp;&emsp;(iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services.
-
-&emsp;(11)
-
 State highway safety improvement program.—The term "State highway safety improvement program" means a program of highway safety improvement projects, activities, plans and reports carried out as part of the Statewide transportation improvement program under section 135(g).
 
-&emsp;(12)
+&emsp;(11)
 
 State strategic highway safety plan.—The term "State strategic highway safety plan" means a comprehensive plan, based on safety data, developed by a State transportation department that—
 
@@ -172,9 +162,9 @@ State strategic highway safety plan.—The term "State strategic highway safety 
 
 &emsp;&emsp;(I) is updated and submitted to the Secretary for approval as required under subsection (d)(2).
 
-&emsp;(13)
+&emsp;(12)
 
-Systemic safety improvement.—The term "systemic safety improvement" means an improvement that is widely implemented based on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
+Systemic safety improvement.—The term "systemic safety improvement" means an improvement that is widely implementedbased on high-risk roadway features that are correlated with particular crash types, rather than crash frequency.
 
 (b)
 
@@ -196,7 +186,7 @@ Eligibility.—
 
 In general.—To obligate funds apportioned under section 104(b)(3) to carry out this section, a State shall have in effect a State highway safety improvement program under which the State—
 
-&emsp;&emsp;(A) develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(12) and (d);
+&emsp;&emsp;(A) develops, implements, and updates a State strategic highway safety plan that identifies and analyzes highway safety problems and opportunities as provided in subsections (a)(11) and (d);
 
 &emsp;&emsp;(B) produces a program of projects or strategies to reduce identified safety problems; and
 
@@ -302,7 +292,7 @@ Approval of updated strategic highway safety plans.—
 
 In general.—Each State shall—
 
-&emsp;&emsp;&emsp;(i) update the strategic highway safety plans of the State in accordance with therequirements established by the Secretary under this subsection; and
+&emsp;&emsp;&emsp;(i) update the strategic highway safety plans of the State in accordance with the requirements established by the Secretary under this subsection; and
 
 &emsp;&emsp;&emsp;(ii) submit the updated plans to the Secretary, along with a detailed description of the process used to update the plan.
 
@@ -310,7 +300,7 @@ In general.—Each State shall—
 
 Requirements for approval.—The Secretary shall not approve the process for an updated strategic highway safety plan unless—
 
-&emsp;&emsp;&emsp;(i) the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(12); and
+&emsp;&emsp;&emsp;(i) the updated strategic highway safety plan is consistent with the requirements of this subsection and subsection (a)(11); and
 
 &emsp;&emsp;&emsp;(ii) the process used is consistent with the requirements of this subsection.
 
@@ -430,11 +420,11 @@ Discovery and admission into evidence of certain reports, surveys, and informati
 
 (i)
 
-State Performance Targets.—If the Secretary determines that a State has not met or made significant progress toward meeting the performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets, the State shall—
+State Performance Targets.—If the Secretary determines that a State has not met or made significant progress toward meeting the safety performance targets of the State established under section 150(d), the State shall—
 
-&emsp;(1) use obligation authority equal to the apportionment of the State for the prior year under section 104(b)(3) only for highway safety improvement projects under this section until the Secretary determines that the State has met or made significant progress toward meeting the performance targets of the State; and
+&emsp;(1) use obligation authority equal to the apportionment of the State for the prior year under section 104(b)(3) only for highway safety improvement projects under this section until the Secretary determines that the State has met or made significant progress toward meeting the safety performance targets of the State; and
 
-&emsp;(2) submit annually to the Secretary, until the Secretary determines that the State has met or made significant progress toward meeting the performance targets of the State, an implementation plan that—
+&emsp;(2) submit annually to the Secretary, until the Secretary determines that the State has met or made significant progress toward meeting the safety performance targets of the State, an implementation plan that—
 
 &emsp;&emsp;(A) identifies roadway features that constitute a hazard to road users;
 
@@ -442,15 +432,31 @@ State Performance Targets.—If the Secretary determines that a State has not me
 
 &emsp;&emsp;(C) describes how highway safety improvement program funds will be allocated, including projects, activities, and strategies to be implemented;
 
-&emsp;&emsp;(D) describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety performance targets of the State; and
+&emsp;&emsp;(D) describes how the proposed projects, activities, and strategies funded under the State highway safety improvement program will allow the State to make progress toward achieving the safety safety <sup>1</sup> performance targets of the State; and
 
-&emsp;&emsp;(E) describes the actions the State will undertake to meet the performance targets of the State.
+&emsp;&emsp;(E) describes the actions the State will undertake to meet the safety performance targets of the State.
 
 (j)
 
 Federal Share of Highway Safety Improvement Projects.—Except as provided in sections 120 and 130, the Federal share of the cost of a highway safety improvement project carried out with funds apportioned to a State under section 104(b)(3) shall be 90 percent.
 
-(Added Pub. L. 93–87, title I, §129(b), Aug. 13, 1973, 87 Stat. 265; amended Pub. L. 95–599, title I, §§125, 129(d), Nov. 6, 1978, 92 Stat. 2705, 2707; Pub. L. 109–59, title I, §1401(a)(1), Aug. 10, 2005, 119 Stat. 1219; Pub. L. 112–141, div. A, title I, §1112(a), July 6, 2012, 126 Stat. 450.)
+(k)
+
+Data Collection on Unpaved Public Roads.—
+
+&emsp;(1)
+
+In general.—A State may elect not to collect fundamental data elements for the model inventory of roadway elements on public roads that are gravel roads or otherwise unpaved if—
+
+&emsp;&emsp;(A) the State does not use funds provided to carry out this section for a project on any such roads until the State completes a collection of the required model inventory of roadway elements for the applicable road segment; and
+
+&emsp;&emsp;(B) the State demonstrates that the State consulted with affected Indian tribes before ceasing to collect data with respect to such roads that are included in the National Tribal Transportation Facility Inventory under section 202(b)(1) of this title.
+
+&emsp;(2)
+
+Rule of construction.—Nothing in this subsection may be construed to allow a State to cease data collection related to serious injuries or fatalities.
+
+(Added Pub. L. 93–87, title I, §129(b), Aug. 13, 1973, 87 Stat. 265; amended Pub. L. 95–599, title I, §§125, 129(d), Nov. 6, 1978, 92 Stat. 2705, 2707; Pub. L. 109–59, title I, §1401(a)(1), Aug. 10, 2005, 119 Stat. 1219; Pub. L. 112–141, div. A, title I, §1112(a), July 6, 2012, 126 Stat. 450; Pub. L. 114–94, div. A, title I, §§1113(a), 1406(b), Dec. 4, 2015, 129 Stat. 1347, 1410.)
 
 #### References in Text
 
@@ -459,6 +465,36 @@ Section 1401 of the MAP–21, referred to in subsec. (a)(4)(B)(xxiii), is sectio
 The date of enactment of the MAP–21, referred to in subsecs. (d)(1)(A) and (g)(1), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title. Subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21, means subsec. (f) of this section as in effect on the day before the date of enactment of Pub. L. 112–141, which amended this section generally.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4)(B). Pub. L. 114–94, §1113(a)(1)(A)(i), substituted "only includes" for "includes, but is not limited to," in introductory provisions.
+
+Subsec. (a)(4)(B)(xxv) to (xxviii). Pub. L. 114–94, §1113(a)(1)(A)(ii), added cls. (xxv) to (xxviii).
+
+Subsec. (a)(10) to (13). Pub. L. 114–94, §1113(a)(1)(B), (C), redesignated pars. (11) to (13) as (10) to (12) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows:
+
+"(A)
+
+In general.—The term 'safety project under any other section' means a project carried out for the purpose of safety under any other section of this title.
+
+"(B)
+
+Inclusion.—The term 'safety project under any other section' includes—
+
+&emsp;"(i) a project consistent with the State strategic highway safety plan that promotes the awareness of the public and educates the public concerning highway safety matters (including motorcycle safety);
+
+&emsp;"(ii) a project to enforce highway safety laws; and
+
+&emsp;"(iii) a project to provide infrastructure and infrastructure-related equipment to support emergency services."
+
+Subsec. (c)(1)(A). Pub. L. 114–94, §1113(a)(2), substituted "subsections (a)(11)" for "subsections (a)(12)".
+
+Subsec. (d)(2)(B)(i). Pub. L. 114–94, §1113(a)(3), substituted "subsection (a)(11)" for "subsection (a)(12)".
+
+Subsec. (i). Pub. L. 114–94, §1406(b)(1), substituted "safety performance targets of the State established under section 150(d)" for "performance targets of the State established under section 150(d) by the date that is 2 years after the date of the establishment of the performance targets" in introductory provisions.
+
+Subsec. (i)(1), (2). Pub. L. 114–94, §1406(b)(2), inserted "safety" before "performance targets" wherever appearing.
+
+Subsec. (k). Pub. L. 114–94, §1113(a)(4), added subsec. (k).
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to highway safety improvement program and consisted of subsecs. (a) to (h).
 
@@ -469,6 +505,10 @@ The date of enactment of the MAP–21, referred to in subsecs. (d)(1)(A) and (g)
 Subsec. (e). Pub. L. 95–599, §129(d), substituted "75 per centum" for "70 per centum".
 
 Subsec. (h). Pub. L. 95–599, §125(a), added subsec. (h).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -553,4 +593,6 @@ Use of manual.—Use of the manual shall be voluntary and the manual shall not e
 #### Transition
 
 Pub. L. 109–59, title I, §1401(d), formerly §1401(e), Aug. 10, 2005, 119 Stat. 1227, renumbered §1401(d) by Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577, provided for different methods of obligating funds to States for highway safety improvement programs both before and after the second fiscal year beginning Aug. 10, 2005.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

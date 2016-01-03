@@ -44,6 +44,84 @@
 
 Pub. L. 98–94, title IX, §933(b), Sept. 24, 1983, 97 Stat. 651, provided that: "Section 1092 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983."
 
+#### Pilot Program on Incentive Programs To Improve Health Care Provided Under the TRICARE Program
+
+Pub. L. 114–92, div. A, title VII, §726, Nov. 25, 2015, 129 Stat. 871, provided that:
+
+"(a)
+
+Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall commence the conduct of a pilot program under section 1092 of title 10, United States Code, to assess whether a reduction in the rate of increase in health care spending by the Department of Defense and an enhancement of the operation of the military health system may be achieved by developing and implementing value-based incentive programs to encourage health care providers under the TRICARE program (including physicians, hospitals, and others involved in providing health care to patients) to improve the following:
+
+&emsp;"(1) The quality of health care provided to covered beneficiaries under the TRICARE program.
+
+&emsp;"(2) The experience of covered beneficiaries in receiving health care under the TRICARE program.
+
+&emsp;"(3) The health of covered beneficiaries.
+
+"(b)
+
+Incentive Programs.—
+
+&emsp;"(1)
+
+Development.—In developing an incentive program under this section, the Secretary shall—
+
+&emsp;&emsp;"(A) consider the characteristics of the population of covered beneficiaries affected by the incentive program;
+
+&emsp;&emsp;"(B) consider how the incentive program would impact the receipt of health care under the TRICARE program by such covered beneficiaries;
+
+&emsp;&emsp;"(C) establish or maintain an assurance that such covered beneficiaries will have timely access to health care during operation of the incentive program;
+
+&emsp;&emsp;"(D) ensure that there are no additional financial costs to such covered beneficiaries of implementing the incentive program; and
+
+&emsp;&emsp;"(E) consider such other factors as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Elements.—With respect to an incentive program developed and implemented under this section, the Secretary shall ensure that—
+
+&emsp;&emsp;"(A) the size, scope, and duration of the incentive program is reasonable in relation to the purpose of the incentive program; and
+
+&emsp;&emsp;"(B) appropriate criteria and data collection are used to ensure adequate evaluation of the feasibility and advisability of implementing the incentive program throughout the TRICARE program.
+
+&emsp;"(3)
+
+Use of existing models.—In developing an incentive program under this section, the Secretary may adapt a value-based incentive program conducted by the Centers for Medicare \& Medicaid Services or any other governmental or commercial health care program.
+
+"(c)
+
+Termination.—The authority of the Secretary to carry out the pilot program under this section shall terminate on December 31, 2019.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Interim report.—Not later than one year after the date of the enactment of this Act, and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shallsubmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
+
+&emsp;"(2)
+
+Final report.—Not later than September 30, 2019, the Secretary shall submit to the congressional defense committees a final report on the pilot program.
+
+&emsp;"(3)
+
+Elements.—Each report submitted under paragraph (1) or paragraph (2) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of each incentive program developed and implemented under this section, including whether such incentive program—
+
+&emsp;&emsp;&emsp;"(i) improves the quality of health care provided to covered beneficiaries, the experience of covered beneficiaries in receiving health care under the TRICARE program, or the health of covered beneficiaries;
+
+&emsp;&emsp;&emsp;"(ii) reduces the rate of increase in health care spending by the Department of Defense; or
+
+&emsp;&emsp;&emsp;"(iii) enhances the operation of the military health system.
+
+&emsp;&emsp;"(B) Such recommendations for administrative or legislative action as the Secretary considers appropriate in light of the pilot program, including to implement any such incentive program or programs throughout the TRICARE program.
+
+"(e)
+
+Definitions.—In this section, the terms 'covered beneficiary' and 'TRICARE program' have the meanings given those terms in section 1072 of title 10, United States Code."
+
 #### Pilot Program on Certain Treatments of Autism Under the TRICARE Program
 
 Pub. L. 112–239, div. A, title VII, §705, Jan. 2, 2013, 126 Stat. 1800, provided that:
@@ -260,7 +338,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §732\], Oct. 30, 2000, 114 Stat
 
 #### Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs
 
-Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
+Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X,§1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, authorized the Secretary of Defense and the Secretary of Veterans Affairs, during the three-year period beginning on Oct. 1, 1999, to carry out joint demonstration projects for purposes of evaluating the feasibility and practicability of using telecommunications to provide radiologic and imaging services, diagnostic services, referral services, pharmacy services, and any other health care services designated by the Secretaries.
 
 #### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
 
@@ -370,5 +448,5 @@ GAO Reports.—The Comptroller General shall monitor the development and impleme
 
 Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815; Pub. L. 106–65, div. A, title VII, §702(a), Oct. 5, 1999, 113 Stat. 680, directed the Secretary of Defense to develop and carry out a demonstration program for fiscal years 1995 to 1999 to evaluate the feasibility and advisability of furnishing chiropractic care through the medical care facilities of the Armed Forces, to continue to furnish the same chiropractic care in fiscal year 2000, to submit reports to Congress in 1995 and 1998 with a final report due Jan. 31, 2000, to establish an oversight advisory committee to assist and advise the Secretary with regard to the development and conduct of the demonstration program, and, not later than Mar. 31, 2000, to submit to Congress an implementation plan for the full integration of chiropractic health care services into the military health care system of the Department of Defense, including the TRICARE program, if the provision of such care was the Secretary's recommendation.
 
-Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health andHuman Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
+Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: "The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code."
 

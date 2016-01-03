@@ -8,7 +8,7 @@ Any approvals granted by the Farm Credit Administration before January 6, 1988, 
 
 #### (1) In general
 
-&emsp;Any approval authority of the Farm Credit Administration that, under the amendments made by section 802 of the Agricultural Credit Act of 1987, became an authority to issue regulations may be exercised only until the earlier of the date the Farm Credit Administration issues final regulations under such authority, or 1 year after January 6, 1988.
+&emsp;Any approval authority of the Farm Credit Administration that, under the amendments made by section 802 of the Agricultural CreditAct of 1987, became an authority to issue regulations may be exercised only until the earlier of the date the Farm Credit Administration issues final regulations under such authority, or 1 year after January 6, 1988.
 
 #### (2) Enforcement actions
 

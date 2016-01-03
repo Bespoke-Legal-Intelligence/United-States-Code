@@ -12,6 +12,7 @@
 | [2332f.](%C2%A7%2002332f%20-%20Bombings%20of%20places%20of%20public%20use%2C%20government%20facilities%2C%20public%20transportation%20systems%20and%20infrastructure%20facilities.md) | Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities. |
 | [2332g.](%C2%A7%2002332g%20-%20Missile%20systems%20designed%20to%20destroy%20aircraft.md) | Missile systems designed to destroy aircraft. |
 | [2332h.](%C2%A7%2002332h%20-%20Radiological%20dispersal%20devices.md) | Radiological dispersal devices. |
+| [2332i.](%C2%A7%2002332i%20-%20Acts%20of%20nuclear%20terrorism.md) | Acts of nuclear terrorism. |
 | [2333\.](%C2%A7%2002333%20-%20Civil%20remedies.md) | Civil remedies. |
 | [2334\.](%C2%A7%2002334%20-%20Jurisdiction%20and%20venue.md) | Jurisdiction and venue. |
 | [2335\.](%C2%A7%2002335%20-%20Limitation%20of%20actions.md) | Limitation of actions. |
@@ -35,6 +36,8 @@ Pub. L. 101–519, §132, Nov. 5, 1990, 104 Stat. 2250, known as the "Antiterror
 Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapter 113C.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–23, title VIII, §811(b), June 2, 2015, 129 Stat. 311, added item 2332i.
 
 <b>2004</b>—Pub. L. 108–458, title VI, §6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
 
@@ -77,6 +80,7 @@ Pub. L. 103–322, title VI, §60023(b), title XXV, §250002(a)(1), (b)(2), Sept
 - [&sect; 02332f - Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities](%C2%A7%2002332f%20-%20Bombings%20of%20places%20of%20public%20use%2C%20government%20facilities%2C%20public%20transportation%20systems%20and%20infrastructure%20facilities.md)
 - [&sect; 02332g - Missile systems designed to destroy aircraft](%C2%A7%2002332g%20-%20Missile%20systems%20designed%20to%20destroy%20aircraft.md)
 - [&sect; 02332h - Radiological dispersal devices](%C2%A7%2002332h%20-%20Radiological%20dispersal%20devices.md)
+- [&sect; 02332i - Acts of nuclear terrorism](%C2%A7%2002332i%20-%20Acts%20of%20nuclear%20terrorism.md)
 - [&sect; 02333 - Civil remedies](%C2%A7%2002333%20-%20Civil%20remedies.md)
 - [&sect; 02334 - Jurisdiction and venue](%C2%A7%2002334%20-%20Jurisdiction%20and%20venue.md)
 - [&sect; 02335 - Limitation of actions](%C2%A7%2002335%20-%20Limitation%20of%20actions.md)

@@ -16,7 +16,7 @@ Allowance for Officers Serving in Certain Ranks or Positions.—In addition to o
 
 (b)
 
-Allowance for Certain Naval Officers.—In addition to other pay or allowancesauthorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
+Allowance for Certain Naval Officers.—In addition to other pay or allowances authorized by law, an officer who is serving in one of the following positions is entitled to the amount set forth for that position, to be paid annually out of naval appropriations for pay, and to be spent in his discretion for the contingencies of his position—
 
 &emsp;(1) President of the Naval Postgraduate School—$400;
 

@@ -34,7 +34,7 @@ Required Features.—The process developed under subsection (a) shall provide fo
 
 (c)
 
-Annual Review.—The Secretary shall conduct an annual review of the process prescribedunder subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
+Annual Review.—The Secretary shall conduct an annual review of the process prescribed under subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
 
 (d)
 
@@ -61,6 +61,206 @@ Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\]."
+
+#### Reform and Improvement of Personnel Security, Insider Threat Detection and Prevention, and Physical Security
+
+Pub. L. 114–92, div. A, title X, §1086, Nov. 25, 2015, 129 Stat. 1006, provided that:
+
+"(a)
+
+Personnel Security and Insider Threat Protection in Department of Defense.—
+
+&emsp;"(1)
+
+Plans and schedules.—Consistent with the Memorandum of the Secretary of Defense dated March 18, 2014, regarding the recommendations of thereviews of the Washington Navy Yard shooting, the Secretary of Defense shall develop plans and schedules—
+
+&emsp;&emsp;"(A) to implement a continuous evaluation capability for the national security population for which clearance adjudications are conducted by the Department of Defense Central Adjudication Facility, in coordination with the heads of other relevant agencies;
+
+&emsp;&emsp;"(B) to produce a Department-wide insider threat strategy and implementation plan, which includes—
+
+&emsp;&emsp;&emsp;"(i) resourcing for the Defense Insider Threat Management and Analysis Center and component insider threat programs, and
+
+&emsp;&emsp;&emsp;"(ii) alignment of insider threat protection programs with continuous evaluation capabilities and processes for personnel security;
+
+&emsp;&emsp;"(C) to centralize the authority, accountability, and programmatic integration responsibilities, including fiscal control, for personnel security and insider threat protection under the Under Secretary of Defense for Intelligence;
+
+&emsp;&emsp;"(D) to develop a defense security enterprise reform investment strategy to ensure a consistent, long-term focus on funding to strengthen all of the Department's security and insider threat programs, policies, functions, and information technology capabilities, including detecting threat behaviors conveyed in the cyber domain, in a manner that keeps pace with evolving threats and risks;
+
+&emsp;&emsp;"(E) to resource and expedite deployment of the Identity Management Enterprise Services Architecture; and
+
+&emsp;&emsp;"(F) to implement the recommendations contained in the study conducted by the Director of Cost Analysis and Program Evaluation required by section 907 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 1564 note), including, specifically, the recommendations to centrally manage and regulate Department of Defense requests for personnel security background investigations.
+
+&emsp;"(2)
+
+Reporting requirement.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the appropriate committees of Congress a report describing the plans and schedules required under paragraph (1).
+
+"(b)
+
+Physical and Logical Access.—Not later than 270 days after the date of the enactment of this Act—
+
+&emsp;"(1) the Secretary of Defense shall define physical and logical access standards, capabilities, and processes applicable to all personnel with access to Department of Defense installations and information technology systems, including—
+
+&emsp;&emsp;"(A) periodic or regularized background or records checks appropriate to the type of physical or logical access involved, the security level, the category of individuals authorized, and the level of access to be granted;
+
+&emsp;&emsp;"(B) standards and methods for verifying the identity of individuals seeking access; and
+
+&emsp;&emsp;"(C) electronic attribute-based access controls that are appropriate for the type of access and facility or information technology system involved;
+
+&emsp;"(2) the Director of the Office of Management and Budget and the Chair of the Performance Accountability Council, in coordination with the Secretary of Defense, the Administrator of General Services, and, when appropriate, the Director of National Intelligence, and in consultation with representatives from stakeholder organizations, shall design a capability to share and apply electronic identity information across the Government to enable real-time, risk-managed physical and logical access decisions; and
+
+&emsp;"(3) the Director of the Office of Management and Budget, in conjunction with the Director of the Office of Personnel Management and in consultation with representatives from stakeholder organizations, shall establish investigative and adjudicative standards for the periodic or regularized reevaluation of the eligibility of an individual to retain credentials issued pursuant to Homeland Security Presidential Directive 12 (dated August 27, 2004), as appropriate, but not less frequently than the authorization period of the issued credentials.
+
+"(c)
+
+Security Enterprise Management.—Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], the Director of the Office of Management and Budget shall—
+
+&emsp;"(1) formalize the Security, Suitability, and Credentialing Line of Business; and
+
+&emsp;"(2) submit to the appropriate congressional committee a report that describes plans—
+
+&emsp;&emsp;"(A) for oversight by the Office of Management and Budget of activities of the executive branch of the Government for personnel security, suitability, and credentialing;
+
+&emsp;&emsp;"(B) to designate enterprise shared services to optimize investments;
+
+&emsp;&emsp;"(C) to define and implement data standards to support common electronic access to critical Government records; and
+
+&emsp;&emsp;"(D) to reduce the burden placed on Government data providers by centralizing requests for records access and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
+
+"(d)
+
+Reciprocity Management.—Not later than two years after the date of the enactment of this Act, the Chair of the Performance Accountability Council shall ensure that—
+
+&emsp;"(1) a centralized system is available to serve as the reciprocity management system for the Federal Government; and
+
+&emsp;"(2) the centralized system described in paragraph (1) is aligned with, and incorporates results from, continuous evaluation and other enterprise reform initiatives.
+
+"(e)
+
+Reporting Requirements Implementation.—Not later than 180 days after the date of enactment of this Act, the Chair of the Performance Accountability Council, in coordination with the Security Executive Agent, the Suitability Executive Agent, and the Secretary of Defense, shall jointly develop a plan to—
+
+&emsp;"(1) implement the Security Executive Agent Directive on common, standardized employee and contractor security reporting requirements;
+
+&emsp;"(2) establish and implement uniform reporting requirements for employees and Federal contractors, according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
+
+&emsp;"(3) ensure that reported information is shared appropriately.
+
+"(f) Access to Criminal History Records for National Security and Other Purposes.—
+
+&emsp;"(1)
+
+Definition.—\[Amended section 9101 of Title 5, Government Organization and Employees.\]
+
+&emsp;"(2)
+
+Covered agencies.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(3)
+
+Applicable purposes of investigations.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(4)
+
+Biometric and biographic searches.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(5)
+
+Use of most cost-effective system.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(6)
+
+Sealed or expunged records; juvenile records.—
+
+&emsp;&emsp;"(A)
+
+In general.—\[Amended section 9101 of Title 5.\]
+
+&emsp;&emsp;"(B)
+
+Regulations.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Definition.—In this subparagraph, the terms 'Security Executive Agent' and 'Suitability Executive Agent' mean the Security Executive Agent and the Suitability Executive Agent, respectively, established under Executive Order 13467 (73 Fed. Reg. 38103) \[50 U.S.C. 3161 note\], or any successor thereto.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Development; promulgation.—The Security Executive Agent shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) not later than 45 days after the date of enactment of this Act \[Nov. 25, 2015\], and in conjunction with the Suitability Executive Agent and the Attorney General, begin developing regulations to implement the amendments made by subparagraph (A); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) not later than 120 days after the date of enactment of this Act, promulgate regulations to implement the amendments made by subparagraph (A).
+
+&emsp;&emsp;"(C)
+
+Sense of congress.—It is the sense of Congress that the Federal Government should not uniformly reject applicants for employment with the Federal Government or Federal contractors based on—
+
+&emsp;&emsp;&emsp;"(i) sealed or expunged criminal records; or
+
+&emsp;&emsp;&emsp;"(ii) juvenile records.
+
+&emsp;"(7)
+
+Interaction with law enforcement and intelligence agencies abroad.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(8)
+
+Clarification of security requirements for contractors conducting background investigations.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(9)
+
+Clarification regarding adverse actions.—\[Amended section 7512 of Title 5.\]
+
+&emsp;"(10)
+
+Annual report by suitability and security clearance performance accountability council.—\[Amended section 9101 of Title 5.\]
+
+&emsp;"(11)
+
+GAO report on enhancing interoperability and reducing redundancy in federal critical infrastructure protection access control, background check, and credentialing standards.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than\\ \[sic\] one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the background check, access control, and credentialing requirements of Federal programs for the protection of critical infrastructure and key resources.
+
+&emsp;&emsp;"(B)
+
+Contents.—The Comptroller General shall include in the report required under subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) a summary of the major characteristics of each such Federal program, including the types of infrastructure and resources covered;
+
+&emsp;&emsp;&emsp;"(ii) a comparison of the requirements, whether mandatory or voluntary in nature, for regulated entities under each such program to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) conduct background checks on employees, contractors, and other individuals;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) adjudicate the results of a background check, including the utilization of a standardized set of disqualifying offenses or the consideration of minor, non-violent, or juvenile offenses; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) establish access control systems to deter unauthorized access, or provide a security credential for any level of access to a covered facility or resource;
+
+&emsp;&emsp;&emsp;"(iii) a review of any efforts that the Screening Coordination Office of the Department of Homeland Security has undertaken or plans to undertake to harmonize or standardize background check, access control, or credentialing requirements for critical infrastructure and key resource protection programs overseen by the Department; and
+
+&emsp;&emsp;&emsp;"(iv) recommendations, developed in consultation with appropriate stakeholders, regarding—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) enhancing the interoperability of security credentials across critical infrastructure and key resource protection programs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) eliminating the need for redundant background checks or credentials across existing critical infrastructure and key resource protection programs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) harmonizing, where appropriate, the standards for identifying potentially disqualifying criminal offenses and the weight assigned to minor, nonviolent, or juvenile offenses in adjudicating the results of a completed background check; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the development of common, risk-based standards with respect to the background check, access control, and security credentialing requirements for critical infrastructure and key resource protection programs.
+
+"(g)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+&emsp;&emsp;"(B) the Select Committee on Intelligence and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+&emsp;&emsp;"(C) the Permanent Select Committee on Intelligence, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;"(2) the term 'Performance Accountability Council' means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) \[50 U.S.C. 3161 note\], or any successor thereto."
 
 #### Personnel Security
 
@@ -126,7 +326,7 @@ Elements.—In developing the strategy required by paragraph (1), the Secretary 
 
 &emsp;&emsp;&emsp;"(v) Records management for hiring and clearance decisions.
 
-&emsp;&emsp;"(B) Elimination or reduction, where possible, of the use of databases and information sources that cannot be accessed and processed automatically electronically, or modification of such databasesand information sources, if appropriate and cost-effective, to enable electronic access and processing.
+&emsp;&emsp;"(B) Elimination or reduction, where possible, of the use of databases and information sources that cannot be accessed and processed automatically electronically, or modification of such databases and information sources, if appropriate and cost-effective, to enable electronic access and processing.
 
 &emsp;&emsp;"(C) Access and analysis of government, publically available, and commercial data sources, including social media, that provide independent information pertinent to adjudication guidelines and termination standards to improve quality and timeliness, and reduce costs, of investigations and reinvestigations.
 
@@ -174,7 +374,7 @@ Objective of review.—The objective of the review required by paragraph (1) sha
 
 &emsp;&emsp;"(D) The extent to which agencies have developed and implemented outcome-focused performance measures to track the quality of security clearance investigations and any insights from these measures.
 
-&emsp;&emsp;"(E) The processes agencies have implemented for resolving incomplete or subpar investigations, and the actions taken against government employees and contractor personnel who have demonstrated a consistent failure to abide by quality assurance measures.
+&emsp;&emsp;"(E) The processes agencies have implemented for resolving incomplete or subpar investigations, andthe actions taken against government employees and contractor personnel who have demonstrated a consistent failure to abide by quality assurance measures.
 
 &emsp;"(3)
 
@@ -220,7 +420,7 @@ Initial meeting.—The task force shall convene its initial meeting not later th
 
 Duties.—The task force shall do the following:
 
-&emsp;&emsp;"(A) Analyze the degree to which State and local authorities comply with investigative requestsmade by Federal Government employees or contractor employees carrying out background investigations to determine an individual's suitability for access to classified information or secure government facilities, including the degree to which investigative requests are required but never formally requested.
+&emsp;&emsp;"(A) Analyze the degree to which State and local authorities comply with investigative requests made by Federal Government employees or contractor employees carrying out background investigations to determine an individual's suitability for access to classified information or secure government facilities, including the degree to which investigative requests are required but never formally requested.
 
 &emsp;&emsp;"(B) Analyze limitations on the access to public records provided by State and local authorities in response to investigative requests by Federal Government employees and contractor employees described in subparagraph (A), including, but not be limited to, limitations relating to budget and staffing constraints on State and local authorities, any procedural and legal obstacles impairing Federal access to State and local law enforcement records, or inadequate investigative procedural standards for background investigators.
 

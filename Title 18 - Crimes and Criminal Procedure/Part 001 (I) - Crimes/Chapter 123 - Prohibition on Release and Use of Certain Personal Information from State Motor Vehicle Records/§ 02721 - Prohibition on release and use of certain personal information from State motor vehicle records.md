@@ -14,7 +14,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(1) For use by any government agency, including any court or law enforcement agency, in carrying out its functions, or any private person or entity acting on behalf of a Federal, State, or local agency in carrying out its functions.
 
-&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft; motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research; and removal of non-owner records from the original owner records of motor vehicle manufacturers.
+&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft; motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research;and removal of non-owner records from the original owner records of motor vehicle manufacturers.
 
 &emsp;(3) For use in the normal course of business by a legitimate business or its agents, employees, or contractors, but only—
 

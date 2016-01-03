@@ -34,7 +34,7 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 #### (A) In general
 
-&emsp;&emsp;A partner who is not a notice partner (and not a member of a notice group described insubsection (b)(2) of section 6223) shall be bound by any settlement agreement—
+&emsp;&emsp;A partner who is not a notice partner (and not a member of a notice group described in subsection (b)(2) of section 6223) shall be bound by any settlement agreement—
 
 &emsp;&emsp;&emsp;(i) which is entered into by the tax matters partner, and
 
@@ -46,9 +46,17 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 651; amended Pub. L. 107–147, title IV, §416(d)(1)(A), Mar. 9, 2002, 116 Stat. 55.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c)(1), (2). Pub. L. 107–147 inserted "or the Attorney General (or his delegate)" after "Secretary" wherever appearing.
+
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 
 #### Effective Date of 2002 Amendment
 

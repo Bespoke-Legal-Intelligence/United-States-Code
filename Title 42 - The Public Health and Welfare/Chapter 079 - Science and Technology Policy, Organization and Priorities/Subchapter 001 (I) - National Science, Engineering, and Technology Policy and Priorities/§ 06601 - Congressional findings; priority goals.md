@@ -166,7 +166,7 @@ Term of President's Council of Advisors on Science and Technology extended until
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex.Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 13237
 
@@ -250,7 +250,9 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13539. President's Council of Advisors on Science and Technology
 
@@ -260,7 +262,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. The President's Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of not more than 21 members, one of whom shall be the Assistant to the President for Science and Technology (the "Science Advisor"), and 20 of whom shall include distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These nonfederal members shall have diverse perspectives and expertise in science, technology, and innovation. The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the nonfederal members to serve as a Co-Chair of the PCAST with the Science Advisor.
 
-Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policy that affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, directly at its meetings with the President and also through the Science Advisor, on matters involving science, technology, and innovation policy. This advice shall include, but not be limited to, policythat affects science, technology, and innovation, as well as scientific and technical information that is needed to inform public policy relating to the economy, energy, environment, public health, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
 
 (i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
 
@@ -304,19 +306,21 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
 
-Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary ofTransportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
+Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
 
 I have worked hard to restore trust and ensure openness in government. This memorandum will further our progress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
 
 In January 1994, I established the Advisory Committee on Human Radiation Experiments (the "Advisory Committee") to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects ("Recommendations for Balancing National Security Interests and the Rights of the Public," Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
-The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a "rare event" and that the "subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections." The Advisory Committee was concerned about "exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified." The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
+The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found,however, that classified human subjects research should be a "rare event" and that the "subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections." The Advisory Committee was concerned about "exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified." The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
 —obtain informed consent from all human subjects;
 

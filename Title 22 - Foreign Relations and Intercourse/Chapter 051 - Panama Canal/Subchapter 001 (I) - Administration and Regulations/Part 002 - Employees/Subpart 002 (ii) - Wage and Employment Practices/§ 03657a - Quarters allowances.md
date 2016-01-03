@@ -26,7 +26,7 @@ The amount of any quarters allowance granted to an employee under this section s
 
 &emsp;&emsp;(A) the actual expenses for rent and utilities incurred by the employee during such period while occupying quarters other than Government owned or leased quarters; or
 
-&emsp;&emsp;(B) the maximum amount which would be authorized for such employee with respect to such period under the Department of State Standardized Regulations (Government Civilians, Foreign Areas) if such employee were covered by those regulations;
+&emsp;&emsp;(B) the maximum amount which would be authorized for such employee with respect tosuch period under the Department of State Standardized Regulations (Government Civilians, Foreign Areas) if such employee were covered by those regulations;
 
 > &emsp;exceeds
 

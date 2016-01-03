@@ -2,7 +2,7 @@
 
 (a)
 
-Based on Urbanized Area Population.—Of the amount apportioned under subsection (h)(4) to carry out section 5307—
+Based on Urbanized Area Population.—Of the amount apportioned under subsection (h)(5) to carry out section 5307—
 
 &emsp;(1) 9.32 percent shall be apportioned each fiscal year only in urbanized areas with a population of less than 200,000 so that each of those areas is entitled to receive an amount equal to—
 
@@ -36,9 +36,9 @@ Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Pass
 
 &emsp;(C) Under subparagraph (A) of this paragraph, fixed guideway vehicle revenue or directional route miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
 
-&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
+&emsp;(D) A recipient's apportionment under subparagraph (A)(i) of this paragraph may not bereduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
 
-&emsp;(E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 22.27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
+&emsp;(E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
 
 (c)
 
@@ -60,7 +60,7 @@ Based on Bus Vehicle Revenue Miles and Passenger Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the most recent decennial census; and
 
-&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on populationweighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
+&emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
 
 &emsp;(2) 9.2 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
@@ -100,11 +100,15 @@ Period of Availability to Recipients.—An amount apportioned under this section
 
 Apportionments.—Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
 
-&emsp;(1) $30,000,000 for each fiscal year ending before October 1, 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015, shall be set aside to carry out section 5307(h);
+&emsp;(1) $30,000,000 shall be set aside each fiscal year to carry out section 5307(h);
 
 &emsp;(2) 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
 
-&emsp;(3) of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
+&emsp;(3) of amounts not apportioned under paragraphs (1) and (2)—
+
+&emsp;&emsp;(A) for fiscal years 2016 through 2018, 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i); and
+
+&emsp;&emsp;(B) for fiscal years 2019 and 2020, 2 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
 
 &emsp;(4) 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
 
@@ -152,7 +156,7 @@ Apportionment formula.—The amount to be apportioned under subsection (h)(3) sh
 
 &emsp;&emsp;(B)
 
-Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data fromthe national transit database used to calculate apportionments for that fiscal year under this section.
+Data used in formula.—The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
 
 (j)
 
@@ -170,7 +174,7 @@ Apportionment Formula.—The amounts apportioned under subsection (h)(2) shall b
 
 &emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478.)
 
 Historical and Revision Notes
 
@@ -314,7 +318,7 @@ In subsection (h), the words "in each fiscal year beginning after September 30, 
 
 In subsection (i), the words "the close of" are omitted as surplus.
 
-In subsection (j), the references to sections 5302(a)(8) and 5318 are added for clarity. The source provisions ofsections 5302(a)(8) and 5318, enacted by section 317 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Public Law 100–17, 101 Stat. 233), were not intended to come under the exclusion stated in 49 App.:1607a(e)(1). The words "condition, limitation, or other" and "for programs of projects" are omitted as surplus.
+In subsection (j), the references to sections 5302(a)(8) and 5318 are added for clarity. The source provisions of sections 5302(a)(8) and 5318, enacted by section 317 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Public Law 100–17, 101 Stat. 233), were not intended to come under the exclusion stated in 49 App.:1607a(e)(1). The words "condition, limitation, or other" and "for programs of projects" are omitted as surplus.
 
 In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
 
@@ -323,6 +327,22 @@ In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
 This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 840).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–94, §3014(1), substituted "subsection (h)(5)" for "subsection (h)(4)" in introductory provisions.
+
+Subsec. (b)(2)(E). Pub. L. 114–94, §3014(2), substituted "27 percent" for "22.27 percent".
+
+Subsec. (h)(1). Pub. L. 114–94, §3014(3)(A), added par. (1) and struck out former par. (1), which read as follows: "$30,000,000 for each fiscal year ending before October 1, 2015, and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be set aside to carry out section 5307(h);".
+
+Pub. L. 114–87 substituted "and $5,327,869 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
+
+Pub. L. 114–73 substituted "and $4,180,328 for the period beginning on October 1, 2015, and ending on November 20, 2015," for "and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015,".
+
+Pub. L. 114–41 substituted "for each fiscal year ending before October 1, 2015, and $2,377,049 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "for each fiscal year ending before October 1, 2014, and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
+
+Pub. L. 114–21 substituted "and $24,986,301 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+
+Subsec. (h)(3). Pub. L. 114–94, §3014(3)(B), added par. (3) and struck out former par. (3), which read as follows: "of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);".
 
 <b>2014</b>—Subsec. (h)(1). Pub. L. 113–159 inserted "for each fiscal year ending before October 1, 2014, and $19,972,603 for the period beginning on October 1, 2014, and ending on May 31, 2015," before "shall be set aside".
 
@@ -379,6 +399,10 @@ Subsec. (e)(1). Pub. L. 105–178, §3029(b)(11), substituted "subsections (a) a
 <b>1996</b>—Subsec. (b)(2)(A), (B). Pub. L. 104–287, §5(19)(A), inserted at end "An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph."
 
 Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

@@ -22,7 +22,7 @@ Limitation on Term of Appointment.—(1) Except as provided in paragraph (2), th
 
 (d)
 
-Limitations on Additional Payments.—(1) The total amount of the additional payments paid to an employee under this section for any 12-month period may not exceed the lesser of the following amounts:
+Limitations on Additional Payments.—(1) The total amount of the additional paymentspaid to an employee under this section for any 12-month period may not exceed the lesser of the following amounts:
 
 &emsp;(A) $50,000 in fiscal year 2004, which may be adjusted annually thereafter by the Secretary, with a percentage increase equal to one-half of 1 percentage point less than the percentage by which the Employment Cost Index, published quarterly by the Bureau of Labor Statistics, for the base quarter of the year before the preceding calendar year exceeds the Employment Cost Index for the base quarter of the second year before the preceding calendar year.
 

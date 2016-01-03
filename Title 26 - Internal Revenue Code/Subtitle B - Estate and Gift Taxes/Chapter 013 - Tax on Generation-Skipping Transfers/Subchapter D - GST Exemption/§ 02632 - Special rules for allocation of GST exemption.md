@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes a direct skip during his lifetime, any unused portion of such individual's GST exemption shall be allocated tothe property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the direct skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes a direct skip during his lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the direct skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) any or all transfers made by such individual to a particular trust, and
 
-&emsp;&emsp;&emsp;(ii) may elect to treat any trust as a GST trust for purposes of this subsectionwith respect to any or all transfers made by such individual to such trust.
+&emsp;&emsp;&emsp;(ii) may elect to treat any trust as a GST trust for purposes of this subsection with respect to any or all transfers made by such individual to such trust.
 
 #### (B) Elections
 

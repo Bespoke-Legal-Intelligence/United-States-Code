@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
-&emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
+&emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms todistribute stocks to replace those stocks lost as a result of conflict or drought;
 
 &emsp;&emsp;(F) mine awareness and demining programs and programs to assist mine victims, war orphans, and widows;
 
@@ -106,7 +106,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
-&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory natureof governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
+&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
 &emsp;&emsp;&emsp;(vi) support for establishment of a central bank and central budgeting authority;
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
 
-&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom,freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
 
 #### (B) Availability of funds
 
@@ -262,7 +262,7 @@ Subsec. (a)(3)(A)(i). Pub. L. 108–458, §7104(j)(1)(A), substituted "promote a
 
 Subsec. (a)(3)(A)(ii). Pub. L. 108–458, §7104(j)(1)(B), inserted ", and to create special counternarcotics courts, prosecutors, and places of incarceration" before semicolon at end.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end ", in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training ininternationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units".
+Subsec. (a)(3)(A)(iii). Pub. L. 108–458, §7104(j)(1)(C), inserted before semicolon at end ", in particular, notwithstanding section 2420 of this title, by providing non-lethal equipment, training (including training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy), and payments, during fiscal years 2005 through 2008, for salaries for special counternarcotics police and supporting units".
 
 Subsec. (a)(3)(A)(vi). Pub. L. 108–458, §7104(j)(1)(D)–(F), added cl. (vi).
 
@@ -277,6 +277,62 @@ Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Plan Required To Promote Security of Afghan Women and Girls
+
+Pub. L. 114–92, div. A, title XV, §1531(c)(2), Nov. 25, 2015, 129 Stat. 1089, provided that:
+
+"(A)
+
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+
+"(B)
+
+Training.—The Secretary of Defense, with the concurrence of the Secretary of State and working with the NATO-led Resolute Support mission, should encourage the Government of Afghanistan to develop—
+
+&emsp;"(i) measures for the evaluation of the effectiveness of existing training for Afghan National Security Forces on this issue;
+
+&emsp;"(ii) a plan to increase the number of female security officers specifically trained to address cases of gender-based violence, including ensuring the Afghan National Police's Family Response Units have the necessary resources and are available to women across Afghanistan;
+
+&emsp;"(iii) mechanisms to enhance the capacity for units of National Police's Family Response Units to fulfill their mandate as well as indicators measuring the operational effectiveness of these units;
+
+&emsp;"(iv) a plan to address the development of accountability mechanisms for Afghanistan National Army and Afghanistan National Police personnel who violate codes of conduct related to the human rights of women and girls, including female members of the Afghan National Security Forces; and
+
+&emsp;"(v) a plan to develop training for the Afghanistan National Army and the Afghanistan National Police to increase awareness and responsiveness among Afghanistan National Army and Afghanistan National Police personnel regarding the unique security challenges women confront when serving in those forces.
+
+"(C)
+
+Enrollment and treatment.—The Secretary of Defense, with the concurrence of the Secretary of State and in cooperation with the Afghan Ministries of Defense and Interior, shall seek to assist the Government of Afghanistan in including as part of the plan developed under subparagraph (A) the development and implementation of a plan to increase the number of female members of the Afghanistan National Army and the Afghanistan National Police and to promote their equal treatment, including through such steps as providing appropriate equipment, modifying facilities, and ensuring literacy and gender awareness training for recruits.
+
+"(D)
+
+Allocation of funds.—
+
+&emsp;"(i)
+
+In general.—Of the funds available to the Department of Defense for the Afghan Security Forces Fund for fiscal year 2016, it is the goal that $25,000,000, but in no event less than $10,000,000, shall be used for—
+
+&emsp;&emsp;"(I) the recruitment, integration, retention, training, and treatment of women in the Afghan National Security Forces; and
+
+&emsp;&emsp;"(II) the recruitment, training, and contracting of female security personnel for future elections.
+
+&emsp;"(ii)
+
+Types of programs and activities.—Such programs and activities may include—
+
+&emsp;&emsp;"(I) efforts to recruit women into the Afghan National Security Forces, including the special operations forces;
+
+&emsp;&emsp;"(II) programs and activities of the Afghan Ministry of Defense Directorate of Human Rights and Gender Integration and the Afghan Ministry of Interior Office of Human Rights, Gender and Child Rights;
+
+&emsp;&emsp;"(III) development and dissemination of gender and human rights educational and training materials and programs within the Afghan Ministry of Defense and the Afghan Ministry of Interior;
+
+&emsp;&emsp;"(IV) efforts to address harassment and violence against women within the Afghan National Security Forces;
+
+&emsp;&emsp;"(V) improvements to infrastructure that address the requirements of women serving in the Afghan National Security Forces, including appropriate equipment for female security and police forces, and transportation for policewomen to their station;
+
+&emsp;&emsp;"(VI) support for Afghanistan National Police Family Response Units; and
+
+&emsp;&emsp;"(VII) security provisions for high-profile female police and army officers."
 
 #### Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan
 
@@ -452,7 +508,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 "Congress makes the following findings:
 
-&emsp;"(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
+&emsp;"(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedomof expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
 
 &emsp;"(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
 
@@ -480,7 +536,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), the President is authorized, on such terms and conditionsas the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
+In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
 
 "(b)
 

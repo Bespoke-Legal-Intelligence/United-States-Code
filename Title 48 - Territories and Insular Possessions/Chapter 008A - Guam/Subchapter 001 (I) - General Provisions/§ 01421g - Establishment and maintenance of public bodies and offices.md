@@ -14,7 +14,7 @@ The Government of Guam may by law establish an Office of Public Prosecutor and a
 
 #### (d) Attorney General
 
-(1) The Attorney General of Guam shall be the Chief Legal Officer of the Government of Guam. At such time as the Office of the Attorney General of Guam shall next become vacant, the Attorney General of Guam shall be appointed by the Governor of Guam with the advice and consent of the legislature, and shall serve at the pleasure of the Governor of Guam.
+(1) The Attorney General of Guam shall be the Chief Legal Officer of the Government of Guam.At such time as the Office of the Attorney General of Guam shall next become vacant, the Attorney General of Guam shall be appointed by the Governor of Guam with the advice and consent of the legislature, and shall serve at the pleasure of the Governor of Guam.
 
 (2) Instead of an appointed Attorney General, the legislature may, by law, provide for the election of the Attorney General of Guam by the qualified voters of Guam in general elections after 1998 in which the Governor of Guam is elected. The term of an elected Attorney General shall be 4 years. The Attorney General may be removed by the people of Guam according to the procedures specified in section 1422d of this title or may be removed for cause in accordance with procedures established by the legislature in law. A vacancy in the office of an elected Attorney General shall be filled—
 

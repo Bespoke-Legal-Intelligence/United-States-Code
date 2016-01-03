@@ -1,6 +1,6 @@
 ### §305502. Cooperative agreement to operate museum
 
-To provide a national center to commemorate and encourage the building arts and to preserve and maintain a nationally significant building that exemplifies the great achievements of the building arts in the United States, the Secretary and the Administrator of General Services shall enter into a cooperative agreement with the Committee for the operation of a NationalBuilding Museum in the Federal building located in the block bounded by Fourth Street, Fifth Street, F Street, and G Street, Northwest in Washington, District of Columbia. The cooperative agreement shall include provisions that—
+To provide a national center to commemorate and encourage the building arts and to preserve and maintain a nationally significant building that exemplifies the great achievements of the building arts in the United States, the Secretary and the Administrator of General Services shall enter into a cooperative agreement with the Committee for the operation of a National Building Museum in the Federal building located in the block bounded by Fourth Street, Fifth Street, F Street, and G Street, Northwest in Washington, District of Columbia. The cooperative agreement shall include provisions that—
 
 &emsp;(1) make the site available to the Committee without charge;
 

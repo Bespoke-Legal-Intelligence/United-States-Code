@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+Except as provided in subsections (b) and (c), this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 
 #### (b) General exceptions
 
@@ -12,7 +12,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(A) subsection (c) or (e) of section 1681b of this title, relating to the prescreening of consumer reports;
 
-&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reportingagency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
+&emsp;&emsp;(B) section 1681i of this title, relating to the time by which a consumer reporting agency must take any action, including the provision of notification to a consumer or other person, in any procedure related to the disputed accuracy of information in a consumer's file, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
@@ -84,7 +84,7 @@ Notwithstanding any definition of the term "firm offer of credit or insurance" (
 
 #### (d) Limitations
 
-Subsections (b) and (c) of this section do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
+Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
 (Pub. L. 90–321, title VI, §625, formerly §622, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1136; renumbered §623, Pub. L. 102–537, §2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered §624 and amended Pub. L. 104–208, div. A, title II, §§2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452; renumbered §625 and amended Pub. L. 108–159, title I, §151(a)(2), title II, §§212(e), 214(a)(1), (c)(2), title III, §311(b), title VII, §711, Dec. 4, 2003, 117 Stat. 1964, 1977, 1980, 1983, 1989, 2011.)
 
@@ -108,7 +108,7 @@ Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and st
 
 Subsec. (b)(5). Pub. L. 108–159, §711(2), added par. (5).
 
-Subsec. (d). Pub. L. 108–159, §711(3), substituted "(c) of this section" for "(c) of this section—", struck out par. (1) designation before "do not affect", substituted "1996." for "1996; and", and struck out par. (2) which read as follows:
+Subsec. (d). Pub. L. 108–159, §711(3), substituted "(b) and (c)" for "(b) and (c)—", struck out par. (1) designation before "do not affect", substituted "1996." for "1996; and", and struck out par. (2) which read as follows:
 
 "(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 108–159, §711(3), substituted "(c) of this section" for 
 
 &emsp;"(C) gives greater protection to consumers than is provided under this subchapter."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c) of this section, this subchapter" for "This subchapter".
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

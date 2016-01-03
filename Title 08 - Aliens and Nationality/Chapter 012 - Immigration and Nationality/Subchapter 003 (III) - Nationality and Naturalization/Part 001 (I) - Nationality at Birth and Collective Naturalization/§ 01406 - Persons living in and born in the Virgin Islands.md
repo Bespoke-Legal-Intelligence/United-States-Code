@@ -10,7 +10,7 @@
 
 (4) All natives of the Virgin Islands of the United States who, on June 28, 1932, were residing in continental United States, the Virgin Islands of the United States, Puerto Rico, the Canal Zone, or any other insular possession or territory of the United States, and who, on June 28, 1932, were not citizens or subjects of any foreign country, regardless of their place of residence on January 17, 1917.
 
-(b) All persons born in the Virgin Islands of the United States on or after January 17, 1917, and prior to February 25, 1927, and subject to the jurisdiction of the United States are declared to be citizens of the United States as of February 25, 1927; and all persons born in those islands on or after February 25, 1927, and subject to the jurisdiction of the United States, are declared to be citizens of the United States at birth.
+(b) All persons born in the Virgin Islands of the United States on or after January 17, 1917, and prior to February 25, 1927, and subject to the jurisdiction of the United States are declared to be citizens of the United States as of February25, 1927; and all persons born in those islands on or after February 25, 1927, and subject to the jurisdiction of the United States, are declared to be citizens of the United States at birth.
 
 (June 27, 1952, ch. 477, title III, ch. 1, §306, 66 Stat. 237.)
 

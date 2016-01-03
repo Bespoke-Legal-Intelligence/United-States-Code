@@ -78,7 +78,7 @@ An individual shall be deemed to be an eligible individual for purposes of this 
 
 &emsp;&emsp;&emsp;(i) the provision by the issuer or plan of money or other financial consideration for disenrolling from the coverage; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceededthe premium required by the program (adjusted based on the age factors applied to the prior coverage)—
+&emsp;&emsp;&emsp;(ii) in the case of an individual whose premium for the prior coverage exceeded the premium required by the program (adjusted based on the age factors applied to the prior coverage)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the prior coverage is a policy that is no longer being actively marketed (as defined by the Secretary) by the issuer; or
 

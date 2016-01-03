@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b) of this section, cigarettes or smokeless tobacco products may be imported into the United States only if—
+Except as provided in subsection (b), cigarettes or smokeless tobacco products may be imported into the United States only if—
 
 &emsp;(1) the original manufacturer of those cigarettes or smokeless tobacco products has timely submitted, or has certified that it will timely submit, to the Secretary of Health and Human Services the lists of the ingredients added to the tobacco in the manufacture of such cigarettes or smokeless tobacco products as described in section 1335a of title 15 or section 4403 of title 15, as the case may be;
 
@@ -12,15 +12,15 @@ Except as provided in subsection (b) of this section, cigarettes or smokeless to
 
 &emsp;&emsp;(B) any other pack, box, carton, or container of any kind in which those cigarettes or smokeless tobacco products are to be offered for sale or otherwise distributed to consumers;
 
-&emsp;(3) the manufacturer or importer of those cigarettes or smokeless tobacco products is in compliance with respect to those cigarettes or smokeless tobacco products being importedinto the United States with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be;
+&emsp;(3) the manufacturer or importer of those cigarettes or smokeless tobacco products is in compliance with respect to those cigarettes or smokeless tobacco products being imported into the United States with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be;
 
 &emsp;(4) if such cigarettes or smokeless tobacco products bear a United States trademark registered for such cigarettes or smokeless tobacco products, the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-&emsp;(5) the importer has submitted at the time of entry all of the certificates described in subsection (c) of this section.
+&emsp;(5) the importer has submitted at the time of entry all of the certificates described in subsection (c).
 
 #### (b) Exemptions
 
-Cigarettes or smokeless tobacco products satisfying the conditions of any of the following paragraphs shall not be subject to the requirements of subsection (a) of this section:
+Cigarettes or smokeless tobacco products satisfying the conditions of any of the followingparagraphs shall not be subject to the requirements of subsection (a):
 
 #### (1) Personal-use cigarettes or smokeless tobacco products
 
@@ -36,13 +36,13 @@ Cigarettes or smokeless tobacco products satisfying the conditions of any of the
 
 &emsp;&emsp;(A) for which the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
+&emsp;&emsp;(B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a), and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
 
 > For purposes of this section, a trademark is registered in the United States if it is registered in the United States Patent and Trademark Office under the provisions of title I of the Act of July 5, 1946 \[15 U.S.C. 1051 et seq.\] (popularly known as the "Trademark Act of 1946"), and a copy of the certificate of registration of such mark has been filed with the Secretary. The Secretary shall make available to interested parties a current list of the marks so filed.
 
 #### (c) Customs certifications required for cigarette or smokeless tobacco product imports
 
-The certificates that must be submitted by the importer of cigarettes or smokeless tobacco products at the time of entry in order to comply with subsection (a)(5) of this section are—
+The certificates that must be submitted by the importer of cigarettes or smokeless tobacco products at the time of entry in order to comply with subsection (a)(5) are—
 
 &emsp;(1) a certificate signed by the manufacturer of such cigarettes or smokeless tobacco products or an authorized official of such manufacturer stating under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that such manufacturer has timely submitted, and will continue to submit timely, to the Secretary of Health and Human Services the ingredient reporting information required by section 1335a of title 15 or section 4403 of title 15, as the case may be;
 
@@ -56,7 +56,7 @@ The certificates that must be submitted by the importer of cigarettes or smokele
 
 &emsp;&emsp;(B) with respect to those cigarettes or smokeless tobacco products being imported into the United States, such importer has complied, and will continue to comply, with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be; and
 
-&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by theowner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettes or smokeless tobacco products into the United States; and
+&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
 &emsp;(B) a certificate signed by the importer or an authorized official of such importer stating under penalties of perjury that the consent referred to in subparagraph (A) is accurate, remains in effect, and has not been withdrawn.
 

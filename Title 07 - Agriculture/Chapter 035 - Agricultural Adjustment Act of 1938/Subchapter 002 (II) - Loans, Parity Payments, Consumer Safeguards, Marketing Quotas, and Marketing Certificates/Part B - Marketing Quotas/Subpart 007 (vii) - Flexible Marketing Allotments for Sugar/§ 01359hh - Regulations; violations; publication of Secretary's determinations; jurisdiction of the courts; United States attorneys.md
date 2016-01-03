@@ -16,7 +16,7 @@ Each determination issued by the Secretary to establish, adjust, or suspend allo
 
 #### (1) Jurisdiction of courts
 
-&emsp;The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, this subpart or any regulation issued thereunder.
+&emsp;The several district courts of the United States are vested with jurisdiction specificallyto enforce, and to prevent and restrain any person from violating, this subpart or any regulation issued thereunder.
 
 #### (2) United States attorneys
 
@@ -30,5 +30,5 @@ The remedies and penalties provided for in this subpart shall be in addition to,
 
 #### Prior Provisions
 
-A prior section 1359hh, act Feb. 16, 1938, ch. 30, title III, §359h, as added Pub. L. 101–624, title IX, §902, Nov.28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, §111(j), Dec. 13, 1991, 105 Stat. 1836, related to regulations, violations, publication of Secretary's determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359hh, act Feb. 16, 1938, ch. 30, title III, §359h, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3486; amended Pub. L. 102–237, title I, §111(j), Dec. 13, 1991, 105 Stat. 1836, related to regulations, violations, publication of Secretary's determinations, jurisdiction of courts, and United States attorneys, prior to the general amendment of this subpart by Pub. L. 107–171.
 

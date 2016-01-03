@@ -34,7 +34,7 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: "Congress
 
 &emsp;"(3) The 2000 Washington Kids Count survey conducted by the University of Washington reported that students whose peers have little or no involvement with drinking and drugs have higher math and reading scores than students whose peers had low level drinking or drug use.
 
-&emsp;"(4) Substance abuse prevention works. In 1999, only 10 percent of teens saw marijuana users as popular, compared to 17 percent in 1998 and 19 percent in 1997. The rate of past-month use of any drug among 12- to 17-year-olds declined 26 percent between 1997 and 1999. Marijuana use for sixth through eighth graders is at the lowest point in 5 years, as is use of cocaine, inhalants, and hallucinogens.
+&emsp;"(4) Substance abuse prevention works. In 1999, only 10 percent of teens saw marijuana users as popular, compared to 17 percent in 1998 and 19 percent in 1997. The rate of past-month use of any drug among12- to 17-year-olds declined 26 percent between 1997 and 1999. Marijuana use for sixth through eighth graders is at the lowest point in 5 years, as is use of cocaine, inhalants, and hallucinogens.
 
 &emsp;"(5) Community Anti-Drug Coalitions throughout the United States are successfully developing and implementing comprehensive, long-term strategies to reduce substance abuse among youth on a sustained basis. For example:
 

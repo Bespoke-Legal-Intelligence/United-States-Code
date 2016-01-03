@@ -44,7 +44,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on the Commission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
+&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on theCommission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
 
 #### (B) Presidential appointments
 

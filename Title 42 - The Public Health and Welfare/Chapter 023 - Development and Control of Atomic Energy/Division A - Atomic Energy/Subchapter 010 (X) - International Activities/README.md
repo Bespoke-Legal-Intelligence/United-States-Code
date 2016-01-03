@@ -28,3 +28,4 @@
 - [&sect; 02160b - Authority to suspend nuclear cooperation with nations which have not ratified the Convention on the Physical Security of Nuclear Material](%C2%A7%2002160b%20-%20Authority%20to%20suspend%20nuclear%20cooperation%20with%20nations%20which%20have%20not%20ratified%20the%20Convention%20on%20the%20Physical%20Security%20of%20Nuclear%20Material.md)
 - [&sect; 02160c - Consultation with Department of Defense concerning certain exports and subsequent arrangements](%C2%A7%2002160c%20-%20Consultation%20with%20Department%20of%20Defense%20concerning%20certain%20exports%20and%20subsequent%20arrangements.md)
 - [&sect; 02160d - Further restrictions on exports](%C2%A7%2002160d%20-%20Further%20restrictions%20on%20exports.md)
+- [&sect; 02160e - Congressional review and oversight of agreements with Iran](%C2%A7%2002160e%20-%20Congressional%20review%20and%20oversight%20of%20agreements%20with%20Iran.md)

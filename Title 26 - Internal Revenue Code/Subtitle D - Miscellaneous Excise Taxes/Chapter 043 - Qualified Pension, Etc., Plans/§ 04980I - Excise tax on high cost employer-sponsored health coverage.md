@@ -86,9 +86,9 @@ For purposes of this section—
 
 #### (v) Subsequent years
 
-&emsp;&emsp;&emsp;In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as in effect for the calendar year preceding such year, increased by an amount equal to the product of—
+&emsp;&emsp;&emsp;In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
 
-&emsp;&emsp;&emsp;&emsp;(I) such amount as so in effect, multiplied by
+&emsp;&emsp;&emsp;&emsp;(I) such amount as so determined, multiplied by
 
 &emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for "1992" in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (B) Special rule for multiemployer plans
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage made available to employees through a multiemployer plan (as defined in section 414(f)), the plan sponsor shall make the calculations, and provide the notice, required under subparagraph (A).
+&emsp;&emsp;In the case of applicable employer-sponsored coverage made available to employeesthrough a multiemployer plan (as defined in section 414(f)), the plan sponsor shall make the calculations, and provide the notice, required under subparagraph (A).
 
 #### (d) Applicable employer-sponsored coverage; cost
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (C) Waiver by Secretary
 
-&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to theextent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to the extent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (f) Other definitions and special rules
 
@@ -282,15 +282,15 @@ For purposes of this section—
 
 &emsp;All employers treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
-#### (10) Denial of deduction
+#### (10) Deductibility of tax
 
-&emsp;&emsp;<b>For denial of a deduction for the tax imposed by this section, see section 275(a)(6).</b>
+&emsp;Section 275(a)(6) shall not apply to the tax imposed by subsection (a).
 
 #### (g) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I, §1401(a), Mar. 30, 2010, 124 Stat. 1059.)
+(Added and amended Pub. L. 111–148, title IX, §9001(a), title X, §10901(a), (b), Mar. 23, 2010, 124 Stat. 847, 1015, 1016; Pub. L. 111–152, title I,§1401(a), Mar. 30, 2010, 124 Stat. 1059; Pub. L. 114–113, div. P, title I, §§101(b), 102, Dec. 18, 2015, 129 Stat. 3037.)
 
 #### References in Text
 
@@ -303,6 +303,10 @@ Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to section 1002(16)(B) of Title 29, Labor.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(3)(C)(v). Pub. L. 114–113, §101(b), substituted "as determined for" for "as in effect" in introductory provisions and "as so determined" for "as so in effect" in subcl. (I).
+
+Subsec. (f)(10). Pub. L. 114–113, §102, amended par. (10) generally. Prior to amendment, text read as follows: "For denial of a deduction for the tax imposed by this section, see section 275(a)(6)."
 
 <b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–152, §1401(a)(1), designated existing provisions as cl. (i), inserted heading, substituted "Except as provided in clause (ii), the annual" for "The annual", and added cl. (ii).
 
@@ -342,11 +346,11 @@ Subsec. (f)(3). Pub. L. 111–148, §10901(a), inserted "individuals whose prima
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title X, §10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, §1401(b)(2), Mar. 30, 2010, 124 Stat. 1060, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 111–148, title X, §10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, §1401(b)(2), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, §101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2019."
 
 #### Effective Date
 
-Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, §101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2019."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

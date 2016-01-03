@@ -6,7 +6,7 @@
 
 &emsp;(1) adhere to a highly regimented schedule that provides the strict discipline, physical training, hard labor, drill, and ceremony characteristic of military basic training; and
 
-&emsp;(2) participate in appropriate job training and educational programs (including literacyprograms) and drug, alcohol, and other counseling programs.
+&emsp;(2) participate in appropriate job training and educational programs (including literacy programs) and drug, alcohol, and other counseling programs.
 
 (c) An inmate who in the judgment of the Director of the Bureau of Prisons has successfully completed the required period of shock incarceration shall remain in the custody of the Bureau for such period (not to exceed the remainder of the prison term otherwise required by law to be served by that inmate), and under such conditions, as the Bureau deems appropriate.
 

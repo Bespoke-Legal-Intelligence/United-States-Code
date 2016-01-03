@@ -56,7 +56,7 @@ Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out "of the military depa
 
 <b>1987</b>—Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), "; or" for ", or" at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for "; and" at end of par. (2).
 
-<b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
+<b>1980</b>—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in anyother provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–485 substituted "September 1980" for "September 1978".
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 
 #### Effective Date
 
-Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: "The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of Title 50, Appendix\] shall become effective July 1, 1971."
+Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: "The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of the former Appendix to Title 50, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of the former Appendix to Title 50\] shall become effective July 1, 1971."
 
 #### Savings Provision
 
@@ -88,7 +88,7 @@ In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amo
 
 #### Implementation of Subsection (b)
 
-Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives areport justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
+Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, provided that the Secretary of Defense could not implement subsec. (b) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the military departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 #### Pay Continuation
 

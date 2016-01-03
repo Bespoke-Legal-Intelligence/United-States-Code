@@ -6,7 +6,7 @@ Any person may apply to the Federal land manager for a permit to excavate or rem
 
 #### (b) Determinations by Federal land manager prerequisite to issuance of permit
 
-A permit may be issued pursuant to an application under subsection (a) of this section if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
+A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
 
 &emsp;(1) the applicant is qualified, to carry out the permitted activity,
 
@@ -18,7 +18,7 @@ A permit may be issued pursuant to an application under subsection (a) of this s
 
 #### (c) Notification to Indian tribes of possible harm to or destruction of sites having religious or cultural importance
 
-If a permit issued under this section may result in harm to, or destruction of, any religious or cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
+If a permit issued under this section may result in harm to, or destruction of, any religiousor cultural site, as determined by the Federal land manager, before issuing such permit, the Federal land manager shall notify any Indian tribe which may consider the site as having religious or cultural importance. Such notice shall not be deemed a disclosure to the public for purposes of section 470hh of this title.
 
 #### (d) Terms and conditions of permit
 

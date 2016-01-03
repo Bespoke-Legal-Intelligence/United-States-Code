@@ -6,7 +6,7 @@ In General.—There is a "Vessel Operations Revolving Fund" for use by the Secre
 
 (b)
 
-Relationship to Other Laws.—Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
+Relationship to Other Laws.—Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294),<sup>1</sup> apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 
 (c)
 
@@ -113,4 +113,10 @@ In subsection (e), in paragraph (1), the words "Comptroller General" are substit
 In subsection (f), the words "On and after June 20, 1956", and the last proviso in the 4th complete par. at 70 Stat. 319 (46 App. U.S.C. 1241b note), are omitted as obsolete.
 
 In subsection (g), the words "beginning July 1, 1956" and "after July 1, 1956" are omitted as obsolete.
+
+#### References in Text
+
+Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (b), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

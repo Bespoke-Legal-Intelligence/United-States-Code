@@ -56,7 +56,7 @@ The date of enactment of the Commemorative Works Clarification and Revision Act 
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–126, §203(g)(2), which directed substitution of "entitled 'Commemorative Areas Washington, DC and Environs', numbered 869/86501 B, and dated June 24, 2003" for "numbered 869/86581, and dated May 1, 1986", was executed by making the substitution for "numbered 869/86501, and dated May 1, 1986" to reflect the probable intent of Congress.
 
-Pub. L. 108–126, §203(g)(1), substituted "Secretary of the Interior or the Administrator of General Services\(as appropriate)" for "Secretary of the Interior and Administrator of General Services".
+Pub. L. 108–126, §203(g)(1), substituted "Secretary of the Interior or the Administrator of General Services (as appropriate)" for "Secretary of the Interior and Administrator of General Services".
 
 Subsec. (c). Pub. L. 108–126, §202(b), added subsec. (c).
 

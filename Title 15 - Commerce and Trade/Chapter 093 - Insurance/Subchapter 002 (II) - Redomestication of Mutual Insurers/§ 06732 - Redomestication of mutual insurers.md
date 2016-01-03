@@ -2,7 +2,7 @@
 
 #### (a) Redomestication
 
-A mutual insurer organized under the laws of any State may transfer its domicile to a transferee domicile as a step in a reorganization in which, pursuant to the laws of the transferee domicile and consistent with the standards in subsection (f) of this section, the mutual insurer becomes a stock insurer that is a direct or indirect subsidiary of a mutual holding company.
+A mutual insurer organized under the laws of any State may transfer its domicile to a transferee domicile as a step in a reorganization in which, pursuant to the laws of the transferee domicile and consistent with the standards in subsection (f), the mutual insurer becomes a stock insurer that is a direct or indirect subsidiary of a mutual holding company.
 
 #### (b) Resulting domicile
 
@@ -26,7 +26,7 @@ The certificate of authority, agents' appointments and licenses, rates, approval
 
 #### (e) Notice
 
-A redomesticating insurer shall give notice of the proposed transfer to the State insurance regulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
+A redomesticating insurer shall give notice of the proposed transfer to the State insuranceregulator of each licensed State and shall file promptly any resulting amendments to corporate documents required to be filed by a foreign licensed mutual insurer with the insurance regulator of each such licensed State.
 
 #### (f) Procedural requirements
 

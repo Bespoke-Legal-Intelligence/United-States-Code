@@ -34,7 +34,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans' mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is againthe principal residence of at least 1 of the mortgagors who received such financing.
+&emsp;&emsp;In the case of any residence with respect to which financing is provided from the proceeds of a tax-exempt qualified mortgage bond or qualified veterans' mortgage bond, if there is a continuous period of at least 1 year during which such residence is not the principal residence of at least 1 of the mortgagors who received such financing, then no deduction shall be allowed under this chapter for interest on such financing which accrues on or after the date such period began and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing.
 
 #### (B) Exception
 
@@ -174,7 +174,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;&emsp;(II) the fair market value of all assets transferred in exchange for such stock and reduced by the amount of all liabilities of the corporation which has made an election under this paragraph assumed by the transferee corporation in such transfer;
 
-&emsp;&emsp;&emsp;(iii) the holder of which has the right to require the transferee corporation to redeem on a date that is not later than 10 years after the date on which an election under this paragraph was made and pursuant to such election such stock was issued; and
+&emsp;&emsp;&emsp;(iii) the holder of which has the right to require the transferee corporation to redeem on a date that is not later than 10 years after the date on which an electionunder this paragraph was made and pursuant to such election such stock was issued; and
 
 &emsp;&emsp;&emsp;(iv) in respect of which, during the time such stock is outstanding, there is not outstanding any equity interest in the corporation having any liquidation, redemption or dividend rights in the corporation which are superior to those of such stock.
 
@@ -186,7 +186,7 @@ For purposes of this part and section 103—
 
 &emsp;&emsp;&emsp;(ii) for services as a member of the board of directors or as an officer of such transferee corporation.
 
-> &emsp;&emsp;For purposes of clause (ii), the term "officer" includes any individual having powersor responsibilities similar to those of officers.
+> &emsp;&emsp;For purposes of clause (ii), the term "officer" includes any individual having powers or responsibilities similar to those of officers.
 
 #### (F) Coordination with certain private foundation taxes
 

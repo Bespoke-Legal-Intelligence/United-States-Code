@@ -106,7 +106,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (2) Wildlife habitat
 
-&emsp;For each of fiscal years 2014 through 2018, at least 5 percent of the funds made available forpayments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
+&emsp;For each of fiscal years 2014 through 2018, at least 5 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
 
 #### (g) Wildlife habitat incentive program
 
@@ -186,7 +186,7 @@ The Organic Foods Production Act of 1990, referred to in subsec. (i)(5)(B), is t
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -198,7 +198,7 @@ A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. 
 
 Pub. L. 113–76 substituted "2015" for "2014".
 
-Subsec. (b)(2). Pub. L. 113–79, §2203(2), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "A contract under the program shall have a term that—
+Subsec. (b)(2). Pub. L. 113–79, §2203(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A contract under the program shall have a term that—
 
 &emsp;"(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
 

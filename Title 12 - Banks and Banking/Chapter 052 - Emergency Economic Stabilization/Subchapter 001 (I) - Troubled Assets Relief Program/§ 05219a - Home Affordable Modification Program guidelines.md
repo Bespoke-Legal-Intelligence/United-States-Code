@@ -16,7 +16,7 @@ The Secretary of the Treasury (in this section referred to as the "Secretary") s
 
 #### (3) Application
 
-&emsp;The Secretary shall make a reasonable effort to include on such World Wide Web site a method for homeowners to apply for a mortgage modification under the Home Affordable Modification Program.
+&emsp;The Secretary shall make a reasonable effort to include on such World Wide Web site amethod for homeowners to apply for a mortgage modification under the Home Affordable Modification Program.
 
 #### (c) Public availability of NPV methodology, computer model, and variables
 

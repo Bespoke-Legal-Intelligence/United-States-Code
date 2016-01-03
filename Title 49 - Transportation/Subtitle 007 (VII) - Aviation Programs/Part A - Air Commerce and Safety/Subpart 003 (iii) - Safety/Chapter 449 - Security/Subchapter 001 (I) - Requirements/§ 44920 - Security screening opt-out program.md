@@ -48,7 +48,7 @@ In general.—The Under Secretary may enter into a contract with a private scree
 
 &emsp;&emsp;(A) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter; and
 
-&emsp;&emsp;(B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are private screening companies owned and controlled by such citizens.
+&emsp;&emsp;(B) the private screening company is owned and controlled by a citizen of the United States, to the extent that the Under Secretary determines that there are privatescreening companies owned and controlled by such citizens.
 
 &emsp;(2)
 

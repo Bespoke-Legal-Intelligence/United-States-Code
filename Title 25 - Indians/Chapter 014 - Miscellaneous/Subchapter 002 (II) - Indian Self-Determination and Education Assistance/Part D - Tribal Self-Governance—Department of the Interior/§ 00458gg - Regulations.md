@@ -6,7 +6,7 @@ Not later than 90 days after October 25, 1994, at the request of a majority of t
 
 #### (b) Committee
 
-A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be representatives of Indian tribes with agreements under this part.
+A negotiated rulemaking committee established pursuant to section 565 of title 5 to carryout this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be representatives of Indian tribes with agreements under this part.
 
 #### (c) Adaptation of procedures
 

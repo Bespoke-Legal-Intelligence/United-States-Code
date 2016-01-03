@@ -44,7 +44,7 @@ Section 4 of the Act entitled "An Act to provide for the admission of the State 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General InsuranceFund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
+<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
 <b>2001</b>—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

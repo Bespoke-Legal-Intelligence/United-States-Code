@@ -176,7 +176,7 @@ Establishment of Commission.—There is hereby established a commission to be kn
 
 Membership.—(1) The commission shall be composed of 13 members, appointed as follows:
 
-&emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+&emsp;"(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shallbe a veteran who was awarded a decoration specified in paragraph (2).
 
 &emsp;"(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
 
@@ -294,7 +294,7 @@ Staff.—(1) The chairman of the commission may, without regard to the civil ser
 
 "(d)
 
-Detail of Government Employees.—Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
+Detail of Government Employees.—Upon request of the chairman of the commission, the head ofany Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
 
 "(e)
 

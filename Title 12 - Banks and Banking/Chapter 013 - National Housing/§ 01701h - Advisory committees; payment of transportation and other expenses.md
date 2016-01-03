@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development is authorized to establish such a
 
 #### References in Text
 
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 10486. Advisory Committee on Government Housing Policies and Programs
 

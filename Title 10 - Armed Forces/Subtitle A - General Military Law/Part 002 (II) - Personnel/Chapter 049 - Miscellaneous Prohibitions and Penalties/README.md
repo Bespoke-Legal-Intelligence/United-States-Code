@@ -39,7 +39,7 @@ Pub. L. 109–163, div. A, title VI, §662(c)(2), Jan. 6, 2006, 119 Stat. 3315, 
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1071(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276, added item 986.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title V, §549(a)(2), Oct. 5, 1999, 113 Stat. 611, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, substituted "Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies" for "Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts" in item 983.
+<b>1999</b>—Pub. L. 106–65, div. A, title V, §549(a)(2), Oct. 5, 1999, 113 Stat. 611, as amended by Pub. L. 107–107, div.A, title X, §1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, substituted "Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies" for "Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts" in item 983.
 
 <b>1998</b>—Pub. L. 105–261, div. A, title V, §569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 "Civilian employment: enlisted members".
 

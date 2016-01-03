@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services\(referred to in this section as the "Secretary"), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
+&emsp;Not later than 270 days after January 4, 2011, the Secretary of Health and Human Services (referred to in this section as the "Secretary"), taking into account recommendations from the Secretary of Agriculture and representatives of State departments of health and agriculture, shall establish pilot projects in coordination with the food industry to explore and evaluate methods to rapidly and effectively identify recipients of food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title.
 
 #### (2) Content
 
@@ -90,7 +90,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;Not later than 1 year after January 4, 2011, and thereafter as the Secretary determines necessary, the Secretary shall designate high-risk foods for which the additional recordkeeping requirements described in paragraph (1) are appropriate and necessary to protect the public health. Each such designation shall be based on—
 
-&emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into consideration foodborne illness data collected by the Centers for Disease Control and Prevention;
+&emsp;&emsp;&emsp;(i) the known safety risks of a particular food, including the history and severity of foodborne illness outbreaks attributed to such food, taking into considerationfoodborne illness data collected by the Centers for Disease Control and Prevention;
 
 &emsp;&emsp;&emsp;(ii) the likelihood that a particular food has a high potential risk for microbiological or chemical contamination or would support the growth of pathogenic microorganisms due to the nature of the food or the processes used to produce such food;
 
@@ -154,7 +154,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;&emsp;&emsp;&emsp;(I) the term "commingled raw agricultural commodity" means any commodity that is combined or mixed after harvesting, but before processing;
 
-&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of serious adverse health consequences or death; and
+&emsp;&emsp;&emsp;&emsp;(II) the term "commingled raw agricultural commodity" shall not include types of fruits and vegetables that are raw agricultural commodities for which the Secretary has determined that standards promulgated under section 350h of this title (as added by section 105) <sup>2</sup> would minimize the risk of seriousadverse health consequences or death; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the term "processing" means operations that alter the general state of the commodity, such as canning, cooking, freezing, dehydration, milling, grinding, pasteurization, or homogenization.
 
@@ -192,7 +192,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 &emsp;Not later than 1 year after the effective date of the final rule promulgated under subsection (d)(1), the Comptroller General of the United States shall submit to Congress a report, taking into consideration the costs of compliance and other regulatory burdens on small businesses and Federal, State, and local food safety practices and requirements, that evaluates the public health benefits and risks, if any, of limiting—
 
-&emsp;&emsp;(A) the product tracing requirements under subsection (d) to foods identifiedunder paragraph (2) of such subsection, including whether such requirements provide adequate assurance of traceability in the event of intentional adulteration, including by acts of terrorism; and
+&emsp;&emsp;(A) the product tracing requirements under subsection (d) to foods identified under paragraph (2) of such subsection, including whether such requirements provide adequate assurance of traceability in the event of intentional adulteration, including by acts of terrorism; and
 
 &emsp;&emsp;(B) the participation of restaurants in the recordkeeping requirements.
 

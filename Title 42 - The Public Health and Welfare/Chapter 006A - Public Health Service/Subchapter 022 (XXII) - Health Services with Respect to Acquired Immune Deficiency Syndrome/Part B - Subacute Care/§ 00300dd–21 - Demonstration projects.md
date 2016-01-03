@@ -4,7 +4,7 @@
 
 As used in this section:
 
-&emsp;(1) The term "individuals infected with the etiologic agent for acquired immune deficiency syndrome" means individuals who have a disease, or are recovering from a disease, attributable to the infection of such individuals with such etiologic agent, and as a result of the effects of such disease, are in need of subacute-care services.
+&emsp;(1) The term "individuals infected with the etiologic agent for acquired immune deficiency syndrome" means individuals who havea disease, or are recovering from a disease, attributable to the infection of such individuals with such etiologic agent, and as a result of the effects of such disease, are in need of subacute-care services.
 
 &emsp;(2) The term "subacute care" means medical and health care services that are required for individuals recovering from acute care episodes that are less intensive than the level of care provided in acute-care hospitals, and includes skilled nursing care, hospice care, and other types of health services provided in other long-term-care facilities.
 
@@ -86,7 +86,7 @@ The Secretary shall enter into an agreement with the Secretary of the Department
 
 <b>1991</b>—Subsec. (h). Pub. L. 102–83 substituted "section 1720 of title 38" for "section 620 of title 38".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted " 'individuals infected with the etiologic agent for acquired immune deficiency syndrome' means individuals who" for " 'patients infected with the human immunodeficiency virus' means persons who" and "such individuals with such etiologic agent" for "such person with the human immunodeficiency virus".
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–690, §2618(h)(1), substituted " 'individuals infected with the etiologic agentfor acquired immune deficiency syndrome' means individuals who" for " 'patients infected with the human immunodeficiency virus' means persons who" and "such individuals with such etiologic agent" for "such person with the human immunodeficiency virus".
 
 Subsec. (a)(2). Pub. L. 100–690, §2618(h)(2), substituted "individuals" for "persons".
 

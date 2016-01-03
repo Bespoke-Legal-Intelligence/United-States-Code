@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of theFoundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
+&emsp;&emsp;(i) Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
@@ -158,7 +158,7 @@ In subsec. (h), "section 10101 of title 36" substituted for "the Act entitled 'A
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee onFinancial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

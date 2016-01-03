@@ -38,7 +38,7 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (1) In general
 
-&emsp;Any person that violates, through any act or omission, any provision of Federal consumer financial law shall forfeit and pay a civil penalty pursuant to this subsection.
+&emsp;Any person that violates, through any act or omission, any provision of Federal consumerfinancial law shall forfeit and pay a civil penalty pursuant to this subsection.
 
 #### (2) Penalty amounts
 
@@ -52,7 +52,7 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), for any person that knowingly violates aFederal consumer financial law, a civil penalty may not exceed $1,000,000 for each day during which such violation continues.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), for any person that knowingly violates a Federal consumer financial law, a civil penalty may not exceed $1,000,000 for each day during which such violation continues.
 
 #### (3) Mitigating factors
 

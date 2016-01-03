@@ -32,5 +32,5 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §575(b)\], struck ou
 
 Amendment by section 1 \[\[div. A\], title V, §575(b)\] of Pub. L. 106–398, applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 \[\[div. A\], title V, §575(c)\] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that theamendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
 

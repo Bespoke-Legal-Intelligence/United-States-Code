@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 &emsp;"(1) the United States faces an energy shortage arising from increasing demand for energy, particularly for oil and natural gas, and insufficient domestic supplies of oil and natural gas to satisfy that demand;
 
-&emsp;"(2) unless effective measures are promptly taken by the Federal Government and other users of energy to reduce the rate of growth of demand for energy, the United States will become increasingly dependent on the world oil market, increasingly vulnerable to interruptions of foreign oil supplies, and unable to provide the energy to meet future needs; and
+&emsp;"(2) unless effective measures are promptly taken by the Federal Government and other users of energy to reduce the rate of growth of demand for energy, the United States will become increasingly dependent on the world oil market, increasingly vulnerable tointerruptions of foreign oil supplies, and unable to provide the energy to meet future needs; and
 
 &emsp;"(3) all sectors of our Nation's economy must begin immediately to significantly reduce the demand for nonrenewable energy resources such as oil and natural gas by implementing and maintaining effective conservation measures for the efficient use of these and other energy sources."
 

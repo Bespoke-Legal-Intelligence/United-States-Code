@@ -14,7 +14,7 @@ For the purpose of providing the assistance described in subsection (a), funds a
 
 The Peace Corps Act, referred to in subsec. (b), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Migration and Refugee Assistance Act of 1962, referred to in subsec. (b), is Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, which is classified principally to chapter 36 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Migration and Refugee Assistance Act of 1962, referred to in subsec. (b), is Pub. L. 87–510, June 28, 1962,76 Stat. 121, as amended, which is classified principally to chapter 36 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The United States Information and Education Exchange Act of 1948, referred to in subsec. (b), probably means the United States Information and Educational Exchange Act of 1948, which is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, and is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 

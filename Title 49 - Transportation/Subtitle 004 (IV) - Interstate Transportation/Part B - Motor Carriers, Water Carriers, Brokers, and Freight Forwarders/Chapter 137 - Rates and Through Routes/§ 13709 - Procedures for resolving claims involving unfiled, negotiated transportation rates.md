@@ -24,7 +24,7 @@ In general.—When a claim is made by a motor carrier of property (other than a 
 
 &emsp;(2)
 
-Forum.—If there is a dispute as to the showing under paragraph (1)(A), such dispute shall be resolved by the court in which the claim is brought. If there is a dispute as to the showing under paragraph (1)(B), such dispute shall be resolved by the Board. Pending the resolution of any such dispute, the person shall not have to pay any additional compensation to the carrier or freight forwarder.
+Forum.—If there is a dispute as to the showing under paragraph (1)(A), such dispute shall be resolved by the court in which the claim is brought. If there is a dispute as to the showing under paragraph (1)(B), such dispute shall be resolved by the Board. Pending the resolution of any such dispute, the personshall not have to pay any additional compensation to the carrier or freight forwarder.
 
 &emsp;(3)
 
@@ -134,5 +134,5 @@ Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted "January 1, 1996" for "t
 
 #### Abolition of Interstate Commerce Commission
 
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 

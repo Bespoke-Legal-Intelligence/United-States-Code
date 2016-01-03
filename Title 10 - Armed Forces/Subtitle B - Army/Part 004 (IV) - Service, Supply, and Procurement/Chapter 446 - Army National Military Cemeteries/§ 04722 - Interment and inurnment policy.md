@@ -16,7 +16,7 @@ Covered Persons.—Except as provided in subsection (d), the persons whose remai
 
 (d)
 
-Exceptions.—The remains of a person described in subsection (c) may not be removedfrom one of the Cemeteries under subsection (b) if the primary person eligible for burial in the Cemeteries is a person—
+Exceptions.—The remains of a person described in subsection (c) may not be removed from one of the Cemeteries under subsection (b) if the primary person eligible for burial in the Cemeteries is a person—
 
 &emsp;(1) who is missing in action;
 

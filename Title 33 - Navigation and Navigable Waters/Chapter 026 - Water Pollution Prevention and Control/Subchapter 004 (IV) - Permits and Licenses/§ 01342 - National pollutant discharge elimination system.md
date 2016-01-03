@@ -44,7 +44,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (6) To insure that no permit will be issued if, in the judgment of the Secretary of the Army acting through the Chief of Engineers, after consultation with the Secretary of the department in which the Coast Guard is operating, anchorage and navigation of any of the navigable waters would be substantially impaired thereby;
 
-(7) To abate violations of the permit or the permit program, including civil and criminalpenalties and other ways and means of enforcement;
+(7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
 
 (8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
@@ -124,7 +124,7 @@ NPDES permit requirements for silvicultural activities.—The Administrator shal
 
 Other requirements.—Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under section 1344 of this title, existing permitting requirements under section 1342 of this title, or from any other federal law.
 
-&emsp;(C) The authorization provided in Section <sup>1</sup> 1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) <sup>2</sup> of this title for the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title.
+&emsp;(C) The authorization provided in Section <sup>1</sup> 1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6) <sup>2</sup> of this title for the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title, or to any other limitations that might be deemedto apply to the silviculture activities listed in 1342(l)(3)(A) <sup>2</sup> of this title.
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
@@ -244,7 +244,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (6) Regulations
 
-&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. Theprogram may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
+&emsp;Not later than October 1, 1993, the Administrator, in consultation with State and local officials, shall issue regulations (based on the results of the studies conducted under paragraph (5)) which designate stormwater discharges, other than those discharges described in paragraph (2), to be regulated to protect water quality and shall establish a comprehensive program to regulate such designated sources. The program shall, at a minimum, (A) establish priorities, (B) establish requirements for State stormwater management programs, and (C) establish expeditious deadlines. The program may include performance standards, guidelines, guidance, and management practices and treatment requirements, as appropriate.
 
 #### (q) Combined sewer overflows
 
@@ -312,7 +312,7 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat.2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061, provided that:
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061, provided that:
 
 #### "SECTION 1. DEFINITIONS.
 

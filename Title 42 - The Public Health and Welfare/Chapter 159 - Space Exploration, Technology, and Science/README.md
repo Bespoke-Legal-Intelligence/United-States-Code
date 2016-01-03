@@ -44,7 +44,7 @@
 
 |  |  |
 | :--- | ---: |
-| [18351\.](Subchapter%20004%20%28IV%29%20-%20Continuation%2C%20Support%2C%20and%20Evolution%20of%20the%20International%20Space%20Station/%C2%A7%2018351%20-%20Continuation%20of%20the%20International%20Space%20Station%20through%202020.md) | Continuation of the International Space Station through 2020. |
+| [18351\.](Subchapter%20004%20%28IV%29%20-%20Continuation%2C%20Support%2C%20and%20Evolution%20of%20the%20International%20Space%20Station/%C2%A7%2018351%20-%20Continuation%20of%20the%20International%20Space%20Station.md) | Continuation of the International Space Station. |
 | [18352\.](Subchapter%20004%20%28IV%29%20-%20Continuation%2C%20Support%2C%20and%20Evolution%20of%20the%20International%20Space%20Station/%C2%A7%2018352%20-%20Maximum%20utilization%20of%20the%20International%20Space%20Station.md) | Maximum utilization of the International Space Station. |
 | [18353\.](Subchapter%20004%20%28IV%29%20-%20Continuation%2C%20Support%2C%20and%20Evolution%20of%20the%20International%20Space%20Station/%C2%A7%2018353%20-%20Maintenance%20of%20the%20United%20States%20segment%20and%20assurance%20of%20continued%20operations%20of%20the%20International%20Space%20Station.md) | Maintenance of the United States segment and assurance of continued operations of the International Space Station. |
 | [18354\.](Subchapter%20004%20%28IV%29%20-%20Continuation%2C%20Support%2C%20and%20Evolution%20of%20the%20International%20Space%20Station/%C2%A7%2018354%20-%20Management%20of%20the%20ISS%20national%20laboratory.md) | Management of the ISS national laboratory. |

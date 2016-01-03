@@ -26,7 +26,7 @@ Equal Value Exchange; Appraisal.—The values of the properties to be exchanged 
 
 "(d)
 
-Cash Equalization.—Any difference in the value of the properties to be exchanged under this sectionshall be equalized through the making of a cash equalization payment. The Secretary shall deposit any cash equalization payment received by the Secretary under this subsection in the Land and Water Conservation Fund.
+Cash Equalization.—Any difference in the value of the properties to be exchanged under this section shall be equalized through the making of a cash equalization payment. The Secretary shall deposit any cash equalization payment received by the Secretary under this subsection in the Land and Water Conservation Fund.
 
 "(e)
 

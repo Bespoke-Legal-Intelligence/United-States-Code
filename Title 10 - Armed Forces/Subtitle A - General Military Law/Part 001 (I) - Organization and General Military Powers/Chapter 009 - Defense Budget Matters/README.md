@@ -8,8 +8,7 @@
 | [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
 | [225\.](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md) | Acquisition accountability reports on the ballistic missile defense system. |
-| \[226, 227. | Repealed.\] |
-| [228\.](%C2%A7%2000228%20-%20Biannual%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Biannual reports on allocation of funds within operation and maintenance budget subactivities. |
+| \[226 to 228. | Repealed.\] |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
@@ -21,10 +20,13 @@
 | [236\.](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md) | Personal protection equipment procurement: display of budget information. |
 | [237\.](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md) | Embedded mental health providers of the reserve components: display of budget information. |
 | [238\.](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md) | Cyber mission forces: program elements. |
+| [239\.](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md) | National security space programs: major force program and budget assessment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1631(a)(2), Dec. 19, 2014, 128 Stat. 3638, added item 238.
 
@@ -79,7 +81,7 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00225 - Acquisition accountability reports on the ballistic missile defense system](%C2%A7%2000225%20-%20Acquisition%20accountability%20reports%20on%20the%20ballistic%20missile%20defense%20system.md)
 - [&sect; 00226 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(3)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000226%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%283%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00227 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(f)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2000227%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28f%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
-- [&sect; 00228 - Biannual reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Biannual%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
+- [&sect; 00228 - Repealed. Pub. L. 114&#8211;92, div. A, title X, &sect;1073(a)(1), Nov. 25, 2015, 129 Stat. 995](%C2%A7%2000228%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9392%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28a%29%281%29%2C%20Nov.%2025%2C%202015%2C%20129%20Stat.%20995.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
 - [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
@@ -91,3 +93,4 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00236 - Personal protection equipment procurement display of budget information](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md)
 - [&sect; 00237 - Embedded mental health providers of the reserve components display of budget information](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md)
 - [&sect; 00238 - Cyber mission forces program elements](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md)
+- [&sect; 00239 - National security space programs major force program and budget assessment](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md)

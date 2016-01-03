@@ -30,7 +30,7 @@ The administering authority shall provide information to the public upon request
 
 #### (d) Initiation of section 2411 investigation
 
-On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c) of this section, such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2) of this section, the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 (19 U.S.C. 2412(b)(1)), whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
+On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c), such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2), the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 (19 U.S.C. 2412(b)(1)), whether to initiate an investigation pursuant to title III of that Act (19 U.S.C. 2411 et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
 
 #### (e) Nonactionable subsidies
 
@@ -42,7 +42,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (B) Request by interested party regarding violation of Article 8
 
-&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;&emsp;An interested party may request the administering authority to determine if thereis reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (C) Action by Trade Representative
 
@@ -98,7 +98,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (2) Publication in the Federal Register
 
-&emsp;The administering authority shall publish regularly in the Federal Register a summarynotice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
+&emsp;The administering authority shall publish regularly in the Federal Register a summary notice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
 
 #### (3) Consultations with Congress and private sector
 

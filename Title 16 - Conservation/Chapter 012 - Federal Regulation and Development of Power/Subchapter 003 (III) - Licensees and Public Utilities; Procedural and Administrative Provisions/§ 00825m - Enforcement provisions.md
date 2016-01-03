@@ -14,7 +14,7 @@ The Commission may employ such attorneys as it finds necessary for proper legal 
 
 #### (d) Prohibitions on violators
 
-In any proceedings under subsection (a) of this section, the court may prohibit, conditionally orunconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of section 824u of this title (and related rules and regulations) from—
+In any proceedings under subsection (a), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of section 824u of this title (and related rules and regulations) from—
 
 &emsp;(1) acting as an officer or director of an electric utility; or
 
@@ -28,7 +28,7 @@ In any proceedings under subsection (a) of this section, the court may prohibit,
 
 #### Codification
 
-As originally enacted subsecs. (a) and (b) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". However, the words "United States District Court for the District of Columbia" have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which states that "the District of Columbia constitutes one judicial district".
+As originally enacted subsecs. (a) and (b) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". However, the words "United States District Court for the District of Columbia" have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and JudicialProcedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which states that "the District of Columbia constitutes one judicial district".
 
 #### Amendments
 

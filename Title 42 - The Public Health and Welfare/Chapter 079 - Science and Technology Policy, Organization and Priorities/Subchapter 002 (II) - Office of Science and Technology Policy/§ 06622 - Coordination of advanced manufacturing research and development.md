@@ -42,7 +42,7 @@ The Committee shall—
 
 &emsp;&emsp;(C) specify the role, including the programs and activities, of each relevant Federal agency in meeting the objectives of the strategic plan;
 
-&emsp;&emsp;(D) describe how the Federal agencies and Federally funded research and development centers supporting advanced manufacturing research and development will foster thetransfer of research and development results into new manufacturing technologies and United States-based manufacturing of new products and processes for the benefit of society to ensure national, energy, and economic security;
+&emsp;&emsp;(D) describe how the Federal agencies and Federally funded research and development centers supporting advanced manufacturing research and development will foster the transfer of research and development results into new manufacturing technologies and United States-based manufacturing of new products and processes for the benefit of society to ensure national, energy, and economic security;
 
 &emsp;&emsp;(E) describe how such Federal agencies and centers will strengthen all levels of manufacturing education and training programs to ensure an adequate, well-trained workforce;
 

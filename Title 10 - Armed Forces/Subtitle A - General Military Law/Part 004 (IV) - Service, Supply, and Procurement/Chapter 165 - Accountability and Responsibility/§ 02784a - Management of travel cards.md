@@ -16,7 +16,7 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 &emsp;(B) does not dispute the amount of the delinquency.
 
-(2) The amount deducted and withheld from pay under paragraph (1) with respect to a debt owed a creditor as described in that paragraphshall be disbursed to the creditor to reduce the amount of the debt.
+(2) The amount deducted and withheld from pay under paragraph (1) with respect to a debt owed a creditor as described in that paragraph shall be disbursed to the creditor to reduce the amount of the debt.
 
 (3) The amount of pay deducted and withheld from the pay owed to an employee or member with respect to a pay period under paragraph (1) may not exceed 15 percent of the disposable pay of the employee or member for that pay period, except that a higher amount may be deducted and withheld with the written consent of the employee or member.
 
@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "retired pay" means—
 
-&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and Disability Fund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
+&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and DisabilityFund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
 
 &emsp;&emsp;(B) in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 

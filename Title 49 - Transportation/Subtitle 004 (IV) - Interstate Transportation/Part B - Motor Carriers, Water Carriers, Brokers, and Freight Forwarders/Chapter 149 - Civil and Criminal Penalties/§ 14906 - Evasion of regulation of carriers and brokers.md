@@ -1,6 +1,6 @@
 ### §14906. Evasion of regulation of carriers and brokers
 
-A person, or an officer, employee, or agent of that person, that by any means tries to evade regulation provided under this part for carriers or brokers is liable to the United States for a civil penalty of at least $2,000 for the first violation and at least $5,000 for a subsequent violation, and may be subject to criminal penalties.
+A person, or an officer, employee, or agent of that person, that by any means tries to evaderegulation provided under this part for carriers or brokers is liable to the United States for a civil penalty of at least $2,000 for the first violation and at least $5,000 for a subsequent violation, and may be subject to criminal penalties.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 916; amended Pub. L. 112–141, div. C, title II, §32505(b), July 6, 2012, 126 Stat. 804.)
 

@@ -54,7 +54,7 @@ Pub. L. 106–476, title IV, §4002(d), Nov. 9, 2000, 114 Stat. 2177, provided t
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to articles removed, as defined in section 5702(j) of this title, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 105–33 applicable to articles removed, as defined in section 5702(j) of this title, afterDec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -62,7 +62,7 @@ Pub. L. 101–239, title VII, §7508(b), Dec. 19, 1989, 103 Stat. 2370, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into theUnited States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
+Amendment by Pub. L. 99–509 applicable to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after Dec. 15, 1986, see section 8011(c) of Pub. L. 99–509, set out as a note under section 5061 of this title.
 
 #### Effective Date of 1976 Amendment
 

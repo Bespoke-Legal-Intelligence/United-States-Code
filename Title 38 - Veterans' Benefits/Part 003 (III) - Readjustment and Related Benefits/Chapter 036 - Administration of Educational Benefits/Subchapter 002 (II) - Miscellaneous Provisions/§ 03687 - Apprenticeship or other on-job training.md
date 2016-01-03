@@ -39,7 +39,7 @@
 
 &emsp;(B) the monthly educational assistance allowance otherwise payable for full-time enrollment in an educational institution.
 
-(2) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as the monthly training assistance allowance payable is reduced under subsection (b)(3).
+(2) For any month in which an individual fails to complete 120 hours of training, the entitlement otherwise chargeable under paragraph (1) shall be reduced in the same proportion as themonthly training assistance allowance payable is reduced under subsection (b)(3).
 
 (3) In this section, the term "individual" means—
 
@@ -53,7 +53,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in former section 1683, as added by Pub.L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
+Provisions similar to those comprising this section were contained in former section 1683, as added by Pub. L. 90–77, title III, §304(a), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 91–219, title I, §103(e), Mar. 26, 1970, 84 Stat. 77; Pub. L. 91–584, §7, Dec. 24, 1970, 84 Stat. 1576, prior to repeal by section 401(6) of Pub. L. 92–540.
 
 #### Amendments
 
@@ -99,7 +99,7 @@ Pub. L. 108–454, title I, §102(b), Dec. 10, 2004, 118 Stat. 3600, provided th
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistance allowances payable under chapter 35 and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
+Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistanceallowances payable under chapter 35 and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2001 Amendment
 

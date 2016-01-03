@@ -402,9 +402,9 @@ Development of medical support incentive.—
 
 &emsp;"(A)
 
-In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\].
+In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishingand enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\].
 
 &emsp;"(B)
 
-Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report thatdescribes the performance measure and contains the recommendations required by subparagraph (A)."
+Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A)."
 

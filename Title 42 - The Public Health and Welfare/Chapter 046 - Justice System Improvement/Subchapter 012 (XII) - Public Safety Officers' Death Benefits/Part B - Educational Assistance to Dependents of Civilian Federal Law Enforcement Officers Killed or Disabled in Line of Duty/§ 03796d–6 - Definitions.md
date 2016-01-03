@@ -12,7 +12,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) is eligible to participate in programs under title IV of such Act \[20 U.S.C. 1070 et seq. and 42 U.S.C. 2751 et seq.\].
 
-(Pub. L. 90–351, title I, §1217, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3116; amended Pub. L. 105–390, §2(6), Nov. 13, 1998, 112 Stat. 3496;Pub. L. 112–239, div. A, title X, §1086(b)(1)(K), Jan. 2, 2013, 126 Stat. 1968.)
+(Pub. L. 90–351, title I, §1217, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3116; amended Pub. L. 105–390, §2(6), Nov. 13, 1998, 112 Stat. 3496; Pub. L. 112–239, div. A, title X, §1086(b)(1)(K), Jan. 2, 2013, 126 Stat. 1968.)
 
 #### References in Text
 

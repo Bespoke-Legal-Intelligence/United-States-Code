@@ -6,7 +6,7 @@
 
 &emsp;Congress finds that—
 
-&emsp;&emsp;(A) collaborations between the Secretary and the Secretary of Veterans Affairs regarding the treatment of Indian veterans atfacilities of the Service should be encouraged to the maximum extent practicable; and
+&emsp;&emsp;(A) collaborations between the Secretary and the Secretary of Veterans Affairs regarding the treatment of Indian veterans at facilities of the Service should be encouraged to the maximum extent practicable; and
 
 &emsp;&emsp;(B) increased enrollment for services of the Department of Veterans Affairs by veterans who are members of Indian tribes should be encouraged to the maximum extent practicable.
 

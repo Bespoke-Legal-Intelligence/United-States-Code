@@ -4,7 +4,7 @@ Section, Pub. L. 99–440, §3, Oct. 2, 1986, 100 Stat. 1087; Pub. L. 99–631, 
 
 #### Effective Date of Repeal
 
-Repeal effective June 8, 1994, date on which President certified to Congress that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa, see section 4(a)(2) of Pub. L. 103–149, set out in a Repeal of Chapter; South African Democratic Transition Support note below.
+Repeal effective June 8, 1994, date on which President certified to Congress that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa, see section 4(a)(2) of Pub.L. 103–149, set out in a Repeal of Chapter; South African Democratic Transition Support note below.
 
 #### Short Title
 
@@ -110,7 +110,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;"(8)(A) Section 901(j)(2)(C) of the Internal Revenue Code of 1986 (26 U.S.C. 901(j)(2)(C)) is repealed.
 
-&emsp;"(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of thetermination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
+&emsp;"(B) Subparagraph (A) shall not be construed as affecting any of the transitional rules contained in Revenue Ruling 92–62 which apply by reason of the termination of the period for which section 901(j) of the Internal Revenue Code of 1986 was applicable to South Africa.
 
 &emsp;"(9) The table in section 502(b) of the Trade Act of 1974 (19 U.S.C. 2462(b)) is amended by striking 'Republic of South Africa'.
 

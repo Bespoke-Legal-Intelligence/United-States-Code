@@ -190,7 +190,7 @@ In subsection (g)(1) and (2), the words "any quantity of" are omitted as surplus
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted "motor carrier ormotor private carrier (as such terms are defined in section 13102 of this title)" for "commercial motor vehicle".
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted "motor carrier or motor private carrier (as such terms are defined in section 13102 of this title)" for "commercial motor vehicle".
 
 Subsec. (c). Pub. L. 110–244, §305(b)(2), struck out "commercial" before "motor vehicle".
 
@@ -214,5 +214,5 @@ Amendment by section 301(f) of Pub. L. 110–244 effective as of the date of ena
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 

@@ -102,7 +102,7 @@
 
 > &emsp;This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
 
-(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L.98–181, title I \[title VII, §702(a)\], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar. 23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419; Pub. L. 111–203, title III, §336(a), July 21, 2010, 124 Stat. 1540.)
+(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L. 98–181, title I \[title VII, §702(a)\], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar. 23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419; Pub. L. 111–203, title III, §336(a), July 21, 2010, 124 Stat. 1540.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Pub. L. 111–203, title III, §336(b), July 21, 2010, 124 Stat. 1540, provided 
 
 #### Transition Provision
 
-Pub. L. 101–73, title II, §203(b), Aug. 9, 1989, 103 Stat. 189, which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term of any member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by Pub. L. 111–203, title III, §367(1), July 21, 2010, 124 Stat. 1556.
+Pub. L. 101–73, title II, §203(b), Aug. 9, 1989, 103 Stat. 189, which permitted the Chairman of the Board of Directors of the Federal Deposit Insurance Corporation on Aug. 9, 1989, to continue to serve as the Chairperson until the end of the term to which such Chairman was appointed (notwithstanding any provision of this section), provided that the appointed member of the Board on Aug. 9, 1989, who is not the Chairman continue to serve in office until the earlier of the end of the term to which such member was appointed or Feb. 28, 1993, with certain exceptions, and provided that the term ofany member appointed to the Board before Feb. 28, 1993 (including the term of any Chairperson), end on such date, was repealed by Pub. L. 111–203, title III, §367(1), July 21, 2010, 124 Stat. 1556.
 
 #### Compensation of Board of Directors
 

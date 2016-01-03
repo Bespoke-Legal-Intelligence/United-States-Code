@@ -32,7 +32,7 @@ Reduced damages.—If the court finds that—
 
 &emsp;&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
 
-&emsp;&emsp;(C) at the time such person furnished the United States with the information aboutthe violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation,
+&emsp;&emsp;(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to suchviolation, and the person did not have actual knowledge of the existence of an investigation into such violation,
 
 > &emsp;the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of that person.
 

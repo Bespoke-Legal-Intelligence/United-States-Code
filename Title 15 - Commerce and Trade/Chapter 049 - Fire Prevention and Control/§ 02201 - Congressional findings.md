@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
-&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
+&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
 &emsp;(4) Such losses of life and property from fire are unacceptable to the Congress.
 
@@ -68,11 +68,11 @@ Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: "That this Act \[enacting this chapter and section 290aof Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the 'Federal Fire Prevention and Control Act of 1974'."
+Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: "That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the 'Federal Fire Prevention and Control Act of 1974'."
 
 #### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the resultsof the study to Congress within 18 months of Oct. 30, 2000.
 
 #### Local Firefighter and Emergency Services Training
 
@@ -150,7 +150,7 @@ Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any ac
 
 #### Effect on Certain Requirements
 
-Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: "Nothing in this Act \[see Short Title of 1990Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features."
+Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: "Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features."
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1978</b>
 

@@ -50,7 +50,7 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 #### References in Text
 
-Section 278n of this title, referred to in subsec. (h)(1), was repealed and a new section 278n enacted by Pub. L. 110–69, title III, §3012(a), (b), Aug. 9, 2007, 121 Stat. 593, and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term "Program" referred in this chapter.
+Section 278n of this title, referred to in subsec. (h)(1), was repealed and a new section 278n enacted by Pub. L.110–69, title III, §3012(a), (b), Aug. 9, 2007, 121 Stat. 593, and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term "Program" referred in this chapter.
 
 #### Amendments
 

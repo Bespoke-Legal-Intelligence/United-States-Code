@@ -158,7 +158,7 @@ Pub. L. 108–282, title I, §102(b)(7), Aug. 2, 2004, 118 Stat. 905, provided t
 
 #### Regulations for Sunscreen Products
 
-Pub. L. 105–115, title I, §129, Nov. 21, 1997, 111 Stat. 2331, provided that: "Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn."
+Pub. L. 105–115, title I, §129, Nov. 21, 1997, 111 Stat. 2331, provided that: "Not later than 18 months after thedate of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn."
 
 #### Construction of 2011 Amendment
 
@@ -192,7 +192,7 @@ Requirements.—The strategy and implementation plan developed under subsection 
 
 "(c)
 
-Performance Reports.—The annual performance reports submitted to Congress under sections 736B(a) \[21 U.S.C. 379h–2(a)\] (as amended by section 104of this Act), 738A(a) \[21 U.S.C. 379j–1(a)\] (as amended by section 204 of this Act), 744C(a) \[21 U.S.C. 379j–43(a)\] (as added by section 303 of this Act), and 744I(a) \[21 U.S.C. 379j–53(a)\] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—
+Performance Reports.—The annual performance reports submitted to Congress under sections 736B(a) \[21 U.S.C. 379h–2(a)\] (as amended by section 104 of this Act), 738A(a) \[21 U.S.C. 379j–1(a)\] (as amended by section 204 of this Act), 744C(a) \[21 U.S.C. 379j–43(a)\] (as added by section 303 of this Act), and 744I(a) \[21 U.S.C. 379j–53(a)\] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—
 
 &emsp;"(1) advancing the regulatory science priorities identified under paragraph (2) of subsection (b) and resolving the gaps identified under paragraph (3) of such subsection, including reporting on specific metrics identified under paragraph (4) of such subsection;
 

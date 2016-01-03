@@ -6,7 +6,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 &emsp;(1) reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, tunnels, and other facilities and systems for the impoundment, storage, transportation, or distribution of water;
 
-&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases, other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or any refined product produced therefrom, and for storage and terminal facilities in connection therewith;
+&emsp;(2) pipelines and other systems for the transportation or distribution of liquids and gases, other than water and other than oil, natural gas, synthetic liquid or gaseous fuels, or anyrefined product produced therefrom, and for storage and terminal facilities in connection therewith;
 
 &emsp;(3) pipelines, slurry and emulsion systems, and conveyor belts for transportation and distribution of solid materials, and facilities for the storage of such materials in connection therewith;
 

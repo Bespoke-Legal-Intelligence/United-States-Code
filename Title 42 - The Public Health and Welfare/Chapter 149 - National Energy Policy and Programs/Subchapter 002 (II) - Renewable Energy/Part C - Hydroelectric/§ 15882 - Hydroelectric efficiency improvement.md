@@ -6,7 +6,7 @@ The Secretary shall make incentive payments to the owners or operators of hydroe
 
 #### (b) Limitations
 
-Incentive payments under this section shall not exceed 10 percent of the costs of the capital improvement concerned and not more than 1 payment may be made with respect to improvements at a single facility. No payment in excess of $750,000 may be made with respect to improvements at a single facility.
+Incentive payments under this section shall not exceed 10 percent of the costs of the capitalimprovement concerned and not more than 1 payment may be made with respect to improvements at a single facility. No payment in excess of $750,000 may be made with respect to improvements at a single facility.
 
 #### (c) Authorization of appropriations
 

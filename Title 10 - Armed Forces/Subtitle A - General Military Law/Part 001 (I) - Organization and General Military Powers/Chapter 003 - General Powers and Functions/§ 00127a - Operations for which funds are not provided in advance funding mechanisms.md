@@ -4,7 +4,7 @@
 
 In General.—(1) The Secretary of Defense shall use the procedures prescribed by this section with respect to any operation specified in paragraph (2) that involves—
 
-&emsp;(A) the deployment (other than for a training exercise) of elements of the armed forcesfor a purpose other than a purpose for which funds have been specifically provided in advance; or
+&emsp;(A) the deployment (other than for a training exercise) of elements of the armed forces for a purpose other than a purpose for which funds have been specifically provided in advance; or
 
 &emsp;(B) the provision of humanitarian assistance, disaster relief, or support for law enforcement (including immigration control) for which funds have not been specifically provided in advance.
 
@@ -60,7 +60,7 @@ Relationship to War Powers Resolution.—This section may not be construed as al
 
 (i)
 
-GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee ofCongress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
+GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
 (Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1061(1), Dec. 31, 2011, 125 Stat. 1583.)
 
@@ -86,9 +86,11 @@ Pub. L. 104–106, div. A, title X, §1003(b), Feb. 10, 1996, 110 Stat. 417, pro
 
 #### Incremental Contingency Operations Cost Report
 
-Pub. L. 113–235, div. C, title VIII, §8097, Dec. 16, 2014, 128 Stat. 2276, provided that: "The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Enduring Freedom, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 'Contingency Operations', Annex 1, dated September 2005."
+Pub. L. 114–113, div. C, title VIII, §8093, Dec. 18, 2015, 129 Stat. 2373, provided that: "The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom's Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 'Contingency Operations', Annex 1, dated September 2005."
 
-Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, §8097, Dec. 16, 2014, 128 Stat. 2276.
 
 Pub. L. 113–76, div. C, title VIII, §8092, Jan. 17, 2014, 128 Stat. 126.
 

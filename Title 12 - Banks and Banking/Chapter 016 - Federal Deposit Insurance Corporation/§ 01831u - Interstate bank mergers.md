@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(i) comply with the filing requirements of any host State of the bank which will result from such transaction to the extent that the requirement—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks orout-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
+&emsp;&emsp;&emsp;&emsp;(I) does not have the effect of discriminating against out-of-State banks or out-of-State bank holding companies or subsidiaries of such banks or bank holding companies; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is similar in effect to any requirement imposed by the host State on a nonbanking corporation incorporated in another State that engages in business in the host State; and
 
@@ -82,7 +82,7 @@
 
 #### (B) Penalty for failure to comply
 
-&emsp;&emsp;The responsible agency may not approve an application for an interstate merger transaction if the applicant materially fails to comply with subparagraph (A).
+&emsp;&emsp;The responsible agency may not approve an application for an interstate mergertransaction if the applicant materially fails to comply with subparagraph (A).
 
 #### (2) Concentration limits
 
@@ -142,11 +142,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;No provision of this section shall be construed as affecting the authority of any State or political subdivision of any State toadopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
+&emsp;&emsp;No provision of this section shall be construed as affecting the authority of any State or political subdivision of any State to adopt, apply, or administer any tax or method of taxation to any bank, bank holding company, or foreign bank, or any affiliate of any bank, bank holding company, or foreign bank, to the extent such tax or tax method is otherwise permissible by or under the Constitution of the United States or other Federal law.
 
 #### (B) Imposition of shares tax by host States
 
-&emsp;&emsp;In the case of a branch of an out-of-State bank which results from an interstate merger transaction, a proportionate amount of the value of the shares of the out-of-State bank may be subject to any bank shares tax levied or imposed by the host State, or any political subdivision of such host State that imposes such tax based upon a method adopted by the host State, which may include allocation and apportionment.
+&emsp;&emsp;In the case of a branch of an out-of-State bank which results from an interstate merger transaction, a proportionate amount of the value of the shares of the out-of-Statebank may be subject to any bank shares tax levied or imposed by the host State, or any political subdivision of such host State that imposes such tax based upon a method adopted by the host State, which may include allocation and apportionment.
 
 #### (2) Applicability of antitrust laws
 
@@ -206,7 +206,7 @@ If an application under subsection (a)(1) for approval of a merger transaction w
 
 &emsp;&emsp;&emsp;(i) the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction under the constitution or any statute or other law of the home State of the out-of-State insured depository institution establishing any such branch, without reference to this section, as such maximum interest rate or amount of interest may change from time to time; or
 
-&emsp;&emsp;&emsp;(ii) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank orFederal savings association whose main office is located in such State without reference to this section; and
+&emsp;&emsp;&emsp;(ii) the maximum rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved in a similar transaction by a State insured depository institution chartered under the laws of such State or a national bank or Federal savings association whose main office is located in such State without reference to this section; and
 
 &emsp;&emsp;(B) any governmental entity located in such State or any person that is not a depository institution described in subparagraph (A) doing business in such State, shall be equal to not more than the greater of the State's maximum lawful annual percentage rate or 17 percent—
 
@@ -306,7 +306,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1)(B)(i)(IV), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1)(B)(i)(IV), is Pub. L.111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 #### Amendments
 

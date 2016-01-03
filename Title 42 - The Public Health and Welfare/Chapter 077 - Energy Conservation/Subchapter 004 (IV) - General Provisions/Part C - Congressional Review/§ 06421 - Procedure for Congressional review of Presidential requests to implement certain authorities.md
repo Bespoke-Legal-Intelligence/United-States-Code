@@ -10,7 +10,7 @@ The President shall transmit any energy action (bearing an identification number
 
 #### (c) Effective date of energy action
 
-(1) Except as provided in paragraph (2) of this subsection, if energy action is transmitted to the Houses of Congress, such action shall take effect at the end of the first period of 15 calendar days of continuous session of Congress after the date on which such action is transmitted to such Houses, unless between the date of transmittal and the end of such 15-day period, either House passes a resolution stating in substance that such House does not favor such action.
+(1) Except as provided in paragraph (2) of this subsection, if energy action is transmitted to the Houses of Congress, such action shall take effect at the end of the first period of 15 calendardays of continuous session of Congress after the date on which such action is transmitted to such Houses, unless between the date of transmittal and the end of such 15-day period, either House passes a resolution stating in substance that such House does not favor such action.
 
 (2) An energy action described in paragraph (1) may take effect prior to the expiration of the 15-calendar-day period after the date on which such action is transmitted, if each House of Congress approves a resolution affirmatively stating in substance that such House does not object to such action.
 
@@ -44,7 +44,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 (4)(A) If the committee to which a resolution with respect to an energy action has been referred has not reported it at the end of 5 calendar days after its referral, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration of any other resolution with respect to such energy action which has been referred to the committee.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not bemade after the committee has reported a resolution with respect to the same energy action), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same energy action), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same energy action.
 

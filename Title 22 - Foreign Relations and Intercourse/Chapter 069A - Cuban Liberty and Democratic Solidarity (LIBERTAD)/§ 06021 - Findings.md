@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 &emsp;(5) As long as free elections are not held in Cuba, the economic condition of the country and the welfare of the Cuban people will not improve in any significant way.
 
-&emsp;(6) The totalitarian nature of the Castro regime has deprived the Cuban people of anypeaceful means to improve their condition and has led thousands of Cuban citizens to risk or lose their lives in dangerous attempts to escape from Cuba to freedom.
+&emsp;(6) The totalitarian nature of the Castro regime has deprived the Cuban people of any peaceful means to improve their condition and has led thousands of Cuban citizens to risk or lose their lives in dangerous attempts to escape from Cuba to freedom.
 
 &emsp;(7) Radio Marti and Television Marti have both been effective vehicles for providing the people of Cuba with news and information and have helped to bolster the morale of the people of Cuba living under tyranny.
 
@@ -44,7 +44,7 @@ The Congress makes the following findings:
 
 &emsp;(17) The Castro government holds innocent Cubans hostage in Cuba by no fault of the hostages themselves solely because relatives have escaped the country.
 
-&emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and children who were seeking to leave Cuba on July 13, 1994).
+&emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and childrenwho were seeking to leave Cuba on July 13, 1994).
 
 &emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence the actions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
 
@@ -62,7 +62,7 @@ The Congress makes the following findings:
 
 &emsp;(26) United Nations Security Council Resolution 940 of July 31, 1994, subsequently authorized the use of "all necessary means" to restore the "democratically elected government of Haiti", and the democratically elected government of Haiti was restored to power on October 15, 1994.
 
-&emsp;(27) The Cuban people deserve to be assisted in a decisive manner to end the tyranny thathas oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
+&emsp;(27) The Cuban people deserve to be assisted in a decisive manner to end the tyranny that has oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
 
 &emsp;(28) For the past 36 years, the Cuban Government has posed and continues to pose a national security threat to the United States.
 
@@ -78,5 +78,5 @@ The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24
 
 #### Short Title
 
-Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 16 of Title 50, Appendix, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
+Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
 

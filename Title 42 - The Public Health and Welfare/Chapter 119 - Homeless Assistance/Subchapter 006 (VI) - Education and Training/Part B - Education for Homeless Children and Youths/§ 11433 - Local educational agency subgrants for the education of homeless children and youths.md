@@ -52,7 +52,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (1) In general
 
-&emsp;The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under section 11435 of this title, make competitive subgrants to local educational agencies thatsubmit applications under subsection (b) of this section. Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
+&emsp;The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under section 11435 of this title, make competitive subgrants to local educational agencies that submit applications under subsection (b) of this section. Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
 
 #### (2) Need
 
@@ -128,7 +128,89 @@ A local educational agency may use funds awarded under this section for activiti
 
 &emsp;(16) The provision of other extraordinary or emergency assistance needed to enable homeless children and youths to attend school.
 
-(Pub. L. 100–77, title VII, §723, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2001.)
+(Pub. L. 100–77, title VII, §723, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2001; amended Pub. L. 114–95, title IX, §9103, Dec. 10, 2015, 129 Stat. 2134.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–95, title IX, §§9103, 9107, Dec. 10, 2015, 129 Stat. 2134, 2137, provided that, effective Oct. 1, 2016, this section is amended—</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) in paragraph (1), by striking "facilitating the enrollment," and inserting "facilitating the identification, enrollment,";</i>
+
+<i>(B) in paragraph (2)(B), in the matter preceding clause (i), by inserting "the related" before "schools"; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+#### <i>"(4) Duration of grants</i>
+
+&emsp;<i>"Subgrants made under this section shall be for terms of not to exceed 3 years.";</i>
+
+<i>(2) in subsection (b), by adding at the end the following:</i>
+
+&emsp;<i>"(6) An assurance that the local educational agency will collect and promptly provide data requested by the State Coordinator pursuant to paragraphs (1) and (3) of section 11432(f) of this title.</i>
+
+&emsp;<i>"(7) An assurance that the local educational agency will meet the requirements of section 11432(g)(3) of this title.";</i>
+
+<i>(3) in subsection (c)—</i>
+
+<i>(A) in paragraph (2)—</i>
+
+<i>(i) in the matter preceding subparagraph (A), by striking "preschool, elementary, and secondary schools" and inserting "early childhood education and other preschool programs, elementary schools, and secondary schools,";</i>
+
+<i>(ii) in subparagraph (A), by inserting "identification," before "enrollment,";</i>
+
+<i>(iii) in subparagraph (B), by striking "application—" and all that follows and inserting "application reflects coordination with other local and State agencies that serve homeless children and youths."; and</i>
+
+<i>(iv) in subparagraph (C), by inserting "(as of the date of submission of the application)" after "practice";</i>
+
+<i>(B) in paragraph (3)—</i>
+
+<i>(i) in subparagraph (C), by inserting "extent to which the applicant will promote meaningful" after "The";</i>
+
+<i>(ii) in subparagraph (D), by striking "within" and inserting "into";</i>
+
+<i>(iii) by redesignating subparagraph (G) as subparagraph (I);</i>
+
+<i>(iv) by inserting after subparagraph (F) the following:</i>
+
+&emsp;&emsp;<i>"(G) The extent to which the local educational agency will use the subgrant to leverage resources, including by maximizing nonsubgrant funding for the position of the liaison described in section 11432(g)(1)(J)(ii) of this title and the provision of transportation.</i>
+
+&emsp;&emsp;<i>"(H) How the local educational agency will use funds to serve homeless children and youths under section 1113(c)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6313(c)(3))."; and</i>
+
+<i>(v) in subparagraph (I), as redesignated by clause (iii), by striking "Such" and inserting "The extent to which the applicant's program meets such"; and</i>
+
+<i>(C) by striking paragraph (4); and</i>
+
+<i>(4) in subsection (d)—</i>
+
+<i>(A) in paragraph (1), by striking "the same challenging State academic content standards and challenging State student academic achievement standards" and inserting "the same challenging State academic standards as";</i>
+
+<i>(B) in paragraph (2)—</i>
+
+<i>(i) by striking "students with limited English proficiency" and inserting "English learners"; and</i>
+
+<i>(ii) by striking "vocational" and inserting "career";</i>
+
+<i>(C) in paragraph (3), by striking "pupil services" and inserting "specialized instructional support";</i>
+
+<i>(D) in paragraph (7), by striking "and unaccompanied youths," and inserting "particularly homeless children and youths who are not enrolled in school,";</i>
+
+<i>(E) in paragraph (9) by striking "medical" and inserting "other required health";</i>
+
+<i>(F) in paragraph (10)—</i>
+
+<i>(i) by striking "parents" and inserting "parents and guardians"; and</i>
+
+<i>(ii) by inserting before the period at the end ", and other activities designed to increase the meaningful involvement of parents and guardians of homeless children or youths in the education of such children or youths";</i>
+
+<i>(G) in paragraph (12), by striking "pupil services" and inserting "specialized instructional support services";</i>
+
+<i>(H) in paragraph (13), by inserting before the period at the end "and parental mental health or substance abuse problems"; and</i>
+
+<i>(I) in paragraph (16), by inserting before the period at the end "and participate fully in school activities".</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### References in Text
 
@@ -139,4 +221,58 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2
 A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11433, Pub. L. 100–77, title VII, §723, July 22, 1987, 101 Stat. 527; Pub. L. 100–628, title VII, §702(b), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(c), Nov. 29, 1990, 104 Stat. 4739, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–95, §9103(1)(A), substituted "facilitating the identification, enrollment," for "facilitating the enrollment,".
+
+Subsec. (a)(2)(B). Pub. L. 114–95, §9103(1)(B), inserted "the related" before "schools" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 114–95, §9103(1)(C), added par. (4).
+
+Subsec. (b)(6), (7). Pub. L. 114–95, §9103(2), added pars. (6) and (7).
+
+Subsec. (c)(2). Pub. L. 114–95, §9103(3)(A)(i), substituted "early childhood education and other preschool programs, elementary schools, and secondary schools," for "preschool, elementary, and secondary schools" in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 114–95, §9103(3)(A)(ii), inserted "identification," before "enrollment,".
+
+Subsec. (c)(2)(B). Pub. L. 114–95, §9103(3)(A)(iii), substituted "application reflects coordination with other local and State agencies that serve homeless children and youths." for "application—
+
+&emsp;"(i) reflects coordination with other local and State agencies that serve homeless children and youths; and
+
+&emsp;"(ii) describes how the applicant will meet the requirements of section 11432(g)(3) of this title."
+
+Subsec. (c)(2)(C). Pub. L. 114–95, §9103(3)(A)(iv), inserted "(as of the date of submission of the application)" after "practice".
+
+Subsec. (c)(3)(C). Pub. L. 114–95, §9103(3)(B)(i), inserted "extent to which the applicant will promote meaningful" after "The".
+
+Subsec. (c)(3)(D). Pub. L. 114–95, §9103(3)(B)(ii), substituted "into" for "within".
+
+Subsec. (c)(3)(G), (H). Pub. L. 114–95, §9103(3)(B)(iv), added subpars. (G) and (H). Former subpar. (G) redesignated (I).
+
+Subsec. (c)(3)(I). Pub. L. 114–95, §9103(3)(B)(iii), (v), redesignated subpar. (G) as (I) and substituted "The extent to which the applicant's program meets such" for "Such".
+
+Subsec. (c)(4). Pub. L. 114–95, §9103(3)(C), struck out par. (4). Text read as follows: "Grants awarded under this section shall be for terms not to exceed 3 years."
+
+Subsec. (d)(1). Pub. L. 114–95, §9103(4)(A), substituted "the same challenging State academic standards as" for "the same challenging State academic content standards and challenging State student academic achievement standards".
+
+Subsec. (d)(2). Pub. L. 114–95, §9103(4)(B), substituted "English learners" for "students with limited English proficiency" and "career" for "vocational".
+
+Subsec. (d)(3). Pub. L. 114–95, §9103(4)(C), substituted "specialized instructional support" for "pupil services".
+
+Subsec. (d)(7). Pub. L. 114–95, §9103(4)(D), substituted "particularly homeless children and youths who are not enrolled in school," for "and unaccompanied youths,".
+
+Subsec. (d)(9). Pub. L. 114–95, §9103(4)(E), substituted "other required health" for "medical".
+
+Subsec. (d)(10). Pub. L. 114–95, §9103(4)(F), substituted "parents and guardians" for "parents" and inserted before period at end ", and other activities designed to increase the meaningful involvement of parents and guardians of homeless children or youths in the education of such children or youths".
+
+Subsec. (d)(12). Pub. L. 114–95, §9103(4)(G), substituted "specialized instructional support services" for "pupil services".
+
+Subsec. (d)(13). Pub. L. 114–95, §9103(4)(H), inserted before period at end "and parental mental health or substance abuse problems".
+
+Subsec. (d)(16). Pub. L. 114–95, §9103(4)(I), inserted before period at end "and participate fully in school activities".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
 

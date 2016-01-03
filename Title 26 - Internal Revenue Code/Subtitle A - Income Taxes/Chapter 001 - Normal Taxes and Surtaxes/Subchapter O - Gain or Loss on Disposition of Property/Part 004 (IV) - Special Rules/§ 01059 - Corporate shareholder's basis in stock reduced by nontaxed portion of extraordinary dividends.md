@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) section 304(a) had not applied,
 
-> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in the stock redeemed shall be taken into account under subsection (a).
+> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in thestock redeemed shall be taken into account under subsection (a).
 
 #### (B) Reorganizations, etc.
 
@@ -250,7 +250,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(2) providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918, 1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
+(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918,1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 #### References in Text
 
@@ -280,7 +280,7 @@ Special rule for computing extraordinary dividend.—In determining a taxpayer's
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted "subsection (a)" for "subsection (a)(2)".
 
-Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment,text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
+Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
 
 &emsp;"(A) part of a partial liquidation (within the meaning of section 302(e)) of the redeeming corporation, or
 
@@ -340,7 +340,7 @@ Subsec. (c)(1). Pub. L. 99–514, §614(c)(2), struck out "(determined without r
 
 Subsec. (c)(4). Pub. L. 99–514, §614(b), added par. (4).
 
-Subsec. (d)(1). Pub. L. 99–514, §614(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any reduction in basis under subsection (a) by reason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution."
+Subsec. (d)(1). Pub. L. 99–514, §614(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Any reduction in basis under subsection (a) byreason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution."
 
 Subsec. (d)(3). Pub. L. 99–514, §614(a)(3), substituted "2 years" for "1 year".
 

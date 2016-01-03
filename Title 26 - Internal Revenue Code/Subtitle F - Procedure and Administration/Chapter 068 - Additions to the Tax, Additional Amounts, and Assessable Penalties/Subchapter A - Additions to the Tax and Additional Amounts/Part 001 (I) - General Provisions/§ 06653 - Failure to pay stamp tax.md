@@ -32,7 +32,7 @@ Subsec. (g). Pub. L. 100–647, §1015(b)(3), inserted at end "If any penalty is
 
 Subsec. (a). Pub. L. 99–514, §1503(a), added subsec. (a) and struck out former subsec. (a) which added percentage to tax due for underpayment of taxes where negligence or intentional disregard of rules and regulations with respect to income, gift, or windfall profit taxes was involved, and also provided additional interest penalty for portion of underpayment attributable to negligence, etc.
 
-Subsec. (b). Pub. L. 99–514, §1503(b), added subsec. (b) and struck out former subsec. (b) which added percentage to tax due for underpayment of taxes where fraud was involved, and also provided for additional interest penalty, but stated that there would be no negligence addition where there was addition for fraud, and concluded with special rule for joint returns.
+Subsec. (b). Pub. L. 99–514, §1503(b), added subsec. (b) and struck out former subsec. (b) which added percentage to tax due for underpayment of taxes where fraud was involved, and also provided for additional interestpenalty, but stated that there would be no negligence addition where there was addition for fraud, and concluded with special rule for joint returns.
 
 Subsec. (d). Pub. L. 99–514, §1503(c)(2), substituted "portion of the underpayment which is attributable to fraud" for "same underpayment".
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974,but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1971 Amendment
 

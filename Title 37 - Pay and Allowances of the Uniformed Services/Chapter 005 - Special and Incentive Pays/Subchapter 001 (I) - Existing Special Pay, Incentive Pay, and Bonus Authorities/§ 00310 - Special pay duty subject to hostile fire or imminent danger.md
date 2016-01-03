@@ -200,7 +200,7 @@ Pub. L. 102–25, title III, §301, Apr. 6, 1991, 105 Stat. 80, provided that:
 
 "(a)
 
-Increased Rate.—In lieu of the rate of special pay specified in section 310(a) of title 37, United States Code, the rate of special pay payable under that section shall be $150 for each month during the period described in subsection (b).
+Increased Rate.—In lieu of the rate of special pay specified in section 310(a) of title 37, United States Code, the rate of special pay payable under that sectionshall be $150 for each month during the period described in subsection (b).
 
 "(b)
 

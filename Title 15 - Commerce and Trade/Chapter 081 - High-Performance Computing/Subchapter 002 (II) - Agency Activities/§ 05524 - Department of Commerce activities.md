@@ -2,7 +2,7 @@
 
 #### (a) General responsibilities
 
-As part of the Program described in subchapter I of this chapter—
+As part of the Program described in subchapter I—
 
 &emsp;(1) the National Institute of Standards and Technology shall—
 
@@ -26,7 +26,7 @@ Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1
 
 &emsp;(B) determine whether such regulations discourage development of improved software development tools and techniques.
 
-(2) The Secretary of Commerce shall, within one year after December 9, 1991, report to theCongress regarding the results of the study conducted under paragraph (1).
+(2) The Secretary of Commerce shall, within one year after December 9, 1991, report to the Congress regarding the results of the study conducted under paragraph (1).
 
 #### (d) Authorization of appropriations
 

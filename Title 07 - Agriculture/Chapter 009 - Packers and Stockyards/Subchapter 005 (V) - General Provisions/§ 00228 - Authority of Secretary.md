@@ -2,7 +2,7 @@
 
 #### (a) Rules, regulations, and expenditures; appropriations
 
-The Secretary may make such rules, regulations, and orders as may be necessary to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, telegrams, telephones, law books, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
+The Secretary may make such rules, regulations, and orders as may be necessary to carryout the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, telegrams, telephones, law books, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
 
 #### (b) Deductions from proceeds for financing promotional, educational, and research activities
 
@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, the authority of the Secretary under
 
 #### (c) Budget estimate; testimony of Secretary before Congressional committees
 
-On or before February 15 of each calendar year beginning with calendar year 1977, or such other date as may be specified by the appropriate committee, the Secretary of Agriculture shall testify before the Senate Committee on Agriculture, Nutrition, and Forestry and the HouseCommittee on Agriculture and provide justification in detail of the amount requested in the budget to be appropriated for the next fiscal year for the purposes authorized in this chapter.
+On or before February 15 of each calendar year beginning with calendar year 1977, or such other date as may be specified by the appropriate committee, the Secretary of Agriculture shall testify before the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture and provide justification in detail of the amount requested in the budget to be appropriated for the next fiscal year for the purposes authorized in this chapter.
 
 #### (d) Development and promulgation of rules governing hearings
 

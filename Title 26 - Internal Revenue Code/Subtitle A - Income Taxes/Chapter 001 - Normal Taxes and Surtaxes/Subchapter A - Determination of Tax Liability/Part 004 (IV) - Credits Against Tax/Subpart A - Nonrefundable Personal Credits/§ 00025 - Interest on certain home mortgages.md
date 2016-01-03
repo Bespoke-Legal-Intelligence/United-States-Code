@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to thetaxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
+&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
 
 #### (B) Special rule where 2 or more persons hold interests in residence
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting "100 percent" for "95 percent or more".
 
-> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary foradministering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
+> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
 
 #### (d) Determination of certificate credit rate
 
@@ -290,7 +290,7 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(C), Jan. 2, 2013, 126 Stat. 2322.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, titleVI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(C), Jan. 2, 2013, 126 Stat. 2322.)
 
 #### Prior Provisions
 
@@ -372,7 +372,7 @@ Subsec. (c)(2)(A)(iii)(V). Pub. L. 99–514, §1862(a), substituted "subsection 
 
 Subsec. (c)(2)(B). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted in heading and introductory provisions "section 143" for "section 103A".
 
-Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference to subcl. (V), added cl. (iii) andclosing provisions, and struck out former cl. (iii) and closing provisions which read as follows:
+Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference to subcl. (V), added cl. (iii) and closing provisions, and struck out former cl. (iii) and closing provisions which read as follows:
 
 &emsp;"(iii) paragraph (1) of section 103A(e) shall be applied by substituting '100 percent' for '90 percent or more'.
 
@@ -454,7 +454,7 @@ Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable year
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

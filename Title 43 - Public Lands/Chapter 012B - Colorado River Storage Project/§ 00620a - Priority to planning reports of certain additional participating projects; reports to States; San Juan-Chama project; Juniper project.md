@@ -32,7 +32,7 @@ Pub. L. 100–522, Oct. 24, 1988, 102 Stat. 2604, provided that:
 
 #### "SEC. 2. LIMITATION.
 
-"The authorization to store water and to acquire lands under section 1 is subject to the provisions of the Rio Grande Compact and the resolutions of the Rio Grande Compact Commission."
+"The authorization to store water and to acquire lands under section 1 is subject to the provisions of theRio Grande Compact and the resolutions of the Rio Grande Compact Commission."
 
 #### Storage of San Juan-Chama Project Water in Other Reservoirs
 

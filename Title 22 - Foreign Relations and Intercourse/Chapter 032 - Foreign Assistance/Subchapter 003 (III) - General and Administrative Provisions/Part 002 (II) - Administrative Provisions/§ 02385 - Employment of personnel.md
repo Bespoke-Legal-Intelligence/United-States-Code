@@ -10,11 +10,11 @@ Of the personnel employed in the United States to carry out subchapter I of this
 
 #### (c) Additional supergrade positions
 
-Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of this chapter in whole or in part, not to exceed eight may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter II of this chapter, or any Act superseding subchapter II of thischapter in whole or in part, not to exceed eight may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (d) Employment or assignment of officers and employees to perform functions outside United States
 
-For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the President may employ or assign individuals, or may authorize the employment or assignment of officers or employees by agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates provided for under section 402 or section 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. Individuals so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for individuals appointed to the Foreign Service.
 
 #### (e) Repealed. Pub. L. 96–465, title II, §2205(8), Oct. 17, 1980, 94 Stat. 2160
 
@@ -116,9 +116,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 113–235, div. J, title VII, §7034(l)(6), Dec. 16, 2014, 128 Stat. 2625, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2015' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 114–113, div. K, title VII, §7034(k)(6), Dec. 18, 2015, 129 Stat. 2765, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2016' for 'October 1, 2010' in subparagraph (B)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–235, div. J, title VII, §7034(l)(6), Dec. 16, 2014, 128 Stat. 2625.
 
 Pub. L. 113–76, div. K, title VII, §7034(m)(6), Jan. 17, 2014, 128 Stat. 515.
 

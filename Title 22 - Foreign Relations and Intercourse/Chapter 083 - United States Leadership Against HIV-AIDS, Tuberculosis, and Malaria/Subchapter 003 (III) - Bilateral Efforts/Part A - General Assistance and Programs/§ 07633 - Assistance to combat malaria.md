@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
+In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22U.S.C. 2151b(c)) for such purpose or under any other provision of that Act \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, $5,000,000,000 during the 5-year period beginning on October 1, 2008 to carry out section 104C of the Foreign Assistance Act of 1961, as added by subsection (a) \[22 U.S.C. 2151b–4\], including for the development of anti-malarial pharmaceuticals by the Medicines for Malaria Venture.
 
 #### (2) Availability of funds
 

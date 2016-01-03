@@ -6,7 +6,7 @@ No governing international fishery agreement, bycatch reduction agreement, or Pa
 
 #### (b) Referral to committees
 
-Any document described in subsection (a) of this section shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
+Any document described in subsection (a) shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
 
 #### (c) Congressional procedures
 
@@ -22,9 +22,9 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;For purposes of this subsection, the term "fishery agreement resolution" refers to a joint resolution of either House of Congress—
 
-&emsp;&emsp;(A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a) of this section; and
+&emsp;&emsp;(A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a); and
 
-&emsp;&emsp;(B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) of this section relating to that agreement is transmitted to the Congress.
+&emsp;&emsp;(B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) relating to that agreement is transmitted to the Congress.
 
 #### (3) Placement on calendar
 
@@ -144,7 +144,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided that extension of
 
 Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
 
-&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
+&emsp;"(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the Presidentof the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
 
 &emsp;"(2) the governing international fishery agreement between the Government of the United States and the Government of the Republic of Iceland Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated September 29, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XVI of the agreement after the date of the enactment of this title \[Nov. 8, 1984\]."
 

@@ -12,7 +12,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 
-&emsp;(5) Not later than the time period prescribed by the Secretary by regulation, the State shallnotify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
+&emsp;(5) Not later than the time period prescribed by the Secretary by regulation, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
 
 &emsp;(6) Before issuing a commercial driver's license to an individual or renewing such a license, the State shall request from any other State that has issued a driver's license to the individual all information about the driving record of the individual.
 
@@ -50,7 +50,11 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(i) operates or will operate a commercial motor vehicle;
 
-&emsp;&emsp;(ii) is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and
+&emsp;&emsp;(ii) is an active duty member of—
+
+&emsp;&emsp;&emsp;(I) the armed forces (as that term is defined in section 101(a) of title 10); or
+
+&emsp;&emsp;&emsp;(II) the reserve components (as that term is defined in section 31305(d)(2) of this title); and
 
 &emsp;&emsp;(iii) is not domiciled in the State, but whose temporary or permanent duty station is located in the State.
 
@@ -78,7 +82,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under as <sup>2</sup> 31310(j) of this title.
 
-&emsp;(18) The State shall maintain, as part of its driver information system, a record of eachviolation of a State or local motor vehicle traffic control law while operating a motor vehicle (except a parking violation) for each individual who holds a commercial driver's license. The record shall be available upon request to the individual, the Secretary, employers, prospective employers, State licensing and law enforcement agencies, and their authorized agents.
+&emsp;(18) The State shall maintain, as part of its driver information system, a record of each violation of a State or local motor vehicle traffic control law while operating a motor vehicle (except a parking violation) for each individual who holds a commercial driver's license. The record shall be available upon request to the individual, the Secretary, employers, prospective employers, State licensing and law enforcement agencies, and their authorized agents.
 
 &emsp;(19) The State shall—
 
@@ -174,7 +178,7 @@ Annual Comparison of State Levels of Compliance.—The Secretary shall annually�
 
 &emsp;(2) make the results of the comparison available to the public.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760; Pub. L. 109–59, title IV, §4123(b), Aug. 10, 2005, 119 Stat. 1735; Pub. L. 112–141, div. C, title II, §§32203(b), 32302(d), 32305(b), July 6, 2012, 126 Stat. 784, 790, 792; Pub. L. 112–196, §2, Oct. 19, 2012, 126 Stat. 1459.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760; Pub. L. 109–59, title IV, §4123(b), Aug. 10, 2005, 119 Stat. 1735; Pub. L. 112–141, div. C, title II, §§32203(b), 32302(d), 32305(b), July 6, 2012, 126 Stat. 784, 790, 792; Pub. L. 112–196, §2, Oct. 19, 2012, 126 Stat. 1459; Pub. L. 114–94, div. A, title V, §5401(d), Dec. 4, 2015, 129 Stat. 1547.)
 
 Historical and Revision Notes
 
@@ -203,6 +207,8 @@ Par. (3) of section 31308 of this title, referred to in subsec. (a)(4), was rede
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(23), (25), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(12)(C)(ii). Pub. L. 114–94 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and".
 
 <b>2012</b>—Subsec. (a)(5). Pub. L. 112–141, §32305(b)(1)(A), substituted "Not later than the time period prescribed by the Secretary by regulation," for "At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation),".
 
@@ -246,13 +252,21 @@ Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (
 
 <b>1995</b>—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
+
+#### Regulations
+
+Pub. L. 114–94, div. A, title V, §5401(c), Dec. 4, 2015, 129 Stat. 1547, provided that: "Not later than December 31, 2015, the Secretary \[of Transportation\] shall issue final regulations to implement the exemption to the domicile requirement under section 31311(a)(12)(C) of title 49, United States Code."
 
 #### State-to-State Notification of Violations Data
 

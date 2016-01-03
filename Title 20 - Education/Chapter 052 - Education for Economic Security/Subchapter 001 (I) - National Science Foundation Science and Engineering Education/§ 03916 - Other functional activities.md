@@ -8,7 +8,7 @@
 
 &emsp;(2) is located in a community that is not within commuting distance of a major institution of higher education; and
 
-&emsp;(3) demonstrates a commitment to meet the special educational needs of students who are members of a minority group or are economically or educationally disadvantaged.
+&emsp;(3) demonstrates a commitment to meet the special educational needs of students who aremembers of a minority group or are economically or educationally disadvantaged.
 
 (Pub. L. 98–377, title I, §106, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 896.)
 

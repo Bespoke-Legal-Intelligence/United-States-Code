@@ -8,7 +8,7 @@ For purposes of this part, the following definitions apply:
 
 #### (2) Act of terrorism
 
-&emsp;(A) The term "act of terrorism" means any act that the Secretary determines meets the requirements under subparagraph (B), as such requirements are further defined and specified by the Secretary.
+&emsp;(A) The term "act of terrorism" means any act that the Secretary determines meets therequirements under subparagraph (B), as such requirements are further defined and specified by the Secretary.
 
 &emsp;(B)
 
@@ -44,7 +44,7 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 #### (6) Non-Federal Government customers
 
-&emsp;The term "non-Federal Government customers" means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims againstits contractors, including but not limited to State and local authorities and commercial entities.
+&emsp;The term "non-Federal Government customers" means any customer of a Seller that is not an agency or instrumentality of the United States Government with authority under Public Law 85–804 \[50 U.S.C. 1431 et seq.\] to provide for indemnification under certain circumstances for third-party claims against its contractors, including but not limited to State and local authorities and commercial entities.
 
 (Pub. L. 107–296, title VIII, §865, Nov. 25, 2002, 116 Stat. 2241.)
 

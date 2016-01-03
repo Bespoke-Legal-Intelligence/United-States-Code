@@ -48,7 +48,7 @@ The notice described in subsection (b) shall be provided—
 
 #### (e) Consideration of borrowers for loan service programs
 
-The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director,after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower's farming operations.
+The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower's farming operations.
 
 (Pub. L. 87–128, title III, §331D, as added Pub. L. 100–233, title VI, §605, Jan. 6, 1988, 101 Stat. 1666; amended Pub. L. 101–624, title XVIII, §1807, Nov. 28, 1990, 104 Stat. 3819; Pub. L. 102–554, §10, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 104–127, title VI, §633, Apr. 4, 1996, 110 Stat. 1092.)
 

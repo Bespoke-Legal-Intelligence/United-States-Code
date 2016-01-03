@@ -10,7 +10,7 @@
 
 &emsp;(ii) the amount of the disbursement for the second and any subsequent 12-month period for which disbursements are to be made under the support loan shall be reduced by an amount determined by multiplying the amount calculated under paragraph (3) by a factor determined by dividing the number of 12-month periods for which disbursements are made under the support loan into the number of such periods which have elapsed;
 
-&emsp;(iii) commencing at the end of the last of such 12-month periods, the support loan shall be repayable over a period equal to the then remaining useful life of the project (as determined by the Secretary) or 10 years, whichever is shorter; and
+&emsp;(iii) commencing at the end of the last of such 12-month periods, the support loan shall be repayable over a period equal to the thenremaining useful life of the project (as determined by the Secretary) or 10 years, whichever is shorter; and
 
 &emsp;(iv) commencing at the end of such last 12-month period, such loan shall bear interest at a rate determined by the Secretary of Energy (taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
 

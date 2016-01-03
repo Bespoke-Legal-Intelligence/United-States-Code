@@ -18,7 +18,7 @@ Pub. L. 91–156, §1(a), added par. 5.
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–156, §1(b), Dec. 24, 1969, 83 Stat. 434, provided that: "The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and localgovernments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\]."
+Pub. L. 91–156, §1(b), Dec. 24, 1969, 83 Stat. 434, provided that: "The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and local governments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\]."
 
 Pub. L. 91–156, §2(b), Dec. 24, 1969, 83 Stat. 434, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: "The amendment made by subsection (a) \[removing all special restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973".
 
@@ -48,7 +48,7 @@ Pub. L. 93–100, §7, Aug. 16, 1973, 87 Stat. 347, eff. on the 30th day after A
 
 #### Study by Board of Governors of Federal Reserve System; Report by June 22, 1972
 
-Pub. L. 92–213, §4(b), Dec. 22, 1971, 85 Stat. 775, required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
+Pub. L. 92–213, §4(b), Dec. 22, 1971, 85 Stat. 775, required the Board of Governors of the Federal ReserveSystem to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
 
 #### Study by Board of Governors of Federal Reserve System; Report by Dec. 31, 1970
 

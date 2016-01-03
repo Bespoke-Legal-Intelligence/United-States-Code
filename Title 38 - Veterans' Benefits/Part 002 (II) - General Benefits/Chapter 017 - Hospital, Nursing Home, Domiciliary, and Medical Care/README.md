@@ -14,6 +14,7 @@
 | [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
 | [1709\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709%20-%20Comprehensive%20policy%20on%20reporting%20and%20tracking%20sexual%20assault%20incidents%20and%20other%20safety%20incidents.md) | Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents. |
 | [1709A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709A%20-%20Teleconsultation.md) | Teleconsultation. |
+| [1709B.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709B%20-%20Evaluations%20of%20mental%20health%20care%20and%20suicide%20prevention%20programs.md) | Evaluations of mental health care and suicide prevention programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -136,6 +137,8 @@
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–2, §2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
+
 <b>2012</b>—Pub. L. 112–154, title I, §§102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
 <b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 "Counseling, training, and mental health services for immediate family members".
@@ -164,7 +167,7 @@ Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 
 
 <b>1998</b>—Pub. L. 105–368, title IX, §901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
 
-<b>1997</b>—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted "Treatment and rehabilitative services for persons with drug or alcohol dependency" for "Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities" in item 1720A, struck out ": pilot program" after "home care" in item 1720C, and added item for subchapter VII and items 1771 to 1774.
+<b>1997</b>—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted "Treatment andrehabilitative services for persons with drug or alcohol dependency" for "Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities" in item 1720A, struck out ": pilot program" after "home care" in item 1720C, and added item for subchapter VII and items 1771 to 1774.
 
 Pub. L. 105–33, title VIII, §8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
 

@@ -12,7 +12,7 @@ Whenever more than one of the pursuits or occupations described in this subchapt
 
 #### (1) Liability for tax
 
-&emsp;The payment of a special tax imposed by this subchapter shall not exempt from an additional special tax the person carrying on a trade or business in any other place than that stated in the register kept in the office of the official in charge of the internal revenue district.
+&emsp;The payment of a special tax imposed by this subchapter shall not exempt from an additional special tax the person carrying on a trade or business in any other place than thatstated in the register kept in the office of the official in charge of the internal revenue district.
 
 #### (2) Storage
 

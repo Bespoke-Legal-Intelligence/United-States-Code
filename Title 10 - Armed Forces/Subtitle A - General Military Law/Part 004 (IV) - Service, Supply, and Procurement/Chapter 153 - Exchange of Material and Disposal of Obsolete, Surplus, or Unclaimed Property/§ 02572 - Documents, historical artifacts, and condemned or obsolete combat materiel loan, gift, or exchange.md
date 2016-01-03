@@ -16,7 +16,7 @@
 
 &emsp;(7) A post of the Sons of Veterans Reserve.
 
-(b)(1) Subject to paragraph (2), the Secretary concerned may exchange items described in subsection (c) that are not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:
+(b)(1) Subject to paragraph (2), the Secretary concerned may exchange items described in subsection (c) that are not needed by the armedforces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:
 
 &emsp;(A) Similar items held by any individual, organization, institution, agency, or nation.
 

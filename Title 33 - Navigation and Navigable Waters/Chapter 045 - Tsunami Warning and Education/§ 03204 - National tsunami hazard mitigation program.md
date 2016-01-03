@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, through the National Weather Service and in consultation with otherrelevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.
+The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall conduct a community-based tsunami hazard mitigation program to improve tsunami preparedness of at-risk areas in the United States and its territories.
 
 #### (b) Coordinating committee
 
@@ -22,7 +22,7 @@ The program under this section shall—
 
 &emsp;(1) use inundation models that meet a standard of accuracy defined by the Administration to improve the quality and extent of inundation mapping, including assessment of vulnerable inner coastal and nearshore areas, in a coordinated and standardized fashion to maximize resources and the utility of data collected;
 
-&emsp;(2) promote and improve community outreach and education networks and programs to ensure community readiness, including the development of comprehensive coastal risk and vulnerability assessment training and decision support tools, implementation of technical training and public education programs, and providing for certification of prepared communities;
+&emsp;(2) promote and improve community outreach and education networks and programs to ensure community readiness, including the development of comprehensive coastal risk and vulnerability assessment training and decision support tools, implementation of technical training and public education programs, andproviding for certification of prepared communities;
 
 &emsp;(3) integrate tsunami preparedness and mitigation programs into ongoing hazard warning and risk management activities, emergency response plans, and mitigation programs in affected areas, including integrating information to assist in tsunami evacuation route planning;
 

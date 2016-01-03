@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, Federal recognition is hereby extend
 
 #### (b) Restoration of rights and privileges
 
-Except as provided in subsection (d) of this section, all rights and privileges of the Tribe and its members under any Federal treaty, Executive order, agreement, or statute, or under any other authority which were diminished or lost under the Act of August 18, 1958 (Public Law 85–671), are hereby restored and the provisions of such Act shall be inapplicable to the Tribe and its members after October 31, 1994.
+Except as provided in subsection (d), all rights and privileges of the Tribe and its members under any Federal treaty, Executive order, agreement, or statute, or under any other authority which were diminished or lost under the Act of August 18, 1958 (Public Law 85–671), are hereby restored and the provisions of such Act shall be inapplicable to the Tribe and its members after October 31, 1994.
 
 #### (c) Federal services and benefits
 
@@ -22,7 +22,7 @@ The Act of June 18, 1934 (25 U.S.C. 461 et seq.), shall be applicable to the Tri
 
 #### (f) Certain rights not altered
 
-Except as specifically provided in this subchapter, nothing in this subchapter shall alterany property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
+Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes levied.
 
 (Pub. L. 103–434, title II, §202, Oct. 31, 1994, 108 Stat. 4533.)
 

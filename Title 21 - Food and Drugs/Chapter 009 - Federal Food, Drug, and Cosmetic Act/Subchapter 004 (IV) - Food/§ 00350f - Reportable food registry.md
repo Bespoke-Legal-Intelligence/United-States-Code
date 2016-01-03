@@ -116,7 +116,7 @@ In this section:
 
 #### (8) Amended report
 
-&emsp;If a responsible party receives a notification under paragraph (6)(B) or paragraph (7)(C) with respect to an article of food after the responsible party has submitted a report to the Food and Drug Administration under paragraph (1) with respect to such article of food—
+&emsp;If a responsible party receives a notification under paragraph (6)(B) or paragraph (7)(C) with respect to an article of food after the responsible party has submitted a report to theFood and Drug Administration under paragraph (1) with respect to such article of food—
 
 &emsp;&emsp;(A) the responsible party is not required to submit an additional report or make a notification under paragraph (7); and
 
@@ -204,7 +204,7 @@ Except with respect to fruits and vegetables that are raw agricultural commoditi
 
 #### (2) States and localities
 
-&emsp;In implementing this section, the Secretary shall work with the State and local public health officials to share information and coordinate regulatory efforts, in order to—
+&emsp;In implementing this section, the Secretary shall work with the State and local publichealth officials to share information and coordinate regulatory efforts, in order to—
 
 &emsp;&emsp;(A) help to ensure coverage of the safety of the food supply chain, including those food establishments regulated by the States and localities that are not required to register under section 350d of this title; and
 
@@ -242,7 +242,7 @@ Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), w
 
 #### Effective Date
 
-Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: "The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C.350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\]."
+Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: "The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f(d)\], as added by subsection (a) \[probably should be (b)\], shall become effective 1 year after the date of the enactment of this Act \[Sept. 27, 2007\]."
 
 #### Construction of 2011 Amendment
 

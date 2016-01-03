@@ -40,9 +40,9 @@ The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 
 
 The Trade Agreements Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably means the North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act tothe Code, see Short Title note set out under section 3301 of Title 19, Customs Duties, and Tables.
+The North American Free Trade Area Implementation Act, referred to in subsec. (a)(2), probably means the North American Free Trade Agreement Implementation Act, Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 19, Customs Duties, and Tables.
 
-The Uruguay Round Agreements Act, referred to in subsec. (a)(2), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 19, Customs Duties, and Tables.
+The Uruguay Round Agreements Act, referred to in subsec. (a)(2), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, as amended. For complete classification of thisAct to the Code, see Short Title note set out under section 3501 of Title 19, Customs Duties, and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(2), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 

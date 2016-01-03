@@ -2,7 +2,7 @@
 
 #### (a) Manufacture or distribution for purpose of unlawful importation
 
-It shall be unlawful for any person to manufacture or distribute a controlled substance inschedule I or II or flunitrazepam or listed chemical—
+It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
 
 &emsp;(1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
 

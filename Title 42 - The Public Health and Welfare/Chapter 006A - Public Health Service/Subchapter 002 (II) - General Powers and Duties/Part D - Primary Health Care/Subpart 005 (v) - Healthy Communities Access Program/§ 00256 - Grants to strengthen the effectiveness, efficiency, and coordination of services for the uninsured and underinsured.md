@@ -94,7 +94,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 In awarding grants under this section, the Secretary—
 
-&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in the community involved for a more coordinated system of care; and
+&emsp;(1) shall accord priority to applicants that demonstrate the extent of unmet need in thecommunity involved for a more coordinated system of care; and
 
 &emsp;(2) may accord priority to applicants that best promote the objectives of this section, taking into consideration the extent to which the application involved—
 
@@ -156,7 +156,7 @@ In awarding grants under this section, the Secretary—
 
 #### (3) Reservation of funds for national program purposes
 
-&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance tograntees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
+&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance to grantees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
 
 #### (f) Grantee requirements
 

@@ -8,7 +8,7 @@ Not later than 1 year after November 9, 1978, and annually thereafter for 10 yea
 
 Not later than 18 months after November 9, 1978, and annually thereafter for 10 years, the Secretary shall submit a report to the President and the Congress containing—
 
-&emsp;(1) a summary of the reports submitted under subsection (a) of this section,
+&emsp;(1) a summary of the reports submitted under subsection (a),
 
 &emsp;(2) his analysis of such reports, and
 

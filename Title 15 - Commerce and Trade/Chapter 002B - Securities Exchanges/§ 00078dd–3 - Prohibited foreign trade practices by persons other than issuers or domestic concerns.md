@@ -30,7 +30,7 @@ It shall be unlawful for any person other than an issuer that is subject to sect
 
 #### (b) Exception for routine governmental action
 
-Subsection (a) of this section shall not apply to any facilitating or expediting payment to aforeign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+Subsection (a) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
 
 #### (c) Affirmative defenses
 

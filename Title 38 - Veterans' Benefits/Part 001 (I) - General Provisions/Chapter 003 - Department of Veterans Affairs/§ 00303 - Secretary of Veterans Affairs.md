@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 210(a), (b
 
 #### Notice to Congressional Veterans Committees of Certain Transfers of Funds
 
-Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
+Pub. L. 109–461, title X, §1001, Dec. 22, 2006, 120 Stat. 3464, provided that: "To the extent that the Secretaryof Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
 
 #### National Center on War-Related Illnesses and Post-Deployment Health Issues
 
@@ -88,7 +88,7 @@ Pub. L. 100–322, title I, §123, May 20, 1988, 102 Stat. 504, as amended by Pu
 
 "(a)
 
-Information Program.—The Secretary of Veterans Affairs shall establish and carry out an information program relating to the acquired immune deficiency syndrome (hereinafter in this section referred to as 'AIDS'). The information program shall be for employees and consultants of the Department of Veterans Affairs, for other persons providing services in Department of Veterans Affairs facilities to beneficiaries of programs administered by the Department of Veterans Affairs, and for such beneficiaries.
+Information Program.—The Secretary of Veterans Affairs shall establish and carry out an information program relating to the acquired immune deficiency syndrome (hereinafter in this section referred to as 'AIDS'). The information program shall be for employees and consultants of the Department of Veterans Affairs, for other persons providing services in Department of Veterans Affairs facilities to beneficiaries ofprograms administered by the Department of Veterans Affairs, and for such beneficiaries.
 
 "(b)
 
@@ -100,7 +100,7 @@ Required Elements of Information Program.—In conducting the program under subs
 
 &emsp;"(3) make publications and other suitable materials containing such information readily available in Department of Veterans Affairs health-care facilities and such other Department of Veterans Affairs facilities as the Secretary considers appropriate; and
 
-&emsp;"(4) disseminate information (including the Surgeon General's Report on AIDS) on the risk of transmission of the human immunodeficiency virus, and information on preventing the transmission of such virus, to Department of Veterans Affairs substanceabuse treatment personnel, to each person being furnished treatment by the Department of Veterans Affairs for drug abuse, and to each person receiving care or services from the Department of Veterans Affairs whom the Secretary believes to be at high risk for AIDS.
+&emsp;"(4) disseminate information (including the Surgeon General's Report on AIDS) on the risk of transmission of the human immunodeficiency virus, and information on preventing the transmission of such virus, to Department of Veterans Affairs substance abuse treatment personnel, to each person being furnished treatment by the Department of Veterans Affairs for drug abuse, and to each person receiving care or services from the Department of Veterans Affairs whom the Secretary believes to be at high risk for AIDS.
 
 "(c)
 

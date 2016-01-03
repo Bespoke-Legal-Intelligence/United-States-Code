@@ -2,13 +2,13 @@
 
 #### (a) Rules and regulations
 
-The Commission shall have authority from time to time to make, amend, and rescind such rules and regulations as may be necessary to carry out the provisions of this subchapter, including rules and regulations governing registration statements and prospectuses for various classes of securities and issuers, and defining accounting, technical, and trade terms used in this subchapter. Among other things, the Commission shall have authority, for the purposes of this subchapter, to prescribe the form or forms in which required information shall be set forth, the items or details to be shown in the balance sheet and earning statement, and the methods to be followed in the preparation of accounts, in the appraisal or valuation of assets and liabilities, in the determination of depreciation and depletion, in the differentiation of recurring and nonrecurring income, in the differentiation of investment and operating income, and in the preparation, where the Commission deems it necessary or desirable, of consolidated balance sheets or income accounts of any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer. The rules and regulations of the Commission shall be effective upon publication in the manner which the Commission shall prescribe. No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule or regulation of the Commission, notwithstanding that such rule or regulation may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+The Commission shall have authority from time to time to make, amend, and rescind such rules and regulations as may be necessary tocarry out the provisions of this subchapter, including rules and regulations governing registration statements and prospectuses for various classes of securities and issuers, and defining accounting, technical, and trade terms used in this subchapter. Among other things, the Commission shall have authority, for the purposes of this subchapter, to prescribe the form or forms in which required information shall be set forth, the items or details to be shown in the balance sheet and earning statement, and the methods to be followed in the preparation of accounts, in the appraisal or valuation of assets and liabilities, in the determination of depreciation and depletion, in the differentiation of recurring and nonrecurring income, in the differentiation of investment and operating income, and in the preparation, where the Commission deems it necessary or desirable, of consolidated balance sheets or income accounts of any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer. The rules and regulations of the Commission shall be effective upon publication in the manner which the Commission shall prescribe. No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule or regulation of the Commission, notwithstanding that such rule or regulation may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
 #### (b) Recognition of accounting standards
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -22,7 +22,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 &emsp;&emsp;&emsp;(v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
 
-&emsp;&emsp;(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+&emsp;&emsp;(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) and section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
 
 #### (2) Annual report
 
@@ -30,7 +30,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (c) Production of evidence
 
-For the purpose of all investigations which, in the opinion of the Commission, are necessaryand proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
+For the purpose of all investigations which, in the opinion of the Commission, are necessary and proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
 
 #### (d) Federal and State cooperation
 
@@ -52,7 +52,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(B) the development and maintenance of uniform securities forms and procedures; and
 
-&emsp;(C) the development of a uniform exemption from registration for small issuers which can be agreed upon among several States or between the States and the Federal Government. The Commission shall have the authority to adopt such an exemption as agreed upon for Federal purposes. Nothing in this chapter shall be construed as authorizing preemption of State law.
+&emsp;(C) the development of a uniform exemption from registration for small issuers which can be agreed upon among several States or between the States and the Federal Government.The Commission shall have the authority to adopt such an exemption as agreed upon for Federal purposes. Nothing in this chapter shall be construed as authorizing preemption of State law.
 
 (4) In order to carry out these policies and purposes, the Commission shall conduct an annual conference as well as such other meetings as are deemed necessary, to which representatives from such securities associations, securities self-regulatory organizations, agencies, and private organizations involved in capital formation shall be invited to participate.
 
@@ -161,4 +161,40 @@ Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not 
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Study on Modernization and Simplification of Regulation S–K
+
+Pub. L. 114–94, div. G, title LXXII, §72003, Dec. 4, 2015, 129 Stat. 1785, provided that:
+
+"(a)
+
+Study.—The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 CFR 229.10 et seq.). Such study shall—
+
+&emsp;"(1) determine how best to modernize and simplify such requirements in a manner that reduces the costs and burdens on issuers while still providing all material information;
+
+&emsp;"(2) emphasize a company by company approach that allows relevant and material information to be disseminated to investors without boilerplate language or static requirements while preserving completeness and comparability of information across registrants; and
+
+&emsp;"(3) evaluate methods of information delivery and presentation and explore methods for discouraging repetition and the disclosure of immaterial information.
+
+"(b)
+
+Consultation.—In conducting the study required under subsection (a), the Commission shall consult with the Investor Advisory Committee and the Advisory Committee on Small and Emerging Companies.
+
+"(c)
+
+Report.—Not later than the end of the 360-day period beginning on the date of enactment of this Act \[Dec. 4, 2015\], the Commission shall issue a report to the Congress containing—
+
+&emsp;"(1) all findings and determinations made in carrying out the study required under subsection (a);
+
+&emsp;"(2) specific and detailed recommendations on modernizing and simplifying the requirements in regulation S–K in a manner that reduces the costs and burdens on companies while still providing all material information; and
+
+&emsp;"(3) specific and detailed recommendations on ways to improve the readability and navigability of disclosure documents and to discourage repetition and the disclosure of immaterial information.
+
+"(d)
+
+Rulemaking.—Not later than the end of the 360-day period beginning on the date that the report is issued to the Congress under subsection (c), the Commission shall issue a proposed rule to implement the recommendations of the report issued under subsection (c).
+
+"(e)
+
+Rule of Construction.—Revisions made to regulation S–K by the Commission under section 202 \[probably means section 72002 of Pub. L. 114–94, set out as a note under section 77g of this title\] shall not be construed as satisfying the rulemaking requirements under this section."
 

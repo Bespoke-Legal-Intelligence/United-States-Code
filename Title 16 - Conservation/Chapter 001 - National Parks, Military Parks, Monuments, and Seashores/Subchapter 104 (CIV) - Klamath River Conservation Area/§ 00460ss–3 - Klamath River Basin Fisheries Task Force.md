@@ -66,13 +66,13 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (3) Vacancies
 
-&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serveafter the expiration of his term until his successor has taken office.
+&emsp;Any vacancy on the Task Force shall be filled in the manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.
 
 #### (f) Transaction of business
 
 #### (1) Procedures
 
-&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
+&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b). The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
 
 #### (2) Chairman
 
@@ -94,7 +94,7 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (3) Organization
 
-&emsp;The Task Force shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b) of this section.
+&emsp;The Task Force shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b).
 
 #### (h) Members who are Federal or State employees
 
@@ -104,7 +104,7 @@ Any Task Force member who is an officer or employee of the United States, the St
 
 #### (1) Travel expenses
 
-&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
+&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, inthe same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
 
 #### (2) Limitation on spending authority
 

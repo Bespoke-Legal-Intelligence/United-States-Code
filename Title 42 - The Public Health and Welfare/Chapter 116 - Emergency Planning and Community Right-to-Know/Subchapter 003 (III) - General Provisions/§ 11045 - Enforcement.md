@@ -50,7 +50,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (2) Criminal penalty for disclosure of trade secret information
 
-&emsp;Any person who knowingly and willfully divulges or discloses any information entitled to protection under section 11042 of this title shall, upon conviction, be subject to a fine of not more than $20,000 or to imprisonment not to exceed one year, or both.
+&emsp;Any person who knowingly and willfully divulges or discloses any information entitled toprotection under section 11042 of this title shall, upon conviction, be subject to a fine of not more than $20,000 or to imprisonment not to exceed one year, or both.
 
 #### (e) Special enforcement provisions for section 11043
 

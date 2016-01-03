@@ -122,7 +122,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;&emsp;(IV) chemical and material form;
 
-&emsp;&emsp;(V) for radioactive materials with a medical use, the availability of the sources to physicians and patients for medical treatment; and
+&emsp;&emsp;(V) for radioactive materials with a medical use, the availability of the sources tophysicians and patients for medical treatment; and
 
 &emsp;&emsp;(VI) any other factor that the Chairperson of the Commission determines to be appropriate;
 
@@ -138,7 +138,7 @@ A violation of a regulation issued under subsection (a) or (b) of this section s
 
 &emsp;(vii)(I) any alternative technologies available as of the date on which the report is submitted that may perform some or all of the functions performed by devices or processes that employ radiation sources; and
 
-&emsp;(II) the establishment of appropriate regulations and incentives for the replacement of thedevices and processes described in subclause (I)—
+&emsp;(II) the establishment of appropriate regulations and incentives for the replacement of the devices and processes described in subclause (I)—
 
 &emsp;&emsp;(aa) with alternative technologies in order to reduce the number of radiation sources in the United States; or
 

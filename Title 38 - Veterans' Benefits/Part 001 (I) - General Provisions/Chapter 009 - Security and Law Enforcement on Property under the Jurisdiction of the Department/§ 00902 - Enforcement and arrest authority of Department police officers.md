@@ -46,7 +46,7 @@ Provisions similar to those in this section were contained in section 218(b) of 
 
 &emsp;"(C) subject to paragraph (2), traffic and motor vehicle laws of a State or local government within the jurisdiction of which such Department property is located."
 
-Subsec. (a)(2), (3). Pub. L. 111–163, §1001(1)(B), (C), redesignated par. (3) as (2), inserted ", and on any arrest warrant issued by competent judicial authority" before the period, and struck out former par. (2) which read as follows: "A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authority under applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law."
+Subsec. (a)(2), (3). Pub. L. 111–163, §1001(1)(B), (C), redesignated par. (3) as (2), inserted ", and on any arrest warrant issued by competent judicial authority" before the period, and struck out former par. (2) which read as follows: "A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authorityunder applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law."
 
 Subsec. (c). Pub. L. 111–163, §1001(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary shall consult with the Attorney General before prescribing regulations under paragraph (1) of subsection (b)."
 

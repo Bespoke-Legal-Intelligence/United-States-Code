@@ -84,11 +84,19 @@ Another prior section 2330 was renumbered section 2349 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations.The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–239 substituted "including services in support of contingency operations. The term does not include services relating to research and development or military construction." for "other than services relating to research and development or military construction."
 
 <b>2006</b>—Pub. L. 109–163 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirement for management structure, contracting responsibilities of designated officials, and definitions.
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 inserted comma after "a task order".
+
+#### Examination and Guidance Relating to Oversight and Approval of Services Contracts
+
+Pub. L. 114–92, div. A, title VIII, §882, Nov. 25, 2015, 129 Stat. 942, provided that: "Not later than March 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+
+&emsp;"(1) complete an examination of the decision authority related to acquisition of services; and
+
+&emsp;"(2) develop and issue guidance to improve capabilities and processes related to requirements development and source selection for, and oversight and management of, services contracts."
 
 #### Implementation of Recommendations of Defense Science Board Task Force on Improvements to Service Contracting
 
@@ -254,7 +262,7 @@ Guidance and Instructions.—Not later than 180 days after the date of the enact
 
 &emsp;"(4) the staffing of contract management and oversight functions; and
 
-&emsp;"(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
+&emsp;"(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of theJohn Warner National Defense Authorization Act for Fiscal Year 2007 \[Pub. L. 109–364, 10 U.S.C. 2324 note\]), by the contractor.
 
 "(b)
 
@@ -356,7 +364,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'senior procurement executive' means the official designated as the senior procurement executive under section 1702(c) of title 41, United States Code.
 
-&emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
+&emsp;"(2) The term 'performance-based', with respect to a contract or a task order means that the contract ortask order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 
 #### Performance Goals for Procurements of Services
 

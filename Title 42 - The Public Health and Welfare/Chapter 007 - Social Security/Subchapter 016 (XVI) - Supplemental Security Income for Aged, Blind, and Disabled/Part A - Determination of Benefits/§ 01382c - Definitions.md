@@ -58,7 +58,7 @@
 
 (I) In making any determination under this subchapter with respect to the disability of an individual who has not attained the age of 18 years and to whom section 421(h) of this title does not apply, the Commissioner of Social Security shall make reasonable efforts to ensure that a qualified pediatrician or other individual who specializes in a field of medicine appropriate to the disability of the individual (as determined by the Commissioner of Social Security) evaluates the case of such individual.
 
-(J) Notwithstanding subparagraph (A), an individual shall not be considered to be disabled forpurposes of this subchapter if alcoholism or drug addiction would (but for this subparagraph) be a contributing factor material to the Commissioner's determination that the individual is disabled.
+(J) Notwithstanding subparagraph (A), an individual shall not be considered to be disabled for purposes of this subchapter if alcoholism or drug addiction would (but for this subparagraph) be a contributing factor material to the Commissioner's determination that the individual is disabled.
 
 (4) A recipient of benefits based on disability under this subchapter may be determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits are provided has ceased, does not exist, or is not disabling only if such finding is supported by—
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) in the case of an individual who is under the age of 18—
 
-&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment or combination of impairments, and that such impairment or combination of impairments no longer results in marked and severe functional limitations; or
+&emsp;&emsp;(i) substantial evidence which demonstrates that there has been medical improvement in the individual's impairment or combination of impairments, and that such impairment or combination of impairmentsno longer results in marked and severe functional limitations; or
 
 &emsp;&emsp;(ii) substantial evidence which demonstrates that, as determined on the basis of new or improved diagnostic techniques or evaluations, the individual's impairment or combination of impairments, is not as disabling as it was considered to be at the time of the most recent prior decision that the individual was under a disability or continued to be under a disability, and such impairment or combination of impairments does not result in marked and severe functional limitations; or
 
@@ -122,7 +122,7 @@
 
 &emsp;(iv) but for this subparagraph, would not be eligible for benefits under this subchapter.
 
-(3) For purposes of determining eligibility for and the amount of benefits for any individual who is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
+(3) For purposes of determining eligibility for and the amount of benefits for any individualwho is an alien, such individual's income and resources shall be deemed to include the income and resources of his sponsor and such sponsor's spouse (if such alien has a sponsor) as provided in section 1382j of this title. Any such income deemed to be income of such individual shall be treated as unearned income of such individual.
 
 (4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
@@ -310,7 +310,7 @@ Report.—The Commissioner of Social Security shall report to the Congress regar
 
 "(4)
 
-Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 etseq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
+Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 "(5)
 
@@ -392,7 +392,7 @@ Amendment by section 302(a)(2) of Pub. L. 96–265 applicable with respect to ex
 
 Amendment by section 303(c)(1) of Pub. L. 96–265 effective on first day of sixth month which begins after June 9, 1980, and applicable with respect to any individual whose disability has not been determined to have ceased prior to such first day, see section 303(d) of Pub. L. 96–265, set out as a note under section 402 of this title.
 
-Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c)of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
+Amendment by section 504(a) of Pub. L. 96–265 effective with respect to individuals applying for supplemental security income benefits under this subchapter for the first time after Sept. 30, 1980, see section 504(c) of Pub. L. 96–265, set out as an Effective Date note under section 1382j of this title.
 
 #### Effective Date
 

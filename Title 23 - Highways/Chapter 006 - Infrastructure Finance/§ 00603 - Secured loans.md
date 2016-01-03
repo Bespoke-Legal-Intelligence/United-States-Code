@@ -22,7 +22,11 @@ Agreements.—Subject to paragraphs (2) and (3), the Secretary may enter into ag
 
 &emsp;(2)
 
-Limitation on refinancing of interim construction financing.—A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.
+Limitation on refinancing of interim construction financing.—A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B)—
+
+&emsp;&emsp;(A) if the maturity of such interim construction financing is later than 1 year after the substantial completion of the project; and
+
+&emsp;&emsp;(B) later than 1 year after the date of substantial completion of the project.
 
 &emsp;(3)
 
@@ -38,7 +42,15 @@ In general.—A secured loan under this section with respect to a project shall 
 
 &emsp;(2)
 
-Maximum amount.—The amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+Maximum amount.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+
+&emsp;&emsp;(B)
+
+Rural projects fund.—In the case of a project capitalizing a rural projects fund, the maximum amount of a secured loan made to a State infrastructure bank shall be determined in accordance with section 602(a)(5)(B)(iii).
 
 &emsp;(3)
 
@@ -52,9 +64,11 @@ Payment.—A secured loan under this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) user fees;
 
-&emsp;&emsp;&emsp;&emsp;(III) payments owing to the obligor under a public-private partnership; or
+&emsp;&emsp;&emsp;&emsp;(III) payments owing to the obligor under a public-private partnership;
 
-&emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; and
+&emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; or
+
+&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenuesources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
 &emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -74,11 +88,11 @@ Rural infrastructure projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The interest rate of a loan offered to a rural infrastructure project under this chapter shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
+In general.—The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
 &emsp;&emsp;&emsp;(ii)
 
-Application.—The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects under section 608(a)(3)(A).
+Application.—The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects and rural project funds under section 608(a)(3)(A).
 
 &emsp;&emsp;(C)
 
@@ -90,11 +104,19 @@ Limited buydowns.—The interest rate of a secured loan under this section may n
 
 &emsp;(5)
 
-Maturity date.—The final maturity date of the secured loan shall be the lesser of—
+Maturity date.—
 
-&emsp;&emsp;(A) 35 years after the date of substantial completion of the project; and
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+In general.—Except as provided in subparagraph (B), the final maturity date of the secured loan shall be the lesser of—
+
+&emsp;&emsp;&emsp;(i) 35 years after the date of substantial completion of the project; and
+
+&emsp;&emsp;&emsp;(ii) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+
+&emsp;&emsp;(B)
+
+Rural projects fund.—In the case of a project capitalizing a rural projects fund, the final maturity date of the secured loan shall not exceed 35 years after the date on which the secured loan is obligated.
 
 &emsp;(6)
 
@@ -132,11 +154,19 @@ Fees.—The Secretary may establish fees at a level sufficient to cover all or a
 
 &emsp;(8)
 
-Non-federal share.—The proceeds of a secured loan under this chapter may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
+Non-federal share.—The proceeds of a secured loan under the TIFIA program may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
 
 &emsp;(9)
 
-Maximum federal involvement.—The total Federal assistance provided on a project receiving a loan under this chapter shall not exceed 80 percent of the total project cost.
+Maximum federal involvement.—
+
+&emsp;&emsp;(A)
+
+In general.—The total Federal assistance provided for a project receiving a loan under the TIFIA program shall not exceed 80 percent of the total project cost.
+
+&emsp;&emsp;(B)
+
+Rural projects fund.—A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).
 
 (c)
 
@@ -218,9 +248,49 @@ In general.—The Secretary may provide a loan guarantee to a lender in lieu of 
 
 Terms.—The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614.)
+(f)
+
+Streamlined Application Process.—
+
+&emsp;(1)
+
+In general.—Not later than 180 days after the date of enactment of the FAST Act, the Secretary shall make available an expedited application process or processes available at the request of entities seeking secured loans under the TIFIA program that use a set or sets of conventional terms established pursuant to this section.
+
+&emsp;(2)
+
+Terms.—In establishing the streamlined application process required by this subsection, the Secretary may include terms commonly included in prior credit agreements and allow for an expedited application period, including—
+
+&emsp;&emsp;(A) the secured loan is in an amount of not greater than $100,000,000;
+
+&emsp;&emsp;(B) the secured loan is secured and payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge, tax increment financing, or a system-backed pledge of project revenues; and
+
+&emsp;&emsp;(C) repayment of the loan commences not later than 5 years after disbursement.
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
+
+#### References in Text
+
+The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
+
+Subsec. (b)(2). Pub. L. 114–94, §2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted "Except as provided in subparagraph (B), the amount of" for "The amount of", and added subpar. (B).
+
+Subsec. (b)(3)(A)(i)(V). Pub. L. 114–94, §2001(c)(2)(B), added subcl. (V).
+
+Subsec. (b)(4)(B)(i). Pub. L. 114–94, §2001(c)(2)(C)(i), substituted "or a rural projects fund under the TIFIA program" for "under this chapter".
+
+Subsec. (b)(4)(B)(ii). Pub. L. 114–94, §2001(c)(2)(C)(ii), inserted "and rural project funds" after "rural infrastructure projects".
+
+Subsec. (b)(5). Pub. L. 114–94, §2001(c)(2)(D), designated existing provisions as subpar. (A) and inserted heading, substituted "Except as provided in subparagraph (B), the final" for "The final", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(8). Pub. L. 114–94, §2001(c)(2)(E), substituted "the TIFIA program" for "this chapter".
+
+Subsec. (b)(9). Pub. L. 114–94, §2001(c)(2)(F), designated existing provisions as subpar. (A) and inserted heading, substituted "The total Federal assistance provided for a project receiving a loan under the TIFIA program" for "The total Federal assistance provided on a project receiving a loan under this chapter", and added subpar. (B).
+
+Subsec. (f). Pub. L. 114–94, §2001(c)(3), added subsec. (f).
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to secured loans.
 
@@ -245,6 +315,10 @@ Subsec. (b)(4). Pub. L. 109–59, §1601(d)(3)(C), struck out "marketable" befor
 Subsec. (b)(8). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter".
 
 Subsec. (c)(3) to (5). Pub. L. 109–59, §1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out "during the 10 years" after "at any time", in par. (3)(B)(ii), substituted "loan" for "loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)", and struck out heading and text of former par. (3). Text read as follows: "The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

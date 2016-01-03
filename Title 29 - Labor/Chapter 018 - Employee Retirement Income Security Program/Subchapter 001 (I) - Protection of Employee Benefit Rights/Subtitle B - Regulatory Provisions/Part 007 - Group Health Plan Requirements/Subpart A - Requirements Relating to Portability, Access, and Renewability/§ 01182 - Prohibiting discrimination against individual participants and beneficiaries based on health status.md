@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) The request is made, in writing, pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
-&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in thecase of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
+&emsp;&emsp;(B) The plan or issuer clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 
 &emsp;&emsp;&emsp;(i) compliance with the request is voluntary; and
 
@@ -112,7 +112,7 @@
 
 #### (e) Application to all plans
 
-The provisions of subsections (a)(1)(F), (b)(3), (c), and (d), and subsection (b)(1) and section 1181 of this title with respect to genetic information, shall apply to group health plans and health insurance issuers without regard to section 1191a(a) of this title.
+The provisions of subsections (a)(1)(F), (b)(3), (c), and (d), and subsection (b)(1) and section 1181 of this title with respect to genetic information,shall apply to group health plans and health insurance issuers without regard to section 1191a(a) of this title.
 
 #### (f) Genetic information of a fetus or embryo
 

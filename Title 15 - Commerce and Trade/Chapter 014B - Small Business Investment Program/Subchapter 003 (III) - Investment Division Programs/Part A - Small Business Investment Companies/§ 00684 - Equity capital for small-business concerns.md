@@ -8,7 +8,7 @@ It shall be a function of each small business investment company to provide a so
 
 Before any capital is provided to a small-business concern under this section—
 
-&emsp;(1) the company may require such concern to refinance any or all of its outstanding indebtedness so that the company is the only holder of any evidence of indebtedness of such concern; and
+&emsp;(1) the company may require such concern to refinance any or all of its outstanding indebtedness so that the company is the only holderof any evidence of indebtedness of such concern; and
 
 &emsp;(2) except as provided in regulations issued by the Administration, such concern shall agree that it will not thereafter incur any indebtedness without first securing the approval of the company and giving the company the first opportunity to finance such indebtedness.
 

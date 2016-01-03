@@ -2,7 +2,7 @@
 
 #### (a) "Internee" defined
 
-For the purposes of this section the term "internee" means an individual who was interned during any period of time from December 7, 1941, through December 31, 1946, at a place within theUnited States operated by the Government of the United States for the internment of United States citizens of Japanese ancestry.
+For the purposes of this section the term "internee" means an individual who was interned during any period of time from December 7, 1941, through December 31, 1946, at a place within the United States operated by the Government of the United States for the internment of United States citizens of Japanese ancestry.
 
 #### (b) Applicability in determining entitlement to and amount of monthly benefits and lump-sum death payments, and period of disability; effect of payment of benefits by other agency or instrumentality of United States
 
@@ -26,7 +26,7 @@ For the purposes of this section the term "internee" means an individual who was
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to the Trust Funds and the Federal Hospital Insurance Trust Fund for the fiscal year ending June 30, 1978, such sums as the Commissioner of Social Security and the Secretary jointly determine would place the Trust Funds and the Federal Hospital Insurance Trust Fund in the position in which they would have been if the preceding provisions of this section had not been enacted.
+There are authorized to be appropriated to the Trust Funds and the Federal Hospital InsuranceTrust Fund for the fiscal year ending June 30, 1978, such sums as the Commissioner of Social Security and the Secretary jointly determine would place the Trust Funds and the Federal Hospital Insurance Trust Fund in the position in which they would have been if the preceding provisions of this section had not been enacted.
 
 (Aug. 14, 1935, ch. 531, title II, §231, as added Pub. L. 92–603, title I, §142(a), Oct. 30, 1972, 86 Stat. 1367; amended Pub. L. 98–369, div. B, title VI, §2663(j)(2)(A)(iii), July 18, 1984, 98 Stat. 1170; Pub. L. 103–296, title I, §107(a)(1), (4), (c), Aug. 15, 1994, 108 Stat. 1477, 1478, 1481.)
 
@@ -34,7 +34,7 @@ There are authorized to be appropriated to the Trust Funds and the Federal Hospi
 
 <b>1994</b>—Subsec. (b)(3). Pub. L. 103–296, §107(a)(1), (4), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" after "an internee, the", after "If the", and after "so notify the", substituted "the Commissioner" for "he" before "has been notified" and before "shall then ascertain", and substituted "Commissioner of Social Security" for "Secretary" before "shall certify no".
 
-Subsec. (b)(4). Pub. L. 103–296, §107(a)(1), (4), substituted "Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissionerof Social Security deems necessary to carry out the Commissioner's functions under paragraph (3) of this subsection" for "Secretary of Health and Human Services, certify to him, with respect to any individual who was an internee, such information as the Secretary deems necessary to carry out his functions under paragraph (3) of this subsection".
+Subsec. (b)(4). Pub. L. 103–296, §107(a)(1), (4), substituted "Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner's functions under paragraph (3) of this subsection" for "Secretary of Health and Human Services, certify to him, with respect to any individual who was an internee, such information as the Secretary deems necessary to carry out his functions under paragraph (3) of this subsection".
 
 Subsec. (c). Pub. L. 103–296, §107(c), substituted "Commissioner of Social Security and the Secretary jointly determine" for "Secretary determines".
 

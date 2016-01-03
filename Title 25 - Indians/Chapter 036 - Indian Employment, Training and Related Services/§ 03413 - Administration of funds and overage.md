@@ -12,7 +12,7 @@
 
 #### (b) Overage
 
-All administrative costs may be commingled and participating Indian tribes shall be entitled to the full amount of such costs (under each program or department's regulations), and no overage shall be counted for Federal audit purposes, provided that the overage is used for the purposes provided for under this chapter.
+All administrative costs may be commingled and participating Indian tribes shall be entitledto the full amount of such costs (under each program or department's regulations), and no overage shall be counted for Federal audit purposes, provided that the overage is used for the purposes provided for under this chapter.
 
 (Pub. L. 102–477, §14, Oct. 23, 1992, 106 Stat. 2305.)
 

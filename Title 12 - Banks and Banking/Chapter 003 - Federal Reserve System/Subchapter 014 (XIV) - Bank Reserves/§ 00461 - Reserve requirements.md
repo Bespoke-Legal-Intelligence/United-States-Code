@@ -6,7 +6,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 #### (b) Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers; earnings on balances
 
-(1) The following definitions and rules apply to this subsection, subsection (c) of this section, and sections 248–1, 248a, 342, 360, and 412 of this title:
+(1) The following definitions and rules apply to this subsection, subsection (c), and sections 248–1, 248a, 342, 360, and 412 of this title:
 
 &emsp;(A) The term "depository institution" means—
 
@@ -52,7 +52,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;(i) the sole purpose of such requirement is to increase the amount of reserves maintained to a level essential for the conduct of monetary policy;
 
-&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resulting from the imposition of the reserve requirements pursuant to paragraph (2);
+&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resultingfrom the imposition of the reserve requirements pursuant to paragraph (2);
 
 &emsp;(iii) such requirement is not imposed for the purpose of increasing the amount of balances needed for clearing purposes; and
 
@@ -72,7 +72,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;(C) assets (including participations) held by foreign offices of a depository institution in the United States which were acquired from its domestic offices.
 
-(6) The requirements imposed under paragraph (2) shall not apply to deposits payable only outside the States of the United States and the District of Columbia, except that nothing in this subsection limits the authority of the Board to impose conditions and requirements on member banks under section 25 of this Act \[12 U.S.C. 601et seq.\] or the authority of the Board under section 3105 of this title.
+(6) The requirements imposed under paragraph (2) shall not apply to deposits payable only outside the States of the United States and the District of Columbia, except that nothing in this subsection limits the authority of the Board to impose conditions and requirements on member banks under section 25 of this Act \[12 U.S.C. 601 et seq.\] or the authority of the Board under section 3105 of this title.
 
 (7) Any depository institution in which transaction accounts or nonpersonal time deposits are held shall be entitled to the same discount and borrowing privileges as member banks. In the administration of discount and borrowing privileges, the Board and the Federal Reserve banks shall take into consideration the special needs of savings and other depository institutions for access to discount and borrowing facilities consistent with their long-term asset portfolios and the sensitivity of such institutions to trends in the national money markets.
 
@@ -134,13 +134,13 @@ Depository institutions defined.—For purposes of this paragraph, the term "dep
 
 #### (c) Promulgation of rules and regulations respecting maintenance of balances
 
-(1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) of this section shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
+(1) Reserves held by a depository institution to meet the requirements imposed pursuant to subsection (b) shall, subject to such rules and regulations as the Board shall prescribe, be in the form of—
 
-&emsp;(A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4) of this section, except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b) of this section; and
+&emsp;(A) balances maintained for such purposes by such depository institution in the Federal Reserve bank of which it is a member or at which it maintains an account, except that (i) the Board may, by regulation or order, permit depository institutions to maintain all or a portion of their required reserves in the form of vault cash, except that any portion so permitted shall be identical for all depository institutions, and (ii) vault cash may be used to satisfy any supplemental reserve requirement imposed pursuant to subsection (b)(4), except that all such vault cash shall be excluded from any computation of earnings pursuant to subsection (b); and
 
 &emsp;(B) balances maintained by a depository institution in a depository institution which maintains required reserve balances at a Federal Reserve bank, in a Federal Home Loan Bank, or in the National Credit Union Administration Central Liquidity Facility, if such depository institution, Federal Home Loan Bank, or National Credit Union Administration Central Liquidity Facility maintains such funds in the form of balances in a Federal Reserve bank of which it is a member or at which it maintains an account. Balances received by a depository institution from a second depository institution and used to satisfy the reserve requirement imposed on such second depository institution by this section shall not be subject to the reserve requirements of this section imposed on such first depository institution, and shall not be subject to assessments or reserves imposed on such first depository institution pursuant to section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817), section 404 of the National Housing Act (12 U.S.C. 1727),<sup>1</sup> or section 202 of the Federal Credit Union Act (12 U.S.C. 1782).
 
-(2) The balances maintained to meet the reserve requirements of subsection (b) of this section by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
+(2) The balances maintained to meet the reserve requirements of subsection (b) by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
 
 (Dec. 23, 1913, ch. 6, §19(a)–(c), formerly §19 (pars.), 38 Stat. 270; June 21, 1917, ch. 32, §10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title III, §324(a), 49 Stat. 714; renumbered §19(a)–(c) and amended Pub. L. 89–597, §2(a), Sept. 21, 1966, 80 Stat. 823; Pub. L. 91–151, title I, §§4(a), 5, Dec. 23, 1969, 83 Stat. 374, 375; Pub. L. 93–501, title I, §101(a), Oct. 29, 1974, 88 Stat. 1557; Pub. L. 96–221, title I, §§103, 104(a), Mar. 31, 1980, 94 Stat. 133, 138; Pub. L. 97–35, title III, §385, Aug. 13, 1981, 95 Stat. 433; Pub. L. 97–320, title IV, §411, title VII, §708, Oct. 15, 1982, 96 Stat. 1520, 1540; Pub. L. 101–73, title VII, §744(i)(2), (3), Aug. 9, 1989, 103 Stat. 439; Pub. L. 109–351, title II, §§201, 202, title VI, §603, Oct. 13, 2006, 120 Stat. 1968, 1969, 1980; Pub. L. 111–203, title III, §366(2), July 21, 2010, 124 Stat. 1556.)
 
@@ -192,7 +192,7 @@ Subsec. (b)(11). Pub. L. 97–320, §411(a), added par. (11).
 
 <b>1981</b>—Subsec. (b)(8)(E). Pub. L. 97–35 substituted provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business in a State outside the continental limits and was not a member of the Federal Reserve System at any time on or after such date, for provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business under the laws of a State, was not a member of the Federal Reserve System on that date, and the principal office of which was outside the continental limits on that date and has remained outside ever since.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicableto reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
+<b>1980</b>—Subsec. (b). Pub. L. 96–221, §103, substituted provisions setting forth additional definitions applicable to reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
 
 Subsec. (c). Pub. L. 96–221, §104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
 
@@ -224,7 +224,7 @@ Pub. L. 93–501, title I, §101(b), Oct. 29, 1974, 88 Stat. 1557, provided that
 
 #### Effective and Termination Dates of 1966 Amendment
 
-Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226; Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
+Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226;Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
 
 #### Elimination or Reduction of Interest Rate Differential Between Savings Banks and Savings and Loan, Building and Loan, or Homestead Associations
 

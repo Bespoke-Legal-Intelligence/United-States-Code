@@ -8,7 +8,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) In-region services
 
-&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provideinterLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
+&emsp;A Bell operating company, or any affiliate of that Bell operating company, may provide interLATA services originating in any of its in-region States (as defined in subsection (i) of this section) if the Commission approves the application of such company for such State under subsection (d)(3) of this section.
 
 #### (2) Out-of-region services
 
@@ -34,7 +34,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Failure to request access
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considered not to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if, after 10 months after February 8, 1996, no such provider has requested the access and interconnection described in subparagraph (A) before the date which is 3 months before the date the company makes its application under subsection (d)(1) of this section, and a statement of the terms and conditions that the company generally offers to provide such access and interconnection has been approved or permitted to take effect by the State commission under section 252(f) of this title. For purposes of this subparagraph, a Bell operating company shall be considerednot to have received any request for access and interconnection if the State commission of such State certifies that the only provider or providers making such a request have (i) failed to negotiate in good faith as required by section 252 of this title, or (ii) violated the terms of an agreement approved under section 252 of this title by the provider's failure to comply, within a reasonable period of time, with the implementation schedule contained in such agreement.
 
 #### (2) Specific interconnection requirements
 
@@ -100,7 +100,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Consultation with State commissions
 
-&emsp;&emsp;Before making any determination under this subsection, the Commission shall consult with the State commission of any State that is the subject of the application in order to verify the compliance of the Bell operating company with the requirements of subsection (c) of this section.
+&emsp;&emsp;Before making any determination under this subsection, the Commission shall consult with the State commission of any State that is the subject of the application in order to verify the compliance of the Belloperating company with the requirements of subsection (c) of this section.
 
 #### (3) Determination
 

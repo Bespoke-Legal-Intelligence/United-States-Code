@@ -34,9 +34,9 @@ Subject to valid existing rights, all Federal land within the Conservation Area 
 
 &emsp;Except as provided in paragraph (2), use of motorized vehicles in the Conservation Area—
 
-&emsp;&emsp;(A) before the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
+&emsp;&emsp;(A) before the effective date of a management plan under subsection (h), shall be allowed only on roads and trails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
 
-&emsp;&emsp;(B) after the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in that management plan.
+&emsp;&emsp;(B) after the effective date of a management plan under subsection (h), shall be allowed only on roads and trails designated for use of motor vehicles in that management plan.
 
 #### (2) Administrative and emergency response use
 
@@ -54,7 +54,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (2) Area and time closures
 
-&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in reference to land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
+&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in referenceto land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
 
 #### (g) Grazing
 
@@ -82,7 +82,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 &emsp;&emsp;(C) provide for the continued management of the utility corridor, Black Ridge Communications Site, and the Federal Aviation Administration site as such for the land designated on the Map as utility corridor, Black Ridge Communications Site, and the Federal Aviation Administration site;
 
-&emsp;&emsp;(D) take into consideration the historical involvement of the local community in theinterpretation and protection of the resources of the Conservation Area and the Wilderness, as well as the Ruby Canyon/Black Ridge Integrated Resource Management Plan, dated March 1998, which was the result of collaborative efforts on the part of the Bureau of Land Management and the local community; and
+&emsp;&emsp;(D) take into consideration the historical involvement of the local community in the interpretation and protection of the resources of the Conservation Area and the Wilderness, as well as the Ruby Canyon/Black Ridge Integrated Resource Management Plan, dated March 1998, which was the result of collaborative efforts on the part of the Bureau of Land Management and the local community; and
 
 &emsp;&emsp;(E) include all public lands between the boundary of the Conservation Area and the edge of the Colorado River and, on such lands, the Secretary shall allow only such recreational or other uses as are consistent with this subchapter.
 
@@ -134,7 +134,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(A) As used in this paragraph, the term "water resource facility" means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
 
-&emsp;(B) Except as otherwise provided by subsection (g) of this section or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
+&emsp;(B) Except as otherwise provided by subsection (g) or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
 
 &emsp;(C) Except as provided in this paragraph, nothing in this subchapter shall be construed to affect or limit the use, operation, maintenance, repair, modification, or replacement of water resource facilities in existence on October 24, 2000, within the boundaries of the Wilderness.
 
@@ -142,7 +142,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(A) Neither the Conservation Area nor the Wilderness shall include any part of the Colorado River to the 100-year high water mark.
 
-&emsp;(B) Nothing in this subchapter shall affect the authority that the Secretary may or may not have to manage recreational uses on the Colorado River, except as such authority may be affected by compliance with paragraph (3). Nothing in this subchapter shall be construed to affect the authority of the Secretary tomanage the public lands between the boundary of the Conservation Area and the edge of the Colorado River.
+&emsp;(B) Nothing in this subchapter shall affect the authority that the Secretary may or may not have to manage recreational uses on the Colorado River, except as such authority may be affected by compliance with paragraph (3). Nothing in this subchapter shall be construed to affect the authority of the Secretary to manage the public lands between the boundary of the Conservation Area and the edge of the Colorado River.
 
 &emsp;(C) Subject to valid existing rights, all lands owned by the Federal Government between the 100-year high water mark on each shore of the Colorado River, as designated on the Map from the line labeled "Line A" on the east to the boundary between the States of Colorado and Utah on the west, are hereby withdrawn from—
 

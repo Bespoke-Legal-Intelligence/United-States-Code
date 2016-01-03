@@ -6,7 +6,7 @@ The Administrator is authorized to prescribe such regulations as are necessary t
 
 #### (b) Utilization of other agency officers and employees
 
-The Administrator, with the consent of the head of any other agency of the United States, may utilize such officers and employees of such agency as may be found necessary to assist in carrying out the purposes of this chapter.
+The Administrator, with the consent of the head of any other agency of the United States,may utilize such officers and employees of such agency as may be found necessary to assist in carrying out the purposes of this chapter.
 
 #### (c) Recordkeeping
 

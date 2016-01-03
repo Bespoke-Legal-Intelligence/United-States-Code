@@ -6,7 +6,7 @@ In General.—The Maritime Administrator may accept and use conditional or uncon
 
 (b)
 
-Establishment of Academy Gift Fund.—There is established in the Treasury a fund, to be known as the "Academy Gift Fund". Disbursements from the Fund shall be made on order of the Maritime Administrator. Unless otherwise specified by the terms of the gift, the Maritime Administrator may use monies in the Fund for appropriated or non-appropriated purposes at the Academy. The Fund consists of—
+Establishment of Academy Gift Fund.—There is established in the Treasury a fund, to be known as the "Academy Gift Fund". Disbursements from the Fund shall be made on order of the Maritime Administrator. Unless otherwise specified by the terms of the gift, theMaritime Administrator may use monies in the Fund for appropriated or non-appropriated purposes at the Academy. The Fund consists of—
 
 &emsp;(1) gifts of money;
 

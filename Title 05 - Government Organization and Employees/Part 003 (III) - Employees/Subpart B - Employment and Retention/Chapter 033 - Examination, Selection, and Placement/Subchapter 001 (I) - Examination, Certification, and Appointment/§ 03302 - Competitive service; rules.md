@@ -1,6 +1,6 @@
 ### §3302. Competitive service; rules
 
-The President may prescribe rules governing the competitive service. The rules shall provide,as nearly as conditions of good administration warrant, for—
+The President may prescribe rules governing the competitive service. The rules shall provide, as nearly as conditions of good administration warrant, for—
 
 &emsp;(1) necessary exceptions of positions from the competitive service; and
 
@@ -86,7 +86,7 @@ Section 1. (a) Subject to paragraph (b) of this section, the head of an agency m
 
 (e) An employee serving under a veterans readjustment appointment may be promoted, reassigned, or transferred.
 
-(f) An employee who completes the training or educational program and who has satisfactorily completed two years of substantially continuous service under aveterans readjustment appointment shall be converted to career-conditional or career employment. An employee converted under this paragraph shall automatically acquire a competitive status.
+(f) An employee who completes the training or educational program and who has satisfactorily completed two years of substantially continuous service under a veterans readjustment appointment shall be converted to career-conditional or career employment. An employee converted under this paragraph shall automatically acquire a competitive status.
 
 (g) In selecting an applicant for appointment under this section, an agency shall not discriminate because of race, color, religion, sex, national origin, or political affiliation.
 

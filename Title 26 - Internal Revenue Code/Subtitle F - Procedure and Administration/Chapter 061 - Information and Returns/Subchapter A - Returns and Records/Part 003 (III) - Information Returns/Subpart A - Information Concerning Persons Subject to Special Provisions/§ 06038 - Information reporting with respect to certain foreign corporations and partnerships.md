@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a foreign partnership, at least a 10-percent interest in such partnership; and
 
-&emsp;&emsp;(E)(i) in the case of a foreign corporation, a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any time during the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
+&emsp;&emsp;(E)(i) in the case of a foreign corporation, a description of the various classes of stock outstanding, and a list showing the name and address of, and number of shares held by, each United States person who is a shareholder of record owning at any timeduring the annual accounting period 5 percent or more in value of any class of stock outstanding of such foreign corporation, and
 
 &emsp;&emsp;(ii) information comparable to the information described in clause (i) in the case of a foreign partnership.
 
@@ -54,7 +54,7 @@
 
 #### (2) Increase in penalty where failure continues after notification
 
-&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day onwhich the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
+&emsp;If any failure described in paragraph (1) continues for more than 90 days after the day on which the Secretary mails notice of such failure to the United States person, such person shall pay a penalty (in addition to the amount required under paragraph (1)) of $10,000 for each 30-day period (or fraction thereof) during which such failure continues with respect to any annual accounting period after the expiration of such 90-day period. The increase in any penalty under this paragraph shall not exceed $50,000.
 
 #### (c) Penalty of reducing foreign tax credit
 
@@ -216,7 +216,7 @@ Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign 
 
 Subsec. (b). Pub. L. 87–834, among other changes, substituted "If a United States person fails to furnish" for "If a domestic corporation fails to furnish" in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
-Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
+Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxableyear owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 87–834 added par. (1) which was formerly covered in part by subsec. (c) of this section, designated existing provisions as par. (2), and eliminated from par. (2) provisions which related to the annual accounting period of a foreign subsidiary.
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection\(a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962."
+Pub. L. 87–834, §20(e)(1), Oct. 16, 1962, 76 Stat. 1063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to annual accounting periods of foreign corporations beginning after December 31, 1962."
 
 #### Effective Date
 

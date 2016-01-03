@@ -16,7 +16,7 @@ The revised section will cover instances where the Supreme Court remands a case 
 
 Revised section will also permit a remand by the Supreme Court to a court of appeals inasmuch as such latter court then would be a lower court. The revised section is in conformity with numerous holdings of the Supreme Court to the effect that such a remand may be made. See especially, <i>Maryland Casualty Co. v. United States</i>, 1929, 49 S.Ct. 484, 279 U.S. 792, 73 L.Ed. 960; <i>Krauss Bros. Co. v. Mellon</i>, 1928, 48 S.Ct. 358, 276 U.S. 386, 72 L.Ed. 620 and <i>Buzyuski v. Luckenbach S. S. Co</i>., 1928, 48 S.Ct. 440, 277 U.S. 226, 72 L.Ed. 860.
 
-The last sentence of section 876 of title 28, U.S.C., 1940 ed., providing that the Supreme Court should not issue execution but should send a special mandate to the inferior court to award execution, was omitted. See rule 34 of the revised rules of the Supreme Court relating to Mandates, and section 1651 of this title authorizing the Supreme Court to issue all writs necessary in aid of its jurisdiction.
+The last sentence of section 876 of title 28, U.S.C., 1940 ed., providing that the Supreme Court should not issue execution but should send a special mandate to the inferior court to award execution, was omitted. See rule 34 of the revised rules of the Supreme Court relating toMandates, and section 1651 of this title authorizing the Supreme Court to issue all writs necessary in aid of its jurisdiction.
 
 Changes were made in phraseology.
 

@@ -24,7 +24,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 &emsp;&emsp;&emsp;(ii) assist and provide technical assistance to—
 
-&emsp;&emsp;&emsp;&emsp;(I) Indian tribes, tribal organizations, and tribal consortia seeking to operate a program under part B or under this partthrough direct application to the Secretary under section 679c of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) Indian tribes, tribal organizations, and tribal consortia seeking to operate a program under part B or under this part through direct application to the Secretary under section 679c of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) Indian tribes, tribal organizations, tribal consortia, and States seeking to develop cooperative agreements to provide for payments under this part or satisfy the requirements of section 622(b)(9), 671(a)(32), or 677(b)(3)(G) of this title; and
 
@@ -42,7 +42,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The Secretary shall waive the requirement to repay a grant imposed by clause (i) if the Secretary determines that a tribe's, tribal organization's, or tribal consortium's failure to submit a plan within such period was the result of circumstances beyond the control of the tribe, tribal organization, or tribal consortium.
+&emsp;&emsp;&emsp;The Secretary shall waive the requirement to repay a grant imposed by clause\(i) if the Secretary determines that a tribe's, tribal organization's, or tribal consortium's failure to submit a plan within such period was the result of circumstances beyond the control of the tribe, tribal organization, or tribal consortium.
 
 #### (C) Implementation authority
 

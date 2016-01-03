@@ -124,7 +124,7 @@ The Secretary is authorized—
 
 &emsp;(C) willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
 
-> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount ofthe refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
+> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount of the refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
 
 #### (f) Actions on applications and site visits
 
@@ -142,7 +142,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (3) Institutions outside the United States
 
-&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds under part B of this subchapter for the most recent year for which data are available.
+&emsp;The Secretary shall promulgate regulations regarding the recertification requirements applicable to an institution of higher education outside of the United States that meets the requirements of section 1002(a)(1)(C) of this title and received less than $500,000 in funds underpart B of this subchapter for the most recent year for which data are available.
 
 #### (h) Provisional certification of institutional eligibility
 
@@ -186,7 +186,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;(B) another action determined by the Secretary to be a routine business practice.
 
-(4)(A) The Secretary may provisionally certify an institution seeking approval of a change inownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
+(4)(A) The Secretary may provisionally certify an institution seeking approval of a change in ownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
 
 (B) A provisional certification under this paragraph shall expire not later than the end of the month following the month in which the transaction occurred, except that if the Secretary has not issued a decision on the application for the change of ownership within that period, the Secretary may continue such provisional certification on a month-to-month basis until such decision has been issued.
 
@@ -200,7 +200,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) In general
 
-&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if such teach-out has been approved by the institution's accrediting agency.
+&emsp;A location of a closed institution of higher education shall be eligible as an additional location of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, for the purposes of a teach-out described in section 1094(f) of this title, if suchteach-out has been approved by the institution's accrediting agency.
 
 #### (2) Special rule
 
@@ -248,7 +248,7 @@ Subsec. (g). Pub. L. 105–244, §493(e), amended heading and text of subsec. (g
 
 "(1) The eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of any institution that is participating in any such program on July 23, 1992, shall expire in accordance with the schedule prescribed by the Secretary in accordance with paragraph (2), but not later than 5 years after July 23, 1992.
 
-"(2) The Secretary shall establish a schedule for the expiration of the eligibility for purposes of any suchprogram of all institutions of higher education within the 5-year period specified in paragraph (1). Such schedule shall place a priority for the expiration of the certification of institutions on those that meet the following criteria:
+"(2) The Secretary shall establish a schedule for the expiration of the eligibility for purposes of any such program of all institutions of higher education within the 5-year period specified in paragraph (1). Such schedule shall place a priority for the expiration of the certification of institutions on those that meet the following criteria:
 
 &emsp;"(A) institutions subject to review by a State postsecondary review entity pursuant to subpart 1 of this part; or
 

@@ -36,7 +36,7 @@ Section is from the Congressional Operations Appropriations Act, 1993, which is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(2). Pub. L. 113–76 substituted " 'Allowances and Expenses', the heading for any joint committee under the heading 'Joint Items' (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and 'Office of the Attending Physician' " for "and 'Allowances and Expenses' ".
+<b>2014</b>—Subsec. (c)(2). Pub. L. 113–76 substituted " 'Allowances and Expenses', the heading for any joint committee under the heading 'Joint Items' (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of theHouse of Representatives), and 'Office of the Attending Physician' " for "and 'Allowances and Expenses' ".
 
 <b>2009</b>—Subsecs. (a), (b), (c)(1). Pub. L. 111–8, §105(a), substituted "transferred among and merged with" for "transferred among".
 

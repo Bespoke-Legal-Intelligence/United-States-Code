@@ -14,7 +14,7 @@ It is the sense of the Congress that—
 
 &emsp;&emsp;(A) Participation in the Organization should be open to the United States, other donors, and those Central American countries that commit themselves to, among other things, respecting internationally recognized human rights, building democracy, and encouraging equitable economic growth through policy reforms.
 
-&emsp;&emsp;(B) The Organization should be structured to include representatives from both the public and private sectors, including representatives from the labor, agriculture, and business communities.
+&emsp;&emsp;(B) The Organization should be structured to include representatives from both thepublic and private sectors, including representatives from the labor, agriculture, and business communities.
 
 &emsp;&emsp;(C) The Organization should meet periodically to carry out the functions described in subparagraphs (D) and (E) of this paragraph and should be supported by a limited professional secretariat.
 

@@ -44,7 +44,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(A) residential or commercial mortgages and any securities, obligations, or other instruments that are based on or related to such mortgages, that in each case was originated or issued on or before March 14, 2008, the purchase of which the Secretary determines promotes financial market stability; and
 
-&emsp;&emsp;(B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress.
+&emsp;&emsp;(B) any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upontransmittal of such determination, in writing, to the appropriate committees of Congress.
 
 (Pub. L. 110–343, div. A, §3, Oct. 3, 2008, 122 Stat. 3766.)
 

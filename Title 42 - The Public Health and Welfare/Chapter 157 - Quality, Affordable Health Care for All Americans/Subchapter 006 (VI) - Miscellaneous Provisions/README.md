@@ -16,3 +16,4 @@
 - [&sect; 18119 - Small business procurement](%C2%A7%2018119%20-%20Small%20business%20procurement.md)
 - [&sect; 18120 - Application](%C2%A7%2018120%20-%20Application.md)
 - [&sect; 18121 - Implementation funding](%C2%A7%2018121%20-%20Implementation%20funding.md)
+- [&sect; 18122 - Rule of construction regarding health care providers](%C2%A7%2018122%20-%20Rule%20of%20construction%20regarding%20health%20care%20providers.md)

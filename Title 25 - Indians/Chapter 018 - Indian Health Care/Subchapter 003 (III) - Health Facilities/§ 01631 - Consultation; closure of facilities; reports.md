@@ -90,7 +90,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 &emsp;&emsp;&emsp;&emsp;The term "Facilities Appropriation Advisory Board" means the advisory board, comprised of 12 members representing Indian tribes and 2 members representing the Service, established at the discretion of the Director—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to provide advice and recommendations for policies and procedures of the programs funded pursuant to facilities appropriations; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to provide advice and recommendations for policies and proceduresof the programs funded pursuant to facilities appropriations; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) to address other facilities issues.
 
@@ -176,7 +176,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (e) Funding condition
 
-All funds appropriated under section 13 of this title, for the planning, design, construction, orrenovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).
+All funds appropriated under section 13 of this title, for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).
 
 #### (f) Development of innovative approaches
 

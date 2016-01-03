@@ -187,7 +187,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) the base year is a taxable year of less than 12 months.
 
-(Added Pub. L. 100–203, title X, §10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, §2004(e)(4)–(10), (14)(B), Nov. 10,1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, §11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, §1281(d), Aug. 5, 1997, 111 Stat. 1037.)
+(Added Pub. L. 100–203, title X, §10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, §2004(e)(4)–(10), (14)(B), Nov. 10, 1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, §11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, §1281(d), Aug. 5, 1997, 111 Stat. 1037.)
 
 #### References in Text
 

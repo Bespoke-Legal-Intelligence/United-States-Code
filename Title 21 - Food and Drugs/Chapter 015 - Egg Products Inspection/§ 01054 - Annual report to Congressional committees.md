@@ -1,6 +1,6 @@
 ### §1054. Annual report to Congressional committees
 
-(a) <sup>1</sup> Not later than March 1 of each year following December 29, 1970, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written report with respect to—
+(a) <sup>1</sup> Not later than March 1 of each year following December 29, 1970, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee onAgriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written report with respect to—
 
 &emsp;(1) the processing, storage, handling, and distribution of eggs and egg products subject to the provisions of this chapter; the inspection of establishments operated in connection therewith; the effectiveness of the operation of the inspection, including the effectiveness of the operations of State egg inspection programs; and recommendations for legislation to improve such program; and
 

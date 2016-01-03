@@ -154,7 +154,7 @@ In this section:
 
 &emsp;&emsp;(L) To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
 
-&emsp;&emsp;(M) To support such other activities, consistent with the purposes of this subsection,as the Administrator of FEMA determines appropriate.
+&emsp;&emsp;(M) To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
 
 #### (d) Fire prevention and safety grants
 
@@ -268,7 +268,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;(3) not less than 25 percent are awarded under subsection (c) to combination fire departments and fire departments using paid-on-call firefighting personnel;
 
-&emsp;(4) not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departments using paid-on-call firefighting personnel for grants awarded under subsection (c);
+&emsp;(4) not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departmentsusing paid-on-call firefighting personnel for grants awarded under subsection (c);
 
 &emsp;(5) not less than 10 percent are awarded under subsection (d); and
 

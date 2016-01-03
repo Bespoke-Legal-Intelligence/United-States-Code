@@ -34,9 +34,9 @@
 
 &emsp;(ii) any entity participating in or receiving assistance from any action taken by the Board or the Federal Reserve banks described under subsection (e) or (f), to the extent that the access and request relates to that assistance; and
 
-&emsp;(iii) the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entity described under clause (i) or (ii); to the extent that the access and request relates to that assistance;
+&emsp;(iii) the officers, directors, employees, independent public accountants, financial advisors and any and all representatives of any entitydescribed under clause (i) or (ii); to the extent that the access and request relates to that assistance;
 
-(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The ComptrollerGeneral shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a <sup>1</sup> audit or examination under this subsection.
+(B) The Comptroller General shall have access as provided under subparagraph (A) at such time as the Comptroller General may request. The Comptroller General may make and retain copies of books, accounts, and other records provided under subparagraph (A) as the Comptroller General deems appropriate. The Comptroller General shall provide to any person or entity described in subparagraph (A) a current list of officers and employees to whom, with proper identification, records and property may be made available, and who may make notes or copies necessary to carry out a <sup>1</sup> audit or examination under this subsection.
 
 (C) Each contract, term sheet, or other agreement between the Board or any Federal reserve bank (or any entity established by the Board or any Federal reserve bank) and an entity receiving assistance from any action taken by the Board described under subsection (e) or (f) shall provide for access by the Comptroller General in accordance with this paragraph.
 
@@ -104,7 +104,7 @@ Exceptions.—The nondisclosure obligation under clause (i) shall not apply to t
 
 &emsp;&emsp;&emsp;(v)
 
-Release of covered transaction information.—The Comptroller General shall release a nonredacted version of any report regarding covered transactionsupon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
+Release of covered transaction information.—The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, §378(2), title XI, §1102, July 21, 2010, 124 Stat. 1570, 2115.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Research focus area
 
-The Director may support a national research agenda in key areas affected by the increaseduse of public and private cloud computing, including—
+The Director may support a national research agenda in key areas affected by the increased use of public and private cloud computing, including—
 
 &emsp;(1) new approaches, techniques, technologies, and tools for—
 

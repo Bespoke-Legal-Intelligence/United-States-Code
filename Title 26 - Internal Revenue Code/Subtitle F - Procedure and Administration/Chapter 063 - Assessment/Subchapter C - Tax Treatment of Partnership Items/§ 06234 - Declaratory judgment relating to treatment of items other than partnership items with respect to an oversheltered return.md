@@ -38,7 +38,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 &emsp;&emsp;(B) files a claim for refund of an overpayment of tax under section 6511 for the taxable year involved.
 
-> &emsp;If a claim for refund is filed by the taxpayer, then solely for purposes of determining (for the taxable year involved) the amount of any computational adjustment in connection with a partnership proceeding under this subchapter (other than under this section) or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), the items that are the subject of the notice of adjustment shall be presumed to have been correctly reported on the taxpayer's return during the pendency of the refundclaim (and, if within the time prescribed by section 6532 the taxpayer commences a civil action for refund under section 7422, until the decision in the refund action becomes final).
+> &emsp;If a claim for refund is filed by the taxpayer, then solely for purposes of determining (for the taxable year involved) the amount of any computational adjustment in connection with a partnership proceeding under this subchapter (other than under this section) or the amount of any deficiency attributable to affected items in a proceeding under section 6230(a)(2), the items that are the subject of the notice of adjustment shall be presumed to have been correctly reported on the taxpayer's return during the pendency of the refund claim (and, if within the time prescribed by section 6532 the taxpayer commences a civil action for refund under section 7422, until the decision in the refund action becomes final).
 
 #### (e) Limitations period
 
@@ -104,13 +104,65 @@ If the Secretary mails a notice of adjustment to the taxpayer for a taxable year
 
 #### (2) Special rule if Secretary erroneously mails notice of deficiency
 
-&emsp;If the Secretary erroneously determines that subchapter B applies to a taxable year of ataxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
+&emsp;If the Secretary erroneously determines that subchapter B applies to a taxable year of a taxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
 
 (Added Pub. L. 105–34, title XII, §1231(a), Aug. 5, 1997, 111 Stat. 1020; amended Pub. L. 107–147, title IV, §416(d)(1)(D), Mar. 9, 2002, 116 Stat. 55.)
+
+#### Repeal and Reenactment of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 634, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6234 is enacted to read as follows:</i>
+
+#### §6234. Judicial review of partnership adjustment
+
+#### <i>(a) In general</i>
+
+<i>Within 90 days after the date on which a notice of a final partnership adjustment is mailed under section 6231 with respect to any partnership taxable year, the partnership may file a petition for a readjustment for such taxable year with—</i>
+
+&emsp;<i>(1) the Tax Court,</i>
+
+&emsp;<i>(2) the district court of the United States for the district in which the partnership's principal place of business is located, or</i>
+
+&emsp;<i>(3) the Claims Court.</i>
+
+#### <i>(b) Jurisdictional requirement for bringing action in district court or Claims Court</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount of the imputed underpayment (as of the date of the filing of the petition) if the partnership adjustment was made as provided by the notice of final partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.</i>
+
+#### <i>(2) Interest payable</i>
+
+&emsp;<i>Any amount deposited under paragraph (1), while deposited, shall not be treated as a payment of tax for purposes of this title (other than chapter 67).</i>
+
+#### <i>(c) Scope of judicial review</i>
+
+<i>A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all items of income, gain, loss, deduction, or credit of the partnership for the partnership taxable year to which the notice of final partnership adjustment relates, the proper allocation of such items among the partners, and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under this subchapter.</i>
+
+#### <i>(d) Determination of court reviewable</i>
+
+<i>Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court's order entering the decision.</i>
+
+#### <i>(e) Effect of decision dismissing action</i>
+
+<i>If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.</i>
+
+<i>Pub. L. 114–113, div. Q, title IV, §411(b)(2), (3), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, this section (as added by Pub. L. 114–74, see note above) is amended as follows:</i>
+
+<i>(1) in subsections (a)(3), (b)(1), and (d), by striking "the Claims Court" and inserting "the Court of Federal Claims"; and</i>
+
+<i>(2) in the heading of subsection (b), by striking "Claims Court" and inserting "Court of Federal Claims".</i>
 
 #### Amendments
 
 <b>2002</b>—Subsec. (g)(4)(A). Pub. L. 107–147 inserted "or the Attorney General (or his delegate)" after "Secretary".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under section 6031 of this title.
+
+#### Effective Date of Repeal and Reenactment
+
+Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 
 #### Effective Date of 2002 Amendment
 

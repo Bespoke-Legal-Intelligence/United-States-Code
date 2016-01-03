@@ -40,7 +40,7 @@ For purposes of this part—
 
 #### (1) Time for determination
 
-&emsp;Stock held by a taxpayer shall be treated as stock in a passive foreign investment company if, at any time during the holding period of the taxpayer with respect to such stock, such corporation (or any predecessor) was a passive foreign investment company which was not a qualified electing fund. The preceding sentence shall not apply if the taxpayer elects to recognize gain (as of the last day of the last taxable year for which the company was a passive foreign investment company (determined without regard to the preceding sentence)) under rules similar to the rules of section 1291(d)(2).
+&emsp;Stock held by a taxpayer shall be treated as stock in a passive foreign investment company if, at any time during the holding period of thetaxpayer with respect to such stock, such corporation (or any predecessor) was a passive foreign investment company which was not a qualified electing fund. The preceding sentence shall not apply if the taxpayer elects to recognize gain (as of the last day of the last taxable year for which the company was a passive foreign investment company (determined without regard to the preceding sentence)) under rules similar to the rules of section 1291(d)(2).
 
 #### (2) Certain corporations not treated as PFIC's during start-up year
 

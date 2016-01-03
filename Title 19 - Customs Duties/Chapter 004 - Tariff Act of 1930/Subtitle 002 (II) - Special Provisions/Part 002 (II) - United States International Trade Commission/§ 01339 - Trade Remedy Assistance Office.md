@@ -20,7 +20,7 @@ The Trade Remedy Assistance Office, in coordination with each agency responsible
 
 For purposes of this section—
 
-&emsp;(1) The term "eligible small business" means any business concern which, in the agency's judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an "eligible small business", the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) of this section to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
+&emsp;(1) The term "eligible small business" means any business concern which, in the agency's judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an "eligible small business", the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
 
 &emsp;(2) The term "trade laws" means—
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Trade Act of 1974, referred to in subsec. (c)(2)(A) to (C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapters 1, 2, and 3 of title II of the Trade Act of 1974 are classified generally to parts 1 (§2251 et seq.), 2 (§2271 et seq.), and 3 (§2341 et seq.) of subchapter II of chapter 12 of this title, respectively. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of chapter 12 of thistitle. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(2)(A) to (C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapters 1, 2, and 3 of title II of the Trade Act of 1974 are classified generally to parts 1 (§2251 et seq.), 2 (§2271 et seq.), and 3 (§2341 et seq.) of subchapter II of chapter 12 of this title, respectively. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 #### Prior Provisions
 

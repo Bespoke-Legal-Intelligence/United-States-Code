@@ -1,0 +1,38 @@
+### §5606. Prohibited acts and enforcement
+
+#### (a) Prohibition
+
+It is unlawful for any person or vessel that is subject to the jurisdiction of the United States—
+
+&emsp;(1) to violate any regulation issued under this chapter or any measure that is legally binding on the United States under the Convention;
+
+&emsp;(2) to refuse to permit any authorized enforcement officer to board a fishing vessel that is subject to the person's control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of this chapter, any regulation issued under this chapter, or any measure that is legally binding on the United States under the Convention;
+
+&emsp;(3) forcibly to assault, resist, oppose, impede, intimidate, or interfere with any authorized enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (2);
+
+&emsp;(4) to resist a lawful arrest for any act prohibited by this section;
+
+&emsp;(5) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fish taken or retained in violation of this section; or
+
+&emsp;(6) to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that the other person has committed an act prohibited by this section.
+
+#### (b) Additional prohibitions and enforcement
+
+For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
+
+(Pub. L. 104–43, title II, §207, Nov. 3, 1995, 109 Stat. 379; Pub. L. 105–384, title II, §201(b)(1), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–81, title I, §111, Nov. 5, 2015, 129 Stat. 659.)
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–81, §111(1), in section catchline, substituted "and enforcement" for "and penalties".
+
+Subsec. (a)(2), (3). Pub. L. 114–81, §111(2), (3), inserted ", investigation," before "or inspection".
+
+Subsecs. (b) to (f). Pub. L. 114–81, §111(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
+
+<b>1998</b>—Subsec. (e). Pub. L. 105–384 substituted "section" for "sections".
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

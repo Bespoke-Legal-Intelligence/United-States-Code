@@ -6,7 +6,7 @@ The Secretary of Commerce (hereinafter referred to in this subchapter as the "Se
 
 #### (b) Legal title
 
-Title to any vessel or other personal property purchased under a State program approved by the Secretary in accordance with the provisions of this subchapter shall vest upon purchase inthe State. If the State sells such vessels or other property, title may pass in accordance with such sale.
+Title to any vessel or other personal property purchased under a State program approved by the Secretary in accordance with the provisions of this subchapter shall vest upon purchase in the State. If the State sells such vessels or other property, title may pass in accordance with such sale.
 
 (Pub. L. 96–561, title I, §130, Dec. 22, 1980, 94 Stat. 3283.)
 

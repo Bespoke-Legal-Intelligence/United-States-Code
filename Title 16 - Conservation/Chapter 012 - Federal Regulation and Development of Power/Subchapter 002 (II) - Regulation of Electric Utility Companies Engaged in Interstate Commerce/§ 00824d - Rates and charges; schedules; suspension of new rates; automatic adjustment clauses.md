@@ -34,7 +34,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 > Such review may take place in individual rate proceedings or in generic or other separate proceedings applicable to one or more utilities.
 
-(2) Not less frequently than every 2 years, in rate proceedings or in generic or other separate proceedings, the Commission shall review, with respect to each public utility, practices underany automatic adjustment clauses of such utility to insure efficient use of resources (including economical purchase and use of fuel and electric energy) under such clauses.
+(2) Not less frequently than every 2 years, in rate proceedings or in generic or other separate proceedings, the Commission shall review, with respect to each public utility, practices under any automatic adjustment clauses of such utility to insure efficient use of resources (including economical purchase and use of fuel and electric energy) under such clauses.
 
 (3) The Commission may, on its own motion or upon complaint, after an opportunity for an evidentiary hearing, order a public utility to—
 

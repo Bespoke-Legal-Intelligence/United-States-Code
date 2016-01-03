@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) private and governmental contributions to the Trust Fund; and
 
-&emsp;&emsp;(D) the criteria that have been established, acceptable to the Secretary of the Treasury and the Administrator of the United States Agency for International Development, thatwould be used to determine the programs and activities that should be assisted by the Trust Fund.
+&emsp;&emsp;(D) the criteria that have been established, acceptable to the Secretary of the Treasury and the Administrator of the United States Agency for International Development, that would be used to determine the programs and activities that should be assisted by the Trust Fund.
 
 #### (b) GAO report on Trust Fund effectiveness
 
@@ -28,7 +28,7 @@ Not later than 2 years after August 19, 2000, the Comptroller General of the Uni
 
 #### (c) Appropriate committees defined
 
-In subsection (a), the term "appropriate committees" means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
+In subsection (a), the term "appropriate committees" means the Committee on Foreign Relations and the Committee on Appropriations ofthe Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 106–264, title I, §131, Aug. 19, 2000, 114 Stat. 757.)
 

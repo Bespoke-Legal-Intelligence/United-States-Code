@@ -34,7 +34,7 @@ Section 364(f) of the House amendment is new. This provision continues the exemp
 
 #### senate report no. 95–989
 
-This section is derived from provisions in current law governing certificates of indebtedness, but is much broader. It governs all obtaining of credit and incurring of debt by the estate.
+This section is derived from provisions in current law governing certificates of indebtedness, but is muchbroader. It governs all obtaining of credit and incurring of debt by the estate.
 
 Subsection (a) authorizes the obtaining of unsecured credit and the incurring of unsecured debt in the ordinary course of business if the business of the debtor is authorized to be operated under section 721, 1108, or 1304. The debts so incurred are allowable as administrative expenses under section 503(b)(1). The court may limit the estate's ability to incur debt under this subsection.
 

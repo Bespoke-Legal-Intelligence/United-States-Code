@@ -2,7 +2,7 @@
 
 #### (a) Planning of programs or projects undertaken by Federal agencies or with Federal financial assistance
 
-Programs or projects undertaken by a Federal agency or with Federal financial assistance shall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements, the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
+Programs or projects undertaken by a Federal agency or with Federal financial assistanceshall be planned in a manner that (1) recognizes, at an early stage in the planning of such programs or projects and before the commencement of any actions which will cause displacements, the problems associated with the displacement of individuals, families, businesses, and farm operations, and (2) provides for the resolution of such problems in order to minimize adverse impacts on displaced persons and to expedite program or project advancement and completion.
 
 #### (b) Availability of advisory services
 
@@ -32,7 +32,7 @@ Each relocation assistance advisory program required by subsection (b) of this s
 
 #### (d) Coordination of relocation activities with other Federal, State, or local governmental actions
 
-The head of a displacing agency shall coordinate the relocation activities performed by such agency with other Federal, State, or local governmental actions in the community whichcould affect the efficient and effective delivery of relocation assistance and related services.
+The head of a displacing agency shall coordinate the relocation activities performed by such agency with other Federal, State, or local governmental actions in the community which could affect the efficient and effective delivery of relocation assistance and related services.
 
 #### (e) Selection of implementation procedures
 

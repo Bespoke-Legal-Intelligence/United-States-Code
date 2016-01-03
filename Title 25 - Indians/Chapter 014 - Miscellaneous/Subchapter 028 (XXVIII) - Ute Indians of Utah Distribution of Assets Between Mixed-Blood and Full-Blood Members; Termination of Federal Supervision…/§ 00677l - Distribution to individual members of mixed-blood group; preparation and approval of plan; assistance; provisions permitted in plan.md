@@ -1,12 +1,12 @@
 ### §677<i>l</i>. Distribution to individual members of mixed-blood group; preparation and approval of plan; assistance; provisions permitted in plan
 
-After the adoption of a plan for the division of the assets between the two groups, a plan for distribution of the assets of the mixed-blood group to the individual members thereof shall be prepared and ratified by a majority of said group, within the period of six months from such adoption and presented to the Secretary for approval. The Secretary is authorized to provide such reasonable assistance, including necessary technical service of Government employees at Fort Duchesne, Utah, and arranging for necessary consultations with representatives of Federal departments and agencies, officials ofthe State of Utah and political subdivisions thereof, as may be required by the mixed-blood group in the preparation of such plan.
+After the adoption of a plan for the division of the assets between the two groups, a plan for distribution of the assets of the mixed-blood group to the individual members thereof shall be prepared and ratified by a majority of said group, within the period of six months from such adoption and presented to the Secretary for approval. The Secretary is authorized to provide such reasonable assistance, including necessary technical service of Government employees at Fort Duchesne, Utah, and arranging for necessary consultations with representatives of Federal departments and agencies, officials of the State of Utah and political subdivisions thereof, as may be required by the mixed-blood group in the preparation of such plan.
 
 The plan for division of the assets among the members of the mixed-blood group may include:
 
 &emsp;(1) Complete disposition of all cash assets of said group, reserving, however, sufficient funds to cover—
 
-&emsp;&emsp;(i) the proportionate share of said mixed-blood group in and to all expenses incurred in effecting the purposes of this subchapter, including, but not limited to, the necessary expense incurred under this section and section 677m of this title;
+&emsp;&emsp;(i) the proportionate share of said mixed-blood group in and to all expenses incurred in effecting the purposes of this subchapter,including, but not limited to, the necessary expense incurred under this section and section 677m of this title;
 
 &emsp;&emsp;(ii) the just and proportionate share of the mixed-bloods in the expense incurred in the prosecution of the claims of the tribe, or the bands thereof, against the United States; and
 

@@ -28,7 +28,7 @@ The Secretary shall consult with a representative group of guaranty agencies, el
 
 #### (b) Additional information
 
-For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statistically valid sample of borrowers under part B of this subchapter. Such data shall include—
+For the purposes of research and policy analysis, the proposal shall also contain provisions for obtaining additional data concerning the characteristics of borrowers and the extent of student loan indebtedness on a statisticallyvalid sample of borrowers under part B of this subchapter. Such data shall include—
 
 &emsp;(1) information concerning the income level of the borrower and his family and the extent of the borrower's need for student financial assistance, including loans;
 

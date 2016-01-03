@@ -36,7 +36,7 @@ Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, seesection 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 #### Effective Date of 1986 Amendment
 

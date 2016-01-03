@@ -38,7 +38,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 #### (i) Advice and education
 
-(1) The Committee on Standards of Official Conduct shall establish within the committee an Office on Advice and Education (hereinafter in this subsection referred to as the "Office") under the supervision of the chairman.
+(1) The Committee on Standards of Official Conduct shall establish within the committee anOffice on Advice and Education (hereinafter in this subsection referred to as the "Office") under the supervision of the chairman.
 
 (2) The Office shall be headed by a director who shall be appointed by the chairman, in consultation with the ranking minority member, and shall be comprised of such staff as the chairman determines is necessary to carry out the responsibilities of the Office.
 

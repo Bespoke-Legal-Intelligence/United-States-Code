@@ -20,7 +20,7 @@
 
 #### (b) Use of "Rule of 78's" prohibited
 
-For the purpose of calculating any refund of interest required under subsection (a) of this section for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
+For the purpose of calculating any refund of interest required under subsection (a) for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
 
 #### (c) Statement of prepayment amount
 
@@ -50,7 +50,7 @@ For the purpose of this section—
 
 #### (1) Actuarial method
 
-&emsp;The term "actuarial method" means the method of allocating payments made on a debt between the amount financed and the financecharge pursuant to which a payment is applied first to the accumulated finance charge and any remainder is subtracted from, or any deficiency is added to, the unpaid balance of the amount financed.
+&emsp;The term "actuarial method" means the method of allocating payments made on a debt between the amount financed and the finance charge pursuant to which a payment is applied first to the accumulated finance charge and any remainder is subtracted from, or any deficiency is added to, the unpaid balance of the amount financed.
 
 #### (2) Consumer, credit
 

@@ -40,11 +40,11 @@ Act Aug. 9, 1955, ch. 645, §§1, 3, 69 Stat. 562, designated sections 1621 to 1
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985,68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 #### Appropriations
 
-Act Mar. 10, 1950, ch. 54, §9, 64 Stat. 18, provided that: "There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\]."
+Act Mar. 10, 1950, ch. 54, §9, 64 Stat. 18, provided that: "There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated,such sums as may be necessary to enable the Commission to carry out its functions under this Act \[enacting this chapter\]."
 
 #### United States Holocaust Assets Commission
 
@@ -184,7 +184,7 @@ Information to be included.—The report on insurance companies prepared pursuan
 
 &emsp;&emsp;"(C)
 
-Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
+Coordination.—The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department ofState and the United States Holocaust Memorial Council.
 
 "(b)
 
@@ -314,7 +314,7 @@ Detail of Government Employees.—Any Federal Government employee may be detaile
 
 "(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent ofthe annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 "(f)
 

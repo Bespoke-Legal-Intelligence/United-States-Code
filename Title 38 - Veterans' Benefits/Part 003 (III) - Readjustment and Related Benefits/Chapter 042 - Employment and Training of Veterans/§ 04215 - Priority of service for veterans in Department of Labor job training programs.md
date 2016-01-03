@@ -22,7 +22,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) Any such program or service that uses technology to assist individuals to access workforce development programs (such as job and training opportunities, labor market information, career assessment tools, and related support services).
 
-&emsp;&emsp;(B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
+&emsp;&emsp;(B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998,<sup>1</sup> a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
 
 &emsp;&emsp;(C) Any such program or service that is a workforce development program targeted to specific groups.
 
@@ -58,7 +58,7 @@ Addition to Annual Report.—(1) In the annual report required under section 410
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is Pub. L. 105–220, Aug. 7, 1998, 112Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -73,4 +73,6 @@ Pub. L. 109–461, title VI, §605, Dec. 22, 2006, 120 Stat. 3439, provided that
 #### Requirement To Promptly Establish One-Stop Employment Services
 
 Pub. L. 107–288, §4(c), Nov. 7, 2002, 116 Stat. 2044, provided that: "By not later than 18 months after the date of the enactment of this Act \[Nov. 7, 2002\], the Secretary of Labor shall provide one-stop services and assistance to covered persons electronically by means of the Internet, as defined in section 231(e)(3) of the Communications Act of 1934 \[47 U.S.C. 231(e)(3)\], and such other electronic means to enhance the delivery of such services and assistance."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

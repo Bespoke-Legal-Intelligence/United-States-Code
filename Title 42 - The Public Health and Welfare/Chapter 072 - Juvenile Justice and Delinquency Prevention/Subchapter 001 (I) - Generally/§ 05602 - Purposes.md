@@ -60,7 +60,7 @@ Subsec. (a)(7). Pub. L. 98–473, §612(3), inserted "and homeless".
 
 <b>1980</b>—Subsec. (a)(8). Pub. L. 96–509, §4(a), added par. (8).
 
-Subsec. (b)(1). Pub. L. 96–509, §4(b), inserted reference to methods with a special focus on maintaining and strengthening the family unit so that juveniles may be retained in their homes.
+Subsec. (b)(1). Pub. L. 96–509, §4(b), inserted reference to methods with a special focus on maintaining andstrengthening the family unit so that juveniles may be retained in their homes.
 
 #### Effective Date of 2002 Amendment
 

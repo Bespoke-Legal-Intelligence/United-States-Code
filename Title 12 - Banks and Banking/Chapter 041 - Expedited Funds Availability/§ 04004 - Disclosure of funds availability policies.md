@@ -26,7 +26,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (1) Specific notice at manned teller stations
 
-&emsp;Each depository institution shall post, in a conspicuous place in each location where deposits are accepted by individuals employed by such depository institution, a specific noticewhich describes the time periods applicable to the availability of funds deposited in a consumer account.
+&emsp;Each depository institution shall post, in a conspicuous place in each location where deposits are accepted by individuals employed by such depository institution, a specific notice which describes the time periods applicable to the availability of funds deposited in a consumer account.
 
 #### (2) General notice at automated teller machines
 
@@ -34,7 +34,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (e) Notice of interest payment policy
 
-If a depository institution described in section 4005(b) of this title begins the accrual of interest or dividends at a later date than the date described in section 4005(a) of this title with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) of this section shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
+If a depository institution described in section 4005(b) of this title begins the accrual of interest or dividends at a later date than the date described in section 4005(a) of this title with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
 
 #### (f) Model disclosure forms
 

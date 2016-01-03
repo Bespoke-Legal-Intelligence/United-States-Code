@@ -54,7 +54,7 @@
 
 #### References in Text
 
-Section 12521(a)(5) of this title, referred to in subsec. (b)(1)(E), probably should be a reference to section12523(a)(5) of this title. Section 12521 does not contain subsections.
+Section 12521(a)(5) of this title, referred to in subsec. (b)(1)(E), probably should be a reference to section 12523(a)(5) of this title. Section 12521 does not contain subsections.
 
 #### Prior Provisions
 

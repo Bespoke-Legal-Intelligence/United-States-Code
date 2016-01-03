@@ -50,7 +50,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not disputethe information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
+&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not dispute the information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
 
 &emsp;&emsp;&emsp;(i) the person reports the same date of delinquency as that provided by the creditor to which the account was owed at the time at which the commencement of the delinquency occurred, if the creditor previously reported that date of delinquency to a consumer reporting agency;
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;The notice required under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) may be included on or with any notice of default, any billing statement, or any other materials provided to the customer; and
+&emsp;&emsp;&emsp;(i) may be included on or with any notice of default, any billing statement, or anyother materials provided to the customer; and
 
 &emsp;&emsp;&emsp;(ii) must be clear and conspicuous.
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b), with respect to which the person has already performed the person's duties under this paragraph or subsection (b), as applicable.
 
 #### (ii) Notice of determination
 
@@ -244,7 +244,7 @@ Except as provided in section 1681s(c)(1)(B) of this title, sections 1681n and 1
 
 #### (d) Limitation on enforcement
 
-The provisions of law described in paragraphs (1) through (3) of subsection (c) of this section (other than with respect to the exception described in paragraph (2) of subsection (c) of this section) shall be enforced exclusively as provided under section 1681s of this title by the Federal agencies and officials and the State officials identified in section 1681s of this title.
+The provisions of law described in paragraphs (1) through (3) of subsection (c) (other than with respect to the exception described in paragraph (2) of subsection (c)) shall be enforced exclusively as provided under section 1681s of this title by the Federal agencies and officials and the State officials identified in section 1681s of this title.
 
 #### (e) Accuracy guidelines and regulations required
 
@@ -268,7 +268,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, titleI, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090.)
 
 #### Prior Provisions
 

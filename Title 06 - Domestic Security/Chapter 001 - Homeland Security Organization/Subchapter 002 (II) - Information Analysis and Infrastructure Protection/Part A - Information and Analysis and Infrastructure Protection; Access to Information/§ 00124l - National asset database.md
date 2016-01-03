@@ -12,7 +12,7 @@
 
 #### (2) Prioritized critical infrastructure list
 
-&emsp;In accordance with Homeland Security Presidential Directive–7, as in effect on January 1,2007, the Secretary shall establish and maintain a single classified prioritized list of systems and assets included in the database under paragraph (1) that the Secretary determines would, if destroyed or disrupted, cause national or regional catastrophic effects.
+&emsp;In accordance with Homeland Security Presidential Directive–7, as in effect on January 1, 2007, the Secretary shall establish and maintain a single classified prioritized list of systems and assets included in the database under paragraph (1) that the Secretary determines would, if destroyed or disrupted, cause national or regional catastrophic effects.
 
 #### (b) Use of database
 

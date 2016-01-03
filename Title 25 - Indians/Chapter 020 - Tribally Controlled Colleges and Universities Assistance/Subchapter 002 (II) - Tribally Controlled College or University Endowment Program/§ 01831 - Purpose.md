@@ -2,7 +2,7 @@
 
 It is the purpose of this subchapter to provide grants for the encouragement of endowment funds for the operation and improvement of tribally controlled colleges or universities.
 
-(Pub. L. 95–471, title III, §301, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1341; amendedPub. L. 105–244, title IX, §901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
+(Pub. L. 95–471, title III, §301, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 105–244, title IX, §901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
 #### Amendments
 

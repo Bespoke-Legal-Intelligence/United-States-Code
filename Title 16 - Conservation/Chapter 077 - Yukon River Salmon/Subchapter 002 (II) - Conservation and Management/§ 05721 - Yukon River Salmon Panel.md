@@ -62,7 +62,7 @@ Panel members and alternate Panel members shall be eligible for reappointment.
 
 #### (e) Decisions
 
-Decisions of the Panel shall be made by the consensus of the Panel members appointedunder subparagraphs (B) and (C) of subsection (b)(1) of this section.
+Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1) of this section.
 
 #### (f) Consultation
 

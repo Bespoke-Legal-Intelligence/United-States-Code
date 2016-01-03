@@ -38,7 +38,7 @@
 
 &emsp;(B) proposes a level of funding that is in excess of the applicable level determined under section 450j–1(a) of this title,
 
-> subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program, function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under section 450j–1(a) of this title. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) of this section shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
+> subject to any alteration in the scope of the proposal that the Secretary and the tribal organization agree to, the Secretary shall, as appropriate, approve such portion of the program, function, service, or activity as is authorized under paragraph (1) or approve a level of funding authorized under section 450j–1(a) of this title. If a tribal organization elects to carry out a severable portion of a contract proposal pursuant to this paragraph, subsection (b) shall only apply to the portion of the contract that is declined by the Secretary pursuant to this subsection.
 
 #### (b) Procedure upon refusal of request to contract
 
@@ -62,13 +62,13 @@ Whenever the Secretary declines to enter into a self-determination contract or c
 
 #### (d) Tribal organizations and Indian contractors deemed part of Public Health Service
 
-For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections <sup>2</sup> 450f or 450h of this title is deemed to be part of the Public Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees (including those acting on behalf of the organization or contractor as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service) are deemed employees of the Service while acting within the scope of their employment in carrying out the contract or agreement: <i>Provided</i>, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor.
+For purposes of section 233 of title 42, with respect to claims by any person, initially filed on or after December 22, 1987, whether or not such person is an Indian or Alaska Native or is served on a fee basis or under other circumstances as permitted by Federal law or regulations for personal injury, including death, resulting from the performance prior to, including, or after December 22, 1987, of medical, surgical, dental, or related functions, including the conduct of clinical studies or investigations, or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, forpersonal injury, including death, resulting from the operation of an emergency motor vehicle, an Indian tribe, a tribal organization or Indian contractor carrying out a contract, grant agreement, or cooperative agreement under sections <sup>2</sup> 450f or 450h of this title is deemed to be part of the Public Health Service in the Department of Health and Human Services while carrying out any such contract or agreement and its employees (including those acting on behalf of the organization or contractor as provided in section 2671 of title 28 and including an individual who provides health care services pursuant to a personal services contract with a tribal organization for the provision of services in any facility owned, operated, or constructed under the jurisdiction of the Indian Health Service) are deemed employees of the Service while acting within the scope of their employment in carrying out the contract or agreement: <i>Provided</i>, That such employees shall be deemed to be acting within the scope of their employment in carrying out such contract or agreement when they are required, by reason of such employment, to perform medical, surgical, dental or related functions at a facility other than the facility operated pursuant to such contract or agreement, but only if such employees are not compensated for the performance of such functions by a person or entity other than such Indian tribe, tribal organization or Indian contractor.
 
 #### (e) Burden of proof at hearing or appeal declining contract; final agency action
 
-(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) of this section or any civil action conducted pursuant to section 450m–1(a) of this title, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
+(1) With respect to any hearing or appeal conducted pursuant to subsection (b)(3) or any civil action conducted pursuant to section 450m–1(a) of this title, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for declining the contract proposal (or portion thereof).
 
-(2) Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the "Department") that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) of this section shall be made either—
+(2) Notwithstanding any other provision of law, a decision by an official of the Department of the Interior or the Department of Health and Human Services, as appropriate (referred to in this paragraph as the "Department") that constitutes final agency action and that relates to an appeal within the Department that is conducted under subsection (b)(3) shall be made either—
 
 &emsp;(A) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency (such as the Indian Health Service or the Bureau of Indian Affairs) in which the decision that is the subject of the appeal was made; or
 
@@ -88,7 +88,7 @@ The Federal Tort Claims Act, referred to in subsec. (c)(1), is title IV of act A
 
 #### Amendments
 
-<b>2000</b>—Subsec. (e)(1). Pub. L. 106–260 inserted "or any civil action conducted pursuant to section 450m–1(a) of this title" after "subsection (b)(3) of this section".
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–260 inserted "or any civil action conducted pursuant to section 450m–1(a) of this title" after "subsection (b)(3)".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(5), inserted concluding provisions.
 
@@ -104,7 +104,7 @@ Subsec. (d). Pub. L. 103–413, §102(8), substituted "as provided in section 26
 
 Subsec. (e). Pub. L. 103–413, §102(9), added subsec. (e).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–644 inserted "or for purposes of section 2679, title 28, with respect to claims by any such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle," after "investigations,".
+<b>1990</b>—Subsec. (d). Pub. L. 101–644 inserted "or for purposes of section 2679, title 28, with respect to claims byany such person, on or after November 29, 1990, for personal injury, including death, resulting from the operation of an emergency motor vehicle," after "investigations,".
 
 <b>1988</b>—Pub. L. 100–472, §201(a), amended section generally, revising and restating provisions of subsecs. (a) to (c).
 
@@ -316,7 +316,7 @@ Pub. L. 100–472, title II, §201(b)(2), Oct. 5, 1988, 102 Stat. 2289, provided
 
 #### Tribal Self-Governance Demonstration Project
 
-Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended by Pub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal self-governance research and demonstration project conducted by Secretary of the Interior and Secretary of Health and Human Services, prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
+Pub. L. 93–638, title III, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296; amended byPub. L. 102–184, §§2–6, Dec. 4, 1991, 105 Stat. 1278; Pub. L. 102–573, title VIII, §814, Oct. 29, 1992, 106 Stat. 4590; Pub. L. 103–435, §22(a)(2), (3), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to tribal self-governance research and demonstration project conducted by Secretary of the Interior and Secretary of Health and Human Services, prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph,".</i>
 

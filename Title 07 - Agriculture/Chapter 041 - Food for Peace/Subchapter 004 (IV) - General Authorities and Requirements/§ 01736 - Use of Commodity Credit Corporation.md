@@ -54,7 +54,7 @@ Subsec. (b)(4). Pub. L. 104–127, §215(2)(B), added par. (4) and struck out fo
 
 <b>1991</b>—Subsec. (b)(5)(D). Pub. L. 102–237 substituted "time" for "items".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizingappropriations and authorizing the President to administer a program of farmer-to-farmer assistance, enter into agreements or make grants to train farmers in recipient countries, seek exchange of farm youth and farm leaders with developing countries, conduct research in tropical and subtropical agriculture, coordinate program with other foreign assistance programs, establish conditions for eligibility in farmer-to-farmer program, and pay costs of program through use of foreign currencies accruing from sale of commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing appropriations and authorizing the President to administer a program of farmer-to-farmer assistance, enter into agreements or make grants to train farmers in recipient countries, seek exchange of farm youth and farm leaders with developing countries, conduct research in tropical and subtropical agriculture, coordinate program with other foreign assistance programs, establish conditions for eligibility in farmer-to-farmer program, and pay costs of program through use of foreign currencies accruing from sale of commodities.
 
 Subsec. (d). Pub. L. 101–508 added subsec. (d).
 

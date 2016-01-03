@@ -1,6 +1,6 @@
 ### §10713. Authorization of appropriations
 
-There are authorized to be appropriated to carry out the purposes of this chapter, $7,000,000 for each of fiscal years 2005, 2006, 2007, and 2008. Amounts appropriated for each such year are to remain available until expended.
+There are authorized to be appropriated to carry out the purposes of this chapter, $7,000,000for each of fiscal years 2005, 2006, 2007, and 2008. Amounts appropriated for each such year are to remain available until expended.
 
 (Pub. L. 98–620, title II, §215, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 100–690, title VII, §7321(a), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §607, Nov. 19, 1988, 102 Stat. 4654; Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–572, title VIII, §801, Oct. 29, 1992, 106 Stat. 4515; Pub. L. 108–372, §2, Oct. 25, 2004, 118 Stat. 1754.)
 

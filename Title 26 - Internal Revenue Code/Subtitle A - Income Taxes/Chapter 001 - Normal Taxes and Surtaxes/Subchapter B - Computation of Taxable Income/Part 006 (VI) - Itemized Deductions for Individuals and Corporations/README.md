@@ -27,7 +27,7 @@
 | [179D.](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md) | Energy efficient commercial buildings deduction. |
 | [179E.](%C2%A7%2000179E%20-%20Election%20to%20expense%20advanced%20mine%20safety%20equipment.md) | Election to expense advanced mine safety equipment. |
 | [180\.](%C2%A7%2000180%20-%20Expenditures%20by%20farmers%20for%20fertilizer%2C%20etc.md) | Expenditures by farmers for fertilizer, etc. |
-| [181\.](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20productions.md) | Treatment of certain qualified film and television productions. |
+| [181\.](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20and%20live%20theatrical%20productions.md) | Treatment of certain qualified film and television and live theatrical productions. |
 | \[182. | Repealed.\] |
 | [183\.](%C2%A7%2000183%20-%20Activities%20not%20engaged%20in%20for%20profit.md) | Activities not engaged in for profit. |
 | \[184, 185. | Repealed.\] |
@@ -54,6 +54,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–113, div. Q, title I, §169(b)(3), Dec. 18, 2015, 129 Stat. 3068, substituted "Treatment of certain qualified film and television and live theatrical productions" for "Treatment of certain qualified film and television productions" in item 181.
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(34)(A), (35), Dec. 19, 2014, 128 Stat. 4042, which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A "Deduction for clean-fuel vehicles and certain refueling property" and 198A "Expensing of Qualified Disaster Expenses" in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 
@@ -147,7 +149,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 - [&sect; 00179D - Energy efficient commercial buildings deduction](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md)
 - [&sect; 00179E - Election to expense advanced mine safety equipment](%C2%A7%2000179E%20-%20Election%20to%20expense%20advanced%20mine%20safety%20equipment.md)
 - [&sect; 00180 - Expenditures by farmers for fertilizer, etc](%C2%A7%2000180%20-%20Expenditures%20by%20farmers%20for%20fertilizer%2C%20etc.md)
-- [&sect; 00181 - Treatment of certain qualified film and television productions](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20productions.md)
+- [&sect; 00181 - Treatment of certain qualified film and television and live theatrical productions](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20and%20live%20theatrical%20productions.md)
 - [&sect; 00182 - Repealed. Pub. L. 99&#8211;514, title IV, &sect;402(a), Oct. 22, 1986, 100 Stat. 2221](%C2%A7%2000182%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20IV%2C%20%C2%A7402%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202221.md)
 - [&sect; 00183 - Activities not engaged in for profit](%C2%A7%2000183%20-%20Activities%20not%20engaged%20in%20for%20profit.md)
 - [&sect; 00184 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(12), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000184%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2812%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)

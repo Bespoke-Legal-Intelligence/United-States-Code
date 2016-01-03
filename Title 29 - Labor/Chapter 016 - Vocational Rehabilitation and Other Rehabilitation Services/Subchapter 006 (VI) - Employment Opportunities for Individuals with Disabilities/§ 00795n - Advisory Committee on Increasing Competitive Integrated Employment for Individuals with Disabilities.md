@@ -18,7 +18,7 @@ Not later than 60 days after July 22, 2014, the Secretary of Labor shall establi
 
 The Committee shall be composed of—
 
-&emsp;(1) the Assistant Secretary for Disability Employment Policy, the Assistant Secretaryfor Employment and Training, and the Administrator of the Wage and Hour Division, of the Department of Labor;
+&emsp;(1) the Assistant Secretary for Disability Employment Policy, the Assistant Secretary for Employment and Training, and the Administrator of the Wage and Hour Division, of the Department of Labor;
 
 &emsp;(2) the Commissioner of the Administration on Intellectual and Developmental Disabilities, or the Commissioner's designee;
 
@@ -104,7 +104,7 @@ The Committee shall terminate on the day after the date on which the Committee s
 
 #### Prior Provisions
 
-A prior section 795n, Pub. L. 93–112, title VI, §609, formerly §628, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §609, Pub. L. 113–128, title IV, §461(3), July 22, 2014, 128 Stat. 1679, related to authorization of appropriations, prior to repeal by Pub. L. 113–128, title IV, §461(11), July 22, 2014, 128 Stat. 1682.See section 795o of this title. Provisions similar to prior section 795n were contained in section 795q of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 795n, Pub. L. 93–112, title VI, §609, formerly §628, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §609, Pub. L. 113–128, title IV, §461(3), July 22, 2014, 128 Stat. 1679, related to authorization of appropriations, prior to repeal by Pub. L. 113–128, title IV, §461(11), July 22, 2014, 128 Stat. 1682. See section 795o of this title. Provisions similar to prior section 795n were contained in section 795q of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 Another prior section 795n, Pub. L. 93–112, title VI, §635, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4440, which related to State plans, was omitted in the general amendment of this subchapter by Pub. L. 105–220. See section 795k of this title.
 

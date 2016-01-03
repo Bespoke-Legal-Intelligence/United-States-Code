@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;The term "qualified contaminated site" means any area—
 
-&emsp;&emsp;(A) which is held by the taxpayer for use in a trade or business or for the production of income, or which is property described in section 1221(a)(1) in the hands of the taxpayer, and
+&emsp;&emsp;(A) which is held by the taxpayer for use in a trade or business or for the production ofincome, or which is property described in section 1221(a)(1) in the hands of the taxpayer, and
 
 &emsp;&emsp;(B) at or on which there has been a release (or threat of release) or disposal of any hazardous substance.
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Taxpayer must receive statement from State environmental agency
 
-&emsp;An area shall be treated as a qualified contaminated site with respect to expenditures paid or incurred during any taxable year onlyif the taxpayer receives a statement from the appropriate agency of the State in which such area is located that such area meets the requirement of paragraph (1)(B).
+&emsp;An area shall be treated as a qualified contaminated site with respect to expenditures paid or incurred during any taxable year only if the taxpayer receives a statement from the appropriate agency of the State in which such area is located that such area meets the requirement of paragraph (1)(B).
 
 #### (4) Appropriate State agency
 
@@ -82,7 +82,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 This section shall not apply to expenditures paid or incurred after December 31, 2011.
 
-(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §745(a), Dec. 17, 2010, 124 Stat. 3319.)
+(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §745(a), Dec. 17, 2010, 124 Stat. 3319.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Pub. L. 108–311, title III, §308(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §162(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625, provided that: "The amendments made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title I, §162(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-625, provided that: "The amendments made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1999 Amendment
 

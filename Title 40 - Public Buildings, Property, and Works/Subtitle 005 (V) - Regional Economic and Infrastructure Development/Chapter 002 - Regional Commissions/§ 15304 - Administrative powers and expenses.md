@@ -60,7 +60,7 @@ No federal participation.—The Federal Cochairperson shall not participate or v
 
 &emsp;&emsp;(C)
 
-Delinquent states.—During any period in which a State is more than 1 year delinquent in payment of the State's share of administrative expenses of the Commission under this subsection—
+Delinquent states.—During any period in which a State is more than 1 year delinquent in payment of the State's share ofadministrative expenses of the Commission under this subsection—
 
 &emsp;&emsp;&emsp;(i) no assistance under this subtitle shall be provided to the State (including assistance to a political subdivision or a resident of the State) for any project not approved as of the date of the commencement of the delinquency; and
 

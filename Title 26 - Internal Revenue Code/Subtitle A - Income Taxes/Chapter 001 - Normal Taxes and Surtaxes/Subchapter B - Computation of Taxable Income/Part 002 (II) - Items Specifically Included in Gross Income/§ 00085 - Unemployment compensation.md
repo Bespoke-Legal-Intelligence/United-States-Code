@@ -50,7 +50,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1007(b), Feb. 17, 2009, 123 Stat. 317, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
+Pub. L. 111–5, div. B, title I, §1007(b), Feb. 17, 2009, 123 Stat. 317, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 1986 Amendment
 
@@ -88,7 +88,7 @@ Unemployment compensation defined.—For purposes of this subsection, the term '
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 103(d) of Pub. L. 97–34, set out as a note under section 62 of this title.
+Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 103(d) ofPub. L. 97–34, set out as a note under section 62 of this title.
 
 #### Effective Date
 

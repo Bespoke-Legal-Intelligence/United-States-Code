@@ -22,7 +22,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;&emsp;(D) the institution and improvement of public administration at the national, intergovernmental, regional, and local level;
 
-&emsp;&emsp;(E) development and support of grass-roots and nongovernmental organizations promoting democracy, the rule of law, transparency, and accountability in the politicalprocess, including grants in small amounts to such organizations;
+&emsp;&emsp;(E) development and support of grass-roots and nongovernmental organizations promoting democracy, the rule of law, transparency, and accountability in the political process, including grants in small amounts to such organizations;
 
 &emsp;&emsp;(F) international exchanges and other forms of public diplomacy to promote greater understanding on how democracy, the public policy process, market institutions, and an independent judiciary function in Western societies;
 
@@ -98,7 +98,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Enhancing the human and natural environment and conserving environmental resources, including through—
 
-&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies,environmental restoration, and sustainable use of natural resources;
+&emsp;&emsp;(A) facilitation of the adoption of environmentally-sound policies and technologies, environmental restoration, and sustainable use of natural resources;
 
 &emsp;&emsp;(B) promotion of the provision of environmental technology, education, and training by United States businesses, not-for-profit organizations, and institutions of higher education; and
 
@@ -236,7 +236,7 @@ Assistance Programs.—In providing assistance to the Russian Federation under c
 
 &emsp;"(2) establish civic education programs relating to democracy, public policy, the rule of law, and the importance of independent media, including the establishment of 'American Centers' and public policy schools at Russian universities and encourage cooperative programs with universities in the United States to offer courses through Internet-based off-site learning centers at Russian universities; and
 
-&emsp;"(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
+&emsp;"(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions ofthe Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
 
 "(b)
 

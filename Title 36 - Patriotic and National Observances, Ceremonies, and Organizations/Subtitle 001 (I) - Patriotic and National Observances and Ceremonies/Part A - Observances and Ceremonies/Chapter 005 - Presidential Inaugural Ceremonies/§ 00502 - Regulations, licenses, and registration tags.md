@@ -12,7 +12,7 @@ Regulations and Licenses.—For each inaugural period, the Council of the Distri
 
 (b)
 
-Registration Tags.—The Mayor of the District of Columbia may issue, for any motorvehicle made available for the use of the Inaugural Committee, special registration tags, valid for not more than 90 days, designed to celebrate the inauguration of the President and Vice President.
+Registration Tags.—The Mayor of the District of Columbia may issue, for any motor vehicle made available for the use of the Inaugural Committee, special registration tags, valid for not more than 90 days, designed to celebrate the inauguration of the President and Vice President.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1264.)
 

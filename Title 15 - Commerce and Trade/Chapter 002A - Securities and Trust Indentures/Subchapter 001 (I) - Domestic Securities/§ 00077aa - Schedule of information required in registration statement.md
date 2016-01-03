@@ -58,7 +58,7 @@ schedule a
 
 (28) a copy of any agreement or agreements (or, if identical agreements are used, the forms thereof) made with any underwriter, including all contracts and agreements referred to in paragraph (17) of this schedule;
 
-(29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with atranslation of such opinion, when necessary, into the English language;
+(29) a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation of such opinion, when necessary, into the English language;
 
 (30) a copy of all material contracts referred to in paragraph (24) of this schedule, but no disclosure shall be required of any portion of any such contract if the Commission determines that disclosure of such portion would impair the value of the contract and would not be necessary for the protection of the investors;
 

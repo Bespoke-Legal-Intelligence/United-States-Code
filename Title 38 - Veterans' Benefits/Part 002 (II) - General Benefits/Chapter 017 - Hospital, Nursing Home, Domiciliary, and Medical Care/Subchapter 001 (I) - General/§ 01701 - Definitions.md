@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardianof a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -94,7 +94,7 @@ Par. (10). Pub. L. 110–387, §801(1), struck out par. (10) which read as follo
 
 "(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term 'medical services' includes noninstitutional extended care services.
 
-"(B) For the purposes of subparagraph (A), the term 'noninstitutional extended care services' means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor."
+"(B) For the purposes of subparagraph (A), the term 'noninstitutional extended care services' means suchalternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor."
 
 <b>2003</b>—Par. (8). Pub. L. 108–170, §104(a), struck out "(other than those types of vocational rehabilitation services provided under chapter 31 of this title)" after "programs".
 
@@ -170,7 +170,7 @@ Par. (6)(B)(ii). Pub. L. 99–272, §19011(d)(2)(B), substituted "section 612(f)
 
 Par. (9). Pub. L. 99–272, §19012(a)(2), added par. (9).
 
-<b>1985</b>—Par. (4)(C)(v). Pub. L. 99–166, §102(a), substituted "with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988" for "(except with respect to Alaska and Hawaii) shall expire on October 31, 1985" and struck out "and to the Virgin Islands" before "of the restrictions in this subclause".
+<b>1985</b>—Par. (4)(C)(v). Pub. L. 99–166, §102(a), substituted "with respect to the Commonwealth of Puerto Ricoshall expire on September 30, 1988" for "(except with respect to Alaska and Hawaii) shall expire on October 31, 1985" and struck out "and to the Virgin Islands" before "of the restrictions in this subclause".
 
 Pub. L. 99–108 substituted "October 31, 1985" for "September 30, 1985".
 
@@ -212,7 +212,7 @@ Par. (7). Pub. L. 94–581, §102(3), substituted "necessary medical services an
 
 Par. (8). Pub. L. 94–581, §102(4), added par. (8).
 
-<b>1973</b>—Par. (4)(C). Pub. L. 93–82, §101(a), extended the Administrator's contract authority for providing hospital care and medical services to persons suffering from service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
+<b>1973</b>—Par. (4)(C). Pub. L. 93–82, §101(a), extended the Administrator's contract authority for providing hospital care and medical services to persons sufferingfrom service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
 
 Par. (5). Pub. L. 93–82, §101(b), incorporated existing provisions in subpar. (A) and added subpars. (B) and (C).
 
@@ -248,9 +248,53 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Pub. L. 93–82, title V, §501, Aug. 2, 1973, 87 Stat. 196, provided that: "The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under section 1732 of this title\] shall be effective July 1, 1973; and section 203 \[amending former section 4107 of this title\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\]."
 
+#### Funding Account for Non-Department Care
+
+Pub. L. 114–41, title IV, §4003, July 31, 2015, 129 Stat. 462, provided that: "Each budget of the President submitted to Congress under section 1105 of title 31, United States Code, for fiscal year 2017 and each fiscal year thereafter shall include an appropriations account for non-Department provider programs (as defined in section 2(d) \[probably means section 4002(d) of Pub. L. 114–41, 129 Stat. 462\]) to be comprised of—
+
+&emsp;"(1) discretionary medical services funding that is designated for hospital care and medical services furnished at non-Department facilities; and
+
+&emsp;"(2) any funds transferred for such purpose from the Veterans Choice Fund established by section 802 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 128 Stat. 1802) \[set out below\]."
+
+#### Limitation on Dialysis Pilot Program
+
+Pub. L. 114–41, title IV, §4006, July 31, 2015, 129 Stat. 465, provided that:
+
+"(a)
+
+Limitation.—None of the funds authorized to be appropriated or otherwise made available to the Secretary of Veterans Affairs may be used to expand the dialysis pilot program or to create any new dialysis capability provided by the Department in a facility that is not an initial facility under the dialysis pilot program until—
+
+&emsp;"(1) an independent analysis of the dialysis pilot program is conducted for each such initial facility;
+
+&emsp;"(2) the Secretary submits to the appropriate congressional committees the report under subsection (b); and
+
+&emsp;"(3) a period of 180 days has elapsed following the date on which the Secretary submits such report.
+
+"(b)
+
+Report.—The Secretary shall submit to the appropriate congressional committees a report containing the following:
+
+&emsp;"(1) The independent analysis described in subsection (a)(1).
+
+&emsp;"(2) A five-year dialysis investment plan explaining all of the options of the Secretary for delivering dialysis care to veterans, including how and where such care will be delivered.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate.
+
+&emsp;"(2) The term 'dialysis pilot program' means the pilot demonstration program approved by the Under Secretary of Veterans Affairs for Health in August 2010 and by the Secretary of Veterans Affairs in September 2010 to provide dialysis care to patients at certain outpatient facilities operated by the Department of Veterans Affairs.
+
+&emsp;"(3) The term 'initial facility' means one of the four outpatient facilities identified by the Secretary to participate in the dialysis pilot program prior to the date of the enactment of this Act \[July 31, 2015\]."
+
 #### Veterans Access, Choice and Accountability in Health Care
 
-Pub. L. 113–146, §2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, §409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, §242, Dec. 16, 2014, 128 Stat. 2568, provided that:
+Pub. L. 113–146, §2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, §409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, §242, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–19, §3(a), May 22, 2015, 129 Stat. 215; Pub. L. 114–41, title IV, §§4004, 4005, July 31, 2015, 129 Stat. 463, 464, provided that:
 
 #### "SEC. 2. DEFINITIONS.
 
@@ -288,6 +332,8 @@ Entities specified.—The entities specified in this subparagraph are the follow
 
 &emsp;&emsp;&emsp;"(iv) The Indian Health Service.
 
+&emsp;&emsp;&emsp;"(v) Subject to subsection (d)(5), a health care provider not otherwise covered under any of clauses (i) through (iv).
+
 &emsp;"(2)
 
 Choice of provider.—An eligible veteran who makes an election under subsection (c) to receive hospital care or medical services under this section may select a provider of such care or services from among the entities specified in paragraph (1)(B) that are accessible to the veteran.
@@ -300,15 +346,21 @@ Coordination of care and services.—The Secretary shall coordinate, through the
 
 Eligible Veterans.—A veteran is an eligible veteran for purposes of this section if—
 
-&emsp;"(1)(A) as of August 1, 2014, the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705 of title 38, United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; or
-
-&emsp;"(B) the veteran is eligible for hospital care and medical services under section 1710(e)(1)(D) of such title and is a veteran described in section 1710(e)(3) of such title; and
+&emsp;"(1) the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705 of title 38, United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; and
 
 &emsp;"(2) the veteran—
 
-&emsp;&emsp;"(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services;
+&emsp;&emsp;"(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within—
 
-&emsp;&emsp;"(B) resides more than 40 miles from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
+&emsp;&emsp;&emsp;"(i) the wait-time goals of the Veterans Health Administration for the furnishing of such care or services; or
+
+&emsp;&emsp;&emsp;"(ii) with respect to such care or services that are clinically necessary, the period determined necessary for such care or services if such period is shorter than such wait-time goals;
+
+&emsp;&emsp;"(B) resides more than 40 miles (as calculated based on distance traveled) from—
+
+&emsp;&emsp;&emsp;"(i) with respect to a veteran who is seeking primary care, a medical facility of the Department, including a community-based outpatient clinic, that is able to provide such primary care by a full-time primary care physician; or
+
+&emsp;&emsp;&emsp;"(ii) with respect to a veteran not covered under clause (i), the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
 
 &emsp;&emsp;"(C) resides—
 
@@ -326,7 +378,15 @@ Eligible Veterans.—A veteran is an eligible veteran for purposes of this secti
 
 &emsp;&emsp;"(ii)(I) is required to travel by air, boat, or ferry to reach each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran; or
 
-&emsp;&emsp;"(II) faces an unusual or excessive burden in accessing each medical facility described in clause (i) that is 40 miles or less from the residence of the veteran due to geographical challenges, as determined by the Secretary.
+&emsp;&emsp;"(II) faces an unusual or excessive burden in traveling to such a medical facility of the Department based on—
+
+&emsp;&emsp;&emsp;"(aa) geographical challenges;
+
+&emsp;&emsp;&emsp;"(bb) environmental factors, such as roads that are not accessible to the general public, traffic, or hazardous weather;
+
+&emsp;&emsp;&emsp;"(cc) a medical condition that impacts the ability to travel; or
+
+&emsp;&emsp;&emsp;"(dd) other factors, as determined by the Secretary.
 
 "(c)
 
@@ -436,6 +496,10 @@ Information on policies and procedures.—The Secretary shall provide to any ent
 
 &emsp;&emsp;&emsp;"(iii) Whether particular care or services under this section are authorized, and the procedures for authorization of such care or services.
 
+&emsp;"(5)
+
+Agreements with other providers.—In accordance with the rates determined pursuant to paragraph (2), the Secretary may enter into agreements under paragraph (1) for furnishing care and services to eligible veterans under this section with an entity specified in subsection (a)(1)(B)(v) if the entity meets criteria established by the Secretary for purposes of this section.
+
 "(e)
 
 Other Health-Care Plan.—
@@ -532,7 +596,7 @@ Information on use of card.—Upon issuing a Veterans Choice Card to a veteran, 
 
 Information on Availability of Care.—The Secretary shall provide information to a veteran about the availability of care and services under this section in the following circumstances:
 
-&emsp;"(1) In the case of a veteran described in subsection (b)(1)(B), when the veteran enrolls in the patient enrollment system of the Department under section 1705 of title 38, United States Code.
+&emsp;"(1) When the veteran enrolls in the patient enrollment system of the Department under section 1705 of title 38, United States Code.
 
 &emsp;"(2) When the veteran attempts to schedule an appointment for the receipt of hospital care or medical services from the Department but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services.
 
@@ -540,7 +604,7 @@ Information on Availability of Care.—The Secretary shall provide information t
 
 "(h)
 
-Follow-Up Care.—In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care (but for a period not exceeding 60 days), including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
+Follow-Up Care.—In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care, including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
 
 "(i)
 
@@ -714,7 +778,7 @@ Waiver of Certain Printing Requirements.—Section 501 of title 44, United State
 
 "(a)
 
-Outreach to Tribal-Run Medical Facilities.—The Secretary of Veterans Affairs shall, in consultation with the Director of the Indian Health Service, conduct outreach to each medical facility operated by an Indian tribe or tribal organization through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) to raise awareness of the ability of such facilities, Indian tribes, and tribal organizations to enter into agreements with the Department of Veterans Affairs under which the Secretary reimburses such facilities, Indian tribes, or tribal organizations, as the case may be, for health care provided to veterans who are—
+Outreach to Tribal-Run Medical Facilities.—The Secretary of Veterans Affairs shall, in consultationwith the Director of the Indian Health Service, conduct outreach to each medical facility operated by an Indian tribe or tribal organization through a contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) to raise awareness of the ability of such facilities, Indian tribes, and tribal organizations to enter into agreements with the Department of Veterans Affairs under which the Secretary reimburses such facilities, Indian tribes, or tribal organizations, as the case may be, for health care provided to veterans who are—
 
 &emsp;"(1) eligible for health care at such facilities; and
 
@@ -760,7 +824,7 @@ Definitions.—In this section, the terms 'Native Hawaiian', 'Native Hawaiian he
 
 "(a)
 
-Sense of Congress on Prompt Payment by Department.—It is the sense of Congress that the Secretary of Veterans Affairs shall comply with part 1315of title 5, Code of Federal Regulations (commonly known as the 'prompt payment rule'), or any corresponding similar regulation or ruling, in paying for health care pursuant to contracts entered into with non-Department of Veterans Affairs providers to provide health care under the laws administered by the Secretary.
+Sense of Congress on Prompt Payment by Department.—It is the sense of Congress that the Secretary of Veterans Affairs shall comply with part 1315 of title 5, Code of Federal Regulations (commonly known as the 'prompt payment rule'), or any corresponding similar regulation or ruling, in paying for health care pursuant to contracts entered into with non-Department of Veterans Affairs providers to provide health care under the laws administered by the Secretary.
 
 "(b)
 
@@ -998,7 +1062,7 @@ Establishment of Commission.—
 
 &emsp;"(1)
 
-In general.—There is established a commission, to be known as the 'Commission on Care' (in this section referred to as the 'Commission'), to examine the access of veterans to health care from the Department of Veterans Affairs and strategically examine how best to organize the Veterans Health Administration, locate health care resources, and deliver health care to veterans during the 20-year period beginning on the date of the enactment of this Act \[Aug. 7, 2014\].
+In general.—There is established a commission, to be known as the 'Commission on Care' (inthis section referred to as the 'Commission'), to examine the access of veterans to health care from the Department of Veterans Affairs and strategically examine how best to organize the Veterans Health Administration, locate health care resources, and deliver health care to veterans during the 20-year period beginning on the date of the enactment of this Act \[Aug. 7, 2014\].
 
 &emsp;"(2)
 
@@ -1134,7 +1198,7 @@ In general.—The Chairperson of the Commission may, without regard to the civil
 
 &emsp;&emsp;"(B)
 
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates,except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(4)
 
@@ -1214,7 +1278,7 @@ In general.—Not later than 45 days after the date of the enactment of this Act
 
 Elements.—The report required by paragraph (1) shall include the following:
 
-&emsp;&emsp;"(A) Proposals for specific actions to be taken by the Department to improve the scheduling systemand scheduling software of the Department described in subsection (a)(1).
+&emsp;&emsp;"(A) Proposals for specific actions to be taken by the Department to improve the scheduling system and scheduling software of the Department described in subsection (a)(1).
 
 &emsp;&emsp;"(B) A determination as to whether one or more existing off-the-shelf systems would—
 
@@ -1262,7 +1326,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Aug. 7, 2014\], and not later than September 30 each year thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on access to health care through the use of mobile vet centers and mobile medical centers of the Department that includes statistics on each of the requirements set forth in subsection (a)(2) for the year covered by the report.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Aug. 7, 2014\], andnot later than September 30 each year thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on access to health care through the use of mobile vet centers and mobile medical centers of the Department that includes statistics on each of the requirements set forth in subsection (a)(2) for the year covered by the report.
 
 &emsp;"(2)
 
@@ -1550,7 +1614,7 @@ Use of Amounts.—
 
 &emsp;"(1)
 
-In general.—Any amounts deposited in the Veteran Choice Fund shall be used by the Secretary of Veterans Affairs to carry out section 101, including, subject to paragraph (2), any administrative requirements of such section.
+In general.—Except as provided by paragraph (3), any amounts deposited in the Veteran Choice Fund shall be used by the Secretary of Veterans Affairs to carry out section 101, including, subject to paragraph (2), any administrative requirements of such section.
 
 &emsp;"(2)
 
@@ -1580,13 +1644,51 @@ Report.—A report described in this subparagraph is a report that contains the 
 
 &emsp;&emsp;&emsp;"(iii) The administrative requirements that the Secretary will carry out using such increased amount.
 
+&emsp;"(3)
+
+Temporary authority for other uses.—
+
+&emsp;&emsp;"(A)
+
+Other non-department care.—In addition to the use of amounts described in paragraph (1), of the amounts deposited in the Veterans Choice Fund, not more than $3,348,500,000 may be used by the Secretary during the period described in subparagraph (C) for amounts obligated by the Secretary on or after May 1, 2015, to furnish health care to individuals pursuant to chapter 17 of title 38, United States Code, at non-Department facilities, including pursuant to non-Department provider programs other than the program established by section 101.
+
+&emsp;&emsp;"(B)
+
+Hepatitis c.—Of the amount specified in subparagraph (A), not more than $500,000,000 may be used by the Secretary during the period described in subparagraph (C) for pharmaceutical expenses relating to the treatment of Hepatitis C.
+
+&emsp;&emsp;"(C)
+
+Period described.—The period described in this subparagraph is the period beginning on the date of the enactment of the VA Budget and Choice Improvement Act \[July 31, 2015\] and ending on October 1, 2015.
+
+&emsp;&emsp;"(D)
+
+Reports.—Not later than 14 days after the date of the enactment of the VA Budget and Choice Improvement Act, and not less frequently than once every 14-day period thereafter during the period described in subparagraph (C), the Secretary shall submit to the appropriate congressional committees a report detailing—
+
+&emsp;&emsp;&emsp;"(i) the amounts used by the Secretary pursuant to subparagraphs (A) and (B); and
+
+&emsp;&emsp;&emsp;"(ii) an identification of such amounts listed by the non-Department provider program for which the amounts were used.
+
+&emsp;&emsp;"(E)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;&emsp;"(i) The term 'appropriate congressional committees' means—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate.
+
+&emsp;&emsp;&emsp;"(ii) The term 'non-Department facilities' has the meaning given that term in section 1701 of title 38, United States Code.
+
+&emsp;&emsp;&emsp;"(iii) The term 'non-Department provider program' has the meaning given that term in section 4002(d) of the VA Budget and Choice Improvement Act \[Pub. L. 114–41, 129 Stat. 462\].
+
 "(d)
 
 Appropriation and Deposit of Amounts.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated, and is appropriated, to the Secretary of Veterans Affairs, out of any funds in the Treasury not otherwise appropriated $10,000,000,000 to be deposited in the Veterans Choice Fund established by subsection (a). Such funds shall be available for obligation or expenditure without fiscal year limitation, and only for the program created under section 101.
+In general.—There is authorized to be appropriated, and is appropriated, to the Secretary of Veterans Affairs, out of any funds in the Treasury not otherwise appropriated $10,000,000,000 to be deposited in the Veterans Choice Fund established by subsection (a). Such funds shall be available for obligation or expenditure without fiscal year limitation, and only for the program created under section 101 (or for hospital care and medical services pursuant to subsection (c)(3) of this section).
 
 &emsp;"(2)
 
@@ -1605,6 +1707,8 @@ In General.—This Act \[see Tables for classification\] is designated as an eme
 "(b)
 
 Designation in Senate.—In the Senate, this Act is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010."
+
+\[Pub. L. 114–19, §3(b), May 22, 2015, 129 Stat. 216, provided that: "The amendments made by subsection (a) \[amending section 101(b)(2) of Pub. L. 113–146, set out above\] shall take effect on the date of the enactment of this Act \[May 22, 2015\] and apply with respect to care or services provided on or after such date."\]
 
 #### Location of Services
 
@@ -1632,5 +1736,5 @@ Pub. L. 96–22, title II, §201(b), June 13, 1979, 93 Stat. 54, which directed 
 
 #### Hospital Care and Medical Services Furnished by Veterans' Administration in Puerto Rico and Virgin Islands; Report to President and Congress
 
-Pub. L. 95–520, §8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans' Affairs, not later than Feb. 1, 1981, to submit a report toPresident and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
+Pub. L. 95–520, §8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans' Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
 

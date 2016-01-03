@@ -34,7 +34,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 "Congress finds the following:
 
-&emsp;"(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe's ancestral homeland includes the area that now comprises Death Valley National Parkand other areas of California and Nevada now administered by the Bureau of Land Management.
+&emsp;"(1) Since time immemorial, the Timbisha Shoshone Tribe has lived in portions of California and Nevada. The Tribe's ancestral homeland includes the area that now comprises Death Valley National Park and other areas of California and Nevada now administered by the Bureau of Land Management.
 
 &emsp;"(2) Since 1936, the Tribe has lived and governed the affairs of the Tribe on approximately 40 acres of land near Furnace Creek in the Park.
 

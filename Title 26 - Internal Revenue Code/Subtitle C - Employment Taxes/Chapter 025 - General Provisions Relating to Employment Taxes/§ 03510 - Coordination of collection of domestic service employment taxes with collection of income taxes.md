@@ -84,5 +84,5 @@ Pub. L. 103–387, §2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: "The
 
 #### Expanded Information to Employers
 
-Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: "The Secretary of the Treasury or theSecretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation."
+Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: "The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation."
 

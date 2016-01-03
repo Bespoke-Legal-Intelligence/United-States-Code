@@ -12,7 +12,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(i) in the case of a retail or service establishment whose employees (other than employees engaged in commerce or in the production of goods for commerce) were covered by this chapter before the effective date of the Fair Labor Standards Amendments of 1974—
 
-&emsp;&emsp;(I) the proportion of student hours of employment to the total hours of employmentof all employees in such establishment for the corresponding month of the immediately preceding twelve-month period,
+&emsp;&emsp;(I) the proportion of student hours of employment to the total hours of employment of all employees in such establishment for the corresponding month of the immediately preceding twelve-month period,
 
 &emsp;&emsp;(II) the maximum proportion for any corresponding month of student hours of employment to the total hours of employment of all employees in such establishment applicable to the issuance of certificates under this section at any time before the effective date of the Fair Labor Standards Amendments of 1974 for the employment of students by such employer, or
 
@@ -88,7 +88,7 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(i) the productivity of the employee or employees identified in the petition and the conditions under which such productivity was measured; and
 
-&emsp;(ii) the productivity of other employees performing work of essentially the same type and quality for other employers in the same vicinity.
+&emsp;(ii) the productivity of other employees performing work of essentially the same type andquality for other employers in the same vicinity.
 
 (E) The administrative law judge shall issue a decision within thirty days after the hearing provided for in subparagraph (B). Such action shall be deemed to be a final agency action unless within thirty days the Secretary grants a request to review the decision of the administrative law judge. Either the petitioner or the employer may request review by the Secretary within fifteen days of the date of issuance of the decision by the administrative law judge.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1949 Amendment
 

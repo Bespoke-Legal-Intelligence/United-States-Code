@@ -26,7 +26,7 @@ In general.—Except as provided in paragraph (2), the taxpayer must make the el
 
 &emsp;(2)
 
-Receipt after taxable year.—If the vessel is bought or requisitioned by the United States Government, or is lost, and the taxpayer receives payment for the vessel or indemnity for the loss from the Government after the end of the taxable year in which itwas bought, requisitioned, or lost, the taxpayer must make the election referred to in subsection (b) within 60 days after receiving the payment or indemnity, on a form prescribed by the Secretary of the Treasury.
+Receipt after taxable year.—If the vessel is bought or requisitioned by the United States Government, or is lost, and the taxpayer receives payment for the vessel or indemnity for the loss from the Government after the end of the taxable year in which it was bought, requisitioned, or lost, the taxpayer must make the election referred to in subsection (b) within 60 days after receiving the payment or indemnity, on a form prescribed by the Secretary of the Treasury.
 
 (d)
 

@@ -28,7 +28,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 &emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
-&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
+&emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year1990, the report described in section 262p–4h of this title;
 
 &emsp;(10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
 

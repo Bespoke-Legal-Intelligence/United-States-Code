@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the remittance transfer provider; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider and the Bureau, including the toll-free telephone number established under section 5493 of title 12.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the State agency that regulates the remittance transfer provider andthe Bureau, including the toll-free telephone number established under section 5493 of title 12.
 
 #### (3) Requirements relating to disclosures
 
@@ -168,7 +168,7 @@ If the Bureau determines that a recipient nation does not legally allow, or the 
 
 #### (2) Obligations of remittance transfer providers
 
-&emsp;The Bureau shall prescribe rules to implement appropriate standards or conditions of, liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Bureau under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
+&emsp;The Bureau shall prescribe rules to implement appropriate standards or conditions of,liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Bureau under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.
 
 #### (g) Definitions
 
@@ -178,7 +178,7 @@ As used in this section—
 
 &emsp;(2) the term "remittance transfer"—
 
-&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures inGlobal and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
+&emsp;&emsp;(A) means the electronic (as defined in section 106(2) of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7006(2))) transfer of funds requested by a sender located in any State to a designated recipient that is initiated by a remittance transfer provider, whether or not the sender holds an account with the remittance transfer provider or whether or not the remittance transfer is also an electronic fund transfer, as defined in section 1693a of this title; and
 
 &emsp;&emsp;(B) does not include a transfer described in subparagraph (A) in an amount that is equal to or lesser than the amount of a small-value transaction determined, by rule, to be excluded from the requirements under section 1693d(a) of this title;
 

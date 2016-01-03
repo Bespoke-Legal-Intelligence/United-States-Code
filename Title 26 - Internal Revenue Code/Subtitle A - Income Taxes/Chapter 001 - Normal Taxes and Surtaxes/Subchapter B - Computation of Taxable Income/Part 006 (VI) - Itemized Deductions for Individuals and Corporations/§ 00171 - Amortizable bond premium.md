@@ -148,7 +148,7 @@ Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1958</b>—Subsec. (b)(1)(B). Pub. L. 85–866, §13(a)(1), substituted ", in the case of any bond other than a bond to which clause (ii) or (iii) applies" for "(but in the case of bonds described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, only if such earlier call date is a date more than 3 years after the date of such issue), and", designated such provision as cl. (i), and added cl. (ii) and (iii).
 
-Subsec. (b)(2). Pub. L. 85–866, §13(a)(2), substituted "In the case of a bond to which paragraph (1)(B)(ii) or (iii) applies and which has a call date," for "In the caseof a bond described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, which has a call date not more than 3 years after the date of such issue," in second sentence.
+Subsec. (b)(2). Pub. L. 85–866, §13(a)(2), substituted "In the case of a bond to which paragraph (1)(B)(ii) or (iii) applies and which has a call date," for "In the case of a bond described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, which has a call date not more than 3 years after the date of such issue," in second sentence.
 
 #### Effective Date of 2014 Amendment
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1006(j)(1)(C), Nov. 10, 1988, 102 Stat. 3411, provided that: "The amendments made by this paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986."
+Pub. L. 100–647, title I, §1006(j)(1)(C), Nov. 10, 1988, 102 Stat. 3411, provided that: "The amendments made bythis paragraph \[amending this section and section 1016 of this title\] shall apply in the case of obligations acquired after December 31, 1987; except that the taxpayer may elect to have such amendment apply to obligations acquired after October 22, 1986."
 
 #### Effective Date of 1986 Amendment
 

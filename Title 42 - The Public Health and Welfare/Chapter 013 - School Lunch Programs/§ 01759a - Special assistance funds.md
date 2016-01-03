@@ -28,9 +28,9 @@
 
 (E)(i) In the case of any school or school district that—
 
-&emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district freelunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
+&emsp;(I) elects to serve all children in the school or school district free lunches under the school lunch program during any period of 4 successive school years, or in the case of a school or school district that serves both lunches and breakfasts, elects to serve all children in the school or school district free lunches and free breakfasts under the school lunch program and the school breakfast program during any period of 4 successive school years; and
 
-&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches or breakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
+&emsp;(II) pays, from sources other than Federal funds, for the costs of serving the lunches orbreakfasts that are in excess of the value of assistance received under this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) with respect to the number of lunches or breakfasts served during the period;
 
 > total Federal cash reimbursements and total commodity assistance shall be provided to the State educational agency with respect to the school or school district at a level that is equal to the total Federal cash reimbursements and total commodity assistance received by the school or school district in the last school year for which the school or school district accepted applications under the school lunch or school breakfast program, adjusted annually for inflation in accordance with paragraph (3)(B) and for changes in enrollment, to carry out the school lunch or school breakfast program.
 
@@ -90,7 +90,7 @@ Special assistance payment.—For each month of the second, third, or fourth sch
 
 &emsp;&emsp;&emsp;(aa) the multiplier described in clause (vii); by
 
-&emsp;&emsp;&emsp;(bb) the higher of the percentage of identified students at the school or local educational agency as of April 1 of the prior school year or the percentage of identified students at the school or local educationalagency as of April 1 of the school year prior to the first year that the school or local educational agency elected to receive special assistance payments under this subparagraph, up to a maximum of 100 percent.
+&emsp;&emsp;&emsp;(bb) the higher of the percentage of identified students at the school or local educational agency as of April 1 of the prior school year or the percentage of identified students at the school or local educational agency as of April 1 of the school year prior to the first year that the school or local educational agency elected to receive special assistance payments under this subparagraph, up to a maximum of 100 percent.
 
 &emsp;&emsp;(II)
 
@@ -182,11 +182,11 @@ State agency notification.—Not later than May 1 of each school year beginning 
 
 &emsp;&emsp;&emsp;(cc) each local educational agency in the fourth year of electing to receive special assistance payments under this subparagraph that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) and that receives special assistance payments under clause (iv), that the local educational agency may continue to receive such payments for the next school year, of the blended reimbursement rate the local educational agency would receive under clause (v), and of the procedures for the local educational agency to make the election; and
 
-&emsp;&emsp;&emsp;(dd) each local educational agency that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) that the local educational agency may be eligible toelect to receive special assistance payments under clause (iii) if the threshold described in clause (viii) is met by April 1 of the school year or if the threshold is met for a subsequent school year.
+&emsp;&emsp;&emsp;(dd) each local educational agency that meets or exceeds a percentage that is 10 percentage points lower than the threshold described in clause (viii) that the local educational agency may be eligible to elect to receive special assistance payments under clause (iii) if the threshold described in clause (viii) is met by April 1 of the school year or if the threshold is met for a subsequent school year.
 
 &emsp;&emsp;(III)
 
-Public notification of local educational agencies.—Not later than May 1 of each school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
+Public notification of local educational agencies.—Not later than May 1 ofeach school year beginning on or after July 1, 2011, each State agency with 1 or more schools or local educational agencies eligible to elect to receive special assistance payments under clause (iii) shall submit to the Secretary, and the Secretary shall publish, lists of the local educational agencies receiving notices under subclause (II).
 
 &emsp;&emsp;(IV)
 
@@ -268,7 +268,7 @@ In general.—On October 1, 2010, out of any funds in the Treasury not otherwise
 
 Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out clause (xii) the funds transferred under subclause (I), without further appropriation.
 
-(2) The special assistance factor prescribed by the Secretary for free lunches shall be 98.75cents and the special assistance factor for reduced price lunches shall be 40 cents less than the special assistance factor for free lunches.
+(2) The special assistance factor prescribed by the Secretary for free lunches shall be 98.75 cents and the special assistance factor for reduced price lunches shall be 40 cents less than the special assistance factor for free lunches.
 
 (3)(A) The Secretary shall prescribe on July 1, 1982, and on each subsequent July 1, an annual adjustment in the following:
 

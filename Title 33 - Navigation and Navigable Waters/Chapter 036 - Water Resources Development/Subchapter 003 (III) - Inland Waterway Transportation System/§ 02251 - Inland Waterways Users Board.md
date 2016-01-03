@@ -26,7 +26,7 @@ There is hereby established an Inland Waterway Users Board (hereinafter in this 
 
 #### (3) Project development teams
 
-&emsp;The chairperson of the Users Board shall appoint a representative of the Users Board to serve as an advisor to the project development team for a qualifying project or the study or design of a commercial navigation feature or component of the inland waterways and inland harbors of the United States.
+&emsp;The chairperson of the Users Board shall appoint a representative of the Users Board toserve as an advisor to the project development team for a qualifying project or the study or design of a commercial navigation feature or component of the inland waterways and inland harbors of the United States.
 
 #### (4) Independent judgment
 
@@ -52,7 +52,7 @@ The Secretary shall—
 
 #### (3) Criteria
 
-&emsp;In developing the plan and prioritization criteria under paragraph (1), the Secretary shall ensure, to the maximum extent practicable,that investments made under the 20-year program described in paragraph (1)—
+&emsp;In developing the plan and prioritization criteria under paragraph (1), the Secretary shall ensure, to the maximum extent practicable, that investments made under the 20-year program described in paragraph (1)—
 
 &emsp;&emsp;(A) are made in all geographical areas of the inland waterways system; and
 

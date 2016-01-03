@@ -170,7 +170,7 @@ A community development financial institution or other organization that receive
 
 #### (6) Transition expenses
 
-&emsp;Amounts previously appropriated to the Department of the Treasury may be used to payobligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
+&emsp;Amounts previously appropriated to the Department of the Treasury may be used to pay obligations and expenses of the Fund incurred under this section, and such amounts may be reimbursed by the Fund to the Department of the Treasury from amounts appropriated to the Fund for fiscal year 1995.
 
 #### (7) "Transition period" defined
 

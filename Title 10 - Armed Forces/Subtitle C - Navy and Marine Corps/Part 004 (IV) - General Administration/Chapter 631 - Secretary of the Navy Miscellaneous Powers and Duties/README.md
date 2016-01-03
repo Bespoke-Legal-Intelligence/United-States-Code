@@ -30,10 +30,13 @@
 | [7231\.](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md) | Accounting for expenditures for obtaining information. |
 | [7233\.](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md) | Auxiliary vessels: extended lease authority. |
 | [7234\.](%C2%A7%2007234%20-%20Submarine%20safety%20programs%20participation%20of%20NATO%20naval%20personnel.md) | Submarine safety programs: participation of NATO naval personnel. |
+| [7235\.](%C2%A7%2007235%20-%20Establishment%20of%20the%20Southern%20Sea%20Otter%20Military%20Readiness%20Areas.md) | Establishment of the Southern Sea Otter Military Readiness Areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title III, §312(b), Nov. 25, 2015, 129 Stat. 789, added item 7235.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for 'Naval Reserve" in items 7225 and 7226.
 
@@ -53,7 +56,7 @@
 
 <b>1988</b>—Pub. L. 100–370, §1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 "Rewards for recovery of missing naval property".
 
-<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out "; transportation of dependents" at end of item 7204 and struck out item 7208 "Latin American cooperation".
+<b>1984</b>—Pub. L. 98–525, title XIV, §1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out"; transportation of dependents" at end of item 7204 and struck out item 7208 "Latin American cooperation".
 
 <b>1982</b>—Pub. L. 97–258, §2(b)(11)(A), Sept. 13, 1982, 96 Stat. 1057, added item 7231.
 
@@ -107,3 +110,4 @@
 - [&sect; 07231 - Accounting for expenditures for obtaining information](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md)
 - [&sect; 07233 - 1 Auxiliary vessels extended lease authority](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md)
 - [&sect; 07234 - Submarine safety programs participation of NATO naval personnel](%C2%A7%2007234%20-%20Submarine%20safety%20programs%20participation%20of%20NATO%20naval%20personnel.md)
+- [&sect; 07235 - Establishment of the Southern Sea Otter Military Readiness Areas](%C2%A7%2007235%20-%20Establishment%20of%20the%20Southern%20Sea%20Otter%20Military%20Readiness%20Areas.md)

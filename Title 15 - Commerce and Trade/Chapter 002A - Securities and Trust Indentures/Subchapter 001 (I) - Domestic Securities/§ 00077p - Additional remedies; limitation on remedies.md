@@ -2,7 +2,7 @@
 
 #### (a) Remedies additional
 
-Except as provided in subsection (b) of this section, the rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+Except as provided in subsection (b), the rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
 
 #### (b) Class action limitations
 
@@ -14,7 +14,7 @@ No covered class action based upon the statutory or common law of any State or s
 
 #### (c) Removal of covered class actions
 
-Any covered class action brought in any State court involving a covered security, as set forth in subsection (b) of this section, shall be removable to the Federal district court for the district in which the action is pending, and shall be subject to subsection (b) of this section.
+Any covered class action brought in any State court involving a covered security, as set forth in subsection (b), shall be removable to the Federal district court for the district in which the action is pending, and shall be subject to subsection (b).
 
 #### (d) Preservation of certain actions
 
@@ -22,7 +22,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (A) Actions preserved
 
-&emsp;&emsp;Notwithstanding subsection (b) or (c) of this section, a covered class action described in subparagraph (B) of this paragraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
+&emsp;&emsp;Notwithstanding subsection (b) or (c), a covered class action described in subparagraph (B) of this paragraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
 
 #### (B) Permissible actions
 
@@ -48,15 +48,15 @@ Any covered class action brought in any State court involving a covered security
 
 #### (3) Actions under contractual agreements between issuers and indenture trustees
 
-&emsp;Notwithstanding subsection (b) or (c) of this section, a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
+&emsp;Notwithstanding subsection (b) or (c), a covered class action that seeks to enforce a contractual agreement between an issuer and an indenture trustee may be maintained in a State or Federal court by a party to the agreement or a successor to such party.
 
 #### (4) Remand of removed actions
 
-&emsp;In an action that has been removed from a State court pursuant to subsection (c) of this section, if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
+&emsp;In an action that has been removed from a State court pursuant to subsection (c), if the Federal court determines that the action may be maintained in State court pursuant to this subsection, the Federal court shall remand such action to such State court.
 
 #### (e) Preservation of State jurisdiction
 
-The securities commission (or any agency or office performing like functions) of any Stateshall retain jurisdiction under the laws of such State to investigate and bring enforcement actions.
+The securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions.
 
 #### (f) Definitions
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated,or otherwise allowed to proceed as a single action.
 
 #### (3) Covered security
 

@@ -82,7 +82,7 @@ A prior section 131 was renumbered section 140 of this title.
 
 &emsp;"(A) which is paid by a State or political subdivision thereof or by a placement agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and".
 
-Subsec. (b)(2)(B). Pub. L. 107–147, §404(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a)."
+Subsec. (b)(2)(B). Pub. L. 107–147, §404(b), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a)."
 
 Subsec. (b)(3), (4). Pub. L. 107–147, §404(c), added par. (3) and redesignated former par. (3) as (4).
 

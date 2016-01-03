@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) paying for activities to promote soil and water conservation and protection described in section 1924 of this title on a farm or ranch; or
 
-&emsp;&emsp;(E) refinancing a temporary bridge loan made by a commercial or cooperative lenderto a farmer or rancher for the acquisition of land for a farm or ranch, if—
+&emsp;&emsp;(E) refinancing a temporary bridge loan made by a commercial or cooperative lender to a farmer or rancher for the acquisition of land for a farm or ranch, if—
 
 &emsp;&emsp;&emsp;(i) the Secretary approved an application for a direct farm ownership loan to the farmer or rancher for acquisition of the land; and
 

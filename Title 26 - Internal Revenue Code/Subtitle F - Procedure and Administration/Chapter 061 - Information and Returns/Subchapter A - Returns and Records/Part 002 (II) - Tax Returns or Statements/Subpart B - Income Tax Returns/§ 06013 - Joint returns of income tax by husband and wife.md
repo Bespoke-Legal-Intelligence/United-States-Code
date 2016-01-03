@@ -22,7 +22,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;(A) after the expiration of 3 years from the last date prescribed by law for filing the return for such taxable year (determined without regard to any extension of time granted to either spouse); or
 
-&emsp;&emsp;(B) after there has been mailed to either spouse, with respect to such taxable year, a notice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
+&emsp;&emsp;(B) after there has been mailed to either spouse, with respect to such taxable year, anotice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
 
 &emsp;&emsp;(C) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
 
@@ -96,7 +96,7 @@ For purposes of this section and subtitle A—
 
 &emsp;&emsp;(A) an individual is in a missing status (within the meaning of paragraph (3)) as a result of service in a combat zone (as determined for purposes of section 112), and
 
-&emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for any taxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
+&emsp;&emsp;(B) the spouse of such individual is otherwise entitled to file a joint return for anytaxable year which begins on or before the day which is 2 years after the date designated under section 112 as the date of termination of combatant activities in such zone,
 
 > &emsp;then such spouse may elect under subsection (a) to file a joint return for such taxable year. With respect to service in the combat zone designated for purposes of the Vietnam conflict, such election may be made for any taxable year while an individual is in missing status.
 
@@ -114,7 +114,7 @@ For purposes of this section and subtitle A—
 
 #### (A) Uniformed services
 
-&emsp;&emsp;A member of a uniformed service (within the meaning of section 101(3) of title 37 ofthe United States Code) is in a missing status for any period for which he is entitled to pay and allowances under section 552 of such title 37.
+&emsp;&emsp;A member of a uniformed service (within the meaning of section 101(3) of title 37 of the United States Code) is in a missing status for any period for which he is entitled to pay and allowances under section 552 of such title 37.
 
 #### (B) Civilian employees
 
@@ -196,7 +196,7 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660;Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
 
@@ -228,7 +228,7 @@ Subsec. (e). Pub. L. 98–369, §424(a), in amending subsec. (e) generally, reen
 
 Subsec. (f)(1). Pub. L. 97–448 substituted "December 31, 1982" for "January 2, 1978".
 
-<b>1982</b>—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages", and subsec. (h)(1) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsecs. (g)(1)(B). (h)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, andpatronage dividends paid or credited after June 30, 1983, subsec. (g)(1)(B) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages", and subsec. (h)(1) is amended by substituting "(relating to withholding on wages, interest, dividends, and patronage dividends)" for "(relating to wage withholding)" and by striking out "of wages". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1981</b>—Subsec. (b)(3)(A). Pub. L. 97–34 substituted "the exemption amount" for "$1,000" and "twice the exemption amount" for "$2,000" in cls. (ii) and (iii) and inserted provision following cl. (iii) defining "exemption amount".
 
@@ -328,7 +328,7 @@ Amendment by section 474(b)(2) of Pub. L. 98–369 applicable to taxable years b
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, see section 104(e) ofPub. L. 97–34, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1984, see section 104(e) of Pub. L. 97–34, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -370,7 +370,7 @@ Pub. L. 91–679, §3, Jan. 12, 1971, 84 Stat. 2064, as amended by Pub. L. 94–
 
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
+Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), Dec. 30, 1969, 83 Stat. 675, 676, provided in part that the increases in exemptions from $600 and $1,200 to $625 and $1,250, respectively, were effective with respect to taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1971; and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972. Pub. L. 91–172, title VIII, §801(c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 676, which provided for increases in exemptions to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginningafter Dec. 31, 1972, was repealed by Pub. L. 92–178, title II, §201(c), Dec. 10, 1971, 85 Stat. 511.
 
 #### Effective Date of 1958 Amendment
 

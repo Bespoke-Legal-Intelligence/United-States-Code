@@ -74,7 +74,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary anapplication, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -94,7 +94,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (A) In general
 
-&emsp;&emsp;The Director may award rural health network development grants to eligible entities to promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
+&emsp;&emsp;The Director may award rural health network development grants to eligible entitiesto promote, through planning and implementation, the development of integrated health care networks that have combined the functions of the entities participating in the networks in order to—
 
 &emsp;&emsp;&emsp;(i) achieve efficiencies;
 
@@ -252,7 +252,7 @@ Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided
 
 &emsp;"(3) A cardiac arrest victim's chance of survival drops 10 percent for every minute that passes before his or her heart is returned to normal rhythm.
 
-&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation,prompt access to defibrillation to return the heart to normal rhythm is essential.
+&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation, prompt access to defibrillation to return the heart to normal rhythm is essential.
 
 &emsp;"(5) Lifesaving technology, the automated external defibrillator, has been developed to allow trained lay rescuers to respond to cardiac arrest by using this simple device to shock the heart into normal rhythm.
 
@@ -272,7 +272,7 @@ In General.—The Secretary of Health and Human Services, acting through the Rur
 
 Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-&emsp;"(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+&emsp;"(1) is composed of local emergency response entities such as community training facilities, localemergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
 &emsp;"(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 

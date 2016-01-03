@@ -16,7 +16,7 @@ Subject to subsection (b), there shall be included in the gross income of a bene
 
 &emsp;&emsp;(B) all other amounts properly paid, credited, or required to be distributed to all beneficiaries
 
-> &emsp;exceeds the distributable net income of the estate or trust, then, in lieu of the amount provided in the preceding sentence, there shall be included in the gross income of the beneficiaryan amount which bears the same ratio to distributable net income (reduced by the amounts specified in (A)) as the other amounts properly paid, credited or required to be distributed to the beneficiary bear to the other amounts properly paid, credited, or required to be distributed to all beneficiaries.
+> &emsp;exceeds the distributable net income of the estate or trust, then, in lieu of the amount provided in the preceding sentence, there shall be included in the gross income of the beneficiary an amount which bears the same ratio to distributable net income (reduced by the amounts specified in (A)) as the other amounts properly paid, credited or required to be distributed to the beneficiary bear to the other amounts properly paid, credited, or required to be distributed to all beneficiaries.
 
 #### (b) Character of amounts
 

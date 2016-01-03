@@ -8,7 +8,7 @@ It is the sense of Congress that the sentencing guidelines prescribed by the Uni
 
 Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
 
-&emsp;(1) Section 2410 of the Appendix to this title.
+&emsp;(1) Section 4610 of this title.
 
 &emsp;(2) Sections 2778 and 2780 of title 22.
 

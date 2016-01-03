@@ -38,7 +38,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (4) Grossed-up basis
 
-&emsp;For purposes of paragraph (1), the grossed-up basis shall be an amount equal to the basis ofthe corporation's recently purchased stock, multiplied by a fraction—
+&emsp;For purposes of paragraph (1), the grossed-up basis shall be an amount equal to the basis of the corporation's recently purchased stock, multiplied by a fraction—
 
 &emsp;&emsp;(A) the numerator of which is 100 percent, minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation's nonrecently purchased stock, and
 
@@ -354,7 +354,7 @@ Subsec. (h)(3)(C). Pub. L. 98–369, §712(k)(5)(B), added subpar. (C).
 
 Subsec. (h)(7). Pub. L. 98–369, §712(k)(6)(A), added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
 
-Subsec. (h)(8). Pub. L. 98–369, §712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that"Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation." Former par. (8) redesignated (9).
+Subsec. (h)(8). Pub. L. 98–369, §712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that "Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation." Former par. (8) redesignated (9).
 
 Subsec. (h)(9). Pub. L. 98–369, §712(k)(6)(A), (B), redesignated former par. (8) as (9) and substituted therein "paragraph (10)" for "paragraph (9)". Former par. (9) redesignated (10).
 
@@ -394,7 +394,7 @@ Amendment by sections 1006(e)(20) and 1018(d)(9) of Pub. L. 100–647 effective,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(b), (e)(5) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(b), (e)(5) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 1275(c)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -502,7 +502,7 @@ Pub. L. 98–369, div. A, title VII, §712(k)(10), July 18, 1984, 98 Stat. 953, 
 
 #### Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group
 
-Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, title VII, §722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
+Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, as amended by Pub. L. 98–369, div. A, titleVII, §722(a)(3), July 18, 1984, 98 Stat. 973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If—
 
 &emsp;"(I) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after September 1, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], and
 

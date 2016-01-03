@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Effective as of August,<sup>1</sup> 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
+In General.—Effective as of August 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
 
 &emsp;(1) An eligible program (as defined in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088)) that is offered by an institution of higher education that has entered into, and is complying with, a program participation agreement under section 487 of such Act (20 U.S.C. 1094).
 
@@ -12,7 +12,7 @@ In General.—Effective as of August,<sup>1</sup> 1, 2014, an individual eligibl
 
 (b)
 
-Waiver.—The Secretary of Defense may, by regulation, authorize the use of educationalassistance under a Department of Defense educational assistance program or authority covered by this chapter for educational expenses incurred for a program of education that is not described in subsection (a) if the program—
+Waiver.—The Secretary of Defense may, by regulation, authorize the use of educational assistance under a Department of Defense educational assistance program or authority covered by this chapter for educational expenses incurred for a program of education that is not described in subsection (a) if the program—
 
 &emsp;(1) is accredited and approved by a nationally or regionally recognized accrediting agency or association recognized by the Department of Education;
 
@@ -40,7 +40,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term "institution of higher education" has the meaning given that term in section 102 of the Higher Education Act for 1965 (20 U.S.C. 1002).
 
-(Added Pub. L. 113–66, div. A, title V, §541(a), Dec. 26, 2013, 127 Stat. 760.)
+(Added Pub. L. 113–66, div. A, title V, §541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, §1081(a)(6), Nov. 25, 2015, 129 Stat. 1001.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92 substituted "August 1" for "August, 1" in introductory provisions.
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(2) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
-&emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
+&emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification)brought by the Federal Government where the contractor is found liable or had pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
 &emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance those payments in accordance with applicable provisions of the Federal Acquisition Regulation.
 
@@ -30,7 +30,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;&emsp;(B) paid to the employee contingent on, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
-&emsp;(12) Costs of commercial insurance that protects against the costs of the contractor forcorrection of the contractor's own defects in materials or workmanship.
+&emsp;(12) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
 &emsp;(13) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
@@ -92,7 +92,7 @@ June 30, 1949, ch. 288, title III, §306(e), as added Pub. L. 100–700, §8(a)(
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Costs of compensation of seniorexecutives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title." See Effective Date of 2013 Amendment notes below.
+<b>2013</b>—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: "Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under section 1127 of this title." See Effective Date of 2013 Amendment notes below.
 
 #### Effective Date of 2013 Amendment
 
@@ -178,7 +178,7 @@ Sec. 4. Examples of costs unallowable under section 2 of this order include the 
 
 (d) planning or conducting activities by managers, supervisors, or union representatives during work hours.
 
-Sec. 5. Within 150 days of the effective date of this order, the Federal Acquisition Regulatory Council\(FAR Council) shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to carry out this order. Such rules, regulations, and orders shall minimize the costs of compliance for contractors and shall not interfere with the ability of contractors to engage in advocacy through activities for which they do not claim reimbursement.
+Sec. 5. Within 150 days of the effective date of this order, the Federal Acquisition Regulatory Council (FAR Council) shall adopt such rules and regulations and issue such orders as are deemed necessary and appropriate to carry out this order. Such rules, regulations, and orders shall minimize the costs of compliance for contractors and shall not interfere with the ability of contractors to engage in advocacy through activities for which they do not claim reimbursement.
 
 Sec. 6. Each contracting department or agency shall cooperate with the FAR Council and provide such information and assistance as the FAR Council may require in the performance of its functions under this order.
 

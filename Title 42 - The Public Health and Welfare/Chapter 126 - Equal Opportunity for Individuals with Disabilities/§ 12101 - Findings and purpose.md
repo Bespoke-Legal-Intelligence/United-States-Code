@@ -68,7 +68,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) in enacting the ADA, Congress recognized that physical and mental disabilities in no way diminish a person's right to fully participate in all aspects of society, but that people with physical or mental disabilities are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers;
 
-&emsp;"(3) while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definition of a handicapped individual under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], that expectation has not been fulfilled;
+&emsp;"(3) while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definitionof a handicapped individual under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], that expectation has not been fulfilled;
 
 &emsp;"(4) the holdings of the Supreme Court in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) and its companion cases have narrowed the broad scope of protection intended to be afforded by the ADA, thus eliminating protection for many individuals whom Congress intended to protect;
 

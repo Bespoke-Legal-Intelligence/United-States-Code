@@ -6,7 +6,7 @@ Authority.—
 
 &emsp;(1)
 
-Contracts and cooperative agreements.—The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
+Contracts and cooperative agreements.—The Secretary of the Navy may enterinto contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
 
 &emsp;(2)
 

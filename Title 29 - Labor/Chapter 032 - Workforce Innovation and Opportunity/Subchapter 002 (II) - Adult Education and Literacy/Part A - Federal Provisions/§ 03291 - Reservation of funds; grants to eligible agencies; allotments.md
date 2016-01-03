@@ -60,7 +60,7 @@ For the purpose of subsection (c)(2), the term "qualifying adult" means an adult
 
 #### (4) Administrative costs
 
-&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under this subsection to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subsection.
+&emsp;The Secretary may provide not more than 5 percent of the funds made available for grants under this subsection to pay the administrative costs of the Pacific Region EducationalLaboratory regarding activities assisted under this subsection.
 
 #### (f) Hold-harmless provisions
 
@@ -80,5 +80,5 @@ The portion of any eligible agency's allotment under this subchapter for a fisca
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

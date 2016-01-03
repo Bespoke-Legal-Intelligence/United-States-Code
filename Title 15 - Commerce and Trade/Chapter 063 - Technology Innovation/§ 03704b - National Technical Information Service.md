@@ -6,7 +6,7 @@
 
 &emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
-&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D) of this section.
+&emsp;(B) In addition to the authority regarding fees contained in section 2 of the Act entitled "An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes" enacted September 9, 1950 (15 U.S.C. 1152), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
 
 &emsp;(C) Enter into contracts for the performance of part or all of the functions performed by the Promotion Division of the Service prior to October 24, 1988. The details of any such contract, and a statement of its effect on the operations and personnel of the Service, shall be provided to the appropriate committees of the Congress 30 days in advance of the execution of such contract.
 
@@ -16,7 +16,7 @@
 
 > An increase or decrease in the personnel of the Service shall not affect or be affected by any ceilings on the number or grade of personnel.
 
-(2) The functions and activities of the Service specified in subsection (e)(1) through (6) of this section are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
+(2) The functions and activities of the Service specified in subsection (e)(1) through (6) are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
 
 &emsp;(A) for the procurement of supplies, materials, and equipment by the Service;
 
@@ -80,7 +80,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 &emsp;(D) describe the long-term modernization plans of the Service; and
 
-&emsp;(E) include the results of the most recent annual audit carried out under subsection (d) of this section.
+&emsp;(E) include the results of the most recent annual audit carried out under subsection (d).
 
 (4) The Secretary shall also give the Congress detailed advance notice of not less than 30 calendar days of—
 
@@ -124,7 +124,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### National Technical Information Service Revolving Fund
 
-Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall betransferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remainavailable until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -20,7 +20,7 @@ Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 
 <b>1996</b>—Pub. L. 104–132 substituted "Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country" for "Conspiracy to injure property of foreign government" as section catchline and amended text generally. Prior to amendment, text read as follows:
 
-"(a) If two or more persons within the jurisdiction of the United States conspire to injure or destroy specificproperty situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which the United States is at peace, or any railroad, canal, bridge, or other public utility so situated, and if one or more such persons commits an act within the jurisdiction of the United States to effect the object of the conspiracy, each of the parties to the conspiracy shall be fined under this title or imprisoned not more than three years, or both.
+"(a) If two or more persons within the jurisdiction of the United States conspire to injure or destroy specific property situated within a foreign country and belonging to a foreign government or to any political subdivision thereof with which the United States is at peace, or any railroad, canal, bridge, or other public utility so situated, and if one or more such persons commits an act within the jurisdiction of the United States to effect the object of the conspiracy, each of the parties to the conspiracy shall be fined under this title or imprisoned not more than three years, or both.
 
 "(b) Any indictment or information under this section shall describe the specific property which it was the object of the conspiracy to injure or destroy."
 

@@ -44,7 +44,7 @@ Other members.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Members of the board of governors other than the chairman shall be elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
+In general.—Members of the board of governors other than the chairman shallbe elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
 
 &emsp;&emsp;&emsp;(ii)
 

@@ -160,7 +160,7 @@
 
 #### (ii) Equalization
 
-&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation, payment using donated or appropriated funds, or the conveyance of additional parcels of land.
+&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation,payment using donated or appropriated funds, or the conveyance of additional parcels of land.
 
 #### (D) Appraisal
 

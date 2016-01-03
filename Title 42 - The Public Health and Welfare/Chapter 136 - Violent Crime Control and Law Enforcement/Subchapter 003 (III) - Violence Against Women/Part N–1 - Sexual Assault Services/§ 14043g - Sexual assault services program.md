@@ -138,7 +138,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(B) work with judicial and law enforcement agencies to encourage appropriate responses to sexual assault cases;
 
-&emsp;&emsp;(C) work with courts, child protective services agencies, and children's advocatesto develop appropriate responses to child custody and visitation issues when sexual assault has been determined to be a factor;
+&emsp;&emsp;(C) work with courts, child protective services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues when sexual assault has been determined to be a factor;
 
 &emsp;&emsp;(D) design and conduct public education campaigns;
 
@@ -166,7 +166,7 @@ The purposes of this section are—
 
 #### (1) Grants authorized
 
-&emsp;The Attorney General may award grants to Indian tribes, tribal organizations, and nonprofit tribal organizations for the operation of sexual assault programs or projects in Indian tribal lands and Alaska Native villages to support the establishment, maintenance, and expansion of programs and projects to assist those victimized by sexual assault.
+&emsp;The Attorney General may award grants to Indian tribes, tribal organizations, and nonprofit tribal organizations for the operation ofsexual assault programs or projects in Indian tribal lands and Alaska Native villages to support the establishment, maintenance, and expansion of programs and projects to assist those victimized by sexual assault.
 
 #### (2) Allocation and use of funds
 

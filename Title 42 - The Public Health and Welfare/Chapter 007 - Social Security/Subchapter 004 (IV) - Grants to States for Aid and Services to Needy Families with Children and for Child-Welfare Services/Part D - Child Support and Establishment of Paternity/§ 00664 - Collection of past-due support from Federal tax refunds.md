@@ -8,7 +8,7 @@
 
 (B) This paragraph shall apply only with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 after December 31, 1985.
 
-(3)(A) Prior to notifying the Secretary of the Treasury under paragraph (1) or (2) that an individual owes past-due support, the State shall send notice to such individual that a withholding will be made from any refund otherwise payable to such individual. The notice shall also (i) instruct the individual owing the past-due support of the steps which may be taken to contest the State's determination that past-due supportis owed or the amount of the past-due support, and (ii) provide information, as may be prescribed by the Secretary of Health and Human Services by regulation in consultation with the Secretary of the Treasury, with respect to procedures to be followed, in the case of a joint return, to protect the share of the refund which may be payable to another person.
+(3)(A) Prior to notifying the Secretary of the Treasury under paragraph (1) or (2) that an individual owes past-due support, the State shall send notice to such individual that a withholding will be made from any refund otherwise payable to such individual. The notice shall also (i) instruct the individual owing the past-due support of the steps which may be taken to contest the State's determination that past-due support is owed or the amount of the past-due support, and (ii) provide information, as may be prescribed by the Secretary of Health and Human Services by regulation in consultation with the Secretary of the Treasury, with respect to procedures to be followed, in the case of a joint return, to protect the share of the refund which may be payable to another person.
 
 (B) If the Secretary of the Treasury determines that an amount should be withheld under paragraph (1) or (2), and that the refund from which it should be withheld is based upon a joint return, the Secretary of the Treasury shall notify the State that the withholding is being made from a refund based upon a joint return, and shall furnish to the State the names and addresses of each taxpayer filing such joint return. In the case of a withholding under paragraph (2), the State may delay distribution of the amount withheld until the State has been notified by the Secretary of the Treasury that the other person filing the joint return has received his or her proper share of the refund, but such delay may not exceed six months.
 
@@ -42,7 +42,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classifi
 
 <b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–171, §7301(f)(1)(A), struck out "(as that term is defined for purposes of this paragraph under subsection (c) of this section)" after "owes past-due support".
 
-Subsec. (c). Pub. L. 109–171, §7301(f)(1)(B), substituted "In this part" for "(1) Except as provided in paragraph (2), as used in this part", inserted "(whether or not aminor)" after "a child" in two places, and struck out pars. (2) and (3) defining "past-due support" and "qualified child", respectively.
+Subsec. (c). Pub. L. 109–171, §7301(f)(1)(B), substituted "In this part" for "(1) Except as provided in paragraph (2), as used in this part", inserted "(whether or not a minor)" after "a child" in two places, and struck out pars. (2) and (3) defining "past-due support" and "qualified child", respectively.
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §5513(a)(4), substituted "section 608(a)(3)" for "section 602(a)(26)".
 

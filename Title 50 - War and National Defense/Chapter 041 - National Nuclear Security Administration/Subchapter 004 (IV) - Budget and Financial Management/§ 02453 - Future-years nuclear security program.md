@@ -50,7 +50,7 @@ Each future-years nuclear security program shall contain the following:
 
 (2) Amounts referred to in paragraph (1) are the following:
 
-&emsp;(A) The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a) of this section.
+&emsp;(A) The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in thebudget submitted to Congress by the President under section 1105(a) of title 31 for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a) of this section.
 
 &emsp;(B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 
@@ -84,7 +84,7 @@ Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2)\], redesi
 
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 
-Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C,title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
+Pub. L. 108–136, div. C, title XXXI, §3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, §3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, §3112, Oct. 17, 2006, 120 Stat. 2503, provided that:
 
 "(a)
 

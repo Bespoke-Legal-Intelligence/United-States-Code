@@ -28,7 +28,7 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(3) the applicant agrees to provide additional documentation to the Secretary regarding the process used to obtain community input into the design and implementation of activities related to such grant; and
 
-&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to completeunmet need calculations and Statewide coordinated statements of need process.
+&emsp;(4) the applicant agrees to submit, every 2 years, to the lead State agency under section 300ff–27(b)(4) of this title audits, consistent with Office of Management and Budget circular A133, regarding funds expended in accordance with this subchapter and shall include necessary client level data to complete unmet need calculations and Statewide coordinated statements of need process.
 
 #### (b) Provision of opportunities for anonymous counseling and testing
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter thatare provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 

@@ -20,7 +20,7 @@ For each fiscal year, the Secretary shall (to the extent amounts are made availa
 
 #### (c) Use of funds for affordable housing activities under plan
 
-Except as provided in subsection (e) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title.
+Except as provided in subsection (e), amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under section 4224 of this title.
 
 #### (d) Administrative expenses
 

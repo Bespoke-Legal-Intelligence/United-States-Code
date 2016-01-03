@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Implementation of Reimbursement Recovery System.—The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under section 70302 of this title from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not lessthan $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
+Establishment and Implementation of Reimbursement Recovery System.—The Administrator shall establish and implement a pricing system to recover reimbursement in accordance with the pricing policy under section 70302 of this title from each commercial or foreign user of the Space Transportation System, which, except as provided in subsections (c), (d), and (e), shall include a base price of not less than $74,000,000 for each flight of the Space Transportation System in 1982 dollars.
 
 (b)
 

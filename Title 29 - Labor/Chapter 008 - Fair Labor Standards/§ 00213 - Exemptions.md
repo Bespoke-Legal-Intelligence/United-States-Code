@@ -14,7 +14,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
 
-&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other thanan employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
+&emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
 
 &emsp;(7) any employee to the extent that such employee is exempted by regulations, order, or certificate of the Secretary issued under section 214 of this title; or
 
@@ -76,7 +76,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(11) any employee employed as a driver or driver's helper making local deliveries, who is compensated for such employment on the basis of trip rates, or other delivery payment plan, if the Secretary shall find that such plan has the general purpose and effect of reducing hours worked by such employees to, or below, the maximum workweek applicable to them under section 207(a) of this title; or
 
-&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing ofwater, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
+&emsp;(12) any employee employed in agriculture or in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways, not owned or operated for profit, or operated on a sharecrop basis, and which are used exclusively for supply and storing of water, at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year; or
 
 &emsp;(13) any employee with respect to his employment in agriculture by a farmer, notwithstanding other employment of such employee in connection with livestock auction operations in which such farmer is engaged as an adjunct to the raising of livestock, either on his own account or in conjunction with other farmers, if such employee (A) is primarily employed during his workweek in agriculture by such farmer, and (B) is paid for his employment in connection with such livestock auction operations at a wage rate not less than that prescribed by section 206(a)(1) of this title; or
 
@@ -120,7 +120,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 (1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
-&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A) of this section) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
+&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
 &emsp;(B) is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
 
@@ -260,11 +260,11 @@ The provisions of sections 206, 207, and 212 of this title shall not apply with 
 
 #### (e) Maximum hour requirements and minimum wage employees
 
-The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
+The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establishminimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
 
 #### (f) Employment in foreign countries and certain United States territories
 
-The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outerContinental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
+The provisions of sections 206, 207, 211, and 212 of this title shall not apply with respect to any employee whose services during the workweek are performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: a State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\]; American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
 
 #### (g) Certain employment in retail or service establishments, agriculture
 
@@ -322,7 +322,7 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 > &emsp;compensation at a rate not less than one and one-half times the regular rate at which he is employed. No week included in any fifty-two week period for purposes of the preceding sentence may be included for such purposes in any other fifty-two week period.
 
-(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct.31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005.)
+(June 25, 1938, ch. 676, §13, 52 Stat. 1067; Aug. 9, 1939, ch. 605, 53 Stat. 1266; Oct. 26, 1949, ch. 736, §11, 63 Stat. 917; Aug. 8, 1956, ch. 1035, §3, 70 Stat. 1118; Pub. L. 85–231, §1(1), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(b), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §§9, 10, May 5, 1961, 75 Stat. 71, 74; Pub. L. 89–601, title II, §§201–204(a), (b), 205–212(a), 213, 214, 215(b), (c), Sept. 23, 1966, 80 Stat. 833–838; Pub. L. 89–670, §8(e), Oct. 15, 1966, 80 Stat. 943; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–318, title IX, §906(b)(1), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(c)(2), 7(b)(3), (4), 8, 9(b), 10, 11, 12(a), 13(a)–(d), 14–18, 20(a)–(c), 21(b), 22, 23, 25(b), Apr. 8, 1974, 88 Stat. 61–69, 72; Pub. L. 95–151, §§4–8, 9(d), 11, 14, Nov. 1, 1977, 91 Stat. 1249, 1250–1252; Pub. L. 96–70, title I, §1225(a), Sept. 27, 1979, 93 Stat. 468; Pub. L. 101–157, §3(c), Nov. 17, 1989, 103 Stat. 939; Pub. L. 103–329, title VI, §633(d), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 104–88, title III, §340, Dec. 29, 1995, 109 Stat. 955; Pub. L. 104–174, §1, Aug. 6, 1996, 110 Stat. 1553; Pub. L. 104–188, \[title II\], §2105(a), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–78, title I, §105, Nov. 13, 1997, 111 Stat. 1477; Pub. L. 105–334, §2(a), Oct. 31, 1998, 112 Stat. 3137; Pub. L. 108–199, div. E, title I, §108, Jan. 23, 2004, 118 Stat. 236; Pub. L. 113–277, §2(g)(2), Dec. 18, 2014, 128 Stat. 3005.)
 
 #### References in Text
 
@@ -342,7 +342,7 @@ In subsec. (b)(1), "section 31502 of title 49" substituted for "section 3102 of 
 
 #### Amendments
 
-Subsec. (a)(18). Pub. L. 113–277 added par. (18).
+<b>2014</b>—Subsec. (a)(18). Pub. L. 113–277 added par. (18).
 
 <b>2004</b>—Subsec. (c)(7). Pub. L. 108–199 added par. (7).
 
@@ -364,7 +364,7 @@ Subsec. (b)(30). Pub. L. 103–329, §633(d)(2), added par. (30).
 
 Subsec. (a)(4). Pub. L. 101–157, §3(c)(1), struck out par. (4) which related to employees employed by an establishment which qualified as an exempt retail establishment under clause (2) of this subsection and was recognized as a retail establishment in the particular industry notwithstanding that such establishment made or processed at the retail establishment the goods that it sold.
 
-Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a) of this section" for "provided by paragraphs (2) and (6) of subsection (a) of this section" and struck out before period at end ", except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) of this section if it were in an enterprise described in section 203(s) of this title".
+Subsec. (g). Pub. L. 101–157, §3(c)(2), substituted "provided by paragraph (6) of subsection (a)" for "provided by paragraphs (2) and (6) of subsection (a) of this section" and struck out before period at end ", except that the exemption from section 206 of this title provided by paragraph (2) of subsection (a) of this section shall apply with respect to any establishment described in this subsection which has an annual dollar volume of sales which would permit it to qualify for the exemption provided in paragraph (2) of subsection (a) if it were in an enterprise described in section 203(s) of this title".
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–70 struck out "; and the Canal Zone" after "Johnston Island".
 
@@ -394,7 +394,7 @@ Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
-Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisions of sections 206 and 207 of this title would not otherwise apply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
+Subsec. (a)(11). Pub. L. 93–259, §10(a), repealed exemption provision respecting any employee or proprietor in a retail or service establishment which qualifies as an exempt retail or service establishment under former par. (2) of subsec. (a) with respect to whom provisionsof sections 206 and 207 of this title would not otherwise apply, engaged in handling telegraphic messages for public under an agency or contract arrangement with a telegraph company where telegraph message revenue of such agency does not exceed $500 a month.
 
 Subsec. (a)(13). Pub. L. 93–259, §23(b)(1), repealed exemption provision respecting any employee employed in planting or tending trees, cruising, surveying, or felling timber, or in preparing or transporting logs or other forestry products to mill, processing plant, railroad, or other transportation terminal, if number of employees employed by his employer in such forestry or lumbering operations does not exceed eight. See subsec. (b)(28) of this section.
 
@@ -450,7 +450,7 @@ Subsec. (a)(2). Pub. L. 89–601, §201(a), revised the retail or service establ
 
 Subsec. (a)(3). Pub. L. 89–601, §§201(b)(2), 202, repealed par. (3) relating to employees of laundry, cleaning, and fabric or clothing repair establishments doing more than 50 per centum of their annual dollar volume of business within the state in which the establishment is located and enacted a new par. (3) relating to employees of amusement or recreational establishments which do not operate for more than seven months in any calendar year or which had receipts over a six-month period which were not more than 331/3 per centum of its average receipts for the other six months of such year.
 
-Subsec. (a)(6). Pub. L. 89–601, §203(a), limited the provisions exempting agricultural employees from application of sections 206 and 207 of this title by narrowingthe class of exempted agricultural employees to include only an employee employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than 500 man-days of agricultural labor, an employee who is the spouse, parent, child, or other member of his employer's immediate family, certain hand harvest laborers, or an employee principally engaged in the range production of livestock. See subsec. (b)(12) of this section.
+Subsec. (a)(6). Pub. L. 89–601, §203(a), limited the provisions exempting agricultural employees from application of sections 206 and 207 of this title by narrowing the class of exempted agricultural employees to include only an employee employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than 500 man-days of agricultural labor, an employee who is the spouse, parent, child, or other member of his employer's immediate family, certain hand harvest laborers, or an employee principally engaged in the range production of livestock. See subsec. (b)(12) of this section.
 
 Subsec. (a)(7). Pub. L. 89–601, §215(c), extended coverage to include employees exempted by a certificate of the Secretary.
 
@@ -502,7 +502,7 @@ Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwaj
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading,or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted "Secretary" for "Administrator".
 
@@ -560,6 +560,10 @@ Subsec. (d). Act Oct. 26, 1949, added par. (d).
 
 <b>1939</b>—Subsec. (a)(11). Act Aug. 9, 1939, added par. (11).
 
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under section 5542 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–334, §2(b), Oct. 31, 1998, 112 Stat. 3138, provided that:
@@ -574,7 +578,7 @@ Exception.—The amendment made by subsection (a) \[amending this section\] defi
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1994 Amendment
 
@@ -606,7 +610,7 @@ Pub. L. 93–259, §10(b)(2), (3), Apr. 8, 1974, 88 Stat. 63, 64, provided that 
 
 Pub. L. 93–259, §11(b), (c), Apr. 8, 1974, 88 Stat. 64, provided that the amendment and repeal made by subsecs. (b) and (c) of section 11 are effective one year and two years after May 1, 1974, respectively.
 
-Pub. L. 93–259, §13(b)–(d), Apr. 8, 1974, 88 Stat. 64, provided that the amendments made by subsecs. (b), (c), and (d) of section 13 are effective one year, two years, and three years after May 1, 1974, respectively.
+Pub. L. 93–259, §13(b)–(d), Apr. 8, 1974, 88 Stat. 64, provided that the amendments made by subsecs. (b), (c),and (d) of section 13 are effective one year, two years, and three years after May 1, 1974, respectively.
 
 Pub. L. 93–259, §15(b), (c), Apr. 8, 1974, 88 Stat. 65, provided that the amendment and repeal made by subsecs. (b) and (c) of section 15 are effective one year and two years after May 1, 1974, respectively.
 

@@ -44,7 +44,7 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 #### (3) Pilot program report
 
-&emsp;Not later than January 15, 1996, the Secretary of State and the Director of theDTS–PO shall submit to the Committees on Appropriations of the House and Senate a report describing the actions taken under the program required by this subsection. The report shall include a cost-benefit analysis for each embassy participating in the program.
+&emsp;Not later than January 15, 1996, the Secretary of State and the Director of the DTS–PO shall submit to the Committees on Appropriations of the House and Senate a report describing the actions taken under the program required by this subsection. The report shall include a cost-benefit analysis for each embassy participating in the program.
 
 #### (d) DTS planning report
 

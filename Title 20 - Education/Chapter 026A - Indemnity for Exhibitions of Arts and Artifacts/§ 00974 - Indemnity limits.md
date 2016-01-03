@@ -68,7 +68,7 @@ Subsec. (d)(6), (7). Pub. L. 105–277, §101(e) \[title III, §333(5)\], added 
 
 Subsec. (c). Pub. L. 101–512, §318 \[title III, §301(b)(1)\], substituted "$300,000,000" for "$125,000,000".
 
-Subsec. (d)(3). Pub. L. 101–512, §318 \[title III, §301(b)(2)(B)\], amended par. (3) generally. Prior to amendment, par. (3) read as follows: "$10,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $50,000 of loss or damage to items covered."
+Subsec. (d)(3). Pub. L. 101–512, §318 \[title III, §301(b)(2)(B)\], amended par. (3) generally. Prior toamendment, par. (3) read as follows: "$10,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $50,000 of loss or damage to items covered."
 
 Subsec. (d)(4), (5). Pub. L. 101–512, §318 \[title III, §301(b)(2)(A), (C)\], added pars. (4) and (5).
 

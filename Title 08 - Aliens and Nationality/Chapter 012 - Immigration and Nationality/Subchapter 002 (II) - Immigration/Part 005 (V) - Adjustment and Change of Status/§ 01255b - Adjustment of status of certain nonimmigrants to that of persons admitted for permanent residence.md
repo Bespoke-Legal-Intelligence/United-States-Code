@@ -32,7 +32,7 @@ Section was not enacted as a part of the Immigration and Nationality Act which c
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 made technical amendment to directory language of Pub. L. 103–416, §207(2). See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–416, §207(1), struck out after second sentence "If, during the session of the Congress at which a case is reported, or prior to the close of the session of Congress next following the session at which a case is reported, either the Senate or the House of Representatives passes a resolution stating in substance that it does not favor the adjustment of statusof such alien, the Attorney General shall thereupon require the departure of such alien in the manner provided by law."
+<b>1994</b>—Subsec. (c). Pub. L. 103–416, §207(1), struck out after second sentence "If, during the session of the Congress at which a case is reported, or prior to the close of the session of Congress next following the session at which a case is reported, either the Senate or the House of Representatives passes a resolution stating in substance that it does not favor the adjustment of status of such alien, the Attorney General shall thereupon require the departure of such alien in the manner provided by law."
 
 Pub. L. 103–416, §207(2), as amended by Pub. L. 104–208, substituted "The" for "If neither the Senate nor the House of Representatives passes such a resolution within the time above specified, the".
 

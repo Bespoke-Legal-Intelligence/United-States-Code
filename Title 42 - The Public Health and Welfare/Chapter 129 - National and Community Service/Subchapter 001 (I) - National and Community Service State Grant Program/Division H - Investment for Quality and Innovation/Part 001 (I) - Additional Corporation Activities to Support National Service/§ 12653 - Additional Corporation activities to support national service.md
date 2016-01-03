@@ -32,7 +32,7 @@ The Corporation may support activities to enhance the ability of youth and young
 
 #### (f) National program identity
 
-The Corporation may support the development and dissemination of materials, including training materials, and arrange for uniforms and insignia, designed to promote unity and shared features among programs that receive assistance under the national service laws.
+The Corporation may support the development and dissemination of materials, including training materials, and arrange for uniforms and insignia, designed to promote unity and sharedfeatures among programs that receive assistance under the national service laws.
 
 #### (g) Global Youth Service Day
 
@@ -94,7 +94,7 @@ Not later than 180 days after April 21, 2009, the Corporation shall conduct a na
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (h), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I and part B of title II of the Act are classified generally to subchapter I (§4951 et seq.) and part B (§5011 et seq.) of subchapter II, respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (h), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat.394. Title I and part B of title II of the Act are classified generally to subchapter I (§4951 et seq.) and part B (§5011 et seq.) of subchapter II, respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (h), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
@@ -104,7 +104,7 @@ A prior section 12653, Pub. L. 101–610, title I, §195, as added Pub. L. 102�
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively,and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
+<b>2009</b>—Pub. L. 111–13, §1802(a)(3), redesignated subsecs. (g), (k), (n), (o), (q), (r), and (s) as (c) to (i), respectively, and struck out former subsecs. (c) to (f), (h) to (j), (l), (m), and (p), which related to summer programs, community-based agencies, improving ability to apply for assistance, national service fellowships, Peace Corps and VISTA training, promotion and recruitment, training, intergenerational support, planning coordination, and service-learning, respectively.
 
 Subsec. (a). Pub. L. 111–13, §1802(a)(1), substituted "subsection (g)" for "subsection (r) of this section".
 
@@ -168,7 +168,7 @@ Sec. 3. <i>Membership</i>. (a) The Council shall be composed of not more than 30
 
 Sec. 4. <i>Administration</i>. (a) The CNCS shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
 
-(b) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law and subject to the availability of appropriations, as may be necessary to carry out the functions of the Council.
+(b) The heads of executive departments and agencies shall assist and provide information to the Council,consistent with applicable law and subject to the availability of appropriations, as may be necessary to carry out the functions of the Council.
 
 (c) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
 

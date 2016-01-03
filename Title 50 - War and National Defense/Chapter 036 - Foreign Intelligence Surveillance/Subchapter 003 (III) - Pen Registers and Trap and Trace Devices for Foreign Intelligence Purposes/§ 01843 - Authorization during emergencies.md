@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subchapter, when the Attorney Genera
 
 &emsp;(1) a judge referred to in section 1842(b) of this title is informed by the Attorney General or his designee at the time of such authorization that the decision has been made to install and use the pen register or trap and trace device, as the case may be, on an emergency basis; and
 
-&emsp;(2) an application in accordance with section 1842 of this title is made to such judge as soon as practicable, but not more than 7 days, after the Attorney General authorizes the installation and use of the pen register or trap andtrace device, as the case may be, under this section.
+&emsp;(2) an application in accordance with section 1842 of this title is made to such judge as soon as practicable, but not more than 7 days, after the Attorney General authorizes the installation and use of the pen register or trap and trace device, as the case may be, under this section.
 
 #### (b) Determination of emergency and factual basis
 
@@ -28,9 +28,15 @@ A determination under this subsection is a reasonable determination by the Attor
 
 (2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under section 1842 of this title is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
-(Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407; amended Pub. L. 107–56, title II, §214(b), Oct. 26, 2001, 115 Stat. 287; Pub. L. 110–261, title I, §108, July 10, 2008, 122 Stat. 2464.)
+#### (d) Privacy procedures
+
+Information collected through the use of a pen register or trap and trace device installed under this section shall be subject to the policies and procedures required under section 1842(h) of this title.
+
+(Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407; amended Pub. L. 107–56, title II, §214(b), Oct. 26, 2001, 115 Stat. 287; Pub. L. 110–261, title I, §108, July 10, 2008, 122 Stat. 2464; Pub. L. 114–23, title II, §202(b), June 2, 2015, 129 Stat. 278.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–23 added subsec. (d).
 
 <b>2008</b>—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted "7 days" for "48 hours".
 
@@ -40,5 +46,5 @@ Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted "foreign intelligence
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
+Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set outas an Effective Date of 2008 Amendment note under section 1801 of this title.
 

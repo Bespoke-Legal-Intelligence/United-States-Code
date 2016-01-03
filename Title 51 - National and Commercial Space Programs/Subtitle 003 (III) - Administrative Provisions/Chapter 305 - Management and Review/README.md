@@ -101,7 +101,7 @@ Sec. 2. <i>Mission and Functions</i>. The Task Force shall work with local stake
 
 The Task Force will perform the following functions, to the extent permitted by law:
 
-(a) provide leadership and coordination of Federal Government resources to facilitate workforce and economic development opportunities for aerospace communities and workers affected by new developments inAmerica's space exploration program. Such support may include the use of personnel, technical expertise, and available financial resources, and may be used to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by space industry changes;
+(a) provide leadership and coordination of Federal Government resources to facilitate workforce and economic development opportunities for aerospace communities and workers affected by new developments in America's space exploration program. Such support may include the use of personnel, technical expertise, and available financial resources, and may be used to provide a coordinated Federal response to the needs of individual States, regions, municipalities, and communities adversely affected by space industry changes;
 
 (b) provide recommendations to the President on ways Federal policies and programs can address issues of special importance to aerospace communities and workers; and
 

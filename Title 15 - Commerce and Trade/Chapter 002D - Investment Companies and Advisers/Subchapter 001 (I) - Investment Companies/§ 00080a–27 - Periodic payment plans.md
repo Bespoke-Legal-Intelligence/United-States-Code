@@ -18,7 +18,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 #### (b) Exemptions
 
-If it appears to the Commission, upon application or otherwise, that smaller companies are subjected to relatively higher operating costs and that in order to make due allowance therefor it is necessary or appropriate in the public interest and consistent with the protection of investors that a provision or provisions of paragraph (1), (2), or (3) of subsection (a) of this section relative to sales load be relaxed in the case of certain registered investment companies issuing periodic payment plan certificates, or certain specified classes of such companies, the Commission is authorized by rules and regulations or order to grant any such company or class of companies appropriate qualified exemptions from the provisions of said paragraphs.
+If it appears to the Commission, upon application or otherwise, that smaller companies are subjected to relatively higher operating costs and that in order to make due allowance therefor it is necessary or appropriate in the public interest and consistent with the protection of investors that a provision or provisions of paragraph (1), (2), or (3) of subsection (a) relative to sales load be relaxed in the case of certain registered investment companies issuing periodic payment plan certificates, or certain specified classes of such companies, the Commission is authorized by rules and regulations or order to grant any such company or class of companies appropriate qualified exemptions from the provisions of said paragraphs.
 
 #### (c) Sale of certificates; requirements
 
@@ -26,7 +26,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 &emsp;(1) such certificate is a redeemable security; and
 
-&emsp;(2) the proceeds of all payments on such certificate (except such amounts as are deducted for sales load) are deposited with a trustee or custodian having the qualifications prescribedin paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts, and are held by such trustee or custodian under an indenture or agreement containing, in substance, the provisions required by paragraphs (2) and (3) of section 80a–26(a) of this title for the trust indentures of unit investment trusts.
+&emsp;(2) the proceeds of all payments on such certificate (except such amounts as are deducted for sales load) are deposited with a trustee or custodian having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts, and are held by such trustee or custodian under an indenture or agreement containing, in substance, the provisions required by paragraphs (2) and (3) of section 80a–26(a) of this title for the trust indentures of unit investment trusts.
 
 #### (d) Surrender of certificates; regulations
 
@@ -42,11 +42,11 @@ With respect to any periodic payment plan (other than a plan under which the amo
 
 #### (g) Governing provisions; election
 
-Notwithstanding the provisions of subsections (a) and (d) of this section, a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h) of this section rather than the provisions of subsections (a) and (d) of this section.
+Notwithstanding the provisions of subsections (a) and (d), a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h) rather than the provisions of subsections (a) and (d) of this section.
 
 #### (h) Sale of certificates; restrictions
 
-Upon making the election specified in subsection (g) of this section, it shall be unlawful for any such electing registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate, if—
+Upon making the election specified in subsection (g), it shall be unlawful for any such electing registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate, if—
 
 &emsp;(1) the sales load on such certificate exceeds 9 per centum of the total payments to be made thereon;
 

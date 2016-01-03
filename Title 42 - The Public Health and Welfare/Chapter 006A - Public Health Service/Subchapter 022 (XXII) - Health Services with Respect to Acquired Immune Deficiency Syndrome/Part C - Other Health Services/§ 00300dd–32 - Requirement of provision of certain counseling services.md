@@ -22,7 +22,7 @@ The Secretary may not make a grant under section 300dd–31 of this title to a S
 
 #### (c) Counseling of individuals with positive test results
 
-The Secretary may not make a grant under section 300dd–31 of this title to a State unless the State agrees that, if the results of testing conducted pursuant to such section indicate that an individual is infected with the etiologic agent for acquired immune deficiency syndrome, the State will provide to the individual appropriate counseling with respect to such syndrome, including—
+The Secretary may not make a grant under section 300dd–31 of this title to a State unlessthe State agrees that, if the results of testing conducted pursuant to such section indicate that an individual is infected with the etiologic agent for acquired immune deficiency syndrome, the State will provide to the individual appropriate counseling with respect to such syndrome, including—
 
 &emsp;(1) reviewing the information described in paragraphs (1) through (3) of subsection (a) of this section;
 

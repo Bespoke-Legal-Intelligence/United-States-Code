@@ -2,7 +2,7 @@
 
 (a) Unless retired or separated on or before the expiration of that period, each warrant officer shall be retired or separated from his armed force not later than 60 days after the date when he becomes 62 years of age, except as provided by section 8301 of title 5.
 
-(b) The Secretary concerned may defer, for not more than four months, the separation under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
+(b) The Secretary concerned may defer, for not more than four months, the separation undersubsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to be retired or separated under this section.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 90; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(5), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §511(41), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–295, §1(16), Oct. 12, 1982, 96 Stat. 1290.)
 
@@ -44,7 +44,7 @@ May 29, 1954, ch. 249, §§14(c), (e) (as applicable to (c)), 21(c) (as applicab
 
 34:430(e) (as applicable to 34:430(c)).
 
-In subsections (a) and (b), the words "Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section" are omitted as covered by section 46 of the bill and section 14(g) of the sourcestatute. The words "Unless retired or separated on or before the expiration of that period" are inserted for clarity. The words "becomes 62\[55\] years of age" are substituted for the words "attains the age of sixty-two \* \* \* or the age of fifty-five".
+In subsections (a) and (b), the words "Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section" are omitted as covered by section 46 of the bill and section 14(g) of the source statute. The words "Unless retired or separated on or before the expiration of that period" are inserted for clarity. The words "becomes 62\[55\] years of age" are substituted for the words "attains the age of sixty-two \* \* \* or the age of fifty-five".
 
 In subsection (c), the words "The Secretary concerned may defer" are substituted for the words "may, in the discretion of the Secretary, be deferred". The words "not more than" are substituted for the words "a period not to exceed". The words "determination of his" are inserted for clarity. The words "he would otherwise be required to be separated under this section" are substituted for the words "separation would otherwise be required". The words "proper", "which is required", "possible", and "a period of" are omitted as surplusage.
 

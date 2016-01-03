@@ -64,7 +64,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(i), (j)(less last 13 words before colo
 
 In subsections (a) and (b), the word "total" is omitted as surplus.
 
-In subsection (a), the word "pay" is substituted for "salary" for consistency in the revised title and withother titles of the United States Code. The words "by him" and "to his annuity" are omitted as surplus.
+In subsection (a), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the United States Code. The words "by him" and "to his annuity" are omitted as surplus.
 
 In subsection (b), the words "who has elected to bring himself within the purview of" are omitted as surplus. The word "annuity" is substituted for "retirement pay" for consistency in the revised title and with other titles of the Code.
 

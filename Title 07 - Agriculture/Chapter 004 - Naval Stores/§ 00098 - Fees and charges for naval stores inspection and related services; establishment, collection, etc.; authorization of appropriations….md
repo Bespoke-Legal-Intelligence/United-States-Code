@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 added subsec. (a). Former unlettered provisions were designated subsec. (b) and, as sodesignated, struck out authorization of the Secretary to employ personnel and make administrative expenditures.
+<b>1981</b>—Pub. L. 97–35 added subsec. (a). Former unlettered provisions were designated subsec. (b) and, as so designated, struck out authorization of the Secretary to employ personnel and make administrative expenditures.
 
 #### Effective Date of 1981 Amendment
 

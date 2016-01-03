@@ -34,7 +34,7 @@ Orders issued pursuant to this chapter shall contain the following terms and con
 
 &emsp;(B) for administrative costs incurred by the Secretary for supervisory work up to 5 employee years after an order or amendment to an order has been issued and made effective.
 
-> There shall also be included in the order a provision for reimbursing any agency of the Federal Government that assists in administering the import provisions of the order for a reasonable amount of the expenses incurred by that agency in connection therewith.
+> There shall also be included in the order a provision for reimbursing any agency of the FederalGovernment that assists in administering the import provisions of the order for a reasonable amount of the expenses incurred by that agency in connection therewith.
 
 (3) To facilitate the collection and payment of such assessments, the Cotton Board may designate different handlers or importers or classes of handlers or importers to recognize differences in marketing practices or procedures utilized in any State or area, except that no more than one such assessment shall be made on any bale of cotton, unless specifically authorized by provisions of this subsection.
 

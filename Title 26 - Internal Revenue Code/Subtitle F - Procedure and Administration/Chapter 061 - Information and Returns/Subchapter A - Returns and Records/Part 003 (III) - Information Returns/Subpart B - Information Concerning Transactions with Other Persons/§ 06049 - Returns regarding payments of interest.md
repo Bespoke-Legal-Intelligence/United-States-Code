@@ -208,7 +208,7 @@ For purposes of this section—
 
 #### (C) Additional information
 
-&emsp;&emsp;Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates at the beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
+&emsp;&emsp;Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates atthe beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
 
 #### (D) Regulatory authority
 
@@ -250,7 +250,7 @@ The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -280,7 +280,7 @@ Subsec. (c). Pub. L. 99–514, §1501(c)(5), in amending subsec. (c) generally, 
 
 Subsec. (d)(7). Pub. L. 99–514, §674, added par. (7).
 
-<b>1984</b>—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
+<b>1984</b>—Subsec. (b)(2)(E). Pub. L. 98–369, §474(r)(29)(J), struck out subpar. (E) which related to amounts onwhich the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
 
 Subsec. (d)(6)(A). Pub. L. 98–369, §42(a)(14)(A), substituted "section 1272" for "section 1232A" in two places.
 
@@ -304,7 +304,7 @@ Subsec. (e). Pub. L. 98–67, §102(a), repealed amendments made by Pub. L. 97�
 
 Subsec. (b). Pub. L. 97–248, §309(a), substituted "subsection (a)" for "subsections (a)(1) and (2)" in provisions preceding subpar. (A), in subpar. (A) substituted "any obligation (i) issued in registered form, or (ii) of a type offered to the public, other than any obligation with a maturity (at issue) of not more than 1 year which is held by a corporation" for "evidences of indebtedness (including bonds, debentures, notes, and certificates) issued by a corporation in registered form, and, to the extent provided in regulations prescribed by the Secretary, interest on other evidences of indebtedness issued by a corporation of a type offered by corporations to the public" in subpar. (C) inserted "industrial loan association or bank" to list of payors of interest, in subpar. (E) substituted "brokers (as defined in section 6045(c))" for "stockbrokers and dealers in securities", added subpars. (F) and (G), in par. (2) substituted "subsection (a)" for "subsections (a)(1) and (2)" in provisions preceding subpar. (A), added subpar. (A), redesignated former subpar. (A) as (B), in subpar. (B) as so redesignated inserted reference to exemption under any provision of law, added subpar. (C), redesignated former subpar. (B) as (D), in subpar. (D) as so redesignated substituted provisions that the subpar. operates except to the extent otherwise provided in regulations or in subpar. (C) for provisions that the subpar. operates to the extent provided in regulations, added cls. (i) and (ii), designated existing provisions as cls. (iii) to (v), in cl. (iii) as so designated inserted specification of not being engaged in trade or business in the United States, in cl. (iv) as so designated inserted specification of exemption under subchapter A of chapter 3, redesignated former subpar. (C) as (E), and added par. (3).
 
-Subsec. (c). Pub. L. 97–248, §309(a), substituted "subsection (a)" for "subsection (a)(1)" wherever appearing, designated provision before former par. (1) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. (C), designated first sentence after former par. (2) as par. (2), designated second sentence after former par. (2) as par. (3), in par. (3) as so designated inserted "with respect to payments of interest to any person" after "No statement", struck out ", or the aggregate amount includible in the grossincome of," after "payments to", and substituted "paragraph (1) or (2)" for "subparagraph (A), (B), or (C)" after "with respect to".
+Subsec. (c). Pub. L. 97–248, §309(a), substituted "subsection (a)" for "subsection (a)(1)" wherever appearing, designated provision before former par. (1) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. (C), designated first sentence after former par. (2) as par. (2), designated second sentence after former par. (2) as par. (3), in par. (3) as so designated inserted "with respect to payments of interest to any person" after "No statement", struck out ", or the aggregate amount includible in the gross income of," after "payments to", and substituted "paragraph (1) or (2)" for "subparagraph (A), (B), or (C)" after "with respect to".
 
 Subsec. (d). Pub. L. 97–248, §309(a), added subsec. (d).
 
@@ -330,7 +330,7 @@ Pub. L. 109–222, title V, §502(c), May 17, 2006, 120 Stat. 354, provided that
 
 #### Effective Date of 2005 Amendments
 
-Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
+Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
 
 Amendment by Pub. L. 109–58 applicable to bonds issued after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under section 54 of this title.
 
@@ -382,5 +382,5 @@ For nonapplication of amendment by section 1214(c)(4) of Pub. L. 99–514 to the
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

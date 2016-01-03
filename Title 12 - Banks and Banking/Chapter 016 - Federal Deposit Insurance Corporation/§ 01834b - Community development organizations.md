@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (2) Community development organization
 
-&emsp;The term "community development organization" means any community development bank, community development corporation, community development unit within any insured depository institution, or community development credit union.
+&emsp;The term "community development organization" means any community developmentbank, community development corporation, community development unit within any insured depository institution, or community development credit union.
 
 #### (3) Low- and moderate-income persons
 

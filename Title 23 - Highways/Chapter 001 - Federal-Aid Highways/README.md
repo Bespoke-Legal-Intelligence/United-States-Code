@@ -6,7 +6,7 @@
 | [102\.](%C2%A7%2000102%20-%20Program%20efficiencies.md) | Program efficiencies. |
 | [103\.](%C2%A7%2000103%20-%20National%20Highway%20System.md) | National Highway System. |
 | [104\.](%C2%A7%2000104%20-%20Apportionment.md) | Apportionment. |
-| \[105. | Repealed.\] |
+| [105\.](%C2%A7%2000105%20-%20Additional%20deposits%20into%20Highway%20Trust%20Fund.md) | Additional deposits into Highway Trust Fund. |
 | [106\.](%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | Project approval and oversight. |
 | [107\.](%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | Acquisition of rights-of-way—Interstate System. |
 | [108\.](%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | Advance acquisition of real property. |
@@ -18,7 +18,7 @@
 | [114\.](%C2%A7%2000114%20-%20Construction.md) | Construction. |
 | [115\.](%C2%A7%2000115%20-%20Advance%20construction.md) | Advance construction. |
 | [116\.](%C2%A7%2000116%20-%20Maintenance.md) | Maintenance. |
-| \[117. | Repealed.\] |
+| [117\.](%C2%A7%2000117%20-%20Nationally%20significant%20freight%20and%20highway%20projects.md) | Nationally significant freight and highway projects. |
 | [118\.](%C2%A7%2000118%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | [119\.](%C2%A7%2000119%20-%20National%20highway%20performance%20program.md) | National highway performance program. |
 | [120\.](%C2%A7%2000120%20-%20Federal%20share%20payable.md) | Federal share payable. |
@@ -34,7 +34,7 @@
 | [130\.](%C2%A7%2000130%20-%20Railway-highway%20crossings.md) | Railway-highway crossings. |
 | [131\.](%C2%A7%2000131%20-%20Control%20of%20outdoor%20advertising.md) | Control of outdoor advertising. |
 | [132\.](%C2%A7%2000132%20-%20Payments%20on%20Federal-aid%20projects%20undertaken%20by%20a%20Federal%20agency.md) | Payments on Federal-aid projects undertaken by a Federal agency. |
-| [133\.](%C2%A7%2000133%20-%20Surface%20transportation%20program.md) | Surface transportation program. |
+| [133\.](%C2%A7%2000133%20-%20Surface%20transportation%20block%20grant%20program.md) | Surface transportation block grant program. |
 | [134\.](%C2%A7%2000134%20-%20Metropolitan%20transportation%20planning.md) | Metropolitan transportation planning. |
 | [135\.](%C2%A7%2000135%20-%20Statewide%20and%20nonmetropolitan%20transportation%20planning.md) | Statewide and nonmetropolitan transportation planning. |
 | [136\.](%C2%A7%2000136%20-%20Control%20of%20junkyards.md) | Control of junkyards. |
@@ -52,7 +52,7 @@
 | [148\.](%C2%A7%2000148%20-%20Highway%20safety%20improvement%20program.md) | Highway safety improvement program. |
 | [149\.](%C2%A7%2000149%20-%20Congestion%20mitigation%20and%20air%20quality%20improvement%20program.md) | Congestion mitigation and air quality improvement program. |
 | [150\.](%C2%A7%2000150%20-%20National%20goals%20and%20performance%20management%20measures.md) | National goals and performance management measures. |
-| \[151. | Repealed.\] |
+| [151\.](%C2%A7%2000151%20-%20National%20electric%20vehicle%20charging%20and%20hydrogen%2C%20propane%2C%20and%20natural%20gas%20fueling%20corridors.md) | National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors. |
 | [152\.](%C2%A7%2000152%20-%20Hazard%20elimination%20program.md) | Hazard elimination program. |
 | [153\.](%C2%A7%2000153%20-%20Use%20of%20safety%20belts%20and%20motorcycle%20helmets.md) | Use of safety belts and motorcycle helmets. |
 | [154\.](%C2%A7%2000154%20-%20Open%20container%20requirements.md) | Open container requirements. |
@@ -68,12 +68,7 @@
 | [164\.](%C2%A7%2000164%20-%20Minimum%20penalties%20for%20repeat%20offenders%20for%20driving%20while%20intoxicated%20or%20driving%20under%20the%20influence.md) | Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence. |
 | [165\.](%C2%A7%2000165%20-%20Territorial%20and%20Puerto%20Rico%20highway%20program.md) | Territorial and Puerto Rico highway program. |
 | [166\.](%C2%A7%2000166%20-%20HOV%20facilities.md) | HOV facilities. |
-| [167\.](%C2%A7%2000167%20-%20National%20freight%20policy.md) | National freight program.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [167\.](%C2%A7%2000167%20-%20National%20highway%20freight%20program.md) | National highway freight program. |
 | [168\.](%C2%A7%2000168%20-%20Integration%20of%20planning%20and%20environmental%20review.md) | Integration of planning and environmental review. |
 | [169\.](%C2%A7%2000169%20-%20Development%20of%20programmatic%20mitigation%20plans.md) | Development of programmatic mitigation plans. |
 | [170\.](%C2%A7%2000170%20-%20Funding%20flexibility%20for%20transportation%20emergencies.md) | Funding flexibility for transportation emergencies. |
@@ -82,9 +77,11 @@
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, div. A, title I, §§1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, 126 Stat. 427, 437, 450, 468, 472, 524, 543, 545, 567, 574, 575, substituted "National Highway System" for "Federal-aid systems" in item 103, struck out items 105 "Equity bonus program", 110 "Revenue aligned budget authority", and 117 "High priority projects program", substituted "National highway performance program" for "Interstate maintenance program" in item 119, struck out item 124 "Advances to States", substituted "Transferability of Federal-aid highway funds" for "Uniform transferability of Federal-aid highway funds" in item 126, "Statewide and nonmetropolitan transportation planning" for "Statewide transportation planning" in item 135, and "National bridge and tunnel inventory and inspection standards" for "Highway bridge program" in item 144, struck out items 151 "National bridge inspection program", 155 "Access highways to public recreation areas on certain lakes", 157 "Safety incentive grants for use of seat belts", and 160 "Reimbursement for segments of the Interstate System constructed without Federal assistance", substituted "Territorial and Puerto Rico highway program" for "Puerto Rico highway program" in item 165, and added items 167 to 170.
+<b>2015</b>—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.
 
-Pub. L. 112–141, div. A, title I, §1203(b), July 6, 2012, 126 Stat. 526, which directed striking out item 150 and inserting new item 150, was executed by adding item 150 to reflect the probable intent of Congress and the prior striking of item 150 by Pub. L. 105–178. See 1998 Amendment note below.
+Pub. L. 114–94, div. A, title I, §1446(d)(2)(B), Dec. 4, 2015, 129 Stat. 1438, amended section 1203(b) of Pub. L. 112–141, effective July 6, 2012, as if included in Pub. L. 112–141 as enacted. See 2012 Amendment note below.
+
+<b>2012</b>—Pub. L. 112–141, div. A, title I, §§1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1203(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, 126 Stat. 427, 437, 450, 468, 472, 524, 526, 543, 545, 567, 574, 575, as amended by Pub. L. 114–94, div. A, title I, §1446(d)(2)(B), Dec. 4, 2015, 129 Stat. 1438, substituted "National Highway System" for "Federal-aid systems" in item 103, struck out items 105 "Equity bonus program", 110 "Revenue aligned budget authority", and 117 "High priority projects program", substituted "National highway performance program" for "Interstate maintenance program" in item 119, struck out item 124 "Advances to States", substituted "Transferability of Federal-aid highway funds" for "Uniform transferability of Federal-aid highway funds" in item 126, "Statewide and nonmetropolitan transportation planning" for "Statewide transportation planning" in item 135, and "National bridge and tunnel inventory and inspection standards" for "Highway bridge program" in item 144, added item 150, struck out items 151 "National bridge inspection program", 155 "Access highways to public recreation areas on certain lakes", 157 "Safety incentive grants for use of seat belts", and 160 "Reimbursement for segments of the Interstate System constructed without Federal assistance", substituted "Territorial and Puerto Rico highway program" for "Puerto Rico highway program" in item 165, and added items 167 to 170.
 
 <b>2008</b>—Pub. L. 110–244, title I, §101(m)(3)(C), June 6, 2008, 122 Stat. 1576, struck out "replacement and rehabilitation" after "Highway bridge" in item 144.
 
@@ -116,7 +113,7 @@ Pub. L. 102–143, title III, §333(b), (c), Oct. 28, 1991, 105 Stat. 947, added
 
 Pub. L. 97–424, title I, §150(b), Jan. 6, 1983, 96 Stat. 2132, added item 157.
 
-<b>1978</b>—Pub. L. 95–599, §§116(c), 124(b), 168(c), Nov. 6, 1978, 92 Stat. 2699, 2705, 2723, substituted "InterstateSystem resurfacing" for "Repealed" in item 119, "Highway bridge replacement and rehabilitation program" for "Special bridge replacement program" in item 144, "Hazard elimination program" for "Projects for high-hazard locations" in item 152, and "Repealed" for "Program for the elimination of roadside obstacles" in item 153.
+<b>1978</b>—Pub. L. 95–599, §§116(c), 124(b), 168(c), Nov. 6, 1978, 92 Stat. 2699, 2705, 2723, substituted "Interstate System resurfacing" for "Repealed" in item 119, "Highway bridge replacement and rehabilitation program" for "Special bridge replacement program" in item 144, "Hazard elimination program" for "Projects for high-hazard locations" in item 152, and "Repealed" for "Program for the elimination of roadside obstacles" in item 153.
 
 <b>1976</b>—Pub. L. 94–280, title I, §§123(b), 128(b), 132(b), 139, May 5, 1976, 90 Stat. 439–441, 443, substituted item 135 "Traffic operations improvement programs" for "Urban area traffic operations improvement programs"; substituted item 146 "Repealed" for "Special urban high density traffic programs"; added item 156 "Highways crossing Federal projects"; and substituted item lll "Agreements relating to use of and access to rights-of-way—Interstate System" for "Use of and access to rights-of-way—Interstate System" and substituted items 119 and 133 "Repealed" for "Administration of Federal-aid for highways in Alaska" and "Relocation assistance", respectively.
 
@@ -140,8 +137,6 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 
 <b>1960</b>—Pub. L. 86–657, §§4(b), 5(b), July 14, 1960, 74 Stat. 523, included ferries in item 129 and added item 132.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -151,7 +146,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00102 - Program efficiencies](%C2%A7%2000102%20-%20Program%20efficiencies.md)
 - [&sect; 00103 - National Highway System](%C2%A7%2000103%20-%20National%20Highway%20System.md)
 - [&sect; 00104 - Apportionment](%C2%A7%2000104%20-%20Apportionment.md)
-- [&sect; 00105 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000105%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
+- [&sect; 00105 - Additional deposits into Highway Trust Fund](%C2%A7%2000105%20-%20Additional%20deposits%20into%20Highway%20Trust%20Fund.md)
 - [&sect; 00106 - Project approval and oversight](%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md)
 - [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md)
 - [&sect; 00108 - Advance acquisition of real property](%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md)
@@ -163,7 +158,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00114 - Construction](%C2%A7%2000114%20-%20Construction.md)
 - [&sect; 00115 - Advance construction](%C2%A7%2000115%20-%20Advance%20construction.md)
 - [&sect; 00116 - Maintenance](%C2%A7%2000116%20-%20Maintenance.md)
-- [&sect; 00117 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000117%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
+- [&sect; 00117 - Nationally significant freight and highway projects](%C2%A7%2000117%20-%20Nationally%20significant%20freight%20and%20highway%20projects.md)
 - [&sect; 00118 - Availability of funds](%C2%A7%2000118%20-%20Availability%20of%20funds.md)
 - [&sect; 00119 - National highway performance program](%C2%A7%2000119%20-%20National%20highway%20performance%20program.md)
 - [&sect; 00120 - Federal share payable](%C2%A7%2000120%20-%20Federal%20share%20payable.md)
@@ -179,7 +174,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00130 - Railway-highway crossings](%C2%A7%2000130%20-%20Railway-highway%20crossings.md)
 - [&sect; 00131 - Control of outdoor advertising](%C2%A7%2000131%20-%20Control%20of%20outdoor%20advertising.md)
 - [&sect; 00132 - Payments on Federal-aid projects undertaken by a Federal agency](%C2%A7%2000132%20-%20Payments%20on%20Federal-aid%20projects%20undertaken%20by%20a%20Federal%20agency.md)
-- [&sect; 00133 - Surface transportation program](%C2%A7%2000133%20-%20Surface%20transportation%20program.md)
+- [&sect; 00133 - Surface transportation block grant program](%C2%A7%2000133%20-%20Surface%20transportation%20block%20grant%20program.md)
 - [&sect; 00134 - Metropolitan transportation planning](%C2%A7%2000134%20-%20Metropolitan%20transportation%20planning.md)
 - [&sect; 00135 - Statewide and nonmetropolitan transportation planning](%C2%A7%2000135%20-%20Statewide%20and%20nonmetropolitan%20transportation%20planning.md)
 - [&sect; 00136 - Control of junkyards](%C2%A7%2000136%20-%20Control%20of%20junkyards.md)
@@ -197,7 +192,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00148 - Highway safety improvement program](%C2%A7%2000148%20-%20Highway%20safety%20improvement%20program.md)
 - [&sect; 00149 - Congestion mitigation and air quality improvement program](%C2%A7%2000149%20-%20Congestion%20mitigation%20and%20air%20quality%20improvement%20program.md)
 - [&sect; 00150 - National goals and performance management measures](%C2%A7%2000150%20-%20National%20goals%20and%20performance%20management%20measures.md)
-- [&sect; 00151 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000151%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
+- [&sect; 00151 - National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors](%C2%A7%2000151%20-%20National%20electric%20vehicle%20charging%20and%20hydrogen%2C%20propane%2C%20and%20natural%20gas%20fueling%20corridors.md)
 - [&sect; 00152 - Hazard elimination program](%C2%A7%2000152%20-%20Hazard%20elimination%20program.md)
 - [&sect; 00153 - Use of safety belts and motorcycle helmets](%C2%A7%2000153%20-%20Use%20of%20safety%20belts%20and%20motorcycle%20helmets.md)
 - [&sect; 00154 - Open container requirements](%C2%A7%2000154%20-%20Open%20container%20requirements.md)
@@ -213,7 +208,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00164 - Minimum penalties for repeat offenders for driving while intoxicated or driving under the influence](%C2%A7%2000164%20-%20Minimum%20penalties%20for%20repeat%20offenders%20for%20driving%20while%20intoxicated%20or%20driving%20under%20the%20influence.md)
 - [&sect; 00165 - Territorial and Puerto Rico highway program](%C2%A7%2000165%20-%20Territorial%20and%20Puerto%20Rico%20highway%20program.md)
 - [&sect; 00166 - HOV facilities](%C2%A7%2000166%20-%20HOV%20facilities.md)
-- [&sect; 00167 - National freight policy](%C2%A7%2000167%20-%20National%20freight%20policy.md)
+- [&sect; 00167 - National highway freight program](%C2%A7%2000167%20-%20National%20highway%20freight%20program.md)
 - [&sect; 00168 - Integration of planning and environmental review](%C2%A7%2000168%20-%20Integration%20of%20planning%20and%20environmental%20review.md)
 - [&sect; 00169 - Development of programmatic mitigation plans](%C2%A7%2000169%20-%20Development%20of%20programmatic%20mitigation%20plans.md)
 - [&sect; 00170 - Funding flexibility for transportation emergencies](%C2%A7%2000170%20-%20Funding%20flexibility%20for%20transportation%20emergencies.md)

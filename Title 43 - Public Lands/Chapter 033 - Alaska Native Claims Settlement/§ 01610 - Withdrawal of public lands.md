@@ -4,7 +4,7 @@
 
 (1) The following public lands are withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
 
-&emsp;(A) The lands in each township that encloses all or part of any Native village identified pursuant to subsection (b) of this section;
+&emsp;(A) The lands in each township that encloses all or part of any Native village identified pursuant to subsection (b);
 
 &emsp;(B) The lands in each township that is contiguous to or corners on the township that encloses all or part of such Native village; and
 

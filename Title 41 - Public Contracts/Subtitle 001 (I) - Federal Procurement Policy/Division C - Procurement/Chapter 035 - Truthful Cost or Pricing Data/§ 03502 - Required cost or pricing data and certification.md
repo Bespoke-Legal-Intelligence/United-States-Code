@@ -2,7 +2,7 @@
 
 (a)
 
-When Required.—The head of an executive agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
+When Required.—The head of an executive agency shall require offerors, contractors, andsubcontractors to make cost or pricing data available as follows:
 
 &emsp;(1)
 

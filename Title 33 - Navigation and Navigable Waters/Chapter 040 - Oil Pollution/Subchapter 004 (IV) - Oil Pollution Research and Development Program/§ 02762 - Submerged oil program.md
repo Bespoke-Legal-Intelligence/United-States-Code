@@ -24,7 +24,7 @@
 
 #### (2) Funding
 
-&emsp;There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
+&emsp;There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 foreach of fiscal years 2006 through 2010 to carry out this subsection.
 
 (Pub. L. 101–380, title VII, §7002, as added Pub. L. 109–241, title VI, §605(a)(2), July 11, 2006, 120 Stat. 555.)
 

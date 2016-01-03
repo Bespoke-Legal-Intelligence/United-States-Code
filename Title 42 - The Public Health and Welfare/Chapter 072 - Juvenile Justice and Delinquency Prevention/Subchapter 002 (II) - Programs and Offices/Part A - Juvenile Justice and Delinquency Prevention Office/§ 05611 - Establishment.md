@@ -16,7 +16,7 @@ There shall be in the Office a Deputy Administrator who shall be appointed by th
 
 #### References in Text
 
-This division, referred to in subsec. (a), probably means division II (§§610–670) of chapter VI of title II ofPub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Amendment note set out under section 5601 of this title and Tables.
+This division, referred to in subsec. (a), probably means division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Amendment note set out under section 5601 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
@@ -44,7 +44,7 @@ Subsec. (f). Pub. L. 98–473, in amending section generally, struck out subsec.
 
 Subsec. (c). Pub. L. 96–509, §19(b)(1), substituted "Administrator" for "Associate Administrator" as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title "Associate Administrator".
 
-Subsec. (d). Pub. L. 96–509, §§6(b), 19(b)(2), substituted "Administrator" for "Associate Administrator" wherever appearing, struck out provisions that had required the former Associate Administrator to report directly to the Administrator, and provided that the Administrator exercise all necessary powers under the general authority of the Attorney General rather than the Administrator of the Law Enforcement Assistance Administration, clarified that the Administrator of the Office of Juvenile Justice and Delinquency Prevention is authorized to prescribe regulations for all grants and contracts available under part B and part C of this subchapter, and provided that the Administrator of the Law Enforcement Assistance Administration and the Director of the National Institute of Justice may delegate authority to the Administrator for all juvenile justice and delinquency prevention grants and contracts for funds made available under the Omnibus Crime Control and Safe Streets Act of 1968.
+Subsec. (d). Pub. L. 96–509, §§6(b), 19(b)(2), substituted "Administrator" for "Associate Administrator" wherever appearing, struck out provisions that had required the former Associate Administrator to report directly to the Administrator, and provided that the Administrator exercise all necessary powers under the general authority of the Attorney General rather than the Administrator of the Law Enforcement Assistance Administration, clarified that the Administrator of the Office of Juvenile Justice and Delinquency Prevention is authorized to prescribe regulations for all grants and contracts available under part B and part C of this subchapter, and provided that the Administrator of the Law Enforcement Assistance Administration and theDirector of the National Institute of Justice may delegate authority to the Administrator for all juvenile justice and delinquency prevention grants and contracts for funds made available under the Omnibus Crime Control and Safe Streets Act of 1968.
 
 Subsec. (e). Pub. L. 96–509, §§6(c), 19(b)(3), substituted "Deputy Administrator" for "Deputy Associate Administrator", "Administrator" for "Associate Administrator", "Attorney General" for "Administrator of the Law Enforcement Assistance Administration", and "office" for "Office".
 
@@ -76,6 +76,18 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
+#### Education and Outreach to Trafficking Survivors
+
+Pub. L. 114–22, title I, §119, May 29, 2015, 129 Stat. 247, provided that: "The Attorney General shall make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, a database for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors that contains information on—
+
+&emsp;"(1) counseling and hotline resources;
+
+&emsp;"(2) housing resources;
+
+&emsp;"(3) legal assistance; and
+
+&emsp;"(4) other services for trafficking survivors."
+
 #### Mentoring Matches for Youth
 
 Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631, 632, provided that:
@@ -92,7 +104,7 @@ Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631, 632, prov
 
 &emsp;"(2) There are over 450 Big Brothers Big Sisters of America local agencies providing mentoring programs for at-risk children in over 5,000 communities throughout every State, Guam, and Puerto Rico.
 
-&emsp;"(3) Over the last decade, Big Brothers Big Sisters of America has raised a minimum of 75 percent of its annual operating budget from private sources and iscontinually working to grow private sources of funding to maintain this ratio of private to Federal funds.
+&emsp;"(3) Over the last decade, Big Brothers Big Sisters of America has raised a minimum of 75 percent of its annual operating budget from private sources and is continually working to grow private sources of funding to maintain this ratio of private to Federal funds.
 
 &emsp;"(4) In 2005, Big Brothers Big Sisters of America provided mentors for over 235,000 children.
 

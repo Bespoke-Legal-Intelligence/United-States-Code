@@ -4,7 +4,7 @@
 
 (b)(1) Subject to paragraph (2) and for purposes of subsection (a) of this section, that which may or shall be imposed through judicial or administrative action under the law of a State, territory, possession, or district, for a conviction for operating a motor vehicle under the influence of a drug or alcohol, shall be considered to be a punishment provided by that law. Any limitation on the right or privilege to operate a motor vehicle imposed under this subsection shall apply only to the special maritime and territorial jurisdiction of the United States.
 
-(2)(A) In addition to any term of imprisonment provided for operating a motor vehicle under the influence of a drug or alcohol imposed under the law of a State, territory, possession, or district, the punishment for such an offense under this section shall include an additional term of imprisonment of not more than 1 year, or if serious bodily injury of a minor is caused, not more than 5 years, or if death of a minor is caused, not more than 10 years, and an additional fine under this title, or both, if—
+(2)(A) In addition to any term of imprisonment provided for operating a motor vehicle under the influence of a drug or alcohol imposed under the law of a State, territory, possession, or district, the punishment for such an offense under this section shall include an additional term of imprisonment of not more than 1 year, or if serious bodily injury of a minor is caused, not morethan 5 years, or if death of a minor is caused, not more than 10 years, and an additional fine under this title, or both, if—
 
 &emsp;(i) a minor (other than the offender) was present in the motor vehicle when the offense was committed; and
 

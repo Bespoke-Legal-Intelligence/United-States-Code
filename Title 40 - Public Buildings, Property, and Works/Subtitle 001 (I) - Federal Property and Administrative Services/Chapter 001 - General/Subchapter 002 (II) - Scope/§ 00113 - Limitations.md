@@ -10,7 +10,7 @@ Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of
 
 (c)
 
-Limitation Regarding Certain Government Corporations and Agencies.—Sections 121(b) and 506(c) of this title do not apply to aGovernment corporation or agency that is subject to chapter 91 of title 31.
+Limitation Regarding Certain Government Corporations and Agencies.—Sections121(b) and 506(c) of this title do not apply to a Government corporation or agency that is subject to chapter 91 of title 31.
 
 (d)
 

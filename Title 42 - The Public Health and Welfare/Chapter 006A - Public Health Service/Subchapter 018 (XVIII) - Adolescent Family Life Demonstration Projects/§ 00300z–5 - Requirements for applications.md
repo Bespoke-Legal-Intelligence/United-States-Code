@@ -12,7 +12,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(4) a description of the major unmet needs for services for adolescents at risk of initial or recurrent pregnancies and an estimate of the number of adolescents not being served in the area;
 
-&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how all core services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
+&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how allcore services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
 
 &emsp;(B) in the case of an applicant who will provide prevention services, a description of the necessary services to be provided and how the applicant will provide such services;
 
@@ -22,7 +22,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(8) a description of the results expected from the provision of services, and the procedures to be used for evaluating those results;
 
-&emsp;(9) a summary of the views of public agencies, providers of services, and the general public in the geographic area to be served, concerning the proposed use of funds providedfor a demonstration project for services under this subchapter and a description of procedures used to obtain those views, and, in the case of applicants who propose to coordinate services administered by a State, the written comments of the appropriate State officials responsible for such services;
+&emsp;(9) a summary of the views of public agencies, providers of services, and the general public in the geographic area to be served, concerning the proposed use of funds provided for a demonstration project for services under this subchapter and a description of procedures used to obtain those views, and, in the case of applicants who propose to coordinate services administered by a State, the written comments of the appropriate State officials responsible for such services;
 
 &emsp;(10) assurances that the applicant will have an ongoing quality assurance program;
 

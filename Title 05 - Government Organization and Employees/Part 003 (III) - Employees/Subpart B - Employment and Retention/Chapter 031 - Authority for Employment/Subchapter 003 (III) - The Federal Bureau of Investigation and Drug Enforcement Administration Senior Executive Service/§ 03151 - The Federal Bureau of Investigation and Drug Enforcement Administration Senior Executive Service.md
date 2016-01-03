@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) removal consistent with section 3592;
 
-&emsp;&emsp;(B) reduction-in-force procedures consistent with section 3595(a), together with measures to ensure that a member of the FBI–DEA Senior Executive Service may not be removed due to a reduction in force unless reasonable efforts to place such member in another such position are first taken;
+&emsp;&emsp;(B) reduction-in-force procedures consistent with section 3595(a), together with measures to ensure that a member of theFBI–DEA Senior Executive Service may not be removed due to a reduction in force unless reasonable efforts to place such member in another such position are first taken;
 
 &emsp;&emsp;(C) procedures in accordance with which any furlough affecting the FBI–DEA Senior Executive Service shall be carried out;
 

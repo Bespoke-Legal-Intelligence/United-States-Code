@@ -1,6 +1,6 @@
 ### §§46 to 46b. Repealed. Oct. 31, 1951, ch. 655, §56(c), 65 Stat. 729
 
-Section 46, act May 13, 1950, ch. 185, §2, 64 Stat. 159, related to unlawful disclosure of classified information. See section 798 of Title 18, Crimes and Criminal Procedure.
+Section 46, act May 13, 1950, ch. 185, §2, 64 Stat. 159, related to unlawful disclosure of classified information.See section 798 of Title 18, Crimes and Criminal Procedure.
 
 Section 46a, act May 13, 1950, ch. 185, §1, 64 Stat. 159, defined terms for use in this chapter.
 

@@ -30,7 +30,7 @@ There is authorized to be appropriated to carry out this section $500,000 for ea
 
 #### References in Text
 
-Section 3796gg–2 of this title, referred to in subsec. (d), was subsequently repealed and a new section3796gg–2 enacted which does not define "domestic violence". However, such term is defined in section 13925 of this title.
+Section 3796gg–2 of this title, referred to in subsec. (d), was subsequently repealed and a new section 3796gg–2 enacted which does not define "domestic violence". However, such term is defined in section 13925 of this title.
 
 #### Study of State Laws Regarding Insurance Discrimination Against Victims of Violence Against Women
 

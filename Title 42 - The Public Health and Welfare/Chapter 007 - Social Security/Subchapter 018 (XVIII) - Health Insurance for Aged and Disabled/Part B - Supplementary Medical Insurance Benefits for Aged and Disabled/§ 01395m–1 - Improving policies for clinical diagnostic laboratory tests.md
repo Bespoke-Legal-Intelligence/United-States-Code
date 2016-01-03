@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that an applicable laboratory has failed to report or made a misrepresentation or omission in reporting information under this subsection with respect to a clinical diagnostic laboratory test, the Secretary may apply a civil money penalty in an amount of up to $10,000 per dayfor each failure to report or each such misrepresentation or omission.
+&emsp;&emsp;If the Secretary determines that an applicable laboratory has failed to report or made a misrepresentation or omission in reporting information under this subsection with respect to a clinical diagnostic laboratory test, the Secretary may apply a civil money penalty in an amount of up to $10,000 per day for each failure to report or each such misrepresentation or omission.
 
 #### (B) Application
 
@@ -100,7 +100,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2022 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2022 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent\(as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
 #### (B) Applicable percent defined
 
@@ -138,7 +138,7 @@
 
 &emsp;In the case of a clinical diagnostic laboratory test that is assigned a new or substantially revised HCPCS code on or after April 1, 2014, and which is not an advanced diagnostic laboratory test (as defined in subsection (d)(5)), during an initial period until payment rates under subsection (b) are established for the test, payment for the test shall be determined—
 
-&emsp;&emsp;(A) using cross-walking (as described in section 414.508(a) of title 42, Code of FederalRegulations, or any successor regulation) to the most appropriate existing test under the fee schedule under this section during that period; or
+&emsp;&emsp;(A) using cross-walking (as described in section 414.508(a) of title 42, Code of Federal Regulations, or any successor regulation) to the most appropriate existing test under the fee schedule under this section during that period; or
 
 &emsp;&emsp;(B) if no existing test is comparable to the new test, according to the gapfilling process described in paragraph (2).
 
@@ -186,7 +186,7 @@
 
 #### (4) Recoupment if actual list charge exceeds market rate
 
-&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, the Secretary determines that the payment amount for an advanced diagnostic laboratory test under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
+&emsp;With respect to the initial period described in paragraph (1)(A), if, after such period, the Secretary determines that the payment amount for an advanced diagnostic laboratorytest under paragraph (1)(A) that was applicable during the period was greater than 130 percent of the payment amount for the test established using the methodology described in subsection (b) that is applicable after such period, the Secretary shall recoup the difference between such payment amounts for tests furnished during such period.
 
 #### (5) Advanced diagnostic laboratory test defined
 
@@ -218,7 +218,7 @@
 
 #### (2) Existing tests
 
-&emsp;Not later than January 1, 2016, for each existing advanced diagnostic laboratory test (as so defined) and each existing clinical diagnostic laboratory test that is cleared or approved by the Food and Drug Administration for which payment is made under this part as of April 1, 2014, if such test has not alreadybeen assigned a unique HCPCS code, the Secretary shall—
+&emsp;Not later than January 1, 2016, for each existing advanced diagnostic laboratory test (as so defined) and each existing clinical diagnostic laboratory test that is cleared or approved by the Food and Drug Administration for which payment is made under this part as of April 1, 2014, if such test has not already been assigned a unique HCPCS code, the Secretary shall—
 
 &emsp;&emsp;(A) assign a unique HCPCS code for the test; and
 

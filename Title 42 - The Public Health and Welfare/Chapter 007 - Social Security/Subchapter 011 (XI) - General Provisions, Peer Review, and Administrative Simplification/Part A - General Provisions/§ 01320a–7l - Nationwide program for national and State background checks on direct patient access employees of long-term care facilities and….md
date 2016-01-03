@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar terms and conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
+The Secretary of Health and Human Services (in this section referred to as the "Secretary"), shall establish a program to identify efficient, effective, and economical procedures for long term care facilities or providers to conduct background checks on prospective direct patient access employees on a nationwide basis (in this subsection, such program shall be referred to as the "nationwide program"). Except for the following modifications, the Secretary shall carry out the nationwide program under similar termsand conditions as the pilot program under section 307 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2257), including the prohibition on hiring abusive workers and the authorization of the imposition of penalties by a participating State under subsection (b)(3)(A) and (b)(6), respectively, of such section 307:
 
 #### (1) Agreements
 
@@ -58,7 +58,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;(v) provide for the designation of a single State agency as responsible for—
 
-&emsp;&emsp;&emsp;&emsp;(I) overseeing the coordination of any State and national criminal history background checks requested by a long-term care facility or provider (or the designated agent of the long-term care facility or provider) utilizing a search of State and Federal criminal history records, including a fingerprint check of such records;
+&emsp;&emsp;&emsp;&emsp;(I) overseeing the coordination of any State and national criminal historybackground checks requested by a long-term care facility or provider (or the designated agent of the long-term care facility or provider) utilizing a search of State and Federal criminal history records, including a fingerprint check of such records;
 
 &emsp;&emsp;&emsp;&emsp;(II) overseeing the design of appropriate privacy and security safeguards for use in the review of the results of any State or national criminal history background checks conducted regarding a prospective direct patient access employee to determine whether the employee has any conviction for a relevant crime;
 
@@ -168,7 +168,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 &emsp;&emsp;&emsp;&emsp;(III) A determination of the extent to which conducting such background checks leads to any unintended consequences, including a reduction in the available workforce for long-term care facilities or providers.
 
-&emsp;&emsp;&emsp;&emsp;(IV) An assessment of the impact of the nationwide program on reducing thenumber of incidents of neglect, abuse, and misappropriation of resident property to the extent practicable.
+&emsp;&emsp;&emsp;&emsp;(IV) An assessment of the impact of the nationwide program on reducing the number of incidents of neglect, abuse, and misappropriation of resident property to the extent practicable.
 
 &emsp;&emsp;&emsp;&emsp;(V) An evaluation of other aspects of the nationwide program, as determined appropriate by the Secretary.
 
@@ -278,7 +278,7 @@ Use of information.—A participating State shall ensure that a long-term care f
 
 &emsp;&emsp;"(B)
 
-Immunity from liability.—A participating State shall ensure that a long-term care facility orprovider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
+Immunity from liability.—A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
 
 &emsp;"(5)
 
@@ -338,7 +338,7 @@ In general.—In selecting States to participate in the pilot program, the Secre
 
 &emsp;&emsp;&emsp;"(ii)
 
-Additional criteria.—The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:
+Additional criteria.—The Secretary shall, to the greatest extent practicable, selectStates to participate in the pilot program in accordance with the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) At least one participating State should permit long-term care facilities or providers to provide for a provisional period of employment pending completion of a background check and at least one such State should not permit such a period of employment.
 

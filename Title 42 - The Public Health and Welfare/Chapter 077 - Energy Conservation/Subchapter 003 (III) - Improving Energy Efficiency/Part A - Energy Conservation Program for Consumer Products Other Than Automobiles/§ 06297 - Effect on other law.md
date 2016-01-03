@@ -46,7 +46,7 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B) and (C) of section 6295(j)(3) of this title, and subparagraphs (B) and (C) of section 6295(k)(3) of this title and effective on the effective date of an energy conservation standard established in or prescribed under section 6295 of this title for any covered product, no State regulation concerning the energy efficiency, energy use, or water use of such covered product shall be effective with respect to such product unless the regulation—
 
-&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts otherthan those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
+&emsp;(1) is a regulation described in paragraph (2) or (4) of subsection (b) of this section, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps;
 
 &emsp;(2) is a regulation which has been granted a waiver under subsection (d) of this section;
 
@@ -130,7 +130,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 (1) A regulation or other requirement enacted or prescribed before January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product.
 
-(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed undersection 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
+(2) A regulation or other requirement, or revision thereof, enacted or prescribed on or after January 8, 1987, that is contained in a State or local building code for new construction concerning the energy efficiency or energy use of a covered product is not superseded by this part until the effective date of the energy conservation standard established in or prescribed under section 6295 of this title for such covered product if the code does not require that the energy efficiency of such covered product exceed—
 
 &emsp;(A) the applicable minimum efficiency requirement in a national voluntary consensus standard; or
 
@@ -156,7 +156,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 (4)(A) Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
 
-(B) If a building code requires the installation of covered products with efficiencies exceeding both the applicable Federal standard established in or prescribed under section 6295 of this title and the applicable standard of such State, if any, that has been granted a waiver under subsection (d) of this section, such requirement of the building code shall not be applicable unless the Secretary has granted a waiver for such requirement under subsection (d) of this section.
+(B) If a building code requires the installation of covered products with efficiencies exceedingboth the applicable Federal standard established in or prescribed under section 6295 of this title and the applicable standard of such State, if any, that has been granted a waiver under subsection (d) of this section, such requirement of the building code shall not be applicable unless the Secretary has granted a waiver for such requirement under subsection (d) of this section.
 
 #### (g) No warranty
 
@@ -174,7 +174,7 @@ Subsec. (c)(9). Pub. L. 110–140, §324(f), added par. (9).
 
 <b>2005</b>—Subsec. (c)(7), (8). Pub. L. 109–58 added pars. (7) and (8).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §123(h)(1)(A)–(C), in introductory provisions inserted "or water use" after "energy consumption", in par. (A) inserted", water use," after "energy consumption", and in par. (B) substituted ", energy efficiency, or water use" for "or energy efficiency".
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §123(h)(1)(A)–(C), in introductory provisions inserted "or water use" after "energy consumption", in par. (A) inserted ", water use," after "energy consumption", and in par. (B) substituted ", energy efficiency, or water use" for "or energy efficiency".
 
 Subsec. (a)(2). Pub. L. 102–486, §123(h)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of this section, the term 'State regulation' means a law, regulation, or other requirement of a State or its political subdivisions."
 
@@ -214,7 +214,7 @@ Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon ", exce
 
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted "other requirement" for "similar requirement".
 
-Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
+Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefromrather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
 
 #### Effective Date of 2012 Amendment
 

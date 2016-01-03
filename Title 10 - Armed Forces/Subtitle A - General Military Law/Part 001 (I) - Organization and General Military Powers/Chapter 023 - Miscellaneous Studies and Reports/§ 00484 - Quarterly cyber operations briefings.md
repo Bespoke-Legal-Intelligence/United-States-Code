@@ -1,6 +1,6 @@
 ### §484. Quarterly cyber operations briefings
 
-The Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out by the Department of Defense during the immediately preceding quarter.
+The Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate quarterly briefings on all offensive and significant defensive military operations in cyberspace carried out bythe Department of Defense during the immediately preceding quarter.
 
 (Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888.)
 

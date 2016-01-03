@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to assure that any legislation enacted before October 1, 2002, affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
+The purpose of this section is to assure that any legislation enacted before October 1, 2002,affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
 
 #### (b) Sequestration
 
@@ -78,7 +78,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (e) Emergency legislation
 
-If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, andreceipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 (Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, §121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
 

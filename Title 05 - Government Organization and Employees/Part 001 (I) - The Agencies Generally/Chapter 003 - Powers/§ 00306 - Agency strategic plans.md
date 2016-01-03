@@ -1,6 +1,6 @@
 ### §306. Agency strategic plans
 
-(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the President and Congress of its availability. Such plan shall contain—
+(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the Presidentand Congress of its availability. Such plan shall contain—
 
 &emsp;(1) a comprehensive mission statement covering the major functions and operations of the agency;
 
@@ -22,7 +22,7 @@
 
 &emsp;(8) a description of the program evaluations used in establishing or revising general goals and objectives, with a schedule for future program evaluations to be conducted.
 
-(b) The strategic plan shall cover a period of not less than 4 years following the fiscal year inwhich the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
+(b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 
 (c) The performance plan required by section 1115(b) of title 31 shall be consistent with the agency's strategic plan. A performance plan may not be submitted for a fiscal year not covered by a current strategic plan under this section.
 

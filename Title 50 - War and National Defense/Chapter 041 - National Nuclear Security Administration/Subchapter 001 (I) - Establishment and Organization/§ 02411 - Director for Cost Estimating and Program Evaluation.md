@@ -26,7 +26,7 @@
 
 &emsp;(E) As directed by the Administrator, conducting independent cost estimates for such programs.
 
-(2) A review, evaluation, or cost estimate conducted under subparagraph (B), (D), or (E) of paragraph (1) shall be considered an inherently governmental function, but the Director may use data collected by a national security laboratory or a management and operating contractor of the Administration in conducting such a review, evaluation, or cost estimate.
+(2) A review, evaluation, or cost estimate conducted under subparagraph (B), (D), or (E) ofparagraph (1) shall be considered an inherently governmental function, but the Director may use data collected by a national security laboratory or a management and operating contractor of the Administration in conducting such a review, evaluation, or cost estimate.
 
 (3) The Director shall submit in writing to the Administrator the following:
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;The term "performance baseline", with respect to a major atomic energy defense acquisition program, means the key parameters with respect to performance, scope, cost, and schedule for the project budget of the program.
 
-(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889.)
+(Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI,§3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889.)
 
 #### Amendments
 

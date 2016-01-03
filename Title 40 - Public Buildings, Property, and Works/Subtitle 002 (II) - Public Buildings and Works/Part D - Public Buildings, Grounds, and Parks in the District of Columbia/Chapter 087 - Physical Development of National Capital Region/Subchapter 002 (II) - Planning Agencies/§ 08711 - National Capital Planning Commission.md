@@ -110,7 +110,7 @@ In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmenta
 
 In subsection (b)(2), the words "bona fide" are omitted as unnecessary.
 
-In subsection (b)(3), the words "except that of the members first appointed, the President shall designate one to serve two years and one to serve four years" and"The members first appointed under this section shall assume their office on January 2, 1975" are omitted as obsolete.
+In subsection (b)(3), the words "except that of the members first appointed, the President shall designate one to serve two years and one to serve four years" and "The members first appointed under this section shall assume their office on January 2, 1975" are omitted as obsolete.
 
 In subsection (b)(4), the words "are entitled to $100 a day when performing duties" are substituted for "shall each receive compensation at the rate of $100 for each day such member is engaged in the actual performance of duties" to eliminate unnecessary words.
 

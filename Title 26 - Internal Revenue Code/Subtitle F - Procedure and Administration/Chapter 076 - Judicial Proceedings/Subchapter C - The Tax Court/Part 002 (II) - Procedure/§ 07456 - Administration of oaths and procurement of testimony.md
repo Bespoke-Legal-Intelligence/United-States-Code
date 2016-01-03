@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 99–514, §1556(b)(1), redesignated subsec. (e) as (c).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §464(a), substituted "special trial judge" for "commissioner" in three places.
 
-Subsec. (c). Pub. L. 98–369, §464(b), substituted "Special trial judges" for "Commissioners" in heading, and in text substituted "special trial judges" for "commissioners" and "special trial judge" for "commissioner".
+Subsec. (c). Pub. L. 98–369, §464(b), substituted "Special trial judges" for "Commissioners" in heading, andin text substituted "special trial judges" for "commissioners" and "special trial judge" for "commissioner".
 
 Subsec. (d). Pub. L. 98–369, §464(c), substituted "Special trial judges" for "Commissioners" in heading, and substituted "special trial judges" for "commissioners" and "special trial judge" for "commissioner" in provisions following par. (4).
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub
 
 #### Reimbursement
 
-Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: "The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by thissection \[amending this section and section 566 of Title 28, Judiciary and Judicial Procedure\]."
+Pub. L. 110–177, title I, §102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: "The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by this section \[amending this section and section 566 of Title 28, Judiciary and Judicial Procedure\]."
 
 #### References to Commissioners Deemed References to Special Trial Judges
 

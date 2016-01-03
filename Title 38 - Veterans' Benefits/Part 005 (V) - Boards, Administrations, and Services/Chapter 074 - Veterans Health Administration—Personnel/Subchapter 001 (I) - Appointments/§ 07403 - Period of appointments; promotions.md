@@ -1,6 +1,6 @@
 ### §7403. Period of appointments; promotions
 
-(a)(1) Appointments under this chapter of health-care professionals to whom this sectionapplies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
+(a)(1) Appointments under this chapter of health-care professionals to whom this section applies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
 
 (2) This section applies to the following persons appointed under this chapter:
 
@@ -60,7 +60,7 @@
 
 (C) The Secretary shall give full and fair consideration to any recommendations received under subparagraph (B) in deciding whether and how to proceed with a proposed system.
 
-(3) The Secretary shall implement immediately any part of a system of promotion and advancement under paragraph (1) that is proposed under paragraph (2) for which the Secretary receives no recommendations from exclusive employee representatives under paragraph (2).
+(3) The Secretary shall implement immediately any part of a system of promotion andadvancement under paragraph (1) that is proposed under paragraph (2) for which the Secretary receives no recommendations from exclusive employee representatives under paragraph (2).
 
 (4) If the Secretary receives recommendations under paragraph (2) from exclusive employee representatives on any part of a proposed system of promotion and advancement under that paragraph, the Secretary shall determine whether or not to accept the recommendations, either in whole or in part. If the Secretary determines not to accept all or part of the recommendations, the Secretary shall—
 
@@ -114,7 +114,7 @@ Subsec. (b)(2) to (4). Pub. L. 111–163, §601(b)(2), (3), added pars. (2) and 
 
 <b>2003</b>—Subsec. (a)(2)(H). Pub. L. 108–170, §302(c), added subpar. (H).
 
-Subsec. (f)(3). Pub. L. 108–170, §301(b)(1), inserted "reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees," after "adverse actions,", ", whetherappointed under this section or section 7405(a)(1)(B) of this title" after "such positions", and comma after "status)".
+Subsec. (f)(3). Pub. L. 108–170, §301(b)(1), inserted "reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees," after "adverse actions,", ", whether appointed under this section or section 7405(a)(1)(B) of this title" after "such positions", and comma after "status)".
 
 Subsec. (h). Pub. L. 108–170, §301(b)(2), added subsec. (h).
 

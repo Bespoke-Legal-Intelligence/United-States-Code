@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) A person may file a complaint in writing with the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) about a person violating this part or a requirement prescribed under this part. Except as provided in subsection (b) of this section, the Secretary, Under Secretary, or Administrator shall investigate the complaint if a reasonable ground appears to the Secretary, Under Secretary, or Administrator for the investigation.
+General.—(1) A person may file a complaint in writing with the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) about a person violating this part or a requirement prescribed under this part. Except as provided insubsection (b) of this section, the Secretary, Under Secretary, or Administrator shall investigate the complaint if a reasonable ground appears to the Secretary, Under Secretary, or Administrator for the investigation.
 
 (2) On the initiative of the Secretary, Under Secretary, or Administrator, as appropriate, the Secretary, Under Secretary, or Administrator may conduct an investigation, if a reasonable ground appears to the Secretary, Under Secretary, or Administrator for the investigation, about—
 

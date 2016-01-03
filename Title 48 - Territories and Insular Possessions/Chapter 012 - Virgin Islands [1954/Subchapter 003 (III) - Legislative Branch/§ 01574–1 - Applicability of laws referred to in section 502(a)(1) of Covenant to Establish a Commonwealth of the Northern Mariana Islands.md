@@ -1,6 +1,6 @@
 ### §1574–1. Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands
 
-Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the SocialSecurity Administration, except for medicaid which is now administered by the Centers for Medicare \& Medicaid Services, and except the Micronesian Claims Act of 1971 (85 Stat. 96) shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the Social Security Administration, except for medicaid which is now administered by the Centers for Medicare \& Medicaid Services, and except the Micronesian Claims Act of 1971 (85 Stat. 96) shallbe applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
 (Pub. L. 95–134, title IV, §403, Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–135, §1, Oct. 15, 1977, 91 Stat. 1166; Pub. L. 108–173, title IX, §900(e)(7), Dec. 8, 2003, 117 Stat. 2374.)
 
@@ -10,7 +10,7 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 
 The joint resolution approved on March 24, 1976, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Micronesian Claims Act of 1971, referred to in text, is Pub. L. 92–39, July 1, 1971, 85 Stat. 92, as amended, which was classified generally to section 2018 et seq. of Title 50, Appendix, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+The Micronesian Claims Act of 1971, referred to in text, is Pub. L. 92–39, July 1, 1971, 85 Stat. 92, as amended, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
 #### Codification
 

@@ -24,7 +24,7 @@ When contracting and otherwise using Federal funds to conduct demonstrations und
 
 #### References in Text
 
-The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct.11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
 The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
@@ -32,7 +32,7 @@ The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 9
 
 In subsec. (b), the words "the Federal Energy Administration," which followed "Environmental Protection Agency," have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
-In subsec. (c), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" onauthority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (e), "chapter 83 of title 41" substituted for "title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

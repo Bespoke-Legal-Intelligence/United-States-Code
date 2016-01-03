@@ -6,7 +6,7 @@ Where the numerical clean-fuel vehicle standards applicable under this part to v
 
 &emsp;(2) subject to the same requirements, and utilizing the same interpretations and policy judgments, as are applicable in the case of such CARB standards, including, but not limited to, requirements regarding certification, production-line testing, and in-use compliance,
 
-> unless the Administrator determines (in promulgating the rules establishing the clean fuel vehicle program under this section) that any such administration and enforcement would not meetthe criteria for a waiver under section 7543 of this title. Nothing in this section shall apply in the case of standards under section 7585 of this title for heavy-duty vehicles.
+> unless the Administrator determines (in promulgating the rules establishing the clean fuel vehicle program under this section) that any such administration and enforcement would not meet the criteria for a waiver under section 7543 of this title. Nothing in this section shall apply in the case of standards under section 7585 of this title for heavy-duty vehicles.
 
 (July 14, 1955, ch. 360, title II, §244, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2519.)
 

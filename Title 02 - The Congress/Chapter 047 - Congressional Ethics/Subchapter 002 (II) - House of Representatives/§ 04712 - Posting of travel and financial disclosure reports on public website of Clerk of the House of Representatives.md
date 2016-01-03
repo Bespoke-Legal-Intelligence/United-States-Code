@@ -54,7 +54,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–105, §19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) \[of Pub. L. 112–105, setout as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees\] first take effect."
+Pub. L. 112–105, §19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) \[of Pub. L. 112–105, set out as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees\] first take effect."
 
 #### Exercise of Rulemaking Authority
 

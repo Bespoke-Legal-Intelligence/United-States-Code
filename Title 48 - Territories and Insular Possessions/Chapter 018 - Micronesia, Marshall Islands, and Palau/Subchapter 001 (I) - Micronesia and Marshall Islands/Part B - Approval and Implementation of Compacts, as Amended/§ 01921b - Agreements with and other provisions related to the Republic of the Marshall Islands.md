@@ -28,7 +28,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (e) Espousal provisions
 
-(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that it is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreementbetween the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
+(1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that it is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
 
 (2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that in furtherance of the intention of Congress as stated in paragraph (1) of this subsection, the Section 177 Agreement is hereby ratified and approved. It is the explicit understanding and intent of Congress that the jurisdictional limitations set forth in Article XII of such Agreement are enacted solely and exclusively to accomplish the objective of Article X of such Agreement and only as a clarification of the effect of Article X, and are not to be construed or implemented separately from Article X.
 
@@ -108,9 +108,9 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 (1) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that services provided by the United States Public Health Service or any other United States agency pursuant to section 1(a) of Article II of the Agreement for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") shall be only for services to the people of the Atolls of Bikini, Enewetak, Rongelap, and Utrik who were affected by the consequences of the United States nuclear testing program, pursuant to the program described in Public Law 95–134 (91 Stat. 1159) and Public Law 96–205 (94 Stat. 84) and their descendants (and any other persons identified as having been so affected if such identification occurs in the manner described in such public laws). Nothing in this subsection shall be construed as prejudicial to the views or policies of the Government of the Marshall Islands as to the persons affected by the consequences of the United States nuclear testing program.
 
-(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned to the Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
+(2) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that at the end of the first year after the effective date of the Compact and at the end of each year thereafter, the providing agency or agencies shall return to the Government of the Marshall Islands any unexpended funds to be returned tothe Fund Manager (as described in Article I of the Section 177 Agreement) to be covered into the Fund to be available for future use.
 
-(3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that the Fund Manager shall retain the funds returned bythe Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
+(3) In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provided that the Fund Manager shall retain the funds returned by the Government of the Marshall Islands pursuant to paragraph (2) of this subsection, shall invest and manage such funds, and at the end of 15 years after the effective date of the Compact, shall make from the total amount so retained and the proceeds thereof annual disbursements sufficient to continue to make payments for the provision of health services as specified in paragraph (1) of this subsection to such extent as may be provided in contracts between the Government of the Marshall Islands and appropriate United States providers of such health services.
 
 #### (i) Enjebi Community Trust Fund
 
@@ -148,7 +148,7 @@ In the joint resolution of January 14, 1986 (Public Law 99–239) Congress provi
 
 #### (1) Declaration of policy
 
-&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239), the Congress determined and declared that it is the policy of the United States, to be supported by the full faith and credit of the United States, that because theUnited States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraph (2) and (3) of this subsection.
+&emsp;In the joint resolution of January 14, 1986 (Public Law 99–239), the Congress determined and declared that it is the policy of the United States, to be supported by the full faith and credit of the United States, that because the United States, through its nuclear testing and other activities, rendered Bikini Atoll unsafe for habitation by the people of Bikini, the United States will fulfill its responsibility for restoring Bikini Atoll to habitability, as set forth in paragraph (2) and (3) of this subsection.
 
 #### (2) Cleanup funds
 
@@ -190,11 +190,11 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 &emsp;&emsp;(A) whether the Government of the Republic of the Marshall Islands has met the requirements set forth in the U.S.-RMI Compact, or any related agreement entered into under the U.S.-RMI Compact, regarding the purposes for which such grants and other assistance are to be used; and
 
-&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic of the Marshall Islands pursuant to such grants or assistance.
+&emsp;&emsp;(B) the propriety of the financial transactions of the Government of the Republic ofthe Marshall Islands pursuant to such grants or assistance.
 
 #### (5) Cooperation by the Republic of the Marshall Islands
 
-&emsp;The Government of the Republic of the Marshall Islands will cooperate fully with the Comptroller General of the United States inthe conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Republic of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 #### (l) Kwajalein
 

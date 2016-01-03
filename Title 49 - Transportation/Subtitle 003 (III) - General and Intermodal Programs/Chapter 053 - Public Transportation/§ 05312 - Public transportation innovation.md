@@ -1,0 +1,468 @@
+### §5312. Public transportation innovation
+
+(a)
+
+In General.—The Secretary shall provide assistance for projects and activities to advance innovative public transportation research and development in accordance with the requirements of this section.
+
+(b)
+
+Research, Development, Demonstration, and Deployment Projects.—
+
+&emsp;(1)
+
+In general.—The Secretary may make grants and enter into contracts, cooperative agreements, and other agreements for research, development, demonstration, and deployment projects, and evaluation of research and technology of national significance to public transportation, that the Secretary determines will improve public transportation.
+
+&emsp;(2)
+
+Agreements.—In order to carry out paragraph (1), the Secretary may make grants to and enter into contracts, cooperative agreements, and other agreements with—
+
+&emsp;&emsp;(A) departments, agencies, and instrumentalities of the Government, including Federal laboratories;
+
+&emsp;&emsp;(B) State and local governmental entities;
+
+&emsp;&emsp;(C) providers of public transportation;
+
+&emsp;&emsp;(D) private or non-profit organizations;
+
+&emsp;&emsp;(E) institutions of higher education; and
+
+&emsp;&emsp;(F) technical and community colleges.
+
+&emsp;(3)
+
+Application.—
+
+&emsp;&emsp;(A)
+
+In general.—To receive a grant, contract, cooperative agreement, or other agreement under this section, an entity described in paragraph (2) shall submit an application to the Secretary.
+
+&emsp;&emsp;(B)
+
+Form and contents.—An application under subparagraph (A) shall be in such form and contain such information as the Secretary may require, including—
+
+&emsp;&emsp;&emsp;(i) a statement of purpose detailing the need being addressed;
+
+&emsp;&emsp;&emsp;(ii) the short- and long-term goals of the project, including opportunities for future innovation and development, the potential for deployment, and benefits to riders and public transportation; and
+
+&emsp;&emsp;&emsp;(iii) the short- and long-term funding requirements to complete the project and any future objectives of the project.
+
+(c)
+
+Research.—
+
+&emsp;(1)
+
+In general.—The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (b)(2) to carry out a public transportation research project that has as its ultimate goal the development and deployment of new and innovative ideas, practices, and approaches.
+
+&emsp;(2)
+
+Project eligibility.—A public transportation research project that receives assistance under paragraph (1) shall focus on—
+
+&emsp;&emsp;(A) providing more effective and efficient public transportation service, including services to—
+
+&emsp;&emsp;&emsp;(i) seniors;
+
+&emsp;&emsp;&emsp;(ii) individuals with disabilities; and
+
+&emsp;&emsp;&emsp;(iii) low-income individuals;
+
+&emsp;&emsp;(B) mobility management and improvements and travel management systems;
+
+&emsp;&emsp;(C) data and communication system advancements;
+
+&emsp;&emsp;(D) system capacity, including—
+
+&emsp;&emsp;&emsp;(i) train control;
+
+&emsp;&emsp;&emsp;(ii) capacity improvements; and
+
+&emsp;&emsp;&emsp;(iii) performance management;
+
+&emsp;&emsp;(E) capital and operating efficiencies;
+
+&emsp;&emsp;(F) planning and forecasting modeling and simulation;
+
+&emsp;&emsp;(G) advanced vehicle design;
+
+&emsp;&emsp;(H) advancements in vehicle technology;
+
+&emsp;&emsp;(I) asset maintenance and repair systems advancement;
+
+&emsp;&emsp;(J) construction and project management;
+
+&emsp;&emsp;(K) alternative fuels;
+
+&emsp;&emsp;(L) the environment and energy efficiency;
+
+&emsp;&emsp;(M) safety improvements; or
+
+&emsp;&emsp;(N) any other area that the Secretary determines is important to advance the interests of public transportation.
+
+(d)
+
+Innovation and Development.—
+
+&emsp;(1)
+
+In general.—The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (b)(2) to carry out a public transportation innovation and development project that seeks to improve public transportation systems nationwide in order to provide more efficient and effective delivery of public transportation services, including through technology and technological capacity improvements.
+
+&emsp;(2)
+
+Project eligibility.—A public transportation innovation and development project that receives assistance under paragraph (1) shall focus on—
+
+&emsp;&emsp;(A) the development of public transportation research projects that received assistance under subsection (c) that the Secretary determines were successful;
+
+&emsp;&emsp;(B) planning and forecasting modeling and simulation;
+
+&emsp;&emsp;(C) capital and operating efficiencies;
+
+&emsp;&emsp;(D) advanced vehicle design;
+
+&emsp;&emsp;(E) advancements in vehicle technology;
+
+&emsp;&emsp;(F) the environment and energy efficiency;
+
+&emsp;&emsp;(G) system capacity, including train control and capacity improvements; or
+
+&emsp;&emsp;(H) any other area that the Secretary determines is important to advance the interests of public transportation.
+
+(e)
+
+Demonstration, Deployment, and Evaluation.—
+
+&emsp;(1)
+
+In general.—The Secretary may, under terms and conditions that the Secretary prescribes, make a grant to or enter into a contract, cooperative agreement, or other agreement with an entity described in paragraph (2) to promote the early deployment and demonstration of innovation in public transportation that has broad applicability.
+
+&emsp;(2)
+
+Participants.—An entity described in this paragraph is—
+
+&emsp;&emsp;(A) an entity described in subsection (b)(2); or
+
+&emsp;&emsp;(B) a consortium of entities described in subsection (b)(2), including a provider of public transportation, that will share the costs, risks, and rewards of early deployment and demonstration of innovation.
+
+&emsp;(3)
+
+Project eligibility.—A demonstration, deployment, or evaluation project that receives assistance under paragraph (1) shall seek to build on successful research, innovation, and development efforts to facilitate—
+
+&emsp;&emsp;(A) the deployment of research and technology development resulting from private efforts or Federally funded efforts;
+
+&emsp;&emsp;(B) the implementation of research and technology development to advance the interests of public transportation; or
+
+&emsp;&emsp;(C) the deployment of low or no emission vehicles, zero emission vehicles, or associated advanced technology.
+
+&emsp;(4)
+
+Evaluation.—Not later than 2 years after the date on which a project receives assistance under paragraph (1), the Secretary shall conduct a comprehensive evaluation of the success or failure of the projects funded under this subsection and any plan for broad-based implementation of the innovation promoted by successful projects.
+
+&emsp;(5)
+
+Prohibition.—The Secretary may not make grants under this subsection for the demonstration, deployment, or evaluation of a vehicle that is in revenue service unless the Secretary determines that the project makes significant technological advancements in the vehicle.
+
+&emsp;(6)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the term "direct carbon emissions" means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency;
+
+&emsp;&emsp;(B) the term "low or no emission vehicle" means—
+
+&emsp;&emsp;&emsp;(i) a passenger vehicle used to provide public transportation that the Secretary determines sufficiently reduces energy consumption or harmful emissions, including direct carbon emissions, when compared to a comparable standard vehicle; or
+
+&emsp;&emsp;&emsp;(ii) a zero emission vehicle used to provide public transportation; and
+
+&emsp;&emsp;(C) the term "zero emission vehicle" means a low or no emission vehicle that produces no carbon or particulate matter.
+
+(g) <sup>1</sup>
+
+Annual Report on Research.—Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
+
+&emsp;(1) a description of each project that received assistance under this section during the preceding fiscal year; and
+
+&emsp;(2) an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (e)(4) for the preceding fiscal year.
+
+(g) <sup>1</sup>
+
+Government Share of Costs.—
+
+&emsp;(1)
+
+In general.—The Government share of the cost of a project carried out under this section shall not exceed 80 percent.
+
+&emsp;(2)
+
+Non-government share.—The non-Government share of the cost of a project carried out under this section may be derived from in-kind contributions.
+
+&emsp;(3)
+
+Financial benefit.—If the Secretary determines that there would be a clear and direct financial benefit to an entity under a grant, contract, cooperative agreement, or other agreement under this section, the Secretary shall establish a Government share of the costs of the project to be carried out under the grant, contract, cooperative agreement, or other agreement that is consistent with the benefit.
+
+(h)
+
+Low or No Emission Vehicle Component Assessment.—
+
+&emsp;(1)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the term "covered institution of higher education" means an institution of higher education with which the Secretary enters into a contract or cooperative agreement, or to which the Secretary makes a grant, under paragraph (2)(B) to operate a facility selected under paragraph (2)(A);
+
+&emsp;&emsp;(B) the terms "direct carbon emissions" and "low or no emission vehicle" have the meanings given those terms in subsection (e)(6);
+
+&emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
+
+&emsp;&emsp;(D) the term "low or no emission vehicle component" means an item that is separately installed in and removable from a low or no emission vehicle.
+
+&emsp;(2)
+
+Assessing low or no emission vehicle components.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall competitively select at least one facility to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles.
+
+&emsp;&emsp;(B)
+
+Operation and maintenance.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, at least one institution of higher education to operate and maintain a facility selected under subparagraph (A).
+
+&emsp;&emsp;&emsp;(ii)
+
+Requirements.—An institution of higher education described in clause (i) shall have—
+
+&emsp;&emsp;&emsp;&emsp;(I) capacity to carry out transportation-related advanced component and vehicle evaluation;
+
+&emsp;&emsp;&emsp;&emsp;(II) laboratories capable of testing and evaluation; and
+
+&emsp;&emsp;&emsp;&emsp;(III) direct access to or a partnership with a testing facility capable of emulating real-world circumstances in order to test low or no emission vehicle components installed on the intended vehicle.
+
+&emsp;&emsp;(C)
+
+Fees.—A covered institution of higher education shall establish and collect fees, which shall be approved by the Secretary, for the assessment of low or no emission vehicle components at the applicable facility selected under subparagraph (A).
+
+&emsp;&emsp;(D)
+
+Availability of amounts to pay for assessment.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to an institution of higher education under which—
+
+&emsp;&emsp;&emsp;(i) the Secretary shall pay 50 percent of the cost of assessing a low or no emission vehicle component at the applicable facility selected under subparagraph (A) from amounts made available to carry out this section; and
+
+&emsp;&emsp;&emsp;(ii) the remaining 50 percent of such cost shall be paid from amounts recovered through the fees established and collected pursuant to subparagraph (C).
+
+&emsp;&emsp;(E)
+
+Voluntary testing.—A manufacturer of a low or no emission vehicle component is not required to assess the low or no emission vehicle component at a facility selected under subparagraph (A).
+
+&emsp;&emsp;(F)
+
+Compliance with section 5318.—Notwithstanding whether a low or no emission vehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
+
+&emsp;&emsp;(G)
+
+Separate facility.—A facility selected under subparagraph (A) shall be separate and distinct from the facility operated and maintained under section 5318.
+
+&emsp;(3)
+
+Low or no emission vehicle component performance reports.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components.
+
+&emsp;(4)
+
+Public availability of assessments.—Each assessment conducted at a facility selected under paragraph (2)(A) shall be made publicly available, including to affected industries.
+
+&emsp;(5)
+
+Rule of construction.—Nothing in this subsection shall be construed to require—
+
+&emsp;&emsp;(A) a low or no emission vehicle component to be tested at a facility selected under paragraph (2)(A); or
+
+&emsp;&emsp;(B) the development or disclosure of a privately funded component assessment.
+
+(i)
+
+Transit Cooperative Research Program.—
+
+&emsp;(1)
+
+In general.—The amounts made available under section 5338(a)(2)(G)(ii) are available for a public transportation cooperative research program.
+
+&emsp;(2)
+
+Independent governing board.—
+
+&emsp;&emsp;(A)
+
+Establishment.—The Secretary shall establish an independent governing board for the program under this subsection.
+
+&emsp;&emsp;(B)
+
+Recommendations.—The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
+
+&emsp;(3)
+
+Federal assistance.—The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary considers appropriate.
+
+&emsp;(4)
+
+Government share of costs.—If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this subsection, the Secretary shall establish a Government share consistent with that benefit.
+
+&emsp;(5)
+
+Limitation on applicability.—Subsections (f) <sup>2</sup> and (g) shall not apply to activities carried out under this subsection.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597; Pub. L. 110–244, title II, §201(f), June 6, 2008, 122 Stat. 1610; Pub. L. 112–141, div. B, §20011, July 6, 2012, 126 Stat. 686; Pub. L. 114–94, div. A, title III, §3008(a), (b), Dec. 4, 2015, 129 Stat. 1465, 1468.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5312(a)
+
+49 App.:1605(a).
+
+July 9, 1964, Pub. L. 88–365, §6(a), 78 Stat. 305; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §13(b), 84 Stat. 969.
+
+&nbsp;
+
+49 App.:1605(d).
+
+July 9, 1964, Pub. L. 88–365, §6(d), 78 Stat. 305; Sept. 8, 1966, Pub. L. 89–562, §3, 80 Stat. 717; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25.
+
+5312(b)(1)
+
+49 App.:1607c(a) (1st, 2d sentences).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §11(a); added Sept. 8, 1966, Pub. L. 89–562, §2(a)(2), 80 Stat. 716.
+
+5312(b)(2)
+
+49 App.:1607c(a) (3d sentence).
+
+5312(b)(3)
+
+49 App.:1607c(a) (last sentence).
+
+5312(c)(1)
+
+49 App.:1607b (1st sentence).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §10; added Sept. 8, 1966, Pub. L. 89–562, §2(a)(2), 80 Stat. 716; restated Nov. 6, 1978, Pub. L. 95–599, §306, 92 Stat. 2744.
+
+5312(c)(2)
+
+49 App.:1603(c) (1st sentence).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §4(c) (1st sentence); added Nov. 6, 1978, Pub. L. 95–599, §303(e), 92 Stat. 2739; Apr. 2, 1987, Pub. L. 100–17, §320, 101 Stat. 235; Dec. 18, 1991, Pub. L. 102–240, §3006(h)(1), 105 Stat. 2090.
+
+5312(c)(3)
+
+49 App.:1607b (2d–last sentences).
+
+In subsections (a) and (b)(1), the words "(or the Secretary of Housing and Urban Development when required by section 5334(i) of this title)" are added for clarity.
+
+In subsection (a), the word "working" is omitted as surplus. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "other Federal departments and agencies" for consistency in the revised title and with other titles of the United States Code. The words "all phases of", "(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)", "In carrying out the provisions of this section", "or data as he deems", "public or private", and "contained . . . section 1701d–3 of title 12 or . . . other provision of" are omitted as surplus.
+
+In subsection (b)(1), before clause (A), the words "public and private", "assist in establishing or carrying on comprehensive research in the problems of transportation in urban areas. Such grants shall be used to", and "and qualified" are omitted as surplus. In clause (A), the words "or both" are omitted as surplus.
+
+In subsection (b)(3), the word "appropriate" is added for clarity.
+
+In subsection (c)(1), the words "and agencies thereof" are omitted as surplus.
+
+In subsection (c)(3), before clause (A), the words "public or private training" and "the sum of" are omitted as surplus. In clause (B), the words "in connection with the fellowship" are omitted as surplus.
+
+#### References in Text
+
+The date of enactment of the Federal Public Transportation Act of 2015, referred to in subsec. (h)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–94, §3008(a)(1), substituted "Public transportation innovation" for "Research, development, demonstration, and deployment projects" in section catchline.
+
+Subsecs. (a), (b). Pub. L. 114–94, §3008(a)(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 114–94, §3008(a)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(1). Pub. L. 114–94, §3008(b)(1), substituted "subsection (b)(2)" for "subsection (a)(2)".
+
+Subsec. (d). Pub. L. 114–94, §3008(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 114–94, §3008(b)(2)(A), substituted "subsection (b)(2)" for "subsection (a)(2)".
+
+Subsec. (d)(2)(A). Pub. L. 114–94, §3008(b)(2)(B), substituted "subsection (c)" for "subsection (b)".
+
+Subsec. (e). Pub. L. 114–94, §3008(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(2). Pub. L. 114–94, §3008(b)(3), substituted "subsection (b)(2)" for "subsection (a)(2)" in subpars. (A) and (B).
+
+Subsec. (e)(3). Pub. L. 114–94, §3008(a)(4)(A)(i), inserted "demonstration, deployment, or evaluation" before "project that" in introductory provisions.
+
+Subsec. (e)(3)(C). Pub. L. 114–94, §3008(a)(4)(A)(ii)–(iv), added subpar. (C).
+
+Subsec. (e)(5), (6). Pub. L. 114–94, §3008(a)(4)(B), added pars. (5) and (6) and struck out former par. (5), which related to low or no emission vehicle deployment.
+
+Subsec. (f). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g).
+
+Pub. L. 114–94, §3008(a)(2), redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
+
+Pub. L. 114–94, §3008(a)(2), redesignated subsec. (f) relating to government share of costs as (g).
+
+Subsec. (g)(1). Pub. L. 114–94, §3008(a)(6)(B), struck out "and" at end.
+
+Subsec. (g)(2). Pub. L. 114–94, §3008(b)(4), which directed substitution of "subsection (e)(4)" for "subsection (d)(4)" in subsec. (f)(2), was executed to par. (2) of subsec. (g) relating to annual report on research, to reflect the probable intent of Congress.
+
+Pub. L. 114–94, §3008(a)(6)(C), substituted a period for "; and".
+
+Subsec. (g)(3). Pub. L. 114–94, §3008(a)(6)(D), struck out par. (3) which read as follows: "a proposal for allocations of amounts for assistance under this section for the subsequent fiscal year."
+
+Subsec. (h). Pub. L. 114–94, §3008(a)(5), added subsec. (h).
+
+Subsec. (i). Pub. L. 114–94, §3008(a)(7), added subsec. (i).
+
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to research, development, demonstration, and deployment projects and consisted of subsecs. (a) to (c).
+
+<b>2008</b>—Subsec. (c). Pub. L. 110–244 substituted "Public Transportation" for "Mass Transportation" in heading.
+
+<b>2005</b>—Pub. L. 109–59, §3014(e)(1), substituted "deployment" for "training" in section catchline.
+
+Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law."
+
+Subsec. (b). Pub. L. 109–59, §3014(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
+
+Subsec. (c). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to grants to States, local governmental authorities, and operators of mass transportation systems for training fellowships and grants to State and local governmental authorities for projects that would use innovative techniques and methods in managing and providing mass transportation.
+
+Subsec. (c)(2). Pub. L. 109–59, §3014(c), substituted "public or private" for "public and private".
+
+Subsec. (c)(3). Pub. L. 109–59, §3014(d), struck out "shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and" after "Such revenues".
+
+Subsec. (d). Pub. L. 109–59, §3014(b), redesignated subsec. (d) as (b).
+
+Subsec. (d)(1)(A), (2). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
+
+Subsec. (e). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c).
+
+Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
+
+<b>1998</b>—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 2012 Amendment
+
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> So in original. There are two subsecs. designated (g). The first subsec. (g) probably should be designated (f).</i>
+
+<i><sup>2</sup></i><i> So in original. There is no subsec. designated subsec. (f).</i>
+

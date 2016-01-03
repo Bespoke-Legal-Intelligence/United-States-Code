@@ -20,7 +20,7 @@
 
 #### (B) Subsequent years
 
-&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Administrator determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this section after a final year following such fiscal year, as defined in accordance with regulations established by the Administrator, and for each subsequent fiscal year.
+&emsp;&emsp;For each year subsequent to the initial fiscal year described in subparagraph (A), the director of the designated State unit shall continue to have the authority to award such grants under this section if the Administrator determines that the State continues to earmark the amount of State funds described in subparagraph (A)(i). If the State does not continue to earmark such an amount for a fiscal year, the State shall be ineligible to make grants under this sectionafter a final year following such fiscal year, as defined in accordance with regulations established by the Administrator, and for each subsequent fiscal year.
 
 #### (2) Grants by designated State units
 
@@ -80,7 +80,7 @@ In the administration of the provisions of this section, the director of the des
 
 #### (e) Order of priorities
 
-Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
+Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers forindependent living within a State, to the extent funds are available:
 
 &emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 
@@ -96,7 +96,7 @@ A center that provides or manages residential housing after October 1, 1994, sha
 
 #### (1) In general
 
-&emsp;The director of the designated State unit shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4of this title. If the director of the designated State unit determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the director of the designated State unit shall immediately notify such center that it is out of compliance.
+&emsp;The director of the designated State unit shall periodically review each center receiving funds under this section to determine whether such center is in compliance with the standards and assurances set forth in section 796f–4 of this title. If the director of the designated State unit determines that any center receiving funds under this section is not in compliance with the standards and assurances set forth in section 796f–4 of this title, the director of the designated State unit shall immediately notify such center that it is out of compliance.
 
 #### (2) Enforcement
 

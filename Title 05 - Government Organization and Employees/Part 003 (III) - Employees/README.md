@@ -109,6 +109,7 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
+| [<b>96.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20096%20-%20Personnel%20Flexibilities%20Relating%20to%20Land%20Management%20Agencies/README.md) | <b>Personnel flexibilities </b><b><sup>2</sup></b> <b>relating </b><b><sup>2</sup></b> <b>to land </b><b><sup>2</sup></b> <b>management </b><b><sup>2</sup></b> <b>agencies </b><b><sup>2</sup></b> | <b>9601</b> |
 | [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
 | [<b>98.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20098%20-%20National%20Aeronautics%20and%20Space%20Administration/README.md) | <b>National Aeronautics and Space Administration</b> | <b>9801</b> |
 | [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20Personnel%20Authorities/README.md) | <b>Department of Defense Personnel Authorities</b> | <b>9901</b> |
@@ -117,7 +118,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+### <b>Subpart J—Enhanced Personnel Security Programs</b>
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>110.</b>](Subpart%20J%20-%20Enhanced%20Personnel%20Security%20Programs/Chapter%20110%20-%20Enhanced%20Personnel%20Security%20Programs/README.md) | <b>Enhanced personnel </b><b><sup>2</sup></b> <b>security </b><b><sup>2</sup></b> <b>programs </b><b><sup>2</sup></b> | <b>11001</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–113, div. M, title III, §306(a)(2), Dec. 18, 2015, 129 Stat. 2916, added items for subpart J and chapter 110.
+
+Pub. L. 114–47, §2(b), Aug. 7, 2015, 129 Stat. 487, added item for chapter 96.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title XI, §1101(d)(2), Dec. 31, 2011, 125 Stat. 1610, added item for chapter 99 and struck out former item for chapter 99 "Department of Defense National Security Personnel System".
 
@@ -173,3 +186,4 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 - [Subpart G - Insurance and Annuities](Subpart%20G%20-%20Insurance%20and%20Annuities/README.md)
 - [Subpart H - Access to Criminal History Record Information](Subpart%20H%20-%20Access%20to%20Criminal%20History%20Record%20Information/README.md)
 - [Subpart I - Miscellaneous](Subpart%20I%20-%20Miscellaneous/README.md)
+- [Subpart J - Enhanced Personnel Security Programs](Subpart%20J%20-%20Enhanced%20Personnel%20Security%20Programs/README.md)

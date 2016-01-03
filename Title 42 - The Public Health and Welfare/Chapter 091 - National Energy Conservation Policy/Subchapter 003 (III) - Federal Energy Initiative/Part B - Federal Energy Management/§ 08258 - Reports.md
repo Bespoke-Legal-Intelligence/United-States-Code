@@ -18,7 +18,7 @@ The Secretary shall report, not later than April 2 of each year, with respect to
 
 &emsp;&emsp;(B) the information required under section 8253(b)(2) of this title; and
 
-&emsp;&emsp;(C) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures,and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
+&emsp;&emsp;(C) a statement detailing the amount of funds awarded to each agency under section 8256(b) of this title, the energy and water conservation measures installed with such funds, the projected energy and water savings to be realized from installed measures, and, for each installed measure for which the projected energy and water savings reported in the previous year were not realized, the percentage of such projected savings that was not realized, the reasons such savings were not realized, and proposals for, and projected costs of, achieving such projected savings in the future;
 
 &emsp;(2) the number of contracts entered into by all agencies under subchapter VII of this chapter, the difficulties (if any) encountered in attempting to enter into such contracts, and proposed solutions to those difficulties;
 

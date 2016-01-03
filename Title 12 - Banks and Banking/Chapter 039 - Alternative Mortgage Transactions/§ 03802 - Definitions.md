@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term "alternative mortgage transaction" means a loan or credit sale secured byan interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
+&emsp;(1) the term "alternative mortgage transaction" means a loan or credit sale secured by an interest in residential real property, a dwelling, all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a residential manufactured home (as that term is defined in section 5402(6) of title 42), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined by applicable regulation; and
 
 &emsp;(2) the term "housing creditor" means—
 

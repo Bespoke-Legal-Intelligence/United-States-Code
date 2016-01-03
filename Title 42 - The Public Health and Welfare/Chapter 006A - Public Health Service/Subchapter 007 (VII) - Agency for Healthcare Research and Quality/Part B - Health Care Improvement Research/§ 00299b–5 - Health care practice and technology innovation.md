@@ -64,7 +64,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 &emsp;&emsp;(A) the examination and treatment by health professionals of individuals who are victims of sexual assault (including child molestation) or attempted sexual assault; and
 
-&emsp;&emsp;(B) the training of health professionals, in consultation with the Health Resources andServices Administration, on performing medical evidentiary examinations of individuals who are victims of child abuse or neglect, sexual assault, elder abuse, or domestic violence.
+&emsp;&emsp;(B) the training of health professionals, in consultation with the Health Resources and Services Administration, on performing medical evidentiary examinations of individuals who are victims of child abuse or neglect, sexual assault, elder abuse, or domestic violence.
 
 #### (2) Certain considerations
 

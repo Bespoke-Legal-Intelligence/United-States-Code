@@ -60,7 +60,7 @@
 
 (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, §321(b), title XV, §1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6),305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, §321(b), title XV, §1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
 
 #### Historical and Revision Notes
 
@@ -80,7 +80,7 @@ Paragraph (4) of subsection (a) is derived from section 216 of chapter X \[secti
 
 Subparagraph (C), as it applies in railroad cases, has the effect of overruling <i>St. Joe Paper Co. v. Atlantic Coast Line R. R</i>., 347 U.S. 298 (1954). It will allow the trustee or creditors to propose a plan of merger with another railroad without the consent of the debtor, and the debtor will be bound under proposed 11 U.S.C. 1141(a). See Hearings, pt. 3, at 1616. "Similar instrument" referred to in subparagraph (F) might include a deposit with an agent for distribution, other than an indenture trustee, such as an agent under an agreement in a railroad conditional sale or lease financing agreement.
 
-Paragraphs (5) and (6) and subsection (b) are derived substantially from Section 216 of Chapter X (\[former\] 11 U.S.C. 616). Paragraph (5) requires the plan to prohibit the issuance of nonvoting equity securities, and to provide for an appropriate distribution of voting poweramong the various classes of equity securities. Paragraph (6) requires that the plan contain only provisions that are consistent with the interests of creditors and equity security holders, and with public policy with respect to the selection of officers, directors, and trustees, and their successors.
+Paragraphs (5) and (6) and subsection (b) are derived substantially from Section 216 of Chapter X (\[former\] 11 U.S.C. 616). Paragraph (5) requires the plan to prohibit the issuance of nonvoting equity securities, and to provide for an appropriate distribution of voting power among the various classes of equity securities. Paragraph (6) requires that the plan contain only provisions that are consistent with the interests of creditors and equity security holders, and with public policy with respect to the selection of officers, directors, and trustees, and their successors.
 
 Subsection (b) specifies the matters that the plan may propose. The plan may impair or leave unimpaired any claim or interest. The plan may provide for the assumption or rejection of executory contracts or unexpired leases not previously rejected under section 365. The plan may also provide for the treatment of claims by the debtor against other entities that are not settled before the confirmation of the plan. The plan may propose settlement or adjustment of any claim or equity security belonging to the estate, or may propose retention and enforcement of such claim or interest by the debtor or by an agent appointed for that purpose.
 

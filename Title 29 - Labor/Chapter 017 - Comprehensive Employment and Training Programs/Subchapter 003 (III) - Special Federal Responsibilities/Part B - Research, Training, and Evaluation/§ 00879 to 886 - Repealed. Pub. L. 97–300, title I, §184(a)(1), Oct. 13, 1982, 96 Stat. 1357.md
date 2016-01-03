@@ -6,7 +6,7 @@ A prior section 311 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 860;
 
 Section 880, Pub. L. 93–203, title III, §312, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1970, provided for a labor market information and job bank program.
 
-A prior section 312 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 861, which related to development of a system of labor market information and establishment of a job bank program, was classified to former section 882 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 312 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 861, which related to development of a system of labor market information and establishment of a job bank program, was classified to former section 882of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 881, Pub. L. 93–203, title III, §313, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1971, related to evaluation of all programs and activities under this chapter.
 
@@ -16,7 +16,7 @@ A prior section 313 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 862,
 
 Section 882, Pub. L. 93–203, title III, §314, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1972; amended Pub. L. 96–88, title V, §508(h)(5), Oct. 17, 1979, 93 Stat. 693, provided for training and technical assistance with respect to programs under this chapter.
 
-A prior section 882, Pub. L. 93–203, title III, §312, Dec. 28, 1973, 87 Stat. 861, related to development of a system of labor market information and establishment of a jobbank program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 882, Pub. L. 93–203, title III, §312, Dec. 28, 1973, 87 Stat. 861, related to development of a system of labor market information and establishment of a job bank program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 A prior section 314 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 863, which related to a continuous study with respect to the removal of artificial barriers to employment and advancement, was classified to former section 884 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

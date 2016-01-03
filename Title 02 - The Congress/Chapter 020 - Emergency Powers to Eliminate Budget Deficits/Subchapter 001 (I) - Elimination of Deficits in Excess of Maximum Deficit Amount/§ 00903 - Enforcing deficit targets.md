@@ -56,7 +56,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (2) Part-year appropriations
 
-&emsp;If, on the date specified in subsection (a), there is in effect an Act making or continuingappropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
+&emsp;If, on the date specified in subsection (a), there is in effect an Act making or continuing appropriations for part of a fiscal year for any non-exempt budget account, then the dollar sequestration calculated for that account under subsection (d) or (e), as applicable, shall be subtracted from—
 
 &emsp;&emsp;(A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 

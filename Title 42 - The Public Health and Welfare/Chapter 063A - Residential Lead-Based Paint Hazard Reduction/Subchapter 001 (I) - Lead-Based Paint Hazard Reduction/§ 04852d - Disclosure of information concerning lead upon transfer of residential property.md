@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) disclose to the purchaser or lessee the presence of any known lead-based paint, or any known lead-based paint hazards, in such housing and provide to the purchaser or lessee any lead hazard evaluation report available to the seller or lessor; and
 
-&emsp;&emsp;(C) permit the purchaser a 10-day period (unless the parties mutually agree upon a different period of time) to conduct a risk assessment or inspection for the presence of lead-based paint hazards.
+&emsp;&emsp;(C) permit the purchaser a 10-day period (unless the parties mutually agree upon a different period of time) to conduct a riskassessment or inspection for the presence of lead-based paint hazards.
 
 #### (2) Contract for purchase and sale
 

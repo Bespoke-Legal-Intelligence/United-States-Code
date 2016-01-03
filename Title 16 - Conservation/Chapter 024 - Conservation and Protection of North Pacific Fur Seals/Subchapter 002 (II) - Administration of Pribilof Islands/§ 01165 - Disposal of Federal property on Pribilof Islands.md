@@ -6,7 +6,7 @@ Any provision of law relating to the transfer and disposal of Federal property t
 
 #### (b) Contents of property transfer document
 
-The property transfer document described in subsection (a) of this section shall include, but need not be limited to—
+The property transfer document described in subsection (a) shall include, but need not be limited to—
 
 &emsp;(1) a description of each conveyance;
 
@@ -22,9 +22,9 @@ The property transfer document described in subsection (a) of this section shall
 
 Not later than 3 months after December 23, 2000, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report that includes—
 
-&emsp;(1) a description of all property specified in the document referred to in subsection (a) of this section that has been conveyed under that subsection;
+&emsp;(1) a description of all property specified in the document referred to in subsection (a) that has been conveyed under that subsection;
 
-&emsp;(2) a description of all Federal property specified in the document referred to in subsection (a) of this section that is going to be conveyed under that subsection; and
+&emsp;(2) a description of all Federal property specified in the document referred to in subsection (a) that is going to be conveyed under that subsection; and
 
 &emsp;(3) an identification of all Federal property on the Pribilof Islands that will be retained by the Federal Government to meet its responsibilities under this chapter, the Convention, and any other applicable law.
 
@@ -74,7 +74,7 @@ Section 1166(a) of this title, referred to in subsec. (d)(6), was amended genera
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: "Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of theSenate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed."
+<b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: "Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed."
 
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: "The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section."
 

@@ -20,7 +20,7 @@
 
 #### (3) Power of Corporation
 
-&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right, title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
+&emsp;Notwithstanding any other provision of law, the Corporation is empowered, in connection with any guarantee under this subsection, whether before or after any default, to provide by contract with the facility for the extinguishment, on default by the facility, of any redemption, equitable, legal, or other right,title, or interest of the facility in any mortgage or mortgages constituting the pool against which the guaranteed securities are issued. With respect to any issue of guaranteed securities, in the event of default and pursuant otherwise to the terms of the contract, the mortgages that constitute such pool shall become the absolute property of the Corporation subject only to the unsatisfied rights of the holders of the securities based on and backed by such pool.
 
 #### (b) Other responsibilities of and limitations on certified facilities
 
@@ -148,7 +148,7 @@ Subsec. (f)(1). Pub. L. 100–399, §601(h), substituted "date of the enactment"
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendment
 

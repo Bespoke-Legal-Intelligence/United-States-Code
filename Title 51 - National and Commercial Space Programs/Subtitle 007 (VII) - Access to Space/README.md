@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 701 - Use of Space Shuttle or Alternatives](Chapter%20701%20-%20Use%20of%20Space%20Shuttle%20or%20Alternatives/README.md)
+- [Chapter 701 - Use of Space Launch System or Alternatives](Chapter%20701%20-%20Use%20of%20Space%20Launch%20System%20or%20Alternatives/README.md)
 - [Chapter 703 - Shuttle Pricing Policy for Commercial and Foreign Users](Chapter%20703%20-%20Shuttle%20Pricing%20Policy%20for%20Commercial%20and%20Foreign%20Users/README.md)
 - [Chapter 705 - Exploration Initiatives](Chapter%20705%20-%20Exploration%20Initiatives/README.md)
 - [Chapter 707 - Human Space Flight Independent Investigation Commission](Chapter%20707%20-%20Human%20Space%20Flight%20Independent%20Investigation%20Commission/README.md)

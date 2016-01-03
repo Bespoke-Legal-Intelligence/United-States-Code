@@ -238,7 +238,7 @@ Issuance of Rules and Guidelines.—The President (or the designee of the Presid
 
 &emsp;"(1) rules to carry out this title;
 
-&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine thebest practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
+&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
 
 &emsp;"(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
 
@@ -292,7 +292,7 @@ Study on Ascertainment of Certain Costs of the Department of Justice in Defendin
 
 &emsp;"(1)
 
-Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
+Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the GeneralAccounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
 &emsp;"(2)
 
@@ -456,7 +456,7 @@ Coordination.—The data required under this section shall be in addition to the
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
-\[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms,including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.\]
+\[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.\]
 
 \[Memorandum of President of the United States, July 8, 2003, 68 F.R. 45155, delegated to Director of Office of Personnel Management authority of President under section 204(a) of Public Law 107–174, set out above.\]
 

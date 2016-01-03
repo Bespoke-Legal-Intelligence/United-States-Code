@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (2) Civilian employees
 
-&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "active service", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
+&emsp;Gross income does not include compensation received for active service as an employee for any month during any part of which such employee is in a missing status during the Vietnam conflict as a result of such conflict. For purposes of this paragraph, the terms "activeservice", "employee", and "missing status" have the respective meanings given to such terms by section 5561 of title 5 of the United States Code.
 
 #### (3) Period of conflict
 
@@ -106,7 +106,7 @@ Pub. L. 89–739, §2, Nov. 2, 1966, 80 Stat. 1165, provided that: "The amendmen
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A-294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -182,7 +182,7 @@ General Rule.—For purposes of the following provisions of the Internal Revenue
 
 "(b)
 
-Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area'means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
+Qualified Hazardous Duty Area.—For purposes of this section, the term 'qualified hazardous duty area' means Bosnia and Herzegovina, Croatia, or Macedonia, if as of the date of the enactment of this section \[Mar. 20, 1996\] any member of the Armed Forces of the United States is entitled to special pay under section 310 of title 37, United States Code (relating to special pay; duty subject to hostile fire or imminent danger) for services performed in such country. Such term includes any such country only during the period such entitlement is in effect. Solely for purposes of applying section 7508 of the Internal Revenue Code of 1986, in the case of an individual who is performing services as part of Operation Joint Endeavor outside the United States while deployed away from such individual's permanent duty station, the term 'qualified hazardous duty area' includes, during the period for which such entitlement is in effect, any area in which such services are performed.
 
 "(c)
 
@@ -238,7 +238,7 @@ Ex. Ord. No. 11216, Apr. 24, 1965, 30 F.R. 5817, provided:
 
 Pursuant to the authority vested in me by section 112 of the Internal Revenue Code of 1954 \[now I.R.C. 1986\], I hereby designate, for the purposes of that section, as an area in which Armed Forces of the United States are and have been engaged in combat:
 
-Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.; thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
+Vietnam, including the waters adjacent thereto within the following-described limits: From a point on the East Coast of Vietnam at the juncture of Vietnam with China southeastward to 21° N Lat., 108°15′ E Long.;thence southward to 18° N Lat., 108°15′ E Long.; thence southeastward to 17°30 N Lat., 111° E Long.; thence southward to 11° N Lat., 111° E Long.; thence southwestward to 7° N Lat., 105° E Long.; thence westward to 7° N Lat., 103° E Long.; thence northward to 9°30′ N Lat., 103° E Long.; thence northeastward to 10°15′ N Lat., 104°27′ E Long.; thence northward to a point on the West Coast of Vietnam at the juncture of Vietnam with Cambodia.
 
 The date of the commencing of combatant activities in such area is hereby designated as January 1, 1964.
 

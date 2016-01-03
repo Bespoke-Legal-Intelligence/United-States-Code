@@ -8,7 +8,7 @@ Authority.—(1) Under regulations prescribed by the Secretary of Defense, the S
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
+(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and maynot duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
 
 (3) The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section—
 
@@ -40,7 +40,7 @@ Annual Report.—The Secretary of Defense shall include in the annual report und
 
 &emsp;(1) a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
 
-&emsp;(2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether suchassistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
+&emsp;(2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
 
 &emsp;(3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities or insufficient funding;
 
@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 Subsec. (d)(3). Pub. L. 113–291, §1041(a), inserted "or insufficient funding" after "such activities".
 
-Subsec. (e)(2). Pub. L. 113–291, §1041(b), substituted "small arms, and light weapons, including man-portable air-defense systems. Such term includes" for "and includes" and inserted before period at end ", small arms, and light weapons, including man-portable air-defense systems".
+Subsec. (e)(2). Pub. L. 113–291, §1041(b), substituted "small arms, and light weapons, including man-portable air-defense systems. Such term includes" for "and includes" and inserted before period at end ", smallarms, and light weapons, including man-portable air-defense systems".
 
 <b>2013</b>—Subsec. (d)(5). Pub. L. 113–66 added par. (5).
 
@@ -112,5 +112,5 @@ Terms and Conditions.—Any transfer of vehicles or spare parts under subsection
 
 "(c)
 
-Notification.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehiclesor spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate."
+Notification.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehicles or spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate."
 

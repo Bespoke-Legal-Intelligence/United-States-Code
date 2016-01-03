@@ -66,7 +66,7 @@
 
 #### (3) Farmhouses and certain other structures taken into account
 
-&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closely held business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
+&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closelyheld business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
 
 #### (4) Value
 
@@ -230,7 +230,7 @@ Any election under subsection (a) shall be made not later than the time prescrib
 
 #### (e) Proration of deficiency to installments
 
-If an election is made under subsection (a) to pay any part of the tax imposed by section 2001 in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a) to pay any part of the tax imposed by section 2001in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (f) Time for payment of interest
 
@@ -320,7 +320,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 #### (B) Payment within 6 months
 
-&emsp;&emsp;If any payment of principal or interest under this section is not paid on or beforethe date determined under subparagraph (A) but is paid within 6 months of such date—
+&emsp;&emsp;If any payment of principal or interest under this section is not paid on or before the date determined under subparagraph (A) but is paid within 6 months of such date—
 
 &emsp;&emsp;&emsp;(i) the provisions of subparagraph (A) shall not apply with respect to such payment,
 
@@ -386,7 +386,7 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 &emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(c)(2).</b>
 
-(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
+(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024-1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
 
 #### Prior Provisions
 

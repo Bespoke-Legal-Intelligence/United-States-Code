@@ -8,7 +8,7 @@ The Secretary shall mail to each partner whose name and address is furnished to 
 
 &emsp;(2) the final partnership administrative adjustment resulting from any such proceeding.
 
-> A partner shall not be entitled to any notice under this subsection unless the Secretary has received (at least 30 days before it is mailed to the tax matters partner) sufficient information to enable the Secretary to determine that such partner is entitled to such notice and to provide such notice to such partner.
+> A partner shall not be entitled to any notice under this subsection unless the Secretary has received (at least 30 days before it is mailed to the tax matters partner) sufficient information to enable the Secretary to determine that suchpartner is entitled to such notice and to provide such notice to such partner.
 
 #### (b) Special rules for partnership with more than 100 partners
 
@@ -109,4 +109,26 @@ To the extent and in the manner provided by regulations, the tax matters partner
 &emsp;In the case of a pass-thru partner which is a partnership, the tax matters partner of such partnership shall be responsible for forwarding copies of the notice to the partners of such partnership.
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 649.)
+
+#### Repeal and Reenactment of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 627, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6223 is enacted to read as follows:</i>
+
+#### §6223. Partners bound by actions of partnership
+
+#### <i>(a) Designation of partnership representative</i>
+
+<i>Each partnership shall designate (in the manner prescribed by the Secretary) a partner (or other person) with a substantial presence in the United States as the partnership representative who shall have the sole authority to act on behalf of the partnership under this subchapter. In any case in which such a designation is not in effect, the Secretary may select any person as the partnership representative.</i>
+
+#### <i>(b) Binding effect</i>
+
+<i>A partnership and all partners of such partnership shall be bound—</i>
+
+&emsp;<i>(1) by actions taken under this subchapter by the partnership, and</i>
+
+&emsp;<i>(2) by any final decision in a proceeding brought under this subchapter with respect to the partnership.</i>
+
+#### Effective Date of Repeal and Reenactment
+
+Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 

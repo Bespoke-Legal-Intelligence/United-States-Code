@@ -10,7 +10,7 @@ Applicability.—The research, development, and technology provisions of this se
 
 &emsp;(2)
 
-Coverage.—Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction ofnew and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
+Coverage.—Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction of new and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
 
 &emsp;(3)
 
@@ -80,7 +80,7 @@ In general.—To the maximum extent practicable, all surface transportation rese
 
 &emsp;&emsp;(B)
 
-Performance measures.—Performance measures shall be established during the proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
+Performance measures.—Performance measures shall be established duringthe proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
 
 &emsp;&emsp;(C)
 
@@ -92,7 +92,7 @@ Availability of evaluations.—All evaluations under this paragraph shall be mad
 
 &emsp;(9)
 
-Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and technology development strategic plan developed under section 508.
+Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49.
 
 (b)
 
@@ -124,7 +124,7 @@ Cooperation, grants, and contracts.—The Secretary may carry out research, deve
 
 &emsp;(4)
 
-Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and development strategicplan of the Secretary developed under section 508.
+Technological innovation.—The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49.
 
 &emsp;(5)
 
@@ -300,7 +300,7 @@ Prize increases.—The Secretary may increase the amount of a prize after the in
 
 &emsp;&emsp;&emsp;(vi)
 
-Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
+Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days haveelapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
 
 &emsp;&emsp;&emsp;(vii)
 
@@ -378,7 +378,7 @@ Use of technology.—The research, development, or use of a technology under a c
 
 Waiver of advertising requirements.—Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
-(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866.)
+(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1),Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, §6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
 
 #### References in Text
 
@@ -391,6 +391,10 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 A prior section 502, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to State assurances of adequate highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(9). Pub. L. 114–94, §6019(d)(1)(C)(i), substituted "transportation research and development strategic plan under section 6503 of title 49" for "transportation research and technology development strategic plan developed under section 508".
+
+Subsec. (b)(4). Pub. L. 114–94, §6019(d)(1)(C)(ii), substituted "transportation research and development strategic plan under section 6503 of title 49" for "transportation research and development strategic plan of the Secretary developed under section 508".
 
 <b>2012</b>—Pub. L. 112–141, §52002(a)(1), which directed insertion of ", development, and technology" after "surface transportation research" in section catchline, was executed by making the insertion after "Surface transportation research", to reflect the probable intent of Congress.
 
@@ -416,7 +420,7 @@ Subsec. (a)(4)(B) to (G). Pub. L. 112–141, §52002(a)(2)(E), added subpars. (B
 
 Subsec. (a)(5). Pub. L. 112–141, §52002(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(5)(C). Pub. L. 112–141, §52002(a)(2)(F), substituted "all highway objectives seeking to improvethe performance of the transportation system" for "policy and planning".
+Subsec. (a)(5)(C). Pub. L. 112–141, §52002(a)(2)(F), substituted "all highway objectives seeking to improve the performance of the transportation system" for "policy and planning".
 
 Subsec. (a)(6). Pub. L. 112–141, §52002(a)(2)(A), (G), redesignated par. (5) as (6) and inserted "tribal governments," after "local governments,". Former par. (6) redesignated (7).
 
@@ -490,6 +494,10 @@ Subsec. (i). Pub. L. 109–59, §5201(l), added subsec. (i).
 
 Subsec. (j). Pub. L. 109–59, §5202(a)(1), added subsec. (j).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -504,7 +512,7 @@ In General.—The Secretary \[of Transportation\] shall fund and carry out a pro
 
 "(b)
 
-Purposes.—The purpose of the TSIMS project is to further the development of a software application toprovide for the collection, integration, management, and dissemination of safety data from and for use among State and local safety and transportation agencies, including driver licensing, vehicle registration, emergency management system, injury surveillance, roadway inventory, and motor carrier databases.
+Purposes.—The purpose of the TSIMS project is to further the development of a software application to provide for the collection, integration, management, and dissemination of safety data from and for use among State and local safety and transportation agencies, including driver licensing, vehicle registration, emergency management system, injury surveillance, roadway inventory, and motor carrier databases.
 
 "(c)
 
@@ -554,7 +562,7 @@ Technical Assistance and Training.—In fiscal year 2006, the Secretary \[of Tra
 
 "(d)
 
-Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2), $750,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsection (c) of this subsection."
+Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2),$750,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsection (c) of this subsection."
 
 #### Thermal Imaging
 
@@ -688,7 +696,7 @@ Grants.—In carrying out this paragraph, the Secretary may make grants to State
 
 &emsp;&emsp;"(C)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section 5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
 
 &emsp;"(2)
 
@@ -808,7 +816,7 @@ Requirements.—The Secretary shall award contracts under clause (i)—
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain such provisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
+Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain suchprovisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
 
 &emsp;&emsp;"(E)
 
@@ -868,7 +876,7 @@ Corrosion control and prevention.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, theSecretary shall submit to Congress a report on the study results, together with any recommendations.
+In general.—The Secretary shall make a grant to conduct a study on the costs and benefits of corrosion control and prevention. The study shall be conducted in conjunction with an interdisciplinary team of experts from the fields of metallurgy, chemistry, economics, and others, as appropriate. Not later than September 30, 2001, the Secretary shall submit to Congress a report on the study results, together with any recommendations.
 
 &emsp;&emsp;"(B)
 
@@ -972,7 +980,7 @@ Funding.—Of the amounts made available for each of fiscal years 1998 through 2
 
 #### Intelligent Transportation Systems
 
-Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828, provided that:
+Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
 
 #### "SEC. 5201. SHORT TITLE.
 
@@ -1038,7 +1046,7 @@ Consultation With Federal Officials.—In carrying out the intelligent transport
 
 "(e)
 
-Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
+Technical Assistance, Training, and Information.—The Secretary may provide technical assistance,training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
 
 "(f)
 
@@ -1118,7 +1126,7 @@ Special rule.—Any survey, questionnaire, or interview that the Secretary consi
 
 "(k)
 
-Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3)and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
+Use of Rights-of-Way.—Intelligent transportation system projects specified in section 5117(b)(3) and 5117(b)(6) \[set out above\] and involving privately owned intelligent transportation system components that is carried out using funds made available from the Highway Trust Fund shall not be subject to any law or regulation of a State or political subdivision of a State prohibiting or regulating commercial activities in the rights-of-way of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance, if the Secretary of Transportation determines that such use is in the public interest. Nothing in this subsection shall affect the authority of a State or political subdivision of a State to regulate highway safety.
 
 #### "SEC. 5205. NATIONAL ITS PROGRAM PLAN.
 
@@ -1144,7 +1152,7 @@ Scope.—The National ITS Program Plan shall—
 
 "(b)
 
-Reporting.—The plan described in subsection (a) shall be transmitted and updated as part of the Surface Transportation Research and Development Strategic Plan developed under section 508 of title 23, United States Code.
+Reporting.—The plan described in subsection (a) shall be transmitted and updated as part of the transportation research and development strategic plan under section 6503 of title 49, United States Code.
 
 #### "SEC. 5206. NATIONAL ARCHITECTURE AND STANDARDS.
 
@@ -1166,7 +1174,7 @@ Use of standards development organizations.—In carrying out this section, the 
 
 "(b)
 
-Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
+Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards andspecifying the status of the development of each standard identified.
 
 "(c)
 
@@ -1212,7 +1220,7 @@ In general.—Except as provided in paragraphs (2) and (3), the Secretary shall 
 
 Secretary's discretion.—The Secretary may authorize exceptions to paragraph (1) for—
 
-&emsp;&emsp;"(A) projects designed to achieve specific research objectives outlined in the National ITS Program Plan under section 5205 or the Surface Transportation Research and Development Strategic Plan developed under section 508 of title 23, United States Code; or
+&emsp;&emsp;"(A) projects designed to achieve specific research objectives outlined in the National ITS Program Plan under section 5205 or the transportation research and development strategic plan under section 6503 of title 49, United States Code; or
 
 &emsp;&emsp;"(B) the upgrade or expansion of an intelligent transportation system in existence on the date of enactment of this subtitle \[June 9, 1998\], if the Secretary determines that the upgrade or expansion—
 
@@ -1424,7 +1432,7 @@ Chairman.—The chairman of the advisory committee shall be designated by the Se
 
 "(e)
 
-Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in the business of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in thebusiness of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
 "(f)
 
@@ -1444,7 +1452,7 @@ Termination.—Section 14 of the Federal Advisory Committee Act \[5 U.S.C. App.\
 
 #### Fundamental Properties of Asphalts and Modified Asphalts
 
-Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
+Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I, §1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

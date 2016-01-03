@@ -28,35 +28,153 @@ For purposes of this section, the term "qualified tax collection contract" means
 
 &emsp;(4) permits subcontractors to perform other services only with the approval of the Secretary.
 
-#### (c) Fees
+#### (c) Collection of inactive tax receivables
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, the Secretary shall enter into one or more qualified tax collection contracts for the collection of all outstanding inactive tax receivables.
+
+#### (2) Inactive tax receivables
+
+&emsp;For purposes of this section—
+
+#### (A) In general
+
+&emsp;&emsp;The term "inactive tax receivable" means any tax receivable if—
+
+&emsp;&emsp;&emsp;(i) at any time after assessment, the Internal Revenue Service removes such receivable from the active inventory for lack of resources or inability to locate the taxpayer,
+
+&emsp;&emsp;&emsp;(ii) more than 1/3 of the period of the applicable statute of limitation has lapsed and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
+
+&emsp;&emsp;&emsp;(iii) in the case of a receivable which has been assigned for collection, more than 365 days have passed without interaction with the taxpayer or a third party for purposes of furthering the collection of such receivable.
+
+#### (B) Tax receivable
+
+&emsp;&emsp;The term "tax receivable" means any outstanding assessment which the Internal Revenue Service includes in potentially collectible inventory.
+
+#### (d) Certain tax receivables not eligible for collection under qualified tax collections contracts
+
+A tax receivable shall not be eligible for collection pursuant to a qualified tax collection contract if such receivable—
+
+&emsp;(1) is subject to a pending or active offer-in-compromise or installment agreement,
+
+&emsp;(2) is classified as an innocent spouse case,
+
+&emsp;(3) involves a taxpayer identified by the Secretary as being—
+
+&emsp;&emsp;(A) deceased,
+
+&emsp;&emsp;(B) under the age of 18,
+
+&emsp;&emsp;(C) in a designated combat zone, or
+
+&emsp;&emsp;(D) a victim of tax-related identity theft,
+
+&emsp;(4) is currently under examination, litigation, criminal investigation, or levy, or
+
+&emsp;(5) is currently subject to a proper exercise of a right of appeal under this title.
+
+#### (e) Fees
 
 The Secretary may retain and use—
 
 &emsp;(1) an amount not in excess of 25 percent of the amount collected under any qualified tax collection contract for the costs of services performed under such contract, and
 
-&emsp;(2) an amount not in excess of 25 percent of such amount collected for collection enforcement activities of the Internal Revenue Service.
+&emsp;(2) an amount not in excess of 25 percent of such amount collected to fund the special compliance personnel program account under section 6307.
 
 > The Secretary shall keep adequate records regarding amounts so retained and used. The amount credited as paid by any taxpayer shall be determined without regard to this subsection.
 
-#### (d) No Federal liability
+#### (f) No Federal liability
 
 The United States shall not be liable for any act or omission of any person performing services under a qualified tax collection contract.
 
-#### (e) Application of Fair Debt Collection Practices Act
+#### (g) Application of Fair Debt Collection Practices Act
 
 The provisions of the Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) shall apply to any qualified tax collection contract, except to the extent superseded by section 6304, section 7602(c), or by any other provision of this title.
 
-#### (f) Cross references
+#### (h) Contracting priority
+
+In contracting for the services of any person under this section, the Secretary shall utilize private collection contractors and debt collection centers on the schedule required under section 3711(g) of title 31, United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
+
+#### (i) Taxpayers in presidentially declared disaster areas
+
+The Secretary may prescribe procedures under which a taxpayer determined to be affected by a Federally declared disaster (as defined by section 165(i)(5)) may request—
+
+&emsp;(1) relief from immediate collection measures by contractors under this section, and
+
+&emsp;(2) a return of the inactive tax receivable to the inventory of the Internal Revenue Service to be collected by an employee thereof.
+
+#### (j) Report to Congress
+
+Not later than 90 days after the last day of each fiscal year (beginning with the first such fiscal year ending after the date of the enactment of this subsection), the Secretary shall submit to the Committee on Ways and Means ofthe House of Representatives and the Committee on Finance of the Senate a report with respect to qualified tax collection contracts under this section which shall include—
+
+&emsp;(1) annually, with respect to such fiscal year—
+
+&emsp;&emsp;(A) the total number and amount of tax receivables provided to each contractor for collection under this section,
+
+&emsp;&emsp;(B) the total amounts collected (and amounts of installment agreements entered into under subsection (b)(1)(B)) with respect to each contractor and the collection costs incurred (directly and indirectly) by the Internal Revenue Service with respect to such amounts,
+
+&emsp;&emsp;(C) the impact of such contracts on the total number and amount of unpaid assessments, and on the number and amount of assessments collected by Internal Revenue Service personnel after initial contact by a contractor,
+
+&emsp;&emsp;(D) the amount of fees retained by the Secretary under subsection (e) and a description of the use of such funds, and
+
+&emsp;&emsp;(E) a disclosure safeguard report in a form similar to that required under section 6103(p)(5), and
+
+&emsp;(2) biannually (beginning with the second report submitted under this subsection)—
+
+&emsp;&emsp;(A) an independent evaluation of contractor performance, and
+
+&emsp;&emsp;(B) a measurement plan that includes a comparison of the best practices used by the private collectors to the collection techniques used by the Internal Revenue Service and mechanisms to identify and capture information on successful collection techniques used by the contractors that could be adopted by the Internal Revenue Service.
+
+#### (k) Cross references
 
 &emsp;&emsp;<b>(1) For damages for certain unauthorized collection actions by persons performing services under a qualified tax collection contract, see section 7433A.</b>
 
 &emsp;&emsp;<b>(2) For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).</b>
 
-(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625.)
+(Added Pub. L. 108–357, title VIII, §881(a)(1), Oct. 22, 2004, 118 Stat. 1625; amended Pub. L. 114–94, div. C, title XXXII, §§32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, 129 Stat. 1733–1736.)
 
 #### References in Text
 
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–94, §32102(a), added subsec. (c). Former subsec. (c) redesignated (e).
+
+Subsec. (d). Pub. L. 114–94, §32102(b), added subsec. (d). Former subsec. (d) redesignated (f).
+
+Subsec. (e). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
+
+Subsec. (e)(2). Pub. L. 114–94, §32103(a), substituted "to fund the special compliance personnel program account under section 6307" for "for collection enforcement activities of the Internal Revenue Service".
+
+Subsec. (f). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
+
+Subsec. (g). Pub. L. 114–94, §32102(a), (b), successively redesignated subsec. (e) as (f) and then as (g).
+
+Subsec. (h). Pub. L. 114–94, §32102(c), added subsec. (h).
+
+Subsec. (i). Pub. L. 114–94, §32102(e), added subsec. (i).
+
+Subsec. (j). Pub. L. 114–94, §32102(f)(1), added subsec. (j).
+
+Subsec. (k). Pub. L. 114–94, §32102(a), (b), (c), (e), (f)(1), successively redesignated subsec. (f) as (g), (h), (i), (j), and then (k).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. C, title XXXII, §32102(g)(1), (2), Dec. 4, 2015, 129 Stat. 1736, provided that:
+
+"(1)
+
+In general.—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to tax receivables identified by the Secretary \[probably means Secretary of the Treasury\] after the date of the enactment of this Act \[Dec. 4, 2015\].
+
+"(2)
+
+Contracting priority.—The Secretary shall begin entering into contracts and agreements as described in the amendment made by subsection (c) \[amending this section\] within 3 months after the date of the enactment of this Act."
+
+Pub. L. 114–94, div. C, title XXXII, §32102(g)(4), Dec. 4, 2015, 129 Stat. 1736, provided that: "The amendments made by subsections (e) and (f) \[amending this section and repealing provisions formerly set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Dec. 4, 2015\]."
+
+Pub. L. 114–94, div. C, title XXXII, §32103(d), Dec. 4, 2015, 129 Stat. 1738, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts collected and retained by the Secretary \[probably means Secretary of the Treasury\] after the date of the enactment of this Act \[Dec. 4, 2015\]."
 
 #### Effective Date
 
@@ -64,19 +182,5 @@ Pub. L. 108–357, title VIII, §881(f), Oct. 22, 2004, 118 Stat. 1627, provided
 
 #### Biennial Report
 
-Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, provided that: "The Secretary of the Treasury shall biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under section 6306 of the Internal Revenue Code of 1986 (as added by this section) which includes—
-
-&emsp;"(1) a complete cost benefit analysis,
-
-&emsp;"(2) the impact of such contracts on collection enforcement staff levels in the Internal Revenue Service,
-
-&emsp;"(3) the impact of such contracts on the total number and amount of unpaid assessments, and on the number and amount of assessments collected by Internal Revenue Service personnel after initial contact by a contractor,
-
-&emsp;"(4) the amounts collected and the collection costs incurred (directly and indirectly) by the Internal Revenue Service,
-
-&emsp;"(5) an evaluation of contractor performance,
-
-&emsp;"(6) a disclosure safeguard report in a form similar to that required under section 6103(p)(5) of such Code, and
-
-&emsp;"(7) a measurement plan which includes a comparison of the best practices used by the private collectors with the Internal Revenue Service's own collection techniques and mechanisms to identify and capture information on successful collection techniques used by the contractors which could be adopted by the Internal Revenue Service."
+Pub. L. 108–357, title VIII, §881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, §32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
 

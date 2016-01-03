@@ -26,7 +26,7 @@
 
 (2) Authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase or gift.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2233; Pub. L. 85–685, title VI, §601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, §1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, §703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, §703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, §1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, §702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, §2801, Dec. 5, 1991, 105 Stat. 1537; renumbered §18233 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–65, div. B, title XXVIII, §2805, Oct. 5, 1999, 113 Stat. 850; Pub. L. 108–375, div. B, title XXVIII, §2809(b), Oct. 28, 2004, 118 Stat. 2127; Pub. L. 109–364, div. A, title X, §1071(a)(42), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. B, title XXVIII, §2805, Oct. 28, 2009, 123 Stat. 2662.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 121, §2233; Pub. L. 85–685, title VI, §601(1), (2), Aug. 20, 1958, 72 Stat. 664; Pub. L. 85–861, §1(37)–(39), Sept. 2, 1958, 72 Stat. 1456; Pub. L. 96–125, title VII, §703, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title VIII, §§803, 804, Dec. 23, 1981, 95 Stat. 1380, 1381; Pub. L. 97–214, §§3(a), (d)(2), (e)(1), 10(a)(2), July 12, 1982, 96 Stat. 169, 170, 175; Pub. L. 98–407, title VII, §703(a), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 98–525, title XIV, §1405(34), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–167, title VII, §702(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 102–190, div. B, title XXVIII, §2801, Dec. 5, 1991, 105 Stat. 1537; renumbered§18233 and amended Pub. L. 103–337, div. A, title XVI, §1664(b)(2), (4), Oct. 5, 1994, 108 Stat. 3010; Pub. L. 106–65, div. B, title XXVIII, §2805, Oct. 5, 1999, 113 Stat. 850; Pub. L. 108–375, div. B, title XXVIII, §2809(b), Oct. 28, 2004, 118 Stat. 2127; Pub. L. 109–364, div. A, title X, §1071(a)(42), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. B, title XXVIII, §2805, Oct. 28, 2009, 123 Stat. 2662.)
 
 Historical and Revision Notes<br>1956
 
@@ -62,7 +62,7 @@ In subsection (a)(3), the words "to be required" are substituted for the words "
 
 In subsection (b), the words "real or personal" are omitted as surplusage.
 
-In subsection (c), the words "all or \* \* \* part", "conferred", "imposed", "without relieving himself of theresponsibility therefor", "or officers", and "as he may designate from time to time" are omitted as surplusage.
+In subsection (c), the words "all or \* \* \* part", "conferred", "imposed", "without relieving himself of the responsibility therefor", "or officers", and "as he may designate from time to time" are omitted as surplusage.
 
 1958
 
@@ -164,5 +164,5 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 #### Obligation of Funds Before July 1, 1958
 
-Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not more than $580,000,000 could be obligated for the purposes of this section before July 1,1958, but with such limitation not applicable to the expenses for the leasing of property under subsec. (a)(1) of this section.
+Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not more than $580,000,000 could be obligated for the purposes of this section before July 1, 1958, but with such limitation not applicable to the expenses for the leasing of property under subsec. (a)(1) of this section.
 

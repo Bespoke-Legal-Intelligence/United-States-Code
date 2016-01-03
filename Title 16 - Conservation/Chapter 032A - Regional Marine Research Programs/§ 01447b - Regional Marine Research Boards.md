@@ -22,7 +22,7 @@ A Regional Marine Research board <sup>1</sup> shall be established for each of 
 
 &emsp;(9) insular Pacific region, comprised of the marine and coastal waters off the State of Hawaii, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-> The Great Lakes Research Office authorized under section 1268(d) of title 33 shall be responsible for research in the Great Lakes region and shall be considered the Great Lakes counterpart to the research program established pursuant to this chapter.
+> The Great Lakes Research Office authorized under section 1268(d) of title 33 shall be responsible for research in the Great Lakes region andshall be considered the Great Lakes counterpart to the research program established pursuant to this chapter.
 
 #### (b) Membership
 
@@ -108,7 +108,7 @@ Each Board shall cease to exist on October 1, 1999, unless extended by Congress.
 
 #### References in Text
 
-This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§1431 et seq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
+This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§1431 etseq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

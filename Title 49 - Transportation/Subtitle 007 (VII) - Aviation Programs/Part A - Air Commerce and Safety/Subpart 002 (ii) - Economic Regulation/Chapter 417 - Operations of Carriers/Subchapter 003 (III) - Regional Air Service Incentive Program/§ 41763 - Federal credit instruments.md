@@ -20,7 +20,7 @@ In general.—A secured loan under this section with respect to an aircraft purc
 
 Maximum amount.—No secured loan may be made under this section—
 
-&emsp;&emsp;&emsp;(i) that extends to more than 50 percent of the purchase price (including the valueof any manufacturer credits, post-purchase options, or other discounts) of the aircraft, including spare parts, to be purchased; or
+&emsp;&emsp;&emsp;(i) that extends to more than 50 percent of the purchase price (including the value of any manufacturer credits, post-purchase options, or other discounts) of the aircraft, including spare parts, to be purchased; or
 
 &emsp;&emsp;&emsp;(ii) that, when added to the remaining balance on any other Federal credit instruments made under this subchapter, provides more than $100,000,000 of outstanding credit to any single obligor.
 
@@ -54,7 +54,7 @@ Prepayment.—
 
 &emsp;&emsp;(A)
 
-Use of excess revenue.—After satisfying scheduled debt service requirements on all financial obligations and secured loans and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing financial obligations, the secured loan may be prepaid at anytime without penalty.
+Use of excess revenue.—After satisfying scheduled debt service requirements on all financial obligations and secured loansand all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing financial obligations, the secured loan may be prepaid at anytime without penalty.
 
 &emsp;&emsp;(B)
 
@@ -138,7 +138,7 @@ Subordination.—A direct loan under this subsection may be subordinate to claim
 
 &emsp;&emsp;(G)
 
-Fees.—The Secretary, subject to appropriations, may establish fees at a levelsufficient to cover all of a portion of the administrative costs to the United States Government of providing a line of credit under this subsection. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
+Fees.—The Secretary, subject to appropriations, may establish fees at a level sufficient to cover all of a portion of the administrative costs to the United States Government of providing a line of credit under this subsection. The proceeds of such fees shall be deposited in an account to be used by the Secretary for the purpose of administering the program established under this subchapter and shall be available upon deposit until expended.
 
 &emsp;(3)
 
@@ -164,7 +164,7 @@ Conditions.—Subject to subsection (h), the Secretary may only make a Federal c
 
 &emsp;(2) the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to use the aircraft to provide service to underserved markets; and
 
-&emsp;(3) the prospective earning power of the commuter air carrier or new entrant air carrier, together with the character and value of the security pledged, including the collateral value of the aircraft being acquired and any other assets or pledges used to secure the Federal credit instrument, furnish—
+&emsp;(3) the prospective earning power of the commuter air carrier or new entrant air carrier,together with the character and value of the security pledged, including the collateral value of the aircraft being acquired and any other assets or pledges used to secure the Federal credit instrument, furnish—
 
 &emsp;&emsp;(A) reasonable assurances of the air carrier's ability and intention to repay the Federal credit instrument within the terms established by the Secretary—
 

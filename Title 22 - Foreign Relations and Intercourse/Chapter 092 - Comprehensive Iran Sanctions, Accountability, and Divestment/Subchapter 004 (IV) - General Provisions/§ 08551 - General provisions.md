@@ -6,7 +6,7 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 &emsp;(1) the Government of Iran has ceased providing support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism (as defined in section 301 \[22 U.S.C. 8541\]) under—
 
-&emsp;&emsp;(A) section 2405(j)(1)(A) of the Appendix to title 50 (or any successor thereto);
+&emsp;&emsp;(A) section 4605(j)(1)(A) of title 50 (or any successor thereto);
 
 &emsp;&emsp;(B) section 2780(d) of this title; or
 
@@ -24,11 +24,11 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 #### (A) In general
 
-&emsp;&emsp;If the President waives the application of a provision pursuant to paragraph (1), the President shall submit to the appropriate congressional committees a report describing the reasons for the waiver.
+&emsp;&emsp;If the President waives the application of a provision pursuant to paragraph (1), thePresident shall submit to the appropriate congressional committees a report describing the reasons for the waiver.
 
 #### (B) Special rule for report on waiving imposition of licensing requirement under section 303(c)
 
-&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether thegovernment of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
+&emsp;&emsp;In any case in which the President waives, pursuant to paragraph (1), the imposition of the licensing requirement under section 303(c) \[22 U.S.C. 8543(c)\] with respect to a country designated as a Destination of Diversion Concern under section 303(a) \[22 U.S.C. 8543(a)\], the President shall include in the report required by subparagraph (A) of this paragraph an assessment of whether the government of the country is taking the steps described in subparagraph (A) of section 303(d)(1) \[22 U.S.C. 8543(d)(1)(A)\].
 
 #### (c) Authorizations of appropriations
 
@@ -44,7 +44,7 @@ The provisions of this Act (other than sections 105 and 305 \[22 U.S.C. 8514, 85
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 16 of the Appendix to Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 16 of the Appendix to Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 16 of the Appendix to Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+This Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, known as the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, which enacted this chapter, amended sections 287c, 2778, and 2780 of this title, section 80a–13 of Title 15, Commerce and Trade, section 310 of Title 31, Money and Finance, and section 4315 of Title 50, War and National Defense, enacted provisions set out as notes under section 80a–13 of Title 15 and section 1701 of Title 50, and amended provisions set out as notes under section 1701 of Title 50. Title I of the Act enacted subchapter I of this chapter, amended sections 287c, 2778, and 2780 of this title, section 310 of Title 31, and section 4315 of Title 50, enacted provisions set out as a note under section 1701 of Title 50, and amended provisions set out as a note under section 1701 of Title 50. Title III of the Act enacted subchapter III of this chapter. Section 102 of the Act enacted and amended provisions set out as notes under section 1701 of Title 50. Section 107 of the Act amended sections 287c, 2778, and 2780 of this title and section 4315 of Title 50. Section 109 of the Act enacted section 8517 of this title and amended section 310 of Title 31. Section 205 of the Act amended section 80a–13 of Title 15, enacted provisions set out as a note under section 80a–13 of Title 15, and amended provisions set out as a note under section 1701 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
 #### Amendments
 

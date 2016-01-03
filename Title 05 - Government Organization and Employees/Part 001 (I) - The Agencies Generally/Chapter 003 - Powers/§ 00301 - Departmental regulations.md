@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -29,6 +29,144 @@ The words "or military department" are inserted to preserve the application of t
 This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Federal Cybersecurity Workforce Assessment
+
+Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, provided that:
+
+#### "SEC. 301. SHORT TITLE.
+
+"This title may be cited as the 'Federal Cybersecurity Workforce Assessment Act of 2015'.
+
+#### "SEC. 302. DEFINITIONS.
+
+"In this title:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(C) the Select Committee on Intelligence of the Senate;
+
+&emsp;&emsp;"(D) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;&emsp;"(E) the Committee on Armed Services of the House of Representatives;
+
+&emsp;&emsp;"(F) the Committee on Homeland Security of the House of Representatives;
+
+&emsp;&emsp;"(G) the Committee on Oversight and Government Reform of the House of Representatives; and
+
+&emsp;&emsp;"(H) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Director.—The term 'Director' means the Director of the Office of Personnel Management.
+
+&emsp;"(3)
+
+National initiative for cybersecurity education.—The term 'National Initiative for Cybersecurity Education' means the initiative under the national cybersecurity awareness and education program, as authorized under section 401 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7451).
+
+&emsp;"(4)
+
+Work roles.—The term 'work roles' means a specialized set of tasks and functions requiring specific knowledge, skills, and abilities.
+
+#### "SEC. 303. NATIONAL CYBERSECURITY WORKFORCE MEASUREMENT INITIATIVE.
+
+"(a)
+
+In General.—The head of each Federal agency shall—
+
+&emsp;"(1) identify all positions within the agency that require the performance of cybersecurity or other cyber-related functions; and
+
+&emsp;"(2) assign the corresponding employment code under the National Initiative for Cybersecurity Education in accordance with subsection (b).
+
+"(b)
+
+Employment Codes.—
+
+&emsp;"(1)
+
+Procedures.—
+
+&emsp;&emsp;"(A)
+
+Coding structure.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\], the Director, in coordination with the National Institute of Standards and Technology, shall develop a coding structure under the National Initiative for Cybersecurity Education.
+
+&emsp;&emsp;"(B)
+
+Identification of civilian cyber personnel.—Not later than 9 months after the date of enactment of this Act, the Director, in coordination with the Secretary of Homeland Security, the Director of the National Institute of Standards and Technology, and the Director of National Intelligence, shall establish procedures to implement the National Initiative for Cybersecurity Education coding structure to identify all Federal civilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions.
+
+&emsp;&emsp;"(C)
+
+Identification of noncivilian cyber personnel.—Not later than 18 months after the date of enactment of this Act, the Secretary of Defense shall establish procedures to implement the National Initiative for Cybersecurity Education's coding structure to identify all Federal noncivilian positions that require the performance of information technology, cybersecurity, or other cyber-related functions.
+
+&emsp;&emsp;"(D)
+
+Baseline assessment of existing cybersecurity workforce.—Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall submit to the appropriate congressional committees of jurisdiction a report that identifies—
+
+&emsp;&emsp;&emsp;"(i) the percentage of personnel with information technology, cybersecurity, or other cyber-related job functions who currently hold the appropriate industry-recognized certifications as identified under the National Initiative for Cybersecurity Education;
+
+&emsp;&emsp;&emsp;"(ii) the level of preparedness of other civilian and noncivilian cyber personnel without existing credentials to take certification exams; and
+
+&emsp;&emsp;&emsp;"(iii) a strategy for mitigating any gaps identified in clause (i) or (ii) with the appropriate training and certification for existing personnel.
+
+&emsp;&emsp;"(E)
+
+Procedures for assigning codes.—Not later than 3 months after the date on which the procedures are developed under subparagraphs (B) and (C), respectively, the head of each Federal agency shall establish procedures—
+
+&emsp;&emsp;&emsp;"(i) to identify all encumbered and vacant positions with information technology, cybersecurity, or other cyber-related functions (as defined in the National Initiative for Cybersecurity Education's coding structure); and
+
+&emsp;&emsp;&emsp;"(ii) to assign the appropriate employment code to each such position, using agreed standards and definitions.
+
+&emsp;"(2)
+
+Code assignments.—Not later than 1 year after the date after the procedures are established under paragraph (1)(E), the head of each Federal agency shall complete assignment of the appropriate employment code to each position within the agency with information technology, cybersecurity, or other cyber-related functions.
+
+"(c)
+
+Progress Report.—Not later than 180 days after the date of enactment of this Act, the Director shall submit a progress report on the implementation of this section to the appropriate congressional committees.
+
+#### "SEC. 304. IDENTIFICATION OF CYBER-RELATED WORK ROLES OF CRITICAL NEED.
+
+"(a)
+
+In General.—Beginning not later than 1 year after the date on which the employment codes are assigned to employees pursuant to section 303(b)(2), and annually thereafter through 2022, the head of each Federal agency, in consultation with the Director, the Director of the National Institute of Standards and Technology, and the Secretary of Homeland Security, shall—
+
+&emsp;"(1) identify information technology, cybersecurity, or other cyber-related work roles of critical need in the agency's workforce; and
+
+&emsp;"(2) submit a report to the Director that—
+
+&emsp;&emsp;"(A) describes the information technology, cybersecurity, or other cyber-related roles identified under paragraph (1); and
+
+&emsp;&emsp;"(B) substantiates the critical need designations.
+
+"(b)
+
+Guidance.—The Director shall provide Federal agencies with timely guidance for identifying information technology, cybersecurity, or other cyber-related roles of critical need, including—
+
+&emsp;"(1) current information technology, cybersecurity, and other cyber-related roles with acute skill shortages; and
+
+&emsp;"(2) information technology, cybersecurity, or other cyber-related roles with emerging skill shortages.
+
+"(c)
+
+Cybersecurity Needs Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], the Director, in consultation with the Secretary of Homeland Security, shall—
+
+&emsp;"(1) identify critical needs for information technology, cybersecurity, or other cyber-related workforce across all Federal agencies; and
+
+&emsp;"(2) submit a progress report on the implementation of this section to the appropriate congressional committees.
+
+#### "SEC. 305. GOVERNMENT ACCOUNTABILITY OFFICE STATUS REPORTS.
+
+"The Comptroller General of the United States shall—
+
+&emsp;"(1) analyze and monitor the implementation of sections 303 and 304; and
+
+&emsp;"(2) not later than 3 years after the date of the enactment of this Act \[Dec. 18, 2015\], submit a report to the appropriate congressional committees that describes the status of such implementation."
 
 #### Plain Writing in Government Documents
 
@@ -136,7 +274,7 @@ Initial Report.—Not later than 9 months after the date of enactment of this Ac
 
 "(b)
 
-Annual Compliance Report.—Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website areport on agency compliance with the requirements of this Act.
+Annual Compliance Report.—Not later than 18 months after the date of enactment of this Act, and annually thereafter, the head of each agency shall publish on the plain writing section of the agency's website a report on agency compliance with the requirements of this Act.
 
 #### "SEC. 6. JUDICIAL REVIEW AND ENFORCEABILITY.
 
@@ -268,7 +406,7 @@ State certification.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
+In general.—Each State shall certify to the Secretary of Health and Human Services that theState is in compliance with the requirements of this section.
 
 &emsp;&emsp;"(B)
 
@@ -286,7 +424,7 @@ Audits.—The Secretary of Health and Human Services may conduct periodic audits
 
 Minimum standards.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Health and Human Services shall by regulation establish minimum standards for birth certificates for use by Federal agencies for official purposes that—
 
-&emsp;&emsp;"(A) at a minimum, shall require certification of the birth certificate by the State or local government custodian of record that issued the certificate, and shall require the use of safety paper or analternative, equally secure medium, the seal of the issuing custodian of record, and other features designed to prevent tampering, counterfeiting, or otherwise duplicating the birth certificate for fraudulent purposes;
+&emsp;&emsp;"(A) at a minimum, shall require certification of the birth certificate by the State or local government custodian of record that issued the certificate, and shall require the use of safety paper or an alternative, equally secure medium, the seal of the issuing custodian of record, and other features designed to prevent tampering, counterfeiting, or otherwise duplicating the birth certificate for fraudulent purposes;
 
 &emsp;&emsp;"(B) shall establish requirements for proof and verification of identity as a condition of issuance of a birth certificate, with additional security measures for the issuance of a birth certificate for a person who is not the applicant;
 
@@ -361,6 +499,10 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 #### Improvements in Identification-Related Documents
 
 Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, §355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, §7211(e), Dec. 17, 2004, 118 Stat. 3827.
+
+#### Modification or Cancellation of Certain License Agreements Granted to Government During World War II
+
+Act Aug. 16, 1950, ch. 716, 64 Stat. 448, provided that: "Notwithstanding any other provision of law, the head of any department or other agency in the executive branch of the Government which subsequent to September 9, 1939, entered into any contract or agreement with the holder of any privately owned patent or any right thereunder whereby such holder granted to the United States, without payment of royalty or with reduction or limitation of royalty, any license under such patent or right, is authorized, upon application of the grantor of such license, to enter into such supplemental contract or agreement for the cancellation of the contract or agreement by which such license was granted as the head of such department or agency shall deem to be warranted by equities existing by reason of changes in circumstances occurring since the granting of such license."
 
 #### Equal Opportunity in Federal Employment
 

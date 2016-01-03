@@ -28,7 +28,7 @@ Pursuant to regulations promulgated by the Attorney General hereunder, in this s
 
 #### (2) Multiple States
 
-&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
+&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, in any case inwhich a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
 
 #### (3) State described
 

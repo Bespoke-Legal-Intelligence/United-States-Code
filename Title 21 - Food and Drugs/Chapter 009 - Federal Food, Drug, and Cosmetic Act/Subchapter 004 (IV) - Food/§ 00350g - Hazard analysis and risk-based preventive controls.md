@@ -320,7 +320,7 @@ Pub. L. 111–353, title I, §103(d), Jan. 4, 2011, 124 Stat. 3898, provided tha
 
 #### No Effect on HACCP Authorities
 
-Pub. L. 111–353, title I, §103(f), Jan. 4, 2011, 124 Stat. 3898, provided that: "Nothing in the amendments made by this section \[enacting this section and amending section 331 of this title\] limits the authority of the Secretary under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce Hazard Analysis Critical Control \[Points\] programs and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards."
+Pub. L. 111–353, title I, §103(f), Jan. 4, 2011, 124 Stat. 3898, provided that: "Nothing in the amendments madeby this section \[enacting this section and amending section 331 of this title\] limits the authority of the Secretary under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce Hazard Analysis Critical Control \[Points\] programs and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards."
 
 #### Dietary Supplements
 

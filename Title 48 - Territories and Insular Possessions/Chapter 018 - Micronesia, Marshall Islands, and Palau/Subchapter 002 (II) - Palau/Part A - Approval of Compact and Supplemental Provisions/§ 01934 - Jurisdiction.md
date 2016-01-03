@@ -6,7 +6,7 @@ With respect to section 321 of the Compact of Free Association and its related a
 
 #### (b) Defense sites
 
-The defense sites of the United States established in Palau in accordance with the Compact of Free Association and its related agreements are within the special maritime and territorial jurisdiction of the United States as set forth in section 7, title 18.
+The defense sites of the United States established in Palau in accordance with the Compactof Free Association and its related agreements are within the special maritime and territorial jurisdiction of the United States as set forth in section 7, title 18.
 
 #### (c) Offenses
 

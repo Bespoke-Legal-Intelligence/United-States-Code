@@ -14,11 +14,11 @@ As used in this section:
 
 &emsp;&emsp;(A) is not eligible for a loan from the Farm Credit Bank or association; and
 
-&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loan from the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
+&emsp;&emsp;(B) has operations that are functionally similar to a person that is eligible for a loanfrom the Farm Credit Bank or association in that the person derives a majority of the income of the person from, or has a majority of the assets of the person invested in, the conduct of activities that are functionally similar to the activities that are conducted by an eligible person.
 
 #### (b) Loan participation authority
 
-Notwithstanding any other provision of this chapter, any Farm Credit Bank or direct lender association chartered under this chapter may participate in any loan of a type otherwise authorized under subchapter I or II of this chapter made to a similar entity by any person in the business of extending credit, except that a Farm Credit Bank or direct lender association may not participate in a loan under this section if—
+Notwithstanding any other provision of this chapter, any Farm Credit Bank or direct lender association chartered under this chapter may participate in any loan of a type otherwise authorized under subchapter I or II made to a similar entity by any person in the business of extending credit, except that a Farm Credit Bank or direct lender association may not participate in a loan under this section if—
 
 &emsp;(1) the participation would cause the total amount of all participations by the Farm Credit Bank or association under this section involving a single credit risk to exceed 10 percent (or the applicable higher lending limit authorized under regulations issued by the Farm Credit Administration if the stockholders of the respective Farm Credit Bank or association so approve) of the total capital of the Farm Credit Bank or association;
 

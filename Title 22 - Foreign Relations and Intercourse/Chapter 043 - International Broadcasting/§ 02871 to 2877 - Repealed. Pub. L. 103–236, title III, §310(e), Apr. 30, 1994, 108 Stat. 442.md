@@ -2,7 +2,7 @@
 
 Section 2871, Pub. L. 93–129, §2, Oct. 19, 1973, 87 Stat. 457; Pub. L. 95–105, title III, §302(a), Aug. 17, 1977, 91 Stat. 851; Pub. L. 99–93, title III, §303(a), Aug. 16, 1985, 99 Stat. 434; Pub. L. 101–246, title III, §304, Feb. 16, 1990, 104 Stat. 64, provided congressional findings and declaration of purpose.
 
-Section 2872, Pub. L. 93–129, §3, Oct. 19, 1973, 87 Stat. 457; Pub. L. 94–350, title III, §302(a), (b), July 12, 1976, 90 Stat. 832; Pub. L. 95–105, title III, §302(b), Aug. 17, 1977, 91 Stat. 851; Pub. L. 95–426, title III, §303, Oct. 7, 1978, 92 Stat. 976; Pub. L. 97–241, title IV, §403(b), Aug. 24,1982, 96 Stat. 296, established Board for International Broadcasting.
+Section 2872, Pub. L. 93–129, §3, Oct. 19, 1973, 87 Stat. 457; Pub. L. 94–350, title III, §302(a), (b), July 12, 1976, 90 Stat. 832; Pub. L. 95–105, title III, §302(b), Aug. 17, 1977, 91 Stat. 851; Pub. L. 95–426, title III, §303, Oct. 7, 1978, 92 Stat. 976; Pub. L. 97–241, title IV, §403(b), Aug. 24, 1982, 96 Stat. 296, established Board for International Broadcasting.
 
 Section 2873, Pub. L. 93–129, §4, Oct. 19, 1973, 87 Stat. 458; Pub. L. 94–350, title III, §302(c), July 12, 1976, 90 Stat. 833; Pub. L. 95–105, title III, §302(c), Aug. 17, 1977, 91 Stat. 851; Pub. L. 95–426, title III, §304(a), Oct. 7, 1978, 92 Stat. 976; Pub. L. 103–236, title III, §315(c), Apr. 30, 1994, 108 Stat. 445, provided for functions of Board.
 

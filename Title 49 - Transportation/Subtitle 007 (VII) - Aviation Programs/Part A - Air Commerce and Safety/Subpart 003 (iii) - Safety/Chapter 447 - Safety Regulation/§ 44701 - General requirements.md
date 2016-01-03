@@ -58,7 +58,7 @@ Relinquishment and acceptance of responsibility.—The Administrator relinquishe
 
 &emsp;(3)
 
-Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection on any conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
+Conditions.—The Administrator may predicate, in the agreement, the transfer of functions and duties under this subsection onany conditions the Administrator deems necessary and prudent, except that the Administrator may not transfer responsibilities for United States registered aircraft described in paragraph (4)(A) to a country that the Administrator determines is not in compliance with its obligations under international law for the safety oversight of civil aviation.
 
 &emsp;(4)
 
@@ -496,7 +496,7 @@ Aviation Rulemaking Committee.—
 
 &emsp;"(1)
 
-In general.—The Administrator of the Federal Aviation Administration shall convene an aviationrulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
+In general.—The Administrator of the Federal Aviation Administration shall convene an aviation rulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
 
 &emsp;&emsp;"(A) Establish flight crewmember mentoring programs under which the air carrier will pair highly experienced flight crewmembers who will serve as mentor pilots and be paired with newly employed flight crewmembers. Mentor pilots should be provided, at a minimum, specific instruction on techniques for instilling and reinforcing the highest standards of technical performance, airmanship, and professionalism in newly employed flight crewmembers.
 
@@ -660,7 +660,7 @@ Report.—Not later than one year after the date of enactment of this Act, the A
 
 #### "SEC. 211. SAFETY INSPECTIONS OF REGIONAL AIR CARRIERS.
 
-"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contract with a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
+"The Administrator of the Federal Aviation Administration shall perform, not less frequently than once each year, random, onsite inspections of air carriers that provide air transportation pursuant to a contractwith a part 121 air carrier to ensure that such air carriers are complying with all applicable safety standards of the Administration.
 
 #### "SEC. 212. PILOT FATIGUE.
 
@@ -768,7 +768,7 @@ Effect of Commuting on Fatigue.—
 
 &emsp;"(1)
 
-In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study ofthe effects of commuting on pilot fatigue and report its findings to the Administrator.
+In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
 
 &emsp;"(2)
 
@@ -898,7 +898,7 @@ Deadlines.—The Administrator shall issue—
 
 "(d)
 
-Safety Management System Defined.—In this section, the term 'safety management system' meansthe program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
+Safety Management System Defined.—In this section, the term 'safety management system' means the program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
 
 #### "SEC. 216. FLIGHT CREWMEMBER SCREENING AND QUALIFICATIONS.
 
@@ -1042,7 +1042,7 @@ Contents.—The study shall include the following:
 
 &emsp;"(3)
 
-Report.—Not later than 12 months after the initiation of the arrangements under subsection (a),the National Academy of Sciences shall transmit to Congress a report on the results of the study."
+Report.—Not later than 12 months after the initiation of the arrangements under subsection (a), the National Academy of Sciences shall transmit to Congress a report on the results of the study."
 
 #### Air Transportation Oversight System
 
@@ -1162,7 +1162,7 @@ In General.—Not later than 120 days after the last day of the 1-year period de
 
 "(b)
 
-Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, orboth, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
+Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
 
 "(c)
 
@@ -1202,7 +1202,7 @@ Liability of Air Carriers.—An air carrier shall not be liable for damages in a
 
 "(b)
 
-Liability of Individuals.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
+Liability of Individuals.—An individual shall not be liable for damages in any action brought in aFederal or State court arising out of the acts or omissions of the individual in providing or attempting to provide assistance in the case of an in-flight medical emergency unless the individual, while rendering such assistance, is guilty of gross negligence or willful misconduct.
 
 #### "SEC. 6. DEFINITIONS.
 

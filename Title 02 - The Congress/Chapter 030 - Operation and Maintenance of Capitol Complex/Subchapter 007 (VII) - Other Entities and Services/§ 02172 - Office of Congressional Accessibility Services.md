@@ -50,7 +50,7 @@
 
 #### (B) Removal
 
-&emsp;&emsp;Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of theSenate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
+&emsp;&emsp;Upon removal of the Director of Accessibility Services, the Congressional Accessibility Services Board shall immediately provide notice of the removal to the Committee on Rules and Administration of the Senate, the Committee on House Administration of the House of Representatives, and the Committees on Appropriations of the House of Representatives and Senate. The notice shall include the reasons for the removal.
 
 #### (2) Personnel and other administrative functions
 
@@ -68,7 +68,7 @@
 
 #### (B) Agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with offices of the Senate and House of Representatives
 
-&emsp;&emsp;Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office of Congressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
+&emsp;&emsp;Subject to the approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Director of Accessibility Services may place orders and enter into agreements with the Office of the Architect of the Capitol, with other legislative branch agencies, and with any office or other entity of the Senate or House of Representatives for procuring goods and providing financial and administrative services on behalf of the Office ofCongressional Accessibility Services, or to otherwise assist the Director in the administration and management of the Office of Congressional Accessibility Services.
 
 #### (3) Semiannual reports
 

@@ -118,7 +118,7 @@
 
 #### (11) Forward auctions
 
-&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction onceeach fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
+&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction once each fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
 
 &emsp;&emsp;(A) not cause a disruption in the supply of helium from the Reserve;
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (4)(A), the Secretary shall hold a one-time sale of helium, no later than August 1, 2014 from amounts available in fiscal year 2016 pursuant to this section. Full and final payment for the sale must be made no later than 45 days after the date the sale takes place.
+&emsp;&emsp;Notwithstanding paragraph (4)(A), the Secretary shall hold a one-time sale of helium,no later than August 1, 2014 from amounts available in fiscal year 2016 pursuant to this section. Full and final payment for the sale must be made no later than 45 days after the date the sale takes place.
 
 #### (B) Volume sold
 
@@ -230,7 +230,7 @@ The Secretary shall offer for sale or auction during each fiscal year under subs
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–273, §4(a), substituted "from persons who have entered into enforceable contracts to purchase an equivalent amount of crude helium from the Secretary" for "from the Secretary".
 
-Subsec. (b). Pub. L. 104–273, §4(b), inserted "crude" before "helium" and inserted at end "Except as may be required by reason of subsection (a) of this section, sales of crude helium under this section shall be in amounts as the Secretary determines, in consultation with the helium industry, necessary to carry out this subsection with minimum market disruption."
+Subsec. (b). Pub. L. 104–273, §4(b), inserted "crude" before "helium" and inserted at end "Except as may be required by reason of subsection (a) of this section,sales of crude helium under this section shall be in amounts as the Secretary determines, in consultation with the helium industry, necessary to carry out this subsection with minimum market disruption."
 
 Subsec. (c). Pub. L. 104–273, §4(c)(2), which directed the amendment of subsec. (c) by substituting "all funds required to be repaid to the United States as of October 1, 1995 under this section (referred to in this subsection as 'repayable amounts'). The price at which crude helium is sold by the Secretary shall not be less than the amount determined by the Secretary by—" and pars. (1) and (2) for "together with interest as provided in this subsection" and all that followed through the end of the subsec., was executed by making the substitution for language which read "together with interest as provided in subsection (d) of this section, the following:" along with former pars. (1) to (3), to reflect the probable intent of Congress. Prior to amendment, pars. (1) to (3) read as follows:
 

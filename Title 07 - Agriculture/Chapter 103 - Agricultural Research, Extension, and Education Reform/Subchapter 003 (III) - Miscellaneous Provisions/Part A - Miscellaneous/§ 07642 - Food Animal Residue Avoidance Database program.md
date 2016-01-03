@@ -22,7 +22,7 @@ In carrying out the FARAD program, the Secretary shall—
 
 &emsp;(3) publish periodically a compilation of food animal drugs approved by the Food and Drug Administration;
 
-&emsp;(4) make information on food animal drugs available to the public through handbooks andother literature, computer software, a telephone hotline, and the Internet;
+&emsp;(4) make information on food animal drugs available to the public through handbooks and other literature, computer software, a telephone hotline, and the Internet;
 
 &emsp;(5) furnish producer quality-assurance programs with up-to-date data on approved drugs;
 

@@ -10,7 +10,7 @@
 
 &emsp;(1) Serve as principal adviser to the Secretary on the adoption and implementation of policies and programs affecting veterans who are women.
 
-&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvementof programs in the Department for which veterans who are women are eligible.
+&emsp;(2) Make recommendations to the Secretary, the Under Secretary for Health, the Under Secretary for Benefits, and other Department officials for the establishment or improvement of programs in the Department for which veterans who are women are eligible.
 
 &emsp;(3) Promote the use of benefits authorized by this title by veterans who are women and the conduct of outreach activities to veterans who are women, in conjunction with outreach activities carried out under chapter 77 of this title.
 
@@ -32,7 +32,7 @@
 
 &emsp;(12) Perform such other duties consistent with this section as the Secretary shall prescribe.
 
-(e) The Secretary shall ensure that the Director is furnished sufficient resources to enable the Director to carry out the functions of the Center in a timely manner.
+(e) The Secretary shall ensure that the Director is furnished sufficient resources to enablethe Director to carry out the functions of the Center in a timely manner.
 
 (f) The Secretary shall include in documents submitted to Congress by the Secretary in support of the President's budget for each fiscal year—
 

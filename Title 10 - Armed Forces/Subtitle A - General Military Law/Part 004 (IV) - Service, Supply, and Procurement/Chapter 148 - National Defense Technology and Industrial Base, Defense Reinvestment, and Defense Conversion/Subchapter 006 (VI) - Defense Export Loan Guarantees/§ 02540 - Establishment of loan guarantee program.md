@@ -22,7 +22,7 @@ Covered Countries.—The authority under subsection (a) applies with respect to 
 
 (c)
 
-Authority Subject to Provisions of Appropriations.—The Secretary may guarantee aloan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
+Authority Subject to Provisions of Appropriations.—The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 475; amended Pub. L. 108–375, div. A, title X, §1084(d)(21), Oct. 28, 2004, 118 Stat. 2062.)
 

@@ -210,7 +210,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 &emsp;&emsp;&emsp;(iii) any resulting reduction in force shall be governed by the provisions of chapter 35 of title 5, except that the Bureau shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) establish competitive areas (as that term is defined in regulations issued by the Office of Personnel Management) to include at a minimum all employees in the same locality pay area as defined by the Office of Personnel Management;
+&emsp;&emsp;&emsp;&emsp;(I) establish competitive areas (as that term is defined in regulations issued bythe Office of Personnel Management) to include at a minimum all employees in the same locality pay area as defined by the Office of Personnel Management;
 
 &emsp;&emsp;&emsp;&emsp;(II) establish competitive levels (as that term is defined in regulations issued by the Office of Personnel Management) without regard to whether the particular employees have been appointed to positions in the competitive service or the excepted service; and
 
@@ -264,7 +264,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the FederalReserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
+&emsp;&emsp;&emsp;Any Federal Reserve System transferred employee who was enrolled in the Federal Reserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
 
 #### (ii) Effective date of coverage
 

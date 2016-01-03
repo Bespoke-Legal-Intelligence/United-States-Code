@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 101–189, §704(a), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made bythat section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Effective Date
 

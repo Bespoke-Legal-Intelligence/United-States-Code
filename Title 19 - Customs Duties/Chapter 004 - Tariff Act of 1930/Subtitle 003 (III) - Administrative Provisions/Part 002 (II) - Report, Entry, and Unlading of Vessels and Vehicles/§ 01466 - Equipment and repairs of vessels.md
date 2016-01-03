@@ -2,7 +2,7 @@
 
 #### (a) Vessels subject to duty; penalties
 
-The equipments, or any part thereof, including boats, purchased for, or the repair parts or materials to be used, or the expenses of repairs made in a foreign country upon a vessel documented under the laws of the United States to engage in the foreign or coasting trade, or a vessel intended to be employed in such trade, shall, on the first arrival of such vessel in any port of the United States, be liable to entry and the payment of an ad valorem duty of 50 per centum on the cost thereof in such foreign country. If the owner or master willfully or knowingly neglects or fails to report, make entry, and pay duties as herein required, or if he makes any false statement in respect of such purchases or repairs without reasonable cause to believe the truth of such statements, or aids or procures the making of any false statement as to any matter material thereto without reasonable cause to believe the truth of such statement, such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture. For the purposes of this section, compensation paid to members of the regular crew of such vessel in connection with the installation of any such equipments or any part thereof, or the making of repairs, in a foreign country, shall not be included in the cost of such equipment or part thereof, or of such repairs.
+The equipments, or any part thereof, including boats, purchased for, or the repair parts or materials to be used, or the expenses of repairs made in a foreign country upon a vessel documented under the laws of the United States to engage in the foreign or coasting trade, or a vessel intended to be employed in such trade, shall, on the first arrival of such vessel in any port of the United States, be liable to entry and the payment of an ad valorem duty of 50 per centum on the cost thereof in such foreign country. If the owner or master willfully or knowingly neglects or fails to report, make entry, and pay duties as herein required, or if he makes any false statement in respect of such purchases or repairs without reasonable cause to believe the truth of such statements, or aids or procures the making of any false statement as to any matter material thereto without reasonable cause tobelieve the truth of such statement, such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture. For the purposes of this section, compensation paid to members of the regular crew of such vessel in connection with the installation of any such equipments or any part thereof, or the making of repairs, in a foreign country, shall not be included in the cost of such equipment or part thereof, or of such repairs.
 
 #### (b) Notice
 
@@ -20,7 +20,7 @@ If the appropriate customs officer has reasonable cause to believe a violation h
 
 #### (c) Violation
 
-After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b) of this section, the appropriate customs officer shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b) of this section.
+After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
 
 #### (d) Remission for necessary repairs
 
@@ -36,7 +36,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 #### (e) Exclusions for arrivals two or more years after last departure
 
-(1) In the case of any vessel referred to in subsection (a) of this section that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
+(1) In the case of any vessel referred to in subsection (a) that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
 
 &emsp;(A) fish nets and netting, and
 
@@ -46,11 +46,11 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 #### (f) Civil aircraft exception
 
-The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+The duty imposed under subsection (a) shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
 
 #### (g) Fish net and netting purchases and repairs
 
-The duty imposed by subsection (a) of this section shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
+The duty imposed by subsection (a) shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
 
 &emsp;(1) tuna purse seine nets and netting which are equipments or parts thereof,
 
@@ -66,7 +66,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 &emsp;(1) the cost of any equipment, or any part of equipment, purchased for, or the repair parts or materials to be used, or the expense of repairs made in a foreign country with respect to, LASH (Lighter Aboard Ship) barges documented under the laws of the United States and utilized as cargo containers;
 
-&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, inthe United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
+&emsp;(2) the cost of spare repair parts or materials (other than nets or nettings) which the owner or master of the vessel certifies are intended for use aboard a cargo vessel, documented under the laws of the United States and engaged in the foreign or coasting trade, for installation or use on such vessel, as needed, in the United States, at sea, or in a foreign country, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country;
 
 &emsp;(3) the cost of spare parts necessarily installed before the first entry into the United States, but only if duty is paid under appropriate commodity classifications of the Harmonized Tariff Schedule of the United States upon first entry into the United States of each such spare part purchased in, or imported from, a foreign country; or
 
@@ -252,7 +252,7 @@ Pub. L. 96–609, title I, §115(b), Dec. 28, 1980, 94 Stat. 3558, provided that
 
 &emsp;"(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
 
-> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act."
+> shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[section 1514 of this title\] or any other provision of law, be liquidated or reliquidated asthough such entry or withdrawal had been made on the date of the enactment of this Act."
 
 #### Entries Made in Connection With Arrivals of Vessels On or After January 5, 1971; Entries in Connection With the Arrival of Shrimp Vessels After January 1, 1969, and Before January 5, 1971
 

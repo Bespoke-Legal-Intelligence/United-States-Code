@@ -26,7 +26,7 @@ The Administrator shall encourage waste treatment management which results in th
 
 #### (e) Waste treatment management integration of facilities
 
-The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and waste heat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
+The Administrator shall encourage waste treatment management which results in integrating facilities for sewage treatment and recycling with facilities to treat, dispose of, or utilize other industrial and municipal wastes, including but not limited to solid waste and wasteheat and thermal discharges. Such integrated facilities shall be designed and operated to produce revenues in excess of capital and operation and maintenance costs and such revenues shall be used by the designated regional management agency to aid in financing other environmental improvement programs.
 
 #### (f) Waste treatment management "open space" and recreational considerations
 
@@ -56,9 +56,9 @@ A grant may be made under this section to construct a privately owned treatment 
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
-&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
+&emsp;(2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of section 1284 of this title and includes a system of charges to assure that each recipient of waste treatment services under such a grant will payits proportionate share of the cost of operation and maintenance (including replacement); and
 
-&emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system ofcollection and central treatment of such wastes.
+&emsp;(3) the total cost and environmental impact of providing waste treatment services to such residences or commercial establishments will be less than the cost of providing a system of collection and central treatment of such wastes.
 
 #### (i) Waste treatment management methods, processes, and techniques to reduce energy requirements
 
@@ -200,7 +200,7 @@ Treatment works.—The term 'treatment works' has the meaning provided in sectio
 
 "(b)
 
-Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provideassistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
+Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
 
 "(c)
 
@@ -264,7 +264,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 
-"(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one of whom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
+"(d) \[Board of Directors\] (1) The Authority shall have a Board of Directors consisting of five persons, one ofwhom shall be the Secretary of the Treasury or his designee as Chairman of the Board, and four of whom shall be appointed by the President from among the officers or employees of the Authority or of any department or agency of the United States Government.
 
 "(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 
@@ -308,7 +308,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(j) \[Tax Exemption, Exemptions\] The Authority, its property, its franchise, capital, reserves, surplus, security holdings, and other funds, and its income shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority; except that (A) any real property and any tangible personal property of the Authority shall be subject to Federal, State, and local taxation to the same extent according to its value as other such property is taxed, and (B) any and all obligations issued by the Authority shall be subject both as to principal and interest to Federal, State, and local taxation to the same extent as the obligations of private corporations are taxed.
 
-"(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may beaccepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
+"(k) \[Nature of Obligations\] All obligations issued by the Authority shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All obligations issued by the Authority pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are issued by the United States.
 
 "(l) \[Preparation of Obligations by Secretary of the Treasury\] In order to furnish obligations for delivery by the Authority, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Authority may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Authority. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith, shall remain in the custody of the Secretary of the Treasury. The Authority shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations.
 

@@ -34,7 +34,7 @@ Accession Bonus.—(1) The Secretary concerned may pay an accession bonus under 
 
 &emsp;(A) to accept an appointment as an officer in the armed forces; and
 
-&emsp;(B) to serve in the Selected Reserve of the Ready Reserve in a skill designated under paragraph (2) for a period specified in the agreement.
+&emsp;(B) to serve in the Selected Reserve of the Ready Reserve in a skill designated underparagraph (2) for a period specified in the agreement.
 
 (2)(A) The Secretary concerned shall designate for an armed force under the Secretary's jurisdiction the officer skills to which the authority under this subsection is to be applied.
 

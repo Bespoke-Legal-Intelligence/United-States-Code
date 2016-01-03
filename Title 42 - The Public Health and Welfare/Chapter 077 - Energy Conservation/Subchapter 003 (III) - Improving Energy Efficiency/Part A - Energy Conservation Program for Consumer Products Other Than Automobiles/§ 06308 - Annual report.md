@@ -2,7 +2,7 @@
 
 The Secretary shall report to the Congress and the President either (1) as part of his annual report, or (2) in a separate report submitted annually, on the progress of the program undertaken pursuant to this part and on the energy savings impact of this part. Each such report shall specify the actions undertaken by the Secretary in carrying out this part during the period covered by such report, and those actions which the Secretary was required to take under this part during such period but which were not taken, together with the reasons therefor. Nothing in this section provides a defense or justification for a failure by the Secretary to comply with a nondiscretionary duty as provided for in this part.
 
-(Pub. L. 94–163, title III, §338, Dec. 22, 1975, 89 Stat. 932; Pub. L. 95–619, title IV, §425(h), titleVI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §10, Mar. 17, 1987, 101 Stat. 124.)
+(Pub. L. 94–163, title III, §338, Dec. 22, 1975, 89 Stat. 932; Pub. L. 95–619, title IV, §425(h), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §10, Mar. 17, 1987, 101 Stat. 124.)
 
 #### Amendments
 

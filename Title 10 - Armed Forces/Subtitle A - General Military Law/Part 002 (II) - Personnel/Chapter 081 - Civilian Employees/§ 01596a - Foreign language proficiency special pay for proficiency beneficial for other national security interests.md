@@ -30,5 +30,5 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title XI, §1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: "The amendment by thissection \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Oct. 28, 2004\]."
+Pub. L. 108–375, div. A, title XI, §1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: "The amendment by this section \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Oct. 28, 2004\]."
 

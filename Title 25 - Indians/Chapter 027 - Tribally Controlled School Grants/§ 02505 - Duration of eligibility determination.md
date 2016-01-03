@@ -18,7 +18,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 &emsp;&emsp;(D) an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
 
-&emsp;&emsp;(E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii) <sup>1</sup> of this section.
+&emsp;&emsp;(E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii).<sup>1</sup>
 
 #### (2) Evaluation review teams
 
@@ -44,7 +44,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 &emsp;The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter if—
 
-&emsp;&emsp;(A) the Indian tribe or tribal organization submits the reports required under subsection (b) of this section with respect to the school; and
+&emsp;&emsp;(A) the Indian tribe or tribal organization submits the reports required under subsection (b) with respect to the school; and
 
 &emsp;&emsp;(B) at least one of the following clauses applies with respect to the school:
 
@@ -54,7 +54,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 &emsp;&emsp;&emsp;(iii) The school is accredited by a tribal department of education if such accreditation is accepted by a generally recognized regional or State accreditation agency.
 
-&emsp;&emsp;&emsp;(iv)(I) With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control of the school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002.
+&emsp;&emsp;&emsp;(iv)(I) With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control ofthe school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002.
 
 &emsp;&emsp;&emsp;(II) If the Secretary and a grant recipient other than a tribal governing body fail to agree on such an evaluator, the tribal governing body shall choose the evaluator or perform the evaluation. If the Secretary and a grant recipient that is a tribal governing body fail to agree on such an evaluator, subclause (I) shall not apply.
 
@@ -108,7 +108,7 @@ A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)(1)(B)(ii)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)(1)(B)(ii)."</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be section "2504(b)(1)(A)".</i>
 

@@ -10,5 +10,5 @@ Act Sept. 1, 1954, ch. 1207, §20, 68 Stat. 1104, provided that: "All Acts or pa
 
 #### Separability
 
-Act Sept. 1, 1954, ch. 1207, §21, 68 Stat. 1104, provided that: "If any provision of this Act \[this subchapter\], or the application thereof, to any person or circumstanceis held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby."
+Act Sept. 1, 1954, ch. 1207, §21, 68 Stat. 1104, provided that: "If any provision of this Act \[this subchapter\], or the application thereof, to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons or circumstances shall not be affected thereby."
 

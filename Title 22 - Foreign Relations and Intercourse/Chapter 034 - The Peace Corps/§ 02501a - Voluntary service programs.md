@@ -12,7 +12,7 @@ The Congress declares that it is the policy of the United States and a further p
 
 &emsp;(B) conducting demonstration projects in such countries or areas.
 
-> None of the funds made available to carry out the purposes of clauses (1) and (2) of subsection (a) may be used to pay the administrative costs of any program or project, other than a demonstration project, or to assist any program or project of a paramilitary or military nature. Funds allocated for activities set forth in thisparagraph should be kept to a minimum so that such allocation will not be detrimental to other Peace Corps programs and activities.
+> None of the funds made available to carry out the purposes of clauses (1) and (2) of subsection (a) may be used to pay the administrative costs of any program or project, other than a demonstration project, or to assist any program or project of a paramilitary or military nature. Funds allocated for activities set forth in this paragraph should be kept to a minimum so that such allocation will not be detrimental to other Peace Corps programs and activities.
 
 (2) Not more than 2 per centum of the amount appropriated to the Peace Corps for a fiscal year may be used in such fiscal year to carry out the provisions of clause (3) of subsection (a) of this section. Such funds may be contributed to educational institutions, private voluntary organizations, international organizations, and foreign governments or agencies thereof, to pay a fair and proportionate share of the costs of encouraging the development of, and participation in, international voluntary programs and activities.
 

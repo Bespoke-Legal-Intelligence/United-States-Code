@@ -12,7 +12,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(e) purchase uniforms;
 
-&emsp;(f) pay tort claims, in the manner authorized in the first paragraph of section 2672, asamended, of title 28, when such claims arise in foreign countries in connection with Department of State operations abroad;
+&emsp;(f) pay tort claims, in the manner authorized in the first paragraph of section 2672, as amended, of title 28, when such claims arise in foreign countries in connection with Department of State operations abroad;
 
 &emsp;(g) obtain services as authorized by section 3109 of title 5 at a rate not to exceed the maximum rate payable for GS–18 under section 5332 of such title 5;
 
@@ -32,7 +32,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(o) make administrative corrections or adjustments to an employee's pay, allowances, or differentials, resulting from mistakes or retroactive personnel actions, as well as provide back pay and other categories of payments under section 5596 of title 5, as part of the settlement or compromise of administrative claims or grievances filed against the Department.
 
-(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191; Pub. L. 108–447, div. B, title IV, §413, Dec. 8, 2004, 118 Stat. 2906; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735.)
+(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16,1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191; Pub. L. 108–447, div. B, title IV, §413, Dec. 8, 2004, 118 Stat. 2906; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Pub. L. 102–20 added subsec. (l) relating to purchase of special purpose passe
 
 <b>1985</b>—Pub. L. 99–93, §114, in provision preceding subsec. (a) substituted "may use funds appropriated or otherwise available to the Secretary to" for ", when funds are appropriated therefor, may".
 
-Subsec. (c). Pub. L. 99–93, §118(a), inserted "for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection\(f) and of any other law administered by the Secretary concerning the employment of such individuals abroad)".
+Subsec. (c). Pub. L. 99–93, §118(a), inserted "for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) and of any other law administered by the Secretary concerning the employment of such individuals abroad)".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted "individuals or organizations" for "aliens" after "employ", and ", and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government".
 

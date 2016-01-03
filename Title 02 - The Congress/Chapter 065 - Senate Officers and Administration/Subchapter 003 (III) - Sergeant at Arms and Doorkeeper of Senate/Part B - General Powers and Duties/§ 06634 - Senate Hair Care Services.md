@@ -6,7 +6,7 @@ The Sergeant at Arms and Doorkeeper of the Senate is authorized to appoint and f
 
 #### (b) Establishment of revolving fund
 
-There is established in the Treasury of the United States within the contingent fund of the Senate a revolving fund to be known as the Senate Hair Care Services Revolving Fund (hereafter in this section referred to as the "revolving fund").
+There is established in the Treasury of the United States within the contingent fund of theSenate a revolving fund to be known as the Senate Hair Care Services Revolving Fund (hereafter in this section referred to as the "revolving fund").
 
 #### (c) Deposit and availability of moneys
 

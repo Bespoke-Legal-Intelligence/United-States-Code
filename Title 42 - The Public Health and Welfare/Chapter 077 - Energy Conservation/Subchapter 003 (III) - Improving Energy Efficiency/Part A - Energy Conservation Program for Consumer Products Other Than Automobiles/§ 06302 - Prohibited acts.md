@@ -12,23 +12,35 @@ It shall be unlawful—
 
 &emsp;(4) for any person to fail to comply with an applicable requirement of section 6296(a), (b)(2), (b)(3), or (b)(5) of this title;
 
-&emsp;(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard; or
+&emsp;(5) for any manufacturer or private labeler to distribute in commerce any new covered product which is not in conformity with an applicable energy conservation standard established in or prescribed under this part, except to the extent that the new covered product is covered by a regional standard that is more stringent than the base national standard;
 
-&emsp;(6) <sup>1</sup> for any manufacturer or private labeler to knowingly sell a product to a distributor, contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product.
+&emsp;(6) for any manufacturer or private labeler to knowingly sell a product to a distributor,contractor, or dealer with knowledge that the entity routinely violates any regional standard applicable to the product;
 
-&emsp;(6) <sup>1</sup> for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
+&emsp;(7) for any manufacturer, distributor, retailer, or private labeler to distribute in commerce an adapter that—
 
 &emsp;&emsp;(A) is designed to allow an incandescent lamp that does not have a medium screw base to be installed into a fixture or lampholder with a medium screw base socket; and
 
-&emsp;&emsp;(B) is capable of being operated at a voltage range at least partially within 110 and 130 volts.
+&emsp;&emsp;(B) is capable of being operated at a voltage range at least partially within 110 and 130 volts; or
+
+&emsp;(8) for any person—
+
+&emsp;&emsp;(A) to activate an activation lock for a grid-enabled water heater with knowledge that such water heater is not used as part of an electric thermal storage or demand response program;
+
+&emsp;&emsp;(B) to distribute an activation key for a grid-enabled water heater with knowledge that such activation key will be used to activate a grid-enabled water heater that is not used as part of an electric thermal storage or demand response program;
+
+&emsp;&emsp;(C) to otherwise enable a grid-enabled water heater to operate at its designed specification and capabilities with knowledge that such water heater is not used as part of an electric thermal storage or demand response program; or
+
+&emsp;&emsp;(D) to knowingly remove or render illegible the label of a grid-enabled water heater described in section 6295(e)(6)(A)(ii)(V) of this title.
 
 #### (b) "New covered product" defined
 
 For purposes of this section, the term "new covered product" means a covered product the title of which has not passed to a purchaser who buys such product for purposes other than (1) reselling such product, or (2) leasing such product for a period in excess of one year.
 
-(Pub. L. 94–163, title III, §332, Dec. 22, 1975, 89 Stat. 928; Pub. L. 100–12, §11(a)(3), (b)(5), Mar. 17, 1987, 101 Stat. 125; Pub. L. 110–140, title III, §§306(b), 321(e), Dec. 19, 2007, 121 Stat. 1559, 1586.)
+(Pub. L. 94–163, title III, §332, Dec. 22, 1975, 89 Stat. 928; Pub. L. 100–12, §11(a)(3), (b)(5), Mar. 17, 1987, 101 Stat. 125; Pub. L. 110–140, title III, §§306(b), 321(e), Dec. 19, 2007, 121 Stat. 1559, 1586; Pub. L. 114–11, title II, §201(2), Apr. 30, 2015, 129 Stat. 188.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(6) to (8). Pub. L. 114–11 redesignated par. (6) relating to prohibition of distribution in commerce of certain adapters as (7) and added par. (8).
 
 <b>2007</b>—Subsec. (a)(4). Pub. L. 110–140, §321(e)(1), which directed the striking out of "or" after semicolon at end, could not be executed after amendment by Pub. L. 110–140, §306(b)(1). See below.
 
@@ -51,6 +63,4 @@ Subsec. (b). Pub. L. 100–12, §11(b)(5)(B), inserted heading.
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

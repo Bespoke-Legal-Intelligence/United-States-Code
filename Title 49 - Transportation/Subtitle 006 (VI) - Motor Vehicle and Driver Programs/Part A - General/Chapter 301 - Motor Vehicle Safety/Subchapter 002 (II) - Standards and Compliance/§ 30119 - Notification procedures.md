@@ -62,7 +62,7 @@ Additional notifications.—If the Secretary determines, after taking into accou
 
 &emsp;&emsp;(A)(i) to send additional notifications in the manner prescribed by the Secretary, by regulation; or
 
-&emsp;&emsp;(ii) to take additional steps to locate and notify each person registered under State law as the owner or lessee or the most recent purchaser or lessee, as appropriate; and
+&emsp;&emsp;(ii) to take additional steps to locate and notify each person registered under Statelaw as the owner or lessee or the most recent purchaser or lessee, as appropriate; and
 
 &emsp;&emsp;(B) to emphasize the magnitude of the safety risk caused by the defect or noncompliance in such notification.
 
@@ -72,7 +72,17 @@ Notification by Lessor to Lessee.—(1) In this subsection, "leased motor vehicl
 
 (2) A lessor that receives a notification required by section 30118 of this title about a leased motor vehicle shall provide a copy of the notification to the lessee in the way the Secretary prescribes by regulation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012, 126 Stat. 771.)
+(g)
+
+Information Regarding Components Involved in Recall.—A manufacturer that is required to furnish a report under section 573.6 of title 49, Code of Federal Regulations (or any successor regulation) for a defect or noncompliance in a motor vehicle or in an item of original or replacement equipment shall, if such defect or noncompliance involves a specific component or components, include in such report, with respect to such component or components, the following information:
+
+&emsp;(1) The name of the component or components.
+
+&emsp;(2) A description of the component or components.
+
+&emsp;(3) The part number of the component or components, if any.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 951; Pub. L. 112–141, div. C, title I, §31310, July 6, 2012, 126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §24116, Dec. 4, 2015, 129 Stat. 1711.)
 
 Historical and Revision Notes
 
@@ -134,7 +144,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §153(d), (e); added Dec. 18, 199
 
 In this section, the text of 15:1397(a)(1)(D) (related to 15:1413(a)–(c) (1st sentence cls. (1)–(5), last sentence), 1414(b)(2) (2d, last sentences), and 1416) is omitted as surplus.
 
-In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" are added for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" areomitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
+In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" are added for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" are omitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
 
 In subsection (b), the words "in a notification under subsection (a)(5) of this section or section 30121(c) of this title" are substituted for "In either case" because of the restatement. The words "may disapprove" are substituted for "shall be subject to disapproval by" to eliminate unnecessary words.
 
@@ -156,11 +166,13 @@ In subsection (e), the word "replacement" is added for clarity and consistency w
 
 #### Amendments
 
+<b>2015</b>—Subsec. (g). Pub. L. 114–94 added subsec. (g).
+
 <b>2012</b>—Subsec. (d)(1). Pub. L. 112–141, §31310(a)(1), substituted "in the manner prescribed by the Secretary, by regulation" for "by first class mail" in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 112–141, §31310(a)(2), substituted "shall be sent in the manner prescribed by the Secretary, by regulation," for "(except a tire) shall be sent by first class mail" and struck out second sentence which read as follows: "In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer."
 
-Subsec. (d)(3). Pub. L. 112–141, §31310(a)(3), struck out first sentence which read "Notification required under section 30118 of this title about a tire shall be sent by first class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer." and inserted "to the notification required under paragraphs (1) and (2)" after "addition" and "by the manufacturer" after "given" in introductory provisions.
+Subsec. (d)(3). Pub. L. 112–141, §31310(a)(3), struck out first sentence which read "Notification required under section 30118 of this title about a tire shall be sent byfirst class mail (or, if the manufacturer prefers, by certified mail) to the most recent purchaser known to the manufacturer." and inserted "to the notification required under paragraphs (1) and (2)" after "addition" and "by the manufacturer" after "given" in introductory provisions.
 
 Subsec. (d)(4). Pub. L. 112–141, §31310(a)(4), substituted "in the manner prescribed by the Secretary, by regulation" for "by certified mail or quicker means if available".
 
@@ -169,4 +181,102 @@ Subsec. (e). Pub. L. 112–141, §31310(b), substituted "Additional" for "Second
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Improvements in Availability of Recall Information
+
+Pub. L. 114–94, div. B, title XXIV, §24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+
+&emsp;"(1) by improving the organization, availability, readability, and functionality of the website;
+
+&emsp;"(2) by accommodating high-traffic volume; and
+
+&emsp;"(3) by establishing best practices for scheduling routine website maintenance."
+
+#### Notification Improvement
+
+Pub. L. 114–94, div. B, title XXIV, §24104(a), Dec. 4, 2015, 129 Stat. 1703, provided that:
+
+"(1)
+
+In general.—Not later than 270 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail.
+
+"(2)
+
+Definition of electronic means.—In this subsection, the term 'electronic means' includes electronic mail and may include such other means of electronic notification, such as social media or targeted online campaigns, as determined by the Secretary."
+
+#### Pilot Grant Program for State Notification to Consumers of Motor Vehicle Recall Status
+
+Pub. L. 114–94, div. B, title XXIV, §24105, Dec. 4, 2015, 129 Stat. 1704, provided that:
+
+"(a)
+
+In General.—Not later than October 1, 2016, the Secretary shall implement a 2-year pilot program to evaluate the feasibility and effectiveness of a State process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration in the State.
+
+"(b)
+
+Grants.—To carry out this program, the Secretary may make a grant to each eligible State, but not more than 6 eligible States in total, that agrees to comply with the requirements under subsection (c). Funds made available to a State under this section shall be used by the State for the pilot program described in subsection (a).
+
+"(c)
+
+Eligibility.—To be eligible for a grant, a State shall—
+
+&emsp;"(1) submit an application in such form and manner as the Secretary prescribes;
+
+&emsp;"(2) agree to notify, at the time of registration, each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that vehicle;
+
+&emsp;"(3) provide the open motor vehicle recall information at no cost to each owner or lessee of a motor vehicle presented for registration in the State; and
+
+&emsp;"(4) provide such other information as the Secretary may require.
+
+"(d)
+
+Awards.—In selecting an applicant for an award under this section, the Secretary shall consider the State's methodology for determining open recalls on a motor vehicle, for informing consumers of the open recalls, and for determining performance.
+
+"(e)
+
+Performance Period.—Each grant awarded under this section shall require a 2-year performance period.
+
+"(f)
+
+Report.—Not later than 90 days after the completion of the performance period under subsection (e), a grantee shall provide to the Secretary a report of performance containing such information as the Secretary considers necessary to evaluate the extent to which open recalls have been remedied.
+
+"(g)
+
+Evaluation.—Not later than 180 days after the completion of the pilot program, the Secretary shall evaluate the extent to which open recalls identified have been remedied.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Consumer.—The term 'consumer' includes owner and lessee.
+
+&emsp;"(2)
+
+Motor vehicle.—The term 'motor vehicle' has the meaning given the term under section 30102(a) of title 49, United States Code.
+
+&emsp;"(3)
+
+Open recall.—The term 'open recall' means a recall for which a notification by a manufacturer has been provided under section 30119 of title 49, United States Code, and that has not been remedied under section 30120 of that title.
+
+&emsp;"(4)
+
+Registration.—The term 'registration' means the process for registering motor vehicles in the State.
+
+&emsp;"(5)
+
+State.—The term 'State' has the meaning given the term under section 101(a) of title 23, United States Code."
+
+#### Tire Recall Database
+
+Pub. L. 114–94, div. B, title XXIV, §24335, Dec. 4, 2015, 129 Stat. 1716, provided that:
+
+"(a)
+
+In General.—The Secretary shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
+
+"(b)
+
+Tire Identification Number.—The database established under subsection (a) shall be searchable by Tire Identification Number (TIN) and any other criteria that assists consumers in determining whether a tire is subject to a recall."
 

@@ -16,7 +16,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (3) Limitation
 
-&emsp;Notwithstanding paragraph (1), if the participant had a former spouse qualifying for an annuity under section 2032(b) of this title, theannuity of a surviving spouse under this section shall be subject to the limitation of section 2031(b)(3)(B) of this title, and the annuity of a former spouse under this section shall be subject to the limitation of section 2032(b)(4)(B) of this title.
+&emsp;Notwithstanding paragraph (1), if the participant had a former spouse qualifying for an annuity under section 2032(b) of this title, the annuity of a surviving spouse under this section shall be subject to the limitation of section 2031(b)(3)(B) of this title, and the annuity of a former spouse under this section shall be subject to the limitation of section 2032(b)(4)(B) of this title.
 
 #### (4) Precedence of section 2034 survivor annuity over death-in-service annuity
 

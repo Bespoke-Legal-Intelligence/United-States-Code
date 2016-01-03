@@ -56,7 +56,7 @@
 
 (6) After consultation with the United States Postal Service, the Office shall promulgate any regulations the Office determines necessary under this subsection.
 
-(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, §164(a), Oct. 1, 2009, 123 Stat. 2053; Pub. L. 112–33, §124, Sept. 30, 2011, 125 Stat. 366; Pub. L. 112–74, div. C, title VI, §632, Dec. 23, 2011, 125 Stat. 928.)
+(Added Pub. L. 109–435, title VIII, §803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L.111–68, div. B, §164(a), Oct. 1, 2009, 123 Stat. 2053; Pub. L. 112–33, §124, Sept. 30, 2011, 125 Stat. 366; Pub. L. 112–74, div. C, title VI, §632, Dec. 23, 2011, 125 Stat. 928.)
 
 #### Amendments
 

@@ -52,7 +52,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 The Committee shall—
 
-&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part G of subchapter IV of this chapter;
+&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations undersubpart 2 of part G of subchapter IV of this chapter;
 
 &emsp;(2) advise the Secretary with respect to the recognition of a specific accrediting agency or association;
 
@@ -128,9 +128,9 @@ The Committee shall—
 
 #### (f) Termination
 
-The Committee shall terminate on September 30, 2015.
+The Committee shall terminate on September 30, 2016.
 
-(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900.)
+(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638.)
 
 #### References in Text
 
@@ -144,6 +144,8 @@ A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–
 
 #### Amendments
 
+<b>2015</b>—Subsec. (f). Pub. L. 114–113 substituted "2016" for "2015".
+
 <b>2014</b>—Subsec. (f). Pub. L. 113–174 substituted "2015" for "2014".
 
 <b>2008</b>—Pub. L. 110–315 amended section generally, revising provisions relating to the National Advisory Committee on Institutional Quality and Integrity and extending its termination date from Sept. 30, 2004, to September 30, 2014.
@@ -154,7 +156,7 @@ Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 #### Transition
 
-Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: "Notwithstanding section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
+Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: "Notwithstanding section 114 of theHigher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
 
 &emsp;"(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
 

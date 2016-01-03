@@ -52,7 +52,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 &emsp;&emsp;(iv) any fixtures, equipment, or other property associated with the operation, maintenance, or repair of any such system;
 
-> &emsp;located on property which is owned by a State or local government or over which a State or local government has an easement or right-of-way. A utility facility may be publicly, privately, or cooperatively owned.
+> &emsp;located on property which is owned by a State or local government or over which a State orlocal government has an easement or right-of-way. A utility facility may be publicly, privately, or cooperatively owned.
 
 (Pub. L. 91–646, title II, §202, Jan. 2, 1971, 84 Stat. 1895; Pub. L. 100–17, title IV, §405, Apr. 2, 1987, 101 Stat. 249; Pub. L. 112–141, div. A, title I, §1521(a), July 6, 2012, 126 Stat. 577.)
 

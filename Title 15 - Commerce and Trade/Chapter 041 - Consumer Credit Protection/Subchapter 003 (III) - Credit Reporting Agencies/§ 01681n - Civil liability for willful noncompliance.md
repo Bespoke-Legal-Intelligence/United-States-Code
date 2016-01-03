@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
+Any person who willfully fails to comply with any requirement imposed under this subchapterwith respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
 &emsp;(1)(A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; or
 

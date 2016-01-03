@@ -4,7 +4,7 @@
 
 #### (1) Prohibition of false or misleading transmission information
 
-&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, thatcontains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
+&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message, or a transactional or relationship message, that contains, or is accompanied by, header information that is materially false or materially misleading. For purposes of this paragraph—
 
 &emsp;&emsp;(A) header information that is technically accurate but includes an originating electronic mail address, domain name, or Internet Protocol address the access to which for purposes of initiating the message was obtained by means of false or fraudulent pretenses or representations shall be considered materially misleading;
 

@@ -6,7 +6,7 @@ Whenever in the opinion of the Secretary the use of inventories is necessary in 
 
 #### (b) Estimates of inventory shrinkage permitted
 
-A method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventoryshrinkage that are confirmed by a physical count only after the last day of the taxable year if—
+A method of determining inventories shall not be treated as failing to clearly reflect income solely because it utilizes estimates of inventory shrinkage that are confirmed by a physical count only after the last day of the taxable year if—
 
 &emsp;(1) the taxpayer normally does a physical count of inventories at each location on a regular and consistent basis, and
 

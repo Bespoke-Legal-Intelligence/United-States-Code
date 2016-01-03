@@ -12,7 +12,7 @@ Activities under subsection (a) of this section may include—
 
 &emsp;(2) the implementation of public information and education programs for the prevention of such injury and for broadening the awareness of the public concerning the public health consequences of such injury; and
 
-&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for 2020, commonly referred to as Healthy People 2020), including—
+&emsp;(3) the implementation of a national education and awareness campaign regarding such injury (in conjunction with the program of the Secretary regarding health-status goals for2020, commonly referred to as Healthy People 2020), including—
 
 &emsp;&emsp;(A) the national dissemination of information on—
 
@@ -28,7 +28,7 @@ The Secretary shall ensure that activities under this section are coordinated as
 
 #### (d) "Traumatic brain injury" defined
 
-For purposes of this section, the term "traumatic brain injury" means an acquired injury tothe brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+For purposes of this section, the term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 (July 1, 1944, ch. 373, title III, §393B, formerly §393A, as added Pub. L. 104–166, §1, July 29, 1996, 110 Stat. 1445; amended Pub. L. 106–310, div. A, title XIII, §1301(a), Oct. 17, 2000, 114 Stat. 1137; renumbered §393B and amended Pub. L. 110–206, §§2(2), 3(a), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–196, §2(a), Nov. 26, 2014, 128 Stat. 2052.)
 

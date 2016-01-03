@@ -14,7 +14,7 @@ Interns and volunteers.—For the purposes of this section, the term "covered em
 
 &emsp;(3)
 
-Compensatory time.—Except as provided in regulations under subsection (c)(3), coveredemployees may not receive compensatory time in lieu of overtime compensation.
+Compensatory time.—Except as provided in regulations under subsection (c)(3), covered employees may not receive compensatory time in lieu of overtime compensation.
 
 (b)
 

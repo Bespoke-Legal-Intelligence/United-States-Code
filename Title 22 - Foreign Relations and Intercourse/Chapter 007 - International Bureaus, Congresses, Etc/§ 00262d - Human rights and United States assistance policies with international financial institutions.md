@@ -28,7 +28,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 #### (c) Requirements of United States assistance through institutions for projects in recipient countries
 
-The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek tochannel assistance to projects which address basic human needs of the people of the recipient country.
+The United States Government, in connection with its voice and vote in the institutions listed in subsection (a) of this section, shall seek to channel assistance to projects which address basic human needs of the people of the recipient country.
 
 #### (d) Criteria for determination of gross violations of internationally recognized human rights standards
 

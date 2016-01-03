@@ -12,7 +12,7 @@
 
 (2) For the purposes of paragraph (1), paragraph (3), and paragraph (4)(C)(ii) of this subsection, the Secretary shall be considered to be the holder of the loan if the actual holder is not an approved lender described in section 3702.
 
-(3) If the holder of the loan determines that the loan is not current or that the purchaser of the property does not meet the requirements of paragraph (1)(B) of this subsection, the holder shall—
+(3) If the holder of the loan determines that the loan is not current or that the purchaser of the property does not meet the requirements ofparagraph (1)(B) of this subsection, the holder shall—
 
 &emsp;(A) notify the transferor and the Secretary of such determination; and
 

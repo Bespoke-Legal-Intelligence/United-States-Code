@@ -2,13 +2,13 @@
 
 #### (a) Establishment
 
-The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b) of this section.
+The Administration may establish a Premier Certified Lenders Program for certified development companies that meet the requirements of subsection (b).
 
 #### (b) Requirements
 
 #### (1) Application
 
-&emsp;To be eligible to participate in the Premier Certified Lenders Program established under subsection (a) of this section, a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
+&emsp;To be eligible to participate in the Premier Certified Lenders Program established under subsection (a), a certified development company shall prepare and submit to the Administration an application at such time, in such manner, and containing such information as the Administration may require.
 
 #### (2) Designation
 
@@ -22,9 +22,9 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;&emsp;(ii) of properly closing section 504 \[15 U.S.C. 697a\] loans and servicing its loan portfolio;
 
-&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
+&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company); and
 
-&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
+&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
 #### (3) Applicability of criteria after designation
 
@@ -38,13 +38,13 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (2) Amount
 
-&emsp;The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company's exposure, as determined under subsection (b)(2)(C) of this section.
+&emsp;The amount of each loss reserve established under paragraph (1) shall be 10 percent of the amount of the company's exposure, as determined under subsection (b)(2)(C).
 
 #### (3) Assets
 
 &emsp;Each loss reserve established under paragraph (1) shall be comprised of—
 
-&emsp;&emsp;(A) segregated funds on deposit in an account or accounts with a federally insureddepository institution or institutions selected by the company, subject to a collateral assignment in favor of, and in a format acceptable to, the Administration;
+&emsp;&emsp;(A) segregated funds on deposit in an account or accounts with a federally insured depository institution or institutions selected by the company, subject to a collateral assignment in favor of, and in a format acceptable to, the Administration;
 
 &emsp;&emsp;(B) irrevocable letter or letters of credit, with a collateral assignment in favor of, and a commercially reasonable format acceptable to, the Administration; or
 
@@ -62,7 +62,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (5) Replenishment
 
-&emsp;If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company's share of the loss as provided in subsection (b)(2)(C) of this section. If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
+&emsp;If a loss has been sustained by the Administration, any portion of the loss reserve, and other funds provided by the premier company as necessary, may be used to reimburse the Administration for the premier company's share of the loss as provided in subsection (b)(2)(C). If the company utilizes the reserve, within 30 days it shall replace an equivalent amount of funds.
 
 #### (6) Disbursements
 
@@ -118,7 +118,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (E) Risk management
 
-&emsp;&emsp;If a qualified high loss reserve PCL fails to meet the requirement of subparagraph\(F)(iii) during any period for which an election is in effect under subparagraph (A) and such failure continues for 180 days, the requirements of paragraphs (2), (4), and (6) shall apply to such PCL as of the end of such 180-day period and such PCL shall make the contribution to its loss reserve described in subparagraph (D). The Administrator may waive the requirements of this subparagraph.
+&emsp;&emsp;If a qualified high loss reserve PCL fails to meet the requirement of subparagraph (F)(iii) during any period for which an election is in effect under subparagraph (A) and such failure continues for 180 days, the requirements of paragraphs (2), (4), and (6) shall apply to such PCL as of the end of such 180-day period and such PCL shall make the contribution to its loss reserve described in subparagraph (D). The Administrator may waive the requirements of this subparagraph.
 
 #### (F) Qualified high loss reserve PCL
 
@@ -132,7 +132,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (G) Specified risk management benchmarks
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified risk management benchmarks" means the following rates, as determined by the Administrator:
+&emsp;&emsp;For purposes of this paragraph, the term "specified risk management benchmarks"means the following rates, as determined by the Administrator:
 
 &emsp;&emsp;&emsp;(i) Currency rate.
 
@@ -230,15 +230,15 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (f) Review
 
-After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with the eligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g) of this section, but such review shall not affect any outstanding debenture guarantee.
+After the issuance and sale of debentures under this section, the Administration, at intervals not greater than 12 months, shall review the financings made by each premier certified lender. The review shall include the lender's credit decisions and general compliance with theeligibility requirements for each financing approved under the program authorized under this section. The Administration shall consider the findings of the review in carrying out its responsibilities under subsection (g), but such review shall not affect any outstanding debenture guarantee.
 
 #### (g) Suspension or revocation
 
 The designation of a certified development company as a premier certified lender may be suspended or revoked if the Administration determines that the company—
 
-&emsp;(1) has not continued to meet the criteria for eligibility under subsection (b) of this section;
+&emsp;(1) has not continued to meet the criteria for eligibility under subsection (b);
 
-&emsp;(2) has not established or maintained the loss reserve required under subsection (c) of this section;
+&emsp;(2) has not established or maintained the loss reserve required under subsection (c);
 
 &emsp;(3) is failing to adhere to the Administration's rules and regulations; or
 
@@ -246,7 +246,7 @@ The designation of a certified development company as a premier certified lender
 
 #### (h) Effect of suspension or revocation
 
-A suspension or revocation under subsection (g) of this section shall not affect any outstanding debenture guarantee.
+A suspension or revocation under subsection (g) shall not affect any outstanding debenture guarantee.
 
 #### (i) Program goals
 
@@ -274,7 +274,7 @@ October 22, 1994, referred to in subsec. (j), was in the original "the date of e
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted "(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)" before "; and".
+<b>2004</b>—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted "(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)" before "; and".
 
 Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted "subsection (c)" for "subsection (c)(2)".
 

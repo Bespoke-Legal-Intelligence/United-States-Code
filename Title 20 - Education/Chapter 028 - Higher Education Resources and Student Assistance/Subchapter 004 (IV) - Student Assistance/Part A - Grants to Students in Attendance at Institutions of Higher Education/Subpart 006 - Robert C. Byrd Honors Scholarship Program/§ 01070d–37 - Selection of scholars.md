@@ -20,7 +20,7 @@ The selection process shall be completed, and the awards made, prior to the end 
 
 #### References in Text
 
-For ratification of Compact of Free Association with the Republic of Palau, referred to in subsec. (b), seeProc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
+For ratification of Compact of Free Association with the Republic of Palau, referred to in subsec. (b), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Prior Provisions
 

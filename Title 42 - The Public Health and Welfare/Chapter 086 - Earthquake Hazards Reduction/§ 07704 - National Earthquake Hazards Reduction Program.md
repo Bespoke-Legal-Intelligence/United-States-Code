@@ -234,7 +234,7 @@
 
 #### (1) Guidance
 
-&emsp;The Interagency Coordinating Committee shall each year provide guidance to the other Program agencies concerning the preparation of requests for appropriations for activities related to the Program, and shall prepare, in conjunction with the other Program agencies,an annual Program budget to be submitted to the Office of Management and Budget.
+&emsp;The Interagency Coordinating Committee shall each year provide guidance to the other Program agencies concerning the preparation of requests for appropriations for activities related to the Program, and shall prepare, in conjunction with the other Program agencies, an annual Program budget to be submitted to the Office of Management and Budget.
 
 #### (2) Reports
 
@@ -262,7 +262,7 @@ Subsec. (b)(1)(B). Pub. L. 108–360, §103(2)(A)(ii), (iii), added subpar. (B) 
 
 Subsec. (b)(1)(C). Pub. L. 108–360, §103(2)(A)(ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "prepare, in conjunction with the other Program agencies, a biennial report, to be submitted to the Congress within 90 days after the end of each even-numbered fiscal year, which shall describe the activities and achievements of the Program during the preceding two fiscal years;".
 
-Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted "Federal Emergency Management Agency, the National Science Foundation" for "National Science Foundation, the National Institute of Standards and Technology". Former subpar. (D) redesignated (C).
+Subsec. (b)(1)(D), (E). Pub. L. 108–360, §103(2)(A)(ii), (v), redesignated subpar. (E) as (D) and substituted "Federal Emergency Management Agency, the National Science Foundation" for "National ScienceFoundation, the National Institute of Standards and Technology". Former subpar. (D) redesignated (C).
 
 Subsec. (b)(2). Pub. L. 108–360, §103(2)(B), inserted heading, struck out former heading "Federal Emergency Management Agency", added subpar. (A), and struck out heading and text of former subpar. (A) which related to earthquake program responsibilities of the Director of the Federal Emergency Management Agency.
 
@@ -346,7 +346,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
-Pub. L. 105–47, §2, Oct. 1, 1997, 111 Stat. 1160, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305; Pub. L. 107–110, title X, §1076(cc), Jan. 8, 2002, 115 Stat. 2093, provided that:
+Pub. L. 105–47, §2, Oct. 1, 1997, 111 Stat. 1160, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305; Pub. L. 107–110, title X, §1076(cc), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 114–95, title IX, §9215(aa), Dec. 10, 2015, 129 Stat. 2172, provided that:
 
 "(a)
 
@@ -444,7 +444,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;"(A)
 
-Local educational agency.—The term 'local educational agency' has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
+Local educational agency.—The term 'local educational agency' has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;&emsp;"(B)
 
@@ -452,7 +452,7 @@ School.—The term 'school' means a nonprofit institutional day or residential s
 
 &emsp;"(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or herunder section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 "(d)
 
@@ -522,7 +522,7 @@ The purposes of these requirements are to reduce risks to the lives of occupants
 
 (a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
 
-(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
+(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no laterthan 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
 (c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 
@@ -538,7 +538,7 @@ Sec. 4. Agency Responsibilities. (a) The Secretary of Homeland Security shall be
 
 (b) To the extent permitted by law, each agency shall issue or amend existing regulations or procedures to comply with this order within 3 years of its issuance and plan for their implementation through the usual budget process. Thereafter, each agency shall review, within a period not to exceed 3 years, its regulations or procedures to assess the need to incorporate new or revised standards and practices.
 
-Sec. 5. Reporting. The Department of Homeland Security shall request, from each agency affected by this order, information on the status of its procedures, progress in its implementation plan, and the impact ofthis order on its operations. The Department of Homeland Security shall include an assessment of the execution of this order in its annual report to the Congress on the National Earthquake Hazards Reduction Program.
+Sec. 5. Reporting. The Department of Homeland Security shall request, from each agency affected by this order, information on the status of its procedures, progress in its implementation plan, and the impact of this order on its operations. The Department of Homeland Security shall include an assessment of the execution of this order in its annual report to the Congress on the National Earthquake Hazards Reduction Program.
 
 Sec. 6. Judicial Review. Nothing in this order is intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 

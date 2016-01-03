@@ -42,7 +42,7 @@ Section was formerly set out as a note under section 7274m of Title 42, The Publ
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–66 amended section generally. Prior to amendment, text read as follows: "Not later than September 1 each year, the Secretary of Energy shall submit to the congressional defense committees the report entitled 'Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities', or any successor report to such report."
+<b>2013</b>—Pub. L. 113–66 amended section generally. Prior to amendment, text read as follows: "Not later thanSeptember 1 each year, the Secretary of Energy shall submit to the congressional defense committees the report entitled 'Annual Report to the President on the Status of Safeguards and Security of Domestic Nuclear Weapons Facilities', or any successor report to such report."
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §3141(h)(7)(D), which directed the amendment of subsec. (b) by inserting "of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 2048; 42 U.S.C. 7251 note)" after "section 3161", could not be executed because of the repeal of subsec. (b) by Pub. L. 106–65. See 1999 Amendment note below.
 

@@ -28,7 +28,7 @@
 
 (c) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L.106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 #### (3) Monitoring priorities
 
-&emsp;The Secretary shall monitor the States, and shall require each State to monitor the local educational agencies located in the State (except the State exercise of general supervisory responsibility), using quantifiable indicators in each of the following priority areas, and using such qualitative indicators as are needed to adequately measure performance in the following priority areas:
+&emsp;The Secretary shall monitor the States, and shall require each State to monitor the localeducational agencies located in the State (except the State exercise of general supervisory responsibility), using quantifiable indicators in each of the following priority areas, and using such qualitative indicators as are needed to adequately measure performance in the following priority areas:
 
 &emsp;&emsp;(A) Provision of a free appropriate public education in the least restrictive environment.
 
@@ -158,7 +158,7 @@
 
 &emsp;If the Secretary determines, for 2 consecutive years, that a State needs assistance under subsection (d)(2)(A)(ii) in implementing the requirements of this subchapter, the Secretary shall take 1 or more of the following actions:
 
-&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofitagencies, and require the State to work with appropriate entities. Such technical assistance may include—
+&emsp;&emsp;(A) Advise the State of available sources of technical assistance that may help the State address the areas in which the State needs assistance, which may include assistance from the Office of Special Education Programs, other offices of the Department of Education, other Federal agencies, technical assistance providers approved by the Secretary, and other federally funded nonprofit agencies, and require the State to work with appropriate entities. Such technical assistance may include—
 
 &emsp;&emsp;&emsp;(i) the provision of advice by experts to address the areas in which the State needs assistance, including explicit plans for addressing the area for concern within a specified period of time;
 

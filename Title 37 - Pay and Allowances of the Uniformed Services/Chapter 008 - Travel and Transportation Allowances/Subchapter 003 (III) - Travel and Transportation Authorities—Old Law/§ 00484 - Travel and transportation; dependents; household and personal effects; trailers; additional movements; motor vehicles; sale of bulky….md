@@ -14,7 +14,7 @@
 
 &emsp;(1) to the member's official residence of record;
 
-&emsp;(2) to the residence of his dependent, next of kin, or other person entitled to custody of the effects, under regulations prescribed by the Secretary concerned; or
+&emsp;(2) to the residence of his dependent, next of kin, or other person entitled to custody of theeffects, under regulations prescribed by the Secretary concerned; or
 
 &emsp;(3) on request of the member (if injured or ill), or his dependent, next of kin, or other person described in clause (2), to another location determined in advance or later approved by the Secretary concerned, or his designee.
 
@@ -108,7 +108,7 @@ Only that portion of the source law which is applicable to members of the unifor
 
 In subsection (a), the words "Beginning June 25, 1950, and" are omitted as executed. The words "In this section" are substituted for "for the purposes of this section only, the terms". The words "not to exceed" are omitted as unnecessary. The words "outside the United States, or in Alaska or Hawaii" are substituted for "outside the continental limits of the United States or in Alaska" to conform to the definition in 37 U.S.C. 101(1).
 
-In subsection (b), the words "Transportation . . . may be provided" are substituted for "may be moved". The words "a member of a uniformed service on active duty . . . or absent for a period of more than 29 days in a missing status" are substituted for "any person in active service . . . absent for a period of thirty days or more in any status listed in section 2 of this Act", for clarity and to conform to the definitions in 37 U.S.C. 101(20) and (23) and revised section 551(2) of this chapter. In clause (1), the words "the member's" are substituted for "for any such person". In clause (2), the words "under . . . prescribed . . . Secretary concerned" are substituted for "in accordance with . . . issued . . .head of the department concerned". In clause (3), the words "on request of the member" are substituted for "upon the person's application". The words "other person described in clause (2)" are substituted for "such . . . other person". The words "Secretary concerned, or his designee" are substituted for "head of the department concerned or by such person as he may designate".
+In subsection (b), the words "Transportation . . . may be provided" are substituted for "may be moved". The words "a member of a uniformed service on active duty . . . or absent for a period of more than 29 days in a missing status" are substituted for "any person in active service . . . absent for a period of thirty days or more in any status listed in section 2 of this Act", for clarity and to conform to the definitions in 37 U.S.C. 101(20) and (23) and revised section 551(2) of this chapter. In clause (1), the words "the member's" are substituted for "for any such person". In clause (2), the words "under . . . prescribed . . . Secretary concerned" are substituted for "in accordance with . . . issued . . . head of the department concerned". In clause (3), the words "on request of the member" are substituted for "upon the person's application". The words "other person described in clause (2)" are substituted for "such . . . other person". The words "Secretary concerned, or his designee" are substituted for "head of the department concerned or by such person as he may designate".
 
 In subsection (c), the words "a member described in subsection (b) of this section" are substituted for "the person". The words "transportation . . . authorized by this section" are substituted for "the movement . . . provided for herein". The words "provided . . . when" are substituted for "authorized . . . in cases where".
 
@@ -158,7 +158,7 @@ Subsec. (c). Pub. L. 93–548, §3(2), inserted "or ill" before "status".
 
 Subsec. (a). Pub. L. 92–477, §1(2), authorized at Government expense without cost limitation and under prescribed regulations the transportation of house trailers or mobile dwellings, including a privately owned motor vehicle, in place of household and personal effects of members in a missing status.
 
-Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependents and household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
+Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and transportation for dependentsand household and personal effects, or dependents and house trailer or mobile dwelling of members in a missing status for more than one year.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–623 substituted "29" for "twenty-nine".
 

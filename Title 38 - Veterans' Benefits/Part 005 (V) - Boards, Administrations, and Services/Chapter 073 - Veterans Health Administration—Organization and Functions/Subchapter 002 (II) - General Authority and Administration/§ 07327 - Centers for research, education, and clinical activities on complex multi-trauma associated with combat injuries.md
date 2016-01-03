@@ -112,7 +112,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 #### Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations
 
-Pub. L. 110–417, \[div. A\], title VII, §723, Oct. 14, 2008, 122 Stat. 4508, provided that:
+Pub. L. 110–417, \[div. A\], title VII, §723, Oct. 14, 2008, 122 Stat. 4508, as amended by Pub. L. 114–92, div. A, title X, §1079(d)(2), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 "(a)
 
@@ -130,23 +130,7 @@ Responsibilities.—The center shall have the responsibilities as follows:
 
 &emsp;"(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research.
 
-&emsp;"(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.
-
-"(d)
-
-Reports.—
-
-&emsp;"(1)
-
-In general.—Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to Congress a report on the activities of the center.
-
-&emsp;"(2)
-
-Elements.—Each report under this subsection shall include the following:
-
-&emsp;&emsp;"(A) In the case of the first report under this subsection, a description of the implementation of the requirements of this Act.
-
-&emsp;&emsp;"(B) A description and assessment of the activities of the center during the one-year period ending on the date of such report, including an assessment of the role of such activities in improving and enhancing the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations."
+&emsp;"(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate."
 
 #### Designation of Centers
 

@@ -14,7 +14,7 @@ The House amendment adopts section 1107(b) of the Senate amendment which clarifi
 
 #### senate report no. 95–989
 
-This section places a debtor in possession in the shoes of a trustee in every way. The debtor is given the rights and powers of a chapter 11 trustee. He is required to perform the functions and duties of a chapter 11 trustee (except the investigative duties). He is also subject to any limitations on a chapter 11 trustee, and to such other limitations and conditions as the court prescribes cf. <i>Wolf v. Weinstein</i>, 372 U.S. 633, 649–650 (1963).
+This section places a debtor in possession in the shoes of a trustee in every way. The debtor is given the rights and powers of a chapter 11 trustee. He is required to perform the functions and duties of a chapter 11 trustee\(except the investigative duties). He is also subject to any limitations on a chapter 11 trustee, and to such other limitations and conditions as the court prescribes cf. <i>Wolf v. Weinstein</i>, 372 U.S. 633, 649–650 (1963).
 
 #### Amendments
 

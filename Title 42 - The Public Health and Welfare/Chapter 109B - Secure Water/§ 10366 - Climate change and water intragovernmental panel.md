@@ -4,7 +4,7 @@
 
 The Secretary and the Administrator shall establish and lead a climate change and water intragovernmental panel—
 
-&emsp;(1) to review the current scientific understanding of each impact of global climatechange on the quantity and quality of freshwater resources of the United States; and
+&emsp;(1) to review the current scientific understanding of each impact of global climate change on the quantity and quality of freshwater resources of the United States; and
 
 &emsp;(2) to develop any strategy that the panel determines to be necessary to improve observational capabilities, expand data acquisition, or take other actions—
 
@@ -34,7 +34,7 @@ The panel shall be comprised of—
 
 #### (c) Review elements
 
-In conducting the review and developing the strategy under subsection (a), the panel shall consult with State water resource agencies, the Advisory Committee, drinking water utilities, water research organizations, and relevant water user, environmental, and other nongovernmental organizations—
+In conducting the review and developing the strategy under subsection (a), the panel shall consult with State water resource agencies, the Advisory Committee, drinking water utilities,water research organizations, and relevant water user, environmental, and other nongovernmental organizations—
 
 &emsp;(1) to assess the extent to which the conduct of measures of streamflow, groundwater levels, soil moisture, evapotranspiration rates, evaporation rates, snowpack levels, precipitation amounts, flood risk, and glacier mass is necessary to improve the understanding of the Federal Government and the States with respect to each impact of global climate change on water resources;
 

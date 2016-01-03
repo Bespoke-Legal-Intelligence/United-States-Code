@@ -26,13 +26,13 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(H) support enforcement of tribal protection orders and implementation of full faith and credit educational projects and comity agreements between Indian tribes and States; and
 
-&emsp;&emsp;(I) ensure that adequate tribal technical assistance that is developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
+&emsp;&emsp;(I) ensure that adequate tribal technical assistance that is developed and provided byentities having expertise in tribal law, customary practices, and Federal Indian law is made available to Indian tribes, tribal courts, tribal organizations, and tribal nonprofit organizations for all programs relating to violence against Indian women.
 
 #### (c) Authority
 
 #### (1) In general
 
-&emsp;The Deputy Director shall ensure that a portion of the tribal set-aside funds from anygrant awarded under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), or the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491) is used to enhance the capacity of Indian tribes to address the safety of Indian women.
+&emsp;The Deputy Director shall ensure that a portion of the tribal set-aside funds from any grant awarded under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), or the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491) is used to enhance the capacity of Indian tribes to address the safety of Indian women.
 
 #### (2) Accountability
 
@@ -68,7 +68,7 @@ The Violence Against Women Act of 2000, referred to in subsec. (c)(1), is div. B
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3793 of this title.
 
-<i><sup>1</sup></i><i> So in original. There is no par. (2).</i>
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

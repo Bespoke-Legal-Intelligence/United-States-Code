@@ -10,7 +10,7 @@ Exclusion for Certain Items.—The Secretary of Defense may exclude from the rep
 
 &emsp;(1) the Secretary determines that the item represents a low risk of danger to the public and would be of minimal utility to any person who may illegally receive such item; and
 
-&emsp;(2) the exclusion of such item is specified as being excluded from the reporting requirementin a memorandum of agreement between the Secretary of Defense and the Secretary of the Treasury.
+&emsp;(2) the exclusion of such item is specified as being excluded from the reporting requirement in a memorandum of agreement between the Secretary of Defense and the Secretary of the Treasury.
 
 (c)
 

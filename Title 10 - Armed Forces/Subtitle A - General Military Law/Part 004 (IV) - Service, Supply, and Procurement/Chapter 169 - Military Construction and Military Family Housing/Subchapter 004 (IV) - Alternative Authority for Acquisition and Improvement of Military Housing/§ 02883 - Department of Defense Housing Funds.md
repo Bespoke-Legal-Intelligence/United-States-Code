@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 108–136, §1031(a)(51), inserted before period at end "or
 
 Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
 
-<b>1996</b>—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end "The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses."
+<b>1996</b>—Subsec. (d)(1), (2). Pub. L. 104–201 inserted at end "The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that areotherwise available to the Department of Defense for such types of expenses."
 
 #### Effective Date of 2013 Amendment
 

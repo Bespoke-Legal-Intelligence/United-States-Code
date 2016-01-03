@@ -234,7 +234,7 @@ Ohio \& Erie Canal National Heritage Corridor, Ohio (see Ohio \& Erie National H
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor (see The Last Green Valley National Heritage Corridor, Connecticut and Massachusetts).
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314.
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
 
 The Last Green Valley National Heritage Corridor \[formerly Quinebaug and Shetucket Rivers Valley National Heritage Corridor\], Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726; Pub. L. 111–11, title VIII, §8201, Mar. 30, 2009, 123 Stat. 1291; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(H), (2), (c)(1), Dec. 19, 2014, 128 Stat. 3802, 3804.
 
@@ -248,7 +248,7 @@ Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, 
 
 Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314.
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
 
 Automobile National Heritage Area (see MotorCities National Heritage Area, Michigan).
 
@@ -260,7 +260,7 @@ Cache La Poudre River National Heritage Area, Colorado.—Pub. L. 111–11, titl
 
 Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub. L. 109–338, title II, §§297–297J, Oct. 12, 2006, 120 Stat. 1837–1844; Pub. L. 111–11, title VII, §7116(i), Mar. 30, 2009, 123 Stat. 1203.
 
-Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iii), Dec. 19, 2014, 128 Stat. 3801.
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iii), Dec. 19, 2014, 128 Stat. 3801; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
 
 Freedom's Frontier National Heritage Area, Kansas and Missouri.—Pub. L. 109–338, title II, §§261–269, Oct. 12, 2006, 120 Stat. 1807–1813.
 
@@ -298,7 +298,7 @@ Northern Rio Grande National Heritage Area, New Mexico.—Pub. L. 109–338, tit
 
 Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
 
-Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(ii), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
+Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(ii), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
 
 Sangre de Cristo National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8001, Mar. 30, 2009, 123 Stat. 1224.
 
@@ -308,11 +308,11 @@ South Park National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8
 
 Steel Industry American Heritage Area (see Rivers of Steel National Heritage Area, Pennsylvania).
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314.
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 114–113, div. G, title I, §116(b)(2), Dec. 18, 2015, 129 Stat. 2551.
 
 Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
 
-Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §157, Oct. 11, 2000, 114 Stat. 963; Pub. L. 113–235, div. F, title I, §120(b), Dec. 16, 2014, 128 Stat. 2421; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(E), (2), Dec. 19, 2014, 128 Stat. 3802.
+Wheeling National Heritage Area, West Virginia.—Pub. L. 106–291, title I, §157, Oct. 11, 2000, 114 Stat. 963; Pub. L. 113–235, div. F, title I, §120(b), Dec. 16, 2014, 128 Stat. 2421; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(E), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 114–113, div. G, title I, §116(a), Dec. 18, 2015, 129 Stat. 2550.
 
 Yuma Crossing National Heritage Area, Arizona.—Pub. L. 106–319, Oct. 19, 2000, 114 Stat. 1280; Pub. L. 109–318, §1, Oct. 11, 2006, 120 Stat. 1745; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(F), (2), Dec. 19, 2014, 128 Stat. 3802.
 
@@ -320,7 +320,7 @@ National Heritage Canalways
 
 &nbsp;
 
-Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(v), (2), Dec. 19, 2014, 128 Stat. 3801, 3802.
+Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(v), (2), Dec. 19, 2014, 128 Stat. 3801, 3802; Pub. L. 114–113, div. G, title I, §116(b)(1), Dec. 18, 2015, 129 Stat. 2550.
 
 National Heritage Partnerships
 
@@ -376,7 +376,7 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, as amended by Pub. L. 111–11, 
 
 #### Chesapeake Bay Initiative
 
-Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
 #### Charleston, Arkansas, National Commemorative Site
 
@@ -392,7 +392,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat.
 
 &emsp;"(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
 
-"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the 'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
+"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
 
 "(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools."
 
@@ -440,7 +440,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;"(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
 
-&emsp;"(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
+&emsp;"(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76,9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
 
 &emsp;"(4) the growth since 1883 of the historic town of Coupeville.
 

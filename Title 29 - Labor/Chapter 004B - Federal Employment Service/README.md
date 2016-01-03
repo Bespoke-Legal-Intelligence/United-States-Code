@@ -19,7 +19,7 @@
 | [49k.](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | 49<i>l.</i> | Miscellaneous operating authorities. |
 | 49l–1. | Authorization of appropriations. |
-| 49l–2. | Employment statistics. |
+| 49l–2. | Workforce and labor market information system. |
 | 49m, 49n. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,5 +49,5 @@
 - [&sect; 00049k - Rules and regulations](%C2%A7%2000049k%20-%20Rules%20and%20regulations.md)
 - [&sect; 00049l - Miscellaneous operating authorities](%C2%A7%2000049l%20-%20Miscellaneous%20operating%20authorities.md)
 - [&sect; 00049l&#8211;1 - Authorization of appropriations](%C2%A7%2000049l%E2%80%931%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 00049l&#8211;2 - Employment statistics](%C2%A7%2000049l%E2%80%932%20-%20Employment%20statistics.md)
+- [&sect; 00049l&#8211;2 - Workforce and labor market information system](%C2%A7%2000049l%E2%80%932%20-%20Workforce%20and%20labor%20market%20information%20system.md)
 - [&sect; 00049m, 49n - Omitted](%C2%A7%2000049m%2C%2049n%20-%20Omitted.md)

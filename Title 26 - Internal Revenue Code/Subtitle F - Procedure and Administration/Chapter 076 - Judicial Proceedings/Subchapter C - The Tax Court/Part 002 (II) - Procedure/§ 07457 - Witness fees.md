@@ -2,7 +2,7 @@
 
 #### (a) Amount
 
-Any witness summoned or whose deposition is taken under section 7456 shall receive the same fees and mileage as witnesses in courts of the United States.
+Any witness summoned or whose deposition is taken under section 7456 shall receive the samefees and mileage as witnesses in courts of the United States.
 
 #### (b) Payment
 

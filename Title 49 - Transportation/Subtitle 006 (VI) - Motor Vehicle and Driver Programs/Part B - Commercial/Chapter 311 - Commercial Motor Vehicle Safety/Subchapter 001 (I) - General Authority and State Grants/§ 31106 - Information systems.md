@@ -44,7 +44,7 @@ Standards.—To implement this section, the Secretary shall prescribe technical 
 
 (b)
 
-Performance and Registration Information Program.—
+Performance and Registration Information Systems Management.—
 
 &emsp;(1)
 
@@ -74,7 +74,7 @@ Conditions for participation.—The Secretary shall require States, as a conditi
 
 &emsp;(4)
 
-Grants.—From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
+Grants.—From the funds authorized by section 31104(i), the Secretary may make agrant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
 
 (c)(1)
 
@@ -104,7 +104,11 @@ Information Availability and Privacy Protection Policy.—The Secretary shall de
 
 In general.—Notwithstanding any prohibition on disclosure of information in section 31105(h) or 31143(b) of this title or section 552a of title 5, the Secretary may disclose information maintained by the Secretary pursuant to chapters 51, 135, 311, or 313 of this title to appropriate personnel of a State agency or instrumentality authorized to carry out State commercial motor vehicle safety activities and commercial driver's license laws, or appropriate personnel of a local law enforcement agency, in accordance with standards, conditions, and procedures as determined by the Secretary. Disclosure under this section shall not operate as a waiver by the Secretary of any applicable privilege against disclosure under common law or as a basis for compelling disclosure under section 552 of title 5.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 991; Pub. L. 105–178, title IV, §4004(a), June 9, 1998, 112 Stat. 398; Pub. L. 109–59, title IV, §§4108(a), 4109(a), Aug. 10, 2005, 119 Stat. 1720; Pub. L. 112–141, div. C, title II, §§32103(b), 32306, 32508, 32602, July 6, 2012, 126 Stat. 780, 793, 805, 807.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 991; Pub. L. 105–178, title IV, §4004(a), June 9, 1998, 112 Stat. 398; Pub. L. 109–59, title IV, §§4108(a), 4109(a), Aug. 10, 2005, 119 Stat. 1720; Pub. L. 112–141, div. C, title II, §§32103(b), 32306, 32508, 32602, July 6, 2012, 126 Stat. 780, 793, 805, 807; Pub. L. 114–94, div. A, title V, §§5101(e)(2), 5102, Dec. 4, 2015, 129 Stat. 1525, 1526.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 114–94, div. A, title V, §5101(e)(2), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, subsection (b) of this section is amended by striking paragraph (4). See 2015 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -150,6 +154,10 @@ In subsection (b)(2), the word "schedule" is substituted for "system" for clarit
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b). Pub. L. 114–94, §5102, substituted "Systems Management" for "Program" in heading.
+
+Subsec. (b)(4). Pub. L. 114–94, §5101(e)(2), struck out par. (4). Text read as follows: "From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection."
+
 <b>2012</b>—Subsec. (a)(3)(H). Pub. L. 112–141, §32103(b), added subpar. (H).
 
 Subsec. (b)(3)(C). Pub. L. 112–141, §32602, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "establish and implement a process to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order."
@@ -166,6 +174,12 @@ Subsec. (b)(2) to (4). Pub. L. 109–59, §4109(a), added pars. (2) to (4) and s
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by section 5102 of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out asa note under section 5313 of Title 5, Government Organization and Employees.
+
+Amendment by section 5101(e)(2) of Pub. L. 114–94 effective Oct. 1, 2016, see section 5101(f) of Pub. L. 114–94, set out as a note under section 31102 of this title.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -176,7 +190,7 @@ General references to "this title" deemed to refer also to chapters 509 and 511 
 
 #### Commercial Vehicle Information Systems and Networks Deployment
 
-Pub. L. 109–59, title IV, §4126, Aug. 10, 2005, 119 Stat. 1738, provided that:
+Pub. L. 109–59, title IV, §4126, Aug. 10, 2005, 119 Stat. 1738, as amended by Pub. L. 114–94, div. A, title V, §5105(f)(1), Dec. 4, 2015, 129 Stat. 1529, provided that:
 
 "(a)
 
@@ -200,11 +214,11 @@ In general.—The Secretary shall make grants to eligible States for the core de
 
 &emsp;"(2)
 
-Amount of grants.—The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (112 Stat. 420) may not exceed $2,500,000.
+Amount of grants.—The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (112 Stat. 420) may not exceed $2,500,000. Funds deobligated by the Secretary from previous year grants shall not be counted toward the $2,500,000 maximum aggregate amount for core deployment.
 
 &emsp;"(3)
 
-Use of funds.—Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State.
+Use of funds.—Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State. Funds may also be used for planning activities, including the development or updating of program or top level design plans.
 
 "(d)
 
@@ -224,7 +238,7 @@ Amount of grants.—Each fiscal year, the Secretary may distribute funds availab
 
 &emsp;"(4)
 
-Use of funds.—A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks.
+Use of funds.—A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks. Funds may also be used for planning activities, including the development or updating of program or top level design plans.
 
 "(e)
 
@@ -295,4 +309,6 @@ Core deployment.—The term 'core deployment' means the deployment of systems in
 &emsp;"(4)
 
 Expanded deployment.—The term 'expanded deployment' means the deployment of systems in a State that exceed the requirements of a core deployment of commercial vehicle information systems and networks, improve safety and the productivity of commercial motor vehicle operations, and enhance transportation security."
+
+<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(5), (f), (g), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 4126 of Pub. L. 109–59, set out above, is repealed, subject to a transition provision.\]</i>
 

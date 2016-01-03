@@ -34,7 +34,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
 
-(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
+(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the samearea at the time the Secretary is offering crude oil for sale in such area under this subsection.
 
 (5) The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
 
@@ -42,7 +42,29 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (7) Rules, regulations, or orders issued in order to carry out this subsection which have the applicability and effect of a rule as defined in section 551(4) of title 5 shall not be subject to the requirements of subchapter II of chapter 5 of such title or to section 6393 of this title.
 
-(8) The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title.
+(8)
+
+Notice to congress.—
+
+&emsp;(A)
+
+Prior notice.—Not less than 14 days before the date on which a test is carried out under this subsection, the Secretary shall notify both Houses of Congress of the test.
+
+&emsp;(B)
+
+Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
+
+&emsp;(C)
+
+Detailed description.—
+
+&emsp;&emsp;(i)
+
+In general.—Not later than 180 days after the date on which a test is completed under this subsection, the Secretary shall submit to both Houses of Congress a detailed description of the test.
+
+&emsp;&emsp;(ii)
+
+Report.—A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under section 6245 of this title.
 
 #### (h) Prevention or reduction of adverse impact of severe domestic energy supply interruptions
 
@@ -186,13 +208,15 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec.22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g)(8). Pub. L. 114–74 added par. (8) and struck out former par. (8) which read as follows: "The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under section 6245 of this title."
 
 <b>2000</b>—Pub. L. 106–469, §103(15)(A), substituted "sale of petroleum products" for "distribution of the Reserve" in section catchline.
 
@@ -238,7 +262,7 @@ Subsec. (h)(3). Pub. L. 106–469, §103(15)(G)(iv), substituted "sale" for "dis
 
 Subsec. (h)(1)(A). Pub. L. 102–486, §1401(2), inserted "or international" after "domestic".
 
-<b>1990</b>—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrelsof crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program."
+<b>1990</b>—Subsec. (g)(1). Pub. L. 101–383, §8, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In order to evaluate the implementation of the Distribution Plan, the Secretary shall, commencing within 180 days after July 2, 1985, carry out a test drawdown and distribution under this subsection through the sale or exchange of approximately 1,100,000 barrels of crude oil from the Reserve. The requirement of this paragraph shall not apply if the President determines, within the 180-day period described in the preceding sentence, that implementation of the Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program."
 
 Subsec. (h). Pub. L. 101–383, §3(b), added subsec. (h).
 
@@ -273,4 +297,74 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 &emsp;"(A) section 523 of the Energy Policy and Conservation Act (42 U.S.C. 6393); or
 
 &emsp;"(B) section 501 of the Department of Energy Organization Act (42 U.S.C. 7191)."
+
+#### Strategic Petroleum Reserve Drawdown and Sale
+
+Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740, provided that:
+
+"(a)
+
+Drawdown and Sale.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsections (b) and (c), the Secretary of Energy shall drawdown and sell from the Strategic Petroleum Reserve—
+
+&emsp;&emsp;"(A) the quantity of barrels of crude oil that the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers for each of fiscal years 2016 and 2017;
+
+&emsp;&emsp;"(B) 16,000,000 barrels of crude oil during fiscal year 2023;
+
+&emsp;&emsp;"(C) 25,000,000 barrels of crude oil during fiscal year 2024; and
+
+&emsp;&emsp;"(D) 25,000,000 barrels of crude oil during fiscal year 2025.
+
+&emsp;"(2)
+
+Deposit of amounts received from sale.—Amounts received from a sale under paragraph (1) shall be deposited in the general fund of the Treasury during the fiscal year in which the sale occurs.
+
+"(b)
+
+Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in quantities that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full quantity authorized by that subsection.
+
+"(c)
+
+Increase; Limitation.—
+
+&emsp;"(1)
+
+Increase.—The Secretary of Energy may increase the drawdown and sales under subparagraphs (A) through (I) of subsection (a)(1) as the Secretary of Energy determines to be appropriate to maximize the financial return to United States taxpayers.
+
+&emsp;"(2)
+
+Limitation.—The Secretary of Energy shall not drawdown or conduct sales of crude oil under this section after the date on which a total of $6,200,000,000 has been deposited in the general fund of the Treasury from sales authorized under this section."
+
+Pub. L. 114–74, title IV, §403, Nov. 2, 2015, 129 Stat. 589, provided that:
+
+"(a)
+
+Drawdown and Sale.—Notwithstanding section 161 of the Energy Policy and Conservation Act (42 U.S.C. 6241), except as provided in subsection (b), the Secretary of Energy shall draw down and sell—
+
+&emsp;"(1) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2018;
+
+&emsp;"(2) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2019;
+
+&emsp;"(3) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2020;
+
+&emsp;"(4) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2021;
+
+&emsp;"(5) 8,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2022;
+
+&emsp;"(6) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2023;
+
+&emsp;"(7) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2024; and
+
+&emsp;"(8) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2025.
+
+"(b)
+
+Emergency Protection.—The Secretary shall not draw down and sell crude oil under this section in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act (42 U.S.C. 6241(h)) in the full amount authorized by that subsection.
+
+"(c)
+
+Proceeds.—Proceeds from a sale under this section shall be deposited into the general fund of the Treasury during the fiscal year in which the sale occurs."
 

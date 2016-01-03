@@ -16,7 +16,7 @@ Grants under this section may be used by the law enforcement agency to—
 
 &emsp;(2) investigate the use of the Internet to facilitate the sexual abuse of children; and
 
-&emsp;(3) purchase computer hardware and software necessary to investigate sexual abuse ofchildren over the Internet, access local, State, and Federal databases needed to apprehend sex offenders, and facilitate the creation and enforcement of sex offender registries.
+&emsp;(3) purchase computer hardware and software necessary to investigate sexual abuse of children over the Internet, access local, State, and Federal databases needed to apprehend sex offenders, and facilitate the creation and enforcement of sex offender registries.
 
 #### (c) Criteria
 

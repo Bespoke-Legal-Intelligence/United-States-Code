@@ -12,7 +12,7 @@ Any construction work and labor in each State shall be performed in accordance w
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b) and authorized advance payments by the Secretary to the States for financing the United States' pro rata share of the comprehensive fish and wildlife plan.
+<b>1970</b>—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b) and authorized advance payments by the Secretary to the States for financing the UnitedStates' pro rata share of the comprehensive fish and wildlife plan.
 
 #### Transfer of Functions
 

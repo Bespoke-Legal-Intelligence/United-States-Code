@@ -178,7 +178,7 @@ Pub. L. 110–387, title I, §§102–105, Oct. 10, 2008, 122 Stat. 4112–4114,
 
 &emsp;"(4) While the Veterans Health Administration has dramatically increased health services for veterans from 1996 through 2006, the number of veterans receiving specialized substance use disorder treatment services decreased 18 percent during that time. No comparable decrease in the national rate of substance use disorder has been observed during that time.
 
-&emsp;"(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of such treatment services throughout the health care system of the Veterans Health Administration is inconsistent.
+&emsp;"(5) While some facilities of the Veterans Health Administration provide exemplary substance use disorder treatment services, the availability of suchtreatment services throughout the health care system of the Veterans Health Administration is inconsistent.
 
 &emsp;"(6) According to a 2006 report by the Government Accountability Office, the Department of Veterans Affairs significantly reduced its substance use disorder treatment and rehabilitation services between 1996 and 2006, and the Fiscal Year 2007 National Mental Health Program Monitoring System report shows that little progress has been made in restoring these services to their pre-1996 levels.
 
@@ -376,7 +376,7 @@ Report.—After the end of the 15-month period beginning on the date the first l
 
 #### Evaluation of Veterans' Administration Inpatient and Outpatient Drug and Alcohol Treatment Programs
 
-Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs toconduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
+Pub. L. 100–690, title II, §2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans' Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans' Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
 
 #### Ratification for Lapsed Period
 

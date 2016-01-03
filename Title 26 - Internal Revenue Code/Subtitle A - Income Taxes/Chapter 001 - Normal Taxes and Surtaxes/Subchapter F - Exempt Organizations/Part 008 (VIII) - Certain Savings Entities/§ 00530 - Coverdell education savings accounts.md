@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (B) Distributions in excess of expenses
 
-&emsp;&emsp;If such aggregate distributions exceed such expenses during the taxable year, theamount otherwise includible in gross income under paragraph (1) shall be reduced by the amount which bears the same ratio to the amount which would be includible in gross income under paragraph (1) (without regard to this subparagraph) as the qualified education expenses bear to such aggregate distributions.
+&emsp;&emsp;If such aggregate distributions exceed such expenses during the taxable year, the amount otherwise includible in gross income under paragraph (1) shall be reduced by the amount which bears the same ratio to the amount which would be includible in grossincome under paragraph (1) (without regard to this subparagraph) as the qualified education expenses bear to such aggregate distributions.
 
 #### (C) Coordination with Hope and Lifetime Learning credits and qualified tuition programs
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (7) Special rules for death and divorce
 
-&emsp;Rules similar to the rules of paragraphs (7) and (8) of section 220(f) shall apply. In applyingthe preceding sentence, members of the family (as so defined) of the designated beneficiary shall be treated in the same manner as the spouse under such paragraph (8).
+&emsp;Rules similar to the rules of paragraphs (7) and (8) of section 220(f) shall apply. In applying the preceding sentence, members of the family (as so defined) of the designated beneficiary shall be treated in the same manner as the spouse under such paragraph (8).
 
 #### (8) Deemed distribution on required distribution date
 
@@ -210,11 +210,11 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632.)
+(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632.)
 
 #### References in Text
 
-Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by Pub. L. 113–295, title II, §221(a)(28)(B), Dec. 19, 2014, 128 Stat. 4041.
+Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(28)(B), Dec. 19, 2014, 128 Stat. 4041.
 
 The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
 

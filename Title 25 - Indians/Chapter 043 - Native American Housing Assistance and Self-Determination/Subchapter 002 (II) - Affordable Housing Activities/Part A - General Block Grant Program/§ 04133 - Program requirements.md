@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Subject to paragraph (2), each recipient shall develop written policies governing rents and homebuyer payments charged for dwelling units assisted under this chapter, including the methods by which such rents and homebuyer payments are determined.
+&emsp;Subject to paragraph (2), each recipient shall develop written policies governing rents and homebuyer payments charged for dwelling units assisted under this chapter, includingthe methods by which such rents and homebuyer payments are determined.
 
 #### (2) Maximum rent
 

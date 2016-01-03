@@ -6,7 +6,7 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–430, which directed amendment of section by substituting "October 1992, and numbered626–80,039–C" for "October 1986, and numbered 62680033–B", was executed by making the substitution for "October 1986, and numbered 626–80,033–B" to reflect the probable intent of Congress.
+<b>1992</b>—Pub. L. 102–430, which directed amendment of section by substituting "October 1992, and numbered 626–80,039–C" for "October 1986, and numbered 62680033–B", was executed by making the substitution for "October 1986, and numbered 626–80,033–B" to reflect the probable intent of Congress.
 
 <b>1986</b>—Pub. L. 99–583 substituted "October 1986, and numbered 626–80,033–B" for "December 1980, and bearing the number 626–91014".
 
@@ -20,5 +20,5 @@ Pub. L. 102–430, §1, Oct. 23, 1992, 106 Stat. 2208, provided that: "This Act 
 
 #### Effective Date of Authorizations of Appropriations; Authority To Contract, Incur Obligations, and Make Payments
 
-Pub. L. 96–612, §2, Dec. 28, 1980, 94 Stat. 3578, provided that: "Authorizations of moneys to be appropriated under this Act \[enacting sections 460u–20 to 460u–23 of this title and amending this section and sections 460u–1, 460u–3, 460u–5, 460u–7, and 460u–9 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts."
+Pub. L. 96–612, §2, Dec. 28, 1980, 94 Stat. 3578, provided that: "Authorizations of moneys to be appropriated under this Act \[enacting sections 460u–20 to 460u–23 of this title and amending this section and sections460u–1, 460u–3, 460u–5, 460u–7, and 460u–9 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts."
 

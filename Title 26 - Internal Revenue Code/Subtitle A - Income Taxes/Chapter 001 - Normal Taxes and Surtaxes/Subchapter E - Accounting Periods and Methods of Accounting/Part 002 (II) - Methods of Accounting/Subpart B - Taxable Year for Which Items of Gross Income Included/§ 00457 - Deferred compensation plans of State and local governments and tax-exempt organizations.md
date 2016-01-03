@@ -40,7 +40,7 @@ For purposes of this section, the term "eligible deferred compensation plan" mea
 
 &emsp;&emsp;&emsp;(ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
 
-&emsp;(4) which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+&emsp;(4) which provides that compensation will be deferred for any calendar month only if anagreement providing for such deferral has been entered into before the beginning of such month,
 
 &emsp;(5) which meets the distribution requirements of subsection (d), and
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable voluntary early retirement incentive plan" means a voluntary early retirement incentive plan maintained by—
 
-&emsp;&emsp;&emsp;&emsp;(I) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)), or
+&emsp;&emsp;&emsp;&emsp;(I) a local educational agency (as defined in section 8101 of the Elementary and Secondary Education Act of 1965), or
 
 &emsp;&emsp;&emsp;&emsp;(II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) and exempt from tax under section 501(a).
 
@@ -214,7 +214,7 @@ For purposes of this section—
 
 #### (B) Nonelective deferred compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initialservice requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
 
 #### (13) Special rule for churches
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term "applicable employment retention plan" means an employment retention plan maintained by—
 
-&emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),<sup>1</sup> or
+&emsp;&emsp;&emsp;(i) a local educational agency (as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801),<sup>2</sup> or
 
 &emsp;&emsp;&emsp;(ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not betreated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
+&emsp;A plan maintained by an eligible employer described in subsection (e)(1)(A) shall not be treated as an eligible deferred compensation plan unless all assets and income of the plan described in subsection (b)(6) are held in trust for the exclusive benefit of participants and their beneficiaries.
 
 #### (2) Taxability of trusts and participants
 
@@ -370,13 +370,21 @@ For purposes of this section—
 
 &emsp;A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126-128; Pub. L. 107–147, title IV, §411(o)(9), (p)(5), Mar. 9, 2002, 116 Stat. 49, 51; Pub. L. 109–280, title VIII, §§829(a)(4), 845(b)(3), title XI, §1104(a)(1), (b), Aug. 17, 2006, 120 Stat. 1002, 1015, 1058, 1059; Pub. L. 110–245, title I, §104(c)(3), June 17, 2008, 122 Stat. 1627; Pub. L. 113–295, div. A, title II, §221(a)(57)(H), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 114–95, title IX, §9215(uu)(2), Dec. 10, 2015, 129 Stat. 2183.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### References in Text
+
+Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to section 7801 of Title 20, Education.
+
+Section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801), referred to in subsec. (f)(4)(C)(i), was renumbered section 8101 of that Act by Pub. L. 114–95, title VIII, §8001(a)(1), Dec. 10, 2015, 129 Stat. 2089. See note above.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(11)(D)(ii)(I). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2014</b>—Subsec. (e)(15)(A). Pub. L. 113–295 substituted "is $15,000." for "shall be the amount determined in accordance with the following table:" and struck out table at end listing applicable dollar amounts for taxable years beginning in 2002.
 
@@ -424,7 +432,7 @@ Subsec. (e)(9). Pub. L. 107–16, §649(b)(2)(A), in heading substituted "Benefi
 
 Subsec. (e)(9)(A)(i). Pub. L. 107–16, §648(b), substituted "the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D))" for "such amount".
 
-Subsec. (e)(15). Pub. L. 107–16, §611(e)(2), amended heading and text of par. (15) generally. Prior to amendment, text read as follows: "The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shallbe the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500."
+Subsec. (e)(15). Pub. L. 107–16, §611(e)(2), amended heading and text of par. (15) generally. Prior to amendment, text read as follows: "The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500."
 
 Subsec. (e)(16). Pub. L. 107–16, §641(a)(1)(A), added par. (16).
 
@@ -504,6 +512,10 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
 <b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out "described in section 501(c)(12)" after "any organization" and substituted "electric service on a mutual or cooperative basis" for "electric service" and in cl. (ii) substituted "paragraph (4) or (6) of section 501(a)" for "section 501(c)(6)" and "at least 80 percent of the members" for "all the members".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -522,7 +534,7 @@ Pub. L. 109–280, title XI, §1104(d), Aug. 17, 2006, 120 Stat. 1060, as amende
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and sections 623 and 1002 ofTitle 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
+In general.—The amendments made by this section \[amending this section and sections 623 and 1002 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].
 
 "(2)
 
@@ -554,7 +566,7 @@ Amendment by section 646(a)(3) of Pub. L. 107–16 applicable to distributions a
 
 Amendment by section 647(b) of Pub. L. 107–16 applicable to trustee-to-trustee transfers after Dec. 31, 2001, see section 647(c) of Pub. L. 107–16, set out as a note under section 403 of this title.
 
-Amendment by section 648(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 648(c) of Pub. L. 107–16, set out as a note under section 411 of this title.
+Amendment by section 648(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section648(c) of Pub. L. 107–16, set out as a note under section 411 of this title.
 
 Pub. L. 107–16, title VI, §649(c), June 7, 2001, 115 Stat. 128, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to distributions after December 31, 2001."
 
@@ -630,7 +642,7 @@ Treatment of certain nonelective deferred compensation.—Section 457 of the 198
 
 &emsp;&emsp;&emsp;"(I) was in writing on such date, and
 
-&emsp;&emsp;&emsp;"(II) on such date provides for a deferral for each taxable year covered by the agreement of afixed amount or of an amount determined pursuant to a fixed formula, and
+&emsp;&emsp;&emsp;"(II) on such date provides for a deferral for each taxable year covered by the agreement of a fixed amount or of an amount determined pursuant to a fixed formula, and
 
 &emsp;&emsp;"(ii) the individual with respect to whom the deferral is made was covered under such agreement on such date.
 
@@ -662,7 +674,7 @@ Application to tax-exempt organizations.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the application of section 457 of the Internal Revenue Code of 1986 by reason of the amendments made by this section to deferred compensation plans established and maintained by organizations exempt from tax shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as provided in subparagraph (B), the application of section 457 of the Internal Revenue Code of 1986 by reason of the amendments made by this section to deferred compensationplans established and maintained by organizations exempt from tax shall apply to taxable years beginning after December 31, 1986.
 
 &emsp;"(B)
 
@@ -718,7 +730,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1100–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1100–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rules
 
@@ -754,7 +766,7 @@ Pub. L. 95–600, title I, §131(c)(3), as added by Pub. L. 97–248, title II, 
 
 "(A)
 
-In general.—The amendments made by this section \[enacting this section and provisions set out as notes under this section\] shall not apply to any qualified State judicial plan.
+In general.—The amendments made by this section \[enacting this section and provisions set out asnotes under this section\] shall not apply to any qualified State judicial plan.
 
 "(B)
 
@@ -774,5 +786,7 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term 'qua
 
 &emsp;"(v) the plan during any year does not pay benefits with respect to any participant which exceed the limitations of section 415(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]."
 
-<i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
 

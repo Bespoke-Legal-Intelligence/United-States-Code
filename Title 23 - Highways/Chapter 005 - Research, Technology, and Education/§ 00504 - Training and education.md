@@ -66,7 +66,7 @@ Revision of courses offered.—The Institute shall periodically—
 
 &emsp;(4)
 
-Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned toa State under section 104(b)(3) <sup>1</sup> for the surface transportation program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
+Set-aside; federal share.—Not to exceed ½ of 1 percent of the funds apportioned to a State under section 104(b)(2) for the surface transportation block grant program shall be available for expenditure by the State transportation department for the payment of not to exceed 80 percent of the cost of tuition and direct educational expenses (excluding salaries) in connection with the education and training of employees of State and local transportation agencies in accordance with this subsection.
 
 &emsp;(5)
 
@@ -252,11 +252,11 @@ Institution of higher education.—The term "institution of higher education" ha
 
 &emsp;&emsp;(B)
 
-Local educational agency.—The term "local educational agency" has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+Local educational agency.—The term "local educational agency" has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;&emsp;(C)
 
-State educational agency.—The term "State educational agency" has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+State educational agency.—The term "State educational agency" has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 (e)
 
@@ -358,7 +358,7 @@ Federal share.—The Federal share of the cost of an activity carried out under 
 
 &emsp;(6)
 
-Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>2</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>1</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
 (h)
 
@@ -396,17 +396,21 @@ Strategic plan.—The Secretary shall require each center to develop a multiyear
 
 &emsp;&emsp;&emsp;&emsp;(II) how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
 
-(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880.)
+(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, §1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, §9215(vvv), Dec. 10, 2015, 129 Stat. 2191.)
 
 #### References in Text
 
-Section 104(b)(3), referred to in subsec. (a)(4), means section 104(b)(3) prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), (C), is classified to section 7801 of Title 20, Education.
 
 #### Prior Provisions
 
 A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportationblock grant program" for "surface transportation program".
+
+Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2012</b>—Subsec. (a)(2)(A). Pub. L. 112–141, §52004(1)(A), inserted "and the employees of any other applicable Federal agency" before the semicolon at end.
 
@@ -441,6 +445,12 @@ Subsec. (d). Pub. L. 109–59, §5204(d)(1), added subsec. (d).
 Subsecs. (e), (f). Pub. L. 109–59, §5204(e), added subsecs. (e) and (f).
 
 Subsec. (g). Pub. L. 109–59, §5204(h)(1), added subsec. (g).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -504,7 +514,5 @@ Participation.—An operating administration of the Department and the Office of
 
 Funding.—Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

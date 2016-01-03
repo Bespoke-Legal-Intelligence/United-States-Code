@@ -2,7 +2,7 @@
 
 #### Codification
 
-Act Mar. 3, 1925, ch. 426, 43 Stat. 1110, as completely amended, renumbered, and revised by Pub. L. 86–777,Sept. 13, 1960, 74 Stat. 918, is classified to section 167 et seq. of this title.
+Act Mar. 3, 1925, ch. 426, 43 Stat. 1110, as completely amended, renumbered, and revised by Pub. L. 86–777, Sept. 13, 1960, 74 Stat. 918, is classified to section 167 et seq. of this title.
 
 Section 161, acts Mar. 3, 1925, ch. 426, §1, 43 Stat. 1110; Mar. 3, 1927, ch. 355, 44 Stat. 1387; Sept. 1, 1937, ch. 895, 50 Stat. 885, authorized Secretary of the Interior to acquire and reserve helium-gas lands and to produce and store helium gas. See section 3 of act Mar. 3, 1925, as amended by Pub. L. 86–777, which is classified to section 167a of this title.
 

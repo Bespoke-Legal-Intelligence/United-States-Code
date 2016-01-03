@@ -10,7 +10,7 @@
 
 #### (b) State compliance
 
-Not later than 24 months after the date the regulations described in subsection (a) of this section are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
+Not later than 24 months after the date the regulations described in subsection (a) are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
 
 #### (c) Authorization of appropriations
 
@@ -18,7 +18,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (d) No verification requirement for nonprofit charitable organizations
 
-Subject to subsection (a) of this section, a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
+Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
 (Pub. L. 104–193, title IV, §432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§504, 508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673; Pub. L. 105–33, title V, §5572(a), Aug. 5, 1997, 111 Stat. 641.)
 
@@ -26,7 +26,7 @@ Subject to subsection (a) of this section, a nonprofit charitable organization, 
 
 The Immigration and Nationality Act, referred to in subsec. (a)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-This chapter, referred to in subsec. (d), was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y ofTitle 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
+This chapter, referred to in subsec. (d), was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 #### Amendments
 

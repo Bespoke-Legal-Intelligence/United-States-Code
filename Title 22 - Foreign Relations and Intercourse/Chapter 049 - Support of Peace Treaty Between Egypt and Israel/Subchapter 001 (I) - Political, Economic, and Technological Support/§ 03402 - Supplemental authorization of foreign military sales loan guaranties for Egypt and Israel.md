@@ -14,7 +14,7 @@ Funds made available pursuant to subsection (b) of this section may be used only
 
 #### (d) Repayment schedule
 
-Loans guaranteed with funds made available pursuant to subsection (b) of this section shallbe on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
+Loans guaranteed with funds made available pursuant to subsection (b) of this section shall be on terms calling for repayment within a period of not less than thirty years, including an initial grace period of ten years on repayment of principal.
 
 #### (e) Modification of terms of guaranteed loans
 

@@ -28,9 +28,9 @@ The Board of Directors shall elect annually a Chairman from among the members of
 
 Members of the Board of Directors—
 
-&emsp;(1) appointed under paragraphs (1) and (2) of subsection (a) of this section shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
+&emsp;(1) appointed under paragraphs (1) and (2) of subsection (a) shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
 
-&emsp;(2) appointed under paragraph (3) of subsection (a) of this section shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under section 5314 of title 5 and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
+&emsp;(2) appointed under paragraph (3) of subsection (a) shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under section 5314 of title 5 and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
 
 #### (e) Rules and records
 
@@ -52,5 +52,5 @@ A chief executive officer of the Assistance Board shall be selected by the Board
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L.102–237, set out as a note under section 1421 of Title 7, Agriculture.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
 

@@ -12,7 +12,7 @@
 
 &emsp;(ii) where a provision of law requires that an action challenging a final agency regulation be commenced before the expiration of the 1-year period, the number of days specified in such provision of law that is after the date the analysis is made available to the public.
 
-(4) In granting any relief in an action under this section, the court shall order the agency totake corrective action consistent with this chapter and chapter 7, including, but not limited to—
+(4) In granting any relief in an action under this section, the court shall order the agency to take corrective action consistent with this chapter and chapter 7, including, but not limited to—
 
 &emsp;(A) remanding the rule to the agency, and
 

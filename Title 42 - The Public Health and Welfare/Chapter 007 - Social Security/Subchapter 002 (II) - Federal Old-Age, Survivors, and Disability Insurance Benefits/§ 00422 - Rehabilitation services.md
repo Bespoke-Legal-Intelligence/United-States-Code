@@ -16,7 +16,7 @@
 
 &emsp;(B) the month in which his disability (as defined in section 423(d) of this title) ceases (as determined after application of paragraph (2) of this subsection).
 
-(5) Upon conviction by a Federal court that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
+(5) Upon conviction by a Federal court, or the imposition of a civil monetary penalty under section 1320a–8 of this title, that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
 
 &emsp;(A) providing false information to the Commissioner of Social Security as to whether the individual had earnings in or for a particular period, or as to the amount thereof;
 
@@ -50,13 +50,13 @@
 
 &emsp;(B) subject to the provisions of the preceding sentence, the amount which should be charged to each of the Trust Funds.
 
-(5) For purposes of this subsection the term "vocational rehabilitation services" shall havethe meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type, scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
+(5) For purposes of this subsection the term "vocational rehabilitation services" shall have the meaning assigned to it in title I of the Rehabilitation Act of 1973 \[29 U.S.C. 720 et seq.\], except that such services may be limited in type,scope, or amount in accordance with regulations of the Commissioner of Social Security designed to achieve the purpose of this subsection.
 
 #### (e) Treatment referrals for individuals with alcoholism or drug addiction condition
 
 In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 405(j)(1)(B) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
 
-(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(l)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513.)
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(l)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(d), Nov. 2, 2015, 129 Stat. 604.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ The Rehabilitation Act of 1973, referred to in subsec. (d)(1), (5), is Pub. L. 9
 The Public Health Service Act, referred to in subsec. (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(5). Pub. L. 114–74 inserted ", or the imposition of a civil monetary penalty under section 1320a–8 of this title," after "conviction by a Federal court" in introductory provisions.
 
 <b>2004</b>—Subsec. (c)(5). Pub. L. 108–203 added par. (5).
 
@@ -106,7 +108,7 @@ Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted "or father's" after "mother'
 
 Subsec. (b)(3). Pub. L. 98–21, §309(n), inserted "divorced husband," after "husband,".
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of theRehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for thereasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
 
 <b>1980</b>—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
 
@@ -184,7 +186,7 @@ Amendment by Pub. L. 92–603 applicable with respect to monthly benefits under 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 104(d)(3), (4) of Pub. L. 90–248 applicable with respect to monthly benefits under thissubchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
+Amendment by section 104(d)(3), (4) of Pub. L. 90–248 applicable with respect to monthly benefits under this subchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
 
 Amendment by section 158(c)(5) of Pub. L. 90–248 applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 

@@ -8,7 +8,7 @@
 
 (3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
-(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of creditagainst the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
+(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
 (5) In the case of wages paid by the trustee of an estate under title 11 of the United States Code, if the failure to pay contributions on time was without fault by the trustee, paragraph (3) shall be applied by substituting "100 percent" for "90 percent".
 
@@ -78,7 +78,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;For purposes of subparagraph (C) of subsection (c)(2), the 5-year benefit cost rate applicable to any State for any taxable year is that percentage obtained by dividing—
 
-&emsp;&emsp;(A) one-fifth of the total of the compensation paid under the State unemployment compensation law during the 5-year period ending at the close of the second calendar year preceding such taxable year, by
+&emsp;&emsp;(A) one-fifth of the total of the compensation paid under the State unemploymentcompensation law during the 5-year period ending at the close of the second calendar year preceding such taxable year, by
 
 &emsp;&emsp;(B) the total of the remuneration subject to contributions under the State unemployment compensation law with respect to the first calendar year preceding such taxable year.
 
@@ -206,7 +206,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (A) Potential additional taxes
 
-&emsp;&emsp;The term "potential additional taxes" means, with respect to any State for any taxable year, the aggregate amount of the additional tax which would be payable under this chapter for such taxable year by all taxpayers subject to the unemployment compensation law of such State for such taxable year if paragraph (2) of subsection (c) had applied to such taxable year and any preceding taxable year without regard to this subsection but with regard to subsection (f).
+&emsp;&emsp;The term "potential additional taxes" means, with respect to any State for any taxable year, the aggregate amount of the additional tax which would be payable under this chapter for such taxable year by all taxpayers subject to the unemployment compensation law of such State for such taxableyear if paragraph (2) of subsection (c) had applied to such taxable year and any preceding taxable year without regard to this subsection but with regard to subsection (f).
 
 #### (B) Treatment of certain reductions
 
@@ -440,7 +440,7 @@ Transitional rule for certain small businesses.—
 
 &emsp;"(A)
 
-In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986, in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualifiedsmall business provision if the requirements of subparagraph (B) are met with respect to such employee.
+In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986, in the case of taxable years beginning after December 31, 1984, and before January 1, 1989, a taxpayer shall be allowed the additional credit under section 3302(b) of such Code with respect to any employee covered by a qualified small business provision if the requirements of subparagraph (B) are met with respect to such employee.
 
 &emsp;"(B)
 
@@ -472,7 +472,7 @@ Pub. L. 95–19, title II, §201(b), Apr. 12, 1977, 91 Stat. 43, provided that e
 
 Pub. L. 94–45, title I, §110(b), June 30, 1975, 89 Stat. 239, provided that:
 
-"(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
+"(1) The amendment made by subsection (a) \[amending this section\] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State's unemploymentaccount in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act \[section 1321 et seq. of Title 42, The Public Health and Welfare\]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State's unemployment programs means an increase in the State's unemployment tax rate, an increase in the State's unemployment tax base, a change in the experience rating formulas, or a combination thereof.
 
 "(2) The Secretary of Labor shall promptly prescribe and publish in the Federal Register regulations setting forth the criteria according to which he will determine the requirements of the preceding paragraph.
 

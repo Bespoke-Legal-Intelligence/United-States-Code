@@ -16,7 +16,7 @@ The Secretary shall establish throughout the United States such local, State, re
 
 (B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control) with one or more of such facilities.
 
-(4) The Secretary may consider a variety of factors in selecting the contractors that the Secretary determines would provide for themost efficient and effective administration of this part, such as geographic location, size, and prior experience in health care quality improvement. Quality improvement organizations operating as of January 1, 2012, shall be allowed to compete for new contracts (as determined appropriate by the Secretary) along with other qualified organizations and are eligible for renewal of contracts for terms five years thereafter (as determined appropriate by the Secretary).
+(4) The Secretary may consider a variety of factors in selecting the contractors that the Secretary determines would provide for the most efficient and effective administration of this part, such as geographic location, size, and prior experience in health care quality improvement. Quality improvement organizations operating as of January 1, 2012, shall be allowed to compete for new contracts (as determined appropriate by the Secretary) along with other qualified organizations and are eligible for renewal of contracts for terms five years thereafter (as determined appropriate by the Secretary).
 
 #### (c) Terms of contract
 
@@ -32,7 +32,7 @@ Each contract with an organization under this section shall provide that—
 
 &emsp;(5) reimbursement shall be made to the organization on a monthly basis, with payments for any month being made consistent with the Federal Acquisition Regulation.
 
-> In evaluating the performance of quality improvement organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
+> In evaluating the performance of quality improvement organizations under contracts under this part, the Secretary shall place emphasis onthe performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.
 
 #### (d) Repealed. Pub. L. 112–40, title II, §261(b)(3)(C), Oct. 21, 2011, 125 Stat. 424
 
@@ -88,7 +88,7 @@ Subsec. (b)(4). Pub. L. 112–40, §261(b)(3)(A), added par. (4).
 
 Subsec. (c). Pub. L. 112–40, §261(a)(2)(C), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
+Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of thistitle directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
 
 Subsec. (c)(3). Pub. L. 112–40, §261(b)(2), substituted "five years and shall be renewable for terms of five years" for "three years and shall be renewable on a triennial basis".
 

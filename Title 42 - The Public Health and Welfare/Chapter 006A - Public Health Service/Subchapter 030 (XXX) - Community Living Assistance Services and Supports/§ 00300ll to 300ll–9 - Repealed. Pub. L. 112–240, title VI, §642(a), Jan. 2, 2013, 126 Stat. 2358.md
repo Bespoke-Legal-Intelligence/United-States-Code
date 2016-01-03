@@ -22,7 +22,7 @@ Section 300ll–9, act July 1, 1944, ch. 373, title XXXII, §3210, as added Pub.
 
 #### Effective Date
 
-Pub. L. 111–148, title VIII, §8002(e), Mar. 23, 2010, 124 Stat. 847, which provided that the amendments made by section 8002(a), (b), and (d) (enacting this subchapter, amending section 1396a of this title, and amending provisions set out as a note under section 1396p of this title) were effective on Jan. 1, 2011, was repealed by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
+Pub. L. 111–148, title VIII, §8002(e), Mar. 23, 2010, 124 Stat. 847, which provided that the amendments madeby section 8002(a), (b), and (d) (enacting this subchapter, amending section 1396a of this title, and amending provisions set out as a note under section 1396p of this title) were effective on Jan. 1, 2011, was repealed by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.
 
 #### Construction
 

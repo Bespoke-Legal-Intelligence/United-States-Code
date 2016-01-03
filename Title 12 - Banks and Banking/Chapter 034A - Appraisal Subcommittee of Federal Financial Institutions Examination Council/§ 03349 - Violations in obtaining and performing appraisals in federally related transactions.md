@@ -2,7 +2,7 @@
 
 #### (a) Violations
 
-Except as authorized by the Appraisal Subcommittee in exercising its waiver authority pursuant to section 3348(b) of this title, it shall be a violation of this section—
+Except as authorized by the Appraisal Subcommittee in exercising its waiver authoritypursuant to section 3348(b) of this title, it shall be a violation of this section—
 
 &emsp;(1) for a financial institution to seek, obtain, or give money or any other thing of value in exchange for the performance of an appraisal by a person who the institution knows is not a State certified or licensed appraiser in connection with a federally related transaction; and
 
@@ -10,7 +10,7 @@ Except as authorized by the Appraisal Subcommittee in exercising its waiver auth
 
 #### (b) Penalties
 
-A financial institution that violates subsection (a)(1) of this section shall be subject to civil penalties under section 1818(i)(2) of this title or section 1786(k)(2) of this title, as appropriate.
+A financial institution that violates subsection (a)(1) shall be subject to civil penalties under section 1818(i)(2) of this title or section 1786(k)(2) of this title, as appropriate.
 
 #### (c) Proceeding
 

@@ -102,7 +102,7 @@ The rules of the Board shall, subject to the approval of the Commission—
 
 &emsp;&emsp;(C) if the right to exercise a review described in subparagraph (A) is declined, or if no such review is sought within the time stated in the rules of the Board, then the action taken by the holder of such delegation shall for all purposes, including appeal or review thereof, be deemed to be the action of the Board;
 
-&emsp;(3) establish ethics rules and standards of conduct for Board members and staff, including a bar on practice before the Board (and the Commission, with respect to Board-related matters) of 1 year for former members of the Board, and appropriate periods (not to exceed 1 year) for former staff of the Board; and
+&emsp;(3) establish ethics rules and standards of conduct for Board members and staff, including a bar on practice before the Board (and theCommission, with respect to Board-related matters) of 1 year for former members of the Board, and appropriate periods (not to exceed 1 year) for former staff of the Board; and
 
 &emsp;(4) provide as otherwise required by this Act.
 

@@ -14,7 +14,7 @@ A State may expend payments received under section 731 of this title to educate 
 
 &emsp;&emsp;(D) promote awareness of disability-related obstacles to continued employment;
 
-&emsp;(3) providing consultation, technical assistance, and support to employers on workplace accommodations, assistive technology, and facilities and workplace access through collaboration with community partners and employers, across States and nationally, to enable the employers to recruit, job match, hire, and retain qualified individuals with disabilities who are recipients of vocational rehabilitationservices under this subchapter, or who are applicants for such services; and
+&emsp;(3) providing consultation, technical assistance, and support to employers on workplace accommodations, assistive technology, and facilities and workplace access through collaboration with community partners and employers, across States and nationally, to enable the employers to recruit, job match, hire, and retain qualified individuals with disabilities who are recipients of vocational rehabilitation services under this subchapter, or who are applicants for such services; and
 
 &emsp;(4) assisting employers with utilizing available financial support for hiring or accommodating individuals with disabilities.
 
@@ -22,7 +22,7 @@ A State may expend payments received under section 731 of this title to educate 
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -38,5 +38,5 @@ A prior section 728a, Pub. L. 93–112, title I, §109, as added Pub. L. 102–5
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 

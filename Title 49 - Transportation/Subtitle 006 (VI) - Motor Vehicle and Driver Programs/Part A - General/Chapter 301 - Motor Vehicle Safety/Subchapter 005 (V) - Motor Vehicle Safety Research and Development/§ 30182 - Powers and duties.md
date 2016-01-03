@@ -24,9 +24,11 @@ Activities.—In carrying out a program under this section, the Secretary of Tra
 
 &emsp;(B) sell or otherwise dispose of test motor vehicles and motor vehicle equipment and use the resulting proceeds to carry out this chapter;
 
-&emsp;(4) award grants to States and local governments, interstate authorities, and nonprofit institutions; and
+&emsp;(4) award grants to States and local governments, interstate authorities, and nonprofit institutions;
 
-&emsp;(5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
+&emsp;(5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations; and
+
+&emsp;(6) in coordination with Department <sup>1</sup> of State, enter into cooperative agreements and collaborative research and development agreements with foreign governments.
 
 (c)
 
@@ -48,15 +50,21 @@ Facilities.—The Secretary may plan, design, and construct a new facility or mo
 
 (e)
 
-Increasing Costs of Approved Facilities.—The estimated maximum cost of a facility noticed under subsection (d) may be increased by an amount equal to the percentage increasein construction costs from the date the notice is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the notice. The Secretary shall decide what increase in construction costs has occurred.
+Increasing Costs of Approved Facilities.—The estimated maximum cost of a facility noticed under subsection (d) may be increased by an amount equal to the percentage increase in construction costs from the date the notice is submitted to Congress. However, the increase in the cost of the facility may not be more than 10 percent of the estimated maximum cost included in the notice. The Secretary shall decide what increase in construction costs has occurred.
 
 (f)
 
 Availability of Information, Patents, and Developments.—When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. The owner of a background patent may not be deprived of a right under the patent.
 
-(Added Pub. L. 112–141, div. C, title I, §31204(a), July 6, 2012, 126 Stat. 759.)
+(Added Pub. L. 112–141, div. C, title I, §31204(a), July 6, 2012, 126 Stat. 759; amended Pub. L. 114–94, div. B, title XXIV, §24202(a), Dec. 4, 2015, 129 Stat. 1711.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(6). Pub. L. 114–94 added par. (6).
 
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

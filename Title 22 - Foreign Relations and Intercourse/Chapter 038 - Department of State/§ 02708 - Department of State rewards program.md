@@ -118,7 +118,7 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 #### (1) Reports on payment of rewards
 
-&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
+&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shallalso discuss the significance of the information for which the reward was paid in dealing with those acts.
 
 #### (2) Annual reports
 
@@ -156,7 +156,7 @@ As used in this section:
 
 &emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
-&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or countrysupporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
+&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) of title 50.
 
 #### (2) Appropriate congressional committees
 
@@ -368,7 +368,7 @@ Procedures.—
 
 &emsp;"(2) Before making a reward under this section in a matter over which there is Federal criminal jurisdiction, the Secretary of State shall obtain the concurrence of the Attorney General.
 
-&emsp;"(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
+&emsp;"(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department BasicAuthorities Act of 1956 (22 U.S.C. 2708) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
 
 "(c)
 

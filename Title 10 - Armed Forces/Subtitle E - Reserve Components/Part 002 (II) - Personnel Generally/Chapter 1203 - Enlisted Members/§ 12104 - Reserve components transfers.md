@@ -1,6 +1,6 @@
 ### §12104. Reserve components: transfers
 
-(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
+(a) A person who would otherwise be required to be transferred to a reserve component under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.),<sup>1</sup> is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under section 651 of this title or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.).<sup>1</sup> However, no period may be credited more than once.
 
 (b) A person covered by subsection (a) shall perform the rest of his required term of service in the armed force in which he is so enlisted or in any other armed force in which he is later enlisted or appointed.
 
@@ -38,11 +38,11 @@ In subsection (a), the words "is entitled \* \* \* to be enlisted in any armed
 
 In subsection (b), the word "rest" is substituted for the words "remaining period". The words "be required to" are omitted as surplusage.
 
-In subsection (c), the words "This section does not" are substituted for the words "Nothing in this section shall be construed". The word "change" is substitutedfor the words "reduce, limit, or modify". The words "which any person may undertake to perform" are omitted as surplusage.
+In subsection (c), the words "This section does not" are substituted for the words "Nothing in this section shall be construed". The word "change" is substituted for the words "reduce, limit, or modify". The words "which any person may undertake to perform" are omitted as surplusage.
 
 #### References in Text
 
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -53,4 +53,6 @@ The Military Selective Service Act, referred to in subsec. (a), is act June 24, 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

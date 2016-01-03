@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an alien who is a national of a foreign state designated under subsection (b) of this section (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state) and who meets the requirements of subsection (c) of this section, the Attorney General, in accordance with this section—
+&emsp;In the case of an alien who is a national of a foreign state designated under subsection (b) (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state) and who meets the requirements of subsection (c), the Attorney General, in accordance with this section—
 
 &emsp;&emsp;(A) may grant the alien temporary protected status in the United States and shall not remove the alien from the United States during the period in which such status is in effect, and
 
@@ -18,15 +18,15 @@
 
 &emsp;(A) Upon the granting of temporary protected status under this section, the Attorney General shall provide the alien with information concerning such status under this section.
 
-&emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+&emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b), the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
-&emsp;(C) If, at the time of designation of a foreign state under subsection (b) of this section, an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
+&emsp;(C) If, at the time of designation of a foreign state under subsection (b), an alien (who is a national of such state) is in a removal proceeding under this subchapter, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
 &emsp;(D) Notices under this paragraph shall be provided in a form and language that the alien can understand.
 
 #### (4) Temporary treatment for eligible aliens
 
-&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) of this section has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
+&emsp;(A) In the case of an alien who can establish a prima facie case of eligibility for benefits under paragraph (1), but for the fact that the period of registration under subsection (c)(1)(A)(iv) has not begun, until the alien has had a reasonable opportunity to register during the first 30 days of such period, the Attorney General shall provide for the benefits of paragraph (1).
 
 &emsp;(B) In the case of an alien who establishes a prima facie case of eligibility for benefits under paragraph (1), until a final determination with respect to the alien's eligibility for such benefits under paragraph (1) has been made, the alien shall be provided such benefits.
 
@@ -72,7 +72,7 @@
 
 #### (B) Termination of designation
 
-&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3) of this section, but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
+&emsp;&emsp;If the Attorney General determines under subparagraph (A) that a foreign state (or part of such foreign state) no longer continues to meet the conditions for designation under paragraph (1), the Attorney General shall terminate the designation by publishing notice in the Federal Register of the determination under this subparagraph (including the basis for the determination). Such termination is effective in accordance with subsection (d)(3), but shall not be effective earlier than 60 days after the date the notice is published or, if later, the expiration of the most recent previous extension under subparagraph (C).
 
 #### (C) Extension of designation
 
@@ -98,7 +98,7 @@
 
 #### (A) Nationals of designated foreign states
 
-&emsp;&emsp;Subject to paragraph (3), an alien, who is a national of a state designated under subsection (b)(1) of this section (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state), meets the requirements of this paragraph only if—
+&emsp;&emsp;Subject to paragraph (3), an alien, who is a national of a state designated under subsection (b)(1) (or in the case of an alien having no nationality, is a person who last habitually resided in such designated state), meets the requirements of this paragraph only if—
 
 &emsp;&emsp;&emsp;(i) the alien has been continuously physically present in the United States since the effective date of the most recent designation of that state;
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;(i) the provisions of paragraphs (5) and (7)(A) of section 1182(a) of this title shall not apply;
 
-&emsp;&emsp;&emsp;(ii) except as provided in clause (iii), the Attorney General may waive any otherprovision of section 1182(a) of this title in the case of individual aliens for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest; but
+&emsp;&emsp;&emsp;(ii) except as provided in clause (iii), the Attorney General may waive any other provision of section 1182(a) of this title in the case of individual aliens for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest; but
 
 &emsp;&emsp;&emsp;(iii) the Attorney General may not waive—
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(A) the Attorney General finds that the alien was not in fact eligible for such status under this section,
 
-&emsp;&emsp;(B) except as provided in paragraph (4) and permitted in subsection (f)(3) of this section, the alien has not remained continuously physically present in the United States from the date the alien first was granted temporary protected status under this section, or
+&emsp;&emsp;(B) except as provided in paragraph (4) and permitted in subsection (f)(3), the alien has not remained continuously physically present in the United States from the date the alien first was granted temporary protected status under this section, or
 
 &emsp;&emsp;(C) the alien fails, without good cause, to register with the Attorney General annually, at the end of each 12-month period after the granting of such status, in a form and manner specified by the Attorney General.
 
@@ -174,7 +174,7 @@
 
 #### (3) Effective date of terminations
 
-&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B) of this section, such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or, at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
+&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B), such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or, at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
 
 #### (4) Detention of alien
 
@@ -232,7 +232,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;&emsp;(B) the number of nationals of each such state who have been granted temporary protected status under this section and their immigration status before being granted such status, and
 
-&emsp;&emsp;(C) an explanation of the reasons why foreign states or parts thereof were designated under subsection (b)(1) of this section and, with respect to foreign states or parts thereof previously designated, why the designation was terminated or extended under subsection (b)(3) of this section.
+&emsp;&emsp;(C) an explanation of the reasons why foreign states or parts thereof were designated under subsection (b)(1) and, with respect to foreign states or parts thereof previously designated, why the designation was terminated or extended under subsection (b)(3).
 
 #### (2) Committee report
 

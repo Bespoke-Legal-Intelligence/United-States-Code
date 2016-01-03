@@ -62,7 +62,7 @@ A system established in a State under section 10803 of this title to protect and
 
 #### (b) Annual survey report; plan of corrections
 
-The Secretary and the agency of a State which administers its State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall provide the eligible system of the State with a copy of each annual survey report and plan of corrections for cited deficiencies made pursuant to titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] with respect to any facility rendering care or treatment to individuals with mental illness in the State in which such system is located. A report or plan shall be made available within 30 days after the completion of the report or plan.
+The Secretary and the agency of a State which administers its State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] shall provide the eligible system of the State with acopy of each annual survey report and plan of corrections for cited deficiencies made pursuant to titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] with respect to any facility rendering care or treatment to individuals with mental illness in the State in which such system is located. A report or plan shall be made available within 30 days after the completion of the report or plan.
 
 #### (c) Governing authority
 
@@ -70,7 +70,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 (B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
-&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or areknowledgeable about the needs of the clients served by the system; and
+&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
 
 &emsp;(ii) in the case of a governing authority organized as a private non-profit entity, members who broadly represent or are knowledgeable about the needs of the clients served by the system including the chairperson of the advisory council of such system.
 

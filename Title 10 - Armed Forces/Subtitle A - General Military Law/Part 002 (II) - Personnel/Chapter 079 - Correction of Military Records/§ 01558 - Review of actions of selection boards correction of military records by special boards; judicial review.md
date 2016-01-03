@@ -32,7 +32,7 @@ Selection board.—(A) The term "selection board" means a selection board conven
 
 &emsp;(3)
 
-Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
+Involuntarily board-separated.—The term "involuntarily board-separated" means separated or retired from an armed force, ortransferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
 
 (c)
 
@@ -44,7 +44,7 @@ Relief Associated With Correction of Certain Actions.—(1) The Secretary of the
 
 (3) If an involuntarily board-separated person referred to in paragraph (1) does not consent to a restoration of status, rights, and entitlements under paragraph (2), the Secretary concerned shall pay that person back pay and allowances (less appropriate offsets), and shall provide that person service credit, for the period—
 
-&emsp;(A) beginning on the date of the person's separation, retirement, or transfer to the RetiredReserve or to inactive status in a reserve component, as the case may be; and
+&emsp;(A) beginning on the date of the person's separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, as the case may be; and
 
 &emsp;(B) ending on the earlier of—
 
@@ -98,7 +98,7 @@ Judicial Review.—(1) A person seeking to challenge an action or recommendation
 
 (B) If, six months after the convening of a special board in any case, the Secretary concerned has not taken final action on the report of the special board, the Secretary shall be deemed for the purposes of this subsection to have denied relief in such case.
 
-(C) Under regulations prescribed under subsection (e), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration of the case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
+(C) Under regulations prescribed under subsection (e), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration ofthe case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
 
 (g)
 

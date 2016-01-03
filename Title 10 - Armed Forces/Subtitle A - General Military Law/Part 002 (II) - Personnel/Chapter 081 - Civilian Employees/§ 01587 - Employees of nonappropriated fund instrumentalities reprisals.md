@@ -2,7 +2,7 @@
 
 (a) In this section:
 
-&emsp;(1) The term "nonappropriated fund instrumentality employee" means a civilian employee who is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces. Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties.
+&emsp;(1) The term "nonappropriated fund instrumentality employee" means a civilian employee who is paid from nonappropriated funds of Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces. Such term includes a civilian employeeof a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties.
 
 &emsp;(2) The term "civilian employee" has the meaning given the term "employee" by section 2105(a) of title 5.
 
@@ -54,7 +54,7 @@
 
 Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted "Navy Exchange Service Command" for "Navy Resale and Services Support Office".
 
-Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organizationwithin the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
+Pub. L. 104–106, §1040(a), inserted at end "Such term includes a civilian employee of a support organization within the Department of Defense or a military department, such as the Defense Finance and Accounting Service, who is paid from nonappropriated funds on account of the nature of the employee's duties."
 
 Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defense with principal responsibility for personnel and readiness" for "Assistant Secretary of Defense for Manpower and Logistics", was repealed by Pub. L. 104–201.
 
@@ -72,7 +72,7 @@ Pub. L. 104–106, div. A, title X, §1042, Feb. 10, 1996, 110 Stat. 434, provid
 
 "(a)
 
-Conforming Allowance to Allowances for Other Civilian Employees.—Subject to subsection (b), an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act \[Feb. 10, 1996\] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
+Conforming Allowance to Allowances for Other Civilian Employees.—Subject to subsection (b),an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act \[Feb. 10, 1996\] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
 
 "(b)
 

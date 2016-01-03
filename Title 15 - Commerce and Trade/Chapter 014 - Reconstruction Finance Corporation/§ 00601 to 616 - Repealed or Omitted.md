@@ -78,7 +78,7 @@ Section 606f, act June 19, 1934, ch. 653, §16, 48 Stat. 1113, related to loans 
 
 Section 606g, act Jan. 22, 1932, ch. 8, §5b, as added June 19, 1934, ch. 653, §8, 48 Stat. 1109, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
-Section 606h, act June 19, 1934, ch. 653, §10, 48 Stat. 1110, related to adjustment of maturities of obligations of borrowers. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
+Section 606h, act June 19, 1934, ch. 653, §10, 48 Stat. 1110, related to adjustment of maturities of obligationsof borrowers. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606i, act Jan. 22, 1932, ch. 8, §5c, as added Jan. 31, 1935, ch. 2, §5, 49 Stat. 3, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
@@ -146,7 +146,7 @@ Section 609y, act May 5, 1945, ch. 109, 59 Stat. 162, authorized an additional $
 
 Section 609z, act June 22, 1946, ch. 445, 60 Stat. 293, authorized an additional $70,000,000.
 
-Section 610, acts Jan. 22, 1932, ch. 8, §11, 47 Stat. 10; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, relating to penalties for false statements, etc., is now covered by sections 493, 657, 709, 1006, 1014, and 1904 of Title 18, Crimes and Criminal Procedure. It was repealed by act of May 24, 1949, ch. 139, §142, 63 Stat. 109, and Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 654.
+Section 610, acts Jan. 22, 1932, ch. 8, §11, 47 Stat. 10; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, relating topenalties for false statements, etc., is now covered by sections 493, 657, 709, 1006, 1014, and 1904 of Title 18, Crimes and Criminal Procedure. It was repealed by act of May 24, 1949, ch. 139, §142, 63 Stat. 109, and Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 654.
 
 Section 611, acts Jan. 22, 1932, ch. 8, §12, 47 Stat. 10; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, authorized the Reconstruction Finance Corporation to exercise functions, powers, etc., of certain dissolved corporations, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 

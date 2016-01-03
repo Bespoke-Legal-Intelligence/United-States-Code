@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "Federal office" has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).<sup>1</sup>
 
-&emsp;(3) The term "Presidential designee" means the official designated by the President undersection 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).<sup>1</sup>
+&emsp;(3) The term "Presidential designee" means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).<sup>1</sup>
 
 (Added Pub. L. 111–84, div. A, title V, §583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, §1075(b)(21), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 113–291, div. A, title V, §592, title X, §1071(e)(2), Dec. 19, 2014, 128 Stat. 3395, 3509.)
 
@@ -78,7 +78,7 @@ The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub.
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(e)(2), which directed substitution of "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, §592(a)(1). See below.
 
-Pub. L. 113–291, §592(a), in introductory provisions, substituted "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" and inserted ", or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location," after "their jurisdiction".
+Pub. L. 113–291, §592(a), in introductory provisions, substituted "Under" for "Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under" and inserted ", or at such installations as the Secretary ofthe military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location," after "their jurisdiction".
 
 Subsec. (f). Pub. L. 113–291, §592(b), designated existing provisions as par. (1) and added par. (2).
 

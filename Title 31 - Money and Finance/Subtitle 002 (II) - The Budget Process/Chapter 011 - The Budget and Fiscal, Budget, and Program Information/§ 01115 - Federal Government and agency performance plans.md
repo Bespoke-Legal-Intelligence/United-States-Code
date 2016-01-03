@@ -110,7 +110,7 @@ Chief Human Capital Officers.—With respect to each agency with a Chief Human C
 
 (h)
 
-Definitions.—For purposes of this section and sections 1116 through 1125, and sections 9703 <sup>1</sup> and 9704, the term—
+Definitions.—For purposes of this section and sections 1116 through 1125, and sections 9703 and 9704, the term—
 
 &emsp;(1) "agency" has the same meaning as such term is defined under section 306(f) of title 5;
 
@@ -137,10 +137,6 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 &emsp;(12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
 (Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.)
-
-#### References in Text
-
-Section 9703, referred to in subsec. (h), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Prior Provisions
 
@@ -276,7 +272,7 @@ Recommendations.—The Comptroller General shall include in the reports required
 
 #### Strategic Planning and Performance Measurement Training
 
-Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement."
+Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development anduse of strategic planning and program performance measurement."
 
 #### Ex. Ord. No. 13450. Improving Government Program Performance
 
@@ -417,6 +413,4 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

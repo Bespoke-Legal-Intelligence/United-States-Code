@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (1) Endangered status
 
-&emsp;A multiemployer plan is in endangered status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is not in critical status for the plan year and isnot described in paragraph (5), and, as of the beginning of the plan year, either—
+&emsp;A multiemployer plan is in endangered status for a plan year if, as determined by the plan actuary under paragraph (3), the plan is not in critical status for the plan year and is not described in paragraph (5), and, as of the beginning of the plan year, either—
 
 &emsp;&emsp;(A) the plan's funded percentage for such plan year is less than 80 percent, or
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iv), in making the determinations and projections under this subsection, the plan actuary shall make projections required for the current and succeeding plan years of the current value of the assets of the plan and the present value of all liabilities to participants and beneficiaries under the plan for the current plan year as of the beginning of such year. The actuary's projections shall be based on reasonable actuarial estimates, assumptions, and methods that, except as provided in clause (iii), offer the actuary's best estimate of anticipated experience under the plan. The projected present value of liabilities as of thebeginning of such year shall be determined based on the most recent of either—
+&emsp;&emsp;&emsp;Except as provided in clause (iv), in making the determinations and projections under this subsection, the plan actuary shall make projections required for the current and succeeding plan years of the current value of the assets of the plan and the present value of all liabilities to participants and beneficiaries under the plan for the current plan year as of the beginning of such year. The actuary's projections shall be based on reasonable actuarial estimates, assumptions, and methods that, except as provided in clause (iii), offer the actuary's best estimate of anticipated experience under the plan. The projected present value of liabilities as of the beginning of such year shall be determined based on the most recent of either—
 
 &emsp;&emsp;&emsp;&emsp;(I) the actuarial statement required under section 103(d) of the Employee Retirement Income Security Act of 1974 with respect to the most recently filed annual report, or
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of such election not later than 30 days after the date of such certification or such other time as the Secretary may prescribe by regulations or other guidance.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A) that a multiemployer plan is or will be in endangered or critical status for a plan year or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the endangered or critical status to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor. In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of such election not later than 30 days after the date of such certification orsuch other time as the Secretary may prescribe by regulations or other guidance.
 
 #### (ii) Plans in critical status
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (v) Notice of projection to be in critical status in a future plan year
 
-&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
+&emsp;&emsp;&emsp;In any case in which it is certified under subparagraph (A)(i) that a multiemployer plan will be in critical status for any of 5 succeeding plan years (but not for the current plan year) and the plan sponsor of such plan has not made an election to be in critical status for the plan year under paragraph (4), the plan sponsor shall, not later than 30 days after the date of the certification, provide notification of the projected critical status to the Pension Benefit Guaranty Corporation.
 
 #### (4) Election to be in critical status
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the funded percentage of a plan in seriously endangered status was more than 70 percent as of the beginning of the initial determination year—
 
-&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of such certification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
+&emsp;&emsp;&emsp;(i) paragraphs (3)(B) and (4)(B) shall apply only if the plan's actuary certifies, within 30 days after the certification under subsection (b)(3)(A) for the initial determination year, that, based on the terms of the plan and the collective bargaining agreements in effect at the time of suchcertification, the plan is not projected to meet the requirements of paragraph (3)(A) (without regard to paragraphs (3)(B) and (4)(B)), and
 
 &emsp;&emsp;&emsp;(ii) if there is a certification under clause (i), the plan may, in formulating its funding improvement plan, only take into account the rules of paragraph (3)(B) and (4)(B) for plan years in the funding improvement period beginning on or before the date on which the last of the collective bargaining agreements described in paragraph (4)(A)(ii) expires.
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (B) Schedules
 
-&emsp;&emsp;The plan sponsor shall annually update any schedule of contribution rates providedunder this subsection to reflect the experience of the plan.
+&emsp;&emsp;The plan sponsor shall annually update any schedule of contribution rates provided under this subsection to reflect the experience of the plan.
 
 #### (C) Duration of schedule
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) within 30 days after the adoption of the rehabilitation plan—
 
-&emsp;&emsp;&emsp;(i) shall provide to the bargaining parties 1 or more schedules showing revised benefit structures, revised contribution structures, or both, which, if adopted, may reasonably be expected to enable themultiemployer plan to emerge from critical status in accordance with the rehabilitation plan, and
+&emsp;&emsp;&emsp;(i) shall provide to the bargaining parties 1 or more schedules showing revised benefit structures, revised contribution structures, or both, which, if adopted, may reasonably be expected to enable the multiemployer plan to emerge from critical status in accordance with the rehabilitation plan, and
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
@@ -448,7 +448,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;A plan that emerges from critical status under subclause (I) shall not reenter critical status for any subsequent plan year unless—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the plan is projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking into account any extension of amortization periods under section 431(d), or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the plan is projected to have an accumulated funding deficiency for the plan year or any of the 9 succeeding plan years, without regard to the use of the shortfall method but taking intoaccount any extension of amortization periods under section 431(d), or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the plan is projected to become insolvent within the meaning of section 418E for any of the 30 succeeding plan years.
 
@@ -464,7 +464,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if lower, the accrual rate under the plan on such first day.
 
-> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shallbe construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
+> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
 
 #### (7) Automatic employer surcharge
 
@@ -670,7 +670,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) third, be applied to benefits under a plan that are directly attributable to a participant's service with any employer which has, prior to the date of enactment of the Multiemployer Pension Reform Act of 2014—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section 4203 of the Employee Retirement Income Security Act of 1974 and has paid the full amount of the employer's withdrawal liability under section4201(b)(1) of such Act or an agreement with the plan, and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section 4203 of the Employee Retirement Income Security Act of 1974 and has paid the full amount of the employer's withdrawal liability under section 4201(b)(1) of such Act or an agreement with the plan, and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
 
@@ -704,7 +704,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, determines to be reasonable and which provides for only de minimis increases in the liabilities of the plan, or
 
-&emsp;&emsp;&emsp;&emsp;(II) is required as a condition of qualification under part I of subchapter D of chapter 1 of subtitle A or to comply with other applicable law, as determined by the Secretary of the Treasury.
+&emsp;&emsp;&emsp;&emsp;(II) is required as a condition of qualification under part I of subchapter D ofchapter 1 of subtitle A or to comply with other applicable law, as determined by the Secretary of the Treasury.
 
 #### (v) Additional limitations
 
@@ -768,7 +768,7 @@ For purposes of this section—
 
 #### (ii) Solicitation of comments
 
-&emsp;&emsp;&emsp;Not later than 30 days after receipt of the application under clause (i), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish a notice in the Federal Register soliciting comments from contributing employers, employee organizations, and participants and beneficiaries of the plan for which an application was made and other interested parties. The application for approval of the suspension of benefits shall be published on the website of the Department of the Treasury.
+&emsp;&emsp;&emsp;Not later than 30 days after receipt of the application under clause (i), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish a notice in the Federal Register soliciting comments from contributing employers, employee organizations, and participants and beneficiaries of the plan for which an application was made andother interested parties. The application for approval of the suspension of benefits shall be published on the website of the Department of the Treasury.
 
 #### (iii) Required action; deemed approval
 
@@ -776,7 +776,7 @@ For purposes of this section—
 
 #### (iv) Agency review
 
-&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the PensionBenefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
+&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
 
 #### (v) Standard for accepting plan sponsor determinations
 
@@ -896,7 +896,7 @@ For purposes of this section—
 
 &emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 411(d)(6), the plan shall not pay—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -1010,7 +1010,7 @@ For purposes of this section—
 
 #### (7) Obligation to contribute
 
-&emsp;The term "obligation to contribute" has the meaning given such term under section 4212(a) of the Employee Retirement Income Security Act of 1974.
+&emsp;The term "obligation to contribute" has the meaning given such term under section 4212(a)of the Employee Retirement Income Security Act of 1974.
 
 #### (8) Actuarial method
 
@@ -1032,7 +1032,11 @@ For purposes of this section—
 
 &emsp;The term "benefit commencement date" means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
 
-(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822.)
+(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780-2782, 2784, 2790, 2810-2822.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
 #### References in Text
 
@@ -1096,7 +1100,7 @@ Subsec. (e)(9). Pub. L. 113–235, §201(b)(5), added par. (9).
 
 Pub. L. 113–235, §109(b)(1), struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-Subsec. (f)(3). Pub. L. 113–235, §109(b)(2)(B), which directed amendment of par. (4) as redesignated by section 109(b)(2)(A) of Pub. L. 113–235 by substituting "During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—" for "During the rehabilitation plan adoption period—", was executed by making the substitution in par. (3) as redesignated, to reflect the probable intent of Congress. See below.
+Subsec. (f)(3). Pub. L. 113–235, §109(b)(2)(B), which directed amendment of par. (4) as redesignated by section 109(b)(2)(A) of Pub. L. 113–235 by substituting "Duringthe period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—" for "During the rehabilitation plan adoption period—", was executed by making the substitution in par. (3) as so redesignated, to reflect the probable intent of Congress. See below.
 
 Pub. L. 113–235, §109(b)(2)(A), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows "Any benefit reductions under this subsection shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 4201 of the Employee Retirement Income Security Act of 1974."
 
@@ -1116,7 +1120,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(i), substituted "sectio
 
 Subsec. (c)(7)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(ii)(I), substituted "to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor," for "to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,".
 
-Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B).Prior to amendment, text read as follows: "The date specified in this subparagraph is the earlier of the date—
+Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B). Prior to amendment, text read as follows: "The date specified in this subparagraph is the earlier of the date—
 
 &emsp;"(i) on which the Secretary of Labor certifies that the parties are at an impasse, or
 

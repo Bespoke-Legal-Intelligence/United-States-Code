@@ -6,7 +6,7 @@ The term of four years for which a President and Vice President shall be elected
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–293, §1, Oct. 12, 2000, 114 Stat. 1035, provided that: "This Act \[amending provisions set out as a note under section 102 of this title\] may be cited as the 'Presidential Transition Act of 2000'."
+Pub. L. 106–293, §1, Oct. 12, 2000, 114 Stat. 1035, provided that: "This Act \[amending provisions set out asa note under section 102 of this title\] may be cited as the 'Presidential Transition Act of 2000'."
 
 #### Dwight D. Eisenhower Executive Office Building
 

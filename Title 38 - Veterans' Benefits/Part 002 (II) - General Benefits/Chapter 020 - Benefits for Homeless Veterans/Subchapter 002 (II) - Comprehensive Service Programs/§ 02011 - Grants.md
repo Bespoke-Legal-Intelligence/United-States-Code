@@ -46,7 +46,7 @@ Funding Limitations.—(1) A grant under this section may not be used to support
 
 (2) The amount of a grant under this section may not exceed 65 percent of the estimated cost of the project concerned.
 
-(3)(A) The Secretary may not deny an application from an entity that seeks a grant under this section to carry out a project described in subsection (b)(1)(A) solely on the basis that the entity proposes to use funding from other private or public sources, if the entity demonstrates that a private nonprofit organization will provide oversight and site control for the project.
+(3)(A) The Secretary may not deny an application from an entity that seeks a grant under this section to carry out a project described in subsection (b)(1)(A) solely on the basis that theentity proposes to use funding from other private or public sources, if the entity demonstrates that a private nonprofit organization will provide oversight and site control for the project.
 
 (B) In this paragraph, the term "private nonprofit organization" means the following:
 

@@ -2,13 +2,13 @@
 
 #### (a) Delegation of authority
 
-In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) of this section the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
+In accordance with this section, the Administration shall delegate to any qualified State or local development company (as defined in section 697(e) of this title) that meets the eligibility requirements of subsection (b)(1) the authority to foreclose and liquidate, or to otherwise treat in accordance with this section, defaulted loans in its portfolio that are funded with the proceeds of debentures guaranteed by the Administration under section 697 of this title.
 
 #### (b) Eligibility for delegation
 
 #### (1) Requirements
 
-&emsp;A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) of this section if—
+&emsp;A qualified State or local development company shall be eligible for a delegation of authority under subsection (a) if—
 
 &emsp;&emsp;(A) the company—
 
@@ -22,7 +22,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) has one or more employees—
 
-&emsp;&emsp;&emsp;&emsp;(I) with not less than 2 years of substantive, decision-making experience in administering the liquidation and workout of problem loans secured in a mannersubstantially similar to loans funded with the proceeds of debentures guaranteed under section 697 of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) with not less than 2 years of substantive, decision-making experience in administering the liquidation and workout of problem loans secured in a manner substantially similar to loans funded with the proceeds of debentures guaranteed under section 697 of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) who have completed a training program on loan liquidation developed by the Administration in conjunction with qualified State and local development companies that meet the requirements of this paragraph; or
 
@@ -30,15 +30,15 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (2) Confirmation
 
-&emsp;On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
+&emsp;On request the Administration shall examine the qualifications of any company described in subsection (a) to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
 
 #### (c) Scope of delegated authority
 
 #### (1) In general
 
-&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may with respect to any loan described in subsection (a) of this section—
+&emsp;Each qualified State or local development company to which the Administration delegates authority under section <sup>1</sup> (a) may with respect to any loan described in subsection (a)—
 
-&emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securing the loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
+&emsp;&emsp;(A) perform all liquidation and foreclosure functions, including the purchase in accordance with this subsection of any other indebtedness secured by the property securingthe loan, in a reasonable and sound manner according to commercially accepted practices, pursuant to a liquidation plan approved in advance by the Administration under paragraph (2)(A);
 
 &emsp;&emsp;(B) litigate any matter relating to the performance of the functions described in subparagraph (A), except that the Administration may—
 
@@ -134,7 +134,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 The Administration may revoke or suspend a delegation of authority under this section to any qualified State or local development company, if the Administration determines that the company—
 
-&emsp;(1) does not meet the requirements of subsection (b)(1) of this section;
+&emsp;(1) does not meet the requirements of subsection (b)(1);
 
 &emsp;(2) has violated any applicable rule or regulation of the Administration or any other applicable law; or
 
@@ -178,7 +178,7 @@ The Administration may revoke or suspend a delegation of authority under this se
 
 #### References in Text
 
-The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, seeShort Title of 1996 Amendment note set out under section 631 of this title and Tables.
+The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
 
 #### Change of Name
 

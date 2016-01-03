@@ -10,7 +10,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 #### (c) Requirements
 
-(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering suchguidelines. The decision not to procure such items shall be based on a determination that such procurement items—
+(1) After the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall procure such items composed of the highest percentage of recovered materials practicable (and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) of this section practicable), consistent with maintaining a satisfactory level of competition, considering such guidelines. The decision not to procure such items shall be based on a determination that such procurement items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -78,7 +78,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 &emsp;(2) manufacturing, forest residues, and other wastes such as—
 
-&emsp;&emsp;(A) dry paper and paperboard waste generated after completion of the papermakingprocess (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste, resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and
+&emsp;&emsp;(A) dry paper and paperboard waste generated after completion of the papermaking process (that is, those manufacturing operations up to and including the cutting and trimming of the paper machine reel into smaller rolls or rough sheets) including: envelope cuttings, bindery trimmings, and other paper and paperboard waste, resulting from printing, cutting, forming, and other converting operations; bag, box, and carton manufacturing wastes; and butt rolls, mill wrappers, and rejected unused stock; and
 
 &emsp;&emsp;(B) finished paper and paperboard from obsolete inventories of paper and paperboard manufacturers, merchants, wholesalers, dealers, printers, converters, or others;
 
@@ -116,7 +116,7 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 #### Codification
 
-Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
+Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intentof Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
 

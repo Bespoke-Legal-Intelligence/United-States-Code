@@ -6,7 +6,7 @@ It is the purpose of this section to encourage the establishment of partnerships
 
 &emsp;(1) improve the diversity and quality of educational opportunities for such students;
 
-&emsp;(2) assist the development efforts of eligible countries by providing training and educational assistance to persons who can help address the social and economic needs of these countries;
+&emsp;(2) assist the development efforts of eligible countries by providing training and educational assistance to persons who can helpaddress the social and economic needs of these countries;
 
 &emsp;(3) expand opportunities for cross-cultural studies and exchanges and improve the exchange of understanding and principles of democracy;
 

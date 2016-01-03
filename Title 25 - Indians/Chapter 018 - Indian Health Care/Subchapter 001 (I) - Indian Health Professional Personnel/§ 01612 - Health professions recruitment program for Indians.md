@@ -10,7 +10,7 @@ The Secretary, acting through the Service, shall make grants to public or nonpro
 
 &emsp;&emsp;(B) if they are not qualified to enroll in any such courses of study, to undertake such postsecondary education or training as may be required to qualify them for enrollment;
 
-&emsp;(2) publicizing existing sources of financial aid available to Indians enrolled in any courseof study referred to in paragraph (1) of this subsection or who are undertaking training necessary to qualify them to enroll in any such course of study; or
+&emsp;(2) publicizing existing sources of financial aid available to Indians enrolled in any course of study referred to in paragraph (1) of this subsection or who are undertaking training necessary to qualify them to enroll in any such course of study; or
 
 &emsp;(3) establishing other programs which the Secretary determines will enhance and facilitate the enrollment of Indians in, and the subsequent pursuit and completion by them of, courses of study referred to in paragraph (1) of this subsection.
 

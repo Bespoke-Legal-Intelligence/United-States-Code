@@ -8,7 +8,7 @@ Section 2963, Pub. L. 88–452, title VI, §613, Aug. 20, 1964, 78 Stat. 533; Pu
 
 Section 2964, Pub. L. 88–452, title VI, §614, Aug. 20, 1964, 78 Stat. 533, prohibited Federal control over curriculum, personnel, etc.
 
-Section 2965, Pub. L. 88–452, title VI, §615, Aug. 20, 1964, 78 Stat. 533; Pub. L. 89–253, §30(e), Oct. 9, 1965, 79 Stat. 979; Pub. L. 89–794, title VI, §609, Nov. 8, 1966, 80Stat. 1471; Pub. L. 91–177, title I, §101(b), Dec. 30, 1969, 83 Stat. 827; Pub. L. 92–424, §2(a), Sept. 19, 1972, 86 Stat. 688; Pub. L. 93–644, §14(a), Jan. 4, 1975, 88 Stat. 2329; Pub. L. 95–568, §13(g), Nov. 2, 1978, 92 Stat. 2436, related to duration of program.
+Section 2965, Pub. L. 88–452, title VI, §615, Aug. 20, 1964, 78 Stat. 533; Pub. L. 89–253, §30(e), Oct. 9, 1965, 79 Stat. 979; Pub. L. 89–794, title VI, §609, Nov. 8, 1966, 80 Stat. 1471; Pub. L. 91–177, title I, §101(b), Dec. 30, 1969, 83 Stat. 827; Pub. L. 92–424, §2(a), Sept. 19, 1972, 86 Stat. 688; Pub. L. 93–644, §14(a), Jan. 4, 1975, 88 Stat. 2329; Pub. L. 95–568, §13(g), Nov. 2, 1978, 92 Stat. 2436, related to duration of program.
 
 Section 2966, Pub. L. 88–452, title VI, §616, Aug. 20, 1964, 78 Stat. 533; Pub. L. 89–253, §29, Oct. 9, 1965, 79 Stat. 978; Pub. L. 89–794, title VI, §610, Nov. 8, 1966, 80 Stat. 1471; Pub. L. 90–222, title I, §108(l), Dec. 23, 1967, 81 Stat. 717; Pub. L. 91–177, title I, §110, Dec. 30, 1969, 83 Stat. 831; Pub. L. 92–424, §4, Sept. 19, 1972, 86 Stat. 690, related to transfer of funds.
 

@@ -118,7 +118,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535, provided that:
 
 "(a)
 
@@ -160,7 +160,7 @@ Subsequent Reviews.—An agreement under subsection (b) shall require the Nation
 
 Reports.—(1) The agreement between the Secretary and the National Academy of Sciences shall require the Academy to transmit to the Secretary and the Committees on Veterans' Affairs of the Senate and House of Representatives periodic written reports regarding the Academy's activities under the agreement. Such reports shall be submitted at least once every two years (as measured from the date of the first report).
 
-"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d),\(B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
+"(2) The first report under this subsection shall be transmitted not later than the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 6, 1991\]. That report shall include (A) the determinations and discussion referred to in subsection (d), (B) any recommendations of the Academy under subsection (e), and (C) the recommendation of the Academy as to whether the provisions of each of sections 6 through 9 \[set out below\] should be implemented by the Secretary. In making its recommendation with respect to each such section, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from implementing that section, and the cost and feasibility of implementing that section. If the Academy recommends that the provisions of section 6 should be implemented, the Academy shall also recommend the means by which clinical data referred to in that section could be maintained in the most scientifically useful way.
 
 "(h)
 
@@ -168,7 +168,7 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on December 31, 2015.
+Sunset.—This section shall cease to be effective on December 31, 2016.
 
 "(j)
 

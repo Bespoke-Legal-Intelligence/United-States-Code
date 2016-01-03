@@ -4,7 +4,7 @@ As used in this subchapter—
 
 #### (1) Agreement
 
-&emsp;The term "Agreement" means the Agreement on Government Procurement referred to in section 3511(d)(17) of this title, as submitted to the Congress, but including rectifications, modifications, and amendments which are accepted by the United States.
+&emsp;The term "Agreement" means the Agreement on Government Procurement referred toin section 3511(d)(17) of this title, as submitted to the Congress, but including rectifications, modifications, and amendments which are accepted by the United States.
 
 #### (2) Civil aircraft
 
@@ -102,7 +102,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat.267, which directed a duty rate of "Free" in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of "Free" in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994),see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 

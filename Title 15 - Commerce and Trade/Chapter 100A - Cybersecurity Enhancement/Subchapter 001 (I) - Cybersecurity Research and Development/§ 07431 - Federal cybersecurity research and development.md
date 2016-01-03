@@ -136,7 +136,7 @@ In accordance with the responsibilities under section 5511 of this title, the Di
 
 #### (f) Research on the science of cybersecurity
 
-The head of each agency and department identified under section 5511(a)(3)(B) of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+The head of each agency and department identified under section 5511(a)(3)(B) of this title,through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
 (Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974.)
 

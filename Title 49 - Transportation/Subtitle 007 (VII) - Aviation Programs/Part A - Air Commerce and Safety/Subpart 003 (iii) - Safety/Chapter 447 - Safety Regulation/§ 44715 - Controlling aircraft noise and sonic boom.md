@@ -132,7 +132,7 @@ In subsection (f), the words "under any provision of this chapter" and "that . 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–264, which in directing the general amendment of par. (1) inserted an additional subsec. (a) designation and heading identical to the existing subsec. heading as well as restating the text of par. (1), was executed by restating the text only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: "To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–264, which in directing the general amendment of par. (1) inserted an additional subsec. (a) designation and heading identical to the existing subsec. heading as well as restating thetext of par. (1), was executed by restating the text only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: "To relieve and protect the public health and welfare from aircraft noise and sonic boom, the Administrator of the Federal Aviation Administration shall prescribe—
 
 &emsp;"(A) standards to measure aircraft noise and sonic boom; and
 

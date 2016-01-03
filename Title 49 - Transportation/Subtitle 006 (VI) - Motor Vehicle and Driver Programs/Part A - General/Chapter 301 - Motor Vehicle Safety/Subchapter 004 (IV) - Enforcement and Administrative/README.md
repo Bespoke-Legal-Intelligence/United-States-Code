@@ -16,3 +16,4 @@
 - [&sect; 30169 - Annual reports](%C2%A7%2030169%20-%20Annual%20reports.md)
 - [&sect; 30170 - Criminal Penalties](%C2%A7%2030170%20-%20Criminal%20Penalties.md)
 - [&sect; 30171 - Protection of employees providing motor vehicle safety information](%C2%A7%2030171%20-%20Protection%20of%20employees%20providing%20motor%20vehicle%20safety%20information.md)
+- [&sect; 30172 - Whistleblower incentives and protections](%C2%A7%2030172%20-%20Whistleblower%20incentives%20and%20protections.md)

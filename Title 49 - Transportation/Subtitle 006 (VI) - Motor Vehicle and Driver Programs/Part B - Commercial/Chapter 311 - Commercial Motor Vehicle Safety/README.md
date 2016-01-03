@@ -14,6 +14,7 @@
 | [31107\.](Subchapter%20001%20%28I%29%20-%20General%20Authority%20and%20State%20Grants/%C2%A7%2031107%20-%20Border%20enforcement%20grants.md) | Border enforcement grants. |
 | [31108\.](Subchapter%20001%20%28I%29%20-%20General%20Authority%20and%20State%20Grants/%C2%A7%2031108%20-%20Motor%20carrier%20research%20and%20technology%20program.md) | Motor carrier research and technology program. |
 | [31109\.](Subchapter%20001%20%28I%29%20-%20General%20Authority%20and%20State%20Grants/%C2%A7%2031109%20-%20Performance%20and%20registration%20information%20system%20management.md) | Performance and registration information system management. |
+| [31110\.](Subchapter%20001%20%28I%29%20-%20General%20Authority%20and%20State%20Grants/%C2%A7%2031110%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,9 +66,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 114–94, div. A, title V, §5101(d), (e)(3), (4), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 "Motor carrier safety assistance program", 31103 "Commercial motor vehicle operators grant program", and 31104 "Authorization of appropriations" and by striking items 31107 and 31109. See 2015 Amendment note below.</i>
+
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, div. C, title II, §§32105(b), 32301(d), July 6, 2012, 126 Stat. 781, 788, added items 31134 and 31137 and struck out former item 31137 "Monitoring device and brake maintenance regulations".
+<b>2015</b>—Pub. L. 114–94, div. A, title V, §§5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, 129 Stat. 1525, 1527, substituted "Motor carrier safety assistance program" for "Grants to States" in item 31102, "Commercial motor vehicle operators grant program" for "United States Government's share of costs" in item 31103, and "Authorization of appropriations" for "Availability of amounts" in item 31104, struck out items 31107 "Border enforcement grants" and 31109 "Performance and registration information system management", and added item 31110.
+
+<b>2012</b>—Pub. L. 112–141, div. C, title II, §§32105(b), 32301(d), July 6, 2012, 126 Stat. 781, 788, added items 31134and 31137 and struck out former item 31137 "Monitoring device and brake maintenance regulations".
 
 <b>2005</b>—Pub. L. 109–59, title IV, §§4109(b)(2), 4110(b), 4111(b), 4116(e), 4117(b), 4118(b), 4119(b), Aug. 10, 2005, 119 Stat. 1721, 1722, 1724, 1728, 1729, 1732, 1733, substituted "GENERAL AUTHORITY AND STATE GRANTS" for "STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS" in subchapter I heading, "Border enforcement grants" for "Contract authority funding for information systems" in item 31107, and "Motor carrier research and technology program" for "Authorization of appropriations" in item 31108 and added items 31109 and 31149 to 31151, subchapter IV heading, and item 31161.
 

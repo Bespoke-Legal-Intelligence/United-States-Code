@@ -44,5 +44,5 @@ Amendment by section 604(b)(14)(A) of Pub. L. 104–294 effective Sept. 13, 1994
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–155, §1, July 3, 1996, 110 Stat. 1392, provided that: "This Act \[amending section 247 of this title and section 10602 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 247 of this title, and amending provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Church Arson Prevention Act of 1996'."
+Pub. L. 104–155, §1, July 3, 1996, 110 Stat. 1392, provided that: "This Act \[amending section 247 of this title and section 10602 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 247 of this title, and amending provisions setout as a note under section 534 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Church Arson Prevention Act of 1996'."
 

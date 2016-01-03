@@ -18,7 +18,7 @@ Public comment.—In developing a system of classification under paragraph (1), 
 
 &emsp;(3)
 
-Final classification.—After providing for public review and comment, and after consulting with the Administrator, the Boardshall issue final classifications. The Board shall ensure that air travel accident covered under this section is classified in accordance with the final classifications issued under this section for data for calendar year 1997, and for each subsequent calendar year.
+Final classification.—After providing for public review and comment, and after consulting with the Administrator, the Board shall issue final classifications. The Board shall ensure that air travel accident covered under this section is classified in accordance with the final classifications issued under this section for data for calendar year 1997, and for each subsequent calendar year.
 
 &emsp;(4)
 

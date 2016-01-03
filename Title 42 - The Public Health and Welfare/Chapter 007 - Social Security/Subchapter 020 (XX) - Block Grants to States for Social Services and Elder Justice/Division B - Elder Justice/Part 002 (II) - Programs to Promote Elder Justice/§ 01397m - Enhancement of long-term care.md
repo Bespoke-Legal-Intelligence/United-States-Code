@@ -38,7 +38,7 @@
 
 #### (B) Authorized activities
 
-&emsp;&emsp;An eligible entity that receives a grant under subparagraph (A) shall use funds made available through the grant to provide training and technical assistance regarding management practices using methods that are demonstrated to promote retention of individuals who provide direct care, such as—
+&emsp;&emsp;An eligible entity that receives a grant under subparagraph (A) shall use funds madeavailable through the grant to provide training and technical assistance regarding management practices using methods that are demonstrated to promote retention of individuals who provide direct care, such as—
 
 &emsp;&emsp;&emsp;(i) the establishment of standard human resource policies that reward high performance, including policies that provide for improved wages and benefits on the basis of job reviews;
 
@@ -104,7 +104,7 @@
 
 #### (B) Authority to limit number of applicants
 
-&emsp;&emsp;Nothing in this subsection shall be construed as prohibiting the Secretary fromlimiting the number of applicants for a grant under this subsection.
+&emsp;&emsp;Nothing in this subsection shall be construed as prohibiting the Secretary from limiting the number of applicants for a grant under this subsection.
 
 #### (4) Participation in State health exchanges
 

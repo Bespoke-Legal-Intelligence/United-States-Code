@@ -8,7 +8,7 @@ The term "taxable gifts" means the total amount of gifts made during the calenda
 
 #### (1) In general
 
-&emsp;In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included inthe total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
+&emsp;In the case of gifts (other than gifts of future interests in property) made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsection (a), be included in the total amount of gifts made during such year. Where there has been a transfer to any person of a present interest in property, the possibility that such interest may be diminished by the exercise of a power shall be disregarded in applying this subsection, if no part of such interest will at any time pass to any other person.
 
 #### (2) Inflation adjustment
 
@@ -94,7 +94,7 @@ Subsec. (f). Pub. L. 100–647, §1018(s)(2)(A), added subsec. (f) relating to t
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted "the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)" for ", in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following" and struck out provision that in the case of gifts made before Jan. 1, 1971, "taxable gifts" means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
 
-Subsec. (b). Pub. L. 97–34, §442(a)(3)(B), substituted provision that in the case of gifts, other than gifts offuture interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
+Subsec. (b). Pub. L. 97–34, §442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
 
 Pub. L. 97–34, §441(a), substituted "$10,000" for "$3,000".
 
@@ -158,7 +158,7 @@ Pub. L. 95–600, title VII, §702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provid
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

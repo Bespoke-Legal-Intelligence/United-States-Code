@@ -114,7 +114,7 @@ Any person subject to an order issued under this section shall not—
 
 #### (2) Exception if Director provides written consent
 
-&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibits such party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in thewritten consent. Any such consent shall be publicly disclosed.
+&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibits such party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in the written consent. Any such consent shall be publicly disclosed.
 
 #### (3) Violation of paragraph (1) treated as violation of order
 

@@ -26,7 +26,7 @@ In this part:
 
 #### (4) Highly qualified
 
-&emsp;The term "highly qualified" has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
+&emsp;The term "highly qualified" has the meaning given such term in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801) and, with respect to special education teachers, in section 1401 <sup>1</sup> of this title.
 
 #### (5) Partnership
 
@@ -69,4 +69,12 @@ In this part:
 &emsp;&emsp;(F) communicate and work with parents and guardians, and involve parents and guardians in their children's education.
 
 (Pub. L. 110–69, title VI, §6112, Aug. 9, 2007, 121 Stat. 626.)
+
+#### References in Text
+
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to "highly qualified", as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+
+Section 1401 of this title, referred to in par. (4), was amended by Pub. L. 114–95, title IX, §9214(d)(1), Dec. 10, 2015, 129 Stat. 2164, and, as so amended, no longer contains a definition of the term "highly qualified".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

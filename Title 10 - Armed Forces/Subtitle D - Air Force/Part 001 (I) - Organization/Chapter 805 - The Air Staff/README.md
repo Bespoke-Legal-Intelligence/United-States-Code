@@ -11,10 +11,13 @@
 | [8037\.](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md) | Judge Advocate General, Deputy Judge Advocate General: appointment; duties. |
 | [8038\.](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md) | Office of Air Force Reserve: appointment of Chief. |
 | [8039\.](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md) | Chief of Chaplains: appointment; duties. |
+| [8040\.](%C2%A7%2008040%20-%20Oversight%20of%20nuclear%20deterrence%20mission.md) | Oversight of nuclear deterrence mission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title XVI, §1652(a)(2), Nov. 25, 2015, 129 Stat. 1122, added item 8040.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §508(b), Jan. 2, 2013, 126 Stat. 1717, added item 8039.
 
@@ -36,3 +39,4 @@
 - [&sect; 08037 - Judge Advocate General, Deputy Judge Advocate General appointment; duties](%C2%A7%2008037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md)
 - [&sect; 08038 - Office of Air Force Reserve appointment of Chief](%C2%A7%2008038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md)
 - [&sect; 08039 - Chief of Chaplains appointment; duties](%C2%A7%2008039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md)
+- [&sect; 08040 - Oversight of nuclear deterrence mission](%C2%A7%2008040%20-%20Oversight%20of%20nuclear%20deterrence%20mission.md)

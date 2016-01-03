@@ -4,7 +4,7 @@
 
 (b) Payment of any such judgment and of interest thereon shall be a full discharge to the United States of all claims and demands arising out of the matters involved in the case or controversy, unless the judgment is designated a partial judgment, in which event only the matters described therein shall be discharged.
 
-(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, §14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L. 97–164, title I, §139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(l), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, §5(g)(11), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 979; Pub. L. 95–563, §14(e), (f), Nov. 1, 1978, 92 Stat. 2390; Pub. L.97–164, title I, §139(k), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(l), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 111–350, §5(g)(11), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### Historical and Revision Notes
 

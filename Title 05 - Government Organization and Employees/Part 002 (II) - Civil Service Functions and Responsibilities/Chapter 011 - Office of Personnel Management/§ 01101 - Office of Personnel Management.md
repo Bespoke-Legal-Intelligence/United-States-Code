@@ -46,7 +46,7 @@ Pub. L. 95–454, §1, Oct. 13, 1978, 92 Stat. 1111, provided that: "This Act \[
 
 Pub. L. 95–454, title IX, §902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
-"(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules,and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
+"(a) Except as otherwise provided in this Act \[see Tables for classification\], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
 
 "(b) No provision of this Act \[see Tables for classification\] shall affect any administrative proceedings pending at the time such provision takes effect. Orders shall be issued in such proceedings and appeals shall be taken therefrom as if this Act had not been enacted.
 
@@ -340,7 +340,7 @@ Except as otherwise specified in this Plan, all functions vested by statute in t
 
 #### Sec. 103. Deputy Director and Associate Directors
 
-(a) There shall be within the Office a Deputy Director who shall be appointed by the President by and with the advice and consent of the Senate and who shall becompensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The Deputy Director shall perform such functions as the Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
+(a) There shall be within the Office a Deputy Director who shall be appointed by the President by and with the advice and consent of the Senate and who shall be compensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The Deputy Director shall perform such functions as the Director may from time to time prescribe and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the Office of the Director.
 
 (b) There shall be within the Office not more than five Associate Directors, who shall be appointed by the Director in the excepted service, shall have such titles as the Director shall from time to time determine, and shall receive compensation at the rate now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
@@ -404,7 +404,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 (a) There shall be a Special Counsel to the Board appointed for a term of four years by the President by and with the advice and consent of the Senate, who shall be compensated as now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
-(b) There are hereby transferred to the Special Counsel all functions with respect to investigations relatingto violations of 5 U.S.C. Chapter 15; 5 U.S.C. Subchapter III of Chapter 73 (Political Activities); and 5 U.S.C. 552(a)(4)(F) (public information).
+(b) There are hereby transferred to the Special Counsel all functions with respect to investigations relating to violations of 5 U.S.C. Chapter 15; 5 U.S.C. Subchapter III of Chapter 73 (Political Activities); and 5 U.S.C. 552(a)(4)(F) (public information).
 
 (c) The Special Counsel may investigate, pursuant to 5 U.S.C. 1303, allegations of personnel practices which are prohibited by law or regulation.
 
@@ -434,7 +434,7 @@ Federal Register.
 
 #### Sec. 302. Establishment of the General Counsel of the Authority
 
-There shall be a General Counsel of the Authority, who shall be appointed by the President, by and with the advice and consent of the Senate for a term of four years, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule \[5 U.S.C. 5316\]. The General Counsel shall perform such duties as the Authority shall from time to time prescribe, including but not limited to the duty of determining and presenting facts required by the Authority in order to decide unfair labor practice complaints.
+There shall be a General Counsel of the Authority, who shall be appointed by the President, by and withthe advice and consent of the Senate for a term of four years, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule \[5 U.S.C. 5316\]. The General Counsel shall perform such duties as the Authority shall from time to time prescribe, including but not limited to the duty of determining and presenting facts required by the Authority in order to decide unfair labor practice complaints.
 
 #### Sec. 303. The Federal Service Impasses Panel
 
@@ -502,7 +502,7 @@ The positive personnel management tasks of the government—such as training, pr
 
 The adjudication and prosecution responsibilities of the Civil Service Commission will be performed by the Merit Systems Protection Board. The Board will be headed by a bipartisan panel of three members appointed to six-year, staggered terms. This Board would be the first independent and institutionally impartial Federal agency solely for the protection of Federal employees.
 
-The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called "whistleblowers." The Council would be appointed by the President and confirmed by the Senate.
+The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegalacts—the so-called "whistleblowers." The Council would be appointed by the President and confirmed by the Senate.
 
 #### federal labor relations authority
 
@@ -590,7 +590,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section undersubsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -778,7 +778,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conducta study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 

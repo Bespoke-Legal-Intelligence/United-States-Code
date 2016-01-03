@@ -6,11 +6,11 @@ The Secretary shall conduct a search of the records of the Department of the Int
 
 #### (b) Payment without filing of claim
 
-In any case in which the Secretary ascertains the name and location of any individual who is entitled to any portion of an unauthorized disbursement and determines the amount of such unauthorized disbursement to which such individual is entitled, the Secretary shall pay such amount, including interest thereon as provided in section 2302 of this title, to such individualimmediately without requiring such individual to file a formal claim for payment.
+In any case in which the Secretary ascertains the name and location of any individual who is entitled to any portion of an unauthorized disbursement and determines the amount of such unauthorized disbursement to which such individual is entitled, the Secretary shall pay such amount, including interest thereon as provided in section 2302 of this title, to such individual immediately without requiring such individual to file a formal claim for payment.
 
 #### (c) Notification
 
-The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of this section of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
+The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
 
 &emsp;(1) notice provided directly to such individual;
 

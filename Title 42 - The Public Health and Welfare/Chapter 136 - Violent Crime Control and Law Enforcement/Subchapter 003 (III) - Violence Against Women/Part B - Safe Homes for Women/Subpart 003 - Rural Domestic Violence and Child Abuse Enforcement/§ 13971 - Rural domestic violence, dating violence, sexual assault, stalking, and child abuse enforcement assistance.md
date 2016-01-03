@@ -64,7 +64,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (A) In general
 
-&emsp;&emsp;Not less than 25 percent of the total amount appropriated in a fiscal year under this section shall fund services that meaningfully address sexual assault in rural communities, however at such time as the amounts appropriated reach the amount of $45,000,000, the percentage allocated shallrise to 30 percent of the total amount appropriated, at such time as the amounts appropriated reach the amount of $50,000,000, the percentage allocated shall rise to 35 percent of the total amount appropriated, and at such time as the amounts appropriated reach the amount of $55,000,000, the percentage allocated shall rise to 40 percent of the amounts appropriated.
+&emsp;&emsp;Not less than 25 percent of the total amount appropriated in a fiscal year under this section shall fund services that meaningfully address sexual assault in rural communities, however at such time as the amounts appropriated reach the amount of $45,000,000, the percentage allocated shall rise to 30 percent of the total amount appropriated, at such time as the amounts appropriated reach the amount of $50,000,000, the percentage allocated shall rise to 35 percent of the total amount appropriated, and at such time as the amounts appropriated reach the amount of $55,000,000, the percentage allocated shall rise to 40 percent of the amounts appropriated.
 
 #### (B) Multiple purpose applications
 

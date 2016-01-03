@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (b) of this section—
 
 (3)(A)
 
-In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which such standards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
+In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which suchstandards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
 
 (ii) In establishing classes or categories of vehicles or engines for purposes of regulations under this paragraph, the Administrator may base such classes or categories on gross vehicle weight, horsepower, type of fuel used, or other appropriate factors.
 
@@ -40,7 +40,7 @@ Motorcycles.—For purposes of this paragraph, motorcycles and motorcycle engine
 
 (B) Regulations prescribing standards under subparagraph (A) shall not become effective until the introduction of the model year for which it would be feasible to implement such standards, taking into consideration the restraints of an adequate leadtime for design and production.
 
-(C) Nothing in subparagraph (A) shall (i) prevent the Administrator from specifying different nozzle and fill neck sizes for gasoline with additives and gasoline without additives or (ii) permit the Administrator to require a specific location, configuration, modeling, or styling of the motor vehicle body with respect to the fuel tank fill neck or fill nozzle clearance envelope.
+(C) Nothing in subparagraph (A) shall (i) prevent the Administrator from specifying different nozzle and fill neck sizes for gasoline with additives and gasoline without additives or (ii) permit the Administrator to require a specific location, configuration, modeling, or styling of themotor vehicle body with respect to the fuel tank fill neck or fill nozzle clearance envelope.
 
 (D) For the purpose of this paragraph, the term "fill pipe" shall include the fuel tank fill pipe, fill neck, fill inlet, and closure.
 
@@ -100,7 +100,7 @@ After Fifth
 
 &emsp;(A) that such waiver would not endanger public health,
 
-&emsp;(B) that there is a substantial likelihood that the vehicles or engines will be able to comply with the applicable standard underthis section at the expiration of the waiver, and
+&emsp;(B) that there is a substantial likelihood that the vehicles or engines will be able to comply with the applicable standard under this section at the expiration of the waiver, and
 
 &emsp;(C) that the technology or system has a potential for long-term air quality benefit and has the potential to meet or exceed the average fuel economy standard applicable under the Energy Policy and Conservation Act \[42 U.S.C. 6201 et seq.\] upon the expiration of the waiver.
 
@@ -122,7 +122,7 @@ The Administrator shall prescribe regulations under which the useful life of veh
 
 &emsp;(1) in the case of light duty vehicles and light duty vehicle engines and light-duty trucks up to 3,750 lbs. LVW and up to 6,000 lbs. GVWR, be a period of use of five years or fifty thousand miles (or the equivalent), whichever first occurs, except that in the case of any requirement of this section which first becomes applicable after November 15, 1990, where the useful life period is not otherwise specified for such vehicles and engines, the period shall be 10 years or 100,000 miles (or the equivalent), whichever first occurs, with testing for purposes of in-use compliance under section 7541 of this title up to (but not beyond) 7 years or 75,000 miles (or the equivalent), whichever first occurs;
 
-&emsp;(2) in the case of any other motor vehicle or motor vehicle engine (other than motorcycles or motorcycle engines), be a period of use set forth in paragraph (1) unless the Administrator determines that a period of use of greater duration or mileage is appropriate; and
+&emsp;(2) in the case of any other motor vehicle or motor vehicle engine (other than motorcycles or motorcycle engines), be a period of use set forth in paragraph (1) unless the Administrator determines that a period of use ofgreater duration or mileage is appropriate; and
 
 &emsp;(3) in the case of any motorcycle or motorcycle engine, be a period of use the Administrator shall determine.
 
@@ -292,7 +292,7 @@ after 1996
 
 #### (h) Light-duty trucks of more than 6,000 lbs. GVWR; standards for model years after 1995
 
-Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) of this section applicable to emissions ofnonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
+Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) of this section applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
 
 table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr
 
@@ -384,7 +384,7 @@ CO
 
 \*Emission levels are expressed in grams per mile (GPM). For vehicles and engines subject to this subsection for purposes of subsection (d) of this section and any reference thereto, the useful life of such vehicles and engines shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs.
 
-> Such study shall also consider other standards and useful life periods which are more stringent or less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h) of this section).
+> Such study shall also consider other standards and useful life periods which are more stringentor less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h) of this section).
 
 (2)(A) As part of the study under paragraph (1), the Administrator shall examine the need for further reductions in emissions in order to attain or maintain the national ambient air quality standards, taking into consideration the waiver provisions of section 7543(b) of this title. As part of such study, the Administrator shall also examine—
 
@@ -458,7 +458,7 @@ Percentage
 
 &emsp;(B)(i) If as of June 1, 1997, 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the regulations under subsection (a)(1) of this section applicable to emissions of carbon monoxide from model year 2002 and later model year light-duty vehicles and light-duty trucks shall contain standards which provide that emissions of carbon monoxide from such vehicles and trucks when operated at 20 degrees Fahrenheit may not exceed 3.4 grams per mile (gpm) in the case of light-duty vehicles and 4.4 grams per mile (gpm) in the case of light-duty trucks up to 6,000 GVWR and a level comparable in stringency in the case of light-duty trucks 6,000 GVWR and above.
 
-&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainment areas have a carbon monoxide design value of9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
+&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
 
 #### (3) Useful-life for phase I and phase II standards
 
@@ -482,7 +482,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (1) Study
 
-&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus on those categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
+&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus onthose categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
 
 #### (2) Standards
 
@@ -506,7 +506,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Effective date
 
-&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respectto any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
+&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
 
 #### (3) State inspection
 
@@ -528,7 +528,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (f) <sup>5</sup> Model years after 1990
 
-For model years prior to model year 1994, the regulations under subsection (a) of this section applicable to buses other than those subject to standards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
+For model years prior to model year 1994, the regulations under subsection (a) of this section applicable to buses other than those subject tostandards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
 
 pm standard for buses
 
@@ -708,7 +708,7 @@ Pub. L. 95–95, title IV, §403(g), Aug. 7, 1977, 91 Stat. 793, provided that t
 
 #### Ex. Ord. No. 13432. Cooperation Among Agencies in Protecting the Environment With Respect to Greenhouse Gas Emissions From Motor Vehicles, Nonroad Vehicles, and Nonroad Engines
 
-Ex. Ord. No. 13432, May 14, 2007, 72 F.R. 27717, provided:
+Ex. Ord. No. 13432, May 14, 2007, 72 F.R. 27717, as amended by Ex. Ord. No. 13693, §16(e), Mar. 19, 2015, 80 F.R. 15881, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -720,9 +720,9 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (b) "alternative fuels" has the meaning specified for that term in section 301(2) of the Energy Policy Act of 1992 (42 U.S.C. 13211(2));
 
-(c) "authorities" include the Clean Air Act (42 U.S.C. 7401–7671q), the Energy Policy Act of 1992 (Public Law102–486), the Energy Policy Act of 2005 (Public Law 109–58), the Energy Policy and Conservation Act (Public Law 94–163), and any other current or future laws or regulations that may authorize or require any of the agencies to take regulatory action that directly or indirectly affects emissions of greenhouse gases from motor vehicles;
+(c) "authorities" include the Clean Air Act (42 U.S.C. 7401–7671q), the Energy Policy Act of 1992 (Public Law 102–486), the Energy Policy Act of 2005 (Public Law 109–58), the Energy Policy and Conservation Act (Public Law 94–163), and any other current or future laws or regulations that may authorize or require any of the agencies to take regulatory action that directly or indirectly affects emissions of greenhouse gases from motor vehicles;
 
-(d) "greenhouse gases" has the meaning specified for that term in Executive Order 13423 of January 24, 2007;
+(d) "greenhouse gases" means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride \[sic\], and sulfur hexafluoride;
 
 (e) "motor vehicle" has the meaning specified for that term in section 216(2) of the Clean Air Act (42 U.S.C. 7550(2));
 
@@ -754,7 +754,7 @@ Sec. 4. <i>Duties of the Heads of Agencies</i>. (a) To implement this order, the
 
 (4) coordinate with the other agencies to avoid duplication of requests to the public for information from the public in the course of undertaking such regulatory action, consistent with the Paperwork Reduction Act (44 U.S.C. 3501 <i>et seq</i>.); and
 
-(5) consult with the Secretary of Agriculture whenever a regulatory action will have a significant effect on agriculture related to the production or use of ethanol, biodiesel, or other renewable fuels, including actions undertaken in whole or in part based on authority or requirements in title XV of the Energy Policy Act of 2005, or the amendments made by such title, or when otherwise appropriate or required by law.
+(5) consult with the Secretary of Agriculture whenever a regulatory action will have a significant effect on agriculture related to the production or use of ethanol, biodiesel, or other renewable fuels, including actions undertaken in whole or in part based on authorityor requirements in title XV of the Energy Policy Act of 2005, or the amendments made by such title, or when otherwise appropriate or required by law.
 
 (b) To implement this order, the heads of the agencies acting jointly may allocate as appropriate among the agencies administrative responsibilities relating to regulatory actions to which section 3 refers, such as publication of notices in the Federal Register and receipt of comments in response to notices.
 
@@ -767,8 +767,6 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented in accord
 (b) This order shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 
 (c) This order is not intended to, and does not, create any right, benefit or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

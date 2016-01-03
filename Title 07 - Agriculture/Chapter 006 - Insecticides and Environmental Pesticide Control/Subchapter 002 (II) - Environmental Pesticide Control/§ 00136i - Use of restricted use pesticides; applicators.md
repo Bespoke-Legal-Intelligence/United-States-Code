@@ -38,7 +38,7 @@ No regulations prescribed by the Administrator for carrying out the provisions o
 
 When establishing or approving standards for licensing or certification, the Administrator shall establish separate standards for commercial and private applicators.
 
-(June 25, 1947, ch. 125, §11, formerly §§4, 11, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, §9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, §801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
+(June 25, 1947, ch. 125, §11, formerly §§4, 11, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, §9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, §801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681,2683; Pub. L. 102–237, title X, §1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
 #### Codification
 

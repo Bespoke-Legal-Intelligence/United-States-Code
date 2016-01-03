@@ -34,7 +34,7 @@
 
 (1) The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: <i>Provided</i>, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection.
 
-(2)(A) The provisions of subsection (a)(1) of this section shall not apply to—
+(2)(A) The provisions of subsection (a)(1) shall not apply to—
 
 &emsp;(i) any raptor legally held in captivity or in a controlled environment on November 10, 1978; or
 
@@ -106,7 +106,7 @@ It is unlawful for any person subject to the jurisdiction of the United States t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(G), (2)(E), (c)(2), (e), and (f)(1), was in the original "this Act",meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Section 668cc–4 of this title, referred to in subsec. (f)(2), was repealed by Pub. L. 93–205, §14, Dec. 28, 1973, 87 Stat. 903.
 
@@ -122,7 +122,7 @@ Subsec. (d)(1)(A). Pub. L. 100–653 inserted "or plants" after "purposes)".
 
 Subsec. (b)(1). Pub. L. 97–304, §9(b)(2), substituted "The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: <i>Provided</i>, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection" for "The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973".
 
-Subsec. (b)(2)(A). Pub. L. 97–304, §9(b)(3), substituted "The provisions of subsection (a)(1) of this section shallnot apply to" for "This section shall not apply to" in provisions preceding cl. (i).
+Subsec. (b)(2)(A). Pub. L. 97–304, §9(b)(3), substituted "The provisions of subsection (a)(1) shall not apply to" for "This section shall not apply to" in provisions preceding cl. (i).
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
 

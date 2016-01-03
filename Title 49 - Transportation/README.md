@@ -13,12 +13,19 @@
 | <b>VI.</b> | <b>MOTOR VEHICLE AND DRIVER PROGRAMS</b> | <b>30101</b> |
 | <b>VII.</b> | <b>AVIATION PROGRAMS</b> | <b>40101</b> |
 | <b>VIII.</b> | <b>PIPELINES</b> | <b>60101</b> |
-| <b>IX.</b> | <b>\[TRANSFERRED\]</b> |  |
+| <b>IX.</b> | <b>Multimodal Freight Transportation </b><b><sup>1</sup></b> | <b>70101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | <b>X.</b> | <b>MISCELLANEOUS</b> | <b>80101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title VIII, §8001(b), Dec. 4, 2015, 129 Stat. 1612, substituted "Multimodal Freight Transportation . . .70101" for "\[TRANSFERRED\]" in item for subtitle IX.
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(1)(A), Dec. 18, 2010, 124 Stat. 3440, substituted "\[TRANSFERRED\]" for "COMMERCIAL SPACE TRANSPORTATION . . .70101" in item for subtitle IX.
 
@@ -7510,7 +7517,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 "(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severablefrom the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 Pub. L. 103–429, §10, Oct. 31, 1994, 108 Stat. 4391, provided that:
 
@@ -7648,6 +7655,8 @@ Pub. L. 95–473, §4(c), Oct. 17, 1978, 92 Stat. 1470, which provided that the 
 
 Pub. L. 95–473, §4(d), Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: "The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978."
 
+<i><sup>1</sup></i><i> So in original. Probably should be uppercase.</i>
+
 
 ---
 
@@ -7661,5 +7670,5 @@ Pub. L. 95–473, §4(d), Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97
 - [Subtitle 006 (VI) - Motor Vehicle and Driver Programs](Subtitle%20006%20%28VI%29%20-%20Motor%20Vehicle%20and%20Driver%20Programs/README.md)
 - [Subtitle 007 (VII) - Aviation Programs](Subtitle%20007%20%28VII%29%20-%20Aviation%20Programs/README.md)
 - [Subtitle 008 (VIII) - Pipelines](Subtitle%20008%20%28VIII%29%20-%20Pipelines/README.md)
-- [Subtitle 009 (IX) - \[Transferred](Subtitle%20009%20%28IX%29%20-%20%5BTransferred/README.md)
+- [Subtitle 009 (IX) - Multimodal Freight Transportation](Subtitle%20009%20%28IX%29%20-%20Multimodal%20Freight%20Transportation/README.md)
 - [Subtitle 010 (X) - Miscellaneous](Subtitle%20010%20%28X%29%20-%20Miscellaneous/README.md)

@@ -16,7 +16,7 @@ The Secretary shall allow only such uses of the Federal lands included in the Co
 
 #### (c) Juniper management
 
-The Secretary shall emphasize the restoration of the historic fire regime in the Cooperative Management and Protection Area and the resulting native vegetation communities through active management of Western Juniper on a landscape level. Management measures shall include the use of natural and prescribed burning.
+The Secretary shall emphasize the restoration of the historic fire regime in the CooperativeManagement and Protection Area and the resulting native vegetation communities through active management of Western Juniper on a landscape level. Management measures shall include the use of natural and prescribed burning.
 
 #### (d) Hunting, fishing, and trapping
 
@@ -32,7 +32,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (1) Continuation of existing law
 
-&emsp;Except as otherwise provided in this section and part F of this subchapter, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
+&emsp;Except as otherwise provided in this section and part F, the laws, regulations, and executive orders otherwise applicable to the Bureau of Land Management in issuing and administering grazing leases and permits on lands under its jurisdiction shall apply in regard to the Federal lands included in the Cooperative Management and Protection Area.
 
 #### (2) Cancellation of certain permits
 

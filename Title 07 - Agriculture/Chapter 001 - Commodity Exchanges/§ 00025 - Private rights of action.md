@@ -20,7 +20,7 @@
 
 &emsp;(D) who purchased or sold a contract referred to in subparagraph (B) hereof or swap if the violation constitutes—
 
-&emsp;&emsp;(i) the use or employment of, or an attempt to use or employ, in connection witha swap, or a contract of sale of a commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative device or contrivance in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after July 21, 2010; or
+&emsp;&emsp;(i) the use or employment of, or an attempt to use or employ, in connection with a swap, or a contract of sale of a commodity, in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative device or contrivance in contravention of such rules and regulations as the Commission shall promulgate by not later than 1 year after July 21, 2010; or
 
 &emsp;&emsp;(ii) a manipulation of the price of any such contract or swap or the price of the commodity underlying such contract or swap.
 
@@ -66,7 +66,7 @@ Contract enforcement for foreign futures contracts.—A contract of sale of a co
 
 #### (b) Liabilities of organizations and individuals; bad faith requirement; exclusive remedy
 
-(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by section 7, 7a–1, 7a–2, 7b–3, or 24a of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused bysuch failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
+(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that itis required to enforce by section 7, 7a–1, 7a–2, 7b–3, or 24a of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
 
 (2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 

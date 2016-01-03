@@ -42,7 +42,7 @@ Pub. L. 102–573, §1, Oct. 29, 1992, 106 Stat. 4526, provided that: "This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that: "This title \[enacting sections 1621h, 1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title\] may be cited as the 'Indian Health Care Amendments of 1990'."
+Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that: "This title \[enacting sections 1621h,1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title\] may be cited as the 'Indian Health Care Amendments of 1990'."
 
 #### Short Title of 1988 Amendment
 

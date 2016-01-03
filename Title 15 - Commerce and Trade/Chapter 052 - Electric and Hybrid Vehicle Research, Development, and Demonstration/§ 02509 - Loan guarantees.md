@@ -32,11 +32,11 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 &emsp;(4) in the judgment of the Secretary of Energy, there is reasonable assurance of repayment of the loan by the qualified borrower; and
 
-&emsp;(5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) of this section unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
+&emsp;(5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
 
 #### (e) Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.
 
-(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order tocarry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (2) The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.
 
@@ -60,7 +60,7 @@ As used in this section, the term "qualified borrower" means any partnership, co
 
 &emsp;(B) that the amount of such principal and interest charges which the Secretary of Energy is authorized to pay shall be no greater than the amount of principal and interest which the borrower is obligated to pay under the loan agreement.
 
-(2) In the event of any default by a qualified borrower on a guaranteed loan, the Secretary of Energy is authorized to make payment in accordance with the guarantee, and the Attorney General shall take such action as may be appropriate to recover the amounts of such payments (including any payment of principal and interest under paragraph (1)) from such assets of the defaulting borrower as are associated with the activity with respect to which the loan was made or from any other surety included in the terms of the guarantee.
+(2) In the event of any default by a qualified borrower on a guaranteed loan, the Secretary ofEnergy is authorized to make payment in accordance with the guarantee, and the Attorney General shall take such action as may be appropriate to recover the amounts of such payments (including any payment of principal and interest under paragraph (1)) from such assets of the defaulting borrower as are associated with the activity with respect to which the loan was made or from any other surety included in the terms of the guarantee.
 
 #### (h) Seven year limitation
 

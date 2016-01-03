@@ -54,7 +54,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;(B) monitoring the preparedness to carry out assigned missions of special operations forces assigned to unified combatant commands other than the special operations command.
 
-(4)(A) The commander of the special operations command shall be responsible for, and shall have the authority to conduct, the following:
+(4)(A) The commander of the special operations command shall be responsible for, andshall have the authority to conduct, the following:
 
 &emsp;(i) Development and acquisition of special operations-peculiar equipment.
 
@@ -224,7 +224,7 @@ Quarterly Reports Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the end of each fiscal quarter, the commander of the United States Special Operations Command shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter.
+In general.—Not later than 30 days after the end of each fiscal quarter, the commander of theUnited States Special Operations Command shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter.
 
 &emsp;"(2)
 

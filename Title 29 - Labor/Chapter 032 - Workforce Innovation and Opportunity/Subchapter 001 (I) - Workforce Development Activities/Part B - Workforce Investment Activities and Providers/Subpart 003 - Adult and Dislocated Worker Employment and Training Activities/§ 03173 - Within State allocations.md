@@ -8,7 +8,7 @@
 
 #### (2) Statewide rapid response activities
 
-&emsp;The Governor shall reserve not more than 25 percent of the total amount allotted to the State under section 3172(b)(2)(B) of this title for a fiscal year for statewide rapid response activities described in section 3174(a)(2)(A) of this title.
+&emsp;The Governor shall reserve not more than 25 percent of the total amount allotted to the State under section 3172(b)(2)(B) of this title for a fiscal year for statewide rapid responseactivities described in section 3174(a)(2)(A) of this title.
 
 #### (b) Within State allocation
 
@@ -120,7 +120,7 @@
 
 &emsp;The amount available for reallocation for a program year—
 
-&emsp;&emsp;(A) for adult employment and training activities is equal to the amount by which theunobligated balance of the local allocation under paragraph (2)(A) or (3) of subsection (b) for such activities, at the end of the program year prior to the program year for which the determination under this subparagraph is made, exceeds 20 percent of such allocation for the prior program year; and
+&emsp;&emsp;(A) for adult employment and training activities is equal to the amount by which the unobligated balance of the local allocation under paragraph (2)(A) or (3) of subsection (b) for such activities, at the end of the program year prior to the program year for which the determination under this subparagraph is made, exceeds 20 percent of such allocation for the prior program year; and
 
 &emsp;&emsp;(B) for dislocated worker employment and training activities is equal to the amount by which the unobligated balance of the local allocation under subsection (b)(2)(B) for such activities, at the end of the program year prior to the program year for which the determination under this subparagraph is made, exceeds 20 percent of such allocation for the prior program year.
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(A) with respect to funds allocated through a local allocation for adult employment and training activities, a local area that does not have an amount of such funds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made; and
 
-&emsp;&emsp;(B) with respect to funds allocated through a local allocation for dislocated worker employment and training activities, a local area that does not have an amount of such funds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
+&emsp;&emsp;(B) with respect to funds allocated through a local allocation for dislocated worker employment and training activities, a local area that does not have an amount of suchfunds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
 
 (Pub. L. 113–128, title I, §133, July 22, 2014, 128 Stat. 1516.)
 
@@ -148,5 +148,5 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

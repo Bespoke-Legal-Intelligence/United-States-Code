@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 R.S. §1784.
 
-The application of the section is confined to employees, since the President and Members of Congress,though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
+The application of the section is confined to employees, since the President and Members of Congress, though officers, could not have been intended to be "summarily discharged", and members of uniformed services are not covered by this statute. In the last sentence, the word "removed" is substituted for "summarily discharged" because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans' Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -16,7 +16,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (3) Exclusion of periods in interests of justice
 
-&emsp;If in any period a claimant is not paid due to reasons beyond the control of the responsibleparty or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
+&emsp;If in any period a claimant is not paid due to reasons beyond the control of the responsible party or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
 
 #### (4) Calculation of interest
 

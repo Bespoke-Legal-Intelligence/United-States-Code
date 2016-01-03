@@ -1,6 +1,6 @@
 ### §3599. Counsel for financially unable defendants
 
-(a)(1) Notwithstanding any other provision of law to the contrary, in every criminal action in which a defendant is charged with a crime which may be punishable by death, a defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services at any time either—
+(a)(1) Notwithstanding any other provision of law to the contrary, in every criminal action in which a defendant is charged with a crime whichmay be punishable by death, a defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services at any time either—
 
 &emsp;(A) before judgment; or
 
@@ -8,7 +8,7 @@
 
 > shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
 
-(2) In any post conviction proceeding under section 2254 or 2255 of title 28, United StatesCode, seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
+(2) In any post conviction proceeding under section 2254 or 2255 of title 28, United States Code, seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services in accordance with subsections (b) through (f).
 
 (b) If the appointment is made before judgment, at least one attorney so appointed must have been admitted to practice in the court in which the prosecution is to be tried for not less than five years, and must have had not less than three years experience in the actual trial of felony prosecutions in that court.
 

@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Contractor.—The term "contractor" includes contractors, bidders, and offerors, and individuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.
+Contractor.—The term "contractor" includes contractors, bidders, and offerors, andindividuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.
 
 &emsp;(2)
 

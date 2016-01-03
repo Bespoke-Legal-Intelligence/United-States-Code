@@ -10,7 +10,7 @@ Congress finds that:
 
 &emsp;(1) As the 21st century begins, the degrading institution of slavery continues throughout the world. Trafficking in persons is a modern form of slavery, and it is the largest manifestation of slavery today. At least 700,000 persons annually, primarily women and children, are trafficked within or across international borders. Approximately 50,000 women and children are trafficked into the United States each year.
 
-&emsp;(2) Many of these persons are trafficked into the international sex trade, often by force, fraud, or coercion. The sex industry has rapidly expanded over the past several decades. It involves sexual exploitation of persons, predominantly women and girls, involving activities related to prostitution, pornography, sex tourism, and other commercial sexual services. The low status of women in many parts of the world has contributed to a burgeoning of the trafficking industry.
+&emsp;(2) Many of these persons are trafficked into the international sex trade, often by force, fraud, or coercion. The sex industry has rapidly expanded over the past several decades. It involves sexual exploitation of persons, predominantly women and girls, involving activities related to prostitution, pornography, sex tourism, and other commercial sexual services. The low status of women in many partsof the world has contributed to a burgeoning of the trafficking industry.
 
 &emsp;(3) Trafficking in persons is not limited to the sex industry. This growing transnational crime also includes forced labor and involves significant violations of labor, public health, and human rights standards worldwide.
 
@@ -40,7 +40,7 @@ Congress finds that:
 
 &emsp;(16) In some countries, enforcement against traffickers is also hindered by official indifference, by corruption, and sometimes even by official participation in trafficking.
 
-&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destinationcountry, they are repeatedly punished more harshly than the traffickers themselves.
+&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destination country, they are repeatedly punished more harshly than the traffickers themselves.
 
 &emsp;(18) Additionally, adequate services and facilities do not exist to meet victims' needs regarding health care, housing, education, and legal assistance, which safely reintegrate trafficking victims into their home countries.
 
@@ -100,7 +100,7 @@ Model State Criminal Provisions.—In addition to any model State antitraffickin
 
 &emsp;"(2) protects children exploited through prostitution by including safe harbor provisions that—
 
-&emsp;&emsp;"(A) treat an individual under 18 years of age who has been arrested for engaging in, or attempting to engage in, a sexual act with another person in exchange for monetary compensation as a victim of a severe form of trafficking in persons;
+&emsp;&emsp;"(A) treat an individual under 18 years of age who has been arrested for engaging in, or attempting toengage in, a sexual act with another person in exchange for monetary compensation as a victim of a severe form of trafficking in persons;
 
 &emsp;&emsp;"(B) prohibit the charging or prosecution of an individual described in subparagraph (A) for a prostitution offense;
 

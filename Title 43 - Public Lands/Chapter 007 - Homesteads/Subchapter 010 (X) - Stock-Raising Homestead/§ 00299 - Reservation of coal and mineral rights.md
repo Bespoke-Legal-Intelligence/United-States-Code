@@ -8,7 +8,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (1) In general
 
-&emsp;(A) Notwithstanding subsection (a) of this section and any other provision of law to the contrary, after the effective date of this subsection no person other than the surface owner may enter lands subject to this subchapter to explore for, or to locate, a mining claim on such lands without—
+&emsp;(A) Notwithstanding subsection (a) and any other provision of law to the contrary, after the effective date of this subsection no person other than the surface owner may enter lands subject to this subchapter to explore for, or to locate, a mining claim on such lands without—
 
 &emsp;&emsp;(i) filing a notice of intention to locate a mining claim pursuant to paragraph (2); and
 
@@ -28,7 +28,7 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 &emsp;&emsp;(C) file an application to acquire any interest in any portion of such lands pursuant to section 1719 of this title.
 
-> &emsp;If, within such 90-day period, the person who filed a notice under this paragraph files a plan of operations with the Secretary pursuant to subsection (f) of this section, such 90-day period shall be extended until the approval or disapproval of the plan by the Secretary pursuant to subsection (f) of this section.
+> &emsp;If, within such 90-day period, the person who filed a notice under this paragraph files a plan of operations with the Secretary pursuant to subsection (f), such 90-day period shall be extended until the approval or disapproval of the plan by the Secretary pursuant to subsection (f).
 
 #### (3) Notice to surface owner
 
@@ -48,11 +48,11 @@ All entries made and patents issued under the provisions of this subchapter shal
 
 #### (c) Consent
 
-Notwithstanding subsection (a) of this section and any other provision of law, after the effective date of this subsection no person may engage in the conduct of mineral activities (other than those relating to exploration referred to in subsection (b)(1)B) <sup>1</sup> of this section) on a mining claim located on lands subject to this subchapter without the written consent of the surface owner thereof unless the Secretary has authorized the conduct of such activities under subsection (d) of this section.
+Notwithstanding subsection (a) and any other provision of law, after the effective date of this subsection no person may engage in the conduct of mineral activities (other than those relating to exploration referred to in subsection (b)(1)B)) <sup>1</sup> on a mining claim located on lands subject to this subchapter without the written consent of the surface owner thereof unless the Secretary has authorized the conduct of such activities under subsection (d).
 
 #### (d) Authorized mineral activities
 
-The Secretary shall authorize a person to conduct mineral activities (other than those relating to exploration referred to in subsection (b)(1)(B) of this section) on lands subject to this subchapter without the consent of the surface owner thereof if such person complies with the requirements of subsections (e) and (f) of this section.
+The Secretary shall authorize a person to conduct mineral activities (other than those relating to exploration referred to in subsection (b)(1)(B)) on lands subject to this subchapter without the consent of the surface owner thereof if such person complies with the requirements of subsections (e) and (f).
 
 #### (e) Bond
 
@@ -60,7 +60,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 &emsp;(A) payment to the surface owner, after the completion of such mineral activities and reclamation, compensation for any permanent damages to crops and tangible improvements of the surface owner that resulted from mineral activities; and
 
-&emsp;(B) payment to the surface owner of compensation for any permanent loss of income of the surface owner due to loss or impairment of grazing, or other uses of the land by the surface owner to the extent that reclamation required by the plan of operations would not permit such uses to continue at the level existing prior to the commencement of mineral activities.
+&emsp;(B) payment to the surface owner of compensation for any permanent loss of income ofthe surface owner due to loss or impairment of grazing, or other uses of the land by the surface owner to the extent that reclamation required by the plan of operations would not permit such uses to continue at the level existing prior to the commencement of mineral activities.
 
 (2) In determining the bond amount to cover permanent loss of income under paragraph (1)(B), the Secretary shall consider, where appropriate, the potential loss of value due to the estimated permanent reduction in utilization of the land.
 
@@ -72,7 +72,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 &emsp;(B) the minimization of disruption to grazing or other uses of the land by the surface owner; and
 
-&emsp;(C) payment of a fee for the use of surface during mineral activities equivalent to the loss of income to the ranch operation as established pursuant to subsection (g) of this section.
+&emsp;(C) payment of a fee for the use of surface during mineral activities equivalent to the loss of income to the ranch operation as established pursuant to subsection (g).
 
 (2) The Secretary shall provide a copy of the proposed plan of operations to the surface owner at least 45 days prior to the date the Secretary makes a determination as to whether such plan complies with the requirements of this subsection. During such 45-day period the surface owner may submit comments and recommend modifications to the proposed plan of operations to the Secretary.
 
@@ -88,11 +88,11 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 (D) The Secretary shall suspend or revoke a plan of operation whenever the Secretary determines, on the Secretary's own motion or on a motion made by the surface owner, that the person conducting mineral activities is in substantial noncompliance with the terms and conditions of an approved plan of operations and has failed to remedy a violation after notice from the Secretary within the time required by the Secretary.
 
-(4) Final approval of a plan of operations under this subsection shall be conditioned upon compliance with subsections (e) and (g) of this section.
+(4) Final approval of a plan of operations under this subsection shall be conditioned upon compliance with subsections (e) and (g).
 
 #### (g) Fee
 
-The fee referred to in subsection (f)(1) of this section shall be—
+The fee referred to in subsection (f)(1) shall be—
 
 &emsp;(1) paid to the surface owner by the person submitting the plan of operations;
 
@@ -102,7 +102,7 @@ The fee referred to in subsection (f)(1) of this section shall be—
 
 #### (h) Reclamation
 
-Lands affected by mineral activities under a plan of operations approved pursuant to subsection (f)(3) of this section shall be reclaimed, to the maximum extent practicable, to a condition capable of supporting the uses to which such lands were capable of supporting prior to surface disturbance. Reclamation shall proceed as contemporaneously as practicable with the conduct of mineral activities.
+Lands affected by mineral activities under a plan of operations approved pursuant to subsection (f)(3) shall be reclaimed, to the maximum extent practicable, to a condition capable of supporting the uses to which such lands were capable of supporting prior to surface disturbance. Reclamation shall proceed as contemporaneously as practicable with the conduct of mineral activities.
 
 #### (i) State law
 
@@ -112,29 +112,29 @@ Lands affected by mineral activities under a plan of operations approved pursuan
 
 #### (j) Inspections
 
-Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms and conditions of a plan of operations approved under subsection (f) of this section, such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days ofthe receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and provides reason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
+Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms and conditions of a plan of operations approved under subsection (f), such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days of the receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and providesreason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
 
 #### (k) Damages for failure to comply
 
 (1) Whenever the surface owner of any land subject to this subchapter has suffered any permanent damages to crops or tangible improvements of the surface owner, or any permanent loss of income due to loss or impairment of grazing, or other uses of the land by the surface owner, if such damages or loss result from—
 
-&emsp;(A) any mineral activity undertaken without the consent of the surface owner under subsection (c) of this section or an authorization by the Secretary under subsection (d) of this section; or
+&emsp;(A) any mineral activity undertaken without the consent of the surface owner under subsection (c) or an authorization by the Secretary under subsection (d); or
 
-&emsp;(B) the failure of the person conducting mineral activities to remedy to the satisfaction of the Secretary any substantial noncompliance with the terms and conditions of a plan under subsection (f) of this section;
+&emsp;(B) the failure of the person conducting mineral activities to remedy to the satisfaction of the Secretary any substantial noncompliance with the terms and conditions of a plan under subsection (f);
 
 > the surface owner may bring an action in the appropriate United States district court for, and the court may award, double damages plus costs for willful misconduct or gross negligence.
 
-(2) The surface owner of any land subject to this subchapter may also bring an action in the appropriate United States district court for double damages plus costs for willful misconduct or gross negligence against any person undertaking any mineral activities on lands subject to this subchapter in violation of any requirement of subsection (b) of this section.
+(2) The surface owner of any land subject to this subchapter may also bring an action in the appropriate United States district court for double damages plus costs for willful misconduct or gross negligence against any person undertaking any mineral activities on lands subject to this subchapter in violation of any requirement of subsection (b).
 
-(3) Any double damages plus costs awarded by the court under this subsection shall be reduced by the amount of any compensation which the surface owner has received (or is eligible to receive) pursuant to the bond or financial guarantee required under subsection (e) of this section.
+(3) Any double damages plus costs awarded by the court under this subsection shall be reduced by the amount of any compensation which the surface owner has received (or is eligible to receive) pursuant to the bond or financial guarantee required under subsection (e).
 
 #### (l) Payment of financial guarantee
 
-The surface owner of any land subject to this subchapter may petition the Secretary for payment of all or any portion of a bond or other financial guarantee required under subsection (e) of this section as compensation for any permanent damages to crops and tangible improvements of the surface owner, or any permanent loss of income due to loss or impairment of grazing, or other uses of the land by the surface owner. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface owner for such damages and to insure the required reclamation.
+The surface owner of any land subject to this subchapter may petition the Secretary for payment of all or any portion of a bond or other financial guarantee required under subsection (e) as compensation for any permanent damages to crops and tangible improvements of the surface owner, or any permanent loss of income due to loss or impairment of grazing, or other uses of the land by the surface owner. Pursuant to such a petition, the Secretary may use such bond or other guarantee to provide compensation to the surface owner for such damages and to insure the required reclamation.
 
 #### (m) Bond release
 
-The Secretary shall release the bond or other financial guarantee required under subsection (e) of this section upon the successful completion of all requirements pursuant to a plan of operations approved under subsection (f) of this section.
+The Secretary shall release the bond or other financial guarantee required under subsection (e) upon the successful completion of all requirements pursuant to a plan of operations approved under subsection (f).
 
 #### (n) Conveyance to surface owner
 
@@ -142,7 +142,7 @@ The Secretary shall take such actions as may be necessary to simplify the proced
 
 #### (o) Definitions
 
-For the purposes of subsections (b) through (n) of this section—
+For the purposes of subsections (b) through (n)—
 
 &emsp;(1) The term "mineral activities" means any activity for, related to or incidental to mineral exploration, mining, and beneficiation activities for any locatable mineral on a mining claim. When used with respect to this term—
 
@@ -176,9 +176,9 @@ This title, referred to in subsec. (i)(1), is unidentifiable because act Dec. 29
 
 The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566,as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
-The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 etseq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 #### Amendments
 
@@ -204,7 +204,7 @@ Act Mar. 3, 1925, abolished office of surveyor general and transferred administr
 
 Section 2 of Pub. L. 103–23 directed Secretary of the Interior to submit report to Congress within 2 years after Apr. 16, 1993, on acquisition of mineral interests made after such date by foreign firms on lands subject to this section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection "(b)(1)(B)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(b)(1)(B))".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

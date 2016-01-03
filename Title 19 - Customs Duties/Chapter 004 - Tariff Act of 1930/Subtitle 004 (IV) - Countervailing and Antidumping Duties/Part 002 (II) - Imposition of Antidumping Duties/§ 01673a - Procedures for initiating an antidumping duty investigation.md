@@ -48,7 +48,7 @@
 
 #### (B) Acceptance of communications
 
-&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority's consideration of the petition.
+&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority's consideration of the petition.
 
 #### (C) Nondisclosure of certain information
 
@@ -60,7 +60,7 @@
 
 #### (A) Time for initial determination
 
-&emsp;&emsp;Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+&emsp;&emsp;Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
 
 &emsp;&emsp;&emsp;(i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under section 1673 of this title and contains information reasonably available to the petitioner supporting the allegations, and
 
@@ -102,7 +102,7 @@
 
 #### (i) Producers related to foreign producers
 
-&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition,if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of an antidumping duty order.
+&emsp;&emsp;&emsp;In determining industry support under subparagraph (A), the administering authority shall disregard the position of domestic producers who oppose the petition, if such producers are related to foreign producers, as defined in section 1677(4)(B)(ii) of this title, unless such domestic producers demonstrate that their interests as domestic producers would be adversely affected by the imposition of an antidumping duty order.
 
 #### (ii) Producers who are importers
 
@@ -126,13 +126,13 @@
 
 #### (5) "Domestic producers or workers" defined
 
-&emsp;For purposes of this subsection, the term "domestic producers or workers" means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
+&emsp;For purposes of this subsection, the term "domestic producers or workers" means those interested parties who are eligible to file a petition under subsection (b)(1).
 
 #### (d) Notification to Commission of determination
 
 The administering authority shall—
 
-&emsp;(1) notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
+&emsp;(1) notify the Commission immediately of any determination it makes under subsection (a) or (c), and
 
 &emsp;(2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiatedunder section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -52,7 +52,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 &emsp;&emsp;(A) the taxpayer owns directly stock in such corporation meeting the requirements of section 1504(a)(2), and
 
-&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties, rents (except rents derived from rental of properties to employees of the corporation in the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
+&emsp;&emsp;(B) more than 90 percent of the aggregate of its gross receipts for all taxable years has been from sources other than royalties, rents (except rents derived from rental of properties to employees of the corporationin the ordinary course of its operating business), dividends, interest (except interest received on deferred purchase price of operating assets sold), annuities, and gains from sales or exchanges of stocks and securities.
 
 > &emsp;In computing gross receipts for purposes of the preceding sentence, gross receipts from sales or exchanges of stocks and securities shall be taken into account only to the extent of gains therefrom.
 
@@ -86,7 +86,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (A) Personal casualty gain
 
-&emsp;&emsp;The term "personal casualty gain" means the recognized gain from any involuntary conversion of property which is described insubsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
+&emsp;&emsp;The term "personal casualty gain" means the recognized gain from any involuntary conversion of property which is described in subsection (c)(3) arising from fire, storm, shipwreck, or other casualty, or from theft.
 
 #### (B) Personal casualty loss
 
@@ -266,7 +266,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar.31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 110–343, div. C, title VII, §706(a)(1), (2)(A)–(C), (c), Oct. 3, 2008, 122 Stat. 3921–3923; Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107; Pub. L. 113–295, div. A, title II, §§211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, 128 Stat. 4033, 4040.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Subsec. (i)(1). Pub. L. 91–677, §1(a)(1), (2), struck out "or (2)" after "par
 
 Subsec. (i)(2)(B). Pub. L. 91–677, §1(a)(3), substituted "one or more days during the period beginning on December 31, 1958, and ending on May 16, 1959" for "December 31, 1958" and "the first day in such period on which the property was held by the taxpayer" for "December 31, 1958".
 
-Subsec. (i)(3). Pub. L. 91–677, §1(a)(4), struck out subsec. (i)(3) which authorized a refund or credit to be given for any overpayment attributable to the application of par. (1), provided that a claim was filed for such refund or credit before Jan. 1, 1965.
+Subsec. (i)(3). Pub. L. 91–677, §1(a)(4), struck out subsec. (i)(3) which authorized a refund or credit to begiven for any overpayment attributable to the application of par. (1), provided that a claim was filed for such refund or credit before Jan. 1, 1965.
 
 <b>1970</b>—Subsec. (h)(2). Pub. L. 91–606 substituted "the Disaster Relief Act of 1970" for "sections 1855–1855g of title 42".
 
@@ -402,7 +402,7 @@ Amendment by section 706(c) of Pub. L. 110–343 applicable to taxable years beg
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "Theamendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
+Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
 
 #### Effective Date of 1997 Amendment
 
@@ -472,7 +472,7 @@ Pub. L. 87–426, §2(b), Mar. 31, 1962, 76 Stat. 51, provided that: "The amendm
 
 Pub. L. 85–866, title I, §1(c), Sept. 2, 1958, 72 Stat. 1606, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except as otherwise expressly provided—
 
-&emsp;"(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234,1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
+&emsp;"(1) amendments made by this title to subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income taxes) \[enacting section 558 of this title and amending this section and sections 152, 166, 168, 170, 172, 213, 337, 404, 421, 535, 545, 556, 582, 611, 613, 851, 1015, 1031, 1033, 1034, 1053, 1232, 1233, 1234, 1237, 1341, and 1347 of this title\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954; and
 
 &emsp;"(2) amendments made by this title to subtitle F of such Code (relating to procedure and administration) \[enacting sections 7513 and 7514 of this title and amending sections 6013, 6015, 6212, 6325, 6338, 6339, 6501, 6504, 6511, 6601, 6652, 6653, 6851, 6871, 7213, 7324, 7325, and 7422 of this title\] shall take effect as of August 17, 1954, and such subtitle, as so amended, shall apply as provided in section 7851 of the Internal Revenue Code of 1986".
 
@@ -516,7 +516,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;"(2)
 
-Exceptions.—The provisions of this section shall not apply to any assistance to which the amendments made by section 1401(a)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73, amending section 597 of this title and repealing provisions set out as a note under section 597 of this title\] apply."
+Exceptions.—The provisions of this section shall not apply to any assistance to which the amendments made by section 1401(a)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73, amending section 597 of this titleand repealing provisions set out as a note under section 597 of this title\] apply."
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
@@ -714,7 +714,7 @@ Phaseout Where Adjusted Gross Income Exceeds $15,000.—If for the taxable year 
 
 "(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable to such election) may, nevertheless, be made if made within one year after such date."
+Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable tosuch election) may, nevertheless, be made if made within one year after such date."
 
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 

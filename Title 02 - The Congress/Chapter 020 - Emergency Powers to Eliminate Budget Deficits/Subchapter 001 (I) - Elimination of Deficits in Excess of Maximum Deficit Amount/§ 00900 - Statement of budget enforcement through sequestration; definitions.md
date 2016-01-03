@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;(4)(A) The term "nonsecurity category" means all discretionary appropriations not included in the security category defined in subparagraph (B).
 
-&emsp;(B) The term "security category" includes discretionary appropriations associated withagency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
+&emsp;(B) The term "security category" includes discretionary appropriations associated with agency budgets for the Department of Defense, the Department of Homeland Security, the Department of Veterans Affairs, the National Nuclear Security Administration, the intelligence community management account (95–0401–0–1–054), and all budget accounts in budget function 150 (international affairs).
 
 &emsp;(C) The term "discretionary category" includes all discretionary appropriations.
 
@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) temporary, which means not of a permanent duration.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L.113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
 
 #### References in Text
 
@@ -432,7 +432,7 @@ Referral and reporting.—Any committee of the House of Representatives to which
 
 &emsp;"(2)
 
-Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed ofa motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed of a motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;"(3)
 
@@ -528,7 +528,7 @@ Loss of Privilege.—The provisions of this section shall cease to apply to the 
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner, and to the same extent as in the case of any other rule of such House."
+&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
 #### Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category
 
@@ -558,7 +558,7 @@ Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended b
 
 #### Appeals of Rulings
 
-Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\]."
+Pub. L. 99–177, title II, §271(c), as added by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 \[sections 632(i),633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title\]."
 
 #### Exercise of Congressional Rulemaking Power
 
@@ -580,7 +580,7 @@ Pub. L. 100–119, title II, §213, Sept. 29, 1987, 101 Stat. 787, provided that
 
 &emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House."
 
-Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title noteabove\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
+Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -624,7 +624,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 
-(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
+(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or requiredby provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 

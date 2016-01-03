@@ -18,7 +18,7 @@
 
 (b) It is the purpose of this chapter—
 
-&emsp;(1) to rename the National Bureau of Standards as the National Institute of Standards and Technology and to modernize and restructure that agency to augment its unique ability to enhance the competitiveness of American industry while maintaining its traditionalfunction as lead national laboratory for providing the measurements, calibrations, and quality assurance techniques which underpin United States commerce, technological progress, improved product reliability and manufacturing processes, and public safety;
+&emsp;(1) to rename the National Bureau of Standards as the National Institute of Standards and Technology and to modernize and restructure that agency to augment its unique ability to enhance the competitiveness of American industry while maintaining its traditional function as lead national laboratory for providing the measurements, calibrations, and quality assurance techniques which underpin United States commerce, technological progress, improved product reliability and manufacturing processes, and public safety;
 
 &emsp;(2) to assist private sector initiatives to capitalize on advanced technology;
 
@@ -64,7 +64,7 @@ Pub. L. 102–245, title II, §201(a), Feb. 14, 1992, 106 Stat. 15, provided tha
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that: "This part \[part I (§§5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278l, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the 'Technology Competitiveness Act'."
+Pub. L. 100–418, title V, §5101, Aug. 23, 1988, 102 Stat. 1426, provided that: "This part \[part I (§§5101–5164) ofsubtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and section 5315 of Title 5, Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278l, and 278n of this title, and section 1803 of Title 30, Mineral Lands and Mining, and amending provisions set out as a note under this section\] may be cited as the 'Technology Competitiveness Act'."
 
 #### Short Title
 

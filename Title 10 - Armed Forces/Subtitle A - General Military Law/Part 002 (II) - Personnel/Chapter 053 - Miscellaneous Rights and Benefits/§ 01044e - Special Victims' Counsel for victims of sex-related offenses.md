@@ -20,6 +20,8 @@ Designation; Purposes.—(1) The Secretary concerned shall designate legal couns
 
 &emsp;&emsp;&emsp;(II) during any period, regardless of the duty status of the individual, if the circumstances of the alleged sex-related offense have a nexus to the military service of the victim, as determined under regulations prescribed by the Secretary of Defense.
 
+&emsp;(C) A civilian employee of the Department of Defense who is not eligible for military legal assistance under section 1044(a)(7) of this title, but who is the victim of an alleged sex-related offense, and the Secretary of Defense or the Secretary of the military department concerned waives the condition in such section for the purposes of offering Special Victims' Counsel services to the employee.
+
 (b)
 
 Types of Legal Assistance Authorized.—The types of legal assistance authorized by subsection (a) include the following:
@@ -62,19 +64,33 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in section 1059 of this title and other State and Federal victims' compensation programs.
 
-&emsp;(9) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
+&emsp;(9) Legal consultation and assistance in connection with—
+
+&emsp;&emsp;(A) any complaint against the Government, including an allegation under review by an inspector general and a complaint regarding equal employment opportunities;
+
+&emsp;&emsp;(B) any request to the Government for information, including a request under section 552a of title 5 (commonly referred to as a "Freedom of Information Act request"); and
+
+&emsp;&emsp;(C) any correspondence or other communications with Congress.
+
+&emsp;(10) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
 
 (c)
 
-Nature of Relationship.—The relationship between a Special Victims' Counsel and avictim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
+Nature of Relationship.—The relationship between a Special Victims' Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
 
 (d)
 
-Qualifications.—An individual may not be designated as a Special Victims' Counsel under this section unless the individual—
+Qualifications.—(1) An individual may not be designated as a Special Victims' Counsel under this section unless the individual—
 
-&emsp;(1) meets the qualifications specified in section 1044(d)(2) of this title; and
+&emsp;(A) meets the qualifications specified in section 1044(d)(2) of this title; and
 
-&emsp;(2) is certified as competent to be designated as a Special Victims' Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+&emsp;(B) is certified as competent to be designated as a Special Victims' Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+
+(2) The Secretary of Defense shall—
+
+&emsp;(A) develop a policy to standardize the time period within which a Special Victims' Counsel receives training; and
+
+&emsp;(B) establish the baseline training requirements for a Special Victims' Counsel.
 
 (e)
 
@@ -82,11 +98,25 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims' Counsel programs operated under this section.
 
+(3) The Secretary of Defense, in collaboration with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating, shall establish—
+
+&emsp;(A) guiding principles for the Special Victims' Counsel program, to include ensuring that—
+
+&emsp;&emsp;(i) Special Victims' Counsel are assigned to locations that maximize the opportunity for face-to-face communication between counsel and clients; and
+
+&emsp;&emsp;(ii) effective means of communication are available to permit counsel and client interactions when face-to-face communication is not feasible;
+
+&emsp;(B) performance measures and standards to measure the effectiveness of the Special Victims' Counsel program and client satisfaction with the program; and
+
+&emsp;(C) processes by which the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating will evaluate and monitor the Special Victims' Counsel program using such guiding principles and performance measures and standards.
+
 (f)
 
 Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
-(2) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
+(2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and theSecretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
+
+(3) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
 (g)
 
@@ -100,9 +130,19 @@ Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-re
 
 Regulations.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367.)
+(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2)(C). Pub. L. 114–92, §532, added subpar. (C).
+
+Subsec. (b)(9), (10). Pub. L. 114–92, §533, added par. (9) and redesignated former par. (9) as (10).
+
+Subsec. (d). Pub. L. 114–92, §535(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (e)(3). Pub. L. 114–92, §535(b), added par. (3).
+
+Subsec. (f)(2), (3). Pub. L. 114–92, §534(a), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary concerned shall designate legal counsel (to be known as 'Special Victims' Counsel') for the purpose of providing legal assistance to an individual eligible for military legal assistance under section 1044 of this title who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted."
 
@@ -158,7 +198,7 @@ Definitions.—In this section:
 
 #### Implementation
 
-Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shallbe implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Enhanced Training Requirement
 

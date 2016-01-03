@@ -174,7 +174,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 405(b) of Pub. L. 99–514 applicable to discharges of indebtedness occurring after Apr. 9, 1986, in taxable years ending after such date, see section 405(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
 
-Amendment by section 822(b)(4), (5) of Pub. L. 99–514 applicable to discharges after Dec. 31, 1986, see section 822(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
+Amendment by section 822(b)(4), (5) of Pub. L. 99–514 applicable to discharges after Dec. 31, 1986, see section822(c) of Pub. L. 99–514, set out as a note under section 108 of this title.
 
 #### Effective Date of 1980 Amendment
 

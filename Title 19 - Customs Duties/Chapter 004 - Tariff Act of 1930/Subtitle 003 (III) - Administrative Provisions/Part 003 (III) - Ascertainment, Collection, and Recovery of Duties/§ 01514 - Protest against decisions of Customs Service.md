@@ -26,9 +26,9 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 #### (c) Form, number, and amendment of protest; filing of protest
 
-(1) A protest of a decision made under subsection (a) of this section shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
+(1) A protest of a decision made under subsection (a) shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
 
-&emsp;(A) each decision described in subsection (a) of this section as to which protest is made;
+&emsp;(A) each decision described in subsection (a) as to which protest is made;
 
 &emsp;(B) each category of merchandise affected by each decision set forth under paragraph (1);
 
@@ -36,9 +36,9 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(D) any other matter required by the Secretary by regulation.
 
-> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
+> Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under section 3332 of this title, that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to section 1515 of this title at any time prior to the disposition of the protest in accordance with that section.
 
-(2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
+(2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) by—
 
 &emsp;(A) the importers or consignees shown on the entry papers, or their sureties;
 
@@ -52,7 +52,7 @@ With respect to determinations made under section 1303 <sup>1</sup> of this tit
 
 &emsp;(F) any authorized agent of any of the persons described in clauses (A) through (E).
 
-(3) A protest of a decision, order, or finding described in subsection (a) of this section shall be filed with the Customs Service within 180 days after but not before—
+(3) A protest of a decision, order, or finding described in subsection (a) shall be filed with the Customs Service within 180 days after but not before—
 
 &emsp;(A) date of liquidation or reliquidation, or
 
@@ -66,7 +66,7 @@ The reliquidation of an entry shall not open such entry so that a protest may be
 
 #### (e) Advance notice of certain determinations
 
-Except as provided in subsection (f) of this section, an exporter or producer referred to in subsection (c)(2)(E) of this section shall be provided notice in advance of an adverse determination of origin under section 3332 of this title. The Secretary may, by regulations, prescribe the timeperiod in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
+Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under section 3332 of this title. The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
 
 #### (f) Denial of preferential treatment
 
@@ -74,7 +74,7 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 &emsp;(1) the Customs Service, in accordance with regulations issued by the Secretary, may deny preferential tariff treatment to entries of identical goods exported or produced by that person; and
 
-&emsp;(2) the advance notice requirement in subsection (e) of this section shall not apply to that person;
+&emsp;(2) the advance notice requirement in subsection (e) shall not apply to that person;
 
 > until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
 
@@ -96,7 +96,7 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 
 #### (k) Denial of preferential tariff treatment under the United States–Colombia Trade Promotion Agreement
 
-If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Colombia Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
+If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Colombia Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Colombia Trade PromotionAgreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
 #### (l) Denial of preferential tariff treatment under the United States–Panama Trade Promotion Agreement
 
@@ -154,7 +154,7 @@ Subsec. (k). Pub. L. 112–42, §§107(c), 205(b), temporarily added subsec. (k)
 
 Subsec. (l). Pub. L. 112–43, §§107(c), 205(b), temporarily added subsec. (l). See Effective and Termination Dates of 2011 Amendment note below.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted "section 1520 of this title (relating to refunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)" for "and section 1520 of this title (relating to refunds)".
+<b>2009</b>—Subsec. (a). Pub. L. 111–3, in introductory provisions, substituted "section 1520 of this title (relating torefunds), and section 6501 of title 26 (but only with respect to taxes imposed under chapters 51 and 52 of such title)" for "and section 1520 of this title (relating to refunds)".
 
 <b>2007</b>—Subsec. (i). Pub. L. 110–138, §§107(c), 205(b), temporarily added subsec. (i). See Effective and Termination Dates of 2007 Amendment note below.
 
@@ -222,7 +222,7 @@ Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subse
 
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
-<b>1970</b>—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+<b>1970</b>—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections exceptedfrom application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
 #### Effective and Termination Dates of 2011 Amendment
 
@@ -294,7 +294,7 @@ Amendment by section 208 of Pub. L. 103–182 to be made after amendment by sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 

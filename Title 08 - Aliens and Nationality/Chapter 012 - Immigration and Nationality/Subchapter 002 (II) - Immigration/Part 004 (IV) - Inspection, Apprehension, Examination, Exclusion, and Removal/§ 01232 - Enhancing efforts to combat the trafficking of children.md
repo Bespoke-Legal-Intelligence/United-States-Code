@@ -10,7 +10,7 @@
 
 #### (A) Determinations
 
-&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a country that is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
+&emsp;&emsp;Any unaccompanied alien child who is a national or habitual resident of a countrythat is contiguous with the United States shall be treated in accordance with subparagraph (B), if the Secretary of Homeland Security determines, on a case-by-case basis, that—
 
 &emsp;&emsp;&emsp;(i) such child has not been a victim of a severe form of trafficking in persons, and there is no credible evidence that such child is at risk of being trafficked upon return to the child's country of nationality or of last habitual residence;
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) any information gathered in assessments of country and local conditions pursuant to paragraph (2); and
 
-&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children as provided for in section 279(b)(1)(J) of title 6.
+&emsp;&emsp;&emsp;(vi) statistical information and other data on unaccompanied alien children asprovided for in section 279(b)(1)(J) of title 6.
 
 #### (D) Placement in removal proceedings
 
@@ -126,7 +126,7 @@
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, ortrafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -180,13 +180,13 @@
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary ofHealth and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As soon as practicable after March 7, 2013, the Comptroller General of theUnited States shall conduct a study regarding the effectiveness of the Child Advocate Program operated by the Secretary of Health and Human Services.
+&emsp;&emsp;&emsp;As soon as practicable after March 7, 2013, the Comptroller General of the United States shall conduct a study regarding the effectiveness of the Child Advocate Program operated by the Secretary of Health and Human Services.
 
 #### (ii) Matters to be studied
 
@@ -252,13 +252,13 @@
 
 #### (6) Transition rule
 
-&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
+&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C.1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
 
 #### (7) Omitted
 
 #### (8) Specialized needs of unaccompanied alien children
 
-&emsp;Applications for asylum and other forms of relief from removal in which an unaccompanied alien child is the principal applicant shall be governed by regulations which takeinto account the specialized needs of unaccompanied alien children and which address both procedural and substantive aspects of handling unaccompanied alien children's cases.
+&emsp;Applications for asylum and other forms of relief from removal in which an unaccompanied alien child is the principal applicant shall be governed by regulations which take into account the specialized needs of unaccompanied alien children and which address both procedural and substantive aspects of handling unaccompanied alien children's cases.
 
 #### (e) Training
 

@@ -16,7 +16,7 @@
 
 &emsp;(4) take other action provided by law.
 
-(e) When a matter is referred to the Attorney General under subsection (d)(2) of this section,or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
+(e) When a matter is referred to the Attorney General under subsection (d)(2) of this section, or when the Attorney General has reason to believe that a person is engaged in a pattern or practice violating this section, the Attorney General may begin a civil action in a district court of the United States for appropriate relief.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2421; Pub. L. 98–216, §2(3), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(7), July 5, 1994, 108 Stat. 1376.)
 
@@ -64,7 +64,7 @@ This is necessary to correct a cross-reference in section 306(b) and to reflect 
 
 #### References in Text
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Act is classified generally to subchapter II (§821 et seq.) of chapter 17 of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title V of the Actis classified generally to subchapter II (§821 et seq.) of chapter 17 of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(3), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

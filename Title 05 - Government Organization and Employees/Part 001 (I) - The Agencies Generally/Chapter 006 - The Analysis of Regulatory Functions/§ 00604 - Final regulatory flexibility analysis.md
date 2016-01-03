@@ -1,6 +1,6 @@
 ### §604. Final regulatory flexibility analysis
 
-(a) When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, or promulgates a final interpretative rule involving the internal revenue laws of the United States as described in section 603(a), the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
+(a) When an agency promulgates a final rule under section 553 of this title, after being required by that section or any other law to publish a general notice of proposed rulemaking, or promulgates a final interpretative rule involving the internal revenue laws of the UnitedStates as described in section 603(a), the agency shall prepare a final regulatory flexibility analysis. Each final regulatory flexibility analysis shall contain—
 
 &emsp;(1) a statement of the need for, and objectives of, the rule;
 

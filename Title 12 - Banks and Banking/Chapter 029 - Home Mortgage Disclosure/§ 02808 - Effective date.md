@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) <sup>1</sup> of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) <sup>1</sup> of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence (as determined without regard to the adjustment made by subsection (b) of this section).
+This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) <sup>1</sup> of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) <sup>1</sup> of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence (as determined without regard to the adjustment made by subsection (b)).
 
 #### (b) CPI adjustments
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the dollar amount applicable with respect to institutions described in section 2802(2)(A) <sup>1</sup> of this title under the 2d sentence of subsection (a) of this section shall be adjusted annually after December 31, 1996, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
+&emsp;Subject to paragraph (2), the dollar amount applicable with respect to institutions described in section 2802(2)(A) <sup>1</sup> of this title under the 2d sentence of subsection (a) shall be adjusted annually after December 31, 1996, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
 
 #### (2) 1-time adjustment for prior inflation
 
@@ -32,7 +32,7 @@ Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redes
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "Bureau" for "Board".
 
-<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted "(as determined without regard to the adjustment made by subsection (b) of this section)" before period at end, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted "(as determined without regard to the adjustment made by subsection (b))" before period at end, and added subsec. (b).
 
 <b>1992</b>—Pub. L. 102–550, §1604(a)(15), amended directory language of Pub. L. 102–242, §224(a). See 1991 Amendment note below.
 

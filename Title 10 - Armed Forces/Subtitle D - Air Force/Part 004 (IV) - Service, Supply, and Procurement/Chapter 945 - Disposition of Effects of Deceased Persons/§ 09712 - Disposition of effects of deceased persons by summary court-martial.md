@@ -10,7 +10,7 @@
 
 (b) If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collect the effects of the deceased that are then at the air base or in quarters.
 
-(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased tothe extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
+(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
 
 (d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 
@@ -28,7 +28,7 @@
 
 (e) If the summary court-martial cannot dispose of the effects under subsection (d) because there are no persons in those categories or because the court finds that the addresses of the persons are not known or readily ascertainable, the court may convert the effects of the deceased, except sabers, insignia, decorations, medals, watches, trinkets, manuscripts, and other articles valuable chiefly as keepsakes, into cash, by public or private sale, but not until 30 days after the date of death of the deceased.
 
-(f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.
+(f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part ofthe Department of the Air Force under this subsection.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 585; Pub. L. 89–718, §48, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §514(19), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 99–145, title XIII, §1301(d)(4)(A), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–510, div. A, title XV, §1533(a)(9), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 104–316, title II, §202(g), Oct. 19, 1996, 110 Stat. 3842.)
 

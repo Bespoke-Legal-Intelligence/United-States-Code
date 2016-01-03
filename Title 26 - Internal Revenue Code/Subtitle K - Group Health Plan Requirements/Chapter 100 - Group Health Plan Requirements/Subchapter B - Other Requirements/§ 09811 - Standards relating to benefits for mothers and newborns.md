@@ -28,7 +28,7 @@ A group health plan may not—
 
 &emsp;(3) penalize or otherwise reduce or limit the reimbursement of an attending provider because such provider provided care to an individual participant or beneficiary in accordance with this section;
 
-&emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce such provider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
+&emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce suchprovider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
 
 &emsp;(5) subject to subsection (c)(3), restrict benefits for any portion of a period within a hospital length of stay required under subsection (a) in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998,see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
+Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
 

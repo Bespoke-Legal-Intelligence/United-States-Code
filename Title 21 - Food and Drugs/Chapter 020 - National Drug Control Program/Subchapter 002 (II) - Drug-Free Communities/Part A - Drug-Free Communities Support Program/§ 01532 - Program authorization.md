@@ -54,7 +54,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall demonstrate, to the satisfaction of the Administrator—
 
-&emsp;&emsp;(A) that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title, for a period of not less than 6 months, actingthrough entities such as task forces, subcommittees, or community boards; and
+&emsp;&emsp;(A) that the representatives of the coalition have worked together on substance abuse reduction initiatives, which, at a minimum, includes initiatives that target drugs referenced in section 1523(9)(A) of this title, for a period of not less than 6 months, acting through entities such as task forces, subcommittees, or community boards; and
 
 &emsp;&emsp;(B) substantial participation from volunteer leaders in the community involved (especially in cooperation with individuals involved with youth such as parents, teachers, coaches, youth workers, and members of the clergy).
 

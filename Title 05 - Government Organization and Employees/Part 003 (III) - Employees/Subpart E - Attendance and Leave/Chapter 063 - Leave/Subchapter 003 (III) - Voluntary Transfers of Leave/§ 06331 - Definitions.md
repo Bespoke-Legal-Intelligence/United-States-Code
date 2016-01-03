@@ -34,11 +34,11 @@ Pub. L. 100–566, §2(c), Oct. 31, 1988, 102 Stat. 2844, provided that:
 
 "(2) No later than 6 months after the date of the enactment of this Act—
 
-&emsp;"(A) the head of each agency involved under sections 6332 and 6339 of title 5, United States Code, shall establish and begin operating a leave transfer program in accordance with applicable provisions of subchapter III of chapter 63 of title 5, United States Code, and applicable regulations prescribed by the Office; and
+&emsp;"(A) the head of each agency involved under sections 6332 and 6339 of title 5, United States Code, shall establish and begin operating a leave transfer program in accordance with applicable provisions of subchapter III of chapter 63 of title 5, United StatesCode, and applicable regulations prescribed by the Office; and
 
 &emsp;"(B) the Office of Personnel Management shall prescribe regulations to implement leave bank programs pursuant to the amendments made by this Act.
 
-"(3) No later than 9 months after the date of the enactment of this Act, the head of each agency involved under section 6362 of title 5, United States Code, shall establish and begin operating a leave bank in accordance with subchapter IV of chapter 63 of title 5, UnitedStates Code, and applicable regulations prescribed by the Office."
+"(3) No later than 9 months after the date of the enactment of this Act, the head of each agency involved under section 6362 of title 5, United States Code, shall establish and begin operating a leave bank in accordance with subchapter IV of chapter 63 of title 5, United States Code, and applicable regulations prescribed by the Office."
 
 #### Report to Congress
 

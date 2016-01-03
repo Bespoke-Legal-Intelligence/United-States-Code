@@ -1,6 +1,6 @@
 ### §2421. Plantations and farms: operation, maintenance, and improvement
 
-(a) Appropriations for the subsistence of members of the Army, Navy, Air Force, or Marine Corps are available for expenditures necessary in the operation, maintenance, and improvement of any plantation or farm, outside the United States and under the jurisdiction of the Army, Navy, Air Force, or Marine Corps, as the case may be, for furnishing fresh fruits and vegetables to the armed forces. However, no land may be acquired under this subsection.
+(a) Appropriations for the subsistence of members of the Army, Navy, Air Force, or Marine Corps are available for expenditures necessaryin the operation, maintenance, and improvement of any plantation or farm, outside the United States and under the jurisdiction of the Army, Navy, Air Force, or Marine Corps, as the case may be, for furnishing fresh fruits and vegetables to the armed forces. However, no land may be acquired under this subsection.
 
 (b) Fruits and vegetables produced under subsection (a) that are over the amount furnished or sold to the armed forces or to civilians serving with the armed forces may be sold only outside the United States.
 

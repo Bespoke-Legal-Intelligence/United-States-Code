@@ -14,7 +14,7 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
 
 #### (b) Contents
 
@@ -62,7 +62,7 @@ The Secretary, directly or by grant or contract, may provide technical assistanc
 
 #### References in Text
 
-The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, PostalService, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Codification
 
@@ -70,7 +70,7 @@ Section was formerly classified to section 1066 of this title prior to renumberi
 
 #### Prior Provisions
 
-A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305, which related to application review process,was renumbered section 393 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068b of this title.
+A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305, which related to application review process, was renumbered section 393 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068b of this title.
 
 Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

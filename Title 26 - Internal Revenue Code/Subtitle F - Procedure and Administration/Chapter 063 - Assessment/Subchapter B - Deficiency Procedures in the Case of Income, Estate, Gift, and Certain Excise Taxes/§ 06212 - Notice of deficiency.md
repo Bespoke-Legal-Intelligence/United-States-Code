@@ -16,7 +16,7 @@ If the Secretary determines that there is a deficiency in respect of any tax imp
 
 #### (3) Estate tax
 
-&emsp;In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, notice of a deficiency in respect of a tax imposed by chapter 11, if addressed in the name of the decedent or other person subject to liability and mailed to his last known address, shall be sufficient for purposes of chapter 11 and of this chapter.
+&emsp;In the absence of notice to the Secretary under section 6903 of the existence of a fiduciary relationship, notice of a deficiency in respect of a tax imposed by chapter 11, if addressed in the name of the decedent or other person subject to liability and mailed to hislast known address, shall be sufficient for purposes of chapter 11 and of this chapter.
 
 #### (c) Further deficiency letters restricted
 
@@ -164,7 +164,7 @@ Amendment by section 1901(b)(31)(C), (37)(C) of Pub. L. 94–455 applicable to t
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub.L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1970 Amendment
 

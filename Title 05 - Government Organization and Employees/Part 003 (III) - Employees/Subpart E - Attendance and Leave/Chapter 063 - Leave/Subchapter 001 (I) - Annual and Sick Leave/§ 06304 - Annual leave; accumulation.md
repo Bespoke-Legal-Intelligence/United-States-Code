@@ -48,7 +48,7 @@
 
 (B) As used in subparagraph (A)—
 
-&emsp;(i) the term "Department of Defense emergency essential employee" means an employee of the Department of Defense who is designated under section 1580 of title 10 as an emergency essential employee; and
+&emsp;(i) the term "Department of Defense emergency essential employee" means an employeeof the Department of Defense who is designated under section 1580 of title 10 as an emergency essential employee; and
 
 &emsp;(ii) the term "combat zone" has the meaning given such term in section 112(c)(2) of the Internal Revenue Code of 1986.
 
@@ -152,7 +152,7 @@ Subsec. (f)(1)(H). Pub. L. 111–282, §2(b)(3), added subpar. (H) relating to a
 
 <b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §2816(a), designated existing provisions as subpar. (A), substituted "closure of, and any realignment with respect to," for "closure of", and added subpar. (B).
 
-Pub. L. 103–337, §341(c), substituted "the closure of an installation of the Department of Defense pursuant to the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation" for "the closure of an installation".
+Pub. L. 103–337, §341(c), substituted "the closure of an installation of the Department of Defense pursuant tothe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) during any period, and the closure of any other installation" for "the closure of an installation".
 
 Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Annual leave accrued shall not be subject to the limitation on accumulation otherwise imposed by this section if such leave is accrued by an individual while serving in a position in—
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1979 Amendment
 
@@ -248,7 +248,7 @@ Payment of Restored Annual Leave.—(1) On or after September 23, 1996, all empl
 
 #### Use of Excess Leave
 
-Pub. L. 103–356, title II, §201(b), Oct. 13, 1994, 108 Stat. 3411, provided that: "Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304."
+Pub. L. 103–356, title II, §201(b), Oct. 13, 1994, 108 Stat. 3411, provided that: "Notwithstanding the amendment made by subsection (a) \[amending this section\], in thecase of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304."
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 

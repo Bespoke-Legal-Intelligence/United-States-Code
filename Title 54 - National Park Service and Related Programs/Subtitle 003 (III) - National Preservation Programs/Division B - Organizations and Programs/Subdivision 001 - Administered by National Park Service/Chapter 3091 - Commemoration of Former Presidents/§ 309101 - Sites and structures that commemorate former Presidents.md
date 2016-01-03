@@ -18,7 +18,9 @@ Establishment as National Historic Site.—If during the 6-month period followin
 
 (d)
 
-Acquistion <sup>1</sup> of Land and Interests in Land.—The Secretary may acquire the land and interests in land by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange.
+Acquistion <sup>1</sup>
+
+of Land and Interests in Land.—The Secretary may acquire the land and interests in land by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange.
 
 (e)
 

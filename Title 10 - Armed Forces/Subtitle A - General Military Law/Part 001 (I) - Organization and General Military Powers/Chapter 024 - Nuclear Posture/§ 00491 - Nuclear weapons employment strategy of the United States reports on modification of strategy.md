@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 112–239, §1031(a)(2)(F), added subsec. (b).
 
 Subsec. (c). Pub. L. 113–66, §1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
 
-"(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+"(1) The Secretary of Defense shall submit to the congressional defense committees written notification ofan anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 "(2) In this subsection, the term 'anomaly' means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system."
 
@@ -64,13 +64,43 @@ Pub. L. 112–239, §1032(b), added subsec. (d).
 
 #### Statement of Policy on the Nuclear Triad
 
+Pub. L. 114–92, div. A, title XVI, §1664, Nov. 25, 2015, 129 Stat. 1128, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the triad of strategic nuclear delivery systems plays a critical role in ensuring the national security of the United States; and
+
+&emsp;"(2) retaining all three legs of the nuclear triad is among the highest priorities of the Department of Defense and will best maintain strategic stability at a reasonable cost, while hedging against potential technical problems and vulnerabilities.
+
+"(b)
+
+Statement of Policy.—It is the policy of the United States—
+
+&emsp;"(1) to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—
+
+&emsp;&emsp;"(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles;
+
+&emsp;&emsp;"(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and
+
+&emsp;&emsp;"(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads;
+
+&emsp;"(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft;
+
+&emsp;"(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent;
+
+&emsp;"(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members; and
+
+&emsp;"(5) to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements."
+
 Pub. L. 113–291, div. A, title XVI, §1652, Dec. 19, 2014, 128 Stat. 3654, provided that: "It is the policy of the United States—
 
 &emsp;"(1) to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—
 
 &emsp;&emsp;"(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles;
 
-&emsp;&emsp;"(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable ofcarrying multiple independently targetable reentry vehicles; and
+&emsp;&emsp;"(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and
 
 &emsp;&emsp;"(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads;
 

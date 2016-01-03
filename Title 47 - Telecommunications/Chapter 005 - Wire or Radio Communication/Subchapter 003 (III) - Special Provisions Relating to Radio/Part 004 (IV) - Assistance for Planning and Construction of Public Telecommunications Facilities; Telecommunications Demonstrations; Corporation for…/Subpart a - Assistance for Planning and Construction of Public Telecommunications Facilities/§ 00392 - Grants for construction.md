@@ -60,7 +60,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–35, §1223(a), inserted provisions relating to noninterference of facilities with services required under this part, and substituted "primarily" for "only".
 
-Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating to good cause for release of applicant or owner from requirements.
+Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating togood cause for release of applicant or owner from requirements.
 
 <b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 8½ percent limit on grants and criteria for awarding grants.
 

@@ -12,7 +12,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (1) Requirement
 
-&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscal year to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
+&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscalyear to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
 
 #### (2) Agreements for academic study
 

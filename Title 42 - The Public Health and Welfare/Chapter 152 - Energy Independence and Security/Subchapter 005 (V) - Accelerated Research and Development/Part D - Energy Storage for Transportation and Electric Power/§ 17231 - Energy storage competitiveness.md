@@ -170,7 +170,7 @@ In carrying out the activities of this section, the Secretary shall coordinate r
 
 #### (5) National laboratories
 
-&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a centerestablished under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
+&emsp;A national laboratory (as defined in section 15801 of this title) may participate in a center established under this subsection, including a cooperative research and development agreement (as defined in section 3710a(d) of title 15).
 
 #### (6) Disclosure
 

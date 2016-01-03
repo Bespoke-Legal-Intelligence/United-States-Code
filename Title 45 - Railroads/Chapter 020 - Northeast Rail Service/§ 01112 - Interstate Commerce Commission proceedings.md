@@ -10,7 +10,7 @@ Notwithstanding any other provision of subtitle IV of title 49, in any proceedin
 
 #### (c) Interest of United States attaching in bankruptcy, liquidation, abandonment, etc.
 
-(1) If the Secretary determines under subsection (b) of this section that there is an agreement between a profitable railroad in the Region (as defined in section 702 of this title) which received a loan under section 721(a) of this title and a prospective purchaser for the sale of such railroad, the Secretary shall limit the interest of the United States in any debt of such a railroad to an interest which attaches to such debt in the event of bankruptcy or substantial sale or liquidation of the assets of the railroad. The Secretary may substitute for the evidence of such debt contingency notes payable solely from the railroad operating assets then securing such debt, including reinvestments thereof, or such other contingency notes as the Secretary deems appropriate and which conform to the terms set forth in this subsection.
+(1) If the Secretary determines under subsection (b) that there is an agreement between a profitable railroad in the Region (as defined in section 702 of this title) which received a loan under section 721(a) of this title and a prospective purchaser for the sale of such railroad, the Secretary shall limit the interest of the United States in any debt of such a railroad to an interest which attaches to such debt in the event of bankruptcy or substantial sale or liquidation of the assets of the railroad. The Secretary may substitute for the evidence of such debt contingency notes payable solely from the railroad operating assets then securing such debt, including reinvestments thereof, or such other contingency notes as the Secretary deems appropriate and which conform to the terms set forth in this subsection.
 
 (2) If the interest of the United States is limited under paragraph (1), any new debt issued by such a railroad subsequent to the issuance of the debt described in paragraph (1) may have such higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of such a railroad than the debt described in such paragraph as the Secretary and the railroad may agree.
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of subtitle IV of title 49, in any proceedin
 
 #### References in Text
 
-Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11,Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 
@@ -34,9 +34,9 @@ Subsec. (c)(3). Pub. L. 97–468, §510(3), added par. (3).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

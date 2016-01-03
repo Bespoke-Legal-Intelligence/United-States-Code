@@ -6,7 +6,7 @@ The funds on deposit in the Treasury of the United States to the credit of the C
 
 #### References in Text
 
-The Act entitled "An Act making supplemental appropriations for the fiscal year ending June 30, 1965,and for other purposes", approved April 30, 1965 (79 Stat. 81), referred to in text, is Pub. L. 89–16, Apr. 30, 1965, 79 Stat. 81. That portion of the act which appropriated the funds referred to was not classified to the Code.
+The Act entitled "An Act making supplemental appropriations for the fiscal year ending June 30, 1965, and for other purposes", approved April 30, 1965 (79 Stat. 81), referred to in text, is Pub. L. 89–16, Apr. 30, 1965, 79 Stat. 81. That portion of the act which appropriated the funds referred to was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

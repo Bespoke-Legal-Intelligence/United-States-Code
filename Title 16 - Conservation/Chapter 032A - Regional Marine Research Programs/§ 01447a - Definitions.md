@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) "marine and coastal waters" means estuaries, waters of the estuarine zone, including wetlands, any other waters seaward of the historic height of tidal influence, the territorial seas, the contiguous zone, and the ocean;
 
-&emsp;(5) "nonprofit organization" means any organization, association, or institution described in section 501(c)(3) of title 26 which isexempt from taxation pursuant to section 501(a) of title 26;
+&emsp;(5) "nonprofit organization" means any organization, association, or institution described in section 501(c)(3) of title 26 which is exempt from taxation pursuant to section 501(a) of title 26;
 
 &emsp;(6) "region" means 1 of the 9 regions described in section 1447b(a) of this title; and
 

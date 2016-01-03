@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 109–233, §501(a)(3), amended subsec. (c) generally. Prio
 
 &emsp;"(3) the member suffers the loss before the end of the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date on which the member sustains the traumatic injury, except, if the loss is quadriplegia, paraplegia, or hemiplegia, the member suffers the loss not later than 365 days after sustaining the traumatic injury."
 
-Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
+Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for eachtype of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
 
 &emsp;"(1) made in accordance with a schedule prescribed by the Secretary, in collaboration with the Secretary of Defense;
 
@@ -198,7 +198,7 @@ Certification of persons entitled to payment.—The Secretary concerned shall ce
 
 "(3)
 
-Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, fromfunds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
+Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
 
 "(4)
 

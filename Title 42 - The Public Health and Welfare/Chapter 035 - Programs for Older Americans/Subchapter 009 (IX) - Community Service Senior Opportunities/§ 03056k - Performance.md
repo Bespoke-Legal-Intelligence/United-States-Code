@@ -16,7 +16,7 @@
 
 #### (ii) Additional indicators
 
-&emsp;&emsp;&emsp;The additional indicators of performance established by the Secretary in accordance with paragraph (1) shall be the additional indicators of performance specified in subsection (b)(2).
+&emsp;&emsp;&emsp;The additional indicators of performance established by the Secretary in accordance with paragraph (1) shall be the additionalindicators of performance specified in subsection (b)(2).
 
 #### (B) Continuous improvement
 
@@ -24,7 +24,7 @@
 
 #### (C) Expected levels of performance
 
-&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awardedunder the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
+&emsp;&emsp;The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee's satisfaction with the negotiated levels.
 
 #### (D) Adjustment
 
@@ -180,7 +180,7 @@ The Secretary may not publish a notice announcing a grant competition under this
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(2)(D)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(2)(D)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. PartA of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 

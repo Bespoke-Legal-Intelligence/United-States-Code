@@ -26,7 +26,7 @@ No committee shall appoint to its staff any experts or other personnel detailed 
 
 In any case in which a request for the appointment of a minority staff member under subsection (a) or subsection (c) is made at any time when no vacancy exists to which the appointment requested may be made—
 
-&emsp;(1) the person appointed pursuant to such a request under subsection (a) may serve in addition to any other professional staff members authorized by such subsection and may be paid from the contingent fund of the Senate until such time as such a vacancy occurs, at which time such person shall be considered to have been appointed to such vacancy; and
+&emsp;(1) the person appointed pursuant to such a request under subsection (a) may serve in addition to any other professional staff membersauthorized by such subsection and may be paid from the contingent fund of the Senate until such time as such a vacancy occurs, at which time such person shall be considered to have been appointed to such vacancy; and
 
 &emsp;(2) the person appointed pursuant to such a request under subsection (c) may serve in addition to any other clerical staff members authorized by such subsection and may be paid, until otherwise provided, from the contingent fund of the Senate.
 
@@ -44,13 +44,13 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 #### (j) Specialized training for professional staffs of Senate and House standing committees, Senate Appropriations Committee, Senate Majority and Minority Policy Committees, and joint committees whose funding is disbursed by Secretary of Senate or Chief Administrative Officer of House; assistance: pay, tuition, etc. while training; continued employment agreement; service credit: retirement, life insurance and health insurance
 
-(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, and the committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to provide assistance for members of itsprofessional staff in obtaining specialized training, whenever that committee determines that such training will aid the committee in the discharge of its responsibilities. Any joint committee of the Congress whose expenses are paid out of funds disbursed by the Secretary of the Senate or by the Chief Administrative Officer of the House of Representatives, the Committee on Appropriations of the Senate, and the Majority Policy Committee and Minority Policy Committee of the Senate are each authorized to expend, for the purpose of providing assistance in accordance with paragraphs (2), (3), and (4) of this subsection for members of its staff in obtaining such training, any part of amounts appropriated to that committee.
+(1) Each standing committee of the Senate or House of Representatives is authorized, with the approval of the Committee on Rules and Administration in the case of standing committees of the Senate, and the committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House, to provide assistance for members of its professional staff in obtaining specialized training, whenever that committee determines that such training will aid the committee in the discharge of its responsibilities. Any joint committee of the Congress whose expenses are paid out of funds disbursed by the Secretary of the Senate or by the Chief Administrative Officer of the House of Representatives, the Committee on Appropriations of the Senate, and the Majority Policy Committee and Minority Policy Committee of the Senate are each authorized to expend, for the purpose of providing assistance in accordance with paragraphs (2), (3), and (4) of this subsection for members of its staff in obtaining such training, any part of amounts appropriated to that committee.
 
 (2) Such assistance may be in the form of continuance of pay during periods of training or grants of funds to pay tuition, fees, or such other expenses of training, or both, as may be approved by the Committee on Rules and Administration or the Committee on House Administration, as the case may be.
 
 (3) A committee providing assistance under this subsection shall obtain from any employee receiving such assistance such agreement with respect to continued employment with the committee as the committee may deem necessary to assure that it will receive the benefits of such employee's services upon completion of his training.
 
-(4) During any period for which an employee is separated from employment with a committee for the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediately prior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
+(4) During any period for which an employee is separated from employment with a committee for the purpose of undergoing training under this subsection, such employee shall be considered to have performed service (in nonpay status) as an employee of the committee at the rate of compensation received immediatelyprior to commencing such training (including any increases in compensation provided by law during the period of training) for the purposes of—
 
 &emsp;(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 
@@ -150,7 +150,7 @@ Pub. L. 91–510, title VI, §601, Oct. 26, 1970, 84 Stat. 1204, provided that:
 
 "(2) Part 2 of title II shall be effective with respect to fiscal years beginning on or after July 1, 1972.
 
-"(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of thisAct, shall become effective at the close of the first session of the Ninety-second Congress.
+"(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act, shall become effective at the close of the first session of the Ninety-second Congress.
 
 "(4) Section 203(i) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act, shall be effective with respect to fiscal years beginning on or after July 1, 1970.
 
@@ -222,7 +222,7 @@ S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is 
 
 "
 
-Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary tocarry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
+Sec. 2. (a) The Secretary shall appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this resolution. The Director, with the approval of the Secretary, shall prescribe the duties and responsibilities of such personnel. If a Director is not appointed, the Office shall be headed by an Acting Director. The Secretary shall appoint and fix the compensation of the Acting Director.
 
 "(b) The Majority and Minority Leaders of the Senate may each designate a Majority staff assistant and a Minority staff assistant to serve as their liaisons to the Office. Upon such designation, the Secretary shall appoint and fix the compensation of the Majority and Minority liaison assistants.
 
@@ -244,7 +244,7 @@ Sec. 3. (a) The Office is authorized, and shall have the responsibility, to deve
 
 "(b) Within 180 days after the Director takes office, he shall develop, after consultation with the Secretary, a Senate Security Manual, to be printed and distributed to all Senate offices. The Senate Security Manual will prescribe the policies and procedures of the Office, and set forth regulations for all other Senate offices for the handling of classified information.
 
-"(c) Within 90 days after taking office, the Director shall conduct a survey to determine the number of officers and employees of the Senate that have security clearances and report the findings of the survey to the Majority and Minority Leaders and Secretary of the Senate together with recommendations regarding the feasibility of reducing the number of employees with such clearances.
+"(c) Within 90 days after taking office, the Director shall conduct a survey to determine the number of officers and employees of the Senate that have securityclearances and report the findings of the survey to the Majority and Minority Leaders and Secretary of the Senate together with recommendations regarding the feasibility of reducing the number of employees with such clearances.
 
 "(d) The Office shall have authority—
 

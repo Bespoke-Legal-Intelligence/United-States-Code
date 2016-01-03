@@ -2,7 +2,7 @@
 
 #### (a) Rules, regulations, and procedures
 
-The Bureau is authorized to establish such rules, regulations, and procedures as may be necessary to carry out the purposes of this subchapter. Such rules, regulations, and procedures will be determinative of conflict of laws issues arising under this subchapter. Rules, regulations, and procedures issued under this subchapter may include regulations governing the recognition of agents or other persons representing claimants under this subchapter before the Bureau. The Bureau may prescribe the maximum fees which may be charged for services performed in connection with any claim under this subchapter before the Bureau, and any agreement in violation of such rules and regulations shall be void.
+The Bureau is authorized to establish such rules, regulations, and procedures as may be necessary to carry out the purposes of this subchapter. Such rules, regulations, and procedures will be determinative of conflict of laws issues arising under this subchapter. Rules, regulations, and procedures issued under this subchapter may include regulations governing therecognition of agents or other persons representing claimants under this subchapter before the Bureau. The Bureau may prescribe the maximum fees which may be charged for services performed in connection with any claim under this subchapter before the Bureau, and any agreement in violation of such rules and regulations shall be void.
 
 #### (b) Use of State and local administrative and investigative assistance
 

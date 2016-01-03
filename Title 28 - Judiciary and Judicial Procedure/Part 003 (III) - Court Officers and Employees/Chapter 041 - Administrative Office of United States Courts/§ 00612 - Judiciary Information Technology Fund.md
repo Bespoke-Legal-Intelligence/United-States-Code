@@ -108,7 +108,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
+(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009-45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
 
 #### References in Text
 

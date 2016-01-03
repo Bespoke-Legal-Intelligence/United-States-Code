@@ -156,7 +156,7 @@ Implementation.—The initial members of the Board of Directors of the Federal C
 
 "(3)
 
-Effect on existing board.—A member of the Board of Directors of the Federal Crop Insurance Corporation on the date of the enactment of this Act \[June 20, 2000\] may continue to serve as a member of the Board until the members referred to in paragraph (2) are first appointed."
+Effect on existing board.—A member of the Board of Directors of the Federal Crop Insurance Corporation on the date of the enactment of this Act \[June 20, 2000\] may continue to serve as a member of theBoard until the members referred to in paragraph (2) are first appointed."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

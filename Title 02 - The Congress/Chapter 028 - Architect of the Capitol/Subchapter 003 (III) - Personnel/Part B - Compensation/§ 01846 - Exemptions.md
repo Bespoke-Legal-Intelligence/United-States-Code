@@ -8,7 +8,7 @@ Notwithstanding any other provision of sections 1841 to 1846 of this title, the 
 
 &emsp;(3) at per hour or per diem rates in accordance with section 3 of the Legislative Pay Act of 1929, as amended (46 Stat. 38; 55 Stat. 615), relating to employees performing professional and technical services for the Architect of the Capitol in connection with construction projects and employees under the Office of the Architect of the Capitol whose tenure of employment is temporary or of uncertain duration; or
 
-&emsp;(4) in accordance with prevailing rates under authority of sections 2042 to 2047 of this title, or section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress), relating to the duties of the Architect of the Capitol with respect to the House of Representatives Restaurant.
+&emsp;(4) in accordance with prevailing rates under authority of sections 2042 to 2047 of this title,or section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress), relating to the duties of the Architect of the Capitol with respect to the House of Representatives Restaurant.
 
 (Pub. L. 91–510, title IV, §486, Oct. 26, 1970, 84 Stat. 1197.)
 

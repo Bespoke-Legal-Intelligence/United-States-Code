@@ -6,5 +6,5 @@ The Director of the Bureau of Citizenship and Immigration Services may, notwiths
 
 #### Effective Date
 
-Section effective on the date on which the transfer of functions specified under section 251 of this title takeseffect, see section 455 of Pub. L. 107–296, set out as a note under section 271 of this title.
+Section effective on the date on which the transfer of functions specified under section 251 of this title takes effect, see section 455 of Pub. L. 107–296, set out as a note under section 271 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Accreditation by American Osteopathic Association or other national accreditation body
 
-(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title orthe conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
+(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title or the conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
 
 &emsp;(A) in the case of a provider entity not described in paragraph (3)(B), the Secretary shall treat such entity as meeting those conditions or requirements with respect to which the Secretary made such finding; or
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 110–275, §125(a), redesignated subsec. (e) as (d).
 
 <b>2003</b>—Subsec. (b)(3)(B). Pub. L. 108–173 substituted "sections" for "section".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: "In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions withrespect to which he made such finding." and redesignated fourth sentence as subsec. (c).
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(d) \[title V, §516(b)(2), (3)\], struck out after second sentence: "In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding." and redesignated fourth sentence as subsec. (c).
 
 Subsec. (b). Pub. L. 104–134, §101(d) \[title V, §516(b)(3)\], added subsec. (b). Former subsec. (b) redesignated (d).
 

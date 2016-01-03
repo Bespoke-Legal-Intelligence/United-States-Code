@@ -54,7 +54,7 @@ The beneficiary assistance program shall provide for information, counseling, an
 
 #### (d) Educational material
 
-The Secretary, through the Administrator of the Centers for Medicare \& Medicaid Services, shall develop appropriate educational materials and other appropriate techniques to assist employees in carrying out this section.
+The Secretary, through the Administrator of the Centers for Medicare \& Medicaid Services,shall develop appropriate educational materials and other appropriate techniques to assist employees in carrying out this section.
 
 #### (e) Notice to beneficiaries
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145, provided that:
 
 "(a)
 
@@ -100,9 +100,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000; and
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
+&emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $7,500,000;
+
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $13,000,000; and
+
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $13,000,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -148,9 +152,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000; and
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $7,500,000;
 
-&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
+&emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $7,500,000;
+
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $7,500,000; and
+
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $7,500,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -164,7 +172,7 @@ Required use of funds.—
 
 &emsp;&emsp;"(A)
 
-All funds.—Subject to subparagraph (B), each grant awarded under this subsection shall be used to provide outreach to eligible Medicare beneficiaries regarding the benefits available under title XVIII of the Social Security Act \[this subchapter\].
+All funds.—Subject to subparagraph (B), each grant awarded under this subsection shall beused to provide outreach to eligible Medicare beneficiaries regarding the benefits available under title XVIII of the Social Security Act \[this subchapter\].
 
 &emsp;&emsp;"(B)
 
@@ -192,9 +200,13 @@ Funding.—For purposes of making grants under this subsection, the Secretary sh
 
 &emsp;&emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000; and
+&emsp;&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000;
 
-&emsp;&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
+&emsp;&emsp;&emsp;"(v) for fiscal year 2015, of $5,000,000;
+
+&emsp;&emsp;&emsp;"(vi) for fiscal year 2016, of $5,000,000; and
+
+&emsp;&emsp;&emsp;"(vii) for fiscal year 2017, of $5,000,000.
 
 &nbsp;&nbsp;Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -228,9 +240,13 @@ Funding.—For purposes of making a grant or entering into a contract under para
 
 &emsp;&emsp;"(iii) for fiscal year 2013, of $5,000,000;
 
-&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000; and
+&emsp;&emsp;"(iv) for fiscal year 2014, of $5,000,000;
 
-&emsp;&emsp;"(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
+&emsp;&emsp;"(v) for fiscal year 2015, of $5,000,000;
+
+&emsp;&emsp;"(vi) for fiscal year 2016, of $12,000,000; and
+
+&emsp;&emsp;"(vii) for fiscal year 2017, of $12,000,000.
 
 > &emsp;Amounts appropriated under this subparagraph shall remain available until expended.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the National Science Foundation, in coordination with the Director of theOffice of Personnel Management and Secretary of Homeland Security, shall continue a Federal cyber scholarship-for-service program to recruit and train the next generation of information technology professionals, industrial control system security professionals, and security managers to meet the needs of the cybersecurity mission for Federal, State, local, and tribal governments.
+The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management and Secretary of Homeland Security, shall continue a Federal cyber scholarship-for-service program to recruit and train the next generation of information technology professionals, industrial control system security professionals, and security managers to meet the needs of the cybersecurity mission for Federal, State, local, and tribal governments.
 
 #### (b) Program description and components
 
@@ -10,7 +10,7 @@ The Federal Cyber Scholarship-for-Service Program shall—
 
 &emsp;(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
 
-&emsp;(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology workforce; and
+&emsp;(2) provide the scholarship recipients with summer internship opportunities or othermeaningful temporary appointments in the Federal information technology workforce; and
 
 &emsp;(3) prioritize the employment placement of scholarship recipients in the Federal Government.
 

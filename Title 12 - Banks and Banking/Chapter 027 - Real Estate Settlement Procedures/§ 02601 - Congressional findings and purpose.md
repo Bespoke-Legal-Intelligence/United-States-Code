@@ -32,7 +32,7 @@ Pub. L. 94–205, §1, Jan. 2, 1976, 89 Stat. 1157, provided: "That this Act \[e
 
 #### Short Title
 
-Pub. L. 93–533, §1, Dec. 22, 1974, 88 Stat. 1724, provided that: "This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the 'Real Estate Settlement Procedures Act of 1974'."
+Pub. L. 93–533, §1, Dec. 22, 1974, 88 Stat. 1724, provided that: "This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\]may be cited as the 'Real Estate Settlement Procedures Act of 1974'."
 
 #### Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions
 

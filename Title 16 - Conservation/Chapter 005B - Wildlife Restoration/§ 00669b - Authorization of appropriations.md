@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) An amount equal to all revenues accruing each fiscal year (beginning with the fiscal year 1975) from any tax imposed on specified articles by sections 4161(b) and 4181 of title 26, shall, subject to the exemptions in section 4182 of such title, be covered into the Federal aid to wildlife restoration fund in the Treasury (hereinafter referred to as the "fund") and is authorized to be appropriated and made available until expendedto carry out the purposes of this chapter. So much of such appropriations apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligated at the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior in carrying out the provisions of the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\].
+(1) An amount equal to all revenues accruing each fiscal year (beginning with the fiscal year 1975) from any tax imposed on specified articles by sections 4161(b) and 4181 of title 26, shall, subject to the exemptions in section 4182 of such title, be covered into the Federal aid to wildlife restoration fund in the Treasury (hereinafter referred to as the "fund") and is authorized to be appropriated and made available until expended to carry out the purposes of this chapter. So much of such appropriations apportioned to any State for any fiscal year as remains unexpended at the close thereof is authorized to be made available for expenditure in that State until the close of the succeeding fiscal year. Any amount apportioned to any State under the provisions of this chapter which is unexpended or unobligatedat the end of the period during which it is available for expenditure on any project is authorized to be made available for expenditure by the Secretary of the Interior in carrying out the provisions of the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\].
 
 (2) There is established in the Federal aid to wildlife restoration fund a subaccount to be known as the "Wildlife Conservation and Restoration Account". There are authorized to be appropriated for the purposes of the Wildlife Conservation and Restoration Account $50,000,000 in fiscal year 2001 for apportionment in accordance with this chapter to carry out State wildlife conservation and restoration programs. Further, interest on amounts transferred shall be treated in a manner consistent with 16 U.S.C. 669(b)(1)).<sup>1</sup>
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) constitute the sums available for allocation by the Secretary under section 4407 of this title; and
 
-&emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2016.
+&emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2026.
 
 #### (c) Wildlife Conservation and Restoration Account
 
@@ -34,13 +34,15 @@
 
 Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
 
-(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034.)
+(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, §120, Dec. 18, 2015, 129 Stat. 2552.)
 
 #### References in Text
 
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(C). Pub. L. 114–113 substituted "2026" for "2016".
 
 <b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–75 substituted "2016" for "2006".
 
@@ -62,7 +64,7 @@ Pub. L. 101–233, §7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: "The
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–558, title I, §101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat.238, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 669c of this title\] of this section shall take effect January 1, 1975."
+Pub. L. 92–558, title I, §101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 669c of this title\] of this section shall take effect January 1, 1975."
 
 #### Transfer of Functions
 

@@ -4,13 +4,13 @@
 
 No services may be provided by any credit repair organization for any consumer—
 
-&emsp;(1) unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) of this section has been signed by the consumer; or
+&emsp;(1) unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) has been signed by the consumer; or
 
 &emsp;(2) before the end of the 3-business-day period beginning on the date the contract is signed.
 
 #### (b) Terms and conditions of contract
 
-No contract referred to in subsection (a) of this section meets the requirements of this subsection unless such contract includes (in writing)—
+No contract referred to in subsection (a) meets the requirements of this subsection unless such contract includes (in writing)—
 
 &emsp;(1) the terms and conditions of payment, including the total amount of all payments to be made by the consumer to the credit repair organization or to any other person;
 

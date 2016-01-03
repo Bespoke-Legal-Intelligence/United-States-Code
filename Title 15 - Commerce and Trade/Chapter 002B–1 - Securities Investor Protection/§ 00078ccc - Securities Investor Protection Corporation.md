@@ -14,7 +14,7 @@
 
 #### (A) Members of SIPC
 
-&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all personsregistered as brokers or dealers under section 78o(b) of this title, other than—
+&emsp;&emsp;SIPC shall be a membership corporation the members of which shall be all persons registered as brokers or dealers under section 78o(b) of this title, other than—
 
 &emsp;&emsp;&emsp;(i) persons whose principal business, in the determination of SIPC, taking into account business of affiliated entities, is conducted outside the United States and its territories and possessions;
 
@@ -60,7 +60,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;(6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
-&emsp;(7) subject to the provisions of subsection (c) of this section, to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
+&emsp;(7) subject to the provisions of subsection (c), to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
 
 &emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to SIPC by this chapter; and
 
@@ -128,7 +128,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (A) Filing of proposed rule changes
 
-&emsp;&emsp;The Board of Directors of SIPC shall file with the Commission, in accordance with such rules as the Commission may prescribe, a copy of any proposed rule or any proposed amendment to or repeal of any rule of SIPC (hereinafter in this subsection collectively referred to as a "proposed rule change"), accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, publish notice thereof, together with the terms of substance of such proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments with respect to such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted in accordance with the provisions of this paragraph.
+&emsp;&emsp;The Board of Directors of SIPC shall file with the Commission, in accordance with such rules as the Commission may prescribe, a copy of any proposed rule or any proposedamendment to or repeal of any rule of SIPC (hereinafter in this subsection collectively referred to as a "proposed rule change"), accompanied by a concise general statement of the basis and purpose of such proposed rule change. The Commission shall, upon the filing of any proposed rule change, publish notice thereof, together with the terms of substance of such proposed rule change or a description of the subjects and issues involved. The Commission shall give interested persons an opportunity to submit written data, views, and arguments with respect to such proposed rule change. No proposed rule change shall take effect unless approved by the Commission or otherwise permitted in accordance with the provisions of this paragraph.
 
 #### (B) Action by the Commission
 
@@ -140,7 +140,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (C) Proceedings
 
-&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty daysafter the date of publication of notice of the filing of such proposed rule change. At the conclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
+&emsp;&emsp;Proceedings instituted with respect to a proposed rule change pursuant to subparagraph (B)(ii) shall include notice of the grounds for disapproval under consideration and opportunity for hearing, and shall be concluded within one hundred eighty days after the date of publication of notice of the filing of such proposed rule change. At the conclusion of such proceedings, the Commission shall, by order, approve or disapprove such proposed rule change. The Commission may extend the time for conclusion of such proceedings for not more than sixty days if it finds good cause for such extension and publishes its reasons for so finding, or for such longer period as to which SIPC consents.
 
 #### (D) Grounds for approval or disapproval
 
@@ -174,7 +174,7 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–283, §2(a), substituted "Creation and membership" for "Creation" in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
-Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted "State, Federal, or other court" for "court, State, or Federal", in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (b). Pub. L. 95–283, §3, in par. (1) substituted "State, Federal, or other court" for "court, State, or Federal", in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws andrules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
 Subsec. (c)(2)(C)(ii). Pub. L. 95–283, §4(a), substituted "a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group," for "any broker or dealer, within the meaning of paragraph (18) of section 78c(a) of this title, or similarly associated with a national securities exchange or other securities industry group".
 

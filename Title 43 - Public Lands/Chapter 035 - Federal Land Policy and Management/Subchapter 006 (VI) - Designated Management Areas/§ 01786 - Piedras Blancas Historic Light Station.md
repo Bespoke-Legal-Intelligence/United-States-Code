@@ -28,7 +28,7 @@ Congress finds as follows:
 
 &emsp;(2) The coastline adjacent to the Light Station is internationally recognized as having significant wildlife and marine habitat that provides critical information to research institutions throughout the world.
 
-&emsp;(3) The Light Station tells an important story about California's coastal prehistory andhistory in the context of the surrounding region and communities.
+&emsp;(3) The Light Station tells an important story about California's coastal prehistory and history in the context of the surrounding region and communities.
 
 &emsp;(4) The coastal area surrounding the Light Station was traditionally used by Indian people, including the Chumash and Salinan Indian tribes.
 
@@ -48,7 +48,7 @@ Congress finds as follows:
 
 #### (2) Maps and legal descriptions
 
-&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled "Piedras Blancas Historic Light Station: Outstanding Natural Area", dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
+&emsp;The boundaries of the Outstanding Natural Area as those shown on the map entitled"Piedras Blancas Historic Light Station: Outstanding Natural Area", dated May 5, 2004, which shall be on file and available for public inspection in the Office of the Director, Bureau of Land Management, United States Department of the Interior, and the State office of the Bureau of Land Management in the State of California.
 
 #### (3) Basis of management
 
@@ -86,7 +86,7 @@ Congress finds as follows:
 
 &emsp;&emsp;(D) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resources objectives for the Outstanding Natural Area as described in paragraph (1) and with other proposed management activities to accommodate visitors and researchers to the Outstanding Natural Area; and
 
-&emsp;&emsp;(E) cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, withemphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and division A of subtitle III of title 54 within the Outstanding Natural Area.
+&emsp;&emsp;(E) cultural resources management strategies for the Outstanding Natural Area, prepared in consultation with appropriate departments of the State of California, with emphasis on the preservation of the resources of the Outstanding Natural Area and the interpretive, education, and long-term scientific uses of the resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and division A of subtitle III of title 54 within the Outstanding Natural Area.
 
 #### (4) Cooperative agreements
 
@@ -144,7 +144,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(3
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(E), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
-The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in subsec. (d)(10), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 #### Codification
 

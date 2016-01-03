@@ -38,7 +38,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. At more than 52 million strong, including 4 million in Puerto Rico, Hispanics constitute the country's largest and fastest growing minority group. They have had a profound and positive impact on our country through, among other things, their community's strong commitment to family, faith, hard work, and service. Many Hispanics contribute to this Nation bilingually in the English and Spanish languages—a true asset for our country in an increasingly global, interdependent world.
 
-Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challenges of crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
+Hispanic students are the largest minority group in our Nation's schools, numbering more than 11 million in our public elementary and secondary school system, and constituting more than 22 percent of all pre-K-12 students. Hispanic students face educational challengesof crisis proportions. Fewer than half of all Hispanic children participate in early childhood education programs, and far too few Hispanic students graduate from high school; of those who do complete high school, many are not adequately prepared for college. Only 12 percent of adult Hispanics have a bachelor's degree, and just 3 percent have completed graduate or professional degree programs. At the same time, large numbers of Hispanic adults lack the education or literacy skills they need to advance their careers; they also are less likely than members of other groups to have taken job- or career-related courses, with the exception of basic education classes, such as English as a second language.
 
 Our country was built on and continues to thrive on its diversity, and there is no doubt that the future of the United States is inextricably linked to the future of the Hispanic community. To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of opportunity for all, we must provide the opportunities that will enable Hispanic students to raise their educational attainment at every level of the American education system. America's future competitiveness in our global economy will be substantially enhanced by improving educational outcomes for Hispanics.
 
@@ -144,7 +144,9 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanics
 
-Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of President's Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 
@@ -156,7 +158,7 @@ Section 1. <i>Policy</i>. Over the course of America's history, African American
 
 However, substantial obstacles to equal educational opportunity still remain in America's educational system. African Americans lack equal access to highly effective teachers and principals, safe schools, and challenging college-preparatory classes, and they disproportionately experience school discipline and referrals to special education. African American student achievement not only lags behind that of their domestic peers by an average of two grade levels, but also behind students in almost every other developed nation. Over a third of African American students do not graduate from high school on time with a regular high school diploma, and only four percent of African American high school graduates interested in college are college-ready across a range of subjects. An even greater number of African American males do not graduate with a regular high school diploma, and African American males also experience disparate rates of incarceration.
 
-Significantly improving the educational outcomes of African Americans will provide substantial benefits for our country by, among other things, increasing college completion rates, productivity, employment rates, and the number of African American teachers. Enhanced educational outcomes lead to more productive careers, improved economic opportunity, and greater social well-being for all Americans. Complementing the role of Historically Black Colleges and Universities (HBCUs) in preparing generations of African American students for successful careers, and the work of my Administration's separate White House Initiative on Historically Black Colleges and Universities, this new Initiative's focus on improving all the sequential levels ofeducation will produce a more effective educational continuum for all African American students.
+Significantly improving the educational outcomes of African Americans will provide substantial benefits for our country by, among other things, increasing college completion rates, productivity, employment rates, and the number of African American teachers. Enhanced educational outcomes lead to more productive careers, improved economic opportunity, and greater social well-being for all Americans. Complementing the role of Historically Black Colleges and Universities (HBCUs) in preparing generations of African American students for successful careers, and the work of my Administration's separate White House Initiative on Historically Black Colleges and Universities, this new Initiative's focus on improving all the sequential levels of education will produce a more effective educational continuum for all African American students.
 
 To reach the ambitious education goals we have set for our Nation, as well as to ensure equality of access and opportunity for all, we must provide the support that will enable African American students to improve their level of educational achievement through rigorous and well-rounded academic and support services that will prepare them for college, a career, and a lifetime of learning.
 
@@ -208,7 +210,7 @@ Sec. 2. <i>White House Initiative on Educational Excellence for African American
 
 (c) <i>Interagency Working Group</i>.
 
-(1) There is established the Federal Interagency Working Group on Educational Excellence for AfricanAmericans (Working Group), which shall be convened and chaired by the Initiative's Executive Director and that shall support the efforts of the Initiative described in subsection (b) of this section.
+(1) There is established the Federal Interagency Working Group on Educational Excellence for African Americans (Working Group), which shall be convened and chaired by the Initiative's Executive Director and that shall support the efforts of the Initiative described in subsection (b) of this section.
 
 (2) The Working Group shall consist of senior officials from the Department, the White House Domestic Policy Council, the Department of Justice, the Department of Labor, the Department of Health and Human Services, the National Science Foundation, the Department of Defense, and such additional agencies and offices as the President may subsequently designate. Senior officials shall be designated by the heads of their respective agencies and offices.
 
@@ -246,7 +248,7 @@ The Commission shall meet periodically, but at least twice a year.
 
 (d) <i>Commission Administration</i>. The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the administration of the Commission, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with the guidelines issued by the Administrator of General Services.
 
-Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Initiative as may be necessary to carry out the functions of the Initiative, consistent with applicable law.
+Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Initiative asmay be necessary to carry out the functions of the Initiative, consistent with applicable law.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -262,7 +264,9 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Advisory Commission on Educational Excellence for African Americans
 
-Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of President's Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 

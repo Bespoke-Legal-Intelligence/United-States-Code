@@ -22,7 +22,7 @@ Indian country.—The term "Indian country" has the meaning stated in section 11
 
 Protection order.—The term "protection order" includes—
 
-&emsp;&emsp;(A) any injunction, restraining order, or any other order issued by a civil or criminalcourt for the purpose of preventing violent or threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+&emsp;&emsp;(A) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
 
 &emsp;&emsp;(B) any support, child custody or visitation provisions, orders, remedies or relief issued as part of a protection order, restraining order, or injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, sexual assault, dating violence, or stalking.
 
@@ -56,7 +56,7 @@ State.—The term "State" includes a State of the United States, the District of
 
 &emsp;(9)
 
-Travel in interstate or foreign commerce.—The term "travel in interstate or foreign commerce" does not include travel from 1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
+Travel in interstate or foreign commerce.—The term "travel in interstate or foreign commerce" does not include travel from1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
 
 &emsp;(10)
 

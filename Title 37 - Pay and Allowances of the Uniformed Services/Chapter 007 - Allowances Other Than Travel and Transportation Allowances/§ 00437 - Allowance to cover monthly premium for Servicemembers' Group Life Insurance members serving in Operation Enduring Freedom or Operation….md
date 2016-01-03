@@ -2,7 +2,7 @@
 
 (a)
 
-Required Reimbursement for Premium Deduction.—In the case of a member of the armed forces who has insurance coverage for the member under the Servicemembers' Group Life Insurance program under subchapter III of chapter 19 of title 38 and who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom at any time during a month, the Secretary concerned shall pay the member an allowance under this section for thatmonth in an amount equal to the amount of the deduction made under subsection (a)(1) of section 1969 of such title for the amount of Servicemembers' Group Life Insurance coverage held by the member under section 1967 of such title.
+Required Reimbursement for Premium Deduction.—In the case of a member of the armed forces who has insurance coverage for the member under the Servicemembers' Group Life Insurance program under subchapter III of chapter 19 of title 38 and who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom at any time during a month, the Secretary concerned shall pay the member an allowance under this section for that month in an amount equal to the amount of the deduction made under subsection (a)(1) of section 1969 of such title for the amount of Servicemembers' Group Life Insurance coverage held by the member under section 1967 of such title.
 
 (b)
 

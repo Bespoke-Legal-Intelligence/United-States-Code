@@ -54,7 +54,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 #### (B) Specified tax return preparer
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified tax return preparer" means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
+&emsp;&emsp;For purposes of this paragraph, the term "specified tax return preparer" means, withrespect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
 
 #### (C) Individual income tax return
 
@@ -232,7 +232,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory groupto include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
+Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry.
 
 "(d)
 

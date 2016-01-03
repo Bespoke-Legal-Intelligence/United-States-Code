@@ -25,4 +25,5 @@ Part A—Sex Offender Registration and Notification
 - [&sect; 16926 - Sex Offender Management Assistance (SOMA) program](%C2%A7%2016926%20-%20Sex%20Offender%20Management%20Assistance%20%28SOMA%29%20program.md)
 - [&sect; 16927 - Election by Indian tribes](%C2%A7%2016927%20-%20Election%20by%20Indian%20tribes.md)
 - [&sect; 16928 - Registration of sex offenders entering the United States](%C2%A7%2016928%20-%20Registration%20of%20sex%20offenders%20entering%20the%20United%20States.md)
+- [&sect; 16928a - Registration of sex offenders released from military corrections facilities or upon conviction](%C2%A7%2016928a%20-%20Registration%20of%20sex%20offenders%20released%20from%20military%20corrections%20facilities%20or%20upon%20conviction.md)
 - [&sect; 16929 - Immunity for good faith conduct](%C2%A7%2016929%20-%20Immunity%20for%20good%20faith%20conduct.md)

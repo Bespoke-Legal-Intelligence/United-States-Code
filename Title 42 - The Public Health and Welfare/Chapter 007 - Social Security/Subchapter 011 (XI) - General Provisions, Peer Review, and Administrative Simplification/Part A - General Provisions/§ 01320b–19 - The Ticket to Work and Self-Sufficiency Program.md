@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences theCommissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -72,7 +72,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Alternate participants
 
-&emsp;&emsp;In any State where the Program is being implemented, the Commissioner shall enterinto an agreement with any alternate participant that is operating under the authority of section 422(d)(2) of this title in the State as of December 17, 1999, and chooses to serve as an employment network under the Program.
+&emsp;&emsp;In any State where the Program is being implemented, the Commissioner shall enter into an agreement with any alternate participant that is operating under the authority of section 422(d)(2) of this title in the State as of December 17, 1999, and chooses to serve as an employment network under the Program.
 
 #### (5) Termination of agreements with employment networks
 
@@ -118,11 +118,11 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) One-stop delivery systems
 
-&emsp;&emsp;An employment network serving under the Program may consist of a one-stop deliverysystem established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.).
+&emsp;&emsp;An employment network serving under the Program may consist of a one-stop delivery system established under section 3151(e) of title 29.
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintainscompliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph\(2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -296,7 +296,7 @@ In this section:
 
 #### (3) Title II disability beneficiary
 
-&emsp;The term "title II disability beneficiary" means an individual entitled to disability insurance benefits under section 423 of this title or to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
+&emsp;The term "title II disability beneficiary" means an individual entitled to disability insurance benefits under section 423 of this titleor to monthly insurance benefits under section 402 of this title based on such individual's disability (as defined in section 423(d) of this title). An individual is a title II disability beneficiary for each month for which such individual is entitled to such benefits.
 
 #### (4) Title XVI disability beneficiary
 
@@ -312,15 +312,9 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 (Aug. 14, 1935, ch. 531, title XI, §1148, as added Pub. L. 106–170, title I, §101(a), Dec. 17, 1999, 113 Stat. 1863; amended Pub. L. 108–203, title IV, §405(a), Mar. 2, 2004, 118 Stat. 526; Pub. L. 113–128, title V, §512(dd)(2), July 22, 2014, 128 Stat. 1718.)
 
-#### Amendment of Subsection (f)(1)(B)
-
-<i>Pub. L. 113–128, title V, §§506, 512(dd)(2), July 22, 2014, 128 Stat. 1703, 1718, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (f)(1)(B) of this section is amended by striking "a one-stop delivery system established under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)" and inserting "a one-stop delivery system established under section 3151(e) of title 29". See 2014 Amendment note below.</i>
-
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
-
-The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -334,7 +328,7 @@ Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2004 Amendment
 
@@ -462,7 +456,7 @@ Pub. L. 106–170, title I, §101(d), Dec. 17, 1999, 113 Stat. 1874, provided th
 
 "(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set outas a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
 
 "(2)
 
@@ -538,7 +532,7 @@ In general.—In the case of any State in which the amendments made by subsectio
 
 &emsp;"(B)
 
-Existing agreements.—Nothing in subparagraph (A) or the amendments made by subsection (a) \[enacting this section\] shall be construed to limit, impede, or otherwise affect any agreement enteredinto pursuant to section 222(d)(2) of the Social Security Act (42 U.S.C. 422(d)(2)) before the date of the enactment of this Act \[Dec. 17, 1999\] with respect to services provided pursuant to such agreement to beneficiaries receiving services under such agreement as of such date, except with respect to services (if any) to be provided after 3 years after the effective date provided in subsection (c)."
+Existing agreements.—Nothing in subparagraph (A) or the amendments made by subsection (a) \[enacting this section\] shall be construed to limit, impede, or otherwise affect any agreement entered into pursuant to section 222(d)(2) of the Social Security Act (42 U.S.C. 422(d)(2)) before the date of the enactment of this Act \[Dec. 17, 1999\] with respect to services provided pursuant to such agreement to beneficiaries receiving services under such agreement as of such date, except with respect to services (if any) to be provided after 3 years after the effective date provided in subsection (c)."
 
 #### Ticket to Work and Work Incentives Advisory Panel
 
@@ -552,7 +546,7 @@ Establishment.—There is established within the Social Security Administration 
 
 Duties of panel.—It shall be the duty of the Panel to—
 
-&emsp;"(A) advise the President, the Congress, and the Commissioner of Social Security on issues related to work incentives programs, planning, and assistance for individuals with disabilities, including work incentive provisions under titles II, XI, XVI, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1301 et seq., 1381 et seq., 1395 et seq., 1396 et seq.); and
+&emsp;"(A) advise the President, the Congress, and the Commissioner of Social Security on issues related to work incentives programs, planning, and assistancefor individuals with disabilities, including work incentive provisions under titles II, XI, XVI, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1301 et seq., 1381 et seq., 1395 et seq., 1396 et seq.); and
 
 &emsp;"(B) with respect to the Ticket to Work and Self-Sufficiency Program established under section 1148 of such Act \[42 U.S.C. 1320b–19\]—
 
@@ -664,7 +658,7 @@ Hearings and sessions.—The Panel may, for the purpose of carrying out its duti
 
 &emsp;"(B)
 
-Powers of members and agents.—Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorizedto take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
+Powers of members and agents.—Any member or agent of the Panel may, if authorized by the Panel, take any action which the Panel is authorized to take by this section \[enacting this section, amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title, and enacting provisions set out as notes above\].
 
 &emsp;"(C)
 
@@ -688,5 +682,5 @@ Termination.—The Panel shall terminate 30 days after the date of the submissio
 
 "(8)
 
-Authorization of appropriations.—There are authorized to be appropriated from the Federal Old-Age and Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the general fund of the Treasury, as appropriate, such sums as are necessary to carry out this subsection."
+Authorization of appropriations.—There are authorized to be appropriated from the Federal Old-Ageand Survivors Insurance Trust Fund, the Federal Disability Insurance Trust Fund, and the general fund of the Treasury, as appropriate, such sums as are necessary to carry out this subsection."
 

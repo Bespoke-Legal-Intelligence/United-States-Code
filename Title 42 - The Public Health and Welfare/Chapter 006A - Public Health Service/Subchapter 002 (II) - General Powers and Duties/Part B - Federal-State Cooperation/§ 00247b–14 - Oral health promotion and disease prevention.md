@@ -38,7 +38,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary shall provide for the establishmentof fluoridation specialist engineering positions in each of the Dental Clinical and Preventive Support Centers through which technical assistance and training will be provided to tribal water operators, tribal utility operators and other Indian Health Service personnel working directly with fluoridation projects.
+&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary shall provide for the establishment of fluoridation specialist engineering positions in each of the Dental Clinical and Preventive Support Centers through which technical assistance and training will be provided to tribal water operators, tribal utility operators and other Indian Health Service personnel working directly with fluoridation projects.
 
 #### (ii) Liaison
 
@@ -108,7 +108,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450bno longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 450b of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

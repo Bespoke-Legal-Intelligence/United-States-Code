@@ -1,6 +1,6 @@
 # Printed pages - Title 48 - Territories and Insular Possessions
 
-GPO's 2014 edition (laws in effect as of 2015-01-05), from its printed page marks. The exact position of
+GPO's 2015 edition (laws in effect as of 2016-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title48.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -627,11 +627,11 @@ from edition to edition; the section files hold the text only.
 | [Part A - Approval of Compact and Supplemental Provisions](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/README.md) | 290 |
 | [&sect; 01931 - Approval of Compact of Free Association](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001931%20-%20Approval%20of%20Compact%20of%20Free%20Association.md) | 290–303 |
 | [&sect; 01932 - Extension of Compact of Free Association to Palau](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001932%20-%20Extension%20of%20Compact%20of%20Free%20Association%20to%20Palau.md) | 303 |
-| [&sect; 01933 - Supplemental provisions](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001933%20-%20Supplemental%20provisions.md) | 303–306 |
-| [&sect; 01934 - Jurisdiction](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001934%20-%20Jurisdiction.md) | 306 |
+| [&sect; 01933 - Supplemental provisions](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001933%20-%20Supplemental%20provisions.md) | 303–305 |
+| [&sect; 01934 - Jurisdiction](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20A%20-%20Approval%20of%20Compact%20and%20Supplemental%20Provisions/%C2%A7%2001934%20-%20Jurisdiction.md) | 305–306 |
 | [Part B - Implementation of Compact](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/README.md) | 306 |
-| [&sect; 01951 - Entry into force of Compact](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001951%20-%20Entry%20into%20force%20of%20Compact.md) | 306–307 |
-| [&sect; 01952 - Fiscal procedures assistance](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001952%20-%20Fiscal%20procedures%20assistance.md) | 307 |
+| [&sect; 01951 - Entry into force of Compact](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001951%20-%20Entry%20into%20force%20of%20Compact.md) | 306 |
+| [&sect; 01952 - Fiscal procedures assistance](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001952%20-%20Fiscal%20procedures%20assistance.md) | 306–307 |
 | [&sect; 01953 - Antidrug program](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001953%20-%20Antidrug%20program.md) | 307 |
 | [&sect; 01954 - Public auditor and special prosecutor](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001954%20-%20Public%20auditor%20and%20special%20prosecutor.md) | 307 |
 | [&sect; 01955 - Audit certification](Chapter%20018%20-%20Micronesia%2C%20Marshall%20Islands%2C%20and%20Palau/Subchapter%20002%20%28II%29%20-%20Palau/Part%20B%20-%20Implementation%20of%20Compact/%C2%A7%2001955%20-%20Audit%20certification.md) | 307 |

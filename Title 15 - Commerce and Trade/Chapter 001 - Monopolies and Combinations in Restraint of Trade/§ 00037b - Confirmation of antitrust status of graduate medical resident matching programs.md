@@ -66,7 +66,7 @@
 
 #### (c) Effective date
 
-This section shall take effect on April 10, 2004, shall apply to conduct whether it occurs prior to, on, or after April 10, 2004, and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004.
+This section shall take effect on April 10, 2004, shall apply to conduct whether it occurs priorto, on, or after April 10, 2004, and shall apply to all judicial and administrative actions or other proceedings pending on April 10, 2004.
 
 (Pub. L. 108–218, title II, §207, Apr. 10, 2004, 118 Stat. 611.)
 

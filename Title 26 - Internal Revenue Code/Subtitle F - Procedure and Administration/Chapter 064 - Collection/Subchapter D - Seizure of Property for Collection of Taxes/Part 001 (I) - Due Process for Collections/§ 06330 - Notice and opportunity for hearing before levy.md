@@ -100,13 +100,17 @@ In the case of any hearing conducted under this section—
 
 #### (d) Proceeding after hearing
 
-#### (1) Judicial review of determination
+#### (1) Petition for review by Tax Court
 
-&emsp;The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+&emsp;The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
 
-#### (2) Jurisdiction retained at IRS Office of Appeals
+#### (2) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and <sup>1</sup>
+
+#### (3) Jurisdiction retained at IRS Office of Appeals
+
+&emsp;The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect toany determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
 
 &emsp;&emsp;(A) collection actions taken or proposed with respect to such determination; and
 
@@ -152,9 +156,23 @@ For purposes of subsection (f)—
 
 &emsp;A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565.)
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-642, 2763A-643; Pub. L. 109–280, title VIII, §855(a), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 109–432, div. A, title IV, §407(b), Dec. 20, 2006, 120 Stat. 2961; Pub. L. 110–28, title VIII, §8243(a), (b), May 25, 2007, 121 Stat. 200; Pub. L. 111–240, title II, §2104(a)–(c), Sept. 27, 2010, 124 Stat. 2565; Pub. L. 114–74, title XI, §1101(d), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §424(b)(1), Dec. 18, 2015, 129 Stat. 3124.)
+
+#### Amendment of Subsection (c)(4)
+
+<i>Pub. L. 114–74, title XI, §1101(d), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking "or" at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting "; or", and by inserting after subparagraph (B) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>"(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63."</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(4)(C). Pub. L. 114–74 added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 114–113, §424(b)(1)(A), (B), substituted "Petition for review by Tax Court" for "Judicial review of determination" in heading and "petition the Tax Court for review of such determination" for "appeal such determination to the Tax Court" in text.
+
+Subsec. (d)(2), (3). Pub. L. 114–113, §424(b)(1)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–240, §2104(c), substituted "Exceptions" for "Jeopardy and State refund collection" in heading.
 
@@ -176,13 +194,19 @@ Subsec. (d)(1). Pub. L. 109–280, §855(a), reenacted heading without change an
 
 &emsp;"(B) if the Tax Court does not have jurisdiction of the underlying tax liability, to a district court of the United States.
 
-> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the courtdetermination to file such appeal with the correct court."
+> If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court."
 
 Subsec. (g). Pub. L. 109–432, §407(b)(1), added subsec. (g).
 
 <b>2000</b>—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(d)\], substituted "with respect to" for "to hear".
 
 Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A)\], inserted at end "Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates."
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title IV, §424(b)(2), Dec. 18, 2015, 129 Stat. 3124, provided that: "The amendments made by this subsection \[amending this section\] shall apply to petitions filed under section 6330 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Dec. 18, 2015\]."
+
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -205,4 +229,6 @@ Amendment by section 1(a)(7) \[title III, §313(b)(2)(A)\] of Pub. L. 106–554 
 #### Effective Date
 
 Section applicable to collection actions initiated after the date which is 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as a note under section 6320 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

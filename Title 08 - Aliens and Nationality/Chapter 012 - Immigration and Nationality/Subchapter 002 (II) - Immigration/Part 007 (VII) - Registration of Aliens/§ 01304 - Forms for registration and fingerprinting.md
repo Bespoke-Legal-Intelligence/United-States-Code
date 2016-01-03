@@ -2,7 +2,7 @@
 
 #### (a) Preparation; contents
 
-The Attorney General and the Secretary of State jointly are authorized and directed to prepare forms for the registration of aliens under section 1301 of this title, and the Attorney General is authorized and directed to prepare forms for the registration and fingerprinting of aliens under section 1302 of this title. Such forms shall contain inquiries with respect to (1) the date and place of entry of the alien into the United States; (2) activities in which he has been and intends to be engaged; (3) the length of time he expects to remain in the United States; (4) the police and criminal record, if any, of such alien; and (5) such additional matters as may be prescribed.
+The Attorney General and the Secretary of State jointly are authorized and directed to prepare forms for the registration of aliens under section 1301 of this title, and the Attorney General is authorized and directed to prepare forms for the registration and fingerprinting of aliens under section 1302 of this title. Such forms shall contain inquiries with respect to (1) the date and place of entry of the alien into the United States; (2) activities in which he has been and intends to be engaged; (3) the length of time heexpects to remain in the United States; (4) the police and criminal record, if any, of such alien; and (5) such additional matters as may be prescribed.
 
 #### (b) Confidential nature
 
@@ -18,7 +18,7 @@ Every alien in the United States who has been registered and fingerprinted under
 
 #### (e) Personal possession of registration or receipt card; penalties
 
-Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d) of this section. Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
+Every alien, eighteen years of age and over, shall at all times carry with him and have in his personal possession any certificate of alien registration or alien registration receipt card issued to him pursuant to subsection (d). Any alien who fails to comply with the provisions of this subsection shall be guilty of a misdemeanor and shall upon conviction for each offense be fined not to exceed $100 or be imprisoned not more than thirty days, or both.
 
 #### (f) Alien's social security account number
 

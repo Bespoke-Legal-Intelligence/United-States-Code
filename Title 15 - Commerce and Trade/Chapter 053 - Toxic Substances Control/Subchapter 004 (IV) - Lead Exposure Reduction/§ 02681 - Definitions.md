@@ -44,7 +44,7 @@ For the purposes of this subchapter:
 
 #### (10) Lead-based paint hazard
 
-&emsp;The term "lead-based paint hazard" means any condition that causes exposure to lead from lead-contaminated dust, lead-contaminated soil, lead-contaminated paint that is deteriorated or present in accessible surfaces, friction surfaces, or impact surfaces that would result in adverse human health effects as established by the Administrator under this subchapter.
+&emsp;The term "lead-based paint hazard" means any condition that causes exposure to lead from lead-contaminated dust, lead-contaminated soil, lead-contaminated paint that is deteriorated or present in accessible surfaces,friction surfaces, or impact surfaces that would result in adverse human health effects as established by the Administrator under this subchapter.
 
 #### (11) Lead-contaminated dust
 
@@ -56,7 +56,7 @@ For the purposes of this subchapter:
 
 #### (13) Reduction
 
-&emsp;The term "reduction" means measures designed to reduce or eliminate human exposureto lead-based paint hazards through methods including interim controls and abatement.
+&emsp;The term "reduction" means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods including interim controls and abatement.
 
 #### (14) Residential dwelling
 

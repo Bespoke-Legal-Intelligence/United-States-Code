@@ -42,7 +42,7 @@ The last sentence is added because in various areas the authority to investigate
 
 #### FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad
 
-Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: "Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed asestablishing a defense to any criminal, civil, or administrative action."
+Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: "Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action."
 
 #### Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit
 
@@ -86,7 +86,7 @@ Pub. L. 102–395, title I, §102(b), Oct. 6, 1992, 106 Stat. 1838, as amended b
 
 &emsp;"(B) provided to an agent by an individual cooperating with the Government in an investigation, who received the proceeds or money from or at the direction of a subject of the investigation,
 
-> may be used as a subject of the investigation directs without regard to section 3302 of title 31 of the United States Code: <i>Provided</i>, That the Director of the Federal Bureau of Investigation or the Administrator of the Drug Enforcement Administration, or their designees, in advance or as soon as practicable thereafter, make a written determination that such a use would further the investigation: <i>And provided further</i>, That the financial audit requirements of paragraphs (5) and (6) shall apply in each investigation where such a determination has been made.
+> may be used as a subject of the investigation directs without regard to section 3302 of title 31 of the UnitedStates Code: <i>Provided</i>, That the Director of the Federal Bureau of Investigation or the Administrator of the Drug Enforcement Administration, or their designees, in advance or as soon as practicable thereafter, make a written determination that such a use would further the investigation: <i>And provided further</i>, That the financial audit requirements of paragraphs (5) and (6) shall apply in each investigation where such a determination has been made.
 
 &emsp;"(3) As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under subparagraphs (C) and (D) of paragraph (1), or under paragraph (2) are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
@@ -144,9 +144,9 @@ Pub. L. 101–162, title II, §204(b)(4), (5), Nov. 21, 1989, 103 Stat. 1004.
 
 Pub. L. 100–459, title II, §204(b)(4), (5), Oct. 1, 1988, 102 Stat. 2200, 2201, as amended by Pub. L. 101–650, title III, §325(c)(2), Dec. 1, 1990, 104 Stat. 5121.
 
-Pub. L. 100–202, §101(a) \[title II, §204(b)(4), (5)\], Dec. 22, 1987, 101 Stat. 1329, 1329–16.
+Pub. L. 100–202, §101(a) \[title II, §204(b)(4), (5)\], Dec. 22, 1987, 101 Stat. 1329, 1329-16.
 
-Pub. L. 99–500, §101(b) \[title II, §204(b)(4), (5)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–52, 1783–53, and Pub. L. 99–591, §101(b) \[title II, §204(b)(4), (5)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–52, 3341–53.
+Pub. L. 99–500, §101(b) \[title II, §204(b)(4), (5)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783-52, 1783-53, and Pub. L. 99–591, §101(b) \[title II, §204(b)(4), (5)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341-52, 3341-53.
 
 Pub. L. 99–180, title II, §204(b)(4), (5), Dec. 13, 1985, 99 Stat. 1148.
 

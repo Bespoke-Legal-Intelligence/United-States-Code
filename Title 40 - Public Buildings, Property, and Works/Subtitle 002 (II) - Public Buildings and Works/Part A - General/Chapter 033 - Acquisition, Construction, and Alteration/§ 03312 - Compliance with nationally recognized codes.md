@@ -48,7 +48,7 @@ Limitation on responsibilities.—This section does not impose an obligation on 
 
 (e)
 
-State and Local Government Recommendations.—Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and (c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
+State and Local Government Recommendations.—Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and\(c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
 
 (f)
 

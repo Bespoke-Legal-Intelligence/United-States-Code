@@ -40,7 +40,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 &emsp;(7) regardless of where a check is cleared initially, all returned checks be eligible to be returned through the Federal Reserve System;
 
-&emsp;(8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f) of this section, that such a process is feasible; and
+&emsp;(8) Federal Reserve banks and depository institutions participate in the development and implementation of an electronic clearinghouse process to the extent the Board determines, pursuant to the study under subsection (f), that such a process is feasible; and
 
 &emsp;(9) originating depository institutions be permitted to return unpaid checks directly to, and obtain reimbursement for such checks directly from, the receiving depository institution.
 
@@ -82,7 +82,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 #### (B) Contents of report
 
-&emsp;&emsp;Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks to and losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
+&emsp;&emsp;Such report shall also assess the potential impact the implementation of the schedule established in section 4002(b) of this title will have on depository institutions and the public, including an estimate of the risks toand losses of depository institutions and the benefits to consumers. Such report shall also contain such recommendations for legislative or administrative action as the Board may determine to be necessary.
 
 #### (3) Comptroller General evaluation report
 

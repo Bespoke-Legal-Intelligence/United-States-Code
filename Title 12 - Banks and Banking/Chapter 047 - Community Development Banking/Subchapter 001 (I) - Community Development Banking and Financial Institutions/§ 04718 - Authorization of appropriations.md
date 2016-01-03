@@ -28,7 +28,7 @@
 
 #### (3) Capitalization assistance
 
-&emsp;Not more than 5 percent of the amounts authorized to be appropriated under paragraph (1) may be used as provided in section 4712 of this title.
+&emsp;Not more than 5 percent of the amounts authorized to be appropriated under paragraph\(1) may be used as provided in section 4712 of this title.
 
 #### (4) Availability for funding section 4713 of this title
 
@@ -52,7 +52,7 @@ There are authorized to be appropriated for the purposes of the Community Develo
 
 #### (c) Budgetary treatment
 
-Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665 <sup>1</sup> of title2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
+Amounts authorized to be appropriated under this section shall be subject to discretionary spending caps, as provided in section 665 <sup>1</sup> of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
 (Pub. L. 103–325, title I, §121, Sept. 23, 1994, 108 Stat. 2189.)
 

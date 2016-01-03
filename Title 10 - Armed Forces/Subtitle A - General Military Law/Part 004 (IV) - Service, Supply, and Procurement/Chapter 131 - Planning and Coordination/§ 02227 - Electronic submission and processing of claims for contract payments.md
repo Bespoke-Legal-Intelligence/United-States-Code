@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Claims.—The Secretary of Defense shall require that any claim for payment under a Department of Defense contractshall be submitted to the Department of Defense in electronic form.
+Submission of Claims.—The Secretary of Defense shall require that any claim for payment under a Department of Defense contract shall be submitted to the Department of Defense in electronic form.
 
 (b)
 
@@ -38,7 +38,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1008(c)\], Oct. 30, 2000, 114 St
 
 "(B) Upon determining to delay the implementation of such section 2227 to a later date under subparagraph (A), the Secretary shall promptly publish a notice of the delay in the Federal Register. The notice shall include a specification of the later date on which the implementation of that section is to begin. Not later than 30 days before the later implementation date, the Secretary shall publish in the Federal Register another notice that such section is being implemented beginning on that date."
 
-\[Notice by Department of Defense of delay in the implementation of this section from June 30, 2001, until Oct. 1, 2002, was published on Aug. 21, 2001, at 66 F.R. 43841.\]
+\[Notice by Department of Defense of delay in the implementation of this section from June 30, 2001, untilOct. 1, 2002, was published on Aug. 21, 2001, at 66 F.R. 43841.\]
 
 #### Implementation Plan
 

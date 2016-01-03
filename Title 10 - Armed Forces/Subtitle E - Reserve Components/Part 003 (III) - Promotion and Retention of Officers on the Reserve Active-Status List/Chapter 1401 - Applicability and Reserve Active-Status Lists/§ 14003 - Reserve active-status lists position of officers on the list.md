@@ -8,7 +8,7 @@ Position on List.—Officers shall be carried on the reserve active-status list 
 
 Effect on Position Held by Reason of Temporary Appointment or Assignment.—An officer whose position on the reserve active-status list results from service under a temporary appointment or in a grade held by reason of assignment to a position has, when that appointment or assignment ends, the grade and position on that list that the officer would have held if the officer had not received that appointment or assignment.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2923; amended Pub. L. 104–106, div. A, title XV, §1501(b)(22), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2923; amended Pub. L.104–106, div. A, title XV, §1501(b)(22), Feb. 10, 1996, 110 Stat. 497.)
 
 #### Amendments
 

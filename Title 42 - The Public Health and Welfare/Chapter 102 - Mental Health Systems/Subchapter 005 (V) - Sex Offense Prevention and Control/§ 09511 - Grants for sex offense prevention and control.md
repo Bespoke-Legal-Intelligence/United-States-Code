@@ -38,7 +38,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;(4) The compilation and publication of training materials for personnel who are engaged or intend to engage in programs designed to prevent and control sex offense.
 
-&emsp;(5) Assistance to qualified public and nonprofit private entities in conducting research and demonstration projects concerning the prevention and control of sex offense, including projects (A) for the planning, development, implementation, and evaluation of alternative methods used in the prevention and control of sex offense, the treatment and counseling of the victims of sex offense and their families, and the rehabilitation of offenders; (B) for the application of such alternative methods; and (C) for the promotion of community awareness of the specific locations in which, and the specific social and other conditions under which sexual attacks are most likely to occur.
+&emsp;(5) Assistance to qualified public and nonprofit private entities in conducting research and demonstration projects concerning the prevention and control of sex offense, including projects (A) for the planning, development,implementation, and evaluation of alternative methods used in the prevention and control of sex offense, the treatment and counseling of the victims of sex offense and their families, and the rehabilitation of offenders; (B) for the application of such alternative methods; and (C) for the promotion of community awareness of the specific locations in which, and the specific social and other conditions under which sexual attacks are most likely to occur.
 
 #### (b) Advisory committee; functions, membership, etc.
 

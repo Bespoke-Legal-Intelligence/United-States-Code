@@ -58,11 +58,11 @@ The terms "put", "call", "straddle", "option", or "privilege" as used in this se
 
 #### (f) Persons liable; suits at law or in equity
 
-Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
+Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In anysuch suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
 
 #### (g) Subsection (a) not applicable to exempted securities
 
-The provisions of subsection (a) of this section shall not apply to an exempted security.
+The provisions of subsection (a) shall not apply to an exempted security.
 
 #### (h) Foreign currencies and security futures products
 
@@ -148,7 +148,7 @@ Subsec. (i). Pub. L. 106–554, §1(a)(5) \[title III, §303(c)\], added subsec.
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
-<b>1982</b>—Subsec. (f). Pub. L. 97–303, §3(1), substituted "The provisions of subsection (a) of this section shall not apply" for "The provisions of this section shall not apply".
+<b>1982</b>—Subsec. (f). Pub. L. 97–303, §3(1), substituted "The provisions of subsection (a) shall not apply" for "The provisions of this section shall not apply".
 
 Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 

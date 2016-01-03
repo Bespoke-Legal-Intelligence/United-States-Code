@@ -10,7 +10,7 @@ Except as provided in section 2297h–10a of this title, for purposes of this su
 
 &emsp;(4) The term "highly enriched uranium" means uranium enriched to 20 percent or more of the uranium-235 isotope.
 
-&emsp;(5) The term "low-enriched uranium" means uranium enriched to less than 20 percent ofthe uranium-235 isotope, including that which is derived from highly enriched uranium.
+&emsp;(5) The term "low-enriched uranium" means uranium enriched to less than 20 percent of the uranium-235 isotope, including that which is derived from highly enriched uranium.
 
 &emsp;(6) The term "low-level radioactive waste" has the meaning given such term in section 2021b(9) of this title.
 
@@ -60,7 +60,7 @@ Sec. 2. <i>Objectives</i>. The EOC shall monitor and coordinate United States Go
 
 (c) The development and implementation of United States Government policy regarding uranium enrichment and related technologies, processes, and data; and
 
-(d) The collection and dissemination of information relevant to any of the foregoing on an ongoing basis, including from the Central Intelligence Agency and the Federal Bureau of Investigation.
+(d) The collection and dissemination of information relevant to any of the foregoing on an ongoing basis,including from the Central Intelligence Agency and the Federal Bureau of Investigation.
 
 Sec. 3. <i>Organization</i>. (a) The EOC shall be Chaired by a senior official from the National Security Council (NSC). The Chair shall coordinate the carrying out of the purposes and policy objectives of this order. The EOC shall meet as often as appropriate, but at least quarterly, and shall submit reports to the Assistant to the President for National Security Affairs semiannually, or more frequently as appropriate. The EOC shall prepare annually the report for the President's transmittal to the Congress pursuant to section 3112 of the USEC Privatization Act, Public Law 104–134, title III, 3112(b)(10), 110 Stat. 1321–344, 1321–346 (1996) \[42 U.S.C. 2297h–10(b)(10)\].
 

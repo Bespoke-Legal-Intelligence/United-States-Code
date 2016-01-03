@@ -28,7 +28,7 @@ Technical assistance and financial assistance may be provided by the Secretary u
 
 #### (2) Term
 
-&emsp;A loan for a project made under this subchapter shall have a term of not more than 30years after the date of completion of the project.
+&emsp;A loan for a project made under this subchapter shall have a term of not more than 30 years after the date of completion of the project.
 
 #### (3) Interest rate
 

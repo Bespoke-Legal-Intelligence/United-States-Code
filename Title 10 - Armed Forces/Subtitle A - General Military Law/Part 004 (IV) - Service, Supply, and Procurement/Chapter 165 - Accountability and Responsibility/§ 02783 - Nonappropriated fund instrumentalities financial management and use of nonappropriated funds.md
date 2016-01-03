@@ -56,5 +56,5 @@ Time and Manner.—The standardization of programs and activities required by su
 
 "(c)
 
-Report.—Not later than March 31, 1993, the Secretary of Defense shall submit to the Congress a report on other programs and activities of the military exchanges, if any, that the Secretary determines can beeconomically and efficiently managed through standardization or consolidation under a single nonappropriated fund instrumentality."
+Report.—Not later than March 31, 1993, the Secretary of Defense shall submit to the Congress a report on other programs and activities of the military exchanges, if any, that the Secretary determines can be economically and efficiently managed through standardization or consolidation under a single nonappropriated fund instrumentality."
 

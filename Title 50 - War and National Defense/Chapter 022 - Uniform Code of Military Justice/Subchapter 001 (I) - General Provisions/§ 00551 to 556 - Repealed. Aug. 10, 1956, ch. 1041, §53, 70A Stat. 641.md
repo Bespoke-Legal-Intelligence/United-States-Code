@@ -2,7 +2,7 @@
 
 Section 551, act May 5, 1950, ch. 169, §1, 64 Stat. 108, defined terms used in this chapter. See sections 101 and 801 of Title 10, Armed Forces.
 
-Section 552, acts May 5, 1950, ch. 169, §1, 64 Stat. 109; Aug. 1, 1956, ch. 852, §23, 70 Stat. 911, related to persons subject to Articles of War. See section 802 of Title 10. Act Aug. 1, 1956, ch. 852, §23, 70 Stat. 911 was repealed by Pub. L. 87–651, title III, §307A, Sept. 7, 1962, 76 Stat. 526.
+Section 552, acts May 5, 1950, ch. 169, §1, 64 Stat. 109; Aug. 1, 1956, ch. 852, §23, 70 Stat. 911, related to personssubject to Articles of War. See section 802 of Title 10. Act Aug. 1, 1956, ch. 852, §23, 70 Stat. 911 was repealed by Pub. L. 87–651, title III, §307A, Sept. 7, 1962, 76 Stat. 526.
 
 Section 553, act May 5, 1950, ch. 169, §1, 64 Stat. 109, related to jurisdiction to try certain personnel. See section 803 of Title 10.
 

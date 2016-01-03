@@ -150,7 +150,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 "(e)
 
-Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and PublicLand Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
+Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
 
 "(f)
 
@@ -184,7 +184,7 @@ DOE Organization Act.—As of the later of the two dates determined in paragraph
 
 "(i)
 
-Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the 'Surplus Property Act of 1944' (50 U.S.C. App. 1622).
+Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the 'Surplus Property Act of 1944' (50 U.S.C. App. 1622) \[now 40 U.S.C. 545 note\].
 
 #### "SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 

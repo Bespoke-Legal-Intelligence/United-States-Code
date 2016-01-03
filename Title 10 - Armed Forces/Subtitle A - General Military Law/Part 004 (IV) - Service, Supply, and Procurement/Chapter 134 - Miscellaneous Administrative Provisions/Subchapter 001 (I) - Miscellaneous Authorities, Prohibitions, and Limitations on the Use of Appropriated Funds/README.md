@@ -4,8 +4,9 @@
 | :--- | ---: |
 | [2241\.](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md) | Availability of appropriations for certain purposes. |
 | [2241a.](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md) | Prohibition on use of funds for publicity or propaganda purposes within the United States. |
+| [2241b.](%C2%A7%2002241b%20-%20Prohibition%20on%20contracts%20providing%20payments%20for%20activities%20at%20sporting%20events%20to%20honor%20members%20of%20the%20armed%20forces.md) | Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces. |
 | [2242\.](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md) | Authority to use appropriated funds for certain investigations and security services. |
-| [2243\.](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%27%20schools.md) | Authority to use appropriated funds to support student meal programs in overseas dependents' schools. |
+| [2243\.](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20defense%20dependents%27%20schools.md) | Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools. |
 | [2244\.](%C2%A7%2002244%20-%20Security%20investigations.md) | Security investigations. |
 | [2244a.](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md) | Equipment scheduled for retirement or disposal: limitation on expenditures for modifications. |
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
@@ -21,6 +22,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title III, §341(b), title V, §573(b)(2), Nov. 25, 2015, 129 Stat. 793, 831, added item 2241b and substituted "Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in item 2243.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title XII, §1204(a)(2), Dec. 19, 2014, 128 Stat. 3533, added item 2249e.
 
@@ -65,8 +68,9 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 
 - [&sect; 02241 - Availability of appropriations for certain purposes](%C2%A7%2002241%20-%20Availability%20of%20appropriations%20for%20certain%20purposes.md)
 - [&sect; 02241a - Prohibition on use of funds for publicity or propaganda purposes within the United States](%C2%A7%2002241a%20-%20Prohibition%20on%20use%20of%20funds%20for%20publicity%20or%20propaganda%20purposes%20within%20the%20United%20States.md)
+- [&sect; 02241b - Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces](%C2%A7%2002241b%20-%20Prohibition%20on%20contracts%20providing%20payments%20for%20activities%20at%20sporting%20events%20to%20honor%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02242 - Authority to use appropriated funds for certain investigations and security services](%C2%A7%2002242%20-%20Authority%20to%20use%20appropriated%20funds%20for%20certain%20investigations%20and%20security%20services.md)
-- [&sect; 02243 - Authority to use appropriated funds to support student meal programs in overseas dependents' schools](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20dependents%27%20schools.md)
+- [&sect; 02243 - Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools](%C2%A7%2002243%20-%20Authority%20to%20use%20appropriated%20funds%20to%20support%20student%20meal%20programs%20in%20overseas%20defense%20dependents%27%20schools.md)
 - [&sect; 02244 - Security investigations](%C2%A7%2002244%20-%20Security%20investigations.md)
 - [&sect; 02244a - Equipment scheduled for retirement or disposal limitation on expenditures for modifications](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md)
 - [&sect; 02245 - Use of aircraft for proficiency flying limitation](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md)

@@ -1,0 +1,110 @@
+### §1524. Assessment; reports
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Agency information
+
+&emsp;The term "agency information" has the meaning given the term in section 230 of the Homeland Security Act of 2002 \[6 U.S.C. 151\], as added by section 223(a)(6) of this division.
+
+#### (2) Cyber threat indicator; defensive measure
+
+&emsp;The terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 1501 of this title.
+
+#### (3) Intrusion assessments
+
+&emsp;The term "intrusion assessments" means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
+
+#### (4) Intrusion assessment plan
+
+&emsp;The term "intrusion assessment plan" means the plan required under section 228(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 149(b)(1)\], as added by section 223(a)(4) of this division.
+
+#### (5) Intrusion detection and prevention capabilities
+
+&emsp;The term "intrusion detection and prevention capabilities" means the capabilities required under section 230(b) of the Homeland Security Act of 2002 \[6 U.S.C. 151(b)\], as added by section 223(a)(6) of this division.
+
+#### (b) Third-party assessment
+
+Not later than 3 years after December 18, 2015, the Comptroller General of the United States shall conduct a study and publish a report on the effectiveness of the approach and strategy of the Federal Government to securing agency information systems, including the intrusion detection and prevention capabilities and the intrusion assessment plan.
+
+#### (c) Reports to Congress
+
+#### (1) Intrusion detection and prevention capabilities
+
+#### (A) Secretary of Homeland Security report
+
+&emsp;&emsp;Not later than 6 months after December 18, 2015, and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on the status of implementation of the intrusion detection and prevention capabilities, including—
+
+&emsp;&emsp;&emsp;(i) a description of privacy controls;
+
+&emsp;&emsp;&emsp;(ii) a description of the technologies and capabilities utilized to detect cybersecurity risks in network traffic, including the extent to which those technologies and capabilities include existing commercial and noncommercial technologies;
+
+&emsp;&emsp;&emsp;(iii) a description of the technologies and capabilities utilized to prevent network traffic associated with cybersecurity risksfrom transiting or traveling to or from agency information systems, including the extent to which those technologies and capabilities include existing commercial and noncommercial technologies;
+
+&emsp;&emsp;&emsp;(iv) a list of the types of indicators or other identifiers or techniques used to detect cybersecurity risks in network traffic transiting or traveling to or from agency information systems on each iteration of the intrusion detection and prevention capabilities and the number of each such type of indicator, identifier, and technique;
+
+&emsp;&emsp;&emsp;(v) the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from agency information systems and the number of times the intrusion detection and prevention capabilities blocked network traffic associated with cybersecurity risk; and
+
+&emsp;&emsp;&emsp;(vi) a description of the pilot established under section 230(c)(5) of the Homeland Security Act of 2002 \[6 U.S.C. 151(c)(5)\], as added by section 223(a)(6) of this division, including the number of new technologies tested and the number of participating agencies.
+
+#### (B) OMB report
+
+&emsp;&emsp;Not later than 18 months after December 18, 2015, and annually thereafter, the Director shall submit to Congress, as part of the report required under section 3553(c) of title 44, an analysis of agency application of the intrusion detection and prevention capabilities, including—
+
+&emsp;&emsp;&emsp;(i) a list of each agency and the degree to which each agency has applied the intrusion detection and prevention capabilities to an agency information system; and
+
+&emsp;&emsp;&emsp;(ii) a list by agency of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of instances in which the intrusion detection and prevention capabilities detected a cybersecurity risk in network traffic transiting or traveling to or from an agency information system and the types of indicators, identifiers, and techniques used to detect such cybersecurity risks; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of instances in which the intrusion detection and prevention capabilities prevented network traffic associated with a cybersecurity risk from transiting or traveling to or from an agency information system and the types of indicators, identifiers, and techniques used to detect such agency information systems.
+
+#### (C) Chief information officer
+
+&emsp;&emsp;Not earlier than 18 months after December 18, 2015, and not later than 2 years after December 18, 2015, the Federal Chief Information Officer shall review and submit to the appropriate congressional committees a report assessing the intrusion detection and intrusion prevention capabilities, including—
+
+&emsp;&emsp;&emsp;(i) the effectiveness of the system in detecting, disrupting, and preventing cyber-threat actors, including advanced persistent threats, from accessing agency information and agency information systems;
+
+&emsp;&emsp;&emsp;(ii) whether the intrusion detection and prevention capabilities, continuous diagnostics and mitigation, and other systems deployed under subtitle D of title II of the Homeland Security Act of 2002 (6 U.S.C. 231 <sup>1</sup> et seq.) are effective in securing Federal information systems;
+
+&emsp;&emsp;&emsp;(iii) the costs and benefits of the intrusion detection and prevention capabilities, including as compared to commercial technologies and tools and including the value of classified cyber threat indicators; and
+
+&emsp;&emsp;&emsp;(iv) the capability of agencies to protect sensitive cyber threat indicators and defensive measures if they were shared through unclassified mechanisms for use in commercial technologies and tools.
+
+#### (2) OMB report on development and implementation of intrusion assessment plan, advanced internal defenses, and Federal cybersecurity requirements
+
+&emsp;The Director shall—
+
+&emsp;&emsp;(A) not later than 6 months after December 18, 2015, and 30 days after any update thereto, submit the intrusion assessment plan to the appropriate congressional committees;
+
+&emsp;&emsp;(B) not later than 1 year after December 18, 2015, and annually thereafter, submit to Congress, as part of the report required under section 3553(c) of title 44—
+
+&emsp;&emsp;&emsp;(i) a description of the implementation of the intrusion assessment plan;
+
+&emsp;&emsp;&emsp;(ii) the findings of the intrusion assessments conducted pursuant to the intrusion assessment plan;
+
+&emsp;&emsp;&emsp;(iii) a description of the advanced network security tools included in the efforts to continuously diagnose and mitigate cybersecurity risks pursuant to section 1522(a)(1) of this title; and
+
+&emsp;&emsp;&emsp;(iv) a list by agency of compliance with the requirements of section 1523(b) of this title; and
+
+&emsp;&emsp;(C) not later than 1 year after December 18, 2015, submit to the appropriate congressional committees—
+
+&emsp;&emsp;&emsp;(i) a copy of the plan developed pursuant to section 1522(a)(2) of this title; and
+
+&emsp;&emsp;&emsp;(ii) the improved metrics developed pursuant to section 1522(c) of this title.
+
+#### (d) Form
+
+Each report required under this section shall be submitted in unclassified form, but may include a classified annex.
+
+(Pub. L. 114–113, div. N, title II, §226, Dec. 18, 2015, 129 Stat. 2969.)
+
+#### References in Text
+
+Section 223 of this division, referred to in subsecs. (a)(1), (4), (5) and (c)(1)(A)(vi), means section 223 of title II of div. N of Pub. L. 114–113.
+
+Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D\(§§231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§161 et seq.) of subchapter II of chapter 1 of this title and amended sections 3712 and 3722 of Title 42, The Public Health and Welfare. For complete classification of subtitle D to the Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

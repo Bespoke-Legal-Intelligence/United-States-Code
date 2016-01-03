@@ -14,7 +14,7 @@
 
 (g) The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, §2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, §139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, §2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, titleI, §139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
 
-&emsp;(1) the Secretary of Defense (hereafter referred to in this chapter as the "Secretary")has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
+&emsp;(1) the Secretary of Defense (hereafter referred to in this chapter as the "Secretary") has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
 
 &emsp;(2) the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may pose and to recommend what precautionary measures are necessary to protect the public health and safety;
 
@@ -96,7 +96,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 Section 1. The Secretary of Defense shall take all necessary measures to ensure that the use by the Armed Forces of the United States of any riot control agents and chemical herbicides in war is prohibited unless such use has Presidential approval, in advance.
 
-Sec. 2. The Secretary of Defense shall prescribe the rules and regulations he deems necessary to ensure that the national policy herein announced shall be observed by the Armed Forces of the United States.
+Sec. 2. The Secretary of Defense shall prescribe the rules and regulations he deems necessary to ensurethat the national policy herein announced shall be observed by the Armed Forces of the United States.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -20,7 +20,7 @@
 
 &emsp;The proposed rulemaking under paragraph (1) shall—
 
-&emsp;&emsp;(A) provide sufficient flexibility to be applicable to various types of entities engaged in the production and harvesting of fruitsand vegetables that are raw agricultural commodities, including small businesses and entities that sell directly to consumers, and be appropriate to the scale and diversity of the production and harvesting of such commodities;
+&emsp;&emsp;(A) provide sufficient flexibility to be applicable to various types of entities engaged in the production and harvesting of fruits and vegetables that are raw agricultural commodities, including small businesses and entities that sell directly to consumers, and be appropriate to the scale and diversity of the production and harvesting of such commodities;
 
 &emsp;&emsp;(B) include, with respect to growing, harvesting, sorting, packing, and storage operations, science-based minimum standards related to soil amendments, hygiene, packaging, temperature controls, animals in the growing area, and water;
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(E) not require a business to hire a consultant or other third party to identify, implement, certify, compliance <sup>1</sup> with these procedures, processes, and practices, except in the case of negotiated enforcement resolutions that may require such a consultant or third party; and
 
-&emsp;&emsp;(F) permit States and foreign countries from which food is imported into the United States to request from the Secretary variances from the requirements of the regulations, subject to paragraph (2), where the State or foreign country determines that the variance is necessary in light of local growing conditions and that the procedures, processes, and practices to be followed under the variance are reasonably likely to ensure that the produce is not adulterated under section 342 of this title and to provide thesame level of public health protection as the requirements of the regulations adopted under subsection (b).
+&emsp;&emsp;(F) permit States and foreign countries from which food is imported into the United States to request from the Secretary variances from the requirements of the regulations, subject to paragraph (2), where the State or foreign country determines that the variance is necessary in light of local growing conditions and that the procedures, processes, and practices to be followed under the variance are reasonably likely to ensure that the produce is not adulterated under section 342 of this title and to provide the same level of public health protection as the requirements of the regulations adopted under subsection (b).
 
 #### (2) Variances
 

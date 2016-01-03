@@ -2,7 +2,7 @@
 
 (a) This section applies to an employee whose position is classified in the firefighter occupation in conformance with the GS–081 standard published by the Office of Personnel Management, and whose normal work schedule, as in effect throughout the year, consists of regular tours of duty which average at least 106 hours per biweekly pay period.
 
-(b)(1) If the regular tour of duty of a firefighter subject to this section generally consists of 24-hour shifts, rather than a basic 40-hour workweek (as determined under regulations prescribed by the Office of Personnel Management), section 5504(b) shall be applied as follows in computing pay—
+(b)(1) If the regular tour of duty of a firefighter subject to this section generally consists of 24-hour shifts, rather than a basic 40-hour workweek (as determined under regulations prescribed by the Office of Personnel Management),section 5504(b) shall be applied as follows in computing pay—
 
 &emsp;(A) paragraph (1) of such section shall be deemed to require that the annual rate be divided by 2756 to derive the hourly rate; and
 
@@ -18,7 +18,7 @@
 
 &emsp;(C) the computation of such firefighter's daily, weekly, or biweekly rate shall be based on subparagraphs (A) and (B), as each applies to the hours involved.
 
-(2) For purposes of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or asthe Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include—
+(2) For purposes of sections 5595(c), 5941, 8331(3), and 8704(c), and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe, the basic pay of a firefighter subject to this subsection shall include—
 
 &emsp;(A) an amount computed under paragraph (1)(A) for the hours within the basic 40-hour workweek; and
 
@@ -58,7 +58,7 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §628(f)\], Oct. 21, 1998, 112 S
 
 Pub. L. 106–31, title III, §3032, May 21, 1999, 113 Stat. 104, provided that:
 
-"(a) The treatment provided to firefighters under section 628(f) of the Treasury and General Government Appropriations Act, 1999 (as included in section 101(h) of division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277)) \[set out as a note above\] shall be provided to any firefighter who—
+"(a) The treatment provided to firefighters under section 628(f) of the Treasury and General Government Appropriations Act, 1999 (as included in section 101(h) of division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law105–277)) \[set out as a note above\] shall be provided to any firefighter who—
 
 &emsp;"(1) on the effective date of section 5545b of title 5, United States Code \[see Effective Date note above\]—
 

@@ -34,7 +34,7 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (c) Sanctions described
 
-The sanctions described in this subsection are sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactionsand the exportation of property, subject to such regulations as the President may prescribe.
+The sanctions described in this subsection are sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation of property, subject to such regulations as the President may prescribe.
 
 (Pub. L. 112–158, title VII, §702, Aug. 10, 2012, 126 Stat. 1265.)
 

@@ -24,7 +24,7 @@ The Administrator shall conduct a continuing program of development, testing, an
 
 #### (b) Limitation on manufacture and sale of equipment
 
-The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to theextent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
+The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
 
 #### (c) Management studies
 
@@ -54,7 +54,7 @@ At the request of other Federal agencies, including the Department of Agricultur
 
 #### (1) In general
 
-&emsp;In addition to, or as part of, the program conducted under subsection (a) of this section, the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
+&emsp;In addition to, or as part of, the program conducted under subsection (a), the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
 
 &emsp;&emsp;(A) develop new, and utilize existing, measurement techniques and testing methodologies for evaluating new firefighting technologies, including—
 

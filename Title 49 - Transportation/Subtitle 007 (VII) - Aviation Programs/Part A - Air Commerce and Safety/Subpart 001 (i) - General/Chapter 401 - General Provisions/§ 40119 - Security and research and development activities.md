@@ -76,7 +76,7 @@ In subsection (b)(2), the word "duly" is omitted as surplus. The words "to have 
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §1601(a)(1), inserted "and the Administrator of the Federal Aviation Administration each" after "for Security" and substituted "criminal violence, aircraft piracy, and terrorism and to ensure security" for "criminal violence and aircraft piracy".
 
-Subsec. (b)(1). Pub. L. 107–296, §1601(a)(2)(A), (B), in introductory provisions, substituted "and the establishment of a Department of Homeland Security, theSecretary of Transportation" for ", the Under Secretary" and "ensuring security under this title if the Secretary of Transportation" for "carrying out security or research and development activities under section 44501(a) or (c), 44502(a)(1) or (3), (b), or (c), 44504, 44505, 44507, 44508, 44511, 44512, 44513, 44901, 44903(a), (b), (c), or (e), 44905, 44912, 44935, 44936, or 44938(a) or (b) of this title if the Under Secretary".
+Subsec. (b)(1). Pub. L. 107–296, §1601(a)(2)(A), (B), in introductory provisions, substituted "and the establishment of a Department of Homeland Security, the Secretary of Transportation" for ", the Under Secretary" and "ensuring security under this title if the Secretary of Transportation" for "carrying out security or research and development activities under section 44501(a) or (c), 44502(a)(1) or (3), (b), or (c), 44504, 44505, 44507, 44508, 44511, 44512, 44513, 44901, 44903(a), (b), (c), or (e), 44905, 44912, 44935, 44936, or 44938(a) or (b) of this title if the Under Secretary".
 
 Subsec. (b)(1)(C). Pub. L. 107–296, §1601(a)(2)(C), substituted "transportation safety" for "the safety of passengers in transportation".
 

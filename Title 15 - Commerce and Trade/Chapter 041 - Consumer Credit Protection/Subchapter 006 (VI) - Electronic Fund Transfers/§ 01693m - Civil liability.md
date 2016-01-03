@@ -14,11 +14,11 @@ Except as otherwise provided by this section and section 1693h of this title, an
 
 #### (b) Factors determining amount of award
 
-In determining the amount of liability in any action under subsection (a) of this section, the court shall consider, among other relevant factors—
+In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors—
 
-&emsp;(1) in any individual action under subsection (a)(2)(A) of this section, the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
+&emsp;(1) in any individual action under subsection (a)(2)(A), the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
 
-&emsp;(2) in any class action under subsection (a)(2)(B) of this section, the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
+&emsp;(2) in any class action under subsection (a)(2)(B), the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
 
 #### (c) Unintentional violations; bona fide error
 
@@ -46,7 +46,7 @@ On a finding by the court that an unsuccessful action under this section was bro
 
 Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
+(Pub. L. 90–321, title IX, §916, formerly §915, as added Pub. L. 95–630, title XX, §2001, Nov. 10,1978, 92 Stat. 3737; renumbered §916, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), (4), July 21, 2010, 124 Stat. 2081, 2082.)
 
 #### References in Text
 

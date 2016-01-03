@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedialaction if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
 
 &emsp;(3)
 
@@ -112,7 +112,7 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall beonly for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
@@ -138,7 +138,7 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII,§2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469.)
 
 #### References in Text
 
@@ -346,7 +346,7 @@ Definitions.—In this section:
 
 #### Purpose of Pub. L. 109–284
 
-Pub. L. 109–284, §1, Sept. 27, 2006, 120 Stat. 1211, provided that: "The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure, sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters."
+Pub. L. 109–284, §1, Sept. 27, 2006, 120 Stat. 1211, provided that: "The purpose of this Act \[amending this section, sections 107 and 210 of Title 23, Highways, section 1499 of Title 28, Judiciary and Judicial Procedure,sections 2301, 20908, 40103, 70912, 150511, 151303, 153513, 220104, 220501, 220505, 220506, 220509, 220511, 220512, and 220521 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and sections 522, 552, 554, 581, 593, 611, 3131, 3133, 3141, 3142, 3701, 3702, 3704, 6111, 8104, 8105, 8501, 8502, 8711, 8712, 8722, 9302, 14308, and 17504 of Title 40, Public Buildings, Property, and Works\] is to make technical corrections to the United States Code relating to cross references, typographical errors, and stylistic matters."
 
 #### Formerly Utilized Sites Remedial Action Program
 
@@ -516,7 +516,7 @@ Identification of Military Facilities With Environmental Training Expertise.—A
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
-Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, §1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
+Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, §1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
 
 "(a)
 
@@ -540,7 +540,7 @@ Use of Grant Funds.—(1) An institution of higher education receiving a grant u
 
 &emsp;"(A) Appropriate State and local agencies.
 
-&emsp;"(B) local \[sic\] workforce investment boards established under section 117 of the Workforce Investment Act of 1998 \[29 U.S.C. 2832\].
+&emsp;"(B) local \[sic\] workforce investment boards established under \[former\] section 117 of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2832\].
 
 &emsp;"(C) Community-based organizations (as defined in section 4(5) of such Act (29 U.S.C. 1503(5)).
 
@@ -938,7 +938,7 @@ Repayment.—(1) Any individual participating in a scholarship or fellowship pro
 
 &emsp;"(B) the individual is involuntarily separated for cause from the Department of Defense before the end of the period for which the individual has agreed to continue in the service of the Department of Defense.
 
-"(2) If an individual fails to fulfill the agreement of the individual to pay to the United States the totalamount of educational assistance provided under a program established under subsection (a), plus interest at the rate prescribed in paragraph (4), a sum equal to the amount of the educational assistance (plus such interest, if applicable) shall be recoverable by the United States from the individual or his estate by—
+"(2) If an individual fails to fulfill the agreement of the individual to pay to the United States the total amount of educational assistance provided under a program established under subsection (a), plus interest at the rate prescribed in paragraph (4), a sum equal to the amount of the educational assistance (plus such interest, if applicable) shall be recoverable by the United States from the individual or his estate by—
 
 &emsp;"(A) in the case of an individual who is an employee of the Department of Defense or other Federal agency, set off against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the United States; and
 
@@ -1008,7 +1008,7 @@ Pub. L. 101–510, div. A, title III, §345, Nov. 5, 1990, 104 Stat. 1538, provi
 
 DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[Pub. L. 101–189\] (10 U.S.C. 2701 note), it shall be the function of the Committee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
 
-"(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall providethe Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
+"(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 
 "(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
 
@@ -1052,7 +1052,7 @@ Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formula
 
 "(b)
 
-Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
+Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reductiongoals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
 "(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 

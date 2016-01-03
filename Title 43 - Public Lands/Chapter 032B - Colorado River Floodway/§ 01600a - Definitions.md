@@ -12,7 +12,7 @@
 
 &emsp;(4) assistance for environmental studies, plans, and assessments that are required incident to the issuance of permits or other authorizations under Federal law; and
 
-&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federalor federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
+&emsp;(5) assistance pursuant to programs entirely unrelated to development, such as any Federal or federally assisted public assistance program or any Federal old-age, survivors, or disability insurance program.
 
 > Such term also includes flood insurance described in sections <sup>2</sup> 4029(a) and (b) of title 42 on and after the dates on which the provisions of those sections <sup>2</sup> become effective.
 

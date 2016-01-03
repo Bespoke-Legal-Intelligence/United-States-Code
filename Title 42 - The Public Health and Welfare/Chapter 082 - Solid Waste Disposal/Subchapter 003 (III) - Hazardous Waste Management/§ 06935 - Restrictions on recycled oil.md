@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than one year after October 15, 1980, the Administrator shall promulgate regulations establishing such performance standards and other requirements as may be necessary to protect the public health and the environment from hazards associated with recycled oil. In developing such regulations, the Administrator shall conduct an analysis of the economic impact of the regulations on the oil recycling industry. The Administrator shall ensure that such regulations do not discourage the recovery or recycling of used oil, consistent with the protection of human health and the environment.
+Not later than one year after October 15, 1980, the Administrator shall promulgate regulations establishing such performance standards and other requirements as may be necessary to protect the public health and the environment from hazards associated with recycled oil. In developing such regulations, the Administrator shall conduct an analysis of the economic impact ofthe regulations on the oil recycling industry. The Administrator shall ensure that such regulations do not discourage the recovery or recycling of used oil, consistent with the protection of human health and the environment.
 
 #### (b) Identification or listing of used oil as hazardous waste
 
@@ -14,7 +14,7 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 (2)(A) In the case of used oil which is exempt under paragraph (1), not later than twenty-four months after November 8, 1984, the Administrator shall promulgate such standards under this subsection regarding the generation and transportation of used oil which is recycled as may be necessary to protect human health and the environment. In promulgating such regulations with respect to generators, the Administrator shall take into account the effect of such regulations on environmentally acceptable types of used oil recycling and the effect of such regulations on small quantity generators and generators which are small businesses (as defined by the Administrator).
 
-(B) The regulations promulgated under this subsection shall provide that no generator ofused oil which is exempt under paragraph (1) from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title shall be subject to any manifest requirement or any associated recordkeeping and reporting requirement with respect to such used oil if such generator—
+(B) The regulations promulgated under this subsection shall provide that no generator of used oil which is exempt under paragraph (1) from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title shall be subject to any manifest requirement or any associated recordkeeping and reporting requirement with respect to such used oil if such generator—
 
 &emsp;(i) either—
 

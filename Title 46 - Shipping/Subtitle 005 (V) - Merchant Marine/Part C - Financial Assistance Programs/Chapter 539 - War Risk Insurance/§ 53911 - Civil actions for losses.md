@@ -6,7 +6,7 @@ In General.—If there is a disagreement about a loss insured under this chapter
 
 (b)
 
-Exclusive Remedy.—A civil action against the United States under this section is exclusive of any other action by reason of the same subject matter against an officer, employee, oragent employed or retained by the Government under this chapter.
+Exclusive Remedy.—A civil action against the United States under this section is exclusive of any other action by reason of the same subject matter against an officer, employee, or agent employed or retained by the Government under this chapter.
 
 (c)
 

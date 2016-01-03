@@ -4,7 +4,7 @@
 
 The Secretary of Education shall establish a central clearinghouse for information and resource availability for individuals with disabilities which shall provide information and data regarding—
 
-&emsp;(1) the location, provision, and availability of services and programs for individuals with disabilities, including such information and data provided by State workforce developmentboards regarding such services and programs authorized under title I of such Act; <sup>1</sup>
+&emsp;(1) the location, provision, and availability of services and programs for individuals with disabilities, including such information and data provided by State workforce development boards regarding such services and programs authorized under title I of such Act; <sup>1</sup>
 
 &emsp;(2) research and recent medical and scientific developments bearing on disabilities (and their prevention, amelioration, causes, and cures); and
 
@@ -28,7 +28,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Such Act, referred to in subsec. (a)(1), probably means the Workforce Investment Act of 1998, which is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Prior Provisions
 

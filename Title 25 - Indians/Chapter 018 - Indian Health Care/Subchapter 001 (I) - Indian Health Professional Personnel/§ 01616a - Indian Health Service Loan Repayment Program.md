@@ -44,11 +44,11 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;(D) be employed in an Indian health program without a service obligation; and
 
-&emsp;(3) submit to the Secretary an application for a contract described in subsection (f) of this section.
+&emsp;(3) submit to the Secretary an application for a contract described in subsection (f).
 
 #### (c) Application and contract forms
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -56,7 +56,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (d) Vacancies; priority
 
-(1) Consistent with paragraph (3), the Secretary, acting through the Service and in accordance with subsection (k) of this section, shall annually—
+(1) Consistent with paragraph (3), the Secretary, acting through the Service and in accordance with subsection (k), shall annually—
 
 &emsp;(A) identify the positions in each Indian health program for which there is a need or a vacancy, and
 
@@ -78,7 +78,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (e) Approval
 
-(1) An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.
+(1) An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f).
 
 (2) The Secretary shall provide written notice to an individual promptly on—
 
@@ -102,9 +102,9 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;&emsp;&emsp;(i) to accept loan payments on behalf of the individual;
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual described in subsection (b)(1) of this section—
+&emsp;&emsp;&emsp;(ii) in the case of an individual described in subsection (b)(1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to maintain enrollment in a course of study or training described in subsection (b)(1)(A) of this section until the individual completes the course of study or training, and
+&emsp;&emsp;&emsp;&emsp;(I) to maintain enrollment in a course of study or training described in subsection (b)(1)(A) until the individual completes the course of study or training, and
 
 &emsp;&emsp;&emsp;&emsp;(II) while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training);
 
@@ -114,7 +114,7 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;(3) a provision that any financial obligation of the United States arising out of a contract entered into under this section and any obligation of the individual which is conditioned thereon is contingent upon funds being appropriated for loan repayments under this section;
 
-&emsp;(4) a statement of the damages to which the United States is entitled under subsection (l) of this section for the individual's breach of the contract; and
+&emsp;(4) a statement of the damages to which the United States is entitled under subsection (l) for the individual's breach of the contract; and
 
 &emsp;(5) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with this section.
 
@@ -128,7 +128,7 @@ The written contract referred to in this section between the Secretary and an in
 
 &emsp;(C) reasonable living expenses as determined by the Secretary.
 
-(2)(A) For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254l–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
+(2)(A) For each year of obligated service that an individual contracts to serve under subsection (f) the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254l–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
 &emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
@@ -140,7 +140,7 @@ The written contract referred to in this section between the Secretary and an in
 
 (3) For the purpose of providing reimbursements for tax liability resulting from payments under paragraph (2) on behalf of an individual, the Secretary—
 
-&emsp;(A) in addition to such payments, may make payments to the individual in an amount not less than 20 percent and not more than 39 percent of the total amount of loan repayments made for the taxable year involved; and
+&emsp;(A) in addition to such payments, may make payments to the individual in an amount notless than 20 percent and not more than 39 percent of the total amount of loan repayments made for the taxable year involved; and
 
 &emsp;(B) may make such additional payments as the Secretary determines to be appropriate with respect to such purpose.
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 #### (i) Recruiting programs
 
-The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
+The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a).
 
 #### (j) Prohibition of assignment to other government departments
 
@@ -162,7 +162,7 @@ Section 215 of title 42 shall not apply to individuals during their period of ob
 
 The Secretary, in assigning individuals to serve in Indian health programs pursuant to contracts entered into under this section, shall—
 
-&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receiveconsideration on an equal basis with programs that are administered directly by the Service; and
+&emsp;(1) ensure that the staffing needs of Indian health programs administered by an Indian tribe or tribal or health organization receive consideration on an equal basis with programs that are administered directly by the Service; and
 
 &emsp;(2) give priority to assigning individuals to Indian health programs that have a need for health professionals to provide health care services as a result of individuals having breached contracts entered into under this section.
 
@@ -178,11 +178,11 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;&emsp;(iii) is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
+&emsp;(B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii),
 
 > shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual's behalf under the contract.
 
-(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual's period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
+(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual's period of obligated service in accordance with subsection (f), the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
 
 ### A=3Z(t-s/t)
 
@@ -192,7 +192,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(B) "Z" is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
-&emsp;(C) "t" is the total number of months in the individual's period of obligated service in accordance with subsection (f) of this section; and
+&emsp;(C) "t" is the total number of months in the individual's period of obligated service in accordance with subsection (f); and
 
 &emsp;(D) "s" is the number of months of such period served by such individual in accordance with this section.
 
@@ -226,7 +226,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(2) the number of Loan Repayment Program applications filed with respect to each type of health profession;
 
-&emsp;(3) the number of contracts described in subsection (f) of this section that are entered into with respect to each health profession;
+&emsp;(3) the number of contracts described in subsection (f) that are entered into with respect to each health profession;
 
 &emsp;(4) the amount of loan payments made under this section, in total and by health profession;
 

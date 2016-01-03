@@ -60,7 +60,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (3) Definitions
 
-&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 6, 2012) shall have the same meaning as when used in such section.
+&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 31, 2015) shall have the same meaning as when used in such section.
 
 #### (f) Defined benefit plan funding notices
 
@@ -88,7 +88,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;&emsp;(bb) the value of the plan's assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation under subclause (II) of section 1306(a)(3)(E)(iii) of this title and the interest rate under section 1306(a)(3)(E)(iv) of this title, and
 
-&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) <sup>1</sup> of this title shall be used),
+&emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement, for the plan year to which thenotice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under section 1084 of this title and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under section 1084 of this title except that the method specified in section 1085(i)(8) <sup>1</sup> of this title shall be used),
 
 &emsp;&emsp;&emsp;(iii) a statement of the number of participants who are—
 
@@ -140,15 +140,15 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;&emsp;In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21 and the Highway and Transportation Funding Act of 2014 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+&emsp;&emsp;&emsp;&emsp;(I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement that, as a result of the MAP-21 and the Highway and Transportation Funding Act of 2014, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+&emsp;&emsp;&emsp;&emsp;(II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
-&emsp;&emsp;&emsp;&emsp;(III) a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title) the funding target attainment percentage (as defined in section 1083(d)(2) of this title), the funding shortfall (as defined in section 1083(c)(4) of this title), and the minimum required contribution (as determined under section 1083 of this title), for the applicable plan year and each of the 2 preceding plan years.
+&emsp;&emsp;&emsp;&emsp;(III) a table which shows (determined both with and without regard to section 1083(h)(2)(C)(iv) of this title) the funding target attainment percentage (as defined in section 1083(d)(2) of this title), the funding shortfall (as defined in section1083(c)(4) of this title), and the minimum required contribution (as determined under section 1083 of this title), for the applicable plan year and each of the 2 preceding plan years.
 
 #### (ii) Applicable plan year
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable plan year" means any plan year beginning after December 31, 2011, and before January 1, 2020, for which—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "applicable plan year" means any plan year beginning after December 31, 2011, and before January 1, 2023, for which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the funding target (as defined in section 1083(d)(2) of this title) is less than 95 percent of such funding target determined without regard to section 1083(h)(2)(C)(iv) of this title,
 
@@ -226,7 +226,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (1) Duties of plan administrator
 
-&emsp;In advance of the commencement of any blackout period with respect to an individual account plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
+&emsp;In advance of the commencement of any blackout period with respect to an individualaccount plan, the plan administrator shall notify the plan participants and beneficiaries who are affected by such action in accordance with this subsection.
 
 #### (2) Notice requirements
 
@@ -308,7 +308,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (B) One-participant retirement plan
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "one-participant retirement plan" means aretirement plan that on the first day of the plan year—
+&emsp;&emsp;For purposes of subparagraph (A), the term "one-participant retirement plan" means a retirement plan that on the first day of the plan year—
 
 &emsp;&emsp;&emsp;(i) covered only one individual (or the individual and the individual's spouse) and the individual (or the individual and the individual's spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
 
@@ -368,7 +368,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;&emsp;(ii) reveal any proprietary information regarding the plan, any contributing employer, or entity providing services to the plan.
 
-> &emsp;Subparagraph (C)(i) shall not apply to individually identifiable information with respect to any plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).<sup>1</sup>
+> &emsp;Subparagraph (C)(i) shall not apply to individually identifiable information with respect toany plan investment manager or adviser, or with respect to any other person (other than an employee of the plan) preparing a financial report required to be included under paragraph (1)(B).<sup>1</sup>
 
 #### (3) Limitations
 
@@ -416,7 +416,7 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594.)
 
 #### References in Text
 
@@ -424,15 +424,23 @@ Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignate
 
 Section 1085(i) of this title, referred to in subsec. (f)(2)(B)(i)(II) and (ii)(II), was redesignated section 1085(j) of this title by Pub. L. 113–235, div. O, title I, §109(a)(3), Dec. 16, 2014, 128 Stat. 2789.
 
-The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is Pub. L. 112–141, July 6, 2012, 126 Stat. 405. For complete classification of this Act to theCode, see Short Title of 2012 Amendment note set out under section 101 of Title 23, Highways, and Tables.
+The MAP–21, referred to in subsecs. (f)(2)(D)(i)(I) and (II), also known as the Moving Ahead for Progress in the 21st Century Act, is Pub. L. 112–141, July 6, 2012, 126 Stat. 405. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 101 of Title 23, Highways, and Tables.
 
 The Highway and Transportation Funding Act of 2014, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 113–159, Aug. 8, 2014, 128 Stat. 1839. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 101 of Title 23, Highways, and Tables.
+
+The Bipartisan Budget Act of 2015, referred to in subsec. (f)(2)(D)(i)(I) and (II), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is Pub. L. 113–97, Apr. 7, 2014, 128 Stat. 1101. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 1001 of this title and Tables.
 
 The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, §111(a). See 2014 Amendment note below.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(3). Pub. L. 114–41 substituted "July 31, 2015" for "July 6, 2012". Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
+
+Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 114–74, §504(b)(2)(A)(i), substituted ", the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015" for "and the Highway and Transportation Funding Act of 2014".
+
+Subsec. (f)(2)(D)(ii). Pub. L. 114–74, §504(b)(2)(A)(ii), substituted "2023" for "2020" in introductory provisions.
 
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–97, §104(b)(1), substituted "section 1083 or 1085a of this title" for "section 1083 of this title".
 
@@ -476,7 +484,7 @@ Subsec. (i)(8)(B). Pub. L. 110–458, §105(g), amended subpar. (B) generally. P
 
 &emsp;"(ii) does not cover a business that leases employees."
 
-Subsec. (j). Pub. L. 110–458, §101(c)(1)(A), substituted "section 1056(g)(4)(A)" for "section 1056(g)(4)(B)" in par. (2) and inserted "The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection." in concluding provisions.
+Subsec. (j). Pub. L. 110–458, §101(c)(1)(A), substituted "section 1056(g)(4)(A)" for "section 1056(g)(4)(B)" in par. (2) and inserted "The Secretary of the Treasury, in consultation with the Secretary, shall have the authorityto prescribe rules applicable to the notices required under this subsection." in concluding provisions.
 
 Subsec. (k)(2). Pub. L. 110–458, §105(b)(1), inserted concluding provisions.
 
@@ -559,6 +567,10 @@ Pub. L. 104–188, §1421(d)(1), redesignated subsec. (g), relating to cross ref
 Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted "an employer maintaining a plan" for "an employer of a plan".
 
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–74 applicable with respect to plan years beginning after Dec. 31, 2015, see section 504(c) of Pub. L. 114–74, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 
@@ -680,7 +692,7 @@ Pub. L. 101–508, title XII, §12012(e), Nov. 5, 1990, 104 Stat. 1388–573, pr
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(b)(5)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(b)(5)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates,see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7894(b)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -702,7 +714,9 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Statements
 
-Pub. L. 113–159, title II, §2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made bythis section \[probably means "this subsection", which amended this section and section 1083 of this title\]."
+Pub. L. 114–74, title V, §504(b)(2)(B), Nov. 2, 2015, 129 Stat. 594, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made by this section \[amending this section, section 1083 of this title, and section 430 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 430 of Title 26\]."
+
+Pub. L. 113–159, title II, §2003(b)(2)(B), Aug. 8, 2014, 128 Stat. 1849, provided that: "The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[29 U.S.C. 1021(f)(2)(D)(i)\] to conform to the amendments made by this section \[probably means "this subsection", which amended this section and section 1083 of this title\]."
 
 #### Model Notices and Forms
 

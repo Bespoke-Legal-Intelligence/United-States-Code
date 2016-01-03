@@ -46,7 +46,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (B) Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.
 
-(C)(i) The amount of the monthly personal caregiver stipend provided under subparagraph (A)(ii)(V) shall be determined in accordance with a schedule established by the Secretary that specifies stipends based upon the amount and degree of personal care services provided.
+(C)(i) The amount of the monthly personal caregiver stipend provided under subparagraph (A)(ii)(V) shall be determined in accordance with a schedule established by the Secretarythat specifies stipends based upon the amount and degree of personal care services provided.
 
 (ii) The Secretary shall ensure, to the extent practicable, that the schedule required by clause (i) specifies that the amount of the monthly personal caregiver stipend provided to a primary provider of personal care services for the provision of personal care services to an eligible veteran is not less than the monthly amount a commercial home health care entity would pay an individual in the geographic area of the eligible veteran to provide equivalent personal care services to the eligible veteran.
 
@@ -84,13 +84,13 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;(ii) elect to provide the personal care services to the eligible veteran that the Secretary determines the eligible veteran requires under paragraph (5)(A)(i);
 
-&emsp;(iii) has <sup>1</sup> the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
+&emsp;(iii) have the consent of the eligible veteran to be the primary provider of personal care services for the eligible veteran; and
 
 &emsp;(iv) are considered by the Secretary as competent to be the primary provider of personal care services for the eligible veteran.
 
 (C) An eligible veteran receiving personal care services from a family member designated as the primary provider of personal care services for the eligible veteran under subparagraph (A) may, in accordance with procedures the Secretary shall establish for such purposes, revoke consent with respect to such family member under subparagraph (B)(iii).
 
-(D) If a family member designated as the primary provider of personal care services for aneligible veteran under subparagraph (A) subsequently fails to meet any requirement set forth in subparagraph (B), the Secretary—
+(D) If a family member designated as the primary provider of personal care services for an eligible veteran under subparagraph (A) subsequently fails to meet any requirement set forth in subparagraph (B), the Secretary—
 
 &emsp;(i) shall immediately revoke the family member's designation under subparagraph (A); and
 
@@ -100,7 +100,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (8) If an eligible veteran lacks the capacity to make a decision under this subsection, the Secretary may, in accordance with regulations and policies of the Department regarding appointment of guardians or the use of powers of attorney, appoint a surrogate for the eligible veteran who may make decisions and take action under this subsection on behalf of the eligible veteran.
 
-(9)(A) The Secretary shall monitor the well-being of each eligible veteran receiving personal care services under the program required by paragraph (1).
+(9)(A) The Secretary shall monitor the well-being of each eligible veteran receiving personalcare services under the program required by paragraph (1).
 
 (B) The Secretary shall document each finding the Secretary considers pertinent to the appropriate delivery of personal care services to an eligible veteran under the program.
 
@@ -194,11 +194,19 @@ Definitions.—In this section:
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
 
-&emsp;(1) $60,000,000 for fiscal year 2010; and
+&emsp;(1) $60,000,000 for fiscal year 2010;
 
-&emsp;(2) $1,542,000,000 for the period of fiscal years 2011 through 2015.
+&emsp;(2) $1,542,000,000 for the period of fiscal years 2011 through 2015; and
 
-(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132.)
+&emsp;(3) $625,000,000 for fiscal year 2016.
+
+(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(7)(B)(iii). Pub. L. 114–58, §601(6), substituted "have" for "has".
+
+Subsec. (e)(3). Pub. L. 114–58, §103, added par. (3).
 
 #### Effective Date
 
@@ -251,6 +259,4 @@ Contents.—The report required by paragraph (1) shall include the following:
 &emsp;&emsp;"(iii) the cost to the Department of providing each support service provided under the program; and
 
 &emsp;&emsp;"(iv) such other information as the Secretary considers appropriate."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "have".</i>
 

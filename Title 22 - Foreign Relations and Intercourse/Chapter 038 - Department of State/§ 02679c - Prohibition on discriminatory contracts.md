@@ -10,11 +10,11 @@
 
 (2) For purposes of this section—
 
-&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 2407(a) of title 50, Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term "United States person" as used in subparagraphs (B) and (C) of section 2407(a)(1) of title 50, Appendix, shall be deemed to mean "person"; and
+&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 4607(a) of title 50 prohibits a United States person from taking, except that for purposes of this paragraph, the term "United States person" as used in subparagraphs (B) and (C) of section 4607(a)(1) of title 50 shall be deemed to mean "person"; and
 
-&emsp;(B) the term "foreign person" means any person other than a United States person as defined in section 2415(2) of title 50, Appendix.
+&emsp;(B) the term "foreign person" means any person other than a United States person as defined in section 4618(2) of title 50.
 
-(3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by section 2407(a) of title 50, Appendix. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
+(3) For purposes of paragraph (1), a foreign person shall be deemed not to comply with the boycott of Israel by Arab League countries if that person, or the Secretary of State or his designee on the basis of available information, certifies that the person violates or otherwise does not comply with the boycott of Israel by Arab League countries by taking any actions prohibited by section 4607(a) of title 50. Certification by the Secretary of State or his designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
 #### (b) Waiver by Secretary of State
 
@@ -44,7 +44,7 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (2) An Offeror would not be required to include the certification required by paragraph (1), if the Offeror is deemed not to comply with the Arab League boycott of Israel by the Secretary of State or a designee on the basis of available information. Certification by the Secretary of State or a designee may occur only 30 days after notice has been given to the Congress that this certification procedure will be utilized at a specific overseas mission.
 
-(3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 2407(a) of title 50, Appendix.
+(3) The Secretary of State shall ensure that all State Department contract solicitations include a detailed explanation of the requirements of section 4607(a) of title 50.
 
 #### (d) Review and termination
 
@@ -54,9 +54,13 @@ Certification.—By submitting this offer, the Offeror certifies that it is not�
 
 (Pub. L. 103–236, title V, §565, Apr. 30, 1994, 108 Stat. 484; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(3), Oct. 21, 1998, 112 Stat. 2681–790.)
 
+#### References in Text
+
+Section 8(a) of the Export Administration Act of 1979 (50 U.S.C. App. 2407(a)), referred to in subsec. (c)(1) in the quoted clause, is section 8(a) of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 521, which was editorially transferred to section 4607(a) of Title 50, War and National Defense.
+
 #### Codification
 
-In subsec. (a)(1), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal ProcurementPolicy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

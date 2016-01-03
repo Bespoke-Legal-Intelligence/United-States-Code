@@ -6,7 +6,7 @@ National Guard Bureau.—There is in the Department of Defense the National Guar
 
 (b)
 
-Purposes.—The National Guard Bureau is the channel of communications on all matters pertaining to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States between (1) the Department of the Army and Department of the Air Force, and (2) the several States.
+Purposes.—The National Guard Bureau is the channel of communications on all matterspertaining to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States between (1) the Department of the Army and Department of the Air Force, and (2) the several States.
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 110–181, div. A, title XVIII, §1812(a), Jan. 28, 2008, 122 Stat. 497.)
 

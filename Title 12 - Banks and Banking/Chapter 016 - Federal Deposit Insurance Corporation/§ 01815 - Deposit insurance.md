@@ -44,7 +44,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;(7) whether or not its corporate powers, insofar as they will be exercised through the proposed insured branch, are consistent with the purposes of this chapter, and
 
-&emsp;(8) the probable adequacy and reliability of information supplied and to be supplied by the bank to the Corporation to enable it to carry out its functions under this chapter.
+&emsp;(8) the probable adequacy and reliability of information supplied and to be supplied by thebank to the Corporation to enable it to carry out its functions under this chapter.
 
 #### (c) Protection to Deposit Insurance Fund; surety bond, pledge of assets, etc.; injunction
 
@@ -56,7 +56,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 (4) The purpose of the surety bonds and pledges of assets required under this subsection is to provide protection to the Deposit Insurance Fund against the risks entailed in insuring the domestic deposits of a foreign bank whose activities, assets, and personnel are in large part outside the jurisdiction of the United States. In the implementation of its authority under this subsection, however, the Corporation shall endeavor to avoid imposing requirements on such banks which would unnecessarily place them at a competitive disadvantage in relation to domestically incorporated banks.
 
-(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only asprovided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
+(5) In the case of any failure or threatened failure of a foreign bank to comply with any requirement imposed under this subsection (c), the Corporation, in addition to all other administrative and judicial remedies, may apply to any United States district court, or United States court of any territory, within the jurisdiction of which any branch of the bank is located, for an injunction to compel such bank and any officer, employee, or agent thereof, or any other person having custody or control of any of its assets, to deliver to the Corporation such assets as may be necessary to meet such requirement, and to take any other action necessary to vest the Corporation with control of assets so delivered. If the court shall determine that there has been any such failure or threatened failure to comply with any such requirement, it shall be the duty of the court to issue such injunction. The propriety of the requirement may be litigated only as provided in chapter 7 of title 5, and may not be made an issue in an action for an injunction under this paragraph.
 
 #### (d) Insurance fees
 
@@ -100,7 +100,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(i) in good faith, estimate the amount of the loss the Corporation will incur from such default or assistance;
 
-&emsp;&emsp;&emsp;(ii) if, with respect to such insured depository institution, there is more than 1 commonly controlled insured depository institution, estimate the amount of each such commonly controlled depository institution's share of such liability; and
+&emsp;&emsp;&emsp;(ii) if, with respect to such insured depository institution, there is more than 1 commonly controlled insured depository institution, estimate the amount of eachsuch commonly controlled depository institution's share of such liability; and
 
 &emsp;&emsp;&emsp;(iii) advise each commonly controlled depository institution of the Corporation's estimate of the amount of such institution's liability for such losses.
 
@@ -140,7 +140,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) Overpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
 
 #### (ii) Underpayment
 
@@ -208,7 +208,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(C) such affiliate—
 
-&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet thepayment obligations referred to in subparagraph (B); and
+&emsp;&emsp;&emsp;(i) is in default or in need of assistance solely as a result of the failure to meet the payment obligations referred to in subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) is not otherwise in breach of the terms of any assistance agreement or note which would authorize the Federal Savings and Loan Insurance Corporation or such other successor entity, pursuant to the terms of such assistance agreement or note, to refuse to make such payments.
 
@@ -240,7 +240,7 @@ Subsec. (d)(1). Pub. L. 109–173, §8(a)(5) substituted, "the reserve ratio of 
 
 Subsec. (d)(2). Pub. L. 109–173, §8(a)(4), (5)(B), added par. (2) and struck out former par. (2) which related to conversion transactions by insured depository institutions.
 
-Subsec. (d)(3). Pub. L. 109–173, §8(a)(4), (5)(D), redesignated par. (1)(C) of subsec. (d) as (3), realigned margin, and struck out former par. (3) which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments.
+Subsec. (d)(3). Pub. L. 109–173, §8(a)(4), (5)(D), redesignated par. (1)(C) of subsec. (d) as (3), realigned margin,and struck out former par. (3) which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments.
 
 Subsec. (e)(5)(A). Pub. L. 109–173, §8(a)(6)(A), substituted "Deposit Insurance Fund" for "Bank Insurance Fund or the Savings Association Insurance Fund".
 
@@ -348,7 +348,7 @@ Amendment by section 2704(d)(14)(B)–(E) of Pub. L. 104–208 effective Jan. 1,
 
 #### Effective Date of 1992 Amendments
 
-Amendment by section 303(b)(6)(B) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 2062 of Title 50, Appendix, War and National Defense.
+Amendment by section 303(b)(6)(B) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of Title 50, War and National Defense.
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under section 191 of this title.
 
@@ -436,7 +436,7 @@ Pub. L. 101–73, title II, §206(b), Aug. 9, 1989, 103 Stat. 205, provided that
 
 #### Definition of "Commercial Firm"
 
-Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[seeShort Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
+Pub. L. 111–203, title VI, §602, July 21, 2010, 124 Stat. 1596, provided that: "For purposes of this title \[see Short Title note set out under section 1811 of this title\], a company is a 'commercial firm' if the annual gross revenues derived by the company and all of its affiliates from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k))) and, if applicable, from the ownership or control of one or more insured depository institutions, represent less than 15 percent of the consolidated annual gross revenues of the company."
 
 \[For definitions of terms used in section 602 of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

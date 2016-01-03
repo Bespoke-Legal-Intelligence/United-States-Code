@@ -16,7 +16,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 &emsp;&emsp;(A) any foreign corporation is a member of a qualified group, and
 
-&emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of anothermember of such group from which it receives dividends in any taxable year,
+&emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of another member of such group from which it receives dividends in any taxable year,
 
 > &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) if such foreign corporation were a domestic corporation.
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (7) Constructive ownership through partnerships
 
-&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as beingowned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
 
 #### (8) Regulations
 
@@ -236,5 +236,5 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 #### Increase in Earnings and Profits of Foreign Corporations Under Section 1023(e)(3)(C) of Pub. L. 99–514
 
-Pub. L. 100–647, title I, §1012(b)(3), Nov. 10, 1988, 102 Stat. 3496, provided that: "For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] shall be taken into account ratably over the 10-year period beginning with the corporation's first taxable year beginning after December 31, 1986."
+Pub. L. 100–647, title I, §1012(b)(3), Nov. 10, 1988, 102 Stat. 3496, provided that: "For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\]shall be taken into account ratably over the 10-year period beginning with the corporation's first taxable year beginning after December 31, 1986."
 

@@ -1,6 +1,6 @@
 ### §752. Chairman and General Counsel
 
-(a) The General Accounting Office Personnel Appeals Board <sup>1</sup> shall select one of its membersas Chairman. The Chairman is the chief executive and administrative officer of the Board.
+(a) The General Accounting Office Personnel Appeals Board <sup>1</sup> shall select one of its members as Chairman. The Chairman is the chief executive and administrative officer of the Board.
 
 (b)(1) The Comptroller General shall appoint as General Counsel of the Board an individual the Chairman selects. The General Counsel serves at the pleasure of the Chairman.
 

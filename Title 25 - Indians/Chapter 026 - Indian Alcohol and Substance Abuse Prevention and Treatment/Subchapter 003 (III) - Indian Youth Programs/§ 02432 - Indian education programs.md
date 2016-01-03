@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The head of the Indian Alcohol and Substance Abuse Program, in coordination with the Assistant Secretary for Indian Affairs, shall develop and implement programs in tribal schools and schools funded by the Bureau ofIndian Education (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in advancing the purposes and goals of this Act.
+&emsp;The head of the Indian Alcohol and Substance Abuse Program, in coordination with the Assistant Secretary for Indian Affairs, shall develop and implement programs in tribal schools and schools funded by the Bureau of Indian Education (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in advancing the purposes and goals of this Act.
 
 #### (2) Costs
 

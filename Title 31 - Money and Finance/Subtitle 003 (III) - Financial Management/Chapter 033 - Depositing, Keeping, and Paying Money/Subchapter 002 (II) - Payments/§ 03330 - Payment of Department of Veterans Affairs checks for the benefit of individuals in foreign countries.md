@@ -26,7 +26,7 @@
 
 (d)(1) A payment may be made under subsection (c) of this section only if a claim for payment is—
 
-&emsp;(A) filed with the Secretary of Veterans Affairs by the end of the first year after the dateof the death of the individual entitled to payment; and
+&emsp;(A) filed with the Secretary of Veterans Affairs by the end of the first year after the date of the death of the individual entitled to payment; and
 
 &emsp;(B) completed by submitting the necessary evidence by the 6th month after the date the Secretary of Veterans Affairs requests the evidence.
 

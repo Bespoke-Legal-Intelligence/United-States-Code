@@ -100,7 +100,7 @@ Short sea transportation trade.—The term "short sea transportation trade" mean
 
 &emsp;&emsp;&emsp;(i) loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
 
-&emsp;&emsp;&emsp;(ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence SeawaySystem and unloaded at a port in the United States.
+&emsp;&emsp;&emsp;(ii) loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
 
 &emsp;(7) <sup>2</sup>
 

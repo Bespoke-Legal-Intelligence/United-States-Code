@@ -52,7 +52,7 @@ The credits provided in this subpart shall be allowed only if the taxpayer estab
 
 #### (4) Bond requirements
 
-&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
+&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to theallowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
 
 #### (5) Other special rules
 
@@ -92,5 +92,5 @@ Amendment by section 1901(a)(114) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §103(c), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendment made by subsection (a) of this section \[amending section 131(e) of Internal Revenue Code of 1939\] shall apply for all taxable years beginning on or after January 1, 1950, as to which section 131 of the Internal Revenue Code of 1939 is the applicable provision. The amendment made by subsection (b) of this section \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. No interest shall be allowed or paid on any overpayment resulting from the amendments made by subsections (a) and (b) of this section."
+Pub. L. 85–866, title I, §103(c), Sept. 2, 1958, 72 Stat. 1675, provided that: "The amendment made by subsection (a) of this section \[amending section 131(e) of Internal Revenue Code of 1939\] shall apply for all taxable years beginning on or after January 1, 1950, as to which section 131 of the Internal Revenue Code of 1939 is the applicable provision. The amendment made bysubsection (b) of this section \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. No interest shall be allowed or paid on any overpayment resulting from the amendments made by subsections (a) and (b) of this section."
 

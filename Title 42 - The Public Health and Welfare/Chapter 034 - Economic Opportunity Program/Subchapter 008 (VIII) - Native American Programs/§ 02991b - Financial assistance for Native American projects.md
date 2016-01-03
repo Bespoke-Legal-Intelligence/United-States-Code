@@ -26,7 +26,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 &emsp;(C) the enforcement and monitoring of environmental quality laws.
 
-(3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that arenot to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
+(3) The 20 percent of the costs of planning, developing, and implementing a program for which a grant is awarded under paragraph (1) that are not to be paid from such grant may be paid by the grant recipient in cash or through the provision of property or services, but only to the extent that such cash or property is from any source (including any Federal agency) other than a program, contract, or grant authorized under this subchapter.
 
 (4) Grants shall be awarded under paragraph (1) on the basis of applications that are submitted by Indian tribes to the Commissioner in such form as the Commissioner shall prescribe.
 

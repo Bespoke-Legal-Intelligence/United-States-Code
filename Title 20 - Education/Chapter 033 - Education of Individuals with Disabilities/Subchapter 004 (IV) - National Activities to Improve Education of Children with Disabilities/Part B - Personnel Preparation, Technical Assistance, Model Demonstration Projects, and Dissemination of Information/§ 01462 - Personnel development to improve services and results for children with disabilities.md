@@ -4,7 +4,7 @@
 
 The Secretary, on a competitive basis, shall award grants to, or enter into contracts or cooperative agreements with, eligible entities to carry out 1 or more of the following objectives:
 
-&emsp;(1) To help address the needs identified in the State plan described in section 1453(a)(2) of this title for highly qualified personnel, as defined in section 1451(b) of this title, to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in section 1412(a)(14) of this title.
+&emsp;(1) To help address the needs identified in the State plan described in section 1453(a)(2) of this title for personnel, as defined in section 1451(b) of this title, who meet the applicable requirements described in section 1412(a)(14) of this title, to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in section 1412(a)(14) of this title.
 
 &emsp;(2) To ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined, through scientifically based research, to be successful in serving those children.
 
@@ -12,7 +12,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;(4) To ensure that regular education teachers have the necessary skills and knowledge to provide instruction to students with disabilities in the regular education classroom.
 
-&emsp;(5) To ensure that all special education teachers are highly qualified.
+&emsp;(5) To ensure that all special education teachers meet the qualifications described in section 1412(a)(14)(C) of this title.
 
 &emsp;(6) To ensure that preservice and in-service personnel preparation programs include training in—
 
@@ -68,11 +68,11 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(vi) effectively constructing IEPs, participating in IEP meetings, and implementing IEPs;
 
-&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, andto ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
+&emsp;&emsp;&emsp;(vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\]; and
 
-&emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 7113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
+&emsp;&emsp;&emsp;(viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7423(d)(1)(A)(ii)\], and schools that serve high numbers or percentages of limited English proficient children.
 
-&emsp;&emsp;(B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, highly qualified teachers to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
+&emsp;&emsp;(B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
 
 &emsp;&emsp;(C) Providing continuous personnel preparation, training, and professional development designed to provide support and ensure retention of special education and general education teachers and personnel who teach and provide related services to children with disabilities.
 
@@ -124,7 +124,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(i) have prior training in educational and other related service fields; and
 
-&emsp;&emsp;&emsp;(ii) are studying to obtain degrees, certificates, or licensure that will enable the persons to assist children with low incidence disabilities to achieve the objectives set out in their individualized education programs described in section 1414(d) of this title, or to assist infants and toddlers with low incidence disabilities to achieve the outcomes described in their individualized family service plans described in section 1436 of this title.
+&emsp;&emsp;&emsp;(ii) are studying to obtain degrees, certificates, or licensure that will enable the persons to assist children with low incidence disabilities to achieve the objectives set out in their individualized educationprograms described in section 1414(d) of this title, or to assist infants and toddlers with low incidence disabilities to achieve the outcomes described in their individualized family service plans described in section 1436 of this title.
 
 &emsp;&emsp;(B) Providing personnel from various disciplines with interdisciplinary training that will contribute to improvement in early intervention, educational, and transitional results for children with low incidence disabilities.
 
@@ -158,7 +158,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of highly qualified personnel to serve children with low incidence disabilities.
+&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
 
 #### (5) Preparation in use of braille
 
@@ -196,7 +196,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (3) Acceptance by States of personnel preparation requirements
 
-&emsp;The Secretary may require eligible entities to provide in the eligible entities' applications assurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
+&emsp;The Secretary may require eligible entities to provide in the eligible entities' applicationsassurances from 1 or more States that such States intend to accept successful completion of the proposed personnel preparation program as meeting State personnel standards or other requirements in State law or regulation for serving children with disabilities or serving infants and toddlers with disabilities.
 
 #### (f) Selection of recipients
 
@@ -244,7 +244,7 @@ The Secretary may include funds for scholarships, with necessary stipends and al
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-(Pub. L. 91–230, title VI, §662, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2774.)
+(Pub. L. 91–230, title VI, §662, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2774; amended Pub. L. 114–95, title IX, §§9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
 #### References in Text
 
@@ -255,4 +255,20 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2
 A prior section 1462, Pub. L. 91–230, title VI, §662, as added Pub. L. 99–457, title III, §317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, §702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of this title, prior to repeal by Pub. L. 98–199, §14, Dec. 2, 1983, 97 Stat. 1374.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–95, §9214(d)(4)(C)(i)(I), substituted "personnel, as defined in section 1451(b) of this title, who meet the applicable requirements described in section 1412(a)(14) of this title" for "highly qualified personnel, as defined in section 1451(b) of this title".
+
+Subsec. (a)(5). Pub. L. 114–95, §9214(d)(4)(C)(i)(II), substituted "special education teachers meet the qualifications described in section 1412(a)(14)(C) of this title" for "special education teachers are highly qualified".
+
+Subsec. (b)(2)(A)(viii). Pub. L. 114–95, §9215(ss)(9), substituted "section 6113(d)(1)(A)(ii)" for "section 7113(d)(1)(A)(ii)".
+
+Subsec. (b)(2)(B). Pub. L. 114–95, §9214(d)(4)(C)(ii), substituted "special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified teachers".
+
+Subsec. (c)(4)(B). Pub. L. 114–95, §9214(d)(4)(C)(iii), substituted "personnel who meet the applicable requirements described in section 1412(a)(14) of this title" for "highly qualified personnel".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

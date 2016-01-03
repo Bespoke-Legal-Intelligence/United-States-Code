@@ -12,7 +12,7 @@ The Board shall, by regulation or order, prescribe standards that have the effec
 
 #### (1) In general
 
-&emsp;For purposes of subsection (b) of this section, an insured depository institution's "exposure" to another depository institution means—
+&emsp;For purposes of subsection (b), an insured depository institution's "exposure" to another depository institution means—
 
 &emsp;&emsp;(A) all extensions of credit to the other depository institution, regardless of name or description, including—
 

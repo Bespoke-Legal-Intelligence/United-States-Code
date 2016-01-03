@@ -12,7 +12,7 @@ Use by Red Cross.—Under such conditions as he may prescribe, the Secretary of 
 
 (b)
 
-Use of Certain Facilities as Polling Places.—(1) Notwithstanding chapter 29 of title 18 (including sections 592 and 593 of such title) or any other provision of law, the Secretary of Defense or Secretary of a military department may not (except as provided in paragraph (3)) prohibit the designation or use of a qualifying facility under the jurisdiction of the Secretary as an official polling place for local, State, or Federal elections.
+Use of Certain Facilities as Polling Places.—(1) Notwithstanding chapter 29 of title18 (including sections 592 and 593 of such title) or any other provision of law, the Secretary of Defense or Secretary of a military department may not (except as provided in paragraph (3)) prohibit the designation or use of a qualifying facility under the jurisdiction of the Secretary as an official polling place for local, State, or Federal elections.
 
 (2) A Department of Defense facility is a qualifying facility for purposes of this subsection if as of December 31, 2000—
 

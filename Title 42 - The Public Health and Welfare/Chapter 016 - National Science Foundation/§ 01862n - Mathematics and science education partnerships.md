@@ -112,11 +112,11 @@
 
 &emsp;&emsp;&emsp;(iii) serve teachers who—
 
-&emsp;&emsp;&emsp;&emsp;(I) are considered highly qualified (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]);
+&emsp;&emsp;&emsp;&emsp;(I) are considered highly qualified (as defined in section 9101 <sup>1</sup> of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]);
 
 &emsp;&emsp;&emsp;&emsp;(II) teach high-need subjects in science, technology, engineering, or mathematics; and
 
-&emsp;&emsp;&emsp;&emsp;(III) teach in high-need schools (as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6314(a)(1)\]);
+&emsp;&emsp;&emsp;&emsp;(III) teach in high-need schools (as described in section 1114(a)(1)(A) <sup>1</sup>);
 
 &emsp;&emsp;&emsp;(iv) focus on the priorities developed by the Director in consultation with a broad group of relevant educational organizations;
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(B) the extent to which the members of the partnership are committed to making the partnership a central organizational focus;
 
-&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevantresearch and are likely to result in increased student achievement;
+&emsp;&emsp;(C) the degree to which activities carried out by the partnership are based on relevant research and are likely to result in increased student achievement;
 
 &emsp;&emsp;(D) the degree to which such activities are aligned with State mathematics and science student academic achievement standards;
 
@@ -214,7 +214,7 @@
 
 #### (4) Report on coordination
 
-&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6661 et seq.\]. The report under this paragraph shall be submitted along with the President's annual budget request.
+&emsp;The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request.
 
 #### (5) Technical assistance
 
@@ -232,17 +232,25 @@ In this section—
 
 &emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697.)
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(10)(A)(iii)(I), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to "highly qualified", as defined in section 9101of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of Title 20, Education.
+
+Section 1114(a)(1)(A), referred to in subsec. (a)(10)(A)(iii)(III), probably means section 1114(a)(1)(A) of the Elementary and Secondary Education Act of 1965, which is classified to section 6314(a)(1)(A) of Title 20, Education.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(10)(A)(iii)(III). Pub. L. 114–95, §9215(ggg)(2)(A), which directed substitution of "(as described in section 1114(a)(1)(A))" for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6314(a)(1))" was executed by making the substitution for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)" to reflect the probable intent of Congress.
+
+Subsec. (c)(4). Pub. L. 114–95, §9215(ggg)(2)(B), substituted "other programs with similar purposes" for "the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.)".
 
 <b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted "the department, college, or program of education at an institution of higher education, a State educational agency," for "a State educational agency".
 
@@ -274,6 +282,10 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Findings
 
 Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress finds the following:
@@ -294,11 +306,11 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: "Congress 
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
-Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
+Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to addressand examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
 
 #### Definitions
 
-Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
+Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 114–95, title IX, §9215(ggg)(1), Dec. 10, 2015, 129 Stat. 2186, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
 
 &emsp;"(1)
 
@@ -310,7 +322,7 @@ Board.—The term 'Board' means the National Science Board established under sec
 
 &emsp;"(3)
 
-Community college.—The term 'community college' has the meaning given such term in section 3301(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7011(3)).
+Community college.—The term 'community college' means an institution of higher education as defined in section 101 of the Higher Education Act of 1965 \[20 U.S.C. 1001\] that provides not less than a 2-year degree that is acceptable for full credit toward a bachelor's degree, including institutions of higher education receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 \[probably means Pub. L. 95–471, 25 U.S.C. 1801 et seq.\].
 
 &emsp;"(4)
 
@@ -318,7 +330,7 @@ Director.—The term 'Director' means the Director of the National Science Found
 
 &emsp;"(5)
 
-Elementary school.—The term 'elementary school' has the meaning given that term by section 9101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(18)).
+Elementary school.—The term 'elementary school' has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(6)
 
@@ -348,7 +360,7 @@ Institution of higher education.—The term 'institution of higher education' ha
 
 &emsp;"(10)
 
-Local educational agency.—The term 'local educational agency' has the meaning given such term by section 9101(26) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(26)).
+Local educational agency.—The term 'local educational agency' has the meaning given such term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(11)
 
@@ -370,7 +382,7 @@ National research facility.—The term 'national research facility' means a rese
 
 &emsp;"(13)
 
-Secondary school.—The term 'secondary school' has the meaning given that term by section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38)).
+Secondary school.—The term 'secondary school' has the meaning given that term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(14)
 
@@ -378,9 +390,11 @@ State.—Except with respect to the Experimental Program to Stimulate Competitiv
 
 &emsp;"(15)
 
-State educational agency.—The term 'State educational agency' has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
+State educational agency.—The term 'State educational agency' has the meaning given such term by section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;"(16)
 
 United states.—The term 'United States' means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ Any money realized by proceedings under this subchapter (whether by seizure, by 
 
 #### (3) Liability of delinquent taxpayer
 
-&emsp;The amount, if any, remaining after applying paragraphs (1) and (2) shall then be appliedagainst the liability in respect of which the levy was made or the sale was conducted.
+&emsp;The amount, if any, remaining after applying paragraphs (1) and (2) shall then be applied against the liability in respect of which the levy was made or the sale was conducted.
 
 #### (b) Surplus proceeds
 

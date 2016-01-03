@@ -8,11 +8,11 @@
 
 #### (2) Notice
 
-&emsp;The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b) of this section, the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under section 4112 of this title and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
+&emsp;The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b), the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under section 4112 of this title and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
 
 #### (b) Notice of reasons for determination of noncompliance
 
-If the Secretary determines that a plan, as submitted, does not comply with the requirements under section 4112 of this title, the Secretary shall specify in the notice under subsection (a) of this section the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under section 4112 of this title.
+If the Secretary determines that a plan, as submitted, does not comply with the requirements under section 4112 of this title, the Secretary shall specify in the notice under subsection (a) the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under section 4112 of this title.
 
 #### (c) Review
 
@@ -56,9 +56,9 @@ Subsec. (e). Pub. L. 110–411, §103(2), added subsec. (e) and struck out forme
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Subsec. (b) of this section does not contain a par. (4).</i>
+<i><sup>2</sup></i><i> So in original. Subsec. (b) does not contain a par. (4).</i>
 
-<i><sup>3</sup></i><i> So in original. Subsec. (c) of this section does not contain a par. (7).</i>
+<i><sup>3</sup></i><i> So in original. Subsec. (c) does not contain a par. (7).</i>
 
 <i><sup>4</sup></i><i> So in original. Section 4145a(b) of this title does not contain a par. (2).</i>
 

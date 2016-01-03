@@ -162,7 +162,7 @@ Combined corridor evaluation.—The Agreement should also provide for the Commis
 
 "(b)
 
-Report.—The Agreement should require the Commission to submit to Congress and the Secretary of Transportation and to the Minister of Transport of the Government of Canada, not later than 3 years after the Commission commencement date, a report on the results of the study, including the Commission's findings regarding the feasibility and advisability of linking the rail system in Alaska as described in subsection (a)(1) and the Commission's recommendations regarding thepreferred route and any alternative routes for the rail segment establishing the linkage.
+Report.—The Agreement should require the Commission to submit to Congress and the Secretary of Transportation and to the Minister of Transport of the Government of Canada, not later than 3 years after the Commission commencement date, a report on the results of the study, including the Commission's findings regarding the feasibility and advisability of linking the rail system in Alaska as described in subsection (a)(1) and the Commission's recommendations regarding the preferred route and any alternative routes for the rail segment establishing the linkage.
 
 #### "SEC. 307. COMMENCEMENT AND TERMINATION OF COMMISSION.
 

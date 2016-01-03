@@ -11,11 +11,15 @@
 | [427\.](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md) | Conflict Records Research Center. |
 | [428\.](%C2%A7%2000428%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
 | [429\.](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md) | Appropriations for Defense intelligence elements: accounts for transfers; transfer authority. |
-| [430\.](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md) | Tactical Exploitation of National Capabilities Executive Agent.<sup>1</sup> |
+| [430\.](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md) | Tactical Exploitation of National Capabilities Executive Agent. |
+| [430a.](%C2%A7%2000430a%20-%20Executive%20agent%20for%20management%20and%20oversight%20of%20alternative%20compensatory%20control%20measures.md) | Executive agent for management and oversight of alternative compensatory control measures. |
+| [430b.](%C2%A7%2000430b%20-%20Executive%20agent%20for%20open-source%20intelligence%20tools.md) | Executive agent for open-source intelligence tools. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
 
@@ -49,8 +53,6 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 
 <b>1987</b>—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
 
-<i><sup>1</sup></i><i> Editorially supplied. Section 430 added by Pub. L. 113–291 without corresponding amendment of subchapter analysis.</i>
-
 
 ---
 
@@ -66,3 +68,5 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 - [&sect; 00428 - Defense industrial security](%C2%A7%2000428%20-%20Defense%20industrial%20security.md)
 - [&sect; 00429 - Appropriations for Defense intelligence elements accounts for transfers; transfer authority](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md)
 - [&sect; 00430 - Tactical Exploitation of National Capabilities Executive Agent](%C2%A7%2000430%20-%20Tactical%20Exploitation%20of%20National%20Capabilities%20Executive%20Agent.md)
+- [&sect; 00430a - Executive agent for management and oversight of alternative compensatory control measures](%C2%A7%2000430a%20-%20Executive%20agent%20for%20management%20and%20oversight%20of%20alternative%20compensatory%20control%20measures.md)
+- [&sect; 00430b - Executive agent for open-source intelligence tools](%C2%A7%2000430b%20-%20Executive%20agent%20for%20open-source%20intelligence%20tools.md)

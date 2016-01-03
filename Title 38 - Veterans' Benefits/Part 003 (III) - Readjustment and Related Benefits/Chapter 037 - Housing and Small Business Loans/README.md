@@ -96,7 +96,7 @@
 
 <b>2001</b>—Pub. L. 107–95, §5(g)(2), Dec. 21, 2001, 115 Stat. 918, struck out item 3735 "Housing assistance for homeless veterans", item for subchapter VI "LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS", and items 3771 "Definitions", 3772 "General authority", 3773 "Requirements", 3774 "Default", and 3775 "Audit".
 
-<b>1998</b>—Pub. L. 105–368, title VI, §§601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 "Direct loan revolving fund", 3724 "Loan Guaranty Revolving Fund", and 3725 "Guaranty and Indemnity Fund", substituted "Veterans Housing Benefit Program Fund and housing programs" for "Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund" in item 3734, substituted "Native American Veteran Housing Loan Program Account" for "Housing loan program account" in item 3763, and added item for subchapter VI and items 3771 to 3775.
+<b>1998</b>—Pub. L. 105–368, title VI, §§601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 "Direct loan revolving fund", 3724 "LoanGuaranty Revolving Fund", and 3725 "Guaranty and Indemnity Fund", substituted "Veterans Housing Benefit Program Fund and housing programs" for "Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund" in item 3734, substituted "Native American Veteran Housing Loan Program Account" for "Housing loan program account" in item 3763, and added item for subchapter VI and items 3771 to 3775.
 
 <b>1996</b>—Pub. L. 104–110, title II, §201(a)(2), Feb. 13, 1996, 110 Stat. 770, added item 3736.
 

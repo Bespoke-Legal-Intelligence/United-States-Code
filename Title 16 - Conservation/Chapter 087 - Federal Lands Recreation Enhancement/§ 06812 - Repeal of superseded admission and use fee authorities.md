@@ -24,7 +24,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (1) Land and water conservation fund special accounts
 
-&emsp;Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
+&emsp;Amounts in the special accounts established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for Federal landmanagement agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 4(i)(1) <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 by subsection (a) of this section.
 
 #### (2) National parks passport
 
@@ -46,7 +46,7 @@ A regulation or policy issued under a provision of law repealed by this section 
 
 #### References in Text
 
-Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was section 4 of Pub. L. 88–578, title I, as added Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459, which was classified to former section 460l–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by Pub. L. 104–66, title I, §1081(f), Dec. 21, 1995, 109 Stat. 721. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as section 100904 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
+Section 4 of the Land and Water Conservation Fund Act of 1965, referred to in subsecs. (a) and (e)(1), was section 4 of Pub. L. 88–578, title I, as added by Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459, which was classified to former section 460l–6a of this title. Subsecs. (a) to (g) and (i) (except par. (1)(C)) of section 4 were repealed by subsec. (a) of this section. Subsec. (h) of section 4 was previously repealed by Pub. L. 104–66, title I, §1081(f), Dec. 21, 1995, 109 Stat. 721. Subsecs. (i)(1)(C) and (j) to (n) of section 4 were repealed and restated as section 100904 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
 The date the notice required by section 6804(a)(3) of this title is published in the Federal Register, referred to in subsecs. (a), (d), and (e)(2), is Dec. 19, 2006. See 71 F.R. 75935.
 

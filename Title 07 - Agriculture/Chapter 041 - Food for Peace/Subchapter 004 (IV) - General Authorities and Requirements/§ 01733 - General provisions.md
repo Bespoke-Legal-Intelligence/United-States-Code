@@ -36,7 +36,7 @@ Private trade channels shall be used under this chapter to the maximum extent pr
 
 #### (2) Sale price
 
-&emsp;Sales of agricultural commodities described in paragraph (1) shall be made at a reasonablemarket price in the economy where the agricultural commodity is to be sold, as determined by the Secretary or the Administrator, as appropriate.
+&emsp;Sales of agricultural commodities described in paragraph (1) shall be made at a reasonable market price in the economy where the agricultural commodity is to be sold, as determined by the Secretary or the Administrator, as appropriate.
 
 #### (f) Publicity
 
@@ -120,7 +120,7 @@ Local currencies that are made available for use under this chapter may not be u
 
 &emsp;Not later than 180 days after February 7, 2014, and annually thereafter, the Administrator shall submit to Congress a report that—
 
-&emsp;&emsp;(A) specifies the amount of funds (including funds for administrative costs, indirectcost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
+&emsp;&emsp;(A) specifies the amount of funds (including funds for administrative costs, indirect cost recovery, internal transportation, storage, and handling, and associated distribution costs) provided to each eligible organization that received assistance under this chapter in the previous fiscal year;
 
 &emsp;&emsp;(B) describes how those funds were used by the eligible organization;
 
@@ -174,7 +174,7 @@ Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of s
 
 <b>1977</b>—Pub. L. 95–113 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement of Commodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
+<b>1966</b>—Pub. L. 89–808 substituted provisions for authorization of appropriations, including reimbursement ofCommodity Credit Corporation, and classification of expenditures, formerly covered in former section 1703(a) of this title, for provision for payment for commodities, now provided for by section 1706(a) of this title.
 
 <b>1964</b>—Pub. L. 88–638 substituted "less than the minimum rate required by section 2161 of Title 22 for loans made under that section" for "more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section".
 

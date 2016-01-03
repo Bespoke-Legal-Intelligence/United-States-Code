@@ -10,7 +10,7 @@ The Administrator, in coordination with the States, may provide technical assist
 
 #### (2) Stormwater best management practices
 
-&emsp;The control of pollutants from municipal separate storm sewer systems for the purposeof demonstrating and determining controls that are cost-effective and that use innovative technologies to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite.
+&emsp;The control of pollutants from municipal separate storm sewer systems for the purpose of demonstrating and determining controls that are cost-effective and that use innovative technologies to manage, reduce, treat, recapture, or reuse municipal stormwater, including techniques that utilize infiltration, evapotranspiration, and reuse of stormwater onsite.
 
 #### (3) Watershed partnerships
 

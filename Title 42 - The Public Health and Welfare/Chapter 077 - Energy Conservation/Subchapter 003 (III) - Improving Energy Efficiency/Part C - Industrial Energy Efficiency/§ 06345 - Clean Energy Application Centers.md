@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;In order to better coordinate efforts with the separate Industrial Assessment Centers and to ensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate theadministration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
+&emsp;In order to better coordinate efforts with the separate Industrial Assessment Centers and to ensure that the energy efficiency and, when applicable, the renewable nature of deploying mature clean energy technology is fully accounted for, the Secretary shall relocate the administration of the Clean Energy Application Centers to the Office of Energy Efficiency and Renewable Energy within the Department of Energy.
 
 #### (2) Office of Electricity Delivery and Energy Reliability
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users, regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
 
-&emsp;&emsp;(C) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of clean energy technology;
+&emsp;&emsp;(C) to provide or coordinate onsite assessments for sites and enterprises that mayconsider deployment of clean energy technology;
 
 &emsp;&emsp;(D) to perform market research to identify high profile candidates for clean energy deployment;
 

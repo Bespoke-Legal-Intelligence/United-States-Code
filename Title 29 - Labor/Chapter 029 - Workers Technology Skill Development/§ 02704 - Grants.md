@@ -12,7 +12,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 &emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of the activities that the entity will carry out using amounts received under the grant; and
 
-&emsp;(3) agree to make available (directly or through donations from public or private entities) non-Federal contributions toward the costs of the activities to be conducted with grant funds, in an amount equal to the amount required under subsection (d) of this section.
+&emsp;(3) agree to make available (directly or through donations from public or private entities) non-Federal contributions toward the costs of the activities to be conducted with grant funds, in an amount equal to theamount required under subsection (d) of this section.
 
 #### (c) Use of amounts
 

@@ -20,7 +20,7 @@ Upon a finding of reasonable suspicion that an Indian child has been the subject
 
 #### Change of Name
 
-"Federal magistrate judge" substituted for "Federal magistrate" in subsec. (d) pursuant to section 321 ofPub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"Federal magistrate judge" substituted for "Federal magistrate" in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "advice".</i>
 

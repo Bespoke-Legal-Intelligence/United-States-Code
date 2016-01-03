@@ -2,7 +2,7 @@
 
 #### (a) Investigative jurisdiction over offenses against criminal laws
 
-The Secretary shall have investigative jurisdiction over offenses against criminal laws of the United States in Indian country subject to an agreement between the Secretary and the Attorney General of the United States.
+The Secretary shall have investigative jurisdiction over offenses against criminal laws ofthe United States in Indian country subject to an agreement between the Secretary and the Attorney General of the United States.
 
 #### (b) Exercise of investigative authority
 

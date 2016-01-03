@@ -24,7 +24,7 @@ Nothing in this section shall be construed to modify or otherwise affect any act
 
 #### (e) State initiative
 
-This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997.
+This section shall not apply to a State requirement adopted by a State public initiativeor referendum enacted prior to September 1, 1997.
 
 (June 25, 1938, ch. 675, §752, as added Pub. L. 105–115, title IV, §412(d), Nov. 21, 1997, 111 Stat. 2376.)
 

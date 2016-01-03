@@ -42,7 +42,7 @@ Foreign governments, international organizations and private individuals, firms,
 
 Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title, not to exceed $10,000,000 for the fiscal year ending June 30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
 
-(Pub. L. 87–256, §105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, §203(c), Oct. 29, 1966, 80Stat. 1072; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, §227, Apr. 30, 1994, 108 Stat. 423; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(S), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 87–256, §105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, §203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, §227, Apr. 30, 1994, 108 Stat. 423; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(S), June 18, 2008, 122 Stat. 1820, 1821.)
 
 #### References in Text
 
@@ -78,7 +78,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 
 #### Increase in Grants for Exchange-of-Persons Activities; Funds for Specific Programs, Reductions, Other Use of Funds, Report to Congressional Committees
 
-Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would at least double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
+Pub. L. 97–241, title III, §305(c), (d), Aug. 24, 1982, 96 Stat. 294, provided that the amount obligated by United States Information Agency each fiscal year for grants for exchange-of-persons activities should be increased, through regular annual increases, so that by fiscal year 1986 the amount obligated for such grants would atleast double (in terms of constant dollars) the amount obligated for such grants for fiscal year 1982 and in furtherance of this purpose provided for appropriations for the United States Information Agency for fiscal year 1983.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

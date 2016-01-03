@@ -18,7 +18,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 &emsp;(7) recommendations for new or revised Program goals;
 
-&emsp;(8) recommendations for new research areas, partnerships, coordination and management mechanisms, or programs to be established to achieve the Program's stated goals;
+&emsp;(8) recommendations for new research areas, partnerships, coordination and managementmechanisms, or programs to be established to achieve the Program's stated goals;
 
 &emsp;(9) recommendations on policy, program, and budget changes with respect to nanotechnology research and development activities;
 

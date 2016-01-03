@@ -2,7 +2,7 @@
 
 #### (a) Optional procedure
 
-The provisions of this section shall be applicable only to the conveyance of Federal lands described herein to a Native Corporation whichwithin one hundred and eighty days after December 2, 1980, or the date of eligibility determination, whichever is later, files a document with the Secretary setting forth its election to receive conveyance pursuant to this section.
+The provisions of this section shall be applicable only to the conveyance of Federal lands described herein to a Native Corporation which within one hundred and eighty days after December 2, 1980, or the date of eligibility determination, whichever is later, files a document with the Secretary setting forth its election to receive conveyance pursuant to this section.
 
 #### (b) "Core" townships, etc.
 
@@ -18,7 +18,7 @@ The provisions of this section shall be applicable only to the conveyance of Fed
 
 #### (c) Documents
 
-As soon as possible after December 2, 1980, the Secretary shall issue to each Native Corporation referred to in subsection (b) of this section interim conveyances or patents to the estate or estates conveyed to such Corporation by such subsection, but title shall be deemed to have passed on the date of the filing of a document of election described in subsection (a) of this section, notwithstanding any delay in the issuance of the interim conveyances or patents.
+As soon as possible after December 2, 1980, the Secretary shall issue to each Native Corporation referred to in subsection (b) interim conveyances or patents to the estate or estates conveyed to such Corporation by such subsection, but title shall be deemed to have passed on the date of the filing of a document of election described in subsection (a), notwithstanding any delay in the issuance of the interim conveyances or patents.
 
 #### (d) Reconveyances; disputes
 

@@ -30,7 +30,7 @@
 
 (B) A written statement under subparagraph (A) may not be admissible as evidence in any judicial or administrative proceeding, without the consent of the person who received such statement under subparagraph (A).
 
-(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) from the Special Counsel and—
+(3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, orapplicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) from the Special Counsel and—
 
 &emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
 
@@ -78,7 +78,7 @@
 
 (4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
-(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
+(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure orprotected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
 (ii) Corrective action under clause (i) may not be ordered if, after a finding that a protected disclosure was a contributing factor, the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 

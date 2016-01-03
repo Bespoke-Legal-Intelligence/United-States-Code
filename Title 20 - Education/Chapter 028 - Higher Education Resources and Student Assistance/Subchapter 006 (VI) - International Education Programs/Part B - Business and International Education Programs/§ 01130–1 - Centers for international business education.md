@@ -128,7 +128,7 @@ Grants under this section shall be made on such conditions as the Secretary dete
 
 &emsp;(1) evidence that the institution of higher education, or consortium of such institutions, will conduct extensive planning prior to the establishment of a center concerning the scope of the center's activities and the design of its programs in accordance with subsection (d)(1) of this section;
 
-&emsp;(2) assurance of ongoing collaboration in the establishment and operation of the center byfaculty of the business, management, foreign language, international studies, professional international affairs, and other professional schools or departments, as appropriate;
+&emsp;(2) assurance of ongoing collaboration in the establishment and operation of the center by faculty of the business, management, foreign language, international studies, professional international affairs, and other professional schools or departments, as appropriate;
 
 &emsp;(3) assurance that the education and training programs of the center will be open to students concentrating in each of these respective areas, as appropriate, and that diverse perspectives will be made available to students in programs under this section; and
 

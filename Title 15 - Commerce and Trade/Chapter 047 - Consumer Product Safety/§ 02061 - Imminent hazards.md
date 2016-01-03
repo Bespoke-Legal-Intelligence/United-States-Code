@@ -2,11 +2,11 @@
 
 #### (a) Filing of action
 
-The Commission may file in a United States district court an action (1) against an imminently hazardous consumer product for seizure of such product under subsection (b)(2) of this section, or (2) against any person who is a manufacturer, distributor, or retailer of such product, or (3) against both. Such an action may be filed notwithstanding the existence of a consumer product safety rule applicable to such product, or the pendency of any administrative or judicial proceedings under any other provision of this chapter. As used in this section, and hereinafter in this chapter, the term "imminently hazardous consumer product" means a consumer product which presents imminent and unreasonable risk of death, serious illness, or severe personal injury.
+The Commission may file in a United States district court an action (1) against an imminently hazardous consumer product for seizure of such product under subsection (b)(2), or (2) against any person who is a manufacturer, distributor, or retailer of such product, or (3) against both. Such an action may be filed notwithstanding the existence of a consumer product safety rule applicable to such product, or the pendency of any administrative or judicial proceedings under any other provision of this chapter. As used in this section, and hereinafter in this chapter, the term "imminently hazardous consumer product" means a consumer product which presents imminent and unreasonable risk of death, serious illness, or severe personal injury.
 
 #### (b) Relief; product condemnation and seizure
 
-(1) The district court in which such action is filed shall have jurisdiction to declare suchproduct an imminently hazardous consumer product, and (in the case of an action under subsection (a)(2) of this section) to grant (as ancillary to such declaration or in lieu thereof) such temporary or permanent relief as may be necessary to protect the public from such risk. Such relief may include a mandatory order requiring the notification of such risk to purchasers of such product known to the defendant, public notice, the recall, the repair or the replacement of, or refund for, such product.
+(1) The district court in which such action is filed shall have jurisdiction to declare such product an imminently hazardous consumerproduct, and (in the case of an action under subsection (a)(2) of this section) to grant (as ancillary to such declaration or in lieu thereof) such temporary or permanent relief as may be necessary to protect the public from such risk. Such relief may include a mandatory order requiring the notification of such risk to purchasers of such product known to the defendant, public notice, the recall, the repair or the replacement of, or refund for, such product.
 
 (2) In the case of an action under subsection (a)(1) of this section, the consumer product may be proceeded against by process of libel for the seizure and condemnation of such product in any United States district court within the jurisdiction of which such consumer product is found. Proceedings and cases instituted under the authority of the preceding sentence shall conform as nearly as possible to proceedings in rem in admiralty.
 
@@ -40,5 +40,5 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "(f)".</i>
+<i><sup>1</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
 

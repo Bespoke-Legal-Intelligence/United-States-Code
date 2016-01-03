@@ -20,7 +20,7 @@
 
 #### (ii) Carryover
 
-&emsp;&emsp;&emsp;If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(1)) exceeds the limitation of clause (i), suchexcess shall be added to the excess described in the portion of subparagraph (A) of such section which precedes clause (i) thereof for purposes of applying such section.
+&emsp;&emsp;&emsp;If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(1)) exceeds the limitation of clause (i), such excess shall be added to the excess described in the portion of subparagraph (A) of such section which precedes clause (i) thereof for purposes of applying such section.
 
 #### (B) Corporations
 

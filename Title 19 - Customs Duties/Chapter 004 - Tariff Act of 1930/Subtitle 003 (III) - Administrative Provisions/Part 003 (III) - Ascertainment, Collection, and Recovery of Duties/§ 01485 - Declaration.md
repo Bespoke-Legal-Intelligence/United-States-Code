@@ -18,7 +18,7 @@ The Secretary of the Treasury is authorized to prescribe regulations for one dec
 
 #### (c) Agents
 
-In the event that an entry is made by an agent under the provisions of section 1484 of this titleand such agent is not in possession of such declaration of the importer of record, such agent shall give a bond to produce such declaration.
+In the event that an entry is made by an agent under the provisions of section 1484 of this title and such agent is not in possession of such declaration of the importer of record, such agent shall give a bond to produce such declaration.
 
 #### (d) Liability of importer of record for increased duties
 
@@ -56,7 +56,7 @@ The provisions for the abolition of fees and oaths on entry of goods, made by th
 
 Act May 1, 1876, ch. 89, §2, 19 Stat. 49, modifying the form of oath prescribed by R.S. §2841, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-R.S. §2849, relative to oaths when merchandise belonged in part to a resident of the United States and in part to a non-resident was superseded in part by the Customs Administrative Act of June 10, 1890, ch. 407, §§5, 22, 29, 26 Stat. 132, 140, 141, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, 104, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, B–J, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2849, relative to oaths when merchandise belonged in part to a resident of the United States and in part to a non-resident was superseded in part by the Customs Administrative Act of June 10, 1890, ch. 407, §§5, 22, 29, 26 Stat. 132, 140, 141, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 92, 102, 104, and further amended by the Underwood TariffAct of Oct. 3, 1913, ch. 16, §III, B–J, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 Prior provisions requiring a bond to be taken when entry was made by an agent, factor, or person other than the owner or ultimate consignee, and prescribing the conditions, etc., of the bond, and the circumstances under which it might be canceled with a proviso authorizing the taking of a general penal bond, were contained in R.S. §2787, as amended by act Mar. 2, 1905, ch. 1306, 33 Stat. 826, which was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 

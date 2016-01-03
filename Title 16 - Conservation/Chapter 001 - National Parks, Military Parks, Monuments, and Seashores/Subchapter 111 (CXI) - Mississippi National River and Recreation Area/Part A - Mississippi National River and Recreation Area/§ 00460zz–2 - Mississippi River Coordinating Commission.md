@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a Mississippi River Coordinating Commission whose purpose shall be to assist Federal, State, and local authorities in the development and implementation of an integrated resource management plan for those lands and waters as specified in section 460zz–1 of this title. The Commission shall consist of the following 22 members appointed by the Secretary of the Interior:
+There is hereby established a Mississippi River Coordinating Commission whose purpose shall be to assist Federal, State, and local authorities in the development and implementation of anintegrated resource management plan for those lands and waters as specified in section 460zz–1 of this title. The Commission shall consist of the following 22 members appointed by the Secretary of the Interior:
 
 &emsp;(1) The Director of the National Park Service, or his designee.
 
@@ -32,15 +32,15 @@ There is hereby established a Mississippi River Coordinating Commission whose pu
 
 (2) Of the members first appointed—
 
-&emsp;(A) Under paragraph (4) of subsection (a) of this section:
+&emsp;(A) Under paragraph (4) of subsection (a):
 
 &emsp;&emsp;(i) One shall be appointed for a term of one year.
 
 &emsp;&emsp;(ii) One shall be appointed for a term of two years.
 
-&emsp;(B) Under paragraphs (7) and (8) of subsection (a) of this section, one shall be appointed for a term of one year.
+&emsp;(B) Under paragraphs (7) and (8) of subsection (a), one shall be appointed for a term of one year.
 
-&emsp;(C) Under paragraph (11) of subsection (a) of this section:
+&emsp;(C) Under paragraph (11) of subsection (a):
 
 &emsp;&emsp;(i) One shall be appointed for a term of one year.
 
@@ -84,7 +84,7 @@ The Secretary shall provide the Commission with such staff and technical assista
 
 #### (i) Plan
 
-Within 3 years after appointment of the full membership of the Commission, the Commission shall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans to present a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
+Within 3 years after appointment of the full membership of the Commission, the Commission shall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans topresent a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
 
 &emsp;(1) A program for management of existing and future land and water use which—
 
@@ -118,7 +118,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 #### (k) Approval of plan
 
-The Commission shall submit the plan to the Secretary and the Governor of Minnesota, for their review. The Governor shall act on the planwithin 90 days and shall submit the plan to the Secretary along with any recommendations. The Secretary shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
+The Commission shall submit the plan to the Secretary and the Governor of Minnesota, for their review. The Governor shall act on the plan within 90 days and shall submit the plan to the Secretary along with any recommendations. The Secretary shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
 
 &emsp;(1) The adequacy of public participation.
 
@@ -136,13 +136,13 @@ Prior to the adoption of the Commission's plan, the Secretary and the Commission
 
 #### (m) Commission review
 
-The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commission may, after providing, for public comment and subject to the review and approval, as set forth in subsection (k) of this section, modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
+The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commission may, after providing, for public comment and subject to the review and approval, as set forth in subsection (k), modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
 
 #### (n) Termination of Commission
 
-The Commission shall terminate on the date 10 years after November 18, 1988. Following termination of the Commission the State is authorized to establish a State Commission which shall exercise the functions and authorities described in subsection (m) of this section. The Secretary of the Interior and the Secretary of the Army are authorized and directed to participate as members of such State Commission.
+The Commission shall terminate on the date 10 years after November 18, 1988. Following termination of the Commission the State is authorized to establish a State Commission which shall exercise the functions and authorities described in subsection (m). The Secretary of the Interior and the Secretary of the Army are authorized and directed to participate as members of such State Commission.
 
-(Pub. L. 100–696, title VII, §703, Nov. 18, 1988, 102 Stat. 4600; Pub. L. 101–40, §4(2), June 20, 1989, 103 Stat. 82; Pub. L. 102–525, title III, §302, Oct. 26, 1992, 106 Stat. 3441.)
+(Pub. L. 100–696, title VII, §703, Nov. 18, 1988, 102 Stat. 4600; Pub. L. 101–40, §4(2), June 20, 1989, 103Stat. 82; Pub. L. 102–525, title III, §302, Oct. 26, 1992, 106 Stat. 3441.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(1) The identity of the creditor required to make disclosure.
 
-&emsp;(2)(A) The "amount financed", using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
+&emsp;(2)(A) The "amount financed", using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1):
 
 &emsp;&emsp;(i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide astatement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -60,7 +60,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.
 
-&emsp;(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.
+&emsp;(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and theamount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.
 
 &emsp;(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.
 
@@ -68,9 +68,9 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 #### (b) Form and timing of disclosures; residential mortgage transaction requirements
 
-(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
+(1) Except as otherwise provided in this part, the disclosures required under subsection (a) shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
-(2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
+(2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
 (B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
 
@@ -106,7 +106,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
-(3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
+(3) In the case of a credit transaction described in paragraph (15) of subsection (a), disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
 
 (4)
 
@@ -122,13 +122,13 @@ Assessment value.—The amount taken into account under subparagraph (A) for the
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
-(1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor's catalog or other printed material distributed to the public, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor's catalog or other printed material distributed to the public, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
-(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 
-If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
 #### (e) Terms and disclosure with respect to private education loans
 
@@ -150,7 +150,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(G) the term of the private education loan;
 
-&emsp;&emsp;(H) whether interest will accrue while the student to whom the private education loan relates is enrolled at a covered educational institution;
+&emsp;&emsp;(H) whether interest will accrue while the student to whom the private education loanrelates is enrolled at a covered educational institution;
 
 &emsp;&emsp;(I) payment deferral options;
 
@@ -220,7 +220,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) \[and 42 U.S.C. 2751 et seq.\];
 
-&emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
+&emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to theextent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
 
 &emsp;&emsp;(P) such other information as the Bureau shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
 
@@ -298,7 +298,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by adate determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 #### (f) Periodic statements for residential mortgage loans
 
@@ -402,7 +402,7 @@ Pub. L. 110–289, div. B, title V, §2502(c), July 30, 2008, 122 Stat. 2857, pr
 
 "(1)
 
-General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a)\[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
+General disclosures.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall become effective 12 months after the date of enactment of this Act \[July 30, 2008\].
 
 "(2)
 

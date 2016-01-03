@@ -68,7 +68,7 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 #### (3) Commercial revitalization agency
 
-&emsp;For purposes of this section, the term "commercial revitalization agency" means any agency authorized by a State to carry out this section.
+&emsp;For purposes of this section, the term "commercial revitalization agency" means anyagency authorized by a State to carry out this section.
 
 #### (4) Time and manner of allocations
 
@@ -126,5 +126,5 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 This section shall not apply to any building placed in service after December 31, 2009.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–596.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-596.)
 

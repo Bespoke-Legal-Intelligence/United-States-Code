@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;A contract market, derivatives transaction execution facility, or electronic trading facility with respect to a significant price discovery contract may comply with any applicablecore principle through delegation of any relevant function to a registered futures association or a registered entity that is not an electronic trading facility.
+&emsp;A contract market, derivatives transaction execution facility, or electronic trading facility with respect to a significant price discovery contract may comply with any applicable core principle through delegation of any relevant function to a registered futures association or a registered entity that is not an electronic trading facility.
 
 #### (2) Responsibility
 
@@ -74,7 +74,7 @@
 
 #### (i) Event contracts
 
-&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in theprice, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps inexcluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) activity that is unlawful under any Federal or State law;
 

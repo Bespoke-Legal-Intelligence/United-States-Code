@@ -136,7 +136,7 @@ A prior section 217 was renumbered section 224 of this title.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term "moving expenses", par. (2) which defined "qualified residence sale, purchase, or lease expenses", and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and\(B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term "moving expenses", par. (2) which defined "qualified residence sale, purchase, or lease expenses", and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
 
 Subsec. (c)(1). Pub. L. 103–66, §13213(b), substituted "50 miles" for "35 miles" in subpars. (A) and (B).
 
@@ -212,5 +212,5 @@ Pub. L. 93–490, §2, Oct. 26, 1974, 88 Stat. 1466, authorized the Secretary of
 
 &emsp;(2) permit any taxpayer who was a member of the armed forces not to include in adjusted gross income the amount of any reimbursement in kind of moving expenses made by the Secretary concerned; and
 
-&emsp;(3) permit any taxpayer who was a member of the armed forces to deduct any amount paid by him as moving expenses in connection with any move required by the Secretary concerned, in excess of any reimbursement received for such expenses, without regard to the provisions of subsec. (c) of this section, to the extent it was otherwise deductible under this section.
+&emsp;(3) permit any taxpayer who was a member of the armed forces to deduct any amount paid by him as moving expenses in connection with any move required by the Secretary concerned, in excess of any reimbursement received for such expenses, withoutregard to the provisions of subsec. (c) of this section, to the extent it was otherwise deductible under this section.
 

@@ -26,7 +26,7 @@
 
 #### (b) Abandonment
 
-(1) Except as provided in subsections (c) and (f) of this section, rail properties over which rail service has been discontinued under subsection (a) of this section may not be abandoned sooner than 120 days after the effective date of the discontinuance. Thereafter, except as provided in subsection (c) of this section, such rail properties may be abandoned upon 30 days' notice in writing to any person (including a government entity) required to receive notice under subsection (a)(1)(C) of this section.
+(1) Except as provided in subsections (c) and (f) of this section, rail properties over which railservice has been discontinued under subsection (a) of this section may not be abandoned sooner than 120 days after the effective date of the discontinuance. Thereafter, except as provided in subsection (c) of this section, such rail properties may be abandoned upon 30 days' notice in writing to any person (including a government entity) required to receive notice under subsection (a)(1)(C) of this section.
 
 (2) In any case in which rail properties proposed to be abandoned under this section are designated by the final system plan as rail properties which are suitable for use for other public purposes (including roads or highways, other forms of mass transportation, conservation, and recreation), such rail properties shall not be sold, leased, exchanged, or otherwise disposed of during the 240-day period beginning on the date of notice of proposed abandonment under this section unless such rail properties have first been offered, upon reasonable terms, for acquisition for public purposes.
 
@@ -82,7 +82,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 &emsp;(B) a State (or a local or regional transportation authority) has not, by the end of such 180-day mandatory operation period, offered a rail service continuation payment pursuant to subsection (c)(2)(A) of this section;
 
-&emsp;(C) an applicable rail service continuation payment pursuant to such subsection (c)(2)(A) of this section is not paid when it is due; or
+&emsp;(C) an applicable rail service continuation payment pursuant to such subsection (c)(2)(A) is not paid when it is due; or
 
 &emsp;(D) a payment required under a lease or agreement, pursuant to section 743(b)(2) of this title or subsection (c)(2)(B) of this section, is not paid when it is due,
 
@@ -104,7 +104,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 (B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) <sup>1</sup> of the Federal Transit Act.
 
-(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning ofthe term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
+(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree ofpassenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
 
 (D) If a dispute arises with respect to the application of any such regulations, the parties to such dispute may submit such dispute to arbitration by a third party. If the parties are unable to agree upon the selection of an arbitrator, the Chairman of the Commission shall serve in that capacity (except as to matters required to be decided by the Commission, pursuant to section 562(a) of this title).
 
@@ -124,7 +124,7 @@ If an offer to purchase is made under subsection (c)(2)(C) of this section, such
 
 #### (g) Abandonment by Corporation
 
-After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if the Corporation or a subsidiary thereof can demonstrate that no State (or local or regionaltransportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of part A of subtitle IV of title 49.
+After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if theCorporation or a subsidiary thereof can demonstrate that no State (or local or regional transportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of part A of subtitle IV of title 49.
 
 #### (h) Interim abandonment
 
@@ -182,7 +182,7 @@ Subsec. (g). Pub. L. 104–88, §327(3)(G), substituted "part A of subtitle IV o
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–607 added subpar. (C) of par. (4) and pars. (7) and (8).
 
-Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not under the jurisdiction of the Interstate Commerce Commission.
+Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not underthe jurisdiction of the Interstate Commerce Commission.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–210, §804, redesignated existing provisions as par. (1) and inserted provision relating to applicability to a railroad in reorganization in the region, or of a person leased, operated, or controlled by such a railroad, in subpar. (B) inserted provision relating to notice on the date of any conveyance ordered by the special court, and in subpar. (C) inserted requirement that notice be sent to the Commission and substituted reference to the chief executive officer for reference to the Governor, and added par. (2).
 
@@ -216,7 +216,7 @@ Pub. L. 104–287, §6(f)(4)(A), Oct. 11, 1996, 110 Stat. 3399, provided that th
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1976 Amendment
 
@@ -228,7 +228,7 @@ Special court abolished and all jurisdiction and functions transferred to United
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

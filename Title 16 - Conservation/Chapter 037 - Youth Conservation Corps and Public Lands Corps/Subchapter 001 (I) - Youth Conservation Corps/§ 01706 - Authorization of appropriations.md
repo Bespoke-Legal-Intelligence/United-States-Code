@@ -8,7 +8,7 @@ There are authorized to be appropriated amounts not to exceed $60,000,000 for ea
 
 <b>1993</b>—Pub. L. 103–82, §105(2), substituted "subchapter" for "chapter" in two places.
 
-<b>1974</b>—Pub. L. 93–408 substituted authorization of appropriation of amount not exceeding $60,000,000 for each fiscal year for authorization of appropriation of amounts not exceeding $30,000,000 for fiscal year endingJune 30, 1973 and $60,000,000 for fiscal year ending June 30, 1974.
+<b>1974</b>—Pub. L. 93–408 substituted authorization of appropriation of amount not exceeding $60,000,000 for each fiscal year for authorization of appropriation of amounts not exceeding $30,000,000 for fiscal year ending June 30, 1973 and $60,000,000 for fiscal year ending June 30, 1974.
 
 #### Effective Date of 1993 Amendment
 

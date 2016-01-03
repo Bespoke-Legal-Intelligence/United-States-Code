@@ -4,7 +4,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term "beneficiary country" means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
+&emsp;(1) The term "beneficiary country" means any country listed in subsection (b)(1) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
 
 &emsp;(2) The term "entered" means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (b) Countries eligible for designation; congressional notification
 
-(1) In designating countries as beneficiary countries under this chapter, the President shall consider only the following countries or successor political entities:
+(1) In designating countries as beneficiary countries under this chapter, the President shallconsider only the following countries or successor political entities:
 
 &emsp;Bolivia
 
@@ -46,7 +46,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -134,7 +134,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Not later than June 30, 2010, and annually thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
-&emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+&emsp;&emsp;(A) with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
 &emsp;&emsp;(B) the performance of each beneficiary country or ATPEA <sup>2</sup> beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title.
 
@@ -160,7 +160,7 @@ This chapter, referred to in subsec. (d)(12), was in the original "this Act" and
 
 <b>2002</b>—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (f). Pub. L. 107–210, §3103(e), substituted "Reporting requirements" for "Report" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter."
+Subsec. (f). Pub. L. 107–210, §3103(e), substituted "Reporting requirements" for "Report" in heading and amended text generally. Prior to amendment, text read as follows: "Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and\(d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter."
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–200 substituted "Report" for "Triennial report" in heading and "Not later than January 31, 2001" for "On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991" in text.
 
@@ -194,7 +194,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 "(2)
 
-Content of regulations.—The regulations shall be similar to the regulations regarding eligibilityunder the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews."
+Content of regulations.—The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews."
 
 \[For delegation of functions of President under section 3103(d) of Pub. L. 107–210, set out above, see section 2(a) of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.\]
 

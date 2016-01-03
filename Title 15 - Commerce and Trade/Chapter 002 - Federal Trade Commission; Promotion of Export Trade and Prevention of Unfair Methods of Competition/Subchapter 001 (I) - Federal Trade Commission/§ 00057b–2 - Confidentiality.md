@@ -18,7 +18,7 @@ For purposes of this section:
 
 (3)(A) The custodian to whom any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony are delivered shall take physical possession of such material, reports or answers, and transcripts, and shall be responsible for the use made of such material, reports or answers, and transcripts, and for the return of material, pursuant to the requirements of this section.
 
-(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, andtranscripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
+(B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
 (C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
 
@@ -52,7 +52,7 @@ For purposes of this section:
 
 &emsp;(C) the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
 
-&emsp;(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+&emsp;(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
 
 > Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 
@@ -60,13 +60,13 @@ For purposes of this section:
 
 &emsp;(A) designate under paragraph (2)(A) another duly authorized agent to serve as custodian of such material; and
 
-&emsp;(B) transmit in writing to the person who produced the material or testimony notice as to the identity and address of the successor so designated.
+&emsp;(B) transmit in writing to the person who produced the material or testimony notice asto the identity and address of the successor so designated.
 
 > Any successor designated under paragraph (2)(A) as a result of the requirements of this paragraph shall have (with regard to the material involved) all duties and responsibilities imposed by this section upon his predecessor in office with regard to such material, except that he shall not be held responsible for any default or dereliction which occurred before his designation.
 
 #### (c) Information considered confidential
 
-(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
+(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 #### (d) Particular disclosures allowed
 
-(1) The provisions of subsection (c) of this section shall not be construed to prohibit—
+(1) The provisions of subsection (c) shall not be construed to prohibit—
 
 &emsp;(A) the disclosure of information to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider;
 
@@ -100,7 +100,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not berequired to disclose under section 552 of title 5 or any other provision of law—
+&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
 
 &emsp;&emsp;&emsp;(i) any material obtained from a foreign law enforcement agency or other foreign government agency, if the foreign law enforcement agency or other foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
@@ -110,7 +110,7 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 #### (B) Savings provision
 
-&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
+&emsp;&emsp;Nothing in this subsection shall authorize the Commission to withhold informationfrom the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
 (Sept. 26, 1914, ch. 311, §21, as added Pub. L. 96–252, §14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, §8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 

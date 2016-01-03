@@ -16,7 +16,7 @@ In any case in which the Bureau of Justice Assistance (hereinafter in this subch
 
 &emsp;&emsp;(B) if there is no individual qualifying under subparagraph (A), to the surviving individual (or individuals, in equal shares) designated by the public safety officer to receive benefits under the most recently executed life insurance policy of the public safety officer on file at the time of death with the public safety agency, organization, or unit;
 
-&emsp;(5) if there is no individual qualifying under paragraph (1), (2), (3), or (4), to the survivingparent (or parents, in equal shares) of the public safety officer; or
+&emsp;(5) if there is no individual qualifying under paragraph (1), (2), (3), or (4), to the surviving parent (or parents, in equal shares) of the public safety officer; or
 
 &emsp;(6) if there is no individual qualifying under paragraph (1), (2), (3), (4), or (5), to the surviving individual (or individuals, in equal shares) who would qualify under the definition of the term "child" under section 3796b of this title but for age.
 
@@ -112,7 +112,7 @@ A prior section 3796, Pub. L. 90–351, title I, §1201, as added Pub. L. 96–1
 
 Another prior section 3796, Pub. L. 90–351, title I, §701, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1346, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
+A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix toTitle 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
 

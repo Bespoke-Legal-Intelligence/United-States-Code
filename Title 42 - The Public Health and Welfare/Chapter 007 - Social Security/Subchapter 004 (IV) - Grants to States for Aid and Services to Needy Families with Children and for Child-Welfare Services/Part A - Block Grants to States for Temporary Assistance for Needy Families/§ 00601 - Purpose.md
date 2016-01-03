@@ -114,7 +114,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &emsp;&emsp;&emsp;"(iii)
 
-Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term 'obligations of the Federal Government to the State under part A of title IV of the Social Security Act' does not include any obligation of the Federal Governmentwith respect to child care expenditures by the State.
+Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term 'obligations of the Federal Government to the State under part A of title IV of the Social Security Act' does not include any obligation of the Federal Government with respect to child care expenditures by the State.
 
 &emsp;&emsp;"(C)
 
@@ -182,7 +182,7 @@ Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that:
 
 &emsp;"(3) Promotion of responsible fatherhood and motherhood is integral to successful child rearing and the well-being of children.
 
-&emsp;"(4) In 1992, only 54 percent of single-parent families with children had a child support order established and, of that 54 percent, only about one-half received the full amount due. Of the cases enforced through the public child support enforcement system, only 18 percent of the caseload has a collection.
+&emsp;"(4) In 1992, only 54 percent of single-parent families with children had a child support order established and, of that 54 percent, only about one-half received the full amount due. Of the cases enforcedthrough the public child support enforcement system, only 18 percent of the caseload has a collection.
 
 &emsp;"(5) The number of individuals receiving aid to families with dependent children (in this section referred to as 'AFDC') has more than tripled since 1965. More than two-thirds of these recipients are children. Eighty-nine percent of children receiving AFDC benefits now live in homes in which no father is present.
 

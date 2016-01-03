@@ -84,7 +84,7 @@ Subsec. (a)(3). Pub. L. 112–239, §504(2), added par. (3).
 
 "(B) A regular Army warrant officer in a warrant officer grade below the grade of chief warrant officer, W–5, who completes 24 years of active service as a warrant officer before he is required to be retired under paragraph (1) shall be retired 60 days after the date on which he completes 24 years of active service as a warrant officer, except as provided by section 8301 of title 5."
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1), substituted "Except as providedin paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)" for "A permanent regular warrant officer", and added par. (2).
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5)" for "A permanent regular warrant officer", and added par. (2).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "8301" for "47a".
 

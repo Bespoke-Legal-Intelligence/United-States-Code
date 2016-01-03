@@ -2,7 +2,7 @@
 
 #### (a) Penalties for persons violating quarantine laws
 
-Any person who violates any regulation prescribed under sections 264 to 266 of this title, or any provision of section 269 of this title or any regulation prescribed thereunder, or who enters or departs from the limits of any quarantine station, ground, or anchorage in disregard of quarantine rules and regulations or without permission of the quarantine officer in charge, shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+Any person who violates any regulation prescribed under sections 264 to 266 of this title, orany provision of section 269 of this title or any regulation prescribed thereunder, or who enters or departs from the limits of any quarantine station, ground, or anchorage in disregard of quarantine rules and regulations or without permission of the quarantine officer in charge, shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 #### (b) Penalties for vessels violating quarantine laws
 
@@ -12,7 +12,7 @@ Any vessel which violates section 269 of this title, or any regulations thereund
 
 With the approval of the Secretary, the Surgeon General may, upon application therefor, remit or mitigate any forfeiture provided for under subsection (b) of this section, and he shall have authority to ascertain the facts upon all such applications.
 
-(July 1, 1944, ch. 373, title III, §368, 58 Stat. 706; June 25, 1948, ch. 646, §1, 62 Stat. 909; 1953 Reorg.Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
+(July 1, 1944, ch. 373, title III, §368, 58 Stat. 706; June 25, 1948, ch. 646, §1, 62 Stat. 909; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 
 #### Change of Name
 

@@ -42,7 +42,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
+&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the firstday of the plan year (or if later, the effective date of the amendment), upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to—
 
 &emsp;&emsp;(A) in the case of paragraph (1)(A), the amount of the increase in the funding target of the plan (under section 430) for the plan year attributable to the amendment, and
 
@@ -106,7 +106,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (2) Exemption
 
-&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 430) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
+&emsp;Paragraph (1) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition toany minimum required contribution under section 430) equal to the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
 #### (f) Rules relating to contributions required to avoid benefit limitations
 
@@ -176,7 +176,7 @@ Subsections (b), (c), and (e) shall not apply to a plan for the first 5 plan yea
 
 &emsp;In any case in which—
 
-&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
+&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a planwith respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
 
 &emsp;&emsp;(B) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 

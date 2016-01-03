@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may withhold from public disclosure operational filesdescribed in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 (50 U.S.C. 3141).
+Authority.—The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 (50 U.S.C. 3141).
 
 (b)
 

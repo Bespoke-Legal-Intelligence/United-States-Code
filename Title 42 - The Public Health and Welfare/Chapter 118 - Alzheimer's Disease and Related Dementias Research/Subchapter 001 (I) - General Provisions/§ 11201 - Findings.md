@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) best estimates indicate that between 2,000,000 and 3,000,000 Americans presently have Alzheimer's disease or related dementias;
 
-&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and related dementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
+&emsp;(2) estimates of the number of individuals afflicted with Alzheimer's disease and relateddementias are unreliable because current diagnostic procedures lack accuracy and sensitivity and because there is a need for epidemiological data on incidence and prevalence of such disease and dementias;
 
 &emsp;(3) studies estimate that between one-half and two-thirds of patients in nursing homes meet the clinical and mental status criteria for dementia;
 
@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) progress in the neurosciences and behavioral sciences has demonstrated the interdependence and mutual reinforcement of basic science, clinical research, and services research for Alzheimer's disease and related dementias;
 
-&emsp;(6) programs initiated as part of the Decade of the Brain are likely to provide significant progress in understanding the fundamental mechanisms underlying the causes of, andtreatments for, Alzheimer's disease and related dementias;
+&emsp;(6) programs initiated as part of the Decade of the Brain are likely to provide significant progress in understanding the fundamental mechanisms underlying the causes of, and treatments for, Alzheimer's disease and related dementias;
 
 &emsp;(7) although substantial progress has been made in recent years in identifying possible leads to the causes of Alzheimer's disease and related dementias, and more progress can be expected in the near future, there is little likelihood of a breakthrough in the immediate future that would eliminate or substantially reduce—
 

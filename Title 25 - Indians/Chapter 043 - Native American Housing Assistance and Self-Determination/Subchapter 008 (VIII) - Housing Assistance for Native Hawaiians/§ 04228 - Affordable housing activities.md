@@ -58,7 +58,7 @@
 
 #### (ii) Application
 
-&emsp;&emsp;&emsp;In any case in which a housing plan provides for preference described in clause (i), the Director shall ensure that housing activities that are assisted with grant amounts under this subchapter are subject to that preference.
+&emsp;&emsp;&emsp;In any case in which a housing plan provides for preference described in clause (i),the Director shall ensure that housing activities that are assisted with grant amounts under this subchapter are subject to that preference.
 
 #### (E) Use of nonprofit organizations
 

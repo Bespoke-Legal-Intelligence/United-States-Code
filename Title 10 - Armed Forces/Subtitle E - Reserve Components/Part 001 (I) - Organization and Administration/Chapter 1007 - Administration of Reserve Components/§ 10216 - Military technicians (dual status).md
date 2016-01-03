@@ -168,7 +168,7 @@ Subsecs. (d), (e). Pub. L. 105–85, §522(b), added subsecs. (d) and (e) and st
 
 "(d)
 
-Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called 'dual-status' technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a member of the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards."
+Dual-Status Requirement.—The Secretary of Defense shall require the Secretary of the Army and the Secretary of the Air Force to establish as a condition of employment for each individual who is hired after February 10, 1996, as a military technician that the individual maintain membership in the Selected Reserve (so as to be a so-called 'dual-status' technician) and shall require that the civilian and military position skill requirements of dual-status military technicians be compatible. No Department of Defense funds may be spent for compensation for any military technician hired after February 10, 1996, who is not a memberof the Selected Reserve, except that compensation may be paid for up to six months following loss of membership in the Selected Reserve if such loss of membership was not due to the failure to meet military standards."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1214(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -187,4 +187,24 @@ Subsec. (d). Pub. L. 104–201, §1214(1), redesignated subsec. (c) as (d).
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title V, §513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: "The Secretary of the Army shall implement subsection (f) of section 10216 of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\]."
+
+#### Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions
+
+Pub. L. 114–92, div. A, title X, §1053(a), Nov. 25, 2015, 129 Stat. 981, provided that:
+
+"(1)
+
+In general.—The Secretary of Defense shall convert not fewer than 20 percent of the positions described in paragraph (2) as of January 1, 2017, from military technician (dual status) positions to positions filled by individuals who are employed under section 3101 of title 5, United States Code, and are not military technicians.
+
+"(2)
+
+Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:
+
+&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations in the report of the Secretary of Defense under section 519 of the National Defense Authorization Act for Fiscal Year 2011 (Public Law 112–81; 125 Stat. 1397).
+
+&emsp;"(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection.
+
+"(3)
+
+Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary may fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures."
 

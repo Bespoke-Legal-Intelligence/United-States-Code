@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the deathof the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2) of this section, to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -56,7 +56,7 @@ Each pension plan to which this section applies shall provide that—
 
 (2) Each plan shall provide that an election under paragraph (1)(A)(i) shall not take effect unless—
 
-&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by the spouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
+&emsp;(A)(i) the spouse of the participant consents in writing to such election, (ii) such election designates a beneficiary (or a form of benefits) which may not be changed without spousal consent (or the consent of the spouse expressly permits designations by the participant without any requirement of further consent by thespouse), and (iii) the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or
 
 &emsp;(B) it is established to the satisfaction of a plan representative that the consent required under subparagraph (A) may not be obtained because there is no spouse, because the spouse cannot be located, or because of such other circumstances as the Secretary of the Treasury may by regulations prescribe.
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefitis to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 &emsp;(3) The term "earliest retirement age" means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
@@ -422,7 +422,7 @@ Amendment by sections 7861(d)(2) and 7862(d)(1)(B), (3), (6)–(9) of Pub. L. 10
 
 Amendment by section 7891(a)(1), (b)(3), (c), (e) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
-Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in section 103 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] in reference to the new section 205(c)(5) of ERISA \[subsec. (c)(5) of this section\] as added by such section 3113."
+Section 7894(c)(7)(B) of Pub. L. 101–239 provided that: "The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if included in section 103 of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] in reference to the new section 205(c)(5) of ERISA \[subsec. (c)(5) of this section\] as added by such section 3113."
 
 #### Effective Date of 1986 Amendment
 

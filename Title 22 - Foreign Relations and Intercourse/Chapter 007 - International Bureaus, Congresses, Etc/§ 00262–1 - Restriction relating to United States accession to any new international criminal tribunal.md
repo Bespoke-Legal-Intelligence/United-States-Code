@@ -32,7 +32,7 @@ The term "new international criminal tribunal" means any permanent international
 
 #### Restriction Relating to United States Accession to the International Criminal Court
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §705\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460, formerlyset out as a note under this section, was transferred and is classified to section 7401 of this title.
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §705\], Nov. 29, 1999, 113 Stat. 1536, 1501A–460, formerly set out as a note under this section, was transferred and is classified to section 7401 of this title.
 
 #### Prohibition on Extradition or Transfer of United States Citizens to the International Criminal Court
 

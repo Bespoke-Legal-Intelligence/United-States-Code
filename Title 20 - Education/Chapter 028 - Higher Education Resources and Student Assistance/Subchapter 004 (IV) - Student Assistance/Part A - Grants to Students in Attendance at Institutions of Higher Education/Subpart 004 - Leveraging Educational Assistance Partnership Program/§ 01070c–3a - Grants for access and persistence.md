@@ -22,7 +22,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Authorization
 
-&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of the cost of carrying out the activities under subsection (d).
+&emsp;&emsp;From sums reserved under section 1070c(b)(2) of this title for each fiscal year, the Secretary shall make an allotment to each State that submits an application for an allotment in accordance with subsection (c) to enable the State to pay the Federal share, as described in paragraph (2), of thecost of carrying out the activities under subsection (d).
 
 #### (B) Determination of allotment
 
@@ -100,7 +100,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
-&emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out theactivities under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 &emsp;&emsp;&emsp;(iv) An assurance that early information and intervention, mentoring, or outreach programs exist within the State or that there is a plan to make such programs widely available.
 
@@ -262,7 +262,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (4) Grant award
 
-&emsp;Once a student, including those students who have received early notification under paragraph (2) from the State, applies for admission to an institution that is a partner in the partnership, files a Free Application for Federal Student Aid and any related State form, and is determined eligible by the State under paragraph (3), the State shall—
+&emsp;Once a student, including those students who have received early notification under paragraph (2) from the State, applies for admission to an institution that is a partner in the partnership, files a Free Application for Federal Student Aid and any related Stateform, and is determined eligible by the State under paragraph (3), the State shall—
 
 &emsp;&emsp;(A) issue the student a preliminary award certificate for a grant for access and persistence with estimated award amounts; and
 
@@ -278,7 +278,7 @@ A State that receives an allotment under this section may reserve not more than 
 
 #### (f) Statutory and regulatory relief for institutions of higher education
 
-The Secretary may grant, upon the request of an institution of higher education that is in apartnership described in subsection (b)(2)(B)(ii) and that receives an allotment under this section, a waiver for such institution from statutory or regulatory requirements that inhibit the ability of the institution to successfully and efficiently participate in the activities of the partnership.
+The Secretary may grant, upon the request of an institution of higher education that is in a partnership described in subsection (b)(2)(B)(ii) and that receives an allotment under this section, a waiver for such institution from statutory or regulatory requirements that inhibit the ability of the institution to successfully and efficiently participate in the activities of the partnership.
 
 #### (g) Applicability rule
 

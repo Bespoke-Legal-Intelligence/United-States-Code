@@ -100,7 +100,7 @@ This section may be cited as the "HELP Commission Act".
 
 #### (e) Authority
 
-(1) The Commission may, for the purpose of carrying out its functions under this section, hold hearings, sit and act at times and places in the United States and in countries that receive United States development assistance, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this section.
+(1) The Commission may, for the purpose of carrying out its functions under this section, hold hearings, sit and act at times and places in the United States and in countries that receiveUnited States development assistance, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this section.
 
 (2) The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chair of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
 
@@ -164,7 +164,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (2) The report required by this section shall identify—
 
-&emsp;(A) each country in which United States economic assistance has been most successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were achieved; and
+&emsp;(A) each country in which United States economic assistance has been most successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, asreferred to in paragraph (1)(A)(i), were achieved; and
 
 &emsp;(B) each country in which United States economic assistance has been least successful, as indicated by the extent to which the specific objectives the United States sought to achieve in providing the assistance for the country, as referred to in paragraph (1)(A)(i), were not achieved; and, for each such country, an explanation of why the assistance was not more successful and a specification of what the United States has done as a result.
 

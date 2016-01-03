@@ -56,7 +56,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator shall, in consultation with other appropriate Federal agencies (including the National Institute of Standards and Technology), update the Federal Health IT Strategic Plan (developed as of June 3, 2008) to include specific objectives, milestones, and metrics with respect to the following:
+&emsp;&emsp;The National Coordinator shall, in consultation with other appropriate Federalagencies (including the National Institute of Standards and Technology), update the Federal Health IT Strategic Plan (developed as of June 3, 2008) to include specific objectives, milestones, and metrics with respect to the following:
 
 &emsp;&emsp;&emsp;(i) The electronic exchange and use of health information and the enterprise integration of such information.
 

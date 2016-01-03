@@ -48,7 +48,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Determination of President of the United States, No. 90–35, Aug. 26, 1990, 55 F.R. 38659, provided:
 
-Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, FiscalYears 1990 and 1991 (Public Law 101–246) (the Act) \[this section\], I hereby determine that the test of television broadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 (Public Law 100–459) \[Pub. L. 100–459, title V, Oct. 1, 1988, 102 Stat. 2213\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
+Pursuant to the authority vested in me by section 247 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246) (the Act) \[this section\], I hereby determine that the test of television broadcasting to Cuba (as authorized by title V of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1989 (Public Law 100–459) \[Pub. L. 100–459, title V, Oct. 1, 1988, 102 Stat. 2213\]), has demonstrated television broadcasting to Cuba is feasible and will not cause objectionable interference with the broadcasts of incumbent domestic licensees.
 
 You are authorized and directed to transmit this determination to the appropriate committees of Congress (as defined in section 248 of the Act \[22 U.S.C. 1465ff\]) and to arrange for its publication in the Federal Register.
 

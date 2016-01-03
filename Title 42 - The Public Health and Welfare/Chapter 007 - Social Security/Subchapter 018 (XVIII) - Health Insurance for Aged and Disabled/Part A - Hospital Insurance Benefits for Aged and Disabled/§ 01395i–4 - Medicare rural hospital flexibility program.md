@@ -172,7 +172,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;&emsp;(C) designating facilities as critical access hospitals; and
 
-&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, qualityreporting, performance improvements, and benchmarking.
+&emsp;&emsp;(D) providing support for critical access hospitals for quality improvement, quality reporting, performance improvements, and benchmarking.
 
 #### (2) Rural emergency medical services
 
@@ -188,7 +188,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendmentsmade by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (B) Eligible small rural hospital defined
 
@@ -244,7 +244,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (5) Use of funds for Federal administrative expenses
 
-&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (for each of fiscal years 2005 through 2008) and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
 
 #### (6) Providing mental health services and other health services to veterans and other residents of rural areas
 
@@ -314,7 +314,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (F) Eligible critical access hospital defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means a critical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
+&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means acritical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
 
 #### (h) Grandfathering provisions
 
@@ -352,7 +352,7 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 
 <b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
-Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted"and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
+Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted "and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
 Subsec. (j). Pub. L. 111–148, §3129(a), substituted "2010, for" for "2010, and for" and inserted "and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended" before period at end.
 
@@ -366,7 +366,7 @@ Subsec. (g)(6). Pub. L. 110–275, §121(a), added par. (6).
 
 Subsec. (g)(7). Pub. L. 110–275, §121(e), added par. (7).
 
-Subsec. (j). Pub. L. 110–275, §121(c), substituted "2002, for" for "2002, and for" and inserted ", for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended" before period at end.
+Subsec. (j). Pub. L. 110–275, §121(c), substituted "2002, for" for "2002, and for" and inserted ", for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscalyears 2009 and 2010, to remain available until expended" before period at end.
 
 <b>2003</b>—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted "before January 1, 2006," after "is certified".
 

@@ -6,7 +6,7 @@ The Commission may investigate any facts, conditions, practices, or matters whic
 
 #### (b) Attendance of witnesses and production of documents
 
-For the purpose of any investigation or any other proceeding under this chapter, any member of the Commission, or any officer designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission finds relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States at any designated place of hearing. Witnesses summoned by the Commission to appear before it shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
+For the purpose of any investigation or any other proceeding under this chapter, any member of the Commission, or any officer designatedby it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission finds relevant or material to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States at any designated place of hearing. Witnesses summoned by the Commission to appear before it shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
 #### (c) Resort to courts of United States for failure to obey subpena; punishment
 
@@ -30,7 +30,7 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58 inserted ", electric utility, transmitting utility, or other entity" after "person" in two places and inserted ", or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce" before period at end of first sentence.
 
-<b>1970</b>—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of anyindividual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+<b>1970</b>—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
 #### Effective Date of 1970 Amendment
 

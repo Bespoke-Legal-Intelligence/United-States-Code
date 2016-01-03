@@ -36,5 +36,5 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments made by this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
+Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments madeby this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
 

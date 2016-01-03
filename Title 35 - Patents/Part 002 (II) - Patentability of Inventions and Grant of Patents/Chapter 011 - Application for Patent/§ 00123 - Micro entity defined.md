@@ -10,7 +10,7 @@ In General.—For purposes of this title, the term "micro entity" means an appli
 
 &emsp;(3) did not, in the calendar year preceding the calendar year in which the applicable fee is being paid, have a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census; and
 
-&emsp;(4) has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the application concerned to an entity that, in the calendar year preceding the calendar year in which the applicable fee is being paid, had a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census.
+&emsp;(4) has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the application concerned to an entity that, in the calendar year preceding the calendar year in which the applicable fee is being paid, had a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 timesthe median household income for that preceding calendar year, as most recently reported by the Bureau of the Census.
 
 (b)
 
@@ -46,7 +46,7 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or aftersuch date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
+Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under section 5 of this title.
 
 #### Effective Date of 2011 Amendment
 

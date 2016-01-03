@@ -74,5 +74,5 @@ Exception from provisions of this section of those elements of the Department of
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18,1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 

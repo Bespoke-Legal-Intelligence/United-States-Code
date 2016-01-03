@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Penalty.—The Secretary of Transportation, the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried outby the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary, Under Secretary, or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Under Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
+Criminal Penalty.—The Secretary of Transportation, the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary, Under Secretary, or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Under Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
 
 &emsp;(1) the Secretary, Under Secretary, Administrator, officer, or employee acquires when inspecting the records of an air carrier; or
 

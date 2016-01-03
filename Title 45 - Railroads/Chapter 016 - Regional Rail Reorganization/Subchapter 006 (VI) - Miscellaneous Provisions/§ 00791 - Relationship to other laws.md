@@ -12,7 +12,7 @@
 
 (1) The provisions of subtitle IV of title 49 and the Bankruptcy Act, are inapplicable (A) to actions taken under this chapter to formulate and implement the final system plan where such action was in compliance with the requirements of such plan, and (B) to actions taken under this chapter to formulate or implement any supplemental transaction.
 
-(2) All securities of the Corporation which are issued to the Association as the initial holder, or which are issued in connection with the transfer to the Corporation or a subsidiarythereof of rail properties under this chapter, shall be deemed for all purposes to have been issued subject to and authorized pursuant to section 11301 <sup>1</sup> of title 49.
+(2) All securities of the Corporation which are issued to the Association as the initial holder, or which are issued in connection with the transfer to the Corporation or a subsidiary thereof of rail properties under this chapter, shall be deemed for all purposes to have been issued subject to and authorized pursuant to section 11301 <sup>1</sup> of title 49.
 
 (3) The provisions of section 77e of title 15, shall not apply to transactions involving the issuance of any security of the Corporation to the Association, transactions involving the issuance of any security of the Corporation that is deposited with the special court pursuant to section 743(a) of this title, or transactions involving the issuance or distribution of any security of the Corporation, where the terms and conditions of such issuance or distribution are approved by the special court pursuant to section 743(c) of this title.
 
@@ -48,7 +48,7 @@ Sections 73 and 74 of the Act of August 27, 1894, referred to in subsec. (a)(3),
 
 Act of June 19, 1936 (ch. 592, 49 Stat. 1526), as amended, referred to in subsec. (a)(3), is popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Tables.
 
-The Bankruptcy Act, referred to in subsec. (b)(1), (4), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsec. (b)(1), (4), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effectiveOct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 Section 11301 of title 49, referred to in subsec. (b)(2), was omitted and a new section 11301 enacted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 837. The new section 11301 does not relate to issuance of securities. Previously, in subsec. (b)(2), "section 11301 of title 49" was substituted for "section 20a of the Interstate Commerce Act (49 U.S.C. 20a)" on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
 
@@ -74,7 +74,7 @@ Special court abolished and all jurisdiction and functions transferred to United
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

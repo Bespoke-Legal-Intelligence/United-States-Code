@@ -72,7 +72,7 @@
 
 &emsp;Activities of a center for manufacturing innovation may include the following:
 
-&emsp;&emsp;(A) Research, development, and demonstration projects, including proof-of-concept development and prototyping, to reduce the cost, time, and risk of commercializing new technologies and improvements in existing technologies, processes, products, and research and development of materials to solve precompetitive industrial problemswith economic or national security implications.
+&emsp;&emsp;(A) Research, development, and demonstration projects, including proof-of-concept development and prototyping, to reduce the cost, time, and risk of commercializing new technologies and improvements in existing technologies, processes, products, and research and development of materials to solve precompetitive industrial problems with economic or national security implications.
 
 &emsp;&emsp;(B) Development and implementation of education, training, and workforce recruitment courses, materials, and programs.
 
@@ -142,7 +142,7 @@
 
 #### (E) Considerations
 
-&emsp;&emsp;In selecting a person who submitted an application under paragraph (2) for an award of financial assistance under paragraph (1), theSecretary shall consider, at a minimum, the following:
+&emsp;&emsp;In selecting a person who submitted an application under paragraph (2) for an award of financial assistance under paragraph (1), the Secretary shall consider, at a minimum, the following:
 
 &emsp;&emsp;&emsp;(i) The potential of the center for manufacturing innovation to advance domestic manufacturing and the likelihood of economic impact, including the creation or preservation of jobs, in the predominant focus areas of the center for manufacturing innovation.
 

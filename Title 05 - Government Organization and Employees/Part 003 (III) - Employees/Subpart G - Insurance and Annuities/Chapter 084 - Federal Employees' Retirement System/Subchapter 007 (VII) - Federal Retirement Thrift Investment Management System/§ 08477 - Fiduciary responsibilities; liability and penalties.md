@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) the price of the security prevailing on a national securities exchange which is registered under section 6 of the Securities Exchange Act of 1934; or
 
-&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price not less favorable to the Thrift Savings Fund than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
+&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price not less favorable to the Thrift Savings Fund than the offering price for the security asestablished by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
 
 &emsp;&emsp;(B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary of Labor;
 
@@ -200,9 +200,9 @@
 
 (7)(A) The district courts of the United States shall have exclusive jurisdiction of civil actions under this subsection.
 
-(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a district court of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
+(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a districtcourt of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
 
-(8)(A) A copy of the complaint or petition filed in any action brought under this subsection (other than by the Secretary of Labor) shall be served on the Executive Director, the Secretaryof Labor, and the Secretary of the Treasury by certified mail.
+(8)(A) A copy of the complaint or petition filed in any action brought under this subsection (other than by the Secretary of Labor) shall be served on the Executive Director, the Secretary of Labor, and the Secretary of the Treasury by certified mail.
 
 (B) Any officer referred to in subparagraph (A) of this paragraph shall have the right in his discretion to intervene in any action. If the Secretary of Labor brings an action under paragraph (2) of this subsection on behalf of a participant or beneficiary, he shall notify the Executive Director and the Secretary of the Treasury.
 
@@ -284,7 +284,7 @@ Pub. L. 100–366, §3(b), July 13, 1988, 102 Stat. 826, provided that: "Section
 
 Pub. L. 100–238, title I, §133(b), Jan. 8, 1988, 101 Stat. 1762, provided that: "The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986."
 
-Pub. L. 100–238, title I, §133(c), Jan. 8, 1988, 101 Stat. 1762, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5 contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.
+Pub. L. 100–238, title I, §133(c), Jan. 8, 1988, 101 Stat. 1762, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.
 
 #### Interim Exemption Procedures
 
@@ -292,7 +292,7 @@ Pub. L. 99–556, title I, §111, Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), until such time as final regulations under subparagraph (A)of section 8477(c)(3) of title 5, United States Code, become effective, the Secretary of Labor may, in accordance with procedures under section 408(a) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(a)\], grant any exemption allowable under such section 8477(c)(3).
+In General.—Subject to subsection (b), until such time as final regulations under subparagraph (A) of section 8477(c)(3) of title 5, United States Code, become effective, the Secretary of Labor may, in accordance with procedures under section 408(a) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1108(a)\], grant any exemption allowable under such section 8477(c)(3).
 
 "(b)
 

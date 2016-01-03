@@ -28,7 +28,7 @@
 
 #### (4) Submission
 
-&emsp;Not later than 2 years after January 8, 2002, the Government Accountability Office shallsubmit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
+&emsp;Not later than 2 years after January 8, 2002, the Government Accountability Office shall submit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
 
 #### (5) Negotiated rulemaking committee
 
@@ -94,7 +94,7 @@
 
 #### (c) Compliance plan
 
-At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) of this section into compliance with the standards referred to in that subsection that includes—
+At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) into compliance with the standards referred to in that subsection that includes—
 
 &emsp;(1) detailed information on the status of each facility's compliance with such standards;
 
@@ -106,11 +106,11 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) System to establish priorities
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shallpublish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
 
 #### (2) Long-term construction and replacement list
 
-&emsp;In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
+&emsp;In addition to the plan submitted under subsection (c), the Secretary shall—
 
 &emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
 
@@ -168,7 +168,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (G) General closure report
 
-&emsp;&emsp;If a Bureau-funded school is temporarily closed or consolidated or the programs of a Bureau-funded school are temporarily substantially curtailed under this subsection and the Secretary determines that the closure, consolidation, or curtailment will exceed 1 year, the Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the local school board, not later than 90 days after the date onwhich the closure, consolidation, or curtailment was initiated, a report that specifies—
+&emsp;&emsp;If a Bureau-funded school is temporarily closed or consolidated or the programs of a Bureau-funded school are temporarily substantially curtailed under this subsection and the Secretary determines that the closure, consolidation, or curtailment will exceed 1 year, the Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the local school board, not later than 90 days after the date on which the closure, consolidation, or curtailment was initiated, a report that specifies—
 
 &emsp;&emsp;&emsp;(i) the reasons for such temporary action;
 

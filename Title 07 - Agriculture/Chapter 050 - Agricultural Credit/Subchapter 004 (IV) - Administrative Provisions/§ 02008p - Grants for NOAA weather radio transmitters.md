@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural UtilitiesService, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
+The Secretary, acting through the Administrator of the Rural Utilities Service, may make grants to public and nonprofit entities, and borrowers of loans made by the Rural Utilities Service, for the Federal share of the cost of acquiring radio transmitters to increase coverage of rural areas by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligibility
 

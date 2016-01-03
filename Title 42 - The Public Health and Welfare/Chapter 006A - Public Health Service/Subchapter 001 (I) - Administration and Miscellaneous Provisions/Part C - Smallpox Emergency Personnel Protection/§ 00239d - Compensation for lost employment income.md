@@ -8,7 +8,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (1) In general
 
-&emsp;Compensation under subsection (a) of this section shall be at the rate of 662/3 percent of the relevant pay period (weekly, monthly, or otherwise), except as provided in paragraph (2).
+&emsp;Compensation under subsection (a) of this section shall be at the rate of 662/3 percent ofthe relevant pay period (weekly, monthly, or otherwise), except as provided in paragraph (2).
 
 #### (2) Augmented compensation for dependents
 
@@ -62,7 +62,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), an eligible individual shall not be providedcompensation under this section for the first 5 work days of loss of employment income.
+&emsp;&emsp;Except as provided in subparagraph (B), an eligible individual shall not be provided compensation under this section for the first 5 work days of loss of employment income.
 
 #### (B) Exception
 

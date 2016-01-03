@@ -2,7 +2,7 @@
 
 #### (a) Authorized expenses for administration
 
-Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
+Except as provided in subsection (b), the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 &emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
@@ -18,9 +18,9 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 &emsp;&emsp;(B) in the case of costs that are not determinable under subparagraph (A), an amount per full-time equivalent employee authorized under paragraphs (1) and (2) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
-&emsp;(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 777e of this title by each State fish and game department;
+&emsp;(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of eachState fish and game department and the use of funds under section 777e of this title by each State fish and game department;
 
-&emsp;(7) costs of audits under subsection (d) of this section;
+&emsp;(7) costs of audits under subsection (d);
 
 &emsp;(8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 777c(b) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 777c(b) of this title should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -52,7 +52,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (c) Restriction on use to supplement general appropriations
 
-The Secretary of the Interior shall not use available amounts under subsection (b) of this section to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
+The Secretary of the Interior shall not use available amounts under subsection (b) to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
 
 #### (d) Audit requirement
 

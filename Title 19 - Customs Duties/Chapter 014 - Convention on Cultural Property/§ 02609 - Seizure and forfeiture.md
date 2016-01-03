@@ -6,7 +6,7 @@ Any designated archaeological or ethnological material or article of cultural pr
 
 #### (b) Archaeological and ethnological material
 
-Any designated archaeological or ethnological material which is imported into the United States in violation of section 2606 of this title and which is forfeited to the United States under this chapter shall—
+Any designated archaeological or ethnological material which is imported into the United States in violation of section 2606 of this titleand which is forfeited to the United States under this chapter shall—
 
 &emsp;(1) first be offered for return to the State Party;
 

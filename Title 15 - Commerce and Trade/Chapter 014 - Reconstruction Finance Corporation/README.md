@@ -30,7 +30,7 @@ As used in this reorganization plan:
 
 #### Sec. 2. Transfer of Functions
 
-(a) There are hereby transferred to the Housing and Home Finance Administrator the remaining functions with respect to or arising out of (1) the securities and obligations of, loans made to, and contracts or other agreements with, States, municipalities, political subdivisions thereof, public agencies, boards, commissions or other public bodies, and (2) loans, securities and obligations acquired in connection with programs of financial assistance for drainage and irrigation projects.
+(a) There are hereby transferred to the Housing and Home Finance Administrator the remaining functions with respect to or arising out of (1) the securities andobligations of, loans made to, and contracts or other agreements with, States, municipalities, political subdivisions thereof, public agencies, boards, commissions or other public bodies, and (2) loans, securities and obligations acquired in connection with programs of financial assistance for drainage and irrigation projects.
 
 (b) There are hereby transferred to the Administrator of General Services the remaining functions with respect to or arising out of (1) the affairs of the Smaller War Plants Corporation which were transferred to the Corporation pursuant to Executive Order No. 9665 of December 27, 1945 (11 F.R. 3) and section 207 of Public Law 132—80th Congress 61 Stat. 209), (2) the national defense, war and reconversion activities with respect to which notes of the Corporation were cancelled pursuant to the provisions of Title II of Public Law 860—80th Congress (62 Stat. 1187), and (3) activities of the RFC Price Adjustment Board and the functions transferred to the Corporation by Executive Order No. 9841 of April 23, 1947 (12 F.R. 2645).
 
@@ -42,7 +42,7 @@ As used in this reorganization plan:
 
 #### Sec. 3. Transfer of Assets and Liabilities
 
-The loans, obligations, securities, capital stock, and other assets pertaining to the functions transferred by section 2 of this reorganization plan (including accruedinterest thereon, and property acquired in connection therewith) and the liabilities, contracts, bonds, mortgages, notes and other instruments relating thereto are hereby transferred from the Corporation to the respective transferees: <i>Provided, however</i>, That all assets, liabilities, and commitments relating to the functions, transferred by section 2 (a) of this reorganization plan are hereby transferred to the Revolving Fund (Liquidating Programs) established by the Independent Offices Appropriation Act, 1955 (68 Stat. 295) \[12 U.S.C. 1701g–5\].
+The loans, obligations, securities, capital stock, and other assets pertaining to the functions transferred by section 2 of this reorganization plan (including accrued interest thereon, and property acquired in connection therewith) and the liabilities, contracts, bonds, mortgages, notes and other instruments relating thereto are hereby transferred from the Corporation to the respective transferees: <i>Provided, however</i>, That all assets, liabilities, and commitments relating to the functions, transferred by section 2 (a) of this reorganization plan are hereby transferred to the Revolving Fund (Liquidating Programs) established by the Independent Offices Appropriation Act, 1955 (68 Stat. 295) \[12 U.S.C. 1701g–5\].
 
 #### Sec. 4. Administrative Property, Personnel, Funds and Records
 
@@ -103,7 +103,7 @@ This schedule annexed to Reorganization Plan No. 1 of 1957 lists by name and add
 
 #### Short Title of Act July 30, 1953, Ch. 282, Title I
 
-Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such act that they should be popularly known as the "Reconstruction Finance Corporation Liquidation Act".
+Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50, provided by section 101 of such act that they should be popularly known as the "Reconstruction Finance Corporation Liquidation Act".
 
 #### Continuation of Pending Proceedings
 

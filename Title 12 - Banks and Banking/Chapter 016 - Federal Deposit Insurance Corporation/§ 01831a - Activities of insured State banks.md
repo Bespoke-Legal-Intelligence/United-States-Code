@@ -124,7 +124,7 @@
 
 #### (A) Finding
 
-&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporationshall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
+&emsp;&emsp;Before the end of the 1-year period beginning on December 19, 1991, the Corporation shall make a finding whether savings bank life insurance activities of insured banks pose or may pose any significant risk to the Deposit Insurance Fund.
 
 #### (B) Actions
 
@@ -236,7 +236,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 &emsp;The terms "host State", "home State", and "out-of-State bank" have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
+(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L.103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 

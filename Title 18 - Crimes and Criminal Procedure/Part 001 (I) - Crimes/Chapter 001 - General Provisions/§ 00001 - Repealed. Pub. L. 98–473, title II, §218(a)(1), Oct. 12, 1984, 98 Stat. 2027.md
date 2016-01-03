@@ -6,6 +6,12 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act \[see Tables for classification\] may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
+
+Pub. L. 114–22, title I, §118(a), May 29, 2015, 129 Stat. 247, provided that: "This section \[amending section 1591 of this title\] may be cited as the 'Stop Advertising Victims of Exploitation Act of 2015' or the 'SAVE Act of 2015'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act \[amending section 117 of this title\] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."
@@ -92,11 +98,11 @@ Pub. L. 109–374, §1, Nov. 27, 2006, 120 Stat. 2652, provided that: "This Act 
 
 Pub. L. 109–181, §1(a)(1), Mar. 16, 2006, 120 Stat. 285, provided that: "This section \[amending section 2320 of this title, enacting provisions set out as a note under section 2320 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Counterfeiting in Manufactured Goods Act'."
 
-Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: "This section \[amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17, Copyrights\] may be cited as the 'Protecting American Goods and Services Act of 2005'."
+Pub. L. 109–181, §2(a), Mar. 16, 2006, 120 Stat. 288, provided that: "This section \[amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17,Copyrights\] may be cited as the 'Protecting American Goods and Services Act of 2005'."
 
 Pub. L. 109–178, §1, Mar. 9, 2006, 120 Stat. 278, provided that: "This Act \[amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12\] may be cited as the 'USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006'."
 
-Pub. L. 109–177, §1(a), Mar. 9, 2006, 120 Stat. 192, provided that: "This Act \[see Tables for classification\]may be cited as the 'USA PATRIOT Improvement and Reauthorization Act of 2005'."
+Pub. L. 109–177, §1(a), Mar. 9, 2006, 120 Stat. 192, provided that: "This Act \[see Tables for classification\] may be cited as the 'USA PATRIOT Improvement and Reauthorization Act of 2005'."
 
 Pub. L. 109–177, title II, §201, Mar. 9, 2006, 120 Stat. 230, provided that: "This title \[enacting section 3599 of this title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation\] may be cited as the 'Terrorist Death Penalty Enhancement Act of 2005'."
 
@@ -164,7 +170,7 @@ Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: 
 
 #### Severability
 
-Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
+Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: "If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision toother persons not similarly situated or to other circumstances, shall not be affected by such invalidation."
 
 Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: "Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances."
 

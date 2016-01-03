@@ -46,9 +46,17 @@
 
 &emsp;(B) shall expire on October 1, 1993.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684.)
+(e)(1) In the case of any super construction project, the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes.
+
+(2) An agreement entered into under paragraph (1) with a Federal entity shall provide that the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
+
+(3) In this subsection, the term "super construction project" means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e). Pub. L. 114–58 added subsec. (e).
 
 <b>1994</b>—Subsec. (d)(6)(A). Pub. L. 103–446 substituted "section 316" for "section 230(c)".
 
@@ -61,6 +69,26 @@ Pub. L. 102–40, §402(d)(1), substituted "8104" for "5004" in introductory pro
 Subsecs. (b), (c). Pub. L. 102–83 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–237 added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–58, title V, §502(b), Sept. 30, 2015, 129 Stat. 538, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the following:
+
+&emsp;"(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act (Public Law 114–19; 129 Stat. 215).
+
+&emsp;"(2) Any super construction project (as defined in section 8103(e)(3) of title 38, United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act \[Sept. 30, 2015\]."
+
+#### Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs
+
+Pub. L. 114–92, div. A, title X, §1096, Nov. 25, 2015, 129 Stat. 1020, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall seek to enter into an agreement subject to subsections (b), (c), and (e) of section 1535 of title 31, United States Code, with the Army Corps of Engineers or another entity of the Federal Government to serve, on a reimbursable basis, as the construction agent for the construction, alteration, or acquisition of any medical facility of the Department of Veterans Affairs specifically authorized by Congress after the date of the enactment of this Act \[Nov. 25, 2015\] that involves a total expenditure of more than $100,000,000, excluding any acquisition by exchange.
+
+"(b)
+
+Agreement.—Under the agreement entered into under subsection (a), the construction agent shall provide design, procurement, and construction management services for the construction, alteration, and acquisition of medical facilities of the Department."
 
 #### Development of Medical-Facility Modular Components
 

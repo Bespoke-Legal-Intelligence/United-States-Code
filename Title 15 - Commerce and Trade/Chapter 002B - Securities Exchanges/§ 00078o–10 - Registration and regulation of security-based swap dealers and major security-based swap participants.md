@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To offset the greater risk to the security-based swap dealer or major security-based swap participant and the financial system arising from the use of security-based swaps that are not cleared, the requirements imposed under paragraph (2) shall—
+&emsp;&emsp;To offset the greater risk to the security-based swap dealer or major security-based swap participant and the financial systemarising from the use of security-based swaps that are not cleared, the requirements imposed under paragraph (2) shall—
 
 &emsp;&emsp;&emsp;(i) help ensure the safety and soundness of the security-based swap dealer or major security-based swap participant; and
 
@@ -138,7 +138,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The prudential regulators, the Commission, and the Securities and ExchangeCommission shall periodically (but not less frequently than annually) consult on minimum capital requirements and minimum initial and variation margin requirements.
+&emsp;&emsp;&emsp;The prudential regulators, the Commission, and the Securities and Exchange Commission shall periodically (but not less frequently than annually) consult on minimum capital requirements and minimum initial and variation margin requirements.
 
 #### (ii) Comparability
 
@@ -147,6 +147,10 @@
 &emsp;&emsp;&emsp;&emsp;(I) security-based swap dealers; and
 
 &emsp;&emsp;&emsp;&emsp;(II) major security-based swap participants.
+
+#### (4) Applicability with respect to counterparties
+
+&emsp;The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap in which a counterparty qualifies for an exception under section 78c–3(g)(1) of this title or satisfies the criteria in section 78c–3(g)(4) of this title.
 
 #### (f) Reporting and recordkeeping
 
@@ -178,7 +182,7 @@
 
 #### (3) Counterparty records
 
-&emsp;Each registered security-based swap dealer and major security-based swap participant shall maintain daily trading records for each counterparty in a manner and form that is identifiable with each security-based swap transaction.
+&emsp;Each registered security-based swap dealer and major security-based swap participantshall maintain daily trading records for each counterparty in a manner and form that is identifiable with each security-based swap transaction.
 
 #### (4) Audit trail
 
@@ -486,7 +490,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 &emsp;&emsp;(D) is subject to an order or a final order specified in subparagraph (F) or (H), respectively, of such paragraph (4); or
 
-&emsp;&emsp;(E) has been found by a foreign financial regulatory authority to have committed or omitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
+&emsp;&emsp;(E) has been found by a foreign financial regulatory authority to have committed oromitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
 
 #### (4) Unlawful conduct
 
@@ -496,7 +500,7 @@ Each registered security-based swap dealer and major security-based swap partici
 
 &emsp;&emsp;(B) for any security-based swap dealer or major security-based swap participant to permit such a person, without the consent of the Commission, to become or remain a person associated with the security-based swap dealer or major security-based swap participant in contravention of such order, if such security-based swap dealer or major security-based swap participant knew, or in the exercise of reasonable care should have known, of such order.
 
-(June 6, 1934, ch. 404, title I, §15F, as added Pub. L. 111–203, title VII, §764(a), July 21, 2010, 124 Stat. 1784.)
+(June 6, 1934, ch. 404, title I, §15F, as added Pub. L. 111–203, title VII, §764(a), July 21, 2010, 124 Stat. 1784; amended Pub. L. 114–1, title III, §302(b), Jan. 12, 2015, 129 Stat. 28.)
 
 #### References in Text
 
@@ -507,6 +511,10 @@ The Commodity Exchange Act, referred to in subsec. (e)(3)(B)(ii), is act Sept. 2
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Subtitle B of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (l)(1)(A), is subtitle B (§§761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this section and subchapter II (§8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, and 78m–1 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78o, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
 
 #### Effective Date
 

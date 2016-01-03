@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the "Judicial Review Commission on Foreign Asset Control" (in this section referred to as the "Commission").
+There is established a commission to be known as the "Judicial Review Commission onForeign Asset Control" (in this section referred to as the "Commission").
 
 #### (b) Membership and procedural matters
 

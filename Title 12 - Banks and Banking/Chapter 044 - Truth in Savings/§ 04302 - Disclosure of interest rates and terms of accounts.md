@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsections (b) and (c) of this section, each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
+Except as provided in subsections (b) and (c), each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
 
 &emsp;(1) The annual percentage yield.
 
@@ -18,11 +18,11 @@ Except as provided in subsections (b) and (c) of this section, each advertisemen
 
 #### (b) Broadcast and electronic media and outdoor advertising exception
 
-The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Bureau finds that any such disclosure would be unnecessarily burdensome.
+The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) if the Bureau finds that any such disclosure would be unnecessarily burdensome.
 
 #### (c) Disclosure required for on-premises displays
 
-The disclosure requirements contained in this section shall not apply to any sign (including arate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
+The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
 &emsp;(1) the accompanying annual percentage yield; and
 
@@ -30,7 +30,7 @@ The disclosure requirements contained in this section shall not apply to any sig
 
 #### (d) Misleading descriptions of free or no-cost accounts prohibited
 
-No advertisement, announcement, or solicitation made by any depository institution or deposit broker may refer to or describe an account as a free or no-cost account (or words of similar meaning) if—
+No advertisement, announcement, or solicitation made by any depository institution or deposit broker may refer to or describe an accountas a free or no-cost account (or words of similar meaning) if—
 
 &emsp;(1) in order to avoid fees or service charges for any period—
 

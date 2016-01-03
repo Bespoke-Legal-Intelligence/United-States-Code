@@ -16,7 +16,13 @@ Except as otherwise provided in this chapter, as used in this chapter—
 
 &emsp;(5) the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 
-&emsp;(6) any other term used that is defined in section 7801 of this title shall have the meaning given the term in such section.
+&emsp;(6) any other term used that is defined in section 7801 <sup>1</sup> of this title shall have the meaning given the term in such section.
 
 (Pub. L. 111–5, div. A, title XIV, §14013, Feb. 17, 2009, 123 Stat. 286.)
+
+#### References in Text
+
+Section 7801 of this title, referred to in par. (6), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, §8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

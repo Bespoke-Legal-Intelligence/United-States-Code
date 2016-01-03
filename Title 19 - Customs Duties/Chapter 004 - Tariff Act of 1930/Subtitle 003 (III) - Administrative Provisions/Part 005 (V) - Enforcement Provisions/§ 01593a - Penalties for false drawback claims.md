@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
+&emsp;&emsp;If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
 
 &emsp;&emsp;&emsp;(i) identify the drawback claim;
 
@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to theperson to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
+&emsp;&emsp;A negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
 
 #### (B) Repetitive violations
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
+&emsp;&emsp;Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
 &emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
@@ -92,15 +92,15 @@
 
 #### (4) Commencement of investigation
 
-&emsp;For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
+&emsp;For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
 #### (5) Exclusivity
 
-&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
+&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a).
 
 #### (d) Deprivation of lawful revenue
 
-Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a) of this section, the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
+Notwithstanding section 1514 of this title, if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a), the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
 
 #### (e) Drawback compliance program
 
@@ -112,7 +112,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;A party may be certified as a participant in the drawback compliance program after meeting the general requirements established under the program or after negotiating an alternative program suited to the needs of the party and the Customs Service. Certification requirements shall take into account the size and nature of the party's drawback program and the volume of claims. In order to be certified, the participant must be able to demonstrate that it—
 
-&emsp;&emsp;(A) understands the legal requirements for filing claims, including the nature of therecords required to be maintained and produced and the time periods involved;
+&emsp;&emsp;(A) understands the legal requirements for filing claims, including the nature of the records required to be maintained and produced and the time periods involved;
 
 &emsp;&emsp;(B) has in place procedures to explain the Customs Service requirements to those employees that are involved in the preparation of claims, and the maintenance and production of required records;
 
@@ -130,21 +130,21 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;When a party that—
 
-&emsp;&emsp;(A) has been certified as a participant in the drawback compliance program under subsection (e) of this section; and
+&emsp;&emsp;(A) has been certified as a participant in the drawback compliance program under subsection (e); and
 
 &emsp;&emsp;(B) is generally in compliance with the appropriate procedures and requirements of the program;
 
-> &emsp;commits a violation of subsection (a) of this section, the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+> &emsp;commits a violation of subsection (a), the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
 #### (2) Contents of notice
 
 &emsp;A notice of violation issued under paragraph (1) shall—
 
-&emsp;&emsp;(A) state that the party has violated subsection (a) of this section;
+&emsp;&emsp;(A) state that the party has violated subsection (a);
 
 &emsp;&emsp;(B) explain the nature of the violation; and
 
-&emsp;&emsp;(C) warn the party that future violations of subsection (a) of this section may result in the imposition of monetary penalties.
+&emsp;&emsp;(C) warn the party that future violations of subsection (a) may result in the imposition of monetary penalties.
 
 #### (3) Response to notice
 
@@ -152,7 +152,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 #### (g) Repetitive violations
 
-(1) A party who has been issued a written notice under subsection (f)(1) of this section and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
+(1) A party who has been issued a written notice under subsection (f)(1) and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
 
 #### (A) 2d violation
 
@@ -166,11 +166,11 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;An amount not to exceed 100 percent of the loss of revenue.
 
-(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) of this section commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
 #### (h) Regulation
 
-The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
+The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g), a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
 
 #### (i) Court of International Trade proceedings
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawbac
 
 #### Effective Date
 
-Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: "The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operationalimplementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin."
+Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: "The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin."
 
 #### Transfer of Functions
 

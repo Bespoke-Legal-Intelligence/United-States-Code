@@ -58,7 +58,7 @@ Subsequent costs.—
 
 &emsp;&emsp;(A)
 
-In general.—There is hereby established in the Employees' Life Insurance Fund a Long-Term Care Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start ofthe 7-year period described in section 9003(d)(2)(B).
+In general.—There is hereby established in the Employees' Life Insurance Fund a Long-Term Care Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start of the 7-year period described in section 9003(d)(2)(B).
 
 &emsp;&emsp;(B)
 

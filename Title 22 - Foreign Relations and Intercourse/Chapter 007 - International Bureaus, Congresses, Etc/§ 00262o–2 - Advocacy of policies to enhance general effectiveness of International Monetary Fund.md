@@ -64,7 +64,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(13) Facilitate greater International Monetary Fund accountability and enhance International Monetary Fund self-evaluation by vigorously promoting review of the effectiveness of the Office of Internal Audit and Inspection and the Executive Board's external evaluation pilot program and, if necessary, the establishment of an operations evaluation department modeled on the experience of the International Bank for Reconstruction and Development, guided by such key principles as usefulness, credibility, transparency, and independence.
 
-&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterprise lending, especially in the world's poorest, heavily indebted countries.
+&emsp;(14) Vigorously promote coordination with the International Bank for Reconstruction and Development and other international financial institutions (as defined in section 262r(c)(2) of this title) in promoting structural reforms which facilitate the provision of credit to small businesses, including microenterpriselending, especially in the world's poorest, heavily indebted countries.
 
 &emsp;(15) Work with the International Monetary Fund to—
 
@@ -87,6 +87,18 @@ To the extent that it would assist in achieving the goals described in subsectio
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(15). Pub. L. 108–458 added par. (15).
+
+#### Annual Report on Lending, Surveillance, or Technical Assistance Policies of the International Monetary Fund
+
+Pub. L. 114–113, div. K, title IX, §9006, Dec. 18, 2015, 129 Stat. 2832, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
+
+&emsp;"(1) a description of any changes in the policies of the International Monetary Fund (the Fund) with respect to lending, surveillance, or technical assistance;
+
+&emsp;"(2) an analysis of whether those changes, if any, increase or decrease the risk to United States financial commitments to the Fund;
+
+&emsp;"(3) an analysis of any new or ongoing exceptional access loans of the Fund in place during the year preceding the submission of the report; and
+
+&emsp;"(4) a description of any changes to the exceptional access policies of the Fund."
 
 #### Additional Provisions Relating to International Monetary Fund
 

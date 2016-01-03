@@ -24,7 +24,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–148, Dec. 3, 2003, 117Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

@@ -4,7 +4,7 @@
 
 &emsp;(A) the term "provider of health care services or supplies" or "provider" means a physician, hospital, or other individual or entity which furnishes health care services or supplies;
 
-&emsp;(B) the term "individual covered under this chapter" or "covered individual" means an employee, annuitant, family member, orformer spouse covered by a health benefits plan described by section 8903 or 8903a;
+&emsp;(B) the term "individual covered under this chapter" or "covered individual" means an employee, annuitant, family member, or former spouse covered by a health benefits plan described by section 8903 or 8903a;
 
 &emsp;(C) an individual or entity shall be considered to have been "convicted" of a criminal offense if—
 
@@ -52,7 +52,7 @@
 
 &emsp;(5) Any provider that the Office determines has committed acts described in subsection (d).
 
-> Any determination under paragraph (4) relating to whether a charge for health care services or supplies is substantially in excess of the needs of the covered individual shall be made by trained reviewers based on written medical protocols developed by physicians. In the event such a determination cannot be made based on such protocols, a physician in an appropriate specialty shall be consulted.
+> Any determination under paragraph (4) relating to whether a charge for health care services orsupplies is substantially in excess of the needs of the covered individual shall be made by trained reviewers based on written medical protocols developed by physicians. In the event such a determination cannot be made based on such protocols, a physician in an appropriate specialty shall be consulted.
 
 (d) Whenever the Office determines—
 
@@ -160,7 +160,7 @@ Subsec. (d)(1). Pub. L. 105–266, §2(a)(4), amended par. (1) generally. Prior 
 
 Subsec. (e). Pub. L. 105–266, §2(a)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–266, §2(a)(3), (5), redesignated subsec. (e) as (f) and inserted "(where such debarmentis not mandatory)" after "debarment under this section". Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–266, §2(a)(3), (5), redesignated subsec. (e) as (f) and inserted "(where such debarment is not mandatory)" after "debarment under this section". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 105–266, §2(a)(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 

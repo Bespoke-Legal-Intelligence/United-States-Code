@@ -80,7 +80,7 @@
 
 #### (2) Lessee's deductions reduced
 
-&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for aperiod of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
+&emsp;For purposes of determining the amount allowable as a deduction under this chapter for rentals or other payments under a lease for a period of 30 days or more of listed property, only the allowable percentage of such payments shall be taken into account.
 
 #### (3) Allowable percentage
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (8) Unrecovered basis
 
-&emsp;For purposes of subsection (a)(1), the term "unrecovered basis" means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if all use during the recovery period were use in a trade or business (including the holding of property for the production of income).
+&emsp;For purposes of subsection (a)(1), the term "unrecovered basis" means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if alluse during the recovery period were use in a trade or business (including the holding of property for the production of income).
 
 #### (9) All taxpayers holding interests in passenger automobile treated as 1 taxpayer
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
-(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042.)
+(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388-555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042.)
 
 #### Inflation Adjusted Items for Certain Calendar Years
 
@@ -250,7 +250,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 Subsec. (d)(8), (10). Pub. L. 113–295, §220(j), substituted "subsection (a)(1)" for "subsection (a)(2)".
 
-<b>2010</b>—Subsec. (d)(4)(A). Pub. L. 111–240 inserted " 'and' " at end of clause (iv), redesignated clause (vi) as\(v), and struck out former cl. (v) which read as follows: "any cellular telephone (or other similar telecommunications equipment), and".
+<b>2010</b>—Subsec. (d)(4)(A). Pub. L. 111–240 inserted " 'and' " at end of clause (iv), redesignated clause (vi) as (v), and struck out former cl. (v) which read as follows: "any cellular telephone (or other similar telecommunications equipment), and".
 
 <b>2002</b>—Subsec. (a)(1)(C)(iii). Pub. L. 107–147 added cl. (iii).
 
@@ -346,7 +346,7 @@ Amendment by section 221(a)(34)(E) of Pub. L. 113–295 effective Dec. 19, 2014,
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2043(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
+Pub. L. 111–240, title II, §2043(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2002 Amendment
 
@@ -437,6 +437,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2016</b>—Revenue Procedure 2016–23.
 
 <b>2015</b>—Revenue Procedure 2015–19.
 

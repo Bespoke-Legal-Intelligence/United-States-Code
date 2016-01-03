@@ -48,7 +48,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-&emsp;&emsp;(E) with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+&emsp;&emsp;(E) with respect to the contract under subsection (c), has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-yearperiod before the date specified in subparagraph (C);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; and
 

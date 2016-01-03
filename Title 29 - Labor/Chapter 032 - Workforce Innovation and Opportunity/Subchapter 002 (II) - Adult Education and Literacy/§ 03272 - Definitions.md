@@ -84,7 +84,17 @@ In this subchapter:
 
 #### (8) Essential components of reading instruction
 
-&emsp;The term "essential components of reading instruction" has the meaning given the term in section 6368 of title 20.
+&emsp;The term "essential components of reading instruction" means explicit and systematic instruction in—
+
+&emsp;&emsp;(A) phonemic awareness;
+
+&emsp;&emsp;(B) phonics;
+
+&emsp;&emsp;(C) vocabulary development;
+
+&emsp;&emsp;(D) reading fluency, including oral reading skills; and
+
+&emsp;&emsp;(E) reading comprehension strategies.
 
 #### (9) Family literacy activities
 
@@ -136,9 +146,17 @@ In this subchapter:
 
 &emsp;The term "workforce preparation activities" means activities, programs, or services designed to help an individual acquire a combination of basic academic skills, critical thinking skills, digital literacy skills, and self-management skills, including competencies in utilizing resources, using information, working with others, understanding systems, and obtaining skills necessary for successful transition into and completion of postsecondary education or training, or employment.
 
-(Pub. L. 113–128, title II, §203, July 22, 2014, 128 Stat. 1609.)
+(Pub. L. 113–128, title II, §203, July 22, 2014, 128 Stat. 1609; Pub. L. 114–95, title IX, §9215(c), Dec. 10, 2015, 129 Stat. 2166.)
+
+#### Amendments
+
+<b>2015</b>—Par. (8). Pub. L. 114–95, which directed general amendment of "Paragraph (8) of section 203 of the Adult Education and Literacy Act", was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, Pub. L. 113–128, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of title 20."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

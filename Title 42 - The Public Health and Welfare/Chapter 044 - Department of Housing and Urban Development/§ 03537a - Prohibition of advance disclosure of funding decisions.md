@@ -24,7 +24,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall be in addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
+&emsp;Whenever any employee of the Department knowingly and materially violates the prohibition in subsection (a) of this section, the Secretary may impose a civil money penalty on the employee in accordance with the provisions of this subsection. This penalty shall bein addition to any other available civil remedy or any available criminal penalty and may be imposed whether or not the Secretary takes other disciplinary actions.
 
 #### (2) Amount
 
@@ -58,7 +58,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (A) In general
 
-&emsp;&emsp;After exhausting all administrative remedies established by the Secretary underparagraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;&emsp;After exhausting all administrative remedies established by the Secretary under paragraph (3)(A), an employee against whom the Secretary has imposed a civil money penalty under paragraph (1) may obtain a review of the penalty and such ancillary issues (such as any administrative sanctions under 24 C.F.R. part 25) as may be addressed in the notice of determination to impose a penalty under paragraph (3)(A)(i) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (B) Objections not raised in hearing
 

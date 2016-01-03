@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) an appropriate subdivision thereof.
 
-&emsp;(4) The term "average weekly wage" means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriateweek, as defined in regulations prescribed by the Secretary.
+&emsp;(4) The term "average weekly wage" means one-thirteenth of the total wages paid to an individual in the high quarter. For purposes of this computation, the high quarter shall be that quarter in which the individual's total wages were highest among the first 4 of the last 5 completed calendar quarters immediately before the quarter in which occurs the week with respect to which the computation is made. Such week shall be the week in which total separation occurred, or, in cases where partial separation is claimed, an appropriate week, as defined in regulations prescribed by the Secretary.
 
 &emsp;(5) The term "average weekly hours" means the average hours worked by the individual (excluding overtime) in the employment from which he has been or claims to have been separated in the 52 weeks (excluding weeks during which the individual was sick or on vacation) preceding the week specified in the last sentence of paragraph (4).
 
@@ -30,7 +30,7 @@ For purposes of this part—
 
 &emsp;(10) The term "total separation" means the layoff or severance of an individual from employment with a firm in which adversely affected employment exists.
 
-&emsp;(11) The term "unemployment insurance" means the unemployment compensation payable to an individual under any State law or Federal unemployment compensation law, including chapter 85 of title 5 and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\]. The terms "regular compensation", "additional compensation", and "extended compensation" have the same respective meanings that are given them in section 205(2), (3), and (4) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+&emsp;(11) The term "unemployment insurance" means the unemployment compensation payable to an individual under any State law or Federal unemployment compensation law, including chapter 85 of title 5 and the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\]. The terms "regular compensation", "additional compensation", and "extended compensation" have the same respective meanings that are given them in section 205(2), (3), and\(4) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
 &emsp;(12) The term "week" means a week as defined in the applicable State law.
 
@@ -60,11 +60,13 @@ For purposes of this part—
 
 &emsp;&emsp;(C) the Secretary determines, on an individual basis, is threatened with total or partial separation.
 
-(Pub. L. 93–618, title II, §247, Jan. 3, 1975, 88 Stat. 2028; Pub. L. 97–35, title XXV, §2511, Aug. 13, 1981, 95 Stat. 888; Pub. L. 99–272, title XIII, §§13004(b), 13005(b), Apr. 7, 1986, 100 Stat. 303; Pub. L. 111–5, div. B, title I, §§1801(a), 1830(a)(2), Feb. 17, 2009, 123 Stat. 367, 384; Pub. L. 112–40, title II, §§201(b), (c), 211(b), Oct. 21, 2011, 125 Stat. 403.)
+&emsp;(19) The term "recognized postsecondary credential" means a credential consisting of an industry-recognized certificate or certification, a certificate of completion of an apprenticeship, a license recognized by a State or the Federal Government, or an associate or baccalaureate degree.
 
-#### Reversion to Provisions in Effect on February 13, 2011
+(Pub. L. 93–618, title II, §247, Jan. 3, 1975, 88 Stat. 2028; Pub. L. 97–35, title XXV, §2511, Aug. 13, 1981, 95 Stat. 888; Pub. L. 99–272, title XIII, §§13004(b), 13005(b), Apr. 7, 1986, 100 Stat. 303; Pub. L. 111–5, div. B, title I, §§1801(a), 1830(a)(2), Feb. 17, 2009, 123 Stat. 367, 384; Pub. L. 112–40, title II, §§201(b), (c), 211(b), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §§402(b), (c), 404(c), June 29, 2015, 129 Stat. 374, 376.)
 
-<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+#### Reversion to Provisions in Effect on January 1, 2014
+
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### References in Text
 
@@ -72,9 +74,15 @@ The Railroad Unemployment Insurance Act, referred to in par. (11), is act June 2
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+
+Par. (19). Pub. L. 114–27, §§404(c), 406, temporarily added par. (19). See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -112,15 +120,23 @@ Par. (14). Pub. L. 97–35, §2511(3), substituted provisions requiring determin
 
 Par. (15). Pub. L. 97–35, §2511(4), added par. (15).
 
+#### Effective and Termination Dates of 2015 Revival
+
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -128,5 +144,5 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

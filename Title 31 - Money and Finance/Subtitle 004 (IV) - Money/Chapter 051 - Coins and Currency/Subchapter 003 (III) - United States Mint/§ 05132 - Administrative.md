@@ -6,7 +6,7 @@
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of not less than 90 percent silver; and
 
 &emsp;(ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -20,11 +20,11 @@
 
 (3) Not more than $54,208,000 may be appropriated to the Secretary for the fiscal year ending on September 30, 1993, to pay costs of the mints. Not more than $965,000 of amounts appropriated pursuant to the preceding sentence shall remain available until expended for research and development.
 
-(b) To the extent the Secretary decides is necessary, the Secretary may use amounts receivedfrom depositors for refining bullion and the proceeds from the sale of byproducts (including spent acids from surplus bullion recovered in refining processes) to pay the costs of refining the bullion (including labor, material, waste, and loss on the sale of sweeps). The Secretary may not use amounts appropriated for the mints to pay those costs.
+(b) To the extent the Secretary decides is necessary, the Secretary may use amounts received from depositors for refining bullion and the proceeds from the sale of byproducts (including spent acids from surplus bullion recovered in refining processes) to pay the costs of refining the bullion (including labor, material, waste, and loss on the sale of sweeps). The Secretary may not use amounts appropriated for the mints to pay those costs.
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, §73001(2), Dec. 4, 2015, 129 Stat. 1786.)
 
 Historical and Revision Notes<br>1982
 
@@ -98,6 +98,8 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(2)(B)(i). Pub. L. 114–94 substituted "not less than 90 percent silver" for "90 percent silver and 10 percent copper".
+
 <b>2000</b>—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted "paragraphs (2)" for "paragraphs (1)".
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–390, §225(b)(3), substituted "United States Mint" for "Bureau of the Mint" in two places.
@@ -112,7 +114,7 @@ Subsec. (c). Pub. L. 102–390, §225(b)(4), substituted "United States Mint" fo
 
 <b>1990</b>—Subsec. (a)(2) to (5). Pub. L. 101–585 added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted "(3)" for "(2)" in par. (4).
 
-<b>1988</b>—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which read as follows: "Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices."
+<b>1988</b>—Subsec. (a)(2) to (4). Pub. L. 100–274, §1, added pars. (2) to (4) and struck out former par. (2) which readas follows: "Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices."
 
 Subsec. (b). Pub. L. 100–274, §2(c)(3), struck out "and assay offices" after "amounts appropriated for the mints" in last sentence.
 

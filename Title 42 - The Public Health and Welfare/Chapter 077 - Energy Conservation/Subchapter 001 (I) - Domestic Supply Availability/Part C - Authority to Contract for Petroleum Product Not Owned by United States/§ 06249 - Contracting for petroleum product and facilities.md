@@ -20,7 +20,7 @@ Subject to the other provisions of this part, the Secretary may contract—
 
 (3) A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
 
-(4) A contract entered into under subsection (a) of this section shall include a provision thatthe obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
+(4) A contract entered into under subsection (a) of this section shall include a provision that the obligation of the United States to make payments under the contract in any fiscal year is subject to the availability of appropriations.
 
 #### (c) Charge for storage
 

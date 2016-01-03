@@ -6,7 +6,7 @@ Prohibition on Counting Enlisted Service Performed While at Service Academy or i
 
 (b)
 
-Prohibition on Counting Service as a Cadet or Midshipman.—In computing length ofservice for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:
+Prohibition on Counting Service as a Cadet or Midshipman.—In computing length of service for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:
 
 &emsp;(1) An officer of the Navy or Marine Corps.
 

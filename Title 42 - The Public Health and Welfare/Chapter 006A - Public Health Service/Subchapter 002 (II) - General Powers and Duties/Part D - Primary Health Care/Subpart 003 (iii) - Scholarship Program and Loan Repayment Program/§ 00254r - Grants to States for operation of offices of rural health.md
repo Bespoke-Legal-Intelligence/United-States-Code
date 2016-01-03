@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (2) Determination of amount of non-Federal contribution
 
-&emsp;(A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may bein cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;(A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 &emsp;(B) The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
 
@@ -30,7 +30,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (c) Certain required activities
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that activities carried out by an office operated pursuant to such subsection will include—
+The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees that activities carried out by an office operated pursuant to such subsection will include—
 
 &emsp;(1) establishing and maintaining within the State a clearinghouse for collecting and disseminating information on—
 
@@ -122,7 +122,7 @@ No grant may be made under this section after the aggregate amounts appropriated
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which wasomitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 

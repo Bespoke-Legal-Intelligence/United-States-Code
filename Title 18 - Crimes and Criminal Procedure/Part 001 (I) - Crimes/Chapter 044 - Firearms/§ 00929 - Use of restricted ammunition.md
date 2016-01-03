@@ -1,6 +1,6 @@
 ### §929. Use of restricted ammunition
 
-(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crime be sentenced to a term of imprisonment for not less than five years.
+(a)(1) Whoever, during and in relation to the commission of a crime of violence or drug trafficking crime (including a crime of violence ordrug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm and is in possession of armor piercing ammunition capable of being fired in that firearm, shall, in addition to the punishment provided for the commission of such crime of violence or drug trafficking crime be sentenced to a term of imprisonment for not less than five years.
 
 (2) For purposes of this subsection, the term "drug trafficking crime" means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46.
 
@@ -28,7 +28,7 @@ Subsec. (a)(2). Pub. L. 100–690, §6212, amended par. (2) generally. Prior to 
 
 Pub. L. 99–308 designated existing provision as par. (1), substituted "violence or drug trafficking crime," for "violence" in three places, and added par. (2).
 
-Subsec. (b). Pub. L. 99–408, §8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrentlywith other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining "armor-piercing ammunition" and "handgun".
+Subsec. (b). Pub. L. 99–408, §8(2), amended subsec. (b) generally, substituting provisions that the court may not suspend sentence of any person convicted of a violation of this section or place the person on probation, that term of imprisonment may not run concurrently with other terms of imprisonment, and that the person is not eligible for parole during term of imprisonment, for provisions defining "armor-piercing ammunition" and "handgun".
 
 #### Effective Date of 1986 Amendment
 

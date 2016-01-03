@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
+Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 15 percent of the amount realized on the disposition.
 
 #### (b) Exemptions
 
@@ -20,7 +20,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;(A) the domestic corporation is not and has not been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii), or
 
-&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not UnitedStates real property interests by reason of section 897(c)(1)(B).
+&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).
 
 #### (4) Transferee receives qualifying statement
 
@@ -122,6 +122,18 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
 
+#### (4) Reduced rate of withholding for residence where amount realized does not exceed $1,000,000
+
+&emsp;In the case of a disposition—
+
+&emsp;&emsp;(A) of property which is acquired by the transferee for use by the transferee as a residence,
+
+&emsp;&emsp;(B) with respect to which the amount realized for such property does not exceed $1,000,000, and
+
+&emsp;&emsp;(C) to which subsection (b)(5) does not apply,
+
+> &emsp;subsection (a) shall be applied by substituting "10 percent" for "15 percent".
+
 #### (d) Liability of transferor's agents, transferee's agents, or qualified substitutes
 
 #### (1) Notice of false affidavit; foreign corporations
@@ -192,15 +204,15 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
-&emsp;A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+&emsp;A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
 
 #### (5) Rules relating to dispositions of interest in partnerships, trusts, or estates
 
-&emsp;To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
+&emsp;To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
 
 #### (6) Distributions by regulated investment companies and real estate investment trusts
 
@@ -224,7 +236,11 @@ For purposes of this section—
 
 #### (3) Foreign person
 
-&emsp;The term "foreign person" means any person other than a United States person.
+&emsp;The term "foreign person" means any person other than—
+
+&emsp;&emsp;(A) a United States person, and
+
+&emsp;&emsp;(B) except as otherwise provided by the Secretary, an entity with respect to which section 897 does not apply by reason of subsection (l) thereof.
 
 #### (4) Transferor's maximum tax liability
 
@@ -246,9 +262,17 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the transferee's agent.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, §102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319.)
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758; Pub. L. 109–222, title V, §§505(b), 506(b), May 17, 2006, 120 Stat. 356, 358; Pub. L. 110–289, div. C, title I, §3024(a)–(c), July 30, 2008, 122 Stat. 2895; Pub. L. 112–240, title I, §102(c)(1)(C), (3), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title III, §§323(b), 324(a), (b), Dec. 18, 2015, 129 Stat. 3103.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–113, §324(a), substituted "15 percent" for "10 percent".
+
+Subsec. (c)(4). Pub. L. 114–113, §324(b), added par. (4).
+
+Subsec. (e)(3) to (5). Pub. L. 114–113, §324(a), substituted "15 percent" for "10 percent".
+
+Subsec. (f)(3). Pub. L. 114–113, §323(b), substituted "any person other than—" for "any person other than a United States person." and added subpars. (A) and (B).
 
 <b>2013</b>—Subsec. (e)(1). Pub. L. 112–240, §102(c)(1)(C), substituted "20 percent" for "15 percent" in introductory provisions.
 
@@ -280,7 +304,7 @@ Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignate
 
 <b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted "(or, to the extent provided in regulations, 28 percent)" after "to 34 percent".
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting "interests in corporation not United States real property interests" for "it is not a United States real property holding corporation" in heading, striking out the comma before "if the domestic corporation" in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting "interests in corporation not United States real property interests" for "itis not a United States real property holding corporation" in heading, striking out the comma before "if the domestic corporation" in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
 Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted "paragraph (2)" for "paragraph (2)(A)".
 
@@ -307,6 +331,12 @@ Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence
 Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted "section 897" for "section 897(g)".
 
 Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted "and regulations for the application of this subsection in the case of payments through 1 or more entities".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by section 323(b) of Pub. L. 114–113 applicable to dispositions and distributions after Dec. 18, 2015, see section 323(c) of Pub. L. 114–113, set out as a note under section 897 of this title.
+
+Pub. L. 114–113, div. Q, title III, §324(c), Dec. 18, 2015, 129 Stat. 3103, provided that: "The amendments made by this section \[amending this section\] shall apply to dispositions after the date which is 60 days after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2013 Amendment
 

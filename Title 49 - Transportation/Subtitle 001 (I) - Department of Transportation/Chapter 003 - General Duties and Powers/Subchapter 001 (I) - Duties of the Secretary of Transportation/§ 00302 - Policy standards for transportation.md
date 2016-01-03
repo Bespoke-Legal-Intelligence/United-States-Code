@@ -52,7 +52,7 @@ Oct. 15, 1966, Pub. L. 89–670, §4(b), 80 Stat. 933.
 
 49:1653(b)(3).
 
-In subsection (a), the words "In carrying out his duties and responsibilities under this chapter" before "Secretary of Transportation" are omitted as surplus. The words "the transportation policy of sections 10101 and 10101a of this title in addition to other laws" are substituted for "all applicable statutes including the policy standards set forth in the Federal Aviation Actof 1958, as amended \[49 U.S.C. 1301 et seq.\]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard" because each of the omitted laws is now applicable to the Secretary of Transportation and the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
+In subsection (a), the words "In carrying out his duties and responsibilities under this chapter" before "Secretary of Transportation" are omitted as surplus. The words "the transportation policy of sections 10101 and 10101a of this title in addition to other laws" are substituted for "all applicable statutes including the policy standards set forth in the Federal Aviation Act of 1958, as amended \[49 U.S.C. 1301 et seq.\]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard" because each of the omitted laws is now applicable to the Secretary of Transportation and the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
 
 In subsection (c), the words "In exercising the functions, powers, and duties conferred on and transferred to the Secretary by this chapter" before "Secretary" are omitted as surplus. The word "consider" is substituted for "give full consideration to" to eliminate surplus words. The words "for operational continuity of the functions transferred" after "the needs" are omitted as executed.
 
@@ -70,9 +70,9 @@ Subsec. (e). Pub. L. 102–240, §5001, added subsec. (e).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of Title 23, Highways.
+Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized tobe appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of Title 23, Highways.
 

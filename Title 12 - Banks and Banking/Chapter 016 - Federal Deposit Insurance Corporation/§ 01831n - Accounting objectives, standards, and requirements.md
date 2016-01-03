@@ -24,7 +24,7 @@
 
 #### (3) Review and implementation of accounting principles required
 
-&emsp;Before the end of the 1-year period beginning on December 19, 1991, each appropriate Federal banking agency shall take the following actions:
+&emsp;Before the end of the 1-year period beginning on December 19, 1991, each appropriate Federalbanking agency shall take the following actions:
 
 #### (A) Review of accounting principles
 
@@ -68,7 +68,7 @@
 
 &emsp;Each report under this subsection shall be published in the Federal Register.
 
-(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250; amended Pub. L. 106–569, title XII, §§1221,1223, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 109–173, §8(a)(35), Feb. 15, 2006, 119 Stat. 3615.)
+(Sept. 21, 1950, ch. 967, §2\[37\], as added Pub. L. 102–242, title I, §121(a), Dec. 19, 1991, 105 Stat. 2250; amended Pub. L. 106–569, title XII, §§1221, 1223, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 109–173, §8(a)(35), Feb. 15, 2006, 119 Stat. 3615.)
 
 #### References in Text
 

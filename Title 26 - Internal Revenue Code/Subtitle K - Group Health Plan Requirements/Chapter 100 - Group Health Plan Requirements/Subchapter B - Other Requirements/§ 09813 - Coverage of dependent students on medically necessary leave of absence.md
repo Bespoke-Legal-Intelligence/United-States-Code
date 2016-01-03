@@ -46,7 +46,7 @@ If—
 
 &emsp;(1) a dependent child of a participant or beneficiary is in a period of coverage under a group health plan, pursuant to a medically necessary leave of absence of the child described in subsection (b);
 
-&emsp;(2) the manner in which the participant or beneficiary is covered under the plan changes,whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
+&emsp;(2) the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
 
 &emsp;(3) the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
 

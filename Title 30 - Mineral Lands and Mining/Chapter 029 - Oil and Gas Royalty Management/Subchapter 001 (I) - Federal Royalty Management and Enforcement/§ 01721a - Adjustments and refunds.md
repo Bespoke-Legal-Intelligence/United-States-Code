@@ -4,7 +4,7 @@
 
 (1) If, during the adjustment period, a lessee or its designee determines that an adjustment or refund request is necessary to correct an underpayment or overpayment of an obligation, the lessee or its designee shall make such adjustment or request a refund within a reasonable period of time and only during the adjustment period. The filing of a royalty report which reflects the underpayment or overpayment of an obligation shall constitute prior written notice to the Secretary or the applicable delegated State of an adjustment.
 
-(2)(A) For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the same time the lessee or its designee adjusts the principle <sup>1</sup> amount of the subject obligation, except as provided by subparagraph (B).
+(2)(A) For any adjustment, the lessee or its designee shall calculate and report the interest due attributable to such adjustment at the sametime the lessee or its designee adjusts the principle <sup>1</sup> amount of the subject obligation, except as provided by subparagraph (B).
 
 (B) In the case of a lessee or its designee who determines that subparagraph (A) would impose a hardship, the Secretary or such delegated State shall calculate the interest due and notify the lessee or its designee within a reasonable time of the amount of interest due, unless such lessee or its designee elects to calculate and report interest in accordance with subparagraph (A).
 

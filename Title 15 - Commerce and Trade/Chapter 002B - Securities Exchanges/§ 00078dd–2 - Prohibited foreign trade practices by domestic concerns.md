@@ -30,11 +30,11 @@ It shall be unlawful for any domestic concern, other than an issuer which is sub
 
 #### (b) Exception for routine governmental action
 
-Subsections (a) and (i) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+Subsections (a) and (i) shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
 
 #### (c) Affirmative defenses
 
-It shall be an affirmative defense to actions under subsection (a) or (i) of this section that—
+It shall be an affirmative defense to actions under subsection (a) or (i) that—
 
 &emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
@@ -54,7 +54,7 @@ It shall be an affirmative defense to actions under subsection (a) or (i) of thi
 
 #### (e) Guidelines by Attorney General
 
-Not later than 6 months after August 23, 1988, the Attorney General, after consultation withthe Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
+Not later than 6 months after August 23, 1988, the Attorney General, after consultation with the Securities and Exchange Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
 &emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
@@ -68,7 +68,7 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 (2) Any document or other material which is provided to, received by, or prepared in the Department of Justice or any other department or agency of the United States in connection with a request by a domestic concern under the procedure established under paragraph (1), shall be exempt from disclosure under section 552 of title 5 and shall not, except with the consent of the domestic concern, be made publicly available, regardless of whether the Attorney General responds to such a request or the domestic concern withdraws such request before receiving a response.
 
-(3) Any domestic concern who has made a request to the Attorney General under paragraph (1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
+(3) Any domestic concern who has made a request to the Attorney General under paragraph\(1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
 
 (4) The Attorney General shall, to the maximum extent practicable, provide timely guidance concerning the Department of Justice's present enforcement policy with respect to the preceding provisions of this section to potential exporters and small businesses that are unable to obtain specialized counsel on issues pertaining to such provisions. Such guidance shall be limited to responses to requests under paragraph (1) concerning conformity of specified prospective conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section and general explanations of compliance responsibilities and of potential liabilities under the preceding provisions of this section.
 
@@ -132,7 +132,7 @@ For purposes of this section:
 
 #### (i) Alternative jurisdiction
 
-(1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+(1) It shall also be unlawful for any United States person to corruptly do any act outsidethe United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a), for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
 (2) As used in this subsection, the term "United States person" means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 

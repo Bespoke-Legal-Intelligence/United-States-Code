@@ -30,7 +30,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (5) No preexisting condition exclusion or waiting period
 
-&emsp;The State does not apply any exclusion of benefits for pregnancy-related assistance based on any preexisting condition or any waiting period (including any waiting period imposed to carry out section 1397bb(b)(3)(C) of this title) for receipt of such assistance.
+&emsp;The State does not apply any exclusion of benefits for pregnancy-related assistancebased on any preexisting condition or any waiting period (including any waiting period imposed to carry out section 1397bb(b)(3)(C) of this title) for receipt of such assistance.
 
 #### (6) Application of cost-sharing protection
 

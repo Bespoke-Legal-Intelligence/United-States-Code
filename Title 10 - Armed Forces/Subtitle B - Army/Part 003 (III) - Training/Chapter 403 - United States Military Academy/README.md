@@ -36,10 +36,13 @@
 | [4359\.](%C2%A7%2004359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md) | Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds. |
 | [4360\.](%C2%A7%2004360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
 | [4361\.](%C2%A7%2004361%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md) | Policy on sexual harassment and sexual violence. |
+| [4362\.](%C2%A7%2004362%20-%20Support%20of%20athletic%20programs.md) | Support of athletic programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title V, §557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §541(a)(2), Oct. 14, 2008, 122 Stat. 4455, added item 4345a.
 
@@ -114,3 +117,4 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 - [&sect; 04359 - Mixed-funded athletic and recreational extracurricular programs authority to manage appropriated funds in same manner as nonappropriated&#8230;](%C2%A7%2004359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md)
 - [&sect; 04360 - Cadets charges and fees for attendance; limitation](%C2%A7%2004360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)
 - [&sect; 04361 - Policy on sexual harassment and sexual violence](%C2%A7%2004361%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md)
+- [&sect; 04362 - Support of athletic programs](%C2%A7%2004362%20-%20Support%20of%20athletic%20programs.md)

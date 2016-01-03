@@ -42,7 +42,7 @@ Establishment.—(1) The National Space Council shall establish a Users' Advisor
 
 "(3) The National Space Council shall from time to time, but not less than once a year, meet with the Users' Advisory Group.
 
-"(4) The function of the Users' Advisory Group shall be to ensure that the interests of industries and other non-Federal entities involved in space activities, including in particular commercial entities, are adequately represented in the National Space Council.
+"(4) The function of the Users' Advisory Group shall be to ensure that the interests of industries and othernon-Federal entities involved in space activities, including in particular commercial entities, are adequately represented in the National Space Council.
 
 "(5) The Users' Advisory Group may be assisted by personnel detailed to the National Space Council.
 
@@ -70,7 +70,7 @@ Pub. L. 100–685, title V, §501, Nov. 17, 1988, 102 Stat. 4102, provided that:
 
 Ex. Ord. No. 10849, Nov. 27, 1959, 24 F.R. 9559, as amended by Ex. Ord. No. 10942, May 19, 1961, 26 F.R. 4419, provided:
 
-WHEREAS the Administrator of the National Aeronautics and Space Administration has caused to bemade, and has recommended that I approve, a seal for the National Aeronautics and Space Administration, the design of which accompanies and is hereby made a part of this order, and which is described as follows:
+WHEREAS the Administrator of the National Aeronautics and Space Administration has caused to be made, and has recommended that I approve, a seal for the National Aeronautics and Space Administration, the design of which accompanies and is hereby made a part of this order, and which is described as follows:
 
 On a disc of the blue sky strewn with white stars, to dexter a larger yellow sphere bearing a red flight symbol apex in upper sinister and wings enveloping and casting a brown shadow upon the sphere, all partially encircled with a horizontal white orbit, in sinister a small light-blue sphere; circumscribing the disc a white band edged gold inscribed "National Aeronautics and Space Administration U.S.A." in red letters.
 
@@ -162,7 +162,7 @@ Sec. 7. <i>Administrative Provisions</i>. (a) The Office of Administration in th
 
 (c) All Federal departments, agencies, and interagency councils and committees having an impact on space policy shall extend, as appropriate, such cooperation and assistance to the Council as is necessary to carry out its responsibilities under this order.
 
-(d) The head of each agency serving on the Council or represented on any working group or committee of the Council shall provide such administrative support as may be necessary, in accordance with law and subjectto the availability of appropriations, to enable the agency head or its representative to carry out his responsibilities.
+(d) The head of each agency serving on the Council or represented on any working group or committee of the Council shall provide such administrative support as may be necessary, in accordance with law and subject to the availability of appropriations, to enable the agency head or its representative to carry out his responsibilities.
 
 Sec. 8. <i>Report</i>. The Council shall submit an annual report setting forth its assessment of and recommendations for the space policy and strategy of the United States Government.
 

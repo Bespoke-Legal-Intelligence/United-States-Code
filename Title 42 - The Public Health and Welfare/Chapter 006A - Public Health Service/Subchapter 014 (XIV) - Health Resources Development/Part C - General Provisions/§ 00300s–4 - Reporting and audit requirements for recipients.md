@@ -2,7 +2,7 @@
 
 #### (a) Filing of financial statement with appropriate State Agency; form and contents
 
-In the case of any facility for which an allotment payment, grant, loan, or loan guarantee has been made under this subchapter, the applicant for such payment, grant, loan, or loanguarantee (or, if appropriate, such other person as the Secretary may prescribe) shall file at least annually with the State Agency for the State in which the facility is located a statement which shall be in such form, and contain such information, as the Secretary may require to accurately show—
+In the case of any facility for which an allotment payment, grant, loan, or loan guarantee has been made under this subchapter, the applicant for such payment, grant, loan, or loan guarantee (or, if appropriate, such other person as the Secretary may prescribe) shall file at least annually with the State Agency for the State in which the facility is located a statement which shall be in such form, and contain such information, as the Secretary may require to accurately show—
 
 &emsp;(1) the financial operations of the facility, and
 

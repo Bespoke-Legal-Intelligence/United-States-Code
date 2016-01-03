@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the heads of the State systems for public higher education, or, if such a position does not exist, not less than 1 representative of a public degree-granting institution of higher education;
 
-&emsp;&emsp;&emsp;(iii) a representative of the agencies in the State that administer Federal orState-funded early childhood education programs;
+&emsp;&emsp;&emsp;(iii) a representative of the agencies in the State that administer Federal or State-funded early childhood education programs;
 
 &emsp;&emsp;&emsp;(iv) not less than 1 representative of a public community college;
 
@@ -98,7 +98,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(iii) convening stakeholders within the State and creating a forum for identifying and deliberating on education issues that—
 
-&emsp;&emsp;&emsp;&emsp;(I) involve preschool through grade 12 education, postsecondary education, the 21st century workforce, and the Armed Forces; and
+&emsp;&emsp;&emsp;&emsp;(I) involve preschool through grade 12 education, postsecondary education, the21st century workforce, and the Armed Forces; and
 
 &emsp;&emsp;&emsp;&emsp;(II) transcend any single system of education's ability to address; and
 
@@ -118,7 +118,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(iv) identifying and addressing teacher certification needs; or
 
-&emsp;&emsp;&emsp;(v) incorporating 21st century learning skills into the State plan, which skillsshall include critical thinking, problem solving, communication, collaboration, global awareness, and business and financial literacy.
+&emsp;&emsp;&emsp;(v) incorporating 21st century learning skills into the State plan, which skills shall include critical thinking, problem solving, communication, collaboration, global awareness, and business and financial literacy.
 
 #### (2) Grants for statewide P–16 education data systems
 
@@ -198,7 +198,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;With respect to preschool through grade 12 education—
 
-&emsp;&emsp;&emsp;&emsp;(I) yearly test records of individual students with respect to assessments under section 6311(b) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) information on students not tested by grade and subject;
 
@@ -270,7 +270,7 @@ Each State that receives a grant under this section shall provide, from non-Fede
 
 There are authorized to be appropriated to carry out this section $120,000,000 for each of fiscal years 2011 and 2012.
 
-(Pub. L. 110–69, title VI, §6201, formerly §6401, Aug. 9, 2007, 121 Stat. 668; renumbered §6201 and amended Pub. L. 111–358, title X, §§1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049.)
+(Pub. L. 110–69, title VI, §6201, formerly §6401, Aug. 9, 2007, 121 Stat. 668; renumbered §6201 and amended Pub. L. 111–358, title X, §§1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049; Pub. L. 114–95, title IX, §9215(i)(4), Dec. 10, 2015, 129 Stat. 2168.)
 
 #### References in Text
 
@@ -282,7 +282,13 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments under section 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
+
 <b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "to enable".</i>
 

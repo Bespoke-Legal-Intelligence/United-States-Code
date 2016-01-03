@@ -14,7 +14,7 @@
 
 (4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and an opportunity for public comment, upon receiving any such proposed changes from a Council.
 
-(5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) of this section to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
+(5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
 
 (6) Nothing in this subsection shall be construed to permit a person or vessel to engage in fishing or employ fishing gear when such fishing or gear is prohibited or restricted by regulation under a fishery management plan or plan amendment, or under other applicable law.
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) shall comment on and make recommendations to the Secretary and any Federal or State agency concerning any such activity that, in the view of the Council, is likely to substantially affect the habitat, including essential fish habitat, of an anadromous fishery resource under its authority.
 
-(4)(A) If the Secretary receives information from a Council or Federal or State agency or determines from other sources that an action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by any State or Federal agency would adversely affectany essential fish habitat identified under this chapter, the Secretary shall recommend to such agency measures that can be taken by such agency to conserve such habitat.
+(4)(A) If the Secretary receives information from a Council or Federal or State agency or determines from other sources that an action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by any State or Federal agency would adversely affect any essential fish habitat identified under this chapter, the Secretary shall recommend to such agency measures that can be taken by such agency to conserve such habitat.
 
 (B) Within 30 days after receiving a recommendation under subparagraph (A), a Federal agency shall provide a detailed response in writing to any Council commenting under paragraph (3) and the Secretary regarding the matter. The response shall include a description of measures proposed by the agency for avoiding, mitigating, or offsetting the impact of the activity on such habitat. In the case of a response that is inconsistent with the recommendations of the Secretary, the Federal agency shall explain its reasons for not following the recommendations.
 
@@ -82,7 +82,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (B) A response of the Secretary under this paragraph shall include a copy of the administrative record for the regulations that are the subject of the petition.
 
-(4) Upon a motion by the person who files a petition under this subsection, the appropriatecourt shall assign the matter for hearing at the earliest possible date and shall expedite the matter in every possible way.
+(4) Upon a motion by the person who files a petition under this subsection, the appropriate court shall assign the matter for hearing at the earliest possible date and shall expedite the matter in every possible way.
 
 #### (g) Negotiated conservation and management measures
 
@@ -90,7 +90,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (B) No later than 180 days after October 11, 1996, the Secretary shall promulgate regulations establishing procedures, developed in cooperation with the Administrative Conference of the United States, for the establishment and operation of fishery negotiation panels. Such procedures shall be comparable to the procedures for negotiated rulemaking established by subchapter III of chapter 5 of title 5.
 
-(2) If a negotiation panel submits a report, such report shall specify all the areas where consensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
+(2) If a negotiation panel submits a report, such report shall specify all the areas whereconsensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
 
 (3) Nothing in this subsection shall be construed to require either a Council or the Secretary, whichever is appropriate, to use all or any portion of a report from a negotiation panel established under this subsection in the development of specific conservation and management measures for the fishery for which the panel was established.
 
@@ -278,7 +278,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (I) Secretarial approval not required
 
-&emsp;&emsp;Notwithstanding any other provision of law or regulation thereunder, the approval by the Secretary of a community development plan, or an amendment thereof, under the program is not required.
+&emsp;&emsp;Notwithstanding any other provision of law or regulation thereunder, the approvalby the Secretary of a community development plan, or an amendment thereof, under the program is not required.
 
 #### (J) Community development plan defined
 
@@ -318,7 +318,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a pilot program for regionally-based marine education and training programs in the Western Pacific and the Northern Pacific to foster understanding, practical use of knowledge (including native Hawaiian, Alaskan Native, and other Pacific Islander-based knowledge), and technical expertise relevant to stewardship of living marine resources. The Secretary shall, in cooperation with the Western Pacific and the North Pacific Regional Fishery Management Councils, regional educational institutions, and local Western Pacific and Northern Pacific community training entities, establishprograms or projects that will improve communication, education, and training on marine resource issues throughout the region and increase scientific education for marine-related professions among coastal community residents, including indigenous Pacific islanders, Native Hawaiians, Alaskan Natives, and other underrepresented groups in the region.
+&emsp;The Secretary shall establish a pilot program for regionally-based marine education and training programs in the Western Pacific and the Northern Pacific to foster understanding, practical use of knowledge (including native Hawaiian, Alaskan Native, and other Pacific Islander-based knowledge), and technical expertise relevant to stewardship of living marine resources. The Secretary shall, in cooperation with the Western Pacific and the North Pacific Regional Fishery Management Councils, regional educational institutions, and local Western Pacific and Northern Pacific community training entities, establish programs or projects that will improve communication, education, and training on marine resource issues throughout the region and increase scientific education for marine-related professions among coastal community residents, including indigenous Pacific islanders, Native Hawaiians, Alaskan Natives, and other underrepresented groups in the region.
 
 #### (2) Program components
 
@@ -332,7 +332,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;(D) include programs to identify, with the fishing industry, methods and technologies that will improve the data collection, quality, and reporting and increase the sustainability of fishing practices, and to transfer such methods and technologies among fisheries sectors and to other nations in the Western, Northern, and Central Pacific;
 
-&emsp;&emsp;(E) develop means by which local and traditional knowledge (including Pacific islander, Native Hawaiian, and Alaskan Native knowledge) can enhance science-based management of fishery resources of the region; and
+&emsp;&emsp;(E) develop means by which local and traditional knowledge (including Pacific islander, Native Hawaiian, and Alaskan Native knowledge) can enhance science-basedmanagement of fishery resources of the region; and
 
 &emsp;&emsp;(F) develop partnerships with other Western Pacific Island and Alaskan agencies, academic institutions, and other entities to meet the purposes of this section.
 
@@ -404,7 +404,7 @@ Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "
 
 Pub. L. 104–297, §110(b)(2)(A), (B), substituted "or that interim measures are needed to reduce overfishing for" for "involving" and inserted "or interim measures" after "emergency regulations".
 
-Subsec. (c)(2). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency", was executed by making the insertion after "the emergency" in subpars. (A) and (B) to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency",was executed by making the insertion after "the emergency" in subpars. (A) and (B) to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §110(b)(2)(A), (B), substituted "or that interim measures are needed to reduce overfishing for" for "involving" in introductory provisions and inserted "or interim measures" after "emergency regulations" in subpars. (A) and (B).
 
@@ -436,7 +436,7 @@ Subsec. (b). Pub. L. 97–453, §8(1), struck out subsec. (b) which had provided
 
 Subsec. (c). Pub. L. 97–453, §8(2), substituted provision that the Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title if such plan or amendment takes effect under section 1854(b)(1) of this title, within 75 days after a revised plan or amendment was received by him under section 1854(b) of this title if such plan or amendment takes effect under paragraph (3)(D) of such section, or within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) of this title, for provision that the Secretary promulgate regulations to implement any fishery management plan or any amendment to any such plan after consideration of all relevant matters presented to him during the 45-day period referred to in former subsection (a) of this section and produced in any hearing held under former subsection (b) of this section if he found the plan or amendment consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that to the extent practicable, such regulation be put into effect in a manner not disruptive of the regular fishing season for any fishery.
 
-Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to addressthe emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
+Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
 
 Subsec. (f). Pub. L. 97–453, §8(4), struck out subsec. (f) which had directed the Secretary to report to the Congress and the President, not later than March 1 of each year, on all activities of the Councils and the Secretary with respect to fishery management plans, regulations to implement such plans, and all other activities relating to the conservation and management of fishery resources undertaken under this chapter during the preceding calendar year.
 
@@ -492,7 +492,7 @@ Pub. L. 104–297, title I, §110(e), Oct. 11, 1996, 110 Stat. 3592, as amended 
 
 Pub. L. 104–297, title I, §111(b), Oct. 11, 1996, 110 Stat. 3594, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250; Pub. L. 106–555, title II, §206, Dec. 21, 2000, 114 Stat. 2770; Pub. L. 109–479, title II, §207, Jan. 12, 2007, 120 Stat. 3615, provided that:
 
-"(1) The Secretary of Commerce is authorized to make direct grants to eligible western Pacific communities, as recommended by the Western Pacific Fishery Management Council, for the purpose of establishing fishery demonstration projects to foster and promote traditional indigenous fishing practices. There are authorized to be appropriated to carry out this section\[amending this section and enacting this note\] $500,000 for each fiscal year.
+"(1) The Secretary of Commerce is authorized to make direct grants to eligible western Pacific communities, as recommended by the Western Pacific Fishery Management Council, for the purpose of establishing fishery demonstration projects to foster and promote traditional indigenous fishing practices. There are authorized to be appropriated to carry out this section \[amending this section and enacting this note\] $500,000 for each fiscal year.
 
 "(2) Demonstration projects funded pursuant to this subsection shall foster and promote the involvement of western Pacific communities in western Pacific fisheries and may—
 

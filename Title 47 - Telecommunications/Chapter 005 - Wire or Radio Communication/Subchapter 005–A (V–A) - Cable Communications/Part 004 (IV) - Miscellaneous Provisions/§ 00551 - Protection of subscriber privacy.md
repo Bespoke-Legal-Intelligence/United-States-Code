@@ -2,7 +2,7 @@
 
 #### (a) Notice to subscriber regarding personally identifiable information; definitions
 
-(1) At the time of entering into an agreement to provide any cable service or other service to a subscriber and at least once a year thereafter, a cable operator shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
+(1) At the time of entering into an agreement to provide any cable service or other service to a subscriber and at least once a year thereafter,a cable operator shall provide notice in the form of a separate, written statement to such subscriber which clearly and conspicuously informs the subscriber of—
 
 &emsp;(A) the nature of personally identifiable information collected or to be collected with respect to the subscriber and the nature of the use of such information;
 

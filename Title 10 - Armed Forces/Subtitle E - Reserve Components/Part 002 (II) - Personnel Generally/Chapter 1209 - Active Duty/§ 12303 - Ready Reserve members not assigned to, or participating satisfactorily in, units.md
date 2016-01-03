@@ -1,6 +1,6 @@
 ### §12303. Ready Reserve: members not assigned to, or participating satisfactorily in, units
 
-(a) Notwithstanding any other provision of law, the President may order to active duty anymember of the Ready Reserve of an armed force who—
+(a) Notwithstanding any other provision of law, the President may order to active duty any member of the Ready Reserve of an armed force who—
 
 &emsp;(1) is not assigned to, or participating satisfactorily in, a unit of the Ready Reserve;
 

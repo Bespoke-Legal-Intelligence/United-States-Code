@@ -14,7 +14,7 @@ In accordance with regulations promulgated by the Secretary, an employer to whic
 
 Subsection (a) shall take effect with respect to employers in a State beginning on March 1, 2013.
 
-(June 25, 1938, ch. 676, §18B, as added and amended Pub. L. 111–148, title I, §1512, title X, §10108(i)(2), Mar. 23, 2010, 124 Stat. 252, 914; Pub. L. 112–10, div. B, title VIII, §1858(c), Apr. 15, 2011, 125 Stat. 169.)
+(June 25, 1938, ch. 676, §18B, as added and amended Pub. L. 111–148, title I, §1512, title X, §10108(i)(2), Mar. 23, 2010, 124 Stat. 252, 914; Pub.L. 112–10, div. B, title VIII, §1858(c), Apr. 15, 2011, 125 Stat. 169.)
 
 #### Amendments
 
@@ -24,5 +24,5 @@ Subsection (a) shall take effect with respect to employers in a State beginning 
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, theprovisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of Title 26, Internal Revenue Code.
 

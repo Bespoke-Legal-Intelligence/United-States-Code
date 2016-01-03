@@ -88,7 +88,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 
-&emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which the violation occurred that resulted in the penalty or forfeiture;
+&emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which theviolation occurred that resulted in the penalty or forfeiture;
 
 &emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or any regulation or permit issued under this chapter; and
 
@@ -122,7 +122,7 @@ The area of application and enforceability of this chapter includes the territor
 
 In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
-(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302;amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
+(Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
 
 #### References in Text
 

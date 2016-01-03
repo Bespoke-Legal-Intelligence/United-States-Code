@@ -18,7 +18,7 @@ Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue in
 
 (c)
 
-Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretary may use the agent, or a claims adjuster who is independent of the underwriting agent, to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
+Underwriting Agent.—(1) The Secretary may, and when practical shall, employ an insurance carrier or group of insurance carriers to act as an underwriting agent. The Secretarymay use the agent, or a claims adjuster who is independent of the underwriting agent, to adjust claims under this chapter, but claims may be paid only when approved by the Secretary.
 
 (2) The Secretary may pay reasonable compensation to an underwriting agent for servicing insurance the agent writes for the Secretary. Compensation may include payment for reasonable expenses incurred by the agent but may not include a payment by the agent for stimulation or solicitation of insurance business.
 
@@ -94,7 +94,7 @@ In subsection (b)(2), before clause (A), the words "the Secretary" are added bec
 
 In subsection (c)(1), the words "and when practical shall" are substituted for "and whenever he finds it practical to do so shall" to eliminate unnecessary words. The word "his" is omitted as surplus. The words "The Secretary may use" are substituted for "may be utilized" for consistency. The words "The services of" are omitted as unnecessary.
 
-In subsection (c)(2), the words "pay reasonable compensation" are substituted for "allow . . . fair and reasonable compensation" for consistency in the revised title. The words "an underwriting agent" are substituted for "such companies or groups of companies",and the words "the agent writes" are substituted for "written by such companies or groups of companies as underwriting agent", for clarity. The word "payment" is substituted for "allowance" for consistency.
+In subsection (c)(2), the words "pay reasonable compensation" are substituted for "allow . . . fair and reasonable compensation" for consistency in the revised title. The words "an underwriting agent" are substituted for "such companies or groups of companies", and the words "the agent writes" are substituted for "written by such companies or groups of companies as underwriting agent", for clarity. The word "payment" is substituted for "allowance" for consistency.
 
 In subsection (c)(3), the words "intermediary" and "fee or other" are omitted as surplus. The word "for" is substituted for "by virtue of his participation in" to eliminate unnecessary words.
 

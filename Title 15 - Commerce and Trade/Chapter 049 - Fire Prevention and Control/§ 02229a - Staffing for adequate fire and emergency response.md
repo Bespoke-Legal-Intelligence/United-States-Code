@@ -40,7 +40,7 @@
 
 &emsp;(A) explain the applicant's inability to address the need without Federal assistance;
 
-&emsp;(B) in the case of a grant under subsection (a)(1) of this section, explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F) of this section;
+&emsp;(B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
 
 &emsp;(C) specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
 

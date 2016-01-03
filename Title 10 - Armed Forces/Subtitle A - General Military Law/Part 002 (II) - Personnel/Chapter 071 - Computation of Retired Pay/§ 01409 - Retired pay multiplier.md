@@ -28,7 +28,7 @@ General rule.—Subject to paragraphs (2) and (3), the percentage to be used und
 
 &emsp;(2)
 
-Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title 37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
+Reduction applicable to certain new-retirement members with less than 30 years of service.—In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354 of title37, has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
 
 &emsp;&emsp;(A) 1 percentage point for each full year that the member's years of creditable service are less than 30; and
 
@@ -58,13 +58,63 @@ Retirement after december 31, 2006.—In the case of a member who retires after 
 
 Years of Creditable Service Defined.—In this section, the term "years of creditable service" means the number of years of service creditable to a member in computing the member's retired or retainer pay (including 1/12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 
-(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178.)
+(Added Pub. L. 99–348, title I, §101, July 1, 1986, 100 Stat. 683; amended Pub. L. 101–189, div. A, title VI, §651(b)(3), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(6), Oct. 5, 1994, 108 Stat. 3005; Pub. L. 106–65, div. A, title VI, §§641(a), 643(b)(2), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 109–364, div. A, title VI, §642(a), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 114–92, div. A, title VI, §631(a), Nov. 25, 2015, 129 Stat. 842.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 114–92, div. A, title VI, §§631(a), 635, Nov. 25, 2015, 129 Stat. 842, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by adding at the end the following new paragraph:</i>
+
+&emsp;<i>(4)</i>
+
+<i>Modernized retirement system.—</i>
+
+&emsp;&emsp;<i>(A)</i>
+
+<i>Reduced multiplier for full tsp members.—Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a "full TSP member")—</i>
+
+&emsp;&emsp;&emsp;<i>(i) paragraph (1)(A) shall be applied by substituting "2" for "2½";</i>
+
+&emsp;&emsp;&emsp;<i>(ii) clause (i) of paragraph (3)(B) shall be applied by substituting "60 percent" for "75 percent"; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) clause (ii)(I) of such paragraph shall be applied by substituting "2" for "2½".</i>
+
+&emsp;&emsp;<i>(B)</i>
+
+<i>Election to participate in modernized retirement system.—Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to section 8440e(e) of title 5.</i>
+
+&emsp;&emsp;<i>(C)</i>
+
+<i>Election period.—</i>
+
+&emsp;&emsp;&emsp;<i>(i)</i>
+
+<i>In general.—Except as provided in clauses (ii) and (iii), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.</i>
+
+&emsp;&emsp;&emsp;<i>(ii)</i>
+
+<i>Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.</i>
+
+&emsp;&emsp;&emsp;<i>(iii)</i>
+
+<i>Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.</i>
+
+&emsp;&emsp;<i>(D)</i>
+
+<i>No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member's election under that subparagraph by reason of the member's election.</i>
+
+&emsp;&emsp;<i>(E)</i>
+
+<i>Regulations.—The Secretary concerned shall prescribe regulations to implement this paragraph.</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### References in Text
 
 Section 322 of title 37 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(2), means section 322 of title 37 as in effect before enactment of Pub. L. 110–181. Section 322 of title 37 was renumbered as section 354 of title 37 and amended by Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(4). Pub. L. 114–92 added par. (4).
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted "section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354" for "section 322".
 
@@ -76,11 +126,15 @@ Section 322 of title 37 (as in effect before the enactment of the National Defen
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted "who is entitled to that pay" for "who is retired" in introductory provisions.
 
+#### Effective Date of 2015 Amendment; Implementation
+
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under section 1401a of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

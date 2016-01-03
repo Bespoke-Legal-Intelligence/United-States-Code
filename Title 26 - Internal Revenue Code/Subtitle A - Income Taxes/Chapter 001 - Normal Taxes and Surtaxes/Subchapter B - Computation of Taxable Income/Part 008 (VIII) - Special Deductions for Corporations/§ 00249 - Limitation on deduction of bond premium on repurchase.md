@@ -16,7 +16,7 @@ For purposes of subsection (a), the adjusted issue price is the issue price (as 
 
 Subsec. (b). Pub. L. 113–295, §221(a)(43), which directed amendment of subsec. (b)(1) by striking out ", in the case of bonds or other evidences of indebtedness issued after February 28, 1913," after "repurchase, or", was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress and the prior amendment by Pub. L. 112–95, §1108(b). See 2012 Amendment note below.
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–95, §1108(a), substituted ", or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1) as" for ", or a corporation in control of, or controlled by,".
+<b>2012</b>—Subsec. (a). Pub. L. 112–95, §1108(a), substituted ", or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1)as" for ", or a corporation in control of, or controlled by,".
 
 Subsec. (b). Pub. L. 112–95, §1108(b), substituted "Adjusted issue price" for "Special rules" in heading and "For purposes of subsection (a)," for "For purposes of subsection (a)—" and par. (1) designation and heading, and "the adjusted issue price" for "The adjusted issue price", and struck out par. (2), which defined "control" as having the meaning assigned to such term by section 368(c).
 

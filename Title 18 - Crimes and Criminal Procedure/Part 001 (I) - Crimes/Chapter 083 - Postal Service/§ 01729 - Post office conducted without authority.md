@@ -1,6 +1,6 @@
 ### §1729. Post office conducted without authority
 
-Whoever, without authority from the Postal Service, sets up or professes to keep any office or place of business bearing the sign, name, or title of post office, shall be fined under this title.
+Whoever, without authority from the Postal Service, sets up or professes to keep any officeor place of business bearing the sign, name, or title of post office, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 785; Pub. L. 91–375, §6(j)(34), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 

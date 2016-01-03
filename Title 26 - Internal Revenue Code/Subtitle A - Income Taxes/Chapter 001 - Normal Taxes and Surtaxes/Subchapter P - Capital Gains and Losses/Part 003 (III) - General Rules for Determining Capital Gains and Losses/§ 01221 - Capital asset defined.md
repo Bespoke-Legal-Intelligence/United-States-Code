@@ -30,7 +30,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;(B) such instrument is clearly identified in such dealer's records as being described in subparagraph (A) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe);
 
-&emsp;(7) any hedging transaction which is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
+&emsp;(7) any hedging transaction which is clearly identified as such before the close of the dayon which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
 
 &emsp;(8) supplies of a type regularly used or consumed by the taxpayer in the ordinary course of a trade or business of the taxpayer.
 
@@ -58,7 +58,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;&emsp;&emsp;(II) a variable rate, price, or amount,
 
-&emsp;&emsp;&nbsp;which is based on any current, objectively determinable financial or economic information with respect to commodities whichis not within the control of any of the parties to the contract or instrument and is not unique to any of the parties' circumstances.
+&emsp;&emsp;&nbsp;which is based on any current, objectively determinable financial or economic information with respect to commodities which is not within the control of any of the parties to the contract or instrument and is not unique to any of the parties' circumstances.
 
 #### (2) Hedging transaction
 
@@ -116,7 +116,7 @@ Par. (6). Pub. L. 94–455, §2132(a), added par. (6).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
+Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31,2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2006 Amendment
 

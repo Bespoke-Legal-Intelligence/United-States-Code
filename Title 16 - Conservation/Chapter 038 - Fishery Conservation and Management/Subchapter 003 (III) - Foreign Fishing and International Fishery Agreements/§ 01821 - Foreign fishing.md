@@ -4,15 +4,15 @@
 
 After February 28, 1977, no foreign fishing is authorized within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond the exclusive economic zone, unless such foreign fishing—
 
-&emsp;(1) is authorized under subsections (b) or (c) of this section or section 1824(e) of this title, or under a permit issued under section 1824(d) of this title;
+&emsp;(1) is authorized under subsections (b) or (c) or section 1824(e) of this title, or under a permit issued under section 1824(d) of this title;
 
-&emsp;(2) is not prohibited under subsection (f) of this section; and
+&emsp;(2) is not prohibited under subsection (f); and
 
 &emsp;(3) is conducted under, and in accordance with, a valid and applicable permit issued pursuant to section 1824 of this title.
 
 #### (b) Existing international fishery agreements
 
-Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
+Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
 
 &emsp;(1) was in effect on April 13, 1976; and
 
@@ -20,7 +20,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 #### (c) Governing international fishery agreements
 
-Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a "governing international fishery agreement". Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
+Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a "governing international fishery agreement". Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
 &emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
@@ -38,7 +38,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;(C) transponders, or such other appropriate position-fixing and identification equipment as the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
 
-&emsp;&emsp;(D) United States observers required under subsection (h) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel;
+&emsp;&emsp;(D) United States observers required under subsection (h) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entryand observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel;
 
 &emsp;&emsp;(E) any fees required under section 1824(b)(10) of this title be paid in advance;
 
@@ -48,7 +48,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 > &emsp;and will abide by any other monitoring, compliance, or enforcement requirement related to fishery conservation and management which is included in such agreement.
 
-&emsp;(3) The foreign nation and the owners or operators of all of the fishing vessels of such nation shall not, in any year, harvest an amount of fish which exceeds such nation's allocation of the total allowable level of foreign fishing, as determined under subsection (e) of this section.
+&emsp;(3) The foreign nation and the owners or operators of all of the fishing vessels of such nation shall not, in any year, harvest an amount of fish which exceeds such nation's allocation of the total allowable level of foreign fishing, as determined under subsection (e).
 
 &emsp;(4) The foreign nation will—
 
@@ -58,7 +58,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;(C) abide by, and take appropriate steps under its own laws to assure that all such owners and operators comply with, section 1824(a) of this title and the applicable conditions and restrictions established under section 1824(b)(7) of this title; and
 
-&emsp;&emsp;(D) take, or refrain from taking, as appropriate, actions of the kind referred to in subsection (e)(1) of this section in order to receive favorable allocations under such subsection.
+&emsp;&emsp;(D) take, or refrain from taking, as appropriate, actions of the kind referred to in subsection (e)(1) in order to receive favorable allocations under such subsection.
 
 #### (d) Total allowable level of foreign fishing
 
@@ -66,7 +66,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 #### (e) Allocation of allowable level
 
-(1)(A) The Secretary of State, in cooperation with the Secretary, may make allocations to foreign nations from the total allowable level of foreign fishing which is permitted with respectto each fishery subject to the exclusive fishery management authority of the United States.
+(1)(A) The Secretary of State, in cooperation with the Secretary, may make allocations to foreign nations from the total allowable level of foreign fishing which is permitted with respect to each fishery subject to the exclusive fishery management authority of the United States.
 
 (B) From the determinations made under subparagraph (A), the Secretary of State shall compute the aggregate of all of the fishery allocations made to each foreign nation.
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -156,7 +156,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;&emsp;(C) are described in section 1853(b)(2), (3), (4), (5), and (7) of this title.
 
-> Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV of this chapter, with respect to such fishery. The Secretary may, in accordance with section 553 of title 5, also prepare and promulgate interim regulations with respect to any such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to section 1855 of this title.
+> Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV, with respect to such fishery. The Secretary may, in accordance with section 553 of title 5, also prepare and promulgate interim regulations with respect to any such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to section 1855 of this title.
 
 #### (h) Full observer coverage program
 
@@ -174,7 +174,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 &emsp;(D) for reasons beyond the control of the Secretary, an observer is not available.
 
-(3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific,compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
+(3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
 
 (4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
 
@@ -194,7 +194,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
-(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
+(Pub. L. 94–265, title II, §201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, §4(1)–(4), Aug. 28, 1978,92 Stat. 519, 520; Pub. L. 96–61, §3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, §5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, §2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, §404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, §206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, §104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, §301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, §139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, §105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §5, title IV, §404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
 
 #### Amendment of Section
 
@@ -270,7 +270,7 @@ Subsec. (e)(1)(E)(i). Pub. L. 98–623, §404(2)(B), substituted "both United St
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, §404(2)(C), amended provisions generally, thereby substituting "in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation" for "in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen".
 
-<b>1983</b>—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting "United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel" for "duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers".
+<b>1983</b>—Subsec. (c)(2)(D). Pub. L. 97–453, §2(a)(1), amended par. (D) generally, substituting "United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel" for "duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers".
 
 Subsec. (c)(4)(D). Pub. L. 97–453, §2(a)(2), added subpar. (D).
 
@@ -360,7 +360,7 @@ Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by 
 
 &emsp;&emsp;"(A) the appropriate regional fishery management council recommends under section 204(b)(5) of that Act that the Secretary approve such fishing, and
 
-&emsp;&emsp;"(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommendedby the appropriate regional fishery management council with respect to such fishing."
+&emsp;&emsp;"(B) the Secretary of Commerce includes in the permit any conditions or restrictions recommended by the appropriate regional fishery management council with respect to such fishing."
 
 #### Use of Vessel Identification Equipment
 

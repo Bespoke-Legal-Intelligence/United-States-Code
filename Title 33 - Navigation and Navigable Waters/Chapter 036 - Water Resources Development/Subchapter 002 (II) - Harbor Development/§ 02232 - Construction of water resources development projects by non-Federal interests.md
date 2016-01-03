@@ -30,7 +30,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (c) Studies and engineering
 
-When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for the studies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.
+When requested by an appropriate non-Federal interest, the Secretary may undertake all necessary studies and engineering for any construction to be undertaken under subsection (b), and provide technical assistance in obtaining all necessary permits for the construction, if the non-Federal interest contracts with the Secretary to furnish the United States funds for thestudies, engineering, or technical assistance in the period during which the studies and engineering are being conducted.
 
 #### (d) Credit or reimbursement
 

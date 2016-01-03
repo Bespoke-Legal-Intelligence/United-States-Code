@@ -14,7 +14,7 @@ Allowances Authorized.—(1) The Secretary concerned may provide round trip trav
 
 (b)
 
-Limitation on Amount.—Allowances for travel under subsection (a) may not exceed therates for two days and the time necessary for such travel.
+Limitation on Amount.—Allowances for travel under subsection (a) may not exceed the rates for two days and the time necessary for such travel.
 
 (c)
 
@@ -34,23 +34,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 (d)
 
-Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
-
-(2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
-
-(3) For purposes of paragraph (1), eligible family members of the deceased member of the armed forces include the following:
-
-&emsp;(A) The surviving spouse (including a remarried surviving spouse) of the deceased member.
-
-&emsp;(B) The child or children, including children described in section 401(b)(1) of this title, of the deceased member.
-
-&emsp;(C) The parent or parents of the deceased member (as defined in section 401(b)(2) of this title).
-
-&emsp;(D) If no person described in subparagraph (A), (B), or (C) is provided travel and transportation allowances under paragraph (1), any brothers, sisters, halfbrothers, halfsisters, stepbrothers, and stepsisters of the deceased member.
-
-(e)
-
-Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas to the following:
+Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
 &emsp;(A) The primary next of kin of the member.
 
@@ -64,9 +48,9 @@ Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Ove
 
 (3) Transportation shall be provided under this subsection by means of Invitational Travel Authorizations.
 
-(4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
+(4) The Secretary of a military department may, upon the request of the primary next ofkin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
-(f)
+(e)
 
 Burial Ceremony Defined.—In this section, the term "burial ceremony" includes the following:
 
@@ -78,17 +62,25 @@ Burial Ceremony Defined.—In this section, the term "burial ceremony" includes 
 
 &emsp;(4) A burial of commingled remains that cannot be individually identified in a common grave in a national cemetery.
 
-(g)
+(f)
 
 Regulations.—The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-(h)
+(g)
 
 Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–92, §622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
+
+Subsec. (e). Pub. L. 114–92, §622(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1). Pub. L. 114–92, §621, inserted "(including during a humanitarian relief operation)" after "located or serving overseas" in introductory provisions.
+
+Subsecs. (f) to (h). Pub. L. 114–92, §622(a)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 411f of this title as this section.
 
@@ -132,7 +124,7 @@ Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted "The" for "If no per
 
 "(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
 
-"(c) In this section, the term 'dependents' includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section."
+"(c) In this section, the term 'dependents' includes the dependents specified in paragraphs (1) and (2) ofsection 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section."
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–35 substituted "section 401(a) of this title" for "section 401 of this title".
 

@@ -6,15 +6,15 @@ The Commission shall, in accordance with this section, collect transaction fees 
 
 #### (b) Exchange-traded securities
 
-Subject to subsection (j) of this section, each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
 
 #### (c) Off-exchange trades of exchange registered and last-sale-reported securities
 
-Subject to subsection (j) of this section, each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
+Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
 
 #### (d) Assessments on security futures transactions
 
-Each national securities exchange and national securities association shall pay to the Commission an assessment equal to $0.009 for each round turn transaction (treated as including one purchase and one sale of a contract of sale for future delivery) on a security future traded on such national securities exchange or by or through any member of such association otherwise than on a national securities exchange, except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction.
+Each national securities exchange and national securities association shall pay to the Commission an assessment equal to $0.009 for each round turn transaction (treated as including one purchase and one sale of a contract of sale for future delivery) on a security future traded on such national securities exchange or by or through any member of such associationotherwise than on a national securities exchange, except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction.
 
 #### (e) Dates for payments
 
@@ -40,15 +40,15 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (1) Offsetting collections
 
-&emsp;Fees collected pursuant to subsections (b), (c), and (d) of this section for any fiscal year—
+&emsp;Fees collected pursuant to subsections (b), (c), and (d) for any fiscal year—
 
 &emsp;&emsp;(A) shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission; and
 
-&emsp;&emsp;(B) except as provided in subsection (k) of this section, shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
+&emsp;&emsp;(B) except as provided in subsection (k), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
 #### (2) General revenues prohibited
 
-&emsp;No fees collected pursuant to subsections (b), (c), and (d) of this section for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+&emsp;No fees collected pursuant to subsections (b), (c), and (d) for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
 
 #### (j) Adjustments to fee rates
 
@@ -80,7 +80,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (k) Lapse of appropriation
 
-If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) the fees and assessments under subsections (b), (c), and (d) of this section at the rate in effect during the preceding fiscal year, until 60 days after the date such a regular appropriation is enacted.
+If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect (as offsetting collections) the fees and assessments under subsections (b), (c), and (d) at the rate in effect during the preceding fiscal year, until 60 days after the date such a regular appropriation is enacted.
 
 #### (l) Baseline estimate of the aggregate dollar amount of sales
 
@@ -128,15 +128,15 @@ Subsec. (l). Pub. L. 111–203, §991(a)(1)(F), substituted "Baseline estimate o
 
 Subsec. (m). Pub. L. 111–203, §991(d)(1), added subsec. (m).
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–123, §3(a)(1), substituted "Subject to subsection (j) of this section, each" for "Every" and struck out at end "Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury."
+<b>2002</b>—Subsec. (b). Pub. L. 107–123, §3(a)(1), substituted "Subject to subsection (j), each" for "Every" and struck out at end "Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury."
 
 Pub. L. 107–123, §2(1)–(3), substituted "$15 per $1,000,000" for "1/300 of one percent" and "security futures products, and options on securities indexes (excluding a narrow-based security index)" for "and security futures products" and struck out ", except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales" before period at end of first sentence.
 
-Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j) of this section, each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after "narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
+Subsec. (c). Pub. L. 107–123, §3(a)(3), redesignated subsec. (d) as (c), substituted "Off-exchange trades of exchange registered and last-sale-reported securities" for "Off-exchange trades of last-sale-reported securities" in subsec. heading, struck out par. (1) heading, substituted "Subject to subsection (j), each national securities" for "Each national securities", inserted "registered on a national securities exchange or" after "narrow-based security index))", struck out ", excluding any sales for which a fee is paid under subsection (c) of this section" after "national securities association", and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
 
 Pub. L. 107–123, §3(a)(2), struck out heading and text of former subsec. (c). Text read as follows: "Each national securities association shall pay to the Commission a fee at a rate equal to 1/300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury."
 
-Pub. L. 107–123, §2(1),(2), (4), which directed that subsec. (d) be amended by substituting "$15 per $1,000,000" for "1/300 of one percent" and "security futures products, and options on securities indexes (excluding a narrow-based security index)" for "and security futures products", and striking out ", except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sale" before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(3), which redesignated subsec. (d) as (c). See above.
+Pub. L. 107–123, §2(1),(2), (4), which directed that subsec. (d) be amended by substituting "$15 per $1,000,000" for "1/300 of one percent" and "security futures products, and options on securities indexes (excluding a narrow-based security index)" for "and security futures products", and striking out ", except that for fiscal year 2007, or any succeeding fiscal year, such rate shallbe equal to 1/800 of one percent of such aggregate dollar amount of sale" before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(3), which redesignated subsec. (d) as (c). See above.
 
 Subsec. (d). Pub. L. 107–123, §3(a)(4), (6), redesignated subsec. (e) as (d) and substituted "except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction" for "except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury". Former subsec. (d) redesignated (c).
 
@@ -252,7 +252,7 @@ Factors for Consideration.—In conducting the study under subsection (a), the O
 
 &emsp;"(3) include in the interpretation of the term 'investor' shareholders of entities subject to the fee reductions; and
 
-&emsp;"(4) consider the economic benefits to investors flowing from the fee reductions to include such factors as market efficiency, expansion of investmentopportunities, and enhanced liquidity and capital formation.
+&emsp;"(4) consider the economic benefits to investors flowing from the fee reductions to include such factors as market efficiency, expansion of investment opportunities, and enhanced liquidity and capital formation.
 
 "(c)
 
@@ -264,9 +264,11 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 St
 
 #### Adjustment of Transaction Fee Rate
 
+By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
+
 By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
 
-By order dated Feb. 12, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
+By order dated Feb. 12, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
 
 By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $17.40 per $1,000,000, effective May 25, 2013, see 78 F.R. 25515.
 

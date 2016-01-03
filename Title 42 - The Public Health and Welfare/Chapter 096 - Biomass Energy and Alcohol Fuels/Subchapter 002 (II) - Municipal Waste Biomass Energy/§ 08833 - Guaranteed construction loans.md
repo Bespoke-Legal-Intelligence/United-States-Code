@@ -14,7 +14,7 @@ The terms and conditions of loan guarantees under this section shall provide tha
 
 #### (d) Termination, cancellation, or revocation, and conclusive nature of guarantee
 
-Any loan guarantee under this section shall not be terminated, canceled, or otherwise revoked, except in accordance with the terms thereof and shall be conclusive evidence that such guarantee complies fully with the provisions of this chapter and of the approval and legality of the principal amount, interest rate, and all other terms of the securities, obligations, or loans and of the guarantee.
+Any loan guarantee under this section shall not be terminated, canceled, or otherwise revoked, except in accordance with the terms thereof and shall be conclusive evidence thatsuch guarantee complies fully with the provisions of this chapter and of the approval and legality of the principal amount, interest rate, and all other terms of the securities, obligations, or loans and of the guarantee.
 
 #### (e) Payment to lender
 

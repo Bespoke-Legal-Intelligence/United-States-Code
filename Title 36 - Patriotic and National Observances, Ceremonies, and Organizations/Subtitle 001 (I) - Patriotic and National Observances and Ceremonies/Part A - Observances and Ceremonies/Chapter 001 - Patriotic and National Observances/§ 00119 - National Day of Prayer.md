@@ -1,6 +1,6 @@
 ### §119. National Day of Prayer
 
-The President shall issue each year a proclamation designating the first Thursday in May as a National Day of Prayer on which the people of the United States may turn to God in prayerand meditation at churches, in groups, and as individuals.
+The President shall issue each year a proclamation designating the first Thursday in May as a National Day of Prayer on which the people of the United States may turn to God in prayer and meditation at churches, in groups, and as individuals.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1258.)
 

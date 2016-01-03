@@ -92,7 +92,7 @@ Voluntary Retirement for Members of the Air Force.—
 
 &emsp;(1)
 
-In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title, the retired pay base is determined in accordance with the following table.
+In general.—In the case of a member whose retired pay is computed under section 8991 of this title or who is entitled to retired pay computed under section 8992 of this title,the retired pay base is determined in accordance with the following table.
 
 &nbsp;
 

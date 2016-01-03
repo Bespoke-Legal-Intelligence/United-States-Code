@@ -50,7 +50,7 @@ The consideration to be paid for the Federal land authorized for sale in subsect
 
 #### (B) Reasonable access
 
-&emsp;&emsp;For access to valid occupancies within the Settlement Area Land, the Pueblo and the Secretary of the Interior shall afford rights of reasonable access commensurate with that provided by the Secretary of Agriculture on or before September 27, 2006.
+&emsp;&emsp;For access to valid occupancies within the Settlement Area Land, the Pueblo and the Secretary of the Interior shall afford rightsof reasonable access commensurate with that provided by the Secretary of Agriculture on or before September 27, 2006.
 
 #### (4) Water System Land and Los Alamos Townsite Land
 

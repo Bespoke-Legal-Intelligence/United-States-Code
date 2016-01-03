@@ -186,7 +186,7 @@ If—
 
 Subsec. (c)(2). Pub. L. 105–277 inserted ", or the fact that the corporation whose stock was distributed issues additional stock," after "dispose of part or all of the distributed stock".
 
-Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B),and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
 "(B) subsection (b) shall apply to such transferor, and
 
@@ -240,7 +240,7 @@ Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided t
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

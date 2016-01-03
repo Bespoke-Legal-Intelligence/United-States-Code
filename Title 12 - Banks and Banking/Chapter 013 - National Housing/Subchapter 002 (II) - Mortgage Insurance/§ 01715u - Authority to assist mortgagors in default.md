@@ -2,7 +2,7 @@
 
 #### (a) Loss mitigation
 
-Upon default or imminent default, as defined by the Secretary <sup>1</sup> of any mortgage insured under this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providing an alternative to foreclosure (including but not limited to actions such as special forbearance, loan modification, preforeclosure sale, support for borrower housing counseling, subordinate lien resolution, borrower incentives, and deeds in lieu of foreclosure, as required, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) or subsection (c),<sup>2</sup> as provided in regulations by the Secretary.
+Upon default or imminent default, as defined by the Secretary <sup>1</sup> of any mortgage insuredunder this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providing an alternative to foreclosure (including but not limited to actions such as special forbearance, loan modification, preforeclosure sale, support for borrower housing counseling, subordinate lien resolution, borrower incentives, and deeds in lieu of foreclosure, as required, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) or subsection (c),<sup>2</sup> as provided in regulations by the Secretary.
 
 #### (b) Payment of partial claim
 
@@ -12,7 +12,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (2) Payments and exceptions
 
-&emsp;Any payment of a partial claim under the program established in paragraph (1) to amortgagee shall be made in the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary, except that—
+&emsp;Any payment of a partial claim under the program established in paragraph (1) to a mortgagee shall be made in the sole discretion of the Secretary and on terms and conditions acceptable to the Secretary, except that—
 
 &emsp;&emsp;(A) the amount of the payment shall be in an amount determined by the Secretary, not to exceed an amount equivalent to 30 percent of the unpaid principal balance of the mortgage and any costs that are approved by the Secretary;
 
@@ -68,7 +68,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 &emsp;&emsp;After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this subchapter for the mortgage. The Secretary may subsequently—
 
-&emsp;&emsp;&emsp;(i) re-assign the mortgage to the mortgagee under terms and conditions as are agreed to by the mortgagee and the Secretary;
+&emsp;&emsp;&emsp;(i) re-assign the mortgage to the mortgagee under terms and conditions as areagreed to by the mortgagee and the Secretary;
 
 &emsp;&emsp;&emsp;(ii) act as a Government National Mortgage Association issuer, or contract with an entity for such purpose, in order to pool the mortgage into a Government National Mortgage Association security; or
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text 
 
 <b>1991</b>—Subsec. (a)(5). Pub. L. 102–83 substituted "section 3703(c) of title 38" for "section 1803(c) of title 38".
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–242 substituted "The interest rate on payments made under this subsection shall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection" for "The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed a rate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary."
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–242 substituted "The interest rate on payments made under this subsectionshall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection" for "The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed a rate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary."
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–181 struck out ", to the extent practicable," after "Secretary shall".
 
@@ -140,7 +140,7 @@ Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 
 <b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 
-<b>1964</b>—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of themortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
+<b>1964</b>—Pub. L. 88–560 authorized the Commissioner to acquire the loan and security notwithstanding the fact that he has previously approved a request of the mortgagee for an extension of the time for curing the default and of the time for commencing foreclosure proceedings or for otherwise acquiring title to the mortgaged property or has approved a modification of the mortgage for the purpose of changing the amortization provisions by recasting the unpaid balance and substituted provisions for acquisition of the loan and security upon payment of the insurance benefits in an amount equal to the unpaid principal balance of the loan plus any unpaid mortgage interest plus reimbursement for such costs and attorney's fees as the Commissioner finds were properly incurred in connection with the defaulted mortgage and its assignment to the Commissioner for former provision for such acquisition upon issuance to the mortgagee of debentures having a total face value equal to the unpaid principal balance of the loan plus any accrued interest.
 
 #### Effective Date of 1996 Amendment
 

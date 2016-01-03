@@ -36,7 +36,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the "Secreta
 
 #### (c) Implementation activities
 
-In carrying out the functions specified in subsection (b) of this section, the Secretary, acting through the Director <sup>1</sup> may, among other things—
+In carrying out the functions specified in subsection (b), the Secretary, acting through the Director <sup>1</sup> may, among other things—
 
 &emsp;(1) construct physical standards;
 
@@ -98,7 +98,7 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 &emsp;&emsp;&emsp;(i) coordinate closely and regularly with relevant private sector personnel and entities, critical infrastructure owners and operators, and other relevant industry organizations, including Sector Coordinating Councils and Information Sharing and Analysis Centers, and incorporate industry expertise;
 
-&emsp;&emsp;&emsp;(ii) consult with the heads of agencies with national security responsibilities, sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;
+&emsp;&emsp;&emsp;(ii) consult with the heads of agencies with national security responsibilities,sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;
 
 &emsp;&emsp;&emsp;(iii) identify a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, that may be voluntarily adopted by owners and operators of critical infrastructure to help them identify, assess, and manage cyber risks;
 

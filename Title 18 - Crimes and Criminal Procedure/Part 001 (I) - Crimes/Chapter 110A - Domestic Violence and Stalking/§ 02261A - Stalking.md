@@ -2,7 +2,7 @@
 
 Whoever—
 
-&emsp;(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
+&emsp;(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill,injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
 
 &emsp;&emsp;(A) places that person in reasonable fear of the death of, or serious bodily injury to—
 

@@ -34,7 +34,7 @@ This section shall not apply to any payment to or from a qualified cogeneration 
 
 #### References in Text
 
-Section 210 of the Public Utility Regulatory Policy Act of 1978, referred to in subsec. (d), probably means section 210 of the Public Utility Regulatory Policies Act of 1978, Pub. L. 95–617, which is classified to section 824a–3 of Title 16, Conservation.
+Section 210 of the Public Utility Regulatory Policy Act of 1978, referred to in subsec. (d), probably meanssection 210 of the Public Utility Regulatory Policies Act of 1978, Pub. L. 95–617, which is classified to section 824a–3 of Title 16, Conservation.
 
 #### Prior Provisions
 

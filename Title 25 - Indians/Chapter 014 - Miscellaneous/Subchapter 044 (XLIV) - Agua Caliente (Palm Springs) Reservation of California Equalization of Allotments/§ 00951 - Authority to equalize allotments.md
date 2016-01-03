@@ -20,7 +20,7 @@ Pub. L. 105–308, Oct. 30, 1998, 112 Stat. 2932, provided that:
 
 &emsp;"(2) the Act was enacted in response to litigation in Federal courts in Segundo, et al. v. United States, 123 F. Supp. 554 (1954);
 
-&emsp;"(3) the case referred to in paragraph (2) was appealed under the case name United States v. Pierce, 235 F. 2d 885 (1956) and that case affirmed the entitlement of certain members of the Band to allotments of approximately equal value to lands allotted to other members of the Band;
+&emsp;"(3) the case referred to in paragraph (2) was appealed under the case name United States v. Pierce,235 F. 2d 885 (1956) and that case affirmed the entitlement of certain members of the Band to allotments of approximately equal value to lands allotted to other members of the Band;
 
 &emsp;"(4)(A) to achieve the equalization referred to in paragraph (3), section 3 of the Act (25 U.S.C. 953) provided for the allotment or sale of all remaining tribal lands, with the exception of several specifically designated parcels, including 2 parcels in the Mineral Springs area known as parcel A and parcel B;
 

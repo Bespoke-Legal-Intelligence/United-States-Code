@@ -14,7 +14,7 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 &emsp;(C) one member who shall be selected from among persons having extensive experience in the cooperative field representing low-income cooperatives eligible to borrow from the Bank.
 
-(2) Twelve members of the Board shall be elected by the holders of class B stock and class C stock in accordance with the provisions of subsection (d) of this section and the bylaws of the Bank.
+(2) Twelve members of the Board shall be elected by the holders of class B stock and class C stock in accordance with the provisions of subsection (d) and the bylaws of the Bank.
 
 #### (c) Resignations; continuances; completion of term; committee representation
 
@@ -28,15 +28,15 @@ The Bank shall be governed by a Board of Directors (hereinafter in this chapter 
 
 (2) Any member of the Board of Directors of the Bank who was elected by the holders of class B or class C stock before the Final Government Equity Redemption Date shall serve the remainder of the term for which such member was elected.
 
-(3) Any member appointed pursuant to subsection (b)(1) of this section shall be entitled to sit on any committee of the Board, but not more than one member so appointed may sit on any one committee.
+(3) Any member appointed pursuant to subsection (b)(1) shall be entitled to sit on any committee of the Board, but not more than one member so appointed may sit on any one committee.
 
 #### (d) Elections; nominations by cooperative classes; vacancies filled; representation requirements
 
-(1) All elections of members of the Board by the holders of class B stock and class C stockshall be conducted in accordance with the bylaws of the Bank. Such bylaws shall conform to the requirements of this section. Nominations for such elections shall be made by the following classes of cooperatives: (A) housing, (B) consumer goods, (C) low-income cooperatives, (D) consumer services, and (E) all other eligible cooperatives.
+(1) All elections of members of the Board by the holders of class B stock and class C stock shall be conducted in accordance with the bylaws of the Bank. Such bylaws shall conform to the requirements of this section. Nominations for such elections shall be made by the following classes of cooperatives: (A) housing, (B) consumer goods, (C) low-income cooperatives, (D) consumer services, and (E) all other eligible cooperatives.
 
 (2)(A) Vacant shareholder directorships shall be filled so that at any time when there are three or more shareholder directors on the Board, there shall be at least one director representing each of the following classes of cooperatives: (i) housing cooperatives, (ii) low-income cooperatives, and (iii) consumer goods and services cooperatives.
 
-(B) Each nominee for a shareholder directorship of a particular class shall have at least three years experience as a director or senior officer in the class of cooperatives to be represented.
+(B) Each nominee for a shareholder directorship of a particular class shall have at leastthree years experience as a director or senior officer in the class of cooperatives to be represented.
 
 (C) No one class of cooperatives specified in paragraph (1) shall be represented on the Board by more than three directors.
 
@@ -54,7 +54,7 @@ The Board shall meet at least quarterly. Its meeting shall be open to members or
 
 #### (h) Compensation and expenses
 
-Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) of this section shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
+Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
 
 (Pub. L. 95–351, title I, §103, Aug. 20, 1978, 92 Stat. 502; Pub. L. 96–149, Dec. 16, 1979, 93 Stat. 1089; Pub. L. 97–35, title III, §393(a), (b), Aug. 13, 1981, 95 Stat. 435, 436.)
 
@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 97–35, §393(a), substituted provisions relating to resig
 
 Subsec. (d). Pub. L. 97–35, §393(a), substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
 
-Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity RedemptionDate, and members elected by holders of class B and C stock.
+Subsec. (h). Pub. L. 97–35, §393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–149, §1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted "fifteen" for "thirteen", "eight" for "seven", and "this section" for "this section 104", which for purposes of codification had been editorially translated as "section 3014 of this title".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Human Relations Training Required.—The Secretary of the Army shall include as part of the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
+Human Relations Training Required.—The Secretary of the Army shall include as partof the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
 
 (b)
 
@@ -46,5 +46,5 @@ Measures To Be Taken.—As part of such reform, the Secretary shall undertake th
 
 "(c)
 
-Report.—Not later than March 31, 1998, the Secretary shall submit to the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate a report of thereforms adopted pursuant to this section or, in the case of any measure specified in any of paragraphs (1) through (7) of subsection (b) that was not adopted, the rationale why that measure was not adopted."
+Report.—Not later than March 31, 1998, the Secretary shall submit to the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate a report of the reforms adopted pursuant to this section or, in the case of any measure specified in any of paragraphs (1) through (7) of subsection (b) that was not adopted, the rationale why that measure was not adopted."
 

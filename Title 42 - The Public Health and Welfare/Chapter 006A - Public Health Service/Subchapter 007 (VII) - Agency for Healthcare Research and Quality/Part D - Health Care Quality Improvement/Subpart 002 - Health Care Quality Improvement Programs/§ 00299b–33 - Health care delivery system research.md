@@ -42,7 +42,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 &emsp;&emsp;(C) are designed to be readily adapted by health care providers in a variety of settings; and
 
-&emsp;&emsp;(D) where applicable, assist health care providers in working with other health care providers across the continuum of care and in engaging patients and their families in improving the care and patient health outcomes;
+&emsp;&emsp;(D) where applicable, assist health care providers in working with other health careproviders across the continuum of care and in engaging patients and their families in improving the care and patient health outcomes;
 
 &emsp;(9) provide for the funding of the activities of organizations with recognized expertise and excellence in improving the delivery of health care services, including children's health care, by involving multiple disciplines, managers of health care entities, broad development and training, patients, caregivers and families, and frontline health care workers, including activities for the examination of strategies to share best quality improvement practices and to promote excellence in the delivery of health care services; and
 
@@ -92,7 +92,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 #### (1) Public availability
 
-&emsp;The Director shall make the research findings of the Center available to the public through multiple media and appropriate formats to reflect the varying needs of healthcare providers and consumers and diverse levels of health literacy.
+&emsp;The Director shall make the research findings of the Center available to the public through multiple media and appropriate formats to reflect the varying needs of health care providers and consumers and diverse levels of health literacy.
 
 #### (2) Linkage to health information technology
 

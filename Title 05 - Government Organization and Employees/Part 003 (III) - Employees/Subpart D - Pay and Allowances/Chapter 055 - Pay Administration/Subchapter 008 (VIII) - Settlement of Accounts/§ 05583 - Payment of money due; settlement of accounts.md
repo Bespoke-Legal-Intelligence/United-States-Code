@@ -34,7 +34,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–316, §202(b)(1), substituted "Director of the Office of Personnel Management" for "Comptroller General of the United States".
 
-Subsec. (b). Pub. L. 104–316, §202(b)(2), substituted "The Director may by regulation prescribe the method for settlement of accounts payable under subsection (a) of this section." for "Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office."
+Subsec. (b). Pub. L. 104–316, §202(b)(2), substituted "The Director may by regulation prescribe the methodfor settlement of accounts payable under subsection (a) of this section." for "Except as the Comptroller General may by regulation otherwise authorize or direct, accounts not payable under subsection (a) of this section are payable on settlement of the General Accounting Office."
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–70 struck out par. (2) providing that accounts of the employees of the Canal Zone Government be paid by the Canal Zone Government, and redesignated par. (3) as (2).
 

@@ -68,7 +68,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (C) Research and development
 
-&emsp;&emsp;To ensure that research and development programs and activities of the United StatesGovernment, and the private sector, direct attention to the needs of the counterintelligence community for technologies, products, and services.
+&emsp;&emsp;To ensure that research and development programs and activities of the United States Government, and the private sector, direct attention to the needs of the counterintelligence community for technologies, products, and services.
 
 #### (D) Training and professional development
 
@@ -152,7 +152,7 @@ Subsec. (f). Pub. L. 111–259, §412(a)(2), redesignated subsec. (g) as (f). Fo
 
 Subsec. (f)(3), (4). Pub. L. 111–259, §412(a)(3), struck out pars. (3) and (4) which read as follows:
 
-"(3) The employment of personnel by the Office, including the appointment, compensation and benefits, management, and separation of such personnel, shall be governed by the provisions of law on such matters withrespect to the personnel of the Central Intelligence Agency, except that, for purposes of the applicability of such provisions of law to personnel of the Office, the National Counterintelligence Executive shall be treated as the head of the Office.
+"(3) The employment of personnel by the Office, including the appointment, compensation and benefits, management, and separation of such personnel, shall be governed by the provisions of law on such matters with respect to the personnel of the Central Intelligence Agency, except that, for purposes of the applicability of such provisions of law to personnel of the Office, the National Counterintelligence Executive shall be treated as the head of the Office.
 
 "(4) Positions in the Office shall be excepted service positions for purposes of title 5."
 

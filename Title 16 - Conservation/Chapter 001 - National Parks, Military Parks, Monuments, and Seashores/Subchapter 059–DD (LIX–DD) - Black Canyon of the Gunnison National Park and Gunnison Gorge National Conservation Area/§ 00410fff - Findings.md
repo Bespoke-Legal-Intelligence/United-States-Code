@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(6) some private land adjacent to the Black Canyon of the Gunnison National Monument has exceptional natural and scenic value that would be threatened by future development pressures;
 
-&emsp;(7) the benefits of designating public and private land surrounding the national monument as a national park include greater long-term protection of the resources and expanded visitor use opportunities; and
+&emsp;(7) the benefits of designating public and private land surrounding the national monument as a national park include greater long-termprotection of the resources and expanded visitor use opportunities; and
 
 &emsp;(8) land in and adjacent to the Black Canyon of the Gunnison Gorge is—
 

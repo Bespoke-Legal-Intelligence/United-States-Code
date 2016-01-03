@@ -134,7 +134,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (III) Election
 
-&emsp;&emsp;&emsp;&emsp;An election under this clause shall apply to all contracts issued during the calendar year for which the election was made or during any subsequent calendar year unless such election is revoked with the consent of the Secretary.
+&emsp;&emsp;&emsp;&emsp;An election under this clause shall apply to all contracts issued during the calendar year for which the election was made or during any subsequent calendaryear unless such election is revoked with the consent of the Secretary.
 
 #### (IV) Spread not available
 
@@ -178,7 +178,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (E) Special rule where more than 1 table or option applicable
 
-&emsp;&emsp;If, with respect to any category of risks, there are 2 or more tables (or options under1 or more tables) which meet the requirements of subparagraph (A) (or, where applicable, subparagraph (B) or (C)), the table (and option thereunder) which generally yields the lowest reserves shall be used for purposes of paragraph (2)(C).
+&emsp;&emsp;If, with respect to any category of risks, there are 2 or more tables (or options under 1 or more tables) which meet the requirements of subparagraph (A) (or, where applicable, subparagraph (B) or (C)), the table (and option thereunder) which generally yields the lowest reserves shall be used for purposes of paragraph (2)(C).
 
 #### (6) Statutory reserves
 
@@ -344,7 +344,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(68), Dec. 19, 2014, 128 Stat. 4048.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330-420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(68), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Codification
 
@@ -352,7 +352,7 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 #### Prior Provisions
 
-A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior tothe general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
+A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
 
 #### Amendments
 
@@ -430,7 +430,7 @@ Pub. L. 98–369, div. A, title II, §217(f), July 18, 1984, 98 Stat. 763, as am
 
 "(1)
 
-Mortality and morbidity tables.—In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used incomputing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369\]) if such tables were—
+Mortality and morbidity tables.—In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369\]) if such tables were—
 
 &emsp;"(A) in use since 1965, and
 

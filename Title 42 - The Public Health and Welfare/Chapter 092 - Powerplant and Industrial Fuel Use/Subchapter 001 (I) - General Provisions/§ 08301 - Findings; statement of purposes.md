@@ -12,7 +12,7 @@ The Congress finds that—
 
 The purpose <sup>2</sup> of this chapter, which shall be carried out in a manner consistent with applicable environmental requirements, are—
 
-&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the UnitedStates to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
+&emsp;(1) to reduce the importation of petroleum and increase the Nation's capability to use indigenous energy resources of the United States to the extent such reduction and use further the goal of national energy self-sufficiency and otherwise are in the best interests of the United States;
 
 &emsp;(2) to encourage and foster the greater use of coal and other alternate fuels, in lieu of natural gas and petroleum, as a primary energy source;
 
@@ -48,7 +48,7 @@ Subsec. (b)(3), (4). Pub. L. 100–42, §1(c)(1)(B), redesignated pars. (4) and 
 
 Subsec. (b)(5). Pub. L. 100–42, §1(c)(1), redesignated par. (7) as (5) and struck out "and major fuel-burning installations" after "electric powerplants". Former par. (5) redesignated (4).
 
-Subsec. (b)(6). Pub. L. 100–42, §1(c)(1), redesignated par. (8) as (6) and struck out "and major fuel-burning installations" after "electric powerplants", and struck out former par. (6) which related to prohibition or minimization of use of natural gas and petroleum as a primary energy source.
+Subsec. (b)(6). Pub. L. 100–42, §1(c)(1), redesignated par. (8) as (6) and struck out "and major fuel-burninginstallations" after "electric powerplants", and struck out former par. (6) which related to prohibition or minimization of use of natural gas and petroleum as a primary energy source.
 
 Subsec. (b)(7) to (10). Pub. L. 100–42, §1(c)(1)(B), redesignated former pars. (9) to (12) as (7) to (10), respectively. Former pars. (7) and (8) redesignated (5) and (6), respectively.
 

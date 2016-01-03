@@ -12,7 +12,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) any increase in the amount of benefits under a plan resulting from a plan amendment which was made, or became effective, whichever is later, within 60 months before the date on which the plan terminates shall be disregarded.
 
-(2) For purposes of this subsection, the time a successor plan (within the meaning of section 1321(a) of this title) has been in effect includes the time a previously established plan (within the meaning of section 1321(a) of this title) was in effect. For purposes of determining what benefits are guaranteed under this section in the case of a plan to which section 1321 of this title does not apply on September 3, 1974, the 60-month period referred to in paragraph (1) shall be computed beginning on the first date on which such section does apply to the plan.
+(2) For purposes of this subsection, the time a successor plan (within the meaning of section 1321(a) of this title) has been in effect includesthe time a previously established plan (within the meaning of section 1321(a) of this title) was in effect. For purposes of determining what benefits are guaranteed under this section in the case of a plan to which section 1321 of this title does not apply on September 3, 1974, the 60-month period referred to in paragraph (1) shall be computed beginning on the first date on which such section does apply to the plan.
 
 (3) The amount of monthly benefits described in subsection (a) of this section provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
@@ -28,7 +28,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(i) the term "gross income" means "earned income" within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that planshall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
@@ -84,7 +84,7 @@ In general.—Except as provided in subparagraph (C), the term "recovery ratio" 
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year inwhich occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term "recovery ratio" means, with respect to the termination of such plan, the ratio of—
 
@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this secti
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end "The maximum guaranteed monthly benefitshall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply."
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end "The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply."
 
 Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 

@@ -42,7 +42,7 @@ Any reference in this joint resolution to "the Compact" shall be treated as a re
 
 #### (e) Subsidiary agreements deemed bilateral
 
-For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) of this section (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
+For purposes of implementation of the Compact and this joint resolution, each of the subsidiary agreements referred to in subsections (a) and (b) (whether or not bilateral in form) shall be deemed to be bilateral agreements between the United States and each other party to such subsidiary agreement. The consent or concurrence of any other party shall not be required for the effectiveness of any actions taken by the United States in conjunction with either the Federated States of Micronesia or the Marshall Islands which are intended to affect the implementation, modification, suspension, or termination of any such subsidiary agreement (or any provision thereof) as regards the mutual responsibilities of the United States and the party in conjunction with whom the actions are taken.
 
 #### (f) Effective date
 
@@ -66,7 +66,7 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 &emsp;(F) The Agreement set forth on pages 388 through 391 of House Document 98–192 of March 30, 1984.
 
-(5) No agreement between the United States and the Government of either the Federated States of Micronesia or the Marshall Islands which would amend, change, or terminate any subsidiary agreement or portion thereof, otherthan those set forth in subsection (d) of this section or paragraph (4) of this subsection shall take effect until the President has transmitted such agreement to the President of the Senate and the Speaker of the House of Representatives together with an explanation of the agreement and the reasons therefore.
+(5) No agreement between the United States and the Government of either the Federated States of Micronesia or the Marshall Islands which would amend, change, or terminate any subsidiary agreement or portion thereof, other than those set forth in subsection (d) of this section or paragraph (4) of this subsection shall take effect until the President has transmitted such agreement to the President of the Senate and the Speaker of the House of Representatives together with an explanation of the agreement and the reasons therefore.
 
 (Pub. L. 99–239, title I, §101, Jan. 14, 1986, 99 Stat. 1773.)
 

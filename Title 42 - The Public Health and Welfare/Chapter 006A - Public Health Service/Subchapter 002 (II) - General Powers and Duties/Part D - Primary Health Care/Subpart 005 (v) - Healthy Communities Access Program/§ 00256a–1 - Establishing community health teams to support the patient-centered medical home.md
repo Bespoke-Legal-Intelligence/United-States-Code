@@ -66,7 +66,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;&emsp;(F) provide coordination of the appropriate use of complementary and alternative (CAM) services to those who request such services;
 
-&emsp;&emsp;(G) promote effective strategies for treatment planning, monitoring health outcomesand resource use, sharing information, treatment decision support, and organizing care to avoid duplication of service and other medical management approaches intended to improve quality and value of health care services;
+&emsp;&emsp;(G) promote effective strategies for treatment planning, monitoring health outcomes and resource use, sharing information, treatment decision support, and organizing care to avoid duplication of service and other medical management approaches intended to improve quality and value of health care services;
 
 &emsp;&emsp;(H) provide local access to the continuum of health care services in the most appropriate setting, including access to individuals that implement the care plans of patients and coordinate care, such as integrative health care practitioners;
 
@@ -76,7 +76,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;(7) provide 24-hour care management and support during transitions in care settings including—
 
-&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliation upon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
+&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliationupon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
 
 &emsp;&emsp;(B) discharge planning and counseling support to providers, patients, caregivers, and authorized representatives;
 

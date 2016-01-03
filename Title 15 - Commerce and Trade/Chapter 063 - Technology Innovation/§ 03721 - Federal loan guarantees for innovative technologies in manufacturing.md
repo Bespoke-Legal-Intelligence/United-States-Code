@@ -54,7 +54,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (C) Forbearance
 
-&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligationfor the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
+&emsp;&emsp;Nothing in this subsection precludes any forbearance by the holder of the obligation for the benefit of the borrower which may be agreed upon by the parties to the obligation and approved by the Secretary.
 
 #### (2) Subrogation
 
@@ -154,7 +154,7 @@ Concurrent with the submission to Congress of the President's annual budget requ
 
 #### (o) Coordination and nonduplication
 
-To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other loan guarantee programs within the Federal Government.
+To the maximum extent practicable, the Secretary shall ensure that the activities carriedout under this section are coordinated with, and do not duplicate the efforts of, other loan guarantee programs within the Federal Government.
 
 #### (p) MEP centers
 

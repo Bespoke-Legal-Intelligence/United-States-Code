@@ -28,11 +28,11 @@ There is hereby established in the United States Treasury an account to be known
 
 (8) Land or natural resources acquired under this subsection which are located outside of the settlement lands shall be held in fee by the Mashantucket Pequot Tribe, and the United States shall have no further trust responsibility with respect to such land and natural resources. Such land and natural resources shall not be subject to any restriction against alienation under the laws of the United States.
 
-(9) Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of theland or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
+(9) Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or naturalresources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
 
 #### (c) Transfer of private settlement land as involuntary conversion
 
-For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) of this section applies shall be deemed to be an involuntary conversion within the meaning of section 1033 of title 26.
+For the purpose of subtitle A of title 26, any transfer of private settlement lands to which subsection (b) applies shall be deemed to be an involuntary conversion within the meaning of section 1033 of title 26.
 
 #### (d) Documentation of relinquishment of tribal claims
 

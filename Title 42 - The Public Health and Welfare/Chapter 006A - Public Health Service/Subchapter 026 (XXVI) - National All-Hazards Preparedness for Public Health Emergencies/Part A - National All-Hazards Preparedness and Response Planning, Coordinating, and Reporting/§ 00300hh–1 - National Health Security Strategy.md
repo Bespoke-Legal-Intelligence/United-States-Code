@@ -8,7 +8,7 @@
 
 #### (2) Evaluation of progress
 
-&emsp;The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shallinclude aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
+&emsp;The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
 
 #### (3) Public health workforce
 
@@ -84,7 +84,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 &emsp;&emsp;(B) promoting familiarity with local medical and public health systems.
 
-(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006,120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
+(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the United States to plan and prepare for the timely provision of medical countermeasures to the American people in the event of a biological attack in the United States through a rapid Federal response in coordination with State, local, territorial, and tribal governments.
 
-This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and (3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
+This policy would seek to: (1) mitigate illness and prevent death; (2) sustain critical infrastructure; and\(3) complement and supplement State, local, territorial, and tribal government medical countermeasure distribution capacity.
 
 Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>. (a) The U.S. Postal Service has the capacity for rapid residential delivery of medical countermeasures for self administration across all communities in the United States. The Federal Government shall pursue a national U.S. Postal Service medical countermeasures dispensing model to respond to a large-scale biological attack.
 

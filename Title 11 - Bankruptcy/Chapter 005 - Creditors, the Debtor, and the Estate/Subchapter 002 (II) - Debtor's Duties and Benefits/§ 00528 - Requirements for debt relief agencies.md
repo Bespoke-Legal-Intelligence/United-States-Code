@@ -12,7 +12,7 @@
 
 &emsp;(3) clearly and conspicuously disclose in any advertisement of bankruptcy assistance services or of the benefits of bankruptcy directed to the general public (whether in general media, seminars or specific mailings, telephonic or electronic messages, or otherwise) that the services or benefits are with respect to bankruptcy relief under this title; and
 
-&emsp;(4) clearly and conspicuously use the following statement in such advertisement: "We are a debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code." or a substantially similar statement.
+&emsp;(4) clearly and conspicuously use the following statement in such advertisement: "We area debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code." or a substantially similar statement.
 
 (b)(1) An advertisement of bankruptcy assistance services or of the benefits of bankruptcy directed to the general public includes—
 

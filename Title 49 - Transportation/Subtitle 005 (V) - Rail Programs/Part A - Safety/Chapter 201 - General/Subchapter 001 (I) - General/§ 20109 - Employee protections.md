@@ -4,7 +4,7 @@
 
 In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
-&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public fundsintended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
+&emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
 &emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);
 
@@ -78,7 +78,7 @@ In general.—Any action under paragraph (1) shall be governed under the rules a
 
 &emsp;&emsp;&emsp;(i)
 
-Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed bythe legal burdens of proof set forth in section 42121(b).
+Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
 
 &emsp;&emsp;&emsp;(ii)
 

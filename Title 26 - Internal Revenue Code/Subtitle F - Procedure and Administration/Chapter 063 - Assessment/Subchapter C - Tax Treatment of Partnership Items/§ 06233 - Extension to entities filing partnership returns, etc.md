@@ -10,6 +10,52 @@ If a partnership return is filed for any taxable year but it is determined that 
 
 (Added Pub. L. 98–369, div. A, title VII, §714(p)(1), July 18, 1984, 98 Stat. 964; amended Pub. L. 104–188, title I, §1307(c)(3)(B), Aug. 20, 1996, 110 Stat. 1782.)
 
+#### Repeal and Reenactment of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 633, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6233 is enacted to read as follows:</i>
+
+#### §6233. Interest and penalties
+
+#### <i>(a) Interest and penalties determined from reviewed year</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Except to the extent provided in section 6226(c), in the case of a partnership adjustment for a reviewed year—</i>
+
+&emsp;&emsp;<i>(A) interest shall be computed under paragraph (2), and</i>
+
+&emsp;&emsp;<i>(B) the partnership shall be liable for any penalty, addition to tax, or additional amount as provided in paragraph (3).</i>
+
+#### <i>(2) Determination of amount of interest</i>
+
+&emsp;<i>The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67 for the period beginning on the day after the return due date for the reviewed year and ending on the return due date for the adjustment year (or, if earlier, the date payment of the imputed underpayment is made). Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the reviewed year and before the adjustment year by reason of such partnership adjustment.</i>
+
+#### <i>(3) Penalties</i>
+
+&emsp;<i>Any penalty, addition to tax, or additional amount shall be determined at the partnership level as if such partnership had been an individual subject to tax under chapter 1 for the reviewed year and the imputed underpayment were an actual underpayment (or understatement) for such year.</i>
+
+#### <i>(b) Interest and penalties with respect to adjustment year return</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>In the case of any failure to pay an imputed underpayment on the date prescribed therefor, the partnership shall be liable—</i>
+
+&emsp;&emsp;<i>(A) for interest as determined under paragraph (2), and</i>
+
+&emsp;&emsp;<i>(B) for any penalty, addition to tax, or additional amount as determined under paragraph (3).</i>
+
+#### <i>(2) Interest</i>
+
+&emsp;<i>Interest determined under this paragraph is the interest that would be determined by treating the imputed underpayment as an underpayment of tax imposed in the adjustment year.</i>
+
+#### <i>(3) Penalties</i>
+
+&emsp;<i>Penalties, additions to tax, or additional amounts determined under this paragraph are the penalties, additions to tax, or additional amounts that would be determined—</i>
+
+&emsp;&emsp;<i>(A) by applying section 6651(a)(2) to such failure to pay, and</i>
+
+&emsp;&emsp;<i>(B) by treating the imputed underpayment as an underpayment of tax for purposes of part II of subchapter A of chapter 68.</i>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "If for any taxable year—
@@ -19,6 +65,10 @@ If a partnership return is filed for any taxable year but it is determined that 
 &emsp;"(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
 
 > then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply."
+
+#### Effective Date of Repeal and Reenactment
+
+Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -12,6 +12,8 @@ General Authorization of Appropriations.—Not more than a total of the followin
 
 &emsp;(4) $2,730,000,000 for fiscal year 2015.
 
+&emsp;(5) $1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.
+
 (b)
 
 Availability of Amounts.—Amounts appropriated under this section remain available until expended.
@@ -24,7 +26,7 @@ Automated Surface Observation System/Automated Weather Observing System Upgrade.
 
 Life-Cycle Cost Estimates.—The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102,Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §207, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §7, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §102, Feb. 14, 2012, 126 Stat. 16.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1),Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494; Pub. L. 110–330, §7, Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–12, §7, Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §7, Oct. 1, 2009, 123 Stat. 2056; Pub. L. 111–116, §7, Dec. 16, 2009, 123 Stat. 3033; Pub. L. 111–153, §7, Mar. 31, 2010, 124 Stat. 1086; Pub. L. 111–161, §7, Apr. 30, 2010, 124 Stat. 1128; Pub. L. 111–197, §7, July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §106, Aug. 1, 2010, 124 Stat. 2350; Pub. L. 112–30, title II, §207, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §7, Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §102, Feb. 14, 2012, 126 Stat. 16; Pub. L. 114–55, title I, §104, Sept. 30, 2015, 129 Stat. 524.)
 
 Historical and Revision Notes
 
@@ -65,6 +67,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 In subsection (a), the words "to the Secretary of Transportation" are added for clarity and consistency in this chapter. The words "for fiscal years beginning after September 30, 1990" and "$2,500,000,000 for fiscal year 1991" are omitted as obsolete.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(5). Pub. L. 114–55 added par. (5).
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §102(a), added pars. (1) to (4) and struck out former pars. (1) to (8) which authorized appropriations for fiscal years 2004 through 2011, and for the period beginning Oct. 1, 2011, and ending Feb. 17, 2012.
 
@@ -152,11 +156,11 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Facilities and Equipment Reports
 

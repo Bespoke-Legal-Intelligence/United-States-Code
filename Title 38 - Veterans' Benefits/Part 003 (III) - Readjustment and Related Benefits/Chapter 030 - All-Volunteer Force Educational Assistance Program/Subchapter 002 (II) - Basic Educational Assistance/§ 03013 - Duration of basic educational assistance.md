@@ -30,7 +30,7 @@
 
 &emsp;(B) be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of assistance.
 
-(2) Subject to paragraph (3), the payment of the educational assistance allowance referred to in paragraph (1) is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
+(2) Subject to paragraph (3), the payment of the educational assistance allowance referred to in paragraph (1) is the payment of such an allowance to an individual for pursuit of a course orcourses under this chapter if the Secretary finds that the individual—
 
 &emsp;(A) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In performing its functions under the Convention, the United States Central Authority may, under such conditions as the Central Authority prescribes by regulation, but subject to subsection (c), receive from or transmit to any department, agency, or instrumentality of the Federal Government or of any State or foreign government, and receive from or transmit toany applicant, petitioner, or respondent, information necessary to locate a child or for the purpose of otherwise implementing the Convention with respect to a child, except that the United States Central Authority—
+In performing its functions under the Convention, the United States Central Authority may, under such conditions as the Central Authority prescribes by regulation, but subject to subsection (c), receive from or transmit to any department, agency, or instrumentality of the Federal Government or of any State or foreign government, and receive from or transmit to any applicant, petitioner, or respondent, information necessary to locate a child or for the purpose of otherwise implementing the Convention with respect to a child, except that the United States Central Authority—
 
 &emsp;(1) may receive such information from a Federal or State department, agency, or instrumentality only pursuant to applicable Federal and State statutes; and
 
@@ -16,7 +16,7 @@ Requests for information under this section shall be submitted in such manner an
 
 Whenever any department, agency, or instrumentality of the United States or of any State receives a request from the United States Central Authority for information authorized to be provided to such Central Authority under subsection (a), the head of such department, agency, or instrumentality shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality in order to determine whether the information requested is contained in any such files or records. If such search discloses the information requested, the head of such department, agency, or instrumentality shall immediately transmit such information to the United States Central Authority, except that any such information the disclosure of which—
 
-&emsp;(1) would adversely affect the national security interests of the United States or the law enforcement interests of the United States or of any State; or
+&emsp;(1) would adversely affect the national security interests of the United States or the lawenforcement interests of the United States or of any State; or
 
 &emsp;(2) would be prohibited by section 9 of title 13;
 

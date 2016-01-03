@@ -12,7 +12,7 @@ Authority.—At the request of a federal agency, a mixed-ownership Government co
 
 (b)
 
-Transfer of Amounts.—An amount available to a federal agency or instrumentality fora building or project may be transferred, in advance, to the General Services Administration for purposes the Administrator determines are necessary, including payment of salaries and expenses for preparing plans and specifications and for field supervision.
+Transfer of Amounts.—An amount available to a federal agency or instrumentality for a building or project may be transferred, in advance, to the General Services Administration for purposes the Administrator determines are necessary, including payment of salaries and expenses for preparing plans and specifications and for field supervision.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1111.)
 

@@ -48,7 +48,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (2) During the 60-day public comment period, the Secretary shall conduct a public hearing in each State represented on the Council for the purpose of receiving public comments on the proposed regulations.
 
-(3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
+(3) Within 45 days of the close of the public comment period, the Secretary, in consultationwith the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 
 (4) If the Secretary remands a plan or plan amendment to the Council for failure to meet the requirements of this section, the Council may resubmit such plan or plan amendment at any time after taking action the Council believes will address the defects identified by the Secretary. Any plan or plan amendment resubmitted to the Secretary will be treated as an original plan submitted to the Secretary under paragraph (1) of this subsection.
 
@@ -82,13 +82,13 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 &emsp;(i) such allocations may not be transferred for monetary consideration and are made only on an annual basis; and
 
-&emsp;(ii) any such conservation and management measures will meet the requirements of subsection (h) of this section and will result in an actual reduction in regulatory discards in the fishery.
+&emsp;(ii) any such conservation and management measures will meet the requirements of subsection (h) and will result in an actual reduction in regulatory discards in the fishery.
 
 (B) The North Pacific Council may submit restrictions in addition to the restriction imposed by clause (i) of subparagraph (A) on the transferability of any such allocations, and the Secretary may approve such recommendation.
 
 #### (h) Catch measurement
 
-(1) By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in eachfishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.
+(1) By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in each fishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.
 
 (2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shall submit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
 
@@ -96,7 +96,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) The North Pacific Council shall submit to the Secretary by October 1, 1998 a report on the advisability of requiring the full retention by fishing vessels and full utilization by United States fish processors of economic discards in fisheries under its jurisdiction if such economic discards, or the mortality of such economic discards, cannot be avoided. The report shall address the projected impacts of such requirements on participants in the fishery and describe any full retention and full utilization requirements that have been implemented.
 
-(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentages which must be processed for human consumption. For the purpose of the report, "processing waste" means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
+(2) The report shall address the advisability of measures to minimize processing waste, including standards setting minimum percentageswhich must be processed for human consumption. For the purpose of the report, "processing waste" means that portion of any fish which is processed and which could be used for human consumption or other commercial use, but which is not so used.
 
 #### (j) Bering Sea and Aleutian Islands crab rationalization
 
@@ -118,7 +118,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
-(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat.4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, §214, Jan. 12, 2007, 120 Stat. 3619.)
+(Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, §214, Jan. 12, 2007, 120 Stat. 3619.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ In subsec. (j)(4), "sections 53735 and 53702(b) of title 46" substituted for "se
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–479, §214(1), substituted "any fishery under the Council's jurisdiction except a salmon fishery" for "all fisheries under the Council's jurisdiction except salmon fisheries" in introductory provisions.
+<b>2007</b>—Subsec. (a). Pub. L. 109–479, §214(1), substituted "any fishery under the Council's jurisdiction except a salmon fishery" for "all fisheries under the Council'sjurisdiction except salmon fisheries" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–479, §214(2), added par. (2) and struck out former par. (2) which read as follows: "establishes a system of fees to pay for the costs of implementing the plan."
 

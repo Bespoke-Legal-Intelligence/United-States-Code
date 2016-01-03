@@ -12,7 +12,7 @@
 
 &emsp;(5) a program of apprenticeship or a program of other on-job training shall be considered a full-time program when the eligible veteran or person is required to work the number of hours constituting the standard workweek of the training establishment, but a workweek of less than thirty hours shall not be considered to constitute full-time training unless a lesser number of hours has been established as the standard workweek for the particular establishment through bona fide collective bargaining;
 
-&emsp;(6) an institutional course offered as part of a program of education, not leading to astandard college degree, under section 3034(a)(3), 3241(a)(2), or 3533(a) of this title shall be considered a full-time course on the basis of measurement criteria provided in clause (2), (3), or (4) of this subsection as determined by the educational institution; and
+&emsp;(6) an institutional course offered as part of a program of education, not leading to a standard college degree, under section 3034(a)(3), 3241(a)(2), or 3533(a) of this title shall be considered a full-time course on the basis of measurement criteria provided in clause (2), (3), or (4) of this subsection as determined by the educational institution; and
 
 &emsp;(7) an institutional course not leading to a standard college degree offered by an educational institution on a standard quarter- or semester-hour basis shall be measured as full time on the same basis as provided in paragraph (4) of this subsection, but if the educational institution offering the course is not an institution of higher learning, then in no event shall such course be considered full time when it requires less than the minimum weekly hours of attendance required for full time by paragraph (1) or (2) of this subsection, as appropriate.
 
@@ -110,7 +110,7 @@ Pub. L. 100–322, title III, §321(b), May 20, 1988, 102 Stat. 535, provided th
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 345 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by section 345 of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided,see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 Amendment by section 601(f) of Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 

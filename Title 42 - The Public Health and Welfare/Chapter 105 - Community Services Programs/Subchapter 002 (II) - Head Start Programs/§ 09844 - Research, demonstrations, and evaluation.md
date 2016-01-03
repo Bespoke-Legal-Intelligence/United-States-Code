@@ -60,7 +60,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(5)(A) identify successful strategies that promote good oral health and provide effective linkages to quality dental services through pediatric dental referral networks, for infants and toddlers participating in Early Head Start programs and children participating in other Head Start programs; and
 
-&emsp;(B) identify successful strategies that promote good vision health through visionscreenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
+&emsp;(B) identify successful strategies that promote good vision health through vision screenings for such infants, toddlers, and children, and referrals for appropriate followup care for those identified as having a vision problem;
 
 &emsp;(6) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education and development or services <sup>1</sup> programs and with other appropriate control groups;
 
@@ -104,7 +104,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (B) Travel expenses
 
-&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
+&emsp;&emsp;The members of the panel shall not receive compensation for the performance of services for the panel, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the panel. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the panel.
 
 #### (2) General authority
 
@@ -242,7 +242,7 @@ For purposes of conducting the study described in subsection (h), activities des
 
 &emsp;&emsp;&emsp;(ii) validity and reliability for all purposes for which assessments under this subchapter are designed and used;
 
-&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for children assessed, including children who are limited English proficient; and
+&emsp;&emsp;&emsp;(iii) developmental and linguistic appropriateness of such assessments for childrenassessed, including children who are limited English proficient; and
 
 &emsp;&emsp;&emsp;(iv) that the results can be used to improve the quality of, accountability of, and training and technical assistance in, Head Start programs.
 

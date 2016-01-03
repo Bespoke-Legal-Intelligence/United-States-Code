@@ -6,7 +6,7 @@
 
 (2) The Administration has a Deputy Federal Highway Administrator who is appointed by the Secretary, with the approval of the President. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
-(3) The Administration has an Assistant Federal Highway Administrator appointed in the competitive service by the Secretary, with the approval of the President. The Assistant Administrator is the chief engineer of the Administration. The Assistant Administrator shall carry out duties and powers prescribed by the Administrator.
+(3) The Administration has an Assistant Federal Highway Administrator appointed in thecompetitive service by the Secretary, with the approval of the President. The Assistant Administrator is the chief engineer of the Administration. The Assistant Administrator shall carry out duties and powers prescribed by the Administrator.
 
 (c) The Administrator shall carry out—
 
@@ -16,7 +16,7 @@
 
 (d) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1),Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ In General.—
 
 &emsp;"(1)
 
-Elimination.—The Secretary \[of Transportation\] shall eliminate any programmatic decisionmaking responsibility of the regional offices of the Federal Highway Administration for the Federal-aid highway program as part of the Administration's efforts to restructure its field organization.
+Elimination.—The Secretary \[of Transportation\] shall eliminate any programmatic decisionmaking responsibility of the regional offices of the Federal Highway Administration for the Federal-aidhighway program as part of the Administration's efforts to restructure its field organization.
 
 &emsp;"(2)
 

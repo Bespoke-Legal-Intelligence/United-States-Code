@@ -116,11 +116,11 @@ Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 405 "Definition of humanitarian and civic assistance", designated text of former section 405 as subsec. (e) of this section, and substituted "section" for "chapter".
 
-Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditure limitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
+Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditurelimitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
 
 #### Authority To Conduct Activities To Enhance the Capability of Foreign Countries To Respond to Incidents Involving Weapons of Mass Destruction
 
-Pub. L. 113–66, div. A, title XII, §1204, Dec. 26, 2013, 127 Stat. 896, as amended by Pub. L. 113–291, div. A, title XII, §1202, Dec. 19, 2014, 128 Stat. 3530, provided that:
+Pub. L. 113–66, div. A, title XII, §1204, Dec. 26, 2013, 127 Stat. 896, as amended by Pub. L. 113–291, div. A, title XII, §1202, Dec. 19, 2014, 128 Stat. 3530; Pub. L. 114–92, div. A, title XII, §1273, Nov. 25, 2015, 129 Stat. 1076, provided that:
 
 "(a)
 
@@ -188,7 +188,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 "(h)
 
-Expiration.—The authority to provide assistance under this section may not be exercised after September 30, 2017."
+Expiration.—The authority to provide assistance under this section may not be exercised after September 30, 2019."
 
 #### Requirement To Ensure the Effectiveness and Efficiency of Health Engagements
 

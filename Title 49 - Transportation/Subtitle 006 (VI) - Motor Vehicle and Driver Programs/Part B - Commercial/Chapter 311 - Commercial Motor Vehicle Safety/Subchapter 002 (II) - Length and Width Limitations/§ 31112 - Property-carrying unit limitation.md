@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck.
+&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
 
 &emsp;(2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -18,17 +18,17 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 (c)
 
-Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska.—In addition to the vehicles allowed under subsection (b) of this section—
+Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, and Kansas.—In addition to the vehicles allowed under subsection (b) of this section—
 
 &emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
 &emsp;(2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
-&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
+&emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
+&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991; and
 
-&emsp;(5) Nebraska may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the State of Nebraska.
+&emsp;(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state.<sup>1</sup>
 
 (d)
 
@@ -36,9 +36,9 @@ Additional Limitations.—(1) A commercial motor vehicle combination whose opera
 
 (2) This section does not prevent a State from further restricting in any way or prohibiting the operation of any commercial motor vehicle combination subject to this section, except that a restriction or prohibition shall be consistent with this section and sections 31113(a) and (b) and 31114 of this title.
 
-(3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
+(3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days afterthe action. The Secretary shall publish a notice of the action in the Federal Register.
 
-(4) <sup>1</sup> Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,<sup>2</sup> the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
+(4) <sup>2</sup> Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,<sup>3</sup> the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
 
 (e)
 
@@ -50,7 +50,7 @@ List of State Length Limitations.—(1) Not later than February 16, 1992, each S
 
 (4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
 
-(5) On the Secretary's own motion or on request by any person (including a State), the Secretary shall review the list published under paragraph (4) of this subsection. If the Secretarydecides there is reason to believe a mistake was made in the accuracy of the list, the Secretary shall begin a proceeding to decide whether a mistake was made. If the Secretary decides there was a mistake, the Secretary shall publish the correction.
+(5) On the Secretary's own motion or on request by any person (including a State), the Secretary shall review the list published under paragraph (4) of this subsection. If the Secretary decides there is reason to believe a mistake was made in the accuracy of the list, the Secretary shall begin a proceeding to decide whether a mistake was made. If the Secretary decides there was a mistake, the Secretary shall publish the correction.
 
 (f)
 
@@ -68,7 +68,7 @@ Regulations.—(1) In carrying out this section only, the Secretary shall define
 
 (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 109–59, title IV, §4112, Aug. 10, 2005, 119 Stat. 1724.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 109–59, title IV, §4112, Aug. 10, 2005, 119 Stat. 1724; Pub. L. 114–94, div. A, title V, §5523(c)(1), Dec. 4, 2015, 129 Stat. 1560; Pub. L. 114–113, div. L, title I, §137, Dec. 18, 2015, 129 Stat. 2851.)
 
 Historical and Revision Notes
 
@@ -126,6 +126,16 @@ In subsection (e)(4), the words "Except as revised under this paragraph or parag
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94 inserted before period at end ", but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))".
+
+Subsec. (c). Pub. L. 114–113, §137(b)(1), substituted "Nebraska, and Kansas" for "and Nebraska" in heading.
+
+Subsec. (c)(3). Pub. L. 114–113, §137(b)(2), substituted a semicolon for "; and" at end.
+
+Subsec. (c)(4). Pub. L. 114–113, §137(b)(3), substituted "; and" for period at end.
+
+Subsec. (c)(5). Pub. L. 114–113, §137(a), substituted "Nebraska and Kansas may" for "Nebraska may" and "the relevant state" for "the State of Nebraska".
+
 <b>2005</b>—Subsec. (c). Pub. L. 109–59, §4112(b), substituted "Iowa, and Nebraska" for "and Iowa" in heading.
 
 Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
@@ -136,7 +146,13 @@ Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted "Alaska, and Iowa" for "and Alaska" in heading and added par. (4).
 
-<i><sup>1</sup></i><i> See 1996 Amendment note below.</i>
+#### Effective Date of 2015 Amendment
 
-<i><sup>2</sup></i><i> So in original.</i>
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "State.".</i>
+
+<i><sup>2</sup></i><i> See 1996 Amendment note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

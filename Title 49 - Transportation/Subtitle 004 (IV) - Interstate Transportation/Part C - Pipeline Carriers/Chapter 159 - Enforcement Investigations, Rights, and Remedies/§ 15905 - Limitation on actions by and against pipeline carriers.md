@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A pipeline carrier providing transportation or service subject to this partmust begin a civil action to recover charges for transportation or service provided by the carrier within 3 years after the claim accrues.
+In General.—A pipeline carrier providing transportation or service subject to this part must begin a civil action to recover charges for transportation or service provided by the carrier within 3 years after the claim accrues.
 
 (b)
 

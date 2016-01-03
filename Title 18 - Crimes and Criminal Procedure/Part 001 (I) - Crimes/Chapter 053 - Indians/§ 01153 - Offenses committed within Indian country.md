@@ -36,7 +36,7 @@ This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–4 substituted "a felony assault under section 113" for "assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title)".
+<b>2013</b>—Subsec. (a). Pub. L. 113–4 substituted "a felony assault under section 113" for "assault with intent tocommit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title)".
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–248 inserted "felony child abuse or neglect," after "years,".
 

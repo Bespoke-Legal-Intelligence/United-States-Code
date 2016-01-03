@@ -166,5 +166,9 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented consisten
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to the National Security Staff to be understood to refer to the staff of the National SecurityCouncil, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+\[Reference to the National Security Staff to be understood to refer to the staff of the National Security Council, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
+
+#### Extension of Term of Advisory Council on Wildlife Trafficking
+
+Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

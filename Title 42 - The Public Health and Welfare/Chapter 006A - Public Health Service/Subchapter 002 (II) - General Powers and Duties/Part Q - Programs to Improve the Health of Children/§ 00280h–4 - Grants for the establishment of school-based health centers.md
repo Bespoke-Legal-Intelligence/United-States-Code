@@ -18,11 +18,11 @@ In awarding grants under this section,<sup>1</sup> the Secretary shall give pref
 
 #### (4) Limitation on use of funds
 
-An eligible entity shall use funds provided under a grant awarded under this section only for expenditures for facilities (including the acquisition or improvement of land, or the acquisition, construction, expansion, replacement, or other improvement of any building or other facility), equipment, or similar expenditures, as specified by the Secretary. No funds provided under a grant awarded under this section <sup>1</sup> shall be used for expenditures for personnel or to provide health services.
+An eligible entity shall use funds provided under a grant awarded under this section onlyfor expenditures for facilities (including the acquisition or improvement of land, or the acquisition, construction, expansion, replacement, or other improvement of any building or other facility), equipment, or similar expenditures, as specified by the Secretary. No funds provided under a grant awarded under this section <sup>1</sup> shall be used for expenditures for personnel or to provide health services.
 
 #### (5) Appropriations
 
-Out of any funds in the Treasury not otherwise appropriated, there is appropriated for eachof fiscal years 2010 through 2013, $50,000,000 for the purpose of carrying out this section. Funds appropriated under this paragraph shall remain available until expended.
+Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2013, $50,000,000 for the purpose of carrying out this section. Funds appropriated under this paragraph shall remain available until expended.
 
 #### (6) Definitions
 

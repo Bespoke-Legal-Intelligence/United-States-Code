@@ -24,7 +24,7 @@
 
 &emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Army as the Secretary determines;
 
-&emsp;(5) perform the duties prescribed for him by section 171 of this title and other provisions of law; and
+&emsp;(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
 &emsp;(6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Army.
 
@@ -34,7 +34,7 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Army fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 162, §3034; Pub. L. 85–599, §4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §10(b)(4), July 10, 1981, 95 Stat. 137; renumbered §3033 and amended Pub. L. 99–433, title V, §502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 162, §3034; Pub. L. 85–599, §4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, §114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, §401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, §502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §10(b)(4), July 10, 1981, 95 Stat. 137; renumbered §3033 and amended Pub. L. 99–433, title V, §502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, §802(d)(4)(A), Nov. 25, 2015, 129 Stat. 880.)
 
 Historical and Revision Notes<br>1956
 
@@ -84,7 +84,7 @@ In subsection (b), the words "so serving" are substituted for the words "holding
 
 In subsection (c), the provisions of 10:21d relating to the direction of the Secretary of the Army over the Chief of Staff are combined. The words "and of subsection (c) of this section" and "state of" are omitted as surplusage.
 
-In subsection (d), 10:38 (last par.) is omitted as covered by 10:21d(a). The words "by sections 1a–1g, 19, 21a–21h, 61–1, 81–1, 231a and 316–1 of this title and section 181–3 to 181–5 of Title 5" are omitted as covered by the words "other provisions of law".
+In subsection (d), 10:38 (last par.) is omitted as covered by 10:21d(a). The words "by sections 1a–1g, 19,21a–21h, 61–1, 81–1, 231a and 316–1 of this title and section 181–3 to 181–5 of Title 5" are omitted as covered by the words "other provisions of law".
 
 #### 1962 Act
 
@@ -95,6 +95,8 @@ The changes correct references to section 202(j) of the National Security Act of
 A prior section 3033 was renumbered section 10302 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d)(5). Pub. L. 114–92 substituted "sections 171 and 2547" for "section 171".
 
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted "full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "joint duty assignment".
 

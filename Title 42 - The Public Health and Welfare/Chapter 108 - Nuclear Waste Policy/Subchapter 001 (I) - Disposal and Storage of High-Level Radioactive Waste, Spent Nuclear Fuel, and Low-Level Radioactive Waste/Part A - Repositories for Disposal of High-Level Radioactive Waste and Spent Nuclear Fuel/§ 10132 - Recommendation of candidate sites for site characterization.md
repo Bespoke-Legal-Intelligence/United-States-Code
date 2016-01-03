@@ -30,7 +30,7 @@ Not later than 180 days after January 7, 1983, the Secretary, following consulta
 
 (F) Each environmental assessment prepared under this paragraph shall be made available to the public.
 
-(G) Before nominating a site, the Secretary shall notify the Governor and legislature of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be, of such nomination and the basis for such nomination.
+(G) Before nominating a site, the Secretary shall notify the Governor and legislature of the State in which such site is located, or the governing body of the affected Indian tribe wheresuch site is located, as the case may be, of such nomination and the basis for such nomination.
 
 (2) Before nominating any site the Secretary shall hold public hearings in the vicinity of such site to inform the residents of the area in which such site is located of the proposed nomination of such site and to receive their comments. At such hearings, the Secretary shall also solicit and receive any recommendations of such residents with respect to issues that should be addressed in the environmental assessment described in paragraph (1) and the site characterization plan described in section 10133(b)(1) of this title.
 
@@ -50,7 +50,7 @@ Except as otherwise provided in this section, each activity of the President or 
 
 #### Amendments
 
-<b>1987</b>—Subsec. (b)(1)(C) to (H). Pub. L. 100–202 and Pub. L. 100–203, §5011(b), amended par. (1) identically, redesignating subpars. (D) to (H) as (C) to (G), respectively, in subpar. (C) substituting "subparagraph (B)" for "subparagraphs (B) and (C)", and striking out former subpar. (C) which read as follows: "Not later than July 1, 1989, the Secretary shall nominate 5 sites, which shall include at least 3 additional sites not nominatedunder subparagraph (A), and recommend by such date to the President from such 5 nominated sites 3 candidate sites the Secretary determines suitable for site characterization for selection of the second repository. The Secretary may not nominate any site previously nominated under subparagraph (A), that was not recommended as a candidate site under subparagraph (B)."
+<b>1987</b>—Subsec. (b)(1)(C) to (H). Pub. L. 100–202 and Pub. L. 100–203, §5011(b), amended par. (1) identically, redesignating subpars. (D) to (H) as (C) to (G), respectively, in subpar. (C) substituting "subparagraph (B)" for "subparagraphs (B) and (C)", and striking out former subpar. (C) which read as follows: "Not later than July 1, 1989, the Secretary shall nominate 5 sites, which shall include at least 3 additional sites not nominated under subparagraph (A), and recommend by such date to the President from such 5 nominated sites 3 candidate sites the Secretary determines suitable for site characterization for selection of the second repository. The Secretary may not nominate any site previously nominated under subparagraph (A), that was not recommended as a candidate site under subparagraph (B)."
 
 Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(c), amended section identically, redesignating subsec. (e) as (d) and striking out former subsec (d) which read as follows: "After the required recommendation of candidate sites under subsection (b) of this section, the Secretary may continue, as he determines necessary, to identify and study other sites to determine their suitability for recommendation for site characterization, in accordance with the procedures described in this section."
 

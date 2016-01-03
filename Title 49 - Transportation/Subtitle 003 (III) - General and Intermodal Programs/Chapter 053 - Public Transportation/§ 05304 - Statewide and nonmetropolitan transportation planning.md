@@ -10,7 +10,7 @@ Development of plans and programs.—Subject to section 5303, to accomplish the 
 
 &emsp;(2)
 
-Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
 &emsp;(3)
 
@@ -56,9 +56,11 @@ In general.—Each State shall carry out a statewide transportation planning pro
 
 &emsp;&emsp;(F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
 
-&emsp;&emsp;(G) promote efficient system management and operation; and
+&emsp;&emsp;(G) promote efficient system management and operation;
 
-&emsp;&emsp;(H) emphasize the preservation of the existing transportation system.
+&emsp;&emsp;(H) emphasize the preservation of the existing transportation system; and
+
+&emsp;&emsp;(I) improve the resiliency and reliability of the transportation system.
 
 &emsp;(2)
 
@@ -86,11 +88,11 @@ Coordination.—Selection of performance targets by a State shall be coordinated
 
 &emsp;&emsp;&emsp;(ii)
 
-Public transportation performance targets.—In urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+Public transportation performance targets.—In areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate intothe statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -164,7 +166,7 @@ In general.—In developing the statewide transportation plan, the State shall p
 
 &emsp;&emsp;&emsp;(i) nonmetropolitan local elected officials, or, if applicable, through regional transportation planning organizations described in subsection (l), an opportunity to participate in accordance with subparagraph (B)(i); and
 
-&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+&emsp;&emsp;&emsp;(ii) citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program), representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
 
 &emsp;&emsp;(B)
 
@@ -266,7 +268,7 @@ Indian tribal areas.—With respect to each area of the State under the jurisdic
 
 &emsp;(3)
 
-Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+Participation by interested parties.—In developing the program, the State shallprovide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
 
 &emsp;(4)
 
@@ -290,7 +292,7 @@ In general.—An annual listing of projects for which funds have been obligated 
 
 &emsp;&emsp;&emsp;(ii)
 
-Funding categories.—The listing described in clause (i) shall be consistentwith the funding categories identified in each metropolitan transportation improvement program.
+Funding categories.—The listing described in clause (i) shall be consistent with the funding categories identified in each metropolitan transportation improvement program.
 
 &emsp;&emsp;(C)
 
@@ -458,9 +460,9 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 &emsp;(5)
 
-States without regional transportation planning organizations.—If a Statechooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
+States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559; Pub. L. 112–141, div. B, §20006, July 6, 2012, 126 Stat. 643.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559; Pub. L. 112–141, div. B, §20006, July 6, 2012, 126 Stat. 643; Pub. L. 114–94, div. A, title III, §3003(b), Dec. 4, 2015, 129 Stat. 1449.)
 
 Historical and Revision Notes
 
@@ -510,6 +512,16 @@ The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pu
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §3003(b)(1), substituted ", bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers" for "and bicycle transportation facilities".
+
+Subsec. (d)(1)(I). Pub. L. 114–94, §3003(b)(2)(A), added subpar. (I).
+
+Subsec. (d)(2)(B)(ii). Pub. L. 114–94, §3003(b)(2)(B)(i), struck out "urbanized" after "In".
+
+Subsec. (d)(2)(C). Pub. L. 114–94, §3003(b)(2)(B)(ii), struck out "urbanized" after "public transportation in".
+
+Subsec. (f)(3)(A)(ii). Pub. L. 114–94, §3003(b)(3), inserted "public ports," before "freight shippers," and "(including intercity bus operators, employer-based commuting programs, such as a carpool program, vanpool program, transit benefit program, parking cash-out program, shuttle program, or telework program)" after "private providers of transportation".
+
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
 
 <b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
@@ -520,7 +532,7 @@ Pub. L. 105–178, §3005(a), in second sentence, substituted "the metropolitan 
 
 Subsec. (b)(2)(B). Pub. L. 105–178, §3005(d)(2)(A), as added by Pub. L. 105–206, §9009(c)(2), struck out "and" at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" for "strategies which may include", was executed by making the substitution for "strategies, which may include" to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+Subsec. (b)(2)(C). Pub. L. 105–178, §3005(d)(2)(B), as added by Pub. L. 105–206, §9009(c)(2), which directed amendment of subpar. (C) by substituting "strategies; and" for "strategies which may include", was executedby making the substitution for "strategies, which may include" to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
 
 Pub. L. 105–178, §3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: "recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects."
 
@@ -535,6 +547,10 @@ Subsec. (c)(4). Pub. L. 105–178, §3005(d)(3), as added by Pub. L. 105–206, 
 Pub. L. 105–178, §3005(c)(2), added par. (4).
 
 Subsec. (c)(5), (6). Pub. L. 105–178, §3005(c)(2), added pars. (5) and (6).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

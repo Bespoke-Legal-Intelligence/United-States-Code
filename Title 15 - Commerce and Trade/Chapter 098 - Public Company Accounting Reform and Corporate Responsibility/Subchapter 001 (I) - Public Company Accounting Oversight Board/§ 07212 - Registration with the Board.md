@@ -42,7 +42,7 @@ It shall be unlawful for any person that is not a registered public accounting f
 
 #### (1) Timing
 
-&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
+&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a writtennotice of disapproval to, or requests more information from, the prospective registrant.
 
 #### (2) Treatment
 
@@ -50,7 +50,7 @@ It shall be unlawful for any person that is not a registered public accounting f
 
 #### (d) Periodic reports
 
-Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2) of this section.
+Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2).
 
 #### (e) Public availability
 

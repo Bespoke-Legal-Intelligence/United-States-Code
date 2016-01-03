@@ -8,7 +8,7 @@ Guidance for Timely Consideration and Action.—The Secretary concerned may prov
 
 Time for Determination.—A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1713(a), Dec. 26, 2013, 127 Stat. 963; amended Pub. L.113–291, div. A, title X, §1071(f)(8), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 113–66, div. A, title XVII, §1713(a), Dec. 26, 2013, 127 Stat. 963; amended Pub. L. 113–291, div. A, title X, §1071(f)(8), Dec. 19, 2014, 128 Stat. 3510.)
 
 #### Prior Provisions
 

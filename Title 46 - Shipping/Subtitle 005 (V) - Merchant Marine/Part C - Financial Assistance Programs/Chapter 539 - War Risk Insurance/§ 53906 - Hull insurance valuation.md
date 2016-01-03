@@ -22,7 +22,7 @@ Amount of Claim.—If a vessel is actually or constructively totally lost and th
 
 (d)
 
-Adjusting Premiums.—If a court makes a determination as provided under subsection\(c)(2), premiums paid under the policy shall be adjusted based on the court's determination and the rates provided for in the policy.
+Adjusting Premiums.—If a court makes a determination as provided under subsection (c)(2), premiums paid under the policy shall be adjusted based on the court's determination and the rates provided for in the policy.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1629.)
 

@@ -54,7 +54,7 @@ To be eligible to receive a grant under this section, a protection and advocacy 
 
 #### (f) Carryover
 
-Any amount paid to a protection and advocacy system that serves a State or the American Indian consortium for a fiscal year under this section that remains unobligated at the end of suchfiscal year shall remain available to such system for obligation during the next fiscal year for the purposes for which such amount was originally provided.
+Any amount paid to a protection and advocacy system that serves a State or the American Indian consortium for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligation during the next fiscal year for the purposes for which such amount was originally provided.
 
 #### (g) Direct payment
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, each fiscal year not later than Octo
 
 #### (2) Report by Secretary
 
-&emsp;Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit to the appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
+&emsp;Not later than 1 year after November 26, 2014, the Secretary shall prepare and submit tothe appropriate committees of Congress a report describing the services and activities carried out under this section during the period for which the report is being prepared.
 
 #### (i) Data collection
 
@@ -132,7 +132,7 @@ Subsec. (l). Pub. L. 113–196, §4(6), substituted "$3,100,000 for each of the 
 
 Subsec. (m)(1). Pub. L. 113–196, §4(7)(A), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance Bill of Rights Act (42 U.S.C. 6042 et seq.)".
 
-Subsec. (m)(2). Pub. L. 113–196, §4(7)(B), substituted "subtitle C of title I of the Developmental DisabilitiesAssistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.)".
+Subsec. (m)(2). Pub. L. 113–196, §4(7)(B), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042 et seq.)".
 
 <b>2008</b>—Subsecs. (d), (e). Pub. L. 110–206, §6(b)(1), substituted "subsection (l)" for "subsection (i)" wherever appearing.
 

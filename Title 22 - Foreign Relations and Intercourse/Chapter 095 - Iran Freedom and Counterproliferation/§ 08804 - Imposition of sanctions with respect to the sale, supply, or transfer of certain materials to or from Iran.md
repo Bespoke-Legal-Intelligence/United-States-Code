@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the personknowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers, directly or indirectly, to or from Iran—
+&emsp;The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the person knowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers, directly or indirectly, to or from Iran—
 
 &emsp;&emsp;(A) a precious metal;
 

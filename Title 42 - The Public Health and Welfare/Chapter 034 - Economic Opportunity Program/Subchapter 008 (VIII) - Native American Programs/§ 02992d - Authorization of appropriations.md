@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 103–171, §5(6)(D), redesignated subsec. (f) as (e).
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 
-Pub. L. 102–375, §822(15), substituted ", 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 ofthis title" and "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991".
+Pub. L. 102–375, §822(15), substituted ", 2991b–1 of this title, subsection (e) of this section, and any other provision of this subchapter for which there is an express authorization of appropriations" for "and 2991b–1 of this title" and "1992, 1993, 1994, and 1995" for "1988, 1989, 1990, and 1991".
 
 Subsec. (b). Pub. L. 102–524, §3(1), inserted reference to section 2991b–3 of this title.
 

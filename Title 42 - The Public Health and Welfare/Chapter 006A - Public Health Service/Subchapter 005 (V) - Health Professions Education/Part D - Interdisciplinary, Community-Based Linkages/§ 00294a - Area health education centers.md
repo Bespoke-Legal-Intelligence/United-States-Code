@@ -34,7 +34,7 @@ The Secretary shall make the following 2 types of awards in accordance with this
 
 &emsp;An eligible entity shall use amounts awarded under a grant under subsection (a)(1) or (a)(2) to carry out the following activities:
 
-&emsp;&emsp;(A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under section 2864(c) of title 29, to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
+&emsp;&emsp;(A) Develop and implement strategies, in coordination with the applicable one-stop delivery system under section 3151(e) of title 29, to recruit individuals from underrepresented minority populations or from disadvantaged or rural backgrounds into health professions, and support such individuals in attaining such careers.
 
 &emsp;&emsp;(B) Develop and implement strategies to foster and provide community-based training and education to individuals seeking careers in health professions within underserved areas for the purpose of developing and maintaining a diverse health care workforce that is prepared to deliver high-quality care, with an emphasis on primary care, in underserved areas or for health disparity populations, in collaboration with other Federal and State health care workforce development programs, the State workforce agency, and local workforce investment boards, and in health care safety net sites.
 
@@ -148,10 +148,6 @@ It is the sense of the Congress that every State have an area health education c
 
 (July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, §512(z)(2), July 22, 2014, 128 Stat. 1716.)
 
-#### Amendment of Subsection (c)(1)(A)
-
-<i>Pub. L. 113–128, title V, §§506, 512(z)(2), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(A) of this section is amended by striking "the applicable one-stop delivery system under section 2864(c) of title 29," and inserting "the applicable one-stop delivery system under section 3151(e) of title 29,". See 2014 Amendment note below.</i>
-
 #### Prior Provisions
 
 A prior section 294a, act July 1, 1944, ch. 373, title VII, §762, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2046, authorized grants and contracts for public health special projects, prior to the general amendment of this part by Pub. L. 105–392.
@@ -174,13 +170,15 @@ Another prior section 751 of act July 1, 1944, was classified to section 294t of
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Waiver of Requirements
 
-Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2467, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+Pub. L. 114–113, div. H, title II, Dec. 18, 2015, 129 Stat. 2600, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2467.
 
 Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 363.
 

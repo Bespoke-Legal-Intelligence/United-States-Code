@@ -12,7 +12,7 @@
 
 #### (2) Procedures
 
-&emsp;Notwithstanding any other provision of law, a Federal or State court in which an action covered by this chapter is pending shall, in connection with a motion under section 1605 or 1606 of this title, use the procedures set forth in this chapter.
+&emsp;Notwithstanding any other provision of law, a Federal or State court in which an actioncovered by this chapter is pending shall, in connection with a motion under section 1605 or 1606 of this title, use the procedures set forth in this chapter.
 
 #### (b) Applicability
 

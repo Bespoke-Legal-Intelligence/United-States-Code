@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) a foreign government, or
 
-&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territoryor political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
+&emsp;&emsp;(B) an organization (other than an international organization, as defined in section 4309(b) of this title) representing a territory or political entity which has been granted diplomatic or other official privileges and immunities under the laws of the United States or which engages in some aspect of the conduct of the international affairs of such territory or political entity,
 
 > &emsp;including any real property of such a mission and including the personnel of such a mission;
 
@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: " 'Director' means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;".
+<b>1994</b>—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to\(7), respectively. Prior to amendment, par. (3) read as follows: " 'Director' means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;".
 
 <b>1987</b>—Subsec. (a)(1)(G). Pub. L. 100–204 added subpar. (G).
 

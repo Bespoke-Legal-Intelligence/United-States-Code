@@ -42,7 +42,7 @@
 
 &emsp;(B) to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title) made by such Secretary to the Account on behalf of such individual.
 
-(3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
+(3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to makepayments of benefits to such individual under section 3015(f) of this title.
 
 (Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
@@ -52,7 +52,7 @@
 
 <b>1998</b>—Subsec. (a)(1)(B), (2)(B). Pub. L. 105–368, §203(a), substituted "successfully completed (or otherwise received academic credit for)" for "successfully completed".
 
-Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of "before October 23, 1993," for"before the one-year period beginning on the date of the enactment of this section,", was executed by making the substitution for text which did not include the word "the" before the word "enactment", to reflect the probable intent of Congress.
+Subsec. (a)(2)(E). Pub. L. 105–368, §1005(b)(6), which directed the substitution of "before October 23, 1993," for "before the one-year period beginning on the date of the enactment of this section,", was executed by making the substitution for text which did not include the word "the" before the word "enactment", to reflect the probable intent of Congress.
 
 <b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–446, §1201(f)(3), substituted "October 23, 1992," for "the date of enactment of this section".
 

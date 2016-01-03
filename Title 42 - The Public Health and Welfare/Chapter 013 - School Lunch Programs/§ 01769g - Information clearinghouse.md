@@ -22,7 +22,7 @@ The nongovernmental organization referred to in subsection (a) of this section s
 
 &emsp;&emsp;(C) is knowledgeable regarding Federal nutrition programs;
 
-&emsp;(5) be experienced in communicating the purpose of the clearinghouse through themedia, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
+&emsp;(5) be experienced in communicating the purpose of the clearinghouse through the media, including the radio and print media, and be able to provide access to the clearinghouse information through computer or telecommunications technology, as well as through the mails; and
 
 &emsp;(6) be able to provide examples, advice, and guidance to States, counties, cities, communities, antihunger groups, and local organizations regarding means of assisting individuals and communities to reduce reliance on government programs, reduce hunger, improve nutrition, and otherwise assist low-income individuals and communities become more self-sufficient.
 
@@ -32,11 +32,13 @@ The Secretary shall establish fair and reasonable auditing procedures regarding 
 
 #### (d) Funding
 
-Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2015. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2016. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
-(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §128, June 30, 2004, 118 Stat. 767; Pub. L. 111–80, title VII, §749(f), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title IV, §409, Dec. 13, 2010, 124 Stat. 3260.)
+(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §128, June 30, 2004, 118 Stat. 767; Pub. L. 111–80, title VII, §749(f), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title IV, §409, Dec. 13, 2010, 124 Stat. 3260; Pub. L. 114–113, div. A, title IV, Dec. 18, 2015, 129 Stat. 2266.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–113 substituted "2010 through 2016" for "2010 through 2015" in first sentence.
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–296 substituted "2010 through 2015" for "2005 through 2010" in first sentence.
 

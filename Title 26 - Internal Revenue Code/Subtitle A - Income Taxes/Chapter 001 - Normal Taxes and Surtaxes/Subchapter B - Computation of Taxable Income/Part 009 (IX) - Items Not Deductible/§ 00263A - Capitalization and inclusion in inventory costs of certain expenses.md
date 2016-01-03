@@ -74,6 +74,10 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;Paragraphs (2) and (3) shall apply to any amount allowable as a deduction under section 59(e) for qualified expenditures described in subparagraphs (B), (C), (D), and (E) of paragraph (2) thereof.
 
+#### (7) Coordination with section 168(k)(5)
+
+&emsp;This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
+
 #### (d) Exception for farming businesses
 
 #### (1) Section not to apply to certain property
@@ -160,7 +164,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (C) Members of family
 
-&emsp;&emsp;For purposes of this paragraph, the term "family" means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term "family" means the taxpayer, the spouse of the taxpayer, and any of their children whohave not attained age 18 before the close of the taxable year.
 
 #### (3) Preproductive period
 
@@ -272,7 +276,7 @@ For purposes of this section—
 
 #### (2) Treatment of property produced under contract for the taxpayer
 
-&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall be taken into account in applying subsection (a) to the taxpayer.
+&emsp;The taxpayer shall be treated as producing any property produced for the taxpayer under a contract with the taxpayer; except that only costs paid or incurred by the taxpayer (whether under such contract or otherwise) shall betaken into account in applying subsection (a) to the taxpayer.
 
 #### (h) Exemption for free lance authors, photographers, and artists
 
@@ -296,7 +300,7 @@ For purposes of this section—
 
 #### (A) Writer
 
-&emsp;&emsp;The term "writer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) aliterary manuscript, musical composition (including any accompanying words), or dance score.
+&emsp;&emsp;The term "writer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer
 
@@ -340,9 +344,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020).
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691-3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(7). Pub. L. 114–113 added par. (7).
 
 <b>2005</b>—Subsec. (c)(3). Pub. L. 109–58 inserted "167(h)," after "under section".
 
@@ -364,7 +370,7 @@ Qualified employee-owner.—The term 'qualified employee-owner' means any indivi
 
 Personal service corporation.—For purposes of this subparagraph, the term 'personal service corporation' means any personal service corporation (as defined in section 269A(b))."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end "Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end "Any cost which (but for this subsection)could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph."
 
 Subsec. (c)(3). Pub. L. 100–647, §1008(b)(2)(A), substituted "section 263(c), 263(i), 291(b)(2), 616, or 617" for "section 263(c), 616(a), or 617(a)".
 
@@ -391,6 +397,10 @@ Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "p
 Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted "allocable (as determined under paragraph (2)) to" for "incurred or continued in connection with" and inserted "(as so determined)" after "allocable".
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2015, in taxable years ending after such date, see section 143(b)(7) of Pub. L. 114–113, set out as a note under section 168 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -480,7 +490,7 @@ Interest and taxes.—Section 263A of such Code shall not apply to property desc
 
 "(5)
 
-Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\]was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
+Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act \[Oct. 22, 1986\] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
 
 &emsp;"(A) was incorporated in California on April 15, 1925,
 

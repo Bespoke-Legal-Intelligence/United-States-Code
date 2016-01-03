@@ -98,7 +98,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (3) Fee
 
-&emsp;A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
+&emsp;A borrower that exercises the maximum rate option under paragraph (1) shall, at the timeof exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
 
 #### (4) Sunset
 

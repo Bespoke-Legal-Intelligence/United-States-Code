@@ -14,7 +14,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;The Congress finds that—
 
-&emsp;&emsp;(A) approximately 350,000 acres of land were withdrawn by Executive orders in 1917for the use of the United States Bureau of Education and of the Natives of Indigenous Alaskan race;
+&emsp;&emsp;(A) approximately 350,000 acres of land were withdrawn by Executive orders in 1917 for the use of the United States Bureau of Education and of the Natives of Indigenous Alaskan race;
 
 &emsp;&emsp;(B) these lands comprised the Norton Bay Reservation (later referred to as Norton Bay Native Reserve) and were set aside for the benefit of the Native inhabitants of the Eskimo Village of Elim, Alaska;
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;The covenants, reservations, terms and conditions set forth in this paragraph and in paragraphs (5) and (6) with respect to the Conveyance Lands shall run with the land and shall be incorporated into the interim conveyance, if any, and patent conveying the lands to Elim.
 
-&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shall not be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. "Merchantable Timber" means timber that can be harvested and marketed by a prudent operator.
+&emsp;&emsp;(A) Consistent with paragraph (3)(C) and subject to the applicable covenants, reservations, terms and conditions contained in this paragraph and paragraphs (5) and (6), Elim shall have all rights to the timber resources of the Conveyance Lands for any use including, but not limited to, construction of homes, cabins, for firewood and other domestic uses on any Elim lands: <i>Provided</i>, That cutting and removal of Merchantable Timber from the Conveyance Lands for sale shallnot be permitted: <i>Provided further</i>, That Elim shall not construct roads and related infrastructure for the support of such cutting and removal of timber for sale or permit others to do so. "Merchantable Timber" means timber that can be harvested and marketed by a prudent operator.
 
 &emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as "hot springs") subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (D) Other easements
 
-&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve easements which shall include the right of the public to enter upon and travel along the Tubutulik River and Clear Creek within the Conveyance Lands. Such easements shall also include easements for trails confined to foot travel along, and which may be established along each bank of, the Tubutulik River and Clear Creek. Such trails shall be 25 feet wide and upland of the ordinary high waterline of the water courses. The trails may deviate from the banks as necessary to go around man-made or natural obstructions or to portage around hazardous stretches of water. The easements shall also include one-acre sites along the water courses at reasonable intervals, selected in consultation with Elim, which may be used to launch or take out water craft from the water courses and to camp in non-permanent structures for a period not to exceed 24 hours without the consent of Elim.
+&emsp;&emsp;The Bureau of Land Management, in consultation with Elim, shall reserve easements which shall include the right of the public to enter upon and travel along the Tubutulik River and Clear Creek within the Conveyance Lands. Such easements shall also include easements for trails confined to foot travel along, and which may be established along each bank of, the Tubutulik River and Clear Creek. Such trails shall be 25 feet wide and upland of the ordinary high waterline of the water courses. The trails may deviate from the banks as necessary to go aroundman-made or natural obstructions or to portage around hazardous stretches of water. The easements shall also include one-acre sites along the water courses at reasonable intervals, selected in consultation with Elim, which may be used to launch or take out water craft from the water courses and to camp in non-permanent structures for a period not to exceed 24 hours without the consent of Elim.
 
 #### (E) Inholders
 

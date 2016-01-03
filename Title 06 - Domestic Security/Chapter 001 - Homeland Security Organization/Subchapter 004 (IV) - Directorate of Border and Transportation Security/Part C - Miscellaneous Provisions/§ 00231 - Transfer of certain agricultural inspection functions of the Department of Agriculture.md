@@ -70,7 +70,7 @@ For purposes of this section, the term "functions" does not include any quaranti
 
 #### (2) Limitation
 
-&emsp;The proportion of fees collected pursuant to such sections that are transferred to the Secretary under this subsection may not exceed the proportion of the costs incurred by theSecretary to all costs incurred to carry out activities funded by such fees.
+&emsp;The proportion of fees collected pursuant to such sections that are transferred to the Secretary under this subsection may not exceed the proportion of the costs incurred by the Secretary to all costs incurred to carry out activities funded by such fees.
 
 #### (g) Transfer of Department of Agriculture employees
 

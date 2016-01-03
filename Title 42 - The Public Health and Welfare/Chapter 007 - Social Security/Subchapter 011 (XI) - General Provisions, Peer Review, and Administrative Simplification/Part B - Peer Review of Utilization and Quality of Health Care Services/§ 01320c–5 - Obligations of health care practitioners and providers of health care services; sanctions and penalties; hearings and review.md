@@ -2,7 +2,7 @@
 
 #### (a) Assurances regarding services and items ordered or provided by practitioner or provider
 
-It shall be the obligation of any health care practitioner and any other person (including a hospital or other health care facility, organization, or agency) who provides health care services for which payment may be made (in whole or in part) under this chapter, to assure, to the extent of his authority that services or items ordered or provided by such practitioner or person to beneficiaries and recipients under this chapter—
+It shall be the obligation of any health care practitioner and any other person (including ahospital or other health care facility, organization, or agency) who provides health care services for which payment may be made (in whole or in part) under this chapter, to assure, to the extent of his authority that services or items ordered or provided by such practitioner or person to beneficiaries and recipients under this chapter—
 
 &emsp;(1) will be provided economically and only when, and to the extent, medically necessary;
 
@@ -34,7 +34,7 @@ It shall be the obligation of any health care practitioner and any other person 
 
 It shall be the duty of each quality improvement organization to use such authority or influence it may possess as a professional organization, and to enlist the support of any other professional or governmental organization having influence or authority over health care practitioners and any other person (including a hospital or other health care facility, organization, or agency) providing health care services in the area served by such review organization, in assuring that each practitioner or person (referred to in subsection (a) of this section) providing health care services in such area shall comply with all obligations imposed on him under subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XI, §1156, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.388; amended Pub. L. 100–93, §6, Aug. 18, 1987, 101 Stat. 691; Pub. L. 100–203, title IV, §4095(a), Dec. 22, 1987, 101 Stat. 1330–138; Pub. L. 100–203, title IV, §4039(h)(5), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 775; Pub. L. 101–508, title IV, §4205(a)(1), (d)(2)(A), Nov. 5, 1990, 104 Stat. 1388–112, 1388–114; Pub. L. 101–597, title IV, §401(c)(1), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 103–432, title I, §156(b)(1), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 104–191, title II, §§214, 231(f), Aug. 21, 1996, 110 Stat. 2005, 2014; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 214 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
+Amendment by section 214 of Pub. L. 104–191 effective Jan. 1, 1997, except as otherwise provided, see section 218 of Pub. L. 104–191, set out as a note under section 1320a–7 of this title.
 
 Amendment by section 231(f) of Pub. L. 104–191 applicable to acts or omissions occurring on or after Jan. 1, 1997, see section 231(i) of Pub. L. 104–191, set out as a note under section 1320a–7a of this title.
 
@@ -104,7 +104,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4095(b), Dec. 22, 1987, 101 Stat. 1330–138, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[42 U.S.C. 1320c–5(b)\] on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4095(b), Dec. 22, 1987, 101 Stat. 1330–138, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to determinations made by the Secretary of Health and Human Services under section 1156(b) of the Social Security Act \[42 U.S.C. 1320c–5(b)\] on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

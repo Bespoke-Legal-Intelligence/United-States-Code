@@ -1,16 +1,16 @@
 ### §1301. Definitions
 
-When used in this subchapter and subchapter II of this chapter—
+When used in this subchapter and subchapter II—
 
 (a) The term "lands beneath navigable waters" means—
 
-&emsp;(1) all lands within the boundaries of each of the respective States which are covered by nontidal waters that were navigable under the laws of the United States at the time such State became a member of the Union, or acquired sovereignty over such lands and waters thereafter, up to the ordinary high water mark as heretofore or hereafter modified by accretion, erosion, and reliction;
+&emsp;(1) all lands within the boundaries of each of the respective States which are covered bynontidal waters that were navigable under the laws of the United States at the time such State became a member of the Union, or acquired sovereignty over such lands and waters thereafter, up to the ordinary high water mark as heretofore or hereafter modified by accretion, erosion, and reliction;
 
 &emsp;(2) all lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coast line of each such State and to the boundary line of each such State where in any case such boundary as it existed at the time such State became a member of the Union, or as heretofore approved by Congress, extends seaward (or into the Gulf of Mexico) beyond three geographical miles,<sup>1</sup> and
 
 &emsp;(3) all filled in, made, or reclaimed lands which formerly were lands beneath navigable waters, as hereinabove defined;
 
-(b) The term "boundaries" includes the seaward boundaries of a State or its boundaries in the Gulf of Mexico or any of the Great Lakes as they existed at the time such State became a member of the Union, or as heretofore approved by the Congress, or as extended or confirmed pursuant to section 1312 of this title but in no event shall the term "boundaries" or the term "lands beneath navigable waters" be interpreted as extending from the coast line more than three geographical miles into the Atlantic Ocean or the Pacific Ocean, or more than three marine leagues into the Gulf of Mexico, except that any boundary between a State and the United States under this subchapter or subchapter II of this chapter which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory;
+(b) The term "boundaries" includes the seaward boundaries of a State or its boundaries in the Gulf of Mexico or any of the Great Lakes as they existed at the time such State became a member of the Union, or as heretofore approved by the Congress, or as extended or confirmed pursuant to section 1312 of this title but in no event shall the term "boundaries" or the term "lands beneath navigable waters" be interpreted as extending from the coast line more than three geographical miles into the Atlantic Ocean or the Pacific Ocean, or more than three marine leagues into the Gulf of Mexico, except that any boundary between a State and the United States under this subchapter or subchapter II which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory;
 
 (c) The term "coast line" means the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters;
 
@@ -28,7 +28,7 @@ When used in this subchapter and subchapter II of this chapter—
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted ", except that any boundary between a State and the United States under this subchapter or subchapter II of this chapter which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory".
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 inserted ", except that any boundary between a State and the United States under this subchapter or subchapter II which has been or is hereafter fixed by coordinates under a final decree of the United States Supreme Court shall remain immobilized at the coordinates provided under such decree and shall not be ambulatory".
 
 #### Short Title of 1995 Amendment
 

@@ -70,15 +70,21 @@ Badlands National Monument, South Dakota \[Monument redesignated Badlands Nation
 
 Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 1991, Feb. 25, 1932, 47 Stat. 2503; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006; Pub. L. 94–578, title III, §309, Oct. 21, 1976, 90 Stat. 2736; Pub. L. 105–85, div. C, title XXXI, §3164, Nov. 18, 1997, 111 Stat. 2050; Pub. L. 105–376, Nov. 12, 1998, 112 Stat. 3388.
 
+Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
+
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
 Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978, 93 Stat. 1451.
+
+Berryessa Snow Mountain National Monument, California.—Proc. No. 9298, July 10, 2015, 80 F.R. 41975.
 
 Big Hole Battlefield National Monument, Montana \[Monument redesignated Big Hole National Battlefield, see section 430uu of Title 16, Conservation\].—Ex. Ord. No. 1216, June 23, 1910; Proc. No. 2339, June 29, 1939, 53 Stat. 2544.
 
 Black Canyon of the Gunnison National Monument, Colorado \[Monument abolished and lands incorporated in, and funds made available for, Black Canyon of the Gunnison National Park, see section 410fff–2 of Title 16, Conservation\].—Proc. No. 2033, Mar. 2, 1933, 47 Stat. 2558; Proc. No. 2286, May 16, 1938, 52 Stat. 1548; Proc. No. 2372, Oct. 28, 1939, 54 Stat. 2669; Proc. No. 3344, Apr. 8, 1960, 74 Stat.
 
 c56; Pub. L. 98–357, July 13, 1984, 98 Stat. 397.
+
+Browns Canyon National Monument, Colorado.—Proc. No. 9232, Feb. 19, 2015, 80 F.R. 9975.
 
 Bryce Canyon National Monument, Utah.—Proc. No. 1664, June 8, 1923, 43 Stat. 1914; Proc. No. 1930, Jan. 5, 1931, 46 Stat. 3042; Proc. No. 1952, May 4, 1931, 47 Stat. 2455.
 
@@ -216,6 +222,8 @@ Harriet Tubman—Underground Railroad National Monument, Maryland.—Proc. No. 8
 
 Holy Cross National Monument, Colorado \[Monument abolished by act Aug. 3, 1950, ch. 530, 64 Stat. 404\].—Proc. No. 1877, May 11, 1929, 46 Stat. 2993.
 
+Honouliuli National Monument, Hawaii.—Proc. No. 9234, Feb. 24, 2015, 80 F.R. 11069.
+
 Hovenweep National Monument, Colorado-Utah.—Proc. No. 1654, Mar. 2, 1923, 42 Stat. 2299; Proc. No. 2924, Apr. 26, 1951, 65 Stat.
 
 c8; Proc. No. 2998, Nov. 20, 1952, 67 Stat.
@@ -314,6 +322,8 @@ Pompeys Pillar National Monument, Montana.—Proc. No. 7396, Jan. 17, 2001, 66 F
 
 President Lincoln and Soldiers' Home National Monument, District of Columbia.—Proc. No. 7329, July 7, 2000, 65 F.R. 43673.
 
+Pullman National Monument, Illinois.—Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315.
+
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
 
 Río Grande del Norte National Monument, New Mexico.—Proc. No. 8946, Mar. 25, 2013, 78 F.R. 18783.
@@ -326,7 +336,7 @@ Saguaro National Monument, Arizona \[Monument abolished and incorporated in Sagu
 
 San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
 
-San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789.
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272.
 
 Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939, 53 Stat. 2542; Proc. No. 2659, Aug. 13, 1945, 59 Stat. 877.
 
@@ -363,6 +373,8 @@ Verendrye National Monument, North Dakota.—Proc. No. 1380, June 29, 1917, 40 S
 Vermilion Cliffs National Monument, Arizona.—Proc. No. 7374, Nov. 9, 2000, 65 F.R. 69227.
 
 Virgin Islands Coral Reef National Monument, Virgin Islands.—Proc. No. 7399, Jan. 17, 2001, 66 F.R. 7364.
+
+Waco Mammoth National Monument, Texas.—Proc. No. 9299, July 10, 2015, 80 F.R. 41983.
 
 Walnut Canyon National Monument, Arizona.—Proc. No. 1318, Nov. 30, 1915, 39 Stat. 1761; Proc. No. 2300, Sept. 24, 1938, 53 Stat. 2469; Pub. L. 104–333, div. I, title II, §208, Nov. 12, 1996, 110 Stat. 4107.
 
@@ -485,6 +497,8 @@ Lincoln Boyhood National Memorial, Indiana.—Pub. L. 87–407, Feb. 19, 1962, 7
 Lincoln Museum National Memorial, District of Columbia.—Act Apr. 7, 1866, ch. 28, §1, 14 Stat. 23.
 
 Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 Stat. 898.
+
+Medicine Creek Treaty National Memorial, Washington.—Pub. L. 114–101, §3, Dec. 18, 2015, 129 Stat. 2203.
 
 Memorial to the Victims of the Shooting at the Washington Navy Yard on September 16, 2013, District of Columbia.—Pub. L. 113–291, div. B, title XXVIII, §2853, Dec. 19, 2014, 128 Stat. 3715.
 

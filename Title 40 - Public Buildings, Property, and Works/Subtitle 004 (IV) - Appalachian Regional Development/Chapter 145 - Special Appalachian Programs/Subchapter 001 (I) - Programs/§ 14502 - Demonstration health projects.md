@@ -42,7 +42,7 @@ Additional uses for construction grants.—Grants under this section for constru
 
 &emsp;(2)
 
-Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of thistitle and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
+Standards for making grants.—Grants under this section for construction shall be made in accordance with section 14523 of this title and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act (42 U.S.C. 291 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15001 et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
 
 &emsp;(3)
 
@@ -198,7 +198,7 @@ The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 194
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended,which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

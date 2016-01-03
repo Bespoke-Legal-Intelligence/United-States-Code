@@ -74,7 +74,7 @@
 
 #### (iv) Requirement for exemption as of fiscal year 2008
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, the State is substantially in compliance with the agreement under clause (iii)(II).
+&emsp;&emsp;&emsp;For each of the fiscal years 2008 through 2012, an exemption under clause (ii) for a State applies only if, as of April 1, 2008, theState is substantially in compliance with the agreement under clause (iii)(II).
 
 #### (v) Progress toward names-based reporting
 
@@ -118,7 +118,7 @@
 
 #### (II) Applicability of exemption requirements
 
-&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly,the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
+&emsp;&emsp;&emsp;&emsp;The provisions of clauses (ii) through (vii) may not be construed as having any legal effect for fiscal year 2013 or any subsequent fiscal year, and accordingly, the status of a State for purposes of such clauses may not be considered after fiscal year 2012.
 
 #### (ix) Program for detecting inaccurate or fraudulent counting
 
@@ -136,7 +136,7 @@
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of thelimitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
 
 #### (F) Appropriations for treatment drug program
 
@@ -196,7 +196,7 @@
 
 #### (iii) Fiscal year 2013
 
-&emsp;&emsp;&emsp;For fiscal year 2013, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is not less than 92.5 percent of such total for the State for fiscal year 2012.
+&emsp;&emsp;&emsp;For fiscal year 2013, the Secretary shall ensure that the total for a State of the grant pursuant to paragraph (1) and the grant pursuant to subparagraph (F) is notless than 92.5 percent of such total for the State for fiscal year 2012.
 
 #### (iv) Source of funds for increase
 
@@ -250,7 +250,7 @@
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in theaccess to and quality of HIV health services.
+&emsp;&emsp;&emsp;Each State that receives a grant under section 300ff–21 of this title shall provide for the establishment of a clinical quality management program to assess the extent to which HIV health services provided to patients under the grant are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infection, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines for improvement in the access to and quality of HIV health services.
 
 #### (ii) Use of funds
 
@@ -272,7 +272,7 @@
 
 #### (5) Exception
 
-&emsp;With respect to a State that receives the minimum allotment under subsection (a)(1) of this section for a fiscal year, such State, from the amounts received under a grant awarded under section 300ff–21 of this title for such fiscal year for the activities described in paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4), use not more than that amount required to support one full-time-equivalent employee.
+&emsp;With respect to a State that receives the minimum allotment under subsection (a)(1) of this section for a fiscal year, such State, from the amounts received under a grant awarded under section 300ff–21 of this title for such fiscal year for the activities described in paragraphs (2) and (3), may, notwithstanding paragraphs (2) through (4), use not more than thatamount required to support one full-time-equivalent employee.
 
 #### (6) Construction
 
@@ -500,7 +500,7 @@ For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703
 
 #### Effective Date of 1996 Amendment
 
-Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+Amendment by sections 3(c)(5), (g)(2) and 6(c)(3)(A) of Pub. L. 104–146 effective Oct. 1, 1996, and amendment by sections 5 and 6(c)(3)(B) of Pub. L. 104–146 effective May 20, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be " 'non-EMA".</i>
 

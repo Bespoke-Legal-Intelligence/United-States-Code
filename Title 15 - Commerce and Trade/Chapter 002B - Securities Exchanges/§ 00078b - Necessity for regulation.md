@@ -132,7 +132,7 @@ Pub. L. 101–432, §8(a), Oct. 16, 1990, 104 Stat. 976, provided that: "The Sec
 
 #### Securities Laws Study
 
-Pub. L. 100–704, §7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigationwithin 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission's recommendations.
+Pub. L. 100–704, §7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigation within 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission's recommendations.
 
 #### Foreign Investment Study
 
@@ -142,7 +142,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 Ex. Ord. No. 12631, Mar. 18, 1988, 53 F.R. 9421, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States ofAmerica, and in order to establish a Working Group on Financial Markets, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. (a) There is hereby established a Working Group on Financial Markets (Working Group). The Working Group shall be composed of:
 

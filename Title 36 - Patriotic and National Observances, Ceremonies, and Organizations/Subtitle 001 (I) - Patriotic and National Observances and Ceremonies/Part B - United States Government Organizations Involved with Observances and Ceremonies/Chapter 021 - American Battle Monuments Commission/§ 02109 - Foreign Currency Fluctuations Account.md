@@ -20,7 +20,7 @@ Amounts transferred from the Account may be transferred back—
 
 &emsp;(B) because of subsequent favorable fluctuations in the rates or because other amounts are, or become, available to pay the obligations.
 
-(3) Amounts transferred to an appropriation under this subsection may not be transferredback to the Account after the end of the 2d fiscal year after the fiscal year in which the appropriation was available for obligation.
+(3) Amounts transferred to an appropriation under this subsection may not be transferred back to the Account after the end of the 2d fiscal year after the fiscal year in which the appropriation was available for obligation.
 
 (d)
 

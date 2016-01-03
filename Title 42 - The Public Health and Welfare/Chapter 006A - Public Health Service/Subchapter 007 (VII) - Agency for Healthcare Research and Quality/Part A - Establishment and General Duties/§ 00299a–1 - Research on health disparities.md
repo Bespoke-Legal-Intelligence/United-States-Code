@@ -4,7 +4,7 @@
 
 The Director shall—
 
-&emsp;(1) conduct and support research to identify populations for which there is a significant disparity in the quality, outcomes, cost, or use of health care services or access to and satisfaction with such services, as compared to the general population;
+&emsp;(1) conduct and support research to identify populations for which there is a significantdisparity in the quality, outcomes, cost, or use of health care services or access to and satisfaction with such services, as compared to the general population;
 
 &emsp;(2) conduct and support research on the causes of and barriers to reducing the health disparities identified in paragraph (1), taking into account such factors as socioeconomic status, attitudes toward health, the language spoken, the extent of formal education, the area or community in which the population resides, and other factors the Director determines to be appropriate;
 

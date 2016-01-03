@@ -12,7 +12,7 @@ The Inspector General of the Department of State and the Inspector General of th
 
 #### (1) In general
 
-&emsp;Of the amounts authorized to be appropriated under section 8412 of this title for eachof the fiscal years 2010 through 2014, up to $30,000,000 for each fiscal year is authorized to be made available to carry out this section.
+&emsp;Of the amounts authorized to be appropriated under section 8412 of this title for each of the fiscal years 2010 through 2014, up to $30,000,000 for each fiscal year is authorized to be made available to carry out this section.
 
 #### (2) Relation to other available funds
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, on the distribution of property by a corporation with respect to its stock, the earnings and profits of the corporation (to the extent thereof) shall be decreased by the sum of—
+Except as otherwise provided in this section, on the distribution of property by a corporationwith respect to its stock, the earnings and profits of the corporation (to the extent thereof) shall be decreased by the sum of—
 
 &emsp;(1) the amount of money,
 
@@ -50,7 +50,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 &emsp;The gain or loss realized from the sale or other disposition (after February 28, 1913) of property by a corporation—
 
-&emsp;&emsp;(A) for the purpose of the computation of the earnings and profits of the corporation, shall (except as provided in subparagraph\(B)) be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain, except that no regard shall be had to the value of the property as of March 1, 1913; but
+&emsp;&emsp;(A) for the purpose of the computation of the earnings and profits of the corporation, shall (except as provided in subparagraph (B)) be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain, except that no regard shall be had to the value of the property as of March 1, 1913; but
 
 &emsp;&emsp;(B) for purposes of the computation of the earnings and profits of the corporation for any period beginning after February 28, 1913, shall be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain.
 
@@ -68,7 +68,7 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 &emsp;(1) If any increase or decrease in the earnings and profits for any period beginning after February 28, 1913, with respect to any matter would be different had the adjusted basis of the property involved been determined without regard to its March 1, 1913, value, then, except as provided in paragraph (2), an increase (properly reflecting such difference) shall be made in that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
 
-&emsp;(2) If the application of subsection (f) to a sale or other disposition after February 28, 1913, results in a loss which is to be applied in decrease of earnings and profits for any period beginning after February 28, 1913, then, notwithstanding subsection (f) and in lieu of the rule provided in paragraph (1) of this subsection, the amount of such loss so to be applied shall be reduced by the amount, if any, by which the adjusted basis of the property used in determining the loss exceeds the adjusted basis computed without regard to the value of the property on March 1, 1913, and if such amount so applied in reduction of the decrease exceeds such loss, the excess over such loss shall increase that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
+&emsp;(2) If the application of subsection (f) to a sale or other disposition after February 28,1913, results in a loss which is to be applied in decrease of earnings and profits for any period beginning after February 28, 1913, then, notwithstanding subsection (f) and in lieu of the rule provided in paragraph (1) of this subsection, the amount of such loss so to be applied shall be reduced by the amount, if any, by which the adjusted basis of the property used in determining the loss exceeds the adjusted basis computed without regard to the value of the property on March 1, 1913, and if such amount so applied in reduction of the decrease exceeds such loss, the excess over such loss shall increase that part of the earnings and profits consisting of increase in value of property accrued before March 1, 1913.
 
 #### (h) Allocation in certain corporate separations and reorganizations
 
@@ -96,7 +96,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 #### (1) General rule
 
-&emsp;For purposes of computing the earnings and profits of a corporation for any taxable yearbeginning after June 30, 1972, the allowance for depreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972.
+&emsp;For purposes of computing the earnings and profits of a corporation for any taxable year beginning after June 30, 1972, the allowance for depreciation (and amortization, if any) shall be deemed to be the amount which would be allowable for such year if the straight line method of depreciation had been used for each taxable year beginning after June 30, 1972.
 
 #### (2) Exception
 
@@ -134,7 +134,7 @@ If a corporation distributes property with respect to its stock and if, at the t
 
 &emsp;&emsp;(B) there is a deficit in the earnings and profits of the corporation,
 
-> &emsp;then such deficit shall be reduced by an amount equal to the paid-in capital which is allocable to the interest of the shareholder which is so terminated or extinguished.
+> &emsp;then such deficit shall be reduced by an amount equal to the paid-in capital which isallocable to the interest of the shareholder which is so terminated or extinguished.
 
 #### (m) No adjustment for interest paid on certain registration-required obligations not in registered form
 
@@ -254,11 +254,11 @@ For purposes of computing the earnings and profits of a corporation, the followi
 
 For purposes of subsection (a)(2), the terms "original issue discount" and "issue price" have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, §3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, §231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(3), title IV, §442(a), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, §205(c)(1)(D), title XIX, §§1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, §5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§205(a)(3), 222(e)(3), title III, §310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, §306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, §103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§201(b), (d)(6), 241(b)(1), title VI, §631(e)(1), title VIII, §803(b)(3), title XVIII, §§1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, §1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(3), title IV, §413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, §3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, §231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(3), title IV, §442(a), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, §205(c)(1)(D), title XIX, §§1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, §5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§205(a)(3), 222(e)(3), title III, §310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, §306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, §103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§201(b), (d)(6), 241(b)(1), title VI, §631(e)(1), title VIII, §803(b)(3), title XVIII, §§1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388-555; Pub. L. 105–34, title XVI, §1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(3), title IV, §413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045.)
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d)(2), (3). Pub. L. 113–295, §221(a)(49), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be."
+<b>2014</b>—Subsec. (d)(2), (3). Pub. L. 113–295, §221(a)(49), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be."
 
 Subsec. (k)(3)(B). Pub. L. 113–295, §221(a)(34)(F), struck out "179A," after "section 179," in heading and in two places in text.
 
@@ -302,7 +302,7 @@ Subsec. (n)(1)(B). Pub. L. 100–647, §1018(u)(4), made technical amendment to 
 
 Subsec. (c). Pub. L. 99–514, §1804(f)(1)(B), (C), struck out ", etc." after "liabilities" in heading and struck out par. (3) which read as follows: "any gain recognized to the corporation on the distribution."
 
-Subsec. (k)(3). Pub. L. 99–514, §201(b), amended par. (3) generally, substituting provisions relating to tangible property to which section 168 applies and amounts deductible under section 179 for provisions relating to recovery property within the meaning of section 168, amounts deductible under section 179, and flexibility if a different recovery percentage is elected under section 168 based on a longer recovery period.
+Subsec. (k)(3). Pub. L. 99–514, §201(b), amended par. (3) generally, substituting provisions relating to tangibleproperty to which section 168 applies and amounts deductible under section 179 for provisions relating to recovery property within the meaning of section 168, amounts deductible under section 179, and flexibility if a different recovery percentage is elected under section 168 based on a longer recovery period.
 
 Subsec. (k)(3)(A). Pub. L. 99–514, §1809(a)(2)(C)(ii), in subpar. (A), struck out "and rules similar to the rules under the next to the last sentence of section 168(b)(2)(A) and section 168(b)(2)(B) shall apply" after "low-income housing)".
 
@@ -334,7 +334,7 @@ Subsec. (j)(3). Pub. L. 98–369, §61(a)(2)(A), struck out par. (3) which provi
 
 Subsec. (k)(3)(A). Pub. L. 98–369, §111(e)(5), substituted "18-year real property and low-income housing" for "15-year real property" in three places.
 
-Pub. L. 98–369, §61(b), substituted "40 years" for "35 years" in table item relating to 15-year real property.Directory language that table be amended by substituting "40 years" for "35 years" in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
+Pub. L. 98–369, §61(b), substituted "40 years" for "35 years" in table item relating to 15-year real property. Directory language that table be amended by substituting "40 years" for "35 years" in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
 
 Subsec. (n). Pub. L. 98–369, §61(a)(1), added subsec. (n).
 
@@ -424,7 +424,7 @@ Amendment by section 7811(m)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -458,7 +458,7 @@ Adjustments to earnings and profits.—
 
 &emsp;"(A)
 
-Paragraphs (1), (2), and (3) of section 312(n).—The provisions of paragraphs (1), (2), and (3) of section 312(n) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to amounts paid or incurred in taxable years beginning after September 30, 1984.
+Paragraphs (1), (2), and (3) of section 312(n).—The provisions of paragraphs (1), (2), and (3) of section312(n) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall apply to amounts paid or incurred in taxable years beginning after September 30, 1984.
 
 &emsp;"(B)
 
@@ -502,7 +502,7 @@ Amendment by section 205(a)(3) of Pub. L. 97–248 applicable to periods after D
 
 Amendment by section 222(e)(3) of Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
-Amendment by section 310(b)(3) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) ofPub. L. 97–248, set out as a note under section 103 of this title.
+Amendment by section 310(b)(3) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
 #### Effective Date of 1981 Amendment
 

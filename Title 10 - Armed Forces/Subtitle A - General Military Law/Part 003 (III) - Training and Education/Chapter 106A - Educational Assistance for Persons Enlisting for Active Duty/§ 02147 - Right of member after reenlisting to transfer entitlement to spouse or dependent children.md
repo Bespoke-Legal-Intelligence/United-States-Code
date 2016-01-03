@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>1987</b>—Subsec. (d)(1), (2). Pub. L. 100–180 inserted "The term" after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (d)(1), (2). Pub. L. 100–180 inserted "The term" after each par. designation and revised first wordin quotes in each par. to make initial letter of such word lowercase.
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 designated existing first sentence as subpar. (A), added subpar. (B), and incorporated existing second sentence as subpar. (C).
 

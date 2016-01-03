@@ -22,7 +22,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
 
-&emsp;(D) if the cost is for airport development and is incurred before execution of the grant agreement, but in the same fiscal year as execution of the grant agreement, and if—
+&emsp;(D) if the cost is for airport development and is incurred before execution of the grantagreement, but in the same fiscal year as execution of the grant agreement, and if—
 
 &emsp;&emsp;(i) the cost was incurred before execution of the grant agreement because the airport has a shortened construction season due to climactic conditions in the vicinity of the airport;
 
@@ -263,7 +263,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Letters of Intent for Airport Security Improvement Projects
 

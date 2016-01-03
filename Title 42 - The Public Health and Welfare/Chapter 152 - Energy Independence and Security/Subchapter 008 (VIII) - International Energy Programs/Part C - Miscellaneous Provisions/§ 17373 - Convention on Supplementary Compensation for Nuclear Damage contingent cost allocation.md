@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) to ensure prompt and equitable compensation in the event of a nuclear incident;
 
-&emsp;&emsp;(D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that, in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
+&emsp;&emsp;(D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that,in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
 
 &emsp;&emsp;(E) the Convention also benefits United States nuclear facility operators that may be publicly liable for a Price-Anderson incident by providing an additional early source of funds to compensate damage arising out of the Price-Anderson incident;
 
@@ -68,7 +68,7 @@ In this section:
 
 #### (5) Covered installation
 
-&emsp;The term "covered installation" means a nuclear installation at which the occurrenceof a nuclear incident could result in a request for funds under Article VII of the Convention.
+&emsp;The term "covered installation" means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
 
 #### (6) Covered person
 
@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier toeach covered installation outside the United States;
+&emsp;&emsp;&emsp;&emsp;(II) the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
 
 &emsp;&emsp;&emsp;&emsp;(III) the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (iv) Report
 
-&emsp;&emsp;&emsp;Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
+&emsp;&emsp;&emsp;Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy andCommerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
 
 #### (f) Reporting
 
@@ -270,7 +270,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (B) Action by Secretary of Treasury
 
-&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdictionunder Article XIII of the Convention with respect to the applicable covered incident.
+&emsp;&emsp;The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
 
 #### (3) Failure to pay
 

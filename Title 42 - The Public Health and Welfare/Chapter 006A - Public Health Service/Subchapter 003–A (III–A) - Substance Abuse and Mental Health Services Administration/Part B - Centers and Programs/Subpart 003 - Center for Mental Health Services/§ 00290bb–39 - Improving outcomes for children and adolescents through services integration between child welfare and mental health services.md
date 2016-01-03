@@ -30,7 +30,7 @@ With respect to a grant, contract or cooperative agreement awarded under this se
 
 #### (d) Use of funds
 
-A State, political subdivision of a State, Indian tribe, or tribal organization that receives agrant, contract, or cooperative agreement under subsection (a) of this section shall use amounts made available through such grant, contract or cooperative agreement to—
+A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant, contract, or cooperative agreement under subsection (a) of this section shall use amounts made available through such grant, contract or cooperative agreement to—
 
 &emsp;(1) provide family-centered, comprehensive, and coordinated child welfare and mental health services, including prevention, early intervention and treatment services for children and adolescents, and for their parents or caregivers;
 

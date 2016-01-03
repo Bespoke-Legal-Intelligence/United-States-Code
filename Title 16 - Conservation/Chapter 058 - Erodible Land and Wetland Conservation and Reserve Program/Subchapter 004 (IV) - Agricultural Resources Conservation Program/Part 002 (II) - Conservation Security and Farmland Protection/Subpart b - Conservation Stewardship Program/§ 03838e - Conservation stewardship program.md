@@ -42,7 +42,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to demonstration and pilot programs, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 3838e, Pub. L. 99–198, title XII, §1238E, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990,104 Stat. 3596, related to demonstration and pilot programs, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
 #### Amendments
 

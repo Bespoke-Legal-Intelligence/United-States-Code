@@ -68,7 +68,7 @@ Pub. L. 103–337, §1636(a), struck out at end "Notwithstanding any other provi
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–559 authorized officers transferred under this section to be advanced to the highest temporary grade ever held in the Army.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted "Notwithstanding any other provision of this chapter or section 593 of this title, an officer who is transferred under this section shall be advanced to the highest regular or reserve grade ever held by him in the Army, unless the Secretary determines that it is not in the best interests of the service" for "Upon transfer, he is eligible for promotion to the highest regular or reserve grade ever held by him in the Army, if his service has been honorable".
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted "Notwithstanding any other provision of this chapter or section 593 of this title, an officer who is transferred under this section shall be advanced to the highest regular orreserve grade ever held by him in the Army, unless the Secretary determines that it is not in the best interests of the service" for "Upon transfer, he is eligible for promotion to the highest regular or reserve grade ever held by him in the Army, if his service has been honorable".
 
 #### Effective Date of 1996 Amendment
 

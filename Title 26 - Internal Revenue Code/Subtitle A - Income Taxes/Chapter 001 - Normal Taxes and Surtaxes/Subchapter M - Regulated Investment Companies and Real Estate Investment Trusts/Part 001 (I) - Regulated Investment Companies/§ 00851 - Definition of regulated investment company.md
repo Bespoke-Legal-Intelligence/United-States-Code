@@ -74,7 +74,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied therequirements of such subsection for such quarter if—
+&emsp;&emsp;A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
 
 &emsp;&emsp;&emsp;(i) following the corporation's identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
 
@@ -152,7 +152,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) asbeing owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
@@ -190,7 +190,7 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 &emsp;&emsp;(B) 1/9 of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22,1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, §201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, §205(e), Dec. 19, 2014, 128 Stat. 4027.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ Subsec. (q). Pub. L. 100–647, §1006(o)(1), redesignated subsec. (q) as (h).
 
 Subsec. (b). Pub. L. 99–514, §1235(f)(3), inserted "or 1293(a)" and "or 1293(c) (as the case may be)", in concluding provision.
 
-Pub. L. 99–514, §653(c), inserted before last sentence "For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (oroptions and futures with respect to stock or securities)."
+Pub. L. 99–514, §653(c), inserted before last sentence "For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities)."
 
 Subsec. (b)(2). Pub. L. 99–514, §653(b), inserted "(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies".
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provision of the 
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–325, title II, §201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: "The amendments made by this section \[amending this section and section 852 of this title\] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act \[Dec. 22, 2010\]."
+Pub. L. 111–325, title II, §201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: "The amendments made by this section \[amending this section and section 852 of thistitle\] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act \[Dec. 22, 2010\]."
 
 #### Effective Date of 2004 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Percentage limitation on private capital
 
-If any small business investment company has obtained financing from the Administrator andsuch financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not, without the approval of the Administrator, exceed 10 percent of the sum of—
+If any small business investment company has obtained financing from the Administrator and such financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not, without the approval of the Administrator, exceed 10 percent of the sum of—
 
 &emsp;(1) the private capital of such company; and
 

@@ -56,7 +56,7 @@ For purposes of this section:
 
 #### (4) Parent company reports
 
-&emsp;The Board, may from time to time, examine and require reports under oath from a grandfathered unitary savings and loan holding company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company as required under paragraph (3) and enforcing compliance with such requirement.
+&emsp;The Board, may from time to time, examine and require reports under oath from a grandfathered unitary savings and loan holdingcompany that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company as required under paragraph (3) and enforcing compliance with such requirement.
 
 #### (5) Limited parent company enforcement
 
@@ -66,7 +66,7 @@ For purposes of this section:
 
 #### (B) Application of other Act
 
-&emsp;&emsp;Any violation of this subsection by a grandfathered unitary savings and loan holding company that controls an intermediateholding company may also be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] for purposes of subparagraph (A).
+&emsp;&emsp;Any violation of this subsection by a grandfathered unitary savings and loan holding company that controls an intermediate holding company may also be treated as a violation of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] for purposes of subparagraph (A).
 
 #### (C) No effect on other authority
 

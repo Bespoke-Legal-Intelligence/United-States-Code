@@ -112,7 +112,7 @@ In subsection (c)(2), the word "amended" is added for consistency in the revised
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176, §822(a), inserted a comma after "regularly scheduled charter air transportation", substituted "paragraphs (3) and (4)" for "paragraph (3)" and "flight, to or from an airport that—" for "flight unless such air transportation is to and from an airport that has an airport operating certificate issuedunder part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).", and added subpars. (A) and (B).
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–176, §822(a), inserted a comma after "regularly scheduled charter air transportation", substituted "paragraphs (3) and (4)" for "paragraph (3)" and "flight, to or from an airport that—" for "flight unless such air transportation is to and from an airport that has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).", and added subpars. (A) and (B).
 
 Subsec. (b)(4). Pub. L. 108–176, §822(b), added par. (4).
 

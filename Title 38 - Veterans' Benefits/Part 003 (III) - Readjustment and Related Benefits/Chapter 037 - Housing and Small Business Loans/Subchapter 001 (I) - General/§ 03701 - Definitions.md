@@ -76,7 +76,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 #### Effective Date of 1976 Amendment
 

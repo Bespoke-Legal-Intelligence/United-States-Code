@@ -30,7 +30,7 @@ Determination and Disposition.—If, after the hearing, the court finds by a pre
 
 (e)
 
-Discharge.—When the director of the facility in which a defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant's counsel and to the attorney for theGovernment. The court shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine the competency of the defendant. If, after the hearing, the court finds by a preponderance of the evidence that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, the court shall order his immediate discharge from the facility in which he is hospitalized and shall set the date for trial or other proceedings. Upon discharge, the defendant is subject to the provisions of chapters 207 and 227.
+Discharge.—When the director of the facility in which a defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant's counsel and to the attorney for the Government. The court shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine the competency of the defendant. If, after the hearing, the court finds by a preponderance of the evidence that the defendant has recovered to such an extent that he is able to understand the nature and consequences of the proceedings against him and to assist properly in his defense, the court shall order his immediate discharge from the facility in which he is hospitalized and shall set the date for trial or other proceedings. Upon discharge, the defendant is subject to the provisions of chapters 207 and 227.
 
 (f)
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted "or other proceedings" aft
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §401, Oct. 12, 1984, 98 Stat. 2057, provided that: "This chapter \[chapter IV (§§401–406) of title II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the 'Insanity Defense Reform Act of 1984'."
+Pub. L. 98–473, title II, §401, Oct. 12, 1984, 98 Stat. 2057, provided that: "This chapter \[chapter IV (§§401–406) oftitle II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the 'Insanity Defense Reform Act of 1984'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "stand trial or to undergo postrelease proceedings".</i>
 

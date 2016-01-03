@@ -100,7 +100,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1984 Amendments
 
@@ -116,7 +116,7 @@ Pub. L. 93–406, title X, §1034, Sept. 2, 1974, 88 Stat. 948, as amended by Pu
 
 &emsp;"(2) the requirements of section 6057 of such Code shall apply only with respect to plan years beginning after December 31, 1975,
 
-&emsp;"(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginningafter the date of the enactment of this Act \[Sept. 2, 1974\], and
+&emsp;"(3) the requirements of section 6058(a) of such Code shall apply only with respect to plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\], and
 
 &emsp;"(4) the amendments made by section 1032 \[enacting section 1320b–1 of Title 42\] shall take effect on January 1, 1978."
 

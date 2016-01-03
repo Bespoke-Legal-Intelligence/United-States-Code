@@ -93,7 +93,7 @@ For purposes of this section—
 
 #### (ii) Separate returns
 
-&emsp;&emsp;&emsp;In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (i) shall be applied by substituting "$75,000" for "$150,000".
+&emsp;&emsp;&emsp;In the case of a married individual (within the meaning of section 7703) who files aseparate return for the taxable year for which the amount of the installment is being determined, clause (i) shall be applied by substituting "$75,000" for "$150,000".
 
 #### (iii) Special rule
 
@@ -399,7 +399,7 @@ Subsec. (l)(4). Pub. L. 102–164, §403(b)(3), substituted "paragraphs (l)(C)(i
 
 <b>1989</b>—Subsec. (l)(1). Pub. L. 101–239, §7811(j)(5), substituted "this section shall" for "this subsection shall".
 
-Subsec. (l)(2)(B)(ii). Pub. L. 101–239, §7811(j)(6), inserted before period at end "(or, if no will is admittedto probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration)".
+Subsec. (l)(2)(B)(ii). Pub. L. 101–239, §7811(j)(6), inserted before period at end "(or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration)".
 
 <b>1988</b>—Subsec. (f)(1). Pub. L. 100–647, §4005(g)(5), inserted "(other than any increase in such tax by reason of section 143(m))" after "chapter 1".
 
@@ -617,7 +617,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -647,7 +647,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–368, title I, §102(d), Mar. 15, 1966, 80 Stat. 64, provided that: "The amendments made by subsections (a) amending section 6015 of this title\], (b) \[amending this section and sections 1403, 6211, and 7701 of thistitle\], and (c) \[amending section 1402 of this title\] shall apply with respect to taxable years beginning after December 31, 1966."
+Pub. L. 89–368, title I, §102(d), Mar. 15, 1966, 80 Stat. 64, provided that: "The amendments made by subsections (a) amending section 6015 of this title\], (b) \[amending this section and sections 1403, 6211, and 7701 of this title\], and (c) \[amending section 1402 of this title\] shall apply with respect to taxable years beginning after December 31, 1966."
 
 Pub. L. 89–368, title I, §103(b), Mar. 15, 1966, 80 Stat. 64, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966."
 
@@ -699,7 +699,7 @@ Pub. L. 95–30, title III, §303, May 23, 1977, 91 Stat. 152, as amended by Pub
 
 #### Waiver of Penalty for Underpayment of 1971 Estimated Income Tax
 
-Pub. L. 92–178, title II, §207, Dec. 10, 1971, 85 Stat. 512, provided that subsec. (a) of this section did not apply to any taxable year beginning after Dec. 31, 1970 and ending before Jan. 1, 1972, if the gross income for suchtaxable year did not exceed $10,000 for a single individual other than head of household or a married individual filing separately, or if the gross income did not exceed $20,000 for a head of household, a surviving spouse, of married individuals filing jointly, or if the taxpayer had income from sources other than wages in excess of $200 or $400 in case of a joint return.
+Pub. L. 92–178, title II, §207, Dec. 10, 1971, 85 Stat. 512, provided that subsec. (a) of this section did not apply to any taxable year beginning after Dec. 31, 1970 and ending before Jan. 1, 1972, if the gross income for such taxable year did not exceed $10,000 for a single individual other than head of household or a married individual filing separately, or if the gross income did not exceed $20,000 for a head of household, a surviving spouse, of married individuals filing jointly, or if the taxpayer had income from sources other than wages in excess of $200 or $400 in case of a joint return.
 
 #### Declaration of Estimated Tax
 

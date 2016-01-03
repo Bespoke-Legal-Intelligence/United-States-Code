@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Before the expiration of the 60-day period beginning on the date of the first exercise of the authority granted in section 5211(a) of this title, or of the first exercise of the authority granted in section 5212 of this title, whichever occurs first, and every 30-day period thereafter, the Secretary shall report to the appropriate committees of Congress, with respect to each such period—
+Before the expiration of the 60-day period beginning on the date of the first exercise of the authority granted in section 5211(a) of this title,or of the first exercise of the authority granted in section 5212 of this title, whichever occurs first, and every 30-day period thereafter, the Secretary shall report to the appropriate committees of Congress, with respect to each such period—
 
 &emsp;(1) an overview of actions taken by the Secretary, including the considerations required by section 5213 of this title and the efforts under section 5219 of this title;
 

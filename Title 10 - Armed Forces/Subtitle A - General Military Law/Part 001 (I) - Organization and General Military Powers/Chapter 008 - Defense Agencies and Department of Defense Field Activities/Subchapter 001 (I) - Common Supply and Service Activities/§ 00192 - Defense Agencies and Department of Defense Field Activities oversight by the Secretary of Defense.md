@@ -14,7 +14,7 @@ Overall Supervision.—(1) The Secretary of Defense shall assign responsibility 
 
 (b)
 
-Program and Budget Review.—The Secretary of Defense shall establish procedures toensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
+Program and Budget Review.—The Secretary of Defense shall establish procedures to ensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
 
 (c)
 
@@ -44,7 +44,7 @@ Special Rule for Defense Business Transformation Agency.—(1) The Defense Busin
 
 #### Prior Provisions
 
-A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted assection 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
 

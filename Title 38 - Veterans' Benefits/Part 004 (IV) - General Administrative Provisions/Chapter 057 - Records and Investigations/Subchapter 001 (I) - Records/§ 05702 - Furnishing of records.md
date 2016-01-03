@@ -8,13 +8,13 @@
 
 (b) The Secretary may establish a schedule of fees for copies and certification of such records.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3302; renumbered §5702 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(16), Nov. 2, 1994, 108 Stat. 4686.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3302; renumbered §5702 and amended Pub. L. 102–40,title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(16), Nov. 2, 1994, 108 Stat. 4686.)
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–446, §1201(e)(16)(A), (B), inserted "(a)" before "Any person desiring" and substituted "custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing for such copy. The application shall state" for "custody of the Secretary, which may be disclosed under section 5701 of this title, must make written application therefor to the Secretary, stating".
 
-Subsec. (b). Pub. L. 103–446, §1201(e)(16)(C), which directed amendment of subsec. (c) by substituting "may establish" for "is authorized to fix", was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears insubsec. (b) and this section does not contain a subsec. (c).
+Subsec. (b). Pub. L. 103–446, §1201(e)(16)(C), which directed amendment of subsec. (c) by substituting "may establish" for "is authorized to fix", was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears in subsec. (b) and this section does not contain a subsec. (c).
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3302 of this title as this section.
 

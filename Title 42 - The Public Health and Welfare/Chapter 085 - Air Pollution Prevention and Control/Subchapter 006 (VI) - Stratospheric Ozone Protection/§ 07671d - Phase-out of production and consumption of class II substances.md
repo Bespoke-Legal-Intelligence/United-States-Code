@@ -30,7 +30,7 @@ By December 31, 1999, the Administrator shall promulgate regulations phasing out
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the termination of production required under subsection (b)(2) of this section and the restriction on use referred to in subsection (a) of this section, the Administrator, after notice and opportunity for public comment, shall, to the extent such action is consistent with the Montreal Protocol, authorize the production anduse of limited quantities of class II substances solely for purposes of use in medical devices if such authorization is determined by the Commissioner, in consultation with the Administrator, to be necessary for use in medical devices.
+&emsp;&emsp;Notwithstanding the termination of production required under subsection (b)(2) of this section and the restriction on use referred to in subsection (a) of this section, the Administrator, after notice and opportunity for public comment, shall, to the extent such action is consistent with the Montreal Protocol, authorize the production and use of limited quantities of class II substances solely for purposes of use in medical devices if such authorization is determined by the Commissioner, in consultation with the Administrator, to be necessary for use in medical devices.
 
 #### (B) Cap on exception
 

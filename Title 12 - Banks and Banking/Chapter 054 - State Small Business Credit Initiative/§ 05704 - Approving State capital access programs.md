@@ -46,7 +46,7 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 #### (2) Investment authority
 
-&emsp;Subject to applicable State law, the participating State may invest, or cause to be invested, funds held in a reserve fund by establishing a deposit account at the financial institution lender in the name of the participating State. In the event that funds in the reserve fund are not deposited in such an account, such funds shall be invested in a formthat the participating State determines is safe and liquid.
+&emsp;Subject to applicable State law, the participating State may invest, or cause to be invested, funds held in a reserve fund by establishing a deposit account at the financial institution lender in the name of the participating State. In the event that funds in the reserve fund are not deposited in such an account, such funds shall be invested in a form that the participating State determines is safe and liquid.
 
 #### (3) Loan terms and conditions to be determined by agreement
 

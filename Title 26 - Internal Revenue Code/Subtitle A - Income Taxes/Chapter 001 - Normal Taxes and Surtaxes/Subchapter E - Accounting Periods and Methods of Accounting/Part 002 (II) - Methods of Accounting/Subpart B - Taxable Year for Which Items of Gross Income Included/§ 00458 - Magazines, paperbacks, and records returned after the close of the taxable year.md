@@ -2,7 +2,7 @@
 
 #### (a) Exclusion from gross income
 
-A taxpayer who is on an accrual method of accounting may elect not to include in the grossincome for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
+A taxpayer who is on an accrual method of accounting may elect not to include in the gross income for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period.
 
 #### (b) Definitions and special rules
 
@@ -90,7 +90,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (1) In general
 
-&emsp;In the case of any election under this section which applies to paperbacks or records, in lieuof applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
+&emsp;In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made.
 
 #### (2) Initial opening balance
 
@@ -120,7 +120,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (B) Increases added to gross income
 
-&emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year.
+&emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxableyear, an amount equal to such increase shall be included in gross income for such taxable year.
 
 > &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
 

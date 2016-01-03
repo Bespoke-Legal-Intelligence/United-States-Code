@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(5) as a result of such incentives, many small business concerns with economically sound financing needs are unable to obtain access to needed debt capital;
 
-&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in amanner consistent with safety and soundness regulations;
+&emsp;(6) the small business capital access programs implemented by certain States are a flexible and efficient tool to assist financial institutions in providing access to needed debt capital for many small business concerns in a manner consistent with safety and soundness regulations;
 
 &emsp;(7) a small business capital access program would complement other programs which assist small business concerns in obtaining access to capital; and
 
@@ -126,7 +126,7 @@ Eligible institution.—The term 'eligible institution' means—
 
 &emsp;&emsp;"(B) any bank holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the bank holding company as of the end of the fourth quarter of calendar year 2009;
 
-&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or lessthan $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
+&emsp;&emsp;"(C) any savings and loan holding company which has total consolidated assets of equal to or less than $10,000,000,000, as reported in the call report of the savings and loan holding company as of the end of the fourth quarter of calendar year 2009; and
 
 &emsp;&emsp;"(D) any community development financial institution loan fund which has total assets of equal to or less than $10,000,000,000, as reported in audited financial statements for the fiscal year of the community development financial institution loan fund that ends in calendar year 2009.
 
@@ -424,7 +424,7 @@ In general.—The Secretary shall, in a manner that the Secretary determines to 
 
 &emsp;&emsp;"(B)
 
-Prohibition on participation by non-paying cpp participants.—Subparagraph (A) shall not apply to any eligible institution that has missed more than one dividend payment due under the CPP. For purposes of this subparagraph, a CPP dividend payment that is submitted within 60 days of the due date of such payment shall not be considered a missed dividend payment.
+Prohibition on participation by non-paying cpp participants.—Subparagraph (A) shall not apply to any eligible institution that has missedmore than one dividend payment due under the CPP. For purposes of this subparagraph, a CPP dividend payment that is submitted within 60 days of the due date of such payment shall not be considered a missed dividend payment.
 
 &emsp;"(8)
 
@@ -446,7 +446,7 @@ Minimum underwriting standards.—The appropriate Federal banking agency for an 
 
 #### "SEC. 4104. ADDITIONAL AUTHORITIES OF THE SECRETARY.
 
-"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities inthis subtitle, including, without limitation, the following:
+"The Secretary may take such actions as the Secretary deems necessary to carry out the authorities in this subtitle, including, without limitation, the following:
 
 &emsp;"(1) The Secretary may use the services of any agency or instrumentality of the United States or component thereof on a reimbursable basis, and any such agency or instrumentality or component thereof is authorized to provide services as requested by the Secretary using all authorities vested in or delegated to that agency, instrumentality, or component.
 

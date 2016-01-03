@@ -28,7 +28,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(B) the—
 
-&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+&emsp;&emsp;&emsp;(i) aggregate amount of payments received for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
 &emsp;&emsp;&emsp;(ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
@@ -36,9 +36,11 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;&emsp;(iv) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
 
-&emsp;&emsp;&emsp;(v) aggregate amount of interest received for the calendar year from such individual, and
+&emsp;&emsp;&emsp;(v) aggregate amount of interest received for the calendar year from such individual,
 
-&emsp;&emsp;(C) such other information as the Secretary may prescribe.
+&emsp;&emsp;(C) the employer identification number of the institution, and
+
+&emsp;&emsp;(D) such other information as the Secretary may prescribe.
 
 #### (c) Application to governmental units
 
@@ -54,7 +56,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
-&emsp;(2) the amounts described in subparagraph (B) of subsection (b)(2).
+&emsp;(2) the information required by subsection (b)(2).
 
 > The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
@@ -70,9 +72,15 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
 
-(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410.)
+(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410; Pub. L. 114–27, title VIII, §804(c), June 29, 2015, 129 Stat. 416; Pub. L. 114–113, div. Q, title II, §§211(b), 212(a), Dec. 18, 2015, 129 Stat. 3085, 3086.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B)(i). Pub. L. 114–113, §212(a), struck out "or the aggregate amount billed" after "received".
+
+Subsec. (b)(2)(C), (D). Pub. L. 114–113, §211(b), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (d)(2). Pub. L. 114–27 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the amounts described in subparagraph (B) of subsection (b)(2)."
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–131, §1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "which is an eligible educational institution—
 
@@ -133,6 +141,14 @@ Subsec. (b)(2)(A). Pub. L. 105–34, §202(c)(2)(A), inserted "or interest" afte
 Subsec. (b)(2)(C)(iii). Pub. L. 105–34, §202(c)(2)(B), added cl. (iii).
 
 Subsec. (e). Pub. L. 105–34, §202(c)(3), inserted at end ", and except as provided in regulations, the term 'qualified education loan' has the meaning given such term by section 221(e)(1)".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title II, §211(c)(2), Dec. 18, 2015, 129 Stat. 3085, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date."
+
+Pub. L. 114–113, div. Q, title II, §212(b), Dec. 18, 2015, 129 Stat. 3086, provided that: "The amendments made by subsection (b) \[probably should be "subsection (a)", amending this section\] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date."
+
+Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under section 25A of this title.
 
 #### Effective Date of 2002 Amendment
 

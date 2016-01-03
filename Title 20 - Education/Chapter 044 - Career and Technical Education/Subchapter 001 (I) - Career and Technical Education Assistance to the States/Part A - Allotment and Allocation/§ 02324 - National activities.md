@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall collect performance information about, and report on, the condition of career and technical education and on the effectiveness of State and local programs, services, and activities carried out under this subchapter in order to provide the Secretary and Congress, as well as Federal, State, local, and tribal agencies, with information relevant to improvement in the quality and effectiveness of career and technical education. The Secretary shall report annually to Congress on the Secretary's aggregate analysis of performance information collected each year pursuant to this subchapter, including an analysis of performance data regarding special populations.
+&emsp;The Secretary shall collect performance information about, and report on, the condition of career and technical education and on the effectiveness of State and local programs, services, and activities carried out under this subchapter in order to provide the Secretary and Congress, as well as Federal, State, local, and tribal agencies, with information relevant to improvement in the quality and effectiveness of career and technical education. The Secretary shall report annually to Congress onthe Secretary's aggregate analysis of performance information collected each year pursuant to this subchapter, including an analysis of performance data regarding special populations.
 
 #### (2) Compatibility
 
@@ -156,7 +156,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with academic content standards and student academic achievement standards,as adopted by States under section 6311(b)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) integrating those programs with challenging State academic standards, as adopted by States under section 6311(b)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) coordinating technical education with industry-recognized certification requirements;
 
@@ -182,7 +182,7 @@
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399.)
+(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, §9215(n)(4), Dec. 10, 2015, 129 Stat. 2169.)
 
 #### References in Text
 
@@ -198,5 +198,11 @@ Another prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 9
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted "integrating those programs with challenging State academic standards, as adopted by States under section 6311(b)(1) of this title;" for "integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 6311(b)(1) of this title;".
+
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–76 substituted "Office of Career, Technical, and Adult Education" for "Office of Vocational and Adult Education".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

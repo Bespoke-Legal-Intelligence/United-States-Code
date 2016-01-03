@@ -52,7 +52,7 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase,or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, the distribution of drugs in violation of section 353(e) of this title, failure to comply with the requirements under section 360eee–1 of this title, the failure to comply with the requirements under section 360eee–3 of this title, as applicable, or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, the distribution of drugs in violation of section 353(e) of this title, failure to comply with the requirements under section 360eee–1 of this title, the failure to comply with the requirements under section 360eee–3 of this title, as applicable, or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -102,7 +102,7 @@ The following acts and the causing thereof are prohibited:
 
 &emsp;(1) such drug or such biological product was marketed in food before any approval of the drug under section 355 of this title, before licensure of the biological product under such section 262 of title 42, and before any substantial clinical investigations involving the drug or the biological product have been instituted;
 
-&emsp;(2) the Secretary, in the Secretary's discretion, has issued a regulation, after notice andcomment, approving the use of such drug or such biological product in the food;
+&emsp;(2) the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, approving the use of such drug or such biological product in the food;
 
 &emsp;(3) the use of the drug or the biological product in the food is to enhance the safety of the food to which the drug or the biological product is added or applied and not to have independent biological or therapeutic effects on humans, and the use is in conformity with—
 
@@ -174,7 +174,15 @@ The following acts and the causing thereof are prohibited:
 
 (3) The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of section 353b of this title.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075; Pub. L. 113–54, title I, §103(a), title II, §206(a), Nov. 27, 2013, 127 Stat. 597, 639.)
+(ddd)(1) The manufacture or the introduction or delivery for introduction into interstate commerce of a rinse-off cosmetic that contains intentionally-added plastic microbeads.
+
+(2) In this paragraph—
+
+&emsp;(A) the term "plastic microbead" means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
+
+&emsp;(B) the term "rinse-off cosmetic" includes toothpaste.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281,§1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469; Pub. L. 108–214, §2(b)(2)(A), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(C), (D), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–59, title VII, §7202(d), (e), Aug. 10, 2005, 119 Stat. 1913; Pub. L. 109–462, §§2(c), 3(b), 4(a), Dec. 22, 2006, 120 Stat. 3472, 3475; Pub. L. 110–85, title VIII, §801(b)(1), title IX, §§901(d)(1), 912(a), title X, §1005(d), Sept. 27, 2007, 121 Stat. 920, 939, 951, 968; Pub. L. 111–31, div. A, title I, §103(b), June 22, 2009, 123 Stat. 1833; Pub. L. 111–353, title I, §§102(d)(1), 103(e), 105(c), 106(d), title II, §§204(j)(1), 206(d), 211(b), (c), title III, §301(b), Jan. 4, 2011, 124 Stat. 3889, 3898, 3904, 3906, 3937, 3943, 3953, 3954; Pub. L. 112–144, title VII, §§714(a), 715(a), July 9, 2012, 126 Stat. 1073, 1075; Pub. L. 113–54, title I, §103(a), title II, §206(a), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–114, §2(a), Dec. 28, 2015, 129 Stat. 3129.)
 
 #### References in Text
 
@@ -187,6 +195,8 @@ Section 353c of this title, referred to in par. (kk), was in the original a refe
 For information regarding constitutionality of certain provisions of section 301 of act June 25, 1938, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2015</b>—Par. (ddd). Pub. L. 114–114 added par. (ddd).
 
 <b>2013</b>—Par. (t). Pub. L. 113–54, §206(a), struck out "or" after "the requirements of section 353(d) of this title," and inserted ", failure to comply with the requirements under section 360eee–1 of this title, the failure to comply with the requirements under section 360eee–3 of this title, as applicable," after "in violation of section 353(e) of this title".
 
@@ -350,7 +360,7 @@ Par. (r). Pub. L. 94–295, §7(b), added par. (r).
 
 <b>1970</b>—Par. (q). Pub. L. 91–513 struck out par. (q) which set out penalties for illegal manufacture, sale, disposition, possession and other traffic in stimulant and depressant drugs. See section 801 et seq. of this title.
 
-<b>1968</b>—Par. (e). Pub. L. 90–399, §103(1), struck out "or" before "357(d) or (g)" and inserted ", or 360b(j), (l), or (m)" after "357(d) or (g)". Amendment striking out "or" was executed as described, notwithstanding directory language that "or" before "357," be stricken out, to reflect the probable intent of Congress.
+<b>1968</b>—Par. (e). Pub. L. 90–399, §103(1), struck out "or" before "357(d) or (g)" and inserted ", or 360b(j), (l), or\(m)" after "357(d) or (g)". Amendment striking out "or" was executed as described, notwithstanding directory language that "or" before "357," be stricken out, to reflect the probable intent of Congress.
 
 Par. (j). Pub. L. 90–399, §103(2), inserted reference to section 360b of this title.
 
@@ -360,7 +370,7 @@ Par. (q). Pub. L. 90–639 divided cl. (3), which referred simply to possession 
 
 Par. (q). Pub. L. 89–74, §5, added par. (q).
 
-<b>1962</b>—Par. (e). Pub. L. 87–781, §§103(c), 106(c), prohibited the failure to establish or maintain any record, ormake any report, required under sections 355(i) or (j) and 507(d) or (g) of this title, or the refusal to permit access to, or verification or copying of, any such required record.
+<b>1962</b>—Par. (e). Pub. L. 87–781, §§103(c), 106(c), prohibited the failure to establish or maintain any record, or make any report, required under sections 355(i) or (j) and 507(d) or (g) of this title, or the refusal to permit access to, or verification or copying of, any such required record.
 
 Par. (l). Pub. L. 87–781, §104(e)(1), inserted "approval of" before "an application", and substituted "in effect" for "effective".
 
@@ -385,6 +395,22 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 <b>1945</b>—Par. (i). Act July 6, 1945, inserted reference to section 357 of this title.
 
 <b>1941</b>—Par. (i). Act Dec. 22, 1941, inserted reference to section 356 of this title.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–114, §2(b), Dec. 28, 2015, 129 Stat. 3129, provided that:
+
+"(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] applies—
+
+&emsp;"(A) with respect to manufacturing, beginning on July 1, 2017, and with respect to introduction or delivery for introduction into interstate commerce, beginning on July 1, 2018; and
+
+&emsp;"(B) notwithstanding subparagraph (A), in the case of a rinse-off cosmetic that is a nonprescription drug, with respect to manufacturing, beginning on July 1, 2018, and with respect to the introduction or delivery for introduction into interstate commerce, beginning on July 1, 2019.
+
+"(2)
+
+Nonprescription drug.—For purposes of this subsection, the term 'nonprescription drug' means a drug not subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)(1))."
 
 #### Effective Date of 2011 Amendment
 
@@ -434,7 +460,7 @@ Pub. L. 109–462, §4(b), Dec. 22, 2006, 120 Stat. 3475, provided that: "The am
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title VII, §7204, Aug. 10, 2005, 119 Stat. 1914, provided that: "This subtitle \[subtitle B (§§7201–7204) of title VII of Pub. L. 109–59, enacting section 350e of this title, amending this section, sections 342 and 373 of this title, and section 5701 of Title 49, Transportation, omitting sections 5702 to 5714 of Title 49, and enacting provisions set out as a note under section 301 of this title\] takes effect on October 1, 2005."
+Pub. L. 109–59, title VII, §7204, Aug. 10, 2005, 119 Stat. 1914, provided that: "This subtitle \[subtitle B (§§7201–7204) of title VII of Pub. L. 109–59, enacting section 350e of this title, amending this section, sections 342 and 373 of this title, and section 5701 of Title 49,Transportation, omitting sections 5702 to 5714 of Title 49, and enacting provisions set out as a note under section 301 of this title\] takes effect on October 1, 2005."
 
 #### Effective Date of 2002 Amendment
 
@@ -514,6 +540,10 @@ Pub. L. 113–54, title II, §208, Nov. 27, 2013, 127 Stat. 640, provided that: 
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
+#### Construction of 2015 Amendment
+
+Pub. L. 114–114, §2(d), Dec. 28, 2015, 129 Stat. 3130, provided that: "Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and section 301 of this title\] (or the amendments made by this Act) shall be construed to apply with respect to drugs that are not also cosmetics (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321))."
+
 #### Construction of 2011 Amendment
 
 Nothing in amendments by sections 103(e), 105(c), 106(d), 204(j)(1), 211(b), (c), and 301(b) of Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, see section 2206 of this title.
@@ -531,6 +561,10 @@ Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Preemption of State Laws
+
+Pub. L. 114–114, §2(c), Dec. 28, 2015, 129 Stat. 3129, provided that: "No State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect restrictions with respect to the manufacture or introduction or delivery for introduction into interstate commerce of rinse-off cosmetics containing plastic microbeads (as defined in section 301(ddd) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)) that are not identical to the restrictions under such section 301(ddd) that have begun to apply under subsection (b) \[set out as a note above\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

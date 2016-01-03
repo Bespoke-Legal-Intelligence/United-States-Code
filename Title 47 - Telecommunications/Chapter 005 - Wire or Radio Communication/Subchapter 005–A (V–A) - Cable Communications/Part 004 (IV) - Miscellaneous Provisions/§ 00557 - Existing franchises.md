@@ -2,7 +2,7 @@
 
 (a) The provisions of—
 
-&emsp;(1) any franchise in effect on the effective date of this subchapter, including any such provisions which relate to the designation, use, or support for the use of channel capacity for public, educational, or governmental use, and
+&emsp;(1) any franchise in effect on the effective date of this subchapter, including any such provisions which relate to the designation,use, or support for the use of channel capacity for public, educational, or governmental use, and
 
 &emsp;(2) any law of any State (as defined in section 153 of this title) in effect on October 30, 1984, or any regulation promulgated pursuant to such law, which relates to such designation, use or support of such channel capacity,
 

@@ -104,7 +104,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (2) Costs
 
-&emsp;The cost of establishing telecommunications numbering administration arrangements and number portability shall be borne by all telecommunications carriers on a competitively neutral basis as determined by the Commission.
+&emsp;The cost of establishing telecommunications numbering administration arrangements andnumber portability shall be borne by all telecommunications carriers on a competitively neutral basis as determined by the Commission.
 
 #### (3) Universal emergency telephone number
 

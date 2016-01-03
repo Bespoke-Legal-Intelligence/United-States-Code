@@ -16,7 +16,7 @@
 
 &emsp;(5) as soon as practicable, file a plan under section 1121 of this title, file a report of why the trustee will not file a plan, or recommend conversion of the case to a case under chapter 7, 12, or 13 of this title or dismissal of the case;
 
-&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
+&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish,without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
 
 &emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders; and
 
@@ -52,7 +52,7 @@
 
 (B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct.27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, §219(b), title IV, §446(c), title XI, §1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192; Pub. L. 111–327, §2(a)(31), Dec. 22, 2010, 124 Stat. 3560.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, §219(b), title IV, §446(c), title XI, §1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192; Pub. L. 111–327, §2(a)(31), Dec. 22, 2010, 124 Stat. 3560.)
 
 #### Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Subsec. (b). Pub. L. 98–353, §502, inserted ", except to the extent that the
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

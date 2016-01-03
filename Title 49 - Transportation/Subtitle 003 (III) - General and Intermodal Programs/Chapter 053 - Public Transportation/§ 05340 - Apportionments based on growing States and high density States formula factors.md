@@ -6,11 +6,7 @@ Definition.—In this section, the term "State" shall mean each of the 50 States
 
 (b)
 
-Allocation.—Of the amounts made available for each fiscal year under section 5338(b)(2)(M),<sup>1</sup> the Secretary shall apportion—
-
-&emsp;(1) 50 percent to States and urbanized areas in accordance with subsection (c); and
-
-&emsp;(2) 50 percent to States and urbanized areas in accordance with subsection (d).
+Allocation.—The Secretary shall apportion the amounts made available under section 5338(b)(2)(N) <sup>1</sup> in accordance with subsection (c) and subsection (d).
 
 (c)
 
@@ -18,7 +14,7 @@ Growing State Apportionments.—
 
 &emsp;(1)
 
-Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based onthe population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
+Apportionment among states.—The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
 
 &emsp;(2)
 
@@ -68,11 +64,19 @@ State apportionment.—Each State qualifying for an apportionment under paragrap
 
 Apportionments among urbanized areas in each state.—The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
 
-(Added Pub. L. 109–59, title III, §3038(a), Aug. 10, 2005, 119 Stat. 1636.)
+(Added Pub. L. 109–59, title III, §3038(a), Aug. 10, 2005, 119 Stat. 1636; amended Pub. L. 114–94, div. A, title III, §3030(f), Dec. 4, 2015, 129 Stat. 1497.)
 
-#### References in Text
+#### Amendments
 
-Section 5338, referred to in subsec. (b), was amended generally by Pub. L. 112–141, div. B, §20028, July 6, 2012, 126 Stat. 726, and, as so amended, no longer contains a subsec. (b)(2)(M). However, allocations in accordance with this section are described elsewhere in that section.
+<b>2015</b>—Subsec. (b). Pub. L. 114–94 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Of the amounts made available for each fiscal year under section 5338(b)(2)(M), the Secretary shall apportion—
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+&emsp;"(1) 50 percent to States and urbanized areas in accordance with subsection (c); and
+
+&emsp;"(2) 50 percent to States and urbanized areas in accordance with subsection (d)."
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "section 5338(a)(2)(N)".</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Prudent man standard of care
 
-(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge his duties with respect to a plan solely in the interest of the participants and beneficiaries and—
+(1) Subject to sections 1103(c) and (d), 1342, and 1344 of this title, a fiduciary shall discharge hisduties with respect to a plan solely in the interest of the participants and beneficiaries and—
 
 &emsp;(A) for the exclusive purpose of:
 
@@ -14,7 +14,7 @@
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
-&emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III of this chapter.
+&emsp;(D) in accordance with the documents and instruments governing the plan insofar as such documents and instruments are consistent with the provisions of this subchapter and subchapter III.
 
 (2) In the case of an eligible individual account plan (as defined in section 1107(d)(3) of this title), the diversification requirement of paragraph (1)(C) and the prudence requirement (only to the extent that it requires diversification) of paragraph (1)(B) is not violated by acquisition or holding of qualifying employer real property or qualifying employer securities (as defined in section 1107(d)(4) and (5) of this title).
 
@@ -64,7 +64,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 (C) The requirements of this subparagraph are met in connection with a qualified change in investment options if—
 
-&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
+&emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, theplan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
 
 &emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and
 
@@ -96,7 +96,7 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 #### (d) Plan terminations
 
-(1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
+(1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III in accordance with the following requirements:
 
 &emsp;(A) In the case of a fiduciary of the terminated plan, any requirement—
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) inthe case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1980 Amendment
 

@@ -34,7 +34,7 @@ Opportunity to withhold information.—Before making any information concerning 
 
 &emsp;(3)
 
-Development and implementation of program.—Not later than 60 days after thedate of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
+Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
 
 (d)
 
@@ -98,7 +98,7 @@ FAA records.—From the Administrator of the Federal Aviation Administration, re
 
 &emsp;&emsp;&emsp;(i) current airman certificates (including airman medical certificates) and associated type ratings, including any limitations to those certificates and ratings; and
 
-&emsp;&emsp;&emsp;(ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued underthis title that was not subsequently overturned.
+&emsp;&emsp;&emsp;(ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Right to correct inaccuracies.—An air carrier that maintains or requests and r
 
 &emsp;(10)
 
-Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is orhas been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
+Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is or has been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
 
 &emsp;(11)
 
@@ -254,7 +254,7 @@ records.—From the Administrator—
 
 &emsp;&emsp;(B)
 
-Air carrier and other records.—From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from thetrustee in bankruptcy for the air carrier or person—
+Air carrier and other records.—From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for the air carrier or person—
 
 &emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time) or person, including records under regulations set forth in—
 
@@ -286,7 +286,7 @@ Written consent; release from liability.—An air carrier—
 
 &emsp;&emsp;(A) shall obtain the written consent of an individual before accessing records pertaining to the individual under paragraph (1); and
 
-&emsp;&emsp;(B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing information known to be false and maintained in violation of a criminal statute).
+&emsp;&emsp;(B) may, notwithstanding any other provision of law or agreement to the contrary, require an individual with respect to whom the carrier is accessing records under paragraph (1) to execute a release from liability for any claim arising from accessing the records or the use of such records by the air carrier in accordance with this section (other than a claim arising from furnishing informationknown to be false and maintained in violation of a criminal statute).
 
 &emsp;(4)
 
@@ -364,7 +364,7 @@ Disclosure of information.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided by clause (ii), information collected by theAdministrator under paragraph (2) shall be exempt from the disclosure requirements of section 552(b)(3)(B) of title 5.
+In general.—Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552(b)(3)(B) of title 5.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -402,7 +402,7 @@ Regulations for protection and security of records.—The Administrator shall pr
 
 &emsp;(12)
 
-Good faith exception.—Notwithstanding paragraph (1), an air carrier may allow an individual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
+Good faith exception.—Notwithstanding paragraph (1), an air carrier may allow anindividual to begin service as a pilot, without first obtaining information described in paragraph (2)(B) from the database pertaining to the individual, if—
 
 &emsp;&emsp;(A) the air carrier has made a documented good faith attempt to access the information from the database; and
 
@@ -462,7 +462,7 @@ Limitations on Liability; Preemption of State Law.—
 
 Limitation on liability.—No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under subsection (h)(2) or (i)(3), against—
 
-&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1) oraccessing the records of that individual under subsection (i)(1);
+&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1) or accessing the records of that individual under subsection (i)(1);
 
 &emsp;&emsp;(B) a person who has complied with such request;
 
@@ -738,7 +738,7 @@ Required information from individual.—The individual may obtain the informatio
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
+Provision of information to individual.—If the Administrator receives a requestunder this subparagraph, the Administrator shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) request the contractor to provide the requested information; and
 

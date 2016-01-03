@@ -16,7 +16,7 @@
 
 In selecting a proposal and in negotiating financial assistance under this section, the Secretary shall consider—
 
-&emsp;(1) the ability of the manufacturer, directly, indirectly, or in combination with the proposer, to develop, assist in the demonstration of, manufacture, distribute, sell, provide warranties for, service, and ensure the continued availability of parts for, electric motor vehicles in the demonstration project;
+&emsp;(1) the ability of the manufacturer, directly, indirectly, or in combination with the proposer, to develop, assist in the demonstration of, manufacture, distribute, sell, provide warranties for, service, and ensure the continuedavailability of parts for, electric motor vehicles in the demonstration project;
 
 &emsp;(2) the geographic and climatic diversity of the eligible metropolitan area or areas in which the demonstration project is to be undertaken, when considered in combination with other proposals and other selected demonstration projects;
 

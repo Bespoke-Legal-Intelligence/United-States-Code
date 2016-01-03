@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Valuation
 
-&emsp;In the case of property subject to a restriction which by its terms will never lapse, andwhich allows the transferee to sell such property only at a price determined under a formula, the price so determined shall be deemed to be the fair market value of the property unless established to the contrary by the Secretary, and the burden of proof shall be on the Secretary with respect to such value.
+&emsp;In the case of property subject to a restriction which by its terms will never lapse, and which allows the transferee to sell such property only at a price determined under a formula, the price so determined shall be deemed to be the fair market value of the property unless established to the contrary by the Secretary, and the burden of proof shall be on the Secretary with respect to such value.
 
 #### (2) Cancellation
 
@@ -88,7 +88,7 @@ In determining the period for which the taxpayer has held property to which subs
 
 #### (g) Certain exchanges
 
-If property to which subsection (a) applies is exchanged for property subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject, and if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applied to such exchange, or if such exchange was pursuant to the exercise of a conversion privilege—
+If property to which subsection (a) applies is exchanged for property subject to restrictions and conditions substantially similar to those towhich the property given in such exchange was subject, and if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applied to such exchange, or if such exchange was pursuant to the exercise of a conversion privilege—
 
 &emsp;(1) such exchange shall be disregarded for purposes of subsection (a), and
 
@@ -204,7 +204,7 @@ Deficiencies.—If the assessment of any deficiency of tax resulting from the ap
 
 Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: "In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
 
-&emsp;"(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction otherthan a restriction which by its terms will never lapse), and
+&emsp;"(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
 
 &emsp;"(2) the election is consented to by the person transferring such property.
 

@@ -8,7 +8,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Each person that submits, on or after September 1, 2003, an animal drug application ora supplemental animal drug application shall be subject to a fee as follows:
+&emsp;&emsp;Each person that submits, on or after September 1, 2003, an animal drug application or a supplemental animal drug application shall be subject to a fee as follows:
 
 &emsp;&emsp;&emsp;(i) A fee established in subsection (c) for an animal drug application, except an animal drug application subject to the criteria set forth in section 360b(d)(4) of this title.
 
@@ -42,7 +42,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) who is named as the applicant in an animal drug application or supplemental animal drug application for an animal drug product which has been submitted for listing under section 360 of this title; and
 
-&emsp;&emsp;&emsp;(ii) who, after September 1, 2003, had pending before the Secretary an animal drug application or supplemental animal drug application,
+&emsp;&emsp;&emsp;(ii) who, after September 1, 2003, had pending before the Secretary an animaldrug application or supplemental animal drug application,
 
 > &emsp;&emsp;shall pay for each such animal drug product the annual fee established in subsection (c).
 
@@ -140,7 +140,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 #### (1) Annual fee setting
 
-&emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2003, for that fiscal year, animal drug application fees, supplemental animal drug application fees, animal drug sponsor fees, animal drug establishment fees, and animal drug product fees based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+&emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2003, for that fiscal year, animaldrug application fees, supplemental animal drug application fees, animal drug sponsor fees, animal drug establishment fees, and animal drug product fees based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
 
 #### (2) Inflation adjustment
 
@@ -222,7 +222,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess andcollect such fees, without any modification in the rate, for animal drug applications, supplemental animal drug applications, investigational animal drug submissions, animal drug sponsors, animal drug establishments and animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for animal drug applications, supplemental animal drug applications, investigational animal drug submissions, animal drug sponsors, animal drug establishments and animal drug products at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (g) Crediting and availability of fees
 
@@ -280,7 +280,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shallbe treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 

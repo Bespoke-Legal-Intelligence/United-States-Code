@@ -86,7 +86,7 @@ For purposes of subsection (a)(2), the Secretary shall consider an application t
 
 #### (2) Rural utilities
 
-&emsp;Any rural development application authorized under section 1926(a)(2), 1926(a)(14), 1926(a)(24), 1926a, or 1932(b) of this title and approved by the Secretary before February 7,2014, shall be eligible for the funds reserved under subsection (d)(1) on the same basis as the applications submitted under this section until September 30, 2016.
+&emsp;Any rural development application authorized under section 1926(a)(2), 1926(a)(14), 1926(a)(24), 1926a, or 1932(b) of this title and approved by the Secretary before February 7, 2014, shall be eligible for the funds reserved under subsection (d)(1) on the same basis as the applications submitted under this section until September 30, 2016.
 
 (Pub. L. 87–128, title III, §379H, as added Pub. L. 113–79, title VI, §6025, Feb. 7, 2014, 128 Stat. 848.)
 

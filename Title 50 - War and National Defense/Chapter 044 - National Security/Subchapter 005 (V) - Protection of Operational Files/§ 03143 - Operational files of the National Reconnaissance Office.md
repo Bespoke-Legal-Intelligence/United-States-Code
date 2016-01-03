@@ -36,7 +36,7 @@
 
 (C) The declassification of some of the information contained in exempted operational files shall not affect the status of the operational file as being exempt from search, review, publication, or disclosure.
 
-(D) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph (1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
+(D) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under paragraph\(1) and which have been returned to exempted operational files for sole retention shall be subject to search and review.
 
 (5) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after November 27, 2002, and which specifically cites and repeals or modifies its provisions.
 

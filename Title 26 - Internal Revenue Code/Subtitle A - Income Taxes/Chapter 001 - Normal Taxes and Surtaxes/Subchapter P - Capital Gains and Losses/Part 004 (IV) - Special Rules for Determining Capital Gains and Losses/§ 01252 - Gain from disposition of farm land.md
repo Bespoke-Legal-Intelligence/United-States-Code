@@ -18,7 +18,7 @@
 
 #### (2) Farm land
 
-&emsp;For purposes of this section, the term "farm land" means any land with respect to whichdeductions have been allowed under sections 175 (relating to soil and water conservation expenditures) or 182 <sup>2</sup> (relating to expenditures by farmers for clearing land).
+&emsp;For purposes of this section, the term "farm land" means any land with respect to which deductions have been allowed under sections 175 (relating to soil and water conservation expenditures) or 182 <sup>2</sup> (relating to expenditures by farmers for clearing land).
 
 #### (3) Applicable percentage
 

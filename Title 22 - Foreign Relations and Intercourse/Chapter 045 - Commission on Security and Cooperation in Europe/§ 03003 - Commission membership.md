@@ -20,7 +20,7 @@ There shall be a Chairman and a Cochairman of the Commission.
 
 #### (c) Designation of Chairman
 
-At the beginning of each odd-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members as Chairman of the Commission. At the beginning of each even-numbered Congress, the Speaker of the House of Representatives shall designate one of the House Members as Chairman of the Commission.
+At the beginning of each odd-numbered Congress, the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members as Chairman of the Commission. At the beginning of each even-numbered Congress, the Speaker of the House of Representatives shall designate one ofthe House Members as Chairman of the Commission.
 
 #### (d) Designation of Cochairman
 
@@ -52,5 +52,5 @@ Amendment by section 1(b) of Pub. L. 99–7 effective on first day of 100th Cong
 
 #### Designation of Chairman and Cochairman for Duration of 99th Congress
 
-Pub. L. 99–7, §1(c), Mar. 27, 1985, 99 Stat. 19, provided that: "On the effective date of this subsection \[Apr. 15,1985\], the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members to serve as Chairman of the Commission for the duration of the Ninety-ninth Congress, and the Speaker of the House of Representatives shall designate one of the House Members to serve as Cochairman of the Commission for the duration of the Ninety-ninth Congress."
+Pub. L. 99–7, §1(c), Mar. 27, 1985, 99 Stat. 19, provided that: "On the effective date of this subsection \[Apr. 15, 1985\], the President of the Senate, on the recommendation of the majority leader, shall designate one of the Senate Members to serve as Chairman of the Commission for the duration of the Ninety-ninth Congress, and the Speaker of the House of Representatives shall designate one of the House Members to serve as Cochairman of the Commission for the duration of the Ninety-ninth Congress."
 

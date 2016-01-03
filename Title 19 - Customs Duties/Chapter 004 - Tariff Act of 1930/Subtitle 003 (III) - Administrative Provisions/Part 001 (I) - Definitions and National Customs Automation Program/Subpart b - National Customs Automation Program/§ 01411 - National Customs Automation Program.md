@@ -38,7 +38,7 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 #### (b) Participation in Program
 
-The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
 #### (c) Foreign-trade zones
 
@@ -68,11 +68,11 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 #### (D) Consultation
 
-&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and Border Protection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
+&emsp;&emsp;The Secretary shall consult with and assist the United States Customs and BorderProtection and other agencies in the transition from paper to electronic format for the submission, issuance, and storage of documents relating to data required to enter cargo into the United States. In so doing, the Secretary shall also consult with private sector stakeholders, including the Commercial Operations Advisory Committee, in developing uniform data submission requirements, procedures, and schedules, for the ITDS.
 
 #### (E) Coordination
 
-&emsp;&emsp;The Secretary shall be responsible for coordinating the operation of the ITDS among the participating agencies and the officewithin the United States Customs and Border Protection that is responsible for maintaining the ITDS.
+&emsp;&emsp;The Secretary shall be responsible for coordinating the operation of the ITDS among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
 
 #### (2) Data elements
 
@@ -144,7 +144,7 @@ Ex. Ord. No. 13659, Feb. 19, 2014, 79 F.R. 10657, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to reduce supply chain barriers to commerce while continuing to protect our national security, public health and safety, the environment, and natural resources, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States is the world's largest economy and the largest trading Nation. Trade is critical to the Nation's prosperity—fueling economic growth, supporting good jobs at home, raising living standards, and helping Americans provide for their families with affordable goods and services. It is the policy of the United States to promote commerce through the effective implementation of an ambitious 21st century trade agenda and vigorous enforcement of our Nation's laws relating to trade, security, publichealth and safety, the environment, and natural resources. In support of these goals, and to ensure that our Nation is well-positioned to compete in an open, fair, and growing world economy, the Federal Government must increase efforts to improve the technologies, policies, and other controls governing the movement of goods across our national borders.
+Section 1. <i>Policy</i>. The United States is the world's largest economy and the largest trading Nation. Trade is critical to the Nation's prosperity—fueling economic growth, supporting good jobs at home, raising living standards, and helping Americans provide for their families with affordable goods and services. It is the policy of the United States to promote commerce through the effective implementation of an ambitious 21st century trade agenda and vigorous enforcement of our Nation's laws relating to trade, security, public health and safety, the environment, and natural resources. In support of these goals, and to ensure that our Nation is well-positioned to compete in an open, fair, and growing world economy, the Federal Government must increase efforts to improve the technologies, policies, and other controls governing the movement of goods across our national borders.
 
 In particular, we must increase efforts to complete the development of efficient and cost-effective trade processing infrastructure, such as the International Trade Data System (ITDS), to modernize and simplify the way that executive departments and agencies (agencies) interact with traders. We must also improve the broader trade environment through the development of innovative policies and operational processes that promote effective application of regulatory controls, collaborative arrangements with stakeholders, and a reduction of unnecessary procedural requirements that add costs to both agencies and industry and undermine our Nation's economic competitiveness. By demonstrating our commitment to utilizing technology, coordinating government processes, fulfilling international obligations, and embracing innovative approaches to promote new opportunities for trade facilitation in the 21st century, we can lead by example and partner with other countries willing to adopt similar programs. This will encourage compliance with applicable laws and, more broadly, result in a more prosperous, safe, secure, and sustainable trading environment for all.
 
@@ -209,6 +209,18 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 (d) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Authority for Drafting and Submission of the International Trade Data System Annual Report to the Congress
+
+Memorandum of President of the United States, Oct. 20, 2015, 80 F.R. 64305, provided:
+
+Memorandum for the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you the reporting function conferred upon the President by section 405 of the SAFE Port Act of 2006, Public Law 109–347.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

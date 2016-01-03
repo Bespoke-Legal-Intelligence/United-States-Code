@@ -16,7 +16,7 @@
 
 &emsp;(A) The term "Corps" means the National Health Service Corps.
 
-&emsp;(B) The term "Corps member" means each of the officers, employees, and individuals of which the Corps consists pursuant to paragraph (1).
+&emsp;(B) The term "Corps member" means each of the officers, employees, and individuals ofwhich the Corps consists pursuant to paragraph (1).
 
 &emsp;(C) The term "health professional shortage area" has the meaning given such term in section 254e(a) of this title.
 
@@ -52,7 +52,7 @@
 
 > For purposes of subparagraphs (A) and (B), the term "monthly pay" includes special pay received under chapter 5 of title 37.
 
-(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
+(2) In the case of a member of the Corps who is directly engaged in the delivery of healthservices in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
 
 (3) A member of the Corps described in subparagraph (C) of subsection (a)(1) of this section shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.
 
@@ -96,7 +96,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;&emsp;(i) double the period of obligated service that would otherwise be required; or
 
-&emsp;&emsp;(ii) in the case of contracts entered into under section 254l–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of theamount that would otherwise be payable for full-time service; and
+&emsp;&emsp;(ii) in the case of contracts entered into under section 254l–1 of this title, accept a minimum service obligation of 2 years with an award amount equal to 50 percent of the amount that would otherwise be payable for full-time service; and
 
 &emsp;(F) the Corps member agrees in writing that if the Corps member begins providing half-time service but fails to begin or complete the period of obligated service, the method stated in 254o(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
 
@@ -158,7 +158,7 @@ Subsecs. (i), (j). Pub. L. 107–251, §301(b), added subsec. (i) and redesignat
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
 
-Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted "For the purpose of eliminatinghealth manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—" for "There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the 'Corps') which (1) shall consist of—", substituted "States." for "States," at end of subpar. (C), struck out closing provisions which read "(such officers, employees, and individuals hereinafter in this subpart referred to as 'Corps members'), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.", and added pars. (2) and (3).
+Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted "For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—" for "There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the 'Corps') which (1) shall consist of—", substituted "States." for "States," at end of subpar. (C), struck out closing provisions which read "(such officers, employees, and individuals hereinafter in this subpart referred to as 'Corps members'), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.", and added pars. (2) and (3).
 
 Subsec. (b). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2).
 
@@ -228,7 +228,7 @@ Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided tha
 
 "(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d(d)\] to such number.
 
-"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment."
+"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliestfeasible time, the Advisory Council composition prescribed by the amendment."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

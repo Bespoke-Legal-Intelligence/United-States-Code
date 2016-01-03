@@ -54,7 +54,7 @@ Section 292a of this title, referred to in subsec. (d), was in the original a re
 
 #### Prior Provisions
 
-A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as added June 23, 1976, Pub. L. 94–317, titleI, §102, 90 Stat. 700; amended Nov. 10, 1978, Pub. L. 95–626, title V, §501, 92 Stat. 3592; Jan. 4, 1983, Pub. L. 97–414, §8(r), 96 Stat. 2062, related to establishment of the Office of Health Promotion, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as added June 23, 1976, Pub. L. 94–317, title I, §102, 90 Stat. 700; amended Nov. 10, 1978, Pub. L. 95–626, title V, §501, 92 Stat. 3592; Jan. 4, 1983, Pub. L. 97–414, §8(r), 96 Stat. 2062, related to establishment of the Office of Health Promotion, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
 

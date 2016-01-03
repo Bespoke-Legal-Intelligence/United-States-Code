@@ -10,7 +10,7 @@ Interest shall be payable on overpayments and underpayments of amounts deposited
 
 #### (b) Rate
 
-The rate of interest payable under subsection (a) of this section for any period of time is the rate of interest established under section 6621 of title 26 for such period.
+The rate of interest payable under subsection (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period.
 
 (June 17, 1930, ch. 497, title VII, §778, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 188; amended Pub. L. 98–573, title VI, §621, Oct. 30, 1984, 98 Stat. 3039; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -18,7 +18,7 @@ The rate of interest payable under subsection (a) of this section for any period
 
 Section 1303 of this title, referred to in subsec. (a)(1), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, asamended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
 
 #### Amendments
 

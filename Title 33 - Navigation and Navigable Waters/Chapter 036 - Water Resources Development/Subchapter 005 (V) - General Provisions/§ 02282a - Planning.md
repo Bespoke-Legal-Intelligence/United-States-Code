@@ -120,7 +120,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is
 
 Section is comprised of section 2033 of Pub. L. 110–114. Subsec. (a) of section 2033 of Pub. L. 110–114 amended section 2281 of this title.
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Pub. L. 109–266, §1, Aug. 3, 2006, 120 Stat. 670, provided that: "This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: "This Act \[amending section 718d of this title\] may be cited as the 'Migratory Bird Hunting and Conservation Stamp Promotion Act'."
+Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: "This Act \[amending section 718d of thistitle\] may be cited as the 'Migratory Bird Hunting and Conservation Stamp Promotion Act'."
 
 #### Short Title
 
@@ -26,7 +26,7 @@ Pub. L. 109–266, §§2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 
 "Congress finds that—
 
-&emsp;"(1) on March 16, 1934, Congress passed and President Roosevelt signed the Act of March 16, 1934 (16U.S.C. 718a \[718\] et seq.) (popularly known as the 'Duck Stamp Act'), which requires all migratory waterfowl hunters 16 years of age or older to buy a Federal migratory bird hunting and conservation stamp annually;
+&emsp;"(1) on March 16, 1934, Congress passed and President Roosevelt signed the Act of March 16, 1934 (16 U.S.C. 718a \[718\] et seq.) (popularly known as the 'Duck Stamp Act'), which requires all migratory waterfowl hunters 16 years of age or older to buy a Federal migratory bird hunting and conservation stamp annually;
 
 &emsp;"(2) the Federal Duck Stamp program has become one of the most popular and successful conservation programs ever initiated;
 

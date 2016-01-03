@@ -66,5 +66,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Certificates of Non-Citizen National Status; $35 Limit on Fees for Processing Applications Filed Before End of Fiscal Year 1987
 
-Pub. L. 99–396, §16(c), Aug. 27, 1986, 100 Stat. 843, provided that: "The Secretary of State may not impose afee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987."
+Pub. L. 99–396, §16(c), Aug. 27, 1986, 100 Stat. 843, provided that: "The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987."
 

@@ -74,9 +74,9 @@ The purposes of this subchapter are—
 
 #### References in Text
 
-The Sisk Act, referred to in subsec. (a)(11), is Pub. L. 90–171, Dec. 4, 1967, 81 Stat. 531, which is classified to section 484a of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 484a of Title 16 and Tables.
+Public Law 90–171, referred to in subsec. (a)(11), is Pub. L. 90–171, Dec. 4, 1967, 81 Stat. 531, which is classified to section 484a of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 484a of Title 16 and Tables.
 
 #### Short Title
 
-Pub. L. 109–286, §1, Sept. 27, 2006, 120 Stat. 1218, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Pueblo de San Ildefonso Claims Settlement Act of 2005'."
+Pub. L. 109–286, §1, Sept. 27, 2006, 120 Stat. 1218, provided that: "This Act \[enacting this subchapter\] maybe cited as the 'Pueblo de San Ildefonso Claims Settlement Act of 2005'."
 

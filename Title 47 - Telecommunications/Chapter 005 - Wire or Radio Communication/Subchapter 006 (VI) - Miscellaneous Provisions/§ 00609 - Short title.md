@@ -6,7 +6,7 @@ This chapter may be cited as the "Communications Act of 1934."
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2014 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 100–394, §1, Aug. 16, 1988, 102 Stat. 976, provided: "That this Act \
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: "This Act \[enacting subchapter V–A of this chapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the 'Cable Communications Policy Act of 1984'."
+Pub. L. 98–549, §1(a), Oct. 30, 1984, 98 Stat. 2779, provided that: "This Act \[enacting subchapter V–A of thischapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under sections 521, 543, and 605 of this title\] may be cited as the 'Cable Communications Policy Act of 1984'."
 
 #### Short Title of 1983 Amendments
 

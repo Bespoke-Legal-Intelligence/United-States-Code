@@ -22,7 +22,7 @@
 
 #### (3) Servicemember family leave
 
-&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter,parent, or next of kin of a covered servicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
+&emsp;Subject to section 2613 of this title, an eligible employee who is the spouse, son, daughter, parent, or next of kin of a covered servicemember shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the servicemember. The leave described in this paragraph shall only be available during a single 12-month period.
 
 #### (4) Combined leave total
 
@@ -76,7 +76,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 &emsp;In any case in which the necessity for leave under subparagraph (C) or (D) of subsection (a)(1) or under subsection (a)(3) is foreseeable based on planned medical treatment, the employee—
 
-&emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disruptunduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
+&emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, parent, or covered servicemember of the employee, as appropriate; and
 
 &emsp;&emsp;(B) shall provide the employer with not less than 30 days' notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
@@ -112,7 +112,7 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional inWhole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

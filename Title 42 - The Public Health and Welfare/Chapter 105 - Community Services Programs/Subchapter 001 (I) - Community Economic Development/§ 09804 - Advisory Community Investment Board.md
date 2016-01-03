@@ -2,7 +2,7 @@
 
 #### (a) National Community Investment Board; functions, composition, etc.
 
-(1) The President is authorized to establish a National Advisory Community Investment Board (hereinafter in this section referred to as the "Investment Board"). Such Investment Board shall be composed of 15 members appointed, for staggered terms and without regard to the civil service laws, by the President, in consultation with the Secretary of Health and Human Services (hereinafter in this subchapter referred to as the "Secretary"). Such members shall be representative of the investment and business communities and appropriate fields of endeavor related to this subchapter. The Investment Board shall meet at the call of the chairperson, but not less often than 3 times each year. The Secretary and the administrator of community economic development programs shall be ex officio members of the Investment Board.
+(1) The President is authorized to establish a National Advisory Community InvestmentBoard (hereinafter in this section referred to as the "Investment Board"). Such Investment Board shall be composed of 15 members appointed, for staggered terms and without regard to the civil service laws, by the President, in consultation with the Secretary of Health and Human Services (hereinafter in this subchapter referred to as the "Secretary"). Such members shall be representative of the investment and business communities and appropriate fields of endeavor related to this subchapter. The Investment Board shall meet at the call of the chairperson, but not less often than 3 times each year. The Secretary and the administrator of community economic development programs shall be ex officio members of the Investment Board.
 
 (2) The Secretary shall carry out the provisions of this subchapter through an appropriate office.
 
@@ -34,5 +34,5 @@ The governing body of each Community Development Corporation may establish an ad
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board isrenewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

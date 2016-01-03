@@ -20,7 +20,7 @@ Not later than 60 days after initiating an activity under this section, the Secr
 
 #### Codification
 
-Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part ofthe Water Resources Development Act of 1986 which comprises this chapter.
 
 #### "Secretary" Defined
 

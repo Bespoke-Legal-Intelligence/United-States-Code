@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 (d) The term "labor organization" means a labor organization engaged in an industry affecting commerce, and any agent of such an organization, and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization.
 
-(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1)it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
+(e) A labor organization shall be deemed to be engaged in an industry affecting commerce if (1) it maintains or operates a hiring hall or hiring office which procures employees for an employer or procures for employees opportunities to work for an employer, or (2) the number of its members (or, where it is a labor organization composed of other labor organizations or their representatives, if the aggregate number of the members of such other labor organization) is fifty or more prior to July 1, 1968, or twenty-five or more on or after July 1, 1968, and such labor organization—
 
 &emsp;(1) is the certified representative of employees under the provisions of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], or the Railway Labor Act, as amended \[45 U.S.C. 151 et seq.\]; or
 
@@ -44,7 +44,7 @@ The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 
 
 The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257,Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 

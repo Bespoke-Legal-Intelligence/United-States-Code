@@ -2,7 +2,7 @@
 
 (a)
 
-Previously Existing Standards.—All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)—
+Previously Existing Standards.—All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)— <sup>1</sup>
 
 &emsp;(1) remain in effect until amended, superseded, or rescinded by the Board under this chapter; and
 
@@ -41,4 +41,10 @@ Pub. L. 93–400, §26(j), as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 10
 1504(c)
 
 41:422(j)(4).
+
+#### References in Text
+
+Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, §103, Aug. 15, 1970, 84 Stat. 796, which was classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

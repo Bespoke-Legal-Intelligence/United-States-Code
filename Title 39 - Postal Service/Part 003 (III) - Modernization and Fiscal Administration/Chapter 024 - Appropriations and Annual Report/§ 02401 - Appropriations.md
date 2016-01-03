@@ -18,7 +18,7 @@
 
 &emsp;(G) except as provided in paragraph (2) of this subsection, for each fiscal year thereafter an amount equal to 5 percent of such sum for fiscal year 1971.
 
-(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
+(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph\(1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted "Committee on Governme
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service", and, in concluding provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service of the Senate and the House of Representatives".
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted "if sections 3217 and 3403 through 3406 had not been enacted" for "if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted" and "such sections." for "such sections and Acts." and in second sentence struck out "(i)" after "Postal Service shall" and substituted "volume." for "volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules."
+<b>1993</b>—Subsec. (c). Pub. L. 103–123, §703(a), in first sentence substituted "if sections 3217 and 3403 through 3406had not been enacted" for "if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted" and "such sections." for "such sections and Acts." and in second sentence struck out "(i)" after "Postal Service shall" and substituted "volume." for "volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules."
 
 Pub. L. 103–31 substituted "3626(a)–(h), 3626(j)–(k), and 3629 of this title" for "and 3626(a)–(h) and (j)–(k) of this title," in first sentence.
 
@@ -114,7 +114,7 @@ Pub. L. 101–509, title II, §1(c), Nov. 5, 1990, 104 Stat. 1398, provided that
 
 Amendment by Pub. L. 99–509 effective Jan. 1, 1989, or effective date of next general change in rates and fees under sections 3622 and 3625 of this title \[Apr. 3, 1988\], whichever is sooner, see section 6003(c) of Pub. L. 99–509 set out as a note under section 3626 of this title.
 
-Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.
+Amendment by Pub. L. 99–410 applicable with respect to elections taking place after Dec. 31, 1987, see section204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.
 
 #### Effective Date of 1981 Amendment
 

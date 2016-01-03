@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (3) Workmen's compensation benefits substituted for social security benefits
 
-&emsp;For purposes of this section, if, by reason of section 224 of the Social Security Act (or by reason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term "social security benefit" includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
+&emsp;For purposes of this section, if, by reason of section 224 of the Social Security Act (or byreason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term "social security benefit" includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
 
 #### (4) Tier 1 railroad retirement benefit
 
@@ -144,7 +144,7 @@ For purposes of—
 
 > any social security benefit shall be treated as an amount received as a pension or annuity.
 
-(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII,§12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
+(Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Subsec. (b)(2)(A). Pub. L. 104–188, §1807(c)(2), inserted "137," before "911"
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–296 struck out at end "For purposes of the preceding sentence, the amount received by any taxpayer shall be determined as if the Social Security Act did not contain section 203(i) thereof."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2), gross" for "Gross", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2),gross" for "Gross", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'base amount' means—
 
@@ -234,7 +234,7 @@ Pub. L. 103–66, title XIII, §13215(d), Aug. 10, 1993, 107 Stat. 477, provided
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1001(e) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) ofPub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1001(e) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6009(d), Nov. 10, 1988, 102 Stat. 3690, provided that: "The amendments made by this section \[enacting section 135 of this title, amending this section and sections 219 and 469 of this title, and renumbering former section 135 as section 136 of this title\] shall apply to taxable years beginning after December 31, 1989."
 

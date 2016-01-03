@@ -26,7 +26,7 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 #### (B) Safe harbor based on 30-day letter
 
-&emsp;&emsp;In the case of a taxpayer who has been issued a 30-day letter, the maximum amountof tax under subparagraph (A) shall not be less than the amount of the proposed deficiency specified in such letter.
+&emsp;&emsp;In the case of a taxpayer who has been issued a 30-day letter, the maximum amount of tax under subparagraph (A) shall not beless than the amount of the proposed deficiency specified in such letter.
 
 #### (3) Other definitions
 

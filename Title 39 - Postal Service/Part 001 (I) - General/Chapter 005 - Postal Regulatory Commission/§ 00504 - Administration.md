@@ -1,6 +1,6 @@
 ### §504. Administration
 
-(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall requirethe approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
+(a) The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
 
 (b) In carrying out any of his functions under this section, the Chairman shall be governed by the general policies of the Commission.
 
@@ -36,7 +36,7 @@
 
 (B) Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
 
-(h)(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
+(h)(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittentservices of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
 
 (2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.
 

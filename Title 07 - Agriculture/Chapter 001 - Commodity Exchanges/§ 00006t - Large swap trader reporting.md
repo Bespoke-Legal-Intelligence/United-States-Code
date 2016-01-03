@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), it shall be unlawful for any person to enter into anyswap that the Commission determines to perform a significant price discovery function with respect to registered entities if—
+&emsp;Except as provided in paragraph (2), it shall be unlawful for any person to enter into any swap that the Commission determines to perform a significant price discovery function with respect to registered entities if—
 
 &emsp;&emsp;(A) the person directly or indirectly enters into the swap during any 1 day in an amount equal to or in excess of such amount as shall be established periodically by the Commission; and
 

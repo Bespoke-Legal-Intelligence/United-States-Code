@@ -38,7 +38,7 @@ The provisions of section 558(c) of title 5 which apply with respect to the inst
 
 For purposes of this section:
 
-&emsp;(1) The term "willful", when used with reference to the commission or omission of any act, means the conscious and deliberate commission or omission of such act, irrespective of any intent to violate any provision of this chapter or any rule or regulation of the Commission authorized by this chapter or by a treaty ratified by the United States.
+&emsp;(1) The term "willful", when used with reference to the commission or omission of anyact, means the conscious and deliberate commission or omission of such act, irrespective of any intent to violate any provision of this chapter or any rule or regulation of the Commission authorized by this chapter or by a treaty ratified by the United States.
 
 &emsp;(2) The term "repeated", when used with reference to the commission or omission of any act, means the commission or omission of such act more than once or, if such commission or omission is continuous, for more than one day.
 

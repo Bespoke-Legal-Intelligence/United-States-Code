@@ -2,7 +2,7 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to authorize the reburial of human remains and cultural items on National Forest System land, including human remains andcultural items repatriated under the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
+&emsp;(1) to authorize the reburial of human remains and cultural items on National Forest System land, including human remains and cultural items repatriated under the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
 
 &emsp;(2) to prevent the unauthorized disclosure of information regarding reburial sites, including the quantity and identity of human remains and cultural items on sites and the location of sites;
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(B) the integrity, objectivity, impartiality, utility, and confidentiality of information collected for statistical purposes;
 
-&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities formaintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
+&emsp;(2) ensure that budget proposals of agencies are consistent with system-wide priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on statistical program funding;
 
 &emsp;(3) develop and oversee the implementation of Governmentwide policies, principles, standards, and guidelines concerning—
 
@@ -138,9 +138,9 @@
 
 &emsp;&emsp;(B) the efficiency and effectiveness of inter-agency information technology initiatives to improve agency performance and the accomplishment of agency missions; and
 
-&emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+&emsp;(5) promote the use of information technology by the Federal Government to improvethe productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960.)
 
 #### References in Text
 
@@ -220,7 +220,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 

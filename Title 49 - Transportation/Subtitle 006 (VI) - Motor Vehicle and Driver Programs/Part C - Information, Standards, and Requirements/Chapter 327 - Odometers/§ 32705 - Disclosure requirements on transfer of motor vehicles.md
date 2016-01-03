@@ -92,9 +92,23 @@ Application and Revision of State Law.—(1) Except as provided in paragraph (2)
 
 (g)
 
-Electronic Disclosures.—Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+Electronic Disclosures.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467; Pub. L. 112–141, div. C, title I, §31205(b), July 6, 2012, 126 Stat. 761.)
+&emsp;(1) Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+
+&emsp;(2) Notwithstanding paragraph (1) and subject to paragraph (3), a State, without approval from the Secretary under subsection (d), may allow for written disclosures or notices and related matters to be provided electronically if—
+
+&emsp;&emsp;(A) in compliance with—
+
+&emsp;&emsp;&emsp;(i) the requirements of subchapter 1 of chapter 96 of title 15; <sup>1</sup> or
+
+&emsp;&emsp;&emsp;(ii) the requirements of a State law under section 7002(a) of title 15; <sup>1</sup> and
+
+&emsp;&emsp;(B) the disclosures or notices otherwise meet the requirements under this section, including appropriate authentication and security measures.
+
+&emsp;(3) Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1049; Pub. L. 103–429, §6(34), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–287, §5(62), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title VII, §7105, June 9, 1998, 112 Stat. 467; Pub. L. 112–141, div. C, title I, §31205(b), July 6, 2012, 126 Stat. 761; Pub. L. 114–94, div. B, title XXIV, §24111, Dec. 4, 2015, 129 Stat. 1709.)
 
 Historical and Revision Notes
 
@@ -168,7 +182,7 @@ Oct. 28, 1986, Pub. L. 99–579, §2(c), 100 Stat. 3310.
 
 In subsection (a)(1), before clause (A), the words "Not later than 90 days after October 20, 1972" are omitted as executed. In clause (B), the words "if the transferor knows that the mileage registered by the odometer is incorrect" are substituted for "if the odometer reading is known to the transferor to be different from the number of miles the vehicle has actually traveled" to eliminate unnecessary words.
 
-In subsection (b)(2)(A), before clause (i), the words "Under regulations prescribed by the Secretary" are substituted for "prescribed by rule by the Secretary" for consistency in the revised title and because "rule" is synonymous with "regulation". The words "to a transferor" are added for clarity. The words "beforeFebruary 1, 1989" are omitted as expired. The words "in the possession of" are substituted for "physically held by", and the words "when the transferor transfers ownership of the vehicle" are substituted for "at the time of a transfer of such motor vehicle", for clarity and consistency. The words "the transferor may" are substituted for "nothing in this subsection shall be construed to prohibit" for clarity and to eliminate unnecessary words. Clause (i) is substituted for "in a form" and clause (ii) is substituted for "in accordance with paragraph (2)(A)(i)" for clarity and consistency. In clause (iii), the words "consistent with the purposes of this Act and the need to facilitate enforcement thereof" are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for "and under reasonable conditions" for clarity and consistency.
+In subsection (b)(2)(A), before clause (i), the words "Under regulations prescribed by the Secretary" are substituted for "prescribed by rule by the Secretary" for consistency in the revised title and because "rule" is synonymous with "regulation". The words "to a transferor" are added for clarity. The words "before February 1, 1989" are omitted as expired. The words "in the possession of" are substituted for "physically held by", and the words "when the transferor transfers ownership of the vehicle" are substituted for "at the time of a transfer of such motor vehicle", for clarity and consistency. The words "the transferor may" are substituted for "nothing in this subsection shall be construed to prohibit" for clarity and to eliminate unnecessary words. Clause (i) is substituted for "in a form" and clause (ii) is substituted for "in accordance with paragraph (2)(A)(i)" for clarity and consistency. In clause (iii), the words "consistent with the purposes of this Act and the need to facilitate enforcement thereof" are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for "and under reasonable conditions" for clarity and consistency.
 
 In subsection (b)(3)(A), before clause (i), the words "following such transfer" are omitted as surplus. In clause (i), the word "produced" is substituted for "set forth" for clarity. In clause (iii), the words "(in the event of a future transfer)" are omitted as surplus.
 
@@ -188,9 +202,13 @@ This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1
 
 #### References in Text
 
-The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g)(1), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+
+Subchapter 1 of chapter 96 of title 15 and section 7002(a) of title 15, referred to in subsec. (g)(2)(A), probably should be references to title I and section 102(a), respectively, of the Electronic Signatures in Global and National Commerce Act, Pub. L. 106–229, which are classified, respectively, to subchapter I (§7001 et seq.) of chapter 96 and section 7002(a) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–94 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 <b>2012</b>—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
@@ -228,5 +246,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Regulations
 
-Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to in section 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
+Pub. L. 103–272, §4(q), July 5, 1994, 108 Stat. 1371, provided that: "The revision of regulations, referred to insection 32705(b)(2)(A) of title 49, United States Code, as enacted by section 1 of this Act, that is required by section 7 of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) \[former 15 U.S.C. 1988(d)(1)(C), 1988 note\] shall be prescribed not later than May 28, 1991."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

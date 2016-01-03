@@ -54,7 +54,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (B) Authority of Attorney General
 
-&emsp;&emsp;Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) of this section during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
+&emsp;&emsp;Subject to subparagraph (C), the Attorney General shall not administer the oath of allegiance to a person under subsection (a) during the period in which exclusive authority to administer the oath of allegiance may be exercised by an eligible court under this subsection with respect to that person.
 
 #### (C) Waiver of exclusive authority
 
@@ -90,7 +90,7 @@ A person may only be naturalized as a citizen of the United States in the manner
 
 Pub. L. 102–232, §305(a), substituted "district court" for "District Court".
 
-<b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions authorizing Attorney General to naturalize persons as citizens, for provisions granting certain courts exclusive jurisdiction to naturalize.
+<b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions authorizing Attorney General tonaturalize persons as citizens, for provisions granting certain courts exclusive jurisdiction to naturalize.
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–525 struck out subsec. (e) which read as follows: "Notwithstanding the provisions of section 405(a), any petition for naturalization filed on or after September 26, 1961, shall be heard and determined in accordance with the requirements of this subchapter."
 
@@ -132,7 +132,7 @@ Continuation of current rules.—Except as provided in subparagraph (B), any pet
 
 &emsp;&emsp;"(B)
 
-Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending thissection, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
+Permitting withdrawal and consideration of application under new rules.—In the case of any petition for naturalization which may be pending in any court on January 1, 1992, the petitioner may withdraw such petition and have the petitioner's application for naturalization considered under the amendments made by this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, and repealing section 1459 of this title\], but only if the petition is withdrawn not later than 3 months after the effective date.
 
 &emsp;"(3)
 

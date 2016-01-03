@@ -68,7 +68,7 @@ From the amounts appropriated under subsection (f), the Secretary is authorized 
 
 &emsp;&emsp;(C) is enrolled in a program of undergraduate instruction leading to a bachelor's degree with a major in science, technology, engineering, mathematics, or a health-related field; and
 
-&emsp;&emsp;(D) has obtained a cumulative grade point average of at least a 3.0 (or the equivalent as determined under regulations prescribed bythe Secretary) at the end of the most recently completed term.
+&emsp;&emsp;(D) has obtained a cumulative grade point average of at least a 3.0 (or the equivalent as determined under regulations prescribed by the Secretary) at the end of the most recently completed term.
 
 #### (3) Priority for scholarships
 

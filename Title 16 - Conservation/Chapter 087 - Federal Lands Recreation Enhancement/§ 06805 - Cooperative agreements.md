@@ -2,7 +2,7 @@
 
 #### (a) Fee management agreement
 
-Notwithstanding chapter 63 of title 31, the Secretary may enter into a fee managementagreement, including a contract, which may provide for a reasonable commission, reimbursement, or discount, with the following entities for the following purposes:
+Notwithstanding chapter 63 of title 31, the Secretary may enter into a fee management agreement, including a contract, which may provide for a reasonable commission, reimbursement, or discount, with the following entities for the following purposes:
 
 &emsp;(1) With any governmental or nongovernmental entity, including those in a gateway community, for the purpose of obtaining fee collection and processing services, including visitor reservation services.
 

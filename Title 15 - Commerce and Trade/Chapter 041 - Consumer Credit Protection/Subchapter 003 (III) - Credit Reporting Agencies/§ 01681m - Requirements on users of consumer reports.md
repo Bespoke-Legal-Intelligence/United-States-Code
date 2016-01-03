@@ -76,7 +76,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness or insurability or does not furnish any required collateral;
 
-&emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
+&emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency frombeing used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
 &emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
 
@@ -158,7 +158,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -166,7 +166,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (g) Debt collector communications concerning identity theft
 
-If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
+If a person acting as a debt collector (as that term is defined in subchapter V) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
 
 &emsp;(1) notify the third party that the information may be fraudulent or may be the result of identity theft; and
 
@@ -188,11 +188,11 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;(A) the consumer applied for specific material terms and was granted those terms, unless those terms were initially specified by the person after the transaction was initiated by the consumer and after the person obtained a consumer report; or
 
-&emsp;&emsp;(B) the person has provided or will provide a notice to the consumer under subsection (a) of this section in connection with the transaction.
+&emsp;&emsp;(B) the person has provided or will provide a notice to the consumer under subsection (a) in connection with the transaction.
 
 #### (4) Other notice not sufficient
 
-&emsp;A person that is required to provide a notice under subsection (a) of this section cannot meet that requirement by providing a notice under this subsection.
+&emsp;A person that is required to provide a notice under subsection (a) cannot meet that requirement by providing a notice under this subsection.
 
 #### (5) Content and delivery of notice
 

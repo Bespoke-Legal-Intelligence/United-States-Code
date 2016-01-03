@@ -36,7 +36,7 @@ The Review Panel shall—
 
 #### (d) Information
 
-The Secretary shall promptly <sup>1</sup> make available promptly <sup>1</sup> any information in the Secretary'spossession requested by the Panel or its Chairman.
+The Secretary shall promptly <sup>1</sup> make available promptly <sup>1</sup> any information in the Secretary's possession requested by the Panel or its Chairman.
 
 #### (e) Federal Advisory Committee Act
 

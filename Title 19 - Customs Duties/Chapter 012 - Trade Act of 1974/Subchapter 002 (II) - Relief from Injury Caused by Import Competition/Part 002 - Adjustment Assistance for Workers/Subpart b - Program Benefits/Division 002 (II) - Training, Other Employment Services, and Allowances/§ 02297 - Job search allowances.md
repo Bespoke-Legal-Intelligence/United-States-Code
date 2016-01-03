@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Any allowance granted under subsection (a) of this section shall provide reimbursement to the worker of not more than 90 percent of the necessary job search expenses of the worker as prescribed by the Secretary in regulations.
+&emsp;Any allowance granted under subsection (a) shall provide reimbursement to the worker of not more than 90 percent of the necessary job search expenses of the worker as prescribed by the Secretary in regulations.
 
 #### (2) Maximum allowance
 
@@ -46,19 +46,23 @@
 
 #### (c) Exception
 
-Notwithstanding subsection (b) of this section, a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
+Notwithstanding subsection (b), a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
 
-(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406.)
+(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on February 13, 2011
+#### Reversion to Provisions in Effect on January 1, 2014
 
-<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
+<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -88,15 +92,23 @@ Subsec. (b)(1). Pub. L. 97–35, §2507(2)(A), inserted "who has been totally se
 
 Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, substituting the 182-day period for a reasonable period of time and inserting provision relating to 365 days after certification.
 
+#### Effective and Termination Dates of 2015 Revival
+
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2011 Revival
 
-For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section 2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
+Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -108,5 +120,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2014, except as otherwise provided, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

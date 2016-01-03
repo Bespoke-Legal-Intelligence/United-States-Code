@@ -84,7 +84,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;(B) in determining under paragraph (4) the annual interest to be paid or incurred by such corporation (or by the issuing and acquired corporations referred to in paragraph (4)(B) or by the affiliated group of which such corporation is a member) the amount of such interest (determined without regard to this paragraph) shall be reduced by an amount which bears the same ratio to the amount of such interest as the amount of the reduction for the taxable year under subparagraph (A) bears to the total indebtedness of such corporation; and
 
-&emsp;&emsp;(C) in determining under paragraph (3)(B) the average annual earnings, the amount ofthe earnings and profits for the 3-year period shall be reduced by the sum of the reductions under subparagraph (B) for such period.
+&emsp;&emsp;(C) in determining under paragraph (3)(B) the average annual earnings, the amount of the earnings and profits for the 3-year period shall be reduced by the sum of the reductions under subparagraph (B) for such period.
 
 > &emsp;For purposes of this paragraph, the term "lending or finance business" means a business of making loans or purchasing or discounting accounts receivable, notes, or installment obligations.
 

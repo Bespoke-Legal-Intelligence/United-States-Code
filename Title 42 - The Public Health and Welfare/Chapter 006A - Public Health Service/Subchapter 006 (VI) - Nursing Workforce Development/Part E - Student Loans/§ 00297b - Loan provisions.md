@@ -22,7 +22,7 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 &emsp;(7) no note or other evidence of any such loan may be transferred or assigned by the school making the loan except that, if the borrower transfers to another school participating in the program under this part such note or other evidence of a loan may be transferred to such other school; and
 
-&emsp;(8) pursuant to uniform criteria established by the Secretary, the repayment period established under paragraph (2) for any student borrower who during the repayment period failed to make consecutive payments and who, during the last 12 months of the repayment period, has made at least 12 consecutive payments may be extended for a period not to exceed 10 years.
+&emsp;(8) pursuant to uniform criteria established by the Secretary, the repayment period established under paragraph (2) for any student borrower who during the repayment period failedto make consecutive payments and who, during the last 12 months of the repayment period, has made at least 12 consecutive payments may be extended for a period not to exceed 10 years.
 
 #### (c) Cancellation
 
@@ -208,7 +208,7 @@ Pub. L. 90–490, title II, §222(i), Aug. 16, 1968, 82 Stat. 785, provided that
 
 #### Construction of 1992 Amendment
 
-Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: "With respect to section 836(h) of the Public Health Service Act \[former 42 U.S.C. 297b(h)\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\]."
+Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: "With respect to section 836(h) ofthe Public Health Service Act \[former 42 U.S.C. 297b(h)\], as in effect prior to the date of the enactment of this Act \[Oct. 13, 1992\], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section \[enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title\]."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

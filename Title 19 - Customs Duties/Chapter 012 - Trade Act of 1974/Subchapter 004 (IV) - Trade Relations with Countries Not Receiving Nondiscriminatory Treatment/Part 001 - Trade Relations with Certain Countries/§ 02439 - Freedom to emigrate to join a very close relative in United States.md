@@ -4,7 +4,7 @@
 
 To assure the continued dedication of the United States to the fundamental human rights and welfare of its own citizens, and notwithstanding any other provision of law, on or after January 3, 1975, no nonmarket economy country shall participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, directly or indirectly, and the President of the United States shall not conclude any commercial agreement with any such country, during the period beginning with the date on which the President determines that such country—
 
-&emsp;(1) denies its citizens the right or opportunity to join permanently through emigration, a very close relative in the United State,<sup>1</sup> such as a spouse, parent, child, brother, or sister;
+&emsp;(1) denies its citizens the right or opportunity to join permanently through emigration, a very close relative in the UnitedState,<sup>1</sup> such as a spouse, parent, child, brother, or sister;
 
 &emsp;(2) imposes more than a nominal tax on the visas or other documents required for emigration described in paragraph (1); or
 
@@ -14,7 +14,7 @@ To assure the continued dedication of the United States to the fundamental human
 
 #### (b) Report to Congress concerning emigration policies
 
-After January 3, 1975, (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a) of this section. Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
+After January 3, 1975, (A) a nonmarket economy country may participate in any program of the Government of the United States which extends credits or credit guarantees or investment guarantees, and (B) the President may conclude a commercial agreement with such country, only after the President has submitted to the Congress a report indicating that such country is not in violation of paragraph (1), (2), or (3) of subsection (a). Such report with respect to such country shall include information as to the nature and implementation of its laws and policies and restrictions or discrimination applied to or against persons wishing to emigrate to the United States to join close relatives. The report required by this subsection shall be submitted initially as provided herein and, with current information, on or before each June 30 and December 31 thereafter, so long as such credits or guarantees are extended or such agreement is in effect.
 
 #### (c) Exemption from application of section
 
@@ -22,7 +22,7 @@ This section shall not apply to any country the products of which are eligible f
 
 #### (d) Additional exemption from application of section
 
-During any period that a waiver is in effect with respect to any nonmarket economy country under section 2432(c) of this title, the provisions of subsections (a) and (b) of this section shall not apply with respect to such country.
+During any period that a waiver is in effect with respect to any nonmarket economy country under section 2432(c) of this title, the provisions of subsections (a) and (b) shall not apply with respect to such country.
 
 (Pub. L. 93–618, title IV, §409, Jan. 3, 1975, 88 Stat. 2064.)
 

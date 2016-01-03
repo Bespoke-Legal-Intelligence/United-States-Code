@@ -18,7 +18,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (ii) Mortgagors
 
-&emsp;&emsp;&emsp;All mortgagors of record or other persons who appear on the basis of the record to be liable for part or all of the mortgage debt, as the record existed 45 days before the date originally set for the foreclosure sale (whether or not the notice describes a sale adjourned).
+&emsp;&emsp;&emsp;All mortgagors of record or other persons who appear on the basis of the recordto be liable for part or all of the mortgage debt, as the record existed 45 days before the date originally set for the foreclosure sale (whether or not the notice describes a sale adjourned).
 
 #### (iii) Dwelling units
 

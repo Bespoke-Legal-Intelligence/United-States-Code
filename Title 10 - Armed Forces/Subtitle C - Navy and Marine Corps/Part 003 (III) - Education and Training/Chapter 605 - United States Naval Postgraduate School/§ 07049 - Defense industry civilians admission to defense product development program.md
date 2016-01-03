@@ -6,7 +6,7 @@ Authority for Admission.—The Secretary of the Navy may permit eligible defense
 
 (b)
 
-Eligible Defense Industry Employees.—For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the school remains eligible for such instruction only so long as that person remains employed by the same firm.
+Eligible Defense Industry Employees.—For purposes of this section, an eligible defenseindustry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the school remains eligible for such instruction only so long as that person remains employed by the same firm.
 
 (c)
 
@@ -78,5 +78,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §535(b)\], Oct. 30, 2000, 114 Sta
 
 &emsp;"(C) any proposals for legislative changes recommended by the Secretary.
 
-"(3) Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), the Secretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
+"(3) Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), theSecretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
 

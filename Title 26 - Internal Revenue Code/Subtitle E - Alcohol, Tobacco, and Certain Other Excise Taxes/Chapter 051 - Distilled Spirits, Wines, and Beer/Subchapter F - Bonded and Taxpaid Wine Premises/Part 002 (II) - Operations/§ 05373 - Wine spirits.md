@@ -36,7 +36,7 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
+<b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may beproduced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
 
 #### Effective Date of 1968 Amendment
 

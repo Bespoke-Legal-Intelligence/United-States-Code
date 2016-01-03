@@ -20,7 +20,7 @@ The Secretary shall appoint a full-time representative as his liaison with the M
 
 #### (e) Staff assistants and consultants
 
-The Mediator may retain the services of such staff assistants and consultants as he shall deem necessary, subject to the approval of the Director of the Federal Mediation and Conciliation Service.
+The Mediator may retain the services of such staff assistants and consultants as he shall deemnecessary, subject to the approval of the Director of the Federal Mediation and Conciliation Service.
 
 (Pub. L. 93–531, §1, Dec. 22, 1974, 88 Stat. 1712.)
 
@@ -242,7 +242,7 @@ Surface water.—With respect to water rights associated with newly acquired tru
 
 &emsp;"(3)
 
-Rule of construction.—Nothing in paragraph (1) or (2) shall preclude the Tribe, or the United States on the Tribe's behalf, from asserting objections to water rights and uses on the basis of the Tribe's water rights on its currently existing trust lands.
+Rule of construction.—Nothing in paragraph (1) or (2) shall preclude the Tribe, or the United States on the Tribe's behalf, from asserting objections to water rights and uses on the basis of theTribe's water rights on its currently existing trust lands.
 
 "(c)
 

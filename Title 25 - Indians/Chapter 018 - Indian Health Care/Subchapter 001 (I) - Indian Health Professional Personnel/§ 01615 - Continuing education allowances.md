@@ -4,7 +4,7 @@ In order to encourage scholarship and stipend recipients under sections 1613a, 1
 
 &emsp;(1) provide programs or allowances to transition into an Indian health program, including licensing, board or certification examination assistance, and technical assistance in fulfilling service obligations under sections 1613a, 1614, and 1616h of this title; and
 
-&emsp;(2) provide programs or allowances to health professionals employed in an Indian health program to enable those professionals, for aperiod of time each year prescribed by regulation of the Secretary, to take leave of the duty stations of the professionals for professional consultation, management, leadership, and refresher training courses.
+&emsp;(2) provide programs or allowances to health professionals employed in an Indian health program to enable those professionals, for a period of time each year prescribed by regulation of the Secretary, to take leave of the duty stations of the professionals for professional consultation, management, leadership, and refresher training courses.
 
 (Pub. L. 94–437, title I, §106, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 100–713, title I, §105, Nov. 23, 1988, 102 Stat. 4787; Pub. L. 102–573, title I, §§104(a), 115, Oct. 29, 1992, 106 Stat. 4533, 4543; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 

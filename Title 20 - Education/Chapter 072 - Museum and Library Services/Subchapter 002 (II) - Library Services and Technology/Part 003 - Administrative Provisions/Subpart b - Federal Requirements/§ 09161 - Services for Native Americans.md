@@ -2,13 +2,19 @@
 
 From amounts reserved under section 9131(a)(1)(A) of this title for any fiscal year the Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in section 7517 of this title) to enable such tribes and organizations to carry out the activities described in section 9141 of this title.
 
-(Pub. L. 94–462, title II, §261, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §6, Dec. 1, 1997, 111 Stat. 2549; Pub. L. 107–110, title VII, §702(d), Jan. 8, 2002, 115 Stat. 1947.)
+(Pub. L. 94–462, title II, §261, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; amended Pub. L. 105–128, §6, Dec. 1, 1997, 111 Stat. 2549; Pub. L. 107–110, title VII, §702(d), Jan. 8, 2002, 115 Stat. 1947; Pub. L. 114–95, title IX, §9215(aaa)(3), Dec. 10, 2015, 129 Stat. 2184.)
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–95 substituted "represent Native Hawaiians (as the term is defined in section 7517 of this title)" for "represent Native Hawaiians (as the term is defined in section 7517 of this title".
+
 <b>2002</b>—Pub. L. 107–110 substituted "7517" for "7912".
 
-<b>1997</b>—Pub. L. 105–128 substituted "Native Americans" for "Indian tribes" in section catchline and in text substituted "to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in section 7912 of this title) to enable such tribes and organizations" for "to organizations primarily serving and representing Indian tribes to enable such organizations".
+<b>1997</b>—Pub. L. 105–128 substituted "Native Americans" for "Indian tribes" in section catchline and in text substituted "to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in section 7912 of this title to enable such tribes and organizations" for "to organizations primarily serving and representing Indian tribes to enable such organizations".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -26,7 +26,7 @@ Pub. L. 108–331, Oct. 16, 2004, 118 Stat. 1281, as amended by Pub. L. 110–34
 
 #### "SECTION 1. AUTHORIZING BOARD OF REGENTS OF SMITHSONIAN INSTITUTION TO CARRY OUT CONSTRUCTION AND RELATED ACTIVITIES IN SUPPORT OF VERITAS ASTROPHYSICAL OBSERVATORY PROJECT.
 
-"The Board of Regents of the Smithsonian Institution is authorized to carry out construction and related activities in support of the collaborative Very Energetic Radiation Imaging Telescope Array System (VERITAS) project at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location.
+"The Board of Regents of the Smithsonian Institution is authorized to carry out construction and relatedactivities in support of the collaborative Very Energetic Radiation Imaging Telescope Array System (VERITAS) project at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location.
 
 #### "SEC. 2. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -38,7 +38,7 @@ Pub. L. 107–117, div. B, §701, Jan. 10, 2002, 115 Stat. 2311, provided that:
 
 "(a)
 
-In General.—The Secretary of the Smithsonian Institution shall collect and preserve in the NationalMuseum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
+In General.—The Secretary of the Smithsonian Institution shall collect and preserve in the National Museum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
 
 "(b)
 
@@ -150,7 +150,7 @@ Location.—The Charles McC. Mathias, Jr. Laboratory for Environmental Research 
 
 "(c)
 
-Authorization of Appropriations.—Effective October 1, 1986, there is authorized to be appropriatedto the Board of Regents of the Smithsonian Institution $1,000,000 to carry out the purposes of this section.
+Authorization of Appropriations.—Effective October 1, 1986, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $1,000,000 to carry out the purposes of this section.
 
 "(d)
 
@@ -214,7 +214,7 @@ Sec. 2. The museum support facilities referred to in section 1 shall be located 
 
 "
 
-Sec. 3. There is authorized to be appropriated to the Smithsonian Institution $21,500,000 to carry out this Act (other than section 4). Any portion of the sums appropriated for such purposes may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.
+Sec. 3. There is authorized to be appropriated to the Smithsonian Institution $21,500,000 to carry out this Act (other than section 4). Any portion of the sums appropriated for such purposes may be transferred to theGeneral Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.
 
 "
 

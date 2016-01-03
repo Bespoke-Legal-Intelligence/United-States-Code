@@ -88,5 +88,5 @@ In subsection (b)(2)(B), the words "Transportation and Infrastructure" are subst
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1), (2). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
+<b>2011</b>—Subsec. (a)(1), (2). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of theFederal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 

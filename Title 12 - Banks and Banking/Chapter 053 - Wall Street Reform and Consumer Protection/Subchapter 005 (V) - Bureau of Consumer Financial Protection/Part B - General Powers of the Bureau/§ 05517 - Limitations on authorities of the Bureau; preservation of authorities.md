@@ -12,7 +12,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), and subject to subparagraph (C), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title <sup>1</sup> with respect to a merchant, retailer, or seller of nonfinancial goods or services, but only to the extent that such person—
 
-&emsp;&emsp;&emsp;(i) extends credit directly to a consumer, in a case in which the good or servicebeing provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling that consumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
+&emsp;&emsp;&emsp;(i) extends credit directly to a consumer, in a case in which the good or service being provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling that consumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
 
 &emsp;&emsp;&emsp;(ii) directly, or through an agreement with another person, collects debt arising from credit extended as described in clause (i); or
 
@@ -64,7 +64,7 @@
 
 #### (iv) Other standards for small business
 
-&emsp;&emsp;&emsp;With respect to a merchant, retailer, or seller of nonfinancial goods or services that is a classified on a basis other than annual receipts for the purposes of section 3 of the Small Business Act (15 U.S.C. 632) and the implementing rules thereunder, such merchant, retailer, or seller shall be deemed to meet the relevant industry size threshold described in clause (ii)(III) if such merchant, retailer, or seller meets the relevant industry size threshold to be a small business concern based on the number of employees, or other such applicable measure, established under that Act \[15 U.S.C. 631 et seq.\].
+&emsp;&emsp;&emsp;With respect to a merchant, retailer, or seller of nonfinancial goods or services that is a classified on a basis other than annual receipts for the purposes of section 3 of the Small Business Act (15 U.S.C. 632) and the implementing rules thereunder, such merchant, retailer, or seller shall be deemed to meet the relevant industry sizethreshold described in clause (ii)(III) if such merchant, retailer, or seller meets the relevant industry size threshold to be a small business concern based on the number of employees, or other such applicable measure, established under that Act \[15 U.S.C. 631 et seq.\].
 
 #### (E) Exception from State enforcement
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) to consumers who are not receiving such customary and usual accounting activities; or
 
-&emsp;&emsp;(B) any person, other than a person described in subparagraph (A) <sup>2</sup> that performs income tax preparation activities for consumers.
+&emsp;&emsp;(B) any person, other than a person described in subparagraph (A) <sup>2</sup> that performsincome tax preparation activities for consumers.
 
 #### (2) Description of activities
 
@@ -150,7 +150,7 @@
 
 #### (B) Not a customary and usual accounting activity
 
-&emsp;&emsp;For purposes of this subsection, extending or brokering credit is not a customary andusual accounting activity, or incidental thereto.
+&emsp;&emsp;For purposes of this subsection, extending or brokering credit is not a customary and usual accounting activity, or incidental thereto.
 
 #### (C) Rule of construction
 
@@ -226,7 +226,7 @@
 
 #### (ii) Agency response
 
-&emsp;&emsp;&emsp;In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, notlater than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+&emsp;&emsp;&emsp;In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, not later than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 #### (iii) Scope of Bureau action
 
@@ -268,13 +268,13 @@
 
 #### (2) Consultation and coordination
 
-&emsp;Notwithstanding paragraph (1), the Commodity Futures Trading Commission shall consult and coordinate with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding a product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law.
+&emsp;Notwithstanding paragraph (1), the Commodity Futures Trading Commission shallconsult and coordinate with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding a product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title <sup>1</sup> or under any other law.
 
 #### (k) Exclusion for persons regulated by the Farm Credit Administration
 
 #### (1) In general
 
-&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> withrespect to a person regulated by the Farm Credit Administration.
+&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by the Farm Credit Administration.
 
 #### (2) Definition
 
@@ -336,7 +336,7 @@ The Small Business Act, referred to in subsec. (a)(2)(D)(iv), is Pub. L. 85–53
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (k)(2), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (k)(2), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 

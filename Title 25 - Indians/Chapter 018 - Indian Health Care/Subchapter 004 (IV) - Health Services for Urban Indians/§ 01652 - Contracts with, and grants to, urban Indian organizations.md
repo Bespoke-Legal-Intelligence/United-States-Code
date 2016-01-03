@@ -16,11 +16,11 @@ Amendment by Pub. L. 111–148 is based on section 163(b) of title I of S. 1790,
 
 #### Prior Provisions
 
-A prior section 1652, Pub. L. 94–437, title V, §502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, §7, Dec. 17, 1980, 94Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1652, Pub. L. 94–437, title V, §502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, §7, Dec. 17, 1980, 94 Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, text read as follows: "Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations to assist such organizations in the establishment and administration, within the urban centers in which such organizations are situated, of programs which meet the requirements set forth in this subchapter. The Secretary, through the Service, shall include such conditions as the Secretary considers necessary to effect the purpose of this subchapter in any contract which the Secretary enters into with, or in any grant the Secretary makes to, any urban Indian organization pursuant to this subchapter."
+<b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, text read as follows: "Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations to assist such organizations in the establishment and administration,within the urban centers in which such organizations are situated, of programs which meet the requirements set forth in this subchapter. The Secretary, through the Service, shall include such conditions as the Secretary considers necessary to effect the purpose of this subchapter in any contract which the Secretary enters into with, or in any grant the Secretary makes to, any urban Indian organization pursuant to this subchapter."
 
 <b>1992</b>—Pub. L. 102–573 substituted "Contracts with, and grants to, urban Indian organizations" for "Contracts with urban Indian organizations" in section catchline, and in text substituted "contracts with, or make grants to," for "contracts with" and inserted ", or in any grant the Secretary makes to," after "enters into with".
 

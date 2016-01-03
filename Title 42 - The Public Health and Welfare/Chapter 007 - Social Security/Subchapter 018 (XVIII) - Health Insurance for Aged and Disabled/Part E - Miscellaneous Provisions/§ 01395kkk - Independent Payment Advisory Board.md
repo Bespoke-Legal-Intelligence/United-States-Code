@@ -32,13 +32,13 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;Each proposal submitted under this section in a proposal year shall meet each of the following requirements:
 
-&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediatelypreceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
+&emsp;&emsp;&emsp;(i) If the Chief Actuary of the Centers for Medicare \& Medicaid Services has made a determination under paragraph (7)(A) in the determination year, the proposal shall include recommendations so that the proposal as a whole (after taking into account recommendations under clause (v)) will result in a net reduction in total Medicare program spending in the implementation year that is at least equal to the applicable savings target established under paragraph (7)(B) for such implementation year. In determining whether a proposal meets the requirement of the preceding sentence, reductions in Medicare program spending during the 3-month period immediately preceding the implementation year shall be counted to the extent that such reductions are a result of the implementation of recommendations contained in the proposal for a change in the payment rate for an item or service that was effective during such period pursuant to subsection (e)(2)(A).
 
 &emsp;&emsp;&emsp;(ii) The proposal shall not include any recommendation to ration health care, raise revenues or Medicare beneficiary premiums under section 1395i–2, 1395i–2a, or 1395r of this title, increase Medicare beneficiary cost-sharing (including deductibles, coinsurance, and copayments), or otherwise restrict benefits or modify eligibility criteria.
 
 &emsp;&emsp;&emsp;(iii) In the case of proposals submitted prior to December 31, 2018, the proposal shall not include any recommendation that would reduce payment rates for items and services furnished, prior to December 31, 2019, by providers of services (as defined in section 1395x(u) of this title) and suppliers (as defined in section 1395x(d) of this title) scheduled, pursuant to the amendments made by section 3401 of the Patient Protection and Affordable Care Act, to receive a reduction to the inflationary payment updates of such providers of services and suppliers in excess of a reduction due to productivity in a year in which such recommendations would take effect.
 
-&emsp;&emsp;&emsp;(iv) As appropriate, the proposal shall include recommendations to reduce Medicare payments under parts C and D, such as reductions in direct subsidy payments to Medicare Advantage and prescription drug plans specified under paragraph <sup>1</sup> (1) and (2) of section 1395w–115(a) of this title that are related to administrative expenses (including profits) for basic coverage, denying high bids or removing high bids for prescription drug coverage from the calculation of the national average monthly bid amount under section 1395w–113(a)(4) of this title, and reductions in payments to Medicare Advantage plans under clauses (i) and (ii) of section 1395w–23(a)(1)(B) of this title that are related to administrative expenses (including profits) and performance bonuses for Medicare Advantage plans under section 1395w–23(n) <sup>2</sup> of this title. Any such recommendation shall not affect the base beneficiary premium percentage specified under 1395w–113(a) <sup>3</sup> of this title or the full premium subsidy under section 1395w–114(a) of this title.
+&emsp;&emsp;&emsp;(iv) As appropriate, the proposal shall include recommendations to reduce Medicare payments under parts C and D, such as reductions in direct subsidy payments to Medicare Advantage and prescription drug plans specified under paragraph <sup>1</sup> (1) and (2) of section 1395w–115(a) of this title that are related to administrative expenses (including profits) for basic coverage, denying high bids or removing highbids for prescription drug coverage from the calculation of the national average monthly bid amount under section 1395w–113(a)(4) of this title, and reductions in payments to Medicare Advantage plans under clauses (i) and (ii) of section 1395w–23(a)(1)(B) of this title that are related to administrative expenses (including profits) and performance bonuses for Medicare Advantage plans under section 1395w–23(n) <sup>2</sup> of this title. Any such recommendation shall not affect the base beneficiary premium percentage specified under 1395w–113(a) <sup>3</sup> of this title or the full premium subsidy under section 1395w–114(a) of this title.
 
 &emsp;&emsp;&emsp;(v) The proposal shall include recommendations with respect to administrative funding for the Secretary to carry out the recommendations contained in the proposal.
 
@@ -98,7 +98,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) a year for which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year under paragraph (6)(A) that the growth rate described in clause (i) of such paragraph does not exceed the growth rate described in clause (ii) of such paragraph; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
+&emsp;&emsp;&emsp;&emsp;(II) a year in which the Chief Actuary of the Centers for Medicare \& MedicaidServices makes a determination in the determination year that the projected percentage increase (if any) for the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average) for the implementation year is less than the projected percentage increase (if any) in the Consumer Price Index for All Urban Consumers (all items; United States city average) for such implementation year.
 
 #### (iii) Start-up period
 
@@ -152,7 +152,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;&emsp;&emsp;(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians' services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
 
-&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published infinal rules but not yet implemented as of the making of such calculation.
+&emsp;&emsp;&emsp;&emsp;(II) take into account any delivery system reforms or other payment changes that have been enacted or published in final rules but not yet implemented as of the making of such calculation.
 
 #### (C) Medicare per capita target growth rate
 
@@ -250,7 +250,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (C) Limitation on changes to this subsection
 
-&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider any bill, resolution, amendment, or conference report that would repeal or otherwise change this subsection.
+&emsp;&emsp;It shall not be in order in the Senate or the House of Representatives to consider anybill, resolution, amendment, or conference report that would repeal or otherwise change this subsection.
 
 #### (D) Waiver
 
@@ -304,7 +304,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (iii) After passage
 
-&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from theother House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
+&emsp;&emsp;&emsp;If a bill introduced pursuant to paragraph (1) is received by one House from the other House, after such a bill is passed by the receiving House, then the vote on passage of the bill that originates in the receiving House shall be considered to be the vote on passage of the bill received from the other House as amended by the language of the receiving House.
 
 #### (iv) Disposition
 
@@ -334,7 +334,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (iv) Final disposition
 
-&emsp;&emsp;&emsp;After 30 hours of consideration, the Senate shall proceed, without any further debate on any question, to vote on the final disposition thereof to the exclusion of all amendments not then pending before the Senate at that time and to the exclusion of all motions, except a motion to table, or to reconsider and one quorum call on demand to establish the presence of a quorum (and motions required to establish a quorum) immediately before the final vote begins.
+&emsp;&emsp;&emsp;After 30 hours of consideration, the Senate shall proceed, without any further debate on any question, to vote on the finaldisposition thereof to the exclusion of all amendments not then pending before the Senate at that time and to the exclusion of all motions, except a motion to table, or to reconsider and one quorum call on demand to establish the presence of a quorum (and motions required to establish a quorum) immediately before the final vote begins.
 
 #### (E) Consideration in conference
 
@@ -374,7 +374,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided inparagraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
+&emsp;Notwithstanding any other provision of law, the Secretary shall, except as provided in paragraph (3), implement the recommendations contained in a proposal submitted by the Board or the President to Congress pursuant to this section on August 15 of the year in which the proposal is so submitted.
 
 #### (2) Application
 
@@ -396,7 +396,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or the President to Congress pursuant to this section if—
+&emsp;&emsp;The Secretary shall not implement the recommendations contained in a proposalsubmitted in a proposal year by the Board or the President to Congress pursuant to this section if—
 
 &emsp;&emsp;&emsp;(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: "This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act."; and
 
@@ -444,7 +444,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 &emsp;&emsp;(C) the title of which is as follows: "Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act"; and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approvesthe discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
+&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
 
 #### (2) Procedure
 
@@ -536,7 +536,7 @@ It is the purpose of this section to, in accordance with the following provision
 
 #### (C) Ethical disclosure
 
-&emsp;&emsp;The President shall establish a system for public disclosure by appointed members of the Board of financial and other potential conflicts of interest relating to such members. Appointed members of the Board shall be treated as officers in the executive branch for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;The President shall establish a system for public disclosure by appointed members ofthe Board of financial and other potential conflicts of interest relating to such members. Appointed members of the Board shall be treated as officers in the executive branch for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (D) Conflicts of interest
 
@@ -786,7 +786,7 @@ In this section:
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses forMedicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
+Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
 Section 1899A of the Social Security Act, referred to in subsecs. (e)(3)(A)(i), (f)(1)(C), (D), is section 1899A of act Aug. 14, 1935, which is classified to this section.
 
@@ -812,7 +812,7 @@ Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted "Submission 
 
 Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted "submit a proposal under this section to Congress and the President" for "transmit a proposal under this section to the President".
 
-Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
+Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year inwhich the Chief Actuary of the Centers for Medicare \& Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
 
 Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out "the Board under paragraph (3)(A)(i) or" before "the Secretary" and substituted "within 2 days" for "immediately".
 

@@ -60,7 +60,7 @@ In any case in which the Secretary fails make <sup>1</sup> a decision on a sect
 
 #### (1) Submission to Congress
 
-#### The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (2) Public availability
 

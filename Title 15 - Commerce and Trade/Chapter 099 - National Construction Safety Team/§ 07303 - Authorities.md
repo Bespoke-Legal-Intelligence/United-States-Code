@@ -4,7 +4,7 @@
 
 In investigating a building failure under this chapter, members of a Team, and any other person authorized by the Director to support a Team, on display of appropriate credentials provided by the Director and written notice of inspection authority, may—
 
-&emsp;(1) enter property where a building failure being investigated has occurred, or where building components, materials, and artifacts with respect to the building failure are located, and take action necessary, appropriate, and reasonable in light of the nature of the property to be inspected to carry out the duties of the Team under section 7301(b)(2)(A) and (B) of this title;
+&emsp;(1) enter property where a building failure being investigated has occurred, or wherebuilding components, materials, and artifacts with respect to the building failure are located, and take action necessary, appropriate, and reasonable in light of the nature of the property to be inspected to carry out the duties of the Team under section 7301(b)(2)(A) and (B) of this title;
 
 &emsp;(2) during reasonable hours, inspect any record (including any design, construction, or maintenance record), process, or facility related to the investigation;
 

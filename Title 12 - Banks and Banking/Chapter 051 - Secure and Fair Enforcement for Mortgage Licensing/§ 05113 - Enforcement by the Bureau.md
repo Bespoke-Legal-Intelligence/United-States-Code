@@ -48,7 +48,7 @@ The Director may—
 
 #### (A) Review by Director
 
-&emsp;&emsp;At any time after the respondent has been served with a temporary cease and desist order pursuant to paragraph (3), the respondent may apply to the Director to have theorder set aside, limited, or suspended. If the respondent has been served with a temporary cease and desist order entered without a prior hearing before the Director, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Director shall hold a hearing and render a decision on such application at the earliest possible time.
+&emsp;&emsp;At any time after the respondent has been served with a temporary cease and desist order pursuant to paragraph (3), the respondent may apply to the Director to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease and desist order entered without a prior hearing before the Director, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Director shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (B) Judicial review
 

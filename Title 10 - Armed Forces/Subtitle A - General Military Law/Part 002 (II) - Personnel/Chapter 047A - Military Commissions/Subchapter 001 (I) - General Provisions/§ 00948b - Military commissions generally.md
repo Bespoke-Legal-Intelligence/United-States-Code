@@ -2,7 +2,7 @@
 
 (a)
 
-Purpose.—This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
+Purpose.—This chapter establishes procedures governing the use of military commissionsto try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
 
 (b)
 

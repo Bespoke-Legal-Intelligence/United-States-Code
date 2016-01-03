@@ -68,7 +68,7 @@ Relationship to Other Pay and Allowances.—A bonus paid to a person or member u
 
 (f)
 
-Relationship to Prohibition on Bounties.—A bonus authorized under this section isnot a bounty for purposes of section 514(a) of title 10.
+Relationship to Prohibition on Bounties.—A bonus authorized under this section is not a bounty for purposes of section 514(a) of title 10.
 
 (g)
 
@@ -76,11 +76,13 @@ Repayment.—A person or member who receives a bonus under this section and who 
 
 (h)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2015.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2016.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(1), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(1), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §614(1), Dec. 19, 2014, 128 Stat. 3400.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 163; amended Pub. L. 111–84, div. A, title VI, §614(1), Oct. 28, 2009, 123Stat. 2353; Pub. L. 111–383, div. A, title VI, §614(1), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(1), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(1), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(1), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §614(1), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §614(1), Nov. 25, 2015, 129 Stat. 838.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 

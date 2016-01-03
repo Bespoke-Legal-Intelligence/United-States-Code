@@ -6,7 +6,7 @@
 
 (c)(1) The Comptroller General shall settle an account of an accountable official within 3 years after the date the Comptroller General receives the account. A copy of the certificate of settlement shall be provided the official.
 
-(2) The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period when the Government has or may have lost money because the official acted fraudulently or criminally.
+(2) The settlement of an account is conclusive on the Comptroller General after 3 years after the account is received by the Comptroller General. However, an amount may be charged against the account after the 3-year period whenthe Government has or may have lost money because the official acted fraudulently or criminally.
 
 (3) A 3-year period under this subsection is suspended during a war.
 

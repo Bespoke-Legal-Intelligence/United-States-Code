@@ -22,7 +22,7 @@ Additional Time for Responses.—If a contractor or subcontractor asserting a re
 
 (d)
 
-Multiple Challenges.—If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the earliest challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each challenge.
+Multiple Challenges.—If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the earliest challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction withan equitable opportunity to respond to each challenge.
 
 (e)
 
@@ -50,7 +50,7 @@ Challenge is sustained.—If the contracting officer's challenge to the restrict
 
 &emsp;&emsp;(A) the restriction is cancelled; and
 
-&emsp;&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor, as appropriate, is liable to the Federal Government for payment of the cost to the Federal Government of reviewing the asserted restriction and the fees andother expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the Federal Government in challenging the asserted restriction, unless special circumstances would make the payment unjust.
+&emsp;&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor, as appropriate, is liable to the Federal Government for payment of the cost to the Federal Government of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the Federal Government in challenging the asserted restriction, unless special circumstances would make the payment unjust.
 
 &emsp;(2)
 

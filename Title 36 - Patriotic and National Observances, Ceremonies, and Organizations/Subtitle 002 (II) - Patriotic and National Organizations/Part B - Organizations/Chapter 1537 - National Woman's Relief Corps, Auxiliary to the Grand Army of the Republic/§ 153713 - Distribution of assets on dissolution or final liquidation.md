@@ -6,7 +6,7 @@ On dissolution or final liquidation of the corporation, its assets shall be dist
 
 &emsp;(2) Assets held on condition requiring return or transfer on dissolution of the corporation shall be returned or transferred as required by the condition.
 
-&emsp;(3) Assets received and held subject to a limitation permitting use only for charitable, religious, benevolent, educational, or similar purposes, but not held on a condition requiring return or transfer on dissolution of the corporation, shall be transferred to one or more appropriate domestic or foreign corporations, societies, or organizations under a plan of distribution adopted as provided in this chapter.
+&emsp;(3) Assets received and held subject to a limitation permitting use only for charitable, religious, benevolent, educational, or similar purposes, but not held on a condition requiring return or transfer on dissolution of the corporation, shall be transferred to one or more appropriate domestic or foreign corporations,societies, or organizations under a plan of distribution adopted as provided in this chapter.
 
 &emsp;(4) Other assets shall be distributed as provided by the articles of incorporation or bylaws to the extent that the articles or bylaws provide the distributive rights of members, or any class of members, or provide for distribution to others.
 

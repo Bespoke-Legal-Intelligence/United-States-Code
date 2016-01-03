@@ -22,7 +22,7 @@ Covered Positions.—Subsection (a) applies to the following positions:
 
 &emsp;(3) Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.
 
-(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, §509(a), Oct. 5, 1999, 113 Stat. 592; Pub. L. 107–314, div. A, title IV, §405(a), Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–136, div. A, title V, §504(a), Nov. 24, 2003, 117 Stat. 1456.)
+(Added Pub. L. 103–337, div. A, title IV, §405(c)(1), Oct. 5, 1994, 108 Stat. 2745; amended Pub. L. 104–201, div. A, title IV, §404(a), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 106–65, div. A, title V, §509(a), Oct. 5, 1999, 113 Stat. 592; Pub. L. 107–314, div. A,title IV, §405(a), Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–136, div. A, title V, §504(a), Nov. 24, 2003, 117 Stat. 1456.)
 
 #### Amendments
 

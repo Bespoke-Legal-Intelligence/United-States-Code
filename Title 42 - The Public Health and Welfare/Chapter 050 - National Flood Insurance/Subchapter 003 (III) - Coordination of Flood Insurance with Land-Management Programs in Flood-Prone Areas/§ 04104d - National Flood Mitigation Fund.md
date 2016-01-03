@@ -34,7 +34,7 @@ Any amounts made available pursuant to subparagraph (A), (B), or (C) of subsecti
 
 #### (f) Investment
 
-If the Administrator determines that the amounts in the National Flood Mitigation Fundare in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
+If the Administrator determines that the amounts in the National Flood Mitigation Fund are in excess of amounts needed under subsection (a) of this section, the Administrator may invest any excess amounts the Administrator determines advisable in interest-bearing obligations issued or guaranteed by the United States.
 
 #### (g) Report
 

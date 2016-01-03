@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall establish a program under which
 
 #### (b) Tribally controlled institutions
 
-To the extent feasible, the program established under subsection (a) of this section shall—
+To the extent feasible, the program established under subsection (a) shall—
 
 &emsp;(1) be carried out through tribally controlled colleges or universities (within the meaning of section 1801(a)(4) of this title) and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) <sup>1</sup> of title 20),
 

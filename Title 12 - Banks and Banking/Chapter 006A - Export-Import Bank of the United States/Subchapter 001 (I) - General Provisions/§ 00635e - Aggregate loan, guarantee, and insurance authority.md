@@ -6,37 +6,15 @@
 
 &emsp;The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
 
-#### (2) Applicable amount
+#### (2) Applicable amount defined
 
-&emsp;In paragraph (1), the term "applicable amount" means—
+&emsp;In this subsection, the term "applicable amount", for each of fiscal years 2015 through 2019, means $135,000,000,000.
 
-&emsp;&emsp;(A) during fiscal year 2002, $80,000,000,000;
+#### (3) Freezing of lending cap if default rate is 2 percent or more
 
-&emsp;&emsp;(B) during fiscal year 2003, $85,000,000,000;
+&emsp;If the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
 
-&emsp;&emsp;(C) during fiscal year 2004, $90,000,000,000;
-
-&emsp;&emsp;(D) during fiscal year 2005, $95,000,000,000;
-
-&emsp;&emsp;(E) during fiscal year 2006, and each fiscal year thereafter through fiscal year 2011; <sup>1</sup> and
-
-&emsp;&emsp;(F) during fiscal year 2012 and each succeeding fiscal year, $120,000,000,000, except that—
-
-&emsp;&emsp;&emsp;(i) the applicable amount for each of fiscal years 2013 and 2014 shall be $130,000,000,000 if—
-
-&emsp;&emsp;&emsp;&emsp;(I) the Bank has submitted a report as required by section 4(a) of the Export-Import Bank Reauthorization Act of 2012; and
-
-&emsp;&emsp;&emsp;&emsp;(II) the rate calculated under section 635g(g)(1) of this title is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year; and
-
-&emsp;&emsp;&emsp;(ii) notwithstanding clause (i), the applicable amount for fiscal year 2014 shall be $140,000,000,000 if—
-
-&emsp;&emsp;&emsp;&emsp;(I) the rate calculated under section 635g(g)(1) of this title is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year;
-
-&emsp;&emsp;&emsp;&emsp;(II) the Bank has submitted a report as required by subsection (b) of section 5 of the Export-Import Bank Reauthorization Act of 2012, except that the preceding provisions of this subclause shall not apply if the Comptroller General has not submitted the report required by subsection (a) of such section 5 on or before July 1, 2013; and
-
-&emsp;&emsp;&emsp;&emsp;(III) the Secretary of the Treasury has submitted the reports required by section 635a–5(b) of this title.
-
-#### (3) Subject to appropriations
+#### (4) Subject to appropriations
 
 &emsp;All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
@@ -62,13 +40,21 @@
 
 &emsp;&emsp;The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I \[title VI, §§615, 620(d)\], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350.)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I \[title VI, §§615, 620(d)\], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763.)
 
-#### References in Text
+#### Amendment of Section
 
-Section 4(a) of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(i)(I), is section 4(a) of Pub. L. 112–122, May 30, 2012, 126 Stat. 351, which is not classified to the Code.
+<i>Pub. L. 114–94, div. E, title LI, §51002, Dec. 4, 2015, 129 Stat. 1763, provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:</i>
 
-Section 5 of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(ii)(II), is section 5 of Pub. L. 112–122, May 30, 2012, 126 Stat. 352, which is not classified to the Code.
+<i>(1) by redesignating subsection (b) as subsection (c); and</i>
+
+<i>(2) by inserting after subsection (a) the following:</i>
+
+#### <i>"(b) Reserve requirement</i>
+
+<i>"The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank."</i>
+
+<i>See 2015 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -76,13 +62,17 @@ A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(2) to (4). Pub. L. 114–94, §51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term "applicable amount".
+
+Subsecs. (b), (c). Pub. L. 114–94, §51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 <b>2012</b>—Subsec. (a)(2)(F). Pub. L. 112–122 added subpar. (F).
 
 <b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "during fiscal year 2006, $100,000,000,000."
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
-<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination."
+<b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15of each year, the President of the United States shall transmit to the Congress a report on such determination."
 
 <b>1992</b>—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted "$75,000,000,000" for "$40,000,000,000", redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: "
 
@@ -120,6 +110,10 @@ Subsec. (b). Pub. L. 93–646, §8(3), added subsec. (b).
 
 <b>1951</b>—Act Oct. 3, 1951, substituted "four and one-half" for "three and one-half".
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. E, title LI, §51002(b), Dec. 4, 2015, 129 Stat. 1763, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Dec. 4, 2015\]."
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as a note under section 635 of this title.
@@ -127,6 +121,4 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 #### Effective Date of 1954 Amendment
 
 For effective date of amendment by act Aug. 9, 1954, see note set out under section 635a of this title.
-
-<i><sup>1</sup></i><i> So in original. "2011" probably should be followed by a comma and a dollar amount.</i>
 

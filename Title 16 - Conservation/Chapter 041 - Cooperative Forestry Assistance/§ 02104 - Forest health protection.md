@@ -18,9 +18,9 @@ The Secretary may protect trees and forests and wood products, stored wood, and 
 
 #### (b) Activities
 
-Subject to subsections (c), (d), and (e) of this section and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
+Subject to subsections (c), (d), and (e) and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
 
-&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occur over time, and report annually concerning such surveys and monitoring;
+&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occurover time, and report annually concerning such surveys and monitoring;
 
 &emsp;(2) determine the biological, chemical, and mechanical measures necessary to prevent, retard, control, or suppress incipient, potential, threatening, or emergency insect infestations and disease conditions affecting trees;
 
@@ -66,13 +66,13 @@ The Secretary, by contract or cooperative agreement, may provide financial assis
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated annually such sums as may be necessary to carry out subsections (a) through (g) of this section.
+There are authorized to be appropriated annually such sums as may be necessary to carry out subsections (a) through (g).
 
 #### (i) Integrated pest management
 
 #### (1) In general
 
-&emsp;Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the "cooperator")—
+&emsp;Subject to the provisions of subsections (c) and (e), the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the "cooperator")—
 
 &emsp;&emsp;(A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
 
@@ -170,7 +170,7 @@ Fuelbreak construction.—Construction of a strategic system of defensible fuel 
 
 &emsp;"(2)
 
-Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
+Group selection and individual tree selection.—Utilization of group selection and individualtree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
 
 &emsp;&emsp;"(A)
 
@@ -258,7 +258,7 @@ In general.—Not later than February 28 of each year during the term of the pil
 
 &emsp;&emsp;"(B) A complete accounting of the use of funds and accounts made available under subsection (f)(1) for the previous fiscal year, including a schedule of the amounts drawn from each account used to perform resource management activities described in subsection (d).
 
-&emsp;&emsp;"(C) A description of total acres treated for each of the resource management activities required under subsection (d), forest health improvements, fire risk reductions, water yield increases, andother natural resources-related benefits achieved by the implementation of the resource management activities described in subsection (d).
+&emsp;&emsp;"(C) A description of total acres treated for each of the resource management activities required under subsection (d), forest health improvements, fire risk reductions, water yield increases, and other natural resources-related benefits achieved by the implementation of the resource management activities described in subsection (d).
 
 &emsp;&emsp;"(D) A description of the economic benefits to local communities achieved by the implementation of the pilot project.
 
@@ -290,7 +290,7 @@ Preparation.—The panel shall initiate such review no sooner than 18 months aft
 
 &emsp;"(3)
 
-Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project.
+Submission to the congress.—The panel shall submit the final report to the Congress as soon aspracticable, but in no case later than 18 months after completion of the pilot project.
 
 &emsp;"(4)
 

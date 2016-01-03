@@ -34,7 +34,7 @@ Pub. L. 95–256, §3(a), designated existing provisions as subsec. (a), substit
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 1986 Amendments
 

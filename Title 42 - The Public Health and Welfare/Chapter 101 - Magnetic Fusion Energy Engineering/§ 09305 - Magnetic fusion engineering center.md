@@ -26,7 +26,7 @@ In developing the plan, the Secretary shall include relevant factors including, 
 
 #### (c) Report to Congressional committees
 
-The Secretary shall submit not later than July 1, 1981, a report to the House Committee on Science and Technology and the Senate Committee on Energy and Natural Resources characterizing the plan and setting forth the steps necessary for implementation of the plan, including any steps already implemented.
+The Secretary shall submit not later than July 1, 1981, a report to the House Committee onScience and Technology and the Senate Committee on Energy and Natural Resources characterizing the plan and setting forth the steps necessary for implementation of the plan, including any steps already implemented.
 
 (Pub. L. 96–386, §6, Oct. 7, 1980, 94 Stat. 1541.)
 

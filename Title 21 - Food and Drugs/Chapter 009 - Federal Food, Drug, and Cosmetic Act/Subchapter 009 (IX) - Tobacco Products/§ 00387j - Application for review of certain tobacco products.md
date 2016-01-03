@@ -172,7 +172,7 @@
 
 #### (3) Temporary suspension
 
-&emsp;If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a tobacco product under an order would cause serious, adverse health consequences or death, that is greater than ordinarily caused by tobacco products on the market, the Secretary shall by order temporarily suspend the authority of the manufacturer to market the product. If the Secretary issues such an order, the Secretaryshall proceed expeditiously under paragraph (1) to withdraw such application.
+&emsp;If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a tobacco product under an order would cause serious, adverse health consequences or death, that is greater than ordinarily caused by tobacco products on the market, the Secretary shall by order temporarily suspend the authority of the manufacturer to market the product. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (e) Service of order
 

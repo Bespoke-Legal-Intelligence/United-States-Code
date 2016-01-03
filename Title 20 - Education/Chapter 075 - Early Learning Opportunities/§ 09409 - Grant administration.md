@@ -38,7 +38,7 @@ A State that receives a grant under this chapter may use—
 
 &emsp;&emsp;&emsp;(iv) ensure collaboration with respect to assistance provided under this chapter between the State agency responsible for education and the State agency responsible for children and family services;
 
-&emsp;&emsp;&emsp;(v) prepare and submit to the Secretary, an annual report on the activities carried out in the State under this chapter, which shall include a statement describing how all funds received under this chapter are expended and documentation of the effectsthat resources under this chapter have had on—
+&emsp;&emsp;&emsp;(v) prepare and submit to the Secretary, an annual report on the activities carried out in the State under this chapter, which shall include a statement describing how all funds received under this chapter are expended and documentation of the effects that resources under this chapter have had on—
 
 &emsp;&emsp;&emsp;&emsp;(I) parental capacity to improve learning readiness in their young children;
 

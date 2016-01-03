@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out the provisions of this subc
 
 #### (c) Availability of appropriations
 
-Amounts appropriated under this section for any fiscal year for programs and activitiesunder this subchapter shall be made available for obligation in the succeeding fiscal year.
+Amounts appropriated under this section for any fiscal year for programs and activities under this subchapter shall be made available for obligation in the succeeding fiscal year.
 
 #### (d) Authorization of appropriations for leveraged resources
 
@@ -32,7 +32,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted "and $5,100,000,000 for each of fiscal years 2005 through 2007" for "and $2,000,000,000 for each of fiscal years 2002 through 2004".
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 substituted "and $5,100,000,000 for each of fiscal years 2005 through 2007"for "and $2,000,000,000 for each of fiscal years 2002 through 2004".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–285, §302(a), inserted ", such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004" after "1995 through 1999".
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 103–43, §2011(2), substituted "for each of the fiscal ye
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting "(other than section 8626a of this title)" after "subchapter", was executed to subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 101–501, §702, struck out "$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and" before"$2,307,000,000" and inserted ", $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section." after "1990".
+Pub. L. 101–501, §702, struck out "$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and" before "$2,307,000,000" and inserted ", $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section." after "1990".
 
 Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 

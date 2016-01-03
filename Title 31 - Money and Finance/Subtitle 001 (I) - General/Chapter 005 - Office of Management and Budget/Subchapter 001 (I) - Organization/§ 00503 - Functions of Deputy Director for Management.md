@@ -8,13 +8,13 @@
 
 &emsp;(3) Review agency budget requests for financial management systems and operations, and advise the Director on the resources required to develop and effectively operate and maintain Federal Government financial management systems and to correct major deficiencies in such systems.
 
-&emsp;(4) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensure that they are in accordance with financial management plans of the Office of Management and Budget.
+&emsp;(4) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensurethat they are in accordance with financial management plans of the Office of Management and Budget.
 
 &emsp;(5) Monitor the financial execution of the budget in relation to actual expenditures, including timely performance reports.
 
 &emsp;(6) Oversee, periodically review, and make recommendations to heads of agencies on the administrative structure of agencies with respect to their financial management activities.
 
-&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officersand for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
+&emsp;(7) Develop and maintain qualification standards for agency Chief Financial Officers and for agency Deputy Chief Financial Officers appointed under sections 901 and 903, respectively (excluding any officer designated or appointed under section 901(c)).
 
 &emsp;(8) Provide advice to agency heads with respect to the selection of agency Chief Financial Officers and Deputy Chief Financial Officers (excluding any officer designated or appointed under section 901(c)).
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: "This section \[amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001."
+Pub. L. 106–58, title VI, §638(h), Sept. 29, 1999, 113 Stat. 476, provided that: "This section \[amending this sectionand sections 901 and 1105 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect at noon on January 20, 2001."
 

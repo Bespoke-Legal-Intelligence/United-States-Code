@@ -10,7 +10,7 @@ The Foundation is authorized to—
 
 &emsp;&emsp;(C) provide traineeship and fellowship opportunities for women in science and engineering;
 
-&emsp;(2) support programs in science, engineering, and mathematics in elementary and secondary schools so as to stimulate the acquisition of knowledge, skills, and information by femalestudents and to increase female student awareness of career opportunities requiring scientific and engineering skills;
+&emsp;(2) support programs in science, engineering, and mathematics in elementary and secondary schools so as to stimulate the acquisition of knowledge, skills, and information by female students and to increase female student awareness of career opportunities requiring scientific and engineering skills;
 
 &emsp;(3) support activities in continuing education in science and engineering which provide opportunities for women who—
 
@@ -208,7 +208,7 @@ Meetings.—The Commission shall meet not fewer than 5 times in connection with 
 
 "(i)
 
-Employment Status.—Members of the Commission shall not be deemed to be employees of the Federal Government by reason of their work on the Commission except for the purposes of—
+Employment Status.—Members of the Commission shall not be deemed to be employees of the FederalGovernment by reason of their work on the Commission except for the purposes of—
 
 &emsp;"(1) the tort claims provisions of chapter 171 of title 28, United States Code; and
 

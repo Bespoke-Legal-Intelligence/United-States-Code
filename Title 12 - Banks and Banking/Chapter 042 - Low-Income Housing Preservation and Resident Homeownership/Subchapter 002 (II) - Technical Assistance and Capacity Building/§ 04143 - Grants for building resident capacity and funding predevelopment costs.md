@@ -6,11 +6,11 @@ Assistance made available under this section shall be used for direct assistance
 
 #### (b) Allocation
 
-30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d) of this section. The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e) of this section.
+30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d). The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e).
 
 #### (c) Limitation on grant amounts
 
-A resident capacity grant under subsection (d) of this section may not exceed $30,000 per project and a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
+A resident capacity grant under subsection (d) may not exceed $30,000 per project and a grant under subsection (e) for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
 
 #### (d) Resident capacity grants
 
@@ -38,17 +38,17 @@ A resident capacity grant under subsection (d) of this section may not exceed $3
 
 #### (f) Grant applications
 
-Grant applications for assistance under subsections (d) and (e) of this section shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under section 4145(b) of this title.
+Grant applications for assistance under subsections (d) and (e) shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under section 4145(b) of this title.
 
 #### (g) Appeal
 
-If an application for assistance under subsections <sup>1</sup> (d) or (e) of this section is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+If an application for assistance under subsections <sup>1</sup> (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
 (Pub. L. 100–242, title II, §253, as added Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3766.)
 
 #### References in Text
 
-Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, §601(a), which was known as the Emergency Low Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+Title II of the Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (d)(2), probably means title II of Pub. L. 100–242, Feb. 5, 1988, 102 Stat. 1877, prior to being amended generally by Pub. L. 101–625, §601(a), which was known as the EmergencyLow Income Housing Preservation Act of 1987 and which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is section 604 of Pub. L. 101–625, which is set out as a note under section 4101 of this title.
 

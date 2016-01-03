@@ -4,13 +4,13 @@
 
 #### (1) Cash deposits; wire transfers
 
-&emsp;Except as provided in subsection (e) of this section and in section 4003 of this title, in any case in which—
+&emsp;Except as provided in subsection (e) and in section 4003 of this title, in any case in which—
 
 &emsp;&emsp;(A) any cash is deposited in an account at a receiving depository institution staffed by individuals employed by such institution, or
 
 &emsp;&emsp;(B) funds are received by a depository institution by wire transfer for deposit in an account at such institution,
 
-> &emsp;such cash or funds shall be available for withdrawal not later than the business day afterthe business day on which such cash is deposited or such funds are received for deposit.
+> &emsp;such cash or funds shall be available for withdrawal not later than the business day after the business day on which such cash is deposited or such funds are received for deposit.
 
 #### (2) Government checks; certain other checks
 
@@ -62,13 +62,13 @@
 
 #### (2) Availability of funds deposited by nonlocal checks
 
-&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 4 business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
+&emsp;Subject to paragraph (3) of this subsection, subsections (a)(2), (d), and (e) of this section, and section 4003 of this title, not more than 4business days shall intervene between the business day on which funds are deposited in an account at a depository institution by a check drawn on a nonlocal originating depository institution and the business day on which such funds are available for withdrawal.
 
 #### (3) Time period adjustments for cash withdrawal of certain checks
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
+&emsp;&emsp;Except as provided in subparagraph (B), funds deposited in an account in a depository institution by check (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under paragraph (1) or (2).
 
 #### (B) 5 p.m. cash availability
 
@@ -76,7 +76,7 @@
 
 #### (C) $200 availability
 
-&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+&emsp;&emsp;Any amount available for withdrawal under this paragraph shall be in addition to the amount available under subsection (a)(2)(D).
 
 #### (4) Applicability
 
@@ -94,7 +94,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2)) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
 
 #### (ii) 5 p.m. cash availability
 
@@ -102,7 +102,7 @@
 
 #### (iii) $200 availability
 
-&emsp;&emsp;&emsp;Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D) of this section.
+&emsp;&emsp;&emsp;Any amount available for withdrawal under this subparagraph shall be in addition to the amount available under subsection (a)(2)(D).
 
 #### (2) Availability of nonlocal checks
 
@@ -110,17 +110,17 @@
 
 #### (3) Applicability
 
-&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4) of this section.
+&emsp;This subsection shall apply with respect to funds deposited by check in an account at a depository institution after August 31, 1988, and before September 1, 1990, except as may be otherwise provided under subsection (b)(4).
 
 #### (d) Time period adjustments
 
 #### (1) Reduction generally
 
-&emsp;Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+&emsp;Notwithstanding any other provision of law, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
-&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) of this section shall be extended by 1 business day in the case of any deposit which is both—
+&emsp;Notwithstanding any other provision of law, any time period established under subsection (b), (c), or (e) shall be extended by 1 business day in the case of any deposit which is both—
 
 &emsp;&emsp;(A) deposited in an account at a depository institution which is located in Alaska, Hawaii, Puerto Rico, or the Virgin Islands; and
 
@@ -140,15 +140,15 @@
 
 &emsp;&emsp;&emsp;(i) a cash deposit;
 
-&emsp;&emsp;&emsp;(ii) a deposit made by a check described in subsection (a)(2) of this section;
+&emsp;&emsp;&emsp;(ii) a deposit made by a check described in subsection (a)(2);
 
-&emsp;&emsp;&emsp;(iii) a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2) of this section); or
+&emsp;&emsp;&emsp;(iii) a deposit made by a check drawn on a local originating depository institution (other than a check described in subsection (a)(2)); or
 
-&emsp;&emsp;&emsp;(iv) a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2) of this section).
+&emsp;&emsp;&emsp;(iv) a deposit made by a check drawn on a nonlocal originating depository institution (other than a check described in subsection (a)(2)).
 
 #### (2) Proprietary ATM—temporary and permanent schedules
 
-&emsp;The provisions of subsections (a), (b), and (c) of this section shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
+&emsp;The provisions of subsections (a), (b), and (c) shall apply with respect to any funds deposited at a proprietary automated teller machine for deposit in an account at a depository institution.
 
 #### (3) Study and report on ATM's
 
@@ -160,7 +160,7 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(1) such checks be physically returned to such depository institution; or
 
-&emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) of this section or in the regulations issued under any such subsection.
+&emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
 (Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086.)
 

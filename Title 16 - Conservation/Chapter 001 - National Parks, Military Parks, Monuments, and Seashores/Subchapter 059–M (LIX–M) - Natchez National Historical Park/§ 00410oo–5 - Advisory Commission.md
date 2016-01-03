@@ -18,7 +18,7 @@ Members of the Advisory Commission shall serve without compensation as such, but
 
 #### (e) Charter
 
-The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972;86 Stat. 776), are hereby waived with respect to this Advisory Commission.
+The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Advisory Commission.
 
 (Pub. L. 100–479, §6, Oct. 7, 1988, 102 Stat. 2326.)
 

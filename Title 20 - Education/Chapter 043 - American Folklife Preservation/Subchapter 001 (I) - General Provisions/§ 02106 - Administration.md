@@ -34,5 +34,5 @@ In subsec. (a)(8), "section 3324(a) and (b) of title 31" substituted for "sectio
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end ", but no individual so appointedshall receive compensation in excess of the rate received by the Deputy Director of the Center".
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–275 struck out before semicolon at end ", but no individual so appointed shall receive compensation in excess of the rate received by the Deputy Director of the Center".
 

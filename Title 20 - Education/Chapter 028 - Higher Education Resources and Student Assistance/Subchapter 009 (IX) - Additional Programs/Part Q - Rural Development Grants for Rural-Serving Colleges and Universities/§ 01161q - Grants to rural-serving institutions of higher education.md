@@ -52,7 +52,7 @@ For the purposes of this section:
 
 &emsp;&emsp;(A) one or more local educational agencies serving a rural area; and
 
-&emsp;&emsp;(B) one or more regional employers or local boards (as such term is defined in section 2801 of title 29) serving a rural area.
+&emsp;&emsp;(B) one or more regional employers or local boards (as such term is defined in section 3102 of title 29) serving a rural area.
 
 #### (2) Optional partners
 
@@ -104,7 +104,7 @@ A rural-serving institution of higher education that receives a grant under this
 
 &emsp;&emsp;(B) programs that provide students and families of rural high schools access and exposure to campuses, classes, programs, and internships of rural-serving institutions of higher education, including covering the cost of transportation to and from such institutions; and
 
-&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developing interest in attending rural-serving institutions of higher education.
+&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developinginterest in attending rural-serving institutions of higher education.
 
 &emsp;(2) To increase enrollment rates of nontraditional students in degree programs at rural-serving institutions of higher education, which may include—
 
@@ -122,17 +122,19 @@ A rural-serving institution of higher education that receives a grant under this
 
 There are authorized to be appropriated to carry out this section such sums as many be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 89–329, title VIII, §861, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3423; amended Pub. L. 113–128, title V, §512(n)(6), July 22, 2014, 128 Stat. 1711.)
-
-#### Amendment of Subection (c)(1)(B)
-
-<i>Pub. L. 113–128, title V, §§506, 512(n)(6), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(1)(B) of this section is amended</i><i>by striking "local boards (as such term is defined in section 2801 of title 29)" and inserting "local boards (as such term is defined in section 3102 of title 29)". See 2014 Amendment note below.</i>
+(Pub. L. 89–329, title VIII, §861, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3423; amended Pub. L. 113–128, title V, §512(n)(6), July 22, 2014, 128 Stat. 1711; Pub. L. 114–95, title IX, §9215(oo)(12), Dec. 10, 2015, 129 Stat. 2180.)
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(2)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
 <b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–128 substituted "local boards (as such term is defined in section 3102 of title 29)" for "local boards (as such term is defined in section 2801 of title 29)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

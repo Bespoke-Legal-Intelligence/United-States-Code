@@ -98,7 +98,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (C) Notification by Attorney General regarding submitted names
 
-&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B),the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
+&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
 
 #### (4) Notifications by Secretary
 
@@ -150,7 +150,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Disclosure of information
 
-&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of thissection shall not be disclosed under section 552 of title 5.
+&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>1</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
 
 #### (8) Notifications regarding theft or loss of agents
 
@@ -212,7 +212,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (4) Agricultural emergencies
 
-&emsp;Upon request of the Secretary of Agriculture, after the granting by such Secretary of an exemption under section 8401(g)(1)(D) of title 7 pursuant to a finding that there is an agricultural emergency, the Secretary of Health and Human Services may temporarily exempt a person from the applicability of the requirements of this section, in whole or in part, to provide for the timely participation of the person in a response to the agricultural emergency. With respect to the emergency involved, the exemption under this paragraph for a person may not exceed 30 days, except that upon request of the Secretary of Agriculture, the Secretary of Health and Human Services may, after review of whether such exemption remains necessary, provide one extension of an additional 30 days.
+&emsp;Upon request of the Secretary of Agriculture, after the granting by such Secretaryof an exemption under section 8401(g)(1)(D) of title 7 pursuant to a finding that there is an agricultural emergency, the Secretary of Health and Human Services may temporarily exempt a person from the applicability of the requirements of this section, in whole or in part, to provide for the timely participation of the person in a response to the agricultural emergency. With respect to the emergency involved, the exemption under this paragraph for a person may not exceed 30 days, except that upon request of the Secretary of Agriculture, the Secretary of Health and Human Services may, after review of whether such exemption remains necessary, provide one extension of an additional 30 days.
 
 #### (h) Disclosure of information
 
@@ -274,11 +274,11 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (2) Applicability of certain provisions
 
-&emsp;The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretarymay delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin\(as defined in subsection (l) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (l) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
@@ -362,7 +362,7 @@ Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 
 "(a)
 
-Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the PublicHealth Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
 "(b)
 

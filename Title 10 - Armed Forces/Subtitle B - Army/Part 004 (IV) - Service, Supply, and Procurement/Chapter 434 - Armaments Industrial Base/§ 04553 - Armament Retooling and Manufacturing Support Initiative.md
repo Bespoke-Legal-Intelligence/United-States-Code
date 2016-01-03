@@ -22,7 +22,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;(7) To reduce the cost of products of the Department of Defense produced at eligible facilities.
 
-&emsp;(8) To leverage private investment at eligible facilities through long-term facility usecontracts, property management contracts, leases, or other agreements that support and advance the policies and purposes of this chapter, for the following activities:
+&emsp;(8) To leverage private investment at eligible facilities through long-term facility use contracts, property management contracts, leases, or other agreements that support and advance the policies and purposes of this chapter, for the following activities:
 
 &emsp;&emsp;(A) Recapitalization of plant and equipment.
 

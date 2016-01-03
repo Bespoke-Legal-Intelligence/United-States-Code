@@ -32,7 +32,7 @@
 
 &emsp;(A) establishing a maximum monthly copayment (based on all income and assets of the veteran and the spouse of such veteran);
 
-&emsp;(B) protecting the spouse of a veteran from financial hardship by not counting all of the income and assets of the veteran and spouse (in the case of a spouse who resides in the community) as available for determining the copayment obligation; and
+&emsp;(B) protecting the spouse of a veteran from financial hardship by not counting all of theincome and assets of the veteran and spouse (in the case of a spouse who resides in the community) as available for determining the copayment obligation; and
 
 &emsp;(C) allowing the veteran to retain a monthly personal allowance.
 
@@ -116,7 +116,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 "(e)
 
-Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities,including those without a long-term care facility of the Department.
+Allocation of Funds to Facilities.—The Secretary shall allocate funds appropriated pursuant to the authorization of appropriations in subsection (d) to individual medical facilities of the Department in such amounts as the Secretary determines appropriate, based upon proposals submitted by such facilities for the use of such funds for improvements to the support of the provision of caregiver assistance services. Special consideration should be given to rural facilities, including those without a long-term care facility of the Department.
 
 "(f)
 
@@ -142,7 +142,7 @@ Locations of Pilot Programs.—In selecting locations in which the pilot program
 
 "(c)
 
-Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall be designed to provide participating veterans with integrated, comprehensive services which include the following:
+Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall bedesigned to provide participating veterans with integrated, comprehensive services which include the following:
 
 &emsp;"(1) Adult-day health care services on an eight-hour per day, five-day per week basis.
 
@@ -232,7 +232,7 @@ Locations of Pilot Program.—(1) The pilot program shall be carried out in a de
 
 "(c)
 
-Scope of Program.—In carrying out the pilot program, the Secretary may enter into contracts withappropriate facilities for the provision for a period of up to six months of assisted living services on behalf of eligible veterans in the region where the program is carried out.
+Scope of Program.—In carrying out the pilot program, the Secretary may enter into contracts with appropriate facilities for the provision for a period of up to six months of assisted living services on behalf of eligible veterans in the region where the program is carried out.
 
 "(d)
 

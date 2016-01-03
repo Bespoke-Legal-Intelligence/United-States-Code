@@ -24,7 +24,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 &emsp;(3) is confined by military or civilian authorities for more than one day in connection with a trial, whether before, during, or after the trial; or
 
-&emsp;(4) is unable for more than one day, as determined by competent authority, to perform his duties because of intemperate use of drugs oralcoholic liquor, or because of disease or injury resulting from his misconduct;
+&emsp;(4) is unable for more than one day, as determined by competent authority, to perform his duties because of intemperate use of drugs or alcoholic liquor, or because of disease or injury resulting from his misconduct;
 
 > the period of such desertion, absence, confinement, or inability to perform duties may not be counted in computing, for any purpose other than basic pay under section 205 of title 37, the officer's length of service.
 

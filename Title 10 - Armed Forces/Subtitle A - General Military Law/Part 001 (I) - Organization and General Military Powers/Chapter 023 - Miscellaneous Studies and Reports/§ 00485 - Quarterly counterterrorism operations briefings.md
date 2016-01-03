@@ -2,7 +2,7 @@
 
 (a)
 
-Briefings Required.—The Secretary of Defense shall provide to the congressional defensecommittees quarterly briefings outlining Department of Defense counterterrorism operations and related activities.
+Briefings Required.—The Secretary of Defense shall provide to the congressional defense committees quarterly briefings outlining Department of Defense counterterrorism operations and related activities.
 
 (b)
 

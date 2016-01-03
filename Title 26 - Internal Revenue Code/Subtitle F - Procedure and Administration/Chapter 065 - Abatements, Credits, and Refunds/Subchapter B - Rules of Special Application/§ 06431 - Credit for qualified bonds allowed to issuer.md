@@ -14,7 +14,7 @@ For purposes of section 148, the yield on a qualified bond shall be reduced by t
 
 #### (d) Interest payment date
 
-For purposes of this subsection, the term "interest payment date" means each date on which interest is payable by the issuer under the terms of the bond.
+For purposes of this subsection, the term "interest payment date" means each date on whichinterest is payable by the issuer under the terms of the bond.
 
 #### (e) Qualified bond
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provision of the 
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub.L. 111–312, set out as a note under section 54E of this title.
+Amendment by Pub. L. 111–312 applicable to obligations issued after Dec. 31, 2010, see section 758(c) of Pub. L. 111–312, set out as a note under section 54E of this title.
 
 Pub. L. 111–147, title III, §301(c)(1), Mar. 18, 2010, 124 Stat. 78, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Mar. 18, 2010\]."
 

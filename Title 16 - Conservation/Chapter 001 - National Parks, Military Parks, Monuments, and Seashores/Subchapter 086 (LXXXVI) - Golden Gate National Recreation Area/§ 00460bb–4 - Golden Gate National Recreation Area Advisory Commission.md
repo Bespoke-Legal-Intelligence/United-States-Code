@@ -18,7 +18,7 @@ Members of the Commission shall serve without compensation, as such, but the Sec
 
 #### (e) Consultations of Secretary with members
 
-The Secretary, or his designee, shall from time to time, but at least annually, meet and consult with the Commission on general policies and specific matters related to planning, administration and development affecting the recreation area and other units of the national park system in Marin, San Mateo, and San Francisco Counties.
+The Secretary, or his designee, shall from time to time, but at least annually, meet andconsult with the Commission on general policies and specific matters related to planning, administration and development affecting the recreation area and other units of the national park system in Marin, San Mateo, and San Francisco Counties.
 
 #### (f) Voting
 

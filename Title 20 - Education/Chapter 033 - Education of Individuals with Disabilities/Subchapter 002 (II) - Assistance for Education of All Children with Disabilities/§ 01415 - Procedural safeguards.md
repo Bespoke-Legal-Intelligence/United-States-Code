@@ -144,7 +144,7 @@ The procedures required by this section shall include the following:
 
 #### (2) Contents
 
-&emsp;The procedural safeguards notice shall include a full explanation of the procedural safeguards, written in the native language of the parents (unless it clearly is not feasible to do so) and written in an easily understandable manner, available under this section and under regulations promulgated by the Secretary relating to—
+&emsp;The procedural safeguards notice shall include a full explanation of the procedural safeguards, written in the native language of the parents (unless it clearly is not feasible to do so) and written in an easily understandablemanner, available under this section and under regulations promulgated by the Secretary relating to—
 
 &emsp;&emsp;(A) independent educational evaluation;
 
@@ -336,7 +336,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (F) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the right of a parent to file a complaint with the State educational agency.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the right of a parent to filea complaint with the State educational agency.
 
 #### (g) Appeal
 
@@ -380,7 +380,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (A) In general
 
-&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
+&emsp;&emsp;Any party aggrieved by the findings and decision made under subsection (f) or (k) who does not have the right to an appeal under subsection (g), and any party aggrieved by the findings and decision made under this subsection, shall have the right to bring a civil action with respect to the complaint presented pursuant to this section, which action may be brought in any State court of competent jurisdiction or in a district court of the United States, without regard to the amount in controversy.
 
 #### (B) Limitation
 
@@ -562,7 +562,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;When an appeal under paragraph (3) has been requested by either the parent or the local educational agency—
 
-&emsp;&emsp;(A) the child shall remain in the interim alternative educational setting pending the decision of the hearing officer or until the expiration of the time period provided for in paragraph (1)(C), whichever occurs first, unless the parent and the State or local educational agency agree otherwise; and
+&emsp;&emsp;(A) the child shall remain in the interim alternative educational setting pending the decision of the hearing officer or until the expiration of the time period provided for inparagraph (1)(C), whichever occurs first, unless the parent and the State or local educational agency agree otherwise; and
 
 &emsp;&emsp;(B) the State or local educational agency shall arrange for an expedited hearing, which shall occur within 20 school days of the date the hearing is requested and shall result in a determination within 10 school days after the hearing.
 
@@ -664,7 +664,7 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21,Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

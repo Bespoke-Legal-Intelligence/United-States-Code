@@ -8,7 +8,7 @@ Commercial provider.—The term "commercial provider" means any person or entity
 
 &emsp;(2)
 
-In-space transportation services.—The term "in-space transportation services" means operations and activities involved in the direct transportation or attempted transportation of a payload or object from one orbit to another by means of an in-space transportation vehicle.
+In-space transportation services.—The term "in-space transportation services"means operations and activities involved in the direct transportation or attempted transportation of a payload or object from one orbit to another by means of an in-space transportation vehicle.
 
 &emsp;(3)
 

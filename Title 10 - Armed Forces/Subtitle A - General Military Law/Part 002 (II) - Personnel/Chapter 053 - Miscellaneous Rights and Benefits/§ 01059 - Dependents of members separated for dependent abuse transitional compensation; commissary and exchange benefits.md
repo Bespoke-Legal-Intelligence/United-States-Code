@@ -50,7 +50,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 (2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
-(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
+(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conductdischarge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
 (B) If administrative separation of a member from active duty is proposed on a basis that includes a dependent-abuse offense and the proposed administrative separation is disapproved by competent authority under applicable regulations, payment of transitional compensation in such case shall cease.
 
@@ -94,7 +94,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulationsto carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -142,7 +142,7 @@ Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
 
 <b>2002</b>—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)" after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out "(except as otherwise provided in this subsection)"after "such compensation shall" and inserted before period at end ", including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse".
 
 Subsec. (d)(2). Pub. L. 105–261, §570(a)(2), substituted "is or, but for subsection (g), would be eligible" for "(but for subsection (g)) would be eligible" and "compensation under this section shall" for "such compensation shall".
 
@@ -216,5 +216,5 @@ Pub. L. 103–160, div. A, title V, §554(b), Nov. 30, 1993, 107 Stat. 1666, as 
 
 #### Duration of Transitional Compensation Payments
 
-Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: "Policies under subsection\(e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\]."
+Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: "Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\]."
 

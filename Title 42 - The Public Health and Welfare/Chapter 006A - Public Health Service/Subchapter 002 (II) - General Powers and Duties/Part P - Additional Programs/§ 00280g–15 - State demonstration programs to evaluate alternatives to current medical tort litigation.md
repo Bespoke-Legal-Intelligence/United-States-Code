@@ -42,7 +42,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (3) Sources of compensation
 
-&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternativeto current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
+&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternative to current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
 
 #### (4) Scope
 
@@ -118,7 +118,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (2) By Secretary
 
-&emsp;The Secretary shall submit to Congress an annual compendium of the reports submitted under paragraph (1) and an analysis of the activities funded under subsection (a) that examines any differences that result from such activities in terms of the quality of care, number and nature of medical errors, medical resources used, length of time for dispute resolution, and the availability and price of liability insurance.
+&emsp;The Secretary shall submit to Congress an annual compendium of the reports submittedunder paragraph (1) and an analysis of the activities funded under subsection (a) that examines any differences that result from such activities in terms of the quality of care, number and nature of medical errors, medical resources used, length of time for dispute resolution, and the availability and price of liability insurance.
 
 #### (f) Technical assistance
 
@@ -200,11 +200,11 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (3) Reports
 
-&emsp;Not later than December 31, 2016, the Medicare Payment Advisory Commission and the Medicaid and CHIP Payment and Access Commission shall each submit to Congress a report that includes the findings and recommendations of each respective Commission based on independent reviews conducted under paragraphs (1) and (2), including an analysis of the impact of the alternatives reviewed on the efficiency and effectiveness of the respective programs.
+&emsp;Not later than December 31, 2016, the Medicare Payment Advisory Commission and theMedicaid and CHIP Payment and Access Commission shall each submit to Congress a report that includes the findings and recommendations of each respective Commission based on independent reviews conducted under paragraphs (1) and (2), including an analysis of the impact of the alternatives reviewed on the efficiency and effectiveness of the respective programs.
 
 #### (i) Option to provide for initial planning grants
 
-Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting thecriteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
+Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
 
 #### (j) Definitions
 

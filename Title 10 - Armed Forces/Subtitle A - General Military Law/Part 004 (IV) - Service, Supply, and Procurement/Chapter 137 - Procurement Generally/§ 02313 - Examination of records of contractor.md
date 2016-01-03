@@ -4,7 +4,7 @@
 
 Agency Authority.—(1) The head of an agency, acting through an authorized representative, is authorized to inspect the plant and audit the records of—
 
-&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
+&emsp;(A) a contractor performing a cost-reimbursement, incentive, time-and-materials,labor-hour, or price-redeterminable contract, or any combination of such contracts, made by that agency under this chapter; and
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
@@ -20,7 +20,7 @@ Agency Authority.—(1) The head of an agency, acting through an authorized repr
 
 (b)
 
-DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency (orany successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
+DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency (or any successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
 
 (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
 
@@ -72,7 +72,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term "records" includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat.502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
 
 Historical and Revision Notes
 
@@ -133,6 +133,68 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 2302 of this title.
+
+#### Exception From Records Examination Requirement
+
+Requirements under subsec. (b) of this section not applicable to certain contracts valued at less than $7,500,000 awarded to small business or nontraditional defense contractors, with certain exceptions, see section 873(b) of Pub. L. 114–92, set out as a Pilot Program for Streamlining Awards for Innovative Technology Projects note under section 2306a of this title.
+
+#### Improved Auditing of Contracts
+
+Pub. L. 114–92, div. A, title VIII, §893, Nov. 25, 2015, 129 Stat. 952, provided that:
+
+"(a)
+
+Prohibition on Performance of Non-defense Audits by DCAA.—
+
+&emsp;"(1)
+
+In general.—Effective on the date of the enactment of this Act \[Nov. 25, 2015\], the Defense Contract Audit Agency may not provide audit support for non-Defense Agencies unless the Secretary of Defense certifies that the backlog for incurred cost audits is less than 18 months of incurred cost inventory.
+
+&emsp;"(2)
+
+Adjustment in funding for reimbursements from non-defense agencies.—The amount appropriated and otherwise available to the Defense Contract Audit Agency for a fiscal year beginning after September 30, 2016, shall be reduced by an amount equivalent to any reimbursements received by the Agency from non-Defense Agencies for audit support provided.
+
+"(b)
+
+Amendments to Defense Contract Audit Agency Annual Report.—\[Amended section 2313a of this title.\]
+
+"(c)
+
+Review of Acquisition Oversight and Audits.—
+
+&emsp;"(1)
+
+Review required.—The Secretary of Defense shall review the oversight and audit structure of the Department of Defense with the goals of—
+
+&emsp;&emsp;"(A) enhancing the productivity of oversight and program and contract auditing to avoid duplicative audits; and
+
+&emsp;&emsp;"(B) streamlining of oversight reviews.
+
+&emsp;"(2)
+
+Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in the report required under paragraph (3) for any necessary changes in law.
+
+&emsp;"(3)
+
+Report.—
+
+&emsp;&emsp;"(A) Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to avoid duplicative audits and streamline oversight reviews.
+
+&emsp;&emsp;"(B) The report required under this paragraph shall include the following elements:
+
+&emsp;&emsp;&emsp;"(i) A description of actions taken to avoid duplicative audits and streamline oversight reviews based on the review conducted under paragraph (1).
+
+&emsp;&emsp;&emsp;"(ii) A comparison of commercial industry accounting practices, including requirements under the Sarbanes-Oxley Act of 2002 (Public Law 107–204; 15 U.S.C. 7201 et seq.), with the cost accounting standards prescribed under chapter 15 of title 41, United States Code, to determine if some portions of cost accounting standards compliance can be met through such practices or requirements.
+
+&emsp;&emsp;&emsp;"(iii) A description of standards of materiality used by the Defense Contract Audit Agency and the Inspector General of the Department of Defense for defense contract audits.
+
+&emsp;&emsp;&emsp;"(iv) An estimate of average delay and range of delays in contract awards due to the time necessary for the Defense Contract Audit Agency to complete pre-award audits.
+
+&emsp;&emsp;&emsp;"(v) The total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs.
+
+"(d)
+
+Incurred Cost Inventory Defined.—In this section, the term 'incurred cost inventory' means the level of contractor incurred cost proposals in inventory from prior fiscal years that are currently being audited by the Defense Contract Audit Agency."
 
 #### Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports
 
@@ -214,7 +276,7 @@ Sunset.—
 
 &emsp;"(1)
 
-In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
+In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded afterthe date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
 
 &emsp;"(2)
 

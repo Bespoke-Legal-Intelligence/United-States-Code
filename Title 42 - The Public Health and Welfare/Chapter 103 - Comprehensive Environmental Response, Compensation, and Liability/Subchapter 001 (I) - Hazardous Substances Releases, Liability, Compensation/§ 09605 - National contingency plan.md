@@ -36,7 +36,7 @@ Not later than 18 months after the enactment of the Superfund Amendments and Rea
 
 #### (1) Revision
 
-&emsp;Not later than 18 months after October 17, 1986, and after publication of notice and opportunity for submission of comments in accordance with section 553 of title 5, the President shall by rule promulgate amendments to the hazard ranking system in effect on September 1, 1984. Such amendments shall assure, to the maximum extent feasible, that the hazard ranking system accurately assesses the relative degree of risk to human health and the environment posed by sites and facilities subject to review. The President shall establishan effective date for the amended hazard ranking system which is not later than 24 months after October 17, 1986. Such amended hazard ranking system shall be applied to any site or facility to be newly listed on the National Priorities List after the effective date established by the President. Until such effective date of the regulations, the hazard ranking system in effect on September 1, 1984, shall continue in full force and effect.
+&emsp;Not later than 18 months after October 17, 1986, and after publication of notice and opportunity for submission of comments in accordance with section 553 of title 5, the President shall by rule promulgate amendments to the hazard ranking system in effect on September 1, 1984. Such amendments shall assure, to the maximum extent feasible, that the hazard ranking system accurately assesses the relative degree of risk to human health and the environment posed by sites and facilities subject to review. The President shall establish an effective date for the amended hazard ranking system which is not later than 24 months after October 17, 1986. Such amended hazard ranking system shall be applied to any site or facility to be newly listed on the National Priorities List after the effective date established by the President. Until such effective date of the regulations, the hazard ranking system in effect on September 1, 1984, shall continue in full force and effect.
 
 #### (2) Health assessment of water contamination risks
 
@@ -86,7 +86,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### (4) Information gathering and analysis
 
-&emsp;Nothing in this chapter shall be construed to preclude the expenditure of monies from theFund for gathering and analysis of information which will enable the President to consider the specific factors required by paragraph (2).
+&emsp;Nothing in this chapter shall be construed to preclude the expenditure of monies from the Fund for gathering and analysis of information which will enable the President to consider the specific factors required by paragraph (2).
 
 #### (h) NPL deferral
 

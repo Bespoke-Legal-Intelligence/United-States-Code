@@ -328,7 +328,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 &emsp;&emsp;For purposes of paragraph (1), the term "medically accepted indication" has the meaning given that term—
 
-&emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeuticregimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
+&emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeutic regimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
 
 &emsp;&emsp;&emsp;&emsp;(I) "prescription drug plan or MA–PD plan" shall be substituted for "carrier" each place it appears; and
 

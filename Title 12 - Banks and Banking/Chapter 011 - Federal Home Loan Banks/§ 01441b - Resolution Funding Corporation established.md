@@ -124,7 +124,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Purchases of stock by Federal Home Loan Banks
 
-&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation at times and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
+&emsp;&emsp;Each Federal Home Loan Bank shall purchase stock in the Funding Corporation attimes and in amounts prescribed by the Thrift Depositor Protection Oversight Board.
 
 #### (2) Par value; transferability
 
@@ -203,7 +203,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a "remaining Bank") to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficientBank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
+&emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
 &emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bank until such Bank has reimbursed the remaining Banks for all of the excess amount.
 
@@ -267,7 +267,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of thenet earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
+&emsp;&emsp;&emsp;To the extent that the amounts available pursuant to subparagraphs (A) and (B) are insufficient to cover the amount of interest payments, each Federal home loan bank shall pay to the Funding Corporation in each calendar year, 20.0 percent of the net earnings of that Bank (after deducting expenses relating to section 1430(j) of this title and operating expenses).
 
 #### (ii) Annual determination
 
@@ -403,7 +403,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;The report required under paragraph (1) shall include—
 
-&emsp;&emsp;(A) audited statements and any information necessary to make known the financialcondition and operations of the Funding Corporation in accordance with generally accepted accounting principles;
+&emsp;&emsp;(A) audited statements and any information necessary to make known the financial condition and operations of the Funding Corporation in accordance with generally accepted accounting principles;
 
 &emsp;&emsp;(B) the financial operating plans and forecasts (including estimates of actual and future spending, and estimates of actual and future cash obligations) of the Funding Corporation taking into account its financial commitments, guarantees, and other contingent liabilities; and
 
@@ -493,7 +493,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI,§1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 #### References in Text
 
@@ -547,7 +547,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: "The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section."
+Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: "The amendment made bysubsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section."
 
 #### Effective Date of 1996 Amendment
 

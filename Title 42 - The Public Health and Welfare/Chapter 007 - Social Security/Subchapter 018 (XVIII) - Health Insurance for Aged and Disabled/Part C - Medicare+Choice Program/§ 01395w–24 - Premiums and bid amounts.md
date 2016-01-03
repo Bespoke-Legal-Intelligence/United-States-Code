@@ -92,7 +92,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary shall not review, approve, or disapprove the amounts submitted under paragraph (3) or, in the case of an MA private fee-for-service plan, subparagraphs (A)(ii) and (B) of paragraph (4).
+&emsp;&emsp;The Secretary shall not review, approve, or disapprove the amounts submitted underparagraph (3) or, in the case of an MA private fee-for-service plan, subparagraphs (A)(ii) and (B) of paragraph (4).
 
 #### (C) Rejection of bids
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;For an MA plan (other than an MSA plan) for a plan year beginning on or after January 1, 2006, the information described in this subparagraph is as follows:
 
-&emsp;&emsp;&emsp;(i) The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) ofthis title) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
+&emsp;&emsp;&emsp;(i) The monthly aggregate bid amount for the provision of all items and services under the plan, which amount shall be based on average revenue requirements (as used for purposes of section 300e–1(8) of this title) in the payment area for an enrollee with a national average risk profile for the factors described in section 1395w–23(a)(1)(C) of this title (as specified by the Secretary).
 
 &emsp;&emsp;&emsp;(ii) The proportions of such bid amount that are attributable to—
 
@@ -156,7 +156,7 @@
 
 #### (B) MSA plans
 
-&emsp;&emsp;The monthly amount of the premium charged to an individual enrolled in an MSA plan offered by a Medicare+Choice organization shall be equal to the Medicare+Choice monthly supplemental beneficiary premium (if any).
+&emsp;&emsp;The monthly amount of the premium charged to an individual enrolled in an MSAplan offered by a Medicare+Choice organization shall be equal to the Medicare+Choice monthly supplemental beneficiary premium (if any).
 
 #### (C) Beneficiary rebate rule
 
@@ -170,7 +170,7 @@
 
 #### (I) Provision of supplemental health care benefits and payment for premium for supplemental benefits
 
-&emsp;&emsp;&emsp;&emsp;The provision of supplemental health care benefits described in section 1395w–22(a)(3) of this title in a manner specified under the plan, which may include the reduction of cost-sharingotherwise applicable as well as additional health care benefits which are not benefits under the original medicare fee-for-service program option, or crediting toward an MA monthly supplemental beneficiary premium (if any).
+&emsp;&emsp;&emsp;&emsp;The provision of supplemental health care benefits described in section 1395w–22(a)(3) of this title in a manner specified under the plan, which may include the reduction of cost-sharing otherwise applicable as well as additional health care benefits which are not benefits under the original medicare fee-for-service program option, or crediting toward an MA monthly supplemental beneficiary premium (if any).
 
 #### (II) Payment for premium for prescription drug coverage
 
@@ -372,7 +372,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;For periods before 2006, in no event may—
 
-&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) of this section for a year, exceed
+&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described insection 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) of this section for a year, exceed
 
 &emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter if they were not members of a Medicare+Choice organization for the year.
 
@@ -560,7 +560,7 @@ Subsec. (b)(2). Pub. L. 108–173, §222(b)(2), inserted "and bid" after "Premiu
 
 Subsec. (b)(3), (4). Pub. L. 108–173, §222(b)(3), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 108–173, §222(g)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Medicare+Choice monthly basic and supplemental beneficiary premium, the Medicare+Choice monthly MSA premium charged under subsection (b) of this section of a Medicare+Choice organization under this part may not vary among individuals enrolled in the plan."
+Subsec. (c). Pub. L. 108–173, §222(g)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Medicare+Choice monthly basic and supplemental beneficiary premium,the Medicare+Choice monthly MSA premium charged under subsection (b) of this section of a Medicare+Choice organization under this part may not vary among individuals enrolled in the plan."
 
 Subsec. (d). Pub. L. 108–173, §222(c), (g)(3), designated existing provisions as par. (1), inserted heading and ", prescription drug," after "basic", and added pars. (2) to (4).
 
@@ -640,7 +640,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–1
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §515(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendments made by this section \[amending this section\] apply to contract years beginning on or after January 1, 2001."
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendment made by subsection (a) \[amending this section\] applies to information submitted by Medicare+Choice organizations for years beginning with 1999."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendment made by subsection (a) \[amending this section\] applies to information submitted byMedicare+Choice organizations for years beginning with 1999."
 
 <i><sup>1</sup></i><i> So in original. Probably means subclause (I) of section 1395w–23(o)(3)(A)(ii) of this title.</i>
 

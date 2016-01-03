@@ -6,13 +6,13 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 &emsp;(A)(i) the employee, or another person at the employee's request, has filed a complaint or begun a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order, or has testified or will testify in such a proceeding; or
 
-&emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or has begun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
+&emsp;(ii) the person perceives that the employee has filed or is about to file a complaint or hasbegun or is about to begin a proceeding related to a violation of a commercial motor vehicle safety or security regulation, standard, or order;
 
 &emsp;(B) the employee refuses to operate a vehicle because—
 
 &emsp;&emsp;(i) the operation violates a regulation, standard, or order of the United States related to commercial motor vehicle safety, health, or security; or
 
-&emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee orthe public because of the vehicle's hazardous safety or security condition;
+&emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle's hazardous safety or security condition;
 
 &emsp;(C) the employee accurately reports hours on duty pursuant to chapter 315;
 
@@ -58,7 +58,7 @@ Civil Actions to Enforce.—If a person fails to comply with an order issued und
 
 (f)
 
-No Preemption.—Nothing in this section preempts or diminishes any other safeguardsagainst discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
+No Preemption.—Nothing in this section preempts or diminishes any other safeguards against discrimination, demotion, discharge, suspension, threats, harassment, reprimand, retaliation, or any other manner of discrimination provided by Federal or State law.
 
 (g)
 

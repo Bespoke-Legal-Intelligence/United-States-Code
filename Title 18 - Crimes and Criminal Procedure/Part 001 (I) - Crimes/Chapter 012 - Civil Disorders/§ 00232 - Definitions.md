@@ -22,7 +22,7 @@ For purposes of this chapter:
 
 #### Amendments
 
-<b>1992</b>—Par. (7). Pub. L. 102–484 substituted "members of the National Guard (as defined in section 101 of title 10)," for ", but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code," and "not included within the National Guard (as defined in section 101 of title 10)," for ", not included within the definition of National Guard as defined by such section 101(9),".
+<b>1992</b>—Par. (7). Pub. L. 102–484 substituted "members of the National Guard (as defined in section 101 of title10)," for ", but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code," and "not included within the National Guard (as defined in section 101 of title 10)," for ", not included within the definition of National Guard as defined by such section 101(9),".
 
 <b>1990</b>—Par. (8). Pub. L. 101–647 added par. (8).
 

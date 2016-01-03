@@ -116,7 +116,7 @@ As used in this section—
 
 &emsp;&emsp;(A) that each aggregator ensure within a reasonable time that each of its telephones presubscribed to a provider of operator services allows the consumer to obtain access to the provider of operator services desired by the consumer through the use of an equal access code; or
 
-&emsp;&emsp;(B) that all providers of operator services, within a reasonable time, make available totheir customers a "950" or "800" access code number for use in making operator services calls from anywhere in the United States; or
+&emsp;&emsp;(B) that all providers of operator services, within a reasonable time, make available to their customers a "950" or "800" access code number for use in making operator services calls from anywhere in the United States; or
 
 &emsp;&emsp;(C) that the requirements described under both subparagraphs (A) and (B) apply.
 
@@ -188,7 +188,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (B) Limitation
 
-&emsp;&emsp;The requirement of subparagraph (A) shall not apply if, on the basis of the proceeding under paragraph (3)(A), the Commissionmakes (and includes in the report required by paragraph (3)(B)(iii)) a factual determination that market forces are securing rates and charges that are just and reasonable, as evidenced by rate levels, costs, complaints, service quality, and other relevant factors.
+&emsp;&emsp;The requirement of subparagraph (A) shall not apply if, on the basis of the proceeding under paragraph (3)(A), the Commission makes (and includes in the report required by paragraph (3)(B)(iii)) a factual determination that market forces are securing rates and charges that are just and reasonable, as evidenced by rate levels, costs, complaints, service quality, and other relevant factors.
 
 #### (i) Statutory construction
 

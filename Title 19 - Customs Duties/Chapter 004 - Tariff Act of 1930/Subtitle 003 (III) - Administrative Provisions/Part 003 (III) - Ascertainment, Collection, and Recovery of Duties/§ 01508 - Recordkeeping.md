@@ -74,13 +74,13 @@ Any—
 
 #### (3) Exports under the Canadian agreement
 
-&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin orcopies thereof) which pertain to the exportations.
+&emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
 #### (c) Period of time
 
-The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
+The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 &emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
@@ -98,7 +98,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (1) Relating to NAFTA exports
 
-&emsp;Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for—
+&emsp;Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
 &emsp;&emsp;(A) a civil penalty not to exceed $10,000; or
 
@@ -108,7 +108,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Relating to Canadian agreement exports
 
-&emsp;Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+&emsp;Any person who fails to retain the records required by paragraph (3) of subsection (b) or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 
 #### (f) Certificates of Origin for goods exported under the United States-Chile Free Trade Agreement
 
@@ -164,7 +164,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DRcertification of origin for at least 5 years after the date on which the certification was issued.
+&emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DR certification of origin for at least 5 years after the date on which the certification was issued.
 
 #### (h) Certifications of origin for goods exported under the United States-Peru Trade Promotion Agreement
 
@@ -244,7 +244,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Colombia
 
-&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -280,7 +280,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (l) Penalties
 
-Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
+Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
 
 &emsp;(1) a civil penalty not to exceed $10,000; or
 
@@ -384,7 +384,7 @@ Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade Agreement entersinto force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 #### Construction of 1993 Amendment
 

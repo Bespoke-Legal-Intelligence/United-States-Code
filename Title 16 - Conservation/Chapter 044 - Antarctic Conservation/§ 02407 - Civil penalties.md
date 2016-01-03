@@ -2,7 +2,7 @@
 
 #### (a) Assessment of penalties
 
-Any person who is found by the Director, after notice and opportunity for a hearing in accordance with subsection (b) of this section, to have committed any act prohibited by section 2403(a) of this title or to have violated any regulation prescribed under section 2406 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $5,000 for each violation unless the prohibited act was knowingly committed, in which case the amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of any civil penalty shall be assessed by the Director by written notice. Any civil penalty assessed under this subsection may be remitted or mitigated by the Director.
+Any person who is found by the Director, after notice and opportunity for a hearing in accordance with subsection (b), to have committed any act prohibited by section 2403(a) of this title or to have violated any regulation prescribed under section 2406 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $5,000 for each violation unless the prohibited act was knowingly committed, in which case the amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of any civil penalty shall be assessed by the Director by written notice. Any civil penalty assessed under this subsection may be remitted or mitigated by the Director.
 
 #### (b) Hearings
 
@@ -10,11 +10,11 @@ Hearings for the assessment of civil penalties under subsection (a) shall be con
 
 #### (c) Review
 
-Upon the failure of any person against whom a civil penalty is assessed under subsection (a) of this section to pay such penalty, the Director may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. The court shall hear such action on the record made before the Director and shall sustain the decision of the Director if it is supported by substantial evidence on the record considered as a whole.
+Upon the failure of any person against whom a civil penalty is assessed under subsection (a) to pay such penalty, the Director may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. The court shall hear such action on the record made before the Director and shall sustain the decision of the Director if it is supported by substantial evidence on the record considered as a whole.
 
 #### (d) Penalties under other laws
 
-The assessment of a civil penalty under subsection (a) of this section for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Migratory Bird Treaty Act \[16 U.S.C. 703 et seq.\].
+The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Migratory Bird Treaty Act \[16 U.S.C. 703 et seq.\].
 
 (Pub. L. 95–541, §8, Oct. 28, 1978, 92 Stat. 2054.)
 
@@ -22,7 +22,7 @@ The assessment of a civil penalty under subsection (a) of this section for any a
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884,as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 

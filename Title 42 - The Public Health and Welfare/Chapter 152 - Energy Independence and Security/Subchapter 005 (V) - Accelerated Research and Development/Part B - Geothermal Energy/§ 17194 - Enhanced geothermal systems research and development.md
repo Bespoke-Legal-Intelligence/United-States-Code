@@ -34,7 +34,7 @@ The Secretary shall support a program of research, development, demonstration, a
 
 #### (B) Consideration of existing site
 
-&emsp;&emsp;The Desert Peak, Nevada, site, where a Department of Energy and industry cooperative enhanced geothermal systems project is already underway, may be considered for inclusion among the sites selected under subparagraph (A).
+&emsp;&emsp;The Desert Peak, Nevada, site, where a Department of Energy and industry cooperative enhanced geothermal systems project isalready underway, may be considered for inclusion among the sites selected under subparagraph (A).
 
 (Pub. L. 110–140, title VI, §615, Dec. 19, 2007, 121 Stat. 1680.)
 

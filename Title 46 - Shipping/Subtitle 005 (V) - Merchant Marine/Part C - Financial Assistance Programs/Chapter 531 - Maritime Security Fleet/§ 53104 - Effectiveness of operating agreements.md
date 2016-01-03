@@ -32,13 +32,13 @@ Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficien
 
 (e)
 
-Release of Vessels From Obligations.—If funds are not appropriated for payments underan operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
+Release of Vessels From Obligations.—If funds are not appropriated for payments under an operating agreement under this chapter for any fiscal year by the 60th day of that fiscal year, then—
 
 &emsp;(1) each vessel covered by the operating agreement is thereby released from any further obligation under the operating agreement;
 
 &emsp;(2) the owner or operator of the vessel may transfer and register such vessel under a foreign registry that is acceptable to the Secretary of Transportation and the Secretary of Defense, notwithstanding section 56101 of this title; and
 
-&emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vessel under such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
+&emsp;(3) if chapter 563 of this title is applicable to such vessel after registration of the vesselunder such a registry, then the vessel is available to be requisitioned by the Secretary of Transportation pursuant to chapter 563.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1810; amended Pub. L. 109–304, §13(a)(3), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 111–383, div. C, title XXXV, §3502(1), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(d), Jan. 2, 2013, 126 Stat. 2224.)
 

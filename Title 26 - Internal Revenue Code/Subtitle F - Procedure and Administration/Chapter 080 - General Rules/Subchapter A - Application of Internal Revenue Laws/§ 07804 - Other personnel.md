@@ -34,7 +34,7 @@ Pub. L. 105–206, title I, §1104(c), July 22, 1998, 112 Stat. 710, provided th
 
 #### Termination of Employment for Misconduct
 
-Pub. L. 105–206, title I, §1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, §881(d), Oct. 22, 2004, 118 Stat. 1627, provided that:
+Pub. L. 105–206, title I, §1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, §881(d), Oct. 22, 2004, 118 Stat. 1627; Pub. L. 114–113, div. Q, title IV, §407(a), Dec. 18, 2015, 129 Stat. 3120, provided that:
 
 "(a)
 
@@ -78,7 +78,7 @@ Acts or Omissions.—The acts or omissions referred to under subsection (a) are�
 
 &emsp;"(9) willful understatement of Federal tax liability, unless such understatement is due to reasonable cause and not to willful neglect; and
 
-&emsp;"(10) threatening to audit a taxpayer for the purpose of extracting personal gain or benefit.
+&emsp;"(10) performing, delaying, or failing to perform (or threatening to perform, delay, or fail to perform) any official action (including any audit) with respect to a taxpayer for purpose of extracting personal gain or benefit or for a political purpose.
 
 "(c)
 
@@ -103,6 +103,8 @@ Definition.—For purposes of the provisions described in clauses (i), (ii), and
 "(e)
 
 Individuals Performing Services Under a Qualified Tax Collection Contract.—An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services."
+
+\[Pub. L. 114–113, div. Q, title IV, §407(b), Dec. 18, 2015, 129 Stat. 3120, provided that: "The amendment made by this section \[amending section 1203 of Pub. L. 105–206, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\]."\]
 
 #### Employee Training Program
 
@@ -158,7 +160,7 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers' Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers' rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers' rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title II, §202, Dec. 8, 2004, 118 Stat. 3240.
 
@@ -168,15 +170,15 @@ Pub. L. 108–7, div. J, title I, §102, Feb. 20, 2003, 117 Stat. 437.
 
 Pub. L. 107–67, title I, §102, Nov. 12, 2001, 115 Stat. 523.
 
-Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A–132.
+Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A-132.
 
 Pub. L. 106–58, title I, §102, Sept. 29, 1999, 113 Stat. 437.
 
-Pub. L. 105–277, div. A, §101(h) \[title I, §102\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–488.
+Pub. L. 105–277, div. A, §101(h) \[title I, §102\], Oct. 21, 1998, 112 Stat. 2681–480, 2681-488.
 
 Pub. L. 105–61, title I, §102, Oct. 10, 1997, 111 Stat. 1281.
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title I, §102\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–323.
+Pub. L. 104–208, div. A, title I, §101(f) \[title I, §102\], Sept. 30, 1996, 110 Stat. 3009–314, 3009-323.
 
 Pub. L. 104–52, title I, §2, Nov. 19, 1995, 109 Stat. 474.
 
@@ -274,7 +276,7 @@ Powers of the Secretary.—In carrying out his responsibilities under this secti
 
 &emsp;"(2) to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
 
-&emsp;"(3) to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training or providing tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
+&emsp;"(3) to provide reimbursement to volunteers through such organizations for transportation, meals, and other expenses incurred by them in training orproviding tax counseling assistance under this section, and such other support and assistance as he determines to be appropriate in carrying out the provisions of this section;
 
 &emsp;"(4) to provide for the use of services, personnel, and facilities of Federal executive agencies and of State and local public agencies with their consent, with or without reimbursement therefor; and
 

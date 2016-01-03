@@ -1,12 +1,14 @@
 ### §269a. Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations
 
-There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, an annual sum of $50 as a contribution on the part of the United States toward the expenses incurred by the Central Bureau of the International Map of the World on the Millionth Scale.
+There is hereby authorized to be appropriated, out of any money in the Treasury not otherwiseappropriated, an annual sum of $50 as a contribution on the part of the United States toward the expenses incurred by the Central Bureau of the International Map of the World on the Millionth Scale.
 
 (June 27, 1930, ch. 652, 46 Stat. 825.)
 
 #### Annual Appropriations
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
+
+Pub. L. 114–113, div. K, title I, Dec. 18, 2015, 129 Stat. 2709, 2711.
 
 Pub. L. 113–235, div. J, title I, Dec. 16, 2014, 128 Stat. 2577, 2579.
 

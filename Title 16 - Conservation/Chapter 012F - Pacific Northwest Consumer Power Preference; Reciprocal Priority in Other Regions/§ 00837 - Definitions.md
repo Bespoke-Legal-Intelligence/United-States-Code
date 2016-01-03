@@ -10,7 +10,7 @@ As used in this chapter—
 
 (d) "Surplus peaking capacity" means electric peaking capacity at Federal hydroelectric plants in the Pacific Northwest for which there is no demand in the Pacific Northwest at any established rate.
 
-(e) "Non-Federal utility" means any utility not owned or controlled by the United States, including any entity (1) which such a utilityowns or controls, in whole or in part, or is controlled by, (2) which is controlled by those controlling such utility, or (3) of which such utility is a member.
+(e) "Non-Federal utility" means any utility not owned or controlled by the United States, including any entity (1) which such a utility owns or controls, in whole or in part, or is controlled by, (2) which is controlled by those controlling such utility, or (3) of which such utility is a member.
 
 (f) "Energy requirements of any Pacific Northwest customer" means the full requirements for electric energy of (1) any purchaser from the United States for direct consumption in the Pacific Northwest, and (2) any non-Federal utility in that region in excess of (i) the hydroelectric energy available for its own use from its generating plants in the Pacific Northwest, and (ii) any additional energy available for use in the Pacific Northwest which, under a then existing contract, the utility (A) can obtain at no higher incremental cost than the rate charged by the United States, or (B) is required to accept.
 
@@ -20,7 +20,7 @@ As used in this chapter—
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b)(2). Pub. L. 96–501 substituted "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region" for "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region".
+<b>1980</b>—Subsec. (b)(2). Pub. L. 96–501 substituted "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served bythe Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region" for "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region".
 
 #### Effective Date of 1980 Amendment
 

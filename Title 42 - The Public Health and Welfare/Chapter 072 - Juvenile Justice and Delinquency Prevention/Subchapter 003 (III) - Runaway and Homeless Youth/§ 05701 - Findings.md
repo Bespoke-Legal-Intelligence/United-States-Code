@@ -24,7 +24,7 @@ The Congress finds that—
 
 &emsp;(6) improved coordination and collaboration between the Federal programs that serve runaway and homeless youth are necessary for the development of a long-term strategy for responding to the needs of this population.
 
-(Pub. L. 93–415, title III, §302, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 102–586, §3(a), Nov. 4, 1992, 106Stat. 5017; Pub. L. 106–71, §3(a), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §101, Oct. 10, 2003, 117 Stat. 1167; Pub. L. 110–378, §2, Oct. 8, 2008, 122 Stat. 4068.)
+(Pub. L. 93–415, title III, §302, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 102–586, §3(a), Nov. 4, 1992, 106 Stat. 5017; Pub. L. 106–71, §3(a), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §101, Oct. 10, 2003, 117 Stat. 1167; Pub. L. 110–378, §2, Oct. 8, 2008, 122 Stat. 4068.)
 
 #### Amendments
 

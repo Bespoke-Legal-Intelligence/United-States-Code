@@ -66,7 +66,7 @@
 
 &emsp;(B) necessary preconstruction costs incurred for architectural assistance, land options, application fees, and similar items; and
 
-&emsp;(C) the cost of carrying out programs providing counseling or similar services to lower income families for whom housing is being provided, in order to enable those families better to achieve and afford adequate housing, insuch matters as home management, budget management, and home maintenance.
+&emsp;(C) the cost of carrying out programs providing counseling or similar services to lower income families for whom housing is being provided, in order to enable those families better to achieve and afford adequate housing, in such matters as home management, budget management, and home maintenance.
 
 (2) In order to be eligible for a grant or loan under this subsection, the organization seeking such assistance shall demonstrate to the satisfaction of the Foundation that the funds requested are not otherwise available from Federal sources: <i>Provided</i>, That a grant or loan under this subsection may be provided to help cover that portion of the cost of an eligible activity not covered by Federal funds.
 

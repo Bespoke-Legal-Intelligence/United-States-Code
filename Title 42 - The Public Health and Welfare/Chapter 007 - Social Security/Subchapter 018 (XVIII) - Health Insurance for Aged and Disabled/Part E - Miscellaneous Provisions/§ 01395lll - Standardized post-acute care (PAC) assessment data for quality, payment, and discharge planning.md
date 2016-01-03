@@ -152,7 +152,7 @@
 
 #### (2) Alignment of claims data with standardized patient assessment data
 
-&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described inclauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
+&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
 
 #### (3) Replacement of certain existing data
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(D) Incidence of major falls.
 
-&emsp;&emsp;(E) Accurately communicating the existence of and providing for the transfer of health information and care preferences of an individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—
+&emsp;&emsp;(E) Accurately communicating the existence of and providing for the transfer of health information and care preferences ofan individual to the individual, family caregiver of the individual, and providers of services furnishing items and services to the individual, when the individual transitions—
 
 &emsp;&emsp;&emsp;(i) from a hospital or critical access hospital to another applicable setting, including a PAC provider or the home of the individual; or
 
@@ -256,7 +256,7 @@
 
 #### (B) Second implementation phase
 
-&emsp;&emsp;The second implementation phase, with respect to such a measure, shall consist of the provision of feedback reports to PAC providers, in accordance with subsection (f).
+&emsp;&emsp;The second implementation phase, with respect to such a measure, shall consist of theprovision of feedback reports to PAC providers, in accordance with subsection (f).
 
 #### (C) Third implementation phase
 
@@ -302,7 +302,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide forpublic reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
+&emsp;Subject to the succeeding paragraphs of this subsection, the Secretary shall provide for public reporting of PAC provider performance on quality measures under subsection (c)(1) and the resource use and other measures under subsection (d)(1), including by establishing procedures for making available to the public information regarding the performance of individual PAC providers with respect to such measures.
 
 #### (2) Opportunity to review
 
@@ -328,7 +328,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may remove, suspend, or add a quality measure or resource use or other measure described in subsection (c)(1) or (d)(1), so long as, subject to paragraph (2), the Secretary publishes in the Federal Register (with a notice and comment period) a justification for such removal, suspension, or addition.
+&emsp;The Secretary may remove, suspend, or add a quality measure or resource use or other measure described in subsection (c)(1) or (d)(1),so long as, subject to paragraph (2), the Secretary publishes in the Federal Register (with a notice and comment period) a justification for such removal, suspension, or addition.
 
 #### (2) Exception
 
@@ -362,7 +362,7 @@ For purposes of carrying out this section, the Secretary shall provide for the t
 
 #### (l) Limitation
 
-There shall be no administrative or judicial review under sections 1395ff and 1395oo of thistitle or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 
 #### (m) Non-application of Paperwork Reduction Act
 

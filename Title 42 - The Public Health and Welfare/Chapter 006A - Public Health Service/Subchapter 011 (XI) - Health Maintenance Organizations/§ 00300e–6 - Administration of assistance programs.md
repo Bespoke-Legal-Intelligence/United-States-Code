@@ -30,7 +30,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted "loan or loan guarantee" for "grant, contract,loan, or loan guarantee", "proceeds of the loan" for "proceeds of the grant, contract, or loan", and "with which the loan was given" for "with which such assistance was given".
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–660, §803(b)(2), substituted "loan or loan guarantee" for "grant, contract, loan, or loan guarantee", "proceeds of the loan" for "proceeds of the grant, contract, or loan", and "with which the loan was given" for "with which such assistance was given".
 
 Subsecs. (a)(2), (b). Pub. L. 99–660, §803(b)(2)(A), substituted "loan or loan guarantee" for "grant, contract, loan, or loan guarantee".
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 99–660, §803(a), struck out subsec. (c) which read as fo
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–460, §112, inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
 
-Subsec. (e). Pub. L. 94–460, §109(b)(1), inserted "for a private health maintenance organization (other than a private nonprofit health maintenance organization)" after "may be made", and "for private health maintenance organizations (other than private nonprofit health maintenance organizations)" after "guaranteed".
+Subsec. (e). Pub. L. 94–460, §109(b)(1), inserted "for a private health maintenance organization (other than a private nonprofit health maintenance organization)"after "may be made", and "for private health maintenance organizations (other than private nonprofit health maintenance organizations)" after "guaranteed".
 
 #### Effective Date of 1986 Amendment
 

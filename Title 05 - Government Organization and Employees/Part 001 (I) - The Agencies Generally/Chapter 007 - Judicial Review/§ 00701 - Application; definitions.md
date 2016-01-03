@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) military authority exercised in the field in time of war or in occupied territory; or
 
-&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
+&emsp;&emsp;(H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; <sup>1</sup> and
 
 &emsp;(2) "person", "rule", "order", "license", "sanction", "relief", and "agency action" have the meanings given them by section 551 of this title.
 
@@ -52,17 +52,19 @@ Subsection (b) is added on authority of section 2 of the Act of June 11, 1946, c
 
 In subsection (b)(1)(G), the words "or naval" are omitted as included in "military".
 
-In subsection (b)(1)(H), the words "functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947" are omitted as executed. Reference to the "Selective Training and Service Act of 1940" is omitted as that Act expired on Mar. 31, 1947. Reference to the "Sugar Control Extension Act of 1947" is omitted as that Act expired on Mar. 31, 1948. References to the "Housing and Rent Act of 1947, as amended" and the "Veterans' Emergency Housing Act of 1946" have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
+In subsection (b)(1)(H), the words "functions which by law expire on the termination of present hostilities, within any fixed period thereafter, or before July 1, 1947" are omitted as executed. Reference to the "Selective Training and Service Act of 1940" is omitted as that Act expired on Mar. 31, 1947. Reference to the "Sugar Control Extension Act of 1947" is omitted as that Act expired on Mar. 31, 1948. References to the "Housing and Rent Act of 1947, as amended" and the"Veterans' Emergency Housing Act of 1946" have been consolidated as they are related. The reference to former section 1641(b)(2) of title 50, appendix, is retained notwithstanding its repeal by §111(a)(1) of the Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since §111(c) of the Act provides that a reference in other Acts to a provision of law repealed by §111(a) shall be considered to be a reference to the appropriate provisions of Pub. L. 87–256.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
 
-Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were omitted from the Code as executed.
+Sections 1884 and 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 87–256, §111(a)(1), Sept. 21, 1961, 75 Stat. 538.
 
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(1)(H). Pub. L. 111–350 struck out "chapter 2 of title 41;" after "title 12;".
 
 <b>1994</b>—Subsec. (b)(1)(H). Pub. L. 103–272 substituted "subchapter II of chapter 471 of title 49; or sections" for "or sections 1622,".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

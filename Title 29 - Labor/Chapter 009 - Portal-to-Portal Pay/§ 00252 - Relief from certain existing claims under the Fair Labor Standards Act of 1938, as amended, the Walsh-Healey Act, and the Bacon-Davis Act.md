@@ -10,11 +10,11 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 #### (b) Compensable activity
 
-For the purposes of subsection (a) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
+For the purposes of subsection (a), an activity shall be considered as compensable under suchcontract provision or such custom or practice only when it was engaged in during the portion of the day with respect to which it was so made compensable.
 
 #### (c) Time of employment
 
-In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,<sup>1</sup> in determining the timefor which an employer employed an employee there shall be counted all that time, but only that time, during which the employee engaged in activities which were compensable within the meaning of subsections (a) and (b) of this section.
+In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employed an employee there shall be counted all that time, but only that time, during which the employee engaged in activities which were compensable within the meaning of subsections (a) and (b) of this section.
 
 #### (d) Jurisdiction
 
@@ -22,7 +22,7 @@ No court of the United States, of any State, Territory, or possession of the Uni
 
 #### (e) Assignment of actions
 
-No cause of action based on unpaid minimum wages, unpaid overtime compensation, or liquidated damages, under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> which accrued prior to May 14, 1947, or any interest in such cause of action, shall hereafter be assignable, in whole or in part, to the extent that such cause of action is based on an activity which was not compensable within the meaning of subsections (a) and (b) of this section.
+No cause of action based on unpaid minimum wages, unpaid overtime compensation, or liquidated damages, under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,<sup>1</sup> which accrued prior to May 14, 1947, or any interest in such cause of action, shall hereafter be assignable, in whole or in part, to the extent that such cause of action is based on an activity which was not compensable within the meaning of subsections (a) and (b).
 
 (May 14, 1947, ch. 52, §2, 61 Stat. 85.)
 

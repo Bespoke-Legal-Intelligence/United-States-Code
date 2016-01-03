@@ -52,7 +52,7 @@
 
 (d)(1) Except as provided in subsection (e), a bonus under this section shall not exceed 25 percent of the annual rate of basic pay of the employee at the beginning of the service period multiplied by the number of years (including a fractional part of a year, as determined under regulations of the Office) in the required service period of the employee involved.
 
-(2) A bonus under this section may be paid as an initial lump sum, in installments, as a finallump sum upon the completion of the full period of service required by the agreement, or in a combination of these forms of payment.
+(2) A bonus under this section may be paid as an initial lump sum, in installments, as a final lump sum upon the completion of the full period of service required by the agreement, or in a combination of these forms of payment.
 
 (3) A bonus under this section is not part of the basic pay of an employee for any purpose.
 

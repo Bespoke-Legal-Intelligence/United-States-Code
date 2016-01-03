@@ -6,7 +6,7 @@ Except as otherwise specifically provided in this chapter, assistance under this
 
 #### (b) Authority of the President
 
-The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
+The President may make loans, advances, and grants to, make and perform agreements andcontracts with, or enter into other transactions with, any individual, corporation, or other body of persons, friendly government or government agency, whether within or without the United States, and international organizations in furtherance of the purposes and within the limitations of this chapter.
 
 #### (c) Utilization of services and facilities of voluntary, nonprofit organizations
 
@@ -18,7 +18,7 @@ The President may accept and use in furtherance of the purposes of this chapter,
 
 #### (e) Health and accident insurance for foreign participants and foreign employees
 
-(1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from theirhomes for the purpose of participation in such program.
+(1) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign participants in any program of furnishing technical information and assistance administered by such agency while such participants are absent from their homes for the purpose of participation in such program.
 
 (2) Any agency of the United States Government is authorized to pay the cost of health and accident insurance for foreign employees of that agency while those employees are absent from their place of employment abroad for purposes of training or other official duties.
 
@@ -62,7 +62,7 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 #### (m) Working capital fund
 
-(1) There is established a working capital fund (in this subsection referred to as the "fund") for the United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
+(1) There is established a working capital fund (in this subsection referred to as the "fund") forthe United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
 
 &emsp;(A) International Cooperative Administrative Support Services; and
 
@@ -144,7 +144,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### International Agreements
 
-The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+The negotiation, conclusion, and termination of international agreements pursuant to this chaptershall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals
 

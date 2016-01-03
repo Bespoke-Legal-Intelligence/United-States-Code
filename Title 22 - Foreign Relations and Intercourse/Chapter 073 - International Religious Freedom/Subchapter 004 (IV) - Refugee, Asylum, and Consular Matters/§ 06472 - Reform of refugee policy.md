@@ -6,7 +6,7 @@
 
 #### (1) Guidelines for addressing hostile biases
 
-&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel of the Immigration and Naturalization Service and of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
+&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel of the Immigration and Naturalization Serviceand of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
 
 #### (2) Guidelines for refugee-processing posts in establishing agreements with United States Government-designated refugee processing entities
 

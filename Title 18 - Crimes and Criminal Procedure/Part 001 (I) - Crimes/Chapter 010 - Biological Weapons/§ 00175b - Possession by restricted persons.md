@@ -1,6 +1,6 @@
 ### §175b. Possession by restricted persons
 
-(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.
+(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5or exempted under section 73.6 of title 42, Code of Federal Regulations.
 
 (2) Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
@@ -46,7 +46,7 @@ Certain other biological agents and toxins.—Whoever knowingly possesses a biol
 
 &emsp;&emsp;(F) has been adjudicated as a mental defective or has been committed to any mental institution;
 
-&emsp;&emsp;(G)(i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
+&emsp;&emsp;(G)(i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)),<sup>1</sup> section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 (22 U.S.C. 2371), or section 40(d) of chapter 3 of the Arms Export Control Act (22 U.S.C. 2780(d)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
 &emsp;&emsp;(H) has been discharged from the Armed Services of the United States under dishonorable conditions; or
 
@@ -64,6 +64,8 @@ Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (
 
 Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to section 8401 of Title 7, Agriculture.
 
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50.
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted "as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations" for "as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations".
@@ -78,7 +80,7 @@ Subsec. (d)(2)(I). Pub. L. 108–458, §6802(c)(3), added subpar. (I).
 
 Pub. L. 107–188, §231(b)(1)(B), substituted "Select agents; certain other agents" for "Possession by restricted persons" in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–188, §231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted "shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate orforeign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations" for "described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations".
+Subsec. (a)(1). Pub. L. 107–188, §231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted "shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations" for "described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations".
 
 Subsec. (a)(2). Pub. L. 107–188, §231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
 
@@ -95,4 +97,6 @@ Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted "section 101(a)(3
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–458, title VI, §6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective \[probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

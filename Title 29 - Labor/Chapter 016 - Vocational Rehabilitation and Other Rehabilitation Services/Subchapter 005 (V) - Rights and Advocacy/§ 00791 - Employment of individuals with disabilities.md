@@ -30,7 +30,7 @@ The standards used to determine whether this section has been violated in a comp
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (f), is Pub. L. 101–336, July 26, 1990, 104Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted "Secretary of Educ
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under section 633a of this title.
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raisedin any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -256,7 +256,7 @@ Ex. Ord. No. 13548, July 26, 2010, 75 F.R. 45039, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish the Federal Government as a model employer of individuals with disabilities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Approximately 54 million Americans are living with a disability. The Federal Government has an important interest in reducing discrimination against Americans living with a disability, in eliminating the stigma associated with disability, and in encouraging Americans with disabilities to seek employment in the Federal workforce. Yet Americans with disabilities have an employment rate far lower than that of Americans without disabilities, and they are underrepresented in the Federal workforce. Individuals with disabilities currently represent just over 5percent of the nearly 2.5 million people in the Federal workforce, and individuals with targeted disabilities (as defined below) currently represent less than 1 percent of that workforce.
+Section 1. <i>Policy</i>. Approximately 54 million Americans are living with a disability. The Federal Government has an important interest in reducing discrimination against Americans living with a disability, in eliminating the stigma associated with disability, and in encouraging Americans with disabilities to seek employment in the Federal workforce. Yet Americans with disabilities have an employment rate far lower than that of Americans without disabilities, and they are underrepresented in the Federal workforce. Individuals with disabilities currently represent just over 5 percent of the nearly 2.5 million people in the Federal workforce, and individuals with targeted disabilities (as defined below) currently represent less than 1 percent of that workforce.
 
 On July 26, 2000, in the final year of his administration, President Clinton signed Executive Order 13163, calling for an additional 100,000 individuals with disabilities to be employed by the Federal Government over 5 years. Yet few steps were taken to implement that Executive Order in subsequent years.
 

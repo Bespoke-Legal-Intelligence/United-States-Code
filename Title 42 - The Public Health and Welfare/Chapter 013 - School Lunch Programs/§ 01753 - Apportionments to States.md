@@ -86,7 +86,7 @@ In general.—In the later of the fiscal year in which the implementing regulati
 
 Reservation.—In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916; Pub. L. 111–296, title II, §201, Dec. 13, 2010, 124 Stat. 3214.)
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823,§2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916; Pub. L. 111–296, title II, §201, Dec. 13, 2010, 124 Stat. 3214.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Pub. L. 97–35, title VIII, §820(a), Aug. 13, 1981, 95 Stat. 534, provided tha
 
 "(5) The amendments made by section 813 \[amending sections 1759a, 1760, 1762a, and 1772 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b),\(c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
+"(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b), (c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
 
 &emsp;"(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shall take effect as provided under paragraph (1) of this subsection;
 

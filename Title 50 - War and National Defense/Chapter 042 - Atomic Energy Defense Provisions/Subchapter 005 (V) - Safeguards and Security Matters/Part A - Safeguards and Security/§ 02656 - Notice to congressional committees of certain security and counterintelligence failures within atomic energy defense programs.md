@@ -22,7 +22,7 @@ The Secretary of Energy and the Committees on Armed Services of the Senate and H
 
 (2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to Congress, including the requirement under section 3091 of this title for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.
 
-(Pub. L. 107–314, div. D, title XLV, §4505, formerly Pub. L. 106–65, div. C, title XXXI, §3150,Oct. 5, 1999, 113 Stat. 939; renumbered Pub. L. 107–314, div. D, title XLV, §4505, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(6), Nov. 24, 2003, 117 Stat. 1773; Pub. L. 112–239, div. C, title XXXI, §3131(m)(1), (bb)(1)(D), Jan. 2, 2013, 126 Stat. 2182, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(f)(3), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–291, div. C, title XXXI, §3142(k), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLV, §4505, formerly Pub. L. 106–65, div. C, title XXXI, §3150, Oct. 5, 1999, 113 Stat. 939; renumbered Pub. L. 107–314, div. D, title XLV, §4505, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(6), Nov. 24, 2003, 117 Stat. 1773; Pub. L. 112–239, div. C, title XXXI, §3131(m)(1), (bb)(1)(D), Jan. 2, 2013, 126 Stat. 2182, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(f)(3), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–291, div. C, title XXXI, §3142(k), Dec. 19, 2014, 128 Stat. 3901.)
 
 #### Codification
 

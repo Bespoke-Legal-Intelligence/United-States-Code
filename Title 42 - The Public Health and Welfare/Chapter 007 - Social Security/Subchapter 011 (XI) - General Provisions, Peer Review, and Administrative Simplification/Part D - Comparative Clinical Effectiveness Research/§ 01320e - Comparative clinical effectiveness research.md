@@ -96,7 +96,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;&emsp;&emsp;(II) comply with the methodological standards adopted under paragraph (9) with respect to such research;
 
-&emsp;&emsp;&emsp;&emsp;(III) consult with the expert advisory panels for clinical trials and rare diseaseappointed under clauses (ii) and (iii), respectively, of paragraph (4)(A);
+&emsp;&emsp;&emsp;&emsp;(III) consult with the expert advisory panels for clinical trials and rare disease appointed under clauses (ii) and (iii), respectively, of paragraph (4)(A);
 
 &emsp;&emsp;&emsp;&emsp;(IV) subject to clause (iv), permit a researcher who conducts original research, as described in subparagraph (A)(ii), under the contract for the agency, instrumentality, or other entity to have such research published in a peer-reviewed journal or other publication, as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate;
 
@@ -112,7 +112,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (iv) Subsequent use of the data
 
-&emsp;&emsp;&emsp;The Institute shall not allow the subsequent use of data from original research in work-for-hire contracts with individuals, entities, or instrumentalities that have a financial interest in the results, unless approved under a data use agreement with the Institute.
+&emsp;&emsp;&emsp;The Institute shall not allow the subsequent use of data from original research in work-for-hire contracts with individuals,entities, or instrumentalities that have a financial interest in the results, unless approved under a data use agreement with the Institute.
 
 #### (C) Review and update of evidence
 
@@ -172,7 +172,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (C) Functions
 
-&emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
+&emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness researchby, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
 &emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
@@ -232,7 +232,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (9) Adoption
 
-&emsp;Subject to subsection (h)(1), the Institute shall adopt the national priorities identified under paragraph (1)(A), the research project agenda established under paragraph (1)(B), the methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i), and any peer-review process provided under paragraph (7) by majority vote. In the case where the Institute does not adopt such processes in accordance with the preceding sentence, the processes shall be referred to the appropriate staff or entity within the Institute (or, in the case of the methodological standards, the methodology committee) for further review.
+&emsp;Subject to subsection (h)(1), the Institute shall adopt the national priorities identified under paragraph (1)(A), the research projectagenda established under paragraph (1)(B), the methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i), and any peer-review process provided under paragraph (7) by majority vote. In the case where the Institute does not adopt such processes in accordance with the preceding sentence, the processes shall be referred to the appropriate staff or entity within the Institute (or, in the case of the methodological standards, the methodology committee) for further review.
 
 #### (10) Annual reports
 
@@ -288,7 +288,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (3) Terms; vacancies
 
-&emsp;A member of the Board shall be appointed for a term of 6 years, except with respect tothe members first appointed, whose terms of appointment shall be staggered evenly over 2-year increments. No individual shall be appointed to the Board for more than 2 terms. Vacancies shall be filled in the same manner as the original appointment was made.
+&emsp;A member of the Board shall be appointed for a term of 6 years, except with respect to the members first appointed, whose terms of appointment shall be staggered evenly over 2-year increments. No individual shall be appointed to the Board for more than 2 terms. Vacancies shall be filled in the same manner as the original appointment was made.
 
 #### (4) Chairperson and Vice-Chairperson
 
@@ -300,7 +300,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (6) Director and staff; experts and consultants
 
-&emsp;The Board may employ and fix the compensation of an Executive Director and such other personnel as may be necessary to carry out the duties of the Institute and may seek such assistance and support of, or contract with, experts and consultants that may be necessary for the performance of the duties of the Institute.
+&emsp;The Board may employ and fix the compensation of an Executive Director and such other personnel as may be necessary to carry out the duties of the Institute and may seek such assistance and support of, or contract with, experts and consultants that may benecessary for the performance of the duties of the Institute.
 
 #### (7) Meetings and hearings
 

@@ -10,7 +10,7 @@ Deduction Upon Failure of Carrier To Settle.—In the case of a loss or damage o
 
 (c)
 
-Inapplicability of Related Limits.—The limitations on amounts of claims that may be settled under section 3721(b) of title 31 do not apply to a carrier's contractual obligation to pay full replacement value under this section.
+Inapplicability of Related Limits.—The limitations on amounts of claims that may besettled under section 3721(b) of title 31 do not apply to a carrier's contractual obligation to pay full replacement value under this section.
 
 (d)
 
@@ -20,7 +20,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for administ
 
 Transportation Defined.—In this section, the terms "transportation" and "transport", with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
-(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L.109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, §373, Jan. 28, 2008, 122 Stat. 82.)
+(Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, §373, Jan. 28, 2008, 122 Stat. 82.)
 
 #### Amendments
 

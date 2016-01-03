@@ -8,13 +8,13 @@
 
 (d) As used in this section—
 
-&emsp;(1) "nuclear weapons program" means a program or plan for the development, acquisition, or production of any nuclear weapon or weapons;
+&emsp;(1) "nuclear weapons program" means a program or plan for the development, acquisition,or production of any nuclear weapon or weapons;
 
 &emsp;(2) "weapons of mass destruction program" means a program or plan for the development, acquisition, or production of any weapon or weapons of mass destruction (as defined in section 2332a(c));
 
 &emsp;(3) "foreign terrorist power" means a terrorist organization designated under section 219 of the Immigration and Nationality Act, or a state sponsor of terrorism designated under section 6(j) of the Export Administration Act of 1979 or section 620A of the Foreign Assistance Act of 1961; and
 
-&emsp;(4) "nuclear weapon" means any weapon that contains or uses nuclear material as defined in section 831(f)(1).
+&emsp;(4) "nuclear weapon" means any weapon that contains or uses nuclear material as defined in section 831(f)(1).<sup>1</sup>
 
 (Added Pub. L. 108–458, title VI, §6803(c)(2), Dec. 17, 2004, 118 Stat. 3768.)
 
@@ -22,11 +22,15 @@
 
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (d)(3), is classified to section 1189 of Title 8, Aliens and Nationality.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to section 2405(j) of Title 50, Appendix, War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to section 4605(j) of Title 50, War and National Defense.
 
 Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to section 2371 of Title 22, Foreign Relations and Intercourse.
+
+Section 831(f)(1), referred to in subsec. (d)(4), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, §812(d), June 2, 2015, 129 Stat. 312.
 
 #### Prior Provisions
 
 A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, §216(b), Nov. 30, 1979, 93 Stat. 1015.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

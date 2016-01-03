@@ -38,7 +38,7 @@ Not later than March 1, 2015, and each year thereafter through 2027 (or, if the 
 
 #### (d) Plan
 
-If the Secretary of Energy does not make a certification under subsection (c) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressionaldefense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
+If the Secretary of Energy does not make a certification under subsection (c) by March 1 of any year in which a certification is required under that subsection, by not later than May 1 of such year, the Chairman of the Nuclear Weapons Council shall submit to the congressional defense committees a plan to enable the nuclear security enterprise to meet the requirements under subsection (a). Such plan shall include identification of the resources of the Department of Energy that the Chairman determines should be redirected to support the plan to meet such requirements.
 
 (Pub. L. 107–314, div. D, title XLII, §4219, as added Pub. L. 113–291, div. C, title XXXI, §3112(b)(1), Dec. 19, 2014, 128 Stat. 3886.)
 

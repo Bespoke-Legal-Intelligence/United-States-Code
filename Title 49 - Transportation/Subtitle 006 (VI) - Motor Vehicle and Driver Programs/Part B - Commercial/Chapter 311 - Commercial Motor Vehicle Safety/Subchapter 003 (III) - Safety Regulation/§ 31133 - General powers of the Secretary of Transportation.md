@@ -60,7 +60,7 @@ Oct. 30, 1984, Pub. L. 98–554, §211, 98 Stat. 2841.
 
 In subsection (a), the words before clause (1) are substituted for "In carrying out the Secretary's functions under this chapter, the Secretary is authorized to" and "to carry out the provisions of this chapter, or regulations issued pursuant to section 2302 of this Appendix" to eliminate unnecessary words. Clause (10) is substituted for "perform such acts . . . as the Secretary determines necessary". The text of 49 App.:2510(a) is omitted as covered by 49 App.:2510(b) (1st sentence).
 
-In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carryout the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
+In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carry out the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ In subsection (b), the words "In conducting inspections and investigations" are 
 
 #### Border Staffing Standards
 
-Pub. L. 106–159, title II, §218, Dec. 9, 1999, 113 Stat. 1767, provided that:
+Pub. L. 106–159, title II, §218, Dec. 9, 1999, 113 Stat. 1767, as amended by Pub. L. 114–94, div. A, title V, §5101(e)(10), Dec. 4, 2015, 129 Stat. 1525, provided that:
 
 "(a)
 
@@ -97,4 +97,6 @@ Allocation.—If the Secretary makes a designation of an amount under paragraph 
 &emsp;"(3)
 
 Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under \[former\] section 31104(f)(2)(B) of title 49, United States Code, for such fiscal year."
+
+<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(10), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, section 218 of Pub. L. 106–159, set out above, is amended in subsection (d)(1) by striking "section 31104(f)(2)(B) of title 49, United States Code" and inserting "section 31104(a)(1) of title 49, United States Code" and by striking subsection (d)(3).\]</i>
 

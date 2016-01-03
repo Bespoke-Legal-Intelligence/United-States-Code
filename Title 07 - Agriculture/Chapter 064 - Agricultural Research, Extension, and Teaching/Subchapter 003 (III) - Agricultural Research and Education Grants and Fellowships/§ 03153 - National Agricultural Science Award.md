@@ -22,7 +22,7 @@ Awards under this section shall be made in each fiscal year in two categories as
 
 #### (e) Nominating and selection committees
 
-The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations and make recommendations for awards under this section, as the Secretary deems appropriate.
+The Secretary may establish such nominating and selection committees, to consist of scientists and others, to receive nominations andmake recommendations for awards under this section, as the Secretary deems appropriate.
 
 (Pub. L. 95–113, title XIV, §1418, Sept. 29, 1977, 91 Stat. 997; Pub. L. 97–98, title XIV, §1420(a), Dec. 22, 1981, 95 Stat. 1306.)
 

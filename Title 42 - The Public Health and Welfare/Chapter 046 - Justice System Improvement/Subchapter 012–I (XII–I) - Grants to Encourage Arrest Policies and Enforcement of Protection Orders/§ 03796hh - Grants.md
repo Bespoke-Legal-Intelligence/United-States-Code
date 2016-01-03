@@ -74,7 +74,7 @@ Eligible grantees are—
 
 &emsp;&emsp;(C) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both parties file a claim and the court makes detailed findings of fact indicating that both parties acted primarily as aggressors and that neither party acted primarily in self-defense;
 
-&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking,or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
+&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection withthe prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
 
 &emsp;&emsp;(E) certify that,<sup>2</sup> their laws, policies, or practices will ensure that—
 
@@ -138,11 +138,11 @@ Subsec. (b)(1). Pub. L. 113–4, §102(a)(1)(A)(ii), inserted "and enforcement o
 
 Subsec. (b)(2). Pub. L. 113–4, §102(a)(1)(A)(iii), substituted "data collection systems, and training in police departments to improve tracking of cases and classification of complaints" for "and training in police departments to improve tracking of cases".
 
-Subsec. (b)(4). Pub. L. 113–4, §102(a)(1)(A)(iv), inserted "and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking" after "computer tracking systems".
+Subsec. (b)(4). Pub. L. 113–4, §102(a)(1)(A)(iv), inserted "and provide the appropriate training and educationabout domestic violence, dating violence, sexual assault, and stalking" after "computer tracking systems".
 
 Subsec. (b)(5). Pub. L. 113–4, §102(a)(1)(A)(v), inserted "and other victim services" after "legal advocacy service programs".
 
-Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted "Federal, State, tribal, territorial, and localjudges, courts, and court-based and court-related personnel" for "judges".
+Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted "Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel" for "judges".
 
 Subsec. (b)(8). Pub. L. 113–4, §102(a)(1)(A)(vii), substituted "dating violence, sexual assault, and stalking" for "and sexual assault".
 

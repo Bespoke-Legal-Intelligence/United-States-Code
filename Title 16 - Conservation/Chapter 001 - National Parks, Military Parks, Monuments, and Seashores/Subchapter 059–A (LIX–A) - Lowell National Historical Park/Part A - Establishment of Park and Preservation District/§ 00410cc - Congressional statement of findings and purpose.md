@@ -6,7 +6,7 @@
 
 &emsp;(2) the cultural heritage of many of the ethnic groups that immigrated to the United States during the late nineteenth and early twentieth centuries is still preserved in Lowell's neighborhoods;
 
-&emsp;(3) a very large proportion of the buildings, other structures, and districts in Lowell date to the period of the Industrial Revolution and are nationally significant historical resources, including the five-and-six-tenths-mile power canal system, seven original mill complexes, and significant examples of early housing, commercial structures, transportation facilities, and buildings associated with labor and social institutions; and
+&emsp;(3) a very large proportion of the buildings, other structures, and districts in Lowell date to the period of the Industrial Revolution and are nationally significant historical resources, including the five-and-six-tenths-mile power canal system, seven original mill complexes,and significant examples of early housing, commercial structures, transportation facilities, and buildings associated with labor and social institutions; and
 
 &emsp;(4) despite the expenditure of substantial amounts of money by the city of Lowell and the Commonwealth of Massachusetts for historical and cultural preservation and interpretation in Lowell, the early buildings and other structures in Lowell may be lost without the assistance of the Federal Government.
 

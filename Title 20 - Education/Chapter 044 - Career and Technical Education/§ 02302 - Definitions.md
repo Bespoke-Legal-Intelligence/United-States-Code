@@ -20,7 +20,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits,as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
@@ -106,7 +106,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;The term "eligible institution" means—
 
-&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers careerand technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
+&emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
 
 &emsp;&emsp;(B) a local educational agency providing education at the postsecondary level;
 
@@ -244,7 +244,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) is governed by a board of directors or trustees, a majority of whom are Indians;
 
-&emsp;&emsp;(D) demonstrates adherence to stated goals, a philosophy, or a plan of operation, that fosters individual Indian economic and self-sufficiency opportunity, including programs that are appropriate to stated tribal goals of developing individual entrepreneurships and self-sustaining economic infrastructures on reservations;
+&emsp;&emsp;(D) demonstrates adherence to stated goals, a philosophy, or a plan of operation,that fosters individual Indian economic and self-sufficiency opportunity, including programs that are appropriate to stated tribal goals of developing individual entrepreneurships and self-sustaining economic infrastructures on reservations;
 
 &emsp;&emsp;(E) has been in operation for at least 3 years;
 
@@ -252,7 +252,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(G) enrolls the full-time equivalent of not less than 100 students, of whom a majority are Indians.
 
-(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466.)
+(Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(1), Dec. 10, 2015, 129 Stat. 2168.)
 
 #### References in Text
 
@@ -270,5 +270,17 @@ Another prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §
 
 #### Amendments
 
+<b>2015</b>—Par. (8). Pub. L. 114–95, §9215(n)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 7221i of this title.
+
+Par. (11). Pub. L. 114–95, §9215(n)(1)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Par. (19). Pub. L. 114–95, §9215(n)(1)(C), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+Par. (27). Pub. L. 114–95, §9215(n)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
 <b>2008</b>—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

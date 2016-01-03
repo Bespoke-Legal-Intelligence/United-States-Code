@@ -48,7 +48,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (4)
 
-Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required bysubsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
+Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required by subsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -158,5 +158,65 @@ Subsec. (e)(4). Pub. L. 104–88, §104(d), added par. (4).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
+
+#### Minimum Financial Responsibility
+
+Pub. L. 114–94, div. A, title V, §5509, Dec. 4, 2015, 129 Stat. 1554, provided that:
+
+"(a)
+
+Transporting Property.—If the Secretary \[of Transportation\] proceeds with a rulemaking to determine whether to increase the minimum levels of financial responsibility required under section 31139 of title 49, United States Code, the Secretary shall consider, prior to issuing a final rule—
+
+&emsp;"(1) the rulemaking's potential impact on—
+
+&emsp;&emsp;"(A) the safety of motor vehicle transportation; and
+
+&emsp;&emsp;"(B) the motor carrier industry;
+
+&emsp;"(2) the ability of the insurance industry to provide the required amount of insurance;
+
+&emsp;"(3) the extent to which current minimum levels of financial responsibility adequately cover—
+
+&emsp;&emsp;"(A) medical care;
+
+&emsp;&emsp;"(B) compensation; and
+
+&emsp;&emsp;"(C) other identifiable costs;
+
+&emsp;"(4) the frequency with which insurance claims exceed current minimum levels of financial responsibility in fatal accidents; and
+
+&emsp;"(5) the impact of increased levels on motor carrier safety and accident reduction.
+
+"(b)
+
+Transporting Passengers.—
+
+&emsp;"(1)
+
+In general.—Prior to initiating a rulemaking to change the minimum levels of financial responsibility under section 31138 of title 49, United States Code, the Secretary shall complete a study specific to the minimum financial responsibility requirements for motor carriers of passengers.
+
+&emsp;"(2)
+
+Study contents.—A study under paragraph (1) shall include, to the extent practicable—
+
+&emsp;&emsp;"(A) a review of accidents, injuries, and fatalities in the over-the-road bus and school bus industries;
+
+&emsp;&emsp;"(B) a review of insurance held by over-the-road bus and public and private school bus companies, including companies of various sizes, and an analysis of whether such insurance is adequate to cover claims;
+
+&emsp;&emsp;"(C) an analysis of whether and how insurance affects the behavior and safety record of motor carriers of passengers, including with respect to crash reduction; and
+
+&emsp;&emsp;"(D) an analysis of the anticipated impacts of an increase in financial responsibility on insurance premiums for passenger carriers and service availability.
+
+&emsp;"(3)
+
+Consultation.—In conducting a study under paragraph (1), the Secretary shall consult with—
+
+&emsp;&emsp;"(A) representatives of the over-the-road bus and private school bus transportation industries, including representatives of bus drivers; and
+
+&emsp;&emsp;"(B) insurers of motor carriers of passengers.
+
+&emsp;"(4)
+
+Report.—If the Secretary undertakes a study under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study."
 

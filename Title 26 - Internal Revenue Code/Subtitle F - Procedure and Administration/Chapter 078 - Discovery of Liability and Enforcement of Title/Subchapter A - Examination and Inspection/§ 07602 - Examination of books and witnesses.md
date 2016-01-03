@@ -6,7 +6,7 @@ For the purpose of ascertaining the correctness of any return, making a return w
 
 &emsp;(1) To examine any books, papers, records, or other data which may be relevant or material to such inquiry;
 
-&emsp;(2) To summon the person liable for tax or required to perform the act, or any officer or employee of such person, or any person having possession, custody, or care of books of account containing entries relating to the business of the person liable for tax or required toperform the act, or any other person the Secretary may deem proper, to appear before the Secretary at a time and place named in the summons and to produce such books, papers, records, or other data, and to give such testimony, under oath, as may be relevant or material to such inquiry; and
+&emsp;(2) To summon the person liable for tax or required to perform the act, or any officer or employee of such person, or any person having possession, custody, or care of books of account containing entries relating to the business of the person liable for tax or required to perform the act, or any other person the Secretary may deem proper, to appear before the Secretary at a time and place named in the summons and to produce such books, papers, records, or other data, and to give such testimony, under oath, as may be relevant or material to such inquiry; and
 
 &emsp;(3) To take such testimony of the person concerned, under oath, as may be relevant or material to such inquiry.
 
@@ -18,7 +18,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (1) General notice
 
-&emsp;An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
+&emsp;An officer or employee of the Internal Revenue Service may not contact any person otherthan the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
 
 #### (2) Notice of specific contacts
 

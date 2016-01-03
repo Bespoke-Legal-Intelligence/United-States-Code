@@ -54,7 +54,7 @@
 
 &emsp;&emsp;For a product that entered the pharmaceutical distribution supply chain prior to January 1, 2015—
 
-&emsp;&emsp;&emsp;(i) authorized trading partners shall be exempt from providing transaction information as required under subsections\(b)(1)(A)(i), (c)(1)(A)(ii), (d)(1)(A)(ii), and (e)(1)(A)(ii);
+&emsp;&emsp;&emsp;(i) authorized trading partners shall be exempt from providing transaction information as required under subsections (b)(1)(A)(i), (c)(1)(A)(ii), (d)(1)(A)(ii), and (e)(1)(A)(ii);
 
 &emsp;&emsp;&emsp;(ii) transaction history required under this section shall begin with the owner of such product on such date; and
 
@@ -126,7 +126,7 @@
 
 #### (4) Verification
 
-&emsp;Beginning not later than January 1, 2015, a manufacturer shall have systems in place toenable the manufacturer to comply with the following requirements:
+&emsp;Beginning not later than January 1, 2015, a manufacturer shall have systems in place to enable the manufacturer to comply with the following requirements:
 
 #### (A) Suspect product
 
@@ -248,7 +248,7 @@
 
 #### (ii) Nonsaleable returns
 
-&emsp;&emsp;&emsp;A wholesale distributor may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, or to a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph (A)(i).
+&emsp;&emsp;&emsp;A wholesale distributor may return a nonsaleable product to the manufacturer or repackager, to the wholesale distributor from whom such product was purchased, orto a person acting on behalf of such a person, including a returns processor, without providing the information required under subparagraph (A)(i).
 
 #### (C) Requests for information
 
@@ -278,7 +278,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) quarantine such product within the possession or control of the wholesale distributor from product intended for distribution until such product is cleared or dispositioned; and
 
-&emsp;&emsp;&emsp;&emsp;(II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the wholesale distributor and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 6 years after November 27, 2013\(except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
+&emsp;&emsp;&emsp;&emsp;(II) promptly conduct an investigation in coordination with trading partners, as applicable, to determine whether the product is an illegitimate product, which shall include validating any applicable transaction history and transaction information in the possession of the wholesale distributor and otherwise investigating to determine whether the product is an illegitimate product, and, beginning 6 years after November 27, 2013 (except as provided pursuant to subsection (a)(5)), verifying the product at the package level, including the standardized numerical identifier.
 
 #### (ii) Cleared product
 
@@ -308,7 +308,7 @@
 
 #### (iii) Responding to a notification
 
-&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner that a determination has been made that a product is an illegitimate product, a wholesale distributor shall identify all illegitimate product subject to such notification that is in the possession or control of the wholesale distributor, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner that a determination has been made that a product is an illegitimate product, a wholesale distributor shall identify all illegitimateproduct subject to such notification that is in the possession or control of the wholesale distributor, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
 
 #### (iv) Terminating a notification
 
@@ -338,7 +338,7 @@
 
 &emsp;&emsp;&emsp;(ii) prior to, or at the time of, each transaction in which the dispenser transfers ownership of a product (but not including dispensing to a patient or returns) shall provide the subsequent owner with transaction history, transaction information, and a transaction statement for the product, except that the requirements of this clause shall not apply to sales by a dispenser to another dispenser to fulfill a specific patient need; and
 
-&emsp;&emsp;&emsp;(iii) shall capture transaction information (including lot level information, ifprovided), transaction history, and transaction statements, as necessary to investigate a suspect product, and maintain such information, history, and statements for not less than 6 years after the transaction.
+&emsp;&emsp;&emsp;(iii) shall capture transaction information (including lot level information, if provided), transaction history, and transaction statements, as necessary to investigate a suspect product, and maintain such information, history, and statements for not less than 6 years after the transaction.
 
 #### (B) Agreements with third parties
 
@@ -356,7 +356,7 @@
 
 #### (D) Requests for information
 
-&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect or an illegitimate product, a dispenser shall, not later than 2 business days after receiving the request or in another such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction statement, and transaction history which the dispenser received from the previous owner, which shall not include the lot number of the product, the initial transaction date, or the initial shipment date from the manufacturer unless such information was included in the transaction information, transaction statement, and transaction history provided by the manufacturer or wholesale distributor to the dispenser. The dispenser may respond to the request by providing the applicable information in either paper or electronic format. Until the date that is 4 years after November 27, 2013, the Secretary or other appropriate Federal or State official shall grant a dispenser additional time, as necessary, only with respect to a request to provide lot level information described in subparagraph (F) of section 360eee(26) of this title that was provided to the dispenser in paper format, limit the request time period to the 6 months preceding the request or other relevant date, and, in the event of a recall, the Secretary, or other appropriate Federal or State official may request information only if such recall involves a serious adverse health consequence or death to humans.
+&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect or an illegitimate product, a dispenser shall, not later than 2 business days after receiving the request or in another such reasonable time as determined by the Secretary, based on the circumstances of the request, provide the applicable transaction information, transaction statement, and transaction history which the dispenser received from the previous owner, which shall not include the lot number of the product, the initial transaction date, or the initial shipment date from the manufacturer unless such information was included in the transaction information, transaction statement, and transaction history provided by the manufacturer or wholesale distributor to the dispenser. The dispenser may respond to the request by providing the applicable information in either paper or electronic format. Until the date that is 4 years after November 27, 2013, the Secretary or other appropriate Federal or State official shall grant a dispenser additional time, as necessary, only with respectto a request to provide lot level information described in subparagraph (F) of section 360eee(26) of this title that was provided to the dispenser in paper format, limit the request time period to the 6 months preceding the request or other relevant date, and, in the event of a recall, the Secretary, or other appropriate Federal or State official may request information only if such recall involves a serious adverse health consequence or death to humans.
 
 #### (2) Product identifier
 
@@ -426,7 +426,7 @@
 
 #### (v) Records
 
-&emsp;&emsp;&emsp;A dispenser shall keep records of the disposition of an illegitimate product for not less than 6 years after the conclusion of the disposition.
+&emsp;&emsp;&emsp;A dispenser shall keep records of the disposition of an illegitimate product for notless than 6 years after the conclusion of the disposition.
 
 #### (C) Electronic database
 
@@ -462,7 +462,7 @@
 
 #### (C) Requests for information
 
-&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in theevent of a recall or for the purpose of investigating a suspect product or an illegitimate product, a repackager described in section 360eee(16)(A) of this title shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statement for the product.
+&emsp;&emsp;Upon a request by the Secretary or other appropriate Federal or State official, in the event of a recall or for the purpose of investigating a suspect product or an illegitimate product, a repackager described in section 360eee(16)(A) of this title shall, not later than 1 business day, and not to exceed 48 hours, after receiving the request or in other such reasonable time as determined by the Secretary, provide the applicable transaction information, transaction history, and transaction statement for the product.
 
 #### (2) Product identifier
 
@@ -528,7 +528,7 @@
 
 #### (iii) Responding to a notification
 
-&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner, a repackager shall identify all illegitimateproduct subject to such notification that is in the possession or control of the repackager, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
+&emsp;&emsp;&emsp;Upon the receipt of a notification from the Secretary or a trading partner, a repackager shall identify all illegitimate product subject to such notification that is in the possession or control of the repackager, including any product that is subsequently received, and shall perform the activities described in subparagraph (A).
 
 #### (iv) Terminating a notification
 
@@ -548,7 +548,7 @@
 
 #### (E) Verification of saleable returned product
 
-&emsp;&emsp;Beginning 5 years after November 27, 2013, upon receipt of a returned product that the repackager intends to further distribute, before further distributing such product, the repackager shall verify the product identifier for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package.
+&emsp;&emsp;Beginning 5 years after November 27, 2013, upon receipt of a returned product that the repackager intends to further distribute, before further distributing such product, therepackager shall verify the product identifier for each sealed homogeneous case of such product or, if such product is not in a sealed homogeneous case, verify the product identifier on each package.
 
 #### (f) Drop shipments
 
@@ -600,7 +600,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than the date that is 18 months after the Secretary issues the final guidance required under subsection (h), the Secretary shall enter into a contract with a private, independent consulting firm with expertise to conduct a technology and software assessment that looks at the feasibility of dispensers with 25 or fewer full-time employees conducting interoperable, electronic tracing of products at the package level. Such assessment shall be completed not later than 8½ years after November 27, 2013.
+&emsp;&emsp;Not later than the date that is 18 months after the Secretary issues the final guidancerequired under subsection (h), the Secretary shall enter into a contract with a private, independent consulting firm with expertise to conduct a technology and software assessment that looks at the feasibility of dispensers with 25 or fewer full-time employees conducting interoperable, electronic tracing of products at the package level. Such assessment shall be completed not later than 8½ years after November 27, 2013.
 
 #### (B) Condition
 
@@ -702,7 +702,7 @@
 
 &emsp;&emsp;In order to enhance secure tracing of a product at the package level, the Secretary, not later than 18 months after conducting a public meeting on the interoperable standards necessary to enhance the security of the pharmaceutical distribution supply chain, shall update the guidance issued pursuant to subsection (a)(2), as necessary and appropriate, and finalize such guidance document so that the guidance document—
 
-&emsp;&emsp;&emsp;(i) identifies and makes recommendations with respect to the standards necessary for adoption in order to support thesecure, interoperable electronic data exchange among the pharmaceutical distribution supply chain that comply with a form and format developed by a widely recognized international standards development organization;
+&emsp;&emsp;&emsp;(i) identifies and makes recommendations with respect to the standards necessary for adoption in order to support the secure, interoperable electronic data exchange among the pharmaceutical distribution supply chain that comply with a form and format developed by a widely recognized international standards development organization;
 
 &emsp;&emsp;&emsp;(ii) takes into consideration standards established pursuant to subsection (a)(2) and section 355e of this title;
 

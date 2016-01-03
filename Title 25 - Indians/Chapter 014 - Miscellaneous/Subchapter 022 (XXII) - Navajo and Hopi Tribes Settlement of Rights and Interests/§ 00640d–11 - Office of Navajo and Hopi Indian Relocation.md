@@ -16,7 +16,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (1)(A) Except as otherwise provided by the Navajo and Hopi Indian Relocation Amendments of 1988, the Commissioner shall have all the powers and be responsible for all the duties that the Navajo and Hopi Indian Relocation Commission had before November 16, 1988.
 
-(B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by theSenate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date and shall remain available without fiscal year limitation.
+(B) All funds appropriated to the Navajo and Hopi Indian Relocation Commission before the date on which the first Commissioner on Navajo and Hopi Indian Relocation is confirmed by the Senate that have not been expended on such date shall become available to the Office of Navajo and Hopi Indian Relocation on such date andshall remain available without fiscal year limitation.
 
 (2) There are hereby transferred to the Commissioner, on January 31, 1989—
 

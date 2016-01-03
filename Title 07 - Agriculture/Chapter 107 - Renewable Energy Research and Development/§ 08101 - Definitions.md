@@ -74,7 +74,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "forest product" means a product made from materials derived from the practice of forestry or the management of growing timber.
+&emsp;&emsp;The term "forest product" means a product made from materials derived from thepractice of forestry or the management of growing timber.
 
 #### (B) Inclusions
 
@@ -94,7 +94,7 @@ Except as otherwise provided, in this chapter:
 
 #### (12) Intermediate ingredient or feedstock
 
-&emsp;The term "intermediate ingredient or feedstock" means a material or compound made inwhole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
+&emsp;The term "intermediate ingredient or feedstock" means a material or compound made in whole or in significant part from biological products, including renewable agricultural materials (including plant, animal, and marine materials) or forestry materials, that are subsequently used to make a more complex compound or product.
 
 #### (13) Renewable biomass
 
@@ -200,7 +200,7 @@ Par. (17). Pub. L. 113–79, §9001(1), redesignated par. (14) as (17).
 
 #### Effective Date
 
-Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as a note under section 8701 of this title.
 
 #### Short Title of 2004 Amendment
 
@@ -208,7 +208,7 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, andtitle III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
 #### Biofuels And Rural Economic Development
 

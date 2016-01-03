@@ -14,6 +14,10 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 <b>1937</b>—Act May 20, 1937, inserted "for the purpose of promoting safety of life and property through the use of wire and radio communication".
 
+#### Extension of Internet Tax Freedom Act
+
+Pub. L. 114–113, div. E, title VI, §633, Dec. 18, 2015, 129 Stat. 2471, provided that: "Sections 1101(a) and 1104(a)(2)(A) of the Internet Tax Freedom Act (title XI of division C of Public Law 105–277; 47 U.S.C. 151 note) shall be applied by substituting 'October 1, 2016' for 'October 1, 2015'."
+
 #### Moratorium on Internet Taxes
 
 Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703; Pub. L. 108–435, §§2–6A, Dec. 3, 2004, 118 Stat. 2615–2618; Pub. L. 110–108, §§2–6, Oct. 31, 2007, 121 Stat. 1024–1026; Pub. L. 113–235, div. E, title VI, §624, Dec. 16, 2014, 128 Stat. 2377, provided that:
@@ -26,7 +30,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as ame
 
 "(a)
 
-Moratorium.—No State or political subdivision thereof may impose any of the following taxes during the period beginning November 1, 2003, and ending October 1, 2015:
+Moratorium.—No State or political subdivision thereof may impose any of the following taxes duringthe period beginning November 1, 2003, and ending October 1, 2015:
 
 &emsp;"(1) Taxes on Internet access.
 
@@ -34,7 +38,7 @@ Moratorium.—No State or political subdivision thereof may impose any of the fo
 
 "(b)
 
-Preservation of State and Local Taxing Authority.—Except as provided in this section, nothingin this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
+Preservation of State and Local Taxing Authority.—Except as provided in this section, nothing in this title shall be construed to modify, impair, or supersede, or authorize the modification, impairment, or superseding of, any State or local law pertaining to taxation that is otherwise permissible by or under the Constitution of the United States or other Federal law and in effect on the date of enactment of this Act \[Oct. 21, 1998\].
 
 "(c)
 
@@ -262,7 +266,7 @@ National Tax Association Communications and Electronic Commerce Tax Project.—T
 
 #### "SEC. 1103. REPORT.
 
-"Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shall transmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remotecommerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
+"Not later than 18 months after the date of the enactment of this Act \[Oct. 21, 1998\], the Commission shalltransmit to Congress for its consideration a report reflecting the results, including such legislative recommendations as required to address the findings of the Commission's study under this title. Any recommendation agreed to by the Commission shall be tax and technologically neutral and apply to all forms of remote commerce. No finding or recommendation shall be included in the report unless agreed to by at least two-thirds of the members of the Commission serving at the time the finding or recommendation is made.
 
 #### "SEC. 1104. GRANDFATHERING OF STATES THAT TAX INTERNET ACCESS.
 
@@ -388,7 +392,7 @@ Discriminatory tax.—The term 'discriminatory tax' means—
 
 &emsp;"(3)
 
-Electronic commerce.—The term 'electronic commerce' means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property,goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
+Electronic commerce.—The term 'electronic commerce' means any transaction conducted over the Internet or through Internet access, comprising the sale, lease, license, offer, or delivery of property, goods, services, or information, whether or not for consideration, and includes the provision of Internet access.
 
 &emsp;"(4)
 
@@ -492,7 +496,7 @@ No inference.—No inference of legislative construction shall be drawn from thi
 
 "(a)
 
-In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet access provider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
+In General.—If charges for Internet access are aggregated with and not separately stated from charges for telecommunications or other charges that are subject to taxation, then the charges for Internet access may be subject to taxation unless the Internet accessprovider can reasonably identify the charges for Internet access from its books and records kept in the regular course of business.
 
 "(b)
 

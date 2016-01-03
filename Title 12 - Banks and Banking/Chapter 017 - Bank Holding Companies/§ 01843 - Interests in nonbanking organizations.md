@@ -38,7 +38,7 @@ The prohibitions in this section shall not apply to (i) any company that was on 
 
 &emsp;(10) shares lawfully acquired and owned prior to May 9, 1956, by a bank which is a bank holding company, or by any of its wholly owned subsidiaries;
 
-&emsp;(11) shares owned directly or indirectly by a company covered in 1970 in a company which does not engage in any activities other than those in which the bank holding company, or its subsidiaries, may engage by virtue of this section, but nothing in this paragraph authorizes any bank holding company, or subsidiary thereof, to acquire any interest in or the assets of any going concern (except pursuant to a binding written contract entered into before June 30, 1968, or pursuant to another provision of this chapter) other than one which was a subsidiary on June 30, 1968;
+&emsp;(11) shares owned directly or indirectly by a company covered in 1970 in a company which does not engage in any activities other than those in which the bank holding company, or its subsidiaries, may engage by virtue of this section, but nothing in this paragraph authorizes any bank holding company, or subsidiarythereof, to acquire any interest in or the assets of any going concern (except pursuant to a binding written contract entered into before June 30, 1968, or pursuant to another provision of this chapter) other than one which was a subsidiary on June 30, 1968;
 
 &emsp;(12) shares retained or acquired, or activities engaged in, by any company which becomes, as a result of the enactment of the Bank Holding Company Act Amendments of 1970, a bank holding company on December 31, 1970, or by any subsidiary thereof, if such company—
 
@@ -76,13 +76,13 @@ Leverage.—The Board may not disapprove any proposed investment solely on the b
 
 &emsp;&emsp;(ii) No provision of any other Federal law in effect on October 1, 1982, relating specifically to collateral requirements shall apply with respect to any such extension of credit.
 
-&emsp;&emsp;(iii) No bank holding company or subsidiary of such company which invests in an export trading company may extend credit to such export trading company or to customers of such export trading company onterms more favorable than those afforded similar borrowers in similar circumstances, and such extension of credit shall not involve more than the normal risk of repayment or present other unfavorable features.
+&emsp;&emsp;(iii) No bank holding company or subsidiary of such company which invests in an export trading company may extend credit to such export trading company or to customers of such export trading company on terms more favorable than those afforded similar borrowers in similar circumstances, and such extension of credit shall not involve more than the normal risk of repayment or present other unfavorable features.
 
 &emsp;&emsp;(C) For purposes of this paragraph, an export trading company—
 
 &emsp;&emsp;&emsp;(i) may engage in or hold shares of a company engaged in the business of underwriting, selling, or distributing securities in the United States only to the extent that any bank holding company which invests in such export trading company may do so under applicable Federal and State banking laws and regulations; and
 
-&emsp;&emsp;&emsp;(ii) may not engage in agricultural production activities or in manufacturing, except for such incidental product modification including repackaging, reassembling or extracting byproducts, as is necessary to enable United States goods or services to conform with requirements of a foreign country and to facilitate their sale in foreign countries.
+&emsp;&emsp;&emsp;(ii) may not engage in agricultural production activities or in manufacturing, except for such incidental product modification including repackaging, reassembling or extracting byproducts, as is necessary to enable United States goods or servicesto conform with requirements of a foreign country and to facilitate their sale in foreign countries.
 
 &emsp;&emsp;(D) A bank holding company which invests in an export trading company may be required, by the Board, to terminate its investment or may be made subject to such limitations or conditions as may be imposed by the Board, if the Board determines that the export trading company has taken positions in commodities or commodity contracts, in securities, or in foreign exchange, other than as may be necessary in the course of the export trading company's business operations.
 
@@ -116,7 +116,7 @@ Export revenue requirements.—A company shall not be treated as operated princi
 
 &emsp;&emsp;&emsp;&emsp;(I) the revenues of such company from the export, or facilitating the export, of goods or services produced in the United States exceed the revenues of such company from the import, or facilitating the import, into the United States of goods or services produced outside the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) at least 1/3 of such company's total revenues are revenues from the export, or facilitating the export, of goods or services produced in the United Statesby persons not affiliated with such company.
+&emsp;&emsp;&emsp;&emsp;(II) at least 1/3 of such company's total revenues are revenues from the export, or facilitating the export, of goods or services produced in the United States by persons not affiliated with such company.
 
 &emsp;&emsp;(H)
 
@@ -128,7 +128,7 @@ No general limitation.—The Board may not prescribe by regulation any maximum d
 
 &emsp;&emsp;&emsp;(ii)
 
-Specific limitation by order.—Notwithstanding clause (i), the Board may issue an order establishing a maximum dollar amount limitation on the value of goods which a particular export trading company may maintain in inventory at any time (after such company has been operating for a reasonable period of time) if the Board finds that, under the facts and circumstances, such limitation is necessary to prevent risks that would affect the financial or managerial resources of an investor bank holding company to an extent which would be likely to have a materially adverse effect on the safety and soundness of any subsidiary bank of such bank holding company.
+Specific limitation by order.—Notwithstanding clause (i), the Board may issue an order establishing a maximum dollar amount limitation on the value of goods which a particular export trading company may maintain in inventory at any time (after such company has been operating for a reasonable period of time) if the Board finds that, under the facts and circumstances, such limitation is necessary to prevent risks that would affect the financial or managerial resources of aninvestor bank holding company to an extent which would be likely to have a materially adverse effect on the safety and soundness of any subsidiary bank of such bank holding company.
 
 > The Board shall include in its annual report to the Congress a description and a statement of the reasons for approval of each activity approved by it by order or regulation under such paragraph during the period covered by the report.
 
@@ -246,7 +246,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (A) In general
 
-&emsp;&emsp;In addition to any other power of the Board, the Board may enforce compliancewith the provisions of this chapter which are applicable to any company described in paragraph (1), and any bank controlled by such company, under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] and such company or bank shall be subject to such section (for such purposes) in the same manner and to the same extent as if such company or bank were a State member insured bank.
+&emsp;&emsp;In addition to any other power of the Board, the Board may enforce compliance with the provisions of this chapter which are applicable to any company described in paragraph (1), and any bank controlled by such company, under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] and such company or bank shall be subject to such section (for such purposes) in the same manner and to the same extent as if such company or bank were a State member insured bank.
 
 #### (B) Application of other act
 
@@ -254,7 +254,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (C) No effect on other authority
 
-&emsp;&emsp;No provision of this paragraph shall be construed as limiting any authority of the Comptroller of the Currency or the Federal Deposit Insurance Corporation.
+&emsp;&emsp;No provision of this paragraph shall be construed as limiting any authority of theComptroller of the Currency or the Federal Deposit Insurance Corporation.
 
 #### (9) Tying provisions
 
@@ -328,7 +328,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (2) Limitations cease to apply under certain circumstances
 
-&emsp;The limitations contained in paragraph (1) shall cease to apply to a bank described in such paragraph at such time as the acquisition of such bank, by the bank holding company referred to in such paragraph, would not be prohibited under section 1842(d) of this title if—
+&emsp;The limitations contained in paragraph (1) shall cease to apply to a bank described insuch paragraph at such time as the acquisition of such bank, by the bank holding company referred to in such paragraph, would not be prohibited under section 1842(d) of this title if—
 
 &emsp;&emsp;(A) an application for such acquisition were filed under section 1842(a) of this title; and
 
@@ -462,7 +462,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (B) Grounds for disapproval
 
-&emsp;&emsp;The Board may deny any proposed transaction or activity for which notice has been submitted pursuant to this subsection if the bank holding company submitting such notice neglects, fails, or refuses to furnish the Board all the information required by the Board.
+&emsp;&emsp;The Board may deny any proposed transaction or activity for which notice has beensubmitted pursuant to this subsection if the bank holding company submitting such notice neglects, fails, or refuses to furnish the Board all the information required by the Board.
 
 #### (C) Conditional action
 
@@ -528,7 +528,7 @@ With respect to shares which were not subject to the prohibitions of this sectio
 
 #### (A) Commencement of activities approved by rule
 
-&emsp;&emsp;A bank holding company that qualifies under paragraph (4) and that proposes to engage de novo, directly or through a subsidiary, in any activity that is permissible under subsection (c)(8), as determined by theBoard by regulation, may commence that activity without prior notice to the Board and must provide written notification to the Board not later than 10 business days after commencing the activity.
+&emsp;&emsp;A bank holding company that qualifies under paragraph (4) and that proposes to engage de novo, directly or through a subsidiary, in any activity that is permissible under subsection (c)(8), as determined by the Board by regulation, may commence that activity without prior notice to the Board and must provide written notification to the Board not later than 10 business days after commencing the activity.
 
 #### (B) Activities permitted by order and acquisitions
 
@@ -824,7 +824,7 @@ Notwithstanding subsection (a), a company that is not a bank holding company or 
 
 &emsp;&emsp;(B) any affiliated depository institution to offer or market any product or service of any company, the shares of which are owned or controlled by such holding company pursuant to this subsection.
 
-(May 9, 1956, ch. 240, §4, 70 Stat. 135; Pub. L. 89–485, §8, July 1, 1966, 80 Stat. 238; Pub. L. 91–607, title I, §103, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §301(c), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–630, title I, §112, Nov. 10, 1978, 92 Stat. 3671; Pub. L. 96–221, title VII, §701(b), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–290, title II, §203, Oct. 8, 1982, 96 Stat. 1236; Pub. L. 97–320, title I, §§118(a), 141(a)(4), title IV, §433(b), title VI, §601, Oct. 15, 1982, 96 Stat. 1479, 1489, 1527, 1536; Pub. L. 97–457, §30, Jan. 12, 1983, 96 Stat. 2511; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title I, §101(b), (c), title V, §§502(h)(2), 509(a), Aug. 10, 1987, 101 Stat. 557, 628, 635; Pub. L. 100–418, title III, §3402, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 101–73, title VI, §§601(a), 603, 604(b), title XII, §1219, Aug. 9, 1989, 103 Stat. 408, 409, 411, 546; Pub. L. 102–242, title IV, §461, Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–550, title XVI, §1606(h)(1), Oct. 28, 1992, 106 Stat. 4089; Pub. L. 103–325, title III, §346, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §§2203(d), 2208(a), 2215, 2304(a), 2612, Sept. 30, 1996, 110 Stat. 3009–404, 3009–406, 3009–413, 3009–425, 3009–476; Pub. L. 106–102, title I, §§102(a), 103(a), (c)(2), 107(a), (b), (d)–(f), Nov. 12, 1999, 113 Stat. 1341, 1342, 1351, 1359–1361; Pub. L. 109–351, title VI, §611, title VII, §727(b), Oct. 13, 2006, 120 Stat.1984, 2003; Pub. L. 111–203, title III, §354(2)(A), title VI, §§604(e), 606(a), 623(b)(1), July 21, 2010, 124 Stat. 1546, 1601, 1607, 1634.)
+(May 9, 1956, ch. 240, §4, 70 Stat. 135; Pub. L. 89–485, §8, July 1, 1966, 80 Stat. 238; Pub. L. 91–607, title I, §103, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §301(c), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–630, title I, §112, Nov. 10, 1978, 92 Stat. 3671; Pub. L. 96–221, title VII, §701(b), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–290, title II, §203, Oct. 8, 1982, 96 Stat. 1236; Pub. L. 97–320, title I, §§118(a), 141(a)(4), title IV, §433(b), title VI, §601, Oct. 15, 1982, 96 Stat. 1479, 1489, 1527, 1536; Pub. L. 97–457, §30, Jan. 12, 1983, 96 Stat. 2511; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title I, §101(b), (c), title V, §§502(h)(2), 509(a), Aug. 10, 1987, 101 Stat. 557, 628, 635; Pub. L. 100–418, title III, §3402, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 101–73, title VI, §§601(a), 603, 604(b), title XII, §1219, Aug. 9, 1989, 103 Stat. 408, 409, 411, 546; Pub. L. 102–242, title IV, §461, Dec. 19, 1991, 105 Stat. 2384; Pub. L. 102–550, title XVI, §1606(h)(1), Oct. 28, 1992, 106 Stat. 4089; Pub. L. 103–325, title III, §346, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §§2203(d), 2208(a), 2215, 2304(a), 2612, Sept. 30, 1996, 110 Stat. 3009–404, 3009–406, 3009–413, 3009–425, 3009–476; Pub. L. 106–102, title I, §§102(a), 103(a), (c)(2), 107(a), (b), (d)–(f), Nov. 12, 1999, 113 Stat. 1341, 1342, 1351, 1359–1361; Pub. L. 109–351, title VI, §611, title VII, §727(b), Oct. 13, 2006, 120 Stat. 1984, 2003; Pub. L. 111–203, title III, §354(2)(A), title VI, §§604(e), 606(a), 623(b)(1), July 21, 2010, 124 Stat. 1546, 1601, 1607, 1634.)
 
 #### References in Text
 
@@ -886,7 +886,7 @@ Subsec. (l)(1)(D)(ii). Pub. L. 111–203, §606(a)(4), substituted "subparagraph
 
 Subsec. (n)(5)(B). Pub. L. 109–351, §611, substituted "subparagraph (H) or (I) of subsection (k)(4)" for "subsection (k)(4)(I)" in introductory provisions.
 
-<b>1999</b>—Subsec. (c)(8). Pub. L. 106–102, §102(a), amended par. (8) generally, substituting present provisions for provisions which exempted from prohibitions of this section shares of any bank holding company the activities of which were determined to be so closely related to banking or managing or controlling banks as to be a proper incident thereto, which further provided that for purposes of this subsection it was not closely related to banking or managing or controlling banks for a bank holding company to provide insurance as a principal, agent, or broker except in certain circumstances, which further provided factors to consider in determining whether a particular activity is a proper incident to banking or managing or controlling banks, and whichfurther provided notice and other procedural requirements in making such determinations.
+<b>1999</b>—Subsec. (c)(8). Pub. L. 106–102, §102(a), amended par. (8) generally, substituting present provisions for provisions which exempted from prohibitions of this section shares of any bank holding company the activities of which were determined to be so closely related to banking or managing or controlling banks as to be a proper incident thereto, which further provided that for purposes of this subsection it was not closely related to banking or managing or controlling banks for a bank holding company to provide insurance as a principal, agent, or broker except in certain circumstances, which further provided factors to consider in determining whether a particular activity is a proper incident to banking or managing or controlling banks, and which further provided notice and other procedural requirements in making such determinations.
 
 Subsec. (f)(2). Pub. L. 106–102, §107(d)(1), added introductory provisions and struck out former introductory provisions which read as follows: "Paragraph (1) shall cease to apply to any company described in such paragraph if—".
 
@@ -972,7 +972,7 @@ Subsec. (c)(8)(G). Pub. L. 97–457, §30(2), struck out proviso that such bank 
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320, §433(b), substituted "December 31, 1984" for "December 31, 1982".
 
-Subsec. (c)(8). Pub. L. 97–320, §§118(a), 601, inserted specification that providing insurance is not being closely related to banking or managing or controlling banks for purposes of this subsection, exceptions thereto in cls. (A) through (G), and the subsequent proviso relating to the sale of life insurance or annuities, and inserted provisions relating to dispensation from the notice and hearing requirement in the event of an emergency.
+Subsec. (c)(8). Pub. L. 97–320, §§118(a), 601, inserted specification that providing insurance is not being closely related to banking or managing or controlling banks for purposes of this subsection, exceptions thereto in cls. (A) through (G), and the subsequent provisorelating to the sale of life insurance or annuities, and inserted provisions relating to dispensation from the notice and hearing requirement in the event of an emergency.
 
 Pub. L. 97–320, §141(a)(4), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 118 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
@@ -1010,7 +1010,7 @@ Amendment by section 604(e) of Pub. L. 111–203 effective on the transfer date,
 
 Amendment by section 606(a) of Pub. L. 111–203 effective on the transfer date, see section 606(c) of Pub. L. 111–203, set out as a note under section 1467a of this title.
 
-Amendment by section 623(b)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwiseprovided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+Amendment by section 623(b)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -1080,7 +1080,7 @@ Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this
 
 #### Bank Export Services
 
-Pub. L. 97–290, title II, §202, Oct. 8, 1982, 96 Stat. 1235, provided that: "The Congress hereby declares that it is the purpose of this title \[enacting section 635a–4 of this title, amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title\] to provide for meaningful and effective participation by bank holding companies, bankers' banks, and Edge Act \[12 U.S.C. 611 et seq.\] corporations, in the financing and development of export trading companies in the United States. In furtherance of such purpose, the Congress intends that, in implementing its authority under section 4(c)(14) of the Bank Holding Company Act of 1956 \[subsec. (c)(14) of this section\] the Board of Governors of the Federal Reserve System should pursue regulatory policies that—
+Pub. L. 97–290, title II, §202, Oct. 8, 1982, 96 Stat. 1235, provided that: "The Congress hereby declares that it is the purpose of this title \[enacting section 635a–4 of this title, amending sections 372 and 1843 of this title, and enacting provisions set out as notes under section 1843 of this title\] to provide for meaningful and effective participation by bank holding companies, bankers' banks, and Edge Act \[12 U.S.C. 611 et seq.\] corporations, in the financing and development of export trading companies in the United States. In furtherance of such purpose, the Congress intends that, in implementing its authority under section 4(c)(14) of the Bank HoldingCompany Act of 1956 \[subsec. (c)(14) of this section\] the Board of Governors of the Federal Reserve System should pursue regulatory policies that—
 
 &emsp;"(1) provide for the establishment of export trading companies with powers sufficiently broad to enable them to complete with similar foreign-owned institutions in the United States and abroad;
 

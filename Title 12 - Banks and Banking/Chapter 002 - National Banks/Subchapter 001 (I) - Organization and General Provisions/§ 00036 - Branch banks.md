@@ -32,21 +32,21 @@ A national banking association may retain and operate such branch or branches as
 
 #### (c) New branches
 
-A national banking association may, with the approval of the Comptroller of the Currency, establish and operate new branches: (1) Within the limits of the city, town or village in which said association is situated, if such establishment and operation are at the time expressly authorized to State banks by the law of the State in question; and (2) at any point within the State in which said association is situated, if such establishment and operation are at the time authorized to State banks by the statute law of the State in question by language specifically granting such authority affirmatively and not merely by implication or recognition, and subject to the restrictions as to location imposed by the law of the State on State banks. In any State in which State banks are permitted by statute law to maintain branches within county or greater limits, if no bank is located and doing business in the place where the proposed agency is to be located, any national banking association situated in such State may, with the approval of the Comptroller of the Currency, establish and operate, without regard to the capital requirements of this section, a seasonal agency in any resort community within the limits of the county in which the main office of such association is located, for the purpose of receiving and paying out deposits, issuing and cashing checks and drafts, and doing business incident thereto: <i>Provided</i>, That any permit issued under this sentence shall be revoked upon the opening of a State or national bank in such community. Except as provided in the immediately preceding sentence, no such association shall establish a branch outside of the city, town, or village in which it is situated unless it has a combined capital stock and surplus equal to the combined amount of capital stock and surplus, if any, required by the law of the State in which such association is situated for the establishment of such branches by State banks, or, if the law of such State requires only a minimum capital stock for the establishment of such branches by State banks, unless such association has not less than an equal amount of capital stock.
+A national banking association may, with the approval of the Comptroller of the Currency, establish and operate new branches: (1) Within the limits of the city, town or village in which said association is situated, if such establishment and operation are at the time expressly authorized to State banks by the law of the State in question; and (2) at any point within the State in which said association is situated, if such establishment and operation are at the time authorized to State banks by the statute law of the State in question by language specifically granting such authority affirmatively and not merely by implication or recognition, and subject to the restrictions as to location imposedby the law of the State on State banks. In any State in which State banks are permitted by statute law to maintain branches within county or greater limits, if no bank is located and doing business in the place where the proposed agency is to be located, any national banking association situated in such State may, with the approval of the Comptroller of the Currency, establish and operate, without regard to the capital requirements of this section, a seasonal agency in any resort community within the limits of the county in which the main office of such association is located, for the purpose of receiving and paying out deposits, issuing and cashing checks and drafts, and doing business incident thereto: <i>Provided</i>, That any permit issued under this sentence shall be revoked upon the opening of a State or national bank in such community. Except as provided in the immediately preceding sentence, no such association shall establish a branch outside of the city, town, or village in which it is situated unless it has a combined capital stock and surplus equal to the combined amount of capital stock and surplus, if any, required by the law of the State in which such association is situated for the establishment of such branches by State banks, or, if the law of such State requires only a minimum capital stock for the establishment of such branches by State banks, unless such association has not less than an equal amount of capital stock.
 
 #### (d) Branches resulting from interstate merger transactions
 
-A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of this section) of such bank in accordance with section 1831u of this title.
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with section 1831u of this title.
 
 #### (e) Exclusive authority for additional branches
 
 #### (1) In general
 
-&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
+&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B)) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
 
 #### (2) Retention of branches
 
-&emsp;In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B) of this section) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
+&emsp;In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B)) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
 
 &emsp;&emsp;(A) the bank had no branches in such State; or
 
@@ -78,7 +78,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (2) Treatment of branch as bank
 
-&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumer protection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of anout-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
+&emsp;All laws of a host State, other than the laws regarding community reinvestment, consumer protection, fair lending, establishment of intrastate branches, and the application or administration of any tax or method of taxation, shall apply to a branch (in such State) of an out-of-State national bank to the same extent as such laws would apply if the branch were a national bank the main office of which is in such State.
 
 #### (3) Rule of construction
 
@@ -160,7 +160,7 @@ R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "there is in effect in the host State a law that—
+<b>2010</b>—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "there is in effect in the host State a law that—
 
 &emsp;"(i) applies equally to all banks; and
 

@@ -14,7 +14,7 @@ Section 796g, Pub. L. 93–112, title VII, §731, as added Pub. L. 95–602, tit
 
 Section 796h, Pub. L. 93–112, title VII, §732, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 3000; amended Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810, related to affirmative action on part of recipients of assistance to employ and advance in employment qualified individuals with handicaps.
 
-Section 796i, Pub. L. 93–112, title VII, §741, formerly §731, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 3001; renumbered §741 and amended Pub. L. 98–221, title I, §172(a)(1), (b), Feb. 22, 1984, 98 Stat. 32; Pub. L. 99–506, title VIII, §806, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title II, §208(i), Nov. 7, 1988, 102 Stat. 3315; Pub. L. 102–52, §8, June 6, 1991, 105 Stat. 262, provided for appropriations.
+Section 796i, Pub. L. 93–112, title VII, §741, formerly §731, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978,92 Stat. 3001; renumbered §741 and amended Pub. L. 98–221, title I, §172(a)(1), (b), Feb. 22, 1984, 98 Stat. 32; Pub. L. 99–506, title VIII, §806, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title II, §208(i), Nov. 7, 1988, 102 Stat. 3315; Pub. L. 102–52, §8, June 6, 1991, 105 Stat. 262, provided for appropriations.
 
 #### Amendments
 

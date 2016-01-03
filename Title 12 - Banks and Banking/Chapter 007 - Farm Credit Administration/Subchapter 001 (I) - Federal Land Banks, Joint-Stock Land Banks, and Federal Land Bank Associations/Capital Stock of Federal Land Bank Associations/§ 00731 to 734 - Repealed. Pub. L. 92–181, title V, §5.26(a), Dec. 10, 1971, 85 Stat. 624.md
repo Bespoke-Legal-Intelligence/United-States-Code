@@ -6,5 +6,5 @@ Section 732, acts July 17, 1916, ch. 245, title I, §8, 39 Stat. 367; Aug. 9, 19
 
 Section 733, acts July 17, 1916, ch. 245, title I, §8, 39 Stat. 367; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, limited borrowers to members. See section 2034 of this title.
 
-Section 734, acts July 17, 1916, ch. 245, title I, §8, 39 Stat. 367; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 11, 1955,ch. 785, title III, §301(c), 69 Stat. 664; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for increases in stock. See section 2034 of this title.
+Section 734, acts July 17, 1916, ch. 245, title I, §8, 39 Stat. 367; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 11, 1955, ch. 785, title III, §301(c), 69 Stat. 664; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, provided for increases in stock. See section 2034 of this title.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) section 1382d(c) of this title (relating to supplemental security income for disabled children),
 
-&emsp;&emsp;(C) sections 247a of this title (relating to lead-based paint poisoning prevention programs), 300b of this title (relating to genetic disease programs), 300c–11 of this title (relating to sudden infant death syndrome programs) and 300c–21 of this title (relating to hemophilia treatment centers), and
+&emsp;&emsp;(C) sections 247a of this title (relating to lead-based paint poisoning prevention programs), 300b of this title (relating to geneticdisease programs), 300c–11 of this title (relating to sudden infant death syndrome programs) and 300c–21 of this title (relating to hemophilia treatment centers), and
 
 &emsp;&emsp;(D) title VI of the Health Services and Centers Amendments of 1978 (Public Law 95–626; relating to adolescent pregnancy grants),
 
@@ -66,7 +66,7 @@
 
 &emsp;(v) $2,500,000 for the portion of fiscal year 2014 on or after April 1, 2014; and
 
-&emsp;(vi) $2,500,000 for the portion of fiscal year 2015 before April 1, 2015.
+&emsp;(vi) $5,000,000 for each of fiscal years 2015 through 2017.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -106,13 +106,13 @@
 
 (5) For purposes of this subsection, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153.)
 
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997,111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
 Section 1320b–6 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub. L. 104–193, title I, §108(g)(7), Aug. 22, 1996, 110 Stat. 2168.
 
@@ -131,6 +131,8 @@ Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat.
 Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(1)(A)(vi). Pub. L. 114–10 added cl. (vi) and struck out former cl. (vi) which read as follows: "$2,500,000 for the portion of fiscal year 2015 before April 1, 2015."
 
 <b>2014</b>—Subsec. (c)(1)(A)(iv) to (vi). Pub. L. 113–93 realigned margin of cl. (iv) and added cls. (v) and (vi).
 
@@ -194,7 +196,7 @@ Application and Report.—The amendments made—
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983."
+Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: "The amendment made bysubsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983."
 
 #### Effective Date of 1982 Amendment
 
@@ -230,7 +232,7 @@ Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
 &emsp;"(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
 
-&emsp;"(ii) for allotment to each of the States under section 502(b) of such Act \[42 U.S.C. 702(b)\] (as so amended) by the amounts which the Secretary determinesor estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
+&emsp;"(ii) for allotment to each of the States under section 502(b) of such Act \[42 U.S.C. 702(b)\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
 
 "(c) For purposes of this section:
 
@@ -258,7 +260,7 @@ Pub. L. 101–239, title VI, §6506(a), Dec. 19, 1989, 103 Stat. 2281, directed 
 
 #### Research on Infant Mortality and Medicaid Services
 
-Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: "The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
+Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: "The Secretary of Health andHuman Services shall develop a national data system for linking, for any infant up to age one—
 
 &emsp;"(1) the infant's birth record,
 

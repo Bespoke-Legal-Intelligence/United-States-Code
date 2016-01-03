@@ -6,7 +6,7 @@ The President, in coordination with the Interagency Committee on Ocean and Coast
 
 #### (b) Membership
 
-The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
+The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department ofthe Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
 
 #### (c) Program parameters
 

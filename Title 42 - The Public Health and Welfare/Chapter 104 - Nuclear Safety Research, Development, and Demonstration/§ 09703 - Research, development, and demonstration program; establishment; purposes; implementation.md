@@ -4,7 +4,7 @@
 
 &emsp;(1) refine further the assessment of risk factors associated with the generic design and operation of nuclear powerplants to determine the degree and consequences of propagation of failures of systems, subsystems, and components, including consideration of the interaction between the primary and secondary systems;
 
-&emsp;(2) develop potentially cost-beneficial changes in the generic design and operation of nuclear powerplants that can (A) significantly reduce the risks from unintentional release ofradioactive material from the various engineered barriers of nuclear powerplants and (B) reduce the radiation exposure to workers during plant operation and maintenance;
+&emsp;(2) develop potentially cost-beneficial changes in the generic design and operation of nuclear powerplants that can (A) significantly reduce the risks from unintentional release of radioactive material from the various engineered barriers of nuclear powerplants and (B) reduce the radiation exposure to workers during plant operation and maintenance;
 
 &emsp;(3) develop potentially cost-beneficial generic methods and designs that will significantly improve the performance of operators of nuclear powerplants under routine, abnormal, and accident conditions;
 
@@ -36,7 +36,7 @@
 
 &emsp;(1) shall coordinate with the Commission and, to the extent necessary, enter into a new memorandum of understanding or revise existing memoranda for the purpose of eliminating unnecessary duplication and avoiding programmatic conflict with any reactor safety research program of the Commission, including the Improved Safety Systems Research program;
 
-&emsp;(2) shall, to the extent practical, coordinate his activities with such other Government agencies, foreign governments, and industry as he deems appropriate to utilize their expertise, to minimize duplication of effort, and to ensure that information useful for improved concepts applicable to nuclear powerplant safety can be applied in a timely manner. The Secretary may enter into agreements and memoranda of understanding to accomplish these ends, but no such agreement shall have the effect of delaying the development and implementation of programs authorized under this chapter;
+&emsp;(2) shall, to the extent practical, coordinate his activities with such other Government agencies, foreign governments, and industry as he deems appropriate to utilize their expertise, to minimize duplication of effort, and to ensure that information useful for improved concepts applicable to nuclear powerplant safety can be applied in a timely manner. The Secretary may enter into agreements and memoranda of understanding to accomplishthese ends, but no such agreement shall have the effect of delaying the development and implementation of programs authorized under this chapter;
 
 &emsp;(3) shall utilize, to the extent feasible, underutilized federally owned research reactors and facilities, along with the associated personnel, to maintain existing capabilities and to ensure that the research is generic in nature; and
 

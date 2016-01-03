@@ -38,7 +38,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (C) Public sale
 
-&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
+&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher or a socially disadvantaged farmer or rancherunder subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
 
 #### (2) Previous lease
 
@@ -52,7 +52,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (B) Conservation
 
-&emsp;&emsp;The Secretary may for conservation purposes grant or sell an easement, restriction, development right, or similar legal right toreal property to a State, a political subdivision of a State, or a private nonprofit organization separately from the underlying fee or other rights to the property owned by the United States.
+&emsp;&emsp;The Secretary may for conservation purposes grant or sell an easement, restriction, development right, or similar legal right to real property to a State, a political subdivision of a State, or a private nonprofit organization separately from the underlying fee or other rights to the property owned by the United States.
 
 #### (4) Other law
 
@@ -108,7 +108,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (d) Easements; condemnations
 
-With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice or writ is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
+With respect to any real property administered under this chapter, the Secretary is authorized to grant or sell easements or rights-of-way for roads, utilities, and other appurtenances not inconsistent with the public interest. With respect to any rights-of-way over land on which the United States has a lien administered under this chapter, the Secretary may release said lien upon payment to the United States of adequate consideration, and the interest of the United States arising under any such lien may be acquired for highway purposes by any State or political subdivision thereof in condemnation proceedings under State law by service by certified mail upon the United States attorney for the district, the State Director of the Farmers Home Administration for the State in which the farm is located, and the Attorney General of the United States: <i>Provided, however</i>, That the United States shall not be required to appear, answer, or respond to any notice or writ sooner than ninety days from the time such notice orwrit is returnable or purports to be effective, and the taking or vesting of title to the interest of the United States shall not become final under any proceeding, order, or decree until adequate compensation and damages have been finally determined and paid to the United States or into the registry of the court.
 
 #### (e) Real property located within Indian reservation; conservation practices; adverse effects prohibition
 
@@ -120,7 +120,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 > the Secretary shall dispose of or administer the property only as provided for in this subparagraph.
 
-(ii) For purposes of this subparagraph, the term "Indian reservation" means all land located within the limits of any Indian reservation under the jurisdiction of the United States,notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
+(ii) For purposes of this subparagraph, the term "Indian reservation" means all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
 
 (iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, if no order of priority is established by such Indian tribe under clause (iv), in the following order:
 
@@ -158,7 +158,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 (ix) Notwithstanding any other clause of this subparagraph, the Indian tribe having jurisdiction over the Indian reservation within which the real property described in clause (i) is located may, at any time after the real property has been transferred to the Secretary of the Interior under clause (v), offer to pay the remaining amount on the lien, or the fair market value of the real property, whichever is less. Upon payment of such amount, title to such real property shall be held by the United States in trust for the tribe and such trust or restricted lands that have been acquired by the Secretary under foreclosure or voluntary transfer under a loan made or insured under this chapter and transferred to an Indian person, entity, or tribe under the provisions of this subparagraph shall be deemed to have never lost trust or restricted status.
 
-(x) This subparagraph shall apply to all lands in the land inventory established under this chapter (as of November 28, 1990) that were (immediately prior to November 28, 1990) owned by an Indian borrower-owner described in clause (i) and that are situated within an Indian reservation (as defined in clause (ii)), regardless of the date of foreclosure or acquisition by the Secretary. The Secretary shall afford an opportunity to a tribal member, an Indian corporate entity, or the tribe to purchase or lease the real property as provided in clause (iii). If the right is not exercised or no expression of intent to exercise such right is received within 180 days after November 28, 1990, the Secretary shalltransfer the real property to the Secretary of the Interior as provided in clause (v).
+(x) This subparagraph shall apply to all lands in the land inventory established under this chapter (as of November 28, 1990) that were (immediately prior to November 28, 1990) owned by an Indian borrower-owner described in clause (i) and that are situated within an Indian reservation (as defined in clause (ii)), regardless of the date of foreclosure or acquisition by the Secretary. The Secretary shall afford an opportunity to a tribal member, an Indian corporate entity, or the tribe to purchase or lease the real property as provided in clause (iii). If the right is not exercised or no expression of intent to exercise such right is received within 180 days after November 28, 1990, the Secretary shall transfer the real property to the Secretary of the Interior as provided in clause (v).
 
 (B) The rights provided in this subsection shall be in addition to any such right of first refusal under the law of the State in which the property is located.
 
@@ -218,7 +218,7 @@ Notice to borrower.—If an Indian borrower-owner does not voluntarily convey to
 
 &emsp;&emsp;(aa) requiring the Secretary to assign the loan and security instruments to the Secretary of the Interior, if the Secretary of the Interior agrees to an assignment releasing the Secretary of Agriculture from all further responsibility for collection of any amounts with regard to the loan secured by the real property; or
 
-&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribe having jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
+&emsp;&emsp;(bb) requiring the Secretary to assign the loan and security instruments to the tribehaving jurisdiction over the reservation in which the real property is located, if the tribe agrees to the assignment.
 
 &emsp;(II)
 
@@ -354,7 +354,7 @@ Subsec. (c)(2). Pub. L. 107–171, §5308(2), added par. (2) and struck out head
 
 "(A)
 
-Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
+Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretaryleased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
 "(B)
 
@@ -424,7 +424,7 @@ Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), 
 
 Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: "The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands."
 
-Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as follows: "If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii),or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
+Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as follows: "If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
 &emsp;"(A) establish wetland conservation easements on wetland that was converted prior to December 23, 1985, in a quantity that is less than 10 percent of the existing croplands available for production of agricultural commodities on the particular parcel; and
 
@@ -478,7 +478,7 @@ Pub. L. 101–624, §1813(b)(2), substituted "shall randomly" for "shall, by maj
 
 Subsec. (g). Pub. L. 101–624, §1813(h)(1), added subsec. (g).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless propertycannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
 
 Subsec. (e)(1). Pub. L. 100–233, §610(b)(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 

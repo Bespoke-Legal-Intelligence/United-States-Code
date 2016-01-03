@@ -28,7 +28,7 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 #### (1) Grantees
 
-&emsp;Notwithstanding any other provision of this chapter, each grantee may use not more than 3 percent of the grant amount for administrative costs relating to administering grantamounts and allocating such amounts to project sponsors.
+&emsp;Notwithstanding any other provision of this chapter, each grantee may use not more than 3 percent of the grant amount for administrative costs relating to administering grant amounts and allocating such amounts to project sponsors.
 
 #### (2) Project sponsors
 

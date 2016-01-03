@@ -10,7 +10,7 @@ Concurrence of Spouse.—
 
 &emsp;(1)
 
-Concurrence required.—A married participant may not (except as provided in paragraph (2)) make an election under subsection (a) without the concurrence of the participant's spouse.
+Concurrence required.—A married participant may not (except as provided in paragraph (2)) make an election under subsection\(a) without the concurrence of the participant's spouse.
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Exceptions.—A participant may make such an election without the concurrence of
 
 &emsp;(3)
 
-Form of concurrence.—The concurrence of a spouse under paragraph (1) shall be made in such written form and shall contain suchinformation as may be required under regulations prescribed by the Secretary of Defense.
+Form of concurrence.—The concurrence of a spouse under paragraph (1) shall be made in such written form and shall contain such information as may be required under regulations prescribed by the Secretary of Defense.
 
 (c)
 

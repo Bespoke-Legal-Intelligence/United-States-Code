@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
+<b>2002</b>—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall provide in regulations for fees tobe charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income."
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–65 substituted "to receive" for "to recieve".
 

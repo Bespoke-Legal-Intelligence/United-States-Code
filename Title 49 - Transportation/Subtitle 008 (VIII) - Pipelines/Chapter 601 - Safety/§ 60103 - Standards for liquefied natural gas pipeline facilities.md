@@ -36,7 +36,7 @@ Nonapplication.—(1) Except as provided in paragraph (2) of this subsection, a 
 
 &emsp;(B) under another law, and the standard is not prescribed at the time the authority is applied.
 
-(2)(A) Any design, installation, construction, initial inspection, or initial testing standard prescribed under this chapter after March 1, 1978, may provide that the standard applies to any part of a replacement component of a liquefied natural gas pipeline facility if the component or part is placed in service after the standard is prescribed and application of the standard—
+(2)(A) Any design, installation, construction, initial inspection, or initial testing standardprescribed under this chapter after March 1, 1978, may provide that the standard applies to any part of a replacement component of a liquefied natural gas pipeline facility if the component or part is placed in service after the standard is prescribed and application of the standard—
 
 &emsp;(i) does not make the component or part incompatible with other components or parts; or
 
@@ -68,7 +68,7 @@ Effective Dates.—A standard prescribed under this section is effective on the 
 
 (f)
 
-Contingency Plans.—A new liquefied natural gas pipeline facility may be operated onlyafter the operator submits an adequate contingency plan that states the action to be taken if a liquefied natural gas accident occurs. The Secretary of Energy or appropriate State or local authority shall decide if the plan is adequate.
+Contingency Plans.—A new liquefied natural gas pipeline facility may be operated only after the operator submits an adequate contingency plan that states the action to be taken if a liquefied natural gas accident occurs. The Secretary of Energy or appropriate State or local authority shall decide if the plan is adequate.
 
 (g)
 

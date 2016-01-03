@@ -22,7 +22,7 @@ Wines other than standard wines may be removed for consumption or sale and be ma
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a name of geographic significance, which is also the designation of a class or type of wine, shall be deemed to have become semi-generic only if so found by the Secretary.
+&emsp;&emsp;Except as provided in subparagraph (B), a name of geographic significance, which isalso the designation of a class or type of wine, shall be deemed to have become semi-generic only if so found by the Secretary.
 
 #### (B) Certain names treated as semi-generic
 

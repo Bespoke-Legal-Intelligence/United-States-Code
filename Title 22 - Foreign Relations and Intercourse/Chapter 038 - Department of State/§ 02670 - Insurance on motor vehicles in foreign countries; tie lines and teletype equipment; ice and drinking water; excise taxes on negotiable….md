@@ -28,7 +28,7 @@ The Secretary of State is authorized to—
 
 &emsp;(m) establish, maintain, and operate passport and dispatch agencies.
 
-(Aug. 1, 1956, ch. 841, title I, §3, 70 Stat. 890; Pub. L. 95–45, §2, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §9(a)(7), 42 F.R. 62461, 91 Stat.1639; Pub. L. 95–426, title I, §108(a), Oct. 7, 1978, 92 Stat. 966; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 100–204, title I, §126(b), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 102–138, title I, §166, Oct. 28, 1991, 105 Stat. 676; Pub. L. 103–236, title I, §162(k)(3), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title I, §3, 70 Stat. 890; Pub. L. 95–45, §2, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §9(a)(7), 42 F.R. 62461, 91 Stat. 1639; Pub. L. 95–426, title I, §108(a), Oct. 7, 1978, 92 Stat. 966; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 100–204, title I, §126(b), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 102–138, title I, §166, Oct. 28, 1991, 105 Stat. 676; Pub. L. 103–236, title I, §162(k)(3), Apr. 30, 1994, 108 Stat. 409.)
 
 #### Codification
 

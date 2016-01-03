@@ -26,7 +26,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
 
-(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
+(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifyinginformation as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
 
 &emsp;(A) such person is described in section 1004(a)(2) of this title,
 
@@ -70,7 +70,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(iii) a facility that is licensed or certified as a care facility under the law of the political jurisdiction in which the qualified individual resides;
 
-&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom paymentwould serve the best interests of the qualified individual; or
+&emsp;&emsp;(iv) a person who is an administrator, owner, or employee of a facility referred to in clause (iii), if the qualified individual resides in the facility, and the payment to the facility or the person is made only after the Commissioner of Social Security has made a good faith effort to locate an alternative representative payee to whom payment would serve the best interests of the qualified individual; or
 
 &emsp;&emsp;(v) a person who is determined by the Commissioner of Social Security, on the basis of written findings and pursuant to procedures prescribed by the Commissioner of Social Security, to be acceptable to serve as a representative payee.
 
@@ -134,7 +134,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (3) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 
-&emsp;In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner ofSocial Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.
+&emsp;In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner of Social Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.
 
 #### (4) Maintaining lists of payees
 

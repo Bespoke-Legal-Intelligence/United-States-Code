@@ -15,7 +15,8 @@
 | [135a.](%C2%A7%2000135a%20-%20Books%20and%20sound-reproduction%20records%20for%20blind%20and%20other%20physically%20handicapped%20residents%3B%20annual%20appropriations%3B%20purchases.md) | Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases. |
 | 135a–1. | Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations. |
 | [135b.](%C2%A7%2000135b%20-%20Local%20and%20regional%20centers%3B%20preference%20to%20blind%20and%20other%20physically%20handicapped%20veterans%3B%20rules%20and%20regulations%3B%20authorization%20of%E2%80%A6.md) | Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations. |
-| [136\.](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20appointment%3B%20rules%20and%20regulations.md) | Librarian of Congress; appointment; rules and regulations. |
+| [136\.](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20rules%20and%20regulations.md) | Librarian of Congress; rules and regulations. |
+| 136–1. | Appointment and term of service of Librarian of Congress. |
 | 136a, 136a–1. Omitted. |  |
 | 136a–2. | Librarian of Congress and Deputy Librarian of Congress; compensation. |
 | [136b.](%C2%A7%2000136b%20-%20Omitted.md) | Omitted. |
@@ -137,7 +138,8 @@
 - [&sect; 00135a - Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases](%C2%A7%2000135a%20-%20Books%20and%20sound-reproduction%20records%20for%20blind%20and%20other%20physically%20handicapped%20residents%3B%20annual%20appropriations%3B%20purchases.md)
 - [&sect; 00135a&#8211;1 - Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically&#8230;](%C2%A7%2000135a%E2%80%931%20-%20Library%20of%20musical%20scores%2C%20instructional%20texts%2C%20and%20other%20specialized%20materials%20for%20use%20of%20blind%20persons%20or%20other%20physically%E2%80%A6.md)
 - [&sect; 00135b - Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of&#8230;](%C2%A7%2000135b%20-%20Local%20and%20regional%20centers%3B%20preference%20to%20blind%20and%20other%20physically%20handicapped%20veterans%3B%20rules%20and%20regulations%3B%20authorization%20of%E2%80%A6.md)
-- [&sect; 00136 - Librarian of Congress; appointment; rules and regulations](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20appointment%3B%20rules%20and%20regulations.md)
+- [&sect; 00136 - Librarian of Congress; rules and regulations](%C2%A7%2000136%20-%20Librarian%20of%20Congress%3B%20rules%20and%20regulations.md)
+- [&sect; 00136&#8211;1 - Appointment and term of service of Librarian of Congress](%C2%A7%2000136%E2%80%931%20-%20Appointment%20and%20term%20of%20service%20of%20Librarian%20of%20Congress.md)
 - [&sect; 00136a, 136a&#8211;1 - Omitted](%C2%A7%2000136a%2C%20136a%E2%80%931%20-%20Omitted.md)
 - [&sect; 00136a&#8211;2 - Librarian of Congress and Deputy Librarian of Congress; compensation](%C2%A7%2000136a%E2%80%932%20-%20Librarian%20of%20Congress%20and%20Deputy%20Librarian%20of%20Congress%3B%20compensation.md)
 - [&sect; 00136b - Omitted](%C2%A7%2000136b%20-%20Omitted.md)

@@ -70,19 +70,53 @@ For the purpose of this chapter, the term "wine gallon" means a United States ga
 
 #### (e) Tolerances
 
-Where the Secretary finds that the revenue will not be endangered thereby, he may by regulation prescribe tolerances (but not greater than ½ of 1 percent) for bottles and other containers, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a bottle or other container are within the limit of the applicable tolerance prescribed.
+Where the Secretary finds that the revenue will not be endangered thereby, he may by regulation prescribe tolerances (but not greater than½ of 1 percent) for bottles and other containers, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a bottle or other container are within the limit of the applicable tolerance prescribed.
 
 #### (f) Illegally produced wine
 
 Notwithstanding subsection (a), any wine produced in the United States at any place other than the bonded premises provided for in this chapter shall (except as provided in section 5042 in the case of tax-free production) be subject to tax at the rate prescribed in subsection (b) at the time of production and whether or not removed for consumption or sale.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388-416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–113, div. Q, title III, §335, Dec. 18, 2015, 129 Stat. 3109, provided that, applicable to hard cider removed during calendar years beginning after Dec. 31, 2016, this section is amended:</i>
+
+<i>(1) in subsection (b)(6), by striking out "which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume"; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+#### <i>(g) Hard cider</i>
+
+<i>For purposes of subsection (b)(6), the term "hard cider" means a wine—</i>
+
+&emsp;<i>(1) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,</i>
+
+&emsp;<i>(2) which is derived primarily—</i>
+
+&emsp;&emsp;<i>(A) from apples or pears, or</i>
+
+&emsp;&emsp;<i>(B) from—</i>
+
+&emsp;&emsp;&emsp;<i>(i) apple juice concentrate or pear juice concentrate, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) water,</i>
+
+&emsp;<i>(3) which contains no fruit product or fruit flavoring other than apple or pear, and</i>
+
+&emsp;<i>(4) which contains at least one-half of 1 percent and less than 8.5 percent alcohol by volume.</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### Prior Provisions
 
-A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar.29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(6). Pub. L. 114–113, §335(a)(1), struck out "which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume" after "hard cider".
+
+Subsec. (g). Pub. L. 114–113, §335(a)(2), added subsec. (g).
 
 <b>1998</b>—Subsec. (b)(6). Pub. L. 105–206 inserted "which is a still wine" after "hard cider".
 
@@ -127,6 +161,10 @@ Subsec. (b). Pub. L. 89–44, §501(c)(1)–(5), struck out provisions at end of
 <b>1960</b>—Subsec. (b). Pub. L. 86–564 substituted "July 1, 1961" for "July 1, 1960" in five places.
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–75 substituted "July 1, 1960" for "July 1, 1959" in five places.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §335(b), Dec. 18, 2015, 129 Stat. 3109, provided that: "The amendments made by this section \[amending this section\] shall apply to hard cider removed during calendar years beginning after December 31, 2016."
 
 #### Effective Date of 1998 Amendment
 

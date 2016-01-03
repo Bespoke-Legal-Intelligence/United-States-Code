@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) for the convenience of the Federal Government; and
 
-&emsp;(2) the allowance is needed to help the employee meet the additional expenses involvedin maintaining the employee's spouse or dependents, or both, at such other location rather than at the post.
+&emsp;(2) the allowance is needed to help the employee meet the additional expenses involved in maintaining the employee's spouse or dependents, or both, at such other location rather than at the post.
 
 (b) The regulations prescribed by the President shall include provisions for determining the rate at which an allowance under this section shall be paid.
 

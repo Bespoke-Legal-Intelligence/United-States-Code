@@ -110,7 +110,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (A) Creation of remedy
 
-&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant to paragraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
+&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant toparagraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
 
 #### (B) Intervention
 
@@ -168,7 +168,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;&emsp;&emsp;(iv) a partnership's or partner's taxable year under section 706,
 
-> &emsp;&emsp;but the Secretary shall make any such written determination and related background file document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
+> &emsp;&emsp;but the Secretary shall make any such written determination and related backgroundfile document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
 
 #### (h) Disclosure of prior written determinations and related background file documents
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 Except as otherwise provided in this title, or with respect to a discovery order made in connection with a judicial proceeding, the Secretary shall not be required by any Court to make any written determination or background file document open or available to public inspection, or to refrain from disclosure of any such documents.
 
-(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, 2763A–643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
+(Added Pub. L. 94–455, title XII, §1201(a), Oct. 4, 1976, 90 Stat. 1660; amended Pub. L. 97–164, title I, §160(a)(9), Apr. 2, 1982, 96 Stat. 48; Pub. L. 98–620, title IV, §402(28)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–206, title III, §3509(a)–(c), July 22, 1998, 112 Stat. 772, 773; Pub. L. 106–170, title V, §521(a)(2), Dec. 17, 1999, 113 Stat. 1925; Pub. L. 106–554, §1(a)(7) \[title III, §§304(c), 313(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, 2763A-643; Pub. L. 110–172, §10(a), Dec. 29, 2007, 121 Stat. 2484.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Pub. L. 110–172, §10(b), Dec. 29, 2007, 121 Stat. 2484, provided that: "The a
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634, provided that: "The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 Amendment by section 1(a)(7) \[title III, §313(e)\] of Pub. L. 106–554 effective as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 1(a)(7) \[title III, §313(f)\] of Pub. L. 106–554, set out as a note under section 6015 of this title.
 
@@ -394,7 +394,7 @@ Documents treated as chief counsel advice.—If the Secretary of the Treasury by
 
 "(4)
 
-Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
+Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days afterthe date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
 
 #### Effective Date of 1992 Amendment
 

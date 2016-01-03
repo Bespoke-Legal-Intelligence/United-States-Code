@@ -4,7 +4,7 @@
 
 For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
 
-&emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
+&emsp;(1) the Administrator may require any person who owns or operates any emission source,who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
 
 &emsp;&emsp;(A) establish and maintain such records;
 
@@ -22,7 +22,7 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 &emsp;(2) the Administrator or his authorized representative, upon presentation of his credentials—
 
-&emsp;&emsp;(A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintainedunder paragraph (1) of this section are located, and
+&emsp;&emsp;(A) shall have a right of entry to, upon, or through any premises of such person or in which any records required to be maintained under paragraph (1) of this section are located, and
 
 &emsp;&emsp;(B) may at reasonable times have access to and copy any records, inspect any monitoring equipment or method required under paragraph (1), and sample any emissions which such person is required to sample under paragraph (1).<sup>3</sup>
 

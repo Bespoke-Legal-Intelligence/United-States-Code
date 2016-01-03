@@ -48,7 +48,7 @@ For purposes of subtitle F, the fees imposed by this subchapter shall be treated
 
 #### (d) No cover over to possessions
 
-Notwithstanding any other provision of law, no amount collected under this subchapter shallbe covered over to any possession of the United States.
+Notwithstanding any other provision of law, no amount collected under this subchapter shall be covered over to any possession of the United States.
 
 (Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 746.)
 

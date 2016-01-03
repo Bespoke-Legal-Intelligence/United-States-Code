@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 #### (7) Person
 
-&emsp;The term "person" means any individual, trust, firm, joint stock company, corporation\(including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or interstate body.
+&emsp;The term "person" means any individual, trust, firm, joint stock company, corporation (including a government corporation), partnership, association, State, municipality, commission, political subdivision of a State, or interstate body.
 
 #### (8) Release
 

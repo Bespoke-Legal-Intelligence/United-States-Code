@@ -18,7 +18,7 @@
 
 &emsp;(1) to addresses within a State of equipment, tickets, or material concerning a lottery which is conducted by that State acting under the authority of State law; or
 
-&emsp;(2) to an addressee within a foreign country of equipment, tickets, or material designed tobe used within that foreign country in a lottery which is authorized by the law of that foreign country.
+&emsp;(2) to an addressee within a foreign country of equipment, tickets, or material designed to be used within that foreign country in a lottery which is authorized by the law of that foreign country.
 
 (c) For the purposes of this section (1) "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and (2) "foreign country" means any empire, country, dominion, colony, or protectorate, or any subdivision thereof (other than the United States, its territories or possessions).
 

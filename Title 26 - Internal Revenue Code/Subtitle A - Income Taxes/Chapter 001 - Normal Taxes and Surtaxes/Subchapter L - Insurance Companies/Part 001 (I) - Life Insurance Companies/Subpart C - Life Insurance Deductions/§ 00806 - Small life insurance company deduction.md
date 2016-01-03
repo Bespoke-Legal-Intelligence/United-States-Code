@@ -60,7 +60,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) it is of a type traditionally carried on by life insurance companies for investment purposes, but only if the carrying on of such activity (other than in the case of real estate) does not constitute the active conduct of a trade or business, or
 
-&emsp;&emsp;&emsp;(ii) it involves the performance of administrative services in connection with plansproviding life insurance, pension, or accident and health benefits.
+&emsp;&emsp;&emsp;(ii) it involves the performance of administrative services in connection with plans providing life insurance, pension, or accident and health benefits.
 
 #### (C) Limitation on amount of loss from noninsurance business which may offset income from insurance business
 
@@ -134,7 +134,7 @@ In general.—For purposes of applying paragraph (2) of section 806(d) of the In
 
 &emsp;"(A) an election under section 1504(c)(2) of such Code is not in effect for the controlled group for such taxable year,
 
-&emsp;"(B) during such taxable year, the controlled group does not include a member which is taxable under part I of subchapter L of chapter 1 of such Code andwhich became a member of such group after September 27, 1983, and
+&emsp;"(B) during such taxable year, the controlled group does not include a member which is taxable under part I of subchapter L of chapter 1 of such Code and which became a member of such group after September 27, 1983, and
 
 &emsp;"(C) the sum of the contributions to capital received by members of the controlled group which are taxable under such part I during such taxable year from the members of the controlled group which are not taxable under such part does not exceed the aggregate dividends paid during such taxable year by the members of such group which are taxable under such part I.
 

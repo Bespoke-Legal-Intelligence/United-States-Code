@@ -50,13 +50,13 @@
 
 #### (b) Pro rata allotment
 
-Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a) of this section.
+Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a).
 
 #### (c) Annual adjustment; reservation of amount for school board activities
 
 #### (1) Annual adjustment
 
-&emsp;For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) of this section to ensure that the formula does the following:
+&emsp;For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) to ensure that the formula does the following:
 
 &emsp;&emsp;(A) Uses a weighted unit of 1.2 for each eligible Indian student enrolled in the seventh and eighth grades of the school in considering the number of eligible Indian students served by the school.
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 #### (A) In general
 
-&emsp;&emsp;From the funds allotted in accordance with the formula established under subsection (a) of this section for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
+&emsp;&emsp;From the funds allotted in accordance with the formula established under subsection (a) for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
 
 &emsp;&emsp;&emsp;(i) $8,000; or
 
@@ -134,7 +134,7 @@ Supplemental appropriations enacted to meet increased pay costs attributable to 
 
 In this section, the term "eligible Indian student" means a student who—
 
-&emsp;(1) is a member of, or is at least one-fourth degree Indian blood descendant of a memberof, a tribe that is eligible for the special programs and services provided by the United States through the Bureau to Indians because of their status as Indians;
+&emsp;(1) is a member of, or is at least one-fourth degree Indian blood descendant of a member of, a tribe that is eligible for the special programs and services provided by the United States through the Bureau to Indians because of their status as Indians;
 
 &emsp;(2) resides on or near a reservation or meets the criteria for attendance at a Bureau off-reservation home-living school; and
 
@@ -144,7 +144,7 @@ In this section, the term "eligible Indian student" means a student who—
 
 #### (1) In general
 
-&emsp;No eligible Indian student or a student attending a Bureau school under paragraph (2)(C) may be charged tuition for attendance at a Bureau school or contract or grant school.
+&emsp;No eligible Indian student or a student attending a Bureau school under paragraph\(2)(C) may be charged tuition for attendance at a Bureau school or contract or grant school.
 
 #### (2) Attendance of non-Indian students at Bureau schools
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 #### (1) In general
 
-&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) of this section for a student for that year.
+&emsp;Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 <sup>2</sup> of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
 
 #### (2) No administrative cost funds
 

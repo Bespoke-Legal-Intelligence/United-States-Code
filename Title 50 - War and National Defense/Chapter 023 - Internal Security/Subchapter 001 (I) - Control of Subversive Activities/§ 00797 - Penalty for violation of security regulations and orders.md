@@ -28,7 +28,7 @@
 
 #### (A) Department of Defense property
 
-&emsp;&emsp;The term "Department of Defense property" means covered property subject to thejurisdiction, administration, or in the custody of the Department of Defense, any Department or agency of which that Department consists, or any officer or employee of that Department or agency.
+&emsp;&emsp;The term "Department of Defense property" means covered property subject to the jurisdiction, administration, or in the custody of the Department of Defense, any Department or agency of which that Department consists, or any officer or employee of that Department or agency.
 
 #### (B) NASA property
 

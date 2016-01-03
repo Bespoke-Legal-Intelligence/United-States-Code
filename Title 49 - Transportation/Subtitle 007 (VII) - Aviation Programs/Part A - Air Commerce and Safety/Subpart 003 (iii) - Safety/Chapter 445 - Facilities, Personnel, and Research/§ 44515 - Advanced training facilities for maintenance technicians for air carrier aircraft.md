@@ -46,7 +46,7 @@ Elements for Consideration.—The updated and revised standards required under s
 
 "(c)
 
-Certification.—Any adjustment or modification of current curriculum standards made pursuant to thissection shall be reflected in the certification examinations of airframe and powerplant mechanics.
+Certification.—Any adjustment or modification of current curriculum standards made pursuant to this section shall be reflected in the certification examinations of airframe and powerplant mechanics.
 
 "(d)
 

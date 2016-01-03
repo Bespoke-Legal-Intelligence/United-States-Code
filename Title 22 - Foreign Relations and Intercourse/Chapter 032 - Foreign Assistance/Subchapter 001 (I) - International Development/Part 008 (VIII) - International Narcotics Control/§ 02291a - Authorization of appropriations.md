@@ -28,7 +28,7 @@
 
 (2)(A) The President is authorized to accept contributions from foreign governments to carry out the purposes of this part. Such contributions shall be deposited as an offsetting collection to the applicable appropriation account and may be used under the same terms and conditions as funds appropriated pursuant to this part.
 
-(B) At the time of submission of the annual congressional presentation documents required by section 2394(a) of this title, the President shall provide a detailed report on any contributions received in the preceding fiscal year, theamount of such contributions, and the purposes for which such contributions were used.
+(B) At the time of submission of the annual congressional presentation documents required by section 2394(a) of this title, the President shall provide a detailed report on any contributions received in the preceding fiscal year, the amount of such contributions, and the purposes for which such contributions were used.
 
 (3) The President is authorized to provide assistance under this part on a reimbursable basis. Such reimbursements shall be deposited as an offsetting collection to the applicable appropriation and may be used under the same terms and conditions as funds appropriated pursuant to this part.
 
@@ -50,7 +50,7 @@ Funds transferred to and consolidated with funds appropriated pursuant to this p
 
 For purposes of this part, the Secretary of State may use the authority of section 2358 of this title, without regard to the restrictions of such section, to receive nonlethal excess property from any agency of the United States Government for the purpose of providing such property to a foreign government under the same terms and conditions as funds authorized to be appropriated for the purposes of this part.
 
-(Pub. L. 87–195, pt. I, §482, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 497; amended Pub. L. 93–189, §11(b), Dec. 17, 1973, 87 Stat. 720; Pub. L. 94–329, title V, §504(a), June 30, 1976, 90 Stat. 764; Pub. L. 95–92, §3, Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §5, Sept. 26, 1978, 92 Stat. 731; Pub. L. 96–92, §3(a), Oct. 29, 1979, 93 Stat. 701; Pub. L. 96–533, title IV, §402(a), (b), Dec. 16, 1980, 94 Stat. 3149; Pub. L. 97–113, title V, §502(c), Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title VI, §§602, 608, 614, Aug. 8, 1985, 99 Stat. 228, 229, 231; Pub. L. 99–529, title IV, §401, Oct. 24, 1986, 100 Stat. 3019; Pub. L. 99–570, title II, §2002, Oct. 27, 1986, 100 Stat. 3207–60; Pub. L. 100–690, title IV, §4201, Nov. 18, 1988, 102 Stat. 4267; Pub. L. 101–231, §§16, 17(g), Dec. 13, 1989, 103 Stat. 1964, 1965; Pub. L. 102–583, §§3, 4(e), 6(b)(4), Nov. 2, 1992, 106 Stat. 4914, 4915, 4932; Pub. L. 103–236, title I, §164(a), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–447, title I, §101(c), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–164, title I, §131(b), (c), July 21, 1996, 110 Stat. 1429.)
+(Pub. L. 87–195, pt. I, §482, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 497; amended Pub. L. 93–189, §11(b), Dec. 17, 1973, 87 Stat. 720; Pub. L. 94–329, title V, §504(a), June 30, 1976, 90 Stat. 764; Pub. L. 95–92, §3, Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §5, Sept. 26, 1978, 92 Stat. 731; Pub. L. 96–92, §3(a), Oct. 29, 1979, 93 Stat. 701; Pub. L. 96–533, title IV, §402(a), (b), Dec. 16, 1980, 94 Stat. 3149; Pub. L. 97–113, title V, §502(c), Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title VI, §§602, 608, 614, Aug. 8, 1985, 99 Stat. 228, 229, 231; Pub. L. 99–529, title IV, §401, Oct. 24, 1986, 100 Stat. 3019; Pub. L. 99–570, title II, §2002, Oct. 27, 1986, 100 Stat. 3207–60; Pub. L. 100–690, title IV, §4201, Nov. 18, 1988, 102 Stat. 4267; Pub. L. 101–231, §§16, 17(g), Dec. 13, 1989, 103 Stat. 1964,1965; Pub. L. 102–583, §§3, 4(e), 6(b)(4), Nov. 2, 1992, 106 Stat. 4914, 4915, 4932; Pub. L. 103–236, title I, §164(a), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–447, title I, §101(c), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–164, title I, §131(b), (c), July 21, 1996, 110 Stat. 1429.)
 
 #### Amendments
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Colombian Anti-Narcotics Enforcement Program
 

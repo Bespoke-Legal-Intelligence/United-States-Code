@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(A) is a provider of medical or other items or services, supplier, grant recipient, contractor, or subcontractor; or
 
-&emsp;&emsp;(B) directly or indirectly provides, orders, manufactures, distributes, arranges for, prescribes, supplies, or receives medical or other items or services payable by any Federal health care program (as defined in section 1320a–7b(f) of this title) regardless of how the item or service is paid for, or to whom such payment is made.
+&emsp;&emsp;(B) directly or indirectly provides, orders, manufactures, distributes, arranges for, prescribes, supplies, or receives medical or other items or services payable by any Federal health care program (as defined in section 1320a–7b(f) of this title) regardless ofhow the item or service is paid for, or to whom such payment is made.
 
 #### (2) Inclusion of certain information
 

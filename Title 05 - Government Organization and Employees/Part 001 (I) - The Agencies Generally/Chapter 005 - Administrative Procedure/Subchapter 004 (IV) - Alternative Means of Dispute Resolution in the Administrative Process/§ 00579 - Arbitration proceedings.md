@@ -14,7 +14,7 @@
 
 (c)(1) The parties to the arbitration are entitled to be heard, to present evidence material to the controversy, and to cross-examine witnesses appearing at the hearing.
 
-(2) The arbitrator may, with the consent of the parties, conduct all or part of the hearing by telephone, television, computer, or other electronic means, if each party has an opportunity to participate.
+(2) The arbitrator may, with the consent of the parties, conduct all or part of the hearing bytelephone, television, computer, or other electronic means, if each party has an opportunity to participate.
 
 (3) The hearing shall be conducted expeditiously and in an informal manner.
 

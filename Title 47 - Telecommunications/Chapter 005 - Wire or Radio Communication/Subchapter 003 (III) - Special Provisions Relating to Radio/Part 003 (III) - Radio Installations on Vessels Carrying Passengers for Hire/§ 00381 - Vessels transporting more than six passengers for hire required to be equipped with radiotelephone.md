@@ -2,7 +2,7 @@
 
 Except as provided in section 382 of this title, it shall be unlawful for any vessel of the United States, transporting more than six passengers for hire, to be navigated in the open sea or any tidewater within the jurisdiction of the United States adjacent or contiguous to the open sea, unless such vessel is equipped with an efficient radiotelephone installation in operating condition.
 
-(June 19, 1934, ch. 652, title III, §381, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1047; amended Pub. L. 103–414, title III, §303(a)(20)(A), Oct. 25, 1994, 108 Stat. 4295.)
+(June 19, 1934, ch. 652, title III, §381, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1047; amendedPub. L. 103–414, title III, §303(a)(20)(A), Oct. 25, 1994, 108 Stat. 4295.)
 
 #### Amendments
 

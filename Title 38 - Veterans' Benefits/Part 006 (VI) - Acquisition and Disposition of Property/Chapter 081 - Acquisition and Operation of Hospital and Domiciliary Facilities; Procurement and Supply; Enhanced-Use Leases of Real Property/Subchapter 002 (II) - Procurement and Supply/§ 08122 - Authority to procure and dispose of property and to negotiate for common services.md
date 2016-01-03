@@ -1,6 +1,6 @@
 ### §8122. Authority to procure and dispose of property and to negotiate for common services
 
-(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 6101(b) to (d) of title 41. Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do so in the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from such leases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
+(a)(1) The Secretary may lease for a term not exceeding three years lands or buildings, or parts or parcels thereof, belonging to the United States and under the Secretary's control. Any lease made pursuant to this subsection to any public or nonprofit organization may be made without regard to the provisions of section 6101(b) to (d) of title 41. Notwithstanding section 1302 of title 40, or any other provision of law, a lease made pursuant to this subsection to any public or nonprofit organization may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease. Prior to the execution of any such lease, the Secretary shall give appropriate public notice of the Secretary's intention to do so in the newspaper of the community in which the lands or buildings to be leased are located. The proceeds from suchleases, less expenses for maintenance, operation, and repair of buildings leased for living quarters, shall be covered into the Treasury of the United States as miscellaneous receipts.
 
 (2) Except as provided in paragraph (3), the Secretary may not during any fiscal year transfer to any other department or agency of the United States or to any other entity real property that is owned by the United States and administered by the Secretary unless the proposed transfer is described in the budget submitted to Congress pursuant to section 1105 of title 31 for that fiscal year.
 
@@ -14,7 +14,7 @@
 
 (C) A transfer of real property may not be made under this paragraph until—
 
-&emsp;(i) the Secretary submits to the Committees on Veterans' Affairs of the Senate and House of Representatives, not later than June 1 of the year in which the transfer is proposed tobe made (or the year preceding that year), a report providing notice of the proposed transfer; and
+&emsp;(i) the Secretary submits to the Committees on Veterans' Affairs of the Senate and House of Representatives, not later than June 1 of the year in which the transfer is proposed to be made (or the year preceding that year), a report providing notice of the proposed transfer; and
 
 &emsp;(ii) a period of 90 consecutive days elapses after the report is received by those committees.
 
@@ -42,7 +42,7 @@
 
 #### References in Text
 
-Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
+Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c),was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, §2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
 
 #### Amendments
 

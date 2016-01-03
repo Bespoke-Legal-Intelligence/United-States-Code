@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Pursuant to the terms of any compact or funding agreement entered into under this part, the Secretary shall transfer to the Indian tribe all funds provided for in the funding agreement, pursuant to subsection (c) of this section, and provide funding for periods covered by joint resolution adopted by Congress making continuing appropriations, to the extent permitted by such resolutions. In any instance where a funding agreement requires an annual transfer of funding to be made at the beginning of a fiscal year, or requires semiannual or other periodic transfers of funding to be made commencing at the beginning of a fiscal year, the first such transfer shall be made not later than 10 days after the apportionment of such funds by the Office of Management and Budget to the Department, unless the funding agreement provides otherwise.
+Pursuant to the terms of any compact or funding agreement entered into under this part, the Secretary shall transfer to the Indian tribe allfunds provided for in the funding agreement, pursuant to subsection (c), and provide funding for periods covered by joint resolution adopted by Congress making continuing appropriations, to the extent permitted by such resolutions. In any instance where a funding agreement requires an annual transfer of funding to be made at the beginning of a fiscal year, or requires semiannual or other periodic transfers of funding to be made commencing at the beginning of a fiscal year, the first such transfer shall be made not later than 10 days after the apportionment of such funds by the Office of Management and Budget to the Department, unless the funding agreement provides otherwise.
 
 #### (b) Multiyear funding
 
@@ -68,7 +68,7 @@ All funds paid to an Indian tribe in accordance with a compact or funding agreem
 
 #### (j) Program income
 
-All Medicare, Medicaid, or other program income earned by an Indian tribe shall be treated as supplemental funding to that negotiated in the funding agreement. The Indian tribe may retain all such income and expend such funds in the current year or in future years except to the extent that the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.) provides otherwise for Medicare and Medicaid receipts. Such funds shall not result in any offset or reduction in the amount of funds the Indian tribe is authorized to receive under its funding agreementin the year the program income is received or for any subsequent fiscal year.
+All Medicare, Medicaid, or other program income earned by an Indian tribe shall be treatedas supplemental funding to that negotiated in the funding agreement. The Indian tribe may retain all such income and expend such funds in the current year or in future years except to the extent that the Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.) provides otherwise for Medicare and Medicaid receipts. Such funds shall not result in any offset or reduction in the amount of funds the Indian tribe is authorized to receive under its funding agreement in the year the program income is received or for any subsequent fiscal year.
 
 #### (k) Limitation of costs
 

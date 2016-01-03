@@ -66,7 +66,7 @@ Pub. L. 101–549, title VIII, §817, Nov. 15, 1990, 104 Stat. 2697, provided th
 
 Report.—The Administrator shall request the National Academy of Sciences to prepare a report to the Congress on the role of national secondary ambient air quality standards in protecting welfare and the environment. The report shall:
 
-&emsp;"(1) include information on the effects on welfare and the environment which are caused by ambientconcentrations of pollutants listed pursuant to section 108 \[42 U.S.C. 7408\] and other pollutants which may be listed;
+&emsp;"(1) include information on the effects on welfare and the environment which are caused by ambient concentrations of pollutants listed pursuant to section 108 \[42 U.S.C. 7408\] and other pollutants which may be listed;
 
 &emsp;"(2) estimate welfare and environmental costs incurred as a result of such effects;
 

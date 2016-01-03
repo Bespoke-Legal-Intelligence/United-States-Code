@@ -228,7 +228,7 @@ For purposes of this section—
 
 &emsp;This subsection and subsection (a)(1)(D) shall not apply to any reportable interest or dividend payment which is paid or credited—
 
-&emsp;&emsp;(A) in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatevercalled) established before January 1, 1984, or with respect to any instrument acquired before January 1, 1984,
+&emsp;&emsp;(A) in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatever called) established before January 1, 1984, or with respect to any instrument acquired before January 1, 1984,
 
 &emsp;&emsp;(B) in the case of dividends or any other amount reportable under section 6042, on any stock or other instrument acquired before January 1, 1984, or
 
@@ -406,7 +406,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647,title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
+(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
 
 #### Amendments
 

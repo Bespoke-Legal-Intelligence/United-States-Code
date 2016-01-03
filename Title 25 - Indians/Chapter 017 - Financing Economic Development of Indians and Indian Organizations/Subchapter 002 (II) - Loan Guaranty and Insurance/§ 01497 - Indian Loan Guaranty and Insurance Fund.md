@@ -20,7 +20,7 @@ The Secretary may also utilize the fund to pay taxes, insurance, prior liens, ex
 
 There are authorized to be appropriated for each fiscal year beginning in fiscal year 1985 such sums as may be necessary to fulfill obligations with respect to losses on loans or surety bonds guaranteed or insured under this subchapter. All collections and all moneys appropriated pursuant to the authority of this subsection shall remain available until expended.
 
-(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat.1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764; Pub. L. 105–362, title VIII, §801(b), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 109–221, title IV, §401(d), May 12, 2006, 120 Stat. 343.)
+(Pub. L. 93–262, title II, §217, Apr. 12, 1974, 88 Stat. 82; Pub. L. 98–449, §7, Oct. 4, 1984, 98 Stat. 1725; Pub. L. 100–442, §§3, 4(a), (b), 5(d), Sept. 22, 1988, 102 Stat. 1763, 1764; Pub. L. 105–362, title VIII, §801(b), Nov. 10, 1998, 112 Stat. 3287; Pub. L. 109–221, title IV, §401(d), May 12, 2006, 120 Stat. 343.)
 
 #### Amendments
 

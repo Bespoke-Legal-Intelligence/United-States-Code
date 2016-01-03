@@ -24,27 +24,27 @@
 
 &emsp;(A) Notwithstanding any other provision of this section, the Financial Assistance Corporation shall establish a program under which System institutions shall purchase, as debt obligations are issued under section 2278b–6(a) of this title, stock of the Corporation in amounts described in this paragraph.
 
-&emsp;(B) The program shall provide, with respect to each issuance of debt obligations under section 2278b–6(a) of this title, that each Systeminstitution originally required to purchase stock under paragraph (1), or the successor thereto, shall purchase Corporation stock in an amount determined by multiplying the amount of stock such institution was originally required to purchase under that paragraph by a percentage equal to the percentage which the amount of the issuance bears to $4,000,000,000.
+&emsp;(B) The program shall provide, with respect to each issuance of debt obligations under section 2278b–6(a) of this title, that each System institution originally required to purchase stock under paragraph (1), or the successor thereto, shall purchase Corporation stock in an amount determined by multiplying the amount of stock such institution was originally required to purchase under that paragraph by a percentage equal to the percentage which the amount of the issuance bears to $4,000,000,000.
 
-&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporation shall deduct from any refund due any System institution, and retain, the amount payable by such institution.
+&emsp;(C) The Financial Assistance Corporation shall promptly rescind purchases of stock of the Corporation made under paragraph (1) or (2) by System institutions and refund to such institutions, or their successors, the purchase price for the stock, except that, with respect to each issuance of debt obligations that occurs before October 1, 1988, the Corporationshall deduct from any refund due any System institution, and retain, the amount payable by such institution.
 
 #### (b) Computations
 
-For purposes of subsection (a) of this section, the unallocated retained earnings and assets of a System institution shall be computed in accordance with generally accepted accounting principles on the basis of the financial statement of the institution on December 31, 1986.
+For purposes of subsection (a), the unallocated retained earnings and assets of a System institution shall be computed in accordance with generally accepted accounting principles on the basis of the financial statement of the institution on December 31, 1986.
 
 #### (c) Notice
 
 (1) Within 15 days after the retirement of the obligations of the Capital Corporation under section 2278a–9 of this title—
 
-&emsp;(A) the Financial Assistance Corporation shall notify each System institution of the amount of stock such institution is required to purchase under subsection (a) of this section; or
+&emsp;(A) the Financial Assistance Corporation shall notify each System institution of the amount of stock such institution is required to purchase under subsection (a); or
 
-&emsp;(B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2) of this section, the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a) of this section.
+&emsp;(B) in the case of a district in which the district board has reallocated the stock purchase requirement in accordance with subsection (a)(2), the district board shall notify each System institution in the district of the amount of stock such institution is required to purchase under subsection (a).
 
-(2) Not later than 15 days before each issuance of debt obligations under section 2278b–6(a) of this title occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of this section of the amount of the stock it is required to purchase.
+(2) Not later than 15 days before each issuance of debt obligations under section 2278b–6(a) of this title occurring after September 30, 1988, the Financial Assistance Corporation shall notify each System institution required to purchase Corporation stock under subsection (a)(3) of the amount of the stock it is required to purchase.
 
 #### (d) Institution requirements after notice
 
-Within 15 days after a System institution is notified of the amounts due under subsection (c) of this section, the institution shall purchase from the Financial Assistance Corporation the amount of stock required to be purchased by the institution under this section. No further stock purchases, obligations, or assessments shall be required beyond that provided in section 2278b–6 of this title and this section.
+Within 15 days after a System institution is notified of the amounts due under subsection (c), the institution shall purchase from the Financial Assistance Corporation the amount of stock required to be purchased by the institution under this section. No further stock purchases, obligations, or assessments shall be required beyond that provided in section 2278b–6 of this title and this section.
 
 #### (e) Jurisdiction over actions
 

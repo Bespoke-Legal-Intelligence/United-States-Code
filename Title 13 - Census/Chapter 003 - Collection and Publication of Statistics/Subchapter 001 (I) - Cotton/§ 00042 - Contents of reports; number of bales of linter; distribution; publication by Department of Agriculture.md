@@ -6,7 +6,7 @@
 
 (c) In collecting and publishing statistics of cotton on hand in warehouses and other storage establishments, and of cotton known as the "carry-over" in the United States, the Secretary shall ascertain and publish as a separate item in the report of cotton statistics the number of bales of linters as distinguished from the number of bales of cotton.
 
-(d) The Secretary shall furnish to the Department of Agriculture, immediately prior to the publication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
+(d) The Secretary shall furnish to the Department of Agriculture, immediately prior to thepublication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1016; Pub. L. 92–331, §4, June 30, 1972, 86 Stat. 400.)
 

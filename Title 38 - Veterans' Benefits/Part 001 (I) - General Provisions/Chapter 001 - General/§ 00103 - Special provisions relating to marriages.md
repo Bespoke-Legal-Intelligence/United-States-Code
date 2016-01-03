@@ -60,7 +60,7 @@ Subsecs. (d), (e). Pub. L. 102–83, §4(a)(2)(A)(i), substituted "Secretary" fo
 
 "(2) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or has been dissolved by a court with basic authority to render divorce decrees unless the Veterans' Administration determines that the divorce was secured through fraud by the surviving spouse or collusion.
 
-"(3) If a surviving spouse ceases living with another person and holding himself or herself out openly to thepublic as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply."
+"(3) If a surviving spouse ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply."
 
 Subsec. (e). Pub. L. 101–508, §8004(a)(2), designated par. (1) as entire subsec. (e) and struck out par. (2) which read as follows: "The marriage of a child of a veteran shall not bar the recognition of such child as the child of the veteran for benefit purposes if the marriage has been terminated by death or has been dissolved by a court, with basic authority to render divorce decrees unless the Veterans' Administration determines that the divorce was secured through fraud by either party or collusion."
 

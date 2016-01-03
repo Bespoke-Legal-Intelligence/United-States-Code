@@ -4,7 +4,7 @@
 
 #### (1) Purpose; eligible recipients
 
-&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (withwhich he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
+&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
 
 #### (2) Matching requirement
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) of this section shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a) of this section, bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
 
-&emsp;(D) If the sums appropriated for any fiscal year for paying the amounts determined undersubparagraphs (A) and (B) are not sufficient to pay such amounts in full, then such amounts shall be reduced—
+&emsp;(D) If the sums appropriated for any fiscal year for paying the amounts determined under subparagraphs (A) and (B) are not sufficient to pay such amounts in full, then such amounts shall be reduced—
 
 &emsp;&emsp;(i) by ratably reducing that portion of the amount allocated to each State which exceeds $50,000; and
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) The Secretary may enter into an agreement with a private nonprofit institution or organization for the purpose of this paragraph under which such institution or organization—
 
-&emsp;&emsp;(i) agrees to establish within such State at least one office with sufficient staff to handle written, electronic, and telephone inquiries from students, eligible lenders, and other persons in the State, to encourage maximum commercial lender participation within the State, and to conduct periodic visits to at least the major eligible lenders within the State;
+&emsp;&emsp;(i) agrees to establish within such State at least one office with sufficient staff to handle written, electronic, and telephone inquiries from students, eligible lenders, and other persons in the State, to encourage maximum commercial lender participation within the State, and to conduct periodic visits to atleast the major eligible lenders within the State;
 
 &emsp;&emsp;(ii) agrees that its insurance will not be denied any student because of his or her choice of eligible institutions; and
 
@@ -142,7 +142,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (1) Authority to recover funds
 
-&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the program authorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
+&emsp;Notwithstanding any other provision of law, the reserve funds of the guaranty agencies, and any assets purchased with such reserve funds, regardless of who holds or controls the reserves or assets, shall be considered to be the property of the United States to be used in the operation of the program authorized by this part. However, the Secretary may not require the return of all reserve funds of a guaranty agency to the Secretary unless the Secretary determines that such return is in the best interest of the operation of the programauthorized by this part, or to ensure the proper maintenance of such agency's funds or assets or the orderly termination of the guaranty agency's operations and the liquidation of its assets. The reserves shall be maintained by each guaranty agency to pay program expenses and contingent liabilities, as authorized by the Secretary, except that—
 
 &emsp;&emsp;(A) the Secretary may direct a guaranty agency to return to the Secretary a portion of its reserve fund which the Secretary determines is unnecessary to pay the program expenses and contingent liabilities of the guaranty agency;
 
@@ -256,7 +256,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (D) Balance available to Secretary
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subparagraph (B) or (C) of subsection (g)(1) of this section that remain after satisfaction of the requirements of subparagraphs (B) and (C) of this paragraph shall be deposited in the Treasury.
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subparagraph (B) or (C) of subsection (g)(1)of this section that remain after satisfaction of the requirements of subparagraphs (B) and (C) of this paragraph shall be deposited in the Treasury.
 
 #### (8) Definitions
 
@@ -338,7 +338,7 @@ Amendment by Pub. L. 103–208 (which was effective as if included in Pub. L. 10
 
 #### Prior Provisions
 
-A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1072, Pub. L. 89–329, title IV, §422, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 89–752, §11, Nov. 3, 1966, 80Stat. 1243; Pub. L. 90–575, title I, §114(b), (c), Oct. 16, 1968, 82 Stat. 1021, 1022; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2100; Pub. L. 95–43, §1(a)(11)–(13), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–561, title XIII, §1322(a), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 99–272, title XVI, §16011, Apr. 7, 1986, 100 Stat. 339, authorized advances to establish or strengthen reserve funds of State and nonprofit private loan insurance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -378,7 +378,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -32,7 +32,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (b) Assessment of harmful algal blooms
 
-(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit tothe Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
+(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
 
 (2) The assessment shall—
 
@@ -114,7 +114,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 &emsp;(B) describe the potential ecological and economic costs and benefits of possible policy and management actions for preventing, controlling, and mitigating hypoxia;
 
-&emsp;(C) evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of hypoxia, including recommendations of how to eliminate significant gaps in hypoxia modeling and monitoring data; and
+&emsp;(C) evaluate progress made by, and the needs of, Federal research programs on the causes, characteristics, and impacts of hypoxia, including recommendations of how to eliminatesignificant gaps in hypoxia modeling and monitoring data; and
 
 &emsp;(D) identify ways to improve coordination and to prevent unnecessary duplication of effort among Federal agencies and departments with respect to research on hypoxia.
 
@@ -196,7 +196,7 @@ Pub. L. 113–124, §1, June 30, 2014, 128 Stat. 1379, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–456, title I, §101, Dec. 10, 2004, 118 Stat. 3630, provided that: "This title \[enacting section 4001a of this title and amending this section and section 4005 of this title\] may be cited as the 'Harmful Algal Bloom and Hypoxia Amendments Act of 2004'."
+Pub. L. 108–456, title I, §101, Dec. 10, 2004, 118 Stat. 3630, provided that: "This title \[enacting section 4001aof this title and amending this section and section 4005 of this title\] may be cited as the 'Harmful Algal Bloom and Hypoxia Amendments Act of 2004'."
 
 #### Short Title
 

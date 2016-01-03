@@ -2,7 +2,7 @@
 
 #### (a) Seal; appointment and compensation of personnel; use of other services and facilities
 
-The Administration shall have power to adopt, alter, and use a seal, which shall be judicially noticed. The Administrator is authorized, subject to the civil service and classification laws, to select, employ, appoint, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary to carry out theprovisions of this chapter; to define their authority and duties; and to pay the costs of qualification of certain of them as notaries public. The Administration, with the consent of any board, commission, independent establishment, or executive department of the Government, may avail itself on a reimbursable or nonreimbursable basis of the use of information, services, facilities (including any field service thereof), officers, and employees thereof, in carrying out the provisions of this chapter.
+The Administration shall have power to adopt, alter, and use a seal, which shall be judicially noticed. The Administrator is authorized, subject to the civil service and classification laws, to select, employ, appoint, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary to carry out the provisions of this chapter; to define their authority and duties; and to pay the costs of qualification of certain of them as notaries public. The Administration, with the consent of any board, commission, independent establishment, or executive department of the Government, may avail itself on a reimbursable or nonreimbursable basis of the use of information, services, facilities (including any field service thereof), officers, and employees thereof, in carrying out the provisions of this chapter.
 
 #### (b) Powers of Administrator
 
@@ -14,7 +14,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(3) deal with, complete, renovate, improve, modernize, insure, or rent, or sell for cash or credit upon such terms and conditions and for such consideration as the Administrator shall determine to be reasonable, any real property conveyed to or otherwise acquired by him in connection with the payment of loans granted under this chapter;
 
-&emsp;(4) pursue to final collection, by way of compromise or otherwise, all claims against third parties assigned to the Administrator in connection with loans made by him. This shall include authority to obtain deficiency judgments or otherwise in the case of mortgages assigned to the Administrator. Section 6101 of title 41 shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Administrator as a result of loans made under this chapter if the premium therefor or the amount thereof does not exceed $1,000. The power to convey and to execute in the name of the Administrator deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real property or any interest therein acquired by the Administrator pursuant to the provisions of this chapter may be exercised by the Administrator or by any officer or agent appointed by him without the execution of any express delegation of power or power of attorney. Nothing in this section shall be construed to prevent the Administrator from delegating such power by order or by power of attorney, in his discretion, to any officer or agent he may appoint;
+&emsp;(4) pursue to final collection, by way of compromise or otherwise, all claims against third parties assigned to the Administrator in connection with loans made by him. This shall include authority to obtain deficiency judgments or otherwise in the case of mortgages assigned to the Administrator. Section 6101 of title 41 shall not be construed to apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Administrator as a result of loans made under this chapter if the premium therefor or the amount thereof does not exceed $1,000. The power to convey and to execute in the name of the Administrator deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real property or any interest therein acquired by the Administrator pursuant to the provisions of this chapter may be exercised by the Administrator or by any officer or agentappointed by him without the execution of any express delegation of power or power of attorney. Nothing in this section shall be construed to prevent the Administrator from delegating such power by order or by power of attorney, in his discretion, to any officer or agent he may appoint;
 
 &emsp;(5) acquire, in any lawful manner, any property (real, personal, or mixed, tangible or intangible), whenever deemed necessary or appropriate to the conduct of the activities authorized in sections 636(a) and 636(b) of this title;
 
@@ -28,7 +28,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(10) upon purchase by the Administration of any deferred participation entered into under section 636 of this title, continue to charge a rate of interest not to exceed that initially charged by the participating institution on the amount so purchased for the remaining term of the indebtedness;
 
-&emsp;(11) make such investigations as he deems necessary to determine whether a recipient of or participant in any assistance under this chapter or any other person has engaged or is about to engage in any acts or practices whichconstitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a recipient or participant, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found;
+&emsp;(11) make such investigations as he deems necessary to determine whether a recipient of or participant in any assistance under this chapter or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a recipient or participant, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found;
 
 &emsp;(12) impose, retain, and use only those fees which are specifically authorized by law or which are in effect on September 30, 1994, and in the amounts and at the rates in effect on such date, except that the Administrator may, subject to approval in appropriations Acts, impose, retain, and utilize, additional fees—
 
@@ -40,7 +40,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;&emsp;(D) to recover the direct, incremental cost involved in the production and dissemination of compilations of information produced by the Administration under the authority of this chapter and the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
-&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected under this paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts; and
+&emsp;(13) collect, retain and utilize, subject to approval in appropriations Acts, any amounts collected by fiscal transfer agents and not used by such agent as payment of the cost of loan pooling or debenture servicing operations, except that amounts collected underthis paragraph and paragraph (12) shall be utilized solely to facilitate the administration of the program that generated the excess amounts; and
 
 &emsp;(14) require any lender authorized to make loans under section 636 of this title to pay examination and review fees, which shall be deposited in the account for salaries and expenses of the Administration, and shall be available for the costs of examinations, reviews, and other lender oversight activities.
 
@@ -86,7 +86,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(B) all fees due the Administration on a guaranteed loan shall have been paid in full prior to any sale; and
 
-&emsp;(C) each loan, except each loan made under section 636(a)(14) of this title, shall have been fully disbursed to the borrower prior to any sale.
+&emsp;(C) each loan, except each loan made under section 636(a)(14) of this title, shall have beenfully disbursed to the borrower prior to any sale.
 
 (2) After a loan is sold in the secondary market, the lender shall remain obligated under its guarantee agreement with the Administration, and shall continue to service the loan in a manner consistent with the terms and conditions of such agreement.
 
@@ -102,7 +102,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
 
-(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) of this section in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2) <sup>1</sup> of this section.
+(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2).<sup>1</sup>
 
 (B) The Administration is authorized to impose and collect, either directly or through a fiscal and transfer agent, a reasonable penalty on late payments of the fee authorized under subparagraph (A) in an amount not to exceed 5 percent of such fee per month plus interest.
 
@@ -122,7 +122,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;(B) contract with an agent to carry out on behalf of the Administration the central registration functions of this section and the issuance of trust certificates to facilitate pooling. Such agent shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interest of the Government;
 
-&emsp;(C) prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g) of this section, information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan, the term "seller" does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
+&emsp;(C) prior to any sale, require the seller to disclose to a purchaser of the guaranteed portion of a loan guaranteed under this chapter and to the purchaser of a trust certificate issued pursuant to subsection (g), information on the terms, conditions, and yield of such instrument. As used in this paragraph, if the instrument being sold is a loan, the term "seller" does not include (A) an entity which made the loan or (B) any individual or entity which sells three or fewer guaranteed loans per year; and
 
 &emsp;(D) have the authority to regulate brokers and dealers in guaranteed loans and trust certificates sold pursuant to subsections (f) and (g) of this section.
 
@@ -130,13 +130,87 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) Nothing in this subsection shall prohibit the utilization of a book-entry or other electronic form of registration for trust certificates. The Administration may, with the consent of the Secretary of the Treasury, use the book-entry system of the Federal Reserve System.
 
-(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L.106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509.)
+#### (i) Office of Hearings and Appeals
+
+#### (1) Establishment
+
+#### (A) Office
+
+&emsp;&emsp;There is established in the Administration an Office of Hearings and Appeals—
+
+&emsp;&emsp;&emsp;(i) to impartially decide matters relating to program decisions of the Administrator—
+
+&emsp;&emsp;&emsp;&emsp;(I) for which Congress requires a hearing on the record; or
+
+&emsp;&emsp;&emsp;&emsp;(II) that the Administrator designates for hearing by regulation; and
+
+&emsp;&emsp;&emsp;(ii) which shall contain the office of the Administration that handles requests submitted pursuant to sections 552 of title 5 (commonly referred to as the "Freedom of Information Act") and maintains records pursuant to section 552a of title 5 (commonly referred to as the "Privacy Act of 1974").
+
+#### (B) Jurisdiction
+
+&emsp;&emsp;The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations.
+
+#### (C) Associate Administrator
+
+&emsp;&emsp;The head of the Office of Hearings and Appeals shall be the Chief Hearing Officer appointed under section 633(b)(1) of this title, who shall be responsible to the Administrator.
+
+#### (2) Chief Hearing Officer duties
+
+#### (A) In general
+
+&emsp;&emsp;The Chief Hearing Officer shall—
+
+&emsp;&emsp;&emsp;(i) be a career appointee in the Senior Executive Service and an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia; and
+
+&emsp;&emsp;&emsp;(ii) be responsible for the operation and management of the Office of Hearings and Appeals.
+
+#### (B) Alternative dispute resolution
+
+&emsp;&emsp;The Chief Hearing Officer may assign a matter for mediation or other means of alternative dispute resolution.
+
+#### (3) Hearing officers
+
+#### (A) In general
+
+&emsp;&emsp;The Office of Hearings and Appeals shall appoint Hearing Officers to carry out the duties described in paragraph (1)(A)(i).
+
+#### (B) Conditions of employment
+
+&emsp;&emsp;A Hearing Officer appointed under this paragraph—
+
+&emsp;&emsp;&emsp;(i) shall serve in the excepted service as an employee of the Administration under section 2103 of title 5 and under the supervision of the Chief Hearing Officer;
+
+&emsp;&emsp;&emsp;(ii) shall be classified at a position to which section 5376 of title 5 applies; and
+
+&emsp;&emsp;&emsp;(iii) shall be compensated at a rate not exceeding the maximum rate payable under such section.
+
+#### (C) Authority; powers
+
+&emsp;&emsp;Notwithstanding section 556(b) of title 5—
+
+&emsp;&emsp;&emsp;(i) a Hearing Officer may hear cases arising under section 554 of such title;
+
+&emsp;&emsp;&emsp;(ii) a Hearing Officer shall have the powers described in section 556(c) of such title; and
+
+&emsp;&emsp;&emsp;(iii) the relevant provisions of subchapter II of chapter 5 of such title (except for section 556(b) of such title) shall apply to such Hearing Officer.
+
+#### (D) Treatment of current personnel
+
+&emsp;&emsp;An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
+
+#### (4) Hearing Officer defined
+
+&emsp;In this subsection, the term "Hearing Officer" means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.
+
+(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509; Pub. L. 114–92, div. A, title VIII, §869(a)(1), Nov. 25, 2015, 129 Stat. 936.)
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (b)(12)(C), (D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (b)(12)(C), (D) and (i)(1)(B) is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. Title III of the Act is classified generally to subchapter III (§681 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 Subsection (h)(2) of this section, referred to in subsec. (g)(4)(A), was redesignated subsec. (h)(1)(B) by Pub. L. 104–208, div. D, title II, §205(a)(1), (2), Sept. 30, 1996, 110 Stat. 3009–738.
+
+The effective date of this subsection, referred to in subsec. (i)(3)(D), probably means the date of enactment of Pub. L. 114–92, which added subsec. (i) and which was approved Nov. 25, 2015.
 
 #### Codification
 
@@ -153,6 +227,8 @@ In subsec. (d), "Section 3324(a) and (b) of title 31" substituted for "Section 3
 Prior similar provisions were contained in section 205 of act July 30, 1953, ch. 282, title II, 67 Stat. 234, as amended by act Aug. 9, 1955, ch. 628, §4, 69 Stat. 547, which was classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (i). Pub. L. 114–92 added subsec. (i).
 
 <b>2010</b>—Subsec. (g)(6). Pub. L. 111–240 added par. (6).
 
@@ -186,7 +262,7 @@ Subsec. (b)(12), (13). Pub. L. 103–403 added pars. (12) and (13).
 
 <b>1984</b>—Subsecs. (f) to (h). Pub. L. 98–352 added subsecs. (f) to (h).
 
-<b>1980</b>—Subsec. (b)(7). Pub. L. 96–302 prohibited an interpretation that authorized the Administrator to contract or otherwise delegate his responsibility for loan servicing to other than Administration personnel, but sanctioned, with respect to deferred participation loans, authority for participating lending institutionsto take action on behalf of the Administrator determining eligibility and creditworthiness, loan monitoring, collection, and liquidation, etc.
+<b>1980</b>—Subsec. (b)(7). Pub. L. 96–302 prohibited an interpretation that authorized the Administrator to contract or otherwise delegate his responsibility for loan servicing to other than Administration personnel, but sanctioned, with respect to deferred participation loans, authority for participating lending institutions to take action on behalf of the Administrator determining eligibility and creditworthiness, loan monitoring, collection, and liquidation, etc.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–510 substituted "Any individual so employed may be compensated at a rate not in excess of the daily equivalent of the highest rate payable under section 5332 of Title 5, including travel time, and, while such individual is away from his or her home or regular place of business, he or she may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of Title 5" for "Any individual so employed may be compensated at a rate not in excess of $50 per diem, and, while such individual is away from his home or regular place of business, he may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses".
 
@@ -256,7 +332,7 @@ Pub. L. 104–208, div. D, title I, §103(h), Sept. 30, 1996, 110 Stat. 3009–7
 
 #### Study and Report Regarding 1993 Amendments To Impose Secondary Market Fees and To Reduce Loan Guarantee Percentages
 
-Pub. L. 103–81, §6, Aug. 13, 1993, 107 Stat. 782, provided that: "The Administration shall study, monitor andevaluate the impact of the amendments made by sections 3 and 5 of this Act \[amending this section and section 636 of this title\] on the ability of small business concerns and small business concerns owned and controlled by minorities and women, to obtain financing and the impact of such sections on the effectiveness, viability and growth of the secondary market authorized by section 5(f) of the Small Business Act \[subsec. (f) of this section\]. Not later than 16 months after the date of enactment \[Aug. 13, 1993\], and annually thereafter, the Administration shall submit to the Committees on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report containing the Administration's findings and recommendations on such impact, specifically including changes in the interest rates on financings provided to small business concerns and small business concerns owned and controlled by minorities and women, through the use of the secondary market. The Administration shall segregate such findings and recommendations in the study according to the ethnic and gender components in these categories. Solely for the purposes of the study authorized herein, the term 'small business concerns owned and controlled by minorities', includes businesses owned and controlled by individuals belonging to one of the designated groups listed in section 8(d)(3)(C) of the Small Business Act \[15 U.S.C. 637(d)(3)(C)\]."
+Pub. L. 103–81, §6, Aug. 13, 1993, 107 Stat. 782, provided that: "The Administration shall study, monitor and evaluate the impact of the amendments made by sections 3 and 5 of this Act \[amending this section and section 636 of this title\] on the ability of small business concerns and small business concerns owned and controlled by minorities and women, to obtain financing and the impact of such sections on the effectiveness, viability and growth of the secondary market authorized by section 5(f) of the Small Business Act \[subsec. (f) of this section\]. Not later than 16 months after the date of enactment \[Aug. 13, 1993\], and annually thereafter, the Administration shall submit to the Committees on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report containing the Administration's findings and recommendations on such impact, specifically including changes in the interest rates on financings provided to small business concerns and small business concerns owned and controlled by minorities and women, through the use of the secondary market. The Administration shall segregate such findings and recommendations in the study according to the ethnic and gender components in these categories. Solely for the purposes of the study authorized herein, the term 'small business concerns owned and controlled by minorities', includes businesses owned and controlled by individuals belonging to one of the designated groups listed in section 8(d)(3)(C) of the Small Business Act \[15 U.S.C. 637(d)(3)(C)\]."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

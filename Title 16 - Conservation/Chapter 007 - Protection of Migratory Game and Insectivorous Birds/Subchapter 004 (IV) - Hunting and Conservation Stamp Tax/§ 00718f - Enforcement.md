@@ -16,5 +16,5 @@ The Migratory Bird Treaty Act, and "that Act", referred to in text, is act July 
 
 #### Change of Name
 
-"United States magistrate judges" and "magistrate judges" substituted for "United States magistrates" and "magistrates", respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrates" substituted in text for "commissioners" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judges" and "magistrate judges" substituted for "United States magistrates" and "magistrates", respectively, in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrates" substituted in text for"commissioners" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 

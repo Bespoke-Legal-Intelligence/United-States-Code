@@ -82,7 +82,7 @@ Pub. L. 108–11, title III, Apr. 16, 2003, 117 Stat. 603, provided that:
 
 "(a)
 
-Construction Required.—The Secretary of the Army shall, in consultation with the Administrator of the National Aeronautics and Space Administration, construct at an appropriate place in Arlington NationalCemetery, Virginia, a memorial marker honoring the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107.
+Construction Required.—The Secretary of the Army shall, in consultation with the Administrator of the National Aeronautics and Space Administration, construct at an appropriate place in Arlington National Cemetery, Virginia, a memorial marker honoring the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107.
 
 "(b)
 

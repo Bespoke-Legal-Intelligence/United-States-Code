@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(G) 50 percent of such cost during the seventh and eighth such periods.
 
-(b)(1) The Secretary may not enter into any agreement under subsection (a) of this sectionunless the Secretary finds, and the agreement includes satisfactory assurances, that—
+(b)(1) The Secretary may not enter into any agreement under subsection (a) of this section unless the Secretary finds, and the agreement includes satisfactory assurances, that—
 
 &emsp;(A) there will be adequate State or other financial support for the proposed school;
 

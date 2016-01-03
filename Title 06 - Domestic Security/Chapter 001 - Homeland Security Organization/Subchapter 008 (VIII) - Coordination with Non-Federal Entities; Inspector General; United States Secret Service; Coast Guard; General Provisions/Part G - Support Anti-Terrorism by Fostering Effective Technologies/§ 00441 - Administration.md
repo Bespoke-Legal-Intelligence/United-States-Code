@@ -6,7 +6,7 @@ The Secretary shall be responsible for the administration of this part.
 
 #### (b) Designation of qualified anti-terrorism technologies
 
-The Secretary may designate anti-terrorism technologies that qualify for protection under the system of risk management set forth in this part in accordance with criteria that shall include, but not be limited to, the following:
+The Secretary may designate anti-terrorism technologies that qualify for protection underthe system of risk management set forth in this part in accordance with criteria that shall include, but not be limited to, the following:
 
 &emsp;(1) Prior United States Government use or demonstrated substantial utility and effectiveness.
 

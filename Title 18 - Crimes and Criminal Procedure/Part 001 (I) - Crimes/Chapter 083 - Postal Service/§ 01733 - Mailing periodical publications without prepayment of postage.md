@@ -1,6 +1,6 @@
 ### §1733. Mailing periodical publications without prepayment of postage
 
-Whoever, except as permitted by law, knowingly mails any periodical publication without the prepayment of postage, or, being an officer or employee of the Postal Service, knowingly permits any periodical publication to be mailed without prepayment of postage, shall be fined under this title, or imprisoned not more than one year, or both.
+Whoever, except as permitted by law, knowingly mails any periodical publication without the prepayment of postage, or, being an officer or employee of the Postal Service, knowingly permits any periodical publication to be mailedwithout prepayment of postage, shall be fined under this title, or imprisoned not more than one year, or both.
 
 (Added Pub. L. 86–682, §7, Sept. 2, 1960, 74 Stat. 705; amended Pub. L. 91–375, §6(j)(36)(A), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 

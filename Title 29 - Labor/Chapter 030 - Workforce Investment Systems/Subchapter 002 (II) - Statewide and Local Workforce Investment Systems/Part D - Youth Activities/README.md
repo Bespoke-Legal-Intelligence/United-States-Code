@@ -5,7 +5,4 @@ Part D—Youth Activities
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02851 - General authorization](%C2%A7%2002851%20-%20General%20authorization.md)
-- [&sect; 02852 - State allotments](%C2%A7%2002852%20-%20State%20allotments.md)
-- [&sect; 02853 - Within State allocations](%C2%A7%2002853%20-%20Within%20State%20allocations.md)
-- [&sect; 02854 - Use of funds for youth activities](%C2%A7%2002854%20-%20Use%20of%20funds%20for%20youth%20activities.md)
+- [&sect; 02851 to 2854 - Repealed. Pub. L. 113&#8211;128, title V, &sect;511(a), July 22, 2014, 128 Stat. 1705](%C2%A7%2002851%20to%202854%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93128%2C%20title%20V%2C%20%C2%A7511%28a%29%2C%20July%2022%2C%202014%2C%20128%20Stat.%201705.md)

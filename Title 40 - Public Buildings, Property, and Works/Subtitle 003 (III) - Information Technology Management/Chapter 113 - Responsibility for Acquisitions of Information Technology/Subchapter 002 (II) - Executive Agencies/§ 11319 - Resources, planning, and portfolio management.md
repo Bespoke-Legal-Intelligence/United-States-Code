@@ -92,7 +92,7 @@ Process.—The Director of the Office of Management and Budget, in consultation 
 
 &emsp;&emsp;(F) to develop ways to better align the information technology portfolio, programs, and financial resources of the covered agency to any multi-year funding requirements or strategic plans required by law;
 
-&emsp;&emsp;(G) to develop a multi-year strategy to identify and reduce duplication and waste within the information technology portfolioof the covered agency, including component-level investments and to identify projected cost savings resulting from such strategy; and
+&emsp;&emsp;(G) to develop a multi-year strategy to identify and reduce duplication and waste within the information technology portfolio of the covered agency, including component-level investments and to identify projected cost savings resulting from such strategy; and
 
 &emsp;&emsp;(H) to carry out any other goals that the Director may establish.
 

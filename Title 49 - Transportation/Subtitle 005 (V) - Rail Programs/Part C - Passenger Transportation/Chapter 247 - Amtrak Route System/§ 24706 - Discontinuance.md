@@ -2,13 +2,13 @@
 
 (a)
 
-Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
-(2) Notice of the discontinuance under section 24704 <sup>1</sup> or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+(2) Notice of the discontinuance under paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
 (b)
 
-Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service under section 24704 <sup>1</sup> or subsection (a)(1) during—
+Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service under subsection (a)(1) during—
 
 &emsp;(A) the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
 
@@ -20,7 +20,7 @@ Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service 
 
 Applicability.—This section applies to all service over routes provided by Amtrak, notwithstanding any provision of section 24701 of this title or any other provision of this title except section 24702(b).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576; Pub. L. 110–432, div. B, title II, §201(d), Oct. 16, 2008, 122 Stat. 4910.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576; Pub. L. 110–432, div. B, title II, §201(d), Oct. 16, 2008, 122 Stat. 4910; Pub. L. 114–94, div. A, title XI, §11316(n)(1), Dec. 4, 2015, 129 Stat. 1678.)
 
 Historical and Revision Notes
 
@@ -102,11 +102,13 @@ In subsection (c)(3), the words "section 11347 of this title" are substituted fo
 
 In subsection (c)(5), the words "be construed to" are omitted as surplus. The text of 45:565(c) (last sentence) is omitted as executed.
 
-#### References in Text
-
-Section 24704 of this title, referred to in text, was repealed by Pub. L. 105–134, title I, §105(a), Dec. 2, 1997, 111 Stat. 2573.
-
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §11316(n)(1)(A)(i), struck out "a discontinuance under section 24704 or or" after "before".
+
+Subsec. (a)(2). Pub. L. 114–94, §11316(n)(1)(A)(ii), struck out "section 24704 or" after "under".
+
+Subsec. (b)(1). Pub. L. 114–94, §11316(n)(1)(B), struck out "section 24704 or" after "under" in introductory provisions.
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
@@ -118,13 +120,17 @@ Subsec. (b)(1). Pub. L. 105–134, §101(c)(5), which directed substitution of "
 
 Subsec. (c). Pub. L. 105–134, §142(a), struck out subsec. (c) which related to employee protective arrangements.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub. L. 105–134, set out in an Employee Protection Reforms note below.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub.L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Employee Protection Reforms
 
@@ -152,7 +158,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 &emsp;"(B) is not submitted to arbitration as described in subsection (c),
 
-> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
+> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selectedunder the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
 
 "(2) No individual shall be selected under paragraph (1) who is pecuniarily or otherwise interested in any organization of employees or any railroad.
 
@@ -185,8 +191,4 @@ Special Effective Date.—Subsections (a) \[amending this section\] and (b) of t
 "(d)
 
 Nonapplication of Bankruptcy Law Provision.—Section 1172(c) of title 11, United States Code, shall not apply to Amtrak and its employees."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

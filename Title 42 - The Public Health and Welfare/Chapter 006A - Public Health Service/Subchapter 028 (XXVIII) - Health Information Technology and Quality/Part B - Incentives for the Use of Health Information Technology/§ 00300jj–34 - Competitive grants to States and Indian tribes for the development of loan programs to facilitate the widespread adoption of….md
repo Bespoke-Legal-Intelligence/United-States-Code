@@ -8,7 +8,7 @@ The National Coordinator may award competitive grants to eligible entities for t
 
 For purposes of this subsection, the term "eligible entity" means a State or Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]) that—
 
-&emsp;(1) submits to the National Coordinator an application at such time, in such manner, and containing such information as the National Coordinator may require;
+&emsp;(1) submits to the National Coordinator an application at such time, in such manner, andcontaining such information as the National Coordinator may require;
 
 &emsp;(2) submits to the National Coordinator a strategic plan in accordance with subsection (d) and provides to the National Coordinator assurances that the entity will update such plan annually in accordance with such subsection;
 
@@ -56,7 +56,7 @@ For purposes of subsection (b)(3), an eligible entity shall establish a certifie
 
 #### (e) Use of funds
 
-Amounts deposited in a Loan Fund, including loan repayments and interest earned on such amounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loansunder this section may be used by a health care provider to—
+Amounts deposited in a Loan Fund, including loan repayments and interest earned on such amounts, shall be used only for awarding loans or loan guarantees, making reimbursements described in subsection (g)(4)(A), or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in the Loan Fund established under subsection (c). Loans under this section may be used by a health care provider to—
 
 &emsp;(1) facilitate the purchase of certified EHR technology;
 
@@ -80,7 +80,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 &emsp;(2) To guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible for assistance under this subsection) if the guarantee or purchase would improve credit market access or reduce the interest rate applicable to the obligation involved.
 
-&emsp;(3) As a source of revenue or security for the payment of principal and interest on revenue or general obligation bonds issued by the eligible entity if the proceeds of the sale of the bonds will be deposited into the Loan Fund.
+&emsp;(3) As a source of revenue or security for the payment of principal and interest on revenueor general obligation bonds issued by the eligible entity if the proceeds of the sale of the bonds will be deposited into the Loan Fund.
 
 &emsp;(4) To earn interest on the amounts deposited into the Loan Fund.
 
@@ -134,7 +134,7 @@ The Secretary may not make an award under this section prior to January 1, 2010.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should appear at end of subpar. (D).</i>
 

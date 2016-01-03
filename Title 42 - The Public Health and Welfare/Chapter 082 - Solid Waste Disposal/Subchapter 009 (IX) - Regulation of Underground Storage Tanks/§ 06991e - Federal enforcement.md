@@ -14,7 +14,7 @@ Any order issued under this section shall become final unless, no later than thi
 
 #### (c) Contents of order
 
-Any order issued under this section shall state with reasonable specificity the nature of theviolation, specify a reasonable time for compliance, and assess a penalty, if any, which the Administrator determines is reasonable taking into account the seriousness of the violation and any good faith efforts to comply with the applicable requirements.
+Any order issued under this section shall state with reasonable specificity the nature of the violation, specify a reasonable time for compliance, and assess a penalty, if any, which the Administrator determines is reasonable taking into account the seriousness of the violation and any good faith efforts to comply with the applicable requirements.
 
 #### (d) Civil penalties
 

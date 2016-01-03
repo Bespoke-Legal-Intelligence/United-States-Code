@@ -14,7 +14,7 @@ In carrying out subsection (a), the Director may require a regulated entity to w
 
 #### (d) Prohibition of setting compensation
 
-In carrying out subsection (a) of this section, the Director may not prescribe or set a specific level or range of compensation.
+In carrying out subsection (a), the Director may not prescribe or set a specific level or range of compensation.
 
 #### (e) Authority to regulate or prohibit certain forms of benefits to affiliated parties
 
@@ -56,7 +56,7 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" means any payment (or any agreement to make anypayment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
+&emsp;&emsp;For purposes of this subsection, the term "golden parachute payment" means any payment (or any agreement to make any payment) in the nature of compensation by any regulated entity for the benefit of any affiliated party pursuant to an obligation of such regulated entity that—
 
 &emsp;&emsp;&emsp;(i) is contingent on the termination of such party's affiliation with the regulated entity; and
 
@@ -133,4 +133,46 @@ Subsec. (a). Pub. L. 110–289, §1113(a)(2), substituted "regulated entity" for
 Subsecs. (b) to (d). Pub. L. 110–289, §1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 Subsec. (e). Pub. L. 110–289, §1114, added subsec. (e).
+
+#### Equity in Government Compensation
+
+Pub. L. 114–93, Nov. 25, 2015, 129 Stat. 1310, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Equity in Government Compensation Act of 2015'.
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Director.—The term 'Director' means the Director of the Federal Housing Finance Agency.
+
+&emsp;"(2)
+
+Enterprise.—The term 'enterprise' means—
+
+&emsp;&emsp;"(A) the Federal National Mortgage Association and any affiliate thereof; and
+
+&emsp;&emsp;"(B) the Federal Home Loan Mortgage Corporation and any affiliate thereof.
+
+#### "SEC. 3. REASONABLE PAY FOR CHIEF EXECUTIVE OFFICERS.
+
+"(a)
+
+Suspension of Current Compensation Package and Limitation.—The Director shall suspend the compensation packages approved for 2015 for the chief executive officers of each enterprise and, in lieu of such packages, subject to the limitation under subsection (b), establish the compensation and benefits for each such chief executive officer at the same level in effect for such officer as of January 1, 2015, and such compensation and benefits may not thereafter be increased.
+
+"(b)
+
+Limitation on Bonuses.—Subsection (a) shall not be construed to affect the applicability of section 16 of the STOCK Act (12 U.S.C. 4518a) to the chief executive officer of each enterprise.
+
+"(c)
+
+Applicability.—Subsection (a) shall only apply to a chief executive officer of an enterprise if the enterprise is in conservatorship or receivership pursuant to section 1367 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4617).
+
+#### "SEC. 4. FANNIE AND FREDDIE CHIEF EXECUTIVE OFFICERS NOT FEDERAL EMPLOYEES.
+
+"Any chief executive officer affected by any provision under section 3 shall not be considered a Federal employee."
 

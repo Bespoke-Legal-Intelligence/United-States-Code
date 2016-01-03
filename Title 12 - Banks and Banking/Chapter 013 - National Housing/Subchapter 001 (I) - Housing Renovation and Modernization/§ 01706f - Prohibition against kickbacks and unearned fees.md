@@ -12,13 +12,13 @@ The Secretary is authorized to determine the manner and extent to which the prov
 
 For purposes of this section—
 
-&emsp;(1) the term "federally related mortgage loan" as used in sections 2602, 2607, 2614, 2615, 2616, and 2617 of this title shall include an FHA-insured loan or extension of credit made to a borrower for the purpose of purchasing a manufactured home that the borrower intends to occupy as a personal residence; and
+&emsp;(1) the term "federally related mortgage loan" as used in sections 2602, 2607, 2614, 2615, 2616, and 2617 of this title shall include an FHA-insured loan or extension of credit made to a borrower for the purpose of purchasing amanufactured home that the borrower intends to occupy as a personal residence; and
 
 &emsp;(2) the term "real estate settlement service" as used in sections 2602, 2607, 2614, 2615, 2616, and 2617 of this title shall include any service rendered in connection with a loan or extension of credit insured by the Federal Housing Administration for the purchase of a manufactured home.
 
 #### (d) Unfair and deceptive practices
 
-In connection with the purchase of a manufactured home financed with a loan or extension ofcredit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
+In connection with the purchase of a manufactured home financed with a loan or extension of credit insured by the Federal Housing Administration under this subchapter, the Secretary shall prohibit acts or practices in connection with loans or extensions of credit that the Secretary finds to be unfair, deceptive, or otherwise not in the interests of the borrower.
 
 (June 27, 1934, ch. 847, title I, §10, as added Pub. L. 110–289, div. B, title I, §2149, July 30, 2008, 122 Stat. 2847.)
 

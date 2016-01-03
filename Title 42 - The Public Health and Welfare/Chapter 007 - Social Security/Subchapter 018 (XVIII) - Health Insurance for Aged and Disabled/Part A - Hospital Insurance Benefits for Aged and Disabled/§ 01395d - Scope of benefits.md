@@ -4,7 +4,7 @@
 
 The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
 
-&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (ifsuch individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f) of this section, extended care services that are not post-hospital extended care services;
 
@@ -26,7 +26,7 @@ The benefits provided to an individual by the insurance program under this part 
 
 Payment under this part for services furnished an individual during a spell of illness may not (subject to subsection (c) of this section) be made for—
 
-&emsp;(1) inpatient hospital services furnished to him during such spell after such services have been furnished to him for 150 days during such spell minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+&emsp;(1) inpatient hospital services furnished to him during such spell after such services havebeen furnished to him for 150 days during such spell minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
 
 &emsp;(2) post-hospital extended care services furnished to him during such spell after such services have been furnished to him for 100 days during such spell; or
 
@@ -76,7 +76,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 &emsp;(A) for such limitations on the scope and extent of services described in subsection (a)(2)(B) of this section and on the categories of individuals who may be eligible to receive such services, and
 
-&emsp;(B) notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictions and alternatives on the amounts and methods of payment for services described in such subsection,
+&emsp;(B) notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictionsand alternatives on the amounts and methods of payment for services described in such subsection,
 
 > as may be necessary to carry out paragraph (1).
 
@@ -160,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 97–248, §123(b), added subsec. (f) and redesignate
 
 Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
 
-Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
+Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital homehealth services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
 
 Subsec. (e). Pub. L. 96–499, §930(d), substituted "subsections (b) and (c)" for "subsections (b), (c), and (d)" and "and post-hospital extended care services" for "post-hospital extended care services, and post-hospital home health services".
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983,see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -292,7 +292,7 @@ Budget Neutrality.—With respect to the 3-year period of the demonstration prog
 
 #### Protecting Home Health Benefits
 
-Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, oramendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 111–148, title III, §3143, Mar. 23, 2010, 124 Stat. 442, provided that: "Nothing in the provisions of, or amendments made by, this Act \[see Short Title note set out under section 18001 of this title\] shall result in the reduction of guaranteed home health benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Rural Hospice Demonstration Project
 

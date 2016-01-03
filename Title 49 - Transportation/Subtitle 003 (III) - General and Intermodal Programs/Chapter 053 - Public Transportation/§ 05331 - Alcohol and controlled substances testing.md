@@ -12,7 +12,7 @@ Definitions.—In this section—
 
 (b)
 
-Testing Program for Public Transportation Employees.—(1)(A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations thatreceive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
+Testing Program for Public Transportation Employees.—(1)(A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
 
 (B) When the Secretary considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
@@ -64,7 +64,7 @@ Rehabilitation.—The Secretary shall prescribe regulations establishing require
 
 (f)
 
-Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State orlocal government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
+Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
 
 (2) In prescribing regulations under this section, the Secretary—
 
@@ -178,7 +178,7 @@ Subsec. (f)(3). Pub. L. 109–59, §3030(c), struck out par. (3) which read as f
 
 Subsec. (g). Pub. L. 109–59, §3030(b), struck out "or section 103(e)(4) of title 23" after "5311 of this title".
 
-<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: "In the interest of mass transportation safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring mass transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title or section 103(e)(4) of title 23 to conduct preemployment, reasonable suspicion, random, and post-accident testing of mass transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or acontrolled substance in violation of law or a United States Government regulation."
+<b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: "In the interest of mass transportation safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring mass transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title or section 103(e)(4) of title 23 to conduct preemployment, reasonable suspicion, random, and post-accident testing of mass transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation."
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–429 substituted "section 20140 or 31306" for "subchapter III of chapter 201 or section 31306".
 

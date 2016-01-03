@@ -76,7 +76,7 @@
 
 &emsp;&emsp;Not later than 6 months after January 12, 2007, the Secretary shall submit to the Congress a report including the following:
 
-&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health andHuman Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
+&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
 
 &emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
 
@@ -104,7 +104,7 @@
 
 #### (i) Development; submission to Congress
 
-&emsp;&emsp;&emsp;Not later than 3 months after submitting the report required by subparagraph (A), the Secretary shall develop and submit to the Congress a strategy for improving efforts to increase awareness and knowledge of the public and health care providers with respect to different types of cancer, including gynecological cancers.
+&emsp;&emsp;&emsp;Not later than 3 months after submitting the report required by subparagraph (A),the Secretary shall develop and submit to the Congress a strategy for improving efforts to increase awareness and knowledge of the public and health care providers with respect to different types of cancer, including gynecological cancers.
 
 #### (ii) Consultation
 

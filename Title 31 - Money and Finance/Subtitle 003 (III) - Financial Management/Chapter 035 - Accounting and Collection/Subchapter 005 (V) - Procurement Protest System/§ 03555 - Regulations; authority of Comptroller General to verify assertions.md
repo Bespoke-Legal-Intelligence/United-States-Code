@@ -18,7 +18,7 @@ Electronic Filing and Document Dissemination System.—
 
 &emsp;(1)
 
-Establishment and operation of system.—The Comptroller General shall establish and operate an electronic filing and document dissemination system under which, in accordance with procedures prescribed by the Comptroller General—
+Establishment and operation of system.—The Comptroller General shall establishand operate an electronic filing and document dissemination system under which, in accordance with procedures prescribed by the Comptroller General—
 
 &emsp;&emsp;(A) a person filing a protest under this subchapter may file the protest through electronic means; and
 

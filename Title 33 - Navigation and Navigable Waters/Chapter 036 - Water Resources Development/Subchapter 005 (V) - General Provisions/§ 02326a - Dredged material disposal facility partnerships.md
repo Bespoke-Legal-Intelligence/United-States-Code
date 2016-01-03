@@ -22,7 +22,7 @@
 
 #### (2) Use of fees
 
-&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary, for the operation and maintenance of the disposal facility from which the fees were collected.
+&emsp;Notwithstanding section 1341(c) of this title but subject to advance appropriations, any monies received through collection of fees under this subsection shall be available to the Secretary, and shall be used by the Secretary,for the operation and maintenance of the disposal facility from which the fees were collected.
 
 #### (c) Dredged material facility
 
@@ -94,7 +94,7 @@
 
 #### (B) Reimbursement
 
-&emsp;&emsp;If any funds provided by a private entity are used to carry out a project under this subsection, the Secretary may reimburse the private entity over a period of time agreed to by the parties to the agreement through the payment of subsequent user fees. Such fees may include the payment of a disposal or tipping fee for placement of suitable dredged material at the facility.
+&emsp;&emsp;If any funds provided by a private entity are used to carry out a project under thissubsection, the Secretary may reimburse the private entity over a period of time agreed to by the parties to the agreement through the payment of subsequent user fees. Such fees may include the payment of a disposal or tipping fee for placement of suitable dredged material at the facility.
 
 #### (C) Amount of fees
 
@@ -112,7 +112,7 @@
 
 #### References in Text
 
-The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Budget Act, referred to in subsec. (d)(2)(E) heading, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Codification
 

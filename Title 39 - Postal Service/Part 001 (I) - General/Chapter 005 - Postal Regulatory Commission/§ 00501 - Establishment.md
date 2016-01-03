@@ -42,7 +42,7 @@ Contents.—The report under this subsection shall include—
 
 &emsp;&emsp;"(A) a comprehensive review of the history and development of universal service and the postal monopoly, including how the scope and standards of universal service and the postal monopoly have evolved over time for the Nation and its urban and rural areas;
 
-&emsp;&emsp;"(B) the scope and standards of universal service and the postal monopoly provided under current law (including sections 101 and 403 of title 39, United States Code), and current rules, regulations, policy statements, and practices of the Postal Service;
+&emsp;&emsp;"(B) the scope and standards of universal service and the postal monopoly provided under current law (including sections 101 and 403 of title 39,United States Code), and current rules, regulations, policy statements, and practices of the Postal Service;
 
 &emsp;&emsp;"(C) a description of any geographic areas, populations, communities (including both urban and rural communities), organizations, or other groups or entities not currently covered by universal service or that are covered but that are receiving services deficient in scope or quality or both; and
 
@@ -52,7 +52,7 @@ Contents.—The report under this subsection shall include—
 
 Recommended Changes to Universal Service and the Monopoly.—The Postal Regulatory Commission shall include in the report under subsection (a), and in all reports submitted under section 701 of this Act \[set out as a note above\]—
 
-&emsp;"(1) any recommended changes to universal service and the postal monopoly as the Commission considers appropriate, including changes that the Commission may implement under current law and changes thatwould require changes to current law, with estimated effects of the recommendations on the service, financial condition, rates, and security of mail provided by the Postal Service;
+&emsp;"(1) any recommended changes to universal service and the postal monopoly as the Commission considers appropriate, including changes that the Commission may implement under current law and changes that would require changes to current law, with estimated effects of the recommendations on the service, financial condition, rates, and security of mail provided by the Postal Service;
 
 &emsp;"(2) with respect to each recommended change described under paragraph (1)—
 

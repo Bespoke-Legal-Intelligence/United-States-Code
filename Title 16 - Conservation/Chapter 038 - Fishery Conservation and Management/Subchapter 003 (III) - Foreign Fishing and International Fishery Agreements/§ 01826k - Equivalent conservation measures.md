@@ -6,7 +6,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 &emsp;(1) a nation if—
 
-&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices; <sup>1</sup>
+&emsp;&emsp;(A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years in fishing activities or practices—
 
 &emsp;&emsp;&emsp;(i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
 
@@ -26,7 +26,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 The Secretary, acting through the Secretary of State, shall—
 
-&emsp;(1) notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;
+&emsp;(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
 
 &emsp;(2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
 
@@ -38,11 +38,11 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (1) Determination
 
-&emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whetherthe government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
+&emsp;The Secretary shall establish a procedure consistent with the provisions of subchapter II of chapter 5 of title 5 for determining whether the government of a harvesting nation identified under subsection (a) and listed in the report under section 1826h of this title—
 
 &emsp;&emsp;(A) has provided documentary evidence of the adoption of a regulatory program governing the conservation of the protected living marine resource that is comparable to that of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
 
-&emsp;&emsp;(B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
+&emsp;&emsp;(B) has established a management plan containing requirements that will assist ingathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
 #### (2) Procedural requirement
 
@@ -54,15 +54,15 @@ The Secretary, acting through the Secretary of State, shall—
 
 #### (4) Alternative procedure
 
-&emsp;The Secretary shall establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
+&emsp;The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
 
-&emsp;&emsp;(A) are comparable to those of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
+&emsp;&emsp;(A) are comparable to those of the United States, taking into account different conditions; and
 
 &emsp;&emsp;(B) include the gathering of species specific data that can be used to support international and regional stock assessments and conservation efforts for protected living marine resources.
 
 #### (5) Effect of certification
 
-&emsp;The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) that has not been certified by the Secretary under this subsection, or for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+&emsp;The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
 #### (d) International cooperation and assistance
 
@@ -88,11 +88,11 @@ In this section the term "protected living marine resource"—
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669.)
+(Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655.)
 
 #### References in Text
 
-Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original "this section and this Act" and was translated as reading "this section and this title" meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original "section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
@@ -112,6 +112,14 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–81, §101(g)(3), (i)(5)(A), substituted "3 years" for "calendar year" and "practices—" for "practices;" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 114–81, §101(d), amended par. (1) generally. Prior to amendment, text read as follows: "notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;".
+
+Subsec. (c)(4). Pub. L. 114–81, §101(i)(5)(B), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which related to alternative procedure for certification of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3).
+
+Subsec. (c)(5). Pub. L. 114–81, §101(f), struck out "that has not been certified by the Secretary under this subsection, or" after "subsection (a)".
+
 <b>2011</b>—Subsec. (a). Pub. L. 111–348, §102(c)(1)(A), struck out ", a nation if" after "section 1826h of this title" in introductory provisions.
 
 Pub. L. 111–348, §102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted "(1) a nation if—" before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
@@ -119,6 +127,4 @@ Pub. L. 111–348, §102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpar
 #### Initial Identifications
 
 Pub. L. 111–348, title I, §102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided that: "The Secretary of Commerce shall begin making identifications under paragraph (2) of section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(a)), as added by paragraph (1)(G), not later than 1 year after the date of the enactment of this Act \[Jan. 4, 2011\]."
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a dash.</i>
 

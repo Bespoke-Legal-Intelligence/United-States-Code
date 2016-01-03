@@ -60,7 +60,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 &emsp;&emsp;(A) shall assess natural resource damages under section 2702(b)(2)(A) of this title for the purposes of this Act for the natural resources under their trusteeship; and
 
-&emsp;&emsp;(B) shall develop and implement a plan for the restoration, rehabilitation, replacement,or acquisition of the equivalent, of the natural resources under their trusteeship.
+&emsp;&emsp;(B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
 
 #### (4) Foreign trustees
 
@@ -116,7 +116,7 @@ Review of actions by any Federal official where there is alleged to be a failure
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug.18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Delegation of Functions
 

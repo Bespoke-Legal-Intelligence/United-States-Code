@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) provide notice to enrollees, in a culturally and linguistically appropriate manner, of available internal and external appeals processes, and the availability of any applicable office of health insurance consumer assistance or ombudsman established under section 300gg–93 of this title to assist such enrollees with the appeals processes; and
 
-&emsp;&emsp;(C) allow an enrollee to review their file, to present evidence and testimony as part of the appeals process, and to receive continued coverage pending the outcome of the appeals process.
+&emsp;&emsp;(C) allow an enrollee to review their file, to present evidence and testimony as part of the appeals process, and to receive continuedcoverage pending the outcome of the appeals process.
 
 #### (2) Established processes
 
@@ -44,5 +44,5 @@ The Secretary may deem the external review process of a group health plan or hea
 
 #### Effective Date
 
-Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
+Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 

@@ -10,7 +10,7 @@ Authority to Procure.—The Secretary of Defense may enter into one or more cont
 
 (c)
 
-Clean Fuel Requirements.—A covered fuel may be procured under subsection (b) only if the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
+Clean Fuel Requirements.—A covered fuel may be procured under subsection (b) onlyif the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
 
 (d)
 

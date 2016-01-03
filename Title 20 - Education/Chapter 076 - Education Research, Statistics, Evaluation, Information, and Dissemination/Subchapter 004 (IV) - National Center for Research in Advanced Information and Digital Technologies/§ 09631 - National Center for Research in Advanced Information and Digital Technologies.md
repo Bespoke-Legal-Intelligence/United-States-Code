@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and Digital Technologies, which shall not be an agency or establishment of the Federal Government. The Center shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
+There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and DigitalTechnologies, which shall not be an agency or establishment of the Federal Government. The Center shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
 
 #### (b) Purpose
 
@@ -40,7 +40,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;(A) reflect representation from the public and private sectors;
 
-&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions ofthe United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
+&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions of the United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
 
 &emsp;&emsp;(C) shall not be in a position to benefit financially directly from the contracts and grants to eligible institutions under subsection (f)(2); and
 

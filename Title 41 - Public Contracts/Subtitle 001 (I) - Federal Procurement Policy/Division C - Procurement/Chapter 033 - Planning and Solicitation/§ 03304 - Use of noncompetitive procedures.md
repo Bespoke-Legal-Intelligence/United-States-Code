@@ -234,7 +234,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
 
-&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
+&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
 
 "(b)
 

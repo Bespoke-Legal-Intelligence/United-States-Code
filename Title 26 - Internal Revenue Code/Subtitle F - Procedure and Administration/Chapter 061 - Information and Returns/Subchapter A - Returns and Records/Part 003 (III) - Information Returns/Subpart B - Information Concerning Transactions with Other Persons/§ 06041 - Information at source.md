@@ -118,7 +118,7 @@ Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title XII, §1201(b), July 30, 1996, 110 Stat. 1470, provided that: "The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension)."
+Pub. L. 104–168, title XII, §1201(b), July 30, 1996, 110 Stat. 1470, provided that: "The amendments made bysubsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension)."
 
 #### Effective Date of 1986 Amendment
 

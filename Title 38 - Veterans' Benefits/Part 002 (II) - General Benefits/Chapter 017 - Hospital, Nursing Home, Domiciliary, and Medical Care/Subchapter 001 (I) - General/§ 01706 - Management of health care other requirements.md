@@ -6,7 +6,7 @@
 
 (2) For purposes of paragraph (1), the capacity of the Department (and each geographic service area of the Veterans Health Administration) to provide for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, traumatic brain injury, blindness, prosthetics and sensory aids, and mental illness) within distinct programs or facilities shall be measured for seriously mentally ill veterans as follows (with all such data to be provided by geographic service area and totaled nationally):
 
-&emsp;(A) For mental health intensive community-based care, the number of discrete intensive care teams constituted to provide such intensive services to seriously mentally ill veterans and the number of veterans provided such care.
+&emsp;(A) For mental health intensive community-based care, the number of discrete intensivecare teams constituted to provide such intensive services to seriously mentally ill veterans and the number of veterans provided such care.
 
 &emsp;(B) For opioid substitution programs, the number of patients treated annually and the amounts expended.
 

@@ -46,7 +46,7 @@
 
 #### (4) Use of fees collected
 
-&emsp;Any fee amounts collected by an executive agency pursuant to paragraph (3) may be madeavailable, as provided in appropriations Acts, to such agency to cover the costs of granting the easement or right-of-way.
+&emsp;Any fee amounts collected by an executive agency pursuant to paragraph (3) may be made available, as provided in appropriations Acts, to such agency to cover the costs of granting the easement or right-of-way.
 
 #### (c) Master contracts for wireless facility sitings
 

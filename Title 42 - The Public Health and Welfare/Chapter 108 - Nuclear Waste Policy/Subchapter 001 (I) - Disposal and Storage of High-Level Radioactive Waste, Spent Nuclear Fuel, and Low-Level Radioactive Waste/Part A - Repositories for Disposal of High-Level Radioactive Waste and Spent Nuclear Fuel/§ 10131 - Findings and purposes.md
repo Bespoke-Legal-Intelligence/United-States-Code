@@ -4,7 +4,7 @@
 
 &emsp;(1) radioactive waste creates potential risks and requires safe and environmentally acceptable methods of disposal;
 
-&emsp;(2) a national problem has been created by the accumulation of (A) spent nuclear fuel from nuclear reactors; and (B) radioactive waste from (i) reprocessing of spent nuclearfuel; (ii) activities related to medical research, diagnosis, and treatment; and (iii) other sources;
+&emsp;(2) a national problem has been created by the accumulation of (A) spent nuclear fuel from nuclear reactors; and (B) radioactive waste from (i) reprocessing of spent nuclear fuel; (ii) activities related to medical research, diagnosis, and treatment; and (iii) other sources;
 
 &emsp;(3) Federal efforts during the past 30 years to devise a permanent solution to the problems of civilian radioactive waste disposal have not been adequate;
 
@@ -18,7 +18,7 @@
 
 (b) The purposes of this part are—
 
-&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that the public and the environment will be adequately protected from the hazards posed by high-level radioactive waste and such spent nuclear fuel as may be disposed of in a repository;
+&emsp;(1) to establish a schedule for the siting, construction, and operation of repositories that will provide a reasonable assurance that thepublic and the environment will be adequately protected from the hazards posed by high-level radioactive waste and such spent nuclear fuel as may be disposed of in a repository;
 
 &emsp;(2) to establish the Federal responsibility, and a definite Federal policy, for the disposal of such waste and spent fuel;
 

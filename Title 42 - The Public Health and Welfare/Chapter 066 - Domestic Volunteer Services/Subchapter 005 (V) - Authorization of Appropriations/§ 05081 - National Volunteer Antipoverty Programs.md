@@ -8,7 +8,7 @@
 
 #### (2) Special volunteer programs
 
-&emsp;There are authorized to be appropriated to carry out part C of subchapter I such sums asmay be necessary for each of fiscal years 2010 through 2014.
+&emsp;There are authorized to be appropriated to carry out part C of subchapter I such sums as may be necessary for each of fiscal years 2010 through 2014.
 
 #### (3) Specification of budget function
 
@@ -46,7 +46,7 @@ Special volunteer programs.—There are authorized to be appropriated to carry o
 
 "(4)
 
-Literacy challenge grants.—There are authorized to be appropriated to carry out section 4995 of this title, such sums as may be necessary for each of the fiscal years 1994 through 1996."
+Literacy challenge grants.—There are authorized to be appropriated to carry out section 4995 of thistitle, such sums as may be necessary for each of the fiscal years 1994 through 1996."
 
 Subsec. (c). Pub. L. 111–13, §2161(a)(2), substituted "part C" for "part B or C".
 

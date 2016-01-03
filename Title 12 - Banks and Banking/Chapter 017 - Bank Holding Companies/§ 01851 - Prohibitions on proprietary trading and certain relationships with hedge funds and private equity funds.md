@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the study under paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
+&emsp;&emsp;Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, shall consider the findings of the studyunder paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).
 
 #### (B) Coordinated rulemaking
 
@@ -106,7 +106,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2) and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
+&emsp;Notwithstanding the restrictions under subsection (a), to the extent permitted by any other provision of Federal or State law, and subject to the limitations under paragraph (2)and any restrictions or limitations that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission, may determine, the following activities (in this section referred to as "permitted activities") are permitted:
 
 &emsp;&emsp;(A) The purchase, sale, acquisition, or disposition of obligations of the United States or any agency thereof, obligations, participations, or other instruments of or issued by the Government National Mortgage Association, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, a Federal Home Loan Bank, the Federal Agricultural Mortgage Corporation, or a Farm Credit System institution chartered under and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), and obligations of any State or of any political subdivision thereof.
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
 
-&emsp;&emsp;&emsp;(viii) the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
+&emsp;&emsp;&emsp;(viii) the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designedto ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
 
 &emsp;&emsp;(H) Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title, provided that the trading occurs solely outside of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
 
@@ -200,7 +200,7 @@
 
 #### (C) Extension
 
-&emsp;&emsp;Upon an application by a banking entity, the Board may extend the period of time tomeet the requirements under subparagraph (B)(ii)(I) for 2 additional years, if the Board finds that an extension would be consistent with safety and soundness and in the public interest.
+&emsp;&emsp;Upon an application by a banking entity, the Board may extend the period of time to meet the requirements under subparagraph (B)(ii)(I) for 2 additional years, if the Board finds that an extension would be consistent with safety and soundness and in the public interest.
 
 #### (e) Anti-evasion
 
@@ -254,7 +254,7 @@
 
 #### (3) Authority of Federal agencies and State regulatory authorities
 
-&emsp;Nothing in this section shall be construed to limit the inherent authority of any Federal agency or State regulatory authority under otherwise applicable provisions of law.
+&emsp;Nothing in this section shall be construed to limit the inherent authority of any Federalagency or State regulatory authority under otherwise applicable provisions of law.
 
 #### (h) Definitions
 
@@ -320,7 +320,7 @@ In this section, the following definitions shall apply:
 
 #### References in Text
 
-Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
+Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Actof 1978, which enacted section 3106 of this title and amended section 1841 of this title.
 
 The Farm Credit Act of 1971, referred to in subsec. (d)(1)(A), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

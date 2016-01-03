@@ -6,7 +6,7 @@ The United States International Trade Commission (referred to in this subtitle a
 
 #### (b) Terms of office
 
-The terms of office of the commissioners holding office on January 3, 1975, which (but for this sentence) would expire on June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, shall expire on December 16, 1976, June 16, 1978, December 16, 1979, June 16, 1981, December 16, 1982, and June 16, 1984, respectively. The term of office of each commissioner appointed after such date shall expire 9 years from the date of the expiration of the term for which his predecessor was appointed, except that—
+The terms of office of the commissioners holding office on January 3, 1975, which (but for this sentence) would expire on June 16, 1975, June 16, 1976, June 16, 1977, June 16, 1978, June 16, 1979, and June 16, 1980, shall expire on December 16, 1976, June 16, 1978, December 16, 1979, June 16, 1981, December 16, 1982, and June 16, 1984, respectively. The term of office of each commissioner appointed after such date shall expire 9 years from the date of the expiration of the term forwhich his predecessor was appointed, except that—
 
 &emsp;(1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and
 
@@ -60,7 +60,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;&emsp;(ii) he is taking action which differs from the action agreed upon by both such groups, or that he will not take any action, then the remedy finding agreed upon by either such group may be considered by the Congress as the remedy finding of the Commission and shall, for purposes of section 2253 of this title, be treated as the remedy finding of the Commission.
 
-(3) In any proceeding to which paragraph (1) applies in which the commissioners voting are equally divided on a determination that serious injury exists, or that market disruption exists, the Commission shall report to the President the determination of each group of commissioners. In any proceeding to which paragraph (2) applies, the Commission shall report to the President the remedy finding of each group of commissioners voting.
+(3) In any proceeding to which paragraph (1) applies in which the commissioners voting are equally divided on a determination that seriousinjury exists, or that market disruption exists, the Commission shall report to the President the determination of each group of commissioners. In any proceeding to which paragraph (2) applies, the Commission shall report to the President the remedy finding of each group of commissioners voting.
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: "The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_." The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
@@ -218,7 +218,7 @@ Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amend
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XVIII, §1801(c), Oct. 4, 1976, 90 Stat. 1763, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to determinations, findings, and recommendations madeunder sections 201 and 406 of the Trade Act of 1974 \[sections 2251 and 2436 of this title\] after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XVIII, §1801(c), Oct. 4, 1976, 90 Stat. 1763, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to determinations, findings, and recommendations made under sections 201 and 406 of the Trade Act of 1974 \[sections 2251 and 2436 of this title\] after the date of the enactment of this Act \[Oct. 4, 1976\]."
 
 #### Appointment of Chairman in 1992
 

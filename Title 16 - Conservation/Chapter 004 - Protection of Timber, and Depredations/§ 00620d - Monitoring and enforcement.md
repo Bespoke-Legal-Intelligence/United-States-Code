@@ -32,7 +32,7 @@ In accordance with regulations issued under this section—
 
 #### (b) Report to Congress
 
-Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
+Using the information gathered under subsection (a), the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
 
 &emsp;(1) analyze the effects of indirect substitution on market efficiency;
 
@@ -50,7 +50,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 #### (1) Exports
 
-&emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
+&emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing,that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
 &emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
@@ -90,7 +90,9 @@ In general.—The Secretary concerned—
 
 &emsp;&emsp;(ii)
 
-Contractural <sup>1</sup> remedies.—In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
+Contractural <sup>1</sup>
+
+remedies.—In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
 
 #### (3) Penalties not exclusive; judicial review
 
@@ -112,7 +114,7 @@ Contractural <sup>1</sup> remedies.—In the case of a minor violation of secti
 
 #### (ii) Withholding of awards during debarment proceedings
 
-&emsp;&emsp;&emsp;The head of an appropriate Federal department or agency may withhold an award under sections 620 to 620j of this title of a contract for the purchase of unprocessed timber from Federal lands during a debarment proceeding.
+&emsp;&emsp;&emsp;The head of an appropriate Federal department or agency may withhold anaward under sections 620 to 620j of this title of a contract for the purchase of unprocessed timber from Federal lands during a debarment proceeding.
 
 #### (2) Cancellation of contracts
 
@@ -120,7 +122,7 @@ Contractural <sup>1</sup> remedies.—In the case of a minor violation of secti
 
 #### (e) Exception
 
-Subsections (c) and (d) of this section do not apply to violations of section 620i of this title.
+Subsections (c) and (d) do not apply to violations of section 620i of this title.
 
 (Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, §603, Nov. 14, 1997, 111 Stat. 1620.)
 

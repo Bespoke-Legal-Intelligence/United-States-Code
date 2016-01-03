@@ -8,7 +8,7 @@ A resident of a dwelling unit in public housing (as such term is defined in subs
 
 The reasonable requirements referred to in subsection (a) of this section may include—
 
-&emsp;(1) requiring payment of a nominal fee, a pet deposit, or both, by residents owning or having pets present, to cover the reasonable operating costs to the project relating to the presence of pets and to establish an escrow account for additional costs not otherwise covered, respectively;
+&emsp;(1) requiring payment of a nominal fee, a pet deposit, or both, by residents owning or havingpets present, to cover the reasonable operating costs to the project relating to the presence of pets and to establish an escrow account for additional costs not otherwise covered, respectively;
 
 &emsp;(2) limitations on the number of animals in a unit, based on unit size;
 

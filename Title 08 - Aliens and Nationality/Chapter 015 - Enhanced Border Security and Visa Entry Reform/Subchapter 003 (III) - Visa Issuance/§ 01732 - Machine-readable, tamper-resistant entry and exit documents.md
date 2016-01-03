@@ -6,9 +6,9 @@
 
 &emsp;Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
 
-&emsp;&emsp;(A) implementation of the requirements of subsections (b) and (c) of this section; and
+&emsp;&emsp;(A) implementation of the requirements of subsections (b) and (c); and
 
-&emsp;&emsp;(B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c) of this section.
+&emsp;&emsp;(B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c).
 
 #### (2) Estimates
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
+&emsp;&emsp;Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
 
 #### (B) Use of readers and scanners
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) domestic and international standards organizations determine to be highly accurate when used to verify identity;
 
-&emsp;&emsp;&emsp;(ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1) of this section; and
+&emsp;&emsp;&emsp;(ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1); and
 
 &emsp;&emsp;&emsp;(iii) can authenticate the document presented to verify identity.
 
@@ -40,23 +40,17 @@
 
 &emsp;The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title.
 
-#### (c) Technology standard for visa waiver participants
-
-#### (1) Certification requirement
-
-&emsp;Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant andincorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title.
-
-#### (2) Use of technology standard
-
-&emsp;On and after October 26, 2005, any alien applying for admission under the visa waiver program under section 1187 of this title shall present a passport that meets the requirements of paragraph (1) unless the alien's passport was issued prior to that date.
+#### (c) Repealed. Pub. L. 114–113, div. O, title II, §202(c), Dec. 18, 2015, 129 Stat. 2989
 
 #### (d) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
-(Pub. L. 107–173, title III, §303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, §1, Aug. 9, 2004, 118 Stat. 1100.)
+(Pub. L. 107–173, title III, §303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, §1, Aug. 9, 2004, 118 Stat. 1100; Pub. L. 114–113, div. O, title II, §202(c), Dec. 18, 2015, 129 Stat. 2989.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–113 struck out subsec. (c), which related to technology standard for visa waiver participants.
 
 <b>2004</b>—Subsecs. (b)(2)(A), (c)(1), (2). Pub. L. 108–299 substituted "2005" for "2004".
 

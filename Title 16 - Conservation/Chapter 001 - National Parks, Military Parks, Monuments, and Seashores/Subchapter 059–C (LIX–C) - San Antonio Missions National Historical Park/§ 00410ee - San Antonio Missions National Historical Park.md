@@ -8,7 +8,7 @@
 
 #### (2) Additional land
 
-&emsp;The park shall also consist of the lands and interests therein within the area bounded by the line depicted as "Proposed Boundary Extension" on the maps entitled "San Antonio Missions National Historical Park", numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and datedJune 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.
+&emsp;The park shall also consist of the lands and interests therein within the area bounded by the line depicted as "Proposed Boundary Extension" on the maps entitled "San Antonio Missions National Historical Park", numbered 472–80,075, 472–80,076, 472–80,077, 472–80,078, 472–80,079, 472–80,080, and 472–80,081 and dated June 7, 1990, which shall be on file and available for public inspection in the same manner as is such drawing.
 
 #### (3) Boundary modification
 
@@ -56,11 +56,11 @@ For the purposes of this section, the Secretary is authorized—
 
 #### (c) Retention of rights by owners; compensation for property; termination of rights; "improved property" defined
 
-(1) With the exception of any property deemed necessary by the Secretary for visitor facilities or administration of the park, any owner or owners of improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for themselves and their successors or assigns a right of use and occupancy of the property for noncommercial residential purposes, for twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or his spouse, whichever is later. The owner shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition less the fair market value on such date of the right retained by the owner.
+(1) With the exception of any property deemed necessary by the Secretary for visitor facilitiesor administration of the park, any owner or owners of improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for themselves and their successors or assigns a right of use and occupancy of the property for noncommercial residential purposes, for twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or his spouse, whichever is later. The owner shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition less the fair market value on such date of the right retained by the owner.
 
 (2) A right of use and occupancy retained or enjoyed pursuant to this subsection may be terminated with respect to the entire property by the Secretary upon his determination that the property or any portion thereof had ceased to be used for noncommercial residential purposes and upon tender to the holder of a right an amount equal to the fair market value, as of the date of tender, of that portion of the right which remains unexpired on the date of termination.
 
-(3) The term "improved property", as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a "dwelling"), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling forthe sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+(3) The term "improved property", as used in this subsection, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1978 (hereinafter referred to as a "dwelling"), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment or <sup>1</sup> the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 #### (d) Protection and preservation of historical and architectural values; administration
 
@@ -76,7 +76,7 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 &emsp;(C) one member to be appointed from recommendations made by the City Council of the City of San Antonio, Texas;
 
-&emsp;(D) one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2) of this section;
+&emsp;(D) one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2);
 
 &emsp;(E) one member from the membership of a local conservation or historical organization; and
 
@@ -100,7 +100,7 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 #### References in Text
 
-The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (d), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (d), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

@@ -16,7 +16,7 @@
 
 (b) In a case under this section, the Secretary or his designee may—
 
-&emsp;(1) make a lump-sum award in the manner prescribed by section 8135 of this title when he or his designee considers it to be for the best interest of the United States; and
+&emsp;(1) make a lump-sum award in the manner prescribed by section 8135 of this title when heor his designee considers it to be for the best interest of the United States; and
 
 &emsp;(2) compromise and pay a claim for benefits, including a claim in which there is a dispute as to jurisdiction or other fact or a question of law.
 

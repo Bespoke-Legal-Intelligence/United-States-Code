@@ -206,7 +206,7 @@ Feb. 15, 1980, Pub. L. 96–191, §§3, 6, 94 Stat. 27, 32.
 
 In the section, the words "officers and" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to as the 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
+In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to asthe 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
 
 In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of the United States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
 
@@ -302,7 +302,7 @@ Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: "The
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment
 
@@ -384,7 +384,7 @@ Agency contributions and payment to the fund.—Not later than 9 months after th
 
 &emsp;&emsp;&emsp;"(i) the amount of each deduction and withholding under subparagraph (A); and
 
-&emsp;&emsp;&emsp;"(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
+&emsp;&emsp;&emsp;"(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, Unitedstates Code, based on payments made under clause (i).
 
 "(g)
 

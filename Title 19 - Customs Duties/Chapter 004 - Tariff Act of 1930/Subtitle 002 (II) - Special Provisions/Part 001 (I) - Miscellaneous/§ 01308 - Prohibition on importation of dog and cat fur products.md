@@ -18,7 +18,7 @@ In this section:
 
 #### (4) Designated authority
 
-&emsp;The term "designated authority" means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President (or the President's designee), with respect to the prohibitions under subsection (b)(1)(B) of this section.
+&emsp;The term "designated authority" means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A), and the President (or the President's designee), with respect to the prohibitions under subsection (b)(1)(B).
 
 #### (5) Dog fur
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Debarment
 
-&emsp;&emsp;The designated authority may prohibit a person from importing, exporting, transporting, distributing, manufacturing, or selling any fur product in the United States, if the designated authority finds that the person has engaged in a pattern or practice of actions that has resulted in a final administrative determination with respect to the assessment of civil penalties for knowing and intentional or grossly negligent violations of any provision of this section or any regulation issued under this section.
+&emsp;&emsp;The designated authority may prohibit a person from importing, exporting, transporting, distributing, manufacturing, or selling any fur product in the United States, if thedesignated authority finds that the person has engaged in a pattern or practice of actions that has resulted in a final administrative determination with respect to the assessment of civil penalties for knowing and intentional or grossly negligent violations of any provision of this section or any regulation issued under this section.
 
 #### (C) Factors in assessing penalties
 
@@ -82,11 +82,11 @@ In this section:
 
 #### (3) Enforcement
 
-&emsp;The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B) of this section.
+&emsp;The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A), and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B).
 
 #### (4) Regulations
 
-&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by whichtesting laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
 
 #### (5) Reward
 
@@ -128,7 +128,7 @@ Pub. L. 106–476, title I, §1443(c), Nov. 9, 2000, 114 Stat. 2167, provided th
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Findings and Purposes
 
@@ -146,7 +146,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) Forensic texts have documented that dog and cat fur products are being imported into the United States subject to deceptive labels or other practices designed to conceal the use of dog or cat fur in the production of wearing apparel, toys, and other products.
 
-&emsp;"(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly fortheir fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce. The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
+&emsp;"(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce. The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets.
 
 &emsp;"(6) The methods of housing, transporting, and slaughtering dogs and cats for fur production are generally unregulated and inhumane.
 

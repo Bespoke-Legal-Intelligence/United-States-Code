@@ -18,7 +18,7 @@ Administrator.—The head of the Administration shall be the Administrator who s
 
 (e)
 
-Deputy Administrator.—The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
+Deputy Administrator.—The Administration shall have a Deputy Administrator whoshall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
 
 (f)
 
@@ -128,7 +128,7 @@ In subsection (a), the words "To carry out" are substituted for "for purposes of
 
 In subsection (b), the words "Each of these components" are omitted as surplus.
 
-In subsection (c), the words "vested in the Secretary" are substituted for "as set forth in the statutes transferred to the Secretary" in 49:1655(f)(3)(A) for clarity and consistency. The words "section 6(e)(1), (2), and\(6)(A) of the Department of Transportation Act (49 U.S.C. 1655(e)(1), (2), and (6)(A))" are substituted for "subsection (e) of this section (other than subsection (e)(4) of this section)" in 49:1655(f)(3)(A) for clarity.
+In subsection (c), the words "vested in the Secretary" are substituted for "as set forth in the statutes transferred to the Secretary" in 49:1655(f)(3)(A) for clarity and consistency. The words "section 6(e)(1), (2), and (6)(A) of the Department of Transportation Act (49 U.S.C. 1655(e)(1), (2), and (6)(A))" are substituted for "subsection (e) of this section (other than subsection (e)(4) of this section)" in 49:1655(f)(3)(A) for clarity.
 
 In subsection (d), the word "law" is substituted for "statute" in 49:1652(e)(4) for consistency. The words after "administratively final" in 49:1655(f)(3)(C) are omitted as unnecessary because of the restatement of the revised title and those laws giving a right to appeal.
 
@@ -156,17 +156,17 @@ Subsec. (e). Pub. L. 103–440 added subsec. (e).
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
 
-#### Update of Federal Railroad Administration's Website
+#### Update of Federal Railroad Administration Web Site
 
-Pub. L. 110–432, div. A, title III, §307, Oct. 16, 2008, 122 Stat. 4881, provided that:
+Pub. L. 110–432, div. A, title III, §307, Oct. 16, 2008, 122 Stat. 4881, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(5), Dec. 4, 2015, 129 Stat. 1677, provided that:
 
 "(a)
 
-In General.—The Secretary shall update the Federal Railroad Administration's public website to better facilitate the ability of the public, including those individuals who are not regular users of the public website, to find current information regarding the Federal Railroad Administration's activities.
+In General.—The Secretary shall update the Federal Railroad Administration's public Web site to better facilitate the ability of the public, including those individuals who are not regular users of the public Web site, to find current information regarding the Federal Railroad Administration's activities.
 
 "(b)
 
-Public Reporting of Violations.—On the Federal Railroad Administration's public website's home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration."
+Public Reporting of Violations.—On the Federal Railroad Administration's public Web site's home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration."
 
 \[For definitions of "Secretary" and "railroad", as used in section 307 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

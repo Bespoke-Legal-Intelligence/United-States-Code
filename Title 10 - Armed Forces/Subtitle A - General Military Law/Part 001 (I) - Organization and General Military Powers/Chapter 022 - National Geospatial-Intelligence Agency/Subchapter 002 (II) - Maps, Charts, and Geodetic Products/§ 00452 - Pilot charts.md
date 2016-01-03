@@ -4,7 +4,7 @@
 
 (b) The Secretary of Commerce shall furnish to the National Geospatial-Intelligence Agency, as quickly as possible, all meteorological information received by the Secretary that is necessary for, and of the character used in, preparing pilot charts.
 
-(Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2793; renumbered §452 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2793; renumbered §452 and amendedPub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568.)
 
 Historical and Revision Notes
 

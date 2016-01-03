@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (5) Ceremonial activities
 
-&emsp;Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
+&emsp;Any items of cultural significance, reimbursement of costs, or cash honorarium forparticipation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
 
 (Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883.)
 
@@ -102,7 +102,7 @@ In general.—The Committee shall be composed of 7 members appointed as follows:
 
 &emsp;&emsp;"(A) Three members appointed by the Secretary of the Treasury.
 
-&emsp;&emsp;"(B) One member appointed by the Chairman, and one member appointed by the Ranking Member, ofthe Committee on Ways and Means of the House of Representatives.
+&emsp;&emsp;"(B) One member appointed by the Chairman, and one member appointed by the Ranking Member, of the Committee on Ways and Means of the House of Representatives.
 
 &emsp;&emsp;"(C) One member appointed by the Chairman, and one member appointed by the Ranking Member, of the Committee on Finance of the Senate.
 

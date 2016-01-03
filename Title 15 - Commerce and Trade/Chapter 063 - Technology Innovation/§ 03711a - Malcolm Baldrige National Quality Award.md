@@ -8,7 +8,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (1) The President (on the basis of recommendations received from the Secretary), or the Secretary, shall periodically make the award to companies and other organizations which in the judgment of the President or the Secretary have substantially benefited the economic or social well-being of the United States through improvements in the quality of their goods or services resulting from the effective practice of quality management, and which as a consequence are deserving of special recognition.
 
-(2) The presentation of the award shall be made by the President or the Secretary withsuch ceremonies as the President or the Secretary may deem proper.
+(2) The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary may deem proper.
 
 (3) An organization to which an award is made under this section, and which agrees to help other American organizations improve their quality management, may publicize its receipt of such award and use the award in its advertising, but it shall be ineligible to receive another such award in the same category for a period of 5 years.
 
@@ -64,7 +64,7 @@ The Secretary shall prepare and submit to the President and the Congress, within
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within anysubcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be givenat no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
 
 <b>2004</b>—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 

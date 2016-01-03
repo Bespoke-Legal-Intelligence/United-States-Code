@@ -8,7 +8,7 @@ Accession Bonus Authorized.—Under regulations prescribed by the Secretary conc
 
 Designation of Critical Officer Skills.—The Secretary concerned shall designate the critical officer skills for the purposes of this section. A skill may be designated as a critical officer skill for an armed force under this subsection if—
 
-&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed forceto have a sufficient number of officers who are qualified in that skill; and
+&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed force to have a sufficient number of officers who are qualified in that skill; and
 
 &emsp;(2) in order to mitigate a current or projected significant shortage of personnel in the armed force who are qualified in that skill, it is critical to access into that armed force in sufficient numbers persons who are qualified in that skill or are to be trained in that skill.
 
@@ -30,11 +30,13 @@ Repayment.—An individual who, having received all or part of the bonus under a
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2015.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2016.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(6), Dec. 19, 2014, 128 Stat. 3401.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L.107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(5), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(6), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §615(6), Nov. 25, 2015, 129 Stat. 839.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 
 <b>2014</b>—Subsec. (g). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 

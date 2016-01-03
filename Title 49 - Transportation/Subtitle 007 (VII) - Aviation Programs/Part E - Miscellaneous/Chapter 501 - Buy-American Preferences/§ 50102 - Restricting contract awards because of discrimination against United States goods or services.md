@@ -22,7 +22,7 @@ Pub. L. 103–272
 
 Nov. 5, 1990, Pub. L. 101–508, §9131, 104 Stat. 1388–372; Oct. 31, 1992, Pub. L. 102–581, §118(b), 106 Stat. 4883.
 
-The words "government of that country" are substituted for "that government" for consistency in therevised title and with other titles of the United States Code.
+The words "government of that country" are substituted for "that government" for consistency in the revised title and with other titles of the United States Code.
 
 #### Pub. L. 104–287, §5(89)
 

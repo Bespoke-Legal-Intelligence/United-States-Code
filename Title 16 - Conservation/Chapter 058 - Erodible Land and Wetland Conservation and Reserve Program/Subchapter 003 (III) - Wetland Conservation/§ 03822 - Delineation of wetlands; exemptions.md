@@ -72,7 +72,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(B) A wetland that is temporarily or incidentally created as a result of adjacent development activity.
 
-&emsp;&emsp;(C) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production ispossible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+&emsp;&emsp;(C) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
 
 &emsp;&emsp;(D) A wetland previously identified as a converted wetland (if the original conversion of the wetland was commenced before December 23, 1985), but that the Secretary determines returned to wetland status after that date as a result of—
 
@@ -204,7 +204,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2014</b>—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows: "Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection."
+<b>2014</b>—Subsec. (k). Pub. L. 113–79 amended subsec. (k) generally. Prior to amendment, text read as follows:"Using authorities available to the Secretary, the Secretary may operate a pilot program for mitigation banking of wetlands to assist persons to increase the efficiency of agricultural operations while protecting wetland functions and values. Subsection (f)(2)(C) of this section shall not apply to this subsection."
 
 <b>2008</b>—Subsec. (h)(2), (3). Pub. L. 110–246, §2003, added par. (2), redesignated former par. (2) as (3), and inserted "be" before "actively".
 

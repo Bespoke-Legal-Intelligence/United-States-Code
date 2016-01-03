@@ -4,7 +4,7 @@
 
 (1) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall jointly develop and implement a program for the long-term collection, assimilation, and analysis of scientific data designed to measure the environmental quality of the Nation's coastal ecosystems pursuant to this section. Monitoring conducted pursuant to this section shall be coordinated with relevant monitoring programs conducted by the Administrator, Under Secretary, and other Federal, State, and local authorities.
 
-(2) Primary leadership for the monitoring program activities conducted by the Environmental Protection Agency pursuant to this section shall be located at the Environmental Research Laboratory in Narragansett, Rhode Island.
+(2) Primary leadership for the monitoring program activities conducted by the Environmental Protection Agency pursuant to this section shallbe located at the Environmental Research Laboratory in Narragansett, Rhode Island.
 
 #### (b) Program elements
 
@@ -104,7 +104,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(C) identify the water quality and biological parameters of the monitoring program and their relationship to these goals and objectives;
 
-&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to beused to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
+&emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
 
 &emsp;&emsp;(E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
 

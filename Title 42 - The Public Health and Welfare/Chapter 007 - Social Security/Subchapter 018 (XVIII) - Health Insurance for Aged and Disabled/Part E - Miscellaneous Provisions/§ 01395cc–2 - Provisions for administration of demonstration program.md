@@ -162,7 +162,7 @@
 
 #### (d) Limitations on judicial review
 
-The following actions and determinations with respect to the demonstration program shall notbe subject to review by a judicial or administrative tribunal:
+The following actions and determinations with respect to the demonstration program shall not be subject to review by a judicial or administrative tribunal:
 
 &emsp;(1) Limiting the implementation of the program under subsection (a)(2) of this section.
 

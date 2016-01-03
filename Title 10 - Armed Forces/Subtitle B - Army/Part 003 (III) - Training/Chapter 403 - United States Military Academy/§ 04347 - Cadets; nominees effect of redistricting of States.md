@@ -1,6 +1,6 @@
 ### §4347. Cadets; nominees: effect of redistricting of States
 
-If as a result of redistricting a State the domicile of a cadet, or a nominee, nominated by aRepresentative falls within a congressional district other than that from which he was nominated, he is charged to the district in which his domicile so falls. For this purpose, the number of cadets otherwise authorized for that district is increased to include him. However, the number as so increased is reduced by one if he fails to become a cadet or when he is finally separated from the Academy.
+If as a result of redistricting a State the domicile of a cadet, or a nominee, nominated by a Representative falls within a congressional district other than that from which he was nominated, he is charged to the district in which his domicile so falls. For this purpose, the number of cadets otherwise authorized for that district is increased to include him. However, the number as so increased is reduced by one if he fails to become a cadet or when he is finally separated from the Academy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 243.)
 

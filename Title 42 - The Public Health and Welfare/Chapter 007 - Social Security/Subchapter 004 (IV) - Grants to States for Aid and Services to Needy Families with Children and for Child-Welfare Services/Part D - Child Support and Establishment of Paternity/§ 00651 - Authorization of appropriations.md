@@ -30,7 +30,7 @@ Pub. L. 97–35, title XXIII, §2336, Aug. 13, 1981, 95 Stat. 864, provided that
 
 #### Effective Date
 
-Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245, provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
+Pub. L. 93–647, §101(f), Jan. 4, 1975, 88 Stat. 2361, as amended by Pub. L. 94–46, §2, June 30, 1975, 89 Stat. 245,provided that: "The amendments made by this section \[enacting this part and section 6305 of Title 26, Internal Revenue Code, amending sections 602, 603, 604, 606, and 1306 of this title, repealing section 610 of this title, and enacting provisions set out as notes under this section and section 602 of this title\] shall become effective on August 1, 1975, except that section 459 of the Social Security Act \[42 U.S.C. 659\], as added by subsection (a) of this section shall become effective on January 1, 1975, and subsection (e) of this section \[enacting provisions set out as a note under this section\] shall become effective upon the date of the enactment of this Act \[Jan. 4, 1975\]."
 
 #### Short Title
 

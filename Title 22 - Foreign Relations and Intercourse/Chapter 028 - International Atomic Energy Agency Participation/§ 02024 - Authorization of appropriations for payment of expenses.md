@@ -14,7 +14,7 @@ The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1
 
 #### Codification
 
-"Chapter 51 and subchapter III of chapter 53 of title 5", "subchapter I of chapter 57 of title 5", "section 5731 of title 5", and "section 3109 of title 5" substituted in text for "the Classification Act of 1949, as amended", "the Travel Expense Act of 1949, as amended", "section 10 of the Act of March 3, 1933, as amended \[5 U.S.C. 73b\]", and "section 15 of the Act of August 2, 1946 (5 U.S.C. 55a)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Chapter 51 and subchapter III of chapter 53 of title 5", "subchapter I of chapter 57 of title 5", "section 5731 of title 5", and "section 3109 of title 5" substituted in text for "the Classification Act of 1949, as amended","the Travel Expense Act of 1949, as amended", "section 10 of the Act of March 3, 1933, as amended \[5 U.S.C. 73b\]", and "section 15 of the Act of August 2, 1946 (5 U.S.C. 55a)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 "Section 501 of title 44" substituted in text for "section II of the Act of March 1, 1919 (44 U.S.C. 111)" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 

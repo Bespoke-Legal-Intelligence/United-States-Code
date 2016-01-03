@@ -10,7 +10,7 @@ The Director shall justify in writing all changes in policies regarding fees for
 
 #### (c) Three-Year programmatic planning document
 
-Concurrent with the submission to Congress of the President's annual budget request in the first year after August 9, 2007, the Director shall submit to Congress a 3-year programmatic planning document for the Institute, including programs under the Scientific and Technical Research and Services, Industrial Technology Services, and Construction of Research Facilities functions.
+Concurrent with the submission to Congress of the President's annual budget request in thefirst year after August 9, 2007, the Director shall submit to Congress a 3-year programmatic planning document for the Institute, including programs under the Scientific and Technical Research and Services, Industrial Technology Services, and Construction of Research Facilities functions.
 
 #### (d) Annual update on three-year programmatic planning document
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) in carrying out the State recreational boating safety program, there has been a failure to comply substantially with the standards prescribed by regulations.
 
-(d) The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry out this section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
+(d) The Secretary shall provide for the accounting, budgeting, and other fiscal procedures that are necessary and reasonable to carry outthis section properly and efficiently. Records related to amounts allocated under this chapter shall be made available to the Secretary and the Comptroller General to conduct audits.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1011(f), July 18, 1984, 98 Stat. 1013; Pub. L. 101–595, title III, §312(d), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 104–324, title VII, §746(a)(3), (4), Oct. 19, 1996, 110 Stat. 3943; Pub. L. 109–304, §16(c)(6), Oct. 6, 2006, 120 Stat. 1706.)
 

@@ -64,7 +64,7 @@ Exception.—Clause (i) does not apply to a loan for a specific project that is 
 
 &emsp;(iii) section 1932(d) of this title.
 
-(C) For purposes of this paragraph, the term "prime farmland" means prime farmlands and unique farmland as those terms are defined in sections 657.5(a) and (b) of title 7, Code of Federal Regulations (1980).
+(C) For purposes of this paragraph, the term "prime farmland" means prime farmlands andunique farmland as those terms are defined in sections 657.5(a) and (b) of title 7, Code of Federal Regulations (1980).
 
 #### (b) Payment of charges; prepayment of taxes and insurance
 
@@ -130,11 +130,11 @@ Subsec. (a)(5). Pub. L. 103–328, §113(a)(2), substituted "(5)(A) Except as pr
 
 <b>1990</b>—Subsec. (a)(3)(A). Pub. L. 101–624, §2383(1), substituted "guaranteed" for "guranteed".
 
-Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Except as provided in paragraph (6), the interest rates on loans (other than guaranteed loans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum."
+Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Except as provided in paragraph (6), the interest rates on loans (other than guaranteedloans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum."
 
 Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to securetwo or more loans made, insured, or guaranteed under this subchapter.
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
 
 Subsec. (e). Pub. L. 100–233, §604, added subsec. (e).
 

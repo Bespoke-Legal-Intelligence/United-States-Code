@@ -34,7 +34,7 @@ Pub. L. 95–331, §1, Aug. 2, 1978, 92 Stat. 414, provided: "That this Act \[am
 
 #### Short Title
 
-Pub. L. 87–293, title I, §1, Sept. 22, 1961, 75 Stat. 612, provided that: "This Act \[enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal RevenueCode, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26\] may be cited as the 'Peace Corps Act'."
+Pub. L. 87–293, title I, §1, Sept. 22, 1961, 75 Stat. 612, provided that: "This Act \[enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26\] may be cited as the 'Peace Corps Act'."
 
 #### Designation of Paul D. Coverdell Peace Corps Headquarters
 
@@ -84,7 +84,7 @@ Peace Corps
 
 1–107. The reports required by Section 11 of the Act, as amended (\[former\] 22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
-1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to the President for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
+1–108. Subject to applicable provisions of law, all funds appropriated or otherwise made available to thePresident for carrying out the provisions of the Act \[this chapter\] shall be deemed to be allocated without any further action of the President to the Director or to such subordinate officer as the Director may designate. The Director or such officer may allocate or transfer, as appropriate, any of such funds to any United States Government agency or part thereof for obligation or expenditures thereby consistent with applicable law.
 
 1–109. Nothing in this Order shall be deemed to impair or limit the powers or functions vested in the Secretary of State by the Act \[this chapter\].
 

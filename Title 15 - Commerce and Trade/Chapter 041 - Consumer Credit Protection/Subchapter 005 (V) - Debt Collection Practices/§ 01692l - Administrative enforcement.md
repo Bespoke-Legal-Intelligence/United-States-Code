@@ -20,7 +20,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 &emsp;(3) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect toany air carrier or any foreign air carrier subject to that part;
+&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part;
 
 &emsp;(5) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act; and
 
@@ -30,7 +30,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 #### (c) Agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d) of this section.
+For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
 
 #### (d) Rules and regulations
 
@@ -68,11 +68,11 @@ Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck o
 
 &emsp;"(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies offoreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
 
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of theFederal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
+Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
 Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter" for "Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter". See Codification note above.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1992 Amendment
 

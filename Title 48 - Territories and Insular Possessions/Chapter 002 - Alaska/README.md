@@ -580,11 +580,11 @@ Sec. 35. \[Airports.\] (a) The Administrator of the Federal Aviation Agency is a
 
 "
 
-Sec. 36. \[Selective Service.\] Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)), is further amended by striking out the word 'Alaska,'.
+Sec. 36. \[Selective Service.\] Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)) \[now 50 U.S.C. 3814(b)\], is further amended by striking out the word 'Alaska,'.
 
 "
 
-Sec. 37. \[Real property transactions.\] Section 43(c) of the Act of August 10, 1956 (50 U.S.C. app., supp. V, sec. 2285(c)), is amended by striking out the word 'Alaska,'.
+Sec. 37. \[Real property transactions.\] Section 43(c) of the Act of August 10, 1956 (50 U.S.C. app., supp. V, sec. 2285(c)) \[now 6 U.S.C. 765(c)\], is amended by striking out the word 'Alaska,'.
 
 "
 

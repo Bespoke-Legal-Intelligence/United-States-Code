@@ -10,9 +10,11 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
-&emsp;(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial motor vehicles, passenger motor vehicles, motorcycles, bicycles, and pedestrians (including individuals with disabilities); and
+&emsp;(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial motor vehicles, passenger motor vehicles, motorcycles, bicycles, and pedestrians (including individuals with disabilities);
 
-&emsp;(5) enhancement of national defense mobility and improvement of the ability of the United States to respond to security-related or other manmade emergencies and natural disasters.
+&emsp;(5) enhancement of national defense mobility and improvement of the ability of the United States to respond to security-related or other manmade emergencies and natural disasters; and
+
+&emsp;(6) enhancement of the national freight system and support to national freight policy goals.
 
 (b)
 
@@ -32,11 +34,23 @@ Purposes.—The Secretary shall implement activities under the intelligent trans
 
 &emsp;(7) to develop a workforce capable of developing, operating, and maintaining intelligent transportation systems;
 
-&emsp;(8) to provide continuing support for operations and maintenance of intelligent transportation systems; and
+&emsp;(8) to provide continuing support for operations and maintenance of intelligent transportation systems;
 
-&emsp;(9) to ensure a systems approach that includes cooperation among vehicles, infrastructure, and users.
+&emsp;(9) to ensure a systems approach that includes cooperation among vehicles, infrastructure, and users; and
 
-(Added Pub. L. 112–141, div. E, title III, §53002(a), July 6, 2012, 126 Stat. 898.)
+&emsp;(10) to assist in the development of cybersecurity research in cooperation with relevant modal administrations of the Department of Transportation and other Federal agencies to help prevent hacking, spoofing, and disruption of connected and automated transportation vehicles.
+
+(Added Pub. L. 112–141, div. E, title III, §53002(a), July 6, 2012, 126 Stat. 898; amended Pub. L. 114–94, div. A, title VI, §§6005, 6006, Dec. 4, 2015, 129 Stat. 1567.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(6). Pub. L. 114–94, §6005, added par. (6).
+
+Subsec. (b)(10). Pub. L. 114–94, §6006, added par. (10).
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

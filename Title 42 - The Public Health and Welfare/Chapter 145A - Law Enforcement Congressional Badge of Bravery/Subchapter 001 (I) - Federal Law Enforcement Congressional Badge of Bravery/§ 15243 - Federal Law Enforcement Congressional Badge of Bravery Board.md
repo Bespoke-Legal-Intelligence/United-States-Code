@@ -58,7 +58,7 @@ The Federal Board shall do the following:
 
 #### (4) Terms and vacancies
 
-&emsp;Each Federal Board member shall be appointed for 2 years and may be reappointed. A vacancy in the Federal Board shall not affect the powers of the Federal Board and shall be filled in the same manner as the original appointment.
+&emsp;Each Federal Board member shall be appointed for 2 years and may be reappointed. Avacancy in the Federal Board shall not affect the powers of the Federal Board and shall be filled in the same manner as the original appointment.
 
 #### (d) Operations
 
@@ -102,7 +102,7 @@ The Federal Board shall do the following:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), each Federal Board member shall be compensatedat a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such Federal Board member is engaged in the performance of the duties of the Federal Board.
+&emsp;Except as provided in paragraph (2), each Federal Board member shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such Federal Board member is engaged in the performance of the duties of the Federal Board.
 
 #### (2) Prohibition of compensation for government employees
 

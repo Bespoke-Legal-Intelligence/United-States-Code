@@ -34,7 +34,7 @@
 
 (e) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
 
-(f) This section does not alter in any respect the law pertaining to the establishment of amaritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
+(f) This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 107–295, title II, §205(a)(1), Nov. 25, 2002, 116 Stat. 2095; Pub. L. 111–281, title IX, §913(a)(1), Oct. 15, 2010, 124 Stat. 3017.)
 

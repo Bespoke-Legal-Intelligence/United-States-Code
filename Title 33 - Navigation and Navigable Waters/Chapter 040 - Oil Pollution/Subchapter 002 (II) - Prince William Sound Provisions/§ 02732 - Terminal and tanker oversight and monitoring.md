@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated by the Governor of the State of Alaska, and shall represent the State government.
 
-&emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designatedby the President, and shall represent the Federal Government.
+&emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designated by the President, and shall represent the Federal Government.
 
 #### (3) Responsibilities
 
@@ -212,7 +212,7 @@
 
 #### (1) Technical Oil Spill Committee
 
-&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as "Oil Spill Committee") to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to,containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
+&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as "Oil Spill Committee") to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
 
 #### (2) Duties
 
@@ -276,7 +276,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (3) Cook Inlet Program
 
-&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankersoperating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not less than $1,400,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities, offshore facilities, or crude oil tankers operating in Cook Inlet shall provide, on an annual basis, an aggregate amount of not less than $1,400,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation of the environmental oversight and monitoring program in Cook Inlet;
 
@@ -318,7 +318,7 @@ As used in this section, the term—
 
 #### (1) Regulatory authority
 
-&emsp;Nothing in this section shall be construed as modifying, repealing, superseding, or preempting any municipal, State or Federal law or regulation, or in any way affecting litigation arising from oil spills or the rights and responsibilities of the United States or the State of Alaska, or municipalities thereof, to preserve and protect the environment through regulation of land, air, and water uses, of safety, and of related development. The monitoring provided for by this section shall be designed to help assure compliance with applicable laws and regulations and shall only extend to activities—
+&emsp;Nothing in this section shall be construed as modifying, repealing, superseding, or preempting any municipal, State or Federal law or regulation, or in any way affecting litigation arising from oil spills or the rights and responsibilities of the United States or the State ofAlaska, or municipalities thereof, to preserve and protect the environment through regulation of land, air, and water uses, of safety, and of related development. The monitoring provided for by this section shall be designed to help assure compliance with applicable laws and regulations and shall only extend to activities—
 
 &emsp;&emsp;(A) that would affect or have the potential to affect the vicinity of the terminal facilities and the area of crude oil tanker operations included in the Programs; and
 

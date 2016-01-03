@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the rent for the unit is not greater than the existing fair market rent for comparable units in the area, as established by the Secretary under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under this paragraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
+&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under this paragraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effectivemanner that will improve the provision of affordable housing for such families.
 
 #### (B) Eligible families
 
@@ -116,11 +116,17 @@ Amendment by Pub. L. 105–276 made on, and applicable beginning upon, Oct. 21, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that datethat remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+
+#### HOME Investment Partnerships Program
+
+Pub. L. 114–113, div. L, title II, Dec. 18, 2015, 129 Stat. 2878, provided in part: "That with respect to funds made available under this heading \[
+
+home investment partnerships program, see 129 Stat. 2878\] pursuant to such Act \[probably means title II of Pub. L. 101–625\] and funds provided in prior and subsequent appropriations acts that were or are used by community land trusts for the development of affordable homeownership housing pursuant to section 215(b) of such Act \[42 U.S.C. 12745(b)\], such community land trusts, notwithstanding section 215(b)(3)(A) of such Act \[42 U.S.C. 12745(b)(3)(A)\], may hold and exercise purchase options, rights of first refusal or other preemptive rights to purchase the housing to preserve affordability, including but not limited to the right to purchase the housing in lieu of foreclosure".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

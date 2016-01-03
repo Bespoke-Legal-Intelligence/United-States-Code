@@ -234,7 +234,7 @@ Inapplicability of Eligibility Limitation.—The limitation in the second senten
 
 &emsp;"(2) Leave accrued by a member of the Armed Forces in the Retired Reserve while serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 675 \[now 12307\] of title 10, United States Code.
 
-&emsp;"(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to anorder to active duty authorized by section 688 of title 10, United States Code.
+&emsp;"(3) Leave accrued by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, a member of the Retired Reserve, or a member of the Fleet Reserve or Fleet Marine Corps Reserve while such retired member or member, as the case may be, is serving on active duty in connection with the Persian Gulf conflict pursuant to an order to active duty authorized by section 688 of title 10, United States Code.
 
 &emsp;"(4) Leave accrued by a member referred to in paragraph (1), (2), or (3) while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to such active duty issued with the consent of the member during a period in which members of the Armed Forces are being ordered to active duty in connection with such operation pursuant to a provision of title 10, United States Code, referred to in such paragraph.
 

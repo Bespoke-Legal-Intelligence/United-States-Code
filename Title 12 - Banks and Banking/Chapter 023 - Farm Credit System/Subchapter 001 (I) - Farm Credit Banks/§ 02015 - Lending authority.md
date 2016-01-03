@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(iii) has limited access to national or regional capital markets; and
 
-&emsp;&emsp;&emsp;(iv) does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II of this chapter.
+&emsp;&emsp;&emsp;(iv) does not use such services to expand its financing activities to persons and for purposes other than those authorized under subchapter II.
 
 #### (C) Fees
 

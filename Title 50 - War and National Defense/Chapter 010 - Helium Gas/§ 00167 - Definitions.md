@@ -100,7 +100,7 @@ Pub. L. 113–40, §9, Oct. 2, 2013, 127 Stat. 544, provided that: "The Secretar
 
 #### Separability
 
-Act Mar. 3, 1925, ch. 426, §20, formerly §17, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923, renumbered §20, Pub. L. 113–40, §6(2), Oct. 2, 2013, 127 Stat. 540, provided that: "If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby."
+Act Mar. 3, 1925, ch. 426, §20, formerly §17, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923, renumbered §20, Pub. L. 113–40, §6(2), Oct. 2, 2013, 127 Stat. 540,provided that: "If any provision of this Act \[enacting this section, sections 167a to 167n of this title, and provisions set out as a note above\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby."
 
 #### Existing Agreements
 

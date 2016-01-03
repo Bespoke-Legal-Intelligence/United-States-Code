@@ -52,7 +52,7 @@ Funds made available under this section and section 3162(a)(1) of this title sha
 
 #### (e) Consultation with Governors and local boards
 
-In making grants and entering into contracts under this section, the Secretary shall consultwith the Governors and local boards of the States in which the eligible entities will carry out the activities described in subsection (d).
+In making grants and entering into contracts under this section, the Secretary shall consult with the Governors and local boards of the States in which the eligible entities will carry out the activities described in subsection (d).
 
 #### (f) Regulations
 
@@ -98,5 +98,5 @@ In this section:
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

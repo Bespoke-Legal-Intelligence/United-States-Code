@@ -146,7 +146,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -414,7 +414,7 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) minimizes burdens imposed on Federal award recipients and subaward recipients;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) allows Federal award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) allows Federal award recipients and subaward recipients to allocate reasonable costsfor the collection and reporting of subaward data as indirect costs; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to State and local governments.
 
@@ -566,7 +566,7 @@ Notification.—The Director of the Office of Management and Budget shall notify
 
 &emsp;"(3)
 
-Website.—Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) are applied to the data made available on the website established under section 2.
+Website.—Not later than 3 years after the date on which the guidance under paragraph (1) is issued, the Director and the Secretary shall ensure that the data standards established under subsection (a) areapplied to the data made available on the website established under section 2.
 
 "(d)
 
@@ -710,7 +710,7 @@ Data availability.—The Secretary shall enter into memoranda of understanding w
 
 &emsp;"(3)
 
-Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
 
 #### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
 
@@ -820,7 +820,7 @@ In General.—Except as provided under subsection (b), not later than 18 months 
 
 &emsp;"(6) ensures recipients of Federal financial assistance provide timely, complete, and high quality information in response to Federal reporting requirements; and
 
-&emsp;"(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency's annual planning responsibilities under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
+&emsp;"(7) in cooperation with recipients of Federal financial assistance, establishes specific annual goals and objectives to further the purposes of this Act and measure annual performance in achieving those goals and objectives, which may be done as part of the agency's annual planning responsibilities under theGovernment Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\].
 
 "(b)
 
@@ -922,7 +922,7 @@ Pub. L. 103–355, title II, §2455, Oct. 13, 1994, 108 Stat. 3327, as amended b
 
 "(a)
 
-Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+Requirement for Regulations.—Regulations shall be issued providing that provisions for the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549 \[set out below\], shall have government-wide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to theextent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 "(b)
 
@@ -932,7 +932,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) ofthe Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
+&emsp;"(1) The term 'procurement activities' means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation. Such term includes subcontracts at any tier, other than subcontracts for commercially available off-the-shelf items (as defined in section 35(c) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 431(c)) \[now 41 U.S.C. 104\]), except that in the case of a contract for commercial items, such term includes only first-tier subcontracts.
 
 &emsp;"(2) The term 'nonprocurement activities' means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 
@@ -990,7 +990,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 Sec. 2. <i>Governmentwide Effect.</i>
 
-(a) To the extent permitted by law and upon resolution of differences and promulgation of final regulations pursuant to section 3 of this order, the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549, shall have governmentwide effect. No agency shallallow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
+(a) To the extent permitted by law and upon resolution of differences and promulgation of final regulations pursuant to section 3 of this order, the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549, shall have governmentwide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
 (b) An agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency to the extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
 

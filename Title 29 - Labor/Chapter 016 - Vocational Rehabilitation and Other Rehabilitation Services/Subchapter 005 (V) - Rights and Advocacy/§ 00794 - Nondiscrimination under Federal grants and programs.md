@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rules and regulations
 
-No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
+No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title, shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of anyproposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
 
 #### (b) "Program or activity" defined
 
@@ -36,7 +36,7 @@ Small providers are not required by subsection (a) of this section to make signi
 
 The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, §1076(u)(2), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 113–128, title IV, §456(c), July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, §1076(u)(2), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 113–128, title IV, §456(c), July 22, 2014, 128 Stat. 1675; Pub. L. 114–95, title IX, §9215(mmm)(3), Dec. 10, 2015, 129 Stat. 2188.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ The amendments to this section made by the Rehabilitation, Comprehensive Service
 The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(B). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
 <b>2014</b>—Subsec. (b)(2)(B). Pub. L. 113–128 substituted "career and technical education" for "vocational education".
 
@@ -72,6 +74,10 @@ Subsec. (c). Pub. L. 100–259, §4(2), added subsec. (c).
 
 <b>1978</b>—Pub. L. 95–602 substituted "section 706(7) of this title" for "section 706(6) of this title" and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
@@ -82,7 +88,7 @@ Amendment by Pub. L. 100–259 not to be construed to extend application of this
 
 #### Abortion Neutrality
 
-Amendment by Pub. L. 100–259 not to be construed to force or require any individual or hospital or any otherinstitution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
+Amendment by Pub. L. 100–259 not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
 
 #### Construction of Prohibition Against Discrimination Under Federal Grants
 

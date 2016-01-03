@@ -14,7 +14,7 @@ Declassification.—Trial counsel shall work with the original classification au
 
 (d)
 
-Construction of Provisions.—The judicial construction of the Classified Information Procedures Act (18 U.S.C. App.) shall be authoritative in the interpretation of this subchapter, except to the extent that such construction isinconsistent with the specific requirements of this chapter.
+Construction of Provisions.—The judicial construction of the Classified Information Procedures Act (18 U.S.C. App.) shall be authoritative in the interpretation of this subchapter, except to the extent that such construction is inconsistent with the specific requirements of this chapter.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2590.)
 

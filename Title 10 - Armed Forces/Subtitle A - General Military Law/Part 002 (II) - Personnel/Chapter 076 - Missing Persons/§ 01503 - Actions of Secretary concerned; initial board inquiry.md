@@ -2,7 +2,7 @@
 
 (a)
 
-Determination by Secretary.—Upon receiving a recommendation under section 1502(a)of this title that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
+Determination by Secretary.—Upon receiving a recommendation under section 1502(a) of this title that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
 
 (b)
 
@@ -76,7 +76,7 @@ Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an
 
 (g)
 
-Access to Proceedings.—The proceedings of a board during an inquiry under this sectionshall be closed to the public (including, with respect to the person covered by the inquiry, the primary next of kin, other members of the immediate family, and any other previously designated person of the person).
+Access to Proceedings.—The proceedings of a board during an inquiry under this section shall be closed to the public (including, with respect to the person covered by the inquiry, the primary next of kin, other members of the immediate family, and any other previously designated person of the person).
 
 (h)
 
@@ -140,7 +140,7 @@ Subsec. (f)(4). Pub. L. 105–85, §599(d)(2), inserted at end "The primary next
 
 Subsec. (c)(1). Pub. L. 104–201, §578(a)(2)(A), substituted "one military officer" for "one individual described in paragraph (2)".
 
-Subsec. (c)(2) to (4). Pub. L. 104–201, §578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "An individual referred to in paragraph (1) is the following:
+Subsec. (c)(2) to (4). Pub. L. 104–201, §578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: "An individual referred to in paragraph (1) is the following:
 
 &emsp;"(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
 

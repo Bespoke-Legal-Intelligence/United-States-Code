@@ -1,6 +1,6 @@
 ### §§1661 to 1661f. Repealed. Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059
 
-Section 1661, Pub. L. 97–300, title III, §311, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1527; amended Pub. L. 102–367, title I, §115(b), title VII, §702(a)(12), Sept. 7, 1992, 106 Stat. 1034, 1112; Pub. L. 102–484, div. D, title XLIV, §4467(a), Oct. 23, 1992, 106 Stat. 2750, related to State plans.
+Section 1661, Pub. L. 97–300, title III, §311, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat.1527; amended Pub. L. 102–367, title I, §115(b), title VII, §702(a)(12), Sept. 7, 1992, 106 Stat. 1034, 1112; Pub. L. 102–484, div. D, title XLIV, §4467(a), Oct. 23, 1992, 106 Stat. 2750, related to State plans.
 
 Section 1661a, Pub. L. 97–300, title III, §312, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1529, related to substate grantees.
 

@@ -18,7 +18,7 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 
 &emsp;(B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
-&emsp;(C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+&emsp;(C) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
 &emsp;(D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
 
@@ -28,7 +28,7 @@ Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Struct
 
 (d)
 
-CBO Evaluation.—Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title.
+CBO Evaluation.—Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees areport assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title.
 
 (e)
 
@@ -48,9 +48,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term "combatant and support vessel" means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508.)
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(C). Pub. L. 114–92 inserted "by ship class in both graphical and tabular form" after "The estimated levels of annual funding".
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–291, §1071(c)(2), substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 

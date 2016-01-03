@@ -52,7 +52,7 @@ A project assisted under this section may provide services such as—
 
 &emsp;&emsp;(B) students who are in foster care or are aging out of the foster care system; and
 
-&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) ofthis subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(6) programs and activities as described in subsection (b) or paragraphs (1) through (4) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Special rule
 
@@ -112,11 +112,11 @@ In approving applications for projects under this section for any fiscal year, t
 
 &emsp;&emsp;(B) maintaining the loan burden of each such student at a manageable level.
 
-(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 106–554, §1(a)(1) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–48; Pub. L. 110–315, title IV, §403(d), Aug. 14, 2008, 122 Stat. 3201; Pub. L. 111–152, title II, §2101(b)(2), Mar. 30, 2010, 124 Stat. 1073.)
+(Pub. L. 89–329, title IV, §402D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 488; amended Pub. L. 103–208, §2(b)(11), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(d), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 106–554, §1(a)(1) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–48; Pub. L. 110–315, title IV, §403(d), Aug. 14, 2008, 122 Stat. 3201; Pub. L.111–152, title II, §2101(b)(2), Mar. 30, 2010, 124 Stat. 1073.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted "exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of thistitle, for" for "exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for".
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted "exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of this title, for" for "exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for".
 
 <b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–315, §403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: "to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities."
 

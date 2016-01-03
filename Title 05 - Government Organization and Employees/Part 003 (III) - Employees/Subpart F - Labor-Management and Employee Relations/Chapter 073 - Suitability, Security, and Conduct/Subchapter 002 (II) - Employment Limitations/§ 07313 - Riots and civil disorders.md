@@ -10,7 +10,7 @@
 
 &emsp;(4) any offense determined by the head of the employing agency to have been committed in furtherance of, or while participating in, a riot or civil disorder;
 
-> shall, if the offense for which he is convicted is a felony, be ineligible to accept or hold any position in the Government of the United States or in the government of the District of Columbia for the five years immediately following the date upon which his conviction becomes final. Any such individual holding a position in theGovernment of the United States or the government of the District of Columbia on the date his conviction becomes final shall be removed from such position.
+> shall, if the offense for which he is convicted is a felony, be ineligible to accept or hold any position in the Government of the United States or in the government of the District of Columbia for the five years immediately following the date upon which his conviction becomes final. Any such individual holding a position in the Government of the United States or the government of the District of Columbia on the date his conviction becomes final shall be removed from such position.
 
 (b) For the purposes of this section, "felony" means any offense for which imprisonment is authorized for a term exceeding one year.
 

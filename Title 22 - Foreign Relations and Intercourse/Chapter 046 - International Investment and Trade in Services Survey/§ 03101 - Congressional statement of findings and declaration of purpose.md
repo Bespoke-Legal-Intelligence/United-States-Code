@@ -56,7 +56,7 @@ Section 1. All the functions vested in the President by the International Invest
 
 Sec. 2. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of the Treasury, with respect to portfolio investment, shall perform the functions set forth in sections 4(a)(1), (2), (5) and 4(c) of the Act \[22 U.S.C. 3103(a)(1), (2), (5) and (c)\].
 
-Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services,shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
+Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services, shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
 
 Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act \[22 U.S.C. 3103(a)(3)\].
 

@@ -38,7 +38,7 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 #### Amendments
 
-<b>2004</b>—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: "the term 'rates of pay under the General Schedule', 'rates of pay for the General Schedule', or 'scheduled rates of basic pay' means—
+<b>2004</b>—Par. (8). Pub. L. 108–411 added par. (8) and struck out former par. (8) which read as follows: "the term'rates of pay under the General Schedule', 'rates of pay for the General Schedule', or 'scheduled rates of basic pay' means—
 
 &emsp;"(A) the rates of basic pay set forth in the General Schedule; and
 

@@ -32,7 +32,7 @@
 
 (f)(1) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire during a quarter or semester, such period shall be extended to the end of such quarter or semester.
 
-(2) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution not regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire after a major portion of the course is completed, such period shall be extended to the end of the course or for 12 weeks, whichever is the lesser period of extension.
+(2) If an individual eligible for educational assistance under this chapter is enrolled under this chapter in an educational institution not regularly operated on the quarter or semester system and the period of such individual's entitlement under this chapter would, under section 3013, expire after a major portion of the course is completed, such period shall be extended tothe end of the course or for 12 weeks, whichever is the lesser period of extension.
 
 (g) In the case of an individual described in section 3011(f)(3) of this title, the period during which that individual may use the individual's entitlement to educational assistance allowance expires on the last day of the 10-year period beginning on the date of the enactment of the Veterans Millennium Health Care and Benefits Act if that date is later than the date that would otherwise be applicable to that individual under this section.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 102–568 effective Oct. 28, 1986, see section 302(b) of Pu
 
 Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided that:
 
-"(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+"(1) In the case of an individual described in paragraph (2), with respect to the time limitation undersection 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
 
 &emsp;"(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
 
@@ -122,7 +122,7 @@ Pub. L. 106–419, title I, §102(e), Nov. 1, 2000, 114 Stat. 1825, provided tha
 
 Pub. L. 106–419, title I, §103(e), Nov. 1, 2000, 114 Stat. 1826, provided that:
 
-"(1) In the case of an individual described in paragraph (2), with respect to the time limitation undersection 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
+"(1) In the case of an individual described in paragraph (2), with respect to the time limitation under section 3031 of title 38, United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—
 
 &emsp;"(A) the date of the enactment of this Act \[Nov. 1, 2000\]; or
 

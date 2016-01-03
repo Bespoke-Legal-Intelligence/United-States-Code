@@ -10,7 +10,7 @@ Pub. L. 108–186, title I, §101, Dec. 16, 2003, 117 Stat. 2685, provided that:
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that: "This title \[amending sections 5307,12705c, and 12705d of this title\] may be cited as the 'Housing Affordability Barrier Removal Act of 2000'."
+Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that: "This title \[amending sections 5307, 12705c, and 12705d of this title\] may be cited as the 'Housing Affordability Barrier Removal Act of 2000'."
 
 #### Short Title
 
@@ -120,7 +120,7 @@ Powers of members and agents.—Any member or agent of the Commission may, if au
 
 &emsp;"(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agencyof the United States information necessary to enable it to carry out this Act. Upon request of the Chairpersons of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;"(4)
 

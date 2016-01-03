@@ -8,7 +8,7 @@ The term "quality improvement organization" means an entity which—
 
 &emsp;(3) has at least one individual who is a representative of consumers on its governing body.
 
-(Aug. 14, 1935, ch. 531, title XI, §1152, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.382; amended Pub. L. 99–509, title IX, §9353(b)(1), Oct. 21, 1986, 100 Stat. 2046; Pub. L. 112–40, title II, §261(a)(1), (2)(A), (C), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XI, §1152, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 99–509, title IX, §9353(b)(1), Oct. 21, 1986, 100 Stat. 2046; Pub. L. 112–40, title II, §261(a)(1), (2)(A), (C), Oct. 21, 2011, 125 Stat. 423.)
 
 #### Prior Provisions
 

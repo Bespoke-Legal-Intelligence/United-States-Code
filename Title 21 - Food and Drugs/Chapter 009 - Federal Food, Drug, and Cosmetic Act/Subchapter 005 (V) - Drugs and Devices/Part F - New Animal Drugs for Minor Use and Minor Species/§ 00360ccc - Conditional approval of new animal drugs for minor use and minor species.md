@@ -68,6 +68,14 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;(3) If the Secretary determines before the end of the 1-year period or the 90-day extension, if granted, that a conditional approval should not be renewed, the Secretary shall issue an order refusing to renew the conditional approval, and such conditional approval shall be deemed withdrawn and no longer in effect. The Secretary shall thereafter provide an opportunity for an informal hearing to the applicant on the issue whether the conditional approval shall be reinstated.
 
+&emsp;(4)(A) In the case of an application under subsection (a) with respect to a drug for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], conditional approval of such application shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+
+&emsp;(B) For purposes of this section, with respect to an application described in subparagraph (A), the term "date of approval" shall mean the later of—
+
+&emsp;&emsp;(i) the date an application under subsection (a) is conditionally approved under subsection (b); or
+
+&emsp;&emsp;(ii) the date of issuance of the interim final rule controlling the drug.
+
 #### (e) Withdrawal of conditional approval
 
 (1) The Secretary shall issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that another person has received approval under section 360b of this title for the same drug in the same dosage form for the same intended use and that person is able to assure the availability of sufficient quantities of the drug to meet the needs for which the drug is intended.
@@ -78,7 +86,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 &emsp;(B) on the basis of new information before the Secretary with respect to such drug, evaluated together with the evidence available to the Secretary when the application was conditionally approved, that there is not a reasonable expectation that such drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling thereof.
 
-(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretaryfinds that any of the provisions of section 360b(e)(2) of this title are applicable.
+(3) The Secretary may also, after due notice and opportunity for an informal hearing to the applicant, issue an order withdrawing conditional approval of an application filed pursuant to subsection (a) of this section if the Secretary finds that any of the provisions of section 360b(e)(2) of this title are applicable.
 
 #### (f) Labeling
 
@@ -112,7 +120,15 @@ The decision of the Secretary under subsection (c), (d), or (e) of this section 
 
 In this section and section 360ccc–1 of this title, the term "transgenic animal" means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term "transgenic animal" does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
-(June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892.)
+(June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892; amended Pub. L. 114–89, §2(a)(3)(B), Nov. 25, 2015, 129 Stat. 699.)
+
+#### References in Text
+
+The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
 
 #### Findings
 
@@ -132,7 +148,7 @@ Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that
 
 #### Regulations
 
-Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: "On the date of enactment of this Act \[Aug. 2, 2004\], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360ccc, 360ccc–2\] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) \[21 U.S.C. 360ccc–1\], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) \[no subsection (i) of section 102 has been enacted\] are not in fact appropriated."
+Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: "On the date of enactment ofthis Act \[Aug. 2, 2004\], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360ccc, 360ccc–2\] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) \[21 U.S.C. 360ccc–1\], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) \[no subsection (i) of section 102 has been enacted\] are not in fact appropriated."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this subsection,".</i>
 

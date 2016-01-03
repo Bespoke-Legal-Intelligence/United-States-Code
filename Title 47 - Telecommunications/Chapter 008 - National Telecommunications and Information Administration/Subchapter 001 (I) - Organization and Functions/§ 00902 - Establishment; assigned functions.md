@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(iii) providing advice and assistance to the Secretary of State on international telecommunications policies to strengthen the position and serve the best interests of the United States in support of the Secretary of State's responsibility for the conduct of foreign affairs.
 
-&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist inthe formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
+&emsp;&emsp;(H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist in the formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
 
 &emsp;&emsp;(I) The authority to develop and set forth telecommunications policies pertaining to the Nation's economic and technological advancement and to the regulation of the telecommunications industry.
 

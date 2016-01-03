@@ -47,7 +47,7 @@
 | [<b>15C.</b>](Chapter%20015C%20-%20Great%20Lakes%20Fish%20and%20Wildlife%20Tissue%20Bank/README.md) | <b>Great Lakes Fish and Wildlife Tissue Bank</b> | <b>943</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Tuna%20Conventions/README.md) | <b>Tuna Conventions</b> | <b>951</b> |
 | [<b>16A.</b>](Chapter%20016A%20-%20Atlantic%20Tunas%20Convention/README.md) | <b>Atlantic Tunas Convention</b> | <b>971</b> |
-| [<b>16B.</b>](Chapter%20016B%20-%20Eastern%20Pacific%20Tuna%20Fishing/README.md) | <b>Eastern Pacific Tuna Fishing</b> | <b>972</b> |
+| [<b>16B.</b>](Chapter%20016B%20-%20Eastern%20Pacific%20Tuna%20Fishing/README.md) | <b>Eastern Pacific Tuna Fishing \[Repealed\]</b> | <b>972</b> |
 | [<b>16C.</b>](Chapter%20016C%20-%20South%20Pacific%20Tuna%20Fishing/README.md) | <b>South Pacific Tuna Fishing</b> | <b>973</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Northwest%20Atlantic%20Fisheries/README.md) | <b>Northwest Atlantic Fisheries \[Repealed\]</b> | <b>981</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Watershed%20Protection%20and%20Flood%20Prevention/README.md) | <b>Watershed Protection and Flood Prevention</b> | <b>1001</b> |
@@ -142,6 +142,8 @@
 | [<b>90.</b>](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md) | <b>Secure Rural Schools and Community Self-Determination</b> | <b>7101</b> |
 | [<b>91.</b>](Chapter%20091%20-%20National%20Landscape%20Conservation%20System/README.md) | <b>National Landscape Conservation System</b> | <b>7201</b> |
 | [<b>92.</b>](Chapter%20092%20-%20Forest%20Landscape%20Restoration/README.md) | <b>Forest Landscape Restoration</b> | <b>7301</b> |
+| [<b>93.</b>](Chapter%20093%20-%20Agreement%20on%20Port%20State%20Measures%20to%20Prevent%2C%20Deter%20and%20Eliminate%20Illegal%2C%20Unreported%20and%20Unregulated%20Fishing/README.md) | <b>Agreement on Port State Measures To Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing</b> | <b>7401</b> |
+| [<b>94.</b>](Chapter%20094%20-%20National%20Oceans%20and%20Coastal%20Security/README.md) | <b>National Oceans and Coastal Security</b> | <b>7501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -289,3 +291,5 @@
 - [Chapter 090 - Secure Rural Schools and Community Self-Determination](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md)
 - [Chapter 091 - National Landscape Conservation System](Chapter%20091%20-%20National%20Landscape%20Conservation%20System/README.md)
 - [Chapter 092 - Forest Landscape Restoration](Chapter%20092%20-%20Forest%20Landscape%20Restoration/README.md)
+- [Chapter 093 - Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing](Chapter%20093%20-%20Agreement%20on%20Port%20State%20Measures%20to%20Prevent%2C%20Deter%20and%20Eliminate%20Illegal%2C%20Unreported%20and%20Unregulated%20Fishing/README.md)
+- [Chapter 094 - National Oceans and Coastal Security](Chapter%20094%20-%20National%20Oceans%20and%20Coastal%20Security/README.md)

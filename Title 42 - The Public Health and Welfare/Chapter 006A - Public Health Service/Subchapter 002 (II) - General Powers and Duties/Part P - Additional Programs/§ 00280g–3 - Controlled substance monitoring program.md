@@ -50,7 +50,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;&emsp;&emsp;(vii) criteria for the use and disclosure of information, including a description of the certification process to be applied to requests for information under subsection (f) of this section;
 
-&emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintained in the State controlled substance monitoring program in violation of applicable State law or regulation;
+&emsp;&emsp;&emsp;(viii) penalties for the unauthorized use and disclosure of information maintainedin the State controlled substance monitoring program in violation of applicable State law or regulation;
 
 &emsp;&emsp;&emsp;(ix) information on the relevant State laws, policies, and procedures, if any, regarding purging of information from the database; and
 
@@ -64,7 +64,7 @@ Prior to awarding a grant under this section, and not later than 6 months after 
 
 &emsp;&emsp;&emsp;(iii) a plan to enable the State controlled substance monitoring program to achieve interoperability with at least one other State controlled substance monitoring program; and
 
-&emsp;&emsp;&emsp;(iv) assurances of compliance with all other requirements of this section or astatement describing why such compliance is not feasible or is contrary to the best interests of public health in such State.
+&emsp;&emsp;&emsp;(iv) assurances of compliance with all other requirements of this section or a statement describing why such compliance is not feasible or is contrary to the best interests of public health in such State.
 
 #### (2) State legislation
 
@@ -210,7 +210,7 @@ The Secretary shall specify a uniform electronic format for the reporting, shari
 
 #### (B) Additional categories of exclusion
 
-&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one ormore of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C) of this section.
+&emsp;&emsp;If the Secretary determines under subparagraph (A) that a substantial negative impact has been demonstrated with regard to one or more of the categories of patients described in such subparagraph, the Secretary shall identify additional appropriate categories of exclusion from reporting as authorized under subsection (d)(2)(C) of this section.
 
 #### (2) Progress report
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 &emsp;(4) The term "dispenser" means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
-&emsp;(5) The term "interoperability" with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
+&emsp;(5) The term "interoperability" with respect to a State controlled substance monitoringprogram means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
 
 &emsp;(6) The term "nonidentifiable information" means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
 

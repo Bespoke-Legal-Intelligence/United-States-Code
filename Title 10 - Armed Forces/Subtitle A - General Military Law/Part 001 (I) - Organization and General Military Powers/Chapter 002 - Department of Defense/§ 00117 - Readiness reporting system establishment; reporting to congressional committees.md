@@ -2,7 +2,7 @@
 
 (a)
 
-Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reportingsystem shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
+Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
 &emsp;(1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
 
@@ -36,7 +36,7 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 &emsp;(6) Measure, on a monthly basis, the level of current risk based upon the readiness reporting system relative to the capability of forces to carry out their wartime missions.
 
-&emsp;(7) Measure, on a quarterly basis, the extent to which units of the armed forces remove serviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
+&emsp;(7) Measure, on a quarterly basis, the extent to which units of the armed forces removeserviceable parts, supplies, or equipment from one vehicle, vessel, or aircraft in order to render a different vehicle, vessel, or aircraft operational.
 
 &emsp;(8) Measure, on an annual basis, the capability of operational contract support to support current and anticipated wartime missions of the armed forces.
 

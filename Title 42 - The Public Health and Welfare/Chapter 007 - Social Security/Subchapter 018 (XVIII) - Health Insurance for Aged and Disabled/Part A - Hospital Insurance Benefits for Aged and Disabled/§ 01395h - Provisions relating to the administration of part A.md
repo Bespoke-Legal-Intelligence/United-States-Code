@@ -180,7 +180,7 @@ Pub. L. 103–66, title XIII, §13568(c), Aug. 10, 1993, 107 Stat. 608, provided
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6202(d)(3), Dec. 19, 1989, 103 Stat. 2234, provided that: "The amendments made by this subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VI, §6202(d)(3), Dec. 19, 1989, 103 Stat. 2234, provided that: "The amendments made bythis subsection \[amending this section and section 1395u of this title\] shall apply to agreements and contracts entered into or renewed on or after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 

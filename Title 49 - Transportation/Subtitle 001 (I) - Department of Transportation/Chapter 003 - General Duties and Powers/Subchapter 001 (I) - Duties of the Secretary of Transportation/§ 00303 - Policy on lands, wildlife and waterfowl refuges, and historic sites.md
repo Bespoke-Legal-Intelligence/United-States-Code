@@ -6,7 +6,7 @@
 
 (c)
 
-Approval of Programs and Projects.—Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 <sup>1</sup> of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
+Approval of Programs and Projects.—Subject to subsections (d) and (h), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 <sup>1</sup> of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
 &emsp;(1) there is no prudent and feasible alternative to using that land; and
 
@@ -54,7 +54,111 @@ Parks, recreation areas, and wildlife or waterfowl refuges.—With respect to pa
 
 &emsp;&emsp;(B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–59, title VI, §6009(a)(2), Aug. 10, 2005, 119 Stat. 1875; Pub. L. 113–287, §5(p), Dec. 19, 2014, 128 Stat. 3272.)
+(e)
+
+Satisfaction of Requirements for Certain Historic Sites.—
+
+&emsp;(1)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;(A) align, to the maximum extent practicable, the requirements of this section with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and section 306108 of title 54, including implementing regulations; and
+
+&emsp;&emsp;(B) not later than 90 days after the date of enactment of this subsection, coordinate with the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the "Council") to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
+
+&emsp;(2)
+
+Avoidance alternative analysis.—
+
+&emsp;&emsp;(A)
+
+In general.—If, in an analysis required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Secretary determines that there is no feasible or prudent alternative to avoid use of a historic site, the Secretary may—
+
+&emsp;&emsp;&emsp;(i) include the determination of the Secretary in the analysis required under that Act;
+
+&emsp;&emsp;&emsp;(ii) provide a notice of the determination to—
+
+&emsp;&emsp;&emsp;&emsp;(I) each applicable State historic preservation officer and tribal historic preservation officer;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Council, if the Council is participating in the consultation process under section 306108 of title 54; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the Secretary of the Interior; and
+
+&emsp;&emsp;&emsp;(iii) request from the applicable preservation officer, the Council, and the Secretary of the Interior a concurrence that the determination is sufficient to satisfy subsection (c)(1).
+
+&emsp;&emsp;(B)
+
+Concurrence.—If the applicable preservation officer, the Council, and the Secretary of the Interior each provide a concurrence requested under subparagraph (A)(iii), no further analysis under subsection (c)(1) shall be required.
+
+&emsp;&emsp;(C)
+
+Publication.—A notice of a determination, together with each relevant concurrence to that determination, under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) be included in the record of decision or finding of no significant impact of the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) be posted on an appropriate Federal website by not later than 3 days after the date of receipt by the Secretary of all concurrences requested under subparagraph (A)(iii).
+
+&emsp;(3)
+
+Aligning historical reviews.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Secretary, the applicable preservation officer, the Council, and the Secretary of the Interior concur that no feasible and prudent alternative exists as described in paragraph (2), the Secretary may provide to the applicable preservation officer, the Council, and the Secretary of the Interior notice of the intent of the Secretary to satisfy subsection (c)(2) through the consultation requirements of section 306108 of title 54.
+
+&emsp;&emsp;(B)
+
+Satisfaction of conditions.—To satisfy subsection (c)(2), the applicable preservation officer, the Council, and the Secretary of the Interior shall concur in the treatment of the applicable historic site described in the memorandum of agreement or programmatic agreement developed under section 306108 of title 54.
+
+(f)
+
+References to Past Transportation Environmental Authorities.—
+
+&emsp;(1)
+
+Section 4(f) requirements.—The requirements of this section are commonly referred to as section 4(f) requirements (see section 4(f) of the Department of Transportation Act (Public Law 89–670; 80 Stat. 934) as in effect before the repeal of that section).
+
+&emsp;(2)
+
+Section 106 requirements.—The requirements of section 306108 of title 54 are commonly referred to as section 106 requirements (see section 106 of the National Historic Preservation Act of 1966 (Public Law 89–665; 80 Stat. 917) as in effect before the repeal of that section).
+
+(g)
+
+Bridge Exemption From Consideration.—A common post-1945 concrete or steel bridge or culvert (as described in 77 Fed. Reg. 68790) that is exempt from individual review under section 306108 of title 54 shall be exempt from consideration under this section.
+
+(h)
+
+Rail and Transit.—
+
+&emsp;(1)
+
+In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (c), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+
+&emsp;(2)
+
+Exceptions.—
+
+&emsp;&emsp;(A)
+
+In general.—Paragraph (1) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) stations; or
+
+&emsp;&emsp;&emsp;(ii) bridges or tunnels located on—
+
+&emsp;&emsp;&emsp;&emsp;(I) railroad lines that have been abandoned; or
+
+&emsp;&emsp;&emsp;&emsp;(II) transit lines that are not in use.
+
+&emsp;&emsp;(B)
+
+Clarification with respect to certain bridges and tunnels.—The bridges and tunnels referred to in subparagraph (A)(ii) do not include bridges or tunnels located on railroad or transit lines—
+
+&emsp;&emsp;&emsp;(i) over which service has been discontinued; or
+
+&emsp;&emsp;&emsp;(ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–59, title VI, §6009(a)(2), Aug. 10, 2005, 119 Stat. 1875; Pub. L. 113–287, §5(p), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 114–94, div. A, title I, §§1301(b), 1302(b), 1303(b), title XI, §11502(b), Dec. 4, 2015, 129 Stat. 1376, 1378, 1690.)
 
 Historical and Revision Notes
 
@@ -96,15 +200,33 @@ In subsection (c), before clause (1), the words "After August 23, 1968" after "S
 
 Section 204 of title 23, referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
 
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (e)(1)(B), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
 #### Amendments
 
-<b>2014</b>—Subsec. (d)(2)(A). Pub. L. 113–287 substituted "section 306108 of title 54, United States Code," for "section 106 of the National Historic Preservation Act (16 U.S.C. 470f)" in introductory provisions.
+<b>2015</b>—Subsec. (c). Pub. L. 114–94, §11502(b)(1), substituted "subsections (d) and (h)" for "subsection (d)".
+
+Subsec. (e). Pub. L. 114–94, §1301(b), added subsec. (e).
+
+Subsec. (f). Pub. L. 114–94, §1302(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 114–94, §1303(b), added subsec. (g).
+
+Subsec. (h). Pub. L. 114–94, §11502(b)(2), added subsec. (h).
+
+<b>2014</b>—Subsec. (d)(2)(A). Pub. L. 113–287 substituted "section 306108 of title 54, United States Code" for "section 106 of the National Historic Preservation Act (16 U.S.C. 470f)" in introductory provisions.
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted "Subject to subsection (d), the Secretary" for "The Secretary" in introductory provisions.
 
 Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–17 inserted "(other than any project for a park road or parkway under section 204 of title 23)" after "program or project".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Treatment of Military Flight Operations
 

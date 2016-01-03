@@ -190,9 +190,9 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 <b>1997</b>—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
-<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
+<b>1996</b>—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: "The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives,and the Joint Committee on Taxation. Each report shall include—
 
-&emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality ofreturns and return information made available to the Comptroller General under section 713(b)(1) of this title;
+&emsp;"(1) procedures and requirements the Comptroller General, the Commissioner of Internal Revenue, and the Director of the Bureau of Alcohol, Tobacco, and Firearms, prescribe to protect the confidentiality of returns and return information made available to the Comptroller General under section 713(b)(1) of this title;
 
 &emsp;"(2) the scope and subject matter of audits under section 713 of this title; and
 

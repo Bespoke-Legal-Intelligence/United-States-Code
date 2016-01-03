@@ -34,7 +34,7 @@
 
 #### (4) Requirement
 
-&emsp;For projects that generate carbon dioxide that is to be sequestered, the carbon dioxidestream shall be of a sufficient purity level to allow for safe transport and sequestration.
+&emsp;For projects that generate carbon dioxide that is to be sequestered, the carbon dioxide stream shall be of a sufficient purity level to allow for safe transport and sequestration.
 
 #### (5) Cost-sharing
 

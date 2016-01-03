@@ -34,7 +34,7 @@ The fund shall be credited with—
 
 &emsp;(5) such sums as are required to be paid to the Administrator under section 4015(d) of this title; and
 
-&emsp;(6) receipts from any other operations under this chapter (including premiums under the conditions specified in subsection (d) of this section, and salvage proceeds, if any, resulting from reinsurance coverage).
+&emsp;(6) receipts from any other operations under this chapter (including premiums under theconditions specified in subsection (d) of this section, and salvage proceeds, if any, resulting from reinsurance coverage).
 
 #### (c) Investment of moneys in obligations issued or guaranteed by United States
 

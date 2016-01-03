@@ -10,7 +10,7 @@ Budget authority and new budget authority.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "budget authority" means the authority provided byFederal law to incur financial obligations, as follows:
+In general.—The term "budget authority" means the authority provided by Federal law to incur financial obligations, as follows:
 
 &emsp;&emsp;&emsp;(i) provisions of law that make funds available for obligation and expenditure (other than borrowing authority), including the authority to obligate and expend the proceeds of offsetting receipts and collections;
 
@@ -78,7 +78,7 @@ New budget authority.—The term "new budget authority" means, with respect to a
 
 &emsp;(11) The terms "emergency" and "unanticipated" have the meanings given to such terms in section 900(c) of this title.
 
-(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614,1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678; Pub. L. 112–25, title I, §105(b), Aug. 2, 2011, 125 Stat. 247.)
+(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678; Pub. L. 112–25, title I, §105(b), Aug. 2, 2011, 125 Stat. 247.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13211(b), Nov. 5, 1990, 104 Stat. 1388–620, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal year 1992 and subsequent fiscal years."
+Pub. L. 101–508, title XIII, §13211(b), Nov. 5, 1990, 104 Stat. 1388–620, provided that: "The amendment made bysubsection (a) \[amending this section\] shall be effective for fiscal year 1992 and subsequent fiscal years."
 
 #### Effective Date of 1985 Amendment
 

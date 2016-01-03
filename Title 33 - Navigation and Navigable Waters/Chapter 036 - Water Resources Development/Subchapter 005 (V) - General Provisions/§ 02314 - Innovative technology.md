@@ -44,7 +44,7 @@ For the purpose of this section, the term "innovative technology" means designs,
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1988, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

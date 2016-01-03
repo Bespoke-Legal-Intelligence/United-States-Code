@@ -1,0 +1,132 @@
+### §6825. Subgrants to eligible entities
+
+#### (a) Purposes of subgrants
+
+A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of English learners by assisting the children to learn English and meet the challenging State academic standards. In carrying out activities with such funds, the eligible entity shall use effective approaches and methodologies for teaching English learners and immigrant children and youth for the following purposes:
+
+&emsp;(1) Developing and implementing new language instruction educational programs and academic content instructional programs for English learners and immigrant children and youth, including early childhood education programs, elementary school programs, and secondary school programs.
+
+&emsp;(2) Carrying out highly focused, innovative, locally designed activities to expand or enhance existing language instruction educational programs and academic content instructional programs for English learners and immigrant children and youth.
+
+&emsp;(3) Implementing, within an individual school, schoolwide programs for restructuring, reforming, and upgrading all relevant programs, activities, and operations relating to language instruction educational programs and academic content instruction for English learners and immigrant children and youth.
+
+&emsp;(4) Implementing, within the entire jurisdiction of a local educational agency, agencywide programs for restructuring, reforming, and upgrading all relevant programs, activities, and operations relating to language instruction educational programs and academic content instruction for English learners and immigrant children and youth.
+
+#### (b) Direct administrative expenses
+
+Each eligible entity receiving funds under section 6824(a) of this title for a fiscal year may use not more than 2 percent of such funds for the cost of administering this subpart.
+
+#### (c) Required subgrantee activities
+
+An eligible entity receiving funds under section 6824(a) of this title shall use the funds—
+
+&emsp;(1) to increase the English language proficiency of English learners by providing effective language instruction educational programs that meet the needs of English learners and demonstrate success in increasing—
+
+&emsp;&emsp;(A) English language proficiency; and
+
+&emsp;&emsp;(B) student academic achievement;
+
+&emsp;(2) to provide effective professional development to classroom teachers (including teachers in classroom settings that are not the settings of language instruction educational programs), principals and other school leaders, administrators, and other school or community-based organizational personnel, that is—
+
+&emsp;&emsp;(A) designed to improve the instruction and assessment of English learners;
+
+&emsp;&emsp;(B) designed to enhance the ability of such teachers, principals, and other school leaders to understand and implement curricula, assessment practices and measures, and instructional strategies for English learners;
+
+&emsp;&emsp;(C) effective in increasing children's English language proficiency or substantially increasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
+
+&emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as 1-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers' performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of theteacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher, as appropriate; and
+
+&emsp;(3) to provide and implement other effective activities and strategies that enhance or supplement language instruction educational programs for English learners, which—
+
+&emsp;&emsp;(A) shall include parent, family, and community engagement activities; and
+
+&emsp;&emsp;(B) may include strategies that serve to coordinate and align related programs.
+
+#### (d) Authorized subgrantee activities
+
+Subject to subsection (c), an eligible entity receiving funds under section 6824(a) of this title may use the funds to achieve any of the purposes described in subsection (a) by undertaking 1 or more of the following activities:
+
+&emsp;(1) Upgrading program objectives and effective instructional strategies.
+
+&emsp;(2) Improving the instructional program for English learners by identifying, acquiring, and upgrading curricula, instructional materials, educational software, and assessment procedures.
+
+&emsp;(3) Providing to English learners—
+
+&emsp;&emsp;(A) tutorials and academic or career and technical education; and
+
+&emsp;&emsp;(B) intensified instruction, which may include materials in a language that the student can understand, interpreters, and translators.
+
+&emsp;(4) Developing and implementing effective preschool, elementary school, or secondary school language instruction educational programs that are coordinated with other relevant programs and services.
+
+&emsp;(5) Improving the English language proficiency and academic achievement of English learners.
+
+&emsp;(6) Providing community participation programs, family literacy services, and parent and family outreach and training activities to English learners and their families—
+
+&emsp;&emsp;(A) to improve the English language skills of English learners; and
+
+&emsp;&emsp;(B) to assist parents and families in helping their children to improve their academic achievement and becoming active participants in the education of their children.
+
+&emsp;(7) Improving the instruction of English learners, which may include English learners with a disability, by providing for—
+
+&emsp;&emsp;(A) the acquisition or development of educational technology or instructional materials;
+
+&emsp;&emsp;(B) access to, and participation in, electronic networks for materials, training, and communication; and
+
+&emsp;&emsp;(C) incorporation of the resources described in subparagraphs (A) and (B) into curricula and programs, such as those funded under this subpart.
+
+&emsp;(8) Offering early college high school or dual or concurrent enrollment programs or courses designed to help English learners achieve success in postsecondary education.
+
+&emsp;(9) Carrying out other activities that are consistent with the purposes of this section.
+
+#### (e) Activities by agencies experiencing substantial increases in immigrant children and youth
+
+#### (1) In general
+
+&emsp;An eligible entity receiving funds under section 6824(d)(1) of this title shall use the funds to pay for activities that provide enhanced instructional opportunities for immigrant children and youth, which may include—
+
+&emsp;&emsp;(A) family literacy, parent and family outreach, and training activities designed to assist parents and families to become active participants in the education of their children;
+
+&emsp;&emsp;(B) recruitment of, and support for, personnel, including teachers and paraprofessionals who have been specifically trained, or are being trained, to provide services to immigrant children and youth;
+
+&emsp;&emsp;(C) provision of tutorials, mentoring, and academic or career counseling for immigrant children and youth;
+
+&emsp;&emsp;(D) identification, development, and acquisition of curricular materials, educational software, and technologies to be used in the program carried out with awarded funds;
+
+&emsp;&emsp;(E) basic instructional services that are directly attributable to the presence of immigrant children and youth in the local educational agency involved, including the payment of costs of providing additional classroom supplies, costs of transportation, or such other costs as are directly attributable to such additional basic instructional services;
+
+&emsp;&emsp;(F) other instructional services that are designed to assist immigrant children and youth to achieve in elementary schools and secondary schools in the United States, such as programs of introduction to the educational system and civics education; and
+
+&emsp;&emsp;(G) activities, coordinated with community-based organizations, institutions of higher education, private sector entities, or other entities with expertise in working with immigrants, to assist parents and families of immigrant children and youth by offering comprehensive community services.
+
+#### (2) Duration of subgrants
+
+&emsp;The duration of a subgrant made by a State educational agency under section 6824(d)(1) of this title shall be determined by the agency in its discretion.
+
+#### (f) Selection of method of instruction
+
+#### (1) In general
+
+&emsp;To receive a subgrant from a State educational agency under this subpart, an eligible entity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
+
+#### (2) Consistency
+
+&emsp;The selection described in paragraph (1) shall be consistent with sections 6845 through 6847 of this title.
+
+#### (g) Supplement, not supplant
+
+Federal funds made available under this subpart shall be used so as to supplement the levelof Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+
+(Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697; amended Pub. L. 114–95, title III, §3003(f), Dec. 10, 2015, 129 Stat. 1958.)
+
+#### Prior Provisions
+
+A prior section 3115 of Pub. L. 89–10 was classified to section 6815 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to subgrants to eligible entities.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+

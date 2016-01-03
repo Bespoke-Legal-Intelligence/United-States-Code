@@ -1,6 +1,6 @@
 ### §1816b. Architect of the Capitol, authority for personal services contracts with legal entities
 
-Notwithstanding any other provision of law, the Architect of the Capitol is authorized tocontract for personal services with any firm, partnership, corporation, association, or other legal entity in the same manner as he is authorized to contract for personal services with individuals under the provisions of section 6101 of title 41.
+Notwithstanding any other provision of law, the Architect of the Capitol is authorized to contract for personal services with any firm, partnership, corporation, association, or other legal entity in the same manner as he is authorized to contract for personal services with individuals under the provisions of section 6101 of title 41.
 
 (Pub. L. 96–558, Dec. 19, 1980, 94 Stat. 3263.)
 

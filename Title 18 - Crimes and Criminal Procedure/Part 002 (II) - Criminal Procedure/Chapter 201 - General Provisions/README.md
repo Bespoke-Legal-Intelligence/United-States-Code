@@ -16,10 +16,13 @@
 | [3011\.](%C2%A7%2003011%20-%20Computation%20of%20time%E2%80%94%28Rule%29.md) | Computation of time—Rule. |
 | [3012\.](%C2%A7%2003012%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7218%28a%29%282%29%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202027.md) | Repealed. |
 | [3013\.](%C2%A7%2003013%20-%20Special%20assessment%20on%20convicted%20persons.md) | Special assessment on convicted persons. |
+| [3014\.](%C2%A7%2003014%20-%20Additional%20special%20assessment.md) | Additional special assessment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–22, title I, §101(b), May 29, 2015, 129 Stat. 230, added item 3014.
 
 <b>1984</b>—Pub. L. 98–473, title II, §§218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted "Repealed" for "Orders respecting persons in custody" in item 3012.
 
@@ -52,3 +55,4 @@ Designation of Attorney General to coordinate Federal law enforcement and crime 
 - [&sect; 03011 - Computation of time&#8212;(Rule)](%C2%A7%2003011%20-%20Computation%20of%20time%E2%80%94%28Rule%29.md)
 - [&sect; 03012 - Repealed. Pub. L. 98&#8211;473, title II, &sect;218(a)(2), Oct. 12, 1984, 98 Stat. 2027](%C2%A7%2003012%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93473%2C%20title%20II%2C%20%C2%A7218%28a%29%282%29%2C%20Oct.%2012%2C%201984%2C%2098%20Stat.%202027.md)
 - [&sect; 03013 - Special assessment on convicted persons](%C2%A7%2003013%20-%20Special%20assessment%20on%20convicted%20persons.md)
+- [&sect; 03014 - Additional special assessment](%C2%A7%2003014%20-%20Additional%20special%20assessment.md)

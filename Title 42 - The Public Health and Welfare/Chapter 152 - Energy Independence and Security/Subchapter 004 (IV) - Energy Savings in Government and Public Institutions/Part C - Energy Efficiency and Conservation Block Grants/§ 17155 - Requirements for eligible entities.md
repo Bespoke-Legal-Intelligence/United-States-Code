@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) the status of development and implementation of the energy efficiency and conservation strategy of the eligible unit of local government or Indian tribe; and
 
-&emsp;&emsp;(B) as practicable, an assessment of energy efficiency gains within the jurisdiction ofthe eligible unit of local government or Indian tribe.
+&emsp;&emsp;(B) as practicable, an assessment of energy efficiency gains within the jurisdiction of the eligible unit of local government or Indian tribe.
 
 #### (c) States
 

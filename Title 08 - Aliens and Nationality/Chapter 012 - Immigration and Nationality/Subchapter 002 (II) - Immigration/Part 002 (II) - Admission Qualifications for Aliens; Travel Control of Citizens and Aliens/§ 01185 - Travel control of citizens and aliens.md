@@ -32,7 +32,7 @@ Nothing in this section shall be construed to entitle an alien to whom a permit 
 
 #### (e) Revocation of proclamation as affecting penalties
 
-The revocation of any rule, regulation, or order issued in pursuance of this section shall not prevent prosecution for any offense committed, or the imposition of any penalties or forfeitures, liability for which was incurred under this section prior to the revocation of such rule, regulation, or order.
+The revocation of any rule, regulation, or order issued in pursuance of this section shallnot prevent prosecution for any offense committed, or the imposition of any penalties or forfeitures, liability for which was incurred under this section prior to the revocation of such rule, regulation, or order.
 
 #### (f) Permits to enter
 
@@ -134,7 +134,7 @@ Termination of Program.—The Secretary of Homeland Security, in coordination wi
 
 #### Western Hemisphere Travel Initiative
 
-Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of Homeland Security publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
+Pub. L. 110–53, title VII, §724, Aug. 3, 2007, 121 Stat. 350, provided that: "Before the Secretary of HomelandSecurity publishes a final rule in the Federal Register implementing section 7209 of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note) \[set out below\]—
 
 &emsp;"(1) the Secretary of Homeland Security shall complete a cost-benefit analysis of the Western Hemisphere Travel Initiative, authorized under such section 7209; and
 
@@ -168,7 +168,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;"(ii) the technology to be used by the United States for the passport card, and any subsequent change to that technology, has been shared with the governments of Canada and Mexico;
 
-&emsp;&emsp;&emsp;"(iii) an agreement has been reached with the United States Postal Service on the fee to becharged individuals for the passport card, and a detailed justification has been submitted to the Committees on Appropriations of the Senate and the House of Representatives;
+&emsp;&emsp;&emsp;"(iii) an agreement has been reached with the United States Postal Service on the fee to be charged individuals for the passport card, and a detailed justification has been submitted to the Committees on Appropriations of the Senate and the House of Representatives;
 
 &emsp;&emsp;&emsp;"(iv) an alternative procedure has been developed for groups of children traveling across an international border under adult supervision with parental consent;
 

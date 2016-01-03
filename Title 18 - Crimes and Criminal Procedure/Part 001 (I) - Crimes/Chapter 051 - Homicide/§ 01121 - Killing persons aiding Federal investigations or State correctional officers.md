@@ -16,7 +16,7 @@
 
 (b)(1) Whoever, in a circumstance described in paragraph (3) of this subsection, while incarcerated, intentionally kills any State correctional officer engaged in, or on account of the performance of such officer's official duties, shall be sentenced to a term of imprisonment which shall not be less than 20 years, and may be sentenced to life imprisonment or death.
 
-(2) As used in this section, the term, "State correctional officer" includes any officer or employee of any prison, jail, or other detention facility, operated by, or under contract to, either a State or local governmental agency, whose jobresponsibilities include providing for the custody of incarcerated individuals.
+(2) As used in this section, the term, "State correctional officer" includes any officer or employee of any prison, jail, or other detention facility, operated by, or under contract to, either a State or local governmental agency, whose job responsibilities include providing for the custody of incarcerated individuals.
 
 (3) The circumstance referred to in paragraph (1) is that—
 

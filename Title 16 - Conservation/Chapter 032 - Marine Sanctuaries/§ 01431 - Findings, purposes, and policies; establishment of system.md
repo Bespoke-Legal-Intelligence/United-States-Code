@@ -70,7 +70,7 @@ Subsec. (b)(4). Pub. L. 106–513, §3(c)(2), (4), added par. (4) and struck out
 
 Subsec. (b)(5) to (7). Pub. L. 106–513, §3(c)(3), (4), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 106–513, §3(c)(3), (5), redesignated par. (7) as (8) and substituted "areas, includingthe application of innovative management techniques; and" for "areas;". Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 106–513, §3(c)(3), (5), redesignated par. (7) as (8) and substituted "areas, including the application of innovative management techniques; and" for "areas;". Former par. (8) redesignated (9).
 
 Subsec. (b)(9). Pub. L. 106–513, §3(c)(2), (3), (6), redesignated par. (8) as (9), substituted a period for "; and", and struck out former par. (9) which read as follows: "to maintain, restore, and enhance living resources by providing places for species that depend upon these marine areas to survive and propagate."
 
@@ -116,7 +116,7 @@ Pub. L. 102–587, title II, §2001, Nov. 4, 1992, 106 Stat. 5039, provided that
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–498, title I, §101, Oct. 19, 1984, 98 Stat. 2296, provided that: "This title \[enacting sections 1435 to 1439 of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the 'Marine Sanctuaries Amendments of 1984'."
+Pub. L. 98–498, title I, §101, Oct. 19, 1984, 98 Stat. 2296, provided that: "This title \[enacting sections 1435 to 1439of this title and amending this section and sections 1432 to 1434 of this title\] may be cited as the 'Marine Sanctuaries Amendments of 1984'."
 
 #### Short Title
 
@@ -144,7 +144,7 @@ Ex. Ord. No. 13158, May 26, 2000, 65 F.R. 34909, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the National Marine Sanctuaries Act (16 U.S.C. 1431 <i>et seq</i>.), National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd-ee) \[16 U.S.C. 668dd–668ee\], National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.), Marine Mammal Protection Act \[of 1972\] (16 U.S.C. 1362 \[1361\] <i>et seq</i>.), Clean Water Act of 1977 (33 U.S.C. 1251 <i>et seq</i>.), National Environmental Policy Act \[of 1969\], as amended (42 U.S.C. 4321 <i>et seq</i>.), Outer Continental Shelf Lands Act (42 \[43\] U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, it is ordered as follows:
 
-Section 1. <i>Purpose</i>. This Executive Order will help protect the significant natural and cultural resourceswithin the marine environment for the benefit of present and future generations by strengthening and expanding the Nation's system of marine protected areas (MPAs). An expanded and strengthened comprehensive system of marine protected areas throughout the marine environment would enhance the conservation of our Nation's natural and cultural marine heritage and the ecologically and economically sustainable use of the marine environment for future generations. To this end, the purpose of this order is to, consistent with domestic and international law: (a) strengthen the management, protection, and conservation of existing marine protected areas and establish new or expanded MPAs; (b) develop a scientifically based, comprehensive national system of MPAs representing diverse U.S. marine ecosystems, and the Nation's natural and cultural resources; and (c) avoid causing harm to MPAs through federally conducted, approved, or funded activities.
+Section 1. <i>Purpose</i>. This Executive Order will help protect the significant natural and cultural resources within the marine environment for the benefit of present and future generations by strengthening and expanding the Nation's system of marine protected areas (MPAs). An expanded and strengthened comprehensive system of marine protected areas throughout the marine environment would enhance the conservation of our Nation's natural and cultural marine heritage and the ecologically and economically sustainable use of the marine environment for future generations. To this end, the purpose of this order is to, consistent with domestic and international law: (a) strengthen the management, protection, and conservation of existing marine protected areas and establish new or expanded MPAs; (b) develop a scientifically based, comprehensive national system of MPAs representing diverse U.S. marine ecosystems, and the Nation's natural and cultural resources; and (c) avoid causing harm to MPAs through federally conducted, approved, or funded activities.
 
 Sec. 2. <i>Definitions</i>. For the purposes of this order: (a) "Marine protected area" means any area of the marine environment that has been reserved by Federal, State, territorial, tribal, or local laws or regulations to provide lasting protection for part or all of the natural and cultural resources therein.
 
@@ -195,4 +195,8 @@ Sec. 8. <i>General</i>. (a) Nothing in this order shall be construed as altering
 (c) This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of Marine Protected Areas Federal Advisory Committee
+
+Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

@@ -32,7 +32,7 @@
 
 #### (b) Corrective actions
 
-(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretaryshall submit to Congress, not later than August 15 of the year in which such report is submitted, a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective.
+(1) If a report under subsection (a)(3) indicates that construction or operation of the MOX facility is behind the applicable schedule under subsection (g) by 12 months or more, the Secretary shall submit to Congress, not later than August 15 of the year in which such report is submitted, a plan for corrective actions to be implemented by the Secretary to ensure that the MOX facility project is capable of meeting the MOX production objective.
 
 (2) If a plan is submitted under paragraph (1) in any year after 2008, the plan shall include corrective actions to be implemented by the Secretary to ensure that the MOX production objective is met.
 

@@ -23,3 +23,4 @@ left exactly as it was in its last available edition, and its changes appear in 
 | 2012 | USCODE-2012-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |
 | 2013 | USCODE-2013-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |
 | 2014 | USCODE-2014-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |
+| 2015 | USCODE-2015-title34 | not in govinfo (absent from GPO's sitemap for this edition) | the 2010 edition |

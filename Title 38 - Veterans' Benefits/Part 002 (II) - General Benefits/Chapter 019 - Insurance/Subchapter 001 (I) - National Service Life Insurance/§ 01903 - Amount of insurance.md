@@ -18,5 +18,5 @@ Another prior section 1903, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, rela
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than firstday of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
+Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than first day of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
 

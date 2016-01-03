@@ -32,7 +32,7 @@ For purposes of this section, the term "conversion transaction" means any transa
 
 &emsp;&emsp;(B) an applicable straddle,
 
-&emsp;&emsp;(C) any other transaction which is marketed or sold as producing capital gains from a transaction described in paragraph (1), or
+&emsp;&emsp;(C) any other transaction which is marketed or sold as producing capital gainsfrom a transaction described in paragraph (1), or
 
 &emsp;&emsp;(D) any other transaction specified in regulations prescribed by the Secretary.
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Position taken into account at fair market value
 
-&emsp;In determining the taxpayer's net investment in any conversion transaction, there shall be included the fair market value of anyposition which becomes part of such transaction (determined as of the time such position became part of such transaction).
+&emsp;In determining the taxpayer's net investment in any conversion transaction, there shall be included the fair market value of any position which becomes part of such transaction (determined as of the time such position became part of such transaction).
 
 #### (5) Special rule for options dealers and commodities traders
 

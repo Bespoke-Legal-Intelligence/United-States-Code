@@ -12,7 +12,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 A prior section 3711, Pub. L. 90–351, title I, §101, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1170, established Law Enforcement Assistance Administration, prior to the general amendment of this subchapter by Pub. L. 98–473.
 
-Another prior section 3711, Pub. L. 90–351, title I, §101, June 19, 1968, 82 Stat. 198; Pub. L. 91–644, title I, §2, Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §§102, 103, Oct. 15, 1976, 90 Stat. 2407, established Law Enforcement Assistance Administration and Office of Community Anti-Crime Programs, prior to the general amendment of this chapter by Pub. L. 96–157.
+Another prior section 3711, Pub. L. 90–351, title I, §101, June 19, 1968, 82 Stat. 198; Pub. L. 91–644, title I, §2, Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 197; Pub. L. 94–503, title I, §§102, 103, Oct. 15, 1976, 90 Stat. 2407, established Law Enforcement AssistanceAdministration and Office of Community Anti-Crime Programs, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Effective Date
 
@@ -23,6 +23,10 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 "(b)(1) The amendment made by section 609F \[amending sections 3796 to 3796c of this title\] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984."
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–22, title X, §1001, May 29, 2015, 129 Stat. 266, provided that: "This title \[amending section 3796dd of this title\] may be cited as the 'Human Trafficking Survivors Relief and Empowerment Act of 2015'."
 
 #### Short Title of 2013 Amendment
 
@@ -40,7 +44,7 @@ Pub. L. 110–416, §1(a), Oct. 14, 2008, 122 Stat. 4352, provided that: "This A
 
 Pub. L. 110–345, §1, Oct. 7, 2008, 122 Stat. 3938, provided that: "This Act \[amending section 3797cc–2 of this title\] may be cited as the 'Drug Endangered Children Act of 2007'."
 
-Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that: "This part \[part E (§§951, 952) oftitle IX of Pub. L. 110–315, enacting subchapter XX–A of this chapter\] may be cited as the 'John R. Justice Prosecutors and Defenders Incentive Act of 2008'."
+Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that: "This part \[part E (§§951, 952) of title IX of Pub. L. 110–315, enacting subchapter XX–A of this chapter\] may be cited as the 'John R. Justice Prosecutors and Defenders Incentive Act of 2008'."
 
 #### Short Title of 2004 Amendment
 
@@ -78,7 +82,7 @@ Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: "
 
 Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: "This Act \[amending sections 3796d, 3796d–1, 3796d–3, 3796d–5, and 3796d–6 of this title\] may be cited as the 'Police, Fire, and Emergency Officers Educational Assistance Act of 1998'."
 
-Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: "This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note under section 3796ll of this title\] may be cited as the 'Bulletproof Vest Partnership Grant Act of 1998'."
+Pub. L. 105–181, §1, June 16, 1998, 112 Stat. 512, provided that: "This Act \[enacting subchapter XII–M of this chapter, amending sections 3793 and 3797 of this title, and enacting provisions set out as a note undersection 3796ll of this title\] may be cited as the 'Bulletproof Vest Partnership Grant Act of 1998'."
 
 Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: "This Act \[amending sections 3796a–1 and 3796c of this title\] may be cited as the 'Care for Police Survivors Act of 1998'."
 
@@ -102,7 +106,7 @@ Pub. L. 98–473, title II, §601, Oct. 12, 1984, 98 Stat. 2077, provided that: 
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–157, §1, Dec. 27, 1979, 93 Stat. 1167, provided: "That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organizationand Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the 'Justice System Improvement Act of 1979'."
+Pub. L. 96–157, §1, Dec. 27, 1979, 93 Stat. 1167, provided: "That this Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, section 1761 of Title 18, Crimes and Criminal Procedure, and section 35 of Title 41, Public Contracts, and enacting provisions set out as a note under section 1761 of Title 18\] may be cited as the 'Justice System Improvement Act of 1979'."
 
 #### Short Title of 1976 Amendments
 
@@ -130,7 +134,7 @@ Pub. L. 90–351, title XI, §1601, June 19, 1968, 82 Stat. 239, provided that: 
 
 Pub. L. 98–473, title II, §609I, Oct. 12, 1984, 98 Stat. 2102, provided that:
 
-"(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment of this Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
+"(a) Any reference to the Law Enforcement Assistance Administration, or to the Administrator of the Law Enforcement Assistance Administration, in any law other than this Act \[see Short Title of 1984 Amendment note set out above\] and the Omnibus Crime Control and Safe Streets Act of 1968 \[see Short Title note set out above\], applicable to activities, functions, powers, and duties that after the date of the enactment ofthis Act \[Oct. 12, 1984\] are carried out by the Bureau of Justice Assistance shall be deemed to be a reference to the Bureau of Justice Assistance, or to the Director of the Bureau of Justice Assistance, as the case may be.
 
 "(b) Any reference to the Office of Justice Assistance, Research, and Statistics, or to the Director of the Office of Justice Assistance, Research, and Statistics, in any law other than this Act and the Omnibus Crime Control and Safe Streets Act of 1968, applicable to activities, functions, powers, and duties that after the date of the enactment of this Act are carried out by the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, the National Institute of Justice, or the Office of Juvenile Justice \[and\] Delinquency Prevention shall be deemed to be a reference to the Office of Justice Programs, the Bureau of Justice Assistance, the Bureau of Justice Statistics, National Institute of Justice, or Office of Juvenile Justice \[and\] Delinquency Prevention, or to the Director of the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Director of the Bureau of Justice Statistics, the Director of the National Institute of Justice, or the Administrator of the Office of Juvenile Justice and Delinquency Prevention, as the case may be."
 

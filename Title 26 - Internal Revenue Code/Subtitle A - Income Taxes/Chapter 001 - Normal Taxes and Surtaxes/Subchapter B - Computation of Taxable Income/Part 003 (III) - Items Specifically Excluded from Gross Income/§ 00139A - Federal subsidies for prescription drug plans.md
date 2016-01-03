@@ -18,5 +18,5 @@ Pub. L. 111–148, title IX, §9012(b), Mar. 23, 2010, 124 Stat. 868, as amended
 
 #### Effective Date
 
-Section applicable to taxable years ending after Dec. 8, 2003, see section 1202(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 56 of this title.
+Section applicable to taxable years ending after Dec. 8, 2003, see section 1202(d) of Pub. L. 108–173, set out asan Effective Date of 2003 Amendment note under section 56 of this title.
 

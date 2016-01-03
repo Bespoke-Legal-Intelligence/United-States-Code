@@ -12,7 +12,7 @@
 
 (4) This section shall not be construed to affect the interest on any judgment of any court not specified in this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 97–164, title III, §302(a), Apr. 2, 1982, 96 Stat. 55; Pub. L. 97–258, §2(m)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 97–452, §2(d)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–514, §2, title XV, §1511(c)(17), Oct. 22, 1986, 100 Stat. 2095, 2745; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, §1(a)(7) \[title III, §307(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636.)
+(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 97–164, title III, §302(a), Apr. 2, 1982, 96 Stat. 55; Pub. L. 97–258, §2(m)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 97–452, §2(d)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–514, §2, title XV, §1511(c)(17), Oct. 22, 1986, 100 Stat. 2095, 2745; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–554, §1(a)(7) \[title III, §307(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-636.)
 
 #### Historical and Revision Notes
 

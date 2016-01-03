@@ -18,7 +18,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;(B) an analysis of the current workforce, employment and unemployment data, labor market trends, and the educational and skill levels of the workforce, including individuals with barriers to employment (including individuals with disabilities), in the State;
 
-&emsp;&emsp;(C) an analysis of the workforce development activities (including education and training) in the State, including an analysis of the strengths and weaknesses of such activities, and the capacity of State entities to provide such activities, in order to address the identified education and skill needs of the workforce and the employment needs of employers in the State;
+&emsp;&emsp;(C) an analysis of the workforce development activities (including education andtraining) in the State, including an analysis of the strengths and weaknesses of such activities, and the capacity of State entities to provide such activities, in order to address the identified education and skill needs of the workforce and the employment needs of employers in the State;
 
 &emsp;&emsp;(D) a description of the State's strategic vision and goals for preparing an educated and skilled workforce (including preparing youth and individuals with barriers to employment) and for meeting the skilled workforce needs of employers, including goals relating to performance accountability measures based on primary indicators of performance described in section 3141(b)(2)(A) of this title, in order to support economic growth and economic self-sufficiency, and of how the State will assess the overall effectiveness of the workforce investment system in the State; and
 
@@ -82,7 +82,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;&emsp;(II) the local areas designated in the State, including the process used for designating local areas, and the process used for identifying any planning regions under section 3121(a) of this title, including a description of how the State consulted with the local boards and chief elected officials in determining the planning regions;
 
-&emsp;&emsp;&emsp;&emsp;(III) the appeals process referred to in section 3121(b)(5) of this title, relating to designation of local areas;
+&emsp;&emsp;&emsp;&emsp;(III) the appeals process referred to in section 3121(b)(6) of this title, relating to designation of local areas;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the appeals process referred to in section 3151(h)(2)(E) of this title, relating to determinations for infrastructure funding; and
 
@@ -90,7 +90,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(ii) with respect to activities carried out under subchapter II, a description of—
 
-&emsp;&emsp;&emsp;&emsp;(I) how the eligible agency will, if applicable, align content standards for adult education with State-adopted challenging academic content standards, as adopted under section 6311(b)(1) of title 20;
+&emsp;&emsp;&emsp;&emsp;(I) how the eligible agency will, if applicable, align content standards for adult education with challenging State academic standards, as adopted under section 6311(b)(1) of title 20;
 
 &emsp;&emsp;&emsp;&emsp;(II) how the State will fund local activities using considerations specified in section 3321(e) of this title for—
 
@@ -124,7 +124,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(II) that the State obtained input into the development of the unified State plan and provided an opportunity for comment on the plan by representatives of local boards and chief elected officials, businesses, labor organizations, institutions of higher education, other primary stakeholders, and the general public and that the unified State plan is available and accessible to the general public;
 
-&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title, fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker, and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
+&emsp;&emsp;&emsp;(iv) that the State has established, in accordance with section 3141(i) of this title, fiscal control and fund accounting procedures that may be necessary to ensure the proper disbursement of, and accounting for, funds paid to the State through allotments made for adult, dislocated worker,and youth programs to carry out workforce investment activities under subparts 2 and 3 of part B;
 
 &emsp;&emsp;&emsp;(v) that the State has taken appropriate action to secure compliance with uniform administrative requirements in this Act, including that the State will annually monitor local areas to ensure compliance and otherwise take appropriate action to secure compliance with the uniform administrative requirements under section 3244(a)(3) of this title;
 
@@ -182,7 +182,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;The Secretary of Labor, in conjunction with the Secretary of Education, shall establish a process for approving and may approve unified State plans that meet the requirements of this section and are submitted to cover periods commencing prior to the second full program year described in paragraph (1)(A).
 
-(Pub. L. 113–128, title I, §102, July 22, 2014, 128 Stat. 1444.)
+(Pub. L. 113–128, title I, §102, July 22, 2014, 128 Stat. 1444; Pub. L. 114–18, §2(e)(1), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, §9215(yyy)(2), Dec. 10, 2015, 129 Stat. 2191.)
 
 #### References in Text
 
@@ -190,11 +190,23 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vi
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 49 of this title and Tables.
 
 This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(D)(i)(III). Pub. L. 114–18 substituted "section 3121(b)(6)" for "section 3121(b)(5)".
+
+Subsec. (b)(2)(D)(ii)(I). Pub. L. 114–95 substituted "with challenging State academic standards, as adopted under section 6311(b)(1) of title 20" for "with State-adopted challenging academic content standards, as adopted under section 6311(b)(1) of title 20".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
+Pub. L. 114–18, §2(f), May 22, 2015, 129 Stat. 214, provided that: "The amendments made by this section \[amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174 of this title\] shall take effect as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\]."
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

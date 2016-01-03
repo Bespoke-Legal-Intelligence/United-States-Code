@@ -40,7 +40,7 @@ Pub. L. 100–458, title III, §307B, Oct. 1, 1988, 102 Stat. 2183.
 
 #### Development of Overall Plan for Satisfying Telecommunications Requirements of Agencies of Legislative Branch
 
-Pub. L. 102–392, title III, §305, Oct. 6, 1992, 106 Stat. 1721, as amended by Pub. L. 108–271, §8(b), July 7, 2004,118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 102–392, title III, §305, Oct. 6, 1992, 106 Stat. 1721, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility. The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved.
 

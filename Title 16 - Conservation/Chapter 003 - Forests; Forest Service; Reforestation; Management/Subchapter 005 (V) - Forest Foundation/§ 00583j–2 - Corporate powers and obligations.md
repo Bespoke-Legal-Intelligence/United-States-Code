@@ -10,11 +10,11 @@ The Foundation—
 
 &emsp;(3) shall have its principal offices in the Washington, D.C. metropolitan area; and
 
-&emsp;(4) shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
+&emsp;(4) shall at all times maintain a designated agent in the District of Columbia authorized to accept notice or service of process for the Foundation.
 
 #### (b) Notice and service of process
 
-The serving of notice to, or service of process upon, the agent required under this paragraph,<sup>1</sup> or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+The serving of notice to, or service of process upon, the agent required by subsection (a)(4), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
 #### (c) Seal
 
@@ -22,7 +22,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (d) Powers
 
-To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powersof a corporation in the District of Columbia, including the power to—
+To carry out its purposes, the Foundation shall have, in addition to powers otherwise authorized under this subchapter, the usual powers of a corporation in the District of Columbia, including the power to—
 
 &emsp;(1) accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, or real or personal property or any income therefrom or other interest therein;
 
@@ -48,7 +48,11 @@ To carry out its purposes, the Foundation shall have, in addition to powers othe
 
 (4) Contributions, gifts, and other transfers made to or for the use of the Foundation shall be treated as contributions, gifts, or transfers to an organization exempt from taxation under section 501(c)(3) of title 26.
 
-(Pub. L. 101–593, title IV, §404, Nov. 16, 1990, 104 Stat. 2971.)
+(Pub. L. 101–593, title IV, §404, Nov. 16, 1990, 104 Stat. 2971; Pub. L. 114–54, title II, §201(c)(1), Sept. 30, 2015, 129 Stat. 516.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "this section,".</i>
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–54, §201(c)(1)(A), inserted "notice or" after "authorized to accept".
+
+Subsec. (b). Pub. L. 114–54, §201(c)(1)(B), substituted "by subsection (a)(4)" for "under this paragraph".
 

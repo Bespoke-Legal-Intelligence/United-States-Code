@@ -160,7 +160,7 @@ Exception.—In applying subparagraph (A), the Secretary shall ensure that no St
 
 #### Effective and Termination Dates of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if enacted on Oct. 1, 1998, and applicable only during fiscal year 1999, and upon expiration of fiscal year 1999, subsec. (b) of this section, as in effect on Sept. 30, 1998, to be applied as if such amendment had not been enacted, see section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, set out as a note under section 300x–7 of this title.
+Amendment by Pub. L. 105–277 effective as if enacted on Oct. 1, 1998, and applicable only during fiscal year1999, and upon expiration of fiscal year 1999, subsec. (b) of this section, as in effect on Sept. 30, 1998, to be applied as if such amendment had not been enacted, see section 101(f) \[title II, §218(c)\] of Pub. L. 105–277, set out as a note under section 300x–7 of this title.
 
 #### Effective Date of 1992 Amendment
 

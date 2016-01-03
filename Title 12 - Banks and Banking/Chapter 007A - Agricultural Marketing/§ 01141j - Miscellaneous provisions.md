@@ -10,7 +10,7 @@ Second. That the association does not pay dividends on stock or membership capit
 
 And in any case to the following:
 
-Third. That the association shall not deal in farm products, farm supplies, and farm business services with or for nonmembers in an amountgreater in value than the total amount of such business transacted by it with or for members. All business transacted by any cooperative association for or on behalf of the United States or any agency or instrumentality thereof shall be disregarded in determining the volume of member and nonmember business transacted by such association.
+Third. That the association shall not deal in farm products, farm supplies, and farm business services with or for nonmembers in an amount greater in value than the total amount of such business transacted by it with or for members. All business transacted by any cooperative association for or on behalf of the United States or any agency or instrumentality thereof shall be disregarded in determining the volume of member and nonmember business transacted by such association.
 
 #### (b) Speculation prohibited
 

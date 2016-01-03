@@ -8,7 +8,7 @@
 
 #### (b) Reflection in budget
 
-For fiscal year 2006 and each fiscal year thereafter, the Secretary shall ensure that the budgetjustification materials submitted to Congress in support of the Department of Energy budget for such fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) reflect the policy required by subsection (a).
+For fiscal year 2006 and each fiscal year thereafter, the Secretary shall ensure that the budget justification materials submitted to Congress in support of the Department of Energy budget for such fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) reflect the policy required by subsection (a).
 
 #### (c) Consultation
 

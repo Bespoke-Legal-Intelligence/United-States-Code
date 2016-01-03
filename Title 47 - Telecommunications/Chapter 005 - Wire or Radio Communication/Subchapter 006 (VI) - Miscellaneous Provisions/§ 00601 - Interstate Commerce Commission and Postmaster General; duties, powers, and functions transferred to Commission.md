@@ -1,6 +1,6 @@
 ### §601. Interstate Commerce Commission and Postmaster General; duties, powers, and functions transferred to Commission
 
-(a) All duties, powers, and functions of the Interstate Commerce Commission under sections 9 to 15 of this title, relating to operation of telegraph lines by railroad and telegraphcompanies granted Government aid in the construction of their lines, are imposed upon and vested in the Commission: <i>Provided</i>, That such transfer of duties, powers, and functions shall not be construed to affect the duties, powers, functions, or jurisdiction of the Interstate Commerce Commission under, or to interfere with or prevent the enforcement of, subtitle IV of title 49.
+(a) All duties, powers, and functions of the Interstate Commerce Commission under sections 9 to 15 of this title, relating to operation of telegraph lines by railroad and telegraph companies granted Government aid in the construction of their lines, are imposed upon and vested in the Commission: <i>Provided</i>, That such transfer of duties, powers, and functions shall not be construed to affect the duties, powers, functions, or jurisdiction of the Interstate Commerce Commission under, or to interfere with or prevent the enforcement of, subtitle IV of title 49.
 
 (b) All duties, powers, and functions of the Postmaster General with respect to telegraph companies and telegraph lines under any existing provision of law are imposed upon and vested in the Commission.
 
@@ -16,5 +16,5 @@ Office of Postmaster General of Post Office Department abolished and functions, 
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

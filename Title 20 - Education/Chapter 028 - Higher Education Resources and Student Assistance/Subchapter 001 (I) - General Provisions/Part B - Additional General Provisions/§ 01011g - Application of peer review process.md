@@ -8,5 +8,5 @@ All applications submitted under the provisions of this chapter and part C of su
 
 Provisions similar to this section were contained in section 1145d–1 of this title prior to repeal by Pub. L. 105–244.
 
-A prior section 1011g, Pub. L. 89–329, title I, §128, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 464, related to reports and evaluation of programs, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1011g, Pub. L. 89–329, title I, §128, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 464, related to reports and evaluation of programs, prior to the general amendment of this subchapter by Pub. L. 105–244.
 

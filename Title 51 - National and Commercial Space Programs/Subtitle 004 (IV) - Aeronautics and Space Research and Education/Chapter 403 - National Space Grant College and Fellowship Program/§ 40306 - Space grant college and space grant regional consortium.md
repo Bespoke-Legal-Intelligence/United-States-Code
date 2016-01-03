@@ -28,7 +28,7 @@ Space grant regional consortium requirements.—No association or other alliance
 
 &emsp;&emsp;(A) is established for the purpose of sharing expertise, research, educational facilities or training facilities, and other capabilities in order to facilitate research, education, training, and advisory services in any field related to space;
 
-&emsp;&emsp;(B) will encourage and follow a regional approach to solving problems or meeting needs relating to space, in cooperation withappropriate space grant colleges, space grant programs, and other persons in the region;
+&emsp;&emsp;(B) will encourage and follow a regional approach to solving problems or meeting needs relating to space, in cooperation with appropriate space grant colleges, space grant programs, and other persons in the region;
 
 &emsp;&emsp;(C) will act in accordance with such guidelines as are prescribed under subsection (b)(2); and
 

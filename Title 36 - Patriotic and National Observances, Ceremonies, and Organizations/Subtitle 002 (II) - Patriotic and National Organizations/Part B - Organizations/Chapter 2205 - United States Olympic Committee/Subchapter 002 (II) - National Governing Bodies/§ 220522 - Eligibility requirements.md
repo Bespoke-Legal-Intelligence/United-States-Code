@@ -50,7 +50,7 @@ General.—An amateur sports organization is eligible to be recognized, or to co
 
 &emsp;(13) provides procedures for the prompt and equitable resolution of grievances of its members;
 
-&emsp;(14) does not have eligibility criteria related to amateur status or to participation in the Olympic Games, the Paralympic Games, or the Pan-American Games that are more restrictive than those of the appropriate international sports federation; and
+&emsp;(14) does not have eligibility criteria related to amateur status or to participation in the Olympic Games, the Paralympic Games, or thePan-American Games that are more restrictive than those of the appropriate international sports federation; and
 
 &emsp;(15) demonstrates, if the organization is seeking to be recognized as a national governing body, that it is prepared to meet the obligations imposed on a national governing body under sections 220524 and 220525 of this title.
 

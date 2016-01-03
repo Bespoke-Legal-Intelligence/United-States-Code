@@ -1,6 +1,6 @@
 ### §14512. Standard tonnage measurement
 
-(a) The Secretary shall prescribe regulations for measuring the gross and net tonnages of a vessel under this subchapter. The regulations shall provide for tonnages comparable to the tonnages that could have been assigned under sections 4151 and 4153 of the Revised Statutes of the United States, as sections 4151 and 4153 existed immediately before the enactment of this section.
+(a) The Secretary shall prescribe regulations for measuring the gross and net tonnages of a vessel under this subchapter. The regulations shall provide for tonnages comparable to the tonnages that could have been assigned undersections 4151 and 4153 of the Revised Statutes of the United States, as sections 4151 and 4153 existed immediately before the enactment of this section.
 
 (b) On application of the owner or master of a vessel of the United States used in foreign trade, the Secretary may attach an appendix to the vessel's register stating the measurement of spaces that may be deducted from gross tonnage under laws and regulations of other countries but not under those of the United States.
 
@@ -18,5 +18,5 @@ Section 14512(b) authorizes the Secretary to attach an appendix to a vessel's re
 
 #### References in Text
 
-Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75and 77, respectively, of the former Appendix to this title and were repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
+Sections 4151 and 4153 of the Revised Statutes, referred to in subsec. (a), were classified to sections 75 and 77, respectively, of the former Appendix to this title and were repealed by Pub. L. 99–509, title V, §5104(b), Oct. 21, 1986, 100 Stat. 1928.
 

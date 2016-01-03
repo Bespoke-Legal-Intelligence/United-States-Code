@@ -26,7 +26,7 @@ Accomplishment of Required Manning Levels.—(1) If, as of the date of the enact
 
 &emsp;"(B) submit to Congress, not later than 90 days after such date of enactment, a plan to achieve and maintain that requirement.
 
-"(2) The requirement specified in subsection (a) of section 4303 of title 10, United States Code, as added by subsection (a), shall expire two years after the date (on or after the date of the enactment of this Act) on which the required manning levels referred to in paragraph (1) are first attained.
+"(2) The requirement specified in subsection (a) of section 4303 of title 10, United States Code, as added bysubsection (a), shall expire two years after the date (on or after the date of the enactment of this Act) on which the required manning levels referred to in paragraph (1) are first attained.
 
 "(c)
 

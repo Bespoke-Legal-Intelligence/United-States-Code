@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(ii) for purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the same meanings as in section 103 of the Truth in Lending Act; and
+&emsp;&emsp;&emsp;(I) the terms "consumer", "credit", and "open end credit plan" have the samemeanings as in section 103 of the Truth in Lending Act; and
 
 &emsp;&emsp;&emsp;(II) the term "luxury goods or services" does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) a loan permitted under section 408(b)(1) of the Employee Retirement Income Security Act of 1974, or subject to section 72(p) of the Internal Revenue Code of 1986; or
 
-&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
+&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 oftitle 5, that satisfies the requirements of section 8433(g) of such title;
 
 > &emsp;but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title; or
 
@@ -114,7 +114,7 @@
 
 > For purposes of this subsection, the term "return" means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
-(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>1</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>1</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by theterms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>1</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>1</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 (c)(1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.
 
@@ -166,7 +166,7 @@ The House amendment also adopts the Senate amendment provision limiting the nond
 
 #### senate report no. 95–989
 
-This section specifies which of the debtor's debts are not discharged in a bankruptcy case, and certain procedures for effectuating the section. The provision in Bankruptcy Act §17c \[section 35(c) of former title 11\] granting the bankruptcy courts jurisdiction to determine dischargeability is deleted as unnecessary, in view of the comprehensive grant of jurisdiction prescribed in proposed 28 U.S.C. 1334(b), which is adequate to cover the full jurisdiction that the bankruptcy courts have today over dischargeability and related issues under Bankruptcy Act §17c. The Rules of Bankruptcy Procedure will specify, as they do today, who may request determinations of dischargeability, subject, of course, to proposed 11 U.S.C. 523(c), and when such a request may be made. Proposed 11 U.S.C. 350, providing for reopening of cases, provides one possible procedure for a determination of dischargeability and related issues after a case is closed.
+This section specifies which of the debtor's debts are not discharged in a bankruptcy case, and certain procedures for effectuating the section. The provision in Bankruptcy Act §17c \[section 35(c) of former title 11\] granting the bankruptcy courts jurisdiction to determine dischargeability is deleted as unnecessary, in view of the comprehensive grant of jurisdiction prescribed in proposed 28 U.S.C. 1334(b), which is adequate to cover the full jurisdiction that the bankruptcycourts have today over dischargeability and related issues under Bankruptcy Act §17c. The Rules of Bankruptcy Procedure will specify, as they do today, who may request determinations of dischargeability, subject, of course, to proposed 11 U.S.C. 523(c), and when such a request may be made. Proposed 11 U.S.C. 350, providing for reopening of cases, provides one possible procedure for a determination of dischargeability and related issues after a case is closed.
 
 Subsection (a) lists nine kinds of debts excepted from discharge. Taxes that are excepted from discharge are set forth in paragraph (1). These include claims against the debtor which receive priority in the second, third and sixth categories (§507(a)(3)(B) and (c) and (6)). These categories include taxes for which the tax authority failed to file a claim against the estate or filed its claim late. Whether or not the taxing authority's claim is secured will also not affect the claim's nondischargeability if the tax liability in question is otherwise entitled to priority.
 
@@ -198,7 +198,7 @@ Subsection (b) of this section permits discharge in a bankruptcy case of an unsc
 
 Subsection (c) requires a creditor who is owed a debt that may be excepted from discharge under paragraph (2), (4), or (5), (false statements, defalcation or larceny misappropriation, or willful and malicious injury) to initiate proceedings in the bankruptcy court for an exception to discharge. If the creditor does not act, the debt is discharged. This provision does not change current law.
 
-Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on the ground of falsity in the incurring of the debt. The debtor may be awarded costs and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the court finds that the proceeding was frivolous or not brought by its creditor in good faith.
+Subsection (d) is new. It provides protection to a consumer debtor that dealt honestly with a creditor who sought to have a debt excepted from discharge on theground of falsity in the incurring of the debt. The debtor may be awarded costs and a reasonable attorney's fee for the proceeding to determine the dischargeability of a debt under subsection (a)(2), if the court finds that the proceeding was frivolous or not brought by its creditor in good faith.
 
 The purpose of the provision is to discourage creditors from initiating proceedings to obtaining a false financial statement exception to discharge in the hope of obtaining a settlement from an honest debtor anxious to save attorney's fees. Such practices impair the debtor's fresh start and are contrary to the spirit of the bankruptcy laws.
 
@@ -264,7 +264,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 109–8, §714(1)(C), inserted "or given" after "
 
 Subsec. (a)(2)(C). Pub. L. 109–8, §310, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "for purposes of subparagraph (A) of this paragraph, consumer debts owed to a single creditor and aggregating more than $1,000 for 'luxury goods or services' incurred by an individual debtor on or within 60 days before the order for relief under this title, or cash advances aggregating more than $1,000 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 60 days before the order for relief under this title, are presumed to be nondischargeable; 'luxury goods or services' do not include goods or services reasonably acquired for the support or maintenance of the debtor or a dependent of the debtor; an extension of consumer credit under an open end credit plan is to be defined for purposes of this subparagraph as it is defined in the Consumer Credit Protection Act;".
 
-Subsec. (a)(5). Pub. L. 109–8, §215(1)(A), added par. (5) and struck out former par. (5) which read as follows: "to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouseor child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
+Subsec. (a)(5). Pub. L. 109–8, §215(1)(A), added par. (5) and struck out former par. (5) which read as follows: "to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that—
 
 &emsp;"(A) such debt is assigned to another entity, voluntarily, by operation of law, or otherwise (other than debts assigned pursuant to section 408(a)(3) of the Social Security Act, or any such debt which has been assigned to the Federal Government or to a State or any political subdivision of such State); or
 
@@ -408,7 +408,7 @@ Pub. L. 101–647, title XXXI, §3104, Nov. 29, 1990, 104 Stat. 4916, provided t
 
 "(a)
 
-Effective Date.—This title and the amendments made by this title \[amending this section and section 1328 of this title and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].
+Effective Date.—This title and the amendments made by this title \[amending this section and section 1328 of this title and enacting provisions set outas a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\].
 
 "(b)
 
@@ -444,7 +444,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount "600" was adjusted to "650" and, in subsec. (a)(2)(C)(i)(II), dollar amount "875" was adjusted to "925". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(2)(C)(i)(I), dollar amount "650" was adjusted to "675" and, in subsec. (a)(2)(C)(i)(II), dollar amount "925" was adjusted to "950". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(2)(C)(i)(I), dollar amount "600" was adjusted to "650" and, in subsec. (a)(2)(C)(i)(II), dollar amount "875" was adjusted to "925".
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (a)(2)(C)(i)(I), dollar amount "550" was adjusted to "600" and, in subsec. (a)(2)(C)(i)(II), dollar amount "825" was adjusted to "875".
 

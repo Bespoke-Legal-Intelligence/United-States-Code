@@ -18,7 +18,7 @@ Teleconsultation.—(1) The Secretary shall carry out an initiative of teleconsu
 
 (b)
 
-Teleconsultation Defined.—In this section, the term "teleconsultation" means the useby a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
+Teleconsultation Defined.—In this section, the term "teleconsultation" means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
 
 (Added Pub. L. 112–154, title I, §108(a)(1), Aug. 6, 2012, 126 Stat. 1174.)
 

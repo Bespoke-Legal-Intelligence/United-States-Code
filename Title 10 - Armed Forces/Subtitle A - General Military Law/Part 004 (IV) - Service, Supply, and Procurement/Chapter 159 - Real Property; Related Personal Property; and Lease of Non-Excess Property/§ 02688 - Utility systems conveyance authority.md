@@ -8,7 +8,7 @@ Conveyance Authority.—The Secretary of a military department may convey a util
 
 Selection of Conveyee.—(1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
 
-(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other thancompetitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
+(2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
 (3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
@@ -76,15 +76,11 @@ Utility System Defined.—(1) In this section, the term "utility system" means a
 
 (j)
 
-Construction of Utility Infrastructure After Conveyance of a Utility System.—(1) Upon conveyance of a utility system, the Secretary of a military department may convey additional utility infrastructure under the jurisdiction of the Secretary on a military installation to a utility or entity to which a utility system for the installation has been conveyed under subsection (a) if the Secretary determines that—
+Conveyance of Additional Utility Infrastructure After Conveyance of a Utility System.—(1) Upon conveyance of a utility system, the Secretary of a military department may convey additional utility infrastructure under the jurisdiction of the Secretary on a military installation to a utility or entity to which a utility system for the installation has been conveyed under subsection (a) if the Secretary determines that—
 
-&emsp;(A) the additional utility infrastructure was constructed or installed after the date of the conveyance of the utility system;
+&emsp;(A) the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
 
-&emsp;(B) the additional utility infrastructure cannot operate without being a part of the conveyed utility system;
-
-&emsp;(C) the additional utility infrastructure was planned and coordinated with the entity operating the conveyed utility system; and
-
-&emsp;(D) the military department receives as consideration an amount equal to the fair market value of the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
+&emsp;(B) the military department receives as consideration an amount for the utility infrastructure determined in the same manner as the consideration the Secretary could require under subsection (c) for a conveyance under subsection (a).
 
 (2) The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 
@@ -92,13 +88,21 @@ Construction of Utility Infrastructure After Conveyance of a Utility System.—(
 
 Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, §1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, §2813, Dec. 26, 2013, 127 Stat. 1014.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, §1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, §2813, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 114–92, div. B, title XXVIII, §2813, Nov. 25, 2015, 129 Stat. 1175.)
 
 #### Prior Provisions
 
 A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (j). Pub. L. 114–92, §2813(1), substituted "Conveyance of Additional" for "Construction of" in heading.
+
+Subsec. (j)(1). Pub. L. 114–92, §2813(2), redesignated subpar. (B) as (A) and substituted "utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and" for "utility system;", redesignated subpar. (D) as (B) and substituted "amount for" for "amount equal to the fair market value of", and struck out former subpars. (A) and (C) which read as follows:
+
+"(A) the additional utility infrastructure was constructed or installed after the date of the conveyance of the utility system;
+
+"(C) the additional utility infrastructure was planned and coordinated with the entity operating the conveyed utility system; and".
 
 <b>2013</b>—Subsec. (d)(2). Pub. L. 113–66 inserted at end "The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract."
 

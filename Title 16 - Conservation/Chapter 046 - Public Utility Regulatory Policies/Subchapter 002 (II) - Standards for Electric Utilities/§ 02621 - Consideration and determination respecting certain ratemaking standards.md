@@ -2,11 +2,11 @@
 
 #### (a) Consideration and determination
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of this section, and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Procedural requirements for consideration and determination
 
-(1) The consideration referred to in subsection (a) of this section shall be made after public notice and hearing. The determination referred to in subsection (a) of this section shall be—
+(1) The consideration referred to in subsection (a) shall be made after public notice and hearing. The determination referred to in subsection (a) shall be—
 
 &emsp;(A) in writing,
 
@@ -14,19 +14,19 @@ Each State regulatory authority (with respect to each electric utility for which
 
 &emsp;(C) available to the public.
 
-(2) Except as otherwise provided in paragraph (1), in the second sentence of section 2622(a) of this title, and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) of this section shall be those established by the State regulatory authority or the nonregulated electric utility.
+(2) Except as otherwise provided in paragraph (1), in the second sentence of section 2622(a) of this title, and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) shall be those established by the State regulatory authority or the nonregulated electric utility.
 
 #### (c) Implementation
 
 (1) The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—
 
-&emsp;(A) implement any such standard determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, or
+&emsp;(A) implement any such standard determined under subsection (a) to be appropriate to carry out the purposes of this chapter, or
 
 &emsp;(B) decline to implement any such standard.
 
-(2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) of this section which is determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
+(2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) which is determined under subsection (a) to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
 
-(3) If a State regulatory authority implements a standard established by subsection (d)(7) or (8) of this section, such authority shall—
+(3) If a State regulatory authority implements a standard established by subsection (d)(7) or (8), such authority shall—
 
 &emsp;(A) consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation or servicing of energy conservation, energy efficiency or other demand side management measures, and
 
@@ -76,7 +76,7 @@ The following Federal standards are hereby established:
 
 #### (9) Energy efficiency investments in power generation and supply
 
-&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, all cost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
+&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, all cost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatorychanges to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 
@@ -104,7 +104,7 @@ The following Federal standards are hereby established:
 
 #### (12) Fuel sources
 
-&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and toensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
+&emsp;Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.
 
 #### (13) Fossil fuel generation efficiency
 
@@ -118,7 +118,7 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;(i) time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically not changing more often than twice a year, based on the utility's cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;
 
-&emsp;&emsp;(ii) critical peak pricing whereby time-of-use prices are in effect except for certain peak days, when prices may reflect the costs of generating and/or purchasing electricity at the wholesale level and when consumers may receive additional discounts for reducing peak period energy consumption;
+&emsp;&emsp;(ii) critical peak pricing whereby time-of-use prices are in effect except for certain peak days, when prices may reflect the costs of generating and/or purchasing electricityat the wholesale level and when consumers may receive additional discounts for reducing peak period energy consumption;
 
 &emsp;&emsp;(iii) real-time pricing whereby electricity prices are set for a specific time period on an advanced or forward basis, reflecting the utility's cost of generating and/or purchasing electricity at the wholesale level, and may change as often as hourly; and
 
@@ -260,7 +260,7 @@ Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### State Authorities; Construction
 
@@ -282,7 +282,7 @@ Pub. L. 102–486, title I, §111(e), Oct. 24, 1992, 106 Stat. 2796, provided th
 
 &emsp;"(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
-> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs."
+> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of thecompetitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs."
 
 \[For provisions relating to further requirements as to subject matter contained in report under section 111(e) of Pub. L. 102–486, set out above, see section 115(e) of Pub. L. 102–486, set out as a note under section 3203 of Title 15, Commerce and Trade.\]
 

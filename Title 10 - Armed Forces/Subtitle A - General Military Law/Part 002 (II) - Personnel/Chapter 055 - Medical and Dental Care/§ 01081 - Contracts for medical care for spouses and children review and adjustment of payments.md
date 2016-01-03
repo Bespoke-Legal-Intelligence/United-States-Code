@@ -2,7 +2,7 @@
 
 Each plan under section 1079 of this title shall provide for a review, and if necessary an adjustment of payments, by the appropriate administering Secretary, not later than 120 days after the close of each year the plan is in effect.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V,§511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–375, title I, §104(a), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–94, title XII, §1268(5)(A), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, §19(9), Oct. 30, 1984, 98 Stat. 2870.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1449; amended Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–375, title I, §104(a), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–94, title XII, §1268(5)(A), Sept. 24, 1983, 97 Stat. 706; Pub. L. 98–557, §19(9), Oct. 30, 1984, 98 Stat. 2870.)
 
 Historical and Revision Notes
 
@@ -22,7 +22,7 @@ The words "Each plan under section 1079 of this title" are substituted for the w
 
 #### Prior Provisions
 
-A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to notification of elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to notification of elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat.1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

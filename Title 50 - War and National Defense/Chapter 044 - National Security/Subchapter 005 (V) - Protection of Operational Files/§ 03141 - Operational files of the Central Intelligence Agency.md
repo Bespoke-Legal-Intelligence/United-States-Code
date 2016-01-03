@@ -32,7 +32,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 (2) The inclusion of information from exempted operational files in files that are not exempted under subsection (a) of this section shall not affect the exemption under subsection (a) of this section of the originating operational files from search, review, publication, or disclosure.
 
-(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returned to exempted operational files for sole retention shall be subject to search and review.
+(3) Records from exempted operational files which have been disseminated to and referenced in files that are not exempted under subsection (a) of this section and which have been returnedto exempted operational files for sole retention shall be subject to search and review.
 
 #### (e) Supersedure of prior law
 

@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a) of this section, of whom—
+&emsp;&emsp;Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
 
 &emsp;&emsp;&emsp;(i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
 
@@ -92,7 +92,7 @@ A majority of the current membership of the Board shall constitute a quorum for 
 
 #### (e) Meetings
 
-The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b) of this section.
+The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Boardand that vacancy filled in accordance with subsection (b).
 
 #### (f) Reimbursement of expenses
 
@@ -110,7 +110,7 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 &emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
 

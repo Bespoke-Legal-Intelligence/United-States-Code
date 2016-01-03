@@ -2,9 +2,9 @@
 
 #### (a) Statement of purpose; sales or exchanges: terms and conditions
 
-Notwithstanding any other provision of law, any tribe, acting through its governing body, is authorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
+Notwithstanding any other provision of law, any tribe, acting through its governing body, isauthorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
 
-&emsp;(1) except as provided by subsection (c) of this section, the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
+&emsp;(1) except as provided by subsection (c), the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
 
 &emsp;(2) if the tribal land involved in an exchange is of greater or lesser value than the land for which it is being exchanged, the tribe may accept or give cash in such exchange in order to equalize the values of the property exchanged;
 
@@ -26,7 +26,7 @@ The Secretary may execute instruments of conveyance for less than fair market va
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–238, §3(1), substituted "(1) except as provided by subsection (c) of this section, the sale price" for "(1) the sale price".
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–238, §3(1), substituted "(1) except as provided by subsection (c), the sale price" for "(1) the sale price".
 
 Subsec. (c). Pub. L. 102–238, §3(2), added subsec. (c).
 

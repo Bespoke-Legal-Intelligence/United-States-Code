@@ -10,11 +10,11 @@ Each Federal agency is authorized and directed to cooperate with the Secretary, 
 
 #### (c) Contracts, leases, and cooperative agreements
 
-The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V of this chapter and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
+The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
 
 #### (d) Annual review; suspension of program
 
-The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
+The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include inthe annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 
 #### (e) Measures to alleviate impacts on strategic stocks
 
@@ -28,7 +28,7 @@ If the Secretary determines, based on a stock assessment under section 1386 of t
 
 Subsec. (e). Pub. L. 103–238, §7(a), added subsec. (e).
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–587 inserted "or subchapter V of this chapter" after "of this subchapter".
+<b>1992</b>—Subsec. (c). Pub. L. 102–587 inserted "or subchapter V" after "of this subchapter".
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–470 substituted "include in the annual report to the public and the Congress required under section 1373(f) of this title" for "forthwith submit to Congress".
 

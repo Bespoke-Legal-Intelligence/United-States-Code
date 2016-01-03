@@ -1,6 +1,6 @@
 ### §561. Records and papers and furniture transferred to Department
 
-The official records and papers on file in and pertaining exclusively to the business of any bureau, office, department, or branch of the public service in this Act transferred to the Department of Labor, together with the furniture inuse in such bureau, office, department, or branch of the public service, are transferred to the Department of Labor.
+The official records and papers on file in and pertaining exclusively to the business of any bureau, office, department, or branch of the public service in this Act transferred to the Department of Labor, together with the furniture in use in such bureau, office, department, or branch of the public service, are transferred to the Department of Labor.
 
 (Mar. 4, 1913, ch. 141, §5, 37 Stat. 737.)
 

@@ -10,7 +10,7 @@ Section enacted as part of the Department of the Interior and Related Agencies A
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–332 struck out "or payment of civil penalty" after "result of the forfeiture of a bond orother security", substituted "royalty and offshore minerals" for "leasing and royalty", and struck out "or imposition of the civil penalty" after "rendered necessary by the action or inaction that led to the forfeiture".
+<b>1994</b>—Pub. L. 103–332 struck out "or payment of civil penalty" after "result of the forfeiture of a bond or other security", substituted "royalty and offshore minerals" for "leasing and royalty", and struck out "or imposition of the civil penalty" after "rendered necessary by the action or inaction that led to the forfeiture".
 
 <b>1992</b>—Pub. L. 102–381 substituted "shall be credited to the leasing and royalty management account of the Minerals Management Service" for "shall be credited to this account".
 

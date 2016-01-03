@@ -16,7 +16,7 @@
 
 Pub. L. 95–515, §9, Oct. 25, 1978, 92 Stat. 1815, provided that:
 
-"(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct. 25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
+"(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct.25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
 
 "(b)(1) The provisions of this Act \[this chapter\] shall not apply to any interstate off-track wager which is accepted pursuant to a contract existing on May 1, 1978.
 

@@ -34,7 +34,7 @@ The Director shall submit to the Committee on Financial Services of the House of
 
 #### (b) Report on enforcement actions
 
-Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III of this chapter and describing the disposition of each request, which shall include statements of—
+Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III and describing the disposition of each request, which shall include statements of—
 
 &emsp;(1) the total number of requests made by the Director;
 
@@ -48,7 +48,7 @@ Not later than March 15 of each year, the Director shall submit to the Committee
 
 &emsp;&emsp;(B) the number of days between the date of the commencement and termination of the litigation; and
 
-&emsp;(5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
+&emsp;(5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendaryear, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
 
 (Pub. L. 102–550, title XIII, §1319B, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 103–325, title V, §529(c), Sept. 23, 1994, 108 Stat. 2267; Pub. L. 110–289, div. A, title I, §§1103(b), 1161(a)(6), July 30, 2008, 122 Stat. 2665, 2779.)
 

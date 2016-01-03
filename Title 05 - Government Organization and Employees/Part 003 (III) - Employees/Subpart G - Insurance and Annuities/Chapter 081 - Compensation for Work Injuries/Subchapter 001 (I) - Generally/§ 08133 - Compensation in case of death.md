@@ -10,7 +10,7 @@
 
 &emsp;(4) To the parents, if there is no widow, widower, or child, as follows—
 
-&emsp;&emsp;(A) 25 percent if one parent was wholly dependent on the employee at the time ofdeath and the other was not dependent to any extent;
+&emsp;&emsp;(A) 25 percent if one parent was wholly dependent on the employee at the time of death and the other was not dependent to any extent;
 
 &emsp;&emsp;(B) 20 percent to each if both were wholly dependent; or
 
@@ -112,7 +112,7 @@ July 4, 1966, Pub. L. 89–488, §3(c), 80 Stat. 252.
 
 In subsection (b), the words "Notwithstanding paragraph (3) of this subsection" are substituted for "Notwithstanding any other provision of this section" for clarity. The words "section 8101 of this title" are substituted for "section 10(M) of this Act" to reflect the codification of that section in title 5.
 
-In subsection (e), the words "is deemed" are substituted for "shall be considered to be". The words "minimum rate of basic pay for GS–2" and "maximum rate of basic pay for GS–15" are substituted for "lowest rate of basic compensation provided for grade 2 by the General Schedule of the Classification Act of 1949" and "highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of1949," respectively, for consistency of style and to reflect the codification of the Classification Act of 1949 in title 5. The words "under section 8114 of this title" are substituted for "as provided in section 12" to reflect the codification of that section in title 5.
+In subsection (e), the words "is deemed" are substituted for "shall be considered to be". The words "minimum rate of basic pay for GS–2" and "maximum rate of basic pay for GS–15" are substituted for "lowest rate of basic compensation provided for grade 2 by the General Schedule of the Classification Act of 1949" and "highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of 1949," respectively, for consistency of style and to reflect the codification of the Classification Act of 1949 in title 5. The words "under section 8114 of this title" are substituted for "as provided in section 12" to reflect the codification of that section in title 5.
 
 #### Amendments
 

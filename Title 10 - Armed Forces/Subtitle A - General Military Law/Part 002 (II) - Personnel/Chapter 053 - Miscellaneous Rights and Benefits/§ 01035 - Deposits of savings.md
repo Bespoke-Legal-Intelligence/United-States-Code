@@ -20,7 +20,7 @@
 
 &emsp;(3) The term "Persian Gulf conflict" means the period beginning on January 16, 1991, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, §1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L. 90–122, §1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, §1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, §310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, §639, Dec. 5, 1991, 105 Stat. 1384.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 89–538, §1(1), Aug. 14, 1966, 80 Stat. 347; Pub. L.90–122, §1, Nov. 3, 1967, 81 Stat. 361; Pub. L. 91–200, Feb. 26, 1970, 84 Stat. 16; Pub. L. 98–525, title XIV, §1405(20), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(3), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 102–25, title III, §310, Apr. 6, 1991, 105 Stat. 84; Pub. L. 102–190, div. A, title VI, §639, Dec. 5, 1991, 105 Stat. 1384.)
 
 Historical and Revision Notes
 
@@ -78,7 +78,7 @@ In subsection (c), the words "not less than $5" are omitted as surplusage.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted ", the Persian Gulf conflict, or a contingency operation" for "or during the Persian Gulf conflict" before period at end of second sentence and struck out at end "For purposes of this subsection, the Vietnam conflictbegins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law."
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted ", the Persian Gulf conflict, or a contingency operation" for "or during the Persian Gulf conflict" before period at end of second sentence and struck out at end "For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law."
 
 Pub. L. 102–25, §310(a), (c)(1), struck out ", as defined in section 551(2) of title 37," after "missing status", inserted "or during the Persian Gulf conflict" before period at end of second sentence, and substituted "May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law" for "the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam".
 
@@ -124,7 +124,7 @@ Sec. 2. The Secretary of the military department concerned, or his designee, sha
 
 "
 
-Sec. 3. All payments heretofore made which would, but for the fact of such payment, be payable under this Act are validated. However, if such a payment has been repaid to the United States, the fact of payment shall not affect entitlement under this Act."
+Sec. 3. All payments heretofore made which would, but for the fact of such payment, be payable under thisAct are validated. However, if such a payment has been repaid to the United States, the fact of payment shall not affect entitlement under this Act."
 
 #### Rates of Interest on Deposits Made Before Aug. 14, 1966
 
@@ -136,7 +136,7 @@ Pub. L. 89–538, §2, Aug. 14, 1966, 80 Stat. 347, provided that:
 
 #### Extension of Coverage to Public Health Service and Coast and Geodetic Survey Personnel; Rules and Regulations
 
-Pub. L. 89–538, §3(c), Aug. 14, 1966, 80 Stat. 348, provided that: "Regulations prescribed by the Secretary ofCommerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code."
+Pub. L. 89–538, §3(c), Aug. 14, 1966, 80 Stat. 348, provided that: "Regulations prescribed by the Secretary of Commerce and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] under subsections (a) and (b) \[extending savings deposits benefits to commissioned officers of the Public Health Service and the Coast and Geodetic Survey (now the National Oceanic and Atmospheric Administration), respectively\] shall be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of title 10, United States Code."
 
 #### Public Health Service
 

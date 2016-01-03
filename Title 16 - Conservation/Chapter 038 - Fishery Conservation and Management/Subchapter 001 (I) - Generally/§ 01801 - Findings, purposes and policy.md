@@ -32,7 +32,7 @@ The Congress finds and declares the following:
 
 It is therefore declared to be the purposes of the Congress in this chapter—
 
-&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
+&emsp;(1) to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fisheryresources of the United States, by exercising (A) sovereign rights for the purposes of exploring, exploiting, conserving, and managing all fish, within the exclusive economic zone established by Presidential Proclamation 5030, dated March 10, 1983, and (B) exclusive fishery management authority beyond the exclusive economic zone over such anadromous species and Continental Shelf fishery resources;
 
 &emsp;(2) to support and encourage the implementation and enforcement of international fishery agreements for the conservation and management of highly migratory species, and to encourage the negotiation and implementation of additional such agreements as necessary;
 
@@ -50,7 +50,7 @@ It is therefore declared to be the purposes of the Congress in this chapter—
 
 It is further declared to be the policy of the Congress in this chapter—
 
-&emsp;(1) to maintain without change the existing territorial or other ocean jurisdiction of the United States for all purposes other than theconservation and management of fishery resources, as provided for in this chapter;
+&emsp;(1) to maintain without change the existing territorial or other ocean jurisdiction of the United States for all purposes other than the conservation and management of fishery resources, as provided for in this chapter;
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
@@ -82,7 +82,7 @@ Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under 
 
 Subsec. (a)(12). Pub. L. 109–479, §402, added par. (12).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: "As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened."
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–297, §101(1), added par. (2) and struck out former par. (2) which read as follows: "As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point wheretheir survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened."
 
 Subsec. (a)(6). Pub. L. 104–297, §101(2), inserted "to facilitate long-term protection of essential fish habitats," after "to insure conservation,".
 
@@ -138,6 +138,10 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–81, §1, Nov. 5, 2015, 129 Stat. 649, provided that: "This Act \[see Tables for classification\] may be cited as the 'Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–183, §1, Oct. 5, 2012, 126 Stat. 1422, provided that: "This Act \[enacting section 1827a of this title and provisions set out as a note under section 1827a of this title\] may be cited as the 'Billfish Conservation Act of 2012'."
@@ -148,7 +152,7 @@ Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: 
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the 'Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006'."
+Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be citedas the 'Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006'."
 
 #### Short Title of 1996 Amendment
 
@@ -172,7 +176,7 @@ Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: "This Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, ForeignRelations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
+Pub. L. 96–561, title II, §201, Dec. 22, 1980, 94 Stat. 3287, provided that: "This title \[enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22\] may be cited as the 'American Fisheries Promotion Act'."
 
 #### Short Title of 1977 Amendment
 
@@ -198,7 +202,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent p
 
 (c) fostering sound aquatic conservation and restoration endeavors to benefit recreational fisheries;
 
-(d) ensuring that recreational fishing shall be managed as a sustainable activity in national wildlife refuges, national parks, national monuments, national marine sanctuaries, marine protected areas, or any other relevant conservation or management areas or activities under any Federal authority, consistent with applicable law;
+(d) ensuring that recreational fishing shall be managed as a sustainable activity in national wildlife refuges, national parks, national monuments, national marine sanctuaries, marine protected areas, or anyother relevant conservation or management areas or activities under any Federal authority, consistent with applicable law;
 
 (e) providing access to and promoting awareness of opportunities for public participation and enjoyment of U.S. recreational fishery resources;
 

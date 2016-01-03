@@ -12,7 +12,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(4) The term "Commission" means the Federal Communications Commission.
 
-&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorizedin title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
+&emsp;(5) The term "Corporation" means the Communications Satellite Corporation authorized in title III of the Communications Satellite Act of 1962 (47 U.S.C. 731 et seq.).
 
 #### (b) Findings
 
@@ -48,11 +48,15 @@ The NTIA shall seek to advance the following policies:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original, "this title", meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original, "this title", meaning title I of Pub. L. 102–538,Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Title III of the Act is classified generally to subchapter III (§731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under section 305 of this title.
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–74, title X, §1001, Nov. 2, 2015, 129 Stat. 621, provided that: "This title \[amending sections 309, 923, and 928 of this title and enacting provisions set out as a note under section 921 of this title\] may be cited as the 'Spectrum Pipeline Act of 2015'."
 
 #### Short Title of 2007 Amendment
 
@@ -112,7 +116,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1985, by Ex. Ord. No. 12454, Dec. 29, 1983, 49 F.R. 343.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended untilSept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -140,5 +144,7 @@ Term of the President's National Security Telecommunications Advisory Committee 
 
 Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's National Security Telecommunications Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

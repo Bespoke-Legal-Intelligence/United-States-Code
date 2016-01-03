@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(G) The estimated resources needed to effectively implement the programs and practices identified in the report developed in this section over a 5-year period.
 
-&emsp;&emsp;(H) The impact of requirements under this Act (including amendments made by thisAct) on certified organic farms and facilities (as defined in section 350d of this title.<sup>1</sup>
+&emsp;&emsp;(H) The impact of requirements under this Act (including amendments made by this Act) on certified organic farms and facilities (as defined in section 350d of this title.<sup>1</sup>
 
 &emsp;&emsp;(I) Specific efforts taken pursuant to the agreements authorized under section 350j(c) of this title (as added by section 201),<sup>2</sup> together with, as necessary, a description of any additional authorities necessary to improve seafood safety.
 
@@ -46,7 +46,7 @@ The report developed under subsection (a)(1) shall provide a description of meth
 
 #### (d) Information technology
 
-The report developed under subsection (a)(1) shall include a description of such information technology systems as may be needed to identify risks and receive data from multiple sources, including foreign governments, State, local, and tribal governments, other Federal agencies, the food industry, laboratories, laboratory networks, and consumers. The information technology systems that the Secretary describes shall also provide for the integration of the facility registration system under section 350d of this title, and the prior notice system under section 381(m) of this title with other information technology systems that are used by the Federal Government for the processing of food offered for import into the United States.
+The report developed under subsection (a)(1) shall include a description of such information technology systems as may be needed to identify risks and receive data from multiple sources, including foreign governments, State, local, and tribal governments, other Federal agencies, the food industry, laboratories, laboratory networks, and consumers. The information technology systems that the Secretary describes shall also provide for the integration of the facility registration system under section 350d ofthis title, and the prior notice system under section 381(m) of this title with other information technology systems that are used by the Federal Government for the processing of food offered for import into the United States.
 
 #### (e) Automated risk assessment
 

@@ -76,13 +76,19 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946; Pub. L. 112–30, title I, §142(a)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(a)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(2)(B), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(2)(B), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(B), Dec. 4, 2015, 129 Stat. 1727.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 114–94, div. C, title XXXI, §31102(a)(2)(B), (f), Dec. 4, 2015, 129 Stat. 1727, 1728, provided that, effective Oct. 1, 2016, subsection (c) of this section is amended by striking "October 1, 2016" and inserting "October 1, 2022". See 2015 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–94 substituted "October 1, 2022" for "October 1, 2016".
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–141 substituted "October 1, 2016" for "July 1, 2012".
 
@@ -120,6 +126,10 @@ Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end "No tax shall be im
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under section 4041 of this title.
+
 #### Effective and Termination Dates of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
@@ -140,7 +150,7 @@ Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XIV, §1401(b), Aug. 5, 1997, 111 Stat. 1046, provided that: "The amendments made bysubsection (a) \[amending this section and section 4003 of this title\] shall apply to installations on vehicles sold after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XIV, §1401(b), Aug. 5, 1997, 111 Stat. 1046, provided that: "The amendments made by subsection (a) \[amending this section and section 4003 of this title\] shall apply to installations on vehicles sold after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Pub. L. 105–34, title XIV, §1402(c), Aug. 5, 1997, 111 Stat. 1046, provided that: "The amendments made by this section \[amending this section and section 4052 of this title\] shall take effect on January 1, 1998."
 

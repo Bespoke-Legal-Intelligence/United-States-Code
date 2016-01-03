@@ -44,7 +44,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word "navigate" is omitted as being included in the definition of "operate aircraft" in section 40102(a) of the revised title.
 
-In subsection (a), the words "Except as provided in subsection (b) of this section" are added for clarity. The words "a person may . . . an aircraft only when theaircraft is registered under section 44103 of this title" are substituted for "It shall be unlawful . . . any aircraft eligible for registration if such aircraft is not registered by its owner as provided in this section, or . . . any aircraft not eligible for registration" for clarity and to eliminate unnecessary words.
+In subsection (a), the words "Except as provided in subsection (b) of this section" are added for clarity. The words "a person may . . . an aircraft only when the aircraft is registered under section 44103 of this title" are substituted for "It shall be unlawful . . . any aircraft eligible for registration if such aircraft is not registered by its owner as provided in this section, or . . . any aircraft not eligible for registration" for clarity and to eliminate unnecessary words.
 
 In subsection (b), before clause (1), the words "A person may operate an aircraft in the United States that is not registered" are substituted for "may be operated and navigated without being so registered" and "may . . . permit the operation and navigation of aircraft without registration" for clarity. In clause (2), the words "identified in a way" are substituted for "identified, by the agency having jurisdiction over them, in a manner" to eliminate unnecessary words.
 
@@ -86,7 +86,7 @@ Economic analysis.—The Administrator shall not be required to prepare an econo
 
 "(d)
 
-Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Code of Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
+Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Codeof Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
 
 #### Cape Town Treaty; Findings and Purpose
 

@@ -156,13 +156,115 @@ Supporting Research and Analysis.—In support of the proceeding required under 
 
 Report.—If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision."
 
+#### Real-Time Emergency Response Information
+
+Pub. L. 114–94, div. A, title VII, §7302, Dec. 4, 2015, 129 Stat. 1594, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with appropriate Federal agencies, shall issue regulations that—
+
+&emsp;"(1) require a Class I railroad transporting hazardous materials—
+
+&emsp;&emsp;"(A) to generate accurate, real-time, and electronic train consist information, including—
+
+&emsp;&emsp;&emsp;"(i) the identity, quantity, and location of hazardous materials on a train;
+
+&emsp;&emsp;&emsp;"(ii) the point of origin and destination of the train;
+
+&emsp;&emsp;&emsp;"(iii) any emergency response information or resources required by the Secretary; and
+
+&emsp;&emsp;&emsp;"(iv) an emergency response point of contact designated by the Class I railroad; and
+
+&emsp;&emsp;"(B) to enter into a memorandum of understanding with each applicable fusion center to provide the fusion center with secure and confidential access to the electronic train consist information described in subparagraph (A) for each train transporting hazardous materials in the jurisdiction of the fusion center;
+
+&emsp;"(2) require each applicable fusion center to provide the electronic train consist information described in paragraph (1)(A) to State and local first responders, emergency response officials, and law enforcement personnel that are involved in the response to or investigation of an accident, incident, or public health or safety emergency involving the rail transportation of hazardous materials and that request such electronic train consist information;
+
+&emsp;"(3) require each Class I railroad to provide advanced notification and information on high-hazard flammable trains to each State emergency response commission, consistent with the notification content requirements in Emergency Order Docket No. DOT–OST–2014–0067, including—
+
+&emsp;&emsp;"(A) a reasonable estimate of the number of implicated trains that are expected to travel, per week, through each county within the applicable State;
+
+&emsp;&emsp;"(B) updates to such estimate prior to making any material changes to any volumes or frequencies of trains traveling through a county;
+
+&emsp;&emsp;"(C) identification and a description of the Class 3 flammable liquid being transported on such trains;
+
+&emsp;&emsp;"(D) applicable emergency response information, as required by regulation;
+
+&emsp;&emsp;"(E) identification of the routes over which such liquid will be transported; and
+
+&emsp;&emsp;"(F) a point of contact at the Class I railroad responsible for serving as the point of contact for State emergency response centers and local emergency responders related to the Class I railroad's transportation of such liquid.
+
+&emsp;"(4) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (3), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission.
+
+&emsp;"(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
+
+&emsp;"(6) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and
+
+&emsp;"(7) allow each Class I railroad to enter into a memorandum of understanding with any Class II railroad or Class III railroad that operates trains over the Class I railroad's line to incorporate the Class II railroad or Class III railroad's train consist information within the existing framework described in paragraph (1).
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Applicable fusion center.—The term 'applicable fusion center' means a fusion center with responsibility for a geographic area in which a Class I railroad operates.
+
+&emsp;"(2)
+
+Class i railroad; class ii railroad; class iii railroad.—The terms 'Class I railroad', 'Class II railroad', and 'Class III railroad' have the meaning given those terms in section 20102 of title 49, United States Code.
+
+&emsp;"(3)
+
+Class 3 flammable liquid.—The term 'Class 3 flammable liquid' has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations.
+
+&emsp;"(4)
+
+Fusion center.—The term 'fusion center' has the meaning given the term in section 210A(j) of the Homeland Security Act of 2002 (6 U.S.C. 124h(j)).
+
+&emsp;"(5)
+
+Hazardous material.—The term 'hazardous material' means a substance or material the Secretary designates as hazardous under section 5103 of title 49, United States Code.
+
+&emsp;"(6)
+
+High-hazard flammable train.—The term 'high-hazard flammable train' means a single train transporting 20 or more tank cars loaded with a Class 3 flammable liquid in a continuous block or a single train transporting 35 or more tank cars loaded with a Class 3 flammable liquid throughout the train consist.
+
+&emsp;"(7)
+
+Train consist.—The term 'train consist' includes, with regard to a specific train, the number of rail cars and the commodity transported by each rail car.
+
+"(c)
+
+Savings Clause.—Nothing in this section may be construed to prohibit a Class I railroad from voluntarily entering into a memorandum of understanding, as described in subsection (a)(1)(B), with a State emergency response commission or an entity representing or including first responders, emergency response officials, and law enforcement personnel."
+
+#### Alerters
+
+Pub. L. 114–94, div. A, title XI, §11407, Dec. 4, 2015, 129 Stat. 1684, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall promulgate a rule to require a working alerter in the controlling locomotive of each passenger train in intercity rail passenger transportation (as defined in section 24102 of title 49, United States Code) or commuter rail passenger transportation (as defined in section 24102 of title 49, United States Code).
+
+"(b)
+
+Rulemaking.—
+
+&emsp;"(1)
+
+In general.—The Secretary may promulgate a rule to specify the essential functionalities of a working alerter, including the manner in which the alerter can be reset.
+
+&emsp;"(2)
+
+Alternate practice or technology.—The Secretary may require or allow a technology or practice in lieu of a working alerter if the Secretary determines that the technology or practice would achieve an equivalent or greater level of safety in enhancing or ensuring appropriate locomotive control."
+
 #### Locomotive Cab Studies
 
 Pub. L. 110–432, div. A, title IV, §405, Oct. 16, 2008, 122 Stat. 4885, provided that:
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance of such employees' duties. The study shall consider the prevalence of the use of such devices.
+In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in section 20102(4) of title 49, United States Code), during the performance ofsuch employees' duties. The study shall consider the prevalence of the use of such devices.
 
 "(b)
 
@@ -180,19 +282,19 @@ Authority.—Based on the conclusions of the study required under (a), the Secre
 
 #### Tunnel Information
 
-Pub. L. 110–432, div. A, title IV, §414, Oct. 16, 2008, 122 Stat. 4889, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 16, 2008\], each railroad carrier shall, with respect to each of its tunnels which—
+Pub. L. 110–432, div. A, title IV, §414, Oct. 16, 2008, 122 Stat. 4889, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(7), Dec. 4, 2015, 129 Stat. 1678, provided that: "Not later than 120 days after the date of enactment of this Act \[Oct. 16, 2008\], each railroad carrier shall, with respect to each of its tunnels which—
 
 &emsp;"(1) are longer than 1000 feet and located under a city with a population of 400,000 or greater; or
 
-&emsp;"(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in parts \[probably should be "sections"\] 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year,
+&emsp;"(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year,
 
-> maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in part \[probably should be "section"\] 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests."
+> maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in section 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests."
 
 \[For definition of "railroad carrier", as used in section 414 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 #### Railroad Bridge Safety Assurance
 
-Pub. L. 110–432, div. A, title IV, §417, Oct. 16, 2008, 122 Stat. 4890, provided that:
+Pub. L. 110–432, div. A, title IV, §417, Oct. 16, 2008, 122 Stat. 4890, as amended by Pub. L. 114–94, div. A, title XI, §11405, Dec. 4, 2015, 129 Stat. 1682, provided that:
 
 "(a)
 
@@ -230,7 +332,31 @@ Use of Bridge Management Programs Required.—The Secretary shall instruct bridg
 
 "(d)
 
-Review of Data.—The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts."
+Review of Data.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.
+
+&emsp;"(2)
+
+Availability of bridge condition.—
+
+&emsp;&emsp;"(A)
+
+In general.—A State or political subdivision of a State may file a request with the Secretary for a public version of a bridge inspection report generated under subsection (b)(5) for a bridge located in such State or political subdivision's jurisdiction.
+
+&emsp;&emsp;"(B)
+
+Public version of report.—If the Secretary determines that the request is reasonable, the Secretary shall require a railroad to submit a public version of the most recent bridge inspection report, such as a summary form, for a bridge subject to a request under subparagraph (A). The public version of a bridge inspection report shall include the date of last inspection, length of bridge, location of bridge, type of bridge, type of structure, feature crossed by bridge, and railroad contact information, along with a general statement on the condition of the bridge.
+
+&emsp;&emsp;"(C)
+
+Provision of report.—The Secretary shall provide to a State or political subdivision of a State a public version of a bridge inspection report submitted under subparagraph (B).
+
+&emsp;&emsp;"(D)
+
+Technical assistance.—The Secretary, upon the reasonable request of State or political subdivision of a State, shall provide technical assistance to such State or political subdivision of a State to facilitate the understanding of a bridge inspection report."
 
 \[For definitions of "Secretary", "railroad", and "railroad carrier", as used in section 417 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

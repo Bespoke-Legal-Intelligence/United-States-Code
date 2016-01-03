@@ -44,5 +44,5 @@ For the purpose of carrying out this chapter, the Commission may—
 
 #### Short Title
 
-Pub. L. 96–430, title II, §201, Oct. 10, 1980, 94 Stat. 1846, provided that: "This title \[enacting this chapter\] maybe cited as the 'National Center for the Study of Afro-American History and Culture Act'."
+Pub. L. 96–430, title II, §201, Oct. 10, 1980, 94 Stat. 1846, provided that: "This title \[enacting this chapter\] may be cited as the 'National Center for the Study of Afro-American History and Culture Act'."
 

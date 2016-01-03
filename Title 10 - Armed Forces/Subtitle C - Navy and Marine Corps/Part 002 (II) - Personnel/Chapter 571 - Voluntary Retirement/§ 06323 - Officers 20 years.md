@@ -88,7 +88,7 @@ Subsections (c) and (e) state rules, formerly stated in section 6325, with respe
 
 Subsection (d) states a rule, formerly stated in section 6325, with respect to warrant officers retired under this section.
 
-In subsections (c) and (e), the words "Unless otherwise entitled to a higher grade" and "Unless otherwiseentitled to higher pay" are substituted for 34 App.:410c(b).
+In subsections (c) and (e), the words "Unless otherwise entitled to a higher grade" and "Unless otherwise entitled to higher pay" are substituted for 34 App.:410c(b).
 
 In subsection (d), the second and third provisos of 34 App.:410b, relating to officers whose basic pay is not based on years of service, is omitted as obsolete. Under the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.), the basic pay of all officers is based on years of service. The subsection is worded to conform to the terminology of the Career Compensation Act of 1949 and to make clear the fact that the amount of retired pay is not permanently fixed at the time of retirement but is subject to change when rates of basic pay are changed, as provided in 34 App.:410q.
 

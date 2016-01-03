@@ -16,7 +16,7 @@ The Secretary of the Interior is authorized to grant easements for the purpose o
 
 #### References in Text
 
-Herein, referred to in subsec. (a), means act May 17, 1954, which is generally classified to sections 450jj to 450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in subsec. (a), means act May 17, 1954, which is generally classified to sections 450jj to450jj–9 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

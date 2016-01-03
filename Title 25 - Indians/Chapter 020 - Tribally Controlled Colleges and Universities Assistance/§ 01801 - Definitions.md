@@ -24,7 +24,7 @@
 
 &emsp;(9) "satisfactory progress toward a degree or certificate" has the meaning given to such term by the institution at which the student is enrolled.
 
-(b) The following conditions shall apply for the purpose of determining the Indian studentcount pursuant to subsection (a)(8) of this section:
+(b) The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8):
 
 &emsp;(1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 
@@ -94,7 +94,7 @@ Pub. L. 99–428, §1, Sept. 30, 1986, 100 Stat. 982, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 95–471, §1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: "This Act \[enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 of this title\] may be cited as the 'Tribally Controlled Colleges and Universities Assistance Act of 1978'."
+Pub. L. 95–471, §1, Oct. 17, 1978, 92 Stat. 1325, as amended by Pub. L. 105–244, title IX, §901(b)(1), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(k)(1), Aug. 14, 2008, 122 Stat. 3465, provided that: "This Act \[enacting this chapter and section 640c–1 of this title, amending section 640c of this title, and enacting provisions set out as notes under sections 640a and 640c–1 ofthis title\] may be cited as the 'Tribally Controlled Colleges and Universities Assistance Act of 1978'."
 
 Pub. L. 95–471, title IV, §401, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: "This title \[enacting subchapter III of this chapter\] may be cited as the 'Tribal Economic Development and Technology Related Education Assistance Act of 1990'."
 

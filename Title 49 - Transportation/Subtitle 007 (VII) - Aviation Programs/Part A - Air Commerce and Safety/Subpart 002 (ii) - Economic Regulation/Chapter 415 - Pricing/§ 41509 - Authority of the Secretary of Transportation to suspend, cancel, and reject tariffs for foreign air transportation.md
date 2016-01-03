@@ -2,7 +2,7 @@
 
 (a)
 
-Cancellation and Rejection.—(1) On the initiative of the Secretary of Transportation or on a complaint filed with the Secretary, the Secretary may conduct a hearing to decide whether a price for foreign air transportation contained in an existing or newly filed tariff of an air carrier or foreign air carrier, a classification, rule, or practice affecting that price, or the value of the transportation provided under that price, is lawful. The Secretary may begin the hearing at once and without an answer or another formal pleading by the air carrier or foreign air carrier, but only after reasonable notice. If, after the hearing, the Secretary decides that the price, classification, rule, or practice is or will be unreasonable or unreasonably discriminatory, the Secretary may cancel or reject the tariff and prevent the use of the price, classification, rule, or practice.
+Cancellation and Rejection.—(1) On the initiative of the Secretary of Transportation or on a complaint filed with the Secretary, the Secretary may conduct a hearing to decide whether a price for foreign air transportation contained in an existing or newly filed tariff of an air carrier or foreign air carrier, a classification, rule, or practice affecting that price, or the value of the transportation provided under that price, is lawful. The Secretary may begin thehearing at once and without an answer or another formal pleading by the air carrier or foreign air carrier, but only after reasonable notice. If, after the hearing, the Secretary decides that the price, classification, rule, or practice is or will be unreasonable or unreasonably discriminatory, the Secretary may cancel or reject the tariff and prevent the use of the price, classification, rule, or practice.
 
 (2) With or without a hearing, the Secretary may cancel or reject an existing or newly filed tariff of a foreign air carrier and prevent the use of a price, classification, rule, or practice when the Secretary decides that the cancellation or rejection is in the public interest.
 
@@ -58,7 +58,7 @@ Response to Refusal of Foreign Country To Allow Air Carrier To Charge a Price.�
 
 &emsp;&emsp;(B) may order the foreign air carrier to charge, during the suspension periods, prices that are the same as those contained in a tariff (designated by the Secretary) of an air carrier filed and published under section 41504 of this title for foreign air transportation to the foreign country; and
 
-&emsp;(2) a foreign air carrier may continue to provide foreign air transportation to the foreign country only if the government or aeronautical authority of the foreign country allows an air carrier to start or continue foreign air transportation to the foreign country at the prices designated by the Secretary.
+&emsp;(2) a foreign air carrier may continue to provide foreign air transportation to the foreign country only if the government or aeronautical authority of the foreign country allows anair carrier to start or continue foreign air transportation to the foreign country at the prices designated by the Secretary.
 
 (e)
 
@@ -80,7 +80,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, "standard foreign fare
 
 (f)
 
-Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling,or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
+Submission of Orders to President.—The Secretary shall submit to the President an order made under this section suspending, canceling, or rejecting a price for foreign air transportation, and an order rescinding the effectiveness of such an order, before publishing the order. Not later than 10 days after its submission, the President may disapprove the order on finding disapproval is necessary for United States foreign policy or national defense reasons.
 
 (g)
 

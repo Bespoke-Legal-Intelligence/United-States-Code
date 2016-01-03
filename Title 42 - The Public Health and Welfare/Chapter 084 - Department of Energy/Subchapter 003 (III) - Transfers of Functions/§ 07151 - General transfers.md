@@ -18,7 +18,7 @@ For assignment of certain emergency preparedness functions to the Secretary of E
 
 Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, as amended by Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073, provided:
 
-By virtue of the authority vested in me as President of the United States of America, in order to reflect the responsibilities of the Secretary of Energy for the performance of certain functions previously vested in other officers of the United States by direction of the President and subsequently transferred to the Secretary of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 et seq.) it is hereby ordered as follows:
+By virtue of the authority vested in me as President of the United States of America, in order to reflect theresponsibilities of the Secretary of Energy for the performance of certain functions previously vested in other officers of the United States by direction of the President and subsequently transferred to the Secretary of Energy pursuant to the Department of Energy Organization Act (91 Stat. 565; 42 U.S.C. 7101 et seq.) it is hereby ordered as follows:
 
 Section 1. <i>Functions of the Federal Energy Administration</i>. In accordance with the transfer of all functions vested by law in the Federal Energy Administration, or the Administrator thereof, to the Secretary of Energy pursuant to Section 301(a) of the Department of Energy Organization Act \[subsec. (a) of this section\], hereinafter referred to as the Act, the Executive Orders and Proclamations referred to in this Section, which conferred authority or responsibility upon the Administrator of the Federal Energy Administration, are amended as follows:
 
@@ -52,7 +52,7 @@ Sec. 4. <i>Functions of the Atomic Energy Commission and the Energy Research and
 
 (3) Executive Order No. 11902 of February 2, 1976 \[formerly set out as a note under 42 U.S.C. 5841\], relating to export licensing policy for nuclear materials and equipment, is amended by substituting "the Secretary of Energy" for "the Administrator of the United States Energy Research and Development Administration, hereinafter referred to as the Administrator" in Section 1(b) and for the "Administrator" in Sections 2 and 3.
 
-(4) \[Former\] Executive Order No. 11905, as amended, relating to foreign intelligence activities, is further amended by deleting "Energy Research and Development Administration", "Administrator or the Energy Research and Development Administration", and "ERDA" wherever those terms appear and substituting "Department of Energy", "Secretary of Energy", and "DOE" respectively.
+(4) \[Former\] Executive Order No. 11905, as amended, relating to foreign intelligence activities, is further amended by deleting "Energy Research and Development Administration", "Administrator or the Energy Research and Development Administration", and"ERDA" wherever those terms appear and substituting "Department of Energy", "Secretary of Energy", and "DOE" respectively.
 
 (5) Section 3(2) of each of the following Executive Orders is amended by substituting "Department of Energy" for "Energy Research and Development Administration":
 
@@ -68,7 +68,7 @@ Sec. 4. <i>Functions of the Atomic Energy Commission and the Energy Research and
 
 Sec. 5. <i>Special Provisions Relating to Emergency Preparedness and Mobilization Functions.</i>
 
-(a) Executive Order No. 10480, as amended \[formerly set out as a note under 50 U.S.C. App. 2153\], is further amended by adding thereto the following new Sections:
+(a) Executive Order No. 10480, as amended \[formerly set out as a note under former 50 U.S.C. App. 2153\], is further amended by adding thereto the following new Sections:
 
 "Sec. 609. Effective October 1, 1977, the Secretary of Energy shall exercise all authority and discharge all responsibility herein delegated to or conferred upon (a) the Atomic Energy Commission, and (b) with respect to petroleum, gas, solid fuels and electric power, upon the Secretary of the Interior.
 

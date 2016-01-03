@@ -84,7 +84,7 @@ Subsec. (b). Pub. L. 99–224, §1(a)(3), added par. (5).
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–359, §1(1), substituted "agency" for "executive agency" in provisions preceding cl. (1) and in cl. (2) preceding subcl. (A).
 
-Subsec. (b). Pub. L. 93–359, §1(1)–(4), substituted "agency" for "executive agency" in provisions preceding cl. (1), inserted "except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden," immediately following the designation "(2)" in cl. (2) and immediately following the designation "(3)" in cl. (3), struck out "or" at end of cl. (2), substituted "October 2, 1972, whichever is later; or" for "the effective date of the amendment authorizing the waiver of allowances, whichever is later" in cl. (3)and struck out the period at end of cl. (3), and added cl. (4).
+Subsec. (b). Pub. L. 93–359, §1(1)–(4), substituted "agency" for "executive agency" in provisions preceding cl. (1), inserted "except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden," immediately following the designation "(2)" in cl. (2) and immediately following the designation "(3)" in cl. (3), struck out "or" at end of cl. (2), substituted "October 2, 1972, whichever is later; or" for "the effective date of the amendment authorizing the waiver of allowances, whichever is later" in cl. (3) and struck out the period at end of cl. (3), and added cl. (4).
 
 Subsec. (g). Pub. L. 93–359, §1(5), added subsec. (g).
 

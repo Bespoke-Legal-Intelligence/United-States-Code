@@ -10,7 +10,7 @@ The Commission shall maintain a continuous review of Restricted Data and of any 
 
 #### (c) Joint determination on atomic weapons; Presidential determination on disagreement
 
-In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defense jointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
+In the case of Restricted Data which the Commission and the Department of Defense jointly determine to relate primarily to the military utilization of atomic weapons, the determination that such data may be published without constituting an unreasonable risk to the common defense and security shall be made by the Commission and the Department of Defensejointly, and if the Commission and the Department of Defense do not agree, the determination shall be made by the President.
 
 #### (d) Removal from Restricted Data category
 
@@ -72,13 +72,13 @@ The Central Intelligence Agency is hereby authorized to communicate for intellig
 
 (i) by the President, pursuant to the provisions of the Act, or
 
-(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance with the terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
+(ii) by the Atomic Energy Commission and the Department of Defense, jointly pursuant to the provisions of Executive Order No. 10841 \[set out as a note under section 2153 of this title\], to be transmissible under the agreement for cooperation involved. Such communications shall be effected through mechanisms established by the Central Intelligence Agency in accordance withthe terms and conditions of the agreement for cooperation involved: <i>Provided</i>, that no such communication shall be made by the Central Intelligence Agency until the proposed communication has been authorized either in accordance with procedures adopted by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by those agencies, or in accordance with procedures approved by the Atomic Energy Commission and the Department of Defense and applicable to conduct of programs for cooperation by the Central Intelligence Agency.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 10899
 
-Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all suchfunctions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 #### Ex. Ord. No. 11057. Communication of Restricted Data by Department of State
 

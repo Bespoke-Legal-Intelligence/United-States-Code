@@ -32,5 +32,5 @@ Dec. 9, 1985, Pub. L. 99–172, §§1, 16, 99 Stat. 1020, 1023.
 
 &nbsp;
 
-In subsection (a), the words "incorporated in Ohio" are substituted for "organized under the laws of the State of Ohio" for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words "incorporated in Ohio" are substituted for "organized under the laws of theState of Ohio" for consistency in the revised title and to eliminate unnecessary words.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Inspector General of the Nuclear Regulatory Commission shall serve as the Inspector General of the Board, in accordance with the Inspector General Act of 1978 (5 U.S.C. App.).
+The Inspector General of the Nuclear Regulatory Commission shall serve as the InspectorGeneral of the Board, in accordance with the Inspector General Act of 1978 (5 U.S.C. App.).
 
 #### (b) Budget
 

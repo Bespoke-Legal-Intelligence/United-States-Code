@@ -6,7 +6,7 @@ Within 120 days of July 29, 1975, the Secretary shall appoint and organize a Nat
 
 #### (b) Membership
 
-The Council shall consist of fifteen members, at least twelve of whom shall be members of the governing boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> of this title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
+The Council shall consist of fifteen members, at least twelve of whom shall be members of thegoverning boards of migrant health centers or other entities assisted under section 254b <sup>1</sup> of this title. Of such twelve members who are members of such governing boards, at least nine shall be chosen from among those members of such governing boards who are being served by such centers or grantees and who are familiar with the delivery of health care to migratory agricultural workers and seasonal agricultural workers. The remaining three Council members shall be individuals qualified by training and experience in the medical sciences or in the administration of health programs.
 
 #### (c) Terms of office
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by Pub. L. 94–278, title III, §301(b), Apr.22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978."
+Pub. L. 93–348, title II, §211(b), July 12, 1974, 88 Stat. 352, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978."
 
 #### Effective Date of 1972 Amendment
 

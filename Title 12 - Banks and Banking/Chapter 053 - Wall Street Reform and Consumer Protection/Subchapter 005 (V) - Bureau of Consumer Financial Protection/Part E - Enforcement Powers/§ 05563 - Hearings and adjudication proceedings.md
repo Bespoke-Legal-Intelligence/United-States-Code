@@ -18,7 +18,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (B) Content of notice
 
-&emsp;&emsp;The notice under subparagraph (A) shall contain a statement of the facts constituting the alleged violation or violations, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist should issue against the covered person or service provider, such hearing to be held not earlier than 30 days nor later than 60 days after the date of service of such notice, unless an earlier or a later date is set by the Bureau, at the request of any party so served.
+&emsp;&emsp;The notice under subparagraph (A) shall contain a statement of the facts constituting the alleged violation or violations, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist should issue against thecovered person or service provider, such hearing to be held not earlier than 30 days nor later than 60 days after the date of service of such notice, unless an earlier or a later date is set by the Bureau, at the request of any party so served.
 
 #### (C) Consent
 
@@ -26,7 +26,7 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (D) Procedure
 
-&emsp;&emsp;In the event of consent under subparagraph (C), or if, upon the record, made at any such hearing, the Bureau finds that any violation specified in the notice of charges has been established, the Bureau may issue and serve upon the covered person or service provider an order to cease and desist fromthe violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the covered person or service provider to cease and desist from the subject activity, and to take affirmative action to correct the conditions resulting from any such violation.
+&emsp;&emsp;In the event of consent under subparagraph (C), or if, upon the record, made at any such hearing, the Bureau finds that any violation specified in the notice of charges has been established, the Bureau may issue and serve upon the covered person or service provider an order to cease and desist from the violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the covered person or service provider to cease and desist from the subject activity, and to take affirmative action to correct the conditions resulting from any such violation.
 
 #### (2) Effectiveness of order
 
@@ -52,13 +52,13 @@ The Bureau is authorized to conduct hearings and adjudication proceedings with r
 
 #### (2) Appeal
 
-&emsp;Not later than 10 days after the covered person or service provider concerned has been served with a temporary cease-and-desist order, the person may apply to the United States district court for the judicial district in which the residence or principal office or place of business of the person is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the person under subsection (b), and such court shall have jurisdiction to issue such injunction.
+&emsp;Not later than 10 days after the covered person or service provider concerned has beenserved with a temporary cease-and-desist order, the person may apply to the United States district court for the judicial district in which the residence or principal office or place of business of the person is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the person under subsection (b), and such court shall have jurisdiction to issue such injunction.
 
 #### (3) Incomplete or inaccurate records
 
 #### (A) Temporary order
 
-&emsp;&emsp;If a notice of charges served under subsection (b) specifies, on the basis of particular facts and circumstances, that the books and records of a covered person or serviceprovider are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of that person or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that person, the Bureau may issue a temporary order requiring—
+&emsp;&emsp;If a notice of charges served under subsection (b) specifies, on the basis of particular facts and circumstances, that the books and records of a covered person or service provider are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of that person or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that person, the Bureau may issue a temporary order requiring—
 
 &emsp;&emsp;&emsp;(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
 

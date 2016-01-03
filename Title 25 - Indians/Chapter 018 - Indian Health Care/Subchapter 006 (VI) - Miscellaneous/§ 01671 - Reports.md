@@ -184,7 +184,7 @@ In general.—Not later than 3 years after the date of the enactment of the Yout
 
 &emsp;"(2)
 
-Exception.—In addition to the report required under paragraph (1), not later than 2 years after thedate of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes any alcohol and drug abuse among Indians and Native Alaskans who reside on reservations.
+Exception.—In addition to the report required under paragraph (1), not later than 2 years after the date of the enactment of the Youth Drug and Mental Health Services Act \[Oct. 17, 2000\], the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes any alcohol and drug abuse among Indians and Native Alaskans who reside on reservations.
 
 "(j)
 

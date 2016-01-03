@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated for each of fiscal years 2000 through 2002 such sums as may be necessary to carry out this subchapter.
 
-(b) The authority to enter into contracts under this subchapter shall be effective for any fiscal year only to such extent or in suchamounts as are provided in advance in appropriation Acts.
+(b) The authority to enter into contracts under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 (June 27, 1952, ch. 477, title IV, ch. 2, §414, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 116; amended Pub. L. 97–363, §2, Oct. 25, 1982, 96 Stat. 1734; Pub. L. 99–605, §2, Nov. 6, 1986, 100 Stat. 3449; Pub. L. 100–525, §6(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 102–110, §5, Oct. 1, 1991, 105 Stat. 558; Pub. L. 103–37, §1, June 8, 1993, 107 Stat. 107; Pub. L. 103–416, title II, §208, Oct. 25, 1994, 108 Stat. 4312; Pub. L. 105–78, title VI, §604(a), Nov. 13, 1997, 111 Stat. 1521; Pub. L. 105–136, §1(a), Dec. 2, 1997, 111 Stat. 2639; Pub. L. 106–104, §3, Nov. 13, 1999, 113 Stat. 1483.)
 

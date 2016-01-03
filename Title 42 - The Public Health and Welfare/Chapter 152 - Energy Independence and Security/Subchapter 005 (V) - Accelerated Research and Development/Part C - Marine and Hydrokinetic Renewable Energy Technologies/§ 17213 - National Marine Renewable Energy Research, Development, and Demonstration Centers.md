@@ -10,7 +10,7 @@ The Secretary shall award grants to institutions of higher education (or consort
 
 &emsp;(3) Has access to and utilizes the marine resources in the Gulf of Mexico, the Atlantic Ocean, or the Pacific Ocean.
 
-> The Secretary may give special consideration to historically black colleges and universities and land grant universities that also meet one ofthese criteria. In establishing criteria for the selection of the Centers, the Secretary shall consult with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, on the criteria related to ocean waves, tides, and currents including those for advancing wave forecasting technologies, ocean temperature differences, and studying the compatibility of marine renewable energy technologies and systems with the environment, fisheries, and other marine resources.
+> The Secretary may give special consideration to historically black colleges and universities and land grant universities that also meet one of these criteria. In establishing criteria for the selection of the Centers, the Secretary shall consult with the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, on the criteria related to ocean waves, tides, and currents including those for advancing wave forecasting technologies, ocean temperature differences, and studying the compatibility of marine renewable energy technologies and systems with the environment, fisheries, and other marine resources.
 
 #### (b) Purposes
 
@@ -18,7 +18,7 @@ The Centers shall advance research, development, demonstration, and commercial a
 
 #### (c) Demonstration of need
 
-When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Center will not be conducted in the absence of Federal support.
+When applying for a grant under this section, an applicant shall include a description of why Federal support is necessary for the Center, including evidence that the research of the Centerwill not be conducted in the absence of Federal support.
 
 (Pub. L. 110–140, title VI, §634, Dec. 19, 2007, 121 Stat. 1687.)
 

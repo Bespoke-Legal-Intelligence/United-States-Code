@@ -18,11 +18,11 @@
 
 (c) The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, §311(a), Nov. 1, 2000, 114 Stat.1854; Pub. L. 110–389, title IV, §404, Oct. 10, 2008, 122 Stat. 4175; Pub. L. 111–117, div. E, title II, §226, Dec. 16, 2009, 123 Stat. 3307.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, §722; renumbered §1922 and amended Pub. L. 102–83, §§4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, §1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, §311(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 110–389, title IV, §404, Oct. 10, 2008, 122 Stat. 4175; Pub. L. 111–117, div. E, title II, §226, Dec. 16, 2009, 123 Stat. 3307.)
 
 #### References in Text
 
-Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans' Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009,which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans' Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans' Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 

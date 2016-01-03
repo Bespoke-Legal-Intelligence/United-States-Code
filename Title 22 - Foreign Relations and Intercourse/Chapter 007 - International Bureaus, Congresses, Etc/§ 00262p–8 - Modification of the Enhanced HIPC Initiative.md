@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) the annual payments due on such public and publicly guaranteed debt to not more than—
 
-&emsp;&emsp;&emsp;(i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e) of this section), not more than 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
+&emsp;&emsp;&emsp;(i) 10 percent or, in the case of a country suffering a public health crisis (as defined in subsection (e) of this section), not morethan 5 percent, of the amount of the annual current revenues received by the country from internal resources; or
 
 &emsp;&emsp;&emsp;(ii) a percentage of the gross national product of the country, or another benchmark, that will yield a result substantially equivalent to that which would be achieved through application of clause (i).
 
@@ -38,11 +38,11 @@ Debt cancellation under the modifications to the Enhanced HIPC Initiative descri
 
 #### (c) Conditions
 
-A country shall not be eligible for cancellation of debt under modifications to the EnhancedHIPC Initiative described in subsection (a) of this section if the government of the country—
+A country shall not be eligible for cancellation of debt under modifications to the Enhanced HIPC Initiative described in subsection (a) of this section if the government of the country—
 
 &emsp;(1) has an excessive level of military expenditures;
 
-&emsp;(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 2405(j)(1) of title 50, Appendix, or section 2371(a) of this title;
+&emsp;(2) has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 4605(j)(1) of title 50 or section 2371(a) of this title;
 
 &emsp;(3) is failing to cooperate on international narcotics control matters; or
 

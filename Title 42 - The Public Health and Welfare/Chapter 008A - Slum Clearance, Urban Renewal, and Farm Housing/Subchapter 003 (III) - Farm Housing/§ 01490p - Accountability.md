@@ -18,13 +18,13 @@
 
 &emsp;(A) The Secretary shall award or allocate assistance only in response to a written application in a form approved in advance by the Secretary, except where other award or allocation procedures are specified in statute.
 
-&emsp;(B) The Secretary shall ensure that documentation and other information regardingeach application for assistance is sufficient to indicate the basis on which any award or allocation was made or denied. The preceding sentence shall apply to—
+&emsp;(B) The Secretary shall ensure that documentation and other information regarding each application for assistance is sufficient to indicate the basis on which any award or allocation was made or denied. The preceding sentence shall apply to—
 
 &emsp;&emsp;(i) any application for an award or allocation of assistance made by the Secretary to a State, unit of general local government, or other recipient of assistance, and
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
-&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspectionfor a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -88,7 +88,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (4) Nonexclusiveness of remedies
 
-&emsp;This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall notbe relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
+&emsp;This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
 
 #### (f) Limitation of assistance
 

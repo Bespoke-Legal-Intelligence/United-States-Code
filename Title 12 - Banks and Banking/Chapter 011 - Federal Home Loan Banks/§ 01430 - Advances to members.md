@@ -16,7 +16,7 @@
 
 #### (3) Collateral
 
-&emsp;A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:
+&emsp;A Bank, at the time of origination or renewal of a loan or advance, shall obtain andmaintain a security interest in collateral eligible pursuant to one or more of the following categories:
 
 &emsp;&emsp;(A) Fully disbursed, whole first mortgages on improved residential property (not more than 90 days delinquent), or securities representing a whole interest in such mortgages.
 
@@ -30,7 +30,7 @@
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989,matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
@@ -348,7 +348,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;"(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
-&emsp;"(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
+&emsp;"(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;"(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations."
 
@@ -372,7 +372,7 @@ Subsec. (c). Pub. L. 97–320, §352(3), substituted "twenty" for "twelve" where
 
 <b>1950</b>—Subsec. (a) (1). Act Apr. 20, 1950, §501(1), substituted "subchapters I, II, VI, and VIII of chapter 13 of this title" for "sections 1707–1715b and 1736–1742 of this title".
 
-Subsec. (b). Act Apr. 20, 1950, §501(2), inserted "unless such home mortgage is insured under the NationalHousing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended" after "Maturity" in first sentence.
+Subsec. (b). Act Apr. 20, 1950, §501(2), inserted "unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen's Readjustment Act of 1944, as amended" after "Maturity" in first sentence.
 
 <b>1947</b>—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
 

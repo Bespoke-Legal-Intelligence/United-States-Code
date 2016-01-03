@@ -24,7 +24,7 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;(B) design and implement comprehensive strategies to improve the response of the health care system to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
 
-&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
+&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and proceduresto guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
 
 &emsp;&emsp;&emsp;(ii) the development of on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
 
@@ -92,7 +92,7 @@ The Secretary shall award grants for—
 
 #### (C) Subsection (a)(3) grantees
 
-&emsp;&emsp;An entity desiring a grant under subsection (a)(3) shall submit an application tothe Secretary at such time, in such a manner, and containing such information and assurances as the Secretary may require, including—
+&emsp;&emsp;An entity desiring a grant under subsection (a)(3) shall submit an application to the Secretary at such time, in such a manner, and containing such information and assurances as the Secretary may require, including—
 
 &emsp;&emsp;&emsp;(i) documentation that all training, education, screening, assessment, services, treatment, and any other approach to patient care will be informed by an understanding of violence and abuse victimization and trauma-specific approaches that will be integrated into prevention, intervention, and treatment activities;
 

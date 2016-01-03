@@ -106,7 +106,7 @@ Subsec. (b). Pub. L. 112–239, §914(b), substituted "shall be the designee of 
 
 Subsec. (c)(1). Pub. L. 112–239, §914(c), substituted "launch" for "spacelift".
 
-Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Department of Defense Executive Agent forSpace shall be the senior acquisition executive of the Office."
+Subsec. (e)(1). Pub. L. 112–239, §914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office."
 
 Subsec. (g). Pub. L. 112–239, §914(e), added subsec. (g).
 

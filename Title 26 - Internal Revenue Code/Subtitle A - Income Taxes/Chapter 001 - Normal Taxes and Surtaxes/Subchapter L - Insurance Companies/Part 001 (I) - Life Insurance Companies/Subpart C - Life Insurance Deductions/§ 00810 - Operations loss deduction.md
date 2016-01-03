@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (2) Operations loss deduction
 
-&emsp;For purposes of paragraph (1), the operations loss deduction for any taxable year shall becomputed without regard to the loss from operations for the loss year or for any taxable year thereafter.
+&emsp;For purposes of paragraph (1), the operations loss deduction for any taxable year shall be computed without regard to the loss from operations for the loss year or for any taxable year thereafter.
 
 #### (e) New company defined
 

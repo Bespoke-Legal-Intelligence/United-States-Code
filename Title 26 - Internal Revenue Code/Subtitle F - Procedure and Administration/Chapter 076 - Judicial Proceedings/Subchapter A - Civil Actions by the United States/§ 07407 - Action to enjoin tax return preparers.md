@@ -12,7 +12,7 @@ In any action under subsection (a), if the court finds—
 
 &emsp;&emsp;(A) engaged in any conduct subject to penalty under section 6694 or 6695, or subject to any criminal penalty provided by this title,
 
-&emsp;&emsp;(B) misrepresented his eligibility to practice before the Internal Revenue Service, orotherwise misrepresented his experience or education as a tax return preparer,
+&emsp;&emsp;(B) misrepresented his eligibility to practice before the Internal Revenue Service, or otherwise misrepresented his experience or education as a tax return preparer,
 
 &emsp;&emsp;(C) guaranteed the payment of any tax refund or the allowance of any tax credit, or
 

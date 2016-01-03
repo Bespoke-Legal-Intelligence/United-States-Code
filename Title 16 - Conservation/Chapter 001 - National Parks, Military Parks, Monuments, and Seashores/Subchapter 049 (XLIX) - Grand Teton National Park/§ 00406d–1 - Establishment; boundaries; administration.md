@@ -10,7 +10,7 @@ This Act, referred to in text, is act Sept. 14, 1950, ch. 950, 64 Stat. 849, whi
 
 The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
 
-Provisions relating to the "present Grand Teton National Park", referred to in text, were contained in former sections 406 to 406d of this title, which sections were repealed by another provision of section 1 of act Sept. 14, 1950.
+Provisions relating to the "present Grand Teton National Park", referred to in text, were contained informer sections 406 to 406d of this title, which sections were repealed by another provision of section 1 of act Sept. 14, 1950.
 
 #### Codification
 
@@ -64,7 +64,7 @@ Deadline for Acquisition.—It is the intent of Congress that the acquisition of
 
 "(d)
 
-Restriction on Transfer.—The Secretary shall not donate, sell, exchange, or otherwise transfer anyland acquired under this section without express authorization from Congress.
+Restriction on Transfer.—The Secretary shall not donate, sell, exchange, or otherwise transfer any land acquired under this section without express authorization from Congress.
 
 #### "SEC. 4. CRAIG THOMAS DISCOVERY AND VISITOR CENTER.
 
@@ -158,7 +158,7 @@ Appraisal Costs.—The Secretary and the State of Wyoming shall each pay one-hal
 
 #### "SEC. 5. ADMINISTRATION OF STATE LANDS ACQUIRED BY THE UNITED STATES.
 
-"The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such landsunder the Act of August 25, 1916 (commonly known as the 'National Park Service Organic Act') \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], and other laws, rules, and regulations applicable to Grand Teton National Park.
+"The State lands conveyed to the United States under section 3(a) shall become part of Grand Teton National Park. The Secretary shall manage such lands under the Act of August 25, 1916 (commonly known as the 'National Park Service Organic Act') \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], and other laws, rules, and regulations applicable to Grand Teton National Park.
 
 #### "SEC. 6. AUTHORIZATION FOR APPROPRIATIONS.
 

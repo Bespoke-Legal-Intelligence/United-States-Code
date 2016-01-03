@@ -26,7 +26,7 @@ The standards of responsibility prescribed by this section are not to be constru
 
 No State may establish or enforce a law which prohibits an individual from bringing a civil action against a vaccine manufacturer for damages for a vaccine-related injury or death if such civil action is not barred by this part.
 
-(July 1, 1944, ch. 373, title XXI, §2122, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3773; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
+(July 1, 1944, ch. 373, title XXI, §2122, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3773; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
 
 #### References in Text
 

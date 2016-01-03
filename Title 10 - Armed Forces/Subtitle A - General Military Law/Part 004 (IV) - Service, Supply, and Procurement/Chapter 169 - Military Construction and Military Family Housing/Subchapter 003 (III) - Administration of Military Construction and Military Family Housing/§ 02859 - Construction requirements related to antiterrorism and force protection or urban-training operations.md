@@ -28,7 +28,7 @@ Military Construction Requirements.—As part of the budget materials submitted 
 
 (d)
 
-Certification Required for Military Construction Projects Designed to ProvideTraining in Urban Operations.—(1) Except as provided in paragraph (3), the Secretary concerned may not carry out a military construction project to construct a facility designed to provide training in urban operations for members of the armed forces or personnel of the Department of Defense or other Federal agencies until—
+Certification Required for Military Construction Projects Designed to Provide Training in Urban Operations.—(1) Except as provided in paragraph (3), the Secretary concerned may not carry out a military construction project to construct a facility designed to provide training in urban operations for members of the armed forces or personnel of the Department of Defense or other Federal agencies until—
 
 &emsp;(A) the Secretary of Defense approves a strategy for training and facility construction for operations in urban terrain; and
 

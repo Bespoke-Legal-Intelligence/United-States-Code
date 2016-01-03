@@ -19,3 +19,4 @@
 - [&sect; 02572 - International agreements on nuclear weapons data](%C2%A7%2002572%20-%20International%20agreements%20on%20nuclear%20weapons%20data.md)
 - [&sect; 02573 - International agreements on information on radioactive materials](%C2%A7%2002573%20-%20International%20agreements%20on%20information%20on%20radioactive%20materials.md)
 - [&sect; 02574 - Enhancing nuclear forensics capabilities](%C2%A7%2002574%20-%20Enhancing%20nuclear%20forensics%20capabilities.md)
+- [&sect; 02575 - Defense nuclear nonproliferation management plan](%C2%A7%2002575%20-%20Defense%20nuclear%20nonproliferation%20management%20plan.md)

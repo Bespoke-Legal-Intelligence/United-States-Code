@@ -1,6 +1,6 @@
 ### §1271. Congressional declaration of policy
 
-It is hereby declared to be the policy of the United States that certain selected rivers of the Nation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
+It is hereby declared to be the policy of the United States that certain selected rivers of theNation which, with their immediate environments, possess outstandingly remarkable scenic, recreational, geologic, fish and wildlife, historic, cultural, or other similar values, shall be preserved in free-flowing condition, and that they and their immediate environments shall be protected for the benefit and enjoyment of present and future generations. The Congress declares that the established national policy of dam and other construction at appropriate sections of the rivers of the United States needs to be complemented by a policy that would preserve other selected rivers or sections thereof in their free-flowing condition to protect the water quality of such rivers and to fulfill other vital national conservation purposes.
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
@@ -42,7 +42,7 @@ Pub. L. 106–357, §1, Oct. 24, 2000, 114 Stat. 1393, provided that: "This Act 
 
 Pub. L. 106–318, §1, Oct. 19, 2000, 114 Stat. 1278, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Taunton River Wild and Scenic River Study Act of 2000'."
 
-Pub. L. 106–299, §1, Oct. 13, 2000, 114 Stat. 1050, provided that: "This Act \[amending section 1274 of thistitle and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Wekiva Wild and Scenic River Act of 2000'."
+Pub. L. 106–299, §1, Oct. 13, 2000, 114 Stat. 1050, provided that: "This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Wekiva Wild and Scenic River Act of 2000'."
 
 Pub. L. 106–192, §1, May 2, 2000, 114 Stat. 233, provided that: "This Act \[amending section 1274 of this title and provisions classified as a note under section 1274 of this title\] may be cited as the 'Lamprey Wild and Scenic River Extension Act'."
 
@@ -78,7 +78,7 @@ Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: "This Act \[a
 
 Pub. L. 101–628, title VII, §701, Nov. 28, 1990, 104 Stat. 4497, provided that: "This title \[amending section 1276 of this title\] may be cited as the 'Sudbury, Assabet, and Concord Wild and Scenic River Study Act'."
 
-Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided that: "This Act \[probably should be "this title", amending section 1274 of this title\] may be cited as the 'Clarks Fork Wild and Scenic River Designation Act of 1990'."
+Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided that: "This Act \[probably should be"this title", amending section 1274 of this title\] may be cited as the 'Clarks Fork Wild and Scenic River Designation Act of 1990'."
 
 Pub. L. 101–357, §1, Aug. 10, 1990, 104 Stat. 418, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Pemigewasset River Study Act of 1989'."
 

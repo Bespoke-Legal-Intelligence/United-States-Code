@@ -12,7 +12,7 @@ United States.—The term "United States"—
 
 &emsp;&emsp;(A) includes the District of Columbia; and
 
-&emsp;&emsp;(B) to the extent practicable, as determined by the Secretary, includes Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;&emsp;(B) to the extent practicable, as determined by the Secretary, includes PuertoRico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3169.)
 

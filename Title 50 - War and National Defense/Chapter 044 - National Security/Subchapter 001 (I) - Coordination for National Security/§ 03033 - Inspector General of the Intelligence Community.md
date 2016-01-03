@@ -8,7 +8,7 @@ There is within the Office of the Director of National Intelligence an Office of
 
 The purpose of the Office of the Inspector General of the Intelligence Community is—
 
-&emsp;(1) to create an objective and effective office, appropriately accountable to Congress, to initiate and conduct independent investigations, inspections, audits, and reviews on programs and activities within the responsibility and authority of the Director of National Intelligence;
+&emsp;(1) to create an objective and effective office, appropriately accountable to Congress, to initiate and conduct independent investigations, inspections, audits, and reviews on programsand activities within the responsibility and authority of the Director of National Intelligence;
 
 &emsp;(2) to provide leadership and coordination and recommend policies for activities designed—
 
@@ -36,7 +36,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 &emsp;(A) without regard to political affiliation;
 
-&emsp;(B) on the basis of integrity, compliance with security standards of the intelligencecommunity, and prior experience in the field of intelligence or national security; and
+&emsp;(B) on the basis of integrity, compliance with security standards of the intelligence community, and prior experience in the field of intelligence or national security; and
 
 &emsp;(C) on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or investigations.
 
@@ -128,7 +128,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(A) appoint a Counsel to the Inspector General who shall report to the Inspector General; or
 
-&emsp;(B) obtain the services of a counsel appointed by and directly reporting to anotherinspector general or the Council of the Inspectors General on Integrity and Efficiency on a reimbursable basis.
+&emsp;(B) obtain the services of a counsel appointed by and directly reporting to another inspector general or the Council of the Inspectors General on Integrity and Efficiency on a reimbursable basis.
 
 (2) The counsel appointed or obtained under paragraph (1) shall perform such functions as the Inspector General may prescribe.
 
@@ -148,15 +148,15 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(B) all other personnel decisions concerning personnel permanently assigned to the Office of the Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of a component of the Office of the Director of National Intelligence.
 
-(4)(A) Subject to the concurrence of the Director of National Intelligence, the Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General from any department, agency, or other element of the United States Government.
+(4)(A) Subject to the concurrence of the Director of National Intelligence, the Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General from any Federal, State (as defined in section 3164 of this title), or local governmental agency or unit thereof.
 
-(B) Upon request of the Inspector General for information or assistance under subparagraph (A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
+(B) Upon request of the Inspector General for information or assistance from a department, agency, or element of the Federal Government under subparagraph (A), the head of the department, agency, or element concerned shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the department, agency, or element, furnish to the Inspector General, such information or assistance.
 
 (C) The Inspector General of the Intelligence Community may, upon reasonable notice to the head of any element of the intelligence community and in coordination with that element's inspector general pursuant to subsection (h), conduct, as authorized by this section, an investigation, inspection, audit, or review of such element and may enter into any place occupied by such element for purposes of the performance of the duties of the Inspector General.
 
 #### (k) Reports
 
-(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General of the Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
+(1)(A) The Inspector General of the Intelligence Community shall, not later than October 31 and April 30 of each year, prepare and submit to the Director of National Intelligence a classified, and, as appropriate, unclassified semiannual report summarizing the activities of the Office of the Inspector General of the Intelligence Community during the immediately preceding 6-month period ending September 30 and March 31, respectively. The Inspector General ofthe Intelligence Community shall provide any portion of the report involving a component of a department of the United States Government to the head of that department simultaneously with submission of the report to the Director of National Intelligence.
 
 (B) Each report under this paragraph shall include, at a minimum, the following:
 
@@ -218,7 +218,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(II) obtains and follows from the Director, through the Inspector General, direction on how to contact the congressional intelligence committees in accordance with appropriate security practices.
 
-(iii) A member or employee of one of the congressional intelligence committees who receivesa complaint or information under this subparagraph does so in that member or employee's official capacity as a member or employee of such committee.
+(iii) A member or employee of one of the congressional intelligence committees who receives a complaint or information under this subparagraph does so in that member or employee's official capacity as a member or employee of such committee.
 
 (E) The Inspector General shall notify an employee who reports a complaint or information to the Inspector General under this paragraph of each action taken under this paragraph with respect to the complaint or information. Such notice shall be provided not later than 3 days after any such action is taken.
 
@@ -284,7 +284,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421.)
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421; Pub. L. 114–113, div. M, title III, §303, Dec. 18, 2015, 129 Stat. 2913.)
 
 #### References in Text
 
@@ -295,6 +295,10 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (k)(5)(H
 Section was formerly classified to section 403–3h of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (j)(4)(A). Pub. L. 114–113, §303(1), substituted "any Federal, State (as defined in section 3164 of this title), or local governmental agency or unit thereof" for "any department, agency, or other element of the United States Government".
+
+Subsec. (j)(4)(B). Pub. L. 114–113, §303(2), inserted "from a department, agency, or element of the Federal Government" before "under subparagraph (A)".
 
 <b>2014</b>—Subsec. (g)(3)(A). Pub. L. 113–126, §304, substituted "undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of section 552 of title 5 (commonly known as the 'Freedom of Information Act');" for "undertaken;".
 

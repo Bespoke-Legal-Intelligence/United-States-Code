@@ -166,7 +166,7 @@ Short Title.—This section may be cited as the "Competitive, Special, and Facil
 
 &emsp;&emsp;(B) to a single investigator or coinvestigators who are beginning research careers and do not have an extensive research publication record, except that, to be eligible for a grant under this subparagraph, an individual shall be within 5 years of the beginning of the initial career track position of the individual;
 
-&emsp;&emsp;(C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants;
+&emsp;&emsp;(C) to ensure that the faculty of small, mid-sized, and minority-serving institutions who have not previously been successful inobtaining competitive grants under this subsection receive a portion of the grants;
 
 &emsp;&emsp;(D) to improve research, extension, and education capabilities in States (as defined in section 3103 of this title) in which institutions have been less successful in receiving funding under this subsection, based on a 3-year rolling average of funding levels; and
 
@@ -362,7 +362,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 &emsp;(E) assist in removing trade barriers caused by residues of pesticides registered for minor agricultural use and for use on domestically grown specialty crops;
 
-&emsp;(F) assist in the registration and reregistration of pest management technologies forminor agricultural use and for use on specialty crops; and
+&emsp;(F) assist in the registration and reregistration of pest management technologies for minor agricultural use and for use on specialty crops; and
 
 &emsp;(G) coordinate with other programs within the Department of Agriculture and the Environmental Protection Agency designed to develop and promote biological and other alternative control measures.
 
@@ -412,7 +412,7 @@ The Secretary of Agriculture shall ensure that grants made under subsections (b)
 
 #### References in Text
 
-Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see ShortTitle note set out under section 582a of Title 16 and Tables.
 
 Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under section 1621 of this title.
 

@@ -128,7 +128,7 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than September 30, 2015, and after providing notice and an opportunity for public comment, a State shall establish affordability criteria to assist in identifying municipalities that would experience a significant hardship raising the revenue necessary to finance a project or activity eligible for assistance under subsection (c)(1) if additional subsidization is not provided.
+&emsp;&emsp;&emsp;Not later than September 30, 2015, and after providing notice and an opportunity for public comment, a State shall establish affordability criteria to assist in identifying municipalities that would experience asignificant hardship raising the revenue necessary to finance a project or activity eligible for assistance under subsection (c)(1) if additional subsidization is not provided.
 
 #### (ii) Contents
 

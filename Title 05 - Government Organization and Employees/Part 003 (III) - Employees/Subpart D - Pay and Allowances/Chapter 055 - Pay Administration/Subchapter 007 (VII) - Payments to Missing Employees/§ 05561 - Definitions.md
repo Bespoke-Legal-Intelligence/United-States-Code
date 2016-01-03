@@ -120,7 +120,7 @@ Apr. 4, 1953, ch. 17, §1(e), 67 Stat. 21.
 
 Only that portion of the source law which is applicable to civilian officers and employees and their dependents is codified in this section.
 
-In paragraph (1), the word "agency" is substituted for "department". The words "including such term when used in the amendment made by section 16" are omitted as surplusage. The words "an Executive agency and a military department" are coextensive with and substituted for "any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government" in view of the definitions in sections 105 and 102, and on authority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
+In paragraph (1), the word "agency" is substituted for "department". The words "including such term when used in the amendment made by section 16" are omitted as surplusage. The words "an Executive agency and a military department" are coextensive with and substituted for "any executive department, independent establishment, or agency (including corporations) in the executive branch of the Federal Government" in view of the definitions in sections 105 and 102, and onauthority of 5 U.S.C. 933a which provides that general legislation governing employment, compensation, and the status of employees of the United States applies to employees of the General Accounting Office in the same manner as if they were in the executive branch.
 
 In paragraph (3)(A), the word "lawful" is omitted as unnecessary in view of the accepted recognition of the fact that the word "wife" means a lawful wife. In paragraph (3)(E), the words "head of the agency concerned or his designee" are substituted for "head of the department concerned, or subordinate designated by him".
 
@@ -134,7 +134,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §603(e), Nov. 18, 1997, 111 Stat. 1783, provided that: "This section \[amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, section 107 of Title 32, National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and section 454 of Title 50, Appendix, War and National Defense, repealing section 403a of Title 37, and enacting provisions set out as a note under section 403 of Title 37\] and the amendments made by this section shall take effect on January 1, 1998."
+Pub. L. 105–85, div. A, title VI, §603(e), Nov. 18, 1997, 111 Stat. 1783, provided that: "This section \[amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, section 107 of Title 32, National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and section 3803 of Title 50, War and National Defense, repealing section 403a of Title 37, and enacting provisions set out as a note under section 403 of Title 37\] and the amendments made by this section shall take effect on January 1, 1998."
 
 #### Accounting for Civilian Employees and Contractors of United States
 
@@ -154,5 +154,5 @@ Ex. Ord. No. 12268, Jan. 15, 1981, 46 F.R. 4671, provided for the implementation
 
 #### Executive Order No. 12313
 
-Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens andresident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
+Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
 

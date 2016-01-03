@@ -8,11 +8,11 @@ No investment adviser registered or required to be registered with the Commissio
 
 &emsp;(2) fails to provide, in substance, that no assignment of such contract shall be made by the investment adviser without the consent of the other party to the contract; or
 
-&emsp;(3) fails to provide, in substance, that the investment adviser, if a partnership, will notify the other party to the contract of any change in the membership of such partnership within a reasonable time after such change.
+&emsp;(3) fails to provide, in substance, that the investment adviser, if a partnership, will notify the other party to the contract of any changein the membership of such partnership within a reasonable time after such change.
 
 #### (b) Compensation prohibition inapplicable to certain compensation computations
 
-Paragraph (1) of subsection (a) of this section shall not—
+Paragraph (1) of subsection (a) shall not—
 
 &emsp;(1) be construed to prohibit an investment advisory contract which provides for compensation based upon the total value of a fund averaged over a definite period, or as of definite dates, or taken as of a definite date;
 
@@ -32,15 +32,15 @@ Paragraph (1) of subsection (a) of this section shall not—
 
 #### (c) Measurement of changes in compensation
 
-For purposes of paragraph (2) of subsection (b) of this section, the point from which increases and decreases in compensation are measured shall be the fee which is paid or earned when the investment performance of such company or fund is equivalent to that of the index or other measure of performance, and an index of securities prices shall be deemed appropriate unless the Commission by order shall determine otherwise.
+For purposes of paragraph (2) of subsection (b), the point from which increases and decreases in compensation are measured shall be the fee which is paid or earned when the investment performance of such company or fund is equivalent to that of the index or other measure of performance, and an index of securities prices shall be deemed appropriate unless the Commission by order shall determine otherwise.
 
 #### (d) "Investment advisory contract" defined
 
-As used in paragraphs (2) and (3) of subsection (a) of this section, "investment advisory contract" means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
+As used in paragraphs (2) and (3) of subsection (a), "investment advisory contract" means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
 
 #### (e) Exempt persons and transactions
 
-The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1) of this section, if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1) of this section, on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section. With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.
+The Commission, by rule or regulation, upon its own motion, or by order upon application, may conditionally or unconditionally exempt any person or transaction, or any class or classes of persons or transactions, from subsection (a)(1), if and to the extent that the exemption relates to an investment advisory contract with any person that the Commission determines does not need the protections of subsection (a)(1), on the basis of such factors as financial sophistication, net worth, knowledge of and experience in financial matters, amount of assets under management, relationship with a registered investment adviser, and such other factors as the Commission determines are consistent with this section. With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.
 
 #### (f) Authority to restrict mandatory pre-dispute arbitration
 
@@ -52,7 +52,7 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §928, in introductory provisions, substituted "registered or required to be registered with the Commission" for ", unless exempt from registration pursuant to section 80b–3(b) of this title," and struck out "make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to" after "shall" and "to" after "in any way".
 
-Subsec. (e). Pub. L. 111–203, §418, inserted at end "With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000."
+Subsec. (e). Pub. L. 111–203, §418, inserted at end "With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multipleof $100,000 shall be rounded to the nearest multiple of $100,000."
 
 Subsec. (f). Pub. L. 111–203, §921(b), added subsec. (f).
 

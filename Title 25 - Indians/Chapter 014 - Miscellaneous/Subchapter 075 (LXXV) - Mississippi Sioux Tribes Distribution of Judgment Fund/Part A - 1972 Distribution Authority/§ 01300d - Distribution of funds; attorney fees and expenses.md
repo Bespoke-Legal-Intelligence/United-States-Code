@@ -6,7 +6,7 @@ The funds appropriated by the Act of June 19, 1968 (82 Stat. 239), to pay compro
 
 #### References in Text
 
-Act of June 19, 1968, referred to in text, is act June 19, 1968, Pub. L. 90–352, 82 Stat. 239. That portion of the act which appropriated the funds referred to was not classified to the Code.
+Act of June 19, 1968, referred to in text, is act June 19, 1968, Pub. L. 90–352, 82 Stat. 239. That portion of theact which appropriated the funds referred to was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

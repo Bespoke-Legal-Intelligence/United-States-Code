@@ -30,7 +30,7 @@ The Secretary, under such regulations as the Secretary may establish, shall not 
 
 &emsp;(13) preference will be given to low-income or economically disadvantaged residents of the areas served in filling jobs and training opportunities; and
 
-&emsp;(14) training programs carried out in connection with projects financed under this part shall be designed wherever feasible to provide those persons who successfully complete such training with skills which are also in demand in communities, neighborhoods, or rural areas other than those for which programs are established under this part.
+&emsp;(14) training programs carried out in connection with projects financed under this part shall be designed wherever feasible to providethose persons who successfully complete such training with skills which are also in demand in communities, neighborhoods, or rural areas other than those for which programs are established under this part.
 
 #### (b) Relocations substantially increasing unemployment
 

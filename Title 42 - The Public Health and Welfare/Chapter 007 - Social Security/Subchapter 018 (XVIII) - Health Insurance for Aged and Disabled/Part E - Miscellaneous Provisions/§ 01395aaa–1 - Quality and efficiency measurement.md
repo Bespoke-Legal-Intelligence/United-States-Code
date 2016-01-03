@@ -2,7 +2,7 @@
 
 #### (a) Multi-stakeholder group input into selection of quality and efficiency measures
 
-The Secretary shall establish a pre-rulemaking process under which the following stepsoccur with respect to the selection of quality and efficiency measures described in section 1395aaa(b)(7)(B) of this title:
+The Secretary shall establish a pre-rulemaking process under which the following steps occur with respect to the selection of quality and efficiency measures described in section 1395aaa(b)(7)(B) of this title:
 
 #### (1) Input
 

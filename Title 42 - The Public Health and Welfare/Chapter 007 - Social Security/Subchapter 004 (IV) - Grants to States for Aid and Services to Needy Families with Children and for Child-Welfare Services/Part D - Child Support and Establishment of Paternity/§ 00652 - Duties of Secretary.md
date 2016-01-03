@@ -30,7 +30,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(6) maintain records of all amounts collected and disbursed under programs established pursuant to the provisions of this part and of the costs incurred in collecting such amounts;
 
-&emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
+&emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number ofeach parent and, after consultation with the States, other common elements as determined by such designee;
 
 &emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
@@ -94,7 +94,7 @@ The Secretary shall, upon the request of any State having in effect a State plan
 
 #### (c) Payment of child support collections to States
 
-The Secretary of the Treasury shall from time to time pay to each State for distribution in accordance with the provisions of section 657 of this title the amount of each collection made onbehalf of such State pursuant to subsection (b) of this section.
+The Secretary of the Treasury shall from time to time pay to each State for distribution in accordance with the provisions of section 657 of this title the amount of each collection made on behalf of such State pursuant to subsection (b) of this section.
 
 #### (d) Child support management information system
 
@@ -144,7 +144,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 &emsp;(B)(i) the waiver meets the criteria of paragraphs (1), (2), and (3) of section 1315(c) of this title; or
 
-&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwise improve the State's child support enforcement program; and
+&emsp;(ii) the State provides assurances to the Secretary that steps will be taken to otherwiseimprove the State's child support enforcement program; and
 
 &emsp;(C) in the case of a request to waive the single statewide system requirement, the State has submitted to the Secretary separate estimates of the total cost of a single statewide system that meets such requirement, and of any such alternative system or systems, which shall include estimates of the cost of developing and completing the system and of operating and maintaining the system for 5 years, and the Secretary has agreed with the estimates.
 
@@ -154,7 +154,7 @@ The Secretary shall provide such technical assistance to States as he determines
 
 #### (f) Regulations
 
-The Secretary shall issue regulations to require that State agencies administering thechild support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term "medical support" may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
+The Secretary shall issue regulations to require that State agencies administering the child support enforcement program under this part enforce medical support included as part of a child support order whenever health care coverage is available to the noncustodial parent at a reasonable cost. A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part. Such regulation shall also provide for improved information exchange between such State agencies and the State agencies administering the State medicaid programs under subchapter XIX of this chapter with respect to the availability of health insurance coverage. For purposes of this part, the term "medical support" may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.
 
 #### (g) Performance standards for State paternity establishment programs
 
@@ -194,7 +194,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 > &emsp;bears to the total number of children born out of wedlock during the preceding fiscal year; and
 
-&emsp;(C) the term "reliable data" means the most recent data available which are found by the Secretary to be reliable for purposes of this section.
+&emsp;(C) the term "reliable data" means the most recent data available which are found by theSecretary to be reliable for purposes of this section.
 
 > For purposes of subparagraphs (A) and (B), the total number of children shall not include any child with respect to whom assistance is being provided under the State program funded under part A of this subchapter by reason of the death of a parent unless paternity is established for such child or any child with respect to whom an applicant or recipient is found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title.
 
@@ -386,7 +386,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as rede
 
 Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A ofthis subchapter" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
+Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A of this subchapter" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
 
 Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted " 'IV–D paternity establishment percentage' " for " 'paternity establishment percentage' " and struck out "(or all States, as the case may be)" after "with respect to a State", and, in closing provisions, struck out "and" at end.
 
@@ -460,7 +460,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 "(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
-"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected undersection 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
+"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
 
 <b>1986</b>—Subsecs. (b), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
@@ -518,7 +518,7 @@ Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amend
 
 > but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included inthe enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
+\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included in the enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
 
 Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided that: "The amendments made by this section \[amending this section and section 669 of this title\] shall apply to information maintained with respect to fiscal year 1995 or any succeeding fiscal year."
 
@@ -588,7 +588,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifi
 
 Pub. L. 96–265, title IV, §402(b), June 9, 1980, 94 Stat. 462, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect July 1, 1980."
 
-Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C.655(a)(3)\] (as amended by this Act), made on or after such date."
+Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C. 655(a)(3)\] (as amended by this Act), made on or after such date."
 
 #### Effective Date of 1977 Amendment
 

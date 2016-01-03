@@ -8,7 +8,7 @@ The Secretary of Transportation shall, under the authority of the Emergency Rail
 
 #### (e) Amount of guarantee
 
-The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant to this section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
+The Secretary shall guarantee trustee certificates of the Milwaukee Railroad pursuant tothis section in an amount equal to the difference between (1) the total expenses incurred by such railroad attributable to the maintenance and the continuation of service in accordance with subsection (d) of this section, and (2) the revenues of such railroad.
 
 #### (f) Subordination of claims
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 96–448 effective Oct. 14, 1980, see section 710(d) of Pub
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, setout as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

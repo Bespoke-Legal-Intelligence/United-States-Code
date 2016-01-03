@@ -40,7 +40,7 @@ Reasonable Compensation.—When a motor vehicle (except a vehicle subject to sub
 
 (e)
 
-Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under thischapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 (f)
 
@@ -122,7 +122,7 @@ Reporting elements.—
 
 Warranty and claims data.—As part of the final rule promulgated under paragraph (1), the Secretary shall require manufacturers of motor vehicles and motor vehicle equipment to report, periodically or upon request by the Secretary, information which is received by the manufacturer derived from foreign and domestic sources to the extent that such information may assist in the identification of defects related to motor vehicle safety in motor vehicles and motor vehicle equipment in the United States and which concerns—
 
-&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (including death) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
+&emsp;&emsp;&emsp;(i) data on claims submitted to the manufacturer for serious injuries (includingdeath) and aggregate statistical data on property damage from alleged defects in a motor vehicle or in motor vehicle equipment; or
 
 &emsp;&emsp;&emsp;(ii) customer satisfaction campaigns, consumer advisories, recalls, or other activity involving the repair or replacement of motor vehicles or items of motor vehicle equipment.
 
@@ -150,7 +150,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated bythe Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -186,7 +186,7 @@ Corporate Responsibility for Reports.—
 
 &emsp;(1)
 
-In general.—The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
+In general.—The Secretary shall promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
 
 &emsp;&emsp;(A) the signing official has reviewed the submission; and
 
@@ -200,7 +200,23 @@ In general.—The Secretary may promulgate rules requiring a senior official res
 
 Notice.—The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764.)
+&emsp;(3)
+
+Deadline.—Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat.4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–94, div. B, title XXIV, §24109(e), (k), Dec. 4, 2015, 129 Stat. 1707, 1709, provided that, effective on the date that is 180 days after Dec. 4, 2015, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(2), by striking "or dealer" each place such term appears and inserting "dealer, or rental company";</i>
+
+<i>(2) in subsection (e), by striking "or dealer" each place such term appears and inserting "dealer, or rental company"; and</i>
+
+<i>(3) in subsection (f), by striking "or to owners" and inserting ", rental companies, or other owners".</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -342,7 +358,19 @@ This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1
 
 The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
 
+The date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, referred to in subsec. (o)(3), probably means the date of enactment of div. B of Pub. L. 114–94, which was approved Dec. 4, 2015. That Act name is the heading for div. B of Pub. L. 114–94, but no such Short Title was enacted.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(2). Pub. L. 114–94, §24109(e)(1), substituted "dealer, or rental company" for "or dealer" in two places.
+
+Subsec. (e). Pub. L. 114–94, §24109(e)(2), substituted "dealer, or rental company" for "or dealer" wherever appearing.
+
+Subsec. (f)(1). Pub. L. 114–94, §24109(e)(3), substituted ", rental companies, or other owners" for "or to owners".
+
+Subsec. (o)(1). Pub. L. 114–94, §24112(1), substituted "shall promulgate" for "may promulgate" in introductory provisions.
+
+Subsec. (o)(3). Pub. L. 114–94, §24112(2), added par. (3).
 
 <b>2012</b>—Subsec. (c)(3)(A). Pub. L. 112–141, §31209(2)(A), inserted "(including at United States ports of entry)" after "held for introduction in interstate commerce".
 
@@ -360,6 +388,10 @@ Subsec. (o). Pub. L. 112–141, §31304(a), added subsec. (o).
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted "any judicial district" for "the judicial district".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by section 24109(e) of Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under section 30102 of this title.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -370,7 +402,7 @@ Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399, provided that the a
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -378,7 +410,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Public Availability of Recall Information
 
-Pub. L. 112–141, div. C, title I, §31301, July 6, 2012, 126 Stat. 763, provided that:
+Pub. L. 112–141, div. C, title I, §31301, July 6, 2012, 126 Stat. 763, as amended by Pub. L. 114–94, div. B, title XXIV, §24103(c), Dec. 4, 2015, 129 Stat. 1702, provided that:
 
 "(a)
 
@@ -404,5 +436,5 @@ Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each
 
 "(c)
 
-Promotion of Public Awareness.—The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section."
+Promotion of Public Awareness.—The Secretary shall improve public awareness of safety recall information made publicly available by periodically updating the method of conveying that information to consumers, dealers, and manufacturers, such as through public service announcements."
 

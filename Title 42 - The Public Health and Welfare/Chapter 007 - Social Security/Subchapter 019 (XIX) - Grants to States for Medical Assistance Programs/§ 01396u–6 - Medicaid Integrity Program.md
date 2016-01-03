@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established the Medicaid Integrity Program (in this section referred to as the "Program") under which the Secretary shall promote the integrity of the program under this subchapter by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b).
+There is hereby established the Medicaid Integrity Program (in this section referred to as the "Program") under which the Secretary shall promote the integrity of the program under this subchapter by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b).
 
 #### (b) Activities described
 
@@ -78,7 +78,7 @@ Activities described in this subsection are as follows:
 
 #### (1) In general
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to carry out the Medicaid Integrity Program under this section, without further appropriation—
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to carry out the Medicaid Integrity Program under this section (including the costs of equipment, salaries and benefits, and travel and training), without further appropriation—
 
 &emsp;&emsp;(A) for fiscal year 2006, $5,000,000;
 
@@ -86,7 +86,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(C) for each of fiscal years 2009 and 2010, $75,000,000; and
 
-&emsp;&emsp;(D) for each fiscal year after fiscal year 2010, the amount appropriated under this paragraph for the previous fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
+&emsp;&emsp;(D) for each fiscal year after fiscal year 2010, the amount appropriated under thisparagraph for the previous fiscal year, increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) over the previous year.
 
 #### (2) Availability; authority for use of funds
 
@@ -108,9 +108,9 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of funds expended for each such conference that were for transportation and for travel expenses.
 
-#### (3) Increase in cms staffing devoted to protecting Medicaid program integrity
+#### (3) Increase in CMS staffing devoted to protecting Medicaid program integrity
 
-&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100 the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
 #### (4) Evaluations
 
@@ -124,7 +124,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078; Pub. L. 111–148, title VI, §6402(j)(2), Mar. 23, 2010, 124 Stat. 762; Pub. L. 111–152, title I, §1303(b), Mar. 30, 2010, 124 Stat. 1058.)
+(Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078; Pub. L. 111–148, title VI, §6402(j)(2), Mar. 23, 2010, 124 Stat. 762; Pub. L. 111–152, title I, §1303(b), Mar. 30, 2010, 124 Stat. 1058; Pub. L. 114–115, §6, Dec. 28, 2015, 129 Stat. 3133.)
 
 #### References in Text
 
@@ -135,6 +135,12 @@ Section 202(b) of the Health Insurance Portability and Accountability Act of 199
 A prior section 1936 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–115, §6(1), inserted ", or otherwise," after "entities".
+
+Subsec. (e)(1). Pub. L. 114–115, §6(2)(A), inserted "(including the costs of equipment, salaries and benefits, and travel and training)" after "Program under this section" in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 114–115, §6(2)(B), substituted "by 100, or such number as determined necessary by the Secretary to carry out the Program," for "by 100".
 
 <b>2010</b>—Subsec. (c)(2)(D), (E). Pub. L. 111–148, §6402(j)(2)(A), added subpar. (D) and redesignated former subpar. (D) as (E).
 

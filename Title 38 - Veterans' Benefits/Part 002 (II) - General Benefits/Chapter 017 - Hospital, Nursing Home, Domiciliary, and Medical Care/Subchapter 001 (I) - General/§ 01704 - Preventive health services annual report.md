@@ -10,7 +10,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;&emsp;(ii) to provide veterans with preventive health screenings and other clinical services, with such description setting forth the types of resources used by the Department to conduct such screenings and services and the number of veterans reached by such screenings and services.
 
-&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
+&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalizedveterans, and veterans who are at risk for mental illness).
 
 &emsp;&emsp;(C) The manner in which the provision of such services was coordinated with the activities of the Medical and Prosthetic Research Service of the Department and the National Center for Preventive Health.
 

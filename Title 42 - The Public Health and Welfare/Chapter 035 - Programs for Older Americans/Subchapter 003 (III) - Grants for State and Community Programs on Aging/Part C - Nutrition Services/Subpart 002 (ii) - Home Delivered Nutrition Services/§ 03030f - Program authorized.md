@@ -10,7 +10,7 @@ The Assistant Secretary shall establish and carry out a program to make grants t
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text read as follows: "The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the establishment and operation of nutrition projects for older individuals which, 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one home delivered hot, cold, frozen, dried, canned, or supplemental foods (with a satisfactory storage life) meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide."
+<b>2006</b>—Pub. L. 109–365 amended section generally. Prior to amendment, text read as follows: "The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for the establishment and operation of nutrition projects for older individuals which, 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one home delivered hot, cold, frozen, dried, canned, or supplemental foods (with a satisfactory storage life) meal per day andany additional meals which the recipient of a grant or contract under this subpart may elect to provide."
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in two places.
 

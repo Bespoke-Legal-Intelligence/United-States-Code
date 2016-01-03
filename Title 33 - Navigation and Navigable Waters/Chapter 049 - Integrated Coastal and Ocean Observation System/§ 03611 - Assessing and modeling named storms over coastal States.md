@@ -42,7 +42,7 @@ In this section:
 
 #### (9) Post-storm assessment
 
-&emsp;The term "post-storm assessment" means a scientific assessment produced and certified by the Administrator to determine the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associated with a specific named storm to be used in the COASTAL Formula.
+&emsp;The term "post-storm assessment" means a scientific assessment produced and certified by the Administrator to determine the magnitude, timing, and spatial variations of winds, rainfall, and storm surges associatedwith a specific named storm to be used in the COASTAL Formula.
 
 #### (10) State
 
@@ -92,7 +92,7 @@ In this section:
 
 #### (6) Availability
 
-&emsp;The Administrator shall make available to the public the Named Storm Event Model andany post-storm assessment developed under this subsection.
+&emsp;The Administrator shall make available to the public the Named Storm Event Model and any post-storm assessment developed under this subsection.
 
 #### (c) Establishment of a protocol for post-storm assessment
 
@@ -138,7 +138,7 @@ In this section:
 
 #### (5) Coordinated deployments and data collection practices
 
-&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.
+&emsp;The Administrator shall, in consultation with the Office of the Federal Coordinator forMeteorology, coordinate the deployment of sensors as part of the protocol established under paragraph (1) and related data collection carried out by Federal, State, academic, and private entities who choose to cooperate with the Administrator in carrying out this subsection.
 
 #### (6) Priority acquisition and deployment
 

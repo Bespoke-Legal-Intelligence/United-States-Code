@@ -2,7 +2,7 @@
 
 (a) It shall be unlawful—
 
-&emsp;(1) for any manufacturer to introduce, or to deliver for introduction, into commerce, or toimport into the United States, any electronic product which does not comply with an applicable standard prescribed pursuant to section 360kk of this title;
+&emsp;(1) for any manufacturer to introduce, or to deliver for introduction, into commerce, or to import into the United States, any electronic product which does not comply with an applicable standard prescribed pursuant to section 360kk of this title;
 
 &emsp;(2) for any person to fail to furnish any notification or other material or information required by section 360ll or 360nn of this title; or to fail to comply with the requirements of section 360ll(f) of this title;
 

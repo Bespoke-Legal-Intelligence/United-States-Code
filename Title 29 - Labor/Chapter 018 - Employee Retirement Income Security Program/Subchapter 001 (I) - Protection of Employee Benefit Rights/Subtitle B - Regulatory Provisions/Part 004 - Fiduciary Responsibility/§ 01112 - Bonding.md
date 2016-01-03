@@ -56,7 +56,7 @@ Pub. L. 109–280, title VI, §622(b), Aug. 17, 2006, 120 Stat. 979, provided th
 
 #### Regulations
 
-Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this partcall for the promulgation of regulations, see sections 1031 and 1114 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be ", and".</i>
 

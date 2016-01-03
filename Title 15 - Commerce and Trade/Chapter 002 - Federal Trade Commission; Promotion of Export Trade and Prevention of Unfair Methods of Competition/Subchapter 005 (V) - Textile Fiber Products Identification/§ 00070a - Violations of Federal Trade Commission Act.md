@@ -6,7 +6,7 @@ The introduction, delivery for introduction, manufacture for introduction, sale,
 
 #### (b) Sale, offering for sale, advertising, delivery, transportation of products advertised for sale in commerce
 
-The sale, offering for sale, advertising, delivery, transportation, or causing to be transported, of any textile fiber product which has been advertised or offered for sale in commerce,and which is misbranded or falsely or deceptively advertised, within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The sale, offering for sale, advertising, delivery, transportation, or causing to be transported, of any textile fiber product which has been advertised or offered for sale in commerce, and which is misbranded or falsely or deceptively advertised, within the meaning of this subchapter or the rules and regulations promulgated thereunder, is unlawful, and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (c) Sale, offering for sale, advertising, delivery, transportation of products after shipment in commerce
 

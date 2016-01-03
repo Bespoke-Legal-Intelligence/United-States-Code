@@ -72,7 +72,7 @@ In general.—
 
 &emsp;&emsp;(i)
 
-Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of the standard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
+Analysis of potential energy savings.—If ASHRAE/IES Standard 90.1 is amended with respect to the standard levels or design requirements applicable under that standard to any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, or unfired hot water storage tanks, not later than 180 days after the amendment of thestandard, the Secretary shall publish in the Federal Register for public comment an analysis of the energy savings potential of amended energy efficiency standards.
 
 &emsp;&emsp;(ii)
 
@@ -198,7 +198,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(i) 11.0 for equipment with no heating or electric resistance heating; and
 
-&emsp;&emsp;(ii) 10.8 for equipment with all other heating system types that are integrated intothe equipment (at a standard rating of 95 degrees F db).
+&emsp;&emsp;(ii) 10.8 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
 &emsp;(C) For equipment manufactured on or after January 1, 2010, the minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 3.3 (at a high temperature rating of 47 degrees F db).
 
@@ -226,7 +226,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(ii) 10.4 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
 
-&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
+&emsp;(C) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than240,000 Btu per hour (cooling capacity) shall be 3.2 (at a high temperature rating of 47 degrees F db).
 
 (9) Very large commercial package air conditioning and heating equipment (other than single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 2010, shall meet the following standards:
 
@@ -335,7 +335,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
-(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such ruleshall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
+(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
 (B) The Secretary shall publish a final rule no later than 24 months after the effective date of the previous final rule to determine whether to amend the standards in effect for such product. Any such amendment shall apply to electric motors manufactured after a date which is five years after—
 
@@ -373,7 +373,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 | Freezers with transparent doors | 0\.75 V + 4.10 |
 | Refrigerators/freezers with solid doors the greater of | 0\.27 AV – 0.71 or 0.70. |
 
-(3) Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparent doors manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
+(3) Each commercial refrigerator with a self-contained condensing unit designed for pull-down temperature applications and transparentdoors manufactured on or after January 1, 2010, shall have a daily energy consumption (in kilowatt hours per day) of not more than 0.126 V + 3.51.
 
 (4)(A) Each SOC–SC–M manufactured on or after January 1, 2012, shall have a total daily energy consumption (in kilowatt hours per day) of not more than 0.6  ×  TDA + 1.0.
 
@@ -521,7 +521,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 #### (3) Additional specifications
 
-&emsp;Each walk-in cooler or walk-in freezer with transparent reach-in doors manufactured on or after January 1, 2009, shall also meet the following specifications:
+&emsp;Each walk-in cooler or walk-in freezer with transparent reach-in doors manufactured on orafter January 1, 2009, shall also meet the following specifications:
 
 &emsp;&emsp;(A) Transparent reach-in doors for walk-in freezers and windows in walk-in freezer doors shall be of triple-pane glass with either heat-reflective treated glass or gas fill.
 

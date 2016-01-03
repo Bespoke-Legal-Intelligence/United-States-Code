@@ -14,7 +14,7 @@
 
 (f) The Secretary may prescribe such regulations relating to eligibility for insurance under this section, the maximum amount of insurance, the effective date of insurance, the maximum duration of insurance, and other pertinent matters not specifically provided for in this section as the Secretary determines are in the best interest of veterans or the United States.
 
-(g) The amount of the insurance in force at any time shall be the amount necessary to pay the mortgage indebtedness in full, except as otherwise limited by subsection (b) of this section or regulations prescribed by the Secretary under this section.
+(g) The amount of the insurance in force at any time shall be the amount necessary to paythe mortgage indebtedness in full, except as otherwise limited by subsection (b) of this section or regulations prescribed by the Secretary under this section.
 
 (h) The Secretary shall issue to each individual insured under this section a certificate setting forth the benefits to which the individual is entitled under the insurance.
 
@@ -28,7 +28,7 @@
 
 (j) Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302,Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–289, div. B, title VI, §2602(b)(6), July 30, 2008, 122 Stat. 2860; Pub. L. 111–275, title IV, §407(a), Oct. 13, 2010, 124 Stat. 2880.)
+(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 110–289, div. B, title VI, §2602(b)(6), July 30, 2008, 122 Stat. 2860; Pub. L. 111–275, title IV, §407(a), Oct. 13, 2010, 124 Stat. 2880.)
 
 #### Amendments
 

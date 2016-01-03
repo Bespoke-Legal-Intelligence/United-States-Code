@@ -114,7 +114,7 @@
 
 &emsp;(17) "firefighter" means any employee engaged in the performance of work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment; and
 
-&emsp;(18) "United States" means the 50 States, the District of Columbia, the Commonwealthof Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
+&emsp;(18) "United States" means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
 (b)(1) The President may issue an order excluding any agency or subdivision thereof from coverage under this chapter if the President determines that—
 
@@ -180,7 +180,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Determinations
 
-1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to thoseagencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
+1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to those agencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
 1–102. Having determined that it is necessary in the interest of national security, the provisions of Chapter 71 of Title 5 of the United States Code are suspended with respect to any agency, installation, or activity listed in Section 1–3 of this Order. However, such suspension shall be applicable only to that portion of the agency, installation, or activity which is located outside the 50 States and the District of Columbia.
 
@@ -460,7 +460,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not bedelegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

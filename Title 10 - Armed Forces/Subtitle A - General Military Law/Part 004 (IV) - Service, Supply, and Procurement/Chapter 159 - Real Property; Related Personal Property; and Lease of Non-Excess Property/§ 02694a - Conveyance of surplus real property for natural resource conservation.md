@@ -10,7 +10,7 @@ Authority to Convey.—The Secretary of a military department may convey to an e
 
 &emsp;(3) has been made available for public benefit transfer for a sufficient period of time to potential claimants; and
 
-&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
+&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real propertydisposal processes and authorities under subtitle I of title 40.
 
 (b)
 
@@ -34,7 +34,7 @@ Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance 
 
 (d)
 
-Release of Covenants.—With the concurrence of the Secretary of Interior, the Secretary concerned may grant a release from a covenant included in the deed of conveyance of real property conveyed under this section, subject to thecondition that the recipient of the property pay the fair market value, as determined by the Secretary concerned, of the property at the time of the release of the covenant. The Secretary concerned may reduce the amount required to be paid under this subsection to account for the value of the natural resource conservation benefit that has accrued to the United States during the period the covenant was in effect, if the benefit was not taken into account in determining the original consideration for the conveyance.
+Release of Covenants.—With the concurrence of the Secretary of Interior, the Secretary concerned may grant a release from a covenant included in the deed of conveyance of real property conveyed under this section, subject to the condition that the recipient of the property pay the fair market value, as determined by the Secretary concerned, of the property at the time of the release of the covenant. The Secretary concerned may reduce the amount required to be paid under this subsection to account for the value of the natural resource conservation benefit that has accrued to the United States during the period the covenant was in effect, if the benefit was not taken into account in determining the original consideration for the conveyance.
 
 (e)
 

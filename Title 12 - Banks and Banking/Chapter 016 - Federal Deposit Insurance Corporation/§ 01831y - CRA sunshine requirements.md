@@ -48,7 +48,7 @@ Subsections (b) and (c) shall not apply with respect to any agreement entered in
 
 &emsp;&emsp;&emsp;(ii) a group of substantively related contracts with an aggregate value of cash payments, grants, or other consideration in excess of $10,000, or with an aggregate amount of loan principal in excess of $50,000, annually;
 
-> &emsp;&emsp;made pursuant to, or in connection with, the fulfillment of the Community ReinvestmentAct of 1977 \[12 U.S.C. 2901 et seq.\], at least 1 party to which is an insured depository institution or affiliate thereof, whether organized on a profit or not-for-profit basis; and
+> &emsp;&emsp;made pursuant to, or in connection with, the fulfillment of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\], at least 1 party to which is an insured depository institution or affiliate thereof, whether organized on a profit or not-for-profit basis; and
 
 &emsp;&emsp;(B) does not include—
 

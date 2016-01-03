@@ -56,7 +56,7 @@ Reports to Congress.—Upon the completion of a survey under this section, the S
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752.)
+(Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752.)
 
 #### Amendments
 

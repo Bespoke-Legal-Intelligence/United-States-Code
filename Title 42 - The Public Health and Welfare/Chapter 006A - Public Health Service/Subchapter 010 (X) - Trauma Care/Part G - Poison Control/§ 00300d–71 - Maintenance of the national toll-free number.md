@@ -12,7 +12,7 @@ There is authorized to be appropriated to carry out this section, $700,000 for e
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, textread as follows: "There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a)."
+<b>2014</b>—Subsec. (b). Pub. L. 113–77 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a)."
 
 <b>2008</b>—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to coordinate and assist in establishment of nationwide poison control center toll-free phone number, allowed for establishment and continued operation of privately funded nationwide toll-free numbers, and authorized appropriations for fiscal years 2000 through 2009.
 

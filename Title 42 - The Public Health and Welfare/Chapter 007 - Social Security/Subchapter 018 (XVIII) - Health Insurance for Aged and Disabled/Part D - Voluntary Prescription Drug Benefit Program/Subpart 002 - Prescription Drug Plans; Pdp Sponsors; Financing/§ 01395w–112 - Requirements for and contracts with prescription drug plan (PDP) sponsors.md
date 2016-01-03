@@ -82,7 +82,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to all clean claims submitted by pharmacies (other than pharmacies that dispense drugs by mail order only or are located in, or contract with, a long-term care facility) under this part within the applicable number of calendar days after the date on which the claim is received.
+&emsp;&emsp;&emsp;Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to all clean claims submitted by pharmacies (other than pharmacies that dispense drugs by mail order only or are located in, or contract with, along-term care facility) under this part within the applicable number of calendar days after the date on which the claim is received.
 
 #### (ii) Clean claim defined
 
@@ -118,7 +118,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (i) Claim deemed to be clean
 
-&emsp;&emsp;&emsp;A claim is deemed to be a clean claim if the PDP sponsor involved does not providenotice to the claimant of any deficiency in the claim—
+&emsp;&emsp;&emsp;A claim is deemed to be a clean claim if the PDP sponsor involved does not provide notice to the claimant of any deficiency in the claim—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to claims submitted electronically, within 10 days after the date on which the claim is received; and
 

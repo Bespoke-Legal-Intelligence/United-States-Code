@@ -24,7 +24,7 @@ For the purposes of this subchapter—
 
 &emsp;(f) The term "employee" means an individual employed by an employer, except that the term "employee" shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policy making level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency or political subdivision. With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.
 
-&emsp;(g) The term "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, ora possession of the United States; or between points in the same State but through a point outside thereof.
+&emsp;(g) The term "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States; or between a State and any place outside thereof; or within the District of Columbia, or a possession of the United States; or between points in the same State but through a point outside thereof.
 
 &emsp;(h) The term "industry affecting commerce" means any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce and includes any activity or industry "affecting commerce" within the meaning of the Labor-Management Reporting and Disclosure Act of 1959 \[29 U.S.C. 401 et seq.\], and further includes any governmental industry, business, or activity.
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 92–261, §2(2), substituted "fifteen or more employees" f
 
 Subsec. (c). Pub. L. 92–261, §2(3), struck out from term "employment agency" exemption from coverage for agencies of the United States, States or political subdivisions of States, other than the United States Employment Service and the system of State and local employment services receiving Federal assistance.
 
-Subsec. (e). Pub. L. 92–261, §2(4), substituted provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as twenty-five or more during the first year after March 24, 1972, and fifteen or more thereafter, for provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as one hundred or more during the first year after the effective date of this section, seventy-five or more during the second year after such date, fifty or more during the third year after such date, and twenty-five or more thereafter.
+Subsec. (e). Pub. L. 92–261, §2(4), substituted provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as twenty-five or more during the first year after March 24, 1972, and fifteen or more thereafter, for provisions which set forth the number of members for a labor organization to be deemed to be engaged in an industry affecting commerce as one hundred or more during the first yearafter the effective date of this section, seventy-five or more during the second year after such date, fifty or more during the third year after such date, and twenty-five or more thereafter.
 
 Subsec. (f). Pub. L. 92–261, §2(5), inserted provisions enumerating persons excepted from term "employee".
 
@@ -142,7 +142,7 @@ Sec. 202. Except in contracts exempted in accordance with Section 204 of this Or
 
 "During the performance of this contract, the contractor agrees as follows:
 
-"(1) The contractor will not discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, or national origin. The contractor will take affirmativeaction to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, color, religion, sex, sexual orientation, gender identity, or national origin. Such action shall include, but not be limited to the following: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices to be provided by the contracting officer setting forth the provisions of this nondiscrimination clause.
+"(1) The contractor will not discriminate against any employee or applicant for employment because of race, color, religion, sex, sexual orientation, gender identity, or national origin. The contractor will take affirmative action to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, color, religion, sex, sexual orientation, gender identity, or national origin. Such action shall include, but not be limited to the following: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship. The contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices to be provided by the contracting officer setting forth the provisions of this nondiscrimination clause.
 
 "(2) The contractor will, in all solicitations or advertisements for employees placed by or on behalf of the contractor, state that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
 
@@ -168,7 +168,7 @@ Sec. 203. (a) Each contractor having a contract containing the provisions prescr
 
 Sec. 204. (a) The Secretary of Labor may, when the Secretary deems that special circumstances in the national interest so require, exempt a contracting agency from the requirement of including any or all of the provisions of Section 202 of this Order in any specific contract, subcontract, or purchase order.
 
-(b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
+(b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial suppliesor raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
 
 (c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
@@ -314,7 +314,7 @@ Implementation of Reorganization Plan
 
 Responsibilities of Equal Employment Opportunity Commission
 
-1–201. The Equal Employment Opportunity Commission shall provide leadership and coordination to the efforts of Federal departments and agencies to enforce all Federal statutes, Executive orders, regulations, and policies which require equal employment opportunity without regard to race, color, religion, sex, national origin, age or handicap. It shall strive to maximize effort, promote efficiency, and eliminate conflict, competition, duplication and inconsistency among the operations, functions and jurisdictions of the Federal departments and agencies having responsibility for enforcing such statutes, Executive orders, regulations and policies.
+1–201. The Equal Employment Opportunity Commission shall provide leadership and coordination to theefforts of Federal departments and agencies to enforce all Federal statutes, Executive orders, regulations, and policies which require equal employment opportunity without regard to race, color, religion, sex, national origin, age or handicap. It shall strive to maximize effort, promote efficiency, and eliminate conflict, competition, duplication and inconsistency among the operations, functions and jurisdictions of the Federal departments and agencies having responsibility for enforcing such statutes, Executive orders, regulations and policies.
 
 1–202. In carrying out its functions under this order the Equal Employment Opportunity Commission shall consult with and utilize the special expertise of Federal departments and agencies with equal employment opportunity responsibilities. The Equal Employment Opportunity Commission shall cooperate with such departments and agencies in the discharge of their equal employment responsibilities.
 
@@ -364,7 +364,7 @@ Specific Responsibilities
 
 Annual Report
 
-1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
+1–401. The Equal Employment Opportunity Commission shall include in the annual report transmitted to the President and the Congress pursuant to Section 715 of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–14), a statement of the progress that has been made in achieving the purpose of this order. The Equal Employment Opportunity Commission shall provide Federal departments and agencies an opportunity to comment on the report prior to formal submission.
 
 #### 1–5.
 
@@ -768,7 +768,7 @@ Sec. 2. <i>Government-Wide Diversity and Inclusion Initiative and Strategic Plan
 
 (d) establish a system for reporting regularly on agencies' progress in implementing their agency-specific Diversity and Inclusion Strategic Plans and in meeting the objectives of this order.
 
-Sec. 3. <i>Responsibilities of Executive Departments and Agencies</i>. All agencies shall implement the Government-wide Plan prepared pursuant to section 2 of this order, and such other related guidance as issued fromtime to time by the Director of OPM and Deputy Director for Management of OMB. In addition, the head of each executive department and agency referred to under subsections (1) and (2) of section 901(b) of title 31, United States Code, shall:
+Sec. 3. <i>Responsibilities of Executive Departments and Agencies</i>. All agencies shall implement the Government-wide Plan prepared pursuant to section 2 of this order, and such other related guidance as issued from time to time by the Director of OPM and Deputy Director for Management of OMB. In addition, the head of each executive department and agency referred to under subsections (1) and (2) of section 901(b) of title 31, United States Code, shall:
 
 (a) designate the agency's Chief Human Capital Officer to be responsible for enhancing employment and promotion opportunities within the agency, in collaboration with the agency's Director of Equal Employment Opportunity and Director of Diversity and Inclusion, if any, and consistent with law and merit system principles, including development and implementation of the agency-specific Diversity and Inclusion Strategic Plan;
 

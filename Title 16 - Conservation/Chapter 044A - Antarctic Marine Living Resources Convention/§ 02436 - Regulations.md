@@ -1,10 +1,36 @@
 ### §2436. Regulations
 
+#### (a) In general
+
 The Secretary of Commerce, after consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, and the heads of other appropriate departments or agencies of the United States, shall promulgate such regulations as are necessary and appropriate to implement the provisions of this chapter.
 
-(Pub. L. 98–623, title III, §307, Nov. 8, 1984, 98 Stat. 3401.)
+#### (b) Regulations to implement conservation measures
+
+#### (1) In general
+
+&emsp;Notwithstanding subsections (b), (c), and (d) of section 553 of title 5, the Secretary of Commerce may publish in the Federal Register a final regulation to implement any conservation measure for which the Secretary of State notifies the Commission under section 2434(a)(1) of this title—
+
+&emsp;&emsp;(A) that has been in effect for 12 months or less;
+
+&emsp;&emsp;(B) that is adopted by the Commission; and
+
+&emsp;&emsp;(C) with respect to which the Secretary of State,<sup>1</sup> does not notify Commission <sup>2</sup> in accordance with section 2434(a)(1) of this title within the time period allotted for objections under Article IX of the Convention.
+
+#### (2) Entering into force
+
+&emsp;Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
+
+(Pub. L. 98–623, title III, §307, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, §106(2), Nov. 5, 2015, 129 Stat. 658.)
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

@@ -6,7 +6,7 @@
 
 &emsp;A country shall be a candidate country for purposes of eligibility for assistance for fiscal year 2004 if—
 
-&emsp;&emsp;(A) the country is eligible for assistance from the International Development Association, and the per capita income of thecountry is equal to or less than the historical ceiling of the International Development Association for that year, as defined by the International Bank for Reconstruction and Development; and
+&emsp;&emsp;(A) the country is eligible for assistance from the International Development Association, and the per capita income of the country is equal to or less than the historical ceiling of the International Development Association for that year, as defined by the International Bank for Reconstruction and Development; and
 
 &emsp;&emsp;(B) subject to paragraph (3), the country is not ineligible to receive United States economic assistance under part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] by reason of the application of any provision of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] or any other provision of law.
 

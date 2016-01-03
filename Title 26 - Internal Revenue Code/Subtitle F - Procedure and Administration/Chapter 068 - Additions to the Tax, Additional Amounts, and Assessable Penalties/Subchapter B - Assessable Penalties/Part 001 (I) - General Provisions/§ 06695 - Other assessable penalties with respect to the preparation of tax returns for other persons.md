@@ -28,11 +28,11 @@ Any person required to make a return under section 6060 who fails to comply with
 
 #### (f) Negotiation of check
 
-Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
+Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the fullamount of the check in the taxpayer's account in such bank for the benefit of the taxpayer.
 
-#### (g) Failure to be diligent in determining eligibility for earned income credit
+#### (g) Failure to be diligent in determining eligibility for child tax credit; American Opportunity Tax Credit; and earned income credit
 
-Any person who is a tax return preparer with respect to any return or claim for refund whofails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.
+Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32 shall pay a penalty of $500 for each such failure.
 
 #### (h) Adjustment for inflation
 
@@ -48,9 +48,15 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 &emsp;&emsp;(B) is not described in clause (i) <sup>2</sup> and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1692; amended Pub. L. 95–600, title VII, §701(cc)(1), Nov. 6, 1978, 92 Stat. 2923; Pub. L. 98–369, div. A, title I, §179(b)(2), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 101–239, title VII, §7733(a)–(d), Dec. 19, 1989, 103 Stat. 2402, 2403; Pub. L. 105–34, title X, §1085(a)(2), Aug. 5, 1997, 111 Stat. 956; Pub. L. 110–28, title VIII, §8246(a)(2)(G)(i), (ii), May 25, 2007, 121 Stat. 202; Pub. L. 112–41, title V, §501(a), Oct. 21, 2011, 125 Stat. 459; Pub. L. 113–295, div. B, title II, §208(c), Dec. 19, 2014, 128 Stat. 4073.)
+(Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1692; amended Pub. L. 95–600, title VII, §701(cc)(1), Nov. 6, 1978, 92 Stat. 2923; Pub. L. 98–369, div. A, title I, §179(b)(2), July 18, 1984, 98 Stat. 718; Pub. L. 99–44, §1(b), May 24, 1985, 99 Stat. 77; Pub. L. 101–239, title VII, §7733(a)–(d), Dec. 19, 1989, 103 Stat. 2402, 2403; Pub. L. 105–34, title X, §1085(a)(2), Aug. 5, 1997, 111 Stat. 956; Pub. L. 110–28, title VIII, §8246(a)(2)(G)(i), (ii), May 25, 2007, 121 Stat. 202; Pub. L. 112–41, title V, §501(a), Oct. 21, 2011, 125 Stat. 459; Pub. L. 113–295, div. B, title II, §208(c), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 114–113, div. Q, title II, §207(a), Dec. 18, 2015, 129 Stat. 3082.)
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–113 inserted "child tax credit; American Opportunity Tax Credit; and" before "earned income credit" in heading and substituted "section 24, 25A(a)(1), or 32" for "section 32" in text.
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–295 added subsec. (h).
 
@@ -82,6 +88,10 @@ Subsec. (e). Pub. L. 101–239, §7733(d), substituted "returns" for "return" in
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–600 inserted provision relating to deposits by a bank.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title II, §207(c), Dec. 18, 2015, 129 Stat. 3083, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
@@ -100,7 +110,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989."
+Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made bythis section \[amending this section\] shall apply to documents prepared after December 31, 1989."
 
 #### Effective Date of 1985 Amendment
 
@@ -116,7 +126,7 @@ Pub. L. 95–600, title VII, §701(cc)(3), Nov. 6, 1978, 92 Stat. 2924, provided
 
 #### Repeal of Regulations Covering Substantiation by Adequate Contemporaneous Records
 
-Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section179(b)(2) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
+Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section 179(b)(2) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)—".</i>
 

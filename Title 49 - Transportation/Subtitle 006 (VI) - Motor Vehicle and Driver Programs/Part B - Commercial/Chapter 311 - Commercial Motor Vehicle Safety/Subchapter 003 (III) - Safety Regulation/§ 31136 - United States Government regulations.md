@@ -16,7 +16,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 (b)
 
-Eliminating and Amending Existing Regulations.—The Secretary may not eliminate oramend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
+Eliminating and Amending Existing Regulations.—The Secretary may not eliminate or amend an existing motor carrier safety regulation related only to the maintenance, equipment, loading, or operation (including routing) of vehicles carrying material found to be hazardous under section 5103 of this title until an equivalent or more stringent regulation has been prescribed under section 5103.
 
 (c)
 
@@ -38,31 +38,57 @@ Exemptions.—The Secretary may grant in accordance with section 31315 waivers a
 
 (f)
 
-Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) The Secretary may not—
+Regulatory Impact Analysis.—
 
-&emsp;(A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+&emsp;(1)
 
-&emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+In general.—Within each regulatory impact analysis of a proposed or final major rule issued by the Federal Motor Carrier Safety Administration, the Secretary shall, whenever practicable—
 
-(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+&emsp;&emsp;(A) consider the effects of the proposed or final rule on different segments of the motor carrier industry; and
 
-&emsp;(A) paragraph (1) of this subsection;
+&emsp;&emsp;(B) formulate estimates and findings based on the best available science.
 
-&emsp;(B) a minimum age requirement of the United States Government for operation of the vehicle; and
+&emsp;(2)
 
-&emsp;(C) a medical or physical condition that—
+Scope.—To the extent feasible and appropriate, and consistent with law, an analysis described in paragraph (1) shall—
 
-&emsp;&emsp;(i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+&emsp;&emsp;(A) use data that is representative of commercial motor vehicle operators or motor carriers, or both, that will be impacted by the proposed or final rule; and
 
-&emsp;&emsp;(ii) existed on July 1, 1988;
+&emsp;&emsp;(B) consider the effects on commercial truck and bus carriers of various sizes and types.
 
-&emsp;&emsp;(iii) has not substantially worsened; and
+(g)
 
-&emsp;&emsp;(iv) does not involve alcohol or drug abuse.
+Public Participation.—
 
-(3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+&emsp;(1)
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, §4007(c), June 9, 1998, 112 Stat. 403; Pub. L. 109–59, title IV, §4116(b), Aug. 10, 2005, 119 Stat. 1728; Pub. L. 112–141, div. C, title II, §32911, July 6, 2012, 126 Stat. 818.)
+In general.—If a proposed rule under this part is likely to lead to the promulgation of a major rule, the Secretary, before publishing such proposed rule, shall—
+
+&emsp;&emsp;(A) issue an advance notice of proposed rulemaking; or
+
+&emsp;&emsp;(B) proceed with a negotiated rulemaking.
+
+&emsp;(2)
+
+Requirements.—Each advance notice of proposed rulemaking issued under paragraph (1) shall—
+
+&emsp;&emsp;(A) identify the need for a potential regulatory action;
+
+&emsp;&emsp;(B) identify and request public comment on the best available science or technical information relevant to analyzing potential regulatory alternatives;
+
+&emsp;&emsp;(C) request public comment on the available data and costs with respect to regulatory alternatives reasonably likely to be considered as part of the rulemaking; and
+
+&emsp;&emsp;(D) request public comment on available alternatives to regulation.
+
+&emsp;(3)
+
+Waiver.—This subsection does not apply to a proposed rule if the Secretary, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest.
+
+(h)
+
+Rule of Construction.—Nothing in subsection (f) or (g) may be construed to limit the contents of an advance notice of proposed rulemaking.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, §4007(c), June 9, 1998, 112 Stat. 403; Pub. L. 109–59, title IV, §4116(b), Aug. 10, 2005, 119 Stat. 1728; Pub. L. 112–141, div. C, title II, §32911, July 6, 2012, 126 Stat. 818; Pub. L. 114–94, div. A, title V, §5202, Dec. 4, 2015, 129 Stat. 1534.)
 
 Historical and Revision Notes
 
@@ -112,6 +138,10 @@ In subsection (f)(2)(C)(i), the words "an operator" are substituted for "such pe
 
 #### Amendments
 
+<b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f) and redesignated and transferred former subsec. (f) of this section to subsec. (g) of section 31315 of this title.
+
+Subsecs. (g), (h). Pub. L. 114–94, §5202(2), added subsecs. (g) and (h).
+
 <b>2012</b>—Subsec. (a)(5). Pub. L. 112–141 added par. (5).
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and".
@@ -122,6 +152,10 @@ In subsection (f)(2)(C)(i), the words "an operator" are substituted for "such pe
 
 <b>1995</b>—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -129,6 +163,70 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under section 31149 of this title.
+
+#### Windshield Technology
+
+Pub. L. 114–94, div. A, title V, §5301, Dec. 4, 2015, 129 Stat. 1543, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall revise the regulations in section 393.60(e) of title 49, Code of Federal Regulations (relating to the prohibition on obstructions to the driver's field of view) to exempt from that section the voluntary mounting on a windshield of vehicle safety technology likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent the exemption.
+
+"(b)
+
+Vehicle Safety Technology Defined.—In this section, the term 'vehicle safety technology' includes a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, and active cruise control system and any other technology that the Secretary considers applicable.
+
+"(c)
+
+Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
+
+#### Operators of Hi-Rail Vehicles
+
+Pub. L. 114–94, div. A, title V, §5519, Dec. 4, 2015, 129 Stat. 1558, provided that:
+
+"(a)
+
+In General.—In the case of a commercial motor vehicle driver subject to the hours of service requirements in part 395 of title 49, Code of Federal Regulations, who is driving a hi-rail vehicle, the maximum on duty time under section 395.3 of such title for such driver shall not include time in transportation to or from a duty assignment if such time in transportation—
+
+&emsp;"(1) does not exceed 2 hours per calendar day or a total of 30 hours per calendar month; and
+
+&emsp;"(2) is fully and accurately accounted for in records to be maintained by the motor carrier and such records are made available upon request of the Federal Motor Carrier Safety Administration or the Federal Railroad Administration.
+
+"(b)
+
+Hi-Rail Vehicle Defined.—In this section, the term 'hi-rail vehicle' means an internal rail flaw detection vehicle equipped with flange hi-rails."
+
+#### Exemptions From Requirements for Certain Welding Trucks Used in Pipeline Industry
+
+Pub. L. 114–94, div. A, title V, §5524, Dec. 4, 2015, 129 Stat. 1560, provided that:
+
+"(a)
+
+Covered Motor Vehicle Defined.—In this section, the term 'covered motor vehicle' means a motor vehicle that—
+
+&emsp;"(1) is traveling in the State in which the vehicle is registered or another State;
+
+&emsp;"(2) is owned by a welder;
+
+&emsp;"(3) is a pick-up style truck;
+
+&emsp;"(4) is equipped with a welding rig that is used in the construction or maintenance of pipelines; and
+
+&emsp;"(5) has a gross vehicle weight and combination weight rating and weight of 15,000 pounds or less.
+
+"(b)
+
+Federal Requirements.—A covered motor vehicle, including the individual operating such vehicle and the employer of such individual, shall be exempt from the following:
+
+&emsp;"(1) Any requirement relating to registration as a motor carrier, including the requirement to obtain and display a Department of Transportation number, established under chapters 139 and 311 of title 49, United States Code.
+
+&emsp;"(2) Any requirement relating to driver qualifications established under chapter 311 of title 49, United States Code.
+
+&emsp;"(3) Any requirement relating to driving of commercial motor vehicles established under chapter 311 of title 49, United States Code.
+
+&emsp;"(4) Any requirement relating to parts and accessories and inspection, repair, and maintenance of commercial motor vehicles established under chapter 311 of title 49, United States Code.
+
+&emsp;"(5) Any requirement relating to hours of service of drivers, including maximum driving and on duty time, established under chapter 315 of title 49, United States Code."
 
 #### Reliable Home Heating
 
@@ -192,7 +290,7 @@ Advanced glazing.—The term 'advanced glazing' means glazing installed in a por
 
 &emsp;"(2)
 
-Bus.—The term 'bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
+Bus.—The term 'bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L.112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
 
 &emsp;"(3)
 
@@ -468,7 +566,7 @@ Report.—Not later than 120 days after completion of the review and assessment 
 
 #### Exemptions From Requirements for Covered Farm Vehicles
 
-Pub. L. 112–141, div. C, title II, §32934, July 6, 2012, 126 Stat. 830, provided that:
+Pub. L. 112–141, div. C, title II, §32934, July 6, 2012, 126 Stat. 830, as amended by Pub. L. 114–94, div. A, title V, §5518, Dec. 4, 2015, 129 Stat. 1558, provided that:
 
 "(a)
 
@@ -502,7 +600,11 @@ State Requirements.—
 
 &emsp;"(1)
 
-In general.—Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from any State requirement relating to the operation of that vehicle.
+In general.—Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from—
+
+&emsp;&emsp;"(A) a requirement described in subsection (a) or a compatible State requirement; or
+
+&emsp;&emsp;"(B) any other minimum standard provided by a State relating to the operation of that vehicle.
 
 &emsp;"(2)
 
@@ -590,7 +692,7 @@ Construction.—Nothing in this section shall be construed as authority for the 
 
 #### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
 
-Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: "Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003."
+Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: "Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or froma theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003."
 
 #### Interstate Van Operations
 
@@ -602,7 +704,7 @@ Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided tha
 
 #### Certain Exemptions
 
-Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32101(d), July 6, 2012, 126 Stat. 778, provided that:
+Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559, provided that:
 
 "(a)
 
@@ -610,7 +712,7 @@ Exemptions.—
 
 &emsp;"(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—
 
 &emsp;&emsp;"(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
 
@@ -672,7 +774,7 @@ Ground water well drilling rig.—The term 'ground water well drilling rig' mean
 
 &emsp;"(4)
 
-Transportation of construction materials and equipment.—The term 'transportation of construction materials and equipment' means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 50 air mile radius of the normal work reporting location of the driver. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
+Transportation of construction materials and equipment.—The term 'transportation of construction materials and equipment' means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, uponnotice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
 
 &emsp;"(5)
 
@@ -718,7 +820,7 @@ Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided th
 
 #### Improved Interstate School Bus Safety
 
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: "Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\])."
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, required the Secretary to initiate a rulemaking, not later than 6 months after June 9, 1998, regarding applicability of commercial motor carrier safety regulations to interstate school transportation operations by local educational agencies.
 
 #### Federal Highway Administration Rulemaking
 
@@ -742,7 +844,7 @@ Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by 
 
 "(a)
 
-In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
+In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant tosections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
 
 "(b)
 
@@ -782,9 +884,11 @@ Review by Secretary.—Within 90 days after the completion of the pilot program,
 
 &emsp;"(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
 
-&emsp;"(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility tomotor carriers delivering home heating oil during winter periods of peak demand.
+&emsp;"(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand.
 
 "(f)
 
 Definition.—In this section, the term '7 or 8 consecutive days' has the meaning such term has under section 345 of this Act \[set out above\]."
+
+<i>\[Pub. L. 114–94, div. A, title V, §5101(e)(11), (f), (g), Dec. 4, 2015, 129 Stat. 1526, provided that, effective Oct. 1, 2016, section 346 of Pub. L. 104–59, set out above, is repealed, subject to a transition provision.\]</i>
 

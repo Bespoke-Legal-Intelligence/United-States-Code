@@ -60,7 +60,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, of converter boxes and of remote control devices compatible with converter boxes;
 
-&emsp;&emsp;(D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automation communications, and computer network services;
+&emsp;&emsp;(D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automationcommunications, and computer network services;
 
 &emsp;&emsp;(E) to require a cable operator who offers subscribers the option of renting a remote control unit—
 

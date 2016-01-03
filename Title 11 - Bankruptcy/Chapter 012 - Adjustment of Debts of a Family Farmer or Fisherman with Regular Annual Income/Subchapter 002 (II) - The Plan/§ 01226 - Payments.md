@@ -32,7 +32,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 #### Effective Date of 2005 Amendment
 
-Amendment by section 1502(a)(9) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by section 1502(a)(9) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicablewith respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

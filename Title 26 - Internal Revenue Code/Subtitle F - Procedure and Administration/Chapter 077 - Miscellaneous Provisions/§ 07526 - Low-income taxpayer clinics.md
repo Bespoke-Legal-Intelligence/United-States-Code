@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (1) Aggregate limitation
 
-&emsp;Unless otherwise provided by specific appropriation, the Secretary shall not allocate more than $6,000,000 per year (exclusive of costs of administering the program) to grants under this section.
+&emsp;Unless otherwise provided by specific appropriation, the Secretary shall not allocate morethan $6,000,000 per year (exclusive of costs of administering the program) to grants under this section.
 
 #### (2) Limitation on annual grants to a clinic
 

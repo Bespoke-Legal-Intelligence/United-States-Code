@@ -42,7 +42,7 @@ The deadline for the initial guidelines required by paragraph (1) may be extende
 
 #### References in Text
 
-The amendments made by subsection (a), referred to in par. (1), mean the amendments made by subsec. (a) of section 544 of Pub. L. 110–81 to paragraph 2 of rule XXXV of the Standing Rules of the Senate, which are not classified to the Code.
+The amendments made by subsection (a), referred to in par. (1), mean the amendments made by subsec. (a)of section 544 of Pub. L. 110–81 to paragraph 2 of rule XXXV of the Standing Rules of the Senate, which are not classified to the Code.
 
 #### Codification
 

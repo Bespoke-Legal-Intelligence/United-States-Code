@@ -34,7 +34,7 @@
 
 (2) Notwithstanding paragraph (1), when the petition is one subject to section 1671a(b)(3) of this title, the Administering Authority shall, taking into account the nature of the countervailable subsidy concerned, make the determination required by paragraph (1) on an expedited basis and within 65 days after the date on which the administering authority initiates an investigation under section 1671a(c) of this title unless the provisions of subsection (c) of this section apply.
 
-(3) Within 55 days after the initiation of an investigation the administering authority shall cause an official designated for such purpose to review the information concerning the case received during the first 50 days of the investigation, and, if there appears to be sufficient information available upon which the determination can reasonably be based, to disclose to the petitioner and any interested party, then a party to the proceedings that requests such disclosure, all available nonconfidential information and all other information which is disclosed pursuant to section 1677f of this title. Within 3 days (not counting Saturdays, Sundays, or legal public holidays) after such disclosure, the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom such disclosure was made may furnish to the administering authority an irrevocable written waiver of verification of the information received bythe authority, and an agreement that it is willing to have a determination made on the basis of the record then available to the authority. If a timely waiver and agreement have been received from the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom the disclosure was made, and the authority finds that sufficient information is then available upon which the preliminary determination can reasonably be based, a preliminary determination shall be made on an expedited basis on the basis of the record established during the first 50 days after the investigation was initiated.
+(3) Within 55 days after the initiation of an investigation the administering authority shall cause an official designated for such purpose to review the information concerning the case received during the first 50 days of the investigation, and, if there appears to be sufficient information available upon which the determination can reasonably be based, to disclose to the petitioner and any interested party, then a party to the proceedings that requests such disclosure, all available nonconfidential information and all other information which is disclosed pursuant to section 1677f of this title. Within 3 days (not counting Saturdays, Sundays, or legal public holidays) after such disclosure, the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom such disclosure was made may furnish to the administering authority an irrevocable written waiver of verification of the information received by the authority, and an agreement that it is willing to have a determination made on the basis of the record then available to the authority. If a timely waiver and agreement have been received from the petitioner and each party which is an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title to whom the disclosure was made, and the authority finds that sufficient information is then available upon which the preliminary determination can reasonably be based, a preliminary determination shall be made on an expedited basis on the basis of the record established during the first 50 days after the investigation was initiated.
 
 (4)
 
@@ -46,7 +46,7 @@ General rule.—In making a determination under this subsection, the administeri
 
 &emsp;(B)
 
-Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
+Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (otherthan a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(C)
 
@@ -86,7 +86,7 @@ Notification of article 8 violation.—If the only subsidy under investigation i
 
 &emsp;If—
 
-&emsp;&emsp;(A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b) of this section, or
+&emsp;&emsp;(A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b), or
 
 &emsp;&emsp;(B) the administering authority concludes that the parties concerned are cooperating and determines that—
 
@@ -102,15 +102,15 @@ Notification of article 8 violation.—If the only subsidy under investigation i
 
 &emsp;&emsp;&emsp;(ii) additional time is necessary to make the preliminary determination,
 
-> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b) of this section until not later than the 130th day after the date on which the administering authority initiates an investigation under section 1671a(c) of this title, or an investigation is initiated under section 1671a(a) of this title.
+> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b) until not later than the 130th day after the date on which the administering authority initiates an investigation under section 1671a(c) of this title, or an investigation is initiated under section 1671a(a) of this title.
 
 #### (2) Notice of postponement
 
-&emsp;The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
+&emsp;The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
 
 #### (d) Effect of determination by the administering authority
 
-If the preliminary determination of the administering authority under subsection (b) of this section is affirmative, the administering authority—
+If the preliminary determination of the administering authority under subsection (b) is affirmative, the administering authority—
 
 &emsp;(1)(A) shall—
 
@@ -142,7 +142,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (2) Suspension of liquidation
 
-&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
 &emsp;&emsp;(A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -150,17 +150,17 @@ If the preliminary determination of the administering authority under subsection
 
 #### (f) Notice of determination
 
-Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
 #### (g) Time period where upstream subsidization is involved
 
 #### (1) In general
 
-&emsp;Whenever the administering authority concludes prior to a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under section 1671a(b) of this title or initiation of an investigation under section 1671a(a) of this title (310 days in cases declared extraordinarily complicated under subsection (c) of this section), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
+&emsp;Whenever the administering authority concludes prior to a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under section 1671a(b) of this title or initiation of an investigation under section 1671a(a) of this title (310 days in cases declared extraordinarily complicated under subsection (c)), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
 
 #### (2) Exceptions
 
-&emsp;Whenever the administering authority concludes, after a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
+&emsp;Whenever the administering authority concludes, after a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
 
 &emsp;&emsp;(A) in cases in which the preliminary determination was negative, the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under section 1671d(a)(1) of this title; or
 
@@ -168,7 +168,7 @@ Whenever the Commission or the administering authority makes a determination und
 
 &emsp;&emsp;&emsp;(i) need not be made until the conclusion of the first annual review under section 1675 of this title of any eventual Countervailing Duty Order, or, at the option of the petitioner, or
 
-&emsp;&emsp;&emsp;(ii) will be made in the investigation and the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under section 1671d(a)(1) of this title, as appropriate,<sup>1</sup> except that the suspension of liquidation ordered in the preliminary determination shall terminate at the end of 120 days from the date of publication of that determination and not be resumed unlessand until the publication of a Countervailing Duty Order under section 1671e(a) of this title.
+&emsp;&emsp;&emsp;(ii) will be made in the investigation and the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under section 1671d(a)(1) of this title, as appropriate,<sup>1</sup> except that the suspension of liquidation ordered in the preliminary determination shall terminate at the end of 120 days from the date of publication of that determination and not be resumed unless and until the publication of a Countervailing Duty Order under section 1671e(a) of this title.
 
 > &emsp;There may be an extension of time for the making of a final determination under this subsection only if the administering authority determines that such additional time is necessary to make the required determination concerning upstream subsidization.
 

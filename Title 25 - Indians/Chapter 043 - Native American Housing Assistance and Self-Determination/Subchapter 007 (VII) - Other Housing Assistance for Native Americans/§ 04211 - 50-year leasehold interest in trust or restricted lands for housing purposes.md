@@ -2,11 +2,11 @@
 
 #### (a) Authority to lease
 
-Notwithstanding any other provision of law, any trust or restricted Indian lands, whethertribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
+Notwithstanding any other provision of law, any trust or restricted Indian lands, whether tribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
 
 #### (b) Term
 
-Each lease pursuant to subsection (a) of this section shall be for a term not exceeding 50 years.
+Each lease pursuant to subsection (a) shall be for a term not exceeding 50 years.
 
 #### (c) Rule of construction
 

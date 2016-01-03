@@ -52,7 +52,7 @@ Limitation on Appropriations for Military Personnel.—No funds may be appropria
 
 &emsp;(2) the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law; or
 
-&emsp;(3) the use of reserve component personnel to perform active duty or full-time NationalGuard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
+&emsp;(3) the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
 
 (d)
 
@@ -78,7 +78,7 @@ Authority for Secretary of Defense Variances for Active-Duty and Selected Reserv
 
 &emsp;(3) vary the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of any of the reserve components by a number equal to not more than 3 percent of that end strength; and
 
-&emsp;(4) increase the maximum strength authorized pursuant to subsection (b)(1) for a fiscal year for certain reserves on active duty for any of the reserve components by a number equal to not more than 10 percent of that strength.
+&emsp;(4) increase the maximum strength authorized pursuant to subsection (b)(1) for a fiscal year for certain reserves on active duty for any of the reserve components by a numberequal to not more than 10 percent of that strength.
 
 (g)
 
@@ -118,7 +118,7 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(10) Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under section 112 of title 32.
 
-&emsp;(11) Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+&emsp;(11) Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) <sup>1</sup> for the administration of the Selective Service System.
 
 &emsp;(12) Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32.
 
@@ -130,9 +130,11 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 Section 1203 of the Cooperative Threat Reduction Act of 1993, referred to in subsec. (i)(9), is section 1203 of Pub. L. 103–160, div. A, title XII, which was classified to section 5952 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 113–291, div. A, title XIII, §1351(3), Dec. 19, 2014, 128 Stat. 3607.
 
+Section 10(b)(2) of the Military Selective Service Act, referred to in subsec. (i)(11), was classified to section 460(b)(2) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3809(b)(2) of Title 50.
+
 #### Prior Provisions
 
-A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
+A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806;Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115, Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
 
@@ -308,7 +310,7 @@ Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, 
 
 #### End Strengths for Active Forces
 
-Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for a contingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
+Pub. L. 109–163, div. A, title IV, §401, Jan. 6, 2006, 119 Stat. 3218, which authorized specified strengths for Armed Forces active duty personnel as of Sept. 30, 2006, and provided that costs for that fiscal year of active duty personnel of the Army and the Marine Corps in excess of specified amounts would be paid out of funds authorized to be appropriated for that fiscal year for acontingent emergency reserve fund or as an emergency supplemental appropriation, was from the National Defense Authorization Act for Fiscal Year 2006 and was repeated in provisions of subsequent authorization acts which are not set out in the Code. Similar provisions were contained in the following prior authorization acts:
 
 Pub. L. 108–375, div. A, title IV, §401, Oct. 28, 2004, 118 Stat. 1862.
 

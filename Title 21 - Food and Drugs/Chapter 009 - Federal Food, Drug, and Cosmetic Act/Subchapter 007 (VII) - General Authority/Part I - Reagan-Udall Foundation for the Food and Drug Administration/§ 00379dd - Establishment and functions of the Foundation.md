@@ -18,7 +18,7 @@ The Foundation shall—
 
 &emsp;(3) in consultation with the Secretary, identify existing and proposed Federal intramural and extramural research and development programs relating to the goals and priorities established under paragraph (2), coordinate Foundation activities with such programs, and minimize Foundation duplication of existing efforts;
 
-&emsp;(4) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include the Food and Drug Administration, university consortia, public-private partnerships, institutions of higher education, entities described in section 501(c)(3) of title 26 (and exempt from tax under section 501(a) of such title), and industry, to efficiently and effectively advance the goals and priorities established under paragraph (2);
+&emsp;(4) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities,which may include the Food and Drug Administration, university consortia, public-private partnerships, institutions of higher education, entities described in section 501(c)(3) of title 26 (and exempt from tax under section 501(a) of such title), and industry, to efficiently and effectively advance the goals and priorities established under paragraph (2);
 
 &emsp;(5) recruit meeting participants and hold or sponsor (in whole or in part) meetings as appropriate to further the goals and priorities established under paragraph (2);
 
@@ -268,7 +268,7 @@ The Executive Director shall ensure that the funds received from the Treasury ar
 
 #### (n) Funding
 
-From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
+From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to theFoundation to carry out subsections (a), (b), and (d) through (m).
 
 (June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890.)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.
+&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed bythis chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.
 
 #### (2) Year credit allowed
 
@@ -98,7 +98,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 &emsp;(1) subsection (a) shall not apply to any qualified adoption expense with respect to such adoption unless such adoption becomes final, and
 
-&emsp;(2) any such expense which is paid or incurred before the taxable year in which such adoption becomes final shall be taken into account under this section as if such expense were paid or incurred during such year.
+&emsp;(2) any such expense which is paid or incurred before the taxable year in which suchadoption becomes final shall be taken into account under this section as if such expense were paid or incurred during such year.
 
 #### (f) Filing requirements
 
@@ -264,7 +264,7 @@ Application of egtrra sunset.—The amendments made by subparagraphs (A) and (B)
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: "The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates."
+Pub. L. 109–135, title IV, §402(i)(3)(H), Dec. 21, 2005, 119 Stat. 2615, provided that: "The amendments made by this paragraph \[amending this section and sections 24, 25, 25B, 25D, 904, and 1400C of this title\] (and each part thereof) shall be subject to title IX of the EconomicGrowth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provisions of such Act to which such amendment (or part thereof) relates."
 
 Pub. L. 109–135, title IV, §402(i)(4), Dec. 21, 2005, 119 Stat. 2615, struck out Pub. L. 109–58, §1335(b)(1)–(3), and provided in part that: "The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made \[by\] such paragraphs \[amending this section and sections 25 and 1400C of this title\] had never been enacted."
 

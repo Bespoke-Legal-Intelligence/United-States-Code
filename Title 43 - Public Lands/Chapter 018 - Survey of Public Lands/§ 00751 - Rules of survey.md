@@ -14,7 +14,7 @@ Sixth. All lines shall be plainly marked upon trees, and measured with chains, c
 
 Seventh. Every surveyor shall note in his field book the true situations of all mines, salt licks, salt springs, and mill-seats which come to his knowledge; all watercourses over which the line he runs may pass; and also the quality of the lands.
 
-Eighth. These field books shall be returned to the Secretary of the Interior or such officer as he may designate, who shall cause therefrom a description of the whole lands surveyed to be made out and transmitted to the officers who may superintend the sales. He shall also cause a fair plat to be made of the townships and fractional parts of townships contained in the lands, describing the subdivisions thereof, and the marks of the corners. This plat shall be recorded in books to be kept for that purpose; and a copy thereof shall be kept open at the office of the Secretary of the Interior or of such agency as he may designate for public information, and other copies shall be sent to the places of the sale, and to the Bureau of Land Management.
+Eighth. These field books shall be returned to the Secretary of the Interior or such officer as he may designate, who shall cause therefrom a description of the whole lands surveyed to be made out and transmitted to the officers who may superintend the sales. He shall also cause a fair plat to be made of the townships and fractional parts of townships contained in the lands, describing the subdivisions thereof, and the marks of the corners. This plat shall be recorded in books to be kept for that purpose; and a copythereof shall be kept open at the office of the Secretary of the Interior or of such agency as he may designate for public information, and other copies shall be sent to the places of the sale, and to the Bureau of Land Management.
 
 (R.S. §2395; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Apr. 29, 1950, ch. 134, §1, 64 Stat. 92.)
 
@@ -72,7 +72,7 @@ Topics.—In the report required by subsection (c), the Secretary of the Interio
 
 &emsp;"(4) ways to improve the coordination of Federal land information activities; and
 
-&emsp;"(5) model standards developed by the Secretary for compatible multipurpose land information systemsfor use by Federal, State and local governmental agencies, the public, and the private sector.
+&emsp;"(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector.
 
 "(e)
 

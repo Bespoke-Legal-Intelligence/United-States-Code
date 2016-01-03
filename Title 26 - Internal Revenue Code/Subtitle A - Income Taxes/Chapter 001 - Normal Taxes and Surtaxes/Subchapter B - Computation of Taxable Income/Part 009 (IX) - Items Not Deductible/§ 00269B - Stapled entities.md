@@ -8,7 +8,7 @@ Except as otherwise provided by regulations, for purposes of this title—
 
 &emsp;(2) in applying section 1563, stock in a second corporation which constitutes a stapled interest with respect to stock of a first corporation shall be treated as owned by such first corporation, and
 
-&emsp;(3) in applying subchapter M for purposes of determining whether any stapled entity is aregulated investment company or a real estate investment trust, all entities which are stapled entities with respect to each other shall be treated as 1 entity.
+&emsp;(3) in applying subchapter M for purposes of determining whether any stapled entity is a regulated investment company or a real estate investment trust, all entities which are stapled entities with respect to each other shall be treated as 1 entity.
 
 #### (b) Secretary to prescribe regulations
 
@@ -54,7 +54,7 @@ Nothing in section 894 or 7852(d) or in any other provision of law shall be cons
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted "and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation".
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted "and regulations providing that any tax imposed on theforeign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation".
 
 Subsec. (e). Pub. L. 99–514, §1810(j)(2), added subsec. (e).
 
@@ -104,7 +104,7 @@ Elections to treat stapled foreign entities as subsidiaries.—
 
 &emsp;"(A)
 
-In general.—In the case of any foreign corporation and domestic corporation which as of June 30, 1983, were stapled entities, such domestic corporation may elect (in lieu of applying paragraph (1) ofsection 269B(a) of such Code) to be treated as owning all interests in the foreign corporation which constitute stapled interests with respect to stock of the domestic corporation.
+In general.—In the case of any foreign corporation and domestic corporation which as of June 30, 1983, were stapled entities, such domestic corporation may elect (in lieu of applying paragraph (1) of section 269B(a) of such Code) to be treated as owning all interests in the foreign corporation which constitute stapled interests with respect to stock of the domestic corporation.
 
 &emsp;"(B)
 
@@ -232,7 +232,7 @@ Property held by 10-percent subsidiaries treated as nonqualified.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), any interest in real property held by a10-percent subsidiary entity of an exempt REIT or stapled entity shall be treated as a nonqualified real property interest.
+In general.—Except as provided in subparagraph (B), any interest in real property held by a 10-percent subsidiary entity of an exempt REIT or stapled entity shall be treated as a nonqualified real property interest.
 
 &emsp;&emsp;"(B)
 

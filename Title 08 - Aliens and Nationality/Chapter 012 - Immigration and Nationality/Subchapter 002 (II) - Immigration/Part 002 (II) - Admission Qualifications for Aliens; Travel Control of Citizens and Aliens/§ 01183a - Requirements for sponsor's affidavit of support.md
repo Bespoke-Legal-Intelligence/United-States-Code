@@ -8,9 +8,9 @@
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
-&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup> of this section), consistent with the provisions of this section; and
+&emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup>), consistent with the provisions of this section; and
 
-&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2) of this section.
+&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2).
 
 #### (2) Period of enforceability
 
@@ -68,7 +68,7 @@
 
 #### (c) Remedies
 
-Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include correspondingremedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
+Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
 
 #### (d) Notification of change of address
 
@@ -88,11 +88,11 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (e) Jurisdiction
 
-An action to enforce an affidavit of support executed under subsection (a) of this section may be brought against the sponsor in any appropriate court—
+An action to enforce an affidavit of support executed under subsection (a) may be brought against the sponsor in any appropriate court—
 
 &emsp;(1) by a sponsored alien, with respect to financial support; or
 
-&emsp;(2) by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2) of this section, with respect to reimbursement.
+&emsp;(2) by the appropriate entity of the Federal Government, a State or any political subdivision of a State, or by any other nongovernmental entity under subsection (b)(2), with respect to reimbursement.
 
 #### (f) "Sponsor" defined
 
@@ -146,7 +146,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (i) Method of demonstration
 
-&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal incometax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
 
 #### (ii) Flexibility
 
@@ -180,9 +180,9 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 #### References in Text
 
-Subsection (e) of this section, referred to in subsec. (a)(1)(B), does not define "means-tested public benefit".
+Subsection (e), referred to in subsec. (a)(1)(B), does not define "means-tested public benefit".
 
-The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, ThePublic Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -300,7 +300,7 @@ Pub. L. 104–193, title IV, §423(d), Aug. 22, 1996, 110 Stat. 2273, as amended
 
 &emsp;"(10) Means-tested programs under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
-&emsp;"(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\]."
+&emsp;"(11) Benefits under the \[sic\] title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

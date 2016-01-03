@@ -4,7 +4,7 @@
 
 A declaration filed pursuant to section 4201 <sup>1</sup> of this title and in accordance with sections 4202 and 4203 of this title is valid unless—
 
-&emsp;(1) the declaration is filed by a current or former officer or employee of a Federal or State government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant's government employment;
+&emsp;(1) the declaration is filed by a current or former officer or employee of a Federal orState government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant's government employment;
 
 &emsp;(2) the declaration is filed by a person who knowingly participated in the violation of section 1517 of title 18 or any of the sections of title 18 referred to in section 1833a(c) of this title, or any other fraudulent conduct with respect to which the declaration is made;
 
@@ -16,7 +16,7 @@ A declaration filed pursuant to section 4201 <sup>1</sup> of this title and in 
 
 #### (b) "Original source" defined
 
-For the purposes of subsection (a)(5) of this section, the term "original source" means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
+For the purposes of subsection (a)(5), the term "original source" means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 
 #### (c) Notice of invalidity
 

@@ -28,7 +28,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(C) appointment of members by the President pro tempore of the Senate upon the recommendation of the minority leader of the Senate shall be made after consultation with the ranking minority member of the Committee on Armed Services of the Senate, in addition to consultation with the ranking minority member of the Committee on Finance of the Senate provided for under clause (ii) of that subparagraph;
 
-&emsp;&emsp;(D) appointment of members by the minority leader of the House of Representatives shall be made after consultation with the ranking minority member of the Committeeon Armed Services of the House of Representatives, in addition to consultation with the ranking minority member of the Committee on Ways and Means of the House of Representatives provided for under clause (iv) of that subparagraph;
+&emsp;&emsp;(D) appointment of members by the minority leader of the House of Representatives shall be made after consultation with the ranking minority member of the Committee on Armed Services of the House of Representatives, in addition to consultation with the ranking minority member of the Committee on Ways and Means of the House of Representatives provided for under clause (iv) of that subparagraph;
 
 &emsp;&emsp;(E) persons appointed to the Commission shall have expertise in national security matters and United States-China relations, in addition to the expertise provided for under subparagraph (B)(i)(I) of that section;
 
@@ -144,7 +144,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the TradeDeficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Economic and Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -156,7 +156,7 @@ The purposes of this section are as follows:
 
 #### (6) Procurement of temporary and intermittent services
 
-&emsp;The Chairman of the Commission may procure temporary and intermittent services for the Commission in the same manner provided for the procurement of temporary and intermittent services for the Trade Deficit Review Commission under section 127(g)(5) of the Trade Deficit Review Commission Act.
+&emsp;The Chairman of the Commission may procure temporary and intermittent services for the Commission in the same manner provided for the procurement of temporary and intermittent services for the Trade Deficit ReviewCommission under section 127(g)(5) of the Trade Deficit Review Commission Act.
 
 #### (f) Authorization of appropriations
 
@@ -226,7 +226,7 @@ Subsec. (e)(3). Pub. L. 107–67, §645(a), inserted at end "The executive direc
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: "Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall bedeemed to refer to the United States-China Economic and Security Review Commission."
+Pub. L. 108–7, div. P, §2(b)(2), Feb. 20, 2003, 117 Stat. 552, provided that: "Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the United States-China Security Review Commission shall be deemed to refer to the United States-China Economic and Security Review Commission."
 
 #### Effective Date of 2014 Amendment
 

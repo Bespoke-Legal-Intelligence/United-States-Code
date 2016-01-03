@@ -58,7 +58,7 @@ The Defense Authorization Amendments and Base Closure and Realignment Act, refer
 
 #### Codification
 
-The text of section 2693 of this title, which was transferred to the end of this section and redesignated as subsec. (f), by Pub. L. 109–364, §2825(b)(5), was based on Pub. L. 101–647, title XVIII, §1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X,§1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, §2825(b), Oct. 17, 2006, 120 Stat. 2476.
+The text of section 2693 of this title, which was transferred to the end of this section and redesignated as subsec. (f), by Pub. L. 109–364, §2825(b)(5), was based on Pub. L. 101–647, title XVIII, §1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X, §1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, §2825(b), Oct. 17, 2006, 120 Stat. 2476.
 
 #### Amendments
 

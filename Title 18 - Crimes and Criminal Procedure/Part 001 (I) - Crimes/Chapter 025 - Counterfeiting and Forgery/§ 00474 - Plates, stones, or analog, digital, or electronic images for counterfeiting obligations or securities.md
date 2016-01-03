@@ -16,7 +16,7 @@ Whoever prints, photographs, or in any other manner makes or executes any engrav
 
 Is guilty of a class B felony.
 
-(b) For purposes of this section, the term "analog, digital, or electronic image" includes any analog, digital, or electronic method used for the making, execution, acquisition, scanning, capturing, recording, retrieval, transmission, or reproduction of any obligation or security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
+(b) For purposes of this section, the term "analog, digital, or electronic image" includesany analog, digital, or electronic method used for the making, execution, acquisition, scanning, capturing, recording, retrieval, transmission, or reproduction of any obligation or security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
 
 (June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, §1552, Oct. 28, 1992, 106 Stat. 4070; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, §374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)
 

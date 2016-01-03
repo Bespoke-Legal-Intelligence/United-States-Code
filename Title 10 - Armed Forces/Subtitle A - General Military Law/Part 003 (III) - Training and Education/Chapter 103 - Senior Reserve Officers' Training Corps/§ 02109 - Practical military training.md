@@ -4,7 +4,7 @@
 
 (b) The Secretary of the military department concerned, with respect to practical military training prescribed under this section and field training and practice cruises prescribed under section 2104(b)(6) of this title, may—
 
-&emsp;(1) transport members of, and designated applicants for membership in, the program to and from the places designated for such training or practice cruises and furnish them subsistence while traveling to and from those places, or, instead of furnishing them transportation and subsistence, pay them a travel allowance at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies for travel by the shortest usually traveled route from the places from which they are authorized to proceed to the place designated for the training or cruise and return, and pay the allowance for the return trip in advance;
+&emsp;(1) transport members of, and designated applicants for membership in, the program to and from the places designated for such training or practice cruises and furnish them subsistence while traveling to and from those places, or, instead of furnishing them transportation and subsistence, pay them a travel allowance at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies for travel bythe shortest usually traveled route from the places from which they are authorized to proceed to the place designated for the training or cruise and return, and pay the allowance for the return trip in advance;
 
 &emsp;(2) furnish medical attendance and supplies to members of, and designated applicants for membership in, the program while attending such training and practice cruises, and admit them to military hospitals;
 

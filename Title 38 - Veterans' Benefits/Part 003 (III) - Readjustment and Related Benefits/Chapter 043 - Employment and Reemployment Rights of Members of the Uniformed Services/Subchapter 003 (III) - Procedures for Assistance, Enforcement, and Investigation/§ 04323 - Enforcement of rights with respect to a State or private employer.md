@@ -22,7 +22,7 @@ Action for Relief.—(1) A person who receives from the Secretary a notification
 
 Jurisdiction.—(1) In the case of an action against a State (as an employer) or a private employer commenced by the United States, the district courts of the United States shall have jurisdiction over the action.
 
-(2) In the case of an action against a State (as an employer) by a person, the action may be brought in a State court of competent jurisdiction in accordance with the laws of the State.
+(2) In the case of an action against a State (as an employer) by a person, the action may bebrought in a State court of competent jurisdiction in accordance with the laws of the State.
 
 (3) In the case of an action against a private employer by a person, the district courts of the United States shall have jurisdiction of the action.
 

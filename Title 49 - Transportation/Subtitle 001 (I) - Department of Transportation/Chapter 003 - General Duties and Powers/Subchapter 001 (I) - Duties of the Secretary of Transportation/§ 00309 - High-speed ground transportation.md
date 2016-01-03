@@ -72,7 +72,7 @@
 
 &emsp;(E) a comparison of the projected costs of the various competing high-speed ground transportation technologies;
 
-&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, and changes in statutes and regulations necessary to facilitate the development of individualhigh-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
+&emsp;(F) recommendations for funding mechanisms, tax incentives, liability provisions, and changes in statutes and regulations necessary to facilitate the development of individual high-speed ground transportation systems and the completion of a nationwide high-speed ground transportation network;
 
 &emsp;(G) an examination of the effect of the construction and operation of high-speed ground transportation systems on regional employment and economic growth;
 
@@ -136,7 +136,7 @@ Pub. L. 102–240, title I, §1036(b), Dec. 18, 1991, 105 Stat. 1978, provided t
 
 "(1)
 
-Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the 'Assistant Secretary'). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the 'Maglev Project Office'), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriateFederal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the 'Assistant Secretary'). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the 'Maglev Project Office'), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 "(2)
 

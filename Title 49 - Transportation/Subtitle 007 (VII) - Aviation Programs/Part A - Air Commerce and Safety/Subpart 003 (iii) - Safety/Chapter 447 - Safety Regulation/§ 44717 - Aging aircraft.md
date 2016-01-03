@@ -30,7 +30,7 @@ Aircraft Maintenance Safety Programs.—The Administrator shall establish—
 
 &emsp;&emsp;(B) to enhance participation of those inspectors and engineers in those inspections; and
 
-&emsp;(3) a program to ensure that air carriers demonstrate to the Administrator their commitment and technical competence to ensurethe airworthiness of aircraft that the carriers operate.
+&emsp;(3) a program to ensure that air carriers demonstrate to the Administrator their commitment and technical competence to ensure the airworthiness of aircraft that the carriers operate.
 
 (d)
 

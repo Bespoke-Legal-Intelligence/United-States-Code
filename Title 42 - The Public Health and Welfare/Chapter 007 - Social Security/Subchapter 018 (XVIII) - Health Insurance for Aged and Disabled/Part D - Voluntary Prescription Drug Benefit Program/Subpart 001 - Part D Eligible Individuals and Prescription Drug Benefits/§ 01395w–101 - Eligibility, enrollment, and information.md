@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a process for the enrollment, disenrollment, termination, and change of enrollment of part D eligible individuals in prescription drug plans consistent with this subsection.
+&emsp;&emsp;The Secretary shall establish a process for the enrollment, disenrollment, termination,and change of enrollment of part D eligible individuals in prescription drug plans consistent with this subsection.
 
 #### (B) Application of MA rules
 
@@ -66,11 +66,11 @@
 
 #### (ii) Exercise of choice
 
-&emsp;&emsp;&emsp;Section 1395w–21(c) of this title (other than paragraph (3)(A) of such section), relating to exercise of choice.
+&emsp;&emsp;&emsp;Section 1395w–21(c) of this title (other than paragraph (3)(A) and paragraph (4) of such section), relating to exercise of choice.
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), and (E) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B), (C), (E), and (F) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -78,7 +78,7 @@
 
 #### (v) Guaranteed issue and renewal
 
-&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section andclause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
+&emsp;&emsp;&emsp;Section 1395w–21(g) of this title (other than paragraph (2) of such section and clause (i) and the second sentence of clause (ii) of paragraph (3)(C) of such section), relating to guaranteed issue and renewal.
 
 #### (vi) Marketing material and application forms
 
@@ -222,9 +222,13 @@
 
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(B)(ii). Pub. L. 114–10, §209(b)(2)(B)(ii)(I), inserted "and paragraph (4)" after "paragraph (3)(A)".
+
+Subsec. (b)(1)(B)(iii). Pub. L. 114–10, §209(b)(2)(B)(ii)(II), substituted "(E), and (F)" for "and (E)".
 
 <b>2010</b>—Subsec. (b)(1)(C). Pub. L. 111–148, §3303(b)(1), inserted "except as provided in subparagraph (D)," after "shall include,".
 
@@ -346,7 +350,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the 'Commission') to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the SocialSecurity Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101.
+In general.—There is established, as of the first day of the third month beginning after the date of the enactment of this Act \[Dec. 8, 2003\], a State Pharmaceutical Assistance Transition Commission (in this section referred to as the 'Commission') to develop a proposal for addressing the unique transitional issues facing State pharmaceutical assistance programs, and program participants, due to the implementation of the voluntary prescription drug benefit program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101.
 
 &emsp;"(2)
 

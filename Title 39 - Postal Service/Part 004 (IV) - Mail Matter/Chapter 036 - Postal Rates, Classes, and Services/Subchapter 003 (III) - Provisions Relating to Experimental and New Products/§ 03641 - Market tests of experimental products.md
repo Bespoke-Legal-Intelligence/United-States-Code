@@ -88,7 +88,7 @@ Definition of a Small Business Concern.—The criteria used in defining small bu
 
 (i)
 
-Effective Date.—Market tests under this subchapter may be conducted in any year beginning with the first year in which occurs the deadline for the Postal Service's first report to the Postal Regulatory Commission under section 3652(a).
+Effective Date.—Market tests under this subchapter may be conducted in any year beginning with the first year in which occurs the deadline for the Postal Service's first report tothe Postal Regulatory Commission under section 3652(a).
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 94–421, §6(a), Sept. 24, 1976, 90 Stat. 1306; Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3207.)
 

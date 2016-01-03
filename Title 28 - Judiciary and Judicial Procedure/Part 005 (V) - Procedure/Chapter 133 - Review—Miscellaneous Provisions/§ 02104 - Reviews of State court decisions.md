@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 substituted "Reviews of State court decisions" for "Appeals from State courts" in section catchline and amended text generally. Prior toamendment, text read as follows: "An appeal to the Supreme Court from a State court shall be taken in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree appealed from had been rendered in a court of the United States."
+<b>1988</b>—Pub. L. 100–352 substituted "Reviews of State court decisions" for "Appeals from State courts" in section catchline and amended text generally. Prior to amendment, text read as follows: "An appeal to the Supreme Court from a State court shall be taken in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree appealed from had been rendered in a court of the United States."
 
 #### Effective Date of 1988 Amendment
 

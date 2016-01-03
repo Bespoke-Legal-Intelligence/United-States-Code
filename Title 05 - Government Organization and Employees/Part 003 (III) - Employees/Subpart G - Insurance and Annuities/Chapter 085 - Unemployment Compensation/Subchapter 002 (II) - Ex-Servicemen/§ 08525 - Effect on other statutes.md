@@ -1,14 +1,24 @@
 ### §8525. Effect on other statutes
 
-\[(a) Repealed. Pub. L. 90–83, §1(90), Sept. 11, 1967, 81 Stat. 219.\]
+(a) Subsection (b)(2) does not apply to an individual who—
 
-(b) An individual is not entitled to compensation under this subchapter for any period with respect to which he receives—
+&emsp;(1) is otherwise entitled to compensation under this subchapter;
 
-&emsp;(1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a); or
+&emsp;(2) is described in section 3311(b) of title 38;
 
-&emsp;(2) an educational assistance allowance under chapter 35 of title 38.
+&emsp;(3) is not receiving retired pay under title 10; and
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 90–83, §1(90), Sept. 11, 1967, 81 Stat. 219.)
+&emsp;(4) was discharged or released from service in the Armed Forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration (including through a reduction in force) under honorable conditions, but did not voluntarily separate from such service.
+
+(b) An individual is not entitled to compensation under this subchapter for any period with respect to which the individual receives—
+
+&emsp;(1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a);
+
+&emsp;(2) except in the case of an individual described in subsection (a), an educational assistance allowance under chapter 33 of title 38; or
+
+&emsp;(3) an educational assistance allowance under chapter 35 of title 38.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 591; Pub. L. 90–83, §1(90), Sept. 11, 1967, 81 Stat. 219; Pub. L. 114–92, div. A, title V, §560, Nov. 25, 2015, 129 Stat. 828.)
 
 Historical and Revision Notes<br>1966
 
@@ -37,4 +47,12 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### 1967 Act
 
 This section deletes subsection (a) of 5 U.S.C. 8525. That subsection is now obsolete in view of the repeal, effective July 1, 1966, of chapter 43 of title 38, U.S.C., by Public Law 89–50, section 1(a) (79 Stat. 173).
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–92, §560(b), added subsec. (a).
+
+Subsec. (b). Pub. L. 114–92, §560(a)(1), substituted "the individual receives" for "he receives" in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 114–92, §560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).
 

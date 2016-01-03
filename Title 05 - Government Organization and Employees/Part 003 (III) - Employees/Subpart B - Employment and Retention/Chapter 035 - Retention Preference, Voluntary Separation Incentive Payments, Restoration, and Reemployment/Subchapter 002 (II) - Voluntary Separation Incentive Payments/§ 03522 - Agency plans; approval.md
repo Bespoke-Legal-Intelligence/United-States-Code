@@ -14,7 +14,7 @@
 
 &emsp;(5) a description of how the agency will operate without the eliminated positions and functions.
 
-(c) The Director of the Office of Personnel Management shall review each agency's plan an <sup>1</sup> may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive <sup>2</sup> of the Office of Personnel Management.
+(c) The Director of the Office of Personnel Management shall review each agency's plan an <sup>1</sup> may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implementedwithout the approval of the Directive <sup>2</sup> of the Office of Personnel Management.
 
 (Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2292.)
 

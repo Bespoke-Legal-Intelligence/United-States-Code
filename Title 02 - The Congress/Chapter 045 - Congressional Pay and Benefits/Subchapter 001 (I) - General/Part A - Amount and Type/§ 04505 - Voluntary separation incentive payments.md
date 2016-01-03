@@ -20,7 +20,7 @@ A voluntary separation incentive payment made under this section—
 
 &emsp;(4) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit;
 
-&emsp;(5) shall not be taken into account in determining the amount of any severance pay to which the employee may be entitled under section 5595 of title 5 based on any other separation; and
+&emsp;(5) shall not be taken into account in determining the amount of any severance pay towhich the employee may be entitled under section 5595 of title 5 based on any other separation; and
 
 &emsp;(6) shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
 
@@ -78,7 +78,7 @@ A voluntary separation incentive payment made under this section—
 
 &emsp;&emsp;&emsp;(i) during the 36-month period preceding the date of separation of that employee, performed service for which a student loan repayment benefit was or is to be paid under section 5379 of title 5 or any other authority;
 
-&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee,performed service for which a recruitment or relocation bonus was or is to be paid under section 5753 of such title or any other authority; or
+&emsp;&emsp;&emsp;(ii) during the 24-month period preceding the date of separation of that employee, performed service for which a recruitment or relocation bonus was or is to be paid under section 5753 of such title or any other authority; or
 
 &emsp;&emsp;&emsp;(iii) during the 12-month period preceding the date of separation of that employee, performed service for which a retention bonus was or is to be paid under section 5754 of such title or any other authority.
 

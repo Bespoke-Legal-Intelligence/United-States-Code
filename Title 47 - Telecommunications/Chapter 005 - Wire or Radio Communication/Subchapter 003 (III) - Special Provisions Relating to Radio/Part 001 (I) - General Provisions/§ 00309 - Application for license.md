@@ -58,7 +58,7 @@ Subsection (b) of this section shall not apply—
 
 #### (e) Hearings; intervention; evidence; burden of proof
 
-If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining and shall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
+If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining andshall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
@@ -70,7 +70,7 @@ The Commission is authorized to adopt reasonable classifications of applications
 
 #### (h) Form and conditions of station licenses
 
-Such station licenses as the Commission may grant shall be in such general form as it mayprescribe, but each license shall contain, in addition to other provisions, a statement of the following conditions to which such license shall be subject: (1) The station license shall not vest in the licensee any right to operate the station nor any right in the use of the frequencies designated in the license beyond the term thereof nor in any other manner than authorized therein; (2) neither the license nor the right granted thereunder shall be assigned or otherwise transferred in violation of this chapter; (3) every license issued under this chapter shall be subject in terms to the right of use or control conferred by section 606 of this title.
+Such station licenses as the Commission may grant shall be in such general form as it may prescribe, but each license shall contain, in addition to other provisions, a statement of the following conditions to which such license shall be subject: (1) The station license shall not vest in the licensee any right to operate the station nor any right in the use of the frequencies designated in the license beyond the term thereof nor in any other manner than authorized therein; (2) neither the license nor the right granted thereunder shall be assigned or otherwise transferred in violation of this chapter; (3) every license issued under this chapter shall be subject in terms to the right of use or control conferred by section 606 of this title.
 
 #### (i) Random selection
 
@@ -96,7 +96,7 @@ General authority.—Except as provided in paragraph (5), if there is more than 
 
 &emsp;(ii) The term "minority group" includes Blacks, Hispanics, American Indians, Alaska Natives, Asians, and Pacific Islanders.
 
-(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use by the Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
+(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use bythe Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
 
 (B) The Commission shall have authority to amend such rules from time to time to the extent necessary to carry out the provisions of this subsection. Any such amendment shall be made after notice and opportunity for hearing.
 
@@ -154,7 +154,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(A) consider alternative payment schedules and methods of calculation, including lump sums or guaranteed installment payments, with or without royalty payments, or other schedules or methods that promote the objectives described in paragraph (3)(B), and combinations of such schedules and methods;
 
-&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penalties for performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
+&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penaltiesfor performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
 
 &emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
 
@@ -262,7 +262,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Commission may not enter into an agreement for a licensee to relinquish spectrum usage rights in exchange for a share of auction proceeds under clause (i) unless—
+&emsp;&emsp;&emsp;The Commission may not enter into an agreement for a licensee to relinquish spectrum usage rights in exchange for ashare of auction proceeds under clause (i) unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Commission conducts a reverse auction to determine the amount of compensation that licensees would accept in return for voluntarily relinquishing spectrum usage rights; and
 
@@ -336,7 +336,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (11) Termination
 
-&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022.
+&emsp;The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025.
 
 #### (12) Evaluation
 
@@ -424,7 +424,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (G) Effective date
 
-&emsp;&emsp;This paragraph shall be effective on December 8, 1994, and apply to any licenses issued on or after August 1, 1994, by the Federal Communications Commission pursuant to any licensing procedure that provides preferential treatment (by precluding the filing of mutually exclusive applications) to persons who make significant contributionsto the development of a new service or to the development of new technologies that substantially enhance an existing service.
+&emsp;&emsp;This paragraph shall be effective on December 8, 1994, and apply to any licenses issued on or after August 1, 1994, by the Federal Communications Commission pursuant to any licensing procedure that provides preferential treatment (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service.
 
 #### (14) Auction of recaptured broadcast television spectrum
 
@@ -564,7 +564,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (4) Competitor consideration prohibited
 
-&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall notconsider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
+&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall not consider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
 
 #### (l) Applicability of competitive bidding to pending comparative licensing cases
 
@@ -576,7 +576,7 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114; Pub. L. 112–96, title VI, §§6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, 126 Stat. 223, 224, 230, 245, 252.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114; Pub. L. 112–96, title VI, §§6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, 126 Stat. 223, 224, 230, 245, 252; Pub. L. 114–74, title X, §1007, Nov. 2, 2015, 129 Stat. 624.)
 
 #### References in Text
 
@@ -584,7 +584,11 @@ This chapter, referred to in subsecs. (h), (j)(4)(C), (6), and (k)(1), was in th
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
+Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)(11), is section 1004(a) of Pub. L. 114–74, which is set out as a note under section 921 of this title.
+
 #### Amendments
+
+<b>2015</b>—Subsec. (j)(11). Pub. L. 114–74 inserted before period at end ", except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025".
 
 <b>2012</b>—Subsec. (j)(3)(F). Pub. L. 112–96, §6701(b), substituted "relocation or sharing costs" for "relocation costs".
 
@@ -592,7 +596,7 @@ Subsec. (j)(8)(A). Pub. L. 112–96, §6401(c)(1), substituted "(D), (E), (F), a
 
 Subsec. (j)(8)(C)(i). Pub. L. 112–96, §6401(c)(2), substituted "subparagraphs (D)(ii), (E)(ii), (F), and (G)" for "subparagraph (E)(ii)".
 
-Subsec. (j)(8)(C)(iii). Pub. L. 112–96, §6601, amended cl. (iii) generally. Prior to amendment, subcl. (iii) read as follows: "the interest accrued to the account shall be transferred to the Telecommunications Development Fund established pursuant to section 614 of this title."
+Subsec. (j)(8)(C)(iii). Pub. L. 112–96, §6601, amended cl. (iii) generally. Prior to amendment, subcl. (iii) read asfollows: "the interest accrued to the account shall be transferred to the Telecommunications Development Fund established pursuant to section 614 of this title."
 
 Subsec. (j)(8)(D). Pub. L. 112–96, §6401(c)(3), substituted "Proceeds from reallocated Federal spectrum" for "Disposition of cash proceeds" in subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, substituted "Except as provided in clause (ii), cash" for "Cash", and added cl. (ii).
 
@@ -964,7 +968,7 @@ Criteria for Strategic Technology Reserves.—
 
 &emsp;"(1)
 
-In general.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretary shall consider the continuing technological evolution of communications technologies and devices, with its implicit risk of obsolescence, and shall ensure, to the maximum extent feasible, that a substantial part of the reserve involves prenegotiated contracts and other arrangements for rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems), rather than the warehousing or storage of equipment and supplies currently available at the time the reserve is established.
+In general.—In evaluating permitted uses under subparagraph (a)(1)(B), the Assistant Secretaryshall consider the continuing technological evolution of communications technologies and devices, with its implicit risk of obsolescence, and shall ensure, to the maximum extent feasible, that a substantial part of the reserve involves prenegotiated contracts and other arrangements for rapid deployment of equipment, supplies, and systems (and communications service related to such equipment, supplies, and systems), rather than the warehousing or storage of equipment and supplies currently available at the time the reserve is established.
 
 &emsp;"(2)
 
@@ -1002,7 +1006,7 @@ Report.—Beginning with the first fiscal year beginning after the date of enact
 
 &emsp;"(2)
 
-Audits.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Inspector General of the Departmentof Commerce shall conduct financial audits of entities receiving grants from the program implemented under subsection (a)(1), and shall ensure that, over the course of 4 years, such audits cover recipients in a representative sample of not fewer than 25 States or territories. The results of any such audits shall be made publicly available via web site, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
+Audits.—Beginning with the first fiscal year beginning after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Inspector General of the Department of Commerce shall conduct financial audits of entities receiving grants from the program implemented under subsection (a)(1), and shall ensure that, over the course of 4 years, such audits cover recipients in a representative sample of not fewer than 25 States or territories. The results of any such audits shall be made publicly available via web site, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
 
 "(f)
 
@@ -1058,7 +1062,7 @@ Creation of Program.—
 
 &emsp;"(1)
 
-In General.—The Assistant Secretary shall make payments of not to exceed $10,000,000, in the aggregate, during the fiscal year 2008 and 2009 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E)) to implement and administer a program through which each eligible low-power television station may receive compensation toward the cost of the purchase of a digital-to-analog conversion device that enables it to convert the incoming digital signal of its corresponding full-power television station to analog format for transmission on the low-power television station's analog channel. An eligible low-power television station may receive such compensation only if it submits a request for such compensation on or before June 12, 2009. Priority compensation shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
+In General.—The Assistant Secretary shall make payments of not to exceed $10,000,000, in the aggregate, during the fiscal year 2008 and 2009 period from the Digital Television Transition and Public Safety Fund established under section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)(E))to implement and administer a program through which each eligible low-power television station may receive compensation toward the cost of the purchase of a digital-to-analog conversion device that enables it to convert the incoming digital signal of its corresponding full-power television station to analog format for transmission on the low-power television station's analog channel. An eligible low-power television station may receive such compensation only if it submits a request for such compensation on or before June 12, 2009. Priority compensation shall be given to eligible low-power television stations in which the license is held by a non-profit corporation and eligible low-power television stations that serve rural areas of fewer than 10,000 viewers.
 
 &emsp;"(2)
 
@@ -1124,7 +1128,7 @@ Advances.—The Secretary of Transportation may borrow from the Treasury such su
 
 #### "SEC. 3013. SUPPLEMENTAL LICENSE FEES.
 
-"In addition to any fees assessed under the Communications Act of 1934 (47 U.S.C. 151 et seq.), the Federal Communications Commission shall assess extraordinary fees for licenses in the aggregate amount of $10,000,000, which shall be deposited in the Treasury during fiscal year 2006 as offsetting receipts."
+"In addition to any fees assessed under the Communications Act of 1934 (47 U.S.C. 151 et seq.), the FederalCommunications Commission shall assess extraordinary fees for licenses in the aggregate amount of $10,000,000, which shall be deposited in the Treasury during fiscal year 2006 as offsetting receipts."
 
 \[Pub. L. 111–4, §3(d), Feb. 11, 2009, 123 Stat. 113, provided that: "The amendments made by this section \[amending section 3005(c)(1) of Pub. L. 109–171, set out above\] shall not take effect until the enactment of additional budget authority after the date of enactment of this Act \[Feb. 11, 2009\] to carry out the analog-to-digital converter box program under section 3005 of the Digital Television Transition and Public Safety Act of 2005 \[section 3005 of Pub. L. 109–171, set out above\]."\]
 
@@ -1144,7 +1148,7 @@ Pub. L. 107–195, §2, June 19, 2002, 116 Stat. 715, provided that: "Congress f
 
 &emsp;"(6) The Commission's rules governing voluntary mechanisms for vacating the 700 megahertz band by broadcast stations—
 
-&emsp;&emsp;"(A) produced no certainty that the band would be available for advanced mobile communicationsservices, public safety operations, or other wireless services any earlier than the existing statutory framework provides; and
+&emsp;&emsp;"(A) produced no certainty that the band would be available for advanced mobile communications services, public safety operations, or other wireless services any earlier than the existing statutory framework provides; and
 
 &emsp;&emsp;"(B) should advance the transition of digital television and must not result in the unjust enrichment of any incumbent licensee."
 

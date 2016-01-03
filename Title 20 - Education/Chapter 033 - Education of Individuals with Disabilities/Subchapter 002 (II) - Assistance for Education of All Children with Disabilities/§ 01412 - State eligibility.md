@@ -14,7 +14,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The obligation to make a free appropriate public education available to all children with disabilities does not apply with respect to children—
 
-&emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order ofany court, respecting the provision of public education to children in those age ranges; and
+&emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
 
 &emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility—
 
@@ -80,7 +80,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (9) Transition from subchapter III to preschool programs
 
-&emsp;Children participating in early intervention programs assisted under subchapter III, and who will participate in preschool programs assisted under this subchapter, experience a smooth and effective transition to those preschool programs in a manner consistent with section 1437(a)(9) of this title. By the third birthday of such a child, an individualized education program or, if consistent with sections 1414(d)(2)(B) and 1436(d) of this title, an individualized family service plan, has been developed and is being implemented for the child.The local educational agency will participate in transition planning conferences arranged by the designated lead agency under section 1435(a)(10) of this title.
+&emsp;Children participating in early intervention programs assisted under subchapter III, and who will participate in preschool programs assisted under this subchapter, experience a smooth and effective transition to those preschool programs in a manner consistent with section 1437(a)(9) of this title. By the third birthday of such a child, an individualized education program or, if consistent with sections 1414(d)(2)(B) and 1436(d) of this title, an individualized family service plan, has been developed and is being implemented for the child. The local educational agency will participate in transition planning conferences arranged by the designated lead agency under section 1435(a)(10) of this title.
 
 #### (10) Children in private schools
 
@@ -94,7 +94,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;(II) In calculating the proportionate amount of Federal funds, the local educational agency, after timely and meaningful consultation with representatives of private schools as described in clause (iii), shall conduct a thorough and complete child find process to determine the number of parentally placed children with disabilities attending private schools located in the local educational agency.
 
-&emsp;&emsp;&emsp;&emsp;(III) Such services to parentally placed private school children with disabilities may be provided to the children on the premises of private, including religious, schools, to the extent consistent with law.
+&emsp;&emsp;&emsp;&emsp;(III) Such services to parentally placed private school children with disabilities may be provided to the children on thepremises of private, including religious, schools, to the extent consistent with law.
 
 &emsp;&emsp;&emsp;&emsp;(IV) State and local funds may supplement and in no case shall supplant the proportionate amount of Federal funds required to be expended under this subparagraph.
 
@@ -148,7 +148,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (II) Procedure
 
-&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educational agency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
+&emsp;&emsp;&emsp;&emsp;If the private school official wishes to submit a complaint, the official shall provide the basis of the noncompliance with this subparagraph by the local educational agency to the State educational agency, and the local educational agency shall forward the appropriate documentation to the State educationalagency. If the private school official is dissatisfied with the decision of the State educational agency, such official may submit a complaint to the Secretary by providing the basis of the noncompliance with this subparagraph by the local educational agency to the Secretary, and the State educational agency shall forward the appropriate documentation to the Secretary.
 
 #### (vi) Provision of equitable services
 
@@ -210,7 +210,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the school prevented the parent from providing such notice;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the parents had not received notice, pursuant to section 1415 of this title, of the notice requirement in clause (iii)(I); or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the parents had not received notice, pursuant to section 1415 of thistitle, of the notice requirement in clause (iii)(I); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) compliance with clause (iii)(I) would likely result in physical harm to the child; and
 
@@ -260,7 +260,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iii) Interagency disputes
 
-&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement fromother agencies or otherwise implement the provisions of the agreement or mechanism.
+&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
 
 #### (iv) Coordination of services procedures
 
@@ -308,15 +308,21 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Qualifications for special education teachers
 
-&emsp;&emsp;The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school is highly qualified by the deadline established in section 6319(a)(2) of this title.
+&emsp;&emsp;The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
+
+&emsp;&emsp;&emsp;(i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State's public charter school law;
+
+&emsp;&emsp;&emsp;(ii) has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
+
+&emsp;&emsp;&emsp;(iii) holds at least a bachelor's degree..<sup>1</sup>
 
 #### (D) Policy
 
-&emsp;&emsp;In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain highly qualified personnel to provide special education and related services under this subchapter to children with disabilities.
+&emsp;&emsp;In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain personnel who meet the applicable requirements described in this paragraph to provide special education and related services under this subchapter to children with disabilities.
 
 #### (E) Rule of construction
 
-&emsp;&emsp;Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individualstudent for the failure of a particular State educational agency or local educational agency staff person to be highly qualified, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
+&emsp;&emsp;Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to meet the applicable requirements described in this paragraph, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
 
 #### (15) Performance goals and indicators
 
@@ -326,13 +332,13 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(i) promote the purposes of this chapter, as stated in section 1400(d) of this title;
 
-&emsp;&emsp;&emsp;(ii) are the same as the State's definition of adequate yearly progress, including the State's objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;
+&emsp;&emsp;&emsp;(ii) are the same as the State's long-term goals and measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title;
 
 &emsp;&emsp;&emsp;(iii) address graduation rates and dropout rates, as well as such other factors as the State may determine; and
 
 &emsp;&emsp;&emsp;(iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc) of this title; and
+&emsp;&emsp;(B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i) of this title; and
 
 &emsp;&emsp;(C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under section 6311(h) of this title.
 
@@ -356,9 +362,9 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;The guidelines under clause (i) shall provide for alternate assessments that—
 
-&emsp;&emsp;&emsp;&emsp;(I) are aligned with the State's challenging academic content standards and challenging student academic achievement standards; and
+&emsp;&emsp;&emsp;&emsp;(I) are aligned with the challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if the State has adopted alternate academic achievement standards permitted under the regulations promulgated to carry out section 6311(b)(1) of this title, measure the achievement of children with disabilities against those standards.
+&emsp;&emsp;&emsp;&emsp;(II) if the State has adopted alternate academic achievement standards permitted under section 6311(b)(1)(E) of this title, measure the achievement of children with disabilities against those standards.
 
 #### (iii) Conduct of alternate assessments
 
@@ -392,13 +398,13 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (C) Prohibition against supplantation and conditions for waiver by Secretary
 
-&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the levelof Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
+&emsp;&emsp;Except as provided in section 1413 of this title, funds paid to a State under this subchapter will be used to supplement the level of Federal, State, and local funds (including funds that are not under the direct control of State or local educational agencies) expended for special education and related services provided to children with disabilities under this subchapter and in no case to supplant such Federal, State, and local funds, except that, where the State provides clear and convincing evidence that all children with disabilities have available to them a free appropriate public education, the Secretary may waive, in whole or in part, the requirements of this subparagraph if the Secretary concurs with the evidence provided by the State.
 
 #### (18) Maintenance of State financial support
 
 #### (A) In general
 
-&emsp;&emsp;The State does not reduce the amount of State financial support for special education and related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
+&emsp;&emsp;The State does not reduce the amount of State financial support for special educationand related services for children with disabilities, or otherwise made available because of the excess costs of educating those children, below the amount of that support for the preceding fiscal year.
 
 #### (B) Reduction of funds for failure to maintain support
 
@@ -468,7 +474,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(ii) comment publicly on any rules or regulations proposed by the State regarding the education of children with disabilities;
 
-&emsp;&emsp;&emsp;(iii) advise the State educational agency in developing evaluations and reporting ondata to the Secretary under section 1418 of this title;
+&emsp;&emsp;&emsp;(iii) advise the State educational agency in developing evaluations and reporting on data to the Secretary under section 1418 of this title;
 
 &emsp;&emsp;&emsp;(iv) advise the State educational agency in developing corrective action plans to address findings identified in Federal monitoring reports under this subchapter; and
 
@@ -538,7 +544,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) shall be construed to create a Federal prohibition against teachers and other school personnel consulting or sharing classroom-based observations with parents or guardians regarding a student's academic and functional performance, or behavior in the classroom or school, or regarding the need for evaluationfor special education or related services under paragraph (3).
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed to create a Federal prohibition against teachers and other school personnel consulting or sharing classroom-based observations with parents or guardians regarding a student's academic and functional performance, or behavior in the classroom or school, or regarding the need for evaluation for special education or related services under paragraph (3).
 
 #### (b) State educational agency as provider of free appropriate public education or direct services
 
@@ -612,17 +618,17 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 #### (B) Review of action
 
-&emsp;&emsp;If a State educational agency is dissatisfied with the Secretary's final action after aproceeding under subparagraph (A), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based the Secretary's action, as provided in section 2112 of title 28.
+&emsp;&emsp;If a State educational agency is dissatisfied with the Secretary's final action after a proceeding under subparagraph (A), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based the Secretary's action, as provided in section 2112 of title 28.
 
 #### (C) Review of findings of fact
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall beconclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (D) Jurisdiction of court of appeals; review by United States Supreme Court
 
 &emsp;&emsp;Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 91–230, title VI, §612, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2676.)
+(Pub. L. 91–230, title VI, §612, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2676; amended Pub. L. 114–95, title IX, §§9214(d)(2), 9215(ss)(3), Dec. 10, 2015, 129 Stat. 2164, 2182.)
 
 #### References in Text
 
@@ -639,4 +645,26 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 A prior section 1412, Pub. L. 91–230, title VI, §612, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 60, related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1412, Pub. L. 91–230, title VI, §612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, §421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§614(b), (f)(1), 615(a), title VIII, §843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, §203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, §102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, §901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, §25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(14)(C). Pub. L. 114–95, §9214(d)(2)(A), substituted "secondary school—" for "secondary school is highly qualified by the deadline established in section 6319(a)(2) of this title" and added cls. (i) to (iii).
+
+Subsec. (a)(14)(D). Pub. L. 114–95, §9214(d)(2)(B), substituted "personnel who meet the applicable requirements described in this paragraph" for "highly qualified personnel".
+
+Subsec. (a)(14)(E). Pub. L. 114–95, §9214(d)(2)(C), substituted "staff person to meet the applicable requirements described in this paragraph" for "staff person to be highly qualified".
+
+Subsec. (a)(15)(A)(ii). Pub. L. 114–95, §9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: "are the same as the State's definition of adequate yearly progress, including the State's objectives for progress by children with disabilities, under section 6311(b)(2)(C) of this title;".
+
+Subsec. (a)(15)(B). Pub. L. 114–95, §9215(ss)(3)(A)(ii), which directed substitution of "including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)" for "including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)", was executed by making the substitution for "including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)", to reflect the probable intent of Congress.
+
+Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, §9215(ss)(3)(B)(i), substituted "challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title" for "State's challenging academic content standards and challenging student academic achievement standards".
+
+Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, §9215(ss)(3)(B)(ii), substituted "section 6311(b)(1)(E) of this title," for "the regulations promulgated to carry out section 6311(b)(1) of this title,".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

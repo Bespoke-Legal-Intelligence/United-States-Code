@@ -34,7 +34,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(10) other relevant projects, including surveys, research, planning, and publications relating to the purposes of this subsection.
 
-> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson under this subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
+> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson under this subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals andgroups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
 
 #### (d) Application for payment; regulations and procedures
 
@@ -82,7 +82,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts.In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any fiscal year shall be available only to the Chairperson for making grants under this subsection to States and regional groups, and
 
@@ -268,7 +268,7 @@ Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\],
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson."
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "InternalRevenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 

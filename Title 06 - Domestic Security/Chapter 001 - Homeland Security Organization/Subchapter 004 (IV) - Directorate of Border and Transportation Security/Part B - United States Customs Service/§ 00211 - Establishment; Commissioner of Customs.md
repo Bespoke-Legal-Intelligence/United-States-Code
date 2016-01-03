@@ -30,9 +30,89 @@ Section is comprised of section 411 of Pub. L. 107–296. Subsec. (b)(2) of sect
 
 Customs Service, referred to in subsecs. (a) and (b)(1), changed to Bureau of Customs and Border Protection by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
+#### Border Jobs for Veterans
+
+Pub. L. 114–68, Oct. 16, 2015, 129 Stat. 555, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Border Jobs for Veterans Act of 2015'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) Customs and Border Protection officers at United States ports of entry carry out critical law enforcement duties associated with screening foreign visitors, returning United States citizens, and imported cargo entering the United States.
+
+&emsp;"(2) It is in the national interest for United States ports of entry to be adequately staffed with Customs and Border Protection officers in a timely fashion, including meeting the congressionally funded staffing target of 23,775 officers for fiscal year 2015.
+
+&emsp;"(3) An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
+
+&emsp;"(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
+
+#### "SEC. 3. EXPEDITED HIRING OF APPROPRIATE SEPARATING SERVICE MEMBERS.
+
+"The Secretary of Homeland Security shall consider the expedited hiring of qualified candidates who have the ability to perform the essential functions of the position of a Customs and Border Protection officer and who are eligible for a veterans recruitment appointment authorized under section 4214 of title 38, United States Code.
+
+#### "SEC. 4. ENHANCEMENTS TO EXISTING PROGRAMS TO RECRUIT SERVICE MEMBERS SEPARATING FROM MILITARY SERVICE FOR CUSTOMS AND BORDER PROTECTION OFFICER VACANCIES.
+
+"(a)
+
+In General.—The Secretary of Homeland Security, in consultation with the Secretary of Defense, and acting through existing programs, authorities, and agreements, where applicable, shall enhance the efforts of the Department of Homeland Security to recruit members of the Armed Forces who are separating from military service to serve as Customs and Border Protection officers.
+
+"(b)
+
+Elements.—The enhanced recruiting efforts under subsection (a) shall—
+
+&emsp;"(1) include Customs and Border Protection officer opportunities in relevant job assistance efforts under the Transition Assistance Program;
+
+&emsp;"(2) place U.S. Customs and Border Protection officials or other relevant Department of Homeland Security officials at recruiting events and jobs fairs involving members of the Armed Forces who are separating from military service;
+
+&emsp;"(3) provide opportunities for local U.S. Customs and Border Protection field offices to partner with military bases in the region;
+
+&emsp;"(4) include outreach efforts to educate members of the Armed Forces with Military Occupational Specialty Codes and Officer Branches, Air Force Specialty Codes, Naval Enlisted Classifications and Officer Designators, and Coast Guard competencies that are transferable to the requirements, qualifications, and duties assigned to Customs and Border Protection officers of available hiring opportunities to become Customs and Border Protection officers;
+
+&emsp;"(5) identify shared activities and opportunities for reciprocity related to steps in hiring Customs and Border Protection officers with the goal of minimizing the time required to hire qualified applicants;
+
+&emsp;"(6) ensure the streamlined interagency transfer of relevant background investigations and security clearances; and
+
+&emsp;"(7) include such other elements as may be necessary to ensure that members of the Armed Forces who are separating from military service are aware of opportunities to fill vacant Customs and Border Protection officer positions.
+
+#### "SEC. 5. REPORT TO CONGRESS.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 16, 2015\], and by December 31 of each of the next 3 years thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on Homeland Security and the Committee on Armed Services of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate that includes a description and assessment of the efforts of the Department of Homeland Security to hire members of the Armed Forces who are separating from military service as Customs and Border Protection officers under section 4.
+
+"(b)
+
+Content.—The report required under subsection (a) shall include—
+
+&emsp;"(1) a detailed description of the efforts to implement section 4, including—
+
+&emsp;&emsp;"(A) elements of the enhanced recruiting efforts and the goals associated with such elements; and
+
+&emsp;&emsp;"(B) a description of how the elements and goals referred to in subparagraph (A) will assist in meeting statutorily mandated staffing levels and agency hiring benchmarks;
+
+&emsp;"(2) a detailed description of the efforts that have been undertaken under section 4;
+
+&emsp;"(3) the estimated number of separating service members made aware of Customs and Border Protection officer vacancies;
+
+&emsp;"(4) the number of Customs and Border Protection officer vacancies filled with separating service members; and
+
+&emsp;"(5) the number of Customs and Border Protection officer vacancies filled with separating service members under Veterans Recruitment Appointment authorized under section 4214 of title 38, United States Code.
+
+#### "SEC. 6. RULES OF CONSTRUCTION.
+
+"Nothing in this Act may be construed—
+
+&emsp;"(1) as superseding, altering, or amending existing Federal veterans' hiring preferences or Federal hiring authorities; or
+
+&emsp;"(2) to authorize the appropriation of additional amounts to carry out this Act."
+
 #### Port of Entry Partnership Pilot Program
 
-Pub. L. 113–76, div. F, title V, §559, Jan. 17, 2014, 128 Stat. 279, provided that:
+Pub. L. 113–76, div. F, title V, §559, Jan. 17, 2014, 128 Stat. 279, as amended by Pub. L. 114–4, title V, §552(a), Mar. 4, 2015, 129 Stat. 71; Pub. L. 114–113, div. F, title V, §550, Dec. 18, 2015, 129 Stat. 2519, provided that:
 
 "(a)
 
@@ -44,7 +124,7 @@ Rule of Construction.—Except as otherwise provided in this section, nothing in
 
 "(c)
 
-Duration.—The pilot program described in subsection (a) shall be for five years. A partnership enteredinto during such pilot program may last as long as required to meet the terms of such partnership. At the end of such five year period, the Commissioner may request that such pilot program be made permanent.
+Duration.—The pilot program described in subsection (a) shall be for five years. A partnership entered into during such pilot program may last as long as required to meet the terms of such partnership. At the end of such five year period, the Commissioner may request that such pilot program be made permanent.
 
 "(d)
 
@@ -116,11 +196,11 @@ Impacts of services.—The Commissioner may not enter into a reimbursable fee ag
 
 &emsp;&emsp;"(B)
 
-For certain costs.—The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime.
+For certain costs.—The authority found in this subsection may not be used at U.S. Customs and Border Protection-serviced air ports of entry to enter into reimbursable fee agreements for costs other than payment of overtime and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers.
 
 &emsp;&emsp;"(C) The authority found in this subsection may not be used to enter into new preclearance agreements or begin to provide U.S. Customs and Border Protection services outside of the United States.
 
-&emsp;&emsp;"(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to five pilots per year.
+&emsp;&emsp;"(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to 10 pilots per year.
 
 &emsp;"(4)
 
@@ -146,7 +226,7 @@ Deposit of funds.—Funds collected pursuant to any agreement entered into under
 
 &emsp;"(6)
 
-Termination.—The Commissioner shall terminate the provision of services pursuant to an agreement entered into under paragraph (1) with a private sector or government entity that, after receiving notice from the Commissioner that a fee imposed under paragraph (4) is due, fails to pay such fee in a timely manner. In the event of such termination, all costs incurred by U.S. Customs and Border Protection, which have not been reimbursed, will become immediately due and payable. Interest on unpaid fees will accrue based on current Treasury borrowing rates.Additionally, any private sector or government entity that, after notice and demand for payment of any fee charged under paragraph (4), fails to pay such fee in a timely manner shall be liable for a penalty or liquidated damage equal to two times the amount of such fee. Any amount collected pursuant to any agreement entered into under paragraph (1) shall be deposited into the account specified under paragraph (5) and shall be available as described therein.
+Termination.—The Commissioner shall terminate the provision of services pursuant to an agreement entered into under paragraph (1) with a private sector or government entity that, after receiving notice from the Commissioner that a fee imposed under paragraph (4) is due, fails to pay such fee in a timely manner. In the event of such termination, all costs incurred by U.S. Customs and Border Protection, which have not been reimbursed, will become immediately due and payable. Interest on unpaid fees will accrue based on current Treasury borrowing rates. Additionally, any private sector or government entity that, after notice and demand for payment of any fee charged under paragraph (4), fails to pay such fee in a timely manner shall be liable for a penalty or liquidated damage equal to two times the amount of such fee. Any amount collected pursuant to any agreement entered into under paragraph (1) shall be deposited into the account specified under paragraph (5) and shall be available as described therein.
 
 &emsp;"(7)
 
@@ -174,7 +254,7 @@ Allowable uses of donations.—The Commissioner and the Administrator, with resp
 
 &emsp;&emsp;&emsp;"(iv) operations and maintenance; or
 
-&emsp;&emsp;"(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code.
+&emsp;&emsp;"(B) transfer such property or services to the Administrator for necessary activities described in subparagraph (A) related to a new or existing port of entry under the jurisdiction, custody, and control of the Administrator, subject to chapter 33 of title 40, United States Code. Such transfer shall not be required for personal property, including furniture, fixtures, and equipment.
 
 &emsp;"(3)
 
@@ -265,6 +345,10 @@ Definitions.—In this section—
 "(i)
 
 Role of General Services Administration.—Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry."
+
+\[Pub. L. 114–113, div. F, title V, §550, Dec. 18, 2015, 129 Stat. 2519, which directed amendment of section 559(e)(3)(D) of Pub. L. 113–76 by striking "five pilots per year" and inserting "10 pilots per year", was executed by making the substitution in section 559(e)(3)(D) of div. F of Pub. L. 113–76, set out above, to reflect the probable intent of Congress.\]
+
+\[Pub. L. 114–4, title V, §552(a)(2), Mar. 4, 2015, 129 Stat. 71, which directed amendment of subsec. "(e)(3)(b)" of section 559 of div. F of Pub. L. 113–76 by inserting "and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers" after "payment of overtime", was executed by making the insertion in subsec. (e)(3)(B) of section 559 of div. F of Pub. L. 113–76, set out above, to reflect the probable intent of Congress.\]
 
 #### Reducing Passenger Processing Times
 

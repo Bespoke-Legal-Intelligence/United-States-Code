@@ -26,7 +26,7 @@ The Cotton Research and Promotion Act Amendments of 1990, referred to in subsecs
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 made technical amendment to reference to section 2116(c)(2) of thistitle to correct error in corresponding reference in original act.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 made technical amendment to reference to section 2116(c)(2) of this title to correct error in corresponding reference in original act.
 
 <b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

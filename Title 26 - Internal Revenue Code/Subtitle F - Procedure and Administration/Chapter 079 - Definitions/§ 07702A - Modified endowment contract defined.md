@@ -24,7 +24,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 &emsp;&emsp;(A) as of the time the contract is issued, and
 
-&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contractyear shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
+&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
 
 #### (2) Reduction in benefits during 1st 7 years
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (C) Interest returned includible in gross income
 
-&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned asprovided in subparagraph (B) shall be includible in the gross income of the recipient.
+&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned as provided in subparagraph (B) shall be includible in the gross income of the recipient.
 
 #### (2) Contract year
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
 
-(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Subsec. (c)(6). Pub. L. 101–239, §7647(a), added par. (6).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 5012 of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-645, provided that: "The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 5012 of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\]."
 
 #### Effective Date of 1989 Amendment
 

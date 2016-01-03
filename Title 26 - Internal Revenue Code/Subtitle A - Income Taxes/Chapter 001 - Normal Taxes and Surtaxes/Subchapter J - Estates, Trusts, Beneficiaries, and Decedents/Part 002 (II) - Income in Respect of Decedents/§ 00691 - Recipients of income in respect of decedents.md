@@ -22,7 +22,7 @@
 
 #### (4) Installment obligations acquired from decedent
 
-&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, if such obligation is acquired by the decedent's estate from the decedent or by any person by reason of the deathof the decedent or by bequest, devise, or inheritance from the decedent—
+&emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, if such obligation is acquired by the decedent's estate from the decedent or by any person by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent—
 
 &emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), be considered as an item of gross income in respect of the decedent; and
 
@@ -116,7 +116,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) The term "life expectancy period" means the period beginning with the first day of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
+&emsp;&emsp;(A) The term "life expectancy period" means the period beginning with the firstday of the first period for which an amount is received by the surviving annuitant under the contract and ending with the close of the taxable year with or in which falls the termination of the life expectancy of the surviving annuitant. For purposes of this subparagraph, the life expectancy of the surviving annuitant shall be determined, as of the date of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
 &emsp;&emsp;(B) The surviving annuitant's expected return under the contract shall be computed, as of the death of the deceased annuitant, with reference to actuarial tables prescribed by the Secretary.
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years ending after Dec. 31, 
 
 #### Repeals
 
-Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
+Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amendments made thereby, were repealedby Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 2005(a)(4). See Effective Date of 1980 Amendments and Revival of Prior Law note above.
 
 #### Savings Provision
 

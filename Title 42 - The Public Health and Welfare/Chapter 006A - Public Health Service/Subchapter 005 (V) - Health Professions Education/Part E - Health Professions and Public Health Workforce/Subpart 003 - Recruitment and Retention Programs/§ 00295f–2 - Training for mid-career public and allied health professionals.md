@@ -8,7 +8,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible ent
 
 #### (1) Eligible entity
 
-&emsp;The term "eligible entity" indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or alliedhealth or a related discipline, as determined by the Secretary <sup>1</sup>
+&emsp;The term "eligible entity" indicates an accredited educational institution that offers a course of study, certificate program, or professional training program in public or allied health or a related discipline, as determined by the Secretary <sup>1</sup>
 
 #### (2) Eligible individuals
 
@@ -16,7 +16,7 @@ The Secretary may make grants to, or enter into contracts with, any eligible ent
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015. Fifty percent of appropriated funds shall be allotted to public health mid-career professionals and 50 percent shall be allotted to allied health mid-career professionals.
+There is authorized to be appropriated to carry out this section, $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of fiscal years 2011 through 2015. Fifty percent of appropriated funds shall be allotted to publichealth mid-career professionals and 50 percent shall be allotted to allied health mid-career professionals.
 
 (July 1, 1944, ch. 373, title VII, §777, as added Pub. L. 111–148, title V, §5206(b), Mar. 23, 2010, 124 Stat. 612.)
 

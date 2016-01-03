@@ -86,7 +86,7 @@
 
 #### (3) Availability of data
 
-&emsp;The Secretary may make data described in (a) and (b) available for additional research, analyses, and dissemination to other Federal agencies, non-governmental entities, and the public, in accordance with any Federal agency's data user agreements.
+&emsp;The Secretary may make data described in (a) and (b) available for additional research,analyses, and dissemination to other Federal agencies, non-governmental entities, and the public, in accordance with any Federal agency's data user agreements.
 
 #### (d) Limitations on use of data
 

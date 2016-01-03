@@ -36,11 +36,11 @@ The Director shall inventory the natural values of river basins in New England, 
 
 There are authorized to be appropriated to the Director—
 
-&emsp;(1) $5,000,000 per year for fiscal years 1991, 1992, 1993, 1994, and 1995 to implement fishery resource restoration plans and programs, except for activities related to the design and construction of fish passage facilities, as directed by subsection (c) of this section;
+&emsp;(1) $5,000,000 per year for fiscal years 1991, 1992, 1993, 1994, and 1995 to implement fishery resource restoration plans and programs, except for activities related to the design and construction of fish passage facilities, as directed by subsection (c);
 
-&emsp;(2) $500,000 per year for fiscal years 1991, 1992, and 1993 to conduct the study required under subsection (d) of this section; and
+&emsp;(2) $500,000 per year for fiscal years 1991, 1992, and 1993 to conduct the study required under subsection (d); and
 
-&emsp;(3) $500,000 to conduct the inventory and assessment required under section <sup>1</sup> (e) of this section.
+&emsp;(3) $500,000 to conduct the inventory and assessment required under section <sup>1</sup> (e).
 
 (Pub. L. 101–593, title I, §111, Nov. 16, 1990, 104 Stat. 2960.)
 

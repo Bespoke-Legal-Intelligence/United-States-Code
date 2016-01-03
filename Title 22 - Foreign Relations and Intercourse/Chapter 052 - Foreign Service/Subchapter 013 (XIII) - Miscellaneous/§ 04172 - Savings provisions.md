@@ -10,7 +10,7 @@ This chapter shall not affect any increase in annuity or other right to benefits
 
 #### (c) Cross references
 
-References in law to provisions of the Foreign Service Act of 1946 or other law superseded by this chapter shall be deemed to include reference to the corresponding provisions of this chapter.
+References in law to provisions of the Foreign Service Act of 1946 or other law superseded bythis chapter shall be deemed to include reference to the corresponding provisions of this chapter.
 
 (Pub. L. 96–465, title II, §2401, Oct. 17, 1980, 94 Stat. 2168.)
 

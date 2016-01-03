@@ -32,7 +32,7 @@ This section shall not apply to a taxpayer for any taxable year if such taxpayer
 
 #### References in Text
 
-Sections 3(m) and 6(a)(1) of the Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(B), are classifiedto sections 203(m) and 206(a)(1), respectively, of Title 29, Labor.
+Sections 3(m) and 6(a)(1) of the Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(B), are classified to sections 203(m) and 206(a)(1), respectively, of Title 29, Labor.
 
 #### Amendments
 

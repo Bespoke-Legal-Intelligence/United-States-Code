@@ -24,7 +24,7 @@ The Attorney General shall—
 
 #### (c) Report
 
-Not later than July 1, 2007, the Attorney General,<sup>1</sup> shall submit to Congress a report on theactivities carried out under this section. The report shall include any recommendations that the Attorney General considers appropriate.
+Not later than July 1, 2007, the Attorney General,<sup>1</sup> shall submit to Congress a report on the activities carried out under this section. The report shall include any recommendations that the Attorney General considers appropriate.
 
 #### (d) Authorization of appropriations
 

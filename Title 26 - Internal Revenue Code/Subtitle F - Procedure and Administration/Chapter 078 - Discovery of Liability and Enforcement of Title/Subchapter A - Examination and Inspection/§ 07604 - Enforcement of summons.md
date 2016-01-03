@@ -52,7 +52,7 @@ Act June 29, 1956, inserted references to section 6421(f)(2).
 
 #### Change of Name
 
-"United States magistrate judge" and "magistrate judge" substituted for "United States magistrate" and "magistrate", respectively, wherever appearing in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" and "magistrate" substituted for "UnitedStates commissioner" and "commissioner", respectively, pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judge" and "magistrate judge" substituted for "United States magistrate" and "magistrate", respectively, wherever appearing in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" and "magistrate" substituted for "United States commissioner" and "commissioner", respectively, pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Effective Date of 1988 Amendment
 

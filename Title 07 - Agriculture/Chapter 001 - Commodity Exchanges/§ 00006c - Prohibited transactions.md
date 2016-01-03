@@ -46,7 +46,7 @@
 
 #### (B) Knowing use
 
-&emsp;&emsp;It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government or any Member of Congress or employee of Congress or anyjudicial officer or judicial employee as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—
+&emsp;&emsp;It shall be unlawful for any person who receives information imparted by any employee or agent of any department or agency of the Federal Government or any Member of Congress or employee of Congress or any judicial officer or judicial employee as described in subparagraph (A) to knowingly use such information to enter into, or offer to enter into—
 
 &emsp;&emsp;&emsp;(i) a contract of sale of a commodity for future delivery (or option on such a contract);
 
@@ -150,7 +150,7 @@ Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–105, §5(1), inserted in introductory provisions "or any Member of Congress or employee of Congress (as such terms are defined undersection 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)" after "any department or agency of the Federal Government", "Member, officer," after "position of the", and "or by Congress or by the judiciary" after "creating the information".
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–105, §5(1), inserted in introductory provisions "or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)" after "any department or agency of the Federal Government", "Member, officer," after "position of the", and "or by Congress or by the judiciary" after "creating the information".
 
 Subsec. (a)(4)(A). Pub. L. 112–105, §5(2)(A), inserted in introductory provisions "or any Member of Congress or employee of Congress or any judicial officer or judicial employee" after "any department or agency of the Federal Government", "Member, officer," after "position of the", and "or by Congress or by the judiciary" after "creating the information".
 

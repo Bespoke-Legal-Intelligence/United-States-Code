@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, no United States assistance under th
 
 The President may waive the application of subsection (b) if—
 
-&emsp;(1) the President determines that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security; and
+&emsp;(1) the President determines that the termination of such assistance would be seriously prejudicial to the achievement of UnitedStates nonproliferation objectives or otherwise jeopardize the common defense and security; and
 
 &emsp;(2) the President reports such determination to the Congress at least 15 days in advance of any resumption of assistance to that state.
 

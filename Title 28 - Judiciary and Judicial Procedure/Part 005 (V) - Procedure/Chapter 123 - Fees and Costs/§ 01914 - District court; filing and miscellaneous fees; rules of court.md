@@ -6,7 +6,7 @@
 
 (c) Each district court by rule or standing order may require advance payment of fees.
 
-(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(a), Dec. 8, 2004, 118 Stat. 2895; Pub. L. 109–171, title X, §10001(a), Feb. 8, 2006, 120 Stat. 183.)
+(June 25, 1948, ch. 646, 62 Stat. 954; Pub. L. 95–598, title II, §244, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–336, §4(a), June 19, 1986, 100 Stat. 637; Pub. L. 99–500, §101(b) \[title IV, §407(a)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783-64, and Pub. L. 99–591, §101(b) \[title IV, §407(a)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341-64; Pub. L. 104–317, title IV, §401(a), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(a), Dec. 8, 2004, 118 Stat. 2895; Pub. L. 109–171, title X, §10001(a), Feb. 8, 2006, 120 Stat. 183.)
 
 #### Historical and Revision Notes
 

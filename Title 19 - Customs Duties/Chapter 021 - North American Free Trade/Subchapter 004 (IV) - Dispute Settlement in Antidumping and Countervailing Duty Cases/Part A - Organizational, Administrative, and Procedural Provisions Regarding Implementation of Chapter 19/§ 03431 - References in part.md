@@ -10,5 +10,5 @@ Pub. L. 103–182, title IV, §416, Dec. 8, 1993, 107 Stat. 2148, provided that:
 
 &emsp;"(1) to any final determination described in paragraph (1)(B), or (2)(B)(i), (ii), or (iii), of section 516A(a) of the Tariff Act of 1930 \[19 U.S.C. 1516a(a)(1)(B), (2)(B)(i), (ii), (iii)\] notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of section 516A(a) of such Act notice of which is received by the Government of Canada or Mexico before such date; or
 
-&emsp;"(2) to any binational panel review under the United States-Canada Free-Trade Agreement, or any extraordinary challenge arising out of any such review, that was commenced before such date."
+&emsp;"(2) to any binational panel review under the United States-Canada Free-Trade Agreement, or anyextraordinary challenge arising out of any such review, that was commenced before such date."
 

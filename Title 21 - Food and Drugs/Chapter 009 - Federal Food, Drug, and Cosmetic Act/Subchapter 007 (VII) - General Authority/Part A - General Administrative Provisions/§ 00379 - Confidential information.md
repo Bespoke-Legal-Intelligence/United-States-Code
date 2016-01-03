@@ -54,7 +54,7 @@ The Secretary may enter into written agreements to provide information reference
 
 #### (4) Effect of subsection
 
-&emsp;Nothing in this subsection affects the ability of the Secretary to enter into any writtenagreement authorized by other provisions of law to share confidential information.
+&emsp;Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
 
 (June 25, 1938, ch. 675, §708, as added Pub. L. 94–295, §8, May 28, 1976, 90 Stat. 582; amended Pub. L. 112–144, title VII, §710, July 9, 2012, 126 Stat. 1070.)
 

@@ -120,7 +120,7 @@ Pub. L. 96–180, §18, Jan. 2, 1980, 93 Stat. 1306, as amended by Pub. L. 96–
 
 &emsp;"(9) a survey of the prevalence of occupational alcoholism and alcohol abuse programs offered by Federal contractors; and
 
-&emsp;"(10) an evaluation of the needs of special and underserved population groups, including American Indians, Alaskan Natives, Native Hawaiians, Native American Pacific Islanders, youth, the elderly, women, and the handicapped and assess the adequacy of existing services to fulfill such needs.
+&emsp;"(10) an evaluation of the needs of special and underserved population groups, including American Indians, Alaskan Natives, Native Hawaiians, NativeAmerican Pacific Islanders, youth, the elderly, women, and the handicapped and assess the adequacy of existing services to fulfill such needs.
 
 "(c) The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.
 

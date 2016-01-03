@@ -16,7 +16,7 @@ The Secretary, acting through the National Center for Injury Prevention and Cont
 
 &emsp;(6) education to increase awareness about drugs and alcohol used to facilitate rapes or sexual assaults; and
 
-&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
+&emsp;(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault,including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in section 12102 of this title).
 
 #### (b) Collection and dissemination of information on sexual assault
 

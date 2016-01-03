@@ -36,7 +36,7 @@
 
 &emsp;(C) the small business concern executes an agreement in writing satisfactory to the Secretary as provided by paragraph (4) of this subsection.
 
-(3) The period of time for which the Secretary undertakes or suspends the obligation on a loan under this subsection may not exceed five years. The Secretary may extend the maturity of any loan on which the Secretary undertakes or suspends the obligation under this subsection for a corresponding period of time.
+(3) The period of time for which the Secretary undertakes or suspends the obligation on a loan under this subsection may not exceed five years.The Secretary may extend the maturity of any loan on which the Secretary undertakes or suspends the obligation under this subsection for a corresponding period of time.
 
 (4)(A) Before the Secretary may undertake or suspend a veterans' small business concern's obligation under this subsection, the Secretary shall require the small business concern to execute an agreement to repay the aggregate amount of the payments which were required under the loan during the period for which the obligation was undertaken or suspended—
 

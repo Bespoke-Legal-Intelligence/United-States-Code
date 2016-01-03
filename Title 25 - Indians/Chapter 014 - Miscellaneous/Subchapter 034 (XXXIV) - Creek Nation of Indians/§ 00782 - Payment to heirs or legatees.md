@@ -2,7 +2,7 @@
 
 #### (a) Laws governing
 
-If a person entitled to a payment authorized by sections 781 to 785 of this title is deceased, such payment shall be made to his heirs or legatees determined in accordance with the laws, relating to the distribution of personal property, of the Creek Nation if the decedent died before January 1, 1898, or of the State of Arkansas ineffect at the time of death if the decedent died before November 16, 1907, or of the State of Oklahoma in effect at the time of death if the decedent died on or after November 16, 1907. For the purposes of this section the decedent shall be regarded as an owner in possession of the payment at the time of his death.
+If a person entitled to a payment authorized by sections 781 to 785 of this title is deceased, such payment shall be made to his heirs or legatees determined in accordance with the laws, relating to the distribution of personal property, of the Creek Nation if the decedent died before January 1, 1898, or of the State of Arkansas in effect at the time of death if the decedent died before November 16, 1907, or of the State of Oklahoma in effect at the time of death if the decedent died on or after November 16, 1907. For the purposes of this section the decedent shall be regarded as an owner in possession of the payment at the time of his death.
 
 #### (b) Proof of death and heirship or bequest
 

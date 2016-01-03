@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) establish any additional relevant capital measures to carry out the purpose of this section; or
 
-&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that the measure is no longer an appropriate means for carrying out the purpose of this section.
+&emsp;&emsp;&emsp;(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrence of the other Federal banking agencies) that themeasure is no longer an appropriate means for carrying out the purpose of this section.
 
 #### (2) Capital categories generally
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) if the insured depository institution is undercapitalized, each company having control of the institution has—
 
-&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized on average during each of 4 consecutive calendar quarters; and
+&emsp;&emsp;&emsp;&emsp;(I) guaranteed that the institution will comply with the plan until the institution has been adequately capitalized onaverage during each of 4 consecutive calendar quarters; and
 
 &emsp;&emsp;&emsp;&emsp;(II) provided appropriate assurances of performance.
 
@@ -292,7 +292,7 @@ For purposes of this section:
 
 #### (B) Restricting transactions with affiliates
 
-&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection (d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
+&emsp;&emsp;(i) Requiring the institution to comply with section 371c of this title as if subsection\(d)(1) of that section (exempting transactions with certain affiliated institutions) did not apply.
 
 &emsp;&emsp;(ii) Further restricting the institution's transactions with affiliates.
 
@@ -422,7 +422,7 @@ For purposes of this section:
 
 &emsp;&emsp;The Corporation may make exceptions to subparagraph (A) if—
 
-&emsp;&emsp;&emsp;(i) the appropriate Federal banking agency has taken action with respect tothe insured depository institution under paragraph (3)(A)(ii); and
+&emsp;&emsp;&emsp;(i) the appropriate Federal banking agency has taken action with respect to the insured depository institution under paragraph (3)(A)(ii); and
 
 &emsp;&emsp;&emsp;(ii) the Corporation determines that the exception would further the purpose of this section.
 
@@ -496,7 +496,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 #### (1) In general
 
-&emsp;If the Deposit Insurance Fund incurs a material loss with respect to an insured depositoryinstitution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
+&emsp;If the Deposit Insurance Fund incurs a material loss with respect to an insured depository institution on or after July 1, 1993, the inspector general of the appropriate Federal banking agency shall—
 
 &emsp;&emsp;(A) make a written report to that agency reviewing the agency's supervision of the institution (including the agency's implementation of this section), which shall—
 
@@ -538,7 +538,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) $150,000,000, if the loss occurs during the period beginning on January 1, 2012, and ending on December 31, 2013; and
 
-&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
+&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee onBanking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
 
 #### (3) Deadline for report
 
@@ -576,7 +576,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 &emsp;&emsp;&emsp;(ii) for each loss incurred by the Deposit Insurance Fund that is not a material loss, determine—
 
-&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Federal banking agency or State bank supervisor for appointing the Corporationas receiver under section 1821(c)(5) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Federal banking agency or State bank supervisor for appointing the Corporation as receiver under section 1821(c)(5) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
 
@@ -610,7 +610,7 @@ Subsections (e) through (i) (other than paragraph (3) of subsection (e)) shall n
 
 #### (m) Other authority not affected
 
-This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in addition to (but not in derogation of) that required under this section.
+This section does not limit any authority of an appropriate Federal banking agency, the Corporation, or a State to take action in additionto (but not in derogation of) that required under this section.
 
 #### (n) Administrative review of dismissal orders
 
@@ -668,7 +668,7 @@ Subsections (e)(2), (f), and (h) shall not apply before July 1, 1994, to any ins
 
 &emsp;(3) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19,1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(D), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title IX, §987, July 21, 2010, 124 Stat. 1936.)
 
 #### References in Text
 

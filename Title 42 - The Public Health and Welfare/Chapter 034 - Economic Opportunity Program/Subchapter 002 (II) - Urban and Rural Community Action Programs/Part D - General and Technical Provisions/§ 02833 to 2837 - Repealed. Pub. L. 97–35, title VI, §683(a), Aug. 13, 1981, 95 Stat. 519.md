@@ -1,6 +1,6 @@
 ### §§2833 to 2837. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519
 
-Section 2833, Pub. L. 88–452, title II, §241, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 705; amended Pub. L. 95–568, §17(a)(13), Nov. 2, 1978, 92 Stat. 2440, related to extension of benefits to rural areas.
+Section 2833, Pub. L. 88–452, title II, §241, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 705;amended Pub. L. 95–568, §17(a)(13), Nov. 2, 1978, 92 Stat. 2440, related to extension of benefits to rural areas.
 
 Section 2834, Pub. L. 88–452, title II, §242, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 706; amended Pub. L. 91–177, title I, §107(a), Dec. 30, 1969, 83 Stat. 830; Pub. L. 95–568, §17(a)(14), Nov. 2, 1978, 92 Stat. 2440, set forth provisions respecting submission of plans to governors.
 

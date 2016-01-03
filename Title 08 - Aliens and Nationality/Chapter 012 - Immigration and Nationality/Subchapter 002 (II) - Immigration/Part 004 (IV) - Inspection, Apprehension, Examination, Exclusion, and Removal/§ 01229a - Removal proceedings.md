@@ -8,7 +8,7 @@
 
 #### (2) Charges
 
-&emsp;An alien placed in proceedings under this section may be charged with any applicableground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
+&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
 
 #### (3) Exclusive procedures
 
@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2) of this section). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
+&emsp;&emsp;Any alien who, after written notice required under paragraph (1) or (2) of section 1229(a) of this title has been provided to the alien or the alien's counsel of record, does not attend a proceeding under this section, shall be ordered removed in absentia if the Service establishes by clear, unequivocal, and convincing evidence that the written notice was so provided and that the alien is removable (as defined in subsection (e)(2)). The written notice by the Attorney General shall be considered sufficient for purposes of this subparagraph if provided at the most recent address provided under section 1229(a)(1)(F) of this title.
 
 #### (B) No notice if failure to provide address information
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;Such an order may be rescinded only—
 
-&emsp;&emsp;&emsp;(i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1) of this section), or
+&emsp;&emsp;&emsp;(i) upon a motion to reopen filed within 180 days after the date of the order of removal if the alien demonstrates that the failure to appear was because of exceptional circumstances (as defined in subsection (e)(1)), or
 
 &emsp;&emsp;&emsp;(ii) upon a motion to reopen filed at any time if the alien demonstrates that the alien did not receive notice in accordance with paragraph (1) or (2) of section 1229(a) of this title or the alien demonstrates that the alien was in Federal or State custody and the failure to appear was through no fault of the alien.
 
@@ -94,7 +94,7 @@
 
 #### (7) Limitation on discretionary relief for failure to appear
 
-&emsp;Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title, was provided oral notice, either in the alien's native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1) of this section) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
+&emsp;Any alien against whom a final order of removal is entered in absentia under this subsection and who, at the time of the notice described in paragraph (1) or (2) of section 1229(a) of this title, was provided oral notice, either in the alien's native language or in another language the alien understands, of the time and place of the proceedings and of the consequences under this paragraph of failing, other than because of exceptional circumstances (as defined in subsection (e)(1)) to attend a proceeding under this section, shall not be eligible for relief under section 1229b, 1229c, 1255, 1258, or 1259 of this title for a period of 10 years after the date of the entry of the final order of removal.
 
 #### (c) Decision and burden of proof
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
@@ -210,7 +210,7 @@
 
 #### (iii) Failure to appear
 
-&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
+&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) is subject to the deadline specified in subparagraph (C) of such subsection.
 
 #### (iv) Special rule for battered spouses, children, and parents
 
@@ -284,7 +284,7 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and ImmigrantResponsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
 
 #### Effective Date
 

@@ -84,7 +84,7 @@ Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(3). Pub. L. 112–257, §2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protectionif determined to be warranted by the Secretary of Homeland Security.
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–257, §2(a), struck out provisions limiting protection for certain former Presidents and their spouses to ten years from the date a former President leaves office, with certain exceptions, and authorizing the provision of temporary protection if determined to be warranted by the Secretary of Homeland Security.
 
 Subsec. (a)(4). Pub. L. 112–257, §2(b), struck out "for a period not to exceed ten years or upon the child becoming 16 years of age, whichever comes first" after "16 years of age".
 
@@ -92,7 +92,7 @@ Subsec. (a)(4). Pub. L. 112–257, §2(b), struck out "for a period not to excee
 
 Subsec. (a)(8). Pub. L. 110–326, §102(1), added par. (8).
 
-<b>2006</b>—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting "The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2)." after "other members of the Committee.", was executed by making the insertion after "other members of the committee.", to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–177, §608(a), which directed amendment of subsec. (a)(7) by inserting "TheCommittee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2)." after "other members of the Committee.", was executed by making the insertion after "other members of the committee.", to reflect the probable intent of Congress.
 
 Subsec. (f). Pub. L. 109–177, §604, substituted "the Secret Service is" for "officers and agents of the Secret Service are".
 
@@ -160,7 +160,7 @@ Pub. L. 110–326, title I, §103, Sept. 26, 2008, 122 Stat. 3560, provided that
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: "The amendments made bythis section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\]."
+Pub. L. 107–296, title XVII, §1703(b), Nov. 25, 2002, 116 Stat. 2314, provided that: "The amendments made by this section \[amending this section and former sections 202 and 208 of Title 3, The President\] shall take effect on the date of transfer of the United States Secret Service to the Department \[of Homeland Security\]."
 
 #### Effective Date of 1974 Amendment
 

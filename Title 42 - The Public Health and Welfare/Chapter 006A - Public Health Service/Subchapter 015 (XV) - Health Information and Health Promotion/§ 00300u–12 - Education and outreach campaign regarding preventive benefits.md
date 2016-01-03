@@ -46,7 +46,7 @@ In coordinating the campaign under subsection (a), the Secretary shall consult w
 
 #### (d) Website
 
-The Secretary, in consultation with private-sector experts, shall maintain or enter into a contract to maintain an Internet website to provide science-based information on guidelines for nutrition, regular exercise, obesity reduction, smoking cessation, and specific chronic disease prevention. Such website shall be designed to provide information to health care providers and consumers.
+The Secretary, in consultation with private-sector experts, shall maintain or enter into a contract to maintain an Internet website to provide science-based information on guidelines fornutrition, regular exercise, obesity reduction, smoking cessation, and specific chronic disease prevention. Such website shall be designed to provide information to health care providers and consumers.
 
 #### (e) Dissemination of information through providers
 

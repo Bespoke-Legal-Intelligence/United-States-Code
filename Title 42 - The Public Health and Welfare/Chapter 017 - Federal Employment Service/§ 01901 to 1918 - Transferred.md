@@ -4,7 +4,7 @@
 
 Section 1901, act June 6, 1933, ch. 49, §1, 48 Stat. 113, which related to establishment of United States Employment Service, was transferred to section 49 of Title 29, Labor.
 
-Section 1902, act June 6, 1933, ch. 49, §2, 48 Stat. 114; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R.2728, 53 Stat. 1424, which related to establishment of officers and employees of the Service, was transferred to section 49a of Title 29.
+Section 1902, act June 6, 1933, ch. 49, §2, 48 Stat. 114; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, which related to establishment of officers and employees of the Service, was transferred to section 49a of Title 29.
 
 Section 1903, act June 6, 1933, ch. 49, §3, 48 Stat. 114, which related to promotion and development of national system of employment offices, was transferred to section 49b of Title 29.
 

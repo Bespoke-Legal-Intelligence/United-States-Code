@@ -6,9 +6,9 @@ Any member bank which, and any institution-affiliated party (within the meaning 
 
 #### (b) Second tier
 
-Notwithstanding subsection (a) of this section, any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who <sup>1</sup>
+Notwithstanding subsection (a), any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who <sup>1</sup>
 
-&emsp;(1)(A) commits any violation described in subsection (a) of this section;
+&emsp;(1)(A) commits any violation described in subsection (a);
 
 &emsp;(B) recklessly engages in an unsafe or unsound practice in conducting the affairs of such member bank; or
 
@@ -26,11 +26,11 @@ Notwithstanding subsection (a) of this section, any member bank which, and any i
 
 #### (c) Third tier
 
-Notwithstanding subsections (a) and (b) of this section, any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who—
+Notwithstanding subsections (a) and (b), any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who—
 
 &emsp;(1) knowingly—
 
-&emsp;&emsp;(A) commits any violation described in subsection (a) of this section;
+&emsp;&emsp;(A) commits any violation described in subsection (a);
 
 &emsp;&emsp;(B) engages in any unsafe or unsound practice in conducting the affairs of such credit union; <sup>2</sup> or
 
@@ -38,11 +38,11 @@ Notwithstanding subsections (a) and (b) of this section, any member bank which, 
 
 &emsp;(2) knowingly or recklessly causes a substantial loss to such credit union <sup>2</sup> or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
-> shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+> shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) for each day during which such violation, practice, or breach continues.
 
 #### (d) Maximum amounts of penalties for any violation described in subsection (c)
 
-The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) of this section for any violation, practice, or breach described in such subsection is—
+The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) for any violation, practice, or breach described in such subsection is—
 
 &emsp;(1) in the case of any person other than a member bank, an amount to not exceed $1,000,000; and
 
@@ -54,7 +54,7 @@ The maximum daily amount of any civil penalty which may be assessed pursuant to 
 
 #### (e) Assessment; etc.
 
-Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected <sup>3</sup> by
+Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected <sup>3</sup> by
 
 &emsp;(1) in the case of a national bank, by the Comptroller of the Currency; and
 
@@ -72,7 +72,7 @@ All penalties collected under authority of this paragraph shall be deposited int
 
 #### (h) "Violate" defined
 
-For purposes of this section, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+For purposes of this section, the term "violate" includes any action (alone or with anotheror others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 #### (i) Regulations
 
@@ -100,7 +100,7 @@ Subsec. (d). Pub. L. 97–320, §424(e), substituted "twenty days from the servi
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date ifsuch conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 

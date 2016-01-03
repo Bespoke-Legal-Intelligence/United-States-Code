@@ -34,7 +34,7 @@ Requirement to Provide Start-Up Time For Certain Contractors.—(1) Except as pr
 
 (c)
 
-Incentives for Electronic Processing.—The Secretary of Defense shall require that new contracts for managed care support under the TRICARE program provide that the contractor be permitted to provide financial incentives to health care providers who file claims for payment electronically.
+Incentives for Electronic Processing.—The Secretary of Defense shall require that newcontracts for managed care support under the TRICARE program provide that the contractor be permitted to provide financial incentives to health care providers who file claims for payment electronically.
 
 (d)
 

@@ -32,7 +32,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(III) a third party directly or indirectly controls the producer and the exporter or importer, or
 
-&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control athird party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
+&emsp;&emsp;&emsp;(IV) the producer and the exporter or importer directly or indirectly control a third party and there is reason to believe that the relationship causes the producer to act differently than a nonrelated producer.
 
 > &emsp;&emsp;For purposes of this subparagraph, a party shall be considered to directly or indirectly control another party if the party is legally or operationally in a position to exercise restraint or direction over the other party.
 
@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -256,7 +256,7 @@ For purposes of this subtitle—
 
 #### (I) General framework of regional development
 
-&emsp;&emsp;&emsp;&emsp;The term "general framework of regional development" means that the regional subsidy programs are part of an internally consistent and generally applicable regional development policy, and that regional development subsidies are not granted in isolated geographical points having no, or virtually no, influence on the development of a region.
+&emsp;&emsp;&emsp;&emsp;The term "general framework of regional development" means that the regional subsidy programs are part of an internally consistent and generally applicable regional development policy, and that regional development subsidies are not granted in isolated geographicalpoints having no, or virtually no, influence on the development of a region.
 
 #### (II) Neutral and objective criteria
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -336,7 +336,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) may consider such other economic factors as are relevant to the determination regarding whether there is material injury by reason of imports.
 
-> &emsp;&emsp;In the notification required under section 1671d(d) or 1673d(d) of this title, as the case may be, the Commission shall explain its analysis of each factor considered under clause (i), and identify each factor considered under clause (ii) and explain in full its relevance to the determination.
+> &emsp;&emsp;In the notification required under section 1671d(d) or 1673d(d) of this title, as the casemay be, the Commission shall explain its analysis of each factor considered under clause (i), and identify each factor considered under clause (ii) and explain in full its relevance to the determination.
 
 #### (C) Evaluation of relevant factors
 
@@ -358,13 +358,13 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
 
-&emsp;&emsp;&emsp;&emsp;(I) actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
+&emsp;&emsp;&emsp;&emsp;(I) actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
 
 &emsp;&emsp;&emsp;&emsp;(II) factors affecting domestic prices,
 
 &emsp;&emsp;&emsp;&emsp;(III) actual and potential negative effects on cash flow, inventories, employment, wages, growth, ability to raise capital, and investment,
 
-&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development andproduction efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(IV) actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(V) in a proceeding under part II of this subtitle, the magnitude of the margin of dumping.
 
@@ -374,11 +374,9 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
+&emsp;&emsp;&emsp;&emsp;(I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the domestic like product is the predominant material input in the production of that downstream article, and
-
-&emsp;&emsp;&emsp;&emsp;(III) the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,
+&emsp;&emsp;&emsp;&emsp;(II) the domestic like product is the predominant material input in the production of that downstream article,
 
 &emsp;&emsp;&nbsp;then the Commission, in determining market share and the factors affecting financial performance set forth in clause (iii), shall focus primarily on the merchant market for the domestic like product.
 
@@ -408,7 +406,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(I) if a countervailable subsidy is involved, such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the countervailable subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement), and whether imports of the subject merchandise are likely to increase,
 
-&emsp;&emsp;&emsp;&emsp;(II) any existing unused production capacity or imminent, substantial increase in production capacity in the exporting country indicating the likelihood of substantially increased imports of the subject merchandise into the United States, taking into account the availability of other export markets to absorb any additional exports,
+&emsp;&emsp;&emsp;&emsp;(II) any existing unused production capacity or imminent, substantial increase in production capacity in the exportingcountry indicating the likelihood of substantially increased imports of the subject merchandise into the United States, taking into account the availability of other export markets to absorb any additional exports,
 
 &emsp;&emsp;&emsp;&emsp;(III) a significant rate of increase of the volume or market penetration of imports of the subject merchandise indicating the likelihood of substantially increased imports,
 
@@ -478,7 +476,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -491,6 +489,10 @@ For purposes of this subtitle—
 #### (I) Consideration of post-petition information
 
 &emsp;&emsp;The Commission shall consider whether any change in the volume, price effects, or impact of imports of the subject merchandise since the filing of the petition in an investigation under part I or II of this subtitle is related to the pendency of the investigation and, if so, the Commission may reduce the weight accorded to the data for the period after the filing of the petition in making its determination of material injury, threat of material injury, or material retardation of the establishment of an industry in the United States.
+
+#### (J) Effect of profitability
+
+&emsp;&emsp;The Commission may not determine that there is no material injury or threat of material injury to an industry in the United States merely because that industry is profitable or because the performance of that industry has recently improved.
 
 #### (8) Subsidies Agreement; Agreement on Agriculture
 
@@ -526,7 +528,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(iii) processors and growers,
 
-> &emsp;&emsp;but this subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authority and the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
+> &emsp;&emsp;but this subparagraph shall cease to have effect if the United States Trade Representative notifies the administering authorityand the Commission that the application of this subparagraph is inconsistent with the international obligations of the United States.
 
 #### (10) Domestic like product
 
@@ -567,6 +569,8 @@ For purposes of this subtitle—
 &emsp;&emsp;(A) Sales disregarded under section 1677b(b)(1) of this title.
 
 &emsp;&emsp;(B) Transactions disregarded under section 1677b(f)(2) of this title.
+
+&emsp;&emsp;(C) Situations in which the administering authority determines that the particular market situation prevents a proper comparison with the export price or constructed export price.
 
 #### (16) Foreign like product
 
@@ -682,7 +686,7 @@ For purposes of this subtitle—
 
 #### (i) Less than 3 percent
 
-&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iv), imports from a country of merchandise corresponding to a domestic like product identified by the Commission are "negligible" if such imports account for less than 3 percent of the volume of all such merchandise imported into the United States in the most recent 12-month period for which data are available that precedes—
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iv), imports from a country of merchandise corresponding to a domestic like product identified by the Commission are "negligible" if such imports account for less than 3 percent of the volume of all such merchandise imported into the UnitedStates in the most recent 12-month period for which data are available that precedes—
 
 &emsp;&emsp;&emsp;&emsp;(I) the filing of the petition under section 1671a(b) or 1673a(b) of this title, or
 
@@ -710,7 +714,7 @@ For purposes of this subtitle—
 
 #### (D) Regional industries
 
-&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of allsubject merchandise imported into the United States.
+&emsp;&emsp;In an investigation in which the Commission makes a regional industry determination under paragraph (4)(C), the Commission's examination under subparagraphs (A) and (B) shall be based upon the volume of subject merchandise exported for sale in the regional market in lieu of the volume of all subject merchandise imported into the United States.
 
 #### (25) Subject merchandise
 
@@ -820,7 +824,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–27, title V, §§503, 504(a), June 29, 2015, 129 Stat. 384, 385.)
 
 #### Amendment of Section
 
@@ -830,7 +834,7 @@ For purposes of this subtitle—
 
 The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code.See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 Section 1303 of this title, referred to in pars. (20)(A), (25), and (26), was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, §261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under section 1303 of this title.
 
@@ -839,6 +843,14 @@ The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title.
 
 #### Amendments
+
+<b>2015</b>—Par. (7)(C)(iii)(I). Pub. L. 114–27, §503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,".
+
+Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, §503(c), inserted "and" at end of subcl. (I), struck out "and" after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: "the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,".
+
+Par. (7)(J). Pub. L. 114–27, §503(a), added subpar. (J).
+
+Par. (15)(C). Pub. L. 114–27, §504(a), added subpar. (C).
 
 <b>1996</b>—Par. (16)(C)(i). Pub. L. 104–295, §20(b)(7), which directed substitution of "subject merchandise" for "merchandise which is the subject of the investigation" in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
 
@@ -930,7 +942,7 @@ Par. (16). Pub. L. 103–465, §233(a)(4), substituted "Foreign like product" fo
 
 Par. (16)(A). Pub. L. 103–465, §233(a)(5)(DD), substituted "subject merchandise" for "merchandise which is the subject of an investigation".
 
-Par. (16)(B)(i). Pub. L. 103–465, §233(a)(5)(EE), which directed the substitution of "subject merchandise" for "merchandise which is the subject of an investigation", was executed by making the substitution for textwhich contained the words "the investigation" rather than "an investigation", to reflect the probable intent of Congress.
+Par. (16)(B)(i). Pub. L. 103–465, §233(a)(5)(EE), which directed the substitution of "subject merchandise" for "merchandise which is the subject of an investigation", was executed by making the substitution for text which contained the words "the investigation" rather than "an investigation", to reflect the probable intent of Congress.
 
 Par. (17). Pub. L. 103–465, §233(a)(5)(FF), substituted "subject merchandise" for "merchandise which is the subject of the investigation".
 
@@ -1030,7 +1042,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L.103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
 
 #### Effective Date of 1990 Amendment
 

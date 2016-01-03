@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The Secretary, in consultation with the guaranty agencies operating under voluntary flexible agreements, shall report on an annual basis to the authorizing committees regarding the program outcomes that the voluntary flexible agreements have had with respect to—
 
-&emsp;&emsp;&emsp;(i) program integrity and program and cost efficiencies, delinquency prevention,and default aversion, including a comparison of such outcomes to such outcomes for each guaranty agency operating under an agreement under subsection (b) or (c) of section 1078 of this title;
+&emsp;&emsp;&emsp;(i) program integrity and program and cost efficiencies, delinquency prevention, and default aversion, including a comparison of such outcomes to such outcomes for each guaranty agency operating under an agreement under subsection (b) or (c) of section 1078 of this title;
 
 &emsp;&emsp;&emsp;(ii) consumer education programs described in section 1083a of this title; and
 
@@ -106,7 +106,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (2) Agreement notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30days prior to concluding an agreement under this section. The notice shall contain—
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to concluding an agreement under this section. The notice shall contain—
 
 &emsp;&emsp;(A) a description of the voluntary flexible agreement and the performance goals established by the Secretary for the agreement;
 
@@ -140,7 +140,7 @@ Paragraph (2) of subsec. (a) of this section, referred to in subsecs. (a)(1) and
 
 #### Prior Provisions
 
-A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (o)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208, §2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
+A prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1384; amended Pub. L. 100–50, §10(n), (o)(1), (p)(1), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 100–369, §§3–5(a), (b)(3), July 18, 1988, 102 Stat. 835, 836; Pub. L. 101–239, title II, §2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2112, 2114; Pub. L. 101–508, title III, §3006(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(c)(1), Apr. 9, 1991, 105 Stat. 123; Pub. L. 102–325, title IV, §417, July 23, 1992, 106 Stat. 529; Pub. L. 103–208,§2(c)(29)–(32), Dec. 20, 1993, 107 Stat. 2465, 2466, related to Federal supplemental loans for students, prior to repeal by Pub. L. 103–66, title IV, §4047(b), (d), Aug. 10, 1993, 107 Stat. 364, effective July 1, 1994.
 
 Another prior section 1078–1, Pub. L. 89–329, title IV, §428A, as added Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2120; amended Pub. L. 95–43, §1(a)(30)–(32), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §412(e), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(e), Aug. 13, 1981, 95 Stat. 455, related to student loan insurance programs, prior to the general amendment of this part by Pub. L. 99–498.
 

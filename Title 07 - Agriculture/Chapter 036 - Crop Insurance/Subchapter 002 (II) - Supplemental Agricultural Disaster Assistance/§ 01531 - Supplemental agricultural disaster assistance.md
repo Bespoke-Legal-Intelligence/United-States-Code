@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(A) in the case of an eligible producer on a farm that has at least 4 years of production history under the noninsured crop disaster assistance program that are not replacement yields, the noninsured crop disaster assistance program yield without regard to any replacement yields;
 
-&emsp;&emsp;(B) in the case of an eligible producer on a farm that has less than 4 years of production history under the noninsured crop disaster assistance program that are not replacement yields, the noninsured crop disaster assistance program yield as calculated without including the lowest of the replacement yields; and
+&emsp;&emsp;(B) in the case of an eligible producer on a farm that has less than 4 years of production history under the noninsured crop disaster assistance program that are not replacementyields, the noninsured crop disaster assistance program yield as calculated without including the lowest of the replacement yields; and
 
 &emsp;&emsp;(C) in all other cases, the production history of the eligible producer on the farm under the noninsured crop disaster assistance program.
 
@@ -328,7 +328,7 @@ In this section:
 
 #### (1) Payments
 
-&emsp;The Secretary shall make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverse weather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
+&emsp;The Secretary shall make livestock indemnity payments to eligible producers on farms that have incurred livestock death losses in excess of the normal mortality due to adverseweather, as determined by the Secretary, during the calendar year, including losses due to hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold.
 
 #### (2) Payment rates
 
@@ -430,7 +430,7 @@ In this section:
 
 #### (ii) Partial compensation
 
-&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed of covered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
+&emsp;&emsp;&emsp;In the case of an eligible livestock producer that sold or otherwise disposed ofcovered livestock due to drought conditions in 1 or both of the 2 production years immediately preceding the current production year, as determined by the Secretary, the payment rate shall be 80 percent of the payment rate otherwise calculated in accordance with clause (i).
 
 #### (C) Monthly feed cost
 
@@ -568,7 +568,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall provide emergency relief to eligible producers of livestock, honey bees,and farm-raised fish to aid in the reduction of losses due to disease, adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b), (c), or (d).
+&emsp;The Secretary shall provide emergency relief to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease, adverse weather, or other conditions, such as blizzards and wildfires, as determined by the Secretary, that are not covered under subsection (b), (c), or (d).
 
 #### (2) Use of funds
 
@@ -658,7 +658,7 @@ In this section:
 
 #### (2) Minimum
 
-&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer ona farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
+&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer on a farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
 
 #### (3) Waiver for socially disadvantaged, limited resource, or beginning farmer or rancher
 
@@ -676,7 +676,7 @@ In this section:
 
 #### (B) 2009 crop year
 
-&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
+&emsp;&emsp;In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008, theSecretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008.
 
 #### (5) Equitable relief
 

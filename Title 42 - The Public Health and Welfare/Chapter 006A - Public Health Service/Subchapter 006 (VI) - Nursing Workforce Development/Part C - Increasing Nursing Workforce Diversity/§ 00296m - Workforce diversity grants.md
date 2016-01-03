@@ -8,7 +8,7 @@
 
 #### (b) Guidance
 
-In carrying out subsection (a) of this section, the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including theNational Coalition of Ethnic Minority Nurse Associations, American <sup>2</sup> Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
+In carrying out subsection (a) of this section, the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations, American <sup>2</sup> Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
 
 #### (c) Required information and conditions for award recipients
 
@@ -18,7 +18,7 @@ In carrying out subsection (a) of this section, the Secretary shall take into co
 
 #### (2) Falling rates
 
-&emsp;If any of the rates reported under paragraph (1) fall below the average of the two previous years, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.
+&emsp;If any of the rates reported under paragraph (1) fall below the average of the two previousyears, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.
 
 #### (3) Ineligibility
 

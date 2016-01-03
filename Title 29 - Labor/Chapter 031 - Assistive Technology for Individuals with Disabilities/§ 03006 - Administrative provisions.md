@@ -58,7 +58,7 @@
 
 #### (4) Secretarial action
 
-&emsp;As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
+&emsp;As part of the annual report required under subsection (d), the Secretary shall describeeach such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
 #### (5) Public notification
 

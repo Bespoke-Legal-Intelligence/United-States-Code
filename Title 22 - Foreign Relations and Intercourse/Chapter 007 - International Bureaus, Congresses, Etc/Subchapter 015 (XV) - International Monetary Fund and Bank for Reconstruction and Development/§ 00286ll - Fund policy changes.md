@@ -10,11 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(ii) Preparation of Policy Framework Papers should be extended to all nations which have Fund programs and active Bank or International Development Association lending programs, and existence of a Policy Framework Paper should be a precondition for new lending to such nations by the Fund.
 
-&emsp;(iii) All Policy Framework Papers should articulate the principal poverty, economic, and social measures that the borrowing nationneeds to address, and this portion of the Policy Framework Paper (or a summary thereof that includes specific measures and timing) should be made available when the Policy Framework Paper is submitted to the Executive Directors of the Bank and of the Fund for consideration.
+&emsp;(iii) All Policy Framework Papers should articulate the principal poverty, economic, and social measures that the borrowing nation needs to address, and this portion of the Policy Framework Paper (or a summary thereof that includes specific measures and timing) should be made available when the Policy Framework Paper is submitted to the Executive Directors of the Bank and of the Fund for consideration.
 
 &emsp;(iv) In considering whether to allocate resources of the Fund to a borrower, the Fund should take into consideration the nature of the program and commitment of the borrower to address the issues referred to in clause (iii).
 
-&emsp;(v) The Fund should establish procedures to enable the Fund to cooperate with the Bank in evaluating the effectiveness of the measures referred to in clause (iii), at the levels of policy, project design, monitoring, and reporting, in the international financial institutions and in the borrowing nations.
+&emsp;(v) The Fund should establish procedures to enable the Fund to cooperate with the Bank in evaluating the effectiveness of the measures referred to in clause (iii), at the levels of policy, project design, monitoring, and reporting,in the international financial institutions and in the borrowing nations.
 
 &emsp;(B)(i) The Fund should be encouraged to make further progress toward environmentally sound policies and programs.
 

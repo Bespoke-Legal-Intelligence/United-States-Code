@@ -14,7 +14,7 @@ The Secretary may, at any time, upon terms and conditions and at a price determi
 
 #### (d) Transfer to Treasury
 
-Revenues of, and proceeds from the sale of troubled assets purchased under this chapter, or from the sale, exercise, or surrender of warrants or senior debt instruments acquired under section 5223 of this title shall be paid into the general fund of the Treasury for reduction of the public debt.
+Revenues of, and proceeds from the sale of troubled assets purchased under this chapter, or from the sale, exercise, or surrender of warrantsor senior debt instruments acquired under section 5223 of this title shall be paid into the general fund of the Treasury for reduction of the public debt.
 
 #### (e) Application of sunset to troubled assets
 

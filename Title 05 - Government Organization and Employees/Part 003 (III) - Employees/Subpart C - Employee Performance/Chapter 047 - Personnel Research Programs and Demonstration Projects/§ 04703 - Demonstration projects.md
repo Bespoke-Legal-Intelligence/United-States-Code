@@ -86,7 +86,7 @@
 
 (f) Employees within a unit with respect to which a labor organization is accorded exclusive recognition under chapter 71 of this title shall not be included within any project under subsection (a) of this section—
 
-&emsp;(1) if the project would violate a collective bargaining agreement (as defined in section 7103(8) of this title) between the agency andthe labor organization, unless there is another written agreement with respect to the project between the agency and the organization permitting the inclusion; or
+&emsp;(1) if the project would violate a collective bargaining agreement (as defined in section 7103(8) of this title) between the agency and the labor organization, unless there is another written agreement with respect to the project between the agency and the organization permitting the inclusion; or
 
 &emsp;(2) if the project is not covered by such a collective bargaining agreement, until there has been consultation or negotiation, as appropriate, by the agency with the labor organization.
 

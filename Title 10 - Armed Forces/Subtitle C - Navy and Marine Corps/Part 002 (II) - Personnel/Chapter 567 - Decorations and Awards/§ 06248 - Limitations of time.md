@@ -1,6 +1,6 @@
 ### §6248. Limitations of time
 
-(a) Except as provided in section 6246 of this title or subsection (b), no medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof may be awarded to a person unless—
+(a) Except as provided in section 6246 of this title or subsection (b), no medal of honor, Navycross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof may be awarded to a person unless—
 
 &emsp;(1) the award is made within five years after the date of the act or service justifying the award; and
 
@@ -12,7 +12,7 @@
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
-> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia inplace thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
+> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 390; Pub. L. 86–582, §1(2), July 5, 1960, 74 Stat. 320.)
 

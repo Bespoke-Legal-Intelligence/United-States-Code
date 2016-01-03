@@ -84,7 +84,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) establish a loan loss reserve fund; and
 
-&emsp;&emsp;&emsp;(ii) maintain the reserve fund in an amount equal to at least 5 percent of the outstanding balance of such loans owed bythe microenterprise development organization, until all obligations owed to the Secretary under this paragraph are repaid.
+&emsp;&emsp;&emsp;(ii) maintain the reserve fund in an amount equal to at least 5 percent of the outstanding balance of such loans owed by the microenterprise development organization, until all obligations owed to the Secretary under this paragraph are repaid.
 
 #### (D) Deferral of interest and principal
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry outthis section, to remain available until expended—
 
 &emsp;&emsp;(A) $4,000,000 for each of fiscal years 2009 through 2011;
 

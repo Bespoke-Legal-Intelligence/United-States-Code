@@ -20,7 +20,7 @@
 
 #### (3) Purpose of awards
 
-&emsp;The Secretary shall make awards to eligible entities in order to identify, document, andbring to scale innovative best practices based on demonstrated success, to allow such eligible entities to—
+&emsp;The Secretary shall make awards to eligible entities in order to identify, document, and bring to scale innovative best practices based on demonstrated success, to allow such eligible entities to—
 
 &emsp;&emsp;(A) expand their work and serve as models for best practices; and
 
@@ -30,7 +30,7 @@
 
 To be eligible for such an award, an eligible entity shall—
 
-&emsp;(1)(A) have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) of this title; or
+&emsp;(1)(A) have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) <sup>1</sup> of this title; or
 
 &emsp;(B) have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section;
 
@@ -47,6 +47,10 @@ In the case of an eligible entity that includes a nonprofit organization, the el
 In the case of an eligible entity that is a partnership described in subsection (a)(1)(B), the partner serving as the fiscal agent may make subgrants to one or more of the other entities in the partnership.
 
 (Pub. L. 111–5, div. A, title XIV, §14007, Feb. 17, 2009, 123 Stat. 284; Pub. L. 111–117, div. D, title III, §307, Dec. 16, 2009, 123 Stat. 3271.)
+
+#### References in Text
+
+Section 6311 of this title, referred to in subsec. (b)(1)(A), was amended generally by Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820, and, as so amended, subsec. (b)(2) does not describe achievement gaps.
 
 #### Amendments
 
@@ -67,4 +71,6 @@ Subsec. (d). Pub. L. 111–117, §307(4), added subsec. (d).
 #### Grant Renewals
 
 Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 392, provided in part: "That the Secretary may renew a grant made under section 14007 \[20 U.S.C. 10007\] for additional 1-year periods, for fiscal year 2014 and thereafter, if the grantee is meeting its performance targets, up to a total award period of 6 years".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

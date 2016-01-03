@@ -134,7 +134,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;"(11) consistent with the recommendations of the National Commission on American Indian, Alaska Native, and Native Hawaiian Housing, and in order to address the continuing prevalence of extraordinarily severe housing needs among Native Hawaiians who either reside or are eligible to reside on the Hawaiian Home Lands, Congress finds it necessary to extend the Federal low-income housing assistance available to American Indians and Alaska Natives under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.) to those Native Hawaiians;
 
-&emsp;"(12) under the treatymaking power of the United States, Congress had the constitutional authority to confirm a treaty between the United States and the government that represented the Hawaiian people, and from 1826 until 1893, the United States recognized the independence of the Kingdom of Hawaii, extendedfull diplomatic recognition to the Hawaiian Government, and entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875, and 1887;
+&emsp;"(12) under the treatymaking power of the United States, Congress had the constitutional authority to confirm a treaty between the United States and the government that represented the Hawaiian people, and from 1826 until 1893, the United States recognized the independence of the Kingdom of Hawaii, extended full diplomatic recognition to the Hawaiian Government, and entered into treaties and conventions with the Hawaiian monarchs to govern commerce and navigation in 1826, 1842, 1849, 1875, and 1887;
 
 &emsp;"(13) the United States has recognized and reaffirmed that—
 
@@ -180,7 +180,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;&emsp;"(i) by ceding to the State of Hawaii title to the public lands formerly held by the United States, and mandating that those lands be held in public trust, for the betterment of the conditions of Native Hawaiians, as that term is defined in section 201 of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.); and
 
-&emsp;&emsp;&emsp;"(ii) by transferring the United States responsibility for the administration of Hawaiian Home Lands to the State of Hawaii, but retaining the authority to enforce the trust, including the exclusive right of the United States to consent to any actions affecting the lands which comprise the corpus of the trust and any amendments to the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), enacted by the legislature of the State of Hawaii affecting the rights of beneficiaries under the Act;
+&emsp;&emsp;&emsp;"(ii) by transferring the United States responsibility for the administration of Hawaiian Home Lands to the State of Hawaii, but retaining the authority to enforce the trust, including the exclusive right of the United States to consent toany actions affecting the lands which comprise the corpus of the trust and any amendments to the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), enacted by the legislature of the State of Hawaii affecting the rights of beneficiaries under the Act;
 
 &emsp;&emsp;"(C) the authorization of mortgage loans insured by the Federal Housing Administration for the purchase, construction, or refinancing of homes on Hawaiian Home Lands under the National Housing Act (Public Law 479; 73d Congress; 12 U.S.C. 1701 et seq.);
 

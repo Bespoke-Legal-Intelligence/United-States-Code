@@ -36,7 +36,7 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 #### (B) Prohibition
 
-&emsp;&emsp;The Attorney General may not award a grant under this title or an Act amended bythis title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
+&emsp;&emsp;The Attorney General may not award a grant under this title or an Act amended by this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
 
 #### (C) Disclosure
 
@@ -46,7 +46,7 @@ All grants awarded by the Attorney General under this title or an Act amended by
 
 #### (A) Limitation
 
-&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this title or an Act amended by this title may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this title or an Act amended by this title, to host or support any expenditure for conferences that uses more than $20,000 in funds made available to the Department of Justice, unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy (as designated by the Deputy Attorney General) provides prior written authorization that the funds may be expended to host the conference.
+&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this title or an Act amended by this title may be used by the Attorney General, or by any individual or entity awarded discretionary funds through a cooperative agreement under this title or an Act amended by this title, to host or support any expenditure for conferences that uses more than $20,000 in funds made available to the Department of Justice, unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy (as designated bythe Deputy Attorney General) provides prior written authorization that the funds may be expended to host the conference.
 
 #### (B) Written approval
 

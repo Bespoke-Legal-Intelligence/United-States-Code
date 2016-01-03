@@ -2,9 +2,9 @@
 
 #### (a) Guarantees; Administration authority; regulatory terms and conditions; full faith and credit; subordination of debentures
 
-(1) Except as provided in subsection (b) of this section, the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
+(1) Except as provided in subsection (b), the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
 
-(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) of this section are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
+(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
 
 (3) The full faith and credit of the United States in pledged to the payment of all amounts guaranteed under this subsection.
 
@@ -12,7 +12,7 @@
 
 #### (b) Statutory terms and conditions
 
-No guarantee may be made with respect to any debenture under subsection (a) of this section unless—
+No guarantee may be made with respect to any debenture under subsection (a) unless—
 
 &emsp;(1) such debenture is issued for the purpose of making one or more loans to small business concerns, the proceeds of which shall be used by such concern for the purposes set forth in section 696 of this title;
 
@@ -38,7 +38,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
-&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
 
 #### (c) Commercial loan interest rate
 
@@ -52,19 +52,19 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (1) Level of charges
 
-&emsp;The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section.
+&emsp;The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a).
 
 #### (2) Participation fee
 
-&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of anyinstitution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
 
 #### (3) Development company fee
 
-&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a).
 
 #### (e) "Qualified State or local development company" defined; exception for rural company; authority
 
-(1) For purposes of this section, the term "qualified State or local development company" means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term "qualified State or local development company"means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 
@@ -78,7 +78,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (f) Effective date
 
-The fees authorized by subsections (b) and (d) of this section shall apply to financings approved by the Administration on or after October 1, 1996.
+The fees authorized by subsections (b) and (d) shall apply to financings approved by the Administration on or after October 1, 1996.
 
 #### (g) Calculation of subsidy rate
 
@@ -120,7 +120,7 @@ For definition of "this chapter", referred to in subsecs. (b)(7)(A)(ii) and (g),
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–447, §204, struck out ", but shall not apply to financings approved by theAdministration on or after October 1, 2005" before period at end.
+<b>2004</b>—Subsec. (f). Pub. L. 108–447, §204, struck out ", but shall not apply to financings approved by the Administration on or after October 1, 2005" before period at end.
 
 Pub. L. 108–447, title V, substituted "October 1, 2005" for "October 1, 2004".
 
@@ -140,7 +140,7 @@ Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 &emsp;"(i) 0.9375 percent per year of the outstanding balance of the loan; or
 
-&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and".
+&emsp;"(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase orguarantee $2,000,000,000 of debentures in fiscal year 1997; and".
 
 Subsec. (f). Pub. L. 105–135, §222(2), substituted "2000" for "1997".
 

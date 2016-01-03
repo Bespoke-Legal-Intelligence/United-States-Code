@@ -80,7 +80,7 @@ An award under subsection (b) shall apply to—
 
 &emsp;An applicant for a loan under this subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a written assurance that—
 
-&emsp;&emsp;(A) all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a loan under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and
+&emsp;&emsp;(A) all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a loan under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance withsections 3141–3144, 3146, and 3147 of title 40; and
 
 &emsp;&emsp;(B) the Secretary of Labor shall, with respect to the labor standards described in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
 

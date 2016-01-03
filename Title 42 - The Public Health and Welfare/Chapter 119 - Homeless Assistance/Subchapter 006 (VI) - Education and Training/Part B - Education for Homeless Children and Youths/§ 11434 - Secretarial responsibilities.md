@@ -48,21 +48,95 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 #### (2) Coordination
 
-&emsp;The Secretary shall coordinate such collection and dissemination with other agencies and entities that receive assistance and administer programs under this part.
+&emsp;The Secretary shall coordinate such collection and dissemination with other agenciesand entities that receive assistance and administer programs under this part.
 
 #### (i) Report
 
-Not later than 4 years after January 8, 2002, the Secretary shall prepare and submit to the President and the Committee on Education andthe Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
+Not later than 4 years after January 8, 2002, the Secretary shall prepare and submit to the President and the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
 
 &emsp;(1) the education of homeless children and youths; and
 
 &emsp;(2) the actions of the Secretary and the effectiveness of the programs supported under this part.
 
-(Pub. L. 100–77, title VII, §724, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2004.)
+(Pub. L. 100–77, title VII, §724, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2004; amended Pub. L. 114–95, title IX, §9104, Dec. 10, 2015, 129 Stat. 2136.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–95, title IX, §§9104, 9107, Dec. 10, 2015, 129 Stat. 2136, 2137, provided that, effective Oct. 1, 2016, this section is amended—</i>
+
+<i>(1) by striking subsection (c) and inserting the following:</i>
+
+#### <i>"(c) Notice</i>
+
+#### <i>"(1) In general</i>
+
+&emsp;<i>"The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effect prior to such date) of the educational rights of homeless children and youths.</i>
+
+#### <i>"(2) Dissemination</i>
+
+&emsp;<i>"The Secretary shall disseminate the notice nationwide to all Federal agencies, and grant recipients, serving homeless families or homeless children and youths.";</i>
+
+<i>(2) by striking subsection (d) and inserting the following:</i>
+
+#### <i>"(d) Evaluation, dissemination, and technical assistance</i>
+
+<i>"The Secretary shall conduct evaluation, dissemination, and technical assistance activities for programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under section 11435 of this title to conduct such activities.";</i>
+
+<i>(3) in subsection (e)—</i>
+
+<i>(A) by striking "60-day" and inserting "120-day"; and</i>
+
+<i>(B) by striking "120-day" and inserting "180-day";</i>
+
+<i>(4) in subsection (f), by adding at the end the following: "The Secretary shall provide support and technical assistance to State educational agencies, concerning areas in which documented barriers to a free appropriate public education persist.";</i>
+
+<i>(5) by striking subsection (g) and inserting the following:</i>
+
+#### <i>"(g) Guidelines</i>
+
+<i>"The Secretary shall develop, issue, and publish in the Federal Register, not later than 60 days after December 10, 2015, guidelines concerning ways in which a State—</i>
+
+&emsp;<i>"(1) may assist local educational agencies to implement the provisions related to homeless children and youths amended by that Act; and</i>
+
+&emsp;<i>"(2) may review and revise State policies and procedures that may present barriers to the identification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.";</i>
+
+<i>(6) in subsection (h)(1)(A)—</i>
+
+<i>(A) by striking "location" and inserting "primary nighttime residence"; and</i>
+
+<i>(B) by inserting "in all areas served by local educational agencies" before the semicolon at the end; and</i>
+
+<i>(7) in subsection (i), by striking "January 8, 2002" and inserting "December 10, 2015".</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### Prior Provisions
 
 A prior section 11434, Pub. L. 100–77, title VII, §724, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3964, related to Secretarial responsibilities, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11434, Pub. L. 100–77, title VII, §724, July 22, 1987, 101 Stat. 528; Pub. L. 101–645, title VI, §612(d), Nov. 29, 1990, 104 Stat. 4742, related to national responsibilities, prior to the general amendment of this part by Pub. L. 103–382.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (c). Pub. L. 114–95, §9104(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Secretary shall, before the next school year that begins after January 8, 2002, create and disseminate nationwide a public notice of the educational rights of homeless children and youths and disseminate such notice to other Federal agencies, programs, and grantees, including Head Start grantees, Health Care for the Homeless grantees, Emergency Food and Shelter grantees, and homeless assistance programs administered by the Department of Housing and Urban Development."
+
+Subsec. (d). Pub. L. 114–95, §9104(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Secretary shall conduct evaluation and dissemination activities of programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under section 11435 of this title to conduct such activities."
+
+Subsec. (e). Pub. L. 114–95, §9104(3), substituted "120-day" for "60-day" and "180-day" for "120-day".
+
+Subsec. (f). Pub. L. 114–95, §9104(4), inserted at end "The Secretary shall provide support and technical assistance to State educational agencies, concerning areas in which documented barriers to a free appropriate public education persist."
+
+Subsec. (g). Pub. L. 114–95, §9104(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "The Secretary shall develop, issue, and publish in the Federal Register, not later than 60 days after January 8, 2002, school enrollment guidelines for States with respect to homeless children and youths. The guidelines shall describe—
+
+&emsp;"(1) successful ways in which a State may assist local educational agencies to immediately enroll homeless children and youths in school; and
+
+&emsp;"(2) how a State can review the State's requirements regarding immunization and medical or school records and make such revisions to the requirements as are appropriate and necessary in order to enroll homeless children and youths in school immediately."
+
+Subsec. (h)(1)(A). Pub. L. 114–95, §9104(6), substituted "primary nighttime residence" for "location" and inserted before semicolon at end "in all areas served by local educational agencies".
+
+Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "January 8, 2002".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under section 11431 of this title.
 

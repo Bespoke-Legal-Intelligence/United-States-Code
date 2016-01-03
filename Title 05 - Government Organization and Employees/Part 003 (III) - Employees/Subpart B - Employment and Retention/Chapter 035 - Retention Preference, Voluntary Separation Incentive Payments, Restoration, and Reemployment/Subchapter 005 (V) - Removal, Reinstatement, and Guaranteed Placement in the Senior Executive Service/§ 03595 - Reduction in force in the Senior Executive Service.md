@@ -48,7 +48,7 @@ Subsec. (c)(3). Pub. L. 97–346, §5(b), designated as subpar. (A) existing pro
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 303(c), (d) of Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, and amendment by section 304(b) ofPub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by section 303(c), (d) of Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, and amendment by section 304(b) of Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Effective Date of 1982 Amendment
 

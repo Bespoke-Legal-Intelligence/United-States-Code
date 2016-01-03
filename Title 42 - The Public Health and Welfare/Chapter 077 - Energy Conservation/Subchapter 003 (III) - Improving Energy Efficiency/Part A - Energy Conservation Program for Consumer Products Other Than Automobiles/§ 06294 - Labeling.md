@@ -6,7 +6,7 @@
 
 (2)(A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
 
-(B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of section 6292(a) of this title and to which standards are applicable under section 6295 of this title. Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) of this section by July1, 1989, a capital letter "E" printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
+(B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of section 6292(a) of this title and to which standards are applicable under section 6295 of this title. Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) of this section by July 1, 1989, a capital letter "E" printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
 
 (C)
 
@@ -44,7 +44,7 @@ Completion.—The Commission shall—
 
 &emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
 
-(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
+(E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labelingrules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
@@ -140,7 +140,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 (1)(A) Any labeling rule in effect on March 17, 1987, shall remain in effect until amended, by rule, by the Commission.
 
-(B) After March 17, 1987, and not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any ofthe types specified in paragraphs (1) through (13), and paragraphs (15) through (19) <sup>1</sup> of section 6292(a) of this title (or class thereof) is prescribed under section 6293(b) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).
+(B) After March 17, 1987, and not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (13), and paragraphs (15) through (19) <sup>1</sup> of section 6292(a) of this title (or class thereof) is prescribed under section 6293(b) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).
 
 (2) The Commission shall afford interested persons an opportunity to present written or oral data, views, and comments with respect to the proposed labeling rules published under paragraph (1). The period for such presentations shall not be less than 45 days.
 
@@ -186,7 +186,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 &emsp;(C) ship with the product,
 
-> additional information relating to energy consumption, including instructions for the maintenance, use, or repair of the covered product, if the Commission determines that such additionalinformation would assist consumers in making purchasing decisions or in using such product, and that such requirement would not be unduly burdensome to manufacturers.
+> additional information relating to energy consumption, including instructions for the maintenance, use, or repair of the covered product, if the Commission determines that such additional information would assist consumers in making purchasing decisions or in using such product, and that such requirement would not be unduly burdensome to manufacturers.
 
 (6) The Commission may delay the effective date of the requirement specified in paragraph (1)(B) of this subsection applicable to a type or class of covered product, insofar as it requires the disclosure on the label of information respecting range of a measure of energy consumption, for not more than 12 months after the date on which the rule under this section is first applicable to such type or class, if the Commission determines that such information will not be available within an adequate period of time before such date.
 
@@ -326,7 +326,7 @@ Pub. L. 110–140, title III, §321(c), Dec. 19, 2007, 121 Stat. 1584, provided 
 
 "(1)
 
-In general.—In cooperation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, the Federal Trade Commission, lighting and retail industry associations, energy efficiency organizations, and any other entities that the Secretary of Energy determines to be appropriate, the Secretary of Energy shall—
+In general.—In cooperation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, the Federal Trade Commission, lighting and retail industry associations, energy efficiency organizations, and any other entities thatthe Secretary of Energy determines to be appropriate, the Secretary of Energy shall—
 
 &emsp;"(A) conduct an annual assessment of the market for general service lamps and compact fluorescent lamps—
 

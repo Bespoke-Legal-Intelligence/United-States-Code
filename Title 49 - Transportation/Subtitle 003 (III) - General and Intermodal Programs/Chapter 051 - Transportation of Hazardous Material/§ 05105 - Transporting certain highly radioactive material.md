@@ -72,7 +72,7 @@ In subsection (d), before clause (1), the words "In combination" are omitted as 
 
 <b>2005</b>—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall" wherever appearing.
 
-Subsec. (d). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall" in par. (1) and "Secretary may" for "Secretary of Transportation may" in par. (2).
+Subsec. (d). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall"in par. (1) and "Secretary may" for "Secretary of Transportation may" in par. (2).
 
 Pub. L. 109–59, §7107, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to a study to be conducted not later than Nov. 16, 1991, to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel.
 

@@ -50,7 +50,7 @@ In general.—Each agreement shall require the State authority to notify the Sec
 
 &emsp;(2)
 
-Response by secretary.—If a State authority notifies the Secretary under paragraph (1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
+Response by secretary.—If a State authority notifies the Secretary under paragraph\(1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
 
 &emsp;&emsp;(A) issue an order under section 60118(b) or take other appropriate enforcement actions to ensure compliance with this chapter; or
 

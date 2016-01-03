@@ -208,7 +208,7 @@ Subsection (b).—The amendment made by subsection (b) \[amending this section\]
 
 Pub. L. 101–239, title VII, §7101(c), Dec. 19, 1989, 103 Stat. 2305, provided that: "The amendments made by this section \[amending this section and section 132 of this title\] shall apply to taxable years beginning after December 31, 1988."
 
-Amendment by section 7814(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7814(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in theprovision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -260,7 +260,7 @@ No penalties or interest on failure to withhold.—No penalty or interest shall 
 
 "(5)
 
-Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section117(d) of such Code shall be treated as in effect on and after January 1, 1984."
+Coordination with section 117(d).—In the case of education described in section 127(c)(8) of the Internal Revenue Code of 1986, as added by this section, section 117(d) of such Code shall be treated as in effect on and after January 1, 1984."
 
 #### Effective Date
 

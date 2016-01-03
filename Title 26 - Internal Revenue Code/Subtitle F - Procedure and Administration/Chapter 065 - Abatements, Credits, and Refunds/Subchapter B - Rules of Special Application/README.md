@@ -43,7 +43,7 @@ Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, add
 
 <b>2001</b>—Pub. L. 107–16, title I, §101(b)(2), June 7, 2001, 115 Stat. 43, added item 6428.
 
-<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 "Sugar" and item 6428 "1981 rate reduction tax credit".
+<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388-528, struck out item 6418 "Sugar" and item 6428 "1981 rate reduction tax credit".
 
 <b>1988</b>—Pub. L. 100–418, title I, §1941(b)(3)(E), Aug. 23, 1988, 102 Stat. 1324, struck out items 6429 "Credit and refund of chapter 45 taxes paid by royalty owners" and 6430 "Credit or refund of windfall profit taxes to certain trust beneficiaries".
 

@@ -12,7 +12,7 @@ The Hells Canyon National Recreation Area (hereinafter referred to as the "recre
 
 #### References in Text
 
-Section 3 of this Act, referred to in subsec. (b), is section 3 of Pub. L. 94–199. Subsec. (a) of section 3 added pars. (11) and (12) of section 1274(a) of this title, relating to components of the national wild and scenic rivers system. Subsec. (b) of section 3, relating to the administration of those segments of the Snake and Rapid Rivers designated as wild or scenic river areas, is set out as a note under section 1274 of this title.
+Section 3 of this Act, referred to in subsec. (b), is section 3 of Pub. L. 94–199. Subsec. (a) of section 3 addedpars. (11) and (12) of section 1274(a) of this title, relating to components of the national wild and scenic rivers system. Subsec. (b) of section 3, relating to the administration of those segments of the Snake and Rapid Rivers designated as wild or scenic river areas, is set out as a note under section 1274 of this title.
 
 #### Amendments
 

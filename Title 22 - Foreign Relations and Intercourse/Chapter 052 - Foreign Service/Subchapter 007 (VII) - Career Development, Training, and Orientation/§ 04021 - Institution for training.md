@@ -44,7 +44,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 (3) Reimbursements collected under this subsection shall be credited to the currently available applicable appropriation account.
 
-(4) Training under this subsection is authorized only to the extent that it will not interferewith the institution's primary mission of training employees of the Department and of other agencies in the field of foreign relations.
+(4) Training under this subsection is authorized only to the extent that it will not interfere with the institution's primary mission of training employees of the Department and of other agencies in the field of foreign relations.
 
 #### (g) Applicability of section 4024 of this title
 
@@ -78,7 +78,7 @@ Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
 Pub. L. 103–236, §126(2)(A), substituted "Institution for training" for "Foreign Service Institute" as section catchline.
 
-Subsec. (a). Pub. L. 103–236, §126(2)(B), inserted heading, substituted "an institution or center for training (hereinafter in this subchapter referred to as the 'institution')" for "the Foreign Service Institute (hereinafter in this subchapter referred to as the 'Institute'),", and substituted "institution shall" for "Institute shall".
+Subsec. (a). Pub. L. 103–236, §126(2)(B), inserted heading, substituted "an institution or center for training\(hereinafter in this subchapter referred to as the 'institution')" for "the Foreign Service Institute (hereinafter in this subchapter referred to as the 'Institute'),", and substituted "institution shall" for "Institute shall".
 
 Subsec. (b). Pub. L. 103–236, §126(3), substituted "institution" for "Institute".
 
@@ -138,7 +138,7 @@ Purpose.—The purpose of this section is to promote comprehensive training to m
 
 "(b)
 
-Construction of Training Facilities.—The Administrator of General Services may construct a consolidated training facility for the Foreign Service Institute on a site made available by the Secretary of State or acquired by the Administrator of General Services. Such site shall be located outside the District of Columbia but within reasonable proximity to the Department of State. The Administrator of General Services may carry out this subsection only to the extent that funds are provided in advance in appropriation Acts to the Department of State and are transferred tothe Administrator of General Services for carrying out this section.
+Construction of Training Facilities.—The Administrator of General Services may construct a consolidated training facility for the Foreign Service Institute on a site made available by the Secretary of State or acquired by the Administrator of General Services. Such site shall be located outside the District of Columbia but within reasonable proximity to the Department of State. The Administrator of General Services may carry out this subsection only to the extent that funds are provided in advance in appropriation Acts to the Department of State and are transferred to the Administrator of General Services for carrying out this section.
 
 "(c)
 

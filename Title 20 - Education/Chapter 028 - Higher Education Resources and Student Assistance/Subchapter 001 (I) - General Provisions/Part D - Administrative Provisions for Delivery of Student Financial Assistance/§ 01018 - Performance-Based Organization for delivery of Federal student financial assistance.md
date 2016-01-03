@@ -112,7 +112,7 @@
 
 #### (iv) Delivery and information system
 
-&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorizedunder under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;&emsp;Developing open, common, and integrated systems for programs authorized under under <sup>1</sup> subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (v) Other areas
 
@@ -192,7 +192,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such paymentdoes not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
+&emsp;&emsp;Payment of a bonus under subparagraph (B) may be made to the Chief Operating Officer only to the extent that such payment does not cause the Chief Operating Officer's total aggregate compensation in a calendar year to equal or exceed the amount of the President's salary under section 102 of title 3.
 
 #### (e) Senior management
 
@@ -262,7 +262,7 @@
 
 #### (h) Establishment of fair and equitable system for measuring staff performance
 
-The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performanceplanning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
+The PBO shall establish an annual performance management system, subject to compliance with title 5, and consistent with applicable provisions of law and regulations, which strengthens the effectiveness of the PBO by providing for establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the performance plan of the PBO and its performance planning procedures, including those established under the Government Performance and Results Act of 1993, and communicating such goals or objectives to employees.
 
 #### (i) Authorization of appropriations
 

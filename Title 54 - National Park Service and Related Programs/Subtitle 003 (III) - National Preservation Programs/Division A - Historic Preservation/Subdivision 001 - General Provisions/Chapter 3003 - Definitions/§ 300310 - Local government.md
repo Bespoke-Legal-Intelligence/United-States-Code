@@ -1,6 +1,6 @@
 ### §300310. Local government
 
-In this division, the term "local government" means a city, county, township, municipality,or borough, or any other general purpose political subdivision of any State.
+In this division, the term "local government" means a city, county, township, municipality, or borough, or any other general purpose political subdivision of any State.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3189.)
 

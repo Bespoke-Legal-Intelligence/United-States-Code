@@ -34,7 +34,7 @@
 
 > shall be eligible to receive an educational assistance allowance at the appropriate rate provided in the table in paragraph (2) of this subsection, if such eligible veteran is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the veteran is enrolled.
 
-(2) The monthly educational assistance allowance of an eligible veteran pursuing a farm cooperative program under this chapter shall be paid as set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the basis shown in column I:
+(2) The monthly educational assistance allowance of an eligible veteran pursuing a farm cooperative program under this chapter shall be paidas set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the basis shown in column I:
 
 &nbsp;
 
@@ -46,7 +46,7 @@
 | Three-quarter time | 228 | 266 | 303 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18 |
 | Half-time | 152 | 178 | 202 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 |
 
-(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has "already qualified," aveteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
+(d)(1) Notwithstanding the prohibition in section 3471 of this title prohibiting enrollment of an eligible veteran in a program of education in which such veteran has "already qualified," a veteran shall be allowed up to six months of educational assistance (or the equivalent thereof in part-time assistance) for the pursuit of refresher training to permit such veteran to update such veteran's knowledge and skills and to be instructed in the technological advances which have occurred in such veteran's field of employment during and since the period of such veteran's active military service.
 
 (2) A veteran pursuing refresher training under this subsection shall be paid an educational assistance allowance based upon the rate prescribed in the table in subsection (a)(1) or in subsection (c)(2) of this section, whichever is applicable.
 
@@ -66,11 +66,11 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1682; amended Pub. L. 90–77, title III, §§301, 303(b), Aug. 31, 1967, 81 Stat. 184, 185; Pub. L. 90–631, §3, Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title I, §103(a)–(d), title II, §204(a)(3), Mar. 26, 1970, 84 Stat. 76, 77, 79; Pub. L. 91–584, §9, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 92–540, title I, §102(2)–(4), title III, §303, title IV, §401(4), (5), Oct. 24, 1972, 86 Stat. 1075, 1081, 1090; Pub. L. 93–508, title I, §102(2)–(4), title II, §204, Dec. 3, 1974, 88 Stat. 1579, 1582; Pub. L. 93–602, title II, §203(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(1)–(3), 207, Oct. 15, 1976, 90 Stat. 2384, 2385, 2387; Pub. L. 95–202, title I, §102(2)–(4), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§201(2)–(4), 211(2)–(4), title III, §§308–310, title VI, §602(a), Oct. 17, 1980, 94 Stat. 2187–2190, 2194, 2208; Pub. L. 97–35, title XX, §2003(b)(5), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–306, title II, §§204, 205(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–160, title VII, §702(11), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 98–543, title II, §202(1)–(3), Oct. 24, 1984, 98 Stat. 2741; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3482 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §104(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(3), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 109–461, title X, §1002(d), Dec. 22, 2006, 120 Stat. 3465.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1682; amended Pub. L. 90–77, title III, §§301, 303(b), Aug. 31, 1967, 81 Stat. 184, 185; Pub. L. 90–631, §3, Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title I, §103(a)–(d), title II, §204(a)(3), Mar. 26, 1970, 84 Stat. 76, 77, 79; Pub. L. 91–584, §9, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 92–540, title I, §102(2)–(4), title III, §303, title IV, §401(4), (5), Oct. 24, 1972, 86 Stat. 1075, 1081, 1090; Pub. L. 93–508, title I, §102(2)–(4), title II, §204, Dec. 3, 1974, 88 Stat. 1579, 1582; Pub. L. 93–602, title II, §203(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(1)–(3), 207, Oct. 15, 1976, 90 Stat. 2384, 2385, 2387; Pub. L. 95–202, title I, §102(2)–(4),Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§201(2)–(4), 211(2)–(4), title III, §§308–310, title VI, §602(a), Oct. 17, 1980, 94 Stat. 2187–2190, 2194, 2208; Pub. L. 97–35, title XX, §2003(b)(5), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–306, title II, §§204, 205(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–160, title VII, §702(11), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 98–543, title II, §202(1)–(3), Oct. 24, 1984, 98 Stat. 2741; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3482 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §104(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(3), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 109–461, title X, §1002(d), Dec. 22, 2006, 120 Stat. 3465.)
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, whichwas classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a), (b)(2), (c)(1), and (c)(2) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, 1180, which was classified to former sections 1632(a) and (b), (f), (e), and 1611(c) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Pub. L. 96–466, title VIII, §802(b), Oct. 17, 1980, 94 Stat. 2218, provided t
 
 Amendment by sections 308 to 310 of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
-Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except asotherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by section 602(a) of Pub. L. 96–466 \[amending this section\] effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1977 Amendment
 

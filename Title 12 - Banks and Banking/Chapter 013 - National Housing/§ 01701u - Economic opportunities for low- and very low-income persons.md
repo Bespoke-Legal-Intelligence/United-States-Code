@@ -32,7 +32,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;&emsp;(ii) To residents of other developments managed by the public or Indian housing agency that is expending the assistance.
 
-&emsp;&emsp;&emsp;(iii) To participants in YouthBuild programs receiving assistance under section 2918a of title 29.
+&emsp;&emsp;&emsp;(iii) To participants in YouthBuild programs receiving assistance under section 3226 of title 29.
 
 &emsp;&emsp;&emsp;(iv) To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
 
@@ -44,7 +44,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under section 2918a of title 29.
+&emsp;&emsp;Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under section 3226 of title 29.
 
 #### (d) Contracting
 
@@ -62,7 +62,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 &emsp;&emsp;&emsp;(ii) To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
 
-&emsp;&emsp;&emsp;(iii) To YouthBuild programs receiving assistance under section 2918a of title 29.
+&emsp;&emsp;&emsp;(iii) To YouthBuild programs receiving assistance under section 3226 of title 29.
 
 &emsp;&emsp;&emsp;(iv) To business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is provided.
 
@@ -74,7 +74,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under section 2918a of title 29.
+&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under section 3226 of title 29.
 
 #### (e) Definitions
 
@@ -103,24 +103,6 @@ The Secretary shall consult with the Secretary of Labor, the Secretary of Health
 Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
 (Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181; Pub. L. 113–128, title V, §512(p), July 22, 2014, 128 Stat. 1711.)
-
-#### Amendment of Section
-
-<i>Pub. L. 113–128, title V, §§506, 512(p), July 22, 2014, 128 Stat. 1703, 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:</i>
-
-<i>(1) in subsection (c):</i>
-
-<i>(A) in paragraph (1)(B)(iii), by striking "participants in YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "participants in YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
-
-<i>(B) in paragraph (2)(B), by striking "participants in YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "participants in YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
-
-<i>(2) in subsection (d):</i>
-
-<i>(A) in paragraph (1)(B)(iii), by striking "To YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "To YouthBuild programs receiving assistance under section 3226 of title 29"; and</i>
-
-<i>(B) in paragraph (2)(B), by striking "to YouthBuild programs receiving assistance under section 2918a of title 29" and inserting "to YouthBuild programs receiving assistance under section 3226 of title 29".</i>
-
-<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -160,11 +142,11 @@ Par. (2). Pub. L. 96–399, §329(2), substituted "residing in the same metropol
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: "This section \[enacting section 2918a ofTitle 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
+Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: "This section \[enacting former section 2918a of Title 29, Labor, amending this section, section 4183 of Title 25, Indians, former section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
 
 &emsp;"(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
 

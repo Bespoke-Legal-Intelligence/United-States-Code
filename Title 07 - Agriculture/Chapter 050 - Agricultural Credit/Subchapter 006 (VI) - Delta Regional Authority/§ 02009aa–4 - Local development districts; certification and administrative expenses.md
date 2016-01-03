@@ -48,7 +48,7 @@ In this section, the term "local development district" means an entity that—
 
 #### (B) Maximum period
 
-&emsp;&emsp;No grant described in paragraph (1) shall be awarded to a State agency certified as alocal development district for a period greater than 3 years.
+&emsp;&emsp;No grant described in paragraph (1) shall be awarded to a State agency certified as a local development district for a period greater than 3 years.
 
 #### (C) Local share
 

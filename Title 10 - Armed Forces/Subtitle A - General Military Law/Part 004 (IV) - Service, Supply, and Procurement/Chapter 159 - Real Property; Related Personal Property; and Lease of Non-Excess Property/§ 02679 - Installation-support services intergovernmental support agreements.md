@@ -2,13 +2,13 @@
 
 (a)
 
-In General.—(1) Notwithstanding any other provision of law governing the award of Federal government <sup>1</sup> contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement with,<sup>2</sup> on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
+In General.—(1) Notwithstanding any other provision of law governing the award of Federal government <sup>1</sup> contracts for goods and services, the Secretary concerned may enter into an intergovernmental support agreement, on a sole source basis, with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
 
 (2) An intergovernmental support agreement under paragraph (1)—
 
 &emsp;(A) may be for a term not to exceed five years; and
 
-&emsp;(B) may use, for installation-support services provided by a State or local government,wage grades normally paid by that State or local government.
+&emsp;(B) may use, for installation-support services provided by a State or local government, wage grades normally paid by that State or local government.
 
 (3) An intergovernmental support agreement under paragraph (1) may only be used when the Secretary concerned or the State or local government, as the case may be, providing the installation-support services already provides such services for its own use.
 
@@ -16,7 +16,7 @@ In General.—(1) Notwithstanding any other provision of law governing the award
 
 (b)
 
-Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protection services or other similar first responder agreements or arrangements.
+Effect on First Responder Arrangements.—The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protectionservices or other similar first responder agreements or arrangements.
 
 (c)
 
@@ -38,7 +38,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "intergovernmental support agreement" means a legal instrument reflecting a relationship between the Secretary concerned and a State or local government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
-(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346.)
+(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, §1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001.)
 
 #### Prior Provisions
 
@@ -46,17 +46,23 @@ A prior section 2679, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–92, §1081(a)(9), struck out "with" before ", on a sole source".
+
+Subsec. (a)(4). Pub. L. 114–92, §1081(b)(1), amended directory language of Pub. L. 113–291, §351(b)(1)(C). See 2014 Amendment note below.
+
 <b>2014</b>—Pub. L. 113–291, §351(a), renumbered section 2336 of this title as this section and substituted "Installation-support services: intergovernmental support agreement" for "Intergovernmental support agreements with State and local governments" in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–291, §351(b)(1)(A), substituted "Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned" for "The Secretary concerned" and ", on a sole source basis, with a State or local" for "a State or local".
 
 Subsec. (a)(2). Pub. L. 113–291, §351(b)(1)(B), substituted "An" for "Notwithstanding any other provision of law, an" in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "may be entered into on a sole-source basis;".
 
-Subsec. (a)(4). Pub. L. 113–291, §351(b)(1)(C), added par. (4).
+Subsec. (a)(4). Pub. L. 113–291, §351(b)(1)(C), as amended by Pub. L. 114–92, §1081(b)(1), added par. (4).
 
 Subsec. (e)(4). Pub. L. 113–291, §351(b)(2), added par. (4).
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+#### Effective Date of 2015 Amendment
 
-<i><sup>2</sup></i><i> So in original.</i>
+Pub. L. 114–92, div. A, title X, §1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -12,13 +12,13 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 #### (1) In general
 
-&emsp;If, for any taxable year ending after the date of the enactment of the Food, Conservation, and Energy Act of 2008 and beginning on or before the date which is 1 year after such date, a corporation has both a net capital gain and qualified timber gain—
+&emsp;If, for any taxable year beginning in 2016, a corporation has both a net capital gain and qualified timber gain—
 
 &emsp;&emsp;(A) subsection (a) shall apply to such corporation for the taxable year without regard to whether the applicable tax rate exceeds 35 percent, and
 
 &emsp;&emsp;(B) the tax computed under subsection (a)(2) shall be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) 15 percent of the least of—
+&emsp;&emsp;&emsp;(i) 23.8 percent of the least of—
 
 &emsp;&emsp;&emsp;&emsp;(I) qualified timber gain,
 
@@ -36,15 +36,7 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;(B) the sum of the taxpayer's losses described in such subsections for such year.
 
-> &emsp;For purposes of subparagraphs (A) and (B), only timber held more than 15 years shall be taken into account.
-
-#### (3) Computation for taxable years in which rate first applies or ends
-
-&emsp;In the case of any taxable year which includes either of the dates set forth in paragraph (1), the qualified timber gain for such year shall not exceed the qualified timber gain properly taken into account for—
-
-&emsp;&emsp;(A) in the case of the taxable year including the date of the enactment of the Food, Conservation, and Energy Act of 2008, the portion of the year after such date, and
-
-&emsp;&emsp;(B) in the case of the taxable year including the date which is 1 year after such date of enactment, the portion of the year on or before such later date.
+&emsp;For purposes of subparagraphs (A) and (B), only timber held more than 15 years shall be taken into account.
 
 #### (c) Cross references
 
@@ -56,17 +48,15 @@ If for any taxable year a corporation has a net capital gain and any rate of tax
 
 &emsp;&emsp;&emsp;<b>(3) in the case of real estate investment trusts, see section 857(b)(3)(A).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264.)
-
-#### References in Text
-
-The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(1), (3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+(Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, §5(7), 70 Stat. 49; Pub. L. 86–69, §3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, §8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, §511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, §1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, §104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, §211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, §311(a), title X, §1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, §1003(c)(1), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, §13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, §314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, §15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, §4(a), title XV, §15311(a), June 18, 2008, 122 Stat. 1664, 2264; Pub. L. 114–113, div. Q, title III, §334(a), Dec. 18, 2015, 129 Stat. 3108.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–113 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to special rate for qualified timber gains applicable during any taxable year ending after June 18, 2008, and beginning on or before one year after that date.
 
 <b>2008</b>—Subsecs. (b), (c). Pub. L. 110–246 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -122,7 +112,7 @@ Subsec. (c). Pub. L. 95–600, §§401(a)(1), 403(b), added subsec. (c). Former 
 
 Subsec. (d). Pub. L. 95–600, §401(a)(2), redesignated subsec. (d) as (b).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(135)(A), substituted "net capital gain" for "net section 1201 gain" in three places, incorporated existing text in provisions designated par. (1), struck out prior par. (1) provision adding to the tax in the case of a taxable year beginning before Jan. 1, 1975—
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(135)(A), substituted "net capital gain" for "net section 1201 gain"in three places, incorporated existing text in provisions designated par. (1), struck out prior par. (1) provision adding to the tax in the case of a taxable year beginning before Jan. 1, 1975—
 
 &emsp;(A) a tax of 25 percent of the lesser of—
 
@@ -166,6 +156,10 @@ Subsec. (c). Pub. L. 86–69 added subsec. (c).
 
 <b>1956</b>—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 334(c) of Pub. L. 114–113, set out as a note under section 55 of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -194,7 +188,7 @@ Amendment by section 2004(l) of Pub. L. 100–647 effective, except as otherwise
 
 Pub. L. 99–514, title III, §311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 593, 631, 852, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986."
 
-Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by section 1024 of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 

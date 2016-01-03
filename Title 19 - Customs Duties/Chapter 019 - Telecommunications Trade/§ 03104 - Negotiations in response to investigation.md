@@ -8,7 +8,7 @@ Upon—
 
 &emsp;(2) the date on which any foreign country is identified under section 3103(c)(1)(B) of this title as a priority foreign country,
 
-> the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) of this section for such priority foreign country.
+> the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) for such priority foreign country.
 
 #### (b) Establishment of specific negotiating objectives for each foreign priority country
 
@@ -74,7 +74,7 @@ The specific negotiating objectives of the United States under this section rega
 
 #### References in Text
 
-Chapter 17 of this title, referred to in subsec. (a), was in the original "part 1 of subtitle A", meaning part 1 (§§1101–1117) of subtitle A of title I of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
+Chapter 17 of this title, referred to in subsec. (a), was in the original "part 1 of subtitle A", meaning part 1 (§§1101–1117) of subtitle A of title I of Pub. L. 100–418,Aug. 23, 1988, 102 Stat. 1121, which enacted chapter 17 (§2901 et seq.) of this title and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
 
 #### Delegation of Functions
 

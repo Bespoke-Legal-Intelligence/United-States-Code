@@ -66,7 +66,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (2) Project requirements
 
-&emsp;In carrying out a covered project, the Secretary shall fully maintain, or contribute toward the restoration of, the structure and composition of old growth stands according to the pre-fire suppression old growth conditionscharacteristic of the forest type, taking into account the contribution of the stand to landscape fire adaptation and watershed health, and retaining the large trees contributing to old growth structure.
+&emsp;In carrying out a covered project, the Secretary shall fully maintain, or contribute toward the restoration of, the structure and composition of old growth stands according to the pre-fire suppression old growth conditions characteristic of the forest type, taking into account the contribution of the stand to landscape fire adaptation and watershed health, and retaining the large trees contributing to old growth structure.
 
 #### (3) Newer management direction
 

@@ -4,7 +4,7 @@
 
 A trustee shall be vested with the same powers and title with respect to the debtor and the property of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
 
-&emsp;(1) hire and fix the compensation of all personnel (including officers and employees of the debtor and of its examining authority) and other persons (including accountants) that are deemed by the trustee necessary for all or any purposes of the liquidation proceeding;
+&emsp;(1) hire and fix the compensation of all personnel (including officers and employees of the debtor and of its examining authority) and other persons (including accountants) that aredeemed by the trustee necessary for all or any purposes of the liquidation proceeding;
 
 &emsp;(2) utilize SIPC employees for all or any purposes of a liquidation proceeding; and
 
@@ -20,7 +20,7 @@ To the extent consistent with the provisions of this chapter or as otherwise ord
 
 #### (c) Reports by trustee to court
 
-The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports informationwith respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements of section 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
+The trustee shall make to the court and to SIPC such written reports as may be required of a trustee in a case under chapter 7 of title 11, and shall include in such reports information with respect to the progress made in distributing cash and securities to customers. Such reports shall be in such form and detail as the Commission determines by rule to present fairly the results of the liquidation proceeding as of the date of or for the period covered by such reports, having due regard for the requirements of section 78q of this title and the rules prescribed under such section and the magnitude of items and transactions involved in connection with the operations of a broker or dealer.
 
 #### (d) Investigations
 

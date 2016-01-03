@@ -19,11 +19,16 @@
 
 |  |  |
 | :--- | ---: |
-| [24711\.](%C2%A7%2024711%20-%20Alternate%20passenger%20rail%20service%20pilot%20program.md) | Alternate passenger rail service pilot program. |
+| [24711\.](%C2%A7%2024711%20-%20Competitive%20passenger%20rail%20service%20pilot%20program.md) | Competitive passenger rail service pilot program. |
+| [24712\.](%C2%A7%2024712%20-%20State-supported%20routes%20operated%20by%20Amtrak.md) | State-supported routes operated by Amtrak. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. A, title XI, §11307(b), Dec. 4, 2015, 129 Stat. 1664, which directed the general amendment of the analysis for section 24711 of title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 24711 read as follows: "Alternate passenger rail service pilot program".
+
+Pub. L. 114–94, div. A, title XI, §11204(b)(1), Dec. 4, 2015, 129 Stat. 1637, added item 24712.
 
 <b>2008</b>—Pub. L. 110–432, div. B, title II, §§201(b)(2), 210(b), 214(c), Oct. 16, 2008, 122 Stat. 4910, 4920, 4929, added items 24702, 24710, and 24711.
 
@@ -45,4 +50,5 @@
 - [&sect; 24707, 24708 - Repealed. Pub. L. 105&#8211;134, title I, &sect;101(d), (e), Dec. 2, 1997, 111 Stat. 2572](%C2%A7%2024707%2C%2024708%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93134%2C%20title%20I%2C%20%C2%A7101%28d%29%2C%20%28e%29%2C%20Dec.%202%2C%201997%2C%20111%20Stat.%202572.md)
 - [&sect; 24709 - International transportation](%C2%A7%2024709%20-%20International%20transportation.md)
 - [&sect; 24710 - Long-distance routes](%C2%A7%2024710%20-%20Long-distance%20routes.md)
-- [&sect; 24711 - Alternate passenger rail service pilot program](%C2%A7%2024711%20-%20Alternate%20passenger%20rail%20service%20pilot%20program.md)
+- [&sect; 24711 - Competitive passenger rail service pilot program](%C2%A7%2024711%20-%20Competitive%20passenger%20rail%20service%20pilot%20program.md)
+- [&sect; 24712 - State-supported routes operated by Amtrak](%C2%A7%2024712%20-%20State-supported%20routes%20operated%20by%20Amtrak.md)

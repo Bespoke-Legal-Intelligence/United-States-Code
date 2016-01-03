@@ -26,7 +26,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 &emsp;&emsp;(B) Pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus line insurers, brokers, or policyholders under the laws of the State.
 
-&emsp;&emsp;(C) Participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers ofpollution liability insurance losses and expenses incurred on policies written through such mechanism.
+&emsp;&emsp;(C) Participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of pollution liability insurance losses and expenses incurred on policies written through such mechanism.
 
 &emsp;&emsp;(D) Submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to pollution liability insurance losses and expenses.
 

@@ -12,7 +12,7 @@ Milestones.—The Administrator shall manage human space flight programs to stri
 
 &emsp;(2) Launching the Crew Exploration Vehicle as close to 2010 as possible.
 
-&emsp;(3) Increasing knowledge of the impacts of long duration stays in space on the human body using the most appropriate facilities available, including the International Space Station.
+&emsp;(3) Increasing knowledge of the impacts of long duration stays in space on the human body using the most appropriate facilitiesavailable, including the International Space Station.
 
 &emsp;(4) Enabling humans to land on and return from Mars and other destinations on a timetable that is technically and fiscally possible.
 

@@ -12,7 +12,7 @@
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–277, §1422(b)(3)(B), as amended by Pub. L. 106–113, substituted "Administrator of the Agency for International Development" for "Director of the United States International Development Cooperation Agency".
 
-Pub. L. 105–277, §1335(l)(3), substituted "Broadcasting Board of Governors," for "Director of the United States Information Agency, the chairman of the Board for International Broadcasting," and "with respect to the Board and the Agency" for "with respect to their respective agencies".
+Pub. L. 105–277, §1335(l)(3), substituted "Broadcasting Board of Governors," for "Director of the United StatesInformation Agency, the chairman of the Board for International Broadcasting," and "with respect to the Board and the Agency" for "with respect to their respective agencies".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–246 substituted "United States Information Agency, the chairman of the Board for International Broadcasting," for "International Communication Agency".
 

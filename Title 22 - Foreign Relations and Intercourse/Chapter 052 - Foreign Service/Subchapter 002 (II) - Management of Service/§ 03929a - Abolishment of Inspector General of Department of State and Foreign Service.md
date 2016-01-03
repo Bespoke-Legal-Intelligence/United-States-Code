@@ -6,7 +6,7 @@ Notwithstanding section 3929 of this title, the Inspector General of the Departm
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, and notas part of the Foreign Service Act of 1980 which comprises this chapter.
 
 Another subsec. (c) of section 413 of Pub. L. 99–399 is classified to section 4861(c) of this title.
 

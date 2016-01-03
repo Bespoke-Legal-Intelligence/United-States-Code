@@ -22,15 +22,15 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### (1) Violation of this chapter treated as violation of other Acts
 
-&emsp;For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency's powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+&emsp;For purposes of the exercise by any agency referred to in subsection (a) of such agency's powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\].
+&emsp;In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\].
 
 #### (c) Enforcement and reimbursement
 
-In carrying out its enforcement activities under this section, each agency referred to in subsection (a) of this section shall—
+In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—
 
 &emsp;(1) notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
 
@@ -42,7 +42,7 @@ In carrying out its enforcement activities under this section, each agency refer
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L.111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 

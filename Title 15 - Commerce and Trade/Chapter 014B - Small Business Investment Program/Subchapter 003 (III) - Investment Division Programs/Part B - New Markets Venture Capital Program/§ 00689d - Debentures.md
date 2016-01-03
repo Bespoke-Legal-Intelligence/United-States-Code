@@ -20,7 +20,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (2) Treatment of certain Federal funds
 
-&emsp;For the purposes of paragraph (1), private capital shall include capital that is consideredto be Federal funds, if such capital is contributed by an investor other than an agency or department of the Federal Government.
+&emsp;For the purposes of paragraph (1), private capital shall include capital that is considered to be Federal funds, if such capital is contributed by an investor other than an agency or department of the Federal Government.
 
 #### (e) Investment limitations
 

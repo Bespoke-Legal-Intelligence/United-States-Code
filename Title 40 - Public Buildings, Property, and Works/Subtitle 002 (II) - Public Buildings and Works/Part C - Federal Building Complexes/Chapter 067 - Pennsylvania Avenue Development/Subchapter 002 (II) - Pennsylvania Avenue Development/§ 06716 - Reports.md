@@ -2,7 +2,7 @@
 
 (a)
 
-Reports to President and Congress.—The Administrator of General Services shall transmit comprehensive and detailed reports of the Administrator's operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
+Reports to President and Congress.—The Administrator of General Services shalltransmit comprehensive and detailed reports of the Administrator's operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
 
 (b)
 

@@ -28,11 +28,11 @@
 
 &emsp;&emsp;(G) any combination of the purposes specified in subparagraphs (A), (B), (C), (D), (E), and (F),
 
-> &emsp;and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b) of this section.
+> &emsp;and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b).
 
 &emsp;(7) The term "standards development activity" means any action taken by a standards development organization for the purpose of developing, promulgating, revising, amending, reissuing, interpreting, or otherwise maintaining a voluntary consensus standard, or using such standard in conformity assessment activities, including actions relating to the intellectual property policies of the standards development organization.
 
-&emsp;(8) The term "standards development organization" means a domestic or international organization that plans, develops, establishes, or coordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term "standards development organization" shall not, for purposes of this chapter, include the parties participating in the standards development organization.
+&emsp;(8) The term "standards development organization" means a domestic or international organization that plans, develops, establishes, orcoordinates voluntary consensus standards using procedures that incorporate the attributes of openness, balance of interests, due process, an appeals process, and consensus in a manner consistent with the Office of Management and Budget Circular Number A–119, as revised February 10, 1998. The term "standards development organization" shall not, for purposes of this chapter, include the parties participating in the standards development organization.
 
 &emsp;(9) The term "technical standard" has the meaning given such term in section 12(d)(4) <sup>1</sup> of the National Technology Transfer and Advancement Act of 1995.
 
@@ -40,7 +40,7 @@
 
 (b) The term "joint venture" excludes the following activities involving two or more persons:
 
-&emsp;(1) exchanging information among competitors relating to costs, sales, profitability, prices, marketing, or distribution of any product, process, or service if such information isnot reasonably required to carry out the purpose of such venture,
+&emsp;(1) exchanging information among competitors relating to costs, sales, profitability, prices, marketing, or distribution of any product, process, or service if such information is not reasonably required to carry out the purpose of such venture,
 
 &emsp;(2) entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the marketing, distribution, or provision by any person who is a party to such venture of any product, process, or service, other than—
 
@@ -110,7 +110,7 @@ Pub. L. 103–42, §1, June 10, 1993, 107 Stat. 117, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 98–462, §1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat.117, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Cooperative Research and Production Act of 1993'."
+Pub. L. 98–462, §1, Oct. 11, 1984, 98 Stat. 1815, as amended by Pub. L. 103–42, §3(a), June 10, 1993, 107 Stat. 117, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Cooperative Research and Production Act of 1993'."
 
 #### Construction of 2004 Amendment
 

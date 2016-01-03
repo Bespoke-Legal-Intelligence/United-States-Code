@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized to prohibit or restrict the importati
 
 #### (b) Regulations
 
-The Secretary of Agriculture and the Secretary of the Treasury are each authorized to prescribe such regulations as the respective Secretary determines necessary to carry out this section.
+The Secretary of Agriculture and the Secretary of the Treasury are each authorized toprescribe such regulations as the respective Secretary determines necessary to carry out this section.
 
 #### (c) Enforcement
 

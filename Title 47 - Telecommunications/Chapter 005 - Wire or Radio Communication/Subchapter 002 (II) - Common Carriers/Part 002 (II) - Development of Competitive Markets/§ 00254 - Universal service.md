@@ -100,7 +100,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;The Commission shall establish competitively neutral rules—
 
-&emsp;&emsp;(A) to enhance, to the extent technically feasible and economically reasonable, access to advanced telecommunications and information services for all public and nonprofit elementary and secondary school classrooms, health care providers, and libraries; and
+&emsp;&emsp;(A) to enhance, to the extent technically feasible and economically reasonable, accessto advanced telecommunications and information services for all public and nonprofit elementary and secondary school classrooms, health care providers, and libraries; and
 
 &emsp;&emsp;(B) to define the circumstances under which a telecommunications carrier may be required to connect its network to such public institutional telecommunications users.
 
@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in section 7801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -266,7 +266,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (D) Disabling during adult use
 
-&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authorityunder subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
 
 #### (E) Timing of implementation
 
@@ -296,7 +296,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (III) Waivers
 
-&emsp;&emsp;&emsp;&emsp;Any library subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A library, library board, or other authority with responsibility for administration of the library shall notify the Commission of the applicability of such subclause to the library. Such notice shall certify that the library in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the library is applying for funds under this subsection.
+&emsp;&emsp;&emsp;&emsp;Any library subject to subclause (II) that cannot come into compliance with subparagraphs (B) and (C) in such second year may seek a waiver of subclause (II)(bb) if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by such subclause. A library, library board, or other authority with responsibilityfor administration of the library shall notify the Commission of the applicability of such subclause to the library. Such notice shall certify that the library in question will be brought into compliance before the start of the third program year after the effective date of this subsection in which the library is applying for funds under this subsection.
 
 #### (F) Noncompliance
 
@@ -388,7 +388,7 @@ Nothing in this section shall affect the collection, distribution, or administra
 
 #### (k) Subsidy of competitive services prohibited
 
-A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definition of universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
+A telecommunications carrier may not use services that are not competitive to subsidize services that are subject to competition. The Commission, with respect to interstate services, and the States, with respect to intrastate services, shall establish any necessary cost allocation rules, accounting safeguards, and guidelines to ensure that services included in the definitionof universal service bear no more than a reasonable share of the joint and common costs of facilities used to provide those services.
 
 #### (l) Internet safety policy requirement for schools and libraries
 
@@ -428,7 +428,7 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104.)
+(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094; Pub. L. 110–385, title II, §215, Oct. 10, 2008, 122 Stat. 4104; Pub. L. 114–95, title IX, §9215(s), Dec. 10, 2015, 129 Stat. 2171.)
 
 #### References in Text
 
@@ -436,13 +436,15 @@ This chapter, referred to in subsec. (b)(7), was in the original "this Act", mea
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
-Section 8801 of title 20, referred to in subsec. (h)(5)(A)(iii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
-
 For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h)(5)(A)(iii). Pub. L. 114–95, §9215(s)(1), substituted "an elementary school or a secondary school as defined in section 7801 of title 20" for "an elementary or secondary school as defined in section 8801 of title 20".
+
+Subsec. (h)(7)(A). Pub. L. 114–95, §9215(s)(2), made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
 <b>2008</b>—Subsec. (h)(5)(B)(iii). Pub. L. 110–385 added cl. (iii).
 
@@ -461,6 +463,10 @@ Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1
 Subsec. (l). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (l).
 
 <b>1996</b>—Subsec. (h)(4). Pub. L. 104–208 substituted "library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act" for "library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 
@@ -515,6 +521,4 @@ Appellate Review.—Notwithstanding any other provision of law, an interlocutory
 #### Universal Service Fund Payment Schedule
 
 Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: "This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

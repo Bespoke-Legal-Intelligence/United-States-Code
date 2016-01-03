@@ -42,7 +42,7 @@ The Chairman of the Commission shall be appointed by the President, by and with 
 
 #### (e) Compensation; travel expenses, etc.
 
-(1) Members of the Commission shall each be entitled to receive the daily equivalent of theannual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Commission.
+(1) Members of the Commission shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Commission.
 
 (2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 

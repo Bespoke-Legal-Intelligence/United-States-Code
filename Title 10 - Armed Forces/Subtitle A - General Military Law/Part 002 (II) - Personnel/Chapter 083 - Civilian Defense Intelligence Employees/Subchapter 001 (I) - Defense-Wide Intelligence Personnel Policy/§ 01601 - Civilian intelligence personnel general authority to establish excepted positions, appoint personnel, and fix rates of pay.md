@@ -66,7 +66,7 @@ Independent Organization.—
 
 &emsp;"(1)
 
-In general.—Not later than 30 days after the date of the enactment of this Act, the Secretary ofDefense, the Director of the Office of Personnel Management, and the Director of National Intelligence shall jointly designate an independent organization to review the operation of the Defense Civilian Intelligence Personnel System, including—
+In general.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense, the Director of the Office of Personnel Management, and the Director of National Intelligence shall jointly designate an independent organization to review the operation of the Defense Civilian Intelligence Personnel System, including—
 
 &emsp;&emsp;"(A) its impact on career progression;
 

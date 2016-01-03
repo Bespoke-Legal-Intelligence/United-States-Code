@@ -12,7 +12,7 @@ The Board shall appoint the president of the Corporation, who shall be a member 
 
 #### (c) Conflict of interest
 
-No member of the Board may participate in any decision, action, or recommendation with respect to any matter which directly benefits such member or pertains specifically to any firm or organization with which such member is then associated or has been associated within a period of two years.
+No member of the Board may participate in any decision, action, or recommendation with respect to any matter which directly benefits such member or pertains specifically to any firmor organization with which such member is then associated or has been associated within a period of two years.
 
 #### (d) Compensation
 
@@ -36,5 +36,5 @@ The Corporation and its officers and employees shall be subject to the provision
 
 #### Reimbursement of Officers or Employees
 
-Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: "That no officer or employee of the Legal Services Corporation or a recipient program shall be reimbursed for membership in a private club,or be paid severance pay in excess of what would be paid a Federal employee for comparable service."
+Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: "That no officer or employee of the Legal Services Corporation or a recipient program shall be reimbursed for membership in a private club, or be paid severance pay in excess of what would be paid a Federal employee for comparable service."
 

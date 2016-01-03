@@ -28,7 +28,7 @@
 
 #### (B) Health care group
 
-&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the healthcare group under an arrangement structured so that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d) of this section.
+&emsp;&emsp;The term "health care group" means a group of physicians (as defined in subparagraph (A)) organized at least in part for the purpose of providing physicians' services under this subchapter. As the Secretary finds appropriate, a health care group may include a hospital and any other individual or entity furnishing items or services for which payment may be made under this subchapter that is affiliated with the health care group under an arrangement structured so that such individual or entity participates in a demonstration under this section and will share in any bonus earned under subsection (d) of this section.
 
 #### (b) Eligibility criteria
 
@@ -74,7 +74,7 @@
 
 #### (2) Incentive bonus
 
-&emsp;The Secretary shall pay to each participating health care group (subject to paragraph (4)) a bonus for each year under the demonstration equal to a portion of the medicare savings realized for such year relative to the performance target.
+&emsp;The Secretary shall pay to each participating health care group (subject to paragraph (4)) a bonus for each year under the demonstration equal to a portion of the medicaresavings realized for such year relative to the performance target.
 
 #### (3) Additional bonus for process and outcome improvements
 

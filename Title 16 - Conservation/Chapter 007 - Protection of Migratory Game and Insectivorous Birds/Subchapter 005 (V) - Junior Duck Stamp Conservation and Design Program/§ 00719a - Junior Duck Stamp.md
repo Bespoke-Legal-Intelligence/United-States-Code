@@ -6,23 +6,23 @@ As part of the Program, the Secretary may annually conduct a competition to—
 
 &emsp;(1) solicit the submission by students at elementary and secondary schools of designs relating to conservation of migratory birds; and
 
-&emsp;(2) select winning designs from among those submissions for use for licensing and marketing under subsection (b) of this section.
+&emsp;(2) select winning designs from among those submissions for use for licensing and marketing under subsection (b).
 
 #### (b) Licensing and marketing of design of Junior Duck Stamps
 
 As part of the Program, the Secretary may—
 
-&emsp;(1) license and market winning designs selected in competitions under subsection (a) of this section; and
+&emsp;(1) license and market winning designs selected in competitions under subsection (a); and
 
 &emsp;(2) license and market stamps bearing those designs, which shall be known as Junior Duck Stamps.
 
 #### (c) Use of proceeds
 
-Amounts received under subsection (b) of this section—
+Amounts received under subsection (b)—
 
 &emsp;(1) <sup>1</sup> shall be available to the Secretary until expended, without further appropriations, solely for—
 
-&emsp;&emsp;(A) awards, prizes, and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
+&emsp;&emsp;(A) awards, prizes, and scholarships to individuals who submit designs in competitions under subsection (a), that are—
 
 &emsp;&emsp;&emsp;(i) selected in such a competition as winning designs; or
 
@@ -38,7 +38,7 @@ Amounts received under subsection (b) of this section—
 
 &emsp;&emsp;&emsp;(ii) the event is intended to honor students for winning a State competition;
 
-&emsp;&emsp;(E) expenses for licensing and marketing under subsection (b) of this section;
+&emsp;&emsp;(E) expenses for licensing and marketing under subsection (b);
 
 &emsp;&emsp;(F) expenses for migratory bird reference materials or supplies awarded to schools that participate in the Program; and
 

@@ -58,7 +58,7 @@ In this chapter:
 
 #### (11) Transhipment
 
-&emsp;The term "transshipment" means the unloading of all or any of the fish on board a fishing vessel to another fishing vessel either at sea or in port.
+&emsp;The term "transshipment" means the unloading of all or any of the fish on board afishing vessel to another fishing vessel either at sea or in port.
 
 #### (12) WCPFC Convention; Western and Central Pacific Convention
 

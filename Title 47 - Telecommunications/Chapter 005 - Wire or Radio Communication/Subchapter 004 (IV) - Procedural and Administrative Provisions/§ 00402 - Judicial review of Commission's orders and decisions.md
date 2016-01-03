@@ -2,7 +2,7 @@
 
 #### (a) Procedure
 
-Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought asprovided by and in the manner prescribed in chapter 158 of title 28.
+Any proceeding to enjoin, set aside, annul, or suspend any order of the Commission under this chapter (except those appealable under subsection (b) of this section) shall be brought as provided by and in the manner prescribed in chapter 158 of title 28.
 
 #### (b) Right to appeal
 
@@ -34,7 +34,7 @@ Such appeal shall be taken by filing a notice of appeal with the court within th
 
 #### (d) Notice to interested parties; filing of record
 
-Upon the filing of any such notice of appeal the appellant shall, not later than five days after the filing of such notice, notify each person shown by the records of the Commission to be interested in said appeal of the filing and pendency of the same. The Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28.
+Upon the filing of any such notice of appeal the appellant shall, not later than five days after the filing of such notice, notify each person shown by the records of the Commission to be interested in said appeal of the filing and pendency of the same. The Commission shall filewith the court the record upon which the order complained of was entered, as provided in section 2112 of title 28.
 
 #### (e) Intervention
 

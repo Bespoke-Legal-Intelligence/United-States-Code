@@ -60,7 +60,7 @@ General rule.—If the beneficiary (other than a dependent child) is 62 years of
 
 &emsp;&emsp;&emsp;(ii)
 
-Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
+Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, atthe time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
 (b)
 
@@ -68,7 +68,7 @@ Insurable Interest Beneficiary.—
 
 &emsp;(1)
 
-Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) <sup>1</sup> of this title, the monthly annuity payable to the beneficiaryshall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with section 1452(c) of this title.
+Standard annuity.—In the case of a standard annuity provided to a beneficiary under section 1450(a)(4) <sup>1</sup> of this title, the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with section 1452(c) of this title.
 
 &emsp;(2)
 
@@ -246,7 +246,7 @@ Increases in annuities when retired pay increased.—Whenever retired pay is inc
 
 &emsp;&emsp;(B)
 
-Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at suchtime if the person were alive (and otherwise entitled to such pay).
+Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay).
 
 &emsp;&emsp;(C)
 
@@ -312,7 +312,7 @@ Subsec. (d)(2)(A). Pub. L. 108–375, §644(a)(4), substituted "Computation of a
 
 <b>2001</b>—Subsec. (c)(1)(A). Pub. L. 107–107, §642(b)(1), substituted "when he died determined as follows:" and cls. (i) to (iii) for "based upon his years of active service when he died."
 
-Subsec. (c)(1)(B)(i). Pub. L. 107–107, §642(b)(2), substituted "as determined under subparagraph (A)" for"if the member or former member had been entitled to that pay based upon his years of active service when he died".
+Subsec. (c)(1)(B)(i). Pub. L. 107–107, §642(b)(2), substituted "as determined under subparagraph (A)" for "if the member or former member had been entitled to that pay based upon his years of active service when he died".
 
 Subsec. (c)(3). Pub. L. 107–107, §642(c)(2), substituted "clause (ii) or (iii) of section 1448(d)(1)(A)" for "1448(d)(1)(B) or 1448(d)(1)(C)".
 
@@ -388,7 +388,7 @@ Subsec. (c). Pub. L. 96–402, §3(b), substituted in first sentence "this secti
 
 Subsec. (d). Pub. L. 96–402, §3(c), substituted reference to "subsection (a)(1)(B)" for "subsection (a)(2)".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted "The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—" for "If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to the widow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.", and added pars. (1) and (2), and substituted "For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work" for "For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work".
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §204(a), (b), substituted "The monthly annuity payable to a widow, widower, or dependent child who is entitled under section 1450(a) of this title to an annuity shall be—" for "If the widow or widower is under age 62 or there is a dependent child, the monthly annuity payable to thewidow, widower, or dependent child, under section 1450 of this title shall be equal to 55 percent of the base amount.", and added pars. (1) and (2), and substituted "For the purpose of the preceding sentence, a widow or widower shall not be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 to the extent that such benefit has been offset by deductions under section 403 of title 42 on account of work" for "For the purpose of the preceding sentence, a widow or widower shall be considered as entitled to a benefit under subchapter II of chapter 7 of title 42 even though that benefit has been offset by deductions under section 403 of title 42 on account of work".
 
 Subsec. (b). Pub. L. 95–397, §204(c), substituted "The monthly annuity payable under section 1450(a)(4) of this title shall be—" for "The monthly annuity payable under section 1450(a)(4) of this title shall be 55 percent of the retired or retainer pay of the person who elected to provide that annuity after the reduction in that retired or retainer pay in accordance with section 1452(c) of this title.", added pars. (1) and (2) and provision following par. (2) relating to the entitlement to retirement pay, and computation thereof, by a person who provided an annuity and who dies before becoming 60 years of age.
 

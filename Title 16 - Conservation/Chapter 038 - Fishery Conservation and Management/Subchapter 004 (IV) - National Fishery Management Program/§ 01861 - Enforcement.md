@@ -6,7 +6,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 #### (b) Powers of authorized officers
 
-(1) Any officer who is authorized (by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) of this section) to enforce the provisions of this chapter may—
+(1) Any officer who is authorized (by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a)) to enforce the provisions of this chapter may—
 
 &emsp;(A) with or without a warrant or other process—
 
@@ -30,7 +30,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 #### (c) Issuance of citations
 
-If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (d) Jurisdiction of courts
 
@@ -58,7 +58,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, as made applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
 
-&emsp;(F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a) of this section, or any similar agreement authorized by law.
+&emsp;(F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a), or any similar agreement authorized by law.
 
 (2) Any person found in an administrative or judicial proceeding to have violated this chapter or any other marine resource law enforced by the Secretary shall be liable for the cost incurred in the sale, storage, care, and maintenance of any fish or other property lawfully seized in connection with the violation.
 
@@ -66,7 +66,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (1) Enforcement agreements
 
-&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
+&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a), with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
 
 #### (2) Reimbursement
 
@@ -178,7 +178,7 @@ Pub. L. 104–297, §115(a)(1), which directed substitution of "Guam or any" for
 
 Subsec. (e)(1). Pub. L. 104–297, §115(b)(1), substituted "marine resource law" for "fishery resource law" in introductory provisions and in subpars. (A) and (B).
 
-Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or$20,000, whichever is the lesser amount," after "reward".
+Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount," after "reward".
 
 Subsec. (e)(1)(E). Pub. L. 104–297, §115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: "claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and".
 
@@ -194,7 +194,7 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–627 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Notwithstanding any other provision of law, after September 30, 1986, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, or forfeitures of property for violations of any provision of this chapter—
 
-&emsp;"(1) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter with respect to that fish or other property; and
+&emsp;"(1) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenanceof seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter with respect to that fish or other property; and
 
 &emsp;"(2) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter.
 

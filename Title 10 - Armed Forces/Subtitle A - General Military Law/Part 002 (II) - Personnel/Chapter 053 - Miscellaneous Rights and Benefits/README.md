@@ -77,7 +77,7 @@ Pub. L. 110–181, div. A, title VI, §671(b)(2), title XII, §1203(e)(2), Jan. 
 
 Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, made technical correction to Pub. L. 103–337, §531(g)(2). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title V, §531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div.A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted "Protected communications;" for "Communicating with a Member of Congress or Inspector General;" in item 1034.
+<b>1994</b>—Pub. L. 103–337, div. A, title V, §531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted "Protected communications;" for "Communicating with a Member of Congress or Inspector General;" in item 1034.
 
 Pub. L. 103–337, div. A, title V, §535(c)(2), title VI, §653(b), title X, §1070(a)(5)(B), (6)(B), title XVI, §1671(b)(9), Oct. 5, 1994, 108 Stat. 2763, 2795, 2855, 3013, struck out item 1033 "Compensation: Reserve on active duty accepting from any person", redesignated item 1058 "Dependents of members separated for dependent abuse: transitional compensation" as item 1059 and amended it generally, redesignated item 1058 "Military service of retired members with newly democratic nations: consent of Congress" as item 1060, and added item 1060a.
 
@@ -145,7 +145,7 @@ Protection of Rights of Conscience.—
 
 &emsp;"(1)
 
-Accommodation.—Unless it could have an adverse impact on military readiness, unit cohesion, and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
+Accommodation.—Unless it could have an adverse impact on military readiness, unit cohesion,and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
 
 &emsp;"(2)
 
@@ -167,7 +167,7 @@ Regulations.—The Secretary of Defense shall issue regulations implementing the
 
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
 
-Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: "A military chaplain who, asa matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so."
+Pub. L. 112–81, div. A, title V, §544, Dec. 31, 2011, 125 Stat. 1412, provided that: "A military chaplain who, as a matter of conscience or moral principle, does not wish to perform a marriage may not be required to do so."
 
 #### Prohibition on Infringing on the Individual Right to Lawfully Acquire, Possess, Own, Carry, and Otherwise Use Privately Owned Firearms, Ammunition, and Other Weapons
 

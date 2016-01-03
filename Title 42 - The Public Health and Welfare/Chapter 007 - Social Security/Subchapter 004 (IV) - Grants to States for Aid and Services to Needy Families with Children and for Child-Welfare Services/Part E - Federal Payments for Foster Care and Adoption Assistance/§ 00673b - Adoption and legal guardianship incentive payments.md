@@ -178,7 +178,7 @@ As used in this section:
 
 &emsp;The term "older child adoption and older foster child guardianship" means the final adoption, or the placement into foster child guardianship (as defined in paragraph (12)) of a child who has attained 14 years of age if—
 
-&emsp;&emsp;(A) at the time of the adoptive or foster child guardianship placement, the child was in foster care under the supervision of the State; or
+&emsp;&emsp;(A) at the time of the adoptive or foster child guardianship placement, the child wasin foster care under the supervision of the State; or
 
 &emsp;&emsp;(B) an adoption assistance agreement was in effect under section 673(a) of this title with respect to the child.
 
@@ -262,7 +262,7 @@ As used in this section:
 
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201—205, Sept. 29, 2014, 128 Stat. 1935—1939.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201–205, Sept. 29, 2014, 128 Stat. 1935–1939.)
 
 #### Amendments
 
@@ -344,7 +344,7 @@ Subsec. (g)(5). Pub. L. 110–351, §401(b)(3), substituted "means, with respect
 
 &emsp;"(A) with respect to fiscal year 2003, the number of older child adoptions in the State in fiscal year 2002; and
 
-&emsp;"(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and endswith the fiscal year preceding that subsequent fiscal year."
+&emsp;"(B) with respect to any subsequent fiscal year, the number of older child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 2002 and ends with the fiscal year preceding that subsequent fiscal year."
 
 Subsec. (g)(7), (8). Pub. L. 110–351, §401(e)(2), added pars. (7) and (8).
 
@@ -432,5 +432,5 @@ Pub. L. 108–145, §2, Dec. 2, 2003, 117 Stat. 1879, provided that: "The Congre
 
 &emsp;"(4) Between 1997 and 2002, adoptions increased by 64 percent, and adoptions of children with special needs increased by 63 percent; however, 542,000 children remain in foster care, and 126,000 are eligible for adoption.
 
-&emsp;"(5) Although substantial progress has been made to promote adoptions, attention should be focused on promoting adoption of older children. Recent datasuggest that half of the children waiting to be adopted are age 9 or older."
+&emsp;"(5) Although substantial progress has been made to promote adoptions, attention should be focused on promoting adoption of older children. Recent data suggest that half of the children waiting to be adopted are age 9 or older."
 

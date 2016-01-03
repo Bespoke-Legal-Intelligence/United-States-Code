@@ -48,7 +48,7 @@ The National Firearms Act, referred to in subsec. (e), is classified generally t
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(1). Pub. L. 112–239, §1089(1)(A), inserted "or apprehension under section 807(b) of title 10, United States Code (article 7(b) of the Uniform Code of Military Justice)" after "arrest".
+<b>2013</b>—Subsec. (c)(1). Pub. L. 112–239, §1089(1)(A), inserted "or apprehension under section 807(b) of title 10,United States Code (article 7(b) of the Uniform Code of Military Justice)" after "arrest".
 
 Subsec. (d). Pub. L. 112–239, §1089(1)(B), substituted "that identifies the employee as a police officer or law enforcement officer of the agency" for "as a law enforcement officer".
 

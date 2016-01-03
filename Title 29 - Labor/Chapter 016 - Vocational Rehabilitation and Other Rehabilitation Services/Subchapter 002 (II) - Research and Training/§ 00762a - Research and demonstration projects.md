@@ -12,7 +12,7 @@ No funds other than those appropriated pursuant to this subsection can be used f
 
 #### (c) Study on impact of vocational rehabilitation services; transmittal to Congress
 
-Within one year after the date appropriations are made under subsection (b) of this section for purposes of research and demonstration projects under subsection (a) of this section, the Secretary shall prepare and transmit to the Congress a study concerning the impact of vocational rehabilitation services provided under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] on recipients of disability payments under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\]. The study shall examine the relationship between the vocational rehabilitation services provided under the Rehabilitation Act of 1973 and the programs under sections 222 and 1615 of the Social Security Act \[42 U.S.C. 422, 1382d\], and shall include—
+Within one year after the date appropriations are made under subsection (b) for purposes of research and demonstration projects under subsection (a), the Secretary shall prepare and transmit to the Congress a study concerning the impact of vocational rehabilitation services provided under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\] on recipients of disability payments under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\]. The study shall examine the relationship between the vocational rehabilitation services provided under the Rehabilitation Act of 1973 and the programs under sections 222 and 1615 of the Social Security Act \[42 U.S.C. 422, 1382d\], and shall include—
 
 &emsp;(1) an analysis of the savings in disability benefit payments under titles II and XVI of the Social Security Act as a result of the provision of vocational rehabilitation services under the Rehabilitation Act of 1973;
 
@@ -26,7 +26,7 @@ Within one year after the date appropriations are made under subsection (b) of t
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

@@ -32,7 +32,7 @@
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 
-(c) Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(c) Each recipient of assistance under this chapter shall keep such records as the Instituteshall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (d) The Institute, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for purposes of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 
@@ -68,7 +68,7 @@ Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, provided tha
 
 "(a)
 
-In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the 'center') for training Federal,State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
+In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the 'center') for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
 
 "(b)
 

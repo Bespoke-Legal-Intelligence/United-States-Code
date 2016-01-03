@@ -10,7 +10,7 @@ No self-regulatory organization shall have any liability to any person for any a
 
 #### (c) Inspections
 
-The self-regulatory organization of which a member of SIPC is a member or in which it is a participant shall inspect or examine such member for compliance with applicable financial responsibility rules, except that—
+The self-regulatory organization of which a member of SIPC is a member or in which it is aparticipant shall inspect or examine such member for compliance with applicable financial responsibility rules, except that—
 
 &emsp;(1) if the self-regulatory organization is a registered clearing agency, the Commission may designate itself as responsible for the examination of such member for compliance with applicable financial responsibility rules; and
 

@@ -12,11 +12,15 @@
 | [50108\.](%C2%A7%2050108%20-%20Studies%20on%20cargo%20carriage%20and%20cargo%20containers.md) | Studies on cargo carriage and cargo containers. |
 | [50109\.](%C2%A7%2050109%20-%20Miscellaneous%20studies.md) | Miscellaneous studies. |
 | [50110\.](%C2%A7%2050110%20-%20Securing%20preference%20to%20vessels%20of%20the%20United%20States.md) | Securing preference to vessels of the United States. |
-| [50111\.](%C2%A7%2050111%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [50111\.](%C2%A7%2050111%20-%20Submission%20of%20annual%20MARAD%20authorization%20request.md) | Submission of annual MARAD authorization request. |
 | [50112\.](%C2%A7%2050112%20-%20National%20Maritime%20Enhancement%20Institutes.md) | National Maritime Enhancement Institutes. |
 | [50113\.](%C2%A7%2050113%20-%20Use%20and%20performance%20reports%20by%20operators%20of%20vessels.md) | Use and performance reports by operators of vessels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1074(c)(2), Nov. 25, 2015, 129 Stat. 997, substituted "Submission of annual MARAD authorization request" for "Reports to Congress" in item 50111.
 
 
 ---
@@ -33,6 +37,6 @@
 - [&sect; 50108 - Studies on cargo carriage and cargo containers](%C2%A7%2050108%20-%20Studies%20on%20cargo%20carriage%20and%20cargo%20containers.md)
 - [&sect; 50109 - Miscellaneous studies](%C2%A7%2050109%20-%20Miscellaneous%20studies.md)
 - [&sect; 50110 - Securing preference to vessels of the United States](%C2%A7%2050110%20-%20Securing%20preference%20to%20vessels%20of%20the%20United%20States.md)
-- [&sect; 50111 - Reports to Congress](%C2%A7%2050111%20-%20Reports%20to%20Congress.md)
+- [&sect; 50111 - Submission of annual MARAD authorization request](%C2%A7%2050111%20-%20Submission%20of%20annual%20MARAD%20authorization%20request.md)
 - [&sect; 50112 - National Maritime Enhancement Institutes](%C2%A7%2050112%20-%20National%20Maritime%20Enhancement%20Institutes.md)
 - [&sect; 50113 - Use and performance reports by operators of vessels](%C2%A7%2050113%20-%20Use%20and%20performance%20reports%20by%20operators%20of%20vessels.md)

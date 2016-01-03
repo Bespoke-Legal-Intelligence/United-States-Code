@@ -4,7 +4,7 @@ In carrying out its duties under this subchapter, the Board may—
 
 &emsp;(1) establish an Executive Committee, and such other committees as it deems desirable;
 
-&emsp;(2) establish such committees and advisory panels as it deems necessary to work with the various sectors of the Nation's economy and with Federal and State governmental agencies in the development and implementation of detailed conversion plans for those sectors. The Board may reimburse, to the extent authorized by law, the members of such committees;
+&emsp;(2) establish such committees and advisory panels as it deems necessary to work with thevarious sectors of the Nation's economy and with Federal and State governmental agencies in the development and implementation of detailed conversion plans for those sectors. The Board may reimburse, to the extent authorized by law, the members of such committees;
 
 &emsp;(3) conduct hearings at such times and places as it deems appropriate;
 

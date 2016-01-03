@@ -100,7 +100,7 @@
 
 &emsp;Under a PACE program agreement, a PACE provider shall—
 
-&emsp;&emsp;(A) provide to PACE program eligible individuals enrolled with the provider, regardless of source of payment and directly or under contracts with other entities, at a minimum—
+&emsp;&emsp;(A) provide to PACE program eligible individuals enrolled with the provider, regardless of source of payment and directly orunder contracts with other entities, at a minimum—
 
 &emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolled under this section) and all items and services covered under subchapter XIX of this chapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
 
@@ -128,7 +128,7 @@
 
 #### (B) Reference to related provision for noncontract providers of services
 
-&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providersfor services covered under this subchapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
+&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providers for services covered under this subchapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
 
 #### (4) Reference to related provision for services covered under subchapter XIX but not under this subchapter
 
@@ -160,7 +160,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meetsthe requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -190,7 +190,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mmof this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
+&emsp;In the case of a PACE provider with a PACE program agreement under this section, except as provided in this subsection or by regulations, the Secretary shall make prospective monthly payments of a capitation amount for each PACE program eligible individual enrolled under the agreement under this section in the same manner and from the same sources as payments are made to a Medicare+Choice organization under section 1395w–23 of this title (or, for periods beginning before January 1, 1999, to an eligible organization under a risk-sharing contract under section 1395mm of this title). Such payments shall be subject to adjustment in the manner described in section 1395w–23(a)(2) of this title or section 1395mm(a)(1)(E) of this title, as the case may be.
 
 #### (2) Capitation amount
 
@@ -372,7 +372,7 @@
 
 #### (C) Continuation of modifications or waivers of operational requirements under demonstration status
 
-&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and with the concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
+&emsp;&emsp;If a PACE program operating under demonstration authority has contractual or other operating arrangements which are not otherwise recognized in regulation and which were in effect on July 1, 2000, the Secretary (in close consultation with, and withthe concurrence of, the State administering agency) shall permit any such program to continue such arrangements so long as such arrangements are found by the Secretary and the State to be reasonably consistent with the objectives of the PACE program.
 
 #### (3) Application of certain additional beneficiary and program protections
 
@@ -440,7 +440,7 @@ Section 603(c) of the Social Security Amendments of 1983, referred to in subsec.
 
 Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(7)(A), is section 9220 of Pub. L. 99–272, title IX, Apr. 7, 1986, 100 Stat. 183, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
-Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
+Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX,Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
 For the effective date of this section, referred to in subsec. (a)(9)(B), see section 4803 of Pub. L. 105–33, set out below.
 
@@ -500,7 +500,7 @@ program.—The term 'PACE program' has the meaning given that term in sections 1
 
 &emsp;"(3) PACE
 
-provider.—The term 'PACE provider' has the meaning given that term in section 1894(a)(3)or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
+provider.—The term 'PACE provider' has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
 
 &emsp;"(4)
 
@@ -584,7 +584,7 @@ Cost Outlier Protection for Rural PACE Pilot Sites.—
 
 &emsp;"(1)
 
-Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
+Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred foreligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
 
 &emsp;"(2)
 
@@ -652,7 +652,7 @@ Appropriation.—
 
 &emsp;&emsp;"(A)
 
-In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriatedto the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
+In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
 
 &emsp;&emsp;"(B)
 
@@ -754,7 +754,7 @@ In general.—Subject to subparagraph (B), in the case of waivers granted with r
 
 &emsp;&emsp;"(B)
 
-State option to seek extension of current period.—A State may elect to maintain the PACEprograms which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs."
+State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act \[Aug. 5, 1997\]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs."
 
 #### PACE Programs; Study and Reports
 

@@ -136,7 +136,7 @@ Pub. L. 109–163, div. A, title IX, §931, Jan. 6, 2006, 119 Stat. 3411, provid
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audiencefor the purpose of addressing a specific intelligence requirement.
+&emsp;"(1) Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement.
 
 &emsp;"(2) With the Information Revolution, the amount, significance, and accessibility of open-source information has expanded significantly, but the intelligence community has not expanded its exploitation efforts and systems to produce open-source intelligence.
 
@@ -188,7 +188,7 @@ Matters to Be Included.—The strategy under subsection (b) shall include the fo
 
 &emsp;&emsp;"(B) into service intelligence organizations.
 
-&emsp;"(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systems of the Department of Defense, including military personnel systems.
+&emsp;"(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systemsof the Department of Defense, including military personnel systems.
 
 &emsp;"(9) A plan for the use of intelligence personnel of the reserve components to augment and support the open-source intelligence mission.
 

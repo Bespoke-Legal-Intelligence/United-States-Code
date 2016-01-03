@@ -22,7 +22,7 @@ For purposes of this section, the term "political organization" has the meaning 
 
 #### Effective Date
 
-Pub. L. 93–625, §13(b), Jan. 3, 1975, 88 Stat. 2121, provided that: "The amendments made by subsection (a) \[enacting this section\] shall apply to transfers made after May 7, 1974, in taxable years ending after such date."
+Pub. L. 93–625, §13(b), Jan. 3, 1975, 88 Stat. 2121, provided that: "The amendments made by subsection (a)\[enacting this section\] shall apply to transfers made after May 7, 1974, in taxable years ending after such date."
 
 #### Nonrecognition of Gain or Loss Where Organization Sold Contributed Property Before August 2, 1973
 

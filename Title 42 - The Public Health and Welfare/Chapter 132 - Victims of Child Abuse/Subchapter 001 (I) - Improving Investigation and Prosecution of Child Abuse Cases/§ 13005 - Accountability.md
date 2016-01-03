@@ -10,7 +10,7 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 #### (B) Audit
 
-&emsp;&emsp;The Inspector General of the Department of Justice shall conduct audits of recipients of grants under this subchapter to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;The Inspector General of the Department of Justice shall conduct audits of recipientsof grants under this subchapter to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Mandatory exclusion
 

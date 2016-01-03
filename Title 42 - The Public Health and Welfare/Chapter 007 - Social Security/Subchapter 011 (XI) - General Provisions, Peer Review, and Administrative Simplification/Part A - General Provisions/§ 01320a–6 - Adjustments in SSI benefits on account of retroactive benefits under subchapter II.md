@@ -12,7 +12,7 @@ Notwithstanding any other provision of this chapter, in any case where an indivi
 
 #### (b) "Supplemental security income benefits" defined
 
-For purposes of this section, the term "supplemental security income benefits" means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a)of this title or an administration agreement under section 212(b) of Public Law 93–66.
+For purposes of this section, the term "supplemental security income benefits" means benefits paid or payable by the Commissioner of Social Security under subchapter XVI of this chapter, including State supplementary payments under an agreement pursuant to section 1382e(a) of this title or an administration agreement under section 212(b) of Public Law 93–66.
 
 #### (c) Reimbursement of the State
 

@@ -2,7 +2,7 @@
 
 #### (a) Preparation by Secretary of Agriculture; time of preparation, updating and contents
 
-In recognition of the vital importance of America's renewable resources of the forest, range, and other associated lands to the Nation's social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture shall prepare a Renewable Resource Assessment (hereinafter called the "Assessment"). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
+In recognition of the vital importance of America's renewable resources of the forest, range, and other associated lands to the Nation's social and economic well-being, and of the necessity for a long term perspective in planning and undertaking related national renewable resource programs administered by the Forest Service, the Secretary of Agriculture shallprepare a Renewable Resource Assessment (hereinafter called the "Assessment"). The Assessment shall be prepared not later than December 31, 1975, and shall be updated during 1979 and each tenth year thereafter, and shall include but not be limited to—
 
 &emsp;(1) an analysis of present and anticipated uses, demand for, and supply of the renewable resources, with consideration of the international resource situation, and an emphasis of pertinent supply and demand and price relationship trends;
 
@@ -22,7 +22,7 @@ In recognition of the vital importance of America's renewable resources of the f
 
 The Secretary shall report in the 1979 and subsequent Assessments on:
 
-&emsp;(1) the additional fiber potential in the National Forest System including, but not restricted to, forest mortality, growth, salvagepotential, potential increased forest products sales, economic constraints, alternate markets, contract considerations, and other multiple use considerations;
+&emsp;(1) the additional fiber potential in the National Forest System including, but not restricted to, forest mortality, growth, salvage potential, potential increased forest products sales, economic constraints, alternate markets, contract considerations, and other multiple use considerations;
 
 &emsp;(2) the potential for increased utilization of forest and wood product wastes in the National Forest System and on other lands, and of urban wood wastes and wood product recycling, including recommendations to the Congress for actions which would lead to increased utilization of material now being wasted both in the forests and in manufactured products; and
 

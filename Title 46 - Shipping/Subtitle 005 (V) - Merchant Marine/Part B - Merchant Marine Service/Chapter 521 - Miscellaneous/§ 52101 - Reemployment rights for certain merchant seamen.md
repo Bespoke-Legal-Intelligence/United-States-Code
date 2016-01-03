@@ -16,7 +16,7 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 &emsp;&emsp;(A) was employed in the activation or operation of a vessel—
 
-&emsp;&emsp;&emsp;(i) in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
+&emsp;&emsp;&emsp;(i) in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744) <sup>1</sup> in a period in which the vessel was in use or being activated for use under subsection (b) of that section;
 
 &emsp;&emsp;&emsp;(ii) requisitioned or purchased under chapter 563 of this title; or
 
@@ -28,7 +28,7 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 (d)
 
-Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+Equivalence to Military Selective Service Act Certificate.—For purposes of reemployment rights and benefits provided by this section, a certification under subsection (c) shall be considered to be the equivalent of a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).<sup>1</sup>
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1585.)
 
@@ -51,4 +51,12 @@ June 29, 1936, ch. 858, title III, §302, as added Pub. L. 104–239, §10(a), O
 In subsection (c)(1)(B), the words "(as applicable)" are omitted as unnecessary.
 
 In subsection (d), the words "certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))" are substituted for "certificate referred to in paragraph (1) of section 4301(a) of title 38" because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+
+#### References in Text
+
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (c)(1)(A)(i), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4405 of Title 50.
+
+Section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)), referred to in subsec. (d), is section 9(a) of act June 24, 1948, ch. 625, 62 Stat. 614, which was classified to section 459(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 3808(a) of Title 50.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

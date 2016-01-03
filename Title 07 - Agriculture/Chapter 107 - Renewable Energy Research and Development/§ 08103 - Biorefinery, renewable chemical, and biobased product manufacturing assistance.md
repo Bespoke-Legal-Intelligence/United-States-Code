@@ -98,7 +98,7 @@ The Secretary shall make available to eligible entities guarantees for loans mad
 
 #### (C) Loan guarantee fund distribution
 
-&emsp;&emsp;Of the funds made available for loan guarantees for a fiscal year under subsection (g), 50 percent of the funds shall be reserved forobligation during the second half of the fiscal year.
+&emsp;&emsp;Of the funds made available for loan guarantees for a fiscal year under subsection (g), 50 percent of the funds shall be reserved for obligation during the second half of the fiscal year.
 
 #### (e) Consultation
 

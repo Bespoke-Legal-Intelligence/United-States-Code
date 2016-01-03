@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) identification of opportunities for public-private collaboration in using Internet-based technology to increase the efficiency of Government-to-business transactions;
 
-&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managers and other Government employees to develop and implement innovative uses of information technologies; and
+&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managersand other Government employees to develop and implement innovative uses of information technologies; and
 
 &emsp;&emsp;&emsp;(iv) identification of opportunities for public, private, and intergovernmental collaboration in addressing the disparities in access to the Internet and information technology.
 

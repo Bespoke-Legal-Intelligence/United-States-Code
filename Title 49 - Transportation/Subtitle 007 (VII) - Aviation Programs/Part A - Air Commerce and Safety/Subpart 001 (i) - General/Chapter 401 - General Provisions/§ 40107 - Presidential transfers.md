@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The President may transfer to the Administrator of the Federal Aviation Administration a duty, power, activity, or facility of a department, agency, or instrumentality of the executive branch of the United States Government, or an officer or unit of a department, agency, or instrumentality of the executive branch, related primarily to selecting, developing, testing, evaluating, establishing, operating, or maintaining a system, procedure, facility, or device for safe and efficient air navigation and air traffic control. In making a transfer, the President may transfer records and property and make officers and employees from the department, agency, instrumentality, or unit available to the Administrator.
+General Authority.—The President may transfer to the Administrator of the Federal Aviation Administration a duty, power, activity, or facility of a department, agency, or instrumentality of the executive branch of the United States Government, or an officer or unit of a department, agency, or instrumentality of the executive branch, related primarily to selecting, developing, testing, evaluating, establishing, operating, or maintaining a system, procedure, facility, or device for safe and efficient air navigation and air traffic control. In makinga transfer, the President may transfer records and property and make officers and employees from the department, agency, instrumentality, or unit available to the Administrator.
 
 (b)
 
@@ -76,7 +76,7 @@ Ex. Ord. No. 11047, Aug. 28, 1962, 27 F.R. 8665, as amended by Ex. Ord. No. 1260
 
 By the virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. The Secretary of Defense and the Administrator of the Federal Aviation Administration are hereby designated and empowered to exercise jointly, without the approval, ratification, or other action of the President, the authority vested in the President by the first sentence of section 304 of the Federal Aviation Act of 1958 (72 Stat. 749; 49 U.S.C. 1345 (first sentence)) \[see 49 U.S.C. 40107(a)\] to transfer functions (including, as used in this order, powers, duties, activities, facilities, and parts of functions) as described in that sentence to the extent that the said authority is in respect of transfers from the Department of Defense or any officer or organizational entity thereof to the Administrator of the Federal Aviation Administration of functions relating to flight inspection of air navigation facilities.
+Section 1. The Secretary of Defense and the Administrator of the Federal Aviation Administration are hereby designated and empowered to exercise jointly, without the approval, ratification, or other action of the President, the authority vested in the President by the first sentence of section 304 of the Federal Aviation Act of 1958 (72 Stat. 749; 49 U.S.C. 1345 (first sentence)) \[see 49 U.S.C. 40107(a)\] to transfer functions (including, as used in this order, powers, duties, activities, facilities, and parts of functions) as described in that sentence to the extent that the said authority is in respect of transfers from the Department of Defense or any officeror organizational entity thereof to the Administrator of the Federal Aviation Administration of functions relating to flight inspection of air navigation facilities.
 
 Sec. 2. The Administrator and the Secretary shall exercise the authority hereinabove delegated to them only as they shall deem such exercise to be necessary or desirable in the interest of promoting, in respect of either civil or military aviation or both, safe and efficient air navigation and air traffic control.
 
@@ -108,7 +108,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by Section 302(e) (72 St
 
 Section 1. The Secretary of Defense and the Secretary of Transportation are hereby directed to prepare and develop plans, procedures, policies, programs, and courses of action in anticipation of the probable transfer of the Federal Aviation Administration to the Department of Defense in the event of war. Those plans, policies, procedures, programs, and courses of action shall be prepared and developed in conformity with the following-described standards and conditions—
 
-(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense withthe Federal Aviation Administrator being responsible directly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
+(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense with the Federal Aviation Administrator being responsible directly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
 
 (B) To the extent deemed by the Secretary of Defense to be necessary for the accomplishment of the military mission, he will be empowered to direct the Administrator to place operational elements of the Federal Aviation Administration under the direct operational control of appropriate military commanders.
 

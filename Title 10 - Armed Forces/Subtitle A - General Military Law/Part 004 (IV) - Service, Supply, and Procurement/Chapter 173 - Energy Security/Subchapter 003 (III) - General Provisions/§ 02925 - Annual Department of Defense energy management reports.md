@@ -10,27 +10,25 @@ Annual Report Related to Installations Energy Management.—Not later than 120 d
 
 &emsp;(3) A table listing all energy projects financed through third party financing mechanisms (including energy savings performance contracts, enhanced use leases, utility energy service contracts, utility privatization agreements, and other contractual mechanisms), the duration of each such mechanism, an estimate of the financial obligation incurred through the duration of each such mechanism, whether the project incorporates energy security into its design, and the estimated payback period for each such mechanism.
 
-&emsp;(4) In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.
+&emsp;(4) A description of the actions taken to implement the energy performance master plan in effect under section 2911 of this title and carry out this chapter during the preceding fiscal year.
 
-&emsp;(5) A description of the actions taken to implement the energy performance master plan in effect under section 2911 of this title and carry out this chapter during the preceding fiscal year.
+&emsp;(5) A description of the energy savings realized from such actions.
 
-&emsp;(6) A description of the energy savings realized from such actions.
+&emsp;(6) A description of the types and amount of financial incentives received under section 2913 of this title during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
 
-&emsp;(7) An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.
+&emsp;(7) A description and estimate of the progress made by the military departments in meeting current high performance and sustainable building standards under the Unified Facilities Criteria.
 
-&emsp;(8) A description of the types and amount of financial incentives received under section 2913 of this title during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
+&emsp;(8) A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
 
-&emsp;(9) A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1612).
+&emsp;(9) Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.
 
-&emsp;(10) A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
+&emsp;(10) A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
 
-&emsp;(11) Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.
-
-&emsp;(12) A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
+&emsp;(11) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 (b)
 
-Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of theoperational energy strategy established pursuant to section 138c <sup>1</sup> of this title.
+Annual Report Related to Operational Energy.—(1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 138c <sup>1</sup> of this title.
 
 (2) The annual report under this subsection shall address and include the following:
 
@@ -54,17 +52,37 @@ Annual Report Related to Operational Energy.—(1) Simultaneous with the annual 
 
 (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, §313, Nov. 25, 2015, 129 Stat. 789.)
 
 #### References in Text
 
 The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, which enacted chapter 149 of Title 42, The Public Health and Welfare, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
 
-The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
+The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
 Section 138c of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–291, div. A, title IX, §901(g)(2), Dec. 19, 2014, 128 Stat. 3466. See now section 2926 of this title, enacted by Pub. L. 113–291, which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–92, §313(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates."
+
+Subsec. (a)(5), (6). Pub. L. 114–92, §313(2), redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
+
+Subsec. (a)(7). Pub. L. 114–92, §313(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1612)."
+
+Pub. L. 114–92, §313(1), (2), redesignated par. (9) as (7) and struck out former par. (7) which read as follows: "An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department."
+
+Subsec. (a)(8). Pub. L. 114–92, §313(2), redesignated par. (10) as (8). Former par. (8) redesignated (6).
+
+Subsec. (a)(9). Pub. L. 114–92, §313(4), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense."
+
+Pub. L. 114–92, §313(2) redesignated par. (11) as (9). Former par. (9) redesignated (7).
+
+Subsec. (a)(10). Pub. L. 114–92, §313(2), redesignated par. (12) as (10). Former par. (10) redesignated (8).
+
+Subsec. (a)(11). Pub. L. 114–92, §313(5) added par. (11). Former par. (11) redesignated (9).
+
+Subsec. (a)(12). Pub. L. 114–92, §313(2), redesignated par. (12) as (10).
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–291 substituted "Energy, Installations, and Environment" for "Operational Energy Plans and Programs".
 
@@ -74,7 +92,7 @@ Subsec. (b)(1). Pub. L. 112–239, §1076(c)(3)(A), (d)(6)(B), substituted "Assi
 
 Subsec. (b)(2)(G). Pub. L. 112–239, §1076(c)(3)(B), substituted "Assistant Secretary" for "Director" in two places.
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81, §2826, in introductory provisions, substituted "Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:" for "As part of the annual submission of the energy performance goals for the Department of Defense under section 2911 of this title, the Secretary of Defense shall submit a report containing the following:".
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §2826, in introductory provisions, substituted "Not later than 120 daysafter the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:" for "As part of the annual submission of the energy performance goals for the Department of Defense under section 2911 of this title, the Secretary of Defense shall submit a report containing the following:".
 
 Subsec. (a)(3). Pub. L. 112–81, §2822(d)(1), inserted "whether the project incorporates energy security into its design," after "through the duration of each such mechanism,".
 

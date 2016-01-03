@@ -136,7 +136,7 @@ Sale, lease, or donation.—Subject to disapproval by the Administrator within 3
 
 &emsp;(3)
 
-Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the useof the property by the entity receiving the property.
+Fixing value.—In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
 
 (h)
 

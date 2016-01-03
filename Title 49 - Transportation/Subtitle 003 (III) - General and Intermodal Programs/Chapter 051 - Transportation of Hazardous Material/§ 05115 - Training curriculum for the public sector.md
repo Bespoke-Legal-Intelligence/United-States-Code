@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
+In General.—In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses, including online curriculum as appropriate, necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
 
 (b)
 
@@ -36,7 +36,7 @@ Distribution and Publication.—With the National Response Team—
 
 &emsp;(2) the Secretary may publish and distribute a list of programs and courses maintained and updated under this section and of any programs utilizing such courses.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §§7113, 7126, Aug. 10, 2005, 119 Stat. 1899, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(a), July 6, 2012, 126 Stat. 832.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §§7113, 7126, Aug. 10, 2005, 119 Stat. 1899, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(a), July 6, 2012, 126 Stat. 832; Pub. L. 114–94, div. A, title VI, §6013, Dec. 4, 2015, 129 Stat. 1570.)
 
 Historical and Revision Notes
 
@@ -82,6 +82,8 @@ This amends 49:5115(b)(1)(C) to make a cross-reference more precise.
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a). Pub. L. 114–94 inserted ", including online curriculum as appropriate," after "a current curriculum of courses".
+
 <b>2012</b>—Subsecs. (b)(1)(B), (2), (c). Pub. L. 112–141 struck out "basic" after "recommended".
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: "Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams."
@@ -105,6 +107,10 @@ Pub. L. 109–59, §7113(d)(3), inserted "and distribute" after "publish" and su
 #### Change of Name
 
 "Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (a) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

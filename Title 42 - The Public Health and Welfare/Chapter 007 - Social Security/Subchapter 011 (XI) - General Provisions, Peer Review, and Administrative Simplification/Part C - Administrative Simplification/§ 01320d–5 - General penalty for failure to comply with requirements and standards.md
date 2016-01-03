@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) in the case of a violation of such provision in which it is established that the violation was due to willful neglect—
 
-&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penalty in an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
+&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penaltyin an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
 
 &emsp;&emsp;&emsp;(ii) if the violation is not corrected as described in such subsection, a penalty in an amount that is at least the amount described in paragraph (3)(D).
 

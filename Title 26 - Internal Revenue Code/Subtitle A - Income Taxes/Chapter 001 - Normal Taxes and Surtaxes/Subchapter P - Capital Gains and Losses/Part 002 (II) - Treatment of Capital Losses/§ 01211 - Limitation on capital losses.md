@@ -22,7 +22,7 @@ In the case of a taxpayer other than a corporation, losses from sales or exchang
 
 <b>1976</b>—Subsec. (b)(1)(B). Pub. L. 94–455, §1401(a), substituted "the applicable amount" for "$1,000".
 
-Subsec. (b)(2). Pub. L. 94–455, §1401(b), substituted provision relating to "applicable amount" for prior provision limiting amount of capital losses for married individuals and reading "In the case of a husband or wife who files a separate return, the amount specified in paragraph (1)(B) shall be $500 in lieu of $1,000."
+Subsec. (b)(2). Pub. L. 94–455, §1401(b), substituted provision relating to "applicable amount" for prior provision limiting amount of capital losses for married individuals and reading "In the case of a husband orwife who files a separate return, the amount specified in paragraph (1)(B) shall be $500 in lieu of $1,000."
 
 Subsec. (b)(3). Pub. L. 94–455, §501(b)(6), struck out last sentence "If the taxpayer elects to pay the optional tax imposed by section 3, 'taxable income' as used in this subsection shall read as 'adjusted gross income'."
 

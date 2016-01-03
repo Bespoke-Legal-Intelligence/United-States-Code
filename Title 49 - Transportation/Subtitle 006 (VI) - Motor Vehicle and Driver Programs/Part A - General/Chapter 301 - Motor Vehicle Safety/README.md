@@ -68,6 +68,7 @@
 | [30169\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030169%20-%20Annual%20reports.md) | Annual reports. |
 | [30170\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030170%20-%20Criminal%20Penalties.md) | Criminal penalties. |
 | [30171\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030171%20-%20Protection%20of%20employees%20providing%20motor%20vehicle%20safety%20information.md) | Protection of employees providing motor vehicle safety information. |
+| [30172\.](Subchapter%20004%20%28IV%29%20-%20Enforcement%20and%20Administrative/%C2%A7%2030172%20-%20Whistleblower%20incentives%20and%20protections.md) | Whistleblower incentives and protections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,6 +83,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–94, div. B, title XXIV, §24352(c), Dec. 4, 2015, 129 Stat. 1720, which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2012</b>—Pub. L. 112–141, div. C, title I, §§31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, 126 Stat. 758, 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted "Nonuse of safety belts" for "Buzzers indicating nonuse of safety belts" in item 30124 and "Service of process; conditions on importation of vehicles and equipment" for "Service of process" in item 30164, and struck out item 30168 "Research, testing, development, and training".
 

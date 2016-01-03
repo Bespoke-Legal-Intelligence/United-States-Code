@@ -24,7 +24,7 @@ If—
 
 &emsp;(2) the property received in the distribution consists not only of property permitted by section 355 to be received without the recognition of gain, but also of other property or money,
 
-> then an amount equal to the sum of such money and the fair market value of such other propertyshall be treated as a distribution of property to which section 301 applies.
+> then an amount equal to the sum of such money and the fair market value of such other property shall be treated as a distribution of property to which section 301 applies.
 
 #### (c) Loss
 

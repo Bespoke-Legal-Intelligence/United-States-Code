@@ -44,7 +44,7 @@ The authority provided in this section shall terminate 10 years after June 10, 2
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
+&emsp;&emsp;Not later than 2 years after June 10, 2014, and once every 2 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation andInfrastructure of the House of Representatives and make publicly available an interim report on the use of the authority under this section.
 
 #### (B) Final report
 

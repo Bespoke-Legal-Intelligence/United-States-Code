@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
-(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to theUnited States, and personal responsibility and a sense of accomplishment.
+(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
 
 (b) No unit may be established or maintained at an institution unless—
 
@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
+(e) Instead of, or in addition to, detailing officers and noncommissioned officers on active duty under subsection (c)(1) and authorizing the employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve under subsection (d), the Secretary of the military department concerned may authorize qualified institutions to employ as administrators and instructors in the program officers and noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regularservice under section 12731 of this title and whose qualifications are approved by the Secretary and the institution concerned and who request such employment, subject to the following:
 
 &emsp;(1) The Secretary concerned shall pay to the institution an amount equal to one-half of the amount paid to the member by the institution for any period, up to a maximum of one-half of the difference between—
 
@@ -114,11 +114,11 @@ Pub. L. 88–647, title I, §102, Oct. 13, 1964, 78 Stat. 1064, directed that re
 
 #### Savings Clause
 
-Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see ShortTitle note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
+Pub. L. 88–647, title IV, §402, Oct. 13, 1964, 78 Stat. 1074, provided that: "If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications."
 
 #### Increase in Number of Units of Junior Reserve Officers' Training Corps
 
-Pub. L. 110–417, \[div. A\], title V, §548, Oct. 14, 2008, 122 Stat. 4466, as amended by Pub. L. 112–239, div. A, title V, §553, Jan. 2, 2013, 126 Stat. 1742, provided that:
+Pub. L. 110–417, \[div. A\], title V, §548, Oct. 14, 2008, 122 Stat. 4466, as amended by Pub. L. 112–239, div. A, title V, §553, Jan. 2, 2013, 126 Stat. 1742; Pub. L. 114–92, div. A, title X, §1072(c), Nov. 25, 2015, 129 Stat. 995, provided that:
 
 "(a)
 
@@ -152,11 +152,7 @@ Report on Plan.—Upon completion of the plan, the Secretary of Defense shall pr
 
 &emsp;"(5) Efforts to increase distribution of units in educationally and economically deprived areas.
 
-&emsp;"(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation.
-
-"(e)
-
-Time for Submission.—Not later than March 31, 2013, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a revised plan under subsection (a) to reflect amendments made to subsections (a) and (b) during fiscal year 2013 and a new report under subsection (d) to address the revised plan. The Secretary shall submit an updated report not later than March 31 of each of 2015, 2018, and 2020."
+&emsp;"(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation."
 
 #### Expansion of Junior Reserve Officers' Training Corps Program
 

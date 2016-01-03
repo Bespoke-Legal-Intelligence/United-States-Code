@@ -46,7 +46,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;(5) establish mechanisms to ensure that postadoption services meet the needs of the individual families and develop models to reduce the disruption rates of adoption.
 
-(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L.109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243.)
 
 #### Prior Provisions
 

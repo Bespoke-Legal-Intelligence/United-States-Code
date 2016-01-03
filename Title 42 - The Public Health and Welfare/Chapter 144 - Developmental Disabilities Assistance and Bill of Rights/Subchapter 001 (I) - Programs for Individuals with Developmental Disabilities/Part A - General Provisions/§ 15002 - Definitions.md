@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Areas of emphasis
 
-&emsp;The term "areas of emphasis" means the areas related to quality assurance activities,education activities and early intervention activities, child care-related activities, health-related activities, employment-related activities, housing-related activities, transportation-related activities, recreation-related activities, and other services available or offered to individuals in a community, including formal and informal community supports, that affect their quality of life.
+&emsp;The term "areas of emphasis" means the areas related to quality assurance activities, education activities and early intervention activities, child care-related activities, health-related activities, employment-related activities, housing-related activities, transportation-related activities, recreation-related activities, and other services available or offered to individuals in a community, including formal and informal community supports, that affect their quality of life.
 
 #### (3) Assistive technology device
 
@@ -36,7 +36,7 @@ In this subchapter:
 
 #### (6) Child care-related activities
 
-&emsp;The term "child care-related activities" means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilities having access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
+&emsp;The term "child care-related activities" means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilitieshaving access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
 
 #### (7) Culturally competent
 
@@ -86,7 +86,7 @@ In this subchapter:
 
 #### (10) Education activities
 
-&emsp;The term "education activities" means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modificationswhen necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
+&emsp;The term "education activities" means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
 
 #### (11) Employment-related activities
 
@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (15) Inclusion
 
-&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
+&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enablesindividuals with developmental disabilities to—
 
 &emsp;&emsp;(A) have friendships and relationships with individuals and families of their own choice;
 
@@ -168,7 +168,7 @@ In this subchapter:
 
 #### (19) Personal assistance services
 
-&emsp;The term "personal assistance services" means a range of services, provided by 1 or more individuals, designed to assist an individual with a disability to perform daily activities, including activities on or off a job that such individual would typically perform if such individual did not have a disability.Such services shall be designed to increase such individual's control in life and ability to perform everyday activities, including activities on or off a job.
+&emsp;The term "personal assistance services" means a range of services, provided by 1 or more individuals, designed to assist an individual with a disability to perform daily activities, including activities on or off a job that such individual would typically perform if such individual did not have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities, including activities on or off a job.
 
 #### (20) Prevention activities
 
@@ -208,7 +208,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) will not be subject to the inappropriate use of restraints or seclusion; or
 
-&emsp;&emsp;(C) include activities related to interagency coordination and systems integration that result in improved and enhanced services, supports, and other assistance that contribute to and protect the self-determination, independence, productivity, and integration and inclusion in all facets of community life, of individuals with developmental disabilities.
+&emsp;&emsp;(C) include activities related to interagency coordination and systems integration that result in improved and enhanced services, supports, and other assistance thatcontribute to and protect the self-determination, independence, productivity, and integration and inclusion in all facets of community life, of individuals with developmental disabilities.
 
 #### (24) Recreation-related activities
 

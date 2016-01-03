@@ -60,7 +60,7 @@ To be eligible to receive a grant under this section, a tribally controlled post
 
 #### (3) Prohibition on contract denial
 
-&emsp;No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25, may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+&emsp;No tribally controlled postsecondary career and technical institution for which an Indiantribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25, may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
 #### (g) Complaint resolution procedure
 
@@ -84,7 +84,7 @@ In this section:
 
 #### (i) Enrollment
 
-&emsp;&emsp;&emsp;For each academic year, the Indian student count shall be determined on thebasis of the enrollments of Indian students as in effect at the conclusion of—
+&emsp;&emsp;&emsp;For each academic year, the Indian student count shall be determined on the basis of the enrollments of Indian students as in effect at the conclusion of—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the fall term, the third week of the fall term; and
 
@@ -134,7 +134,7 @@ The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub
 
 The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of this title and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638,Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Prior Provisions
 

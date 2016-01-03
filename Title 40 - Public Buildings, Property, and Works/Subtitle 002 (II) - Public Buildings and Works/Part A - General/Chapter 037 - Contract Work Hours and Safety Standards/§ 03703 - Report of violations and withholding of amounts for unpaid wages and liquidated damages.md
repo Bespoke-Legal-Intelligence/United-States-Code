@@ -34,7 +34,7 @@ Review Process.—
 
 &emsp;(1)
 
-Time limit for appeal.—Within 60 days after an amount is withheld as liquidated damages, any contractor or subcontractor aggrieved by the withholding may appeal to the head of the agency of the Government or territory for which the contract work is done or which is providing financial assistance for thework, or to the Mayor of the District of Columbia in the case of liquidated damages withheld for the use and benefit of the District.
+Time limit for appeal.—Within 60 days after an amount is withheld as liquidated damages, any contractor or subcontractor aggrieved by the withholding may appeal to the head of the agency of the Government or territory for which the contract work is done or which is providing financial assistance for the work, or to the Mayor of the District of Columbia in the case of liquidated damages withheld for the use and benefit of the District.
 
 &emsp;(2)
 

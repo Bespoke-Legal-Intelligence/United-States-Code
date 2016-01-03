@@ -8,7 +8,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(2) satisfactory reporting, monitoring, and inspection and compliance with the manifest system referred to in section 6922(5) <sup>1</sup> of this title;
 
-&emsp;(3) treatment, storage, or disposal of all such waste received by the facility pursuant to such operating methods, techniques, and practices as may be satisfactory to the Administrator;
+&emsp;(3) treatment, storage, or disposal of all such waste received by the facility pursuant to suchoperating methods, techniques, and practices as may be satisfactory to the Administrator;
 
 &emsp;(4) the location, design, and construction of such hazardous waste treatment, disposal, or storage facilities;
 
@@ -60,7 +60,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (d) Prohibitions on land disposal of specified wastes
 
-(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
+(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) of this section with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order toprotect human health and the environment for as long as the waste remains hazardous, taking into account—
 
 &emsp;(A) the long-term uncertainties associated with land disposal,
 
@@ -132,7 +132,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(B) taking action under paragraph (5) of this subsection with respect to each such hazardous waste.
 
-(2) The Administrator shall base the schedule on a ranking of such listed wastes considering their intrinsic hazard and their volume suchthat decisions regarding the land disposal of high volume hazardous wastes with high intrinsic hazard shall, to the maximum extent possible, be made by the date forty-five months after November 8, 1984. Decisions regarding low volume hazardous wastes with lower intrinsic hazard shall be made by the date sixty-six months after November 8, 1984.
+(2) The Administrator shall base the schedule on a ranking of such listed wastes considering their intrinsic hazard and their volume such that decisions regarding the land disposal of high volume hazardous wastes with high intrinsic hazard shall, to the maximum extent possible, be made by the date forty-five months after November 8, 1984. Decisions regarding low volume hazardous wastes with lower intrinsic hazard shall be made by the date sixty-six months after November 8, 1984.
 
 (3) The preparation and submission of the schedule under this subsection shall not be subject to the Paperwork Reduction Act of 1980.<sup>2</sup> No hearing on the record shall be required for purposes of preparation or submission of the schedule. The schedule shall not be subject to judicial review.
 
@@ -208,7 +208,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 #### (m) Treatment standards for wastes subject to land disposal prohibition
 
-(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity forhearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
+(1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) of this section prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
 (2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) of this section and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g) of this section.
 
@@ -240,7 +240,7 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 &emsp;(C) such monofill meets the same requirements as are applicable in the case of a waiver under section 6925(j)(2) or (4) of this title.
 
-(4)(A) Not later than thirty months after November 8, 1984, the Administrator shall promulgate standards requiring that new landfill units, surface impoundment units, waste piles, underground tanks and land treatment units for the storage, treatment, or disposal of hazardous waste identified or listed under section 6921 of this title shall be required to utilize approved leak detection systems.
+(4)(A) Not later than thirty months after November 8, 1984, the Administrator shall promulgate standards requiring that new landfill units, surface impoundment units, waste piles, underground tanks and land treatment units for the storage, treatment, or disposal of hazardous waste identified or listed under section 6921 ofthis title shall be required to utilize approved leak detection systems.
 
 (B) For the purposes of subparagraph (A)—
 
@@ -254,7 +254,7 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 (6) Any permit under section 6925 of this title which is issued for a landfill located within the State of Alabama shall require the installation of two or more liners and a leachate collection system above and between such liners, notwithstanding any other provision of this chapter.
 
-(7) In addition to the requirements set forth in this subsection, the regulations referred to in paragraph (1) shall specify criteria for the acceptable location of new and existing treatment,storage, or disposal facilities as necessary to protect human health and the environment. Within 18 months after November 8, 1984, the Administrator shall publish guidance criteria identifying areas of vulnerable hydrogeology.
+(7) In addition to the requirements set forth in this subsection, the regulations referred to in paragraph (1) shall specify criteria for the acceptable location of new and existing treatment, storage, or disposal facilities as necessary to protect human health and the environment. Within 18 months after November 8, 1984, the Administrator shall publish guidance criteria identifying areas of vulnerable hydrogeology.
 
 #### (p) Ground water monitoring
 
@@ -286,7 +286,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 (2)(A) This subsection, subsection (r) of this section, and subsection (s) of this section shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resulting coke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under section 6921 of this title.
 
-(B) The Administrator may exempt from the requirements of this subsection, subsection (r) of this section, or subsection (s) of this section facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
+(B) The Administrator may exempt from the requirements of this subsection, subsection (r)of this section, or subsection (s) of this section facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
 
 (C)(i) After November 8, 1984, and until standards are promulgated and in effect under paragraph (2) of this subsection, no fuel which contains any hazardous waste may be burned in any cement kiln which is located within the boundaries of any incorporated municipality with a population greater than five hundred thousand (based on the most recent census statistics) unless such kiln fully complies with regulations (as in effect on November 8, 1984) under this subchapter which are applicable to incinerators.
 
@@ -322,7 +322,7 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of suchguarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
 (4) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this section.
 

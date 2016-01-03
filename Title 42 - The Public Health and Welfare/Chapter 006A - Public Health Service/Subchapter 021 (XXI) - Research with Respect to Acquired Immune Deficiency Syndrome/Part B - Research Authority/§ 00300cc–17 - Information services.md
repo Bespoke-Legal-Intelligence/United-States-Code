@@ -10,7 +10,7 @@ The Secretary shall establish, maintain, and operate a program with respect to i
 
 (2) Information provided pursuant to paragraph (1) shall include—
 
-&emsp;(A) information on prevention of exposure to, and the transmission of, the etiologic agent for acquired immune deficiency syndrome; and
+&emsp;(A) information on prevention of exposure to, and the transmission of, the etiologicagent for acquired immune deficiency syndrome; and
 
 &emsp;(B) information contained in the data banks established in subsections (c) and (d) of this section.
 

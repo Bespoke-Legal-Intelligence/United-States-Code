@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 926, Pub. L. 93–203, title IV, §453, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1993, related to screening and selection of applicants for Job Corps.
 
-A prior section 926, Pub. L. 93–203, title IV, §416, Dec. 28, 1973, 87 Stat. 872, related to applicability of certain Federal laws to the Job Corps program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 926, Pub. L. 93–203, title IV, §416, Dec. 28, 1973, 87 Stat. 872, related to applicability of certainFederal laws to the Job Corps program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 914 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
@@ -32,7 +32,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 928, Pub. L. 93–203, title IV, §455, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1994, related to enrollment and assignment of enrollees in Job Corps.
 
-A prior section 928, Pub. L. 93–203, title IV, §418, Dec. 28, 1973, 87 Stat. 873, related to prohibitions concerningpolitical discrimination and political activity, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 928, Pub. L. 93–203, title IV, §418, Dec. 28, 1973, 87 Stat. 873, related to prohibitions concerning political discrimination and political activity, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 916 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

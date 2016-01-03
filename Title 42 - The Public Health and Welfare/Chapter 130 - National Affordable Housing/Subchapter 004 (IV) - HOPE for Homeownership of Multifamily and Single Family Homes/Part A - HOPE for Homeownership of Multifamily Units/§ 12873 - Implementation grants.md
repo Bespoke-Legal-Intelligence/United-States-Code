@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make implementation grants to applicants for the purpose of carrying out homeownership programs approved under this part.
+The Secretary is authorized to make implementation grants to applicants for the purposeof carrying out homeownership programs approved under this part.
 
 #### (b) Eligible activities
 
@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
-&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
+&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitationand (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
 &emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
 
@@ -92,7 +92,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(K) identification and description of the entity that will operate and manage the property;
 
-&emsp;&emsp;(L) a certification by the public official responsible for submitting the comprehensivehousing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
+&emsp;&emsp;(L) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
 &emsp;&emsp;(M) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 

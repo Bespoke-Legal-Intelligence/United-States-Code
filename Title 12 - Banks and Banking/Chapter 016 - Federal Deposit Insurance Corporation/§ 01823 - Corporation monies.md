@@ -52,7 +52,7 @@ Least-cost resolution required.—
 
 &emsp;(A)
 
-In general.—Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
+In general.—Notwithstanding any other provision of this chapter, the Corporation maynot exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) with respect to any insured depository institution unless—
 
 &emsp;&emsp;(i) the Corporation determines that the exercise of such authority is necessary to meet the obligation of the Corporation to provide insurance coverage for the insured deposits in such institution; and
 
@@ -284,7 +284,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (1) In general
 
-&emsp;No agreement which tends to diminish or defeat the interest of the Corporation in any asset acquired by it under this section or section 1821 of this title, either as security for aloan or by purchase or as receiver of any insured depository institution, shall be valid against the Corporation unless such agreement—
+&emsp;No agreement which tends to diminish or defeat the interest of the Corporation in any asset acquired by it under this section or section 1821 of this title, either as security for a loan or by purchase or as receiver of any insured depository institution, shall be valid against the Corporation unless such agreement—
 
 &emsp;&emsp;(A) is in writing,
 
@@ -368,7 +368,7 @@ Acquisition may be conditioned on receipt of consideration for corporation's ass
 
 (4)(A)
 
-Acquisitions Not Subject to Certain Other Laws.—Section 1842(d) of this title, any provision of State law, and section 1730a(e)(3) <sup>3</sup> of this title shall not apply to prohibit any acquisition under paragraph (2) or (3), except that an out-of-State bank may make such an acquisition only if such ownership is otherwise specifically authorized.
+Acquisitions Not Subject to Certain Other Laws.—Section 1842(d) of this title, any provision of State law, and section 1730a(e)(3) <sup>3</sup> of this title shall not apply to prohibit any acquisition under paragraph (2) or (3), except that anout-of-State bank may make such an acquisition only if such ownership is otherwise specifically authorized.
 
 (B) Any subsidiary created by operation of this subsection may retain and operate any existing branch or branches of the institution merged with or acquired under paragraph (2) or (3), but otherwise shall be subject to the conditions upon which a national bank may establish and operate branches in the State in which such insured institution is located.
 
@@ -518,7 +518,7 @@ Minority.—The term "minority" means any Black American, Native American, Hispa
 
 #### (g) Payment of interest on stock subscriptions
 
-Prior to July 1, 1951, the Corporation shall pay out of its capital account to the Secretary of the Treasury an amount equal to 2 per centum simple interest per annum on amounts advanced to the Corporation on stock subscriptions by the Secretary of the Treasury and the Federal Reserve banks, from the time of such advancesuntil the amounts thereof were repaid. The amount payable hereunder shall be paid in two equal installments, the first installment to be paid prior to December 31, 1950.
+Prior to July 1, 1951, the Corporation shall pay out of its capital account to the Secretary of the Treasury an amount equal to 2 per centum simple interest per annum on amounts advanced to the Corporation on stock subscriptions by the Secretary of the Treasury and the Federal Reserve banks, from the time of such advances until the amounts thereof were repaid. The amount payable hereunder shall be paid in two equal installments, the first installment to be paid prior to December 31, 1950.
 
 #### (h) Reopening or aversion of closing of insured branch of foreign bank
 
@@ -534,7 +534,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;(A) there is no evidence that fraud or criminal abuse on the part of the bank led to the losses referred to in paragraph (2); and
 
-&emsp;&emsp;(B) the agricultural bank has a plan to restore its capital, not later than the close of the amortization period established under paragraph (2), to a level prescribed by the appropriate Federal banking agency.
+&emsp;&emsp;(B) the agricultural bank has a plan to restore its capital, not later than the close of the amortization period established underparagraph (2), to a level prescribed by the appropriate Federal banking agency.
 
 #### (2) Seven-year loss amortization
 
@@ -590,7 +590,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (ii) Terms of transactions
 
-&emsp;&emsp;&emsp;Mergers, consolidations, transfers, and acquisitions under this subsection shall beon such terms as the Corporation shall provide.
+&emsp;&emsp;&emsp;Mergers, consolidations, transfers, and acquisitions under this subsection shall be on such terms as the Corporation shall provide.
 
 #### (iii) Approval by appropriate agency
 
@@ -612,7 +612,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (i) Consultation required
 
-&emsp;&emsp;&emsp;Before making a determination to take any action under subparagraph (A), the Corporation shall consult the State official having jurisdiction of the acquired institution.
+&emsp;&emsp;&emsp;Before making a determination to take any action under subparagraph (A), theCorporation shall consult the State official having jurisdiction of the acquired institution.
 
 #### (ii) Period for State response
 
@@ -684,7 +684,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;&emsp;&emsp;(III) The member is a qualified thrift lender (as defined in section 1467a(m) of this title) or would be a qualified thrift lender if commercial real estate owned and nonperforming commercial loans acquired in acquisition and merger transactions that were instituted by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for supervisory reasons were excluded from the member's total assets.
 
-&emsp;&emsp;&emsp;&emsp;(IV) The appropriate Federal banking agency has determined that the member's management is competent and has complied with applicable laws, rules, and supervisory directives and orders.
+&emsp;&emsp;&emsp;&emsp;(IV) The appropriate Federal banking agency has determined that the member's management is competent and hascomplied with applicable laws, rules, and supervisory directives and orders.
 
 &emsp;&emsp;&emsp;&emsp;(V) The member's management did not engage in insider dealing or speculative practices or other activities that jeopardized the member's safety and soundness or contributed to its impaired capital position.
 

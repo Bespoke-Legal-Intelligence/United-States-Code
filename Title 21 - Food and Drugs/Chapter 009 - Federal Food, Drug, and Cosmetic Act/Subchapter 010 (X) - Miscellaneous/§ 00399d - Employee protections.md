@@ -74,7 +74,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(C).
+&emsp;&emsp;If the Secretary has not issued a final decision within 210 days after the filing of the complaint, or within 90 days after receiving a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States with jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be triedby the court with a jury. The proceedings shall be governed by the same legal burdens of proof specified in paragraph (2)(C).
 
 #### (B) Relief
 

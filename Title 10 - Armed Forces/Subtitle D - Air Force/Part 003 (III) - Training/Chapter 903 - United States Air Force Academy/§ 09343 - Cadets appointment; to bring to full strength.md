@@ -30,7 +30,7 @@ The words "If it is determined" are substituted for the words "When upon determi
 
 <b>1966</b>—Pub. L. 89–718 substituted "Academy Board" for "Faculty".
 
-<b>1964</b>—Pub. L. 88–276, among other changes, increased percentage of nominees to be selected from two-thirds to three-fourths, and struck out "as are necessary to meet the needs of the Air Force, but not more than the authorized strength of Air Force cadets" after "the Faculty".
+<b>1964</b>—Pub. L. 88–276, among other changes, increased percentage of nominees to be selected from two-thirdsto three-fourths, and struck out "as are necessary to meet the needs of the Air Force, but not more than the authorized strength of Air Force cadets" after "the Faculty".
 
 #### Effective Date of 1973 Amendment
 

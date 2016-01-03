@@ -8,7 +8,7 @@ Carrier and broker.—The terms "carrier" and "broker" include a receiver or tru
 
 &emsp;(2)
 
-Association.—The term "association" means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs aservice, or engages in activities, related to transportation under this part.
+Association.—The term "association" means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs a service, or engages in activities, related to transportation under this part.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 892.)
 

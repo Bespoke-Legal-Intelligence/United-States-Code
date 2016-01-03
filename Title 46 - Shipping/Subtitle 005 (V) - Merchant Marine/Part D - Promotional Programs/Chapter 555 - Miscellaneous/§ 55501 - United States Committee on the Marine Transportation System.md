@@ -66,7 +66,7 @@ Coordinating board.—
 
 &emsp;&emsp;(A)
 
-In general.—There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representativeto serve on such Board. The Board shall assist the Committee in carrying out its purpose and activities.
+In general.—There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representative to serve on such Board. The Board shall assist the Committee in carrying out its purpose and activities.
 
 &emsp;&emsp;(B)
 
@@ -106,7 +106,7 @@ Consultation.—In carrying out its purpose and activities, the Committee may co
 
 #### References in Text
 
-The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub. L. 112–213, which enacted this section and was approved Dec. 20, 2012.
+The date of enactment of this Act, referred to in subsec. (e), probably means the date of enactment of Pub.L. 112–213, which enacted this section and was approved Dec. 20, 2012.
 
 #### Prior Provisions
 

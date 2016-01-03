@@ -26,17 +26,17 @@
 
 #### (1) First tier
 
-&emsp;The maximum amount of penalty for each act or omission described in subsection (a) of this section shall be $5,000 for a natural person or $50,000 for any other person.
+&emsp;The maximum amount of penalty for each act or omission described in subsection (a) shall be $5,000 for a natural person or $50,000 for any other person.
 
 #### (2) Second tier
 
-&emsp;Notwithstanding paragraph (1), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+&emsp;Notwithstanding paragraph (1), the maximum amount of penalty for each such act or omission shall be $50,000 for a natural person or $250,000 for any other person if the act or omission described in subsection (a) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 #### (3) Third tier
 
 &emsp;Notwithstanding paragraphs (1) and (2), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
-&emsp;&emsp;(A) the act or omission described in subsection (a) of this section involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
+&emsp;&emsp;(A) the act or omission described in subsection (a) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
 &emsp;&emsp;(B) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
 
@@ -82,7 +82,7 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74,which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

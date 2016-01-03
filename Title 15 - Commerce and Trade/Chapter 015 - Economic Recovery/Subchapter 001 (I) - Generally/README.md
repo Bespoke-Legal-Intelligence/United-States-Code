@@ -30,3 +30,7 @@
 - [&sect; 00713c&#8211;1 - Annual report to Congress by Federal Surplus Commodities Corporation](%C2%A7%2000713c%E2%80%931%20-%20Annual%20report%20to%20Congress%20by%20Federal%20Surplus%20Commodities%20Corporation.md)
 - [&sect; 00713c&#8211;2 - Purchase and distribution of surplus fishery products](%C2%A7%2000713c%E2%80%932%20-%20Purchase%20and%20distribution%20of%20surplus%20fishery%20products.md)
 - [&sect; 00713c&#8211;3 - Promotion of the free flow of domestically produced fishery products](%C2%A7%2000713c%E2%80%933%20-%20Promotion%20of%20the%20free%20flow%20of%20domestically%20produced%20fishery%20products.md)
+- [&sect; 00713d - Declaration of purpose](%C2%A7%2000713d%20-%20Declaration%20of%20purpose.md)
+- [&sect; 00713d&#8211;1 - Critical shortages; recommendations by President; public hearings](%C2%A7%2000713d%E2%80%931%20-%20Critical%20shortages%3B%20recommendations%20by%20President%3B%20public%20hearings.md)
+- [&sect; 00713d&#8211;2 - Food and conservation program; appropriations; administrative expenses](%C2%A7%2000713d%E2%80%932%20-%20Food%20and%20conservation%20program%3B%20appropriations%3B%20administrative%20expenses.md)
+- [&sect; 00713d&#8211;3 - Authorizations for appropriations](%C2%A7%2000713d%E2%80%933%20-%20Authorizations%20for%20appropriations.md)

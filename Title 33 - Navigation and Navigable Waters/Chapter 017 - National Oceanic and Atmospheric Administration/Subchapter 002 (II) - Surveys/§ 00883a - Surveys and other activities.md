@@ -112,7 +112,7 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 
 #### "SEC. 3204. CONTRACT AUTHORITY.
 
-"The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable or cost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
+"The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable orcost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
 
 #### "SEC. 3205. DEFINITIONS.
 

@@ -84,7 +84,7 @@ In subsection (c), the word "Secretary" is substituted for "Treasurer" because o
 
 Subsection (d) is substituted for 31:490 for clarity and consistency.
 
-In subsection (e), the words "official or agent having custody or possession of public money" are substituted for "persons charged by law with the safekeeping,transfer, and disbursements of the public moneys" for consistency and to eliminate unnecessary words. The words "other than those connected with the United States Postal Service" are omitted as superseded by title 39.
+In subsection (e), the words "official or agent having custody or possession of public money" are substituted for "persons charged by law with the safekeeping, transfer, and disbursements of the public moneys" for consistency and to eliminate unnecessary words. The words "other than those connected with the United States Postal Service" are omitted as superseded by title 39.
 
 In subsection (f), the word "expressly" is omitted as surplus. The words "official or agent having custody or possession" are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words "additional . . . fireproof of chests or vaults or other necessary expenses of" are omitted as surplus. The words "employ or pay officers and employees of the Government" are substituted for "clerical services or payment of employees of any nature or grade" for consistency in the revised title and with other titles of the United States Code.
 

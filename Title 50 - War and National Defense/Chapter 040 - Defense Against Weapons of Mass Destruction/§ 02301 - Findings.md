@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(3) Many of the states of the former Soviet Union retain the facilities, materials, and technologies capable of producing additional quantities of weapons of mass destruction.
 
-&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption in the states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
+&emsp;(4) The disintegration of the former Soviet Union was accompanied by disruptions of command and control systems, deficiencies in accountability for weapons, weapons-related materials and technologies, economic hardships, and significant gaps in border control among the states of the former Soviet Union. The problems of organized crime and corruption inthe states of the former Soviet Union increase the potential for proliferation of nuclear, radiological, biological, and chemical weapons and related materials.
 
 &emsp;(5) The conditions described in paragraph (4) have substantially increased the ability of potentially hostile nations, terrorist groups, and individuals to acquire weapons of mass destruction and related materials and technologies from within the states of the former Soviet Union and from unemployed scientists who worked on those programs.
 
@@ -64,7 +64,7 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Pub. L. 104–201, div. A, title XIV, §1401, Sept. 23, 1996, 110 Stat. 2715, provided that: "This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Defense Against Weapons of Mass Destruction Act of 1996'."
 
-Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: "This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the 'Nonproliferation Assistance Coordination Act of 2002'."
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: "This subtitle \[subtitle C\(§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the 'Nonproliferation Assistance Coordination Act of 2002'."
 
 #### Utilization of Contributions to International Nuclear Materials Protection and Cooperation Program and Russian Plutonium Disposition Program
 
@@ -104,11 +104,163 @@ Expiration.—The authority to accept, retain, and use contributions under this 
 
 #### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
 
-Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission's report was submitted, provided that Commissioners could elect to terminate service, and defined "Commission charter".
+Pub. L. 114–92, div. A, title X, §1089(a), (b), Nov. 25, 2015, 129 Stat. 1015, 1016, provided that:
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack, to coordinate such work with the Department of Homeland Security, and to submit to Congress, not later than Nov. 30, 2008, a final report on the assessment, and provided that the Commission terminate 30 days after submission of the report.
+"(a)
 
-\[Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, §1403(a), paraphrased above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.\]
+Reestablishment.—The commission established pursuant to title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345) \[set out below\], and reestablished pursuant to section 1052 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 50 U.S.C. 2301 note), known as the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, is hereby reestablished.
+
+"(b)
+
+Membership.—Service on the Commission is voluntary, and Commissioners may elect to terminate their service on the Commission. If a Commissioner is unwilling or unable to serve on the Commission, the Secretary of Defense, in consultation with the chairmen and ranking members of the Committees on Armed Services of the House of Representatives and the Senate, shall appoint a new member to fill that vacancy."
+
+Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, provided that:
+
+"(a)
+
+Reestablishment.—The commission established pursuant to title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345) \[set out below\], known as the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, is hereby reestablished.
+
+"(b)
+
+Membership.—The Commission as reestablished shall have the same membership as the Commission had as of the date of the submission of the report of the Commission pursuant to section 1403(a) of such Act, as in effect before the date of the enactment of this Act \[Jan. 6, 2006\]. Service on the Commission is voluntary, and Commissioners may elect to terminate their service on the Commission.
+
+"(c)
+
+Commission Charter Defined.—In this section \[enacting this note and amending title XIV of Pub. L. 106–398, set out below\], the term 'Commission charter' means title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345 et seq.)."
+
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, §1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 114–92, div. A, title X, §1089(d)–(g), Nov. 25, 2015, 129 Stat. 1016, provided that:
+
+#### "SEC. 1401. ESTABLISHMENT OF COMMISSION.
+
+"(a)
+
+Establishment.—There is hereby established a commission to be known as the 'Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack' (hereafter in this title referred to as the 'Commission').
+
+"(b)
+
+Purpose.—The purpose of the Commission is to monitor, investigate, make recommendations, and report to Congress on the evolving threat to the United States from electromagnetic pulse (hereinafter in this title referred to as 'EMP') attack resulting from the detonation of a nuclear weapon or weapons at high altitude, from non-nuclear EMP weapons, from natural EMP generated by geomagnetic storms, and from proposed uses in the military doctrines of potential adversaries of using EMP weapons in combination with other attack vectors.. \[sic\]
+
+"(c)
+
+Composition.—The Commission shall be composed of nine members. In the event of a vacancy in the membership of the Commission, the Secretary of Defense shall appoint a new member.
+
+"(d)
+
+Qualifications.—Members of the Commission shall be appointed from among private United States citizens with knowledge and expertise in the scientific, technical, and military aspects of electromagnetic pulse effects referred to in subsection (b).
+
+"(e)
+
+Chairman of Commission.—The Secretary of Defense shall designate one of the members of the Commission to serve as chairman of the Commission.
+
+"(f)
+
+Security Clearances.—All members of the Commission shall hold appropriate security clearances.
+
+#### "SEC. 1402. DUTIES OF COMMISSION.
+
+"The Commission shall assess the following:
+
+&emsp;"(1) The vulnerability of electric-dependent military systems in the United States to a manmade or natural EMP event, giving special attention to the progress made by the Department of Defense, other Government departments and agencies of the United States, and entities of the private sector in taking steps to protect such systems from such an event.
+
+&emsp;"(2) The evolving current and future threat from state and non-state actors of a manmade EMP attack employing nuclear or non-nuclear weapons.
+
+&emsp;"(3) New technologies, operational procedures, and contingency planning that can protect electronics and military systems from the effects a manmade or natural EMP event.
+
+&emsp;"(4) Among the States, if State grids are protected against manmade or natural EMP, which States should receive highest priority for protecting critical defense assets.
+
+&emsp;"(5) The degree to which vulnerabilities of critical infrastructure systems create cascading vulnerabilities for military systems.
+
+#### "SEC. 1403. REPORTS.
+
+"(a)
+
+Final Report.—Not later than June 30, 2017, the Commission shall submit to Congress a report on the Commission's assessment of the matters specified in section 1402. That report shall include recommendations for any steps the Commission believes should be taken by the United States to better protect systems referred to in section 1402(1) from an EMP attack.
+
+"(b)
+
+Interim Reports.—Before the submission of its report under subsection (a), the Commission may submit to Congress interim reports at such times as the Commission considers appropriate.
+
+#### "SEC. 1404. POWERS.
+
+"(a)
+
+Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this title, hold hearings, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
+
+"(b)
+
+Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title.
+
+"(c)
+
+Coordination With Department of Homeland Security.—The Commission and the Secretary of Homeland Security shall jointly ensure that the work of the Commission with respect to electromagnetic pulse attack on electricity infrastructure, and protection against such attack, is coordinated with Department of Homeland Security efforts on such matters.
+
+#### "SEC. 1405. COMMISSION PROCEDURES.
+
+"(a)
+
+Meetings.—The Commission shall meet at the call of the Chairman.
+
+"(b)
+
+Quorum.—(1) Five members of the Commission shall constitute a quorum other than for the purpose of holding hearings.
+
+"(2) The Commission shall act by resolution agreed to by a majority of the members of the Commission.
+
+"(c)
+
+Panels.—The Commission may establish panels composed of less than full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
+
+"(d)
+
+Authority of Individuals To Act for Commission.—Any agent or member of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title.
+
+#### "SEC. 1406. PERSONNEL MATTERS.
+
+"(a)
+
+Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
+
+"(b)
+
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+"(c)
+
+Staff.—(1) The chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The appointment of a staff director shall be subject to the approval of the Commission.
+
+"(2) The chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for senior level and scientific or professional positions.
+
+"(d)
+
+Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
+
+"(e)
+
+Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title.
+
+#### "SEC. 1407. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
+
+"(a)
+
+Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+"(b)
+
+Miscellaneous Administrative and Support Services.—The Secretary of Defense shall furnish the Commission, on a reimbursable basis, any administrative and support services requested by the Commission.
+
+#### "SEC. 1408. FUNDING.
+
+"Funds for activities of the Commission for any fiscal year shall be provided from amounts appropriated for the Department of Defense for operation and maintenance for Defense-wide activities for that fiscal year. Upon receipt of a written certification from the Chairman of the Commission specifying the funds required for the activities of the Commission, the Secretary of Defense shall promptly disburse to the Commission, from such amounts, the funds required by the Commission as stated in such certification.
+
+#### "SEC. 1409. TERMINATION OF THE COMMISSION.
+
+"The Commission shall terminate 30 days after the date of the submission of its report under section 1403(a), as amended by the National Defense Authorization Act for Fiscal Year 2016 \[Pub. L. 114–92\]."
+
+\[Amendments by Pub. L. 114–92, div. A, title X, §1089(f), (g), Nov. 25, 2015, 129 Stat. 1016, to title XIV of Pub. L. 106–398, set out above, were executed to reflect the probable intent of Congress. Section 1089(f), which directed substitution of "June 30, 2017" for "September 30, 2007" in section 1403, was executed by making the substitution for "November 30, 2008" following the amendment by Pub. L. 110–181, §1075(a). Section 1089(g),which directed insertion of ", as amended by the National Defense Authorization Act for Fiscal Year 2016" before period at end of section "1049" of Pub. L. 106–398, was executed by making the insertion in section 1409.\]
+
+\[Pub. L. 111–383, div. A, title X, §1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, §1403(a), set out above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.\]
+
+\[Pub. L. 109–163, div. A, title X, §1052(i)(1), Jan. 6, 2006, 119 Stat. 3435, which directed amendment of section 1408 of Pub. L. 106–398, set out above, by inserting "for any fiscal year" after "activities of the Commission", was executed by making the insertion after "activities of the Commission" the first place appearing, to reflect the probable intent of Congress.\]
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
@@ -198,7 +350,7 @@ Reports.—(1) Not later than 6 months after the date of the first meeting of th
 
 Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Justice, and the Federal Emergency Management Agency, or any other Federal department or agency information that the panel considers necessary for the panel to carry out its duties.
 
-"(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section.
+"(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health andHuman Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section.
 
 "(j)
 

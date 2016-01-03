@@ -36,7 +36,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (1) Emergency reassignment of federally funded personnel
 
-&emsp;Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or a tribal organization or such Governor or tribal organization's designee, the Secretary may authorize the requesting State or Indian tribe to temporarilyreassign, for purposes of immediately addressing a public health emergency in the State or Indian tribe, State and local public health department or agency personnel funded in whole or in part through programs authorized under this chapter, as appropriate.
+&emsp;Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or a tribal organization or such Governor or tribal organization's designee, the Secretary may authorize the requesting State or Indian tribe to temporarily reassign, for purposes of immediately addressing a public health emergency in the State or Indian tribe, State and local public health department or agency personnel funded in whole or in part through programs authorized under this chapter, as appropriate.
 
 #### (2) Activation of emergency reassignment
 

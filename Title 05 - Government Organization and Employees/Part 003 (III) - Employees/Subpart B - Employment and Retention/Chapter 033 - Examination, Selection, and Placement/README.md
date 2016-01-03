@@ -146,7 +146,7 @@
 
 <b>1998</b>—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
 
-Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to office of head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
+Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" in heading for subchapter III, "Acting officer" for "Details; to officeof head of Executive agency or military department" in item 3345, "Time limitation" for "Details; to subordinate offices" in item 3346, "Exclusivity" for "Details; Presidential authority" in item 3347, "Vacant office" for "Details; limited in time" in item 3348, and "Reporting of vacancies" for "Details; to fill vacancies; restrictions" in item 3349 and added items 3349a to 3349d.
 
 <b>1996</b>—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted "Competitive service; recommendations of Senators or Representatives" for "Political recommendations" in item 3303.
 

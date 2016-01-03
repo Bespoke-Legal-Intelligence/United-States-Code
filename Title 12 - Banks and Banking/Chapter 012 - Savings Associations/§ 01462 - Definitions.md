@@ -74,7 +74,7 @@ Pars. (10), (11). Pub. L. 111–203, §604(h)(1), added pars. (10) and (11).
 
 #### Change of Name
 
-"Home Loan Bank Board" changed to "Federal Home Loan Bank Board" by act Aug. 11, 1955, ch. 783, §109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415.
+"Home Loan Bank Board" changed to "Federal Home Loan Bank Board" by act Aug. 11, 1955, ch. 783,§109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415.
 
 #### Effective Date of 2010 Amendment
 

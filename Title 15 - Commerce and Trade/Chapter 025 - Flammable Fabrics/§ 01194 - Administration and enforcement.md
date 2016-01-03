@@ -10,7 +10,7 @@ The Commission is authorized and directed to prevent any person from violating t
 
 #### (c) Rules and regulations
 
-The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawfuland shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The Commission is authorized and directed to prescribe such rules and regulations, including provisions for maintenance of records relating to fabrics, related materials, and products, as may be necessary and proper for administration and enforcement of this chapter. The violation of such rules and regulations shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (d) Inspection and analysis of products; cooperation with other governmental entities
 
@@ -32,7 +32,7 @@ The Commission is authorized to—
 
 (5)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
 
-(B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
+(B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter,the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
 (C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 

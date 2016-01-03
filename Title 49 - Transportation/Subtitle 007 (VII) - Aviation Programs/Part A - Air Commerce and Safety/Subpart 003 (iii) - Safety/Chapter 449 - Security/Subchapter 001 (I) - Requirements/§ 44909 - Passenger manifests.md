@@ -76,7 +76,7 @@ In general.—The Secretary of Homeland Security shall establish a timely and fa
 
 &emsp;&emsp;&emsp;(ii)
 
-Records.—The process shall include the establishment of a method by whichthe Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary to authenticate the identity of such a passenger or individual.
+Records.—The process shall include the establishment of a method by which the Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary to authenticate the identity of such a passenger or individual.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §115, Nov. 19, 2001, 115 Stat. 623; Pub. L. 108–458, title IV, §4012(a)(2), Dec. 17, 2004, 118 Stat. 3717.)
 
@@ -116,7 +116,7 @@ In subsection (a)(1), before clause (A), the words "each air carrier" are substi
 
 In subsection (a)(2), before clause (B), the words "For purposes of this section" are omitted as unnecessary.
 
-In subsection (a)(3), the words "In carrying out this subsection" are substituted for "In implementing the requirement pursuant to the amendment made by subsection (a) of this section" for clarity and to eliminate unnecessary words.
+In subsection (a)(3), the words "In carrying out this subsection" are substituted for "In implementing therequirement pursuant to the amendment made by subsection (a) of this section" for clarity and to eliminate unnecessary words.
 
 In subsection (b), the word "imposing" is added for clarity. The words "imposed on air carriers under subsection (a)(1) and (2) of this section" are substituted for "imposed pursuant to the amendment made by subsection (a)" for clarity and because of the restatement.
 

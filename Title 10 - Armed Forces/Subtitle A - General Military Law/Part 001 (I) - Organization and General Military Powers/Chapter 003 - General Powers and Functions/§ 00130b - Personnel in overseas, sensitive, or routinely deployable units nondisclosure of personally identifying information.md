@@ -18,7 +18,7 @@ Exceptions.—(1) The authority in subsection (a) is subject to such exceptions 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "personally identifying information", with respect to any person, means the person's name, rank, duty address, and official title and information regarding the person's pay.
+&emsp;(1) The term "personally identifying information", with respect to any person, meansthe person's name, rank, duty address, and official title and information regarding the person's pay.
 
 &emsp;(2) The term "unit" means a military organization of the armed forces designated as a unit by competent authority.
 

@@ -21,11 +21,11 @@
 
 <b>2001</b>—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
-<b>2000</b>—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted "Benefits for Children of Vietnam Veterans" and "1802" for "Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida" and "1801", respectively, in item for chapter 18.
+<b>2000</b>—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted "Benefits for Children ofVietnam Veterans" and "1802" for "Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida" and "1801", respectively, in item for chapter 18.
 
 <b>1996</b>—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 
-<b>1991</b>—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, renumbered references to section numbers by substituting "1101" for "301" in item for chapter 11, "1301" for "401" in item for chapter 13, "1501" for "501" in item for chapter 15, "1701" for "601" in item for chapter 17,"1901" for "701" in item for chapter 19, "2101" for "801" in item for chapter 21, "2301" for "901" in item for chapter 23, and "2400" for "1000" in item for chapter 24.
+<b>1991</b>—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, renumbered references to section numbers by substituting "1101" for "301" in item for chapter 11, "1301" for "401" in item for chapter 13, "1501" for "501" in item for chapter 15, "1701" for "601" in item for chapter 17, "1901" for "701" in item for chapter 19, "2101" for "801" in item for chapter 21, "2301" for "901" in item for chapter 23, and "2400" for "1000" in item for chapter 24.
 
 <b>1976</b>—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted "Nursing Home," in item for chapter 17.
 

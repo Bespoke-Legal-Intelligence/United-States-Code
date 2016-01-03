@@ -30,7 +30,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(C) to furnish to the institution and the Secretary evidence of compliance with subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or an appropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
+&emsp;&emsp;(D) if the recipient fails to comply with subparagraph (A) or (B) and does not qualify for any exception to this subparagraph which the Secretary may prescribe in regulations, to repay to the Secretary all (or anappropriately prorated part) of the amount of the stipend, plus interest, and, if applicable, reasonable collection fees (in accordance with regulations promulgated by the Secretary);
 
 &emsp;(2) provides assurances that the institution will—
 
@@ -38,7 +38,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(B) permit an individual who is employed in the field of child welfare services to apply for a traineeship with a stipend if the traineeship furthers the progress of the individual toward the completion of degree requirements; and
 
-&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purposeof determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
+&emsp;&emsp;(C) develop and implement a system that, for the 3-year period that begins on the date any recipient completes a child welfare services program of study, tracks the employment record of the recipient, for the purpose of determining the percentage of recipients who secure employment in the field of child welfare services and remain employed in the field.
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457; Pub. L. 109–288, §§6(f)(2), 11(b), Sept. 28, 2006, 120 Stat. 1247, 1255.)
 

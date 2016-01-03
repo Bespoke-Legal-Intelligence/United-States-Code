@@ -122,7 +122,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the nationallevel and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -152,7 +152,7 @@ Department of Labor
 
 (f) Facilitate the exchange of ideas and information throughout the government about occupational safety and health.
 
-(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and withreimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
+(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and with reimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
 
 (h) Evaluate the occupational safety and health programs of agencies and promptly submit reports to the agency heads. The evaluations shall be conducted through such scheduled headquarters or field reviews, studies or inspections as the Secretary deems necessary, at least annually for the larger or more hazardous agencies or operations, and as the Secretary deems appropriate for the smaller or less hazardous agencies.
 
@@ -184,7 +184,7 @@ General Services Administration
 
 (a) Upon request, require personnel of the General Services Administration to accompany the Secretary or an agency head on any inspection or investigation conducted pursuant to this order of a facility subject to the authority of the General Services Administration.
 
-(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action to correct the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
+(b) Assure prompt attention to reports from agencies of unsafe or unhealthy conditions of facilities subject to the authority of the General Services Administration; where abatement cannot be promptly effected, submit to the agency head a timetable for action tocorrect the conditions; and give priority in the allocation of resources available to the Administrator for prompt abatement of the conditions.
 
 (c) Procure and provide safe supplies, devices, and equipment, and establish and maintain a product safety program for those supplies, devices, equipment and services furnished to agencies, including the issuance of Material Safety Data Sheets when hazardous substances are furnished them.
 
@@ -214,7 +214,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985,by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -244,7 +244,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment
 

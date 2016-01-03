@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(5) the term "Corporation" means the Consolidated Rail Corporation;
 
-&emsp;(6) the term "cumulative net income" means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generallyaccepted accounting principles, before provision for expenses (net of income tax effect) related to—
+&emsp;(6) the term "cumulative net income" means, for any period, the net income of the Corporation and its consolidated subsidiaries as determined in accordance with generally accepted accounting principles, before provision for expenses (net of income tax effect) related to—
 
 &emsp;&emsp;(A) amounts paid by the Corporation under section 4024(e), and comparable payments made to present and former employees of the Corporation not covered by such section; and
 
@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 &emsp;(10) the term "person" means an individual, corporation, partnership, association, trust, or other entity or organization, including a government or political subdivision thereof or a governmental body;
 
-&emsp;(11) the term "preferred stock" means any class or series of preferred stock, and any class or series of common stock having liquidation and dividend rights and preferences superior to the common stock of the Corporation offered for sale under section 1312 of this title;
+&emsp;(11) the term "preferred stock" means any class or series of preferred stock, and any classor series of common stock having liquidation and dividend rights and preferences superior to the common stock of the Corporation offered for sale under section 1312 of this title;
 
 &emsp;(12) the term "public offering" means an underwritten offering to the public of such common stock of the Corporation as the Secretary of Transportation determines to sell under section 1312 of this title;
 
@@ -50,5 +50,5 @@ Section 4024(e) and section 4024(f), referred to in par. (6), are section 4024(e
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

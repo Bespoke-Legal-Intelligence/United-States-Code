@@ -26,7 +26,7 @@ Aug. 23, 1912, ch. 350, §5 (less so much as relates to removal), 37 Stat. 414.
 
 5 U.S.C. 50 (2d sentence, less so much as relates to removal).
 
-The statement of the acts prohibited is supplied from section 4 of the Act of Aug. 5, 1882, ch. 389, 22 Stat. 255, as amended June 22, 1906, ch. 3514, §§6, 8, 34 Stat. 449, and Sept. 23, 1950, ch. 1010, §7, 64 Stat. 986, which is codified in sections 3103 and 5501 of title 5, United States Code.
+The statement of the acts prohibited is supplied from section 4 of the Act of Aug. 5, 1882, ch. 389, 22 Stat. 255, as amended June 22, 1906, ch. 3514, §§6, 8, 34 Stat. 449, and Sept. 23, 1950, ch. 1010, §7, 64 Stat. 986, which iscodified in sections 3103 and 5501 of title 5, United States Code.
 
 The words "upon conviction thereof" are omitted as unnecessary because punishment can be imposed only after conviction.
 

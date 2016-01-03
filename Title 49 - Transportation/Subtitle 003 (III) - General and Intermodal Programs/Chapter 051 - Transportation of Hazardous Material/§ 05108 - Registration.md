@@ -54,7 +54,7 @@ Availability of Statements.—The Secretary shall make a registration statement 
 
 (g)
 
-Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection\(a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
+Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
 (2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $3,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
@@ -76,9 +76,9 @@ Fees.—(1) The Secretary shall establish, impose, and collect from a person req
 
 &emsp;(ix) other factors the Secretary considers appropriate.
 
-(B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(i) of this title. However, the Secretary is not required to refund any fee collected under this paragraph.
+(B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(h) of this title. However, the Secretary is not required to refund any fee collected under this paragraph.
 
-(C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(i) of this title.
+(C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(h) of this title.
 
 (3)
 
@@ -96,7 +96,7 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 (B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 109–59, title VII, §§7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, 119 Stat. 1897, 1898, 1900, 1909.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 109–59, title VII, §§7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, 119 Stat. 1897, 1898, 1900, 1909; Pub. L. 114–94, div. A, title VII, §7203(b)(1), Dec. 4, 2015, 129 Stat. 1591.)
 
 Historical and Revision Notes
 
@@ -182,13 +182,15 @@ This amends 49:5108(f) to correct an erroneous cross-reference.
 
 #### Amendments
 
+<b>2015</b>—Subsec. (g)(2)(B), (C). Pub. L. 114–94 substituted "5116(h)" for "5116(i)".
+
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of Transportation" in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 109–59, §7109(a)(1), substituted "Division 1.1, 1.2, or 1.3 explosive material" for "class A or B explosive".
 
 Subsec. (a)(2). Pub. L. 109–59, §7126, substituted "Secretary may" for "Secretary of Transportation may" in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 109–59, §7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates."
+Subsec. (a)(2)(B). Pub. L. 109–59, §7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates."
 
 Subsec. (a)(3). Pub. L. 109–59, §7109(a)(3), substituted "design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or" for "manufacture, fabricate, mark, maintain, recondition, repair, or test a package or".
 
@@ -235,6 +237,10 @@ Subsec. (i)(2)(B). Pub. L. 109–59, §7109(e), inserted "an Indian tribe," afte
 Subsec. (a)(4). Pub. L. 103–311, §104, added par. (4).
 
 Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out "5107(e)," before "5108(g)(2)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Registration
 

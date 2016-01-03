@@ -94,7 +94,7 @@ Certain provisions of division b (except sections 1704 and 2303) of subtitle i o
 
 &emsp;&emsp;(A) Sections 2101 and 2106 of title 41 shall not apply.
 
-&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purposeand intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
+&emsp;&emsp;(B) Within 90 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall adopt definitions for the acquisition management system that are consistent with the purpose and intent of the Office of Federal Procurement Policy Act.<sup>1</sup>
 
 &emsp;&emsp;(C) After the adoption of those definitions, the criminal, civil, and administrative remedies provided under the Office of Federal Procurement Policy Act <sup>1</sup> apply to the acquisition management system.
 
@@ -120,7 +120,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 Proposal defined.—In this subsection, the term "proposal" means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125,156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44.)
 
 Historical and Revision Notes
 

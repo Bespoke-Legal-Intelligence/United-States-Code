@@ -102,7 +102,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;(B) contract or enter into agreements with appropriate persons to implement the plans and projects, as provided in subsection (e), and pay the costs of the implementation, or contracts and agreement, with funds received under the order;
 
-&emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Act of 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
+&emsp;(7) evaluate on-going and completed plans and projects for Hass avocado promotion, industry information, consumer information, or related research and comply with the independent evaluation provisions of the Commodity Promotion, Research, and Information Actof 1996 (subtitle B of title V of Public Law 104–127 \[7 U.S.C. 7411 et seq.\]);
 
 &emsp;(8) receive, investigate, and report to the Secretary complaints of violations of the order;
 
@@ -264,7 +264,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 &emsp;&emsp;&emsp;Any change in the rate of assessment under this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) may be made only if adopted by the Board by an affirmative vote of at least seven members of the Board and approved by the Secretary as necessary to achieve the objectives of this chapter (after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title);
+&emsp;&emsp;&emsp;&emsp;(I) may be made only if adopted by the Board by an affirmative vote of at least seven members of the Board and approved by the Secretary as necessary toachieve the objectives of this chapter (after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be announced by the Board not less than 30 days prior to going into effect; and
 
@@ -424,7 +424,7 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 #### References in Text
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitleB of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Transfer of Functions
 

@@ -58,7 +58,7 @@ In this subpart:
 
 #### (A) Denial of assistance, tenancy, and occupancy rights prohibited
 
-&emsp;&emsp;No person may deny assistance, tenancy, or occupancy rights to housing assisted under a covered housing program to a tenant solely on the basis of criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking that is engaged in by a member of the household of the tenant or any guest or other person under the control of the tenant, if the tenant or an affiliated individual of the tenant is the victim or threatened victim of such domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;No person may deny assistance, tenancy, or occupancy rights to housing assisted under a covered housing program to a tenant solely on the basis of criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking that isengaged in by a member of the household of the tenant or any guest or other person under the control of the tenant, if the tenant or an affiliated individual of the tenant is the victim or threatened victim of such domestic violence, dating violence, sexual assault, or stalking.
 
 #### (B) Bifurcation
 

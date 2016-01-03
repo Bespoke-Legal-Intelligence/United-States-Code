@@ -36,7 +36,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(b) The term 'contract of carriage' applies only to contracts of carriage covered by a bill of lading or any similar document of title, insofar as such document relates to the carriage of goods by sea, including any bill of lading or any similar document as aforesaid issued under or pursuant to a charter party from the moment at which such bill of lading or similar document of title regulates the relations between a carrier and a holder of the same.
 
-"(c) The term 'goods' includes goods, wares, merchandise, and articles of every kind whatsoever, except live animals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
+"(c) The term 'goods' includes goods, wares, merchandise, and articles of every kind whatsoever, except liveanimals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
 "(d) The term 'ship' means any vessel used for the carriage of goods by sea.
 
@@ -60,7 +60,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(3) After receiving the goods into his charge the carrier, or the master or agent of the carrier, shall, on demand of the shipper, issue to the shipper a bill of lading showing among other things—
 
-"(a) The leading marks necessary for identification of the goods as the same are furnished in writing by the shipper before the loading of such goods starts, provided such marks are stamped or otherwise shown clearly upon the goods if uncovered, or on the cases or coverings in which such goods are contained, in such amanner as should ordinarily remain legible until the end of the voyage.
+"(a) The leading marks necessary for identification of the goods as the same are furnished in writing by the shipper before the loading of such goods starts, provided such marks are stamped or otherwise shown clearly upon the goods if uncovered, or on the cases or coverings in which such goods are contained, in such a manner as should ordinarily remain legible until the end of the voyage.
 
 "(b) Either the number of packages or pieces, or the quantity or weight, as the case may be, as furnished in writing by the shipper.
 
@@ -108,7 +108,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(i) Act or omission of the shipper or owner of the goods, his agent or representative;
 
-"(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general: <i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
+"(j) Strikes or lockouts or stoppage or restraint of labor from whatever cause, whether partial or general:<i>Provided</i>, That nothing herein contained shall be construed to relieve a carrier from responsibility for the carrier's own acts;
 
 "(k) Riots and civil commotions;
 
@@ -176,7 +176,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### "\[SCOPE OF ACT; "UNITED STATES"; "FOREIGN TRADE"\]
 
-"Sec. 13. This Act shall apply to all contracts for carriage of goods by sea to or from ports of the United States in foreign trade. As used in this Act the term 'United States' includes its districts, territories, and possessions: <i>Provided, however</i>, That the Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands. The term 'foreign trade' means the transportation of goodsbetween the ports of the United States and ports of foreign countries. Nothing in this Act shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possessions: <i>Provided, however</i>, That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this Act, shall be subjected hereto as fully as if subject hereto by the express provisions of this Act: <i>Provided further</i>, That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea from ports of the United States, in foreign trade, shall contain a statement that it shall have effect subject to the provisions of this Act.
+"Sec. 13. This Act shall apply to all contracts for carriage of goods by sea to or from ports of the United States in foreign trade. As used in this Act the term 'United States' includes its districts, territories, and possessions: <i>Provided, however</i>, That the Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands. The term 'foreign trade' means the transportation of goods between the ports of the United States and ports of foreign countries. Nothing in this Act shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possessions: <i>Provided, however</i>, That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this Act, shall be subjected hereto as fully as if subject hereto by the express provisions of this Act: <i>Provided further</i>, That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea from ports of the United States, in foreign trade, shall contain a statement that it shall have effect subject to the provisions of this Act.
 
 "\[As to proviso in second sentence that Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands, see Proc. No. 2695, set out under section 1394 of Title 22, Foreign Relations and Intercourse, which proclaimed the independence of the Philippines.\]
 

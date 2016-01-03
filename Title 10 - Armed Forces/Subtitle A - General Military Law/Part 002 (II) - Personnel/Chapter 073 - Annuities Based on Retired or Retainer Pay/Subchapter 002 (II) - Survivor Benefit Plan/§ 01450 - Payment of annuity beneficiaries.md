@@ -18,7 +18,7 @@ Dependent children.—The dependent children in equal shares if the person to wh
 
 &emsp;(4)
 
-Special needs trusts for sole benefit of certain dependent children.—Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act (42 U.S.C. 1396p(d)(4)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act (42U.S.C. 1382c(a)(3)) who is incapable of self-support because of mental or physical incapacity.
+Special needs trusts for sole benefit of certain dependent children.—Notwithstanding subsection (i), a supplemental or special needs trust established under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act (42 U.S.C. 1396p(d)(4)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act (42 U.S.C. 1382c(a)(3)) who is incapable of self-support because of mental or physical incapacity.
 
 &emsp;(5)
 
@@ -456,7 +456,7 @@ Subsec. (f)(2). Pub. L. 98–94, §941(c)(3)(B), substituted "or annulment," for
 
 <b>1982</b>—Subsec. (a)(4). Pub. L. 97–252, §1003(c), substituted "former spouse or other natural person" for "natural person" and "unless the election to provide an annuity to the former spouse or other natural person has been changed as provided in subsection (f)" for "if there is no eligible beneficiary under clause (1) or clause (2)".
 
-Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated byhim under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
+Subsec. (f). Pub. L. 97–252, §1003(d), designated existing provisions as par. (1), substituted "A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2) of this subsection," for "An unmarried person who elects to provide an annuity to a person designated by him under subsection (a)(4), but who later marries or acquires a dependent child,", inserted provision that the Secretary concerned notify the former spouse or such other natural person previously designated under section 1448(b) of any such change in election, and added pars. (2) and (3).
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted "Office of Personnel Management" for "Civil Service Commission".
 

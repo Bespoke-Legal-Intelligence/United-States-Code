@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institutes of Health (in this section referred to as the "Director"), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the "Program"). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
+The Secretary, acting through the Director of the National Institutes of Health (in this sectionreferred to as the "Director"), shall establish a comprehensive program of conducting basic and clinical research on trauma (in this section referred to as the "Program"). The Program shall include research regarding the diagnosis, treatment, rehabilitation, and general management of trauma.
 
 #### (b) Plan for Program
 

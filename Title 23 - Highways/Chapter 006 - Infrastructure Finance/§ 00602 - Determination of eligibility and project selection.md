@@ -6,7 +6,7 @@ Eligibility.—
 
 &emsp;(1)
 
-In general.—A project shall be eligible to receive credit assistance under this chapter if—
+In general.—A project shall be eligible to receive credit assistance under the TIFIA program if—
 
 &emsp;&emsp;(A) the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and
 
@@ -18,7 +18,7 @@ Creditworthiness.—
 
 &emsp;&emsp;(A)
 
-In general.—To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
+In general.—To be eligible for assistance under the TIFIA program, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
 
 &emsp;&emsp;&emsp;(i) a rate covenant, if applicable;
 
@@ -26,7 +26,7 @@ In general.—To be eligible for assistance under this chapter, a project shall 
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agencyopinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Senior debt.—Notwithstanding subparagraph (A), in a case in which the Federal 
 
 &emsp;(3)
 
-Inclusion in transportation plans and programs.—A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+Inclusion in transportation plans and programs.—A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under the TIFIA program.
 
 &emsp;(4)
 
@@ -42,21 +42,41 @@ Application.—A State, local government, public authority, public-private partn
 
 &emsp;(5)
 
-Eligible project costs.—
+Eligible project cost parameters.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
+In general.—Except as provided in subparagraph (B), a project under the TIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i)(I) $50,000,000; or
+&emsp;&emsp;&emsp;(i) $50,000,000; and
 
-&emsp;&emsp;&emsp;(II) in the case of a rural infrastructure project, $25,000,000; and
-
-&emsp;&emsp;&emsp;(ii) 331/3 percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
+&emsp;&emsp;&emsp;(ii) 331/3 percent of the amount of Federal highway funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
 &emsp;&emsp;(B)
 
-Intelligent transportation system projects.—In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+Exceptions.—
+
+&emsp;&emsp;&emsp;(i)
+
+Intelligent transportation systems.—In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+
+&emsp;&emsp;&emsp;(ii)
+
+Transit-oriented development projects.—In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000.
+
+&emsp;&emsp;&emsp;(iii)
+
+Rural projects.—In the case of a rural infrastructure project or a project capitalizing a rural projects fund, eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000, but not to exceed $100,000,000.
+
+&emsp;&emsp;&emsp;(iv)
+
+Local infrastructure projects.—Eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000 in the case of a project or program of projects—
+
+&emsp;&emsp;&emsp;&emsp;(I) in which the applicant is a local government, public authority, or instrumentality of local government;
+
+&emsp;&emsp;&emsp;&emsp;(II) located on a facility owned by a local government; or
+
+&emsp;&emsp;&emsp;&emsp;(III) for which the Secretary determines that a local government is substantially involved in the development of the project.
 
 &emsp;(6)
 
@@ -84,7 +104,7 @@ Applications where obligor will be identified later.—A State, local government
 
 &emsp;(9)
 
-Beneficial effects.—The Secretary shall determine that financial assistance for the project under this chapter will—
+Beneficial effects.—The Secretary shall determine that financial assistance for the project under the TIFIA program will—
 
 &emsp;&emsp;(A) foster, if appropriate, partnerships that attract public and private investment for the project;
 
@@ -94,7 +114,15 @@ Beneficial effects.—The Secretary shall determine that financial assistance fo
 
 &emsp;(10)
 
-Project readiness.—To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for constructionof the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+Project readiness.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), to be eligible for assistance under the TIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by no later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
+
+&emsp;&emsp;(B)
+
+Rural projects fund.—In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.
 
 (b)
 
@@ -102,15 +130,19 @@ Selection Among Eligible Projects.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
+Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are availableto cover the subsidy costs associated with the Federal credit instrument.
 
 &emsp;(2)
 
-Adequate funding not available.—If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+Master credit agreements.—
 
-&emsp;&emsp;(A) the following fiscal year; and
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) the fiscal year during which additional funds are available to receive credit assistance.
+Program of related projects.—The Secretary may enter into a master credit agreement for a program of related projects secured by a common security pledge on terms acceptable to the Secretary.
+
+&emsp;&emsp;(B)
+
+Adequate funding not available.—If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait to execute a credit instrument until the fiscal year for which additional funds are available to receive credit assistance.
 
 &emsp;(3)
 
@@ -126,7 +158,7 @@ Federal Requirements.—
 
 &emsp;(1)
 
-In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
+In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
 
 &emsp;&emsp;(A) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 
@@ -156,9 +188,9 @@ Approval or denial of application.—Not later than 60 days after the date of is
 
 (e)
 
-Development Phase Activities.—Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+Development Phase Activities.—Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, §2001(b), Dec. 4, 2015, 129 Stat. 1440.)
 
 #### References in Text
 
@@ -169,6 +201,42 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B),
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1), (2)(A), (3). Pub. L. 114–94, §2001(b)(1)(A)–(C), substituted "the TIFIA program" for "this chapter".
+
+Subsec. (a)(5). Pub. L. 114–94, §2001(b)(1)(D)(i), substituted "
+
+Eligible project cost parameters" for "
+
+Eligible project costs" in heading.
+
+Subsec. (a)(5)(A). Pub. L. 114–94, §2001(b)(1)(D)(ii)(I), substituted "subparagraph (B), a project under the TIFIA program" for "subparagraph (B), to be eligible for assistance under this chapter, a project" in introductory provisions.
+
+Subsec. (a)(5)(A)(i). Pub. L. 114–94, §2001(b)(1)(D)(ii)(II), added cl. (i) and struck out former cl. (i) which read as follows:
+
+"(I) $50,000,000; or
+
+"(II) in the case of a rural infrastructure project, $25,000,000; and".
+
+Subsec. (a)(5)(A)(ii). Pub. L. 114–94, §2001(b)(1)(D)(ii)(III), struck out "assistance" after "highway".
+
+Subsec. (a)(5)(B). Pub. L. 114–94, §2001(b)(1)(D)(iii), substituted "
+
+Exceptions" for "
+
+Intelligent transportation system projects" in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
+
+Subsec. (a)(9). Pub. L. 114–94, §2001(b)(1)(E), substituted "the TIFIA program" for "this chapter" in introductory provisions.
+
+Subsec. (a)(10). Pub. L. 114–94, §2001(b)(1)(F), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted "Except as provided in subparagraph (B), to be eligible" for "To be eligible", "the TIFIA program" for "this chapter" in two places, and "no later than" for "not later than", and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 114–94, §2001(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+
+&emsp;"(A) the following fiscal year; and
+
+&emsp;"(B) the fiscal year during which additional funds are available to receive credit assistance."
+
+Subsecs. (c)(1), (e). Pub. L. 114–94, §2001(b)(3), (4), substituted "the TIFIA program" for "this chapter".
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to determination of eligibility and project selection, consisting of subsecs. (a) to (c).
 
@@ -205,6 +273,10 @@ Subsec. (b)(2)(A)(viii). Pub. L. 109–59, §1602(b)(2), inserted "and chapter 1
 Subsec. (b)(2)(B). Pub. L. 109–59, §1601(c)(2), inserted ", which may be the Federal credit instrument," after "obligations".
 
 Subsec. (c). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter" in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

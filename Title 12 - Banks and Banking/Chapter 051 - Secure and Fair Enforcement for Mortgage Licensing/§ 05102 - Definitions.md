@@ -42,7 +42,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (D) Real estate brokerage activity defined
 
-&emsp;&emsp;The term "real estate brokerage activity" means any activity that involves offering or providing real estate brokerage services to the public, including—
+&emsp;&emsp;The term "real estate brokerage activity" means any activity that involves offering orproviding real estate brokerage services to the public, including—
 
 &emsp;&emsp;&emsp;(i) acting as a real estate agent or real estate broker for a buyer, seller, lessor, or lessee of real property;
 

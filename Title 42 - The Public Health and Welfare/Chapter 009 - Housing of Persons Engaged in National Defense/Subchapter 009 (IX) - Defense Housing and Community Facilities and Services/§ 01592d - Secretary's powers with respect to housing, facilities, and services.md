@@ -26,7 +26,7 @@ Subchapter X, referred to in subsecs. (a), (b), and (c), was in the original, ti
 
 In subsec. (a), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended" and "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b), "section 3114(a) to (d) of title 40" substituted for "the first section of the Act of February 26,1931 (46 Stat. 1421)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), "section 3114(a) to (d) of title 40" substituted for "the first section of the Act of February 26, 1931 (46 Stat. 1421)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ In subsec. (b), "section 3114(a) to (d) of title 40" substituted for "the first 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) ofPub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 

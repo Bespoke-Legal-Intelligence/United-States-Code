@@ -28,7 +28,19 @@ Effective Dates of Standards.—The Secretary shall specify the effective date o
 
 Year Plan for Testing Standards.—The Secretary shall establish and periodically review and update on a continuing basis a 5-year plan for testing motor vehicle safety standards prescribed under this chapter that the Secretary considers capable of being tested. In developing the plan and establishing testing priorities, the Secretary shall consider factors the Secretary considers appropriate, consistent with section 30101 of this title and the Secretary's other duties and powers under this chapter. The Secretary may change at any time those priorities to address matters the Secretary considers of greater priority. The initial plan may be the 5-year plan for compliance testing in effect on December 18, 1991.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 944.)
+(f)
+
+Motor Vehicle Safety Guidelines.—
+
+&emsp;(1)
+
+In general.—No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+
+&emsp;(2)
+
+Rule of construction.—Nothing in this subsection shall be construed to confer any authority upon or negate any authority of the Secretary to issue guidelines under this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 944; Pub. L. 114–94, div. B, title XXIV, §24406, Dec. 4, 2015, 129 Stat. 1725.)
 
 Historical and Revision Notes
 
@@ -86,6 +98,10 @@ In subsection (e), the words "duties and powers" are substituted for "responsibi
 
 Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former section 313 of Title 23, Highways.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
+
 #### Rulemaking on Visibility of Agricultural Equipment
 
 Pub. L. 112–141, div. C, title I, §31601, July 6, 2012, 126 Stat. 775, provided that:
@@ -132,7 +148,7 @@ Limitations.—
 
 &emsp;"(1)
 
-Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with anyadopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
+Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with any adopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule.
 
 &emsp;"(2)
 
@@ -144,11 +160,11 @@ No effect on additional materials and equipment.—Any rule promulgated pursuant
 
 #### Unattended Passenger Reminders
 
-Pub. L. 112–141, div. C, title I, §31504, July 6, 2012, 126 Stat. 775, provided that:
+Pub. L. 112–141, div. C, title I, §31504, July 6, 2012, 126 Stat. 775, as amended by Pub. L. 114–94, div. B, title XXIV, §24114, Dec. 4, 2015, 129 Stat. 1710, provided that:
 
 "(a)
 
-Safety Research Initiative.—The Secretary \[of Transportation\] may initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions.
+Safety Research Initiative.—The Secretary \[of Transportation\] shall initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions.
 
 "(b)
 
@@ -220,7 +236,7 @@ Consideration.—When conducting the required rulemaking, the Secretary shall—
 
 "(c)
 
-Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or after September 1st of the calendar year that begins 3 years after the date on which the final rule is issued.
+Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or afterSeptember 1st of the calendar year that begins 3 years after the date on which the final rule is issued.
 
 "(d)
 
@@ -236,7 +252,7 @@ Required Consultation.—When conducting the required study and rulemaking, the 
 
 "(e)
 
-Required Study and Report to Congress.—Not later than 48 months after the date of enactment ofthis Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
+Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under section 30111 of title 49, United States Code, to extend the standard to conventional motor vehicles.
 
 #### "SEC. 4. FUNDING.
 

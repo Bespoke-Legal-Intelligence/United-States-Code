@@ -16,7 +16,7 @@ Within 180 days after December 16, 1974, the Administrator shall list in the Fed
 
 (B) Within 270 days of any amendment of a regulation under section 300h of this title revising or adding any requirement respecting State underground injection control programs, each State listed under subsection (a) of this section shall submit (in such form and manner as the Administrator may require) a notice to the Administrator containing a showing satisfactory to him that the State underground injection control program meets the revised or added requirement.
 
-(2) Within ninety days after the State's application under paragraph (1)(A) or notice underparagraph (1)(B) and after reasonable opportunity for presentation of views, the Administrator shall by rule either approve, disapprove, or approve in part and disapprove in part, the State's underground injection control program.
+(2) Within ninety days after the State's application under paragraph (1)(A) or notice under paragraph (1)(B) and after reasonable opportunity for presentation of views, the Administrator shall by rule either approve, disapprove, or approve in part and disapprove in part, the State's underground injection control program.
 
 (3) If the Administrator approves the State's program under paragraph (2), the State shall have primary enforcement responsibility for underground water sources until such time as the Administrator determines, by rule, that such State no longer meets the requirements of clause (i) or (ii) of paragraph (1)(A) of this subsection.
 

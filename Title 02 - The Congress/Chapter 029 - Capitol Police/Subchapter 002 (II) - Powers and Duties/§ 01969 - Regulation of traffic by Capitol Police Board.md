@@ -24,7 +24,7 @@ The District of Columbia Traffic Act of 1925, as amended, referred to in subsec.
 
 #### Codification
 
-Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to b
 
 "District of Columbia Court of General Sessions" changed to "Superior Court of the District of Columbia" pursuant to Pub. L. 91–358, which provided that such change is effective first day of seventh calendar month which begins after July 29, 1970.
 
-Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77, both redesignated the "Municipal Court for the District of Columbia" as the "District of Columbia Court of General Sessions".
+Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77, both redesignatedthe "Municipal Court for the District of Columbia" as the "District of Columbia Court of General Sessions".
 
 #### Effective Date of 1973 Amendment
 

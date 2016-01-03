@@ -92,7 +92,7 @@ Use of Account.—(1) Subject to paragraph (2), to the extent provided in advanc
 
 &emsp;(C) To obtain property support services for property or facilities at Ford Island.
 
-(2) To extent that the authorities provided under subchapter IV of this chapter are available to the Secretary of the Navy, the Secretary may not use the authorities in this section to acquire, construct, or improve family housing units, military unaccompanied housing units, orancillary supporting facilities related to military housing.
+(2) To extent that the authorities provided under subchapter IV of this chapter are available to the Secretary of the Navy, the Secretary may not use the authorities in this section to acquire, construct, or improve family housing units, military unaccompanied housing units, or ancillary supporting facilities related to military housing.
 
 (3)(A) The Secretary may transfer funds from the Ford Island Improvement Account to the following funds:
 

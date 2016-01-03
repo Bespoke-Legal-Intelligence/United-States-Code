@@ -94,7 +94,7 @@ The trustee is responsible to furnish such information concerning the estate and
 
 Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(11), is classified to section 1002 of Title 29, Labor.
 
-Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections664 and 666, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

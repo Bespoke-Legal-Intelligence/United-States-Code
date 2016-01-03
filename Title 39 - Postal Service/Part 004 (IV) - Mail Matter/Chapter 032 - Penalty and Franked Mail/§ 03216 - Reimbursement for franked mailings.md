@@ -14,7 +14,7 @@
 
 (b) Postage on, and fees and charges in connection with, mail matter sent through the mails under section 3214 of this title shall be paid each fiscal year, out of any appropriation made for that purpose, to the Postal Service as postal revenue in an amount equivalent to the postage, fees, and charges which would otherwise be payable on, or in connection with, such mail matter.
 
-(c) Payment under subsection (a) or (b) of this section shall be deemed payment for all mattermailed under the frank and for all fees and charges due the Postal Service in connection therewith.
+(c) Payment under subsection (a) or (b) of this section shall be deemed payment for all matter mailed under the frank and for all fees and charges due the Postal Service in connection therewith.
 
 (d) Money collected for matter improperly mailed under the franking privilege shall be deposited as miscellaneous receipts in the general fund of the Treasury.
 

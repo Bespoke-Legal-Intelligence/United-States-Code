@@ -116,7 +116,7 @@ In this subchapter:
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted "The term 'homeless', used with respect to a youth, means" for "The term 'homeless youth' means" in introductory provisions.
+<b>2008</b>—Par. (3). Pub. L. 110–378, §10(a)(1), substituted "The term 'homeless', used with respect to a youth,means" for "The term 'homeless youth' means" in introductory provisions.
 
 Par. (3)(A)(i). Pub. L. 110–378, §10(a)(2)(A), substituted "less than" for "not more than" in two places and inserted ", or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities" after "18 years of age".
 

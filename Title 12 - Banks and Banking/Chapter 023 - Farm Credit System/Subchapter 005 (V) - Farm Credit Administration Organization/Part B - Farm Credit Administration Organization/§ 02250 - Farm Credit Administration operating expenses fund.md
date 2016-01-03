@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the amount of assessments that will be required to pay such administrative expenses, taking into consideration the funds contained in the Administrative Expense Account, and maintain a necessary reserve; and
 
-&emsp;&emsp;(C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII of this chapter.
+&emsp;&emsp;(C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII.
 
 #### (2) Apportionments
 
@@ -26,7 +26,7 @@
 
 #### (1) Treasury fund
 
-&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
+&emsp;The amounts collected under subsection (a) shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
 
 #### (2) Nongovernment funds
 
@@ -44,13 +44,13 @@
 
 #### (C) Type
 
-&emsp;&emsp;Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking intoconsideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+&emsp;&emsp;Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (Pub. L. 92–181, title V, §5.15, formerly §5.16, Dec. 10, 1971, 85 Stat. 620; renumbered §5.15 and amended Pub. L. 99–205, title II, §§201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, §432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, §416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, §510, Oct. 28, 1992, 106 Stat. 4132.)
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Prior Provisions
 

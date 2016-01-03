@@ -24,7 +24,7 @@ Except as otherwise provided under subsection (c) of this section, a State may r
 
 (B) Prior to the issuance of notice under subparagraph (A) respecting the redesignation of any area under this subsection, if such area includes any Federal lands, the State shall provide written notice to the appropriate Federal land manager and afford adequate opportunity (but not in excess of 60 days) to confer with the State respecting the intended notice of redesignation and to submit written comments and recommendations with respect to such intended notice of redesignation. In redesignating any area under this section with respect to which any Federal land manager has submitted written comments and recommendations, the State shall publish a list of any inconsistency between such redesignation and such recommendations and an explanation of such inconsistency (together with the reasons for making such redesignation against the recommendation of the Federal land manager).
 
-(C) The Administrator shall promulgate regulations not later than six months after August 7, 1977, to assure, insofar as practicable, that prior to any public hearing on redesignation of any area, there shall be available for public inspection any specific plans for any new or modified major emitting facility which may be permittedto be constructed and operated only if the area in question is designated or redesignated as class III.
+(C) The Administrator shall promulgate regulations not later than six months after August 7, 1977, to assure, insofar as practicable, that prior to any public hearing on redesignation of any area, there shall be available for public inspection any specific plans for any new or modified major emitting facility which may be permitted to be constructed and operated only if the area in question is designated or redesignated as class III.
 
 (2) The Administrator may disapprove the redesignation of any area only if he finds, after notice and opportunity for public hearing, that such redesignation does not meet the procedural requirements of this section or is inconsistent with the requirements of section 7472(a) of this title or of subsection (a) of this section. If any such disapproval occurs, the classification of the area shall be that which was in effect prior to the redesignation which was disapproved.
 
@@ -46,7 +46,7 @@ If any State affected by the redesignation of an area by an Indian tribe or any 
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–549, which directed the insertion of "The extent of the areas referred to in paragraph (1) and (2) shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990." before "Any area (other than an area referred to in paragraph (1) or (2))", was executed by making the insertion before "Any area (other than an area referred to in paragraph (1) or (2)", to reflect the probable intent of Congress.
 
-<b>1977</b>—Subsec. (b)(2). Pub. L. 95–190, §14(a)(42), inserted "or is inconsistent with the requirements of section 7472(a) of this title or of subsection (a) of this section" after "this section".
+<b>1977</b>—Subsec. (b)(2). Pub. L. 95–190, §14(a)(42), inserted "or is inconsistent with the requirements of section7472(a) of this title or of subsection (a) of this section" after "this section".
 
 Subsec. (e). Pub. L. 95–190, §14(a)(43), inserted "an" after "If any State affected by the redesignation of".
 

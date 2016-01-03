@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $100 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $1,500,000.
+&emsp;In the case of each failure described in paragraph (2) by any person with respect to a payee statement, such person shall pay a penalty of $250 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $3,000,000.
 
 #### (2) Failures subject to penalty
 
@@ -20,17 +20,17 @@
 
 &emsp;If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the date prescribed for furnishing such statement—
 
-&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
+&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $50 in lieu of $250, and
 
-&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $500,000.
 
 #### (2) Failures corrected on or before August 1
 
 &emsp;If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs—
 
-&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
+&emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
-&emsp;&emsp;(B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $500,000.
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
 #### (c) Exception for de minimis failures
 
@@ -60,11 +60,11 @@
 
 &emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting "$500,000" for "$1,500,000",
+&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting "$1,000,000" for "$3,000,000",
 
-&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting "$75,000" for "$250,000", and
+&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting "$175,000" for "$500,000", and
 
-&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting "$200,000" for "$500,000".
+&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting "$500,000" for "$1,500,000".
 
 #### (2) Gross receipts test
 
@@ -76,7 +76,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 &emsp;(1) subsections (b), (c), and (d) shall not apply,
 
-&emsp;(2) the penalty imposed under subsection (a)(1) shall be $250, or, if greater—
+&emsp;(2) the penalty imposed under subsection (a)(1) shall be $500, or, if greater—
 
 &emsp;&emsp;(A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent of the aggregate amount of the items required to be reported correctly, or
 
@@ -84,7 +84,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 &emsp;(3) in the case of any penalty determined under paragraph (2)—
 
-&emsp;&emsp;(A) the $1,500,000 limitation under subsection (a) shall not apply, and
+&emsp;&emsp;(A) the $3,000,000 limitation under subsection (a) shall not apply, and
 
 &emsp;&emsp;(B) such penalty shall not be taken into account in applying such limitation to penalties not determined under paragraph (2).
 
@@ -102,9 +102,63 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390; Pub. L. 111–240, title II, §2102(g), Sept. 27, 2010, 124 Stat. 2562; Pub. L. 113–295, div. A, title II, §207(a)(2), (3), div. B, title II, §208(g), Dec. 19, 2014, 128 Stat. 4027, 4028, 4074.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2733; amended Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2390; Pub. L. 111–240, title II, §2102(g), Sept. 27, 2010, 124 Stat. 2562; Pub. L. 113–295, div. A, title II, §207(a)(2),\(3), div. B, title II, §208(g), Dec. 19, 2014, 128 Stat. 4027, 4028, 4074; Pub. L. 114–27, title VIII, §806(e), June 29, 2015, 129 Stat. 417; Pub. L. 114–113, div. Q, title II, §202(b), Dec. 18, 2015, 129 Stat. 3077.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 114–113, div. Q, title II, §202(b), (e), Dec. 18, 2015, 129 Stat. 3077, 3078, provided that, applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, subsection (c) of this section is amended by adding at the end the following new paragraph:</i>
+
+#### <i>(3) Safe harbor for certain de minimis errors</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>If, with respect to any payee statement—</i>
+
+&emsp;&emsp;&emsp;<i>(i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,</i>
+
+&emsp;&emsp;&emsp;<i>(ii) no single amount in error differs from the correct amount by more than $100, and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,</i>
+
+> &emsp;&emsp;<i>then no correction shall be required and, for purposes of this section, such statement shall be treated as having been filed with all of the correct required information.</i>
+
+#### <i>(B) Exception</i>
+
+&emsp;&emsp;<i>Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.</i>
+
+#### <i>(C) Regulatory authority</i>
+
+&emsp;&emsp;<i>The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.</i>
+
+<i>See 2015 Amendment note below.</i>
+
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–27, §806(e)(1), substituted "$250" for "$100" and "$3,000,000" for "$1,500,000".
+
+Subsec. (b)(1)(A). Pub. L. 114–27, §806(e)(2)(A)(i), (ii), substituted "$50" for "$30" and "$250" for "$100".
+
+Subsec. (b)(1)(B). Pub. L. 114–27, §806(e)(2)(A)(iii), substituted "$500,000" for "$250,000".
+
+Subsec. (b)(2)(A). Pub. L. 114–27, §806(e)(2)(B)(i), (ii), substituted "$100" for "$60" and "$250" for "$100".
+
+Subsec. (b)(2)(B). Pub. L. 114–27, §806(e)(2)(B)(iii), substituted "$1,500,000" for "$500,000".
+
+Subsec. (c)(3). Pub. L. 114–113 added par. (3).
+
+Subsec. (d)(1)(A). Pub. L. 114–27, §806(e)(3)(A), substituted "$1,000,000" for "$500,000" and "$3,000,000" for "$1,500,000".
+
+Subsec. (d)(1)(B). Pub. L. 114–27, §806(e)(3)(B), substituted "$175,000" for "$75,000" and "$500,000" for "$250,000".
+
+Subsec. (d)(1)(C). Pub. L. 114–27, §806(e)(3)(C), substituted "$500,000" for "$200,000" and "$1,500,000" for "$500,000".
+
+Subsec. (e)(2). Pub. L. 114–27, §806(e)(4)(A), substituted "$500" for "$250" in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 114–27, §806(e)(4)(B), substituted "$3,000,000" for "$1,500,000".
 
 <b>2014</b>—Subsecs. (b)(1), (2), (c)(1)(C). Pub. L. 113–295, §207(a)(2), substituted "the date prescribed for furnishing such statement" for "the required filing date".
 
@@ -115,6 +169,12 @@ Subsec. (f)(1). Pub. L. 113–295, §208(g), substituted "In the case of any fai
 <b>2010</b>—Pub. L. 111–240 amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
 
 <b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–113 applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see section 202(e) of Pub. L. 114–113, set out as a note under section 6045 of this title.
+
+Amendment by Pub. L. 114–27 applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see section 806(f) of Pub. L. 114–27, set out as a note under section 6721 of this title.
 
 #### Effective Date of 2014 Amendment
 

@@ -52,7 +52,7 @@ Reallocation by secretary.—The Secretary shall allocate, for purposes of admin
 
 (6)
 
-Use of administrative funds.—Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1)) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) without regard to thebasis on which the funds were earned and allocated.
+Use of administrative funds.—Funds available to a State under this subsection and under section 13(k)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1)) may be used by the State for the costs of administration of the programs authorized under this chapter (except for the programs authorized under sections 1786 and 1790 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) without regard to the basis on which the funds were earned and allocated.
 
 (7) Where the Secretary is responsible for the administration of programs under this chapter or the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be retained by the Secretary for the Secretary's use in the administration of such programs.
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (B) Plan contents
 
-&emsp;&emsp;Each State plan shall, at a minimum, include a description of how technology and information management systems will be used to improve program integrity by—
+&emsp;&emsp;Each State plan shall, at a minimum, include a description of how technology andinformation management systems will be used to improve program integrity by—
 
 &emsp;&emsp;&emsp;(i) monitoring the nutrient content of meals served;
 
@@ -102,7 +102,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 #### (f) State funding requirement
 
-Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title) and the Richard B. Russell NationalSchool Lunch Act \[42 U.S.C. 1751 et seq.\] (except section 13 of that Act \[42 U.S.C. 1761\]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
+Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title) and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] (except section 13 of that Act \[42 U.S.C. 1761\]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
 
 #### (g) Professional standards for school food service
 
@@ -264,7 +264,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and informationmanagement systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -282,7 +282,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (j) Authorization of appropriations
 
-For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending beforeOctober 1, 2015, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
+For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2015, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
 
 (Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §243(j), June 20, 2000, 114 Stat. 420; Pub. L. 108–265, title I, §126(c), title II, §202, June 30, 2004, 118 Stat. 765, 769; Pub. L. 111–296, title III, §306, title IV, §§421, 422, 441(b)(1), Dec. 13, 2010, 124 Stat. 3243, 3260, 3264.)
 
@@ -328,7 +328,7 @@ Pub. L. 108–265, §126(c)(2), redesignated subsec. (g) as (j).
 
 <b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
 
-Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
+Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsectionand under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
 
 Subsec. (g). Pub. L. 105–336, §202(c), substituted "2003" for "1998".
 
@@ -342,7 +342,7 @@ Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read a
 
 Subsec. (i). Pub. L. 104–193, §724(a)(2), redesignated subsec. (i) as (g).
 
-<b>1994</b>—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted "projects under section 17B of the National School Lunch Act" for "projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))" and substituted "fiscal year 1995 andeach subsequent fiscal year" for "each of fiscal years 1993 and 1994" in two places.
+<b>1994</b>—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted "projects under section 17B of the National School Lunch Act" for "projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))" and substituted "fiscal year 1995 and each subsequent fiscal year" for "each of fiscal years 1993 and 1994" in two places.
 
 Subsec. (a)(9). Pub. L. 103–448, §202(a), added par. (9).
 

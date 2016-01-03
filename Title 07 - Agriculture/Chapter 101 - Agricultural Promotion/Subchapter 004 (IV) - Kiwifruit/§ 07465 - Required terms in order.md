@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;The order shall provide for the imposition and collection of assessments with regard to the production and importation of kiwifruit in accordance with this subsection.
+&emsp;The order shall provide for the imposition and collection of assessments with regard tothe production and importation of kiwifruit in accordance with this subsection.
 
 #### (2) Rate
 

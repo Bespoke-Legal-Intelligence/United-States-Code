@@ -2,7 +2,7 @@
 
 (a)
 
-Authority of Executive Agencies.—In acquiring personal property, an executive agencymay exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
+Authority of Executive Agencies.—In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
 
 (b)
 

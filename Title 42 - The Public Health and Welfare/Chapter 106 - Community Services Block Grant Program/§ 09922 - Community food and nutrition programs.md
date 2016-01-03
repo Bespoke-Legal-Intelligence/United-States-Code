@@ -18,7 +18,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (A) Allotments
 
-&emsp;&emsp;From a portion equal to 60 percent of such amount (but not to exceed $3,600,000), the Secretary shall allot for grants to eligible agencies for statewide programs in each State the amount that bears the same ratio to such portion as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
+&emsp;&emsp;From a portion equal to 60 percent of such amount (but not to exceed $3,600,000), the Secretary shall allot for grants to eligible agencies for statewide programs in each State the amount that bears the same ratioto such portion as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
 
 #### (B) Competitive grants
 

@@ -92,7 +92,7 @@
 
 > The chairman of the special panel may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic paypayable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
+(B) The chairman is entitled to pay at a rate equal to the maximum annual rate of basic pay payable under the General Schedule for each day he is engaged in the performance of official business on the work of the special panel.
 
 (C) The Board and the Commission shall provide such administrative assistance to the special panel as may be necessary and, to the extent practicable, shall equally divide the costs of providing the administrative assistance.
 

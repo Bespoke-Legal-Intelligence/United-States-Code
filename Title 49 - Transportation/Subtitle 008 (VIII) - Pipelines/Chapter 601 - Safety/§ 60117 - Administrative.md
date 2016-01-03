@@ -34,7 +34,7 @@ Testing Facilities Involved in Accidents.—The Secretary may require testing of
 
 &emsp;(1) notifying the appropriate State official in the State in which the facility is located; and
 
-&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of thefacility and, when the Secretary considers appropriate, the National Transportation Safety Board.
+&emsp;(2) attempting to negotiate a mutually acceptable plan for testing with the owner of the facility and, when the Secretary considers appropriate, the National Transportation Safety Board.
 
 (g)
 
@@ -70,7 +70,7 @@ Safety Orders.—
 
 &emsp;(1)
 
-In general.—Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
+In general.—Not later than December 31, 2007, the Secretary shall issue regulations providing that, after notice and opportunity for a hearing, if the Secretary determines that a pipeline facility has a condition that poses a pipeline integrity risk to public safety, property, or the environment, the Secretary mayorder the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, or other appropriate action, to remedy that condition.
 
 &emsp;(2)
 
@@ -116,7 +116,7 @@ Projects to which applicable.—Subparagraph (A) applies to any project that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the cost estimate provided to the Federal Energy Regulatory Commission in an application for a certificate of public convenience and necessity for a gas pipeline facility or an application for authorization for a liquefied natural gas pipeline facility; or
 
-&emsp;&emsp;&emsp;&emsp;(II) a good faith estimate developed by the person proposing a hazardous liquidpipeline facility and submitted to the Secretary; or
+&emsp;&emsp;&emsp;&emsp;(II) a good faith estimate developed by the person proposing a hazardous liquid pipeline facility and submitted to the Secretary; or
 
 &emsp;&emsp;&emsp;(ii) uses new or novel technologies or design, as determined by the Secretary.
 
@@ -356,7 +356,7 @@ Subsecs. (m), (n). Pub. L. 109–468, §§11, 17, added subsecs. (m) and (n).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–304, §19, inserted "and promotional activities relating to prevention of damage to pipeline facilities" after "and training activities".
 
-Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted "owning" for "transporting gas or hazardous liquid" and inserted at end "The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines."
+Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted "owning" for "transporting gas or hazardous liquid"and inserted at end "The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines."
 
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
@@ -408,7 +408,7 @@ Minimum Requirements.—In revising the regulations, the Secretary, at a minimum
 
 &emsp;"(2) review procedures for owners and operators of pipeline facilities and the National Response Center to provide thorough and coordinated notification to all relevant State and local emergency response officials, including 911 emergency call centers, for the jurisdictions in which those pipeline facilities are located in the event of an accident or incident, and revise such procedures as appropriate; and
 
-&emsp;"(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with anestimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
+&emsp;"(3) require such owners and operators to revise their initial telephonic or electronic notice to the Secretary and the National Response Center with an estimate of the amount of the product released, an estimate of the number of fatalities and injuries, if any, and any other information determined appropriate by the Secretary within 48 hours of the accident or incident, to the extent practicable.
 
 "(c)
 

@@ -14,7 +14,7 @@
 
 In any State in which the Administrator has approved the State plan required by section 796c of this title, the Administrator may make a grant under this section to any eligible agency that—
 
-&emsp;(1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center for independent living, and funds from other public and private programs;
+&emsp;(1) has the power and authority to carry out the purpose of this subpart and perform the functions set forth in section 796f–4 of this title within a community and to receive and administer funds under this subpart, funds and contributions from private or public sources that may be used in support of a center forindependent living, and funds from other public and private programs;
 
 &emsp;(2) is determined by the Administrator to be able to plan, conduct, administer, and evaluate a center for independent living consistent with the standards and assurances set forth in section 796f–4 of this title; and
 
@@ -28,7 +28,7 @@ In the administration of the provisions of this section, the Administrator shall
 
 #### (1) In general
 
-&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, theAdministrator may award a grant under this section to the most qualified applicant proposing to serve such region. The Administrator's determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
+&emsp;If there is no center for independent living serving a region of the State or a region is underserved, and the increase in the allotment of the State is sufficient to support an additional center for independent living in the State, the Administrator may award a grant under this section to the most qualified applicant proposing to serve such region. The Administrator's determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.
 
 #### (2) Selection
 

@@ -20,7 +20,7 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;(1) has information resources management duties as that official's primary duty;
 
-&emsp;(2) monitors the performance of information technology programs of the agency, evaluatesthe performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; and
+&emsp;(2) monitors the performance of information technology programs of the agency, evaluates the performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; and
 
 &emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(28), 1115–1117, and 9703 (as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)) of title 31—
 

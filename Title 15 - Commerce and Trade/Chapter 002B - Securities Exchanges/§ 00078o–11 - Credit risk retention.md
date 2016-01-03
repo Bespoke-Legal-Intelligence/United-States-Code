@@ -4,7 +4,7 @@
 
 In this section—
 
-&emsp;(1) the term "Federal banking agencies" means the Office of the Comptroller of theCurrency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
+&emsp;(1) the term "Federal banking agencies" means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
 
 &emsp;(2) the term "insured depository institution" has the same meaning as in section 1813(c) of title 12;
 
@@ -102,7 +102,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 &emsp;&emsp;(B) whether the form or volume of transactions in securitization markets creates incentives for imprudent origination of the type of loan or asset to be sold to the securitizer; and
 
-&emsp;&emsp;(C) the potential impact of the risk retention obligations on the access of consumers and businesses to credit on reasonable terms, which may not include the transfer of credit risk to a third party.
+&emsp;&emsp;(C) the potential impact of the risk retention obligations on the access of consumers and businesses to credit on reasonableterms, which may not include the transfer of credit risk to a third party.
 
 #### (e) Exemptions, exceptions, and adjustments
 

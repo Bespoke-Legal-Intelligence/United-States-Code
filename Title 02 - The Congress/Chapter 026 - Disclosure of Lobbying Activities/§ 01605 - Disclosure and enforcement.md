@@ -32,7 +32,7 @@ The Secretary of the Senate and the Clerk of the House of Representatives shallâ
 
 &emsp;&emsp;(C) provides electronic links or other appropriate mechanisms to allow users to obtain relevant information in the database of the Federal Election Commission;
 
-&emsp;(10) retain the information contained in a registration or report filed under this chapter for a period of 6 years after the registration or report (as the case may be) is filed; and
+&emsp;(10) retain the information contained in a registration or report filed under this chapterfor a period of 6 years after the registration or report (as the case may be) is filed; and
 
 &emsp;(11) make publicly available, on a semiannual basis, the aggregate number of registrants referred to the United States Attorney for the District of Columbia for noncompliance as required by paragraph (8).
 

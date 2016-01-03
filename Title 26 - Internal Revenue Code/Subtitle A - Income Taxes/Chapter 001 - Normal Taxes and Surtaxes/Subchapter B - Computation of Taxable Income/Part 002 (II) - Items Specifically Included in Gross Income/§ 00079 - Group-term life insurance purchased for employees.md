@@ -26,7 +26,7 @@ Subsection (a) shall not apply to—
 
 #### (c) Determination of cost of insurance
 
-For purposes of this section and section 6052, the cost of group-term insurance on the life of an employee provided during any period shall be determined on the basis of uniform premiums (computed on the basis of 5-year age brackets) prescribed by regulations by the Secretary.
+For purposes of this section and section 6052, the cost of group-term insurance on the life ofan employee provided during any period shall be determined on the basis of uniform premiums (computed on the basis of 5-year age brackets) prescribed by regulations by the Secretary.
 
 #### (d) Nondiscrimination requirements
 
@@ -82,7 +82,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 #### (5) Special rule
 
-&emsp;A plan shall not fail to meet the requirements of paragraph (2)(B) merely because theamount of life insurance on behalf of the employees under the plan bears a uniform relationship to the total compensation or the basic or regular rate of compensation of such employees.
+&emsp;A plan shall not fail to meet the requirements of paragraph (2)(B) merely because the amount of life insurance on behalf of the employees under the plan bears a uniform relationship to the total compensation or the basic or regular rate of compensation of such employees.
 
 #### (6) Key employee defined
 
@@ -120,7 +120,7 @@ For purposes of this section, the term "employee" includes a former employee.
 
 Subsection (b)(3) and section 72(m)(3) shall not apply in the case of any cost paid (whether directly or indirectly) with assets held in an applicable life insurance account (as defined in section 420(e)(4)) under a defined benefit plan.
 
-(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 112–141, div. D, title II, §40242(d), July 6, 2012, 126 Stat. 861.)
+(Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 112–141, div. D, title II, §40242(d), July 6, 2012, 126 Stat. 861.)
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Pub. L. 101–508, title XI, §11703(e)(2), Nov. 5, 1990, 104 Stat. 1388–517, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–140, title II, §203(c), Nov. 8, 1989, 103 Stat. 832, provided that: "The amendments made by this section \[amending this section and sections 105, 117, 120, 125, 127, 129, 132, 162, 401, 414, 505, 3121, 3231, 3306, 3401,4976, and 6652 of this title, section 409 of title 42, The Public Health and Welfare, and provisions set out as notes under sections 89 and 3121 of this title\] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see section 1151(k) set out below\]."
+Pub. L. 101–140, title II, §203(c), Nov. 8, 1989, 103 Stat. 832, provided that: "The amendments made by this section \[amending this section and sections 105, 117, 120, 125, 127, 129, 132, 162, 401, 414, 505, 3121, 3231, 3306, 3401, 4976, and 6652 of this title, section 409 of title 42, The Public Health and Welfare, and provisions set out as notes under sections 89 and 3121 of this title\] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see section 1151(k) set out below\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -258,7 +258,7 @@ Pub. L. 97–248, title II, §244(b), Sept. 3, 1982, 96 Stat. 524, provided that
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–97 applicable to taxable years beginning after Dec. 31, 1966, see section 106(e) ofPub. L. 89–97, set out as a note under section 213 of this title.
+Amendment by Pub. L. 89–97 applicable to taxable years beginning after Dec. 31, 1966, see section 106(e) of Pub. L. 89–97, set out as a note under section 213 of this title.
 
 #### Effective Date
 

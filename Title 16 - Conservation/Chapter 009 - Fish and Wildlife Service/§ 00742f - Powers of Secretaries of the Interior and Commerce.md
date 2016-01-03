@@ -74,7 +74,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (B) Projects and programs
 
-&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms andconditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
+&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms and conditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
 
 &emsp;&emsp;&emsp;(i) promote the stewardship of resources of the refuge through habitat maintenance, restoration, and improvement, biological monitoring, or research;
 
@@ -118,7 +118,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (2) Refuge programs
 
-&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d) of this section.
+&emsp;Based on the guidance developed under paragraph (1), the Secretary of the Interior may develop or enhance refuge education programs as appropriate, based on the resources of individual refuges and the opportunities available for such programs in State, local, and private schools. In developing and implementing each program, the Secretary should cooperate with State and local education authorities, and may cooperate with partner organizations in accordance with subsection (d).
 
 #### (f) Report
 

@@ -12,7 +12,7 @@
 
 (2) This subsection does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government.
 
-(b) An article to be used by an executive department in the District of Columbia that could be bought out of an appropriation made to a regular contingent fund of the department may notbe bought out of another amount available for obligation.
+(b) An article to be used by an executive department in the District of Columbia that could be bought out of an appropriation made to a regular contingent fund of the department may not be bought out of another amount available for obligation.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, §13213(a), Nov. 5, 1990, 104 Stat. 1388–621.)
 

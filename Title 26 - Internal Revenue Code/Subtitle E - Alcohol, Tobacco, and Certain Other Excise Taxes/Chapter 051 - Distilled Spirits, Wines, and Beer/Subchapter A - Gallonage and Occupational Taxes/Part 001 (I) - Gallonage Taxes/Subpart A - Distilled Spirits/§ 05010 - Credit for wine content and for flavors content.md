@@ -16,7 +16,7 @@
 
 #### (3) Fractional part of proof gallon
 
-&emsp;In the case of any fractional part of a proof gallon of the wine content, or of the flavors content, of distilled spirits, a proportionate credit shall be allowed.
+&emsp;In the case of any fractional part of a proof gallon of the wine content, or of the flavorscontent, of distilled spirits, a proportionate credit shall be allowed.
 
 #### (b) Time for determining and allowing credit
 

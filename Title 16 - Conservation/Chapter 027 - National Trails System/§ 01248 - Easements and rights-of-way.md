@@ -6,7 +6,7 @@ The Secretary of the Interior or the Secretary of Agriculture as the case may be
 
 #### (b) Cooperation of Federal agencies with Secretary of the Interior and Secretary of Agriculture
 
-The Department of Defense, the Department of Transportation, the Surface Transportation Board, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over or information concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
+The Department of Defense, the Department of Transportation, the Surface Transportation Board, the Federal Communications Commission, the Secretary of Energy, and other Federal agencies having jurisdiction or control over orinformation concerning the use, abandonment, or disposition of roadways, utility rights-of-way, or other properties which may be suitable for the purpose of improving or expanding the national trails system shall cooperate with the Secretary of the Interior and the Secretary of Agriculture in order to assure, to the extent practicable, that any such properties having values suitable for trail purposes may be made available for such use.
 
 #### (c) Abandoned railroad grants; retention of rights
 
@@ -14,7 +14,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (d) Location, incorporation, and management
 
-(1) All rights-of-way, or portions thereof, retained by the United States pursuant to subsection (c) of this section which are located within the boundaries of a conservation system unit or a National Forest shall be added to and incorporated within such unit or National Forest and managed in accordance with applicable provisions of law, including this chapter.
+(1) All rights-of-way, or portions thereof, retained by the United States pursuant to subsection (c) which are located within the boundaries of a conservation system unit or a National Forest shall be added to and incorporated within such unit or National Forest and managed in accordance with applicable provisions of law, including this chapter.
 
 (2) All such retained rights-of-way, or portions thereof, which are located outside the boundaries of a conservation system unit or a National Forest but adjacent to or contiguous with any portion of the public lands shall be managed pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\] and other applicable law, including this section.
 
@@ -22,7 +22,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (e) Release and quitclaim; conditions; sale; proceeds
 
-(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c) of this section, if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
+(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c), if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
 
 &emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title, or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
 
@@ -30,7 +30,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 &emsp;(C) Notwithstanding any other provision of law, the United States shall be under no duty to inspect such portion prior to such release and quitclaim, and shall incur no legal liability with respect to any hazard or any unsafe condition existing on such portion at the time of such release and quitclaim.
 
-(2) The Secretary is authorized to sell any portion of a right-of-way retained by the United States pursuant to subsection (c) of this section located outside the boundaries of a conservation system unit or National Forest if any such portion is—
+(2) The Secretary is authorized to sell any portion of a right-of-way retained by the United States pursuant to subsection (c) located outside the boundaries of a conservation system unit or National Forest if any such portion is—
 
 &emsp;(A) not adjacent to or contiguous with any portion of the public lands; or
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;(2) The term "public lands" has the same meaning given such term in the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\].
 
-(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, §5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
+(Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat.578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, §5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
 
 #### References in Text
 
@@ -68,7 +68,7 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Transfer of Functions
 
@@ -92,7 +92,7 @@ Pub. L. 100–470, §2, Oct. 4, 1988, 102 Stat. 2281, provided that: "Congress h
 
 Pub. L. 100–470, §5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 
-"(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set outas notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
+"(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
 "(b) Nothing in this Act shall be construed to expand or diminish existing condemnation authorities contained in the National Trails System Act, as amended \[16 U.S.C. 1241 et seq.\]."
 

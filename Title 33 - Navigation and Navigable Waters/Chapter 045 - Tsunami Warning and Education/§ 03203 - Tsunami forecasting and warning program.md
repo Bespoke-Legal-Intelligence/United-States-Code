@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, through the National Weather Service and in consultation with otherrelevant Administration offices, shall operate a program to provide tsunami detection, forecasting, and warnings for the Pacific and Arctic Ocean regions and for the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region.
+The Administrator, through the National Weather Service and in consultation with other relevant Administration offices, shall operate a program to provide tsunami detection, forecasting, and warnings for the Pacific and Arctic Ocean regions and for the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico region.
 
 #### (b) Components
 

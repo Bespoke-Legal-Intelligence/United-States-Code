@@ -20,7 +20,7 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 &emsp;As used in this subsection, the term "coastal State" means any one of the States of Alabama, Alaska, California, Connecticut, Delaware, Florida, Georgia, Hawaii, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New York, North Carolina, Oregon, Rhode Island, South Carolina, Texas, Virginia, and Washington. The term also includes the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
+(Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Pub. L. 91–503, title II, §204, Oct. 23, 1970, 84 Stat. 1104, provided that: 
 
 #### Short Title
 
-Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: "This Act \[enacting this chapter\] may be cited as the 'Dingell-Johnson Sport Fish Restoration Act'."
+Act Aug. 9, 1950, ch. 658, §15, formerly §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929; renumbered §15, Pub. L. 114–94, div. A, title X, §10001(g)(2), Dec. 4, 2015, 129 Stat. 1621, provided that: "This Act \[enacting this chapter\] may be cited as the 'Dingell-Johnson Sport Fish Restoration Act'."
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the "Federal Aid in Fish Restoration Act" and the "Fish Restoration and Management Projects Act".
 

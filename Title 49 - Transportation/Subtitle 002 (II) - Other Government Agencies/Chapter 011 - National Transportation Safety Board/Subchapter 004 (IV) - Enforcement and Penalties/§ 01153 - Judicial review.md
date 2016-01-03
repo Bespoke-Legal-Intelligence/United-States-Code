@@ -10,7 +10,7 @@ Persons Seeking Judicial Review of Aviation Matters.—(1) A person disclosing a
 
 (2) When a petition is filed under paragraph (1) of this subsection, the clerk of the court immediately shall send a copy of the petition to the Board. The Board shall file with the court a record of the proceeding in which the order was issued.
 
-(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findings of fact by the Board, if supported by substantial evidence, are conclusive.
+(3) When the petition is sent to the Board, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Board to conduct further proceedings. After reasonable notice to the Board, the court may grant interim relief by staying the order or taking other appropriate action when cause for its action exists. Findingsof fact by the Board, if supported by substantial evidence, are conclusive.
 
 (4) In reviewing an order under this subsection, the court may consider an objection to an order of the Board only if the objection was made in the proceeding conducted by the Board or if there was a reasonable ground for not making the objection in the proceeding.
 
@@ -112,7 +112,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §901(a) (3)(D)(v) (related to Ad
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In subsection (a), the text of 49 App.:1903(d) (last sentence) is omitted as unnecessary because 5:ch. 7 applies by its own terms. The words "final order" are substituted for "order, affirmative or negative" in 49 App.:1903(d) and "Decisions of the National Transportation Safety Board made pursuant to the exercise of the functions, powers, and duties enumerated in this subsection shall be administratively final" in 49App.:1655(d) to eliminate unnecessary words. The words "is issued" are substituted for "after the entry" for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1655(d) (last sentence words after last comma) is omitted as unnecessary because of 49 App.:1903(d).
+In subsection (a), the text of 49 App.:1903(d) (last sentence) is omitted as unnecessary because 5:ch. 7 applies by its own terms. The words "final order" are substituted for "order, affirmative or negative" in 49 App.:1903(d) and "Decisions of the National Transportation Safety Board made pursuant to the exercise of the functions, powers, and duties enumerated in this subsection shall be administratively final" in 49 App.:1655(d) to eliminate unnecessary words. The words "is issued" are substituted for "after the entry" for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1655(d) (last sentence words after last comma) is omitted as unnecessary because of 49 App.:1903(d).
 
 In subsection (b)(1), the words "affirmative or negative" are omitted as surplus. The words "related to an aviation matter" are added because the source provisions being restated only apply to aviation matters. The words "is issued" are substituted for "the entry of" for consistency in the revised title and with other titles of the Code.
 

@@ -28,7 +28,7 @@
 
 #### (3) Denial of deduction for club dues
 
-&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowed under this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
+&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowedunder this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
 
 #### (b) Gifts
 
@@ -62,7 +62,7 @@
 
 #### (3) Domestic travel excluded
 
-&emsp;For purposes of this subsection, travel outside the United States does not include anytravel from one point in the United States to another point in the United States.
+&emsp;For purposes of this subsection, travel outside the United States does not include any travel from one point in the United States to another point in the United States.
 
 #### (d) Substantiation required
 
@@ -104,7 +104,7 @@ Subsection (a) shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) is subject to the requirements of section 16(a) of the Securities Exchange Act of 1934 with respect to the taxpayer or a related party to the taxpayer, or
 
-&emsp;&emsp;&emsp;&emsp;(II) would be subject to such requirements if the taxpayer (or such related party) were an issuer of equity securities referred to in such section.
+&emsp;&emsp;&emsp;&emsp;(II) would be subject to such requirements if the taxpayer (or such relatedparty) were an issuer of equity securities referred to in such section.
 
 &emsp;&emsp;&nbsp;For purposes of this clause, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).
 
@@ -448,7 +448,7 @@ For purposes of subsection (d), the term "qualified nonpersonal use vehicle" mea
 
 The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II,§217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117–2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045.)
+(Added Pub. L. 87–834, §4(a)(1), Oct. 16, 1962, 76 Stat. 974; amended Pub. L. 88–272, title II, §217(a), Feb. 26, 1964, 78 Stat. 56; Pub. L. 94–455, title VI, §602(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1572, 1834; Pub. L. 95–600, title III, §361(a), (b), title VII, §701(g)(1)–(3), Nov. 6, 1978, 92 Stat. 2847, 2903, 2904; Pub. L. 96–222, title I, §103(a)(10)(A), (B) Apr. 1, 1980, 94 Stat. 212; Pub. L. 96–598, §5(a), Dec. 24, 1980, 94 Stat. 3488; Pub. L. 96–605, title I, §108(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 96–608, §4(a), Dec. 28, 1980, 94 Stat. 3552; Pub. L. 97–34, title II, §265(a), (b), Aug. 13, 1981, 95 Stat. 265; Pub. L. 97–248, title III, §§307(a)(1), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–424, title V, §543(a), Jan. 6, 1983, 96 Stat. 2195; Pub. L. 98–67, title I, §102(a), title II, §222(a), Aug. 5, 1983, 97 Stat. 369, 395; Pub. L. 98–369, div. A, title I, §179(b)(1), title VIII, §801(c), July 18, 1984, 98 Stat. 718, 995; Pub. L. 99–44, §§1(a), 2, 6(b), May 24, 1985, 99 Stat. 77, 79; Pub. L. 99–514, title I, §§122(c), (d), 142(a)–(c), title XI, §1114(b)(6), Oct. 22, 1986, 100 Stat. 2110, 2117-2120, 2451; Pub. L. 100–647, title I, §§1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, §6003(a), Nov. 10, 1988, 102 Stat. 3351, 3352, 3590, 3684; Pub. L. 101–239, title VII, §§7816(a), 7841(d)(18), Dec. 19, 1989, 103 Stat. 2420, 2429; Pub. L. 101–508, title XI, §11802(b), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 103–66, title XIII, §§13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, 107 Stat. 469, 542; Pub. L. 105–34, title IX, §969(a), Aug. 5, 1997, 111 Stat. 896; Pub. L. 108–357, title VIII, §907(a), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 109–135, title IV, §403(mm), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 113–295, div. A, title II, §221(a)(46), Dec. 19, 2014, 128 Stat. 4045.)
 
 #### References in Text
 
@@ -514,7 +514,7 @@ Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendme
 
 &emsp;"(ii) such item is a qualified plan award."
 
-Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining suchterm in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
+Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining such term in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
 
 Subsec. (e)(1). Pub. L. 99–514, §142(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1), business meals, which read as follows: "Expenses for food and beverages furnished to any individual under circumstances which (taking into account the surroundings in which furnished, the taxpayer's trade, business, or income-producing activity and the relationship to such trade, business, or activity of the persons to whom the food and beverages are furnished) are of a type generally considered to be conducive to a business discussion."
 
@@ -556,7 +556,7 @@ Subsec. (h)(5). Pub. L. 97–424, §543(a)(2), added par. (5).
 
 Subsec. (h)(6). Pub. L. 98–67, §227(a), added par. (6).
 
-<b>1982</b>—Subsec. (e)(3). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (3) is amended by inserting "subchapter A of" before "chapter 24". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (e)(3). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (3) is amended by inserting "subchapter A of" before "chapter 24". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308)of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1981</b>—Subsec. (b)(1)(C). Pub. L. 97–34, §265(a), excluded from term "gift" an award for productivity, designated existing provisions as cl. (i), and as so designated, increased the limitation to $400 from $100, and added cl. (ii).
 
@@ -638,7 +638,7 @@ Pub. L. 99–44, §6(a)–(c), May 24, 1985, 99 Stat. 78, 79, as amended by Pub.
 
 "(a)
 
-Repeals.—The amendment and repeals made by subsections (a) and (b) of section 1 \[amending this section and repealing section 179(b)(2), (3) of Pub. L. 98–369 which had amended sections 6653 and 6695 of this title\] shall take effect as if included in the amendments made by section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].
+Repeals.—The amendment and repeals made by subsections (a) and (b) of section 1 \[amending this section and repealing section 179(b)(2), (3) of Pub. L. 98–369 which had amended sections 6653 and 6695 of this title\] shall take effect as if included in the amendmentsmade by section 179(b) of the Tax Reform Act of 1984 \[Pub. L. 98–369\].
 
 "(b)
 
@@ -674,7 +674,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §361(c), Nov. 6, 1978, 92 Stat. 2847, provided that: "The amendments made by this section \[amending this section\] shall apply to itemspaid or incurred after December 31, 1978, in taxable years ending after such date."
+Pub. L. 95–600, title III, §361(c), Nov. 6, 1978, 92 Stat. 2847, provided that: "The amendments made by this section \[amending this section\] shall apply to items paid or incurred after December 31, 1978, in taxable years ending after such date."
 
 Pub. L. 95–600, title VII, §701(g)(4), Nov. 6, 1978, 92 Stat. 2904, provided that: "The amendments made by this subsection \[amending this section\] shall apply to conventions beginning after December 31, 1976."
 
@@ -716,7 +716,7 @@ For treatment of use of automobile by I.R.S. special agent for purposes of this 
 
 #### Substantiation by Adequate Contemporaneous Records
 
-Pub. L. 99–44, §1(a), May 24, 1985, 99 Stat. 77, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided in part that: "the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word 'contemporaneous' had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\]."
+Pub. L. 99–44, §1(a), May 24, 1985, 99 Stat. 77, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided in part that: "the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if the word 'contemporaneous' had not been added \[by Pub. L. 98–369\] to such subsection (d) \[subsec. (d) of this section\]."
 
 #### Use of Facilities in Case of Independent Contractors, Etc.
 

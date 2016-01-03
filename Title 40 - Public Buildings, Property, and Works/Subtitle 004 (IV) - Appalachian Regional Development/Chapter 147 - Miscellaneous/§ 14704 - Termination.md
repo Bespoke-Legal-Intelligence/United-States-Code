@@ -1,8 +1,8 @@
 ### §14704. Termination
 
-This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2012.
+This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2020.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 109–289, div. B, title II, §20326, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 22; Pub. L. 110–371, §6, Oct. 8, 2008, 122 Stat. 4042.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 109–289, div. B, title II, §20326, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 22; Pub. L. 110–371, §6, Oct. 8, 2008, 122 Stat. 4042; Pub. L. 114–94, div. A, title I, §1436(c), Dec. 4, 2015, 129 Stat. 1431.)
 
 Historical and Revision Notes
 
@@ -22,7 +22,13 @@ Pub. L. 89–4, title IV, §405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123, ti
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–94 substituted "2020" for "2012".
+
 <b>2008</b>—Pub. L. 110–371 substituted "2012" for "2007".
 
 <b>2007</b>—Pub. L. 109–289, §20326, as added by Pub. L. 110–5, substituted "October 1, 2007" for "October 1, 2006".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub. L. 114–94, set out as an Effective Date note under section 14509 of this title.
 

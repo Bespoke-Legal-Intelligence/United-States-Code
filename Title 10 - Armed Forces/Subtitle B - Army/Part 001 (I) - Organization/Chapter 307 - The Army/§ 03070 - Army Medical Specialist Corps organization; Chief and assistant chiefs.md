@@ -1,6 +1,6 @@
 ### §3070. Army Medical Specialist Corps: organization; Chief and assistant chiefs
 
-(a) The Army Medical Specialist Corps consists of the Chief and assistant chiefs of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
+(a) The Army Medical Specialist Corps consists of the Chief and assistant chiefs of thatcorps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
 
 &emsp;(1) The Dietitian Section.
 
@@ -12,7 +12,7 @@
 
 &emsp;(5) The Chiropractic Section.
 
-(b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Armyin that corps whose regular grade is above captain and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed.
+(b) The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above captain and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed.
 
 (c) The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.
 

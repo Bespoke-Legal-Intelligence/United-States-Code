@@ -18,7 +18,7 @@ Absence from the United States for a continuous period of one year or more durin
 
 #### (c) Physical presence
 
-The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified insubsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of this section of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
+The granting of the benefits of subsection (b) of this section shall not relieve the applicant from the requirement of physical presence within the United States for the period specified in subsection (a) of this section, except in the case of those persons who are employed by, or under contract with, the Government of the United States. In the case of a person employed by or under contract with Central Intelligence Agency, the requirement in subsection (b) of an uninterrupted period of at least one year of physical presence in the United States may be complied with by such person at any time prior to filing an application for naturalization.
 
 #### (d) Moral character
 
@@ -80,7 +80,7 @@ Subsec. (e). Pub. L. 101–649, §407(d)(1)(C), substituted "the Attorney Genera
 
 Pub. L. 101–649, §407(c)(2), substituted references to applicant, applicant's, and application for references to petitioner, petitioner's, and petition wherever appearing.
 
-Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) whichread as follows: "Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50."
+Subsec. (f). Pub. L. 101–649, §407(e)(1), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "Naturalization shall not be granted to a petitioner by a naturalization court while registration proceedings or proceedings to require registration against an organization of which the petitioner is a member or affiliate are pending under section 792 or 793 of title 50."
 
 Subsec. (f)(1). Pub. L. 101–649, §407(d)(1)(D), substituted "within a particular State or district of the Service in the United States" for "within the jurisdiction of the court".
 
@@ -126,7 +126,7 @@ In General.—With the approval of the Director of Central Intelligence, the Att
 
 Eligible Applicant.—An applicant eligible for naturalization under this section is the spouse or child of a deceased alien whose death resulted from the intentional and unauthorized disclosure of classified information regarding the alien's participation in the conduct of United States intelligence activities and who—
 
-&emsp;"(1) has resided continuously, after being lawfully admitted for permanent residence, within the United States for at least one year prior to naturalization; and
+&emsp;"(1) has resided continuously, after being lawfully admitted for permanent residence, within the UnitedStates for at least one year prior to naturalization; and
 
 &emsp;"(2) is not described in clauses (i) through (iv) of section 241(b)(3)(B) of such Act \[8 U.S.C. 1231(b)(3)(B)\].
 

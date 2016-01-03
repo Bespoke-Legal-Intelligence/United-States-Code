@@ -56,7 +56,7 @@ The President shall designate the Chairperson from among the members appointed t
 
 Five members of the National Council shall constitute a quorum and any vacancy in the National Council shall not affect its power to function.
 
-(Pub. L. 93–112, title IV, §400, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, §2(q), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 113–128, title IV, §451, July 22, 2014, 128 Stat. 1674.)
+(Pub. L. 93–112, title IV, §400, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, §2(q), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 113–128, title IV, §451, July 22, 2014, 128 Stat. 1674; Pub. L. 114–18, §3(a), May 22, 2015, 129 Stat. 214.)
 
 #### Prior Provisions
 
@@ -65,6 +65,16 @@ A prior section 780, Pub. L. 93–112, title IV, §400, as added Pub. L. 95–60
 Another prior section 780, Pub. L. 93–112, title IV, §400, Sept. 26, 1973, 87 Stat. 385, related to general administrative powers of Secretary under this chapter, prior to repeal by Pub. L. 95–602, §117.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b). Pub. L. 114–18 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+"(b)(1) Each member of the National Council shall serve for a term of 3 years.
+
+"(2)(A) No member of the National Council may serve more than two consecutive full terms beginning on the date of commencement of the first full term on the Council. Members may serve after the expiration of their terms until their successors have taken office.
+
+"(B) As used in this paragraph, the term 'full term' means a term of 3 years.
+
+"(3) Any member appointed to fill a vacancy occurring before the expiration of the term for which such member's predecessor was appointed shall be appointed only for the remainder of such term."
 
 <b>2014</b>—Subsec. (a)(1)(A) to (C). Pub. L. 113–128, §451(1)(B), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -87,6 +97,10 @@ Subsec. (b). Pub. L. 113–128, §451(2), which directed substitution of a perio
 Subsec. (d). Pub. L. 113–128, §451(3), substituted "Five" for "Eight".
 
 <b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–18, §3(b), May 22, 2015, 129 Stat. 214, provided that: "The amendment made by this section \[amending this section\] shall take effect as if enacted 1 day after the date of enactment of the Workforce Innovation and Opportunity Act \[Pub. L. 113–128, approved July 22, 2014\] (29 U.S.C. 3101 et seq.)."
 
 #### Effective Date of 2012 Amendment
 

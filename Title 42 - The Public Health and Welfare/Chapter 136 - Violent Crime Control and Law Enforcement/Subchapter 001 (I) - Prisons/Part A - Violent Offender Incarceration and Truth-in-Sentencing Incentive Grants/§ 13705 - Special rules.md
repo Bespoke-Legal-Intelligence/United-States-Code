@@ -4,7 +4,7 @@
 
 #### (1) Reservation
 
-&emsp;Each State shall reserve not more than 15 percent of the amount of funds allocated in a fiscal year pursuant to section 13706 of thistitle for counties and units of local government to construct, develop, expand, modify, or improve jails and other correctional facilities.
+&emsp;Each State shall reserve not more than 15 percent of the amount of funds allocated in a fiscal year pursuant to section 13706 of this title for counties and units of local government to construct, develop, expand, modify, or improve jails and other correctional facilities.
 
 #### (2) Factors for determination of amount
 

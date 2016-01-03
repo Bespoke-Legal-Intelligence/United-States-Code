@@ -4,7 +4,7 @@
 
 #### (1) Filing of petition
 
-&emsp;A regulated entity that is not classified as critically undercapitalized and is the subject of a classification under section 4614 of this title or a discretionary supervisory action taken under this subchapter by the Director (other than action to appoint a conservator under section 4616 or 4617 of this title or action under section 4619 <sup>1</sup> of this title) may obtain review of the classification or action by filing, within 10 days after receiving written notice of the Director's action, a written petition requesting that the classification or action of the Director be modified, terminated, or set aside.
+&emsp;A regulated entity that is not classified as critically undercapitalized and is the subject of a classification under section 4614 of this title or a discretionary supervisory action taken under this subchapter by the Director (other than action to appoint a conservator under section 4616 or 4617 of this title or action under section 4619 <sup>1</sup> of this title) may obtain review of the classification or action by filing,within 10 days after receiving written notice of the Director's action, a written petition requesting that the classification or action of the Director be modified, terminated, or set aside.
 
 #### (2) Place for filing
 
@@ -16,7 +16,7 @@ The Court may modify, terminate, or set aside an action taken by the Director an
 
 #### (c) Unavailability of stay
 
-The commencement of proceedings for judicial review pursuant to this section shall not operate as a stay of any action taken by the Director. Pending judicial review of the action, the court shall not have jurisdiction to stay, enjoin, or otherwise delay any supervisory action taken by the Director with respect to a regulated entity that is classified as significantly or critically undercapitalized or any action of the Director that results in the classification of a regulatedentity as significantly or critically undercapitalized.
+The commencement of proceedings for judicial review pursuant to this section shall not operate as a stay of any action taken by the Director. Pending judicial review of the action, the court shall not have jurisdiction to stay, enjoin, or otherwise delay any supervisory action taken by the Director with respect to a regulated entity that is classified as significantly or critically undercapitalized or any action of the Director that results in the classification of a regulated entity as significantly or critically undercapitalized.
 
 #### (d) Limitation on jurisdiction
 

@@ -112,9 +112,9 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-#### Authorization of National Guard State Partnership Program
+#### Department of Defense State Partnership Program
 
-Pub. L. 113–66, div. A, title XII, §1205, Dec. 26, 2013, 127 Stat. 897, provided that:
+Pub. L. 113–66, div. A, title XII, §1205, Dec. 26, 2013, 127 Stat. 897, as amended by Pub. L. 114–92, div. A, title XII, §1203(a)–(e), (g)–(i), Nov. 25, 2015, 129 Stat. 1037–1039, provided that:
 
 "(a)
 
@@ -122,17 +122,27 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of exchanges of members of the National Guard of a State or territory and the military forces, or security forces or other government organizations whose primary functions include disaster response or emergency response, of a foreign country.
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of activities described in paragraph (2), to support the security cooperation objectives of the United States, between members of the National Guard of a State or territory and any of the following:
+
+&emsp;&emsp;"(A) The military forces of a foreign country.
+
+&emsp;&emsp;"(B) The security forces of a foreign country.
+
+&emsp;&emsp;"(C) Governmental organizations of a foreign country whose primary functions include disaster response or emergency response.
 
 &emsp;"(2)
 
-State partnership program.—Each program established under this subsection shall be known as a 'State Partnership Program'.
+State partnership.—Each program established under this subsection shall be known as a 'State Partnership'.
 
 "(b)
 
-Limitation.—An activity under a program established under subsection (a) that involves the security forces or other government organizations whose primary functions include disaster response or emergency response of a foreign country, or an activity that the Secretary of Defense determines is a matter within the core competencies of the National Guard of a State or territory, may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
+Limitation.—An activity with forces referred to in subsection (a)(1)(B) or organizations described in subsection (a)(1)(C) under a program established under subsection (a) may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
 
 "(c)
+
+Coordination of Activities.—The Chief of the National Guard Bureau shall designate a director for each State and territory to be responsible for the coordination of activities under a program established under subsection (a) for such State or territory and reporting on activities under the program.
+
+"(d)
 
 Regulations.—
 
@@ -148,7 +158,7 @@ Notification.—Not later than 15 days after the date on which such regulations 
 
 &emsp;&emsp;"(B) shall provide to the appropriate congressional committees a copy of the regulations.
 
-"(d)
+"(e)
 
 Availability of Authorized Funds for Program.—
 
@@ -172,7 +182,7 @@ Active duty requirement.—Funds shall not be available under paragraph (1) for 
 
 Incremental expenses.—The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
 
-"(e)
+"(f)
 
 Reports and Notifications.—
 
@@ -198,7 +208,7 @@ Annual report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than January 31 of each year following a fiscal year in which activities under a program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under the program.
+In general.—Not later than January 31 of each year following a fiscal year in which activities under each program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under such program.
 
 &emsp;&emsp;"(B)
 
@@ -208,17 +218,19 @@ Matters to be included.—Each report shall specify, for the fiscal year covered
 
 &emsp;&emsp;&emsp;"(ii) The type of activities conducted, the duration of the activities, and the number of members of the National Guard of each State or territory involved in such activities.
 
-&emsp;&emsp;&emsp;"(iii) The extent of participation in the activities by the military forces and security forces of such foreign country.
+&emsp;&emsp;&emsp;"(iii) The extent of participation in the activities by the military forces and security forces or other government organizations of such foreign country.
 
-&emsp;&emsp;&emsp;"(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command.
+&emsp;&emsp;&emsp;"(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command and country.
 
-&emsp;&emsp;&emsp;"(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the training occurred.
+&emsp;&emsp;&emsp;"(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the activities occurred.
 
-"(f)
+&emsp;&emsp;&emsp;"(vi) An assessment of the extent to which the activities conducted during the previous year met the objectives described in clause (v).
+
+"(g)
 
 Rule of Construction.—Nothing in this section shall be construed to supersede any authority under title 10, United States Code, as in effect on the date of the enactment of this Act \[Dec. 26, 2013\].
 
-"(g)
+"(h) \[there are two subsecs. (h)\]
 
 Definitions.—In this section:
 
@@ -226,9 +238,9 @@ Definitions.—In this section:
 
 Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
-&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
-&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
 &emsp;"(2)
 
@@ -242,13 +254,13 @@ Incremental expenses.—The term 'incremental expenses', with respect to a forei
 
 &emsp;&emsp;&emsp;"(ii) pay, allowances, and other normal costs of the personnel of the country.
 
-"(h)
+"(h) \[there are two subsecs. (h)\]
 
 Repeal of Superseded Authority.—\[Repealed section 1210 of Pub. L. 111–84, formerly set out as a note below.\]
 
 "(i)
 
-Termination.—The authority granted under subsection (a) shall terminate on September 30, 2016."
+Termination.—The authority granted under subsection (a) shall terminate on September 30, 2021."
 
 #### Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements
 

@@ -212,7 +212,7 @@
 
 (18) The term "immigration officer" means any employee or class of employees of the Service or of the United States designated by the Attorney General, individually or by regulation, to perform the functions of an immigration officer specified by this chapter or any section of this title.
 
-(19) The term "ineligible to citizenship," when used in reference to any individual, means, notwithstanding the provisions of any treaty relating to military service, an individual who is, or was at any time permanently debarred from becoming a citizen of the United States under section 3(a) of the Selective Training and Service Act of 1940, as amended (54 Stat. 885; 55 Stat. 844), or under section 4(a) of the Selective Service Act of 1948, as amended (62 Stat. 605; 65 Stat. 76) \[50 U.S.C. App. 454(a)\], or under any section of this chapter, or any other Act, or under any law amendatory of, supplementary to, or in substitution for, any of such sections or Acts.
+(19) The term "ineligible to citizenship," when used in reference to any individual, means, notwithstanding the provisions of any treaty relating to military service, an individual who is, or was at any time permanently debarred from becoming a citizen of the United States under section 3(a) of the Selective Training and Service Act of 1940, as amended (54 Stat. 885; 55 Stat. 844), or under section 4(a) of the Selective Service Act of 1948, as amended (62 Stat. 605; 65 Stat. 76) \[50 U.S.C. 3803(a)\], or under any section of this chapter, or any other Act, or under any law amendatory of, supplementary to, or in substitution for, any of such sections or Acts.
 
 (20) The term "lawfully admitted for permanent residence" means the status of having been lawfully accorded the privilege of residing permanently in the United States as an immigrant in accordance with the immigration laws, such status not having changed.
 
@@ -262,13 +262,13 @@
 
 &emsp;&emsp;(ii) was fully and permanently licensed to practice medicine in a State on January 9, 1978, and was practicing medicine in a State on that date,
 
-&emsp;&emsp;(iii) entered the United States as a nonimmigrant under subsection (a)(15)(H) or (a)(15)(J) of this section before January 10, 1978, and
+&emsp;&emsp;(iii) entered the United States as a nonimmigrant under subsection (a)(15)(H) or (a)(15)(J) before January 10, 1978, and
 
 &emsp;&emsp;(iv) has been continuously present in the United States in the practice or study of medicine since the date of such entry;
 
 &emsp;(I)(i) an immigrant who is the unmarried son or daughter of an officer or employee, or of a former officer or employee, of an international organization described in paragraph (15)(G)(i), and who (I) while maintaining the status of a nonimmigrant under paragraph (15)(G)(iv) or paragraph (15)(N), has resided and been physically present in the United States for periods totaling at least one-half of the seven years before the date of application for a visa or for adjustment of status to a status under this subparagraph and for a period or periods aggregating at least seven years between the ages of five and 21 years, and (II) applies for a visa or adjustment of status under this subparagraph no later than his twenty-fifth birthday or six months after October 24, 1988, whichever is later;
 
-&emsp;(ii) an immigrant who is the surviving spouse of a deceased officer or employee of such an international organization, and who\(I) while maintaining the status of a nonimmigrant under paragraph (15)(G)(iv) or paragraph (15)(N), has resided and been physically present in the United States for periods totaling at least one-half of the seven years before the date of application for a visa or for adjustment of status to a status under this subparagraph and for a period or periods aggregating at least 15 years before the date of the death of such officer or employee, and (II) files a petition for status under this subparagraph no later than six months after the date of such death or six months after October 24, 1988, whichever is later;
+&emsp;(ii) an immigrant who is the surviving spouse of a deceased officer or employee of such an international organization, and who (I) while maintaining the status of a nonimmigrant under paragraph (15)(G)(iv) or paragraph (15)(N), has resided and been physically present in the United States for periods totaling at least one-half of the seven years before the date of application for a visa or for adjustment of status to a status under this subparagraph and for a period or periods aggregating at least 15 years before the date of the death of such officer or employee, and (II) files a petition for status under this subparagraph no later than six months after the date of such death or six months after October 24, 1988, whichever is later;
 
 &emsp;(iii) an immigrant who is a retired officer or employee of such an international organization, and who (I) while maintaining the status of a nonimmigrant under paragraph (15)(G)(iv), has resided and been physically present in the United States for periods totaling at least one-half of the seven years before the date of application for a visa or for adjustment of status to a status under this subparagraph and for a period or periods aggregating at least 15 years before the date of the officer or employee's retirement from any such international organization, and (II) files a petition for status under this subparagraph no later than six months after the date of such retirement or six months after October 25, 1994, whichever is later; or
 
@@ -428,7 +428,7 @@
 
 (45) The term "substantial" means, for purposes of paragraph (15)(E) with reference to trade or capital, such an amount of trade or capital as is established by the Secretary of State, after consultation with appropriate agencies of Government.
 
-(46) The term "extraordinary ability" means, for purposes of subsection (a)(15)(O)(i) of this section, in the case of the arts, distinction.
+(46) The term "extraordinary ability" means, for purposes of subsection (a)(15)(O)(i), in the case of the arts, distinction.
 
 (47)(A) The term "order of deportation" means the order of the special inquiry officer, or other such administrative officer to whom the Attorney General has delegated the responsibility for determining whether an alien is deportable, concluding that the alien is deportable or ordering deportation.
 
@@ -524,7 +524,7 @@
 
 (c) As used in subchapter III—
 
-(1) The term "child" means an unmarried person under twenty-one years of age and includes a child legitimated under the law of the child's residence or domicile, or under the law of the father's residence or domicile, whether in the United States or elsewhere, and, except as otherwise provided in sections 1431 and 1432 <sup>7</sup> of this title, a child adopted in the United States, if such legitimation or adoption takes place before the child reaches the age of 16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1) of this section), and the child is in the legal custody of the legitimating or adopting parent or parents at the time of such legitimation or adoption.
+(1) The term "child" means an unmarried person under twenty-one years of age and includes a child legitimated under the law of the child's residence or domicile, or under the law of the father's residence or domicile, whether in the United States or elsewhere, and, except as otherwise provided in sections 1431 and 1432 <sup>7</sup> of this title, a child adopted in the United States, if such legitimation or adoption takes place before the child reaches the age of 16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1)), and the child is in the legal custody of the legitimating or adopting parent or parents at the time of such legitimation or adoption.
 
 (2) The terms "parent", "father", and "mother" include in the case of a posthumous child a deceased parent, father, and mother.
 
@@ -556,7 +556,7 @@ No person shall be regarded as, or found to be, a person of good moral character
 
 &emsp;(7) one who during such period has been confined, as a result of conviction, to a penal institution for an aggregate period of one hundred and eighty days or more, regardless of whether the offense, or offenses, for which he has been confined were committed within or without such period;
 
-&emsp;(8) one who at any time has been convicted of an aggravated felony (as defined in subsection (a)(43) of this section); or
+&emsp;(8) one who at any time has been convicted of an aggravated felony (as defined in subsection (a)(43)); or
 
 &emsp;(9) one who at any time has engaged in conduct described in section 1182(a)(3)(E) of this title (relating to assistance in Nazi persecution, participation in genocide, or commission of acts of torture or extrajudicial killings) or 1182(a)(2)(G) of this title (relating to severe violations of religious freedom).
 
@@ -572,7 +572,7 @@ The fact that any person is not within any of the foregoing classes shall not pr
 
 &emsp;(3) any crime of reckless driving or of driving while intoxicated or under the influence of alcohol or of prohibited substances if such crime involves personal injury to another.
 
-(i) With respect to each nonimmigrant alien described in subsection (a)(15)(T)(i) of this section—
+(i) With respect to each nonimmigrant alien described in subsection (a)(15)(T)(i)—
 
 &emsp;(1) the Secretary of Homeland Security, the Attorney General, and other Government officials, where appropriate, shall provide the alien with a referral to a nongovernmental organization that would advise the alien regarding the alien's options while in the United States and the resources available to the alien; and
 
@@ -596,7 +596,7 @@ The International Organizations Immunities Act (59 Stat. 669), referred to in su
 
 Subsection (p) of section 1184 of this title, referred to in subsec. (a)(15)(K), was redesignated as subsec. (r) of section 1184 by Pub. L. 108–193, §8(a)(3), Dec. 19, 2003, 117 Stat. 2886.
 
-Section 3(a) of the Selective Training and Service Act of 1940, as amended (54 Stat. 885; 55 Stat. 844), referred to in subsec. (a)(19), was classified to section 303 of Title 50, Appendix, War and National Defense, and was omitted from the Code as obsolete.
+Section 3(a) of the Selective Training and Service Act of 1940, as amended (54 Stat. 885; 55 Stat. 844), referred to in subsec. (a)(19), was classified to section 303 of the former Appendix to Title 50, War and National Defense, and was omitted from the Code as obsolete.
 
 The Selective Service Act of 1948, referred to in subsec. (a)(19), was redesignated the Universal Military Training and Service Act by act June 19, 1951, 65 Stat. 75, and then redesignated the Military Selective Service Act of 1967 by act June 30, 1967, Pub. L. 90–40, 81 Stat. 100, and subsequently redesignated the Military Selective Service Act by Pub. L. 92–129, title I, §101(a)(1), Sept. 28, 1971, 85 Stat. 348.
 
@@ -760,7 +760,7 @@ Subsec. (b)(1)(E). Pub. L. 106–139, §1(a)(1), designated existing provisions 
 
 Subsec. (b)(1)(F). Pub. L. 106–139, §1(a)(2), designated existing provisions as cl. (i), substituted "; or" for period at end, and added cl. (ii).
 
-Subsec. (c)(1). Pub. L. 106–139, §1(b)(1), substituted "16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1) of this section)," for "sixteen years,".
+Subsec. (c)(1). Pub. L. 106–139, §1(b)(1), substituted "16 years (except to the extent that the child is described in subparagraph (E)(ii) or (F)(ii) of subsection (b)(1))," for "sixteen years,".
 
 <b>1998</b>—Subsec. (a)(9). Pub. L. 105–277, §2222(e), inserted "or employee" after "other officer" and "or, when used in subchapter III, for the purpose of adjudicating nationality" before period at end.
 
@@ -984,7 +984,7 @@ Subsec. (f)(3). Pub. L. 101–649, §603(a)(1)(A), substituted "paragraphs (2)(D
 
 Pub. L. 101–649, §603(a)(1)(B), substituted "subparagraphs (A) and (B) of section 1182(a)(2) of this title and subparagraph (C) thereof" for "paragraphs (9) and (10) of section 1182(a) of this title and paragraph (23)".
 
-Subsec. (f)(8). Pub. L. 101–649, §509(a), substituted "an aggravated felony (as defined in subsection (a)(43) of this section)" for "the crime of murder".
+Subsec. (f)(8). Pub. L. 101–649, §509(a), substituted "an aggravated felony (as defined in subsection (a)(43))" for "the crime of murder".
 
 Subsec. (h). Pub. L. 101–649, §603(a)(1)(C), substituted "1182(a)(2)(E) of this title" for "1182(a)(34) of this title".
 
@@ -1598,6 +1598,12 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 Act June 27, 1952, ch. 477, title IV, §407, 66 Stat. 281, provided that: "Except as provided in subsection (k) of section 401 \[former section 1106(k) of this title\], this Act \[this chapter\] shall take effect at 12:01 ante meridian United States Eastern Standard Time on the one hundred eightieth day immediately following the date of its enactment \[June 27, 1952\]."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–113, div. O, title II, §201, Dec. 18, 2015, 129 Stat. 2988, provided that: "This title \[enacting section 1187a of this title, amending sections 1187 and 1732 of this title, and enacting provisions set out as a note under section 1187 of this title\] may be cited as the 'Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015'."
+
+Pub. L. 114–70, §1, Oct. 16, 2015, 129 Stat. 561, provided that: "This Act \[amending section 1201 of this title\] may be cited as the 'Adoptive Family Relief Act'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–74, §1, Jan. 16, 2014, 127 Stat. 1212, provided that: "This Act \[amending section 1431 of this title\] may be cited as the 'Accuracy for Adoptees Act'."
@@ -1712,7 +1718,7 @@ Pub. L. 103–416, §1, Oct. 25, 1994, 108 Stat. 4305, provided that: "This Act 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–232, §1(a), Dec. 12, 1991, 105 Stat. 1733, provided that: "This Act \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441, 1443, 1445 to 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1184, 1251, 1252, 1254a, 1255, 1356, and 1421 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the 'Miscellaneous and Technical Immigration and Naturalization Amendments of 1991'."
+Pub. L. 102–232, §1(a), Dec. 12, 1991, 105 Stat. 1733, provided that: "This Act \[amending this section, sections 1102, 1105a, 1151 to 1154, 1157, 1159 to 1161, 1182, 1184, 1186a to 1188, 1201, 1221, 1226, 1227, 1229, 1251, 1252, 1252a, 1252b, 1254 to 1255a, 1281, 1282, 1284, 1288, 1322, 1323, 1324a to 1324c, 1325, 1356, 1357, 1421, 1423, 1424, 1433, 1439 to 1441,1443, 1445 to 1452, and 1455 of this title, and section 3753 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1151, 1157, 1160, 1182, 1184, 1251, 1252, 1254a, 1255, 1356, and 1421 of this title, and amending provisions set out as notes under this section and sections 1105a, 1153, 1158, 1160, 1184, 1201, 1251, 1254a, 1255, and 1421 of this title\] may be cited as the 'Miscellaneous and Technical Immigration and Naturalization Amendments of 1991'."
 
 Pub. L. 102–232, title I, §101, Dec. 12, 1991, 105 Stat. 1733, provided that: "This title \[amending sections 1421, 1448, 1450, and 1455 of this title and enacting provisions set out as a note under section 1421 of this title\] may be cited as the 'Judicial Naturalization Ceremonies Amendments of 1991'."
 
@@ -1758,7 +1764,7 @@ Pub. L. 97–116, §1(a), Dec. 29, 1981, 95 Stat. 1611, provided that: "this Act
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–212, §1, Mar. 17, 1980, 94 Stat. 102, provided: "That this Act \[enacting sections 1157 to 1159 and 1521 to 1525 of this title, amending this section, sections 1151 to 1153, 1181, 1182, 1253, and 1254 of this title, and section 2601 of Title 22, Foreign Relations and Intercourse, enacting provision set out as notes under this section and sections 1153, 1157, 1158, 1521, and 1522 of this title, amending provisions set out as notes under sections 1182 and 1255 of this title, and repealing provisions set out as a note under section 2601 of Title 22\] may be cited as the 'Refugee Act of 1980'."
+Pub. L. 96–212, §1, Mar. 17, 1980, 94 Stat. 102, provided: "That this Act \[enacting sections 1157 to 1159 and 1521to 1525 of this title, amending this section, sections 1151 to 1153, 1181, 1182, 1253, and 1254 of this title, and section 2601 of Title 22, Foreign Relations and Intercourse, enacting provision set out as notes under this section and sections 1153, 1157, 1158, 1521, and 1522 of this title, amending provisions set out as notes under sections 1182 and 1255 of this title, and repealing provisions set out as a note under section 2601 of Title 22\] may be cited as the 'Refugee Act of 1980'."
 
 #### Short Title of 1976 Amendment
 
@@ -1766,7 +1772,7 @@ Pub. L. 94–571, §1, Oct. 20, 1976, 90 Stat. 2703, provided: "That this Act \[
 
 #### Short Title
 
-Act June 27, 1952, ch. 477, §1, 66 Stat. 163, provided that such act, enacting this chapter, section 1429 of Title 18, Crimes and Criminal Procedure, amending sections 1353a, 1353d, 1552 of this title, sections 342b, 342c, 342e of former Title 5, Executive Departments and Government Officers and Employees, sections 1114, 1546 of Title 18, sections 618, 1446 of Title 22, Foreign Relations and Intercourse, sections 1, 177 of former Title 49, Transportation, sections 1952 to 1955 and 1961 of Title 50 App., War and National Defense, repealing section 530 of former Title 31, Money and Finance, enacting provisions set out as notes under this section and amending provisions set out as notes under sections 1435 and 1440 of this title, may be cited as the "Immigration and Nationality Act".
+Act June 27, 1952, ch. 477, §1, 66 Stat. 163, provided that such act, enacting this chapter, section 1429 of Title 18, Crimes and Criminal Procedure, amending sections 1353a, 1353d, 1552 of this title, sections 342b, 342c, 342e of former Title 5, Executive Departments and Government Officers and Employees, sections 1114, 1546 of Title 18, sections 618, 1446 of Title 22, Foreign Relations and Intercourse, sections 1, 177 of former Title 49, Transportation, sections 1952 to 1955 and 1961 of the former Appendix to Title 50, War and National Defense, repealing section 530 of former Title 31, Money and Finance, enacting provisions set out as notes under this section and amending provisions set out as notes under sections 1435 and 1440 of this title, may be cited as the "Immigration and Nationality Act".
 
 #### Repeal and Revival
 
@@ -1800,15 +1806,15 @@ Pub. L. 102–140, title VI, §610, Oct. 28, 1991, 105 Stat. 832, as amended by 
 
 Act June 27, 1952, ch. 477, title IV, §405, 66 Stat. 280, provided in part that:
 
-"(a) Nothing contained in this Act \[this chapter\], unless otherwise specifically provided therein, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certificate of citizenship, warrant of arrest, order or warrant of deportation, order of exclusion, or other document or proceeding which shall be valid at the time this Act \[this chapter\] shall take effect; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal done or existing, at the time this Act \[this chapter\] shall take effect; but as to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters the statutes or parts of statutes repealed by this Act \[this chapter\] are, unless otherwise specifically provided therein, hereby continued in force and effect. When an immigrant, in possession of an unexpired immigrant visa issued prior to the effective date of this Act \[this chapter\], makes application for admission, his admissibility shall be determined under the provisions of law in effect on the date of the issuance of such visa. An application for suspension of deportation under section 19 of the Immigration Act of 1917, as amended \[former section 155 of this title\], or for adjustment of status under section 4 of the Displaced Persons Act of 1948, as amended \[former section 1953 of Appendix to Title 50\], which is pending on the date of enactment of this Act \[June 27, 1952\], shall be regarded as a proceeding within the meaning of this subsection.
+"(a) Nothing contained in this Act \[this chapter\], unless otherwise specifically provided therein, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certificate of citizenship, warrant of arrest, order or warrant of deportation, order of exclusion, or other document or proceeding which shall be valid at the time this Act \[this chapter\] shall take effect; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal done or existing, at the time this Act \[this chapter\] shall take effect; but as to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters the statutes or parts of statutes repealed by this Act \[this chapter\] are, unless otherwise specifically provided therein, hereby continued in force and effect. When an immigrant, in possession of an unexpired immigrant visa issued prior to the effective date of this Act \[this chapter\], makes application for admission, his admissibility shall be determined under the provisions of law in effect on the date of the issuance of such visa. An application for suspension of deportation under section 19 of the Immigration Act of 1917, as amended \[former section 155 of this title\], or for adjustment of status under section 4 of the Displaced Persons Act of 1948, as amended \[former section 1953 of the former Appendix to Title 50\], which is pending on the date of enactment of this Act \[June 27, 1952\], shall be regarded as a proceeding within the meaning of this subsection.
 
 "(b) Except as otherwise specifically provided in title III \[subchapter III of this chapter\], any petition for naturalization heretofore filed which may be pending at the time this Act \[this chapter\] shall take effect shall be heard and determined in accordance with the requirements of law in effect when such petition was filed.
 
 "(c) Except as otherwise specifically provided in this Act \[this chapter\], the repeal of any statute by this Act \[this chapter\] shall not terminate nationality heretofore lawfully acquired nor restore nationality heretofore lost under any law of the United States or any treaty to which the United States may have been a party.
 
-"(d) Except as otherwise specifically provided in this Act \[this chapter\], or any amendment thereto, fees, charges and prices for purposes specified in title V of the Independent Offices Appropriation Act, 1952 (Public Law 137, Eighty-second Congress, approved August 31, 1951), may be fixed and established in the manner and by the head of any Federal Agency as specified in that Act.
+"(d) Except as otherwise specifically provided in this Act \[this chapter\], or any amendment thereto, fees,charges and prices for purposes specified in title V of the Independent Offices Appropriation Act, 1952 (Public Law 137, Eighty-second Congress, approved August 31, 1951), may be fixed and established in the manner and by the head of any Federal Agency as specified in that Act.
 
-"(e) This Act \[this chapter\] shall not be construed to repeal, alter, or amend section 231(a) of the Act of April30, 1946 (60 Stat. 148; \[section 1281(a) of title 22\]), the Act of June 20, 1949 (Public Law 110, section 8, Eighty-first Congress, first session; 63 Stat. 208 \[section 3508 of title 50\]), the Act of June 5, 1950 (Public Law 535, Eighty-first Congress, second session \[former section 1501 et seq. of title 22\]), nor title V of the Agricultural Act of 1949, as amended (Public Law 78, Eighty-second Congress, first session \[former sections 1461 to 1468 of title 7\])."
+"(e) This Act \[this chapter\] shall not be construed to repeal, alter, or amend section 231(a) of the Act of April 30, 1946 (60 Stat. 148; \[section 1281(a) of title 22\]), the Act of June 20, 1949 (Public Law 110, section 8, Eighty-first Congress, first session; 63 Stat. 208 \[section 3508 of title 50\]), the Act of June 5, 1950 (Public Law 535, Eighty-first Congress, second session \[former section 1501 et seq. of title 22\]), nor title V of the Agricultural Act of 1949, as amended (Public Law 78, Eighty-second Congress, first session \[former sections 1461 to 1468 of title 7\])."
 
 #### Separability
 
@@ -1866,6 +1872,10 @@ Act June 27, 1952, ch. 477, title IV, §404, 66 Stat. 280, as amended by Pub. L.
 
 \[Determination of President of the United States, No. 95–49, Sept. 28, 1995, 60 F.R. 53677.\]
 
+#### Availability of Funds
+
+Pub. L. 114–113, div. F, title V, §573, Dec. 18, 2015, 129 Stat. 2526, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11,2015, which had been substituted as applied by Pub. L. 114–53, div. B, §132, Sept. 30, 2015, 129 Stat. 509\]."
+
 #### Annual Report on Immigration Applications Made by Victims of Abuse
 
 Pub. L. 113–4, title VIII, §802, Mar. 7, 2013, 127 Stat. 110, provided that: "Not later than December 1, 2014, and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes the following:
@@ -1906,11 +1916,11 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
-"This Act \[probably should be "this title"\] may be cited as the 'Afghan Allies Protection Act of 2009'.
+"This title may be cited as the 'Afghan Allies Protection Act of 2009'.
 
 #### "SEC. 602. PROTECTION FOR AFGHAN ALLIES.
 
@@ -1948,15 +1958,15 @@ Principal aliens.—An alien is described in this subparagraph if the alien—
 
 &emsp;&emsp;&emsp;"(i) is a citizen or national of Afghanistan;
 
-&emsp;&emsp;&emsp;"(ii) was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year—
+&emsp;&emsp;&emsp;"(ii) was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year, or, if submitting a petition after September 30, 2015, for a period of not less than 2 years—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) by, or on behalf of, the United States Government; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) by the International Security Assistance Force in a capacity that required the alien—
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) by the International Security Assistance Force (or any successor name for such Force) in a capacity that required the alien—
 
-&emsp;&emsp;&emsp;"(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force, to serve as an interpreter or translator for such United States military personnel; or
+&emsp;&emsp;&emsp;"(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force (or any successor name for such Force), to serve as aninterpreter or translator for such United States military personnel; or
 
-&emsp;&emsp;&emsp;"(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force;
+&emsp;&emsp;&emsp;"(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force (or any successor name for such Force);
 
 &emsp;&emsp;&emsp;"(iii) provided faithful and valuable service to an entity or organization described in clause (ii), which is documented in a positive recommendation or evaluation, subject to subparagraph (D), from the employee's senior supervisor or the person currently occupying that position, or a more senior person, if the employee's senior supervisor has left the employer or has left Afghanistan; and
 
@@ -1974,7 +1984,7 @@ Spouse or child.—An alien is described in this subparagraph if the alien—
 
 Surviving spouse or child.—An alien is described in this subparagraph if the alien—
 
-&emsp;&emsp;&emsp;"(i) was the spouse or child of a principal alien described in subparagraph (A) who had a petitionfor classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note) which included the alien as an accompanying spouse or child; and
+&emsp;&emsp;&emsp;"(i) was the spouse or child of a principal alien described in subparagraph (A) who had a petition for classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note) which included the alien as an accompanying spouse or child; and
 
 &emsp;&emsp;&emsp;"(ii) due to the death of the principal alien—
 
@@ -2080,13 +2090,13 @@ Construction.—Clause (i) shall not be construed to affect the authority, numer
 
 &emsp;&emsp;"(F)
 
-Fiscal years 2015 and 2016.—In addition to any unused balance under subparagraph (D), for theperiod beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and ending on September 30, 2016, the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 4,000. For purposes of status provided under this subparagraph—
+Fiscal years 2015, 2016, and 2017.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 7,000. For purposes of status provided under this subparagraph—
 
-&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before September 30, 2015;
+&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2016;
 
-&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2015; and
+&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2016; and
 
-&emsp;&emsp;&emsp;"(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on March 31, 2017.
+&emsp;&emsp;&emsp;"(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on the date such visas are exhausted.
 
 &emsp;"(4)
 
@@ -2242,6 +2252,22 @@ Report.—Not later than 60 days after the date of the enactment of this paragra
 
 &emsp;&emsp;"(H) The number of special immigrant status approvals revoked by the Chief of Mission that were appealed and the number of those revocations that were overturned pursuant to the appeal.
 
+&emsp;"(15)
+
+Reports informing the conclusion of the afghan special immigrant visa program.—Not later than June 1, 2016, and every six months thereafter, the Secretary of Defense, in conjunction with the Secretary of State, shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report that contains—
+
+&emsp;&emsp;"(A) a description of the United States force presence in Afghanistan during the previous 6 months;
+
+&emsp;&emsp;"(B) a description of the projected United States force presence in Afghanistan;
+
+&emsp;&emsp;"(C) the number of citizens or nationals of Afghanistan who were employed by or on behalf of the entities described in paragraph (2)(A)(ii) during the previous 6 months; and
+
+&emsp;&emsp;"(D) the projected number of such citizens or nationals who will be employed by or on behalf of such entities.
+
+&emsp;"(16)
+
+Sense of congress.—It is the sense of Congress that the necessity of providing special immigrant status under this subsection should be assessed at regular intervals by the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, taking into account the scope of the current and planned presence of United States troops in Afghanistan, the current and prospective numbers of citizens and nationals of Afghanistan employed by or on behalf of the entities described in paragraph (2)(A)(ii), and the security climate in Afghanistan.
+
 "(c)
 
 Information Regarding Citizens or Nationals of Afghanistan Employed by the United States or Federal Contractors in Afghanistan.—
@@ -2276,7 +2302,7 @@ Report on noncompliance.—Not later than 180 days after the date of the enactme
 
 &emsp;"(4)
 
-Executive agency defined.—In this subsection, the term 'executive agency' has the meaning given that term in section 4 of the Office of FederalProcurement Policy Act (\[former\] 41 U.S.C. 403) \[see 41 U.S.C. 133\].
+Executive agency defined.—In this subsection, the term 'executive agency' has the meaning given that term in section 133 of title 41, United States Code.
 
 "(d)
 
@@ -2378,7 +2404,7 @@ Application of Immigration and Nationality Act Provisions.—The definitions in 
 
 \[Pub. L. 112–227, §1(b), Dec. 28, 2012, 126 Stat. 1609, provided that: "The amendment made by subsection (a) \[amending section 1059(e) of Pub. L. 109–163, set out above\] shall take effect as if included in the enactment of section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] (8 U.S.C. 1101 note)."\]
 
-\[Pub. L. 110–28 and Pub. L. 110–36 made identical amendments to section 1059 of Pub. L. 109–163, set out above, except for the redesignation of subsec. (d) and addition of subsec. (e). Amendments by Pub. L. 110–36were executed in lieu of the amendments by Pub. L. 110–28, to reflect the probable intent of Congress.\]
+\[Pub. L. 110–28 and Pub. L. 110–36 made identical amendments to section 1059 of Pub. L. 109–163, set out above, except for the redesignation of subsec. (d) and addition of subsec. (e). Amendments by Pub. L. 110–36 were executed in lieu of the amendments by Pub. L. 110–28, to reflect the probable intent of Congress.\]
 
 #### Battered Immigrant Women; Findings and Purposes
 
@@ -2434,7 +2460,7 @@ Philippine traders classifiable as nonimmigrants under subsec. (a)(15)(E) of thi
 
 #### Irish Peace Process Cultural and Training Program
 
-Pub. L. 105–319, Oct. 30, 1998, 112 Stat. 3013, as amended by Pub. L. 107–234, §1, Oct. 4, 2002, 116 Stat. 1481; Pub. L. 108–449, §1(a), Dec. 10, 2004, 118 Stat. 3469, known as the Irish Peace Process Cultural and Training Program Act of 1998, which related to the Irish Peace Process Cultural and Training Program, was repealed by section 2(c)(1) of Pub. L. 105–319, effective Oct. 1, 2008.
+Pub. L. 105–319, Oct. 30, 1998, 112 Stat. 3013, as amended by Pub. L. 107–234, §1, Oct. 4, 2002, 116 Stat. 1481; Pub.L. 108–449, §1(a), Dec. 10, 2004, 118 Stat. 3469, known as the Irish Peace Process Cultural and Training Program Act of 1998, which related to the Irish Peace Process Cultural and Training Program, was repealed by section 2(c)(1) of Pub. L. 105–319, effective Oct. 1, 2008.
 
 #### Coordination of Amendments by Pub. L. 104–208
 
@@ -2462,7 +2488,7 @@ Failure To Give Notice.—Nothing in this section shall be construed to require 
 
 #### Report on Aliens Granted Refugee Status or Asylum Due to Persecution for Resistance to Coercive Population Control Methods
 
-Pub. L. 104–208, div. C, title VI, §601(a)(2), Sept. 30, 1996, 110 Stat. 3009–689, provided that: "Not later than 90days after the end of each fiscal year, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing the number and countries of origin of aliens granted refugee status or asylum under determinations pursuant to the amendment made by paragraph (1) \[amending this section\]. Each such report shall also contain projections regarding the number and countries of origin of aliens that are likely to be granted refugee status or asylum for the subsequent 2 fiscal years."
+Pub. L. 104–208, div. C, title VI, §601(a)(2), Sept. 30, 1996, 110 Stat. 3009–689, provided that: "Not later than 90 days after the end of each fiscal year, the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate describing the number and countries of origin of aliens granted refugee status or asylum under determinations pursuant to the amendment made by paragraph (1) \[amending this section\]. Each such report shall also contain projections regarding the number and countries of origin of aliens that are likely to be granted refugee status or asylum for the subsequent 2 fiscal years."
 
 #### Sense of Congress Regarding American-Made Products; Requirements for Notice
 
@@ -2544,7 +2570,7 @@ Establishment and Composition of Commission.—(1) Effective October 1, 1991, th
 
 &emsp;"(C) Two members to be appointed by the Minority Leader of the House of Representatives who shall select such members from a list of nominees provided by the ranking minority member of the Subcommittee on Immigration, Refugees, and International Law of the Committee on the Judiciary of the House of Representatives.
 
-&emsp;"(D) Two members to be appointed by the Majority Leader of the Senate who shall select such membersfrom a list of nominees provided by the Chairman of the Subcommittee on Immigration and Refugee Affairs of the Committee on the Judiciary of the Senate.
+&emsp;"(D) Two members to be appointed by the Majority Leader of the Senate who shall select such members from a list of nominees provided by the Chairman of the Subcommittee on Immigration and Refugee Affairs of the Committee on the Judiciary of the Senate.
 
 &emsp;"(E) Two members to be appointed by the Minority Leader of the Senate who shall select such members from a list of nominees provided by the ranking minority member of the Subcommittee on Immigration and Refugee Affairs of the Committee on the Judiciary of the Senate.
 
@@ -2608,7 +2634,7 @@ Meetings, Staff, and Authority of Commission.—The provisions of subsections (e
 
 "(f)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
+Authorization of Appropriations.—(1) There are authorized to be appropriated to the Commissionsuch sums as may be necessary to carry out this section.
 
 "(2) Notwithstanding any other provision of this section, the authority to make payments, or to enter into contracts, under this section shall be effective only to such extent, or in such amounts, as are provided in advance in appropriations Acts.
 
@@ -2714,7 +2740,7 @@ Numerical Limitation.—The number of aliens who may be admitted as (or otherwis
 
 #### Extension of H–1 Immigration Status for Certain Nonimmigrants Employed in Cooperative Research and Development Projects and Coproduction Projects
 
-Pub. L. 101–189, div. A, title IX, §937, Nov. 29, 1989, 103 Stat. 1538, provided that: "The Attorney General shall provide for the extension through December 31, 1991, ofnonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(i)) for an alien to perform temporarily services relating to a cooperative research and development project or a coproduction project provided under a government-to-government agreement administered by the Secretary of Defense in the case of an alien who has had such status for a period of at least five years if such status has not expired as of the date of the enactment of this Act \[Nov. 29, 1989\] but would otherwise expire during 1989, 1990, or 1991, due only to the time limitations with respect to such status."
+Pub. L. 101–189, div. A, title IX, §937, Nov. 29, 1989, 103 Stat. 1538, provided that: "The Attorney General shall provide for the extension through December 31, 1991, of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(i)) for an alien to perform temporarily services relating to a cooperative research and development project or a coproduction project provided under a government-to-government agreement administered by the Secretary of Defense in the case of an alien who has had such status for a period of at least five years if such status has not expired as of the date of the enactment of this Act \[Nov. 29, 1989\] but would otherwise expire during 1989, 1990, or 1991, due only to the time limitations with respect to such status."
 
 #### Extension of H–1 Status for Certain Registered Nurses Through December 31, 1989
 
@@ -2804,7 +2830,7 @@ Use of Funds for Improved Services.—Of the funds appropriated to the Departmen
 
 "(d)
 
-Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—There are authorized to be appropriated, in addition to such sums as may be available for such purposes, such sums as may be necessary to the Department of Labor for enforcement activities of the Wage and Hour Division and the Office of Federal Contract Compliance Programs within the Employment Standards Administration of the Department in order to deter the employment of unauthorized aliens and remove the economic incentive for employers to exploit and use such aliens."
+Supplemental Authorization of Appropriations for Wage and Hour Enforcement.—There are authorized to be appropriated, in addition to such sumsas may be available for such purposes, such sums as may be necessary to the Department of Labor for enforcement activities of the Wage and Hour Division and the Office of Federal Contract Compliance Programs within the Employment Standards Administration of the Department in order to deter the employment of unauthorized aliens and remove the economic incentive for employers to exploit and use such aliens."
 
 #### Eligibility of H–2 Agricultural Workers for Certain Legal Assistance
 
@@ -2820,7 +2846,7 @@ Pub. L. 99–603, title III, §315(d), Nov. 6, 1986, 100 Stat. 3440, provided th
 
 #### Sense of Congress Respecting Consultation With Mexico
 
-Pub. L. 99–603, title IV, §407, Nov. 6, 1986, 100 Stat. 3443, provided that: "It is the sense of the Congress that the President of the United States should consult with the President of the Republic of Mexico within 90 days after enactment of this Act \[Nov. 6, 1986\] regarding the implementation of this Act \[see Short Title of 1986 Amendments note above\] and its possible effect on the United States or Mexico. After the consultation, it is the sense of the Congress that the President should report to the Congress any legislative or administrativechanges that may be necessary as a result of the consultation and the enactment of this legislation."
+Pub. L. 99–603, title IV, §407, Nov. 6, 1986, 100 Stat. 3443, provided that: "It is the sense of the Congress that the President of the United States should consult with the President of the Republic of Mexico within 90 days after enactment of this Act \[Nov. 6, 1986\] regarding the implementation of this Act \[see Short Title of 1986 Amendments note above\] and its possible effect on the United States or Mexico. After the consultation, it is the sense of the Congress that the President should report to the Congress any legislative or administrative changes that may be necessary as a result of the consultation and the enactment of this legislation."
 
 #### Commission for the Study of International Migration and Cooperative Economic Development
 
@@ -2848,7 +2874,7 @@ Notwithstanding any other provision of law, the Attorney General not to be autho
 
 #### Limitation on Admission of Special Immigrants
 
-Pub. L. 96–70, title III, §3201(c), Sept. 27, 1979, 93 Stat. 497, provided that notwithstanding any other provision of law, not more than 15,000 individuals could be admitted to the United States as special immigrants under subparagraphs (E), (F), and (G) of subsec. (a)(27) of this section, of which not more than 5,000 could be admitted in any fiscal year, prior to repeal by Pub. L. 103–416, title II, §212(a), Oct. 25, 1994, 108 Stat. 4314.
+Pub. L. 96–70, title III, §3201(c), Sept. 27, 1979, 93 Stat. 497, provided that notwithstanding any other provision of law, not more than 15,000 individuals could be admitted to the United States as special immigrants undersubparagraphs (E), (F), and (G) of subsec. (a)(27) of this section, of which not more than 5,000 could be admitted in any fiscal year, prior to repeal by Pub. L. 103–416, title II, §212(a), Oct. 25, 1994, 108 Stat. 4314.
 
 #### Ex. Ord. No. 12711. Policy Implementation With Respect to Nationals of People's Republic of China
 
@@ -2872,7 +2898,7 @@ Sec. 3. The Secretary of State and the Attorney General are directed to provide 
 
 Sec. 4. The Secretary of State and the Attorney General are directed to provide for enhanced consideration under the immigration laws for individuals from any country who express a fear of persecution upon return to their country related to that country's policy of forced abortion or coerced sterilization, as implemented by the Attorney General's regulation effective January 29, 1990.
 
-Sec. 5. The Attorney General is directed to ensure that the Immigration and Naturalization Service finalizes and makes public its position on the issue of training for individuals in F–1 visa status and on the issue of reinstatement into lawful nonimmigrant status ofsuch PRC nationals who have withdrawn their applications for asylum.
+Sec. 5. The Attorney General is directed to ensure that the Immigration and Naturalization Service finalizes and makes public its position on the issue of training for individuals in F–1 visa status and on the issue of reinstatement into lawful nonimmigrant status of such PRC nationals who have withdrawn their applications for asylum.
 
 Sec. 6. The Departments of Justice and State are directed to consider other steps to assist such PRC nationals in their efforts to utilize the protections that I have extended pursuant to this order.
 
@@ -2934,7 +2960,7 @@ Therefore, relevant departments and agencies are directed to review their polici
 
 Border deterrence cannot succeed if the lure of jobs in the United States remains. Therefore, a second major component of the Administration's deterrence strategy is to toughen worksite enforcement and employer sanctions. Employers who hire illegal immigrants not only obtain unfair competitive advantage over law-abiding employers, their unlawful use of illegal immigrants suppresses wages and working conditions for our country's legal workers. Our strategy, which targets enforcement efforts at employers and industries that historically have relied upon employment of illegal immigrants, will not only strengthen deterrence of illegal immigration, but better protect American workers and businesses that do not hire illegal immigrants.
 
-Central to this effort is an effective, nondiscriminatory means of verifying the employment authorization of all new employees. The Administration fully supports the recommendation of the Commission onLegal Immigration Reform to create pilot projects to test various techniques for improving workplace verification, including a computer database test to validate a new worker's social security number for work authorization purposes. The Immigration and Naturalization Service (INS) and Social Security Administration are directed to establish, implement, monitor, and review the pilots and provide me with an interim report on the progress of this program by March 1, 1996.
+Central to this effort is an effective, nondiscriminatory means of verifying the employment authorization of all new employees. The Administration fully supports the recommendation of the Commission on Legal Immigration Reform to create pilot projects to test various techniques for improving workplace verification, including a computer database test to validate a new worker's social security number for work authorization purposes. The Immigration and Naturalization Service (INS) and Social Security Administration are directed to establish, implement, monitor, and review the pilots and provide me with an interim report on the progress of this program by March 1, 1996.
 
 In addition, the INS is directed to finalize the Administration's reduction of the number of authorized documents to support work verification for noncitizens. Concurrently, the Administration will seek further reduction legislatively in the number of documents that are acceptable for proving identity and work authorization. The Administration will improve the security of existing documents to be used for work authorization and seek increased penalties for immigration fraud, including fraudulent production and use of documents.
 
@@ -2990,7 +3016,7 @@ This Administration will continue to work with States to obtain more Federal hel
 
 This Administration will continue to emphasize international cooperative efforts to address illegal immigration.
 
-Pursuant to a Presidential Review Directive (PRD), the Department of State is now coordinating a study on United States policy toward international refugee and migration affairs. I hereby direct that, as part of that PRD process, this report to the National SecurityCouncil include the relationship of economic development and migration in the Western Hemisphere and, in particular, provide recommendations for further foreign economic policy measures to address causes of illegal immigration.
+Pursuant to a Presidential Review Directive (PRD), the Department of State is now coordinating a study on United States policy toward international refugee and migration affairs. I hereby direct that, as part of that PRD process, this report to the National Security Council include the relationship of economic development and migration in the Western Hemisphere and, in particular, provide recommendations for further foreign economic policy measures to address causes of illegal immigration.
 
 The Department of State shall coordinate an interagency effort to consider expanded arrangements with foreign governments for return of criminal and deportable aliens.
 
@@ -3014,7 +3040,7 @@ Pub. L. 104–208, div. C, title V, §594, Sept. 30, 1996, 110 Stat. 3009–688,
 
 &emsp;"(2) the term 'child' shall have the meaning given such term in section 101(c) of the Immigration and Nationality Act."
 
-Pub. L. 85–316, §14, Sept. 11, 1957, 71 Stat. 643, provided that: "Except as otherwise specifically provided in this Act, the definitions contained in subsections (a) and (b) of section 101 of the Immigration and Nationality Act \[8 U.S.C. 1101(a), (b)\] shall apply to sections 4, 5, 6, 7, 8, 9, 12, 13, and 15 of this Act \[enacting sections 1182b, 1182c, 1201a, 1205, 1251a, 1255a, and 1255b of this title and provisions set out as notes under section 1153 of this title and section 1971a of the Appendix to Title 50, War and National Defense.\]"
+Pub. L. 85–316, §14, Sept. 11, 1957, 71 Stat. 643, provided that: "Except as otherwise specifically provided in this Act, the definitions contained in subsections (a) and (b) of section 101 of the Immigration and Nationality Act \[8 U.S.C. 1101(a), (b)\] shall apply to sections 4, 5, 6, 7, 8, 9, 12, 13, and 15 of this Act \[enacting sections 1182b, 1182c, 1201a, 1205, 1251a, 1255a, and 1255b of this title and provisions set out as notes under section 1153 of this title and section 1971a of the former Appendix to Title 50, War and National Defense.\]"
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

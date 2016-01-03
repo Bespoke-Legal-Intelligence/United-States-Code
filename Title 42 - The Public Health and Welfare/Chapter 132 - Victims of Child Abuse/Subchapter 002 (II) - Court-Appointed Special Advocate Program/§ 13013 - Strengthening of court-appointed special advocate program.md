@@ -10,7 +10,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(A) shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or
 
-&emsp;(B) may be a local public or not-for-profit agency that has demonstrated the willingnessto initiate, sustain, and expand a court-appointed special advocate program.
+&emsp;(B) may be a local public or not-for-profit agency that has demonstrated the willingness to initiate, sustain, and expand a court-appointed special advocate program.
 
 (2) An organization described in paragraph (1)(A) that receives a grant may be authorized to make subgrants and enter into contracts with public and not-for-profit agencies to initiate, sustain, and expand the court-appointed special advocate program. Should a grant be made to a national organization for this purpose, the Administrator shall specify an amount not exceeding 5 percent that can be used for administrative purposes by the national organization.
 
@@ -46,7 +46,7 @@ State and local Court Appointed Special Advocate programs are authorized to requ
 
 #### (e) Reporting
 
-An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
+An organization that receives a grant under this section for a fiscal year shall submit to theAdministrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
 
 (Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986; Pub. L. 113–4, title I, §106(2), Mar. 7, 2013, 127 Stat. 77.)
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub.L. 107–273, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 

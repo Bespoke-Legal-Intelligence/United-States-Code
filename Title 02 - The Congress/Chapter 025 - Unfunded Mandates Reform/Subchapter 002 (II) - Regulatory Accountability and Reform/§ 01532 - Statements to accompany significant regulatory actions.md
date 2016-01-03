@@ -18,7 +18,7 @@ Unless otherwise prohibited by law, before promulgating any general notice of pr
 
 &emsp;&emsp;(B) any disproportionate budgetary effects of the Federal mandate upon any particular regions of the nation or particular State, local, or tribal governments, urban or rural or other types of communities, or particular segments of the private sector;
 
-&emsp;(4) estimates by the agency of the effect on the national economy, such as the effect onproductivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services, if and to the extent that the agency in its sole discretion determines that accurate estimates are reasonably feasible and that such effect is relevant and material; and
+&emsp;(4) estimates by the agency of the effect on the national economy, such as the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services, if and to the extent that the agency in its sole discretion determines that accurate estimates are reasonably feasible and that such effect is relevant and material; and
 
 &emsp;(5)(A) a description of the extent of the agency's prior consultation with elected representatives (under section 1534 of this title) of the affected State, local, and tribal governments;
 

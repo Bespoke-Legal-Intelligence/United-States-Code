@@ -6,11 +6,13 @@ There is established within the Executive Office of the President the Office of 
 
 #### (b) United States Trade Representative; Deputy United States Trade Representatives
 
-(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to theCommittee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
+(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
 
 (2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
 
-(3) A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
+(3) There shall be in the Office one Chief Transparency Officer. The Chief Transparency Officer shall consult with Congress on transparency policy, coordinate transparency in trade negotiations, engage and assist the public, and advise the United States Trade Representative on transparency policy.
+
+(4) A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
 
 #### (c) Duties of United States Trade Representative and Deputy United States Trade Representatives
 
@@ -54,7 +56,7 @@ There is established within the Executive Office of the President the Office of 
 
 #### (d) Unfair trade practices; additional duties of Representative; advisory committee; definition
 
-(1) In carrying out subsection (c) of this section with respect to unfair trade practices, the United States Trade Representative shall—
+(1) In carrying out subsection (c) with respect to unfair trade practices, the United States Trade Representative shall—
 
 &emsp;(A) coordinate the application of interagency resources to specific unfair trade practice cases;
 
@@ -134,11 +136,11 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 &emsp;(ii) not to exceed $1,000,000 shall remain available until expended.
 
-(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
+(2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by lawto reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
 (3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the United States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591.)
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591; Pub. L. 114–26, title I, §104(f), June 29, 2015, 129 Stat. 342.)
 
 #### References in Text
 
@@ -153,6 +155,8 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(3), (4). Pub. L. 114–26 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–429 realigned margins.
 
@@ -194,7 +198,7 @@ Subsec. (c)(1)(D). Pub. L. 103–465, §621(a)(8)(B), inserted ", including any
 
 <b>1989</b>—Subsec. (g)(1). Pub. L. 101–207, in subpar. (A), substituted "1990" for "1988" and "$19,651,000" for "$15,172,000", and in subpar. (B), substituted "1990" for "1988" in introductory provisions, and "$89,000" for "$69,000" in cl. (i).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "The United States Trade Representative shall—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–418, §1601(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The United States Trade Representative shall—
 
 &emsp;"(A) be the chief representative of the United States for each trade negotiation under this subchapter or section 2411 of this title;
 
@@ -272,7 +276,7 @@ Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2872, provided in p
 
 #### Waiver of Provisions Limiting Appointment of Trade Representative
 
-Pub. L. 105–5, Mar. 17, 1997, 111 Stat. 11, provided: "That notwithstanding the provisions of paragraph (3) of section 141(b) of the Trade Act of 1974 (19 U.S.C. 2171(b)(3)) or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint Charlene Barshefsky as the United States Trade Representative."
+Pub. L. 105–5, Mar. 17, 1997, 111 Stat. 11, provided: "That notwithstanding the provisions of paragraph (3) \[now (4)\] of section 141(b) of the Trade Act of 1974 (19 U.S.C. 2171(b)(3) \[now (b)(4)\]) or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint Charlene Barshefsky as the United States Trade Representative."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -452,7 +456,7 @@ The Trade Representative, with the advice of the Trade Policy Committee, will be
 
 The Trade Representative will have the lead role in bilateral and multilateral trade, commodity, and direct investment negotiations. The Trade Representative will represent the United States in General Agreement on Tariffs and Trade (GATT) matters. Since the GATT will be the principal international forum for implementing and interpreting the MTN agreements and since GATT meetings, including committee and working group meetings, occur almost continuously, the Trade Representative will have a limited number of permanent staff in Geneva. In some cases, it may be necessary to assign a small number of USTR staff abroad to assist in oversight of MTN enforcement. In this event, appropriate positions will be authorized. In recognition of the responsibility of the Secretary of State regarding our foreign policy, the activities of overseas personnel of the Trade Representative and the Commerce Department will be fully coordinated with other elements of our diplomatic missions.
 
-In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered inthe Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
+In addition to his role with regard to GATT matters, the Trade Representative will have the lead responsibility for trade and commodity matters considered in the Organization for Economic Cooperation and Development (OECD) and the United Nations Conference on Trade and Development (UNCTAD) when such matters are the primary issues under negotiation. Because of the Secretary of State's foreign policy responsibilities, and the responsibilities of the Director of the International Development Cooperation Agency as the President's principal advisor on development, the Trade Representative will exercise his OECD and UNCTAD responsibilities in close cooperation with these officials.
 
 To ensure that all trade negotiations are handled consistently and that our negotiating leverage is employed to the maximum, the Trade Representative will manage the negotiation of particular issues. Where appropriate, the Trade Representative may delegate responsibility for negotiations to other agencies with expertise on the issues under consideration. He will coordinate the operational aspects of negotiations through a Trade Negotiating Committee, chaired by the Trade Representative and including the Departments of Commerce, State, Treasury, Agriculture and Labor.
 
@@ -502,7 +506,7 @@ Matching the increased importance of trade in the Department's mission will be a
 
 With its new responsibilities and resources, the Department of Commerce will become a key participant in the formulation of our trade policies. Much of the analysis in support of trade policy formulation will be conducted by the Department of Commerce, which will be close to the operational aspects of the problems that raise policy issues.
 
-To succeed in global competition, we must have a better understanding of the problems and prospects of U.S. industry, particularly in relation to the growing strength of industries abroad. This is the key reason why we will upgrade sectoral analysis capabilities throughout the Department of Commerce, including the creation of a new Bureau of Industrial Analysis. Commerce, with its ability to link trade to policies affecting industry, is uniquely suited to serve as the principal technical expert within the Government on special industry sector problems requiring international consultation, as well as to provide industry-specific information on how tax, regulatory and other Government policies affect the international competitiveness of the U.S. industries.
+To succeed in global competition, we must have a better understanding of the problems and prospects of U.S. industry, particularly in relation to the growing strength of industries abroad. This is the key reason why we will upgrade sectoral analysis capabilitiesthroughout the Department of Commerce, including the creation of a new Bureau of Industrial Analysis. Commerce, with its ability to link trade to policies affecting industry, is uniquely suited to serve as the principal technical expert within the Government on special industry sector problems requiring international consultation, as well as to provide industry-specific information on how tax, regulatory and other Government policies affect the international competitiveness of the U.S. industries.
 
 Commerce will also expand its traditional trade policy focus on industrial issues to deal with the international trade and investment problems of our growing services sector. Under the proposal, there will be comprehensive service industry representation in our industry advisory process, as well as a continuing effort to bring services under international discipline. I expect the Commerce Department to play a major role in developing new service sector initiatives for consideration within the Government.
 
@@ -642,7 +646,7 @@ Sec. 1–105. <i>Prior Executive Orders and Determination.</i>
 
 (e) Sections 2(b) and 3(a), the first sentence of section 3(c), and sections 3(e), 3(f), and 6 of Executive Order 11846 of March 27, 1975, as amended \[19 U.S.C. 2111 note\], are revoked.
 
-(f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[50 U.S.C. App. 2170 note\], is amended to read: "(5) The United States Trade Representative".
+(f)(1) Section 1(a)(5) of Executive Order 11858 of May 7, 1975 \[50 U.S.C. 4565 note\], is amended to read: "(5) The United States Trade Representative".
 
 (2) Section 1(a)(6) of such order is amended to read: "(6) The Chairman of the Council of Economic Advisers".
 

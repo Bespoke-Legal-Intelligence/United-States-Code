@@ -16,11 +16,11 @@
 
 #### (b) Expeditious transaction required
 
-Not later than 10 business days after receipt by the Secretary of the Treasury of any certification by the Corporation under subsection (a)(2) of this section, the Secretary of the Treasury shall purchase obligations issued by the Corporation in an amount determined by the Corporation to be sufficient to meet the guarantee liabilities of the Corporation.
+Not later than 10 business days after receipt by the Secretary of the Treasury of any certification by the Corporation under subsection (a)(2), the Secretary of the Treasury shall purchase obligations issued by the Corporation in an amount determined by the Corporation to be sufficient to meet the guarantee liabilities of the Corporation.
 
 #### (c) Limitation on amount of outstanding obligations
 
-The aggregate amount of obligations issued by the Corporation under subsection (a)(1) of this section which may be held by the Secretary of the Treasury at any time (as determined by the Secretary) shall not exceed $1,500,000,000.
+The aggregate amount of obligations issued by the Corporation under subsection (a)(1) which may be held by the Secretary of the Treasury at any time (as determined by the Secretary) shall not exceed $1,500,000,000.
 
 #### (d) Terms of obligation
 
@@ -44,7 +44,7 @@ The aggregate amount of obligations issued by the Corporation under subsection (
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, withoutfiscal year limitation, to carry out the purposes of this subchapter.
+There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
 
 (Pub. L. 92–181, title VIII, §8.13, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1704; amended Pub. L. 104–105, title I, §109(b)(2), Feb. 10, 1996, 110 Stat. 165.)
 

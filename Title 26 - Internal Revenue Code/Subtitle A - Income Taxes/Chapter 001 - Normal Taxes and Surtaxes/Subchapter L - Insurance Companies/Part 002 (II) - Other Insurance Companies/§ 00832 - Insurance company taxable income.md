@@ -104,7 +104,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
+&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used forpurposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
 #### (II) Certain dividends received by foreign corporations
 
@@ -218,7 +218,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;&emsp;(II) which is based on the statutory premium recognition pattern which applies to premiums received by the taxpayer in such calendar year.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendaryear shall be treated as received in the middle of such year.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, premiums received during any calendar year shall be treated as received in the middle of such year.
 
 #### (c) Deductions allowed
 
@@ -316,7 +316,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955;Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388-451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048.)
 
 #### References in Text
 
@@ -348,7 +348,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 &emsp;"(i) To losses paid during the taxable year, add salvage and reinsurance recoverable outstanding at the end of the preceding taxable year and deduct salvage and reinsurance recoverable outstanding at the end of the taxable year.
 
-&emsp;"(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year."
+&emsp;"(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct unpaid losses on life insurance contracts plus all discounted unpaidlosses outstanding at the end of the preceding taxable year."
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted "such contracts into account" for "such amounts into account".
 
@@ -554,7 +554,7 @@ Amendment by section 1024(c)(1)–(6) of Pub. L. 99–514 applicable to taxable 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 ofPub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -596,7 +596,7 @@ Pub. L. 100–647, title I, §1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, provide
 
 &emsp;"(B) at all times after the date on which such stock or obligation was acquired by the transferor company and before the date of the acquisition by the acquiring company, the transferor company and the acquiring company were members of the same affiliated group filing a consolidated return.
 
-> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard toany prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization."
+> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard to any prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization."
 
 #### Study of Treatment of Property and Casualty Insurance Companies
 
@@ -668,7 +668,7 @@ Effective Date.—The provisions of subsection (a) shall apply to payments made 
 
 Pub. L. 90–240, §5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect tomortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
+"(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
 
 "(2) If a mortgage guaranty insurance company made additions to a reserve which were so treated as unearned premiums described in paragraph (1), such company, in taxable years beginning after 1966, shall include in gross income (in addition to the items specified in section 832(b)(1) of such Code) the sum of the following amounts until there is included in gross income an amount equal to the aggregate additions to the reserve described in paragraph (1) for taxable years beginning before 1967:
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the cumulative length of the absence and of all previous absences from a position of employment with that employer by reason of service in the uniformed services does not exceed five years; and
 
-&emsp;(3) except as provided in subsection (f), the person reports to, or submits an application for reemployment to, such employer in accordance with the provisions of subsection (e).
+&emsp;(3) except as provided in subsection (f), the person reports to, or submits an applicationfor reemployment to, such employer in accordance with the provisions of subsection (e).
 
 (b) No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable. A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.
 
@@ -14,13 +14,13 @@
 
 &emsp;(1) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period andsuch inability was through no fault of such person;
+&emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
 
 &emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
-&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -90,13 +90,15 @@
 
 (h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829.)
 
 #### Prior Provisions
 
 A prior section 4312 was renumbered section 7612 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(4)(A). Pub. L. 114–92 inserted "12304a, 12304b," after "12304,".
 
 <b>2011</b>—Subsec. (c)(4)(F). Pub. L. 112–81 added subpar. (F).
 

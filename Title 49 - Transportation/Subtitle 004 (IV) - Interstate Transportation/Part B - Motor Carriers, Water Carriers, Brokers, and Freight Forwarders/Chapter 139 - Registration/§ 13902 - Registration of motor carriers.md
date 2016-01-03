@@ -48,7 +48,7 @@ Withholding.—If the Secretary determines that a registrant under this section 
 
 &emsp;(5)
 
-Limitation on complaints.—The Secretary may hear a complaint from any personconcerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
+Limitation on complaints.—The Secretary may hear a complaint from any person concerning a registration under this subsection only on the ground that the registrant fails or will fail to comply with this part, the applicable regulations of the Secretary and the Board (including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus), the safety regulations of the Secretary, or the safety fitness or minimum financial responsibility requirements of paragraph (1) of this subsection. In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.
 
 &emsp;(6)
 
@@ -220,7 +220,7 @@ In general.—On and after the transition termination date, the Secretary—
 
 &emsp;(2)
 
-Pre-existing certificates and permits.—The Secretary shall redesignate any motor carrier certificate or permit issued before the transition termination date as a motor carrier certificate of registration. On and after the transition termination date, any person holding a motor carrier certificate of registration redesignated under this paragraph may provide both contract carriage (as defined in section 13102(4)(B)) and transportation under terms and conditions meeting the requirements of section 13710(a)(1). The Secretary may not, pursuant to any regulation or form issued before or after the transition termination date, make any distinction among holders of motor carrier certificates of registration on the basis of whether the holder would have been classified as a common carrier or as a contract carrier under—
+Pre-existing certificates and permits.—The Secretary shall redesignate any motor carrier certificate or permit issued before the transition termination date as a motor carrier certificate of registration. On and after the transition termination date, anyperson holding a motor carrier certificate of registration redesignated under this paragraph may provide both contract carriage (as defined in section 13102(4)(B)) and transportation under terms and conditions meeting the requirements of section 13710(a)(1). The Secretary may not, pursuant to any regulation or form issued before or after the transition termination date, make any distinction among holders of motor carrier certificates of registration on the basis of whether the holder would have been classified as a common carrier or as a contract carrier under—
 
 &emsp;&emsp;(A) subsection (d) of this section, as that section was in effect before the transition termination date; or
 
@@ -260,9 +260,9 @@ Registration as Freight Forwarder or Broker Required.—A motor carrier register
 
 &emsp;&emsp;&emsp;(ii) retains liability for the cargo and for payment of interchanged carriers; and
 
-&emsp;(2) may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
+&emsp;(2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554.)
 
 #### Historical and Revision Notes
 
@@ -295,6 +295,8 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 Provisions similar to those in this section were contained in section 10922 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (i)(2). Pub. L. 114–94 inserted "except as" before "described".
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32915(1)(A), inserted "using self-propelled vehicles the motor carrier owns, rents, or leases" after "motor carrier" in introductory provisions.
 
@@ -358,6 +360,10 @@ Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted "January 1, 1996,"
 
 Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted "December 31, 1995" for "the day before the effective date of this section".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -382,7 +388,7 @@ Pub. L. 110–291, §4, July 30, 2008, 122 Stat. 2915, provided that: "Not later
 
 #### Coordination With Department of Justice
 
-Pub. L. 110–291, §5, July 30, 2008, 122 Stat. 2916, provided that: "Not later than 6 months after the date of enactment of this Act \[July 30, 2008\], the Secretary of Transportation and the Attorney General shall enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing the compliance of motor carriers of passengers providing transportation by an over-the-road bus (as defined in section 13102 of title 49, United States Code) with the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue. Such memorandum shall recognize the Department of Transportation's statutory responsibilities as clarified by this Act \[see Short Title of 2008 Amendment note set out under section 10101 of this title\] (including the amendments made by this Act)."
+Pub. L. 110–291, §5, July 30, 2008, 122 Stat. 2916, provided that: "Not later than 6 months after the date of enactment of this Act \[July 30, 2008\], the Secretary of Transportation and the Attorney General shall enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing the compliance of motor carriers of passengers providing transportation by an over-the-road bus (as defined in section 13102 of title 49, United States Code) with the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successorregulations to those accessibility requirements as the Secretary may issue. Such memorandum shall recognize the Department of Transportation's statutory responsibilities as clarified by this Act \[see Short Title of 2008 Amendment note set out under section 10101 of this title\] (including the amendments made by this Act)."
 
 #### Authority of Mexican Motor Carriers To Operate Beyond United States Municipalities and Commercial Zones on United States-Mexico Border
 
@@ -432,7 +438,7 @@ Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that
 
 #### Safety of Cross-Border Trucking Between United States and Mexico
 
-Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
+Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by Pub. L. 114–113, div. L, title I, §130(b), Dec. 18, 2015, 129 Stat. 2850, provided that:
 
 "(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
 
@@ -494,7 +500,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;"(B) initiates a study to determine which other crossings should also be equipped with weigh-in-motion systems;
 
-&emsp;"(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that noMexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
+&emsp;"(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that no Mexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
 
 &emsp;"(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on duty and where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
 
@@ -534,7 +540,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;"(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General's findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
 
-"(d) The Department of Transportation Inspector General shall conduct another review using the criteria in (c)(1)(A) through (c)(1)(H) consistent with paragraph (c) of this section, 180 days after the first review is completed, and at least annually thereafter.
+"\[(d) Repealed. Pub. L. 114–113, div. L, title I, §130(b), Dec. 18, 2015, 129 Stat. 2850.\]
 
 "(e) For purposes of this section, the term 'Mexican motor carrier' shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
 
@@ -546,7 +552,7 @@ Memorandum of President of the United States, May 6, 1993, 58 F.R. 27647, provid
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days' advance notice to the Congress is required whenever the removal or modification applies to a contiguous foreign country or political subdivision thereof that substantially prohibits thegranting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days' advance notice to the Congress is required whenever the removal or modification applies to a contiguous foreign country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 I am pleased that an agreement between the United States and Mexico has been concluded to ensure fair and reciprocal treatment for charter and tour bus interests on both sides of the border. The agreement reached, however, does not allow for full access to cross-border and domestic markets. Therefore, the moratorium must reflect the conditions under which operating authority may be issued to Mexican charter and tour companies under the agreement.
 
@@ -588,7 +594,7 @@ This determination shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of this title and section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of this title.\]
 
 #### Extension of Moratorium
 

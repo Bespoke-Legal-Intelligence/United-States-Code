@@ -26,7 +26,7 @@ Such information as the Secretary may deem necessary for purposes of the evaluat
 
 #### (g) Funds
 
-From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
+From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants orcontracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
 
 (Pub. L. 89–73, title II, §206, formerly §207, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; amended Pub. L. 95–478, title I, §102(g), Oct. 18, 1978, 92 Stat. 1515; renumbered §206 and amended Pub. L. 97–115, §2(e)(2), (h), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §206, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §106(c), Nov. 29, 1987, 101 Stat. 930; Pub. L. 102–375, title II, §207, Sept. 30, 1992, 106 Stat. 1213; Pub. L. 103–171, §§2(5), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §203, Nov. 13, 2000, 114 Stat. 2234; Pub. L. 109–365, title II, §205, Oct. 17, 2006, 120 Stat. 2535.)
 
@@ -40,7 +40,7 @@ A prior section 206 of Pub. L. 89–73 was renumbered section 205 and is classif
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–365 substituted "From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts." for "The Secretary may use such sums as may be necessary, but not to exceed $3,000,000\(of which not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter III of this chapter and not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter IV of this chapter), to conduct directly evaluations under this section."
+<b>2006</b>—Subsec. (g). Pub. L. 109–365 substituted "From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts." for "The Secretary may use such sums as may be necessary, but not to exceed $3,000,000 (of which not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter III of this chapter and not to exceed $1,500,000 shall be available from funds appropriated to carry out subchapter IV of this chapter), to conduct directly evaluations under this section."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–501, §203(1), inserted "and older individuals residing in rural areas" after "low-income minority individuals" in two places.
 

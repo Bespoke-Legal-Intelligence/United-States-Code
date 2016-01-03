@@ -70,7 +70,7 @@ The Council is composed of 11 members as follows:
 
 #### (d) Consultation requirement
 
-The appointments required under subsection (c) of this section shall be made in consultation with the appropriate users of Area anadromous fish resources.
+The appointments required under subsection (c) shall be made in consultation with the appropriate users of Area anadromous fish resources.
 
 #### (e) Qualifications
 
@@ -94,11 +94,11 @@ Council members shall be individuals who are knowledgable <sup>1</sup> and expe
 
 #### (1) Procedures
 
-&emsp;The Council shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include requirements that—
+&emsp;The Council shall establish practices and procedures for the carrying out of its functions under subsection (b). The procedures shall include requirements that—
 
 &emsp;&emsp;(A) a quorum of the Council must be present before business may be transacted; and
 
-&emsp;&emsp;(B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) of this section may be adopted by the Council except by the unanimous vote of all members present and voting.
+&emsp;&emsp;(B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) may be adopted by the Council except by the unanimous vote of all members present and voting.
 
 #### (2) Chairman
 
@@ -120,7 +120,7 @@ Council members shall be individuals who are knowledgable <sup>1</sup> and expe
 
 #### (3) Organization
 
-&emsp;The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b) of this section.
+&emsp;The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b).
 
 #### (i) Federal or State employees
 

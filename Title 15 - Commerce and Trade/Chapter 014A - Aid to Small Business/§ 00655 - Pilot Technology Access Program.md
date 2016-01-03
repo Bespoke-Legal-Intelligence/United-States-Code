@@ -8,7 +8,7 @@ The Administration, in consultation with the National Institute of Standards and
 
 The Administrator of the Small Business Administration shall establish competitive, merit-based criteria for the selection of Centers to receive awards on the basis of—
 
-&emsp;(1) the ability of the applicant to carry out the purposes described in subsection (d) of this section in a manner relevant to the needs of industries in the area served by the Center;
+&emsp;(1) the ability of the applicant to carry out the purposes described in subsection (d) in amanner relevant to the needs of industries in the area served by the Center;
 
 &emsp;(2) the ability of the applicant to integrate the implementation of this program with existing Federal and State technical and business assistance resources; and
 
@@ -16,7 +16,7 @@ The Administrator of the Small Business Administration shall establish competiti
 
 #### (c) Matching requirement
 
-To be eligible to receive an award under this section, an applicant shall provide a matchingcontribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
+To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
 
 #### (d) Purpose of awards
 

@@ -6,7 +6,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 #### (b) Payments with respect to services; dialysis; regulations; physicians' services; target reimbursement rates; home dialysis supplies and equipment; self-care home dialysis support services; self-care dialysis units; hepatitis B vaccine
 
-(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section 1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
+(1) Payments under this subchapter with respect to services, in addition to services for which payment would otherwise be made under this subchapter, furnished to individuals who have been determined to have end stage renal disease shall include (A) payments on behalf of such individuals to providers of services and renal dialysis facilities which meet such requirements as the Secretary shall by regulation prescribe for institutional dialysis services and supplies (including self-dialysis services in a self-care dialysis unit maintained by the provider or facility), transplantation services, self-care home dialysis support services which are furnished by the provider or facility, and routine professional services performed by a physician during a maintenance dialysis episode if payments for his other professional services furnished to an individual who has end stage renal disease are made on the basis specified in paragraph (3)(A) of this subsection, (B) payments to or on behalf of such individuals for home dialysis supplies and equipment, and (C) payments to a supplier of home dialysis supplies and equipment that is not a provider of services, a renal dialysis facility, or a physician for self-administered erythropoietin as described in section1395x(s)(2)(P) <sup>1</sup> of this title if the Secretary finds that the patient receiving such drug from such a supplier can safely and effectively administer the drug (in accordance with the applicable methods and standards established by the Secretary pursuant to such section). The requirements prescribed by the Secretary under subparagraph (A) shall include requirements for a minimum utilization rate for transplantations.
 
 (2)(A) With respect to payments for dialysis services furnished by providers of services and renal dialysis facilities to individuals determined to have end stage renal disease for which payments may be made under part B of this subchapter, such payments (unless otherwise provided in this section) shall be equal to 80 percent of the amounts determined in accordance with subparagraph (B); and with respect to payments for services for which payments may be made under part A of this subchapter, the amounts of such payments (which amounts shall not exceed, in respect to costs in procuring organs attributable to payments made to an organ procurement agency or histocompatibility laboratory, the costs incurred by that agency or laboratory) shall be determined in accordance with section 1395x(v) of this title or section 1395ww of this title (if applicable). Payments shall be made to a renal dialysis facility only if it agrees to accept such payments as payment in full for covered services, except for payment by the individual of 20 percent of the estimated amounts for such services calculated on the basis established by the Secretary under subparagraph (B) and the deductible amount imposed by section 1395l(b) of this title.
 
@@ -30,7 +30,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 &emsp;(ii) the supplier agrees to receive payment for the cost of such supplies and equipment only on an assignment-related basis, and
 
-&emsp;(iii) the supplier certifies that it has entered into a written agreement with an approvedprovider of services or renal dialysis facility under which such provider or facility agrees to furnish to such patient all self-care home dialysis support services and all other necessary dialysis services and supplies, including institutional dialysis services and supplies and emergency services.
+&emsp;(iii) the supplier certifies that it has entered into a written agreement with an approved provider of services or renal dialysis facility under which such provider or facility agrees to furnish to such patient all self-care home dialysis support services and all other necessary dialysis services and supplies, including institutional dialysis services and supplies and emergency services.
 
 (5) An agreement under paragraph (4) shall require, in accordance with regulations prescribed by the Secretary, that the provider or facility will—
 
@@ -76,7 +76,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (9) For purposes of this subchapter, the term "self-care home dialysis support services", to the extent permitted in regulation, means—
 
-&emsp;(A) periodic monitoring of the patient's home adaptation, including visits by qualified provider or facility personnel (as defined in regulations), so long as this is done in accordance with a plan prepared and periodically reviewed by a professional team (as defined in regulations) including the individual's physician;
+&emsp;(A) periodic monitoring of the patient's home adaptation, including visits by qualifiedprovider or facility personnel (as defined in regulations), so long as this is done in accordance with a plan prepared and periodically reviewed by a professional team (as defined in regulations) including the individual's physician;
 
 &emsp;(B) installation and maintenance of dialysis equipment;
 
@@ -122,7 +122,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (E)(i) Such system shall be designed to result in the same aggregate amount of expenditures for such services, as estimated by the Secretary, as would have been made for 2005 if this paragraph did not apply.
 
-(ii) The adjustment made under subparagraph (B)(ii)(II) shall be done in a manner to result in the same aggregate amount of expenditures after such adjustment as would otherwise have been made for such services for 2006 or 2007, respectively, as estimated by the Secretary, if this paragraph did not apply.
+(ii) The adjustment made under subparagraph (B)(ii)(II) shall be done in a manner to result inthe same aggregate amount of expenditures after such adjustment as would otherwise have been made for such services for 2006 or 2007, respectively, as estimated by the Secretary, if this paragraph did not apply.
 
 (F) Beginning with 2006, the Secretary shall annually increase the basic case-mix adjusted payment amounts established under this paragraph, by an amount determined by—
 
@@ -156,7 +156,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 (14)(A)(i) Subject to subparagraph (E), for services furnished on or after January 1, 2011, the Secretary shall implement a payment system under which a single payment is made under this subchapter to a provider of services or a renal dialysis facility for renal dialysis services (as defined in subparagraph (B)) in lieu of any other payment (including a payment adjustment under paragraph (12)(B)(ii)) and for such services and items furnished pursuant to paragraph (4).
 
-(ii) In implementing the system under this paragraph the Secretary shall ensure that the estimated total amount of payments under this subchapter for 2011 for renal dialysis services shall equal 98 percent of the estimated total amount of payments for renal dialysis services, including payments under paragraph (12)(B)(ii), that would have been made under this subchapter with respect to services furnished in2011 if such system had not been implemented. In making the estimation under subclause (I), the Secretary shall use per patient utilization data from 2007, 2008, or 2009, whichever has the lowest per patient utilization.
+(ii) In implementing the system under this paragraph the Secretary shall ensure that the estimated total amount of payments under this subchapter for 2011 for renal dialysis services shall equal 98 percent of the estimated total amount of payments for renal dialysis services, including payments under paragraph (12)(B)(ii), that would have been made under this subchapter with respect to services furnished in 2011 if such system had not been implemented. In making the estimation under subclause (I), the Secretary shall use per patient utilization data from 2007, 2008, or 2009, whichever has the lowest per patient utilization.
 
 (B) For purposes of this paragraph, the term "renal dialysis services" includes—
 
@@ -280,7 +280,7 @@ The benefits provided by parts A and B of this subchapter shall include benefits
 
 #### (d) Donors of kidney for transplant surgery
 
-Notwithstanding any provision to the contrary in section 426 of this title any individual who donates a kidney for transplant surgery shall be entitled to benefits under parts A and Bof this subchapter with respect to such donation. Reimbursement for the reasonable expenses incurred by such an individual with respect to a kidney donation shall be made (without regard to the deductible, premium, and coinsurance provisions of this subchapter), in such manner as may be prescribed by the Secretary in regulations, for all reasonable preparatory, operation, and postoperation recovery expenses associated with such donation, including but not limited to the expenses for which payment could be made if he were an eligible individual for purposes of parts A and B of this subchapter without regard to this subsection. Payments for postoperation recovery expenses shall be limited to the actual period of recovery.
+Notwithstanding any provision to the contrary in section 426 of this title any individual who donates a kidney for transplant surgery shall be entitled to benefits under parts A and B of this subchapter with respect to such donation. Reimbursement for the reasonable expenses incurred by such an individual with respect to a kidney donation shall be made (without regard to the deductible, premium, and coinsurance provisions of this subchapter), in such manner as may be prescribed by the Secretary in regulations, for all reasonable preparatory, operation, and postoperation recovery expenses associated with such donation, including but not limited to the expenses for which payment could be made if he were an eligible individual for purposes of parts A and B of this subchapter without regard to this subsection. Payments for postoperation recovery expenses shall be limited to the actual period of recovery.
 
 #### (e) Reimbursement of providers, facilities, and nonprofit entities for costs of artificial kidney and automated dialysis peritoneal machines for home dialysis
 
@@ -334,7 +334,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 (2) The Secretary's decision to restrict payments under this subsection shall be made effective only after such notice to the public and to the facility as may be prescribed in regulations, and shall remain in effect until (A) the Secretary finds that the facility is in substantial compliance with the requirements under subsection (b)(1)(A) of this section, or (B) the Secretary terminates the agreement under this subchapter with the facility.
 
-(3) A facility dissatisfied with a determination by the Secretary under paragraph (1) shall be entitled to a hearing thereon by the Secretary (after reasonable notice) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(3) A facility dissatisfied with a determination by the Secretary under paragraph (1) shall be entitled to a hearing thereon by the Secretary (after reasonable notice) to the same extent asis provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 #### (h) Quality incentives in the end-stage renal disease program
 
@@ -416,7 +416,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall develop a methodology for assessing the total performance of each provider of services and renal dialysis facility based on performance standards with respect to the measures selected under paragraph (2) for a performance period established under paragraph (4)(D) (in this subsection referred to as the "total performance score").
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall develop a methodology for assessing the total performance of each provider of services and renal dialysis facility based on performance standards with respect to themeasures selected under paragraph (2) for a performance period established under paragraph (4)(D) (in this subsection referred to as the "total performance score").
 
 #### (ii) Application
 
@@ -494,7 +494,7 @@ Notwithstanding any provision to the contrary in section 426 of this title any i
 
 #### (D) Web-based list
 
-&emsp;&emsp;The Secretary shall establish a list of providers of services and renal dialysis facilities who furnish renal dialysis services under this section that indicates the total performance score and the performance score for individual measures achieved by the provider and facility under paragraph (3). Such information shall be posted on the Internet website of the Centers for Medicare \& Medicaid Services in an easily understandable format.
+&emsp;&emsp;The Secretary shall establish a list of providers of services and renal dialysis facilitieswho furnish renal dialysis services under this section that indicates the total performance score and the performance score for individual measures achieved by the provider and facility under paragraph (3). Such information shall be posted on the Internet website of the Centers for Medicare \& Medicaid Services in an easily understandable format.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §222(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) \[title IV, §422(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–275, title I, §153(a), (b)(1), (3)(A), (c), July 15, 2008, 122 Stat. 2553, 2556; Pub. L. 111–148, title III, §3401(h), Mar. 23, 2010, 124 Stat. 485; Pub. L. 112–240, title VI, §632(a), Jan. 2, 2013, 126 Stat. 2354; Pub. L. 113–93, title II, §217(b), (d), Apr. 1, 2014, 128 Stat. 1061, 1062.)
 
@@ -536,7 +536,7 @@ Subsec. (b)(12)(F). Pub. L. 110–275, §153(b)(3)(A)(ii), in concluding provisi
 
 Subsec. (b)(12)(G). Pub. L. 110–275, §153(a)(1), inserted "and before January 1, 2009," after "April 1, 2007," in cl. (ii) and added cls. (iii) and (iv).
 
-Subsec. (b)(13)(A). Pub. L. 110–275, §153(b)(3)(A)(iii)(I), substituted "Subject to paragraph (14), the paymentamounts" for "The payment amounts" in introductory provisions.
+Subsec. (b)(13)(A). Pub. L. 110–275, §153(b)(3)(A)(iii)(I), substituted "Subject to paragraph (14), the payment amounts" for "The payment amounts" in introductory provisions.
 
 Subsec. (b)(13)(B). Pub. L. 110–275, §153(b)(3)(A)(iii)(II), redesignated cl. (i) as subpar. (B), inserted ", subject to paragraph (14)" before period at end, and struck out cl. (ii) which read as follows: "Nothing in this paragraph, section 1395u(o) of this title, section 1395w–3a of this title, or section 1395w–3b of this title shall be construed as requiring or authorizing the bundling of payment for drugs and biologicals into the basic case-mix adjusted payment system under this paragraph."
 
@@ -678,7 +678,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9335(a)(3), Oct. 21, 1986, 100 Stat. 2029, provided that: "The amendments made byparagraph (2) \[amending this section\] shall apply to applications filed on or after the date of the enactment of this Act \[Oct. 21, 1986\]."
+Pub. L. 99–509, title IX, §9335(a)(3), Oct. 21, 1986, 100 Stat. 2029, provided that: "The amendments made by paragraph (2) \[amending this section\] shall apply to applications filed on or after the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 Pub. L. 99–509, title IX, §9335(j)(2), Oct. 21, 1986, 100 Stat. 2032, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(C), Dec. 22, 1987, 101 Stat. 1330–133, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to treatment furnished on or after January 1, 1987\[,\] except that, until network administrative organizations are established under section 1881(c)(1)(A) of the Social Security Act \[42 U.S.C. 1395rr(c)(1)(A)\] (as amended by subsection (d)(1) of this section), the distribution of payments described in the last sentence of section 1881(b)(7) of such Act shall be made based on the distribution of payments under section 1881 of such Act to network administrative organizations for fiscal year 1986."
 
@@ -1060,7 +1060,7 @@ In general.—An individual may receive services from a provider of services or 
 
 &emsp;"(2)
 
-Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[42U.S.C. 1395rr(f)(2)\] shall be deemed to be an eligible individual for purposes of this subsection.
+Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[42 U.S.C. 1395rr(f)(2)\] shall be deemed to be an eligible individual for purposes of this subsection.
 
 &emsp;"(3)
 
@@ -1084,7 +1084,7 @@ Interim status report.—Not later than December 1, 1992, the Secretary shall su
 
 &emsp;"(2)
 
-Final report.—Not later than December 31, 1995, the Secretary shall submit to Congress a final report evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysis aide providing medical assistance to a patient during hemodialysis treatment at the patient's home.
+Final report.—Not later than December 31, 1995, the Secretary shall submit to Congress a final report evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysisaide providing medical assistance to a patient during hemodialysis treatment at the patient's home.
 
 "(f)
 

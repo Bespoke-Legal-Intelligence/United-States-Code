@@ -12,4 +12,5 @@
 - [&sect; 02075 - Acquisition of special nuclear material; payments; just compensation](%C2%A7%2002075%20-%20Acquisition%20of%20special%20nuclear%20material%3B%20payments%3B%20just%20compensation.md)
 - [&sect; 02076 - Guaranteed purchase prices](%C2%A7%2002076%20-%20Guaranteed%20purchase%20prices.md)
 - [&sect; 02077 - Unauthorized dealings in special nuclear material](%C2%A7%2002077%20-%20Unauthorized%20dealings%20in%20special%20nuclear%20material.md)
+- [&sect; 02077a - Interagency review of applications for the transfer of United States civil nuclear technology](%C2%A7%2002077a%20-%20Interagency%20review%20of%20applications%20for%20the%20transfer%20of%20United%20States%20civil%20nuclear%20technology.md)
 - [&sect; 02078 - Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges](%C2%A7%2002078%20-%20Congressional%20review%20of%20guaranteed%20purchase%20price%2C%20guaranteed%20purchase%20price%20period%2C%20and%20criteria%20for%20waiver%20of%20charges.md)

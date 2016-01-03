@@ -122,7 +122,7 @@ Mental Health Professionals in Critical Wartime Specialties.—(1) Under the sti
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Selected Reserve;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Selected Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specifiedin the agreement and to active duty in time of war or national emergency as provided by law for members of the Selected Reserve; and
 
 &emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 
@@ -216,7 +216,7 @@ Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, pro
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Payments for Period Prior to December 4, 1987
 

@@ -10,7 +10,7 @@ Judicial Procedures.—When a petition is filed under subsection (a) of this sec
 
 (c)
 
-Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, thecourt may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
+Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
 
 (d)
 
@@ -20,7 +20,7 @@ Requirement for Prior Objection.—In reviewing an order under this section, the
 
 Supreme Court Review.—A decision by a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1230; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641; Pub. L. 108–176, title II, §228, Dec. 12, 2003, 117 Stat. 2532.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1230; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001,115 Stat. 641; Pub. L. 108–176, title II, §228, Dec. 12, 2003, 117 Stat. 2532.)
 
 Historical and Revision Notes
 

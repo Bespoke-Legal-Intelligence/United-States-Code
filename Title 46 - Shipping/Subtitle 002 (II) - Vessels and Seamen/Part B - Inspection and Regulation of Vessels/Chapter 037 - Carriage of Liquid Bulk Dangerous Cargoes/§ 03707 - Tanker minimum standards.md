@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 Section 3707 requires compliance with certain minimum standards by a tanker, which is a self-propelled tank vessel.
 
-Section 3707(a) requires new tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, a means of communications andrudder angle indicators at specified locations, two or more specified power units for the main steering gear, an alternative and adequate power supply of specified characteristics, and a means of automatic operation of power units, with attendant alarms at all steering stations.
+Section 3707(a) requires new tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, a means of communications and rudder angle indicators at specified locations, two or more specified power units for the main steering gear, an alternative and adequate power supply of specified characteristics, and a means of automatic operation of power units, with attendant alarms at all steering stations.
 
 Section 3707(b) requires existing tankers of 10,000 gross tons or above, to have two remote steering gear control systems, a main steering gear control in the steering gear compartment, and a means of communication and rudder angle indicators at specified locations.
 

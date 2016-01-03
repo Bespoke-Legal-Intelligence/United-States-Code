@@ -28,7 +28,7 @@ As a condition of the State plan under this subchapter and receipt of any Federa
 
 #### (2) Agreements with State health insurance exchanges
 
-&emsp;The State Medicaid agency and the State CHIP agency may enter into an agreement with an Exchange established by the Stateunder section 18031 of this title under which the State Medicaid agency or State CHIP agency may determine whether a State resident is eligible for premium assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 (and, if applicable, advance payment of such assistance under section 18082 of this title), so long as the agreement meets such conditions and requirements as the Secretary of the Treasury may prescribe to reduce administrative costs and the likelihood of eligibility errors and disruptions in coverage.
+&emsp;The State Medicaid agency and the State CHIP agency may enter into an agreement with an Exchange established by the State under section 18031 of this title under which the State Medicaid agency or State CHIP agency may determine whether a State resident is eligible for premium assistance for the purchase of a qualified health plan under section 36B of the Internal Revenue Code of 1986 (and, if applicable, advance payment of such assistance under section 18082 of this title), so long as the agreement meets such conditions and requirements as the Secretary of the Treasury may prescribe to reduce administrative costs and the likelihood of eligibility errors and disruptions in coverage.
 
 #### (3) Streamlined enrollment system
 

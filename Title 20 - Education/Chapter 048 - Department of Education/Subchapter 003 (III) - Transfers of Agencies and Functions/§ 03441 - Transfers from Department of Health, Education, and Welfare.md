@@ -88,7 +88,7 @@ Nothing in the provisions of this section or in the provisions of this chapter s
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2,1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
@@ -120,7 +120,7 @@ The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is P
 
 The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to chapter 6A (§107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
+Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which isclassified generally to chapter 6A (§107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
 
 #### Codification
 

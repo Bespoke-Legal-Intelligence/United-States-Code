@@ -22,7 +22,7 @@ For purposes of this section, the term "security" means any share of stock in an
 
 &emsp;In the case of a floor specialist (but only with respect to acquisitions, in connection with his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—
 
-&emsp;&emsp;(A) by inserting "the 7th business day following" before "the day" the first place it appears in paragraph (1) and by inserting "7th business" before "day" in paragraph (2), and
+&emsp;&emsp;(A) by inserting "the 7th business day following" before "the day" the first place itappears in paragraph (1) and by inserting "7th business" before "day" in paragraph (2), and
 
 &emsp;&emsp;(B) by striking the parenthetical phrase in paragraph (1).
 
@@ -52,7 +52,7 @@ Subsec. (a)(2). Pub. L. 98–369, §107(b)(2), inserted "(or such earlier time)"
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §506(a), substituted "before the close of the day on which it was acquired\(before the close of the following day in the case of an acquisition before January 1, 1982)" for "before the expiration of the 30th day after the date of its acquisition" in par. (1) and "close of such day" for "expiration of such 30th day" in par. (2).
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §506(a), substituted "before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982)" for "before the expiration of the 30th day after the date of its acquisition" in par. (1) and "close of such day" for "expiration of such 30th day" in par. (2).
 
 Subsec. (d). Pub. L. 97–34, §506(b), added subsec. (d).
 

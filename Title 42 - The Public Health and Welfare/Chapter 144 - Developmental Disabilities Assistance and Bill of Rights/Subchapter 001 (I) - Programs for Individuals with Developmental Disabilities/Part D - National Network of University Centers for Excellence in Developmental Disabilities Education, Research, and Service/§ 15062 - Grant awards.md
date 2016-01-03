@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In awarding and distributing grant funds under section 15061(a)of this title for a fiscal year, the Secretary, subject to the availability of appropriations and the condition specified in subsection (d) of this section, shall award and distribute grant funds in equal amounts of $500,000 (adjusted in accordance with subsection (b) of this section), to each Center that existed during the preceding fiscal year and that meets the requirements of this part, prior to making grants under subsection (c) or (d) of this section.
+&emsp;In awarding and distributing grant funds under section 15061(a)of this title for a fiscal year, the Secretary, subject to the availability of appropriations and the condition specifiedin subsection (d) of this section, shall award and distribute grant funds in equal amounts of $500,000 (adjusted in accordance with subsection (b) of this section), to each Center that existed during the preceding fiscal year and that meets the requirements of this part, prior to making grants under subsection (c) or (d) of this section.
 
 #### (2) Reduction of award
 

@@ -16,7 +16,7 @@ Powers.—
 
 &emsp;(1)
 
-Hold hearings, request attendance, take testimony, and receive evidence.—The Commission or any member it authorizes may, for the purposes of carrying out this chapter, hold such hearings, sit and act at such times and places, request such attendance, take such testimony, and receive such evidence, as the Commission considers appropriate.
+Hold hearings, request attendance, take testimony, and receive evidence.—TheCommission or any member it authorizes may, for the purposes of carrying out this chapter, hold such hearings, sit and act at such times and places, request such attendance, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
 &emsp;(2)
 

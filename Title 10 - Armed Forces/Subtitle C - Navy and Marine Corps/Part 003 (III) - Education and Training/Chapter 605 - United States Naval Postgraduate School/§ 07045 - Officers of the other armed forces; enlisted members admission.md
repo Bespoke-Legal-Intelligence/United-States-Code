@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) 
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted "Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security" for "Secretaries of the Army, Air Force, and Transportation".
 
-Subsec. (b). Pub. L. 107–296, §1704(b)(5), substituted "Department of Homeland Security" for "Department of Transportation" and "Secretary of the Army, theSecretary of the Air Force, and the Secretary of Homeland Security" for "Secretaries of the Army, Air Force, and Transportation".
+Subsec. (b). Pub. L. 107–296, §1704(b)(5), substituted "Department of Homeland Security" for "Department of Transportation" and "Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security" for "Secretaries of the Army, Air Force, and Transportation".
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261 struck out "the" after "are subject to".
 

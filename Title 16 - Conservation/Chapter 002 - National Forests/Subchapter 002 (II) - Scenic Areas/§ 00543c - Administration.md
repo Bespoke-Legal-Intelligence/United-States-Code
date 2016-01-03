@@ -30,7 +30,7 @@
 
 #### (b) Water rights; protection of geologic, ecologic and cultural resources; recreational use of Scenic Area; related facilities and programs; scientific study and research; commercial timber harvesting
 
-(1) In a manner consistent with the protection of the water rights of the State of California or any political subdivision thereof (including the city of Los Angeles) or of any person to the extent that such water rights have been granted or modified under the laws of the State of California, the Secretary shall manage the Scenic Area to protect its geologic, ecologic, and cultural resources. The Secretary shall provide for recreational use of the Scenic Area and shall provide recreational and interpretive facilities (including trails and campgrounds) for the use of the public which are compatible with the provisions of sections 543 to 543h of this title, andmay assist adjacent affected local governmental agencies in the development of related interpretive programs. The Secretary shall permit the full use of the Scenic Area for scientific study and research in accordance with such rules and regulations as he may prescribe.
+(1) In a manner consistent with the protection of the water rights of the State of California or any political subdivision thereof (including the city of Los Angeles) or of any person to the extent that such water rights have been granted or modified under the laws of the State of California, the Secretary shall manage the Scenic Area to protect its geologic, ecologic, and cultural resources. The Secretary shall provide for recreational use of the Scenic Area and shall provide recreational and interpretive facilities (including trails and campgrounds) for the use of the public which are compatible with the provisions of sections 543 to 543h of this title, and may assist adjacent affected local governmental agencies in the development of related interpretive programs. The Secretary shall permit the full use of the Scenic Area for scientific study and research in accordance with such rules and regulations as he may prescribe.
 
 (2) Except as specifically provided in this subsection, no commercial timber harvesting shall be permitted in the Scenic Area, but the Secretary shall permit the utilization of wood material such as firewood, posts, poles, and Christmas trees by individuals for their domestic purposes under such regulations as he may prescribe to protect the natural and cultural resources of the Scenic Area. The Secretary may take action including the use of commercial timber harvest to the minimum extent necessary to control fires, insects and diseases that might—
 
@@ -48,7 +48,7 @@ The Secretary may enter into cooperative agreements with the State of California
 
 #### (e) Management plan
 
-Within three years after September 28, 1984, the Secretary shall submit to the committees referred to in section 543 of this title, a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
+Within three years after September 28, 1984, the Secretary shall submit to the committees referred to in section 543 of this title, a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1). The plan shall include but not be limited to—
 
 &emsp;(1) an inventory of natural (including geologic) and cultural resources;
 
@@ -96,7 +96,7 @@ Existing community recreational uses, as of September 28, 1984, shall be permitt
 
 #### References in Text
 
-The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 The Act entitled "An Act authorizing and directing the Secretary of the Interior to sell to the city of Los Angeles, California, certain public lands in California; and granting rights-of-way over public lands and reserved lands to the city of Los Angeles in Mono County in the State of California", referred to in subsec. (i)(1), is act June 23, 1936, ch. 733, 49 Stat. 1892, which was not classified to the Code.
 

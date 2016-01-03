@@ -22,7 +22,7 @@ Advice to Certificate Holders and Opportunity To Answer.—Before acting under s
 
 (d)
 
-Appeals.—(1) A person adversely affected by an order of the Administrator under this section may appeal the order to the National Transportation Safety Board. After notice and an opportunity for a hearing, the Board may amend, modify, or reverse the order when the Board finds—
+Appeals.—(1) A person adversely affected by an order of the Administrator under this section may appeal the order to the National Transportation Safety Board. After notice andan opportunity for a hearing, the Board may amend, modify, or reverse the order when the Board finds—
 
 &emsp;(A) if the order was issued under subsection (b)(1)(A) of this section, that safety in air commerce or air transportation and the public interest do not require affirmation of the order; or
 

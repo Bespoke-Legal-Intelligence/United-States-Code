@@ -4,7 +4,7 @@
 
 #### (1) General authority
 
-&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c) of this section, if the person complies with paragraph (2).
+&emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed bythe Administrator under subsection (c) of this section, if the person complies with paragraph (2).
 
 &emsp;(B) Any person withholding the specific chemical identity shall, in the place on the submittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 
-&emsp;(B) In submitting to the Administrator the information required by subparagraph (A)(iii),a person withholding information under this subsection may—
+&emsp;(B) In submitting to the Administrator the information required by subparagraph (A)(iii), a person withholding information under this subsection may—
 
 &emsp;&emsp;(i) designate, in writing and in such manner as the Administrator may prescribe by regulation, the information which such person believes is entitled to be withheld under paragraph (1), and
 
@@ -60,7 +60,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 &emsp;(B) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are true and that the specific chemical identity is a trade secret, the Administrator shall so notify the petitioner and the petitioner may seek judicial review of the determination.
 
-&emsp;(C) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are not true and that the specific chemical identity is not a trade secret, the Administrator shall notify the trade secret claimant that the Administrator intends to release the specific chemical identity. The trade secret claimant has 30 days in which he may appeal the Administrator's determination under this subparagraph to the Administrator. If the Administrator does not reverse his determination under this subparagraph in such an appeal by the trade secret claimant, the trade secret claimaint <sup>1</sup> may seek judicial review of the determination.
+&emsp;(C) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are not true and that the specific chemical identity is not a trade secret, the Administrator shall notify the trade secret claimant that the Administrator intends to release the specific chemical identity. The trade secret claimant has 30 days in which he may appeal the Administrator's determination under this subparagraph to the Administrator. If the Administrator does not reverse his determination under this subparagraph in such an appeal by the tradesecret claimant, the trade secret claimaint <sup>1</sup> may seek judicial review of the determination.
 
 #### (4) Finding of insufficient assertions
 

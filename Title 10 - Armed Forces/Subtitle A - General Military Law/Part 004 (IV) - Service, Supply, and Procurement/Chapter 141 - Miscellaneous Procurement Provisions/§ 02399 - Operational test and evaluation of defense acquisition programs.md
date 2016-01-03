@@ -98,7 +98,7 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 Subsec. (b)(5), (6). Pub. L. 109–364, §231(a)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-<b>2003</b>—Subsec. (h). Pub. L. 108–136 substituted "Operational Test and Evaluation Defined" for "Definitions" in heading, struck out introductory provisions which read "In this section:", substituted "In this section,the term" for "(1) The term", redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined "congressional defense committees" to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+<b>2003</b>—Subsec. (h). Pub. L. 108–136 substituted "Operational Test and Evaluation Defined" for "Definitions" in heading, struck out introductory provisions which read "In this section:", substituted "In this section, the term" for "(1) The term", redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined "congressional defense committees" to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–314 substituted "means a conventional weapons system that" for "means" in introductory provisions and struck out "a conventional weapons system that" before "is a major system" in subpar. (A).
 

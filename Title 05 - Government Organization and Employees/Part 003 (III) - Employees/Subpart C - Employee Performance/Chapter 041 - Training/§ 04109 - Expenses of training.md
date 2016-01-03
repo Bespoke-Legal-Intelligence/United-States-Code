@@ -52,7 +52,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
+<b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language ofPub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
 <b>2011</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(B), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and "475" for "405" in subpar. (A), and "476" for "406" and "479" for "409" in subpar. (B).
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 102–378 effective Oct. 1, 1991, see section 9(b)(3) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–525, title XV, §1537(f), Oct. 19, 1984, 98 Stat. 2636, provided that: "The amendments made by thissection \[amending this section and sections 5532, 5546a, 5547, and 8344 of this title\] shall take effect on October 1, 1984."
+Pub. L. 98–525, title XV, §1537(f), Oct. 19, 1984, 98 Stat. 2636, provided that: "The amendments made by this section \[amending this section and sections 5532, 5546a, 5547, and 8344 of this title\] shall take effect on October 1, 1984."
 
 #### Effective Date of 1982 Amendment
 

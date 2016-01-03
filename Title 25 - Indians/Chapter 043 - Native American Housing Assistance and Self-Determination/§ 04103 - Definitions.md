@@ -48,7 +48,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (2) Affordable housing
 
-&emsp;The term "affordable housing" means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
+&emsp;The term "affordable housing" means housing that complies with the requirements for affordable housing under subchapter II. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
 
 #### (3) Drug-related criminal activity
 
@@ -158,7 +158,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (17) Nonprofit
 
-&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
+&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, orother entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
 
 #### (18) Person with disabilities
 

@@ -32,7 +32,7 @@ Each Lead State Agency designated under section 9409(c) of this title and Local 
 
 &emsp;(2) that the programs, services, and activities assisted under this chapter will represent developmentally appropriate steps toward the acquisition of those abilities; and
 
-&emsp;(3) that the programs, services, and activities assisted under this chapter collectively provide benefits for children cared for in theirown homes as well as children placed in the care of others.
+&emsp;(3) that the programs, services, and activities assisted under this chapter collectively provide benefits for children cared for in their own homes as well as children placed in the care of others.
 
 #### (d) Sliding scale payments
 

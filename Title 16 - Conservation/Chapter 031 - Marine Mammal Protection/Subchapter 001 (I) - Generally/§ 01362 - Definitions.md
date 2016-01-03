@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 &emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 of this title) the term "Secretary" means the Secretary of Commerce.
+(B) in <sup>1</sup> section 1387 of this title and subchapter V (other than section 1421f–1 of this title) the term "Secretary" means the Secretary of Commerce.
 
 (13) The term "take" means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 
@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 &emsp;(A) the territorial sea of the United States;
 
-&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the UnitedStates, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
+&emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
 
 &emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
@@ -66,7 +66,7 @@ For the purposes of this chapter—
 
 &emsp;(i) has the potential to injure a marine mammal or marine mammal stock in the wild; or
 
-&emsp;(ii) has the potential to disturb a marine mammal or marine mammal stock in the wild by causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering.
+&emsp;(ii) has the potential to disturb a marine mammal or marine mammal stock in the wildby causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering.
 
 (B) In the case of a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note) or a scientific research activity conducted by or on behalf of the Federal Government consistent with section 1374(c)(3) of this title, the term "harassment" means—
 
@@ -136,7 +136,7 @@ The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C)
 
 "(C) The term 'Level B harassment' means harassment described in subparagraph (A)(ii)."
 
-<b>2000</b>—Par. (12)(B). Pub. L. 106–555 inserted "(other than section 1421f–1 of this title)" after "subchapter V of this chapter".
+<b>2000</b>—Par. (12)(B). Pub. L. 106–555 inserted "(other than section 1421f–1 of this title)" after "subchapter V".
 
 <b>1997</b>—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
 
@@ -150,7 +150,7 @@ Pub. L. 104–297, §404(b)(3), amended par. (15) generally. Prior to amendment,
 
 Par. (21). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 
-<b>1994</b>—Par. (12)(B). Pub. L. 103–238, §24(a)(2), substituted "in section 1387 of this title and subchapter V of this chapter" for "in subchapter V of this chapter".
+<b>1994</b>—Par. (12)(B). Pub. L. 103–238, §24(a)(2), substituted "in section 1387 of this title and subchapter V" for "in subchapter V".
 
 Pars. (15) to (17). Pub. L. 103–238, §16(a), redesignated par. (15) defining "fishery", and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined "intermediary nation".
 
@@ -184,7 +184,7 @@ Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) an
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
-<b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured" for "the fisheries zone established pursuant to the Act of October 14, 1966".
+<b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured" for "the fisheries zone established pursuant to the Act of October 14, 1966".
 
 <b>1973</b>—Par. (1)(B). Pub. L. 93–205 substituted "Endangered Species Act of 1973" for "Endangered Species Conservation Act of 1969".
 
@@ -222,7 +222,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–238, §24(e), Apr. 30, 1994, 108 Stat. 566, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\]."
+Pub. L. 103–238, §24(e), Apr. 30, 1994, 108 Stat. 566, provided that: "The amendments made by subsection (a)\[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\]."
 
 #### Effective Date of 1992 Amendment
 

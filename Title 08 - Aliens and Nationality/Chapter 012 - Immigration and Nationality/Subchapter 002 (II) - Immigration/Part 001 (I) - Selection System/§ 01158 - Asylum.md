@@ -18,7 +18,7 @@
 
 #### (C) Previous asylum applications
 
-&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien if the alien haspreviously applied for asylum and had such application denied.
+&emsp;&emsp;Subject to subparagraph (D), paragraph (1) shall not apply to an alien if the alien has previously applied for asylum and had such application denied.
 
 #### (D) Changed circumstances
 
@@ -48,7 +48,7 @@
 
 #### (ii) Sustaining burden
 
-&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
+&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony,such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
 
 #### (iii) Credibility determination
 
@@ -108,7 +108,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an alien granted asylum under subsection (b) of this section, the Attorney General—
+&emsp;In the case of an alien granted asylum under subsection (b), the Attorney General—
 
 &emsp;&emsp;(A) shall not remove or return the alien to the alien's country of nationality or, in the case of a person having no nationality, the country of the alien's last habitual residence;
 
@@ -118,11 +118,11 @@
 
 #### (2) Termination of asylum
 
-&emsp;Asylum granted under subsection (b) of this section does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
+&emsp;Asylum granted under subsection (b) does not convey a right to remain permanently inthe United States, and may be terminated if the Attorney General determines that—
 
-&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) of this section owing to a fundamental change in circumstances;
+&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) owing to a fundamental change in circumstances;
 
-&emsp;&emsp;(B) the alien meets a condition described in subsection (b)(2) of this section;
+&emsp;&emsp;(B) the alien meets a condition described in subsection (b)(2);
 
 &emsp;&emsp;(C) the alien may be removed, pursuant to a bilateral or multilateral agreement, to a country (other than the country of the alien's nationality or, in the case of an alien having no nationality, the country of the alien's last habitual residence) in which the alien's life or freedom would not be threatened on account of race, religion, nationality, membership in a particular social group, or political opinion, and where the alien is eligible to receive asylum or equivalent temporary protection;
 
@@ -138,7 +138,7 @@
 
 #### (1) Applications
 
-&emsp;The Attorney General shall establish a procedure for the consideration of asylum applications filed under subsection (a) of this section. The Attorney General may require applicants to submit fingerprints and a photograph at such time and in such manner to be determined by regulation by the Attorney General.
+&emsp;The Attorney General shall establish a procedure for the consideration of asylum applications filed under subsection (a). The Attorney General may require applicants to submit fingerprints and a photograph at such time and in such manner to be determined by regulation by the Attorney General.
 
 #### (2) Employment
 
@@ -208,7 +208,7 @@ Subsec. (b)(1)(B). Pub. L. 109–13, §101(a)(3), added subpar. (B)
 
 Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted "described in" for "inadmissible under" in two places and struck out "removable under" before "section 1227(a)(4)(B)".
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A spouse or child (asdefined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien."
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien."
 
 <b>2001</b>—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted "(III), (IV), or (VI)" for "(III), or (IV)".
 

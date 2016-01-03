@@ -18,15 +18,15 @@ Whenever any foreign country or instrumentality withdraws, suspends, or modifies
 
 &emsp;(1) withdraw, suspend, or modify the application of substantially equivalent trade agreement obligations of benefit to such foreign country or instrumentality, and
 
-&emsp;(2) proclaim under subsection (c) of this section such increased duties or other import restrictions as are appropriate to effect adequate compensation from such foreign country or instrumentality.
+&emsp;(2) proclaim under subsection (c) such increased duties or other import restrictions as are appropriate to effect adequate compensation from such foreign country or instrumentality.
 
 #### (e) Continuation of duties or other import restrictions after termination of or withdrawal from agreements
 
-Duties or other import restrictions required or appropriate to carry out any trade agreement entered into pursuant to this chapter, section 1821 of this title, or section 1351 of this title shall not be affected by any termination, in whole or in part, of such agreement or by the withdrawal of the United States from such agreement and shall remain in effect after the date of such termination or withdrawal for 1 year, unless the President by proclamation provides that such rates shall be restored to the level at which they would be but for the agreement. Within 60 days after the date of any such termination or withdrawal, the President shall transmit to the Congress his recommendations as to the appropriate rates of duty for all articles which were affected by the termination or withdrawal or would have been so affected but for the preceding sentence.
+Duties or other import restrictions required or appropriate to carry out any trade agreemententered into pursuant to this chapter, section 1821 of this title, or section 1351 of this title shall not be affected by any termination, in whole or in part, of such agreement or by the withdrawal of the United States from such agreement and shall remain in effect after the date of such termination or withdrawal for 1 year, unless the President by proclamation provides that such rates shall be restored to the level at which they would be but for the agreement. Within 60 days after the date of any such termination or withdrawal, the President shall transmit to the Congress his recommendations as to the appropriate rates of duty for all articles which were affected by the termination or withdrawal or would have been so affected but for the preceding sentence.
 
 #### (f) Public hearings
 
-Before taking any action pursuant to subsection (b), (c), or (d) of this section, the President shall provide for a public hearing during the course of which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard, unless he determines that such prior hearings will be contrary to the national interest because of the need for expeditious action, in which case he shall provide for a public hearing promptly after such action.
+Before taking any action pursuant to subsection (b), (c), or (d), the President shall provide for a public hearing during the course of which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard, unless he determines that such prior hearings will be contrary to the national interest because of the need for expeditious action, in which case he shall provide for a public hearing promptly after such action.
 
 (Pub. L. 93–618, title I, §125, Jan. 3, 1975, 88 Stat. 1991.)
 

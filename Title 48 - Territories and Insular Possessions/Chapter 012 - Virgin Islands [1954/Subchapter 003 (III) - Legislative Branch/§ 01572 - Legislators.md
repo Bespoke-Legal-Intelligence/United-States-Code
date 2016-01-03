@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 86–289, §2(b), changed the date of payment of salaries, 
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–130, §2, Oct. 19, 1973, 87 Stat. 460, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply with respect to vacancies occurring on or after the date of enactment of this Act \[Oct. 19, 1973\]."
+Pub. L. 93–130, §2, Oct. 19, 1973, 87 Stat. 460, provided that: "The amendment made by the first section of thisAct \[amending this section\] shall apply with respect to vacancies occurring on or after the date of enactment of this Act \[Oct. 19, 1973\]."
 
 #### Effective Date of 1968 Amendment
 

@@ -34,13 +34,13 @@ All laborers and mechanics employed by contractors and subcontractors (excluding
 
 #### (h) Application of other laws
 
-Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
+Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, theFederal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
 
 (Pub. L. 93–638, title V, §509, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 724; amended Pub. L. 113–287, §5(g), Dec. 19, 2014, 128 Stat. 3269.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This subchapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

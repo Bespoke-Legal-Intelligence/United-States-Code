@@ -100,7 +100,7 @@ In this section:
 
 #### (6) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not less than 1/3 of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
+&emsp;There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not lessthan 1/3 of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
 
 #### (c) Near-term transportation sector electrification program
 

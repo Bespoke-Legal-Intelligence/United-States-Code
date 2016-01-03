@@ -12,7 +12,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 The phrase "this chapter and section 186(a)–(c) of this title", referred to in subsec. (b), was in original "titles I, II, III, IV, V, or VI of this Act". The phrase "this chapter" later appearing in subsec. (b), was in original "said titles (except section 505) of this Act". Original text reference, in both instances, includes those sections of the Act which are classified principally to this chapter. For complete classification of such titles to the Code, see Tables.
 
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) ofTitle 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 

@@ -46,11 +46,11 @@
 
 #### (D) Carryover of funds
 
-&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of thefunds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
+&emsp;&emsp;For fiscal year 2002 and each fiscal year thereafter, not more than 2 percent of the funds made available under this paragraph for the fiscal year to each governmental entity may be carried over to the following fiscal year.
 
 #### (3) Time and manner of payments to Commonwealth of Puerto Rico
 
-&emsp;The Secretary shall, subject to the provisions of subsection (b), pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv), reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
+&emsp;The Secretary shall, subject to the provisions of subsection (b), pay to the Commonwealth for the applicable fiscal year, at suchtimes and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv), reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
 
 #### (b) Plan for provision of assistance; approval; noncompliance
 

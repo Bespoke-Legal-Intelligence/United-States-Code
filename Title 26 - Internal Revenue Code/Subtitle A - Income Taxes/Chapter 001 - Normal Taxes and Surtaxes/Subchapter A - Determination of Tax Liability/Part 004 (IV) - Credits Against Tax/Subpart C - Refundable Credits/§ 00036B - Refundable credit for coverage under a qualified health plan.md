@@ -59,7 +59,7 @@ For purposes of this section—
 
 #### (B) Applicable second lowest cost silver plan
 
-&emsp;&emsp;The applicable second lowest cost silver plan with respect to any applicable taxpayeris the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
+&emsp;&emsp;The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
 
 &emsp;&emsp;&emsp;(i) is offered through the same Exchange through which the qualified health plans taken into account under paragraph (2)(A) were offered, and
 
@@ -87,7 +87,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a State requires a qualified health plan under section 1311(d)(3)(B) of such Act to cover benefits in addition to the essential health benefits required to be provided by the plan,
 
-> &emsp;&emsp;the portion of the premium for the plan properly allocable (under rules prescribed by the Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2).
+> &emsp;&emsp;the portion of the premium for the plan properly allocable (under rules prescribed bythe Secretary of Health and Human Services) to such additional benefits shall not be taken into account in determining either the monthly premium or the adjusted monthly premium under paragraph (2).
 
 #### (E) Special rule for pediatric dental coverage
 
@@ -163,7 +163,7 @@ For purposes of this section—
 
 #### (iii) Employee or family must not be covered under employer plan
 
-&emsp;&emsp;&emsp;Clauses (i) and (ii) shall not apply if the employee (or any individual described in the last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.
+&emsp;&emsp;&emsp;Clauses (i) and (ii) shall not apply if the employee (or any individual described inthe last sentence of clause (i)) is covered under the eligible employer-sponsored plan or the grandfathered health plan.
 
 #### (iv) Indexing
 
@@ -323,7 +323,7 @@ Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subse
 
 Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(3)(E), probably means section 1311(d)(2)(B)(ii) of Pub. L. 111–148, which is classified to section 18031(d)(2)(B)(ii) of Title 42, The Public Health and Welfare, and which does not contain subclauses.
 
-The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classificationof this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

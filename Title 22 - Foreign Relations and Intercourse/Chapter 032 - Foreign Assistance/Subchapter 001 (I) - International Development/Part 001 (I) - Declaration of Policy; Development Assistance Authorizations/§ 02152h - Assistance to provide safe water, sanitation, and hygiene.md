@@ -466,7 +466,7 @@ Sense of Congress.—It is the sense of Congress that United States programs to 
 
 "(b)
 
-Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
+Report.—The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to theCommittee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
 
 #### "SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
 

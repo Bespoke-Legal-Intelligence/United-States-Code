@@ -94,7 +94,7 @@
 
 &emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
 
-&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year,the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+&emsp;(35)(A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
 
 &emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
 
@@ -140,7 +140,7 @@
 
 &emsp;(38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
+&emsp;(39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated orduplicative of other required plans and reports.
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -392,7 +392,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), 
 
 Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is section 11(2) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
+Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub.L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
@@ -400,7 +400,7 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36)
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(36), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat.3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
+Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to in subsec. (a)(38), is section 411 of Pub. L. 111–291, title IV, Dec. 8, 2010, 124 Stat. 3113, subsec. (h) of which amended this section. Subsecs. (a) to (g) of section 411, which relate to establishment of the Crow Settlement Fund, are not classified to the Code.
 
 Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
@@ -554,7 +554,7 @@ Pub. L. 111–291, title IV, §415, Dec. 8, 2010, 124 Stat. 3121, provided that:
 
 #### Construction of 1993 Amendment
 
-Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1101 of this title.
+Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to fileany civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1101 of this title.
 
 #### Annual Agency Reports Required
 
@@ -576,7 +576,7 @@ Administrative expenses.—The term 'administrative expenses' has the meaning as
 
 Agency.—The term 'agency'—
 
-&emsp;&emsp;"(A) means an agency as defined under section 1101 of title 31, United States Code, that is established in the executive branch and receives fundingunder this Act \[Pub. L. 111–85, see Tables for classification\]; and
+&emsp;&emsp;"(A) means an agency as defined under section 1101 of title 31, United States Code, that is established in the executive branch and receives funding under this Act \[Pub. L. 111–85, see Tables for classification\]; and
 
 &emsp;&emsp;"(B) shall not include the District of Columbia government.
 
@@ -660,9 +660,9 @@ Fallback Procedure for Floor Consideration if the House Fails to Vote on Final P
 
 Floor Consideration in the House of Discharged Legislation.—
 
-&emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
+&emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c),the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment,and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -838,7 +838,7 @@ Opinion of Congress.—It is the opinion of the Congress that the programs and a
 
 Submission of 2
 
-\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budget for the Coast Guard for fiscal years 1990 and 1991. Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
+\-Year Budget by President.—The President shall include in the budget for fiscal year 1990 submitted to the Congress pursuant to section 1105 of title 31, United States Code, a single proposed budgetfor the Coast Guard for fiscal years 1990 and 1991. Thereafter, the President shall submit a proposed 2-year budget for the Coast Guard every other year.
 
 "(c)
 

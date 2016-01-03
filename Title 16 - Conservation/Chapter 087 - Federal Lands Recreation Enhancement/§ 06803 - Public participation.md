@@ -24,7 +24,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (A) Authority to establish
 
-&emsp;&emsp;Except as provided in subparagraphs (C) and (D), the Secretary or the Secretaries shall establish a Recreation Resource Advisory Committee in each State or region for Federal recreational lands and waters managed by the Forest Service or the Bureau of Land Management to perform the duties described in paragraph (2).
+&emsp;&emsp;Except as provided in subparagraphs (C) and (D), the Secretary or the Secretariesshall establish a Recreation Resource Advisory Committee in each State or region for Federal recreational lands and waters managed by the Forest Service or the Bureau of Land Management to perform the duties described in paragraph (2).
 
 #### (B) Number of Committees
 
@@ -114,7 +114,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (C) Effect of unexpected vacancy
 
-&emsp;&emsp;Where an unexpected vacancy occurs, the Governor and the designated county officials from each county in the relevant State shall provide the Secretary with a list of nominations in the relevant category, as described under paragraph (5)(D), not later than two months after notification of the vacancy. To the extent possible, a vacancy shall be filled in the same category and term in which the original appointment was made.
+&emsp;&emsp;Where an unexpected vacancy occurs, the Governor and the designated county officialsfrom each county in the relevant State shall provide the Secretary with a list of nominations in the relevant category, as described under paragraph (5)(D), not later than two months after notification of the vacancy. To the extent possible, a vacancy shall be filled in the same category and term in which the original appointment was made.
 
 #### (7) Chairperson
 
@@ -136,7 +136,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (A) Notice of meetings
 
-&emsp;&emsp;All meetings of a Recreation Resource Advisory Committee shall be announced atleast one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
+&emsp;&emsp;All meetings of a Recreation Resource Advisory Committee shall be announced at least one week in advance in a local newspaper of record and the Federal Register, and shall be open to the public.
 
 #### (B) Records
 

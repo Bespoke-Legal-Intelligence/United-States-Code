@@ -12,7 +12,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(A) Federal assets to fulfill national and international observation missions and priorities;
 
-&emsp;&emsp;(B) non-Federal assets, including a network of regional information coordinationentities identified under subsection (c)(4), to fulfill regional observation missions and priorities;
+&emsp;&emsp;(B) non-Federal assets, including a network of regional information coordination entities identified under subsection (c)(4), to fulfill regional observation missions and priorities;
 
 &emsp;&emsp;(C) data management, communication, and modeling systems for the timely integration and dissemination of data and information products from the System;
 
@@ -76,7 +76,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (3) Lead Federal agency
 
-&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System, in consultation withthe Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional information coordination entities, and shall—
+&emsp;The National Oceanic and Atmospheric Administration shall function as the lead Federal agency for the implementation and administration of the System, in consultation with the Council, the Interagency Ocean Observation Committee, other Federal agencies that maintain portions of the System, and the regional information coordination entities, and shall—
 
 &emsp;&emsp;(A) establish an Integrated Ocean Observing Program Office within the National Oceanic and Atmospheric Administration utilizing to the extent necessary, personnel from member agencies participating on the Interagency Ocean Observation Committee, to oversee daily operations and coordination of the System;
 
@@ -94,7 +94,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;(H) develop and implement a process for the periodic review and evaluation of regional information coordination entities;
 
-&emsp;&emsp;(I) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are identified by the regional information coordination entities, the Administrator, or other members of the System and transmitted to the Interagency Ocean Observing Committee;
+&emsp;&emsp;(I) formulate an annual process by which gaps in observation coverage or needs for capital improvements of Federal assets and non-Federal assets of the System are identified by the regional information coordination entities, the Administrator, or othermembers of the System and transmitted to the Interagency Ocean Observing Committee;
 
 &emsp;&emsp;(J) develop and be responsible for a data management and communication system, in accordance with standards and protocols established by the Council, by which all data collected by the System regarding ocean and coastal waters of the United States including the Great Lakes, are processed, stored, integrated, and made available to all end-user communities;
 

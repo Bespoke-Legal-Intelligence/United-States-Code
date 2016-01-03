@@ -81,7 +81,7 @@
 | [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics \[Repealed or Transferred\]</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
-| [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy</b> | <b>9201</b> |
+| [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy \[Repealed\]</b> | <b>9201</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md) | <b>Troops-to-Teachers Program</b> | <b>9301</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md) | <b>Early Learning Opportunities</b> | <b>9401</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md) | <b>Education Research, Statistics, Evaluation, Information, and Dissemination</b> | <b>9501</b> |

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall not apply to such loss,
 
-&emsp;&emsp;&emsp;(ii) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-term capital loss arising on the first day of the next taxable year, and
+&emsp;&emsp;&emsp;(ii) the excess of the net short-term capital loss over the net long-term capital gain for such year shall be a short-termcapital loss arising on the first day of the next taxable year, and
 
 &emsp;&emsp;&emsp;(iii) the excess of the net long-term capital loss over the net short-term capital gain for such year shall be a long-term capital loss arising on the first day of the next taxable year.
 
@@ -320,7 +320,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 91–688, §3, Jan. 12, 1971, 84 Stat. 2073, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asamended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained in a taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
+"(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained in a taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
 
 "(b) An election to have the provisions of subsection (a) apply shall be made by a corporation—
 

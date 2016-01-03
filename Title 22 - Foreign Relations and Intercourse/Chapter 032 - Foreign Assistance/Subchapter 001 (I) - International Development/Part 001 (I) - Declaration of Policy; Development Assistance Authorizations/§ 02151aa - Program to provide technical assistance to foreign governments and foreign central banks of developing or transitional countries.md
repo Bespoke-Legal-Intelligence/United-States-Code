@@ -52,7 +52,7 @@ In carrying out the program established under subsection (a), the Secretary—
 
 In carrying out the program established under subsection (a), the Secretary shall have the following administrative authorities:
 
-&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of theForeign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
+&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
 
 &emsp;(2)(A) The Secretary may allocate or transfer to any agency of the United States Government any part of any funds available for carrying out this section, including any advance to the United States Government by any country or international organization for the procurement of commodities, supplies, or services.
 

@@ -54,7 +54,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 &emsp;&emsp;(G) Coordination of academic advising and admissions counseling with military bases and national guard units in the area.
 
-&emsp;&emsp;(H) Other support services the institution determines to be necessary to ensure the success of veterans in achieving educational and career goals.
+&emsp;&emsp;(H) Other support services the institution determines to be necessary to ensure thesuccess of veterans in achieving educational and career goals.
 
 #### (d) Application; selection
 
@@ -78,7 +78,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (e) Evaluation and accountability plan
 
-The Secretary shall develop an evaluation and accountability plan for model programs fundedunder this section to objectively measure the impact of such programs, including a measure of whether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
+The Secretary shall develop an evaluation and accountability plan for model programs funded under this section to objectively measure the impact of such programs, including a measure of whether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
 
 #### (f) Authorization of appropriations
 

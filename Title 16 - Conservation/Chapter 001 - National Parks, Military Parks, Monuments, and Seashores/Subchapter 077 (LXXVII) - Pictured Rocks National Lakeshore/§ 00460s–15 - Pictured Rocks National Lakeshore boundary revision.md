@@ -6,7 +6,7 @@ As soon as practicable after November 25, 2002, the Administrator of General Ser
 
 #### (b) Boundary revision
 
-The boundary of the Lakeshore is revised to include the public land transferred under subsection (a) of this section.
+The boundary of the Lakeshore is revised to include the public land transferred under subsection (a).
 
 #### (c) Availability of map
 
@@ -14,7 +14,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 #### (d) Administration
 
-The Secretary may administer the public land transferred under section <sup>1</sup> (a) of this section—
+The Secretary may administer the public land transferred under section <sup>1</sup> (a)—
 
 &emsp;(1) as part of the Lakeshore; and
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary $225,000 to restore, preserve, and maintain the public land transferred under subsection (a) of this section.
+There are authorized to be appropriated to the Secretary $225,000 to restore, preserve, and maintain the public land transferred under subsection (a).
 
 (Pub. L. 107–295, title IV, §437, Nov. 25, 2002, 116 Stat. 2129.)
 

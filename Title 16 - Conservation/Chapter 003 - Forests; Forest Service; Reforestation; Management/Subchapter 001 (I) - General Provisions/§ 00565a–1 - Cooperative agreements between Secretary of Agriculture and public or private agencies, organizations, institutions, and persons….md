@@ -24,7 +24,7 @@ Agreements Authorized.—The Secretary of Agriculture may enter into an agreemen
 
 &emsp;"(4) To operate facilities (including providing the services of Forest Service employees to staff facilities) in any public or private building or on land not under the jurisdiction, custody, or control of the Administrator of General Services for the sale or distribution of educational and interpretive materials, products, programs, and services, pertaining to National Forest System lands, private lands, and lands administered by other public entities.
 
-&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determinedby the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
+&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determined by the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
 
 &emsp;"(6) To collect funds on behalf of cooperators from the sale of materials, products, programs, and services, as authorized by a preceding paragraph, when the collection of such funds is incidental to other duties of Forest Service employees.
 

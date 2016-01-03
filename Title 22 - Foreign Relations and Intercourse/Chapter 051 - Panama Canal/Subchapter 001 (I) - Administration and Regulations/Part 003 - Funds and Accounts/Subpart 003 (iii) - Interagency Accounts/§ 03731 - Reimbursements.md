@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, funds appropriated (for any fiscal y
 
 &emsp;(2) providing the services related thereto to the categories of persons to which such services were provided before October 1, 1979.
 
-> Notwithstanding any other provision of law, the Department of Defense, or any department or agency designated by the President to provide health care services to those categories of persons referred to in this subsection, shall provide such services to such categories of persons on a basis no less favorable than that applied to its own employees and their dependents.
+> Notwithstanding any other provision of law, the Department of Defense, or any department or agency designated by the President to provide health care services to those categories of persons referred to in this subsection, shall provide such services to such categories of persons on abasis no less favorable than that applied to its own employees and their dependents.
 
 #### (d) Reimbursement to departments or agencies furnishing services
 
@@ -32,7 +32,7 @@ Amounts expended for furnishing services referred to in subsection (c) of this s
 
 #### (f) Reimbursement of United States by Republic of Panama for salaries and other employment costs
 
-For purposes of the reimbursement of the United States by the Republic of Panama for the salaries and other employment costs of employees of the Commission who are assigned to assistthe Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
+For purposes of the reimbursement of the United States by the Republic of Panama for the salaries and other employment costs of employees of the Commission who are assigned to assist the Republic of Panama in the operation of activities which are transferred to that Government as a result of any provision of the Panama Canal Treaty of 1977 and related agreements, which reimbursement is provided for in paragraph 8 of Article 10 of that Treaty, the Commission shall be deemed to be the United States of America.
 
 #### (g) Operation of Canal Zone College
 

@@ -2,7 +2,7 @@
 
 The Secretary may make funds available to contractors or grant recipients under this subchapter for minor renovations to facilities or construction or expansion of facilities, including leased facilities, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards.
 
-(Pub. L. 94–437, title V, §509, formerly §409, as added Pub. L. 101–630, title V, §506(c), Nov. 28,1990, 104 Stat. 4566; renumbered §509 and amended Pub. L. 102–573, title V, §§501(b)(6), 505(b)(2), title IX, §902(5)(A), Oct. 29, 1992, 106 Stat. 4569, 4571, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, §509, formerly §409, as added Pub. L. 101–630, title V, §506(c), Nov. 28, 1990, 104 Stat. 4566; renumbered §509 and amended Pub. L. 102–573, title V, §§501(b)(6), 505(b)(2), title IX, §902(5)(A), Oct. 29, 1992, 106 Stat. 4569, 4571, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### Codification
 

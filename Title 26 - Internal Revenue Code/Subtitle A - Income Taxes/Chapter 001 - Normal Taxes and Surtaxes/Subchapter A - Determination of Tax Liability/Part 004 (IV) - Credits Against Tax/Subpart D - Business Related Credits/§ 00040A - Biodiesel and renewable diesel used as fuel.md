@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (5) Limitation to biodiesel with connection to the United States
 
-&emsp;No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term "United States" includes any possession of the United States.
+&emsp;No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposesof this paragraph, the term "United States" includes any possession of the United States.
 
 #### (e) Definitions and special rules for small agri-biodiesel producer credit
 
@@ -232,7 +232,7 @@ For purposes of this title—
 
 &emsp;&emsp;(B) the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
 
-> &emsp;Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
+> &emsp;Such term shall not include any liquid with respect to which a credit may be determinedunder section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
 
 #### (4) Certain aviation fuel
 
@@ -246,15 +246,17 @@ For purposes of this title—
 
 #### (g) Termination
 
-This section shall not apply to any sale or use after December 31, 2014.
+This section shall not apply to any sale or use after December 31, 2016.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073.)
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–113 substituted "December 31, 2016" for "December 31, 2014".
 
 <b>2014</b>—Subsec. (g). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
@@ -326,9 +328,13 @@ Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §185(a)(2), Dec. 18, 2015, 129 Stat. 3073, provided that: "The amendment made by this subsection \[amending this section\] shall apply to fuel sold or used after December 31, 2014."
+
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §153(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section \[amending this section\] shall apply to fuel sold or used after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §153(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made bythis section \[amending this section\] shall apply to fuel sold or used after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 

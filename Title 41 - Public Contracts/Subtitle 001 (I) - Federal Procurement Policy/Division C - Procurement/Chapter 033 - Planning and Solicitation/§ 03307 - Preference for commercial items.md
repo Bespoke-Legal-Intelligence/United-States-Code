@@ -178,7 +178,7 @@ Contract quality requirements.—Regulations prescribed under paragraph (1) shal
 
 &emsp;&emsp;(B) require that, to the maximum extent practicable, the executive agency take advantage of warranties (including extended warranties) offered by offerors of commercial items and use those warranties for the repair and replacement of commercial items; and
 
-&emsp;&emsp;(C) set forth guidance regarding the use of past performance of commercial items andsources as a factor in contract award decisions.
+&emsp;&emsp;(C) set forth guidance regarding the use of past performance of commercial items and sources as a factor in contract award decisions.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3754.)
 

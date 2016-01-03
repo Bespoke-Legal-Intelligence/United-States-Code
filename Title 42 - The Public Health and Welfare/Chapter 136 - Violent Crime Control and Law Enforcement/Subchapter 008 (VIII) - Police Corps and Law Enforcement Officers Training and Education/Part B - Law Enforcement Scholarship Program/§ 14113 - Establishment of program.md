@@ -18,7 +18,7 @@
 
 &emsp;The employment described in paragraph (1)(B)—
 
-&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or are enrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
+&emsp;&emsp;(A) shall be provided by State and local law enforcement agencies for students who are juniors or seniors in high school or areenrolled in an institution of higher education and who demonstrate an interest in undertaking a career in law enforcement;
 
 &emsp;&emsp;(B) shall not be in a law enforcement position; and
 

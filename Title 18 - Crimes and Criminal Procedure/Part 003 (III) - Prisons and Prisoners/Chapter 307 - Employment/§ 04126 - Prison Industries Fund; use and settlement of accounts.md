@@ -22,7 +22,7 @@
 
 (f) Funds available to the corporation may be used for the lease, purchase, other acquisition, repair, alteration, erection, or maintenance of facilities only to the extent such facilities are necessary for the industrial operations of the corporation under this chapter. Such funds may not be used for the construction or acquisition of penal or correctional institutions, including camps described in section 4125.
 
-(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, §64, 63 Stat. 99; Pub. L. 87–317, Sept. 26,1961, 75 Stat. 681; Pub. L. 100–690, title VII, §7094, Nov. 18, 1988, 102 Stat. 4412; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, §64, 63 Stat. 99; Pub. L. 87–317, Sept. 26, 1961, 75 Stat. 681; Pub. L. 100–690, title VII, §7094, Nov. 18, 1988, 102 Stat. 4412; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +40,7 @@ The words "in the repair, alteration, erection and maintenance of industrial bui
 
 The words "in performing the duties imposed by this chapter" were substituted for the words "for the purposes enumerated in sections 744a–744h of this title," since the provisions with regard to prison industries now appear in this chapter. The general provisions as to use of the fund supersede the more specific provisions of section 744f of said title (enacted earlier).
 
-A reference to the Federal Employees' Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word "law" was substituted for the reference to sections in title 31 since translation of the reference in the 1934 act was not practicable.
+A reference to the Federal Employees' Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word "law" was substituted for the reference to sections in title 31since translation of the reference in the 1934 act was not practicable.
 
 Remaining provisions of said section 744e of title 18, U.S.C., 1940 ed., relating to authorization of appropriations, were omitted as unnecessary.
 

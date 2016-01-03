@@ -64,7 +64,7 @@
 
 (2) In the case of a widow or widower whose annuity under this section is terminated because of remarriage before becoming 55 years of age, the annuity shall be restored at the same rate commencing on the day the remarriage is dissolved by death, divorce, or annulment, if—
 
-&emsp;(A) the widow or widower elects to receive this annuity instead of any other survivor benefit to which such widow or widower may be entitled (under this subchapter or section 8424or under another retirement system for Government employees) by reason of the remarriage; and
+&emsp;(A) the widow or widower elects to receive this annuity instead of any other survivor benefit to which such widow or widower may be entitled (under this subchapter or section 8424 or under another retirement system for Government employees) by reason of the remarriage; and
 
 &emsp;(B) any lump sum paid on termination of the annuity is returned to the Fund.
 
@@ -112,11 +112,11 @@
 
 (g)(1) If the widow or widower of an annuitant under section 8452 (hereinafter in this subsection referred to as a "disability annuitant") is determined under subsection (a) to be entitled to an annuity based on the service of such disability annuitant, the annuity of the widow or widower shall be equal to 50 percent of the amount determined under paragraph (2) (or one-half thereof if designated for this purpose under section 8419 of this title), rather than of the amount referred to in subsection (a).
 
-(2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is based shall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
+(2)(A) Except as provided in subparagraph (B), the amount on which the annuity of the widow or widower of a disability annuitant is basedshall be the amount of the annuity to which such disability annuitant was entitled, as computed under section 8452 (including appropriate reduction under subsection (a)(2) of such section and any adjustments under section 8462 allowed under section 8452), as of the day before the date of the disability annuitant's death.
 
 (B)(i) In the case of a widow or widower entitled to an annuity based on the service of a disability annuitant who dies before age 62, the amount under clause (ii) shall apply instead of the amount which would otherwise apply under subparagraph (A).
 
-(ii)(I) Subject to subclause (II), the amount of the annuity to which the disability annuitant was entitled as of the day before the date of death shall be considered to be the amount which would be computed with respect to suchdisability annuitant under section 8452(b) if the disability annuitant had attained age 62 on the day before date of death.
+(ii)(I) Subject to subclause (II), the amount of the annuity to which the disability annuitant was entitled as of the day before the date of death shall be considered to be the amount which would be computed with respect to such disability annuitant under section 8452(b) if the disability annuitant had attained age 62 on the day before date of death.
 
 (II) For purposes of any such computation under section 8452(b)(2) pursuant to this clause, creditable service shall (in addition to the service which would otherwise be used under subparagraph (B)(i) of such section) include the period of time between date of death and the date of the sixty-second anniversary of the birth of the annuitant, and average pay shall be adjusted in accordance with subparagraph (B)(ii) of such section only through date of death.
 

@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'military medical or dental position' means a position for the performance of health care functions within the Armed Forces held by a member of the Armed Forces.
 
-&emsp;"(2) The term 'civilian medical or dental position' means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department.
+&emsp;"(2) The term 'civilian medical or dental position' means a position for the performance of health care functions within the Department of Defense held byan employee of the Department or of a contractor of the Department.
 
 &emsp;"(3) The term 'uniformed services' has the meaning given that term in section 1072(1) of title 10, United States Code.
 

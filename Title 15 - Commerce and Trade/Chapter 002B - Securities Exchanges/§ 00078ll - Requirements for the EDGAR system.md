@@ -4,7 +4,7 @@ The Commission, by rule or regulation—
 
 &emsp;(1) shall provide that any information in the EDGAR system that is required to be disseminated by the contractor—
 
-&emsp;&emsp;(A) may be sold or disseminated by the contractor only pursuant to a uniformschedule of fees prescribed by the Commission;
+&emsp;&emsp;(A) may be sold or disseminated by the contractor only pursuant to a uniform schedule of fees prescribed by the Commission;
 
 &emsp;&emsp;(B) may be obtained by a purchaser by direct interconnection with the EDGAR system;
 

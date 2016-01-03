@@ -52,7 +52,7 @@
 
 &emsp;(C) unsupported by substantial evidence on the record.
 
-> The Commission may affirm the determination of the Postal Service or order that the entire matter be returned for further consideration, but the Commission may not modify the determination of the Postal Service. The Commissionmay suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal. The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
+> The Commission may affirm the determination of the Postal Service or order that the entire matter be returned for further consideration, but the Commission may not modify the determination of the Postal Service. The Commission may suspend the effectiveness of the determination of the Postal Service until the final disposition of the appeal. The provisions of section 556, section 557, and chapter 7 of title 5 shall not apply to any review carried out by the Commission under this paragraph.
 
 (6) For purposes of paragraph (5), any appeal received by the Commission shall—
 
@@ -124,7 +124,7 @@ Pub. L. 94–421, §9(b), Sept. 24, 1976, 90 Stat. 1311, provided that: "The ame
 
 #### Effective Date
 
-Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and par. (2) of subsec. (a) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9 of theBoard of Governors and par. (2) of subsec. (a) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### References to Postal Rate Commission
 

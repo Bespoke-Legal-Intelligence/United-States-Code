@@ -24,7 +24,7 @@ Section was formerly classified to section 12653a of this title prior to renumbe
 
 #### Prior Provisions
 
-A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Stat. 3157; Pub. L. 102–384, §7(a), Oct. 5, 1992, 106 Stat. 1456, related to eligibility and selection procedures, prior to repeal by Pub. L. 103–82, §104(a).
+A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Stat. 3157; Pub. L. 102–384, §7(a), Oct.5, 1992, 106 Stat. 1456, related to eligibility and selection procedures, prior to repeal by Pub. L. 103–82, §104(a).
 
 #### Amendments
 

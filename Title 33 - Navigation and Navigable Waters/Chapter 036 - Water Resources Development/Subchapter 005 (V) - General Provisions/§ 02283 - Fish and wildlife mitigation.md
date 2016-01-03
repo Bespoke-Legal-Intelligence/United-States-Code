@@ -20,7 +20,7 @@
 
 &emsp;(B) acquisition of water, or interests therein, under this paragraph, shall not be by condemnation.
 
-> The Secretary, shall, under the terms of this paragraph, obligate no more than $30,000,000 in any fiscal year. With respect to any water resources project, the authority under this subsection shall not apply to measures that cost more than $7,500,000 or 10 percent of the cost of the project, whichever is greater.
+> The Secretary, shall, under the terms of this paragraph, obligate no more than $30,000,000 inany fiscal year. With respect to any water resources project, the authority under this subsection shall not apply to measures that cost more than $7,500,000 or 10 percent of the cost of the project, whichever is greater.
 
 (2) Whenever, after his review, the Secretary determines that such mitigation features under this subsection are likely to require condemnation under subparagraph (A) or (B) of paragraph (1) of this subsection, the Secretary shall transmit to Congress a report on such proposed modification, together with his recommendations.
 
@@ -78,7 +78,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (C) Responsibility for monitoring
 
-&emsp;&emsp;In any case in which it is not practicable to identify in a mitigation plan for a water resources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42.
+&emsp;&emsp;In any case in which it is not practicable to identify in a mitigation plan for a waterresources project the entity responsible for monitoring at the time of a final report of the Chief of Engineers or other final decision document for the project, such entity shall be identified in the partnership agreement entered into with the non-Federal interest under section 1962d–5b of title 42.
 
 #### (4) Determination of success
 
@@ -104,7 +104,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 #### (e) First enhancement costs as Federal costs
 
-In those cases when the Secretary, as part of any report to Congress, recommends activitiesto enhance fish and wildlife resources, the first costs of such enhancement shall be a Federal cost when—
+In those cases when the Secretary, as part of any report to Congress, recommends activities to enhance fish and wildlife resources, the first costs of such enhancement shall be a Federal cost when—
 
 &emsp;(1) such enhancement provides benefits that are determined to be national, including benefits to species that are identified by the National Marine Fisheries Service as of national economic importance, species that are subject to treaties or international convention to which the United States is a party, and anadromous fish;
 
@@ -246,7 +246,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (h)(9), (1
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d)(1). Pub. L. 113–121, §1040(a)(1)(A), inserted "for damages to ecological resources, includingterrestrial and aquatic resources, and" after "mitigate", "ecological resources and" after "impact on", "without the implementation of mitigation measures" before period at end of first sentence, and "If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title." after "to the extent possible."
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–121, §1040(a)(1)(A), inserted "for damages to ecological resources, including terrestrial and aquatic resources, and" after "mitigate", "ecological resources and" after "impact on", "without the implementation of mitigation measures" before period at end of first sentence, and "If the Secretary determines that mitigation to in-kind conditions is not possible, the Secretary shall identify in the report the basis for that determination and the mitigation measures that will be implemented to meet the requirements of this section and the goals of section 2317(a)(1) of this title." after "to the extent possible."
 
 Subsec. (d)(2). Pub. L. 113–121, §1040(a)(1)(B)(iii), which directed insertion of "using a watershed approach" after "projects" was executed by making the insertion after "projects" the first place appearing to reflect the probable intent of Congress.
 

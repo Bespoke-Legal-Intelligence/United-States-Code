@@ -4,7 +4,7 @@
 
 With respect to grants made and contracts or cooperative agreements entered into under this chapter, the Institute shall—
 
-&emsp;(1) ensure that no funds made available to recipients by the Institute shall be used at anytime, directly or indirectly, to influence the issuance, amendment, or revocation of any Executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation or constitutional amendment by the Congress of the United States, or by any State or local legislative body, or any State proposal by initiative petition, or of any referendum, unless a governmental agency, legislative body, a committee, or a member thereof—
+&emsp;(1) ensure that no funds made available to recipients by the Institute shall be used at any time, directly or indirectly, to influence the issuance, amendment, or revocation of any Executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation or constitutional amendment by the Congress of the United States, or by any State or local legislative body, or any State proposal by initiative petition, or of any referendum, unless a governmental agency, legislative body, a committee, or a member thereof—
 
 &emsp;&emsp;(A) requests personnel of the recipients to testify, draft, or review measures or to make representations to such agency, body, committee, or member; or
 

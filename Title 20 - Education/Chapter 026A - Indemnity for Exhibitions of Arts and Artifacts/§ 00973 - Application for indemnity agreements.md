@@ -12,7 +12,7 @@ An application under subsection (a) of this section shall—
 
 &emsp;(2) show evidence that the items are eligible under section 972(a) of this title; and
 
-&emsp;(3) set forth policies, procedures, techniques, and methods with respect to preparation for, and conduct of, exhibition of the items, and any transportation related to such items.
+&emsp;(3) set forth policies, procedures, techniques, and methods with respect to preparation for,and conduct of, exhibition of the items, and any transportation related to such items.
 
 #### (c) Approval
 

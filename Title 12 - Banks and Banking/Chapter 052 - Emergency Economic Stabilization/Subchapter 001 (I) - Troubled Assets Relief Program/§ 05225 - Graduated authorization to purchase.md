@@ -28,7 +28,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise any authority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
+&emsp;Notwithstanding any other provision of this section, the Secretary may not exercise anyauthority to make purchases under this chapter with regard to any amount in excess of $350,000,000,000 previously obligated, as described in this section if, within 15 calendar days after the date on which Congress receives a report of the plan of the Secretary described in subsection (a)(3), there is enacted into law a joint resolution disapproving the plan of the Secretary with respect to such additional amount.
 
 #### (2) Contents of joint resolution
 
@@ -50,7 +50,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (2) Reporting and discharge
 
-&emsp;Any committee of the House of Representatives to which a joint resolution is referredshall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+&emsp;Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House not later than 5 calendar days after the date of receipt of the report described in subsection (a)(3). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
 
 #### (3) Proceeding to consideration
 
@@ -82,7 +82,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (C) Vote on passage
 
-&emsp;&emsp;The vote on passage shall occur immediately following the conclusion of the debate on a joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+&emsp;&emsp;The vote on passage shall occur immediately following the conclusion of the debate on a joint resolution, and a singlequorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
 
 #### (D) Rulings of the chair on procedure
 
@@ -114,7 +114,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 #### (A) In general
 
-&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President ispresented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
+&emsp;&emsp;If Congress passes a joint resolution, the period beginning on the date the President is presented with the joint resolution and ending on the date the President takes action with respect to the joint resolution shall be disregarded in computing the 15-calendar day period described in subsection (a)(3).
 
 #### (B) Vetoes
 

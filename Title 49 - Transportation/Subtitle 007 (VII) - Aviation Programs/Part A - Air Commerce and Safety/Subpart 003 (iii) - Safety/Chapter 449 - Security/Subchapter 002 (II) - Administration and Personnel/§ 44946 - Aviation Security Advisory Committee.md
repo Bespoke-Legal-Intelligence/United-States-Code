@@ -114,7 +114,7 @@ Subcommittees.—
 
 &emsp;(1)
 
-Membership.—The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that the Assistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
+Membership.—The Advisory Committee chairperson, in coordination with the Assistant Secretary, may establish within the Advisory Committee any subcommittee that theAssistant Secretary and Advisory Committee determine to be necessary. The Assistant Secretary and the Advisory Committee shall create subcommittees to address aviation security issues, including the following:
 
 &emsp;&emsp;(A)
 

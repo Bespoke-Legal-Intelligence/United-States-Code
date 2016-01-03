@@ -32,7 +32,7 @@ Authorized Recommendations.—The Physical Disability Board of Review may, as a 
 
 &emsp;(2) The recharacterization of the separation of such individual to retirement for disability.
 
-&emsp;(3) The modification of the disability rating previously assigned such individual by the Physical Evaluation Board concerned, which modified disability rating may not be a reduction of the disability rating previously assigned such individual by that Physical Evaluation Board.
+&emsp;(3) The modification of the disability rating previously assigned such individual by thePhysical Evaluation Board concerned, which modified disability rating may not be a reduction of the disability rating previously assigned such individual by that Physical Evaluation Board.
 
 &emsp;(4) The issuance of a new disability rating for such individual.
 

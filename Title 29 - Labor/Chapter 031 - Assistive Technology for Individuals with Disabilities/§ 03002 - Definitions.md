@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a program carried out by a center for independent living, such as a center described in part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.);
 
-&emsp;&emsp;(C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in section 2801 of this title; and
+&emsp;&emsp;(C) a program carried out by an employment support agency connected to adult vocational rehabilitation, such as a one-stop partner, as defined in section 3102 of this title; and
 
 &emsp;&emsp;(D) a program carried out by another organization or vender licensed or registered by the designated State agency, as defined in section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 705).
 
@@ -54,7 +54,7 @@ In this chapter:
 
 #### (7) Comprehensive statewide program of technology-related assistance
 
-&emsp;The term "comprehensive statewide program of technology-related assistance" means a consumer-responsive program of technology-related assistance for individuals with disabilities, implemented by a State, and equally available to all individuals with disabilities residing in the State, regardless of their type of disability, age, income level, or location of residence in the State, or the type of assistive technology device or assistive technology service required.
+&emsp;The term "comprehensive statewide program of technology-related assistance" meansa consumer-responsive program of technology-related assistance for individuals with disabilities, implemented by a State, and equally available to all individuals with disabilities residing in the State, regardless of their type of disability, age, income level, or location of residence in the State, or the type of assistive technology device or assistive technology service required.
 
 #### (8) Consumer-responsive
 
@@ -166,7 +166,7 @@ In this chapter:
 
 #### (17) Technology-related assistance
 
-&emsp;The term "technology-related assistance" means assistance provided through capacitybuilding and advocacy activities that accomplish the purposes described in section 3001(b) of this title.
+&emsp;The term "technology-related assistance" means assistance provided through capacity building and advocacy activities that accomplish the purposes described in section 3001(b) of this title.
 
 #### (18) Underrepresented population
 
@@ -177,10 +177,6 @@ In this chapter:
 &emsp;The term "universal design" means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
 (Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709; Pub. L. 110–315, title IX, §941(k)(2)(K), Aug. 14, 2008, 122 Stat. 3467; Pub. L. 113–128, title IV, §491(o)(1), title V, §512(b)(1), July 22, 2014, 128 Stat. 1698, 1705.)
-
-#### Amendment of Paragraph (1)(C)
-
-<i>Pub. L. 113–128, title V, §§506, 512(b)(1), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (1)(C) of this section is amended by striking "such as a one-stop partner, as defined in section 2801 of this title" and inserting "such as a one-stop partner, as defined in section 3102 of this title". See 2014 Amendment note below.</i>
 
 #### References in Text
 
@@ -206,5 +202,5 @@ Par. (13). Pub. L. 113–128, §491(o)(1), substituted "Health and Human Service
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 

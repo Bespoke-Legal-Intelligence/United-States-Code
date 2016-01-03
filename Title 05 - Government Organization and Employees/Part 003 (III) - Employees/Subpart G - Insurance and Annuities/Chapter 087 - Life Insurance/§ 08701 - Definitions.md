@@ -30,7 +30,7 @@
 
 &emsp;(C) an employee excluded by regulation of the Office of Personnel Management under section 8716(b) of this title.
 
-(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose ofthis subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
+(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
 
 (c) For the purpose of this chapter, "basic insurance amount" means, in the case of any employee under this chapter, an amount equal to the greater of—
 
@@ -232,7 +232,7 @@ Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: "This Act 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–427, §1, Oct. 10, 1980, 94 Stat. 1831, provided that: "This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notesunder this section and sections 8704 and 8714a of this title\] may be cited as the 'Federal Employees' Group Life Insurance Act of 1980'."
+Pub. L. 96–427, §1, Oct. 10, 1980, 94 Stat. 1831, provided that: "This Act \[enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title\] may be cited as the 'Federal Employees' Group Life Insurance Act of 1980'."
 
 #### Construction
 

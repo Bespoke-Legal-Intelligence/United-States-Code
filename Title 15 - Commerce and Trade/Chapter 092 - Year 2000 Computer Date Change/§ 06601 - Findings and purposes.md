@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(B) If not corrected, the problem described in subparagraph (A) and resulting failures could incapacitate systems that are essential to the functioning of markets, commerce, consumer products, utilities, Government, and safety and defense systems, in the United States and throughout the world.
 
-&emsp;(2) It is in the national interest that producers and users of technology products concentrate their attention and resources in thetime remaining before January 1, 2000, on assessing, fixing, testing, and developing contingency plans to address any and all outstanding year 2000 computer date-change problems, so as to minimize possible disruptions associated with computer failures.
+&emsp;(2) It is in the national interest that producers and users of technology products concentrate their attention and resources in the time remaining before January 1, 2000, on assessing, fixing, testing, and developing contingency plans to address any and all outstanding year 2000 computer date-change problems, so as to minimize possible disruptions associated with computer failures.
 
 &emsp;(3)(A) Because year 2000 computer date-change problems may affect virtually all businesses and other users of technology products to some degree, there is a substantial likelihood that actual or potential year 2000 failures will prompt a significant volume of litigation, much of it insubstantial.
 

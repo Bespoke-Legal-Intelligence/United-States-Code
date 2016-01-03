@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) administering scholarships in accordance with subsection (c);
 
-&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed to prepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
+&emsp;&emsp;&emsp;(ii) offering academic courses and early clinical teaching experiences designed toprepare students participating in the program to teach in elementary schools and secondary schools, including such preparation as is necessary to meet requirements for teacher certification or licensing;
 
 &emsp;&emsp;&emsp;(iii) offering programs to students participating in the program, both before and after the students receive their baccalaureate degree, to enable the students to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields; and
 
@@ -216,7 +216,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (h) Data collection
 
-An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarship and stipend recipients the Director may request, including information on employment required under this section.
+An eligible entity receiving a grant under this section shall supply to the Director any relevant statistical and demographic data on scholarshipand stipend recipients the Director may request, including information on employment required under this section.
 
 #### (i) Definitions
 
@@ -234,7 +234,7 @@ In this section—
 
 &emsp;(4) the term "high need local educational agency" has the meaning given such term in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021);
 
-&emsp;(5) the term "mathematics and science teacher" means a science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
+&emsp;(5) the term "mathematics and science teacher" means a science, computer science, technology, engineering, or mathematics teacher at the elementary school or secondary school level;
 
 &emsp;(6) the term "scholarship" means an award under subsection (c);
 
@@ -258,9 +258,9 @@ Not later than 4 years after August 9, 2007, the Director shall transmit to the 
 
 #### (l) Evaluation
 
-Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary ofEducation, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
+Not less than 2 years after August 9, 2007, the Director, in consultation with the Secretary of Education, shall conduct an evaluation to determine whether the scholarships, stipends, and fellowships authorized under this section and section 1862n–1a of this title have been effective in increasing the numbers of high-quality mathematics and science teachers teaching in high need local educational agencies and whether there continue to exist significant shortages of such teachers in high need local educational agencies.
 
-(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698.)
+(Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541.)
 
 #### References in Text
 
@@ -273,6 +273,8 @@ Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the Nationa
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (i)(5). Pub. L. 114–59 inserted "computer science," after "means a science,".
 
 <b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (l), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
 

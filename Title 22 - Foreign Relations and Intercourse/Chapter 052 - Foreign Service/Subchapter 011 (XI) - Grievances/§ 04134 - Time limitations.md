@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 102–138, §153(b)(2), added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, providedthat: "The amendments made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 29, 1999\] and shall apply to grievances which arise on or after such effective date."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §330(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: "The amendments made by this section \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 29, 1999\] and shall apply to grievances which arise on or after such effective date."
 
 #### Effective Date of 1991 Amendment
 

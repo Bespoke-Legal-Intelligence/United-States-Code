@@ -10,7 +10,7 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 #### (c) Civil penalty
 
-(1)(A) Except as otherwise provided in this subsection, any person who violates any provision of this chapter or any regulation issued under this chapter, other than a violation for which a criminal penalty has been imposed under this chapter, may be assessed a civil penalty by the Secretary of not more than $5,000 for each such violation. Each violation to which this subparagraph applies shall be considered a separate offense.
+(1)(A) Except as otherwise provided in this subsection, any person who violates any provision of this chapter or any regulation issued under this chapter, other than a violation for which a criminal penalty has been imposed under this chapter, may be assessed a civil penalty by the Secretary of not more than $5,000 foreach such violation. Each violation to which this subparagraph applies shall be considered a separate offense.
 
 (B) No penalty shall be assessed against any person under this subsection unless the person is given notice and opportunity for a hearing on the record before the Secretary in accordance with sections 554 and 556 of title 5.
 
@@ -36,7 +36,7 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 #### (d) Scope of liability for violations of section 1037
 
-When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed byany individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
+When construing or enforcing the provisions of section 1037 of this title, the act, omission, or failure of any person acting for or employed by any individual, partnership, corporation, or association within the scope of his employment or office shall in every case be deemed the act, omission, or failure of such individual, partnership, corporation, or association, as well as of such person.
 
 #### (e) Penalties applicable to carriers or warehousemen
 

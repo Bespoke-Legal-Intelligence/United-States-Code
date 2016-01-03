@@ -40,7 +40,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 #### (2) Issuance of proposed criteria
 
-&emsp;The Commission shall issue proposed criteria under this subsection no later than 60 days after March 22, 1995, and thereafter provide a period of 30 days for submission by the public of comments on the proposed criteria.
+&emsp;The Commission shall issue proposed criteria under this subsection no later than 60days after March 22, 1995, and thereafter provide a period of 30 days for submission by the public of comments on the proposed criteria.
 
 #### (3) Final criteria
 

@@ -2,9 +2,9 @@
 
 #### (a) Management function
 
-The Commission shall insure that the management of any byproduct material, as defined in section 2014(e)(2) of this title, is carried out in such manner as—
+The Commission shall insure that the management of any byproduct material, as defined insection 2014(e)(2) of this title, is carried out in such manner as—
 
-&emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costsand such other factors as the Commission determines to be appropriate,,<sup>1</sup>
+&emsp;(1) the Commission deems appropriate to protect the public health and safety and the environment from radiological and non-radiological hazards associated with the processing and with the possession and transfer of such material, taking into account the risk to the public health, safety, and the environment, with due consideration of the economic costs and such other factors as the Commission determines to be appropriate,,<sup>1</sup>
 
 &emsp;(2) conforms with applicable general standards promulgated by the Administrator of the Environmental Protection Agency under section 2022 of this title, and
 

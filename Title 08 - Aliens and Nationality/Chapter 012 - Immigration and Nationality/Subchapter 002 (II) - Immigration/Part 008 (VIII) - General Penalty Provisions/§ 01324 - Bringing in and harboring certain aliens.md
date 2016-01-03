@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) an offense in which the alien is not upon arrival immediately brought and presented to an appropriate immigration officer at a designated port of entry,
 
-> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
+> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation ofsubparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
 
 (3)(A) Any person who, during any 12-month period, knowingly hires for employment at least 10 individuals with actual knowledge that the individuals are aliens described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 5 years, or both.
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;Any conveyance, including any vessel, vehicle, or aircraft, that has been or is being used in the commission of a violation of subsection (a) of this section, the gross proceeds of such violation, and any property traceable to such conveyance or proceeds, shall be seized and subject to forfeiture.
+&emsp;Any conveyance, including any vessel, vehicle, or aircraft, that has been or is being used in the commission of a violation of subsection (a), the gross proceeds of such violation, and any property traceable to such conveyance or proceeds, shall be seized and subject to forfeiture.
 
 #### (2) Applicable procedures
 
@@ -74,7 +74,7 @@
 
 #### (3) Prima facie evidence in determinations of violations
 
-&emsp;In determining whether a violation of subsection (a) of this section has occurred, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
+&emsp;In determining whether a violation of subsection (a) has occurred, any of the following shall be prima facie evidence that an alien involved in the alleged violation had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law:
 
 &emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -88,7 +88,7 @@ No officer or person shall have authority to make any arrests for a violation of
 
 #### (d) Admissibility of videotaped witness testimony
 
-Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) of this section who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witnesswas available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
+Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (or otherwise audiovisually preserved) deposition of a witness to a violation of subsection (a) who has been deported or otherwise expelled from the United States, or is otherwise unable to testify, may be admitted into evidence in an action brought for that violation if the witness was available for cross examination and the deposition otherwise complies with the Federal Rules of Evidence.
 
 #### (e) Outreach program
 
@@ -170,7 +170,7 @@ Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100�
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set out as an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
+Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set out as an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
 
 #### Effective Date of 1996 Amendment
 

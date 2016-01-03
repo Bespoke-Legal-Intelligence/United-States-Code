@@ -48,7 +48,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(viii) the program under parts B and C of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq., 1431 et seq.\];
 
-&emsp;&emsp;&emsp;(ix) the special supplemental nutrition program for women, infants, and children established under section 1786 of this title; and
+&emsp;&emsp;&emsp;(ix) the special supplemental nutrition program for women, infants, and childrenestablished under section 1786 of this title; and
 
 &emsp;&emsp;&emsp;(x) the State grant program under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\].
 
@@ -60,7 +60,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (A) Designation
 
-&emsp;&emsp;As a condition on the provision of assistance or the conduct of activities under thissection with respect to a State, the Secretary may require the Governor of the State—
+&emsp;&emsp;As a condition on the provision of assistance or the conduct of activities under this section with respect to a State, the Secretary may require the Governor of the State—
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 

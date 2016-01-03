@@ -4,7 +4,7 @@
 
 #### (1) Grants
 
-&emsp;The Director of the National Institute on Aging may award grants to eligible entities to assist the entities in developing and evaluating model training programs—
+&emsp;The Director of the National Institute on Aging may award grants to eligible entities toassist the entities in developing and evaluating model training programs—
 
 &emsp;&emsp;(A) for—
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iv) family caregivers providing care and treatment for individuals with Alzheimer's disease and related disorders; and
 
-&emsp;&emsp;&emsp;(v) personnel of local organizations (including community groups, business and labor groups, and religious, educational, and charitable organizations) that havetraditionally not been involved in planning and developing long-term care services; and
+&emsp;&emsp;&emsp;(v) personnel of local organizations (including community groups, business and labor groups, and religious, educational, and charitable organizations) that have traditionally not been involved in planning and developing long-term care services; and
 
 &emsp;&emsp;(B) with attention to such variables as—
 

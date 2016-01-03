@@ -32,11 +32,11 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;(1) such terms and conditions are subject to any conditions, limitations, and requirements prescribed by the Secretary;
 
-&emsp;(2) in the case of any individual, the total of the loans for any academic year made byschools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $35,500,<sup>1</sup> during fiscal years 2010 and 2011 fiscal years <sup>2</sup> (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan; <sup>3</sup>
+&emsp;(2) in the case of any individual, the total of the loans for any academic year made by schools of nursing from loan funds established pursuant to agreements under subsection (a) of this section may not exceed $35,500,<sup>1</sup> during fiscal years 2010 and 2011 fiscal years <sup>2</sup> (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan; <sup>3</sup>
 
 &emsp;(3) an amount up to 85 percent of any such loan (plus interest thereon) shall be canceled by the school as follows:
 
-&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
+&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year offull-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
 
 &emsp;&emsp;(B) upon completion by the individual of the fourth year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 25 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment;
 

@@ -18,7 +18,7 @@ As used in this section—
 
 &emsp;(3) The term "telephone facsimile machine" means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
 
-&emsp;(4) The term "telephone solicitation" means the initiation of a telephone call or messagefor the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
+&emsp;(4) The term "telephone solicitation" means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
 
 &emsp;(5) The term "unsolicited advertisement" means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
 
@@ -34,9 +34,9 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) to the telephone line of any guest room or patient room of a hospital, health care facility, elderly home, or similar establishment; or
 
-&emsp;&emsp;&emsp;(iii) to any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call;
+&emsp;&emsp;&emsp;(iii) to any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call, unless such call is made solely to collect a debt owed to or guaranteed by the United States;
 
-&emsp;&emsp;(B) to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes or is exempted by rule or order by the Commission under paragraph (2)(B);
+&emsp;&emsp;(B) to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes, is made solely pursuant to the collection of a debt owed to or guaranteed by the United States, or is exempted by rule or order by the Commission under paragraph (2)(B);
 
 &emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send, to a telephone facsimile machine, an unsolicited advertisement, unless—
 
@@ -60,7 +60,7 @@ As used in this section—
 
 &emsp;The Commission shall prescribe regulations to implement the requirements of this subsection. In implementing the requirements of this subsection, the Commission—
 
-&emsp;&emsp;(A) shall consider prescribing regulations to allow businesses to avoid receiving calls made using an artificial or prerecorded voice to which they have not given their prior express consent;
+&emsp;&emsp;(A) shall consider prescribing regulations to allow businesses to avoid receiving calls made using an artificial or prerecorded voiceto which they have not given their prior express consent;
 
 &emsp;&emsp;(B) may, by rule or order, exempt from the requirements of paragraph (1)(B) of this subsection, subject to such conditions as the Commission may prescribe—
 
@@ -78,7 +78,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) the notice is clear and conspicuous and on the first page of the unsolicited advertisement;
 
-&emsp;&emsp;&emsp;(ii) the notice states that the recipient may make a request to the sender of the unsolicited advertisement not to send any future unsolicited advertisements to atelephone facsimile machine or machines and that failure to comply, within the shortest reasonable time, as determined by the Commission, with such a request meeting the requirements under subparagraph (E) is unlawful;
+&emsp;&emsp;&emsp;(ii) the notice states that the recipient may make a request to the sender of the unsolicited advertisement not to send any future unsolicited advertisements to a telephone facsimile machine or machines and that failure to comply, within the shortest reasonable time, as determined by the Commission, with such a request meeting the requirements under subparagraph (E) is unlawful;
 
 &emsp;&emsp;&emsp;(iii) the notice sets forth the requirements for a request under subparagraph (E);
 
@@ -104,7 +104,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) by regulation issued after public notice and opportunity for public comment; and
 
-&emsp;&emsp;&emsp;(ii) if the Commission determines that such notice required by paragraph (1)(C)(iii) is not necessary to protect the ability of the members of such associations to stop such associations from sending any future unsolicited advertisements; and
+&emsp;&emsp;&emsp;(ii) if the Commission determines that such notice required by paragraph (1)(C)(iii) is not necessary to protect the ability of the members of such associations to stop such associations from sending any future unsolicited advertisements;
 
 &emsp;&emsp;(G)(i) may, consistent with clause (ii), limit the duration of the existence of an established business relationship, however, before establishing any such limits, the Commission shall—
 
@@ -116,7 +116,9 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(IV) determine whether with respect to small businesses, the costs would not be unduly burdensome; and
 
-&emsp;&emsp;(ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005.
+&emsp;&emsp;(ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005; and
+
+&emsp;&emsp;(H) may restrict or limit the number and duration of calls made to a telephone number assigned to a cellular telephone service to collect a debt owed to or guaranteed by the United States.
 
 #### (3) Private right of action
 
@@ -192,7 +194,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(iii) not place an unreasonable financial burden on small businesses; and
 
-&emsp;&emsp;(C) consider (i) whether the needs of telemarketers operating on a local basis could be met through special markings of areawhite pages directories, and (ii) if such directories are needed as an adjunct to database lists prepared by area code and local exchange prefix.
+&emsp;&emsp;(C) consider (i) whether the needs of telemarketers operating on a local basis could be met through special markings of area white pages directories, and (ii) if such directories are needed as an adjunct to database lists prepared by area code and local exchange prefix.
 
 #### (5) Private right of action
 
@@ -378,7 +380,7 @@ As used in this section—
 
 #### (2) Exclusive jurisdiction of Federal courts
 
-&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take such action as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
+&emsp;The district courts of the United States, the United States courts of any territory, and the District Court of the United States for the District of Columbia shall have exclusive jurisdiction over all civil actions brought under this subsection. Upon proper application, such courts shall also have jurisdiction to issue writs of mandamus, or orders affording like relief, commanding the defendant to comply with the provisions of this section or regulations prescribed under this section, including the requirement that the defendant take suchaction as is necessary to remove the danger of such violation. Upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond.
 
 #### (3) Rights of Commission
 
@@ -394,7 +396,7 @@ As used in this section—
 
 #### (6) Effect on State court proceedings
 
-&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on thebasis of an alleged violation of any general civil or criminal statute of such State.
+&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
 
 #### (7) Limitation
 
@@ -446,13 +448,19 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 &emsp;&emsp;(C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572.)
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572; Pub. L. 114–74, title III, §301(a), Nov. 2, 2015, 129 Stat. 588.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch.652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–74, §301(a)(1)(A), inserted ", unless such call is made solely to collect a debt owed to or guaranteed by the United States" after "charged for the call".
+
+Subsec. (b)(1)(B). Pub. L. 114–74, §301(a)(1)(B), inserted ", is made solely pursuant to the collection of a debt owed to or guaranteed by the United States," after "emergency purposes".
+
+Subsec. (b)(2)(H). Pub. L. 114–74, §301(a)(2), added subpar. (H).
 
 <b>2010</b>—Subsecs. (e) to (h). Pub. L. 111–331 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
@@ -491,6 +499,8 @@ Regulations.—The Federal Communications Commission shall prescribe regulations
 Effective date.—The requirements of section 227 of the Communications Act of 1934 \[this section\] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act \[Dec. 20, 1991\]."
 
 #### Regulations
+
+Pub. L. 114–74, title III, §301(b), Nov. 2, 2015, 129 Stat. 588, provided that: "Not later than 9 months after the date of enactment of this Act \[Nov. 2, 2015\], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section \[amending this secton\]."
 
 Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
 

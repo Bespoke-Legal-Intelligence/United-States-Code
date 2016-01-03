@@ -4,7 +4,7 @@
 
 (1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
-(2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
+(2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
 (B) Such projects, as described in the State plans submitted by State agencies, may include—
 
@@ -32,7 +32,7 @@
 
 #### (b) Research grants
 
-(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as "research grants") to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17).<sup>1</sup> A research grant made under any of paragraphs (2) through (17) <sup>1</sup> may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
+(1) In addition to carrying out projects under subsection (a), the Director may make grants under this subsection (referred to in this subsection as "research grants") to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17).<sup>1</sup> A research grant made under any of paragraphs (2) through (17) <sup>1</sup> may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
 
 (2)(A) Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
 
@@ -82,7 +82,7 @@
 
 (H) The research and training activities conducted by such a Center shall be conducted in a manner that is accessible to and usable by individuals with disabilities.
 
-(I) In awarding grants under this paragraph, the Director shall take into consideration thelocation of any proposed Center and the appropriate geographic and regional allocation of such Centers.
+(I) In awarding grants under this paragraph, the Director shall take into consideration the location of any proposed Center and the appropriate geographic and regional allocation of such Centers.
 
 (J) To be eligible to receive a grant under this paragraph, each such institution or provider described in subparagraph (A) shall—
 
@@ -140,13 +140,13 @@
 
 &emsp;(I) Early childhood services, including early intervention and family support.
 
-&emsp;(II) Education at the elementary and secondary levels, including transition from school topostsecondary education, competitive integrated employment, and other age-appropriate activities.
+&emsp;(II) Education at the elementary and secondary levels, including transition from school to postsecondary education, competitive integrated employment, and other age-appropriate activities.
 
-&emsp;(III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and subchapter V of this chapter.
+&emsp;(III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and subchapter V.
 
 &emsp;(IV) Independent living, including transition from institutional to community living, maintenance of community living on leaving the workforce, self-help skills, and activities of daily living.
 
-(ii) Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee, of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals' representatives.
+(ii) Each Center conducting the research or demonstration activities described in subparagraph (B)(iii) shall have an advisory committee,of which the majority of members are individuals with disabilities who are users of rehabilitation technology, and the individuals' representatives.
 
 (E) Grants made under this paragraph shall be made on a competitive basis and shall be for a period of 5 years, except that the Director may make a grant for a period of less than 5 years if—
 
@@ -322,7 +322,7 @@ Subsec. (a)(2)(B)(ii). Pub. L. 113–128, §435(1)(B)(ii)(I), added cl. (ii) and
 
 Subsec. (a)(2)(B)(iii). Pub. L. 113–128, §435(1)(B)(ii)(II), substituted "have significant challenges engaging in community life outside their homes and individuals who are in institutional settings;" for "are homebound and individuals who are institutionalized;".
 
-Subsec. (a)(2)(B)(iv). Pub. L. 113–128, §435(1)(B)(ii)(III), inserted ", including the principles of universal design and the interoperability of products and services" after "disabilities".
+Subsec. (a)(2)(B)(iv). Pub. L. 113–128, §435(1)(B)(ii)(III), inserted ", including the principles of universal designand the interoperability of products and services" after "disabilities".
 
 Subsec. (a)(2)(B)(v). Pub. L. 113–128, §435(1)(B)(ii)(IV), inserted ", and to promoting employment opportunities in competitive integrated employment" after "employment".
 
@@ -400,7 +400,7 @@ Subsec. (b)(4)(B)(iv). Pub. L. 113–128, §435(2)(D)(ii), inserted "education, 
 
 Subsec. (b)(8). Pub. L. 113–128, §435(2)(E), added par. (8) and struck out former par. (8) which read as follows: "Research grants may be used to conduct a program of joint projects with the National Institutes of Health, the National Institute of Mental Health, the Health Services Administration, the Administration on Aging, the National Science Foundation, the Veterans' Administration, the Department of Health and Human Services, the National Aeronautics and Space Administration, other Federal agencies, and private industry in areas of joint interest involving rehabilitation."
 
-Subsec. (b)(9). Pub. L. 113–128, §435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9) which read as follows: "Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce."
+Subsec. (b)(9). Pub. L. 113–128, §435(2)(F), (G), redesignated par. (10) as (9) and struck out former par. (9)which read as follows: "Research grants may be used to conduct a program of research related to the rehabilitation of children, or older individuals, who are individuals with disabilities, including older American Indians who are individuals with disabilities. Such research program may include projects designed to assist the adjustment of, or maintain as residents in the community, older workers who are individuals with disabilities on leaving the workforce."
 
 Subsec. (b)(10). Pub. L. 113–128, §435(2)(G), redesignated par. (12) as (10). Former par. (10) redesignated (9).
 

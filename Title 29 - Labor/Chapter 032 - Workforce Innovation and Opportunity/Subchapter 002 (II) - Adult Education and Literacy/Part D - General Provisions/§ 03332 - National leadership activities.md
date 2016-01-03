@@ -14,7 +14,7 @@ The national leadership activities described in subsection (a) shall include tec
 
 &emsp;(3) carrying out rigorous research and evaluation on effective adult education and literacy activities, as well as estimating the number of adults functioning at the lowest levels of literacy proficiency, which shall be coordinated across relevant Federal agencies, including the Institute of Education Sciences; and
 
-&emsp;(4) carrying out an independent evaluation at least once every 4 years of the programs and activities under this subchapter, takinginto consideration the evaluation subjects referred to in section 3224(a)(2) of this title.
+&emsp;(4) carrying out an independent evaluation at least once every 4 years of the programs and activities under this subchapter, taking into consideration the evaluation subjects referred to in section 3224(a)(2) of this title.
 
 #### (c) Allowable activities
 
@@ -80,5 +80,5 @@ The national leadership activities described in subsection (a) may include the f
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

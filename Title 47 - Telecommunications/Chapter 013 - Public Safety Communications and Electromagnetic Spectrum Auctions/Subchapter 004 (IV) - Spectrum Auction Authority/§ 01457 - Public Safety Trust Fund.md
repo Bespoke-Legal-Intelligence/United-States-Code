@@ -24,7 +24,7 @@ As amounts are deposited in the Public Safety Trust Fund, such amounts shall be 
 
 #### (3) Buildout by First Responder Network Authority
 
-&emsp;$7,000,000,000, reduced by the amount borrowed under section 1427 of this title, shall be deposited in the Network Construction Fund established by section 1426 of this title.
+&emsp;$7,000,000,000, reduced by the amount borrowed under section 1427 of this title, shall bedeposited in the Network Construction Fund established by section 1426 of this title.
 
 #### (4) Public safety research
 
@@ -32,7 +32,7 @@ As amounts are deposited in the Public Safety Trust Fund, such amounts shall be 
 
 #### (5) Deficit reduction
 
-&emsp;$20,400,000,000 shall be deposited in the general fund of the Treasury, where such amountshall be dedicated for the sole purpose of deficit reduction.
+&emsp;$20,400,000,000 shall be deposited in the general fund of the Treasury, where such amount shall be dedicated for the sole purpose of deficit reduction.
 
 #### (6) 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants
 

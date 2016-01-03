@@ -18,7 +18,7 @@
 
 &emsp;(1) The term "agency" does not include the government of the District of Columbia.
 
-&emsp;(2) The term "approved places of public accommodation" means hotels, motels, and other places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
+&emsp;(2) The term "approved places of public accommodation" means hotels, motels, andother places of public accommodation that are listed by the Administrator of the Federal Emergency Management Agency as meeting the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2225).
 
 &emsp;(3) The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 

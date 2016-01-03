@@ -10,7 +10,7 @@
 
 (3) The Secretary shall seek to ensure that members appointed to the Committee include individuals from a wide variety of geographic areas and ethnic backgrounds, individuals from veterans service organizations, individuals with combat experience, and women.
 
-(4) The Secretary shall determine the terms of service and pay and allowances of the members of the Committee, except that a term of service may not exceed two years. The Secretary may reappoint any member for additional terms of service.
+(4) The Secretary shall determine the terms of service and pay and allowances of the members of the Committee, except that a term of servicemay not exceed two years. The Secretary may reappoint any member for additional terms of service.
 
 (b)(1) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the provision by the Department of benefits and services to veterans in order to assist veterans in the readjustment to civilian life.
 

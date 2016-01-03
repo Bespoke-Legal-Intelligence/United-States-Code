@@ -176,7 +176,7 @@
 
 #### (ii) Publication by the Secretary
 
-&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed bythe consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published in the Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
+&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed by the consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published in the Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
 
 #### (iii) Publication of rejected proposed revised standards
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;(C) following compliance with subparagraphs (A) and (B), the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) cause the proposed regulation or interpretative bulletin and the consensuscommittee's written comments, along with the Secretary's response thereto, to be published in the Federal Register; and
+&emsp;&emsp;&emsp;(i) cause the proposed regulation or interpretative bulletin and the consensus committee's written comments, along with the Secretary's response thereto, to be published in the Federal Register; and
 
 &emsp;&emsp;&emsp;(ii) provide an opportunity for public comment in accordance with section 553 of title 5.
 
@@ -288,7 +288,7 @@ Each order establishing a Federal manufactured home construction and safety stan
 
 #### (d) Supremacy of Federal standards
 
-Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
+Whenever a Federal manufactured home construction and safety standard established underthis chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
 
 #### (e) Considerations in establishing and interpreting standards and regulations
 
@@ -340,7 +340,7 @@ In subsec. (a)(2)(B), "section 132 of title 41" substituted for "section 4 of th
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–569, §604(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary, after consultation with the Consumer Product Safety Commission, shall establish by order appropriate Federal manufactured home construction and safety standards. Each such Federal manufactured home standard shall be reasonable and shall meet the highest standards of protection, taking into account existing State and local laws relating to manufactured home safety and construction."
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §604(1), added subsec. (a) and struck out former subsec. (a) which read asfollows: "The Secretary, after consultation with the Consumer Product Safety Commission, shall establish by order appropriate Federal manufactured home construction and safety standards. Each such Federal manufactured home standard shall be reasonable and shall meet the highest standards of protection, taking into account existing State and local laws relating to manufactured home safety and construction."
 
 Subsec. (b). Pub. L. 106–569, §604(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "All orders issued under this section shall be issued after notice and an opportunity for interested persons to participate are provided in accordance with the provisions of section 553 of title 5."
 

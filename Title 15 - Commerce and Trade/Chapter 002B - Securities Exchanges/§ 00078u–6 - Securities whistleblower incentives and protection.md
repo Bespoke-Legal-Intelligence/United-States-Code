@@ -36,7 +36,7 @@ In this section the following definitions shall apply:
 
 #### (6) Whistleblower
 
-&emsp;The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
+&emsp;The term "whistleblower" means any individual who provides, or 2 or more individualsacting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
 
 #### (b) Awards
 
@@ -70,7 +70,7 @@ In this section the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
 
-&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations ofthe securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
+&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations of the securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such additional relevant factors as the Commission may establish by rule or regulation; and
 
@@ -156,7 +156,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (A) Amounts in Fund may be invested
 
-&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portionof the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
+&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portion of the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
 
 #### (B) Eligible investments
 

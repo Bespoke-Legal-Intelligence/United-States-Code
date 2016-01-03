@@ -52,7 +52,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub.L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426, title V, Aug. 14, 1964, 78 Stat. 435.
 
 #### Effective Date of 1959 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 86–368, §3, Sept. 22, 1959, 73 Stat. 648, provided that:
 
 #### Repeals
 
-Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; and Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
+Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; andPub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
 
 #### Savings Provision
 
@@ -78,11 +78,17 @@ For transfer of authorities, functions, personnel, and assets of the Bureau of A
 
 For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
+#### IRS Employees Prohibited From Using Personal Email Accounts for Official Business
+
+Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provided that: "No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government."
+
 #### IRS Reports on Information Technology Investments
 
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2428.
 
 Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
 
@@ -91,6 +97,8 @@ Pub. L. 113–76, div. E, title I, Jan. 17, 2014, 128 Stat. 189.
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 889, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2429.
 
 Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2337.
 
@@ -264,7 +272,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Internal Revenue Service Mission To Focus on Taxpayers' Needs
 
-Pub. L. 105–206, title I, §1002, July 22, 1998, 112 Stat. 690, provided that: "The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers' needs."
+Pub. L. 105–206, title I, §1002, July 22, 1998, 112 Stat. 690, provided that: "The Internal Revenue Service shallreview and restate its mission to place a greater emphasis on serving the public and meeting taxpayers' needs."
 
 #### Explanation of Joint and Several Liability
 
@@ -388,7 +396,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009-365, provided that:
 
 "(a)
 
@@ -580,13 +588,13 @@ Authorization of Appropriations.—Such sums as may be necessary are authorized 
 
 Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, 'Information systems' account, for the activities of the Commission, to remain available until expended."
 
-\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: "The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(f)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009-366, provided that: "The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
 
-\[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: "The amendments madeby this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
+\[Pub. L. 104–134, title II, §2904(b), Apr. 26, 1996, 110 Stat. 1321–333, provided that: "The amendments made by this section \[amending section 637 of Pub. L. 104–52, set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[Pub. L. 104–52\]."\]
 
 #### Fees for Services Rendered
 
-Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, §209, Nov. 30, 2005, 119 Stat. 2439, provided that: "The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service."
+Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, §209, Nov. 30, 2005, 119 Stat. 2439, provided that: "The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spendthe new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service."
 
 #### Disclosure of Rights of Taxpayers
 

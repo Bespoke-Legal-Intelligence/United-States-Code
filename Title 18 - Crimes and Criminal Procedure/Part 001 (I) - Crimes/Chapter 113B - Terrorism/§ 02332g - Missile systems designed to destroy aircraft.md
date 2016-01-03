@@ -26,7 +26,7 @@ Nonweapon.—Paragraph (1)(A) does not apply to any device that is neither desig
 
 Excluded conduct.—This subsection does not apply with respect to—
 
-&emsp;&emsp;(A) conduct by or under the authority of the United States or any department or agency thereof or of a State or any department or agency thereof; or
+&emsp;&emsp;(A) conduct by or under the authority of the United States or any department oragency thereof or of a State or any department or agency thereof; or
 
 &emsp;&emsp;(B) conduct pursuant to the terms of a contract with the United States or any department or agency thereof or with a State or any department or agency thereof.
 

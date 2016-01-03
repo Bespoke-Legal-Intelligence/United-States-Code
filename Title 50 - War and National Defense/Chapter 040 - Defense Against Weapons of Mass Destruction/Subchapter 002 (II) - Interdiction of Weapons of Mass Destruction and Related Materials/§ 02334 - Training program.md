@@ -6,7 +6,7 @@ The Secretary of Defense may participate in a training program carried out joint
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as partof the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
 #### Amendments
 

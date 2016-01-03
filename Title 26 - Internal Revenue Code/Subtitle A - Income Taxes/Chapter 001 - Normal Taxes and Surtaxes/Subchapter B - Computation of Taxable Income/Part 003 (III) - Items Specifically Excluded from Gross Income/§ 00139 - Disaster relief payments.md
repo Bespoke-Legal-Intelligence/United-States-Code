@@ -36,7 +36,7 @@ For purposes of chapter 2 and subtitle C, qualified disaster relief payments and
 
 #### (e) No relief for certain individuals
 
-Subsections (a), (f), and (g) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
+Subsections (a), (f), and (g) shall not apply with respect to any individual identified by theAttorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
 
 #### (f) Exclusion of certain additional payments
 
@@ -72,7 +72,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
-The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principallyto chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Prior Provisions
 

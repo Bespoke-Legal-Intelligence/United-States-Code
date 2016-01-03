@@ -138,7 +138,7 @@ The Secretary may request the services of, and enter into cooperative agreements
 
 &emsp;&emsp;&emsp;(ii) program specifications that allow for innovative approaches to engage local resources in providing technical assistance for planning and implementation of conservation practices.
 
-(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22,2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II, §2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, §2713(c), Feb. 7, 2014, 128 Stat. 772.)
+(Pub. L. 99–198, title XII, §1242, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 279; amended Pub. L. 110–234, title II, §2706, May 22, 2008, 122 Stat. 1074; Pub. L. 110–246, §4(a), title II, §2706, June 18, 2008, 122 Stat. 1664, 1802; Pub. L. 113–79, title II, §2713(c), Feb. 7, 2014, 128 Stat. 772.)
 
 #### References in Text
 

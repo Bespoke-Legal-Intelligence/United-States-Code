@@ -90,7 +90,7 @@ In subsection (a), the words "percentage point" and "percentage points" are subs
 
 In subsections (a)(1) and (e), the words "Except as provided in paragraph (3)" are omitted as surplus.
 
-In subsection (a)(2), the words "for a calendar quarter" are substituted for "quarterly", and the words"prior calendar quarter" are substituted for "that calendar quarter", for clarity.
+In subsection (a)(2), the words "for a calendar quarter" are substituted for "quarterly", and the words "prior calendar quarter" are substituted for "that calendar quarter", for clarity.
 
 In subsection (b), before clause (1), the words "Subject to paragraph (6)" and "except as provided in subparagraph (B)" are omitted as surplus. In clause (2), the words "on the claim" are omitted as surplus. The words "if notice is first mailed after October 24, 1982" are added for clarity.
 

@@ -32,7 +32,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
-&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
+&emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanentresident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
 &emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
@@ -46,7 +46,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Physical presence
 
-&emsp;&emsp;Notwithstanding subsection (d)(2) of this section, for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2) of this section. If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
+&emsp;&emsp;Notwithstanding subsection (d)(2), for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2). If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
 #### (C) Good moral character
 
@@ -72,7 +72,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (B) Duration of parole
 
-&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if the applicants were VAWA self-petitioners. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
+&emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if the applicants were VAWA self-petitioners. Failure by the alien granted relief under subsection (b)(2) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
 
 #### (5) Application of domestic violence waiver authority
 
@@ -120,7 +120,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (c) Aliens ineligible for relief
 
-The provisions of subsections (a) and (b)(1) of this section shall not apply to any of the following aliens:
+The provisions of subsections (a) and (b)(1) shall not apply to any of the following aliens:
 
 &emsp;(1) An alien who entered the United States as a crewman subsequent to June 30, 1964.
 
@@ -144,15 +144,15 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (1) Termination of continuous period
 
-&emsp;For purposes of this section, any period of continuous residence or continuous physical presence in the United States shall be deemed to end (A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2) of this section, when the alien is served a notice to appear under section 1229(a) of this title, or (B) when the alien has committed an offense referred to in section 1182(a)(2) of this title that renders the alien inadmissible to the United States under section 1182(a)(2) of this title or removable from the United States under section 1227(a)(2) or 1227(a)(4) of this title, whichever is earliest.
+&emsp;For purposes of this section, any period of continuous residence or continuous physical presence in the United States shall be deemed to end (A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2), when the alien is served a notice to appear under section 1229(a) of this title, or (B) when the alien has committed an offense referred to in section 1182(a)(2) of this title that renders the alien inadmissible to the United States under section 1182(a)(2) of this title or removable from the United States under section 1227(a)(2) or 1227(a)(4) of this title, whichever is earliest.
 
 #### (2) Treatment of certain breaks in presence
 
-&emsp;An alien shall be considered to have failed to maintain continuous physical presence in the United States under subsections (b)(1) and (b)(2) of this section if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+&emsp;An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under subsections (b)(1) and (b)(2) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
-&emsp;The requirements of continuous residence or continuous physical presence in the United States under subsections (a) and (b) of this section shall not apply to an alien who—
+&emsp;The requirements of continuous residence or continuous physical presence in the United States under subsections (a) and (b) shall not apply to an alien who—
 
 &emsp;&emsp;(A) has served for a minimum period of 24 months in an active-duty status in the Armed Forces of the United States and, if separated from such service, was separated under honorable conditions, and
 
@@ -222,7 +222,7 @@ Subsec. (b)(2). Pub. L. 106–386, §1504(a), amended heading and text of par. (
 
 Subsec. (b)(4). Pub. L. 106–386, §1504(b), added par. (4).
 
-Subsec. (d)(1). Pub. L. 106–386, §1506(b)(1), substituted "(A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2) of this section, when the alien is served a notice to appear under section 1229(a) of this title, or (B)" for "when the alien is served a notice to appear under section 1229(a) of this title or".
+Subsec. (d)(1). Pub. L. 106–386, §1506(b)(1), substituted "(A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2), when the alien is served a notice to appear under section 1229(a) of this title, or (B)" for "when the alien is served a notice to appear under section 1229(a) of this title or".
 
 <b>1997</b>—Subsec. (b)(1), (2). Pub. L. 105–100, §204(b), in introductory provisions, substituted "may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien" for "may cancel removal in the case of an alien".
 

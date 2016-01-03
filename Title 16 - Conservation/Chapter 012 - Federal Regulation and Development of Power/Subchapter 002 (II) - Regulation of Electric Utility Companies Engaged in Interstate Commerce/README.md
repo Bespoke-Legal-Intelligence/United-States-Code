@@ -26,6 +26,7 @@
 - [&sect; 00824m - Sales by exempt wholesale generators](%C2%A7%2000824m%20-%20Sales%20by%20exempt%20wholesale%20generators.md)
 - [&sect; 00824n - Repealed. Pub. L. 109&#8211;58, title XII, &sect;1232(e)(3), Aug. 8, 2005, 119 Stat. 957](%C2%A7%2000824n%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71232%28e%29%283%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20957.md)
 - [&sect; 00824o - Electric reliability](%C2%A7%2000824o%20-%20Electric%20reliability.md)
+- [&sect; 00824o&#8211;1 - Critical electric infrastructure security](%C2%A7%2000824o%E2%80%931%20-%20Critical%20electric%20infrastructure%20security.md)
 - [&sect; 00824p - Siting of interstate electric transmission facilities](%C2%A7%2000824p%20-%20Siting%20of%20interstate%20electric%20transmission%20facilities.md)
 - [&sect; 00824q - Native load service obligation](%C2%A7%2000824q%20-%20Native%20load%20service%20obligation.md)
 - [&sect; 00824r - Protection of transmission contracts in the Pacific Northwest](%C2%A7%2000824r%20-%20Protection%20of%20transmission%20contracts%20in%20the%20Pacific%20Northwest.md)

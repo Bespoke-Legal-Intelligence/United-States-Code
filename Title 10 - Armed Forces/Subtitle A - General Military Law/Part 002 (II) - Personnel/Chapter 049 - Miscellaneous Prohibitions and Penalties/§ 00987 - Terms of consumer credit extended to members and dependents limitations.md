@@ -30,7 +30,7 @@ Information required.—With respect to any extension of consumer credit (includ
 
 &emsp;(2)
 
-Terms.—Such disclosures shall be presented in accordance with terms prescribed bythe regulations issued by the Board of Governors of the Federal Reserve System to implement the Truth in Lending Act (15 U.S.C. 1601 et seq.).
+Terms.—Such disclosures shall be presented in accordance with terms prescribed by the regulations issued by the Board of Governors of the Federal Reserve System to implement the Truth in Lending Act (15 U.S.C. 1601 et seq.).
 
 (d)
 
@@ -124,11 +124,11 @@ Jurisdiction, venue, and statute of limitations.—An action for civil liability
 
 &emsp;(6)
 
-Administrative enforcement.—The provisions of this section (other than paragraph\(1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act (15 U.S.C. 1607) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
+Administrative enforcement.—The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act (15 U.S.C. 1607) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
 
 (g)
 
-Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
+Servicemembers Civil Relief Act Protections Unaffected.—Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).<sup>1</sup>
 
 (h)
 
@@ -208,7 +208,7 @@ Consumer credit.—The term "consumer credit" has the meaning provided for such 
 
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. Section 207 of the Act is classified to section 3937 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -262,7 +262,13 @@ Authority to prescribe regulations.—Subsection (h) of such section shall take 
 
 Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for section 987 of title 10, United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date."
 
+#### Meetings With Private Sector Users of Systems
+
+Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: "The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\]."
+
 #### Interim Regulations
 
 Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

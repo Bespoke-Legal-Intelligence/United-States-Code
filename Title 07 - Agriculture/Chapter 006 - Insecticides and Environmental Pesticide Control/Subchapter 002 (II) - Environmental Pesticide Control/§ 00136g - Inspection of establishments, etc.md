@@ -44,7 +44,7 @@ Subsec. (c)(1). Pub. L. 102–237, §1006(b)(3)(I), substituted "the person's" f
 
 Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "believes".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–532, §302(a), substituted "(1) For purposes of" for "For purposes of", inserted "of the Environmental Protection Agency or of any State", substituted "at reasonable times (A)" for "at reasonable times,", added cl. (B), and substituted "(2) Before" for "Before".
+<b>1988</b>—Subsec. (a). Pub. L. 100–532, §302(a), substituted "(1) For purposes of" for "For purposes of", inserted "of the Environmental Protection Agency or of any State", substituted "at reasonable times (A)" for "atreasonable times,", added cl. (B), and substituted "(2) Before" for "Before".
 
 Subsec. (b)(1). Pub. L. 100–532, §302(b), amended par. (1) generally, substituting "entry, inspection, and copying of records for purposes of this section or section 136f of this title" for "entry for the purpose of this section".
 

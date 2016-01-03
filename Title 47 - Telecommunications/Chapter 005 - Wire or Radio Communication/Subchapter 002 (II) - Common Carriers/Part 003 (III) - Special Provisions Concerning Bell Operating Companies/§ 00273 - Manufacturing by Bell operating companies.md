@@ -46,7 +46,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;(B) notwithstanding paragraph (3), shall not engage in manufacturing telecommunications equipment or customer premises equipment as long as it is an affiliate of more than 1 otherwise unaffiliated Bell operating company or successor or assign of any such company.
 
-> &emsp;Nothing in this subsection prohibits Bell Communications Research, Inc., or any successor entity, from engaging in any activity in which it is lawfully engaged on February 8, 1996. Nothing provided in this subsection shall render Bell Communications Research, Inc., or any successor entity, a common carrier under this subchapter. Nothing in this subsection restricts any manufacturer from engaging in any activity in which it is lawfully engaged on February 8, 1996.
+> &emsp;Nothing in this subsection prohibits Bell Communications Research, Inc., or any successor entity, from engaging in any activity in which it is lawfully engaged on February 8, 1996. Nothing provided in this subsection shall render Bell Communications Research, Inc., orany successor entity, a common carrier under this subchapter. Nothing in this subsection restricts any manufacturer from engaging in any activity in which it is lawfully engaged on February 8, 1996.
 
 #### (2) Proprietary information
 
@@ -118,7 +118,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;(A) The term "affiliate" shall have the same meaning as in section 153 of this title, except that, for purposes of paragraph (1)(B)—
 
-&emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operatingcompany, shall constitute an affiliate relationship; and
+&emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operating company, shall constitute an affiliate relationship; and
 
 &emsp;&emsp;&emsp;(ii) a voting equity interest in Bell Communications Research, Inc., by any otherwise unaffiliated Bell operating company of less than 1 percent of Bell Communications Research's total voting equity shall not be considered to be an equity interest under this paragraph.
 

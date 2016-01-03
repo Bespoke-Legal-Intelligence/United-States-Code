@@ -12,7 +12,7 @@
 
 > Such training programs shall be conducted to the maximum extent practicable through established programs.
 
-(2) There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b) of this section, and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C) of this section.
+(2) There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b), and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C).
 
 #### (b) Law enforcement cooperative agreement
 
@@ -64,7 +64,7 @@ Nothing in this section shall be construed to invalidate any law enforcement agr
 
 #### (k) Law enforcement operations
 
-With respect to any undercover or other enforcement operation which is necessary for the detection and prosecution of violations of any laws administered by the United States Fish and Wildlife Service or the National Marine Fisheries Service relating to fish, wildlife, or plants, the Secretary of the Interior or the Secretary of Commerce may, notwithstanding any other provision of law—
+With respect to any undercover or other enforcement operation which is necessary for thedetection and prosecution of violations of any laws administered by the United States Fish and Wildlife Service or the National Marine Fisheries Service relating to fish, wildlife, or plants, the Secretary of the Interior or the Secretary of Commerce may, notwithstanding any other provision of law—
 
 &emsp;(1) direct the advance of funds which may be deposited in commercial banks or other financial institutions;
 

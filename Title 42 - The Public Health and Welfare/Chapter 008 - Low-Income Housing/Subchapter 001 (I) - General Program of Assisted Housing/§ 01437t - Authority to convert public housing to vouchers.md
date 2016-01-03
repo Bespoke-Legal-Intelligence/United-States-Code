@@ -8,7 +8,7 @@ A public housing agency may convert any public housing project (or portion there
 
 #### (1) In general
 
-&emsp;To convert public housing under this section, a public housing agency shall conduct anassessment of the public housing that includes—
+&emsp;To convert public housing under this section, a public housing agency shall conduct an assessment of the public housing that includes—
 
 &emsp;&emsp;(A) a cost analysis that demonstrates whether or not the cost (both on a net present value basis and in terms of new budget authority requirements) of providing tenant-based assistance under section 1437f of this title for the same families in substantially similar dwellings over the same period of time is less expensive than continuing public housing assistance in the public housing project for the remaining useful life of the project;
 
@@ -22,7 +22,7 @@ A public housing agency may convert any public housing project (or portion there
 
 #### (2) Timing
 
-&emsp;Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under this subsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for a project (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c) of this section.
+&emsp;Not later than 2 years after the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, each public housing agency shall conduct an assessment under paragraph (1) or (3) of the status of each public housing project owned by such agency and shall submit to the Secretary such assessment. A public housing agency may otherwise undertake an assessment under this subsection at any time and for any public housing project (or portion thereof) owned by the agency. A public housing agency may update a previously conducted assessment for aproject (or portion thereof) for purposes of compliance with the one-year limitation under subsection (c) of this section.
 
 #### (3) Streamlined assessment
 
@@ -70,7 +70,7 @@ A public housing project may be converted under this section to tenant-based ass
 
 &emsp;&emsp;(B) provide any necessary counseling for families displaced by such action;
 
-&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remainin their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
+&emsp;&emsp;(C) ensure that, if the project (or portion) converted is used as housing after such conversion, each resident may choose to remain in their dwelling unit in the project and use the tenant-based assistance toward rent for that unit; and
 
 &emsp;&emsp;(D) provide any actual and reasonable relocation expenses for families displaced by the conversion; and
 

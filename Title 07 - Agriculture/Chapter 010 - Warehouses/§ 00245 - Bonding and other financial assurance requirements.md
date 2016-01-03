@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As a condition of receiving a license or approval under this chapter (including regulations promulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person's performance of the activities so licensed or approved.
+As a condition of receiving a license or approval under this chapter (including regulationspromulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person's performance of the activities so licensed or approved.
 
 #### (b) Service of process
 

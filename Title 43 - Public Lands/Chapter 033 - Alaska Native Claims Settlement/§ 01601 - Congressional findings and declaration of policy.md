@@ -70,7 +70,7 @@ Pub. L. 100–241, §2, Feb. 3, 1988, 101 Stat. 1788, provided that: "The Congre
 
 &emsp;"(4) Natives have differing opinions as to whether the Native Corporation, as originally structured by the Alaska Native Claims Settlement Act, is well adapted to the reality of life in Native villages and to the continuation of traditional Native cultural values;
 
-&emsp;"(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each Native Corporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
+&emsp;"(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each NativeCorporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
 
 &emsp;"(6) among other things, the shareholders of each Native Corporation must be permitted to decide—
 
@@ -108,7 +108,7 @@ Statute of Limitations.—(1) Notwithstanding any other provision of law, a civi
 
 "(3) Any other civil action described in paragraph (1) shall be barred unless it is filed within two years of the date of the enactment of this Act \[Feb. 3, 1988\].
 
-"(4) No Native Corporation taking an action described in paragraph (2)(A), (2)(B), or (2)(C) shall issueor distribute stock sooner than fourteen days after the date of the shareholder vote authorizing such action.
+"(4) No Native Corporation taking an action described in paragraph (2)(A), (2)(B), or (2)(C) shall issue or distribute stock sooner than fourteen days after the date of the shareholder vote authorizing such action.
 
 "(b)
 

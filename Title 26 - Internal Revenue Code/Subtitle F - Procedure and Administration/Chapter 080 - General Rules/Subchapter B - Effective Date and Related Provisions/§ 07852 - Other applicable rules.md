@@ -10,7 +10,7 @@ Any reference in any other law of the United States or in any Executive order to
 
 #### (c) Items not to be twice included in income or deducted therefrom
 
-Except as otherwise distinctly expressed or manifestly intended, the same item (whether of income, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
+Except as otherwise distinctly expressed or manifestly intended, the same item (whether ofincome, deduction, credit, or otherwise) shall not be taken into account both in computing a tax under subtitle A of this title and a tax under chapter 1 or 2 of the Internal Revenue Code of 1939.
 
 #### (d) Treaty obligations
 
@@ -20,7 +20,7 @@ Except as otherwise distinctly expressed or manifestly intended, the same item (
 
 #### (2) Savings clause for 1954 treaties
 
-&emsp;No provision of this title (as in effect without regard to any amendment thereto enacted after August 16, 1954) shall apply in any case where its application would be contrary to anytreaty obligation of the United States in effect on August 16, 1954.
+&emsp;No provision of this title (as in effect without regard to any amendment thereto enacted after August 16, 1954) shall apply in any case where its application would be contrary to any treaty obligation of the United States in effect on August 16, 1954.
 
 #### (e) Privacy Act of 1974
 

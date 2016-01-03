@@ -30,11 +30,19 @@ Lead agency.—The term "lead agency" means the Department of Transportation and
 
 &emsp;(5)
 
-Multimodal project.—The term "multimodal project" means a project funded, in whole or in part, under this title or chapter 53 of title 49 and involving the participation of more than one Department of Transportation administration or agency.
+Multimodal project.—The term "multimodal project" means a project that requires the approval of more than 1 Department of Transportation operating administration or secretarial office.
 
 &emsp;(6)
 
-Project.—The term "project" means any highway project, public transportation capital project, or multimodal project that requires the approval of the Secretary.
+Project.—
+
+&emsp;&emsp;(A)
+
+In general.—The term "project" means any highway project, public transportation capital project, or multimodal project that, if implemented as proposed by the project sponsor, would require approval by any operating administration or secretarial office within the Department of Transportation.
+
+&emsp;&emsp;(B)
+
+Considerations.—In determining whether a project is a project under subparagraph (A), the Secretary shall take into account, if known, any sources of Federal funding or financing identified by the project sponsor, including any discretionary grant, loan, and loan guarantee programs administered by the Department of Transportation.
 
 &emsp;(7)
 
@@ -62,7 +70,7 @@ Programmatic compliance.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall initiate a rulemaking to allow for the use of programmatic approaches to conduct environmental reviews that—
+In general.—The Secretary shall allow for the use of programmatic approaches to conduct environmental reviews that—
 
 &emsp;&emsp;&emsp;(i) eliminate repetitive discussions of the same issues;
 
@@ -76,33 +84,31 @@ In general.—The Secretary shall initiate a rulemaking to allow for the use of 
 
 &emsp;&emsp;(B)
 
-Requirements.—In carrying out subparagraph (A), the Secretary shall—
+Requirements.—In carrying out subparagraph (A), the Secretary shall ensure that programmatic reviews—
 
-&emsp;&emsp;&emsp;(i) before initiating the rulemaking under that subparagraph, consult with relevant Federal agencies and State resource agencies, State departments of transportation, Indian tribes, and the public on the appropriate use and scope of the programmatic approaches;
+&emsp;&emsp;&emsp;(i) promote transparency, including the transparency of—
 
-&emsp;&emsp;&emsp;(ii) emphasize the importance of collaboration among relevant Federal agencies, State agencies, and Indian tribes in undertaking programmatic reviews, especially with respect to including reviews with a broad geographic scope;
+&emsp;&emsp;&emsp;&emsp;(I) the analyses and data used in the environmental reviews;
 
-&emsp;&emsp;&emsp;(iii) ensure that the programmatic reviews—
+&emsp;&emsp;&emsp;&emsp;(II) the treatment of any deferred issues raised by agencies or the public; and
 
-&emsp;&emsp;&emsp;&emsp;(I) promote transparency, including of the analyses and data used in the environmental reviews, the treatment of any deferred issues raised by agencies or the public, and the temporal and special scales to be used to analyze such issues;
+&emsp;&emsp;&emsp;&emsp;(III) the temporal and spatial scales to be used to analyze issues under subclauses (I) and (II);
 
-&emsp;&emsp;&emsp;&emsp;(II) use accurate and timely information in reviews, including—
+&emsp;&emsp;&emsp;(ii) use accurate and timely information, including through establishment of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) criteria for determining the general duration of the usefulness of the review; and
+&emsp;&emsp;&emsp;&emsp;(I) criteria for determining the general duration of the usefulness of the review; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the timeline for updating any out-of-date review;
+&emsp;&emsp;&emsp;&emsp;(II) a timeline for updating an out-of-date review;
 
-&emsp;&emsp;&emsp;&emsp;(III) describe—
+&emsp;&emsp;&emsp;(iii) describe—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the relationship between programmatic analysis and future tiered analysis; and
+&emsp;&emsp;&emsp;&emsp;(I) the relationship between any programmatic analysis and future tiered analysis; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the role of the public in the creation of future tiered analysis; and
+&emsp;&emsp;&emsp;&emsp;(II) the role of the public in the creation of future tiered analysis;
 
-&emsp;&emsp;&emsp;&emsp;(IV) are available to other relevant Federal and State agencies, Indian tribes, and the public;
+&emsp;&emsp;&emsp;(iv) are available to other relevant Federal and State agencies, Indian tribes, and the public; and
 
-&emsp;&emsp;&emsp;(iv) allow not fewer than 60 days of public notice and comment on any proposed rule; and
-
-&emsp;&emsp;&emsp;(v) address any comments received under clause (iv).
+&emsp;&emsp;&emsp;(v) provide notice and public comment opportunities consistent with applicable requirements.
 
 (c)
 
@@ -114,7 +120,7 @@ Federal lead agency.—
 
 &emsp;&emsp;(A)
 
-In general.—The Department of Transportation shall be the Federal lead agency in the environmental review process for a project.
+In general.—The Department of Transportation, or an operating administration thereof designated by the Secretary, shall be the Federal lead agency in the environmental review process for a project.
 
 &emsp;&emsp;(B)
 
@@ -140,9 +146,11 @@ Adoption and use of documents.—Any environmental document prepared in accordan
 
 Roles and responsibility of lead agency.—With respect to the environmental review process for any project, the lead agency shall have authority and responsibility—
 
-&emsp;&emsp;(A) to take such actions as are necessary and proper, within the authority of the lead agency, to facilitate the expeditious resolution of the environmental review process for the project; and
+&emsp;&emsp;(A) to take such actions as are necessary and proper, within the authority of the lead agency, to facilitate the expeditious resolution of the environmental review process for the project;
 
-&emsp;&emsp;(B) to prepare or ensure that any required environmental impact statement or other document required to be completed under the National Environmental Policy Act of 1969 is completed in accordance with this section and applicable Federal law.
+&emsp;&emsp;(B) to prepare or ensure that any required environmental impact statement or other document required to be completed under the National Environmental Policy Act of 1969 is completed in accordance with this section and applicable Federal law; and
+
+&emsp;&emsp;(C) to consider and respond to comments received from participating agencies on matters within the special expertise or jurisdiction of those agencies.
 
 (d)
 
@@ -154,7 +162,7 @@ In general.—The lead agency shall be responsible for inviting and designating 
 
 &emsp;(2)
 
-Invitation.—The lead agency shall identify, as early as practicable in the environmental review process for a project, any other Federal and non-Federal agencies that may have an interest in the project, and shall invite such agencies to become participating agencies in the environmental review process for the project. The invitation shall set a deadline for responses to be submitted. The deadline may be extended by the lead agency for good cause.
+Invitation.—Not later than 45 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall identify any other Federal and non-Federal agencies that may have an interest in the project, and shall invite such agencies to become participating agencies in the environmental review process for the project. The invitation shall set a deadline for responses to be submitted. The deadline may be extended by the lead agency for good cause.
 
 &emsp;(3)
 
@@ -198,21 +206,113 @@ Concurrent reviews.—Each participating agency and cooperating agency shall—
 
 &emsp;&emsp;(B) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
 
+&emsp;(8)
+
+Single nepa document.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as inconsistent with paragraph (7), to the maximum extent practicable and consistent with Federal law, all Federal permits and reviews for a project shall rely on a single environment document prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) under the leadership of the lead agency.
+
+&emsp;&emsp;(B)
+
+Use of document.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—To the maximum extent practicable, the lead agency shall develop an environmental document sufficient tosatisfy the requirements for any Federal approval or other Federal action required for the project, including permits issued by other Federal agencies.
+
+&emsp;&emsp;&emsp;(ii)
+
+Cooperation of participating agencies.—Other participating agencies shall cooperate with the lead agency and provide timely information to help the lead agency carry out this subparagraph.
+
+&emsp;&emsp;(C)
+
+Treatment as participating and cooperating agencies.—A Federal agency required to make an approval or take an action for a project, as described in subparagraph (B), shall work with the lead agency for the project to ensure that the agency making the approval or taking the action is treated as being both a participating and cooperating agency for the project.
+
+&emsp;(9)
+
+Participating agency responsibilities.—An agency participating in the environmental review process under this section shall—
+
+&emsp;&emsp;(A) provide comments, responses, studies, or methodologies on those areas within the special expertise or jurisdiction of the agency; and
+
+&emsp;&emsp;(B) use the process to address any environmental issues of concern to the agency.
+
 (e)
 
 Project Initiation.—
 
 &emsp;(1)
 
-In general.—The project sponsor shall notify the Secretary of the type of work, termini, length and general location of the proposed project, together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
+In general.—The project sponsor shall notify the Secretary of the type of work, termini, length and general location of the proposed project (including any additional information that the project sponsor considers to be important to initiate the process for the proposed project), together with a statement of any Federal approvals anticipated to be necessary for the proposed project, for the purpose of informing the Secretary that the environmental review process should be initiated.
 
 &emsp;(2)
 
 Submission of documents.—The project sponsor may satisfy the requirement under paragraph (1) by submitting to the Secretary any relevant documents containing the information described in that paragraph, including a draft notice for publication in the Federal Register announcing the preparation of an environmental review for the project.
 
+&emsp;(3)
+
+Review of application.—Not later than 45 days after the date on which the Secretary receives notification under paragraph (1), the Secretary shall provide to the project sponsor a written response that, as applicable—
+
+&emsp;&emsp;(A) describes the determination of the Secretary—
+
+&emsp;&emsp;&emsp;(i) to initiate the environmental review process, including a timeline and an expected date for the publication in the Federal Register of the relevant notice of intent; or
+
+&emsp;&emsp;&emsp;(ii) to decline the application, including an explanation of the reasons for that decision; or
+
+&emsp;&emsp;(B) requests additional information, and provides to the project sponsor an accounting regarding what documentation is necessary to initiate the environmental review process.
+
+&emsp;(4)
+
+Request to designate a lead agency.—
+
+&emsp;&emsp;(A)
+
+In general.—Any project sponsor may submit to the Secretary a request to designate the operating administration or secretarial office within the Department of Transportation with the expertise on the proposed project to serve as the Federal lead agency for the project.
+
+&emsp;&emsp;(B)
+
+Secretarial action.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—If the Secretary receives a request under subparagraph (A), the Secretary shall respond to the request not later than 45 days after the date of receipt.
+
+&emsp;&emsp;&emsp;(ii)
+
+Requirements.—The response under clause (i) shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) approve the request;
+
+&emsp;&emsp;&emsp;&emsp;(II) deny the request, with an explanation of the reasons for the denial; or
+
+&emsp;&emsp;&emsp;&emsp;(III) require the submission of additional information.
+
+&emsp;&emsp;&emsp;(iii)
+
+Additional information.—If additional information is submitted in accordance with clause (ii)(III), the Secretary shall respond to the submission not later than 45 days after the date of receipt.
+
+&emsp;(5)
+
+Environmental checklist.—
+
+&emsp;&emsp;(A)
+
+Development.—The lead agency for a project, in consultation with participating agencies, shall develop, as appropriate, a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of the project.
+
+&emsp;&emsp;(B)
+
+Purpose.—The purposes of the checklist are—
+
+&emsp;&emsp;&emsp;(i) to identify agencies and organizations that can provide information about natural, cultural, and historic resources;
+
+&emsp;&emsp;&emsp;(ii) to develop the information needed to determine the range of alternatives; and
+
+&emsp;&emsp;&emsp;(iii) to improve interagency collaboration to help expedite the permitting process for the lead agency and participating agencies.
+
 (f)
 
-Purpose and Need.—
+Purpose and Need; Alternatives Analysis.—
 
 &emsp;(1)
 
@@ -238,11 +338,33 @@ Alternatives analysis.—
 
 &emsp;&emsp;(A)
 
-Participation.—As early as practicable during the environmental review process, the lead agency shall provide an opportunity for involvement by participating agencies and the public in determining the range of alternatives to be considered for a project.
+Participation.—
+
+&emsp;&emsp;&emsp;(i) In general.—As early as practicable during the environmental review process, the lead agency shall provide an opportunity for involvement by participating agencies and the public in determining the range of alternatives to be considered for a project.
+
+&emsp;&emsp;&emsp;(ii)
+
+Comments of participating agencies.—To the maximum extent practicable and consistent with applicable law, each participating agency receiving an opportunity for involvement under clause (i) shall limit the comments of the agency to subject matter areas within the special expertise or jurisdiction of the agency.
+
+&emsp;&emsp;&emsp;(iii)
+
+Effect of nonparticipation.—A participating agency that declines to participate in the development of the purpose and need and range of alternatives for a project shall be required to comply with the schedule developed under subsection (g)(1)(B).
 
 &emsp;&emsp;(B)
 
-Range of alternatives.—Following participation under paragraph (1), the lead agency shall determine the range of alternatives for consideration in any document which the lead agency is responsible for preparing for the project.
+Range of alternatives.—
+
+&emsp;&emsp;&emsp;(i)
+
+Determination.—Following participation under subparagraph (A), the lead agency shall determine the range of alternatives for consideration in any document which the lead agency is responsible for preparing for the project.
+
+&emsp;&emsp;&emsp;(ii)
+
+Use.—To the maximum extent practicable and consistent with Federal law, the range of alternatives determined for a project under clause (i) shall be used for all Federal environmental reviews and permit processes required for the project unless the alternatives must be modified—
+
+&emsp;&emsp;&emsp;&emsp;(I) to address significant new information or circumstances, and the lead agency and participating agencies agree that the alternatives must be modified to address the new information or circumstances; or
+
+&emsp;&emsp;&emsp;&emsp;(II) for the lead agency or a participating agency to fulfill the responsibilities of the agency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) in a timely manner.
 
 &emsp;&emsp;(C)
 
@@ -251,6 +373,38 @@ Methodologies.—The lead agency also shall determine, in collaboration with par
 &emsp;&emsp;(D)
 
 Preferred alternative.—At the discretion of the lead agency, the preferred alternative for a project, after being identified, may be developed to a higher level of detail than other alternatives in order to facilitate the development of mitigation measures or concurrent compliance with other applicable laws if the lead agency determines that the development of such higher level of detail will not prevent the lead agency from making an impartial decision as to whether to accept another alternative which is being considered in the environmental review process.
+
+&emsp;&emsp;(E)
+
+Reduction of duplication.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In carrying out this paragraph, the lead agency shall reduce duplication, to the maximum extent practicable, between—
+
+&emsp;&emsp;&emsp;&emsp;(I) the evaluation of alternatives under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the evaluation of alternatives in the metropolitan transportation planning process under section 134 or an environmental review process carried out under State law (referred to in this subparagraph as a "State environmental review process").
+
+&emsp;&emsp;&emsp;(ii)
+
+Consideration of alternatives.—The lead agency may eliminate from detailed consideration an alternative proposed in an environmental impact statement regarding a project if, as determined by the lead agency—
+
+&emsp;&emsp;&emsp;&emsp;(I) the alternative was considered in a metropolitan planning process or a State environmental review process by a metropolitan planning organization or a State or local transportation agency, as applicable;
+
+&emsp;&emsp;&emsp;&emsp;(II) the lead agency provided guidance to the metropolitan planning organization or State or local transportation agency, as applicable, regarding analysis of alternatives in the metropolitan planning process or State environmental review process, including guidance on the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other Federal law necessary for approval of the project;
+
+&emsp;&emsp;&emsp;&emsp;(III) the applicable metropolitan planning process or State environmental review process included an opportunity for public review and comment;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the applicable metropolitan planning organization or State or local transportation agency rejected the alternative after considering public comments;
+
+&emsp;&emsp;&emsp;&emsp;(V) the Federal lead agency independently reviewed the alternative evaluation approved by the applicable metropolitan planning organization or State or local transportation agency; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) the Federal lead agency determined—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in consultation with Federal participating or cooperating agencies, that the alternative to be eliminated from consideration is not necessary for compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) with the concurrence of Federal agencies with jurisdiction over a permit or approval required for a project, that the alternative to be eliminated from consideration is not necessary for any permit or approval under any other Federal law.
 
 (g)
 
@@ -262,7 +416,7 @@ Coordination plan.—
 
 &emsp;&emsp;(A)
 
-In general.—The lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordination plan may be incorporated into a memorandum of understanding.
+In general.—Not later than 90 days after the date of publication of a notice ofintent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall establish a plan for coordinating public and agency participation in and comment on the environmental review process for a project or category of projects. The coordination plan may be incorporated into a memorandum of understanding.
 
 &emsp;&emsp;(B)
 
@@ -270,7 +424,7 @@ Schedule.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The lead agency may establish as part of the coordination plan, after consultation with and the concurrence of each participating agency for the project and with the State in which the project is located (and, if the State is not the project sponsor, with the project sponsor), a schedule for completion of the environmental review process for the project.
+In general.—The lead agency shall establish as part of such coordination plan, after consultation with and the concurrence of each participating agency for the project and with the State in which the project is located (and, if the State is not the project sponsor, with the project sponsor), a schedule for completion of the environmental review process for the project.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -302,7 +456,7 @@ Modification.—The lead agency may—
 
 Dissemination.—A copy of a schedule under subparagraph (B), and of any modifications to the schedule, shall be—
 
-&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project islocated (and, if the State is not the project sponsor, to the project sponsor); and
+&emsp;&emsp;&emsp;(i) provided to all participating agencies and to the State transportation department of the State in which the project is located (and, if the State is not the project sponsor, to the project sponsor); and
 
 &emsp;&emsp;&emsp;(ii) made available to the public.
 
@@ -324,7 +478,7 @@ Comment deadlines.—The lead agency shall establish the following deadlines for
 
 &emsp;(3)
 
-Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
 
 &emsp;&emsp;(A) as soon as practicable after the 180-day period, an initial notice of the failure of the Federal agency to make the decision; and
 
@@ -352,6 +506,10 @@ Participating agency responsibilities.—Based on information received from the 
 
 &emsp;(4)
 
+Issue resolution.—Any issue resolved by the lead agency with the concurrence of participating agencies may not be reconsideredunless significant new information or circumstances arise.
+
+&emsp;(5)
+
 Interim decision on achieving accelerated decisionmaking.—
 
 &emsp;&emsp;(A)
@@ -364,9 +522,9 @@ Deadlines.—The deadlines referred to in subparagraph (A) shall be those establ
 
 &emsp;&emsp;(C)
 
-Failure to assure.—If the relevant agencies cannot provide reasonable assurances that the deadlines described in subparagraph (B) will be met, the Secretary may initiate the issue resolution and referral process described under paragraph (5) and before the completion of the record of decision.
+Failure to assure.—If the relevant agencies cannot provide reasonable assurances that the deadlines described in subparagraph (B) will be met, the Secretary may initiate the issue resolution and referral process described under paragraph (6) before the completion of the record of decision.
 
-&emsp;(5)
+&emsp;(6)
 
 Accelerated issue resolution and referral.—
 
@@ -434,7 +592,7 @@ Meeting.—Not later than 30 days after the date of receipt of a referral from t
 
 Referral to the president.—If a resolution is not achieved by not later than 30 days after the date of the meeting convened by the Council on Environmental Quality under clause (i)(II), the Secretary shall refer the matter directly to the President.
 
-&emsp;(6)
+&emsp;(7)
 
 Financial penalty provisions.—
 
@@ -448,19 +606,25 @@ Failure to decide.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If an agency described in subparagraph (A) fails to render a decision under any Federal law relating to a project that requires the preparation of an environmental impact statement or environmental assessment, including the issuance or denial of a permit, license, or other approval by the date described in clause (ii), an amount of funding equal to the amounts specified in subclause (I) or (II) shall be rescinded from the applicable office of the head of the agency, or equivalent office to which the authority for rendering the decision has been delegated by law by not later than 1 day after the applicable date under clause (ii), and once each week thereafter until a final decision is rendered, subject to subparagraph (C)—
+In general.—If an agency described in subparagraph (A) fails to render a decision under any Federal law relating to a project that requires the preparation of an environmental impact statement or environmental assessment, including the issuance or denial of a permit, license, or other approval by the date described in clause (ii), an amount of funding equal to the amounts specified in subclause (I) or (II) shall be rescinded from the applicable office of the head of the agency, or equivalent office to which the authority for rendering the decision has been delegated bylaw by not later than 1 day after the applicable date under clause (ii), and once each week thereafter until a final decision is rendered, subject to subparagraph (C)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $20,000 for any project for which an annual financial plan under section 106(i) is required; or
+&emsp;&emsp;&emsp;&emsp;(I) $20,000 for any project for which an annual financial plan is required under subsection (h) or (i) of section 106; or
 
 &emsp;&emsp;&emsp;&emsp;(II) $10,000 for any other project requiring preparation of an environmental assessment or environmental impact statement.
 
 &emsp;&emsp;&emsp;(ii)
 
-Description of date.—The date referred to in clause (i) is the later of—
+Description of date.—The date referred to in clause (i) is—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date that is 180 days after the date on which an application for the permit, license, or approval is complete; and
+&emsp;&emsp;&emsp;&emsp;(I) the date that is 30 days after the date for rendering a decision as described in the project schedule established pursuant to subsection (g)(1)(B);
 
-&emsp;&emsp;&emsp;&emsp;(II) the date that is 180 days after the date on which the Federal lead agency issues a decision on the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;&emsp;&emsp;&emsp;(II) if no schedule exists, the later of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date that is 180 days after the date on which an application for the permit, license, or approval is complete; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date that is 180 days after the date on which the Federal lead agency issues a decision on the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
+
+&emsp;&emsp;&emsp;&emsp;(III) a modified date in accordance with subsection (g)(1)(D).
 
 &emsp;&emsp;(C)
 
@@ -484,7 +648,7 @@ No fault of agency.—A rescission of funds under this paragraph shall not be ma
 
 &emsp;&emsp;(E)
 
-Limitation.—The Federal agency with jurisdiction for the decision from which funds are rescinded pursuant to this paragraph shall not reprogram funds to the officeof the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
+Limitation.—The Federal agency with jurisdiction for the decision from which funds are rescinded pursuant to this paragraph shall not reprogram funds to the office of the head of the agency, or equivalent office, to reimburse that office for the loss of the funds.
 
 &emsp;&emsp;(F)
 
@@ -498,7 +662,7 @@ Audits.—In any fiscal year in which any funds are rescinded from a Federal age
 
 Effect of paragraph.—Nothing in this paragraph affects or limits the application of, or obligation to comply with, any Federal, State, local, or tribal law.
 
-&emsp;(7)
+&emsp;(8)
 
 Expedient decisions and reviews.—To ensure that Federal environmental decisions and reviews are expeditiously made—
 
@@ -520,11 +684,19 @@ Assistance to Affected State and Federal Agencies.—
 
 &emsp;(1)
 
-In general.—For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this title or chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State.
+In general.—
+
+&emsp;&emsp;(A)
+
+Authority to provide funds.—The Secretary may allow a public entity receiving financial assistance from the Department of Transportation under this title or chapter 53 of title 49 to provide funds to Federal agencies (including the Department), State agencies, and Indian tribes participating in the environmental review process for the project or program.
+
+&emsp;&emsp;(B)
+
+Use of funds.—Funds referred to in subparagraph (A) may be provided only to support activities that directly and meaningfully contribute to expediting and improving permitting and review processes, including planning, approval, and consultation processes for the project or program.
 
 &emsp;(2)
 
-Activities eligible for funding.—Activities for which funds may be provided under paragraph (1) include transportation planning activities that precede the initiation of the environmental review process, dedicated staffing, training of agency personnel, information gathering and mapping, and development of programmatic agreements.
+Activities eligible for funding.—Activities for which funds may be provided under paragraph (1) include transportation planning activities that precede the initiation of the environmental review process, activities directly related to the environmental review process, dedicated staffing, training of agency personnel, information gathering and mapping, and development of programmatic agreements.
 
 &emsp;(3)
 
@@ -540,7 +712,7 @@ Condition.—A request under paragraph (1) to expedite time limits for environme
 
 &emsp;(6)
 
-Memorandum of understanding.—Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under paragraphs (1) and (2), the affected Federal agency and the State agency shall enter into a memorandum of understanding that establishes the projects and priorities to be addressed by the use of the funds.
+Agreement.—Prior to providing funds approved by the Secretary for dedicated staffing at an affected agency under paragraphs (1) and (2), the affected agency and the requesting public entity shall enter into an agreement that establishes the projects and priorities to be addressed by the use of the funds.
 
 (k)
 
@@ -640,15 +812,71 @@ In general.—All provisions of this section shall apply to this subsection, inc
 
 Restriction.—If the Secretary enforces this subsection under subsection (h)(6), the Secretary may use a date included in a schedule under paragraph (3)(B) that is created pursuant to and is in compliance with this subsection in lieu of the dates under subsection (h)(6)(B)(ii).
 
-(Added Pub. L. 109–59, title VI, §6002(a), Aug. 10, 2005, 119 Stat. 1857; amended Pub. L. 112–141, div. A, title I, §§1305–1309, July 6, 2012, 126 Stat. 533–539.)
+(n)
+
+Accelerated Decisionmaking in Environmental Reviews.—
+
+&emsp;(1)
+
+In general.—In preparing a final environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), if the lead agency modifies the statement in response to comments that are minor and are confined to factual corrections or explanations of why the comments do not warrant additional agency response, the lead agency may write on errata sheets attached to the statement instead of rewriting the draft statement, subject to the condition that the errata sheets—
+
+&emsp;&emsp;(A) cite the sources, authorities, and reasons that support the position of the agency; and
+
+&emsp;&emsp;(B) if appropriate, indicate the circumstances that would trigger agency reappraisal or further response.
+
+&emsp;(2)
+
+Single document.—To the maximum extent practicable, the lead agency shall expeditiously develop a single document that consists of a final environmental impact statement and a record of decision, unless—
+
+&emsp;&emsp;(A) the final environmental impact statement makes substantial changes to the proposed action that are relevant to environmental or safety concerns; or
+
+&emsp;&emsp;(B) there is a significant new circumstance or information relevant to environmental concerns that bears on the proposed action or the impacts of the proposed action.
+
+(o)
+
+Improving Transparency in Environmental Reviews.—
+
+&emsp;(1)
+
+In general.—Not later than 18 months after the date of enactment of this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) use the searchable Internet website maintained under section 41003(b) of the FAST Act—
+
+&emsp;&emsp;&emsp;(i) to make publicly available the status and progress of projects requiring an environmental assessment or an environmental impact statement with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other Federal, State, or local approval required for those projects; and
+
+&emsp;&emsp;&emsp;(ii) to make publicly available the names of participating agencies not participating in the development of a project purpose and need and range of alternatives under subsection (f); and
+
+&emsp;&emsp;(B) issue reporting standards to meet the requirements of subparagraph (A).
+
+&emsp;(2)
+
+Federal, state, and local agency participation.—
+
+&emsp;&emsp;(A)
+
+Federal agencies.—A Federal agency participating in the environmental review or permitting process for a project shall provide to the Secretary information regarding the status and progress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A), consistent with the standards established under paragraph (1)(B).
+
+&emsp;&emsp;(B)
+
+State and local agencies.—The Secretary shall encourage State and local agencies participating in the environmental review permitting process for a project to provide information regarding the status and progress of the approval of the project for publication on the Internet website referred to in paragraph (1)(A).
+
+&emsp;(3)
+
+States with delegated authority.—A State with delegated authority for responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) pursuant to section 327 shall be responsible for supplying to the Secretary project development and compliance status for all applicable projects.
+
+(Added Pub. L. 109–59, title VI, §6002(a), Aug. 10, 2005, 119 Stat. 1857; amended Pub. L. 112–141, div. A, title I, §§1305–1309, July 6, 2012, 126 Stat. 533–539; Pub. L. 114–94, div. A, title I, §1304(a)–(j)(1), Dec. 4, 2015, 129 Stat. 1378–1385.)
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2), (3), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (h)(6)(B)(ii)(II), (7), (k)(2), and (m)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2), (3), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The date of enactment of the MAP–21, referred to in subsec. (h)(7)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+The date of enactment of the MAP–21, referred to in subsec. (h)(8)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 Section 204 of this title, referred to in subsec. (j)(3), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
+
+The date of enactment of this subsection, referred to in subsec. (o)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Section 41003(b) of the FAST Act, referred to in subsec. (o)(1)(A), is section 41003(b) of Pub. L. 114–94, knownas the FAST Act and also known as the Fixing America's Surface Transportation Act, which is classified to section 4370m–2(b) of Title 42, The Public Health and Welfare.
 
 #### Codification
 
@@ -659,6 +887,66 @@ Section 6002(a) of Pub. L. 109–59, which directed that this section be inserte
 A prior section 139, added Pub. L. 90–495, §16(a), Aug. 23, 1968, 82 Stat. 823; amended Pub. L. 91–605, title I, §§106(b)(1), 140, Dec. 31, 1970, 84 Stat. 1716, 1736; Pub. L. 94–280, title I, §125, May 5, 1976, 90 Stat. 440; Pub. L. 97–134, §10, Dec. 29, 1981, 95 Stat. 1702; Pub. L. 97–424, title I, §116(a)(3), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(a), Mar. 9, 1984, 98 Stat. 56, related to additions to the Interstate System, prior to repeal by Pub. L. 105–178, title I, §1106(c)(2)(A), June 9, 1998, 112 Stat. 136.
 
 #### Amendments
+
+Subsec. (a)(5). Pub. L. 114–94, §1304(a)(1), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The term 'multimodal project' means a project funded, in whole or in part, under this title or chapter 53 of title 49 and involving the participation of more than one Department of Transportation administration or agency."
+
+Subsec. (a)(6). Pub. L. 114–94, §1304(a)(2), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The term 'project' means any highway project, public transportation capital project, or multimodal project that requires the approval of the Secretary."
+
+Subsec. (b)(3)(A). Pub. L. 114–94, §1304(b)(1), struck out "initiate a rulemaking to" after "shall" in introductory provisions.
+
+Subsec. (b)(3)(B). Pub. L. 114–94, §1304(b)(2), added subpar. (B) and struck out former subpar. (B) which related to programmatic compliance requirements.
+
+Subsec. (c)(1)(A). Pub. L. 114–94, §1304(c)(1), inserted ", or an operating administration thereof designated by the Secretary," after "Department of Transportation".
+
+Subsec. (c)(6)(C). Pub. L. 114–94, §1304(c)(2), added subpar. (C).
+
+Subsec. (d)(2). Pub. L. 114–94, §1304(d)(1), substituted "Not later than 45 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency shall identify" for "The lead agency shall identify, as early as practicable in the environmental review process for a project,".
+
+Subsec. (d)(8), (9). Pub. L. 114–94, §1304(d)(2), added pars. (8) and (9).
+
+Subsec. (e)(1). Pub. L. 114–94, §1304(e)(1), inserted "(including any additional information that the project sponsor considers to be important to initiate the process for the proposed project)" after "general location of the proposed project".
+
+Subsec. (e)(3) to (5). Pub. L. 114–94, §1304(e)(2), added pars. (3) to (5).
+
+Subsec. (f). Pub. L. 114–94, §1304(f)(1), inserted "; Alternatives Analysis" after "Need" in heading.
+
+Subsec. (f)(4)(A). Pub. L. 114–94, §1304(f)(2)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "As early as practicable during the environmental review process, the lead agency shall provide an opportunity for involvement by participating agencies and the public in determining the range of alternatives to be considered for a project."
+
+Subsec. (f)(4)(B). Pub. L. 114–94, §1304(f)(2)(B), designated existing provisions as cl. (i), inserted heading, substituted "Following participation under subparagraph (A)" for "Following participation under paragraph (1)", and added cl. (ii).
+
+Subsec. (f)(4)(E). Pub. L. 114–94, §1304(f)(2)(C), added subpar. (E).
+
+Subsec. (g)(1)(A). Pub. L. 114–94, §1304(g)(1)(A), substituted "Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency" for "The lead agency".
+
+Subsec. (g)(1)(B)(i). Pub. L. 114–94, §1304(g)(1)(B), substituted "shall establish as part of such coordination plan" for "may establish as part of the coordination plan".
+
+Subsec. (g)(3). Pub. L. 114–94, §1304(g)(2), inserted "and publish on the Internet" after "House of Representatives" in introductory provisions.
+
+Subsec. (h)(4). Pub. L. 114–94, §1304(h)(1)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (h)(5). Pub. L. 114–94, §1304(h)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (h)(5)(C). Pub. L. 114–94, §1304(h)(2), substituted "paragraph (6)" for "paragraph (5) and".
+
+Subsec. (h)(6), (7). Pub. L. 114–94, §1304(h)(1)(A), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (h)(7)(B)(i)(I). Pub. L. 114–94, §1304(h)(3)(A), substituted "is required under subsection (h) or (i) of section 106" for "under section 106(i) is required".
+
+Subsec. (h)(7)(B)(ii). Pub. L. 114–94, §1304(h)(3)(B), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The date referred to in clause (i) is the later of—
+
+&emsp;"(I) the date that is 180 days after the date on which an application for the permit, license, or approval is complete; and
+
+&emsp;"(II) the date that is 180 days after the date on which the Federal lead agency issues a decision on the project under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
+
+Subsec. (h)(8). Pub. L. 114–94, §1304(h)(1)(A), redesignated par. (7) as (8).
+
+Subsec. (j)(1). Pub. L. 114–94, §1304(i)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "For a project that is subject to the environmental review process established under this section and for which funds are made available to a State under this title or chapter 53 of title 49, the Secretary may approve a request by the State to provide funds so made available under this title or such chapter 53 to affected Federal agencies (including the Department of Transportation), State agencies, and Indian tribes participating in the environmental review process for the projects in that State or participating in a State process that has been approved by the Secretary for that State. Such funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving transportation project planning and delivery for projects in that State."
+
+Subsec. (j)(2). Pub. L. 114–94, §1304(i)(2), inserted "activities directly related to the environmental review process," before "dedicated staffing,".
+
+Subsec. (j)(6). Pub. L. 114–94, §1304(i)(3), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under paragraphs (1) and (2), the affected Federal agency and the State agency shall enter into a memorandum of understanding that establishes the projects and priorities to be addressed by the use of the funds."
+
+Subsecs. (n), (o). Pub. L. 114–94, §1304(j)(1), added subsec. (n) and (o).
 
 <b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1305(a)(1), inserted ", and any requirements established under this section may be satisfied," after "exercised".
 
@@ -690,9 +978,37 @@ Subsec. (l). Pub. L. 112–141, §1308, substituted "150 days" for "180 days" in
 
 Subsec. (m). Pub. L. 112–141, §1309, added subsec. (m).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Implementation of Programmatic Compliance
+
+Pub. L. 114–94, div. A, title I, §1304(k), Dec. 4, 2015, 129 Stat. 1386, provided that:
+
+"(1)
+
+Rulemaking.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall complete a rulemaking to implement the provisions of section 139(b)(3) of title 23, United States Code, as amended by this section.
+
+"(2)
+
+Consultation.—Before initiating the rulemaking under paragraph (1), the Secretary shall consult with relevant Federal agencies, relevant State resource agencies, State departments of transportation, Indian tribes, and the public on the appropriate use and scope of the programmatic approaches.
+
+"(3)
+
+Requirements.—In carrying out this subsection, the Secretary shall ensure that the rulemaking meets the requirements of section 139(b)(3)(B) of title 23, United States Code, as amended by this section.
+
+"(4)
+
+Comment period.—The Secretary shall—
+
+&emsp;"(A) allow not fewer than 60 days for public notice and comment on the proposed rule; and
+
+&emsp;"(B) address any comments received under this subsection."
 
 #### Memoranda of Agency Agreements for Early Coordination
 

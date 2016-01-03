@@ -36,7 +36,7 @@
 
 > subject to approval by the Government official responsible for appointment to his position.
 
-(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
+(e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the headof the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
 (f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
@@ -106,13 +106,13 @@ Authority of President under subsec. (d) of this section to grant exemptions or 
 
 #### Exemptions
 
-Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable."
+Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: "All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act \[see Effective Date note under section 201 of this title\] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or ofthe District of Columbia, as to whom they are no longer applicable."
 
 #### Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences
 
 Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
-"(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on filewith the Department of State the financial disclosure report required for special Government employees.
+"(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
 "(b) As used in this section, the term 'international telecommunications meeting or conference' means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate."
 

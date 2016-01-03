@@ -6,7 +6,7 @@ The Secretary, in consultation with the Administrator of the Environmental Prote
 
 #### (b) Membership
 
-The task force shall include individuals representing the Department of Housing and Urban Development, the Farmers Home Administration, the Department of Veterans Affairs, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Environmental Protection Agency, employee organizations in the building and construction trades industry, landlords, tenants, primary lending institutions, private mortgage insurers, single-family and multifamily real estate interests, nonprofit housing developers, property liability insurers, public housing agencies, low-income housing advocacy organizations, national, State and local lead-poisoning prevention advocates and experts, and community-based organizations located in areas with substantial rental housing.
+The task force shall include individuals representing the Department of Housing and UrbanDevelopment, the Farmers Home Administration, the Department of Veterans Affairs, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Environmental Protection Agency, employee organizations in the building and construction trades industry, landlords, tenants, primary lending institutions, private mortgage insurers, single-family and multifamily real estate interests, nonprofit housing developers, property liability insurers, public housing agencies, low-income housing advocacy organizations, national, State and local lead-poisoning prevention advocates and experts, and community-based organizations located in areas with substantial rental housing.
 
 #### (c) Responsibilities
 

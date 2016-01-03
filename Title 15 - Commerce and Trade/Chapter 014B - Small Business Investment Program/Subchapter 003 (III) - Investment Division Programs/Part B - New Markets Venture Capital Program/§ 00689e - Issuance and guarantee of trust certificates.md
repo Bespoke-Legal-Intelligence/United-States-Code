@@ -24,7 +24,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (d) Fees
 
-The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2) of this section.
+The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
 
 #### (e) Subrogation and ownership rights
 
@@ -62,7 +62,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (4) Electronic registration
 
-&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
+&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or otherelectronic form of registration for trust certificates issued under this section.
 
 (Pub. L. 85–699, title III, §356, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–658.)
 

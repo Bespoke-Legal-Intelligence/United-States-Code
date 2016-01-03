@@ -28,7 +28,7 @@ Notwithstanding subsection (a), the Board shall prescribe regulations to carry o
 
 Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter <sup>4</sup>
 
-(Pub. L. 90–321, title VII, §703, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §3(a), Mar. 23, 1976, 90 Stat. 252; Pub. L. 100–533, title III, §301, Oct. 25, 1988, 102 Stat. 2692; Pub. L. 111–203, title X, §1085(1), (3), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, §703, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §3(a), Mar. 23, 1976, 90Stat. 252; Pub. L. 100–533, title III, §301, Oct. 25, 1988, 102 Stat. 2692; Pub. L. 111–203, title X, §1085(1), (3), July 21, 2010, 124 Stat. 2083.)
 
 #### Amendments
 

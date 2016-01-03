@@ -12,7 +12,7 @@
 
 #### (b) Federal financial assistance
 
-Any assistance provided under this subchapter shall constitute Federal financial assistance for purposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
+Any assistance provided under this subchapter shall constitute Federal financial assistance forpurposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
 
 #### (c) Religious discrimination
 
@@ -26,7 +26,7 @@ Any assistance provided under this subchapter shall constitute Federal financial
 
 #### (d) Rules and regulations
 
-The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis,until notice and an opportunity to be heard can be provided.
+The Chief Executive Officer shall promulgate rules and regulations to provide for the enforcement of this section that shall include provisions for summary suspension of assistance for not more than 30 days, on an emergency basis, until notice and an opportunity to be heard can be provided.
 
 (Pub. L. 101–610, title I, §175, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §115, Sept. 21, 1993, 107 Stat. 862.)
 

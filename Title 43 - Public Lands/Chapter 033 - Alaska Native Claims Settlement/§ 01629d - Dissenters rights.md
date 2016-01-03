@@ -4,7 +4,7 @@
 
 (1) Notwithstanding the laws of the State, if the shareholders of a Native Corporation—
 
-&emsp;(A) fail to approve an amendment authorized by section 1629c(b) of this title to terminate alienability restrictions, a shareholder who voted for the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock; or
+&emsp;(A) fail to approve an amendment authorized by section 1629c(b) of this title to terminatealienability restrictions, a shareholder who voted for the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock; or
 
 &emsp;(B) approve an amendment authorized by section 1629c(d) of this title to continue alienability restrictions without issuing alienable common stock pursuant to section 1629c(d)(6) of this title, a shareholder who voted against the amendment may demand payment from the corporation for all of his or her shares of Settlement Common Stock.
 
@@ -14,13 +14,13 @@
 
 #### (b) Relationship to State procedure
 
-(1) Except as otherwise provided in this section, the laws of the State governing the right of a dissenting shareholder to demand and receive payment for his or her shares shall apply to demands for payment honored pursuant to subsection (a)(2) of this section.
+(1) Except as otherwise provided in this section, the laws of the State governing the right of a dissenting shareholder to demand and receive payment for his or her shares shall apply to demands for payment honored pursuant to subsection (a)(2).
 
 (2) The board of directors of a Native Corporation may approve a resolution to provide a dissenting shareholder periods of time longer than those provided under the laws of the State to take actions required to demand and receive payment for his or her shares.
 
 #### (c) Valuation of stock
 
-(1) Prior to a vote described in subsection (a)(1) of this section, the board of directors of aNative Corporation may approve a resolution to provide that one or more of the following conditions will apply in the event a demand for payment is honored pursuant to subsection (a)(2) of this section—
+(1) Prior to a vote described in subsection (a)(1), the board of directors of a Native Corporation may approve a resolution to provide that one or more of the following conditions will apply in the event a demand for payment is honored pursuant to subsection (a)(2)—
 
 &emsp;(A) the Settlement Common Stock shall be valued as restricted stock; and
 
@@ -42,7 +42,7 @@
 
 #### (d) Form of payment
 
-(1) Prior to a vote described in subsection (a)(1) of this section, the board of directors of a Native Corporation may approve a resolution to provide that in the event a demand for payment is honored pursuant to subsection (a)(2) of this section payments to each dissenting shareholder shall be made by the corporation through the issuance of a negotiable note in the principal amount of the payment due, which shall be secured by—
+(1) Prior to a vote described in subsection (a)(1), the board of directors of a Native Corporation may approve a resolution to provide that in the event a demand for payment is honored pursuant to subsection (a)(2) payments to each dissenting shareholder shall be made by the corporation through the issuance of a negotiable note in the principal amount of the payment due, which shall be secured by—
 
 &emsp;(A) a payment bond issued by an insurance company or financial institution;
 
@@ -64,15 +64,15 @@
 
 (2) A note issued pursuant to paragraph (1) shall provide that—
 
-&emsp;(A) interest shall be paid semi-annually, beginning as of the date on which the vote described in subsection (a)(1) of this section occurred, at the rate applicable on such date to obligations of the United States having a maturity date of one year, and
+&emsp;(A) interest shall be paid semi-annually, beginning as of the date on which the vote described in subsection (a)(1) occurred, at the rate applicable on such date to obligations of the United States having a maturity date of one year, and
 
-&emsp;(B) the principal amount and accrued interest on such note shall be payable to the holder at a time specified by the corporation but in no event later than the date that is five years after the date of the vote described in subsection (a)(1) of this section.
+&emsp;(B) the principal amount and accrued interest on such note shall be payable to the holder at a time specified by the corporation but in no event later than the date that is five years after the date of the vote described in subsection (a)(1).
 
 #### (e) Dividend adjustment
 
-(1) The cash payment made pursuant to subsection (a) of this section or the principal amount of a note issued pursuant to subsection (d) of this section to a dissenting shareholder shall be reduced by the amount of dividends paid to such shareholder with respect to his or her Settlement Common Stock after the date of the vote described in subsection (a)(1) of this section.
+(1) The cash payment made pursuant to subsection (a) or the principal amount of a note issued pursuant to subsection (d) to a dissenting shareholder shall be reduced by the amount of dividends paid to such shareholder with respect to his or her Settlement Common Stock after the date of the vote described in subsection (a)(1).
 
-(2) Upon receipt of a cash payment pursuant to subsection (a) of this section or a note pursuant to subsection (d) of this section, a dissenting shareholder shall no longer have an interest in the shares of Settlement Common Stock or in the Native Corporation.
+(2) Upon receipt of a cash payment pursuant to subsection (a) or a note pursuant to subsection (d), a dissenting shareholder shall no longer have an interest in the shares of Settlement Common Stock or in the Native Corporation.
 
 (Pub. L. 92–203, §38, as added Pub. L. 100–241, §9, Feb. 3, 1988, 101 Stat. 1802.)
 

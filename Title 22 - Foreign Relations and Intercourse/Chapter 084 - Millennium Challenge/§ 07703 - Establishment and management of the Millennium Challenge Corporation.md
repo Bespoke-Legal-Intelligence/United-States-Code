@@ -18,7 +18,7 @@ There is established in the executive branch a corporation to be known as the "M
 
 #### (B) Interim CEO
 
-&emsp;&emsp;The members of the Board of Directors described in subsection (c)(3)(A) may designateby unanimous consent in writing an individual who is an officer within any Federal department or agency (and who has been appointed to such position by the President, by and with the advice and consent of the Senate) to carry out the duties described in this subsection until the Chief Executive Officer is appointed pursuant to subparagraph (A).
+&emsp;&emsp;The members of the Board of Directors described in subsection (c)(3)(A) may designate by unanimous consent in writing an individual who is an officer within any Federal department or agency (and who has been appointed to such position by the President, by and with the advice and consent of the Senate) to carry out the duties described in this subsection until the Chief Executive Officer is appointed pursuant to subparagraph (A).
 
 #### (3) Relationship to Board
 

@@ -54,7 +54,7 @@
 
 #### (ii) Condition of jurisdiction
 
-&emsp;&emsp;&emsp;The Court of Appeals shall have jurisdiction of an appeal by a covered financialcompany only if the covered financial company did not acquiesce or consent to the appointment of a receiver by the Secretary under paragraph (1)(A).
+&emsp;&emsp;&emsp;The Court of Appeals shall have jurisdiction of an appeal by a covered financial company only if the covered financial company did not acquiesce or consent to the appointment of a receiver by the Secretary under paragraph (1)(A).
 
 #### (iii) Expedition
 
@@ -136,7 +136,7 @@
 
 #### (B) Additional report required
 
-&emsp;&emsp;Not later than 30 days after the date of commencement of the extension under subparagraph (A), the Corporation shall submita report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the need for the extension and the specific plan of the Corporation to conclude the receivership before the end of the second extension.
+&emsp;&emsp;Not later than 30 days after the date of commencement of the extension under subparagraph (A), the Corporation shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the need for the extension and the specific plan of the Corporation to conclude the receivership before the end of the second extension.
 
 #### (4) Ongoing litigation
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor the activities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
+&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor theactivities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
 
 #### (B) Issues to be studied
 

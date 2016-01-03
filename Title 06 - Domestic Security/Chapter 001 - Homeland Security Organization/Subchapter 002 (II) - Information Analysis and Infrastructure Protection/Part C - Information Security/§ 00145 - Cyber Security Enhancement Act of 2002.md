@@ -32,7 +32,7 @@ This section may be cited as the "Cyber Security Enhancement Act of 2002".
 
 &emsp;&emsp;&emsp;(vii) whether the violation was intended to or had the effect of significantly interfering with or disrupting a critical infrastructure; and
 
-&emsp;&emsp;&emsp;(viii) whether the violation was intended to or had the effect of creating a threat to public health or safety, or injury to any person;
+&emsp;&emsp;&emsp;(viii) whether the violation was intended to or had the effect of creating a threat topublic health or safety, or injury to any person;
 
 &emsp;&emsp;(C) assure reasonable consistency with other relevant directives and with other sentencing guidelines;
 
@@ -52,7 +52,7 @@ Not later than May 1, 2003, the United States Sentencing Commission shall submit
 
 #### (2) Reporting of disclosures
 
-&emsp;A government entity that receives a disclosure under section 2702(b) of title 18 shall file, not later than 90 days after such disclosure, a report to the Attorney General stating the paragraph of that section under which the disclosure was made, the date of the disclosure, the entity to which the disclosure was made, the number of customers or subscribers to whom the information disclosed pertained,and the number of communications, if any, that were disclosed. The Attorney General shall publish all such reports into a single report to be submitted to Congress 1 year after November 25, 2002.
+&emsp;A government entity that receives a disclosure under section 2702(b) of title 18 shall file, not later than 90 days after such disclosure, a report to the Attorney General stating the paragraph of that section under which the disclosure was made, the date of the disclosure, the entity to which the disclosure was made, the number of customers or subscribers to whom the information disclosed pertained, and the number of communications, if any, that were disclosed. The Attorney General shall publish all such reports into a single report to be submitted to Congress 1 year after November 25, 2002.
 
 (Pub. L. 107–296, title II, §225, Nov. 25, 2002, 116 Stat. 2156.)
 

@@ -14,7 +14,7 @@
 
 | <b>In the case of a pay period beginning in fiscal year:</b> | <b>The maximum percentageallowable is:</b> |
 | :--- | ---: |
-| 2001 | 6   |
+| 2001 | 6&nbsp;&nbsp; |
 | 2002 | 7&nbsp;&nbsp; |
 | 2003 | 8&nbsp;&nbsp; |
 | 2004 | 9&nbsp;&nbsp; |
@@ -39,7 +39,7 @@
 
 (7) For the purpose of this section, the term "nonforfeitable account balance" has the same meaning as under section 8401(32).
 
-(8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a position subject to this subchapter, pursuant to chapter 43 of title 38—
+(8) In applying section 8432b to an employee contributing to the Thrift Savings Fund after being restored to or reemployed in a positionsubject to this subchapter, pursuant to chapter 43 of title 38—
 
 &emsp;(A) any reference in such section to contributions under section 8432(a) shall be considered a reference to employee contributions under this section, except that the reference in section 8432b(b)(2)(B) to employee contributions under section 8432(a) shall be considered a reference to employee contributions under this subchapter and section 8440e;
 
@@ -137,7 +137,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(c)\], Dec. 21, 2000, 114 S
 
 "(1)
 
-In general.—The amendments made by this section \[enacting section 8440f of this title and amendingthis section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
+In general.—The amendments made by this section \[enacting section 8440f of this title and amending this section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
 "(2)
 

@@ -112,11 +112,11 @@ The Secretary shall establish a program of swine price information reporting tha
 
 > &emsp;&emsp;&emsp;&emsp;adjusted for special slaughter situations (such as skinning or foot removal), as the Secretary determines necessary to render comparable carcass weights;
 
-&emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for barrows and gilts slaughtered during the applicable reporting period, resulting from the fact that the barrows and giltsdid not fall within the individual packer's established carcass weight or lot variation range;
+&emsp;&emsp;&emsp;&emsp;(VI) the average sort loss, which shall be equal to the average discount (in dollars per hundred pounds carcass weight) for barrows and gilts slaughtered during the applicable reporting period, resulting from the fact that the barrows and gilts did not fall within the individual packer's established carcass weight or lot variation range;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the barrows and gilts slaughtered during the applicable reporting period;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
+&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the barrows and gilts slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packershall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the barrows and gilts of the individual packer to correlate to a common percent lean measurement; and
 
 &emsp;&emsp;&emsp;&emsp;(IX) the total slaughter quantity, which shall be equal to the total number of barrows and gilts slaughtered during the applicable reporting period, including all types of purchases and barrows and gilts that qualify as packer-owned swine; and
 
@@ -136,7 +136,13 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (ii) Price distributions
 
-&emsp;&emsp;&emsp;The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.
+&emsp;&emsp;&emsp;The information published by the Secretary under clause (i) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a distribution of net prices in the range between and including the lowest net price and the highest net price reported;
+
+&emsp;&emsp;&emsp;&emsp;(II) a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.
 
 #### (2) Morning report
 
@@ -172,13 +178,17 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (B) Publication
 
-&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in theafternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in the afternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+
+#### (C) Late in the day report information
+
+&emsp;&emsp;The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in that subparagraph.
 
 #### (d) Daily reporting; sows and boars
 
 #### (1) Prior day report
 
-&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, for each business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
+&emsp;The corporate officers or officially designated representatives of each packer of sows and boars shall report to the Secretary, foreach business day of the packer, such information reported by hog class as the Secretary determines necessary and appropriate to—
 
 &emsp;&emsp;(A) comply with the publication requirements of this section; and
 
@@ -250,9 +260,13 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;The Secretary shall publish the information obtained under this subsection as soon as practicable, but not later than 5:00 p.m. Central Time, on the first reporting day of each week.
 
-(Aug. 14, 1946, ch. 966, title II, §232, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1195; amended Pub. L. 109–296, §§3, 4, Oct. 5, 2006, 120 Stat. 1465, 1468.)
+(Aug. 14, 1946, ch. 966, title II, §232, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1195; amended Pub. L. 109–296, §§3, 4, Oct. 5, 2006, 120 Stat. 1465, 1468; Pub. L. 114–54, title I, §102(b), Sept. 30, 2015, 129 Stat. 514.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, §102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices."
+
+Subsec. (c)(3)(C). Pub. L. 114–54, §102(b)(2), added subpar. (C).
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–296, §3, amended heading and text of subsec. (c) generally. Prior to amendment, text related to daily reporting.
 

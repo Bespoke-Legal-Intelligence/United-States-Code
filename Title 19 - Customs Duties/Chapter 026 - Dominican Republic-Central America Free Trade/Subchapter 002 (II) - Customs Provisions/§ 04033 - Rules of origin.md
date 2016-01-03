@@ -265,7 +265,7 @@ nc
 
 #### (1) Originating materials used in production of goods of another country
 
-&emsp;Originating materials from the territory of one or more of the CAFTA–DR countries that are used in the production of a good in the territory of another CAFTA–DR country shall be considered to originate in the territory of that other country.
+&emsp;Originating materials from the territory of one or more of the CAFTA–DR countries thatare used in the production of a good in the territory of another CAFTA–DR country shall be considered to originate in the territory of that other country.
 
 #### (2) Multiple procedures
 
@@ -327,7 +327,7 @@ nc
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component ofthe good that determines the tariff classification of the good do not undergo an applicable change in tariff classification, set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if—
+&emsp;&emsp;Except as provided in subparagraph (B), a textile or apparel good that is not an originating good because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification, set out in Annex 4.1 of the Agreement, shall be considered to be an originating good if—
 
 &emsp;&emsp;&emsp;(i) the total weight of all such fibers or yarns in that component is not more than 10 percent of the total weight of that component; or
 
@@ -347,7 +347,7 @@ nc
 
 #### (A) Claim for preferential tariff treatment
 
-&emsp;&emsp;A person claiming that a fungible good or fungible material is an originating good may base the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
+&emsp;&emsp;A person claiming that a fungible good or fungible material is an originating good maybase the claim either on the physical segregation of the fungible good or fungible material or by using an inventory management method with respect to the fungible good or fungible material.
 
 #### (B) Inventory management method
 
@@ -437,7 +437,7 @@ In this section:
 
 &emsp;&emsp;(A) the United States; and
 
-&emsp;&emsp;(B) Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua, for such time as the Agreement is in force between the United States and that country.
+&emsp;&emsp;(B) Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua, for such time as the Agreement is inforce between the United States and that country.
 
 #### (3) Class of motor vehicles
 
@@ -601,7 +601,7 @@ In this section:
 
 #### (2) Fabrics and yarns not available in commercial quantities in the United States
 
-&emsp;The President is authorized to proclaim that a fabric or yarn is added to the list in Annex3.25 of the Agreement in an unrestricted quantity, as provided in article 3.25.4(e) of the Agreement.
+&emsp;The President is authorized to proclaim that a fabric or yarn is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, as provided in article 3.25.4(e) of the Agreement.
 
 #### (3) Modifications
 
@@ -617,7 +617,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex 3.25 of the Agreement may be modified as provided for in this paragraph.
+&emsp;&emsp;Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out in Annex3.25 of the Agreement may be modified as provided for in this paragraph.
 
 #### (B) Definitions
 
@@ -691,7 +691,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–53, Aug. 2,2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 This subchapter, referred to in subsec. (o)(1)(B), was in the original "this title" meaning title II of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which enacted this subchapter and amended sections 58c, 1508, 1514, 1520, and 1592 of this title. For complete classification of title II to the Code, see Tables.
 

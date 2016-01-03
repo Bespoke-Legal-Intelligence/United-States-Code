@@ -2,7 +2,7 @@
 
 (a)
 
-Grants.—The Secretary may make matching grants and give technical assistance for development of a network of governmental and nongovernmental entities (referred to in this section as the "network"), the purpose of which is to provide interpretive and educational program development of national women's rights history, including historic preservation.
+Grants.—The Secretary may make matching grants and give technical assistance for development of a network of governmental and nongovernmental entities (referred to in this section as the "network"), the purpose of whichis to provide interpretive and educational program development of national women's rights history, including historic preservation.
 
 (b)
 

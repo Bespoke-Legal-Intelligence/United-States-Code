@@ -34,7 +34,7 @@ Activities supported by grants under this section may include—
 
 &emsp;&emsp;(C) evidence of active participation in the proposed project by individuals who were central to the success of the previously implemented reform effort; and
 
-&emsp;&emsp;(D) evidence of institutional support for, and commitment to, the proposed reform effort, including a description of existing or planned institutional policies and practices regarding faculty hiring, promotion, tenure, and teaching assignment that reward faculty contributions to undergraduate education equal to, or greater than, scholarly scientific research.
+&emsp;&emsp;(D) evidence of institutional support for, and commitment to, the proposed reform effort, including a description of existing orplanned institutional policies and practices regarding faculty hiring, promotion, tenure, and teaching assignment that reward faculty contributions to undergraduate education equal to, or greater than, scholarly scientific research.
 
 #### (2) Review of applications
 

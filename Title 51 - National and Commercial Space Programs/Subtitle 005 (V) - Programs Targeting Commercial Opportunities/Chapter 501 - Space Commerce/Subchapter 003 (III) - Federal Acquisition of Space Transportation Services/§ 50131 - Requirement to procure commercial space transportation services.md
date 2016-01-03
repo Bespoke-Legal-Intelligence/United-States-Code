@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+In General.—Except as otherwise provided in this section or in section 70102, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
 
 (b)
 
@@ -34,7 +34,7 @@ Delayed Effect.—Subsection (a) shall not apply to space transportation service
 
 Historical Purposes.—This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3399.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3399; Pub. L. 114–90, title I, §117(b)(3), Nov. 25, 2015, 129 Stat. 718.)
 
 Historical and Revision Notes
 
@@ -69,4 +69,8 @@ Pub. L. 105–303, title II, §201, Oct. 28, 1998, 112 Stat. 2854.
 42 U.S.C. 14731(d).
 
 In subsection (d), the date "October 28, 1998" is substituted for "the date of the enactment of this Act" and for "such date" to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–90 inserted "or in section 70102" after "in this section".
 

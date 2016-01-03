@@ -2,7 +2,7 @@
 
 (a) The Secretary is directed to develop, in cooperation and consultation with the Secretary of Commerce, the State of California, and various knowledgeable Federal and private entities, a natural resources study report for the park, including, but not limited to, the following:
 
-&emsp;(1) an inventory of all terrestrial and marine species, indicating their population dynamics, and probable trends as to future numbers and welfare;
+&emsp;(1) an inventory of all terrestrial and marine species, indicating their population dynamics,and probable trends as to future numbers and welfare;
 
 &emsp;(2) recommendations as to what actions should be considered for adoption to better protect the natural resources of the park.
 

@@ -4,7 +4,7 @@
 
 #### (1) Development of guidelines
 
-&emsp;Not later than 1 year after March 30, 2009, the Secretary in consultation with transferredworks operating entities shall develop, consistent with existing transfer contracts, specific inspection guidelines for project facilities which are in proximity to urbanized areas and which could pose a risk to public safety or property damage if such project facilities were to fail.
+&emsp;Not later than 1 year after March 30, 2009, the Secretary in consultation with transferred works operating entities shall develop, consistent with existing transfer contracts, specific inspection guidelines for project facilities which are in proximity to urbanized areas and which could pose a risk to public safety or property damage if such project facilities were to fail.
 
 #### (2) Conduct of inspections
 

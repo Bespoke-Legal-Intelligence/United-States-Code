@@ -80,7 +80,7 @@ Pub. L. 96–364, title I, §108(c)(2), Sept. 26, 1980, 94 Stat. 1268, provided 
 
 &emsp;"(i) the employer is engaged in the trade or business of shipping bulk cargoes in the Great Lakes Maritime Industry, and whose fleet consists of vessels the gross registered tonnage of which was at least 7,800, as stated in the American Bureau of Shipping Record, and
 
-&emsp;"(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units asmeasured from the average annual contribution units for the calendar years 1970 and 1971."
+&emsp;"(ii) whose fleet during any 5 years from the period 1970 through and including 1979 has experienced a 33 percent or more increase in the contribution units as measured from the average annual contribution units for the calendar years 1970 and 1971."
 
 #### Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer
 
@@ -134,7 +134,7 @@ Pub. L. 96–364, title I, §108(e), Sept. 26, 1980, 94 Stat. 1269, provided tha
 
 &emsp;"(A) actuarial assumptions shall be those used in the last actuarial report completed before December 13, 1979,
 
-&emsp;"(B) the term 'withdrawal date' means the date on which the employer ceased work at the facility of the type for which contributions were previously required, and
+&emsp;"(B) the term 'withdrawal date' means the date on which the employer ceased work at the facility of thetype for which contributions were previously required, and
 
 &emsp;"(C) the term 'facility' means the facility referred to in paragraph (1)."
 

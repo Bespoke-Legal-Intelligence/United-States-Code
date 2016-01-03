@@ -22,7 +22,7 @@ Education and Training.—Any education and training provided under subsection (
 
 (d)
 
-Applicability of Export Control Regimes.—The provision of learning content and information technology under this section shall be subject to the provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.) and any other export control regime under law relating to the transfer of military technology to foreign nations.
+Applicability of Export Control Regimes.—The provision of learning content and information technology under this section shall be subject to the provisions of the Arms Export Control Act (22 U.S.C. 2751 et seq.) and any other export control regime under law relating to thetransfer of military technology to foreign nations.
 
 (e)
 
@@ -42,7 +42,7 @@ Annual Report.—
 
 &emsp;(1)
 
-Report required.—Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretaryof Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
+Report required.—Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
 
 &emsp;(2)
 

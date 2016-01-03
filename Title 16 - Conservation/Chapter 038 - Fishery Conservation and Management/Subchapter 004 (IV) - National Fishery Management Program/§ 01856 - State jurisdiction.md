@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-(1) Except as provided in subsection (b) of this section, nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State within its boundaries.
+(1) Except as provided in subsection (b), nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State within its boundaries.
 
-(2) For the purposes of this chapter, except as provided in subsection (b) of this section, the jurisdiction and authority of a State shall extend—
+(2) For the purposes of this chapter, except as provided in subsection (b), the jurisdiction and authority of a State shall extend—
 
 &emsp;(A) to any pocket of waters that is adjacent to the State and totally enclosed by lines delimiting the territorial sea of the United States pursuant to the Geneva Convention on the Territorial Sea and Contiguous Zone or any successor convention to which the United States is a party;
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) the owner or operator of the vessel applies to the Governor of the State for, and (subject to paragraph (2)) is granted, permission for the vessel to engage in such processing and the application specifies the species to be processed; and
 
-&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish received from vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
+&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish receivedfrom vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
 
 (2) The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)—
 

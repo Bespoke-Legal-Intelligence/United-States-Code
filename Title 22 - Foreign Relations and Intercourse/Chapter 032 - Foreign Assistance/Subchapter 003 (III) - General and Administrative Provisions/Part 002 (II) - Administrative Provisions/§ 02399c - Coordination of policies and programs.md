@@ -36,7 +36,7 @@ To carry out the purposes of subsection (a), the Committee shall—
 
 &emsp;(4) arrange for the exchange of information and studies between such agencies and departments.
 
-(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amendedPub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. III, §640B, as added Pub. L. 93–189, §21, Dec. 17, 1973, 87 Stat. 725; amended Pub. L. 95–88, title I, §127, Aug. 3, 1977, 91 Stat. 542; Pub. L. 95–424, title V, §502(d), Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–53, title I, §118, Aug. 14, 1979, 93 Stat. 365; Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

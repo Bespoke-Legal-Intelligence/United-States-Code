@@ -2,7 +2,7 @@
 
 #### (a) Requirement for inventories of software licenses
 
-The chief information officer of each element of the intelligence community, in consultationwith the Chief Information Officer of the Intelligence Community, shall biennially—
+The chief information officer of each element of the intelligence community, in consultation with the Chief Information Officer of the Intelligence Community, shall biennially—
 
 &emsp;(1) conduct an inventory of all existing software licenses of such element, including utilized and unutilized licenses;
 

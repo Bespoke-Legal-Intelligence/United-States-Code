@@ -48,7 +48,7 @@ The Plan shall include—
 
 &emsp;(8) an identification of the security resources, including information security resources, that will be required to protect security-related technology from physical or cyber theft, diversion, sabotage, or attack;
 
-&emsp;(9) an identification of initiatives to streamline the Administration's acquisition process and provide greater predictability and clarity to small, medium, and large businesses, including the timeline for testing and evaluation;
+&emsp;(9) an identification of initiatives to streamline the Administration's acquisition processand provide greater predictability and clarity to small, medium, and large businesses, including the timeline for testing and evaluation;
 
 &emsp;(10) an assessment of the impact to commercial aviation passengers;
 

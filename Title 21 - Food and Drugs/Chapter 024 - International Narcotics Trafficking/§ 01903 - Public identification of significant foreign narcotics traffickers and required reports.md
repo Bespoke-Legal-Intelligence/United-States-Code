@@ -54,7 +54,7 @@ The report required by subsection (b) of this section shall be submitted in uncl
 
 (1) The President may waive the application to a significant foreign narcotics trafficker of any sanction authorized by this chapter if the President determines that the application of sanctions under this chapter would significantly harm the national security of the United States.
 
-(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
+(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means ofthe House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
 
 #### (h) Changes in determinations to impose sanctions
 
@@ -93,6 +93,18 @@ For delegation of Congressional reporting functions of President under subsec. (
 Memorandum of President of the United States, May 31, 2013, 78 F.R. 33943, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate the functions conferred upon the President by section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1903(h)(2)(A)), to the Secretary of the Treasury.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Functions Under the Foreign Narcotics Kingpin Designation Act
+
+Memorandum of President of the United States, May 15, 2015, 80 F.R. 29201, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate the functions conferred upon the President by sections 804(b), (c), (g), and (h) of the Foreign Narcotics Kingpin Designation Act (21 U.S.C. 1903(b), (c), (g), and (h)), to the Secretary of the Treasury.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

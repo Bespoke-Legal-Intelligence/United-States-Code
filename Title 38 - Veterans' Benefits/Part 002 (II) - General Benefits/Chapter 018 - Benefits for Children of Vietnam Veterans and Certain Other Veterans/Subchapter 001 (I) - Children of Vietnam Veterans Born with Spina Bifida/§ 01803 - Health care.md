@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) the provision of such pharmaceuticals, supplies, equipment, devices, appliances, assistive technology, direct transportation costs to and from approved sources of health care, and other materials as the Secretary determines necessary.
 
-&emsp;(2) The term "health care provider" includes specialized spina bifida clinics, health care plans, insurers, organizations, institutions, and any other entity or individual furnishing health care services that the Secretary determines are authorized under this section.
+&emsp;(2) The term "health care provider" includes specialized spina bifida clinics, health care plans, insurers, organizations, institutions,and any other entity or individual furnishing health care services that the Secretary determines are authorized under this section.
 
 &emsp;(3) The term "home care" means outpatient care, habilitative and rehabilitative care, preventive health services, and health-related services furnished to an individual in the individual's home or other place of residence.
 

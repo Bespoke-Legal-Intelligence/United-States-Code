@@ -54,5 +54,5 @@ The Departments of Veterans Affairs and Housing and Urban Development, and Indep
 
 #### Codification
 
-Section was enacted as part of the Multifamily Housing Property Disposition Reform Act of 1994, and not aspart of the Department of Housing and Urban Development Act which comprises this chapter.
+Section was enacted as part of the Multifamily Housing Property Disposition Reform Act of 1994, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 

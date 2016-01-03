@@ -16,7 +16,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 #### (c) Exchange limited to designated lands
 
-(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference between that acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
+(1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference betweenthat acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
 
 (2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shall not convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federal ownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
 
@@ -28,7 +28,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 &emsp;(i) if it is relinquished to the United States; or
 
-&emsp;(ii) if construction of the transportation system has not commenced within 20 years of September 25, 1985. Computation of the 20-year period shall exclude periods when constructioncould not commence because of force majeure, act of God or order of a court; or
+&emsp;(ii) if construction of the transportation system has not commenced within 20 years of September 25, 1985. Computation of the 20-year period shall exclude periods when construction could not commence because of force majeure, act of God or order of a court; or
 
 &emsp;(iii) upon completion of reclamation pursuant to the reclamation plan required by Exhibit B to the Agreement.
 

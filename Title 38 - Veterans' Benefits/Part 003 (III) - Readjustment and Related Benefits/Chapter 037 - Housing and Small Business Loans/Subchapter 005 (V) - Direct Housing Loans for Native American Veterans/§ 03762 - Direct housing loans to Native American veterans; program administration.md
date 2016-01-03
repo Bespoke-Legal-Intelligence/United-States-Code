@@ -38,7 +38,7 @@
 
 (B)(i) Subject to clause (ii), the Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to make direct housing loans under this subchapter to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
 
-(ii) The amount of a loan made by the Secretary under this subchapter may not exceed themaximum loan amount authorized for loans guaranteed under section 3703(a)(1)(C) of this title.
+(ii) The amount of a loan made by the Secretary under this subchapter may not exceed the maximum loan amount authorized for loans guaranteed under section 3703(a)(1)(C) of this title.
 
 (2) Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title, and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
 
@@ -88,7 +88,7 @@
 
 (j) The Secretary shall include as part of the annual benefits report of the Veterans Benefits Administration information concerning the cost and number of loans provided under this subchapter for the fiscal year covered by the report.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L.105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, §402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, §103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, §402(b), (c), Dec. 27, 2001, 115 Stat. 993; Pub. L. 109–233, title I, §103(b), (c)(1), (d), (e), (f)(3), June 15, 2006, 120 Stat. 400, 401.)
 
 #### Amendments
 

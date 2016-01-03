@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified hurricane distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
+&emsp;&emsp;In the case of any qualified hurricane distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included ingross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
 
 #### (B) Special rule
 

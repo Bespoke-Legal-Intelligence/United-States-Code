@@ -36,7 +36,7 @@
 
 (f)(1) Each building constructed or altered by the Postal Service shall be constructed or altered, to the maximum extent feasible as determined by the Postal Service, in compliance with 1 of the nationally recognized model building codes and with other applicable nationally recognized codes.
 
-(2) Each building constructed or altered by the Postal Service shall be constructed or alteredonly after consideration of all requirements (other than procedural requirements) of zoning laws, land use laws, and applicable environmental laws of a State or subdivision of a State which would apply to the building if it were not a building constructed or altered by an establishment of the Government of the United States.
+(2) Each building constructed or altered by the Postal Service shall be constructed or altered only after consideration of all requirements (other than procedural requirements) of zoning laws, land use laws, and applicable environmental laws of a State or subdivision of a State which would apply to the building if it were not a building constructed or altered by an establishment of the Government of the United States.
 
 (3) For purposes of meeting the requirements of paragraphs (1) and (2) with respect to a building, the Postal Service shall—
 

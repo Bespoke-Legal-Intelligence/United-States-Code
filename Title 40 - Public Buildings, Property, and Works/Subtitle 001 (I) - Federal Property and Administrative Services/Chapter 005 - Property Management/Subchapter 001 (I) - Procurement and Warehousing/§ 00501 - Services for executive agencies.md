@@ -54,7 +54,7 @@ Representation.—For transportation and other public utility services used by e
 
 (d)
 
-Facilities.—The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
+Facilities.—The Administrator of General Services shall operate, for executive agencies,warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1079; Pub. L. 111–350, §5(l)(6), Jan. 4, 2011, 124 Stat. 3851.)
 

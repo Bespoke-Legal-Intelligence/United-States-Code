@@ -6,7 +6,7 @@ For the purpose of this title—
 
 &emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955;
 
-&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
+&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
 
 &emsp;&emsp;(C) served on active duty as defined by section 101(21) of title 38 in the armed forces during the period beginning on August 2, 1990, and ending on January 2, 1992; or
 
@@ -28,21 +28,17 @@ For the purpose of this title—
 
 &emsp;&emsp;(E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointment in the civil service or in the government of the District of Columbia;
 
-&emsp;&emsp;(F) the mother of an individual who lost his life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
+&emsp;&emsp;(F) the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
 
-&emsp;&emsp;&emsp;(i) her husband is totally and permanently disabled;
+&emsp;&emsp;&emsp;(i) the spouse of that parent is totally and permanently disabled; or
 
-&emsp;&emsp;&emsp;(ii) she is widowed, divorced, or separated from the father and has not remarried; or
+&emsp;&emsp;&emsp;(ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse;
 
-&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
+&emsp;&emsp;(G) the parent of a service-connected permanently and totally disabled veteran, if—
 
-&emsp;&emsp;(G) the mother of a service-connected permanently and totally disabled veteran, if—
+&emsp;&emsp;&emsp;(i) the spouse of that parent is totally and permanently disabled; or
 
-&emsp;&emsp;&emsp;(i) her husband is totally and permanently disabled;
-
-&emsp;&emsp;&emsp;(ii) she is widowed, divorced, or separated from the father and has not remarried; or
-
-&emsp;&emsp;&emsp;(iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+&emsp;&emsp;&emsp;(ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse; and
 
 &emsp;&emsp;(H) a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10);
 
@@ -56,7 +52,7 @@ For the purpose of this title—
 
 &emsp;(5) "retired member of the armed forces" means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, §8, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 112–56, title II, §235(a)(2)(A), Nov. 21, 2011, 125 Stat. 723.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922; Pub. L. 105–339, §4(a), Oct. 31, 1998, 112 Stat. 3185; Pub. L. 109–163, div. A, title V, §515(f)(1), title XI, §§1111, 1112(a), Jan. 6, 2006, 119 Stat. 3236, 3451; Pub. L. 110–317, §8, Aug. 29, 2008, 122 Stat. 3529; Pub. L. 112–56, title II, §235(a)(2)(A), Nov. 21, 2011, 125 Stat. 723; Pub. L. 114–62, §2, Oct. 7, 2015, 129 Stat. 547.)
 
 Historical and Revision Notes<br>1966
 
@@ -116,6 +112,8 @@ Mar. 3, 1966, Pub. L. 89–358, §11, 80 Stat. 28.
 
 #### Amendments
 
+<b>2015</b>—Par. (3)(F), (G). Pub. L. 114–62 added subpars. (F) and (G) and struck out former subpars. (F) and (G) which included in the definition of "preference eligible" certain mothers of individuals who lost their lives under honorable conditions in the armed forces and certain mothers of service-connected permanently and totally disabled veterans.
+
 <b>2011</b>—Par. (1). Pub. L. 112–56, §235(a)(2)(A)(i), in concluding provisions, inserted ", except as provided under section 2108a," before "who has been".
 
 Par. (2). Pub. L. 112–56, §235(a)(2)(A)(ii), inserted "(except as provided under section 2108a)" before "has been separated".
@@ -167,6 +165,10 @@ Par. (5). Pub. L. 95–454, §401(d), inserted "; but does not include applican
 Par. (3)(E). Pub. L. 92–187 inserted "or husband" after "the wife".
 
 <b>1968</b>—Par. (3)(D). Pub. L. 90–623 inserted "as defined by paragraph (1)(A) of this section" after "veteran".
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–62, §3, Oct. 7, 2015, 129 Stat. 548, provided that: "The amendment made by this Act \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 7, 2015\]."
 
 #### Effective Date of 2008 Amendment
 

@@ -18,7 +18,7 @@ Any person who receives compensation for removal costs or damages or claims purs
 
 &emsp;&emsp;(B) is stored, treated, transported, or otherwise managed in compliance with regulations or standards promulgated pursuant to section 3014 of the Solid Waste Disposal Act \[42 U.S.C. 6935\] and other applicable authorities.
 
-> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
+> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability ofany person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
 
 #### (2) Presumption
 
@@ -50,5 +50,5 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–499 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in this chapter, no personmay be required to contribute to any fund, the purpose of which is to pay compensation for claims for any costs of response or damages or claims which may be compensated under this subchapter. Nothing in this section shall preclude any State from using general revenues for such a fund, or from imposing a tax or fee upon any person or upon any substance in order to finance the purchase or prepositioning of hazardous substance response equipment or other preparations for the response to a release of hazardous substances which affects such State."
+<b>1986</b>—Subsec. (c). Pub. L. 99–499 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in this chapter, no person may be required to contribute to any fund, the purpose of which is to pay compensation for claims for any costs of response or damages or claims which may be compensated under this subchapter. Nothing in this section shall preclude any State from using general revenues for such a fund, or from imposing a tax or fee upon any person or upon any substance in order to finance the purchase or prepositioning of hazardous substance response equipment or other preparations for the response to a release of hazardous substances which affects such State."
 

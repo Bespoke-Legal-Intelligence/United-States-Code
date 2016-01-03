@@ -66,7 +66,7 @@ On promulgation of final regulations under subsection (h), the Secretary shall�
 
 Not later than 180 days after December 13, 2002, the Secretary shall develop such procedures and promulgate such regulations as are necessary to facilitate, administer, and promote transfers of loans and guaranteed and insured portions of loans under this section.
 
-(Pub. L. 93–262, title II, §205, Apr. 12, 1974, 88 Stat. 80; Pub. L. 100–442, §2, Sept. 22, 1988, 102Stat. 1763; Pub. L. 107–331, title I, §103(b), Dec. 13, 2002, 116 Stat. 2836; Pub. L. 109–221, title IV, §401(b), May 12, 2006, 120 Stat. 342.)
+(Pub. L. 93–262, title II, §205, Apr. 12, 1974, 88 Stat. 80; Pub. L. 100–442, §2, Sept. 22, 1988, 102 Stat. 1763; Pub. L. 107–331, title I, §103(b), Dec. 13, 2002, 116 Stat. 2836; Pub. L. 109–221, title IV, §401(b), May 12, 2006, 120 Stat. 342.)
 
 #### References in Text
 
@@ -130,7 +130,7 @@ Purpose.—The purpose of this Act \[see Short Title of 2002 Amendment note set 
 
 &emsp;"(3) clarify that a good faith investor in loans insured or guaranteed by the Secretary will receive appropriate payments;
 
-&emsp;"(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish and administer a system for the orderly transfer of those loans; and
+&emsp;"(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish andadminister a system for the orderly transfer of those loans; and
 
 &emsp;"(5)(A) authorize the Secretary to promulgate regulations to encourage and expand a secondary market program for loans guaranteed or insured by the Secretary; and
 

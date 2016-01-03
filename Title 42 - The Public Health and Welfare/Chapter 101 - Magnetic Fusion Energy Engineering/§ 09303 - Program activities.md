@@ -2,7 +2,7 @@
 
 #### (a) Development in areas where lack of knowledge limits magnetic fusion energy systems
 
-The Secretary shall initiate activities or accelerate existing activities in research areas in which the lack of knowledge limits magnetic fusion energy systems in order to ensure the achievement of the purposes of this chapter.
+The Secretary shall initiate activities or accelerate existing activities in research areas inwhich the lack of knowledge limits magnetic fusion energy systems in order to ensure the achievement of the purposes of this chapter.
 
 #### (b) Research programs on plasma confinement, alternate confinement concepts, advanced fuels, and properties of materials likely to be used in construction of fusion engineering devices
 

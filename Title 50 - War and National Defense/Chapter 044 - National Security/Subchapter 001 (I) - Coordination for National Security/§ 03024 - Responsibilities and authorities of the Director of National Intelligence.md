@@ -42,13 +42,13 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (B) Notwithstanding any other provision of law, pursuant to relevant appropriations Acts for the National Intelligence Program, the Director of the Office of Management and Budget shall exercise the authority of the Director of the Office of Management and Budget to apportion funds, at the exclusive direction of the Director of National Intelligence, for allocation to the elements of the intelligence community through the relevant host executive departments and the Central Intelligence Agency. Department comptrollers or appropriate budget execution officers shall allot, allocate, reprogram, or transfer funds appropriated for the National Intelligence Program in an expeditious manner.
 
-(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that are part of the National Intelligence Program, which may include audits and evaluations.
+(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that arepart of the National Intelligence Program, which may include audits and evaluations.
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and section 1517 of title 31 and the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.).
 
 (7)(A) The Director of National Intelligence shall provide a semi-annual report, beginning April 1, 2005, and ending April 1, 2007, to the President and the Congress regarding implementation of this section.
 
-(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instancein which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
+(B) The Director of National Intelligence shall report to the President and the Congress not later than 15 days after learning of any instance in which a departmental comptroller acts in a manner inconsistent with the law (including permanent statutes, authorization Acts, and appropriations Acts), or the direction of the Director of National Intelligence, in carrying out the National Intelligence Program.
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
@@ -288,7 +288,7 @@ The Director of National Intelligence, subject to the direction of the President
 
 &emsp;(5) ensure that the background of each employee or officer of an element of the intelligence community, each contractor to an element of the intelligence community, and each individual employee of such a contractor who has been determined to be eligible for access to classified information is monitored on a continual basis under standards developed by the Director, including with respect to the frequency of evaluation, during the period of eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee to such a contractor to determine whether such employee or officer of an element of the intelligence community, such contractor, and such individual employee of such a contractor continues to meet the requirements for eligibility for access to classified information; and
 
-&emsp;(6) develop procedures to require information sharing between elements of the intelligence community concerning potentially derogatory security information regarding an employee or officer of an element of the intelligence community, a contractor to an element of the intelligence community, or an individual employee of such a contractor thatmay impact the eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee of such a contractor for a security clearance.
+&emsp;(6) develop procedures to require information sharing between elements of the intelligence community concerning potentially derogatory security information regarding an employee or officer of an element of the intelligence community, a contractor to an element of the intelligence community, or an individual employee of such a contractor that may impact the eligibility of such employee or officer of an element of the intelligence community, such contractor, or such individual employee of such a contractor for a security clearance.
 
 #### (k) Coordination with foreign governments
 
@@ -390,7 +390,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(i) to the congressional intelligence committees a notification of an authorization to exercise an authority referred to in subparagraph (A) or an extension of such authorization that includes the written authorization referred to in subparagraph (B)(ii); and
 
-&emsp;(ii) to the Director of the Office of Management and Budget a notification of an authorization to exercise an authority referred to in subparagraph (A) for an acquisition or class of acquisitions that will exceed $50,000,000 annually.
+&emsp;(ii) to the Director of the Office of Management and Budget a notification of an authorization to exercise an authority referred to insubparagraph (A) for an acquisition or class of acquisitions that will exceed $50,000,000 annually.
 
 (H) Requests and authorizations to exercise an authority referred to in subparagraph (A) shall remain available within the Office of the Director of National Intelligence for a period of at least 6 years following the date of such request or authorization.
 
@@ -464,9 +464,7 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 #### (u) Conflict of interest regulations
 
-(1) The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
-
-(2) The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in section 3106 of this title.
+The Director of National Intelligence, in consultation with the Director of the Office of Government Ethics, shall issue regulations prohibiting an officer or employee of an element of the intelligence community from engaging in outside employment if such employment creates a conflict of interest or appearance thereof.
 
 #### (v) Authority to establish positions in excepted service
 
@@ -478,7 +476,9 @@ The Director of National Intelligence shall, in consultation with the heads of d
 
 (2) An incumbent occupying a position on January 3, 2012, selected to be converted to the excepted service under this section shall have the right to refuse such conversion. Once such individual no longer occupies the position, the position may be converted to the excepted service.
 
-(3) In this subsection, the term "covered department" means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
+(3) A covered department may appoint an individual to a position converted or established pursuant to this subsection without regard to the civil-service laws, including parts II and III of title 5.
+
+(4) In this subsection, the term "covered department" means the Department of Energy, the Department of Homeland Security, the Department of State, or the Department of the Treasury.
 
 #### (w) Nuclear Proliferation Assessment Statements intelligence community addendum
 
@@ -498,11 +498,11 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(3) ensure that the insider threat detection capabilities and insider threat policies of the intelligence community apply to facilities of contractors with access to a classified network.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412.)
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929.)
 
 #### References in Text
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L.93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (f)(6), (9), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -527,6 +527,10 @@ A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 10
 Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub. L. 98–215, title IV, §403, Dec. 9, 1983, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (u). Pub. L. 114–113, §701(c)(1), struck out par. (1) designation before "The Director of National Intelligence" and struck out par. (2) which read as follows: "The Director of National Intelligence shall annually submit to the congressional intelligence committees a report describing all outside employment for officers and employees of elements of the intelligence community that was authorized by the head of an element of the intelligence community during the preceding calendar year. Such report shall be submitted each year on the date provided in section 3106 of this title."
+
+Subsec. (v)(3), (4). Pub. L. 114–113, §105(a), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
 
@@ -568,6 +572,10 @@ Subsec. (n)(4). Pub. L. 111–259, §326, added par. (4).
 
 Subsecs. (s) to (u). Pub. L. 111–259, §§303, 304, 307, added subsecs. (s) to (u).
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. M, title I, §105(b), Dec. 18, 2015, 129 Stat. 2912, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to an appointment under section 102A(v) of the National Security Act of 1947 (50 U.S.C. 3024(v)) made on or after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2012 (Public Law 112–87) \[Jan. 3, 2012\] and to any proceeding pending on or filed after the date of the enactment of this section \[Dec. 18, 2015\] that relates to such an appointment."
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–126, title V, §502(b), July 7, 2014, 128 Stat. 1412, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to contracts entered into or renewed after the date of the enactment of this Act \[July 7, 2014\]."
@@ -577,6 +585,34 @@ Pub. L. 113–126, title V, §502(b), July 7, 2014, 128 Stat. 1412, provided tha
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### Designation of Lead Intelligence Officer for Tunnels
+
+Pub. L. 114–113, div. M, title III, §309, Dec. 18, 2015, 129 Stat. 2918, provided that:
+
+"(a)
+
+In General.—The Director of National Intelligence shall designate an official to manage the collection and analysis of intelligence regarding the tactical use of tunnels by state and nonstate actors.
+
+"(b)
+
+Annual Report.—Not later than the date that is 10 months after the date of the enactment of this Act \[Dec. 18, 2015\], and biennially thereafter until the date that is 4 years after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\] and the congressional defense committees (as such term is defined in section 101(a)(16) of title 10, United States Code) a report describing—
+
+&emsp;"(1) trends in the use of tunnels by foreign state and nonstate actors; and
+
+&emsp;"(2) collaboration efforts between the United States and partner countries to address the use of tunnels by adversaries."
+
+#### Reporting Process Required for Tracking Certain Requests for Country Clearance
+
+Pub. L. 114–113, div. M, title III, §310, Dec. 18, 2015, 129 Stat. 2918, provided that:
+
+"(a)
+
+In General.—By not later than September 30, 2016, the Director of National Intelligence shall establish a formal internal reporting process for tracking requests for country clearance submitted to overseas Director of National Intelligence representatives by departments and agencies of the United States. Such reporting process shall include a mechanism for tracking the department or agency that submits each such request and the date on which each such request is submitted.
+
+"(b)
+
+Congressional Briefing.—By not later than December 31, 2016, the Director of National Intelligence shall brief the congressional intelligence committees \[Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives\] on the progress of the Director in establishing the process required under subsection (a)."
 
 #### Insider Threat Detection Program
 
@@ -729,6 +765,48 @@ Pub. L. 104–293, §807(c), Oct. 11, 1996, 110 Stat. 3480, provided that: "Not 
 Pub. L. 104–293, title VIII, §807(d), Oct. 11, 1996, 110 Stat. 3481, provided that: "Not later than January 1, 1999, the Director of Central Intelligence and the Secretary of Defense shall develop and implement a database to provide timely and accurate information on the amounts, purposes, and status of the resources, including periodic budget execution updates, for all national, defense-wide, and tactical intelligence activities."
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
+
+#### Establishment of the Cyber Threat Intelligence Integration Center
+
+Memorandum of President of the United States, Feb. 25, 2015, 80 F.R. 11317, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Secretary of the Treasury\[,\] the Secretary of Commerce\[,\] the Attorney General\[,\] the Secretary of Homeland Security\[,\] the Director of National Intelligence\[,\] the Chairman of the Joint Chiefs of Staff\[,\] the Director of the Central Intelligence Agency\[,\] the Director of the Federal Bureau of Investigation\[, and\] the Director of the National Security Agency
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct as follows:
+
+Section 1. <i>Establishment of the Cyber Threat Intelligence Integration Center</i>. The Director of National Intelligence (DNI) shall establish a Cyber Threat Intelligence Integration Center (CTIIC). Executive departments and agencies (agencies) shall support the DNI's efforts to establish the CTIIC, including by providing, as appropriate, personnel and resources needed for the CTIIC to reach full operating capability by the end of fiscal year 2016.
+
+Sec. 2. <i>Responsibilities of the Cyber Threat Intelligence Integration Center</i>. The CTIIC shall:
+
+(a) provide integrated all-source analysis of intelligence related to foreign cyber threats or related to cyber incidents affecting U.S. national interests;
+
+(b) support the National Cybersecurity and Communications Integration Center, the National Cyber Investigative Joint Task Force, U.S. Cyber Command, and other relevant United States Government entities by providing access to intelligence necessary to carry out their respective missions;
+
+(c) oversee the development and implementation of intelligence sharing capabilities (including systems, programs, policies, and standards) to enhance shared situational awareness of intelligence related to foreign cyber threats or related to cyber incidents affecting U.S. national interests among the organizations referenced in subsection (b) of this section;
+
+(d) ensure that indicators of malicious cyber activity and, as appropriate, related threat reporting contained in intelligence channels are downgraded to the lowest classification possible for distribution to both United States Government and U.S. private sector entities through the mechanism described in section 4 of Executive Order 13636 of February 12, 2013 (Improving Critical Infrastructure Cybersecurity); and
+
+(e) facilitate and support interagency efforts to develop and implement coordinated plans to counter foreign cyber threats to U.S. national interests using all instruments of national power, including diplomatic, economic, military, intelligence, homeland security, and law enforcement activities.
+
+Sec. 3. <i>Implementation</i>. (a) Agencies shall provide the CTIIC with all intelligence related to foreign cyber threats or related to cyber incidents affecting U.S. national interests, subject to applicable law and policy. The CTIIC shall access, assess, use, retain, and disseminate such information, in a manner that protects privacy and civil liberties and is consistent with applicable law, Executive Orders, Presidential directives, and guidelines, such as guidelines established under section 102A(b) of the National Security Act of 1947, as amended, Executive Order 12333 of December 4, 1981 (United States Intelligence Activities), as amended, and Presidential Policy Directive–28; and that is consistent with the need to protect sources and methods.
+
+(b) Within 90 days of the date of this memorandum, the DNI, in consultation with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of the Central Intelligence Agency, the Director of the Federal Bureau of Investigation, and the Director of the National Security Agency shall provide a status report to the Director of the Office of Management and Budget and the Assistant to the President for Homeland Security and Counterterrorism on the establishment of the CTIIC. This report shall further refine the CTIIC's mission, roles, and responsibilities, consistent with this memorandum, ensuring that those roles and responsibilities are appropriately aligned with other Presidential policies as well as existing policy coordination mechanisms.
+
+Sec. 4. <i>Privacy and Civil Liberties Protections</i>. Agencies providing information to the CTIIC shall ensure that privacy and civil liberties protections are provided in the course of implementing this memorandum. Such protections shall be based upon the Fair Information Practice Principles or other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The DNI is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 

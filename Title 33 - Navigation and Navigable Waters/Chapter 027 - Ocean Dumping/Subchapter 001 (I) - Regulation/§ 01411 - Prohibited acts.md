@@ -8,7 +8,7 @@
 
 > any material for the purpose of dumping it into ocean waters.
 
-(b) Except as may be authorized by a permit issued pursuant to section 1412 of this title, and subject to regulations issued pursuant to section 1418 of this title, no person shall dump any material transported from a location outside the United States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
+(b) Except as may be authorized by a permit issued pursuant to section 1412 of this title, and subject to regulations issued pursuant to section 1418 of this title, no person shall dump any material transported from a location outside theUnited States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
 
 (Pub. L. 92–532, title I, §101, Oct. 23, 1972, 86 Stat. 1053; Pub. L. 93–254, §1(3), Mar. 22, 1974, 88 Stat. 51.)
 

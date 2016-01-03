@@ -26,17 +26,21 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (B) Failure to transmit
 
-&emsp;&emsp;If an election for an affected county is not transmitted to the Secretary concerned bythe date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
+&emsp;&emsp;If an election for an affected county is not transmitted to the Secretary concerned by the date specified under subparagraph (A), the affected county shall be considered to have elected to receive a share of the State payment, the county payment, or a share of the State payment and the county payment, as applicable.
+
+#### (C) Effect of late payment for fiscal years 2014 and 2015
+
+&emsp;&emsp;The election otherwise required by subparagraph (A) shall not apply for fiscal year 2014 or 2015.
 
 #### (2) Duration of election
 
 #### (A) In general
 
-&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years.
+&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015.
 
 #### (B) Full funding amount
 
-&emsp;&emsp;If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2013.
+&emsp;&emsp;If a county elects to receive a share of the State payment or the county payment in 2013, the election shall be effective for all subsequent fiscal years through fiscal year 2015.
 
 #### (3) Source of payment amounts
 
@@ -68,7 +72,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Use of portion in same manner as 25-percent payment or 50-percent payment, as applicable
 
-&emsp;&emsp;Except as provided in subparagraph (D), if an eligible county elects to receive its share of the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
+&emsp;&emsp;Except as provided in subparagraph (D), if an eligible county elects to receive its shareof the State payment or the county payment, not less than 80 percent, but not more than 85 percent, of the funds shall be expended in the same manner in which the 25-percent payments or 50-percent payment, as applicable, are required to be expended.
 
 #### (B) Election as to use of balance
 
@@ -98,6 +102,10 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;In the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to either or both of paragraphs (1)(B) and (2)(B) of subsection (a), the eligible county may elect to expend all the funds in the same manner in which the 25-percent payments or 50-percent payments, as applicable, are required to be expended.
 
+#### (E) Effect of late payment for fiscal year 2014
+
+&emsp;&emsp;The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2014 and 2015.
+
 #### (2) Distribution of funds
 
 #### (A) In general
@@ -126,11 +134,15 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purpose described in section 7122(b) of this title.
 
+#### (C) Effect of late payment for fiscal year 2014
+
+&emsp;&emsp;This paragraph does not apply for fiscal years 2014 and 2015.
+
 #### (e) Time for payment
 
 The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
-(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545.)
+(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(b), Apr. 16, 2015, 129 Stat. 179.)
 
 #### References in Text
 
@@ -141,6 +153,16 @@ This chapter, referred to in subsec. (b)(3)(A), was in the original "this Act", 
 A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–10, §524(b)(1), added subpar. (C).
+
+Subsec. (b)(2)(A). Pub. L. 114–10, §524(b)(2)(A), inserted at end "If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015."
+
+Subsec. (b)(2)(B). Pub. L. 114–10, §524(b)(2)(B), substituted "fiscal year 2015" for "fiscal year 2013".
+
+Subsec. (d)(1)(E). Pub. L. 114–10, §524(b)(3)(A), added subpar. (E).
+
+Subsec. (d)(3)(C). Pub. L. 114–10, §524(b)(3)(B), added subpar. (C).
 
 <b>2013</b>—Subsec. (b)(1)(A). Pub. L. 113–40, §10(a)(1)(B)(i), substituted "2013" for "2012".
 

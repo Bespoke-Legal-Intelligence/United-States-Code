@@ -28,7 +28,7 @@ Publication of data.—The Secretary shall publish disability-related complaint 
 
 &emsp;(3)
 
-Review and report.—The Secretary shall regularly review all complaints received by air carriers alleging discrimination on the basis ofdisability and shall report annually to Congress on the results of such review.
+Review and report.—The Secretary shall regularly review all complaints received by air carriers alleging discrimination on the basis of disability and shall report annually to Congress on the results of such review.
 
 &emsp;(4)
 
@@ -82,7 +82,7 @@ Pub. L. 106–181, title VII, §707(c), Apr. 5, 2000, 114 Stat. 158, provided th
 
 #### Restrictions on Air Transportation of Peanuts; Scientific Study on Effect of Airborne Particles on Passengers
 
-Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: "Hereafter, none of the funds made available under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49, United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
+Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: "Hereafter, none of the funds madeavailable under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49, United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
 
 &emsp;"(1) provide a peanut-free buffer zone or any other related peanut-restricted area; or
 

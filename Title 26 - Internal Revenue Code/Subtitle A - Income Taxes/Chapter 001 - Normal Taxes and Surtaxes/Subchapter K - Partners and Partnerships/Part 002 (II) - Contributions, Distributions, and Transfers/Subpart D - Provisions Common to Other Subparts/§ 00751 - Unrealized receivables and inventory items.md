@@ -56,7 +56,7 @@ For purposes of this subchapter, the term "unrealized receivables" includes, to 
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) butonly to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -146,7 +146,7 @@ Subsec. (d)(2). Pub. L. 87–834, §14(b)(2), added subpar. (C), redesignated fo
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -200,7 +200,7 @@ Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchang
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, §2110(b), Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date."
+Pub. L. 94–455, title XXI, §2110(b), Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Subsection (a) \[amending this section\] shall apply to transactions described in sections 731, 736, 741, or 751 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which occur after December 31, 1976, in taxable years ending after that date."
 
 #### Effective Date of 1969 Amendment
 

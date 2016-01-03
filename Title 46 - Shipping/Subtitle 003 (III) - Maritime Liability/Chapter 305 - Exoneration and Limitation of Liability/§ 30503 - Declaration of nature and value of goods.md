@@ -6,7 +6,7 @@ In General.—If a shipper of an item named in subsection (b), contained in a pa
 
 (b)
 
-Items.—The items referred to in subsection (a) are precious metals, gold or silver plated articles, precious stones, jewelry, trinkets, watches, clocks, glass, china, coins, bills, securities, printings, engravings, pictures, stamps, maps, papers, silks, furs, lace, and similar items of high value and small size.
+Items.—The items referred to in subsection (a) are precious metals, gold or silver plated articles, precious stones, jewelry, trinkets, watches, clocks, glass, china, coins, bills, securities, printings, engravings, pictures, stamps, maps,papers, silks, furs, lace, and similar items of high value and small size.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1512.)
 

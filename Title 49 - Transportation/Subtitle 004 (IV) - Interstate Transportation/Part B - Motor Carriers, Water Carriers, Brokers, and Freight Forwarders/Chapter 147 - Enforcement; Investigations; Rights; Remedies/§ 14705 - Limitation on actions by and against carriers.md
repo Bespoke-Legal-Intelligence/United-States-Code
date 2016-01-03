@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A carrier providing transportation or service subject to jurisdiction underchapter 135 must begin a civil action to recover charges for transportation or service provided by the carrier within 18 months after the claim accrues.
+In General.—A carrier providing transportation or service subject to jurisdiction under chapter 135 must begin a civil action to recover charges for transportation or service provided by the carrier within 18 months after the claim accrues.
 
 (b)
 
@@ -10,7 +10,7 @@ Overcharges.—A person must begin a civil action to recover overcharges within 
 
 (c)
 
-Damages.—A person must file a complaint with the Board or Secretary, as applicable, to recover damages under section 14704(b) within 2 years after the claim accrues.
+Damages.—A person must file a complaint with the Board or Secretary, as applicable, torecover damages under section 14704(b) within 2 years after the claim accrues.
 
 (d)
 

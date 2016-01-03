@@ -190,7 +190,7 @@ Compliance With Environmental Laws.—In carrying out this subtitle \[subtitle B
 
 #### Definitions
 
-Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, provided that: "In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
+Pub. L. 111–11, title X, §10302, Mar. 30, 2009, 123 Stat. 1367, as amended by Pub. L. 114–57, §2(a), Sept. 30, 2015, 129 Stat. 528, provided that: "In this subtitle \[subtitle B (§§10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and section 620n–1 of this title, amending former section 615ss and sections 620 and 620o of this title, repealing former section 615jj of this title, and enacting provisions set out as notes under this section and sections 371 and 620 of this title\]:
 
 &emsp;"(1)
 
@@ -198,7 +198,7 @@ Aamodt adjudication.—The term 'Aamodt adjudication' means the general stream a
 
 &emsp;"(2)
 
-Abeyta adjudication.—The term 'Abeyta adjudication' means the general stream adjudication that is the subject of the civil actions entitled 'State of New Mexico v. Abeyta and State of New Mexico v. Arrellano', Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
+Abeyta adjudication.—The term 'Abeyta adjudication' means the general stream adjudication that is the subject of the civil actions entitled 'State of New Mexico v. Abeyta and State of New Mexico v. Arellano', Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated).
 
 &emsp;"(3)
 
@@ -310,7 +310,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior, acting th
 
 &emsp;"(27)
 
-Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud. Dist., San Juan County, NewMexico) (involving claims to waters of the San Juan River and the tributaries of that river).
+Stream adjudication.—The term 'stream adjudication' means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, NewMexico) (involving claims to waters of the San Juan River and the tributaries of that river).
 
 &emsp;"(28)
 

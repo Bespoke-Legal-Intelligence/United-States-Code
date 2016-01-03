@@ -114,7 +114,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(9) Competent and independent judiciary, founded on a merit-based selection process and trained to enforce contracts and protect property rights, is critical for creating a predictable and consistent environment for transparency in legal procedures.
 
-&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoralprocesses, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
+&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
 
 &emsp;"(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
 

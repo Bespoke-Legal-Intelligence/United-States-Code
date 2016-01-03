@@ -20,7 +20,7 @@ VBA Staffing at Regional Offices.—The Secretary shall ensure that there is at 
 
 (b)
 
-VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient to assure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager.
+VHA Case Managers.—The Secretary shall ensure that the number of case managers in the Veterans Health Administration is sufficient toassure that every veteran who is provided a housing voucher through section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is assigned to, and is seen as needed by, a case manager.
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
 

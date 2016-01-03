@@ -86,7 +86,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (j) Processing fee
 
-The appropriate Federal banking agency may, in the sole discretion of the appropriate Federal banking agency, assess against any person that submits to the appropriate Federal banking agency an application, filing, notice, or request a fee to cover the cost of processing such submission.
+The appropriate Federal banking agency may, in the sole discretion of the appropriate Federalbanking agency, assess against any person that submits to the appropriate Federal banking agency an application, filing, notice, or request a fee to cover the cost of processing such submission.
 
 #### (k) Fees for examinations and supervisory activities
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 relating to civil penalties applicable with respect to violations committed and activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
+Amendment by Pub. L. 101–73 relating to civil penalties applicable with respect to violations committedand activities engaged in after Aug. 9, 1989, except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such violations or activities committed or engaged in before such date with respect to an institution if such violations or activities (1) are not already subject to a notice issued by the appropriate Federal banking agency or the Board (initiating an administrative proceeding); and (2) occurred after the completion of the last report of examination of the institution by the appropriate Federal banking agency (as defined in section 1813 of this title) occurring before Aug. 9, 1989, see section 305(c) of Pub. L. 101–73, set out as a note under section 1461 of this title.
 
 #### Submission of Proposed Regulations to Congress
 

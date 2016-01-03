@@ -16,7 +16,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;For purposes of applying section 401(a)(4) and section 410(b) with respect to an individual who is treated as an employee of an American employer under subsection (a)—
 
-&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as having such capacity with respect to such American employer; and
+&emsp;&emsp;(A) if such individual is a highly compensated employee (within the meaning of section 414(q)), he shall be treated as havingsuch capacity with respect to such American employer; and
 
 &emsp;&emsp;(B) the determination of whether such individual is a highly compensated employee (as so defined) shall be made by treating such individual's total compensation (determined with the application of paragraph (2) of this subsection) as compensation paid by such American employer and by determining such individual's status with regard to such American employer.
 
@@ -84,7 +84,7 @@ Subsec. (e)(5). Pub. L. 99–514, §1852(e)(2)(C), struck out par. (5) which rea
 
 Subsec. (a)(3). Pub. L. 98–369, §491(d)(14), substituted "or 403(a)" for ", 403(a), or 405(a)".
 
-Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory provision "section 404" for "sections 404 and 405(c)", and "or annuity" for "annuity, or bond purchase".
+Subsec. (d). Pub. L. 98–369, §491(d)(15)(A), (B), substituted in introductory provision "section 404" for"sections 404 and 405(c)", and "or annuity" for "annuity, or bond purchase".
 
 Subsec. (d)(2). Pub. L. 98–369, §491(d)(15)(C), struck out "(or section 405(c))" after "section 404".
 

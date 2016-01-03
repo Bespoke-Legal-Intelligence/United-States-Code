@@ -52,7 +52,7 @@ Exception to Limitations on Personnel.—For fiscal year 2009 and fiscal years t
 
 "(b)
 
-Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
+Authority to Adjust Limitations on Personnel.—For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a militarydepartment may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
 
 &emsp;"(1) fill a gap in the civilian workforce of the Department of Defense identified by the Secretary of Defense in a strategic human capital plan submitted to Congress in accordance with the requirements of section 115b of such title; or
 

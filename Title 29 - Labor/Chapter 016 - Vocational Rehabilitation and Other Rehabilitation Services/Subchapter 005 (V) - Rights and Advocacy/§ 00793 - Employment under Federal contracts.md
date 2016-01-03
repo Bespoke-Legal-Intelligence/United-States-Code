@@ -6,7 +6,7 @@ Any contract in excess of $10,000 entered into by any Federal department or agen
 
 #### (b) Administrative enforcement; complaints; investigations; departmental action
 
-If any individual with a disability believes any contractor has failed or refused to comply with the provisions of a contract with the United States, relating to employment of individuals with disabilities, such individual may file a complaint with the Department of Labor. TheDepartment shall promptly investigate such complaint and shall take such action thereon as the facts and circumstances warrant, consistent with the terms of such contract and the laws and regulations applicable thereto.
+If any individual with a disability believes any contractor has failed or refused to comply with the provisions of a contract with the United States, relating to employment of individuals with disabilities, such individual may file a complaint with the Department of Labor. The Department shall promptly investigate such complaint and shall take such action thereon as the facts and circumstances warrant, consistent with the terms of such contract and the laws and regulations applicable thereto.
 
 #### (c) Waiver by President; national interest special circumstances for waiver of particular agreements; waiver by Secretary of Labor of affirmative action requirements
 

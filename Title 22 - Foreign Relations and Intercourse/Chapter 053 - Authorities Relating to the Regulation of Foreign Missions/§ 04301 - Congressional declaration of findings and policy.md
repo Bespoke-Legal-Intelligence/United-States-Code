@@ -20,7 +20,7 @@ The treatment to be accorded to a foreign mission in the United States shall be 
 
 #### Effective Date
 
-Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: "The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982."
+Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: "The amendments made by this title\[see Short Title note below\] shall take effect on October 1, 1982."
 
 #### Short Title of 1983 Amendment
 

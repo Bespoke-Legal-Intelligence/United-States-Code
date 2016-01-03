@@ -76,7 +76,7 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Additional Service Creditable to Certain Regulars
 
-Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: "In addition to service with which he may becredited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
+Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: "In addition to service with which he may be credited under section 1208(a)(2) of title 10, United States Code \[subsec. (a)(2) of this section\], a member of a regular component of the armed forces shall be credited, for the purposes of chapter 61 of title 10, United States Code \[this chapter\], with all service as—
 
 &emsp;"(1) a cadet at the United States Military Academy, if appointed before August 24, 1912;
 

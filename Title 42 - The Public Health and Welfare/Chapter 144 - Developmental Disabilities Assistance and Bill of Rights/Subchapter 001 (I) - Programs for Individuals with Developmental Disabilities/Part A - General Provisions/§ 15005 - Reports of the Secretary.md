@@ -18,7 +18,7 @@ At least once every 2 years, the Secretary, using information submitted in the r
 
 &emsp;&emsp;(B) reports of deaths of and serious injuries to individuals with developmental disabilities; and
 
-&emsp;(3) a summary of any incidents of noncompliance of the programs authorized underthis subchapter with the provisions of this subchapter, and corrections made or actions taken to obtain compliance.
+&emsp;(3) a summary of any incidents of noncompliance of the programs authorized under this subchapter with the provisions of this subchapter, and corrections made or actions taken to obtain compliance.
 
 (Pub. L. 106–402, title I, §105, Oct. 30, 2000, 114 Stat. 1690.)
 

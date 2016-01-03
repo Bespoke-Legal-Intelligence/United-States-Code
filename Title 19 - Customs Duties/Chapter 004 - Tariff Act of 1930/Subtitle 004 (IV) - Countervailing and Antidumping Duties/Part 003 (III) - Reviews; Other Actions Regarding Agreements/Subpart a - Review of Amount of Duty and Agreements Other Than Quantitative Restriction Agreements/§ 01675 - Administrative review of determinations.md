@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer of the subject merchandise establishing that—
+&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer ofthe subject merchandise establishing that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was the subject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
 
@@ -62,7 +62,7 @@
 
 #### (A) Preliminary and final determinations
 
-&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
+&emsp;&emsp;The administering authority shall make a preliminary determination under subparagraph (A), (B), or (C) of paragraph (1) within 245 days after the last day of the month in which occurs the anniversary of the date of publication of the order, finding, or suspension agreement for which the review under paragraph (1) is requested, and a final determination under paragraph (1) within 120 days after the date on which the preliminary determination is published. If it is not practicable to complete the review within the foregoing time, the administering authority may extend that 245-day period to 365 days and may extend that 120-day period to 180 days. The administering authority may extend the time for making a final determination without extending the time for making a preliminary determination, if such final determination is made not later than 300 days after the date on which the preliminary determination is published.
 
 #### (B) Liquidation of entries
 
@@ -74,7 +74,7 @@
 
 #### (4) Absorption of antidumping duties
 
-&emsp;During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under section 1673e(a) of this title, the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c) of this section.
+&emsp;During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under section 1673e(a) of this title, the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c).
 
 #### (b) Reviews based on changed circumstances
 
@@ -122,9 +122,9 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (b) of this section and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
+&emsp;Notwithstanding subsection (b) and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
 
-&emsp;&emsp;(A) a countervailing duty order (other than a countervailing duty order to which subparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 <sup>1</sup> of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1) of this section,
+&emsp;&emsp;(A) a countervailing duty order (other than a countervailing duty order to which subparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 <sup>1</sup> of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1),
 
 &emsp;&emsp;(B) a notice of injury determination under section 1675b of this title with respect to a countervailing duty order, or
 
@@ -244,11 +244,11 @@
 
 #### (1) In general
 
-&emsp;The administering authority may revoke, in whole or in part, a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, after review under subsection (a) or (b) of this section. The administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States which are specifically intended to offset the countervailable subsidy received.
+&emsp;The administering authority may revoke, in whole or in part, a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, after review under subsection (a) or (b). The administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States which are specifically intended to offset the countervailable subsidy received.
 
 #### (2) Five-year reviews
 
-&emsp;In the case of a review conducted under subsection (c) of this section, the administering authority shall revoke a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, unless—
+&emsp;In the case of a review conducted under subsection (c), the administering authority shall revoke a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, unless—
 
 &emsp;&emsp;(A) the administering authority makes a determination that dumping or a countervailable subsidy, as the case may be, would be likely to continue or recur, and
 
@@ -264,7 +264,7 @@ Whenever the administering authority or the Commission conducts a review under t
 
 #### (f) Determination that basis for suspension no longer exists
 
-If the determination of the Commission under subsection (b)(2)(B) of this section is negative, the suspension agreement shall be treated as not accepted, beginning on the date of publication of the Commission's determination, and the administering authority and the Commission shall proceed, under section 1671c(i) or 1673c(i) of this title, as if the suspension agreement had been violated on that date, except that no duty under any order subsequently issued shall be assessed on merchandise entered, or withdrawn from warehouse, for consumption before that date.
+If the determination of the Commission under subsection (b)(2)(B) is negative, the suspension agreement shall be treated as not accepted, beginning on the date of publication of the Commission's determination, and the administering authority and the Commission shall proceed, under section 1671c(i) or 1673c(i) of this title, as if the suspension agreement had been violated on that date, except that no duty under any order subsequently issued shall be assessed on merchandise entered, or withdrawn from warehouse, for consumption before that date.
 
 #### (g) Reviews to implement results of subsidies enforcement proceeding
 
@@ -276,7 +276,7 @@ If the determination of the Commission under subsection (b)(2)(B) of this sectio
 
 &emsp;&emsp;(B) the administering authority has reason to believe that merchandise subject to an existing countervailing duty order or suspended investigation is benefiting from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement, and
 
-&emsp;&emsp;(C) no review pursuant to subsection (a)(1) of this section is in progress,
+&emsp;&emsp;(C) no review pursuant to subsection (a)(1) is in progress,
 
 > &emsp;the administering authority shall conduct a review of the order or suspended investigation to determine whether the subject merchandise benefits from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement. If the administering authority determines that the subject merchandise is benefiting from the subsidy or subsidy program, it shall make appropriate adjustments in the estimated duty to be deposited or appropriate revisions to the terms of the suspension agreement.
 
@@ -354,7 +354,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

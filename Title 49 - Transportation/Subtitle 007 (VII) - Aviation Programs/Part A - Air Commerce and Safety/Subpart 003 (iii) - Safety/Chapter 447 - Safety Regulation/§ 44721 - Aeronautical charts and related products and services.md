@@ -64,7 +64,7 @@ In general.—The Administrator is authorized, at the request of a State, subdiv
 
 &emsp;(2)
 
-Fees.—The Administrator shall assess a fee for any special service provided under paragraph (1). A fee shall be not more than theactual or estimated full cost of the service. A fee may be reduced or waived for research organizations, educational organizations, or non-profit organizations, when the Administrator determines that reduction or waiver of the fee is in the best interest of the Government by furthering public safety.
+Fees.—The Administrator shall assess a fee for any special service provided under paragraph (1). A fee shall be not more than the actual or estimated full cost of the service. A fee may be reduced or waived for research organizations, educational organizations, or non-profit organizations, when the Administrator determines that reduction or waiver of the fee is in the best interest of the Government by furthering public safety.
 
 (g)
 
@@ -164,7 +164,7 @@ Sections 1 through 9 of the Act entitled "An Act to define the functions and dut
 
 Publication.—(1) The Administrator of the Federal Aviation Administration may arrange for the publication of aeronautical maps and charts necessary for the safe and efficient movement of aircraft in air navigation, using the facilities and assistance of departments, agencies, and instrumentalities of the United States Government as far as practicable.
 
-"(2) In carrying out paragraph (1) of this subsection, the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to andfrom an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
+"(2) In carrying out paragraph (1) of this subsection, the Administrator shall update and arrange for the publication of clearly defined routes for navigating through a complex terminal airspace area and to and from an airport located in such an area, if the Administrator decides that publication of the routes would promote safety in air navigation. The routes shall be developed in consultation with pilots and other users of affected airports and shall be for the optional use of pilots operating under visual flight rules.
 
 "(b)
 
@@ -212,7 +212,7 @@ Continued Effectiveness of Pending Actions.—
 
 &emsp;"(1)
 
-In general.—The provisions of this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending on the date of transfer before the Department of Commerce or the National Oceanic and Atmospheric Administration, or any officer of such Department or Administration, with respect to functions transferred by this title, but such proceedings or applications, to the extent that they relate to functions transferred, shall be continued in accord with transition guidelines promulgated by the Administrator of the Federal Aviation Administration under the authority of this section. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Federal Aviation Administration, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.
+In general.—The provisions of this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending on the date of transfer before the Department of Commerce or the National Oceanic and Atmospheric Administration, or any officer of such Department or Administration, with respect to functions transferredby this title, but such proceedings or applications, to the extent that they relate to functions transferred, shall be continued in accord with transition guidelines promulgated by the Administrator of the Federal Aviation Administration under the authority of this section. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Administrator of the Federal Aviation Administration, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.
 
 &emsp;"(2)
 

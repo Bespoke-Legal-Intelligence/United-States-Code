@@ -74,7 +74,7 @@ Pub. L. 111–383, §901(m)(2), redesignated subsec. (d) relating to duties of t
 
 Subsecs. (c), (d). Pub. L. 110–181, §904(a)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1986</b>—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out ": appointment;powers and duties; precedence" at end of section catchline.
+<b>1986</b>—Pub. L. 99–433 renumbered section 134 of this title as this section and struck out ": appointment; powers and duties; precedence" at end of section catchline.
 
 <b>1977</b>—Pub. L. 95–140, §1(a)(4), substituted "Deputy Secretary" for "Deputy Secretaries" in section catchline.
 
@@ -126,5 +126,5 @@ Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, as 
 
 "(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer and Deputy Chief Management Officer of the Department of Defense as is necessary to assist those officials in the performance of their duties."
 
-<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
+<i>\[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the</i><i>Under Secretary of Defense for Business Management and Information. See section 901(n)(1) of Pub. L. 113–291, set out as a References note under section 131 of this title.\]</i>
 

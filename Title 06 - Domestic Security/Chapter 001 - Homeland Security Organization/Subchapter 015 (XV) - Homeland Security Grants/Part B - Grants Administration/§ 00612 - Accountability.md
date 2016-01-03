@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribe shall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
+&emsp;&emsp;As a condition of receiving a grant under section 604 or 605 of this title, a State, high-risk urban area, or directly eligible tribeshall, not later than 30 days after the end of each Federal fiscal quarter, submit to the Administrator a report on activities performed using grant funds during that fiscal quarter.
 
 #### (B) Contents
 
@@ -166,7 +166,7 @@ Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, refe
 
 #### Amendments
 
-Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), "paragraph (2)" for "paragraphs (2) and (3)" and "paragraph (3)" for "paragraph (4)", and struck out former par. (3) which related to Office of Inspector General performance audits.
+<b>2014</b>—Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), "paragraph (2)" for "paragraphs (2) and (3)" and "paragraph (3)" for "paragraph (4)", and struck out former par. (3) which related to Office of Inspector General performance audits.
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–204 substituted "under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)" for "(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)".
 

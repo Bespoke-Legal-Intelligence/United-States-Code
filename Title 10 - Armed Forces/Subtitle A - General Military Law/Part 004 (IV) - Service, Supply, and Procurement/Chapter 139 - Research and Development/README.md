@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2351\.](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
-| [2352\.](%C2%A7%2002352%20-%20Defense%20Advanced%20Research%20Projects%20Agency%20biennial%20strategic%20plan.md) | Defense Advanced Research Projects Agency: biennial strategic plan. |
+| \[2352. | Repealed.\] |
 | [2353\.](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md) | Contracts: acquisition, construction, or furnishing of test facilities and equipment. |
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
 | \[2355 to 2357. Repealed.\] |  |
@@ -15,15 +15,17 @@
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
 | [2362\.](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md) | Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education. |
 | \[2363. | Repealed.\] |
-| [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md) | Coordination and communication of defense research activities. |
+| [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md) | Coordination and communication of defense research activities and technology domain awareness. |
 | [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
-| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20approval.md) | Major defense acquisition programs: certification required before Milestone A approval. |
+| [2366a.](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20determination%20required%20before%20Milestone%20A%20approval.md) | Major defense acquisition programs: determination required before Milestone A approval. |
 | [2366b.](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md) | Major defense acquisition programs: certification required before Milestone B approval. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
-| \[2368 to 2370a. Repealed.\] |  |
+| [2368\.](%C2%A7%2002368%20-%20Centers%20for%20Science%2C%20Technology%2C%20and%20Engineering%20Partnership.md) | Centers for Science, Technology, and Engineering Partnership. |
+| \[2369 to 2370a. Repealed.\] |  |
 | [2371\.](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects: transactions other than contracts and grants. |
 | [2371a.](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md) | Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980. |
+| [2371b.](%C2%A7%2002371b%20-%20Authority%20of%20the%20Department%20of%20Defense%20to%20carry%20out%20certain%20prototype%20projects.md) | Authority of the Department of Defense to carry out certain prototype projects. |
 | [2372\.](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md) | Independent research and development and bid and proposal costs: payments to contractors. |
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
@@ -33,6 +35,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title II, §§211(b), 214(b), title VIII, §§815(a)(2), 823(b), title X, §1078(c)(2), Nov. 25, 2015, 129 Stat. 767, 769, 896, 903, 999, added items 2368 and 2371b, substituted "Coordination and communication of defense research activities and technology domain awareness" for "Coordination and communication of defense research activities" in item 2364 and "Major defense acquisition programs: determination required before Milestone A approval" for "Major defense acquisition programs: certification required before Milestone A approval" in item 2366a, and struck out item 2352 "Defense Advanced Research Projects Agency: biennial strategic plan".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title X, §1076(g)(4), Jan. 2, 2013, 126 Stat. 1955, struck out item 2374b "Prizes for achievements in promoting science, mathematics, engineering, or technology education".
 
@@ -108,7 +112,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02351 - Availability of appropriations](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md)
-- [&sect; 02352 - Defense Advanced Research Projects Agency biennial strategic plan](%C2%A7%2002352%20-%20Defense%20Advanced%20Research%20Projects%20Agency%20biennial%20strategic%20plan.md)
+- [&sect; 02352 - Repealed. Pub. L. 114&#8211;92, div. A, title X, &sect;1078(c)(1), Nov. 25, 2015, 129 Stat. 999](%C2%A7%2002352%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9392%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28c%29%281%29%2C%20Nov.%2025%2C%202015%2C%20129%20Stat.%20999.md)
 - [&sect; 02353 - Contracts acquisition, construction, or furnishing of test facilities and equipment](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md)
 - [&sect; 02354 - Contracts indemnification provisions](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md)
 - [&sect; 02355 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2002(a), Oct. 13, 1994, 108 Stat. 3303](%C2%A7%2002355%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72002%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203303.md)
@@ -122,18 +126,19 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
 - [&sect; 02362 - Research and educational programs and activities historically black colleges and universities and minority-serving institutions of higher&#8230;](%C2%A7%2002362%20-%20Research%20and%20educational%20programs%20and%20activities%20historically%20black%20colleges%20and%20universities%20and%20minority-serving%20institutions%20of%20higher%E2%80%A6.md)
 - [&sect; 02363 - Repealed. Pub. L. 102&#8211;484, div. D, title XLII, &sect;&sect;4224(c), 4271(a)(2), Oct. 23, 1992, 106 Stat. 2683, 2695](%C2%A7%2002363%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20D%2C%20title%20XLII%2C%20%C2%A7%C2%A74224%28c%29%2C%204271%28a%29%282%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202683%2C%202695.md)
-- [&sect; 02364 - Coordination and communication of defense research activities](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md)
+- [&sect; 02364 - Coordination and communication of defense research activities and technology domain awareness](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities%20and%20technology%20domain%20awareness.md)
 - [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)
-- [&sect; 02366a - Major defense acquisition programs certification required before Milestone A approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20A%20approval.md)
+- [&sect; 02366a - Major defense acquisition programs determination required before Milestone A approval](%C2%A7%2002366a%20-%20Major%20defense%20acquisition%20programs%20determination%20required%20before%20Milestone%20A%20approval.md)
 - [&sect; 02366b - Major defense acquisition programs certification required before Milestone B approval](%C2%A7%2002366b%20-%20Major%20defense%20acquisition%20programs%20certification%20required%20before%20Milestone%20B%20approval.md)
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
-- [&sect; 02368 - Repealed. Pub. L. 102&#8211;190, div. A, title VIII, &sect;821(c)(1), Dec. 5, 1991, 105 Stat. 1431](%C2%A7%2002368%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93190%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Dec.%205%2C%201991%2C%20105%20Stat.%201431.md)
+- [&sect; 02368 - Centers for Science, Technology, and Engineering Partnership](%C2%A7%2002368%20-%20Centers%20for%20Science%2C%20Technology%2C%20and%20Engineering%20Partnership.md)
 - [&sect; 02369 - Repealed. Pub. L. 103&#8211;355, title III, &sect;3062(a), Oct. 13, 1994, 108 Stat. 3336](%C2%A7%2002369%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A73062%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203336.md)
 - [&sect; 02370 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(j)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2002370%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28j%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
 - [&sect; 02370a - Repealed. Pub. L. 108&#8211;375, div. A, title X, &sect;1005(a), Oct. 28, 2004, 118 Stat. 2036](%C2%A7%2002370a%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71005%28a%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202036.md)
 - [&sect; 02371 - Research projects transactions other than contracts and grants](%C2%A7%2002371%20-%20Research%20projects%20transactions%20other%20than%20contracts%20and%20grants.md)
 - [&sect; 02371a - Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980](%C2%A7%2002371a%20-%20Cooperative%20research%20and%20development%20agreements%20under%20Stevenson-Wydler%20Technology%20Innovation%20Act%20of%201980.md)
+- [&sect; 02371b - Authority of the Department of Defense to carry out certain prototype projects](%C2%A7%2002371b%20-%20Authority%20of%20the%20Department%20of%20Defense%20to%20carry%20out%20certain%20prototype%20projects.md)
 - [&sect; 02372 - Independent research and development and bid and proposal costs payments to contractors](%C2%A7%2002372%20-%20Independent%20research%20and%20development%20and%20bid%20and%20proposal%20costs%20payments%20to%20contractors.md)
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)

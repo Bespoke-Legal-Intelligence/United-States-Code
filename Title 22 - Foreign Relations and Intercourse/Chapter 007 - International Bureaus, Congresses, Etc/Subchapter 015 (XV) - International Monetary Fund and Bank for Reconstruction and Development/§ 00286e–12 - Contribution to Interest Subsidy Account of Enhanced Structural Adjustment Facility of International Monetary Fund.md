@@ -8,7 +8,7 @@
 
 #### (2) Condition
 
-&emsp;The United States Governor of the Fund may not make a commitment to contributeany amount authorized to be contributed under paragraph (1) before an amount equal to such amount has been appropriated for such purpose.
+&emsp;The United States Governor of the Fund may not make a commitment to contribute any amount authorized to be contributed under paragraph (1) before an amount equal to such amount has been appropriated for such purpose.
 
 #### (b) Limitation on authorization of appropriations
 

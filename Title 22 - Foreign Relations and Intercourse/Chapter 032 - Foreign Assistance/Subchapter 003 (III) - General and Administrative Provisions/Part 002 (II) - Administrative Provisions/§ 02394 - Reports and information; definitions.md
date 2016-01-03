@@ -86,7 +86,7 @@ Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out "the progress developi
 
 Subsec. (a)(2)(F). Pub. L. 97–113, §733(3), added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
+Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement,theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
 
 Subsec. (a)(7). Pub. L. 97–113, §733(5), struck out "and" after the semicolon.
 
@@ -160,7 +160,7 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 #### Annual Report on Economic and Social Growth
 
-Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
+Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriatecongressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 

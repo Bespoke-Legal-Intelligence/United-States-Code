@@ -76,7 +76,7 @@
 
 (2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 
-(3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
+(3) The Board shall by rule indicate any other category of significant Board action which theBoard determines should be subject to the provisions of this subsection.
 
 (4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
@@ -106,7 +106,7 @@ Aug. 4, 1947, ch. 447, 61 Stat. 723.
 
 June 22, 1948, ch. 604, 62 Stat. 575.
 
-The application of the section is established by the words "A preference eligible employee as defined by section 7511 of this title". Specific mention of the actions appealable are covered by the reference to "an adverse decision under section 7512 of this title". The words "administrative authority" are substituted for "administrative officer" to avoid conflict with the definitions of "employee" and "officer" in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an "administrative officer" under former section 863. The words "the date of" in thephrase "after the date of receipt of notice" are omitted as unnecessary. The words "reasonable rules and" in the phrase "reasonable rules and regulations" are omitted as unnecessary. The word "proper" in the phrase "proper administrative officer" is omitted as unnecessary. The word "designated" in the phrase "designated representative" is omitted as unnecessary.
+The application of the section is established by the words "A preference eligible employee as defined by section 7511 of this title". Specific mention of the actions appealable are covered by the reference to "an adverse decision under section 7512 of this title". The words "administrative authority" are substituted for "administrative officer" to avoid conflict with the definitions of "employee" and "officer" in chapter 21 of this title and to include an individual who is employed by the government of the District of Columbia or who is a member of a uniformed service as such an individual could have been an "administrative officer" under former section 863. The words "the date of" in the phrase "after the date of receipt of notice" are omitted as unnecessary. The words "reasonable rules and" in the phrase "reasonable rules and regulations" are omitted as unnecessary. The word "proper" in the phrase "proper administrative officer" is omitted as unnecessary. The word "designated" in the phrase "designated representative" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title outlined in preface to the report.
 
@@ -164,7 +164,7 @@ For effect of Pub. L. 101–12 on orders, rules, and regulations issued before e
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 177 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(2) of this section, see section3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 177 of House Document No. 103–7.
 
 #### Executive Order No. 11787
 

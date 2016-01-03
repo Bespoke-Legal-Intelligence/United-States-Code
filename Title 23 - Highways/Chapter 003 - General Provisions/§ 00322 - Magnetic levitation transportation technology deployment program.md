@@ -128,7 +128,7 @@ In general.—There is authorized to be appropriated from the Highway Trust Fund
 
 Contract authority.—Funds authorized by this subparagraph shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this section shall be determined in accordance with subsection (b); and
+&emsp;&emsp;&emsp;&emsp;(I) the Federal share of the cost of a project carried out under this sectionshall be determined in accordance with subsection (b); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the availability of the funds shall be determined in accordance with paragraph (2).
 
@@ -150,7 +150,7 @@ Availability of funds.—Funds made available under paragraph (1) shall remain a
 
 &emsp;(3)
 
-Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
 &emsp;(4)
 
@@ -180,7 +180,7 @@ Availability.—Notwithstanding section 118(a), funds made available under subpa
 
 &emsp;&emsp;&emsp;(ii) shall remain available until expended.
 
-(Added and amended Pub. L. 105–178, title I, §1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, §9003(i), July 22, 1998, 112 Stat. 841.)
+(Added and amended Pub. L. 105–178, title I, §1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, §9003(i), July 22, 1998, 112 Stat. 841; Pub. L. 114–94, div. A, title I, §1109(c)(3), Dec. 4, 2015, 129 Stat. 1343.)
 
 #### References in Text
 
@@ -196,6 +196,8 @@ A prior section 322, added Pub. L. 91–605, title II, §205(a), Dec. 31, 1970, 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (h)(3). Pub. L. 114–94 substituted "surface transportation block grant program" for "surface transportation program".
+
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–178, §1218(c)(1), as added by Pub. L. 105–206, §9003(i), struck out "or under 50 miles per hour" before period at end.
 
 Subsec. (d)(1). Pub. L. 105–178, §1218(c)(2)(A), as added by Pub. L. 105–206, §9003(i), struck out "or low-speed" after "high-speed".
@@ -208,11 +210,17 @@ Subsec. (h)(1)(B)(i). Pub. L. 105–178, §1218(c)(3), as added by Pub. L. 105�
 
 Subsec. (i). Pub. L. 105–178, §1218(c)(4), as added by Pub. L. 105–206, §9003(i), added subsec. (i).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1998 Amendment
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Deployment of Magnetic Levitation Transportation Projects
+
+Pub. L. 114–94, div. A, title XI, §11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: "A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) \[set out below\] may be eligible for the Railroad Rehabilitationand Improvement Financing program if the Secretary \[of Transportation\] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 822, 823\]."
 
 Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, §102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
 

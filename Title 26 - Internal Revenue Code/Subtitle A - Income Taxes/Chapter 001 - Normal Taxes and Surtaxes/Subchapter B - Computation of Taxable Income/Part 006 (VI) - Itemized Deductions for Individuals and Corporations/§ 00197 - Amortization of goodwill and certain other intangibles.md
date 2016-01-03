@@ -114,7 +114,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 #### (B) Computer software defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "computer software" means any program designed to cause a computer to perform a desired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
+&emsp;&emsp;For purposes of subparagraph (A), the term "computer software" means any program designed to cause a computer to perform adesired function. Such term shall not include any data base or similar item unless the data base or item is in the public domain and is incidental to the operation of otherwise qualifying computer software.
 
 #### (4) Certain interests or rights acquired separately
 
@@ -288,7 +288,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations asmay be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
 
 (Added Pub. L. 103–66, title XIII, §13261(a), Aug. 10, 1993, 107 Stat. 532; amended Pub. L. 108–357, title VIII, §§847(b)(3), 886(a), Oct. 22, 2004, 118 Stat. 1602, 1641.)
 
@@ -298,7 +298,7 @@ The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and
 
 #### Amendments
 
-<b>2004</b>—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: "A franchise to engage in professionalfootball, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise."
+<b>2004</b>—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: "A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise."
 
 Subsec. (f)(10). Pub. L. 108–357, §847(b)(3), added par. (10).
 

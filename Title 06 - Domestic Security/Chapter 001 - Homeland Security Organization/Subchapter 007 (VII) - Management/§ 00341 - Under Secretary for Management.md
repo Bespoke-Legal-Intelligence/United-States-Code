@@ -10,7 +10,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(3) Human resources and personnel.
 
-&emsp;(4) Information technology and communications systems.
+&emsp;(4) Information technology and communications systems, including policies and directives to achieve and maintain interoperable communications among the components of the Department.
 
 &emsp;(5) Facilities, property, equipment, and other material resources.
 
@@ -82,13 +82,21 @@ The Under Secretary for Management shall—
 
 &emsp;(3) be subject to an annual performance evaluation by the Secretary, who shall determine as part of each such evaluation whether the Under Secretary for Management has made satisfactory progress toward achieving the goals set out in the performance agreement required under paragraph (2).
 
-(Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548.)
+#### (d) Interoperable communications defined
+
+In this section, the term "interoperable communications" has the meaning given that term in section 194(g) of this title.
+
+(Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548; Pub. L. 114–29, §3, July 6, 2015, 129 Stat. 421.)
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–29, §3(1), inserted before period at end ", including policies and directives to achieve and maintain interoperable communications among the components of the Department".
+
+Subsec. (d). Pub. L. 114–29, §3(2), added subsec. (d).
+
 <b>2007</b>—Subsec. (a). Pub. L. 110–53, §2405(a)(1), inserted in introductory provisions "The Under Secretary for Management shall serve as the Chief Management Officer and principal advisor to the Secretary on matters related to the management of the Department, including management integration and transformation in support of homeland security operations and programs."
 
-Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: "Identification and tracking of performance measures relating to the responsibilities of the Department."
+Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows:"Identification and tracking of performance measures relating to the responsibilities of the Department."
 
 Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
 

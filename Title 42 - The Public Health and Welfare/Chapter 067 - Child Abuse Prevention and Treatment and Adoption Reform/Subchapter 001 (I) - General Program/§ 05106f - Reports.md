@@ -36,7 +36,7 @@ Not later than 2 years after December 20, 2010, and every 2 years thereafter, th
 
 #### (1) Study
 
-&emsp;The Secretary shall complete a study, in consultation with experts in the provision of healthcare, law enforcement, education, and local child welfare administration, that examines how provisions for immunity from prosecution under State and local laws and regulations facilitate and inhibit individuals cooperating, consulting, or assisting in making goodfaith reports, including mandatory reports, of suspected or known instances of child abuse or neglect.
+&emsp;The Secretary shall complete a study, in consultation with experts in the provision of healthcare, law enforcement, education, and local child welfare administration, that examines how provisions for immunity from prosecution under State and local laws and regulations facilitate and inhibit individuals cooperating, consulting, or assisting in making good faith reports, including mandatory reports, of suspected or known instances of child abuse or neglect.
 
 #### (2) Report
 

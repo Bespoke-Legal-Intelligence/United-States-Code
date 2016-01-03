@@ -14,7 +14,7 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 #### (b) Preference eligibles within local hire
 
-Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
+Notwithstanding the provisions of subsection (a), any individual who is eligible to be selected for a position under the provisions of subsection (a) and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the excepted service as defined in section 2103 of such title.
 
 #### (c) Payment of expenses after death of an employee
 
@@ -24,7 +24,7 @@ Notwithstanding the provisions of subsection (a) of this section, any individual
 
 #### (2) Payments
 
-&emsp;If an employee appointed under the program established by subsection (a) of this section dies in the performance of any assigned duties on or after October 1, 2002, the Secretary may—
+&emsp;If an employee appointed under the program established by subsection (a) dies in the performance of any assigned duties on or after October 1, 2002, the Secretary may—
 
 &emsp;&emsp;(A) pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for the preparation and transportation of the remains of the deceased employee to a location in the State of Alaska which is selected by the surviving head of household of the deceased employee;
 
@@ -110,7 +110,7 @@ Local Hire.—The report required by subsection (a) shall—
 
 &emsp;"(1) indicate the actions taken in carrying out subsection (b) of section 1308 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3198);
 
-&emsp;"(2) address the recruitment processes that may restrict employees hired under subsection (a) of suchsection from successfully obtaining positions in the competitive service; and
+&emsp;"(2) address the recruitment processes that may restrict employees hired under subsection (a) of such section from successfully obtaining positions in the competitive service; and
 
 &emsp;"(3) describe the actions of the Secretary of the Interior in contracting with Alaska Native Corporations to provide services with respect to public lands in Alaska.
 

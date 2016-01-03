@@ -40,7 +40,7 @@ The allocation of basis among partnership properties where subsection (b) is app
 
 For purposes of this section, a securitization partnership (as defined in section 743(f)) shall not be treated as having a substantial basis reduction with respect to any distribution of property to a partner.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 247; Pub. L. 98–369, div. A, title I, §78(a), July 18, 1984, 98 Stat. 597; Pub. L. 108–357, title VIII, §833(c)(1)–(5)(A), Oct. 22, 2004, 118 Stat. 1591, 1592;Pub. L. 109–135, title IV, §403(bb), Dec. 21, 2005, 119 Stat. 2630.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 247; Pub. L. 98–369, div. A, title I, §78(a), July 18, 1984, 98 Stat. 597; Pub. L. 108–357, title VIII, §833(c)(1)–(5)(A), Oct. 22, 2004, 118 Stat. 1591, 1592; Pub. L. 109–135, title IV, §403(bb), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
 

@@ -10,6 +10,9 @@
 | 635a–2. | Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties. |
 | 635a–3. | Export-Import Bank financing to match foreign financing. |
 | 635a–4. | Guarantees for export accounts receivable and inventory. |
+| 635a–5. | Negotiations to end export credit financing. |
+| 635a–6. | Periodic audits of bank transactions. |
+| 635a–7. | Independent audit of bank portfolio. |
 | [635b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635b%20-%20Capitalization%20of%20Bank%3B%20method%20of%20capital%20stock%20payments%3B%20public-debt%20transactions%3B%20issuance%20of%20stock%20certificates.md) | Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates. |
 | [635c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635c%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93429%2C%20title%20I%2C%20%C2%A7121%28c%29%281%29%2C%20Oct.%2021%2C%201992%2C%20106%20Stat.%202199.md) | Repealed. |
 | [635d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635d%20-%20Issuance%20of%20debentures%2C%20bonds%2C%20etc.%3B%20obligations%20redeemable%3B%20payment%20of%20interest%3B%20obligations%20purchasable%20by%20Secretary%20of%20the%20Treasury%E2%80%A6.md) | Issuance of debentures, bonds, etc.; obligations redeemable; payment of interest; obligations purchasable by Secretary of the Treasury; public-debt transactions. |

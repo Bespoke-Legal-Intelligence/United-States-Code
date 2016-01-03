@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
+&emsp;In determining the tax under this chapter of a shareholder for the shareholder's taxable year in which the taxable year of the S corporation ends (or for the final taxable year ofa shareholder who dies, or of a trust or estate which terminates, before the end of the corporation's taxable year), there shall be taken into account the shareholder's pro rata share of the corporation's—
 
 &emsp;&emsp;(A) items of income (including tax-exempt income), loss, deduction, or credit the separate treatment of which could affect the liability for tax of any shareholder, and
 
@@ -48,7 +48,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (A) In general
 
-&emsp;&emsp;If for the last taxable year of a corporation for which it was an S corporation a loss ordeduction was disallowed by reason of paragraph (1), such loss or deduction shall be treated as incurred by the shareholder on the last day of any post-termination transition period.
+&emsp;&emsp;If for the last taxable year of a corporation for which it was an S corporation a loss or deduction was disallowed by reason of paragraph (1), such loss or deduction shall be treated as incurred by the shareholder on the last day of any post-termination transition period.
 
 #### (B) Cannot exceed shareholder's basis in stock
 
@@ -72,7 +72,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (e) Treatment of family group
 
-If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+If an individual who is a member of the family (within the meaning of section 704(e)(3)) <sup>1</sup> of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
 
 #### (f) Special rules
 
@@ -93,6 +93,10 @@ If an individual who is a member of the family (within the meaning of section 70
 &emsp;&emsp;(B) the total passive investment income for the taxable year.
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct. 22, 2004, 118 Stat. 1435; Pub. L. 110–172, §3(b), Dec. 29, 2007, 121 Stat. 2474.)
+
+#### References in Text
+
+Section 704(e)(3), referred to in subsec. (e), was redesignated section 704(e)(2) of this title by Pub. L. 114–74, title XI, §1102(b), Nov. 2, 2015, 129 Stat. 639.
 
 #### Amendments
 
@@ -154,7 +158,7 @@ Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable year
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 735(c)(16) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
@@ -165,4 +169,6 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

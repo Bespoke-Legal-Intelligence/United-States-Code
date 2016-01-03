@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order to promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the Mediation Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Mediation Board. Such an evaluation and audit shall be conducted not less frequently than every 2 years, but may be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+&emsp;In order to promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the Mediation Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Mediation Board. Such an evaluation and audit shall be conducted not less frequently than every 2years, but may be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 
 #### (2) Responsibility of Comptroller General
 

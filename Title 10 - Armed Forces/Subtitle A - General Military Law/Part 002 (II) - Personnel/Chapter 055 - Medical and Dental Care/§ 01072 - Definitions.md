@@ -68,7 +68,7 @@ In this chapter:
 
 &emsp;(7) The term "TRICARE program" means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
-&emsp;(8) The term "custodial care" means treatment or services, regardless of who recommends such treatment or services or where such treatment or services are provided, that—
+&emsp;(8) The term "custodial care" means treatment or services, regardless of who recommends such treatment or services or wheresuch treatment or services are provided, that—
 
 &emsp;&emsp;(A) can be rendered safely and reasonably by a person who is not medically skilled; or
 
@@ -168,7 +168,7 @@ Pub. L. 89–614 substituted "1087" for "1085" in introductory phrase.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title VII, §702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: "Section 1072(2)(I) of title10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994."
+Pub. L. 103–160, div. A, title VII, §702(b), Nov. 30, 1993, 107 Stat. 1686, provided that: "Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994."
 
 #### Effective Date of 1989 Amendment
 

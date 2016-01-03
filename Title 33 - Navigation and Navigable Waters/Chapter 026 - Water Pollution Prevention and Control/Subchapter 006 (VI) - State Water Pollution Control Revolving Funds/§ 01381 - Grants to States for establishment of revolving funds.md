@@ -16,7 +16,7 @@ The Administrator and each State shall jointly establish a schedule of payments 
 
 &emsp;&emsp;(B) 12 quarters after the date such funds were allotted to the State.
 
-(June 30, 1948, ch. 758, title VI, §601, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101Stat. 22; amended Pub. L. 113–121, title V, §5001, June 10, 2014, 128 Stat. 1322.)
+(June 30, 1948, ch. 758, title VI, §601, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 22; amended Pub. L. 113–121, title V, §5001, June 10, 2014, 128 Stat. 1322.)
 
 #### Amendments
 

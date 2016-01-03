@@ -24,7 +24,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;(B) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with section 1096 of title 20, may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with section 2756 of this title, and may transfer funds in accordance with the provisions of section 1095 of title 20;
 
-&emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, except that if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
+&emsp;(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F \[20 U.S.C. 1087kk et seq.\] and meet the requirements of section 1091 of title 20 will be assisted, exceptthat if the institution's grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
 
 &emsp;(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student's need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
 
@@ -44,7 +44,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;&emsp;(B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
 
-&emsp;(6) include provisions to make employment under such work-study program reasonablyavailable (to the extent of available funds) to all eligible students in the institution in need thereof;
+&emsp;(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
 
 &emsp;(7) provide assurances that employment made available from funds under this part will, to the maximum extent practicable, complement and reinforce the educational program or vocational goals of each student receiving assistance under this part;
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 

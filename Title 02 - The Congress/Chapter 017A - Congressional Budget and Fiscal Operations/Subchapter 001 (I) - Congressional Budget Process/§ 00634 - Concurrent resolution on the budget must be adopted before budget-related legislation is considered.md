@@ -30,7 +30,7 @@ In the House of Representatives, subsection (a) does not apply—
 
 #### (1) In general
 
-&emsp;Until the concurrent resolution on the budget for a fiscal year has been agreed to and an allocation has been made to the Committee on Appropriations of the Senate under section 633(a) of this title for that year, it shall not be in order in the Senate to consider any appropriation bill or joint resolution, amendment or motion thereto, or conference report thereon for that year or any subsequent year.
+&emsp;Until the concurrent resolution on the budget for a fiscal year has been agreed to and anallocation has been made to the Committee on Appropriations of the Senate under section 633(a) of this title for that year, it shall not be in order in the Senate to consider any appropriation bill or joint resolution, amendment or motion thereto, or conference report thereon for that year or any subsequent year.
 
 #### (2) Exception
 

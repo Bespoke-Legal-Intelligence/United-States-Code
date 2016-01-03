@@ -66,11 +66,11 @@
 
 &emsp;&emsp;(C) the court shall review all questions of law de novo; and
 
-&emsp;&emsp;(D) a finding of fact shall be accorded deference by the reviewing court and shall notbe set aside unless such finding was clearly erroneous, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) <sup>1</sup> of this title, the Court of Appeals shall review questions of fact de novo.
+&emsp;&emsp;(D) a finding of fact shall be accorded deference by the reviewing court and shall not be set aside unless such finding was clearly erroneous, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) <sup>1</sup> of this title, the Court of Appeals shall review questions of fact de novo.
 
 #### (d) Certiorari
 
-Following a decision by the Court of Appeals pursuant to subsection (c) of this section, the alien or the Attorney General may petition the Supreme Court for a writ of certiorari. In any such case, any information transmitted to the Court of Appeals under seal shall, if such information is also submitted to the Supreme Court, be transmitted under seal. Any order of removal shall not be stayed pending disposition of a writ of certiorari, except as provided by the Court of Appeals or a Justice of the Supreme Court.
+Following a decision by the Court of Appeals pursuant to subsection (c), the alien or the Attorney General may petition the Supreme Court for a writ of certiorari. In any such case, any information transmitted to the Court of Appeals under seal shall, if such information is also submitted to the Supreme Court, be transmitted under seal. Any order of removal shall not be stayed pending disposition of a writ of certiorari, except as provided by the Court of Appeals or a Justice of the Supreme Court.
 
 #### (e) Appeal of detention order
 

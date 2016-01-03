@@ -342,7 +342,7 @@ value.—The voucher may be used to offset the purchase price or lease price of 
 
 &emsp;&emsp;"(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 5 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle; or
 
-&emsp;&emsp;"(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economyvalue of at least 15 miles per gallon and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle and the eligible trade-in vehicle is a category 2 truck.
+&emsp;&emsp;"(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economy value of at least 15 miles per gallon and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle and the eligible trade-in vehicle is a category 2 truck.
 
 "(c)
 
@@ -424,7 +424,7 @@ Regulations.—Notwithstanding the requirements of section 553 of title 5, Unite
 
 &emsp;&emsp;"(A) requirements for the removal and appropriate disposition of refrigerants, antifreeze, lead products, mercury switches, and such other toxic or hazardous vehicle components prior to the crushing or shredding of an eligible trade-in vehicle, in accordance with rules established by the Secretary in consultation with the Administrator of the Environmental Protection Agency, and in accordance with other applicable Federal or State requirements;
 
-&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will be transferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
+&emsp;&emsp;"(B) a mechanism for dealers to certify to the Secretary that each eligible trade-in vehicle will betransferred to an entity that will ensure that the vehicle is disposed of, in accordance with such requirements and procedures, and to submit the vehicle identification numbers of the vehicles disposed of and the new fuel efficient automobile purchased with each voucher;
 
 &emsp;&emsp;"(C) a mechanism for obtaining such other certifications as deemed necessary by the Secretary from entities engaged in vehicle disposal; and
 

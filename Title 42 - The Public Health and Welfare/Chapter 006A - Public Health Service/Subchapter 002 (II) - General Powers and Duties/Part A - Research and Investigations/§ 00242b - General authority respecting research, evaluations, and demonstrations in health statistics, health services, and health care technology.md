@@ -6,7 +6,7 @@ The Secretary may, through the Agency for Healthcare Research and Quality or the
 
 #### (b) Additional authority; scope of activities
 
-To implement subsection (a) of this section and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or anyother law may be used by him to implement such subsection, do the following:
+To implement subsection (a) of this section and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
 
 &emsp;(1) Utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, provide technical assistance and advice, make grants to public and nonprofit private entities and individuals, and, when appropriate, enter into contracts with public and private entities and individuals.
 
@@ -50,7 +50,7 @@ Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted "the Agency
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted "the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology".
 
-Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted "the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center forHealth Statistics, or the National Center for Health Care Technology".
+Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted "the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology".
 
 Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted "the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology".
 
@@ -124,7 +124,7 @@ Pub. L. 95–83, title III, §314, Aug. 1, 1977, 91 Stat. 398, required the Secr
 
 #### Transfer of Equipment
 
-Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
+Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractorswithout further obligation to the Government or on such terms as the Secretary considered appropriate.
 
 #### Congressional Declaration of Purpose
 

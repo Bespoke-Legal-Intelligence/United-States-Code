@@ -42,7 +42,7 @@ The functions of the Secretary of State under the third and fourth sentences of 
 
 #### Eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1954, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, April 29, 1954, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### FOREIGN CLAIMS SETTLEMENT COMMISSION OF THE UNITED STATES
 
@@ -66,7 +66,7 @@ There are hereby vested in the Chairman all functions of the Commission with res
 
 #### Sec. 4. Abolitions
 
-(a) The War Claims Commission provided for in the War Claims Act of 1948, 62 Stat. 1240, as amended \[50 U.S.C. App. 2001 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
+(a) The War Claims Commission provided for in the War Claims Act of 1948, 62 Stat. 1240, as amended \[50 U.S.C. 4101 et seq.\] and the International Claims Commission, provided for in the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1621–1627\], including the offices of the members of each of the said commissions, and the office of Commissioner provided for in the aforesaid Joint Resolution of August 4, 1939, are hereby abolished.
 
 (b) The functions of the Secretary of State under the third and fourth sentences of section 3(c) of the International Claims Settlement Act of 1949, as amended \[22 U.S.C. 1622(c)\], are hereby abolished.
 
@@ -100,7 +100,7 @@ The reorganization plan establishes a new Government agency, the Foreign Claims 
 
 The Foreign Claims Settlement Commission will be composed of three members appointed by the President by and with the advice and consent of the Senate. The President will designate one of the members as Chairman of the Commission. The Chairman will be responsible for the internal management of the affairs of the Commission. The reorganization plan contains provisions designed to assure smooth administration of functions during the period of transition to the new organization.
 
-The War Claims Commission was created as a temporary agency by the War Claims Act of 1948. The Commission was made responsible for settling certain claims of former United States World War II prisoners of war, civilian internees captured or in hiding to avoid capture in the Philippines, Guam, Wake Island, and the Midway Islands, and certain religious organizations in the Philippines which had aided American forces during the war. In 1952, the Commission was assigned, additionally, the administration of claims of Philippine religious organizations which sustained losses of their educational, medical, and welfare facilities in the war, and of benefits to United States prisoners of war for inhumane treatment during internment by the enemy.
+The War Claims Commission was created as a temporary agency by the War Claims Act of 1948. The Commission was made responsible for settling certain claims of former United States World War II prisoners of war, civilian internees captured or in hiding to avoid capture in the Philippines, Guam, Wake Island, and the Midway Islands, and certain religious organizations inthe Philippines which had aided American forces during the war. In 1952, the Commission was assigned, additionally, the administration of claims of Philippine religious organizations which sustained losses of their educational, medical, and welfare facilities in the war, and of benefits to United States prisoners of war for inhumane treatment during internment by the enemy.
 
 From its inception in 1949 to April 1, 1954, approximately 500,000 claims were filed with the War Claims Commission, and approximately $134 million was paid to claimants. Approximately 96,000 remaining claims are in the process of settlement, and the Commission must complete action on them, together with such appeals as may be filed, by March 31, 1955.
 

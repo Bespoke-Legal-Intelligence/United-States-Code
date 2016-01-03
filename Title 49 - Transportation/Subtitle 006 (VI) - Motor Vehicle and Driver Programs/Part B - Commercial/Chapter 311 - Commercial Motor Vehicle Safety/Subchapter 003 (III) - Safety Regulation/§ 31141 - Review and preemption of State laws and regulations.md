@@ -56,7 +56,7 @@ Written Notice of Decisions.—Not later than 10 days after making a decision un
 
 (f)
 
-Judicial Review and Venue.—(1) Not later than 60 days after the Secretary makes a decision under subsection (c) of this section, or grants or denies a petition for a waiver under subsection (d) of this section, a person (including a State) adversely affected by the decision, grant, or denial may file a petition for judicial review. The petition may be filed in the court of appeals of the United States for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business.
+Judicial Review and Venue.—(1) Not later than 60 days after the Secretary makes a decision under subsection (c) of this section, or grants or denies a petition for a waiver under subsection (d) of this section, a person (including a State) adversely affected by the decision, grant, or denial may file a petition for judicial review. The petition may be filed in the court ofappeals of the United States for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business.
 
 (2) The court has jurisdiction to review the decision, grant, or denial and to grant appropriate relief, including interim relief, as provided in chapter 7 of title 5.
 

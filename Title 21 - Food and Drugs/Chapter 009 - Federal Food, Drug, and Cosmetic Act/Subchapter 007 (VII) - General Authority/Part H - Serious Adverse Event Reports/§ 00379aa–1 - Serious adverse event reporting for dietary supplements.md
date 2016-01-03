@@ -38,7 +38,7 @@ In this section:
 
 #### (2) Retailer
 
-&emsp;A retailer whose name appears on the label described in paragraph (1) as a distributormay, by agreement, authorize the manufacturer or packer of the dietary supplement to submit the required reports for such dietary supplements to the Secretary so long as the retailer directs to the manufacturer or packer all adverse events associated with such dietary supplement that are reported to the retailer through the address or telephone number described in section 343(y) of this title.
+&emsp;A retailer whose name appears on the label described in paragraph (1) as a distributor may, by agreement, authorize the manufacturer or packer of the dietary supplement to submit the required reports for such dietary supplements to the Secretary so long as the retailer directs to the manufacturer or packer all adverse events associated with such dietary supplement that are reported to the retailer through the address or telephone number described in section 343(y) of this title.
 
 #### (c) Submission of reports
 
@@ -116,7 +116,7 @@ The submission of any adverse event report in compliance with this section shall
 
 #### (C) Use of safety reports
 
-&emsp;&emsp;Nothing in this section shall permit a State, territory, or political subdivision of aState or territory, to use any safety report received from the Secretary in a manner inconsistent with subsection (g) or section 379v of this title.
+&emsp;&emsp;Nothing in this section shall permit a State, territory, or political subdivision of a State or territory, to use any safety report received from the Secretary in a manner inconsistent with subsection (g) or section 379v of this title.
 
 #### (i) Authorization of appropriations
 

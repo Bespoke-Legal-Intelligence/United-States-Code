@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(E) the amount of the shareholder's deduction for depletion for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(11)(B).
 
-> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined in section 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property. The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2014.
+> &emsp;The decrease under subparagraph (B) by reason of a charitable contribution (as defined in section 170(c)) of property shall be the amount equal to the shareholder's pro rata share of the adjusted basis of such property.
 
 #### (b) Special rules
 
@@ -58,9 +58,11 @@
 
 &emsp;&emsp;The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, title I, §137(a), Dec. 19, 2014, 128 Stat. 4019.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII,§§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874; Pub. L. 109–280, title XII, §1203(a), Aug. 17, 2006, 120 Stat. 1066; Pub. L. 110–343, div. C, title III, §307(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §752(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §325(a), Jan. 2, 2013, 126 Stat. 2333; Pub. L. 113–295, div. A, title I, §137(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §115(a), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–113 struck out "The preceding sentence shall not apply to contributions made in taxable years beginning after December 31, 2014." at end of concluding provisions.
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013" in concluding provisions.
 
@@ -81,6 +83,10 @@ Subsec. (b)(4). Pub. L. 104–188, §1313(a), added par. (4).
 Subsec. (b)(2)(B). Pub. L. 98–369, §721(w), substituted "for any taxable year beginning after December 31, 1982, there is" for "for any taxable year there is".
 
 Subsec. (b)(3). Pub. L. 98–369, §721(d), inserted "and 166(d)" in heading and text.
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §115(b), Dec. 18, 2015, 129 Stat. 3049, provided that: "The amendment made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2014."
 
 #### Effective Date of 2014 Amendment
 
@@ -106,7 +112,7 @@ Pub. L. 109–280, title XII, §1203(b), Aug. 17, 2006, 120 Stat. 1066, provided
 
 Pub. L. 104–188, title I, §1313(b), Aug. 20, 1996, 110 Stat. 1785, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
-Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as ifincluded in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1984 Amendment
 

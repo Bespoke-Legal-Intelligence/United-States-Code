@@ -50,7 +50,7 @@ The Secretary shall—
 
 #### (B) Compounded basis
 
-&emsp;&emsp;The adjustment made each fiscal year under subparagraph (A) shall be added on acompounded basis to the sum of all adjustments made each fiscal year after fiscal year 2014 under subparagraph (A).
+&emsp;&emsp;The adjustment made each fiscal year under subparagraph (A) shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2014 under subparagraph (A).
 
 #### (3) Small business adjustment factor
 
@@ -64,7 +64,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an outsourcing facility with gross annual sales of $1,000,000 or less in the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which the fees under this section are assessed, the amount of the establishment fee under subsection (b) for a fiscal year shall be equal to L1/3L of the amount calculated under paragraph (1)(A)(i) for such fiscal year.
+&emsp;&emsp;In the case of an outsourcing facility with gross annual sales of $1,000,000 or less in the 12 months ending April 1 of the fiscal year immediately preceding the fiscal year in which the fees under this section are assessed, the amount of the establishment fee under subsection (b) for a fiscal year shall be equal to \\1/3\\ of the amount calculated under paragraph (1)(A)(i) for such fiscal year.
 
 #### (B) Application
 
@@ -88,7 +88,7 @@ Funds received by the Secretary pursuant to this section shall be used to supple
 
 #### (f) Crediting and availability of fees
 
-Fees authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the costs of oversight of outsourcing facilities.
+Fees authorized under this section shall be collected and available for obligation only tothe extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the purpose of paying the costs of oversight of outsourcing facilities.
 
 #### (g) Collection of fees
 

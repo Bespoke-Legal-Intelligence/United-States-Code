@@ -46,7 +46,7 @@ Pub. L. 106–570, title I, §102, Dec. 27, 2000, 114 Stat. 3039, provided that:
 
 &emsp;"(6) Although malaria is a public health problem in more than 90 countries, more than 90 percent of all malaria cases are in sub-Saharan Africa.
 
-&emsp;"(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic,the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
+&emsp;"(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic, the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
 
 &emsp;"(8) These high risk areas represent many of the world's poorest nations.
 

@@ -52,7 +52,7 @@ No candidate for the office of President or Vice President may receive amounts f
 
 Pub. L. 94–283 added subsec. (d).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing, struck out in par. (1) "with respect to which payment is sought" after "campaign expenses" and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(4), 405(b), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing, struck out in par. (1) "with respect to which paymentis sought" after "campaign expenses" and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under section 9008 of this title.
 
 Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "Comptroller General" wherever appearing.
 
@@ -60,7 +60,7 @@ Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of theInternal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
 
 #### Effective Date of 1976 Amendment
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1961</b>—Subsecs. (a) to (c). Pub. L. 87–195, §642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuoussupervision and general direction of the assistance programs. See section 2382 of this title.
+<b>1961</b>—Subsecs. (a) to (c). Pub. L. 87–195, §642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuous supervision and general direction of the assistance programs. See section 2382 of this title.
 
 Subsec. (d). Pub. L. 87–195, §707, substituted "prevention of improper currency transactions" for "achievement of United States foreign policy objectives".
 
@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 86–108, §401(f)(2), substituted provisions making the Se
 
 #### Repeals
 
-Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected this section.
+Section 707 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565,pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 707 affected this section.
 
 #### Delegation of Functions
 

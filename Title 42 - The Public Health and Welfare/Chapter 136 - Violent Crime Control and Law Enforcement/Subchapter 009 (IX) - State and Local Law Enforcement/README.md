@@ -18,7 +18,7 @@ Sec. 3. <i>Mission</i>. (a) The Task Force shall, consistent with applicable law
 
 Sec. 4. <i>Administration</i>. (a) The Task Force shall hold public meetings and engage with Federal, State, tribal, and local officials, technical advisors, and nongovernmental organizations, among others, as necessary to carry out its mission.
 
-(b) The Director of the Office of Community Oriented Policing Services shall serve as Executive Director of the Task Force and shall, as directed by the Co-Chairs,convene regular meetings of the Task Force and supervise its work.
+(b) The Director of the Office of Community Oriented Policing Services shall serve as Executive Director of the Task Force and shall, as directed by the Co-Chairs, convene regular meetings of the Task Force and supervise its work.
 
 (c) In carrying out its mission, the Task Force shall be informed by, and shall strive to avoid duplicating, the efforts of other governmental entities.
 
@@ -50,3 +50,4 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [Part C - Improved Training and Technical Automation](Part%20C%20-%20Improved%20Training%20and%20Technical%20Automation/README.md)
 - [Part D - Other State and Local Aid](Part%20D%20-%20Other%20State%20and%20Local%20Aid/README.md)
 - [Part E - Improving the Quality of Representation in State Capital Cases](Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/README.md)
+- [Part F - Rafael Ramos and Wenjian Liu National Blue Alert](Part%20F%20-%20Rafael%20Ramos%20and%20Wenjian%20Liu%20National%20Blue%20Alert/README.md)

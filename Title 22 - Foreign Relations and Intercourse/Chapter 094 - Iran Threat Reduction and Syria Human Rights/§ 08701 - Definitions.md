@@ -30,6 +30,74 @@ Pub. L. 112–158, §1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: "This A
 
 Pub. L. 112–158, title VII, §701, Aug. 10, 2012, 126 Stat. 1265, provided that: "This title \[enacting subchapter VII of this chapter\] may be cited as the 'Syria Human Rights Accountability Act of 2012'."
 
+#### Report on Use by Iran of Funds Made Available Through Sanctions Relief
+
+Pub. L. 114–113, div. M, title V, §514, Dec. 18, 2015, 129 Stat. 2926, provided that:
+
+"(a)
+
+In General.—At the times specified in subsection (b), the Director of National Intelligence, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report assessing the following:
+
+&emsp;"(1) The monetary value of any direct or indirect forms of sanctions relief that Iran has received since the Joint Plan of Action first entered into effect.
+
+&emsp;"(2) How Iran has used funds made available through sanctions relief, including the extent to which any such funds have facilitated the ability of Iran—
+
+&emsp;&emsp;"(A) to provide support for—
+
+&emsp;&emsp;&emsp;"(i) any individual or entity designated for the imposition of sanctions for activities relating to international terrorism pursuant to an executive order or by the Office of Foreign Assets Control of the Department of the Treasury as of the date of the enactment of this Act \[Dec. 18, 2015\];
+
+&emsp;&emsp;&emsp;"(ii) any organization designated by the Secretary of State as a foreign terrorist organization under section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)) as of the date of the enactment of this Act;
+
+&emsp;&emsp;&emsp;"(iii) any other terrorist organization; or
+
+&emsp;&emsp;&emsp;"(iv) the regime of Bashar al Assad in Syria;
+
+&emsp;&emsp;"(B) to advance the efforts of Iran or any other country to develop nuclear weapons or ballistic missiles overtly or covertly; or
+
+&emsp;&emsp;"(C) to commit any violation of the human rights of the people of Iran.
+
+&emsp;"(3) The extent to which any senior official of the Government of Iran has diverted any funds made available through sanctions relief to be used by the official for personal use.
+
+"(b)
+
+Submission to Congress.—
+
+&emsp;"(1)
+
+In general.—The Director shall submit the report required by subsection (a) to the appropriate congressional committees—
+
+&emsp;&emsp;"(A) not later than 180 days after the date of the enactment of this Act \[Dec. 18, 2015\] and every 180 days thereafter during the period that the Joint Plan of Action is in effect; and
+
+&emsp;&emsp;"(B) not later than 1 year after a subsequent agreement with Iran relating to the nuclear program of Iran takes effect and annually thereafter during the period that such agreement remains in effect.
+
+&emsp;"(2)
+
+Nonduplication.—The Director may submit the information required by subsection (a) with a report required to be submitted to Congress under another provision of law if—
+
+&emsp;&emsp;"(A) the Director notifies the appropriate congressional committees of the intention of making such submission before submitting that report; and
+
+&emsp;&emsp;"(B) all matters required to be covered by subsection (a) are included in that report.
+
+"(c)
+
+Form of Reports.—Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on Ways and Means, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Joint plan of action.—The term 'Joint Plan of Action' means the Joint Plan of Action, signed at Geneva November 24, 2013, by Iran and by France, Germany, the Russian Federation, the People's Republic of China, the United Kingdom, and the United States, and all implementing materials and agreements related to the Joint Plan of Action, including the technical understandings reached on January 12, 2014, the extension thereto agreed to on July 18, 2014, and the extension thereto agreed to on November 24, 2014."
+
 #### Reports on Nuclear Program of Iran
 
 Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, provided that:
@@ -76,7 +144,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 &emsp;"(3) According to the Department of State, Hezbollah, with Iran as its state sponsor, is considered the 'most technically capable terrorist group in the world' with 'thousands of supporters, several thousand members, and a few hundred terrorist operatives,' and officials from the Iranian Islamic Revolutionary Guard Corps (IRGC) Qods Force have been working in concert with Hezbollah for many years.
 
-&emsp;"(4) The IRGC's Qods Force has a long history of supporting Hezbollah's military, paramilitary, andterrorist activities, providing it with guidance, funding, weapons, intelligence, and logistical support, and in 2007, the Department of the Treasury placed sanctions on the IRGC and its Qods Force for their support of terrorism and proliferation activities.
+&emsp;"(4) The IRGC's Qods Force has a long history of supporting Hezbollah's military, paramilitary, and terrorist activities, providing it with guidance, funding, weapons, intelligence, and logistical support, and in 2007, the Department of the Treasury placed sanctions on the IRGC and its Qods Force for their support of terrorism and proliferation activities.
 
 &emsp;"(5) The IRGC's Qods Force stations operatives in foreign embassies, charities, and religious and cultural institutions to foster relationships, often building on existing socioeconomic ties with the well established Shia Diaspora, and recent years have witnessed an increased presence in Latin America.
 
@@ -122,7 +190,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(1) a description of the presence, activities, and operations of Iran, the Iranian Islamic Revolutionary Guard Corps (IRGC), its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere, including information about their leaders, objectives, and areas of influence and information on their financial networks, trafficking activities, and safe havens;
 
-&emsp;"(2) a description of the terrain, population, ports, foreign firms, airports, borders, media outlets, financial centers, foreign embassies, charities, religious and cultural centers, and income-generating activities in the Western Hemisphere utilized by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere;
+&emsp;"(2) a description of the terrain, population, ports, foreign firms, airports, borders, media outlets, financial centers, foreign embassies, charities, religious and cultural centers, and income-generating activities in the Western Hemisphere utilized by Iran, the IRGC, its Qods Force, Hezbollah, and other terroristorganizations linked to Iran that may be present in the Western Hemisphere;
 
 &emsp;"(3) a description of the relationship of Iran, the IRGC, its Qods Force, and Hezbollah with transnational criminal organizations linked to Iran and other terrorist organizations in the Western Hemisphere, including information on financial networks and trafficking activities;
 
@@ -132,7 +200,7 @@ Matters To Be Included.—The strategy described in subsection (a) should includ
 
 &emsp;"(6) a description of activity by Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present at the United States borders with Mexico and Canada and at other international borders within the Western Hemisphere, including operations related to drug, human, and arms trafficking, human support networks, financial support, narco-tunneling, and technological advancements that incorporates—
 
-&emsp;&emsp;"(A) with respect to the United States borders, in coordination with the Governments of Mexico andCanada and the Secretary of Homeland Security, a plan to address resources, technology, and infrastructure to create a secure United States border and strengthen the ability of the United States and its allies to prevent operatives from Iran, the IRGC, its Qods Force, Hezbollah, or any other terrorist organization from entering the United States; and
+&emsp;&emsp;"(A) with respect to the United States borders, in coordination with the Governments of Mexico and Canada and the Secretary of Homeland Security, a plan to address resources, technology, and infrastructure to create a secure United States border and strengthen the ability of the United States and its allies to prevent operatives from Iran, the IRGC, its Qods Force, Hezbollah, or any other terrorist organization from entering the United States; and
 
 &emsp;&emsp;"(B) within Latin American countries, a multiagency action plan, in coordination with United States allies and partners in the region, that includes the development of strong rule-of-law institutions to provide security in such countries and a counterterrorism and counter-radicalization plan to isolate Iran, the IRGC, its Qods Force, Hezbollah, and other terrorist organizations linked to Iran that may be present in the Western Hemisphere from their sources of financial support and counter their facilitation of terrorist activity; and
 

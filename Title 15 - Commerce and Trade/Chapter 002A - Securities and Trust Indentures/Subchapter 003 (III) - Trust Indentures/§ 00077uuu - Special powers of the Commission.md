@@ -40,5 +40,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.
 

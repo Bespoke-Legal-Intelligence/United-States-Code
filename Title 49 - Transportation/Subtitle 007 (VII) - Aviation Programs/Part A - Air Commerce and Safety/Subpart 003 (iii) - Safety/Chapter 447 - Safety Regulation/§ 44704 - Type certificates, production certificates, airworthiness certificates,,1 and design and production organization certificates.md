@@ -6,7 +6,7 @@ Type Certificates.—
 
 &emsp;(1)
 
-Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. TheAdministrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
 &emsp;(2)
 
@@ -182,7 +182,7 @@ Subsec. (e). Pub. L. 112–95, §303(a), amended subsec. (e) generally. Prior to
 
 Subsec. (a)(4). Pub. L. 109–59, §4405(4), added par. (4).
 
-<b>2003</b>—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which readas follows: "Type certificates, production certificates, and airworthiness certificates".
+<b>2003</b>—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: "Type certificates, production certificates, and airworthiness certificates".
 
 Subsec. (a)(3). Pub. L. 108–176, §811, added par. (3).
 
@@ -224,7 +224,7 @@ Pub. L. 113–53, Nov. 27, 2013, 127 Stat. 584, provided that:
 
 &emsp;"(7) Since 2003, the United States lost 10,000 active private pilots per year on average, partially due to a lack of cost-effective, new small airplanes.
 
-&emsp;"(8) General aviation safety can be improved by modernizing and revamping the regulations relating to small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
+&emsp;"(8) General aviation safety can be improved by modernizing and revamping the regulations relatingto small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
 
 #### "SEC. 3. SAFETY AND REGULATORY IMPROVEMENTS FOR GENERAL AVIATION.
 
@@ -346,7 +346,7 @@ In general.—The Administrator of the Federal Aviation Administration shall tak
 
 &emsp;"(2)
 
-Revision of order.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
+Revision of order.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\],the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
 
 &emsp;"(3)
 

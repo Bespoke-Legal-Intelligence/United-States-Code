@@ -4,7 +4,7 @@
 
 #### (1) Employees of depository institutions
 
-&emsp;No insured depository institution may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to any Federal banking agency or to the Attorney General regarding—
+&emsp;No insured depository institution may discharge or otherwise discriminate against anyemployee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to any Federal banking agency or to the Attorney General regarding—
 
 &emsp;&emsp;(A) a possible violation of any law or regulation; or
 
@@ -54,7 +54,7 @@ For purposes of subsections (a) and (c), the term "Federal banking agency" means
 
 The legal burdens of proof that prevail under subchapter III of chapter 12 of title 5 shall govern adjudication of protected activities under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204, §21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L.103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
+(Sept. 21, 1950, ch. 967, §2\[33\], as added Pub. L. 101–73, title IX, §932(a), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(a)(1)–(3), Dec. 19, 1991, 105 Stat. 2331, 2332; Pub. L. 103–204, §21(a), Dec. 17, 1993, 107 Stat. 2406; Pub. L. 103–325, title VI, §602(a)(61), (c), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 111–203, title III, §363(10), July 21, 2010, 124 Stat. 1555.)
 
 #### Amendments
 

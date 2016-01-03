@@ -48,7 +48,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(6) The term "mandatory contributions" means amounts contributed to the plan by a participant which are required as a condition of employment, as a condition of participation in such plan, or as a condition of obtaining benefits under the plan attributable to employer contributions. For this purpose, the total amount of mandatory contributions of a participant is the amount of such contributions reduced (but not below zero) by the sum of the amounts paid or distributed to him under the plan before its termination.
 
-&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of this section in accordance with regulations prescribed by the corporation.
+&emsp;(7) A plan may establish subclasses and categories within the classes described in paragraphs (1) through (6) of subsection (a) of thissection in accordance with regulations prescribed by the corporation.
 
 #### (c) Increase or decrease in value of assets
 
@@ -148,7 +148,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 &emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7),Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### References in Text
 

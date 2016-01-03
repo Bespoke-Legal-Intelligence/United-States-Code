@@ -34,7 +34,7 @@ Definition.—In this subsection, the term "State" means a State of the United S
 
 &emsp;(2)
 
-In general.—Under regulations and restrictions the Administrator may prescribe, subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
+In general.—Under regulations and restrictions the Administrator may prescribe,subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
 
 &emsp;&emsp;(A) a state <sup>1</sup> or county extension service engaged in cooperative agricultural extension work under the Smith-Lever Act (7 U.S.C. 341 et seq.);
 

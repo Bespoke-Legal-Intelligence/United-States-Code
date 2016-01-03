@@ -36,7 +36,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 (2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1994, may receive further financial assistance for weatherization under this part.
 
-(3) Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and (4) shall be adjusted annually by increasing the average amount by an amount equal to—
+(3) Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and\(4) shall be adjusted annually by increasing the average amount by an amount equal to—
 
 &emsp;(A) the average amount for the previous fiscal year, multiplied by
 
@@ -96,7 +96,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654; Pub. L. 111–5, div. A, title IV, §407(b), (e), Feb. 17, 2009, 123 Stat. 146.)
+(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L.106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654; Pub. L. 111–5, div. A, title IV, §407(b), (e), Feb. 17, 2009, 123 Stat. 146.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Subsec. (c)(3), (4). Pub. L. 101–440, §7(e)(2), added pars. (3) and (4).
 
 Subsec. (d). Pub. L. 101–440, §7(i), added subsec. (d).
 
-Pub. L. 101–440, §7(f), struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined tohave demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
+Pub. L. 101–440, §7(f), struck out subsec. (d) which established a performance fund to provide financial assistance to those States the Secretary determined to have demonstrated the best performance during the previous fiscal year in providing weatherization assistance.
 
 Subsec. (e). Pub. L. 101–440, §7(i), added subsec. (e).
 

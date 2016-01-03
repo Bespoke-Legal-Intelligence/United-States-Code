@@ -70,7 +70,7 @@ In any case in which there is a complete or partial withdrawal described in subs
 
 #### (f) Agreement between plan sponsors of old plan and new plan to transfer in compliance with other statutory provisions; reduction of withdrawal liability of employer from old plan; amount of withdrawal liability of employer to new plan
 
-(1) Notwithstanding subsections (b) and (e) of this section, the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer's liability with respect to the withdrawal from the old plan shall be reduced under subsection (c) of this section as if assets and liabilities had been transferred in accordance with this section.
+(1) Notwithstanding subsections (b) and (e) of this section, the plan sponsors of the old plan and the new plan may agree to a transfer of assets and liabilities that complies with sections 1411 and 1414 of this title, rather than this section, except that the employer's liability with respect to the withdrawal from the old planshall be reduced under subsection (c) of this section as if assets and liabilities had been transferred in accordance with this section.
 
 (2) If the employer withdraws from the new plan within 240 months after the effective date of a transfer of assets and liabilities described in this section, the amount of the employer's withdrawal liability to the new plan shall be the greater of—
 

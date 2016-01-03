@@ -26,7 +26,7 @@ The Secretary shall identify and publish a recommended core set of adult health 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 12 months after the release of the recommended core set of adult healthquality measures under paragraph (1)) <sup>1</sup>, the Secretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under section 1320b–9a(b) of this title.
+&emsp;&emsp;Not later than 12 months after the release of the recommended core set of adult health quality measures under paragraph (1)) <sup>1</sup>, the Secretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under section 1320b–9a(b) of this title.
 
 #### (B) Revising, strengthening, and improving initial core measures
 
@@ -40,7 +40,7 @@ Nothing in this section shall be construed as supporting the restriction of cove
 
 #### (1) Annual State reports
 
-&emsp;Each State with a State plan or waiver approved under subchapter XIX shall annually report (separately or as part of the annual report required under section 1320b–9a(c) of this title), to the Secretary on the—
+&emsp;Each State with a State plan or waiver approved under subchapter XIX shall annuallyreport (separately or as part of the annual report required under section 1320b–9a(c) of this title), to the Secretary on the—
 
 &emsp;&emsp;(A) State-specific adult health quality measures applied by the State under the such <sup>2</sup> plan, including measures described in subsection (a)(5); and
 

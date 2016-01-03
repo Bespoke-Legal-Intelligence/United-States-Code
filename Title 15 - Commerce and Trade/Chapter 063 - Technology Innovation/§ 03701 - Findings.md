@@ -46,7 +46,7 @@ Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: "T
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: "This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the 'National Competitiveness Technology Transfer Act of 1989'."
+Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: "This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title andenacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the 'National Competitiveness Technology Transfer Act of 1989'."
 
 #### Short Title of 1988 Amendment
 
@@ -334,7 +334,7 @@ Procedures.—(1) The chairman shall call the first meeting of the Commission wi
 
 "(3) The Commission may use such personnel detailed from Federal agencies as may be necessary to enable it to carry out its duties.
 
-"(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowedtravel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
+"(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
 "(e)
 
@@ -350,7 +350,7 @@ Termination.—The Commission shall terminate 6 months after the submission of i
 
 "(h)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for the fiscal years 1992 and 1993."
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this sectionsuch sums as may be necessary for the fiscal years 1992 and 1993."
 
 #### Research, Development, Technology Utilization, and Government Procurement Policy
 
@@ -438,7 +438,7 @@ Contract With National Research Council.—Within 90 days after the date of enac
 
 "(b)
 
-Membership.—In selecting the members of the review panel, the National Research Council shall consult with and draw from, among others, laboratory accreditation organizations, Federal and State government agencies involved in testing and certification, professional societies, trade associations, small business, and labor organizations.
+Membership.—In selecting the members of the review panel, the National Research Council shall consult with and draw from, among others, laboratory accreditation organizations, Federal and State government agencies involved in testing and certification,professional societies, trade associations, small business, and labor organizations.
 
 "(c)
 

@@ -18,7 +18,7 @@ The first two paragraphs provide for the correction of the inadvertent joining o
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings,and, in subsec. (a), struck out "and such error arose without any deceptive intention on his part" after "not named in an issued patent".
+<b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, and, in subsec. (a), struck out "and such error arose without any deceptive intention on his part" after "not named in an issued patent".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 

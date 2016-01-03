@@ -64,7 +64,7 @@ The phase-in requirements under this subsection are as follows:
 
 #### (1) In general
 
-&emsp;Beginning in fiscal year 2013 and not ending until the fiscal year in which the ratio required under subsection (b) is achieved, in each such fiscal year the Administrator shall place in the Reserve Fund an amount equal tonot less than 7.5 percent of the reserve ratio required under subsection (b).
+&emsp;Beginning in fiscal year 2013 and not ending until the fiscal year in which the ratio required under subsection (b) is achieved, in each such fiscal year the Administrator shall place in the Reserve Fund an amount equal to not less than 7.5 percent of the reserve ratio required under subsection (b).
 
 #### (2) Amount satisfied
 

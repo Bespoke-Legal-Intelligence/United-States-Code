@@ -26,7 +26,7 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 &emsp;&emsp;&emsp;(i) a person described in subparagraph (A) does not participate in any deliberations or decisions of the public utility regarding the selection of a bank, trust company, banking association, or firm to underwrite or participate in the marketing of securities of the public utility, if the person serves as an officer or director of a bank, trust company, banking association, or firm that is under consideration in the deliberation process;
 
-&emsp;&emsp;&emsp;(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in theunderwriting of, or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
+&emsp;&emsp;&emsp;(ii) the bank, trust company, banking association, or firm of which the person is an officer or director does not engage in the underwriting of, or participate in the marketing of, securities of the public utility of which the person holds the position of officer or director;
 
 &emsp;&emsp;&emsp;(iii) the public utility for which the person serves or proposes to serve as an officer or director selects underwriters by competitive procedures; or
 
@@ -46,7 +46,7 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 &emsp;(D) any company, firm, or organization which during any one of the 3 calendar years immediately preceding the filing date was one of the 20 purchasers of electric energy which purchased (for purposes other than for resale) one of the 20 largest annual amounts of electric energy sold by such public utility (or by any public utility which is part of the same holding company system) during any one of such three calendar years;
 
-&emsp;(E) any entity referred to in subsection (b) of this section; and
+&emsp;(E) any entity referred to in subsection (b); and
 
 &emsp;(F) any company, firm, or organization which is controlled by any company, firm, or organization referred to in this paragraph.
 

@@ -24,7 +24,7 @@ His report shall show that in making the aforesaid recommendations he took into 
 
 &emsp;&emsp;(G) the interrelation between recreation areas, wilderness areas and park lands, and
 
-&emsp;(2) the establishment of a national park in the mountain peaks and upland areas together with such portions of the national recreation area as may be necessary and appropriate forthe proper administration and public use of and access to such parks lands, leaving the valleys and low-lying lands available for multiple-use purposes.
+&emsp;(2) the establishment of a national park in the mountain peaks and upland areas together with such portions of the national recreation area as may be necessary and appropriate for the proper administration and public use of and access to such parks lands, leaving the valleys and low-lying lands available for multiple-use purposes.
 
 #### (c) Master plan, cost estimates and proposed legislation for establishment of park administrative unit
 

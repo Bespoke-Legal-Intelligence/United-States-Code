@@ -4,7 +4,7 @@
 
 (b) The rate of interest on any direct loan made by the Secretary under this subchapter may not exceed the maximum rate in effect under subsection (a) of this section at the time the direct loan is made.
 
-(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1058, §1845; amended Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3745 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(3), Nov. 2, 1994, 108 Stat. 4682.)
+(Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1058, §1845; amended Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3745 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat.404–406; Pub. L. 103–446, title XII, §1201(a)(3), Nov. 2, 1994, 108 Stat. 4682.)
 
 #### Amendments
 

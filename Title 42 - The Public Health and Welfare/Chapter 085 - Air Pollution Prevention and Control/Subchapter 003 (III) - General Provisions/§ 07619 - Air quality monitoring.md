@@ -66,7 +66,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 &emsp;&emsp;&emsp;(iv) the principle that each State must take necessary measures to safeguard public health regardless of the source of the air pollution; and
 
-&emsp;&emsp;&emsp;(v) the principle that air quality data should be carefully screened to ensure thatevents not likely to recur are represented accurately in all monitoring data and analyses.
+&emsp;&emsp;&emsp;(v) the principle that air quality data should be carefully screened to ensure that events not likely to recur are represented accurately in all monitoring data and analyses.
 
 #### (B) Requirements
 

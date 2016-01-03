@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State shall use a portion of the amounts provided under a grant awarded under section 300ff–21 of this title to establish a program under section 300ff–22(b)(3)(B) of this title to provide therapeutics to treat HIV/AIDS or prevent the serious deterioration of health arising from HIV/AIDS in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
+A State shall use a portion of the amounts provided under a grant awarded under section300ff–21 of this title to establish a program under section 300ff–22(b)(3)(B) of this title to provide therapeutics to treat HIV/AIDS or prevent the serious deterioration of health arising from HIV/AIDS in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
 
 #### (b) Eligible individual
 
@@ -52,7 +52,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 A State shall ensure that any drug rebates received on drugs purchased from funds provided pursuant to this section are applied to activities supported under this subpart, with priority given to activities described under this section.
 
-(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §§201(c)(4), 202, 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2788, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §§201(c)(4), 202, 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2788, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### References in Text
 

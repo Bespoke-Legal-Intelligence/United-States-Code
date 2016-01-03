@@ -2,7 +2,7 @@
 
 #### (a) Institution of conservation practices
 
-Notwithstanding any provision of this subchapter, or any order of the District Court pursuant to section 640d–2 or 640d–3 of this title, the Secretary is authorized and directed to immediately commence reduction of the numbers of all the livestock now being grazed upon the lands within the joint use area and completesuch reductions to carrying capacity of such lands, as determined by the usual range capacity standards as established by the Secretary after December 22, 1974. The Secretary is directed to institute such conservation practices and methods within such area as are necessary to restore the grazing potential of such area to the maximum extent feasible.
+Notwithstanding any provision of this subchapter, or any order of the District Court pursuant to section 640d–2 or 640d–3 of this title, the Secretary is authorized and directed to immediately commence reduction of the numbers of all the livestock now being grazed upon the lands within the joint use area and complete such reductions to carrying capacity of such lands, as determined by the usual range capacity standards as established by the Secretary after December 22, 1974. The Secretary is directed to institute such conservation practices and methods within such area as are necessary to restore the grazing potential of such area to the maximum extent feasible.
 
 #### (b) Survey location of monuments and fencing of boundaries
 

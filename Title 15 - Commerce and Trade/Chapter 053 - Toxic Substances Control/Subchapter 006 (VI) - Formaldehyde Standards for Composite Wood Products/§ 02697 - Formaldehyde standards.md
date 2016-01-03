@@ -122,7 +122,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) one test conducted pursuant to test method ASTM E–1333–96 (2002) or, subject to clause (ii), ASTM D–6007–02; and
 
-&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 orASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
+&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 or ASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
 
 &emsp;&emsp;(ii) Test results obtained under clause (i)(I) or (II) by any test method other than ASTM E–1333–96 (2002) must include a showing of equivalence by means established by the Administrator through rulemaking.
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standardsdescribed in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
+&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standards described in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
 
 #### (2) Emission standards
 
@@ -310,7 +310,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;&emsp;(A) the doors are made from composite wood products manufactured with no-added formaldehyde-based resins or ultra low-emitting formaldehyde resins; or
 
-&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood,particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
+&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood, particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
 
 #### (d) Regulations
 

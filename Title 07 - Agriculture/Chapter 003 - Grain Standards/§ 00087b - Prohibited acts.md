@@ -100,7 +100,7 @@
 
 <b>1994</b>—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1993</b>—Pub. L. 103–156, §12(l), which directed amendment of "Section 13", without specifying the name of the Act being amended, was executed to this section,which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–156, §12(l), which directed amendment of "Section 13", without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 103–156, §12(l)(1), substituted "the representative of the Administrator" for "his representative".
 

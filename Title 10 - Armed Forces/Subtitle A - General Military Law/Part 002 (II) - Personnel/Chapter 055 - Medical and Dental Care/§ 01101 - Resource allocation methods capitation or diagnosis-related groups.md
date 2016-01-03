@@ -10,7 +10,7 @@ Exception for Mobilization Missions.—Capitation or diagnosis-related groups sh
 
 (c)
 
-Content of Regulations.—Such regulations may establish a system of diagnosis-related groups similar to the system established under section 1886(d)(4) of the Social Security Act (42 U.S.C. 1395ww(d)(4)). Such regulations may include the following:
+Content of Regulations.—Such regulations may establish a system of diagnosis-related groups similar to the system establishedunder section 1886(d)(4) of the Social Security Act (42 U.S.C. 1395ww(d)(4)). Such regulations may include the following:
 
 &emsp;(1) A classification of inpatient treatments by diagnosis-related groups and a similar classification of outpatient treatment.
 

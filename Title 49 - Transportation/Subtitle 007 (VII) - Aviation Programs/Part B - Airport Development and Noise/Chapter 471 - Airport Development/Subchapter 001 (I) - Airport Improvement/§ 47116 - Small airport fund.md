@@ -26,11 +26,11 @@ Priority Consideration for Certain Projects.—
 
 &emsp;(1)
 
-Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+Construction of new runways.—In making grants to sponsors described in subsection\(b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
 &emsp;(2)
 
-Airport development for turbine powered aircraft.—In making grants to sponsorsdescribed in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
+Airport development for turbine powered aircraft.—In making grants to sponsors described in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent.
 
 (e)
 

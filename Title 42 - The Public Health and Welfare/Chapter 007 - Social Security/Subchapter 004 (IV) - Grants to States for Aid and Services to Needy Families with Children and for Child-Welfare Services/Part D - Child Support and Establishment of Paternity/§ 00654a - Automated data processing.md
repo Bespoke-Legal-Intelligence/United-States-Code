@@ -86,7 +86,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (5) Updating and monitoring
 
-&emsp;The State agency operating the automated system required by this section shall promptly establish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are being provided under the State plan approved under this part, on the basis of—
+&emsp;The State agency operating the automated system required by this section shall promptly establish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are beingprovided under the State plan approved under this part, on the basis of—
 
 &emsp;&emsp;(A) information on administrative actions and administrative and judicial proceedings and orders relating to paternity and support;
 
@@ -98,7 +98,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (f) Information comparisons and other disclosures of information
 
-The State shall use the automated system required by this section to extract information from (at such times, and in such standardized format or formats, as may be required by the Secretary), to share and compare information with, and to receive information from, other data bases and information comparison services, in order to obtain (or provide) information necessary to enable the State agency (or the Secretary or other State or Federal agencies) to carry out this part, subject to section 6103 of the Internal Revenue Code of 1986. Such informationcomparison activities shall include the following:
+The State shall use the automated system required by this section to extract information from (at such times, and in such standardized format or formats, as may be required by the Secretary), to share and compare information with, and to receive information from, other data bases and information comparison services, in order to obtain (or provide) information necessary to enable the State agency (or the Secretary or other State or Federal agencies) to carry out this part, subject to section 6103 of the Internal Revenue Code of 1986. Such information comparison activities shall include the following:
 
 #### (1) Federal Case Registry of Child Support Orders
 
@@ -124,13 +124,15 @@ The State shall use the automated system required by this section to extract inf
 
 #### (1) In general
 
-&emsp;The State shall use the automated system required by this section, to the maximum extent feasible, to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
+&emsp;The State shall use the automated system required by this section to assist and facilitate the collection and disbursement of support payments through the State disbursement unit operated under section 654b of this title, through the performance of functions, including, at a minimum—
 
 &emsp;&emsp;(A) transmission of orders and notices to employers (and other debtors) for the withholding of income—
 
-&emsp;&emsp;&emsp;(i) within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State; and
+&emsp;&emsp;&emsp;(i) within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State;
 
-&emsp;&emsp;&emsp;(ii) using uniform formats prescribed by the Secretary;
+&emsp;&emsp;&emsp;(ii) using uniform formats prescribed by the Secretary; and
+
+&emsp;&emsp;&emsp;(iii) at the option of the employer, using the electronic transmission methods prescribed by the Secretary;
 
 &emsp;&emsp;(B) ongoing monitoring to promptly identify failures to make timely payment of support; and
 
@@ -145,24 +147,6 @@ The State shall use the automated system required by this section to extract inf
 The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by section 666(c) of this title.
 
 (Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285; Pub. L. 113–183, title III, §306(a), Sept. 29, 2014, 128 Stat. 1949.)
-
-#### Amendment of Subsection (g)(1)
-
-<i>Pub. L. 113–183, title III, §306, Sept. 29, 2014, 128 Stat. 1949, provided that, effective Oct. 1, 2015, subsection (g)(1) of this section is amended as follows:</i>
-
-<i>(1) by striking ", to the maximum extent feasible,"; and</i>
-
-<i>(2) in subparagraph (A)—</i>
-
-<i>(A) by striking "and" at the end of clause (i);</i>
-
-<i>(B) by adding "and" at the end of clause (ii); and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) at the option of the employer, using the electronic transmission methods prescribed by the Secretary;".</i>
-
-<i>See 2014 Amendment notes below.</i>
 
 #### References in Text
 
@@ -186,7 +170,7 @@ Subsec. (h). Pub. L. 104–193, §325(b), added subsec. (h).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–183, title III, §306(b), Sept. 29, 2014, 128 Stat. 1949, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on October 1, 2015."
+Pub. L. 113–183, title III, §306(b), Sept. 29, 2014, 128 Stat. 1949, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2015."
 
 #### Effective Date of 1997 Amendment
 

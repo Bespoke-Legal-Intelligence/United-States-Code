@@ -62,5 +62,5 @@ Subsec. (b). Pub. L. 100–456, §1503(b), substituted "the next fiscal year" fo
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No.12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 

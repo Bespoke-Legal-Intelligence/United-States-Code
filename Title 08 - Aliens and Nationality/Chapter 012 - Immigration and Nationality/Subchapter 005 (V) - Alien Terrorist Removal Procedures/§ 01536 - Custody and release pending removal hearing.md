@@ -30,11 +30,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), if a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title, and the Attorney General doesnot seek review of such denial, the alien shall be released from custody.
+&emsp;&emsp;Subject to subparagraph (B), if a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title, and the Attorney General does not seek review of such denial, the alien shall be released from custody.
 
 #### (B) Application of regular procedures
 
-&emsp;&emsp;Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II of this chapter.
+&emsp;&emsp;Subparagraph (A) shall not prevent the arrest and detention of the alien pursuant to subchapter II.
 
 #### (b) Conditional release if order denied and review sought
 

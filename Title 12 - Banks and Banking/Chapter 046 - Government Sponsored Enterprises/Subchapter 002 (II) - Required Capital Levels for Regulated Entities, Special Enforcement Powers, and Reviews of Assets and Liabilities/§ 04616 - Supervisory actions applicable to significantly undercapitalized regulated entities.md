@@ -18,7 +18,7 @@
 
 #### (b) Specific actions
 
-In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
+In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
 
 #### (1) Limitation on increase in obligations
 
@@ -56,7 +56,7 @@ In addition to any other actions taken by the Director (including actions under 
 
 &emsp;The Director may reclassify as critically undercapitalized a regulated entity that is classified as significantly undercapitalized (and the regulated entity shall be subject to the provisions of section 4617 of this title) if—
 
-&emsp;&emsp;(A) the regulated entity does not submit a capital restoration plan that is substantially in compliance with section 4622 of this title within the applicable period or the Director does not approve the capital restoration plan submitted by the regulated entity; or
+&emsp;&emsp;(A) the regulated entity does not submit a capital restoration plan that is substantially in compliance with section 4622 of this titlewithin the applicable period or the Director does not approve the capital restoration plan submitted by the regulated entity; or
 
 &emsp;&emsp;(B) the Director determines that the regulated entity has failed to make, in good faith, reasonable efforts necessary to comply with the capital restoration plan and fulfill the schedule for the plan approved by the Director.
 

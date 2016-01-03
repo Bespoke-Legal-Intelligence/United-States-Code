@@ -22,7 +22,7 @@ Employment Investigation Requirement.—(1)(A) The Under Secretary of Transporta
 
 Background checks of current employees.—
 
-&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security <sup>2</sup> shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
 &emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
@@ -294,7 +294,7 @@ Subsecs. (f) to (h). Pub. L. 104–264, §502(a), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -302,7 +302,7 @@ Pub. L. 104–264, title III, §304(b), Oct. 9, 1996, 110 Stat. 3252, provided t
 
 Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 
@@ -337,4 +337,6 @@ Interim report.—Not later than 1 year after the date of enactment of this Act 
 Notification concerning sufficiency of operation.—If the Administrator determines that the program described in subsection (a) is not sufficiently operational 2 years after the date of enactment of this Act to permit its utilization in accordance with subsection (a), the Administrator shall notify the committees referred to in paragraph (1) of that determination."
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

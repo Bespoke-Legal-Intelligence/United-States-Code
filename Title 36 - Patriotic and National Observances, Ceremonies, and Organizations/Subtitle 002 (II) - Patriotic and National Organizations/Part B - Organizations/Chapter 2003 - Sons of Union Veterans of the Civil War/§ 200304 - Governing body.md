@@ -16,7 +16,7 @@ Council of Administration.—(1) During the intervals between the national encam
 
 (c)
 
-Officers.—(1) The officers of the corporation are a commander in chief, a senior vice commander in chief, a junior vice commander in chief, a secretary, a treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
+Officers.—(1) The officers of the corporation are a commander in chief, a senior vicecommander in chief, a junior vice commander in chief, a secretary, a treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
 
 (2) The manner of selection, term of office, and duties of the officers are as provided in the constitution and bylaws.
 

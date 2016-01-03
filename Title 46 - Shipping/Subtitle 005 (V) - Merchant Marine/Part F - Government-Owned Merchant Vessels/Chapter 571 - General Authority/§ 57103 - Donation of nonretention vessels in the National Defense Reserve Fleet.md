@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel of insufficient value to warrant its further preservation, if the recipient—
+In General.—The Secretary of Transportation may convey the right, title, and interestof the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel of insufficient value to warrant its further preservation, if the recipient—
 
 &emsp;(1) is a non-profit organization, a State, or a municipal corporation or political subdivision of a State;
 

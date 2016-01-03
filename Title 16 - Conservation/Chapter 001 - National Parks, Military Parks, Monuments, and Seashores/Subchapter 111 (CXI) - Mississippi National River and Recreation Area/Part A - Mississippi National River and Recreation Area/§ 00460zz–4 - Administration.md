@@ -6,7 +6,7 @@ The Secretary shall administer the Area in accordance with this part. Only those
 
 #### (b) State and local authorities
 
-The Secretary shall consult and cooperate with the State of Minnesota and its political subdivisions concerning the development and management of Federal lands within the Area.
+The Secretary shall consult and cooperate with the State of Minnesota and its politicalsubdivisions concerning the development and management of Federal lands within the Area.
 
 #### (c) Land acquisition
 
@@ -14,7 +14,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 &emsp;(1) Any lands or interests therein owned by the State of Minnesota or any political subdivision thereof may be acquired only by donation.
 
-&emsp;(2) Privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary makes a determination pursuant to subsection (d)(2) of this section. In no event may the Secretary use the authority provided in subsection (d)(3) of this section to acquire land or interests in land without the owner's consent for any use exercised prior to January 1, 1987, that is consistent with the plan under section 460zz–2 of this title.
+&emsp;(2) Privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary makes a determination pursuant to subsection (d)(2). In no event may the Secretary use the authority provided in subsection (d)(3) to acquire land or interests in land without the owner's consent for any use exercised prior to January 1, 1987, that is consistent with the plan under section 460zz–2 of this title.
 
 #### (d) Review of local plans
 
@@ -28,7 +28,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 #### (3) Enforcement
 
-&emsp;In those sections of the Area where local plans, laws and ordinances, or amendments thereto or variances therefrom are found by the Secretary not to be in conformance with the plan approved pursuant to section 460zz–2 of this title, or are not being enforced in amanner consistent with the plan, the Secretary shall notify the local government authority concerned. The Secretary may withhold from the local government authority concerned or, require reimbursement of, (A) Federal funds made available for implementation of the plan, or (B) any grant under section 460zz–5(a) of this title if the local plan, law, ordinance, amendment, or variance is not modified to conform with the plan and enforced in such manner as will carry out the purposes of this part. If the State has not initiated, within a 60-day period, such judicial or other action as necessary to ensure conformity with the plan, and if noncompliance with the plan or failure to enforce the plan continues after the end of such 60-day period, the Secretary may acquire, subject to appropriations, land or interests in land under this subsection without the consent of the owner thereof. Land and interests in land acquired pursuant to this subsection shall be restricted to the geographical area of the local government unit failing to conform with the plan and shall be limited to those lands clearly and directly required, in the judgment of the Secretary, for the protection of the Area in a manner compatible with the plan.
+&emsp;In those sections of the Area where local plans, laws and ordinances, or amendments thereto or variances therefrom are found by the Secretary not to be in conformance with the plan approved pursuant to section 460zz–2 of this title, or are not being enforced in a manner consistent with the plan, the Secretary shall notify the local government authority concerned. The Secretary may withhold from the local government authority concerned or, require reimbursement of, (A) Federal funds made available for implementation of the plan, or (B) any grant under section 460zz–5(a) of this title if the local plan, law, ordinance, amendment, or variance is not modified to conform with the plan and enforced in such manner as will carry out the purposes of this part. If the State has not initiated, within a 60-day period, such judicial or other action as necessary to ensure conformity with the plan, and if noncompliance with the plan or failure to enforce the plan continues after the end of such 60-day period, the Secretary may acquire, subject to appropriations, land or interests in land under this subsection without the consent of the owner thereof. Land and interests in land acquired pursuant to this subsection shall be restricted to the geographical area of the local government unit failing to conform with the plan and shall be limited to those lands clearly and directly required, in the judgment of the Secretary, for the protection of the Area in a manner compatible with the plan.
 
 #### (e) Retention by owner of use and occupancy
 

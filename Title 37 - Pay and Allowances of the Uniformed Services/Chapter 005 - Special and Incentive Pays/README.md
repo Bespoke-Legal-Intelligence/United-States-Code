@@ -88,6 +88,7 @@
 | [353\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000353%20-%20Skill%20incentive%20pay%20or%20proficiency%20bonus.md) | Skill incentive pay or proficiency bonus. |
 | [354\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000354%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
 | [355\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000355%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20critical%20military%20skills%20or%20assigned%20to%20high%20priority%20units.md) | Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units. |
+| [356\.](Subchapter%20002%20%28II%29%20-%20Consolidation%20of%20Special%20Pay%2C%20Incentive%20Pay%2C%20and%20Bonus%20Authorities/%C2%A7%2000356%20-%20Continuation%20pay%20full%20TSP%20members%20with%2012%20years%20of%20service.md) | Continuation pay: full TSP members with 12 years of service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -104,6 +105,8 @@
 
 #### Amendments
 
+<b>2015</b>—Pub. L. 114–92, div. A, title VI, §634(b), Nov. 25, 2015, 129 Stat. 851, which directed amendment of this analysis by adding item 356 "at the end", was executed by adding item 356 after item 355 to reflect the probable intent of Congress.
+
 <b>2013</b>—Pub. L. 113–66, div. A, title VI, §617(b), Dec. 26, 2013, 127 Stat. 782, added item 336.
 
 <b>2011</b>—Pub. L. 111–383, div. A, title X, §1075(c)(2), Jan. 7, 2011, 124 Stat. 4372, added item 312 and struck out former item 312 "Special pay: nuclear-qualified officers extending period of active duty".
@@ -116,7 +119,7 @@ Pub. L. 110–181, div. A, title VI, §661(d), Jan. 28, 2008, 122 Stat. 178, ame
 
 Pub. L. 109–163, div. A, title VI, §§629(d)(2), 631(c), 632(c)(2), 634(c)(2), 639(e)(2), 640(f)(2), 641(b), 642(c), 687(e)(2), Jan. 6, 2006, 119 Stat. 3297, 3299, 3300, 3302, 3303, 3305, 3306, 3336, added items 327 and 328, substituted "Special pay: general provisions" for "Special pay: health professionals; general provisions" in item 303a, "Special pay: bonus for affiliation or enlistment in the Selected Reserve" for "Special pay: bonus for enlistment in the Selected Reserve" in item 308c, "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in item 308d, "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve" in item 308j, "Special pay: bonus for members with foreign language proficiency" for "Special pay and bonus for members with foreign language proficiency" in item 316, and "Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units" for "Special pay: retention incentives for members qualified in a critical military skill" in item 323, and struck out item 308e "Special pay: bonus for reserve affiliation agreement" and item 312a "Special pay: nuclear-trained and qualified enlisted members".
 
-<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, added item 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
+<b>2004</b>—Pub. L. 108–375, div. A, title VI, §§619(b), 620(a)(2), (b)(2), Oct. 28, 2004, 118 Stat. 1952, 1954, addeditem 308j, substituted "Special pay and bonus for members with foreign language proficiency" for "Special pay: foreign language proficiency pay" in item 316, and struck out item 316a "Waiver of certification requirement".
 
 <b>2003</b>—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted "qualified members" for "qualified enlisted members" in item 314.
 
@@ -140,7 +143,7 @@ Pub. L. 104–106, div. A, title VI, §614(a)(2), Feb. 10, 1996, 110 Stat. 361, 
 
 Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substituted "Multiyear retention" for "Retention" in item 301d.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title VI, §§611(a)(2), 618(c)(2), title XII, §1203(a)(2), title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1576, 1579, 1657, 1717, revised chapterheading so as to appear in all capital letters, added item 301d, inserted "and nonphysician health care providers" after "psychologists" in item 302c, and added item 317.
+<b>1990</b>—Pub. L. 101–510, div. A, title VI, §§611(a)(2), 618(c)(2), title XII, §1203(a)(2), title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1576, 1579, 1657, 1717, revised chapter heading so as to appear in all capital letters, added item 301d, inserted "and nonphysician health care providers" after "psychologists" in item 302c, and added item 317.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title V, §505(a)(2), title VII, §§704(b)(2), 705(a)(2), 706(a)(2), Nov. 29, 1989, 103 Stat. 1438, 1471–1473, struck out "in the Public Health Service Corps" after "psychologists" in item 302c and added items 302d, 302e, and 308d.
 

@@ -20,7 +20,7 @@ The order in which the parties may take testimony shall be as follows:
 
 #### (d) Officer before whom testimony may be taken
 
-Testimony shall be taken before an officer authorized to administer oaths by the laws of theUnited States or of the place where the examination is held.
+Testimony shall be taken before an officer authorized to administer oaths by the laws of the United States or of the place where the examination is held.
 
 #### (e) Subpena
 

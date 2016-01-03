@@ -24,7 +24,7 @@ The Director for Emergency Communications shall ensure that a grant awarded to a
 
 #### (d) Use of funds
 
-A State that receives a grant under this section shall use the grant to implement thatState's Statewide Interoperability Plan required under section 194(f) of this title and approved under subsection (e), and to assist with activities determined by the Secretary to be integral to interoperable emergency communications.
+A State that receives a grant under this section shall use the grant to implement that State's Statewide Interoperability Plan required under section 194(f) of this title and approved under subsection (e), and to assist with activities determined by the Secretary to be integral to interoperable emergency communications.
 
 #### (e) Approval of plans
 
@@ -124,7 +124,7 @@ Each State that receives a grant under this section shall certify that the grant
 
 #### (1) Availability of funds to local and tribal governments
 
-&emsp;Not later than 45 days after receiving grant funds, any State that receives a grant underthis section shall obligate or otherwise make available to local and tribal governments—
+&emsp;Not later than 45 days after receiving grant funds, any State that receives a grant under this section shall obligate or otherwise make available to local and tribal governments—
 
 &emsp;&emsp;(A) not less than 80 percent of the grant funds;
 
@@ -144,7 +144,7 @@ Each State that receives a grant under this section shall certify that the grant
 
 #### (1) Annual reports by State grant recipients
 
-&emsp;A State that receives a grant under this section shall annually submit to the Director of Emergency Communications a report on the progress of the State in implementing that State's Statewide Interoperable Communications Plans required under section 194(f) of this title and achieving interoperability at the city, county, regional, State, and interstate levels. The Director shall make the reports publicly available, including by making them available on the Internet website of the Office of Emergency Communications, subject to any redactions that the Director determines are necessary to protect classified or other sensitive information.
+&emsp;A State that receives a grant under this section shall annually submit to the Director of Emergency Communications a report on the progress of the State in implementing that State's Statewide Interoperable Communications Plans required under section 194(f) of this title and achieving interoperability at the city, county, regional, State, and interstate levels. The Director shall make the reportspublicly available, including by making them available on the Internet website of the Office of Emergency Communications, subject to any redactions that the Director determines are necessary to protect classified or other sensitive information.
 
 #### (2) Annual reports to Congress
 

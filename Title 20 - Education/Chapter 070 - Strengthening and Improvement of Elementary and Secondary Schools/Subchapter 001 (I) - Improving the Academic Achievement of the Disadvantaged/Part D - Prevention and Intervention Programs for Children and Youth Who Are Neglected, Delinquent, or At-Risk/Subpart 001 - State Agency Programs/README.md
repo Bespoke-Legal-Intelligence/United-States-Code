@@ -13,4 +13,4 @@ subpart 1—state agency programs
 - [&sect; 06436 - Institution-wide projects](%C2%A7%2006436%20-%20Institution-wide%20projects.md)
 - [&sect; 06437 - Three-year programs or projects](%C2%A7%2006437%20-%20Three-year%20programs%20or%20projects.md)
 - [&sect; 06438 - Transition services](%C2%A7%2006438%20-%20Transition%20services.md)
-- [&sect; 06439 - Evaluation; technical assistance; annual model program](%C2%A7%2006439%20-%20Evaluation%3B%20technical%20assistance%3B%20annual%20model%20program.md)
+- [&sect; 06439 - Technical assistance](%C2%A7%2006439%20-%20Technical%20assistance.md)

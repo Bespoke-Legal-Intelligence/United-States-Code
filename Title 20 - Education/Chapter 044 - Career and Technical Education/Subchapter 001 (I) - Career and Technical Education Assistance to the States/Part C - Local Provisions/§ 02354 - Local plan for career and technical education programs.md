@@ -18,7 +18,7 @@ The eligible agency shall determine the requirements for local plans, except tha
 
 &emsp;&emsp;(B) improve the academic and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical education components of such programs through the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education programs to ensure learning in—
 
-&emsp;&emsp;&emsp;(i) the core academic subjects (as defined in section 7801 of this title); and
+&emsp;&emsp;&emsp;(i) a well-rounded education (as defined in section 7801 of this title); and
 
 &emsp;&emsp;&emsp;(ii) career and technical education subjects;
 
@@ -26,11 +26,11 @@ The eligible agency shall determine the requirements for local plans, except tha
 
 &emsp;&emsp;(D) ensure that students who participate in such career and technical education programs are taught to the same coherent and rigorous content aligned with challenging academic standards as are taught to all other students; and
 
-&emsp;&emsp;(E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in core academic subjects (as defined in section 7801 of this title);
+&emsp;&emsp;(E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in order to provide a well-rounded education (as defined in section 7801 of this title);
 
 &emsp;(4) describe how comprehensive professional development (including initial teacher preparation) for career and technical education, academic, guidance, and administrative personnel will be provided that promotes the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education (including curriculum development);
 
-&emsp;(5) describe how parents, students, academic and career and technical education teachers, faculty, administrators, career guidance and academic counselors, representatives of tech prep consortia (if applicable), representatives of the entities participating in activities described in section 2832 of title 29 (if applicable), representatives of business (including small business) and industry, labor organizations, representatives of special populations, and other interested individuals are involved in the development, implementation, and evaluation of career and technical education programs assisted under this subchapter, and how such individuals and entities are effectively informed about, and assisted in understanding, the requirements of this subchapter, including career and technical programs of study;
+&emsp;(5) describe how parents, students, academic and career and technical education teachers, faculty, administrators, career guidance and academic counselors, representatives of tech prep consortia (if applicable), representatives of the entities participating in activities described in section 3122 of title 29 (if applicable), representatives of business (including small business) and industry, labor organizations, representatives of special populations, and other interested individuals are involved in the development, implementation, and evaluation of career and technical education programs assisted under this subchapter, and how such individuals and entities are effectively informed about, and assisted in understanding, the requirements of this subchapter, including career and technical programs of study;
 
 &emsp;(6) provide assurances that the eligible recipient will provide a career and technical education program that is of such size, scope, and quality to bring about improvement in the quality of career and technical education programs;
 
@@ -52,15 +52,11 @@ The eligible agency shall determine the requirements for local plans, except tha
 
 &emsp;(12) describe efforts to improve—
 
-&emsp;&emsp;(A) the recruitment and retention of career and technical education teachers, faculty, and career guidance and academic counselors, including individuals in groups underrepresented in the teaching profession; and
+&emsp;&emsp;(A) the recruitment and retention of career and technical education teachers, faculty, and career guidance and academiccounselors, including individuals in groups underrepresented in the teaching profession; and
 
 &emsp;&emsp;(B) the transition to teaching from business and industry.
 
-(Pub. L. 88–210, title I, §134, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, §512(e)(5), July 22, 2014, 128 Stat. 1707.)
-
-#### Amendment of Subsection (b)(5)
-
-<i>Pub. L. 113–128, title V, §§506, 512(e)(5), July 22, 2014, 128 Stat. 1703, 1707, provided that, ef</i><i>fective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking "entities participating in activities described in section 2832 of title 29 (if applicable)" and inserting "entities participating in activities described in section 3122 of title 29 (if applicable)". See 2014 Amendment note below.</i>
+(Pub. L. 88–210, title I, §134, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, §512(e)(5), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(8), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### Prior Provisions
 
@@ -68,9 +64,17 @@ A prior section 2354, Pub. L. 88–210, title I, §134, as added Pub. L. 105–3
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(3)(B)(i). Pub. L. 114–95, §9215(n)(8)(A), substituted "a well-rounded education (as defined in section 7801 of this title)" for "the core academic subjects (as defined in section 7801 of this title)".
+
+Subsec. (b)(3)(E). Pub. L. 114–95, §9215(n)(8)(B), substituted "in order to provide a well-rounded education (as defined in section 7801 of this title)" for "in core academic subjects (as defined in section 7801 of this title)".
+
 <b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "entities participating in activities described in section 3122 of title 29 (if applicable)" for "entities participating in activities described in section 2832 of title 29 (if applicable)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

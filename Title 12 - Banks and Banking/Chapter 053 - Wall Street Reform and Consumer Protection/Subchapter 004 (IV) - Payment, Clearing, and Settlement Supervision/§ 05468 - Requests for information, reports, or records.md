@@ -14,7 +14,7 @@
 
 #### (1) Designated financial market utilities
 
-&emsp;The Board of Governors and the Council may each require a designated financial market utility to submit reports or data to the Board of Governors and the Council in such frequency and form as deemed necessary by the Board of Governors or the Council in order to assess the safety and soundness of the utility and the systemic risk that the utility's operations pose to the financial system.
+&emsp;The Board of Governors and the Council may each require a designated financial marketutility to submit reports or data to the Board of Governors and the Council in such frequency and form as deemed necessary by the Board of Governors or the Council in order to assess the safety and soundness of the utility and the systemic risk that the utility's operations pose to the financial system.
 
 #### (2) Financial institutions subject to standards for designated activities
 

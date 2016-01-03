@@ -97,8 +97,7 @@
 | [94\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000094%20-%20Venue%20of%20suits.md) | Venue of suits. |
 | [94a.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000094a%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
 | [95\.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095%20-%20Emergency%20limitations%20and%20restrictions%20on%20business%20of%20members%20of%20Federal%20Reserve%20System%3B%20designation%20of%20legal%20holiday%20for%20national%20banking%E2%80%A6.md) | Emergency limitations and restrictions on business of members of Federal reserve system; designation of legal holiday for national banking associations; exceptions; "State" defined. |
-| [95a.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095a%20-%20Regulation%20of%20transactions%20in%20foreign%20exchange%20of%20gold%20and%20silver%3B%20property%20transfers%3B%20vested%20interests%2C%20enforcement%20and%20penalties.md) | Regulation of transactions in foreign exchange of gold and silver; property transfers; vested interests, enforcement and penalties. |
-| [95b.](Subchapter%20004%20%28IV%29%20-%20Regulation%20of%20the%20Banking%20Business%3B%20Powers%20and%20Duties%20of%20National%20Banks/%C2%A7%2000095b%20-%20Ratification%20of%20acts%20of%20President%20and%20Secretary%20of%20the%20Treasury%20under%20section%2095a.md) | Ratification of acts of President and Secretary of the Treasury under section 95a. |
+| 95a, 95b. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

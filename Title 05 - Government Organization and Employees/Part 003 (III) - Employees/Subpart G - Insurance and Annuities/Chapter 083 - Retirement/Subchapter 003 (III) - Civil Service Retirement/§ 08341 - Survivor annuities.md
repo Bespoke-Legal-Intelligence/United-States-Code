@@ -36,7 +36,7 @@
 
 > dies and is survived by a widow or widower, the widow or widower is entitled to an annuity in an amount which would have been paid had the annuitant been married to the widow or widower at the time of retirement.
 
-(3) A spouse acquired after retirement is entitled to a survivor annuity under this subsectiononly upon electing this annuity instead of any other survivor benefit to which he may be entitled under this subchapter or another retirement system for Government employees. The annuity of the widow or widower under this subsection commences on the day after the annuitant dies. This annuity and the right thereto terminate on the last day of the month before the widow or widower—
+(3) A spouse acquired after retirement is entitled to a survivor annuity under this subsection only upon electing this annuity instead of any other survivor benefit to which he may be entitled under this subchapter or another retirement system for Government employees. The annuity of the widow or widower under this subsection commences on the day after the annuitant dies. This annuity and the right thereto terminate on the last day of the month before the widow or widower—
 
 &emsp;(A) dies; or
 
@@ -68,7 +68,7 @@
 
 &emsp;(ii) except as provided in subsection (k), remarries before becoming 55 years of age.
 
-(e)(1) For the purposes of this subsection, "former spouse" includes a former spouse who was married to an employee or Member for less than 9 months and a former spouse of an employee or Member who completed less than 18 months of service covered by this subchapter.
+(e)(1) For the purposes of this subsection, "former spouse" includes a former spouse whowas married to an employee or Member for less than 9 months and a former spouse of an employee or Member who completed less than 18 months of service covered by this subchapter.
 
 (2) If an employee or Member dies after completing at least 18 months of civilian service, or an employee or Member dies after retiring under this subchapter, and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the employee or Member, that surviving child is entitled to an annuity equal to the smallest of—
 
@@ -170,7 +170,7 @@
 
 (7) As used in this subsection, "court" means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
-(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as thewidow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
+(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as the widow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
 
 &emsp;(1) the death of the employee or Member was accidental; or
 
@@ -220,7 +220,7 @@ Sept. 6, 1960, Pub. L. 86–713, §1(a), 74 Stat. 813.
 
 Oct. 11, 1962, Pub. L. 87–793, §1103 (less (a) and (f)(A)), 76 Stat. 870, 871.
 
-In subsection (b), the words "designated for this purpose under section 8339(i) of this title" are substituted for "designated in writing for such purpose by the employee or Member at the time of retirement" in view of the provisions of section 8339(i).
+In subsection (b), the words "designated for this purpose under section 8339(i) of this title" are substitutedfor "designated in writing for such purpose by the employee or Member at the time of retirement" in view of the provisions of section 8339(i).
 
 In subsection (f), the words "heretofore or hereafter" are substituted "either prior to, on, or after the effective date of the Civil Service Retirement Act Amendments of 1956".
 
@@ -344,7 +344,7 @@ Subsecs. (h), (i). Pub. L. 98–615, §2(4)(G), added subsecs. (h) and (i).
 
 Subsec. (a)(3). Pub. L. 96–179, §1(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), substituted "unmarried dependent child" for "unmarried child" wherever appearing in subpars. (A), (B), and (C), substituted "but only if the stepchild" for "or recognized natural child who" in subpar. (A)(ii), and inserted "a recognized natural child, and (iv)" after "(iii)".
+Subsec. (a)(4). Pub. L. 96–179, §1(3), redesignated former par. (3) as (4), substituted "unmarried dependent child" for "unmarried child" wherever appearing insubpars. (A), (B), and (C), substituted "but only if the stepchild" for "or recognized natural child who" in subpar. (A)(ii), and inserted "a recognized natural child, and (iv)" after "(iii)".
 
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
@@ -522,7 +522,7 @@ Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–2
 
 \[Section 9(b) of Pub. L. 99–549 provided that: "The amendments made by this section \[amending note above\] shall be effective as of May 7, 1985."\]
 
-\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–615, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
+\[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–615, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency RetirementAct and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 
 Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.
 
@@ -562,7 +562,7 @@ Section 2 of Pub. L. 92–243 provided that: "The amendment made by the first se
 
 Section 2 of Pub. L. 91–189 provided that: "The provisions of section 8341(e) of title 5, United States Code, as amended by section 206(b) of Public Law 91–93 (83 Stat. 140), shall be effective as of October 20, 1969."
 
-Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as ifsuch amendment had not been enacted, see section 207(a) of Pub. L. 91–93 set out as a note under section 8331 of this title.
+Amendment by Pub. L. 91–93 inapplicable in cases of persons retired or otherwise separated prior to Oct. 20, 1969, their rights and of their survivors continued as if such amendment had not been enacted, see section 207(a) of Pub. L. 91–93 set out as a note under section 8331 of this title.
 
 #### Effective Date of 1969 Amendment; Recomputation and Reduction of Survivor Annuities
 
@@ -594,7 +594,7 @@ Section 1 of Pub. L. 95–318, eff. Oct. 1, 1978, provided that:
 
 > shall be restored in accordance with the provisions of subsection (b) of this section.
 
-"(b)(1) In the case of a remarriage occurring after the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund. If such amount is paid, the annuity shall be so restored commencing on the effective date of this section at the rate which would have been in effect if the annuity had not been terminated.
+"(b)(1) In the case of a remarriage occurring after the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if any lump sum paid on termination of the annuity is returned to the Civil Service Retirement and Disability Fund. If such amount is paid, theannuity shall be so restored commencing on the effective date of this section at the rate which would have been in effect if the annuity had not been terminated.
 
 "(2) In the case of a remarriage occurring before the surviving spouse became sixty years of age, the annuity shall be restored to such spouse under subsection (a) of this section only if—
 

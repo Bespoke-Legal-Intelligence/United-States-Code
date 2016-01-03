@@ -24,7 +24,7 @@
 
 > then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
-(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph\(1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
+(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
 &emsp;(A) be transferred to or retained in (as the case may be) the Federal unemployment account, and
 
@@ -104,7 +104,7 @@
 
 &emsp;(II) additional compensation, upon the exhaustion of any temporary extended unemployment compensation (if such State has entered into an agreement under the Temporary Extended Unemployment Compensation Act of 2002), for individuals eligible for regular compensation under the unemployment compensation law of such State.
 
-(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount of any extended compensation for which an individual might be eligible.
+(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount ofany extended compensation for which an individual might be eligible.
 
 (C)(i) At the option of the State, cash benefits under this paragraph may include amounts which shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
 
@@ -156,9 +156,9 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(B) An individual shall not be disqualified from regular unemployment compensation for separating from employment if that separation is for any compelling family reason. For purposes of this subparagraph, the term "compelling family reason" means the following:
 
-&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provisionof law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
+&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
 
-&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
+&emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believethat such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
 
 &emsp;&emsp;&emsp;(II) Sexual assault, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).
 
@@ -170,7 +170,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;&emsp;&emsp;(II) due to a change in location of the spouse's employment.
 
-&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998, except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
+&emsp;(C)(i) Weekly unemployment compensation is payable under this subparagraph to any individual who is unemployed (as determined under the State unemployment compensation law), has exhausted all rights to regular unemployment compensation under the State law, and is enrolled and making satisfactory progress in a State-approved training program or in a job training program authorized under the Workforce Investment Act of 1998,<sup>1</sup> except that such compensation is not required to be paid to an individual who is receiving similar stipends or other training allowances for non-training costs.
 
 &emsp;(ii) Each State-approved training program or job training program referred to in clause (i) shall prepare individuals who have been separated from a declining occupation, or who have been involuntarily and indefinitely separated from employment as a result of a permanent reduction of operations at the individual's place of employment, for entry into a high-demand occupation.
 
@@ -196,7 +196,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (iii) No application under subparagraph (A) may be considered if submitted before February 17, 2009, or after the latest date necessary (as specified by the Secretary of Labor) to ensure that all incentive payments under this subsection are made before October 1, 2011.
 
-(5)(A) Except as provided in subparagraph (B), any amount transferred to the account of aState under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents' allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
+(5)(A) Except as provided in subparagraph (B), any amount transferred to the account of a State under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents' allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
 
 (B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
 
@@ -230,7 +230,7 @@ The Temporary Extended Unemployment Compensation Act of 2002, referred to in sub
 
 Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
 
-The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
@@ -250,7 +250,7 @@ Subsec. (g). Pub. L. 111–5 added subsec. (g).
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–147, §209(a)(1)(A), struck out par. (3) which related to disposition of excess amounts remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001.
 
-Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: "Anyamount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph."
+Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: "Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and maybe so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph."
 
 Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 
@@ -319,4 +319,6 @@ Pub. L. 100–203, title IX, §9155(d), Dec. 22, 1987, 101 Stat. 1330–327, pro
 Pub. L. 111–5, div. B, title II, §2003(b), Feb. 17, 2009, 123 Stat. 443, provided that: "The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\]."
 
 Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: "The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

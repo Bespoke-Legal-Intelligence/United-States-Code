@@ -423,17 +423,35 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part N–2—Rape Survivor Child Custody
+
+|  |  |
+| :--- | ---: |
+| [14043h.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20N%E2%80%932%20-%20Rape%20Survivor%20Child%20Custody/%C2%A7%2014043h%20-%20Definitions.md) | Definitions. |
+| 14043h–1. | Findings. |
+| 14043h–2. | Increased funding for formula grants authorized. |
+| 14043h–3. | Application. |
+| 14043h–4. | Grant increase. |
+| 14043h–5. | Period of increase. |
+| 14043h–6. | Allocation of increased formula grant funds. |
+| 14043h–7. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part O—Combatting Domestic Trafficking in Persons
 
 |  |  |
 | :--- | ---: |
 | [14044\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044%20-%20Prevention%20of%20domestic%20trafficking%20in%20persons.md) | Prevention of domestic trafficking in persons. |
 | [14044a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044a%20-%20Establishment%20of%20a%20grant%20program%20to%20develop%2C%20expand%2C%20and%20strengthen%20assistance%20programs%20for%20certain%20persons%20subject%20to%20trafficking.md) | Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. |
-| [14044b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044b%20-%20Protection%20of%20juvenile%20victims%20of%20trafficking%20in%20persons.md) | Protection of juvenile victims of trafficking in persons. |
+| [14044b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044b%20-%20Victim-centered%20child%20human%20trafficking%20deterrence%20block%20grant%20program.md) | Victim-centered child human trafficking deterrence block grant program. |
+| 14044b–1. | Grant accountability. |
 | [14044c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044c%20-%20Enhancing%20State%20and%20local%20efforts%20to%20combat%20trafficking%20in%20persons.md) | Enhancing State and local efforts to combat trafficking in persons. |
 | [14044d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044d%20-%20Senior%20Policy%20Operating%20Group.md) | Senior Policy Operating Group |
 | [14044e.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044e%20-%20Definitions.md) | Definitions |
 | [14044f.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044f%20-%20Grants%20for%20law%20enforcement%20training%20programs.md) | Grants for law enforcement training programs. |
+| [14044g.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044g%20-%20Combat%20Human%20Trafficking%20Act.md) | Combat Human Trafficking Act. |
+| [14044h.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044h%20-%20Establishing%20a%20national%20strategy%20to%20combat%20human%20trafficking.md) | Establishing a national strategy to combat human trafficking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -587,6 +605,16 @@
 | [14163c.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163c%20-%20State%20reports.md) | State reports. |
 | [14163d.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163d%20-%20Evaluations%20by%20Inspector%20General%20and%20administrative%20remedies.md) | Evaluations by Inspector General and administrative remedies. |
 | [14163e.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20E%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/%C2%A7%2014163e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—Rafael Ramos and Wenjian Liu National Blue Alert
+
+|  |  |
+| :--- | ---: |
+| [14165\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20F%20-%20Rafael%20Ramos%20and%20Wenjian%20Liu%20National%20Blue%20Alert/%C2%A7%2014165%20-%20Definitions.md) | Definitions. |
+| [14165a.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20F%20-%20Rafael%20Ramos%20and%20Wenjian%20Liu%20National%20Blue%20Alert/%C2%A7%2014165a%20-%20Blue%20Alert%20communications%20network.md) | Blue Alert communications network. |
+| [14165b.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20F%20-%20Rafael%20Ramos%20and%20Wenjian%20Liu%20National%20Blue%20Alert/%C2%A7%2014165b%20-%20Blue%20Alert%20Coordinator%3B%20guidelines.md) | Blue Alert Coordinator; guidelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

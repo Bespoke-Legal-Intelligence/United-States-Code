@@ -18,7 +18,7 @@ As used in this subchapter the term "scenic easement" means the right to control
 
 #### (e) Offers to sell land; hardship from delay
 
-The Secretary shall give prompt and careful consideration to any offer made by a personowning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
+The Secretary shall give prompt and careful consideration to any offer made by a person owning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
 
 #### (f) Exchange of land; equalization payments
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to acqui
 
 #### (h) Transfer of Federal property to Secretary
 
-Notwithstanding any other provision of law, any Federal property located within the recreation area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the purposes of this subchapter. Lands acquired by the Secretary or transferred to his administrative jurisdiction within the recreation area shall become parts of the national forest within or adjacent to which they are located.
+Notwithstanding any other provision of law, any Federal property located within the recreation area may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the purposes of this subchapter. Lands acquired by the Secretary or transferred to his administrative jurisdiction within the recreation area shall become parts of the nationalforest within or adjacent to which they are located.
 
 (Pub. L. 94–199, §9, Dec. 31, 1975, 89 Stat. 1120.)
 

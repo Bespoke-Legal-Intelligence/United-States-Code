@@ -14,9 +14,15 @@
 
 &emsp;&emsp;&emsp;<b>(6) Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L. 101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L. 101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 114–74, title XI, §1101(f)(8), Nov. 2, 2015, 129 Stat. 638.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–74, title XI, §1101(f)(8), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (6).</i>
 
 #### Amendments
+
+<b>2015</b>—Par. (6). Pub. L. 114–74 struck out par. (6) which read as follows: "Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230."
 
 <b>1990</b>—Pub. L. 101–508 struck out par. (2) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (3) to (7)) by redesignating such pars. as (2) to (6), respectively. Prior to amendment, par. (2) provided a cross reference to section 1481 for overpayment in certain renegotiations of war contracts.
 
@@ -32,9 +38,13 @@ Pars. (3) to (7). Pub. L. 94–455, §1901(b)(37)(E), redesignated pars. (3) to 
 
 Par. (8). Pub. L. 94–455, §1601(f)(3), added par. (8) which was redesignated par. (6) by section 1901(b)(37)(E) of Pub. L. 94–455.
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under section 6221 of this title.
+
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -48,5 +58,5 @@ Amendment by section 1901(b)(36)(D), (37)(E) of Pub. L. 94–455 applicable with
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

@@ -70,7 +70,7 @@ Report on Difficulties Relating to Safety or Reliability.—The Council shall su
 
 (f)
 
-Budget and Funding Matters.—(1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for suchfiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member's non-concurrence.
+Budget and Funding Matters.—(1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for such fiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member's non-concurrence.
 
 (2) If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
@@ -116,31 +116,11 @@ Budget and Funding Matters.—(1) The Council shall submit to Congress each year
 
 &emsp;(C) The term "proposed transfer of estimated nuclear budget request authority" means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 
-(g)
-
-Annual Report.—Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31, the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, that includes the following:
-
-&emsp;(1) The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
-
-&emsp;(2) A description of all activities conducted by the Department of Energy during that fiscal year, or planned to be conducted by the Department of Energy during the next fiscal year, for the study, development, production, and retirement of nuclear warheads and that have been approved by the Council, including a description of—
-
-&emsp;&emsp;(A) the concept definition activities and feasibility studies conducted or planned to be conducted by the Department of Energy;
-
-&emsp;&emsp;(B) the schedule for completion of each such activity or study; and
-
-&emsp;&emsp;(C) the degree to which each such activity or study is consistent with United States policy for new nuclear warhead development or warhead modification and with established or projected military requirements.
-
-&emsp;(3) A description of the activities of the Council during the 12-month period ending on the date of the report together with any assessments or studies conducted by the Council during that period.
-
-&emsp;(4) A description of the highest priority requirements of the Department of Defense with respect to the Department of Energy stockpile stewardship and management program as of that date.
-
-&emsp;(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
-
-&emsp;(6) A description and assessment of the joint efforts of the Secretary of Defense and the Secretary of Energy to develop common security practices that improve the security of the nuclear weapons and facilities of the Department of Defense and the Department of Energy.
-
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, §902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, §903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, §901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, §1641, Dec. 19, 2014, 128 Stat. 3648.)
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, §902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, §903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, §901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, §1641, Dec. 19, 2014, 128 Stat. 3648; Pub. L. 114–92, div. A, title X, §1076(a), Nov. 25, 2015, 129 Stat. 997.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g). Pub. L. 114–92 struck out subsec. (g) which related to annual report.
 
 <b>2014</b>—Subsec. (f)(3) to (6). Pub. L. 113–291 added pars. (3) to (6).
 

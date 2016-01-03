@@ -144,11 +144,11 @@ Limitation.—The Secretary may not require air carriers to participate in the p
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
 
-Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100, provided that:
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, §4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, §5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, §5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, §5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, §205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, §431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, §102(g), Sept. 30, 2015, 129 Stat. 523, provided that:
 
 "(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, UnitedStates Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 "(b)
 
@@ -168,7 +168,7 @@ Eligibility Determination.—Not later than 60 days after receiving a request un
 
 "(d)
 
-Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2015."
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on March 31, 2016."
 
 \[Pub. L. 110–190, §4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: "The amendment made by paragraph (1) \[amending section 409(d) of Pub. L. 108–176, set out above\] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act \[section 409(c) of Pub. L. 108–176, set out above\] that was in effect on such date."\]
 
@@ -194,7 +194,7 @@ Review of Marketing Practices That Adversely Affect Service to Small or Medium C
 
 "(b)
 
-Regulations.—If the Secretary finds, after conducting the review, that marketing practices inhibit the availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
+Regulations.—If the Secretary finds, after conducting the review, that marketing practices inhibitthe availability of affordable air transportation services to small- and medium-sized communities, then, after public notice and an opportunity for comment, the Secretary may issue regulations that address the problem or take other appropriate action.
 
 "(c)
 

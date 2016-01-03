@@ -18,13 +18,13 @@ Each comprehensive review prepared for submission under section 7351 of this tit
 
 &emsp;(8) a statement of the number and types of beneficiaries or persons served by the program;
 
-&emsp;(9) an assessment of the effect of the program on the national economy, including, butnot limited to, the effects on competition, economic stability, employment, unemployment, productivity, and price inflation, including costs to consumers and to businesses;
+&emsp;(9) an assessment of the effect of the program on the national economy, including, but not limited to, the effects on competition, economic stability, employment, unemployment, productivity, and price inflation, including costs to consumers and to businesses;
 
 &emsp;(10) an assessment of the impact of the program on the Nation's health and safety;
 
 &emsp;(11) an assessment of the degree to which the overall administration of the program, as expressed in the rules, regulations, orders, standards, criteria, and decisions of the officers executing the program, are believed to meet the objectives of the Congress in establishing the program;
 
-&emsp;(12) a projection of the anticipated needs for accomplishing the objectives of the program, including an estimate if applicable of the date on which, and the conditions under which, the program may fulfill such objectives;
+&emsp;(12) a projection of the anticipated needs for accomplishing the objectives of the program, including an estimate if applicable of the dateon which, and the conditions under which, the program may fulfill such objectives;
 
 &emsp;(13) an analysis of the services which could be provided and performance which could be achieved if the program were continued at a level less than, equal to, or greater than the existing level; and
 

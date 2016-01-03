@@ -8,7 +8,7 @@ Training Program.—The Secretary of Defense shall establish an undergraduate tr
 
 Use of Funds for Training Program.—Any payment made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
-(Added Pub. L. 104–93, title V, §505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div.A, title X, §1076(f)(20), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title X, §1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 104–93, title V, §505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div. A, title X, §1076(f)(20), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title X, §1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### Amendments
 

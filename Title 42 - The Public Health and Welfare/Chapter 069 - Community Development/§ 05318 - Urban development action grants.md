@@ -20,7 +20,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 Applications for assistance under this section shall—
 
-&emsp;(1) in the case of an application for a grant under subsection (b)(2) of this section, include documentation of grant eligibility in accordance with the standards described in that subsection;
+&emsp;(1) in the case of an application for a grant under subsection (b)(2) of this section, includedocumentation of grant eligibility in accordance with the standards described in that subsection;
 
 &emsp;(2) set forth the activities for which assistance is sought, including (A) an estimate of the costs and general location of the activities; (B) a summary of the public and private resources which are expected to be made available in connection with the activities, including how the activities will take advantage of unique opportunities to attract private investment; and (C) an analysis of the economic benefits which the activities are expected to produce;
 
@@ -30,7 +30,7 @@ Applications for assistance under this section shall—
 
 #### (d) Mandatory selection criteria; award of points; distribution of funds; number of competitions per year; use of distress conditions data by urban counties
 
-(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section,the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
+(1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
 
 &emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
 
@@ -136,7 +136,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 &emsp;&emsp;(A) a relocation of any operation of an industrial or commercial plant or facility or other business establishment—
 
-&emsp;&emsp;&emsp;(i) from any city, urban county, or identifiable community described in subsection\(p) of this section, that is eligible for assistance under this section; and
+&emsp;&emsp;&emsp;(i) from any city, urban county, or identifiable community described in subsection (p) of this section, that is eligible for assistance under this section; and
 
 &emsp;&emsp;&emsp;(ii) to the city, urban county, or identifiable community described in subsection (p) of this section, in which the project is located; or
 
@@ -188,7 +188,7 @@ For purposes of this section, the Secretary may reduce or waive the requirement 
 
 #### (m) Notice to State historic preservation officer and Secretary of the Interior required with regard to affected landmark property; opportunity for comment
 
-In the case of any application which identifies any property in accordance with subsection (c)(4)(B) of this section, the Secretary may not commit funds with respect to an approved application unless the applicant has certified to theSecretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
+In the case of any application which identifies any property in accordance with subsection (c)(4)(B) of this section, the Secretary may not commit funds with respect to an approved application unless the applicant has certified to the Secretary that the appropriate State historic preservation officer and the Secretary of the Interior have been provided an opportunity to take action in accordance with the provisions of section 5320(b) of this title.
 
 #### (n) Territories, tribes, and certain Hawaiian counties included in term "city"
 
@@ -218,7 +218,7 @@ For fiscal years 1988 and 1989, the maximum grant amount for any project under t
 
 #### (t) UDAG retention program
 
-If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
+If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretaryto receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
 
 &emsp;(1) 33 percent of such unexpended amounts if—
 
@@ -234,7 +234,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
-(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec.22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+(Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
 
 #### References in Text
 
@@ -296,7 +296,7 @@ Subsec. (n)(2). Pub. L. 98–479 substituted "chapter 67 of title 31" for "the S
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §121(a), inserted authorizations for appropriations not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986.
 
-Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted "the extent of unemployment, job lag, or surplus labor" for "where data are available, the extent of unemployment and job lag", and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplusas a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
+Subsec. (b)(1). Pub. L. 98–181, §121(b), substituted "the extent of unemployment, job lag, or surplus labor" for "where data are available, the extent of unemployment and job lag", and inserted provisions for continued eligibility for assistance of any city with a population of less than 50,000 persons, other than a central city of a metropolitan area, which until the Secretary revises the standards for eligibility for such cities and includes the extent of unemployment, job lag, or labor surplus as a standard of distress for such cities, and provisions requiring the Secretary to make such revision as soon as possible following Nov. 30, 1983.
 
 Subsec. (b)(2)(A)(i), (B)(i). Pub. L. 98–181, §121(c), inserted "neighborhood statistics areas," after "enumeration districts,".
 
@@ -350,7 +350,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 Sunset of urban county competition rule.—Effective October 1, 1989, section 119(d)(6) of the Housing and Community Development Act of 1974 \[subsec. (d)(6) of this section\] is repealed."
 
-Pub. L. 100–242, title V, §516(b), Feb. 5, 1988, 101 Stat. 1936, provided that: "Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable to urban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\]."
+Pub. L. 100–242, title V, §516(b), Feb. 5, 1988, 101 Stat. 1936, provided that: "Except as otherwise provided in section 119(h)(5) of the Housing and Community Development Act of 1974 \[subsec. (h)(5) of this section\] (as added by subsection (a)), the amendments made by this section \[amending this section\] shall be applicable tourban development action grants that have not received the preliminary approval of the Secretary of Housing and Urban Development before the date of the enactment of this Act \[Feb. 5, 1988\]."
 
 #### Effective Date of 1986 Amendments
 
@@ -380,7 +380,7 @@ Pub. L. 102–550, title XI, Oct. 28, 1992, 106 Stat. 3927, as amended by Pub. L
 
 #### "SEC. 1101. AUTHORITY.
 
-"To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts asare provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
+"To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
 
 #### "SEC. 1102. NEW TOWN PLAN.
 
@@ -446,7 +446,7 @@ Supplemental resources.—A description of any funds, assistance, in-kind contri
 
 &emsp;"(9)
 
-Contractors and developers.—A listing of the contractors and developers who potentially will carry out any construction and rehabilitation work for development of housing under the demonstration program and the expected costs involved in hiring such contractors and developers.
+Contractors and developers.—A listing of the contractors and developers who potentially will carry out any construction and rehabilitation workfor development of housing under the demonstration program and the expected costs involved in hiring such contractors and developers.
 
 &emsp;"(10)
 
@@ -534,7 +534,7 @@ Non-Federal Funds.—The governing board carrying out the demonstration program 
 
 "(a)
 
-In General.—Pursuant to title II and section 251 of the National Housing Act \[12 U.S.C. 1707 et seq., 1715z–16\], the Secretary shall (to the extent authority is available pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) of this Act that are developed under the new town demonstration programs carried out pursuant to this title.
+In General.—Pursuant to title II and section 251 of the National Housing Act \[12 U.S.C. 1707 et seq., 1715z–16\], the Secretary shall (to the extent authority isavailable pursuant to subsection (d)) insure mortgages under this section involving properties upon which are located dwelling units described in section 1103(c)(3) of this Act that are developed under the new town demonstration programs carried out pursuant to this title.
 
 "(b)
 
@@ -668,7 +668,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) in an area not subject to unreasonably adverse environmental conditions; and
 
-&emsp;&emsp;"(B) provide that persons displaced shall have the right to elect, as an alternative to the benefits under this subsection, to receive benefits under theUniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
+&emsp;&emsp;"(B) provide that persons displaced shall have the right to elect, as an alternative to the benefits under this subsection, to receive benefits under the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 \[42 U.S.C. 4601 et seq.\] if such persons determine that it is in their best interest to do so; and
 
 &emsp;&emsp;"(C) provide that where a claim for assistance under subparagraph (A)(iv) is denied by the unit of general local government, the claimant may appeal to the Secretary, and that the decision of the Secretary shall be final unless a court determines the decision was arbitrary and capricious.
 
@@ -788,7 +788,7 @@ New town plan.—The terms 'new town plan' and 'plan' mean a plan under section 
 
 &emsp;"(5)
 
-Unit of general local government.—The term 'unit of general local government' means anycity, county, town, township, parish, village, or other general purpose political subdivision of the State of California."
+Unit of general local government.—The term 'unit of general local government' means any city, county, town, township, parish, village, or other general purpose political subdivision of the State of California."
 
 #### Reports of Comptroller General
 

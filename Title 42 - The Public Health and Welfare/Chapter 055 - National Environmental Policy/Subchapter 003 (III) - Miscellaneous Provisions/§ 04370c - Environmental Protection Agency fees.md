@@ -28,7 +28,7 @@ Nothing in this section increases or diminishes the authority of the Administrat
 
 #### (e) Uses of fees
 
-Fees and charges collected pursuant to this section shall be deposited into a special accountfor environmental services in the Treasury of the United States. Subject to appropriation Acts, such funds shall be available to the Environmental Protection Agency to carry out the activities for which such fees and charges are collected. Such funds shall remain available until expended.
+Fees and charges collected pursuant to this section shall be deposited into a special account for environmental services in the Treasury of the United States. Subject to appropriation Acts, such funds shall be available to the Environmental Protection Agency to carry out the activities for which such fees and charges are collected. Such funds shall remain available until expended.
 
 (Pub. L. 101–508, title VI, §6501, Nov. 5, 1990, 104 Stat. 1388–320.)
 

@@ -166,7 +166,7 @@ Certification of compliance.—Evidence of compliance that shall include, as app
 
 #### (2) Civil rights
 
-&emsp;Program eligibility under this subchapter may be restricted to Native Hawaiians. Subject to the preceding sentence, no person may be discriminated against on the basis of race,color, national origin, religion, sex, familial status, or disability.
+&emsp;Program eligibility under this subchapter may be restricted to Native Hawaiians. Subject to the preceding sentence, no person may be discriminated against on the basis of race, color, national origin, religion, sex, familial status, or disability.
 
 #### (e) Use of nonprofit organizations
 

@@ -24,7 +24,7 @@
 
 #### (b) Overpayments of certain employment taxes
 
-If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of remuneration and the overpayment cannot beadjusted under subsection (a) of this section, the amount of the overpayment shall be refunded in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
+If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of remuneration and the overpayment cannot be adjusted under subsection (a) of this section, the amount of the overpayment shall be refunded in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
 
 #### (c) Special refunds
 
@@ -60,13 +60,13 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (G) Employees of States and political subdivisions
 
-&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
+&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makesa return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
 
 #### (d) Refund or credit of Federal unemployment tax
 
 Any credit allowable under section 3302, to the extent not previously allowed, shall be considered an overpayment, but no interest shall be allowed or paid with respect to such overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 797; Sept. 1, 1954, ch. 1206, title II, §202(a)(1), (b)(1)–(3), 68 Stat. 1089, 1090; Pub. L. 85–840, title IV, §402(d), Aug. 28, 1958, 72 Stat. 1043; Pub. L. 86–778, title I, §103(r)(2)–(4), Sept. 13, 1960, 74 Stat. 940; Pub. L. 89–97, title III, §§317(e), (f), 320(b)(5), (6), July 30, 1965, 79 Stat. 389, 390, 393, 394; Pub. L. 90–248, title I, §108(b)(5), (6), title V, §502(a), Jan. 2, 1968, 81 Stat. 835, 934; Pub. L. 92–5, title II, §203(b)(5), (6), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(5), (6), July 1, 1972, 86 Stat. 419, 420; Pub. L. 92–603, title I, §144(c), Oct. 30, 1972, 86 Stat. 1370; Pub. L. 93–66, title II, §203(b)(5), (6), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(5), (6), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–445, title V, §502, Oct. 16, 1974, 88 Stat. 1360; Pub. L. 94–455, title XIX, §1906(a)(23)(A), (B)(i), (ii), (C), (D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1826, 1827, 1834; Pub. L. 97–248, title III, §§302(c), 307(a)(10)–(12), 308(a), Sept. 3, 1982, 96 Stat. 586, 589–591; Pub. L. 98–21, title III, §321(e)(4), Apr. 20, 1983, 97 Stat. 120; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–272, title XIII, §13205(a)(2)(E), Apr. 7, 1986, 100 Stat. 315; Pub. L. 101–508, title XI, §11331(d)(1), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, §13207(d)(1)–(3), Aug. 10, 1993, 107 Stat. 468.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 797; Sept. 1, 1954, ch. 1206, title II, §202(a)(1), (b)(1)–(3), 68 Stat. 1089, 1090; Pub. L. 85–840, title IV, §402(d), Aug. 28, 1958, 72 Stat. 1043; Pub. L. 86–778, title I, §103(r)(2)–(4), Sept. 13, 1960, 74 Stat. 940; Pub. L. 89–97, title III, §§317(e), (f), 320(b)(5), (6), July 30, 1965, 79 Stat. 389, 390, 393, 394; Pub. L. 90–248, title I, §108(b)(5), (6), title V, §502(a), Jan. 2, 1968, 81 Stat. 835, 934; Pub. L. 92–5, title II, §203(b)(5), (6), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(5), (6), July 1, 1972, 86 Stat. 419, 420; Pub. L. 92–603, title I, §144(c), Oct. 30, 1972, 86 Stat. 1370; Pub. L. 93–66, title II, §203(b)(5), (6), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(5), (6), Dec. 31, 1973, 87 Stat. 954; Pub. L. 93–445, title V, §502, Oct. 16, 1974, 88 Stat. 1360; Pub. L. 94–455, title XIX, §1906(a)(23)(A), (B)(i), (ii), (C), (D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1826, 1827, 1834; Pub. L. 97–248, title III, §§302(c), 307(a)(10)–(12), 308(a), Sept. 3, 1982, 96 Stat. 586, 589-591; Pub. L. 98–21, title III, §321(e)(4), Apr. 20, 1983, 97 Stat. 120; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–272, title XIII, §13205(a)(2)(E), Apr. 7, 1986, 100 Stat. 315; Pub. L. 101–508, title XI, §11331(d)(1), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, §13207(d)(1)–(3), Aug. 10, 1993, 107 Stat. 468.)
 
 #### References in Text
 
@@ -201,13 +201,13 @@ Amendment by Pub. L. 98–21 applicable to agreements entered into after Apr. 20
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1906(a)(23)(A), (C), (D), (b)(13)(A) of Pub. L. 94–455 effective on first day of firstmonth which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. l. 94–455, set out as a note under section 6013 of this title.
+Amendment by section 1906(a)(23)(A), (C), (D), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. l. 94–455, set out as a note under section 6013 of this title.
 
 Pub. L. 94–455, title XIX, §1906(a)(23)(B)(iii), Oct. 4, 1976, 90 Stat. 1826, provided that: "The amendments made by clauses (i) and (ii) \[amending this section\] shall apply with respect to remuneration paid after December 31, 1976."
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paid for services rendered on or after that date, see section 604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
+Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paidfor services rendered on or after that date, see section 604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
 
 #### Effective Date of 1973 Amendments
 

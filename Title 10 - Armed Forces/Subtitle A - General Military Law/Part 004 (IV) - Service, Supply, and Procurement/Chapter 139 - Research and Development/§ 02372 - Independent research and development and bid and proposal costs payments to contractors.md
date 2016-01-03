@@ -64,7 +64,7 @@ Encouragement of Certain Contractor Activities.—The regulations under subsecti
 
 &emsp;(6) Increasing the development and promotion of efficient and effective applications of dual-use technologies.
 
-&emsp;(7) Providing efficient and effective technologies for achieving such environmentalbenefits as improved environmental data gathering, environmental cleanup and restoration, pollution reduction in manufacturing, environmental conservation, and environmentally safe management of facilities.
+&emsp;(7) Providing efficient and effective technologies for achieving such environmental benefits as improved environmental data gathering, environmental cleanup and restoration, pollution reduction in manufacturing, environmental conservation, and environmentally safe management of facilities.
 
 (h)
 

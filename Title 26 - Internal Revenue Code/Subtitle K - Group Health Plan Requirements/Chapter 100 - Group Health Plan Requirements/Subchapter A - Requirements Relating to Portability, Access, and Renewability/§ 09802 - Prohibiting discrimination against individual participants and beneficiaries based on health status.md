@@ -80,7 +80,7 @@
 
 #### (4) Research exception
 
-&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
+&emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, thata participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
 &emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 

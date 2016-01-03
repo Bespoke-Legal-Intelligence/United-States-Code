@@ -24,13 +24,13 @@
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has enteredinto a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
 &emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under paragraph (1), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
-&emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under suchclause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
+&emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
 #### (b) Home visiting services for eligible families
 

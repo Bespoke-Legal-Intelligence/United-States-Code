@@ -50,7 +50,7 @@ Subsection (d) permits liens to pass through the bankruptcy case unaffected. How
 
 Subsec. (b). Pub. L. 109–8, §712(d)(1), inserted "or State statute" after "agreement".
 
-Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted ", including the payment of all ad valorem propertytaxes with respect to the property" before period at end.
+Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted ", including the payment of all ad valorem property taxes with respect to the property" before period at end.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353, §448(a), inserted "for" after "provided".
 

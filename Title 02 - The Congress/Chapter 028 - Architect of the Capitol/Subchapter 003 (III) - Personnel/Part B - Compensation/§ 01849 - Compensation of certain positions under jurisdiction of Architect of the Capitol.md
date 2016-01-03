@@ -52,7 +52,7 @@ Subsec. (b)(1)(A), (B). Pub. L. 105–55, §311(b)(2), substituted "the highest 
 
 <b>1991</b>—Subsec. (b)(1). Pub. L. 102–90, §104(a)(3), inserted sentence at end relating to maximum rate allowable for Senior Executive Service.
 
-Subsec. (b)(1)(A). Pub. L. 102–90, §104(a)(1), substituted "90 percent of the maximum rate allowable for the Senior Executive Service;" for "the rate payable for grade GS–18 of the General Schedule;".
+Subsec. (b)(1)(A). Pub. L. 102–90, §104(a)(1), substituted "90 percent of the maximum rate allowable forthe Senior Executive Service;" for "the rate payable for grade GS–18 of the General Schedule;".
 
 Subsec. (b)(1)(B). Pub. L. 102–90, §104(a)(2), substituted "85 percent of the maximum rate allowable for the Senior Executive Service." for "the rate payable for step 2 of grade GS–17 of the General Schedule."
 

@@ -40,7 +40,7 @@
 
 #### (F) Diversified savings and loan holding company
 
-&emsp;&emsp;The term "diversified savings and loan holding company" means any savings and loan holding company whose subsidiary savings association and related activities as permitted under paragraph (2) of subsection (c) of this section represented, on either an actual or a pro forma basis, less than 50 percent of its consolidated net worth at the close of its preceding fiscal year and of its consolidated net earnings for such fiscal year, as determined in accordance with regulations issued by the appropriate Federal banking agency.
+&emsp;&emsp;The term "diversified savings and loan holding company" means any savings andloan holding company whose subsidiary savings association and related activities as permitted under paragraph (2) of subsection (c) of this section represented, on either an actual or a pro forma basis, less than 50 percent of its consolidated net worth at the close of its preceding fiscal year and of its consolidated net earnings for such fiscal year, as determined in accordance with regulations issued by the appropriate Federal banking agency.
 
 #### (G) Subsidiary
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;&emsp;(ii) in which multiple savings and loan holding companies were authorized (by regulation) to directly engage on March 5, 1987.
 
-&emsp;&emsp;(G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase ofsuch stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D).
+&emsp;&emsp;(G) In the case of a savings and loan holding company, purchasing, holding, or disposing of stock acquired in connection with a qualified stock issuance if the purchase of such stock by such savings and loan holding company is approved by the Board pursuant to subsection (q)(1)(D).
 
 &emsp;&emsp;(H) Any activity that is permissible for a financial holding company (as such term is defined under section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p)) <sup>1</sup> to conduct under section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\] if—
 
@@ -366,7 +366,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;&nbsp;except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
-&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period fromyear to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and is not detrimental to the public interest; and
+&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Board may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Board finds such extension is warranted and is not detrimental to the public interest; and
 
 &emsp;&emsp;(B) any other company, without the prior written approval of the Board, directly or indirectly, or through one or more subsidiaries or through one or more transactions, to acquire the control of one or more savings associations, except that such approval shall not be required in connection with the control of a savings association, (i) acquired by devise under the terms of a will creating a trust which is excluded from the definition of "savings and loan holding company" under subsection (a) of this section, (ii) acquired in connection with a reorganization in which a person or group of persons, having had control of a savings association for more than 3 years, vests control of that association in a newly formed holding company subject to the control of the same person or group of persons, or (iii) acquired by a bank holding company that is registered under, and subject to, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company. The Board shall approve an acquisition of a savings association under this subparagraph unless the Board finds the financial and managerial resources and future prospects of the company and association involved to be such that the acquisition would be detrimental to the association or the insurance risk of the Deposit Insurance Fund, and shall render a decision within 90 days after submission to the Board of the complete record on the application.
 
@@ -398,7 +398,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;(A) such company, or a savings association subsidiary of such company, is authorized to acquire control of a savings association subsidiary, or to operate a home or branch office, in the additional State or States pursuant to section 1823(k) of this title;
 
-&emsp;&emsp;(B) such company controls a savings association subsidiary which operated a home orbranch office in the additional State or States as of March 5, 1987; or
+&emsp;&emsp;(B) such company controls a savings association subsidiary which operated a home or branch office in the additional State or States as of March 5, 1987; or
 
 &emsp;&emsp;(C) the statutes of the State in which the savings association to be acquired is located permit a savings association chartered by such State to be acquired by a savings association chartered by the State where the acquiring savings association or savings and loan holding company is located or by a holding company that controls such a State chartered savings association, and such statutes specifically authorize such an acquisition by language to that effect and not merely by implication.
 
@@ -442,7 +442,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 #### (f) Declaration of dividend
 
-Every subsidiary savings association of a savings and loan holding company shall give the Board not less than 30 days' advance notice of the proposed declaration by its directors of any dividend on its guaranty, permanent, or other nonwithdrawable stock. Such notice period shall commence to run from the date of receipt of such notice by the Board. Any such dividend declared within such period, or without the giving of such notice to the Board, shall be invalid and shall confer no rights or benefits upon the holder of any such stock.
+Every subsidiary savings association of a savings and loan holding company shall give the Board not less than 30 days' advance notice of the proposed declaration by its directors of anydividend on its guaranty, permanent, or other nonwithdrawable stock. Such notice period shall commence to run from the date of receipt of such notice by the Board. Any such dividend declared within such period, or without the giving of such notice to the Board, shall be invalid and shall confer no rights or benefits upon the holder of any such stock.
 
 #### (g) Administration and enforcement
 
@@ -468,7 +468,7 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 &emsp;(A) Notwithstanding any other provision of this section, the Board may, whenever the Board has reasonable cause to believe that the continuation by a savings and loan holding company of any activity or of ownership or control of any of its noninsured subsidiaries constitutes a serious risk to the financial safety, soundness, or stability of a savings and loan holding company's subsidiary savings association and is inconsistent with the sound operation of a savings association or with the purposes of this section or section 1818 of this title, order the savings and loan holding company or any of its subsidiaries, after due notice and opportunity for hearing, to terminate such activities or to terminate (within 120 days or such longer period as the Board directs in unusual circumstances) its ownership or control of any such noninsured subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the savings and loan holding company. Such distribution shall be pro rata with respect to all of the shareholders of the distributing savings and loan holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
-&emsp;(B) The Board may in the discretion of the Board apply to the United States district court within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j), no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
+&emsp;(B) The Board may in the discretion of the Board apply to the United States districtcourt within the jurisdiction of which the principal office of the company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith. Except as provided in subsection (j), no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 #### (h) Prohibited acts
 
@@ -546,7 +546,7 @@ It shall be unlawful for—
 
 #### (j) Judicial review
 
-Any party aggrieved by an order of the Board under this section may obtain a review of suchorder by filing in the court of appeals of the United States for the circuit in which the principal office of such party is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Board be modified, terminated, or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the Board shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Board. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari as provided in section 1254 of title 28.
+Any party aggrieved by an order of the Board under this section may obtain a review of such order by filing in the court of appeals of the United States for the circuit in which the principal office of such party is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Board be modified, terminated, or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the Board shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Board. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari as provided in section 1254 of title 28.
 
 #### (k) Savings clause
 
@@ -903,7 +903,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (A) New activities
 
-&emsp;&emsp;If a mutual holding company acquires or merges with another holding company under paragraph (5)(C), the holding company acquired or the holding company resulting from such merger or acquisition may onlyinvest in assets and engage in activities which are authorized under paragraph (5).
+&emsp;&emsp;If a mutual holding company acquires or merges with another holding company under paragraph (5)(C), the holding company acquired or the holding company resulting from such merger or acquisition may only invest in assets and engage in activities which are authorized under paragraph (5).
 
 #### (B) Grace period for divesting prohibited assets or discontinuing prohibited activities
 
@@ -975,7 +975,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (i) Advance notice required
 
-&emsp;&emsp;&emsp;Each subsidiary of a mutual holding company that is a savings association shall give the appropriate Federal banking agency and the Board notice not later than 30 days before the date of a proposed declaration by the board of directors of the savings association of any dividend on the guaranty, permanent, or other nonwithdrawable stock of the savings association.
+&emsp;&emsp;&emsp;Each subsidiary of a mutual holding company that is a savings association shall give the appropriate Federal banking agency and the Board notice not later than30 days before the date of a proposed declaration by the board of directors of the savings association of any dividend on the guaranty, permanent, or other nonwithdrawable stock of the savings association.
 
 #### (ii) Invalid dividends
 
@@ -1037,7 +1037,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (A) Administrative review
 
-&emsp;&emsp;After a directive referred to in paragraph (1) is issued, the savings and loan holding company, or any subsidiary of such holding company subject to the directive, may object and present in writing its reasons why the directive should be modified or rescinded. Unless within 10 days after receipt of such response the Board affirms, modifies, or rescinds the directive, such directive shall automatically lapse.
+&emsp;&emsp;After a directive referred to in paragraph (1) is issued, the savings and loan holding company, or any subsidiary of such holding company subject to the directive, may object and present in writing its reasons why the directive should be modified or rescinded. Unless within 10 days after receiptof such response the Board affirms, modifies, or rescinds the directive, such directive shall automatically lapse.
 
 #### (B) Judicial review
 
@@ -1115,7 +1115,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 &emsp;&emsp;(B) inadvertently transmits or publishes any report which is minimally late,
 
-> &emsp;shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such holding companyor subsidiary shall have the burden of proving by a preponderence <sup>8</sup> of the evidence that an error was inadvertent and unintentional and that a report was inadvertently transmitted or published late.
+> &emsp;shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. Such holding company or subsidiary shall have the burden of proving by a preponderence <sup>8</sup> of the evidence that an error was inadvertent and unintentional and that a report was inadvertently transmitted or published late.
 
 #### (2) Second tier
 
@@ -1185,7 +1185,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
 
-(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a),title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 111–203, title III, §369(8), title VI, §§604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, 124 Stat. 1564, 1602–1604, 1607, 1615, 1635, 1636.)
+(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 111–203, title III, §369(8), title VI, §§604(g), (h)(2), (i), 606(b), 616(b), 623(c)–625(a), July 21, 2010, 124 Stat. 1564, 1602–1604, 1607, 1615, 1635, 1636.)
 
 #### References in Text
 
@@ -1439,7 +1439,7 @@ Subsec. (m). Pub. L. 101–73, §303(a), amended subsec. (m) generally, revising
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 369(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L.111–203, set out as a note under section 906 of Title 2, The Congress.
+Amendment by section 369(8) of Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
 Amendment by section 604(g), (h)(2), (i) of Pub. L. 111–203 effective on the transfer date, see section 604(j) of Pub. L. 111–203, set out as a note under section 1462 of this title.
 

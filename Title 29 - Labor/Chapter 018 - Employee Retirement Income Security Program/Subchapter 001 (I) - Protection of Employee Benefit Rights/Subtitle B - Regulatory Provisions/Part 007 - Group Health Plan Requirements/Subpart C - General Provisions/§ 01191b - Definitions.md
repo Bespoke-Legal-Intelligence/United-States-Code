@@ -24,7 +24,7 @@ For purposes of this part—
 
 #### (1) Health insurance coverage
 
-&emsp;The term "health insurance coverage" means benefits consisting of medical care\(provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
+&emsp;The term "health insurance coverage" means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
 
 #### (2) Health insurance issuer
 

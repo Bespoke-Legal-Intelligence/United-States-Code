@@ -46,7 +46,7 @@ If the cause of action is sustained in whole or in part by a decision of the Uni
 
 Regulations shall be prescribed by the Secretary to implement the procedures required under this section.
 
-(June 17, 1930, ch. 497, title IV, §516, 46 Stat. 735; June 25, 1938, ch. 679, §17(a), 52 Stat. 1084; June 25, 1948, ch. 646, §39, 62 Stat. 992; Pub. L. 91–271, title II, §209, June 2, 1970, 84 Stat. 286; Pub. L. 93–618, title III, §§321(f)(1), 331(b), Jan. 3, 1975, 88 Stat. 2048, 2052; Pub. L. 96–39, title X, §1001(b)(1), July 26, 1979, 93 Stat. 303; Pub. L. 96–417, title VI, §§601(6), 607, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 97–164, title I, §163(a)(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 99–514, title XVIII, §1888(5), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–418, title I, §1326(d)(3), Aug. 23, 1988, 102 Stat. 1204.)
+(June 17, 1930, ch. 497, title IV, §516, 46 Stat. 735; June 25, 1938, ch. 679, §17(a), 52 Stat. 1084; June 25, 1948, ch. 646, §39, 62 Stat. 992; Pub. L. 91–271, title II, §209, June 2, 1970, 84 Stat. 286; Pub. L. 93–618, title III, §§321(f)(1), 331(b), Jan. 3, 1975, 88 Stat. 2048, 2052; Pub. L. 96–39, title X, §1001(b)(1),July 26, 1979, 93 Stat. 303; Pub. L. 96–417, title VI, §§601(6), 607, Oct. 10, 1980, 94 Stat. 1744, 1745; Pub. L. 97–164, title I, §163(a)(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 99–514, title XVIII, §1888(5), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 100–418, title I, §1326(d)(3), Aug. 23, 1988, 102 Stat. 1204.)
 
 #### Prior Provisions
 
@@ -126,7 +126,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan.2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 11288, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
+Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 11288, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -14,7 +14,7 @@ The Secretary shall, within six months after the publication of each final membe
 
 #### (b) Property not transferred in accordance with recognized procedure
 
-Title to any tribal property that is not transferred in accordance with the provisions of subsection (a) of this section shall be transferred by the Secretary either to all members of the tribe as tenants in common or to one or more trustees designated by him for the liquidation and distribution of assets among the members of the tribe under such terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the trust agreement shall provide for the termination of the trust not more than three years from the date of such transfer unless the term of the trust is extended by order of a judge of a court of record designated in the trust agreement.
+Title to any tribal property that is not transferred in accordance with the provisions of subsection (a) of this section shall be transferred by the Secretary either to all members of the tribe as tenants in common or to one or more trusteesdesignated by him for the liquidation and distribution of assets among the members of the tribe under such terms and conditions as the Secretary may prescribe: <i>Provided</i>, That the trust agreement shall provide for the termination of the trust not more than three years from the date of such transfer unless the term of the trust is extended by order of a judge of a court of record designated in the trust agreement.
 
 #### (c) Selection of trustees; approval by Secretary; election to retain property
 

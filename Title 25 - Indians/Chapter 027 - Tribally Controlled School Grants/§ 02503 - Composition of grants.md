@@ -22,7 +22,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (A) Applicability of certain laws
 
-&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
 
 &emsp;&emsp;&emsp;(i) title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
@@ -58,7 +58,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (ii) Submission of accounting
 
-&emsp;&emsp;&emsp;At the end of the period designated for the work covered by the funds received, the grant recipient shall submit to the Secretary a separate accounting of the work done and the funds expended.
+&emsp;&emsp;&emsp;At the end of the period designated for the work covered by the funds received,the grant recipient shall submit to the Secretary a separate accounting of the work done and the funds expended.
 
 #### (iii) Use of funds
 
@@ -98,7 +98,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe <sup>6</sup> or organization's grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
+&emsp;&emsp;If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe <sup>6</sup> or organization's grant under this chapter the funds described in subsection (a)(2) within 180 days after the filing of the request, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) be deemed to have approved such request; and
 
@@ -106,7 +106,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (B) Rights
 
-&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
+&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
 
 (Pub. L. 100–297, title V, §5204, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2066.)
 
@@ -122,7 +122,7 @@ Section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)), referred t
 
 #### Prior Provisions
 
-A prior section 2503, Pub. L. 100–297, title V, §5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, §10(a), (b), Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, §26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
+A prior section 2503, Pub. L. 100–297, title V, §5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, §10(a), (b),Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, §26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
 
 #### Effective Date
 

@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 
@@ -176,11 +176,31 @@ In subsection (h)(2), the words "for both front outboard seating positions" are 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
 <b>1998</b>—Subsec. (g)(1). Pub. L. 105–178 substituted "annually" for "every 6 months" in introductory provisions.
+
+#### Improvement of Data Collection on Child Occupants in Vehicle Crashes
+
+Pub. L. 114–94, div. B, title XXIV, §24407, Dec. 4, 2015, 129 Stat. 1726, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:
+
+&emsp;"(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. \[sic\]
+
+&emsp;"(2) If a five-point harness child restraint system was in use during the crash, whether the child restraint system was forward-facing or rear-facing in the vehicle concerned.
+
+"(b)
+
+Consultation.—In implementing subsection (a), the Secretary shall work with law enforcement officials, safety advocates, the medical community, and research organizations to improve the recordation of data described in subsection (a) in police and other applicable incident reports.
+
+"(c)
+
+Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on child occupant crash data collection in the crash investigation data collection system of the National Highway Traffic Safety Administration pursuant to the revision required by subsection (a)."
 
 #### Child Safety Seats
 
@@ -282,7 +302,7 @@ Pub. L. 107–318, Dec. 4, 2002, 116 Stat. 2772, provided that:
 
 "(a)
 
-In General.—The Secretary of Transportation (hereafter referred to as the 'Secretary') shall initiate a rulemaking proceeding to establish performance requirements for child restraints, including booster seats, for the restraint of children weighing more than 50 pounds.
+In General.—The Secretary of Transportation (hereafter referred to as the 'Secretary') shall initiatea rulemaking proceeding to establish performance requirements for child restraints, including booster seats, for the restraint of children weighing more than 50 pounds.
 
 "(b)
 

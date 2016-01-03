@@ -10,7 +10,7 @@ There is established a committee to be known as the HIT Standards Committee to r
 
 #### (A) In general
 
-&emsp;&emsp;The HIT Standards Committee shall recommend to the National Coordinator standards, implementation specifications, and certification criteria described in subsection (a) that have been developed, harmonized, or recognized by the HIT Standards Committee. The HIT Standards Committee shall update such recommendations and make new recommendations as appropriate, including in response to a notification sent under section 300jj–14(a)(2)(B) of this title. Such recommendations shall be consistent with the latest recommendations made by the HIT Policy Committee.
+&emsp;&emsp;The HIT Standards Committee shall recommend to the National Coordinator standards, implementation specifications, and certification criteria described in subsection\(a) that have been developed, harmonized, or recognized by the HIT Standards Committee. The HIT Standards Committee shall update such recommendations and make new recommendations as appropriate, including in response to a notification sent under section 300jj–14(a)(2)(B) of this title. Such recommendations shall be consistent with the latest recommendations made by the HIT Policy Committee.
 
 #### (B) Harmonization
 

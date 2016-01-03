@@ -22,5 +22,5 @@ The Secretary shall mark, for the protection of navigation, any component of a d
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §507(a), inserted "and the provision of adequate opportunities for publicinvolvement" after "international law" and substituted "shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee's operations manual, with respect to" for "shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,".
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §507(a), inserted "and the provision of adequate opportunities for public involvement" after "international law" and substituted "shall prescribe and enforce procedures, either by regulation (for basic standards and conditions) or by the licensee's operations manual, with respect to" for "shall prescribe by regulation and enforce procedures with respect to any deepwater port, including, but not limited to,".
 

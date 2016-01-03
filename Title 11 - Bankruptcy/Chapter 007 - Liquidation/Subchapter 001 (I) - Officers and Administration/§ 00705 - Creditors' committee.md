@@ -10,7 +10,7 @@
 
 #### legislative statements
 
-Section 705(a) of the House amendment adopts a provision contained in the Senate amendment that limitsa committee of creditors to not more than 11; the House bill contained no maximum limitation.
+Section 705(a) of the House amendment adopts a provision contained in the Senate amendment that limits a committee of creditors to not more than 11; the House bill contained no maximum limitation.
 
 #### senate report no. 95–989
 

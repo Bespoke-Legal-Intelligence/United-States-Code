@@ -18,7 +18,7 @@
 
 &emsp;(8) A person covered by section 1475 or 1476 of this title who performed active duty, or inactive duty training, without pay is considered to have been entitled to basic pay while performing that duty or training.
 
-&emsp;(9) A person covered by section 1475 or 1476 of this title who incurred a disability while onactive duty or inactive duty training and who became entitled to basic pay while receiving hospital or medical care, including out-patient care, for that disability, is considered to have been on active duty or inactive duty training, as the case may be, for as long as he is entitled to that pay.
+&emsp;(9) A person covered by section 1475 or 1476 of this title who incurred a disability while on active duty or inactive duty training and who became entitled to basic pay while receiving hospital or medical care, including out-patient care, for that disability, is considered to have been on active duty or inactive duty training, as the case may be, for as long as he is entitled to that pay.
 
 (b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting "$12,000" for "$6,000" in introductory provisions.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and "$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
+<b>1991</b>—Subsec. (a). Pub. L. 102–190, in first sentence, substituted "1475 through 1477" for "1475–1477" and"$6,000" for "equal to six months' pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000."
 
 <b>1966</b>—Subsec. (a)(4). Pub. L. 89–718 struck out ", United States Code" after "title 37" in two places.
 
@@ -164,7 +164,7 @@ Pub. L. 109–163, div. A, title VI, §664(a)(3), Jan. 6, 2006, 119 Stat. 3316, 
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 411h of Title 37, Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans' Benefits, and enacting provisions set out as notes underthis section, section 411h of Title 37, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 411h of Title 37, Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans' Benefits, and enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
 
 Pub. L. 109–13, div. A, title I, §1013(d), (e), May 11, 2005, 119 Stat. 248, provided that:
 

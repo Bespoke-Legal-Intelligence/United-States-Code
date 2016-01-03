@@ -2,7 +2,7 @@
 
 (a) There is established an advisory committee which shall be composed of—
 
-&emsp;(1) not less than five nor more than twenty individuals appointed by the United States Commissioners who shall select such individuals from the various groups concerned with the fisheries covered by the Convention; and
+&emsp;(1) not less than five nor more than twenty individuals appointed by the United StatesCommissioners who shall select such individuals from the various groups concerned with the fisheries covered by the Convention; and
 
 &emsp;(2) the chairmen (or their designees) of the New England, Mid-Atlantic, South Atlantic, Caribbean, and Gulf Fishery Management Councils established under section 302(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)).
 

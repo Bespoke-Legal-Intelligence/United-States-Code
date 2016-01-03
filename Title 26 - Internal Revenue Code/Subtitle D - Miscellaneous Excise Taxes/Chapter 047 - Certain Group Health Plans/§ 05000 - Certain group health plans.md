@@ -64,5 +64,5 @@ Amendment by Pub. L. 101–239 applicable to items and services furnished after 
 
 #### Effective Date
 
-Section applicable to items and services furnished on or after Jan. 1, 1987, see section 9319(f) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1395y of Title 42, The Public Health and Welfare.
+Section applicable to items and services furnished on or after Jan. 1, 1987, see section 9319(f) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment noteunder section 1395y of Title 42, The Public Health and Welfare.
 

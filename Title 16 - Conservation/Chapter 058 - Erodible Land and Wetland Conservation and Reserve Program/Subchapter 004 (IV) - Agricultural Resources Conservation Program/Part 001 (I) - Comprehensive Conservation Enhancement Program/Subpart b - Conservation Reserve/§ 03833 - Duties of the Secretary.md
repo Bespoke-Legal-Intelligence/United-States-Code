@@ -20,7 +20,7 @@ The Secretary shall permit certain activities or commercial uses of land that is
 
 &emsp;(1) harvesting, grazing, or other commercial use of the forage in response to a drought, flooding, or other emergency, without any reduction in the rental rate;
 
-&emsp;(2) consistent with the conservation of soil, water quality, and wildlife habitat (includinghabitat during primary nesting seasons for birds in the area), and in exchange for a reduction of not less than 25 percent in the annual rental rate for the acres covered by the authorized activity, managed harvesting and other commercial use (including the managed harvesting of biomass), except that in permitting those activities, the Secretary, in coordination with the State technical committee—
+&emsp;(2) consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during primary nesting seasons for birds in the area), and in exchange for a reduction of not less than 25 percent in the annual rental rate for the acres covered by the authorized activity, managed harvesting and other commercial use (including the managed harvesting of biomass), except that in permitting those activities, the Secretary, in coordination with the State technical committee—
 
 &emsp;&emsp;(A) shall develop appropriate vegetation management requirements; and
 

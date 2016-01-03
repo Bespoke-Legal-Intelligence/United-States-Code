@@ -110,7 +110,7 @@
 
 #### (1) In general
 
-&emsp;From the amounts made available to the Assistant Secretary and the Administrator undersection 1457(b)(6) of this title, the Assistant Secretary and the Administrator are authorized to provide grants under this section through the end of fiscal year 2022. Not more than 5 percent of such amounts may be obligated or expended to cover the administrative costs of carrying out this section.
+&emsp;From the amounts made available to the Assistant Secretary and the Administrator under section 1457(b)(6) of this title, the Assistant Secretary and the Administrator are authorized to provide grants under this section through the end of fiscal year 2022. Not more than 5 percent of such amounts may be obligated or expended to cover the administrative costs of carrying out this section.
 
 #### (2) Termination
 
@@ -204,7 +204,7 @@ Pub. L. 108–494, title I, §102, Dec. 23, 2004, 118 Stat. 3986, provided that:
 
 #### Purposes
 
-Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: "The purposes of this title \[see section 101 of title I of Pub. L. 108–494, set out as a Short Title of 2004 Amendment note under section 901 of this title\] are—
+Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: "The purposes of this title \[see section 101 of title I of Pub. L. 108–494, set out as a ShortTitle of 2004 Amendment note under section 901 of this title\] are—
 
 &emsp;"(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and
 

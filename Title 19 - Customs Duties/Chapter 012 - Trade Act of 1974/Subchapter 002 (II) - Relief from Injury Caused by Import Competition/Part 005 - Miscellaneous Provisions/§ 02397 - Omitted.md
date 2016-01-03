@@ -38,7 +38,7 @@ Trust Fund.—The amendments made by section 1427 \[enacting section 2396 of thi
 
 "(d)
 
-Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date onwhich the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
+Eligibility of Workers and Firms.—The amendments made by sections 1421(b) and 1424(b) \[amending sections 2272, 2296, and 2341 of this title\] shall take effect on the date that is 1 year after the first date on which the amendment made by section 1428(b) \[enacting this section\] applies with respect to any articles.
 
 "(e)
 

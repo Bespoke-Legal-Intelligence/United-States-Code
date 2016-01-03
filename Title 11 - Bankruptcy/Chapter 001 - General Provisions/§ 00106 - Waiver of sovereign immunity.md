@@ -12,7 +12,7 @@
 
 &emsp;(5) Nothing in this section shall create any substantive claim for relief or cause of action not otherwise existing under this title, the Federal Rules of Bankruptcy Procedure, or nonbankruptcy law.
 
-(b) A governmental unit that has filed a proof of claim in the case is deemed to have waived sovereign immunity with respect to a claimagainst such governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which the claim of such governmental unit arose.
+(b) A governmental unit that has filed a proof of claim in the case is deemed to have waived sovereign immunity with respect to a claim against such governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which the claim of such governmental unit arose.
 
 (c) Notwithstanding any assertion of sovereign immunity by a governmental unit, there shall be offset against a claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
 

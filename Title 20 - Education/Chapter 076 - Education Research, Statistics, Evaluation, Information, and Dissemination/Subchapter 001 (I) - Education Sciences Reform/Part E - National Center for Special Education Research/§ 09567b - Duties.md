@@ -86,7 +86,7 @@ The Special Education Research Commissioner shall propose to the Director a rese
 
 The Special Education Research Center shall—
 
-&emsp;(1) synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and resultsof special education research conducted or supported by the Special Education Research Center; and
+&emsp;(1) synthesize and disseminate, through the National Center for Education Evaluation and Regional Assistance, the findings and results of special education research conducted or supported by the Special Education Research Center; and
 
 &emsp;(2) assist the Director in the preparation of a biennial report, as described in section 9519 of this title.
 

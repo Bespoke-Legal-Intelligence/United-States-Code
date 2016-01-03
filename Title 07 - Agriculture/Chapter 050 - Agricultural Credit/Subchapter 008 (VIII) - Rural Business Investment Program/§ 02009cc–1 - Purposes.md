@@ -2,7 +2,7 @@
 
 The purposes of the Rural Business Investment Program established under this subchapter are—
 
-&emsp;(1) to promote economic development and the creation of wealth and job opportunities in rural areas and among individuals living inthose areas by encouraging developmental venture capital investments in smaller enterprises primarily located in rural areas; and
+&emsp;(1) to promote economic development and the creation of wealth and job opportunities in rural areas and among individuals living in those areas by encouraging developmental venture capital investments in smaller enterprises primarily located in rural areas; and
 
 &emsp;(2) to establish a developmental venture capital program, with the mission of addressing the unmet equity investment needs of small enterprises located in rural areas, by authorizing the Secretary—
 

@@ -42,7 +42,7 @@ Grant Authority.—The Secretary of Housing and Urban Development may, to the ex
 
 Goals and Accountability.—In making grants under this section, the Secretary shall take such actions as may be necessary to ensure that—
 
-&emsp;"(1) assistance provided under this section is used to facilitate and encourage innovative homeownership opportunities through the provision of self-helphousing, under which the homeowner contributes a significant amount of sweat equity toward the construction of the new dwellings;
+&emsp;"(1) assistance provided under this section is used to facilitate and encourage innovative homeownership opportunities through the provision of self-help housing, under which the homeowner contributes a significant amount of sweat equity toward the construction of the new dwellings;
 
 &emsp;"(2) assistance provided under this section for land acquisition and infrastructure development results in the development of not less than 4,000 new dwellings;
 
@@ -138,7 +138,7 @@ Fulfillment of Grant Agreement.—If the Secretary determines that an organizati
 
 Records and Audits.—During the period beginning upon the making of a grant under this section and ending upon close-out of the grant under subsection (l)—
 
-&emsp;"(1) the organization awarded the grant shall keep such records and adopt such administrative practices as the Secretary may require to ensure compliancewith the provisions of this section and the grant agreement; and
+&emsp;"(1) the organization awarded the grant shall keep such records and adopt such administrative practices as the Secretary may require to ensure compliance with the provisions of this section and the grant agreement; and
 
 &emsp;"(2) the Secretary and the Comptroller General of the United States, and any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
 

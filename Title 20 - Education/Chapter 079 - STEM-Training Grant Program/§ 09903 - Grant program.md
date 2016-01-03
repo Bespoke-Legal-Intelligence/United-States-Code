@@ -38,7 +38,7 @@ To be eligible to apply for a grant under this section, an institution of higher
 
 &emsp;(5) require that master teachers employed by the institution will supervise field experiences of students in the program;
 
-&emsp;(6) require that the program complies with State certification or licensing requirements and the requirements under section 7801(23) of this title for highly qualified teachers;
+&emsp;(6) require that the program complies with State certification or licensing requirements and the requirements under section 9101(23) <sup>1</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(23)) for highly qualified teachers;
 
 &emsp;(7) develop during the course of the grant a plan for long-term support and assessment of its graduates, which shall include—
 
@@ -52,7 +52,7 @@ To be eligible to apply for a grant under this section, an institution of higher
 
 #### (e) Application requirements
 
-An institution of higher education seeking a grant under the program shall submit an application to the Director in such form, at such time, and containing such information and assurances as the Director may require, including—
+An institution of higher education seeking a grant under the program shall submit an application to the Director in such form, at suchtime, and containing such information and assurances as the Director may require, including—
 
 &emsp;(1) a description of the current rate at which individuals majoring in science, technology, engineering, and mathematics become certified as elementary and secondary teachers;
 
@@ -83,4 +83,10 @@ An institution of higher education may not receive a grant under this section un
 Within 90 days after January 4, 2011, the Director shall initiate a proceeding to promulgate guidance for the administration of the grant program established under subsection (a).
 
 (Pub. L. 111–358, title V, §553, Jan. 4, 2011, 124 Stat. 4022.)
+
+#### References in Text
+
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to "highly qualified", as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

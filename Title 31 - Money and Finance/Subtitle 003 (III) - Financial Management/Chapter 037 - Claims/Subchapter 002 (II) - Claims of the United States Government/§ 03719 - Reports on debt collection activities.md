@@ -56,9 +56,9 @@ Subsec. (b). Pub. L. 104–134, §31001(aa)(3)(B), which directed that subsec. (
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Consolidation of Reports
 
-Pub. L. 104–134, title III, §31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: "Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report."
+Pub. L. 104–134, title III, §31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: "Notwithstanding anyother provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report."
 

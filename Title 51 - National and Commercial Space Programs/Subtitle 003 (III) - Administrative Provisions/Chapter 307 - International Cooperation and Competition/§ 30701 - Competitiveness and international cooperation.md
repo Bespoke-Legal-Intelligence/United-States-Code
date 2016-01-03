@@ -6,7 +6,7 @@ Limitation.—
 
 &emsp;(1)
 
-Solicitation of comment.—As part of the evaluation of the costs and benefits of entering into an obligation to conduct a space mission in which a foreign entity will participate as a supplier of the spacecraft, spacecraft system, or launch system, the Administrator shall solicit comment on the potential impact of such participation through notice published in Commerce Business Daily at least 45 days before entering into such an obligation.
+Solicitation of comment.—As part of the evaluation of the costs and benefits of entering into an obligation to conduct a space mission in which a foreign entity will participate as a supplier of the spacecraft, spacecraft system, or launch system, the Administratorshall solicit comment on the potential impact of such participation through notice published in Commerce Business Daily at least 45 days before entering into such an obligation.
 
 &emsp;(2)
 

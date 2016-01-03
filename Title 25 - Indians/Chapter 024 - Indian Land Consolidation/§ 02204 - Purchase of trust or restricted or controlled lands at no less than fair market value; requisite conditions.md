@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (b) of this section, any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
+&emsp;Subject to subsection (b), any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
 
 &emsp;&emsp;(A) any tract of trust or restricted land within the boundaries of the reservation of the tribe; or
 
@@ -22,13 +22,13 @@
 
 #### (b) Conditions applicable to purchase
 
-Subsection (a) of this section applies on the condition that—
+Subsection (a) applies on the condition that—
 
 &emsp;(1) any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
 
 &emsp;(2) if at any time within five years following the date of acquisition of such land by an individual pursuant to this section, such property is offered for sale or a petition is filed with the Secretary for removal of the property from trust or restricted status, the tribe shall have 180 days from the date it is notified of such offer or petition to acquire such property by paying to the owner the fair market value as determined by the Secretary; and
 
-&emsp;(3) the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transaction initiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title.
+&emsp;(3) the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transactioninitiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title.
 
 #### (c) Partition of highly fractionated Indian lands
 
@@ -90,7 +90,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (F) Notice to owners on completion of appraisal
 
-&emsp;&emsp;Upon completion of the appraisal, the Secretary shall give notice of the requested partition and appraisal to all owners of undivided interests in the parcel, in accordancewith principles of due process. Such notice shall include the following requirements:
+&emsp;&emsp;Upon completion of the appraisal, the Secretary shall give notice of the requested partition and appraisal to all owners of undivided interests in the parcel, in accordance with principles of due process. Such notice shall include the following requirements:
 
 #### (i) Written notice
 
@@ -292,7 +292,7 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 <b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted "by the Secretary" for "by Secretary" in concluding provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe'sjurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
@@ -314,9 +314,9 @@ Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c).
 
 Subsec. (d). Pub. L. 108–374, §4, as amended by Pub. L. 109–157, §8(a)(1), added subsec. (d).
 
-<b>2001</b>—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and "Subsection (a) of this section applies on the condition that—" for ": <i>Provided</i>, That—", was executed by making the substitution for "<i>Provided</i>, That—" to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
+<b>2001</b>—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and "Subsection (a) applies on the condition that—" for ": <i>Provided</i>, That—", was executed by making the substitution for "<i>Provided</i>, That—" to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
 
-Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and "Subject to subsection (b) of this section, any Indian" for "Any Indian" and ". Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met." for the colon before "<i>Provided</i>, That—".
+Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and "Subject to subsection (b), any Indian" for "Any Indian" and ". Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met." for the colon before "<i>Provided</i>, That—".
 
 Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted "and" at end.
 

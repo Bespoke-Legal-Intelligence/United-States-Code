@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall have exclusive jurisdiction, except to the extent otherwise provided in the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and subparagraphs (C), (D), and (I) of this paragraph and subsections (c) and (f), with respect to accounts, agreements (including any transaction which is of the character of, or is commonly known to the trade as, an "option", "privilege", "indemnity", "bid", "offer", "put", "call", "advance guaranty", or "decline guaranty"), and transactions involving swaps or contracts of sale of a commodity for future delivery (including significant price discovery contracts), traded or executed on a contract market designated pursuant to section 7 of this title or a swap execution facility pursuant to section 7b–3 of this title or any other board of trade, exchange, or market, and transactions subject to regulation by the Commission pursuant to section 23 of this title. Except as hereinabove provided, nothing contained in this section shall (I) supersede or limit the jurisdiction at any time conferred on the Securities and Exchange Commission or other regulatory authorities under the laws of the United States or of any State, or (II) restrict the Securities and Exchange Commission and such other authorities from carrying out their duties and responsibilities in accordance with such laws. Nothing in this section shall supersede or limit the jurisdiction conferred on courts of the United States or any State.
+&emsp;&emsp;The Commission shall have exclusive jurisdiction, except to the extent otherwise provided in the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and subparagraphs (C), (D), and (I) of this paragraph and subsections (c) and (f), with respect to accounts, agreements (including any transaction which is of the character of, or is commonly known to the trade as, an "option", "privilege", "indemnity", "bid", "offer", "put", "call", "advance guaranty", or "decline guaranty"), and transactions involving swaps or contracts of sale of a commodity for future delivery (including significant price discovery contracts), traded or executed on a contract market designated pursuant to section 7 of this title or a swap execution facility pursuant to section 7b–3 of this title or any other board of trade, exchange, or market, and transactions subject to regulation by the Commission pursuant to section 23 of this title. Except as hereinabove provided, nothing contained in this section shall (I) supersede or limit the jurisdiction at any time conferred on the Securities and Exchange Commission or other regulatory authorities under the laws of theUnited States or of any State, or (II) restrict the Securities and Exchange Commission and such other authorities from carrying out their duties and responsibilities in accordance with such laws. Nothing in this section shall supersede or limit the jurisdiction conferred on courts of the United States or any State.
 
 #### (B) Liability of principal for act of agent
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(iii) If, in its discretion, the Commission determines that a stock index futures contract, notwithstanding its conformance with the requirements in clause (ii) of this subparagraph, can reasonably be used as a surrogate for trading a security (including a security futures product), it may, by order, require such contract and any option thereon be traded and regulated as security futures products as defined in section 3(a)(56) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(56)\] and section 1a of this title subject to all rules and regulations applicable to security futures products under this chapter and the securities laws as defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\].
 
-&emsp;&emsp;&emsp;(iv) No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted security under or <sup>2</sup> section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] on January 11, 1983), or except as provided in clause (ii) of this subparagraph or subparagraph (D), any group or index of such securities or any interest therein or based on the value thereof.
+&emsp;&emsp;&emsp;(iv) No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted securityunder or <sup>2</sup> section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] on January 11, 1983), or except as provided in clause (ii) of this subparagraph or subparagraph (D), any group or index of such securities or any interest therein or based on the value thereof.
 
 &emsp;&emsp;&emsp;(v)(I) Notwithstanding any other provision of this chapter, any contract market in a stock index futures contract (or option thereon) other than a security futures product, or any derivatives transaction execution facility on which such contract or option is traded, shall file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin (initial and maintenance) for such stock index futures contract (or option thereon) other than security futures products.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(I) Except as otherwise provided in a rule, regulation, or order issued pursuant to clause (v) of this subparagraph, any security underlying the security future, including each component security of a narrow-based security index, is registered pursuant to section 12 of the Securities Exchange Act of 1934 \[15 U.S.C. 78l\].
 
-&emsp;&emsp;&emsp;(II) If the security futures product is not cash settled, the board of trade on which the security futures product is traded has arrangements in place with a clearing agency registered pursuant to section 17A of the Securities Exchange Act of 1934 \[15U.S.C. 78q–1\] for the payment and delivery of the securities underlying the security futures product.
+&emsp;&emsp;&emsp;(II) If the security futures product is not cash settled, the board of trade on whichthe security futures product is traded has arrangements in place with a clearing agency registered pursuant to section 17A of the Securities Exchange Act of 1934 \[15 U.S.C. 78q–1\] for the payment and delivery of the securities underlying the security futures product.
 
 &emsp;&emsp;&emsp;(III) Except as otherwise provided in a rule, regulation, or order issued pursuant to clause (v) of this subparagraph, the security future is based upon common stock and such other equity securities as the Commission and the Securities and Exchange Commission jointly determine appropriate.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(aa) has been designated by the Commission as a contract market in such security futures product; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) is a registered derivatives transaction execution facility for the securityfutures product that has provided a certification with respect to the security futures product pursuant to clause (vii);
+&emsp;&emsp;&emsp;&emsp;(bb) is a registered derivatives transaction execution facility for the security futures product that has provided a certification with respect to the security futures product pursuant to clause (vii);
 
 &emsp;&emsp;&emsp;(II) the contract is executed or consummated by, through, or with a member of the contract market or registered derivatives transaction execution facility; and
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(II) The Commission and the Securities and Exchange Commission, by order, may jointly exempt any person from compliance with the criterion specified in clause (i)(IV) to the extent such exemption fosters the development of fair and orderly markets in security futures products, is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-&emsp;&emsp;(vi)(I) Notwithstanding clauses (i) and (vii), until the compliance date, a board of trade shall not be required to meet the criterion specified in clause (i)(IV).
+&emsp;&emsp;(vi)(I) Notwithstanding clauses (i) and (vii), until the compliance date, a board oftrade shall not be required to meet the criterion specified in clause (i)(IV).
 
 &emsp;&emsp;(II) The Commission and the Securities and Exchange Commission shall jointly publish in the Federal Register a notice of the compliance date no later than 165 days before the compliance date.
 
@@ -186,13 +186,13 @@
 
 #### (B) Rates of pay
 
-&emsp;&emsp;Rates of basic pay for all employees of the Commission may be set and adjusted by the Commission without regard to chapter 51 or subchapter III of chapter 53 of title 5.
+&emsp;&emsp;Rates of basic pay for all employees of the Commission may be set and adjusted by theCommission without regard to chapter 51 or subchapter III of chapter 53 of title 5.
 
 #### (C) Comparability
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commission may provide additional compensation and benefits to employees ofthe Commission if the same type of compensation or benefits are provided by any agency referred to in section 1833b(a) of title 12 or could be provided by such an agency under applicable provisions of law (including rules and regulations).
+&emsp;&emsp;&emsp;The Commission may provide additional compensation and benefits to employees of the Commission if the same type of compensation or benefits are provided by any agency referred to in section 1833b(a) of title 12 or could be provided by such an agency under applicable provisions of law (including rules and regulations).
 
 #### (ii) Consultation
 
@@ -216,7 +216,7 @@
 
 &emsp;(A) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry.
 
-&emsp;(B) Whenever the Commission transmits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit copies thereof to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress. In instances in which the Commission voluntarily seeks to obtain the comments or review of any officer or agency of the United States, the Commission shall include adescription of such actions in its legislative recommendations, testimony, or comments on legislation which it transmits to the Congress.
+&emsp;(B) Whenever the Commission transmits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit copies thereof to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation to any officer or agency of theUnited States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress. In instances in which the Commission voluntarily seeks to obtain the comments or review of any officer or agency of the United States, the Commission shall include a description of such actions in its legislative recommendations, testimony, or comments on legislation which it transmits to the Congress.
 
 &emsp;(C) Whenever the Commission issues for official publication any opinion, release, rule, order, interpretation, or other determination on a matter, the Commission shall provide that any dissenting, concurring, or separate opinion by any Commissioner on the matter be published in full along with the Commission opinion, release, rule, order, interpretation, or determination.
 
@@ -422,9 +422,9 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;&emsp;(bb) any such person's associated persons; or
 
-&emsp;&emsp;&emsp;(cc) any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of a contract market or a derivatives transaction execution facility.
+&emsp;&emsp;&emsp;(cc) any person who would be exempt from registration if engaging in the same activities in connection with transactions conducted on or subject to the rules of acontract market or a derivatives transaction execution facility.
 
-&emsp;&emsp;(III) Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuateany of the provisions of, or to accomplish any of the purposes of, this chapter in connection with the activities of persons subject to subclause (I).
+&emsp;&emsp;(III) Notwithstanding items (cc) and (gg) <sup>1</sup> of clause (i)(II), the Commission may make, promulgate, and enforce such rules and regulations as, in the judgment of the Commission, are reasonably necessary to effectuate any of the provisions of, or to accomplish any of the purposes of, this chapter in connection with the activities of persons subject to subclause (I).
 
 &emsp;&emsp;(IV) Subclause (III) of this clause shall not apply to—
 
@@ -790,7 +790,7 @@ It shall be unlawful for any person, other than an eligible contract participant
 
 &emsp;&emsp;&emsp;&emsp;(VII) an employee benefit plan as defined in paragraphs (3) and (32) of section 1002 of title 29;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) a person predominantly engaged in activities that are in the business of banking, or in activities that are financial in nature, as defined in section 1843(k) of title 12.
+&emsp;&emsp;&emsp;&emsp;(VIII) a person predominantly engaged in activities that are in the business ofbanking, or in activities that are financial in nature, as defined in section 1843(k) of title 12.
 
 #### (ii) Exclusion
 
@@ -810,9 +810,19 @@ It shall be unlawful for any person, other than an eligible contract participant
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+&emsp;&emsp;&emsp;An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-#### (ii) Prohibition relating to certain affiliates
+&emsp;&emsp;&emsp;&emsp;(I) enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+&emsp;&emsp;&emsp;&emsp;(II) is directly and wholly-owned by another affiliate qualified for the exception under this subparagraph or an entity that is not a financial entity;
+
+&emsp;&emsp;&emsp;&emsp;(III) is not indirectly majority-owned by a financial entity;
+
+&emsp;&emsp;&emsp;&emsp;(IV) is not ultimately owned by a parent company that is a financial entity; and
+
+&emsp;&emsp;&emsp;&emsp;(V) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
+
+#### (ii) Limitation on qualifying affiliates
 
 &emsp;&emsp;&emsp;The exception in clause (i) shall not apply if the affiliate is—
 
@@ -824,15 +834,51 @@ It shall be unlawful for any person, other than an eligible contract participant
 
 &emsp;&emsp;&emsp;&emsp;(IV) a major security-based swap participant;
 
-&emsp;&emsp;&emsp;&emsp;(V) an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3), but for paragraph (1) or (7) of subsection (c) of that Act <sup>8</sup> (15 U.S.C. 80a–3(c));
+&emsp;&emsp;&emsp;&emsp;(V) a commodity pool;
 
-&emsp;&emsp;&emsp;&emsp;(VI) a commodity pool; or
+&emsp;&emsp;&emsp;&emsp;(VI) a bank holding company;
 
-&emsp;&emsp;&emsp;&emsp;(VII) a bank holding company with over $50,000,000,000 in consolidated assets.
+&emsp;&emsp;&emsp;&emsp;(VII) a private fund, as defined in section 80b–2(a) of title 15;
 
-#### (iii) Transition rule for affiliates
+&emsp;&emsp;&emsp;&emsp;(VIII) an employee benefit plan or government <sup>8</sup> plan, as defined in paragraphs (3) and (32) of section 1002 of title 29;
+
+&emsp;&emsp;&emsp;&emsp;(IX) an insured depository institution;
+
+&emsp;&emsp;&emsp;&emsp;(X) a farm credit system institution;
+
+&emsp;&emsp;&emsp;&emsp;(XI) a credit union;
+
+&emsp;&emsp;&emsp;&emsp;(XII) a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12); or
+
+&emsp;&emsp;&emsp;&emsp;(XIII) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+#### (iii) Limitation on affiliates' affiliates
+
+&emsp;&emsp;&emsp;Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in clause (i) shall not apply with respect to an affiliate if the affiliate is itself affiliated with—
+
+&emsp;&emsp;&emsp;&emsp;(I) a major security-based swap participant;
+
+&emsp;&emsp;&emsp;&emsp;(II) a security-based swap dealer;
+
+&emsp;&emsp;&emsp;&emsp;(III) a major swap participant; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) a swap dealer.
+
+#### (iv) Conditions on transactions
+
+&emsp;&emsp;&emsp;With respect to an affiliate that qualifies for the exception in clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the affiliate may not enter into any swap other than for the purpose of hedging or mitigating commercial risk; and
+
+&emsp;&emsp;&emsp;&emsp;(II) neither the affiliate nor any person affiliated with the affiliate that is not a financial entity may enter into a swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under clause (i).
+
+#### (v) Transition rule for affiliates
 
 &emsp;&emsp;&emsp;An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 6s(e) of this title and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+#### (vi) Risk management program
+
+&emsp;&emsp;&emsp;Any swap entered into by an affiliate that qualifies for the exception in clause (i) shall be subject to a centralized risk management program of the affiliate,which is reasonably designed both to monitor and manage the risks associated with the swap and to identify each of the affiliates on whose behalf a swap was entered into.
 
 #### (E) Election of counterparty
 
@@ -872,19 +918,19 @@ The provisions of this chapter relating to swaps that were enacted by the Wall S
 
 &emsp;(1) have a direct and significant connection with activities in, or effect on, commerce of the United States; or
 
-&emsp;(2) contravene such rules or regulations as the Commission may prescribe or promulgateas are necessary or appropriate to prevent the evasion of any provision of this chapter that was enacted by the Wall Street Transparency and Accountability Act of 2010.
+&emsp;(2) contravene such rules or regulations as the Commission may prescribe or promulgate as are necessary or appropriate to prevent the evasion of any provision of this chapter that was enacted by the Wall Street Transparency and Accountability Act of 2010.
 
 #### (j) Committee approval by Board
 
 Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to execute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o\[d\]) only if an appropriate committee of the issuer's board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.
 
-(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749.)
+(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, §705(a), Dec. 18, 2015, 129 Stat. 3025.)
 
 #### References in Text
 
 The Wall Street Transparency and Accountability Act of 2010, referred to in subsecs. (a)(1)(A), (G)(i), (H) and (i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
 
-Section 77b(1) of title 15, referred to in subsec. (a)(1)(C)(i)(I), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
+Section 77b(1) of title 15, referred to in subsec. (a)(1)(C)(i)(I), was redesignated section 77b(a)(1) of title15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (iii)(II), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
@@ -907,6 +953,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Subsec. (a)(1)(B) of this section was formerly classified to section 4 of this title. Subsec. (a)(1)(C) of this section was formerly classified to section 2a of this title. Subsec. (a)(2) to (11) of this section was formerly classified to section 4a of this title. Subsec. (b) of this section was formerly classified to section 3 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
 <b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–203, §734(b)(1)(A), which directed amendment of subpar. (A) by striking "or 7a", could not be executed because of prior amendment by Pub. L. 111–203, §722(a)(1). See below.
 
@@ -968,7 +1016,7 @@ Subsec. (j). Pub. L. 111–203, §723(b), added subsec. (j).
 
 <b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–246, §13203(c), inserted "(including significant price discovery contracts)" after "future delivery".
 
-Subsec. (c)(2)(B), (C). Pub. L. 110–246, §13101(a), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to: in subpar. (B), applicability of chapter to an agreement, contract, or transaction in foreign currency that was a contract of sale of a commodity for future delivery or an option on such a contract and was offered to, or entered into with, a person who was not an eligible contract participant, unless the counterparty, or the person offering to be the counterparty, of the person was a financial institution, a registered broker or dealer or a registered futures commission merchant, an associated person of a registered broker or dealer or an affiliated person of a registered futures commission merchant, an insurance company or a regulated subsidiary or affiliate of such an insurance company, a financial holding company, or an investment bank holding company; and, in subpar. (C), applicability of sections 6b, 6c(b), 9, 12(a), 13a–1, 13a–2, 13b, and 15 of this title to agreements, contracts, or transactions described in former subpar. (B).
+Subsec. (c)(2)(B), (C). Pub. L. 110–246, §13101(a), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to: in subpar. (B), applicability of chapter to an agreement, contract, or transaction inforeign currency that was a contract of sale of a commodity for future delivery or an option on such a contract and was offered to, or entered into with, a person who was not an eligible contract participant, unless the counterparty, or the person offering to be the counterparty, of the person was a financial institution, a registered broker or dealer or a registered futures commission merchant, an associated person of a registered broker or dealer or an affiliated person of a registered futures commission merchant, an insurance company or a regulated subsidiary or affiliate of such an insurance company, a financial holding company, or an investment bank holding company; and, in subpar. (C), applicability of sections 6b, 6c(b), 9, 12(a), 13a–1, 13a–2, 13b, and 15 of this title to agreements, contracts, or transactions described in former subpar. (B).
 
 Subsec. (h)(3). Pub. L. 110–246, §13203(d), substituted "paragraphs (4) and (7)" for "paragraph (4)" in introductory provisions.
 
@@ -1004,7 +1052,7 @@ Subsec. (a)(1)(C)(ii). Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(A)(i
 
 Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(A)(ii)\], which directed insertion of ", and no derivatives transaction execution facility shall trade or execute such contracts of sale (or options on such contracts) for future delivery," after "contracts) for future delivery", was executed by making the insertion in the proviso in introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(A)(i)\], inserted "or register a derivatives transaction executionfacility that trades or executes," after "contract market in," in introductory provisions.
+Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(A)(i)\], inserted "or register a derivatives transaction execution facility that trades or executes," after "contract market in," in introductory provisions.
 
 Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(2)(B)(ii)(III)\], adjusted margins.
 
@@ -1310,7 +1358,7 @@ Pub. L. 93–463, title IV, §412, Oct. 23, 1974, 88 Stat. 1414, provided that: 
 
 <i><sup>7</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be "section".</i>
+<i><sup>8</sup></i><i> So in original. Probably should be "governmental".</i>
 
 <i><sup>9</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

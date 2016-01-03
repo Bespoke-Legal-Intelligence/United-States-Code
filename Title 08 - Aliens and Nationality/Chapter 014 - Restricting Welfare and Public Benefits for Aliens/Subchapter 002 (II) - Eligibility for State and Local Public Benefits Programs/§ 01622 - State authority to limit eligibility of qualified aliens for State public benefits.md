@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law and except as provided in subsection (b) of this section, a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in section 1641 of this title), a nonimmigrant under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], or an alien who is paroled into the United States under section 212(d)(5) of such Act \[8 U.S.C. 1182(d)(5)\] for less than one year.
+Notwithstanding any other provision of law and except as provided in subsection (b), a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in section 1641 of this title), a nonimmigrant under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], or an alien who is paroled into the United States under section 212(d)(5) of such Act \[8 U.S.C. 1182(d)(5)\] for less than one year.
 
 #### (b) Exceptions
 
@@ -40,7 +40,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 #### (4) Transition for those currently receiving benefits
 
-&emsp;An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefits on August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
+&emsp;An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefitson August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
 
 (Pub. L. 104–193, title IV, §412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
 
@@ -48,7 +48,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 

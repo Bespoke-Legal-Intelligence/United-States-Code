@@ -60,7 +60,7 @@ Subsec. (a)(3), (4). Pub. L. 103–226, §2(a)(2)(A)(ii)–(iv), added par. (3) 
 
 Subsec. (b)(1). Pub. L. 103–226, §2(a)(2)(B)(i), substituted "determines that such training would be in the interests of the Government." for "determines that the employee will otherwise be separated under conditions which would entitle the employee to severance pay under section 5595 of this title."
 
-Subsec. (b)(2). Pub. L. 103–226, §2(a)(2)(B)(ii), (iii), redesignated par. (3) as (2), in subpar. (C) substituted "such training" for "retaining the employee in theFederal service", and struck out former par. (2) which read as follows: "Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency."
+Subsec. (b)(2). Pub. L. 103–226, §2(a)(2)(B)(ii), (iii), redesignated par. (3) as (2), in subpar. (C) substituted "such training" for "retaining the employee in the Federal service", and struck out former par. (2) which read as follows: "Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency."
 
 Subsec. (b)(3). Pub. L. 103–226, §2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
@@ -206,7 +206,7 @@ Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
-Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
+Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the ExecutiveExchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 
 Sec. 2. <i>Program Limits</i>. The experimental program shall be conducted during the fiscal years 1987 through 1989, and not more than ten individuals may commence participation in the program during any fiscal year. Acceptance of voluntary services from such individuals may not result in the displacement of any employee of the government.
 

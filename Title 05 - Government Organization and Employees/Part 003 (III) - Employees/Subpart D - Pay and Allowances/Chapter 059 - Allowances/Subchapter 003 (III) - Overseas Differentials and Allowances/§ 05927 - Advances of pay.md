@@ -24,7 +24,7 @@
 
 #### References in Text
 
-Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in subsec. (a)(2), (3), are classified tosections 3943, 3951, and 3968, respectively, of Title 22, Foreign Relations and Intercourse.
+Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in subsec. (a)(2), (3), are classified to sections 3943, 3951, and 3968, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 

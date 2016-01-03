@@ -20,7 +20,7 @@ In order to carry out his responsibilities for the management of international s
 
 #### (b) Furnishing of advisory and training assistance
 
-Advisory and training assistance conducted by military personnel assigned under this sectionshall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
+Advisory and training assistance conducted by military personnel assigned under this section shall be kept to an absolute minimum. It is the sense of the Congress that advising and training assistance in countries to which military personnel are assigned under this section shall be provided primarily by other personnel who are not assigned under this section and who are detailed for limited periods to perform specific tasks.
 
 #### (c) Number of personnel assigned; waiver; procedures applicable
 
@@ -100,7 +100,7 @@ Subsec. (h). Pub. L. 95–384, §9(e), added subsec. (h).
 
 Subsec. (b). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to specified countries by President for implementation of management responsibilities during fiscal year 1978 under international security assistance programs, for provisions requiring specific Congressional authority for assignment of any military assistance advisory group, etc., to operate in any foreign country after Sept. 30, 1977, and provisions relating to assignment by the President of military personnel to diplomatic missions of the United States.
 
-Subsec. (c). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to nonspecified countries by President for performance of accounting and other management functions under international security assistance programs, for provisions limiting after Sept. 30, 1976, the number of military missions and groups to not more than 34.
+Subsec. (c). Pub. L. 95–92 substituted provisions relating to assignment of military personnel to nonspecifiedcountries by President for performance of accounting and other management functions under international security assistance programs, for provisions limiting after Sept. 30, 1976, the number of military missions and groups to not more than 34.
 
 Subsec. (d). Pub. L. 95–92 substituted provisions setting forth maximum number of military personnel assignable under subsecs. (b) and (c) of this section for fiscal year 1978 as 865, for provisions defining "military assistance advisory group, military mission, or other organization of United States military personnel performing similar military advisory functions under this chapter".
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting,possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 &emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
@@ -66,7 +66,7 @@
 
 (g) It shall be unlawful for any licensee or permittee knowingly to make any false entry in any record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
 
-(h) It shall be unlawful for any person to receive, possess, transport, ship, conceal, store, barter, sell, dispose of, or pledge or accept as security for a loan, any stolen explosive materials which are moving as, which are part of, which constitute, or which have been shipped or transported in, interstate or foreign commerce, eitherbefore or after such materials were stolen, knowing or having reasonable cause to believe that the explosive materials were stolen.
+(h) It shall be unlawful for any person to receive, possess, transport, ship, conceal, store, barter, sell, dispose of, or pledge or accept as security for a loan, any stolen explosive materials which are moving as, which are part of, which constitute, or which have been shipped or transported in, interstate or foreign commerce, either before or after such materials were stolen, knowing or having reasonable cause to believe that the explosive materials were stolen.
 
 (i) It shall be unlawful for any person—
 
@@ -96,7 +96,7 @@
 
 &emsp;(7) who, having been a citizen of the United States, has renounced the citizenship of that person <sup>3</sup>
 
-> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in or affecting interstate or foreign commerce.
+> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped ortransported in or affecting interstate or foreign commerce.
 
 (j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Attorney General. In promulgating such regulations, the Attorney General shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
@@ -116,7 +116,7 @@
 
 &emsp;(B) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by or on behalf of any agency of the United States performing a military or police function (including any military reserve component) or by or on behalf of the National Guard of any State, not later than 15 years after the date of entry into force of the Convention on the Marking of Plastic Explosives, with respect to the United States.
 
-(o) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed,the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
+(o) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
 
 (p)
 
@@ -154,7 +154,7 @@ The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2)
 
 Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted "or" at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
-"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+"(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation withthe Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
 "(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;".
 

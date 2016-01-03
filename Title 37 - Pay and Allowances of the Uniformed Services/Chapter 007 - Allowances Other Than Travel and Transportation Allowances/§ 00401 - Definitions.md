@@ -64,7 +64,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(E) any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991,105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
 
 Historical and Revision Notes
 
@@ -120,5 +120,5 @@ Pub. L. 103–160, div. A, title VI, §631(b), Nov. 30, 1993, 107 Stat. 1684, pr
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–64, title II, §206, July 9, 1973, 87 Stat. 149, provided that: "This Act \[enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of Title 50, Appendix, War and National Defense\] shall become effective July 1, 1973."
+Pub. L. 93–64, title II, §206, July 9, 1973, 87 Stat. 149, provided that: "This Act \[enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense\] shall become effective July 1, 1973."
 

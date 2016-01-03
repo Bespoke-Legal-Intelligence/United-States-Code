@@ -38,7 +38,7 @@ Finding Replacement Carriers.—When the Secretary requires an air carrier to co
 
 (g)
 
-Transfer of Authority.—If an air carrier, providing basic essential air service under section 41733 of this title between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related tothe service to the eligible place to the carrier that will provide the service, if—
+Transfer of Authority.—If an air carrier, providing basic essential air service under section 41733 of this title between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related to the service to the eligible place to the carrier that will provide the service, if—
 
 &emsp;(1) the carrier that will provide the service needs the authority; and
 
@@ -96,7 +96,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 In subsection (b), the words "If at the end of the notice period under subsection (a) of this section" are substituted for "If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential air service to such point, and if at the conclusion of the applicable period of notice" for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" are substituted for "shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
+In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" are substituted for "shall extend such requirement for suchadditional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
 
 In subsections (d)(1) and (e)(1), the word "fair" is omitted as being included in "reasonable".
 

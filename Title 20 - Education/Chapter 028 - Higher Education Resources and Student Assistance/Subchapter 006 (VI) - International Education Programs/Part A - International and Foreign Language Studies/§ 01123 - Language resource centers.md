@@ -22,7 +22,7 @@ The activities carried out by the centers described in subsection (a) of this se
 
 &emsp;&emsp;(E) a significant focus on the teaching and learning needs of the less commonly taught languages, including an assessment of the strategic needs of the United States, the determination of ways to meet those needs nationally, and the publication and dissemination of instructional materials in the less commonly taught languages;
 
-&emsp;&emsp;(F) the development and dissemination of materials designed to serve as a resource for foreign language teachers at the elementary and secondary school levels; and
+&emsp;&emsp;(F) the development and dissemination of materials designed to serve as a resource forforeign language teachers at the elementary and secondary school levels; and
 
 &emsp;&emsp;(G) the operation of intensive summer language institutes to train advanced foreign language students, to provide professional development, and to improve language instruction through preservice and inservice language training for teachers.
 

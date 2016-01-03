@@ -38,7 +38,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (2) Deadline for grievances
 
-&emsp;Except for a grievance that alleges fraud or criminal activity, a grievance shall be made not later than 1 year after the date of the alleged occurrence of the event that is the subject of the grievance.
+&emsp;Except for a grievance that alleges fraud or criminal activity, a grievance shall be madenot later than 1 year after the date of the alleged occurrence of the event that is the subject of the grievance.
 
 #### (3) Deadline for hearing and decision
 
@@ -60,7 +60,7 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 #### (ii) Appointed arbitrator
 
-&emsp;&emsp;&emsp;If the parties cannot agree on an arbitrator, the Chief Executive Officer shall appoint an arbitrator from a list of qualifiedarbitrators within 15 days after receiving a request for such appointment from one of the parties to the grievance.
+&emsp;&emsp;&emsp;If the parties cannot agree on an arbitrator, the Chief Executive Officer shall appoint an arbitrator from a list of qualified arbitrators within 15 days after receiving a request for such appointment from one of the parties to the grievance.
 
 #### (B) Deadline for proceeding
 

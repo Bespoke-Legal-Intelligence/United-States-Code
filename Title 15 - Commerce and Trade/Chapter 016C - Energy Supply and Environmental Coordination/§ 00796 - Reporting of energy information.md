@@ -6,7 +6,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (b) Powers of Federal Energy Administrator in obtaining energy information; verification of accuracy; compliance orders
 
-(1) In order to obtain energy information for the purpose of carrying out the provisions of subsection (a) of this section, the Federal Energy Administrator is authorized—
+(1) In order to obtain energy information for the purpose of carrying out the provisions of subsection (a), the Federal Energy Administrator is authorized—
 
 &emsp;(A) to require, by rule, any person who is engaged in the production, processing, refining, transportation by pipeline, or distribution (at other than the retail level) of energy resources to submit reports;
 
@@ -26,7 +26,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (c) Development of initial report; quarterly reports; accounting practices
 
-(1) The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) of this section to develop, within thirty days after June 22, 1974, as full and accurate a measure as is reasonably practicable of—
+(1) The Federal Energy Administrator shall exercise the authorities granted to him under subsection (b)(1)(A) to develop, within thirty days after June 22, 1974, as full and accurate a measure as is reasonably practicable of—
 
 &emsp;(A) domestic reserves and production;
 
@@ -54,7 +54,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;&emsp;(iv) of LPG by State and owner: quantities stored, and existing capacities, and previous priorities on types, inventories of suppliers, and changes in supplier inventories.
 
-(3) In order to carry out his responsibilities under subsection (a) of this section, the FederalEnergy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
+(3) In order to carry out his responsibilities under subsection (a) of this section, the Federal Energy Administrator shall require, pursuant to subsection (b)(1)(A) of this section, that persons engaged, in whole or in part, in the production of crude oil or natural gas—
 
 &emsp;(A) keep energy information in accordance with the accounting practices developed pursuant to section 503 of the Energy Policy and Conservation Act \[42 U.S.C. 6383\], and
 
@@ -64,7 +64,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (d) Confidential information
 
-Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies' duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
+Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> (2) the Attorney General, the Secretaryof the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies' duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
 
 #### (e) Definitions
 
@@ -114,7 +114,7 @@ Pub. L. 94–163, title V, §505(b), Dec. 22, 1975, 89 Stat. 960, provided that:
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) bysections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

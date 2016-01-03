@@ -1,6 +1,6 @@
 ### §677h. Sale or other disposition of certain described lands; funds; relief of United States from liability; assigned lands
 
-The business committee of the tribe for and on behalf of the full-blood members of said tribe, and the duly authorized representatives for the mixed-blood members of said tribe, acting jointly, are authorized, subject to the approval of the Secretary, to sell, exchange, dispose of, and convey to any purchaser deemed satisfactory to said committee and representatives, any or all of the lands of said tribe described as follows, to wit:
+The business committee of the tribe for and on behalf of the full-blood members of said tribe,and the duly authorized representatives for the mixed-blood members of said tribe, acting jointly, are authorized, subject to the approval of the Secretary, to sell, exchange, dispose of, and convey to any purchaser deemed satisfactory to said committee and representatives, any or all of the lands of said tribe described as follows, to wit:
 
 &nbsp;
 
@@ -171,7 +171,6 @@ The business committee of the tribe for and on behalf of the full-blood members 
 | E/2 NE/4 | 30 | 80\.00 |
 |  |  |  |
 | Total | 800\.00 |  |
-|  |  |  |
 |  |  |  |
 | Township 3 South, Range 5 West: |  |  |
 | Lots 1 \& 2; SE/4 NE/4 | 3 | 118\.86 |

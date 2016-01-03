@@ -38,9 +38,9 @@ For the purposes of this chapter—
 
 (l) The term "immediate container" does not include package liners.
 
-(m) The term "labeling" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
+(m) The term "labeling" means all labels and other written, printed, or graphic matter (1)upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word,design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
+(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
 (o) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 &emsp;(B) any other added substance that is present on or in the commodity or food primarily as a result of the metabolism or other degradation of a pesticide chemical.
 
-(3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except a substance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
+(3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except asubstance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
 
 &emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportation of any raw agricultural commodity or processed food; and
 
@@ -120,7 +120,7 @@ For the purposes of this chapter—
 
 (x) The term "informal hearing" means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
-&emsp;(1) The presiding officer in the hearing shall be designated by the Secretary from officers and employees of the Department who have not participated in any action of the Secretary which is the subject of the hearing and who are not directly responsible to an officer or employee of the Department who has participated in any such action.
+&emsp;(1) The presiding officer in the hearing shall be designated by the Secretary from officersand employees of the Department who have not participated in any action of the Secretary which is the subject of the hearing and who are not directly responsible to an officer or employee of the Department who has participated in any such action.
 
 &emsp;(2) Each party to the hearing shall have the right at all times to be advised and accompanied by an attorney.
 
@@ -208,7 +208,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) an article authorized for investigation as a new drug, antibiotic, or biological for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public,
 
-> &emsp;which was not before such approval, certification, licensing, or authorization marketedas a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>2</sup>
+> &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>2</sup>
 
 > Except for purposes of paragraph (g) and section 350f of this title, a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
@@ -268,7 +268,7 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II,§701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783.)
 
 #### References in Text
 
@@ -426,11 +426,11 @@ Amendment by Pub. L. 92–516 effective at the close of Oct. 21, 1972, except if
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of this title.
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a ofTitle 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
+Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
 
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words "effectiveness" and "effective" contained in par. (v) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, as amended, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
@@ -476,7 +476,7 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 
@@ -534,7 +534,7 @@ Pub. L. 103–417, §2, Oct. 25, 1994, 108 Stat. 4325, provided that: "Congress 
 
 &emsp;"(10) studies indicate that consumers are placing increased reliance on the use of nontraditional health care providers to avoid the excessive costs of traditional medical services and to obtain more holistic consideration of their needs;
 
-&emsp;"(11) the United States will spend over $1,000,000,000,000 on health care in 1994, which is about12 percent of the Gross National Product of the United States, and this amount and percentage will continue to increase unless significant efforts are undertaken to reverse the increase;
+&emsp;"(11) the United States will spend over $1,000,000,000,000 on health care in 1994, which is about 12 percent of the Gross National Product of the United States, and this amount and percentage will continue to increase unless significant efforts are undertaken to reverse the increase;
 
 &emsp;"(12)(A) the nutritional supplement industry is an integral part of the economy of the United States;
 

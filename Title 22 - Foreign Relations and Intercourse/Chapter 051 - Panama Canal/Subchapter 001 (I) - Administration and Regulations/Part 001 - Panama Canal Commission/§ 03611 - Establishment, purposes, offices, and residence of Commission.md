@@ -20,7 +20,7 @@ Pub. L. 102–484, div. C, title XXXV, §3522, Oct. 23, 1992, 106 Stat. 2657, pr
 
 "(a)
 
-Report.—The President shall conduct a study and, if warranted, develop a plan setting forth recommendations for such changes, if any, to the Panama Canal Commission for the operation of the Panama Canal during the period before the termination of the Panama Canal Treaty of 1977 as the President determines would facilitate and encourage the operation of the canal through an autonomous entity under the Government of Panama after the transfer of the canalon December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The President shall submit the study and, if warranted, plan to Congress, together with a legislative proposal containing any changes to existing law required to implement the plan, not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
+Report.—The President shall conduct a study and, if warranted, develop a plan setting forth recommendations for such changes, if any, to the Panama Canal Commission for the operation of the Panama Canal during the period before the termination of the Panama Canal Treaty of 1977 as the President determines would facilitate and encourage the operation of the canal through an autonomous entity under the Government of Panama after the transfer of the canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The President shall submit the study and, if warranted, plan to Congress, together with a legislative proposal containing any changes to existing law required to implement the plan, not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
 
 "(b)
 

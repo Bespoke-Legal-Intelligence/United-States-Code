@@ -4,7 +4,7 @@
 
 &emsp;(1) beginning January 1, 1993, the manufacturer shall make available for procurement on the Federal Supply Schedule of the General Services Administration each covered drug of the manufacturer;
 
-&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
+&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federalagency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
 &emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
@@ -26,7 +26,7 @@
 
 &emsp;(4) The Coast Guard.
 
-(c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on orafter January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
+(c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on or after January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
 
 &emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); multiplied by
 
@@ -70,7 +70,7 @@
 
 &emsp;(2) The term "covered drug" means—
 
-&emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act,or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
+&emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
 
 &emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
 

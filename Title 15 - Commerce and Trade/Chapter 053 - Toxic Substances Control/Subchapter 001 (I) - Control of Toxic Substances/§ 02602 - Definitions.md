@@ -20,7 +20,7 @@ As used in this chapter:
 
 &emsp;(iv) any source material, special nuclear material, or byproduct material (as such terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and regulations issued under such Act),
 
-&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code), and
+&emsp;(v) any article the sale of which is subject to the tax imposed by section 4181 of the Internal Revenue Code of 1986 \[26 U.S.C. 4181\] (determined without regard to any exemptions from such tax provided by section 4182 or 4221 or any other provision of such Code) and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and
 
 &emsp;(vi) any food, food additive, drug, cosmetic, or device (as such terms are defined in section 201 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321\]) when manufactured, processed, or distributed in commerce for use as a food, food additive, drug, cosmetic, or device.
 
@@ -70,11 +70,11 @@ As used in this chapter:
 
 (14) The term "United States", when used in the geographic sense, means all of the States.
 
-(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156.)
+(Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791.)
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch.125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -83,6 +83,8 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Company, referred to in par. (13), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2015</b>—Par. (2)(B)(v). Pub. L. 114–92 substituted "and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and" for ", and".
 
 <b>1988</b>—Par. (7). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 of the Tariff Schedules of the United States".
 

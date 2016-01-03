@@ -46,7 +46,7 @@
 
 #### (B) Security countermeasure
 
-&emsp;&emsp;For purposes of this subsection, the term "security countermeasure" means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined bysection 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
+&emsp;&emsp;For purposes of this subsection, the term "security countermeasure" means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
 
 &emsp;&emsp;&emsp;(i)(I) the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to diagnose, mitigate, prevent, or treat harm from any biological, chemical, radiological, or nuclear agent identified as a material threat under paragraph (2)(A)(ii), or to diagnose, mitigate, prevent, or treat harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device against such an agent;
 
@@ -194,7 +194,7 @@
 
 #### (I) Payment conditioned on delivery
 
-&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment, partial payment for significant milestones, or payment to increase manufacturing capacity is necessary to ensure success of a project, the Secretary shall pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The Secretary shall, to the extent practicable, make the determination of advance payment at the same time as the issuance of a solicitation. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. The contract may also provide for additional advance payments of 5 percent each for meeting the milestones specified in such contract, except that such payments shall not exceed 50 percent of the total contract amount. If the specified milestones are reached, the advanced payments of 5 percent shall not be required to be repaid. Nothing in this subclause shall be construed as affecting the rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to the termination of contracts for the convenience of the Government.
+&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment, partial payment for significant milestones, or payment to increase manufacturing capacity is necessary to ensure success of a project, the Secretary shall pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The Secretary shall, to the extent practicable, make the determination of advance payment at the same time as the issuance of a solicitation. The contract shall providethat such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. The contract may also provide for additional advance payments of 5 percent each for meeting the milestones specified in such contract, except that such payments shall not exceed 50 percent of the total contract amount. If the specified milestones are reached, the advanced payments of 5 percent shall not be required to be repaid. Nothing in this subclause shall be construed as affecting the rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to the termination of contracts for the convenience of the Government.
 
 #### (II) Discounted payment
 
@@ -376,7 +376,7 @@ In this section:
 
 &emsp;(2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196.)
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196.)
 
 #### References in Text
 
@@ -428,7 +428,7 @@ Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted "including ad
 
 Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted "10 years" for "eight years".
 
-Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX).Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
+Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
 
 &emsp;"(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 
@@ -446,7 +446,7 @@ Subsecs. (g), (h). Pub. L. 113–5, §401(b)(2), added subsecs. (g) and (h).
 
 <b>2006</b>—Pub. L. 109–417, §406(1), inserted "and security countermeasure procurements" after "Stockpile" in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–417, §102(c), inserted "in collaboration with the Director of the Centers for Disease Control and Prevention, and" after "The Secretary," and inserted at end "The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review."
+Subsec. (a)(1). Pub. L. 109–417, §102(c), inserted "in collaboration with the Director of the Centers for Disease Control and Prevention, and" after "The Secretary," and inserted at end "The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, includingnon-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review."
 
 Subsec. (c). Pub. L. 109–417, §406(2)(A), struck out "biomedical" before "countermeasures" in heading.
 

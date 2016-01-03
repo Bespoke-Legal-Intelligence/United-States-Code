@@ -10,11 +10,11 @@ Associated transit improvement.—The term "associated transit improvement" mean
 
 &emsp;&emsp;(B) bus shelters;
 
-&emsp;&emsp;(C) landscaping and streetscaping, including benches, trash receptacles, and street lights;
+&emsp;&emsp;(C) functional landscaping and streetscaping, including benches, trash receptacles, and street lights;
 
 &emsp;&emsp;(D) pedestrian access and walkways;
 
-&emsp;&emsp;(E) bicycle access, including bicycle storage facilities and installing equipment for transporting bicycles on public transportation vehicles;
+&emsp;&emsp;(E) bicycle access, including bicycle storage shelters and parking facilities and the installation of equipment for transporting bicycles on public transportation vehicles;
 
 &emsp;&emsp;(F) signage; or
 
@@ -50,7 +50,7 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;(E) preventive maintenance;
 
-&emsp;&emsp;(F) leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;
+&emsp;&emsp;(F) leasing equipment or a facility for use in public transportation;
 
 &emsp;&emsp;(G) a joint development improvement that—
 
@@ -62,7 +62,7 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;&emsp;(iii) provides a fair share of revenue that will be used for public transportation;
 
-&emsp;&emsp;&emsp;(iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means;
+&emsp;&emsp;&emsp;(iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
 
 &emsp;&emsp;&emsp;(v) may include—
 
@@ -92,13 +92,21 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;&emsp;&emsp;(XIII) a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; and
 
-&emsp;&emsp;&emsp;&emsp;(XIV) construction of space for commercial uses; and
-
-&emsp;&emsp;&emsp;(vi) does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;
+&emsp;&emsp;&emsp;&emsp;(XIV) construction of space for commercial uses;
 
 &emsp;&emsp;(H) the introduction of new technology, through innovative and improved products, into public transportation;
 
-&emsp;&emsp;(I) the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12143), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient's annual formula apportionment under sections 5307 and 5311;
+&emsp;&emsp;(I) the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12143), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts—
+
+&emsp;&emsp;&emsp;(i) not to exceed 10 percent of such recipient's annual formula apportionment under sections 5307 and 5311; or
+
+&emsp;&emsp;&emsp;(ii) not to exceed 20 percent of such recipient's annual formula apportionment under sections 5307 and 5311, if, consistent with guidance issued by the Secretary, the recipient demonstrates that the recipient meets at least 2 of the following requirements:
+
+&emsp;&emsp;&emsp;&emsp;(I) Provides an active fixed route travel training program that is available for riders with disabilities.
+
+&emsp;&emsp;&emsp;&emsp;(II) Provides that all fixed route and paratransit operators participate in a passenger safety, disability awareness, and sensitivity training class on at least a biennial basis.
+
+&emsp;&emsp;&emsp;&emsp;(III) Has memoranda of understanding in place with employers and the American Job Center to increase access to employment opportunities for people with disabilities.
 
 &emsp;&emsp;(J) establishing a debt service reserve, made up of deposits with a bondholder's trustee, to ensure the timely payment of principal and interest on bonds issued by a grant recipient to finance an eligible project under this chapter;
 
@@ -106,13 +114,17 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;&emsp;(i) consisting of short-range planning and management activities and projects for improving coordination among public transportation and other transportation service providers carried out by a recipient or subrecipient through an agreement entered into with a person, including a governmental entity, under this chapter (other than section 5309); but
 
-&emsp;&emsp;&emsp;(ii) excluding operating public transportation services; or
+&emsp;&emsp;&emsp;(ii) excluding operating public transportation services;
 
 &emsp;&emsp;(L) associated capital maintenance, including—
 
 &emsp;&emsp;&emsp;(i) equipment, tires, tubes, and material, each costing at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment, tires, tubes, and material are to be used; and
 
-&emsp;&emsp;&emsp;(ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used.
+&emsp;&emsp;&emsp;(ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used;
+
+&emsp;&emsp;(M) associated transit improvements; or
+
+&emsp;&emsp;(N) technological changes or innovations to modify low or no emission vehicles (as defined in section 5339(c)) or facilities.
 
 &emsp;(4)
 
@@ -268,7 +280,11 @@ Urban area.—The term "urban area" means an area that includes a municipality o
 
 Urbanized area.—The term "urbanized area" means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an "urbanized area" by the Secretary of Commerce.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623.)
+&emsp;(24)
+
+Value capture.—The term "value capture" means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623; Pub. L. 114–94, div. A, title III, §3002, Dec. 4, 2015, 129 Stat. 1446.)
 
 Historical and Revision Notes
 
@@ -360,7 +376,7 @@ July 9, 1964, Pub. L. 88–365, §12(c)(10), (11), 78 Stat. 306; Aug. 10, 1965, 
 
 In this chapter, the words "local governmental authority" are substituted for "local public body" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words "capital project" are substituted for "construction" for clarity. In subclause (A), the words "actual", "all", and "reconstruction" are omitted as surplus. In subclause (D), the words "(whether or not such overhaul increases the useful life of the rolling stock)" are omitted as surplus. In clause (2), the words "for each of the jurisdictions included in the definition of 'State' " are omitted as surplus. In clauses (3) and (10), the word "regulation" is substituted for "rule" for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words "of persons" are omitted as surplus. In clauses (4) and (5), the word "mass" is substituted for "public" because of the restatement. In clause (4)(A), the words "including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses" are omitted as surplus. In clause (6)(A), the words "municipalities and other" are omitted as surplus. In clause (6)(B), the word "authority" is substituted for "public agencies and instrumentalities" for consistency in the revised title and with other titles of the Code. The word "municipalities" is omitted as surplus. In clause (7), the words "bus, or rail, or other", "either publicly or privately owned", and "on a . . . basis" are omitted as surplus. Clause (8) is added for clarity because the term "net project cost" has the same meaning throughout this chapter. In clause (11), the words "the Commonwealths of" are omitted as surplus. In clause (12), the word "individuals" is substituted for "commuters or others" to eliminate unnecessary words. In clause (13)(A), the words "in the case of any such area" and "entire" are omitted as surplus. The words "Secretary of Commerce" are substituted for "Bureau of the Census" because of 15:1511(e). In clause (13)(B), the words "so designated by the Bureau of Census", "which shall be", "responsible", and "in cooperation with each other" are omitted as surplus.
+In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words "capital project" are substituted for "construction" for clarity. In subclause (A), thewords "actual", "all", and "reconstruction" are omitted as surplus. In subclause (D), the words "(whether or not such overhaul increases the useful life of the rolling stock)" are omitted as surplus. In clause (2), the words "for each of the jurisdictions included in the definition of 'State' " are omitted as surplus. In clauses (3) and (10), the word "regulation" is substituted for "rule" for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words "of persons" are omitted as surplus. In clauses (4) and (5), the word "mass" is substituted for "public" because of the restatement. In clause (4)(A), the words "including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses" are omitted as surplus. In clause (6)(A), the words "municipalities and other" are omitted as surplus. In clause (6)(B), the word "authority" is substituted for "public agencies and instrumentalities" for consistency in the revised title and with other titles of the Code. The word "municipalities" is omitted as surplus. In clause (7), the words "bus, or rail, or other", "either publicly or privately owned", and "on a . . . basis" are omitted as surplus. Clause (8) is added for clarity because the term "net project cost" has the same meaning throughout this chapter. In clause (11), the words "the Commonwealths of" are omitted as surplus. In clause (12), the word "individuals" is substituted for "commuters or others" to eliminate unnecessary words. In clause (13)(A), the words "in the case of any such area" and "entire" are omitted as surplus. The words "Secretary of Commerce" are substituted for "Bureau of the Census" because of 15:1511(e). In clause (13)(B), the words "so designated by the Bureau of Census", "which shall be", "responsible", and "in cooperation with each other" are omitted as surplus.
 
 Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 49 App.:1607a(e)(1), restated as section 5307(n)(2) of the revised title.
 
@@ -371,6 +387,24 @@ The Americans with Disabilities Act of 1990, referred to in par. (3)(I), is Pub.
 The Social Security Act, referred to in par. (9)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Par. (1)(C). Pub. L. 114–94, §3002(1)(A), inserted "functional" before "landscaping and".
+
+Par. (1)(E). Pub. L. 114–94, §3002(1)(B), substituted "bicycle storage shelters and parking facilities and the installation of equipment" for "bicycle storage facilities and installing equipment".
+
+Par. (3)(F). Pub. L. 114–94, §3002(2)(A), added subpar. (F) and struck out former subpar. (F), which read as follows: "leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;".
+
+Par. (3)(G)(iv). Pub. L. 114–94, §3002(2)(B)(i), inserted "and" at end.
+
+Par. (3)(G)(v)(XIV). Pub. L. 114–94, §3002(2)(B)(ii), struck out "and" at end.
+
+Par. (3)(G)(vi). Pub. L. 114–94, §3002(2)(B)(iii), struck out cl. (vi), which read as follows: "does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;".
+
+Par. (3)(I). Pub. L. 114–94, §3002(2)(C), added subpar. (I) and struck out former subpar. (I), which read as follows: "the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12143), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient's annual formula apportionment under sections 5307 and 5311;".
+
+Par. (3)(M), (N). Pub. L. 114–94, §3002(2)(D)–(F), added subpars. (M) and (N).
+
+Par. (24). Pub. L. 114–94, §3002(3), added par. (24).
 
 <b>2012</b>—Pub. L. 112–141 amended section generally, substituting pars. (1) to (23) for former provisions defining terms for this chapter consisting of subsecs. (a) and (b).
 
@@ -427,6 +461,10 @@ Subsec. (a)(1)(G)(i). Pub. L. 105–178, §3003(b), as added by Pub. L. 105–20
 Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), as amended by Pub. L. 105–102, §3(a)(2), struck out "that extends the economic life of a bus for at least 8 years" after "remanufacturing a bus".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted "payments for the capital portions of rail trackage rights agreements," after "rights of way),".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

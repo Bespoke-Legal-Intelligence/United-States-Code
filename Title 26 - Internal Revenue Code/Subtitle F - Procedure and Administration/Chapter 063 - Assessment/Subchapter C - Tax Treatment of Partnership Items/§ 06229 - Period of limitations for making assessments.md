@@ -94,6 +94,10 @@ If a petition is filed naming a partner as a debtor in a bankruptcy proceeding u
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55; Pub. L. 111–147, title V, §513(a)(2)(B), Mar. 18, 2010, 124 Stat. 112.)
 
+#### Repeal of Section
+
+<i>Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.</i>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–147 substituted "and such amount is described in clause (i) or (ii) of section 6501(e)(1)(A)" for "which is in excess of 25 percent of the amount of gross income stated in its return".
@@ -112,13 +116,17 @@ Subsec. (h). Pub. L. 105–34, §1233(b), added subsec. (h).
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–514 added subsec. (g).
 
+#### Effective Date of Repeal
+
+Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–147, title V, §513(d), Mar. 18, 2010, 124 Stat. 112, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to—
 
 &emsp;"(1) returns filed after the date of the enactment of this Act \[Mar. 18, 2010\]; and
 
-&emsp;"(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date."
+&emsp;"(2) returns filed on or before such date if the period specified in section 6501 of the Internal RevenueCode of 1986 (determined without regard to such amendments) for assessment of such taxes has not expired as of such date."
 
 #### Effective Date of 2002 Amendment
 
@@ -150,5 +158,5 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

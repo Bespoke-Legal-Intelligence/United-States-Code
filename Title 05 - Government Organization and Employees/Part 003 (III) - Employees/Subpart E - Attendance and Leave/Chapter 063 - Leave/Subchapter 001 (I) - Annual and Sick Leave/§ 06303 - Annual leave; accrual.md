@@ -26,7 +26,7 @@
 
 (c) A change in the rate of accrual of annual leave by an employee under this section takes effect at the beginning of the pay period after the pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, in which the employee completed the prescribed period of service.
 
-(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and timenecessarily occupied awaiting transportation, in the case of an employee—
+(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and time necessarily occupied awaiting transportation, in the case of an employee—
 
 &emsp;(1) to whom section 6304(b) of this title applies;
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) a pay system equivalent to either of the foregoing, as determined by the Office of Personnel Management.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, §2, Dec. 14, 1973, 87 Stat. 705; Pub. L. 99–335, title II, §207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, §2(52), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 108–411, title II, §202(a), (b), Oct. 30, 2004, 118 Stat. 2312.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 518; Pub. L. 93–181, §2, Dec. 14, 1973, 87 Stat. 705; Pub. L.99–335, title II, §207(d), June 6, 1986, 100 Stat. 595; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–378, §2(52), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 108–411, title II, §202(a), (b), Oct. 30, 2004, 118 Stat. 2312.)
 
 Historical and Revision Notes
 
@@ -122,7 +122,7 @@ Pub. L. 102–378, §9, Oct. 2, 1992, 106 Stat. 1360, provided that:
 
 "(a)
 
-In General.—Except as otherwise provided in this section, this Act and the amendments made bythis Act \[see Tables for classification\] shall take effect as of the date of enactment of this Act \[Oct. 2, 1992\].
+In General.—Except as otherwise provided in this section, this Act and the amendments made by this Act \[see Tables for classification\] shall take effect as of the date of enactment of this Act \[Oct. 2, 1992\].
 
 "(b)
 

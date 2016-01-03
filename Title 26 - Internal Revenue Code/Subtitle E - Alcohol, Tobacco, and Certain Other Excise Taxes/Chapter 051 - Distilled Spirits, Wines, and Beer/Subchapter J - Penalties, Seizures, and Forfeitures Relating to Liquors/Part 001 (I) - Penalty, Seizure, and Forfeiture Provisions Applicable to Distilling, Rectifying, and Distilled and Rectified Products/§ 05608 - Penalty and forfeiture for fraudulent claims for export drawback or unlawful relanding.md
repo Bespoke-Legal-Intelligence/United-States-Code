@@ -6,7 +6,7 @@ Every person who fraudulently claims, or seeks, or obtains an allowance of drawb
 
 #### (b) Unlawful relanding
 
-Every person who, with intent to defraud the United States, relands within the jurisdiction of the United States any distilled spirits which have been shipped for exportation under the provisions of this chapter, or who receives such relanded distilled spirits, and every person who aids or abets in such relanding or receiving of such spirits, shall be fined not more than $5,000, or imprisoned not more than 3 years, or both;and all distilled spirits so relanded, together with the vessel from which the same were relanded within the jurisdiction of the United States, and all vessels, vehicles, or aircraft used in relanding and removing such distilled spirits, shall be forfeited to the United States.
+Every person who, with intent to defraud the United States, relands within the jurisdiction of the United States any distilled spirits which have been shipped for exportation under the provisions of this chapter, or who receives such relanded distilled spirits, and every person who aids or abets in such relanding or receiving of such spirits, shall be fined not more than $5,000, or imprisoned not more than 3 years, or both; and all distilled spirits so relanded, together with the vessel from which the same were relanded within the jurisdiction of the United States, and all vessels, vehicles, or aircraft used in relanding and removing such distilled spirits, shall be forfeited to the United States.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 89–44, title VIII, §805(e), June 21, 1965, 79 Stat. 161.)
 

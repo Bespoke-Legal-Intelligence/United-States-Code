@@ -64,9 +64,9 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;&emsp;(D) the extent to which the amount of assistance to be provided under this part to the recipient will be supplemented with resources from other public and private sources, including mainstream programs identified by the Government Accountability Office in the two reports described in section 11313(a)(7) of this title;
 
-&emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local, private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
+&emsp;&emsp;(E) demonstrated coordination by the recipient with the other Federal, State, local,private, and other entities serving individuals and families experiencing homelessness and at risk of homelessness in the planning and operation of projects;
 
-&emsp;&emsp;(F) for collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless underother Federal statutes, program goals and outcomes, which shall include—
+&emsp;&emsp;(F) for collaborative applicants exercising the authority under section 11382(j) of this title to serve homeless families with children and youth defined as homeless under other Federal statutes, program goals and outcomes, which shall include—
 
 &emsp;&emsp;&emsp;(i) preventing homelessness among the subset of such families with children and youth who are at highest risk of becoming homeless, as such term is defined for purposes of this subchapter; or
 

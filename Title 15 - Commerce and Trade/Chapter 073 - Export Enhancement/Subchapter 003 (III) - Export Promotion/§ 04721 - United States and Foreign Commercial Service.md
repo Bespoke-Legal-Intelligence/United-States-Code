@@ -36,7 +36,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(7) assisting the coordination of the efforts of State and local agencies and private organizations which seek to promote United States business interests abroad so as to maximize their effectiveness and minimize the duplication of efforts;
 
-&emsp;(8) utilizing district and foreign offices as one-stop shops for United States exporters byproviding exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
+&emsp;(8) utilizing district and foreign offices as one-stop shops for United States exporters by providing exporters with information on all export promotion and export finance activities of the Federal Government, assisting exporters in identifying which Federal programs may be of greatest assistance, and assisting exporters in making contact with the Federal programs identified; and
 
 &emsp;(9) providing United States exporters and export finance institutions with information on all financing and insurance programs of the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration, including providing assistance in completing applications for such programs and working with exporters and export finance institutions to address any deficiencies in such applications that have been submitted.
 
@@ -80,11 +80,11 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (e) Information dissemination
 
-In order to carry out subsection (b)(7) of this section, to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
+In order to carry out subsection (b)(7), to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with costrecovery objectives of the Department of Commerce.
 
 #### (f) Cooperation in Federal financing and insurance programs
 
-To assist the Commercial Service in carrying out subsection (b)(9) of this section, and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of section 635i–7 of title 12, the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
 
 &emsp;(1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 

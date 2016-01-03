@@ -36,7 +36,7 @@
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title XIII, §1321(c), Nov. 25, 2002, 116 Stat. 2297, provided that: "The amendment made by subsection (a)(2)(B) \[amending this section\] shall not apply with respect to an individual who, before the effective date of this section \[see note above\], leaves theSenior Executive Service for failure to be recertified as a senior executive under section 3393a of title 5, United States Code."
+Pub. L. 107–296, title XIII, §1321(c), Nov. 25, 2002, 116 Stat. 2297, provided that: "The amendment made by subsection (a)(2)(B) \[amending this section\] shall not apply with respect to an individual who, before the effective date of this section \[see note above\], leaves the Senior Executive Service for failure to be recertified as a senior executive under section 3393a of title 5, United States Code."
 
 #### Effective Date of 1989 Amendment
 

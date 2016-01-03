@@ -40,7 +40,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 &emsp;&emsp;(B) beer entered into any customs bonded warehouse under subparagraph (A) may be withdrawn for consumption in the United States by, and for the official and family use of, such foreign governments, organizations, and individuals as are entitled to withdraw imported beer from such warehouses free of tax.
 
-> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered,stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
+> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
 
 #### (2) Other rules to apply
 
@@ -80,7 +80,7 @@ Subsec. (i). Pub. L. 105–34, §1414(b), redesignated subsec. (f) as (i).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: "The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: "The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day ofthe 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Pub. L. 105–34, title XIV, §1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 

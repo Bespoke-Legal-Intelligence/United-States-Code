@@ -2,7 +2,7 @@
 
 #### (a) Initial meeting
 
-The President shall convene the Commission within ninety days following September 24, 1959at such time and place as he may designate for the Commission's initial meeting.
+The President shall convene the Commission within ninety days following September 24, 1959 at such time and place as he may designate for the Commission's initial meeting.
 
 #### (b) Chairman and Vice Chairman
 
@@ -24,5 +24,5 @@ Thirteen members of the Commission shall constitute a quorum, but two or more me
 
 #### Codification
 
-Section was formerly classified to section 2374 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 2374 of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

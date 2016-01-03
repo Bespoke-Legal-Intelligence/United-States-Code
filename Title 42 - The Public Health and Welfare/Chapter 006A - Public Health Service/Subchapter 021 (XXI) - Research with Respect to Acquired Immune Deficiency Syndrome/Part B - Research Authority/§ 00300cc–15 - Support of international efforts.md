@@ -20,7 +20,7 @@ After consultation with the Administrator of the Agency for International Develo
 
 #### (c) Special Programme of World Health Organization
 
-Support provided by the Secretary pursuant to this section shall be in furtherance of the globalstrategy of the World Health Organization Special Programme on Acquired Immunodeficiency Syndrome.
+Support provided by the Secretary pursuant to this section shall be in furtherance of the global strategy of the World Health Organization Special Programme on Acquired Immunodeficiency Syndrome.
 
 #### (d) Preferences
 

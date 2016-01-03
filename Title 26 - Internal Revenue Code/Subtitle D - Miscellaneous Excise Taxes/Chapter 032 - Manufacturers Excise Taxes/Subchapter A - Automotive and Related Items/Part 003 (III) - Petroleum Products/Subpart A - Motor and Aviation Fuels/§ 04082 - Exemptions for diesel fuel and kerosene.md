@@ -196,7 +196,7 @@ Subsec. (d). Pub. L. 86–342, §201(e)(2), added subsec. (d).
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–95 applicable to fuel used after Mar. 31, 2012, see section 1103(d)(1) of Pub. L. 112–95, set out as an Effective Date note under section 4043 of this title.
+Amendment by Pub. L. 112–95 applicable to fuel used after Mar. 31, 2012, see section 1103(d)(1) of Pub. L.112–95, set out as an Effective Date note under section 4043 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in sect
 
 Pub. L. 98–369, div. A, title VII, §733(b), July 18, 1984, 98 Stat. 977, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\]."
 
-Pub. L. 98–369, div. A, title VII, §734(c)(3), July 18, 1984, 98 Stat. 979, provided that: "The amendments made by this subsection \[amending this section and section 6427 of this title\] shall take effect on the firstday of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title VII, §734(c)(3), July 18, 1984, 98 Stat. 979, provided that: "The amendments made by this subsection \[amending this section and section 6427 of this title\] shall take effect on the first day of the first calendar quarter beginning after the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Effective Date of 1970 Amendment
 

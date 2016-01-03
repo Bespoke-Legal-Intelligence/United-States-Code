@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting in consultation with the Director of the Violence Against Women Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
+The Attorney General, acting in consultation with the Director of the Violence Against Women Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section toStates, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
 
 &emsp;(1) who are homeless, or in need of transitional housing or other housing assistance, as a result of a situation of domestic violence, dating violence, sexual assault, or stalking; and
 
@@ -88,7 +88,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(D) the type of support services provided to each minor, adult, or dependent, assisted under this section; and
 
-&emsp;&emsp;(E) the client population served and the number of individuals requesting services that the transitional housing program is unable to serve as a result of a lack of resources.
+&emsp;&emsp;(E) the client population served and the number of individuals requesting servicesthat the transitional housing program is unable to serve as a result of a lack of resources.
 
 #### (f) Report to Congress
 
@@ -156,7 +156,7 @@ Applicability of part.— <sup>3</sup> The requirements of this section shall 
 
 &emsp;&emsp;&emsp;(iv) does not propose prohibited activities, including mandatory services for victims.
 
-(Pub. L. 103–322, title IV, §40299, as added Pub. L. 108–21, title VI, §611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, §3(b)(4), title VI, §602(a), title IX, §906(e), formerly §906(f), title XI, §1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered §906(e), Pub. L. 109–271,§7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, §602(2), Mar. 7, 2013, 127 Stat. 109.)
+(Pub. L. 103–322, title IV, §40299, as added Pub. L. 108–21, title VI, §611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, §3(b)(4), title VI, §602(a), title IX, §906(e), formerly §906(f), title XI, §1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered §906(e), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, §602(2), Mar. 7, 2013, 127 Stat. 109.)
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Subsec. (g)(3)(A). Pub. L. 113–4, §602(2)(D)(ii)(I), substituted "qualified" 
 
 Subsec. (g)(3)(D). Pub. L. 113–4, §602(2)(D)(ii)(II), added subpar. (D).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §602(a)(1)(A), (B), in introductory provisions, inserted "the Department of Housing and Urban Development, and the Department of Health and Human Services," after "Department of Justice," and ", including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking" after "other organizations".
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §602(a)(1)(A), (B), in introductory provisions, inserted "the Department of Housing and Urban Development, and the Department of Health and Human Services," after "Department of Justice," and ", including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domesticviolence, dating violence, sexual assault, or stalking" after "other organizations".
 
 Subsec. (a)(1). Pub. L. 109–162, §602(a)(1)(C), inserted ", dating violence, sexual assault, or stalking" after "domestic violence".
 

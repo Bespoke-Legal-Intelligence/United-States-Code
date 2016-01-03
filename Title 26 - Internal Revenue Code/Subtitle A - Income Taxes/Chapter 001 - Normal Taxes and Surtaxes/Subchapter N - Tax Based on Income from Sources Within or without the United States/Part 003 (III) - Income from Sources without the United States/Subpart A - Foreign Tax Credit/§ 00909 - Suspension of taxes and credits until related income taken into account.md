@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) Application to partnerships, etc.
 
-> In the case of a partnership, subsections (a) and (b) shall be applied at the partner level. Exceptas otherwise provided by the Secretary, a rule similar to the rule of the preceding sentence shall apply in the case of any S corporation or trust.
+> In the case of a partnership, subsections (a) and (b) shall be applied at the partner level. Except as otherwise provided by the Secretary, a rule similar to the rule of the preceding sentence shall apply in the case of any S corporation or trust.
 
 #### (2) Treatment of foreign taxes after suspension
 

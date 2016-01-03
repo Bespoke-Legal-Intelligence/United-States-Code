@@ -34,7 +34,7 @@ For the purposes of this section, the term "reconstruction" has the meaning prov
 
 The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) ofchapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
 

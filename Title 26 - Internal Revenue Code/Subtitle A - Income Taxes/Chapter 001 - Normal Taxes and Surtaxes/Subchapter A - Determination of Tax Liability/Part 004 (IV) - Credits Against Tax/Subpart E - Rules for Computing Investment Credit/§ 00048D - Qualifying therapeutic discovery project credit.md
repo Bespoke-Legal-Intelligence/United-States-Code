@@ -30,7 +30,7 @@ For purposes of section 46, the qualifying therapeutic discovery project credit 
 
 #### (4) Certain progress expenditure rules made applicable
 
-&emsp;In the case of costs described in paragraph (1) that are paid for property of a character subject to an allowance for depreciation, rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
+&emsp;In the case of costs described in paragraph (1) that are paid for property of a character subject to an allowance for depreciation, rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day beforethe date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of this section.
 
 #### (5) Application of subsection
 
@@ -132,7 +132,7 @@ For purposes of section 46, the qualifying therapeutic discovery project credit 
 
 #### (A) Bonus depreciation
 
-&emsp;&emsp;A credit shall not be allowed under this section for any investment for which bonus depreciation is allowed under section 168(k), 1400L(b)(1), or 1400N(d)(1).
+&emsp;&emsp;A credit shall not be allowed under this section for any investment for which bonusdepreciation is allowed under section 168(k), 1400L(b)(1), or 1400N(d)(1).
 
 #### (B) Deductions
 

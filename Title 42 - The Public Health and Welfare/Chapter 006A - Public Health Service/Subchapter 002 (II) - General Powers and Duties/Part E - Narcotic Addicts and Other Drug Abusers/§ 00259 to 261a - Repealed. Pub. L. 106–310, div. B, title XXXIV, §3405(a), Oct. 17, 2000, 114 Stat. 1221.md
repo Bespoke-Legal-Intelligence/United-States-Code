@@ -8,5 +8,5 @@ Section 260a, act July 1, 1944, ch. 373, title III, §345, as added May 8, 1954,
 
 Section 261, acts July 1, 1944, ch. 373, title III, §346, formerly §345, 58 Stat. 701; renumbered §346, May 8, 1954, ch. 195, §2, 68 Stat. 79; amended Pub. L. 91–513, title I, §2(a)(2)(A), (5), Oct. 27, 1970, 84 Stat. 1240, related to penalties for introducing prohibited articles and substances into hospitals and escaping from, or aiding and abetting escape from hospitals.
 
-Section 261a, act July 1, 1944, ch. 373, title III, §347, as added May 8, 1954, ch. 195, §4, 68 Stat. 80; amended Pub. L. 91–513, title I, §2(a)(4), Oct. 27, 1970, 84 Stat. 1240, related to release of patients and determination by Surgeon General.
+Section 261a, act July 1, 1944, ch. 373, title III, §347, as added May 8, 1954, ch. 195, §4, 68 Stat. 80; amended Pub.L. 91–513, title I, §2(a)(4), Oct. 27, 1970, 84 Stat. 1240, related to release of patients and determination by Surgeon General.
 

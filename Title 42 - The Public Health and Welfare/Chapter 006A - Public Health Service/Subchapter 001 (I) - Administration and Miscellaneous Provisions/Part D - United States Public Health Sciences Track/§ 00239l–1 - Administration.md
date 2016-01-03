@@ -62,7 +62,7 @@ The Surgeon General shall establish programs in continuing medical education for
 
 #### (4) Volunteer services
 
-&emsp;A person who provides voluntary services under the authority of subparagraph (E) ofparagraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.
+&emsp;A person who provides voluntary services under the authority of subparagraph (E) of paragraph (1) shall be considered to be an employee of the Federal Government for the purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and to be an employee of the Federal Government for the purposes of chapter 171 of title 28, relating to tort claims. Such a person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of such services.
 
 (July 1, 1944, ch. 373, title II, §272, as added Pub. L. 111–148, title V, §5315, Mar. 23, 2010, 124 Stat. 637.)
 

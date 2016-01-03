@@ -71,8 +71,9 @@
 | [146\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000146%20-%20Cybersecurity%20workforce%20assessment%20and%20strategy.md) | Cybersecurity workforce assessment and strategy. |
 | [147\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000147%20-%20Cybersecurity%20recruitment%20and%20retention.md) | Cybersecurity recruitment and retention. |
 | [148\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000148%20-%20National%20cybersecurity%20and%20communications%20integration%20center.md) | National cybersecurity and communications integration center. |
-| [149\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149%20-%20Cyber%20incident%20response%20plan.md) | Cyber incident response plan. |
+| [149\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000149%20-%20Cybersecurity%20plans.md) | Cybersecurity plans. |
 | [150\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000150%20-%20Clearances.md) | Clearances. |
+| [151\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/Part%20C%20-%20Information%20Security/%C2%A7%2000151%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md) | Federal intrusion detection and prevention system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -110,6 +111,7 @@
 | [195a.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195a%20-%20Emergency%20communications%20interoperability%20research%20and%20development.md) | Emergency communications interoperability research and development. |
 | [195b.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195b%20-%20National%20Biosurveillance%20Integration%20Center.md) | National Biosurveillance Integration Center. |
 | [195c.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195c%20-%20Promoting%20antiterrorism%20through%20international%20cooperation%20program.md) | Promoting antiterrorism through international cooperation program. |
+| [195d.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195d%20-%20Social%20media%20working%20group.md) | Social media working group. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -374,6 +376,8 @@
 | [469a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000469a%20-%20Collection%20of%20fees%20from%20non-Federal%20participants%20in%20meetings.md) | Collection of fees from non-Federal participants in meetings. |
 | [470\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000470%20-%20Disclosures%20regarding%20homeland%20security%20grants.md) | Disclosures regarding homeland security grants. |
 | [471\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000471%20-%20Annual%20ammunition%20report.md) | Annual ammunition report. |
+| [472\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000472%20-%20Annual%20weaponry%20report.md) | Annual weaponry report. |
+| [473\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000473%20-%20Cyber%20Crimes%20Center%2C%20Child%20Exploitation%20Investigations%20Unit%2C%20Computer%20Forensics%20Unit%2C%20and%20Cyber%20Crimes%20Unit.md) | Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -581,6 +585,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XVII—ANTI-TRAFFICKING TRAINING FOR DEPARTMENT OF HOMELAND SECURITY PERSONNEL
+
+|  |  |
+| :--- | ---: |
+| [641\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000641%20-%20Definitions.md) | Definitions. |
+| [642\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000642%20-%20Training%20for%20Department%20personnel%20to%20identify%20human%20trafficking.md) | Training for Department personnel to identify human trafficking. |
+| [643\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000643%20-%20Certification%20and%20report%20to%20Congress.md) | Certification and report to Congress. |
+| [644\.](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/%C2%A7%2000644%20-%20Assistance%20to%20non-Federal%20entities.md) | Assistance to non-Federal entities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -606,3 +621,4 @@
 - [Subchapter 014 (XIV) - Domestic Nuclear Detection Office](Subchapter%20014%20%28XIV%29%20-%20Domestic%20Nuclear%20Detection%20Office/README.md)
 - [Subchapter 015 (XV) - Homeland Security Grants](Subchapter%20015%20%28XV%29%20-%20Homeland%20Security%20Grants/README.md)
 - [Subchapter 016 (XVI) - Chemical Facility Anti-Terrorism Standards](Subchapter%20016%20%28XVI%29%20-%20Chemical%20Facility%20Anti-Terrorism%20Standards/README.md)
+- [Subchapter 017 (XVII) - Anti-Trafficking Training for Department of Homeland Security Personnel](Subchapter%20017%20%28XVII%29%20-%20Anti-Trafficking%20Training%20for%20Department%20of%20Homeland%20Security%20Personnel/README.md)

@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 June 30, 1954, ch. 432, §719, 68 Stat. 353.
 
-The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if a contract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
+The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if acontract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
 
 #### Amendments
 

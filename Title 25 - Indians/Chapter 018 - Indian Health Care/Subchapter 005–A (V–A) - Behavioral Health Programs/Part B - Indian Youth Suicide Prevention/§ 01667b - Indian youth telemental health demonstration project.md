@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Service, is authorized to carry out a demonstration project to award grants for the provision oftelemental health services to Indian youth who—
+&emsp;The Secretary, acting through the Service, is authorized to carry out a demonstration project to award grants for the provision of telemental health services to Indian youth who—
 
 &emsp;&emsp;(A) have expressed suicidal ideas;
 
@@ -106,7 +106,7 @@
 
 #### (d) Collaboration
 
-The Secretary, acting through the Service, shall encourage Indian tribes and tribal organizations receiving grants under this section to collaborate to enable comparisons regarding best practices across projects.
+The Secretary, acting through the Service, shall encourage Indian tribes and tribal organizations receiving grants under this section tocollaborate to enable comparisons regarding best practices across projects.
 
 #### (e) Annual report
 

@@ -22,7 +22,7 @@ After the effective date of the rules prescribed pursuant to subsection (b) of t
 
 &emsp;&emsp;(D) provide for Bell operating company payphone service providers to have the same right that independent payphone providers have to negotiate with the location provider on the location provider's selecting and contracting with, and, subject to the terms of any agreement with the location provider, to select and contract with, the carriers that carry interLATA calls from their payphones, unless the Commission determines in the rulemaking pursuant to this section that it is not in the public interest; and
 
-&emsp;&emsp;(E) provide for all payphone service providers to have the right to negotiate with the location provider on the location provider's selecting and contracting with, and, subject to the terms of any agreement with the location provider, to select and contract with, the carriers that carry intraLATA calls from their payphones.
+&emsp;&emsp;(E) provide for all payphone service providers to have the right to negotiate with the location provider on the location provider's selecting and contracting with, and, subject to the terms of any agreement with the location provider, to select and contract with,the carriers that carry intraLATA calls from their payphones.
 
 #### (2) Public interest telephones
 

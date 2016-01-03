@@ -342,7 +342,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 &emsp;&emsp;(A) a description and assessment of the monitoring and evaluation practices and policies in place for these programs;
 
-&emsp;&emsp;(B) an assessment of coordination within Federal agencies involved in these programs,examining both internal coordination within these programs and integration with the larger global health and development agenda of the United States;
+&emsp;&emsp;(B) an assessment of coordination within Federal agencies involved in these programs, examining both internal coordination within these programs and integration with the larger global health and development agenda of the United States;
 
 &emsp;&emsp;(C) an assessment of procurement policies and practices within these programs;
 
@@ -400,7 +400,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (iv) Subsequent plans
 
-&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2018, respectively.
+&emsp;&emsp;&emsp;Each of the last four plans developed under subparagraph (A) shall be completednot later than 30 days before each of the fiscal years 2015 through 2018, respectively.
 
 #### (2) Coordination
 
@@ -434,7 +434,7 @@ The President shall establish a comprehensive, integrated, 5-year strategy to ex
 
 #### (2) 2013 through 2018 studies
 
-&emsp;The studies required to be submitted by September 30, 2014, and annually thereafterthrough September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+&emsp;The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2018, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
 &emsp;&emsp;(A) A plan for conducting cost studies of United States assistance under section 2151b–2 of this title in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 

@@ -34,7 +34,7 @@ In this section:
 
 #### (1) Financial institution
 
-&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
+&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K),\(M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
 
 #### (2) Foreign financial institution
 

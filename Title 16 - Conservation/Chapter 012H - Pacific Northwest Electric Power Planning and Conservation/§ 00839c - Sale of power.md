@@ -46,7 +46,7 @@ Sale.—Pursuant to paragraph (1), the Administrator shall sell, at wholesale to
 
 &emsp;(C)
 
-No resale.—A public body or cooperative to which a joint operating entity sells electric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
+No resale.—A public body or cooperative to which a joint operating entity sellselectric power under subparagraph (B) shall not resell that power except to retail customers of the public body or cooperative or to another regional member or participant of the same joint operating entity, or except as otherwise permitted by law.
 
 #### (c) Purchase and exchange sales
 
@@ -92,9 +92,9 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (4)(A) As used in this section, the term "existing direct service industrial customer" means any direct service industrial customer of the Administrator which has a contract for the purchase of electric power from the Administrator on December 5, 1980.
 
-(B) The term "new direct service industrial customer" means any industrial entity other than an existing direct service industrial customer.
+(B) The term "new direct service industrial customer" means any industrial entity otherthan an existing direct service industrial customer.
 
-(C)(i) Where a new contract is offered in accordance with subsection (g) of this section to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
+(C)(i) Where a new contract is offered in accordance with subsection (g) to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
 
 (ii) Rights under a contract described in clause (i) of this subparagraph may be transferred by an existing direct service industrial customer referred to in clause (i) to a successor in interest in connection with a reorganization or other transfer of all major assets of such customer. Following such a transfer, such successor in interest (or any other subsequent successor in interest) may also transfer rights under such a contract only in connection with a reorganization or other transfer of all assets of such successor in interest.
 
@@ -130,7 +130,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 &emsp;(C) electric utility customers under subsection (c) of this section; and
 
-&emsp;(D) direct service industrial customers under subsection (d)(1) of this section.
+&emsp;(D) direct service industrial customers under subsection (d)(1).
 
 (2) Each customer offered a contract pursuant to this subsection shall have one year from the date of such offer to accept such contract. Such contract shall be effective as provided in this subsection.
 
@@ -138,7 +138,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (4) An initial contract with an electric utility customer pursuant to subsection (c) of this section shall be effective on the date executed by such customer, but no earlier than the first day of the tenth month after December 5, 1980.
 
-(5) An initial contract with a direct service industrial customer pursuant to subsection (d)(1) of this section, shall be effective on the date agreed upon by the Administrator and such customer, but no later than the first day of the tenth month after December 5, 1980. When such contract is executed, it may for rate purposes be given retroactive effect to such first day.
+(5) An initial contract with a direct service industrial customer pursuant to subsection (d)(1), shall be effective on the date agreed upon by the Administrator and such customer, but no later than the first day of the tenth month after December 5, 1980. When such contract is executed, it may for rate purposes be given retroactive effect to such first day.
 
 (6) Initial contracts offered public body, cooperative and Federal agency customers in accordance with this subsection shall provide that during a period of insufficiency declared in accordance with subsection (b) of this section each customer's contractual entitlement shall, to the extent of its requirements on the Administrator, be no less than the amount of firm power received from the Administrator in the year immediately preceding the period of insufficiency.
 

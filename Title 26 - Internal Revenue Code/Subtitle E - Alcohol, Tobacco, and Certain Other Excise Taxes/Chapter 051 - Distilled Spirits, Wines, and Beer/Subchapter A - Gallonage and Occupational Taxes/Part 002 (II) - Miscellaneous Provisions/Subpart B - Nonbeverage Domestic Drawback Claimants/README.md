@@ -11,7 +11,7 @@ Subpart B—Nonbeverage Domestic Drawback Claimants
 
 #### Prior Provisions
 
-A prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to repeal by Pub. L. 109–59,title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 

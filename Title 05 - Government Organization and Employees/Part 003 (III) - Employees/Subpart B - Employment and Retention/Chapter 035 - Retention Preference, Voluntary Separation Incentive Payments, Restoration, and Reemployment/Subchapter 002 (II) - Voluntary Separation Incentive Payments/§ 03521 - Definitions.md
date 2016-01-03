@@ -48,7 +48,7 @@ Pub. L. 107–296, title XIII, §1313(a)(4), Nov. 25, 2002, 116 Stat. 2294, prov
 
 #### Smithsonian Institution Employees
 
-Pub. L. 108–72, §5, Aug. 15, 2003, 117 Stat. 889, provided that: "The Secretary of the Smithsonian Institutionmay establish a program for making voluntary separation incentive payments for employees of the Smithsonian Institution which is substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code (as added by section 1313(a) of the Homeland Security Act of 2002 \[Pub. L. 107–296\])."
+Pub. L. 108–72, §5, Aug. 15, 2003, 117 Stat. 889, provided that: "The Secretary of the Smithsonian Institution may establish a program for making voluntary separation incentive payments for employees of the Smithsonian Institution which is substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code (as added by section 1313(a) of the Homeland Security Act of 2002 \[Pub. L. 107–296\])."
 
 #### Judicial Branch Employees
 

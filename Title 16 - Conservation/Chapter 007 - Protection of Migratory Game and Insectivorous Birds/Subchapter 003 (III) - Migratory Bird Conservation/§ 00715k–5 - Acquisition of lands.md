@@ -2,7 +2,7 @@
 
 No land shall be acquired with moneys from the migratory bird conservation fund <sup>1</sup> unless the acquisition thereof has been approved by the Governor of the State or appropriate State agency.
 
-(Pub. L. 87–383, §3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, §2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(b), Nov. 10, 1986, 100 Stat. 3584.)
+(Pub. L. 87–383, §3, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(b), Dec. 15, 1967, 81 Stat. 612; Pub. L.94–215, §2(b), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §2, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §102, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(b), Nov. 10, 1986, 100 Stat. 3584.)
 
 #### Codification
 
@@ -10,7 +10,7 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–645 struck out first three sentences which read as follows: "Funds appropriated pursuant to sections 715k–3 to 715k–5 of this title shall be treated as an advance, without interest, to the migratory bird conservation fund. Such appropriated funds, beginning on October 1, 1986, shall be repaid to the Treasury out of the migratory bird conservation fund, such repayment shall be made in annual amounts comprising 75 per centum of the moneys accruing annually to suchfund. In the event the full amount authorized by section 715k–3 of this title is appropriated before October 1, 1986, the repayment of such funds pursuant to this section shall begin with the next full fiscal year."
+<b>1986</b>—Pub. L. 99–645 struck out first three sentences which read as follows: "Funds appropriated pursuant to sections 715k–3 to 715k–5 of this title shall be treated as an advance, without interest, to the migratory bird conservation fund. Such appropriated funds, beginning on October 1, 1986, shall be repaid to the Treasury out of the migratory bird conservation fund, such repayment shall be made in annual amounts comprising 75 per centum of the moneys accruing annually to such fund. In the event the full amount authorized by section 715k–3 of this title is appropriated before October 1, 1986, the repayment of such funds pursuant to this section shall begin with the next full fiscal year."
 
 <b>1984</b>—Pub. L. 98–548 substituted "October 1, 1986" for "October 1, 1984" in two places.
 

@@ -100,7 +100,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 &emsp;The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995,109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011.)
+(Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011.)
 
 #### References in Text
 

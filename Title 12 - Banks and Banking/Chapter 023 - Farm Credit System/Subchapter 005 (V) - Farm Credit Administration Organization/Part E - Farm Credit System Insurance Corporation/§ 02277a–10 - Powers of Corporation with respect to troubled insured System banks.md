@@ -40,7 +40,7 @@
 
 #### (A) Least-cost resolution
 
-&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to theCorporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
+&emsp;&emsp;Assistance may not be provided to an insured System bank under this subsection unless the means of providing the assistance is the least costly means of providing the assistance by the Farm Credit Insurance Fund of all possible alternatives available to the Corporation, including liquidation of the bank (including paying the insured obligations issued on behalf of the bank). Before making a least-cost determination under this subparagraph, the Corporation shall accord such other insured System banks as the Corporation determines to be appropriate the opportunity to submit information relating to the determination.
 
 #### (B) Determining least costly approach
 
@@ -122,7 +122,7 @@ As used in this section, the terms "insured System bank" and "bank" include each
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989,103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Subsec. (a)(2). Pub. L. 104–105, §217(b)(2)(A), substituted "Facilitation of 
 
 Subsec. (a)(2)(A). Pub. L. 104–105, §217(b)(2)(B), substituted "In general" for "Facilitation of mergers or consolidation" in subpar. heading.
 
-Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank."
+Subsec. (a)(3)(A). Pub. L. 104–105, §217(a)(2), added subpar. (A) and struck out heading and text of formersubpar. (A). Text read as follows: "Assistance shall not be provided to an insured System bank under this subsection if the amount of such assistance exceeds an amount determined by the Corporation to be the cost of liquidating the bank (including paying the insured obligations issued on behalf of the bank). This subparagraph shall not apply to the provision of assistance to a bank if the Corporation determines that the continued operation of the bank is essential to provide adequate agricultural credit services in the area of operations of the bank."
 
 Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E) and redesignated former subpar. (B) as (F).
 

@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Federal share of costs for a project funded through a grant awarded under this subsection shall not exceed 75 percent of the total cost of the project.
+&emsp;&emsp;The Federal share of costs for a project funded through a grant awarded under thissubsection shall not exceed 75 percent of the total cost of the project.
 
 #### (B) Federal matching
 
@@ -164,7 +164,7 @@
 
 #### (E) No cost-sharing requirement
 
-&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraph shall not be required to share the cost of carrying out the activities assisted under this paragraph.
+&emsp;&emsp;A nonprofit organization or public entity that receives a grant under this paragraphshall not be required to share the cost of carrying out the activities assisted under this paragraph.
 
 #### (F) Evaluation
 
@@ -178,7 +178,7 @@
 
 #### (1) In general
 
-&emsp;A service institution that is described in section 1761(a)(6) of this title (excluding a publicschool), or a private nonprofit organization described in section 1761(a)(7) of this title, and that is located in the State of California may be reimbursed—
+&emsp;A service institution that is described in section 1761(a)(6) of this title (excluding a public school), or a private nonprofit organization described in section 1761(a)(7) of this title, and that is located in the State of California may be reimbursed—
 
 &emsp;&emsp;(A) for up to 2 meals during each day of operation served—
 
@@ -248,7 +248,7 @@
 
 #### (C) Cost assessment
 
-&emsp;&emsp;The evaluation shall assess the increased costs associated with providing additional free, reduced price, or paid meals in the school food authorities operating under this subsection.
+&emsp;&emsp;The evaluation shall assess the increased costs associated with providing additional free, reduced price, or paid meals in theschool food authorities operating under this subsection.
 
 #### (D) Report
 
@@ -262,7 +262,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish an organic food pilot program (referred to in this subsection as the "pilot program") under whichthe Secretary shall provide grants on a competitive basis to school food authorities selected under paragraph (3).
+&emsp;The Secretary shall establish an organic food pilot program (referred to in this subsection as the "pilot program") under which the Secretary shall provide grants on a competitive basis to school food authorities selected under paragraph (3).
 
 #### (2) Use of funds
 
@@ -328,7 +328,7 @@ Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as 
 
 Subsecs. (d) to (f). Pub. L. 111–296, §441(a)(11)–(13), struck out subsecs. (d) to (f) which related to fortified fluid milk, breakfast pilot projects, and summer food service residential camp eligibility, respectively.
 
-Subsecs. (g), (h). Pub. L. 111–296, §243(2), (3), added subsec. (g), redesignated pars. (3) and (4) of former subsec. (g) as pars. (1) and (2), respectively, of subsec. (h), inserted subsec. heading, substituted "In general" for "Pilot program for high-poverty schools" in heading ofsubsec. (h)(1), "carried out by the Secretary" for "in accordance with paragraph (1)(H)" in subsec. (h)(1)(F), and "2015" for " 2009" in subsec. (h)(2), and struck out heading "Access to local foods and school gardens" of former subsec. (g), and pars. (1) and (2) of former subsec. (g) which related to grants and technical assistance by the Secretary to schools and non-profit entities for various projects and administration of such grants and technical assistance. Former subsec. (h) redesignated (i).
+Subsecs. (g), (h). Pub. L. 111–296, §243(2), (3), added subsec. (g), redesignated pars. (3) and (4) of former subsec. (g) as pars. (1) and (2), respectively, of subsec. (h), inserted subsec. heading, substituted "In general" for "Pilot program for high-poverty schools" in heading of subsec. (h)(1), "carried out by the Secretary" for "in accordance with paragraph (1)(H)" in subsec. (h)(1)(F), and "2015" for " 2009" in subsec. (h)(2), and struck out heading "Access to local foods and school gardens" of former subsec. (g), and pars. (1) and (2) of former subsec. (g) which related to grants and technical assistance by the Secretary to schools and non-profit entities for various projects and administration of such grants and technical assistance. Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 111–296, §243(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 

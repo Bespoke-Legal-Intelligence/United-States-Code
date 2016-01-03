@@ -100,7 +100,7 @@ Vehicle registration.—The term "vehicle registration" means the registration o
 
 (b)
 
-Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
+Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not requiredto register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
 
 (c)
 

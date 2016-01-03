@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Reasonable cause
 
-&emsp;For purposes of this subsection, the time prescribed by regulations to furnish information or maintain records (and the beginning of the 90-day period after notice by the Secretary) shall be treated as not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed forfailure to furnish the information or maintain the records.
+&emsp;For purposes of this subsection, the time prescribed by regulations to furnish information or maintain records (and the beginning of the 90-day period after notice by the Secretary) shall be treated as not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish the information or maintain the records.
 
 #### (e) Enforcement of requests for certain records
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the amount of the deduction allowed under subtitle A for any amount paid or incurred by the reporting corporation to the related party in connection with such transaction, and
 
-&emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transaction from the related party (or transferred by such corporation in such transaction to the related party),
+&emsp;&emsp;(B) the cost to the reporting corporation of any property acquired in such transactionfrom the related party (or transferred by such corporation in such transaction to the related party),
 
 > &emsp;shall be the amount determined by the Secretary in the Secretary's sole discretion from the Secretary's own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, titleIII, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388-519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880.)
 
 #### Amendments
 

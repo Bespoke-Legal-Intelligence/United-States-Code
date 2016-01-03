@@ -12,7 +12,7 @@ In managing any fisheries under an international fisheries agreement to which th
 
 If a relevant international fisheries organization does not have a process for developing a formal plan to rebuild a depleted stock, an overfished stock, or a stock that is approaching a condition of being overfished, the provisions of this chapter in this regard shall be communicated to and promoted by the United States in the international or regional fisheries organization.
 
-(Pub. L. 94–265, title I, §102, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §103(a), Nov. 28, 1990, 104 Stat. 4439; Pub. L. 104–297, title I, §104, Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §4, Jan. 12, 2007, 120 Stat. 3578.)
+(Pub. L. 94–265, title I, §102, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, §101(b), Nov. 14, 1986,100 Stat. 3707; Pub. L. 101–627, title I, §103(a), Nov. 28, 1990, 104 Stat. 4439; Pub. L. 104–297, title I, §104, Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, §4, Jan. 12, 2007, 120 Stat. 3578.)
 
 #### References in Text
 

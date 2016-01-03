@@ -16,7 +16,7 @@
 
 #### (3) Service
 
-&emsp;Except as provided in subsection (b) of this section, each Commissioner shall report to theDirector. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
+&emsp;Except as provided in subsection (b) of this section, each Commissioner shall report to the Director. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
 
 &emsp;&emsp;(A) may be reappointed by the Director; and
 

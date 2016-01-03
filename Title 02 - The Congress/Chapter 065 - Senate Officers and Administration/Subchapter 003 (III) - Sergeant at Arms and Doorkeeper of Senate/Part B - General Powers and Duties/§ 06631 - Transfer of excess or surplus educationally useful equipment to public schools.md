@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Sergeant at Arms and Doorkeeper of the Senate may directly, or through the General Services Administration, transfer title to excess or surplus educationally useful equipment to a public school. Any such transfer shall be completed at the lowest possible cost to the public school and the Senate.
+The Sergeant at Arms and Doorkeeper of the Senate may directly, or through the GeneralServices Administration, transfer title to excess or surplus educationally useful equipment to a public school. Any such transfer shall be completed at the lowest possible cost to the public school and the Senate.
 
 #### (b) Regulations
 
@@ -16,7 +16,7 @@ Receipts from reimbursements for the costs of transfer of excess or surplus educ
 
 For the purposes of this section:
 
-&emsp;(1) The term "public school" means a public elementary or secondary school as such terms are defined in section 7801 of title 20.
+&emsp;(1) The term "public school" means a <sup>2</sup> elementary school or secondary school, as such terms are defined in section 7801 of title 20.
 
 &emsp;(2) The term "educationally useful equipment" means computers and related peripheral tools, including printers, modems, routers, servers, computer keyboards, scanners, and other telecommunications and research equipment, that are appropriate for use in public school education.
 
@@ -24,7 +24,7 @@ For the purposes of this section:
 
 This section shall take effect beginning with fiscal year 1997 and shall be effective each fiscal year thereafter.
 
-(Pub. L. 104–197, title I, §5, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–110, title X, §1076(a), Jan. 8, 2002, 115 Stat. 2091.)
+(Pub. L. 104–197, title I, §5, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–110, title X, §1076(a), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, §9215(yy), Dec. 10, 2015, 129 Stat. 2184.)
 
 #### Codification
 
@@ -34,11 +34,19 @@ Section is from the Congressional Operations Appropriations Act, 1997, which is 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 substituted "elementary school or secondary school, as such terms are defined in section 7801" for "public elementary or secondary school as such terms are defined in section 7801".
+
 <b>2002</b>—Subsec. (d)(1). Pub. L. 107–110 substituted "7801" for "8801".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "an".</i>
 

@@ -5,7 +5,7 @@ Part C—Education of Migratory Children
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06391 - Program purpose](%C2%A7%2006391%20-%20Program%20purpose.md)
+- [&sect; 06391 - Program purposes](%C2%A7%2006391%20-%20Program%20purposes.md)
 - [&sect; 06392 - Program authorized](%C2%A7%2006392%20-%20Program%20authorized.md)
 - [&sect; 06393 - State allocations](%C2%A7%2006393%20-%20State%20allocations.md)
 - [&sect; 06394 - State applications; services](%C2%A7%2006394%20-%20State%20applications%3B%20services.md)

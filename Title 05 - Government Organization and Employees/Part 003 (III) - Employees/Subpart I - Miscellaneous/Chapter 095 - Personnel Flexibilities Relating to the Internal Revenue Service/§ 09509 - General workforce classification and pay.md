@@ -24,7 +24,7 @@
 
 &emsp;(F) establish requirements and methodologies for setting the pay of an employee upon conversion to a broad-banded system, initial appointment, change of position or type of appointment (including promotion, demotion, transfer, reassignment, reinstatement, placement in another pay band, or movement to a different geographic location), and movement between a broad-banded system and another pay system.
 
-(c) With the approval of the Office of Personnel Management and in accordance with a plan for implementation submitted by the Secretaryof the Treasury, the Secretary may, with respect to Internal Revenue Service employees who are covered by a broad-banded system established under this section, provide for variations from the provisions of subchapter VI of chapter 53.
+(c) With the approval of the Office of Personnel Management and in accordance with a plan for implementation submitted by the Secretary of the Treasury, the Secretary may, with respect to Internal Revenue Service employees who are covered by a broad-banded system established under this section, provide for variations from the provisions of subchapter VI of chapter 53.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 716.)
 

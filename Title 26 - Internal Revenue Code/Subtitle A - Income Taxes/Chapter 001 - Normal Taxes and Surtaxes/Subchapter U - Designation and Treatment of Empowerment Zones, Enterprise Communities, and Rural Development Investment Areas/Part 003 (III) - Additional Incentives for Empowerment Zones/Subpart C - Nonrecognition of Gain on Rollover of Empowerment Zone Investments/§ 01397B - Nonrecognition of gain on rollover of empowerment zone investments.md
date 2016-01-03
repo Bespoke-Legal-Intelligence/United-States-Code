@@ -54,7 +54,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) only the first year of the taxpayer's holding period for the asset referred to in subsection (a)(1) shall be taken into account for purposes of paragraphs (2)(A)(iii), (3)(C), and (4)(A)(iii) of section 1400F(b).
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; amended Pub. L. 113–295, div. A, title II, §206(c), Dec. 19, 2014, 128 Stat. 4027.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-602; amended Pub. L. 113–295, div. A, title II, §206(c), Dec. 19, 2014, 128 Stat. 4027.)
 
 #### References in Text
 

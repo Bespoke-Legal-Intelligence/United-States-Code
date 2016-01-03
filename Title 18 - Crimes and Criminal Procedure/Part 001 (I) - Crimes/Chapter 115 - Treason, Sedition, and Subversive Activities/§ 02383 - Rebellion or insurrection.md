@@ -1,6 +1,6 @@
 ### §2383. Rebellion or insurrection
 
-Whoever incites, sets on foot, assists, or engages in any rebellion or insurrection against the authority of the United States or the laws thereof, or gives aid or comfort thereto, shall be fined under this title or imprisoned not more than ten years, or both; and shall be incapable of holding any office under the United States.
+Whoever incites, sets on foot, assists, or engages in any rebellion or insurrection againstthe authority of the United States or the laws thereof, or gives aid or comfort thereto, shall be fined under this title or imprisoned not more than ten years, or both; and shall be incapable of holding any office under the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 808; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 

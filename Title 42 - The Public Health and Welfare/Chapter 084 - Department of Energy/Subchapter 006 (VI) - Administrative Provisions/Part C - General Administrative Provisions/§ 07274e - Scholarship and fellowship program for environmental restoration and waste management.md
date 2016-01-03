@@ -90,5 +90,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. C, title XXXI, §3156(b)(2), Oct. 5, 1994, 108 Stat. 3092, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on January 3, 1995."
+Pub. L. 103–337, div. C, title XXXI, §3156(b)(2), Oct. 5, 1994, 108 Stat. 3092, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995."
 

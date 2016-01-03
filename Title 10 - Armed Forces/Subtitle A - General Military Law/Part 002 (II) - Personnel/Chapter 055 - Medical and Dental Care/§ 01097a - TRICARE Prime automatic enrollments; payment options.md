@@ -62,7 +62,7 @@ Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, p
 
 #### Future Availability of TRICARE Prime Throughout the United States
 
-Pub. L. 112–239, div. A, title VII, §732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 789; Pub. L. 113–291, div. A, title VII, §723, Dec. 19, 2014, 128 Stat. 3417, provided that:
+Pub. L. 112–239, div. A, title VII, §732, Jan. 2, 2013, 126 Stat. 1816, as amended by Pub. L. 113–66, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 789; Pub. L. 113–291, div. A, title VII, §723, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 114–92, div. A, title VII, §701, Nov. 25, 2015, 129 Stat. 860, provided that:
 
 "(a)
 
@@ -132,11 +132,19 @@ Enrollment in tricare standard.—If an affected eligible beneficiary makes the 
 
 &emsp;"(3)
 
-Residence at time of election.—An affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
+Residence at time of election.—
 
-&emsp;&emsp;"(A) in a ZIP code that is in a region described in subsection (d)(1)(B); and
+&emsp;&emsp;"(A) Except as provided by subparagraph (B), an affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
 
-&emsp;&emsp;"(B) within 100 miles of a military medical treatment facility.
+&emsp;&emsp;&emsp;"(i) in a ZIP code that is in a region described in subsection (d)(1)(B); and
+
+&emsp;&emsp;&emsp;"(ii) within 100 miles of a military medical treatment facility.
+
+&emsp;&emsp;"(B) Subparagraph (A)(ii) shall not apply with respect to an affected eligible beneficiary who—
+
+&emsp;&emsp;&emsp;"(i) as of December 25, 2013, resides farther than 100 miles from a military medical treatment facility; and
+
+&emsp;&emsp;&emsp;"(ii) is such an eligible beneficiary by reason of service in the Army, Navy, Air Force, or Marine Corps.
 
 &emsp;"(4)
 
@@ -158,5 +166,5 @@ Definitions.—In this section:
 
 &emsp;"(4) The term 'TRICARE Standard' means the fee-for-service option of the TRICARE Program."
 
-\[Pub. L. 113–291, div. A, title VII, §723(b), Dec. 19, 2014, 128 Stat. 3418, which directed amendment of subsec. (b)(3)(A) of section 723 of Pub. L. 112–239, set out above, by substituting "subsection (d)(1)(B)" for "subsection (c)(1)(B)", was executed by making the substitution in subsec. (c)(3)(A) of Pub. L. 112–239, to reflect the probable intent of Congress and the prior amendment by section 723(a)(1) of Pub. L. 113–291, which redesignated subsec. (b) as (c).\]
+\[Pub. L. 113–291, div. A, title VII, §723(b), Dec. 19, 2014, 128 Stat. 3418, which directed amendment of subsec. (b)(3)(A) of section 732 of Pub. L. 112–239, set out above, by substituting "subsection (d)(1)(B)" for "subsection (c)(1)(B)", was executed by making the substitution in subsec. (c)(3)(A) of section 732 of Pub. L. 112–239, to reflect the probable intent of Congress and the prior amendment by section 723(a)(1) of Pub. L. 113–291, which redesignated subsec. (b) as (c).\]
 

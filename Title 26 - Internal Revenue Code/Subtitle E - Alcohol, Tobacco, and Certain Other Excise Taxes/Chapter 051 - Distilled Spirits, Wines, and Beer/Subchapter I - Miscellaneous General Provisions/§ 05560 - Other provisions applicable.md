@@ -1,6 +1,6 @@
 ### §5560. Other provisions applicable
 
-All provision of subtitle F, insofar as applicable and not inconsistent with the provisions of this subtitle, are hereby extended to and made a part of this subtitle.
+All provision of subtitle F, insofar as applicable and not inconsistent with the provisions ofthis subtitle, are hereby extended to and made a part of this subtitle.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1396.)
 

@@ -36,7 +36,7 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Study Regarding Availability of Housing Proximate to Places of Employment
 
-Pub. L. 101–625, title IX, §919, Nov. 28, 1990, 104 Stat. 4401, directed Secretary of Housing and Urban Development to conduct a study regarding availability of housing within reasonable proximity of places of employment and to submit a report not later than expiration of 1-year period beginning on Nov. 28, 1990, to appropriate committees of Congress containing results andconclusions of such study, as well as proposed strategies to increase availability of housing for low- and moderate-income families within reasonable proximity of places of employment for working members of such families to and prevent geographical divergence of such housing and places of employment.
+Pub. L. 101–625, title IX, §919, Nov. 28, 1990, 104 Stat. 4401, directed Secretary of Housing and Urban Development to conduct a study regarding availability of housing within reasonable proximity of places of employment and to submit a report not later than expiration of 1-year period beginning on Nov. 28, 1990, to appropriate committees of Congress containing results and conclusions of such study, as well as proposed strategies to increase availability of housing for low- and moderate-income families within reasonable proximity of places of employment for working members of such families to and prevent geographical divergence of such housing and places of employment.
 
 #### Study on Involuntary Housing Displacement; Report to Congress
 

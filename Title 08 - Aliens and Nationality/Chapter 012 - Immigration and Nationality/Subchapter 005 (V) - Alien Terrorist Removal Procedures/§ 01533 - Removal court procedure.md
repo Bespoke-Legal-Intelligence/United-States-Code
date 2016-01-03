@@ -48,7 +48,7 @@ The Attorney General may dismiss a removal action under this subchapter at any s
 
 #### (3) Denial of order
 
-&emsp;If the judge denies the order requested in the application, the judge shall prepare a writtenstatement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government's application.
+&emsp;If the judge denies the order requested in the application, the judge shall prepare a written statement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government's application.
 
 #### (d) Exclusive provisions
 

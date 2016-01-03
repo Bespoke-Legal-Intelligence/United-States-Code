@@ -16,7 +16,7 @@ The reporting requirements of this subchapter are in addition to and not in lieu
 
 &emsp;(B) the current activities of foreign nations which are of significance from the proliferation standpoint.
 
-(2) For the purposes of this subsection with respect to paragraph (1)(B), the phrase "fully and currently informed" means the transmittal ofcredible information not later than 60 days after becoming aware of the activity concerned.
+(2) For the purposes of this subsection with respect to paragraph (1)(B), the phrase "fully and currently informed" means the transmittal of credible information not later than 60 days after becoming aware of the activity concerned.
 
 #### (d) Classified portions of reports
 

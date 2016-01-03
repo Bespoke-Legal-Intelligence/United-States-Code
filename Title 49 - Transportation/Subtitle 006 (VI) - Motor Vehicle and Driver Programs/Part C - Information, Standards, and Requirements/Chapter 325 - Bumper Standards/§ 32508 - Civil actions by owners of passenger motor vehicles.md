@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 20, 1972, Pub. L. 92–513, §108, 86 Stat. 955.
 
-The words "applicable Federal" are omitted as surplus. The words "when a judgment is entered for theowner" are substituted for "in the case of any such successful action to recover that amount" to eliminate unnecessary words.
+The words "applicable Federal" are omitted as surplus. The words "when a judgment is entered for the owner" are substituted for "in the case of any such successful action to recover that amount" to eliminate unnecessary words.
 

@@ -1,6 +1,6 @@
 ### §130. Authority to withhold from public disclosure certain technical data
 
-(a) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully outside the United States without an approval, authorization, or license under the Export Administration Act of 1979 (50 U.S.C. App. 2401–2420) or the Arms Export Control Act (22 U.S.C. 2751 et seq.). However, technical data may not be withheld under this section if regulations promulgated under either such Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations.
+(a) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully outside the United States without an approval, authorization, or license under the Export Administration Act of 1979 (50 U.S.C. App. 2401–2420) <sup>1</sup> or the Arms Export Control Act (22 U.S.C. 2751 et seq.). However, technical data may not be withheld under this section if regulations promulgated under either such Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations.
 
 (b) Regulations under this section shall be published in the Federal Register for a period of no less than 30 days for public comment before promulgation. Such regulations shall address, where appropriate, releases of technical data to allies of the United States and to qualified United States contractors, including United States contractors that are small business concerns, for use in performing United States Government contracts.
 
@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
@@ -23,4 +23,6 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 <b>1986</b>—Pub. L. 99–433 renumbered section 140c of this title as this section and substituted "Authority" for "Secretary of Defense: authority" in section catchline.
 
 <b>1985</b>—Subsec. (b)(1). Pub. L. 99–145 substituted "September 24, 1983" for "enactment of this section".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

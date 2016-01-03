@@ -6,7 +6,7 @@ Not later than 1 year after August 8, 2005—
 
 &emsp;(1) the Secretary of the Interior shall update section 2806.20 of title 43, Code of Federal Regulations, as in effect on August 8, 2005, to revise the per acre rental fee zone value schedule by State, county, and type of linear right-of-way use to reflect current values of land in each zone; and
 
-&emsp;(2) the Secretary of Agriculture shall make the same revision for linear rights-of-waygranted, issued, or renewed under title V of the Federal Lands Policy and Management Act of 1976 (43 U.S.C. 1761 et seq.) on National Forest System land.
+&emsp;(2) the Secretary of Agriculture shall make the same revision for linear rights-of-way granted, issued, or renewed under title V of the Federal Lands Policy and Management Act of 1976 (43 U.S.C. 1761 et seq.) on National Forest System land.
 
 #### (b) Fair market value rental determination for linear rights-of-way
 

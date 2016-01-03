@@ -30,7 +30,7 @@
 
 #### (ii) Use of unobligated funds
 
-&emsp;&emsp;&emsp;Funds reserved by a Governor under section 3173(a)(2) of this title, and section 2863(a)(2) of this title (as in effect on the day before July 22, 2014), to carry out this subparagraph that remain unobligated after the first program year for which such funds were allotted may be used by theGovernor to carry out statewide activities authorized under subparagraph (B) or paragraph (3)(A), in addition to activities under this subparagraph.
+&emsp;&emsp;&emsp;Funds reserved by a Governor under section 3173(a)(2) of this title, and section 2863(a)(2) of this title (as in effect on the day before July 22, 2014), to carry out this subparagraph that remain unobligated after the first program year for which such funds were allotted may be used by the Governor to carry out statewide activities authorized under subparagraph (B) or paragraph (3)(A), in addition to activities under this subparagraph.
 
 #### (B) Statewide employment and training activities
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriers to employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in section 3141(c) of this title;
 
-&emsp;&emsp;&emsp;(ii) providing assistance to local areas as described in section 3121(b)(6) of this title;
+&emsp;&emsp;&emsp;(ii) providing assistance to local areas as described in section 3121(b)(7) of this title;
 
 &emsp;&emsp;&emsp;(iii) operating a fiscal and management accountability information system in accordance with section 3141(i) of this title;
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(v) disseminating—
 
-&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services, including eligible providers of nontraditional training services and eligible providers of apprenticeship programs described in section 3152(a)(2)(B) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services, including eligible providers of nontraditional training services and eligible providers of apprenticeshipprograms described in section 3152(a)(2)(B) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) information identifying eligible providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, or transitional jobs;
 
@@ -144,7 +144,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;(1) shall be used to carry out employment and training activities described in subsection (c) for adults or dislocated workers, respectively; and
 
-&emsp;(2) may be used to carry out employment and training activities described in subsection\(d) for adults or dislocated workers, respectively.
+&emsp;(2) may be used to carry out employment and training activities described in subsection (d) for adults or dislocated workers, respectively.
 
 #### (c) Required local employment and training activities
 
@@ -178,7 +178,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(ii) outreach, intake (which may include worker profiling), and orientation to the information and other services available through the one-stop delivery system;
 
-&emsp;&emsp;&emsp;(iii) initial assessment of skill levels (including literacy, numeracy, and English language proficiency), aptitudes, abilities (including skills gaps), and supportive service needs;
+&emsp;&emsp;&emsp;(iii) initial assessment of skill levels (including literacy, numeracy, and Englishlanguage proficiency), aptitudes, abilities (including skills gaps), and supportive service needs;
 
 &emsp;&emsp;&emsp;(iv) labor exchange services, including—
 
@@ -204,7 +204,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(viii) provision of information, in formats that are usable by and understandable to one-stop center customers, regarding how the local area is performing on the local performance accountability measures described in section 3141(c) of this title and any additional performance information with respect to the one-stop delivery system in the local area;
 
-&emsp;&emsp;&emsp;(ix)(I) provision of information, in formats that are usable by and understandable to one-stop center customers, relating to the availability of supportive services or assistance, including child care, child support, medical or child health assistance under title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq. and 1397aa et seq.), benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), assistance through the earned income tax credit under section 32of title 26, and assistance under a State program for temporary assistance for needy families funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) and other supportive services and transportation provided through funds made available under such part, available in the local area; and
+&emsp;&emsp;&emsp;(ix)(I) provision of information, in formats that are usable by and understandable to one-stop center customers, relating to the availability of supportive services or assistance, including child care, child support, medical or child health assistance under title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq. and 1397aa et seq.), benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), assistance through the earned income tax credit under section 32 of title 26, and assistance under a State program for temporary assistance for needy families funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) and other supportive services and transportation provided through funds made available under such part, available in the local area; and
 
 &emsp;&emsp;&emsp;(II) referral to the services or assistance described in subclause (I), as appropriate;
 
@@ -278,7 +278,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (ii) Use of previous assessments
 
-&emsp;&emsp;&emsp;A one-stop operator or one-stop partner shall not be required to conduct a new interview, evaluation, or assessment of a participant under clause (i) if the one-stop operator or one-stop partner determinesthat it is appropriate to use a recent interview, evaluation, or assessment of the participant conducted pursuant to another education or training program.
+&emsp;&emsp;&emsp;A one-stop operator or one-stop partner shall not be required to conduct a new interview, evaluation, or assessment of a participant under clause (i) if the one-stop operator or one-stop partner determines that it is appropriate to use a recent interview, evaluation, or assessment of the participant conducted pursuant to another education or training program.
 
 #### (iii) Rule of construction
 
@@ -498,7 +498,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Additional eligibility requirements
 
-&emsp;&emsp;In addition to the requirements contained in subparagraph (A), a dislocated worker who has ceased to qualify for unemployment compensation may be eligible to receive needs-related payments under this paragraph only if such worker was enrolled in the training services—
+&emsp;&emsp;In addition to the requirements contained in subparagraph (A), a dislocated worker who has ceased to qualify for unemploymentcompensation may be eligible to receive needs-related payments under this paragraph only if such worker was enrolled in the training services—
 
 &emsp;&emsp;&emsp;(i) by the end of the 13th week after the most recent layoff that resulted in a determination of the worker's eligibility for employment and training activities for dislocated workers under this part; or
 
@@ -572,7 +572,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;(C) are designed to assist the individuals described in subparagraph (A) to establish a work history, demonstrate success in the workplace, and develop the skills that lead to entry into and retention in unsubsidized employment.
 
-(Pub. L. 113–128, title I, §134, July 22, 2014, 128 Stat. 1520.)
+(Pub. L. 113–128, title I, §134, July 22, 2014, 128 Stat. 1520; Pub. L. 114–18, §2(e)(3), May 22, 2015, 129 Stat. 214.)
 
 #### References in Text
 
@@ -592,9 +592,17 @@ The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is 
 
 The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(2)(B)(ii). Pub. L. 114–18 substituted "section 3121(b)(7)" for "section 3121(b)(6)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act \[Pub. L. 113–128\], see §2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

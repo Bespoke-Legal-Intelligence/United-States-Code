@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Appointment and Compensation.—The Administrator of General Services, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5, may appoint and fix the compensation of personnel necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (b)
 

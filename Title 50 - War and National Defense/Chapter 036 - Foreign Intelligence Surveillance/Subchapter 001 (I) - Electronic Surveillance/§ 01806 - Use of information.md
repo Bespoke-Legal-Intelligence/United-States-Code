@@ -2,7 +2,7 @@
 
 #### (a) Compliance with minimization procedures; privileged communications; lawful purposes
 
-Information acquired from an electronic surveillance conducted pursuant to this subchapter concerning any United States person may beused and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No otherwise privileged communication obtained in accordance with, or in violation of, the provisions of this subchapter shall lose its privileged character. No information acquired from an electronic surveillance pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
+Information acquired from an electronic surveillance conducted pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No otherwise privileged communication obtained in accordance with, or in violation of, the provisions of this subchapter shall lose its privileged character. No information acquired from an electronic surveillance pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
 #### (b) Statement for disclosure
 
@@ -44,7 +44,7 @@ In circumstances involving the unintentional acquisition by an electronic, mecha
 
 #### (j) Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination
 
-If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+If an emergency employment of electronic surveillance is authorized under subsection (e) or (f) of section 1805 of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
 &emsp;(1) the fact of the application;
 
@@ -66,15 +66,17 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 (2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B) <sup>1</sup> of this title or the entry of an order under section 1805 of this title.
 
-(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§106, 110(b)(1), July 10, 2008, 122 Stat. 2462, 2466.)
+(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§106, 110(b)(1), July 10, 2008, 122 Stat. 2462, 2466; Pub. L. 114–23, title VII, §701(b), June 2, 2015, 129 Stat. 299.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25,1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1804(a)(7)(B) of this title, referred to in subsec. (k)(2), was redesignated section 1804(a)(6)(B) of this title by Pub. L. 110–261, title I, §104(1)(B), July 10, 2008, 122 Stat. 2461.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (j). Pub. L. 114–23 substituted "subsection (e) or (f) of section 1805 of this title" for "section 1805(e) of this title".
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–261, §106, substituted "communication" for "radio communication".
 

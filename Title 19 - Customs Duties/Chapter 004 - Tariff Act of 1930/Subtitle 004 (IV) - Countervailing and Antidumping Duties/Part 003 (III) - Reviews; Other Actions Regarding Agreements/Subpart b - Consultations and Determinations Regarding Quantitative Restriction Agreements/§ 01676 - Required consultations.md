@@ -2,7 +2,7 @@
 
 #### (a) Agreements in response to countervailable subsidies
 
-Within 90 days after the administering authority accepts a quantitative restriction agreement under section 1671c(a)(2) or (c)(3) of this title, the President shall enter into consultations with the government that is party to the agreement for purposes of—
+Within 90 days after the administering authority accepts a quantitative restriction agreementunder section 1671c(a)(2) or (c)(3) of this title, the President shall enter into consultations with the government that is party to the agreement for purposes of—
 
 &emsp;(1) eliminating the countervailable subsidy completely, or
 
@@ -10,7 +10,7 @@ Within 90 days after the administering authority accepts a quantitative restrict
 
 #### (b) Modification of agreements on basis of consultations
 
-At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a) of this section.
+At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a).
 
 #### (c) Special rule regarding agreements under section 1671c(c)(3) of this title
 

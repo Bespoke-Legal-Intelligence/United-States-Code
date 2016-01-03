@@ -22,7 +22,7 @@ Each review panel appointed under subsection (a)(2) of this section that reviews
 
 #### (c) Notice to Congressional committee chairman; information required
 
-Upon the request of the chairman of the Committee on Indian Affairs of the Senate or of the chairman of the Committee on Education and Labor of the House of Representatives made with respect to any application for financial assistance under section 2991b or 2991d of this title, the Commissioner shall transmit to the chairman written notice—
+Upon the request of the chairman of the Committee on Indian Affairs of the Senate or of the chairman of the Committee on Education and Labor of the House of Representatives made with respect to any application for financial assistance under section 2991b or 2991d of this title,the Commissioner shall transmit to the chairman written notice—
 
 &emsp;(1) identifying such application;
 

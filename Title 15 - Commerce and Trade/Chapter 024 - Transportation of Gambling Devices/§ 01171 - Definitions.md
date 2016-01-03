@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term "gambling device" means—
 
-&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of anelement of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
+&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
 &emsp;(2) any other machine or mechanical device (including, but not limited to, roulette wheels and similar devices) designed and manufactured primarily for use in connection with gambling, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
@@ -12,7 +12,7 @@ As used in this chapter—
 
 (b) The term "State" includes the District of Columbia, Puerto Rico, the Virgin Islands, and Guam.
 
-(c) The term "possession of the United States" means any possession of the United States which is not named in subsection (b) of this section.
+(c) The term "possession of the United States" means any possession of the United States which is not named in paragraph <sup>1</sup> (b) of this section.
 
 (d) The term "interstate or foreign commerce" means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of the United States but through any place outside thereof.
 
@@ -47,4 +47,6 @@ Act Jan. 2, 1951, which enacted this chapter and a note set out under this secti
 #### Separability
 
 Act Jan. 2, 1951, ch. 1194, §8, 64 Stat. 1136, provided that: "If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

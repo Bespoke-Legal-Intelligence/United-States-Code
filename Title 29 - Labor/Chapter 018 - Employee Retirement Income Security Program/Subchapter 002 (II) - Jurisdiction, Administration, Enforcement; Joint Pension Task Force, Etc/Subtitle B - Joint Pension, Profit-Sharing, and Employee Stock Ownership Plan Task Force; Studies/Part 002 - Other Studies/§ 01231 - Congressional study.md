@@ -1,6 +1,6 @@
 ### §1231. Congressional study
 
-(a) The Committee on Education and Labor and the Committee on Ways and Means of the House of Representatives and the Committee on Finance and the Committee on Labor and Public Welfare of the Senate shall study retirement plans established and maintained or financed (directly or indirectly) by the Government of the United States, by any State (including the District of Columbia) or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. Such study shall include an analysis of—
+(a) The Committee on Education and Labor and the Committee on Ways and Means of theHouse of Representatives and the Committee on Finance and the Committee on Labor and Public Welfare of the Senate shall study retirement plans established and maintained or financed (directly or indirectly) by the Government of the United States, by any State (including the District of Columbia) or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. Such study shall include an analysis of—
 
 &emsp;(1) the adequacy of existing levels of participation, vesting, and financing arrangements,
 

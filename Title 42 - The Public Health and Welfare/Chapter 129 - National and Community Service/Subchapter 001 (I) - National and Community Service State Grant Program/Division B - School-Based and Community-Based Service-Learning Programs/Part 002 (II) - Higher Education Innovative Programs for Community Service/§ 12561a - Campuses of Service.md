@@ -24,7 +24,7 @@ The Corporation, after consultation with the Secretary of Education, may annuall
 
 &emsp;&emsp;(D) at the discretion of the institution, information demonstrating the degree to which recent graduates of the institution, and all graduates of the institution, have obtained full-time public service employment in the nonprofit sector or government, with a private nonprofit organization or a Federal, State, or local public agency; and
 
-&emsp;&emsp;(E) any programs the institution has in place to encourage or assist graduates of theinstitution to pursue careers in public service in the nonprofit sector or government.
+&emsp;&emsp;(E) any programs the institution has in place to encourage or assist graduates of the institution to pursue careers in public service in the nonprofit sector or government.
 
 #### (c) Nominations and designation
 

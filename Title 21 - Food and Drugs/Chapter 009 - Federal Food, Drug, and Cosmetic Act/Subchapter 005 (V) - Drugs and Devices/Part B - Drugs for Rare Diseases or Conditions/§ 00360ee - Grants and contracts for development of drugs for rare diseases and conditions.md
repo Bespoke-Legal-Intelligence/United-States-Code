@@ -46,7 +46,7 @@ Subsec. (c). Pub. L. 112–144, §906(b), amended subsec. (c) generally. Prior t
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted "(1)" after "assist in" and added cls. (2) and (3).
 
-Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted "(1) in the case of a drug," after "means", added cls. (2)and (3), and substituted "under section 360bb of this title" for "under this subsection" in last sentence.
+Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted "(1) in the case of a drug," after "means", added cls. (2) and (3), and substituted "under section 360bb of this title" for "under this subsection" in last sentence.
 
 Subsec. (b)(3). Pub. L. 100–290, §3(b)(3), added par. (3).
 

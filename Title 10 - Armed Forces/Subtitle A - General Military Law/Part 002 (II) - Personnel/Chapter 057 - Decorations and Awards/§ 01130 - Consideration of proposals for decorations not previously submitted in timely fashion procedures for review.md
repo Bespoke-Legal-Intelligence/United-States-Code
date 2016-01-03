@@ -68,7 +68,7 @@ Operations Defined.—For purposes of this section:
 
 #### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
 
-Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration forany unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
+Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
 
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 
@@ -88,7 +88,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(5) Subsequent requests to the Secretaries of the military departments for review of award recommendations for such acts have been denied because of restrictions in law and regulations that require timely filing of such recommendations and documented justification.
 
-&emsp;"(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forces deserve appropriate and timely recognition by the people of the United States.
+&emsp;"(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forcesdeserve appropriate and timely recognition by the people of the United States.
 
 &emsp;"(7) It is appropriate to recognize acts of heroism, sacrifice, or bravery that are belatedly, but properly, documented by persons who witnessed those acts.
 

@@ -10,9 +10,15 @@ Requirement.—(1) Within the time periods specified in paragraph (3), the Secre
 
 (B) In the event that a retirement or other separation is unanticipated until there are 90 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
 
-(4)(A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of that member's first 180 days of active duty.
+(4)(A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of the first 180 continuous days of active duty of the member.
 
 (B) Subparagraph (A) shall not apply in the case of a member who is being retired or separated for disability.
+
+(C) For purposes of calculating the days of active duty of a member under subparagraph (A), the Secretary concerned shall exclude any day on which—
+
+&emsp;(i) the member performed full-time training duty or annual training duty; and
+
+&emsp;(ii) the member attended, while in the active military service, a school designated as a service school by law or by the Secretary concerned.
 
 (b)
 
@@ -32,7 +38,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program.
 
-&emsp;(5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of informationon survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
+&emsp;(5) If the member has a spouse, inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs.
 
 &emsp;(6) Information concerning the availability of relocation assistance services and other benefits and services available to persons leaving military service, as provided under section 1144 of this title.
 
@@ -62,9 +68,13 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, §552, Nov. 25, 2015, 129 Stat. 823.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(4)(A). Pub. L. 114–92, §552(1), substituted "the first 180 continuous days of active duty of the member" for "that member's first 180 days of active duty".
+
+Subsec. (a)(4)(C). Pub. L. 114–92, §552(2), added subpar. (C).
 
 <b>2013</b>—Subsec. (b)(4)(C). Pub. L. 112–239, §541(c), struck out "under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)" before period at end.
 
@@ -112,7 +122,7 @@ Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
 <b>1993</b>—Subsec. (b)(4). Pub. L. 103–160 substituted "programs established under sections 1151, 1152, and 1153 of this title" for "program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers' aides".
 
-Pub. L. 103–35 substituted "job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers' aides" for "job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers' aides., including the public and community service jobs program carried out under section 1143a of this title".
+Pub. L. 103–35 substituted "job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, andinformation regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers' aides" for "job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers' aides., including the public and community service jobs program carried out under section 1143a of this title".
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–484, §4401(a), substituted "As soon as possible before, but in no event later than 90 days before, the date of the discharge" for "Upon the discharge".
 

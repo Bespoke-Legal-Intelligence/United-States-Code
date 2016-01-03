@@ -40,7 +40,7 @@ The President may, on the basis of consultations with the appropriate congressio
 
 #### (2) Statutory construction
 
-&emsp;Nothing in this subsection may be construed to require the transfer of functions, personnel,records, balances of appropriations, or other assets of an agency on a single date.
+&emsp;Nothing in this subsection may be construed to require the transfer of functions, personnel, records, balances of appropriations, or other assets of an agency on a single date.
 
 #### (3) Supersedes existing law
 
@@ -144,7 +144,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 &emsp;• Establish, within the Office of the Secretary, the Office for State and Local Government Coordination, the Office of International Affairs, and the Office of National Capital Region Coordination.
 
-&emsp;• Establish the Homeland Security Advanced Research Projects Agency and the Acceleration Fundfor Research and Development of Homeland Security Technologies.
+&emsp;• Establish the Homeland Security Advanced Research Projects Agency and the Acceleration Fund for Research and Development of Homeland Security Technologies.
 
 &emsp;• Establish within the Directorate of Science and Technology the Office for National Laboratories.
 
@@ -174,7 +174,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 &emsp;&emsp;º The nuclear smuggling programs and activities within the proliferation detection program of the nonproliferation and verification research and development program of the Department of Energy.
 
-&emsp;&emsp;º The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program of the Department of Energy and the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory of the Department of Energy.
+&emsp;&emsp;º The nuclear assessment program and activities of the assessment, detection, and cooperation program of the international materials protection and cooperation program of the Department of Energyand the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory of the Department of Energy.
 
 &emsp;&emsp;º The Environmental Measurements Laboratory of the Department of Energy.
 
@@ -274,7 +274,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Support the Under Secretary for Information Analysis and Infrastructure Protection by assessing and testing homeland security vulnerabilities and possible threats.
 
-&emsp;&emsp;&emsp;• Conduct basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements ofthe Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities.
+&emsp;&emsp;&emsp;• Conduct basic and applied research, development, demonstration, testing, and evaluation activities that are relevant to any or all elements of the Department, through both intramural and extramural programs, except that such responsibility does not extend to human health-related research and development activities.
 
 &emsp;&emsp;&emsp;• Establish priorities for directing, funding, and conducting national research, development, test and evaluation, and procurement of technology and systems for—
 
@@ -498,7 +498,7 @@ The Commissioner will:
 
 &emsp;1\. Establish and oversee the administration of the policies for performing the Border Patrol and inspections program functions as are—
 
-&emsp;&emsp;(a) transferred to the Under Secretary for Border and Transportation Security by Section 441 of theAct \[6 U.S.C. 251\] and delegated to the Commissioner by the Under Secretary for Border and Transportation Security; or
+&emsp;&emsp;(a) transferred to the Under Secretary for Border and Transportation Security by Section 441 of the Act \[6 U.S.C. 251\] and delegated to the Commissioner by the Under Secretary for Border and Transportation Security; or
 
 &emsp;&emsp;(b) otherwise vested in the Assistant Secretary \[probably should be "Commissioner"\] by law.
 
@@ -526,7 +526,7 @@ Because of the current state of the 2003 budget process, information concerning 
 
 (4) <i>Specification of the proposed allocations within the Department of unexpended funds transferred in connection with transfers under the plan.</i>
 
-The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected by this modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintain current operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
+The table attached at Tab B \[not set out in the Code\] provides updated estimates of the unobligated balances as of September 30, 2002, for the agencies affected by this modification that will be transferred to the Department. Since October 1, 2002, these agencies have been operating under continuing resolutions, and, as such, have been spending these balances to maintaincurrent operations. As additional information becomes available, it will be provided as may be required in accordance with the procedures under the Act for modification of this Plan or other applicable law.
 
 (5) <i>Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</i>
 

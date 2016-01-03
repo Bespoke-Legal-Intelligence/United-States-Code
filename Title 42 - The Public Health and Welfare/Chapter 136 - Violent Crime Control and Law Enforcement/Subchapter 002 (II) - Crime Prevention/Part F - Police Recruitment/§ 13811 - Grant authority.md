@@ -62,7 +62,7 @@ Not later than 60 days after the date that an application for a grant under subs
 
 &emsp;(1) approve the application and disburse the grant funds applied for; or
 
-&emsp;(2) disapprove the application and inform the applicant that the application is not approvedand provide the applicant with the reasons for the disapproval.
+&emsp;(2) disapprove the application and inform the applicant that the application is not approved and provide the applicant with the reasons for the disapproval.
 
 #### (f) Grant disbursement
 
@@ -80,7 +80,7 @@ A grant under subsection (a) of this section shall be made for a period not long
 
 #### (h) Grantee reporting
 
-(1) For each year of a grant period for a grant under subsection (a) of this section, the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities in meeting the purpose of the recipient's qualified program.
+(1) For each year of a grant period for a grant under subsection (a) of this section, the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities inmeeting the purpose of the recipient's qualified program.
 
 (2) If there was more than one recipient of a grant, each recipient shall file such report.
 

@@ -92,7 +92,7 @@ The State board shall assist the Governor in—
 
 &emsp;&emsp;(G) the development of strategies to support staff training and awareness across programs supported under the workforce development system;
 
-&emsp;(4) the development and updating of comprehensive State performance accountabilitymeasures, including State adjusted levels of performance, to assess the effectiveness of the core programs in the State as required under section 3141(b) of this title;
+&emsp;(4) the development and updating of comprehensive State performance accountability measures, including State adjusted levels of performance, to assess the effectiveness of the core programs in the State as required under section 3141(b) of this title;
 
 &emsp;(5) the identification and dissemination of information on best practices, including best practices for—
 
@@ -122,7 +122,7 @@ The State board shall assist the Governor in—
 
 &emsp;(8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
 
-&emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
+&emsp;(9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youthworkforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
 
 &emsp;(10) the preparation of the annual reports described in paragraphs (1) and (2) of section 3141(d) of this title;
 
@@ -186,5 +186,5 @@ The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

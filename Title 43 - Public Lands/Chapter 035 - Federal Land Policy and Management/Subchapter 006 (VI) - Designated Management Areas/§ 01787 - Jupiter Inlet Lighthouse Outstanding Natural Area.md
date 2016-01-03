@@ -108,7 +108,7 @@ In this section:
 
 #### (3) Existing plans
 
-&emsp;The management plan shall, to the maximum extent practicable, be consistent withexisting resource plans, policies, and programs.
+&emsp;The management plan shall, to the maximum extent practicable, be consistent with existing resource plans, policies, and programs.
 
 #### (4) Inclusions
 
@@ -184,7 +184,7 @@ In this section:
 
 #### (C) Additions to the Outstanding Natural Area
 
-&emsp;&emsp;Any land or interest in land adjacent to the Outstanding Natural Area acquired bythe United States after May 8, 2008, under subparagraph (A) shall be added to, and administered as part of, the Outstanding Natural Area.
+&emsp;&emsp;Any land or interest in land adjacent to the Outstanding Natural Area acquired by the United States after May 8, 2008, under subparagraph (A) shall be added to, and administered as part of, the Outstanding Natural Area.
 
 #### (6) Law enforcement activities
 

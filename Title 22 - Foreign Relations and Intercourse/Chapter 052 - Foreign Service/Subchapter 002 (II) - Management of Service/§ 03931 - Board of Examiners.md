@@ -26,5 +26,5 @@ Any vacancy or vacancies on the Board shall not impair the right of the remainin
 
 #### Establishment of Board of Examiners
 
-For establishment of the Board of Examiners for the Foreign Service and appointment of its members, see section 6 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13970, set out as note under section 3901 of this title.
+For establishment of the Board of Examiners for the Foreign Service and appointment of its members, seesection 6 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13970, set out as note under section 3901 of this title.
 

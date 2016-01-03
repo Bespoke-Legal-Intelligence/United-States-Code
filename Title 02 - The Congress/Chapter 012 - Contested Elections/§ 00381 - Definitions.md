@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 &emsp;(1) The term "election" means an official general or special election to choose a Representative in, or Delegate or Resident Commissioner to, the Congress, but that term does not include a primary election, or a caucus or convention of a political party.
 
-&emsp;(2) The term "candidate" means an individual (A) whose name is printed on the official ballot for election to the office of Representative in, or Delegate or Resident Commissioner to, the Congress, or (B) notwithstanding his name is not printed on such ballot, who seeks election to the office of Representative in, or Delegate or Resident Commissioner to, the Congress by write-in votes, provided that he is qualified for such office and that, under the law of the State in which the congressional district is located, write-in voting for such office is permitted and he is eligible to receive write-in votes in such election.
+&emsp;(2) The term "candidate" means an individual (A) whose name is printed on the official ballot for election to the office of Representative in, or Delegate or Resident Commissioner to, the Congress, or (B) notwithstanding his name is not printed on such ballot, who seeks election to the office of Representative in, orDelegate or Resident Commissioner to, the Congress by write-in votes, provided that he is qualified for such office and that, under the law of the State in which the congressional district is located, write-in voting for such office is permitted and he is eligible to receive write-in votes in such election.
 
 &emsp;(3) The term "contestant" means an individual who contests the election of a Member of the House of Representatives under this chapter.
 

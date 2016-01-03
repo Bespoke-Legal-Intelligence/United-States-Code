@@ -8,7 +8,7 @@ Requirement for Program.—The Secretary of Defense shall carry out a program to
 
 Financial Assistance.—(1) Under the program under this section, the Secretary of Defense may award a scholarship or fellowship in accordance with this section to a person who—
 
-&emsp;(A) is a citizen of the United States;
+&emsp;(A) is a citizen of the United States or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995;
 
 &emsp;(B) is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
 
@@ -74,15 +74,31 @@ Relationship to Other Programs.—The Secretary of Defense shall coordinate the 
 
 (g)
 
+Limitation on Participation.—(1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
+
+(2) An individual described in this paragraph is an individual who—
+
+&emsp;(A) has not previously been awarded a scholarship or fellowship under the program under this section;
+
+&emsp;(B) is not a citizen of the United States; and
+
+&emsp;(C) is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995.
+
+(h)
+
 Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327; Pub. L. 114–92, div. A, title II, §212, Nov. 25, 2015, 129 Stat. 767.)
 
 #### Codification
 
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–92, §212(1), inserted "or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995" after "United States".
+
+Subsecs. (g), (h). Pub. L. 114–92, §212(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2)."
 
@@ -94,7 +110,7 @@ Subsec. (d). Pub. L. 111–84, §1102(a), amended subsec. (d) generally. Prior t
 
 Subsec. (f). Pub. L. 111–84, §1102(c), struck out "The program under this section is in addition to the authorities provided in chapter 111 of this title." before "The Secretary" and substituted "the other authorities provided in this chapter" for "the authorities provided in such chapter".
 
-Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis."
+Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving thenational defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis."
 
 <b>2008</b>—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted "title 11" for "title 11, United States Code,".
 

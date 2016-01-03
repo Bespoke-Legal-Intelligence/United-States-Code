@@ -118,7 +118,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary concerned determines that the fire has required an emergency Federal response based on the significant complexity, severity, or threat posed by the fire to human life, property, or resources; or
 
-&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (including amounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
+&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (includingamounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
 
 #### (3) State, private, and tribal land
 
@@ -126,7 +126,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 #### (f) Treatment of anticipated and predicted activities
 
-For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall requestfunds within the Wildland Fire Management appropriation account of that Secretary for regular wildfire suppression activities that do not meet the criteria specified in subsection (e)(2)(B)(i).
+For fiscal year 2011 and subsequent fiscal years, the Secretary concerned shall request funds within the Wildland Fire Management appropriation account of that Secretary for regular wildfire suppression activities that do not meet the criteria specified in subsection (e)(2)(B)(i).
 
 #### (g) Prohibition on other transfers
 

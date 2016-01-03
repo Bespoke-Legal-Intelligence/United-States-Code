@@ -46,7 +46,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 #### Application of Increase
 
-Pub. L. 107–314, div. A, title VI, §615(i), Dec. 2, 2002, 116 Stat. 2569, provided that: "In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and section 2130a of Title 10, Armed Forces\] to increase the maximum amount of a special pay or bonus that may be paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002."
+Pub. L. 107–314, div. A, title VI, §615(i), Dec. 2, 2002, 116 Stat. 2569, provided that: "In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and section 2130a of Title 10, Armed Forces\] to increase the maximum amount of a special pay or bonus that maybe paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002."
 
 #### Eligibility of Flag and General Officers for Multiyear Retention Bonus for Medical Officers
 
@@ -76,7 +76,7 @@ Pub. L. 102–172, title VIII, §8084, Nov. 26, 1991, 105 Stat. 1192, provided t
 
 Pub. L. 101–510, div. A, title VI, §611(b), Nov. 5, 1990, 104 Stat. 1576, provided that:
 
-"(1) Subject to the approval of the Secretary of the military department concerned, a medical officer whois eligible to enter into a retention bonus agreement under section 301d of title 37, United States Code (as added by subsection (a)) may terminate any existing retention bonus agreement entered into by that officer under \[section\] 612 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (37 U.S.C. 302 note), in order to enter into an agreement under section 301d of such title containing an active-duty service obligation that is not less than the active-duty service obligation remaining under the existing agreement on the date of its termination.
+"(1) Subject to the approval of the Secretary of the military department concerned, a medical officer who is eligible to enter into a retention bonus agreement under section 301d of title 37, United States Code (as added by subsection (a)) may terminate any existing retention bonus agreement entered into by that officer under \[section\] 612 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (37 U.S.C. 302 note), in order to enter into an agreement under section 301d of such title containing an active-duty service obligation that is not less than the active-duty service obligation remaining under the existing agreement on the date of its termination.
 
 "(2) Subsection (e) of section 612 of the National Defense Authorization Act, Fiscal Year 1989 (37 U.S.C. 302 note), shall not apply to the termination, pursuant to paragraph (1), of a retention bonus agreement under that section."
 

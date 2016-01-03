@@ -44,7 +44,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 #### Federal and State Cooperative Watershed Restoration and Protection
 
-Pub. L. 106–291, title III, §331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, §336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, §422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, §417, Jan. 17, 2014, 128 Stat. 341, provided that:
+Pub. L. 106–291, title III, §331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, §336,Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, §422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, §417, Jan. 17, 2014, 128 Stat. 341, provided that:
 
 "(a)
 

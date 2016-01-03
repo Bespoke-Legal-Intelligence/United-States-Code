@@ -6,7 +6,7 @@ Abraham Lincoln Birthplace National Historical Park shall be under the control o
 
 #### Codification
 
-As originally enacted, this section read as follows: "Upon the passage of this Act and the vesting of the title to the property accepted thereunder in the United States, it shall be under the control of the Secretary ofWar and administered under such regulations not inconsistent with law as he may from time to time prescribe." Sections 211 and 212 of this title, refer to the lands as a national park or reservation.
+As originally enacted, this section read as follows: "Upon the passage of this Act and the vesting of the title to the property accepted thereunder in the United States, it shall be under the control of the Secretary of War and administered under such regulations not inconsistent with law as he may from time to time prescribe." Sections 211 and 212 of this title, refer to the lands as a national park or reservation.
 
 Prefixes making the provisions of this section effective, upon the passage of this Act and the vesting of the title to the property accepted, have been omitted as temporary.
 

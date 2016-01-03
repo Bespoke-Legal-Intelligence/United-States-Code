@@ -20,7 +20,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;&emsp;(C) grants for such jobs be made in accordance with the provisions of section 2753(b)(1) of title 42;
 
-&emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobs on the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall becharged a fee that is payable to an entity other than such State;
+&emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobs on the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State;
 
 &emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any State in which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutions of higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 

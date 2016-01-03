@@ -14,7 +14,7 @@
 
 &emsp;(5) planning, supervision, administration, and overhead incident to the project.
 
-(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President suchrecommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
+(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
 (d)(1) The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payment-in-kind contributions pursuant to a bilateral agreement with a host country.
 
@@ -154,7 +154,7 @@ Compensation.—While performing duties on behalf of the panel, a member and any
 
 &emsp;"(3)
 
-Meetings.—The panel shall meet not less than quarterly. The panel or its members may make other visits to military treatment centers and military headquarters in connection with the duties of the panel.
+Meetings.—The panel shall meet not less than quarterly. The panel or its members may make othervisits to military treatment centers and military headquarters in connection with the duties of the panel.
 
 &emsp;"(4)
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) assess existing data sources, including alternatives to the decennial census, for use in evaluating the factors for determination of need described in subsection (b); and
 
-&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of those factors, including formula area, in any case in which existing data is determinedto be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
+&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of those factors, including formula area, in any case in which existing data is determined to be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
 
 #### (B) Authorization of appropriations
 
@@ -56,7 +56,7 @@ In establishing the formula, the Secretary shall consider—
 
 &emsp;(1) the relative administrative capacities and other challenges faced by the recipient, including, but not limited to geographic distribution within the Indian area and technical capacity; and
 
-&emsp;(2) the extent to which terminations of assistance under subchapter V of this chapter will affect funding available to State recognized tribes.
+&emsp;(2) the extent to which terminations of assistance under subchapter V will affect funding available to State recognized tribes.
 
 #### (d) Funding for public housing operation and modernization
 
@@ -72,7 +72,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (2) Partial funding
 
-&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall notbe less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
+&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
 
 #### (e) Effective date
 
@@ -86,7 +86,7 @@ This chapter, referred to in subsecs. (a) and (d), was in the original "this Act
 
 The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (c)(2), was in the original "title V", meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
+Subchapter V, referred to in subsec. (c)(2), was in the original "title V", meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
 
 #### Amendments
 

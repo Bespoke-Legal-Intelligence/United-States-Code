@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–384 struck out provisions authorizing transfer and consolidation of not to exceed $9,000,000 of the funds appropriated under section 2242 of this title with the funds appropriated under section 2397(a) of this title to be available solely for additional administrative expenses incurred in connection with programs in Vietnam.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part II of subchapter II of this chapter from the designation of funds subject to consolidation.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559, §19(a)(1), inserted provisions excepting funds made available under part IIof subchapter II of this chapter from the designation of funds subject to consolidation.
 
 Subsec. (c). Pub. L. 93–559, §19(a)(2), added subsec. (c).
 
@@ -44,5 +44,5 @@ Pub. L. 101–623, §10(b), Nov. 21, 1990, 104 Stat. 3356, provided that: "The a
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -18,7 +18,7 @@ Funding.—
 
 &emsp;&emsp;(A)
 
-In general.—From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section.
+In general.—From administrative funds made available under section 104(a), the Secretary may deduct such sums as are necessary, not to exceed $4,000,000 for each of fiscal years 2016 through 2020, to carry out this section.
 
 &emsp;&emsp;(B)
 
@@ -64,11 +64,11 @@ Period of availability.—Funds authorized to carry out this section shall remai
 
 &emsp;(8)
 
-Use of surface transportation program funding.—In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
+Use of surface transportation block grant program funding.—In addition to funds made available to carry out this section, a State may expend up to ¼ of 1 percent of the funds apportioned to the State for a fiscal year under section 104(b)(2) on initiatives to halt the evasion of payment of motor fuel taxes.
 
 &emsp;(9)
 
-Reports.—The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
+Reports.—The Commissioner of the Internal Revenue Service and each State shall submit to the Secretary, the Committee on Transportation and Infrastructure of theHouse of Representatives, and the Committee on Environment and Public Works of the Senate an annual report that describes the projects, examinations, and criminal investigations funded by and carried out under this section. Such report shall specify the estimated annual yield from such projects, examinations, and criminal investigations.
 
 (c)
 
@@ -106,7 +106,7 @@ Funding.—Of the amounts made available to carry out this section for each fisc
 
 Reports.—Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
 
-(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I, §122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176; Pub. L. 112–141, div. A, title I, §1110, July 6, 2012, 126 Stat. 444.)
+(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I, §122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176; Pub. L. 112–141, div. A, title I, §1110, July 6, 2012, 126 Stat. 444; Pub. L. 114–94, div. A, title I, §1110, Dec. 4, 2015, 129 Stat. 1344.)
 
 #### References in Text
 
@@ -121,6 +121,12 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 Provisions similar to those in this section were contained in Pub. L. 102–240, title I, §1040, Dec. 18, 1991, 105 Stat. 1992, as amended, which was set out as a note under section 101 of this title, prior to repeal by Pub. L. 105–178, §1114(b)(2).
 
 #### Amendments
+
+<b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–94, §1110(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "From administrative funds made available under section 104(a), the Secretary shall deduct such sums as are necessary, not to exceed $10,000,000 for each of fiscal years 2013 and 2014, to carry out this section."
+
+Subsec. (b)(8). Pub. L. 114–94, §1110(2), inserted "block grant" after "surface transportation" in heading.
+
+Subsec. (b)(9). Pub. L. 114–94, §1110(3), inserted ", the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate" after "the Secretary".
 
 <b>2012</b>—Subsec. (b)(2). Pub. L. 112–141, §1110(1)(A), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary; except that of funds so made available for each of fiscal years 2005 through 2009, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training."
 
@@ -154,6 +160,10 @@ Subsec. (d). Pub. L. 93–87, §122(a), substituted "highways on the Federal-aid
 
 Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text "Except as otherwise provided in subsection (c) of this section," and substituted "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located" for "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project".
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -168,7 +178,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 "(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportationshall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 "\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]"
 

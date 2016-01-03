@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the 90-day period beginning on the day the plan is submitted.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), a portion of the combined State plan covering the core programs or a program or activity described in subsection (a)(2) shall be considered to be approved by the appropriate Secretary at the end of the90-day period beginning on the day the plan is submitted.
 
 #### (B) Plan approved by 3 or more appropriate Secretaries
 
@@ -102,5 +102,5 @@ The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is sub
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

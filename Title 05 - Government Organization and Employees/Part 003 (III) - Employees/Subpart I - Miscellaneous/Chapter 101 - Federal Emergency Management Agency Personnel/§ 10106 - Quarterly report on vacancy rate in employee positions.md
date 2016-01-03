@@ -24,7 +24,7 @@ Contents.—The report under this subsection shall include—
 
 (b)
 
-Quarterly Updates.—Not later than 3 months after submission of the initial report, and every 3 months thereafter until 5 years after the date of enactment of this chapter, the Administrator shall submit to the appropriate committees of Congress an update of the report under subsection (a), including an assessment by the Administrator of the progress of the Agency in filling vacant employee positions of the Agency.
+Quarterly Updates.—Not later than 3 months after submission of the initial report,and every 3 months thereafter until 5 years after the date of enactment of this chapter, the Administrator shall submit to the appropriate committees of Congress an update of the report under subsection (a), including an assessment by the Administrator of the progress of the Agency in filling vacant employee positions of the Agency.
 
 (Added Pub. L. 109–295, title VI, §621(a), Oct. 4, 2006, 120 Stat. 1416.)
 

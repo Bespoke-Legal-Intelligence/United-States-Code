@@ -56,7 +56,7 @@ In exercising its powers, functions and duties under this chapter—
 
 #### (f) Appropriations
 
-To enable the Council to exercise its powers, functions, and duties under this chapter, thereare authorized to be appropriated such sums as may be necessary.
+To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
 
 (Feb. 20, 1946, ch. 33, §10, formerly §4, 60 Stat. 24; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 87–49, June 16, 1961, 75 Stat. 93; renumbered §10 and amended Pub. L. 95–523, title I, §§104, 110, Oct. 27, 1978, 92 Stat. 1893, 1899; Pub. L. 112–166, §2(o), Aug. 10, 2012, 126 Stat. 1287.)
 
@@ -74,7 +74,7 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, textread as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted "full" after "policy to promote".
 
@@ -118,7 +118,7 @@ Ex. Ord. No. 10802, Jan. 23, 1959, 24 F.R. 557, which established the Committee 
 
 #### Executive Order No. 11453
 
-Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy,was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
+Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy, was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under section 887d of Title 20, Education.
 
 #### Executive Order No. 12296
 

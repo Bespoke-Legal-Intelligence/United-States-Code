@@ -14,13 +14,13 @@ The Attorney General shall award grants under this section on a competitive basi
 
 #### (d) Guidelines
 
-The Attorney General shall issue guidelines establishing application, use, and award criteria and processes consistent with the purposes and requirements of this Act.
+The Attorney General shall issue guidelines establishing application, use, and award criteriaand processes consistent with the purposes and requirements of this Act.
 
 (Pub. L. 90–351, title I, §1801A, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861.)
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, seeShort Title note set out under section 3711 of this title and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, known as the Omnibus Crime Control and Safe Streets Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 

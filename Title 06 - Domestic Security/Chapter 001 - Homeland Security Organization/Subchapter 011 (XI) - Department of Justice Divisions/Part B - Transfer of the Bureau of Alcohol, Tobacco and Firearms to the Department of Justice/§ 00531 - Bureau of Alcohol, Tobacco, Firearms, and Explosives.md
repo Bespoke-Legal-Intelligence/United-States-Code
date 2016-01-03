@@ -24,7 +24,7 @@
 
 #### (3) Responsibilities
 
-&emsp;The authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco andFirearms that are not transferred to the Department of Justice under this section shall be retained and administered by the Tax and Trade Bureau.
+&emsp;The authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms that are not transferred to the Department of Justice under this section shall be retained and administered by the Tax and Trade Bureau.
 
 (Pub. L. 107–296, title XI, §1111, Nov. 25, 2002, 116 Stat. 2274; Pub. L. 109–162, title XI, §1187(b), Jan. 5, 2006, 119 Stat. 3127.)
 

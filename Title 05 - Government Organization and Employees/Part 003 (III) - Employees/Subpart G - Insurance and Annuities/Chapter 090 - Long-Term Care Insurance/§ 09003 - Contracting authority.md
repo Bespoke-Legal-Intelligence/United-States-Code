@@ -78,7 +78,7 @@ Shorter duration.—In the case of a master contract entered into before the end
 
 &emsp;&emsp;(B)
 
-Definition.—The period described in this subparagraph is the 7-year period beginning on the earliest date as of which anylong-term care insurance coverage under this chapter becomes effective.
+Definition.—The period described in this subparagraph is the 7-year period beginning on the earliest date as of which any long-term care insurance coverage under this chapter becomes effective.
 
 &emsp;(3)
 

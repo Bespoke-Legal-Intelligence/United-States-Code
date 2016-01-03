@@ -14,7 +14,7 @@ In no case shall credit for the service described in subsection (a) of this sect
 
 #### (d) Reimbursement from Operations, Research, and Facilities Account of National Oceanic and Atmospheric Administration in Department of Commerce
 
-Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement tosuch fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
+Notwithstanding any other provisions of this chapter or any other law, benefits under subchapter III of chapter 83 of title 5 made available by reason of the provisions of this section shall be paid from the civil service retirement and disability fund subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Director of the Office of Personnel Management during each fiscal year, of benefits provided by this section.
 
 (Pub. L. 89–702, title II, §208, Nov. 2, 1966, 80 Stat. 1096; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 842.)
 
@@ -30,5 +30,5 @@ Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than th
 
 #### Transfer of Functions
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1,1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

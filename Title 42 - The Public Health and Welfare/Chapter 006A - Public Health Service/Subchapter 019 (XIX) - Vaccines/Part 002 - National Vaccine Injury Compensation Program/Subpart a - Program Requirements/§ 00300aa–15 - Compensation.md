@@ -20,13 +20,13 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;&emsp;(ii) were incurred by or on behalf of the person who suffered such injury, and
 
-&emsp;&emsp;(iii) were for diagnosis, medical or other remedial care, rehabilitation, developmental evaluation, special education, vocational training and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
+&emsp;&emsp;(iii) were for diagnosis, medical or other remedial care, rehabilitation, developmental evaluation, special education, vocationaltraining and placement, case management services, counseling, emotional or behavioral therapy, residential and custodial care and service expenses, special equipment, related travel expenses, and facilities determined to be reasonably necessary.
 
 &emsp;(2) In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased.
 
 &emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
 
-&emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity isor has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
+&emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
 
 &emsp;(4) For actual and projected pain and suffering and emotional distress from the vaccine-related injury, an award not to exceed $250,000.
 
@@ -132,7 +132,7 @@ Subsec. (j). Pub. L. 102–531 increased authorization for fiscal year 1993 from
 
 <b>1991</b>—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out "of the proceeds" after "portion" and substituted "Vaccine Injury Compensation Trust Fund established under section 9510 of title 26" for "trust fund".
 
-Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of "shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion" for "paidin 4 equal installments of which all or portion of the proceeds" was executed by making the substitution for "paid in 4 equal annual installments of which all or a portion of the proceeds" to reflect the probable intent of Congress.
+Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of "shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion" for "paid in 4 equal installments of which all or portion of the proceeds" was executed by making the substitution for "paid in 4 equal annual installments of which all or a portion of the proceeds" to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(C). Pub. L. 102–168, §201(f), added subpar. (C).
 
@@ -180,7 +180,7 @@ Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as 
 
 Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: "The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title."
 
-Subsec. (b). Pub. L. 100–203, §4303(e), substituted "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and other costs under subsection (e) of this section may not exceed $30,000" for "shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section".
+Subsec. (b). Pub. L. 100–203, §4303(e), substituted "may not include the compensation described in paragraph (1)(B) of subsection (a) of this section and may include attorneys' fees and other costs included in a judgment under subsection (e) of this section, except that the total amount that may be paid as compensation under paragraphs (3) and (4) of subsection (a) of this section and included as attorneys' fees and othercosts under subsection (e) of this section may not exceed $30,000" for "shall only include the compensation described in paragraphs (1)(A) and (2) of subsection (a) of this section".
 
 Pub. L. 100–203, §4302(b)(1), substituted "effective date of this subpart" for "effective date of this part".
 
@@ -192,7 +192,7 @@ Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesig
 
 Subsec. (f)(2). Pub. L. 100–203, §4307(6), substituted "United States Claims Court" for "district court of the United States".
 
-Subsecs. (g), (h). Pub. L. 100–203, §4303(g), redesignated a second subsec. (f), relating to the Program notbeing liable, as (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 100–203, §4303(g), redesignated a second subsec. (f), relating to the Program not being liable, as (g) and redesignated former subsec. (g) as (h).
 
 Subsecs. (i), (j). Pub. L. 100–203, §4303(a), (b), added subsecs. (i) and (j).
 

@@ -6,7 +6,7 @@ If any proposed rule by the Administrator contains any commercial standards, or 
 
 &emsp;(1) identify, by name, the organization which promulgated such standards; and
 
-&emsp;(2) state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) of this section in the promulgation of such standards.
+&emsp;(2) state whether or not, in the judgment of the Administrator, such organization complied with the requirements of subsection (b) in the promulgation of such standards.
 
 #### (b) Promulgation of commercial standards
 

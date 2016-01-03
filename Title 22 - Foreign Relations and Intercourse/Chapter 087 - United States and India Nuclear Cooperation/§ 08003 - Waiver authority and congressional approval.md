@@ -148,7 +148,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;&emsp;&emsp;(II) the nuclear technology identified for transfer will be used only for peaceful safeguarded nuclear activities and will not be used for any military or nuclear explosive purpose; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the UnitedStates, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
+&emsp;&emsp;&emsp;&emsp;(III) the nuclear technology identified for transfer will not be retransferred without the prior consent of the United States, and facilities, equipment, or materials derived through the use of transferred technology will not be transferred without the prior consent of the United States.
 
 &emsp;&emsp;&emsp;(iii) In the event the IAEA is unable to implement safeguards as required by an agreement for cooperation arranged pursuant to section 2153 of title 42, appropriate assurance that arrangements will be put in place expeditiously that are consistent with the requirements of section 2153(a)(1) of title 42 regarding the maintenance of safeguards as set forth in the agreement regardless of whether the agreement is terminated or suspended for any reason.
 
@@ -224,7 +224,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) is not consistent with applicable guidelines or decisions of the NSG; or
 
-&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material,equipment, or technology of United States origin;
+&emsp;&emsp;&emsp;(ii) would not meet the standards applied to exports or reexports of such material, equipment, or technology of United States origin;
 
 &emsp;&emsp;(D) either—
 
@@ -278,7 +278,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(II) nuclear explosive devices;
 
-&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that can be attributed to India's declared civil reactors;
+&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that canbe attributed to India's declared civil reactors;
 
 &emsp;&emsp;(J) an analysis as to whether imported uranium has affected the rate of production in India of nuclear explosive devices;
 
@@ -298,7 +298,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;(i) a listing of—
 
-&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated bythe United States or India under Article 1(Q); and
+&emsp;&emsp;&emsp;&emsp;(I) all provision of sensitive nuclear technology to India, and other such information as may be so designated by the United States or India under Article 1(Q); and
 
 &emsp;&emsp;&emsp;&emsp;(II) all facilities in India notified pursuant to Article 7(1) of the Agreement;
 

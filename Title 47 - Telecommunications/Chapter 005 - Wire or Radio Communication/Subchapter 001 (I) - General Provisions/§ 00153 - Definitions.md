@@ -24,7 +24,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (4) AT\&T Consent Decree
 
-&emsp;The term "AT\&T Consent Decree" means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the District of Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
+&emsp;The term "AT\&T Consent Decree" means the order entered August 24, 1982, in the antitrust action styled United States v. Western Electric, Civil Action No. 82–0192, in the United States District Court for the Districtof Columbia, and includes any judgment or order with respect to such action entered on or after August 24, 1982.
 
 #### (5) Bell operating company
 
@@ -102,11 +102,11 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (22) Great Lakes Agreement
 
-&emsp;The term "Great Lakes Agreement" means the Agreement for the Promotion of Safety on the Great Lakes by Means of Radio in force and the regulations referred to therein.
+&emsp;The term "Great Lakes Agreement" means the Agreement for the Promotion of Safety onthe Great Lakes by Means of Radio in force and the regulations referred to therein.
 
 #### (23) Harbor
 
-&emsp;The term "harbor" or "port" means any place to which ships may resort for shelter orto load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
+&emsp;The term "harbor" or "port" means any place to which ships may resort for shelter or to load or unload passengers or goods, or to obtain fuel, water, or supplies. This term shall apply to such places whether proclaimed public or not and whether natural or artificial.
 
 #### (24) Information service
 
@@ -166,7 +166,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) means a service that—
 
-&emsp;&emsp;&emsp;(i) enables real-time voice communications that originate from or terminate to the user's location using Internet protocol or any successor protocol; and
+&emsp;&emsp;&emsp;(i) enables real-time voice communications that originate from or terminate tothe user's location using Internet protocol or any successor protocol; and
 
 &emsp;&emsp;&emsp;(ii) requires Internet protocol compatible customer premises equipment; and
 
@@ -232,7 +232,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;(C) A cargo ship means any ship not a passenger ship.
 
-&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officers and crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason ofany circumstance over which neither the master, the owner, nor the charterer (if any) has control.
+&emsp;(D) A passenger is any person carried on board a ship or vessel except (1) the officersand crew actually employed to man and operate the ship, (2) persons employed to carry on the business of the ship, and (3) persons on board a ship when they are carried, either because of the obligation laid upon the master to carry shipwrecked, distressed, or other persons in like or similar situations or by reason of any circumstance over which neither the master, the owner, nor the charterer (if any) has control.
 
 &emsp;(E) "Nuclear ship" means a ship provided with a nuclear powerplant.
 
@@ -380,7 +380,7 @@ Section 19 of act July 16, 1952, provided that: "This Act \[enacting section 134
 
 &emsp;"(1) Insofar as the amendments made by this Act to the Communications Act of 1934 \[this chapter\] provide for procedural changes, requirements imposed by such changes shall not be mandatory as to any agency proceeding (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] with respect to which hearings have been commenced prior to the date of enactment of this Act \[July 16, 1952\].
 
-&emsp;"(2) The amendments made by this Act to section 402 of the Communications Act of 1934 \[section 402 of this title\] (relating to judicial review of orders and decisions of the Commission) shall not apply with respect to any action or appeal which is pending before any court on the date of enactment of this Act \[July 16, 1952\]."
+&emsp;"(2) The amendments made by this Act to section 402 of the Communications Act of 1934 \[section 402 of this title\] (relating to judicial review of orders and decisions of the Commission) shall not apply with respect to any action or appeal which is pending beforeany court on the date of enactment of this Act \[July 16, 1952\]."
 
 #### Limitation on Liability
 

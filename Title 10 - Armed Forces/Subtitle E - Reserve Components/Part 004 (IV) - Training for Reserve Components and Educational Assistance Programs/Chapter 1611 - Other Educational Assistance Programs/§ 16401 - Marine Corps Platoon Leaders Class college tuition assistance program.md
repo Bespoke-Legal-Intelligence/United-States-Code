@@ -68,7 +68,7 @@ Failure To Complete Program.—(1) An enlisted member who receives financial ass
 
 Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L.106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111; Pub. L. 109–163, div. A, title VI, §687(c)(15), Jan. 6, 2006, 119 Stat. 3336.)
+(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111; Pub. L. 109–163, div. A, title VI, §687(c)(15), Jan. 6, 2006, 119 Stat. 3336.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 &emsp;(A) The Attorney General shall review and evaluate removal proceedings conducted under this section.
 
-&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report tosuch Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
+&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report to such Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
 
 #### (b) Removal of aliens who are not permanent residents
 
@@ -158,7 +158,7 @@ Pub. L. 104–132, §442(a)(2), substituted "14 calendar days" for "30 calendar 
 
 Subsec. (b)(4)(B). Pub. L. 104–132, §442(a)(3), substituted "proceedings" for "proccedings".
 
-Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally,and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
+Subsec. (b)(4)(D). Pub. L. 104–208, §304(c)(1)(A), (B), redesignated subpar. (E) as (D) and amended it generally, and struck out former subpar. (D). Prior to amendments, subpars. (D) and (E) read as follows:
 
 "(D) such proceedings are conducted in, or translated for the alien into, a language the alien understands;
 
@@ -264,7 +264,7 @@ Pub. L. 104–208, div. C, title III, §304(c)(2), Sept. 30, 1996, 110 Stat. 300
 
 Amendment by section 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Pub. L. 104–208, div. C, title III, §306(d), Sept. 30, 1996, 110 Stat. 3009–612, provided that the amendment made by section 306(d) is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
+Pub. L. 104–208, div. C, title III, §306(d), Sept. 30, 1996, 110 Stat. 3009–612, provided that the amendment madeby section 306(d) is effective as if included in the enactment of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132.
 
 Pub. L. 104–208, div. C, title III, §374(c), Sept. 30, 1996, 110 Stat. 3009–648, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall be effective as if included in the enactment of section 224(a) of the Immigration and Nationality Technical Corrections Act of 1994 \[Pub. L. 103–416\]."
 

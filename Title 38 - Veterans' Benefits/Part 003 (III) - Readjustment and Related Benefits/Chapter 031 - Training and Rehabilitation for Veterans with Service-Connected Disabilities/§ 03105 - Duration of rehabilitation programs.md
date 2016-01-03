@@ -8,7 +8,7 @@
 
 (c) The Secretary may extend the period of a vocational rehabilitation program for a veteran to the extent that the Secretary determines that an extension of such period is necessary to enable such veteran to achieve a vocational goal if the Secretary also determines—
 
-&emsp;(1) that such veteran had previously been rehabilitated to the point of employability but (A) such veteran's need for further vocational rehabilitation has arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran had been so rehabilitated, or (B) the occupation for which such veteran had been so rehabilitated is not suitable in view of suchveteran's current employment handicap and capabilities; or
+&emsp;(1) that such veteran had previously been rehabilitated to the point of employability but (A) such veteran's need for further vocational rehabilitation has arisen out of a worsening of such veteran's service-connected disability that precludes such veteran from performing the duties of the occupation for which such veteran had been so rehabilitated, or (B) the occupation for which such veteran had been so rehabilitated is not suitable in view of such veteran's current employment handicap and capabilities; or
 
 &emsp;(2) under regulations which the Secretary shall prescribe, that such veteran has a serious employment handicap and that an extension of such period is necessary to accomplish the purposes of a rehabilitation program for such veteran.
 

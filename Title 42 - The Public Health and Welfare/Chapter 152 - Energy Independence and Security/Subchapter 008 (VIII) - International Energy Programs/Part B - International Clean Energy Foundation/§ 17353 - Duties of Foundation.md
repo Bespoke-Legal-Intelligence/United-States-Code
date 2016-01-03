@@ -6,7 +6,7 @@ The Foundation shall—
 
 &emsp;(2) seek contributions from foreign governments, especially those rich in energy resources such as member countries of the Organization of the Petroleum Exporting Countries, and private organizations to supplement funds made available under this part;
 
-&emsp;(3) harness global expertise through collaborative partnerships with foreign governments and domestic and foreign private actors, including nongovernmental organizations and private sector companies, by leveraging public and private capital, technology, expertise, andservices towards innovative models that can be instituted to reduce global greenhouse gas emissions;
+&emsp;(3) harness global expertise through collaborative partnerships with foreign governments and domestic and foreign private actors, including nongovernmental organizations and private sector companies, by leveraging public and private capital, technology, expertise, and services towards innovative models that can be instituted to reduce global greenhouse gas emissions;
 
 &emsp;(4) create a repository of information on best practices and lessons learned on the utilization and implementation of clean and efficient energy technologies and processes to be used for future initiatives to tackle the climate change crisis;
 

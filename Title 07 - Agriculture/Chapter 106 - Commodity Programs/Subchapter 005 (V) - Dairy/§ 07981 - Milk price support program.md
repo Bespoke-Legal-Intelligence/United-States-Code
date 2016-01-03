@@ -2,7 +2,7 @@
 
 #### (a) Support activities
 
-During the period beginning on June 1, 2002, and ending on December 31, 2007, the Secretary of Agriculture shall support the price of milk produced in the 48 contiguous States through the purchase of cheese, butter, and nonfat dry milk produced from the milk.
+During the period beginning on June 1, 2002, and ending on December 31, 2007, the Secretary of Agriculture shall support the price of milk produced in the 48 contiguous States throughthe purchase of cheese, butter, and nonfat dry milk produced from the milk.
 
 #### (b) Rate
 
@@ -12,7 +12,7 @@ During the period specified in subsection (a), the price of milk shall be suppor
 
 #### (1) Uniform prices
 
-&emsp;The support purchase prices under this section for each of the products of milk (butter,cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
+&emsp;The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary.
 
 #### (2) Sufficient prices
 

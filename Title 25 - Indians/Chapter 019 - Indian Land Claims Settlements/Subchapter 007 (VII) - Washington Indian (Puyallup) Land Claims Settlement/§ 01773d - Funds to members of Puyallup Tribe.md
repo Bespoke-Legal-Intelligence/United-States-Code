@@ -4,7 +4,7 @@
 
 (1) To the extent provided in advance in appropriation Acts or to the extent funds are provided by other parties to the Settlement Agreement, the Secretary shall place with a financial institution the amount of $24,000,000 in an annuity fund or other investment program (hereafter in this subsection referred to as the "fund"). The selection of the institution or institutions where the funds will be held and the administration of the funds shall be in accordance with section II of the Settlement Agreement and documents 2 and 3 of the Technical Documents. Amounts earned pursuant to any investment of the fund shall be added to, and become part of, the fund.
 
-(2) Upon attaining the age of 21 years, each enrolled member of the Tribe (determined by the Tribe pursuant to its constitution to have been a member as of the date of ratification of the Settlement Agreement by the Tribe) shall receive a one-time payment from the fund. The amount of such payment shall be determined inaccordance with section II of the Settlement Agreement and document 2 of the Technical Documents.
+(2) Upon attaining the age of 21 years, each enrolled member of the Tribe (determined by the Tribe pursuant to its constitution to have been a member as of the date of ratification of the Settlement Agreement by the Tribe) shall receive a one-time payment from the fund. The amount of such payment shall be determined in accordance with section II of the Settlement Agreement and document 2 of the Technical Documents.
 
 (3) A reasonable and customary fee for the administration of the fund may be paid out of the income earned by the fund to the financial institution with which the fund is established.
 

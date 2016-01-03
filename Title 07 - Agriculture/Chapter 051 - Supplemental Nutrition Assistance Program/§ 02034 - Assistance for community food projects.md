@@ -126,7 +126,7 @@ In selecting community food projects to receive assistance under subsection (b),
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may provide for the sharing of information concerning community foodprojects and issues among and between government, private for-profit and nonprofit groups, and the public through publications, conferences, and other appropriate forums.
+&emsp;&emsp;The Secretary may provide for the sharing of information concerning community food projects and issues among and between government, private for-profit and nonprofit groups, and the public through publications, conferences, and other appropriate forums.
 
 #### (B) Other interested parties
 

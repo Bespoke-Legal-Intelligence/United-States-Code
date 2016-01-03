@@ -4,7 +4,7 @@
 
 Resolutions Required Before Appropriations May Be Made.—The following appropriations may be made only if the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives adopt resolutions approving the purpose for which the appropriation is made:
 
-&emsp;(1) An appropriation to construct, alter, or acquire any building to be used as a public building which involves a total expenditure inexcess of $1,500,000, so that the equitable distribution of public buildings throughout the United States with due regard for the comparative urgency of need for the buildings, except as provided in section 3305(b) of this title, is ensured.
+&emsp;(1) An appropriation to construct, alter, or acquire any building to be used as a public building which involves a total expenditure in excess of $1,500,000, so that the equitable distribution of public buildings throughout the United States with due regard for the comparative urgency of need for the buildings, except as provided in section 3305(b) of this title, is ensured.
 
 &emsp;(2) An appropriation to lease any space at an average annual rental in excess of $1,500,000 for use for public purposes.
 
@@ -30,7 +30,7 @@ Transmission to Congress of Prospectus of Proposed Project.—To secure consider
 
 (c)
 
-Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
+Increase of Estimated Maximum Cost.—The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by theAdministrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
 
 (d)
 

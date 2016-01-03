@@ -2,7 +2,7 @@
 
 (a) Before convening a selection board under section 611(a) of this title to consider officers for promotion to any grade above first lieutenant or lieutenant (junior grade), the Secretary of the military department concerned shall establish a promotion zone for officers serving in each grade and competitive category to be considered by the board.
 
-(b) The Secretary concerned shall determine the number of officers in the promotion zone for officers serving in any grade and competitive category from among officers who are eligiblefor promotion in that grade and competitive category. Such determination shall be made on the basis of an estimate of—
+(b) The Secretary concerned shall determine the number of officers in the promotion zone for officers serving in any grade and competitive category from among officers who are eligible for promotion in that grade and competitive category. Such determination shall be made on the basis of an estimate of—
 
 &emsp;(1) the number of officers needed in that competitive category in the next higher grade in each of the next five years;
 

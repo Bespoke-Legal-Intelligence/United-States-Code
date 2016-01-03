@@ -152,7 +152,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased bymore than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 
@@ -216,7 +216,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (4) Adjusted gross income limitation
 
-&emsp;A person or legal entity that has an average adjusted gross income in excess of the average adjusted gross income limitation applicable under section 1308–3a(b)(1)(A) <sup>2</sup> of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
+&emsp;A person or legal entity that has an average adjusted gross income in excess of the averageadjusted gross income limitation applicable under section 1308–3a(b)(1)(A) <sup>2</sup> of this title, or a successor provision, shall not be eligible to receive noninsured crop disaster assistance under this section.
 
 #### (5) Regulations
 
@@ -232,7 +232,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) In general
 
-&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section,a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
+&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
 &emsp;&emsp;(A) $250 per crop per county; or
 
@@ -402,7 +402,7 @@ Subsec. (k). Pub. L. 106–224, §109(e), added subsec. (k).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -416,7 +416,7 @@ For losses under section 1501 of Public Law 113–79 \[enacting section 9081 of 
 
 Pub. L. 110–234, title I, §1603(f)(2), May 22, 2008, 122 Stat. 1011, and Pub. L. 110–246, §4(a), title I, §1603(f)(2), June 18, 2008, 122 Stat. 1664, 1739, provided that: "Section 196(i) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333(i)), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crops of any eligible crop."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Section as in effect on day before June 20, 2000, to continue to apply with respect to 1999 crop year, and to apply with respect to 2000 crop year, to extent application of an amendment by Pub. L. 106–224 is delayed under section 171(b) or by terms of the amendment, see section 173 of Pub. L. 106–224, set out as a note under section 1501 of this title.
 

@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met with respect to any church tax inquiry if, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
+&emsp;&emsp;The requirements of this paragraph are met with respect to any church tax inquiryif, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
 
 #### (B) Contents of inquiry notice
 

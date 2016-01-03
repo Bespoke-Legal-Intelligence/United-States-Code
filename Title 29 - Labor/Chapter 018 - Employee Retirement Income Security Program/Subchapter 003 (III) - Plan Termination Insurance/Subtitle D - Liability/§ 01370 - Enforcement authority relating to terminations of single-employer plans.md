@@ -14,7 +14,7 @@ A single-employer plan may be sued under this section as an entity. Service of s
 
 #### (c) Jurisdiction and venue
 
-The district courts of the United States shall have exclusive jurisdiction of civil actions under this section. Such actions may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found. The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
+The district courts of the United States shall have exclusive jurisdiction of civil actions under this section. Such actions may be brought in the district where the plan is administered, where the violation took place, or where a defendant resides or may be found, and process may be served in any other district where a defendantresides or may be found. The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
 
 #### (d) Right of corporation to intervene
 
@@ -62,7 +62,7 @@ A copy of the complaint or notice of appeal in any action under this section sha
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 

@@ -52,7 +52,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
@@ -118,7 +118,7 @@ Pub. L. 108–173, title I, §107(c), Dec. 8, 2003, 117 Stat. 2170, provided tha
 
 "(1)
 
-In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the 'IOM') to carry out a comprehensive study (in this subsection referred to as the 'study') of drug safetyand quality issues in order to provide a blueprint for system-wide change.
+In general.—The Secretary \[of Health and Human Services\] shall enter into a contract with the Institutes of Medicine of the National Academies of Science (such Institutes referred to in this subsection as the 'IOM') to carry out a comprehensive study (in this subsection referred to as the 'study') of drug safety and quality issues in order to provide a blueprint for system-wide change.
 
 "(2)
 

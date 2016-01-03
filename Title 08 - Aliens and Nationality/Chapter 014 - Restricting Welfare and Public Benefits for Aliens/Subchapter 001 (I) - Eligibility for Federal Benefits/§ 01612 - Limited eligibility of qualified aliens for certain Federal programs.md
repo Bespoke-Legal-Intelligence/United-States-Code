@@ -118,7 +118,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (J) Food stamp exception for certain children
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
 
 #### (K) Food stamp exception for certain Hmong and Highland Laotians
 
@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C.1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
 
@@ -170,7 +170,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required underthis subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
 
 #### (bb) Exception for children
 
@@ -220,13 +220,13 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien's entry into the United States.
 
 #### (ii) Other designated Federal programs
 
 &emsp;&emsp;&emsp;With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
 
-&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 ofthe Immigration and Nationality Act \[8 U.S.C. 1157\];
+&emsp;&emsp;&emsp;&emsp;(I) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
 
 &emsp;&emsp;&emsp;&emsp;(II) an alien is granted asylum under section 208 of such Act \[8 U.S.C. 1158\];
 
@@ -234,7 +234,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> of this section until 5 years after the date of such alien's entry into the United States.
+&emsp;&emsp;&emsp;&emsp;(V) an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien's entry into the United States.
 
 #### (B) Certain permanent resident aliens
 
@@ -260,11 +260,11 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (E) Medicaid exception for certain Indians
 
-&emsp;&emsp;With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), section 1611(a) of this title and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G) of this section.
+&emsp;&emsp;With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), section 1611(a) of this title and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G).
 
 #### (F) Medicaid exception for aliens receiving SSI
 
-&emsp;&emsp;An alien who is receiving benefits under the program defined in subsection (a)(3)(A) of this section (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
+&emsp;&emsp;An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
 #### (3) "Designated Federal program" defined
 

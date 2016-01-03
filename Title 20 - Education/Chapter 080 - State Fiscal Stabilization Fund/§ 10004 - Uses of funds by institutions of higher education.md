@@ -14,7 +14,7 @@ No funds awarded under this chapter may be used for—
 
 &emsp;(1) the maintenance of systems, equipment, or facilities;
 
-&emsp;(2) modernization, renovation, or repair of stadiums or other facilities primarily used forathletic contests or exhibitions or other events for which admission is charged to the general public; or
+&emsp;(2) modernization, renovation, or repair of stadiums or other facilities primarily used for athletic contests or exhibitions or other events for which admission is charged to the general public; or
 
 &emsp;(3) modernization, renovation, or repair of facilities—
 

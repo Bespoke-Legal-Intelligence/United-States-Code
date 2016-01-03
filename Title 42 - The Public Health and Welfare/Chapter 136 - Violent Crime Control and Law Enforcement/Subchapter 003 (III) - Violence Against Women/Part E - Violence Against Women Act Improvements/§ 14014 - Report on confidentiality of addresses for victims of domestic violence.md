@@ -2,7 +2,7 @@
 
 #### (a) Report
 
-The Attorney General shall conduct a study of the means by which abusive spouses may obtain information concerning the addresses or locations of estranged or former spouses, notwithstanding the desire of the victims to have such information withheld to avoid further exposure to abuse. Based on the study, the Attorney General shall transmit a report to Congress including—
+The Attorney General shall conduct a study of the means by which abusive spouses may obtaininformation concerning the addresses or locations of estranged or former spouses, notwithstanding the desire of the victims to have such information withheld to avoid further exposure to abuse. Based on the study, the Attorney General shall transmit a report to Congress including—
 
 &emsp;(1) the findings of the study concerning the means by which information concerning the addresses or locations of abused spouses may be obtained by abusers; and
 

@@ -14,7 +14,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (1) In general
 
-&emsp;If the Secretary proceeds with any administrative or judicial action described in subsection (a) based on information brought to the Secretary's attention by an individual, such individual shall, subject to paragraph (2), receive as an award at least 15 percent but not more than 30 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action. The determination of the amount of such award by the Whistleblower Office shall depend upon the extent to which the individual substantially contributed to such action.
+&emsp;If the Secretary proceeds with any administrative or judicial action described in subsection (a) based on information brought to the Secretary's attention by an individual,such individual shall, subject to paragraph (2), receive as an award at least 15 percent but not more than 30 percent of the collected proceeds (including penalties, interest, additions to tax, and additional amounts) resulting from the action (including any related actions) or from any settlement in response to such action. The determination of the amount of such award by the Whistleblower Office shall depend upon the extent to which the individual substantially contributed to such action.
 
 #### (2) Award in case of less substantial contribution
 
@@ -84,7 +84,7 @@ In general.—Not later than the date which is 12 months after the date of the e
 
 &emsp;"(A) shall at all times operate at the direction of the Commissioner of Internal Revenue and coordinate and consult with other divisions in the Internal Revenue Service as directed by the Commissioner of Internal Revenue,
 
-&emsp;"(B) shall analyze information received from any individual described in section 7623(b) of the Internal Revenue Code of 1986 and either investigate the matter itself or assign it to the appropriate Internal Revenue Service office, and
+&emsp;"(B) shall analyze information received from any individual described in section 7623(b) of the InternalRevenue Code of 1986 and either investigate the matter itself or assign it to the appropriate Internal Revenue Service office, and
 
 &emsp;"(C) in its sole discretion, may ask for additional assistance from such individual or any legal representative of such individual.
 

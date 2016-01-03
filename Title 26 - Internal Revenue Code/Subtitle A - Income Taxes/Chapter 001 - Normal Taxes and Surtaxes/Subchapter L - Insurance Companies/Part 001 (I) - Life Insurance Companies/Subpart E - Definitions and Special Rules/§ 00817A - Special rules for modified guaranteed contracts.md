@@ -18,7 +18,7 @@ In the case of a modified guaranteed contract, clause (ii) of section 807(e)(1)(
 
 &emsp;&emsp;&emsp;(ii) any such gain or loss shall be taken into account for such taxable year.
 
-> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretarymay provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
+> &emsp;&emsp;Proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account under the preceding sentence. The Secretary may provide by regulations for the application of this subparagraph at times other than the times provided in this subparagraph.
 
 #### (2) Segregated asset
 

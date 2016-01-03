@@ -14,7 +14,7 @@ Upon establishment of the Petrified Forest National Park, as authorized by this 
 
 #### References in Text
 
-The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C., 1952 edition, secs. 1–3), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C., 1952 edition, secs. 1–3), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Petrified Forest National Park Expansion
 
@@ -70,7 +70,7 @@ In general.—The Secretary may, with the consent of the State and in accordance
 
 &emsp;"(2)
 
-Plan.—Not later than 3 years after the date of the enactment of this Act \[Dec. 3, 2004\], the Secretaryshall, in coordination with the State, develop a plan for acquisition for State land or interests in State land under paragraph (1).
+Plan.—Not later than 3 years after the date of the enactment of this Act \[Dec. 3, 2004\], the Secretary shall, in coordination with the State, develop a plan for acquisition for State land or interests in State land under paragraph (1).
 
 &emsp;"(3)
 
@@ -84,7 +84,7 @@ In General.—Subject to applicable laws, all land and interests in land acquire
 
 "(b)
 
-Transfer of Jurisdiction.—The Secretary shall transfer to the National Park Service administrative jurisdiction over any land under the jurisdiction of the Secretary that—
+Transfer of Jurisdiction.—The Secretary shall transfer to the National Park Service administrativejurisdiction over any land under the jurisdiction of the Secretary that—
 
 &emsp;"(1) is depicted on the map as being within the boundaries of the Park; and
 

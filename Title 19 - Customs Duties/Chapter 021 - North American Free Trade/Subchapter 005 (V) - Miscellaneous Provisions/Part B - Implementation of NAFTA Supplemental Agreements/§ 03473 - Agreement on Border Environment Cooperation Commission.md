@@ -42,7 +42,7 @@ Sec. 2. (a) The Secretary of State, the Secretary of the Treasury, and the Admin
 
 (d) Except with respect to functions assigned by section 4, 5, 6, or 7 of this order, the Secretary of the Treasury shall coordinate with the Secretary of State, the Administrator of the Environmental Protection Agency, such other agencies and officers as may be appropriate, and the individuals appointed under subsection 2(b) as may be appropriate, the development of the policies and positions of the United States with respect to matters coming before the Board.
 
-Sec. 3. For purposes of loans, guarantees, or grants endorsed by the United States for community adjustment and investment, the members of the Board listed in subsections 2(a) and (b) shall be instructed by the Secretary of the Treasury in accordance with procedures established by the Community Adjustment andInvestment Program Finance Committee established pursuant to section 7 of this order.
+Sec. 3. For purposes of loans, guarantees, or grants endorsed by the United States for community adjustment and investment, the members of the Board listed in subsections 2(a) and (b) shall be instructed by the Secretary of the Treasury in accordance with procedures established by the Community Adjustment and Investment Program Finance Committee established pursuant to section 7 of this order.
 
 Sec. 4. The functions vested in the President by section 543(a)(1) of the NAFTA Implementation Act \[22 U.S.C. 290m–2(a)(1)\] are delegated to the Secretary of the Treasury.
 
@@ -63,4 +63,8 @@ Sec. 9. Any summaries of public comments or conclusions of investigations and au
 Sec. 10. The authority of the President under section 6 of Public Law 102–532; 7 U.S.C. 5404, to establish an advisory board to be known as the Good Neighbor Environmental Board is delegated to the Administrator of the Environmental Protection Agency.
 
 Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+#### Extension of Term of Good Neighbor Environmental Board
+
+Term of the Good Neighbor Environmental Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

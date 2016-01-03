@@ -99,7 +99,7 @@
 
 &emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member,
 
-> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
+> shall include interest on such amount computed and compounded annually beginning on the dateof the expiration of the 2-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
@@ -119,7 +119,7 @@
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[titleV, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184.)
 
 #### References in Text
 
@@ -241,7 +241,7 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendments
 

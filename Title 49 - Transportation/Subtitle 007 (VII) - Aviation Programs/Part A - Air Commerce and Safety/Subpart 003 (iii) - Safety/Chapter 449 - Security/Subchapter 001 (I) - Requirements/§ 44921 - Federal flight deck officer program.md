@@ -84,7 +84,7 @@ In general.—The Under Secretary shall base the requirements for the training o
 
 Elements.—The training of a Federal flight deck officer shall include, at a minimum, the following elements:
 
-&emsp;&emsp;&emsp;(i) Training to ensure that the officer achieves the level of proficiency with afirearm required under subparagraph (C)(i).
+&emsp;&emsp;&emsp;(i) Training to ensure that the officer achieves the level of proficiency with a firearm required under subparagraph (C)(i).
 
 &emsp;&emsp;&emsp;(ii) Training to ensure that the officer maintains exclusive control over the officer's firearm at all times, including training in defensive maneuvers.
 
@@ -112,7 +112,7 @@ Deputization.—
 
 &emsp;(1)
 
-In general.—The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer and whom the Under Secretary determines is qualified to be such an officer.
+In general.—The Under Secretary may deputize, as a Federal flight deck officer under this section, a pilot who submits to the Under Secretary a request to be such an officer andwhom the Under Secretary determines is qualified to be such an officer.
 
 &emsp;(2)
 

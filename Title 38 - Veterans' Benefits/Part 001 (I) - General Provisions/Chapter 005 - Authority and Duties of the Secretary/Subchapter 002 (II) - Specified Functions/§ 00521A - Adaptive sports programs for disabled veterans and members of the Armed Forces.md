@@ -76,7 +76,7 @@ Coordination.—The Secretary shall ensure access to and use of appropriate Depa
 
 (g)
 
-Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2015.
+Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2016.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -104,9 +104,11 @@ Annual Report to Congress.—For any fiscal year during which the Secretary prov
 
 Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016.
 
-(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662.)
+(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (g)(1). Pub. L. 114–58 substituted "2016" for "2015".
 
 <b>2013</b>—Pub. L. 113–59, §5(h)(1), substituted "Adaptive sports programs for disabled veterans and members of the Armed Forces" for "Assistance for United States Paralympics, Inc." in section catchline.
 

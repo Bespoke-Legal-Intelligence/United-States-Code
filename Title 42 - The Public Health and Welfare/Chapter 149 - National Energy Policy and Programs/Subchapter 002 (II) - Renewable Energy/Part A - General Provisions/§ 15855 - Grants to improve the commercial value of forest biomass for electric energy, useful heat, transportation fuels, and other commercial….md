@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;(A) any Indian tribe;
 
-&emsp;&emsp;(B) any town, township, municipality, or other similar unit of local government (asdetermined by the Secretary concerned) that—
+&emsp;&emsp;(B) any town, township, municipality, or other similar unit of local government (as determined by the Secretary concerned) that—
 
 &emsp;&emsp;&emsp;(i) has a population of not more than 50,000 individuals; and
 

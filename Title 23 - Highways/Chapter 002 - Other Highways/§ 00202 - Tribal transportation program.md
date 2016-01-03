@@ -54,7 +54,7 @@ Funds for construction and improvement.—All funds made available for the const
 
 &emsp;(6)
 
-Administrative expenses.—Of the funds authorized to be appropriated for the tribal transportation program, not more than 6 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
+Administrative expenses.—Of the funds authorized to be appropriated for the tribal transportation program, not more than 5 percent may be used by the Secretary or the Secretary of the Interior for program management and oversight and project-related administrative expenses.
 
 &emsp;(7)
 
@@ -192,7 +192,7 @@ Basis.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—After making the set asides authorized under subparagraph (C) and subsections (c), (d), and (e) on October 1 of each fiscal year, the Secretary shalldistribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
+In general.—After making the set asides authorized under subparagraph (C) and subsections (a)(6), (c), (d), and (e) on October 1 of each fiscal year, the Secretary shall distribute the remainder authorized to be appropriated for the tribal transportation program under this section among Indian tribes as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2013—
 
@@ -278,7 +278,7 @@ Ceiling.—An Indian tribe may not receive under subclause (II) and based on its
 
 &emsp;&emsp;&emsp;&emsp;(IV)
 
-Other amounts.—If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region's funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).\] <sup>1</sup>
+Other amounts.—If the amount made available for a region under subclause (I) exceeds the amount distributed among Indian tribes within that region under subclause (II), the Secretary shall distribute the remainder of such region's funding under such subclause among all Indian tribes in that region in proportion to the combined amount that each such Indian tribe received under subparagraph (A) and subclauses (I), (II), and (III).
 
 &emsp;(4)
 
@@ -294,7 +294,7 @@ Use of funds.—Notwithstanding any other provision of this section, funds made 
 
 &emsp;(5)
 
-Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), if the Indian tribal government—
+Health and safety assurances.—Notwithstanding any other provision of law, an Indian tribal government may approve plans, specifications, and estimates and commence road and bridge construction with funds made available from the tribal transportation program through a contract or agreement under <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), if the Indian tribal government—
 
 &emsp;&emsp;(A) provides assurances in the contract or agreement that the construction will meet or exceed applicable health and safety standards;
 
@@ -308,7 +308,7 @@ Contracts and agreements with indian tribes.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>2</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+In general.—Notwithstanding any other provision of law or any interagency agreement, program guideline, manual, or policy directive, all funds made available through the Secretary of the Interior under this chapter and section 125(e) for tribal transportation facilities to pay for the costs of programs, services, functions, and activities, or portions of programs, services, functions, or activities, that are specifically or functionally related to the cost of planning, research, engineering, and construction of any tribal transportation facility shall be made available, upon request of the Indian tribal government, to the Indian tribal government for contracts and agreements for such planning, research, engineering, and construction in accordance with <sup>1</sup> Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -324,7 +324,7 @@ In general.—Notwithstanding any other provision of law or any interagency agre
 
 &emsp;&emsp;(B)
 
-Exclusion of agency participation.—In accordance with subparagraph (A), allfunds, including contract support costs, for a program or project to which subparagraph (A) applies shall be paid to the Indian tribal government without regard to the organizational level at which the Department of the Interior has previously carried out, or the Department of Transportation has previously carried out under the tribal transportation program, the programs, functions, services, or activities involved.
+Exclusion of agency participation.—In accordance with subparagraph (A), all funds, including contract support costs, for a program or project to which subparagraph (A) applies shall be paid to the Indian tribal government without regard to the organizational level at which the Department of the Interior has previously carried out, or the Department of Transportation has previously carried out under the tribal transportation program, the programs, functions, services, or activities involved.
 
 &emsp;&emsp;(C)
 
@@ -396,7 +396,7 @@ Nationwide priority program.—The Secretary shall maintain a nationwide priorit
 
 &emsp;(2)
 
-Funding.—Before making any distribution under subsection (b), the Secretary shallset aside not more than 2 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
+Funding.—Before making any distribution under subsection (b), the Secretary shall set aside not more than 3 percent of the funds made available under the tribal transportation program for each fiscal year to be allocated—
 
 &emsp;&emsp;(A) to carry out any planning, design, engineering, preconstruction, construction, and inspection of a project to replace, rehabilitate, seismically retrofit, paint, apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and deicing composition; or
 
@@ -432,7 +432,7 @@ Project selection.—An Indian tribal government, in cooperation with the Secret
 
 Federal-aid Eligible Projects.—Before approving as a project on a tribal transportation facility any project eligible for funds apportioned under section 104 in a State, the Secretary shall, for projects on tribal transportation facilities, determine that the obligation of funds for the project is supplementary to and not in lieu of the obligation of a fair and equitable share of funds apportioned to the State under section 104.
 
-(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 476.)
+(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 476; amended Pub. L. 114–94, div. A, title I, §§1118, 1446(a)(12), Dec. 4, 2015, 129 Stat. 1358, 1438.)
 
 #### References in Text
 
@@ -446,13 +446,27 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 A prior section 202, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974; Pub. L. 105–178, title I, §§1115(b), (e)(2), (f)(2), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 154, 158, 193; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1119(c)–(g), Aug. 10, 2005, 119 Stat. 1182–1185, related to allocations, prior to repeal by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473.
 
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(6). Pub. L. 114–94, §1118(1), substituted "5 percent" for "6 percent".
+
+Subsec. (b)(3)(A)(i). Pub. L. 114–94, §1446(a)(12)(A), inserted "(a)(6)," after "subsections" in introductory provisions.
+
+Subsec. (b)(3)(C)(ii)(IV). Pub. L. 114–94, §1446(a)(12)(B), substituted "(III)." for "(III).\]".
+
+Subsec. (d)(2). Pub. L. 114–94, §1118(2), substituted "3 percent" for "2 percent" in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Tribal High Priority Projects Program
 
-Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840, provided that:
+Pub. L. 112–141, div. A, title I, §1123, July 6, 2012, 126 Stat. 497, as amended by Pub. L. 113–159, title I, §1001(b)(2), Aug. 8, 2014, 128 Stat. 1840; Pub. L. 114–21, title I, §1001(b)(2), May 29, 2015, 129 Stat. 219; Pub. L. 114–41, title I, §1001(b)(2), July 31, 2015, 129 Stat. 444; Pub. L. 114–73, title I, §1001(b)(2), Oct. 29, 2015, 129 Stat. 569; Pub. L. 114–87, title I, §1001(b)(2), Nov. 20, 2015, 129 Stat. 678, provided that:
 
 "(a)
 
@@ -652,7 +666,7 @@ Limitation on Use of Funds.—Program funds shall not be used for—
 
 "(f)
 
-Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimatedcost of repairing damage to the tribal transportation facility.
+Limitation on Project Amounts.—Project funding shall be limited to a maximum of $1,000,000 per application, except that funding for disaster or emergency projects shall also be limited to the estimated cost of repairing damage to the tribal transportation facility.
 
 "(g)
 
@@ -664,7 +678,7 @@ Authorization of Appropriations.—
 
 &emsp;"(1)
 
-In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 and 2014 and $19,972,603 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2014, and ending on May 31, 2015.
+In general.—There is authorized to be appropriated $30,000,000 out of the general fund of the Treasury to carry out the program for each of fiscal years 2013 through 2015 and $5,327,869 out of the general fund of the Treasury to carry out the program for the period beginning on October 1, 2015, and ending on December 4, 2015.
 
 &emsp;"(2)
 
@@ -742,7 +756,5 @@ Pub. L. 102–240, title I, §1032(d), Dec. 18, 1991, 105 Stat. 1975, provided t
 
 Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
-<i><sup>1</sup></i><i> So in original. The closing bracket probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by "the".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 

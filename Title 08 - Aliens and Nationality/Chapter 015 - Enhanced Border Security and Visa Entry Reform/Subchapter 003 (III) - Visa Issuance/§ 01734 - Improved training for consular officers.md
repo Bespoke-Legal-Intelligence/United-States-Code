@@ -6,7 +6,7 @@ The Secretary of State shall require that all consular officers responsible for 
 
 #### (b) Use of foreign intelligence information
 
-As an ongoing component of the training required in subsection (a) of this section, the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
+As an ongoing component of the training required in subsection (a), the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
 
 #### (c) Authorization of appropriations
 
@@ -16,5 +16,5 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458 inserted at end "In accordance with section 1776 of this title, and as part ofthe consular training provided to such officers by the Secretary of State, such officers shall also receive training in detecting fraudulent documents and general document forensics and shall be required as part of such training to work with immigration officers conducting inspections of applicants for admission into the United States at ports of entry."
+<b>2004</b>—Subsec. (a). Pub. L. 108–458 inserted at end "In accordance with section 1776 of this title, and as part of the consular training provided to such officers by the Secretary of State, such officers shall also receive training in detecting fraudulent documents and general document forensics and shall be required as part of such training to work with immigration officers conducting inspections of applicants for admission into the United States at ports of entry."
 

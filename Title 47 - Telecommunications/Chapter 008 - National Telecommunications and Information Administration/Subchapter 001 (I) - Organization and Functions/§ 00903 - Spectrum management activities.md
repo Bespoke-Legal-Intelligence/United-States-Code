@@ -2,7 +2,7 @@
 
 #### (a) Revision of regulations
 
-Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amendthe Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
+Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled "Manual of Regulations and Procedures for Federal Radio Frequency Management" to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
 
 #### (b) Requirements for revisions
 
@@ -70,7 +70,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 

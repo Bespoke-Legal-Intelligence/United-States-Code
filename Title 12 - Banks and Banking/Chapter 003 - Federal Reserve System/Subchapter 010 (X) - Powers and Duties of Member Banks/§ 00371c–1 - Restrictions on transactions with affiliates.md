@@ -76,7 +76,7 @@ For the purpose of this section—
 
 &emsp;(1) the term "affiliate" has the meaning given to such term in section 371c of this title (but does not include any company described in section <sup>1</sup> (b)(2) of such section or any bank);
 
-&emsp;(2) the terms "bank", "subsidiary", "person", and "security" (other than security as used in subsection (b) of this section) have the meanings given to such terms in section 371c of this title; and
+&emsp;(2) the terms "bank", "subsidiary", "person", and "security" (other than security as used in subsection (b)) have the meanings given to such terms in section 371c of this title; and
 
 &emsp;(3) the term "covered transaction" has the meaning given to such term in section 371c of this title (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
 
@@ -102,7 +102,7 @@ For the purpose of this section—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: "if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section."
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, andstruck out concluding provisions which read as follows: "if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section."
 
 Subsec. (e)(1)(B). Pub. L. 111–203, §608(b)(5)(A), inserted "subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding," before "regulations" in introductory provisions.
 

@@ -36,7 +36,7 @@ Exclusions.—Except as provided in paragraph (3), the term "consumer report" do
 
 &emsp;&emsp;(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 1681m of this title; or
 
-&emsp;&emsp;(D) a communication described in subsection (o) or (x) <sup>1</sup> of this section.
+&emsp;&emsp;(D) a communication described in subsection (o) or (x).<sup>1</sup>
 
 &emsp;(3)
 
@@ -54,7 +54,7 @@ Restriction on sharing of medical information.—Except for information or any c
 
 (g) The term "file", when used in connection with information on any consumer, means all of the information on that consumer recorded and retained by a consumer reporting agency regardless of how the information is stored.
 
-(h) The term "employment purposes" when used in connection with a consumer report means a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee.
+(h) The term "employment purposes" when used in connection with a consumer reportmeans a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee.
 
 (i)
 
@@ -148,7 +148,7 @@ State.—The term "State" means any State, the Commonwealth of Puerto Rico, the 
 
 Excluded Communications.—A communication is described in this subsection if it is a communication—
 
-&emsp;(1) that, but for subsection (d)(2)(D) of this section, would be an investigative consumer report;
+&emsp;(1) that, but for subsection (d)(2)(D), would be an investigative consumer report;
 
 &emsp;(2) that is made to a prospective employer for the purpose of—
 
@@ -170,7 +170,7 @@ Excluded Communications.—A communication is described in this subsection if it
 
 &emsp;&emsp;&emsp;(iii) in the case of consent under clause (i) or (ii) given orally, is provided written confirmation of that consent by the person making the communication, not later than 3 business days after the receipt of the consent by that person;
 
-&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that ifmade by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
+&emsp;&emsp;(B) the person who makes the communication does not, for the purpose of making the communication, make any inquiry that if made by a prospective employer of the consumer who is the subject of the communication would violate any applicable Federal or State equal employment opportunity law or regulation; and
 
 &emsp;&emsp;(C) the person who makes the communication—
 
@@ -246,7 +246,7 @@ Debit card.—The term "debit card" means any card issued by a financial institu
 
 &emsp;(4)
 
-Account and electronic fund transfer.—The terms "account" and "electronic fund transfer" have the same meanings as in section 1693a of this title.
+Account and electronic fund transfer.—The terms "account" and "electronicfund transfer" have the same meanings as in section 1693a of this title.
 
 &emsp;(5)
 
@@ -296,7 +296,7 @@ Exclusion of Certain Communications for Employee Investigations.—
 
 Communications described in this subsection.—A communication is described in this subsection if—
 
-&emsp;&emsp;(A) but for subsection (d)(2)(D) of this section, the communication would be a consumer report;
+&emsp;&emsp;(A) but for subsection (d)(2)(D), the communication would be a consumer report;
 
 &emsp;&emsp;(B) the communication is made to an employer in connection with an investigation of—
 
@@ -320,7 +320,7 @@ Communications described in this subsection.—A communication is described in t
 
 &emsp;(2)
 
-Subsequent disclosure.—After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) of this section an investigative consumer report need not be disclosed.
+Subsequent disclosure.—After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
 
 &emsp;(3)
 
@@ -366,7 +366,7 @@ Subsec. (o)(1). Pub. L. 105–347, §6(2), substituted "(d)(2)(D)" for "(d)(2)(E
 
 Subsec. (o)(4). Pub. L. 105–347, §6(3), substituted "and" for "or" at end.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end "The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval ofa specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title."
+<b>1996</b>—Subsec. (d). Pub. L. 104–208, §2402(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, redesignated cls. (1) to (3) as subpars. (A) to (C), respectively, added par. (2), and struck out at end "The term does not include (A) any report containing information solely as to transactions or experiences between the consumer and the person making the report; (B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device; or (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made and such person makes the disclosures to the consumer required under section 1681m of this title."
 
 Subsec. (k). Pub. L. 104–208, §2402(a), added subsec. (k).
 

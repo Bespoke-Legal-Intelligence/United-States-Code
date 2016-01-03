@@ -26,7 +26,7 @@ Pub. L. 112–239, §3131(r)(1), struck out par. (1) designation and struck out 
 
 Subsec. (c). Pub. L. 113–66, §3146(g)(7)(B), substituted "national security laboratories" for "laboratories referred to in subsection (a)(1)".
 
-Subsec. (d). Pub. L. 112–239, §3131(r)(2), struck out subsec. (d), which required the Secretary to submit tothe Committees on Armed Services of the Senate and House of Representatives a report on the demographic trends of personnel.
+Subsec. (d). Pub. L. 112–239, §3131(r)(2), struck out subsec. (d), which required the Secretary to submit to the Committees on Armed Services of the Senate and House of Representatives a report on the demographic trends of personnel.
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §3141(i)(9)(D)(i), substituted "section 2521 of this title" for "section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1946; 42 U.S.C. 2121 note)".
 

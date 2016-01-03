@@ -22,7 +22,7 @@ In the case of the sale of any publicly traded securities with respect to which 
 
 #### (2) Limitation on C corporations
 
-&emsp;In the case of a C corporation, the amount of gain which may be excluded under subsection (a) for any taxable year shall not exceed the lesser of—
+&emsp;In the case of a C corporation, the amount of gain which may be excluded under subsection\(a) for any taxable year shall not exceed the lesser of—
 
 &emsp;&emsp;(A) $250,000, or
 

@@ -16,7 +16,7 @@ In carrying out the provisions of this subchapter, the Secretary of Agriculture 
 
 &emsp;(g) cause onsite inspections to be made of promising projects, domestic or foreign, and, in the case of projects located in the United States, cooperate and participate in their development when the Secretary determines that the purpose of this subchapter will be served thereby;
 
-&emsp;(h) foster and participate in regional, national, and international conferences relating to native latex culture or the culture of other native agricultural crops which could supply critical agricultural materials;
+&emsp;(h) foster and participate in regional, national, and international conferences relatingto native latex culture or the culture of other native agricultural crops which could supply critical agricultural materials;
 
 &emsp;(i) coordinate, correlate, and publish information with a view to advancing the development of native latex technology or the technology of other native agricultural crops which could supply critical agricultural materials; and
 

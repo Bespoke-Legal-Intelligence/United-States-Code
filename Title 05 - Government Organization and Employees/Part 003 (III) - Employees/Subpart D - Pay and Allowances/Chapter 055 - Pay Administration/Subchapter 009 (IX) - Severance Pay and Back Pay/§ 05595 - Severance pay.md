@@ -64,7 +64,7 @@
 
 (e) If the employee dies before the end of the period covered by payments of severance pay, the payments of severance pay with respect to the employee shall be continued as if the employee were living and shall be paid on a pay period basis to the survivor of the employee in accordance with section 5582(b) of this title.
 
-(f) Severance pay under this section is not a basis for payment, and may not be included in the basis for computation, of any other type of United States or District of Columbia Government benefits. A period covered by severance pay is not a period of United States or District of Columbia Government service or employment.
+(f) Severance pay under this section is not a basis for payment, and may not be included in the basis for computation, of any other type of United States or District of Columbia Government benefits. A period covered by severance pay is not a period of United States or Districtof Columbia Government service or employment.
 
 (g) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this section to an individual named by subsection (a)(2)(B) of this section.
 
@@ -118,7 +118,7 @@
 
 (j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
-(2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
+(2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Energy an amount equal to the amount of severance pay to which the employeewas entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
 (B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1979 Amendment
 

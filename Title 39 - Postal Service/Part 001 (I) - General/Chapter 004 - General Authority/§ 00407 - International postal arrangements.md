@@ -14,7 +14,7 @@
 
 (2) In carrying out the responsibilities specified in paragraph (1), the Secretary of State shall exercise primary authority for the conduct of foreign policy with respect to international postal services and international delivery services, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this authority, the Secretary—
 
-&emsp;(A) shall coordinate with other agencies as appropriate, and in particular, shall give fullconsideration to the authority vested by law or Executive order in the Postal Regulatory Commission, the Department of Commerce, the Department of Transportation, and the Office of the United States Trade Representative in this area;
+&emsp;(A) shall coordinate with other agencies as appropriate, and in particular, shall give full consideration to the authority vested by law or Executive order in the Postal Regulatory Commission, the Department of Commerce, the Department of Transportation, and the Office of the United States Trade Representative in this area;
 
 &emsp;(B) shall maintain continuing liaison with other executive branch agencies concerned with postal and delivery services;
 
@@ -54,11 +54,11 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to responsibilities of the Secretary of State and the Postal Service for international postal arrangements.
+<b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d)relating to responsibilities of the Secretary of State and the Postal Service for international postal arrangements.
 
 <b>1998</b>—Pub. L. 105–277 substituted "International Postal Arrangements" for "International postal arrangements" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been ormay be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
+"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
 "(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
 

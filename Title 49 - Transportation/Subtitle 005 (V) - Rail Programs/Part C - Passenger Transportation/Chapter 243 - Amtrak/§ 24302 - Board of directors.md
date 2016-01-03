@@ -4,13 +4,13 @@
 
 Composition and Terms.—
 
-&emsp;(1) The Amtrak Board of Directors (referred to in this section as the "Board") is composed of the following 9 directors, each of whom must be a citizen of the United States:
+&emsp;(1) The Amtrak Board of Directors (referred to in this section as the "Board") is composed of the following 10 directors, each of whom must be a citizen of the United States:
 
 &emsp;&emsp;(A) The Secretary of Transportation.
 
-&emsp;&emsp;(B) The President of Amtrak.
+&emsp;&emsp;(B) The President of Amtrak, who shall serve as a nonvoting member of the Board.
 
-&emsp;&emsp;(C) 7 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
+&emsp;&emsp;(C) 8 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
 
 &emsp;(2) In selecting individuals described in paragraph (1) for nominations for appointments to the Board, the President shall consult with the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority leader of the Senate, and the minority leader of the Senate and try to provide adequate and balanced representation of the major geographic regions of the United States served by Amtrak.
 
@@ -38,13 +38,13 @@ Vacancies.—A vacancy on the Board is filled in the same way as the original se
 
 (e)
 
-Quorum.—A majority of the members serving shall constitute a quorum for doing business.
+Quorum.—A majority of the members serving who are eligible to vote shall constitute a quorum for doing business.
 
 (f)
 
 Bylaws.—The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 906; Pub. L. 105–134, title IV, §411(a), Dec. 2, 1997, 111 Stat. 2588; Pub. L. 110–432, div. B, title II, §202(a), Oct. 16, 2008, 122 Stat. 4911.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 906; Pub. L. 105–134, title IV, §411(a), Dec. 2, 1997, 111 Stat. 2588; Pub. L. 110–432, div. B, title II, §202(a), Oct. 16, 2008, 122 Stat. 4911; Pub. L. 114–94, div. A, title XI, §11205, Dec. 4, 2015, 129 Stat. 1637.)
 
 Historical and Revision Notes
 
@@ -116,7 +116,7 @@ In subsection (a)(3) and (4), the word "selected" is substituted for "appointed"
 
 In subsection (a)(6), the word "only" is added for clarity.
 
-In subsection (b), the text of 45:543(a)(7) is omitted as obsolete because preferred stockholder representatives are always part of Amtrak's board of directors. The text of 45:543(c) (words after "all stockholders") is omitted as obsolete because Congress eliminated common stockholder representatives when it reconstituted the board.
+In subsection (b), the text of 45:543(a)(7) is omitted as obsolete because preferred stockholder representatives are always part of Amtrak's board of directors. Thetext of 45:543(c) (words after "all stockholders") is omitted as obsolete because Congress eliminated common stockholder representatives when it reconstituted the board.
 
 In subsection (c), the words "direct or indirect" are omitted as surplus.
 
@@ -126,9 +126,21 @@ In subsection (e), the words "the membership of" and "in the case of" are omitte
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §11205(1)(A), substituted "10 directors" for "9 directors".
+
+Subsec. (a)(1)(B). Pub. L. 114–94, §11205(1)(B), inserted ", who shall serve as a nonvoting member of the Board" after "Amtrak".
+
+Subsec. (a)(1)(C). Pub. L. 114–94, §11205(1)(C), substituted "8" for "7".
+
+Subsec. (e). Pub. L. 114–94, §11205(2), inserted "who are eligible to vote" after "serving".
+
 <b>2008</b>—Pub. L. 110–432 amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak's infrastructure assets and responsibilities to a new separately governed corporation.
 
 <b>1997</b>—Pub. L. 105–134 amended section generally. Prior to amendment, section related, in subsec. (a), to composition and terms of Amtrak board of directors, in subsec. (b), to cumulative voting by stockholders, in subsec. (c), to conflicts of interest of directors, in subsec. (d), to pay and expenses of directors, in subsec. (e), to vacancies on board, and in subsec. (f), to bylaws of board.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

@@ -4,7 +4,7 @@
 
 Prohibition.—Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
+&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)); <sup>1</sup>
 
 &emsp;(2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), as providing significant support for international terrorism; or
 
@@ -34,6 +34,10 @@ Definition.—In this section, the term "international terrorism" has the meanin
 
 (Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485; amended Pub. L. 105–85, div. A, title X, §1073(a)(40), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
+#### References in Text
+
+Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (a)(1), was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50.
+
 #### Amendments
 
 <b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
@@ -43,4 +47,6 @@ Definition.—In this section, the term "international terrorism" has the meanin
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

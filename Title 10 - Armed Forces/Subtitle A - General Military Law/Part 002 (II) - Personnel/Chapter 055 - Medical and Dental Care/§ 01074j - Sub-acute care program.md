@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish an effective, efficien
 
 (b)
 
-Benefits.—(1) The program shall include a uniform skilled nursing facility benefit that shall be provided in the manner and under the conditions described in section 1861 (h) and (i) of the Social Security Act (42 U.S.C. 1395x (h) and (i)), except that the limitation on the number of days of coverage under section 1812 (a) and (b) of such Act (42 U.S.C. 1395d (a) and (b)) shall not be applicable under the program. Skilled nursing facility care for each spell of illness shall continue to be provided for as long as medically necessary and appropriate.
+Benefits.—(1) The program shall include a uniform skilled nursing facility benefit that shall be provided in the manner and under the conditions described in section 1861 (h) and (i) of the Social Security Act (42 U.S.C. 1395x (h) and (i)), except that the limitation on the number ofdays of coverage under section 1812 (a) and (b) of such Act (42 U.S.C. 1395d (a) and (b)) shall not be applicable under the program. Skilled nursing facility care for each spell of illness shall continue to be provided for as long as medically necessary and appropriate.
 
 (2) In this subsection:
 
@@ -16,7 +16,7 @@ Benefits.—(1) The program shall include a uniform skilled nursing facility ben
 
 (3) The program shall include a comprehensive, part-time or intermittent home health care benefit that shall be provided in the manner and under the conditions described in section 1861(m) of the Social Security Act (42 U.S.C. 1395x(m)).
 
-(4) The Secretary of Defense may take such actions as are necessary to ensure that there is an effective transition in the furnishing of part-time or intermittent home health care benefitsfor covered beneficiaries who were receiving such benefits before the establishment of the program under this section. The actions taken under this paragraph may include the continuation of such benefits on an extended basis for such time as the Secretary determines appropriate.
+(4) The Secretary of Defense may take such actions as are necessary to ensure that there is an effective transition in the furnishing of part-time or intermittent home health care benefits for covered beneficiaries who were receiving such benefits before the establishment of the program under this section. The actions taken under this paragraph may include the continuation of such benefits on an extended basis for such time as the Secretary determines appropriate.
 
 (Added Pub. L. 107–107, div. A, title VII, §701(a)(1), Dec. 28, 2001, 115 Stat. 1158; amended Pub. L. 108–375, div. A, title VII, §713, Oct. 28, 2004, 118 Stat. 1985.)
 

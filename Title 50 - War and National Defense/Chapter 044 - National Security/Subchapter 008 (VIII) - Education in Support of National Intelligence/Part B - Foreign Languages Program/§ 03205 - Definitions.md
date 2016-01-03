@@ -6,7 +6,7 @@ In this part:
 
 &emsp;(2) The term "educational institution" means—
 
-&emsp;&emsp;(A) a local educational agency (as that term is defined in section 7801(26) of title 20);
+&emsp;&emsp;(A) a local educational agency (as that term is defined in section 7801 of title 20);
 
 &emsp;&emsp;(B) an institution of higher education (as defined in section 1002 of title 20, other than institutions referred to in subsection (a)(1)(C) of such section); or
 
@@ -14,9 +14,17 @@ In this part:
 
 &emsp;(3) The term "dedicated personnel" means employees of the intelligence community and private citizens (including former civilian employees of the Federal Government who have been voluntarily separated, and members of the United States Armed Forces who have been honorably discharged, honorably separated, or generally discharged under honorable circumstances and rehired on a voluntary basis specifically to perform the activities authorized under this part).
 
-(July 26, 1947, ch. 343, title X, §1015, as added Pub. L. 108–487, title VI, §612(a)(2), Dec. 23, 2004, 118 Stat. 3958.)
+(July 26, 1947, ch. 343, title X, §1015, as added Pub. L. 108–487, title VI, §612(a)(2), Dec. 23, 2004, 118 Stat. 3958; amended Pub. L. 114–95, title IX, §9215(tt), (hhh), Dec. 10, 2015, 129 Stat. 2183, 2187.)
 
 #### Codification
 
 Section was formerly classified to section 441j–4 of this title prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2015</b>—Par. (2)(A). Pub. L. 114–95, §9215(tt), (hhh), made similar amendments, resulting in the substitution of "section 7801 of title 20)" for "section 7801(26) of title 20)".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 

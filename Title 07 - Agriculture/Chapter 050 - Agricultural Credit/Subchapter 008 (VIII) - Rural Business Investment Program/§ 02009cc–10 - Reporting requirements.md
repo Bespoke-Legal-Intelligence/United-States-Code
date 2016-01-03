@@ -2,7 +2,7 @@
 
 #### (a) Rural business investment companies
 
-Each rural business investment company that participates in the program established underthis subchapter shall provide to the Secretary such information as the Secretary may require, including—
+Each rural business investment company that participates in the program established under this subchapter shall provide to the Secretary such information as the Secretary may require, including—
 
 &emsp;(1) information relating to the measurement criteria that the rural business investment company proposed in the program application of the rural business investment company; and
 

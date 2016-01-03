@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c)
 
 Subsecs. (d) to (f). Pub. L. 99–433, §402(c)(1), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 substituted "If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title" for "The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty".
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 substituted "If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review ofthe record of that officer as provided for under regulations prescribed under section 1181 of this title" for "The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty".
 
 #### Effective Date of 2006 Amendment
 

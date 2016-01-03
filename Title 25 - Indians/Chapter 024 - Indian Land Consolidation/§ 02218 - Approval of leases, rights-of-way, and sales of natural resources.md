@@ -6,7 +6,7 @@
 
 &emsp;Notwithstanding any other provision of law, the Secretary may approve any lease or agreement that affects individually owned allotted land or any other land held in trust or restricted status by the Secretary on behalf of an Indian, if—
 
-&emsp;&emsp;(A) the owners of not less than the applicable percentage (determined under subsection (b) of this section) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
+&emsp;&emsp;(A) the owners of not less than the applicable percentage (determined under subsection (b)) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
 
 &emsp;&emsp;(B) the Secretary determines that approving the lease or agreement is in the best interest of the owners of the undivided interest in the allotted land.
 
@@ -22,7 +22,7 @@
 
 #### (1) Percentage interest
 
-&emsp;The applicable percentage referred to in subsection (a)(1) of this section shall be determined as follows:
+&emsp;The applicable percentage referred to in subsection (a)(1) shall be determined as follows:
 
 &emsp;&emsp;(A) If there are 5 or fewer owners of the undivided interest in the allotted land, the applicable percentage shall be 90 percent.
 
@@ -44,7 +44,7 @@
 
 #### (c) Authority of Secretary to sign lease or agreement on behalf of certain owners
 
-The Secretary may give written consent to a lease or agreement under subsection (a) of this section—
+The Secretary may give written consent to a lease or agreement under subsection (a)—
 
 &emsp;(1) on behalf of the individual Indian owner if the owner is deceased and the heirs to, or devisees of, the interest of the deceased owner have not been determined; or
 
@@ -56,7 +56,7 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (2), a lease or agreement approved by the Secretary under subsection (a) of this section shall be binding on the parties described in subparagraph (B), to the same extent as if all of the owners of the undivided interest in allotted land covered under the lease or agreement consented to the lease or agreement.
+&emsp;&emsp;Subject to paragraph (2), a lease or agreement approved by the Secretary under subsection (a) shall be binding on the parties described in subparagraph (B), to the same extent as if all of the owners of the undivided interest in allotted land covered under the lease or agreement consented to the lease or agreement.
 
 #### (B) Description of parties
 
@@ -70,7 +70,7 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (A) In general
 
-&emsp;&emsp;Subparagraph (B) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+&emsp;&emsp;Subparagraph (B) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
 #### (B) Application of lease
 
@@ -80,7 +80,7 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (1) In general
 
-&emsp;The proceeds derived from a lease or agreement that is approved by the Secretary under subsection (a) of this section shall be distributed to all owners of undivided interest in the allotted land covered under the lease or agreement.
+&emsp;The proceeds derived from a lease or agreement that is approved by the Secretary under subsection (a) shall be distributed to all owners of undivided interest in the allotted land covered under the lease or agreement.
 
 #### (2) Determination of amounts distributed
 
@@ -98,7 +98,7 @@ Nothing in this chapter shall be construed to supersede, repeal, or modify any g
 
 #### References in Text
 
-The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§3701 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (f), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. Title II of the Act enacted provisions classified as a note under section 396 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 

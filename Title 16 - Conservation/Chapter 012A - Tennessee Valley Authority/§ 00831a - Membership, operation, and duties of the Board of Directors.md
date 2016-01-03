@@ -22,7 +22,7 @@ To be eligible to be appointed as a member of the Board, an individual—
 
 &emsp;(4) shall make full disclosure to Congress of any investment or other financial interest that the individual holds in the energy industry; and
 
-&emsp;(5) shall affirm support for the objectives and missions of the Corporation, includingbeing a national leader in technological innovation, low-cost power, and environmental stewardship.
+&emsp;(5) shall affirm support for the objectives and missions of the Corporation, including being a national leader in technological innovation, low-cost power, and environmental stewardship.
 
 #### (c) Recommendations
 
@@ -96,7 +96,7 @@ In appointing members of the Board, the President shall—
 
 &emsp;&emsp;(E) adopt and submit to Congress a conflict-of-interest policy applicable to members of the Board and employees of the Corporation;
 
-&emsp;&emsp;(F) establish a compensation plan for employees of the Corporation in accordance with subsection (i) of this section;
+&emsp;&emsp;(F) establish a compensation plan for employees of the Corporation in accordance with subsection (i);
 
 &emsp;&emsp;(G) approve all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) of all managers and technical personnel that report directly to the chief executive officer (including any adjustment to compensation);
 

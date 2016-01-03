@@ -96,6 +96,7 @@
 | [3191\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003191%20-%20Purposes.md) | Purposes. |
 | [3192\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003192%20-%20Definitions.md) | Definitions. |
 | [3193\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003193%20-%20Establishment.md) | Establishment. |
+| [3193a.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003193a%20-%20Transfer%20of%20administration%20of%20Job%20Corps%20program%20to%20Employment%20and%20Training%20Administration.md) | Transfer of administration of Job Corps program to Employment and Training Administration. |
 | [3194\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003194%20-%20Individuals%20eligible%20for%20the%20Job%20Corps.md) | Individuals eligible for the Job Corps. |
 | [3195\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003195%20-%20Recruitment%2C%20screening%2C%20selection%2C%20and%20assignment%20of%20enrollees.md) | Recruitment, screening, selection, and assignment of enrollees. |
 | [3196\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20C%20-%20Job%20Corps/%C2%A7%2003196%20-%20Enrollment.md) | Enrollment. |
@@ -126,8 +127,10 @@
 | [3222\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003222%20-%20Migrant%20and%20seasonal%20farmworker%20programs.md) | Migrant and seasonal farmworker programs. |
 | [3223\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003223%20-%20Technical%20assistance.md) | Technical assistance. |
 | [3224\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003224%20-%20Evaluations%20and%20research.md) | Evaluations and research. |
+| [3224a.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003224a%20-%20Job%20training%20grants.md) | Job training grants. |
 | [3225\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003225%20-%20National%20dislocated%20worker%20grants.md) | National dislocated worker grants. |
 | [3226\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003226%20-%20YouthBuild%20program.md) | YouthBuild program. |
+| [3226a.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003226a%20-%20Re-enrollment%20in%20alternative%20school%20by%20high-school%20dropout.md) | Re-enrollment in alternative school by high-school dropout. |
 | [3227\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003227%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -172,6 +175,7 @@
 | :--- | ---: |
 | [3291\.](Subchapter%20002%20%28II%29%20-%20Adult%20Education%20and%20Literacy/Part%20A%20-%20Federal%20Provisions/%C2%A7%2003291%20-%20Reservation%20of%20funds%3B%20grants%20to%20eligible%20agencies%3B%20allotments.md) | Reservation of funds; grants to eligible agencies; allotments. |
 | [3292\.](Subchapter%20002%20%28II%29%20-%20Adult%20Education%20and%20Literacy/Part%20A%20-%20Federal%20Provisions/%C2%A7%2003292%20-%20Performance%20accountability%20system.md) | Performance accountability system. |
+| [3293\.](Subchapter%20002%20%28II%29%20-%20Adult%20Education%20and%20Literacy/Part%20A%20-%20Federal%20Provisions/%C2%A7%2003293%20-%20Educational%20assistance%20and%20training.md) | Educational assistance and training. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

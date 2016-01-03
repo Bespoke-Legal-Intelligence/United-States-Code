@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) Petroleum, or any product derived from petroleum, provided for in headings 2709 and 2710 of the HTS.
 
-&emsp;&emsp;(C) Watches and watch parts (including cases, bracelets and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if suchwatches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply.
+&emsp;&emsp;(C) Watches and watch parts (including cases, bracelets and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply.
 
 &emsp;&emsp;(D) Handbags, luggage, flat goods, work gloves, and leather wearing apparel that were not designated on August 5, 1983, as eligible articles for purposes of the generalized system of preferences under title V of the Trade Act of 1974.
 
@@ -94,7 +94,7 @@
 
 #### (iii) Apparel articles assembled in 1 or more ATPDEA beneficiary countries from regional fabrics or regional components
 
-&emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabriccomponents formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
+&emsp;&emsp;&emsp;(I) Subject to the limitation set forth in subclause (II), apparel articles sewn or otherwise assembled in 1 or more ATPDEA beneficiary countries from fabrics or from fabric components formed or from components knit-to-shape, in 1 or more ATPDEA beneficiary countries, from yarns wholly formed in the United States or 1 or more ATPDEA beneficiary countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in 1 or more ATPDEA beneficiary countries), whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in clause (i)).
 
 &emsp;&emsp;&emsp;(II) The preferential treatment referred to in subclause (I) shall be extended in the 1-year period beginning October 1, 2002, and in each of the 10 succeeding 1-year periods, to imports of apparel articles in an amount not to exceed the applicable percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the preceding 12-month period for which data are available.
 
@@ -138,7 +138,7 @@
 
 #### (III) De minimis rule
 
-&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment underthis subparagraph because the article contains yarns not wholly formed in the United States or in one or more ATPDEA beneficiary countries shall not be ineligible for such treatment if the total weight of all such yarns is not more than 7 percent of the total weight of the good.
+&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment under this subparagraph because the article contains yarns not wholly formed in the United States or in one or more ATPDEA beneficiary countries shall not be ineligible for such treatment if the total weight of all such yarns is not more than 7 percent of the total weight of the good.
 
 #### (IV) Special origin rule
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) from which the article is exported; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in which materials used in the production of the article originate orin which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
 
 #### (B) Certificate of Origin
 
@@ -264,7 +264,7 @@
 
 &emsp;&emsp;&emsp;(iii) has penalized the individuals and entities involved in any such circumvention, consistent with its domestic laws and procedures, and has worked closely to seek the cooperation of any third country to prevent such circumvention from taking place in that third country.
 
-> &emsp;&emsp;The Commissioner of Customs shall submit to the Congress, not later than October 1,2003, a report on the study conducted under this subparagraph.
+> &emsp;&emsp;The Commissioner of Customs shall submit to the Congress, not later than October 1, 2003, a report on the study conducted under this subparagraph.
 
 #### (6) Definitions
 
@@ -382,7 +382,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, §204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, §404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, §3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, §2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, §5005(b), title VII, §7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, §2, June 30, 2007,121 Stat. 235; Pub. L. 110–191, §2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, §1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, §2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, §501(b), Oct. 21, 2011, 125 Stat. 494.)
 
 #### References in Text
 
@@ -568,5 +568,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Suspension of Designation of Beneficiary Countries
 
-Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiarycountry for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
+Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
 

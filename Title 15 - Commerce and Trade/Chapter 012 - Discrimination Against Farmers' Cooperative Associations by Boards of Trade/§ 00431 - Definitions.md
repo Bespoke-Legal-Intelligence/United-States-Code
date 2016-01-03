@@ -10,7 +10,7 @@ When used in this chapter (a) the term "agricultural products", means agricultur
 
 (e) The word "person" shall be construed to import the plural or singular, and shall include individuals, associations, partnerships, corporations, and trusts.
 
-(f) The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
+(f) The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure ofsuch individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
 
 (Mar. 4, 1927, ch. 508, §1, 44 Stat. 1423; June 15, 1936, ch. 545, §1, 49 Stat. 1491.)
 

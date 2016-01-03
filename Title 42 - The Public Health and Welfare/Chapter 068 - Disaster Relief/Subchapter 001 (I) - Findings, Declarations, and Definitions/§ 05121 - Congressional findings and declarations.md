@@ -34,7 +34,11 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Effective Date
 
-Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974,with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–111, §1, Dec. 18, 2015, 129 Stat. 2240, provided that: "This Act \[amending sections 5122 and 5172 of this title\] may be cited as the 'Emergency Information Improvement Act of 2015'."
 
 #### Short Title of 2013 Amendment
 
@@ -90,7 +94,7 @@ Pub. L. 100–707, title I, §102(b), Nov. 23, 1988, 102 Stat. 4689, provided th
 
 #### References to Disaster Relief Act of 1970
 
-Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered byPub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
+Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act \[see Short Title note set out above\]), regulation, rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744), repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
 
 #### Report on State Management of Small Disasters Initiative
 

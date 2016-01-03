@@ -32,7 +32,7 @@ The Secretary is authorized to take the following actions:
 
 #### (A) In general
 
-&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
+&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projectsbased upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
 
 #### (B) Contract terms
 
@@ -68,7 +68,7 @@ The Secretary is authorized to take the following actions:
 
 &emsp;&emsp;&emsp;&emsp;(II) by the applicable participating jurisdiction that receives assistance under the HOME Investment Partnership <sup>1</sup> Act \[42 U.S.C. 12721 et seq.\], for assistance from such jurisdiction; or
 
-&emsp;&emsp;&emsp;&emsp;(III) by any Federal agency or any State or local government, for fundingfor the project from funds from any other sources.
+&emsp;&emsp;&emsp;&emsp;(III) by any Federal agency or any State or local government, for funding for the project from funds from any other sources.
 
 #### (D) State agency involvement
 
@@ -154,7 +154,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (A) Term
 
-&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall, during such period, be made available for occupancy only by very low-income persons with disabilities.
+&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall,during such period, be made available for occupancy only by very low-income persons with disabilities.
 
 #### (B) Conversion
 
@@ -288,7 +288,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) notless than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
@@ -470,7 +470,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 &emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991,105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
 
 #### References in Text
 
@@ -544,7 +544,7 @@ Subsec. (g). Pub. L. 111–374, §3(c), substituted "Selection criteria and proc
 
 Subsec. (g)(1)(D). Pub. L. 111–374, §5(5)(A), substituted "appropriate supportive services will be made available" for "the necessary supportive services will be provided".
 
-Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design of the housing will accommodate the provision of such services;".
+Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: "the extent to which the proposed design ofthe housing will accommodate the provision of such services;".
 
 Subsec. (g)(1)(F). Pub. L. 111–374, §3(d), added subpar. (F).
 

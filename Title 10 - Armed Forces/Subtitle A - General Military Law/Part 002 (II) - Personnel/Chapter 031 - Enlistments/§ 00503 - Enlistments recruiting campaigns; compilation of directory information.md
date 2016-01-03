@@ -28,7 +28,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
 
-(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the studentif the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -52,7 +52,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(A) The term "local educational agency" means—
 
-&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); and
+&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 8101 of the Elementary and Secondary Education Act of 1965; and
 
 &emsp;&emsp;(ii) a private secondary school.
 
@@ -74,13 +74,15 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 Directory Information Defined.—In this section, the term "directory information" has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (c)(6)(A)(i). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2004</b>—Subsec. (c)(1)(B). Pub. L. 108–375 substituted "educational" for "education" after "Each local".
 
@@ -92,7 +94,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1
 
 Subsec. (c)(6)(A)(i). Pub. L. 108–136, §543(b), substituted "9101" and "7801" for "14101" and "8801", respectively.
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: "Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students."
+<b>2001</b>—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1)generally. Prior to amendment, par. (1) read as follows: "Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students."
 
 Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted "14101" for "14101(18)" and "8801" for "8801(18)".
 
@@ -118,6 +120,10 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title V, §544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131)."
@@ -132,23 +138,79 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Temporary Authority To Develop and Provide Additional Recruitment Incentives
+
+Pub. L. 114–92, div. A, title V, §522, Nov. 25, 2015, 129 Stat. 811, provided that:
+
+"(a)
+
+Additional Recruitment Incentives Authorized.—The Secretary of a military department may develop and provide incentives, not otherwise authorized by law, to encourage individuals to accept an appointment as a commissioned officer, to accept an appointment as a warrant officer, or to enlist in an Armed Force under the jurisdiction of the Secretary.
+
+"(b)
+
+Relation to Other Personnel Authorities.—A recruitment incentive developed under subsection (a) may be provided—
+
+&emsp;"(1) without regard to the lack of specific authority for the recruitment incentive under title 10 or 37, United States Code; and
+
+&emsp;"(2) notwithstanding any provision of such titles, or any rule or regulation prescribed under such provision, relating to methods of providing incentives to individuals to accept appointments or enlistments in the Armed Forces, including the provision of group or individual bonuses, pay, or other incentives.
+
+"(c)
+
+Notice and Wait Requirement.—The Secretary of a military department may not provide a recruitment incentive developed under subsection (a) until—
+
+&emsp;"(1) the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan regarding provision of the recruitment incentive, which includes—
+
+&emsp;&emsp;"(A) a description of the incentive, including the purpose of the incentive and the potential recruits to be addressed by the incentive;
+
+&emsp;&emsp;"(B) a description of the provisions of titles 10 and 37, United States Code, from which the incentive would require a waiver and the rationale to support the waiver;
+
+&emsp;&emsp;"(C) a statement of the anticipated outcomes as a result of providing the incentive; and
+
+&emsp;&emsp;"(D) a description of the method to be used to evaluate the effectiveness of the incentive; and
+
+&emsp;"(2) the expiration of the 30-day period beginning on the date on which the plan was received by Congress.
+
+"(d)
+
+Limitation on Number of Incentives.—The Secretary of a military department may not provide more than three recruitment incentives under the authority of this section.
+
+"(e)
+
+Limitation on Number of Individuals Receiving Incentives.—The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) by the Secretary of a military department during a fiscal year for an Armed Force under the jurisdiction of the Secretary may not exceed 20 percent of the accession objective of that Armed Force for that fiscal year.
+
+"(f)
+
+Duration of Developed Incentive.—A recruitment incentive developed under subsection (a) may be provided for not longer than a three-year period beginning on the date on which the incentive is first provided, except that the Secretary of the military department concerned may extend the period if the Secretary determines that additional time is needed to fully evaluate the effectiveness of the incentive.
+
+"(g)
+
+Reporting Requirements.—If the Secretary of a military department provides an recruitment incentive under subsection (a) for a fiscal year, the Secretary shall submit to the congressional defense committees a report, not later than 60 days after the end of the fiscal year, containing—
+
+&emsp;"(1) a description of each incentive provided under subsection (a) during that fiscal year; and
+
+&emsp;"(2) an assessment of the impact of the incentives on the recruitment of individuals for an Armed Force under the jurisdiction of the Secretary.
+
+"(h)
+
+Termination of Authority to Provide Incentives.—Notwithstanding subsection (f); the authority to provide recruitment incentives under this section expires on December 31, 2020."
+
 #### Policy on Military Recruitment and Enlistment of Graduates of Secondary Schools
 
-Pub. L. 113–66, div. A, title V, §573, Dec. 26, 2013, 127 Stat. 772, provided that:
+Pub. L. 113–66, div. A, title V, §573, Dec. 26, 2013, 127 Stat. 772, as amended by Pub. L. 114–95, title IX, §9215(eee), Dec. 10, 2015, 129 Stat. 2186, provided that:
 
 "(a)
 
 Conditions on Use of Test, Assessment, or Screening Tools.—In the case of any test, assessment, or screening tool utilized under the policy on recruitment and enlistment required by subsection (b) of section 532 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1403; 10 U.S.C. 503 note) for the purpose of identifying persons for recruitment and enlistment in the Armed Forces, the Secretary of Defense shall—
 
-&emsp;"(1) implement a means for ensuring that graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38))\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
+&emsp;"(1) implement a means for ensuring that graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, are required to meet the same standard on the test, assessment, or screening tool; and
 
 &emsp;"(2) use uniform testing requirements and grading standards.
 
 "(b)
 
-Rule of Construction.—Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38))\[)\], including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces."
+Rule of Construction.—Nothing in section 532(b) of the National Defense Authorization Act for Fiscal Year 2012 or this section shall be construed to permit the Secretary of Defense or the Secretary of a military department to create or use a different grading standard on any test, assessment, or screening tool utilized for the purpose of identifying graduates of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]), including all persons described in subsection (a)(2) of section 532 of the National Defense Authorization Act for Fiscal Year 2012, for recruitment and enlistment in the Armed Forces."
 
-Pub. L. 112–81, div. A, title V, §532, Dec. 31, 2011, 125 Stat. 1403, provided that:
+Pub. L. 112–81, div. A, title V, §532, Dec. 31, 2011, 125 Stat. 1403, as amended by Pub. L. 114–95, title IX, §9215(ddd), Dec. 10, 2015, 129 Stat. 2185, provided that:
 
 "(a)
 
@@ -156,7 +218,7 @@ Equal Treatment for Secondary School Graduates.—
 
 &emsp;"(1)
 
-Equal treatment.—For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(38))\[)\].
+Equal treatment.—For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).
 
 &emsp;"(2)
 
@@ -170,7 +232,7 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
-&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, andattitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
+&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
 &emsp;"(2) Means for assessing how qualified persons fulfill their enlistment obligation.
 
@@ -382,7 +444,7 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 &emsp;"(D) For the Army to sponsor motor sports competitions for high school students at which recruiters meet with potential recruits.
 
-&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronicmail addresses of persons who are identified as potential recruits through activities under the pilot program.
+&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronic mail addresses of persons who are identified as potential recruits through activities under the pilot program.
 
 &emsp;"(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
 
@@ -428,7 +490,7 @@ Duration of Pilot Programs.—The pilot programs required by this section shall 
 
 "(f)
 
-Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate andthe Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
 "(g)
 
@@ -504,7 +566,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;"(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
 
-&emsp;"(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program."
+&emsp;"(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical trainingprograms for new recruits in the Delayed Entry Program."
 
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 

@@ -76,7 +76,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 #### (5) Additional remedies
 
-&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title,subject to the discretion of the court and the principles of equity if—
+&emsp;In an action brought under this subsection, the owner of the famous mark shall be entitled to injunctive relief as set forth in section 1116 of this title. The owner of the famous mark shall also be entitled to the remedies set forth in sections 1117(a) and 1118 of this title, subject to the discretion of the court and the principles of equity if—
 
 &emsp;&emsp;(A) the mark or trade name that is likely to cause dilution by blurring or dilution by tarnishment was first used in commerce by the person against whom the injunction is sought after October 6, 2006; and
 
@@ -142,9 +142,9 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (E) As used in this paragraph, the term "traffics in" refers to transactions that include, but are not limited to, sales, purchases, loans, pledges, licenses, exchanges of currency, and any other transfer for consideration or receipt in exchange for consideration.
 
-(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domainname authority that registered or assigned the domain name is located if—
+(2)(A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
 
-&emsp;(i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
+&emsp;(i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c); and
 
 &emsp;(ii) the court finds that the owner—
 
@@ -172,7 +172,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (ii) The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
 
-(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
+(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy availableunder either such action, shall be in addition to any other civil action or remedy otherwise applicable.
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 

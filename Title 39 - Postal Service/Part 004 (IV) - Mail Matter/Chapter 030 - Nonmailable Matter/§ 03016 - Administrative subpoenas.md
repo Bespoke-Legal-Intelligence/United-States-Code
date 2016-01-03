@@ -50,7 +50,7 @@ Service on business persons.—Service of any such subpoena may be made upon a p
 
 &emsp;&emsp;(B) delivering a duly executed copy thereof to the principal office or place of business of the partnership, corporation, association, or entity; or
 
-&emsp;&emsp;(C) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such partnership, corporation, association, or entity at its principal office or place of business.
+&emsp;&emsp;(C) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed tosuch partnership, corporation, association, or entity at its principal office or place of business.
 
 &emsp;(4)
 
@@ -58,7 +58,7 @@ Service on natural persons.—Service of any subpoena may be made upon any natur
 
 &emsp;&emsp;(A) delivering a duly executed copy to the person to be served; or
 
-&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed tosuch person at his residence or principal office or place of business.
+&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
 
 &emsp;(5)
 

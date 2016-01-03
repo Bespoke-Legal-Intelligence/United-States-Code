@@ -32,7 +32,7 @@
 
 (2)(A) In enforcing compliance with any order under subsection (a)(2), the Board may order that any employee charged with complying with such order, other than an employee appointed by the President by and with the advice and consent of the Senate, shall not be entitled to receive payment for service as an employee during any period that the order has not been complied with. The Board shall certify to the Comptroller General of the United States that such an order has been issued and no payment shall be made out of the Treasury of the United States for any service specified in such order.
 
-(B) The Board shall prescribe regulations under which any employee who is aggrieved by the failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
+(B) The Board shall prescribe regulations under which any employee who is aggrieved bythe failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
 
 (3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
@@ -64,7 +64,7 @@
 
 (i) Except as provided in section 518 of title 28, relating to litigation before the Supreme Court, attorneys designated by the Chairman of the Board may appear for the Board, and represent the Board, in any civil action brought in connection with any function carried out by the Board pursuant to this title or as otherwise authorized by law.
 
-(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointmentmade under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
+(j) The Chairman of the Board may appoint such personnel as may be necessary to perform the functions of the Board. Any appointment made under this subsection shall comply with the provisions of this title, except that such appointment shall not be subject to the approval or supervision of the Office of Personnel Management or the Executive Office of the President (other than approval required under section 3324 or subchapter VIII of chapter 33).
 
 (k) The Board shall prepare and submit to the President, and, at the same time, to the appropriate committees of Congress, an annual budget of the expenses and other items relating to the Board which shall, as revised, be included as a separate item in the budget required to be transmitted to the Congress under section 1105 of title 31.
 
@@ -84,7 +84,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 
 #### Prior Provisions
 
-A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, §3(a)(6). Pub. L. 102–378, §2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
+A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, §3(a)(6). Pub. L. 102–378,§2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Subsec. (f)(1). Pub. L. 101–12, §3(a)(7)(H)(i), inserted "of the Office of Pe
 
 Subsec. (f)(2). Pub. L. 101–12, §3(a)(7)(H)(ii), inserted comma after "subsection" and in subpars. (A) and (B) struck out "of this title" after "section 2302(b)".
 
-Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out "(A)" before "The Director", struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented,and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
+Subsec. (f)(3), (4). Pub. L. 101–12, §3(a)(7)(H)(iii), struck out "(A)" before "The Director", struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
 
 Subsecs. (g) to (i). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
 

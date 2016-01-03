@@ -10,7 +10,7 @@
 
 &emsp;(4) agrees to conduct such evaluation according to the procedures and terms established by the Bureau.
 
-(b) Each applicant for funds under this part shall certify that its program or project meets all the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
+(b) Each applicant for funds under this part shall certify that its program or project meetsall the applicable requirements of this section, that all the applicable information contained in the application is correct, and that the applicant will comply with all the applicable provisions of this part and all other applicable Federal laws. Such certification shall be made in a form acceptable to the Director.
 
 (Pub. L. 90–351, title I, §517, formerly §513, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered §517 and amended Pub. L. 101–647, title XVIII, §1801(a)(4), (6), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 109–162, title XI, §1111(c)(2)(A), Jan. 5, 2006, 119 Stat. 3101.)
 

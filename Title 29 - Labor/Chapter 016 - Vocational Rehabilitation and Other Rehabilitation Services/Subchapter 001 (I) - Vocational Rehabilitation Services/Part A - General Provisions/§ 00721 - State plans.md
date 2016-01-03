@@ -358,7 +358,7 @@
 
 #### (F) Coordination with Statewide Independent Living Councils and independent living centers
 
-&emsp;&emsp;The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under section 796d of this title, and the independent living centers described in subpart 3 of part A of subchapter VII of this chapter within the State have developed working relationships and coordinate their activities, as appropriate.
+&emsp;&emsp;The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under section 796d of this title, and the independent living centers described in subpart 3 of part A of subchapter VII within the State have developed working relationships and coordinate their activities, as appropriate.
 
 #### (G) Cooperative agreement regarding individuals eligible for home and community-based waiver programs
 
@@ -436,7 +436,7 @@
 
 &emsp;&emsp;&emsp;(i) the number of individuals in the State who are eligible for services under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI of this chapter, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
+&emsp;&emsp;&emsp;(ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
 
 &emsp;&emsp;&emsp;(iii) the number of individuals who are eligible for services under this subchapter, but are not receiving such services due to an order of selection; and
 
@@ -602,21 +602,21 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 
-&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI of this chapter, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
+&emsp;The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
 
 #### (23) Annual updates
 
-&emsp;The plan shall include an assurance that the State will submit to the Commissioner reports containing annual updates of the information required under paragraph (7) (relating to a comprehensive system of personnel development) and any other updates of the information required under this section that are requested by the Commissioner, and annual reports as provided in paragraphs (15) (relating to assessments, estimates, goals and priorities, and reports of progress) and (18) (relating to innovation and expansion), at such timeand in such manner as the Secretary may determine to be appropriate.
+&emsp;The plan shall include an assurance that the State will submit to the Commissioner reports containing annual updates of the information required under paragraph (7) (relating to a comprehensive system of personnel development) and any other updates of the information required under this section that are requested by the Commissioner, and annual reports as provided in paragraphs (15) (relating to assessments, estimates, goals and priorities, and reports of progress) and (18) (relating to innovation and expansion), at such time and in such manner as the Secretary may determine to be appropriate.
 
 #### (24) Certain contracts and cooperative agreements
 
 #### (A) Contracts with for-profit organizations
 
-&emsp;&emsp;The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI of this chapter, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
+&emsp;&emsp;The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
 
 #### (B) Cooperative agreements with private nonprofit organizations
 
@@ -670,7 +670,7 @@ Section 776 of this title, referred to in subsec. (a)(17)(B), was in the origina
 
 #### Prior Provisions
 
-A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29,1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 
@@ -792,7 +792,7 @@ Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c
 
 #### Definitions of Terms in Pub. L. 113–128
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
 <i><sup>1</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

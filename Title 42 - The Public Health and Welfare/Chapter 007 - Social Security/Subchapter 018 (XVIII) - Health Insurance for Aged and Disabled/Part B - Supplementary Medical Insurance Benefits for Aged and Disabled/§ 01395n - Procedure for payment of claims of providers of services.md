@@ -26,7 +26,7 @@ Except as provided in subsections (b), (c), and (e) of this section, payment for
 
 #### (b) Conditions for payment for services described in section 1395x(s) of this title
 
-(1) Payment may also be made to any hospital for services described in section 1395x(s) of this title furnished as an outpatient service by a hospital or by others under arrangements made by it to an individual entitled to benefits under this part even though such hospital does not have an agreement in effect under this subchapter if (A) such services were emergency services, (B) the Secretary would be required to make such payment if the hospital had such an agreement in effect and otherwise met the conditions of payment hereunder, and (C) such hospital has made an election pursuant to section 1395f(d)(1)(C) of this title with respect to the calendar year in which such emergency services are provided. Such payments shall be made only in the amounts provided under section 1395l(a)(2) of this title and then only if such hospital agrees to comply, with respect to the emergency services provided, with the provisions of section 1395cc(a) of this title.
+(1) Payment may also be made to any hospital for services described in section 1395x(s) of this title furnished as an outpatient service by a hospital or by others under arrangements made by it to an individual entitled to benefits under this part even though such hospital does not have an agreement in effect under this subchapter if (A) such services were emergency services, (B) the Secretary would be required to make such payment if the hospital had such an agreement in effect and otherwise met the conditions of payment hereunder, and (C) such hospital has made an election pursuant to section 1395f(d)(1)(C) of this title with respect to the calendar year in which such emergency services are provided. Such payments shall be made only in the amounts provided under section 1395l(a)(2) of this title and then only if such hospital agreesto comply, with respect to the emergency services provided, with the provisions of section 1395cc(a) of this title.
 
 (2) Payment may also be made on the basis of an itemized bill to an individual for services described in paragraph (1) of this subsection if (A) payment cannot be made under such paragraph (1) solely because the hospital does not elect, in accordance with section 1395f(d)(1)(C) of this title, to claim such payments and (B) such individual files application (submitted within such time and in such form and manner, and containing and supported by such information as the Secretary shall by regulations prescribe) for reimbursement. The amounts payable under this paragraph shall, subject to the provisions of section 1395l of this title, be equal to 80 percent of the hospital's reasonable charges for such services.
 
@@ -36,7 +36,7 @@ Notwithstanding the provisions of this section and sections 1395k, 1395l, and 13
 
 #### (d) Payment to Federal provider of services or other Federal agencies prohibited
 
-Subject to section 1395qq of this title, no payment may be made under this part to any Federal provider of services or other Federal agency, except a provider of services which the Secretary determines is providing services to the public generally as a community institution or agency; and no such payment may be made to any provider of services or other person for anyitem or service which such provider or person is obligated by a law of, or a contract with, the United States to render at public expense.
+Subject to section 1395qq of this title, no payment may be made under this part to any Federal provider of services or other Federal agency, except a provider of services which the Secretary determines is providing services to the public generally as a community institution or agency; and no such payment may be made to any provider of services or other person for any item or service which such provider or person is obligated by a law of, or a contract with, the United States to render at public expense.
 
 #### (e) Payment to fund designated by medical staff or faculty of medical school
 
@@ -216,7 +216,7 @@ Pub. L. 96–499, title IX, §944(b), Dec. 5, 1980, 94 Stat. 2642, provided that
 
 Amendment by section 204(b) of Pub. L. 92–603 effective with respect to calendar years after 1972, see section 204(c) of Pub. L. 92–603, set out as a note under section 1395l of this title.
 
-Amendment by section 227(e)(2) of Pub. L. 92–603 applicable with respect to accounting periods beginning after June 30, 1973, see section 227(g) of Pub. L. 92–603, set out as a note under section 1395x of this title.
+Amendment by section 227(e)(2) of Pub. L. 92–603 applicable with respect to accounting periods beginningafter June 30, 1973, see section 227(g) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
 Amendment by section 251(b)(2) of Pub. L. 92–603 applicable with respect to services furnished on or after Oct. 30, 1972, see section 251(d)(2) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 

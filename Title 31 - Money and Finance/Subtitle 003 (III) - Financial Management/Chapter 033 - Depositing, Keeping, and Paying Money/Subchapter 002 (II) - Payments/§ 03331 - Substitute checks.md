@@ -40,7 +40,7 @@
 
 (f) The Secretary may waive any provision of this section as may be necessary to ensure that claimants receive timely payments.
 
-(g) Under conditions the Secretary may prescribe, the Secretary may delegate duties andpowers of the Secretary under this section to the head of an agency. Consistent with a delegation from the Secretary under this subsection, the head of an agency may delegate those duties and powers to an officer or employee of the agency.
+(g) Under conditions the Secretary may prescribe, the Secretary may delegate duties and powers of the Secretary under this section to the head of an agency. Consistent with a delegation from the Secretary under this subsection, the head of an agency may delegate those duties and powers to an officer or employee of the agency.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 955; Pub. L. 97–452, §1(11), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 104–134, title III, §31001(x)(2), Apr. 26, 1996, 110 Stat. 1321–377.)
 

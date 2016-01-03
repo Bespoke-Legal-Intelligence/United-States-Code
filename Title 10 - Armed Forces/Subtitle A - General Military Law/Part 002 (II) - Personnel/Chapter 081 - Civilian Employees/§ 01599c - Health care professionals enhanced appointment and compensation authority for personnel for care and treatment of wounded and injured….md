@@ -46,7 +46,7 @@ Subsec. (a)(2)(B). Pub. L. 111–383, §1075(b)(22), substituted "subchapter I" 
 
 Subsec. (a)(2)(C). Pub. L. 111–383, §1104(a)(2), added subpar. (C).
 
-Subsec. (c)(1). Pub. L. 111–383, §1104(b)(1), inserted "under subsection (a)(1)" after "Secretary of Defense"and substituted "December 31, 2015" for "September 30, 2012".
+Subsec. (c)(1). Pub. L. 111–383, §1104(b)(1), inserted "under subsection (a)(1)" after "Secretary of Defense" and substituted "December 31, 2015" for "September 30, 2012".
 
 Subsec. (c)(2). Pub. L. 111–383, §1104(b)(2), substituted "December 31, 2015" for "September 30, 2012".
 

@@ -18,7 +18,7 @@ In preparing each report under subsection (a), the Secretary of Commerce, or the
 
 &emsp;(5) the United States Department of Agriculture under the Agricultural Foreign Investment Disclosure Act of 1978 (7 U.S.C. 3501 and following);
 
-&emsp;(6) the Department of the Treasury under section 6039C of title 26, but only to the extentthat such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
+&emsp;(6) the Department of the Treasury under section 6039C of title 26, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 
 &emsp;(7) the Department of Energy under section 7267(8) of title 42, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 
@@ -40,7 +40,7 @@ In preparing each report under subsection (a), the Secretary of Commerce, or the
 
 The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 2170 of the Appendix to Title 50, War and National Defense. Ex. Ord. No. 11858 was amended generally by Ex. Ord. No. 13456, §1, Jan. 23, 2008, 73 F.R. 4677, and, as so amended, section 2 no longer relates to the collection of information on foreign investment. However, similar provisions are now contained in section 9 of Ex. Ord. No. 11858.
+Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 4565 of Title 50, War and National Defense. Ex. Ord. No. 11858 was amended generally by Ex. Ord. No. 13456, §1, Jan. 23, 2008, 73 F.R. 4677, and, as so amended, section 2 no longer relates to the collection of information on foreign investment. However, similar provisions are now contained in section 9 of Ex. Ord. No. 11858.
 
 The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
 

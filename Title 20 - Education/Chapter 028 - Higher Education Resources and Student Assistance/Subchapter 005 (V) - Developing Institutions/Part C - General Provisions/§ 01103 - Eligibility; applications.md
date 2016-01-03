@@ -36,7 +36,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;(7) describe in a comprehensive manner any proposed project for which funds are sought under the application and include—
 
-&emsp;&emsp;(A) a description of the various components of the proposed project, including theestimated time required to complete each such component;
+&emsp;&emsp;(A) a description of the various components of the proposed project, including the estimated time required to complete each such component;
 
 &emsp;&emsp;(B) in the case of any development project that consists of several components (as described by the institution pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunction with other parts of the development project (as specified by the institution);
 

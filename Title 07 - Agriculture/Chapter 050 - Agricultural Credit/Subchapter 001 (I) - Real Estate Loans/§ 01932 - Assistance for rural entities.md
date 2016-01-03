@@ -108,7 +108,7 @@
 
 (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
 
-(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purposethe loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
+(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
 
 (7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
@@ -250,7 +250,7 @@
 
 #### (2) Grants
 
-&emsp;The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures,start-up and program costs, and other costs necessary to the operation of such demonstrations.
+&emsp;The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
 
 #### (3) Authorization of appropriations
 
@@ -332,7 +332,7 @@
 
 #### (B) Accounts receivable
 
-&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may takeaccounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
+&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
 #### (8) Limitations on loan guarantees for cooperative organizations
 
@@ -412,7 +412,7 @@
 
 #### (h) Loan guarantees for certain loans
 
-The Secretary may guarantee loans made under subsection (a) to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
+The Secretary may guarantee loans made under subsection (a) to finance the issuance ofbonds for the projects described in section 1926(a)(24) of this title.
 
 #### (i) Appropriate technology transfer for rural areas program
 
@@ -636,7 +636,7 @@ Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term "solar energy", for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
+<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term "solar energy", for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the FederalNonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 

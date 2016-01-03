@@ -36,7 +36,7 @@ If it purports to be or is represented as—
 
 &emsp;(1) a food for which a standard of quality has been prescribed by regulations as provided by section 341 of this title, and its quality falls below such standard, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
-&emsp;(2) a food for which a standard or standards of fill of container have been prescribed by regulations as provided by section 341 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard; or
+&emsp;(2) a food for which a standard or standards of fill of container have been prescribed byregulations as provided by section 341 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard; or
 
 &emsp;(3) a food that is pasteurized unless—
 
@@ -58,7 +58,7 @@ If it purports to be or is represented as—
 
 #### (i) Label where no representation as to definition and standard of identity
 
-Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; exceptthat spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
+Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
 
 #### (j) Representation for special dietary use
 
@@ -134,7 +134,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that information shall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
 
-(iii) Regulations issued under subclause (i) shall permit the required information to be provided in each area of an establishment in which raw agricultural commodities and raw fish are offered for sale. The regulations shall permit food retailers to display the required information by supplying copies of the information provided by the Secretary, by making the information available in brochure, notebook or leaflet form, or by posting a sign disclosing the information. Such regulations shall also permit presentation of the required information to be supplemented by a video, live demonstration, or other media which the Secretary approves.
+(iii) Regulations issued under subclause (i) shall permit the required information to be provided in each area of an establishment in whichraw agricultural commodities and raw fish are offered for sale. The regulations shall permit food retailers to display the required information by supplying copies of the information provided by the Secretary, by making the information available in brochure, notebook or leaflet form, or by posting a sign disclosing the information. Such regulations shall also permit presentation of the required information to be supplemented by a video, live demonstration, or other media which the Secretary approves.
 
 (E) For purposes of this subparagraph, the term "fish" includes freshwater or marine fin fish, crustaceans, and mollusks, including shellfish, amphibians, and other forms of aquatic animal life.
 
@@ -228,7 +228,7 @@ Information required to be disclosed by restaurants and retail food establishmen
 
 &emsp;&emsp;(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu and designed to enable the public to understand, in the context of a total daily diet, the significance of the caloric information that is provided on the menu;
 
-&emsp;&emsp;(II)(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu board, including a drive-through menu board, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
+&emsp;&emsp;(II)(aa) in a nutrient content disclosure statement adjacent to the name of the standard menu item, so as to be clearly associated with the standard menu item, on the menu board, including a drive-through menuboard, the number of calories contained in the standard menu item, as usually prepared and offered for sale; and
 
 &emsp;&emsp;(bb) a succinct statement concerning suggested daily caloric intake, as specified by the Secretary by regulation and posted prominently on the menu board, designed to enable the public to understand, in the context of a total daily diet, the significance of the nutrition information that is provided on the menu board;
 
@@ -318,7 +318,7 @@ Contents.—In promulgating regulations, the Secretary shall—
 
 &emsp;&emsp;(III)
 
-Reporting.—The Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a quarterly report that describes the Secretary's progress toward promulgating final regulations under this subparagraph.
+Reporting.—The Secretary shall submit to the Committee on Health, Education,Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a quarterly report that describes the Secretary's progress toward promulgating final regulations under this subparagraph.
 
 &emsp;(xi)
 
@@ -340,7 +340,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(ii) may not state the absence of a nutrient unless—
 
-&emsp;&emsp;(I) the nutrient is usually present in the food or in a food which substitutes for thefood as defined by the Secretary by regulation, or
+&emsp;&emsp;(I) the nutrient is usually present in the food or in a food which substitutes for the food as defined by the Secretary by regulation, or
 
 &emsp;&emsp;(II) the Secretary by regulation permits such a statement on the basis of a finding that such a statement would assist consumers in maintaining healthy dietary practices and the statement discloses that the nutrient is not usually present in the food,
 
@@ -372,7 +372,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the nutrient level to which the claim refers;
 
-&emsp;(iii) the claim and the food for which the claim is made are in compliance with clauses\(A) and (B), and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
+&emsp;(iii) the claim and the food for which the claim is made are in compliance with clauses (A) and (B), and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
 &emsp;(iv) the claim is stated in a manner so that the claim is an accurate representation of the authoritative statement referred to in subclause (i) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
 
@@ -406,7 +406,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 (C) Notwithstanding the provisions of clauses (A)(i) and (B), a claim of the type described in subparagraph (1)(B) which is not authorized by the Secretary in a regulation promulgated in accordance with clause (B) shall be authorized and may be made with respect to a food if—
 
-&emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
+&emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directlyrelating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
 &emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
@@ -440,7 +440,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 (B) Subclauses (iii) through (v) of subparagraph (2)(A) and subparagraph (2)(B) do not apply to food which is served in restaurants or other establishments in which food is served for immediate human consumption or which is sold for sale or use in such establishments.
 
-(C) A subparagraph (1)(A) claim made with respect to a food which claim is required by a standard of identity issued under section 341 of this title shall not be subject to subparagraph (2)(A)(i) or (2)(B).
+(C) A subparagraph (1)(A) claim made with respect to a food which claim is required by astandard of identity issued under section 341 of this title shall not be subject to subparagraph (2)(A)(i) or (2)(B).
 
 (D) A subparagraph (1)(B) claim made with respect to a dietary supplement of vitamins, minerals, herbs, or other similar nutritional substances shall not be subject to subparagraph (3) but shall be subject to a procedure and standard, respecting the validity of such claim, established by regulation of the Secretary.
 
@@ -570,7 +570,7 @@ Notwithstanding subsection (g), (i), or (k) of this section, or any other law, a
 
 If it is a dietary supplement that is marketed in the United States, unless the label of such dietary supplement includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa–1 of this title) may receive a report of a serious adverse event with such dietary supplement.
 
-(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L. 86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat. 411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub. L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 111–148, title IV, §4205(a), (b), Mar. 23, 2010, 124 Stat. 573.)
+(June 25, 1938, ch. 675, §403, 52 Stat. 1047; Pub. L. 86–537, §1, June 29, 1960, 74 Stat. 251; Pub. L. 86–618, title I, §102(a)(3), July 12, 1960, 74 Stat. 398; Pub. L. 91–601, §6(c), formerly §7(c), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–278, title V, §502(a)(1), Apr. 22, 1976, 90 Stat.411; Pub. L. 95–203, §4(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1452, 1453; Pub. L. 101–535, §§2(a), 3(a), 7, Nov. 8, 1990, 104 Stat. 2353, 2357, 2364; Pub. L. 102–108, §2(a), (c), Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(5), (6), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§2(b), 3(j), Aug. 13, 1993, 107 Stat. 773, 776; Pub. L. 103–417, §§6, 7(a)–(c), 10(c), Oct. 25, 1994, 108 Stat. 4329, 4330, 4332; Pub. L. 104–124, §1, Apr. 1, 1996, 110 Stat. 882; Pub. L. 105–115, title III, §§301–305, Nov. 21, 1997, 111 Stat. 2350–2353; Pub. L. 106–554, §1(a)(1) \[title V, §517\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73; Pub. L. 107–171, title X, §§10806(a)(2), (b)(2), 10808(b), May 13, 2002, 116 Stat. 526, 527, 530; Pub. L. 107–188, title III, §308(b), June 12, 2002, 116 Stat. 672; Pub. L. 108–282, title II, §203(a), Aug. 2, 2004, 118 Stat. 906; Pub. L. 109–462, §3(c), Dec. 22, 2006, 120 Stat. 3475; Pub. L. 111–148, title IV, §4205(a), (b), Mar. 23, 2010, 124 Stat. 573.)
 
 #### Amendments
 
@@ -744,7 +744,7 @@ Pub. L. 101–535, §10(c), Nov. 8, 1990, 104 Stat. 2367, as amended by Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–203, §4(a)(2), Nov. 23, 1977, 91 Stat. 1453, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to food introduced or delivered for introduction in interstate commerce on and after the 90th day after the date of the enactment of this Act \[Nov. 23, 1977\]."
+Pub. L. 95–203, §4(a)(2), Nov. 23, 1977, 91 Stat. 1453, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply only with respect to food introduced or delivered for introduction in interstate commerce on and after the 90th day after the date of the enactment of this Act \[Nov. 23, 1977\]."
 
 Pub. L. 95–203, §4(b)(2), Nov. 23, 1977, 91 Stat. 1453, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to food which is sold in retail establishments on or after the 90th day after the effective date of the regulations of the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\] under paragraph (p)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(p)(4)\]."
 
@@ -838,7 +838,7 @@ Pub. L. 101–535, §2(b), Nov. 8, 1990, 104 Stat. 2356, as amended by Pub. L. 1
 
 "(3) If the Secretary of Health and Human Services does not promulgate final regulations under section 403(q)(4) of the Federal Food, Drug, and Cosmetic Act upon the expiration of 6 months after the date on which the Secretary makes a finding that there has been no substantial compliance with section 403(q)(4)(C) of such Act, the proposed regulations issued in accordance with such section shall be considered as the final regulations upon the expiration of such 6 months. There shall be promptly published in the Federal Register notice of new status of the proposed regulations."
 
-\[Pub. L. 102–571, title II, §202(a)(2)(C), Oct. 29, 1992, 106 Stat. 4501, provided that: "The amendments made bysubparagraph (B) \[amending sections 2(b) and 3(b) of Pub. L. 101–535, set out above and below\] shall not be construed to modify the effective date of final regulations under sections 2(b) and 3(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\] (21 U.S.C. 343 note) with respect to foods that are not such dietary supplements."\]
+\[Pub. L. 102–571, title II, §202(a)(2)(C), Oct. 29, 1992, 106 Stat. 4501, provided that: "The amendments made by subparagraph (B) \[amending sections 2(b) and 3(b) of Pub. L. 101–535, set out above and below\] shall not be construed to modify the effective date of final regulations under sections 2(b) and 3(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\] (21 U.S.C. 343 note) with respect to foods that are not such dietary supplements."\]
 
 Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 102–571, title II, §202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that:
 
@@ -886,7 +886,7 @@ Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 1
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Rulemaking on Labeling
 

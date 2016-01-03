@@ -32,7 +32,7 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 
 <b>1987</b>—Pub. L. 100–202 substituted "direction of the Commission of Fine Arts" for "direction of the National Endowment for the Humanities" in first par. and amended third par. generally. Prior to amendment, third par. read as follows: "The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named."
 
-<b>1986</b>—Pub. L. 99–500 and Pub. L. 99–591 substituted "whose primary purpose is" for "which are engaged primarily in" in first par. and "annual income, exclusive of Federal Funds," for "an annual operating budget", "operating budget", and "operating budgets" in third and fourth pars.
+<b>1986</b>—Pub. L. 99–500 and Pub. L. 99–591 substituted "whose primary purpose is" for "which are engaged primarily in" in first par. and "annual income, exclusive of Federal Funds," for "an annual operating budget","operating budget", and "operating budgets" in third and fourth pars.
 
 #### Redesignation of Capital Children's Museum as National Children's Museum
 

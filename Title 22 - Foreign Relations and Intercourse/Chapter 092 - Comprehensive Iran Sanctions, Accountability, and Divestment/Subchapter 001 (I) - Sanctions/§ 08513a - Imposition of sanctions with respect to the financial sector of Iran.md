@@ -30,7 +30,7 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 #### (2) Exception for sales of agricultural commodities, food, medicine, and medical devices
 
-&emsp;The President may not impose sanctions under paragraph (1) with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran.
+&emsp;The President may not impose sanctions under paragraph (1) with respect to any personfor conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices to Iran.
 
 #### (3) Applicability of sanctions with respect to foreign central banks
 
@@ -209,6 +209,10 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2016–03, Nov. 18, 2015, 80 F.R. 75921.
+
+Determination of President of the United States, No. 2015–06, May 19, 2015, 80 F.R. 32851.
 
 Determination of President of the United States, No. 2015–02, Nov. 21, 2014, 79 F.R. 71619.
 

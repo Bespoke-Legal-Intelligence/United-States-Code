@@ -10,7 +10,7 @@ Until a multichannel video programming distributor complies with the requirement
 
 #### (c) "Scramble" defined
 
-As used in this section, the term "scramble" means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.
+As used in this section, the term "scramble" means to rearrange the content of the signal ofthe programming so that the programming cannot be viewed or heard in an understandable manner.
 
 (June 19, 1934, ch. 652, title VI, §641, as added Pub. L. 104–104, title V, §505(a), Feb. 8, 1996, 110 Stat. 136.)
 

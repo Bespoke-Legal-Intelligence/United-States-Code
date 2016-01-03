@@ -8,7 +8,7 @@ If the damage or attempted damage to such property exceeds the sum of $1,000, by
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §82 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., §82 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015;June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 The embezzlement and theft provisions of section 82 of title 18, U.S.C., 1940 ed., are now incorporated in section 641 of this title.
 

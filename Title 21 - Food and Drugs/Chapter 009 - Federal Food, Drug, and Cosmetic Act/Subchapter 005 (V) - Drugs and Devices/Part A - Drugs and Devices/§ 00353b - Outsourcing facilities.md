@@ -30,7 +30,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (3) Ingredients (other than bulk drug substances)
 
-&emsp;If any ingredients (other than bulk drug substances) are used in compounding the drug, such ingredients comply with the standards of the applicable United States Pharmacopeia or National Formulary monograph, if such monograph exists, or of another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph if any.
+&emsp;If any ingredients (other than bulk drug substances) are used in compounding the drug,such ingredients comply with the standards of the applicable United States Pharmacopeia or National Formulary monograph, if such monograph exists, or of another compendium or pharmacopeia recognized by the Secretary for purposes of this paragraph if any.
 
 #### (4) Drugs withdrawn or removed because unsafe or not effective
 
@@ -202,7 +202,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (A) In general
 
-&emsp;&emsp;Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such <sup>1</sup> subsection by—
+&emsp;&emsp;Before the effective date of the regulations finalized to implement subsection (a)(6), theSecretary may designate drugs, categories of drugs, or conditions as described such <sup>1</sup> subsection by—
 
 &emsp;&emsp;&emsp;(i) publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
 

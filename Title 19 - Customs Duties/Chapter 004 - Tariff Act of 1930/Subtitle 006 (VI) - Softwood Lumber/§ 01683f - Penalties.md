@@ -18,7 +18,7 @@ In determining the amount of civil penalties to be assessed under this section, 
 
 #### (e) Notice
 
-No penalty may be assessed under this section against a person for violating a provision of thissubtitle unless the person is given notice and opportunity to make statements, both oral and written, with respect to such violation.
+No penalty may be assessed under this section against a person for violating a provision of this subtitle unless the person is given notice and opportunity to make statements, both oral and written, with respect to such violation.
 
 #### (f) Exception
 
@@ -34,7 +34,7 @@ Notwithstanding any other provision of this subtitle, and without limitation, an
 
 #### References in Text
 
-Section 1683a of this title, referred to in subsec. (f), was in the original section "803", and was translated as meaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
+Section 1683a of this title, referred to in subsec. (f), was in the original section "803", and was translated asmeaning the section 803 of act June 17, 1930, as added by section 3301(a) of Pub. L. 110–246, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

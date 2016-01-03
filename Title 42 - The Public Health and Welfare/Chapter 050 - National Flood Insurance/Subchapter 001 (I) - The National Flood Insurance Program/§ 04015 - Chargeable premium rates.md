@@ -62,7 +62,7 @@ Except with respect to properties described under paragraph (2) of subsection (c
 
 &emsp;(2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under section 4014(a)(2) of this title within any single risk classification, excluding properties for which the chargeable risk premium rate is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
 
-&emsp;(3) the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount thatwould result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 15 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
+&emsp;(3) the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 15 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
 
 &emsp;(4) the chargeable risk premium rates for flood insurance under this chapter for any properties described in subparagraphs (A) through (E) of section 4014(a)(2) of this title shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (3).
 
@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, if the Administrator determines that
 
 #### (g) Frequency of premium collection
 
-With respect to any chargeable premium rate prescribed under this section, the Administrator shall provide policyholders that are not required to escrow their premiums and fees for flood insurance as set forth under section 4012a of this title with the option of paying their premiums annually or monthly.
+With respect to any chargeable premium rate prescribed under this section, the Administrator shall provide policyholders that are not required to escrow their premiums and fees for flood insurance as set forth under section 4012a of thistitle with the option of paying their premiums annually or monthly.
 
 #### (h) Rule of construction
 
@@ -122,7 +122,7 @@ The Administrator shall clearly communicate full flood risk determinations to in
 
 &emsp;If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727; Pub.L. 112–123, §2(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100205(c), (d), 100207, 100211, 100238(b)(1), July 6, 2012, 126 Stat. 918, 919, 921, 958; Pub. L. 113–89, §§4(a), 5–7, 11(a), 26(b), 28, 29, Mar. 21, 2014, 128 Stat. 1022, 1023, 1025, 1033.)
+(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727; Pub. L. 112–123, §2(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100205(c), (d), 100207, 100211, 100238(b)(1), July 6, 2012, 126 Stat. 918, 919, 921, 958; Pub. L. 113–89, §§4(a), 5–7, 11(a), 26(b), 28, 29, Mar. 21, 2014, 128 Stat. 1022, 1023, 1025, 1033.)
 
 #### References in Text
 
@@ -220,7 +220,7 @@ Pub. L. 112–123, §2(c), May 31, 2012, 126 Stat. 365, provided that: "The firs
 
 #### Construction of Amendment by Pub. L. 112–141
 
-Pub. L. 112–141, div. F, title II, §100205(e), July 6, 2012, 126 Stat. 919, provided that: "Nothing in this section \[amending this section and section 4014 of this title and enacting provisions set out as a note under section 4014 of this title\] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled 'An Act to extend the National Flood Insurance Program, and for other purposes', approved May 31, 2012 (Public Law 112–123) \[set out above\], that the first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012."
+Pub. L. 112–141, div. F, title II, §100205(e), July 6, 2012, 126 Stat. 919, provided that: "Nothing in this section \[amending this section and section 4014 of this title and enacting provisions set out as a note under section 4014 of this title\] or the amendments made by this section may be construed to affect the requirement under section 2(c) of the Act entitled 'An Act to extend the National Flood Insurance Program, and for other purposes', approved May 31, 2012 (Public Law 112–123) \[set out above\], that the first increase in chargeable riskpremium rates for residential properties which are not the primary residence of an individual take effect on July 1, 2012."
 
 #### Transfer of Functions
 

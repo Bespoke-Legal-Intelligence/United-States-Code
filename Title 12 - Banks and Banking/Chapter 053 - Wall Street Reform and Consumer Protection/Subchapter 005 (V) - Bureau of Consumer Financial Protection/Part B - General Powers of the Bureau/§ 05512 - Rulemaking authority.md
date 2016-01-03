@@ -8,7 +8,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (1) General authority
 
-&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectivesof the Federal consumer financial laws, and to prevent evasions thereof.
+&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions thereof.
 
 #### (2) Standards for rulemaking
 
@@ -28,7 +28,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, by rule, may conditionally or unconditionally exempt any class of covered persons, service providers, or consumer financial products or services, from any provision of this title,<sup>1</sup> or from any rule issued under this title,<sup>1</sup> as the Bureau determines necessary or appropriate to carry out the purposes and objectives of this title,<sup>1</sup> taking into consideration the factors in subparagraph (B).
+&emsp;&emsp;The Bureau, by rule, may conditionally or unconditionally exempt any class of coveredpersons, service providers, or consumer financial products or services, from any provision of this title,<sup>1</sup> or from any rule issued under this title,<sup>1</sup> as the Bureau determines necessary or appropriate to carry out the purposes and objectives of this title,<sup>1</sup> taking into consideration the factors in subparagraph (B).
 
 #### (B) Factors
 
@@ -80,7 +80,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Confidential information
 
-&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under thissection as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
+&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under this section as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
 
 #### (4) Collection of information
 
@@ -142,7 +142,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (C) Consultation with State agencies
 
-&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (includingcoordinated or combined systems for registration), where appropriate.
+&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (including coordinated or combined systems for registration), where appropriate.
 
 #### (8) Privacy considerations
 
@@ -187,6 +187,66 @@ The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii)
 #### Effective Date
 
 Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under section 5511 of this title.
+
+#### Designation of Rural Area
+
+Pub. L. 114–94, div. G, title LXXXIX, §89002, Dec. 4, 2015, 129 Stat. 1799, provided that:
+
+"(a)
+
+Application.—Not later than 90 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Bureau of Consumer Financial Protection shall establish an application process under which a person who lives or does business in a State may, with respect to an area identified by the person in such State that has not been designated by the Bureau as a rural area for purposes of a Federal consumer financial law (as defined under section 1002 of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5481\]), apply for such area to be so designated.
+
+"(b)
+
+Evaluation Criteria.—When evaluating an application submitted under subsection (a), the Bureau shall take into consideration the following factors:
+
+&emsp;"(1) Criteria used by the Director of the Bureau of the Census for classifying geographical areas as rural or urban.
+
+&emsp;"(2) Criteria used by the Director of the Office of Management and Budget to designate counties as metropolitan or micropolitan or neither.
+
+&emsp;"(3) Criteria used by the Secretary of Agriculture to determine property eligibility for rural development programs.
+
+&emsp;"(4) The Department of Agriculture rural-urban commuting area codes.
+
+&emsp;"(5) A written opinion provided by the State's bank supervisor, as defined under section 3(r) of the Federal Deposit Insurance Act (12 U.S.C. 1813(r)).
+
+&emsp;"(6) Population density.
+
+"(c)
+
+Rule of Construction.—If, at any time prior to the submission of an application under subsection (a), the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation.
+
+"(d)
+
+Public Comment Period.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after receiving an application submitted under subsection (a), the Bureau shall—
+
+&emsp;&emsp;"(A) publish such application in the Federal Register; and
+
+&emsp;&emsp;"(B) make such application available for public comment for not fewer than 90 days.
+
+&emsp;"(2)
+
+Limitation on additional applications.—Nothing in this section shall be construed to require the Bureau, during the public comment period with respect to an application submitted under subsection (a), to accept an additional application with respect to the area that is the subject of the initial application.
+
+"(e)
+
+Decision on Designation.—Not later than 90 days after the end of the public comment period under subsection (d)(1) for an application, the Bureau shall—
+
+&emsp;"(1) grant or deny such application, in whole or in part; and
+
+&emsp;"(2) publish such grant or denial in the Federal Register, along with an explanation of what factors the Bureau relied on in making such determination.
+
+"(f)
+
+Subsequent Applications.—A decision by the Bureau under subsection (e) to deny an application for an area to be designated as a rural area shall not preclude the Bureau from accepting a subsequent application submitted under subsection (a) for such area to be so designated, so long as such subsequent application is made after the end of the 90-day period beginning on the date that the Bureau denies the application under subsection (e).
+
+"(g)
+
+Sunset.—This section shall cease to have any force or effect after the end of the 2-year period beginning on the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

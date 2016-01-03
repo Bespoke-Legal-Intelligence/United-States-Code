@@ -40,7 +40,7 @@ The notice provided under subsection (a) of this section shall include—
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title IV, §4311(a)(2), Aug. 5, 1997, 111 Stat. 384, provided that: "The amendment made by this subsection \[amending this section\] shall apply to notices provided on or after January 1, 1998."
+Pub. L. 105–33, title IV, §4311(a)(2), Aug. 5, 1997, 111 Stat. 384, provided that: "The amendment made by thissubsection \[amending this section\] shall apply to notices provided on or after January 1, 1998."
 
 #### Effective Date of 1994 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 108–173, title IX, §923(d)(2), Dec. 8, 2003, 117 Stat. 2395, provided
 
 "(A)
 
-Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
+Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
 
 "(B)
 

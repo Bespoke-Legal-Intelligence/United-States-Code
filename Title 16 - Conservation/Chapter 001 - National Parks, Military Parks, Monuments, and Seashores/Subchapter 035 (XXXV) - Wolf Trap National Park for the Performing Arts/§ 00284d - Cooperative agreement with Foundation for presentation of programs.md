@@ -18,7 +18,7 @@ A cooperative agreement under this section shall provide that—
 
 &emsp;(1) the Secretary and the Comptroller General of the United States or their duly authorized representatives shall have access to any pertinent books, documents, papers, and records of the Foundation to make audits, examinations, excerpts, and transcripts;
 
-&emsp;(2) the Foundation shall prepare an annual report to the Secretary, which shall also be submitted to the appropriate committees ofthe United States House of Representatives and the United States Senate, summarizing the activities of the previous year (together with a comparison of goals and objectives with actual accomplishments) and presenting a plan for the forthcoming year;
+&emsp;(2) the Foundation shall prepare an annual report to the Secretary, which shall also be submitted to the appropriate committees of the United States House of Representatives and the United States Senate, summarizing the activities of the previous year (together with a comparison of goals and objectives with actual accomplishments) and presenting a plan for the forthcoming year;
 
 &emsp;(3) such cooperative agreement may be terminated at the convenience of the United States if the Secretary determines that such termination is required in the public interest; and
 

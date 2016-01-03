@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—For each fiscal year, new budget authority provided in an appropriationsAct for the covered accounts of the Department shall—
+In General.—For each fiscal year, new budget authority provided in an appropriations Act for the covered accounts of the Department shall—
 
 &emsp;(1) be made available for that fiscal year; and
 
@@ -44,11 +44,9 @@ Pub. L. 113–235, §244(a)(1), substituted "covered accounts of the Department"
 
 Subsec. (b). Pub. L. 113–235, §244(a)(1), substituted "covered accounts of the Department" for "medical care accounts of the Department".
 
-Subsec. (c). Pub. L. 113–235, §244(a)(3)(G), substituted "Covered Accounts of the Department" for "Medical Care Accounts" in heading.
+Subsec. (c). Pub. L. 113–235, §244(a)(1), (3)(A), (G), in heading, substituted "Covered Accounts of the Department" for "Medical Care Accounts" and, in introductory provisions, substituted "covered accounts of the Department" for "medical care accounts of the Department" and "accounts of the Department of Veterans Affairs account" for "medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account".
 
-Pub. L. 113–235, §244(a)(1), (3)(A), in introductory provisions, substituted "covered accounts of the Department" for "medical care accounts of the Department" and "accounts of the Department of Veterans Affairs account" for "medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account".
-
-Subsec. (c)(1)–(6). Pub. L. 113–235, §244(a)(3)(B)–(F), inserted "Veterans Health Administration," after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+Subsec. (c). Pub. L. 113–235, §244(a)(3)(B)–(F), inserted "Veterans Health Administration," after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
 #### Effective Date of 2014Amendment
 

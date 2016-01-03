@@ -28,7 +28,7 @@ Subject to subsection (c)(1) of this section, it shall be considered discriminat
 
 #### (B) Vehicles of historic character defined by regulations
 
-&emsp;&emsp;For purposes of this paragraph and section 12148(b) of this title, a vehicle of historic character shall be defined by the regulationsissued by the Secretary to carry out this subsection.
+&emsp;&emsp;For purposes of this paragraph and section 12148(b) of this title, a vehicle of historic character shall be defined by the regulations issued by the Secretary to carry out this subsection.
 
 (Pub. L. 101–336, title II, §222, July 26, 1990, 104 Stat. 339.)
 

@@ -56,7 +56,7 @@ In general.—The appropriate Federal banking agencies, acting through the Feder
 
 Requirements.—An examination improvement program meets the requirements of this paragraph if, under the program, the agency is required—
 
-&emsp;"(A) to periodically review the organization and training of the staff of the agency who are responsible for conducting examinations of insured depository institutions and to make such improvements as the agency determines to be appropriate to ensurefrequent, objective, and thorough examinations of such institutions; and
+&emsp;"(A) to periodically review the organization and training of the staff of the agency who are responsible for conducting examinations of insured depository institutions and to make such improvements as the agency determines to be appropriate to ensure frequent, objective, and thorough examinations of such institutions; and
 
 &emsp;"(B) to increase the number of examiners, supervisors, and other individuals employed by the agency in connection with conducting or supervising examinations of insured depository institutions to the extent necessary to ensure frequent, objective, and thorough examinations of such institutions."
 
@@ -66,7 +66,7 @@ Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, provided that
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, inconsultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
 
 &emsp;"(1) review the policies and procedures, and recordkeeping and documentation requirements used to monitor and enforce compliance with—
 

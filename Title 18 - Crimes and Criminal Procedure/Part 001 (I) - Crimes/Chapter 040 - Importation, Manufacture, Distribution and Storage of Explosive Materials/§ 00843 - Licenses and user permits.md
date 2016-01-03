@@ -1,6 +1,6 @@
 ### §843. Licenses and user permits
 
-(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
+(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to becharged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
 
 (b) Upon the filing of a proper application and payment of the prescribed fee, and subject to the provisions of this chapter and other applicable laws, the Attorney General shall issue to such applicant the appropriate license or permit if—
 
@@ -22,7 +22,7 @@
 
 (c) The Attorney General shall approve or deny an application within a period of 90 days for licenses and permits, beginning on the date such application is received by the Attorney General.
 
-(d) The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by theAttorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary's <sup>2</sup> action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
+(d) The Attorney General may revoke any license or permit issued under this section if in the opinion of the Attorney General the holder thereof has violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter, or has become ineligible to acquire explosive materials under section 842(d). The Secretary's <sup>2</sup> action under this subsection may be reviewed only as provided in subsection (e)(2) of this section.
 
 (e)(1) Any person whose application is denied or whose license or permit is revoked shall receive a written notice from the Attorney General stating the specific grounds upon which such denial or revocation is based. Any notice of a revocation of a license or permit shall be given to the holder of such license or permit prior to or concurrently with the effective date of the revocation.
 
@@ -114,7 +114,7 @@ Exception.—Notwithstanding any provision of this Act \[see Tables for classifi
 
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 
-Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring a license or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
+Filing of application for a license or permit prior to the effective date of this section as authorizing any person engaged in a business or operation requiring alicense or a permit on Oct. 15, 1970 to continue such business or operation pending final action on such application, see section 1105(c) of Pub. L. 91–452, set out as a note under section 841 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Attorney General".</i>
 

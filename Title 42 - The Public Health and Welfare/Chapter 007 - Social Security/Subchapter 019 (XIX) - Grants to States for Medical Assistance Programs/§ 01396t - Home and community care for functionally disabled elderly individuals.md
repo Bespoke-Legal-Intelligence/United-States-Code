@@ -132,7 +132,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with the individual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2) of this section;
 
-&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home andcommunity care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
+&emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home and community care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
 
 &emsp;&emsp;(C) may specify other services required by such individual.
 
@@ -276,7 +276,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to havefailed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -302,7 +302,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Special reviews of compliance
 
-&emsp;&emsp;Where the Secretary has reason to question the compliance of a provider of home or community care with any of the requirements of subsection (f) of this section, the Secretary may conduct a review of the provider and, on the basis of that review, make independent and binding determinations concerning the extent to which the provider meets such requirements.
+&emsp;&emsp;Where the Secretary has reason to question the compliance of a provider of home orcommunity care with any of the requirements of subsection (f) of this section, the Secretary may conduct a review of the provider and, on the basis of that review, make independent and binding determinations concerning the extent to which the provider meets such requirements.
 
 #### (3) Surveys of community care settings
 
@@ -382,7 +382,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) For State providers
 
-&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall havethe authority and duties of a State under this subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
+&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall have the authority and duties of a State under this subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
 
 #### (B) Other providers
 

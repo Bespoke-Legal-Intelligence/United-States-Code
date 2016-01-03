@@ -28,9 +28,9 @@
 
 &emsp;&emsp;(iii) refers to particular types of records to be withheld from the Comptroller General; or
 
-&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, the President or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
+&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, thePresident or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
 
-(2) The President or the Director may not delegate certification under paragraph (1)(C) ofthis subsection. A certification shall include a complete explanation of the reasons for the certification.
+(2) The President or the Director may not delegate certification under paragraph (1)(C) of this subsection. A certification shall include a complete explanation of the reasons for the certification.
 
 (e)(1) The Comptroller General shall maintain the same level of confidentiality for a record made available under this section as is required of the head of the agency from which it is obtained. Officers and employees of the Government Accountability Office are subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the agency.
 

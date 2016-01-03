@@ -16,7 +16,7 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 (B) Subject to the availability of appropriations, a repayment of an advance payment under subparagraph (A) shall be made from funds available to a military department for the purchase of utility services.
 
-(C) An agreement under paragraph (3) shall provide that title to a water-saving device ortechnology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
+(C) An agreement under paragraph (3) shall provide that title to a water-saving device or technology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
 (b)
 
@@ -38,7 +38,7 @@ Use of Financial Incentives and Water Cost Savings.—(1) Financial incentives r
 
 (c)
 
-Water Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise made available to the Secretary for water conservation.
+Water Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise madeavailable to the Secretary for water conservation.
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 

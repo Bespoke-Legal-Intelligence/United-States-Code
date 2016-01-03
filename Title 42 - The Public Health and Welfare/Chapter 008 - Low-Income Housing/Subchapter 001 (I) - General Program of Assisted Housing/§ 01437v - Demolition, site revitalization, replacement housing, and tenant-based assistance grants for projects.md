@@ -26,7 +26,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
-&emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L) of this section, provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
+&emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph\(A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L) of this section, provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
 
 #### (2) Supplemental funds
 
@@ -40,7 +40,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) In general
 
-&emsp;Grants under this section may be used for activities to carry out revitalization programsfor severely distressed public housing, including—
+&emsp;Grants under this section may be used for activities to carry out revitalization programs for severely distressed public housing, including—
 
 &emsp;&emsp;(A) architectural and engineering work;
 
@@ -172,7 +172,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Supportive services
 
-&emsp;The term "supportive services" includes all activities that will promote upward mobility,self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
+&emsp;The term "supportive services" includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
 
 #### (k) Grantee reporting
 
@@ -196,7 +196,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2015.
+&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2016.
 
 #### (2) Technical assistance and program oversight
 
@@ -256,7 +256,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Application
 
-&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smallercommunities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
 
 #### (B) Selection criteria
 
@@ -298,9 +298,9 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (o) Sunset
 
-No assistance may be provided under this section after September 30, 2015.
+No assistance may be provided under this section after September 30, 2016.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437; Pub. L. 111–8, div. I, title II, §223, Mar. 11, 2009, 123 Stat. 976; Pub. L. 111–117, div. A, title II, §222, Dec. 16, 2009, 123 Stat. 3101; Pub. L. 112–55, div. C, title II, §222, Nov. 18, 2011, 125 Stat. 699; Pub. L. 113–76, div. L, title II, §234, Jan. 17, 2014, 128 Stat. 634; Pub. L. 113–235, div. K, title II, §229, Dec. 16, 2014, 128 Stat. 2756.)
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437; Pub. L. 111–8, div. I, title II, §223, Mar. 11, 2009, 123 Stat. 976; Pub. L. 111–117, div. A, title II, §222, Dec. 16, 2009, 123 Stat. 3101; Pub. L. 112–55, div. C, title II, §222, Nov. 18, 2011, 125 Stat. 699; Pub. L. 113–76, div. L, title II, §234, Jan. 17, 2014, 128 Stat. 634; Pub. L. 113–235, div. K, title II, §229, Dec. 16, 2014, 128 Stat. 2756; Pub. L. 114–113, div. L, title II, §228, Dec. 18, 2015, 129 Stat. 2895.)
 
 #### References in Text
 
@@ -309,6 +309,10 @@ Section 1437l of this title, referred to in subsec. (j)(2)(A)(iv), was repealed 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (m)(1). Pub. L. 114–113, §228(1), substituted "fiscal year 2016." for "fiscal year 2015."
+
+Subsec. (o). Pub. L. 114–113, §228(2), substituted "September 30, 2016." for "September 30, 2015."
 
 <b>2014</b>—Subsec. (m)(1). Pub. L. 113–235, §229(1), substituted "fiscal year 2015." for "fiscal year 2014."
 
@@ -340,7 +344,7 @@ Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted "Septemb
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selection criteria for the award of grants under this section andshall include such factors as—" in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out "large-scale" after "for managing".
 

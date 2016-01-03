@@ -28,7 +28,7 @@ Indemnification.—Under such regulations in conformity with this section as the
 
 Terms of Indemnification Agreement.—An agreement made under subsection (c) that provides indemnification must also provide for—
 
-&emsp;(1) notice to the United States of any claim or suit against the user for the death, bodily injury, or loss of or damage to the property; and
+&emsp;(1) notice to the United States of any claim or suit against the user for the death, bodilyinjury, or loss of or damage to the property; and
 
 &emsp;(2) control of or assistance in the defense by the United States, at its election, of that suit or claim.
 

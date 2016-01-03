@@ -38,7 +38,7 @@
 
 #### (B) OMB estimates and explanation of differences
 
-&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+&emsp;&emsp;Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing both the CBO and OMB estimates of the amount of discretionary new budget authority for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
 
 #### (C) Assumptions and guidelines
 
@@ -46,7 +46,7 @@
 
 #### (D) Annual appropriations
 
-&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
+&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget yearin accounts for which funding is provided in that legislation that result from previously enacted legislation.
 
 #### (b) Adjustments to discretionary spending limits
 
@@ -70,7 +70,7 @@
 
 #### (B) Continuing disability reviews and redeterminations
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -82,23 +82,23 @@
 
 &emsp;&emsp;&emsp;(V) for fiscal year 2016, $1,166,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(VI) for fiscal year 2017, $1,309,000,000 in additional new budget authority;
+&emsp;&emsp;&emsp;(VI) for fiscal year 2017, $1,546,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(VII) for fiscal year 2018, $1,309,000,000 in additional new budget authority;
+&emsp;&emsp;&emsp;(VII) for fiscal year 2018, $1,462,000,000 in additional new budget authority;
 
-&emsp;&emsp;&emsp;(VIII) for fiscal year 2019, $1,309,000,000 in additional new budget authority;
+&emsp;&emsp;&emsp;(VIII) for fiscal year 2019, $1,410,000,000 in additional new budget authority;
 
 &emsp;&emsp;&emsp;(IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
 
-&emsp;&emsp;&emsp;(X) for fiscal year 2021, $1,309,000,000 in additional new budget authority.
+&emsp;&emsp;&emsp;(X) for fiscal year 2021, $1,302,000,000 in additional new budget authority.
 
 &emsp;&emsp;(ii) As used in this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term "continuing disability reviews" means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\];
+&emsp;&emsp;&emsp;(I) the term "continuing disability reviews" means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[42 U.S.C. 421(i), 1382c(a)(4)\], including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity;
 
 &emsp;&emsp;&emsp;(II) the term "redetermination" means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act \[42 U.S.C. 1382(c)(1), 1382c(a)(3)(H)\]; and
 
-&emsp;&emsp;&emsp;(III) the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading "Limitation on Administrative Expenses" for the Social Security Administration.
+&emsp;&emsp;&emsp;(III) the term "additional new budget authority" means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews, redeterminations, co-operative disability investigation units, and fraud prosecutions under the heading "Limitation on Administrative Expenses" for the Social Security Administration.
 
 #### (C) Health care fraud and abuse control
 
@@ -158,15 +158,15 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 &emsp;(3) for fiscal year 2016—
 
-&emsp;&emsp;(A) for the revised security category, $577,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the revised security category, $548,091,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category $518,491,000,000 in new budget authority;
 
 &emsp;(4) for fiscal year 2017—
 
-&emsp;&emsp;(A) for the revised security category, $590,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the revised security category, $551,068,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $518,531,000,000 in new budget authority;
 
 &emsp;(5) for fiscal year 2018—
 
@@ -194,7 +194,7 @@ As used in this subchapter, the term "discretionary spending limit" means—
 
 > as adjusted in strict conformance with subsection (b).
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035.)
 
 #### References in Text
 
@@ -205,6 +205,24 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(7)(B). Pub. L. 114–113 substituted "both the CBO and OMB estimates of the amount of discretionary new budget authority" for "the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays".
+
+Subsec. (b)(2)(B)(i). Pub. L. 114–74, §815(1)(A), in introductory provisions, substituted ", for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys" for "and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act".
+
+Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, §815(1)(B), substituted "$1,546,000,000" for "$1,309,000,000".
+
+Subsec. (b)(2)(B)(i)(VII). Pub. L. 114–74, §815(1)(C), substituted "$1,462,000,000" for "$1,309,000,000".
+
+Subsec. (b)(2)(B)(i)(VIII). Pub. L. 114–74, §815(1)(D), substituted "$1,410,000,000" for "$1,309,000,000".
+
+Subsec. (b)(2)(B)(i)(X). Pub. L. 114–74, §815(1)(E), substituted "$1,302,000,000" for "$1,309,000,000".
+
+Subsec. (b)(2)(B)(ii)(I). Pub. L. 114–74, §815(2), inserted before semicolon ", including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity".
+
+Subsec. (b)(2)(B)(ii)(III). Pub. L. 114–74, §815(3), substituted ", redeterminations, co-operative disability investigation units, and fraud prosecutions" for "and redeterminations".
+
+Subsec. (c)(3), (4). Pub. L. 114–74, §101(a), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined discretionary spending limits for fiscal years 2016 and 2017.
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
 
@@ -318,7 +336,7 @@ Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out "and" before "contra
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L.105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -340,7 +358,7 @@ Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended 
 
 "(a)
 
-Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
+Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget andEmergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
 &emsp;"(1) for fiscal year 2005, $35,164,292,000;
 

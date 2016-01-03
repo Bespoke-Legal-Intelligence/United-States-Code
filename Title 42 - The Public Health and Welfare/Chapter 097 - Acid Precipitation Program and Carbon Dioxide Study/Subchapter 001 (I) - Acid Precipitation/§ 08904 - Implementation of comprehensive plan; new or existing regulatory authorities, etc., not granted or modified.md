@@ -1,6 +1,6 @@
 ### §8904. Implementation of comprehensive plan; new or existing regulatory authorities, etc., not granted or modified
 
-(a) The comprehensive plan shall be carried out during the nine fiscal years following thefiscal year in which the comprehensive plan is submitted in its final form under section 8903(c)(3) of this title; and—
+(a) The comprehensive plan shall be carried out during the nine fiscal years following the fiscal year in which the comprehensive plan is submitted in its final form under section 8903(c)(3) of this title; and—
 
 &emsp;(1) shall be carried out in accord with, and meet the program objectives specified in, paragraphs (1) through (11) of section 8903(b) of this title;
 

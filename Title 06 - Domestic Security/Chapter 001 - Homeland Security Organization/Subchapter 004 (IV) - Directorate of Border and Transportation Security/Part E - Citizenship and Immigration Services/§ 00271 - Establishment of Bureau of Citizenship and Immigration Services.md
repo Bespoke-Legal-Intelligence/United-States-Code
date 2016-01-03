@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(D) shall establish national immigration services policies and priorities;
 
-&emsp;&emsp;(E) shall meet regularly with the Ombudsman described in section 272 of this title tocorrect serious service problems identified by the Ombudsman; and
+&emsp;&emsp;(E) shall meet regularly with the Ombudsman described in section 272 of this title to correct serious service problems identified by the Ombudsman; and
 
 &emsp;&emsp;(F) shall establish procedures requiring a formal response to any recommendations submitted in the Ombudsman's annual report to Congress within 3 months after its submission to Congress.
 
@@ -124,13 +124,13 @@ In accordance with subchapter XII (relating to transition provisions), there are
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov.25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 For the effective date specified in section 455, referred to in subsecs. (a)(4) and (b), see Effective Date note below.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g) which established an Office of the FBI Liaison in the Department of Homeland Security, defined its functions, and authorized appropriations. See Termination Date of 2008 Amendment note below.
+<b>2008</b>—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g) which established an Office ofthe FBI Liaison in the Department of Homeland Security, defined its functions, and authorized appropriations. See Termination Date of 2008 Amendment note below.
 
 #### Change of Name
 

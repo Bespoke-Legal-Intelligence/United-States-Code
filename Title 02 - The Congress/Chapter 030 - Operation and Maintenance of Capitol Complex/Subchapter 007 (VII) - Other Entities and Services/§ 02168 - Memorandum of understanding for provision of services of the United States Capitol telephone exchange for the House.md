@@ -18,7 +18,7 @@ For any period during which a memorandum of understanding is in effect pursuant 
 
 In carrying out a memorandum of understanding pursuant to this section, the Sergeant at Arms and Doorkeeper shall ensure that, with respect to any employee of the United States Capitol telephone exchange whose employing authority prior to the effective date of the memorandum was the Chief Administrative Officer—
 
-&emsp;(1) the rate of pay and leave accrual for the employee shall not be less than the employee's rate of pay and leave accrual for the most recent pay period prior to such date, unless—
+&emsp;(1) the rate of pay and leave accrual for the employee shall not be less than the employee'srate of pay and leave accrual for the most recent pay period prior to such date, unless—
 
 &emsp;&emsp;(A) the employee does not remain in the same position with the exchange; or
 

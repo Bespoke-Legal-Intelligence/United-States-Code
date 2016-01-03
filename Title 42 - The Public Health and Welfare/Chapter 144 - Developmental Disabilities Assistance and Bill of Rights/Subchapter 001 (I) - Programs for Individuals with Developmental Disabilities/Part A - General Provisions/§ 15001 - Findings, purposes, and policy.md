@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) disability is a natural part of the human experience that does not diminish the right of individuals with developmental disabilities to live independently, to exert control and choice over their own lives, and to fully participate in and contribute to their communities through full integration and inclusion in the economic, political, social, cultural, and educational mainstream of United States society;
+&emsp;(1) disability is a natural part of the human experience that does not diminish the right ofindividuals with developmental disabilities to live independently, to exert control and choice over their own lives, and to fully participate in and contribute to their communities through full integration and inclusion in the economic, political, social, cultural, and educational mainstream of United States society;
 
 &emsp;(2) in 1999, there were between 3,200,000 and 4,500,000 individuals with developmental disabilities in the United States, and recent studies indicate that individuals with developmental disabilities comprise between 1.2 and 1.65 percent of the United States population;
 
@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(12) in almost every State, individuals with developmental disabilities are waiting for appropriate services in their communities, in the areas of emphasis;
 
-&emsp;(13) the public needs to be made more aware of the capabilities and competencies of individuals with developmental disabilities, particularly in cases in which the individuals areprovided with necessary services, supports, and other assistance;
+&emsp;(13) the public needs to be made more aware of the capabilities and competencies of individuals with developmental disabilities, particularly in cases in which the individuals are provided with necessary services, supports, and other assistance;
 
 &emsp;(14) as increasing numbers of individuals with developmental disabilities are living, learning, working, and participating in all aspects of community life, there is an increasing need for a well trained workforce that is able to provide the services, supports, and other forms of direct assistance required to enable the individuals to carry out those activities;
 
@@ -92,7 +92,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(1) individuals with developmental disabilities, including those with the most severe developmental disabilities, are capable of self-determination, independence, productivity, and integration and inclusion in all facets of community life, but often require the provision of community services, individualized supports, and other forms of assistance;
 
-&emsp;(2) individuals with developmental disabilities and their families have competencies, capabilities, and personal goals that should be recognized, supported, and encouraged, andany assistance to such individuals should be provided in an individualized manner, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of such individuals;
+&emsp;(2) individuals with developmental disabilities and their families have competencies, capabilities, and personal goals that should be recognized, supported, and encouraged, and any assistance to such individuals should be provided in an individualized manner, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of such individuals;
 
 &emsp;(3) individuals with developmental disabilities and their families are the primary decisionmakers regarding the services and supports such individuals and their families receive, including regarding choosing where the individuals live from available options, and play decisionmaking roles in policies and programs that affect the lives of such individuals and their families;
 
@@ -168,7 +168,7 @@ Purpose.—The purposes of this Act are to—
 
 "(a)
 
-Education Activities.—The Secretary of Education may award grants to, or enter into contracts orcooperative agreements with, Special Olympics to carry out the following:
+Education Activities.—The Secretary of Education may award grants to, or enter into contracts or cooperative agreements with, Special Olympics to carry out the following:
 
 &emsp;"(1) Activities to promote the expansion of Special Olympics, including activities to increase the participation of individuals with intellectual disabilities within the United States.
 
@@ -356,5 +356,7 @@ Term of the President's Committee for People with Intellectual Disabilities exte
 
 Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

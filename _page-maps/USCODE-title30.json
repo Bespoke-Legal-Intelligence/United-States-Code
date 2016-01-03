@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title30",
- "package": "USCODE-2014-title30",
+ "package": "USCODE-2015-title30",
  "pieces": [
   {
    "id": "30_",
@@ -1585,7 +1585,7 @@
      168,
      [
       [
-       224,
+       166,
        "[Page 45]"
       ]
      ]
@@ -1595,7 +1595,7 @@
      208,
      [
       [
-       646,
+       596,
        "[Page 46]"
       ]
      ]
@@ -1615,7 +1615,7 @@
      2,
      [
       [
-       1080,
+       1035,
        "[Page 47]"
       ]
      ]
@@ -2936,14 +2936,10 @@
    "id": "30_352",
    "marks": [
     [
-     "I",
+     "L",
      18,
-     [
-      [
-       113,
-       "[Page 92]"
-      ]
-     ]
+     "[Page 92]",
+     true
     ]
    ],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/§ 00352 - Deposits subject to lease; consent of department heads; lands excluded.md",
@@ -2975,7 +2971,7 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 93]",
      true
     ]
@@ -3030,7 +3026,7 @@
      2,
      [
       [
-       819,
+       720,
        "[Page 94]"
       ]
      ]
@@ -3082,10 +3078,14 @@
    "id": "30_404",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 95]",
-     true
+     "I",
+     12,
+     [
+      [
+       930,
+       "[Page 95]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - Development of Lignite Coal Resources/§ 00404 - Establishment of an advisory committee; composition and appointment.md",
@@ -3134,10 +3134,14 @@
    "id": "30_451_to_460,_471_to_483",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 96]",
-     true
+     "I",
+     20,
+     [
+      [
+       109,
+       "[Page 96]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Coal Mine Safety/§ 00451 to 460, 471 to 483 - Repealed. Pub. L. 91–173, title V, §509, Dec. 30, 1969, 83 Stat. 803.md",
@@ -5805,7 +5809,7 @@
    "marks": [
     [
      "L",
-     54,
+     52,
      "[Page 201]",
      true
     ]
@@ -5879,10 +5883,14 @@
    "id": "30_1001",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 204]",
-     true
+     "I",
+     24,
+     [
+      [
+       142,
+       "[Page 204]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Geothermal Resources/§ 01001 - Definitions.md",
@@ -5913,10 +5921,14 @@
    "id": "30_1003",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 205]",
-     true
+     "I",
+     28,
+     [
+      [
+       457,
+       "[Page 205]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Geothermal Resources/§ 01003 - Leasing procedures.md",
@@ -5930,15 +5942,19 @@
    "marks": [
     [
      "L",
-     56,
+     48,
      "[Page 206]",
      true
     ],
     [
-     "L",
-     146,
-     "[Page 207]",
-     true
+     "I",
+     144,
+     [
+      [
+       112,
+       "[Page 207]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Geothermal Resources/§ 01004 - Rents and royalties.md",
@@ -5951,21 +5967,17 @@
    "id": "30_1005",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       142,
-       "[Page 208]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 208]",
+     true
     ],
     [
      "I",
-     100,
+     98,
      [
       [
-       109,
+       103,
        "[Page 209]"
       ]
      ]
@@ -5981,10 +5993,14 @@
    "id": "30_1006",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 210]",
-     true
+     "I",
+     2,
+     [
+      [
+       465,
+       "[Page 210]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Geothermal Resources/§ 01006 - Acreage limitations.md",
@@ -6013,30 +6029,26 @@
   },
   {
    "id": "30_1009",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 211]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Resources/§ 01009 - Relinquishment of geothermal rights.md",
    "printed_pages": [
     210,
-    210
+    211
    ]
   },
   {
    "id": "30_1010",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 211]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Geothermal Resources/§ 01010 - Suspension of operations and production.md",
    "printed_pages": [
-    210,
+    211,
     211
    ]
   },
@@ -6075,7 +6087,7 @@
      18,
      [
       [
-       838,
+       327,
        "[Page 212]"
       ]
      ]
@@ -6110,10 +6122,10 @@
    "marks": [
     [
      "I",
-     46,
+     44,
      [
       [
-       185,
+       91,
        "[Page 213]"
       ]
      ]
@@ -6139,7 +6151,7 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 214]",
      true
     ]
@@ -6194,7 +6206,7 @@
      2,
      [
       [
-       331,
+       285,
        "[Page 215]"
       ]
      ]
@@ -6685,7 +6697,7 @@
      10,
      [
       [
-       376,
+       330,
        "[Page 233]"
       ]
      ]
@@ -7095,10 +7107,14 @@
      ]
     ],
     [
-     "L",
-     124,
-     "[Page 256]",
-     true
+     "I",
+     120,
+     [
+      [
+       208,
+       "[Page 256]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240a - Certification.md",
@@ -7120,14 +7136,10 @@
    "id": "30_1242",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       401,
-       "[Page 257]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 257]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01242 - Powers of Secretary or State.md",
@@ -7171,7 +7183,7 @@
      18,
      [
       [
-       111,
+       339,
        "[Page 258]"
       ]
      ]
@@ -7200,7 +7212,7 @@
      16,
      [
       [
-       87,
+       233,
        "[Page 259]"
       ]
      ]
@@ -7216,10 +7228,14 @@
    "id": "30_1253",
    "marks": [
     [
-     "L",
+     "I",
      10,
-     "[Page 260]",
-     true
+     [
+      [
+       94,
+       "[Page 260]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01253 - State programs.md",
@@ -7236,7 +7252,7 @@
      12,
      [
       [
-       658,
+       709,
        "[Page 261]"
       ]
      ]
@@ -9324,18 +9340,12 @@
      ]
     ],
     [
-     "L",
-     56,
-     "[Page 341]",
-     true
-    ],
-    [
      "I",
-     114,
+     48,
      [
       [
-       104,
-       "[Page 342]"
+       185,
+       "[Page 341]"
       ]
      ]
     ]
@@ -9343,31 +9353,42 @@
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01721 - Royalty terms and conditions, interest, and penalties.md",
    "printed_pages": [
     339,
-    342
+    341
    ]
   },
   {
    "id": "30_1721a",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 343]",
-     true
+     "I",
+     6,
+     [
+      [
+       141,
+       "[Page 342]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01721a - Adjustments and refunds.md",
    "printed_pages": [
-    342,
-    343
+    341,
+    342
    ]
   },
   {
    "id": "30_1722",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 343]",
+     true
+    ]
+   ],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01722 - Injunction and specific enforcement authority.md",
    "printed_pages": [
-    343,
+    342,
     343
    ]
   },
@@ -9385,30 +9406,30 @@
    "marks": [
     [
      "I",
-     36,
+     42,
      [
       [
-       181,
+       681,
        "[Page 344]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     80,
      [
       [
-       268,
+       455,
        "[Page 345]"
       ]
      ]
     ],
     [
      "I",
-     104,
+     116,
      [
       [
-       184,
+       368,
        "[Page 346]"
       ]
      ]
@@ -9422,30 +9443,30 @@
   },
   {
    "id": "30_1725",
+   "marks": [],
+   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01725 - Assessments.md",
+   "printed_pages": [
+    346,
+    346
+   ]
+  },
+  {
+   "id": "30_1726",
    "marks": [
     [
      "I",
-     16,
+     10,
      [
       [
-       106,
+       635,
        "[Page 347]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01725 - Assessments.md",
-   "printed_pages": [
-    346,
-    347
-   ]
-  },
-  {
-   "id": "30_1726",
-   "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 001 (I) - Federal Royalty Management and Enforcement/§ 01726 - Alternatives for marginal properties.md",
    "printed_pages": [
-    347,
+    346,
     347
    ]
   },
@@ -9469,55 +9490,51 @@
   },
   {
    "id": "30_1731a",
+   "marks": [],
+   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01731a - Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States.md",
+   "printed_pages": [
+    347,
+    347
+   ]
+  },
+  {
+   "id": "30_1732",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       95,
-       "[Page 348]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 348]",
+     true
     ]
    ],
-   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01731a - Application of subchapter to leases of lands within three miles of seaward boundaries of coastal States.md",
+   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01732 - Cooperative agreements.md",
    "printed_pages": [
     347,
     348
    ]
   },
   {
-   "id": "30_1732",
+   "id": "30_1733",
    "marks": [],
-   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01732 - Cooperative agreements.md",
+   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01733 - Information.md",
    "printed_pages": [
     348,
     348
    ]
   },
   {
-   "id": "30_1733",
+   "id": "30_1734",
    "marks": [
     [
      "L",
-     22,
+     14,
      "[Page 349]",
      true
     ]
    ],
-   "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01733 - Information.md",
-   "printed_pages": [
-    348,
-    349
-   ]
-  },
-  {
-   "id": "30_1734",
-   "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01734 - State suits under Federal law.md",
    "printed_pages": [
-    349,
+    348,
     349
    ]
   },
@@ -9526,21 +9543,11 @@
    "marks": [
     [
      "I",
-     38,
+     66,
      [
       [
-       339,
+       95,
        "[Page 350]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     98,
-     [
-      [
-       101,
-       "[Page 351]"
       ]
      ]
     ]
@@ -9548,7 +9555,7 @@
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01735 - Delegation of royalty collections and related activities.md",
    "printed_pages": [
     349,
-    351
+    350
    ]
   },
   {
@@ -9556,8 +9563,8 @@
    "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 002 (II) - States and Indian Tribes/§ 01736 - Shared civil penalties.md",
    "printed_pages": [
-    351,
-    351
+    350,
+    350
    ]
   },
   {
@@ -9565,16 +9572,23 @@
    "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 003 (III) - General Provisions/README.md",
    "printed_pages": [
-    351,
-    351
+    350,
+    350
    ]
   },
   {
    "id": "30_1751",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 351]",
+     true
+    ]
+   ],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 003 (III) - General Provisions/§ 01751 - Secretarial authority.md",
    "printed_pages": [
-    351,
+    350,
     351
    ]
   },
@@ -9589,22 +9603,11 @@
   },
   {
    "id": "30_1753",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       137,
-       "[Page 352]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 003 (III) - General Provisions/§ 01753 - Relation to other laws.md",
    "printed_pages": [
     351,
-    352
+    351
    ]
   },
   {
@@ -9612,16 +9615,23 @@
    "marks": [],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 003 (III) - General Provisions/§ 01754 - Funding.md",
    "printed_pages": [
-    352,
-    352
+    351,
+    351
    ]
   },
   {
    "id": "30_1755",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 352]",
+     true
+    ]
+   ],
    "path": "Chapter 029 - Oil and Gas Royalty Management/Subchapter 003 (III) - General Provisions/§ 01755 - Statute of limitations.md",
    "printed_pages": [
-    352,
+    351,
     352
    ]
   },
@@ -9663,30 +9673,26 @@
   },
   {
    "id": "30_-ch30",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       65,
-       "[Page 353]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - National Critical Materials Council/README.md",
    "printed_pages": [
     352,
-    353
+    352
    ]
   },
   {
    "id": "30_1801",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 353]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - National Critical Materials Council/§ 01801 - Congressional findings and declaration of purposes.md",
    "printed_pages": [
-    353,
+    352,
     353
    ]
   },
@@ -9704,58 +9710,67 @@
    "marks": [
     [
      "I",
-     10,
+     20,
      [
       [
-       134,
+       539,
        "[Page 354]"
       ]
      ]
-    ],
-    [
-     "L",
-     82,
-     "[Page 355]",
-     true
     ]
    ],
    "path": "Chapter 030 - National Critical Materials Council/§ 01803 - Responsibilities and authorities of Council.md",
    "printed_pages": [
     353,
-    355
+    354
    ]
   },
   {
    "id": "30_1804",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       420,
+       "[Page 355]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - National Critical Materials Council/§ 01804 - Program and policy for advanced materials research and technology.md",
    "printed_pages": [
-    355,
+    354,
     355
    ]
   },
   {
    "id": "30_1805",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 356]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - National Critical Materials Council/§ 01805 - Innovation in basic and advanced materials industries.md",
    "printed_pages": [
     355,
-    356
+    355
    ]
   },
   {
    "id": "30_1806",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       366,
+       "[Page 356]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - National Critical Materials Council/§ 01806 - Compensation of members and reimbursement.md",
    "printed_pages": [
-    356,
+    355,
     356
    ]
   },
@@ -9770,26 +9785,26 @@
   },
   {
    "id": "30_1808",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 357]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - National Critical Materials Council/§ 01808 - Responsibilities and duties of Director.md",
    "printed_pages": [
     356,
-    357
+    356
    ]
   },
   {
    "id": "30_1809",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 357]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - National Critical Materials Council/§ 01809 - General authority of Council.md",
    "printed_pages": [
-    357,
+    356,
     357
    ]
   },
@@ -9822,26 +9837,30 @@
   },
   {
    "id": "30_1901",
-   "marks": [
-    [
-     "L",
-     64,
-     "[Page 358]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Marine Mineral Resources Research/§ 01901 - Definitions.md",
    "printed_pages": [
     357,
-    358
+    357
    ]
   },
   {
    "id": "30_1902",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     26,
+     [
+      [
+       91,
+       "[Page 358]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Marine Mineral Resources Research/§ 01902 - Research program.md",
    "printed_pages": [
-    358,
+    357,
     358
    ]
   },
@@ -9849,10 +9868,14 @@
    "id": "30_1903",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 359]",
-     true
+     "I",
+     72,
+     [
+      [
+       99,
+       "[Page 359]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Marine Mineral Resources Research/§ 01903 - Grants, contracts, and cooperative agreements.md",
@@ -9863,26 +9886,26 @@
   },
   {
    "id": "30_1904",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 360]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Marine Mineral Resources Research/§ 01904 - Marine mineral research centers.md",
    "printed_pages": [
     359,
-    360
+    359
    ]
   },
   {
    "id": "30_1905",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 360]",
+     true
+    ]
+   ],
    "path": "Chapter 031 - Marine Mineral Resources Research/§ 01905 - Authorization of appropriations.md",
    "printed_pages": [
-    360,
+    359,
     360
    ]
   },
@@ -9908,14 +9931,10 @@
    "id": "30_2002",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       91,
-       "[Page 361]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 361]",
+     true
     ]
    ],
    "path": "Chapter 032 - Methane Hydrate Research and Development/§ 02002 - Definitions.md",
@@ -9929,7 +9948,7 @@
    "marks": [
     [
      "L",
-     56,
+     90,
      "[Page 362]",
      true
     ]
@@ -9960,21 +9979,14 @@
   },
   {
    "id": "30_2006",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 363]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Methane Hydrate Research and Development/§ 02006 - Authorization of appropriations.md",
    "printed_pages": [
     362,
-    363
+    362
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2014-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2015-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 30 - Mineral Lands and Mining"
 }

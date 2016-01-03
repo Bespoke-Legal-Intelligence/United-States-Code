@@ -26,6 +26,12 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 Act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: "This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–114, §1, Dec. 28, 2015, 129 Stat. 3129, provided that: "This Act \[amending section 331 of this title and enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Microbead-Free Waters Act of 2015'."
+
+Pub. L. 114–89, §1, Nov. 25, 2015, 129 Stat. 698, provided that: "This Act \[amending sections 355, 360b, 360ccc to 360ccc–2, 811, 823, and 953 of this title, section 156 of Title 35, Patents, and section 262 of Title 42, The Public Health and Welfare\] may be cited as the 'Improving Regulatory Transparency for New Medical Therapies Act'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–233, §1, Dec. 16, 2014, 128 Stat. 2127, provided that: "This Act \[amending section 360n of this title\] may be cited as the 'Adding Ebola to the FDA Priority Review Voucher Program Act'."
@@ -120,7 +126,7 @@ Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: "This Act \
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: "This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may be cited as the 'Medicine Equity and Drug Safety Act of 2000'."
+Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: "This section\[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may be cited as the 'Medicine Equity and Drug Safety Act of 2000'."
 
 Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: "This section \[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the 'Prescription Drug Import Fairness Act of 2000'."
 
@@ -176,11 +182,11 @@ Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: "This Ac
 
 Pub. L. 100–670, §1(a), Nov. 16, 1988, 102 Stat. 3971, provided that: "This Act \[amending sections 321, 353, and 360b of this title, section 2201 of Title 28, Judiciary and Judicial Procedure, and sections 156 and 271 of Title 35, Patents, and enacting provisions set out as notes under section 360b of this title\] may be cited as the 'Generic Animal Drug and Patent Term Restoration Act'."
 
-Pub. L. 100–607, title V, §501, Nov. 4, 1988, 102 Stat. 3120, provided that: "This title \[enacting section 393 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 393 of this title\] may be cited as the 'Food and Drug Administration Act of 1988'."
+Pub. L. 100–607, title V, §501, Nov. 4, 1988, 102 Stat. 3120, provided that: "This title \[enacting section 393 of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, and enactingprovisions set out as notes under section 393 of this title\] may be cited as the 'Food and Drug Administration Act of 1988'."
 
 Pub. L. 100–293, §1(a), Apr. 22, 1988, 102 Stat. 95, provided that: "This Act \[amending sections 331, 333, 353, and 381 of this title and enacting provisions set out as notes under section 353 of this title\] may be cited as the 'Prescription Drug Marketing Act of 1987'."
 
-Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[amending sections 360bb and 360ee of this title, enacting provisions set out as a note undersection 360aa of this title, and amending provisions set out as a note under section 236 of Title 42, The Public Health and Welfare\] may be cited as the 'Orphan Drug Amendments of 1988'."
+Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[amending sections 360bb and 360ee of this title, enacting provisions set out as a note under section 360aa of this title, and amending provisions set out as a note under section 236 of Title 42, The Public Health and Welfare\] may be cited as the 'Orphan Drug Amendments of 1988'."
 
 #### Short Title of 1986 Amendment
 
@@ -244,7 +250,7 @@ Pub. L. 85–929, §1, Sept. 6, 1958, 72 Stat. 1784, provided: "That this Act \[
 
 #### Severability
 
-Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality ofthe remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
+Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
 
 Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby."
 

@@ -14,7 +14,7 @@
 
 #### (2) Applicability of Bank Enterprise Act of 1991
 
-&emsp;Subject to subsection (b) of this section and the consultation requirement of paragraph (1)—
+&emsp;Subject to subsection (b) and the consultation requirement of paragraph (1)—
 
 &emsp;&emsp;(A) section 233 of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a\] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
 
@@ -74,7 +74,7 @@
 
 #### (4) Designation of QDC
 
-&emsp;Section 233(b)(2) of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a(b)(2)\] shall be applied for purposes of this section without regard to subparagraph (A)(ii) of such section 233(b)(2).
+&emsp;Section 233(b)(2) of the Bank Enterprise Act of 1991 \[12 U.S.C. 1834a(b)(2)\] shall be appliedfor purposes of this section without regard to subparagraph (A)(ii) of such section 233(b)(2).
 
 #### (5) Operation on annual basis
 

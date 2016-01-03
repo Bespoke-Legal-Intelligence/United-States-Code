@@ -4,17 +4,17 @@
 
 (1) Except as otherwise specifically provided for in this chapter, imported merchandise shall be appraised, for the purposes of this chapter, on the basis of the following:
 
-&emsp;(A) The transaction value provided for under subsection (b) of this section.
+&emsp;(A) The transaction value provided for under subsection (b).
 
-&emsp;(B) The transaction value of identical merchandise provided for under subsection (c) of this section, if the value referred to in subparagraph (A) cannot be determined, or can be determined but cannot be used by reason of subsection (b)(2) of this section.
+&emsp;(B) The transaction value of identical merchandise provided for under subsection (c), if the value referred to in subparagraph (A) cannot be determined, or can be determined but cannot be used by reason of subsection (b)(2).
 
-&emsp;(C) The transaction value of similar merchandise provided for under subsection (c) of this section, if the value referred to in subparagraph (B) cannot be determined.
+&emsp;(C) The transaction value of similar merchandise provided for under subsection (c), if the value referred to in subparagraph (B) cannot be determined.
 
-&emsp;(D) The deductive value provided for under subsection (d) of this section, if the value referred to in subparagraph (C) cannot be determined and if the importer does not request alternative valuation under paragraph (2).
+&emsp;(D) The deductive value provided for under subsection (d), if the value referred to in subparagraph (C) cannot be determined and if the importer does not request alternative valuation under paragraph (2).
 
-&emsp;(E) The computed value provided for under subsection (e) of this section, if the value referred to in subparagraph (D) cannot be determined.
+&emsp;(E) The computed value provided for under subsection (e), if the value referred to in subparagraph (D) cannot be determined.
 
-&emsp;(F) The value provided for under subsection (f) of this section, if the value referred to in subparagraph (E) cannot be determined.
+&emsp;(F) The value provided for under subsection (f), if the value referred to in subparagraph (E) cannot be determined.
 
 (2) If the value referred to in paragraph (1)(C) cannot be determined with respect to imported merchandise, the merchandise shall be appraised on the basis of the computed value provided for under paragraph (1)(E), rather than the deductive value provided for under paragraph (1)(D), if the importer makes a request to that effect to the customs officer concerned within such time as the Secretary shall prescribe. If the computed value of the merchandise cannot subsequently be determined, the merchandise may not be appraised on the basis of the value referred to in paragraph (1)(F) unless the deductive value of the merchandise cannot be determined under paragraph (1)(D).
 
@@ -88,7 +88,7 @@
 
 #### (c) Transaction value of identical merchandise and similar merchandise
 
-(1) The transaction value of identical merchandise, or of similar merchandise, is the transaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) of this section but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
+(1) The transaction value of identical merchandise, or of similar merchandise, is the transaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
 
 &emsp;(A) with respect to the merchandise being appraised, either identical merchandise or similar merchandise, as the case may be; and
 
@@ -106,9 +106,9 @@
 
 &emsp;(ii) If the merchandise concerned is sold in the condition as imported but not sold at or about the date of importation of the merchandise being appraised, the price is the unit price at which the merchandise concerned is sold in the greatest aggregate quantity after the date of importation of the merchandise being appraised but before the close of the 90th day after the date of such importation.
 
-&emsp;(iii) If the merchandise concerned was not sold in the condition as imported and not sold before the close of the 90th day after the date of importation of the merchandise being appraised, the price is the unit price at which the merchandise being appraised, after further processing, is sold in the greatest aggregate quantity before the 180th day after the date of such importation. This clause shall apply to appraisement of merchandise only if the importer so elects and notifies the customs officer concerned of that election within such time as shall be prescribed by the Secretary.
+&emsp;(iii) If the merchandise concerned was not sold in the condition as imported and not sold before the close of the 90th day after the date of importation of the merchandise being appraised, the price is the unit price at which the merchandise being appraised, after further processing, is sold in the greatest aggregate quantity before the 180th day after the date of such importation. This clause shall apply toappraisement of merchandise only if the importer so elects and notifies the customs officer concerned of that election within such time as shall be prescribed by the Secretary.
 
-(B) For purposes of subparagraph (A), the unit price at which merchandise is sold in the greatest aggregate quantity is the unit price at which such merchandise is sold to unrelated persons, at the first commercial level after importation (in cases to which subparagraph (A)(i) or (ii) applies) or after further processing (in cases towhich subparagraph (A)(iii) applies) at which such sales take place, in a total volume that is (i) greater than the total volume sold at any other unit price, and (ii) sufficient to establish the unit price.
+(B) For purposes of subparagraph (A), the unit price at which merchandise is sold in the greatest aggregate quantity is the unit price at which such merchandise is sold to unrelated persons, at the first commercial level after importation (in cases to which subparagraph (A)(i) or (ii) applies) or after further processing (in cases to which subparagraph (A)(iii) applies) at which such sales take place, in a total volume that is (i) greater than the total volume sold at any other unit price, and (ii) sufficient to establish the unit price.
 
 (3)(A) the price determined under paragraph (2) shall be reduced by an amount equal to—
 
@@ -152,7 +152,7 @@
 
 #### (f) Value if other values cannot be determined or used
 
-(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
+(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e), the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
 
 (2) Imported merchandise may not be appraised, for the purposes of this chapter, on the basis of—
 
@@ -162,7 +162,7 @@
 
 &emsp;(C) the price of merchandise in the domestic market of the country of exportation;
 
-&emsp;(D) a cost of production, other than a value determined under subsection (e) of this section for merchandise that is identical merchandise or similar merchandise to the merchandise being appraised;
+&emsp;(D) a cost of production, other than a value determined under subsection (e) for merchandise that is identical merchandise or similar merchandise to the merchandise being appraised;
 
 &emsp;(E) the price of merchandise for export to a country other than the United States;
 
@@ -238,7 +238,7 @@ As used in this section—
 
 &emsp;&emsp;(A) merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
 
-&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
+&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i), regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
 
 > &emsp;Such term does not include merchandise that incorporates or reflects any engineering, development, artwork, design work, or plan or sketch that—
 
@@ -258,7 +258,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(iii) is commercially interchangeable with the merchandise being appraised; or
 
-&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that—
+&emsp;&emsp;(B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i), regardless of whether merchandise meeting such requirements can be found), merchandise that—
 
 &emsp;&emsp;&emsp;(i) was produced in the same country as, but not produced by the same person as, the merchandise being appraised, and
 
@@ -274,15 +274,15 @@ As used in this section—
 
 &emsp;&emsp;(A) any amount—
 
-&emsp;&emsp;&emsp;(i) added under subsection (b)(1) of this section to the price actually paid or payable,
+&emsp;&emsp;&emsp;(i) added under subsection (b)(1) to the price actually paid or payable,
 
-&emsp;&emsp;&emsp;(ii) deducted under subsection (d)(3) of this section as profit or general expense or value from further processing, or
+&emsp;&emsp;&emsp;(ii) deducted under subsection (d)(3) as profit or general expense or value from further processing, or
 
-&emsp;&emsp;&emsp;(iii) added under subsection (e)(2) of this section as profit or general expense;
+&emsp;&emsp;&emsp;(iii) added under subsection (e)(2) as profit or general expense;
 
-&emsp;&emsp;(B) any difference taken into account for purposes of subsection (b)(2)(C) of this section; or
+&emsp;&emsp;(B) any difference taken into account for purposes of subsection (b)(2)(C); or
 
-&emsp;&emsp;(C) any adjustment made under subsection (c)(2) of this section;
+&emsp;&emsp;(C) any adjustment made under subsection (c)(2);
 
 > &emsp;means information that establishes the accuracy of such amount, difference, or adjustment.
 
@@ -336,9 +336,9 @@ Earlier effective date under certain circumstances.—If the President determine
 
 &emsp;&emsp;"(B) each of the member states of the European Economic Community has implemented the Agreement under its laws;
 
-> &emsp;the President shall by proclamation announce such determination and the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on the date specified in the proclamation \[July 1, 1980\] (but not before July 1, 1980) and shall apply with respect to merchandise that is exported to the United States on or after such date; except that unless the Agreement enters into force with respect to the United States by January 1, 1981, all provisions of law that were amended by such amendments are revived (as in effect on the day before such amendments took effect) on January 1, 1981, and such provisions—
+> &emsp;the President shall by proclamation announce such determination and the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on the date specified in the proclamation \[July 1, 1980\] (but not before July 1, 1980) and shall apply with respect to merchandise that is exported to the UnitedStates on or after such date; except that unless the Agreement enters into force with respect to the United States by January 1, 1981, all provisions of law that were amended by such amendments are revived (as in effect on the day before such amendments took effect) on January 1, 1981, and such provisions—
 
-&emsp;&emsp;"(i) shall remain in effect until the date on which the Agreement enters into force with respect to the United States (and on such date the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\]) are revived and shall apply with respect to merchandiseexported to the United States on or after such date); and
+&emsp;&emsp;"(i) shall remain in effect until the date on which the Agreement enters into force with respect to the United States (and on such date the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\]) are revived and shall apply with respect to merchandise exported to the United States on or after such date); and
 
 &emsp;&emsp;"(ii) shall apply with respect to merchandise exported to the United States on or after January 1, 1981, and before the date on which the Agreement enters into such force.
 

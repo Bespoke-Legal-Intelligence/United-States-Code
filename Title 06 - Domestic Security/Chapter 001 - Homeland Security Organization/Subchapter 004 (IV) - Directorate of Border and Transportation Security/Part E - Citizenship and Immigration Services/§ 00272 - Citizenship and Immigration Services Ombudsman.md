@@ -44,11 +44,11 @@ The Ombudsman—
 
 &emsp;(1) shall monitor the coverage and geographic allocation of local offices of the Ombudsman;
 
-&emsp;(2) shall develop guidance to be distributed to all officers and employees of the Bureau ofCitizenship and Immigration Services outlining the criteria for referral of inquiries to local offices of the Ombudsman;
+&emsp;(2) shall develop guidance to be distributed to all officers and employees of the Bureau of Citizenship and Immigration Services outlining the criteria for referral of inquiries to local offices of the Ombudsman;
 
 &emsp;(3) shall ensure that the local telephone number for each local office of the Ombudsman is published and available to individuals and employers served by the office; and
 
-&emsp;(4) shall meet regularly with the Director of the Bureau of Citizenship and Immigration Services to identify serious service problems and to present recommendations for such administrative action as may be appropriate to resolve problems encountered by individuals and employers.
+&emsp;(4) shall meet regularly with the Director of the Bureau of Citizenship and Immigration Services to identify serious service problems and to present recommendations for such administrative action as may be appropriate toresolve problems encountered by individuals and employers.
 
 #### (e) Personnel actions
 

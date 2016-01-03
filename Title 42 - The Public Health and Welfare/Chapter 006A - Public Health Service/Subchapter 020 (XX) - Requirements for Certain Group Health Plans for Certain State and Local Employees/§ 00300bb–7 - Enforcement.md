@@ -10,7 +10,7 @@ Pub. L. 103–66, title XIII, §13631(d), Aug. 10, 1993, 107 Stat. 643, provided
 
 "(1)
 
-Requirement.—The requirement of this paragraph, with respect to a group health plan for plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\], is that the group health plan not reduce its coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act \[42 U.S.C. 1396s(h)(6)\]) below the coverage it provided as of May 1, 1993.
+Requirement.—The requirement of this paragraph, with respect to a group health plan for plan years beginning after the date of the enactment of this Act \[Aug. 10, 1993\], is that the group health plan not reduce its coverage of the costs of pediatric vaccines (asdefined under section 1928(h)(6) of the Social Security Act \[42 U.S.C. 1396s(h)(6)\]) below the coverage it provided as of May 1, 1993.
 
 "(2)
 

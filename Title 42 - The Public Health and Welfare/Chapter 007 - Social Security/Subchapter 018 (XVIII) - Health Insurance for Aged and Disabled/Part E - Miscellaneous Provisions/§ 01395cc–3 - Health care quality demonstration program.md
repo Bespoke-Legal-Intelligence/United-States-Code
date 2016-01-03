@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Beneficiary
 
-&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, including any individual who is enrolled in a Medicare Advantage plan under part C of this subchapter.
+&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A of thissubchapter and enrolled under part B of this subchapter, including any individual who is enrolled in a Medicare Advantage plan under part C of this subchapter.
 
 #### (2) Health care group
 
@@ -36,7 +36,7 @@ The Secretary shall establish a demonstration program under which the Secretary 
 
 &emsp;(2) the appropriate use of best practice guidelines by providers and services by beneficiaries;
 
-&emsp;(3) reduced scientific uncertainty in the delivery of care through the examination of variations in the utilization and allocation ofservices, and outcomes measurement and research;
+&emsp;(3) reduced scientific uncertainty in the delivery of care through the examination of variations in the utilization and allocation of services, and outcomes measurement and research;
 
 &emsp;(4) encourage shared decision making between providers and patients;
 

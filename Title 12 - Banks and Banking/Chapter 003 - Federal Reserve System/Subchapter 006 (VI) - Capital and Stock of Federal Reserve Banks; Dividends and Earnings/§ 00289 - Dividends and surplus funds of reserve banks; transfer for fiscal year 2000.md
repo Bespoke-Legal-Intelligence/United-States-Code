@@ -4,17 +4,39 @@
 
 #### (1) Stockholder dividends
 
-#### (A) In general
+#### (A) Dividend amount
 
-&emsp;&emsp;After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.
+&emsp;&emsp;After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend on paid-in capital stock of—
+
+&emsp;&emsp;&emsp;(i) in the case of a stockholder with total consolidated assets of more than $10,000,000,000, the smaller of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 6 percent; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a stockholder with total consolidated assets of $10,000,000,000 or less, 6 percent.
 
 #### (B) Dividend cumulative
 
 &emsp;&emsp;The entitlement to dividends under subparagraph (A) shall be cumulative.
 
+#### (C) Inflation adjustment
+
+&emsp;&emsp;The Board of Governors of the Federal Reserve System shall annually adjust the dollar amounts of total consolidated assets specified under subparagraph (A) to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
+
 #### (2) Deposit of net earnings in surplus fund
 
 &emsp;That portion of net earnings of each Federal reserve bank which remains after dividend claims under paragraph (1)(A) have been fully met shall be deposited in the surplus fund of the bank.
+
+#### (3) Limitation on surplus funds
+
+#### (A) In general
+
+&emsp;&emsp;The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $10,000,000,000.
+
+#### (B) Transfer to the general fund
+
+&emsp;&emsp;Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
 #### (b) <sup>1</sup> Transfer for fiscal year 2000
 
@@ -28,15 +50,21 @@
 
 #### (3) Replenishment of surplus fund prohibited
 
-&emsp;During fiscal year 2000, no Federal reserve bank may replenish such bank's surplus fundby the amount of any transfer by such bank under paragraph (1).
+&emsp;During fiscal year 2000, no Federal reserve bank may replenish such bank's surplus fund by the amount of any transfer by such bank under paragraph (1).
 
-(Dec. 23, 1913, ch. 6, §7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Pub. L. 103–66, title III, §3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, §602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304.)
+(Dec. 23, 1913, ch. 6, §7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Pub. L. 103–66, title III, §3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, §602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739.)
 
 #### Codification
 
 Section is comprised of subsec. (a) \[formerly first undesignated par.\] of section 7 of act Dec. 23, 1913, and subsec. (b) \[enacted by Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304\] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–94, §32203(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock."
+
+Subsec. (a)(1)(C). Pub. L. 114–94, §32203(a)(2), added subpar. (C).
+
+Subsec. (a)(3). Pub. L. 114–94, §32202, added par. (3).
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–113, §1000(a)(5) \[title III, §302(1)\], struck out heading and text of par. (3). Text read as follows: "During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury."
 
@@ -50,6 +78,10 @@ Par. (2). Pub. L. 103–325, §602(d)(2), substituted "paragraph (1)(A)" for "su
 
 <b>1933</b>—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–94, div. C, title XXXII, §32203(b), Dec. 4, 2015, 129 Stat. 1740, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2016."
+
 #### Effective Date of 1933 Amendment
 
 Act June 16, 1933, ch. 89, §4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
@@ -60,7 +92,7 @@ Pub. L. 103–66, title III, §3002(b), Aug. 10, 1993, 107 Stat. 337, provided t
 
 "(1)
 
-In general.—In addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act \[former 12 U.S.C. 289(a)(3)\], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998.
+In general.—In addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act \[former 12 U.S.C. 289(a)(3)\], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a totalamount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998.
 
 "(2)
 

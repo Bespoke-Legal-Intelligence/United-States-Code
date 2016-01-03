@@ -26,11 +26,11 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (2) Introduction of evidence
 
-&emsp;Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to introduce evidence on the alien's own behalf.
+&emsp;Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to introduce evidence on the alien's own behalf.
 
 #### (3) Examination of witnesses
 
-&emsp;Subject to the limitations in subsection (e) of this section, the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
+&emsp;Subject to the limitations in subsection (e), the alien shall have a reasonable opportunity to examine the evidence against the alien and to cross-examine any witness.
 
 #### (4) Record
 
@@ -48,7 +48,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (2) Payment for attendance
 
-&emsp;If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II of this chapter.
+&emsp;If an application for a subpoena by the alien also makes a showing that the alien is financially unable to pay for the attendance of a witness so requested, the court may order the costs incurred by the process and the fees of the witness so subpoenaed to be paid from funds appropriated for the enforcement of subchapter II.
 
 #### (3) Nationwide service
 
@@ -154,7 +154,7 @@ If the judge, after considering the evidence on the record as a whole, finds tha
 
 #### (j) Written order
 
-At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) of this section shall not be made available to the alien or the public.
+At the time of issuing a decision as to whether the alien shall be removed, the judge shall prepare a written order containing a statement of facts found and conclusions of law. Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public.
 
 #### (k) No right to ancillary relief
 
@@ -206,7 +206,7 @@ Subsec. (e)(3)(E), (F). Pub. L. 104–208, §354(a)(2), added subpars. (E) and (
 
 Subsec. (f). Pub. L. 104–208, §354(b)(2), inserted at end "The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte."
 
-Subsec. (j). Pub. L. 104–208, §354(b)(3), inserted at end "Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) of this section shall not be made available to the alien or the public."
+Subsec. (j). Pub. L. 104–208, §354(b)(3), inserted at end "Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public."
 
 Subsec. (k)(2). Pub. L. 104–208, §308(g)(7)(B), substituted "by withholding of removal under section 1231(b)(3) of this title" for "withholding of deportation under section 1253(h) of this title".
 

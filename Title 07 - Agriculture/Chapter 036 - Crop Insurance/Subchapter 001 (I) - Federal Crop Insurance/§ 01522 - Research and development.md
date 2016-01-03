@@ -58,7 +58,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 &emsp;&emsp;&emsp;&emsp;(I) the concept, in good faith, will likely result in a viable and marketable policy consistent with section 1508(h) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) at the sole discretion of the Board, the concept, if developed into a policy and approved by the Board, would provide crop insurance coverage—
+&emsp;&emsp;&emsp;&emsp;(II) at the sole discretion of the Board, the concept, if developed into a policyand approved by the Board, would provide crop insurance coverage—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in a significantly improved form;
 
@@ -470,7 +470,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (D) Deadline for contract or cooperative agreement
 
-&emsp;&emsp;Not later than 180 days after February 7, 2014, the Corporation shall offer to enter intothe contract or cooperative agreement required by subparagraph (B).
+&emsp;&emsp;Not later than 180 days after February 7, 2014, the Corporation shall offer to enter into the contract or cooperative agreement required by subparagraph (B).
 
 #### (E) Deadline for completion of research and development
 
@@ -494,7 +494,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure alfalfa.
+&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities tocarry out research and development regarding a policy to insure alfalfa.
 
 #### (B) Report
 
@@ -654,7 +654,7 @@ Subsec. (e)(4). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapte
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VII, §7511(c), May 22, 2008, 122 Stat. 1267, and Pub. L. 110–246, §4(a), title VII, §7511(c), June 18, 2008, 122 Stat. 1664, 2028, provided that the amendments made by section 7511(c) are effective Oct. 1, 2009.
+Pub. L. 110–234, title VII, §7511(c), May 22, 2008, 122 Stat. 1267, and Pub. L. 110–246, §4(a), title VII, §7511(c),June 18, 2008, 122 Stat. 1664, 2028, provided that the amendments made by section 7511(c) are effective Oct. 1, 2009.
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

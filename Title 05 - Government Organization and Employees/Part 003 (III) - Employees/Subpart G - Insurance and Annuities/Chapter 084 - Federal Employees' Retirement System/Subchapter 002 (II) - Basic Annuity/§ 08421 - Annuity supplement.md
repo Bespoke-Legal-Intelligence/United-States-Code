@@ -2,7 +2,7 @@
 
 (a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
 
-(2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) ofsection 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h).
+(2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h).
 
 (3)(A) An individual whose entitlement to an annuity under section 8412 or 8414 does not commence before age 62 is not entitled to an annuity supplement under this section.
 

@@ -32,7 +32,7 @@ A prior section 5062, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 
 <b>1976</b>—Subsecs. (a), (b), (c)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–630 permitted, under Treasury regulations, drawback of the tax where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
+<b>1968</b>—Subsec. (b). Pub. L. 90–630 permitted, under Treasury regulations, drawback of the tax where the stamping, restamping, or marking is done after thespirits have been removed from the original bottling plant.
 
 <b>1965</b>—Subsec. (c)(1). Pub. L. 89–44 struck out "within six months of their release therefrom" after "customs custody".
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date of 1968 Amendment
 

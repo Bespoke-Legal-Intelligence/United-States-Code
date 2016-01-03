@@ -36,7 +36,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (G) Refund of fee if application withdrawn
 
-&emsp;&emsp;If an application or supplement is withdrawn after the application or supplement was filed, the Secretary may refund the fee or a portion of the fee if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund a fee or a portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
+&emsp;&emsp;If an application or supplement is withdrawn after the application or supplementwas filed, the Secretary may refund the fee or a portion of the fee if no substantial work was performed on the application or supplement after the application or supplement was filed. The Secretary shall have the sole discretion to refund a fee or a portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
 
 #### (2) Prescription drug establishment fee
 
@@ -164,7 +164,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;For fiscal year 2014 and subsequent fiscal years, after the fee revenues established in subsection (b) are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall be adjusted further for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of human drug applications. With respect to such adjustment:
 
-&emsp;&emsp;(A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
+&emsp;&emsp;(A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of human drug applications (adjusted for changes in review activities, as described in the noticethat the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
 
 &emsp;&emsp;(B) Under no circumstances shall the adjustment result in fee revenues for a fiscal year that are less than the sum of the amount under subsection (b)(1)(A) and the amount under subsection (b)(1)(B), as adjusted for inflation under paragraph (1).
 
@@ -176,7 +176,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (4) Annual fee setting
 
-&emsp;The Secretary shall, not later than 60 days before the start of each fiscal year that begins after September 30, 2012, establish, for the next fiscal year, application, product, and establishment fees under subsection (a), based onthe revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+&emsp;The Secretary shall, not later than 60 days before the start of each fiscal year that begins after September 30, 2012, establish, for the next fiscal year, application, product, and establishment fees under subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
 
 #### (5) Limit
 
@@ -246,7 +246,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
 
-&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department ofHealth and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -276,7 +276,7 @@ In any case where the Secretary does not receive payment of a fee assessed under
 
 #### (i) Written requests for waivers, reductions, and refunds
 
-To qualify for consideration for a waiver or reduction under subsection (d) of this section, or for a refund of any fee collected in accordance with subsection (a) of this section, a person shall submit to the Secretary a written request for such waiver, reduction, or refund not later than 180 days after such fee is due.
+To qualify for consideration for a waiver or reduction under subsection (d) of this section, or for a refund of any fee collected in accordance with subsection (a) of this section, a person shall submit to the Secretary a written requestfor such waiver, reduction, or refund not later than 180 days after such fee is due.
 
 #### (j) Construction
 

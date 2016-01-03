@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may award grants to, and enter into contracts and cooperative agreements with, local parent organizations to support community parent resource centers that will help ensure that underserved parents of children with disabilities, including low income parents, parents of limited English proficient children, and parents with disabilities, have the training and information the parents need to enable the parents to participate effectively in helping their children with disabilities—
+&emsp;The Secretary may award grants to, and enter into contracts and cooperative agreements with, local parent organizations to support community parent resource centers that will help ensure that underserved parents ofchildren with disabilities, including low income parents, parents of limited English proficient children, and parents with disabilities, have the training and information the parents need to enable the parents to participate effectively in helping their children with disabilities—
 
 &emsp;&emsp;(A) to meet developmental and functional goals, and challenging academic achievement goals that have been established for all children; and
 

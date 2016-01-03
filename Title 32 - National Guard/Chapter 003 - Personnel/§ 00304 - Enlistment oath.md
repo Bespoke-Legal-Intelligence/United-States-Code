@@ -2,7 +2,7 @@
 
 Each person enlisting in the National Guard shall sign an enlistment contract and subscribe to the following oath:
 
-&emsp;"I do hereby acknowledge to have voluntarily enlisted this \_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_, in the \_\_\_\_\_\_\_\_\_\_\_\_ National Guard of the State of \_\_\_\_\_\_\_\_\_\_\_\_ for a period of \_\_\_\_ year(s) under the conditions prescribed by law, unless sooner discharged by proper authority.
+&emsp;"I do hereby acknowledge to have voluntarily enlisted this \_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_, in the \_\_\_\_\_\_\_\_\_\_\_\_ National Guard of the State of\_\_\_\_\_\_\_\_\_\_\_\_ for a period of \_\_\_\_ year(s) under the conditions prescribed by law, unless sooner discharged by proper authority.
 
 &emsp;"I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them; and that I will obey the orders of the President of the United States and the Governor of \_\_\_\_\_\_\_\_\_\_\_\_ and the orders of the officers appointed over me, according to law and regulations. So help me God."
 

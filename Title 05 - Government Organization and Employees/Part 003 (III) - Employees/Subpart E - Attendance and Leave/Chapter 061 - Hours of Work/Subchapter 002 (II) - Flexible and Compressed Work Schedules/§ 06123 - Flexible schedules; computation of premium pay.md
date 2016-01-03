@@ -1,6 +1,6 @@
 ### §6123. Flexible schedules; computation of premium pay
 
-(a) For purposes of determining compensation for overtime hours in the case of an employeeparticipating in a program under section 6122 of this title—
+(a) For purposes of determining compensation for overtime hours in the case of an employee participating in a program under section 6122 of this title—
 
 &emsp;(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section <sup>1</sup> 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other provision of law; or
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) in the case of an employee subject to subsection (f) of such section 5343, for which all or a majority of the hours of such schedule for any day fall between the hours specified in such subsection, or
 
-&emsp;(B) in the case of an employee subject to subsection (b) of such section 7453, for which 4 hours of such schedule fall between the hours specified in such subsection.
+&emsp;(B) in the case of an employee subject to subsection (b) of such section 7453, for which 4hours of such schedule fall between the hours specified in such subsection.
 
 (Added Pub. L. 97–221, §2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV, §403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, §2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
 

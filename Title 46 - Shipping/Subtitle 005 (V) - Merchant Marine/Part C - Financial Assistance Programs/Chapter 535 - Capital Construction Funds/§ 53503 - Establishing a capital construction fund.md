@@ -6,7 +6,7 @@ In General.—A citizen of the United States owning or leasing an eligible vesse
 
 (b)
 
-Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
+Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels,built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593; Pub. L. 110–140, title XI, §1122(b), Dec. 19, 2007, 121 Stat. 1762.)
 

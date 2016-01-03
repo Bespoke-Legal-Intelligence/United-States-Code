@@ -2,11 +2,11 @@
 
 (a)
 
-Use of STP and Congestion Mitigation Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
+Use of STP and Congestion Mitigation Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
 
 (b)
 
-Use of National Highway Performance Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) <sup>1</sup> of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
+Use of National Highway Performance Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under section 104(b)(1) of this title for construction of pedestrian walkways and bicycle transportation facilities on land adjacent to any highway on the National Highway System.
 
 (c)
 
@@ -14,7 +14,7 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) <sup>1</sup> of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
@@ -74,13 +74,11 @@ Pedestrian.—The term "pedestrian" means any person traveling by foot and any m
 
 Wheelchair.—The term "wheelchair" means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427.)
-
-#### References in Text
-
-Section 104 of this title, referred to in subsecs. (a), (b), and (d), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438.)
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "104(b)(4)" for "104(b)(3)".
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–141 substituted "National Highway Performance Program" for "National Highway System" in heading.
 
@@ -120,11 +118,15 @@ Subsec. (f). Pub. L. 97–424 redesignated as subsec. (f) that portion of former
 
 Subsec. (g). Pub. L. 97–424 redesignated former subsec. (d) as (g).
 
-Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substituted reference to subsecs. (a), (b),\(e), and (f) of this section for reference to former subsecs. (a) and (c), and substituted provision that no State shall obligate more than $4,500,000 for such projects in any fiscal year, except that the Secretary may, upon application, waive this limitation for a State for any fiscal year for provision that no State was to obligate more than $2,500,000 for such projects for any fiscal year.
+Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substituted reference to subsecs. (a), (b), (e), and (f) of this section for reference to former subsecs. (a) and (c), and substituted provision that no State shall obligate more than $4,500,000 for such projects in any fiscal year, except that the Secretary may, upon application, waive this limitation for a State for any fiscal year for provision that no State was to obligate more than $2,500,000 for such projects for any fiscal year.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–280 substituted "$45,000,000" for "$40,000,000" and "$2,500,000" for "$2,000,000".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -213,6 +215,4 @@ Pub. L. 95–599, title I, §141(a)–(e), (i), Nov. 6, 1978, 92 Stat. 2711, 271
 #### Bikeway Demonstration Program
 
 Pub. L. 93–643, §119, Jan. 4, 1975, 88 Stat. 2288, authorized grants to States for demonstration projects for construction of bikeways, prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

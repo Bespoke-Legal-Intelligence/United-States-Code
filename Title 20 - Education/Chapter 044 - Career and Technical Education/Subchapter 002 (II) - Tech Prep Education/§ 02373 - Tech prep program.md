@@ -56,7 +56,7 @@ Each tech prep program shall—
 
 &emsp;&emsp;(C) provides technical preparation in a career field, including high skill, high wage, or high demand occupations;
 
-&emsp;&emsp;(D) builds student competence in technical skills and in core academic subjects (as defined in section 7801 of this title), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
+&emsp;&emsp;(D) builds student competence in technical skills and as part of a well-rounded education (as defined in section 7801 of this title), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
 
 &emsp;&emsp;(E) leads to technical skill proficiency, an industry-recognized credential, a certificate, or a degree, in a specific career field;
 
@@ -162,13 +162,13 @@ Each tech prep program may—
 
 &emsp;For purposes of subparagraphs (B) and (C) of paragraph (1), the numbers and percentages shall be determined separately with respect to each clause of each such subparagraph.
 
-(Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466.)
+(Pub. L. 88–210, title II, §203, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(10), Dec. 10, 2015, 129 Stat. 2170.)
 
 #### References in Text
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (a)(1)(B)(i)(I)(bb)(AA), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat.1219. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Prior Provisions
 
@@ -182,5 +182,11 @@ Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(2)(D). Pub. L. 114–95 substituted "as part of a well-rounded education (as defined in section 7801 of this title)" for "in core academic subjects (as defined in section 7801 of this title)".
+
 <b>2008</b>—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

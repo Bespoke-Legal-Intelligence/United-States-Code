@@ -62,7 +62,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (6) Collaborations between child protective service entities and domestic violence service entities
 
-&emsp;The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children,and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
+&emsp;The Secretary may award grants to public or private agencies and organizations under this section to develop or expand effective collaborations between child protective service entities and domestic violence service entities to improve collaborative investigation and intervention procedures, provision for the safety of the nonabusing parent involved and children, and provision of services to children exposed to domestic violence that also support the caregiving role of the non-abusing parent.
 
 #### (b) Discretionary grants
 

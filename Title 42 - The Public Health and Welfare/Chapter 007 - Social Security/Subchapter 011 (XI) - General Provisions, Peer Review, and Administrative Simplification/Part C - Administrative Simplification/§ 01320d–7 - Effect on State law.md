@@ -8,7 +8,7 @@
 
 #### (2) Exceptions
 
-&emsp;A provision or requirement under this part, or a standard or implementation specificationadopted or established under sections 1320d–1 through 1320d–3 of this title, shall not supersede a contrary provision of State law, if the provision of State law—
+&emsp;A provision or requirement under this part, or a standard or implementation specification adopted or established under sections 1320d–1 through 1320d–3 of this title, shall not supersede a contrary provision of State law, if the provision of State law—
 
 &emsp;&emsp;(A) is a provision the Secretary determines—
 

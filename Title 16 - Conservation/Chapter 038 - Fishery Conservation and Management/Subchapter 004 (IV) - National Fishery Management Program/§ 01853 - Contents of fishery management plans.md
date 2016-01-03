@@ -8,11 +8,11 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(A) necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
 
-&emsp;&emsp;(B) described in this subsection or subsection (b) of this section, or both; and
+&emsp;&emsp;(B) described in this subsection or subsection (b), or both; and
 
 &emsp;&emsp;(C) consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits), and any other applicable law;
 
-&emsp;(2) contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenues from the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
+&emsp;(2) contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenuesfrom the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
 
 &emsp;(3) assess and specify the present and probable future condition of, and the maximum sustainable yield and optimum yield from, the fishery, and include a summary of the information utilized in making such specification;
 
@@ -52,9 +52,9 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery, including its economic impact, and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors;
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measureswhich reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; <sup>3</sup>
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; <sup>3</sup>
 
-&emsp;(15) establish a mechanism for specifying annual catch limits in the plan (including a multiyear plan), implementing regulations, or annual specifications, at a level such that overfishing does not occur in the fishery, including measures to ensure accountability.
+&emsp;(15) establish a mechanism for specifying annual catch limits in the plan (including a multiyear plan), implementing regulations, or annual specifications, at a level such thatoverfishing does not occur in the fishery, including measures to ensure accountability.
 
 #### (b) Discretionary provisions
 
@@ -270,7 +270,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended bythis section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: "Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
 
 &emsp;"(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or
 

@@ -26,7 +26,7 @@ If any of the Federal mandates in the bill or joint resolution are Federal inter
 
 &emsp;(B) a statement of whether the committee intends that the Federal intergovernmental mandates be partly or entirely unfunded, and if so, the reasons for that intention; and
 
-&emsp;(C) if funded in whole or in part, a statement of whether and how the committee has createda mechanism to allocate the funding in a manner that is reasonably consistent with the expected direct costs among and between the respective levels of State, local, and tribal government;
+&emsp;(C) if funded in whole or in part, a statement of whether and how the committee has created a mechanism to allocate the funding in a manner that is reasonably consistent with the expected direct costs among and between the respective levels of State, local, and tribal government;
 
 &emsp;(2) any existing sources of Federal assistance in addition to those identified in paragraph (1) that may assist State, local, and tribal governments in meeting the direct costs of the Federal intergovernmental mandates; and
 

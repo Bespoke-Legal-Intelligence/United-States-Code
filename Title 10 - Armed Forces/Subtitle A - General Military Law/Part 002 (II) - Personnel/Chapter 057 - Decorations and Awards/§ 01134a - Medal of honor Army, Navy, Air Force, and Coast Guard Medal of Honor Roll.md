@@ -10,7 +10,7 @@ Enrollment.—The Secretary concerned shall enter and record on the Army, Navy, 
 
 (c)
 
-Issuance of Enrollment Certificate.—Each living person whose name is entered on theArmy, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be issued a certificate of enrollment on the roll.
+Issuance of Enrollment Certificate.—Each living person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be issued a certificate of enrollment on the roll.
 
 (d)
 

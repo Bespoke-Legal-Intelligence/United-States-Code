@@ -6,7 +6,7 @@ Violation and Amount of Damages.—A person that violates this chapter or a regu
 
 (b)
 
-Civil Actions.—A person may bring a civil action to enforce a claim under this section in an appropriate United States district court or in another court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues. The court shall awardcosts and a reasonable attorney's fee to the person when a judgment is entered for that person.
+Civil Actions.—A person may bring a civil action to enforce a claim under this section in an appropriate United States district court or in another court of competent jurisdiction. The action must be brought not later than 2 years after the claim accrues. The court shall award costs and a reasonable attorney's fee to the person when a judgment is entered for that person.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1055; Pub. L. 112–141, div. C, title I, §31206(2), July 6, 2012, 126 Stat. 761.)
 

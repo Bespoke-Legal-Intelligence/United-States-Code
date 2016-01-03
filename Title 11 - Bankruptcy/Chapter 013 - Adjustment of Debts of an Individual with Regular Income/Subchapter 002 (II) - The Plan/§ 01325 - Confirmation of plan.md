@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(II) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
 
-&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicableState for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
 
 &emsp;(B) may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
 
@@ -164,7 +164,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amount "625" was adjusted to "675" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amount "675" was adjusted to "700" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amount "625" was adjusted to "675" each time it appeared.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b)(3), (4), dollar amount "575" was adjusted to "625".
 

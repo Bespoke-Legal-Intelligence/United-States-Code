@@ -22,7 +22,7 @@ Not later than six months after June 14, 1980, the State educational agency of a
 
 &emsp;&emsp;(C) repairs made to restore school buildings to conditions comparable to those existing before the containment or removal activities referred to in subparagraph (B) were undertaken; and
 
-&emsp;(4) designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section and provides assurances that such agency or unit shall carry out the duties specified under subsection (b) of this section.
+&emsp;(4) designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section andprovides assurances that such agency or unit shall carry out the duties specified under subsection (b) of this section.
 
 #### (b) Reporting requirements respecting plan implementation
 
@@ -32,7 +32,7 @@ Not later than six months after the submission of the plan described in subsecti
 
 #### References in Text
 
-Section 1221 of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–382, title II, §211,Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term "applicable program" is defined in subsec. (c)(1) of that section.
+Section 1221 of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912, and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term "applicable program" is defined in subsec. (c)(1) of that section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

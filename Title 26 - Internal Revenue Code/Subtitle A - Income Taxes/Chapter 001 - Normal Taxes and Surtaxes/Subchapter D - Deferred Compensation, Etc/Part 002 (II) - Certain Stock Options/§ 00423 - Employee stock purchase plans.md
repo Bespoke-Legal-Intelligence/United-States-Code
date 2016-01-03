@@ -48,7 +48,7 @@ For purposes of this part, the term "employee stock purchase plan" means a plan 
 
 &emsp;&emsp;(B) the right to purchase stock under an option accrues at the rate provided in the option, but in no case may such rate exceed $25,000 of fair market value of such stock (determined at the time such option is granted) for any one calendar year; and
 
-&emsp;&emsp;(C) a right to purchase stock which has accrued under one option granted pursuant to the plan may not be carried over to any other option; and
+&emsp;&emsp;(C) a right to purchase stock which has accrued under one option granted pursuant tothe plan may not be carried over to any other option; and
 
 &emsp;(9) under the terms of the plan, such option is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him.
 
@@ -122,5 +122,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -16,7 +16,7 @@ Officers Twice Failed of Selection.—An officer shall be considered for all pur
 
 &emsp;&emsp;(A) the officer is not recommended for promotion by the next mandatory promotion board convened under section 14101(a) or special selection board convened under section 14502(a) of this title for that officer's grade and competitive category; or
 
-&emsp;&emsp;(B) the officer's name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title.
+&emsp;&emsp;(B) the officer's name is again removed from the report of a selection board undersection 14111(b) or from a promotion list under section 14310 of this title.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, §1501(b)(28), Feb. 10, 1996, 110 Stat. 498; Pub. L. 109–163, div. A, title V, §515(b)(1)(TT), Jan. 6, 2006, 119 Stat. 3234.)
 

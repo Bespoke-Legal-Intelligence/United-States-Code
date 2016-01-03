@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the sums appropriated to carry out this subchapter for any fiscal year, the Secretary may reserve not more than 1 percentfor payments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands in accordance with their respective needs for assistance under this subchapter.
+&emsp;From the sums appropriated to carry out this subchapter for any fiscal year, the Secretary may reserve not more than 1 percent for payments to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands in accordance with their respective needs for assistance under this subchapter.
 
 #### (2) Consolidation of funds
 
@@ -30,7 +30,7 @@
 
 #### (5) Reports
 
-&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, or consortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;To be eligible to receive a payment under paragraph (2), a tribe, tribal organization, orconsortium shall make a biennial report to the Secretary of the Interior of activities undertaken under this subsection, including the number of contracts and cooperative agreements entered into, the number of infants and toddlers contacted and receiving services for each year, and the estimated number of infants and toddlers needing services during the 2 years following the year in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis to the Secretary of Education along with such other information as required under section 1411(h)(3)(E) of this title. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (6) Prohibited uses of funds
 
@@ -70,7 +70,7 @@
 
 #### (d) Reallotment of funds
 
-If a State elects not to receive its allotment under subsection (c), the Secretary shall reallot,among the remaining States, amounts from such State in accordance with such subsection.
+If a State elects not to receive its allotment under subsection (c), the Secretary shall reallot, among the remaining States, amounts from such State in accordance with such subsection.
 
 #### (e) Reservation for State incentive grants
 

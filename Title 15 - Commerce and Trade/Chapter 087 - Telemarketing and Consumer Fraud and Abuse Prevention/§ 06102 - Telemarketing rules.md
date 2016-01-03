@@ -36,13 +36,13 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) of this section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
+&emsp;&emsp;Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a), the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
 
 #### (B) Exception
 
 &emsp;&emsp;The Securities and Exchange Commission is not required to promulgate a rule under subparagraph (A) if it determines that—
 
-&emsp;&emsp;&emsp;(i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a) of this section; or
+&emsp;&emsp;&emsp;(i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a); or
 
 &emsp;&emsp;&emsp;(ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
@@ -52,7 +52,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
+&emsp;&emsp;The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in the preceding sentence.
 
 #### (B) Definitions
 
@@ -68,7 +68,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### (1) Application
 
-&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in section 9b(1) of title 7.
+&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in section 9b(1) of title 7.
 
 #### (2) Omitted
 

@@ -54,7 +54,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(A) the carnal knowledge, oral sodomy, sexual assault with an object, or sexual fondling of a person, forcibly or against that person's will;
 
-&emsp;&emsp;(B) the carnal knowledge, oral sodomy, sexual assault with an object, or sexual fondling of a person not forcibly or against the person's will, where the victim is incapable of giving consent because of his or her youth or his or her temporary or permanent mental or physical incapacity; or
+&emsp;&emsp;(B) the carnal knowledge, oral sodomy, sexual assault with an object, or sexual fondling of a person not forcibly or against theperson's will, where the victim is incapable of giving consent because of his or her youth or his or her temporary or permanent mental or physical incapacity; or
 
 &emsp;&emsp;(C) the carnal knowledge, oral sodomy, sexual assault with an object, or sexual fondling of a person achieved through the exploitation of the fear or threat of physical violence or bodily injury.
 

@@ -150,7 +150,7 @@ An eligible entity receiving funds under this section shall only provide age app
 
 #### (k) Parental consent
 
-An eligible entity receiving funds under this section shall not provide services through a <sup>1</sup> SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
+An eligible entity receiving funds under this section shall not provide services through a <sup>1</sup>SBHC funded under this section to an individual without the consent of the parent or guardian of such individual if such individual is considered a minor under applicable State law.
 
 #### (l) Authorization of appropriations
 
@@ -160,7 +160,7 @@ For purposes of carrying out this section, there are authorized to be appropriat
 
 #### References in Text
 
-The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L.104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(2)(C)(vi), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
 #### Amendments
 

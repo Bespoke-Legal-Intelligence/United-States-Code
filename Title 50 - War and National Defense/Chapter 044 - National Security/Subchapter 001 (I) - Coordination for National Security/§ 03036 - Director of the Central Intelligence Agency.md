@@ -24,7 +24,7 @@ The Director of the Central Intelligence Agency shall—
 
 &emsp;(2) correlate and evaluate intelligence related to the national security and provide appropriate dissemination of such intelligence;
 
-&emsp;(3) provide overall direction for and coordination of the collection of national intelligence outside the United States through human sources by elements of the intelligence community authorized to undertake such collection and, in coordination with other departments, agencies, or elements of the United States Government which are authorized to undertake such collection, ensure that themost effective use is made of resources and that appropriate account is taken of the risks to the United States and those involved in such collection; and
+&emsp;(3) provide overall direction for and coordination of the collection of national intelligence outside the United States through human sources by elements of the intelligence community authorized to undertake such collection and, in coordination with other departments, agencies, or elements of the United States Government which are authorized to undertake such collection, ensure that the most effective use is made of resources and that appropriate account is taken of the risks to the United States and those involved in such collection; and
 
 &emsp;(4) perform such other functions and duties related to intelligence affecting the national security as the President or the Director of National Intelligence may direct.
 
@@ -84,7 +84,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(3) Osama bin Laden was the architect of terrorist attacks which killed nearly 3,000 civilians on September 11, 2001, the most deadly terrorist attack against our Nation, in which al Qaeda terrorists hijacked four airplanes and crashed them into the World Trade Center in New York City, the Pentagon in Washington, D.C., and, due to heroic efforts by civilian passengers to disrupt the terrorists, near Shanksville, Pennsylvania.
 
-&emsp;"(4) Osama bin Laden planned or supported numerous other deadly terrorist attacks against the UnitedStates and its allies, including the 1998 bombings of United States embassies in Kenya and Tanzania and the 2000 attack on the U.S.S. Cole in Yemen, and against innocent civilians in countries around the world, including the 2004 attack on commuter trains in Madrid, Spain and the 2005 bombings of the mass transit system in London, England.
+&emsp;"(4) Osama bin Laden planned or supported numerous other deadly terrorist attacks against the United States and its allies, including the 1998 bombings of United States embassies in Kenya and Tanzania and the 2000 attack on the U.S.S. Cole in Yemen, and against innocent civilians in countries around the world, including the 2004 attack on commuter trains in Madrid, Spain and the 2005 bombings of the mass transit system in London, England.
 
 &emsp;"(5) Following the September 11, 2001, terrorist attacks, the United States, under President George W. Bush, led an international coalition into Afghanistan to dismantle al Qaeda, deny them a safe haven in Afghanistan and ungoverned areas along the Pakistani border, and bring Osama bin Laden to justice.
 

@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;(7) The term "national critical technology" means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) <sup>1</sup> of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
-&emsp;(8) The term "defense critical technology" means a technology that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
+&emsp;(8) The term "defense critical technology" means a technology that is identified undersection 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
 
 &emsp;(9) The term "eligible firm" means a company or other business entity that, as determined by the Secretary of Commerce—
 
@@ -115,6 +115,10 @@ Pub. L. 103–160, div. A, title XIII, §1301, Nov. 30, 1993, 107 Stat. 1783, pr
 #### Short Title
 
 Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
+
+#### Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration
+
+Pub. L. 114–92, div. A, title VIII, §897, Nov. 25, 2015, 129 Stat. 954, provided that: "Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code, to the extent such contracts are for purchases of products by other Federal agencies or State or local governments."
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 

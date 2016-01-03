@@ -6,7 +6,7 @@ Except as authorized by chapter 119, title 18, no person receiving, assisting in
 
 #### (b) Exceptions
 
-The provisions of subsection (a) of this section shall not apply to the interception or receipt by any individual, or the assisting (including the manufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
+The provisions of subsection (a) of this section shall not apply to the interception or receipt by any individual, or the assisting (including themanufacture or sale) of such interception or receipt, of any satellite cable programming for private viewing if—
 
 &emsp;(1) the programming involved is not encrypted; and
 

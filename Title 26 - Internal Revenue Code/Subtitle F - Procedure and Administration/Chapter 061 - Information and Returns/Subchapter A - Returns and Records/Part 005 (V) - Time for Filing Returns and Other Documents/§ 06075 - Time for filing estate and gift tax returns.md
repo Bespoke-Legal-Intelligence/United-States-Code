@@ -66,7 +66,7 @@ Pub. L. 94–455, title XX, §2008(d)(2), Oct. 4, 1976, 90 Stat. 1893, provided 
 
 Amendment by Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 
 #### Extension of Time For Performing Certain Acts
 

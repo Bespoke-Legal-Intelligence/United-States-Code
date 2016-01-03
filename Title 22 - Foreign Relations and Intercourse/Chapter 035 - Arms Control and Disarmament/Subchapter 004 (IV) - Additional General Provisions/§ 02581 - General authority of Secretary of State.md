@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41;
 
 #### (b) Employment of personnel
 
@@ -28,7 +28,7 @@ procure services of experts and consultants or organizations thereof, including 
 
 #### (e) Employment of outstanding personnel
 
-employ individuals of outstanding ability without compensation in accordance with the provisions of section 2160(b) of the Appendix to title 50 and regulations issued thereunder;
+employ individuals of outstanding ability without compensation in accordance with the provisions of section 4560(b) of title 50 and regulations issued thereunder;
 
 #### (f) Establishment of scientific and policy advisory board; compensation and expenses
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 105–277, §1223(13)(G), amended subsec. (f) generally. Pr
 
 Subsec. (g). Pub. L. 105–277, §1223(13)(B), (E), (F), redesignated subsec. (h) as (g), substituted "Secretary of State's" for "Director's", and struck out former subsec. (g) which read as follows: "permit, under such terms and conditions as he may prescribe, any officer or employee of the Agency, in connection with the attendance by such officer or employee at meetings or in performing advisory services concerned with the functions or activities of the Agency, to accept payment, in cash or in kind, from any private agency or organization, or from any individual affiliated with such agency or organization, for travel and subsistence expenses, such payment to be retained by such officer or employee to cover the cost thereof or to be deposited to the credit of the appropriation from which the cost thereof is paid;".
 
-Subsec. (h). Pub. L. 105–277, §1223(13)(B), (F), (H), redesignated subsec. (i) as (h) and substituted "UnderSecretary for Arms Control and International Security" for "Deputy Director", "Department of State" for "Agency", and "Secretary of State" for "Director". Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 105–277, §1223(13)(B), (F), (H), redesignated subsec. (i) as (h) and substituted "Under Secretary for Arms Control and International Security" for "Deputy Director", "Department of State" for "Agency", and "Secretary of State" for "Director". Former subsec. (h) redesignated (g).
 
 Subsec. (i). Pub. L. 105–277, §1223(13)(B), (F), redesignated subsec. (j) as (i) and substituted "Secretary of State" for "Director". Former subsec. (i) redesignated (h).
 
@@ -106,7 +106,7 @@ Memorandum of the President of the United States, Aug. 18, 1990, 55 F.R. 37693, 
 
 Memorandum for the Director of the United States Arms Control and Disarmament Agency
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 41(d) of the Arms Control and Disarmament Act (22 U.S.C. 2581(d)) to certify that the employment of persons referred to in that section in excess of the number of days set forth in that section is necessary in the national interest.
+By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 41(d) of the Arms Control and Disarmament Act (22 U.S.C. 2581(d)) to certify that the employment of persons referred to in that section in excess of the numberof days set forth in that section is necessary in the national interest.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

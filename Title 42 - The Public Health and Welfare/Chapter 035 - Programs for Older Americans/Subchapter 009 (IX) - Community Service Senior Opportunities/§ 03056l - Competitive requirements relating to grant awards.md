@@ -4,7 +4,7 @@
 
 #### (1) Initial approval of grant applications
 
-&emsp;From the funds available for national grants under section 3056d(d) of this title, the Secretary shall award grants under section 3056(b) of this title to eligible applicants, through a competitive process that emphasizes meeting performance requirements, to carry outprojects under this subchapter for a period of 4 years, except as provided in paragraph (2). The Secretary may not conduct a grant competition under this subchapter until the day described in section 3056k(e) of this title.
+&emsp;From the funds available for national grants under section 3056d(d) of this title, the Secretary shall award grants under section 3056(b) of this title to eligible applicants, through a competitive process that emphasizes meeting performance requirements, to carry out projects under this subchapter for a period of 4 years, except as provided in paragraph (2). The Secretary may not conduct a grant competition under this subchapter until the day described in section 3056k(e) of this title.
 
 #### (2) Continuation of approval based on performance
 
@@ -80,7 +80,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 &emsp;&emsp;(L) Failure to audit a subrecipient within the required period.
 
-&emsp;&emsp;(M) Final disallowed costs in excess of 5 percent of the grant or contract award if, inthe judgment of the grant officer, the disallowances are egregious.
+&emsp;&emsp;(M) Final disallowed costs in excess of 5 percent of the grant or contract award if, in the judgment of the grant officer, the disallowances are egregious.
 
 &emsp;&emsp;(N) Failure to establish a mechanism to resolve a subrecipient's audit in a timely fashion.
 

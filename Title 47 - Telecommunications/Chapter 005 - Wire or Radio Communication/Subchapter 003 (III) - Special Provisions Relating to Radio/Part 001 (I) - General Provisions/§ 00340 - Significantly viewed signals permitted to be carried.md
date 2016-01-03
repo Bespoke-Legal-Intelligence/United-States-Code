@@ -24,7 +24,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (4) Authority to grant station-specific waivers
 
-&emsp;Paragraphs (1) and (2) shall not prohibit a retransmission of a network station to a subscriber if and to the extent that the network station in the local market in which the subscriber is located, and that is affiliated with the same television network, has privately negotiated and affirmatively granted a waiver from the requirements of paragraph <sup>2</sup> (1) and (2) to such satellite carrier with respect to retransmission of the significantly viewed station to such subscriber.
+&emsp;Paragraphs (1) and (2) shall not prohibit a retransmission of a network station to a subscriber if and to the extent that the networkstation in the local market in which the subscriber is located, and that is affiliated with the same television network, has privately negotiated and affirmatively granted a waiver from the requirements of paragraph <sup>2</sup> (1) and (2) to such satellite carrier with respect to retransmission of the significantly viewed station to such subscriber.
 
 #### (c) Publication and modifications of lists; regulations
 
@@ -92,7 +92,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (4) No effect on copyright proceedings
 
-&emsp;Any determination, action, or failure to act of the Commission under this subsection shall have no effect on any proceeding under title 17 and shall not be introduced in evidence in any proceeding under that title. In no instance shall a Commission enforcement proceeding under this subsection be required as a predicate to the pursuit of a remedy available under title 17.
+&emsp;Any determination, action, or failure to act of the Commission under this subsection shall have no effect on any proceeding under title 17 and shall not be introduced in evidence in any proceeding under that title. In no instanceshall a Commission enforcement proceeding under this subsection be required as a predicate to the pursuit of a remedy available under title 17.
 
 #### (g) Notices concerning significantly viewed stations
 
@@ -114,7 +114,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 #### (2) Unified negotiations
 
-&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unifiednegotiation for the entire portion of its local market for which retransmission consent is elected.
+&emsp;In revising its regulations as required by paragraph (1), the Commission shall provide that any such station shall conduct a unified negotiation for the entire portion of its local market for which retransmission consent is elected.
 
 #### (3) Additional provisions
 
@@ -158,7 +158,7 @@ As used in this section:
 
 &emsp;The term "community" means—
 
-&emsp;&emsp;(A) a county or a cable community, as determined under the rules, regulations, and authorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
+&emsp;&emsp;(A) a county or a cable community, as determined under the rules, regulations, andauthorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
 
 &emsp;&emsp;(B) a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Rulemaking Required
 
-Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: "Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\]."
+Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: "Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

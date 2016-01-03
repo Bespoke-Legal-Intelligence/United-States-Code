@@ -66,7 +66,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 > there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in the medical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such a large group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
 
-(3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2)is the period including each month during any part of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
+(3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
 (B) The special enrollment period referred to in the second sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual) ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
@@ -160,7 +160,7 @@ Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any 
 
 Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted "in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)" for "as an active individual in a large group health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)".
 
-Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual is enrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
+Pub. L. 103–432, §147(f)(1)(A), substituted "including each month during any part of which the individual isenrolled" for "beginning with the first day of the first month in which the individual is no longer enrolled" and "ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled" for "and ending seven months later".
 
 <b>1989</b>—Subsec. (i)(1). Pub. L. 101–239, §6202(c)(1)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, struck out former subpar. (A) which read as follows: "has attained the age of 65,", and inserted "not described in the previous sentence" after "In the case of an individual" in second sentence.
 
@@ -230,7 +230,7 @@ Subsec. (d). Pub. L. 89–384, §3(b), substituted March 1, 1966, for January 1,
 
 Pub. L. 111–148, title III, §3110(a)(2), Mar. 23, 2010, 124 Stat. 420, as amended by Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to elections made on and after the date of the enactment of this Act \[Mar. 23, 2010\]."
 
-\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201 to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
+\[Pub. L. 111–309, title II, §201, Dec. 15, 2010, 124 Stat. 3289, provided that the amendment made by section 201to section 3110(a)(2) of Pub. L. 111–148, set out above, is effective as if included in the enactment of Pub. L. 111–148.\]
 
 #### Effective Date of 2006 Amendment
 
@@ -258,7 +258,7 @@ Pub. L. 101–239, title VI, §6202(c)(3), Dec. 19, 1989, 103 Stat. 2234, provid
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514,set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 applicable to enrollments occurring on or after Jan. 1, 1987, see section 9319(f)(2) of Pub. L. 99–509, set out as a note under section 1395y of this title.
 

@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes.
+&emsp;The Director shall establish an office with necessary administrative and technical support services to carry out all United StatesFish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes.
 
 #### (2) Name and location
 

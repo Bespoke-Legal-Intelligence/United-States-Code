@@ -48,7 +48,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) is duly authorized by the provider of such service to engage in such use;
 
-&emsp;(14) "electronic communications system" means any wire, radio, electromagnetic, photooptical or photoelectronic facilities for the transmission of wire or electronic communications, and any computer facilities or related electronic equipment for the electronic storage of such communications;
+&emsp;(14) "electronic communications system" means any wire, radio, electromagnetic,photooptical or photoelectronic facilities for the transmission of wire or electronic communications, and any computer facilities or related electronic equipment for the electronic storage of such communications;
 
 &emsp;(15) "electronic communication service" means any service which provides to users thereof the ability to send or receive wire or electronic communications;
 
@@ -156,7 +156,7 @@ In General.—Except as provided in subsection (b) or (c), this title and the am
 
 Special Rule for State Authorizations of Interceptions.—Any interception pursuant to section 2516(2) of title 18 of the United States Code which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such interception occurs during the period beginning on the date such amendments take effect and ending on the earlier of—
 
-&emsp;"(1) the day before the date of the taking effect of State law conforming the applicable State statutewith chapter 119 of title 18, United States Code, as so amended; or
+&emsp;"(1) the day before the date of the taking effect of State law conforming the applicable State statute with chapter 119 of title 18, United States Code, as so amended; or
 
 &emsp;"(2) the date two years after the date of the enactment of this Act \[Oct. 21, 1986\].
 
@@ -200,7 +200,7 @@ Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: 
 
 "(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 
-"(d) To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused."
+"(d) To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime withassurances that the interception is justified and that the information obtained thereby will not be misused."
 
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 

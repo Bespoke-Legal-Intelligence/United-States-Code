@@ -6,7 +6,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 &emsp;(1) any person, including a current or former official of the Government of Ukraine or a person acting on behalf of that Government, that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts of violence or gross human rights abuses in Ukraine against persons associated with the antigovernment protests in Ukraine that began on November 21, 2013;
 
-&emsp;(2) any person that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts that are intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including acts of economic extortion;
+&emsp;(2) any person that the President determines has perpetrated, or is responsible for ordering, controlling, or otherwise directing, significant acts that are intended to undermine the peace,security, stability, sovereignty, or territorial integrity of Ukraine, including acts of economic extortion;
 
 &emsp;(3) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is responsible for, complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in Ukraine, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
@@ -38,7 +38,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 2415 of title 50, Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (4) Exception to comply with United Nations headquarters agreement
 

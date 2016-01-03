@@ -46,7 +46,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) Part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 
-&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverageconsisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
+&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverage consisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
 
 &emsp;&emsp;(E) Chapter 55 of title 10.
 
@@ -82,7 +82,7 @@ For purposes of this part—
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the meanings given such terms in section 300bb–5(b)(4) of this title.
+&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have themeanings given such terms in section 300bb–5(b)(4) of this title.
 
 #### (3) Method of crediting coverage
 
@@ -188,7 +188,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions toward such coverage were terminated.
 
-&emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion ofcoverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
+&emsp;&emsp;(D) Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in subparagraph (C)(i) or termination of coverage or employer contribution described in subparagraph (C)(ii).
 
 #### (2) For dependent beneficiaries
 
@@ -226,7 +226,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan, and a health insurance issuer offering group health insurancecoverage in connection with a group health plan, shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -338,7 +338,7 @@ Amendment by section 1201(2) of Pub. L. 111–148 effective for plan years begin
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
-Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) ofPub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 

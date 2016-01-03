@@ -1,6 +1,6 @@
 ### §325. Resident citizenship of State as qualification for entry
 
-Excepting in the State of Nevada, no person shall be entitled to make entry of desert landsunless he be a resident citizen of the State or Territory in which the land sought to be entered is located.
+Excepting in the State of Nevada, no person shall be entitled to make entry of desert lands unless he be a resident citizen of the State or Territory in which the land sought to be entered is located.
 
 (Mar. 3, 1877, ch. 107, §8, as added Mar. 3, 1891, ch. 561, §2, 26 Stat. 1097; amended Jan. 6, 1921, ch. 12, 41 Stat. 1086.)
 

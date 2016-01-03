@@ -6,7 +6,7 @@ If the head of an Executive agency (as defined in section 105 of title 5) determ
 
 #### (b) Inclusion in annex
 
-The head of the Executive agency shall place the information with respect to which a determination was made under subsection (a) in a separate annex to the notification or report required by section 923 or 928 of this title. The annex shall be provided to the subcommittee of primary jurisdiction of the congressional committee of primary jurisdiction in accordance with appropriate national security stipulations but shall not be disclosed to the public or provided to any unauthorized person through any means.
+The head of the Executive agency shall place the information with respect to which a determination was made under subsection (a) in a separate annex to the notification or report required by section 923 or 928 of this title. The annex shall be provided to the subcommittee of primary jurisdiction of the congressional committee of primary jurisdiction in accordance with appropriate national security stipulationsbut shall not be disclosed to the public or provided to any unauthorized person through any means.
 
 (Pub. L. 102–538, title I, §119, as added Pub. L. 112–96, title VI, §6703, Feb. 22, 2012, 126 Stat. 255.)
 

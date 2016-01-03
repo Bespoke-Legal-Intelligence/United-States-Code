@@ -62,6 +62,10 @@
 
 &emsp;For purposes of this subsection, the term "dividend" does not include any amount treated as a dividend under section 1248.
 
+#### (12) Dividends derived from RICs and REITs ineligible for deduction
+
+&emsp;Regulated investment companies and real estate investment trusts shall not be treated as domestic corporations for purposes of paragraph (5)(B).
+
 #### (b) Certain dividends received from wholly owned foreign subsidiaries
 
 #### (1) In general
@@ -126,7 +130,7 @@
 
 &emsp;Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 114–113, div. Q, title III, §326(a), Dec. 18, 2015, 129 Stat. 3103.)
 
 #### References in Text
 
@@ -135,6 +139,8 @@ Section 1562, referred to in subsec. (b)(3), was repealed by Pub. L. 91–172, t
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(5), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(12). Pub. L. 114–113 added par. (12).
 
 <b>2007</b>—Subsec. (c)(4)(C). Pub. L. 110–172, §11(g)(3), added subpar. (C).
 
@@ -156,7 +162,7 @@ Property distributions.—For purposes of this section, the amount of any distri
 
 <b>1987</b>—Subsec. (c)(1)(B). Pub. L. 100–203 substituted "70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2))" for "85 percent".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted "Dividends from 10-percent owned foreign corporations" for "General rule" as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as "10-percent owned foreign corporations" for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted "Dividends from 10-percent owned foreign corporations" for "General rule"as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as "10-percent owned foreign corporations" for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
 
 Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend."
 
@@ -173,6 +179,10 @@ Subsec. (c)(4). Pub. L. 99–514, §1876(j), redesignated former par. (3) as (4)
 Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein "subsections (a) and (b)" for "subsection (a)".
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–834 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §326(b), Dec. 18, 2015, 129 Stat. 3104, provided that: "The amendment made by this section \[amending this section\] shall apply to dividends received from regulated investment companies and real estate investment trusts on or after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -200,7 +210,7 @@ Amendment by section 1876(d)(1), (j) of Pub. L. 99–514 effective, except as ot
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (o), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900–2902, provided that:
+Pub. L. 98–369, div. A, title VIII, §805(a), July 18, 1984, 98 Stat. 1000, as amended by Pub. L. 99–514, §2, title XVIII, §1876(i), (o), (p)(4), Oct. 22, 1986, 100 Stat. 2095, 2900-2902, provided that:
 
 "(1)
 
@@ -231,6 +241,10 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable to distributions made after Dec. 31, 1962, see section 5(d) of Pub. L. 87–834, set out as a note under section 301 of this title.
+
+#### Construction of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title III, §326(c), Dec. 18, 2015, 129 Stat. 3104, provided that: "Nothing contained in this section \[amending this section and enacting provisions set out as a note above\] or the amendments made by this section shall be construed to create any inference with respect to the proper treatment under section 245 of the Internal Revenue Code of 1986 of dividends received from regulated investment companies or real estate investment trusts before the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Dividends Received or Accrued During 1987
 

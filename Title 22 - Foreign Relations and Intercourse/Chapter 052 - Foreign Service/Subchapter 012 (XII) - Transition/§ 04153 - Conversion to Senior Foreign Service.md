@@ -2,7 +2,7 @@
 
 #### (a) Criteria; application less than 120 days after effective date of Foreign Service Act of 1980
 
-Foreign Service officers and Foreign Service Reserve officers with limited or unlimited tenure who, immediately before February 15, 1981, are serving under appointments at class 2 or ahigher class of the schedule established under section 412 or 414 of the Foreign Service Act of 1946 may at any time within 120 days after such date submit to the Secretary a written request for appointment to the Senior Foreign Service.
+Foreign Service officers and Foreign Service Reserve officers with limited or unlimited tenure who, immediately before February 15, 1981, are serving under appointments at class 2 or a higher class of the schedule established under section 412 or 414 of the Foreign Service Act of 1946 may at any time within 120 days after such date submit to the Secretary a written request for appointment to the Senior Foreign Service.
 
 #### (b) Limited appointment
 
@@ -22,7 +22,7 @@ If the Secretary determines that a Foreign Service Reserve officer with limited 
 
 #### (e) Application more than 120 days after effective date of Foreign Service Act of 1980
 
-If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, the Secretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title, subject to the conditions specified in subsection (d) and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
+If a Foreign Service officer or a Foreign Service Reserve officer who is eligible to submit a request under subsection (a) submits a written request for appointment to the Senior Foreign Service to the Secretary more than 120 days after February 15, 1981, and before the end of the 3-year period beginning on February 15, 1981, theSecretary (in the case of a Foreign Service Reserve officer with limited tenure) may grant a limited appointment to, or (in the case of a Foreign Service officer or Foreign Service Reserve officer with unlimited tenure) may recommend to the President a career appointment of, the requesting officer to the appropriate class established under section 3962 of this title, subject to the conditions specified in subsection (d) and such other conditions as the Secretary may prescribe consistent with the provisions of subchapter VI of this chapter relating to promotion into the Senior Foreign Service.
 
 #### (f) Forced conversion
 

@@ -35,7 +35,7 @@ Pub. L. 105–34, title XIV, §1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added i
 
 <b>1996</b>—Pub. L. 104–168, title VI, §601(b), title XII, §1203(b), July 30, 1996, 110 Stat. 1462, 1471, added items 7434 and 7435 and redesignated former item 7434 as 7436.
 
-<b>1988</b>—Pub. L. 100–647, title VI, §§6237(e)(4), 6239(c), 6240(b), 6241(c), Nov. 10, 1988, 102 Stat. 3743, 3746–3748, inserted "levy or" after "jeopardy" in item 7429, struck out "court" after "Awarding of" in item 7430, added items 7432 and 7433, and redesignated former item 7432 as 7434.
+<b>1988</b>—Pub. L. 100–647, title VI, §§6237(e)(4), 6239(c), 6240(b), 6241(c), Nov. 10, 1988, 102 Stat. 3743, 3746-3748, inserted "levy or" after "jeopardy" in item 7429, struck out "court" after "Awarding of" in item 7430, added items 7432 and 7433, and redesignated former item 7432 as 7434.
 
 <b>1982</b>—Pub. L. 97–248, title II, §292(d)(1), title III, §357(b)(3), Sept. 3, 1982, 96 Stat. 574, 646, added items 7430 and 7431 and redesignated former item 7430 as 7432.
 

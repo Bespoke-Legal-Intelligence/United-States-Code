@@ -8,7 +8,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(A) if such record is required by law or regulation for the entry of the merchandise (whether or not the Customs Service required its presentation at the time of entry) it shall be provided to the Customs Service within a reasonable time after demand for its production is made, taking into consideration the number, type, and age of the item demanded; and
 
-&emsp;&emsp;(B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g) of this section;
+&emsp;&emsp;(B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g);
 
 &emsp;(2) summon, upon reasonable notice—
 
@@ -28,7 +28,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(D) any other person he may deem proper;
 
-> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+> &emsp;to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A), and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
 &emsp;(3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -104,17 +104,17 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;(B) if the requirements of such paragraph (5)(B) have been met, except in accordance with an order issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance.
 
-(7) The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
+(7) The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice maylead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
 
 #### (e) List of records and information
 
-The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A) of this section.
+The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A).
 
 #### (f) Recordkeeping compliance program
 
 #### (1) In general
 
-&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph\(2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
+&emsp;After consultation with the importing community, the Customs Service shall by regulation establish a recordkeeping compliance program which the parties listed in section 1508(a) of this title may participate in after being certified by the Customs Service under paragraph (2). Participation in the recordkeeping compliance program by recordkeepers is voluntary.
 
 #### (2) Certification
 
@@ -136,11 +136,11 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (1) "Information" defined
 
-&emsp;For purposes of this subsection, the term "information" means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
+&emsp;For purposes of this subsection, the term "information" means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
 
 #### (2) Effects of failure to comply with demand
 
-&emsp;Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
+&emsp;Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) the following provisions apply:
 
 &emsp;&emsp;(A) If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
 
@@ -186,7 +186,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;When a recordkeeper who—
 
-&emsp;&emsp;&emsp;(i) has been certified as a participant in the recordkeeping compliance program under subsection (f) of this section; and
+&emsp;&emsp;&emsp;(i) has been certified as a participant in the recordkeeping compliance program under subsection (f); and
 
 &emsp;&emsp;&emsp;(ii) is generally in compliance with the appropriate procedures and requirements of the program;
 
@@ -262,11 +262,11 @@ Subsec. (d)(4)(B). Pub. L. 103–182, §615(4)(C), (D), substituted "the transac
 
 Subsecs. (e) to (g). Pub. L. 103–182, §615(5), added subsecs. (e) to (g).
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–570, §3117(1), substituted "as defined in subsection (c)(1)(A) of this section" for "required to be kept under section 1508 of this title" in concluding provisions.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–570, §3117(1), substituted "as defined in subsection (c)(1)(A)" for "required to be kept under section 1508 of this title" in concluding provisions.
 
 Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'records' includes statements, declarations, or documents required to be kept under section 1508 of this title."
 
-<b>1978</b>—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses forprior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
+<b>1978</b>—Pub. L. 95–410 substituted subsec. (a) to (c) provisions for examination of books and witnesses for prior provisions for examination of importer and others, which authorized appropriate customs officers to issue citations for examination under oath of any owner, importer, consignee, agent, or other person upon any material matter or thing respecting any imported merchandise then under consideration or previously imported within one year, in ascertaining the classification or the value thereof or the rate or amount of duty and to require production of any letters, accounts, contracts, invoices, or other documents relating to the merchandise, and the reduction of the testimony to writing, required the testimony to be filed and preserved under Customs Court rules, and authorized consideration of the evidence in subsequent proceedings relating to the merchandise.
 
 <b>1970</b>—Pub. L. 91–271 substituted "Appropriate customs officer" for "Collectors and appraisers".
 

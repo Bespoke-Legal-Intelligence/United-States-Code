@@ -48,7 +48,7 @@ Participation in JCS Meetings.—The Vice Chairman may participate in all meetin
 
 #### Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff
 
-Pub. L. 100–526, title I, §107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
+Pub. L. 100–526, title I, §107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989,term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
 
 #### Waiver of Qualifications for Appointment as Vice Chairman of Joint Chiefs of Staff
 

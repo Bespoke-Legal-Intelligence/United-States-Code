@@ -8,7 +8,7 @@
 
 &emsp;(2) enforce a claim for the outstanding indebtedness secured by the mortgaged vessel in—
 
-&emsp;&emsp;(A) a civil action in personam in admiralty against the mortgagor, maker, comaker, orguarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
+&emsp;&emsp;(A) a civil action in personam in admiralty against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
 &emsp;&emsp;(B) a civil action against the mortgagor, maker, comaker, or guarantor for the amount of the outstanding indebtedness or any deficiency in full payment of that indebtedness; and
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 
-(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) of this title before notice of the proposed transfer is given to the Secretary.
+(f)(1) Before title to the documented vessel or vessel for which an application for documentation is filed under chapter 121 is transferred by an extrajudicial remedy, the person exercising the remedy shall give notice of the proposed transfer to the Secretary, to the mortgagee of any mortgage on the vessel filed in substantial compliance with section 31321 of this title before notice of the proposed transfer is given to the Secretary, and to any person that recorded an unexpired notice of a claim of an undischarged lien on the vessel under section 31343(a) or (d) ofthis title before notice of the proposed transfer is given to the Secretary.
 
 (2) Failure to give notice as required by this subsection shall not affect the transfer of title to a vessel. However, the rights of any holder of a maritime lien or a preferred mortgage on the vessel shall not be affected by a transfer of title by an extrajudicial remedy exercised under this section, regardless of whether notice is required by this subsection or given.
 
@@ -84,7 +84,7 @@ Section 31325 provides for the enforcement of a preferred mortgage lien.
 
 Section 31325(a) makes a "preferred mortgage" a lien on the vessel in the amount of the mortgage indebtedness secured by the vessel outstanding at foreclosure. This subsection makes no substantive change to law.
 
-Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lien in a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. Thissection will also allow the action to be brought against the comaker or guarantor of the mortgage.
+Section 31325(b) provides that, on default of any term, the mortgagee may enforce the preferred mortgage lien in a civil action <i>in rem</i>, or <i>in personam</i> in admiralty against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This subsection makes a substantive change to law by allowing a nonadmiralty civil action to be brought against the mortgagor, comaker, or guarantor for the amount of the outstanding indebtedness secured by the vessel or any deficiency in paying off that indebtedness. This change allows an action to be brought even when the vessel is outside U.S. jurisdiction. This section will also allow the action to be brought against the comaker or guarantor of the mortgage.
 
 Section 31325(c) provides for original and exclusive jurisdiction by a district court, to the exclusion of the courts of a State for civil actions brought <i>in rem</i>. It also provides for original jurisdiction for civil actions brought <i>in personam</i> in admiralty and civil actions brought under subsection (b)(3). This subsection makes a substantive change to law by broadening the jurisdiction to courts in the territories, as defined in section 31301, as well as giving original jurisdiction to the district courts in nonadmiralty civil actions brought to enforce the preferred mortgage lien.
 
@@ -130,7 +130,7 @@ Subsec. (f). Pub. L. 104–324, §1124(b), added subsec. (f).
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section 3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
+Amendment by Pub. L. 110–181 effective as if included in the enactment of Pub. L. 109–304, see section3529(b)(2) of Pub. L. 110–181, set out as a note under section 3205 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -14,7 +14,7 @@
 
 (c) The Secretary concerned or the Secretary of Veterans Affairs, as prescribed by the President, has the powers, functions, and duties under this chapter incident to hospitalization, reexaminations, and the payment of disability retired pay within his department or agency.
 
-(d) The Secretary concerned may not, with respect to any member who is a general officer or flag officer or is a medical officer being processed for retirement under any provisions of this title by reason of age or length of service—
+(d) The Secretary concerned may not, with respect to any member who is a general officer orflag officer or is a medical officer being processed for retirement under any provisions of this title by reason of age or length of service—
 
 &emsp;(1) retire such member under section 1201 of this title;
 

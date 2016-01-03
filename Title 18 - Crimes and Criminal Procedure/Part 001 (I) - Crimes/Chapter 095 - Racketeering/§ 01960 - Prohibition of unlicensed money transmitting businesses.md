@@ -6,7 +6,7 @@
 
 &emsp;(1) the term "unlicensed money transmitting business" means a money transmitting business which affects interstate or foreign commerce in any manner or degree and—
 
-&emsp;&emsp;(A) is operated without an appropriate money transmitting license in a State where such operation is punishable as a misdemeanor or a felony under State law, whether or not the defendant knew that the operation was required to be licensed or that the operation was so punishable;
+&emsp;&emsp;(A) is operated without an appropriate money transmitting license in a State where such operation is punishable as a misdemeanor or a felony under State law, whether or not the defendant knew that theoperation was required to be licensed or that the operation was so punishable;
 
 &emsp;&emsp;(B) fails to comply with the money transmitting business registration requirements under section 5330 of title 31, United States Code, or regulations prescribed under such section; or
 

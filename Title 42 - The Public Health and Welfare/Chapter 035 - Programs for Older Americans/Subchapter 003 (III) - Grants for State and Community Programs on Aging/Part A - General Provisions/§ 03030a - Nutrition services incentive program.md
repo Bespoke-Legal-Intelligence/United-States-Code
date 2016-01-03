@@ -24,7 +24,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 (1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all or any part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
 
-(2) The Secretary of Agriculture shall determine and report to the Secretary, by such dateas the Secretary may require, the amount (if any) of its allotment under subsection (b) which each State agency and title VI \[subchapter X\] grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or title VI \[subchapter X\] grantee under this subsection bears to the total value of commodities so received.
+(2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) which each State agency and title VI \[subchapter X\] grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or title VI \[subchapter X\] grantee under this subsection bears to the total value of commodities so received.
 
 (3) From the allotment under subsection (b) for each State agency and title VI \[subchapter X\] grantee, the Secretary shall transfer funds to the Secretary of Agriculture for the costs of commodities received by such State agency or grantee, and expenses related to the procurement of the commodities on behalf of such State agency or grantee, under this subsection, and shall then pay the balance (if any) to such State agency or grantee. The amount of funds transferred for the expenses related to the procurement of the commodities shall be mutually agreed on by the Secretary and the Secretary of Agriculture. The transfer of funds for the costs of the commodities and the related expenses shall occur in a timely manner after the Secretary of Agriculture submits the corresponding report described in paragraph (2), and shall be subject to the availability of appropriations. Amounts received by the Secretary of Agriculture pursuant to this section to make commodity purchases for a fiscal year for a State agency or title VI \[subchapter X\] grantee shall remain available, only for the next fiscal year, to make commodity purchases for that State agency or grantee pursuant to this section.
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 109–365, §309(5), substituted "the Assistant Secretary a
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–7, §217(a)(1)(A), substituted "and payment" for "of cash or commodities" in heading that had been supplied editorially.
 
-Subsec. (b)(1). Pub. L. 108–7, §217(a)(1)(B), substituted "The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency" for "The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to eachState agency" and "to or on behalf of each grantee" for "to each grantee".
+Subsec. (b)(1). Pub. L. 108–7, §217(a)(1)(B), substituted "The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency" for "The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency" and "to or on behalf of each grantee" for "to each grantee".
 
 Subsec. (d). Pub. L. 108–7, §217(a)(2)(A), inserted heading.
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 98–459, §310(b)(1), redesignated subsec. (d) as (c). See
 
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–115, §9(a), substituted "Subject to the authorization of appropriations specified in subsection (d) of this section, in donating" and "30 cents per meal for each fiscal year thereafter" for "In donating" and "30 cents per meal during the three succeeding fiscal years", respectively.
 
-Subsecs. (b), (c). Pub. L. 97–115, §9(b), redesignated subsec. (c) as (b). Former subsec. (b), providing for thepurchase, during fiscal years ending before Oct. 1, 1981, of high protein foods, meats, and meat alternatives by the Secretary of Agriculture for distribution to recipients of grants or contracts to be used for providing nutrition services in accordance with the provisions of this subchapter, was struck out.
+Subsecs. (b), (c). Pub. L. 97–115, §9(b), redesignated subsec. (c) as (b). Former subsec. (b), providing for the purchase, during fiscal years ending before Oct. 1, 1981, of high protein foods, meats, and meat alternatives by the Secretary of Agriculture for distribution to recipients of grants or contracts to be used for providing nutrition services in accordance with the provisions of this subchapter, was struck out.
 
 Subsec. (d). Pub. L. 97–115, §9(c), added subsec. (d).
 

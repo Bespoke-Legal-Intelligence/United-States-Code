@@ -12,7 +12,7 @@
 
 (c) Whenever the Director has reason to believe that there has been retaliation against an employee by reason of the employee asserting rights under an equal employment opportunity law, the Director shall report the suspected retaliatory action directly to the Secretary or Deputy Secretary, who shall take appropriate action thereon.
 
-(d)(1) The Office shall employ a sufficient number of attorneys and other personnel as are necessary to carry out the functions of the Office. Attorneys shall be compensated at a level commensurate with attorneys employed by the Office of the General Counsel.
+(d)(1) The Office shall employ a sufficient number of attorneys and other personnel as are necessary to carry out the functions of the Office. Attorneys shall be compensated at a levelcommensurate with attorneys employed by the Office of the General Counsel.
 
 (2) The Secretary shall ensure that the Director is furnished sufficient resources in addition to personnel under paragraph (1) to enable the Director to carry out the functions of the Office in a timely manner.
 

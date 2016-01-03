@@ -64,7 +64,7 @@
 
 > Any independent city which is included in any fiscal year for purposes of computing amounts pursuant to the preceding sentence shall not be eligible to receive assistance under subsection (d) of this section with respect to such fiscal year.
 
-(5) In computing amounts under this section with respect to any urban county, there shall be included all of the area of any unit of local government which is part of, but is not located entirely within the boundaries of, such urban county if the part of such unit of local government which is within the boundaries of such urban county would otherwise be included in computing the amount for such urban countyunder this section, and if the part of such unit of local government which is not within the boundaries of such urban county is not included as a part of any other unit of local government for the purpose of this section. Any amount received by such urban county under this section may be used with respect to the part of such unit of local government which is outside the boundaries of such urban county.
+(5) In computing amounts under this section with respect to any urban county, there shall be included all of the area of any unit of local government which is part of, but is not located entirely within the boundaries of, such urban county if the part of such unit of local government which is within the boundaries of such urban county would otherwise be included in computing the amount for such urban county under this section, and if the part of such unit of local government which is not within the boundaries of such urban county is not included as a part of any other unit of local government for the purpose of this section. Any amount received by such urban county under this section may be used with respect to the part of such unit of local government which is outside the boundaries of such urban county.
 
 (6)(A) Where data are available, the amount determined under paragraph (1) for a metropolitan city that has been formed by the consolidation of one or more metropolitan cities with an urban county shall be equal to the sum of the amounts that would have been determined under paragraph (1) for the metropolitan city or cities and the balance of the consolidated government, if such consolidation had not occurred. This paragraph shall apply only to any consolidation that—
 
@@ -96,7 +96,7 @@
 
 (B) In using any amounts that become available as a result of actions under section 5304(e) or 5311 of this title, the Secretary shall give priority to providing emergency assistance under this paragraph.
 
-(C) The Secretary may provide assistance to any metropolitan city or urban county under this paragraph only to the extent necessary tomeet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the city or county resulting from the disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and other sources of assistance.
+(C) The Secretary may provide assistance to any metropolitan city or urban county under this paragraph only to the extent necessary to meet emergency community development needs, as the Secretary shall determine (subject to subparagraph (D)), of the city or county resulting from the disaster that are not met with amounts otherwise provided under this chapter, the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], and other sources of assistance.
 
 (D) Amounts provided to metropolitan cities and urban counties under this paragraph may be used only for eligible activities under section 5305 of this title, and in implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
 
@@ -156,7 +156,7 @@
 
 (C) Any amounts allocated for use in a State under paragraph (1) that are not received by the State for any fiscal year because of failure to meet the requirements of subsection (a), (b), or (d) of section 5304 of this title or to make the certifications required in subparagraphs (C) and (D) of paragraph (2), or that become available as a result of actions against the State under section 5304(e) or 5311 of this title, shall be added to amounts allocated to all States under paragraph (1) for the succeeding fiscal year.
 
-(D) Any amounts allocated for use in a State under paragraph (1) that become available as a result of actions under section 5304(e) or 5311 of this title against units of general local government in nonentitlement areas of the State or as a result of the closeout of a grant made by the Secretary under this section in nonentitlement areas of the State shall be added to amounts allocated to the State under paragraph (1) for the fiscal year in which the amounts become so available.
+(D) Any amounts allocated for use in a State under paragraph (1) that become available as a result of actions under section 5304(e) or 5311 ofthis title against units of general local government in nonentitlement areas of the State or as a result of the closeout of a grant made by the Secretary under this section in nonentitlement areas of the State shall be added to amounts allocated to the State under paragraph (1) for the fiscal year in which the amounts become so available.
 
 (4) Any combination of units of general local governments may not be required to obtain recognition by the Secretary pursuant to section 5302(a)(1) of this title to be treated as a single unit of general local government for purposes of this subsection.
 
@@ -238,7 +238,7 @@ Subsec. (a)(4). Pub. L. 108–186, §501(d)(4), redesignated par. (3) as (4).
 
 Subsec. (d)(1). Pub. L. 108–186, §501(e), substituted "paragraphs (1), (2), and (3)" for "paragraphs (1) and (2)" in first sentence.
 
-<b>1992</b>—Subsec. (d)(1). Pub. L. 102–550, §1204(i), in first sentence, substituted "that remains after allocations pursuant to paragraphs (1) and (2) of subsection (a) ofthis section" for "for grants in any year (excluding the amounts provided for use in accordance with subsection (a)(1) and (2) of this section)".
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–550, §1204(i), in first sentence, substituted "that remains after allocations pursuant to paragraphs (1) and (2) of subsection (a) of this section" for "for grants in any year (excluding the amounts provided for use in accordance with subsection (a)(1) and (2) of this section)".
 
 Subsec. (d)(4). Pub. L. 102–550, §802(b), added par. (4).
 
@@ -312,7 +312,7 @@ Subsec. (d)(2)(D). Pub. L. 98–181, §106(f), added subpar. (D).
 
 Subsec. (d)(3)(A). Pub. L. 98–181, §106(g), substituted provisions that the State may deduct an amount to cover such expenses not to exceed the sum of $102,000 plus 50 percent of any such expenses in excess of $100,000, and that the amounts deducted in excess of $100,000 shall not exceed 2 percent of the amount so received, for provisions that the State could deduct an amount not to exceed 50 per centum of the costs incurred by the State in carrying out such responsibilities, and that amounts so deducted could not exceed 2 per centum of the amount so received.
 
-Subsec. (d)(3)(C), (D). Pub. L. 98–181, §106(h), amended subpar. (C) generally, substituting provisions requiringthat amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) of this title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or section 5311 of this title were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
+Subsec. (d)(3)(C), (D). Pub. L. 98–181, §106(h), amended subpar. (C) generally, substituting provisions requiring that amounts which are to be reallocated because of failure to meet requirements of section 5304(a), (b) of this title or because of action under section 5304(d) or 5311 of this title be added to amounts allocated to all States for the succeeding fiscal year for provisions that amounts reallocated because of action under section 5304(d) or section 5311 of this title were to be added to amounts available for distribution in the State in the same fiscal year, in the case of actions against units of general local government, or to amounts available for distribution in the succeeding fiscal year, in the case of action against the State, and struck out provision for distribution of such funds by either the State or the Secretary and adding subpar. (D).
 
 Subsec. (d)(5), (6). Pub. L. 98–181, §106(i), added pars. (5) and (6).
 
@@ -344,7 +344,7 @@ Subsec. (f). Pub. L. 96–399, §111(d), redesignated subsec. (k) as (f). Former
 
 Subsec. (g). Pub. L. 96–399, §§102, 111(d), redesignated subsec. (m) as (g) and substituted "any fiscal year" for "fiscal year 1978, fiscal year 1979, or fiscal year 1980", struck out "and hold-harmless" after "all basic grant" in two places, and substituted "subsection (c)" for "subsection (d)(2)" and "subsection (e)" for "subsection (f)(1)(B)". Former subsec. (g), relating to hold-harmless amounts for metropolitan cities and urban counties, was struck out.
 
-Subsec. (h). Pub. L. 96–399, §111(d), struck out subsec. (h) which related to hold-harmless grants to units ofgeneral local government not metropolitan cities or urban counties.
+Subsec. (h). Pub. L. 96–399, §111(d), struck out subsec. (h) which related to hold-harmless grants to units of general local government not metropolitan cities or urban counties.
 
 Subsec. (i). Pub. L. 96–399, §111(d), struck out subsec. (i) which related to percentages excluded from data in computation of hold-harmless grants for units of general local government.
 

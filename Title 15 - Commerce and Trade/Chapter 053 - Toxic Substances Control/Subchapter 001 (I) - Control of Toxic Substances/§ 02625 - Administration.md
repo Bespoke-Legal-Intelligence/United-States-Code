@@ -52,7 +52,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 (4) This subsection does not supersede any requirement of chapter 11 of title 18.
 
-(5) Any officer or employee who is subject to, and knowingly violates, this subsection or any rule issued thereunder, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+(5) Any officer or employee who is subject to, and knowingly violates, this subsection or anyrule issued thereunder, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
 
 #### (f) Statement of basis and purpose
 

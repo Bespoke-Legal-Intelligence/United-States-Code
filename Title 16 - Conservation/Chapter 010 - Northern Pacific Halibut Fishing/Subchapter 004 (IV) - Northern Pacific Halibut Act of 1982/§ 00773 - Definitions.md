@@ -2,7 +2,7 @@
 
 As used in this subchapter the term:
 
-(a) "Convention" means the Convention between the United States of America and Canadafor the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
+(a) "Convention" means the Convention between the United States of America and Canada for the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
 
 (b) "Commission" means the International Pacific Halibut Commission provided for by article III of the Convention.
 
@@ -28,9 +28,9 @@ As used in this subchapter the term:
 
 <i>Pub. L. 102–251, title III, §§302(a), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, section is amended by amending subsection (c) generally and adding subsection (h) to read as follows:</i>
 
-(c) "Exclusive economic zone" means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this subchapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.
+<i>(c) "Exclusive economic zone" means the zone established by Proclamation Numbered 5030, dated March 10, 1983. For purposes of applying this subchapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States.</i>
 
-(h) "Special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+<i>(h) "Special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.</i>
 
 #### References in Text
 

@@ -28,7 +28,7 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 
 #### (ii) Adjustment not precluded
 
-&emsp;&emsp;&emsp;Notwithstanding any other law or rule of law, nothing in subchapter B (or in any proceeding under subchapter B) shall preclude the assessment or collection of anyunderpayment of tax (or the allowance of any credit or refund of any overpayment of tax) attributable to an adjustment referred to in subparagraph (A) and such assessment or collection or allowance (or any notice thereof) shall not preclude any notice, proceeding, or determination under subchapter B.
+&emsp;&emsp;&emsp;Notwithstanding any other law or rule of law, nothing in subchapter B (or in any proceeding under subchapter B) shall preclude the assessment or collection of any underpayment of tax (or the allowance of any credit or refund of any overpayment of tax) attributable to an adjustment referred to in subparagraph (A) and such assessment or collection or allowance (or any notice thereof) shall not preclude any notice, proceeding, or determination under subchapter B.
 
 #### (C) Period of limitations
 
@@ -50,7 +50,63 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1009.)
 
+#### Enactment of Part and Repeal and Reenactment of Section
+
+<i>Pub. L. 114–74, title XI, §1101(b)(2), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 636, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 2 \[sic\] (of subchapter C) heading "Definitions and Special Rules" and analysis consisting of item 6241 are enacted, this section is repealed, and a new section 6241 following the Part 2 analysis is enacted to read as follows:</i>
+
+#### §6241. Definitions and special rules
+
+<i>For purposes of this subchapter—</i>
+
+#### <i>(1) Partnership</i>
+
+&emsp;<i>The term "partnership" means any partnership required to file a return under section 6031(a).</i>
+
+#### <i>(2) Partnership adjustment</i>
+
+&emsp;<i>The term "partnership adjustment" means any adjustment in the amount of any item of income, gain, loss, deduction, or credit of a partnership, or any partner's distributive share thereof.</i>
+
+#### <i>(3) Return due date</i>
+
+&emsp;<i>The term "return due date" means, with respect to the taxable year, the date prescribed for filing the partnership return for such taxable year (determined without regard to extensions).</i>
+
+#### <i>(4) Payments nondeductible</i>
+
+&emsp;<i>No deduction shall be allowed under subtitle A for any payment required to be made by a partnership under this subchapter.</i>
+
+#### <i>(5) Partnerships having principal place of business outside United States</i>
+
+&emsp;<i>For purposes of sections 6234, a principal place of business located outside the United States shall be treated as located in the District of Columbia.</i>
+
+#### <i>(6) Partnerships in cases under title 11 of United States Code</i>
+
+#### <i>(A) Suspension of period of limitations on making adjustment, assessment, or collection</i>
+
+&emsp;&emsp;<i>The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—</i>
+
+&emsp;&emsp;&emsp;<i>(i) for adjustment or assessment, 60 days thereafter, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) for collection, 6 months thereafter.</i>
+
+> &emsp;&emsp;<i>A rule similar to the rule of section 6213(f)(2) shall apply for purposes of section 6232(b).</i>
+
+#### <i>(B) Suspension of period of limitation for filing for judicial review</i>
+
+&emsp;&emsp;<i>The running of the period specified in section 6234 shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.</i>
+
+#### <i>(7) Treatment where partnership ceases to exist</i>
+
+&emsp;<i>If a partnership ceases to exist before a partnership adjustment under this subchapter takes effect, such adjustment shall be taken into account by the former partners of such partnership under regulations prescribed by the Secretary.</i>
+
+#### <i>(8) Extension to entities filing partnership return</i>
+
+&emsp;<i>If a partnership return is filed by an entity for a taxable year but it is determined that the entity is not a partnership (or that there is no entity) for such year, then, to the extent provided in regulations, the provisions of this subchapter are hereby extended in respect of such year to such entity and its items and to persons holding an interest in such entity.</i>
+
 #### Prior Provisions
 
 A prior section 6241, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
+
+#### Effective Date of Repeal and Reenactment
+
+Repeal and reenacted section applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 6221 of this title.
 

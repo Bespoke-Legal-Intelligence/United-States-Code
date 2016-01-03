@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The transfer of an authority or an agency under this chapter to the Department of Homeland Security does not affect training agreements already entered into with the Federal Law Enforcement Training Center with respect to the training of personnel to carry out that authority or the duties of that transferred agency.
+The transfer of an authority or an agency under this chapter to the Department of Homeland Security does not affect training agreements already entered into with the Federal Law Enforcement Training Center with respectto the training of personnel to carry out that authority or the duties of that transferred agency.
 
 #### (b) Continuity of operations
 
@@ -34,7 +34,7 @@ Pub. L. 108–7, div. J, title I, §122, Feb. 20, 2003, 117 Stat. 439.
 
 #### Annual Outstanding Student Award
 
-Pub. L. 108–7, div. J, title I, Feb. 20, 2003, 117 Stat. 431, provided in part: "That the \[Federal Law EnforcementTraining\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority".
+Pub. L. 108–7, div. J, title I, Feb. 20, 2003, 117 Stat. 431, provided in part: "That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority".
 
 Similar provisions were contained in the following prior appropriation acts:
 

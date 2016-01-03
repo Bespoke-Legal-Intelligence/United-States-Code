@@ -2,7 +2,7 @@
 
 #### (a) Authorization; time for agreement; use of funds
 
-The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affectedas a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
+The Secretary and the representatives of the various classes and crafts of employees of the Rock Island Railroad shall, not later than 90 days after January 14, 1983, enter into an agreement providing protection for employees of the Rock Island Railroad who are adversely affected as a result of a reduction in service by such Railroad. Such agreement may provide for the use of funds described in subsection (c) of this section for the following purposes:
 
 &emsp;(1) Subsistence allowances to employees.
 

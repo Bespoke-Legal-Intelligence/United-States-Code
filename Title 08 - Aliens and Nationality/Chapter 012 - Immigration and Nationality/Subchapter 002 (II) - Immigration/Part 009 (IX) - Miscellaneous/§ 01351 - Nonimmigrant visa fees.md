@@ -86,7 +86,7 @@ Fee Increase.—Notwithstanding any other provision of law—
 
 Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), fees collected under the authority of subsection (a) shall be deposited in the Treasury."
 
-Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, which provided in part that notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of Pub. L. 103–236 \[below\], fees could be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1), and that all fees so collected would be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs under section 140(a)(2) and would remain available until expended, was from the Department of State and Related Agency Appropriations Act, 2002, and was not repeated in subsequent appropriation acts.
+Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, which provided in part that notwithstanding section140(a)(5), and the second sentence of section 140(a)(3), of Pub. L. 103–236 \[below\], fees could be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1), and that all fees so collected would be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs under section 140(a)(2) and would remain available until expended, was from the Department of State and Related Agency Appropriations Act, 2002, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriations acts:
 

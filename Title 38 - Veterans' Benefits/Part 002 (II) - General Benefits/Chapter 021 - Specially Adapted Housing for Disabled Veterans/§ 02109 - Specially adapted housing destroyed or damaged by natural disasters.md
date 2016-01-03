@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding the provisions of section <sup>1</sup> 2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
+In General.—Notwithstanding the provisions of sections 2102 and 2102A of this title, the Secretary may provide assistance to a veteran whose home was previously adapted with assistance of a grant under this chapter in the event the adapted home which was being used and occupied by the veteran was destroyed or substantially damaged in a natural or other disaster, as determined by the Secretary.
 
 (b)
 
@@ -22,7 +22,11 @@ Limitations.—The amount of the assistance provided under subsection (a) may no
 
 &emsp;(2) the maximum amount of assistance to which the veteran would have been entitled under sections 2101(a), 2101(b), and 2102A of this title had the veteran not obtained previous assistance under this chapter.
 
-(Added Pub. L. 112–154, title VII, §701(a)(1), Aug. 6, 2012, 126 Stat. 1202.)
+(Added Pub. L. 112–154, title VII, §701(a)(1), Aug. 6, 2012, 126 Stat. 1202; amended Pub. L. 114–58, title VI, §601(12), Sept. 30, 2015, 129 Stat. 538.)
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–58 substituted "provisions of sections" for "provisions of section".
 
 #### Effective Date
 
@@ -45,6 +49,4 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 &emsp;"(B) The number of cases or individuals, as the case may be, in which or to whom the Secretary provided assistance or took action as described in paragraph (1).
 
 &emsp;"(C) For each such case or individual, a description of the type or amount of assistance or action taken, as the case may be."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

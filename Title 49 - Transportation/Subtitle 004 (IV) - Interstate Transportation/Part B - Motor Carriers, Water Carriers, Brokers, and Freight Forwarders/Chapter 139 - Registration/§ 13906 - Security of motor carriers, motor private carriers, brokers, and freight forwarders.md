@@ -126,7 +126,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+In general.—The Secretary may register a person as a freight forwarder undersection 13903 only if the person files with the Secretary a surety bond, proof of trust fund, other financial security, or a combination of such instruments, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
 
 &emsp;&emsp;(B)
 
@@ -242,13 +242,13 @@ Type of Insurance.—The Secretary may determine the type and amount of security
 
 (e)
 
-Notice of Cancellation of Insurance.—The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke the registration of any carrier or broker after the effective date of the cancellation.
+Notice of Cancellation of Insurance.—The Secretary shall issue regulations requiring the submission to the Secretary of notices of insurance cancellation sufficiently in advance of actual cancellation so as to enable the Secretary to promptly revoke or suspend the registration of any carrier or broker after the effective date of the cancellation.
 
 (f)
 
 Form of Endorsement.—The Secretary shall also prescribe the appropriate form of endorsement to be appended to policies of insurance and surety bonds which will subject the insurance policy or surety bond to the full security limits of the coverage required under this section.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 885; amended Pub. L. 104–287, §5(34), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4303(b), (d)(1), Aug. 10, 2005, 119 Stat. 1762, 1763; Pub. L. 112–141, div. C, title II, §32918(a), July 6, 2012, 126 Stat. 822.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 885; amended Pub. L. 104–287, §5(34), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4303(b), (d)(1), Aug. 10, 2005, 119 Stat. 1762, 1763; Pub. L. 112–141, div. C, title II, §32918(a), July 6, 2012, 126 Stat. 822; Pub. L. 114–94, div. A, title V, §5201, Dec. 4, 2015, 129 Stat. 1534.)
 
 #### References in Text
 
@@ -258,6 +258,8 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (e). Pub. L. 114–94 inserted "or suspend" after "revoke".
+
 <b>2012</b>—Subsecs. (b), (c). Pub. L. 112–141 added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to broker requirements and freight forwarder requirements, respectively.
 
 <b>2005</b>—Pub. L. 109–59, §4303(d)(1), inserted "motor private carriers," after "motor carriers," in section catchline.
@@ -265,6 +267,10 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 Subsec. (a)(2) to (4). Pub. L. 109–59, §4303(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "January 1, 1996," for "the effective date of this section".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -280,13 +286,13 @@ Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle 
 
 #### Self-Insurance Rules
 
-Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportationshall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
+Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportation shall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
 
 &emsp;"(1) continued ability of motor carriers to qualify as self-insurers; and
 
 &emsp;"(2) the continued qualification of all carriers then so qualified under the terms and conditions set by the Interstate Commerce Commission or Secretary at the time of qualification."
 
-\[Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.\]
+\[Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ Board of Directors.—(1) The Airports Authority shall be governed by a board of
 
 &emsp;(D) 3 members appointed by the President with the advice and consent of the Senate.
 
-(2) The chairman of the board shall be appointed from among the members by majority vote of the members and shall serve until replaced by majority vote of the members.
+(2) The chairman of the board shall be appointed from among the members by majorityvote of the members and shall serve until replaced by majority vote of the members.
 
 (3) Members of the board shall be appointed to the board for 6 years, except that of the members first appointed by the President after October 9, 1996, one shall be appointed for 4 years. Any member of the board shall be eligible for reappointment for 1 additional term. A member shall not serve after the expiration of the member's term(s).
 

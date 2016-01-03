@@ -46,7 +46,7 @@
 
 #### (6) Report to Congress
 
-&emsp;The Assistant Secretary, with assistance from each Resource Center, shall prepare and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the status and needs, including the priority areas of concern, of Native Americans who are older individuals.
+&emsp;The Assistant Secretary, with assistance from each Resource Center, shall prepare andsubmit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the status and needs, including the priority areas of concern, of Native Americans who are older individuals.
 
 #### (b) Training grants
 

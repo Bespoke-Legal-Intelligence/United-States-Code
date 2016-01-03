@@ -216,7 +216,7 @@ For purposes of this section:
 
 #### (4) State
 
-&emsp;The term "State" includes Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other possession of the United States.
+&emsp;The term "State" includes Puerto Rico, the Virgin Islands, Guam, American Samoa, theNorthern Mariana Islands, and any other possession of the United States.
 
 (Pub. L. 100–242, title VII, §701, Feb. 5, 1988, 101 Stat. 1957; Pub. L. 100–628, title X, §1090(a), (b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 102–550, title VIII, §834(a), Oct. 28, 1992, 106 Stat. 3855.)
 

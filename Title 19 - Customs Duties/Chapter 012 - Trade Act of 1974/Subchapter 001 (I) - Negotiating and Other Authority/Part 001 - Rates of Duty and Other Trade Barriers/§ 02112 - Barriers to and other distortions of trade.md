@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings; directives; disavowal of prior approval of legislation
 
-The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) of this section to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
+The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
 
 #### (b) Presidential determinations prerequisite to entry into trade agreements; trade with Israel
 
@@ -12,7 +12,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 (B) The negotiation of any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States shall take fully into account any product that benefits from a discriminatory preferential tariff arrangement between Israel and a third country if the tariff preference on such product has been the subject of a challenge by the United States Government under the authority of section 2411 of this title and the General Agreement on Tariffs and Trade.
 
-(C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) of this section shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
+(C) Notwithstanding any other provision of this section, the requirements of subsections (c) and (e)(1) shall not apply to any trade agreement entered into under paragraph (1) with Israel that provides for the elimination or reduction of any duty imposed by the United States.
 
 (3) Notwithstanding any other provision of law, no trade benefit shall be extended to any country by reason of the extension of any trade benefit to another country under a trade agreement entered into under paragraph (1) with such other country that provides for the elimination or reduction of any duty imposed by the United States.
 
@@ -20,7 +20,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 &emsp;(i) such country requested the negotiation of such an agreement, and
 
-&emsp;(ii) the President, at least 60 days prior to the date notice is provided under subsection (e)(1) of this section—
+&emsp;(ii) the President, at least 60 days prior to the date notice is provided under subsection (e)(1)—
 
 &emsp;&emsp;(I) provides written notice of such negotiations to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, and
 
@@ -48,11 +48,11 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 #### (c) Presidential consultation with Congress prior to entry into trade agreements
 
-Before the President enters into any trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall consult with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and with each committee of the House and the Senate and each joint committee of the Congress which has jurisdiction over legislation involving subject matters which would be affected by such trade agreement. Such consultation shall include all matters relating to the implementation of such trade agreement as provided in subsections (d) and (e) of this section. If it is proposed to implement such trade agreement, together with one or more other trade agreements entered into under this section, in a single implementing bill, such consultation shall include the desirability and feasibility of such proposed implementation.
+Before the President enters into any trade agreement under this section providing for theharmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall consult with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and with each committee of the House and the Senate and each joint committee of the Congress which has jurisdiction over legislation involving subject matters which would be affected by such trade agreement. Such consultation shall include all matters relating to the implementation of such trade agreement as provided in subsections (d) and (e). If it is proposed to implement such trade agreement, together with one or more other trade agreements entered into under this section, in a single implementing bill, such consultation shall include the desirability and feasibility of such proposed implementation.
 
 #### (d) Submission to Congress of agreements, drafts of implementing bills, and statements of proposed administrative action
 
-Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e) of this section, and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) of this section are complied with and the implementing bill submitted by the President is enacted into law.
+Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
 
 #### (e) Steps prerequisite to entry into force of trade agreements
 
@@ -218,7 +218,7 @@ General rule.—The requirements of this subparagraph are that with respect to a
 
 &emsp;&emsp;&emsp;"(ii)
 
-Materials produced in united states.—If the cost or value of materials produced in thecustoms territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
+Materials produced in united states.—If the cost or value of materials produced in the customs territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
 
 &emsp;"(2)
 
@@ -440,7 +440,7 @@ Rate After Termination of Import Relief.—When import relief under this subtitl
 
 &emsp;&emsp;"(A) the rate of duty conforming to the applicable rate set out in the United States Schedule to Annex 2.1; or
 
-&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages endingon the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
+&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
 
 #### "SEC. 214. TERMINATION OF RELIEF AUTHORITY.
 
@@ -566,13 +566,13 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
 
 #### "SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
 "(a)
 
-Short Title.—This Act \[enacting section 1584 of Title 28, Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, section 1184 of Title 8, Aliens and Nationality, section 24 of Title 12, Banks and Banking, section 152 of Title 21, Food and Drugs, sections 1581, 2201, and 2643 of Title 28, section 2201 of Title 42, The Public Health and Welfare, section 2406 of the Appendix to Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under section 2253 of this title\] may be cited as the 'United States-Canada Free-Trade Agreement Implementation Act of 1988'.
+Short Title.—This Act \[enacting section 1584 of Title 28, Judiciary and Judicial Procedure, amending sections 58c, 81c, 1305, 1306, 1311, 1312, 1313, 1502, 1508, 1514, 1516a, 1562, 1677, 1677f, and 2518 of this title, sections 150bb, 150cc, 154, 156, 624, 1582, and 2803 of Title 7, Agriculture, section 1184 of Title 8, Aliens and Nationality, section 24 of Title 12, Banks and Banking, section 152 of Title 21, Food and Drugs, sections 1581, 2201, and 2643 of Title 28, section 2201 of Title 42, The Public Health and Welfare, section 4606 of Title 50, War and National Defense, enacting provisions set out as notes below, and amending provisions set out as a note under section 2253 of this title\] may be cited as the 'United States-Canada Free-Trade Agreement Implementation Act of 1988'.
 
 "(b)
 
@@ -666,7 +666,7 @@ Initial Implementing Regulations.—Initial regulations necessary or appropriate
 
 "(e)
 
-Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill toimplement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
+Changes in Statutes To Implement a Requirement, Amendment, or Recommendation.—The provisions of section 3(c) of the Trade Agreements Act of 1979 (19 U.S.C. 2504(c)) shall apply as if the Agreement were an agreement approved under section 2(a) of that Act \[19 U.S.C. 2503(a)\] whenever the President determines that it is necessary or appropriate to amend, repeal, or enact a statute of the United States in order to implement any requirement of, amendment to, or recommendation, finding or opinion under, the Agreement; but such provisions shall not apply to any bill to implement any such requirement, amendment, recommendation, finding, or opinion that is submitted to the Congress after the close of the 30th month after the month in which the Agreement enters into force \[January 1989\].
 
 #### "SEC. 103. CONSULTATION AND LAY-OVER REQUIREMENTS FOR, AND EFFECTIVE DATE OF, PROCLAIMED ACTIONS.
 
@@ -1028,7 +1028,7 @@ Certifications of Origin.—
 
 &emsp;"(2) Any person that fails to provide a copy of a certification requested under paragraph (1) shall be liable to the United States for a civil penalty not to exceed $10,000.
 
-&emsp;"(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
+&emsp;"(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for thesame civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
 
 "(b)
 
@@ -1090,7 +1090,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;"(3) In determining whether to recommend the imposition of a temporary duty to the President under paragraph (1), the Secretary shall consider whether the conditions in subparagraphs (A) and (B) of such paragraph have led to a distortion in trade between the United States and Canada of the fresh fruit or vegetable and, if so, whether the imposition of the duty is appropriate, including consideration of whether it would significantly correct this distortion.
 
-&emsp;"(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, butsuch duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
+&emsp;"(4) Not later than 7 days after receipt of a recommendation of the Secretary under paragraph (1), the President, after taking into account the national economic interests of the United States, shall determine whether to impose a temporary duty on the Canadian fresh fruit or vegetable concerned. If the determination is affirmative, the President shall proclaim the imposition and the rate of the temporary duty, but such duty shall not apply to the entry of articles that were in transit to the United States on the first day on which the temporary duty is in effect.
 
 &emsp;"(5) A temporary duty imposed under paragraph (4) shall cease to apply with respect to articles that are entered on or after the earlier of—
 
@@ -1204,7 +1204,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
-&emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is madeunder subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
+&emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
 &emsp;"(ii) Any finding made under subparagraph (D) shall be included in the report submitted to the President under clause (i).
 
@@ -1294,7 +1294,7 @@ In General.—
 
 &emsp;&emsp;"(E) liberalize government procurement practices, particularly with regard to telecommunications.
 
-&emsp;"(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations with the Government of Canada to obtain the exclusion from the transport rates established under Canada's Western Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
+&emsp;"(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations withthe Government of Canada to obtain the exclusion from the transport rates established under Canada's Western Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
 
 "(b)
 
@@ -1394,7 +1394,7 @@ Biennial Report.—The President shall submit to the Congress, at the close of e
 
 "(a)
 
-Alaskan Oil.—\[Amended section 2406 of the Appendix to Title 50, War and National Defense.\]
+Alaskan Oil.—\[Amended section 4606 of Title 50, War and National Defense.\]
 
 "(b)
 
@@ -1508,7 +1508,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;"(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
 
-&emsp;"(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the 'appropriate Congressional Committees') the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels or extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
+&emsp;"(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the 'appropriate Congressional Committees') the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels orextraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
 
 &emsp;"(B) Upon submission of the preliminary candidate lists under subparagraph (A) to the appropriate Congressional Committees, the Trade Representative shall consult with the appropriate Congressional Committees with regard to the individuals listed on the preliminary candidate lists.
 
@@ -1622,7 +1622,7 @@ Panels and Committees.—
 
 &emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
-&emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United StatesSecretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
+&emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
 #### "SEC. 407. TESTIMONY AND PRODUCTION OF PAPERS IN EXTRAORDINARY CHALLENGES.
 
@@ -1642,7 +1642,7 @@ Authority of Extraordinary Challenge Committee To Obtain Information.—If an ex
 
 "(b)
 
-Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individualor entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 "(c)
 
@@ -1976,7 +1976,7 @@ Cost or value of materials.—(A) For purposes of this section, the cost or valu
 
 &emsp;&emsp;"(i) the manufacturer's actual cost for the materials;
 
-&emsp;&emsp;"(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance,packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
+&emsp;&emsp;"(ii) when not included in the manufacturer's actual cost for the materials, the freight, insurance, packing, and all other costs incurred in transporting the materials to the manufacturer's plant;
 
 &emsp;&emsp;"(iii) the actual cost of waste or spoilage, less the value of recoverable scrap; and
 
@@ -2008,7 +2008,7 @@ Direct costs of processing operations.—(A) For purposes of this section, the '
 
 &emsp;&emsp;"(i) profit; and
 
-&emsp;&emsp;"(ii) general expenses of doing business which are either not allocable to the article or are not related to the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
+&emsp;&emsp;"(ii) general expenses of doing business which are either not allocable to the article or are not relatedto the growth, production, manufacture, or assembly of the article, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
 
 &emsp;"(5)
 
@@ -2096,7 +2096,7 @@ Pub. L. 98–573, title IV, §§402–405, formerly §§402–404, 406, Oct. 30,
 
 "(b) As used in this section, the phrase 'direct costs of processing operations' includes, but is not limited to—
 
-&emsp;"(1) all actual labor costs involved in the growth, production, manufacture, or assembly of the specific merchandise, including fringe benefits, on-the-job training and the cost of engineering, supervisory, quality control, and similar personnel; and
+&emsp;"(1) all actual labor costs involved in the growth, production, manufacture, or assembly of the specificmerchandise, including fringe benefits, on-the-job training and the cost of engineering, supervisory, quality control, and similar personnel; and
 
 &emsp;"(2) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 

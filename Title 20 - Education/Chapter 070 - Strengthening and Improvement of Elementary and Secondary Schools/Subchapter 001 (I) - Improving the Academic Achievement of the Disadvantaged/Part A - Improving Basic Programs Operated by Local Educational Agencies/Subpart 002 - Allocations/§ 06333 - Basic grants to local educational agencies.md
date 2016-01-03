@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iv) An alternative method under clause (iii)(II) shall be based on population data that the State educational agency determines best reflect the current distribution of children in poor families among the State's small local educational agencies that meet the eligibility criteria of subsection (b) of this section.
 
-&emsp;&emsp;(v) If a small local educational agency is dissatisfied with the determination of its grant by the State educational agency under clause (iii)(II), it may appeal that determination to the Secretary, who shall respond not later than 45 days after receipt of such appeal.
+&emsp;&emsp;(v) If a small local educational agency is dissatisfied with the determination of its grant by the State educational agency underclause (iii)(II), it may appeal that determination to the Secretary, who shall respond not later than 45 days after receipt of such appeal.
 
 &emsp;&emsp;(vi) As used in this subparagraph—
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;For each fiscal year, the grant that the Commonwealth of Puerto Rico shall be eligible to receive under this section shall be the amount determined by multiplying the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico by the product of—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Ricois of the lowest average per-pupil expenditure of any of the 50 States; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
 
 &emsp;&emsp;&emsp;(ii) 32 percent of the average per-pupil expenditure in the United States.
 
@@ -122,7 +122,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (2) Determination of number of children
 
-&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
+&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below thepoverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
 
 #### (3) Population updates
 

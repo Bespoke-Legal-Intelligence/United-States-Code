@@ -20,7 +20,7 @@ Covered Officers.—(1) The authority under this section may be exercised in the
 
 (c)
 
-Appointment of Transferred Officers.—An officer of the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
+Appointment of Transferred Officers.—An officer of the Regular Army, Regular AirForce, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
 
 (d)
 

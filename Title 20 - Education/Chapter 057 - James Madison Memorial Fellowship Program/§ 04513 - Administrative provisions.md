@@ -10,7 +10,7 @@ The Foundation is authorized—
 
 &emsp;(3) to prescribe such regulations as it deems necessary governing the manner in which its functions shall be carried out;
 
-&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used forthe purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
+&emsp;(4) to receive money and other property donated, bequeathed, or devised, without condition or restriction other than it be used for the purposes of the Foundation; and to use, sell, or otherwise dispose of such property for the purpose of carrying out its functions;
 
 &emsp;(5) to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
@@ -52,7 +52,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–208, §3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;".
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–208, §3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in section 5332 of title 5;".
 
 Subsec. (a)(8). Pub. L. 101–208, §3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "to rent office space;".
 

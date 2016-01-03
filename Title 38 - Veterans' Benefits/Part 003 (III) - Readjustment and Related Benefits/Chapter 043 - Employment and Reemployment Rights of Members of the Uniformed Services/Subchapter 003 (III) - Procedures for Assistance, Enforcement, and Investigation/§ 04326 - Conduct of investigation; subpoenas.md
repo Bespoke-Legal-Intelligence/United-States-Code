@@ -20,5 +20,5 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 
 #### Effective Date
 
-Section effective Oct. 13, 1994, and applicable to any matter pending with Secretary of Labor under former section 4305 of this title as of that date, see section 8(e) of Pub. L. 103–353, set out as a note under section 4301 of this title.
+Section effective Oct. 13, 1994, and applicable to any matter pending with Secretary of Labor under formersection 4305 of this title as of that date, see section 8(e) of Pub. L. 103–353, set out as a note under section 4301 of this title.
 

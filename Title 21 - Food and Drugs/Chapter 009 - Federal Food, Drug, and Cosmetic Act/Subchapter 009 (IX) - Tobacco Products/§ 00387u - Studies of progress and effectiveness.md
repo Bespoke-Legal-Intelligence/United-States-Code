@@ -32,7 +32,7 @@ This division, referred to in subsecs. (a)(1), (2), (4) and (b)(1), is div. A of
 
 #### Codification
 
-Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part ofthe Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Modification of Deadlines for Secretarial Action
 

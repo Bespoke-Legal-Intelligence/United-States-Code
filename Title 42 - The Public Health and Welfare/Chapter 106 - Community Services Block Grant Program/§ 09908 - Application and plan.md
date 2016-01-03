@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) develop the State plan to be submitted to the Secretary under subsection (b) of this section;
 
-&emsp;&emsp;(B) in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
+&emsp;&emsp;(B) in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearingin the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
 
 &emsp;&emsp;(C) conduct reviews of eligible entities under section 9914 of this title.
 
@@ -66,9 +66,9 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;(D) a description of how the local entity will use the funds to support innovative community and neighborhood-based initiatives related to the purposes of this chapter, which may include fatherhood initiatives and other initiatives with the goal of strengthening families and encouraging effective parenting;
 
-&emsp;(4) an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
+&emsp;(4) an assurance that eligible entities in the State will provide, on an emergency basis, forthe provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
 
-&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 <sup>1</sup> of such Act \[29 U.S.C. 2801\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
+&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3102\], in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act;
 
 &emsp;(6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[42 U.S.C. 8621 et seq.\] (relating to low-income home energy assistance) are conducted in such community;
 
@@ -120,21 +120,15 @@ The Secretary may prescribe procedures for the purpose of assessing the effectiv
 
 #### (f) Transition
 
-For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
+For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 ofthis title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
 
 (Pub. L. 97–35, title VI, §676, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2735; amended Pub. L. 113–128, title V, §512(f), July 22, 2014, 128 Stat. 1707.)
-
-#### Amendment of Subsection (b)(5)
-
-<i>Pub. L. 113–128, title V, §§506, 512(f), July 22, 2014, 128 Stat. 1703, 1707, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (b)(5) of this section is amended by striking "the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998" and inserting "the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act". See 2014 Amendment note below.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 101 of such Act, referred to in subsec. (b)(5), is probably a reference to section 101 of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2801 of Title 29, Labor.
-
-The Workforce Investment Act of 1998, referred to in subsec. (b)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
@@ -150,7 +144,5 @@ A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this ti
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

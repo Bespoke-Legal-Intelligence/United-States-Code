@@ -140,7 +140,7 @@ Pub. L. 111–202, §1, July 13, 2010, 124 Stat. 1373, provided that: "Congress 
 
 &emsp;"(7) Despite these attempts, RFA has successfully managed to reach its online audiences through proxies, cutting-edge software, and active republication and repostings by its audience.
 
-&emsp;"(8) RFA also provides forums for local opinions and experiences through message boards, podcasts, web logs (blogs), cell phone-distributed newscasts, and new media, including Facebook, Flickr, Twitter, and YouTube.
+&emsp;"(8) RFA also provides forums for local opinions and experiences through message boards, podcasts,web logs (blogs), cell phone-distributed newscasts, and new media, including Facebook, Flickr, Twitter, and YouTube.
 
 &emsp;"(9) Freedom House has documented that freedom of the press is in decline in nearly every region of the world, particularly in Asia, where none of the countries served by RFA have increased their freedom of the press during the past 5 years.
 

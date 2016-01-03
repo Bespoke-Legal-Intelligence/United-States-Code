@@ -52,7 +52,7 @@
 
 &emsp;(1) hold hearings;
 
-&emsp;(2) administer oaths, take the testimony or deposition of any person under oath, and issue subpenas as provided in section 7132 of this title; and
+&emsp;(2) administer oaths, take the testimony or deposition of any person under oath, and issuesubpenas as provided in section 7132 of this title; and
 
 &emsp;(3) may require an agency or a labor organization to cease and desist from violations of this chapter and require it to take any remedial action it considers appropriate to carry out the policies of this chapter.
 

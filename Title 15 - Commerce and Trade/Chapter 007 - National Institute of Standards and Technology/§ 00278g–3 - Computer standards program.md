@@ -14,7 +14,7 @@ The Institute shall—
 
 #### (b) Minimum requirements for standards and guidelines
 
-The standards and guidelines required by subsection (a) of this section shall include, at a minimum—
+The standards and guidelines required by subsection (a) shall include, at a minimum—
 
 &emsp;(1)(A) standards to be used by all agencies to categorize all information and information systems collected or maintained by or on behalf of each agency based on the objectives of providing appropriate levels of information security according to a range of risk levels;
 
@@ -28,7 +28,7 @@ The standards and guidelines required by subsection (a) of this section shall in
 
 #### (c) Development of standards and guidelines
 
-In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
+In developing standards and guidelines required by subsections (a) and (b), the Institute shall—
 
 &emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
 
@@ -40,11 +40,11 @@ In developing standards and guidelines required by subsections (a) and (b) of th
 
 &emsp;(3) submit to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40—
 
-&emsp;&emsp;(A) standards, as required under subsection (b)(1)(A) of this section, no later than 12 months after November 25, 2002; and
+&emsp;&emsp;(A) standards, as required under subsection (b)(1)(A), no later than 12 months after November 25, 2002; and
 
-&emsp;&emsp;(B) minimum information security requirements for each category, as required under subsection (b)(1)(C) of this section, no later than 36 months after November 25, 2002;
+&emsp;&emsp;(B) minimum information security requirements for each category, as required under subsection (b)(1)(C), no later than 36 months after November 25, 2002;
 
-&emsp;(4) issue guidelines as required under subsection (b)(1)(B) of this section, no later than 18 months after November 25, 2002;
+&emsp;(4) issue guidelines as required under subsection (b)(1)(B), no later than 18 months after November 25, 2002;
 
 &emsp;(5) ensure that such standards and guidelines do not require specific technological solutions or products, including any specific hardware or software security solutions;
 
@@ -56,11 +56,11 @@ In developing standards and guidelines required by subsections (a) and (b) of th
 
 The Institute shall—
 
-&emsp;(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
+&emsp;(1) submit standards developed pursuant to subsection (a), along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
 
 &emsp;(2) provide assistance to agencies regarding—
 
-&emsp;&emsp;(A) compliance with the standards and guidelines developed under subsection (a) of this section;
+&emsp;&emsp;(A) compliance with the standards and guidelines developed under subsection (a);
 
 &emsp;&emsp;(B) detecting and handling information security incidents; and
 
@@ -76,7 +76,7 @@ The Institute shall—
 
 &emsp;(7) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
 
-&emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
+&emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
 
 &emsp;(9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 
@@ -108,13 +108,9 @@ As used in this section—
 
 &emsp;(4) the term "information technology" has the same meaning as provided in section 11101 of title 40; and
 
-&emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) of such title.<sup>3</sup>
+&emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>1</sup> of such title.<sup>3</sup>
 
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087.)
-
-#### References in Text
-
-Section 3552(b)(5) of such title, referred to in subsec. (f)(5), probably should be section 3552(b)(6) of title 44.
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957;Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087.)
 
 #### Codification
 
@@ -204,7 +200,7 @@ Pub. L. 113–274, §204(1), redesignated subsec. (e) as (f).
 
 &emsp;"(3) the term 'operator of a Federal computer system' means a Federal agency, contractor of a Federal agency, or other organization that processes information using a computer system on behalf of the Federal Government to accomplish a Federal function;
 
-&emsp;"(4) the term 'sensitive information' means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
+&emsp;"(4) the term 'sensitive information' means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect thenational interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
 
 &emsp;"(5) the term 'Federal agency' has the meaning given such term by section 472(b) of title 40.
 
@@ -360,5 +356,5 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 <i><sup>2</sup></i><i> So in original. Probably should be "3552(b)(3)".</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. "Such title" probably means title 44.</i>
 

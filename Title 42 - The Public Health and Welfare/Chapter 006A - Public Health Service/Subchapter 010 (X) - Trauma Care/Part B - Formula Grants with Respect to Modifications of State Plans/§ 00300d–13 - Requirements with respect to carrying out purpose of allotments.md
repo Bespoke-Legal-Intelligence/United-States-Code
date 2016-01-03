@@ -22,7 +22,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;(6) utilizes a program with procedures for the evaluation of designated trauma centers (including trauma centers described in paragraph (5)) and trauma care systems;
 
-&emsp;(7) provides for the establishment and collection of data in accordance with data collectionrequirements developed in consultation with surgical, medical, and nursing specialty groups, State and local emergency medical services directors, and other trained professionals in trauma care, from each designated trauma center in the State of a central data reporting and analysis system—
+&emsp;(7) provides for the establishment and collection of data in accordance with data collection requirements developed in consultation with surgical, medical, and nursing specialty groups, State and local emergency medical services directors, and other trained professionals in trauma care, from each designated trauma center in the State of a central data reporting and analysis system—
 
 &emsp;&emsp;(A) to identify the number of severely injured trauma patients and the number of deaths from trauma within trauma care systems in the State;
 

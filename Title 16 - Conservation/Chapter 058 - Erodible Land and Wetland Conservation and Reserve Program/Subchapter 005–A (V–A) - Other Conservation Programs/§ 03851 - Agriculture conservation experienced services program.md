@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (c)(1), was in the original "this title", m
 
 #### Codification
 
-Pub. L. 110–234, §2710, and Pub. L. 110–246, §2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of l985 were repealed by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
+Pub. L. 110–234, §2710, and Pub. L. 110–246, §2710, which directed the amendment of subtitle F of title XII of the Food Security Act of 1985 by inserting this section after section 1251, was executed by inserting this section between subtitles E and G of title XII of that Act to reflect the probable intent of Congress, because subtitle F and section 1251 (16 U.S.C. 2005a) of title XII of the Food Security Act of 1985 were repealed by Pub. L. 104–127, title III, §336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
@@ -70,5 +70,5 @@ A prior section 1252 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 151
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 

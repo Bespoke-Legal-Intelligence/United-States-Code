@@ -52,7 +52,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (A) In general
 
-&emsp;&emsp;An eligible recipient shall submit an application to the Secretary at such time, in such manner, and containing such information and assurances as the Secretary may require.
+&emsp;&emsp;An eligible recipient shall submit an application to the Secretary at such time, in suchmanner, and containing such information and assurances as the Secretary may require.
 
 #### (B) Components
 

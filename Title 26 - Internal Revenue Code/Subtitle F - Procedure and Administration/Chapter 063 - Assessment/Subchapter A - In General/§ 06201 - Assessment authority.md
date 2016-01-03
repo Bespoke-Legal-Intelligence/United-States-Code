@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additionalamounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, which have not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
+The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, which have not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
 
 #### (1) Taxes shown on return
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 98–76 substituted "Federal unemployment tax or tax imp
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (a)(3), (4). Pub. L. 94–455, §§1206(c)(2), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", substituted "mathematical or clerical error" for "mathematical error" after "the case of", and inserted ", except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph" after "upon the return".
+Subsec. (a)(3), (4). Pub. L. 94–455, §§1206(c)(2), 1906(b)(13)(A), struck out "or his delegate" after "Secretary", substituted "mathematical or clerical error" for "mathematical error" after "the case of", and inserted ", except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clericalerror assessments) shall not apply with regard to any assessment under this paragraph" after "upon the return".
 
 Subsec. (d). Pub. L. 94–455, §1307(d)(2)(D), substituted "and certain excise taxes" for "chapter 42, and chapter 43 taxes" after "estate, gift".
 

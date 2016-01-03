@@ -2,7 +2,7 @@
 
 (a) The Committee shall survey, examine, and analyze the overall context of the Federal science, engineering, and technology effort including missions, goals, personnel, funding, organization, facilities, and activities in general, taking adequate account of the interests of individuals and groups that may be affected by Federal scientific, engineering, and technical programs, including, as appropriate, consultation with such individuals and groups. In carrying out its functions under this section, the Committee shall, among other things, consider needs for—
 
-&emsp;(1) organizational reform, including institutional realinement designed to place Federalagencies whose missions are primarily or solely devoted to scientific and technological research and development, and those agencies primarily or solely concerned with fuels, energy, and materials, within a single cabinet-level department;
+&emsp;(1) organizational reform, including institutional realinement designed to place Federal agencies whose missions are primarily or solely devoted to scientific and technological research and development, and those agencies primarily or solely concerned with fuels, energy, and materials, within a single cabinet-level department;
 
 &emsp;(2) improvements in existing systems for handling scientific and technical information on a Government-wide basis, including consideration of the appropriate role to be played by the private sector in the dissemination of such information;
 

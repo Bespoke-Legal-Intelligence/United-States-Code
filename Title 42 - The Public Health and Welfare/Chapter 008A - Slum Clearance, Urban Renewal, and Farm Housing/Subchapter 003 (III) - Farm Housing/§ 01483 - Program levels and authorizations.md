@@ -52,7 +52,7 @@ There are authorized to be appropriated for fiscal years 1993 and 1994, and to r
 
 #### (c) Rental assistance
 
-(1) The Secretary, to the extent approved in appropriations Acts for fiscal years 1993 and 1994, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $414,100,000 for fiscal year 1993 and $431,492,200 for fiscal year 1994.
+(1) The Secretary, to the extent approved in appropriations Acts for fiscal years 1993 and1994, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $414,100,000 for fiscal year 1993 and $431,492,200 for fiscal year 1994.
 
 (2) Any authority approved in appropriation Acts for fiscal year 1988 or any succeeding fiscal year for rental assistance payment contracts under section 1490a(a)(2)(A) of this title or contracts for operating assistance under section 1490a(a)(5) of this title shall be used by the Secretary—
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 102–550, §701(f), amended subsec. (e) generally, substit
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–625, §701(a), amended par. (1) generally, substituting provisions relating to aggregate amounts for which Secretary may insure and guarantee loans for fiscal years 1991 and 1992 for provisions authorizing aggregate amounts for fiscal years 1988 and 1989.
 
-Subsec. (b). Pub. L. 101–625, §701(b), amended subsec. (b) generally, substituting provisions authorizing appropriations for fiscal years 1991 and 1992 for provisionsauthorizing appropriations for fiscal years 1988 and 1989.
+Subsec. (b). Pub. L. 101–625, §701(b), amended subsec. (b) generally, substituting provisions authorizing appropriations for fiscal years 1991 and 1992 for provisions authorizing appropriations for fiscal years 1988 and 1989.
 
 Subsec. (c)(1). Pub. L. 101–625, §701(c), amended par. (1) generally, substituting provisions authorizing appropriations for rental assistance payment contracts for fiscal years 1991 and 1992 for provisions authorizing appropriations for such contracts for fiscal years 1988 and 1989.
 

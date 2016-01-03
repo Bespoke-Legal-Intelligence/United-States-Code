@@ -44,7 +44,7 @@ Showing by employer.—Notwithstanding a finding by the Secretary that the compl
 
 &emsp;&emsp;&emsp;(iii)
 
-Criteria for determination by secretary.—The Secretary may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (5) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+Criteria for determination by secretary.—The Secretary may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described inparagraphs (1) through (5) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -102,7 +102,7 @@ Enforcement of order by parties.—
 
 &emsp;&emsp;(A)
 
-Commencement of action.—A person on whose behalf an order was issued underparagraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+Commencement of action.—A person on whose behalf an order was issued under paragraph (3) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 &emsp;&emsp;(B)
 
@@ -120,5 +120,5 @@ Nonapplicability To Deliberate Violations.—Subsection (a) shall not apply with
 
 #### Effective Date
 
-Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and TerminationDates of 2012 Amendment note under section 101 of Title 23, Highways.
 

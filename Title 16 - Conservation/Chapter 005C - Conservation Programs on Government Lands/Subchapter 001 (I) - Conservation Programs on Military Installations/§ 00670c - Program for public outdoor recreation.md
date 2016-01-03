@@ -2,11 +2,11 @@
 
 #### (a) Program authorized
 
-The Secretary of Defense is also authorized to carry out a program for the development, enhancement, operation, and maintenance of public outdoor recreation resources at military installations in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense and the Secretary of the Interior, in consultation withthe appropriate State agency designated by the State in which the installations are located.
+The Secretary of Defense is also authorized to carry out a program for the development, enhancement, operation, and maintenance of public outdoor recreation resources at military installations in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense and the Secretary of the Interior, in consultation with the appropriate State agency designated by the State in which the installations are located.
 
 #### (b) Access for disabled veterans, military dependents with disabilities, and other persons with disabilities
 
-(1) In developing facilities and conducting programs for public outdoor recreation at military installations, consistent with the primary military mission of the installations, the Secretary of Defense shall ensure, to the extent reasonably practicable, that outdoor recreation opportunities (including fishing, hunting, trapping, wildlife viewing, boating, and camping) made available to the public also provide access for persons described in paragraph (2) when topographic, vegetative, and water resources allow access for such persons without substantial modification to the natural environment.
+(1) In developing facilities and conducting programs for public outdoor recreation at military installations, consistent with the primary military mission of the installations, the Secretary of Defense shall ensure, to the extent reasonably practicable, that outdoor recreation opportunities (including fishing, hunting, trapping, wildlife viewing, boating, and camping) made available to the public also provide access for persons described in paragraph (2) when topographic, vegetative, and water resources allow access forsuch persons without substantial modification to the natural environment.
 
 (2) Persons referred to in paragraph (1) are the following:
 
@@ -20,7 +20,7 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 #### (c) Acceptance of donations
 
-In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
 
 &emsp;(1) the voluntary services of individuals and organizations; and
 
@@ -28,7 +28,7 @@ In connection with the facilities and programs for public outdoor recreation at 
 
 #### (d) Treatment of volunteers
 
-A volunteer under subsection (c) of this section shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
+A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
 
 &emsp;(1) for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
 

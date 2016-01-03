@@ -28,7 +28,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 &emsp;&emsp;&emsp;(ii) 10 taxable years.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term "miner" has the same meaning as such term has when used in section 402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
+> &emsp;&emsp;For purposes of the preceding sentence, the term "miner" has the same meaning as suchterm has when used in section 402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
 
 #### (C) Different funding periods
 
@@ -42,7 +42,7 @@ The maximum amount of the deduction allowed by subsection (a) for any taxpayer f
 
 #### (2) Benefit payments taken into account
 
-&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to bemade from the trust shall be taken into account.
+&emsp;In determining the amounts described in subsection (b), only those black lung benefit claims the payment of which is expected to be made from the trust shall be taken into account.
 
 #### (3) Time when contributions deemed made
 

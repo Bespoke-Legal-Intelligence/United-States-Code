@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2020.
+The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2024.
 
 #### (b) Vehicle and component review
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a), the Administrator shall, as soon as is practicable after October 11, 2010, carry out a comprehensive assessment of the essential modules, operational systems and components, structural elements, and permanent scientific equipment on board or planned for delivery and installation aboard the ISS, including both United States and international partner elements, for purposes of identifying the spare or replacement modules, systems and components, elements, and equipment that are required to ensure complete, effective, and safe functioning and full scientific utilization of the ISS through September 30, 2020.
+&emsp;The Administrator shall, as soon as is practicable after October 11, 2010, carry out a comprehensive assessment of the essential modules, operational systems and components, structural elements, and permanent scientific equipment on board or planned for delivery and installation aboard the ISS, including both United States and international partner elements, for purposes of identifying the spare or replacement modules, systems and components, elements, and equipment that are required to ensure complete, effective, and safe functioning and full scientific utilization of the ISS through September 30, 2020.<sup>1</sup>
 
 #### (2) Data
 
@@ -48,7 +48,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 &emsp;&emsp;&emsp;&emsp;(V) the anticipated cost and schedule for its design, procurement, manufacture, and delivery to the ISS.
 
-&emsp;&emsp;&emsp;(iii) A detailed summary of the delivery schedule and associated delivery vehicle requirements necessary to transport all spare and replacement elements considered essential for the ongoing and sustained functionality of all critical systemsof the ISS, both in and of themselves and as an element of an integrated, mutually dependent essential capability, including an assessment of the current schedule for delivery, the availability of delivery vehicles to meet that schedule, and the likelihood of meeting that schedule through such vehicles.
+&emsp;&emsp;&emsp;(iii) A detailed summary of the delivery schedule and associated delivery vehicle requirements necessary to transport all spare and replacement elements considered essential for the ongoing and sustained functionality of all critical systems of the ISS, both in and of themselves and as an element of an integrated, mutually dependent essential capability, including an assessment of the current schedule for delivery, the availability of delivery vehicles to meet that schedule, and the likelihood of meeting that schedule through such vehicles.
 
 #### (2) GAO report
 
@@ -90,17 +90,27 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### (1) In general
 
-&emsp;The Administrator shall take all actions necessary to preserve Space Shuttle launch capability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010.
+&emsp;The Administrator shall take all actions necessary to preserve Space Shuttle launchcapability through fiscal year 2011 in a manner that enables the launch, at a minimum, of missions and primary payloads in the Shuttle flight manifest as of February 28, 2010.
 
 #### (2) Continuation of contractor support
 
 &emsp;The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title.
 
-(Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823.)
+(Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823; Pub. L. 114–90, title I, §114(b)(2), Nov. 25, 2015, 129 Stat. 716.)
 
 #### References in Text
 
+Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended by section 114(b) of Pub. L. 114–90, which substituted references to "2024" for references to "2020" in other provisions throughout this subchapter. See also section 70907 of Title 51, National and Commercial Space Programs, as amended by section 114(b) of Pub. L. 114–90.
+
 Section 101(2)(B), referred to in subsec. (e)(4), is Pub. L. 111–267, title I, §101(2)(B), Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a). Pub. L. 114–90, §114(b)(2)(A), substituted "through at least September 30, 2024" for "through at least September 30, 2020".
+
+Subsec. (b)(1). Pub. L. 114–90, §114(b)(2)(B), substituted "The Administrator" for "In carrying out subsection (a), the Administrator".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

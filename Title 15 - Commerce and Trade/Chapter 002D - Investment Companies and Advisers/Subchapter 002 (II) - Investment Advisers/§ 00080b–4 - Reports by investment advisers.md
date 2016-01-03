@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every investment adviser who makes use of the mails or of any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser (other than one specifically exempted from registration pursuant to section 80b–3(b) of this title), shall make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+Every investment adviser who makes use of the mails or of any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser (other than one specifically exempted from registration pursuant to section 80b–3(b) of this title), shall make and keep for prescribed periods suchrecords (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Records and reports of private funds
 
@@ -72,7 +72,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (8) Commission confidentiality of reports
 
-&emsp;Notwithstanding any other provision of law, the Commission may not be compelled to disclose any report or information contained therein required to be filed with the Commission under this subsection, except that nothing in this subsection authorizes the Commission—
+&emsp;Notwithstanding any other provision of law, the Commission may not be compelled to disclose any report or information containedtherein required to be filed with the Commission under this subsection, except that nothing in this subsection authorizes the Commission—
 
 &emsp;&emsp;(A) to withhold information from Congress, upon an agreement of confidentiality; or
 
@@ -108,7 +108,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (11) Annual report to Congress
 
-&emsp;The Commission shall report annually to Congress on how the Commission has used thedata collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.
+&emsp;The Commission shall report annually to Congress on how the Commission has used the data collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.
 
 #### (c) Filing depositories
 
@@ -146,7 +146,7 @@ The Commission may, by rule, require an investment adviser—
 
 #### (2) Certain persons subject to other regulation
 
-&emsp;Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
+&emsp;Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with adetailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
 
 (Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §404, title IX, §929Q(b), July 21, 2010, 124 Stat. 1571, 1866.)
 
@@ -168,7 +168,7 @@ Pub. L. 111–203, §404(1), redesignated subsec. (c) as (d) relating to access 
 
 Amendment by section 929Q(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investmentadviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
+Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
 
 #### Effective Date of 1975 Amendment
 

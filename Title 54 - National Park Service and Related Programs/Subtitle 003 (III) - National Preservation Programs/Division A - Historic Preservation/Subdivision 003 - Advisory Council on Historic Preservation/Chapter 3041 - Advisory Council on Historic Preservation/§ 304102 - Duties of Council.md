@@ -20,7 +20,7 @@ Duties.—The Council shall—
 
 &emsp;(6) review the policies and programs of Federal agencies and recommend to Federal agencies methods to improve the effectiveness, coordination, and consistency of those policies and programs with the policies and programs carried out under this division; and
 
-&emsp;(7) inform and educate Federal agencies, State and local governments, Indian tribes,other nations and international organizations and private groups and individuals as to the Council's authorized activities.
+&emsp;(7) inform and educate Federal agencies, State and local governments, Indian tribes, other nations and international organizations and private groups and individuals as to the Council's authorized activities.
 
 (b)
 

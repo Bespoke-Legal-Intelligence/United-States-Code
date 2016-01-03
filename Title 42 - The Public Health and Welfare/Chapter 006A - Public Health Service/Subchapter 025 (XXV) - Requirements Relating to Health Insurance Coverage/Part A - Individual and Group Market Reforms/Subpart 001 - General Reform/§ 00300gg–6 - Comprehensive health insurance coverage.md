@@ -38,7 +38,7 @@ Another prior section 2707 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–93, title II, §213(c), Apr. 1, 2014, 128 Stat. 1047, provided that: "The amendments made by this Act \[probably means this section, amending this section and section 18022 of this title\] shall be effective as if included in the enactment of the Patient Protection and Affordable Care Act (Public Law 111–148)."
+Pub. L. 113–93, title II, §213(c), Apr. 1, 2014, 128 Stat. 1047, provided that: "The amendments made by this Act\[probably means this section, amending this section and section 18022 of this title\] shall be effective as if included in the enactment of the Patient Protection and Affordable Care Act (Public Law 111–148)."
 
 #### Effective Date
 

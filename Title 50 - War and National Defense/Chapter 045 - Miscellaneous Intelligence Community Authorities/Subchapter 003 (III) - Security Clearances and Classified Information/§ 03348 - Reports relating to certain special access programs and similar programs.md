@@ -30,7 +30,7 @@
 
 &emsp;(A) the current estimate of the total program cost for the program; and
 
-&emsp;(B) an identification, as applicable, of existing programs or technologies that are similar to the technology, or that have a mission similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.
+&emsp;(B) an identification, as applicable, of existing programs or technologies that are similarto the technology, or that have a mission similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.
 
 (3) In this subsection, the term "new special access program" means a special access program that has not previously been covered in a notice and justification under this subsection.
 
@@ -66,7 +66,7 @@ For purposes of this section:
 
 #### (1) Covered department or agency
 
-&emsp;(A) Except as provided in subparagraph (B), the term "covered department or agency"means any department or agency of the Federal Government that carries out a special access program.
+&emsp;(A) Except as provided in subparagraph (B), the term "covered department or agency" means any department or agency of the Federal Government that carries out a special access program.
 
 &emsp;(B) Such term does not include—
 

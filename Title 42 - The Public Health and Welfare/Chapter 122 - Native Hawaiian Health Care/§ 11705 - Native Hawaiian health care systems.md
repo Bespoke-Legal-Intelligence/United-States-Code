@@ -42,7 +42,7 @@ An entity is a qualified entity for purposes of subsection (a)(1) of this sectio
 
 (4)
 
-Health and education.—In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in section 7512(16) of title 20 to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others only after the need for such programs and services by Native Hawaiians has been met.
+Health and education.—In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others only after the need for such programs and services by Native Hawaiians has been met.
 
 #### (d) Limitation of number of entities
 
@@ -62,7 +62,7 @@ During a fiscal year, the Secretary under this chapter may make a grant to, or h
 
 &emsp;(A) the Native Hawaiian health care system involved is a nonprofit private entity described in subsection (b) of this section; and
 
-&emsp;(B) the Secretary, in consultation with Papa Ola Lokahi, determines that it is not feasible for the Native Hawaiian health care system to comply with such requirement.
+&emsp;(B) the Secretary, in consultation with Papa Ola Lokahi, determines that it is not feasiblefor the Native Hawaiian health care system to comply with such requirement.
 
 #### (f) Restriction on use of grant and contract funds
 
@@ -94,7 +94,11 @@ The Secretary may not make a grant, or enter into a contract with, any entity un
 
 (2) There are authorized to be appropriated such sums as may be necessary to carry out subsection (a)(2) of this section.
 
-(Pub. L. 100–579, §6, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2306, Nov. 18, 1988, 102 Stat. 4226; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 100–579, §6, Oct. 31, 1988, 102 Stat. 2919; Pub. L. 100–690, title II, §2306, Nov. 18, 1988, 102 Stat. 4226; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 114–95, title IX, §9215(jjj), Dec. 10, 2015, 129 Stat. 2187.)
+
+#### References in Text
+
+Section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015), referred to in subsec. (c)(4), means section 7512(16) of title 20 prior to amendment by Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(a), Dec. 10, 2015, 129 Stat. 2046, 2063.
 
 #### Codification
 
@@ -106,11 +110,17 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 
 #### Amendments
 
+<b>2015</b>—Subsec. (c)(4). Pub. L. 114–95 substituted "private educational organization identified in section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others" for "private educational organization identified in section 7512(16) of title 20 to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others".
+
 <b>2010</b>—Subsec. (c)(4). Pub. L. 111–148, which directed the amendment of section 6(c) of the Native Hawaiian Health Care Act of 1988 by adding par. (4), was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting "2019" for "2001", was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 <b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2010 Amendment
 

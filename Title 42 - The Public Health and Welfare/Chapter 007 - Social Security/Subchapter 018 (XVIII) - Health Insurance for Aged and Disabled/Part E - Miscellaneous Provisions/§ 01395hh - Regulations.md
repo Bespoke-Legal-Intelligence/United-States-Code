@@ -38,11 +38,11 @@
 
 (2) Effective June 1, 1988, each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
 
-(3) The Secretary shall to the extent feasible make such changes in automated data collectionand retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable by such categories and by fiscal intermediary, service provider, and region.
+(3) The Secretary shall to the extent feasible make such changes in automated data collection and retrieval by the Secretary and fiscal intermediaries with agreements under section 1395h of this title as are necessary to make easily accessible for the Secretary and other appropriate parties a data base which fairly and accurately reflects the provision of extended care, post-hospital extended care and home health care benefits pursuant to this subchapter, including such categories as benefit denials, results of appeals, and other relevant factors, and selectable by such categories and by fiscal intermediary, service provider, and region.
 
 #### (e) <sup>1</sup> Retroactivity of substantive changes; reliance upon written guidance
 
-(1)(A) A substantive change in regulations, manual instructions, interpretative rules, statements of policy, or guidelines of general applicability under this subchapter shall not be applied (by extrapolation or otherwise) retroactively to items and services furnished before the effective date of the change, unless the Secretary determines that—
+(1)(A) A substantive change in regulations, manual instructions, interpretative rules, statements of policy, or guidelines of general applicability under this subchapter shall not be applied (by extrapolation or otherwise) retroactively toitems and services furnished before the effective date of the change, unless the Secretary determines that—
 
 &emsp;(i) such retroactive application is necessary to comply with statutory requirements; or
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\]. The Secretary \[of Health and Human Services\] shallprovide for an appropriate transition to take into account the backlog of previously published interim final regulations."
+Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\]. The Secretary \[of Health and Human Services\] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations."
 
 Pub. L. 108–173, title IX, §902(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to final regulations published on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
@@ -110,7 +110,7 @@ Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided
 
 Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to compliance actions undertaken on or after the date of the enactment of this Act \[Dec. 8, 2003\]."
 
-Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003."
+Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 8, 2003\] and shall only apply to a penalty or interest imposedwith respect to guidance provided on or after July 24, 2003."
 
 #### Effective Date of 1987 Amendment
 

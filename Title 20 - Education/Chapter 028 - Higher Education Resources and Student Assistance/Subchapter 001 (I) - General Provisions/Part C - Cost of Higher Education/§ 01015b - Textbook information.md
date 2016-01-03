@@ -2,7 +2,7 @@
 
 #### (a) Purpose and intent
 
-The purpose of this section is to ensure that students have access to affordable course materials by decreasing costs to students and enhancing transparency and disclosure with respect to the selection, purchase, sale, and use ofcourse materials. It is the intent of this section to encourage all of the involved parties, including faculty, students, administrators, institutions of higher education, bookstores, distributors, and publishers, to work together to identify ways to decrease the cost of college textbooks and supplemental materials for students while supporting the academic freedom of faculty members to select high quality course materials for students.
+The purpose of this section is to ensure that students have access to affordable course materials by decreasing costs to students and enhancing transparency and disclosure with respect to the selection, purchase, sale, and use of course materials. It is the intent of this section to encourage all of the involved parties, including faculty, students, administrators, institutions of higher education, bookstores, distributors, and publishers, to work together to identify ways to decrease the cost of college textbooks and supplemental materials for students while supporting the academic freedom of faculty members to select high quality course materials for students.
 
 #### (b) Definitions
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (8) Substantial content
 
-&emsp;The term "substantial content" means parts of a college textbook such as new chapters, new material covering additional eras of time, new themes, or new subject matter.
+&emsp;The term "substantial content" means parts of a college textbook such as new chapters,new material covering additional eras of time, new themes, or new subject matter.
 
 #### (9) Supplemental material
 

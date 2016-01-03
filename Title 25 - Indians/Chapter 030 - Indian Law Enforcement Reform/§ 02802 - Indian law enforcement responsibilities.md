@@ -42,7 +42,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;(13) providing technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center and other national crime information databases pursuant to section 534 of title 28;
 
-&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42, collecting, analyzing, and reportingdata regarding Indian country crimes on an annual basis;
+&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42, collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
 
 &emsp;(15) on an annual basis, sharing with the Department of Justice all relevant crime data, including Uniform Crime Reports, that the Office of Justice Services prepares and receives from tribal law enforcement agencies on a tribe-by-tribe basis to ensure that individual tribal governments providing data are eligible for programs offered by the Department of Justice;
 
@@ -58,7 +58,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;&emsp;&emsp;(IV) detention officers;
 
-&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors and deputies of various offices in the Office of Justice Services; and
+&emsp;&emsp;&emsp;(V) executive personnel, including special agents in charge, and directors anddeputies of various offices in the Office of Justice Services; and
 
 &emsp;&emsp;&emsp;(VI) tribal court judges, prosecutors, public defenders, appointed defense counsel, or related staff; and
 
@@ -104,7 +104,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 #### (C) Training at State, tribal, and local academies
 
-&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribal college or university) that meets the appropriate Peace Officer Standards of Training.
+&emsp;&emsp;Law enforcement personnel of the Office of Justice Services or an Indian tribe may satisfy the training standards established under subparagraph (A) through training at a State or tribal police academy, a State, regional, local, or tribal college or university, or other training academy (including any program at a State, regional, local, or tribalcollege or university) that meets the appropriate Peace Officer Standards of Training.
 
 #### (D) Maximum age requirement
 

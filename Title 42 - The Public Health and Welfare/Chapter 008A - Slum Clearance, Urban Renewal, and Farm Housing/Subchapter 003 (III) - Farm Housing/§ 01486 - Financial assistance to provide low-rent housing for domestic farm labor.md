@@ -36,7 +36,7 @@ The Secretary shall prescribe regulations to insure that Federal funds expended 
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
-All laborers and mechanics employed by contractors or subcontractors on projects assistedby the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
 #### (g) Definitions
 
@@ -90,7 +90,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (C) Repayment of advance
 
-&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, the percentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
+&emsp;&emsp;Any advance provided under subparagraph (A)(i) shall be repaid on such terms as may be prescribed by the Secretary when the project ceases to be used as housing in accordance with the provisions of this subsection. Recipients shall be required to repay 100 percent of the advance if the housing is used for purposes under this subsection for fewer than 10 years following initial occupancy. If the housing is used for such purposes for more than 10 years, thepercentage of the amount that shall be required to be repaid shall be reduced by 10 percentage points for each year in excess of 10 that the property is so used.
 
 #### (D) Prevention of undue benefits
 
@@ -160,7 +160,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe,any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
+&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe, any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
 
 &emsp;&emsp;(B) The term "homeless individual" has the same meaning given the term under section 11302 of this title.
 

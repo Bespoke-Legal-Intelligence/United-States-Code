@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Labor costs
 
-&emsp;Expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
+&emsp;Expenditures for labor costs properly allocable to the onsite preparation, assembly, ororiginal installation of the property described in subsection (d) and for piping or wiring to interconnect such property to the dwelling unit shall be taken into account for purposes of this section.
 
 #### (2) Solar panels
 
@@ -134,9 +134,41 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039.)
+
+#### Amendment of Section
+
+<i>Pub. L. 114–113, div. P, title III, §304, Dec. 18, 2015, 129 Stat. 3039, provided that, effective Jan. 1, 2017, this section is amended as follows:</i>
+
+<i>(1) in paragraphs (1) and (2) of subsection (a), by striking "30 percent" each place it appears and inserting "the applicable percentage";</i>
+
+<i>(2) in subsection (g), by inserting "(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)" before the period at the end;</i>
+
+<i>(3) by redesignating subsection (g) as subsection (h); and</i>
+
+<i>(4) by inserting after subsection (f) the following new subsection:</i>
+
+#### <i>(g) Applicable percentage</i>
+
+<i>For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—</i>
+
+&emsp;<i>(1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,</i>
+
+&emsp;<i>(2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and</i>
+
+&emsp;<i>(3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.</i>
+
+<i>See 2015 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(1), (2). Pub. L. 114–113, §304(a)(1), substituted "the applicable percentage" for "30 percent".
+
+Subsec. (g). Pub. L. 114–113, §304(a)(4), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 114–113, §304(a)(2), inserted "(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)" before period at end.
+
+Subsec. (h). Pub. L. 114–113, §304(a)(3), redesignated subsec. (g) as (h).
 
 <b>2013</b>—Subsec. (c). Pub. L. 112–240 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to limitation based on amount of tax and carryforward of unused credit.
 
@@ -192,6 +224,10 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 "(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
 
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. P, title III, §304(b), Dec. 18, 2015, 129 Stat. 3040, provided that: "The amendments madeby this section \[amending this section\] shall take effect on January 1, 2017."
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
@@ -208,7 +244,7 @@ Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, inthe same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
+Amendment by section 402(i)(3)(E) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(E) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 

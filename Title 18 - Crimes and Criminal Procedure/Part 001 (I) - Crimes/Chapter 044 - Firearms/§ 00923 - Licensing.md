@@ -1,6 +1,6 @@
 ### §923. Licensing
 
-(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with andreceived a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
+(a) No person shall engage in the business of importing, manufacturing, or dealing in firearms, or importing or manufacturing ammunition, until he has filed an application with and received a license to do so from the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility for licensing as the Attorney General shall by regulation prescribe and shall include a photograph and fingerprints of the applicant. Each applicant shall pay a fee for obtaining such a license, a separate fee being required for each place in which the applicant is to do business, as follows:
 
 (1) If the applicant is a manufacturer—
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(iii) that the applicant has sent or delivered a form to be prescribed by the Attorney General, to the chief law enforcement officer of the locality in which the premises are located, which indicates that the applicant intends to apply for a Federal firearms license; and
 
-&emsp;(G) in the case of an application to be licensed as a dealer, the applicant certifies that secure gun storage or safety devices will be available at any place in which firearms are sold under the license to persons who are not licensees (subject to the exception that in any case in which a secure gun storage or safety device is temporarily unavailable because oftheft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement under this subparagraph to make available such a device).
+&emsp;(G) in the case of an application to be licensed as a dealer, the applicant certifies that secure gun storage or safety devices will be available at any place in which firearms are sold under the license to persons who are not licensees (subject to the exception that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement under this subparagraph to make available such a device).
 
 (2) The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within such period, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approves an applicant's application, such applicant shall be issued a license upon the payment of the prescribed fee.
 
@@ -88,7 +88,7 @@
 
 (D) At the election of a licensed collector, the annual inspection of records and inventory permitted under this paragraph shall be performed at the office of the Attorney General designated for such inspections which is located in closest proximity to the premises where the inventory and records of such licensed collector are maintained. The inspection and examination authorized by this paragraph shall not be construed as authorizing the Attorney General to seize any records or other documents other than those records or documents constituting material evidence of a violation of law. If the Attorney General seizes such records or documents, copies shall be provided the licensee within a reasonable time. The Attorney General may make available to any Federal, State, or local law enforcement agency any information which he may obtain by reason of this chapter with respect to the identification of persons prohibited from purchasing or receiving firearms or ammunition who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition, and he may provide information to the extent such information may be contained in the records required to be maintained by this chapter, when so requested by any Federal, State, or local law enforcement agency.
 
-(2) Each licensed collector shall maintain in a bound volume the nature of which the Attorney General may by regulations prescribe, records of the receipt, sale, or other disposition of firearms. Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Such collector shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section.
+(2) Each licensed collector shall maintain in a bound volume the nature of which the Attorney General may by regulations prescribe, records of the receipt, sale, or other disposition of firearms. Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Suchcollector shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section.
 
 (3)(A) Each licensee shall prepare a report of multiple sales or other dispositions whenever the licensee sells or otherwise disposes of, at one time or during any five consecutive business days, two or more pistols, or revolvers, or any combination of pistols and revolvers totalling two or more, to an unlicensed person. The report shall be prepared on a form specified by the Attorney General and forwarded to the office specified thereon and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place, not later than the close of business on the day that the multiple sale or other disposition occurs.
 
@@ -230,7 +230,7 @@ Subsec. (g). Pub. L. 90–618 redesignated former subsec. (d) as (g) and added l
 
 Subsec. (h). Pub. L. 90–618 redesignated former subsec. (e) as (h) and substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted ", by means of a serial number engraved or cast on the receiver or frame of the weapon," after "shall identify".
+Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted ", by means of a serial numberengraved or cast on the receiver or frame of the weapon," after "shall identify".
 
 Subsec. (j). Pub. L. 90–618 added subsec. (j).
 
@@ -290,7 +290,7 @@ Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in par
 
 #### Funding for Bureau Not Authorized To Deny License Applications or Renewals Due to Lack of Business Activity
 
-Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized ormade available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
+Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
 
 #### Tracing Studies Disclaimer
 

@@ -8,11 +8,13 @@ Whoever—
 
 &emsp;(2) at any time knowingly and willfully makes or causes to be made any false statement or representation of a material fact for use in determining rights to any such benefit,
 
-&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit, or (B) the initial or continued right to any such benefit of any other individual in whose behalf he has applied for or is receiving such benefit, conceals or fails to disclose such event with an intent fraudulently to secure such benefit either in a greater amount or quantity than is due or when no such benefit is authorized, or
+&emsp;(3) having knowledge of the occurrence of any event affecting (A) his initial or continued right to any such benefit, or (B) the initial or continued right to any such benefit of any other individual in whose behalf he has applied for or is receiving such benefit, conceals or fails to disclose such event with an intent fraudulently to secure such benefit either in a greater amount or quantity than is due or when no such benefit is authorized,
 
-&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereof to a use other than for the use and benefit of such other person,
+&emsp;(4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts such benefit or any part thereof to a use other than for the use and benefit of such other person, or
 
-> shall be fined under title 18, imprisoned not more than 5 years, or both.
+&emsp;(5) conspires to commit any offense described in any of paragraphs (1) through (3),
+
+> shall be fined under title 18, imprisoned not more than 5 years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
 
 #### (b) Restitution
 
@@ -34,13 +36,17 @@ Whoever—
 
 Any person or entity convicted of a violation of subsection (a) of this section or of section 408 of this title may not be certified as a representative payee under section 1383(a)(2) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1632, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 98–460, §16(c)(1), Oct. 9, 1984, 98 Stat. 1810; Pub. L. 103–296, title II, §206(c)(1), (2), Aug. 15, 1994, 108 Stat. 1513; Pub. L. 108–203, title II, §209(c), Mar. 2, 2004, 118 Stat. 515.)
+(Aug. 14, 1935, ch. 531, title XVI, §1632, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 98–460, §16(c)(1), Oct. 9, 1984, 98 Stat. 1810; Pub. L. 103–296, title II, §206(c)(1), (2), Aug. 15, 1994, 108 Stat. 1513; Pub. L. 108–203, title II, §209(c), Mar. 2, 2004, 118 Stat. 515; Pub. L. 114–74, title VIII, §813(a)(3), (b)(3), Nov. 2, 2015, 129 Stat. 603.)
 
 #### Amendments
 
+<b>2015</b>—Subsec. (a). Pub. L. 114–74, §813(b)(3), inserted before period at end of concluding provisions ", except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both".
+
+Subsec. (a)(5). Pub. L. 114–74, §813(a)(3), added par. (5).
+
 <b>2004</b>—Subsec. (b). Pub. L. 108–203, §209(c)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c), struck out "(2)" before "Any person", and struck out par (1) which read as follows: "If a person or entity violates subsection (a) of this section in the person's or entity's role as, or in applyingto become, a representative payee under section 1383(a)(2) of this title on behalf of another individual (other than the person's eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual."
+Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c), struck out "(2)" before "Any person", and struck out par (1) which read as follows: "If a person or entity violates subsection (a) of this section in the person's or entity's role as, or in applying to become, a representative payee under section 1383(a)(2) of this title on behalf of another individual (other than the person's eligible spouse), and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to such other individual."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–296, §206(c)(1), inserted closing provisions and struck out former closing provisions which read as follows: "shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both."
 

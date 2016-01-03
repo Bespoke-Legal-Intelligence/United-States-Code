@@ -78,7 +78,7 @@ Each person entitled to reimbursement under subsection (a) for any period shall 
 
 &emsp;(1) an attestation of involuntary termination of employment for each covered employee on the basis of whose termination entitlement to reimbursement is claimed under subsection (a),
 
-&emsp;(2) a report of the amount of payroll taxes offset under subsection (a) for the reportingperiod and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
+&emsp;(2) a report of the amount of payroll taxes offset under subsection (a) for the reporting period and the estimated offsets of such taxes for the subsequent reporting period in connection with reimbursements under subsection (a), and
 
 &emsp;(3) a report containing the TINs of all covered employees, the amount of subsidy reimbursed with respect to each covered employee and qualified beneficiaries, and a designation with respect to each covered employee as to whether the subsidy reimbursement is for coverage of 1 individual or 2 or more individuals.
 
@@ -154,7 +154,7 @@ Requirements.—An assistance eligible individual may elect to enroll in differe
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the different coverage in which the individual elects to enroll is coverage that is alsooffered to the active employees of the employer at the time at which such election is made; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the different coverage is not—
 
@@ -188,7 +188,7 @@ In general.—Paragraph (1)(A) shall not apply with respect to any assistance el
 
 &emsp;&emsp;"(B)
 
-Timing of eligibility for additional coverage.—For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverage under a group health plan before the first date on which such individual could be covered under such plan.
+Timing of eligibility for additional coverage.—For purposes of subparagraph (A)(i), an individual shall not be treated as eligible for coverageunder a group health plan before the first date on which such individual could be covered under such plan.
 
 &emsp;&emsp;"(C)
 
@@ -232,7 +232,7 @@ Preexisting conditions.—With respect to a qualified beneficiary who elects COB
 
 &emsp;"(5)
 
-Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penaltyagainst a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
+Expedited review of denials of premium assistance.—In any case in which an individual requests treatment as an assistance eligible individual and is denied such treatment by the group health plan, the Secretary of Labor (or the Secretary of Health and Human Services in connection with COBRA continuation coverage which is provided other than pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\]), in consultation with the Secretary of the Treasury, shall provide for expedited review of such denial. An individual shall be entitled to such review upon application to such Secretary in such form and manner as shall be provided by such Secretary. Such Secretary shall make a determination regarding such individual's eligibility within 15 business days after receipt of such individual's application for review under this paragraph. Either Secretary's determination upon review of the denial shall be de novo and shall be the final determination of such Secretary. A reviewing court shall grant deference to such Secretary's determination. The provisions of this paragraph, paragraphs (1) through (4), and paragraph (7) shall be treated as provisions of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] for purposes of part 5 of subtitle B of such title \[29 U.S.C. 1131 et seq.\]. In addition to civil actions that may be brought to enforce applicable provisions of such Act \[29 U.S.C. 1001 et seq.\] or other laws, the appropriate Secretary or an affected individual may bring a civil action to enforce such determinations and for appropriate relief. In addition, such Secretary may assess a penalty against a plan sponsor or health insurance issuer of not more than $110 per day for each failure to comply with such determination of such Secretary after 10 days after the date of the plan sponsor's or issuer's receipt of the determination.
 
 &emsp;"(6)
 
@@ -564,7 +564,7 @@ Phase-in percentage.—For purposes of this subsection, the term 'phase-in perce
 
 Option for high-income individuals to waive assistance and avoid recapture.—Notwithstanding subsection (a)(3), an individual shall not be treated as an assistance eligible individual for purposes of this section and section 6432 of the Internal Revenue Code of 1986 if such individual—
 
-&emsp;&emsp;"(A) makes a permanent election (at such time and in such form and manner as the Secretary ofthe Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
+&emsp;&emsp;"(A) makes a permanent election (at such time and in such form and manner as the Secretary of the Treasury may prescribe) to waive the right to the premium assistance provided under this section, and
 
 &emsp;&emsp;"(B) notifies the entity to whom premiums are reimbursed under section 6432(a) of such Code of such election.
 

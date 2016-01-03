@@ -16,7 +16,7 @@ Section 1693r of title 15 shall not apply to electronic benefit transfer systems
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is act June 4, 1946, ch. 281, 60Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 

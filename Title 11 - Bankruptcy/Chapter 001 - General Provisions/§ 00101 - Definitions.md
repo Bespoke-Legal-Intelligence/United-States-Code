@@ -1348,6 +1348,10 @@ Pub. L. 98–353, title III, §552, formerly §553, July 10, 1984, 98 Stat. 392,
 
 "(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\]."
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–107, §1, Dec. 18, 2015, 129 Stat. 2223, provided that: "This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the 'National Guard and Reservist Debt Relief Extension Act of 2015'."
+
 #### Short Title of 2011 Amendment
 
 Pub. L. 112–64, §1, Dec. 13, 2011, 125 Stat. 766, provided that: "This Act \[amending provisions set out as a note under section 707 of this title\] may be cited as the 'National Guard and Reservist Debt Relief Extension Act of 2011'."
@@ -1390,7 +1394,7 @@ Pub. L. 107–377, §1, Dec. 19, 2002, 116 Stat. 3115, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
+Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548,707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
 
 #### Short Title of 1994 Amendment
 
@@ -1436,7 +1440,9 @@ Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that:
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount "175,750" was adjusted to "186,825"; in par. (18), dollar amount "3,792,650" was adjusted to "4,031,575" each time it appeared; in par. (19A), dollar amount "1,757,475" was adjusted to "1,868,200" each time it appeared; and, in par. (51D), dollar amount "2,343,300" was adjusted to "2,490,925" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount "186,825" was adjusted to "192,450"; in par. (18), dollar amount "4,031,575" was adjusted to "4,153,150" each time it appeared; in par. (19A), dollar amount "1,868,200" was adjusted to "1,924,550" each time it appeared; and, in par. (51D), dollar amount "2,490,925" was adjusted to "2,566,050" each time it appeared. See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in par. (3), dollar amount "175,750" was adjusted to "186,825"; in par. (18), dollar amount "3,792,650" was adjusted to "4,031,575" each time it appeared; in par. (19A), dollar amount "1,757,475" was adjusted to "1,868,200" each time it appeared; and, in par. (51D), dollar amount "2,343,300" was adjusted to "2,490,925" each time it appeared.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in par. (3), dollar amount "164,250" was adjusted to "175,750"; in par. (18)(A), (B)(ii), dollar amount "3,544,525" was adjusted to "3,792,650" each time it appeared; in par. (19A)(A)(i), (B)(ii)(II), dollar amount "1,642,500" was adjusted to "1,757,475" each time it appeared; and, in par. (51D)(A), (B), dollar amount "2,190,000" was adjusted to "2,343,300" each time it appeared.
 

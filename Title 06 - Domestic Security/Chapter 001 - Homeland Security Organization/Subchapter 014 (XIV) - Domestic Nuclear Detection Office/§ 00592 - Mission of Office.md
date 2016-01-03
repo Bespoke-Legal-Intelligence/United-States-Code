@@ -16,7 +16,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;&emsp;(B) the Secretary of Defense will retain responsibility for implementation of Department of Defense requirements within and outside the United States; and
 
-&emsp;&emsp;(C) the Secretary of State, the Secretary of Defense, and the Secretary of Energy willmaintain their respective responsibilities for policy guidance and implementation of the portion of the global architecture outside the United States, which will be implemented consistent with applicable law and relevant international arrangements;
+&emsp;&emsp;(C) the Secretary of State, the Secretary of Defense, and the Secretary of Energy will maintain their respective responsibilities for policy guidance and implementation of the portion of the global architecture outside the United States, which will be implemented consistent with applicable law and relevant international arrangements;
 
 &emsp;(5) ensure that the expertise necessary to accurately interpret detection data is made available in a timely manner for all technology deployed by the Office to implement the global nuclear detection architecture;
 
@@ -64,7 +64,7 @@ The Office shall be responsible for coordinating Federal efforts to detect and p
 
 &emsp;&emsp;&emsp;(ii) provide for the setting aside of up to 10 percent of the scholarships or fellowships awarded under this section for individuals who are Federal employees to enhance the education of such employees in areas of critical nuclear forensics and attribution needs of the United States Government, for doctoral education under the scholarship on a full-time or part-time basis;
 
-&emsp;&emsp;&emsp;(iii) provide that the Secretary may enter into a contractual agreement withan institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which such scholarship is awarded;
+&emsp;&emsp;&emsp;(iii) provide that the Secretary may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which such scholarship is awarded;
 
 &emsp;&emsp;&emsp;(iv) require scholarship recipients to maintain satisfactory academic progress; and
 
@@ -134,7 +134,7 @@ Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: "Congress fi
 
 &emsp;"(4)(A) In order to identify special nuclear material and other radioactive materials confidently, it is necessary to have a robust capability to acquire samples in a timely manner, analyze and characterize samples, and compare samples against known signatures of nuclear and radiological material.
 
-&emsp;"(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored andmodern techniques that could complement or replace existing techniques should be pursued.
+&emsp;"(B) Many of the radioisotopes produced in the detonation of a nuclear device have short half-lives, so the timely acquisition of samples is of the utmost importance. Over the past several decades, the ability of the United States to gather atmospheric samples—often the preferred method of sample acquisition—has diminished. This ability must be restored and modern techniques that could complement or replace existing techniques should be pursued.
 
 &emsp;"(C) The discipline of pre-detonation forensics is a relatively undeveloped field. The radiation associated with a nuclear or radiological device may affect traditional forensics techniques in unknown ways. In a post-detonation scenario, radiochemistry may provide the most useful tools for analysis and characterization of samples. The number of radiochemistry programs and radiochemists in United States National Laboratories and universities has dramatically declined over the past several decades. The narrowing pipeline of qualified people into this critical field is a serious impediment to maintaining a robust and credible nuclear forensics program.
 

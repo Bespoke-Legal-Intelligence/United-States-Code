@@ -2,7 +2,7 @@
 
 (a)
 
-Written Reports.—(1) Except as provided in this part, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall make a written report of each proceeding and investigation under this part in which a formal hearing was held and shall provide a copy to each party to the proceeding or investigation. The report shall include the decision, conclusions, order, and requirements of the Secretary or Administrator as appropriate.
+Written Reports.—(1) Except as provided in this part, the Secretary of Transportation (orthe Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall make a written report of each proceeding and investigation under this part in which a formal hearing was held and shall provide a copy to each party to the proceeding or investigation. The report shall include the decision, conclusions, order, and requirements of the Secretary or Administrator as appropriate.
 
 (2) The Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) shall have all reports, orders, decisions, and regulations the Secretary or Administrator, as appropriate, issues or prescribes published in the form and way best adapted for public use. A publication of the Secretary or Administrator is competent evidence of its contents.
 
@@ -74,7 +74,7 @@ In subsection (a)(1), the words "otherwise", "requirement in the premises", and 
 
 In subsection (a)(2), the word "rules" is omitted as being synonymous with "regulations". The word "prescribes" is added for consistency in the revised title and with other titles of the United States Code. The words "under this chapter" and "information and" are omitted as surplus. The words "A publication of the Secretary or Administrator is competent evidence of its contents" is substituted for 49 App.:1324(d) (last sentence) to eliminate unnecessary words and for consistency.
 
-In subsection (b), the words "otherwise", "all contracts, agreements, understandings, and", "annual or other", "of air carriers and other persons", and "preserved as" are omitted as surplus. The last sentence issubstituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
+In subsection (b), the words "otherwise", "all contracts, agreements, understandings, and", "annual or other", "of air carriers and other persons", and "preserved as" are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
 
 #### Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media Format
 

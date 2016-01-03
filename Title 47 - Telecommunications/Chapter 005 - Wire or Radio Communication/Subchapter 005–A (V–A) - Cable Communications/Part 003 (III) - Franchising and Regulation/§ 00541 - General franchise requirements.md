@@ -10,7 +10,7 @@
 
 &emsp;(B) that the cost of the installation, construction, operation, or removal of such facilities be borne by the cable operator or subscriber, or a combination of both; and
 
-&emsp;(C) that the owner of the property be justly compensated by the cable operator for any damages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
+&emsp;(C) that the owner of the property be justly compensated by the cable operator for anydamages caused by the installation, construction, operation, or removal of such facilities by the cable operator.
 
 (3) In awarding a franchise or franchises, a franchising authority shall assure that access to cable service is not denied to any group of potential residential cable subscribers because of the income of the residents of the local area in which such group resides.
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) to discontinue the operation of a cable system, to the extent such cable system is used for the provision of a telecommunications service, by reason of the failure of such cable operator or affiliate thereof to obtain a franchise or franchise renewal under this subchapter with respect to the provision of such telecommunications service.
 
-(D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, otherthan institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
+(D) Except as otherwise permitted by sections 531 and 532 of this title, a franchising authority may not require a cable operator to provide any telecommunications service or facilities, other than institutional networks, as a condition of the initial grant of a franchise, a franchise renewal, or a transfer of a franchise.
 
 #### (c) Status of cable system as common carrier or utility
 

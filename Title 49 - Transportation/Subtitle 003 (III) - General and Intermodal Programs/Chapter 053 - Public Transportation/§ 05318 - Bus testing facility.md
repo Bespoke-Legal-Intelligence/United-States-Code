@@ -22,7 +22,7 @@ Acquiring New Bus Models.—
 
 &emsp;(1)
 
-In general.—Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if—
+In general.—Amounts appropriated or otherwise made available under this chaptermay be obligated or expended to acquire a new bus model only if—
 
 &emsp;&emsp;(A) a bus of that model has been tested at a facility authorized under subsection (a); and
 
@@ -34,7 +34,7 @@ In general.—Amounts appropriated or otherwise made available under this chapte
 
 &emsp;(2)
 
-Bus test "pass/fail" standard.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph <sup>1</sup> (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a "pass/fail" standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work withthe bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser's specific requirements.
+Bus test "pass/fail" standard.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph <sup>1</sup> (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a "pass/fail" standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work with the bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser's specific requirements.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 817; Pub. L. 103–429, §6(8), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title III, §§3018, 3029(b)(8), June 9, 1998, 112 Stat. 361, 372; Pub. L. 109–59, title III, §§3002(b)(4), 3020, Aug. 10, 2005, 119 Stat. 1545, 1608; Pub. L. 112–141, div. B, §20014, July 6, 2012, 126 Stat. 694.)
 
@@ -114,7 +114,7 @@ Subsec. (e). Pub. L. 109–59, §3020(c), amended heading and text of subsec. (e
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–178, §3018(a), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contract with" and inserted "or organization" after "qualified person", ", cooperative agreement, or grant" after "The contract", and "mass transportation" after "and other".
 
-Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contract with" and "5309(m)(1)(C) of this title" for "5338(j)(5) of this title".
+Subsec. (d). Pub. L. 105–178, §§3018(b), 3029(b)(8), substituted "enter into a contract or cooperative agreement with, or make a grant to," for "make a contractwith" and "5309(m)(1)(C) of this title" for "5338(j)(5) of this title".
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 inserted "Uniform" before "Relocation".
 

@@ -34,7 +34,7 @@ Pub. L. 94–302, title III, §301, May 31, 1976, 90 Stat. 596, provided that:
 
 &emsp;"(1) the problems posed by swine influenza transcend national and political boundaries;
 
-&emsp;"(2) no one country, or even one portion of the world, can singularly undertake the search for a worldwide solution to the problems posed by swine influenza;
+&emsp;"(2) no one country, or even one portion of the world, can singularly undertake the search for aworldwide solution to the problems posed by swine influenza;
 
 &emsp;"(3) the global nature of swine influenza demands international cooperation and coordination in the investigation and planning for effective control of swine influenza;
 

@@ -38,7 +38,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;&emsp;(A) be made for a term not exceeding 30 years;
 
-&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and service charges, if any) at a rate agreed upon by the borrower and the lender and determined bythe Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
 
 &emsp;&emsp;(C) involve a principal obligation not exceeding—
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
+&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, theholder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
 
 #### (i) Foreclosure
 
@@ -116,7 +116,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Requirements
 
-&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder ofthe guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
 #### (2) Limitations on liquidation
 
@@ -272,7 +272,7 @@ Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
@@ -324,7 +324,7 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out "in a court 
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: "Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of theholder of the guarantee and the holder shall assign the obligation and security to the Secretary."
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
 Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
 

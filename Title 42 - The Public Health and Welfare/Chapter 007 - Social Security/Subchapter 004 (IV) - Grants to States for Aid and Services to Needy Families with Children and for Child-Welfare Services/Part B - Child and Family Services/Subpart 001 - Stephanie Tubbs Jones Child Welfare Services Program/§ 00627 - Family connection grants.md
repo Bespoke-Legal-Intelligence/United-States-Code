@@ -22,7 +22,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 &emsp;&emsp;(D) shall provide outreach to kinship care families, including by establishing, distributing, and updating a kinship care website, or other relevant guides or outreach materials;
 
-&emsp;&emsp;(E) shall promote partnerships between public and private agencies, including schools, community based or faith-based organizations, and relevant government agencies, to increase their knowledge of the needs of kinship care families and other individuals who are willing and able to be foster parents for children in foster care under the responsibility of the State who are themselves parents to promote better services for those families;
+&emsp;&emsp;(E) shall promote partnerships between public and private agencies, including schools, community based or faith-based organizations, and relevant government agencies, to increase their knowledge of the needs of kinship care families and other individuals who are willing and able to be foster parents for children in foster care underthe responsibility of the State who are themselves parents to promote better services for those families;
 
 &emsp;&emsp;(F) may establish and support a kinship care ombudsman with authority to intervene and help kinship caregivers access services; and
 
@@ -98,7 +98,7 @@ A grantee under this section shall use the grant in accordance with the approved
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
 
-(Aug. 14, 1935, ch. 531, title IV, §427, as added Pub. L. 110–351, title I, §102(a), Oct. 7, 2008, 122 Stat. 3953; amended Pub. L. 113–183, title II, §221(a)—(d), Sept. 29, 2014, 128 Stat. 1942, 1943.)
+(Aug. 14, 1935, ch. 531, title IV, §427, as added Pub. L. 110–351, title I, §102(a), Oct. 7, 2008, 122 Stat. 3953; amended Pub. L. 113–183, title II, §221(a)–(d), Sept. 29, 2014, 128 Stat. 1942, 1943.)
 
 #### Prior Provisions
 
@@ -120,5 +120,5 @@ Pub. L. 113–183, title II, §221(e), Sept. 29, 2014, 128 Stat. 1943, provided 
 
 #### Effective Date
 
-Section effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter forquarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as an Effective Date of 2008 Amendment note under section 671 of this title.
+Section effective Oct. 7, 2008, and applicable to payments under this part and part E of this subchapter for quarters beginning on or after such date, with delay permitted if State legislation is required to meet additional requirements, see section 601 of Pub. L. 110–351, set out as an Effective Date of 2008 Amendment note under section 671 of this title.
 

@@ -50,7 +50,7 @@ A provider of interactive computer service shall, at the time of entering an agr
 
 #### (1) No effect on criminal law
 
-&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 or 231 ofthis title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
+&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
 
 #### (2) No effect on intellectual property law
 

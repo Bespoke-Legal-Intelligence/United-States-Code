@@ -34,21 +34,21 @@ Cost Sharing.—Each cooperative research and development project entered into u
 
 Restrictions on Procurement of Equipment and Services.—(1) In order to assure substantial participation on the part of countries and organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
 
-(2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other fundsprovided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
+(2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 
 (e)
 
-Cooperative Opportunities Document.—(1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
+Cooperative Opportunities.—(1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project.
 
-(2) A cooperative opportunities document referred to in paragraph (1) shall include the following:
+(2) A cooperative opportunities discussion referred to in paragraph (1) shall consider the following:
 
-&emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
+&emsp;(A) Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is indevelopment or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+&emsp;(D) A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
 \[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.\]
 
@@ -80,17 +80,29 @@ Definitions.—In this section:
 
 &emsp;(3) The term "NATO organization" means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900.)
 
 #### Prior Provisions
 
 Provisions relating to NATO countries were contained in Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(1).
 
-Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relationsand Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
+Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §865, substituted ", the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering" for "and to one other official of the Department of Defense".
+<b>2015</b>—Subsec. (e). Pub. L. 114–92, §821(b)(1)(A), struck out "Document" after "Cooperative Opportunities" in heading.
+
+Subsec. (e)(1). Pub. L. 114–92, §821(b)(1)(B), substituted "opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project" for "the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board".
+
+Subsec. (e)(2). Pub. L. 114–92, §821(b)(1)(C)(i), substituted "discussion" for "document" and "consider" for "include" in introductory provisions.
+
+Subsec. (e)(2)(A). Pub. L. 114–92, §821(b)(1)(C)(ii), substituted "Whether" for "A statement indicating whether".
+
+Subsec. (e)(2)(B). Pub. L. 114–92, §821(b)(1)(C)(iii), struck out "by the Under Secretary of Defense for Acquisition, Technology, and Logistics" after "an assessment" and "of the United States under consideration by the Department of Defense" after "of the project".
+
+Subsec. (e)(2)(D). Pub. L. 114–92, §821(b)(1)(C)(iv), substituted "A recommendation to the milestone decision authority" for "The recommendation of the Under Secretary".
+
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §865, substituted ", the Under Secretary of Defense for Acquisition,Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering" for "and to one other official of the Department of Defense".
 
 Subsec. (g)(3). Pub. L. 112–81, §1061(14), struck out par. (3) which read as follows: "The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated."
 
@@ -154,7 +166,7 @@ Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), as amended by Pub. L
 
 Subsec. (h). Pub. L. 107–107, §1212(a)(6), substituted "member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries" for "major allies of the United States".
 
-Subsec. (i)(1). Pub. L. 107–107, §1212(a)(7)(A), substituted "countries and organizations referred to insubsection (a)(2)" for "major allies of the United States or NATO organizations".
+Subsec. (i)(1). Pub. L. 107–107, §1212(a)(7)(A), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States or NATO organizations".
 
 Subsec. (i)(2) to (4). Pub. L. 107–107, §1212(a)(7)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "The term 'major ally of the United States' means—
 
@@ -256,11 +268,11 @@ Costs of operation of offices established for program.—Costs for the operation
 
 "(d)
 
-Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only fromcontributions credited to an appropriation under subsection (c)(4).
+Authority To Contract for Program Activities.—As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4).
 
 "(e)
 
-Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
+Disposal of Property.—As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property ownedby the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
 
 "(f)
 

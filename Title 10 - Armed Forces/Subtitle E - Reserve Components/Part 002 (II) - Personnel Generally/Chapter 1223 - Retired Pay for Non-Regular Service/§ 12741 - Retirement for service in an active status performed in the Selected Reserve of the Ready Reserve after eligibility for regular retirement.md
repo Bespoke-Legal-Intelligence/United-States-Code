@@ -56,7 +56,7 @@ Election of Reserve Retired Pay.—A person who, after becoming entitled to reti
 
 &emsp;"(2) the person elects under this section to receive retired pay under this chapter; and
 
-&emsp;"(3) the person's service in an active status after having become entitled to retired or retainer payunder that chapter is determined by the Secretary concerned to have been satisfactory."
+&emsp;"(3) the person's service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory."
 
 Subsec. (b)(1). Pub. L. 111–84, §643(b), added par. (1) and struck out former par. (1) which read as follows: "terminate the person's entitlement to retired or retainer pay under the applicable chapter of this title referred to in subsection (a); and".
 

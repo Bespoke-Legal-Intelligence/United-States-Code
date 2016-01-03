@@ -10,7 +10,7 @@ Any person who—
 
 #### (2) Failure to file application
 
-&emsp;engages in the business of a distiller or processor without having filed application for and received notice of registration, as required by section 5171(c); or
+&emsp;engages in the business of a distiller or processor without having filed application for andreceived notice of registration, as required by section 5171(c); or
 
 #### (3) False or fraudulent application
 
@@ -22,7 +22,7 @@ Any person who—
 
 #### (5) False, forged, or fraudulent bond
 
-&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processorof distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
+&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processor of distilled spirits, and gives any false, forged, or fraudulent bond, under subchapter B; or
 
 #### (6) Distilling on prohibited premises
 
@@ -82,7 +82,7 @@ Whenever on trial for violation of subsection (a)(4) the defendant is shown to h
 
 #### Prior Provisions
 
-A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related to forfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
+A prior section 5601, act Aug. 16, 1954, ch. 736, 68A Stat. 683, consisted of provisions similar to those comprising subsec. (a)(1) of this section, and also related toforfeiture for possession of unregistered still or distilling apparatus, prior to the general revision of this chapter by Pub. L. 85–859. See section 5615(1) of this title.
 
 Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (14) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 

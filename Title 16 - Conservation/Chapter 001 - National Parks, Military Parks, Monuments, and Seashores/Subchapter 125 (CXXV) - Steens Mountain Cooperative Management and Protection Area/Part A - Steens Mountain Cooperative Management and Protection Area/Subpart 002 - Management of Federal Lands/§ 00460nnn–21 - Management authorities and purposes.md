@@ -22,7 +22,7 @@ Within 4 years after October 30, 2000, the Secretary shall develop a comprehensi
 
 #### (c) Monitoring
 
-The Secretary shall implement a monitoring program for Federal lands in the Cooperative Management and Protection Area so that progress towards ecological integrity objectives can be determined.
+The Secretary shall implement a monitoring program for Federal lands in the CooperativeManagement and Protection Area so that progress towards ecological integrity objectives can be determined.
 
 (Pub. L. 106–399, title I, §111, Oct. 30, 2000, 114 Stat. 1659.)
 

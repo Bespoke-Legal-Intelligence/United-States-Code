@@ -16,7 +16,7 @@ Regulations.—The Administrator shall issue regulations to carry out this secti
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Improved Voluntary Disclosure Reporting System
 

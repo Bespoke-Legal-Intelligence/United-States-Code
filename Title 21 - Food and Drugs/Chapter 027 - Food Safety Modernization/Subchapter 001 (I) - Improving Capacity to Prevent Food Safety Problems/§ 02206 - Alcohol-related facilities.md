@@ -10,7 +10,7 @@ Except as provided by sections 102, 206, 207, 302, 304, 402, 403, and 404 of thi
 
 #### (b) Limited receipt and distribution of non-alcohol food
 
-Subsection (a) shall not apply to a facility engaged in the receipt and distribution of any non-alcohol food, except that such paragraph shall apply to a facility described in such paragraphthat receives and distributes non-alcohol food, provided such food is received and distributed—
+Subsection (a) shall not apply to a facility engaged in the receipt and distribution of any non-alcohol food, except that such paragraph shall apply to a facility described in such paragraph that receives and distributes non-alcohol food, provided such food is received and distributed—
 
 &emsp;(1) in a prepackaged form that prevents any direct human contact with such food; and
 

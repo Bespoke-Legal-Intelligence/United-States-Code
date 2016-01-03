@@ -24,7 +24,7 @@ The Commission shall be composed of the following Members of Congress:
 
 &emsp;(5) The majority leader and the minority leader of the House of Representatives.
 
-&emsp;(6) The Chairman of the Commission on the Bicentennial of the United States Senate andthe Chairman of the Commission of the House of Representatives Bicentenary, to be succeeded upon expiration of such commissions, by a Senator or Member of the House of Representatives, as appropriate, appointed by the Senate or House of Representatives co-chairman of the Commission, respectively.
+&emsp;(6) The Chairman of the Commission on the Bicentennial of the United States Senate and the Chairman of the Commission of the House of Representatives Bicentenary, to be succeeded upon expiration of such commissions, by a Senator or Member of the House of Representatives, as appropriate, appointed by the Senate or House of Representatives co-chairman of the Commission, respectively.
 
 &emsp;(7) One Senator appointed by the President pro tempore of the Senate and one Senator appointed by the minority leader of the Senate.
 

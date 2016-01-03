@@ -25,7 +25,7 @@
 | \[2219. | Renumbered.\] |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
 | \[2221. | Repealed.\] |
-| [2222\.](%C2%A7%2002222%20-%20Defense%20business%20systems%20architecture%2C%20accountability%2C%20and%20modernization.md) | Defense business systems: architecture, accountability, and modernization. |
+| [2222\.](%C2%A7%2002222%20-%20Defense%20business%20systems%20business%20process%20reengineering%3B%20enterprise%20architecture%3B%20management.md) | Defense business systems: business process reengineering; enterprise architecture; management. |
 | [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
 | [2223a.](%C2%A7%2002223a%20-%20Information%20technology%20acquisition%20planning%20and%20oversight%20requirements.md) | Information technology acquisition planning and oversight requirements. |
 | [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
@@ -40,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2015</b>—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, which directed amendment of the analysis for "such chapter" by striking item 2222 and adding a new item 2222, was executed to the analysis for this chapter by adding item 2222 and striking out former item 2222 "Defense business systems: architecture, accountability, and modernization", to reflect the probable intent of Congress.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
@@ -97,7 +99,7 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 
 #### Strategic Management Plan
 
-Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, provided that:
+Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, as amended by Pub. L. 114–92, div. A, title X, §1079(e), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 "(d)
 
@@ -117,13 +119,9 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;"(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;"(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
-
-&emsp;"(3)
-
-Updates.—The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
 
 "(e)
 
@@ -157,7 +155,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02219 - Renumbered &sect;2491c](%C2%A7%2002219%20-%20Renumbered%20%C2%A72491c.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
-- [&sect; 02222 - Defense business systems architecture, accountability, and modernization](%C2%A7%2002222%20-%20Defense%20business%20systems%20architecture%2C%20accountability%2C%20and%20modernization.md)
+- [&sect; 02222 - Defense business systems business process reengineering; enterprise architecture; management](%C2%A7%2002222%20-%20Defense%20business%20systems%20business%20process%20reengineering%3B%20enterprise%20architecture%3B%20management.md)
 - [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)
 - [&sect; 02223a - Information technology acquisition planning and oversight requirements](%C2%A7%2002223a%20-%20Information%20technology%20acquisition%20planning%20and%20oversight%20requirements.md)
 - [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)

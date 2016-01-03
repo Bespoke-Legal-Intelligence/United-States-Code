@@ -6,7 +6,7 @@ The Secretary shall, in accordance with this section (including the agenda devel
 
 &emsp;(1) determine whether or not exposure to electric and magnetic fields produced by the generation, transmission, and use of electric energy affects human health;
 
-&emsp;(2) carry out research, development, and demonstration with respect to technologies to mitigate any adverse human health effects; and
+&emsp;(2) carry out research, development, and demonstration with respect to technologies tomitigate any adverse human health effects; and
 
 &emsp;(3) provide for dissemination of information described in subsection (b)(1) of this section to the public.
 
@@ -202,7 +202,7 @@ All authority under this section shall expire on December 31, 1998.
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act tothe Code, see Short Title note set out under section 13201 of this title and Tables.
+This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Amendments
 

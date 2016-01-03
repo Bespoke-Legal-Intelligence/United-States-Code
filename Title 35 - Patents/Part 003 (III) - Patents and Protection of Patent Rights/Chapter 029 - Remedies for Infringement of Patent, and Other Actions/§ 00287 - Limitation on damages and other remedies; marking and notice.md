@@ -2,7 +2,7 @@
 
 (a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word "patent" or the abbreviation "pat.", together with the number of the patent, or by fixing thereon the word "patent" or the abbreviation "pat." together with an address of a posting on the Internet, accessible to the public without charge for accessing the address, that associates the patented article with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
-(b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
+(b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsectionor section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
 &emsp;(A) practiced the patented process;
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
-&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will requestfrom that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
@@ -50,7 +50,7 @@
 
 &emsp;(i) promptly transmits the written notification or response to the manufacturer or, if the manufacturer is not known, to the supplier, of the product purchased or to be purchased by that person; and
 
-&emsp;(ii) receives a written statement from the manufacturer or supplier which on its face sets forth a well grounded factual basis for a belief that the identified patents are not infringed.
+&emsp;(ii) receives a written statement from the manufacturer or supplier which on its facesets forth a well grounded factual basis for a belief that the identified patents are not infringed.
 
 (D) For purposes of this subsection, a person who obtains a product made by a process patented in the United States in a quantity which is abnormally large in relation to the volume of business of such person or an efficient inventory level shall be rebuttably presumed to have actual knowledge that the product was made by such patented process.
 
@@ -76,7 +76,7 @@
 
 (3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
 
-&emsp;(A) directly related to the commercial development, manufacture, sale, importation, ordistribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
+&emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
 
 &emsp;(B) regulated under the Federal Food, Drug, and Cosmetic Act, the Public Health Service Act, or the Clinical Laboratories Improvement Act.
 

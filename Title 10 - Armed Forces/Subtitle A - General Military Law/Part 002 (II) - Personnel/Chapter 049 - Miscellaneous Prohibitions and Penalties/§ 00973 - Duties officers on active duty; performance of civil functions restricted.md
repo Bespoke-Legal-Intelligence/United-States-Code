@@ -32,7 +32,7 @@
 
 (5) Nothing in this subsection shall be construed to invalidate any action undertaken by an officer in furtherance of assigned official duties.
 
-(6) In this subsection, the term "State" includes the District of Columbia and a territory,possession, or commonwealth of the United States.
+(6) In this subsection, the term "State" includes the District of Columbia and a territory, possession, or commonwealth of the United States.
 
 (c) An officer to whom subsection (b) applies may seek and hold nonpartisan civil office on an independent school board that is located exclusively on a military reservation.
 

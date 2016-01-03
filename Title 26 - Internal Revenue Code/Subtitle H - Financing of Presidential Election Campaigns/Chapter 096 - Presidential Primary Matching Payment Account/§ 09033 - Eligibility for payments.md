@@ -38,7 +38,7 @@ To be eligible to receive payments under section 9037, a candidate shall certify
 
 #### (3) Calculation of voting percentage
 
-&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more than one State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in the primary election conducted on such date in which he received the greatest percentage vote.
+&emsp;For purposes of paragraph (1)(B), if the primary elections involved are held in more than one State on the same date, a candidate shall be treated as receiving that percentage of the votes on such date which he received in theprimary election conducted on such date in which he received the greatest percentage vote.
 
 #### (4) Reestablishment of eligibility
 
@@ -57,4 +57,8 @@ Subsec. (c). Pub. L. 94–283, §306(b)(2), added subsec. (c).
 #### Effective Date of 1976 Amendment
 
 Amendment by section 306(b)(2) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under section 9002 of this title.
+
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 

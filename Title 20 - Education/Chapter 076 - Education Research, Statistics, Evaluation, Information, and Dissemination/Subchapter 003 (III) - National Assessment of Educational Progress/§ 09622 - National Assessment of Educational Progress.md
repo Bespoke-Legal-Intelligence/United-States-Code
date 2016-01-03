@@ -26,7 +26,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;(F) continue to conduct the trend assessment of academic achievement at ages 9, 13, and 17 for the purpose of maintaining data on long-term trends in reading and mathematics;
 
-&emsp;&emsp;(G) include information on special groups, including, whenever feasible, information collected, cross tabulated, compared, and reported by race, ethnicity, socioeconomic status, gender, disability and limited English proficiency; and
+&emsp;&emsp;(G) include information on special groups, including, whenever feasible, informationcollected, cross tabulated, compared, and reported by race, ethnicity, socioeconomic status, gender, disability and limited English proficiency; and
 
 &emsp;&emsp;(H) ensure that achievement data are made available on a timely basis following official reporting, in a manner that facilitates further analysis and that includes trend lines.
 
@@ -102,7 +102,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (3), parents and members of the public shall have access to all assessment data, questions, and complete and current assessment instruments of any assessment authorized under this section. The local educational agency shall make reasonable efforts to inform parents and members of the public about the access required under this paragraph.
+&emsp;&emsp;Except as provided in paragraph (3), parents and members of the public shall have access to all assessment data, questions, and complete and current assessment instruments of any assessment authorized underthis section. The local educational agency shall make reasonable efforts to inform parents and members of the public about the access required under this paragraph.
 
 #### (B) Timeline
 
@@ -176,7 +176,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (4) Review
 
-&emsp;Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c) of this section, except the review described in subparagraph (2)(C) of subsection (c) of this section shall take place in consultation with the representatives described in this paragraph.
+&emsp;Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure ofany authorized assessment upon request in a manner consistent with subsection (c) of this section, except the review described in subparagraph (2)(C) of subsection (c) of this section shall take place in consultation with the representatives described in this paragraph.
 
 #### (e) Student achievement levels
 
@@ -210,7 +210,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (E) Updates
 
-&emsp;&emsp;Such levels shall be updated as appropriate by the Assessment Board in consultationwith the Commissioner for Education Statistics.
+&emsp;&emsp;Such levels shall be updated as appropriate by the Assessment Board in consultation with the Commissioner for Education Statistics.
 
 #### (3) Reporting
 

@@ -88,7 +88,7 @@ Duties.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production,processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
+In general.—Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(d)), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production, processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
 
 &emsp;"(2)
 
@@ -118,7 +118,7 @@ Membership.—The Consultative Group shall be composed of not more than 13 indiv
 
 &emsp;"(6) 1 member shall represent an organization that provides independent, third-party certification services for labor standards for producers or importers of agricultural commodities or products; and
 
-&emsp;"(7) 3 members shall represent organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] that have expertise on the issues of international child labor and do not possess a conflict of interest associated with establishment of the guidelines issued under subsection (c)(2), as determined by the Bureau of International Labor Affairs of the Department of Labor, including representatives from consumer organizations and trade unions, if appropriate.
+&emsp;"(7) 3 members shall represent organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] that have expertise on the issues of international child labor and do not possess a conflict of interest associated with establishment of the guidelines issued under subsection (c)(2),as determined by the Bureau of International Labor Affairs of the Department of Labor, including representatives from consumer organizations and trade unions, if appropriate.
 
 "(e)
 

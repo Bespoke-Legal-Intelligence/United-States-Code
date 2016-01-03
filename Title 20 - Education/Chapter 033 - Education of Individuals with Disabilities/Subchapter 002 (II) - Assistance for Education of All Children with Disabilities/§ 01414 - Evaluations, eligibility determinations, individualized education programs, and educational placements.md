@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;The relevant timeframe in clause (i)(I) shall not apply to a local educational agency if—
 
-&emsp;&emsp;&emsp;&emsp;(I) a child enrolls in a school served by the local educational agency after the relevant timeframe in clause (i)(I) has begun and prior to a determination by the child's previous local educational agency as to whether the child is a child with a disability (as defined in section 1401 of this title), but only if the subsequent local educational agency is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and subsequent local educational agency agree to a specific time when the evaluation will be completed; or
+&emsp;&emsp;&emsp;&emsp;(I) a child enrolls in a school served by the local educational agency after the relevant timeframe in clause (i)(I) has begun and prior to a determination by the child's previous local educational agency as to whether the child is a childwith a disability (as defined in section 1401 of this title), but only if the subsequent local educational agency is making sufficient progress to ensure a prompt completion of the evaluation, and the parent and subsequent local educational agency agree to a specific time when the evaluation will be completed; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the parent of a child repeatedly fails or refuses to produce the child for the evaluation.
 
@@ -152,7 +152,7 @@
 
 &emsp;In making a determination of eligibility under paragraph (4)(A), a child shall not be determined to be a child with a disability if the determinant factor for such determination is—
 
-&emsp;&emsp;(A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in section 6368(3) of this title);
+&emsp;&emsp;(A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in section 6368(3) of this title, as such section was in effect on the day before December 10, 2015);
 
 &emsp;&emsp;(B) lack of instruction in math; or
 
@@ -358,7 +358,7 @@
 
 #### (I) Transfer within the same State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that wasin effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
 
 #### (II) Transfer outside State
 
@@ -478,7 +478,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) in years other than a child's natural transition points, an annual review of the child's IEP to determine the child's current levels of progress and whether the annual goals for the child are being achieved, and a requirement to amend the IEP, as appropriate, to enable the child to continue to meet the measurable goals set out in the IEP;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) if the IEP Team determines on the basis of a review that the child is not making sufficient progress toward the goals described in the multi-year IEP, a requirement that the local educational agency shall ensure that the IEP Team carries out a more thorough review of the IEP in accordance with paragraph (4) within 30 calendar days; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) if the IEP Team determines on the basis of a review that thechild is not making sufficient progress toward the goals described in the multi-year IEP, a requirement that the local educational agency shall ensure that the IEP Team carries out a more thorough review of the IEP in accordance with paragraph (4) within 30 calendar days; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) at the request of the parent, a requirement that the IEP Team shall conduct a review of the child's multi-year IEP rather than or subsequent to an annual review.
 
@@ -530,7 +530,11 @@ Each local educational agency or State educational agency shall ensure that the 
 
 When conducting IEP team <sup>2</sup> meetings and placement meetings pursuant to this section, section 1415(e) of this title, and section 1415(f)(1)(B) of this title, and carrying out administrative matters under section 1415 of this title (such as scheduling, exchange of witness lists, and status conferences), the parent of a child with a disability and a local educational agency may agree to use alternative means of meeting participation, such as video conferences and conference calls.
 
-(Pub. L. 91–230, title VI, §614, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2702.)
+(Pub. L. 91–230, title VI, §614, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2702; amended Pub. L. 114–95, title IX, §9215(ss)(5), Dec. 10, 2015, 129 Stat. 2182.)
+
+#### References in Text
+
+Section 6368(3) of this title, as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means section 6368(3) of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1879.
 
 #### Prior Provisions
 
@@ -539,6 +543,14 @@ A prior section 1414, Pub. L. 91–230, title VI, §614, as added Pub. L. 105–
 Another prior section 1414, Pub. L. 91–230, title VI, §614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, §901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (b)(5)(A). Pub. L. 114–95 inserted ", as such section was in effect on the day before December 10, 2015" after "of this title".
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

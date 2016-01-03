@@ -1,6 +1,6 @@
 ### §1458. Secretary to exercise certain powers over Territories
 
-The Secretary of the Interior shall exercise all the powers and perform all the duties in relation to the Territories of the United States thatwere, prior to March 1, 1873, by law or by custom exercised and performed by the Secretary of State.
+The Secretary of the Interior shall exercise all the powers and perform all the duties in relation to the Territories of the United States that were, prior to March 1, 1873, by law or by custom exercised and performed by the Secretary of State.
 
 (R.S. §442.)
 
@@ -32,7 +32,7 @@ Sec. 5. As used herein, the term "Palmyra Island" means the place of that name, 
 
 Sec. 6. To the extent that any prior Executive order or proclamation is inconsistent with the provisions of this order, this order shall control.
 
-Sec. 7. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General to represent the legal interests of the United States in civil or criminal cases arising under the provisions of the Act of June 15, 1950 \[48 U.S.C. 644a\], or under the provisions of section 3 of this order.
+Sec. 7. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General to represent thelegal interests of the United States in civil or criminal cases arising under the provisions of the Act of June 15, 1950 \[48 U.S.C. 644a\], or under the provisions of section 3 of this order.
 
 John F. Kennedy.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

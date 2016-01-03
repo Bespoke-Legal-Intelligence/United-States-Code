@@ -132,7 +132,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(E) the establishment, by each eligible institution under part B of this subchapter responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
 
-&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter and part C of subchapter I of chapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
+&emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter and part C of subchapter I ofchapter 34 of title 42, any regulation prescribed under this subchapter and part C of subchapter I of chapter 34 of title 42, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
 
 &emsp;(G) an emergency action against an institution, under which the Secretary shall, effective on the date on which a notice and statement of the basis of the action is mailed to the institution (by registered mail, return receipt requested), withhold funds from the institution or its students and withdraw the institution's authority to obligate funds under any program under this subchapter and part C of subchapter I of chapter 34 of title 42, if the Secretary—
 
@@ -158,7 +158,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (2) If an individual who, or entity that, exercises substantial control, as determined by the Secretary in accordance with the definition of substantial control in subpart 3 of part G of this subchapter, over one or more institutions participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42, or, for purposes of paragraphs (1)(H) and (I), over one or more organizations that contract with an institution to administer any aspect of the institution's student assistance program under this subchapter and part C of subchapter I of chapter 34 of title 42, is determined to have committed one or more violations of the requirements of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, or has been suspended or debarred in accordance with the regulations of the Secretary, the Secretary may use such determination, suspension, or debarment as the basis for imposing an emergency action on, or limiting, suspending, or terminating, in a single proceeding, the participation of any or all institutions under the substantial control of that individual or entity.
 
-(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretary may suspend or terminate the eligibility status for any or all programs under this subchapter and part C of subchapter I of chapter 34 of title 42 of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
+(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretarymay suspend or terminate the eligibility status for any or all programs under this subchapter and part C of subchapter I of chapter 34 of title 42 of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
 
 (B)(i) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution—
 
@@ -212,7 +212,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;&emsp;(ii) funds provided under a contractual arrangement with a Federal, State, or local government agency for the purpose of providing job training to low-income individuals who are in need of that training;
 
-&emsp;&emsp;&emsp;(iii) funds used by a student from savings plans for educational expenses established by or on behalf of the student and which qualify for special tax treatment under title 26; or
+&emsp;&emsp;&emsp;(iii) funds used by a student from savings plans for educational expenses established by or on behalf of the student and whichqualify for special tax treatment under title 26; or
 
 &emsp;&emsp;&emsp;(iv) institutional scholarships described in subparagraph (D)(iii);
 
@@ -268,7 +268,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (4) Report to Congress
 
-&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
+&emsp;Not later than July 1, 2009, and July 1 of each succeeding year, the Secretary shall submit to the authorizing committees a report that contains, for each proprietary institution of higher education that receives assistanceunder this subchapter and part C of subchapter I of chapter 34 of title 42, as provided in the audited financial statements submitted to the Secretary by each institution pursuant to the requirements of subsection (a)(24)—
 
 &emsp;&emsp;(A) the amount and percentage of such institution's revenues received from sources under this subchapter and part C of subchapter I of chapter 34 of title 42; and
 
@@ -396,7 +396,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 #### (1) In general
 
-&emsp;In the event the Secretary initiates the limitation, suspension, or termination of the participation of an institution of higher education in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 under the authority of subsection (c)(1)(F) or initiates an emergency action under the authority of subsection (c)(1)(G) and its prescribed regulations, the Secretary shall require that institution to prepare a teach-out plan for submission to the institution's accrediting agency or association in compliance with section 1099b(c)(3) of this title, the Secretary's regulations on teach-out plans, and the standards of the institution's accrediting agency or association.
+&emsp;In the event the Secretary initiates the limitation, suspension, or termination of the participation of an institution of higher education in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 under the authority of subsection (c)(1)(F) or initiates an emergency action under the authority of subsection (c)(1)(G) and its prescribed regulations, the Secretary shall require that institution to prepare a teach-out plan for submission to the institution's accrediting agency or association in compliancewith section 1099b(c)(3) of this title, the Secretary's regulations on teach-out plans, and the standards of the institution's accrediting agency or association.
 
 #### (2) Teach-out plan defined
 
@@ -446,7 +446,7 @@ The Inspector General of the Department shall—
 
 &emsp;&emsp;(D) exercise a duty of care and a duty of loyalty to compile the preferred lender list under this paragraph without prejudice and for the sole benefit of the students attending the institution, or the families of such students;
 
-&emsp;&emsp;(E) not deny or otherwise impede the borrower's choice of a lender or cause unnecessary delay in loan certification under this subchapter and part C of subchapter I ofchapter 34 of title 42 for those borrowers who choose a lender that is not included on the preferred lender list; and
+&emsp;&emsp;(E) not deny or otherwise impede the borrower's choice of a lender or cause unnecessary delay in loan certification under this subchapter and part C of subchapter I of chapter 34 of title 42 for those borrowers who choose a lender that is not included on the preferred lender list; and
 
 &emsp;&emsp;(F) comply with such other requirements as the Secretary may prescribe by regulation.
 
@@ -476,7 +476,7 @@ For the purpose of this section:
 
 &emsp;&emsp;(B) the person controls, in any manner, the election of a majority of the directors or trustees of such other person; or
 
-&emsp;&emsp;(C) the Secretary determines (after notice and opportunity for a hearing) that the person directly or indirectly exercises a controlling interest over the management or policies of such other person's education loans.
+&emsp;&emsp;(C) the Secretary determines (after notice and opportunity for a hearing) that the person directly or indirectly exercises a controlling interest over the management orpolicies of such other person's education loans.
 
 #### (3) Education loan
 
@@ -528,7 +528,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 110–315, §493(b), inserted before semicolon at 
 
 Subsecs. (d) to (h). Pub. L. 110–315, §493(c)(2), added subsecs. (d) to (h). Former subsecs. (d) and (e) were redesignated (i) and (j), respectively.
 
-Subsec. (i). Pub. L. 110–315, §493(c)(1), (d), redesignated subsec. (d) as (i), substituted "Definitions" for"Definition of eligible institution" in heading, added pars. (1) to (3), inserted par. (4) designation and heading before definition of "eligible institution", and added pars. (5) and (6).
+Subsec. (i). Pub. L. 110–315, §493(c)(1), (d), redesignated subsec. (d) as (i), substituted "Definitions" for "Definition of eligible institution" in heading, added pars. (1) to (3), inserted par. (4) designation and heading before definition of "eligible institution", and added pars. (5) and (6).
 
 Subsec. (j). Pub. L. 110–315, §493(c)(1), redesignated subsec. (e) as (j).
 
@@ -656,7 +656,7 @@ Pub. L. 101–239, title II, §2003(c)(3), Dec. 19, 1989, 103 Stat. 2114, provid
 
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
-Subsec. (a)(10) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
+Subsec. (a)(10) of this section applicable only to periods of enrollment beginning on or after July 1, 1987, seesection 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
 
 #### Regulation Prohibited
 

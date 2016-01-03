@@ -162,7 +162,7 @@ Pub. L. 110–417, \[div. A\], title III, §321, Oct. 14, 2008, 122 Stat. 4411, 
 
 "(a)
 
-Development and Implementation.—The Director of the Office of Management and Budget, in consultation with appropriate representatives of the Chief Acquisition Officers Council under section 16A of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414b) \[now 41 U.S.C. 1311 et seq.\] and the Chief Human Capital Officers Council under section 1401 of title 5, United States Code, shall—
+Development and Implementation.—The Director of the Office of Management and Budget, in consultation with appropriate representatives of the Chief Acquisition Officers Council under section 16A of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414b) \[now 41 U.S.C. 1311 et seq.\] and the ChiefHuman Capital Officers Council under section 1401 of title 5, United States Code, shall—
 
 &emsp;"(1) review the definitions of the term 'inherently governmental function' described in subsection (b) to determine whether such definitions are sufficiently focused to ensure that only officers or employees of the Federal Government or members of the Armed Forces perform inherently governmental functions or other critical functions necessary for the mission of a Federal department or agency;
 
@@ -366,7 +366,7 @@ Applicability.—This section shall apply with respect to fiscal year 2008 and e
 
 Pub. L. 108–199, div. F, title VI, §647(b), (d), (f), Jan. 23, 2004, 118 Stat. 361, 362, provided that:
 
-"(b) Not later than 120 days following the enactment of this Act \[Jan. 23, 2004\] and not later than December 31 of each year thereafter, the head of each executive agency shall submit to Congress a report on the competitive sourcing activities on the list required under the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note) that were performed for such executive agency during the previous fiscal year by Federal Government sources. The report shall include—
+"(b) Not later than 120 days following the enactment of this Act \[Jan. 23, 2004\] and not later than December 31 of each year thereafter, the head of each executive agency shall submit to Congress a report on the competitive sourcing activities on the list required underthe Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note) that were performed for such executive agency during the previous fiscal year by Federal Government sources. The report shall include—
 
 &emsp;"(1) the total number of competitions completed;
 
@@ -644,7 +644,7 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996,
 
 #### Department of Veterans Affairs Franchise Fund Pilot
 
-Pub. L. 108–447, div. I, title I, §108, Dec. 8, 2004, 118 Stat. 3292, provided that: "Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 \[set out below\] until October 1, 2005: <i>Provided</i>, That the Franchise Fund, established by title I of Public Law 104–204 \[set out as a note under section 301 of Title 38, Veterans' Benefits\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005."
+Pub. L. 108–447, div. I, title I, §108, Dec. 8, 2004, 118 Stat. 3292, provided that: "Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law103–356 \[set out below\] until October 1, 2005: <i>Provided</i>, That the Franchise Fund, established by title I of Public Law 104–204 \[set out as a note under section 301 of Title 38, Veterans' Benefits\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2005."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -656,9 +656,13 @@ Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658.
 
 #### Department of Homeland Security Working Capital Fund
 
-Pub. L. 113–76, div. F, title V, §504, Jan. 17, 2014, 128 Stat. 270, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2014: <i>Provided</i>, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2014 budget: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: <i>Provided further</i>, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: <i>Provided further</i>, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: <i>Provided further</i>, That the Committees on Appropriations of the Senate and House of Representatives shall be notified of any activity added to or removed from the fund: <i>Provided further</i>, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter."
+Pub. L. 114–113, div. F, title V, §504, Dec. 18, 2015, 129 Stat. 2512, provided that: "The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 (31 U.S.C. 501 note), shall continue operations as a permanent working capital fund for fiscal year 2016: <i>Provided</i>, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President's fiscal year 2016 budget: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: <i>Provided further</i>, That all Departmental components shall be charged only for direct usage of each Working Capital Fund service: <i>Provided further</i>, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: <i>Provided further</i>, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: <i>Provided further</i>, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: <i>Provided further</i>, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: <i>Provided further</i>, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–4, title V, §504, Mar. 4, 2015, 129 Stat. 62.
+
+Pub. L. 113–76, div. F, title V, §504, Jan. 17, 2014, 128 Stat. 270.
 
 Pub. L. 113–6, div. D, title V, §504, Mar. 26, 2013, 127 Stat. 367.
 
@@ -684,7 +688,7 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, as amended by Pub.
 
 #### Franchise Fund Pilot Programs
 
-Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, §633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, §1426, Nov. 24, 2003, 117 Stat. 1670; Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357; Pub. L. 108–447, div. H, title VI, §632, Dec. 8, 2004, 118 Stat. 3280; Pub. L. 109–90, title V, §539, Oct. 18, 2005, 119 Stat. 2088; Pub. L. 109–115, div. A, title VIII, §831, Nov. 30, 2005, 119 Stat. 2503; Pub. L. 110–161, div. D, title VII, §730, Dec. 26, 2007, 121 Stat. 2026, provided that:
+Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553; Pub. L. 108–7, div. J, title VI, §633, Feb. 20, 2003, 117 Stat. 471; Pub. L. 108–136, div. A, title XIV, §1426, Nov. 24, 2003, 117 Stat. 1670; Pub. L. 108–199, div. F, title VI, §632, Jan. 23, 2004, 118 Stat. 357; Pub. L. 108–447, div. H, title VI, §632, Dec. 8, 2004, 118 Stat. 3280;Pub. L. 109–90, title V, §539, Oct. 18, 2005, 119 Stat. 2088; Pub. L. 109–115, div. A, title VIII, §831, Nov. 30, 2005, 119 Stat. 2503; Pub. L. 110–161, div. D, title VII, §730, Dec. 26, 2007, 121 Stat. 2026, provided that:
 
 "(a)
 
@@ -692,7 +696,7 @@ Establishment.—There is authorized to be established on a pilot program basis 
 
 "(b)
 
-Uses.—Each such fund may provide, consistent with guidelines established by the Director of the Office of Management and Budget, such common administrative support services to the agency and to otheragencies as the head of such agency, with the concurrence of the Director, determines can be provided more efficiently through such a fund than by other means. To provide such services, each such fund is authorized to acquire the capital equipment, automated data processing systems, and financial management and management information systems needed. Services shall be provided by such funds on a competitive basis.
+Uses.—Each such fund may provide, consistent with guidelines established by the Director of the Office of Management and Budget, such common administrative support services to the agency and to other agencies as the head of such agency, with the concurrence of the Director, determines can be provided more efficiently through such a fund than by other means. To provide such services, each such fund is authorized to acquire the capital equipment, automated data processing systems, and financial management and management information systems needed. Services shall be provided by such funds on a competitive basis.
 
 "(c)
 
@@ -778,7 +782,7 @@ Findings.—The Congress finds the following:
 
 Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note above\] are the following:
 
-&emsp;"(1) Bring more effective general and financial management practices to the Federal Governmentthrough statutory provisions which would establish in the Office of Management and Budget a Deputy Director for Management, establish an Office of Federal Financial Management headed by a Controller, and designate a Chief Financial Officer in each executive department and in each major executive agency in the Federal Government.
+&emsp;"(1) Bring more effective general and financial management practices to the Federal Government through statutory provisions which would establish in the Office of Management and Budget a Deputy Director for Management, establish an Office of Federal Financial Management headed by a Controller, and designate a Chief Financial Officer in each executive department and in each major executive agency in the Federal Government.
 
 &emsp;"(2) Provide for improvement, in each agency of the Federal Government, of systems of accounting, financial management, and internal controls to assure the issuance of reliable financial information and to deter fraud, waste, and abuse of Government resources.
 
@@ -874,7 +878,7 @@ Last April, I created a President's Advisory Council on Executive Organization a
 
 The past 30 years have seen enormous changes in the size, structure and functions of the Federal Government. The budget has grown from less than $10 billion to $200 billion. The number of civilian employees has risen from one million to more than two and a half million. Four new Cabinet departments have been created, along with more than a score of independent agencies. Domestic policy issues have become increasingly complex. The interrelationships among Government programs have become more intricate. Yet the organization of the President's policy and management arms has not kept pace.
 
-Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to dealwith the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
+Over three decades, the Executive Office of the President has mushroomed but not by conscious design. In many areas it does not provide the kind of staff assistance and support the President needs in order to deal with the problems of government in the 1970s. We confront the 1970s with a staff organization geared in large measure to the tasks of the 1940s and 1950s.
 
 One result, over the years, has been a tendency to enlarge the immediate White House staff—that is, the President's personal staff, as distinct from the institutional structure—to assist with management functions for which the President is responsible. This has blurred the distinction between personal staff and management institutions; it has left key management functions to be performed only intermittently and some not at all. It has perpetuated outdated structures.
 
@@ -928,11 +932,11 @@ Overall, the Domestic Council will provide the President with a streamlined, con
 
 #### OFFICE OF MANAGEMENT AND BUDGET
 
-Under the reorganization plan, the technical and formal means by which the Office of Management and Budget is created is by re-designating the Bureau of the Budget as the Office of Management and Budget. The functions currently vested by law in the Bureau, or in its director, are transferred to the President, with the provision that he can then re-delegate them.
+Under the reorganization plan, the technical and formal means by which the Office of Management andBudget is created is by re-designating the Bureau of the Budget as the Office of Management and Budget. The functions currently vested by law in the Bureau, or in its director, are transferred to the President, with the provision that he can then re-delegate them.
 
 As soon as the reorganization plan takes effect, I intend to delegate those statutory functions to the Director of the new Office of Management and Budget, including those under section 212 of the Budget and Accounting Act, 1921 \[31 U.S.C. 1113\].
 
-However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting thebroader management needs of the Office of the President.
+However, creation of the Office of Management and Budget represents far more than a mere change of name for the Bureau of the Budget. It represents a basic change in concept and emphasis, reflecting the broader management needs of the Office of the President.
 
 The new Office will still perform the key function of assisting the President in the preparation of the annual Federal budget and overseeing its execution. It will draw upon the skills and experience of the extraordinarily able and dedicated career staff developed by the Bureau of the Budget. But preparation of the budget as such will no longer be its dominant, overriding concern.
 
@@ -1022,7 +1026,7 @@ Ex. Ord. No. 11717, May 9, 1973, 38 F.R. 12315, provided:
 
 By virtue of the authority vested in me as President by the Constitution and Statutes of the United States, particularly by section 301 of title 3 of the United States Code, the Federal Property and Administrative Services Act of 1949, as amended, the Budget and Accounting Act, 1921, as amended, the Budget and Accounting Procedures Act of 1950, as amended, and Reorganization Plan No. 2 of 1970 \[set out as a note above\], it is hereby ordered as follows:
 
-Section 1. There are hereby transferred to the Administrator of General Services all functions that were being performed in the Office of Management and Budget on April 13, 1973 by:
+Section 1. There are hereby transferred to the Administrator of General Services all functions that werebeing performed in the Office of Management and Budget on April 13, 1973 by:
 
 (1) The Financial Management Branch, the Procurement and Property Management Branch, and the Management Systems Branch of the Organization and Management Systems Division; and
 
@@ -1084,7 +1088,7 @@ Sec. 3. Executive Order No. 11491, as amended \[5 U.S.C. 7101 note\], is further
 
 "The Office of Personnel Management, in conjunction with the Director of the Office of Management and Budget, shall establish and maintain a program for the policy guidance of agencies on labor-management relations in the Federal service and shall periodically review the implementation of these policies. The Office of Personnel Management shall be responsible for the day-to-day policy guidance under that program. The Office of Personnel Management also shall continuously review the operation of the Federal labor-management relations program to assist in assuring adherence to its provisions and merit system requirements; implement technical advice and information programs for the agencies; assist in the development of programs for training agency personnel and management officials in labor-management relations; and, from time to time, report to the Council on the state of the program with any recommendations for its improvement.".
 
-Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of theForeign Service, is amended by deleting: "The representative of the Office of Management and Budget shall be the Chairman of the Commission" and substituting therefor "The representative of the Office of Personnel Management shall be the Chairman of the Commission".
+Sec. 4. Section 5(a) of Executive Order No. 11636 of December 17, 1971 \[formerly set out as a note under 22 U.S.C. 801\], establishing an Employee-Management Relations Commission as a committee of the Board of the Foreign Service, is amended by deleting: "The representative of the Office of Management and Budget shall be the Chairman of the Commission" and substituting therefor "The representative of the Office of Personnel Management shall be the Chairman of the Commission".
 
 Sec. 5. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred or reassigned by this Order from the Office of Management and Budget to the Office of Personnel Management, are hereby transferred to the Office of Personnel Management.
 
@@ -1226,9 +1230,9 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (d) "Transfer price" means: (i) the amount paid or to be paid by a private party for an infrastructure asset, if the asset is transferred as a result of competitive bidding; or (ii) the appraised value of an infrastructure asset, as determined by the head of the executive department or agency and the Director of the Office of Management and Budget, if the asset is not transferred as a result of competitive bidding.
 
-(e) "State and local governments" means the government of any State of the United States, the District of Columbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
+(e) "State and local governments" means the government of any State of the United States, the District ofColumbia, any commonwealth, territory, or possession of the United States, and any county, municipality, city, town, township, local public authority, school district, special district, intrastate district, regional or interstate governmental entity, council of governments, and any agency or instrumentality of a local government, and any federally recognized Indian Tribe.
 
-Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
+Sec. 2. <i>Fundamental Principles</i>. Executive departments and agencies shall be guided by the following objectives and principles: (a) Adequate and well-maintained infrastructure is critical to economic growth. Consistent with the principles of federalism enumerated in Executive Order No. 12612 \[formerly set out under section 601 of Title 5, Government Organization and Employees\], and in order to allow the private sector to provide for infrastructure modernization and expansion, State and local governments should have greater freedom to privatize infrastructure assets.
 
 (b) Private enterprise and competitively driven improvements are the foundation of our Nation's economy and economic growth. Federal financing of infrastructure assets should not act as a barrier to the achievement of economic efficiencies through additional private market financing or competitive practices, or both.
 
@@ -1276,7 +1280,7 @@ Sec. 2. The purpose of this order is to achieve real reductions in the administr
 
 (a) For fiscal year 1994, all agencies shall submit budget requests that reflect no less than a 3 percent reduction in administrative expenses from the amount made available for fiscal year 1993 adjusted for inflation;
 
-(b) For fiscal year 1995, all agencies shall submit budget requests that reflect no less than a 6 percent reduction in administrative expenses from the amountsmade available for fiscal year 1993 adjusted for inflation;
+(b) For fiscal year 1995, all agencies shall submit budget requests that reflect no less than a 6 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation;
 
 (c) For fiscal year 1996, all agencies shall submit budget requests that reflect no less than a 9 percent reduction in administrative expenses from the amounts made available for fiscal year 1993 adjusted for inflation;
 
@@ -1442,7 +1446,7 @@ Section 1. <i>Interagency Council on Administrative Management.</i>
 
 27\. Office of Personnel Management.
 
-Department and agency heads shall advise the Chair of their selections for membership on the Council. Council membership shall also include representatives of the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, the Interagency Advisory Group of Federal Personnel Directors, and the Small Agency Council, as well as at-large members appointed by the Chair, as he deems appropriate. The Chair shall invite representatives of the Social Security Administration to participate in the Council's work, as appropriate. The Council shall select a Vice Chair from among the Council's membership.
+Department and agency heads shall advise the Chair of their selections for membership on the Council. Council membership shall also include representatives of the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, the Interagency Advisory Group of FederalPersonnel Directors, and the Small Agency Council, as well as at-large members appointed by the Chair, as he deems appropriate. The Chair shall invite representatives of the Social Security Administration to participate in the Council's work, as appropriate. The Council shall select a Vice Chair from among the Council's membership.
 
 (b) The Council shall plan, promote, and recommend improvements in Government administration and operations and provide advice to the Chair on matters pertaining to the administrative management of the Federal Government. The Council shall:
 
@@ -1494,7 +1498,7 @@ Sec. 2. <i>Agency Customer Service Plans and Activities</i>. Within 180 days of 
 
 Sec. 3. <i>Publication of Agency Customer Service Plans</i>. Each agency shall publish its plan on its Open Government web page.
 
-Sec. 4. <i>Assistance in Implementation</i>. In consultation with the heads of executive departments and agencies, the Chief Performance Officer, who also serves as the Deputy Director for Management of the OMB, shall develop guidance for implementing the activities outlined in this order. Such guidance shall include, among other things, the nature and scope of services to which the order's requirements will apply. The Office of Management and Budget, the General Services Administration, and the Office of Science and Technology Policy shall assist and support agencies in developing customer service standards and plans, online posting of customer service metrics and best practices, expediting review for customer feedback mechanisms under the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), improving the design and management of agency websites providing services or information to the public in compliance with section 508 of the Rehabilitation Act \[of 1973\] (29 U.S.C. 794d), and using innovative technologies to improve customer service at lower costs.
+Sec. 4. <i>Assistance in Implementation</i>. In consultation with the heads of executive departments and agencies, the Chief Performance Officer, who also serves as the Deputy Director for Management of the OMB, shall develop guidance for implementing the activities outlined in this order. Such guidance shall include, among other things, the nature and scope of services to which the order's requirements will apply. The Office of Management and Budget, the General Services Administration, and the Office of Science and Technology Policy shall assist and support agencies in developing customer service standards and plans, online posting of customer service metrics and best practices, expediting review for customer feedback mechanisms under the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), improving the design and management of agency websites providing services or information to the public in compliance with section 508 of the Rehabilitation Act \[of 1973\] (29U.S.C. 794d), and using innovative technologies to improve customer service at lower costs.
 
 Sec. 5. <i>Independent Agencies</i>. Independent agencies are requested to adhere to this order.
 

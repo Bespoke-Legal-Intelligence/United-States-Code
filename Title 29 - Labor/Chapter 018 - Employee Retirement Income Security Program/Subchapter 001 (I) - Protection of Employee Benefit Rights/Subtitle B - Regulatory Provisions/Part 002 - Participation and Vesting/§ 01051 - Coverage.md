@@ -50,7 +50,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 Pub. L. 101–239, title VII, §7894(c)(1)(B), Dec. 19, 1989, 103 Stat. 2449, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall take effect as if included in section 411 of the Multiemployer Pension Plan Amendments Act of 1980 \[Pub. L. 96–364\]."
 
-Pub. L. 101–239, title VII, §7894(c)(11)(B), Dec. 19, 1989, 103 Stat. 2449, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall take effect as if originally included in section 491(b) of Public Law 98–369."
+Pub. L. 101–239, title VII, §7894(c)(11)(B), Dec. 19, 1989, 103 Stat. 2449, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in section 491(b) of Public Law 98–369."
 
 #### Effective Date of 1980 Amendment
 

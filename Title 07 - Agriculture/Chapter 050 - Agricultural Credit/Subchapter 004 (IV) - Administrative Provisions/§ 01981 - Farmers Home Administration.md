@@ -8,7 +8,7 @@ In accordance with section 2006a of this title, for purposes of this chapter, an
 
 The Secretary may—
 
-&emsp;(1) administer his powers and duties through such national, area, State, or local offices andemployees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
+&emsp;(1) administer his powers and duties through such national, area, State, or local offices and employees in the United States as he determines to be necessary and may authorize an office to serve the area composed of two or more States if he determines that the volume of business in the area is not sufficient to justify separate State offices, and until January 1, 1975, make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter; (and the Secretary shall prior to June 30, 1974, report to the Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit);
 
 &emsp;(2) accept and utilize voluntary and uncompensated services, and, with the consent of the agency concerned, utilize the officers, employees, equipment, and information of any agency of the Federal Government, or of any State, territory, or political subdivision;
 
@@ -178,7 +178,7 @@ Pub. L. 101–624, §2303(a)(3), inserted "Rural Development Administration unde
 
 Pub. L. 101–624, §1806, inserted before semicolon at end ", and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower".
 
-Pub. L. 101–624, §2388(d)(1)(A)(i), (iv)(I), formerly (v)(I), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(ii)–(iv), realigned margin and substituted "consent" for "Consent".
+Pub. L. 101–624, §2388(d)(1)(A)(i), (iv)(I), formerly (v)(I), as redesignated and amended by Pub. L. 102–237,§501(c)(2)(B)(ii)–(iv), realigned margin and substituted "consent" for "Consent".
 
 Pub. L. 101–624, §1805(c)(1), (4), which made amendments identical to those by Pub. L. 101–624, §2388(d)(1)(A)(i), (iv)(I), was repealed by Pub. L. 102–237, §501(c)(2)(A).
 
@@ -194,7 +194,7 @@ Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), r
 
 Pars. (i), (j). Pub. L. 101–624, §1805(c)(5), which redesignated pars. (i) and (j) as (h) and (i), respectively, was repealed by Pub. L. 102–237, §501(c)(2)(A).
 
-Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), redesignated pars. (i) and (j) as (h)and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
+Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), redesignated pars. (i) and (j) as (h) and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
 
 <b>1988</b>—Par. (d). Pub. L. 100–233 inserted "or debts" before "claims", and inserted "The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection."
 

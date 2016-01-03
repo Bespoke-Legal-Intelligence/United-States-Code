@@ -66,7 +66,7 @@ The State forester or equivalent State official shall submit to the Secretary an
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (e), (f)(2), and (g), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (e), (f)(2), and (g), was in the original "this Act", meaning Pub. L.95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 

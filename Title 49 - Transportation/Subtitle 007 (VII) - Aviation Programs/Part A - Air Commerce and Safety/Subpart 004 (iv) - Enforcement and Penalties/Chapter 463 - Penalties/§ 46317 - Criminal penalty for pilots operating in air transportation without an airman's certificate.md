@@ -2,7 +2,7 @@
 
 (a)
 
-General Criminal Penalty.—An individual shall be fined under title 18 or imprisoned for not more than 3 years, or both, if that individual—
+General Criminal Penalty.—An individual shall be fined under title 18 or imprisonedfor not more than 3 years, or both, if that individual—
 
 &emsp;(1) knowingly and willfully serves or attempts to serve in any capacity as an airman operating an aircraft in air transportation without an airman's certificate authorizing the individual to serve in that capacity; or
 

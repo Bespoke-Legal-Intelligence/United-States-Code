@@ -74,7 +74,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (4) Dual-use export prohibition
 
-&emsp;The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+&emsp;The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
 
 #### (5) Property transactions
 
@@ -120,7 +120,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (2) Additional exceptions
 
@@ -182,7 +182,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 &emsp;&emsp;(A) determines that the transaction is in the national security interest of the United States; and
 
-&emsp;&emsp;(B) submits to the appropriate congressional committees a detailed report on the determination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
+&emsp;&emsp;(B) submits to the appropriate congressional committees a detailed report on thedetermination and the specific reasons for the determination that a waiver with respect to the transaction is necessary and appropriate.
 
 #### (2) Form of report
 
@@ -216,7 +216,9 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50. Section 16 of the Act is now classified to section 4618 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

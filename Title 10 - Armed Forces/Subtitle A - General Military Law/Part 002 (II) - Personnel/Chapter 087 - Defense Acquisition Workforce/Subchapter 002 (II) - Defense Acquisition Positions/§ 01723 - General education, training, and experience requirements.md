@@ -2,7 +2,7 @@
 
 (a)
 
-Qualification Requirements.—(1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis on services contracting, market research strategies\(including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
+Qualification Requirements.—(1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis on services contracting, market research strategies (including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
 
 (2) In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.
 
@@ -14,7 +14,7 @@ Career Path Requirements.—For each career path, the Secretary of Defense, acti
 
 &emsp;(1) encourage individuals in the acquisition workforce to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities; and
 
-&emsp;(2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in such end user's environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
+&emsp;(2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in suchend user's environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
 
 (c)
 

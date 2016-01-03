@@ -12,7 +12,7 @@ Pub. L. 95–568, §1, Nov. 2, 1978, 92 Stat. 2425, provided: "That this Act \[e
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: "This Act \[amending sections 2996, 2996c, and2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the 'Legal Services Corporation Act Amendments of 1977'."
+Pub. L. 95–222, §1, Dec. 28, 1977, 91 Stat. 1619, provided that: "This Act \[amending sections 2996, 2996c, and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2996, 2996f and 2996i of this title\] may be cited as the 'Legal Services Corporation Act Amendments of 1977'."
 
 #### Short Title of 1976 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 90–222, §1, Dec. 23, 1967, 81 Stat. 672, provided: "That this Act \[e
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: "That this Act \[enacting sections 2610c, 2721, 2722, 2762, 2771, 2792, 2793, 2794, 2924, 2925, 2951, 2968, 2969, 2970, and 2991 to 2991e of this title, amending this section, sections 2581, 2583, 2713, 2714, 2716, 2732, 2733, 2734, 2735, 2761, 2782, 2783, 2785, 2786, 2787, 2788, 2802, 2821, 2831, 2851, 2854, 2871, 2881, 2902, 2905, 2906, 2907, 2921, 2922, 2923, 2941, 2942, 2943, 2944, 2945, 2946, 2950, 2961, 2963, 2965, 2966, 2981, and 3161 of this title, and sections 425 and 1077 of Title 20, Education, repealing sections 2731, 2903, and 2904 of this title, and enacting provisions set out as notes under this section and section 2981 of this title and section 425 of Title 20\] may be cited as the 'Economic Opportunity Amendments of 1966'."
+Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: "That this Act \[enacting sections 2610c, 2721, 2722, 2762, 2771, 2792, 2793, 2794, 2924, 2925, 2951, 2968, 2969, 2970, and 2991 to 2991e of this title, amending this section, sections 2581, 2583, 2713, 2714, 2716, 2732, 2733, 2734, 2735, 2761, 2782, 2783, 2785, 2786, 2787, 2788, 2802, 2821, 2831, 2851, 2854, 2871, 2881, 2902, 2905, 2906, 2907, 2921, 2922, 2923, 2941, 2942, 2943, 2944, 2945, 2946, 2950, 2961, 2963, 2965, 2966, 2981, and 3161 of this title, and sections 425 and 1077 of Title 20,Education, repealing sections 2731, 2903, and 2904 of this title, and enacting provisions set out as notes under this section and section 2981 of this title and section 425 of Title 20\] may be cited as the 'Economic Opportunity Amendments of 1966'."
 
 #### Short Title of 1965 Amendment
 

@@ -42,7 +42,7 @@
 
 #### (c) Compliance with State and local law
 
-Nothing in this section or any program carried out using a grant provided under this section supersedes or otherwise affects any State or local law, to the extent that the State or local law contains a requirement that is more stringent than the relevant requirement of this section.
+Nothing in this section or any program carried out using a grant provided under this section supersedes or otherwise affects any State or locallaw, to the extent that the State or local law contains a requirement that is more stringent than the relevant requirement of this section.
 
 #### (d) Authorization of appropriations
 

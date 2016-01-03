@@ -74,7 +74,7 @@ If the aggregate fair market value of all the invested assets and tangible prope
 
 #### (2) United States source income allocable to contiguous country branch
 
-&emsp;For purposes of sections 881, 882, and 1442, each contiguous country life insurance branch shall be treated as a foreign corporation. Such sections shall be applied to each such branch in the same manner as if such sections contained the provisions of any treaty to which the United States and the contiguous country are parties, to the same extent such provisions would apply if such branch were incorporated in such contiguous country.
+&emsp;For purposes of sections 881, 882, and 1442, each contiguous country life insurance branch shall be treated as a foreign corporation. Suchsections shall be applied to each such branch in the same manner as if such sections contained the provisions of any treaty to which the United States and the contiguous country are parties, to the same extent such provisions would apply if such branch were incorporated in such contiguous country.
 
 #### (g) Election
 

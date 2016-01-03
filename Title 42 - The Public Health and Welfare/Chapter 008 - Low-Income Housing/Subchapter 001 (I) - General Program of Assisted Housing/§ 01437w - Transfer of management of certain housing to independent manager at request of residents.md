@@ -12,7 +12,7 @@ The Secretary may transfer the responsibility and authority for management of sp
 
 &emsp;&emsp;(B) such housing is located in an area such that the housing is subject to recurrent vandalism and criminal activity (including drug-related criminal activity); and
 
-&emsp;&emsp;(C) the residents can demonstrate that the elements of distress for such housing specified in subparagraphs (A) and (B) can beremedied by an entity or entities, identified by the residents, that has or have a demonstrated capacity to manage, with reasonable expenses for modernization.
+&emsp;&emsp;(C) the residents can demonstrate that the elements of distress for such housing specified in subparagraphs (A) and (B) can be remedied by an entity or entities, identified by the residents, that has or have a demonstrated capacity to manage, with reasonable expenses for modernization.
 
 #### (b) Request for transfer
 

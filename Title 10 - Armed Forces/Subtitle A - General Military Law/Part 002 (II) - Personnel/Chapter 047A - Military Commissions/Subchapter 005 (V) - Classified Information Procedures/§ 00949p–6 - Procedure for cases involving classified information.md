@@ -38,7 +38,7 @@ Substitutions.—
 
 &emsp;(1)
 
-In camera pretrial hearing.—Upon request of the trial counsel pursuant to the Military Commission Rules of Evidence, and in accordance with the security procedures established by the military judge, the militaryjudge shall conduct a classified in camera pretrial hearing concerning the admissibility of classified information.
+In camera pretrial hearing.—Upon request of the trial counsel pursuant to the Military Commission Rules of Evidence, and in accordance with the security procedures established by the military judge, the military judge shall conduct a classified in camera pretrial hearing concerning the admissibility of classified information.
 
 &emsp;(2)
 

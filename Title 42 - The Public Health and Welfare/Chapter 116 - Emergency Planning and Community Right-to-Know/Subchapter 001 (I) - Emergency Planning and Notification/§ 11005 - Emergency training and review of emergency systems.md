@@ -4,7 +4,7 @@
 
 #### (1) Programs
 
-&emsp;Officials of the United States Government carrying out existing Federal programs for emergency training are authorized to specifically provide training and education programs for Federal, State, and local personnel in hazard mitigation, emergency preparedness, fire prevention and control, disaster response, long-term disaster recovery, national security, technological and natural hazards, and emergency processes. Such programs shall provide special emphasis for such training and education with respect to hazardous chemicals.
+&emsp;Officials of the United States Government carrying out existing Federal programs for emergency training are authorized to specifically provide training and education programs for Federal, State, and local personnel in hazard mitigation, emergency preparedness, fire prevention and control, disaster response, long-term disaster recovery, national security, technological and natural hazards, and emergency processes. Such programs shall providespecial emphasis for such training and education with respect to hazardous chemicals.
 
 #### (2) State and local program support
 
@@ -12,7 +12,7 @@
 
 #### (3) Other programs
 
-&emsp;Nothing in this section shall affect the availability of appropriations to the FederalEmergency Management Agency for any programs carried out by such agency other than the programs referred to in paragraph (2).
+&emsp;Nothing in this section shall affect the availability of appropriations to the Federal Emergency Management Agency for any programs carried out by such agency other than the programs referred to in paragraph (2).
 
 #### (b) Review of emergency systems
 

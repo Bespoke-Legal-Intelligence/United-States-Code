@@ -30,5 +30,5 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 
 #### Codification
 
-Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Actof 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

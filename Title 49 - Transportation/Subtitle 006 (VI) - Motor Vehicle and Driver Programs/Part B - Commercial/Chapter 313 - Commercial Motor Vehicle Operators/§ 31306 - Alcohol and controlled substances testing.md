@@ -6,15 +6,27 @@ Definition.—In this section and section 31306a, "controlled substance" means a
 
 (b)
 
-Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
+Testing Program for Operators of Commercial Motor Vehicles.—(1)(A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation.
 
-(B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(B) The regulations prescribed under subparagraph (A) shall permit motor carriers—
+
+&emsp;(i) to conduct preemployment testing of commercial motor vehicle operators for the use of alcohol; and
+
+&emsp;(ii) to use hair testing as an acceptable alternative to urine testing—
+
+&emsp;&emsp;(I) in conducting preemployment testing for the use of a controlled substance; and
+
+&emsp;&emsp;(II) in conducting random testing for the use of a controlled substance if the operator was subject to hair testing for preemployment testing.
+
+(C) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (2) In prescribing regulations under this subsection, the Secretary of Transportation—
 
-&emsp;(A) shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle; and
+&emsp;(A) shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle;
 
-&emsp;(B) may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle.
+&emsp;(B) may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle; and
+
+&emsp;(C) shall provide an exemption from hair testing for commercial motor vehicle operators with established religious beliefs that prohibit the cutting or removal of hair.
 
 (c)
 
@@ -22,13 +34,15 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(1) promote, to the maximum extent practicable, individual privacy in the collection of specimens;
 
-&emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
+&emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, for urine testing, and technical guidelines for hair testing, including mandatory guidelines establishing—
 
 &emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
-&emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested; and
+&emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested;
 
-&emsp;&emsp;(C) appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section;
+&emsp;&emsp;(C) appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section; and
+
+&emsp;&emsp;(D) laboratory protocols and cut-off levels for hair testing to detect the use of a controlled substance;
 
 &emsp;(3) require that a laboratory involved in testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
 
@@ -44,7 +58,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 (d)
 
-Testing as Part of Medical Examination.—The Secretary of Transportation may provide that testing under subsection (a) of this section for operators subject to subpart E of part 391 of title 49, Code of Federal Regulations, be conducted as part of the medical examination required under that subpart.
+Testing as Part of Medical Examination.—The Secretary of Transportation mayprovide that testing under subsection (a) of this section for operators subject to subpart E of part 391 of title 49, Code of Federal Regulations, be conducted as part of the medical examination required under that subpart.
 
 (e)
 
@@ -74,7 +88,7 @@ Other Regulations Allowed.—This section does not prevent the Secretary of Tran
 
 Application of Penalties.—This section does not supersede a penalty applicable to an operator of a commercial motor vehicle under this chapter or another law.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017; Pub. L. 104–59, title III, §342(c), Nov. 28, 1995, 109 Stat. 609; Pub. L. 112–141, div. C, title II, §32402(a)(1), July 6, 2012, 126 Stat. 795.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1017; Pub. L. 104–59, title III, §342(c), Nov. 28, 1995, 109 Stat. 609; Pub. L. 112–141, div. C, title II, §32402(a)(1), July 6, 2012, 126 Stat. 795; Pub. L. 114–94, div. A, title V, §5402(a), Dec. 4, 2015, 129 Stat. 1547.)
 
 Historical and Revision Notes
 
@@ -150,13 +164,31 @@ In subsection (g), the words "rule" and "ordinance" are omitted as being include
 
 #### Amendments
 
+<b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–94, §5402(a)(1)(B), struck out at end "The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol."
+
+Subsec. (b)(1)(B), (C). Pub. L. 114–94, §5402(a)(1)(A), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(2)(C). Pub. L. 114–94, §5402(a)(2), added subpar. (C).
+
+Subsec. (c)(2). Pub. L. 114–94, §5402(a)(3)(A), inserted "for urine testing, and technical guidelines for hair testing," before "including mandatory guidelines" in introductory provisions.
+
+Subsec. (c)(2)(D). Pub. L. 114–94, §5402(a)(3)(B)–(D), added subpar. (D).
+
 <b>2012</b>—Subsec. (a). Pub. L. 112–141 inserted "and section 31306a" after "this section".
 
 <b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: "In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation."
 
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Guidelines
+
+Pub. L. 114–94, div. A, title V, §5402(b), Dec. 4, 2015, 129 Stat. 1548, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Health and Human Services shall issue scientific and technical guidelines for hair testing as a method of detecting the use of a controlled substance for purposes of section 31306 of title 49, United States Code."
 
 #### Drug Test Results Study
 

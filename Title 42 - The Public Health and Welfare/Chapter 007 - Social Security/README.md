@@ -374,6 +374,7 @@
 | 1320a–4. | Issuance of subpenas by Comptroller General. |
 | 1320a–5. | Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; "managing employee" defined. |
 | 1320a–6. | Adjustments in SSI benefits on account of retroactive benefits under subchapter II. |
+| 1320a–6a. | Interagency coordination to improve program administration. |
 | 1320a–7. | Exclusion of certain individuals and entities from participation in Medicare and State health care programs. |
 | 1320a–7a. | Civil monetary penalties. |
 | 1320a–7b. | Criminal penalties for acts involving Federal health care programs. |
@@ -469,6 +470,7 @@
 | [1320e.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20D%20-%20Comparative%20Clinical%20Effectiveness%20Research/%C2%A7%2001320e%20-%20Comparative%20clinical%20effectiveness%20research.md) | Comparative clinical effectiveness research. |
 | 1320e–1. | Limitations on certain uses of comparative clinical effectiveness research. |
 | 1320e–2. | Trust Fund transfers to Patient-Centered Outcomes Research Trust Fund. |
+| 1320e–3. | Information exchange with payroll data providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -634,6 +636,7 @@
 | 1395w–3b. | Competitive acquisition of outpatient drugs and biologicals. |
 | 1395w–4. | Payment for physicians' services. |
 | 1395w–5. | Public reporting of performance information. |
+| 1395w–6. | Empowering beneficiary choices through continued access to information on physicians' services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -735,6 +738,7 @@
 | [1395jj.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395jj%20-%20Designation%20of%20organization%20or%20publication%20by%20name.md) | Designation of organization or publication by name. |
 | [1395kk.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395kk%20-%20Administration%20of%20insurance%20programs.md) | Administration of insurance programs. |
 | 1395kk–1. | Contracts with medicare administrative contractors. |
+| 1395kk–2. | Expanding availability of Medicare data. |
 | 1395<i>ll.</i> | Studies and recommendations. |
 | [1395mm.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395mm%20-%20Payments%20to%20health%20maintenance%20organizations%20and%20competitive%20medical%20plans.md) | Payments to health maintenance organizations and competitive medical plans. |
 | [1395nn.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md) | Limitation on certain physician referrals. |

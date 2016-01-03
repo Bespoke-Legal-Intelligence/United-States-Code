@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 #### (4) Equal representation of banks
 
-&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on theDirectorate as the president of such bank (before the appointment of such president to such additional term).
+&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms on the Directorate as the president of such bank (before the appointment of such president to such additional term).
 
 #### (5) Chairperson
 
@@ -174,7 +174,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Allocation of excess amount among remaining Home Loan Banks
 
-&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest under subparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest undersubparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;&emsp;(i) the amount of capital stock of the Financing Corporation held by such remaining bank at the time of such determination; by
 
@@ -190,7 +190,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (E) Transfer to account for purchase of stock required
 
-&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribeby regulations) the balance in which shall be available only for such purchases.
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Director shall prescribe by regulations) the balance in which shall be available only for such purchases.
 
 #### (7) Undivided profits defined
 
@@ -264,7 +264,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Exception
 
-&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
+&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated asan agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
 
 #### (8) Obligations are exempt securities
 
@@ -414,7 +414,7 @@ A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to
 
 Subsec. (b)(5). Pub. L. 110–289, §1204(6), substituted "Director" for "Chairperson of the Federal Housing Finance Board".
 
-Subsec. (f)(2). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting "the Director" for "the Board" wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (thischapter) by substituting "the Director" for "the Board" wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
 
 <b>2006</b>—Subsec. (f)(2). Pub. L. 109–173, §9(d)(2)(A), struck out before period at end ", except that—
 

@@ -8,11 +8,11 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriatedistrict court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
-&emsp;Whenever it appears to the President that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of any order under section 3362 of this title or any order or supplemental order issued under section 3363 of this title, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
+&emsp;Whenever it appears to the President that any person has engaged, is engaged, or isabout to engage in acts or practices constituting a violation of any order under section 3362 of this title or any order or supplemental order issued under section 3363 of this title, the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
 
 #### (3) Repealed. Pub. L. 101–60, §3(a)(4)(B), July 26, 1989, 103 Stat. 158
 
@@ -72,7 +72,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (2) Violation of rules or orders generally
 
-&emsp;Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
+&emsp;Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E)), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
 
 #### (3) Violations of emergency orders
 
@@ -84,7 +84,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (5) "Knowingly" defined
 
-&emsp;For purposes of this subsection, the term "knowingly", when used with respect to anyact or omission by any person, means such person—
+&emsp;For purposes of this subsection, the term "knowingly", when used with respect to any act or omission by any person, means such person—
 
 &emsp;&emsp;(A) had actual knowledge; or
 

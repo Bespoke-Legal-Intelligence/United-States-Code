@@ -30,7 +30,7 @@ Additional contents.—(i) Except as provided in clauses (ii) and (iii), the wri
 
 &emsp;&emsp;(ii) A writ of execution issued on a judgment for the delivery to the United States of the possession of personal property, or for the delivery of the possession of real property, shall particularly describe the property, and shall require the marshal to deliver the possession of the property to the United States.
 
-&emsp;&emsp;(iii) A writ of execution on a judgment for the recovery of personal property or its value shall direct the marshal, in case a delivery of the specific property cannot be had, to levy and collect such value out of any property in which the judgment debtor has a substantial nonexempt interest.
+&emsp;&emsp;(iii) A writ of execution on a judgment for the recovery of personal property or its value shall direct the marshal, in case a delivery of the specific property cannot be had,to levy and collect such value out of any property in which the judgment debtor has a substantial nonexempt interest.
 
 (d)
 

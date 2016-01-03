@@ -50,7 +50,7 @@ Pub. L. 107–273, div. C, title III, §13106(d), Nov. 2, 2002, 116 Stat. 1901, 
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 107–273, div. C, title III, §13202(d), Nov. 2, 2002, 116 Stat. 1902, provided that: "The amendments made by section 4605(b), (c), and (e) of the Intellectual Property and Communications Omnibus Reform Act, as enacted by section 1000(a)(9) of Public Law 106–113\[amending this section and sections 141 and 145 of this title\], shall apply to any reexamination filed in the United States Patent and Trademark Office on or after the date of enactment of Public Law 106–113 \[Nov. 29, 1999\]."
+Pub. L. 107–273, div. C, title III, §13202(d), Nov. 2, 2002, 116 Stat. 1902, provided that: "The amendments made by section 4605(b), (c), and (e) of the Intellectual Property and Communications Omnibus Reform Act, as enacted by section 1000(a)(9) of Public Law 106–113 \[amending this section and sections 141 and 145 of this title\], shall apply to any reexamination filed in the United States Patent and Trademark Office on or after the date of enactment of Public Law 106–113 \[Nov. 29, 1999\]."
 
 Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 

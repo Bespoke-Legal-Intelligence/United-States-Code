@@ -4,5 +4,5 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 760; Feb. 26, 1964, Pub. L. 88�
 
 #### Effective Date of Repeal
 
-Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, setout as an Effective Date of 1987 Amendment note under section 585 of this title.
+Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 585 of this title.
 

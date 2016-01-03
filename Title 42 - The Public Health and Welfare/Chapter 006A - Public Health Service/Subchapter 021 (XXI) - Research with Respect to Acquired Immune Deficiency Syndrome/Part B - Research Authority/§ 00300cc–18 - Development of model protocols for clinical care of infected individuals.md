@@ -18,7 +18,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;(2) clinical intervention for infection with the etiologic agent for acquired immune deficiency syndrome, including measures for the prevention of conditions arising from the infection;
 
-&emsp;(3) information and counseling on the availability of treatments for such infection approved by the Commissioner of Food and Drugs, on the availability of treatments for such infection not yet approved by the Commissioner, and on the reports issued by the AIDS Research Advisory Committee under section 300cc–3(c)(2)(B) of this title;
+&emsp;(3) information and counseling on the availability of treatments for such infection approved by the Commissioner of Food andDrugs, on the availability of treatments for such infection not yet approved by the Commissioner, and on the reports issued by the AIDS Research Advisory Committee under section 300cc–3(c)(2)(B) of this title;
 
 &emsp;(4) support groups; and
 

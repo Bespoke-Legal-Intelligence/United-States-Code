@@ -26,13 +26,13 @@ At the time the President submits to the Congress the final text of an agreement
 
 #### (b) Budget submission
 
-The President shall include a request for the resources necessary to support the plan described in subsection (a) of this section in the first budget that the President submits to the Congress after the submission of the plan.
+The President shall include a request for the resources necessary to support the plan described in subsection (a) in the first budget that the President submits to the Congress after the submission of the plan.
 
 (Pub. L. 107–210, div. B, title XXI, §2108, Aug. 6, 2002, 116 Stat. 1018.)
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

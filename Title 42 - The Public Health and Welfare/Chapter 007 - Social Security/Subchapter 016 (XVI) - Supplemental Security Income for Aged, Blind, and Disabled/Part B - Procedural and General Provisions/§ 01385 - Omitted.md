@@ -32,7 +32,7 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by se
 
 (b) Repealed. Pub. L. 97–35, title XXI, §2184(d)(6)(B), Aug. 13, 1981, 95 Stat. 818.
 
-> (Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II, §§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416; Oct. 30, 1972, Pub. L. 92–603, title IV, §§408(d), 409(d), 86 Stat. 1490, 1491; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(6), 95 Stat. 818; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
+> (Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II, §§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416; Oct. 30,1972, Pub. L. 92–603, title IV, §§408(d), 409(d), 86 Stat. 1490, 1491; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(6), 95 Stat. 818; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(4), 108 Stat. 1478.)
 
 \[Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 

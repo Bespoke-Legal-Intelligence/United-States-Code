@@ -2,7 +2,7 @@
 
 #### (a) Distribution of drinking water cooler list
 
-Within 100 days after October 31, 1988, the Administrator shall distribute to the States a list of each brand and model of drinking water cooler identified and listed by the Administrator under section 300j–23(a) of this title.
+Within 100 days after October 31, 1988, the Administrator shall distribute to the States a listof each brand and model of drinking water cooler identified and listed by the Administrator under section 300j–23(a) of this title.
 
 #### (b) Guidance document and testing protocol
 

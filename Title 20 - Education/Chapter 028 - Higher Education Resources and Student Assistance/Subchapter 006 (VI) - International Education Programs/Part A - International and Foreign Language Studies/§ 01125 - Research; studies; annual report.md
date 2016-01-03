@@ -30,7 +30,7 @@ The Secretary may, directly or through grants or contracts, conduct research and
 
 #### (b) Annual report
 
-The Secretary shall prepare, publish, and announce an annual report listing the books andresearch materials produced with assistance under this section.
+The Secretary shall prepare, publish, and announce an annual report listing the books and research materials produced with assistance under this section.
 
 (Pub. L. 89–329, title VI, §605, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1780; amended Pub. L. 110–315, title VI, §605, Aug. 14, 2008, 122 Stat. 3337.)
 

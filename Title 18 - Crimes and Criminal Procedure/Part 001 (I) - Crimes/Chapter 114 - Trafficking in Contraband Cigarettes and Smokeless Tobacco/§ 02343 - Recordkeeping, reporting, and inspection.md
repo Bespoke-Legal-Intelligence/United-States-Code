@@ -24,7 +24,7 @@
 
 &emsp;(B) any cigarettes or smokeless tobacco kept or stored by the person at the premises.
 
-(2) The district courts of the United States shall have the authority in a civil action underthis subsection to compel inspections authorized by paragraph (1).
+(2) The district courts of the United States shall have the authority in a civil action under this subsection to compel inspections authorized by paragraph (1).
 
 (3) Whoever denies access to an officer under paragraph (1), or who fails to comply with an order issued under paragraph (2), shall be subject to a civil penalty in an amount not to exceed $10,000.
 

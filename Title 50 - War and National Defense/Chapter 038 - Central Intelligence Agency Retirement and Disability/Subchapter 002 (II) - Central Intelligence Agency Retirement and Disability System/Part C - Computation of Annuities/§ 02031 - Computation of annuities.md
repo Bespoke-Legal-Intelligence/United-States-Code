@@ -54,7 +54,7 @@
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
-&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spousequalifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 #### (C) Joint election of participant and former spouse
 
@@ -190,7 +190,7 @@
 
 #### (1) Commencement
 
-&emsp;An annuity payable to a child under subsection (d) of this section, or under section 2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
+&emsp;An annuity payable to a child under subsection (d) of this section, or under section2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
 
 #### (2) Termination
 
@@ -310,7 +310,7 @@ The Director shall, on an annual basis—
 
 &emsp;(2) to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.
 
-(Pub. L. 88–643, title II, §221, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3204; amended Pub. L. 103–178, title II, §202(a)(4), Dec. 3, 1993, 107 Stat. 2026.)
+(Pub. L. 88–643, title II, §221, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat.3204; amended Pub. L. 103–178, title II, §202(a)(4), Dec. 3, 1993, 107 Stat. 2026.)
 
 #### Prior Provisions
 

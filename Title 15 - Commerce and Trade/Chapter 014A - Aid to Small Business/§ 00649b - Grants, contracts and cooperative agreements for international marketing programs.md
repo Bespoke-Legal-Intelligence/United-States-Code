@@ -2,7 +2,7 @@
 
 #### (a) Limitations and restrictions
 
-The Secretary of Commerce (hereinafter referred to as the "Secretary") is authorized to make grants (including contracts and cooperative agreements) to a qualified applicant to encourage the development and implementation of a small business international marketing program (hereinafter referred to as "the program"). Each qualified applicant under sections 649a to 649d of this title may receive a Federal grant not to exceed $150,000 annually for each of three years: <i>Provided</i>, That not more than one-third of these Federal funds may be used for the purpose of hiring personnel. Nothing in this section shall be construed as authorizing the Secretary to enter into contracts or incur obligations except to such extent and in such amounts as are provided in appropriation Acts.
+The Secretary of Commerce (hereinafter referred to as the "Secretary") is authorized to make grants (including contracts and cooperative agreements) to a qualified applicant to encourage the development and implementation of a small business international marketing program (hereinafter referred to as "the program"). Each qualified applicant under sections 649a to 649d of this title may receive a Federal grant not to exceed $150,000 annually for each of three years: <i>Provided</i>, That not more than one-third of these Federal funds may be used for the purpose of hiring personnel. Nothing in this section shall be construed as authorizing the Secretary to enter into contracts or incur obligations exceptto such extent and in such amounts as are provided in appropriation Acts.
 
 #### (b) Eligibility
 
@@ -46,7 +46,7 @@ The Secretary shall develop a plan to evaluate programs approved under this sect
 
 #### (f) Recipients' duty to furnish information
 
-For the purpose of the evaluation under subsection (e) of this section, the Secretary is authorized to require any small business international marketing program, or party receiving assistance under this section, to furnish such information as is deemed appropriate to complete the required evaluation.
+For the purpose of the evaluation under subsection (e), the Secretary is authorized to require any small business international marketing program, or party receiving assistance under this section, to furnish such information as is deemed appropriate to complete the required evaluation.
 
 #### (g) "Applicant" defined
 
@@ -220,7 +220,7 @@ Termination.—The authority to carry out the program shall terminate 3 years af
 
 \[For definitions of "Associate Administrator" and "rural small business concern" as used in section 1207 of Pub. L. 111–240, set out above, see section 1202(a) of Pub. L. 111–240, set out as a note below.\]
 
-\[For definitions of "Administration" and "small business concern" as used in section 1207 of Pub. L. 111–240, set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
+\[For definitions of "Administration" and "small business concern" as used in section 1207 of Pub. L. 111–240,set out above, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.\]
 
 #### Definitions
 

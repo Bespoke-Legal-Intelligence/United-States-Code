@@ -2,7 +2,7 @@
 
 #### (a) Living Service members
 
-(1) Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married tothe participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
+(1) Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
 
 &emsp;(A) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spousebased upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -50,7 +50,7 @@
 
 (B) Once a survivor annuity has been provided for under this subsection for any former spouse, a survivor annuity may thereafter be provided for under this subsection (or section 4046(b)(3) of this title) with respect to a participant or former participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
-(C) After the death of a participant or former participant, a court order under section 4060(b)(1) of this title may not adjust theamount of the annuity of any former spouse under this section.
+(C) After the death of a participant or former participant, a court order under section 4060(b)(1) of this title may not adjust the amount of the annuity of any former spouse under this section.
 
 (5)(A) For each full month after a former spouse of a participant or former participant dies or remarries before attaining age 60, the annuity of the participant, if reduced to provide a survivor annuity for that former spouse, shall be recomputed and paid as if the annuity had not been so reduced, unless an election is in effect under subparagraph (B).
 

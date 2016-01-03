@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, payments may be made from the accoun
 
 #### (c) Category of allowances and expenses
 
-The account established under subsection (a) shall be treated as a category of allowances andexpenses for purposes of section 5507(a) of this title.
+The account established under subsection (a) shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title.
 
 (Pub. L. 105–55, title I, §109, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 113–76, div. I, title I, §102(a), Jan. 17, 2014, 128 Stat. 422.)
 

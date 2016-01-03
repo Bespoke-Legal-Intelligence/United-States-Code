@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the financial subsidiary engages only in—
 
-&emsp;&emsp;&emsp;(i) activities that are financial in nature or incidental to a financial activity pursuant to subsection (b) of this section; and
+&emsp;&emsp;&emsp;(i) activities that are financial in nature or incidental to a financial activity pursuant to subsection (b); and
 
 &emsp;&emsp;&emsp;(ii) activities that are permitted for national banks to engage in directly (subject to the same terms and conditions that govern the conduct of the activities by a national bank);
 
@@ -48,7 +48,7 @@
 
 #### (4) Financial agency subsidiary
 
-&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) of this section solely as agent and not directly or indirectly as principal.
+&emsp;The requirement in paragraph (2)(E) shall not apply with respect to the ownership or control of a financial subsidiary that engages in activities described in subsection (b)(1) solely as agent and not directly or indirectly as principal.
 
 #### (5) Regulations required
 
@@ -152,11 +152,11 @@ A national bank that establishes or maintains a financial subsidiary shall assur
 
 #### (1) In general
 
-&emsp;If a national bank or insured depository institution affiliate does not continue to meet the requirements of subsection (a)(2)(C) of this section or subsection (d) of this section, the Comptroller of the Currency shall promptly give notice to the national bank to that effect describing the conditions giving rise to the notice.
+&emsp;If a national bank or insured depository institution affiliate does not continue to meet the requirements of subsection (a)(2)(C) or subsection (d), the Comptroller of the Currency shall promptly give notice to the national bank to that effect describing the conditions giving rise to the notice.
 
 #### (2) Agreement to correct conditions
 
-&emsp;Not later than 45 days after the date of receipt by a national bank of a notice given under paragraph (1) (or such additional period as the Comptroller of the Currency may permit), the national bank shall execute an agreement with the Comptroller of the Currency and any relevant insured depository institution affiliate shall execute an agreement with its appropriate Federal banking agency to comply with the requirements of subsection (a)(2)(C) of this section and subsection (d) of this section.
+&emsp;Not later than 45 days after the date of receipt by a national bank of a notice given under paragraph (1) (or such additional period as the Comptroller of the Currency may permit), the national bank shall execute an agreement with the Comptroller of the Currency and any relevant insured depository institution affiliate shall execute an agreement with its appropriate Federal banking agency to comply with the requirements of subsection (a)(2)(C) and subsection (d).
 
 #### (3) Imposition of conditions
 
@@ -178,7 +178,7 @@ A national bank that establishes or maintains a financial subsidiary shall assur
 
 #### (1) In general
 
-&emsp;A national bank that does not continue to meet standards of credit-worthiness established by the Comptroller of the Currency or other requirement of subsection (a)(2)(E) of this section after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
+&emsp;A national bank that does not continue to meet standards of credit-worthiness established by the Comptroller of the Currency or other requirement of subsection (a)(2)(E) after acquiring or establishing a financial subsidiary shall not, directly or through a subsidiary, purchase or acquire any additional equity capital of any financial subsidiary until the bank meets such requirements.
 
 #### (2) Equity capital
 
@@ -194,7 +194,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Appropriate Federal banking agency, depository institution, insured bank, and insured depository institution
 
-&emsp;The terms "appropriate Federal banking agency", "depository institution", "insuredbank", and "insured depository institution" have the meanings given those terms in section 1813 of this title.
+&emsp;The terms "appropriate Federal banking agency", "depository institution", "insured bank", and "insured depository institution" have the meanings given those terms in section 1813 of this title.
 
 #### (3) Financial subsidiary
 

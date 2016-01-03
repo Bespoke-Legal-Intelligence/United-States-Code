@@ -50,7 +50,7 @@ For purposes of this section—
 
 No exemption shall be allowed under this section with respect to any individual unless the TIN of such individual is included on the return claiming the exemption.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634; Pub. L. 107–16, titleI, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 42; Pub. L. 91–172, title VIII, §801(a)(1), (b)(1), (c)(1), (d)(1), title IX, §941(b), Dec. 30, 1969, 83 Stat. 675, 676, 726; Pub. L. 92–178, title II, §201(a)(1), (b)(1), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 94–455, title XIX, §1901(a)(23), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 95–600, title I, §102(a), Nov. 6, 1978, 92 Stat. 2771; Pub. L. 97–34, title I, §104(c), Aug. 13, 1981, 95 Stat. 189; Pub. L. 98–369, div. A, title IV, §426(a), July 18, 1984, 98 Stat. 804; Pub. L. 99–514, title I, §103, title XVIII, §1847(b)(3), Oct. 22, 1986, 100 Stat. 2102, 2856; Pub. L. 100–647, title VI, §6010(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 101–508, title XI, §§11101(d)(1)(F), 11104(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388-407; Pub. L. 102–318, title V, §511, July 3, 1992, 106 Stat. 300; Pub. L. 103–66, title XIII, §§13201(b)(3)(G), 13205, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 104–188, title I, §§1615(a)(1), 1702(a)(2), Aug. 20, 1996, 110 Stat. 1853, 1868; Pub. L. 106–554, §1(a)(7) \[title III, §306(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-634; Pub. L. 107–16, title I, §102(a), June 7, 2001, 115 Stat. 44; Pub. L. 107–147, title IV, §§412(b), 417(6), Mar. 9, 2002, 116 Stat. 53, 56; Pub. L. 108–311, title II, §206, Oct. 4, 2004, 118 Stat. 1176; Pub. L. 112–240, title I, §101(b)(2)(B), Jan. 2, 2013, 126 Stat. 2317.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §412(e), Mar. 9, 2002, 116 Stat. 54, provided that: "The amendments made by this section \[amending this section and sections 358, 469, 1091, 1233, 1234A, and 1234B of this title\] shall take effect as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\] to which they relate."
+Pub. L. 107–147, title IV, §412(e), Mar. 9, 2002, 116 Stat. 54, provided that: "The amendments made by this section \[amending this section and sections 358, 469, 1091, 1233, 1234A, and 1234B of this title\] shall take effect as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A-587\] to which they relate."
 
 #### Effective Date of 2001 Amendment
 
@@ -164,7 +164,7 @@ Pub. L. 107–16, title I, §102(b), June 7, 2001, 115 Stat. 44, provided that: 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §306(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–635, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title III, §306(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-635, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -218,7 +218,7 @@ Pub. L. 91–172, title VIII, §801(a)(1), Dec. 30, 1969, 83 Stat. 675, provided
 
 Pub. L. 91–172, title VIII, §801(b)(1), Dec. 30, 1969, 83 Stat. 676, provided in part that the increase in the exemption from $625 to $650 is effective with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972.
 
-Pub. L. 91–172, title IX, §941(c), Dec. 30, 1969, 83 Stat. 726, provided that: "The amendments made by subsections (a) \[amending section 6012 of this title\] and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1969."
+Pub. L. 91–172, title IX, §941(c), Dec. 30, 1969, 83 Stat. 726, provided that: "The amendments made by subsections (a) \[amending section 6012 of this title\] and (b)\[amending this section\] shall apply to taxable years beginning after December 31, 1969."
 
 #### Repeals
 

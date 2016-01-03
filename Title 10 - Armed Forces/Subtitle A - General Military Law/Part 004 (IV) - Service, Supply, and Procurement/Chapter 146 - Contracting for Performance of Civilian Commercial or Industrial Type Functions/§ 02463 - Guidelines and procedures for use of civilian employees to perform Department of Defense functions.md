@@ -48,7 +48,7 @@ Use of Flexible Hiring Authority.—(1) The Secretary of Defense may use the fle
 
 (e)
 
-Determinations Relating to the Conversion of Certain Functions.—(1) Except as provided in paragraph (2), in determining whether a function should be converted to performance by Department of Defense civilian employees, the Secretary of Defense shall—
+Determinations Relating to the Conversion of Certain Functions.—(1) Except as provided in paragraph (2), in determining whether a function should be converted to performance byDepartment of Defense civilian employees, the Secretary of Defense shall—
 
 &emsp;(A) develop methodology for determining costs based on the guidance outlined in the Directive-Type Memorandum 09–007 entitled "Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support" or any successor guidance for the determination of costs when costs are the sole basis for the determination;
 

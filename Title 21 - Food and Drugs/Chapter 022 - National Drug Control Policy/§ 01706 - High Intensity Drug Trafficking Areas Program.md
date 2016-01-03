@@ -172,7 +172,7 @@ Not later than 1 year after December 29, 2006, and as part of each subsequent an
 
 &emsp;&emsp;(D) the role of the high intensity drug trafficking area in coordinating the sharing of such information among task forces;
 
-&emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information isshared among law enforcement agencies and with the high intensity drug trafficking area;
+&emsp;&emsp;(E) the nature and extent of cooperation by each Federal, State, local, and tribal participant in ensuring that such information is shared among law enforcement agencies and with the high intensity drug trafficking area;
 
 &emsp;&emsp;(F) the nature and extent to which information sharing and enforcement activities are coordinated with joint terrorism task forces in the high intensity drug trafficking area; and
 
@@ -204,7 +204,7 @@ The Director, in consultation with the Attorney General, shall ensure that any d
 
 &emsp;&emsp;(A) the number of methamphetamine manufacturing facilities discovered through HIDTA-funded initiatives in the previous fiscal year;
 
-&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized by HIDTA-funded initiatives in the area during the previous year; and
+&emsp;&emsp;(B) the amounts of methamphetamine or listed chemicals (as that term is defined in section 802(33) of this title <sup>1</sup> seized byHIDTA-funded initiatives in the area during the previous year; and
 
 &emsp;&emsp;(C) law enforcement intelligence and predictive data from the Drug Enforcement Administration showing patterns and trends in abuse, trafficking, and transportation in methamphetamine and listed chemicals.
 
@@ -248,7 +248,7 @@ There is authorized to be appropriated to the Office of National Drug Control Po
 
 #### References in Text
 
-December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactmentof this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
+December 29, 2006, referred to in subsecs. (k)(1), (l), and (m) was in the original "the date of the enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–469, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -306,7 +306,7 @@ Apportionment of Funds.—
 
 &emsp;"(1)
 
-Factors in apportionment.—The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director as high intensity drug trafficking areas based on the following factors:
+Factors in apportionment.—The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director ashigh intensity drug trafficking areas based on the following factors:
 
 &emsp;&emsp;"(A) The number of methamphetamine manufacturing facilities and amphetamine manufacturing facilities discovered by Federal, State, or local law enforcement officials in the previous fiscal year.
 

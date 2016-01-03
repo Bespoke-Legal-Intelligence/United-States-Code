@@ -26,7 +26,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Each person that owns a Type II active pharmaceutical ingredient drug master file that is referenced on or after October 1, 2012, in a generic drug submission by any initial letter of authorization shall be subject to a drug master file fee.
+&emsp;&emsp;Each person that owns a Type II active pharmaceutical ingredient drug master file that is referenced on or after October 1, 2012, in a generic drug submission by any initialletter of authorization shall be subject to a drug master file fee.
 
 #### (B) One-time payment
 
@@ -138,7 +138,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (iii) Facilities producing both active pharmaceutical ingredients and finished dosage forms
 
-&emsp;&emsp;&emsp;Each person that owns a facility identified, or intended to be identified, in atleast one generic drug submission that is pending or approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject to fees under both such clauses for that facility.
+&emsp;&emsp;&emsp;Each person that owns a facility identified, or intended to be identified, in at least one generic drug submission that is pending or approved to produce both one or more finished dosage forms subject to clause (i) and one or more active pharmaceutical ingredients subject to clause (ii) shall be subject to fees under both such clauses for that facility.
 
 #### (B) Amount
 
@@ -206,7 +206,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(C) Fifty-six percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States, including its territories and possessions, and those located outside of the United States and its territories and possessions.
 
-&emsp;&emsp;(D) Fourteen percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility locatedin the United States, including its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.
+&emsp;&emsp;(D) Fourteen percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be not less than $15,000 and not more than $30,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions, as determined by the Secretary on the basis of data concerning the difference in cost between inspections of facilities located in the United States and its territories and possessions and those located outside of the United States and its territories and possessions.
 
 #### (c) Adjustments
 
@@ -232,7 +232,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 &emsp;For fiscal year 2013—
 
-&emsp;&emsp;(A) the Secretary shall establish, by October 31, 2012, the one-time generic drug backlog fee for generic drug applications pending on October 1, 2012, the drug master file fee, the abbreviated new drug application fee, and the prior approval supplement fee under subsection (a), based on the revenue amounts established under subsection (b); and
+&emsp;&emsp;(A) the Secretary shall establish, by October 31, 2012, the one-time generic drug backlog fee for generic drug applications pending on October 1, 2012, the drug master file fee,the abbreviated new drug application fee, and the prior approval supplement fee under subsection (a), based on the revenue amounts established under subsection (b); and
 
 &emsp;&emsp;(B) the Secretary shall establish, not later than 45 days after the date to comply with the requirement for identification of facilities in subsection (f)(2), the generic drug facility fee and active pharmaceutical ingredient facility fee under subsection (a) based on the revenue amounts established under subsection (b).
 
@@ -264,7 +264,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (2) Required submission of facility identification
 
-&emsp;Each person that owns a facility described in subsection (a)(4)(A) or a site or organizationrequired to be identified by paragraph (4) shall submit to the Secretary the information required under this subsection each year. Such information shall—
+&emsp;Each person that owns a facility described in subsection (a)(4)(A) or a site or organization required to be identified by paragraph (4) shall submit to the Secretary the information required under this subsection each year. Such information shall—
 
 &emsp;&emsp;(A) for fiscal year 2013, be submitted not later than 60 days after the publication of the notice under paragraph (1); and
 
@@ -314,7 +314,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (1) Generic drug backlog fee
 
-&emsp;Failure to pay the fee under subsection (a)(1) shall result in the Secretary placing the person that owns the abbreviated new drug application subject to that fee on a publicly available arrears list, such that no new abbreviated new drug applications or supplement submitted on or after October 1, 2012, from that person, or any affiliate of that person, will be received within the meaning of section 355(j)(5)(A) of this title until such outstanding fee is paid.
+&emsp;Failure to pay the fee under subsection (a)(1) shall result in the Secretary placing the person that owns the abbreviated new drug application subject to that fee on a publicly available arrears list, such that no new abbreviated new drug applications or supplement submitted on or after October 1, 2012, from that person, or any affiliate of that person, will be received within the meaning of section355(j)(5)(A) of this title until such outstanding fee is paid.
 
 #### (2) Drug master file fee
 
@@ -338,7 +338,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 &emsp;&emsp;Failure to pay the fee under subsection (a)(4) within 20 calendar days of the due date as specified in subparagraph (D) of such subsection shall result in the following:
 
-&emsp;&emsp;&emsp;(i) The Secretary shall place the facility on a publicly available arrears list, such that no new abbreviated new drug application or supplement submitted on or afterOctober 1, 2012, from the person that is responsible for paying such fee, or any affiliate of that person, will be received within the meaning of section 355(j)(5)(A) of this title.
+&emsp;&emsp;&emsp;(i) The Secretary shall place the facility on a publicly available arrears list, such that no new abbreviated new drug application or supplement submitted on or after October 1, 2012, from the person that is responsible for paying such fee, or any affiliate of that person, will be received within the meaning of section 355(j)(5)(A) of this title.
 
 &emsp;&emsp;&emsp;(ii) Any new generic drug submission submitted on or after October 1, 2012, that references such a facility shall not be received, within the meaning of section 355(j)(5)(A) of this title if the outstanding facility fee is not paid within 20 calendar days of the Secretary providing the notification to the sponsor of the failure of the owner of the facility to pay the facility fee under subsection (a)(4)(C).
 
@@ -366,7 +366,7 @@ The total amount of fees charged, as adjusted under subsection (c), for a fiscal
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for Type II active pharmaceutical ingredient drug master files, abbreviated new drug applications and prior approval supplements, and generic drug facilities and active pharmaceutical ingredient facilities at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year and if at a later date in such fiscal yearthe Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate, for Type II active pharmaceutical ingredient drug master files, abbreviated new drug applications and prior approval supplements, and generic drug facilities and active pharmaceutical ingredient facilities at any time in such fiscal year notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (i) Crediting and availability of fees
 
@@ -424,7 +424,7 @@ To qualify for the return of a fee claimed to have been paid in error under this
 
 #### (n) Substantially complete applications
 
-An abbreviated new drug application that is not considered to be received within the meaning of section 355(j)(5)(A) of this title because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been "substantially complete" on the date of its submission within the meaning of section 355(j)(5)(B)(iv)(II)(cc) of this title. An abbreviated new drug application that is not substantially complete on the date of its submission solely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of section 355(j)(5)(A) of this title as of the date such applicable fee is received.
+An abbreviated new drug application that is not considered to be received within the meaning of section 355(j)(5)(A) of this title because of failure to pay an applicable fee under this provision within the time period specified in subsection (g) shall be deemed not to have been "substantially complete" on the date of its submission within the meaning of section 355(j)(5)(B)(iv)(II)(cc) of this title. An abbreviated new drug application that is not substantially complete on the date of its submissionsolely because of failure to pay an applicable fee under the preceding sentence shall be deemed substantially complete and received within the meaning of section 355(j)(5)(A) of this title as of the date such applicable fee is received.
 
 (June 25, 1938, ch. 675, §744B, as added Pub. L. 112–144, title III, §302, July 9, 2012, 126 Stat. 1011; amended Pub. L. 112–193, §2(b)(2), (3), Oct. 5, 2012, 126 Stat. 1443.)
 

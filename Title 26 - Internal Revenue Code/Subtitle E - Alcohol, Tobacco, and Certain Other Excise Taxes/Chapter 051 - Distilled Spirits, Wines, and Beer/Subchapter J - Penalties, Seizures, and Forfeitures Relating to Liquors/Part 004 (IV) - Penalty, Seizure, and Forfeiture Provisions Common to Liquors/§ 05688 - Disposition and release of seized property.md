@@ -26,11 +26,11 @@
 
 #### (5) Remission or mitigation of forfeitures
 
-&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilled spirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
+&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilledspirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
 
 #### (b) Distraint or judicial process
 
-Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before hetakes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
+Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before he takes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
 
 #### (c) Release of seized vessels or vehicles by courts
 

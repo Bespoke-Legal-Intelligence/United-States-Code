@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section.
+&emsp;The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c).
 
 #### (2) Effect of approval
 
@@ -54,11 +54,11 @@ A certification under the procedures under this section shall—
 
 &emsp;(2) be executed by the Director of the Department of Hawaiian Home Lands;
 
-&emsp;(3) specify that the Department of Hawaiian Home Lands has fully carried out its responsibilities as described under subsection (a) of this section; and
+&emsp;(3) specify that the Department of Hawaiian Home Lands has fully carried out its responsibilities as described under subsection (a); and
 
 &emsp;(4) specify that the Director—
 
-&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a) of this section; and
+&emsp;&emsp;(A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a); and
 
 &emsp;&emsp;(B) is authorized and consents on behalf of the Department of Hawaiian Home Lands and the Director to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the Director of the Department of Hawaiian Home Lands as such an official.
 

@@ -44,9 +44,9 @@
 
 &emsp;The following waivers and releases shall be included in the Settlement Agreement:
 
-&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, includingall rights appurtenant to such land and minerals.
+&emsp;&emsp;(A) A disclaimer and relinquishment by the Crow Tribe of all right, jurisdiction, title, claim, or interest in the lands and minerals within parcel number 2, including all rights appurtenant to such land and minerals.
 
-&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, the Northern Cheyenne Tribe, the Northern Cheyenne allottees and their successors in interest, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 2.
+&emsp;&emsp;(B) A release by the Crow Tribe of all persons and entities, including the United States, the Northern Cheyenne Tribe, theNorthern Cheyenne allottees and their successors in interest, from any liability arising from, or related to, the 1891 survey and the subsequent occupancy and use of parcel number 2.
 
 #### (3) Enforcement
 
@@ -108,7 +108,7 @@ With respect to the land exchanges with the State of Montana and private landown
 
 > &emsp;shall not exceed the value of the surface estate of the 46,625 acres of land identified in paragraph (1)(A).
 
-&emsp;(D) In carrying out a program developed pursuant to this paragraph, the Secretary may exchange public lands within the State of Montana for private lands of substantially equal value within the boundaries of the existing Crow Indian Reservation in accordance with section 1716 of title 43.
+&emsp;(D) In carrying out a program developed pursuant to this paragraph, the Secretary mayexchange public lands within the State of Montana for private lands of substantially equal value within the boundaries of the existing Crow Indian Reservation in accordance with section 1716 of title 43.
 
 &emsp;(E) In determining the fair market value of the lands described in subparagraph (D), the parties to an exchange made pursuant to subparagraph (D) shall give due consideration to the value of improvements on the lands.
 

@@ -6,7 +6,7 @@
 
 &emsp;Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the National Taxpayer Advocate may issue a Taxpayer Assistance Order if—
 
-&emsp;&emsp;(A) the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenuelaws are being administered by the Secretary; or
+&emsp;&emsp;(A) the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary; or
 
 &emsp;&emsp;(B) the taxpayer meets such other requirements as are set forth in regulations prescribed by the Secretary.
 
@@ -70,7 +70,7 @@ For purposes of this section, the term "National Taxpayer Advocate" includes any
 
 Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.
 
-(Added Pub. L. 100–647, title VI, §6230(a), Nov. 10, 1988, 102 Stat. 3733; amended Pub. L. 104–168, title I, §§101(b)(1), 102(a), (b), July 30, 1996, 110 Stat. 1455, 1456; Pub. L. 105–206, title I, §1102(c), (d)(1)(C)–(G), (2), (3), July 22, 1998, 112 Stat. 703, 704; Pub. L. 106–554, §1(a)(7) \[title III, §319(28), (29)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 108–357, title VIII, §881(c), Oct. 22, 2004, 118 Stat. 1626.)
+(Added Pub. L. 100–647, title VI, §6230(a), Nov. 10, 1988, 102 Stat. 3733; amended Pub. L. 104–168, title I, §§101(b)(1), 102(a), (b), July 30, 1996, 110 Stat. 1455, 1456; Pub. L. 105–206, title I, §1102(c), (d)(1)(C)–(G), (2), (3), July 22, 1998, 112 Stat. 703, 704; Pub. L. 106–554, §1(a)(7) \[title III, §319(28), (29)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-648; Pub. L. 108–357, title VIII, §881(c), Oct. 22, 2004, 118 Stat. 1626.)
 
 #### Amendments
 

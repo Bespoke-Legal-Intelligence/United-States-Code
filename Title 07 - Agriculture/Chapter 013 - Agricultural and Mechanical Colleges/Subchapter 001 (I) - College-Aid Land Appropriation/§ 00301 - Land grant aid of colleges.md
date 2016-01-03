@@ -156,7 +156,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
-&emsp;&emsp;"(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
+&emsp;&emsp;"(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a prorata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a))).
 
 &emsp;&emsp;"(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
@@ -196,7 +196,7 @@ In general.—Except as provided in subparagraph (B), the amounts authorized to 
 
 &emsp;&emsp;"(B)
 
-Redistribution.—Funds that would be paid to a 1994 Institution under paragraph (2) shall bewithheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
+Redistribution.—Funds that would be paid to a 1994 Institution under paragraph (2) shall be withheld from that 1994 Institution and redistributed among the other 1994 Institutions if that 1994 Institution—
 
 &emsp;&emsp;&emsp;"(i) declines to accept funds under paragraph (2); or
 
@@ -288,7 +288,7 @@ Pub. L. 96–374, title XIII, §1361(c), (d), Oct. 3, 1980, 94 Stat. 1502, as am
 
 "(c) Any provision of any Act of Congress relating to the operation of or provision of assistance to a land grant college in the Virgin Islands or Guam shall apply to the land grant college in American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) in the same manner and to the same extent.
 
-"(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuila and Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\]."
+"(d) Nothing in this section \[amending section 326a of this title and provisions set out as a note below\] shall be construed to interfere with or affect any of the provisions of the April 17, 1900 Treaty of Cession of Tutuilaand Aunu'u Islands or the July 16, 1904 Treaty of Cession of the Manu'a Islands as ratified by the Act of February 20, 1929 (45 Stat. 1253) and the Act of May 22, 1929 (46 Stat. 4) \[48 U.S.C. 1431a\]."
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
@@ -298,7 +298,7 @@ Pub. L. 92–318, title V, §506(a), (b), June 23, 1972, 86 Stat. 350, as amende
 
 "(a) The College of the Virgin Islands, the Community College of American Samoa, the College of Micronesia\[,\] the Northern Marianas College, and the University of Guam shall be considered land-grant colleges established for the benefit or agriculture and mechanic arts in accordance with the provisions of the Act of July 2, 1862, as amended (12 Stat. 503; 7 U.S.C. 301–305, 307, 308).
 
-"(b) In lieu of extending to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands those provisions of the Act of July 2, 1862, as amended, relating to donations of public land or land scrip for the endowment and maintenance of colleges or the benefit of agriculture and the mechanic arts, there is authorized to be appropriated $3,000,000 to the Virgin Islands and $3,000,000 to Guam and an equal amount to American Samoa, Micronesia, and to the Northern Mariana Islands. Amounts appropriated pursuant to this section shall be held and considered to have been granted to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands subjectto the provisions of that Act applicable to the proceeds from the sale of land or land scrip."
+"(b) In lieu of extending to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands those provisions of the Act of July 2, 1862, as amended, relating to donations of public land or land scrip for the endowment and maintenance of colleges or the benefit of agriculture and the mechanic arts, there is authorized to be appropriated $3,000,000 to the Virgin Islands and $3,000,000 to Guam and an equal amount to American Samoa, Micronesia, and to the Northern Mariana Islands. Amounts appropriated pursuant to this section shall be held and considered to have been granted to the Virgin Islands, Guam, American Samoa, Micronesia, and the Northern Mariana Islands subject to the provisions of that Act applicable to the proceeds from the sale of land or land scrip."
 
 #### Exchange of Land in Missouri
 

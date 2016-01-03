@@ -72,7 +72,7 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 
 Section 14504, referred to in subsec. (a)(1), was repealed by Pub. L. 109–59, title IV, §4305(a), Aug. 10, 2005, 119 Stat. 1764; Pub. L. 110–53, title XV, §1537(a), Aug. 3, 2007, 121 Stat. 467, effective Jan. 1, 2008.
 
-The effective date of this section, referred to in subsec. (c), probably means the date of enactment of Pub. L. 109–59, which amended this section generally and was approved Aug. 10, 2005.
+The effective date of this section, referred to in subsec. (c), probably means the date of enactment of Pub.L. 109–59, which amended this section generally and was approved Aug. 10, 2005.
 
 #### Amendments
 

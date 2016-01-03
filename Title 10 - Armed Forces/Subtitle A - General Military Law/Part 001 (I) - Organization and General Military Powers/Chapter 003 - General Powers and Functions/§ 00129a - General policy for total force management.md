@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b of this title) takes precedence over cost.
+Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b <sup>1</sup> of this title) takes precedence over cost.
 
 (c)
 
@@ -14,7 +14,7 @@ Delegation of Responsibilities.—The Secretary shall delegate responsibility fo
 
 &emsp;(1) The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for guidance to implement such policies and procedures.
 
-&emsp;(2) The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
+&emsp;(2) The Secretaries of the military departments and the heads of the Defense Agenciesshall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
 
 &emsp;(3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
@@ -59,6 +59,10 @@ Construction With Other Requirements.—Nothing in this title may be construed a
 &emsp;(5) the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541.)
+
+#### References in Text
+
+Section 118b of this title, referred to in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, §1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
 
 #### Prior Provisions
 
@@ -184,7 +188,7 @@ Exclusions.—Each report under paragraphs (1) and (2) shall specifically identi
 
 "(e)
 
-Limitation on Transfers of Functions.—The Secretary shall ensure that the savings required by this section are not achieved through unjustified transfers of functions between or among the military, civilian, and service contractor personnel workforces of the Department of Defense. Nothing in this section shall be construed to preclude the Secretary from exercising authority available to the Department under sections 129a, 2330a, 2461, and 2463 of title 10, United States Code.
+Limitation on Transfers of Functions.—The Secretary shall ensure that the savings required by this section are not achieved through unjustified transfers of functions between or among the military, civilian, and service contractor personnel workforces of the Department of Defense. Nothing in this section shall be construed to preclude the Secretary from exercisingauthority available to the Department under sections 129a, 2330a, 2461, and 2463 of title 10, United States Code.
 
 "(f)
 
@@ -223,4 +227,6 @@ Pub. L. 101–165, title IX, §9085, Nov. 21, 1989, 103 Stat. 1147.
 Pub. L. 100–463, title VIII, §8079, Oct. 1, 1988, 102 Stat. 2270–30.
 
 Pub. L. 100–202, §101(b) \[title VIII, §8105\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–81.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

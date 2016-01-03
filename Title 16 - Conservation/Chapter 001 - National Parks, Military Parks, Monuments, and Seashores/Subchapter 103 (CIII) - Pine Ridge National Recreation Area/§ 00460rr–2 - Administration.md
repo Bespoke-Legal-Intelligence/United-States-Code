@@ -34,11 +34,11 @@ Nothing in this subchapter shall be construed as affecting the jurisdiction or r
 
 #### (f) Comprehensive management plan
 
-Within eighteen months after October 20, 1986, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
+Within eighteen months after October 20, 1986, the Secretary shall develop and submit to the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and to the Committee on Energy and Natural Resources ofthe United States Senate a comprehensive management plan for the national recreation area designated by this subchapter.
 
 #### (g) Public participation in development of management plan
 
-In conducting the reviews and preparing the comprehensive management plan required by subsection (d) <sup>1</sup> of this section, the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
+In conducting the reviews and preparing the comprehensive management plan required by subsection (d),<sup>1</sup> the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
 
 (Pub. L. 99–504, title II, §203, Oct. 20, 1986, 100 Stat. 1804.)
 
@@ -50,5 +50,5 @@ This subchapter, referred to in subsec. (e), was in the original "this Act", mea
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection "(f)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (f),".</i>
 

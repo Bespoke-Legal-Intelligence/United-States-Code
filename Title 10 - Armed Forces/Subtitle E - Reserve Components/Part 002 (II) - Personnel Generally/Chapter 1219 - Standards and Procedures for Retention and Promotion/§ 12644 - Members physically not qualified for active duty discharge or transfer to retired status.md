@@ -32,7 +32,7 @@ In subsection (c), the words "under his jurisdiction" are inserted for clarity.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, §1662(h)(2), (4)(B), renumbered section 1004 of this title as this section and substituted "Members physically not qualified for active duty: discharge or transfer to retired status" for "Physical examination" as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1662(h)(2), (4)(B), renumbered section 1004 of this title as this section and substituted"Members physically not qualified for active duty: discharge or transfer to retired status" for "Physical examination" as section catchline.
 
 Pub. L. 103–337, §1661(a)(4), struck out "(c)" before "Except as otherwise provided" and struck out subsecs. (a) and (b) which read as follows:
 

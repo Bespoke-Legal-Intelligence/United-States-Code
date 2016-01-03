@@ -6,7 +6,7 @@ Execution of Request for Assistance.—
 
 &emsp;(1)
 
-In general.—Upon application, duly authorized by an appropriate official of the Department of Justice, of an attorney for the Government, a Federal judge may issue such orders as may be necessary to execute a request from a foreign authority for assistancein the investigation or prosecution of criminal offenses, or in proceedings related to the prosecution of criminal offenses, including proceedings regarding forfeiture, sentencing, and restitution.
+In general.—Upon application, duly authorized by an appropriate official of the Department of Justice, of an attorney for the Government, a Federal judge may issue such orders as may be necessary to execute a request from a foreign authority for assistance in the investigation or prosecution of criminal offenses, or in proceedings related to the prosecution of criminal offenses, including proceedings regarding forfeiture, sentencing, and restitution.
 
 &emsp;(2)
 

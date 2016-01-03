@@ -12,7 +12,7 @@ Aircraft purchase.—The term "aircraft purchase" means the purchase of commerci
 
 &emsp;(3)
 
-Capital reserve subsidy amount.—The term "capital reserve subsidy amount" means the amount of budget authority sufficient to cover estimated long-term cost to the UnitedStates Government of a Federal credit instrument, calculated on a net present value basis, excluding administrative costs and any incidental effects on Government receipts or outlays in accordance with provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
+Capital reserve subsidy amount.—The term "capital reserve subsidy amount" means the amount of budget authority sufficient to cover estimated long-term cost to the United States Government of a Federal credit instrument, calculated on a net present value basis, excluding administrative costs and any incidental effects on Government receipts or outlays in accordance with provisions of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.).
 
 &emsp;(4)
 

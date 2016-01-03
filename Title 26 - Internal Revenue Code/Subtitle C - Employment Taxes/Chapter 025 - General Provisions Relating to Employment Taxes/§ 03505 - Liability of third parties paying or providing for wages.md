@@ -16,5 +16,5 @@ Any amounts paid to the United States pursuant to this section shall be credited
 
 #### Effective Date
 
-Section applicable only with respect to wages paid on or after Jan. 1, 1967, see section 114(c)(1) of Pub. L.89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
+Section applicable only with respect to wages paid on or after Jan. 1, 1967, see section 114(c)(1) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 

@@ -34,7 +34,7 @@ Members of the Board shall elect from the members of the Board a Chairman and su
 
 (1) Subject to paragraph (2), members of the Board shall serve without pay.
 
-(2) Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
+(2) Members of the Board and the President, Executive Secretary, and other personnel of the Foundation shall be entitled to reimbursementfor travel, subsistence, and other necessary expenses incurred in the performance of their duties at rates applicable to judges of the United States under section 456(a) of title 28.
 
 (Pub. L. 99–500, §101(b) \[title VIII, §803\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–76, and Pub. L. 99–591, §101(b) \[title VIII, §803\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–76; Pub. L. 101–208, §1, Dec. 7, 1989, 103 Stat. 1836; Pub. L. 102–221, §1(1), Dec. 11, 1991, 105 Stat. 1676.)
 

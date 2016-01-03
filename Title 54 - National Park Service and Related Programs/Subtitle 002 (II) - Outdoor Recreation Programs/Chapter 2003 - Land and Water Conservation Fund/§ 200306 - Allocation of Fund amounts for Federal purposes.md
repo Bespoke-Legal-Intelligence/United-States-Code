@@ -26,7 +26,7 @@ National forest system.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Amounts shall be allotted for the acquisition of land, water, or aninterest in land or water within inholdings within—
+In general.—Amounts shall be allotted for the acquisition of land, water, or an interest in land or water within inholdings within—
 
 &emsp;&emsp;&emsp;&emsp;(I) wilderness areas of the National Forest System; and
 

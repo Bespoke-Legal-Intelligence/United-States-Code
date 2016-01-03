@@ -100,7 +100,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;(2) appropriate adjustments shall be made to the basis of any property to reflect gain recognized under subsection (a).
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 543; amended Pub. L. 99–514, title VI, §631(e)(15), title XVIII, §§1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, 100 Stat. 2275, 2793, 2796, 2960; Pub. L. 100–647, title I, §1018(u)(46), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(A), (2)(B)(i), Aug. 10, 1993, 107 Stat. 465.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 543; amended Pub. L. 99–514,title VI, §631(e)(15), title XVIII, §§1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, 100 Stat. 2275, 2793, 2796, 2960; Pub. L. 100–647, title I, §1018(u)(46), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 103–66, title XIII, §13206(b)(1)(A), (2)(B)(i), Aug. 10, 1993, 107 Stat. 465.)
 
 #### Amendments
 
@@ -140,7 +140,7 @@ Pub. L. 99–514, title XVIII, §1803(a)(13)(C), Oct. 22, 1986, 100 Stat. 2797, 
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, and applicable to obligations issued after July18, 1984, in taxable years ending after such date, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, and applicable to obligations issued after July 18, 1984, in taxable years ending after such date, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

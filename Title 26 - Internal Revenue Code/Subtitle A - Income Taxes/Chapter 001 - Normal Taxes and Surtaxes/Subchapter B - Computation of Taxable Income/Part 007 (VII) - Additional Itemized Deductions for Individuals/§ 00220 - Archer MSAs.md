@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (i) Controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
+&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer undersubsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
 
 #### (ii) Predecessors
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug onlyif such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account holder attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account holder attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -334,7 +334,7 @@ For purposes of this section—
 
 #### (I) Reduction of inclusion for pre-death expenses
 
-&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
+&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (otherthan the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
 
 #### (II) Deduction for estate taxes
 
@@ -508,7 +508,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-628, 2763A-629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183; Pub. L. 109–432, div. A, title I, §117(a), (b), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 111–148, title IX, §§9003(b), 9004(b), Mar. 23, 2010, 124 Stat. 854.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -592,7 +592,7 @@ Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(2)(B)\], subst
 
 Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted "an Archer MSA" for "a Archer MSA" wherever appearing.
 
-Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(4), (b)(2)(B)\], substituted "Archer MSA" for "medical savings account" wherever appearing and "Archer MSAs" for "medical savings accounts" in introductory provisions of par. (3)(A).
+Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(4), (b)(2)(B)\], substituted "Archer MSA" for "medical savings account" wherever appearing and "Archer MSAs" for"medical savings accounts" in introductory provisions of par. (3)(A).
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted "an Archer MSA" for "a Archer MSA".
 
@@ -664,7 +664,7 @@ Pub. L. 107–147, title VI, §612(c), Mar. 9, 2002, 116 Stat. 61, provided that
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title II, §201(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(7) \[title II, §201(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-628, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1997 Amendments
 

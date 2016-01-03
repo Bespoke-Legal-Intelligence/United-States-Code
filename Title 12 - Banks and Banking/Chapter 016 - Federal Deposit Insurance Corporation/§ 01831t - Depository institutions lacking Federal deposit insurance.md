@@ -12,9 +12,11 @@
 
 &emsp;&emsp;The private deposit insurer shall provide a copy of the audit report—
 
-&emsp;&emsp;&emsp;(i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed; and
+&emsp;&emsp;&emsp;(i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed;
 
-&emsp;&emsp;&emsp;(ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed.
+&emsp;&emsp;&emsp;(ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed; and
+
+&emsp;&emsp;&emsp;(iii) in the case of depository institutions described in subsection (e)(2)(A) the deposits of which are insured by the private insurer which are members of a Federal home loan bank, to the Federal Housing Finance Agency, not later than 7 days after the audit is completed.
 
 #### (B) Depository institution
 
@@ -166,15 +168,17 @@ For purposes of this section:
 
 &emsp;&emsp;If the Bureau or Federal Trade Commission has instituted an enforcement action for a violation of this section, no appropriate State supervisory agency may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Bureau or Federal Trade Commission for any violation of this section that is alleged in that complaint.
 
-(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975; Pub. L. 111–203, title X, §1090(2), July 21, 2010, 124 Stat. 2094.)
+(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602; Pub. L. 109–351, title V, §505, Oct. 13, 2006, 120 Stat. 1975; Pub. L. 111–203, title X, §1090(2), July 21, 2010, 124 Stat. 2094; Pub. L. 114–94, div. G, title LXXXII, §82001(b), Dec. 4, 2015, 129 Stat. 1796.)
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (f)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (f)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (a)(2)(A)(iii). Pub. L. 114–94 added cl. (iii).
 
 <b>2010</b>—Subsecs. (c), (d), (e)(2)(B). Pub. L. 111–203, §1090(2)(A)–(C)(i), substituted "Bureau" for "Federal Trade Commission".
 

@@ -20,15 +20,15 @@
 
 &emsp;The Secretary shall ensure that the aggregate amount transferred under paragraph (1) is allocated to the accounts established in the Fund Account as follows:
 
-&emsp;&emsp;(A) 28.9276 percent of that amount shall be allocated to the account established for the benefit of the tribal governing body of the Spirit Lake Tribe of North Dakota.
+&emsp;&emsp;(A) 28.9276 percent of that amount shall be allocated to the account established for thebenefit of the tribal governing body of the Spirit Lake Tribe of North Dakota.
 
 &emsp;&emsp;(B) 57.3145 percent of that amount, after payment of any applicable attorneys' fees and expenses by the Secretary under the contract numbered A00C14202991, approved by the Secretary on August 16, 1988, shall be allocated to the account established for the benefit of the tribal governing body of the Sisseton and Wahpeton Sioux Tribe of South Dakota.
 
-&emsp;&emsp;(C) 13.7579 percent of that amount shall be allocated to the account established for the benefit of the tribal governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation in Montana, as designated under subsection (c) of this section.
+&emsp;&emsp;(C) 13.7579 percent of that amount shall be allocated to the account established for the benefit of the tribal governing body of the Assiniboine and Sioux Tribes of the Fort Peck Reservation in Montana, as designated under subsection (c).
 
 #### (b) Use
 
-Amounts distributed under this section to accounts referred to in subsection (d) of this section for the benefit of a tribal governing body shall be distributed and used in a manner consistent with section 1300d–24 of this title.
+Amounts distributed under this section to accounts referred to in subsection (d) for the benefit of a tribal governing body shall be distributed and used in a manner consistent with section 1300d–24 of this title.
 
 #### (c) Tribal governing body of Assiniboine and Sioux Tribes of Fort Peck Reservation
 
@@ -36,7 +36,7 @@ For purposes of making distributions of funds pursuant to this part, the Sisseto
 
 #### (d) Tribal Trust Fund Accounts
 
-The Secretary of the Treasury, in cooperation with the Secretary of the Interior, acting through the Office of Trust Fund Management of the Department of the Interior, shall ensure that such accounts as are necessary are established in the Fund Account to provide for the distribution of funds under subsection (a)(2) of this section.
+The Secretary of the Treasury, in cooperation with the Secretary of the Interior, acting through the Office of Trust Fund Management of the Department of the Interior, shall ensure that such accounts as are necessary are established in the Fund Account to provide for the distribution of funds under subsection (a)(2).
 
 (Pub. L. 105–387, §4, Nov. 13, 1998, 112 Stat. 3471.)
 

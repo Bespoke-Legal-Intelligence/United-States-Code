@@ -94,7 +94,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–325, §301(e)(1)(A), in concluding provisions, substituted "reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders" for "designated under this subparagraph by the regulated investment company".
 
-Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), in concluding provisions, substituted "reported by theregulated investment company as qualified dividend income in written statements furnished to its shareholders" for "designated by the regulated investment company".
+Subsec. (b)(1)(B)(i). Pub. L. 111–325, §301(e)(1)(B), in concluding provisions, substituted "reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders" for "designated by the regulated investment company".
 
 Subsec. (b)(1)(C)(i). Pub. L. 111–325, §301(e)(1)(C), substituted "reported" for "designated".
 

@@ -2,7 +2,7 @@
 
 #### (a) Specified property; manner of acquisition
 
-(1) The Secretary is authorized to acquire the properties designated in paragraph (2) of this subsection, or any interest therein, by donation, purchase with donated or appropriated funds, condemnation, or otherwise. Any property or interest therein owned by the Commonwealth of Massachusetts or any political subdivision thereof may be acquired only by donation. The Secretary may initiate condemnation proceedings under this paragraph only after making every reasonable effort to acquire propertythrough negotiations and purchase, and consulting with the Commission (if established) and the city council of Lowell.
+(1) The Secretary is authorized to acquire the properties designated in paragraph (2) of this subsection, or any interest therein, by donation, purchase with donated or appropriated funds, condemnation, or otherwise. Any property or interest therein owned by the Commonwealth of Massachusetts or any political subdivision thereof may be acquired only by donation. The Secretary may initiate condemnation proceedings under this paragraph only after making every reasonable effort to acquire property through negotiations and purchase, and consulting with the Commission (if established) and the city council of Lowell.
 
 (2) The properties referred to in paragraph (1) of this subsection are the following:
 

@@ -64,7 +64,7 @@ Subject to the availability of funds and in consultation with other appropriate 
 
 #### (d) Criteria for approval
 
-The Secretary may approve a project proposal under this section if the project will enhance programs for conservation of great apes by assisting efforts to—
+The Secretary may approve a project proposal under this section if the project will enhanceprograms for conservation of great apes by assisting efforts to—
 
 &emsp;(1) implement conservation programs;
 

@@ -48,7 +48,7 @@ Counterfeit military goods or services and counterfeit drugs.—Whoever commits 
 
 (c)
 
-Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+Forfeiture and Destruction of Property; Restitution.—Forfeiture, destruction,and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
 
 (d)
 
@@ -184,7 +184,7 @@ Subsec. (e)(1)(A). Pub. L. 109–181, §1(b)(3)(A), added subpar. (A) and struck
 
 &emsp;"(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or".
 
-Subsec. (e)(2). Pub. L. 109–181, §2(b)(1), added par. (2) and struck out former par. (2) which read as follows: "the term 'traffic' means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and".
+Subsec. (e)(2). Pub. L. 109–181, §2(b)(1), added par. (2) and struck out former par. (2) which read as follows:"the term 'traffic' means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and".
 
 Subsec. (e)(3), (4). Pub. L. 109–181, §2(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 

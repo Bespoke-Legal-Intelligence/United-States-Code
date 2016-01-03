@@ -2,7 +2,7 @@
 
 #### (a) On contractors and licensees
 
-No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Datauntil the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
+No arrangement shall be made under section 2051 of this title, no contract shall be made or continued in effect under section 2061 of this title, and no license shall be issued under section 2133 or 2134 of this title, unless the person with whom such arrangement is made, the contractor or prospective contractor, or the prospective licensee agrees in writing not to permit any individual to have access to Restricted Data until the Director of the Office of Personnel Management shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual, and the Commission shall have determined that permitting such person to have access to Restricted Data will not endanger the common defense and security.
 
 #### (b) Employment of personnel; access to Restricted Data
 
@@ -40,7 +40,7 @@ The Commission shall establish standards and specifications in writing as to the
 
 Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934; Pub. L. 108–136, div. C, title XXXI, §3131, Nov. 24, 2003, 117 Stat. 1749.)
+(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944;Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934; Pub. L. 108–136, div. C, title XXXI, §3131, Nov. 24, 2003, 117 Stat. 1749.)
 
 #### Prior Provisions
 
@@ -50,7 +50,7 @@ Provisions similar to this section were contained in section 1810(b)(5) of this 
 
 <b>2003</b>—Subsec. (e)(2). Pub. L. 108–136, §3131(b), struck out "or a Personnel Security and Assurance Program" after "Special Access Program".
 
-Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: "Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigationand reports required by such provisions shall be made by the Federal Bureau of Investigation."
+Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: "Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation."
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 

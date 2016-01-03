@@ -104,7 +104,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) Flexible premium life insurance contract
 
-&emsp;&emsp;The terms "flexible premium life insurance contract" and "contract" mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timingand amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
+&emsp;&emsp;The terms "flexible premium life insurance contract" and "contract" mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
 
 #### (B) Premiums paid
 
@@ -284,7 +284,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) shall not apply with respect to the death of any public safety officer if, as determined in accordance with the provisions ofthe Omnibus Crime Control and Safe Streets Act of 1968—
+&emsp;Paragraph (1) shall not apply with respect to the death of any public safety officer if, as determined in accordance with the provisions of the Omnibus Crime Control and Safe Streets Act of 1968—
 
 &emsp;&emsp;(A) the death was caused by the intentional misconduct of the officer or by such officer's intention to bring about such officer's death;
 
@@ -520,7 +520,7 @@ Pub. L. 99–514, title X, §1001(d), Oct. 22, 1986, 100 Stat. 2387, provided th
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 221(b)(2) of Pub. L. 98–369 effective Jan. 1, 1984, see section 221(d)(4) of Pub. L.98–369, set out as an Effective Date note under section 7702 of this title.
+Amendment by section 221(b)(2) of Pub. L. 98–369 effective Jan. 1, 1984, see section 221(d)(4) of Pub. L. 98–369, set out as an Effective Date note under section 7702 of this title.
 
 Amendment by section 421(b)(2) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have repeal apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
@@ -528,7 +528,7 @@ Amendment by section 713 of Pub. L. 98–369 effective as if included in the pro
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §266(c)(1), Sept. 3, 1982, 96 Stat. 550, as amended by Pub. L. 98–369, div. A, title II, §221(b)(1), July 18, 1984, 98 Stat. 772, provided that: "The amendments made by this section \[amending this section\] shall apply to contracts entered into before January 1, 1985."
+Pub. L. 97–248, title II, §266(c)(1), Sept. 3, 1982, 96 Stat. 550, as amended by Pub. L. 98–369, div. A, title II,§221(b)(1), July 18, 1984, 98 Stat. 772, provided that: "The amendments made by this section \[amending this section\] shall apply to contracts entered into before January 1, 1985."
 
 Amendment by section 239 of Pub. L. 97–248 applicable to decedents dying after Dec. 31, 1983, see section 241(b) of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title. Such amendment is applicable, in the case of amounts received under the plan of an S corporation, with respect to decedents dying after Dec. 31, 1982, notwithstanding section 241(b) of Pub. L. 97–248, see section 6(b)(2) of Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1697, set out as a note under section 1361 of this title.
 

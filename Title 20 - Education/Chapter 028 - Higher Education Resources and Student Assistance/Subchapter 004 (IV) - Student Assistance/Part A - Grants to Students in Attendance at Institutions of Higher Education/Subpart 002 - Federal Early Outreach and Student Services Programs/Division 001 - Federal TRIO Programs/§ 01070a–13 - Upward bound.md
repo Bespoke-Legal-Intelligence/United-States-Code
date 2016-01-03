@@ -32,7 +32,7 @@ Any project assisted under this section shall provide—
 
 #### (c) Additional required services for multiple-year grant recipients
 
-Any project assisted under this section which has received funding for two or more years shall include, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
+Any project assisted under this section which has received funding for two or more years shallinclude, as part of the core curriculum in the next and succeeding years, instruction in mathematics through precalculus, laboratory science, foreign language, composition, and literature.
 
 #### (d) Permissible services
 
@@ -90,7 +90,7 @@ Upon enactment of this subsection and except as otherwise expressly provided by 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
-Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted "Additional required services for multiple-year grant recipients" for "Required services" in heading and "project assisted under this section" for "upward bound project assisted under this division" in text.
+Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted "Additional required services for multiple-year grantrecipients" for "Required services" in heading and "project assisted under this section" for "upward bound project assisted under this division" in text.
 
 Subsec. (d). Pub. L. 110–315, §403(c)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 

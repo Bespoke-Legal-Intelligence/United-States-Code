@@ -102,7 +102,7 @@ Exception.—Service described in section 8331(31) or 8401(36) of title 5, Unite
 
 &emsp;"(C)
 
-Minimum annuity amount.—The annuity of an individual serving as a customs and border protectionofficer on the effective date under paragraph (1) pursuant to an appointment made before that date shall, to the extent that its computation is based on service rendered as a customs and border protection officer on or after that date, be at least equal to the amount that would be payable—
+Minimum annuity amount.—The annuity of an individual serving as a customs and border protection officer on the effective date under paragraph (1) pursuant to an appointment made before that date shall, to the extent that its computation is based on service rendered as a customs and border protection officer on or after that date, be at least equal to the amount that would be payable—
 
 &emsp;&emsp;"(i) to the extent that such service is subject to the Civil Service Retirement System, by applying section 8339(d) of title 5, United States Code, with respect to such service; and
 
@@ -176,7 +176,7 @@ Pub. L. 110–161, div. E, title V, §535(d), Dec. 26, 2007, 121 Stat. 2077, pro
 
 #### United States Park Police; Age Limits for Original Appointments
 
-Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for appointments to the United States Park Police, was repealed by Pub. L. 92–297, §11, May 16, 1972, 86 Stat. 145, effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
+Pub. L. 91–73, Sept. 26, 1969, 83 Stat. 116, which provided for age limits for appointments to the UnitedStates Park Police, was repealed by Pub. L. 92–297, §11, May 16, 1972, 86 Stat. 145, effective at the end of the 89th day after May 16, 1972. The Secretary of the Interior may fix age limits for appointment under subsec. (c) of this section.
 
 #### Ex. Ord. No. 11817. Office of Personnel Management Designated Agent To Concur With Agency Determination Fixing Age Limits for Making Original Appointments Respecting Law Enforcement Officer and Firefighter Positions
 

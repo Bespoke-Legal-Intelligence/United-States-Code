@@ -26,7 +26,7 @@ Authorization of appropriations.—There is authorized to be appropriated $10,00
 
 (c)
 
-Crediting Appropriations for Expenditures for Training.—The Secretary may creditto an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
+Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922.)
 
@@ -88,7 +88,7 @@ In this section, references to fiscal years ending September 30, 1980, 1981, and
 
 In subsection (a), the words "(except sections 60107 and 60114(b))" are substituted for "(other than provisions for which funds are authorized to be appropriated under subsection . . . (c) of this section or section 1687 of this Appendix)" to eliminate unnecessary words. The reference to subsection (b) is omitted as obsolete.
 
-In subsection (b), the words "(except sections 60107" are substituted for "(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)" to eliminate unnecessary words. The words "subsection (b) of this section or" are omitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
+In subsection (b), the words "(except sections 60107" are substituted for "(other than provisions for which funds are authorized to be appropriated under . . . section 1684(c) of this Appendix)" to eliminate unnecessary words. The words "subsection (b) of this section or" areomitted as obsolete. The reference to section 60114(b) of the revised title is added for clarity.
 
 In subsection (c)(1) and (2), the words "the Federal grants-in-aid provisions of" are omitted as surplus.
 

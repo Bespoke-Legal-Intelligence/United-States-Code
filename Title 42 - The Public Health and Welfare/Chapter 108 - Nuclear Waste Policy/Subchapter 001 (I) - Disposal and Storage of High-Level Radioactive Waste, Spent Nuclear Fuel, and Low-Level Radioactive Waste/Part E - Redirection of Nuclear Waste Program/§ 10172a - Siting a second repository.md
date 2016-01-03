@@ -2,7 +2,7 @@
 
 #### (a) Congressional action required
 
-The Secretary may not conduct site-specific activities with respect to a second repositoryunless Congress has specifically authorized and appropriated funds for such activities.
+The Secretary may not conduct site-specific activities with respect to a second repository unless Congress has specifically authorized and appropriated funds for such activities.
 
 #### (b) Report
 

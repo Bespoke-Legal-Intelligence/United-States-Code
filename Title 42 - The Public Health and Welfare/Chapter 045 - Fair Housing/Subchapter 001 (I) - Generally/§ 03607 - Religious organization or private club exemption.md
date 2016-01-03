@@ -24,7 +24,7 @@
 
 (3) Housing shall not fail to meet the requirements for housing for older persons by reason of:
 
-&emsp;(A) persons residing in such housing as of September 13, 1988, who do not meet the age requirements of subsections <sup>1</sup> (2)(B) or (C): <i>Provided</i>, That new occupants of such housing meet the age requirements of subsections <sup>1</sup> (2)(B) or (C); or
+&emsp;(A) persons residing in such housing as of September 13, 1988, who do not meet the age requirements of subsections <sup>1</sup> (2)(B) or (C): <i>Provided</i>, That new occupants of such housingmeet the age requirements of subsections <sup>1</sup> (2)(B) or (C); or
 
 &emsp;(B) unoccupied units: <i>Provided</i>, That such units are reserved for occupancy by persons who meet the age requirements of subsections <sup>1</sup> (2)(B) or (C).
 

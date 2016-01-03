@@ -78,7 +78,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;(ii) to not be delivering a high-quality and comprehensive Head Start program shall be subject to an open competition as described in subsection (d); and
 
-&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-qualityand comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
+&emsp;&emsp;&emsp;(iii) in the case of an Indian Head Start agency, to not be delivering a high-quality and comprehensive Head Start program shall (notwithstanding clause (ii)) be subject to the requirements of subparagraph (B).
 
 #### (B) Tribal government consultation and reevaluation
 
@@ -146,19 +146,17 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(H) the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
 
-&emsp;&emsp;&emsp;(i) programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6371 et seq., 6381 et seq.);
+&emsp;&emsp;&emsp;(i) preschool programs under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.);
 
-&emsp;&emsp;&emsp;(ii) other preschool programs under title I of that Act (20 U.S.C. 6301 et seq.);
+&emsp;&emsp;&emsp;(ii) programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
 
-&emsp;&emsp;&emsp;(iii) programs under section 619 and part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.);
+&emsp;&emsp;&emsp;(iii) State prekindergarten programs;
 
-&emsp;&emsp;&emsp;(iv) State prekindergarten programs;
+&emsp;&emsp;&emsp;(iv) child care programs;
 
-&emsp;&emsp;&emsp;(v) child care programs;
+&emsp;&emsp;&emsp;(v) the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
 
-&emsp;&emsp;&emsp;(vi) the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
-
-&emsp;&emsp;&emsp;(vii) local entities, such as a public or school library, for—
+&emsp;&emsp;&emsp;(vi) local entities, such as a public or school library, for—
 
 &emsp;&emsp;&emsp;&emsp;(I) conducting reading readiness programs;
 
@@ -176,7 +174,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;(ii) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance, as appropriate;
 
-&emsp;&emsp;&emsp;(iii) to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+&emsp;&emsp;&emsp;(iii) to offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
 
 &emsp;&emsp;&emsp;&emsp;(I) family literacy services; and
 
@@ -206,7 +204,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;&emsp;&emsp;(II) targeting increased male participation in the conduct of the program;
 
-&emsp;&emsp;(K) the plan of such applicant to meet the needs of limited English proficient children and their families, including procedures to identify such children, plans to provide trained personnel, and plans to provide services to assist the children in making progress toward the acquisition of the English language, while making meaningful progress in attaining the knowledge, skills, abilities, and development described in section 9836a(a)(1)(B) of this title;
+&emsp;&emsp;(K) the plan of such applicant to meet the needs of limited English proficient children and their families, including procedures to identify such children, plans to provide trained personnel, and plans to provide services to assist the children in makingprogress toward the acquisition of the English language, while making meaningful progress in attaining the knowledge, skills, abilities, and development described in section 9836a(a)(1)(B) of this title;
 
 &emsp;&emsp;(L) the plan of such applicant to meet the diverse needs of the population served;
 
@@ -244,15 +242,21 @@ The Secretary shall require that the practice of significantly involving parents
 
 For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378.)
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378; Pub. L. 114–95, title IX, §9215(nn)(2), Dec. 10, 2015, 129 Stat. 2176.)
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(H)(i), (ii), (J)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. Subparts 2 and 3 of part B of title I of the Act are classified generally to subparts 2 (§6371 et seq.) and 3 (§6381 et seq.), respectively, of part B of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(H)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H)(iii), (N), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H)(ii), (N), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+Subsec. (d)(2)(H)(i). Pub. L. 114–95, §9215(nn)(2)(A), redesignated cl. (ii) as (i), struck out "other" before "preschool programs" and substituted "the Elementary and Secondary Education Act of 1965" for "that Act", and struck out former cl. (i) which read as follows: "programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6371 et seq., 6381 et seq.);".
+
+Subsec. (d)(2)(H)(ii) to (vii). Pub. L. 114–95, §9215(nn)(2)(A)(ii), redesignated cls. (iii) to (vii) as (ii) to (vi), respectively. Former cl. (ii) redesignated (i).
+
+Subsec. (d)(2)(J)(iii). Pub. L. 114–95, §9215(nn)(2)(B), struck out ", such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6381 et seq.)" after "local entities" in introductory provisions.
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitled to priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
 
@@ -330,7 +334,7 @@ Subsec. (d)(8), (9). Pub. L. 103–252, §107(c)(5), (6), redesignated par. (9) 
 
 Subsecs. (f), (g). Pub. L. 103–252, §107(d), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "The provisions of subsections (c), (d), and (e) of this section shall be applied by the Secretary in the distribution of any additional appropriations made available under this subchapter during any fiscal year as well as to initial designations of Head Start agencies."
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end "Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refundinghas been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title."
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–401, §2(e)(1), inserted at end "Notwithstanding any other provision of this paragraph, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title."
 
 Subsec. (c)(2). Pub. L. 102–401, §2(f), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -363,6 +367,10 @@ Subsecs. (d) to (f). Pub. L. 98–558, §104(c), added subsecs. (d) and (e) and 
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1994 Amendment
 

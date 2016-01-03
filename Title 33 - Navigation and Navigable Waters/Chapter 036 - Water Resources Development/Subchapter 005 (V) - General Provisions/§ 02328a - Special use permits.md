@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) adjacent to or near a State or local park or recreation area; and
 
-&emsp;&emsp;&emsp;(ii) the Secretary determines that cooperative management between the Corps of Engineers and a State or local governmentagency of a portion of the Corps of Engineers recreation area or State or local park or recreation area will allow for more effective and efficient management of those areas.
+&emsp;&emsp;&emsp;(ii) the Secretary determines that cooperative management between the Corps of Engineers and a State or local government agency of a portion of the Corps of Engineers recreation area or State or local park or recreation area will allow for more effective and efficient management of those areas.
 
 #### (B) Restriction
 

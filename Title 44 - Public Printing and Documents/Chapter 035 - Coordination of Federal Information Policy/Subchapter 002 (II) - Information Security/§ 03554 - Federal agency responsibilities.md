@@ -18,15 +18,17 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(ii) operational directives developed by the Secretary under section 3553(b);
 
-&emsp;&emsp;&emsp;(iii) policies and procedures issued by the Director; and
+&emsp;&emsp;&emsp;(iii) policies and procedures issued by the Director;
 
 &emsp;&emsp;&emsp;(iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+
+&emsp;&emsp;&emsp;(v) emergency directives issued by the Secretary under section 3553(h); and
 
 &emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
 
 &emsp;(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—
 
-&emsp;&emsp;(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption,modification, or destruction of such information or information systems;
+&emsp;&emsp;(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;
 
 &emsp;&emsp;(B) determining the levels of information security appropriate to protect such information and information systems in accordance with standards promulgated under section 11331 of title 40, for information security classifications and related requirements;
 
@@ -196,11 +198,15 @@ Performance Plan.—(1) In addition to the requirements of subsection (c), each 
 
 Public Notice and Comment.—Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078.)
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078; amended Pub. L. 114–113, div. N, title II, §229(b), Dec. 18, 2015, 129 Stat. 2974.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 3534 and 3544 of this title prior to repeal by Pub. L. 113–283.
+
+#### Amendments
+
+<b>2015</b>—Subsec. (a)(1)(B)(v). Pub. L. 114–113 added cl. (v).
 
 #### Major Incident
 

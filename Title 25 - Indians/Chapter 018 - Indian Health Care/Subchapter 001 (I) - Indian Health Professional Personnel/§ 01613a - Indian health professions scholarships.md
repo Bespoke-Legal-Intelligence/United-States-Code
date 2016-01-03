@@ -6,9 +6,9 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 #### (b) Recipients; active duty service obligation
 
-(1) The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) of this section and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
+(1) The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
 
-(2) An individual shall be eligible for a scholarship under subsection (a) of this section in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
+(2) An individual shall be eligible for a scholarship under subsection (a) in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
 
 (3)(A) The active duty service obligation under a written contract with the Secretary under section 254l of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—
 
@@ -20,7 +20,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(iv) in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or <sup>2</sup>
 
-(B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
+(B) At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine),dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
 
 &emsp;(i) No period of internship, residency, or other advanced clinical training shall be counted as satisfying any period of obligated service that is required under this section.
 
@@ -80,7 +80,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
-(Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
+(Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat.4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
 
 #### References in Text
 

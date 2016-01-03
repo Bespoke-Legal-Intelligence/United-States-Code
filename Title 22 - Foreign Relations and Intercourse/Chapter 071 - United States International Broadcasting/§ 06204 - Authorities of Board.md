@@ -42,7 +42,7 @@ The Board shall have the following authorities:
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Bureau, or the Board before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
-&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schoolsavailable in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
 
 &emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
 

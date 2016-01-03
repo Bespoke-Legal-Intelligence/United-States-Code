@@ -22,7 +22,7 @@ In general.—The Administrator shall charge the producer or vendor a fee for th
 
 &emsp;(2)
 
-Amount of fee if tests predominantly serve interest of producer or vendor.—If the Administrator determines that conducting the tests predominantly serves the interest of the producer or vendor, the Administrator shall fix the fee in an amount that will recover the costs of conducting the tests, including all components of the costs, determined in accordance with accepted accounting principles.
+Amount of fee if tests predominantly serve interest of producer or vendor.—Ifthe Administrator determines that conducting the tests predominantly serves the interest of the producer or vendor, the Administrator shall fix the fee in an amount that will recover the costs of conducting the tests, including all components of the costs, determined in accordance with accepted accounting principles.
 
 &emsp;(3)
 

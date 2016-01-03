@@ -12,6 +12,10 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 A prior section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which related to declaration of policy and purpose of former chapter 14 of this title, was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
+#### Short Title of 2015 Amendment
+
+Pub. L. 114–17, §1, May 22, 2015, 129 Stat. 201, provided that: "This Act \[enacting section 2160e of this title\]may be cited as the 'Iran Nuclear Agreement Review Act of 2015'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 112–239, div. C, title XXXI, §3171, Jan. 2, 2013, 126 Stat. 2211, provided that: "This subtitle \[subtitle F (§§3171–3178) of title XXXI of div. C of Pub. L. 112–239, enacting sections 2065 and 2142 of this title, amending section 2160d of this title, and enacting provisions set out as a note under section 2065 of this title\] may be cited as the 'American Medical Isotopes Production Act of 2012'."
@@ -34,7 +38,7 @@ Pub. L. 100–408, §1, Aug. 20, 1988, 102 Stat. 1066, provided that: "This Act 
 
 #### Short Title of 1964 Amendment
 
-Pub. L. 88–489, §21, Aug. 26, 1964, 78 Stat. 607, provided that: "This Act \[amending sections 2012, 2013, 2073 to2078, 2135, 2153, 2201, 2221, 2233, and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under sections 2012 and 2072 of this title\] may be cited as the 'Private Ownership of Special Nuclear Materials Act'."
+Pub. L. 88–489, §21, Aug. 26, 1964, 78 Stat. 607, provided that: "This Act \[amending sections 2012, 2013, 2073 to 2078, 2135, 2153, 2201, 2221, 2233, and 2234 of this title, repealing section 2072 of this title, and enacting provisions set out as notes under sections 2012 and 2072 of this title\] may be cited as the 'Private Ownership of Special Nuclear Materials Act'."
 
 #### Short Title of 1958 Amendment
 

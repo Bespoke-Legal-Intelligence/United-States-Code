@@ -10,7 +10,7 @@
 
 &emsp;(ii) 90 percent of the amount received and used under this subpart for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this subpart after fiscal year 1999 and is afirst or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 
@@ -26,7 +26,7 @@
 
 > an amount equal to 90 percent of the amount it received under this subsection in its second year of participation.
 
-(3)(A) If the amount appropriated for any fiscal year is less than the amount required to beallocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
+(3)(A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
 
 (B) If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
 
@@ -76,7 +76,7 @@
 
 &emsp;(H) add the amounts determined under subparagraphs (E) and (G).
 
-(3)(A) For purposes of paragraph (2), the term "average cost of attendance" means the average of the attendance costs for undergraduate students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
+(3)(A) For purposes of paragraph (2), the term "average cost of attendance" means the averageof the attendance costs for undergraduate students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
 (B) The average undergraduate tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section 401(b)(6) of Pub. L. 99–498, as added by Pub. L. 100–50, §22(a)(2), June 3, 1987, 101 Stat. 361, providedthat: "The changes made in section 413D of the Act \[this section\] shall apply with respect to the allocation of funds for the academic year 1988–1989 and succeeding academic years."
+Section 401(b)(6) of Pub. L. 99–498, as added by Pub. L. 100–50, §22(a)(2), June 3, 1987, 101 Stat. 361, provided that: "The changes made in section 413D of the Act \[this section\] shall apply with respect to the allocation of funds for the academic year 1988–1989 and succeeding academic years."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

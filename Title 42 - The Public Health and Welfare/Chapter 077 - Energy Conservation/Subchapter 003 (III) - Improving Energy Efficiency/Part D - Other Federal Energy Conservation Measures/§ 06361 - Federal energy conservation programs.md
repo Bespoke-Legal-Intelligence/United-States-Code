@@ -28,7 +28,7 @@ The plan developed by the President pursuant to subsection (a)(2) of this sectio
 
 #### (e) Authorization of appropriations
 
-In addition to funds authorized in any other law, there is authorized to be appropriated tothe President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
+In addition to funds authorized in any other law, there is authorized to be appropriated to the President for fiscal year 1978 not to exceed $25,000,000, and for fiscal year 1979 not to exceed $50,000,000, to carry out the purposes of subsection (a)(2) of this section.
 
 (Pub. L. 94–163, title III, §381, Dec. 22, 1975, 89 Stat. 939; Pub. L. 95–619, title V, §501, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288; Pub. L. 100–615, §2(b), Nov. 5, 1988, 102 Stat. 3189.)
 
@@ -62,7 +62,7 @@ Responsibilities of Executive Agencies
 
 1–102. Agencies shall establish an annual ridesharing goal tailored to each facility, and expressed as a percentage of fulltime personnel working at that facility who use ridesharing in the commute between home and work. Agencies that share facilities or that are within easy walking distance of one another should coordinate their efforts to develop and implement ridesharing opportunities.
 
-1–103. Agencies shall designate, in accordance with OMB Circular A–118, an employee transportation coordinator. Agencies that share facilities may designate a single transportation coordinator. The coordinator shall assist employees in forming carpools or vanpools (employee-owned or leased) and facilitate employee participation in ridesharing matching programs. The coordinator shall publicize within the facility the availability of public transportation. The coordinator shall also communicate employee needs for new or improved transportation service to the appropriate local public transit authorities or other organizations furnishing multi-passenger modes of travel.
+1–103. Agencies shall designate, in accordance with OMB Circular A–118, an employee transportation coordinator. Agencies that share facilities may designate a single transportation coordinator. The coordinator shall assist employees in forming carpools or vanpools (employee-owned or leased) and facilitate employee participation in ridesharing matching programs. The coordinator shall publicize within the facility the availability of public transportation. The coordinator shall also communicate employee needs for new or improved transportation service to the appropriate localpublic transit authorities or other organizations furnishing multi-passenger modes of travel.
 
 1–104. Agencies shall report to the Administrator of General Services, hereinafter referred to as the Administrator, the goals established, the means developed to achieve those goals, and the progress achieved. These reports shall be in such form and frequency as the Administrator may require.
 

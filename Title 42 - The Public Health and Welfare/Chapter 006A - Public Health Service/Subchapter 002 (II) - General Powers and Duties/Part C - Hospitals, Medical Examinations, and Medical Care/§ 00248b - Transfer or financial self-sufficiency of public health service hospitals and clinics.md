@@ -18,7 +18,7 @@ The Secretary shall evaluate promptly each proposal submitted under subsection (
 
 &emsp;(3) has a reasonable expectation of financial viability and, in the case of a hospital or station that is not proposed to be transferred, of financial self-sufficiency.
 
-Paragraph (1) shall not apply in the case of a proposal for the transfer of a discrete, minor, freestanding part of a hospital or station to a local public entity for the purpose of continuing the provision of services to refugees.
+Paragraph (1) shall not apply in the case of a proposal for the transfer of a discrete, minor,freestanding part of a hospital or station to a local public entity for the purpose of continuing the provision of services to refugees.
 
 #### (d) Rejection or approval of proposal
 
@@ -68,7 +68,7 @@ Pub. L. 97–35, title IX, §985, Aug. 13, 1981, 95 Stat. 602, provided that:
 
 "(b) The purposes of this subtitle \[enacting this section, amending sections 201, 249, and 254e of this title, and enacting provisions set out as notes under section 249 of this title\] are—
 
-&emsp;"(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitals and clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be sotransferred or which can achieve such financial self-sufficiency, and
+&emsp;"(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitals and clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be so transferred or which can achieve such financial self-sufficiency, and
 
 &emsp;"(2) to provide for transitional assistance for merchant seamen whose entitlement to receive free care through Public Health Service hospitals and clinics is repealed and who are hospitalized at the end of fiscal year 1981 and require continuing hospitalization."
 

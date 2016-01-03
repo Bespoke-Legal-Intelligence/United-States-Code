@@ -16,3 +16,7 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" in three places.
 
+#### Effective Date
+
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
+

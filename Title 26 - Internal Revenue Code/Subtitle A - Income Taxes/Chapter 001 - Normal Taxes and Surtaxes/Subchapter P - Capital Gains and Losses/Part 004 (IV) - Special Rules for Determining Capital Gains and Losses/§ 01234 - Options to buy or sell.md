@@ -36,7 +36,7 @@
 
 #### (B) Property
 
-&emsp;&emsp;The term "property" means stocks and securities (including stocks and securitiesdealt with on a "when issued" basis), commodities, and commodity futures.
+&emsp;&emsp;The term "property" means stocks and securities (including stocks and securities dealt with on a "when issued" basis), commodities, and commodity futures.
 
 #### (3) Nonapplication of subsection
 

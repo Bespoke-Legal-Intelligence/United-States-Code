@@ -122,7 +122,7 @@ A political subdivision shall not participate in more than one partnership descr
 
 &emsp;&emsp;The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as required under subsection (i).
 
-(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, titleXI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176.)
+(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176.)
 
 #### Amendments
 

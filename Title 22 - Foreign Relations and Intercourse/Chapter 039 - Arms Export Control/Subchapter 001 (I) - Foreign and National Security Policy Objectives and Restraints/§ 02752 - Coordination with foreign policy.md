@@ -20,7 +20,7 @@ Under the direction of the President, the Secretary of State (taking into accoun
 
 #### (c) Coordination among representatives of United States
 
-The President shall prescribe appropriate procedures to assure coordination among representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission. The Chief ofthe diplomatic mission shall make sure that recommendations of such representatives pertaining to sales are coordinated with political and economic considerations, and his comments shall accompany such recommendations if he so desires.
+The President shall prescribe appropriate procedures to assure coordination among representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission. The Chief of the diplomatic mission shall make sure that recommendations of such representatives pertaining to sales are coordinated with political and economic considerations, and his comments shall accompany such recommendations if he so desires.
 
 (Pub. L. 90–629, ch. 1, §2, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 94–329, title II, §212(a)(2), June 30, 1976, 90 Stat. 745; Pub. L. 97–113, title I, §109(b)(1), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §115(b)(1), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, §1102(a)(2), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991.)
 

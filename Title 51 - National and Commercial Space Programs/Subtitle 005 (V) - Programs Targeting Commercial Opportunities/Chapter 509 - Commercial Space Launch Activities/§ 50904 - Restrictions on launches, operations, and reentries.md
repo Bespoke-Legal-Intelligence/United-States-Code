@@ -24,9 +24,9 @@ Preventing Launches and Reentries.—The Secretary of Transportation shall estab
 
 (d)
 
-Single License or Permit.—The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
+Single License or Permit.—The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew, government astronauts, or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70104 of title 49; Pub. L. 105–303, title I, §102(a)(5), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(3)–(5), Dec. 23, 2004, 118 Stat. 3976; renumbered §70104 then §50904 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(D), (5)(C)–(E), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70104 of title 49; Pub. L. 105–303, title I, §102(a)(5), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(3)–(5), Dec. 23, 2004, 118 Stat. 3976; renumbered §70104 then §50904 of title 51 and amended Pub. L. 111–314, §4(d)(2), (3)(D), (5)(C)–(E), Dec. 18, 2010, 124 Stat. 3440, 3441; Pub. L. 114–90, title I, §112(k), Nov. 25, 2015, 129 Stat. 713.)
 
 Historical and Revision Notes
 
@@ -64,6 +64,8 @@ In subsection (c), the words "by Federal law", "which is to be launched", "by an
 
 #### Amendments
 
+<b>2015</b>—Subsec. (d). Pub. L. 114–90 substituted "activities involving crew, government astronauts, or space flight participants" for "activities involving crew or space flight participants".
+
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(D), successively renumbered section 70104 of title 49 and section 70104 of this title as this section.
 
 Subsec. (a)(2). Pub. L. 111–314, §4(d)(5)(C), substituted "section 50902(1)(A) or (B)" for "section 70102(1)(A) or (B)".
@@ -86,5 +88,5 @@ Subsec. (a)(3), (4). Pub. L. 105–303, §102(a)(5)(B), (C), inserted "or reentr
 
 Subsec. (b). Pub. L. 105–303, §102(a)(5)(D), struck out "launch" before "license" and inserted "or reenter" after "may launch" and "or reentering" after "related to launching".
 
-Subsec. (c). Pub. L. 105–303, §102(a)(5)(E), substituted "Preventing Launches and Reentries" for "Preventing Launches" in heading and inserted "or reentry" after "prevent the launch" and after "decides the launch" in second sentence.
+Subsec. (c). Pub. L. 105–303, §102(a)(5)(E), substituted "Preventing Launches and Reentries" for "Preventing Launches" in heading and inserted "or reentry" after"prevent the launch" and after "decides the launch" in second sentence.
 

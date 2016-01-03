@@ -26,7 +26,7 @@
 
 (f) This section does not authorize the appropriation of additional amounts to pay an interest penalty. The head of an agency shall pay a penalty under this section out of amounts made available to carry out the program for which the penalty is incurred.
 
-(g) A recipient of a grant from the head of an agency may provide in a contract for the acquisition of property or service from a business concern that, consistent with the usual business practices of the recipient and applicable State and local law, the recipient will pay an interest penalty on amounts overdue under the contract under conditions agreed to by the recipient and the concern. The recipient may not pay the penalty from amounts received from an agency. Amounts expended for the penalty may not becounted toward a matching requirement applicable to the grant. An obligation to pay the penalty is not an obligation of the United States Government.
+(g) A recipient of a grant from the head of an agency may provide in a contract for the acquisition of property or service from a business concern that, consistent with the usual business practices of the recipient and applicable State and local law, the recipient will pay an interest penalty on amounts overdue under the contract under conditions agreed to by the recipient and the concern. The recipient may not pay the penalty from amounts received from an agency. Amounts expended for the penalty may not be counted toward a matching requirement applicable to the grant. An obligation to pay the penalty is not an obligation of the United States Government.
 
 (h)(1) This section shall apply to contracts for the procurement of property or services entered into pursuant to section 4(h) of the Act of June 29, 1948 (15 U.S.C. 714b(h)).
 
@@ -132,7 +132,7 @@ Subsec. (h). Pub. L. 100–496, §3(c), added subsec. (h).
 
 Pub. L. 100–496, §14(a)–(c), Oct. 17, 1988, 102 Stat. 2465, 2466, provided that:
 
-"(a) The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act \[enacting section 3905 of this title, amending this section, sections 3901, 3903, and 3904 of this title and section 644 of Title 15, Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under section 3903 of this title\] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 17, 1988\].
+"(a) The amendments made by sections 2(a), 2(b), 3(a), 4 through 9, 12, and 13 of this Act \[enacting section 3905of this title, amending this section, sections 3901, 3903, and 3904 of this title and section 644 of Title 15, Commerce and Trade, renumbering sections 3905 and 3906 of this title as sections 3906 and 3907, respectively, and repealing provisions set out as a note under section 3903 of this title\] shall apply to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after the date of the enactment of this Act \[Oct. 17, 1988\].
 
 "(b) The requirements of section 3902(c)(2) of title 31, United States Code, as added by section 3(b) of this Act, shall apply to payments under contracts awarded on or after October 1, 1989.
 

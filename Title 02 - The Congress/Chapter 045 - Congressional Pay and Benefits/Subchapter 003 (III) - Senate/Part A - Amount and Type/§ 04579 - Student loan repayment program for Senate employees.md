@@ -104,7 +104,7 @@ In this section:
 
 #### (3) Timing of payments
 
-&emsp;Student loan payments made under this section under a service agreement shall begin the first day of the pay period after the date onwhich the agreement is signed and received by the Secretary, and shall be made on a monthly basis.
+&emsp;Student loan payments made under this section under a service agreement shall begin the first day of the pay period after the date on which the agreement is signed and received by the Secretary, and shall be made on a monthly basis.
 
 #### (d) Loss of eligibility for student loan payments and obligation to reimburse
 
@@ -184,7 +184,7 @@ In this section:
 
 &emsp;&emsp;(A) the receipt by the Secretary of a signed service agreement; and
 
-&emsp;&emsp;(B) verification by the Secretary with the holder of the loan that the eligible employeehas an outstanding student loan balance that qualifies for payment under this section.
+&emsp;&emsp;(B) verification by the Secretary with the holder of the loan that the eligible employee has an outstanding student loan balance that qualifies for payment under this section.
 
 #### (3) Limitation
 
@@ -208,7 +208,7 @@ In this section:
 
 #### (8) No right to continued employment
 
-&emsp;A service agreement under this section shall not be construed to create a right to, promise of, or entitlement to the continued employment of the eligible employee.
+&emsp;A service agreement under this section shall not be construed to create a right to, promiseof, or entitlement to the continued employment of the eligible employee.
 
 #### (9) No entitlement
 
@@ -266,7 +266,7 @@ This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D\(§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -302,5 +302,5 @@ Subsec. (g)(1). Pub. L. 107–117, §916(2), substituted "subsection (h)(1)(A)" 
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–74, div. G, title I, §1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 23, 2011\] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60c–5) \[now 2 U.S.C. 4579\] or section 5379 of title 5, United States Code, on or after that date."
+Pub. L. 112–74, div. G, title I, §1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: "The amendments made bythis section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 23, 2011\] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60c–5) \[now 2 U.S.C. 4579\] or section 5379 of title 5, United States Code, on or after that date."
 

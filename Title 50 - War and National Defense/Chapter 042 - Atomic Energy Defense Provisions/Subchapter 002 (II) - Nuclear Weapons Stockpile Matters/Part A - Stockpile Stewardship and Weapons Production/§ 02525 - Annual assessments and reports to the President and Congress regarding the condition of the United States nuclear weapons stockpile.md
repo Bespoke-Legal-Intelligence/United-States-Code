@@ -14,7 +14,7 @@ The officials referred to in subsection (a) are the following:
 
 #### (c) Dual validation teams in support of assessments
 
-In support of the assessments required by subsection (a), the Administrator may establish teams, known as "dual validation teams", to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
+In support of the assessments required by subsection (a), the Administrator may establishteams, known as "dual validation teams", to provide each national security laboratory responsible for weapons design with independent evaluations of the condition of each warhead for which such laboratory has lead responsibility. A dual validation team established by the Administrator shall—
 
 &emsp;(1) be comprised of weapons experts from the laboratory that does not have lead responsibility for fielding the warhead being evaluated;
 
@@ -64,9 +64,11 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;(4) In the case of a report submitted by the Commander of the United States Strategic Command—
 
-&emsp;&emsp;(A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types; and
+&emsp;&emsp;(A) a discussion of the relative merits of other nuclear weapon types (if any), or compensatory measures (if any) that could be taken, that could enable accomplishment of the missions of the nuclear weapon types to which the assessments relate, should such assessments identify any deficiency with respect to such nuclear weapon types;
 
-&emsp;&emsp;(B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles.
+&emsp;&emsp;(B) a summary of all major assembly releases in place as of the date of the report for the active and inactive nuclear weapon stockpiles; and
+
+&emsp;&emsp;(C) the views of the Commander on the stockpile responsiveness program under section 2538b of this title, the activities conducted under such program, and any suggestions to improve such program.
 
 &emsp;(5) An identification and discussion of any matter having an adverse effect on the capability of the official submitting the report to accurately determine the matters covered by the assessments.
 
@@ -98,13 +100,15 @@ In this section, the term "Secretary concerned" means—
 
 &emsp;(2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074; Pub. L. 113–291, div. C, title XXXI, §3142(d), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074; Pub. L. 113–291, div. C, title XXXI, §3142(d), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(d), Nov. 25, 2015, 129 Stat. 1191.)
 
 #### Codification
 
 Section was formerly classified to section 7274s of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2015</b>—Subsec. (e)(4)(C). Pub. L. 114–92 added subpar. (C).
 
 <b>2014</b>—Subsec. (b)(2). Pub. L. 113–291 substituted "Commander" for "commander".
 

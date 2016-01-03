@@ -42,7 +42,7 @@ As used in this subchapter:
 
 (13) The term "felony" means any Federal or State offense classified by applicable Federal or State law as a felony.
 
-(14) The term "isomer" means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term "isomer" means any optical, positional, or geometric isomer. As used in schedule II(a)(4), the term "isomer" means any optical or geometric isomer.
+(14) The term "isomer" means the optical isomer, except as used in schedule I(c) and schedule II(a)(4). As used in schedule I(c), the term "isomer" means any optical, positional, or geometric isomer. As used in schedule II(a)(4), theterm "isomer" means any optical or geometric isomer.
 
 (15) The term "manufacture" means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term "manufacturer" means a person who manufactures a drug or other substance.
 
@@ -100,7 +100,7 @@ As used in this subchapter:
 
 (30) The term "detoxification treatment" means the dispensing, for a period not in excess of one hundred and eighty days, of a narcotic drug in decreasing doses to an individual in order to alleviate adverse physiological or psychological effects incident to withdrawal from the continuous or sustained use of a narcotic drug and as a method of bringing the individual to a narcotic drug-free state within such period.
 
-(31) The term "Convention on Psychotropic Substances" means the Convention on Psychotropic Substances signed at Vienna, Austria, on February 21, 1971; and the term "Single Convention on Narcotic Drugs" means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
+(31) The term "Convention on Psychotropic Substances" means the Convention on Psychotropic Substances signed at Vienna, Austria, onFebruary 21, 1971; and the term "Single Convention on Narcotic Drugs" means the Single Convention on Narcotic Drugs signed at New York, New York, on March 30, 1961.
 
 (32)(A) Except as provided in subparagraph (C), the term "controlled substance analogue" means a substance—
 
@@ -206,7 +206,7 @@ As used in this subchapter:
 
 (39) The term "regulated transaction" means—
 
-&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of a listed chemical, except that such term does not include—
+&emsp;(A) a distribution, receipt, sale, importation, or exportation of, or an international transaction involving shipment of, a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical, a threshold amount, including a cumulative threshold amount for multiple transactions (as determined by the Attorney General, in consultation with the chemical industry and taking into consideration the quantities normally used for lawful purposes), of alisted chemical, except that such term does not include—
 
 &emsp;&emsp;(i) a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
 
@@ -228,7 +228,7 @@ As used in this subchapter:
 
 (40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
 
-(41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (otherthan estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
+(41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
 
 &emsp;(i) androstanediol—
 
@@ -468,7 +468,7 @@ As used in this subchapter:
 
 (47) The term "mobile retail vendor" means a person or entity that makes sales at retail from a stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
 
-(48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemicalproduct, means a sale or purchase for personal use, respectively.
+(48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
 (49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
@@ -574,7 +574,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
 
-&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
+&emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitionerotherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
 &emsp;&emsp;&emsp;(IV) that requires immediate intervention by a health care practitioner using controlled substances to prevent what the practitioner reasonably believes in good faith will be imminent and serious clinical consequences, such as further injury or death; and
 
@@ -842,7 +842,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health andHuman Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
+Pub. L. 110–425, §3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: "The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act \[see Short Title of 2008 Amendment note set out under section 801 of this title\] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date \[see Effective Date of 2008 Amendment note above\]."
 
 Pub. L. 98–509, title III, §301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: "The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a)."
 

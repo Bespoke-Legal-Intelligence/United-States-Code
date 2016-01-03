@@ -4,7 +4,7 @@
 
 #### (1) No assistance for families without a minor child
 
-&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family,unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
+&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family, unless the family includes a minor child who resides with the family (consistent with paragraph (10)) or a pregnant individual.
 
 #### (2) Reduction or elimination of assistance for noncooperation in establishing paternity or obtaining child support
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) substantial evidence exists of an act or failure to act that presents an imminent or serious harm if the individual and the minor child lived in the same residence with the individual's own parent or legal guardian; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest ofthe minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
+&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest of the minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
 
 #### (iii) Second-chance home
 
@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliable data available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
+&emsp;&emsp;&emsp;In determining the number of months for which an adult has received assistance under a State or tribal program funded under this part, the State or tribe shall disregard any month during which the adult lived in Indian country or an Alaskan Native village if the most reliabledata available with respect to the month (or a period including the month) indicate that at least 50 percent of the adults living in Indian country or in the village were not employed.
 
 #### (ii) "Indian country" defined
 
@@ -182,7 +182,7 @@
 
 #### (C) Denial of assistance for relative who fails to notify State agency of absence of child
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home for the period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for an individual who is a parent (or other caretaker relative) of a minor child and who fails to notify the agency administering the State program funded under this part of the absence of the minor child from the home forthe period specified in or provided for pursuant to subparagraph (A), by the end of the 5-day period that begins with the date that it becomes clear to the parent (or relative) that the minor child will be absent for such period so specified or provided for.
 
 #### (11) Medical assistance required to be provided for certain families having earnings from employment or child support
 
@@ -318,7 +318,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (C) Sponsors of multiple non-213A aliens
 
-&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home, the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
+&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home,the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
 
 #### (2) Ineligibility of non-213A aliens sponsored by agencies; exception
 
@@ -332,7 +332,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(i) such information and documentation with respect to the alien's sponsor as may be necessary in order for the State agency to make any determination required under this subsection, and to obtain any cooperation from the sponsor necessary for any such determination; and
 
-&emsp;&emsp;&emsp;(ii) such information and documentation as the State agency may request andwhich the alien or the alien's sponsor provided in support of the alien's immigration application.
+&emsp;&emsp;&emsp;(ii) such information and documentation as the State agency may request and which the alien or the alien's sponsor provided in support of the alien's immigration application.
 
 #### (B) Duties of Federal agencies
 
@@ -382,7 +382,7 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

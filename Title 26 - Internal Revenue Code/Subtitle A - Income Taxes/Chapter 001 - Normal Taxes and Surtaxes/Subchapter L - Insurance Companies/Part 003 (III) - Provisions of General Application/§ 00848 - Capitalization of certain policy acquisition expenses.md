@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term "general deductions" means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term "general deductions" means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term "negative capitalization amount" means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term "negative capitalization amount" means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -168,7 +168,7 @@ Nothing in any provision of law (other than this section or section 197) shall r
 
 For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.
 
-(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5), (b)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(h), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 109–280, title VIII, §844(e), Aug. 17, 2006, 120 Stat. 1013; Pub. L. 113–295, div. A, title II, §221(a)(70), Dec. 19, 2014, 128 Stat. 4048.)
+(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5), (b)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A-628, 2763A-629; Pub. L. 108–173, title XII, §1201(h), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 109–280, title VIII, §844(e), Aug. 17, 2006, 120 Stat. 1013; Pub. L. 113–295, div. A, title II, §221(a)(70), Dec. 19, 2014, 128 Stat. 4048.)
 
 #### Amendments
 

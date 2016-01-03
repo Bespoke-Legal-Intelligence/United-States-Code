@@ -44,7 +44,7 @@ During the period beginning on February 7, 2014, and ending on September 30, 202
 
 #### (2) Payment amount
 
-&emsp;The amount of the annual payment shall be determined by the Secretary and based, to themaximum extent practicable, on the following factors:
+&emsp;The amount of the annual payment shall be determined by the Secretary and based, to the maximum extent practicable, on the following factors:
 
 &emsp;&emsp;(A) Costs incurred by the producer associated with planning, design, materials, installation, labor, management, maintenance, or training.
 

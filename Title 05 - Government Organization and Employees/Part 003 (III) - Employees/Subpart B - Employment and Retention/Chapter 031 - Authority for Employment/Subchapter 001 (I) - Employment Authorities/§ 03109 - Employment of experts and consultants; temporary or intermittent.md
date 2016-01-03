@@ -76,7 +76,7 @@ Pub. L. 113–76, div. G, title IV, §401, Jan. 17, 2014, 128 Stat. 337, provide
 
 #### Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract
 
-Pub. L. 102–394, title V, §501, Oct. 6, 1992, 106 Stat. 1825, provided that: "The expenditure of any appropriation under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwiseprovided under existing law, or under existing Executive order issued pursuant to existing law."
+Pub. L. 102–394, title V, §501, Oct. 6, 1992, 106 Stat. 1825, provided that: "The expenditure of any appropriation under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -140,7 +140,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement wit
 
 (b) After the date of this order, no agency shall enter into a contingency fee agreement for legal or expert witness services addressed by section 1 of this order, unless the Attorney General has determined that the agency's entry into the agreement is required by law.
 
-(c) Within 90 days after the date of this order, the head of each agency shall notify the Attorney General and the Director of the Office of Management and Budget of any contingency fee agreements for services addressed by section 1 of this order that are in effect as of the date of this order.
+(c) Within 90 days after the date of this order, the head of each agency shall notify the Attorney General and the Director of the Office of Management and Budget of any contingency fee agreements for servicesaddressed by section 1 of this order that are in effect as of the date of this order.
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 

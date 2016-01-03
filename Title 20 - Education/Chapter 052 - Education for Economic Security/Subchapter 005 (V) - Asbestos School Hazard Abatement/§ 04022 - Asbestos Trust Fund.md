@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the "Asbestos Trust Fund", consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
+There is established in the Treasury of the United States a trust fund to be known as the"Asbestos Trust Fund", consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
 
 #### (b) Transfers to Trust Fund
 
@@ -26,7 +26,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Asbestos Trust Fund asis not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States and may be acquired—
+&emsp;&emsp;The Secretary of the Treasury shall invest such portion of the Asbestos Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States and may be acquired—
 
 &emsp;&emsp;&emsp;(i) on original issue at the issue price, or
 

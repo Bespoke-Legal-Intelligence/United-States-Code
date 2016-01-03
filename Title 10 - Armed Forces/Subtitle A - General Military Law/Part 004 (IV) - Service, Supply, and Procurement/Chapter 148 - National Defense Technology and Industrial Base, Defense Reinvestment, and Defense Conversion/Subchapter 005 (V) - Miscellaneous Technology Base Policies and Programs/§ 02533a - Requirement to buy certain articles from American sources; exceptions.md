@@ -24,7 +24,7 @@ Covered Items.—An item referred to in subsection (a) is any of the following:
 
 (c)
 
-Availability Exception.—Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
+Availability Exception.—Subsection (a) does not apply to the extent that the Secretaryof Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 
 (d)
 

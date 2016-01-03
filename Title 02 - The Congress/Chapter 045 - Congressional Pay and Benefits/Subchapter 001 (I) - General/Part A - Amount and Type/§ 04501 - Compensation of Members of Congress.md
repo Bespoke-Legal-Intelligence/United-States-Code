@@ -140,6 +140,8 @@ Payroll Administrator Defined.—In this section, the 'payroll administrator' of
 
 #### Cost of Living Adjustment
 
+Pub. L. 114–113, §9, Dec. 18, 2015, 129 Stat. 2245, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2016."
+
 Pub. L. 113–235, §8, Dec. 16, 2014, 128 Stat. 2133, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be "601(a)"\] of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2015."
 
 Pub. L. 113–46, div. A, §146, Oct. 17, 2013, 127 Stat. 565, provided that: "Notwithstanding any other provision of law, no adjustment shall be made under section 610(a) \[probably should be "601(a)"\] of the Legislative Reorganization Act of 1946 (2 U.S.C. 31) \[now 2 U.S.C. 4501\] (relating to cost of living adjustments for Members of Congress) during fiscal year 2014."
@@ -164,7 +166,7 @@ Severability.—If any provision of this Act \[enacting provisions set out as no
 
 #### Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983
 
-Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendaryear, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 #### Salary Increases
 

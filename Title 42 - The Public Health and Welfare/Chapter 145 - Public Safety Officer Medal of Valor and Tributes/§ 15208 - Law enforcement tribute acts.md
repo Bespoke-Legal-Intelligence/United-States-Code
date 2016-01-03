@@ -56,7 +56,7 @@ There are authorized to be appropriated to carry out this section $3,000,000 for
 
 #### Codification
 
-Section was enacted as the Law Enforcement Tribute Act, and also as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of the Public Safety Officer Medal of Valor Act of 2001 which comprises this chapter.
+Section was enacted as the Law Enforcement Tribute Act, and also as part of the 21st Century Department ofJustice Appropriations Authorization Act, and not as part of the Public Safety Officer Medal of Valor Act of 2001 which comprises this chapter.
 
 #### Amendments
 

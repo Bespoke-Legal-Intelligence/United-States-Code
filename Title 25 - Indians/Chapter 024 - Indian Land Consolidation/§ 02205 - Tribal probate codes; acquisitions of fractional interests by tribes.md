@@ -32,19 +32,19 @@
 
 &emsp;&emsp;&emsp;(ii) the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
 
-&emsp;&emsp;&emsp;(iii) payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
+&emsp;&emsp;&emsp;(iii) payment of fair market value in the manner prescribed under subsection (c)(2).
 
 #### (b) Secretarial approval
 
 #### (1) In general
 
-&emsp;Any tribal probate code enacted under subsection (a) of this section, and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
+&emsp;Any tribal probate code enacted under subsection (a), and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
 
 #### (2) Review and approval
 
 #### (A) In general
 
-&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) of this sectionshall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+&emsp;&emsp;Each Indian tribe that adopts a tribal probate code under subsection (a) shall submitthat code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
 
 #### (B) Consequence of failures to approve or disapprove a tribal probate code
 
@@ -80,7 +80,7 @@
 
 #### (A) Tribal probate codes
 
-&emsp;&emsp;Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+&emsp;&emsp;Each tribal probate code enacted under subsection (a) shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
 
 #### (B) Amendments to tribal probate codes
 
@@ -122,7 +122,7 @@
 
 #### (ii) Recording of interest
 
-&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall berecorded as part of the deed relating to the interest involved.
+&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
 
 #### (iii) Mortgage and foreclosure
 

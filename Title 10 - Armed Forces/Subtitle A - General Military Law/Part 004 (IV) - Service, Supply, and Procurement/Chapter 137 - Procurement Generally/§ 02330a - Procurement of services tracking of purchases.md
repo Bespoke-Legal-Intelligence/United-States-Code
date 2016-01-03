@@ -38,7 +38,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 Inventory.—(1) Not later than the end of the third quarter of each fiscal year, the Secretary of Defense shall submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf of the Department of Defense. The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:
 
-&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by theUnder Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
+&emsp;(A) The Under Secretary of Defense for Personnel and Readiness, as supported by the Under Secretary of Defense (Comptroller), shall be responsible for developing guidance for—
 
 &emsp;&emsp;(i) the collection of data regarding functions and missions performed by contractors in a manner that is comparable to the manpower data elements used in inventories of functions performed by Department of Defense employees;
 
@@ -112,7 +112,7 @@ Inspector General Report.—Not later than May 1 of each year, beginning with 20
 
 &emsp;(1) the efforts by the Department of Defense to compile the inventory pursuant to subsection (c); and
 
-&emsp;(2) the reviews conducted under subsection (e), including the actions taken to resolve the findings of the reviews in accordance with section 2463 of this title.
+&emsp;(2) the reviews conducted under subsection (e), including the actions taken to resolve thefindings of the reviews in accordance with section 2463 of this title.
 
 (h)
 
@@ -126,7 +126,7 @@ Rule of Construction.—Nothing in this section shall be construed to authorize 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use ofperformance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
+&emsp;(1) The term "performance-based", with respect to a contract, task order, or arrangement, means that the contract, task order, or arrangement, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.
 
 &emsp;(2) The definitions set forth in section 2225(f) of this title for the terms "simplified acquisition threshold", "small business concern", "small business concern owned and controlled by socially and economically disadvantaged individuals", and "small business concern owned and controlled by women" shall apply.
 

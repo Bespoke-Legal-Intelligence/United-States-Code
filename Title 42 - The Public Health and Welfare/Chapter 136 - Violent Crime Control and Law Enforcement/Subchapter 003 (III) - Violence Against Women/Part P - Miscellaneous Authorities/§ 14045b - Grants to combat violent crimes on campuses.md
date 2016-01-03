@@ -42,7 +42,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(9) To develop or adapt and provide developmental, culturally appropriate, and linguistically accessible print or electronic materials to address both prevention and intervention in domestic violence, dating violence, sexual violence, and stalking.
 
-&emsp;(10) To develop or adapt population specific strategies and projects for victims of domesticviolence, dating violence, sexual assault, and stalking from underserved populations on campus.
+&emsp;(10) To develop or adapt population specific strategies and projects for victims of domestic violence, dating violence, sexual assault, and stalking from underserved populations on campus.
 
 #### (c) Applications
 

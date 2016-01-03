@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) The charges against the alien and the statutory provisions alleged to have been violated.
 
-&emsp;&emsp;(E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) of this section and (ii) a current list of counsel prepared under subsection (b)(2) of this section.
+&emsp;&emsp;(E) The alien may be represented by counsel and the alien will be provided (i) a period of time to secure counsel under subsection (b)(1) and (ii) a current list of counsel prepared under subsection (b)(2).
 
 &emsp;&emsp;(F)(i) The requirement that the alien must immediately provide (or have provided) the Attorney General with a written record of an address and telephone number (if any) at which the alien may be contacted respecting proceedings under section 1229a of this title.
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alienor to the alien's counsel of record, if any) specifying—
+&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying—
 
 &emsp;&emsp;&emsp;(i) the new time or place of the proceedings, and
 
@@ -52,7 +52,7 @@
 
 #### (2) Current lists of counsel
 
-&emsp;The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under section 1229a of this title. Such lists shall be provided under subsection (a)(1)(E) of this section and otherwise made generally available.
+&emsp;The Attorney General shall provide for lists (updated not less often than quarterly) of persons who have indicated their availability to represent pro bono aliens in proceedings under section 1229a of this title. Such lists shall be provided under subsection (a)(1)(E) and otherwise made generally available.
 
 #### (3) Rule of construction
 
@@ -60,7 +60,7 @@
 
 #### (c) Service by mail
 
-Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F) of this section.
+Service by mail under this section shall be sufficient if there is proof of attempted delivery to the last address provided by the alien in accordance with subsection (a)(1)(F).
 
 #### (d) Prompt initiation of removal
 
@@ -104,5 +104,5 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

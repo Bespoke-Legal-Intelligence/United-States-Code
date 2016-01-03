@@ -4,7 +4,7 @@
 
 In General.—During war, or a national emergency declared by Presidential proclamation, a person may not, without the approval of the Secretary of Transportation—
 
-&emsp;(1) place under foreign registry a vessel owned in whole or in part by a citizen of the United States or a corporation incorporated under the laws of the United States or of a State;
+&emsp;(1) place under foreign registry a vessel owned in whole or in part by a citizen of theUnited States or a corporation incorporated under the laws of the United States or of a State;
 
 &emsp;(2) sell, mortgage, lease, charter, deliver, or in any other manner transfer, or agree to sell, mortgage, lease, charter, deliver, or in any other manner transfer, to a person not a citizen of the United States—
 

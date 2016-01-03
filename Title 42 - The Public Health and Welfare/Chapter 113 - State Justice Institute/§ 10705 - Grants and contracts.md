@@ -66,7 +66,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(8) to conduct studies of the causes of trial and appellate court delay in resolving cases, and to establish and evaluate experimental programs for reducing case processing time;
 
-&emsp;(9) to develop and test methods for measuring the performance of judges and courts and to conduct experiments in the use of such measures to improve the functioning of such judges and courts;
+&emsp;(9) to develop and test methods for measuring the performance of judges and courts andto conduct experiments in the use of such measures to improve the functioning of such judges and courts;
 
 &emsp;(10) to support studies of court rules and procedures, discovery devices, and evidentiary standards, to identify problems with the operation of such rules, procedures, devices, and standards, to devise alternative approaches to better reconcile the requirements of due process with the need for swift and certain justice, and to test the utility of those alternative approaches;
 

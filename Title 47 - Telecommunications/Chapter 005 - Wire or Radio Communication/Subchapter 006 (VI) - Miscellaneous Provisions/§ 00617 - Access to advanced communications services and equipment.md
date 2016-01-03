@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;With respect to services provided after the effective date of the regulations establishedpursuant to subsection (e), and subject to those regulations, a provider of advanced communications services shall ensure that such services offered by such provider in or affecting interstate commerce are accessible to and usable by individuals with disabilities, unless the requirements of this subsection are not achievable.
+&emsp;With respect to services provided after the effective date of the regulations established pursuant to subsection (e), and subject to those regulations, a provider of advanced communications services shall ensure that such services offered by such provider in or affecting interstate commerce are accessible to and usable by individuals with disabilities, unless the requirements of this subsection are not achievable.
 
 #### (2) Industry flexibility
 

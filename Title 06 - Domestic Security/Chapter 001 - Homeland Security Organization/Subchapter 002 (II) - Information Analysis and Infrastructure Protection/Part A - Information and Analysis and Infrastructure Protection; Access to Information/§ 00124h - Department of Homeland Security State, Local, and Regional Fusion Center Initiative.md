@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the program manager of the information sharing environment established under section 485 of this title, the Attorney General, the Privacy Officer of the Department, the Officer for Civil Rights and Civil Liberties of the Department, and the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, shall establish a Department of Homeland Security State, Local, and Regional Fusion Center Initiative to establish partnerships with State, local, and regional fusion centers.
+The Secretary, in consultation with the program manager of the information sharing environment established under section 485 of this title, the Attorney General, the Privacy Officerof the Department, the Officer for Civil Rights and Civil Liberties of the Department, and the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, shall establish a Department of Homeland Security State, Local, and Regional Fusion Center Initiative to establish partnerships with State, local, and regional fusion centers.
 
 #### (b) Department support and coordination
 
@@ -152,7 +152,7 @@ In order to fulfill the objectives described under subsection (d), each officer 
 
 #### (1) In general
 
-&emsp;The Secretary shall create a voluntary mechanism for any State, local, or tribal law enforcement officer or other emergency response provider who is a consumer of the intelligence or other information products referred to in subsection (d) to provide feedback to the Department on the quality and utility of such intelligence products.
+&emsp;The Secretary shall create a voluntary mechanism for any State, local, or tribal law enforcement officer or other emergency response provider who is a consumer of the intelligence or other information products referred to in subsection (d) to provide feedbackto the Department on the quality and utility of such intelligence products.
 
 #### (2) Report
 

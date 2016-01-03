@@ -18,7 +18,7 @@ Section 450jj–6 of this title, referred to in text, was in the original "secti
 
 #### Codification
 
-In introductory provisions, "sections 100903 and 102901 of title 54" substituted for "section 5 of the Act of July 15, 1968 (82 Stat. 356; 16 U.S.C. 460l–22)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In introductory provisions, "sections 100903 and 102901 of title 54" substituted for "section 5 of the Act of July15, 1968 (82 Stat. 356; 16 U.S.C. 460l–22)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Prior Provisions
 
